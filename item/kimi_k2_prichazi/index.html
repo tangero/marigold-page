@@ -3,7 +3,7 @@
   <head>
     <title>🇨🇳 Je Kimi K2 další čínský průlom v AI? | Marigold.cz - Sítě a Technologie</title>
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.3.4" />
+<meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="🇨🇳 Je Kimi K2 další čínský průlom v AI?" />
 <meta name="author" content="Patrick Zandl" />
 <meta property="og:locale" content="cs" />
@@ -27,6 +27,7 @@
 
     
     <meta property="og:description" content="Čína má být hony daleko za USA v AI, jenže vůbec. Na přelomu roku ten dojem rozbil DeepSeek, nyní přichází Kimi K2, který se jako open-source model má vyrovnat nejsilnějším americkým modelům. Použil na to několik chytrých triků…
+
 " />
     
     <meta name="author" content="Marigold.cz" />
@@ -76,7 +77,7 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
@@ -240,16 +241,16 @@
     <div class="post-tags">
       
       
-        <a href="//rubrika/#AI">AI</a>
+        <a href="/rubrika/#AI">AI</a>
         &nbsp;
       
-        <a href="//rubrika/#Moonshot AI">Moonshot AI</a>
+        <a href="/rubrika/#Moonshot AI">Moonshot AI</a>
         &nbsp;
       
-        <a href="//rubrika/#Kimi K2">Kimi K2</a>
+        <a href="/rubrika/#Kimi K2">Kimi K2</a>
         &nbsp;
       
-        <a href="//rubrika/#DeepSeek">DeepSeek</a>
+        <a href="/rubrika/#DeepSeek">DeepSeek</a>
         
       
     </div>
@@ -366,7 +367,7 @@
 
 <p>Čínský startup Moonshot AI vydal 11. července 2025 open-source model Kimi K2, který má představovat další milník v rozvoji čínských jazykových modelů. S bilionem celkových parametrů se jedná o dosud největší veřejně dostupný open-source model, který podle testů dosahuje výkonnosti srovnatelné s komerčními řešeními od OpenAI a Anthropic.</p>
 
-<p>Hlavní technologický průlom tkví v optimalizátoru MuonClip. Ten jako první umožnil stabilní trénování obřího modelu MoE (mixture-of-experts) na omezených čipech Nvidia H800 bez jediného výpadku. Výsledkem je křivka ztrát, kterou výzkumníci nazývají „nejkrásnější v historii strojového učení“ Pozn:<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>.</p>
+<p>Hlavní technologický průlom tkví v optimalizátoru MuonClip. Ten jako první umožnil stabilní trénování obřího modelu MoE (mixture-of-experts) na omezených čipech Nvidia H800 bez jediného výpadku. Výsledkem je křivka ztrát, kterou výzkumníci nazývají „nejkrásnější v historii strojového učení“ Pozn:<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
 
 <h3 id="technická-architektura-a-specifikace">Technická architektura a specifikace</h3>
 
@@ -415,7 +416,7 @@
   </tbody>
 </table>
 
-<p>Model přímo navazuje na open-source architekturu DeepSeek V3, kterou tým Moonshot upravil ve čtyřech klíčových bodech. Počet expertů zvýšili z původních 256 na 384 po zjištění, že scaling laws platí i pro řídkost <em>(sparsity)</em>. Současně snížili počet “hlav pozornosti” <em>(attention heads)</em> pro kompenzaci vyššího počtu expertů. Pouze první vrstvu ponechali jako hustou <em>(dense)</em>, zatímco všechny ostatní používají MoE pro maximalizaci efektivity. Všechny experty umístili do jedné skupiny namísto rozdělení do více skupin. Pozn:<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>.</p>
+<p>Model přímo navazuje na open-source architekturu DeepSeek V3, kterou tým Moonshot upravil ve čtyřech klíčových bodech. Počet expertů zvýšili z původních 256 na 384 po zjištění, že scaling laws platí i pro řídkost <em>(sparsity)</em>. Současně snížili počet “hlav pozornosti” <em>(attention heads)</em> pro kompenzaci vyššího počtu expertů. Pouze první vrstvu ponechali jako hustou <em>(dense)</em>, zatímco všechny ostatní používají MoE pro maximalizaci efektivity. Všechny experty umístili do jedné skupiny namísto rozdělení do více skupin. Pozn:<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
 
 <h3 id="průlom-v-optimalizaci-tréninku">Průlom v optimalizaci tréninku</h3>
 
@@ -513,10 +514,10 @@
 <p>V klasické architektuře transfomátorů (např. BERT, GPT-2) je běžné mít 12–96 attention heads, podle velikosti modelu.</p>
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
+    <li id="fn:1" role="doc-endnote">
       <p>Jde o velmi hladký, monotónně klesající graf, který zobrazuje, jak se chyba modelu (ztrátová funkce) během trénování neustále zmenšuje – bez výkyvů, stagnací či náhlých skoků. Taková dokonale pravidelná křivka je v praxi obřích jazykových modelů výjimečná; obvykle se grafy „kousají“ a trénink musí restartovat. Když se tohle nestane, působí to na výzkumníky esteticky a technicky – odtud ta nadsázka „nejkrásnější“. <em>(toto vysvětlení pro vás napsal Kimi K2 a vysvětlil mi, jak dát poznámku pod čarou v markdown formátování)</em> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2">
+    <li id="fn:2" role="doc-endnote">
       <p>Termín attention heads (česky „hlavy pozornosti“) pochází z mechanismu self-attention, který je klíčovou součástí architektury transofmátorů, na níž jsou postaveny dnešní jazykové modely jako Kimi K2, GPT nebo DeepSeek. Jedna attention head je samostatná výpočetní větev v mechanismu self-attention, která: <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
@@ -567,10 +568,10 @@
           
             <tr>
               <td>
-                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>
@@ -578,10 +579,10 @@
           
             <tr>
               <td>
-                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
                 <p class="excerpt">
                   
-                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
                   
                 </p>
               </td>

@@ -3,7 +3,7 @@
   <head>
     <title>Technologické zpravodajství | Marigold.cz - Sítě a Technologie</title>
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.3.4" />
+<meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Technologické zpravodajství" />
 <meta name="author" content="Patrick Zandl" />
 <meta property="og:locale" content="cs" />
@@ -13,11 +13,11 @@
 <meta property="og:url" content="https://www.marigold.cz/tech-news/" />
 <meta property="og:site_name" content="Marigold.cz" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2025-09-23T10:33:06+00:00" />
+<meta property="article:published_time" content="2025-09-23T11:44:20+00:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Technologické zpravodajství" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-09-23T10:33:06+00:00","datePublished":"2025-09-23T10:33:06+00:00","description":"Nejnovější zprávy ze světa technologií přeložené do češtiny","headline":"Technologické zpravodajství","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/"},"url":"https://www.marigold.cz/tech-news/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-09-23T11:44:20+00:00","datePublished":"2025-09-23T11:44:20+00:00","description":"Nejnovější zprávy ze světa technologií přeložené do češtiny","headline":"Technologické zpravodajství","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/"},"url":"https://www.marigold.cz/tech-news/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -27,6 +27,7 @@
 
     
     <meta property="og:description" content="Automaticky aktualizované technologické zprávy ze světových zdrojů jako TechCrunch, The Verge, Wired a dalších.
+
 " />
     
     <meta name="author" content="Marigold.cz" />
@@ -74,7 +75,7 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
@@ -97,33 +98,48 @@
     <p class="tech-news-description">Nejnovější zprávy ze světa technologií přeložené do češtiny</p>
   </header>
 
-  <!-- Kategorie filtry -->
+  <!-- Filtry -->
   <div class="tech-news-filters">
-    <button class="filter-btn active" data-category="all">🌟 Vše</button>
-    <button class="filter-btn" data-category="ai">🤖 AI & ML</button>
-    <button class="filter-btn" data-category="programming">💻 Programování</button>
-    <button class="filter-btn" data-category="hardware">🖥️ Hardware</button>
-    <button class="filter-btn" data-category="startup">🚀 Startupy</button>
-    <button class="filter-btn" data-category="security">🔒 Bezpečnost</button>
-    <button class="filter-btn" data-category="mobile">📱 Mobilní</button>
-    <button class="filter-btn" data-category="web">🌐 Web</button>
-    <button class="filter-btn" data-category="gaming">🎮 Hry</button>
-    <button class="filter-btn" data-category="crypto">₿ Krypto</button>
-    <button class="filter-btn" data-category="science">🔬 Věda</button>
+    <!-- Obecné filtry -->
+    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
+
+    <!-- Filtry podle důležitosti -->
+    <div class="filter-separator">Důležitost:</div>
+    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
+    <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
+
+    <!-- Filtry podle kategorií -->
+    <div class="filter-separator">Kategorie:</div>
+    <button class="filter-btn" data-filter="ai" data-type="category">🤖 AI & ML</button>
+    <button class="filter-btn" data-filter="programming" data-type="category">💻 Programování</button>
+    <button class="filter-btn" data-filter="hardware" data-type="category">🖥️ Hardware</button>
+    <button class="filter-btn" data-filter="startups" data-type="category">🚀 Startupy</button>
+    <button class="filter-btn" data-filter="security" data-type="category">🔒 Bezpečnost</button>
+    <button class="filter-btn" data-filter="mobile" data-type="category">📱 Mobilní</button>
+    <button class="filter-btn" data-filter="web" data-type="category">🌐 Web</button>
+    <button class="filter-btn" data-filter="gaming" data-type="category">🎮 Hry</button>
+    <button class="filter-btn" data-filter="crypto" data-type="category">₿ Krypto</button>
+    <button class="filter-btn" data-filter="science" data-type="category">🔬 Věda</button>
   </div>
 
   <!-- Seznam zpráv -->
   <div class="tech-news-grid">
     
     
-    <article class="tech-news-card" data-category="">
+    
+    <article class="tech-news-card" data-category="" data-importance="">
       <div class="tech-news-meta">
         <span class="tech-news-emoji"></span>
         <div class="tech-news-info">
           <span class="tech-news-source"></span>
-          <time class="tech-news-date" datetime="2025-09-23T10:33:06+00:00">
-            23.09.2025 10:33
+          <time class="tech-news-date" datetime="2025-09-23T11:44:20+00:00">
+            23.09.2025 11:44
           </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
         </div>
       </div>
 
@@ -148,34 +164,886 @@
       </div>
     </article>
     
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🔧 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Wired</span>
+          <time class="tech-news-date" datetime="2025-09-22T10:20:36+00:00">
+            22.09.2025 10:20
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://media.wired.com/photos/68cdd8f38d1a21361c238998/191:100/w_1280,c_limit/politics_silicon_valley_livestream.jpg" alt="Livestream: Technologický průmysl vsadil vše na Trumpa. Co teď?" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/livestream-technologick%C3%BD-pr%C5%AFmysl-vsadil-v%C5%A1e-na-tru/">Livestream: Technologický průmysl vsadil vše na Trumpa. Co teď?</a>
+        </h2>
+
+        <p class="tech-news-description">Naše skupina expertů diskutuje o tom, co skutečně znamená spojenectví technologického průmyslu s Trumpem a jak to ovlivní naši budoucnost.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Wired
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="science" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🔧 🔬</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Wired</span>
+          <time class="tech-news-date" datetime="2025-09-22T10:00:00+00:00">
+            22.09.2025 10:00
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://media.wired.com/photos/68c499b858eb1c1a3271dc6d/191:100/w_1280,c_limit/Elon-Space-main.jpg" alt="Elon Musk si chce podmanit vesmír. Dokáže ho někdo zastavit?" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/elon-musk-si-chce-podmanit-vesm%C3%ADr-dok%C3%A1%C5%BEe-ho-n%C4%9Bkdo/">Elon Musk si chce podmanit vesmír. Dokáže ho někdo zastavit?</a>
+        </h2>
+
+        <p class="tech-news-description">Se SpaceX a Starlinkem Elon Musk kontroluje více než polovinu světových raketových startů a tisíce internetových satelitů. To představuje obrovskou geopolitickou moc.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.wired.com/story/elon-musk-emperor-of-space/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Wired
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Věda a výzkum</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🔧 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Wired</span>
+          <time class="tech-news-date" datetime="2025-09-22T10:00:00+00:00">
+            22.09.2025 10:00
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://media.wired.com/photos/68cae3b36181904ffe3fc4bc/191:100/w_1280,c_limit/158022.jpg" alt="Myslel jsem, že znám Silicon Valley. Mýlil jsem se." loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/myslel-jsem-%C5%BEe-zn%C3%A1m-silicon-valley-m%C3%BDlil-jsem-se/">Myslel jsem, že znám Silicon Valley. Mýlil jsem se.</a>
+        </h2>
+
+        <p class="tech-news-description">Technologický sektor získal to, co chtěl, zvolením Trumpa. O rok později to vypadá spíš jako sebevražedný pakt.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.wired.com/story/silicon-valley-politics-shift/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Wired
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🔧 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Wired</span>
+          <time class="tech-news-date" datetime="2025-09-22T10:00:00+00:00">
+            22.09.2025 10:00
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://media.wired.com/photos/68c9e97f49491912ce1e731f/191:100/w_1280,c_limit/business_military_industrial_aesthetic.jpg" alt="Palantir chce být lifestylovou značkou" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/palantir-chce-b%C3%BDt-lifestylovou-zna%C4%8Dkou/">Palantir chce být lifestylovou značkou</a>
+        </h2>
+
+        <p class="tech-news-description">Obranný technologický gigant Palantir prodává trička a tašky, aby tak povzbudil své fanoušky k veřejné podpoře společnosti.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.wired.com/story/palantir-wants-to-be-a-lifestyle-brand/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Wired
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🔧 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Wired</span>
+          <time class="tech-news-date" datetime="2025-09-22T10:00:00+00:00">
+            22.09.2025 10:00
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://media.wired.com/photos/68d071422e45e6b505ae01b8/191:100/w_1280,c_limit/Simple_NEW.jpg" alt="Titulní strana politického vydání časopisu WIRED míří do vašeho města" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/tituln%C3%AD-strana-politick%C3%A9ho-vyd%C3%A1n%C3%AD-%C4%8Dasopisu-wired-m/">Titulní strana politického vydání časopisu WIRED míří do vašeho města</a>
+        </h2>
+
+        <p class="tech-news-description">Naše poslední titulní stránky proměňujeme na plakáty, billboardy a dokonce i mural v New Yorku, Los Angeles, Austinu, San Franciscu a Washingtonu, DC. Zde je návod, jak je najít. (Důkaz, nebo se to nestalo.)</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.wired.com/story/wired-politics-cover-search/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Wired
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">⚡ 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">The Verge</span>
+          <time class="tech-news-date" datetime="2025-09-22T09:10:00+00:00">
+            22.09.2025 09:10
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Windows 11 získává funkci video wallpaper" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/windows-11-z%C3%ADsk%C3%A1v%C3%A1-funkci-video-wallpaper/">Windows 11 získává funkci video wallpaper</a>
+        </h2>
+
+        <p class="tech-news-description">Microsoft začal testovat možnost používání video tapet ve Windows 11. Tato funkce byla spatřena v nejnovějších sestaveních Windows 11 a umožňuje nastavit si video soubory jako MP4 nebo MKV jako tapetu na ploše. Videa se přehrávají pokaždé…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na The Verge
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🔧 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Wired</span>
+          <time class="tech-news-date" datetime="2025-09-22T06:00:00+00:00">
+            22.09.2025 06:00
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://media.wired.com/photos/68cc38742f579b2151ce2616/191:100/w_1280,c_limit/jaguar-hack-sec-1953409218.jpg" alt="Kybernetický útok na Jaguar Land Rover způsobuje katastrofu v dodavatelském řetězci" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/kybernetick%C3%BD-%C3%BAtok-na-jaguar-land-rover-zp%C5%AFsobuje-k/">Kybernetický útok na Jaguar Land Rover způsobuje katastrofu v dodavatelském řetězci</a>
+        </h2>
+
+        <p class="tech-news-description">Britský výrobce automobilů byl nucen zastavit výrobu vozů v důsledku útoku – což společnost JLR přišlo o desítky milionů dolarů a donutilo její dodavatele dílů propustit pracovníky.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Wired
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="startups" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🚀 🚀</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">TechCrunch</span>
+          <time class="tech-news-date" datetime="2025-09-22T06:00:00+00:00">
+            22.09.2025 06:00
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://techcrunch.com/wp-content/uploads/2025/09/tide-app.jpg?resize=1200,800" alt="Pod taktovkou indických malých podniků se britský fintechový startup Tide stal jednotorožcem podporovaným investiční společností TPG." loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/pod-taktovkou-indick%C3%BDch-mal%C3%BDch-podnik%C5%AF-se-britsk%C3%BD/">Pod taktovkou indických malých podniků se britský fintechový startup Tide stal jednotorožcem podporovaným investiční společností TPG.</a>
+        </h2>
+
+        <p class="tech-news-description">Tide poskytuje služby více než 1,6 milionu mikropodniků a malých podniků po celém světě, přičemž více než polovina z nich sídlí v Indii.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na TechCrunch
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Startupy</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">💻 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Hacker News</span>
+          <time class="tech-news-date" datetime="2025-09-22T05:56:20+00:00">
+            22.09.2025 05:56
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="None" alt="Show HN: Vytvořil jsem blokátor webových stránek s dynamickým timeoutem, který skutečně funguje" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/show-hn-vytvo%C5%99il-jsem-blok%C3%A1tor-webov%C3%BDch-str%C3%A1nek-s/">Show HN: Vytvořil jsem blokátor webových stránek s dynamickým timeoutem, který skutečně funguje</a>
+        </h2>
+
+        <p class="tech-news-description">Stejně jako mnozí z nás se potýkám s udržením pozornosti a vyhýbáním se rozptýlení při prohlížení webu. Vyzkoušel jsem všechny dostupné blokovače stránek – Blocksite, Freedom, prostě všechny. Většina těchto nástrojů selhala z jednoho ze dvou důvodů: byly příliš striktní, takže jsem je…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://news.ycombinator.com/item?id=45329540" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Hacker News
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">💻 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Hacker News</span>
+          <time class="tech-news-date" datetime="2025-09-22T01:21:11+00:00">
+            22.09.2025 01:21
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="None" alt="Show HN: Vzdělávací AI, která u každé odpovědi zobrazuje skóre spolehlivosti zdroje" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/show-hn-vzd%C4%9Bl%C3%A1vac%C3%AD-ai-kter%C3%A1-u-ka%C5%BEd%C3%A9-odpov%C4%9Bdi-zobra/">Show HN: Vzdělávací AI, která u každé odpovědi zobrazuje skóre spolehlivosti zdroje</a>
+        </h2>
+
+        <p class="tech-news-description">Vytvořil jsem CERAH AI, aby řešil problém důvěry v obsahu generovaném umělou inteligencí pro vzdělávání. Na rozdíl od standardních AI nástrojů, které poskytují odpovědi bez kontextu, CERAH ukazuje přesně to, které zdroje informují každou odpověď, a počítá skóre spolehlivosti na základě kvality zdrojů…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://news.ycombinator.com/item?id=45328220" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Hacker News
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🚀 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">TechCrunch</span>
+          <time class="tech-news-date" datetime="2025-09-21T22:24:13+00:00">
+            21.09.2025 22:24
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://techcrunch.com/wp-content/uploads/2015/09/3760269531_27c5bce800_b.jpg?w=1024" alt="Venture kapitálové firmy stále najímají absolventy MBA, ale společnosti začínají více potřebovat jiné zkušenosti | TechCrunch" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/venture-kapit%C3%A1lov%C3%A9-firmy-st%C3%A1le-naj%C3%ADmaj%C3%AD-absolventy/">Venture kapitálové firmy stále najímají absolventy MBA, ale společnosti začínají více potřebovat jiné zkušenosti | TechCrunch</a>
+        </h2>
+
+        <p class="tech-news-description">Přechod z MBA do venture kapitálu zůstává velmi reálným jevem. Podle reportáže PitchBooku a nového akademického výzkumu je však tato cesta o něco nejistější než v minulosti.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na TechCrunch
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">⚡ 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">The Verge</span>
+          <time class="tech-news-date" datetime="2025-09-21T20:49:50+00:00">
+            21.09.2025 20:49
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Skládací iPhone by mohl vypadat jako dva iPhone Airy spojené dohromady." loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/skl%C3%A1dac%C3%AD-iphone-by-mohl-vypadat-jako-dva-iphone-ai/">Skládací iPhone by mohl vypadat jako dva iPhone Airy spojené dohromady.</a>
+        </h2>
+
+        <p class="tech-news-description">Ačkoli se zdá být předem jasné, že složený iPhone bude existovat, pravděpodobně koncem příštího roku, neobjevilo se mnoho informací o tom, jak by mohl vypadat. V nejnovějším díle svého newsletteru Power On Mark Gurman uvádí, že se doslechl, že…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na The Verge
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🚀 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">TechCrunch</span>
+          <time class="tech-news-date" datetime="2025-09-21T19:43:34+00:00">
+            21.09.2025 19:43
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2193244774.jpg?w=1024" alt="Trump říká, že Lachlan a Rupert Murdochovi by mohli investovat do dohody o TikToku" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/trump-%C5%99%C3%ADk%C3%A1-%C5%BEe-lachlan-a-rupert-murdochovi-by-mohli/">Trump říká, že Lachlan a Rupert Murdochovi by mohli investovat do dohody o TikToku</a>
+        </h2>
+
+        <p class="tech-news-description">Administrace Donalda Trumpa o víkendu propagovala potenciální dohodu o TikToku, přičemž prezident Trump v neděli stanici Fox News řekl, že Rupert Murdoch a jeho syn Lachlan se jí „pravděpodobně“ zúčastní.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na TechCrunch
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🚀 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">TechCrunch</span>
+          <time class="tech-news-date" datetime="2025-09-21T19:24:07+00:00">
+            21.09.2025 19:24
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg?resize=1200,800" alt="Silicon Valley vsází velké částky na ‚prostředí‘ pro trénování AI agentů | TechCrunch" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/silicon-valley-vs%C3%A1z%C3%AD-velk%C3%A9-%C4%8D%C3%A1stky-na-prost%C5%99ed%C3%AD-pro/">Silicon Valley vsází velké částky na ‚prostředí‘ pro trénování AI agentů | TechCrunch</a>
+        </h2>
+
+        <p class="tech-news-description">Vlna startupů vytváří RL prostředí, která pomáhají AI laboratořím trénovat agenty. Může to být další šílenství Silicon Valley v procesu vzniku.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na TechCrunch
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">💻 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">Hacker News</span>
+          <time class="tech-news-date" datetime="2025-09-21T18:54:53+00:00">
+            21.09.2025 18:54
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="None" alt="Show HN: Terminálová kalkulačka v čistém C – Matlab ve vašem CLI" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/show-hn-termin%C3%A1lov%C3%A1-kalkula%C4%8Dka-v-%C4%8Dist%C3%A9m-c-matlab-v/">Show HN: Terminálová kalkulačka v čistém C – Matlab ve vašem CLI</a>
+        </h2>
+
+        <p class="tech-news-description">Plně vybavený vědecký kalkulátor s maticemi, proměnnými a více než 50 funkcemi. Žádné závislosti. `gcc -o calculator calculator.c -lm -Wall -O2` Repozitář: https://github.com/DenisDolya/cli-arsenal/tree/main/calculat... Ideální pro matematiku, inženýrství a nadšence do CLI.
+
+Com…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://news.ycombinator.com/item?id=45325580" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na Hacker News
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">⚡ 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">The Verge</span>
+          <time class="tech-news-date" datetime="2025-09-21T18:20:44+00:00">
+            21.09.2025 18:20
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/091525_MacBook_Air_15_M4_macOS_Tahoe_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Zvěsti o MacBooku s dotykovou obrazovkou nikdy nekončí." loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/zv%C4%9Bsti-o-macbooku-s-dotykovou-obrazovkou-nikdy-nek/">Zvěsti o MacBooku s dotykovou obrazovkou nikdy nekončí.</a>
+        </h2>
+
+        <p class="tech-news-description">Analytik Ming-Chi Kuo ve středu na platformě X uvedl, že se očekává, že MacBook Pro s OLED dotykovým displejem vstoupí do hromadné výroby koncem roku 2026. Dnes na to navazuje Mark Gurman z Bloombergu a připomíná, že sám již dříve informoval o dotykovém MacBooku Pro…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na The Verge
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="gaming" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">⚡ 🎮</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">The Verge</span>
+          <time class="tech-news-date" datetime="2025-09-21T16:27:11+00:00">
+            21.09.2025 16:27
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Digital_Paper_CLP_08_Full_bleed_1920x840_D_4.jpg?quality=90&strip=all&crop=8.21875,0,83.5625,100" alt="Montblanc se pouští do digitálních poznámkových bloků." loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/montblanc-se-pou%C5%A1t%C3%AD-do-digit%C3%A1ln%C3%ADch-pozn%C3%A1mkov%C3%BDch-bl/">Montblanc se pouští do digitálních poznámkových bloků.</a>
+        </h2>
+
+        <p class="tech-news-description">Pokud jste typ člověka, který vlastní kožené řidičské rukavice v několika barvách, aby sladil s různými jaguáry, pak dosud neexistovala digitální papírová alternativa, která by dostála vašim vysokým luxusním standardům. Ale Montblanc konečně přináší t…</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na The Verge
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Hry</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🚀 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">TechCrunch</span>
+          <time class="tech-news-date" datetime="2025-09-21T16:02:42+00:00">
+            21.09.2025 16:02
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2231033749.jpg?resize=1200,800" alt="TechCrunch Mobility: Dva klíčové bojiště pro robotaxi | TechCrunch" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/techcrunch-mobility-dva-kl%C3%AD%C4%8Dov%C3%A9-boji%C5%A1t%C4%9B-pro-robota/">TechCrunch Mobility: Dva klíčové bojiště pro robotaxi | TechCrunch</a>
+        </h2>
+
+        <p class="tech-news-description">TechCrunch Mobility: Dvě klíčová bojiště pro robotaxi | TechCrunchtechcrunch.com</p>
+
+        <div class="tech-news-actions">
+          <a href="https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na TechCrunch
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="ai & ml" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">🚀 🤖</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">TechCrunch</span>
+          <time class="tech-news-date" datetime="2025-09-21T15:04:33+00:00">
+            21.09.2025 15:04
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2235873725.jpg?w=1024" alt="Stovky letů zpožděných na Heathrow a dalších letištích po zjevném kyberútoku | TechCrunch" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/stovky-let%C5%AF-zpo%C5%BEd%C4%9Bn%C3%BDch-na-heathrow-a-dal%C5%A1%C3%ADch-leti%C5%A1/">Stovky letů zpožděných na Heathrow a dalších letištích po zjevném kyberútoku | TechCrunch</a>
+        </h2>
+
+        <p class="tech-news-description">Cestující na velkých evropských letištích včetně Heathrow, Bruselu a Berlína čelili o víkendu výrazným zpožděním poté, co společnost Collins Aerospace oznámila, že se jednalo o „kybernetický incident“.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://techcrunch.com/2025/09/21/hundreds-of-flights-delayed-at-heathrow-and-other-airports-after-apparent-cyberattack/" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na TechCrunch
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Umělá inteligence</span>
+        </div>
+      </div>
+    </article>
+    
+    <article class="tech-news-card" data-category="web" data-importance="">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">⚡ 🌐</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">The Verge</span>
+          <time class="tech-news-date" datetime="2025-09-21T14:17:18+00:00">
+            21.09.2025 14:17
+          </time>
+        </div>
+        <div class="importance-indicator" style="background-color: ; color: ;">
+          <span class="importance-emoji"></span>
+          <span class="importance-text"></span>
+        </div>
+      </div>
+
+      
+      <div class="tech-news-image">
+        <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Trumpův poplatek za víza H-1B není jen o imigraci, je o loajalitě." loading="lazy" onerror="this.style.display='none';">
+      </div>
+      
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="/tech-news/trump%C5%AFv-poplatek-za-v%C3%ADza-h-1b-nen%C3%AD-jen-o-imigraci/">Trumpův poplatek za víza H-1B není jen o imigraci, je o loajalitě.</a>
+        </h2>
+
+        <p class="tech-news-description">Donald Trump nikdy netajil svůj odpor k imigrantům. Bylo to úhelným kamenem jeho politického hnutí od chvíle, kdy 16. června 2015 sestoupil z eskalátoru a začal směrem k Mexiku a mexickým Američanům… chrlit rasistickou zášť.</p>
+
+        <div class="tech-news-actions">
+          <a href="https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na The Verge
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">Web</span>
+        </div>
+      </div>
+    </article>
+    
   </div>
 
   
 </div>
 
 <script>
-// Filtrování podle kategorií
+// Filtrování podle kategorií a důležitosti
 document.addEventListener('DOMContentLoaded', function() {
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 
+  // Aktualizovat počty článků v tlačítkách
+  function updateCounts() {
+    filterBtns.forEach(btn => {
+      const filter = btn.dataset.filter;
+      const type = btn.dataset.type;
+      let count = 0;
+
+      if (filter === 'all') {
+        count = newsCards.length;
+      } else {
+        newsCards.forEach(card => {
+          if (type === 'category' && card.dataset.category === filter) {
+            count++;
+          } else if (type === 'importance' && card.dataset.importance === filter) {
+            count++;
+          }
+        });
+      }
+
+      // Aktualizovat text tlačítka
+      const originalText = btn.textContent.split(' (')[0];
+      btn.textContent = `${originalText} (${count})`;
+
+      // Skrýt tlačítka bez článků
+      if (count === 0 && filter !== 'all') {
+        btn.style.display = 'none';
+      } else {
+        btn.style.display = 'inline-block';
+      }
+    });
+  }
+
+  // Spustit při načtení
+  updateCounts();
+
   filterBtns.forEach(btn => {
     btn.addEventListener('click', function() {
-      const category = this.dataset.category;
+      const filter = this.dataset.filter;
+      const type = this.dataset.type;
 
-      // Aktualizovat aktivní tlačítko
+      // Aktualizovat aktivní tlačítko (pouze jedno může být aktivní)
       filterBtns.forEach(b => b.classList.remove('active'));
       this.classList.add('active');
 
       // Filtrovat zprávy
+      let visibleCount = 0;
       newsCards.forEach(card => {
-        if (category === 'all' || card.dataset.category === category) {
+        let shouldShow = false;
+
+        if (filter === 'all') {
+          shouldShow = true;
+        } else if (type === 'category' && card.dataset.category === filter) {
+          shouldShow = true;
+        } else if (type === 'importance' && card.dataset.importance === filter) {
+          shouldShow = true;
+        }
+
+        if (shouldShow) {
           card.style.display = 'block';
           card.style.animation = 'fadeIn 0.3s ease-in';
+          visibleCount++;
         } else {
           card.style.display = 'none';
         }
       });
+
+      console.log(`Filtered to ${type}: ${filter}, showing ${visibleCount} articles`);
     });
   });
 });
@@ -240,9 +1108,18 @@ document.addEventListener('DOMContentLoaded', function() {
   box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
 }
 
+.filter-separator {
+  font-weight: 600;
+  color: #4a5568;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.9rem;
+  flex-basis: 100%;
+  text-align: left;
+}
+
 .tech-news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
@@ -264,9 +1141,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 .tech-news-meta {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.75rem;
   padding: 1rem 1rem 0.5rem;
+  position: relative;
 }
 
 .tech-news-emoji {
@@ -289,6 +1167,53 @@ document.addEventListener('DOMContentLoaded', function() {
 .tech-news-date {
   color: #718096;
   font-size: 0.8rem;
+}
+
+.importance-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: auto;
+  white-space: nowrap;
+  border: 1px solid currentColor;
+  opacity: 0.9;
+}
+
+.importance-emoji {
+  font-size: 0.9em;
+}
+
+.importance-text {
+  font-size: 0.7em;
+}
+
+/* Specifické styly pro různé úrovně důležitosti */
+.tech-news-card[data-importance="5"] {
+  border-left: 4px solid #dc2626;
+  box-shadow: 0 4px 6px rgba(220, 38, 38, 0.1);
+}
+
+.tech-news-card[data-importance="4"] {
+  border-left: 4px solid #ea580c;
+  box-shadow: 0 4px 6px rgba(234, 88, 12, 0.1);
+}
+
+.tech-news-card[data-importance="3"] {
+  border-left: 4px solid #2563eb;
+}
+
+.tech-news-card[data-importance="2"] {
+  border-left: 4px solid #059669;
+}
+
+.tech-news-card[data-importance="1"] {
+  border-left: 4px solid #6b7280;
 }
 
 .tech-news-image {
@@ -382,6 +1307,13 @@ document.addEventListener('DOMContentLoaded', function() {
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 1024px) {
+  .tech-news-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
 }
 
 @media (max-width: 768px) {

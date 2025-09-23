@@ -26,12 +26,21 @@ SOURCE_EMOJIS = {
     'reddit-r-technology': '👽'
 }
 
+# Mapování důležitosti na emoji a názvy
+IMPORTANCE_LEVELS = {
+    5: {'emoji': '🔥', 'name': 'KRITICKÁ', 'color': '#dc2626', 'bg_color': '#fef2f2'},
+    4: {'emoji': '⚡', 'name': 'VYSOKÁ', 'color': '#ea580c', 'bg_color': '#fff7ed'},
+    3: {'emoji': '📢', 'name': 'STŘEDNÍ', 'color': '#2563eb', 'bg_color': '#eff6ff'},
+    2: {'emoji': '📝', 'name': 'NÍZKÁ', 'color': '#059669', 'bg_color': '#ecfdf5'},
+    1: {'emoji': '💬', 'name': 'INFO', 'color': '#6b7280', 'bg_color': '#f9fafb'}
+}
+
 # Kategorie technologických zpráv
 TECH_CATEGORIES = {
     'ai': {'emoji': '🤖', 'name': 'AI & ML', 'cs_name': 'Umělá inteligence'},
     'programming': {'emoji': '💻', 'name': 'Programming', 'cs_name': 'Programování'},
     'hardware': {'emoji': '🖥️', 'name': 'Hardware', 'cs_name': 'Hardware'},
-    'startup': {'emoji': '🚀', 'name': 'Startups', 'cs_name': 'Startupy'},
+    'startups': {'emoji': '🚀', 'name': 'Startups', 'cs_name': 'Startupy'},
     'security': {'emoji': '🔒', 'name': 'Security', 'cs_name': 'Bezpečnost'},
     'mobile': {'emoji': '📱', 'name': 'Mobile', 'cs_name': 'Mobilní'},
     'web': {'emoji': '🌐', 'name': 'Web', 'cs_name': 'Web'},
@@ -61,16 +70,63 @@ def detect_category(title, description):
     text = f"{title} {description}".lower()
 
     category_keywords = {
-        'ai': ['ai', 'artificial intelligence', 'machine learning', 'ml', 'neural', 'gpt', 'chatgpt', 'openai', 'anthropic', 'llm', 'deep learning'],
-        'programming': ['javascript', 'python', 'rust', 'golang', 'typescript', 'react', 'vue', 'angular', 'framework', 'library', 'code', 'developer', 'programming'],
-        'hardware': ['cpu', 'gpu', 'processor', 'intel', 'amd', 'nvidia', 'chip', 'semiconductor', 'hardware', 'motherboard', 'ram'],
-        'startup': ['startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo', 'acquisition', 'founder', 'entrepreneur'],
-        'security': ['security', 'hack', 'breach', 'vulnerability', 'cyber', 'password', 'encryption', 'privacy', 'malware', 'ransomware'],
-        'mobile': ['android', 'ios', 'iphone', 'smartphone', 'mobile', 'app store', 'google play', 'samsung', 'apple'],
-        'web': ['web', 'browser', 'chrome', 'firefox', 'safari', 'html', 'css', 'frontend', 'backend', 'fullstack'],
-        'gaming': ['gaming', 'game', 'playstation', 'xbox', 'nintendo', 'steam', 'epic', 'esports', 'console'],
-        'crypto': ['crypto', 'bitcoin', 'ethereum', 'blockchain', 'nft', 'defi', 'web3', 'mining', 'wallet'],
-        'science': ['quantum', 'space', 'nasa', 'research', 'discovery', 'experiment', 'study', 'scientific', 'physics']
+        'ai': [
+            # Základní AI termíny
+            'ai', 'artificial intelligence', 'machine learning', 'ml', 'neural', 'deep learning', 'llm', 'nlp',
+            # Konkrétní modely a firmy (podle marigold.cz obsahu)
+            'gpt', 'chatgpt', 'openai', 'anthropic', 'claude', 'gemini', 'mistral', 'deepseek', 'llama', 'grok',
+            # AI aplikace
+            'reasoning', 'agents', 'automation', 'computer vision', 'robotics', 'humanoid'
+        ],
+        'programming': [
+            # Jazyky a technologie
+            'javascript', 'python', 'rust', 'golang', 'typescript', 'java', 'react', 'vue', 'angular',
+            # Vývojové nástroje (podle obsahu blogu)
+            'framework', 'library', 'code', 'developer', 'programming', 'github', 'cursor', 'copilot',
+            'open-source', 'api', 'software development'
+        ],
+        'hardware': [
+            # Procesory a komponenty
+            'cpu', 'gpu', 'processor', 'intel', 'amd', 'nvidia', 'chip', 'semiconductor', 'arm', 'quantum computing',
+            # Automotive (silná kategorie na blogu)
+            'automotive', 'electric vehicle', 'ev', 'tesla', 'autonomous driving', 'lidar'
+        ],
+        'startups': [
+            # Startup ekosystém
+            'startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo', 'acquisition', 'founder', 'entrepreneur',
+            'crowdfunding', 'kickstarter', 'series a', 'series b', 'exit', 'valuation'
+        ],
+        'security': [
+            # Bezpečnost a soukromí
+            'security', 'hack', 'breach', 'vulnerability', 'cyber', 'password', 'encryption', 'privacy',
+            'malware', 'ransomware', 'phishing', 'data protection', 'gdpr', 'surveillance'
+        ],
+        'mobile': [
+            # Mobilní technologie (specialita blogu)
+            'android', 'ios', 'iphone', 'smartphone', 'mobile', 'app store', 'google play', 'samsung', 'apple',
+            # Mobilní sítě (časté téma)
+            '5g', '4g', 'lte', 'cellular', 'carrier', 'telecom', 'spectrum', 'antenna'
+        ],
+        'web': [
+            # Web technologie
+            'web', 'browser', 'chrome', 'firefox', 'safari', 'html', 'css', 'frontend', 'backend',
+            'internet', 'website', 'domain', 'hosting', 'cdn', 'apis', 'cloud'
+        ],
+        'gaming': [
+            # Gaming a zábava
+            'gaming', 'game', 'playstation', 'xbox', 'nintendo', 'steam', 'epic', 'esports', 'console',
+            'vr', 'ar', 'metaverse', 'virtual reality', 'augmented reality'
+        ],
+        'crypto': [
+            # Kryptoměny a blockchain
+            'crypto', 'bitcoin', 'ethereum', 'blockchain', 'nft', 'defi', 'web3', 'mining', 'wallet',
+            'stablecoin', 'altcoin', 'dao', 'smart contract'
+        ],
+        'science': [
+            # Věda a výzkum
+            'quantum', 'space', 'nasa', 'research', 'discovery', 'experiment', 'study', 'scientific', 'physics',
+            'spacex', 'satellite', 'mars', 'climate', 'energy', 'renewable', 'nuclear'
+        ]
     }
 
     for category, keywords in category_keywords.items():
@@ -78,6 +134,81 @@ def detect_category(title, description):
             return category
 
     return 'web'  # Default kategorie
+
+def detect_importance(title, description, category):
+    """Detekuje důležitost článku na škále 1-5"""
+    text = f"{title} {description}".lower()
+
+    # Kritická důležitost (5) - průlomy, velké akvizice, bezpečnostní incidenty
+    critical_keywords = [
+        # Zásadní události
+        'breakthrough', 'major', 'massive', 'revolutionary', 'groundbreaking', 'historic',
+        'billion', 'acquisition', 'merger', 'ipo', 'goes public', 'bankrupt', 'shutdown', 'discontinued',
+        # Bezpečnostní incidenty
+        'hack', 'data breach', 'vulnerability', 'cyber attack', 'ransomware attack',
+        # AI průlomy (podle obsahu blogu)
+        'quantum computing', 'artificial general intelligence', 'agi', 'superintelligence',
+        'reasoning breakthrough', 'autonomous', 'humanoid robot'
+    ]
+
+    # Vysoká důležitost (4) - významné novinky
+    high_keywords = [
+        # Nové produkty a verze
+        'new', 'first', 'latest', 'update', 'release', 'version', 'launches', 'announces', 'reveals',
+        # Byznys
+        'investment', 'funding', 'partnership', 'deal', 'series a', 'series b', 'unicorn',
+        # Klíčové firmy (podle četnosti na blogu)
+        'apple', 'google', 'microsoft', 'meta', 'tesla', 'nvidia', 'amazon', 'spacex',
+        'openai', 'anthropic', 'deepseek', 'mistral', 'claude', 'gemini'
+    ]
+
+    # Nízká důležitost (2) - spekulace, germy
+    low_keywords = [
+        'rumors', 'speculation', 'might', 'could', 'reportedly',
+        'allegedly', 'sources say', 'leak', 'hint', 'suggests',
+        'beta', 'preview', 'concept'
+    ]
+
+    # Počet kritických klíčových slov
+    critical_count = sum(1 for keyword in critical_keywords if keyword in text)
+    high_count = sum(1 for keyword in high_keywords if keyword in text)
+    low_count = sum(1 for keyword in low_keywords if keyword in text)
+
+    # Kategorie-specifické váhy (podle analýzy marigold.cz kategorií)
+    category_weights = {
+        'ai': 1.4,          # AI (234 článků) - nejpopulárnější téma, vysoká váha
+        'security': 1.3,    # Bezpečnost (17 článků) - kritické pro tech
+        'startups': 1.2,    # Startupy (36 článků) - důležité pro ekosystém
+        'mobile': 1.1,      # Mobilní (44+39+20 článků) - specialita autora
+        'hardware': 1.1,    # Hardware/Automotive (109 článků) - tech focus
+        'programming': 1.0, # Programování (7 článků) - střední váha
+        'web': 1.0,         # Web/Internet (112 článků) - základní tech
+        'science': 1.2,     # Věda/výzkum - důležité objevy
+        'crypto': 0.8,      # Kryptoměny (méně obsahu na blogu)
+        'gaming': 0.7       # Gaming (nejméně relevantní pro Marigold)
+    }
+
+    # Základní skóre
+    if critical_count >= 2:
+        base_score = 5
+    elif critical_count >= 1:
+        base_score = 4
+    elif high_count >= 2:
+        base_score = 4
+    elif high_count >= 1:
+        base_score = 3
+    elif low_count >= 1:
+        base_score = 2
+    else:
+        base_score = 3  # Střední důležitost
+
+    # Aplikovat kategorijní váhu
+    weighted_score = base_score * category_weights.get(category, 1.0)
+
+    # Zaokrouhlit a omezit na rozsah 1-5
+    final_score = max(1, min(5, round(weighted_score)))
+
+    return final_score
 
 def translate_with_openrouter(text, api_key, max_retries=3):
     """Přeloží text pomocí OpenRouter API"""
@@ -150,19 +281,14 @@ Překlad:"""
     return text  # Fallback - toto by se nikdy nemělo stát
 
 def fetch_tech_news(api_key):
-    """Získá technologické zprávy z NewsAPI"""
+    """Získá technologické zprávy z NewsAPI pomocí category=technology"""
 
-    # Zkusit nejprve specifické zdroje
-    sources = 'techcrunch,the-verge,wired,ars-technica,engadget,hacker-news,the-next-web'
+    logger.info("🔄 Stahuji zprávy z kategorie technology")
 
     try:
-        logger.info(f"🔄 Stahuji zprávy ze zdrojů: {sources}")
-
-        response = requests.get('https://newsapi.org/v2/everything',
+        response = requests.get('https://newsapi.org/v2/top-headlines',
             params={
-                'sources': sources,
-                'language': 'en',
-                'sortBy': 'publishedAt',
+                'category': 'technology',
                 'pageSize': 30,
                 'apiKey': api_key
             },
@@ -183,51 +309,15 @@ def fetch_tech_news(api_key):
             raise ValueError(f"NewsAPI chyba: {data.get('message', 'Neznámá chyba')}")
 
         articles = data.get('articles', [])
-        logger.info(f"✅ Načteno {len(articles)} článků ze zdrojů")
-
-        if articles:
-            return articles
-
-    except Exception as e:
-        logger.warning(f"Stahování ze zdrojů selhalo: {e}")
-
-    # Fallback na kategorii technology
-    try:
-        logger.info("🔄 Fallback - používám kategorii technology")
-
-        response = requests.get('https://newsapi.org/v2/top-headlines',
-            params={
-                'category': 'technology',
-                'country': 'us',
-                'pageSize': 30,
-                'apiKey': api_key
-            },
-            timeout=30
-        )
-
-        logger.info(f"NewsAPI fallback response: {response.status_code}")
-
-        if not response.ok:
-            error_text = response.text
-            logger.error(f"NewsAPI fallback chyba {response.status_code}: {error_text}")
-            raise requests.RequestException(f"NewsAPI fallback chyba {response.status_code}: {error_text}")
-
-        data = response.json()
-
-        if data.get('status') != 'ok':
-            logger.error(f"NewsAPI fallback neúspěšný: {data}")
-            raise ValueError(f"NewsAPI fallback chyba: {data.get('message', 'Neznámá chyba')}")
-
-        articles = data.get('articles', [])
-        logger.info(f"✅ Fallback načteno {len(articles)} článků")
+        logger.info(f"✅ Načteno {len(articles)} článků z kategorie technology")
 
         return articles
 
     except Exception as e:
-        logger.error(f"I fallback selhal: {e}")
+        logger.error(f"Stahování technologických zpráv selhalo: {e}")
         raise
 
-def create_markdown_file(article, category_info, source_emoji, output_dir):
+def create_markdown_file(article, category_info, source_emoji, importance_info, output_dir):
     """Vytvoří Markdown soubor pro článek"""
 
     # Vytvoř slug z titulku
@@ -256,7 +346,12 @@ def create_markdown_file(article, category_info, source_emoji, output_dir):
         'emoji': f"{source_emoji} {category_info['emoji']}",
         'category_emoji': category_info['emoji'],
         'category_cs': category_info['cs_name'],
-        'description': article['czech_description']
+        'description': article['czech_description'],
+        'importance': article['importance'],
+        'importance_emoji': importance_info['emoji'],
+        'importance_name': importance_info['name'],
+        'importance_color': importance_info['color'],
+        'importance_bg_color': importance_info['bg_color']
     }
 
     # Vytvořit obsah
@@ -316,6 +411,12 @@ def main():
                 category_key = detect_category(article['title'], article.get('description', ''))
                 category_info = TECH_CATEGORIES[category_key]
 
+                # Detekce důležitosti
+                importance_level = detect_importance(article['title'], article.get('description', ''), category_key)
+                importance_info = IMPORTANCE_LEVELS[importance_level]
+
+                logger.info(f"🎯 Důležitost: {importance_info['emoji']} {importance_info['name']} ({importance_level}/5)")
+
                 # Emoji pro zdroj
                 source_id = article.get('source', {}).get('id', '').lower()
                 source_emoji = SOURCE_EMOJIS.get(source_id, '💡')
@@ -336,11 +437,12 @@ def main():
                     'url': article['url'],
                     'source': article['source'],
                     'published_at': article['publishedAt'],
-                    'url_to_image': article.get('urlToImage')
+                    'url_to_image': article.get('urlToImage'),
+                    'importance': importance_level
                 }
 
                 # Vytvoření Markdown souboru
-                create_markdown_file(processed_article, category_info, source_emoji, output_dir)
+                create_markdown_file(processed_article, category_info, source_emoji, importance_info, output_dir)
                 processed_count += 1
 
                 # Rate limiting mezi články
