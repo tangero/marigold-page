@@ -1,7 +1,7 @@
 ---
 layout: "tech_news"
-title: "Montblanc se pouští do digitálních poznámkových bloků."
-original_title: "Montblanc is getting into the digital notepad game"
+title: "Montblanc se pouští do digitálních poznámkových bloků – The Verge"
+original_title: "Montblanc is getting into the digital notepad game - The Verge"
 date: "2025-09-21 16:27:11 +0000"
 categories: ["tech-news", "gaming"]
 tags: ["Hry"]
@@ -11,9 +11,14 @@ image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Digital
 emoji: "⚡ 🎮"
 category_emoji: "🎮"
 category_cs: "Hry"
-description: "Pokud jste typ člověka, který vlastní kožené řidičské rukavice v několika barvách, aby sladil s různými jaguáry, pak dosud neexistovala digitální papírová alternativa, která by dostála vašim vysokým luxusním standardům. Ale Montblanc konečně přináší t…"
+description: "Montblanc konečně nabízí luxusní zážitek z e-ink poznámkového bloku, po kterém postavy Wese Andersona tolik volaly."
+importance: 2
+importance_emoji: "📝"
+importance_name: "NÍZKÁ"
+importance_color: "#059669"
+importance_bg_color: "#ecfdf5"
 ---
 
-Pokud jste typ člověka, který vlastní kožené řidičské rukavice v několika barvách, aby sladil s různými jaguáry, pak dosud neexistovala digitální papírová alternativa, která by dostála vašim vysokým luxusním standardům. Ale Montblanc konečně přináší t…
+Montblanc konečně nabízí luxusní zážitek z e-ink poznámkového bloku, po kterém postavy Wese Andersona tolik volaly.
 
 [Přečíst celý článek na The Verge](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)
