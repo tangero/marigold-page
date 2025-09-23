@@ -13,11 +13,11 @@
 <meta property="og:url" content="https://www.marigold.cz/tech-news/" />
 <meta property="og:site_name" content="Marigold.cz" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2025-09-23T11:44:20+00:00" />
+<meta property="article:published_time" content="2025-09-23T12:07:23+00:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Technologické zpravodajství" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-09-23T11:44:20+00:00","datePublished":"2025-09-23T11:44:20+00:00","description":"Nejnovější zprávy ze světa technologií přeložené do češtiny","headline":"Technologické zpravodajství","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/"},"url":"https://www.marigold.cz/tech-news/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-09-23T12:07:23+00:00","datePublished":"2025-09-23T12:07:23+00:00","description":"Nejnovější zprávy ze světa technologií přeložené do češtiny","headline":"Technologické zpravodajství","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/"},"url":"https://www.marigold.cz/tech-news/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -133,8 +133,8 @@
         <span class="tech-news-emoji"></span>
         <div class="tech-news-info">
           <span class="tech-news-source"></span>
-          <time class="tech-news-date" datetime="2025-09-23T11:44:20+00:00">
-            23.09.2025 11:44
+          <time class="tech-news-date" datetime="2025-09-23T12:07:23+00:00">
+            23.09.2025 12:07
           </time>
         </div>
         <div class="importance-indicator" style="background-color: ; color: ;">
@@ -1051,9 +1051,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <style>
 .tech-news-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 2rem 2rem;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
 .tech-news-header {
@@ -1078,9 +1084,12 @@ document.addEventListener('DOMContentLoaded', function() {
   gap: 0.5rem;
   justify-content: center;
   margin-bottom: 2rem;
-  padding: 1rem;
+  padding: 1rem 2rem;
   background: #f7fafc;
   border-radius: 12px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .filter-btn {
@@ -1119,9 +1128,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
 .tech-news-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
   gap: 1.5rem;
   margin-bottom: 2rem;
+  padding: 0 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .tech-news-card {
@@ -1309,14 +1322,20 @@ document.addEventListener('DOMContentLoaded', function() {
   to { opacity: 1; transform: translateY(0); }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
+  .tech-news-container {
+    padding: 2rem 1rem;
+  }
   .tech-news-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
   }
 }
 
 @media (max-width: 768px) {
+  .tech-news-container {
+    padding: 1rem 0.5rem;
+  }
   .tech-news-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
