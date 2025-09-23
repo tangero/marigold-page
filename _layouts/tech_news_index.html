@@ -17,19 +17,6 @@ layout: default
     <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
     <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
     <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
-
-    <!-- Filtry podle kategorií -->
-    <div class="filter-separator">Kategorie:</div>
-    <button class="filter-btn" data-filter="ai" data-type="category">🤖 AI & ML</button>
-    <button class="filter-btn" data-filter="programming" data-type="category">💻 Programování</button>
-    <button class="filter-btn" data-filter="hardware" data-type="category">🖥️ Hardware</button>
-    <button class="filter-btn" data-filter="startups" data-type="category">🚀 Startupy</button>
-    <button class="filter-btn" data-filter="security" data-type="category">🔒 Bezpečnost</button>
-    <button class="filter-btn" data-filter="mobile" data-type="category">📱 Mobilní</button>
-    <button class="filter-btn" data-filter="web" data-type="category">🌐 Web</button>
-    <button class="filter-btn" data-filter="gaming" data-type="category">🎮 Hry</button>
-    <button class="filter-btn" data-filter="crypto" data-type="category">₿ Krypto</button>
-    <button class="filter-btn" data-filter="science" data-type="category">🔬 Věda</button>
   </div>
 
   <!-- Seznam zpráv -->
@@ -112,6 +99,29 @@ layout: default
                 </a>
                 <span class="tech-news-category">{{ article.category }}</span>
               </div>
+
+              <!-- Firmy a osobnosti -->
+              {% if article.companies or article.people %}
+              <div class="tech-news-entities">
+                {% if article.companies %}
+                <div class="tech-news-companies">
+                  <span class="entity-label">🏢</span>
+                  {% for company in article.companies %}
+                    <span class="entity-tag company-tag">{{ company }}</span>
+                  {% endfor %}
+                </div>
+                {% endif %}
+
+                {% if article.people %}
+                <div class="tech-news-people">
+                  <span class="entity-label">👤</span>
+                  {% for person in article.people %}
+                    <span class="entity-tag person-tag">{{ person }}</span>
+                  {% endfor %}
+                </div>
+                {% endif %}
+              </div>
+              {% endif %}
             </div>
           </article>
           {% endfor %}
@@ -158,17 +168,9 @@ function initTechNewsTracking() {
           clicky.goal('High Priority Article Click');
         }
 
-        // Goals podle kategorie
-        const categoryGoals = {
-          'ai': 'AI Article Click',
-          'startups': 'Startup Article Click',
-          'programming': 'Programming Article Click',
-          'hardware': 'Hardware Article Click',
-          'security': 'Security Article Click'
-        };
-
-        if (categoryGoals[category]) {
-          clicky.goal(categoryGoals[category]);
+        // Goals podle kategorie (dynamické LLM kategorie)
+        if (category && category !== 'tech') {
+          clicky.goal('Category Article Click', category);
         }
 
         // Detailní data pro analýzu
@@ -225,10 +227,12 @@ document.addEventListener('DOMContentLoaded', function() {
   // Inicializovat tracking
   initTechNewsTracking();
 
-  // Navigace dnů
-  initDateNavigation();
+  // Definovat elementy
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
+
+  // Navigace dnů
+  initDateNavigation();
 
   // Aktualizovat počty článků v tlačítkách (volá se z date navigation)
   function updateCounts() {
@@ -259,8 +263,6 @@ document.addEventListener('DOMContentLoaded', function() {
         let shouldShow = false;
 
         if (filter === 'all') {
-          shouldShow = true;
-        } else if (type === 'category' && card.dataset.category === filter) {
           shouldShow = true;
         } else if (type === 'importance' && card.dataset.importance === filter) {
           shouldShow = true;
@@ -336,11 +338,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if (filter === 'all') {
           count = visibleCards.length;
-        } else {
+        } else if (type === 'importance') {
           visibleCards.forEach(card => {
-            if (type === 'category' && card.dataset.category === filter) {
-              count++;
-            } else if (type === 'importance' && card.dataset.importance === filter) {
+            if (card.dataset.importance === filter) {
               count++;
             }
           });
@@ -761,6 +761,52 @@ document.addEventListener('DOMContentLoaded', function() {
   border-radius: 15px;
   font-size: 0.8rem;
   font-weight: 500;
+}
+
+/* Firmy a osobnosti */
+.tech-news-entities {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.tech-news-companies,
+.tech-news-people {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tech-news-companies:last-child,
+.tech-news-people:last-child {
+  margin-bottom: 0;
+}
+
+.entity-label {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.entity-tag {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.company-tag {
+  background: #f0f9ff;
+  color: #0c4a6e;
+  border: 1px solid #bae6fd;
+}
+
+.person-tag {
+  background: #fef7ed;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
 }
 
 .tech-news-empty {

@@ -46,9 +46,11 @@ class TechNewsWithImagesGenerator:
         czech_title = self.translate_title(article['title'])
         czech_description = self.translate_description(article.get('description', ''))
 
-        # Detekce kategorie a důležitosti
+        # Detekce kategorie, důležitosti, firem a osobností
         category = self.detect_category(article['title'], article.get('description', ''))
         importance = self.detect_importance(article['title'], article.get('description', ''), category)
+        companies = self.detect_companies(article['title'], article.get('description', ''))
+        people = self.detect_people(article['title'], article.get('description', ''))
 
         # Front matter podle tech_news_article layoutu
         front_matter = {
@@ -64,6 +66,12 @@ class TechNewsWithImagesGenerator:
             'importance': importance,
             'source': article['source']
         }
+
+        # Přidat firmy a osobnosti pouze pokud existují
+        if companies:
+            front_matter['companies'] = companies
+        if people:
+            front_matter['people'] = people
 
         # Přidat urlToImage pouze pokud existuje
         if article.get('urlToImage'):
@@ -106,8 +114,8 @@ class TechNewsWithImagesGenerator:
         try:
             # Různé systémové prompty podle typu textu
             system_prompts = {
-                "title": "Překládej technologické nadpisy článků z angličtiny do češtiny. Zachovej technické termíny v angličtině, pokud jsou běžně používané. Buď přesný a stručný. Nepoužívej uvozovky.",
-                "description": "Překládej perex/popis technologických článků z angličtiny do češtiny. Zachovej technické termíny v angličtině, pokud jsou běžně používané. Buď přesný ale přirozený. Nepoužívej uvozovky."
+                "title": "Překládej technologické nadpisy článků z angličtiny do češtiny. Zachovej technické termíny v angličtině, pokud jsou běžně používané. Odpověz POUZE přeloženým nadpisem, bez jakýchkoli dodatečných textů jako 'Nadpis článku v češtině:' nebo uvozovek.",
+                "description": "Překládej perex/popis technologických článků z angličtiny do češtiny. Zachovej technické termíny v angličtině, pokud jsou běžně používané. Odpověz POUZE přeloženým textem, bez jakýchkoli dodatečných komentářů nebo uvozovek."
             }
 
             system_prompt = system_prompts.get(text_type, system_prompts["description"])
@@ -159,23 +167,203 @@ class TechNewsWithImagesGenerator:
         return self.translate_text(description or '', "description")
 
     def detect_category(self, title, description):
-        """Detekuje kategorii článku"""
-        text = f"{title} {description}".lower()
+        """Detekuje kategorii článku pomocí LLM"""
+        if not self.translation_enabled:
+            return 'tech'  # Fallback bez LLM
 
-        category_keywords = {
-            'ai': ['ai', 'artificial intelligence', 'machine learning', 'gpt', 'chatgpt', 'openai', 'claude'],
-            'startups': ['startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo'],
-            'programming': ['javascript', 'python', 'code', 'developer', 'programming', 'github'],
-            'hardware': ['cpu', 'gpu', 'processor', 'chip', 'semiconductor'],
-            'security': ['security', 'hack', 'breach', 'vulnerability', 'cyber'],
-            'mobile': ['android', 'ios', 'iphone', 'smartphone', 'mobile', '5g'],
-        }
+        try:
+            prompt = f"""Přiřaď tomuto technologickému článku jednu přesnou kategorii (1-2 slova v češtině).
 
-        for category, keywords in category_keywords.items():
-            if any(keyword in text for keyword in keywords):
-                return category
+Nadpis: {title}
+Popis: {description or 'Není k dispozici'}
 
-        return 'web'  # Default
+Kategorie by měla být:
+- Stručná (1-2 slova)
+- V češtině
+- Specifická pro obsah článku
+- Bez emoji
+
+Příklady kategorií: AI, hardware, startupy, programování, mobilní aplikace, kybernetika, kosmonautika, elektromobilita, herní průmysl, kryptoměny, jídlo, zdraví atd.
+
+Odpověz POUZE názvem kategorie, nic jiného."""
+
+            headers = {
+                'Authorization': f'Bearer {self.openrouter_api_key}',
+                'Content-Type': 'application/json'
+            }
+
+            data = {
+                'model': 'anthropic/claude-3-haiku',
+                'messages': [
+                    {'role': 'user', 'content': prompt}
+                ],
+                'max_tokens': 20,  # Velmi krátká odpověď
+                'temperature': 0.1  # Nízká teplota pro konzistenci
+            }
+
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=data,
+                timeout=10
+            )
+
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('choices') and len(result['choices']) > 0:
+                    category = result['choices'][0]['message']['content'].strip()
+                    # Vyčistit kategorii
+                    category = category.lower().strip('"\'.,!?')
+                    # Omezit délku
+                    if len(category) > 20:
+                        category = category[:20]
+
+                    logger.debug(f"LLM kategorie: {title[:30]}... → {category}")
+                    return category
+
+            logger.warning(f"LLM kategorie selhala, používám fallback")
+
+        except Exception as e:
+            logger.warning(f"Chyba LLM kategorie: {e}")
+
+        return 'tech'  # Fallback
+
+    def detect_companies(self, title, description):
+        """Detekuje významné firmy zmíněné v článku pomocí LLM"""
+        if not self.translation_enabled:
+            return []
+
+        try:
+            prompt = f"""Identifikuj všechny významné technologické firmy zmíněné v tomto článku.
+
+Nadpis: {title}
+Popis: {description or 'Není k dispozici'}
+
+Zaměř se na:
+- Technologické firmy (Apple, Google, Microsoft, Tesla, SpaceX, OpenAI, atd.)
+- Startupy a scale-upy
+- Významné instituce (NASA, MIT, atd.)
+
+Ignoruj:
+- Obecné termíny
+- Produkty nebo služby (místo firem)
+- Nezávažné zmínky
+
+Odpověz POUZE seznam názvů firem oddělených čárkami, nic jiného.
+Pokud nejsou žádné významné firmy, odpověz "žádné"."""
+
+            headers = {
+                'Authorization': f'Bearer {self.openrouter_api_key}',
+                'Content-Type': 'application/json'
+            }
+
+            data = {
+                'model': 'anthropic/claude-3-haiku',
+                'messages': [
+                    {'role': 'user', 'content': prompt}
+                ],
+                'max_tokens': 100,
+                'temperature': 0.1
+            }
+
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=data,
+                timeout=10
+            )
+
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('choices') and len(result['choices']) > 0:
+                    companies_text = result['choices'][0]['message']['content'].strip()
+
+                    if companies_text.lower() in ['žádné', 'zadne', 'none', '']:
+                        return []
+
+                    # Rozdělit podle čárek a vyčistit
+                    companies = [
+                        company.strip().strip('"\'.,!?')
+                        for company in companies_text.split(',')
+                        if company.strip() and len(company.strip()) > 1
+                    ]
+
+                    logger.debug(f"LLM firmy: {title[:30]}... → {companies}")
+                    return companies[:5]  # Max 5 firem
+
+        except Exception as e:
+            logger.warning(f"Chyba LLM firem: {e}")
+
+        return []
+
+    def detect_people(self, title, description):
+        """Detekuje významné osobnosti zmíněné v článku pomocí LLM"""
+        if not self.translation_enabled:
+            return []
+
+        try:
+            prompt = f"""Identifikuj všechny významné osobnosti zmíněné v tomto článku.
+
+Nadpis: {title}
+Popis: {description or 'Není k dispozici'}
+
+Zaměř se na:
+- CEO a zakladatele tech firem (Elon Musk, Tim Cook, Satya Nadella, atd.)
+- Významné investory a podnikatele
+- Vědce a výzkumníky
+- Politiky související s technologiemi
+
+Ignoruj:
+- Obecné role bez jmen
+- Fiktivní postavy
+- Nezávažné zmínky
+
+Odpověz POUZE seznam jmen oddělených čárkami, nic jiného.
+Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
+
+            headers = {
+                'Authorization': f'Bearer {self.openrouter_api_key}',
+                'Content-Type': 'application/json'
+            }
+
+            data = {
+                'model': 'anthropic/claude-3-haiku',
+                'messages': [
+                    {'role': 'user', 'content': prompt}
+                ],
+                'max_tokens': 100,
+                'temperature': 0.1
+            }
+
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=data,
+                timeout=10
+            )
+
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('choices') and len(result['choices']) > 0:
+                    people_text = result['choices'][0]['message']['content'].strip()
+
+                    if people_text.lower() in ['žádné', 'zadne', 'none', '']:
+                        return []
+
+                    # Rozdělit podle čárek a vyčistit
+                    people = [
+                        person.strip().strip('"\'.,!?')
+                        for person in people_text.split(',')
+                        if person.strip() and len(person.strip()) > 2
+                    ]
+
+                    logger.debug(f"LLM osobnosti: {title[:30]}... → {people}")
+                    return people[:3]  # Max 3 osobnosti
+
+        except Exception as e:
+            logger.warning(f"Chyba LLM osobností: {e}")
+
+        return []
 
     def detect_importance(self, title, description, category):
         """Detekuje důležitost článku"""
