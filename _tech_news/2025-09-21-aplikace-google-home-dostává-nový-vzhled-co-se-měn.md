@@ -1,6 +1,6 @@
 ---
 layout: "tech_news"
-title: "Aplikace Google Home dostává nový vzhled. Zde je přehled změn. – Mashable"
+title: "Aplikace Google Home dostává nový vzhled. Co se mění. - Mashable"
 original_title: "The Google Home app is getting a new look. Here’s what’s changing. - Mashable"
 date: "2025-09-21 15:45:00 +0000"
 categories: ["tech-news", "ai & ml"]
@@ -11,7 +11,7 @@ image: "https://helios-i.mashable.com/imagery/articles/02I1ZjBDIt6cipMdjUsYIel/h
 emoji: "💡 🤖"
 category_emoji: "🤖"
 category_cs: "Umělá inteligence"
-description: "Renovace aplikace na uvítání Gemini pro Domov."
+description: "Renovace aplikace na uvítání Gemini pro Domácnost."
 importance: 5
 importance_emoji: "🔥"
 importance_name: "KRITICKÁ"
@@ -19,6 +19,6 @@ importance_color: "#dc2626"
 importance_bg_color: "#fef2f2"
 ---
 
-Renovace aplikace na uvítání Gemini pro Domov.
+Renovace aplikace na uvítání Gemini pro Domácnost.
 
 [Přečíst celý článek na Mashable](https://mashable.com/article/google-home-app-update-first-look)
