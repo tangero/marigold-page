@@ -1,0 +1,115 @@
+# Clicky Goals konfigurace pro tech-news tracking
+# Pro nastavení v Clicky administraci
+
+goals:
+  # Hlavní tech-news goals
+  high_priority_article_click:
+    name: "High Priority Article Click"
+    description: "Kliknutí na článek s důležitostí 4-5"
+    type: "action"
+    revenue_tracking: false
+    notes: "Trackuje engagement s nejdůležitějšími tech články"
+
+  read_full_article:
+    name: "Read Full Article"
+    description: "Kliknutí na externí odkaz k přečtení celého článku"
+    type: "action"
+    revenue_tracking: false
+    notes: "Míra konverze z náhledu na plné čtení"
+
+  content_filter_used:
+    name: "Content Filter Used"
+    description: "Použití filtru pro kategorie nebo důležitost"
+    type: "action"
+    revenue_tracking: false
+    notes: "Ukazuje zájem o specifický obsah"
+
+  # Kategorie-specifické goals
+  ai_article_click:
+    name: "AI Article Click"
+    description: "Kliknutí na článek z kategorie AI & ML"
+    type: "action"
+    revenue_tracking: false
+    notes: "Měří zájem o AI obsah"
+
+  startup_article_click:
+    name: "Startup Article Click"
+    description: "Kliknutí na článek z kategorie Startupy"
+    type: "action"
+    revenue_tracking: false
+    notes: "Měří zájem o startup ekosystém"
+
+  programming_article_click:
+    name: "Programming Article Click"
+    description: "Kliknutí na článek z kategorie Programování"
+    type: "action"
+    revenue_tracking: false
+    notes: "Měří zájem o vývojářský obsah"
+
+  hardware_article_click:
+    name: "Hardware Article Click"
+    description: "Kliknutí na článek z kategorie Hardware"
+    type: "action"
+    revenue_tracking: false
+    notes: "Měří zájem o hardware novinky"
+
+  security_article_click:
+    name: "Security Article Click"
+    description: "Kliknutí na článek z kategorie Bezpečnost"
+    type: "action"
+    revenue_tracking: false
+    notes: "Měří zájem o cybersecurity"
+
+# Tracking actions definované v JavaScriptu
+actions:
+  tech_news_click:
+    pattern: "#tech-news-click/*"
+    description: "Základní kliknutí na tech-news článek"
+    format: "#tech-news-click/{category}/{importance}"
+
+  tech_news_detail:
+    pattern: "#tech-news-detail/*"
+    description: "Detailní tracking s pozicí článku"
+    format: "#tech-news-detail/{category}/{importance}/{position}"
+
+  tech_news_filter:
+    pattern: "#tech-news-filter/*"
+    description: "Použití filtru"
+    format: "#tech-news-filter/{type}/{filter}"
+
+# Doporučené Clicky nastavení
+clicky_settings:
+  heatmaps: true
+  uptime_monitoring: false
+  twitter_tracking: false
+  ignore_admins: true
+  session_timeout: 30  # minut
+
+  # Filtry pro vyloučení
+  ignore_patterns:
+    - "preview.*"
+    - "admin.*"
+    - "test.*"
+
+# Analytics cíle pro optimalizaci
+optimization_targets:
+  click_through_rate:
+    target: 15  # % návštěvníků tech-news, kteří kliknou na článek
+    current: null  # bude doplněno analýzou
+
+  category_balance:
+    target_distribution:
+      ai: 35
+      startups: 20
+      programming: 15
+      hardware: 15
+      security: 10
+      other: 5
+
+  importance_accuracy:
+    target: 0.8  # korelace mezi AI důležitostí a skutečnými kliknutími
+    current: null
+
+  read_full_rate:
+    target: 25  # % lidí, kteří po kliknutí přečtou celý článek
+    current: null

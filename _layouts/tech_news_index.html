@@ -93,8 +93,102 @@ layout: default
 </div>
 
 <script>
+// Clicky tracking pro tech-news
+function initTechNewsTracking() {
+  if (typeof clicky === 'undefined') {
+    console.warn('Clicky not loaded, tracking disabled');
+    return;
+  }
+
+  // Track kliknutí na články
+  document.querySelectorAll('.tech-news-card').forEach(function(card, index) {
+    const link = card.querySelector('.tech-news-title a');
+    const category = card.dataset.category;
+    const importance = card.dataset.importance;
+    const source = card.querySelector('.tech-news-source').textContent;
+
+    if (link) {
+      link.addEventListener('click', function(e) {
+        const articleTitle = this.textContent.trim();
+
+        // Základní tracking akce
+        clicky.log(
+          '#tech-news-click/' + category + '/' + importance,
+          'Tech News: ' + articleTitle.substring(0, 60),
+          'click'
+        );
+
+        // Goals podle důležitosti
+        if (importance >= 4) {
+          clicky.goal('High Priority Article Click');
+        }
+
+        // Goals podle kategorie
+        const categoryGoals = {
+          'ai': 'AI Article Click',
+          'startups': 'Startup Article Click',
+          'programming': 'Programming Article Click',
+          'hardware': 'Hardware Article Click',
+          'security': 'Security Article Click'
+        };
+
+        if (categoryGoals[category]) {
+          clicky.goal(categoryGoals[category]);
+        }
+
+        // Detailní data pro analýzu
+        clicky.log(
+          '#tech-news-detail/' + category + '/' + importance + '/' + (index + 1),
+          source + ': ' + articleTitle.substring(0, 50),
+          'click'
+        );
+      });
+    }
+  });
+
+  // Track externí odkazy na původní články
+  document.querySelectorAll('.tech-news-link').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      const card = this.closest('.tech-news-card');
+      const category = card.dataset.category;
+      const importance = card.dataset.importance;
+
+      clicky.log(
+        this.href,
+        'External: ' + this.textContent,
+        'outbound'
+      );
+
+      // Goal pro čtení celého článku
+      clicky.goal('Read Full Article');
+    });
+  });
+
+  // Track použití filtrů
+  document.querySelectorAll('.filter-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      const filter = this.dataset.filter;
+      const type = this.dataset.type;
+      const text = this.textContent.trim();
+
+      clicky.log(
+        '#tech-news-filter/' + type + '/' + filter,
+        'Filter: ' + text,
+        'click'
+      );
+
+      // Goal pro aktivní filtrování
+      if (filter !== 'all') {
+        clicky.goal('Content Filter Used');
+      }
+    });
+  });
+}
+
 // Filtrování podle kategorií a důležitosti
 document.addEventListener('DOMContentLoaded', function() {
+  // Inicializovat tracking
+  initTechNewsTracking();
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 

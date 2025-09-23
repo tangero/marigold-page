@@ -484,9 +484,18 @@ def main():
 
                 # Získat obrázek - nejdříve z NewsAPI, pak OG jako fallback
                 image_url = article.get('urlToImage')
-                if not image_url and article['url']:
-                    logger.info(f"🖼️ Získávám OG obrázek z {article['url'][:50]}...")
-                    image_url = fetch_og_image(article['url'])
+
+                # Kontrola, zda je obrázek validní (ne None, ne prázdný string, ne "null")
+                if not image_url or image_url == 'null' or (isinstance(image_url, str) and image_url.strip() == ''):
+                    if article.get('url'):
+                        logger.info(f"🖼️ NewsAPI obrázek chybí, získávám OG obrázek z {article['url'][:50]}...")
+                        image_url = fetch_og_image(article['url'])
+                        if image_url:
+                            logger.info(f"✅ OG obrázek nalezen: {image_url[:50]}...")
+                        else:
+                            logger.warning(f"❌ OG obrázek nenalezen pro {article['url'][:50]}...")
+                else:
+                    logger.info(f"✅ NewsAPI obrázek: {image_url[:50]}...")
 
                 # Příprava článku
                 processed_article = {

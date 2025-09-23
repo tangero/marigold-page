@@ -1,0 +1,97 @@
+[
+  {
+    "title": "DHS Has Been Collecting US Citizens’ DNA for Years",
+    "description": "Newly released data shows Customs and Border Protection funneled the DNA of nearly 2,000 US citizens—some as young as 14—into an FBI crime database, raising alarms about oversight and legality.",
+    "url": "https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/",
+    "source": {
+      "name": "Wired",
+      "id": "wired",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T14:06:41+00:00",
+    "urlToImage": "https://media.wired.com/photos/68d265bac88a12de56c870e5/master/pass/092325_CBP-FBI.jpg",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "science",
+      "security",
+      "culture"
+    ]
+  },
+  {
+    "title": "Best External Hard Drive (2025): SSD to Store Data, Video & More",
+    "description": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+    "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+    "source": {
+      "name": "Wired",
+      "id": "wired",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T14:00:00+00:00",
+    "urlToImage": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "science",
+      "security",
+      "culture"
+    ]
+  },
+  {
+    "title": "10 Best MagSafe Wallets (2025), Tested and Reviewed",
+    "description": "These magnetic wallets will keep your cards safe across both MagSafe and Qi2-enabled devices.",
+    "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
+    "source": {
+      "name": "Wired",
+      "id": "wired",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T12:00:00+00:00",
+    "urlToImage": "https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "science",
+      "security",
+      "culture"
+    ]
+  },
+  {
+    "title": "8 Best Vegan Meal Delivery Services and Kits (2025), Tested, Tasted, and Reviewed",
+    "description": "Convenience isn’t just for meat eaters anymore. These vegan meal kits and delivery services bring preprepared meals and meal kits to your door.",
+    "url": "https://www.wired.com/gallery/best-vegan-meal-kit-service/",
+    "source": {
+      "name": "Wired",
+      "id": "wired",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T11:08:00+00:00",
+    "urlToImage": "https://media.wired.com/photos/68d23dad73c4c1af12f7e6ff/master/pass/Best%20Vegan%20Meal%20Kits.png",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "science",
+      "security",
+      "culture"
+    ]
+  },
+  {
+    "title": "How to Use 1Password's Travel Mode at the Border (2025)",
+    "description": "Travel Mode not only hides your most sensitive data—it acts as if that data never existed in the first place.",
+    "url": "https://www.wired.com/story/1password-travel-mode/",
+    "source": {
+      "name": "Wired",
+      "id": "wired",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T10:30:00+00:00",
+    "urlToImage": "https://media.wired.com/photos/68d1ecc1265f9f1dcb0d4cbc/master/pass/GettyImages-1287534581.jpg",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "science",
+      "security",
+      "culture"
+    ]
+  }
+]

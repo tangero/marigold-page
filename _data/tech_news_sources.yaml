@@ -49,7 +49,7 @@ sources:
     url: "https://hnrss.org/frontpage?points=100"  # Pouze články s 100+ body
     emoji: "💻"
     priority: 4
-    enabled: true
+    enabled: false  # Vypnuto - problémy s obrázky a anti-bot ochranou
     category_focus: ["programming", "startups", "ai"]
     max_articles: 5
     description: "Komunita vývojářů a podnikatelů"

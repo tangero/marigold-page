@@ -123,33 +123,126 @@ class RSSNewsManager:
 
         return image_url
 
-    def fetch_og_image(self, article_url, timeout=5):
-        """Stáhne Open Graph obrázek ze stránky článku"""
+    def fetch_og_image(self, article_url, timeout=10):
+        """Vylepšená funkce pro získání obrázků ze stránky článku"""
         if not self.config['settings']['image_handling'].get('fetch_og_images'):
             return None
 
+        # Lepší headers pro bypass anti-bot ochrany
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1'
+        }
+
         try:
-            response = requests.get(article_url, timeout=timeout, headers={
-                'User-Agent': 'Mozilla/5.0 (Marigold.cz Tech News Bot)'
-            })
+            response = requests.get(article_url, timeout=timeout, headers=headers, allow_redirects=True)
 
-            if response.ok:
-                soup = BeautifulSoup(response.text, 'html.parser')
+            if not response.ok:
+                logger.warning(f"HTTP {response.status_code} pro {article_url}")
+                return None
 
-                # Open Graph image
-                og_image = soup.find('meta', property='og:image')
-                if og_image:
-                    return og_image.get('content')
+            soup = BeautifulSoup(response.text, 'html.parser')
+            images_found = []
 
-                # Twitter card image
-                twitter_image = soup.find('meta', attrs={'name': 'twitter:image'})
-                if twitter_image:
-                    return twitter_image.get('content')
+            # 1. Open Graph image (priorita 1)
+            og_image = soup.find('meta', property='og:image')
+            if og_image and og_image.get('content'):
+                img_url = og_image.get('content')
+                if self.is_valid_image_url(img_url):
+                    images_found.append(('og:image', img_url))
+
+            # 2. Twitter Card image (priorita 2)
+            twitter_image = soup.find('meta', attrs={'name': 'twitter:image'})
+            if twitter_image and twitter_image.get('content'):
+                img_url = twitter_image.get('content')
+                if self.is_valid_image_url(img_url):
+                    images_found.append(('twitter:image', img_url))
+
+            # 3. Schema.org image (priorita 3)
+            schema_image = soup.find('meta', attrs={'itemprop': 'image'})
+            if schema_image and schema_image.get('content'):
+                img_url = schema_image.get('content')
+                if self.is_valid_image_url(img_url):
+                    images_found.append(('schema:image', img_url))
+
+            # 4. Featured image z WordPress (priorita 4)
+            wp_selectors = [
+                'img.wp-post-image',
+                'img.featured-image',
+                '.post-featured img',
+                '.featured-image img'
+            ]
+
+            for selector in wp_selectors:
+                featured_img = soup.select_one(selector)
+                if featured_img and featured_img.get('src'):
+                    img_url = featured_img.get('src')
+                    if self.is_valid_image_url(img_url):
+                        images_found.append(('featured', img_url))
+                        break
+
+            # 5. První relevantní obrázek v článku (priorita 5)
+            content_selectors = [
+                '.entry-content img',
+                '.post-content img',
+                '.content img',
+                'article img'
+            ]
+
+            for selector in content_selectors:
+                content_img = soup.select_one(selector)
+                if content_img and content_img.get('src'):
+                    img_url = content_img.get('src')
+                    # Filtrovat malé obrázky (ikony, avataři)
+                    if self.is_valid_image_url(img_url) and not self.is_small_image(img_url):
+                        images_found.append(('content', img_url))
+                        break
+
+            # Vrátit nejvyšší prioritu
+            if images_found:
+                selected_type, selected_url = images_found[0]
+                logger.debug(f"Obrázek nalezen ({selected_type}): {selected_url[:50]}...")
+                return selected_url
 
         except Exception as e:
-            logger.debug(f"Nelze získat OG image z {article_url}: {e}")
+            logger.debug(f"Chyba při získávání OG image z {article_url}: {e}")
 
         return None
+
+    def is_valid_image_url(self, url):
+        """Kontrola, zda je URL validní obrázek"""
+        if not url or not isinstance(url, str):
+            return False
+
+        # Základní kontrola URL
+        if not url.startswith(('http://', 'https://')):
+            return False
+
+        # Kontrola image extensions
+        image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg']
+        url_lower = url.lower()
+
+        # Buď má příponu obrázku, nebo obsahuje typické image parametry
+        has_extension = any(ext in url_lower for ext in image_extensions)
+        has_image_params = any(param in url_lower for param in ['resize=', 'w=', 'width=', 'h=', 'height='])
+
+        return has_extension or has_image_params
+
+    def is_small_image(self, url):
+        """Kontrola, zda se jedná o malý obrázek (ikonu, avatar)"""
+        url_lower = url.lower()
+        small_indicators = [
+            'icon', 'favicon', 'logo', 'avatar', 'profile',
+            'thumbnail', 'thumb', 'small', 'mini',
+            'w=32', 'w=64', 'w=100', 'width=32', 'width=64'
+        ]
+
+        return any(indicator in url_lower for indicator in small_indicators)
 
     def clean_text(self, text, max_length=500):
         """Vyčistí text od HTML a zkrátí"""

@@ -1,0 +1,97 @@
+[
+  {
+    "title": "The War on Roommates: Why Is Sharing a House Illegal?",
+    "description": "Article URL: https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html Comments URL: https://news.ycombinator.com/item?id=45347043 Points: 104 # Comments: 145",
+    "url": "https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html",
+    "source": {
+      "name": "Hacker News",
+      "id": "hackernews",
+      "emoji": "💻"
+    },
+    "publishedAt": "2025-09-23T12:51:56+00:00",
+    "urlToImage": null,
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "programming",
+      "startups",
+      "ai"
+    ]
+  },
+  {
+    "title": "Cache of Devices Capable of Crashing Cell Network Is Found Near U.N",
+    "description": "Article URL: https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html Comments URL: https://news.ycombinator.com/item?id=45345514 Points: 159 # Comments: 99",
+    "url": "https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html",
+    "source": {
+      "name": "Hacker News",
+      "id": "hackernews",
+      "emoji": "💻"
+    },
+    "publishedAt": "2025-09-23T10:29:13+00:00",
+    "urlToImage": "https://static01.nyt.com/images/2025/09/23/multimedia/23dc-secret-service-fpwj/23dc-secret-service-fpwj-facebookJumbo.jpg",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "programming",
+      "startups",
+      "ai"
+    ]
+  },
+  {
+    "title": "Structured Outputs in LLMs",
+    "description": "Article URL: https://parthsareen.com/blog.html#sampling.md Comments URL: https://news.ycombinator.com/item?id=45345207 Points: 109 # Comments: 52",
+    "url": "https://parthsareen.com/blog.html#sampling.md",
+    "source": {
+      "name": "Hacker News",
+      "id": "hackernews",
+      "emoji": "💻"
+    },
+    "publishedAt": "2025-09-23T09:40:41+00:00",
+    "urlToImage": null,
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "programming",
+      "startups",
+      "ai"
+    ]
+  },
+  {
+    "title": "Go has added Valgrind support",
+    "description": "Article URL: https://go-review.googlesource.com/c/go/+/674077 Comments URL: https://news.ycombinator.com/item?id=45344708 Points: 276 # Comments: 73",
+    "url": "https://go-review.googlesource.com/c/go/+/674077",
+    "source": {
+      "name": "Hacker News",
+      "id": "hackernews",
+      "emoji": "💻"
+    },
+    "publishedAt": "2025-09-23T08:26:57+00:00",
+    "urlToImage": null,
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "programming",
+      "startups",
+      "ai"
+    ]
+  },
+  {
+    "title": "The YAML Document from Hell",
+    "description": "Article URL: https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell Comments URL: https://news.ycombinator.com/item?id=45344554 Points: 130 # Comments: 85",
+    "url": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+    "source": {
+      "name": "Hacker News",
+      "id": "hackernews",
+      "emoji": "💻"
+    },
+    "publishedAt": "2025-09-23T08:04:43+00:00",
+    "urlToImage": null,
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "programming",
+      "startups",
+      "ai"
+    ]
+  }
+]
