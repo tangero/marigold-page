@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Microsoft’s new 'Fairwater' megafactory aims to revolutionize AI training — how the world’s most powerful datacenter works",
+    "description": "Microsoft has unveiled Fairwater, its largest AI datacenter in Wisconsin, built to power massive AI models with NVIDIA’s latest GPUs and exabyte-scale storage.",
+    "url": "https://www.windowscentral.com/microsoft/inside-microsofts-new-ai-megafactory",
+    "source": {
+      "name": "Windows Central",
+      "id": "windowscentral",
+      "emoji": "🪟"
+    },
+    "publishedAt": "2025-09-23T13:15:00+00:00",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/LTGifYHqBGp4RqpsGDT4zU-1280-80.jpg",
+    "priority": 3,
+    "language": "en",
+    "categories": [
+      "microsoft",
+      "windows",
+      "gaming"
+    ]
+  },
+  {
+    "title": "Walmart's GeForce Week cuts prices by up to $1,500 — I found the 7 hottest RTX gaming laptop deals",
+    "description": "Walmart's GeForce Week arrives as a surprising deal event on NVIDIA gaming hardware, and the discounts are too good to miss. I handpicked 7 of the best gaming laptop deals right here.",
+    "url": "https://www.windowscentral.com/hardware/nvidia/walmart-geforce-week-best-laptop-deals",
+    "source": {
+      "name": "Windows Central",
+      "id": "windowscentral",
+      "emoji": "🪟"
+    },
+    "publishedAt": "2025-09-23T13:10:00+00:00",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ExennLxSS6B5yHoysv87RM-1280-80.jpg",
+    "priority": 3,
+    "language": "en",
+    "categories": [
+      "microsoft",
+      "windows",
+      "gaming"
+    ]
+  },
+  {
+    "title": "Microsoft 365 Copilot AI agents reach a new milestone — is teamwork about to change?",
+    "description": "Microsoft is rolling out new Copilot agents in Teams, SharePoint, and more, designed to act like AI teammates that organize projects, track tasks, and boost productivity.",
+    "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-365-copilot-ai-agents-reach-new-milestone",
+    "source": {
+      "name": "Windows Central",
+      "id": "windowscentral",
+      "emoji": "🪟"
+    },
+    "publishedAt": "2025-09-23T13:00:00+00:00",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwAT2VC7ttp6PH4CqMx7fH-1280-80.jpg",
+    "priority": 3,
+    "language": "en",
+    "categories": [
+      "microsoft",
+      "windows",
+      "gaming"
+    ]
+  }
+]

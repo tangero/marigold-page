@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Using Moondream AI to Make Your Pi “See” Like a Human",
+    "description": "[Jaryd] from Core Electronics shows us human-like computer vision with Moondream on the Pi 5. Using the Moondream visual language model, which runs directly on your Raspberry Pi, and not …read more",
+    "url": "https://hackaday.com/2025/09/23/using-moondream-ai-to-make-your-pi-see-like-a-human/",
+    "source": {
+      "name": "Hackaday",
+      "id": "hackaday",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T14:30:00+00:00",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/Moondream.jpg",
+    "priority": 3,
+    "language": "en",
+    "categories": [
+      "programming",
+      "hardware",
+      "diy"
+    ]
+  },
+  {
+    "title": "The Impending CRT Display Revival Will Be Televised",
+    "description": "Until the 2000s vacuum tubes practically ruled the roost. Even if they had surrendered practically fully to semiconductor technology like integrated circuits, there was no escaping them in everything from …read more",
+    "url": "https://hackaday.com/2025/09/23/the-impending-crt-display-revival-will-be-televised/",
+    "source": {
+      "name": "Hackaday",
+      "id": "hackaday",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T13:00:41+00:00",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/CRT.jpg",
+    "priority": 3,
+    "language": "en",
+    "categories": [
+      "programming",
+      "hardware",
+      "diy"
+    ]
+  },
+  {
+    "title": "Heart Rate Measurement via WiFi, The DIY Way",
+    "description": "A few weeks back, we reported on a research group that figured out how to measure heartrate using perturbations in WiFi signals. [Nick Bild] was interested in this so-called “Pulse-Fi” …read more",
+    "url": "https://hackaday.com/2025/09/23/heart-rate-measurement-via-wifi-the-diy-way/",
+    "source": {
+      "name": "Hackaday",
+      "id": "hackaday",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T10:00:20+00:00",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/Measure-Your-Heart-Rate-with-Wi-Fi-DIY-Project-4-30-screenshot.png",
+    "priority": 3,
+    "language": "en",
+    "categories": [
+      "programming",
+      "hardware",
+      "diy"
+    ]
+  }
+]

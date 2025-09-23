@@ -92,7 +92,7 @@ sources:
     url: "https://9to5mac.com/feed/"
     emoji: "🍎"
     priority: 3
-    enabled: false  # Vypnuto - příliš mnoho článků
+    enabled: true  # Zapnuto - lepší image handling
     category_focus: ["apple", "mobile"]
     max_articles: 3
     description: "Apple novinky"
@@ -107,9 +107,60 @@ sources:
     max_articles: 3
     description: "Android novinky"
 
+  # Další tech zdroje
+  cnet:
+    name: "CNET"
+    url: "https://www.cnet.com/rss/"
+    emoji: "📺"
+    priority: 4
+    enabled: true
+    category_focus: ["hardware", "mobile", "web"]
+    max_articles: 4
+    description: "Tech novinky a recenze"
+
+  gizmodo:
+    name: "Gizmodo"
+    url: "https://gizmodo.com/rss"
+    emoji: "⚡"
+    priority: 4
+    enabled: true
+    category_focus: ["hardware", "science", "mobile"]
+    max_articles: 4
+    description: "Tech, science a gadgets"
+
+  hackaday:
+    name: "Hackaday"
+    url: "https://hackaday.com/feed/"
+    emoji: "🔧"
+    priority: 3
+    enabled: true
+    category_focus: ["programming", "hardware", "diy"]
+    max_articles: 3
+    description: "DIY tech projekty a hacks"
+
+  windowscentral:
+    name: "Windows Central"
+    url: "https://www.windowscentral.com/rss.xml"
+    emoji: "🪟"
+    priority: 3
+    enabled: true
+    category_focus: ["microsoft", "windows", "gaming"]
+    max_articles: 3
+    description: "Microsoft a Windows novinky"
+
+  futurism:
+    name: "Futurism"
+    url: "https://futurism.com/feed/"
+    emoji: "🚀"
+    priority: 3
+    enabled: true
+    category_focus: ["science", "ai", "space"]
+    max_articles: 3
+    description: "Budoucnost technologií a věda"
+
 # Nastavení
 settings:
-  total_max_articles: 30  # Maximální počet článků celkem
+  total_max_articles: 40  # Maximální počet článků celkem
   fetch_timeout: 10  # Timeout pro stažení RSS v sekundách
   cache_hours: 1  # Jak dlouho cachovat RSS data
 

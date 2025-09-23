@@ -74,7 +74,7 @@ collections:
     permalink: /obrazy/:title/
   tech_news:
     output: true
-    permalink: /tech-news/:title/
+    permalink: /tech-news/:slug/
     sort_by: date      
 
 #

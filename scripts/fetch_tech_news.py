@@ -375,7 +375,7 @@ def create_markdown_file(article, category_info, source_emoji, importance_info, 
     pub_date = datetime.fromisoformat(article['published_at'].replace('Z', '+00:00'))
     date_str = pub_date.strftime('%Y-%m-%d')
 
-    filename = f"{date_str}-{article_index:02d}-{slug}.md"
+    filename = f"{date_str}-{slug}.md"
     filepath = output_dir / filename
 
     # Front matter podle tech_news_article layoutu
@@ -383,6 +383,7 @@ def create_markdown_file(article, category_info, source_emoji, importance_info, 
         'layout': 'tech_news_article',
         'title': article['czech_title'],
         'original_title': article['title'],
+        'slug': slug,  # Explicitní slug bez číslování
         'description': article['czech_description'],
         'publishedAt': article['published_at'],
         'date': pub_date.strftime('%Y-%m-%d %H:%M:%S'),
