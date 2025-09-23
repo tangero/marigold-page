@@ -70,16 +70,63 @@ def detect_category(title, description):
     text = f"{title} {description}".lower()
 
     category_keywords = {
-        'ai': ['ai', 'artificial intelligence', 'machine learning', 'ml', 'neural', 'gpt', 'chatgpt', 'openai', 'anthropic', 'llm', 'deep learning'],
-        'programming': ['javascript', 'python', 'rust', 'golang', 'typescript', 'react', 'vue', 'angular', 'framework', 'library', 'code', 'developer', 'programming'],
-        'hardware': ['cpu', 'gpu', 'processor', 'intel', 'amd', 'nvidia', 'chip', 'semiconductor', 'hardware', 'motherboard', 'ram'],
-        'startups': ['startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo', 'acquisition', 'founder', 'entrepreneur'],
-        'security': ['security', 'hack', 'breach', 'vulnerability', 'cyber', 'password', 'encryption', 'privacy', 'malware', 'ransomware'],
-        'mobile': ['android', 'ios', 'iphone', 'smartphone', 'mobile', 'app store', 'google play', 'samsung', 'apple'],
-        'web': ['web', 'browser', 'chrome', 'firefox', 'safari', 'html', 'css', 'frontend', 'backend', 'fullstack'],
-        'gaming': ['gaming', 'game', 'playstation', 'xbox', 'nintendo', 'steam', 'epic', 'esports', 'console'],
-        'crypto': ['crypto', 'bitcoin', 'ethereum', 'blockchain', 'nft', 'defi', 'web3', 'mining', 'wallet'],
-        'science': ['quantum', 'space', 'nasa', 'research', 'discovery', 'experiment', 'study', 'scientific', 'physics']
+        'ai': [
+            # Základní AI termíny
+            'ai', 'artificial intelligence', 'machine learning', 'ml', 'neural', 'deep learning', 'llm', 'nlp',
+            # Konkrétní modely a firmy (podle marigold.cz obsahu)
+            'gpt', 'chatgpt', 'openai', 'anthropic', 'claude', 'gemini', 'mistral', 'deepseek', 'llama', 'grok',
+            # AI aplikace
+            'reasoning', 'agents', 'automation', 'computer vision', 'robotics', 'humanoid'
+        ],
+        'programming': [
+            # Jazyky a technologie
+            'javascript', 'python', 'rust', 'golang', 'typescript', 'java', 'react', 'vue', 'angular',
+            # Vývojové nástroje (podle obsahu blogu)
+            'framework', 'library', 'code', 'developer', 'programming', 'github', 'cursor', 'copilot',
+            'open-source', 'api', 'software development'
+        ],
+        'hardware': [
+            # Procesory a komponenty
+            'cpu', 'gpu', 'processor', 'intel', 'amd', 'nvidia', 'chip', 'semiconductor', 'arm', 'quantum computing',
+            # Automotive (silná kategorie na blogu)
+            'automotive', 'electric vehicle', 'ev', 'tesla', 'autonomous driving', 'lidar'
+        ],
+        'startups': [
+            # Startup ekosystém
+            'startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo', 'acquisition', 'founder', 'entrepreneur',
+            'crowdfunding', 'kickstarter', 'series a', 'series b', 'exit', 'valuation'
+        ],
+        'security': [
+            # Bezpečnost a soukromí
+            'security', 'hack', 'breach', 'vulnerability', 'cyber', 'password', 'encryption', 'privacy',
+            'malware', 'ransomware', 'phishing', 'data protection', 'gdpr', 'surveillance'
+        ],
+        'mobile': [
+            # Mobilní technologie (specialita blogu)
+            'android', 'ios', 'iphone', 'smartphone', 'mobile', 'app store', 'google play', 'samsung', 'apple',
+            # Mobilní sítě (časté téma)
+            '5g', '4g', 'lte', 'cellular', 'carrier', 'telecom', 'spectrum', 'antenna'
+        ],
+        'web': [
+            # Web technologie
+            'web', 'browser', 'chrome', 'firefox', 'safari', 'html', 'css', 'frontend', 'backend',
+            'internet', 'website', 'domain', 'hosting', 'cdn', 'apis', 'cloud'
+        ],
+        'gaming': [
+            # Gaming a zábava
+            'gaming', 'game', 'playstation', 'xbox', 'nintendo', 'steam', 'epic', 'esports', 'console',
+            'vr', 'ar', 'metaverse', 'virtual reality', 'augmented reality'
+        ],
+        'crypto': [
+            # Kryptoměny a blockchain
+            'crypto', 'bitcoin', 'ethereum', 'blockchain', 'nft', 'defi', 'web3', 'mining', 'wallet',
+            'stablecoin', 'altcoin', 'dao', 'smart contract'
+        ],
+        'science': [
+            # Věda a výzkum
+            'quantum', 'space', 'nasa', 'research', 'discovery', 'experiment', 'study', 'scientific', 'physics',
+            'spacex', 'satellite', 'mars', 'climate', 'energy', 'renewable', 'nuclear'
+        ]
     }
 
     for category, keywords in category_keywords.items():
@@ -94,19 +141,25 @@ def detect_importance(title, description, category):
 
     # Kritická důležitost (5) - průlomy, velké akvizice, bezpečnostní incidenty
     critical_keywords = [
-        'breakthrough', 'major', 'massive', 'revolutionary', 'groundbreaking',
-        'billion', 'acquisition', 'hack', 'data breach', 'vulnerability',
-        'launches', 'announces', 'reveals', 'ipo', 'goes public',
-        'quantum computing', 'artificial general intelligence', 'agi',
-        'bankrupt', 'shutdown', 'discontinued'
+        # Zásadní události
+        'breakthrough', 'major', 'massive', 'revolutionary', 'groundbreaking', 'historic',
+        'billion', 'acquisition', 'merger', 'ipo', 'goes public', 'bankrupt', 'shutdown', 'discontinued',
+        # Bezpečnostní incidenty
+        'hack', 'data breach', 'vulnerability', 'cyber attack', 'ransomware attack',
+        # AI průlomy (podle obsahu blogu)
+        'quantum computing', 'artificial general intelligence', 'agi', 'superintelligence',
+        'reasoning breakthrough', 'autonomous', 'humanoid robot'
     ]
 
     # Vysoká důležitost (4) - významné novinky
     high_keywords = [
-        'new', 'first', 'latest', 'update', 'release', 'version',
-        'investment', 'funding', 'partnership', 'deal',
-        'apple', 'google', 'microsoft', 'meta', 'tesla', 'nvidia',
-        'openai', 'anthropic', 'spacex', 'amazon'
+        # Nové produkty a verze
+        'new', 'first', 'latest', 'update', 'release', 'version', 'launches', 'announces', 'reveals',
+        # Byznys
+        'investment', 'funding', 'partnership', 'deal', 'series a', 'series b', 'unicorn',
+        # Klíčové firmy (podle četnosti na blogu)
+        'apple', 'google', 'microsoft', 'meta', 'tesla', 'nvidia', 'amazon', 'spacex',
+        'openai', 'anthropic', 'deepseek', 'mistral', 'claude', 'gemini'
     ]
 
     # Nízká důležitost (2) - spekulace, germy
@@ -121,14 +174,18 @@ def detect_importance(title, description, category):
     high_count = sum(1 for keyword in high_keywords if keyword in text)
     low_count = sum(1 for keyword in low_keywords if keyword in text)
 
-    # Kategorie-specifické váhy
+    # Kategorie-specifické váhy (podle analýzy marigold.cz kategorií)
     category_weights = {
-        'ai': 1.2,  # AI zprávy jsou důležitější
-        'security': 1.3,  # Bezpečnostní zprávy jsou kritické
-        'startups': 1.1,  # Startup zprávy jsou zajímavé
-        'crypto': 0.9,  # Crypto má menší váhu
-        'gaming': 0.8,  # Gaming má nejmenší váhu
-        'science': 1.2  # Vědecké objevy jsou důležité
+        'ai': 1.4,          # AI (234 článků) - nejpopulárnější téma, vysoká váha
+        'security': 1.3,    # Bezpečnost (17 článků) - kritické pro tech
+        'startups': 1.2,    # Startupy (36 článků) - důležité pro ekosystém
+        'mobile': 1.1,      # Mobilní (44+39+20 článků) - specialita autora
+        'hardware': 1.1,    # Hardware/Automotive (109 článků) - tech focus
+        'programming': 1.0, # Programování (7 článků) - střední váha
+        'web': 1.0,         # Web/Internet (112 článků) - základní tech
+        'science': 1.2,     # Věda/výzkum - důležité objevy
+        'crypto': 0.8,      # Kryptoměny (méně obsahu na blogu)
+        'gaming': 0.7       # Gaming (nejméně relevantní pro Marigold)
     }
 
     # Základní skóre
