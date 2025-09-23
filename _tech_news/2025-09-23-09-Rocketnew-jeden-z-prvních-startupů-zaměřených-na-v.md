@@ -1,8 +1,8 @@
 ---
 category: startups
-date: '2025-09-23 14:53:56'
-description: Rocket.new dosáhl za tři měsíce 400 000 uživatelů a ročního příjmu 4,5
-  milionu dolarů.
+date: '2025-09-23 15:07:23'
+description: Rocket.new dosáhl 400 000 uživatelů a 4,5 milionu dolarů ročního příjmu
+  za tři měsíce.
 importance: 3
 layout: tech_news_article
 original_title: Rocket.new, one of India’s first vibe-coding startups, snags $15M
@@ -12,13 +12,13 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Rocket.new, jeden z prvních indických startupů zaměřených na vibe-coding, získává
+title: Rocket.new, jeden z prvních startupů zaměřených na vibe-coding v Indii, získává
   15 milionů dolarů od Accel a Salesforce Ventures
 url: https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/
 urlToImage: null
 ---
 
-Rocket.new dosáhl za tři měsíce 400 000 uživatelů a ročního příjmu 4,5 milionu dolarů.
+Rocket.new dosáhl 400 000 uživatelů a 4,5 milionu dolarů ročního příjmu za tři měsíce.
 
 [Číst původní článek](https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/)
 

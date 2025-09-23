@@ -1,9 +1,9 @@
 ---
 category: ai
-date: '2025-09-23 14:53:56'
+date: '2025-09-23 15:07:23'
 description: OpenAI spouští ChatGPT Go v Indonésii, aby konkuroval plánu Google AI
   Plus.
-importance: 2
+importance: 3
 layout: tech_news_article
 original_title: After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia
 publishedAt: '2025-09-23T04:47:26+00:00'

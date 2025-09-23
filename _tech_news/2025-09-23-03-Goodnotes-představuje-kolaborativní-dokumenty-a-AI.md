@@ -1,6 +1,6 @@
 ---
 category: mobile
-date: '2025-09-23 14:53:56'
+date: '2025-09-23 15:07:23'
 description: Aplikace na poznámky Goodnotes spouští nové funkce pro profesionální
   uživatele.
 importance: 2
