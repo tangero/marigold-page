@@ -59,14 +59,17 @@ def check_environment():
         raise ValueError("Chybí NEWS_API_KEY")
 
     if not openrouter_key:
-        logger.error("OPENROUTER_API_KEY není nastaven. Nastavte ho v GitHub Secrets.")
-        raise ValueError("Chybí OPENROUTER_API_KEY")
+        logger.warning("⚠️ OPENROUTER_API_KEY není nastaven - články nebudou přeloženy do češtiny")
+        openrouter_key = "skip"  # Použít původní texty bez překladu
 
     logger.info("✅ API klíče jsou nastaveny")
     return news_key, openrouter_key
 
 def detect_category(title, description):
     """Detekuje kategorii článku podle klíčových slov"""
+    # Ošetření None hodnot
+    title = title or ""
+    description = description or ""
     text = f"{title} {description}".lower()
 
     category_keywords = {
@@ -137,6 +140,9 @@ def detect_category(title, description):
 
 def detect_importance(title, description, category):
     """Detekuje důležitost článku na škále 1-5"""
+    # Ošetření None hodnot
+    title = title or ""
+    description = description or ""
     text = f"{title} {description}".lower()
 
     # Kritická důležitost (5) - průlomy, velké akvizice, bezpečnostní incidenty
@@ -214,6 +220,11 @@ def translate_with_openrouter(text, api_key, max_retries=3):
     """Přeloží text pomocí OpenRouter API"""
     if not text or not text.strip():
         logger.warning("Prázdný text pro překlad")
+        return text
+
+    # Pokud není API klíč nebo je test klíč, vrátit původní text
+    if not api_key or api_key == "test-key" or api_key == "skip":
+        logger.info("⚠️ OpenRouter překlad přeskočen - použit originální text")
         return text
 
     logger.info(f"🔄 Překládám: {text[:50]}...")
@@ -425,15 +436,26 @@ def main():
                 czech_title = translate_with_openrouter(article['title'], openrouter_api_key)
                 czech_description = ''
 
-                if article.get('description'):
-                    czech_description = translate_with_openrouter(article['description'], openrouter_api_key)
+                # Ověření a překlad description
+                description = article.get('description')
+                if description and description != '[Removed]':
+                    czech_description = translate_with_openrouter(description, openrouter_api_key)
+                else:
+                    # Použít content jako náhradní description
+                    content = article.get('content', '')
+                    if content and content != '[Removed]':
+                        # Zkrátit content na první větu
+                        short_content = content.split('.')[0] + '.' if '.' in content else content[:200]
+                        czech_description = translate_with_openrouter(short_content, openrouter_api_key)
+                    else:
+                        czech_description = ''
 
                 # Příprava článku
                 processed_article = {
-                    'title': article['title'],
-                    'czech_title': czech_title,
-                    'description': article.get('description', ''),
-                    'czech_description': czech_description,
+                    'title': article['title'] or 'Bez názvu',
+                    'czech_title': czech_title or article['title'] or 'Bez názvu',
+                    'description': description or '',
+                    'czech_description': czech_description or description or '',
                     'url': article['url'],
                     'source': article['source'],
                     'published_at': article['publishedAt'],
