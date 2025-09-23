@@ -1,0 +1,130 @@
+# Konfigurace RSS zdrojů pro technologické zprávy
+# Priority: 1-5 (5 = nejvyšší)
+# Enabled: true/false pro zapnutí/vypnutí zdroje
+
+sources:
+  # Hlavní technologické weby
+  techcrunch:
+    name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+    emoji: "🚀"
+    priority: 5
+    enabled: true
+    category_focus: ["startups", "ai", "funding"]
+    max_articles: 5
+    description: "Hlavní zdroj pro startup novinky a investice"
+
+  theverge:
+    name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    emoji: "⚡"
+    priority: 5
+    enabled: true
+    category_focus: ["hardware", "mobile", "gaming"]
+    max_articles: 5
+    description: "Tech novinky, recenze, kultura"
+
+  arstechnica:
+    name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/technology"
+    emoji: "🔬"
+    priority: 4
+    enabled: true
+    category_focus: ["science", "security", "programming"]
+    max_articles: 5
+    description: "Hloubkové technické analýzy"
+
+  wired:
+    name: "Wired"
+    url: "https://www.wired.com/feed/rss"
+    emoji: "🔧"
+    priority: 4
+    enabled: true
+    category_focus: ["science", "security", "culture"]
+    max_articles: 5
+    description: "Technologie a jejich dopad na společnost"
+
+  hackernews:
+    name: "Hacker News"
+    url: "https://hnrss.org/frontpage?points=100"  # Pouze články s 100+ body
+    emoji: "💻"
+    priority: 4
+    enabled: true
+    category_focus: ["programming", "startups", "ai"]
+    max_articles: 5
+    description: "Komunita vývojářů a podnikatelů"
+
+  mit_tech_review:
+    name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/feed/"
+    emoji: "🎓"
+    priority: 4
+    enabled: true
+    category_focus: ["ai", "science", "research"]
+    max_articles: 3
+    description: "Akademický pohled na technologie"
+
+
+  # AI specializované
+  openai_blog:
+    name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    emoji: "🤖"
+    priority: 5
+    enabled: true
+    category_focus: ["ai"]
+    max_articles: 3
+    description: "Novinky od OpenAI"
+
+  anthropic:
+    name: "Anthropic"
+    url: "https://www.anthropic.com/rss.xml"
+    emoji: "🧠"
+    priority: 5
+    enabled: false  # RSS možná nefunguje
+    category_focus: ["ai"]
+    max_articles: 3
+    description: "Claude AI novinky"
+
+  # Mobilní technologie
+  9to5mac:
+    name: "9to5Mac"
+    url: "https://9to5mac.com/feed/"
+    emoji: "🍎"
+    priority: 3
+    enabled: false  # Vypnuto - příliš mnoho článků
+    category_focus: ["apple", "mobile"]
+    max_articles: 3
+    description: "Apple novinky"
+
+  androidauthority:
+    name: "Android Authority"
+    url: "https://www.androidauthority.com/feed/"
+    emoji: "🤖"
+    priority: 3
+    enabled: false
+    category_focus: ["android", "mobile"]
+    max_articles: 3
+    description: "Android novinky"
+
+# Nastavení
+settings:
+  total_max_articles: 30  # Maximální počet článků celkem
+  fetch_timeout: 10  # Timeout pro stažení RSS v sekundách
+  cache_hours: 1  # Jak dlouho cachovat RSS data
+
+  # Filtry
+  filters:
+    min_title_length: 10  # Minimální délka titulku
+    max_age_days: 7  # Maximální stáří článků ve dnech
+    exclude_keywords:  # Klíčová slova pro vyloučení
+      - "sponsored"
+      - "advertisement"
+      - "[ad]"
+
+  # Obrázky
+  image_handling:
+    fetch_og_images: true  # Stahovat Open Graph obrázky ze stránky
+    fallback_to_logo: true  # Použít logo zdroje jako fallback
+    min_width: 400  # Minimální šířka obrázku
+    min_height: 200  # Minimální výška obrázku

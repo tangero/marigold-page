@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Android po letech nabídne podporu pro DHCPv6, bude ale vyžadovat úpravu sítě",
+    "description": "Android dlouhá léta bojkotoval podporu DHCPv6, aby zabránil přidělování jednotlivých adres koncovému zařízení. Připravuje se řešení, ale od správců sítí bude vyžadovat úpravy nastavení i adresních plánů.",
+    "url": "https://www.root.cz/clanky/android-po-letech-nabidne-podporu-pro-dhcpv6-bude-ale-vyzadovat-upravu-site/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+    "source": {
+      "name": "Root.cz",
+      "id": "root_cz",
+      "emoji": "🐧"
+    },
+    "publishedAt": "2025-09-22T21:00:10+00:00",
+    "urlToImage": "https://i.iinfo.cz/images/450/sit-router-mobil-wi-fi-android.jpg",
+    "priority": 3,
+    "language": "cs",
+    "categories": [
+      "linux",
+      "programming",
+      "security"
+    ]
+  },
+  {
+    "title": "Programovací jazyk C3: složené datové typy a kontejnery",
+    "description": "Zaměříme se na popis složených datových typů a kontejnerů. Mezi základní typy kontejnerů patří vektory, staticky alokovaná pole, dynamicky alokovaná pole a můžeme sem zařadit i řezy.",
+    "url": "https://www.root.cz/clanky/programovaci-jazyk-c3-slozene-datove-typy-a-kontejnery/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+    "source": {
+      "name": "Root.cz",
+      "id": "root_cz",
+      "emoji": "🐧"
+    },
+    "publishedAt": "2025-09-22T21:00:05+00:00",
+    "urlToImage": "https://i.iinfo.cz/images/232/programovaci-jazyk-c3.jpg",
+    "priority": 3,
+    "language": "cs",
+    "categories": [
+      "linux",
+      "programming",
+      "security"
+    ]
+  },
+  {
+    "title": "Postřehy z bezpečnosti: Samsung opravil vážnou zranitelnost v telefonech",
+    "description": "Podíváme se na zranitelnosti v zařízeních od Samsungu, v nástroji Jenkins a Microsoft Entra ID. Dále se budeme věnovat škodlivým balíčkům v repozitáři PyPI nebo prvnímu samoreplikujícímu se červovi v registru npm.",
+    "url": "https://www.root.cz/clanky/postrehy-z-bezpecnosti-samsung-opravil-vaznou-zranitelnost-v-telefonech/?utm_source=rss&utm_medium=text&utm_campaign=rss",
+    "source": {
+      "name": "Root.cz",
+      "id": "root_cz",
+      "emoji": "🐧"
+    },
+    "publishedAt": "2025-09-21T21:00:10+00:00",
+    "urlToImage": "https://i.iinfo.cz/images/615/samsung-galaxy-s23-ultra-telefon-android.jpg",
+    "priority": 3,
+    "language": "cs",
+    "categories": [
+      "linux",
+      "programming",
+      "security"
+    ]
+  }
+]
