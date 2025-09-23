@@ -10,6 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 import logging
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 # Načíst .env soubor pokud existuje (pro lokální development)
 load_dotenv()
@@ -220,6 +221,36 @@ def detect_importance(title, description, category):
 
     return final_score
 
+def fetch_og_image(article_url, timeout=5):
+    """Stáhne Open Graph obrázek ze stránky článku"""
+    try:
+        response = requests.get(article_url, timeout=timeout, headers={
+            'User-Agent': 'Mozilla/5.0 (Marigold.cz Tech News Bot)'
+        })
+
+        if response.ok:
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Open Graph image
+            og_image = soup.find('meta', property='og:image')
+            if og_image:
+                return og_image.get('content')
+
+            # Twitter card image
+            twitter_image = soup.find('meta', attrs={'name': 'twitter:image'})
+            if twitter_image:
+                return twitter_image.get('content')
+
+            # Schema.org image
+            schema_image = soup.find('meta', attrs={'itemprop': 'image'})
+            if schema_image:
+                return schema_image.get('content')
+
+    except Exception as e:
+        logger.debug(f"Nelze získat OG image z {article_url}: {e}")
+
+    return None
+
 def translate_with_openrouter(text, api_key, max_retries=3):
     """Přeloží text pomocí OpenRouter API"""
     if not text or not text.strip():
@@ -332,7 +363,7 @@ def fetch_tech_news(api_key):
         logger.error(f"Stahování technologických zpráv selhalo: {e}")
         raise
 
-def create_markdown_file(article, category_info, source_emoji, importance_info, output_dir):
+def create_markdown_file(article, category_info, source_emoji, importance_info, output_dir, article_index):
     """Vytvoří Markdown soubor pro článek"""
 
     # Vytvoř slug z titulku
@@ -344,29 +375,26 @@ def create_markdown_file(article, category_info, source_emoji, importance_info, 
     pub_date = datetime.fromisoformat(article['published_at'].replace('Z', '+00:00'))
     date_str = pub_date.strftime('%Y-%m-%d')
 
-    filename = f"{date_str}-{slug}.md"
+    filename = f"{date_str}-{article_index:02d}-{slug}.md"
     filepath = output_dir / filename
 
-    # Front matter
+    # Front matter podle tech_news_article layoutu
     front_matter = {
-        'layout': 'tech_news',
+        'layout': 'tech_news_article',
         'title': article['czech_title'],
         'original_title': article['title'],
-        'date': pub_date.strftime('%Y-%m-%d %H:%M:%S %z'),
-        'categories': ['tech-news', category_info['name'].lower()],
-        'tags': [category_info['cs_name']],
-        'source': article['source']['name'],
-        'source_url': article['url'],
-        'image': article.get('url_to_image'),
-        'emoji': f"{source_emoji} {category_info['emoji']}",
-        'category_emoji': category_info['emoji'],
-        'category_cs': category_info['cs_name'],
         'description': article['czech_description'],
+        'publishedAt': article['published_at'],
+        'date': pub_date.strftime('%Y-%m-%d %H:%M:%S'),
+        'url': article['url'],
+        'urlToImage': article.get('url_to_image'),
+        'category': category_info['name'].lower(),
         'importance': article['importance'],
-        'importance_emoji': importance_info['emoji'],
-        'importance_name': importance_info['name'],
-        'importance_color': importance_info['color'],
-        'importance_bg_color': importance_info['bg_color']
+        'source': {
+            'name': article['source']['name'],
+            'id': article['source'].get('id', ''),
+            'emoji': source_emoji
+        }
     }
 
     # Vytvořit obsah
@@ -454,6 +482,12 @@ def main():
                     else:
                         czech_description = ''
 
+                # Získat obrázek - nejdříve z NewsAPI, pak OG jako fallback
+                image_url = article.get('urlToImage')
+                if not image_url and article['url']:
+                    logger.info(f"🖼️ Získávám OG obrázek z {article['url'][:50]}...")
+                    image_url = fetch_og_image(article['url'])
+
                 # Příprava článku
                 processed_article = {
                     'title': article['title'] or 'Bez názvu',
@@ -463,12 +497,12 @@ def main():
                     'url': article['url'],
                     'source': article['source'],
                     'published_at': article['publishedAt'],
-                    'url_to_image': article.get('urlToImage'),
+                    'url_to_image': image_url,
                     'importance': importance_level
                 }
 
                 # Vytvoření Markdown souboru
-                create_markdown_file(processed_article, category_info, source_emoji, importance_info, output_dir)
+                create_markdown_file(processed_article, category_info, source_emoji, importance_info, output_dir, processed_count + 1)
                 processed_count += 1
 
                 # Rate limiting mezi články
