@@ -26,12 +26,21 @@ SOURCE_EMOJIS = {
     'reddit-r-technology': '👽'
 }
 
+# Mapování důležitosti na emoji a názvy
+IMPORTANCE_LEVELS = {
+    5: {'emoji': '🔥', 'name': 'KRITICKÁ', 'color': '#dc2626', 'bg_color': '#fef2f2'},
+    4: {'emoji': '⚡', 'name': 'VYSOKÁ', 'color': '#ea580c', 'bg_color': '#fff7ed'},
+    3: {'emoji': '📢', 'name': 'STŘEDNÍ', 'color': '#2563eb', 'bg_color': '#eff6ff'},
+    2: {'emoji': '📝', 'name': 'NÍZKÁ', 'color': '#059669', 'bg_color': '#ecfdf5'},
+    1: {'emoji': '💬', 'name': 'INFO', 'color': '#6b7280', 'bg_color': '#f9fafb'}
+}
+
 # Kategorie technologických zpráv
 TECH_CATEGORIES = {
     'ai': {'emoji': '🤖', 'name': 'AI & ML', 'cs_name': 'Umělá inteligence'},
     'programming': {'emoji': '💻', 'name': 'Programming', 'cs_name': 'Programování'},
     'hardware': {'emoji': '🖥️', 'name': 'Hardware', 'cs_name': 'Hardware'},
-    'startup': {'emoji': '🚀', 'name': 'Startups', 'cs_name': 'Startupy'},
+    'startups': {'emoji': '🚀', 'name': 'Startups', 'cs_name': 'Startupy'},
     'security': {'emoji': '🔒', 'name': 'Security', 'cs_name': 'Bezpečnost'},
     'mobile': {'emoji': '📱', 'name': 'Mobile', 'cs_name': 'Mobilní'},
     'web': {'emoji': '🌐', 'name': 'Web', 'cs_name': 'Web'},
@@ -64,7 +73,7 @@ def detect_category(title, description):
         'ai': ['ai', 'artificial intelligence', 'machine learning', 'ml', 'neural', 'gpt', 'chatgpt', 'openai', 'anthropic', 'llm', 'deep learning'],
         'programming': ['javascript', 'python', 'rust', 'golang', 'typescript', 'react', 'vue', 'angular', 'framework', 'library', 'code', 'developer', 'programming'],
         'hardware': ['cpu', 'gpu', 'processor', 'intel', 'amd', 'nvidia', 'chip', 'semiconductor', 'hardware', 'motherboard', 'ram'],
-        'startup': ['startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo', 'acquisition', 'founder', 'entrepreneur'],
+        'startups': ['startup', 'funding', 'investment', 'venture', 'unicorn', 'ipo', 'acquisition', 'founder', 'entrepreneur'],
         'security': ['security', 'hack', 'breach', 'vulnerability', 'cyber', 'password', 'encryption', 'privacy', 'malware', 'ransomware'],
         'mobile': ['android', 'ios', 'iphone', 'smartphone', 'mobile', 'app store', 'google play', 'samsung', 'apple'],
         'web': ['web', 'browser', 'chrome', 'firefox', 'safari', 'html', 'css', 'frontend', 'backend', 'fullstack'],
@@ -78,6 +87,71 @@ def detect_category(title, description):
             return category
 
     return 'web'  # Default kategorie
+
+def detect_importance(title, description, category):
+    """Detekuje důležitost článku na škále 1-5"""
+    text = f"{title} {description}".lower()
+
+    # Kritická důležitost (5) - průlomy, velké akvizice, bezpečnostní incidenty
+    critical_keywords = [
+        'breakthrough', 'major', 'massive', 'revolutionary', 'groundbreaking',
+        'billion', 'acquisition', 'hack', 'data breach', 'vulnerability',
+        'launches', 'announces', 'reveals', 'ipo', 'goes public',
+        'quantum computing', 'artificial general intelligence', 'agi',
+        'bankrupt', 'shutdown', 'discontinued'
+    ]
+
+    # Vysoká důležitost (4) - významné novinky
+    high_keywords = [
+        'new', 'first', 'latest', 'update', 'release', 'version',
+        'investment', 'funding', 'partnership', 'deal',
+        'apple', 'google', 'microsoft', 'meta', 'tesla', 'nvidia',
+        'openai', 'anthropic', 'spacex', 'amazon'
+    ]
+
+    # Nízká důležitost (2) - spekulace, germy
+    low_keywords = [
+        'rumors', 'speculation', 'might', 'could', 'reportedly',
+        'allegedly', 'sources say', 'leak', 'hint', 'suggests',
+        'beta', 'preview', 'concept'
+    ]
+
+    # Počet kritických klíčových slov
+    critical_count = sum(1 for keyword in critical_keywords if keyword in text)
+    high_count = sum(1 for keyword in high_keywords if keyword in text)
+    low_count = sum(1 for keyword in low_keywords if keyword in text)
+
+    # Kategorie-specifické váhy
+    category_weights = {
+        'ai': 1.2,  # AI zprávy jsou důležitější
+        'security': 1.3,  # Bezpečnostní zprávy jsou kritické
+        'startups': 1.1,  # Startup zprávy jsou zajímavé
+        'crypto': 0.9,  # Crypto má menší váhu
+        'gaming': 0.8,  # Gaming má nejmenší váhu
+        'science': 1.2  # Vědecké objevy jsou důležité
+    }
+
+    # Základní skóre
+    if critical_count >= 2:
+        base_score = 5
+    elif critical_count >= 1:
+        base_score = 4
+    elif high_count >= 2:
+        base_score = 4
+    elif high_count >= 1:
+        base_score = 3
+    elif low_count >= 1:
+        base_score = 2
+    else:
+        base_score = 3  # Střední důležitost
+
+    # Aplikovat kategorijní váhu
+    weighted_score = base_score * category_weights.get(category, 1.0)
+
+    # Zaokrouhlit a omezit na rozsah 1-5
+    final_score = max(1, min(5, round(weighted_score)))
+
+    return final_score
 
 def translate_with_openrouter(text, api_key, max_retries=3):
     """Přeloží text pomocí OpenRouter API"""
@@ -150,19 +224,14 @@ Překlad:"""
     return text  # Fallback - toto by se nikdy nemělo stát
 
 def fetch_tech_news(api_key):
-    """Získá technologické zprávy z NewsAPI"""
+    """Získá technologické zprávy z NewsAPI pomocí category=technology"""
 
-    # Zkusit nejprve specifické zdroje
-    sources = 'techcrunch,the-verge,wired,ars-technica,engadget,hacker-news,the-next-web'
+    logger.info("🔄 Stahuji zprávy z kategorie technology")
 
     try:
-        logger.info(f"🔄 Stahuji zprávy ze zdrojů: {sources}")
-
-        response = requests.get('https://newsapi.org/v2/everything',
+        response = requests.get('https://newsapi.org/v2/top-headlines',
             params={
-                'sources': sources,
-                'language': 'en',
-                'sortBy': 'publishedAt',
+                'category': 'technology',
                 'pageSize': 30,
                 'apiKey': api_key
             },
@@ -183,51 +252,15 @@ def fetch_tech_news(api_key):
             raise ValueError(f"NewsAPI chyba: {data.get('message', 'Neznámá chyba')}")
 
         articles = data.get('articles', [])
-        logger.info(f"✅ Načteno {len(articles)} článků ze zdrojů")
-
-        if articles:
-            return articles
-
-    except Exception as e:
-        logger.warning(f"Stahování ze zdrojů selhalo: {e}")
-
-    # Fallback na kategorii technology
-    try:
-        logger.info("🔄 Fallback - používám kategorii technology")
-
-        response = requests.get('https://newsapi.org/v2/top-headlines',
-            params={
-                'category': 'technology',
-                'country': 'us',
-                'pageSize': 30,
-                'apiKey': api_key
-            },
-            timeout=30
-        )
-
-        logger.info(f"NewsAPI fallback response: {response.status_code}")
-
-        if not response.ok:
-            error_text = response.text
-            logger.error(f"NewsAPI fallback chyba {response.status_code}: {error_text}")
-            raise requests.RequestException(f"NewsAPI fallback chyba {response.status_code}: {error_text}")
-
-        data = response.json()
-
-        if data.get('status') != 'ok':
-            logger.error(f"NewsAPI fallback neúspěšný: {data}")
-            raise ValueError(f"NewsAPI fallback chyba: {data.get('message', 'Neznámá chyba')}")
-
-        articles = data.get('articles', [])
-        logger.info(f"✅ Fallback načteno {len(articles)} článků")
+        logger.info(f"✅ Načteno {len(articles)} článků z kategorie technology")
 
         return articles
 
     except Exception as e:
-        logger.error(f"I fallback selhal: {e}")
+        logger.error(f"Stahování technologických zpráv selhalo: {e}")
         raise
 
-def create_markdown_file(article, category_info, source_emoji, output_dir):
+def create_markdown_file(article, category_info, source_emoji, importance_info, output_dir):
     """Vytvoří Markdown soubor pro článek"""
 
     # Vytvoř slug z titulku
@@ -256,7 +289,12 @@ def create_markdown_file(article, category_info, source_emoji, output_dir):
         'emoji': f"{source_emoji} {category_info['emoji']}",
         'category_emoji': category_info['emoji'],
         'category_cs': category_info['cs_name'],
-        'description': article['czech_description']
+        'description': article['czech_description'],
+        'importance': article['importance'],
+        'importance_emoji': importance_info['emoji'],
+        'importance_name': importance_info['name'],
+        'importance_color': importance_info['color'],
+        'importance_bg_color': importance_info['bg_color']
     }
 
     # Vytvořit obsah
@@ -316,6 +354,12 @@ def main():
                 category_key = detect_category(article['title'], article.get('description', ''))
                 category_info = TECH_CATEGORIES[category_key]
 
+                # Detekce důležitosti
+                importance_level = detect_importance(article['title'], article.get('description', ''), category_key)
+                importance_info = IMPORTANCE_LEVELS[importance_level]
+
+                logger.info(f"🎯 Důležitost: {importance_info['emoji']} {importance_info['name']} ({importance_level}/5)")
+
                 # Emoji pro zdroj
                 source_id = article.get('source', {}).get('id', '').lower()
                 source_emoji = SOURCE_EMOJIS.get(source_id, '💡')
@@ -336,11 +380,12 @@ def main():
                     'url': article['url'],
                     'source': article['source'],
                     'published_at': article['publishedAt'],
-                    'url_to_image': article.get('urlToImage')
+                    'url_to_image': article.get('urlToImage'),
+                    'importance': importance_level
                 }
 
                 # Vytvoření Markdown souboru
-                create_markdown_file(processed_article, category_info, source_emoji, output_dir)
+                create_markdown_file(processed_article, category_info, source_emoji, importance_info, output_dir)
                 processed_count += 1
 
                 # Rate limiting mezi články

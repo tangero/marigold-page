@@ -8,26 +8,37 @@ layout: default
     <p class="tech-news-description">{{ page.description }}</p>
   </header>
 
-  <!-- Kategorie filtry -->
+  <!-- Filtry -->
   <div class="tech-news-filters">
-    <button class="filter-btn active" data-category="all">🌟 Vše</button>
-    <button class="filter-btn" data-category="ai">🤖 AI & ML</button>
-    <button class="filter-btn" data-category="programming">💻 Programování</button>
-    <button class="filter-btn" data-category="hardware">🖥️ Hardware</button>
-    <button class="filter-btn" data-category="startup">🚀 Startupy</button>
-    <button class="filter-btn" data-category="security">🔒 Bezpečnost</button>
-    <button class="filter-btn" data-category="mobile">📱 Mobilní</button>
-    <button class="filter-btn" data-category="web">🌐 Web</button>
-    <button class="filter-btn" data-category="gaming">🎮 Hry</button>
-    <button class="filter-btn" data-category="crypto">₿ Krypto</button>
-    <button class="filter-btn" data-category="science">🔬 Věda</button>
+    <!-- Obecné filtry -->
+    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
+
+    <!-- Filtry podle důležitosti -->
+    <div class="filter-separator">Důležitost:</div>
+    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
+    <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
+
+    <!-- Filtry podle kategorií -->
+    <div class="filter-separator">Kategorie:</div>
+    <button class="filter-btn" data-filter="ai" data-type="category">🤖 AI & ML</button>
+    <button class="filter-btn" data-filter="programming" data-type="category">💻 Programování</button>
+    <button class="filter-btn" data-filter="hardware" data-type="category">🖥️ Hardware</button>
+    <button class="filter-btn" data-filter="startups" data-type="category">🚀 Startupy</button>
+    <button class="filter-btn" data-filter="security" data-type="category">🔒 Bezpečnost</button>
+    <button class="filter-btn" data-filter="mobile" data-type="category">📱 Mobilní</button>
+    <button class="filter-btn" data-filter="web" data-type="category">🌐 Web</button>
+    <button class="filter-btn" data-filter="gaming" data-type="category">🎮 Hry</button>
+    <button class="filter-btn" data-filter="crypto" data-type="category">₿ Krypto</button>
+    <button class="filter-btn" data-filter="science" data-type="category">🔬 Věda</button>
   </div>
 
   <!-- Seznam zpráv -->
   <div class="tech-news-grid">
-    {% assign sorted_news = site.tech_news | sort: 'date' | reverse %}
+    {% assign sorted_news = site.tech_news | sort: 'importance' | reverse %}
+    {% assign sorted_news = sorted_news | sort: 'date' | reverse %}
     {% for article in sorted_news %}
-    <article class="tech-news-card" data-category="{{ article.categories[1] }}">
+    <article class="tech-news-card" data-category="{{ article.categories[1] }}" data-importance="{{ article.importance }}">
       <div class="tech-news-meta">
         <span class="tech-news-emoji">{{ article.emoji }}</span>
         <div class="tech-news-info">
@@ -35,6 +46,10 @@ layout: default
           <time class="tech-news-date" datetime="{{ article.date | date_to_xmlschema }}">
             {{ article.date | date: "%d.%m.%Y %H:%M" }}
           </time>
+        </div>
+        <div class="importance-indicator" style="background-color: {{ article.importance_bg_color }}; color: {{ article.importance_color }};">
+          <span class="importance-emoji">{{ article.importance_emoji }}</span>
+          <span class="importance-text">{{ article.importance_name }}</span>
         </div>
       </div>
 
@@ -73,28 +88,78 @@ layout: default
 </div>
 
 <script>
-// Filtrování podle kategorií
+// Filtrování podle kategorií a důležitosti
 document.addEventListener('DOMContentLoaded', function() {
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 
+  // Aktualizovat počty článků v tlačítkách
+  function updateCounts() {
+    filterBtns.forEach(btn => {
+      const filter = btn.dataset.filter;
+      const type = btn.dataset.type;
+      let count = 0;
+
+      if (filter === 'all') {
+        count = newsCards.length;
+      } else {
+        newsCards.forEach(card => {
+          if (type === 'category' && card.dataset.category === filter) {
+            count++;
+          } else if (type === 'importance' && card.dataset.importance === filter) {
+            count++;
+          }
+        });
+      }
+
+      // Aktualizovat text tlačítka
+      const originalText = btn.textContent.split(' (')[0];
+      btn.textContent = `${originalText} (${count})`;
+
+      // Skrýt tlačítka bez článků
+      if (count === 0 && filter !== 'all') {
+        btn.style.display = 'none';
+      } else {
+        btn.style.display = 'inline-block';
+      }
+    });
+  }
+
+  // Spustit při načtení
+  updateCounts();
+
   filterBtns.forEach(btn => {
     btn.addEventListener('click', function() {
-      const category = this.dataset.category;
+      const filter = this.dataset.filter;
+      const type = this.dataset.type;
 
-      // Aktualizovat aktivní tlačítko
+      // Aktualizovat aktivní tlačítko (pouze jedno může být aktivní)
       filterBtns.forEach(b => b.classList.remove('active'));
       this.classList.add('active');
 
       // Filtrovat zprávy
+      let visibleCount = 0;
       newsCards.forEach(card => {
-        if (category === 'all' || card.dataset.category === category) {
+        let shouldShow = false;
+
+        if (filter === 'all') {
+          shouldShow = true;
+        } else if (type === 'category' && card.dataset.category === filter) {
+          shouldShow = true;
+        } else if (type === 'importance' && card.dataset.importance === filter) {
+          shouldShow = true;
+        }
+
+        if (shouldShow) {
           card.style.display = 'block';
           card.style.animation = 'fadeIn 0.3s ease-in';
+          visibleCount++;
         } else {
           card.style.display = 'none';
         }
       });
+
+      console.log(`Filtered to ${type}: ${filter}, showing ${visibleCount} articles`);
     });
   });
 });
@@ -159,9 +224,18 @@ document.addEventListener('DOMContentLoaded', function() {
   box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
 }
 
+.filter-separator {
+  font-weight: 600;
+  color: #4a5568;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.9rem;
+  flex-basis: 100%;
+  text-align: left;
+}
+
 .tech-news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
@@ -183,9 +257,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 .tech-news-meta {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.75rem;
   padding: 1rem 1rem 0.5rem;
+  position: relative;
 }
 
 .tech-news-emoji {
@@ -208,6 +283,53 @@ document.addEventListener('DOMContentLoaded', function() {
 .tech-news-date {
   color: #718096;
   font-size: 0.8rem;
+}
+
+.importance-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: auto;
+  white-space: nowrap;
+  border: 1px solid currentColor;
+  opacity: 0.9;
+}
+
+.importance-emoji {
+  font-size: 0.9em;
+}
+
+.importance-text {
+  font-size: 0.7em;
+}
+
+/* Specifické styly pro různé úrovně důležitosti */
+.tech-news-card[data-importance="5"] {
+  border-left: 4px solid #dc2626;
+  box-shadow: 0 4px 6px rgba(220, 38, 38, 0.1);
+}
+
+.tech-news-card[data-importance="4"] {
+  border-left: 4px solid #ea580c;
+  box-shadow: 0 4px 6px rgba(234, 88, 12, 0.1);
+}
+
+.tech-news-card[data-importance="3"] {
+  border-left: 4px solid #2563eb;
+}
+
+.tech-news-card[data-importance="2"] {
+  border-left: 4px solid #059669;
+}
+
+.tech-news-card[data-importance="1"] {
+  border-left: 4px solid #6b7280;
 }
 
 .tech-news-image {
@@ -301,6 +423,13 @@ document.addEventListener('DOMContentLoaded', function() {
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 1024px) {
+  .tech-news-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
 }
 
 @media (max-width: 768px) {
