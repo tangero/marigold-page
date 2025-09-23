@@ -33,10 +33,42 @@ layout: default
   </div>
 
   <!-- Seznam zpráv -->
-  <div class="tech-news-grid">
-    {% assign sorted_news = site.tech_news | sort: 'importance' | reverse %}
-    {% assign sorted_news = sorted_news | sort: 'date' | reverse %}
-    {% for article in sorted_news %}
+  <div class="tech-news-container">
+    <!-- Navigace dnů -->
+    <div class="date-navigation">
+      {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
+      {% assign current_date = all_dates[0] %}
+
+      <div class="date-selector">
+        <button id="prev-date" class="date-nav-btn" title="Předchozí den">&larr;</button>
+        <div class="current-date">
+          <span id="current-date-display">{{ current_date | date: "%d.%m.%Y" }}</span>
+          <select id="date-picker">
+            {% for date in all_dates %}
+            <option value="{{ date | date: '%Y-%m-%d' }}" {% if forloop.first %}selected{% endif %}>
+              {{ date | date: "%d.%m.%Y" }}
+            </option>
+            {% endfor %}
+          </select>
+        </div>
+        <button id="next-date" class="date-nav-btn" title="Následující den">&rarr;</button>
+      </div>
+
+      <div class="date-info">
+        <span id="articles-count">0 článků</span>
+      </div>
+    </div>
+
+    <!-- Grid článků -->
+    <div class="tech-news-grid">
+      {% comment %} Groupnout články podle data {% endcomment %}
+      {% assign articles_by_date = site.tech_news | group_by_exp: 'item', 'item.date | date: "%Y-%m-%d"' %}
+
+      {% for date_group in articles_by_date %}
+        {% assign date_articles = date_group.items | sort: 'importance' | reverse %}
+        <div class="date-group" data-date="{{ date_group.name }}" style="display: {% if forloop.first %}block{% else %}none{% endif %};">
+
+          {% for article in date_articles %}
     <article class="tech-news-card" data-category="{{ article.category }}" data-importance="{{ article.importance }}">
       <div class="tech-news-meta">
         <span class="tech-news-emoji">{{ article.source.emoji }}</span>
@@ -82,7 +114,11 @@ layout: default
         </div>
       </div>
     </article>
-    {% endfor %}
+          {% endfor %}
+
+        </div>
+      {% endfor %}
+    </div>
   </div>
 
   {% if site.tech_news.size == 0 %}
@@ -185,47 +221,24 @@ function initTechNewsTracking() {
   });
 }
 
-// Filtrování podle kategorií a důležitosti
+// Navigace mezi dny a filtrování
 document.addEventListener('DOMContentLoaded', function() {
   // Inicializovat tracking
   initTechNewsTracking();
+
+  // Navigace dnů
+  initDateNavigation();
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 
-  // Aktualizovat počty článků v tlačítkách
+  // Aktualizovat počty článků v tlačítkách (volá se z date navigation)
   function updateCounts() {
-    filterBtns.forEach(btn => {
-      const filter = btn.dataset.filter;
-      const type = btn.dataset.type;
-      let count = 0;
-
-      if (filter === 'all') {
-        count = newsCards.length;
-      } else {
-        newsCards.forEach(card => {
-          if (type === 'category' && card.dataset.category === filter) {
-            count++;
-          } else if (type === 'importance' && card.dataset.importance === filter) {
-            count++;
-          }
-        });
-      }
-
-      // Aktualizovat text tlačítka
-      const originalText = btn.textContent.split(' (')[0];
-      btn.textContent = `${originalText} (${count})`;
-
-      // Skrýt tlačítka bez článků
-      if (count === 0 && filter !== 'all') {
-        btn.style.display = 'none';
-      } else {
-        btn.style.display = 'inline-block';
-      }
-    });
+    // Tuto funkci nyní volá updateFiltersForCurrentDate() z date navigation
+    // Ponecháme prázdnou pro zpětnou kompatibilitu
   }
 
-  // Spustit při načtení
-  updateCounts();
+  // Spustit při načtení (nyní se inicializuje v date navigation)
+  // updateCounts();
 
   filterBtns.forEach(btn => {
     btn.addEventListener('click', function() {
@@ -236,9 +249,14 @@ document.addEventListener('DOMContentLoaded', function() {
       filterBtns.forEach(b => b.classList.remove('active'));
       this.classList.add('active');
 
-      // Filtrovat zprávy
+      // Filtrovat zprávy pouze v aktuálně zobrazené skupině dnů
+      const activeGroup = document.querySelector('.date-group[style*="block"]');
+      if (!activeGroup) return;
+
+      const activeDayCards = activeGroup.querySelectorAll('.tech-news-card');
       let visibleCount = 0;
-      newsCards.forEach(card => {
+
+      activeDayCards.forEach(card => {
         let shouldShow = false;
 
         if (filter === 'all') {
@@ -261,10 +279,232 @@ document.addEventListener('DOMContentLoaded', function() {
       console.log(`Filtered to ${type}: ${filter}, showing ${visibleCount} articles`);
     });
   });
+
+  // Funkce pro navigaci dnů
+  function initDateNavigation() {
+    const dateGroups = document.querySelectorAll('.date-group');
+    const prevBtn = document.getElementById('prev-date');
+    const nextBtn = document.getElementById('next-date');
+    const datePicker = document.getElementById('date-picker');
+    const currentDateDisplay = document.getElementById('current-date-display');
+    const articlesCount = document.getElementById('articles-count');
+
+    let currentDateIndex = 0;
+    const dates = Array.from(datePicker.options).map(opt => opt.value);
+
+    function showDate(dateIndex) {
+      // Skrýt všechny skupiny
+      dateGroups.forEach(group => group.style.display = 'none');
+
+      // Zobrazit aktuální skupinu
+      const targetDate = dates[dateIndex];
+      const targetGroup = document.querySelector(`[data-date="${targetDate}"]`);
+
+      if (targetGroup) {
+        targetGroup.style.display = 'block';
+
+        // Aktualizovat info
+        const count = targetGroup.querySelectorAll('.tech-news-card').length;
+        articlesCount.textContent = `${count} článků`;
+
+        // Aktualizovat datum
+        const dateOption = datePicker.options[dateIndex];
+        currentDateDisplay.textContent = dateOption.text;
+        datePicker.selectedIndex = dateIndex;
+
+        // Aktualizovat navigační tlačítka
+        prevBtn.disabled = dateIndex === 0;
+        nextBtn.disabled = dateIndex === dates.length - 1;
+
+        // Spustit filtrování pro aktuální den
+        updateFiltersForCurrentDate();
+      }
+
+      currentDateIndex = dateIndex;
+    }
+
+    function updateFiltersForCurrentDate() {
+      const activeGroup = document.querySelector('.date-group[style*="block"]');
+      if (!activeGroup) return;
+
+      const visibleCards = activeGroup.querySelectorAll('.tech-news-card');
+
+      // Aktualizovat počty ve filtrech
+      filterBtns.forEach(btn => {
+        const filter = btn.dataset.filter;
+        const type = btn.dataset.type;
+        let count = 0;
+
+        if (filter === 'all') {
+          count = visibleCards.length;
+        } else {
+          visibleCards.forEach(card => {
+            if (type === 'category' && card.dataset.category === filter) {
+              count++;
+            } else if (type === 'importance' && card.dataset.importance === filter) {
+              count++;
+            }
+          });
+        }
+
+        // Aktualizovat text tlačítka
+        const originalText = btn.textContent.split(' (')[0];
+        btn.textContent = `${originalText} (${count})`;
+
+        // Skrýt tlačítka bez článků
+        if (count === 0 && filter !== 'all') {
+          btn.style.display = 'none';
+        } else {
+          btn.style.display = 'inline-block';
+        }
+      });
+    }
+
+    // Event listenery
+    prevBtn.addEventListener('click', () => {
+      if (currentDateIndex > 0) {
+        showDate(currentDateIndex - 1);
+
+        // Tracking
+        if (typeof clicky !== 'undefined') {
+          clicky.log('#tech-news-nav/prev-date', 'Navigace: Předchozí den', 'click');
+        }
+      }
+    });
+
+    nextBtn.addEventListener('click', () => {
+      if (currentDateIndex < dates.length - 1) {
+        showDate(currentDateIndex + 1);
+
+        // Tracking
+        if (typeof clicky !== 'undefined') {
+          clicky.log('#tech-news-nav/next-date', 'Navigace: Následující den', 'click');
+        }
+      }
+    });
+
+    datePicker.addEventListener('change', () => {
+      const selectedIndex = datePicker.selectedIndex;
+      showDate(selectedIndex);
+
+      // Tracking
+      if (typeof clicky !== 'undefined') {
+        clicky.log('#tech-news-nav/date-picker', 'Navigace: Výběr datumu', 'click');
+      }
+    });
+
+    // Inicializovat první den
+    showDate(0);
+  }
 });
 </script>
 
 <style>
+/* Navigace dnů */
+.date-navigation {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date-selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.date-nav-btn {
+  background: #3182ce;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: bold;
+  transition: all 0.2s;
+  min-width: 44px;
+}
+
+.date-nav-btn:hover:not(:disabled) {
+  background: #2c5282;
+  transform: translateY(-1px);
+}
+
+.date-nav-btn:disabled {
+  background: #a0aec0;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.current-date {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  min-width: 200px;
+  justify-content: center;
+}
+
+#current-date-display {
+  font-weight: 600;
+  color: #2d3748;
+  font-size: 1.1rem;
+}
+
+#date-picker {
+  background: transparent;
+  border: none;
+  font-size: 0.9rem;
+  color: #718096;
+  cursor: pointer;
+  padding: 0.25rem;
+}
+
+.date-info {
+  text-align: center;
+  color: #718096;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+#articles-count {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-weight: 600;
+}
+
+/* Responzivní navigace */
+@media (max-width: 768px) {
+  .date-selector {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .current-date {
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: auto;
+  }
+
+  .date-nav-btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 1rem;
+  }
+}
+
 .tech-news-container {
   width: 100vw;
   position: relative;
