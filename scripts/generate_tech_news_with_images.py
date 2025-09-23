@@ -36,7 +36,7 @@ class TechNewsWithImagesGenerator:
         pub_date = datetime.fromisoformat(article['publishedAt'].replace('Z', '+00:00'))
         date_str = pub_date.strftime('%Y-%m-%d')
 
-        filename = f"{date_str}-{article_index:02d}-{slug}.md"
+        filename = f"{date_str}-{slug}.md"
         filepath = self.output_dir / filename
 
         # Převést na český titulek a popis (pokud možno)
@@ -52,6 +52,7 @@ class TechNewsWithImagesGenerator:
             'layout': 'tech_news_article',
             'title': czech_title,
             'original_title': article['title'],
+            'slug': slug,  # Explicitní slug bez číslování
             'description': czech_description,
             'publishedAt': article['publishedAt'],
             'date': pub_date.strftime('%Y-%m-%d %H:%M:%S'),
