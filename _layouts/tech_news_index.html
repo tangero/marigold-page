@@ -59,66 +59,65 @@ layout: default
       </div>
     </div>
 
-    <!-- Grid článků -->
-    <div class="tech-news-grid">
-      {% comment %} Groupnout články podle data {% endcomment %}
-      {% assign articles_by_date = site.tech_news | group_by_exp: 'item', 'item.date | date: "%Y-%m-%d"' %}
+    <!-- Grid článků podle dnů -->
+    {% comment %} Groupnout články podle data {% endcomment %}
+    {% assign articles_by_date = site.tech_news | group_by_exp: 'item', 'item.date | date: "%Y-%m-%d"' %}
 
-      {% for date_group in articles_by_date %}
-        {% assign date_articles = date_group.items | sort: 'importance' | reverse %}
-        <div class="date-group" data-date="{{ date_group.name }}" style="display: {% if forloop.first %}block{% else %}none{% endif %};">
+    {% for date_group in articles_by_date %}
+      {% assign date_articles = date_group.items | sort: 'importance' | reverse %}
+      <div class="date-group" data-date="{{ date_group.name }}" style="display: {% if forloop.first %}block{% else %}none{% endif %};">
 
+        <div class="tech-news-grid">
           {% for article in date_articles %}
-    <article class="tech-news-card" data-category="{{ article.category }}" data-importance="{{ article.importance }}">
-      <div class="tech-news-meta">
-        <span class="tech-news-emoji">{{ article.source.emoji }}</span>
-        <div class="tech-news-info">
-          <span class="tech-news-source">{{ article.source.name }}</span>
-          <time class="tech-news-date" datetime="{{ article.publishedAt }}">
-            {{ article.publishedAt | date: "%d.%m.%Y %H:%M" }}
-          </time>
-        </div>
-        <div class="importance-indicator importance-{{ article.importance }}">
-          {% assign stars = article.importance %}
-          {% for i in (1..5) %}
-            {% if i <= stars %}
-              <span class="star filled">★</span>
-            {% else %}
-              <span class="star">☆</span>
+          <article class="tech-news-card" data-category="{{ article.category }}" data-importance="{{ article.importance }}">
+            <div class="tech-news-meta">
+              <span class="tech-news-emoji">{{ article.source.emoji }}</span>
+              <div class="tech-news-info">
+                <span class="tech-news-source">{{ article.source.name }}</span>
+                <time class="tech-news-date" datetime="{{ article.publishedAt }}">
+                  {{ article.publishedAt | date: "%d.%m.%Y %H:%M" }}
+                </time>
+              </div>
+              <div class="importance-indicator importance-{{ article.importance }}">
+                {% assign stars = article.importance %}
+                {% for i in (1..5) %}
+                  {% if i <= stars %}
+                    <span class="star filled">★</span>
+                  {% else %}
+                    <span class="star">☆</span>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+
+            {% if article.urlToImage %}
+            <div class="tech-news-image">
+              <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy" onerror="this.style.display='none';">
+            </div>
             {% endif %}
+
+            <div class="tech-news-content">
+              <h2 class="tech-news-title">
+                <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+              </h2>
+
+              <p class="tech-news-description">{{ article.description }}</p>
+
+              <div class="tech-news-actions">
+                <a href="{{ article.url }}" class="tech-news-link" target="_blank" rel="noopener">
+                  Číst na {{ article.source.name }}
+                  <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+                  </svg>
+                </a>
+                <span class="tech-news-category">{{ article.category }}</span>
+              </div>
+            </div>
+          </article>
           {% endfor %}
         </div>
       </div>
-
-      {% if article.urlToImage %}
-      <div class="tech-news-image">
-        <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy" onerror="this.style.display='none';">
-      </div>
-      {% endif %}
-
-      <div class="tech-news-content">
-        <h2 class="tech-news-title">
-          <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
-        </h2>
-
-        <p class="tech-news-description">{{ article.description }}</p>
-
-        <div class="tech-news-actions">
-          <a href="{{ article.url }}" class="tech-news-link" target="_blank" rel="noopener">
-            Číst na {{ article.source.name }}
-            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-            </svg>
-          </a>
-          <span class="tech-news-category">{{ article.category }}</span>
-        </div>
-      </div>
-    </article>
-          {% endfor %}
-
-        </div>
-      {% endfor %}
-    </div>
+    {% endfor %}
   </div>
 
   {% if site.tech_news.size == 0 %}

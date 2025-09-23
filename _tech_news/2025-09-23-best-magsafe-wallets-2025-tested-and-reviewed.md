@@ -7,7 +7,7 @@ importance: 3
 layout: tech_news_article
 original_title: 10 Best MagSafe Wallets (2025), Tested and Reviewed
 publishedAt: '2025-09-23T12:00:00+00:00'
-slug: 10-best-magsafe-wallets-2025-tested-and-reviewed
+slug: best-magsafe-wallets-2025-tested-and-reviewed
 source:
   emoji: 🔧
   id: wired

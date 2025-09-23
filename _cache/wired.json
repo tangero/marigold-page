@@ -1,5 +1,24 @@
 [
   {
+    "title": "Why One VC Thinks Quantum Is a Bigger Unlock Than AGI",
+    "description": "Venture capitalist Alexa von Tobel is ready to bet on quantum computing—starting with hardware.",
+    "url": "https://www.wired.com/story/alexa-von-tobel-quantum-venture-capital/",
+    "source": {
+      "name": "Wired",
+      "id": "wired",
+      "emoji": "🔧"
+    },
+    "publishedAt": "2025-09-23T15:00:00+00:00",
+    "urlToImage": "https://media.wired.com/photos/68d2ce70a8e62baa797607fe/master/pass/business_model_behavior_quantum_investing.jpg",
+    "priority": 4,
+    "language": "en",
+    "categories": [
+      "science",
+      "security",
+      "culture"
+    ]
+  },
+  {
     "title": "DHS Has Been Collecting US Citizens’ DNA for Years",
     "description": "Newly released data shows Customs and Border Protection funneled the DNA of nearly 2,000 US citizens—some as young as 14—into an FBI crime database, raising alarms about oversight and legality.",
     "url": "https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/",
@@ -67,25 +86,6 @@
     },
     "publishedAt": "2025-09-23T11:08:00+00:00",
     "urlToImage": "https://media.wired.com/photos/68d23dad73c4c1af12f7e6ff/master/pass/Best%20Vegan%20Meal%20Kits.png",
-    "priority": 4,
-    "language": "en",
-    "categories": [
-      "science",
-      "security",
-      "culture"
-    ]
-  },
-  {
-    "title": "How to Use 1Password's Travel Mode at the Border (2025)",
-    "description": "Travel Mode not only hides your most sensitive data—it acts as if that data never existed in the first place.",
-    "url": "https://www.wired.com/story/1password-travel-mode/",
-    "source": {
-      "name": "Wired",
-      "id": "wired",
-      "emoji": "🔧"
-    },
-    "publishedAt": "2025-09-23T10:30:00+00:00",
-    "urlToImage": "https://media.wired.com/photos/68d1ecc1265f9f1dcb0d4cbc/master/pass/GettyImages-1287534581.jpg",
     "priority": 4,
     "language": "en",
     "categories": [

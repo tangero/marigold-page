@@ -10,7 +10,7 @@ description: Nejnovější zprávy ze světa technologií s obrázky z předníc
 Automaticky aktualizované zprávy ze světa technologií z předních světových zdrojů, s obrázky a přeložené do češtiny.
 
 **Celkem článků:** 37
-**Poslední aktualizace:** 23.09.2025 15:55 UTC
+**Poslední aktualizace:** 23.09.2025 17:12 UTC
 
 ## Zdroje
 

@@ -1,5 +1,81 @@
 [
   {
+    "title": "Google Photos expands conversational editing to more Android phones",
+    "description": "After launching on Pixel 10 devices, the Google Photos feature that allows users to edit images by describing the changes they want to make is now coming to other Android phones. Google announced that the Gemini-powered conversational editing capabilities are rolling out to eligible Android users in the US starting today, and can be accessed […]",
+    "url": "https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android",
+    "source": {
+      "name": "The Verge",
+      "id": "theverge",
+      "emoji": "⚡"
+    },
+    "publishedAt": "2025-09-23T16:00:00+00:00",
+    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Google-Photos-ask-edit-Android-update.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "hardware",
+      "mobile",
+      "gaming"
+    ]
+  },
+  {
+    "title": "How to make sure The Verge shows up in your Google search results",
+    "description": "The last year has brought some of the biggest changes to Google's search results pages that I have ever seen in my near-decade of experience working in digital media. And not all of those changes are welcome. Thankfully, there's now a way to customize what you see in search - and to prioritize seeing The […]",
+    "url": "https://www.theverge.com/tech/782887/how-to-the-verge-google-search-results",
+    "source": {
+      "name": "The Verge",
+      "id": "theverge",
+      "emoji": "⚡"
+    },
+    "publishedAt": "2025-09-23T15:38:59+00:00",
+    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257965_how_to_get_the_verge_in_discover_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "hardware",
+      "mobile",
+      "gaming"
+    ]
+  },
+  {
+    "title": "You can grab Alan Wake 2 and eight other Remedy games for just $27 right now",
+    "description": "Remedy Entertainment is one of the few game studios that’s seemingly been doing well in an industry where its competition is downsizing and console makers are continually raising hardware prices. The studio turned 30 on August 18th, and Humble is celebrating with a 10-item bundle for $27 ($211 off the full MSRP). To put the […]",
+    "url": "https://www.theverge.com/tech/783776/remedy-30th-anniversary-humble-bundle-alan-wake-2-control-deal-sale",
+    "source": {
+      "name": "The Verge",
+      "id": "theverge",
+      "emoji": "⚡"
+    },
+    "publishedAt": "2025-09-23T15:38:05+00:00",
+    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Alan-Wake-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "hardware",
+      "mobile",
+      "gaming"
+    ]
+  },
+  {
+    "title": "Baby Steps hits on the hell and hilarity of hiking",
+    "description": "There are only two things that Nate really wants to do: use the toilet (one that, he emphasizes, comes with three walls and a door) and go home. He also walks with a strange gait, with one tiny foot raised awkwardly in front of the other, before landing with a gentle plop. At times, he […]",
+    "url": "https://www.theverge.com/games/783549/baby-steps-review-ps5-steam",
+    "source": {
+      "name": "The Verge",
+      "id": "theverge",
+      "emoji": "⚡"
+    },
+    "publishedAt": "2025-09-23T15:00:00+00:00",
+    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Baby-Steps-Screen-7.png?quality=90&strip=all&crop=0,0,100,100",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "hardware",
+      "mobile",
+      "gaming"
+    ]
+  },
+  {
     "title": "Secret Service dismantles network capable of shutting down cell service in New York",
     "description": "The US Secret Service says it has disrupted a network of devices used to carry out assassination threats against US officials and for anonymous communications between threat actors, according to a report from NBC News. In the Tuesday announcement, the agency revealed that it uncovered the network within a 35-mile radius of the United Nations […]",
     "url": "https://www.theverge.com/news/783706/secret-service-telecommunications-threat-new-york",
@@ -10,82 +86,6 @@
     },
     "publishedAt": "2025-09-23T14:33:00+00:00",
     "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/akrales_220309_4977_0336-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "hardware",
-      "mobile",
-      "gaming"
-    ]
-  },
-  {
-    "title": "Former Spotify execs launch AI-powered &#8216;learning platform&#8217; for the &#8216;curiously minded&#8217;",
-    "description": "The creators of Oboe know what everyone's thinking about AI. \"Is AI going to make us all stupid?\" the company asks in a recent ad. \"Are we going to forget how to think for ourselves?\" Oboe's founders think the answer to both of those questions is no, and their startup is meant to prove it. […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/783624/oboe-ai-education-learning",
-    "source": {
-      "name": "The Verge",
-      "id": "theverge",
-      "emoji": "⚡"
-    },
-    "publishedAt": "2025-09-23T14:24:07+00:00",
-    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oboe-2.png?quality=90&strip=all&crop=0,0,100,100",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "hardware",
-      "mobile",
-      "gaming"
-    ]
-  },
-  {
-    "title": "WhatsApp adds built-in text translations on iPhone and Android",
-    "description": "A new translation feature for WhatsApp on iPhone and Android that translates messages into your preferred language is rolling out “gradually,” starting today in 1:1 chats, groups, and Channel update messages. It can be activated by long-pressing down on messages and tapping the “Translate” option to choose the language you want the message to be […]",
-    "url": "https://www.theverge.com/news/783653/whatsapp-message-translation-feature-iphone-android",
-    "source": {
-      "name": "The Verge",
-      "id": "theverge",
-      "emoji": "⚡"
-    },
-    "publishedAt": "2025-09-23T14:13:41+00:00",
-    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/English_WhatsApp_introducing-message-translations-1.png?quality=90&strip=all&crop=0,0,100,100",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "hardware",
-      "mobile",
-      "gaming"
-    ]
-  },
-  {
-    "title": "Bang &#038; Olufsen&#8217;s new earbuds will cost you more than the latest iPhone",
-    "description": "Bang & Olufsen’s latest Beo Grace earbuds offer a flashy aluminum design and the brand’s “most advanced” active noise cancellation for a staggering $1,500. These pricey new buds pump sound through 12mm titanium drivers, featuring ANC powered by six microphones that adjust audio based on ambient noise and the shape of your ear. The Beo […]",
-    "url": "https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability",
-    "source": {
-      "name": "The Verge",
-      "id": "theverge",
-      "emoji": "⚡"
-    },
-    "publishedAt": "2025-09-23T12:40:17+00:00",
-    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/beograce.png?quality=90&strip=all&crop=0,0,100,100",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "hardware",
-      "mobile",
-      "gaming"
-    ]
-  },
-  {
-    "title": "YouTube wants you to go live",
-    "description": "YouTube is the most powerful platform in entertainment, and as such it has outsize influence on what kind of entertainment people make and watch. When YouTube adds a mid-video ad break, videos get longer to accommodate it. When YouTube tells podcasters to make video, podcasters make video. And for its next act, it appears the […]",
-    "url": "https://www.theverge.com/podcast/783282/youtube-livestream-ai-ads-vergecast",
-    "source": {
-      "name": "The Verge",
-      "id": "theverge",
-      "emoji": "⚡"
-    },
-    "publishedAt": "2025-09-23T12:39:47+00:00",
-    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_VST_0923_SITE.jpg?quality=90&strip=all&crop=0,0,100,100",
     "priority": 5,
     "language": "en",
     "categories": [

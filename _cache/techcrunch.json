@@ -1,5 +1,81 @@
 [
   {
+    "title": "Telo raises $20 million to build tiny electric trucks for cities",
+    "description": "The round was co-led by designer Yves Béhar and Tesla co-founder Marc Tarpenning, who helped get Telo off the ground in 2022.",
+    "url": "https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/",
+    "source": {
+      "name": "TechCrunch",
+      "id": "techcrunch",
+      "emoji": "🚀"
+    },
+    "publishedAt": "2025-09-23T15:55:45+00:00",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TELO-All-Electric-Mini-Truck-3.jpg?w=1200",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "startups",
+      "ai",
+      "funding"
+    ]
+  },
+  {
+    "title": "NASA’s new astronaut class includes SpaceX veterans Anna Menon and Yuri Kubo",
+    "description": "SpaceX isn't just a private company – it's becoming an astronaut proving ground.",
+    "url": "https://techcrunch.com/2025/09/23/nasas-new-astronaut-class-includes-spacex-veterans-anna-menon-and-yuri-kubo/",
+    "source": {
+      "name": "TechCrunch",
+      "id": "techcrunch",
+      "emoji": "🚀"
+    },
+    "publishedAt": "2025-09-23T15:43:06+00:00",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/astronaut-class.webp?resize=1200,800",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "startups",
+      "ai",
+      "funding"
+    ]
+  },
+  {
+    "title": "WhatsApp can now translate messages on iOS and Android",
+    "description": "The company notes that translations occur on the user's device where WhatsApp cannot see them, which means messages remain encrypted.",
+    "url": "https://techcrunch.com/2025/09/23/whatsapp-can-now-translate-messages-on-ios-and-android/",
+    "source": {
+      "name": "TechCrunch",
+      "id": "techcrunch",
+      "emoji": "🚀"
+    },
+    "publishedAt": "2025-09-23T15:13:25+00:00",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "startups",
+      "ai",
+      "funding"
+    ]
+  },
+  {
+    "title": "Dedicated mobile apps for vibe coding have so far failed to gain traction",
+    "description": "An analysis of mobile apps offering vibe coding tools shows few have found traction.",
+    "url": "https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/",
+    "source": {
+      "name": "TechCrunch",
+      "id": "techcrunch",
+      "emoji": "🚀"
+    },
+    "publishedAt": "2025-09-23T15:10:27+00:00",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/phone-in-hands-GettyImages1687958513.jpg?resize=1200,801",
+    "priority": 5,
+    "language": "en",
+    "categories": [
+      "startups",
+      "ai",
+      "funding"
+    ]
+  },
+  {
     "title": "Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025",
     "description": "On the AI Stage at TechCrunch Disrupt 2025, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also who gets to work in the first place.",
     "url": "https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/",
@@ -10,82 +86,6 @@
     },
     "publishedAt": "2025-09-23T14:30:00+00:00",
     "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_Brendan-Foody-Speaker-16x9-Dark.png?resize=1200,675",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "startups",
-      "ai",
-      "funding"
-    ]
-  },
-  {
-    "title": "Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025",
-    "description": "Vinod Khosla, founder of Khosla Ventures, takes the Disrupt Stage for a candid fireside chat on AI, climate, healthcare, and transformational startups. Hear blunt, big-picture advice from one of tech’s most legendary investors, and learn what founders truly need to succeed in turbulent times.",
-    "url": "https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/",
-    "source": {
-      "name": "TechCrunch",
-      "id": "techcrunch",
-      "emoji": "🚀"
-    },
-    "publishedAt": "2025-09-23T14:00:00+00:00",
-    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181599313.jpg?resize=1200,800",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "startups",
-      "ai",
-      "funding"
-    ]
-  },
-  {
-    "title": "Tim Chen has quietly become of one the most sought-after solo investors",
-    "description": "Tim Chen, solo VC at his firm Essence VC, just closed his fourth fund, a fresh $41 million, without even trying.",
-    "url": "https://techcrunch.com/2025/09/23/tim-chen-has-quietly-become-of-one-the-most-sought-after-solo-investors/",
-    "source": {
-      "name": "TechCrunch",
-      "id": "techcrunch",
-      "emoji": "🚀"
-    },
-    "publishedAt": "2025-09-23T14:00:00+00:00",
-    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Tim-Chen-Essence-VC.jpg?resize=1200,981",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "startups",
-      "ai",
-      "funding"
-    ]
-  },
-  {
-    "title": "Alloy is bringing data management to the robotics industry",
-    "description": "Australia-based Alloy thinks it can help robotics firms with their data problem: the startup is building data infrastructure to help companies process and organize all the data their robots collect.",
-    "url": "https://techcrunch.com/2025/09/23/alloy-is-bringing-data-management-to-the-robotics-industry/",
-    "source": {
-      "name": "TechCrunch",
-      "id": "techcrunch",
-      "emoji": "🚀"
-    },
-    "publishedAt": "2025-09-23T14:00:00+00:00",
-    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ALY00_Stills-2-1.jpg?resize=1200,800",
-    "priority": 5,
-    "language": "en",
-    "categories": [
-      "startups",
-      "ai",
-      "funding"
-    ]
-  },
-  {
-    "title": "Meta launches super PAC to fight AI regulation as state policies mount",
-    "description": "Meta is investing 'tens of millions' into a new pro-AI super PAC called the American Technology Excellence Project to fight state-level tech policy that would regulate AI.",
-    "url": "https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/",
-    "source": {
-      "name": "TechCrunch",
-      "id": "techcrunch",
-      "emoji": "🚀"
-    },
-    "publishedAt": "2025-09-23T13:51:43+00:00",
-    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
     "priority": 5,
     "language": "en",
     "categories": [

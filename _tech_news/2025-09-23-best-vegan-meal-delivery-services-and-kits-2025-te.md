@@ -8,7 +8,7 @@ layout: tech_news_article
 original_title: 8 Best Vegan Meal Delivery Services and Kits (2025), Tested, Tasted,
   and Reviewed
 publishedAt: '2025-09-23T11:08:00+00:00'
-slug: 8-best-vegan-meal-delivery-services-and-kits-2025-
+slug: best-vegan-meal-delivery-services-and-kits-2025-te
 source:
   emoji: 🔧
   id: wired
