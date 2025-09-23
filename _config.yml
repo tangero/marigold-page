@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Marigold.cz
+title: Marigold.cz
 
 # Name of the author
 author: Patrick Zandl
@@ -52,7 +53,8 @@ enforce_ssl: https://www.marigold.cz
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: ""
+repository: tangero/marigold-page
 github_repo: https://github.com/tangero/marigold-page
 
 # Definice Collections
