@@ -1,6 +1,6 @@
 ---
 category: mobile
-date: '2025-09-23 15:59:04'
+date: '2025-09-23 16:30:45'
 description: Tyto magnetické peněženky udrží vaše karty v bezpečí na zařízeních s
   podporou MagSafe a Qi2.
 importance: 1
