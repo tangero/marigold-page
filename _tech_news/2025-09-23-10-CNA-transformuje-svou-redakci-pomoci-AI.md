@@ -1,6 +1,6 @@
 ---
 category: ai
-date: '2025-09-23 15:31:31'
+date: '2025-09-23 15:38:54'
 description: V této sérii Executive Function od OpenAI objevte, jak CNA transformuje
   svou redakci pomocí AI. Šéfredaktor Walter Fernandez sdílí poznatky o adopci AI,
   kultuře a budoucnosti žurnalistiky.

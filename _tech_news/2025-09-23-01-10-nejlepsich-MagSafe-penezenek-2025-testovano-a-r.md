@@ -1,8 +1,8 @@
 ---
 category: mobile
-date: '2025-09-23 15:31:31'
-description: Tyto magnetické peněženky ochrání vaše karty na zařízeních podporujících
-  MagSafe i Qi2.
+date: '2025-09-23 15:38:54'
+description: Tyto magnetické peněženky udrží vaše karty v bezpečí na zařízeních s
+  podporou MagSafe a Qi2.
 importance: 1
 layout: tech_news_article
 original_title: 10 Best MagSafe Wallets (2025), Tested and Reviewed
@@ -11,12 +11,12 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: 10 nejlepších MagSafe peněženek (2025), otestováno a recenzováno
+title: 10 nejlepších MagSafe peněženek (2025), testováno a recenzováno
 url: https://www.wired.com/gallery/best-magsafe-wallets/
 urlToImage: https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png
 ---
 
-Tyto magnetické peněženky ochrání vaše karty na zařízeních podporujících MagSafe i Qi2.
+Tyto magnetické peněženky udrží vaše karty v bezpečí na zařízeních s podporou MagSafe a Qi2.
 
 [Číst původní článek](https://www.wired.com/gallery/best-magsafe-wallets/)
 
