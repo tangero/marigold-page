@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import hashlib
+import unicodedata
 from typing import List, Dict, Optional, Tuple
 
 # Načíst .env soubor
@@ -104,6 +105,29 @@ class BatchTechNewsManager:
             clean = clean[:max_length] + "..."
 
         return clean
+
+    def transliterate_to_ascii(self, text):
+        """Převede text s diakritikou na ASCII-only verzi pro URL"""
+        if not text:
+            return ""
+
+        # Normalize unicode characters
+        nfkd_form = unicodedata.normalize('NFKD', text)
+        # Filter out non-ASCII characters
+        ascii_text = ''.join([c for c in nfkd_form if not unicodedata.combining(c)])
+
+        # Replace remaining non-ASCII chars with safe alternatives
+        replacements = {
+            'č': 'c', 'ď': 'd', 'ě': 'e', 'ň': 'n', 'ř': 'r', 'š': 's', 'ť': 't', 'ů': 'u', 'ž': 'z',
+            'Č': 'C', 'Ď': 'D', 'Ě': 'E', 'Ň': 'N', 'Ř': 'R', 'Š': 'S', 'Ť': 'T', 'Ů': 'U', 'Ž': 'Z',
+            'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u', 'ý': 'y',
+            'Á': 'A', 'É': 'E', 'Í': 'I', 'Ó': 'O', 'Ú': 'U', 'Ý': 'Y'
+        }
+
+        for czech_char, ascii_char in replacements.items():
+            ascii_text = ascii_text.replace(czech_char, ascii_char)
+
+        return ascii_text
 
     def fetch_articles_from_all_sources(self) -> List[Dict]:
         """Stáhne články ze všech RSS zdrojů"""
@@ -322,8 +346,9 @@ Vrať odpověď jako JSON array s překlady a vyhodnocením."""
                 title = article.get('title_cs', article['title'])
                 description = article.get('description_cs', article['description'])
 
-                # Vytvořit filename safe název
-                safe_title = re.sub(r'[^\w\s-]', '', title).strip()
+                # Vytvořit filename safe název bez diakritiky
+                ascii_title = self.transliterate_to_ascii(title)
+                safe_title = re.sub(r'[^\w\s-]', '', ascii_title).strip()
                 safe_title = re.sub(r'[-\s]+', '-', safe_title)[:50]
 
                 date_str = datetime.now().strftime('%Y-%m-%d')
