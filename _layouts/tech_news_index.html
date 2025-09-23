@@ -37,24 +37,30 @@ layout: default
     {% assign sorted_news = site.tech_news | sort: 'importance' | reverse %}
     {% assign sorted_news = sorted_news | sort: 'date' | reverse %}
     {% for article in sorted_news %}
-    <article class="tech-news-card" data-category="{{ article.categories[1] }}" data-importance="{{ article.importance }}">
+    <article class="tech-news-card" data-category="{{ article.category }}" data-importance="{{ article.importance }}">
       <div class="tech-news-meta">
-        <span class="tech-news-emoji">{{ article.emoji }}</span>
+        <span class="tech-news-emoji">{{ article.source.emoji }}</span>
         <div class="tech-news-info">
-          <span class="tech-news-source">{{ article.source }}</span>
-          <time class="tech-news-date" datetime="{{ article.date | date_to_xmlschema }}">
-            {{ article.date | date: "%d.%m.%Y %H:%M" }}
+          <span class="tech-news-source">{{ article.source.name }}</span>
+          <time class="tech-news-date" datetime="{{ article.publishedAt }}">
+            {{ article.publishedAt | date: "%d.%m.%Y %H:%M" }}
           </time>
         </div>
-        <div class="importance-indicator" style="background-color: {{ article.importance_bg_color }}; color: {{ article.importance_color }};">
-          <span class="importance-emoji">{{ article.importance_emoji }}</span>
-          <span class="importance-text">{{ article.importance_name }}</span>
+        <div class="importance-indicator importance-{{ article.importance }}">
+          {% assign stars = article.importance %}
+          {% for i in (1..5) %}
+            {% if i <= stars %}
+              <span class="star filled">★</span>
+            {% else %}
+              <span class="star">☆</span>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
 
-      {% if article.image %}
+      {% if article.urlToImage %}
       <div class="tech-news-image">
-        <img src="{{ article.image }}" alt="{{ article.title }}" loading="lazy" onerror="this.style.display='none';">
+        <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy" onerror="this.style.display='none';">
       </div>
       {% endif %}
 
@@ -66,13 +72,13 @@ layout: default
         <p class="tech-news-description">{{ article.description }}</p>
 
         <div class="tech-news-actions">
-          <a href="{{ article.source_url }}" class="tech-news-link" target="_blank" rel="noopener">
-            Číst na {{ article.source }}
+          <a href="{{ article.url }}" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na {{ article.source.name }}
             <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
             </svg>
           </a>
-          <span class="tech-news-category">{{ article.category_cs }}</span>
+          <span class="tech-news-category">{{ article.category }}</span>
         </div>
       </div>
     </article>
