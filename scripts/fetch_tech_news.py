@@ -9,6 +9,10 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 import logging
+from dotenv import load_dotenv
+
+# Načíst .env soubor pokud existuje (pro lokální development)
+load_dotenv()
 
 # Nastavení logování
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
