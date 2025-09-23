@@ -1,11 +1,11 @@
 ---
 category: ai
 date: '2025-09-23 15:38:05'
-description: Remedy Entertainment is one of the few game studios that’s seemingly
-  been doing well in an industry where its competition is downsizing and console makers
-  are continually raising hardware prices. The studio turned 30 on August 18th, and
-  Humble is celebrating with a 10-item bundle for $27 ($211 off the full MSRP). To
-  put the […]
+description: Společnost Remedy Entertainment je jednou z mála herních studií, která
+  se zdá prosperovat v odvětví, kde konkurence snižuje počet zaměstnanců a výrobci
+  konzolí neustále zvyšují ceny hardwaru. Studio oslavilo 30. výročí 18. srpna a Humble
+  jej oslavuje balíčkem 10 položek za 27 USD (úspora 211 USD oproti plné maloobchodní
+  ceně). Abychom to uvedli do kontextu, […]
 importance: 3
 layout: tech_news_article
 original_title: You can grab Alan Wake 2 and eight other Remedy games for just $27
@@ -16,12 +16,14 @@ source:
   emoji: ⚡
   id: theverge
   name: The Verge
-title: You can grab Alan Wake 2 and eight other Remedy games for just $27 right now
+title: 'Titles:
+
+  - Grab Alan Wake 2 and Eight Other Remedy Games for Just $27 Right Now'
 url: https://www.theverge.com/tech/783776/remedy-30th-anniversary-humble-bundle-alan-wake-2-control-deal-sale
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Alan-Wake-2.jpg?quality=90&strip=all&crop=0,0,100,100
 ---
 
-Remedy Entertainment is one of the few game studios that’s seemingly been doing well in an industry where its competition is downsizing and console makers are continually raising hardware prices. The studio turned 30 on August 18th, and Humble is celebrating with a 10-item bundle for $27 ($211 off the full MSRP). To put the […]
+Společnost Remedy Entertainment je jednou z mála herních studií, která se zdá prosperovat v odvětví, kde konkurence snižuje počet zaměstnanců a výrobci konzolí neustále zvyšují ceny hardwaru. Studio oslavilo 30. výročí 18. srpna a Humble jej oslavuje balíčkem 10 položek za 27 USD (úspora 211 USD oproti plné maloobchodní ceně). Abychom to uvedli do kontextu, […]
 
 [Číst původní článek](https://www.theverge.com/tech/783776/remedy-30th-anniversary-humble-bundle-alan-wake-2-control-deal-sale)
 

@@ -1,8 +1,8 @@
 ---
 category: ai
 date: '2025-09-23 15:13:25'
-description: The company notes that translations occur on the user's device where
-  WhatsApp cannot see them, which means messages remain encrypted.
+description: Společnost uvádí, že překlady probíhají na zařízení uživatele, kde je
+  WhatsApp nemůže vidět, což znamená, že zprávy zůstávají zašifrované.
 importance: 3
 layout: tech_news_article
 original_title: WhatsApp can now translate messages on iOS and Android
@@ -12,12 +12,12 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: WhatsApp can now translate messages on iOS and Android
+title: WhatsApp může nyní překládat zprávy na iOS a Androidu
 url: https://techcrunch.com/2025/09/23/whatsapp-can-now-translate-messages-on-ios-and-android/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800
 ---
 
-The company notes that translations occur on the user's device where WhatsApp cannot see them, which means messages remain encrypted.
+Společnost uvádí, že překlady probíhají na zařízení uživatele, kde je WhatsApp nemůže vidět, což znamená, že zprávy zůstávají zašifrované.
 
 [Číst původní článek](https://techcrunch.com/2025/09/23/whatsapp-can-now-translate-messages-on-ios-and-android/)
 

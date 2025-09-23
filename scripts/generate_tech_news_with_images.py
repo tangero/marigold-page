@@ -5,6 +5,7 @@ import yaml
 import json
 import os
 import re
+import requests
 from datetime import datetime, timezone
 from pathlib import Path
 import logging
@@ -19,12 +20,14 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class TechNewsWithImagesGenerator:
-    """Generátor tech-news s robustním získáváním obrázků"""
+    """Generátor tech-news s robustním získáváním obrázků a překladem"""
 
     def __init__(self):
         self.rss_manager = RSSNewsManager()
         self.output_dir = Path('_tech_news')
         self.output_dir.mkdir(exist_ok=True)
+        self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY', '')
+        self.translation_enabled = self.openrouter_api_key and self.openrouter_api_key != 'skip'
 
     def create_jekyll_article(self, article, article_index):
         """Vytvoří Jekyll článek s optimalizovaným front matter"""
@@ -57,11 +60,14 @@ class TechNewsWithImagesGenerator:
             'publishedAt': article['publishedAt'],
             'date': pub_date.strftime('%Y-%m-%d %H:%M:%S'),
             'url': article['url'],
-            'urlToImage': article.get('urlToImage'),  # Nyní by měl být naplněn
             'category': category,
             'importance': importance,
             'source': article['source']
         }
+
+        # Přidat urlToImage pouze pokud existuje
+        if article.get('urlToImage'):
+            front_matter['urlToImage'] = article['urlToImage']
 
         # Vytvořit obsah
         content = f"""---
@@ -92,15 +98,65 @@ class TechNewsWithImagesGenerator:
             slug = 'article-' + slug
         return slug[:50]  # Omezit délku
 
+    def translate_text(self, text, text_type="text"):
+        """Přeloží text pomocí OpenRouter API"""
+        if not self.translation_enabled or not text or text.strip() == '':
+            return text
+
+        try:
+            # Různé systémové prompty podle typu textu
+            system_prompts = {
+                "title": "Překládej technologické nadpisy článků z angličtiny do češtiny. Zachovej technické termíny v angličtině, pokud jsou běžně používané. Buď přesný a stručný. Nepoužívej uvozovky.",
+                "description": "Překládej perex/popis technologických článků z angličtiny do češtiny. Zachovej technické termíny v angličtině, pokud jsou běžně používané. Buď přesný ale přirozený. Nepoužívej uvozovky."
+            }
+
+            system_prompt = system_prompts.get(text_type, system_prompts["description"])
+
+            headers = {
+                'Authorization': f'Bearer {self.openrouter_api_key}',
+                'Content-Type': 'application/json'
+            }
+
+            data = {
+                'model': 'anthropic/claude-3-haiku',  # Rychlý a levný model pro překlady
+                'messages': [
+                    {'role': 'system', 'content': system_prompt},
+                    {'role': 'user', 'content': text}
+                ],
+                'max_tokens': 200 if text_type == "title" else 500,
+                'temperature': 0.3  # Nízká teplota pro konzistentní překlady
+            }
+
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=data,
+                timeout=10
+            )
+
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('choices') and len(result['choices']) > 0:
+                    translated = result['choices'][0]['message']['content'].strip()
+                    # Odstranit uvozovky, pokud je API přidalo
+                    translated = translated.strip('"\'')
+                    logger.debug(f"Překlad {text_type}: {text[:30]}... → {translated[:30]}...")
+                    return translated
+
+            logger.warning(f"Překlad selhal (HTTP {response.status_code}), používám originál")
+
+        except Exception as e:
+            logger.warning(f"Chyba překladu: {e}, používám originál")
+
+        return text
+
     def translate_title(self, title):
-        """Přeloží titulek (placeholder - implementovat později)"""
-        # Pro nyní jen vrátíme originální
-        return title
+        """Přeloží titulek"""
+        return self.translate_text(title, "title")
 
     def translate_description(self, description):
-        """Přeloží popis (placeholder - implementovat později)"""
-        # Pro nyní jen vrátíme originální
-        return description or ''
+        """Přeloží popis"""
+        return self.translate_text(description or '', "description")
 
     def detect_category(self, title, description):
         """Detekuje kategorii článku"""
@@ -140,18 +196,54 @@ class TechNewsWithImagesGenerator:
         return 3  # Default
 
     def clean_old_articles(self):
-        """Vyčistí staré články"""
+        """Vyčistí staré články (dočasně zachováno pro zpětnou kompatibilitu)"""
+        # Tato funkce se už nepoužívá - používá se clean_duplicates
+        logger.info("🧹 Přeskakuji mazání - používá se chytré smazání duplicitů")
+
+    def clean_duplicates(self, new_articles):
+        """Smaže pouze články s duplicitním slug, zachová archiv"""
+        if not new_articles:
+            logger.info("🧹 Žádné nové články - přeskakuji čištění duplicitů")
+            return
+
+        # Získat slugy nových článků
+        new_slugs = set()
+        for article in new_articles:
+            slug = self.create_slug(article.get('title', ''))
+            new_slugs.add(slug)
+
+        logger.info(f"🧹 Kontroluji duplicity pro {len(new_slugs)} nových článků...")
+
+        removed_count = 0
         for old_file in self.output_dir.glob('*.md'):
-            if old_file.name != 'index.md':  # Zachovat index
-                old_file.unlink()
-        logger.info("🧹 Vyčištěn starý obsah")
+            if old_file.name == 'index.md':
+                continue
+
+            try:
+                # Extrahovat slug ze jména souboru
+                # Formát: YYYY-MM-DD-slug.md
+                file_parts = old_file.stem.split('-', 3)
+                if len(file_parts) >= 4:
+                    file_slug = file_parts[3]  # slug část
+
+                    if file_slug in new_slugs:
+                        logger.debug(f"🗑️ Mažu duplicitní článek: {old_file.name}")
+                        old_file.unlink()
+                        removed_count += 1
+                    else:
+                        logger.debug(f"✅ Zachovávám archivní článek: {old_file.name}")
+
+            except Exception as e:
+                logger.warning(f"⚠️ Problém při kontrole souboru {old_file.name}: {e}")
+
+        if removed_count > 0:
+            logger.info(f"🧹 Smazáno {removed_count} duplicitních článků, archiv zachován")
+        else:
+            logger.info("🧹 Žádné duplicity nenalezeny")
 
     def generate_tech_news(self):
         """Hlavní funkce pro generování tech-news"""
         logger.info("🚀 Spouští se generování tech-news s obrázky")
-
-        # Vyčistit starý obsah
-        self.clean_old_articles()
 
         # Získat články z RSS
         articles = self.rss_manager.fetch_all_articles()
@@ -161,6 +253,9 @@ class TechNewsWithImagesGenerator:
             return False
 
         logger.info(f"📰 Zpracovávám {len(articles)} článků...")
+
+        # Chytré smazání duplicitů - pouze články se stejným slug
+        self.clean_duplicates(articles)
 
         processed_count = 0
 
