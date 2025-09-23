@@ -26554,6 +26554,15 @@
   
     
     ,{
+      "title"    : "Tech-News Analytics s Clicky",
+      "url"      : "/TECH_NEWS_ANALYTICS/",
+      "category" : "stránka",
+      "content"  : "# Tech-News Analytics s ClickyImplementace pokročilého trackingu a optimalizace tech-news sekce pomocí Clicky Web Analytics.## 🚀 Funkcionalita### Tracking implementován:- ✅ **Kliknutí na články** - kategorie, důležitost, pozice- ✅ **Externí odkazy** - čtení celých článků- ✅ **Použití filtrů** - zájem o specifický obsah- ✅ **Goals pro kategorie** - AI, startupy, programování atd.- ✅ **Automatická analýza** - týdenní reporty- ✅ **Optimalizace algoritmu** - na základě skutečných dat## 📊 Trackované metriky### Events v Clicky:```#tech-news-click/{category}/{importance} - Základní kliknutí#tech-news-detail/{category}/{importance}/{position} - Detailní tracking#tech-news-filter/{type}/{filter} - Použití filtrů{external-url} - Odchody na původní články```### Goals:- **High Priority Article Click** - Články s důležitostí 4-5- **Read Full Article** - Konverze..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Technologické zpravodajství - Jekyll &amp;amp; GitHub Pages",
       "url"      : "/TECH_NEWS_SETUP/",
       "category" : "stránka",
@@ -27572,73 +27581,262 @@
     
       
       ,{
-        "title"    : "10 nejlepších MagSafe peněženek (2025), otestováno a recenzováno",
-        "url"      : "/tech-news/01-10-nejlepsich-MagSafe-penezenek-2025-otestovano-a/",
+        "title"    : "Creating a safe, observable AI infrastructure for 1 million classrooms",
+        "url"      : "/tech-news/26-creating-a-safe-observable-ai-infrastructure-for-1/",
         "category" : "tech_news",
-        "content"  : "Tyto magnetické peněženky udrží vaše karty v bezpečí na zařízeních s podporou MagSafe a Qi2.Číst původní článekZdroj: 🔧 Wired"
+        "content"  : "Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalized learning.Číst původní článekZdroj: 🤖 OpenAI Blog"
       }
       
       ,{
-        "title"    : "StrictlyVC na TechCrunch Disrupt 2025: Odhalený kompletní program LP tracku",
-        "url"      : "/tech-news/02-StrictlyVC-na-TechCrunch-Disrupt-2025-Odhaleny-kom/",
+        "title"    : "American-made innovation",
+        "url"      : "/tech-news/25-american-made-innovation/",
         "category" : "tech_news",
-        "content"  : "StrictlyVC se připojuje k TechCrunch Disrupt 2025 pro investorovský LP track 28. října. Prozkoumejte kompletní program a získejte své vstupenky pro investory před zvýšením cen 26. září.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "American-made innovationČíst původní článekZdroj: 🤖 OpenAI Blog"
       }
       
       ,{
-        "title"    : "Ceny vstupenek na TechCrunch Disrupt 2025 se zvyšují již za 4 dny",
-        "url"      : "/tech-news/03-Ceny-vstupenek-na-TechCrunch-Disrupt-2025-se-zvysu/",
+        "title"    : "The Download: the LLM will see you now, and a new fusion power deal",
+        "url"      : "/tech-news/13-the-download-the-llm-will-see-you-now-and-a-new-fu/",
         "category" : "tech_news",
-        "content"  : "Vaše šance ušetřit až 668 $ na TechCrunch Disrupt 2025 končí za pouhé 4 dny. Pravidelná cena Bird končí 26. září ve 23:59 PT. Připojte se k více než 10 000 zakladatelům, investorům a inovátorům, kteří utvářejí budoucnost technologií na konferenci, kde začínaly legendy jako Discord a Mint.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This medical startup uses LLMs to run appointments and make diagnoses Patients at a small number of clinics in Southern California run by the medical startup Akido Labs are spending relatively little time,…Číst původní článekZdroj: 🎓 MIT Technology Review"
       }
       
       ,{
-        "title"    : "Nové sluchátka Bang &amp; Olufsen vás přijdou dráž než nejnovější iPhone",
-        "url"      : "/tech-news/04-Nove-sluchatka-Bang-Olufsen-vas-prijdou-draz-nez-n/",
+        "title"    : "CNA is transforming its newsroom with AI",
+        "url"      : "/tech-news/24-cna-is-transforming-its-newsroom-with-ai/",
         "category" : "tech_news",
-        "content"  : "Nejnovější sluchátka Beo Grace od Bang &amp;amp; Olufsen nabízejí lesklý hliníkový design a „nejpokročilejší“ aktivní potlačení hluku za ohromujících 1 500 $. Tyto drahé sluchátka přenášejí zvuk přes 12mm titanové reproduktory, s ANC poháněným šesti mikrofony, které upravují zvuk na základě okolního hluku a tvaru ucha.Číst původní článekZdroj: ⚡ The Verge"
+        "content"  : "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.Číst původní článekZdroj: 🤖 OpenAI Blog"
       }
       
       ,{
-        "title"    : "Evropská letiště stále řeší problémy několik dní po ransomwarovém útoku",
-        "url"      : "/tech-news/05-Evropska-letiste-stale-resi-problemy-nekolik-dni-p/",
+        "title"    : "AI models are using material from retracted scientific papers",
+        "url"      : "/tech-news/12-ai-models-are-using-material-from-retracted-scient/",
         "category" : "tech_news",
-        "content"  : "Čtyři hlavní evropská letiště v Berlíně, Bruselu, Dublinu a Londýně stále zaznamenávají zpoždění letů kvůli kybernetickému útoku na společnost Collins Aerospace, která poskytuje systémy pro odbavení.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by MIT Technology Review, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists. AI search…Číst původní článekZdroj: 🎓 MIT Technology Review"
       }
       
       ,{
-        "title"    : "Nová aplikace Huxe od bývalých vývojářů NotebookLM využívá audio pro pomoc s novinkami a výzkumem",
-        "url"      : "/tech-news/06-Nova-aplikace-Huxe-od-byvalych-vyvojaru-NotebookLM/",
+        "title"    : "The YAML Document from Hell",
+        "url"      : "/tech-news/11-the-yaml-document-from-hell/",
         "category" : "tech_news",
-        "content"  : "Tři vývojáři, kteří pracovali na NotebookLM, nyní vytvářejí aplikaci Huxe, která uživatelům pomáhá ponořit se do témat generováním „podcastu“ s více AI moderátory.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "Article URL: https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell Comments URL: https://news.ycombinator.com/item?id=45344554 Points: 130 # Comments: 85Číst původní článekZdroj: 💻 Hacker News"
       }
       
       ,{
-        "title"    : "Google inovuje svůj Play Store pomocí AI funkcí a dalších vylepšení",
-        "url"      : "/tech-news/07-Google-inovuje-svuj-Play-Store-pomoci-AI-funkci-a/",
+        "title"    : "Go has added Valgrind support",
+        "url"      : "/tech-news/10-go-has-added-valgrind-support/",
         "category" : "tech_news",
-        "content"  : "Uživatelé se mohou těšit na větší personalizaci, přepracovanou záložku Aplikace, novou zkušenost s Play Games a další funkce využívající AI Gemini.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "Article URL: https://go-review.googlesource.com/c/go/+/674077 Comments URL: https://news.ycombinator.com/item?id=45344708 Points: 276 # Comments: 73Číst původní článekZdroj: 💻 Hacker News"
+      }
+      
+      ,{
+        "title"    : "Structured Outputs in LLMs",
+        "url"      : "/tech-news/09-structured-outputs-in-llms/",
+        "category" : "tech_news",
+        "content"  : "Article URL: https://parthsareen.com/blog.html#sampling.md Comments URL: https://news.ycombinator.com/item?id=45345207 Points: 109 # Comments: 52Číst původní článekZdroj: 💻 Hacker News"
+      }
+      
+      ,{
+        "title"    : "Cache of Devices Capable of Crashing Cell Network Is Found Near U.N",
+        "url"      : "/tech-news/08-cache-of-devices-capable-of-crashing-cell-network/",
+        "category" : "tech_news",
+        "content"  : "Article URL: https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html Comments URL: https://news.ycombinator.com/item?id=45345514 Points: 159 # Comments: 99Číst původní článekZdroj: 💻 Hacker News"
+      }
+      
+      ,{
+        "title"    : "How to Use 1Password&#39;s Travel Mode at the Border (2025)",
+        "url"      : "/tech-news/07-how-to-use-1passwords-travel-mode-at-the-border-20/",
+        "category" : "tech_news",
+        "content"  : "Travel Mode not only hides your most sensitive data—it acts as if that data never existed in the first place.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "8 Best Vegan Meal Delivery Services and Kits (2025), Tested, Tasted, and Reviewed",
+        "url"      : "/tech-news/06-8-best-vegan-meal-delivery-services-and-kits-2025/",
+        "category" : "tech_news",
+        "content"  : "Convenience isn’t just for meat eaters anymore. These vegan meal kits and delivery services bring preprepared meals and meal kits to your door.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "The Download: AI’s retracted papers problem",
+        "url"      : "/tech-news/05-the-download-ais-retracted-papers-problem/",
+        "category" : "tech_news",
+        "content"  : "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models are using material from retracted scientific papers The news: Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers…Číst původní článekZdroj: 🎓 MIT Technology Review"
+      }
+      
+      ,{
+        "title"    : "10 Best MagSafe Wallets (2025), Tested and Reviewed",
+        "url"      : "/tech-news/04-10-best-magsafe-wallets-2025-tested-and-reviewed/",
+        "category" : "tech_news",
+        "content"  : "These magnetic wallets will keep your cards safe across both MagSafe and Qi2-enabled devices.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "YouTube wants you to go live",
+        "url"      : "/tech-news/23-youtube-wants-you-to-go-live/",
+        "category" : "tech_news",
+        "content"  : "YouTube is the most powerful platform in entertainment, and as such it has outsize influence on what kind of entertainment people make and watch. When YouTube adds a mid-video ad break, videos get longer to accommodate it. When YouTube tells podcasters to make video, podcasters make video. And for its next act, it appears the […]Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone",
+        "url"      : "/tech-news/22-bang-038-olufsen8217s-new-earbuds-will-cost-you-mo/",
+        "category" : "tech_news",
+        "content"  : "Bang &amp;amp; Olufsen’s latest Beo Grace earbuds offer a flashy aluminum design and the brand’s “most advanced” active noise cancellation for a staggering $1,500. These pricey new buds pump sound through 12mm titanium drivers, featuring ANC powered by six microphones that adjust audio based on ambient noise and the shape of your ear. The Beo […]Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "The War on Roommates: Why Is Sharing a House Illegal?",
+        "url"      : "/tech-news/03-the-war-on-roommates-why-is-sharing-a-house-illega/",
+        "category" : "tech_news",
+        "content"  : "Article URL: https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html Comments URL: https://news.ycombinator.com/item?id=45347043 Points: 104 # Comments: 145Číst původní článekZdroj: 💻 Hacker News"
+      }
+      
+      ,{
+        "title"    : "Meta launches super PAC to fight AI regulation as state policies mount",
+        "url"      : "/tech-news/21-meta-launches-super-pac-to-fight-ai-regulation-as/",
+        "category" : "tech_news",
+        "content"  : "Meta is investing ‘tens of millions’ into a new pro-AI super PAC called the American Technology Excellence Project to fight state-level tech policy that would regulate AI.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Best External Hard Drive (2025): SSD to Store Data, Video &amp; More",
+        "url"      : "/tech-news/02-best-external-hard-drive-2025-ssd-to-store-data-vi/",
+        "category" : "tech_news",
+        "content"  : "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025",
+        "url"      : "/tech-news/18-vinod-khosla-on-ai-moonshots-and-building-enduring/",
+        "category" : "tech_news",
+        "content"  : "Vinod Khosla, founder of Khosla Ventures, takes the Disrupt Stage for a candid fireside chat on AI, climate, healthcare, and transformational startups. Hear blunt, big-picture advice from one of tech’s most legendary investors, and learn what founders truly need to succeed in turbulent times.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Tim Chen has quietly become of one the most sought-after solo investors",
+        "url"      : "/tech-news/19-tim-chen-has-quietly-become-of-one-the-most-sought/",
+        "category" : "tech_news",
+        "content"  : "Tim Chen, solo VC at his firm Essence VC, just closed his fourth fund, a fresh $41 million, without even trying.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Alloy is bringing data management to the robotics industry",
+        "url"      : "/tech-news/20-alloy-is-bringing-data-management-to-the-robotics/",
+        "category" : "tech_news",
+        "content"  : "Australia-based Alloy thinks it can help robotics firms with their data problem: the startup is building data infrastructure to help companies process and organize all the data their robots collect.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "DHS Has Been Collecting US Citizens’ DNA for Years",
+        "url"      : "/tech-news/01-dhs-has-been-collecting-us-citizens-dna-for-years/",
+        "category" : "tech_news",
+        "content"  : "Newly released data shows Customs and Border Protection funneled the DNA of nearly 2,000 US citizens—some as young as 14—into an FBI crime database, raising alarms about oversight and legality.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "WhatsApp adds built-in text translations on iPhone and Android",
+        "url"      : "/tech-news/17-whatsapp-adds-built-in-text-translations-on-iphone/",
+        "category" : "tech_news",
+        "content"  : "A new translation feature for WhatsApp on iPhone and Android that translates messages into your preferred language is rolling out “gradually,” starting today in 1:1 chats, groups, and Channel update messages. It can be activated by long-pressing down on messages and tapping the “Translate” option to choose the language you want the message to be […]Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Former Spotify execs launch AI-powered &amp;#8216;learning platform&amp;#8217; for the &amp;#8216;curiously minded&amp;#8217;",
+        "url"      : "/tech-news/16-former-spotify-execs-launch-ai-powered-8216learnin/",
+        "category" : "tech_news",
+        "content"  : "The creators of Oboe know what everyone’s thinking about AI. “Is AI going to make us all stupid?” the company asks in a recent ad. “Are we going to forget how to think for ourselves?” Oboe’s founders think the answer to both of those questions is no, and their startup is meant to prove it. […]Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025",
+        "url"      : "/tech-news/15-mercors-brendan-foody-breaks-down-ais-impact-on-hi/",
+        "category" : "tech_news",
+        "content"  : "On the AI Stage at TechCrunch Disrupt 2025, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also who gets to work in the first place.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Secret Service dismantles network capable of shutting down cell service in New York",
+        "url"      : "/tech-news/14-secret-service-dismantles-network-capable-of-shutt/",
+        "category" : "tech_news",
+        "content"  : "The US Secret Service says it has disrupted a network of devices used to carry out assassination threats against US officials and for anonymous communications between threat actors, according to a report from NBC News. In the Tuesday announcement, the agency revealed that it uncovered the network within a 35-mile radius of the United Nations […]Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "WhatsApp přidává vestavěný překlad textu na iPhone a Android",
+        "url"      : "/tech-news/01-WhatsApp-pridava-vestaveny-preklad-textu-na-iPhone/",
+        "category" : "tech_news",
+        "content"  : "Nová funkce pro překlad zpráv na WhatsAppu pro iPhone a Android, která překládá zprávy do vašeho preferovaného jazyka, se začíná „postupně“ zavádět od dnešního dne v 1:1 chatech, skupinách a zprávách z kanálů. Lze ji aktivovat dlouhým stisknutím zprávy a klepnutím na možnost „Přeložit“, abyste si vybrali jazyk, do kterého chcete zprávu přeložit.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Tim Chen se tiše stal jedním z nejvyhledávanějších samostatných investorů",
+        "url"      : "/tech-news/02-Tim-Chen-se-tise-stal-jednim-z-nejvyhledavanejsich/",
+        "category" : "tech_news",
+        "content"  : "Tim Chen, samostatný VC ve své firmě Essence VC, právě uzavřel svůj čtvrtý fond, čerstvých 41 milionů dolarů, aniž by se o to příliš snažil.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "AI společnost Superpanel získala 5,3 milionu dolarů na automatizaci právních procesů",
+        "url"      : "/tech-news/03-AI-spolecnost-Superpanel-ziskala-53-milionu-dolaru/",
+        "category" : "tech_news",
+        "content"  : "Superpanel v úterý oznámil získání 5,3 milionu dolarů v seed kole, kterou společně vedli Outlander VC a Field Ventures.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Vinod Khosla o AI, ambiciózních projektech a budování trvalých startupů — vše na TechCrunch Disrupt 2025",
+        "url"      : "/tech-news/04-Vinod-Khosla-o-AI-ambicioznich-projektech-a-budova/",
+        "category" : "tech_news",
+        "content"  : "Vinod Khosla, zakladatel Khosla Ventures, se objeví na pódiu Disrupt Stage pro otevřený rozhovor o AI, klimatu, zdravotnictví a transformačních startupech. Poslechněte si upřímné rady od jednoho z nejlegendárnějších investorů v technologiích a zjistěte, co zakladatelé skutečně potřebují k úspěchu v turbulentních časech.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Alloy přináší správu dat do robotického průmyslu",
+        "url"      : "/tech-news/05-Alloy-prinasi-spravu-dat-do-robotickeho-prumyslu/",
+        "category" : "tech_news",
+        "content"  : "Australský startup Alloy si myslí, že může pomoci robotickým firmám s jejich datovým problémem: buduje datovou infrastrukturu, která pomáhá společnostem zpracovávat a organizovat všechna data, která jejich roboti sbírají.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "MrBeast nezveřejnil reklamy a nesprávně shromažďoval data dětí",
+        "url"      : "/tech-news/06-MrBeast-nezverejnil-reklamy-a-nespravne-shromazdov/",
+        "category" : "tech_news",
+        "content"  : "Článek URL: https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables URL komentářů: https://news.ycombinator.com/item?id=45346950 Body: 204 # Komentáře: 71Číst původní článekZdroj: 💻 Hacker News"
       }
       
       ,{
         "title"    : "The Download: Problém stažených článků v AI",
-        "url"      : "/tech-news/08-The-Download-Problem-stazenych-clanku-v-AI/",
+        "url"      : "/tech-news/07-The-Download-Problem-stazenych-clanku-v-AI/",
         "category" : "tech_news",
-        "content"  : "Toto je dnešní vydání The Download, našeho denního zpravodaje, který přináší každodenní dávku toho, co se děje ve světě technologií. AI modely používají materiál ze stažených vědeckých článků Zprávy: Některé AI chatboty spoléhají na chybné výzkumy ze stažených vědeckých článků při odpovídání na otázky, podle nedávných studií. V jedné takové studii výzkumníci…Číst původní článekZdroj: 🎓 MIT Technology Review"
+        "content"  : "Toto je dnešní vydání The Download, našeho denního zpravodaje, který přináší denní dávku toho, co se děje ve světě technologií. AI modely používají materiál ze stažených vědeckých článků Zpráva: Některé AI chatboty spoléhají na chybný výzkum ze stažených vědeckých článků, aby odpověděly na otázky, podle nedávných studií. V jedné takové studii výzkumníci…Číst původní článekZdroj: 🎓 MIT Technology Review"
       }
       
       ,{
         "title"    : "CNA transformuje svou redakci pomocí AI",
-        "url"      : "/tech-news/09-CNA-transformuje-svou-redakci-pomoci-AI/",
+        "url"      : "/tech-news/08-CNA-transformuje-svou-redakci-pomoci-AI/",
         "category" : "tech_news",
         "content"  : "V této sérii Executive Function od OpenAI objevte, jak CNA transformuje svou redakci pomocí AI. Šéfredaktor Walter Fernandez sdílí poznatky o adopci AI, kultuře a budoucnosti žurnalistiky.Číst původní článekZdroj: 🤖 OpenAI Blog"
       }
       
       ,{
-        "title"    : "Nalezena skrýš zařízení schopných narušit mobilní síť poblíž OSN",
-        "url"      : "/tech-news/10-Nalezena-skrys-zarizeni-schopnych-narusit-mobilni/",
+        "title"    : "DHS již roky shromažďuje DNA občanů USA",
+        "url"      : "/tech-news/09-DHS-jiz-roky-shromazduje-DNA-obcanu-USA/",
         "category" : "tech_news",
-        "content"  : "URL článku: https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html URL komentářů: https://news.ycombinator.com/item?id=45345514 Body: 120 # Komentáře: 68Číst původní článekZdroj: 💻 Hacker News"
+        "content"  : "Nově zveřejněná data ukazují, že Celní a pohraniční stráž posílala DNA téměř 2 000 občanů USA — některých ve věku pouhých 14 let — do databáze zločinů FBI, což vyvolává obavy ohledně dohledu a legality.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "Meta spouští super PAC pro boj proti regulaci AI v reakci na státní politiky",
+        "url"      : "/tech-news/10-Meta-spousti-super-PAC-pro-boj-proti-regulaci-AI-v/",
+        "category" : "tech_news",
+        "content"  : "Meta investuje „desítky milionů“ do nového pro-AI super PAC s názvem American Technology Excellence Project, aby bojovala proti státním technologickým politikám, které by regulovaly AI.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Technologické zprávy",
+        "url"      : "/tech-news/",
+        "category" : "tech_news",
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z předních světových zdrojů, s obrázky a přeložené do češtiny.Celkem článků: 26Poslední aktualizace: 23.09.2025 15:43 UTCZdrojeČlánky jsou získávány z RSS feedů těchto zdrojů:  🚀 TechCrunch - startupy a investice  ⚡ The Verge - technologie a hardware  🔬 Ars Technica - hloubkové analýzy  🔧 Wired - technologie a společnost  🤖 OpenAI Blog - AI průlomy"
       }
       
     
