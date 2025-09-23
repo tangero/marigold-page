@@ -1,7 +1,7 @@
 ---
 category: ai
-date: '2025-09-23 15:38:54'
-description: Aplikace pro psaní poznámek Goodnotes spouští nové funkce pro profesionální
+date: '2025-09-23 15:59:04'
+description: Aplikace na poznámky Goodnotes spouští nové funkce pro profesionální
   uživatele.
 importance: 2
 layout: tech_news_article
@@ -12,13 +12,12 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Goodnotes spouští kolaborativní dokumenty a AI asistenta pro profesionální
-  uživatele
+title: Goodnotes představuje společné dokumenty a AI asistenta pro profesionální uživatele
 url: https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/
 urlToImage: null
 ---
 
-Aplikace pro psaní poznámek Goodnotes spouští nové funkce pro profesionální uživatele.
+Aplikace na poznámky Goodnotes spouští nové funkce pro profesionální uživatele.
 
 [Číst původní článek](https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/)
 
