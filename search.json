@@ -26513,6 +26513,15 @@
   
     
     ,{
+      "title"    : "Technologické zprávy",
+      "url"      : "/tech-news/",
+      "category" : "stránka",
+      "content"  : "# Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z předních světových zdrojů, přeložené do češtiny a vyhodnocené podle důležitosti pomocí umělé inteligence."
+    }
+    
+  
+    
+    ,{
       "title"    : "Zpět do práce, Intersil vydává bezpečnostní upgrade na bázi WPA:
 ",
       "url"      : "/test_title/",
@@ -27570,66 +27579,66 @@
       }
       
       ,{
+        "title"    : "StrictlyVC na TechCrunch Disrupt 2025: Odhalený kompletní program LP tracku",
+        "url"      : "/tech-news/02-StrictlyVC-na-TechCrunch-Disrupt-2025-Odhaleny-kom/",
+        "category" : "tech_news",
+        "content"  : "StrictlyVC se připojuje k TechCrunch Disrupt 2025 pro investorovský LP track 28. října. Prozkoumejte kompletní program a získejte své vstupenky pro investory před zvýšením cen 26. září.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Ceny vstupenek na TechCrunch Disrupt 2025 se zvyšují již za 4 dny",
+        "url"      : "/tech-news/03-Ceny-vstupenek-na-TechCrunch-Disrupt-2025-se-zvysu/",
+        "category" : "tech_news",
+        "content"  : "Vaše šance ušetřit až 668 $ na TechCrunch Disrupt 2025 končí za pouhé 4 dny. Pravidelná cena Bird končí 26. září ve 23:59 PT. Připojte se k více než 10 000 zakladatelům, investorům a inovátorům, kteří utvářejí budoucnost technologií na konferenci, kde začínaly legendy jako Discord a Mint.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
         "title"    : "Nové sluchátka Bang &amp; Olufsen vás přijdou dráž než nejnovější iPhone",
-        "url"      : "/tech-news/02-Nove-sluchatka-Bang-Olufsen-vas-prijdou-draz-nez-n/",
+        "url"      : "/tech-news/04-Nove-sluchatka-Bang-Olufsen-vas-prijdou-draz-nez-n/",
         "category" : "tech_news",
-        "content"  : "Nejnovější sluchátka Beo Grace od Bang &amp;amp; Olufsen nabízejí lesklý hliníkový design a „nejpokročilejší“ aktivní potlačení hluku za ohromujících 1 500 dolarů. Tyto drahé sluchátka přehrávají zvuk přes 12mm titanové reproduktory a ANC poháněné šesti mikrofony, které upravují zvuk na základě okolního hluku a tvaru ucha.Číst původní článekZdroj: ⚡ The Verge"
+        "content"  : "Nejnovější sluchátka Beo Grace od Bang &amp;amp; Olufsen nabízejí lesklý hliníkový design a „nejpokročilejší“ aktivní potlačení hluku za ohromujících 1 500 $. Tyto drahé sluchátka přenášejí zvuk přes 12mm titanové reproduktory, s ANC poháněným šesti mikrofony, které upravují zvuk na základě okolního hluku a tvaru ucha.Číst původní článekZdroj: ⚡ The Verge"
       }
       
       ,{
-        "title"    : "Goodnotes představuje společné dokumenty a AI asistenta pro profesionální uživatele",
-        "url"      : "/tech-news/03-Goodnotes-predstavuje-spolecne-dokumenty-a-AI-asis/",
+        "title"    : "Evropská letiště stále řeší problémy několik dní po ransomwarovém útoku",
+        "url"      : "/tech-news/05-Evropska-letiste-stale-resi-problemy-nekolik-dni-p/",
         "category" : "tech_news",
-        "content"  : "Aplikace na poznámky Goodnotes spouští nové funkce pro profesionální uživatele.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "Čtyři hlavní evropská letiště v Berlíně, Bruselu, Dublinu a Londýně stále zaznamenávají zpoždění letů kvůli kybernetickému útoku na společnost Collins Aerospace, která poskytuje systémy pro odbavení.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Go přidalo podporu pro Valgrind",
-        "url"      : "/tech-news/04-Go-pridalo-podporu-pro-Valgrind/",
+        "title"    : "Nová aplikace Huxe od bývalých vývojářů NotebookLM využívá audio pro pomoc s novinkami a výzkumem",
+        "url"      : "/tech-news/06-Nova-aplikace-Huxe-od-byvalych-vyvojaru-NotebookLM/",
         "category" : "tech_news",
-        "content"  : "Článek URL: https://go-review.googlesource.com/c/go/+/674077 Komentáře URL: https://news.ycombinator.com/item?id=45344708 Body: 201 # Komentáře: 52Číst původní článekZdroj: 💻 Hacker News"
+        "content"  : "Tři vývojáři, kteří pracovali na NotebookLM, nyní vytvářejí aplikaci Huxe, která uživatelům pomáhá ponořit se do témat generováním „podcastu“ s více AI moderátory.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Google představuje novinky v Play Store s funkcemi využívajícími AI a dalšími vylepšeními",
-        "url"      : "/tech-news/05-Google-predstavuje-novinky-v-Play-Store-s-funkcemi/",
+        "title"    : "Google inovuje svůj Play Store pomocí AI funkcí a dalších vylepšení",
+        "url"      : "/tech-news/07-Google-inovuje-svuj-Play-Store-pomoci-AI-funkci-a/",
         "category" : "tech_news",
         "content"  : "Uživatelé se mohou těšit na větší personalizaci, přepracovanou záložku Aplikace, novou zkušenost s Play Games a další funkce využívající AI Gemini.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "The Download: Problém s retrahovanými články v AI",
-        "url"      : "/tech-news/06-The-Download-Problem-s-retrahovanymi-clanky-v-AI/",
+        "title"    : "The Download: Problém stažených článků v AI",
+        "url"      : "/tech-news/08-The-Download-Problem-stazenych-clanku-v-AI/",
         "category" : "tech_news",
-        "content"  : "Toto je dnešní vydání The Download, našeho denního zpravodaje, který přináší každodenní dávku toho, co se děje ve světě technologií. AI modely používají materiál z retrahovaných vědeckých článků Zprávy: Některé AI chatboty spoléhají na chybné výzkumy z retrahovaných vědeckých článků při odpovídání na otázky, podle nedávných studií. V jedné takové studii výzkumníci…Číst původní článekZdroj: 🎓 MIT Technology Review"
-      }
-      
-      ,{
-        "title"    : "Sila otevírá továrnu v USA na výrobu křemíkových anod pro energeticky husté baterie do elektromobilů",
-        "url"      : "/tech-news/07-Sila-otevira-tovarnu-v-USA-na-vyrobu-kremikovych-a/",
-        "category" : "tech_news",
-        "content"  : "Sila budovala zařízení v Moses Lake ve státě Washington téměř dva roky. Nyní je připravena zahájit hromadnou výrobu.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "Po Indii spouští OpenAI svůj cenově dostupný plán ChatGPT Go v Indonésii",
-        "url"      : "/tech-news/08-Po-Indii-spousti-OpenAI-svuj-cenove-dostupny-plan/",
-        "category" : "tech_news",
-        "content"  : "OpenAI spouští ChatGPT Go v Indonésii, aby konkuroval plánu Google AI Plus.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "Rocket.new, jeden z prvních startupů pro vibe-coding v Indii, získává 15 milionů dolarů od Accel a Salesforce Ventures",
-        "url"      : "/tech-news/09-Rocketnew-jeden-z-prvnich-startupu-pro-vibe-coding/",
-        "category" : "tech_news",
-        "content"  : "Rocket.new dosáhl 400 000 uživatelů a 4,5 milionu dolarů ročního příjmu za tři měsíce.Číst původní článekZdroj: 🚀 TechCrunch"
+        "content"  : "Toto je dnešní vydání The Download, našeho denního zpravodaje, který přináší každodenní dávku toho, co se děje ve světě technologií. AI modely používají materiál ze stažených vědeckých článků Zprávy: Některé AI chatboty spoléhají na chybné výzkumy ze stažených vědeckých článků při odpovídání na otázky, podle nedávných studií. V jedné takové studii výzkumníci…Číst původní článekZdroj: 🎓 MIT Technology Review"
       }
       
       ,{
         "title"    : "CNA transformuje svou redakci pomocí AI",
-        "url"      : "/tech-news/10-CNA-transformuje-svou-redakci-pomoci-AI/",
+        "url"      : "/tech-news/09-CNA-transformuje-svou-redakci-pomoci-AI/",
         "category" : "tech_news",
         "content"  : "V této sérii Executive Function od OpenAI objevte, jak CNA transformuje svou redakci pomocí AI. Šéfredaktor Walter Fernandez sdílí poznatky o adopci AI, kultuře a budoucnosti žurnalistiky.Číst původní článekZdroj: 🤖 OpenAI Blog"
+      }
+      
+      ,{
+        "title"    : "Nalezena skrýš zařízení schopných narušit mobilní síť poblíž OSN",
+        "url"      : "/tech-news/10-Nalezena-skrys-zarizeni-schopnych-narusit-mobilni/",
+        "category" : "tech_news",
+        "content"  : "URL článku: https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html URL komentářů: https://news.ycombinator.com/item?id=45345514 Body: 120 # Komentáře: 68Číst původní článekZdroj: 💻 Hacker News"
       }
       
     
