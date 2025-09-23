@@ -1,0 +1,325 @@
+---
+layout: default
+---
+
+<div class="tech-news-container">
+  <header class="tech-news-header">
+    <h1>{{ page.title }}</h1>
+    <p class="tech-news-description">{{ page.description }}</p>
+  </header>
+
+  <!-- Kategorie filtry -->
+  <div class="tech-news-filters">
+    <button class="filter-btn active" data-category="all">🌟 Vše</button>
+    <button class="filter-btn" data-category="ai">🤖 AI & ML</button>
+    <button class="filter-btn" data-category="programming">💻 Programování</button>
+    <button class="filter-btn" data-category="hardware">🖥️ Hardware</button>
+    <button class="filter-btn" data-category="startup">🚀 Startupy</button>
+    <button class="filter-btn" data-category="security">🔒 Bezpečnost</button>
+    <button class="filter-btn" data-category="mobile">📱 Mobilní</button>
+    <button class="filter-btn" data-category="web">🌐 Web</button>
+    <button class="filter-btn" data-category="gaming">🎮 Hry</button>
+    <button class="filter-btn" data-category="crypto">₿ Krypto</button>
+    <button class="filter-btn" data-category="science">🔬 Věda</button>
+  </div>
+
+  <!-- Seznam zpráv -->
+  <div class="tech-news-grid">
+    {% assign sorted_news = site.tech_news | sort: 'date' | reverse %}
+    {% for article in sorted_news %}
+    <article class="tech-news-card" data-category="{{ article.categories[1] }}">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">{{ article.emoji }}</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">{{ article.source }}</span>
+          <time class="tech-news-date" datetime="{{ article.date | date_to_xmlschema }}">
+            {{ article.date | date: "%d.%m.%Y %H:%M" }}
+          </time>
+        </div>
+      </div>
+
+      {% if article.image %}
+      <div class="tech-news-image">
+        <img src="{{ article.image }}" alt="{{ article.title }}" loading="lazy" onerror="this.style.display='none';">
+      </div>
+      {% endif %}
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="{{ article.url }}">{{ article.title }}</a>
+        </h2>
+
+        <p class="tech-news-description">{{ article.description }}</p>
+
+        <div class="tech-news-actions">
+          <a href="{{ article.source_url }}" class="tech-news-link" target="_blank" rel="noopener">
+            Číst na {{ article.source }}
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">{{ article.category_cs }}</span>
+        </div>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  {% if site.tech_news.size == 0 %}
+  <div class="tech-news-empty">
+    <p>🔄 Zprávy se právě načítají... První aktualizace proběhne automaticky pomocí GitHub Actions.</p>
+  </div>
+  {% endif %}
+</div>
+
+<script>
+// Filtrování podle kategorií
+document.addEventListener('DOMContentLoaded', function() {
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const newsCards = document.querySelectorAll('.tech-news-card');
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', function() {
+      const category = this.dataset.category;
+
+      // Aktualizovat aktivní tlačítko
+      filterBtns.forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+
+      // Filtrovat zprávy
+      newsCards.forEach(card => {
+        if (category === 'all' || card.dataset.category === category) {
+          card.style.display = 'block';
+          card.style.animation = 'fadeIn 0.3s ease-in';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+  });
+});
+</script>
+
+<style>
+.tech-news-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.tech-news-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tech-news-header h1 {
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.tech-news-description {
+  color: #718096;
+  font-size: 1.1rem;
+}
+
+.tech-news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f7fafc;
+  border-radius: 12px;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 25px;
+  background: white;
+  color: #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.filter-btn:hover {
+  border-color: #3182ce;
+  background: #ebf8ff;
+  transform: translateY(-1px);
+}
+
+.filter-btn.active {
+  background: #3182ce;
+  border-color: #3182ce;
+  color: white;
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+}
+
+.tech-news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.tech-news-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: 1px solid #e2e8f0;
+}
+
+.tech-news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  border-color: #3182ce;
+}
+
+.tech-news-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1rem 0.5rem;
+}
+
+.tech-news-emoji {
+  font-size: 1.25rem;
+}
+
+.tech-news-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.tech-news-source {
+  font-weight: 600;
+  color: #3182ce;
+  font-size: 0.9rem;
+}
+
+.tech-news-date {
+  color: #718096;
+  font-size: 0.8rem;
+}
+
+.tech-news-image {
+  height: 200px;
+  overflow: hidden;
+  margin: 0.5rem 1rem;
+  border-radius: 8px;
+  background: #f7fafc;
+}
+
+.tech-news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tech-news-card:hover .tech-news-image img {
+  transform: scale(1.05);
+}
+
+.tech-news-content {
+  padding: 1rem 1rem 1.5rem;
+}
+
+.tech-news-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.tech-news-title a {
+  color: #2d3748;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.tech-news-title a:hover {
+  color: #3182ce;
+}
+
+.tech-news-card .tech-news-description {
+  color: #718096;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.tech-news-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-news-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.tech-news-link:hover {
+  color: #2c5282;
+}
+
+.external-icon {
+  flex-shrink: 0;
+}
+
+.tech-news-category {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.tech-news-empty {
+  text-align: center;
+  padding: 3rem;
+  color: #718096;
+  background: #f7fafc;
+  border-radius: 12px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 768px) {
+  .tech-news-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .tech-news-filters {
+    gap: 0.25rem;
+  }
+
+  .filter-btn {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .tech-news-header h1 {
+    font-size: 2rem;
+  }
+}
+</style>

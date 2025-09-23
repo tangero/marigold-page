@@ -57,7 +57,7 @@ github_repo: https://github.com/tangero/marigold-page
 
 # Definice Collections
 
-collections: 
+collections:
   posts:
     output: true
     permalink: /:lang/item/:title/
@@ -69,7 +69,11 @@ collections:
     permalink: /mobilnisite/:title/
   obrazy:
     output: true
-    permalink: /obrazy/:title/      
+    permalink: /obrazy/:title/
+  tech_news:
+    output: true
+    permalink: /tech-news/:title/
+    sort_by: date      
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -91,8 +95,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /en/item/:title/    
+      permalink: /en/item/:title/
       lang: "en"
+  - scope:
+      path: "_tech_news"
+      type: "tech_news"
+    values:
+      layout: "tech_news"
+      lang: "cs"
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
