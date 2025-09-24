@@ -10,11 +10,12 @@ layout: post
 post_excerpt: Léto s Claude Code bylo docela hutné. Pojďme si shrnout, co se objevilo ve verzích 1.0.82 až 1.0.123 za zásadní novinky. Vlastní agenti, vylepšené styly výstupu, pokročilou správu oprávnění a lepší integraci s vývojářskými workflow.
 summary_points:
 - Zavedení vlastních agentů pro specializované úkoly s příkazem /agents
-- Nové výstupní styly "Explanatory" a "Learning" pro vzdělávací účely
+- Nové výstupní styly Explanatory a Learning pro vzdělávací účely
 - Vylepšená správa oprávnění s příkazem /permissions a automatická potvrzování
 - Podpora pozadových příkazů (Ctrl-b) pro běžící servery a sledování logů
 - Nativní integrace ripgrep pro rychlejší vyhledávání v kódu
 - Pokročilá diagnostika s příkazem /context pro optimalizaci výkonu
+title: Co je nového v Claude Code od léta do podzimu?
 ---
 
 Claude Code od společnosti Anthropic zaznamenal mezi verzemi 1.0.82 až 1.0.123 významný vývoj s důrazem na zvýšení produktivity vývojářů prostřednictvím pokročilých funkcí pro správu projektů a automatizaci. Nejnovější verze 1.0.123 byla vydána před pouhými 17 hodinami, což dokládá aktivní vývoj tohoto nástroje pro agentic coding v terminálu.
