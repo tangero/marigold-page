@@ -35,8 +35,22 @@ class TechNewsWithImagesGenerator:
         # Vytvořit slug z titulku
         slug = self.create_slug(article['title'])
 
-        # Datum pro filename
-        pub_date = datetime.fromisoformat(article['publishedAt'].replace('Z', '+00:00'))
+        # Datum pro filename - převést na UTC pokud není
+        pub_date_str = article['publishedAt']
+        if pub_date_str.endswith('Z'):
+            pub_date = datetime.fromisoformat(pub_date_str.replace('Z', '+00:00'))
+        elif '+' in pub_date_str or pub_date_str.endswith('00:00'):
+            pub_date = datetime.fromisoformat(pub_date_str)
+        else:
+            # Předpokládat UTC pokud není definováno
+            pub_date = datetime.fromisoformat(pub_date_str).replace(tzinfo=timezone.utc)
+
+        # Zajistit UTC
+        if pub_date.tzinfo is None:
+            pub_date = pub_date.replace(tzinfo=timezone.utc)
+        else:
+            pub_date = pub_date.astimezone(timezone.utc)
+
         date_str = pub_date.strftime('%Y-%m-%d')
 
         filename = f"{date_str}-{slug}.md"
@@ -59,7 +73,7 @@ class TechNewsWithImagesGenerator:
             'original_title': article['title'],
             'slug': slug,  # Explicitní slug bez číslování
             'description': czech_description,
-            'publishedAt': article['publishedAt'],
+            'publishedAt': pub_date.isoformat(),  # UTC ISO format
             'date': pub_date.strftime('%Y-%m-%d %H:%M:%S'),
             'url': article['url'],
             'category': category,
