@@ -113,11 +113,15 @@ class TechNewsWithImagesGenerator:
         """Vytvoří URL-friendly slug z titulku"""
         slug = re.sub(r'[^\w\s-]', '', title.lower())
         slug = re.sub(r'[-\s]+', '-', slug).strip('-')
-        # Odstranit čísla ze začátku slug
-        slug = re.sub(r'^[0-9-]+', '', slug).strip('-')
-        # Pokud je slug prázdný nebo začíná číslem, přidat prefix
-        if not slug or slug[0].isdigit():
-            slug = 'article-' + slug
+
+        # Pokud slug začíná číslicí, přidat prefix "A-"
+        if slug and slug[0].isdigit():
+            slug = 'A-' + slug
+
+        # Pokud je slug prázdný, použít fallback
+        if not slug:
+            slug = 'article'
+
         return slug[:50]  # Omezit délku
 
     def translate_text(self, text, text_type="text"):
