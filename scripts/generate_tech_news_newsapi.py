@@ -10,7 +10,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 import logging
 from dotenv import load_dotenv
-from fetch_tech_news_advanced import RSSNewsManager
 
 # Načíst .env soubor
 load_dotenv()
@@ -19,15 +18,101 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-class TechNewsWithImagesGenerator:
-    """Generátor tech-news s robustním získáváním obrázků a překladem"""
+class NewsAPITechNewsGenerator:
+    """Generátor tech-news z NewsAPI s překlady a detekcí"""
 
     def __init__(self):
-        self.rss_manager = RSSNewsManager()
         self.output_dir = Path('_tech_news')
         self.output_dir.mkdir(exist_ok=True)
+        self.news_api_key = os.getenv('NEWS_API_KEY', '')
         self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY', '')
         self.translation_enabled = self.openrouter_api_key and self.openrouter_api_key != 'skip'
+
+    def fetch_newsapi_articles(self):
+        """Stáhne články z NewsAPI"""
+        if not self.news_api_key:
+            logger.error("❌ NEWS_API_KEY není nastaven!")
+            return []
+
+        url = "https://newsapi.org/v2/top-headlines"
+        params = {
+            'category': 'technology',
+            'apiKey': self.news_api_key,
+            'pageSize': 40,  # Max 40 článků
+            'language': 'en'
+        }
+
+        try:
+            logger.info("📡 Stahuji články z NewsAPI...")
+            response = requests.get(url, params=params, timeout=30)
+
+            if response.status_code == 200:
+                data = response.json()
+                if data['status'] == 'ok':
+                    articles = data.get('articles', [])
+                    logger.info(f"✅ Staženo {len(articles)} článků z NewsAPI")
+
+                    # Vyčistit a připravit články
+                    processed_articles = []
+                    for article in articles:
+                        # Přeskočit články bez podstatných dat
+                        if not article.get('title') or article['title'] == '[Removed]':
+                            continue
+                        if not article.get('url'):
+                            continue
+
+                        # Připravit zdroj
+                        source_info = {
+                            'id': article['source'].get('id', 'unknown'),
+                            'name': article['source'].get('name', 'Unknown'),
+                            'emoji': self.get_source_emoji(article['source'].get('name', ''))
+                        }
+
+                        processed_article = {
+                            'title': article['title'],
+                            'description': article.get('description', ''),
+                            'url': article['url'],
+                            'urlToImage': article.get('urlToImage'),
+                            'publishedAt': article['publishedAt'],
+                            'source': source_info,
+                            'content': article.get('content', '')
+                        }
+
+                        processed_articles.append(processed_article)
+
+                    return processed_articles
+                else:
+                    logger.error(f"❌ NewsAPI error: {data.get('message', 'Unknown')}")
+            else:
+                logger.error(f"❌ HTTP {response.status_code}: {response.text}")
+
+        except Exception as e:
+            logger.error(f"❌ Chyba při stahování z NewsAPI: {e}")
+
+        return []
+
+    def get_source_emoji(self, source_name):
+        """Vrátí emoji pro zdroj"""
+        emoji_map = {
+            'TechCrunch': '🚀',
+            'The Verge': '⚡',
+            'Wired': '🔧',
+            'Ars Technica': '🔬',
+            'MIT Technology Review': '🎓',
+            'OpenAI': '🤖',
+            'Associated Press': '📰',
+            'Bloomberg': '💹',
+            'Forbes': '💼',
+            'Axios': '📡',
+            'CBS News': '📺',
+            'The Wall Street Journal': '📈',
+        }
+
+        for name, emoji in emoji_map.items():
+            if name.lower() in source_name.lower():
+                return emoji
+
+        return '📰'  # Default
 
     def create_jekyll_article(self, article, article_index):
         """Vytvoří Jekyll článek s optimalizovaným front matter"""
@@ -35,14 +120,13 @@ class TechNewsWithImagesGenerator:
         # Vytvořit slug z titulku
         slug = self.create_slug(article['title'])
 
-        # Datum pro filename - převést na UTC pokud není
+        # Datum pro filename - převést na UTC
         pub_date_str = article['publishedAt']
         if pub_date_str.endswith('Z'):
             pub_date = datetime.fromisoformat(pub_date_str.replace('Z', '+00:00'))
         elif '+' in pub_date_str or pub_date_str.endswith('00:00'):
             pub_date = datetime.fromisoformat(pub_date_str)
         else:
-            # Předpokládat UTC pokud není definováno
             pub_date = datetime.fromisoformat(pub_date_str).replace(tzinfo=timezone.utc)
 
         # Zajistit UTC
@@ -56,7 +140,7 @@ class TechNewsWithImagesGenerator:
         filename = f"{date_str}-{slug}.md"
         filepath = self.output_dir / filename
 
-        # Převést na český titulek a popis (pokud možno)
+        # Převést na český titulek a popis
         czech_title = self.translate_title(article['title'])
         czech_description = self.translate_description(article.get('description', ''))
 
@@ -71,9 +155,9 @@ class TechNewsWithImagesGenerator:
             'layout': 'tech_news_article',
             'title': czech_title,
             'original_title': article['title'],
-            'slug': slug,  # Explicitní slug bez číslování
+            'slug': slug,
             'description': czech_description,
-            'publishedAt': pub_date.isoformat(),  # UTC ISO format
+            'publishedAt': pub_date.isoformat(),
             'date': pub_date.strftime('%Y-%m-%d %H:%M:%S'),
             'url': article['url'],
             'category': category,
@@ -144,13 +228,13 @@ class TechNewsWithImagesGenerator:
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',  # Rychlý a levný model pro překlady
+                'model': 'anthropic/claude-3-haiku',
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
                 ],
                 'max_tokens': 200 if text_type == "title" else 500,
-                'temperature': 0.3  # Nízká teplota pro konzistentní překlady
+                'temperature': 0.3
             }
 
             response = requests.post(
@@ -164,7 +248,6 @@ class TechNewsWithImagesGenerator:
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     translated = result['choices'][0]['message']['content'].strip()
-                    # Odstranit uvozovky, pokud je API přidalo
                     translated = translated.strip('"\'')
                     logger.debug(f"Překlad {text_type}: {text[:30]}... → {translated[:30]}...")
                     return translated
@@ -187,7 +270,7 @@ class TechNewsWithImagesGenerator:
     def detect_category(self, title, description):
         """Detekuje kategorii článku pomocí LLM"""
         if not self.translation_enabled:
-            return 'tech'  # Fallback bez LLM
+            return 'tech'
 
         try:
             prompt = f"""Přiřaď tomuto technologickému článku jednu přesnou kategorii (1-2 slova v češtině).
@@ -215,8 +298,8 @@ Odpověz POUZE názvem kategorie, nic jiného."""
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
-                'max_tokens': 20,  # Velmi krátká odpověď
-                'temperature': 0.1  # Nízká teplota pro konzistenci
+                'max_tokens': 20,
+                'temperature': 0.1
             }
 
             response = requests.post(
@@ -230,9 +313,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     category = result['choices'][0]['message']['content'].strip()
-                    # Vyčistit kategorii
                     category = category.lower().strip('"\'.,!?')
-                    # Omezit délku
                     if len(category) > 20:
                         category = category[:20]
 
@@ -244,7 +325,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
         except Exception as e:
             logger.warning(f"Chyba LLM kategorie: {e}")
 
-        return 'tech'  # Fallback
+        return 'tech'
 
     def detect_companies(self, title, description):
         """Detekuje významné firmy zmíněné v článku pomocí LLM"""
@@ -299,7 +380,6 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
                     if companies_text.lower() in ['žádné', 'zadne', 'none', '']:
                         return []
 
-                    # Rozdělit podle čárek a vyčistit
                     companies = [
                         company.strip().strip('"\'.,!?')
                         for company in companies_text.split(',')
@@ -307,7 +387,7 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
                     ]
 
                     logger.debug(f"LLM firmy: {title[:30]}... → {companies}")
-                    return companies[:5]  # Max 5 firem
+                    return companies[:5]
 
         except Exception as e:
             logger.warning(f"Chyba LLM firem: {e}")
@@ -368,7 +448,6 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                     if people_text.lower() in ['žádné', 'zadne', 'none', '']:
                         return []
 
-                    # Rozdělit podle čárek a vyčistit
                     people = [
                         person.strip().strip('"\'.,!?')
                         for person in people_text.split(',')
@@ -376,7 +455,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                     ]
 
                     logger.debug(f"LLM osobnosti: {title[:30]}... → {people}")
-                    return people[:3]  # Max 3 osobnosti
+                    return people[:3]
 
         except Exception as e:
             logger.warning(f"Chyba LLM osobností: {e}")
@@ -388,23 +467,18 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         text = f"{title} {description}".lower()
 
         # Vysoká důležitost
-        if any(word in text for word in ['breakthrough', 'major', 'billion', 'acquisition']):
+        if any(word in text for word in ['breakthrough', 'major', 'billion', 'acquisition', 'merge']):
             return 5
 
         # Střední-vysoká důležitost
-        if any(word in text for word in ['new', 'launches', 'announces', 'first']):
+        if any(word in text for word in ['new', 'launches', 'announces', 'first', 'partnership']):
             return 4
 
         # Nízká důležitost
-        if any(word in text for word in ['rumors', 'might', 'reportedly']):
+        if any(word in text for word in ['rumors', 'might', 'reportedly', 'could']):
             return 2
 
         return 3  # Default
-
-    def clean_old_articles(self):
-        """Vyčistí staré články (dočasně zachováno pro zpětnou kompatibilitu)"""
-        # Tato funkce se už nepoužívá - používá se clean_duplicates
-        logger.info("🧹 Přeskakuji mazání - používá se chytré smazání duplicitů")
 
     def clean_duplicates(self, new_articles):
         """Smaže pouze články s duplicitním slug, zachová archiv"""
@@ -430,7 +504,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 # Formát: YYYY-MM-DD-slug.md
                 file_parts = old_file.stem.split('-', 3)
                 if len(file_parts) >= 4:
-                    file_slug = file_parts[3]  # slug část
+                    file_slug = file_parts[3]
 
                     if file_slug in new_slugs:
                         logger.debug(f"🗑️ Mažu duplicitní článek: {old_file.name}")
@@ -448,19 +522,19 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             logger.info("🧹 Žádné duplicity nenalezeny")
 
     def generate_tech_news(self):
-        """Hlavní funkce pro generování tech-news"""
-        logger.info("🚀 Spouští se generování tech-news s obrázky")
+        """Hlavní funkce pro generování tech-news z NewsAPI"""
+        logger.info("🚀 Spouští se generování tech-news z NewsAPI")
 
-        # Získat články z RSS
-        articles = self.rss_manager.fetch_all_articles()
+        # Získat články z NewsAPI
+        articles = self.fetch_newsapi_articles()
 
         if not articles:
-            logger.error("❌ Žádné články nenalezeny")
+            logger.error("❌ Žádné články nenalezeny z NewsAPI")
             return False
 
         logger.info(f"📰 Zpracovávám {len(articles)} článků...")
 
-        # Chytré smazání duplicitů - pouze články se stejným slug
+        # Chytré smazání duplicitů
         self.clean_duplicates(articles)
 
         processed_count = 0
@@ -501,24 +575,25 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
 layout: tech_news_index
 title: Technologické zprávy
 permalink: /tech-news/
-description: Nejnovější zprávy ze světa technologií s obrázky z předních světových zdrojů
+description: Nejnovější zprávy ze světa technologií z NewsAPI s překlady do češtiny
 ---
 
 # Technologické zprávy
 
-Automaticky aktualizované zprávy ze světa technologií z předních světových zdrojů, s obrázky a přeložené do češtiny.
+Automaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.
 
 **Celkem článků:** {article_count}
 **Poslední aktualizace:** {datetime.now(timezone.utc).strftime('%d.%m.%Y %H:%M UTC')}
 
 ## Zdroje
 
-Články jsou získávány z RSS feedů těchto zdrojů:
-- 🚀 **TechCrunch** - startupy a investice
-- ⚡ **The Verge** - technologie a hardware
-- 🔬 **Ars Technica** - hloubkové analýzy
-- 🔧 **Wired** - technologie a společnost
-- 🤖 **OpenAI Blog** - AI průlomy
+Články jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:
+- 📰 **Associated Press** - zpravodajství
+- 🚀 **TechCrunch** - startupy a technologie
+- 💹 **Bloomberg** - business a finance
+- 💼 **Forbes** - podnikání a investice
+- 📡 **Axios** - technologie a politika
+- 🤖 **OpenAI** - AI průlomy
 """
 
         index_path = self.output_dir / 'index.md'
@@ -529,19 +604,26 @@ Automaticky aktualizované zprávy ze světa technologií z předních světový
 
 def main():
     """Hlavní funkce"""
-    generator = TechNewsWithImagesGenerator()
+    generator = NewsAPITechNewsGenerator()
 
-    # Zkontrolovat, zda je RSS manager správně nakonfigurován
-    stats = generator.rss_manager.get_stats()
-    logger.info(f"📊 RSS Manager - aktivní zdroje: {stats['enabled_sources']}/{stats['total_sources']}")
+    # Kontrola API klíčů
+    if not generator.news_api_key:
+        logger.error("❌ NEWS_API_KEY není nastaven v .env souboru!")
+        return 1
+
+    logger.info(f"📊 NewsAPI generator připraven")
+    if generator.translation_enabled:
+        logger.info("✅ Překlady povoleny (OpenRouter API)")
+    else:
+        logger.info("⚠️ Překlady zakázány (chybí OPENROUTER_API_KEY)")
 
     # Generovat tech-news
     success = generator.generate_tech_news()
 
     if success:
-        logger.info("🎉 Generování tech-news dokončeno")
+        logger.info("🎉 Generování tech-news z NewsAPI dokončeno")
     else:
-        logger.error("💥 Generování tech-news selhalo")
+        logger.error("💥 Generování tech-news z NewsAPI selhalo")
         return 1
 
     return 0
