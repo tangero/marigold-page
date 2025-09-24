@@ -1,6 +1,6 @@
 ---
 category: gaming
-date: '2025-09-24 02:48:29'
+date: '2025-09-24 06:15:45'
 description: Data z nové zprávy ukazují, že uživatelé Xboxu hrají více her než fanoušci
   na Steamu nebo PS5, i když zaznamenávají méně celkového času hraní.
 importance: 2

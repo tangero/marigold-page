@@ -1,6 +1,6 @@
 ---
 category: ai
-date: '2025-09-24 02:48:29'
+date: '2025-09-24 06:15:45'
 description: Kalifornský zákonodárce se podruhé pokouší prosadit první zákon o bezpečnosti
   AI v zemi. Tentokrát by to mohlo vyjít.
 importance: 3

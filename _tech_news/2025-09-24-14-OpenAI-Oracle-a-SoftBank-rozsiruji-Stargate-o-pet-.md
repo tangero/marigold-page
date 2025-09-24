@@ -1,9 +1,9 @@
 ---
 category: ai
-date: '2025-09-24 02:48:29'
-description: OpenAI, Oracle a SoftBank oznámily pět nových lokalit datových center
-  Stargate pro AI, čímž urychlují výstavbu infrastruktury v USA v hodnotě 500 miliard
-  dolarů a 10 gigawattů, která pohání novou generaci AI a vytváří desítky tisíc pracovních
+date: '2025-09-24 06:15:45'
+description: OpenAI, Oracle a SoftBank oznamují pět nových lokalit datových center
+  Stargate pro AI, čímž urychlují výstavbu infrastruktury v USA za 500 miliard dolarů
+  a 10 gigawattů, která pohání novou generaci AI a vytváří desítky tisíc pracovních
   míst.
 importance: 4
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://openai.com/index/five-new-stargate-sites
 urlToImage: null
 ---
 
-OpenAI, Oracle a SoftBank oznámily pět nových lokalit datových center Stargate pro AI, čímž urychlují výstavbu infrastruktury v USA v hodnotě 500 miliard dolarů a 10 gigawattů, která pohání novou generaci AI a vytváří desítky tisíc pracovních míst.
+OpenAI, Oracle a SoftBank oznamují pět nových lokalit datových center Stargate pro AI, čímž urychlují výstavbu infrastruktury v USA za 500 miliard dolarů a 10 gigawattů, která pohání novou generaci AI a vytváří desítky tisíc pracovních míst.
 
 [Číst původní článek](https://openai.com/index/five-new-stargate-sites)
 

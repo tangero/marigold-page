@@ -1,8 +1,8 @@
 ---
 category: science
-date: '2025-09-24 02:48:29'
+date: '2025-09-24 06:15:45'
 description: Na TechCrunch Disrupt 2025 se Even Rogers z True Anomaly a Max Haot z
-  Vast připojí k vesmírné scéně, aby prozkoumali, co je potřeba k odemknutí udržitelné
+  Vast připojí k Space Stage, aby prozkoumali, co je potřeba k odemknutí udržitelné
   a škálovatelné vesmírné ekonomiky.
 importance: 3
 layout: tech_news_article
@@ -17,7 +17,7 @@ url: https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-roge
 urlToImage: null
 ---
 
-Na TechCrunch Disrupt 2025 se Even Rogers z True Anomaly a Max Haot z Vast připojí k vesmírné scéně, aby prozkoumali, co je potřeba k odemknutí udržitelné a škálovatelné vesmírné ekonomiky.
+Na TechCrunch Disrupt 2025 se Even Rogers z True Anomaly a Max Haot z Vast připojí k Space Stage, aby prozkoumali, co je potřeba k odemknutí udržitelné a škálovatelné vesmírné ekonomiky.
 
 [Číst původní článek](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 
