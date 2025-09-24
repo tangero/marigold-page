@@ -1,6 +1,6 @@
 ---
 category: ai
-date: '2025-09-24 14:23:15'
+date: '2025-09-24 18:16:24'
 description: SAP a OpenAI spouštějí OpenAI pro Německo, partnerství na rok 2026, které
   přinese bezpečnou, suverénní AI do německého veřejného sektoru, což umožní bezpečné
   a efektivní veřejné služby.
