@@ -27581,258 +27581,101 @@
     
       
       ,{
-        "title"    : "Stažení: LLM vás nyní uvidí a nová dohoda o fúzní energii",
-        "url"      : "/tech-news/the-download-the-llm-will-see-you-now-and-a-new-fu/",
+        "title"    : "Na jednu slavnou chvíli webová stránka zachránila San Francisco před pokutami za parkování",
+        "url"      : "/tech-news/01-na-jednu-slavnou-chvili-webova-stranka-zachranila/",
         "category" : "tech_news",
-        "content"  : "Toto je dnešní vydání The Download, našeho každodenního newsletteru, který vám přináší dávku toho, co se děje ve světě technologií. Tato zdravotnická startupová společnost používá LLM k vedení schůzek a stanovování diagnózPacienti v malém počtu klinik na jihu Kalifornie provozovaných zdravotnickou startupovou společností Akido Labs tráví relativně málo času čekáním na vyšetření. Místo toho jejich interakce s lékaři probíhá z velké části prostřednictvím velkých jazykových modelů (LLM). Tyto modely pomáhají s vedením schůzek, vytvářením lékařských záznamů a dokonce i s diagnostikou. Cílem je zefektivnit a zrychlit proces poskytování zdravotní péče.Číst původní článekZdroj: 🎓 MIT Technology Review"
+        "content"  : "Sériový tvůrce webových stránek Riley Walz spustil projekt, který sledoval parkovací kontrolu v San Franciscu v reálném čase – dokud nebyl veřejný datový zdroj přerušen.Číst původní článekZdroj: 🔧 Wired"
       }
       
       ,{
-        "title"    : "Transformace zpravodajství CNA pomocí AI",
-        "url"      : "/tech-news/cna-is-transforming-its-newsroom-with-ai/",
+        "title"    : "iFixit se zaměřuje na zprávy o problému s poškrábáním u iPhone 17 Pro",
+        "url"      : "/tech-news/02-ifixit-se-zameruje-na-zpravy-o-problemu-s-poskraba/",
         "category" : "tech_news",
-        "content"  : "V této sérii o výkonných funkcích od OpenAI se dozvíte, jak CNA transformuje svoji redakci s využitím AI. Šéfredaktor Walter Fernandez sdílí postřehy o adopci AI, firemní kultuře a budoucnosti žurnalistiky.Číst původní článekZdroj: 🤖 OpenAI Blog"
+        "content"  : "Nové, anodizované hliníkové telefony Apple iPhone 17 Pro upoutaly pozornost kvůli údajnému snadnému poškrábání kolem „plošiny“ fotoaparátu. iFixit tento problém podrobně prozkoumal ve svém rozebíracím videu pro tyto telefony. Zde jsou některé obrázky ukazující, jak tyto škrábance vypadají pod digitálním mikroskopem: iFixit hovořil s […]Číst původní článekZdroj: ⚡ The Verge"
       }
       
       ,{
-        "title"    : "Modely umělé inteligence využívají materiál z retrakcí vědeckých článků",
-        "url"      : "/tech-news/ai-models-are-using-material-from-retracted-scient/",
+        "title"    : "Jak neúspěšný video formát dal vzniknout novému druhu mikroskopu",
+        "url"      : "/tech-news/03-jak-neuspesny-video-format-dal-vzniknout-novemu-dr/",
         "category" : "tech_news",
-        "content"  : "Některé AI chatboty se podle nedávných studií spoléhají na vadný výzkum z odvolaných vědeckých článků při odpovídání na otázky. Zjištění potvrzená MIT Technology Review vzbuzují otázky ohledně toho, jak spolehlivé jsou AI nástroje při hodnocení vědeckého výzkumu, a mohou zkomplikovat snahy zemí a průmyslu investovat do AI nástrojů pro vědce. AI vyhledávání…Číst původní článekZdroj: 🎓 MIT Technology Review"
+        "content"  : "Video kazeta byla skutečně prvním úspěšným domácím video formátem; disky v počátcích jednoduše nemohly konkurovat. To neznamená, že se nikdo nepokusil, jak ukazuje příklad RCA…Číst původní článekZdroj: 🔧 Hackaday"
       }
       
       ,{
-        "title"    : "8 nejlepších služeb a sad pro doručování veganských jídel (2025), testováno, ochutnáno a recenzováno",
-        "url"      : "/tech-news/best-vegan-meal-delivery-services-and-kits-2025-te/",
+        "title"    : "Rozebrání iPhone 17 Pro odhaluje vnitřní komponenty s parní komorou, detaily o poškrábání a další",
+        "url"      : "/tech-news/04-rozebrani-iphone-17-pro-odhaluje-vnitrni-komponent/",
         "category" : "tech_news",
-        "content"  : "Pohodlí už není jen pro milovníky masa. Tyto veganské krabičky s jídlem a rozvozové služby vám doručí předpřipravená jídla a krabičky s ingrediencemi přímo domů.Číst původní článekZdroj: 🔧 Wired"
+        "content"  : "Po rozebrání iPhone Air se iFixit zaměřil na iPhone 17 Pro a zjistil, že zařízení kombinuje vítaná vylepšení a jeden krok zpět, pokud jde o opravitelnost. Zde jsou podrobnosti. více…Číst původní článekZdroj: 🍎 9to5Mac"
       }
       
       ,{
-        "title"    : "Stažení: Problém s odvolanými články o umělé inteligenci",
-        "url"      : "/tech-news/the-download-ais-retracted-papers-problem/",
+        "title"    : "Data ukazují, že fanoušci Xboxu hrají více her než uživatelé Steam nebo PS5 – zde je důvod (a proč mě to nepřekvapuje)",
+        "url"      : "/tech-news/05-data-ukazuji-ze-fanousci-xboxu-hraji-vice-her-nez/",
         "category" : "tech_news",
-        "content"  : "Toto je dnešní vydání The Download, našeho každodenního newsletteru, který vám přináší denní dávku toho, co se děje ve světě technologií. AI modely používají materiál z retrakcích vědeckých článků.Zpráva: Některé AI chatboty se při odpovídání na otázky spoléhají na chybný výzkum z retrakcích vědeckých článků, jak ukazují nedávné studie. V jedné takové studii výzkumníci…Číst původní článekZdroj: 🎓 MIT Technology Review"
+        "content"  : "Data z nové zprávy ukazují, že uživatelé Xboxu hrají více her než fanoušci na Steamu nebo PS5, i když zaznamenávají méně celkového času hraní.Číst původní článekZdroj: 🪟 Windows Central"
       }
       
       ,{
-        "title"    : "10 nejlepších MagSafe peněženek (2025), testované a recenzované",
-        "url"      : "/tech-news/best-magsafe-wallets-2025-tested-and-reviewed/",
+        "title"    : "Recenze Nothing Ear 3: Skvěle znějící bezdrátová sluchátka, ne tak skvělý mikrofon",
+        "url"      : "/tech-news/06-recenze-nothing-ear-3-skvele-znejici-bezdratova-sl/",
         "category" : "tech_news",
-        "content"  : "Tyto magnetické peněženky ochrání vaše karty na zařízeních s podporou MagSafe i Qi2. Karty budou v bezpečí při použití obou těchto technologií.Číst původní článekZdroj: 🔧 Wired"
+        "content"  : "Nothing zvládá základy u svých nejnovějších bezdrátových sluchátek Ear 3 s ANC, ale jeho propíraná funkce Super Microfon zní nejlepším případem nejasně.Číst původní článekZdroj: ⚡ Gizmodo"
       }
       
       ,{
-        "title"    : "Microsoft 365 Copilot AI agenti dosáhli nového milníku - změní se týmová spolupráce?",
-        "url"      : "/tech-news/microsoft-365-copilot-ai-agents-reach-a-new-milest/",
+        "title"    : "Co je Bluesky? Vše, co potřebujete vědět o konkurentovi X",
+        "url"      : "/tech-news/07-co-je-bluesky-vse-co-potrebujete-vedet-o-konkurent/",
         "category" : "tech_news",
-        "content"  : "Microsoft zavádí nové agenty Copilot v aplikacích Teams, SharePoint a dalších, kteří mají fungovat jako AI kolegové pomáhající s organizací projektů, sledováním úkolů a zvyšováním produktivity.Číst původní článekZdroj: 🪟 Windows Central"
+        "content"  : "Shromáždili jsme odpovědi na některé z nejčastějších otázek, které uživatelé o Bluesky mají.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Blížící se návrat CRT displejů bude zaznamenán",
-        "url"      : "/tech-news/the-impending-crt-display-revival-will-be-televise/",
+        "title"    : "Google AI Mode je nyní dostupný ve španělštině po celém světě",
+        "url"      : "/tech-news/08-google-ai-mode-je-nyni-dostupny-ve-spanelstine-po/",
         "category" : "tech_news",
-        "content"  : "Až do 2000. let prakticky vládly vakuové trubice. I když prakticky zcela ustoupily polovodičové technologii jako integrované obvody, nebylo jim možné uniknout v čemkoliv od …Číst původní článekZdroj: 🔧 Hackaday"
+        "content"  : "Google AI Mode je nyní dostupný pro španělsky mluvící uživatele po celém světě.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Potvrzení existence rozsáhlých podzemních tunelů na Venuši",
-        "url"      : "/tech-news/scientists-confirm-massive-underground-tunnels-on/",
+        "title"    : "Budování nové páteře vesmíru na TechCrunch Disrupt 2025",
+        "url"      : "/tech-news/09-budovani-nove-patere-vesmiru-na-techcrunch-disrupt/",
         "category" : "tech_news",
-        "content"  : "Vědci potvrdili existenci masivních podzemních tunelů na Venuši. Našli důkazy o velmi, velmi velkých objemech těchto trubkovitých útvarů.Číst původní článekZdroj: 🚀 Futurism"
+        "content"  : "Na TechCrunch Disrupt 2025 se Even Rogers z True Anomaly a Max Haot z Vast připojí k Space Stage, aby prozkoumali, co je potřeba k odemknutí udržitelné a škálovatelné vesmírné ekonomiky.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Walmart&#39;s GeForce Week - Slevové akce na herní notebooky s RTX",
-        "url"      : "/tech-news/walmarts-geforce-week-cuts-prices-by-up-to-1500-i/",
+        "title"    : "NASA se stěhuje z celých budov, protože ji Trump likviduje",
+        "url"      : "/tech-news/10-nasa-se-stehuje-z-celych-budov-protoze-ji-trump-li/",
         "category" : "tech_news",
-        "content"  : "Walmart pořádá akci GeForce Week, která přináší překvapivě dobré nabídky na herní hardware NVIDIA. Slevy jsou natolik lákavé, že je škoda je minout. Vybral jsem 7 nejlepších nabídek na herní notebooky.Číst původní článekZdroj: 🪟 Windows Central"
+        "content"  : "Je to tragédie. Příspěvek NASA Moving Out of Entire Buildings as It’s Gutted by Trump se poprvé objevil na Futurism.Číst původní článekZdroj: 🚀 Futurism"
       }
       
       ,{
-        "title"    : "Microsoftova nová megafabrika Fairwater má za cíl revolucionalizovat trénování AI - jak funguje nejsilnější datové centrum na světě",
-        "url"      : "/tech-news/microsofts-new-fairwater-megafactory-aims-to-revol/",
+        "title"    : "Scott Wiener o svém boji za to, aby velké technologické společnosti odhalily nebezpečí AI",
+        "url"      : "/tech-news/11-scott-wiener-o-svem-boji-za-to-aby-velke-technolog/",
         "category" : "tech_news",
-        "content"  : "Microsoft představil Fairwater, své největší AI datové centrum ve Wisconsinu, které bylo postaveno, aby pohánělo obrovské AI modely s nejnovějšími GPU od NVIDIA a úložištěm na exabytové škále.Číst původní článekZdroj: 🪟 Windows Central"
+        "content"  : "Kalifornský zákonodárce se podruhé pokouší prosadit první zákon o bezpečnosti AI v zemi. Tentokrát by to mohlo vyjít.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Nejlepší externí pevný disk (2025): SSD pro ukládání dat, videa a více",
-        "url"      : "/tech-news/best-external-hard-drive-2025-ssd-to-store-data-vi/",
+        "title"    : "Kulaté stoly: Seznamte se s inovátorem roku 2025",
+        "url"      : "/tech-news/12-kulate-stoly-seznamte-se-s-inovatorem-roku-2025/",
         "category" : "tech_news",
-        "content"  : "Potřebujete ultrarychlou jednotku pro video editaci nebo odolnou možnost pro zálohování fotografií v terénu? Máme řešení pro každou situaci.Číst původní článekZdroj: 🔧 Wired"
+        "content"  : "Každý rok MIT Technology Review vybírá jednoho jednotlivce, jehož práci obdivujeme, aby byl uznán jako Inovátor roku. Pro rok 2025 jsme vybrali Snehu Goenku, která navrhla výpočty za nejrychlejší metodou sekvenování celého genomu na světě. Díky její práci mohou lékaři nyní sekvenovat genom pacienta a diagnostikovat genetickou poruchu za méně než osm…Číst původní článekZdroj: 🎓 MIT Technology Review"
       }
       
       ,{
-        "title"    : "DHS shromažďuje DNA amerických občanů již několik let",
-        "url"      : "/tech-news/dhs-has-been-collecting-us-citizens-dna-for-years/",
+        "title"    : "OpenAI staví pět nových datových center Stargate ve spolupráci s Oracle a SoftBank",
+        "url"      : "/tech-news/13-openai-stavi-pet-novych-datovych-center-stargate-v/",
         "category" : "tech_news",
-        "content"  : "Nově zveřejněná data ukazují, že Celní a hraniční ochrana (Customs and Border Protection) vložila DNA téměř 2 000 amerických občanů - někteří z nich byli tak mladí jako 14 let - do databáze FBI pro trestné činy. To vyvolává obavy ohledně dohledu a legality tohoto postupu.Číst původní článekZdroj: 🔧 Wired"
+        "content"  : "OpenAI pokračuje ve výstavbě masivních datových center pro AI, aby trénovala a poskytovala stále výkonnější modely umělé inteligence.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
-        "title"    : "Pokus o cestu napříč Spojenými státy s autonomním řízením Tesly, havárie téměř okamžitě",
-        "url"      : "/tech-news/tesla-fans-try-coast-to-coast-self-driving-trip-cr/",
+        "title"    : "OpenAI, Oracle a SoftBank rozšiřují Stargate o pět nových lokalit datových center pro AI",
+        "url"      : "/tech-news/14-openai-oracle-a-softbank-rozsiruji-stargate-o-pet/",
         "category" : "tech_news",
-        "content"  : "Fanoušci Tesly se pokusili o cestu napříč Spojenými státy v autonomním režimu, ale havárie přišla téměř okamžitě. Jsem bez slov nad tím, co se právě stalo.Číst původní článekZdroj: 🚀 Futurism"
-      }
-      
-      ,{
-        "title"    : "Dopad AI na nábor zaměstnanců podle Brendana Foodyho z Mercoru na TechCrunch Disrupt 2025",
-        "url"      : "/tech-news/mercors-brendan-foody-breaks-down-ais-impact-on-hi/",
-        "category" : "tech_news",
-        "content"  : "Na AI Stage na TechCrunch Disrupt 2025 spoluzakladatel a CEO společnosti Mercor Brendan Foody rozeberou, jak umělá inteligence transformuje nejen to, jak pracujeme, ale také kdo vůbec může pracovat.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "Použití Moondream AI k tomu, aby váš Pi &quot;viděl&quot; jako člověk",
-        "url"      : "/tech-news/using-moondream-ai-to-make-your-pi-see-like-a-huma/",
-        "category" : "tech_news",
-        "content"  : "[Jaryd] z Core Electronics nám ukazuje lidskému podobné počítačové vidění s Moondreamem na Pi 5. Pomocí vizuálního jazykového modelu Moondream, který běží přímo na vašem Raspberry Pi, a ne …více se dočteteČíst původní článekZdroj: 🔧 Hackaday"
-      }
-      
-      ,{
-        "title"    : "Tajná služba rozbila síť schopnou narušit mobilní služby v New Yorku",
-        "url"      : "/tech-news/secret-service-dismantles-network-capable-of-shutt/",
-        "category" : "tech_news",
-        "content"  : "Americká tajná služba (Secret Service) uvádí, že narušila síť zařízení používaných k provádění hrozeb vražd vůči americkým úředníkům a pro anonymní komunikaci mezi aktéry hrozeb, jak uvádí zpráva z NBC News. Ve svém úterním oznámení agentura odhalila, že síť odhalila v okruhu 35 mil od sídla Organizace spojených národů […]Číst původní článekZdroj: ⚡ The Verge"
-      }
-      
-      ,{
-        "title"    : "Počáteční kroky - o utrpení a humoru při turistice",
-        "url"      : "/tech-news/baby-steps-hits-on-the-hell-and-hilarity-of-hiking/",
-        "category" : "tech_news",
-        "content"  : "Nate má pouze dvě věci, které opravdu chce dělat: použít toaletu (tu, která, jak zdůrazňuje, má tři stěny a dveře) a jít domů. Také chodí podivným způsobem, s jednou malou nohou zvednutou neobratně před druhou, než ji jemně spustí. Občas […]Číst původní článekZdroj: ⚡ The Verge"
-      }
-      
-      ,{
-        "title"    : "Kvantová technologie - Větší průlom než AGI",
-        "url"      : "/tech-news/why-one-vc-thinks-quantum-is-a-bigger-unlock-than/",
-        "category" : "tech_news",
-        "content"  : "Venture kapitalistka Alexa von Tobel je připravena vsadit na kvantové počítání - začínající s hardwarem.Číst původní článekZdroj: 🔧 Wired"
-      }
-      
-      ,{
-        "title"    : "Dva očekávané &quot;slabé stránky&quot; iPhone Air nyní vypadají překvapivě skvěle",
-        "url"      : "/tech-news/two-expected-iphone-air-weaknesses-now-look-surpri/",
-        "category" : "tech_news",
-        "content"  : "Nový iPhone Air od Applu je už několik dní v rukou uživatelů a ještě déle v rukou recenzentů. A zatím se objevuje překvapivě pozitivní konsenzus ohledně dvou klíčových oblastí, které se očekávalo, že budou slabinami iPhonu Air: odolnost a výdrž baterie.Číst původní článekZdroj: 🍎 9to5Mac"
-      }
-      
-      ,{
-        "title"    : "Rasisti používají AI k šíření ďábelské protiimigrační propagandy",
-        "url"      : "/tech-news/racists-are-using-ai-to-spread-diabolical-anti-imm/",
-        "category" : "tech_news",
-        "content"  : "Vítejte v budoucnosti. Článek s názvem Rasisté používají AI k šíření ďábelských protiimigračních pomluv byl poprvé publikován na Futurism.Perex: Výzkumníci zjistili, že rasisté a extremisté používají umělou inteligenci k vytváření a šíření nenávistného obsahu zaměřeného proti imigrantům a menšinám. Tato technologie jim umožňuje produkovat velké množství falešných zpráv a dezinformací, které se pak šíří na sociálních sítích.Číst původní článekZdroj: 🚀 Futurism"
-      }
-      
-      ,{
-        "title"    : "Dedikované mobilní aplikace pro vibe coding zatím nezískaly popularitu",
-        "url"      : "/tech-news/dedicated-mobile-apps-for-vibe-coding-have-so-far/",
-        "category" : "tech_news",
-        "content"  : "Analýza mobilních aplikací nabízejících nástroje pro vibe coding ukazuje, že jen málo z nich si získalo větší popularitu. Většina těchto aplikací zatím nedokázala oslovit širší uživatelskou základnu.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "WhatsApp může nyní překládat zprávy na iOS a Androidu",
-        "url"      : "/tech-news/whatsapp-can-now-translate-messages-on-ios-and-and/",
-        "category" : "tech_news",
-        "content"  : "Společnost uvádí, že překlady probíhají na zařízení uživatele, kde je WhatsApp nemůže vidět, což znamená, že zprávy zůstávají zašifrované.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "První upoutávka na &#39;The Bride!&#39; je monstrózně poutavá",
-        "url"      : "/tech-news/the-first-teaser-for-the-bride-is-monstrously-intr/",
-        "category" : "tech_news",
-        "content"  : "Jessie Buckley a Christian Bale hrají tvory, kteří se vydávají na zločineckou výpravu v nadcházejícím hororu Maggie Gyllenhaalové.Číst původní článekZdroj: ⚡ Gizmodo"
-      }
-      
-      ,{
-        "title"    : "Titles:
-- Grab Alan Wake 2 and Eight Other Remedy Games for Just $27 Right Now",
-        "url"      : "/tech-news/you-can-grab-alan-wake-2-and-eight-other-remedy-ga/",
-        "category" : "tech_news",
-        "content"  : "Společnost Remedy Entertainment je jednou z mála herních studií, která se zdá prosperovat v odvětví, kde konkurence snižuje počet zaměstnanců a výrobci konzolí neustále zvyšují ceny hardwaru. Studio oslavilo 30. výročí 18. srpna a Humble jej oslavuje balíčkem 10 položek za 27 USD (úspora 211 USD oproti plné maloobchodní ceně). Abychom to uvedli do kontextu, […]Číst původní článekZdroj: ⚡ The Verge"
-      }
-      
-      ,{
-        "title"    : "Jak zajistit, že se The Verge objeví ve výsledcích vyhledávání Google",
-        "url"      : "/tech-news/how-to-make-sure-the-verge-shows-up-in-your-google/",
-        "category" : "tech_news",
-        "content"  : "Poslední rok přinesl některé z největších změn na stránkách výsledků vyhledávání Google, jaké jsem za téměř desetiletí své praxe v digitálních médiích kdy viděl. A ne všechny tyto změny jsou vítané. Naštěstí existuje nyní způsob, jak si přizpůsobit to, co ve vyhledávání vidíte - a jak upřednostnit zobrazení The […].Číst původní článekZdroj: ⚡ The Verge"
-      }
-      
-      ,{
-        "title"    : "Nová třída astronautů NASA zahrnuje veterány SpaceX Anna Menon a Yuri Kubo",
-        "url"      : "/tech-news/nasas-new-astronaut-class-includes-spacex-veterans/",
-        "category" : "tech_news",
-        "content"  : "SpaceX není jen soukromá společnost - stává se i prostředím pro testování astronautů. SpaceX poskytuje příležitosti pro výcvik a lety astronautů, což z něj činí významnou platformu pro rozvoj lidského kosmického programu.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "Aktualizace Apple Music 5.0 přidává funkce iOS 26 na Android",
-        "url"      : "/tech-news/apple-music-50-update-adds-ios-26-features-to-andr/",
-        "category" : "tech_news",
-        "content"  : "Po zahájení beta testování minulý měsíc je nyní verze 5.0 Apple Music postupně nasazována do stabilního kanálu po vydání iOS 26 minulý týden. Tato aktualizace přináší několik nových funkcí a vylepšení, včetně…Číst původní článekZdroj: 🍎 9to5Mac"
-      }
-      
-      ,{
-        "title"    : "Miniaturní akční kamera DJI - Budete ji chtít umístit všude",
-        "url"      : "/tech-news/youll-want-to-slap-djis-pin-sized-action-camera-ev/",
-        "category" : "tech_news",
-        "content"  : "DJI Osmo Nano by byl velmi lákavý, kdyby ho bylo možné koupit v USA. Tento kompaktní a lehký stabilizátor obrazu od předního výrobce dronů DJI není v současnosti v USA oficiálně dostupný. Přesto se jedná o zajímavou volbu pro ty, kteří hledají kvalitní ruční stabilizátor pro své mobilní natáčení.Číst původní článekZdroj: ⚡ Gizmodo"
-      }
-      
-      ,{
-        "title"    : "Telo získává 20 milionů dolarů na výstavbu malých elektrických nákladních vozidel pro města",
-        "url"      : "/tech-news/telo-raises-20-million-to-build-tiny-electric-truc/",
-        "category" : "tech_news",
-        "content"  : "Kolo financování vedli společně designér Yves Béhar a spoluzakladatel Tesly Marc Tarpenning, který pomohl Telo v roce 2022 rozjet.Číst původní článekZdroj: 🚀 TechCrunch"
-      }
-      
-      ,{
-        "title"    : "Rozšíření konverzačního editování v Google Photos na více Android telefonů",
-        "url"      : "/tech-news/google-photos-expands-conversational-editing-to-mo/",
-        "category" : "tech_news",
-        "content"  : "Po uvedení na zařízeních Pixel 10 se funkce Google Photos, která uživatelům umožňuje upravovat obrázky popisem změn, které chtějí provést, nyní dostává i na další Android telefony. Google oznámil, že konverzační editační schopnosti poháněné technologií Gemini se začínají od dneška postupně zpřístupňovat oprávněným uživatelům Androidu v USA a lze k nim přistupovat prostřednictvím […]Číst původní článekZdroj: ⚡ The Verge"
-      }
-      
-      ,{
-        "title"    : "Nový trailer Vítejte v Derry vás vítá v pekle na Zemi",
-        "url"      : "/tech-news/the-new-welcome-to-derry-trailer-welcomes-you-to-h/",
-        "category" : "tech_news",
-        "content"  : "Předquel k ‘It’ přivádí Pennywise do města způsobem, který se náležitě blíží apokalyptickému. Ačkoli se jedná o předchůdce původního příběhu, film dokáže vytvořit dostatečně temnou a děsivou atmosféru, která diváka vtáhne do děje.Číst původní článekZdroj: ⚡ Gizmodo"
-      }
-      
-      ,{
-        "title"    : "Oznámení workshopů a vstupenek na Hackaday Superconference 2025",
-        "url"      : "/tech-news/hackaday-superconference-announcing-our-workshops/",
-        "category" : "tech_news",
-        "content"  : "Cítíte ten nádech podzimu ve vzduchu? To může znamenat jen jednu věc: Supercon je za rohem. Následující týdny přinesou…Číst původní článekZdroj: 🔧 Hackaday"
-      }
-      
-      ,{
-        "title"    : "Denní zprávy 9to5Mac: 23. září 2025 – iOS 26.1 beta, testy výdrže baterie",
-        "url"      : "/tech-news/to5mac-daily-september-23-2025-ios-261-beta-batter/",
-        "category" : "tech_news",
-        "content"  : "Poslouchejte souhrn hlavních zpráv dne z 9to5Mac. 9to5Mac Daily je k dispozici na iTunes a v aplikaci Apple Podcasts, Stitcher, TuneIn, Google Play nebo prostřednictvím našeho dedikovaného RSS feedu pro Overcast a další podcastové přehrávače. Sponzorováno společností Backblaze: Nikdy už neztratíte soubor. Použijte kód “9to5daily” při placení a získejte 10% slevu nebo si to vyzkoušejte zdarma.Číst původní článekZdroj: 🍎 9to5Mac"
-      }
-      
-      ,{
-        "title"    : "Nadpis článku v češtině:
-
-&#39;Příliš mnoho tekutiny&#39;: Trump, RFK Jr. stále prosazují vakcíny jako příčinu autismu",
-        "url"      : "/tech-news/its-too-much-liquid-trump-rfk-jr-still-gunning-for/",
-        "category" : "tech_news",
-        "content"  : "Navzdory inzerovanému zaměření na acetaminofen Trump opakovaně zmiňoval vakcíny během svého velkého oznámení o autismu včera.Číst původní článekZdroj: ⚡ Gizmodo"
-      }
-      
-      ,{
-        "title"    : "Technologické zprávy",
-        "url"      : "/tech-news/",
-        "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z předních světových zdrojů, s obrázky a přeložené do češtiny.Celkem článků: 37Poslední aktualizace: 23.09.2025 17:12 UTCZdrojeČlánky jsou získávány z RSS feedů těchto zdrojů:  🚀 TechCrunch - startupy a investice  ⚡ The Verge - technologie a hardware  🔬 Ars Technica - hloubkové analýzy  🔧 Wired - technologie a společnost  🤖 OpenAI Blog - AI průlomy"
+        "content"  : "OpenAI, Oracle a SoftBank oznamují pět nových lokalit datových center Stargate pro AI, čímž urychlují výstavbu infrastruktury v USA za 500 miliard dolarů a 10 gigawattů, která pohání novou generaci AI a vytváří desítky tisíc pracovních míst.Číst původní článekZdroj: 🤖 OpenAI Blog"
       }
       
     
