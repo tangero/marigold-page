@@ -21,7 +21,6 @@ title: Replit Agent 3 - až 200 minut samostatnosti!
 
 Replit představil Agent 3, novou generaci svého autonomního vývojářského nástroje, který má být posunem směrem k plně samostatné tvorbě softwaru. Oproti předchozí verzi Agent V2 je nový systém desetkrát autonomnější a dokáže pracovat až 200 minut bez lidského zásahu
 
-![Replit Agent 3 Testování](https://cdn.replit.com/sanity/blog/Screenshot%202025-09-10%20at%207.13.02%E2%80%AFAM.png)
 
 
 ## Automatické testování v reálném prohlížeči

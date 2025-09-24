@@ -32,12 +32,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests python-dateutil pytz feedparser beautifulsoup4 pyyaml python-dotenv
 
-    - name: Fetch and translate tech news (Batch Processing)
+    - name: Fetch and translate tech news (NewsAPI)
       env:
         NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: |
-        python scripts/fetch_tech_news_batch.py
+        python scripts/generate_tech_news_newsapi.py
 
     - name: Check for changes
       id: git-check
