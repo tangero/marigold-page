@@ -1,9 +1,9 @@
 ---
 category: science
-date: '2025-09-24 06:15:45'
-description: Každý rok MIT Technology Review vybírá jednoho jednotlivce, jehož práci
-  obdivujeme, aby byl uznán jako Inovátor roku. Pro rok 2025 jsme vybrali Snehu Goenku,
-  která navrhla výpočty za nejrychlejší metodou sekvenování celého genomu na světě.
+date: '2025-09-24 10:17:28'
+description: Každý rok vybírá MIT Technology Review jednoho jednotlivce, jehož práci
+  obdivujeme, aby byl oceněn jako inovátor roku. Pro rok 2025 jsme vybrali Snehu Goenku,
+  která navrhla výpočty za nejrychlejší metodu sekvenování celého genomu na světě.
   Díky její práci mohou lékaři nyní sekvenovat genom pacienta a diagnostikovat genetickou
   poruchu za méně než osm…
 importance: 3
@@ -19,7 +19,7 @@ url: https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-20
 urlToImage: null
 ---
 
-Každý rok MIT Technology Review vybírá jednoho jednotlivce, jehož práci obdivujeme, aby byl uznán jako Inovátor roku. Pro rok 2025 jsme vybrali Snehu Goenku, která navrhla výpočty za nejrychlejší metodou sekvenování celého genomu na světě. Díky její práci mohou lékaři nyní sekvenovat genom pacienta a diagnostikovat genetickou poruchu za méně než osm…
+Každý rok vybírá MIT Technology Review jednoho jednotlivce, jehož práci obdivujeme, aby byl oceněn jako inovátor roku. Pro rok 2025 jsme vybrali Snehu Goenku, která navrhla výpočty za nejrychlejší metodu sekvenování celého genomu na světě. Díky její práci mohou lékaři nyní sekvenovat genom pacienta a diagnostikovat genetickou poruchu za méně než osm…
 
 [Číst původní článek](https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/)
 

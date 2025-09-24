@@ -1,6 +1,6 @@
 ---
 category: science
-date: '2025-09-24 06:15:45'
+date: '2025-09-24 10:17:28'
 description: Je to tragédie. Příspěvek NASA Moving Out of Entire Buildings as It’s
   Gutted by Trump se poprvé objevil na Futurism.
 importance: 3
