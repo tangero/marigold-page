@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-23 14:10:53'
-description: Tento nový program vám umožní hrdě prezentovat vaše platinové trofeje.
+description: Tento nový program vám umožní pyšnit se vašimi platinovou trofejemi.
 importance: 4
 layout: tech_news_article
 original_title: PlayStation's New Rewards Program Offers Unique Merch For Unlocking
@@ -17,7 +17,7 @@ url: https://www.gamespot.com/articles/playstations-new-rewards-program-offers-u
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4573100-jin-sakai.jpg
 ---
 
-Tento nový program vám umožní hrdě prezentovat vaše platinové trofeje.
+Tento nový program vám umožní pyšnit se vašimi platinovou trofejemi.
 
 [Číst původní článek](https://www.gamespot.com/articles/playstations-new-rewards-program-offers-unique-merch-for-unlocking-trophies/1100-6534940/)
 

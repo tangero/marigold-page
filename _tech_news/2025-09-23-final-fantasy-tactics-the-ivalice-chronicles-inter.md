@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-09-23 13:04:14'
 description: Vítejte na oficiální webové stránce SQUARE ENIX. Zde naleznete všechny
-  nejnovější zprávy a aktualizace o vašich oblíbených hrách a nadcházejících vydáních.
+  nejnovější novinky a aktualizace o vašich oblíbených hrách a nadcházejících vydáních.
 importance: 4
 layout: tech_news_article
 original_title: 'FINAL FANTASY TACTICS - The Ivalice Chronicles interview part 1:
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Square-enix-games.com
-title: 'Rozhovor o sérii Final Fantasy Tactics - Kroniky Ivalice, část 1: vylepšení
-  mistrovského díla - Square Enix'
+title: 'Rozhovory o Kronikách Ivalice z FINAL FANTASY TACTICS: vylepšení mistrovského
+  díla - Square Enix'
 url: https://www.square-enix-games.com/pl_PL/news/final-fantasy-tactics-the-ivalice-chronicles-interview-pt1
 ---
 
-Vítejte na oficiální webové stránce SQUARE ENIX. Zde naleznete všechny nejnovější zprávy a aktualizace o vašich oblíbených hrách a nadcházejících vydáních.
+Vítejte na oficiální webové stránce SQUARE ENIX. Zde naleznete všechny nejnovější novinky a aktualizace o vašich oblíbených hrách a nadcházejících vydáních.
 
 [Číst původní článek](https://www.square-enix-games.com/pl_PL/news/final-fantasy-tactics-the-ivalice-chronicles-interview-pt1)
 

@@ -14,7 +14,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Mixboard od Googlu je tvůrce nálad založený na AI
+title: Mixboard od Googlu je tvůrce nálad pomocí umělé inteligence
 url: https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Memphis-Dishes.jpg?quality=90&strip=all&crop=10.666667175293%2C25.328876617156%2C80.266670227051%2C74.671123382844&w=1200
 ---

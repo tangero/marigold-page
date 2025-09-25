@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Nový náhled Hideo Kojimovy hry OD nám připomíná P.T.
+title: Nový náhled Hideo Kojimova OD nám připomíná P.T.
 url: https://www.gamespot.com/articles/hideo-kojimas-od-gives-us-p-t-vibes-in-new-preview/1100-6534933/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4573049-od.jpg
 ---

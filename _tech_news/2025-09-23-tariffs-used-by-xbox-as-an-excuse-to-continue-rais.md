@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Cla používané Xboxem jako "záminka pro další zvyšování cen", říká bývalý prezident
+title: Cla používané Xboxem jako "záminka k dalšímu zvyšování cen", říká bývalý prezident
   Blizzardu
 url: https://www.eurogamer.net/tariffs-used-by-xbox-as-an-excuse-to-continue-raising-prices-says-former-blizzard-president
 urlToImage: https://assetsio.gnwcdn.com/xbox-ybarra.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp

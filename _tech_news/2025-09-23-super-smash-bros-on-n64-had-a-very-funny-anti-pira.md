@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-23 12:48:30'
-description: Náhradní cartridge by mohly lidi uvést v falešný pocit bezpečí.
+description: Náhradní cartridge by mohly lidi uvést do falešného pocitu bezpečí.
 importance: 3
 layout: tech_news_article
 original_title: Super Smash Bros. On N64 Had A Very Funny Anti-Piracy Trick - Kotaku
@@ -11,12 +11,12 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Supér Smash Bros. na N64 měl velmi zábavný trik proti pirátství
+title: Velmi vtipný trik proti pirátství v Super Smash Bros. pro N64
 url: https://kotaku.com/super-smash-bros-n64-piracy-nintendo-2000627887
 urlToImage: https://kotaku.com/app/uploads/2025/09/smash1.jpg
 ---
 
-Náhradní cartridge by mohly lidi uvést v falešný pocit bezpečí.
+Náhradní cartridge by mohly lidi uvést do falešného pocitu bezpečí.
 
 [Číst původní článek](https://kotaku.com/super-smash-bros-n64-piracy-nintendo-2000627887)
 

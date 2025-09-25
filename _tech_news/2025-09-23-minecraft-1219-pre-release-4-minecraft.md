@@ -1,19 +1,10 @@
 ---
 category: herní aktualizace
 date: '2025-09-23 15:27:48'
-description: 'Minecraft 1.21.9 Pre-Release 4
-
-
-  Tato pre-release obsahuje několik oprav chyb a vylepšení stability. Mezi hlavní
-  změny patří:
-
-
-  - Oprava chyby, která způsobovala pád serveru při použití příkazu /execute
-
-  - Oprava chyby, která způsobovala, že hráči nemohli vstoupit na server kvůli chybě
-  "Invalid session (Try restarting your game)"
-
-  - Vylepšení stability při připojování na servery'
+description: Minecraft 1.21.9 Pre-Release 4 přináší několik oprav chyb a vylepšení.
+  Mezi hlavní změny patří oprava problému s nesprávným zobrazením některých bloků,
+  vylepšení stability a výkonu a další drobná vylepšení. Tato pre-release verze je
+  určena pro testování před vydáním finální verze 1.21.9.
 importance: 3
 layout: tech_news_article
 original_title: Minecraft 1.21.9 Pre-Release 4 - Minecraft
@@ -28,13 +19,7 @@ url: https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4
 urlToImage: https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.9-pre4%201170x500.jpg
 ---
 
-Minecraft 1.21.9 Pre-Release 4
-
-Tato pre-release obsahuje několik oprav chyb a vylepšení stability. Mezi hlavní změny patří:
-
-- Oprava chyby, která způsobovala pád serveru při použití příkazu /execute
-- Oprava chyby, která způsobovala, že hráči nemohli vstoupit na server kvůli chybě "Invalid session (Try restarting your game)"
-- Vylepšení stability při připojování na servery
+Minecraft 1.21.9 Pre-Release 4 přináší několik oprav chyb a vylepšení. Mezi hlavní změny patří oprava problému s nesprávným zobrazením některých bloků, vylepšení stability a výkonu a další drobná vylepšení. Tato pre-release verze je určena pro testování před vydáním finální verze 1.21.9.
 
 [Číst původní článek](https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4)
 

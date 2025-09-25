@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Nová světlem napájená klávesnice od Logitechu nevyžaduje ani sluneční světlo
+title: Klávesnice Logitech napájená světlem nevyžaduje ani sluneční světlo
 url: https://www.theverge.com/news/782968/logitech-signature-solar-k980-keyboard
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/logik980.jpg?quality=90&strip=all&crop=0%2C10.739641976426%2C100%2C78.520716047147&w=1200
 ---

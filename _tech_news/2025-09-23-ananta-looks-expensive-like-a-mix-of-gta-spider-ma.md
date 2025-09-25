@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Rock Paper Shotgun
-title: Ananta vypadá drahý, jako směs GTA, Spider-Mana a Yakuzy, a trochu přemrštěný
+title: Ananta vypadá drahá, jako směs GTA, Spider-Mana a Yakuzy, a trochu přemrštěná
 url: https://www.rockpapershotgun.com/ananta-looks-expensive-like-a-mix-of-gta-spider-man-and-yakuza-and-a-bit-overwhelming
 ---
 

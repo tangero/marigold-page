@@ -3,8 +3,8 @@ category: cenové nabídky
 companies:
 - Google
 date: '2025-09-23 17:51:00'
-description: Nedávné zprávy naznačují, že někteří uživatelé vidí nabídky 50% slevy
-  na Google Nest Aware, když se pokoušejí zrušit předplatné.
+description: Nedávné zprávy naznačují, že někteří uživatelé při pokusu o zrušení předplatného
+  Google Nest Aware vidí nabídky 50% slevy.
 importance: 3
 layout: tech_news_article
 original_title: Google offering some Nest Aware users 50% off annual plan after recent
@@ -21,7 +21,7 @@ url: http://9to5google.com/2025/09/23/nest-aware-cancellation-attempt-triggers-d
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/nest-cam-and-doorbell-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Nedávné zprávy naznačují, že někteří uživatelé vidí nabídky 50% slevy na Google Nest Aware, když se pokoušejí zrušit předplatné.
+Nedávné zprávy naznačují, že někteří uživatelé při pokusu o zrušení předplatného Google Nest Aware vidí nabídky 50% slevy.
 
 [Číst původní článek](http://9to5google.com/2025/09/23/nest-aware-cancellation-attempt-triggers-discount/)
 

@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-09-23 22:56:47'
 description: Apple možná pracuje na nové funkčnosti, která by rozšířila možnosti,
-  co mohou dělat třetí strany chytré hodinky, když jsou připojeny k iPhonu. Jak poznamenává...
+  co mohou dělat třetí strany smartwatch, když jsou připojeny k iPhonu. Jak poznamenává...
 importance: 4
 layout: tech_news_article
 original_title: iPhones May Soon Work Better With Third-Party Smartwatches - MacRumors
@@ -14,12 +14,12 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Brzy by iPhony mohly lépe fungovat s chytrými hodinkami třetích stran
+title: Brzy bude možné lépe propojit iPhony s chytrými hodinkami třetích stran
 url: https://www.macrumors.com/2025/09/23/iphones-third-party-smartwatch-features/
 urlToImage: https://images.macrumors.com/t/JFHUpgN1n5AARh5FRBWeg0FfVXg=/2000x/article-new/2025/09/iphone-17-pro-air.jpg
 ---
 
-Apple možná pracuje na nové funkčnosti, která by rozšířila možnosti, co mohou dělat třetí strany chytré hodinky, když jsou připojeny k iPhonu. Jak poznamenává...
+Apple možná pracuje na nové funkčnosti, která by rozšířila možnosti, co mohou dělat třetí strany smartwatch, když jsou připojeny k iPhonu. Jak poznamenává...
 
 [Číst původní článek](https://www.macrumors.com/2025/09/23/iphones-third-party-smartwatch-features/)
 

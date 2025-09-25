@@ -1,7 +1,7 @@
 ---
 category: plagiátorství
 date: '2025-09-23 17:15:00'
-description: Nástroje jako ChatGPT mohou být použity k vytvoření téměř identických
+description: Nástroje jako ChatGPT mohou být použity k vytváření téměř identických
   výzkumných prací, které projdou standardními kontrolami plagiátorství. Předpokládá
   se, že jich bylo publikováno stovky.
 importance: 3
@@ -14,12 +14,12 @@ source:
   emoji: 📰
   id: null
   name: Nature.com
-title: Infiltrace časopisů 'napodobenými' články, které může napsat AI
+title: Infiltrace časopisů 'kopírujícími' články, které může napsat AI
 url: https://www.nature.com/articles/d41586-025-03046-z
 urlToImage: https://media.nature.com/lw1200/magazine-assets/d41586-025-03046-z/d41586-025-03046-z_51470960.jpg
 ---
 
-Nástroje jako ChatGPT mohou být použity k vytvoření téměř identických výzkumných prací, které projdou standardními kontrolami plagiátorství. Předpokládá se, že jich bylo publikováno stovky.
+Nástroje jako ChatGPT mohou být použity k vytváření téměř identických výzkumných prací, které projdou standardními kontrolami plagiátorství. Předpokládá se, že jich bylo publikováno stovky.
 
 [Číst původní článek](https://www.nature.com/articles/d41586-025-03046-z)
 
