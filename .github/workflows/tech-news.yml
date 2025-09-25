@@ -42,7 +42,13 @@ jobs:
     - name: Check for changes
       id: git-check
       run: |
-        echo "changed=$(git diff --quiet _tech_news/ || echo 'true')" >> $GITHUB_OUTPUT
+        if [ -d "_tech_news" ] && [ "$(ls -A _tech_news)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ Články nalezeny v _tech_news/"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "⚠️ Žádné články v _tech_news/"
+        fi
 
     - name: Commit and push changes
       if: steps.git-check.outputs.changed == 'true'
