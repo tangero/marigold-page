@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Prodejní akce Walmart GeForce Week s herními PC nabídkami hodnotnými jako na
-  Black Friday
+title: Prodejní akce Walmart GeForce Week s herními PC nabídkami hodnotnými jako o
+  Černém pátku - IGN
 url: https://www.ign.com/articles/walmart-geforce-week-sale-has-incredible-gaming-pc-deals-that-are-worth-getting-before-black-friday
 urlToImage: https://assets-prd.ignimgs.com/2025/09/23/walmartgamingpc-1758649766499.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---

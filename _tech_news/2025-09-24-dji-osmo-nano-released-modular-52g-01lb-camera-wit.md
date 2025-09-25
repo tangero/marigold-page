@@ -1,9 +1,9 @@
 ---
-category: kamerové moduly
+category: modulární kamera
 companies:
 - DJI
 date: '2025-09-24 10:52:30'
-description: DJI Osmo Nano je 52g modulární kamera s 1/1.3" snímačem schopná 4K 120fps
+description: DJI Osmo Nano je 52g modulární kamera s 1/1.3" senzorem schopná 4K 120fps
   zpomalených záběrů, s důrazem na různé možnosti uchycení.
 importance: 3
 layout: tech_news_article
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Cined.com
-title: Představení DJI Osmo Nano - Modulární kamera 52g / 0,1lb s 4K120 a 10bitovým
+title: Představení DJI Osmo Nano - Modulární 52g / 0,1lb kamera s 4K120 a 10bitovým
   D-Log M - CineD
 url: https://www.cined.com/dji-osmo-nano-released-modular-52g-0-1lb-camera-with-4k120-and-10-bit-d-log-m/
 urlToImage: https://www.cined.com/content/uploads/2025/09/DJI-osmo-nano-featured.jpg
 ---
 
-DJI Osmo Nano je 52g modulární kamera s 1/1.3" snímačem schopná 4K 120fps zpomalených záběrů, s důrazem na různé možnosti uchycení.
+DJI Osmo Nano je 52g modulární kamera s 1/1.3" senzorem schopná 4K 120fps zpomalených záběrů, s důrazem na různé možnosti uchycení.
 
 [Číst původní článek](https://www.cined.com/dji-osmo-nano-released-modular-52g-0-1lb-camera-with-4k120-and-10-bit-d-log-m/)
 
