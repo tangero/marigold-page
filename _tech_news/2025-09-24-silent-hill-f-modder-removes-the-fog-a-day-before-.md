@@ -2,8 +2,7 @@
 category: herní modifikace
 date: '2025-09-24 10:24:45'
 description: Stejně jako léto následuje jaro, někdo už odstranil mlhu z nové hry Silent
-  Hill. Technické termíny jako "Silent Hill" jsou ponechány v angličtině, protože
-  jsou běžně používané.
+  Hill. Technické termíny v angličtině byly zachovány, pokud jsou běžně používané.
 importance: 4
 layout: tech_news_article
 original_title: Silent Hill f modder removes the fog a day before release, beginning
@@ -14,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Rock Paper Shotgun
-title: Odstranění mlhy z Silent Hill f modderem den před vydáním, začátek logické
-  transformace hry na idylickou životní simulaci
+title: Tiché kopce f - modder odstraňuje mlhu den před vydáním, začátek logické transformace
+  hry do příjemné životní simulace
 url: https://www.rockpapershotgun.com/silent-hill-f-modder-removes-the-fog-a-day-before-release-beginning-games-logical-transformation-into-a-wholesome-life-sim
 urlToImage: https://assetsio.gnwcdn.com/nofogmod.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Stejně jako léto následuje jaro, někdo už odstranil mlhu z nové hry Silent Hill. Technické termíny jako "Silent Hill" jsou ponechány v angličtině, protože jsou běžně používané.
+Stejně jako léto následuje jaro, někdo už odstranil mlhu z nové hry Silent Hill. Technické termíny v angličtině byly zachovány, pokud jsou běžně používané.
 
 [Číst původní článek](https://www.rockpapershotgun.com/silent-hill-f-modder-removes-the-fog-a-day-before-release-beginning-games-logical-transformation-into-a-wholesome-life-sim)
 

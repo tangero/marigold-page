@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Vulture
-title: 'Denní křížovka: Dwightova hádanka — 24. září'
+title: 'Denní křížovka: Dwightův hlavolam — 24. září'
 url: http://www.vulture.com/article/daily-crossword-puzzle-september-24-2025.html
 urlToImage: https://pyxis.nymag.com/v1/imgs/921/141/a6eb4dd8ee523eb815f2be0a8dd93ea8a4-crossword-9-24-25.1x.rsocial.w1200.jpg
 ---

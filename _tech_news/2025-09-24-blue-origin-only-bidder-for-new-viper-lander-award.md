@@ -2,6 +2,7 @@
 category: kosmonautika
 companies:
 - Blue Origin
+- NASA
 date: '2025-09-24 02:22:21'
 description: Blue Origin byl jediným uchazečem o zakázku NASA, která obnovila zrušenou
   misi lunárního roveru.
@@ -16,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: SpaceNews
-title: Jediný uchazeč Blue Origin pro novou cenu lunárního přistávacího modulu VIPER
+title: Nová zakázka na přistávací modul VIPER - pouze nabídka od Blue Origin
 url: http://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/
 urlToImage: https://spacenews.com/wp-content/uploads/2025/09/viper-bluemoon.jpeg
 ---

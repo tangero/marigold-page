@@ -1,5 +1,5 @@
 ---
-category: chytré hodinky
+category: smartwatch
 companies:
 - Apple
 date: '2025-09-24 11:00:06'

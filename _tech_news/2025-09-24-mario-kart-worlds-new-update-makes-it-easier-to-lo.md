@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Nová aktualizace Mario Kart World usnadňuje nalezení již sebraných předmětů
+title: Nová aktualizace Mario Kart World usnadňuje nalezení již sesbíraných předmětů
 url: https://www.eurogamer.net/mario-kart-worlds-new-update-makes-it-easier-to-locate-collectibles-youve-already-found
 urlToImage: https://assetsio.gnwcdn.com/mk_6BrFBCh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

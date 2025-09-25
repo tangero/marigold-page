@@ -5,7 +5,7 @@ companies:
 - Qualcomm
 date: '2025-09-24 09:11:40'
 description: Cristiano Amon, CEO společnosti Qualcomm, naznačuje svůj první pohled
-  na fúzi Androidu a ChromeOS od Googlu.
+  na spojení Androidu a ChromeOS od Googlu.
 importance: 5
 layout: tech_news_article
 original_title: 'Google’s Android for PC: ‘I’ve seen it, it is incredible’ - The Verge'
@@ -22,7 +22,7 @@ url: https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-m
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Cristiano Amon, CEO společnosti Qualcomm, naznačuje svůj první pohled na fúzi Androidu a ChromeOS od Googlu.
+Cristiano Amon, CEO společnosti Qualcomm, naznačuje svůj první pohled na spojení Androidu a ChromeOS od Googlu.
 
 [Číst původní článek](https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible)
 
