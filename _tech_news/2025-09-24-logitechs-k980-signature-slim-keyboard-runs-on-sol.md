@@ -3,8 +3,8 @@ category: solární klávesnice
 companies:
 - Logitech
 date: '2025-09-24 07:02:00'
-description: 'Ruční ovládání: Není to zařízení, které by se nechávalo ve tmě, a kvůli
-  tomu je také chudé na funkce.'
+description: 'Ruční ovládání: Nejde o to, aby zůstalo ve tmě, a kvůli tomu má méně
+  funkcí'
 importance: 3
 layout: tech_news_article
 original_title: Logitech's K980 Signature Slim keyboard runs on solar power - theregister.com
@@ -19,7 +19,7 @@ url: https://www.theregister.com/2025/09/24/logitech_k980_signature_slim/
 urlToImage: https://regmedia.co.uk/2025/09/23/k980crop.jpg
 ---
 
-Ruční ovládání: Není to zařízení, které by se nechávalo ve tmě, a kvůli tomu je také chudé na funkce.
+Ruční ovládání: Nejde o to, aby zůstalo ve tmě, a kvůli tomu má méně funkcí
 
 [Číst původní článek](https://www.theregister.com/2025/09/24/logitech_k980_signature_slim/)
 

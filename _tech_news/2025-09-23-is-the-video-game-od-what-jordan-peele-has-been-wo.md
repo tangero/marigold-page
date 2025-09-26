@@ -4,7 +4,7 @@ companies:
 - Hideo Kojima
 - Jordan Peele
 date: '2025-09-23 19:00:00'
-description: Byl vydán teaser hororové videoherní titulu s názvem 'OD', který je společným
+description: Byl vydán upoutávka na hororovou videoherní titulu 'OD', která je společným
   projektem Hideo Kojimy a Jordana Peeleho.
 importance: 4
 layout: tech_news_article
@@ -24,7 +24,7 @@ url: https://www.indiewire.com/news/trailers/od-video-game-jordan-peele-next-pro
 urlToImage: https://www.indiewire.com/wp-content/uploads/2022/09/GettyImages-1422896759.jpg?w=650
 ---
 
-Byl vydán teaser hororové videoherní titulu s názvem 'OD', který je společným projektem Hideo Kojimy a Jordana Peeleho.
+Byl vydán upoutávka na hororovou videoherní titulu 'OD', která je společným projektem Hideo Kojimy a Jordana Peeleho.
 
 [Číst původní článek](https://www.indiewire.com/news/trailers/od-video-game-jordan-peele-next-project-1235152584/)
 

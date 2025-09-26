@@ -2,8 +2,8 @@
 category: herní průmysl
 date: '2025-09-24 02:03:48'
 description: Skate je vybaven věrnou napodobeninou neuvěřitelného pocitu ze starých
-  her, ale jeho mobilní herní styl postupu, slabý dialog a roztomilý výtvarný styl
-  činí jeho debut ve fázi Early Access drasticky horší než originály ve všech ostatních
+  her, ale jeho mobilní herní styl postupu, slabý dialog a roztomilý umělecký styl
+  činí jeho debut v předběžném přístupu dramaticky horší než originály ve všech ostatních
   ohledech.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://www.ign.com/articles/skate-early-access-review
 urlToImage: https://assets-prd.ignimgs.com/2025/09/24/skate-earlyaccess-blogroll-1758675988791.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Skate je vybaven věrnou napodobeninou neuvěřitelného pocitu ze starých her, ale jeho mobilní herní styl postupu, slabý dialog a roztomilý výtvarný styl činí jeho debut ve fázi Early Access drasticky horší než originály ve všech ostatních ohledech.
+Skate je vybaven věrnou napodobeninou neuvěřitelného pocitu ze starých her, ale jeho mobilní herní styl postupu, slabý dialog a roztomilý umělecký styl činí jeho debut v předběžném přístupu dramaticky horší než originály ve všech ostatních ohledech.
 
 [Číst původní článek](https://www.ign.com/articles/skate-early-access-review)
 

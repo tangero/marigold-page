@@ -5,8 +5,8 @@ companies:
 - Serato
 - djay
 date: '2025-09-24 13:56:33'
-description: Uživatelé budou mít přístup ke svým kompletním knihovnám a playlistům
-  přímo v těchto programech, což jim umožní rychleji a snadněji vytvářet sety z playlistů
+description: Uživatelé budou moci přímo v těchto programech přistupovat ke svým kompletním
+  knihovnám a playlistům, což jim umožní rychleji a snadněji vytvářet sety z playlistů
   a míchat skladby.
 importance: 3
 layout: tech_news_article
@@ -23,7 +23,7 @@ url: https://techcrunch.com/2025/09/24/spotify-now-integrates-directly-with-dj-s
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676
 ---
 
-Uživatelé budou mít přístup ke svým kompletním knihovnám a playlistům přímo v těchto programech, což jim umožní rychleji a snadněji vytvářet sety z playlistů a míchat skladby.
+Uživatelé budou moci přímo v těchto programech přistupovat ke svým kompletním knihovnám a playlistům, což jim umožní rychleji a snadněji vytvářet sety z playlistů a míchat skladby.
 
 [Číst původní článek](https://techcrunch.com/2025/09/24/spotify-now-integrates-directly-with-dj-software-from-rekordbox-serato-and-djay/)
 

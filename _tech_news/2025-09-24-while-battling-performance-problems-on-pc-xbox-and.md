@@ -17,9 +17,9 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Při řešení problémů s výkonem na PC, Xboxu a PlayStation oddaluje Gearbox vydání
-  Borderlands 4 na Nintendo Switch 2 pouhý týden před plánovaným spuštěním a ruší
-  všechny digitální předobjednávky.
+title: Zatímco se potýká s problémy s výkonem na PC, Xboxu a PlayStation, společnost
+  Gearbox odkládá vydání hry Borderlands 4 na Nintendo Switch 2 pouhý týden před plánovaným
+  spuštěním a ruší všechny digitální předobjednávky.
 url: https://www.ign.com/articles/while-battling-performance-problems-on-pc-xbox-and-playstation-gearbox-delays-borderlands-4-on-nintendo-switch-2-just-a-week-before-launch-and-cancels-all-digital-pre-orders
 urlToImage: https://assets-prd.ignimgs.com/2025/09/24/borderlands4-05-1758702849450.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---

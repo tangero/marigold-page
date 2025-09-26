@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Reakce Applu na obavy ohledně poškrábání a odolnosti iPhonu 17 Pro
+title: Reakce Applu na obavy ohledně škrábanců a odolnosti iPhonu 17 Pro
 url: https://9to5mac.com/2025/09/24/apple-responds-to-iphone-17-pro-scratch-and-durability-concerns/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro0014.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
