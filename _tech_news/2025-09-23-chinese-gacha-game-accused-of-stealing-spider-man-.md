@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Dexerto
-title: Animace Spider-Mana 2 údajně okopírovány čínskou gacha hrou
+title: Animace z Spider-Mana 2 údajně ukradeny čínskou gacha hrou - Dexerto
 url: https://www.dexerto.com/gaming/chinese-gacha-game-accused-of-stealing-spider-man-2s-animations-3255898/
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/23/Gacha-Game-Web-Swinging-Ananta.jpg
 ---

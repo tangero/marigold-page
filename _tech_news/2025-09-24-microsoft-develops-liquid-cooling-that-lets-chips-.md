@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Společnost Microsoft vyvíjí kapalné chlazení, které umožňuje, aby čipy zvlhly
+title: Společnost Microsoft vyvíjí kapalinové chlazení, které umožňuje, aby čipy zvlhly
 url: https://www.theregister.com/2025/09/24/microsoft_microfluidics/
 urlToImage: https://regmedia.co.uk/2025/09/24/supplied_microsoft_microfluidics.jpg
 ---

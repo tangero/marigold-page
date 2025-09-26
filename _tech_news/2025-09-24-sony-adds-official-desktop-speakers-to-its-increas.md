@@ -3,7 +3,7 @@ category: reproduktory
 companies:
 - Sony
 date: '2025-09-24 21:55:00'
-description: Zvuk zní dobře.
+description: Zvuk zní dobře
 importance: 3
 layout: tech_news_article
 original_title: Sony Adds Official Desktop Speakers to Its Increasingly Enormous Product
@@ -14,12 +14,13 @@ source:
   emoji: 📰
   id: null
   name: Push Square
-title: Společnost Sony rozšiřuje svou produktovou řadu o oficiální stolní reproduktory
+title: Nové stolní reproduktory od Sony rozšiřují jejich stále rostoucí produktovou
+  řadu
 url: https://www.pushsquare.com/news/2025/09/sony-adds-official-desktop-speakers-to-its-increasingly-enormous-product-family
 urlToImage: https://images.pushsquare.com/77068be913c95/large.jpg
 ---
 
-Zvuk zní dobře.
+Zvuk zní dobře
 
 [Číst původní článek](https://www.pushsquare.com/news/2025/09/sony-adds-official-desktop-speakers-to-its-increasingly-enormous-product-family)
 

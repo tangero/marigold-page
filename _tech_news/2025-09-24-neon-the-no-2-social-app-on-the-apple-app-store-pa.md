@@ -4,7 +4,7 @@ companies:
 - Apple
 - Neon
 date: '2025-09-24 19:50:58'
-description: Nová aplikace pro nahrávání hovorů získává popularitu tím, že nabízí
+description: Nová aplikace pro nahrávání hovorů získává na popularitě tím, že nabízí
   uživatelům platbu za hlasová data z hovorů, která jsou následně prodávána společnostem
   zabývajícím se umělou inteligencí.
 importance: 4
@@ -23,7 +23,7 @@ url: https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/09/neon-green-phone-GettyImages-1571854632.jpg?resize=1200,801
 ---
 
-Nová aplikace pro nahrávání hovorů získává popularitu tím, že nabízí uživatelům platbu za hlasová data z hovorů, která jsou následně prodávána společnostem zabývajícím se umělou inteligencí.
+Nová aplikace pro nahrávání hovorů získává na popularitě tím, že nabízí uživatelům platbu za hlasová data z hovorů, která jsou následně prodávána společnostem zabývajícím se umělou inteligencí.
 
 [Číst původní článek](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/)
 

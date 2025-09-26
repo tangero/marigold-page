@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Naše měsíční a katalogové hry pro PS Plus na říjen
+title: Naše měsíční a katalogové hry pro PS Plus v říjnu
 url: https://www.eurogamer.net/here-are-our-ps-plus-monthly-and-catalogue-games-for-october
 urlToImage: https://assetsio.gnwcdn.com/New-Project-(6)_Q7fisyc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

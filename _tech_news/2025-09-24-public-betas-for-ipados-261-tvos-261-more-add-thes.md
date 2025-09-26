@@ -3,8 +3,8 @@ category: softwarové aktualiza
 companies:
 - Apple
 date: '2025-09-24 17:05:00'
-description: Apple právě vydal veřejnou beta 1 pro iPadOS 26.1, tvOS 26.1 a další.
-  Toto je nové v nejnovějších softwarových aktualizacích.
+description: Apple právě vydal první veřejnou betu iPadOS 26.1, tvOS 26.1 a dalších.
+  Toto jsou novinky v nejnovějších softwarových aktualizacích.
 importance: 4
 layout: tech_news_article
 original_title: Public betas for iPadOS 26.1, tvOS 26.1, more add these new features
@@ -20,7 +20,7 @@ url: https://9to5mac.com/2025/09/24/public-betas-for-ipados-26-1-tvos-26-1-more-
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPadOS-26.1-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Apple právě vydal veřejnou beta 1 pro iPadOS 26.1, tvOS 26.1 a další. Toto je nové v nejnovějších softwarových aktualizacích.
+Apple právě vydal první veřejnou betu iPadOS 26.1, tvOS 26.1 a dalších. Toto jsou novinky v nejnovějších softwarových aktualizacích.
 
 [Číst původní článek](https://9to5mac.com/2025/09/24/public-betas-for-ipados-26-1-tvos-26-1-more-add-these-new-features/)
 

@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Očekávané "slabosti" iPhonu Air nyní vypadají překvapivě skvěle
+title: Očekávané 'slabiny' iPhonu Air nyní vypadají překvapivě skvěle
 url: https://9to5mac.com/2025/09/23/two-expected-iphone-air-weaknesses-now-look-surprisingly-great/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-blue-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

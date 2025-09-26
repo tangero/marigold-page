@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: CNET
-title: Brzy vám vyprší lhůta pro Windows 10. Toto je vaše poslední šance jednat.
+title: Právě jste propásli termín pro Windows 10. Toto je vaše poslední šance jednat.
 url: https://www.cnet.com/tech/services-and-software/youre-about-to-miss-the-windows-10-deadline-heres-your-last-chance-to-act/
 urlToImage: https://www.cnet.com/a/img/resize/6bde21e6253f1809708545f3cc138569f0a8bbe6/hub/2020/07/02/de3cf4c1-15a3-4bb7-93c5-c03d48f80944/windows-10.png?auto=webp&fit=crop&height=675&width=1200
 ---

@@ -4,7 +4,7 @@ companies:
 - Qualcomm
 date: '2025-09-24 20:30:00'
 description: Společnost Qualcomm dnes oznámila Snapdragon 8 Elite Gen 5 pro pohon
-  nadcházející generace Android smartphonů.
+  nadcházející generace smartphonů s Androidem.
 importance: 4
 layout: tech_news_article
 original_title: Qualcomm announces Snapdragon 8 Elite Gen 5 with 3rd-gen Oryon CPU,
@@ -23,7 +23,7 @@ url: http://9to5google.com/2025/09/24/snapdragon-8-elite-gen-5/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Qualcomm-Snapdragon-8-Elite-Gen-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Společnost Qualcomm dnes oznámila Snapdragon 8 Elite Gen 5 pro pohon nadcházející generace Android smartphonů.
+Společnost Qualcomm dnes oznámila Snapdragon 8 Elite Gen 5 pro pohon nadcházející generace smartphonů s Androidem.
 
 [Číst původní článek](http://9to5google.com/2025/09/24/snapdragon-8-elite-gen-5/)
 
