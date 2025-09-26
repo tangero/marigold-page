@@ -6,11 +6,17 @@ date: '2025-09-23 19:57:00'
 description: 'AirPods Pro 3 a AirPods Pro 2 - nejdůležitější rozdíly
 
 
-  Nové AirPods Pro 3 přinášejí vylepšené aktivní potlačení hluku, adaptivní prostorové
-  audio a vylepšené ovládání dotykem. Baterie nabízí delší výdrž a nabíjení je rychlejší.
-  Celkově jsou AirPods Pro 3 vylepšenou verzí předchozího modelu, ale zásadní změny
-  nejsou. Pokud máte starší AirPods Pro, upgrade na novou verzi nemusí být nezbytný,
-  pokud vám stačí funkce předchozího modelu.'
+  Hlavní rozdíly mezi AirPods Pro 3 a AirPods Pro 2 jsou:
+
+  - Vylepšené aktivní potlačení hluku (ANC)
+
+  - Prostorové audio s dynamickým sledováním hlavy
+
+  - Vylepšená výdrž baterie
+
+  - Nový design pouzdra pro nabíjení
+
+  - Podpora rychlého nabíjení MagSafe'
 importance: 3
 layout: tech_news_article
 original_title: AirPods Pro 3 vs AirPods Pro 2 – Seven Key Differences To Help Smoothen
@@ -29,7 +35,12 @@ urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/09/AirPods-Pro-3-4-
 
 AirPods Pro 3 a AirPods Pro 2 - nejdůležitější rozdíly
 
-Nové AirPods Pro 3 přinášejí vylepšené aktivní potlačení hluku, adaptivní prostorové audio a vylepšené ovládání dotykem. Baterie nabízí delší výdrž a nabíjení je rychlejší. Celkově jsou AirPods Pro 3 vylepšenou verzí předchozího modelu, ale zásadní změny nejsou. Pokud máte starší AirPods Pro, upgrade na novou verzi nemusí být nezbytný, pokud vám stačí funkce předchozího modelu.
+Hlavní rozdíly mezi AirPods Pro 3 a AirPods Pro 2 jsou:
+- Vylepšené aktivní potlačení hluku (ANC)
+- Prostorové audio s dynamickým sledováním hlavy
+- Vylepšená výdrž baterie
+- Nový design pouzdra pro nabíjení
+- Podpora rychlého nabíjení MagSafe
 
 [Číst původní článek](https://wccftech.com/airpods-pro-3-vs-airpods-pro-2-seven-key-differences/)
 
