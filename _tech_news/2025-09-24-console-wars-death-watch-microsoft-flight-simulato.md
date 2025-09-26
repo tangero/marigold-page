@@ -2,10 +2,8 @@
 category: herní průmysl
 date: '2025-09-24 21:56:27'
 description: Sonic the Hedgehog games na Nintendo konzolích? To už se stalo realitou.
-  Řada Sonic the Hedgehog titulů byla v minulosti vydána na různých Nintendo platformách,
-  včetně Wii, Nintendo 3DS a Nintendo Switch. Tato spolupráce mezi Sega a Nintendo
-  ukazuje, že hranice mezi herními společnostmi se stále více stírají a hráči mohou
-  očekávat, že oblíbené herní série budou dostupné na široké škále konzolí.
+  Řada Sonic the Hedgehog her byla v minulosti vydána na různých Nintendo platformách,
+  včetně Nintendo Switch, 3DS a GameCube.
 importance: 3
 layout: tech_news_article
 original_title: 'Console wars death watch: Microsoft Flight Simulator coming to PS5
@@ -22,7 +20,7 @@ url: https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2024/11/flightsim1.f098f215-b6a1-4d88-9f8b-c821d9ca83ae-scaled-1152x648-1758750373.jpg
 ---
 
-Sonic the Hedgehog games na Nintendo konzolích? To už se stalo realitou. Řada Sonic the Hedgehog titulů byla v minulosti vydána na různých Nintendo platformách, včetně Wii, Nintendo 3DS a Nintendo Switch. Tato spolupráce mezi Sega a Nintendo ukazuje, že hranice mezi herními společnostmi se stále více stírají a hráči mohou očekávat, že oblíbené herní série budou dostupné na široké škále konzolí.
+Sonic the Hedgehog games na Nintendo konzolích? To už se stalo realitou. Řada Sonic the Hedgehog her byla v minulosti vydána na různých Nintendo platformách, včetně Nintendo Switch, 3DS a GameCube.
 
 [Číst původní článek](https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a-sony-flight-simulator-on-ps5-this-december/)
 
