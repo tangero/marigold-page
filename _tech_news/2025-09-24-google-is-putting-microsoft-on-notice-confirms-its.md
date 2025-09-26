@@ -5,8 +5,9 @@ companies:
 - Qualcomm
 - Microsoft
 date: '2025-09-24 11:35:05'
-description: Google a Qualcomm spolupracují na přinesení Androidu do PC formátu. To
-  by mohlo být pro Microsoft největší hrozba, s jakou se kdy musel vypořádat.
+description: Google a Qualcomm spolupracují na přinesení Androidu na PC formu faktoru.
+  To je potenciálně největší hrozba pro Windows, se kterou se Microsoft kdy musel
+  vypořádat.
 importance: 3
 layout: tech_news_article
 original_title: 'Google is putting Microsoft on notice: Confirms it''s working with
@@ -25,7 +26,7 @@ url: https://www.windowscentral.com/microsoft/windows-11/google-is-building-the-
 urlToImage: https://cdn.mos.cms.futurecdn.net/iSHWCNuLBg2rfR4KTCZKQc.jpg
 ---
 
-Google a Qualcomm spolupracují na přinesení Androidu do PC formátu. To by mohlo být pro Microsoft největší hrozba, s jakou se kdy musel vypořádat.
+Google a Qualcomm spolupracují na přinesení Androidu na PC formu faktoru. To je potenciálně největší hrozba pro Windows, se kterou se Microsoft kdy musel vypořádat.
 
 [Číst původní článek](https://www.windowscentral.com/microsoft/windows-11/google-is-building-the-android-pc-and-phone-convergence-platform-that-microsoft-failed-to-deliver-with-windows-qualcomm-calls-it-incredible)
 

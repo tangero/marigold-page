@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Veřejná beta iOS 26.1 nyní k dispozici, tady je vše nové
+title: Veřejná beta iOS 26.1 nyní k dispozici, toto je vše nové
 url: https://9to5mac.com/2025/09/24/ios-26-1-public-beta-now-available-heres-everything-new/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.1-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

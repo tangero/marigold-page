@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Dexerto
-title: Nová mapa Zombies pro Black Ops 7 s každou sezónní aktualizací
+title: Nová mapa Zombies pro každou sezónní aktualizaci v Black Ops 7
 url: https://www.dexerto.com/call-of-duty/every-black-ops-7-season-brings-a-new-zombies-map-3256298/
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/24/black-ops-7-zombies-crew.jpg
 ---

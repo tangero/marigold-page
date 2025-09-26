@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Push Square
-title: Říjnová hra pro PS Plus Essential 2025 unikla - Push Square
+title: Prvních několik her pro PS Plus Essential v říjnu 2025 uniklo - Push Square
 url: https://www.pushsquare.com/news/2025/09/ps-plus-essential-games-for-october-2025-announced
 urlToImage: https://images.pushsquare.com/99b4afa8a3710/large.jpg
 ---
