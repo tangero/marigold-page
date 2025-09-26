@@ -4,7 +4,8 @@ layout: default
 
 <div class="tech-news-container">
   <header class="tech-news-header">
-    <h1 align="center">{{ page.title }}</h1>
+    <h1 align="center">Technologické zprávy</h1>
+    <p class="tech-news-description">{{ page.date | date: "%d.%m.%Y" }}</p>
   </header>
 
   <!-- Filtry -->
@@ -21,36 +22,37 @@ layout: default
 
   <!-- Seznam zpráv -->
   <div class="tech-news-container">
-    {% comment %} Zjistit všechna data a najít články za posledních 24 hodin {% endcomment %}
-    {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
-    {% assign now = "now" | date: "%s" %}
-    {% assign twenty_four_hours_ago = now | minus: 86400 %}
+    {% comment %} Najít články pro tento konkrétní den {% endcomment %}
+    {% assign day_articles = site.tech_news | where_exp: 'item', 'item.date contains page.date' | sort: 'importance' | reverse %}
 
-    {% comment %} Filtrovat články za posledních 24 hodin {% endcomment %}
-    {% assign recent_articles = "" | split: "," %}
-    {% for article in site.tech_news %}
-      {% assign article_timestamp = article.date | date: "%s" %}
-      {% if article_timestamp >= twenty_four_hours_ago %}
-        {% assign recent_articles = recent_articles | push: article %}
+    {% comment %} Najít všechna data pro navigaci {% endcomment %}
+    {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
+    {% assign current_index = -1 %}
+    {% assign prev_date = "" %}
+    {% assign next_date = "" %}
+
+    {% for date in all_dates %}
+      {% assign date_string = date | date: '%Y-%m-%d' %}
+      {% if date_string == page.date %}
+        {% assign current_index = forloop.index0 %}
+        {% break %}
       {% endif %}
     {% endfor %}
-    {% assign recent_articles = recent_articles | sort: 'importance' | reverse %}
+
+    {% if current_index > 0 %}
+      {% assign next_date = all_dates[current_index | minus: 1] %}
+    {% endif %}
+
+    {% if current_index < all_dates.size and current_index >= 0 %}
+      {% assign next_index = current_index | plus: 1 %}
+      {% if next_index < all_dates.size %}
+        {% assign prev_date = all_dates[next_index] %}
+      {% endif %}
+    {% endif %}
 
     <!-- Navigace dnů -->
     <div class="date-navigation">
       <div class="date-selector">
-        {% comment %} Najít předchozí a následující den {% endcomment %}
-        {% assign latest_date = all_dates[0] %}
-        {% assign prev_date = "" %}
-        {% assign next_date = "" %}
-
-        {% for date in all_dates %}
-          {% if forloop.index == 2 %}
-            {% assign prev_date = date %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-
         {% if prev_date != "" %}
           <a href="/tech-news/{{ prev_date | date: '%Y-%m-%d' }}/" class="date-nav-link" title="Starší články">
             &larr; {{ prev_date | date: "%d.%m.%Y" }}
@@ -58,20 +60,28 @@ layout: default
         {% endif %}
 
         <div class="current-date">
-          <span class="current-date-display">Posledních 24 hodin</span>
+          <span class="current-date-display">{{ page.date | date: "%d.%m.%Y" }}</span>
         </div>
 
-        {% comment %} Next date would be today, but we're already showing latest {% endcomment %}
+        {% if next_date != "" %}
+          <a href="/tech-news/{{ next_date | date: '%Y-%m-%d' }}/" class="date-nav-link" title="Novější články">
+            {{ next_date | date: "%d.%m.%Y" }} &rarr;
+          </a>
+        {% else %}
+          <a href="/tech-news/" class="date-nav-link" title="Nejnovější články">
+            Nejnovější &rarr;
+          </a>
+        {% endif %}
       </div>
 
       <div class="date-info">
-        <span class="articles-count">{{ recent_articles.size }} článků</span>
+        <span class="articles-count">{{ day_articles.size }} článků</span>
       </div>
     </div>
 
-    <!-- Grid článků za posledních 24 hodin -->
+    <!-- Grid článků pro tento den -->
     <div class="tech-news-grid">
-      {% for article in recent_articles %}
+      {% for article in day_articles %}
       <article class="tech-news-card" data-category="{{ article.category }}" data-importance="{{ article.importance }}">
         <div class="tech-news-meta">
           <span class="tech-news-emoji">{{ article.source.emoji }}</span>
@@ -111,8 +121,7 @@ layout: default
               Číst na {{ article.source.name }}
               <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </path>
-            </svg>
+              </svg>
             </a>
             <span class="tech-news-category">{{ article.category }}</span>
           </div>
@@ -145,95 +154,52 @@ layout: default
     </div>
   </div>
 
-  {% if site.tech_news.size == 0 %}
+  {% if day_articles.size == 0 %}
   <div class="tech-news-empty">
-    <p>🔄 Zprávy se právě načítají... První aktualizace proběhne automaticky pomocí GitHub Actions.</p>
+    <p>🔍 Žádné zprávy pro tento den nebyly nalezeny.</p>
   </div>
   {% endif %}
 </div>
 
 <script>
-// Clicky tracking pro tech-news
-function initTechNewsTracking() {
-  if (typeof clicky === 'undefined' || !window.clicky) {
-    console.debug('Clicky not loaded, tracking disabled');
-    return;
-  }
+// Převod času na místní časovou zónu
+function convertTimesToLocal() {
+  const timeElements = document.querySelectorAll('.tech-news-date[data-utc]');
 
-  // Track kliknutí na články
-  document.querySelectorAll('.tech-news-card').forEach(function(card, index) {
-    const link = card.querySelector('.tech-news-title a');
-    const category = card.dataset.category;
-    const importance = card.dataset.importance;
-    const source = card.querySelector('.tech-news-source').textContent;
+  timeElements.forEach(timeEl => {
+    const utcTime = timeEl.dataset.utc;
+    if (!utcTime) return;
 
-    if (link) {
-      link.addEventListener('click', function(e) {
-        const articleTitle = this.textContent.trim();
+    try {
+      const date = new Date(utcTime);
 
-        // Základní tracking akce
-        clicky.log(
-          '#tech-news-click/' + category + '/' + importance,
-          'Tech News: ' + articleTitle.substring(0, 60),
-          'click'
-        );
+      // Formát: dd.mm.yyyy hh:mm (CET/CEST)
+      const options = {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Europe/Prague', // CET/CEST
+        timeZoneName: 'short'
+      };
 
-        // Goals podle důležitosti
-        if (importance >= 4) {
-          clicky.goal('High Priority Article Click');
-        }
+      const formatter = new Intl.DateTimeFormat('cs-CZ', options);
+      const parts = formatter.formatToParts(date);
 
-        // Goals podle kategorie (dynamické LLM kategorie)
-        if (category && category !== 'tech') {
-          clicky.goal('Category Article Click', category);
-        }
+      // Sestavit formát dd.mm.yyyy hh:mm CET
+      const day = parts.find(p => p.type === 'day').value;
+      const month = parts.find(p => p.type === 'month').value;
+      const year = parts.find(p => p.type === 'year').value;
+      const hour = parts.find(p => p.type === 'hour').value;
+      const minute = parts.find(p => p.type === 'minute').value;
+      const timeZone = parts.find(p => p.type === 'timeZoneName').value;
 
-        // Detailní data pro analýzu
-        clicky.log(
-          '#tech-news-detail/' + category + '/' + importance + '/' + (index + 1),
-          source + ': ' + articleTitle.substring(0, 50),
-          'click'
-        );
-      });
+      timeEl.textContent = `${day}.${month}.${year} ${hour}:${minute} ${timeZone}`;
+
+    } catch (e) {
+      console.warn('Chyba převodu času:', utcTime, e);
     }
-  });
-
-  // Track externí odkazy na původní články
-  document.querySelectorAll('.tech-news-link').forEach(function(link) {
-    link.addEventListener('click', function(e) {
-      const card = this.closest('.tech-news-card');
-      const category = card.dataset.category;
-      const importance = card.dataset.importance;
-
-      clicky.log(
-        this.href,
-        'External: ' + this.textContent,
-        'outbound'
-      );
-
-      // Goal pro čtení celého článku
-      clicky.goal('Read Full Article');
-    });
-  });
-
-  // Track použití filtrů
-  document.querySelectorAll('.filter-btn').forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      const filter = this.dataset.filter;
-      const type = this.dataset.type;
-      const text = this.textContent.trim();
-
-      clicky.log(
-        '#tech-news-filter/' + type + '/' + filter,
-        'Filter: ' + text,
-        'click'
-      );
-
-      // Goal pro aktivní filtrování
-      if (filter !== 'all') {
-        clicky.goal('Content Filter Used');
-      }
-    });
   });
 }
 
@@ -287,56 +253,12 @@ function tryAlternativeImage(imgElement, alternatives, index) {
   testImg.src = altSrc;
 }
 
-// Převod času na místní časovou zónu
-function convertTimesToLocal() {
-  const timeElements = document.querySelectorAll('.tech-news-date[data-utc]');
-
-  timeElements.forEach(timeEl => {
-    const utcTime = timeEl.dataset.utc;
-    if (!utcTime) return;
-
-    try {
-      const date = new Date(utcTime);
-
-      // Formát: dd.mm.yyyy hh:mm (CET/CEST)
-      const options = {
-        day: '2-digit',
-        month: '2-digit',
-        year: 'numeric',
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Europe/Prague', // CET/CEST
-        timeZoneName: 'short'
-      };
-
-      const formatter = new Intl.DateTimeFormat('cs-CZ', options);
-      const parts = formatter.formatToParts(date);
-
-      // Sestavit formát dd.mm.yyyy hh:mm CET
-      const day = parts.find(p => p.type === 'day').value;
-      const month = parts.find(p => p.type === 'month').value;
-      const year = parts.find(p => p.type === 'year').value;
-      const hour = parts.find(p => p.type === 'hour').value;
-      const minute = parts.find(p => p.type === 'minute').value;
-      const timeZone = parts.find(p => p.type === 'timeZoneName').value;
-
-      timeEl.textContent = `${day}.${month}.${year} ${hour}:${minute} ${timeZone}`;
-
-    } catch (e) {
-      console.warn('Chyba převodu času:', utcTime, e);
-    }
-  });
-}
-
-// Filtrování a inicializace
+// Inicializace stránky
 document.addEventListener('DOMContentLoaded', function() {
   // Převést časy na místní časovou zónu
   convertTimesToLocal();
 
-  // Inicializovat tracking
-  initTechNewsTracking();
-
-  // Definovat elementy
+  // Filtrování článků
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 
@@ -370,10 +292,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
-  // Inicializovat počty
   updateFilterCounts();
 
-  // Filtrování článků
   filterBtns.forEach(btn => {
     btn.addEventListener('click', function() {
       const filter = this.dataset.filter;
@@ -650,14 +570,6 @@ document.addEventListener('DOMContentLoaded', function() {
   white-space: nowrap;
   border: 1px solid currentColor;
   opacity: 0.9;
-}
-
-.importance-emoji {
-  font-size: 0.9em;
-}
-
-.importance-text {
-  font-size: 0.7em;
 }
 
 /* Specifické styly pro různé úrovně důležitosti */
