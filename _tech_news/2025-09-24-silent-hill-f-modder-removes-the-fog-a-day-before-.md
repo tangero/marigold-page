@@ -15,7 +15,7 @@ source:
   id: null
   name: Rock Paper Shotgun
 title: Odstranění mlhy z Silent Hill f den před vydáním, začátek logické transformace
-  hry na životní simulátor
+  hry na idylickou životní simulaci
 url: https://www.rockpapershotgun.com/silent-hill-f-modder-removes-the-fog-a-day-before-release-beginning-games-logical-transformation-into-a-wholesome-life-sim
 urlToImage: https://assetsio.gnwcdn.com/nofogmod.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

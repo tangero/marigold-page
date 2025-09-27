@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-24 13:00:00'
-description: Square Enix's 'Final Fantasy Tactics' vyprávěl tragický příběh třídního
-  rozdělení. Jeho remake toho dělá ještě více.
+description: Square Enix's 'Final Fantasy Tactics' vyprávěl tragický příběh o třídním
+  rozdělení společnosti. Jeho remake toho dělá ještě více.
 importance: 3
 layout: tech_news_article
 original_title: Final Fantasy Tactics’ Themes of Class and Resistance Hit Way Harder
@@ -18,7 +18,7 @@ url: http://www.rollingstone.com/culture/rs-gaming/final-fantasy-tactics-the-iva
 urlToImage: https://www.rollingstone.com/wp-content/uploads/2025/09/dfnef.jpg?w=1600&h=900&crop=1
 ---
 
-Square Enix's 'Final Fantasy Tactics' vyprávěl tragický příběh třídního rozdělení. Jeho remake toho dělá ještě více.
+Square Enix's 'Final Fantasy Tactics' vyprávěl tragický příběh o třídním rozdělení společnosti. Jeho remake toho dělá ještě více.
 
 [Číst původní článek](http://www.rollingstone.com/culture/rs-gaming/final-fantasy-tactics-the-ivalice-chronicles-review-1235433023/)
 

@@ -3,8 +3,8 @@ category: mobilní hry
 companies:
 - Nintendo
 date: '2025-09-24 23:49:08'
-description: Fire Emblem Shadows je nový mobilní spin-off Nintendo's strategické série.
-  Následuje Fire Emblem Heroes, který byl pro společnost velkým hitem.
+description: Fire Emblem Shadows je nová mobilní odnož strategické série Nintendo.
+  Následuje Fire Emblem Heroes, který pro společnost představuje velký úspěch.
 importance: 4
 layout: tech_news_article
 original_title: Nintendo’s new Fire Emblem mobile game has an Among Us-style twist
@@ -20,7 +20,7 @@ url: https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-ga
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_8164.png?quality=90&strip=all&crop=13.979690522244%2C0%2C72.040618955513%2C100&w=1200
 ---
 
-Fire Emblem Shadows je nový mobilní spin-off Nintendo's strategické série. Následuje Fire Emblem Heroes, který byl pro společnost velkým hitem.
+Fire Emblem Shadows je nová mobilní odnož strategické série Nintendo. Následuje Fire Emblem Heroes, který pro společnost představuje velký úspěch.
 
 [Číst původní článek](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us)
 
