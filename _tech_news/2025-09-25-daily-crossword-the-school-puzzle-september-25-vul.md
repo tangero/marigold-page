@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Vulture
-title: 'Denní křížovka: Školní hádanka — 25. září'
+title: 'Denní křížovka: Školní rébus — 25. září'
 url: http://www.vulture.com/article/daily-crossword-puzzle-september-25-2025.html
 urlToImage: https://pyxis.nymag.com/v1/imgs/373/e5b/c170557072ae19ffa350cf777b3e3c7dd8-crossword-9-25-25.1x.rsocial.w1200.jpg
 ---

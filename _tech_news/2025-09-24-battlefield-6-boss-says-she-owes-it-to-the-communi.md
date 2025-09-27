@@ -17,8 +17,8 @@ source:
   emoji: 📰
   id: null
   name: Notebookcheck.net
-title: Vedoucí pracovník Battlefieldu 6 říká, že má vůči komunitě závazek dodat "nejlepší
-  Battlefield vůbec" po neúspěchu Battlefieldu 2042
+title: Šéfka Battlefieldu 6 říká, že má vůči komunitě závazek dodat "nejlepší Battlefield
+  vůbec" po neúspěchu Battlefieldu 2042
 url: https://www.notebookcheck.net/Battlefield-6-boss-says-she-owes-it-to-the-community-to-deliver-the-best-Battlefield-ever-after-2042-failure.1123262.0.html
 urlToImage: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Battlefield-6-game.jpg
 ---

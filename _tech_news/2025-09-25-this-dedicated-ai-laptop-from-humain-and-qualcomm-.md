@@ -17,7 +17,7 @@ source:
   id: null
   name: CNET
 title: Tento specializovaný AI laptop od Humain a Qualcomm je jako žádný jiný PC,
-  který jsem kdy viděl.
+  který jsem kdy viděl
 url: https://www.cnet.com/tech/computing/this-dedicated-ai-laptop-from-humain-and-qualcomm-is-like-no-pc-ive-ever-seen-before/
 urlToImage: https://www.cnet.com/a/img/resize/8739341b83941a5b2c6a4fefeaf101db4de978dc/hub/2025/09/25/da6f2f4a-d4e6-49ad-9cad-a699b27a2a49/img-0214.jpg?auto=webp&fit=crop&height=675&width=1200
 ---

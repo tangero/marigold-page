@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-25 09:30:50'
-description: 'Roguelikový sequel předčil tituly jako Hollow Knight: Silksong a Clair
+description: 'Roguelike sequel porazil tituly jako Hollow Knight: Silksong a Clair
   Obscur: Expedition 33.'
 importance: 3
 layout: tech_news_article
@@ -17,7 +17,7 @@ url: https://www.gamesindustry.biz/hades-2-tops-metacritics-pc-game-chart-for-20
 urlToImage: https://assetsio.gnwcdn.com/hades-2-.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Roguelikový sequel předčil tituly jako Hollow Knight: Silksong a Clair Obscur: Expedition 33.
+Roguelike sequel porazil tituly jako Hollow Knight: Silksong a Clair Obscur: Expedition 33.
 
 [Číst původní článek](https://www.gamesindustry.biz/hades-2-tops-metacritics-pc-game-chart-for-2025)
 

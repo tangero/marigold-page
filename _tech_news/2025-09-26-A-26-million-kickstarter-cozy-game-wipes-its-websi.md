@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-26 12:46:41'
-description: 'PuffPals: Island Skies prošel od roztomilosti k hrůze, jak se hromadily
+description: 'PuffPals: Island Skies přešel od roztomilosti k hrůze, jak se hromadily
   lži.'
 importance: 3
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155
 urlToImage: https://kotaku.com/app/uploads/2025/09/puffpals-2-1200x675.jpg
 ---
 
-PuffPals: Island Skies prošel od roztomilosti k hrůze, jak se hromadily lži.
+PuffPals: Island Skies přešel od roztomilosti k hrůze, jak se hromadily lži.
 
 [Číst původní článek](https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155)
 

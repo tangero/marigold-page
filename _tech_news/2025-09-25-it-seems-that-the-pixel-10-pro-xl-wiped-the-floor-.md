@@ -4,8 +4,8 @@ companies:
 - Apple
 - Google
 date: '2025-09-25 12:44:51'
-description: Fotbalová bitva mezi vlajkovými modely Googlu a Apple vede k překvapivým
-  výsledkům.
+description: Srovnání fotografických schopností vlajkových modelů společností Google
+  a Apple vedlo k překvapivým výsledkům.
 importance: 3
 layout: tech_news_article
 original_title: 'It seems that the Pixel 10 Pro XL wiped the floor with the iPhone
@@ -22,7 +22,7 @@ url: https://www.phonearena.com/news/it-seems-that-the-pixel-10-pro-xl-wiped-the
 urlToImage: https://m-cdn.phonearena.com/images/article/174359-wide-two_1200/It-seems-that-the-Pixel-10-Pro-XL-wiped-the-floor-with-the-iPhone-17-Pro-can-a-camera-software-update-fix-this.jpg
 ---
 
-Fotbalová bitva mezi vlajkovými modely Googlu a Apple vede k překvapivým výsledkům.
+Srovnání fotografických schopností vlajkových modelů společností Google a Apple vedlo k překvapivým výsledkům.
 
 [Číst původní článek](https://www.phonearena.com/news/it-seems-that-the-pixel-10-pro-xl-wiped-the-floor-with-the-iphone-17-pro_id174359)
 

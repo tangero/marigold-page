@@ -15,7 +15,8 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Vylepšený klávesnicový počítač Raspberry Pi s mechanickými spínači a SSD úložištěm
+title: Vylepšený klávesnicový počítač Raspberry Pi s mechanickými spínači a úložištěm
+  SSD
 url: https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/raspberry_pi1.jpg?quality=90&strip=all&crop=0%2C10.743864596798%2C100%2C78.512270806405&w=1200
 ---

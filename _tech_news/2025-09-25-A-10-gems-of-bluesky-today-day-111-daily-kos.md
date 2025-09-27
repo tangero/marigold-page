@@ -1,7 +1,7 @@
 ---
 category: sociální média
 date: '2025-09-25 06:48:52'
-description: Toto je skvělé!
+description: Ano, to je skvělé!
 importance: 3
 layout: tech_news_article
 original_title: 10 Gems of Bluesky today - Day 111 - Daily Kos
@@ -16,7 +16,7 @@ url: https://www.dailykos.com/stories/2025/9/24/2344549/-10-Gems-of-Bluesky-toda
 urlToImage: https://cdn.prod.dailykos.com/images/1202974/story_image/defend.jpg?1687832904
 ---
 
-Toto je skvělé!
+Ano, to je skvělé!
 
 [Číst původní článek](https://www.dailykos.com/stories/2025/9/24/2344549/-10-Gems-of-Bluesky-today-Day-111)
 
