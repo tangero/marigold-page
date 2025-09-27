@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: OnePlus 15 dostává předčasné odhalení, s novým obrazovým procesorem a Snapdragon
+title: OnePlus 15 dostává předčasné odhalení, s novým obrazovým motorem a Snapdragon
   8 Elite Gen 5
 url: http://9to5google.com/2025/09/25/oneplus-15-early-reveal/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/OnePlus-Shelf-on-OnePlus-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1

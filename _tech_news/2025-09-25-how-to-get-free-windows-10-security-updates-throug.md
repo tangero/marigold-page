@@ -3,7 +3,7 @@ category: bezpečnostní aktuali
 companies:
 - Microsoft
 date: '2025-09-25 13:31:00'
-description: Microsoft nabízí několik způsobů, jak se vyhnout poplatku 30 dolarů za
+description: Microsoft nabízí několik možností, jak se vyhnout poplatku 30 USD za
   pokračování v získávání bezpečnostních aktualizací pro Windows 10. Zákazníci v Evropě
   mají k dispozici nejlepší nabídku.
 importance: 3
@@ -21,7 +21,7 @@ url: https://www.zdnet.com/article/how-to-get-free-windows-10-security-updates-t
 urlToImage: https://www.zdnet.com/a/img/resize/5a0feb6d9d188e02131515d09d9d1b347bbb6118/2025/09/25/6a22db02-dcf2-446c-9ad3-73ef3525c257/gettyimages-155447639.jpg?auto=webp&fit=crop&height=675&width=1200
 ---
 
-Microsoft nabízí několik způsobů, jak se vyhnout poplatku 30 dolarů za pokračování v získávání bezpečnostních aktualizací pro Windows 10. Zákazníci v Evropě mají k dispozici nejlepší nabídku.
+Microsoft nabízí několik možností, jak se vyhnout poplatku 30 USD za pokračování v získávání bezpečnostních aktualizací pro Windows 10. Zákazníci v Evropě mají k dispozici nejlepší nabídku.
 
 [Číst původní článek](https://www.zdnet.com/article/how-to-get-free-windows-10-security-updates-through-october-2026/)
 

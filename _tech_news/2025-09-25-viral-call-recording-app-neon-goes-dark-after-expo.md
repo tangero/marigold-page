@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-09-25 21:10:00'
 description: Aplikace pro nahrávání hovorů Neon patřila mezi nejlépe hodnocené iPhone
-  aplikace, ale byla stažena z online distribuce po zjištění bezpečnostní chyby, která
+  aplikace, ale byla stažena z online distribuce po objevení bezpečnostní chyby, která
   umožňovala jakémukoli přihlášenému uživateli přístup k nahrávkám hovorů a přepisům
   jakéhokoli jiného uživatele.
 importance: 3
@@ -23,7 +23,7 @@ url: https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-a
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/09/neon-phone-app-smaller.jpg?resize=1200,800
 ---
 
-Aplikace pro nahrávání hovorů Neon patřila mezi nejlépe hodnocené iPhone aplikace, ale byla stažena z online distribuce po zjištění bezpečnostní chyby, která umožňovala jakémukoli přihlášenému uživateli přístup k nahrávkám hovorů a přepisům jakéhokoli jiného uživatele.
+Aplikace pro nahrávání hovorů Neon patřila mezi nejlépe hodnocené iPhone aplikace, ale byla stažena z online distribuce po objevení bezpečnostní chyby, která umožňovala jakémukoli přihlášenému uživateli přístup k nahrávkám hovorů a přepisům jakéhokoli jiného uživatele.
 
 [Číst původní článek](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/)
 
