@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: 'Průvodce pro kupující: 25 rozdílů mezi AirPods 4 a AirPods Pro 3 - MacRumors'
+title: 'Průvodce nákupem: 25 rozdílů mezi AirPods 4 a AirPods Pro 3 - MacRumors'
 url: https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/
 urlToImage: https://images.macrumors.com/t/pCRZnw6tV9fwjEfIEcgNIA-dSBk=/2500x/article-new/2024/09/AirPods-4-vs-Pro-2-Thumb-1.jpg
 ---

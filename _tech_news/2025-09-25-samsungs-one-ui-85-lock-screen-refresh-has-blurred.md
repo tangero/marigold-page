@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Obnovení zamykací obrazovky One UI 8.5 od Samsungu má rozmazané oznámení a
+title: Obnovení zamykací obrazovky One UI 8.5 od Samsungu má rozmazaná oznámení a
   nové styly hodin
 url: http://9to5google.com/2025/09/25/samsungs-one-ui-8-5-lock-screen-refresh-has-blurred-notifications-new-clock-styles/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/samsung-one-ui7-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1

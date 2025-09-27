@@ -17,7 +17,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Řada skvělých nabíječek je již v prodeji před říjnovým Prime Daym
+title: Řada skvělých nabíječek je již v prodeji před říjnovým Prime Day
 url: https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Anker-Nano-II.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

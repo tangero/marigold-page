@@ -3,8 +3,8 @@ category: mobilní aplikace
 companies:
 - Apple
 date: '2025-09-25 14:17:18'
-description: Tyto funkce se snaží proměnit iPhony v účinnější nástroje pro práci a
-  organizaci.
+description: Tyto funkce se snaží proměnit iPhony v mocnější pracovní a organizační
+  nástroje.
 importance: 3
 layout: tech_news_article
 original_title: 'Reviewing iOS 26 for power users: Reminders, Preview, and more -
@@ -20,7 +20,7 @@ url: https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-re
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2219431127-1152x648.jpg
 ---
 
-Tyto funkce se snaží proměnit iPhony v účinnější nástroje pro práci a organizaci.
+Tyto funkce se snaží proměnit iPhony v mocnější pracovní a organizační nástroje.
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/)
 
