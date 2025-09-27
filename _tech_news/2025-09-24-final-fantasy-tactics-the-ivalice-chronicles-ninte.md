@@ -1,10 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-09-24 21:20:31'
-description: Onion Knight je populární postava z fantasy série Dark Souls. Fanoušci
-  této postavy byli zklamáni, když se v nedávno vydané hře Dark Souls 3 neobjevila.
-  Mnoho hráčů doufalo, že se Onion Knight vrátí, ale tvůrci hry se rozhodli tuto oblíbenou
-  postavu vynechat.
+description: Onion Knight je populární herní postava, která se objevuje v několika
+  fantasy rolových hrách. Fanoušci této postavy byli v poslední době zklamáni, protože
+  se neobjevila v některých nových vydáních her, na které fanoušci čekali.
 importance: 3
 layout: tech_news_article
 original_title: 'Final Fantasy Tactics: The Ivalice Chronicles - Nintendo Switch 2
@@ -15,13 +14,13 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: 'Konečná fantasy taktika: Ivalice Chronicles - Recenze Nintendo Switch 2 Edition
+title: 'Konečná fantasy taktika: Kroniky Ivalice - Recenze Nintendo Switch 2 Edition
   (Switch 2)'
 url: https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition
 urlToImage: https://images.nintendolife.com/e09716eb27dbe/1280x720.jpg
 ---
 
-Onion Knight je populární postava z fantasy série Dark Souls. Fanoušci této postavy byli zklamáni, když se v nedávno vydané hře Dark Souls 3 neobjevila. Mnoho hráčů doufalo, že se Onion Knight vrátí, ale tvůrci hry se rozhodli tuto oblíbenou postavu vynechat.
+Onion Knight je populární herní postava, která se objevuje v několika fantasy rolových hrách. Fanoušci této postavy byli v poslední době zklamáni, protože se neobjevila v některých nových vydáních her, na které fanoušci čekali.
 
 [Číst původní článek](https://www.nintendolife.com/reviews/nintendo-switch-2/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition)
 

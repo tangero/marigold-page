@@ -4,7 +4,7 @@ companies:
 - OpenAI
 date: '2025-09-26 04:45:36'
 description: OpenAI spustil ChatGPT Pulse, funkci podobnou osobnímu asistentovi, kterou
-  by kryptoměnoví uživatelé mohli využít k pomoci s obchodními tipy.
+  by mohli kryptoměnoví uživatelé využívat k pomoci s obchodními tipy.
 importance: 2
 layout: tech_news_article
 original_title: OpenAI unveils ChatGPT ‘Pulse’ — Could it help you trade crypto? -
@@ -15,12 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Cointelegraph
-title: OpenAI představuje ChatGPT 'Pulse' — Může vám pomoci obchodovat s kryptoměnami?
+title: Společnost OpenAI představuje ChatGPT 'Pulse' — Může vám pomoci obchodovat
+  s kryptoměnami?
 url: https://cointelegraph.com/news/openai-launches-chatgpt-pulse-help-crypto-traders
 urlToImage: https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/01968a2c-e652-7a50-8596-53b9f62fd3be
 ---
 
-OpenAI spustil ChatGPT Pulse, funkci podobnou osobnímu asistentovi, kterou by kryptoměnoví uživatelé mohli využít k pomoci s obchodními tipy.
+OpenAI spustil ChatGPT Pulse, funkci podobnou osobnímu asistentovi, kterou by mohli kryptoměnoví uživatelé využívat k pomoci s obchodními tipy.
 
 [Číst původní článek](https://cointelegraph.com/news/openai-launches-chatgpt-pulse-help-crypto-traders)
 

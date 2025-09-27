@@ -3,7 +3,8 @@ category: mobilní technologie
 companies:
 - Apple
 date: '2025-09-25 15:11:13'
-description: Podle všeho ty škrábance ani nejsou škrábance.
+description: Podle všeho to ani nejsou škrábance. Jedná se spíše o drobné deformace
+  povrchu způsobené normálním opotřebením.
 importance: 3
 layout: tech_news_article
 original_title: Apple claims MagSafe stands are responsible for iPhone 17 'Scratchgate'
@@ -20,7 +21,7 @@ url: https://mashable.com/article/apple-iphone-17-scratchgate-response-magsafe-s
 urlToImage: https://helios-i.mashable.com/imagery/articles/01CaYB07VQjZlLUh3K5CPl3/hero-image.fill.size_1200x675.v1758811718.jpg
 ---
 
-Podle všeho ty škrábance ani nejsou škrábance.
+Podle všeho to ani nejsou škrábance. Jedná se spíše o drobné deformace povrchu způsobené normálním opotřebením.
 
 [Číst původní článek](https://mashable.com/article/apple-iphone-17-scratchgate-response-magsafe-stands)
 

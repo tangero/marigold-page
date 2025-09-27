@@ -3,7 +3,7 @@ category: aktualizace slucháte
 companies:
 - Google
 date: '2025-09-26 00:04:37'
-description: Když Google minulý měsíc mluvil o sérii Pixel 10, oznámil také novou
+description: Když Google minulý měsíc mluvil o sérii Pixel 10, oznámili také novou
   barvu Pixel Buds Pro 2 a poměrně velkou aktualizaci, která je na obzoru. Tato aktualizace,
   která přináší několik velkých nových funkcí, se nyní začíná postupně uvolňovat.
 importance: 5
@@ -20,7 +20,7 @@ url: https://www.droid-life.com/2025/09/25/pixel-buds-pro-2-get-huge-new-update/
 urlToImage: https://www.droid-life.com/wp-content/uploads/2024/09/Google-Pixel-Buds-Pro-2-Review-9-1200x628-cropped.jpg
 ---
 
-Když Google minulý měsíc mluvil o sérii Pixel 10, oznámil také novou barvu Pixel Buds Pro 2 a poměrně velkou aktualizaci, která je na obzoru. Tato aktualizace, která přináší několik velkých nových funkcí, se nyní začíná postupně uvolňovat.
+Když Google minulý měsíc mluvil o sérii Pixel 10, oznámili také novou barvu Pixel Buds Pro 2 a poměrně velkou aktualizaci, která je na obzoru. Tato aktualizace, která přináší několik velkých nových funkcí, se nyní začíná postupně uvolňovat.
 
 [Číst původní článek](https://www.droid-life.com/2025/09/25/pixel-buds-pro-2-get-huge-new-update/)
 
