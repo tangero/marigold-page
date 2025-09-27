@@ -4,7 +4,7 @@ companies:
 - Microsoft
 - Asus
 date: '2025-09-26 00:00:00'
-description: Asus-postavené Xbox Ally X a Xbox Ally jsou připraveny k zakoupení, přičemž
+description: Asus-vyrobené Xbox Ally X a Xbox Ally jsou připraveny k nákupu, přičemž
   Microsoft a Asus dnes otevřeli předobjednávky s datem prodeje 16. října.
 importance: 3
 layout: tech_news_article
@@ -16,13 +16,13 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Společnost Microsoft a Asus zahajují předobjednávky Xbox Ally — model X stojí
+title: Společnost Microsoft a Asus otevřely předobjednávky Xbox Ally — model X stojí
   999 dolarů
 url: https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VLS_5799-copy.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200
 ---
 
-Asus-postavené Xbox Ally X a Xbox Ally jsou připraveny k zakoupení, přičemž Microsoft a Asus dnes otevřeli předobjednávky s datem prodeje 16. října.
+Asus-vyrobené Xbox Ally X a Xbox Ally jsou připraveny k nákupu, přičemž Microsoft a Asus dnes otevřeli předobjednávky s datem prodeje 16. října.
 
 [Číst původní článek](https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder)
 

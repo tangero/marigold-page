@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: the-washington-post
   name: The Washington Post
-title: Ostřejší samuraiská pomsta s drsným pocitem
+title: 'Ostří samuraje: Duch hory Jótei'
 url: https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/
 urlToImage: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7BPZVCHOKJDQXCQ3PEIHWI65XA.png&w=1440
 ---

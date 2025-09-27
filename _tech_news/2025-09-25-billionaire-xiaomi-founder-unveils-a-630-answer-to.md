@@ -13,9 +13,7 @@ importance: 5
 layout: tech_news_article
 original_title: Billionaire Xiaomi Founder Unveils a $630 Answer to iPhone 17 - Bloomberg.com
 people:
-- Xiaomi Corp
-- Elon Musk
-- Apple Inc
+- Xiaomi
 publishedAt: '2025-09-25T13:50:21+00:00'
 slug: billionaire-xiaomi-founder-unveils-a-630-answer-to
 source:
