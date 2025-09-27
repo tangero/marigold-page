@@ -21,16 +21,18 @@ layout: default
 
   <!-- Seznam zpráv -->
   <div class="tech-news-container">
-    {% comment %} Zjistit všechna data a najít články za posledních 24 hodin {% endcomment %}
+    {% comment %} Najít nejnovější články (z posledních 2 dnů pro jistotu) {% endcomment %}
     {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
-    {% assign now = "now" | date: "%s" %}
-    {% assign twenty_four_hours_ago = now | minus: 86400 %}
+    {% assign latest_date = all_dates[0] %}
+    {% assign second_latest_date = all_dates[1] %}
 
-    {% comment %} Filtrovat články za posledních 24 hodin {% endcomment %}
+    {% comment %} Vzít články z posledních 2 dnů {% endcomment %}
     {% assign recent_articles = "" | split: "," %}
     {% for article in site.tech_news %}
-      {% assign article_timestamp = article.date | date: "%s" %}
-      {% if article_timestamp >= twenty_four_hours_ago %}
+      {% assign article_date = article.date | date: "%Y-%m-%d" %}
+      {% assign latest_date_str = latest_date | date: "%Y-%m-%d" %}
+      {% assign second_latest_date_str = second_latest_date | date: "%Y-%m-%d" %}
+      {% if article_date == latest_date_str or article_date == second_latest_date_str %}
         {% assign recent_articles = recent_articles | push: article %}
       {% endif %}
     {% endfor %}
@@ -58,7 +60,7 @@ layout: default
         {% endif %}
 
         <div class="current-date">
-          <span class="current-date-display">Posledních 24 hodin</span>
+          <span class="current-date-display">Nejnovější články</span>
         </div>
 
         {% comment %} Next date would be today, but we're already showing latest {% endcomment %}
