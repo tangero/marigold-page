@@ -13,7 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Pokemon.com
-title: Získejte Shiny Koraidon nebo Shiny Miraidon u zúčastněných prodejců - Pokemon.com
+title: Získejte třpytivého Koraidona nebo třpytivého Miraidona u zúčastněných prodejců
+  - Pokemon.com
 url: https://www.pokemon.com/uk/pokemon-news/get-shiny-koraidon-or-shiny-miraidon-at-participating-retailers
 urlToImage: https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-scarlet-violet/distributions/shiny-koraidon-shiny-miraidon/scarlet-violet-169-en.png
 ---

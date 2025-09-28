@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Amazin' Avenue
-title: 'Mets v Marlins: Sestavy, jak sledovat, otevřené vlákno, 26. 9. 2025 - Amazin''
+title: 'Mets v Marlins: sestavy, jak sledovat, otevřený vlákno, 26. 9. 2025 - Amazin''
   Avenue'
 url: https://www.amazinavenue.com/new-york-mets-chat-gamethread/86189/mets-at-marlins-lineups-how-to-watch-open-thread-9-26-25
 urlToImage: https://platform.amazinavenue.com/wp-content/uploads/sites/8/2025/09/gettyimages-2234165444.jpg?quality=90&strip=all&crop=0%2C10.72833785896%2C100%2C78.543324282079&w=1200

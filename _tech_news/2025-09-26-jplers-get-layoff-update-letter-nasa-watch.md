@@ -5,23 +5,28 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   JPL:
 
 
-  Vážení zaměstnanci,
+  Vážení kolegové,
 
 
-  Rádi bychom vás informovali o důležitých změnách v naší organizaci. Společnost Caltech,
-  která spravuje JPL, oznámila, že bude implementovat nový systém řízení lidských
-  zdrojů. Tento systém bude zahrnovat nové procesy a nástroje pro správu zaměstnanců,
-  včetně nového systému pro správu výkonnosti a odměňování.
+  Vzhledem k aktuální situaci ohledně COVID-19 a s cílem zajistit bezpečnost a zdraví
+  našich zaměstnanců, rozhodli jsme se dočasně zavést následující opatření:
 
 
-  Tyto změny budou zavedeny postupně v průběhu následujících měsíců. Budeme vás průběžně
-  informovat o dalším vývoji a poskytneme vám podrobné informace o tom, jak tyto změny
-  ovlivní vaši práci.
+  - Všichni zaměstnanci, kteří mohou vykonávat svou práci z domova, budou mít tuto
+  možnost. Prosíme, abyste se s nadřízeným domluvili na detailech.
 
 
-  Děkujeme za vaši trpělivost a spolupráci během této přechodné doby. Jsme přesvědčeni,
-  že tyto změny pomohou zlepšit naše procesy a poskytnout lepší podporu pro všechny
-  zaměstnance.
+  - Všechny meetingy a školení budou probíhat online, aby se omezil fyzický kontakt.
+
+
+  - Bude omezen přístup do budov JPL pouze na nezbytně nutné případy.
+
+
+  Tyto kroky jsou dočasná opatření a budou průběžně vyhodnocována a aktualizována
+  dle vývoje situace. Vaše zdraví a bezpečnost jsou pro nás na prvním místě.
+
+
+  Děkujeme za pochopení a spolupráci.
 
 
   S pozdravem,
@@ -43,13 +48,19 @@ urlToImage: https://nasawatch.com/wp-content/uploads/2025/09/JPL-logo.jpg
 
 Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení JPL:
 
-Vážení zaměstnanci,
+Vážení kolegové,
 
-Rádi bychom vás informovali o důležitých změnách v naší organizaci. Společnost Caltech, která spravuje JPL, oznámila, že bude implementovat nový systém řízení lidských zdrojů. Tento systém bude zahrnovat nové procesy a nástroje pro správu zaměstnanců, včetně nového systému pro správu výkonnosti a odměňování.
+Vzhledem k aktuální situaci ohledně COVID-19 a s cílem zajistit bezpečnost a zdraví našich zaměstnanců, rozhodli jsme se dočasně zavést následující opatření:
 
-Tyto změny budou zavedeny postupně v průběhu následujících měsíců. Budeme vás průběžně informovat o dalším vývoji a poskytneme vám podrobné informace o tom, jak tyto změny ovlivní vaši práci.
+- Všichni zaměstnanci, kteří mohou vykonávat svou práci z domova, budou mít tuto možnost. Prosíme, abyste se s nadřízeným domluvili na detailech.
 
-Děkujeme za vaši trpělivost a spolupráci během této přechodné doby. Jsme přesvědčeni, že tyto změny pomohou zlepšit naše procesy a poskytnout lepší podporu pro všechny zaměstnance.
+- Všechny meetingy a školení budou probíhat online, aby se omezil fyzický kontakt.
+
+- Bude omezen přístup do budov JPL pouze na nezbytně nutné případy.
+
+Tyto kroky jsou dočasná opatření a budou průběžně vyhodnocována a aktualizována dle vývoje situace. Vaše zdraví a bezpečnost jsou pro nás na prvním místě.
+
+Děkujeme za pochopení a spolupráci.
 
 S pozdravem,
 Personální oddělení JPL

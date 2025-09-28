@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-26 14:35:08'
-description: Destiny 2 se propadá do nových hlubin v éře The Portal a je těžké vidět,
-  jak se věci nyní obrátí a co je vlastně dno.
+description: Destiny 2 se v éře The Portal propadá do nových hlubin a je těžké vidět,
+  jak se věci nyní obrátí a jaké je skutečné dno.
 importance: 4
 layout: tech_news_article
 original_title: Destiny 2’s Steam Playercount Is Rapidly Approaching 15,000 Peaks
@@ -18,7 +18,7 @@ url: https://www.forbes.com/sites/paultassi/2025/09/26/destiny-2s-steam-playerco
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/68d6a38be4c991179a044030/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
 ---
 
-Destiny 2 se propadá do nových hlubin v éře The Portal a je těžké vidět, jak se věci nyní obrátí a co je vlastně dno.
+Destiny 2 se v éře The Portal propadá do nových hlubin a je těžké vidět, jak se věci nyní obrátí a jaké je skutečné dno.
 
 [Číst původní článek](https://www.forbes.com/sites/paultassi/2025/09/26/destiny-2s-steam-playercount-is-rapidly-approaching-15000-peaks/)
 

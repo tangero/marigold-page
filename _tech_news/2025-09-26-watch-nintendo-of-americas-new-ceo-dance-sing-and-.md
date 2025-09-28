@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-26 18:11:57'
-description: Satoru Shibata se nebojí tancovat, zpívat nebo propagovat svou sbírku
+description: Satoru Shibata se nebojí tancovat, zpívat nebo propagovat svou kolekci
   přenosných zařízení.
 importance: 4
 layout: tech_news_article
@@ -14,13 +14,13 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Sledujte nového generálního ředitele Nintendo of America, jak tančí, zpívá
-  a převléká se do kostýmů
+title: Sledujte nového výkonného ředitele Nintendo of America, jak tančí, zpívá a
+  převléká se do kostýmů
 url: https://kotaku.com/nintendo-direct-america-3ds-satoru-shibata-2000629269
 urlToImage: https://kotaku.com/app/uploads/2025/09/Nintendo-CEO.jpg
 ---
 
-Satoru Shibata se nebojí tancovat, zpívat nebo propagovat svou sbírku přenosných zařízení.
+Satoru Shibata se nebojí tancovat, zpívat nebo propagovat svou kolekci přenosných zařízení.
 
 [Číst původní článek](https://kotaku.com/nintendo-direct-america-3ds-satoru-shibata-2000629269)
 
