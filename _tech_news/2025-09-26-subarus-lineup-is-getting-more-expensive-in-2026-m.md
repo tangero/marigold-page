@@ -2,7 +2,7 @@
 category: automobilový průmysl
 date: '2025-09-26 19:15:28'
 description: Subaru zveřejnil ceny mnoha svých modelů pro rok 2026, včetně přepracovaných
-  modelů Outback, Impreza, BRZ a dalších. Zde je to, co byste měli vědět před nákupem.
+  Outback, Impreza, BRZ a dalších. Zde je to, co byste měli vědět před nákupem.
 importance: 3
 layout: tech_news_article
 original_title: Subaru's Lineup Is Getting More Expensive in 2026 - Motor1.com
@@ -17,7 +17,7 @@ url: https://www.motor1.com/news/773833/2026-subaru-prices/
 urlToImage: https://cdn.motor1.com/images/mgl/BXygpZ/s1/2026-subaru-outback-exterior.jpg
 ---
 
-Subaru zveřejnil ceny mnoha svých modelů pro rok 2026, včetně přepracovaných modelů Outback, Impreza, BRZ a dalších. Zde je to, co byste měli vědět před nákupem.
+Subaru zveřejnil ceny mnoha svých modelů pro rok 2026, včetně přepracovaných Outback, Impreza, BRZ a dalších. Zde je to, co byste měli vědět před nákupem.
 
 [Číst původní článek](https://www.motor1.com/news/773833/2026-subaru-prices/)
 

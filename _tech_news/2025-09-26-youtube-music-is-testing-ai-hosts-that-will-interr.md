@@ -3,7 +3,7 @@ category: umělá inteligence
 companies:
 - YouTube
 date: '2025-09-26 21:05:30'
-description: YouTube Labs bude místem, kde si budete moci vyzkoušet všechny nadcházející
+description: YouTube Labs bude místo, kde si budete moci vyzkoušet všechny nadcházející
   AI funkce aplikace.
 importance: 3
 layout: tech_news_article
@@ -15,13 +15,12 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Umělá inteligence hostitelé, kteří budou přerušovat vaši hudbu, jsou testovány
-  v YouTube Music
+title: Testování AI hostitelů, kteří budou přerušovat vaši hudbu na YouTube Music
 url: https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/YTP_YTLabs.jpg
 ---
 
-YouTube Labs bude místem, kde si budete moci vyzkoušet všechny nadcházející AI funkce aplikace.
+YouTube Labs bude místo, kde si budete moci vyzkoušet všechny nadcházející AI funkce aplikace.
 
 [Číst původní článek](https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/)
 

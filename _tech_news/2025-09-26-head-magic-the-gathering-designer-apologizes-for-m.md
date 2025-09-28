@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-26 15:43:52'
-description: Žena, na které byla založena postava Ghazbán Ogress, se nedávno vyjádřila
+description: Žena, na níž byla založena postava Ghazbán Ogress, se nedávno vyjádřila
   k této záležitosti.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-200062
 urlToImage: https://kotaku.com/app/uploads/2025/09/Wtich-1200x675.jpg
 ---
 
-Žena, na které byla založena postava Ghazbán Ogress, se nedávno vyjádřila k této záležitosti.
+Žena, na níž byla založena postava Ghazbán Ogress, se nedávno vyjádřila k této záležitosti.
 
 [Číst původní článek](https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-2000629186)
 
