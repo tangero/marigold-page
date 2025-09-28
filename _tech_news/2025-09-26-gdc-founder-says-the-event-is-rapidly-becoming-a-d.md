@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: GamesIndustry.biz
-title: Zakladatel GDC říká, že akce se "rychle stává dinosaurem
+title: Zakladatel GDC říká, že akce se "rychle stává dinosaurem" - GamesIndustry.biz
 url: https://www.gamesindustry.biz/gdc-founder-says-the-event-is-rapidly-becoming-a-dinosaur
 urlToImage: https://assetsio.gnwcdn.com/gdc-festival-of-gaming.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

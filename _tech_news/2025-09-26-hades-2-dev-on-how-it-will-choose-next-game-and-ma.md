@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Vývoj Hades 2 a výběr dalšího projektu, hlavní problémy v herním průmyslu
+title: Vývoj Hades 2 a volba příštího projektu, hlavní problémy v herním průmyslu
 url: https://www.gamespot.com/articles/hades-2-dev-on-how-it-will-choose-next-game-and-major-industry-issues/1100-6535044/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4575579-screenshot2025-09-26at8.29.02%E2%80%AFam.png
 ---

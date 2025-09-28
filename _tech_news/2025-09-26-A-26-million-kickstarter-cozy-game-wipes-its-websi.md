@@ -7,8 +7,6 @@ importance: 3
 layout: tech_news_article
 original_title: $2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its
   Backers - Kotaku
-people:
-- V článku nejsou zmíněny žádné významné osobnosti z uvedených kategorií
 publishedAt: '2025-09-26T12:46:41+00:00'
 slug: A-26-million-kickstarter-cozy-game-wipes-its-websi
 source:

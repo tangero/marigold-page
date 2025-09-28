@@ -3,8 +3,7 @@ category: automobilový průmysl
 date: '2025-09-26 12:04:04'
 description: 'PLANO, Texas (26. září 2025) – Za posledních 36 let definoval Lexus
   LS, co by měl být vlajkový luxusní sedan: dokonalá rovnováha výkonu, inovací a nadčasového
-  komfortu. Pro rok 2026 přichází LS 500 AWD Heritage Edition jako promyšleně navržená
-  oslava bohaté historie značky Lexus.'
+  komfortu. Pro rok 2026 přichází LS 500 AWD Heritage Edition jako promyšleně navržený…'
 importance: 4
 layout: tech_news_article
 original_title: '2026 LEXUS LS: A HOMAGE TO THE ORIGINAL - Lexus USA Newsroom'
@@ -19,7 +18,7 @@ url: https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/
 urlToImage: https://lexus-cms-media.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/09/2026_LEXUS_LS_HERITAGE_EDITION_001-1000x600.jpg
 ---
 
-PLANO, Texas (26. září 2025) – Za posledních 36 let definoval Lexus LS, co by měl být vlajkový luxusní sedan: dokonalá rovnováha výkonu, inovací a nadčasového komfortu. Pro rok 2026 přichází LS 500 AWD Heritage Edition jako promyšleně navržená oslava bohaté historie značky Lexus.
+PLANO, Texas (26. září 2025) – Za posledních 36 let definoval Lexus LS, co by měl být vlajkový luxusní sedan: dokonalá rovnováha výkonu, inovací a nadčasového komfortu. Pro rok 2026 přichází LS 500 AWD Heritage Edition jako promyšleně navržený…
 
 [Číst původní článek](https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/)
 
