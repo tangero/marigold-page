@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: DualShockers
-title: Jak se Silent Hill f propojuje s kanonem série
+title: Jak Silent Hill f souvisí s kanonem série
 url: https://www.dualshockers.com/how-silent-hill-f-connects-canon/
 urlToImage: https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/09/how-silent-hill-f-connects-to-the-franchise.jpg?w=1600&h=900&fit=crop
 ---

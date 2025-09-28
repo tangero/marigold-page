@@ -16,7 +16,7 @@ source:
   id: null
   name: 9to5google.com
 title: Únik informací o Samsung Galaxy TriFold nabízí náhled do multitaskingu na obrovském
-  skládacím displeji
+  skládacím zařízení
 url: http://9to5google.com/2025/09/26/samsung-galaxy-trifold-leaks-show-multitasking/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

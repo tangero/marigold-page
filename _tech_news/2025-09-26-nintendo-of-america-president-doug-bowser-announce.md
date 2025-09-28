@@ -1,8 +1,8 @@
 ---
 category: personální změny
 date: '2025-09-26 08:49:46'
-description: Prezident a COO společnosti Nintendo of America Doug Bowser oznámil své
-  odchod do důchodu, který začíná 31. prosince 2025.
+description: Prezident a provozní ředitel Nintendo of America Doug Bowser oznámil
+  své odchod do důchodu, který začne 31. prosince 2025.
 importance: 4
 layout: tech_news_article
 original_title: Nintendo of America President Doug Bowser Announces His Retirement,
@@ -22,7 +22,7 @@ url: https://www.ign.com/articles/nintendo-of-america-president-doug-bowser-anno
 urlToImage: https://assets-prd.ignimgs.com/2025/09/26/doug-bowser-1758875808567.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Prezident a COO společnosti Nintendo of America Doug Bowser oznámil své odchod do důchodu, který začíná 31. prosince 2025.
+Prezident a provozní ředitel Nintendo of America Doug Bowser oznámil své odchod do důchodu, který začne 31. prosince 2025.
 
 [Číst původní článek](https://www.ign.com/articles/nintendo-of-america-president-doug-bowser-announces-his-retirement-devon-pritchard-named-as-successor)
 

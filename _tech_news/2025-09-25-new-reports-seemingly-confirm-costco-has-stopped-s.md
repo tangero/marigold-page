@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-25 21:12:00'
-description: Nové zprávy se zdá, že potvrzují, že globální maloobchodník Costco přestal
+description: Nové zprávy se zdají potvrzovat, že globální maloobchodník Costco přestal
   prodávat konzole Xbox Series X/S v USA a Velké Británii.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://wccftech.com/reports-confirm-costco-has-stopped-selling-xbox-series
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/09/Xbox-Series-XS.png
 ---
 
-Nové zprávy se zdá, že potvrzují, že globální maloobchodník Costco přestal prodávat konzole Xbox Series X/S v USA a Velké Británii.
+Nové zprávy se zdají potvrzovat, že globální maloobchodník Costco přestal prodávat konzole Xbox Series X/S v USA a Velké Británii.
 
 [Číst původní článek](https://wccftech.com/reports-confirm-costco-has-stopped-selling-xbox-series-consoles-in-us-uk/)
 

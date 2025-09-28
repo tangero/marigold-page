@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-25 19:01:53'
-description: Rahul Kohli byl v herním průmyslu již dříve, ale říká, že tato práce
-  je "splněním snu".
+description: Rahul Kohli již dříve působil ve videohrách, ale říká, že tato role je
+  "splněním snu".
 importance: 3
 layout: tech_news_article
 original_title: Saros Lead Says Role Is ‘One Of The Best Moments’ Of His Life - Kotaku
@@ -19,7 +19,7 @@ url: https://kotaku.com/saros-ps5-housemarque-rahul-kohli-arjun-devraj-actor-200
 urlToImage: https://kotaku.com/app/uploads/2025/09/stateofplay-saros-blogroll-17394-1200x675.jpg
 ---
 
-Rahul Kohli byl v herním průmyslu již dříve, ale říká, že tato práce je "splněním snu".
+Rahul Kohli již dříve působil ve videohrách, ale říká, že tato role je "splněním snu".
 
 [Číst původní článek](https://kotaku.com/saros-ps5-housemarque-rahul-kohli-arjun-devraj-actor-2000628800)
 

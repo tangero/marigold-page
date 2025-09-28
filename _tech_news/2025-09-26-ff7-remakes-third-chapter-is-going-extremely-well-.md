@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Třetí kapitola FF7 Remake 'jde velmi dobře
+title: Třetí kapitola FF7 Remake 'probíhá velmi dobře
 url: https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254
 urlToImage: https://kotaku.com/app/uploads/2025/09/BBFF7-1200x675.jpg
 ---

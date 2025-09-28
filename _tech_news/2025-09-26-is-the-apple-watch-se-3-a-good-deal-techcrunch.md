@@ -3,7 +3,7 @@ category: chytré hodinky
 companies:
 - Apple
 date: '2025-09-26 15:17:10'
-description: Mezera mezi standardními a rozpočtovými chytrými hodinkami od Apple nikdy
+description: Mezera mezi standardními a rozpočtovými chytrými hodinkami Apple nikdy
   nebyla menší.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://techcrunch.com/2025/09/26/is-the-apple-watch-se-3-a-good-deal/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg?resize=1200,800
 ---
 
-Mezera mezi standardními a rozpočtovými chytrými hodinkami od Apple nikdy nebyla menší.
+Mezera mezi standardními a rozpočtovými chytrými hodinkami Apple nikdy nebyla menší.
 
 [Číst původní článek](https://techcrunch.com/2025/09/26/is-the-apple-watch-se-3-a-good-deal/)
 

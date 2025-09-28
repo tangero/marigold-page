@@ -1,14 +1,14 @@
 ---
 category: herní průmysl
 date: '2025-09-26 12:46:41'
-description: 'PuffPals: Island Skies se z roztomilosti proměnil v horor, jak se hromadily
+description: 'PuffPals: Island Skies přešel od roztomilosti k hrůze, jak se hromadily
   lži.'
 importance: 3
 layout: tech_news_article
 original_title: $2.6 Million Kickstarter Cozy Game Wipes Its Websites, Ghosts Its
   Backers - Kotaku
 people:
-- V článku nejsou zmíněny žádné významné osobnosti
+- V článku nejsou zmíněny žádné významné osobnosti z uvedených kategorií
 publishedAt: '2025-09-26T12:46:41+00:00'
 slug: A-26-million-kickstarter-cozy-game-wipes-its-websi
 source:
@@ -21,7 +21,7 @@ url: https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155
 urlToImage: https://kotaku.com/app/uploads/2025/09/puffpals-2-1200x675.jpg
 ---
 
-PuffPals: Island Skies se z roztomilosti proměnil v horor, jak se hromadily lži.
+PuffPals: Island Skies přešel od roztomilosti k hrůze, jak se hromadily lži.
 
 [Číst původní článek](https://kotaku.com/puffpals-fluffnest-cozy-kickstarter-mujin-2000629155)
 

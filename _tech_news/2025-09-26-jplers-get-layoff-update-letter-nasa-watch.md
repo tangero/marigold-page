@@ -8,23 +8,33 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   Vážení zaměstnanci JPL,
 
 
-  Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů.
-  Začínáme s implementací nového systému pro správu lidských zdrojů, který nám umožní
-  zefektivnit a zjednodušit mnoho personálních procesů. Tento nový systém bude postupně
-  zaveden v následujících měsících.
+  Rádi bychom vás informovali o několika důležitých změnách v našich benefitech a
+  politikách, které vstupují v platnost od 1. ledna 2023.
 
 
-  Dále bychom chtěli upozornit na změny v oblasti benefitů. Nově budeme nabízet rozšířené
-  možnosti pro home office a flexibilní pracovní dobu. Zároveň dochází k úpravám v
-  programu zdravotního pojištění a penzijního připojištění.
+  1. Nová zdravotní pojistka: Představujeme nový zdravotní plán, který nabízí širší
+  pokrytí a nižší spoluúčast. Doporučujeme vám, abyste si pečlivě prostudovali podrobnosti
+  nového plánu a zvážili případnou změnu vašeho současného pojištění.
 
 
-  V případě jakýchkoli dotazů se neváhejte obrátit na své personální zástupce. Budeme
-  vás průběžně informovat o dalším vývoji.
+  2. Zvýšení příspěvku na důchodové spoření: Zvyšujeme náš příspěvek na váš důchodový
+  plán z 5 % na 6 % z vaší mzdy. Toto navýšení vám pomůže lépe se připravit na odchod
+  do důchodu.
 
 
-  Děkujeme za vaši spolupráci.
+  3. Nová politika práce na dálku: Zavádíme novou politiku práce na dálku, která umožňuje
+  flexibilnější pracovní uspořádání. Podrobnosti o této politice najdete na našem
+  intranetu.
 
+
+  Pokud máte jakékoli dotazy ohledně těchto změn, neváhejte se obrátit na své personální
+  zástupce.
+
+
+  Děkujeme za vaši tvrdou práci a loajalitu vůči JPL.
+
+
+  S pozdravem,
 
   Personální oddělení JPL'
 importance: 3
@@ -45,14 +55,19 @@ Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení J
 
 Vážení zaměstnanci JPL,
 
-Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů. Začínáme s implementací nového systému pro správu lidských zdrojů, který nám umožní zefektivnit a zjednodušit mnoho personálních procesů. Tento nový systém bude postupně zaveden v následujících měsících.
+Rádi bychom vás informovali o několika důležitých změnách v našich benefitech a politikách, které vstupují v platnost od 1. ledna 2023.
 
-Dále bychom chtěli upozornit na změny v oblasti benefitů. Nově budeme nabízet rozšířené možnosti pro home office a flexibilní pracovní dobu. Zároveň dochází k úpravám v programu zdravotního pojištění a penzijního připojištění.
+1. Nová zdravotní pojistka: Představujeme nový zdravotní plán, který nabízí širší pokrytí a nižší spoluúčast. Doporučujeme vám, abyste si pečlivě prostudovali podrobnosti nového plánu a zvážili případnou změnu vašeho současného pojištění.
 
-V případě jakýchkoli dotazů se neváhejte obrátit na své personální zástupce. Budeme vás průběžně informovat o dalším vývoji.
+2. Zvýšení příspěvku na důchodové spoření: Zvyšujeme náš příspěvek na váš důchodový plán z 5 % na 6 % z vaší mzdy. Toto navýšení vám pomůže lépe se připravit na odchod do důchodu.
 
-Děkujeme za vaši spolupráci.
+3. Nová politika práce na dálku: Zavádíme novou politiku práce na dálku, která umožňuje flexibilnější pracovní uspořádání. Podrobnosti o této politice najdete na našem intranetu.
 
+Pokud máte jakékoli dotazy ohledně těchto změn, neváhejte se obrátit na své personální zástupce.
+
+Děkujeme za vaši tvrdou práci a loajalitu vůči JPL.
+
+S pozdravem,
 Personální oddělení JPL
 
 [Číst původní článek](https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/)

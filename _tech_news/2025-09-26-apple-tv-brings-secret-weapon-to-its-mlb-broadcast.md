@@ -1,10 +1,10 @@
 ---
-category: mobilní technologie
+category: sportovní technologi
 companies:
 - Apple
 date: '2025-09-26 09:55:52'
-description: Apple TV+ použil během posledního pátečního večerního baseballového vysílání
-  MLB čtyři iPhone 17 Pro. Málokdo si toho všiml, což bylo přesně záměrem.
+description: Apple TV+ použil během posledního pátečního vysílání MLB Friday Night
+  Baseball čtyři iPhone 17 Pro. Málokdo si toho všiml, což bylo přesně záměrem.
 importance: 3
 layout: tech_news_article
 original_title: Apple TV+ Brings Secret Weapon to Its MLB Broadcasts - Sportico.com
@@ -16,12 +16,12 @@ source:
   emoji: 📰
   id: null
   name: Sportico.com
-title: Služba Apple TV+ přináší do svých přenosů MLB své tajné zbraně
+title: Aplikace Apple TV+ přináší do svých vysílání baseballové MLB své tajné zbraně
 url: https://www.sportico.com/business/tech/2025/apple-iphone-camera-mlb-broadcast-quality-video-1234872106/
 urlToImage: https://www.sportico.com/wp-content/uploads/2025/09/kershaw.png?w=1024
 ---
 
-Apple TV+ použil během posledního pátečního večerního baseballového vysílání MLB čtyři iPhone 17 Pro. Málokdo si toho všiml, což bylo přesně záměrem.
+Apple TV+ použil během posledního pátečního vysílání MLB Friday Night Baseball čtyři iPhone 17 Pro. Málokdo si toho všiml, což bylo přesně záměrem.
 
 [Číst původní článek](https://www.sportico.com/business/tech/2025/apple-iphone-camera-mlb-broadcast-quality-video-1234872106/)
 
