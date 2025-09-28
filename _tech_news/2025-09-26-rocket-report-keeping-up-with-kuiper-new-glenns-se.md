@@ -3,7 +3,7 @@ category: kosmonautika
 companies:
 - Amazon
 date: '2025-09-26 12:45:58'
-description: Amazon plánuje provést dva starty satelitů pro vysokorychlostní internet
+description: Amazon plánuje provést dva starty satelitů pro širokopásmové připojení
   Kuiper v rozmezí několika dní.
 importance: 4
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/9333639-1152x648.jpg
 ---
 
-Amazon plánuje provést dva starty satelitů pro vysokorychlostní internet Kuiper v rozmezí několika dní.
+Amazon plánuje provést dva starty satelitů pro širokopásmové připojení Kuiper v rozmezí několika dní.
 
 [Číst původní článek](https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/)
 

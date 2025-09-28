@@ -3,8 +3,8 @@ category: mobilní kamera
 companies:
 - Apple
 date: '2025-09-26 11:00:00'
-description: Dnešní páteční večerní baseballový zápas nabídne některé nové kamerové
-  úhly, díky iPhonu 17 Pro. Poprvé v historii...
+description: Dnešní páteční baseballový zápas nabídne nové kamerové úhly díky iPhonu
+  17 Pro. Poprvé v historii...
 importance: 4
 layout: tech_news_article
 original_title: Friday Night Baseball to feature footage shot on iPhone cameras, a
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Páteční večerní baseball bude poprvé vysílat záběry natočené kamerami iPhone
-  v přímém přenosu
+title: Páteční noční baseball bude obsahovat záběry natočené kamerami iPhone, poprvé
+  v přímém sportovním přenosu
 url: https://9to5mac.com/2025/09/26/iphone-17-pro-mlb-friday-night-baseball/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/17-pro-mlb-friday-night-baseball.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Dnešní páteční večerní baseballový zápas nabídne některé nové kamerové úhly, díky iPhonu 17 Pro. Poprvé v historii...
+Dnešní páteční baseballový zápas nabídne nové kamerové úhly díky iPhonu 17 Pro. Poprvé v historii...
 
 [Číst původní článek](https://9to5mac.com/2025/09/26/iphone-17-pro-mlb-friday-night-baseball/)
 

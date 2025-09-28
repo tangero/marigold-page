@@ -21,8 +21,7 @@ source:
   emoji: 📰
   id: null
   name: Investor's Business Daily
-title: Nahradí chytré brýle smartphony? Meta, Apple a Google si vyhlížejí novou bitevní
-  linii.
+title: Nahradí chytré brýle smartphony? Meta, Apple a Google se zaměřují na nové bojiště.
 url: https://www.investors.com/news/technology/smart-glasses-meta-leads-apple-others-will-follow/
 urlToImage: https://www.investors.com/wp-content/uploads/2025/09/Stock-Meta-RayBanAI-Co.jpg
 ---

@@ -1,8 +1,8 @@
 ---
 category: matematika
 date: '2025-09-26 14:30:24'
-description: Tým matematiků využívající relativně mladou teorii začal odpovídat na
-  otázky, jejichž kořeny sahají až k samým počátkům matematiky.
+description: Tým matematiků začal pomocí relativně nové teorie odpovídat na otázky,
+  jejichž kořeny sahají až k samým počátkům matematiky.
 importance: 4
 layout: tech_news_article
 original_title: New Math Revives Geometry’s Oldest Problems - Quanta Magazine
@@ -17,7 +17,7 @@ url: https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-2
 urlToImage: https://www.quantamagazine.org/wp-content/uploads/2025/09/RicherGeometry-crKristinaArmitage-Social.jpg
 ---
 
-Tým matematiků využívající relativně mladou teorii začal odpovídat na otázky, jejichž kořeny sahají až k samým počátkům matematiky.
+Tým matematiků začal pomocí relativně nové teorie odpovídat na otázky, jejichž kořeny sahají až k samým počátkům matematiky.
 
 [Číst původní článek](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
 
