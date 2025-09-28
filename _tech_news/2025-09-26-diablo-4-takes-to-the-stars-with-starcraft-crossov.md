@@ -3,8 +3,8 @@ category: herní průmysl
 date: '2025-09-26 09:16:38'
 description: 'Blizzard ještě zcela nezapomněl na StarCraft. Společnost nedávno oznámila,
   že bude pokračovat v podpoře a aktualizacích pro StarCraft II a StarCraft: Remastered.
-  Fanoušci mohou očekávat další opravy chyb, vylepšení a nový obsah pro tyto klasické
-  real-time strategické hry.'
+  Fanoušci mohou očekávat další opravy chyb a vylepšení herního obsahu pro tyto klasické
+  RTS tituly.'
 importance: 3
 layout: tech_news_article
 original_title: Diablo 4 Takes To The Stars With StarCraft Crossover - GameSpot
@@ -14,12 +14,12 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Diablo 4 vstupuje do hvězd s crossoverem StarCraftu
+title: Diablo 4 míří do hvězd s křížovým projektem StarCraft
 url: https://www.gamespot.com/articles/diablo-4-takes-to-the-stars-with-starcraft-crossover/1100-6535039/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4575420-diablo4starcraftcrossover.jpg
 ---
 
-Blizzard ještě zcela nezapomněl na StarCraft. Společnost nedávno oznámila, že bude pokračovat v podpoře a aktualizacích pro StarCraft II a StarCraft: Remastered. Fanoušci mohou očekávat další opravy chyb, vylepšení a nový obsah pro tyto klasické real-time strategické hry.
+Blizzard ještě zcela nezapomněl na StarCraft. Společnost nedávno oznámila, že bude pokračovat v podpoře a aktualizacích pro StarCraft II a StarCraft: Remastered. Fanoušci mohou očekávat další opravy chyb a vylepšení herního obsahu pro tyto klasické RTS tituly.
 
 [Číst původní článek](https://www.gamespot.com/articles/diablo-4-takes-to-the-stars-with-starcraft-crossover/1100-6535039/)
 

@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-09-26 18:39:04'
-description: EA FC 26 přináší nejlepší herní akci na hřišti, kterou série za roky
-  produkovala, díky geniálnímu rozhodnutí změnit herní mechaniky v závislosti na herním
-  režimu.
+description: EA FC 26 přináší nejlepší herní akci na hřišti, kterou série vytvořila
+  za dlouhá léta, díky geniálnímu rozhodnutí změnit herní mechaniky v závislosti na
+  herním režimu.
 importance: 3
 layout: tech_news_article
 original_title: EA Sports FC 26 review – The best football game in years - Dexerto
@@ -18,7 +18,7 @@ url: https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-footba
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/26/EA-FC-26-review.jpg
 ---
 
-EA FC 26 přináší nejlepší herní akci na hřišti, kterou série za roky produkovala, díky geniálnímu rozhodnutí změnit herní mechaniky v závislosti na herním režimu.
+EA FC 26 přináší nejlepší herní akci na hřišti, kterou série vytvořila za dlouhá léta, díky geniálnímu rozhodnutí změnit herní mechaniky v závislosti na herním režimu.
 
 [Číst původní článek](https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/)
 

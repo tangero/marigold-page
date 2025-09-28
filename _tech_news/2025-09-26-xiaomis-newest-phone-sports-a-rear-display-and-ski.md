@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Nový telefon Xiaomi má zadní displej a přeskakuje číslo, aby se zaměřil na
-  iPhone 17
+title: Nový telefon Xiaomi má zadní displej a přeskakuje číslo, aby mířil na iPhone
+  17
 url: https://www.ign.com/articles/xiaomis-newest-phone-sports-a-rear-display-and-skips-a-number-to-take-aim-at-iphone-17
 urlToImage: https://assets-prd.ignimgs.com/2025/09/26/7cf08d52f00ca3b6aa5ccd4547cafbd8-1758899475991.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---

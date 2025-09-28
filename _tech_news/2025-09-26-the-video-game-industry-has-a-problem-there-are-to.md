@@ -2,9 +2,9 @@
 category: herní průmysl
 date: '2025-09-26 17:00:06'
 description: Září je pro vydávání videoher velmi rušné období, což ilustruje širší
-  výzvu na trhu. Mnoho velkých titulů je vydáváno ve stejném časovém rámci, což klade
-  vysoké nároky na hráče i vývojáře. Tato koncentrace vydání představuje výzvu pro
-  celý herní průmysl.
+  výzvu na trhu. Mnoho velkých titulů je vydáváno v krátkém časovém období, což klade
+  velké nároky na hráče i vývojáře. Tento trend ukazuje na potřebu lepšího rozložení
+  vydávání her v průběhu celého roku.
 importance: 3
 layout: tech_news_article
 original_title: 'The Video-Game Industry Has a Problem: There Are Too Many Games -
@@ -20,7 +20,7 @@ url: https://www.bloomberg.com/news/newsletters/2025-09-26/the-video-game-indust
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAtA6lKVv2B4/v1/1200x675.jpg
 ---
 
-Září je pro vydávání videoher velmi rušné období, což ilustruje širší výzvu na trhu. Mnoho velkých titulů je vydáváno ve stejném časovém rámci, což klade vysoké nároky na hráče i vývojáře. Tato koncentrace vydání představuje výzvu pro celý herní průmysl.
+Září je pro vydávání videoher velmi rušné období, což ilustruje širší výzvu na trhu. Mnoho velkých titulů je vydáváno v krátkém časovém období, což klade velké nároky na hráče i vývojáře. Tento trend ukazuje na potřebu lepšího rozložení vydávání her v průběhu celého roku.
 
 [Číst původní článek](https://www.bloomberg.com/news/newsletters/2025-09-26/the-video-game-industry-has-a-problem-there-are-too-many-games)
 

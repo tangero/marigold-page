@@ -5,24 +5,26 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   JPL:
 
 
-  Vážení kolegové,
+  Vážení zaměstnanci JPL,
 
 
-  Rádi bychom vás informovali o aktualizaci našich směrnic týkajících se práce na
-  dálku. Vzhledem k současné situaci a doporučením zdravotnických orgánů jsme se rozhodli
-  prodloužit možnost práce na dálku do konce roku 2023. Toto opatření se týká všech
-  zaměstnanců, kteří mohou svou práci vykonávat z domova.
+  Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů.
+  Začínáme s implementací nového systému pro správu lidských zdrojů, který nám umožní
+  zefektivnit a zjednodušit mnoho personálních procesů. Tento nový systém bude postupně
+  zaveden v následujících měsících.
 
 
-  Prosíme, abyste se seznámili s aktualizovanými směrnicemi a dodržovali všechna příslušná
-  pravidla a postupy. V případě dotazů se neváhejte obrátit na své manažery nebo personální
-  oddělení.
+  Dále bychom chtěli upozornit na změny v oblasti benefitů. Nově budeme nabízet rozšířené
+  možnosti pro home office a flexibilní pracovní dobu. Zároveň dochází k úpravám v
+  programu zdravotního pojištění a penzijního připojištění.
 
 
-  Děkujeme za vaši spolupráci a podporu v této nelehké době.
+  V případě jakýchkoli dotazů se neváhejte obrátit na své personální zástupce. Budeme
+  vás průběžně informovat o dalším vývoji.
 
 
-  S pozdravem,
+  Děkujeme za vaši spolupráci.
+
 
   Personální oddělení JPL'
 importance: 3
@@ -41,15 +43,16 @@ urlToImage: https://nasawatch.com/wp-content/uploads/2025/09/JPL-logo.jpg
 
 Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení JPL:
 
-Vážení kolegové,
+Vážení zaměstnanci JPL,
 
-Rádi bychom vás informovali o aktualizaci našich směrnic týkajících se práce na dálku. Vzhledem k současné situaci a doporučením zdravotnických orgánů jsme se rozhodli prodloužit možnost práce na dálku do konce roku 2023. Toto opatření se týká všech zaměstnanců, kteří mohou svou práci vykonávat z domova.
+Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů. Začínáme s implementací nového systému pro správu lidských zdrojů, který nám umožní zefektivnit a zjednodušit mnoho personálních procesů. Tento nový systém bude postupně zaveden v následujících měsících.
 
-Prosíme, abyste se seznámili s aktualizovanými směrnicemi a dodržovali všechna příslušná pravidla a postupy. V případě dotazů se neváhejte obrátit na své manažery nebo personální oddělení.
+Dále bychom chtěli upozornit na změny v oblasti benefitů. Nově budeme nabízet rozšířené možnosti pro home office a flexibilní pracovní dobu. Zároveň dochází k úpravám v programu zdravotního pojištění a penzijního připojištění.
 
-Děkujeme za vaši spolupráci a podporu v této nelehké době.
+V případě jakýchkoli dotazů se neváhejte obrátit na své personální zástupce. Budeme vás průběžně informovat o dalším vývoji.
 
-S pozdravem,
+Děkujeme za vaši spolupráci.
+
 Personální oddělení JPL
 
 [Číst původní článek](https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/)
