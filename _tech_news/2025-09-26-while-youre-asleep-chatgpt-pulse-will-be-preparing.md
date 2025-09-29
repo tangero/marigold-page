@@ -13,7 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Zatímco budete spát, ChatGPT Pulse se bude připravovat na zítřek
+title: Zatímco budete spát, ChatGPT Pulse se bude připravovat na zítřek - Android
+  Authority
 url: https://www.androidauthority.com/chatgpt-pulse-launched-3601783/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg
 ---

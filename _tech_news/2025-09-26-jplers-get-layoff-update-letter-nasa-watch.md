@@ -5,17 +5,32 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   JPL:
 
 
-  Vážení kolegové,
+  Vážení zaměstnanci JPL,
 
 
-  Rádi bychom vás informovali o nové nabídce práce v JPL. Hledáme talentované odborníky,
-  kteří se chtějí podílet na vývoji pokročilých technologií pro průzkum vesmíru. Mezi
-  požadované dovednosti patří zkušenosti s programováním v Pythonu, znalost strojového
-  učení a analýzy dat. Pokud máte zájem, neváhejte se přihlásit.
+  Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů,
+  které vstupují v platnost s okamžitou účinností:
 
 
-  Těšíme se na vaše přihlášky.
+  1. Nová politika práce na dálku: Zaměstnanci mají nyní možnost pracovat na dálku
+  až 3 dny v týdnu. Tato flexibilita má podpořit work-life balance a zvýšit produktivitu.
 
+
+  2. Rozšíření benefitů: Zavádíme nové benefity, jako je rozšířené zdravotní pojištění
+  a příspěvek na fitness. Tyto benefity mají zlepšit celkovou spokojenost a well-being
+  zaměstnanců.
+
+
+  3. Zlepšení kariérního rozvoje: Spouštíme nový program mentoringu a rozšiřujeme
+  možnosti školení, aby zaměstnanci mohli lépe rozvíjet své dovednosti a postupovat
+  v kariéře.
+
+
+  Těšíme se na další spolupráci s vámi a věříme, že tyto změny přispějí k ještě lepšímu
+  pracovnímu prostředí na JPL.
+
+
+  S pozdravem,
 
   Personální oddělení JPL'
 importance: 3
@@ -34,12 +49,19 @@ urlToImage: https://nasawatch.com/wp-content/uploads/2025/09/JPL-logo.jpg
 
 Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení JPL:
 
-Vážení kolegové,
+Vážení zaměstnanci JPL,
 
-Rádi bychom vás informovali o nové nabídce práce v JPL. Hledáme talentované odborníky, kteří se chtějí podílet na vývoji pokročilých technologií pro průzkum vesmíru. Mezi požadované dovednosti patří zkušenosti s programováním v Pythonu, znalost strojového učení a analýzy dat. Pokud máte zájem, neváhejte se přihlásit.
+Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů, které vstupují v platnost s okamžitou účinností:
 
-Těšíme se na vaše přihlášky.
+1. Nová politika práce na dálku: Zaměstnanci mají nyní možnost pracovat na dálku až 3 dny v týdnu. Tato flexibilita má podpořit work-life balance a zvýšit produktivitu.
 
+2. Rozšíření benefitů: Zavádíme nové benefity, jako je rozšířené zdravotní pojištění a příspěvek na fitness. Tyto benefity mají zlepšit celkovou spokojenost a well-being zaměstnanců.
+
+3. Zlepšení kariérního rozvoje: Spouštíme nový program mentoringu a rozšiřujeme možnosti školení, aby zaměstnanci mohli lépe rozvíjet své dovednosti a postupovat v kariéře.
+
+Těšíme se na další spolupráci s vámi a věříme, že tyto změny přispějí k ještě lepšímu pracovnímu prostředí na JPL.
+
+S pozdravem,
 Personální oddělení JPL
 
 [Číst původní článek](https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/)

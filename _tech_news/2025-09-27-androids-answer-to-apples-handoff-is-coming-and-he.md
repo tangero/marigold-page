@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Androidová odpověď na Apple Handoff je na cestě a tady je, jak bude fungovat
+title: Androidová odpověď na Handoff od Applu přichází a tady je, jak to bude fungovat
 url: https://www.androidauthority.com/how-android-handoff-will-work-3601801/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/09/Chrome-running-on-an-Android-phone-and-an-external-monitor-scaled.jpg
 ---

@@ -17,7 +17,7 @@ source:
   id: null
   name: ZDNet
 title: Chatovací robot ChatGPT umožní vašemu týmu spolupracovat prostřednictvím 'sdílených
-  projektů' - a další práci přátelské aktualizace
+  projektů' - a další pracovně přátelské aktualizace
 url: https://www.zdnet.com/article/chatgpt-will-let-your-team-collaborate-via-shared-projects-and-other-work-friendly-updates/
 urlToImage: https://www.zdnet.com/a/img/resize/f5d2ed364d587e58ed3895616594e2e9e0513af5/2025/09/26/37d803b3-feeb-46b1-ae45-6ed387584e62/gettyimages-1400238486.jpg?auto=webp&fit=crop&height=675&width=1200
 ---

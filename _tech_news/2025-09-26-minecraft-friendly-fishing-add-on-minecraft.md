@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Minecraft.net
-title: Doplněk pro přátelské rybaření ve hře Minecraft
+title: Doplněk pro přátelské rybaření - Minecraft
 url: https://www.minecraft.net/en-us/article/minecraft-friendly-fishing
 urlToImage: https://www.minecraft.net/content/dam/minecraftnet/games/education-edition/key-art/Friendly_Fishing_AddOn_HEADER.jpg
 ---

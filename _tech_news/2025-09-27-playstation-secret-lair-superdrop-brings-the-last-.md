@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-27 19:10:20'
-description: 'Magic: The Gathering dostane kolekci karet PlayStation jako součást
+description: 'Magic: The Gathering dostává kolekci karet PlayStation jako součást
   nadcházejícího Secret Lair Superdrop příští měsíc.'
 importance: 3
 layout: tech_news_article
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: 'Tajná ložnice PlayStation Superdrop přináší The Last of Us, God of War a další
+title: 'Tajná doupě PlayStation Superdrop přináší The Last of Us, God of War a další
   do Magic: The Gathering v říjnu'
 url: https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october
 urlToImage: https://assets-prd.ignimgs.com/2025/09/26/magic-the-gathering-playstation-secret-lair-1758925931552.png?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Magic: The Gathering dostane kolekci karet PlayStation jako součást nadcházejícího Secret Lair Superdrop příští měsíc.
+Magic: The Gathering dostává kolekci karet PlayStation jako součást nadcházejícího Secret Lair Superdrop příští měsíc.
 
 [Číst původní článek](https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october)
 

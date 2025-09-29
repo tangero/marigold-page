@@ -15,7 +15,7 @@ source:
   id: null
   name: Kotaku
 title: Sledujte nového výkonného ředitele Nintendo of America, jak tančí, zpívá a
-  cosplayuje
+  převléká se do kostýmů
 url: https://kotaku.com/nintendo-direct-america-3ds-satoru-shibata-2000629269
 urlToImage: https://kotaku.com/app/uploads/2025/09/Nintendo-CEO.jpg
 ---

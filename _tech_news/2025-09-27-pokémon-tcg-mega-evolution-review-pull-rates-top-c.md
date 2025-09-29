@@ -1,7 +1,7 @@
 ---
 category: karetní hra
 date: '2025-09-27 15:34:41'
-description: Nové mechaniky, jak se změnila Mega Evoluce a průvodce stavbou decků
+description: Nové mechaniky, jak se změnila Mega Evoluce a průvodce sestavováním balíčků
   s dostupnými kartami Pokémon TCG.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://mashable.com/article/pokemon-tcg-mega-evolution-review
 urlToImage: https://helios-i.mashable.com/imagery/articles/03N9ICSTYjiYX1cgGfKk0Of/hero-image.fill.size_1200x675.v1758900555.png
 ---
 
-Nové mechaniky, jak se změnila Mega Evoluce a průvodce stavbou decků s dostupnými kartami Pokémon TCG.
+Nové mechaniky, jak se změnila Mega Evoluce a průvodce sestavováním balíčků s dostupnými kartami Pokémon TCG.
 
 [Číst původní článek](https://mashable.com/article/pokemon-tcg-mega-evolution-review)
 

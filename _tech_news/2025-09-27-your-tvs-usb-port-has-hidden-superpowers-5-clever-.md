@@ -13,7 +13,7 @@ source:
   id: null
   name: ZDNet
 title: 'Skryté superschopnosti USB portu vašeho televizoru: 5 chytrých způsobů, jak
-  jej využívat'
+  jej využívám'
 url: https://www.zdnet.com/home-and-office/home-entertainment/your-tvs-usb-port-has-hidden-superpowers-5-clever-ways-i-use-mine/
 urlToImage: https://www.zdnet.com/a/img/resize/9edd980afcbaee8c99b527e7eb8c8dc9419f4277/2025/09/26/e1edb1dc-c59f-4129-ac90-895fb77933c7/tv-usb-port.jpg?auto=webp&fit=crop&height=675&width=1200
 ---

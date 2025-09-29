@@ -16,8 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Gear Patrol
-title: Budování první komerční vesmírné stanice dostalo oficiální hodinky. Nejde o
-  Omegu.
+title: Prvni komerční vesmírná stanice dostala oficiální hodinky. Nejsou to Omegy.
 url: https://www.gearpatrol.com/watches/iwc-vast-space-station/
 urlToImage: https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/09/iwc-vast-space-station-lead.webp
 ---

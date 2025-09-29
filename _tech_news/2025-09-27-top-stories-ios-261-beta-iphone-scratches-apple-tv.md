@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-09-27 13:00:00'
 description: iPhone launch měsíc se blíží ke konci, ale v Apple světě je stále mnoho
-  k diskuzi, včetně probíhajících objevů s novými...
+  věcí k probrání, včetně probíhajících objevů s novými...
 importance: 4
 layout: tech_news_article
 original_title: 'Top Stories: iOS 26.1 Beta, iPhone Scratches, Apple TV Rumors, and
@@ -20,7 +20,7 @@ url: https://www.macrumors.com/2025/09/27/top-stories-ios-26-1-beta-iphone-scrat
 urlToImage: https://images.macrumors.com/t/X8Uo5cTLZbzhRsKUCXv-Svwqsdo=/1600x/article-new/2025/09/top-stories-2025-09-27.jpg
 ---
 
-iPhone launch měsíc se blíží ke konci, ale v Apple světě je stále mnoho k diskuzi, včetně probíhajících objevů s novými...
+iPhone launch měsíc se blíží ke konci, ale v Apple světě je stále mnoho věcí k probrání, včetně probíhajících objevů s novými...
 
 [Číst původní článek](https://www.macrumors.com/2025/09/27/top-stories-ios-26-1-beta-iphone-scratches/)
 

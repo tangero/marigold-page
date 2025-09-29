@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Cincy Jungle
-title: Jak Bengalové ušetřili peníze s "garážovým výprodejem" - Cincy Jungle
+title: Jak Bengálové ušetřili peníze prodejem na "garážovém výprodeji" - Cincy Jungle
 url: https://www.cincyjungle.com/cincinnati-bengals-news/175829/cincinnati-bengals-cheap-aj-mccaarron-garage-sale
 urlToImage: https://platform.cincyjungle.com/wp-content/uploads/sites/65/2025/09/gettyimages-1831291025.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.520187939011&w=1200
 ---
