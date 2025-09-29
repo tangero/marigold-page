@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Interesting Engineering
-title: Pevné sodíkové baterie s potenciálem nahradit lithium
+title: Pevnolátkové sodíkové baterie, které mohou potenciálně nahradit lithiové
 url: https://interestingengineering.com/energy/all-solid-state-sodium-batteries-created
 urlToImage: https://cms.interestingengineering.com/wp-content/uploads/2025/09/sodiumbattery.jpg
 ---

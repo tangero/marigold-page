@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Proč je Dynasty Warriors Origins na Nintendo Switch 2 v 30 FPS, vysvětluje
-  Koei Tecmo
+title: Proč je Dynasty Warriors Origins na Nintendo Switch 2 30 FPS, vysvětluje Koei
+  Tecmo
 url: https://nintendoeverything.com/dynasty-warriors-origins-switch-2-frame-rate/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Dynasty-Warriors-Origins-Switch-2-frame-rate.jpg
 ---

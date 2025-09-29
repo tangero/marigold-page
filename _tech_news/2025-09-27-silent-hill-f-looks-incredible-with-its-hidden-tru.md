@@ -1,9 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-27 17:07:53'
-description: Vyladěná nastavení "True Epic" mohou výrazně zlepšit kvalitu obrazu v
-  Silent Hill f. Tato skrytá nastavení lze odemknout a využít pro vylepšení vizuální
-  stránky hry.
+description: Existují některá skrytá nastavení "True Epic", která lze odemknout a
+  která mohou výrazně zlepšit kvalitu obrazu hry Silent Hill f.
 importance: 3
 layout: tech_news_article
 original_title: Silent Hill f Looks Incredible With Its Hidden “True Epic” Settings
@@ -14,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: DSOGaming
-title: Nádherná grafika Silent Hill f s jeho skrytými "skutečně epickými" nastaveními
+title: Nádherné nastavení "Skutečné epické" v Silent Hill f - DSOGaming
 url: https://www.dsogaming.com/pc-performance-analyses/silent-hill-f-looks-incredible-with-its-hidden-true-epic-settings/
 urlToImage: https://www.dsogaming.com/wp-content/uploads/2025/09/SHf-Win64-Shipping_2025_09_27_00_55_04_995-scaled.jpg
 ---
 
-Vyladěná nastavení "True Epic" mohou výrazně zlepšit kvalitu obrazu v Silent Hill f. Tato skrytá nastavení lze odemknout a využít pro vylepšení vizuální stránky hry.
+Existují některá skrytá nastavení "True Epic", která lze odemknout a která mohou výrazně zlepšit kvalitu obrazu hry Silent Hill f.
 
 [Číst původní článek](https://www.dsogaming.com/pc-performance-analyses/silent-hill-f-looks-incredible-with-its-hidden-true-epic-settings/)
 

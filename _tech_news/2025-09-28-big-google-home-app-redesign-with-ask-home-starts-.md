@@ -3,8 +3,8 @@ category: mobilní aplikace
 companies:
 - Google
 date: '2025-09-28 04:48:00'
-description: Google Home aplikace dostává redesign s "Ask Home" a tato funkce se nyní
-  začíná postupně zavádět...
+description: Dříve jsme si všimli, že aplikace Google Home dostává redesign s "Ask
+  Home" a nyní začíná být postupně zaváděna...
 importance: 3
 layout: tech_news_article
 original_title: Big Google Home app redesign with ‘Ask Home’ starts rolling out on
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Velký redesign aplikace Google Home s 'Ask Home' začíná být postupně uvolňován
-  na iPhonu
+title: Velký redesign aplikace Google Home s 'Ask Home' začíná být postupně vydáván
+  na iPhone
 url: http://9to5google.com/2025/09/27/google-home-ask-redesign-iphone/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Ask-redesign-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Google Home aplikace dostává redesign s "Ask Home" a tato funkce se nyní začíná postupně zavádět...
+Dříve jsme si všimli, že aplikace Google Home dostává redesign s "Ask Home" a nyní začíná být postupně zaváděna...
 
 [Číst původní článek](http://9to5google.com/2025/09/27/google-home-ask-redesign-iphone/)
 

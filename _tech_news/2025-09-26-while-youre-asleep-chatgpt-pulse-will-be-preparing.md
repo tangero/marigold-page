@@ -1,8 +1,8 @@
 ---
 category: umělá inteligence
 date: '2025-09-26 22:35:16'
-description: ChatGPT Pulse poskytuje denní personalizované aktualizace, pracuje přes
-  noc, takže se ráno probudíte s briefingem, aniž byste se museli ptát.
+description: ChatGPT Pulse poskytuje každodenní personalizované aktualizace, pracuje
+  přes noc, takže se ráno probudíte s briefingem, aniž byste se museli ptát.
 importance: 3
 layout: tech_news_article
 original_title: While you’re asleep, ChatGPT Pulse will be preparing for tomorrow
@@ -19,7 +19,7 @@ url: https://www.androidauthority.com/chatgpt-pulse-launched-3601783/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg
 ---
 
-ChatGPT Pulse poskytuje denní personalizované aktualizace, pracuje přes noc, takže se ráno probudíte s briefingem, aniž byste se museli ptát.
+ChatGPT Pulse poskytuje každodenní personalizované aktualizace, pracuje přes noc, takže se ráno probudíte s briefingem, aniž byste se museli ptát.
 
 [Číst původní článek](https://www.androidauthority.com/chatgpt-pulse-launched-3601783/)
 
