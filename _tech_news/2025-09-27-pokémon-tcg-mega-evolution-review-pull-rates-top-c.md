@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: 'Pokémon TCG: Recenze Mega Evoluce — odhalené poměry tažení, nejlepší karty
-  a strategie'
+title: 'Pokémon TCG: Recenze Mega Evoluce — odhalené výtěžnosti, nejlepší karty a
+  strategie'
 url: https://mashable.com/article/pokemon-tcg-mega-evolution-review
 urlToImage: https://helios-i.mashable.com/imagery/articles/03N9ICSTYjiYX1cgGfKk0Of/hero-image.fill.size_1200x675.v1758900555.png
 ---

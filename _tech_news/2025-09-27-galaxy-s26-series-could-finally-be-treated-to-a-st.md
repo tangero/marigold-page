@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: Řada Galaxy S26 by mohla konečně příští rok získat vylepšení úložiště díky
+title: Řada Galaxy S26 by mohla příští rok konečně získat vylepšení úložiště díky
   Snapdragonu 8 Elite Gen 5
 url: https://wccftech.com/galaxy-s26-series-storage-upgrade-thanks-to-snapdragon-8-elite-gen-5/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/09/Galaxy-S26-Edge-5-1.jpg

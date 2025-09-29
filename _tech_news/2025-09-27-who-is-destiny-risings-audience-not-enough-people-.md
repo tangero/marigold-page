@@ -13,8 +13,8 @@ source:
   emoji: 💼
   id: null
   name: Forbes
-title: Kdo je cílovou skupinou Destiny Rising? Podle zprávy o tržbách to není dostatek
-  lidí
+title: Kdo je cílovou skupinou Destiny Rising? Podle zprávy o tržbách nestačí lidí
+  - Forbes
 url: https://www.forbes.com/sites/paultassi/2025/09/27/who-is-destiny-risings-audience-not-enough-people-says-revenue-report/
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/68adb608392ee4f4ceaa9991/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
 ---

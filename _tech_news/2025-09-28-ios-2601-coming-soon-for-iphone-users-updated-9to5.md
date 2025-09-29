@@ -1,5 +1,5 @@
 ---
-category: mobilní software
+category: mobilní operační sys
 companies:
 - Apple
 date: '2025-09-28 00:07:00'

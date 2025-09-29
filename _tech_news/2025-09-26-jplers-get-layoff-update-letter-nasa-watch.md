@@ -8,18 +8,14 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   Vážení kolegové,
 
 
-  Rádi bychom vás informovali, že společnost JPL zavádí nový systém pro správu lidských
-  zdrojů. Tento systém bude zahrnovat novou platformu pro správu zaměstnaneckých benefitů,
-  nábor nových pracovníků a další HR funkce. Cílem je zjednodušit a zefektivnit naše
-  HR procesy.
+  Rádi bychom vás informovali o nové iniciativě JPL zaměřené na podporu duševního
+  zdraví a well-beingu našich zaměstnanců. Spouštíme nový program "Mindfulness @ JPL",
+  který nabízí pravidelná cvičení mindfulness a meditace vedená kvalifikovanými instruktory.
+  Tyto aktivity jsou zdarma a otevřené pro všechny zaměstnance JPL. Věříme, že tato
+  nová iniciativa pomůže zlepšit celkovou pohodu a vyrovnanost našich pracovníků.
 
 
-  Během následujících týdnů budeme provádět školení a poskytovat další informace ohledně
-  této změny. Prosíme, abyste se na toto školení aktivně zapojili a pomohli nám s
-  hladkým zavedením nového systému.
-
-
-  Děkujeme za vaši spolupráci a podporu.
+  Více informací a registrace na: jpl.nasa.gov/mindfulness
 
 
   S pozdravem,
@@ -43,11 +39,9 @@ Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení J
 
 Vážení kolegové,
 
-Rádi bychom vás informovali, že společnost JPL zavádí nový systém pro správu lidských zdrojů. Tento systém bude zahrnovat novou platformu pro správu zaměstnaneckých benefitů, nábor nových pracovníků a další HR funkce. Cílem je zjednodušit a zefektivnit naše HR procesy.
+Rádi bychom vás informovali o nové iniciativě JPL zaměřené na podporu duševního zdraví a well-beingu našich zaměstnanců. Spouštíme nový program "Mindfulness @ JPL", který nabízí pravidelná cvičení mindfulness a meditace vedená kvalifikovanými instruktory. Tyto aktivity jsou zdarma a otevřené pro všechny zaměstnance JPL. Věříme, že tato nová iniciativa pomůže zlepšit celkovou pohodu a vyrovnanost našich pracovníků.
 
-Během následujících týdnů budeme provádět školení a poskytovat další informace ohledně této změny. Prosíme, abyste se na toto školení aktivně zapojili a pomohli nám s hladkým zavedením nového systému.
-
-Děkujeme za vaši spolupráci a podporu.
+Více informací a registrace na: jpl.nasa.gov/mindfulness
 
 S pozdravem,
 Personální oddělení JPL

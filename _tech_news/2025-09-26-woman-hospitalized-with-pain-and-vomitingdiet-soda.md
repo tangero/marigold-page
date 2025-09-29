@@ -13,7 +13,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Žena hospitalizovaná s bolestí a zvracením - dieta soda ji vyléčila
+title: Žena hospitalizována s bolestí a zvracením - dietní soda ji vyléčila
 url: https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2207002011-2560x1440.jpg
 ---
