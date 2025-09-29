@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: macOS 26 odemyká skutečný potenciál aplikace Journal od Applu
+title: Odemknutí skutečného potenciálu aplikace Apple Journal v macOS 26
 url: https://9to5mac.com/2025/09/27/macos-26-unlocks-the-real-potential-of-apples-journal-app/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-journal-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

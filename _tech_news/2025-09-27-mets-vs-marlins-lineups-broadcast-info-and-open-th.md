@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Amazin' Avenue
-title: 'Mets proti Marlins: Sestavy, informace o vysílání a otevřené vlákno, 27. 9.
+title: 'Mets proti Marlins: Sestavy, informace o vysílání a otevřené fórum, 27. 9.
   2025 - Amazin'' Avenue'
 url: https://www.amazinavenue.com/new-york-mets-chat-gamethread/86202/mets-vs-marlins-lineups-broadcast-info-how-open-thread-miami-new-york-baseball-mlb
 urlToImage: https://platform.amazinavenue.com/wp-content/uploads/sites/8/2025/09/imagn-27049309.jpg?quality=90&strip=all&crop=0%2C1.1979093621157%2C100%2C40.467953165865&w=1200

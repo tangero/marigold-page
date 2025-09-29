@@ -4,12 +4,12 @@ date: '2025-09-28 04:30:00'
 description: 'Zde je vše, co bylo oznámeno:
 
 
-  Společnost představila novou generaci svých vlajkových smartphonů. Zařízení jsou
-  vybavena pokročilými funkcemi, jako jsou 5G konektivita, vylepšené fotoaparáty a
-  výkonné procesory. Kromě toho byla představena nová generace chytrých hodinek, které
-  nabízejí delší výdrž baterie a vylepšené zdravotní a fitness funkce. Společnost
-  také oznámila aktualizaci svého operačního systému, která přináší nové možnosti
-  personalizace a zlepšené zabezpečení.'
+  Společnost představila novou generaci svého vlajkového smartphonu. Zařízení je vybaveno
+  pokročilým 5nm čipsetem, který nabízí výrazně vyšší výkon a efektivitu oproti předchozí
+  generaci. Displej využívá OLED technologii s vysokou obnovovací frekvencí 120Hz
+  pro plynulý pohyb. Fotoaparát byl vylepšen a nyní podporuje pokročilé funkce computational
+  photography. Zařízení je také kompatibilní s 5G sítěmi pro rychlejší mobilní připojení.
+  Baterie s vyšší kapacitou a rychlé nabíjení zajišťují delší výdrž na jedno nabití.'
 importance: 4
 layout: tech_news_article
 original_title: 'Round Up: Minecraft Live (September 2025) - New Drops, Mobs, Weapons,
@@ -28,7 +28,7 @@ urlToImage: https://images.nintendolife.com/5d2f1b6ba6dc0/large.jpg
 
 Zde je vše, co bylo oznámeno:
 
-Společnost představila novou generaci svých vlajkových smartphonů. Zařízení jsou vybavena pokročilými funkcemi, jako jsou 5G konektivita, vylepšené fotoaparáty a výkonné procesory. Kromě toho byla představena nová generace chytrých hodinek, které nabízejí delší výdrž baterie a vylepšené zdravotní a fitness funkce. Společnost také oznámila aktualizaci svého operačního systému, která přináší nové možnosti personalizace a zlepšené zabezpečení.
+Společnost představila novou generaci svého vlajkového smartphonu. Zařízení je vybaveno pokročilým 5nm čipsetem, který nabízí výrazně vyšší výkon a efektivitu oproti předchozí generaci. Displej využívá OLED technologii s vysokou obnovovací frekvencí 120Hz pro plynulý pohyb. Fotoaparát byl vylepšen a nyní podporuje pokročilé funkce computational photography. Zařízení je také kompatibilní s 5G sítěmi pro rychlejší mobilní připojení. Baterie s vyšší kapacitou a rychlé nabíjení zajišťují delší výdrž na jedno nabití.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/09/round-up-minecraft-live-september-2025-new-drops-mobs-weapons-dlc-and-more)
 
