@@ -5,7 +5,8 @@ companies:
 - Samsung
 - Ninja
 date: '2025-09-27 12:00:00'
-description: Obrovské úspory na Apple, Samsung, Ninja a další
+description: Obrovské úspory na Apple, Samsung, Ninja a další. Zachovejte technické
+  termíny v angličtině, pokud jsou běžně používané.
 importance: 3
 layout: tech_news_article
 original_title: Best Buy is having a Prime Day of its own and it starts now — 25 deals
@@ -16,13 +17,13 @@ source:
   emoji: 📰
   id: null
   name: Tom's Guide
-title: Nejlepší nákupy Prime Day od společnosti Best Buy začínají nyní - 25 nabídek,
+title: Nejlepší nákupy Prime Day od společnosti Best Buy a začínají nyní — 25 nabídek,
   které bych si přidal do košíku tento víkend
 url: https://www.tomsguide.com/sales-events/best-buy-is-having-a-prime-day-of-its-own-and-it-starts-now-25-deals-id-add-to-my-cart-this-weekend
 urlToImage: https://cdn.mos.cms.futurecdn.net/LtCXfrnT7ZLnDW7JANfehN.jpg
 ---
 
-Obrovské úspory na Apple, Samsung, Ninja a další
+Obrovské úspory na Apple, Samsung, Ninja a další. Zachovejte technické termíny v angličtině, pokud jsou běžně používané.
 
 [Číst původní článek](https://www.tomsguide.com/sales-events/best-buy-is-having-a-prime-day-of-its-own-and-it-starts-now-25-deals-id-add-to-my-cart-this-weekend)
 

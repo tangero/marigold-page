@@ -13,8 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Thegamepost.com
-title: 'Destiny 2 Věčná pouštní epická nájezdová tabulka kořisti: Všechny zbraně a
-  brnění'
+title: 'Destiny 2 Pouštní věčný epický raid - tabulka lootů: Všechny zbraně a brnění'
 url: https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-loot-table/
 urlToImage: https://thegamepost.com/wp-content/uploads/2025/09/destiny-2-desert-perpetual-epic-raid-loot-table-1.webp
 ---

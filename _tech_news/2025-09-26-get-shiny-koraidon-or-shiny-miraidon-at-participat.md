@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-26 16:24:21'
-description: Navštivte místní zapojené maloobchodníky a získejte jednoho z těchto
+description: Navštivte místní zúčastněné maloobchodníky a získejte jednoho z těchto
   Shiny Legendary Pokémonů do vaší hry Pokémon Scarlet nebo Pokémon Violet.
 importance: 3
 layout: tech_news_article
@@ -13,13 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Pokemon.com
-title: Získejte třpytivého Koraidona nebo třpytivého Miraidona u zúčastněných prodejců
-  - Pokemon.com
+title: Získejte Shiny Koraidon nebo Shiny Miraidon u zúčastněných prodejců - Pokemon.com
 url: https://www.pokemon.com/uk/pokemon-news/get-shiny-koraidon-or-shiny-miraidon-at-participating-retailers
 urlToImage: https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-scarlet-violet/distributions/shiny-koraidon-shiny-miraidon/scarlet-violet-169-en.png
 ---
 
-Navštivte místní zapojené maloobchodníky a získejte jednoho z těchto Shiny Legendary Pokémonů do vaší hry Pokémon Scarlet nebo Pokémon Violet.
+Navštivte místní zúčastněné maloobchodníky a získejte jednoho z těchto Shiny Legendary Pokémonů do vaší hry Pokémon Scarlet nebo Pokémon Violet.
 
 [Číst původní článek](https://www.pokemon.com/uk/pokemon-news/get-shiny-koraidon-or-shiny-miraidon-at-participating-retailers)
 

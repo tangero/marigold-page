@@ -8,28 +8,14 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   Vážení kolegové,
 
 
-  Vzhledem k aktuální situaci ohledně COVID-19 a s cílem zajistit bezpečnost a zdraví
-  našich zaměstnanců, rozhodli jsme se dočasně zavést následující opatření:
+  Rádi bychom vás informovali o nové nabídce práce v JPL. Hledáme talentované odborníky,
+  kteří se chtějí podílet na vývoji pokročilých technologií pro průzkum vesmíru. Mezi
+  požadované dovednosti patří zkušenosti s programováním v Pythonu, znalost strojového
+  učení a analýzy dat. Pokud máte zájem, neváhejte se přihlásit.
 
 
-  - Všichni zaměstnanci, kteří mohou vykonávat svou práci z domova, budou mít tuto
-  možnost. Prosíme, abyste se s nadřízeným domluvili na detailech.
+  Těšíme se na vaše přihlášky.
 
-
-  - Všechny meetingy a školení budou probíhat online, aby se omezil fyzický kontakt.
-
-
-  - Bude omezen přístup do budov JPL pouze na nezbytně nutné případy.
-
-
-  Tyto kroky jsou dočasná opatření a budou průběžně vyhodnocována a aktualizována
-  dle vývoje situace. Vaše zdraví a bezpečnost jsou pro nás na prvním místě.
-
-
-  Děkujeme za pochopení a spolupráci.
-
-
-  S pozdravem,
 
   Personální oddělení JPL'
 importance: 3
@@ -50,19 +36,10 @@ Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení J
 
 Vážení kolegové,
 
-Vzhledem k aktuální situaci ohledně COVID-19 a s cílem zajistit bezpečnost a zdraví našich zaměstnanců, rozhodli jsme se dočasně zavést následující opatření:
+Rádi bychom vás informovali o nové nabídce práce v JPL. Hledáme talentované odborníky, kteří se chtějí podílet na vývoji pokročilých technologií pro průzkum vesmíru. Mezi požadované dovednosti patří zkušenosti s programováním v Pythonu, znalost strojového učení a analýzy dat. Pokud máte zájem, neváhejte se přihlásit.
 
-- Všichni zaměstnanci, kteří mohou vykonávat svou práci z domova, budou mít tuto možnost. Prosíme, abyste se s nadřízeným domluvili na detailech.
+Těšíme se na vaše přihlášky.
 
-- Všechny meetingy a školení budou probíhat online, aby se omezil fyzický kontakt.
-
-- Bude omezen přístup do budov JPL pouze na nezbytně nutné případy.
-
-Tyto kroky jsou dočasná opatření a budou průběžně vyhodnocována a aktualizována dle vývoje situace. Vaše zdraví a bezpečnost jsou pro nás na prvním místě.
-
-Děkujeme za pochopení a spolupráci.
-
-S pozdravem,
 Personální oddělení JPL
 
 [Číst původní článek](https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/)
