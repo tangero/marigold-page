@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Tematický park v New Jersey nabízí animatronické dinosaury na Facebooku Marketplace
+title: Zábavní park v New Jersey nabízí animatronické dinosaury na Facebooku Marketplace
   při uzavření
 url: https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489
 urlToImage: https://gizmodo.com/app/uploads/2025/09/new-jersey-dinosaur-1200x675.jpg

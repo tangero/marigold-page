@@ -18,7 +18,8 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Mise NASA na Měsíc se nezdařila, takže ji nyní provede Blue Origin
+title: Proč NASA nemohla dopravit svůj rover na Měsíc, ale Blue Origin to zvládne
+  místo toho
 url: https://gizmodo.com/nasa-couldnt-get-its-rover-to-the-moon-so-blue-origin-will-do-it-instead-2000662706
 urlToImage: https://gizmodo.com/app/uploads/2025/09/viper-lunar-rover-1200x675.jpg
 ---

@@ -5,29 +5,21 @@ description: 'Zaměstnanci JPL obdrželi dnes ráno tento email od personálníh
   JPL:
 
 
-  Vážení zaměstnanci JPL,
+  Vážení kolegové,
 
 
-  Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů,
-  které vstupují v platnost s okamžitou účinností:
+  Rádi bychom vás informovali, že společnost JPL zavádí nový systém pro správu lidských
+  zdrojů. Tento systém bude zahrnovat novou platformu pro správu zaměstnaneckých benefitů,
+  nábor nových pracovníků a další HR funkce. Cílem je zjednodušit a zefektivnit naše
+  HR procesy.
 
 
-  1. Nová politika práce na dálku: Zaměstnanci mají nyní možnost pracovat na dálku
-  až 3 dny v týdnu. Tato flexibilita má podpořit work-life balance a zvýšit produktivitu.
+  Během následujících týdnů budeme provádět školení a poskytovat další informace ohledně
+  této změny. Prosíme, abyste se na toto školení aktivně zapojili a pomohli nám s
+  hladkým zavedením nového systému.
 
 
-  2. Rozšíření benefitů: Zavádíme nové benefity, jako je rozšířené zdravotní pojištění
-  a příspěvek na fitness. Tyto benefity mají zlepšit celkovou spokojenost a well-being
-  zaměstnanců.
-
-
-  3. Zlepšení kariérního rozvoje: Spouštíme nový program mentoringu a rozšiřujeme
-  možnosti školení, aby zaměstnanci mohli lépe rozvíjet své dovednosti a postupovat
-  v kariéře.
-
-
-  Těšíme se na další spolupráci s vámi a věříme, že tyto změny přispějí k ještě lepšímu
-  pracovnímu prostředí na JPL.
+  Děkujeme za vaši spolupráci a podporu.
 
 
   S pozdravem,
@@ -49,17 +41,13 @@ urlToImage: https://nasawatch.com/wp-content/uploads/2025/09/JPL-logo.jpg
 
 Zaměstnanci JPL obdrželi dnes ráno tento email od personálního oddělení JPL:
 
-Vážení zaměstnanci JPL,
+Vážení kolegové,
 
-Rádi bychom vás informovali o několika důležitých změnách v oblasti lidských zdrojů, které vstupují v platnost s okamžitou účinností:
+Rádi bychom vás informovali, že společnost JPL zavádí nový systém pro správu lidských zdrojů. Tento systém bude zahrnovat novou platformu pro správu zaměstnaneckých benefitů, nábor nových pracovníků a další HR funkce. Cílem je zjednodušit a zefektivnit naše HR procesy.
 
-1. Nová politika práce na dálku: Zaměstnanci mají nyní možnost pracovat na dálku až 3 dny v týdnu. Tato flexibilita má podpořit work-life balance a zvýšit produktivitu.
+Během následujících týdnů budeme provádět školení a poskytovat další informace ohledně této změny. Prosíme, abyste se na toto školení aktivně zapojili a pomohli nám s hladkým zavedením nového systému.
 
-2. Rozšíření benefitů: Zavádíme nové benefity, jako je rozšířené zdravotní pojištění a příspěvek na fitness. Tyto benefity mají zlepšit celkovou spokojenost a well-being zaměstnanců.
-
-3. Zlepšení kariérního rozvoje: Spouštíme nový program mentoringu a rozšiřujeme možnosti školení, aby zaměstnanci mohli lépe rozvíjet své dovednosti a postupovat v kariéře.
-
-Těšíme se na další spolupráci s vámi a věříme, že tyto změny přispějí k ještě lepšímu pracovnímu prostředí na JPL.
+Děkujeme za vaši spolupráci a podporu.
 
 S pozdravem,
 Personální oddělení JPL

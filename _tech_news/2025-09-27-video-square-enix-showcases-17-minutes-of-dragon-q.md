@@ -1,10 +1,11 @@
 ---
 category: herní průmysl
 date: '2025-09-27 06:00:00'
-description: Gameplay Octopath Traveler 0 také odhalen. Hra kombinuje klasický JRPG
-  design s unikátním vizuálním stylem "HD-2D". Hráči mohou vybírat z osmi různých
-  hrdinů, každý s vlastní příběhovou linkou a schopnostmi. Hra nabízí nelineární průzkum
-  otevřeného světa a taktický turn-based combat systém.
+description: Gameplay Octopath Traveler 0 také odhalen. Hra využívá unikátní 2D-HD
+  art style a nabízí nelineární příběh s osmi různými protagonisty, každý se svou
+  vlastní motivací a schopnostmi. Hráči mohou zkoumat otevřený svět a využívat kombinace
+  schopností postav k řešení výzev. Octopath Traveler 0 nabídne klasický JRPG zážitek
+  s moderním zpracováním.
 importance: 3
 layout: tech_news_article
 original_title: 'Video: Square Enix Showcases 17 Minutes Of Dragon Quest VII: Reimagined
@@ -21,7 +22,7 @@ url: https://www.nintendolife.com/news/2025/09/video-square-enix-showcases-17-mi
 urlToImage: https://images.nintendolife.com/97620e81f913b/large.jpg
 ---
 
-Gameplay Octopath Traveler 0 také odhalen. Hra kombinuje klasický JRPG design s unikátním vizuálním stylem "HD-2D". Hráči mohou vybírat z osmi různých hrdinů, každý s vlastní příběhovou linkou a schopnostmi. Hra nabízí nelineární průzkum otevřeného světa a taktický turn-based combat systém.
+Gameplay Octopath Traveler 0 také odhalen. Hra využívá unikátní 2D-HD art style a nabízí nelineární příběh s osmi různými protagonisty, každý se svou vlastní motivací a schopnostmi. Hráči mohou zkoumat otevřený svět a využívat kombinace schopností postav k řešení výzev. Octopath Traveler 0 nabídne klasický JRPG zážitek s moderním zpracováním.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/09/video-square-enix-showcases-17-minutes-of-dragon-quest-vii-reimagined-gameplay)
 

@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-27 12:58:27'
-description: Borderlands 4 již představuje nového Vault Huntera, který bude představen
-  v roce 2026, a je zde i docela zábavné reálné překvapení.
+description: Borderlands 4 již představuje nového Vault Huntera, který přijde v roce
+  2026, a je zde i docela zábavné reálné překvapení.
 importance: 4
 layout: tech_news_article
 original_title: ‘Borderlands 4’ Is Teasing A Very Funny Fifth Vault Hunter Reveal
@@ -13,13 +13,13 @@ source:
   emoji: 💼
   id: null
   name: Forbes
-title: Borderlands 4 naznačuje odhalení velmi zábavného pátého Lovce Trezorů dnes
+title: Borderlands 4 naznačuje odhalení velmi zábavného pátého lovce pokladů dnes
   večer
 url: https://www.forbes.com/sites/paultassi/2025/09/27/borderlands-4-is-teasing-a-very-funny-fifth-vault-hunter-reveal-tonight/
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/68d7dee9bc8d56be5094b9de/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
 ---
 
-Borderlands 4 již představuje nového Vault Huntera, který bude představen v roce 2026, a je zde i docela zábavné reálné překvapení.
+Borderlands 4 již představuje nového Vault Huntera, který přijde v roce 2026, a je zde i docela zábavné reálné překvapení.
 
 [Číst původní článek](https://www.forbes.com/sites/paultassi/2025/09/27/borderlands-4-is-teasing-a-very-funny-fifth-vault-hunter-reveal-tonight/)
 

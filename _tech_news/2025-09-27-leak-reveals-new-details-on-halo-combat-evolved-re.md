@@ -6,7 +6,7 @@ companies:
 date: '2025-09-27 16:20:49'
 description: Nový únik tvrdí, že remake hry Halo Combat Evolved bude používat hybridní
   technologii Unreal Engine 5 a Blam, bude obsahovat sprint, přepracované mise a je
-  vyvíjen ve spolupráci s jiným studiem.
+  vyvíjen s pomocí jiného studia.
 importance: 4
 layout: tech_news_article
 original_title: 'Leak Reveals New Details on Halo Combat Evolved Remake: Hybrid Unreal
@@ -24,7 +24,7 @@ url: https://thegamepost.com/leak-reveals-new-details-on-halo-combat-evolved-rem
 urlToImage: https://thegamepost.com/wp-content/uploads/2025/09/leak-reveals-new-details-on-halo-combat-evolved-remake-46.webp
 ---
 
-Nový únik tvrdí, že remake hry Halo Combat Evolved bude používat hybridní technologii Unreal Engine 5 a Blam, bude obsahovat sprint, přepracované mise a je vyvíjen ve spolupráci s jiným studiem.
+Nový únik tvrdí, že remake hry Halo Combat Evolved bude používat hybridní technologii Unreal Engine 5 a Blam, bude obsahovat sprint, přepracované mise a je vyvíjen s pomocí jiného studia.
 
 [Číst původní článek](https://thegamepost.com/leak-reveals-new-details-on-halo-combat-evolved-remake/)
 
