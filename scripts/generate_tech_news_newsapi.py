@@ -602,6 +602,75 @@ Automaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložen�
 
         logger.info("✅ Index stránka vytvořena")
 
+    def generate_daily_pages(self):
+        """Generuje stránky pro každý den s články"""
+        from collections import defaultdict
+
+        # Cesty
+        pages_dir = Path('tech-news')
+
+        # Načíst všechny články a seskupit podle data
+        articles_by_date = defaultdict(list)
+
+        for article_file in self.output_dir.glob('*.md'):
+            with open(article_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Extrahovat front matter
+            if content.startswith('---'):
+                parts = content.split('---', 2)
+                if len(parts) >= 3:
+                    try:
+                        front_matter = yaml.safe_load(parts[1])
+
+                        # Získat datum
+                        date_str = None
+                        if 'publishedAt' in front_matter:
+                            date_obj = datetime.fromisoformat(front_matter['publishedAt'].replace('Z', '+00:00'))
+                            date_str = date_obj.strftime('%Y-%m-%d')
+                        elif 'date' in front_matter:
+                            if isinstance(front_matter['date'], str):
+                                date_obj = datetime.fromisoformat(front_matter['date'].split(' ')[0])
+                            else:
+                                date_obj = front_matter['date']
+                            date_str = date_obj.strftime('%Y-%m-%d')
+
+                        if date_str:
+                            articles_by_date[date_str].append(article_file.name)
+
+                    except Exception as e:
+                        logger.warning(f"⚠️ Chyba při zpracování {article_file.name}: {e}")
+
+        # Vytvořit stránku pro každý den
+        for date_str, articles in articles_by_date.items():
+            # Vytvořit adresář pro tento den
+            day_dir = pages_dir / date_str
+            day_dir.mkdir(parents=True, exist_ok=True)
+
+            # Vytvořit index.md pro tento den
+            index_file = day_dir / 'index.md'
+
+            # Front matter pro denní stránku
+            front_matter = {
+                'layout': 'tech_news_day',
+                'title': f'Technologické zprávy - {date_str}',
+                'date': date_str,
+                'permalink': f'/tech-news/{date_str}/'
+            }
+
+            # Vytvořit obsah stránky
+            content = f"""---
+{yaml.dump(front_matter, default_flow_style=False, allow_unicode=True)}---
+
+<!-- Tato stránka automaticky zobrazuje články z kolekce _tech_news pro datum {date_str} -->
+"""
+
+            # Zapsat soubor
+            with open(index_file, 'w', encoding='utf-8') as f:
+                f.write(content)
+
+            logger.debug(f"📅 Vytvořena denní stránka pro {date_str}")
+
 def main():
     """Hlavní funkce"""
     generator = NewsAPITechNewsGenerator()
@@ -621,6 +690,8 @@ def main():
     success = generator.generate_tech_news()
 
     if success:
+        # Generovat denní archivní stránky
+        generator.generate_daily_pages()
         logger.info("🎉 Generování tech-news z NewsAPI dokončeno")
     else:
         logger.error("💥 Generování tech-news z NewsAPI selhalo")
