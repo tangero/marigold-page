@@ -6,4 +6,3 @@ title: Technologické zprávy - 2025-09-28
 ---
 
 <!-- Tato stránka automaticky zobrazuje články z kolekce _tech_news pro datum 2025-09-28 -->
-<!-- Layout tech_news_day se postará o zobrazení článků -->

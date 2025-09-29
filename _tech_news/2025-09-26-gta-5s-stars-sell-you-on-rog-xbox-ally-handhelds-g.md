@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Hvězdy GTA 5 vás přesvědčují o herních zařízeních ROG Xbox Ally
+title: Hvězdy GTA 5 vás přesvědčují o ROG Xbox Ally přenosných zařízeních
 url: https://www.gamespot.com/articles/gta-5s-stars-sell-you-on-rog-xbox-ally-handhelds/1100-6535054/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4575756-rogxboxally.jpg
 ---
