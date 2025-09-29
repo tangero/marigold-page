@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Billboard
-title: 'Morgan Wallen se připravuje v novém upoutávce k traileru ''Battlefield 6'':
-  ''Jo, jsem problém'
+title: 'Morgan Wallen se připravuje v novém upoutávkovém traileru ''Battlefield 6'':
+  ''Ano, jsem problém'
 url: http://www.billboard.com/music/music-news/morgan-wallen-battlefield-6-live-action-trailer-teaser-1236077171/
 urlToImage: https://www.billboard.com/wp-content/uploads/2025/08/morgan-wallen-darius-and-friends-benefit-2025-billboard-1800.jpg?w=1024
 ---

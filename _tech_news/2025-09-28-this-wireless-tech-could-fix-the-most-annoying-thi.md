@@ -1,8 +1,7 @@
 ---
 category: bezdrátová technolog
 date: '2025-09-28 10:00:04'
-description: Úzkost z dosahu Bluetooth bezdrátových sluchátek by brzy mohla být věcí
-  minulosti.
+description: Úzkost z dosahu Bluetooth bezdrátových sluchátek by brzy mohla být minulostí.
 importance: 2
 layout: tech_news_article
 original_title: This Wireless Tech Could Fix the Most Annoying Thing About Using Wireless
@@ -19,7 +18,7 @@ url: https://gizmodo.com/this-wireless-tech-could-fix-the-most-annoying-thing-ab
 urlToImage: https://gizmodo.com/app/uploads/2025/09/Xiaomi-Buds-5-Pro-XPAN-1-1200x675.jpg
 ---
 
-Úzkost z dosahu Bluetooth bezdrátových sluchátek by brzy mohla být věcí minulosti.
+Úzkost z dosahu Bluetooth bezdrátových sluchátek by brzy mohla být minulostí.
 
 [Číst původní článek](https://gizmodo.com/this-wireless-tech-could-fix-the-most-annoying-thing-about-using-wireless-earbuds-at-home-2000664306)
 
