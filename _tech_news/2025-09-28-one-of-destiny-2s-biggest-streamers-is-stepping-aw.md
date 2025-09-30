@@ -22,7 +22,7 @@ source:
   name: Thegamepost.com
 title: 'Jeden z největších streamerů Destiny 2 se odchází uprostřed pokračující frustrace
   hráčů se stavem hry, říká, že je "unavený" z neúprosné toxicity komunity: "Komunita
-  mě vyžene dřív, než to udělá hra'
+  mě vyžene dříve, než to udělá hra'
 url: https://thegamepost.com/destiny-2-biggest-streamers-stepping-away-game-tired-community-toxicity/
 urlToImage: https://thegamepost.com/wp-content/uploads/2025/09/destiny-2-biggest-streamers-stepping-away-game-tired-community-toxicity-5.webp
 ---

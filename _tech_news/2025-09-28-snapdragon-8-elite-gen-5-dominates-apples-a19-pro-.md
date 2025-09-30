@@ -6,7 +6,7 @@ companies:
 date: '2025-09-28 16:27:00'
 description: Xiaomi 17 Pro Max a iPhone 17 Pro Max od Applu jsou v současnosti dvě
   nejvýkonnější smartphony na trhu. Testy hraní her však ukazují, že telefon poháněný
-  čipem Snapdragon 8 Elite Gen 5 má konzistentní výhody v herním výkonu, efektivitě
+  čipem Snapdragon 8 Elite Gen 5 si udržuje konzistentní výhody v herním výkonu, efektivitě
   a...
 importance: 3
 layout: tech_news_article
@@ -24,7 +24,7 @@ url: https://www.notebookcheck.net/Snapdragon-8-Elite-Gen-5-dominates-Apple-s-A1
 urlToImage: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-pro-max-AnRan0420-3.jpg
 ---
 
-Xiaomi 17 Pro Max a iPhone 17 Pro Max od Applu jsou v současnosti dvě nejvýkonnější smartphony na trhu. Testy hraní her však ukazují, že telefon poháněný čipem Snapdragon 8 Elite Gen 5 má konzistentní výhody v herním výkonu, efektivitě a...
+Xiaomi 17 Pro Max a iPhone 17 Pro Max od Applu jsou v současnosti dvě nejvýkonnější smartphony na trhu. Testy hraní her však ukazují, že telefon poháněný čipem Snapdragon 8 Elite Gen 5 si udržuje konzistentní výhody v herním výkonu, efektivitě a...
 
 [Číst původní článek](https://www.notebookcheck.net/Snapdragon-8-Elite-Gen-5-dominates-Apple-s-A19-Pro-in-gaming-tests-aboard-the-Xiaomi-17-Pro-Max.1126322.0.html)
 

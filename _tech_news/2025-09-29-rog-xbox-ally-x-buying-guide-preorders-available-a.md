@@ -5,7 +5,7 @@ companies:
 - Microsoft
 date: '2025-09-29 04:27:29'
 description: Xbox-branded Asus ROG Ally bude uveden na trh 16. října ve dvou různých
-  edicích v cenách 600 USD a 1 000 USD.
+  edicích za cenu 600 USD/1 000 USD.
 importance: 3
 layout: tech_news_article
 original_title: ROG Xbox Ally X Buying Guide - Preorders Available At Best Buy (September
@@ -22,7 +22,7 @@ url: https://www.gamespot.com/articles/rog-xbox-ally-preorder-guide/1100-6535007
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4574329-xboxrogallypreorders.jpg
 ---
 
-Xbox-branded Asus ROG Ally bude uveden na trh 16. října ve dvou různých edicích v cenách 600 USD a 1 000 USD.
+Xbox-branded Asus ROG Ally bude uveden na trh 16. října ve dvou různých edicích za cenu 600 USD/1 000 USD.
 
 [Číst původní článek](https://www.gamespot.com/articles/rog-xbox-ally-preorder-guide/1100-6535007/)
 
