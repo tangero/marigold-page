@@ -11,8 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Gear Patrol
-title: Jedenáct skvělých nových technologických vymožeností, které byste měli mít
-  na paměti
+title: Jedenáct skvělých nových zařízení, která byste měli mít na radaru
 url: https://www.gearpatrol.com/audio/best-new-tech-releases-9-28-2025/
 urlToImage: https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/09/KEF-Muo-speaker-lead_d2ec64.webp
 ---

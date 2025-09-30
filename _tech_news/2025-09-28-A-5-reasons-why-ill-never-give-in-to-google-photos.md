@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: Android Police
-title: Pět důvodů, proč se nikdy nevzdám Google Photos - a proč mě tato náhrada zcela
+title: Pět důvodů, proč nikdy nepřejdu na Google Photos - a proč mě tato náhrada zcela
   okouzlila
 url: https://www.androidpolice.com/reasons-replace-google-photos/
 urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/06/a-man-leaning-against-a-wall-using-his-phone-surrounded-by-photo-memories-from-google-photos-with-the-logo-at-the-center.jpg?w=1600&h=900&fit=crop

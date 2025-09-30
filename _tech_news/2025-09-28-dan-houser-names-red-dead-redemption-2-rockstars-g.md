@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Rockstar Games
 date: '2025-09-28 14:32:38'
-description: Rockstar Games za roky dodal řadu nezapomenutelných hitů, od zjevného
+description: Rockstar Games za roky dodala řadu nezapomenutelných hitů, od zjevného
   giganta Grand Theft Auto po kultovní favority jako Bully a dokonce i Table Tennis.
 importance: 3
 layout: tech_news_article
@@ -17,12 +17,12 @@ source:
   emoji: 📰
   id: null
   name: Gamereactor UK
-title: Rockstar's Greatest Achievement
+title: Rockstar dosáhla svého největšího úspěchu s Red Dead Redemption 2
 url: https://www.gamereactor.eu/dan-houser-names-red-dead-redemption-2-rockstars-greatest-achievement-1608963/
 urlToImage: https://www.gamereactor.eu/media/41/_4574193b.jpg
 ---
 
-Rockstar Games za roky dodal řadu nezapomenutelných hitů, od zjevného giganta Grand Theft Auto po kultovní favority jako Bully a dokonce i Table Tennis.
+Rockstar Games za roky dodala řadu nezapomenutelných hitů, od zjevného giganta Grand Theft Auto po kultovní favority jako Bully a dokonce i Table Tennis.
 
 [Číst původní článek](https://www.gamereactor.eu/dan-houser-names-red-dead-redemption-2-rockstars-greatest-achievement-1608963/)
 

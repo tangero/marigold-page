@@ -3,8 +3,8 @@ category: herní průmysl
 date: '2025-09-28 16:03:08'
 description: 'Vydavatelé Warner Bros. Games a Atari a vývojáři Nightdive Studios a
   Monolith Productions oznámili Blood: Refreshed Supply pro PlayStation 5, Xbox Series,
-  Switch 2, PlayStation 4, Xbox One a PC. Tato aktualizovaná verze kultovní střílečky
-  z první osoby z roku 1997 nabídne vylepšenou grafiku, rozšířený obsah a další vylepšení
+  Switch 2, PlayStation 4, Xbox One a PC. Tato aktualizovaná verze kultovní FPS hry
+  Blood z roku 1997 nabídne vylepšenou grafiku, optimalizovaný výkon a další vylepšení
   pro moderní platformy.'
 importance: 3
 layout: tech_news_article
@@ -22,7 +22,7 @@ url: https://www.gematsu.com/2025/09/blood-refreshed-supply-announced-for-ps5-xb
 urlToImage: https://www.gematsu.com/wp-content/uploads/2025/09/Blood-Ann_09-28-25.jpg
 ---
 
-Vydavatelé Warner Bros. Games a Atari a vývojáři Nightdive Studios a Monolith Productions oznámili Blood: Refreshed Supply pro PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One a PC. Tato aktualizovaná verze kultovní střílečky z první osoby z roku 1997 nabídne vylepšenou grafiku, rozšířený obsah a další vylepšení pro moderní platformy.
+Vydavatelé Warner Bros. Games a Atari a vývojáři Nightdive Studios a Monolith Productions oznámili Blood: Refreshed Supply pro PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One a PC. Tato aktualizovaná verze kultovní FPS hry Blood z roku 1997 nabídne vylepšenou grafiku, optimalizovaný výkon a další vylepšení pro moderní platformy.
 
 [Číst původní článek](https://www.gematsu.com/2025/09/blood-refreshed-supply-announced-for-ps5-xbox-series-switch-2-ps4-xbox-one-switch-and-pc)
 

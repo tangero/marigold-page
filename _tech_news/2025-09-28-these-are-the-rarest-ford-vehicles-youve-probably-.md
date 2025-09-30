@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Jalopnik
-title: Toto jsou nejřidší vozidla Fordu, o kterých jste pravděpodobně nikdy neslyšeli
+title: Toto jsou nejřidší Fordova vozidla, o kterých jste pravděpodobně nikdy neslyšeli
 url: https://www.jalopnik.com/1976913/rarest-ford-vehicles-never-heard-of/
 urlToImage: https://www.jalopnik.com/img/gallery/these-are-the-rarest-ford-vehicles-youve-probably-never-heard-of/l-intro-1758655014.jpg
 ---

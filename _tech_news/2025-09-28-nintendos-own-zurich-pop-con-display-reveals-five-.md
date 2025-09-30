@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Pět her Lego dostává porty pro Nintendo Switch 2 - podle vlastního stánku Nintendo
-  na Zurich Pop Con
+title: Vlastní Zurich Pop Con display Nintenda odhaluje, že pět Lego her dostane porty
+  na Switch 2
 url: https://www.eurogamer.net/nintendos-own-zurich-pop-con-display-reveals-five-lego-games-are-getting-switch-2-ports
 urlToImage: https://assetsio.gnwcdn.com/assassin's-creed%C2%AE-valhalla.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

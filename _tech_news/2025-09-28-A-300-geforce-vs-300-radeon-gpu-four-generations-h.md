@@ -5,9 +5,9 @@ companies:
 - AMD
 date: '2025-09-28 12:21:00'
 description: Porovnáváme čtyři generace grafických karet GeForce a Radeon v ceně 300
-  dolarů, abychom zjistili, jak se vyvíjelo herní hraní na rozpočtu, od chaosu způsobeného
-  kryptoměnami až po dnešní trh řízený umělou inteligencí, a která karta nyní nabízí
-  nejlepší poměr ceny a výkonu.
+  dolarů, abychom viděli, jak se rozpočtové herní PC vyvíjelo od období ovlivněného
+  kryptoměnami až po dnešní trh poháněný umělou inteligencí, a zjistili, která karta
+  nyní nabízí nejlepší poměr ceny a výkonu.
 importance: 3
 layout: tech_news_article
 original_title: '$300 GeForce vs. $300 Radeon GPU: Four Generations, Head to Head
@@ -23,7 +23,7 @@ url: https://www.techspot.com/review/3035-geforce-vs-radeon-mainstream-generatio
 urlToImage: https://www.techspot.com/articles-info/3035/images/2025-09-27-image.jpg
 ---
 
-Porovnáváme čtyři generace grafických karet GeForce a Radeon v ceně 300 dolarů, abychom zjistili, jak se vyvíjelo herní hraní na rozpočtu, od chaosu způsobeného kryptoměnami až po dnešní trh řízený umělou inteligencí, a která karta nyní nabízí nejlepší poměr ceny a výkonu.
+Porovnáváme čtyři generace grafických karet GeForce a Radeon v ceně 300 dolarů, abychom viděli, jak se rozpočtové herní PC vyvíjelo od období ovlivněného kryptoměnami až po dnešní trh poháněný umělou inteligencí, a zjistili, která karta nyní nabízí nejlepší poměr ceny a výkonu.
 
 [Číst původní článek](https://www.techspot.com/review/3035-geforce-vs-radeon-mainstream-generations/)
 

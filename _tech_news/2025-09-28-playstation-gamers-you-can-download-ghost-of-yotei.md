@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Gamingbible.com
-title: Hráči PlayStationu, můžete si stáhnout Ghost of Yotei právě teď
+title: Hráči PlayStationu, můžete si nyní stáhnout Ghost of Yotei
 url: https://www.gamingbible.com/news/platform/playstation/playstation-gamers-download-ghost-of-yotei-now-229876-20250928
 urlToImage: https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltec312a8ed8a9a169/68d90cd8540e3bad4c31802f/Ghost_of_Yotei_official_image_from_PlayStation_Blog.jpg
 ---
