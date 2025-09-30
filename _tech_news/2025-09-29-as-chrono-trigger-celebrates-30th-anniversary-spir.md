@@ -1,8 +1,8 @@
 ---
-category: retro hry
+category: retro rpg
 date: '2025-09-29 11:28:26'
-description: Retro RPG Threads of Time inspirovaný hrou Chrono Trigger představil
-  nový gameplay trailer, který ukazuje více z jeho časové mechaniky, bojového systému
+description: Retro RPG Threads of Time inspirovaný hrou Chrono Trigger představuje
+  nový gameplay trailer, který ukazuje více z jeho časových mechanik, bojového systému
   a průzkumu světa.
 importance: 4
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://www.eurogamer.net/as-chrono-trigger-celebrates-30th-anniversary-spi
 urlToImage: https://assetsio.gnwcdn.com/Threads-of-Time-gameplay-trailer---PC-Gaming-Show-Tokyo-Direct-1-14-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Retro RPG Threads of Time inspirovaný hrou Chrono Trigger představil nový gameplay trailer, který ukazuje více z jeho časové mechaniky, bojového systému a průzkumu světa.
+Retro RPG Threads of Time inspirovaný hrou Chrono Trigger představuje nový gameplay trailer, který ukazuje více z jeho časových mechanik, bojového systému a průzkumu světa.
 
 [Číst původní článek](https://www.eurogamer.net/as-chrono-trigger-celebrates-30th-anniversary-spiritual-successor-threads-of-time-gets-fresh-gameplay-trailer)
 

@@ -4,7 +4,7 @@ companies:
 - Apple
 - Google
 date: '2025-09-28 21:01:41'
-description: Apple nemá plány na veřejné vydání svého interního chatbotu Veritas a
+description: Apple nemá plány na veřejné vydání svého interního chatbota Veritas a
   pravděpodobně se bude spoléhat na Google Gemini pro AI-poháněné vyhledávání Siri.
 importance: 2
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485663/Siri_new_logo_WWDC_2024.jpg?quality=90&strip=all&crop=0%2C2.2344358700777%2C100%2C95.531128259845&w=1200
 ---
 
-Apple nemá plány na veřejné vydání svého interního chatbotu Veritas a pravděpodobně se bude spoléhat na Google Gemini pro AI-poháněné vyhledávání Siri.
+Apple nemá plány na veřejné vydání svého interního chatbota Veritas a pravděpodobně se bude spoléhat na Google Gemini pro AI-poháněné vyhledávání Siri.
 
 [Číst původní článek](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)
 

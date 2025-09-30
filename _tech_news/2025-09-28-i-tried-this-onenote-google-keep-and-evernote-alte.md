@@ -3,9 +3,10 @@ category: mobilní aplikace
 companies:
 - Google
 date: '2025-09-28 17:14:00'
-description: Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Obsahuje
-  funkce jako handwritten notes, audio nahrávání, integraci s cloud úložišti a další
-  pokročilé možnosti. Aplikace je dostupná pro iOS a Android.
+description: Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Nabízí
+  intuitivní rozhraní, pokročilé funkce, jako jsou Markdown, vkládání obrázků a souborů,
+  a synchronizaci mezi zařízeními prostřednictvím cloudového úložiště. Aplikace je
+  dostupná na různých platformách a je bezplatná pro osobní použití.
 importance: 3
 layout: tech_news_article
 original_title: I tried this OneNote, Google Keep, and Evernote alternative on Android
@@ -22,7 +23,7 @@ url: https://www.androidpolice.com/tried-onenote-google-keep-evernote-alternativ
 urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/reasons-to-use-hypernotes-on-android.png?w=1600&h=900&fit=crop
 ---
 
-Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Obsahuje funkce jako handwritten notes, audio nahrávání, integraci s cloud úložišti a další pokročilé možnosti. Aplikace je dostupná pro iOS a Android.
+Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Nabízí intuitivní rozhraní, pokročilé funkce, jako jsou Markdown, vkládání obrázků a souborů, a synchronizaci mezi zařízeními prostřednictvím cloudového úložiště. Aplikace je dostupná na různých platformách a je bezplatná pro osobní použití.
 
 [Číst původní článek](https://www.androidpolice.com/tried-onenote-google-keep-evernote-alternative-on-android/)
 

@@ -3,8 +3,8 @@ category: nositelná elektronik
 companies:
 - Meta
 date: '2025-09-28 16:01:06'
-description: Nový Wayfarer (Gen 2) brýle od Mety ukazují, které problémy z první generace
-  Meta vyřešila a s čím si budete stále muset poradit.
+description: Moje týdenní zkušenost s brýlemi Wayfarer (Gen 2) ukazuje, které problémy
+  první generace Meta opravila a se kterými si budete stále muset poradit.
 importance: 4
 layout: tech_news_article
 original_title: 'One week with the new Ray-Ban Meta Gen 2 glasses: Great changes,
@@ -20,7 +20,7 @@ url: https://www.androidcentral.com/wearables/ray-ban-meta-gen-2-hands-on-impres
 urlToImage: https://cdn.mos.cms.futurecdn.net/jeoNejAeVxk9e9s8Fm9bn.jpg
 ---
 
-Nový Wayfarer (Gen 2) brýle od Mety ukazují, které problémy z první generace Meta vyřešila a s čím si budete stále muset poradit.
+Moje týdenní zkušenost s brýlemi Wayfarer (Gen 2) ukazuje, které problémy první generace Meta opravila a se kterými si budete stále muset poradit.
 
 [Číst původní článek](https://www.androidcentral.com/wearables/ray-ban-meta-gen-2-hands-on-impressions)
 
