@@ -3,9 +3,9 @@ category: automobilový průmysl
 companies:
 - Apple
 date: '2025-09-29 14:00:00'
-description: Ford CEO Jim Farley kritizoval "provedení" nové rozšířené verze Apple
-  CarPlay Ultra, argumentujíc, že věci by se mohly stát "nepořádkem", pokud by bylo
-  povoleno přepsat základní funkce vozidla.
+description: Ford CEO Jim Farley kritizoval "provedení" nové rozšířené verze CarPlay
+  Ultra od Applu, argumentujíc, že věci by se mohly stát "nepořádnými", pokud by bylo
+  povoleno přebírat základní funkce vozidla.
 importance: 4
 layout: tech_news_article
 original_title: Ford’s CEO isn’t impressed with Apple CarPlay Ultra - The Verge
@@ -22,7 +22,7 @@ url: https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carpla
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-CarPlay-Ultra-instrument-cluster-themes-04.jpg?quality=90&strip=all&crop=0%2C3.4530397026953%2C100%2C93.093920594609&w=1200
 ---
 
-Ford CEO Jim Farley kritizoval "provedení" nové rozšířené verze Apple CarPlay Ultra, argumentujíc, že věci by se mohly stát "nepořádkem", pokud by bylo povoleno přepsat základní funkce vozidla.
+Ford CEO Jim Farley kritizoval "provedení" nové rozšířené verze CarPlay Ultra od Applu, argumentujíc, že věci by se mohly stát "nepořádnými", pokud by bylo povoleno přebírat základní funkce vozidla.
 
 [Číst původní článek](https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder)
 

@@ -13,7 +13,7 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: Jak používat správce hesel ke sdílení přihlašovacích údajů po své smrti
+title: Jak používat správce hesel pro sdílení přihlašovacích údajů po vaší smrti (2025)
 url: https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/
 urlToImage: https://media.wired.com/photos/68d890b2a211ba82202f40d3/191:100/w_1280,c_limit/How%20to%20Use%20a%20Password%20Manager%20to%20Share%20Your%20Logins%20After%20You%20Die.png
 ---

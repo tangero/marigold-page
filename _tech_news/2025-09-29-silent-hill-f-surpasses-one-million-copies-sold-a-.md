@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: GamesIndustry.biz
-title: Hra Silent Hill f překročila milion prodaných kopií den po vydání
+title: Tichý kopec f překročil prodej jednoho milionu kopií, den po vydání
 url: https://www.gamesindustry.biz/silent-hill-f-surpasses-one-million-copies-sold-a-day-after-release-news-in-brief
 urlToImage: https://assetsio.gnwcdn.com/ss_93e420a6665b42229735a3495b86bd35b7cb8c53.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

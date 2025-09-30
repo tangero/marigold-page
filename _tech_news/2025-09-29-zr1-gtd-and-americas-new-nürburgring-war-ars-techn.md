@@ -12,7 +12,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Corvette ZR1, GTD třída a nová Nürburgring válka v Americe
+title: Corvette ZR1, GTD a nová Nürburgring válka v Americe - Ars Technica
 url: https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/2024Ford_Mustang-GTD_RoadToTheRing_28-1152x648.jpg
 ---
