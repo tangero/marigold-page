@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Gamereactor UK
-title: Rockstar dosáhl svého největšího úspěchu s Red Dead Redemption 2
+title: Rockstar's Greatest Achievement
 url: https://www.gamereactor.eu/dan-houser-names-red-dead-redemption-2-rockstars-greatest-achievement-1608963/
 urlToImage: https://www.gamereactor.eu/media/41/_4574193b.jpg
 ---

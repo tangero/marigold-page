@@ -4,21 +4,19 @@ date: '2025-09-28 04:30:00'
 description: 'Zde je vše, co bylo oznámeno:
 
 
-  Společnost představila novou generaci svých vlajkových smartphonů. Modely jsou vybaveny
-  pokročilými 5G čipy, OLED displeji s vysokou obnovovací frekvencí a vylepšenými
-  fotoaparáty s podporou HDR a nočního režimu. Zařízení také nabízejí bezdrátové nabíjení
-  a IP68 odolnost proti vodě a prachu. Operační systém je založen na nejnovější verzi
-  Androidu s přidanými vlastními funkcemi a optimalizacemi.
+  Společnost představila novou generaci svého vlajkového smartphonu. Zařízení je vybaveno
+  pokročilým 5nm čipsetem, 120Hz OLED displejem a vylepšeným fotoaparátovým systémem
+  se čtyřmi senzory. Telefon podporuje 5G konektivitu a nabízí až 12 GB RAM a 512
+  GB úložiště. Baterie má kapacitu 5000 mAh a podporuje rychlé 65W drátové a 30W bezdrátové
+  nabíjení.
 
 
-  Kromě toho společnost představila nový model tabletu s větším displejem, vylepšeným
-  výkonem a delší výdrží baterie. Tablet je určen pro práci, zábavu a multitasking.
-  Podporuje také stylus pro anotace a kreslení.
+  Kromě toho společnost představila nový tablet s 11" 120Hz displejem, výkonným čipsetem
+  a dlouhou výdrží baterie. Tablet je určen pro práci i zábavu a podporuje stylus.
 
 
-  Dále byla představena nová generace true wireless sluchátek s vylepšenou kvalitou
-  zvuku, aktivní redukcí hluku a prodlouženou výdrží baterie. Sluchátka jsou kompatibilní
-  s asistenty jako Google Assistant a Amazon Alexa.'
+  Společnost také oznámila nové true wireless sluchátka s pokročilými audio funkcemi,
+  jako je aktivní potlačení hluku a prostorový zvuk.'
 importance: 4
 layout: tech_news_article
 original_title: 'Round Up: Minecraft Live (September 2025) - New Drops, Mobs, Weapons,
@@ -29,19 +27,19 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: 'Souhrn: Minecraft Live (září 2025) - Nové předměty, monstři, zbraně, DLC a
-  další - Nintendo Life'
+title: 'Souhrn: Minecraft Live (září 2025) - Nové předměty, mobilní nepřátelé, zbraně,
+  DLC a další - Nintendo Life'
 url: https://www.nintendolife.com/news/2025/09/round-up-minecraft-live-september-2025-new-drops-mobs-weapons-dlc-and-more
 urlToImage: https://images.nintendolife.com/5d2f1b6ba6dc0/large.jpg
 ---
 
 Zde je vše, co bylo oznámeno:
 
-Společnost představila novou generaci svých vlajkových smartphonů. Modely jsou vybaveny pokročilými 5G čipy, OLED displeji s vysokou obnovovací frekvencí a vylepšenými fotoaparáty s podporou HDR a nočního režimu. Zařízení také nabízejí bezdrátové nabíjení a IP68 odolnost proti vodě a prachu. Operační systém je založen na nejnovější verzi Androidu s přidanými vlastními funkcemi a optimalizacemi.
+Společnost představila novou generaci svého vlajkového smartphonu. Zařízení je vybaveno pokročilým 5nm čipsetem, 120Hz OLED displejem a vylepšeným fotoaparátovým systémem se čtyřmi senzory. Telefon podporuje 5G konektivitu a nabízí až 12 GB RAM a 512 GB úložiště. Baterie má kapacitu 5000 mAh a podporuje rychlé 65W drátové a 30W bezdrátové nabíjení.
 
-Kromě toho společnost představila nový model tabletu s větším displejem, vylepšeným výkonem a delší výdrží baterie. Tablet je určen pro práci, zábavu a multitasking. Podporuje také stylus pro anotace a kreslení.
+Kromě toho společnost představila nový tablet s 11" 120Hz displejem, výkonným čipsetem a dlouhou výdrží baterie. Tablet je určen pro práci i zábavu a podporuje stylus.
 
-Dále byla představena nová generace true wireless sluchátek s vylepšenou kvalitou zvuku, aktivní redukcí hluku a prodlouženou výdrží baterie. Sluchátka jsou kompatibilní s asistenty jako Google Assistant a Amazon Alexa.
+Společnost také oznámila nové true wireless sluchátka s pokročilými audio funkcemi, jako je aktivní potlačení hluku a prostorový zvuk.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/09/round-up-minecraft-live-september-2025-new-drops-mobs-weapons-dlc-and-more)
 

@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Televizor, který neustále zobrazuje reklamy - bezplatný Telly
+title: Televizor, který neustále zobrazuje reklamy - Telly, bezplatná televizní služba
 url: https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257821_Telly_ERoth_0022.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

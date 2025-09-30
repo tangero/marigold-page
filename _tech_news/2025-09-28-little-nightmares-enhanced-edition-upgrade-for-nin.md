@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-28 01:30:00'
-description: Bandai Namco vysvětluje, proč upgrade na Little Nightmares Enhanced Edition
-  zdarma nebude k dispozici pro hráče na Nintendo Switch.
+description: Bandai Namco vysvětluje, proč nebude pro hráče na Nintendo Switch k dispozici
+  bezplatná aktualizace na Little Nightmares Enhanced Edition.
 importance: 3
 layout: tech_news_article
 original_title: Little Nightmares Enhanced Edition upgrade for Nintendo Switch players
@@ -19,7 +19,7 @@ url: https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-up
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Little-Nightmares-Enhanced-Edition-Nintendo-Switch-upgrade-scaled.jpg
 ---
 
-Bandai Namco vysvětluje, proč upgrade na Little Nightmares Enhanced Edition zdarma nebude k dispozici pro hráče na Nintendo Switch.
+Bandai Namco vysvětluje, proč nebude pro hráče na Nintendo Switch k dispozici bezplatná aktualizace na Little Nightmares Enhanced Edition.
 
 [Číst původní článek](https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-upgrade/)
 

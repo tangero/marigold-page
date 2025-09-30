@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: Trpělivost se mi vyplatila pro nadcházející DLC hry Borderlands 4 - Vault Hunter
-  je někdo, kým se konečně zajímám hrát
+title: Trpělivost se mi vyplatila pro nadcházející DLC Borderlands 4 - Vault Hunter,
+  kterého se konečně těším si zahrát
 url: https://www.windowscentral.com/gaming/borderlands-4s-1st-dlc-vault-hunter-has-been-revealed
 urlToImage: https://cdn.mos.cms.futurecdn.net/FGzzKk7McmqBtvSbScecwR.jpg
 ---
