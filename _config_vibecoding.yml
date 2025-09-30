@@ -105,7 +105,6 @@ sass:
 # Pluginy
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
 
