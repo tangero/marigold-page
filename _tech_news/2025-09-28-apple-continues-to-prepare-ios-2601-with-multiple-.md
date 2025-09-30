@@ -15,7 +15,8 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Společnost Apple pokračuje v přípravě iOS 26.0.1 s očekávanými opravami chyb
+title: Společnost Apple pokračuje v přípravě aktualizace iOS 26.0.1 s očekávanými
+  opravami chyb
 url: https://www.macrumors.com/2025/09/28/ios-26-0-1-what-to-expect/
 urlToImage: https://images.macrumors.com/t/QJs0KuD-HEuIAd8ioge9O3lG8As=/2500x/article-new/2025/09/iOS-26.0.1-Feature.jpg
 ---

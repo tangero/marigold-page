@@ -1,5 +1,5 @@
 ---
-category: simulátor závodění
+category: herní simulátor
 date: '2025-09-28 15:00:00'
 description: Nový závodní simulátor britského výrobce Prodrive slouží zároveň jako
   luxusní nábytek a poskytuje překvapivě realistický zážitek. Vyzkoušeli jsme ho.
@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Robb Report
-title: Stylový nový závodní simulátor od Prodrive je příliš elegantní, než aby se
-  skrýval v garáži
+title: Stylový nový závodní simulátor Prodrive je příliš elegantní na to, aby se skrýval
+  v garáži
 url: http://robbreport.com/gear/electronics/prodrive-2025-racing-simulator-review-1237029114/
 urlToImage: https://robbreport.com/wp-content/uploads/2025/09/Prodrive_Racing_Simulator_Exterior.jpg?w=681&h=383&crop=1
 ---
