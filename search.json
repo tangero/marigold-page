@@ -26537,6 +26537,15 @@
   
     
     ,{
+      "title"    : "Technologické zprávy - 2025-09-29",
+      "url"      : "/tech-news/2025-09-29/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
       "title"    : "Technologické zprávy - 2025-09-28",
       "url"      : "/tech-news/2025-09-28/",
       "category" : "stránka",
@@ -30194,7 +30203,7 @@
         "title"    : "YouTube (GOOGL) testuje AI hudební moderátory pro prémiové uživatele, míří na Spotify (SPOT)",
         "url"      : "/tech-news/youtube-googl-tests-ai-music-hosts-for-premium-use/",
         "category" : "tech_news",
-        "content"  : "Alphabet’s YouTube ($GOOGL) ($GOOG) spustil nový experiment, který staví AI do středu své hudební aplikace. Program nazvaný YouTube Labs bude fungovat jako laboratoř, kde uživatelé mohou testovat nové AI-driven funkce a nástroje pro hudební tvorbu a objevování.Číst původní článekZdroj: 📰 Tipranks.com"
+        "content"  : "Alphabet’s YouTube ($GOOGL) ($GOOG) spustil nový experiment, který staví AI do středu své hudební aplikace. Program nazvaný YouTube Labs bude fungovat jako laboratoř, kde uživatelé mohou testovat a poskytovat zpětnou vazbu k novým funkcím poháněným umělou inteligencí.Číst původní článekZdroj: 📰 Tipranks.com"
       }
       
       ,{
@@ -30236,7 +30245,7 @@
         "title"    : "Grafická karta GeForce vs. Radeon za $300: Čtyři generace, hlava proti hlavě",
         "url"      : "/tech-news/a-300-geforce-vs-300-radeon-gpu-four-generations-h/",
         "category" : "tech_news",
-        "content"  : "Porovnáváme čtyři generace grafických karet GeForce a Radeon v ceně 300 dolarů, abychom viděli, jak se rozpočtové herní PC vyvíjelo od období ovlivněného kryptoměnami až po dnešní trh poháněný umělou inteligencí, a zjistili, která karta nyní nabízí nejlepší poměr ceny a výkonu.Číst původní článekZdroj: 📰 TechSpot"
+        "content"  : "Porovnáváme čtyři generace grafických karet GeForce a Radeon v ceně 300 dolarů, abychom zjistili, jak se vyvíjelo rozpočtové herní hraní, od chaosu způsobeného kryptoměnami až po dnešní trh řízený umělou inteligencí, a která karta nyní nabízí nejlepší poměr ceny a výkonu.Číst původní článekZdroj: 📰 TechSpot"
       }
       
       ,{
@@ -30254,24 +30263,24 @@
       }
       
       ,{
-        "title"    : "Dvanáct věcí, které byste měli okamžitě vyhodit ze své ložnice",
+        "title"    : "Dvanáct věcí, které byste měli vyhodit ze své ložnice hned teď",
         "url"      : "/tech-news/a-12-things-to-toss-from-your-bedroom-right-now-so/",
         "category" : "tech_news",
-        "content"  : "Z regálů a přeplněných komód až po osvětlení a soupravy nábytku, toto jsou věci, které podle jižanských designérů nastal čas odložit nebo vyměnit v ložnici pro místo klidu a odpočinku.Číst původní článekZdroj: 📰 Southernliving.com"
+        "content"  : "Z knihovniček a přeplněných komód až po osvětlení a soupravy nábytku, toto jsou věci, které podle jižanských designérů je čas odejít nebo nahradit v ložnici pro místo klidu a odpočinku.Číst původní článekZdroj: 📰 Southernliving.com"
       }
       
       ,{
-        "title"    : "Televizor, který neustále zobrazuje reklamy - Telly, bezplatný televizor",
+        "title"    : "Televizor, který neustále ukazuje reklamy - bezplatný Telly",
         "url"      : "/tech-news/i-spent-three-months-with-telly-the-free-tv-thats/",
         "category" : "tech_news",
         "content"  : "Telly je společnost, která nabízí bezplatnou chytrou televizi výměnou za reklamy, které neustále zobrazuje na sekundárním displeji. Televizi jsem používal několik posledních měsíců a toto jsem zjistil.Číst původní článekZdroj: ⚡ The Verge"
       }
       
       ,{
-        "title"    : "Jsem fitness expert CNET a toto jsou 9 fitness technologických položek, kterým věřím",
+        "title"    : "Jsem fitness expert CNET a toto jsou 9 fitness technologických položek, na kterých trvám",
         "url"      : "/tech-news/im-cnets-resident-fitness-expert-and-these-are-the/",
         "category" : "tech_news",
-        "content"  : "Otestoval/a jsem spoustu fitness technologií a toto jsou jediné, které jsem zatím opravdu miloval/a.Číst původní článekZdroj: 📰 CNET"
+        "content"  : "Otestoval/a jsem opravdu velké množství fitness technologií a zatím jsem si oblíbil/a pouze tyto.Číst původní článekZdroj: 📰 CNET"
       }
       
       ,{
@@ -30282,28 +30291,49 @@
       }
       
       ,{
+        "title"    : "Největší studie svého druhu odhaluje geny stojící za dyslexií",
+        "url"      : "/tech-news/largest-study-of-its-kind-reveals-the-genes-behind/",
+        "category" : "tech_news",
+        "content"  : "Rozsáhlá studie zahrnující genetická data z více než 1,2 milionu lidí identifikovala více než tucet nových genových oblastí spojených s dyslexií.Číst původní článekZdroj: 📰 ScienceAlert"
+      }
+      
+      ,{
         "title"    : "Konec základní části sezóny 2025",
         "url"      : "/tech-news/game-162-preview-end-of-2025-regular-season-schedu/",
         "category" : "tech_news",
-        "content"  : "Tygři mohou vstoupit do play-off s vítěznou notou?Číst původní článekZdroj: 📰 Bless You Boys"
+        "content"  : "Tygři mohou vstoupit do vyřazovací části sezóny s vítěznou notou?Číst původní článekZdroj: 📰 Bless You Boys"
       }
       
       ,{
         "title"    : "Spoluzakladatel Rockstaru Dan Houser se otevřel o Bully 2: &quot;Nemůžete dělat všechny projekty, které chcete",
         "url"      : "/tech-news/rockstar-co-founder-dan-houser-opens-up-on-bully-2/",
         "category" : "tech_news",
-        "content"  : "Rockstar spoluzakladatel Dan Houser promluvil o tom, proč jsme nikdy nedostali pokračování Bully z roku 2006.Číst původní článekZdroj: 📰 Eurogamer.net"
+        "content"  : "Rockstar spoluzakladatel Dan Houser promluvil o tom, proč jsme nikdy nedostali pokračování hry Bully z roku 2006.Číst původní článekZdroj: 📰 Eurogamer.net"
+      }
+      
+      ,{
+        "title"    : "Capcom oznamuje, že finále Capcom Cupu 12 bude placená událost na streamování",
+        "url"      : "/tech-news/capcom-announces-that-capcom-cup-12-finals-stream/",
+        "category" : "tech_news",
+        "content"  : "Blížíme se ke konci dvanácté sezóny Capcom Pro Tour. Capcom Cup 12 je naplánován na 11. března 2026 až 14. března 2026. Událost bude mít celkovou výši výher 1 282 000 $.Číst původní článekZdroj: 📰 EventHubs"
       }
       
       ,{
         "title"    : "Cesta prvního pacienta Neuralinku 18 měsíců po implantaci mozkového čipu",
         "url"      : "/tech-news/a-18-months-after-his-brain-chip-implant-neuralink/",
         "category" : "tech_news",
-        "content"  : "Tento článek popisuje nejnovější trendy v oblasti umělé inteligence (AI) a strojového učení (ML). Hlavní důraz je kladen na rozvoj generativních AI modelů, jako jsou GPT-3 a DALL-E, které umožňují generovat text, obrázky a další obsah. Dále jsou diskutovány pokroky v oblasti reinforcement learningu, transfer learningu a multimodálních AI systémů. Článek také zmiňuje etické výzvy spojené s rozvojem těchto technologií a potřebu zodpovědného přístupu k jejich vývoji a nasazení.Číst původní článekZdroj: 📰 Valleyvanguardonline.com"
+        "content"  : "Tento článek popisuje novou technologii, která umožňuje efektivnější a ekologičtější výrobu vodíku. Klíčovými body jsou:Využití elektrochemické reakce k produkci vodíku z vody a elektřiny. Tato metoda je šetrnější k životnímu prostředí než konvenční parní reformování zemního plynu.Použití inovativních katalyzátorů a materiálů, které zvyšují účinnost a snižují náklady výroby vodíku.Potenciál této technologie přispět k rozvoji vodíkového hospodářství a snížení emisí skleníkových plynů.Číst původní článekZdroj: 📰 Valleyvanguardonline.com"
       }
       
       ,{
-        "title"    : "Rockstar dosáhla svého největšího úspěchu s Red Dead Redemption 2",
+        "title"    : "Přechod AMD od SERDES k &quot;moři drátů&quot; pro propojení čipů v procesorech Zen 6nté generace, což přinese významné zlepšení energetické účinnosti a latence",
+        "url"      : "/tech-news/amd-to-pivot-from-serdes-to-a-sea-of-wires-d2d-int/",
+        "category" : "tech_news",
+        "content"  : "AMD plánuje masivní zlepšení s propojením D2D (die-to-die) na Zen 6 a náhled na to už byl vidět u APU Strix Halo.Číst původní článekZdroj: 📰 Wccftech"
+      }
+      
+      ,{
+        "title"    : "Rockstar&#39;s Greatest Achievement",
         "url"      : "/tech-news/dan-houser-names-red-dead-redemption-2-rockstars-g/",
         "category" : "tech_news",
         "content"  : "Rockstar Games za roky dodala řadu nezapomenutelných hitů, od zjevného giganta Grand Theft Auto po kultovní favority jako Bully a dokonce i Table Tennis.Číst původní článekZdroj: 📰 Gamereactor UK"
@@ -30317,7 +30347,7 @@
       }
       
       ,{
-        "title"    : "Stylový nový závodní simulátor od Prodrive je příliš elegantní, než aby se skrýval v garáži",
+        "title"    : "Stylový nový závodní simulátor Prodrive je příliš elegantní na to, aby se skrýval v garáži",
         "url"      : "/tech-news/prodrives-sleek-new-racing-simulator-is-too-stylis/",
         "category" : "tech_news",
         "content"  : "Nový závodní simulátor britského výrobce Prodrive slouží zároveň jako luxusní nábytek a poskytuje překvapivě realistický zážitek. Vyzkoušeli jsme ho.Číst původní článekZdroj: 📰 Robb Report"
@@ -30338,7 +30368,7 @@
       }
       
       ,{
-        "title"    : "Mám problém s dosažením vyvrcholení. Řešení je přímo před obličejem mé ženy... a přesto!",
+        "title"    : "Mám potíže s dosažením vyvrcholení. Řešení je přímo před obličejem mé ženy ... a přesto!",
         "url"      : "/tech-news/im-having-a-hard-time-climaxing-the-solution-is-ri/",
         "category" : "tech_news",
         "content"  : "Není to ani tak těžké udělat!Číst původní článekZdroj: 📰 Slate Magazine"
@@ -30355,7 +30385,7 @@
         "title"    : "Týden s novými brýlemi Ray-Ban Meta Gen 2: Skvělé změny, staré problémy",
         "url"      : "/tech-news/one-week-with-the-new-ray-ban-meta-gen-2-glasses-g/",
         "category" : "tech_news",
-        "content"  : "Moje týden s brýlemi Wayfarer (Gen 2) ukazuje, které problémy první generace Meta opravila a se kterými si budete stále muset poradit.Číst původní článekZdroj: 📰 Android Central"
+        "content"  : "Moje týden s brýlemi Wayfarer (Gen 2) ukazuje, které problémy první generace Meta vyřešila a se kterými si stále budete muset poradit.Číst původní článekZdroj: 📰 Android Central"
       }
       
       ,{
@@ -30366,7 +30396,7 @@
       }
       
       ,{
-        "title"    : "Sonic Racing: CrossWorlds recenze pro Nintendo Switch",
+        "title"    : "Recenze Sonic Racing: CrossWorlds pro Nintendo Switch",
         "url"      : "/tech-news/sonic-racing-crossworlds-review-for-nintendo-switc/",
         "category" : "tech_news",
         "content"  : "Podíváme se na nejnovější závodní výlet Sonika, Sonic Racing: CrossWorlds, v této recenzi. Jak si vede na Nintendo Switch?Číst původní článekZdroj: 📰 Nintendoeverything.com"
@@ -30376,7 +30406,7 @@
         "title"    : "Krev: Obnovená dodávka oznámena pro PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch a PC",
         "url"      : "/tech-news/blood-refreshed-supply-announced-for-ps5-xbox-seri/",
         "category" : "tech_news",
-        "content"  : "Vydavatelé Warner Bros. Games a Atari a vývojáři Nightdive Studios a Monolith Productions oznámili Blood: Refreshed Supply pro PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One a PC. Tato aktualizovaná verze kultovní FPS hry Blood z roku 1997 nabídne vylepšenou grafiku, optimalizovaný výkon a další vylepšení pro moderní platformy.Číst původní článekZdroj: 📰 Gematsu"
+        "content"  : "Vydavatelé Warner Bros. Games a Atari a vývojáři Nightdive Studios a Monolith Productions oznámili Blood: Refreshed Supply pro PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One a PC. Tato aktualizovaná verze kultovní FPS hry Blood z roku 1997 nabídne vylepšenou grafiku, vylepšený gameplay a přidané moderní funkce.Číst původní článekZdroj: 📰 Gematsu"
       }
       
       ,{
@@ -30387,17 +30417,24 @@
       }
       
       ,{
-        "title"    : "Blizzard musí odložit &quot;super vysoká&quot; očekávání od Diablo 4, aby se mohl posunout vpřed, říká tvůrce série David Brevik",
+        "title"    : "Blizzard musí odložit &quot;super vysoká&quot; očekávání ohledně Diablo 4, aby se mohl posunout vpřed, říká tvůrce série David Brevik",
         "url"      : "/tech-news/blizzard-has-to-put-aside-diablo-4s-super-high-exp/",
         "category" : "tech_news",
         "content"  : "Diablo co-creator David Brevik hovoří o výzvách, kterým čelí Diablo 4 v současnosti, a zda se mu líbí zachování Diablo 2 Resurrected.Číst původní článekZdroj: 📰 PCGamesN"
       }
       
       ,{
+        "title"    : "Nitky času – Trailer a snímky obrazovky z TGS 2025",
+        "url"      : "/tech-news/threads-of-time-tgs-2025-trailer-screenshots-gemat/",
+        "category" : "tech_news",
+        "content"  : "Vydavatel Humble Games a vývojář Riyo Games vydali nový trailer a screenshoty pro tahový RPG Threads of Time jako součást Tokyo Game Show 2025 zaměřeného PC Gaming Show Tokyo Direct…Číst původní článekZdroj: 📰 Gematsu"
+      }
+      
+      ,{
         "title"    : "Další neúspěšný test SpaceX - Tady je důvod, proč kovové dlaždice nebudou fungovat",
         "url"      : "/tech-news/another-spacex-test-gone-wrong-heres-why-metal-til/",
         "category" : "tech_news",
-        "content"  : "SpaceX je odhodlán vybudovat raketu, která může dosáhnout Marsu. Nicméně, další test dopadl špatně. Zde je, co potřebujete vědět o selhání kovových dlaždic.Číst původní článekZdroj: 📰 SlashGear"
+        "content"  : "SpaceX je odhodlán postavit raketu, která může dosáhnout Marsu. Nicméně, další test dopadl špatně. Zde je, co potřebujete vědět o selhání kovových dlaždic.Číst původní článekZdroj: 📰 SlashGear"
       }
       
       ,{
@@ -30408,38 +30445,52 @@
       }
       
       ,{
-        "title"    : "Rozbité legendy: NELŽI oznámeno pro PS5, Xbox Series a PC",
+        "title"    : "Zlomená legenda: NELŽI oznámeno pro PS5, Xbox Series a PC",
         "url"      : "/tech-news/brokenlore-dont-lie-announced-for-ps5-xbox-series/",
         "category" : "tech_news",
-        "content"  : "Publisher Wired Productions a vývojář Serafini Productions oznámili BrokenLore: DON’T LIE, novou hru z BrokenLore série, která byla dříve naznačena pro odhalení na Tokyo Game Show 2025. Hra bude dostupná na PC a konzolích.Číst původní článekZdroj: 📰 Gematsu"
+        "content"  : "            Publisher Wired Productions a vývojář Serafini Productions oznámili BrokenLore: DON’T LIE, novou hru ze série BrokenLore, která byla dříve naznačena pro odhalení na Tokyo Game Show 2025. Hra bude dostupná na platformách PlayStation 5, Xbox Series X      S a PC.      Číst původní článekZdroj: 📰 Gematsu"
       }
       
       ,{
         "title"    : "Vyzkoušel jsem tuto alternativu k OneNote, Google Keep a Evernote na Androidu a byl jsem ohromený",
         "url"      : "/tech-news/i-tried-this-onenote-google-keep-and-evernote-alte/",
         "category" : "tech_news",
-        "content"  : "Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Jedná se o výkonný nástroj pro správu poznámek, který kombinuje jednoduchost s pokročilými funkcemi. Aplikace podporuje Markdown, vkládání obrázků a souborů, synchronizaci mezi zařízeními a další užitečné funkce. Ačkoli se nejedná o nejznámější aplikaci pro poznámky, rozhodně stojí za vyzkoušení.Číst původní článekZdroj: 📰 Android Police"
+        "content"  : "Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Nabízí intuitivní rozhraní, výkonné funkce pro organizaci poznámek a možnost synchronizace mezi zařízeními. Ať už potřebujete zaznamenat myšlenky, nápady nebo důležité informace, tato aplikace vám poskytne efektivní nástroje pro jejich správu.Číst původní článekZdroj: 📰 Android Police"
+      }
+      
+      ,{
+        "title"    : "Společnost MSI potvrzuje, že nové řady MAX a EVO mají 64MB BIOS",
+        "url"      : "/tech-news/msi-confirms-max-and-evo-refresh-motherboards-feat/",
+        "category" : "tech_news",
+        "content"  : "MSI vysvětluje význam svých MAX/EVO základních desekMSI objasnil význam sufixů “MAX” a “EVO” zavedených v rámci mid-generační aktualizace svých AMD 800 series základních desek. První vlna desek X870 a X870E byla uvedena na trh 30. září 2024, což …Číst původní článekZdroj: 📰 Videocardz.com"
       }
       
       ,{
         "title"    : "Letošní japonská herní vydání: Ghost of Yotei, Digimon Story: Time Stranger, Final Fantasy Tactics: The Ivalice Chronicles a další",
         "url"      : "/tech-news/this-weeks-japanese-game-releases-ghost-of-yotei-d/",
         "category" : "tech_news",
-        "content"  : "Ghost of Yotei pro PlayStation 5 je akční hra zasazená do feudálního Japonska. Digimon Story: Time Stranger pro PlayStation 5, Xbox Series a PC je další díl populární RPG série Digimon. Final Fantasy Tactics: The Ivalice Chronicles pro PlayStation 5, Xbox Series a Switch 2 je remaster klasické taktické RPG hry z Ivalice.Číst původní článekZdroj: 📰 Gematsu"
+        "content"  : "Ghost of Yotei pro PlayStation 5 je akční hra odehrávající se v otevřeném světě. Digimon Story: Time Stranger pro PlayStation 5, Xbox Series a PC je RPG hra z populární Digimon série. Final Fantasy Tactics: The Ivalice Chronicles pro PlayStation 5, Xbox Series a Switch 2 je strategie/RPG hra zasazená do světa Ivalice z Final Fantasy série.Číst původní článekZdroj: 📰 Gematsu"
       }
       
       ,{
-        "title"    : "Pokémon GO události tento týden (29. září – 5. října 2025) - Pokémon GO Hub",
+        "title"    : "Rodinné auto Ferrari je nyní levnější než nové BMW M5",
+        "url"      : "/tech-news/ferraris-family-car-is-now-cheaper-than-a-brand-ne/",
+        "category" : "tech_news",
+        "content"  : "BMW M5 je stále stejně výkonný jako dříve, ale pokud správně využijete trh s ojetými vozy, můžete mít Ferrari jako rodinné auto za nižší cenu.Číst původní článekZdroj: 📰 CarBuzz"
+      }
+      
+      ,{
+        "title"    : "Pokémon GO události tento týden (29. září - 5. října 2025) - Pokémon GO Hub",
         "url"      : "/tech-news/pok%C3%A9mon-go-events-this-week-29-september-5-october/",
         "category" : "tech_news",
-        "content"  : "Harmonogram Pokémona GO od 29. září do 5. října uzavírá první měsíc sezóny Tales of Transformation! Užijte si akci Steel Skyline, Mega Metagross Raid Day a další! Navíc týdenní Spotlight Hour, denní Raid/Hours, Dynamax Battles, Mega R…Číst původní článekZdroj: 📰 Pokemon GO Hub"
+        "content"  : "Plán Pokémon GO od 29. září do 5. října uzavírá první měsíc sezóny Tales of Transformation! Těšte se na událost Steel Skyline, Mega Metagross Raid Day a další! Kromě toho týdenní Spotlight Hour, denní Raid/Hours, Dynamax Battles, Mega Raids a další.Číst původní článekZdroj: 📰 Pokemon GO Hub"
       }
       
       ,{
-        "title"    : "Jak se Apple Stores vypořádávají se škrábanci na iPhonu 17",
+        "title"    : "Jak se Apple Stores snaží bojovat proti poškrábání iPhonu 17",
         "url"      : "/tech-news/heres-how-apple-stores-are-combating-iphone-17-scr/",
         "category" : "tech_news",
-        "content"  : "Apple Stores jsou podnikající dva důležité kroky, aby se pokusily zabránit poškrábání a označení na jejich vystavených jednotkách. Jelikož…Číst původní článekZdroj: 📰 9to5Mac"
+        "content"  : "Apple Stores jsou podnikající dva důležité kroky, aby se pokusily zabránit poškrábání a značkám na jejich vystavených jednotkách. Jelikož…Číst původní článekZdroj: 📰 9to5Mac"
       }
       
       ,{
@@ -30457,7 +30508,7 @@
       }
       
       ,{
-        "title"    : "Společnost Apple pokračuje v přípravě iOS 26.0.1 s očekávanými opravami chyb",
+        "title"    : "Společnost Apple pokračuje v přípravě aktualizace iOS 26.0.1 s očekávanými opravami chyb",
         "url"      : "/tech-news/apple-continues-to-prepare-ios-2601-with-multiple/",
         "category" : "tech_news",
         "content"  : "Apple připravuje vydání iOS 26.0.1, podle soukromého účtu na X s ověřenou historií sdílení informací o budoucích verzích iOS.Číst původní článekZdroj: 📰 MacRumors"
@@ -30471,24 +30522,52 @@
       }
       
       ,{
-        "title"    : "Tweety týdne: Miz napadl na golfovém hřišti, Darby Allin a jeho scéna s pytlem na tělo, a další!",
+        "title"    : "Nový MacBook Pro se blíží k masové výrobě, ale očekávají se čtyři větší upgrady příští rok",
+        "url"      : "/tech-news/new-macbook-pro-nears-mass-production-but-four-big/",
+        "category" : "tech_news",
+        "content"  : "Apple’s příští modely MacBook Pro brzy vstoupí do sériové výroby, podle nejnovějších informací sdílených Markem Gurmanem z Bloombergu. V nadcházejících měsících se očekává představení nových 14” a 16” MacBooků Pro s čipem M2 Pro a M2 Max. Tyto modely by měly nahradit současné 14” a 16” MacBooky Pro s čipy M1 Pro a M1 Max.Číst původní článekZdroj: 📰 MacRumors"
+      }
+      
+      ,{
+        "title"    : "Tweety týdne: Miz napadl na golfovém hřišti, Darby Allin a jeho akce s pytlem na tělo, a další!",
         "url"      : "/tech-news/tweets-of-the-week-miz-beat-up-on-golf-course-darb/",
         "category" : "tech_news",
         "content"  : "Pojďme si zase užít zábavu se sociálními médii.Číst původní článekZdroj: 📰 Cageside Seats"
       }
       
       ,{
-        "title"    : "Jeden z největších streamerů Destiny 2 se odchází uprostřed probíhající frustrace hráčů se stavem hry, říká, že je &quot;unavený&quot; z neúprosné toxicity komunity: &quot;Komunita mě vyžene dříve, než to udělá hra",
+        "title"    : "Jeden z největších streamerů Destiny 2 se odchází uprostřed pokračující frustrace hráčů se stavem hry, říká, že je &quot;unavený&quot; z neúprosné toxicity komunity: &quot;Komunita mě vyžene dřív, než to udělá hra",
         "url"      : "/tech-news/one-of-destiny-2s-biggest-streamers-is-stepping-aw/",
         "category" : "tech_news",
-        "content"  : "Další přední streamer hry Destiny 2, Datto, oznámil, že se od hry odchází, čímž se připojuje k GrenaderJakovi a Gladdovi, kteří si také berou pauzu kvůli vyhoření a frustraci.Číst původní článekZdroj: 📰 Thegamepost.com"
+        "content"  : "Další přední streamer hry Destiny 2, Datto, oznámil, že se od hry odchází, čímž se připojuje k GrenaderJakeovi a Gladdovi, kteří si také berou pauzu kvůli vyhoření a frustraci.Číst původní článekZdroj: 📰 Thegamepost.com"
+      }
+      
+      ,{
+        "title"    : "Nová pravidla Googlu by mohla zničit sideloading a alternativní obchody s aplikacemi, varuje F-Droid",
+        "url"      : "/tech-news/googles-new-rules-could-wipe-out-sideloading-and-a/",
+        "category" : "tech_news",
+        "content"  : "F-Droid varoval před novými pravidly ověřování vývojářů od Googlu, které by mohly zabít sideloading a alternativní obchody s aplikacemi.Číst původní článekZdroj: 📰 Android Authority"
+      }
+      
+      ,{
+        "title"    : "Srovnání iPhonu 17 Pro a Google Pixelu 10 Pro - vítěz po 7 kolech",
+        "url"      : "/tech-news/i-put-the-iphone-17-pro-vs-google-pixel-10-pro-thr/",
+        "category" : "tech_news",
+        "content"  : "Apple’s nejnovější kompaktní Pro model překonává Google? Nejnovější kompaktní Pro model od Applu nabízí výkonný procesor, pokročilé fotoaparáty a kompaktní design, který konkuruje Google’s nejnovějším modelům.Číst původní článekZdroj: 📰 Tom’s Guide"
+      }
+      
+      ,{
+        "title"    : "Průvodce nákupem ROG Xbox Ally X - Předobjednávky dostupné v Best Buy (29. září)",
+        "url"      : "/tech-news/rog-xbox-ally-x-buying-guide-preorders-available-a/",
+        "category" : "tech_news",
+        "content"  : "Xbox-branded Asus ROG Ally bude uveden na trh 16. října ve dvou různých edicích v cenách 600 USD a 1 000 USD.Číst původní článekZdroj: 📰 GameSpot"
       }
       
       ,{
         "title"    : "Technologické zprávy",
         "url"      : "/tech-news/",
         "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 38Poslední aktualizace: 30.09.2025 04:17 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 39Poslední aktualizace: 30.09.2025 08:20 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
       }
       
     
