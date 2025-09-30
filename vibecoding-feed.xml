@@ -13,7 +13,7 @@ layout: null
     {% assign vibecoding_posts = site.vibecoding | sort: "date" | reverse %}
     {% assign category_posts = site.posts | where_exp: "post", "post.categories contains 'vibecoding'" | sort: "date" | reverse %}
     {% assign all_posts = vibecoding_posts | concat: category_posts | sort: "date" | reverse %}
-    {% for post in all_posts %}
+    {% for post in all_posts limit: 10 %}
       {% comment %} Získání názvu softwaru z URL nebo front matter {% endcomment %}
       {% assign software_name = "" %}
       {% if post.sw %}

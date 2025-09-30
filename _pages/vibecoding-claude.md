@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Claude Code - Vibe Coding
 permalink: /claude-code/
 ---
@@ -44,6 +44,3 @@ Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost,
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="claude-code" tool_sw="claude" %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Memex - Vibe Coding
 permalink: /memex/
 ---
@@ -182,9 +182,6 @@ Memex tým pracuje na:
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="memex" tool_sw="memex" %}
 
 <script>
 function toggleDetails(button) {

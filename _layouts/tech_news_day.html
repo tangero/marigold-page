@@ -23,10 +23,18 @@ layout: default
   <!-- Seznam zpráv -->
   <div class="tech-news-container">
     {% comment %} Najít články pro tento konkrétní den {% endcomment %}
-    {% assign day_articles = site.tech_news | where_exp: 'item', 'item.date contains page.date' | sort: 'importance' | reverse %}
+    {% if site.tech_news %}
+      {% assign day_articles = site.tech_news | where_exp: 'item', 'item.date contains page.date' | sort: 'importance' | reverse %}
+    {% else %}
+      {% assign day_articles = "" | split: "," %}
+    {% endif %}
 
     {% comment %} Najít všechna data pro navigaci {% endcomment %}
-    {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
+    {% if site.tech_news %}
+      {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
+    {% else %}
+      {% assign all_dates = "" | split: "," %}
+    {% endif %}
     {% assign current_index = -1 %}
     {% assign prev_date = "" %}
     {% assign next_date = "" %}
@@ -40,7 +48,8 @@ layout: default
     {% endfor %}
 
     {% if current_index > 0 %}
-      {% assign next_date = all_dates[current_index | minus: 1] %}
+      {% assign minus_result = current_index | minus: 1 %}
+      {% assign next_date = all_dates[minus_result] %}
     {% endif %}
 
     {% if current_index < all_dates.size and current_index >= 0 %}

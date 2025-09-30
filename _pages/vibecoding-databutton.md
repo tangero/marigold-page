@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Databutton - Vibe Coding
 permalink: /databutton/
 ---
@@ -37,6 +37,3 @@ Pro mne je zajímavá jak dobře zvládnutým plánovám, tak tím, že jde o pr
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="databutton" tool_sw="databutton" %}

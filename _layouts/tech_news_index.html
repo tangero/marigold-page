@@ -22,11 +22,16 @@ layout: default
   <!-- Seznam zpráv -->
   <div class="tech-news-container">
     {% comment %} Získat nejnovějších 18 článků {% endcomment %}
-    {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
-
-    {% comment %} Seřadit články podle data (nejnovější první) a vzít prvních 18 {% endcomment %}
-    {% assign sorted_articles = site.tech_news | sort: 'publishedAt' | reverse %}
-    {% assign recent_articles = sorted_articles | limit: 18 %}
+    {% if site.tech_news %}
+      {% assign all_dates = site.tech_news | map: 'date' | uniq | sort | reverse %}
+      {% comment %} Seřadit články podle data (nejnovější první) a vzít prvních 18 {% endcomment %}
+      {% assign sorted_articles = site.tech_news | sort: 'publishedAt' | reverse %}
+      {% assign recent_articles = sorted_articles | limit: 18 %}
+    {% else %}
+      {% assign all_dates = "" | split: "," %}
+      {% assign sorted_articles = "" | split: "," %}
+      {% assign recent_articles = "" | split: "," %}
+    {% endif %}
 
     <!-- Navigace dnů -->
     <div class="date-navigation">

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Lovable.dev - Vibe Coding
 permalink: /lovable-dev/
 ---
@@ -50,6 +50,3 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="lovable-dev" tool_sw="lovable" %}
