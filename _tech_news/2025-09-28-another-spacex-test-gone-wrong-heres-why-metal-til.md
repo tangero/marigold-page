@@ -3,7 +3,7 @@ category: kosmonautika
 companies:
 - SpaceX
 date: '2025-09-28 16:45:00'
-description: SpaceX je odhodlán vybudovat raketu, která může dosáhnout Marsu. Nicméně,
+description: SpaceX je odhodlán postavit raketu, která může dosáhnout Marsu. Nicméně,
   další test dopadl špatně. Zde je, co potřebujete vědět o selhání kovových dlaždic.
 importance: 3
 layout: tech_news_article
@@ -22,7 +22,7 @@ url: https://www.slashgear.com/1975156/spacex-test-goes-wrong-reason-metal-tiles
 urlToImage: https://www.slashgear.com/img/gallery/another-spacex-test-gone-wrong-heres-why-metal-tiles-arent-going-to-work/l-intro-1758554422.jpg
 ---
 
-SpaceX je odhodlán vybudovat raketu, která může dosáhnout Marsu. Nicméně, další test dopadl špatně. Zde je, co potřebujete vědět o selhání kovových dlaždic.
+SpaceX je odhodlán postavit raketu, která může dosáhnout Marsu. Nicméně, další test dopadl špatně. Zde je, co potřebujete vědět o selhání kovových dlaždic.
 
 [Číst původní článek](https://www.slashgear.com/1975156/spacex-test-goes-wrong-reason-metal-tiles-problem-solution/)
 

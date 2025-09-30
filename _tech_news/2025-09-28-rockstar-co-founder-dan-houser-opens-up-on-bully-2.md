@@ -1,8 +1,10 @@
 ---
 category: herní průmysl
+companies:
+- Rockstar
 date: '2025-09-28 13:20:28'
 description: Rockstar spoluzakladatel Dan Houser promluvil o tom, proč jsme nikdy
-  nedostali pokračování Bully z roku 2006.
+  nedostali pokračování hry Bully z roku 2006.
 importance: 3
 layout: tech_news_article
 original_title: 'Rockstar co-founder Dan Houser opens up on Bully 2: "You just can''t
@@ -21,7 +23,7 @@ url: https://www.eurogamer.net/rockstar-co-founder-dan-houser-opens-up-on-bully-
 urlToImage: https://assetsio.gnwcdn.com/bully2_ArvbggY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Rockstar spoluzakladatel Dan Houser promluvil o tom, proč jsme nikdy nedostali pokračování Bully z roku 2006.
+Rockstar spoluzakladatel Dan Houser promluvil o tom, proč jsme nikdy nedostali pokračování hry Bully z roku 2006.
 
 [Číst původní článek](https://www.eurogamer.net/rockstar-co-founder-dan-houser-opens-up-on-bully-2-you-just-cant-do-all-the-projects-you-want)
 

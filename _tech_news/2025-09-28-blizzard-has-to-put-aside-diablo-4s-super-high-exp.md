@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: PCGamesN
-title: Blizzard musí odložit "super vysoká" očekávání od Diablo 4, aby se mohl posunout
-  vpřed, říká tvůrce série David Brevik
+title: Blizzard musí odložit "super vysoká" očekávání ohledně Diablo 4, aby se mohl
+  posunout vpřed, říká tvůrce série David Brevik
 url: https://www.pcgamesn.com/diablo-4/david-brevik-interview-expectations-preservation
 urlToImage: https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/david-brevik-interview-diablo-4-thoughts-d2r-impressions-arpgs-vs-roguelikes.jpg
 ---

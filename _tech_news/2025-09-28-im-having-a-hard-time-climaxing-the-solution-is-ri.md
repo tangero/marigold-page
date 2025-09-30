@@ -12,8 +12,8 @@ source:
   emoji: 📰
   id: null
   name: Slate Magazine
-title: Mám problém s dosažením vyvrcholení. Řešení je přímo před obličejem mé ženy...
-  a přesto!
+title: Mám potíže s dosažením vyvrcholení. Řešení je přímo před obličejem mé ženy
+  ... a přesto!
 url: https://slate.com/advice/2025/09/sex-advice-diabetes-erectile-dysfunction-orgasm-antidepressant-wife.html
 urlToImage: https://compote.slate.com/images/8406ab32-deb7-4f6b-9ff4-a605cea96a1a.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560
 ---

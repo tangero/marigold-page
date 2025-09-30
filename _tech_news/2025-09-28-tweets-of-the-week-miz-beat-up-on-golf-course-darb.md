@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Cageside Seats
-title: 'Tweety týdne: Miz napadl na golfovém hřišti, Darby Allin a jeho scéna s pytlem
+title: 'Tweety týdne: Miz napadl na golfovém hřišti, Darby Allin a jeho akce s pytlem
   na tělo, a další!'
 url: https://www.cagesideseats.com/cageside-seats-features/386066/tweets-of-the-week-miz-beat-up-on-golf-course-darby-allin-body-bag-stunt-more
 urlToImage: https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/09/Screenshot-2025-09-28-at-00-04-50-Instagram.png?quality=90&strip=all&crop=0,34.255796559461,100,31.488406881077

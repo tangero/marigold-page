@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: 'Sonic Racing: CrossWorlds recenze pro Nintendo Switch'
+title: 'Recenze Sonic Racing: CrossWorlds pro Nintendo Switch'
 url: https://nintendoeverything.com/sonic-racing-crossworlds-review-for-nintendo-switch/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-review-1.jpg
 ---
