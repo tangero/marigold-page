@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nový Claude Sonnet 4.5 s experimentální funkcí Imagine | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Nový Claude Sonnet 4.5 s experimentální funkcí Imagine" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Anthropic představil Claude Sonnet 4.5, novou verzi svého jazykového modelu, která podle společnosti přináší výrazné zlepšení zejména v oblasti práce s programovacím kódem. Součástí vydání je experimentální funkce Imagine, která generuje aplikace v reálném čase podle interakce uživatele, a rozšíření Claude for Chrome pro automatizaci činností v prohlížeči." />
+<meta property="og:description" content="Anthropic představil Claude Sonnet 4.5, novou verzi svého jazykového modelu, která podle společnosti přináší výrazné zlepšení zejména v oblasti práce s programovacím kódem. Součástí vydání je experimentální funkce Imagine, která generuje aplikace v reálném čase podle interakce uživatele, a rozšíření Claude for Chrome pro automatizaci činností v prohlížeči." />
+<link rel="canonical" href="https://www.marigold.cz/item/claude-sonnet-4-5/" />
+<meta property="og:url" content="https://www.marigold.cz/item/claude-sonnet-4-5/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-30T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Nový Claude Sonnet 4.5 s experimentální funkcí Imagine" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-09-30T00:00:00+00:00","datePublished":"2025-09-30T00:00:00+00:00","description":"Anthropic představil Claude Sonnet 4.5, novou verzi svého jazykového modelu, která podle společnosti přináší výrazné zlepšení zejména v oblasti práce s programovacím kódem. Součástí vydání je experimentální funkce Imagine, která generuje aplikace v reálném čase podle interakce uživatele, a rozšíření Claude for Chrome pro automatizaci činností v prohlížeči.","headline":"Nový Claude Sonnet 4.5 s experimentální funkcí Imagine","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/claude-sonnet-4-5/"},"url":"https://www.marigold.cz/item/claude-sonnet-4-5/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Anthropic představil Claude Sonnet 4.5, novou verzi svého jazykového modelu, která podle společnosti přináší výrazné zlepšení zejména v oblasti práce s programovacím kódem. Součástí vydání je experimentální funkce Imagine, která generuje aplikace v reálném čase podle interakce uživatele, a rozšíření Claude for Chrome pro automatizaci činností v prohlížeči.
+
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Nový Claude Sonnet 4.5 s experimentální funkcí Imagine" />
+    <meta property="twitter:title" content="Nový Claude Sonnet 4.5 s experimentální funkcí Imagine" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/claude-sonnet-4-5/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Tech zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>
+
+<!-- místo původního feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Nový Claude Sonnet 4.5 s experimentální funkcí Imagine</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Letní <a href="https://skola.prolnuto.cz/">škola AI</a> zdarma! Každý pracovní den jedna lekce, za tři týdny jste v obraze. <br/>👉 Přidejte se zdarma na <a href="https://skola.prolnuto.cz/">skola.prolnuto.cz</a></p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+30.
+září
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="/rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="/rubrika/#Anthropic">Anthropic</a>
+        &nbsp;
+      
+        <a href="/rubrika/#Claude">Claude</a>
+        &nbsp;
+      
+        <a href="/rubrika/#LLM">LLM</a>
+        &nbsp;
+      
+        <a href="/rubrika/#Cloudflare">Cloudflare</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>Claude Sonnet 4.5 dosahuje 49% úspěšnosti na SWE-bench Verified a dokáže udržet soustředění na složité úlohy přes 30 hodin</li>
+      
+        <li>Experimentální funkce Imagine vytváří kód aplikací průběžně podle toho, jak s nimi uživatel interaguje</li>
+      
+        <li>Rozšíření Claude for Chrome umožňuje provádět akce v prohlížeči včetně práce s dokumenty a e-maily</li>
+      
+        <li>Model vykazuje výrazné zlepšení v doménově specifických znalostech podle expertů z financí, práva a medicíny</li>
+      
+        <li>Nové Claude Agent SDK umožňuje vývojářům vytvářet vlastní agenty na bázi technologií použitých v Claude Code</li>
+      
+        <li>Funkce pro vytváření souborů je nyní dostupná všem placeným uživatelům, rozšíření pro Chrome se postupně zpřístupňuje</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
+
+
+
+  <div class="entry">
+    <p>Anthropic představil Claude Sonnet 4.5, novou verzi svého jazykového modelu, která podle společnosti přináší výrazné zlepšení zejména v oblasti práce s programovacím kódem. Součástí vydání je experimentální funkce Imagine, která generuje aplikace v reálném čase podle interakce uživatele, a rozšíření Claude for Chrome pro automatizaci činností v prohlížeči.</p>
+
+<h2 id="výrazné-zlepšení-v-kódování">Výrazné zlepšení v kódování</h2>
+
+<p>Claude Sonnet 4.5 dosahuje 49% úspěšnosti na benchmarku SWE-bench Verified, což představuje zlepšení oproti předchozí verzi Claude Sonnet 4, která dosahovala 38,8%. Benchmark SWE-bench Verified testuje schopnost modelů řešit skutečné problémy ze softwarových projektů na platformě GitHub. Model tak podle výsledků testů překonává konkurenční modely včetně GPT-4o, Gemini 2.0 Flash Thinking i o1-preview.</p>
+
+<p><img src="https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8338066c/images/swe-bench-verified-chart.png" alt="Graf porovnání výkonu modelů na SWE-bench" /></p>
+
+<p>V praktickém použití to znamená, že model lépe rozumí struktuře kódu, dokáže identifikovat chyby a navrhovat jejich řešení. Podle Anthropic je model schopen pracovat s rozsáhlými kódovými bázemi a udržovat konzistenci napříč více soubory. Anthropic uvádí, že model dokáže udržet soustředění na složité úlohy po dobu přesahující 30 hodin, zatímco výkonnější model Opus 4 zvládá zhruba sedm hodin.</p>
+
+<p>Při testování podle Anthropic jako jediný model v historii společnosti dokázal vytvořit funkční verzi webové stránky Claude.</p>
+
+<h2 id="experimentální-funkce-imagine">Experimentální funkce Imagine</h2>
+
+<p>Novou experimentální funkcí je Imagine with Claude, která generuje kód aplikací průběžně podle toho, jak s nimi uživatel pracuje. Tato funkce je zatím dostupná pouze pro předplatitele Max. Na rozdíl od standardního přístupu, kdy model napíše kompletní kód předem, Imagine vytváří jednotlivé části aplikace dynamicky v reakci na akce uživatele.</p>
+
+<p>Demonstrace ukázala prompt “Imagine William Shakespeare’s computer”, na který Claude vytvořil interaktivní počítač, jaký by mohl používat Shakespeare. Aplikace se otevírá přímo v rozhraní Claude a umožňuje s ní pracovat. Když uživatel klikne na položku menu, Claude v danou chvíli vygeneruje příslušný kód, což umožňuje prohlížet Shakespearův počítač v reálném čase.</p>
+
+<p><img src="https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8338066c/images/extended-thinking.png" alt="Ukázka režimu Extended Thinking" /></p>
+
+<p>Anthropic tuto funkci popisuje jako software, který se sám vytváří v reakci na potřeby uživatele. Jde o naznačení směru, kterým by se mohly aplikace ubírat - nemusely by být předem naprogramované, ale dokázaly by reagovat přesně na to, co uživatel potřebuje.</p>
+
+<h2 id="nový-režim-rozšířeného-uvažování">Nový režim rozšířeného uvažování</h2>
+
+<p>Součástí aktualizace je funkce Extended Thinking, která umožňuje modelu věnovat více času složitějším úlohám. Při aktivaci tohoto režimu model nejprve interně analyzuje problém, než poskytne odpověď. Tato funkce je určena pro úlohy jako ladění složitého kódu, tvorbu obchodních strategií nebo řešení vícekrokových matematických problémů.</p>
+
+<p>Extended Thinking pracuje tak, že model prochází delším procesem uvažování před formulací odpovědi. Uživatel vidí průběh tohoto procesu a následně finální výstup. Režim se zapína ručně přepínačem v rozhraní a spotřebovává více tokenů než standardní režim.</p>
+
+<h2 id="integrace-s-platformou-cloudflare-workers">Integrace s platformou Cloudflare Workers</h2>
+
+<p>Významnou novinkou je přímá integrace s platformou <a href="https://workers.cloudflare.com/">Cloudflare Workers</a>, která umožňuje vytvářet a nasazovat webové aplikace přímo z rozhraní Claude. Uživatelé mohou popsat, jakou aplikaci potřebují vytvořit, a Claude vygeneruje funkční kód, který se následně automaticky nahraje na infrastrukturu Cloudflare.</p>
+
+<p>Cloudflare Workers je platforma pro provoz kódu JavaScriptu na serverech Cloudflare po celém světě. Výhodou tohoto řešení je rychlé nasazení bez nutnosti spravovat vlastní servery. Integrace s Claude umožňuje vytvářet aplikace využívající databáze D1, úložiště R2, key-value databázi KV nebo systém Hyperdrive pro připojení k externím databázím.</p>
+
+<p>Pro využití této funkce je nutné propojit účet Cloudflare s Claude. Aplikace vytvořené tímto způsobem běží na infrastruktuře Cloudflare a podléhají jejím limitům a cenovým podmínkám. Bezplatná verze Cloudflare Workers umožňuje 100 tisíc požadavků denně.</p>
+
+<h2 id="rozšíření-claude-for-chrome">Rozšíření Claude for Chrome</h2>
+
+<p>Anthropic rozšiřuje dostupnost <a href="https://www.anthropic.com/news/claude-for-chrome">rozšíření Claude for Chrome</a>, které bylo spuštěno koncem srpna nejprve pro předplatitele Max. Nyní získávají přístup další uživatelé ze seznamu čekatelů. Rozšíření umožňuje modelu provádět akce v prohlížeči Chrome jménem uživatele po udělení příslušných oprávnění.</p>
+
+<p>Demonstrace ukázala, že Claude for Chrome dokáže navigovat v aplikacích jako Google Docs a Gmail, sbírat informace, vytvářet a aktualizovat dokumenty a odesílat e-maily. Model tak může autonomně pracovat s webovými aplikacemi podle pokynů uživatele.</p>
+
+<p>Podle Anthropic se zlepšily možnosti modelu využívat počítač ve srovnání s předchozí verzí Sonnet 4. Společnost také zdůrazňuje, že nový model je bezpečnější a lépe sladěný s očekáváním uživatelů, s redukovaným výskytem problematického chování jako je podlézavost, klamání, touha po moci nebo tendence podporovat bludy.</p>
+
+<h2 id="rozšířená-podpora-nástrojů">Rozšířená podpora nástrojů</h2>
+
+<p>Claude Sonnet 4.5 přináší rozšířenou podporu pro práci s kalendářem a připomínkami. Model dokáže vytvářet, upravovat a mazat události v kalendáři a spravovat připomínky. Tyto funkce vyžadují udělení přístupu k příslušným aplikacím v operačním systému.</p>
+
+<p>Vylepšena byla také práce se soubory. Model dokáže zpracovávat dokumenty ve formátu PDF, tabulky Excel a CSV soubory. U souborů Excel zachovává informace o formátování, vzorcích a stylech buněk. Při zpracování dat z tabulek model automaticky detekuje strukturu a dokáže provádět agregace, filtrování a vytváření vizualizací.</p>
+
+<p>Anthropic také přidal podporu pro vytváření a spouštění kódu přímo v konverzacích s Claude, včetně možnosti vytvářet dokumenty, tabulky a prezentace. <a href="https://www.anthropic.com/news/file-creation">Funkce pro vytváření souborů</a> je nyní dostupná všem placeným uživatelům, zatímco dříve byla vyhrazena pouze pro předplatitele Max.</p>
+
+<h2 id="claude-code-a-nové-sdk-pro-agenty">Claude Code a nové SDK pro agenty</h2>
+
+<p>Nástroj Claude Code nyní podporuje kontrolní body, které umožňují uživatelům uložit průběh práce a v případě potřeby se vrátit k předchozímu stavu. Claude agenti mohou pracovat delší dobu na složitějších úlohách.</p>
+
+<p>Pro vývojáře je k dispozici nové <a href="https://www.anthropic.com/news/claude-agent-sdk">Claude Agent SDK</a>, které podle Anthropic představuje stavební bloky použité při vývoji Claude Code. Toto SDK umožňuje vývojářům vytvářet vlastní agenty postavené na technologii Claude a napomáhá při dalších programovacích projektech.</p>
+
+<h2 id="vylepšení-v-doménových-znalostech">Vylepšení v doménových znalostech</h2>
+
+<p>Podle Anthropic experti z různých oblastí včetně financí, práva, medicíny a vědecko-technických oborů zjistili, že Claude Sonnet 4.5 vykazuje výrazné zlepšení v doménově specifických znalostech a schopnosti uvažování ve srovnání s předchozími modely.</p>
+
+<h2 id="technické-parametry">Technické parametry</h2>
+
+<p>Model podporuje kontextové okno 200 tisíc tokenů a maximální výstup 8 tisíc tokenů. Podle Anthropic dosahuje kratší doby odezvy než předchozí verze a podporuje vyšší počet požadavků za minutu. Konkrétní hodnoty závisí na typu předplatného.</p>
+
+<p>Pro vývojáře je model dostupný přes API s identifikátorem <code class="language-plaintext highlighter-rouge">claude-sonnet-4-5-20250929</code>. Cena za použití API zůstává stejná jako u Claude Sonnet 4 a činí 3 dolary za milion vstupních tokenů a 15 dolarů za milion výstupních tokenů. Pro srovnání, výkonnější Claude Opus 4 stojí 15 dolarů za milion vstupních tokenů a 75 dolarů za milion výstupních tokenů.</p>
+
+<h2 id="dostupnost-a-ceny">Dostupnost a ceny</h2>
+
+<p>Claude Sonnet 4.5 je dostupný zdarma s omezeními na počet zpráv. Bezplatná verze umožňuje vytvářet artefakty a používat základní funkce, Extended Thinking však vyžaduje předplatné. Placené předplatné Claude Pro za 20 dolarů měsíčně nabízí vyšší limity na počet zpráv a přístup ke všem funkcím včetně Extended Thinking a integrace s Cloudflare.</p>
+
+<p>Pro firmy je k dispozici předplatné Claude Team za 30 dolarů na uživatele měsíčně, které přidává sdílené projekty, centralizovanou správu a vyšší limity. Enterprise verze s individuální cenou nabízí dedikovanou podporu, SLA a možnost nasazení v privátním cloudu.</p>
+
+<p>Model je dostupný prostřednictvím webového rozhraní na adrese <a href="https://claude.ai">claude.ai</a>, mobilních aplikací pro iOS a Android a vývojářského API. Integrace s Cloudflare vyžaduje aktivaci v nastavení a propojení účtu.​​​​​​​​​​​​​​​​</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+      <!-- Místo pro widget -->
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback.js" 
+        data-slug="item-claude-sonnet-4-5" 
+        data-title="Nový Claude Sonnet 4.5 s experimentální funkcí Imagine" 
+        data-url="https://www.marigold.cz/item/claude-sonnet-4-5/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+<!-- Místo pro widget nejčtenější články -->
+<script src="//widgets.clicky.com/poppy/?site_id=101451859&sitekey=5e093ea9431d06c7b572df6b51eda89f&width=500&height=500&date=last-28-days&type=pages&limit=10&title=Nej%C4%8Dten%C4%9Bj%C5%A1%C3%AD%20%C4%8Dl%C3%A1nky&hide_title=0&hide_branding=1" type="text/javascript"></script>
+<!-- Konec widget nejčtenější články -->
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <p class="excerpt">
+                  
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
+                <p class="excerpt">
+                  
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Nový Claude Sonnet 4.5 s experimentální funkcí Imagine&url=https://www.marigold.cz/item/claude-sonnet-4-5/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/claude-sonnet-4-5/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2025/2025-09-30-claude-sonnet-4-5.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/chalupeckeho-cena-2025/">&laquo; Cena Jindřicha Chalupcekého 2025 - když ideologie poroty poráží umění</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
