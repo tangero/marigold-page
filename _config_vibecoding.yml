@@ -8,9 +8,9 @@ author: Patrick Zandl
 description: Průvodce AI nástroji pro programování a vývoj software
 
 # URL nastavení pro produkci
-url: https://vibecoding.cz
+url: https://www.vibecoding.cz
 baseurl: ""
-enforce_ssl: https://vibecoding.cz
+enforce_ssl: https://www.vibecoding.cz
 
 # Avatar a kontakty (můžeš změnit)
 avatar: /images/patrick-avatar.jpg
