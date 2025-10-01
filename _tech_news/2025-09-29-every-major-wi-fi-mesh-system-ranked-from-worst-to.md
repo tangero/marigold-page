@@ -1,5 +1,5 @@
 ---
-category: bezdrátové sítě
+category: wifi sítě
 date: '2025-09-29 14:02:00'
 description: Systém Wi-Fi mesh může odstranit mrtvá místa, zvýšit pokrytí a zvýšit
   rychlosti. Uživatelské recenze mohou odlišit ty nejlepší od těch nejhorších a my

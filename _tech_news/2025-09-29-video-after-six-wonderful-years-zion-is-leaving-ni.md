@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Zion opouští Nintendo Life po šesti skvělých letech
+title: Zion odchází z Nintendo Life po šesti skvělých letech
 url: https://www.nintendolife.com/news/2025/09/video-after-six-wonderful-years-zion-is-leaving-nintendo-life
 urlToImage: https://images.nintendolife.com/7dbaac4b22b3c/large.jpg
 ---
