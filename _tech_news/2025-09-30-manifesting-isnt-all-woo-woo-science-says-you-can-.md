@@ -12,7 +12,7 @@ source:
   emoji: 📡
   id: axios
   name: Axios
-title: Manifestace není jen "woo-woo". Věda říká, že si můžete vycvičit mozek
+title: Manifestace není jen "ezoterická." Věda říká, že si můžete vycvičit mozek
 url: https://www.axios.com/2025/09/30/manifesting-science-mind-magic
 urlToImage: https://images.axios.com/ZctMAw7XXmf1esyFJGx-xWjNcsU=/0x0:1920x1080/1366x768/2025/09/24/1758750104418.jpeg
 ---

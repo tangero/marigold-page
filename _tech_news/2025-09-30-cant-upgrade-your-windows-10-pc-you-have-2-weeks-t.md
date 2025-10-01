@@ -16,8 +16,7 @@ source:
   emoji: 📰
   id: null
   name: ZDNet
-title: Nemůžete upgradovat váš počítač se systémem Windows 10? Máte 2 týdny na jednání
-  - a 5 možností
+title: Nemůžete upgradovat váš Windows 10 PC? Máte 2 týdny na akci - a 5 možností
 url: https://www.zdnet.com/article/cant-upgrade-your-windows-10-pc-you-have-2-weeks-to-act-and-5-options/
 urlToImage: https://www.zdnet.com/a/img/resize/fd75f18c3db7be084d0903c24c6ba5d7a7ecda15/2025/09/24/0308e30e-dc73-49c5-9bca-f5ea8fa4b8e2/gettyimages-1135544602.jpg?auto=webp&fit=crop&height=675&width=1200
 ---
