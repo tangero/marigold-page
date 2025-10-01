@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Apple Newsroom
-title: Rámec Foundation Models Applu odemyká nové inteligentní zážitky z aplikací
+title: Rámec modelů základů Applu odemyká nové inteligentní zážitky z aplikací
 url: https://www.apple.com/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/
 urlToImage: https://www.apple.com/newsroom/images/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/tile/Apple-Foundation-Models-framework-hero-lp.jpg.og.jpg?202509291459
 ---

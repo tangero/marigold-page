@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Starcitygames.com
-title: 'Tajná edice MTG: Superdrop pro PlayStation - Star City Games'
+title: 'Tajná edice MTG: Playstation Superdrop - Star City Games'
 url: https://articles.starcitygames.com/magic-the-gathering/mtg-announces-secret-lair-the-playstation-superdrop/
 urlToImage: https://scg-static.starcitygames.com/articles/2025/09/93ba8794-copy-of-copy-of-article-summary-card-202260.png
 ---

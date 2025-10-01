@@ -1,10 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-29 16:00:00'
-description: Pac je zpět... znovu. Tento kompaktní a výkonný počítač je ideální pro
-  vývojáře, kteří potřebují mobilní a flexibilní řešení pro své projekty. S podporou
-  Windows 11 a širokým výběrem portů poskytuje Pac skvělou produktivitu a možnosti
-  připojení.
+description: Pac je zpět... znovu
 importance: 3
 layout: tech_news_article
 original_title: 'Mini Review: Pac-Man World 2 Re-Pac (PS5) - Fine Remake Won''t Set
@@ -15,13 +12,13 @@ source:
   emoji: 📰
   id: null
   name: Push Square
-title: 'Minirecenze: Pac-Man World 2 Re-Pac (PS5) - Kvalitní remake, který nezapálí
+title: 'Malá recenze: Pac-Man World 2 Re-Pac (PS5) - Kvalitní remake, který nezapálí
   svět'
 url: https://www.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac
 urlToImage: https://images.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac/1280x720.jpg
 ---
 
-Pac je zpět... znovu. Tento kompaktní a výkonný počítač je ideální pro vývojáře, kteří potřebují mobilní a flexibilní řešení pro své projekty. S podporou Windows 11 a širokým výběrem portů poskytuje Pac skvělou produktivitu a možnosti připojení.
+Pac je zpět... znovu
 
 [Číst původní článek](https://www.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac)
 

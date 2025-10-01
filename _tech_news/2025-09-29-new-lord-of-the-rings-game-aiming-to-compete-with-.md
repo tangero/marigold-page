@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Nová hra Pána prstenů se snaží konkurovat Odkazu Bradavic
+title: Nová hra Pána prstenů údajně míří konkurovat Odkazu Bradavic
 url: https://www.gamespot.com/articles/new-lord-of-the-rings-game-aiming-to-compete-with-hogwarts-legacy-apparently/1100-6535084/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4576837-screenshot2025-09-29at10.52.24%E2%80%AFam.png
 ---

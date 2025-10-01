@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Chystá se velká, luxusní umělecká kniha PlayStation plná nevyužitých návrhů
+title: Velká, luxusní umělecká kniha plná nevyužitých návrhů pro PlayStation
 url: https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/playstation1.jpg?quality=90&strip=all&crop=0%2C10.718894944178%2C100%2C78.562210111644&w=1200
 ---

@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Blizzard
 date: '2025-09-29 16:55:00'
-description: Náhled na nadcházející rozšíření Across the Timeways pro Hearthstone,
+description: Nahlédněte do nadcházející expanze Across the Timeways pro Hearthstone,
   podívejte se na velkou aktualizaci Battlegrounds a prozkoumejte, co dalšího je nového
   v Patchi 33.6.
 importance: 4
@@ -20,7 +20,7 @@ url: https://news.blizzard.com/en-us/article/24232759/33-6-patch-notes
 urlToImage: https://bnetcmsus-a.akamaihd.net/cms/blog_header/xb/XBUT21T86CY51758411254241.jpg
 ---
 
-Náhled na nadcházející rozšíření Across the Timeways pro Hearthstone, podívejte se na velkou aktualizaci Battlegrounds a prozkoumejte, co dalšího je nového v Patchi 33.6.
+Nahlédněte do nadcházející expanze Across the Timeways pro Hearthstone, podívejte se na velkou aktualizaci Battlegrounds a prozkoumejte, co dalšího je nového v Patchi 33.6.
 
 [Číst původní článek](https://news.blizzard.com/en-us/article/24232759/33-6-patch-notes)
 

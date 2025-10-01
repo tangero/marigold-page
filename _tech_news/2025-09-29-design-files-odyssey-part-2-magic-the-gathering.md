@@ -1,6 +1,6 @@
 ---
 category: karetní hra
-date: '2025-09-29 15:56:11'
+date: '2025-09-29 15:29:25'
 description: Sledujte Marka na jeho odysee, ve které diskutuje o kartách z rané fáze
   vývoje sady Odyssey, které se dostaly do tisku.
 importance: 3
@@ -8,7 +8,7 @@ layout: tech_news_article
 original_title: 'Design Files: Odyssey, Part 2 - Magic: The Gathering'
 people:
 - Mark
-publishedAt: '2025-09-29T15:56:11+00:00'
+publishedAt: '2025-09-29T15:29:25+00:00'
 slug: design-files-odyssey-part-2-magic-the-gathering
 source:
   emoji: 📰

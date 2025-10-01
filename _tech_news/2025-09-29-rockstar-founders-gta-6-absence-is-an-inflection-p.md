@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: polygon
   name: Polygon
-title: Absence zakladatele Rockstaru v GTA 6 je zlomovým bodem pro sérii
+title: Absence zakladatele Rockstaru je zlomovým bodem pro sérii GTA 6
 url: https://www.polygon.com/gta-6-dan-houser-series-writer-rockstar-grand-theft-auto-comic-con-panel/
 urlToImage: https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/jason.JPG?w=1200&h=675&fit=crop
 ---
