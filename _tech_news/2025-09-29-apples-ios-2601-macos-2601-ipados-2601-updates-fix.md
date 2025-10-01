@@ -1,9 +1,10 @@
 ---
-category: aktualizace softwaru
+category: aktualizace os
 companies:
 - Apple
 date: '2025-09-29 17:43:00'
-description: ''
+description: Apple vydal aktualizace pro iOS 26.0.1, macOS Tahoe 26.0.1 a další, které
+  opravují různé problémy v obou operačních systémech.
 importance: 3
 layout: tech_news_article
 original_title: Apple's iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple
@@ -12,15 +13,16 @@ publishedAt: '2025-09-29T17:43:00+00:00'
 slug: apples-ios-2601-macos-2601-ipados-2601-updates-fix
 source:
   emoji: 📰
-  id: google-news
-  name: Google News
+  id: null
+  name: AppleInsider
 title: Aktualizace Apple iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 opravují několik
   problémů
-url: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXlIem1XaThxNlMyRVJMTVNlcXlsTzJIOHVsZjc4TjFWdGM5aG9zMDRKRXdPeVpsaWFYVnFIeHA1UFhzREpwZDh2c2lkaUFaTjdESW10ek80QkhuOVFuckpFZy05T05RRkE0WUw3YmtMSy05djZnZEQ4RlVhWFgtczV3Uk51aEVqT2RQU1cwRV95MzNYYkVLcUF4WFQwNUsxdjJKRlE3ZTR1NDdoVGc?oc=5
+url: https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues
+urlToImage: https://photos5.appleinsider.com/gallery/65263-136428-64774-135230-63919-132965-Apple-WWDC25-iOS-26-hero-250609-xl-xl-xl.jpg
 ---
 
+Apple vydal aktualizace pro iOS 26.0.1, macOS Tahoe 26.0.1 a další, které opravují různé problémy v obou operačních systémech.
 
+[Číst původní článek](https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues)
 
-[Číst původní článek](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXlIem1XaThxNlMyRVJMTVNlcXlsTzJIOHVsZjc4TjFWdGM5aG9zMDRKRXdPeVpsaWFYVnFIeHA1UFhzREpwZDh2c2lkaUFaTjdESW10ek80QkhuOVFuckpFZy05T05RRkE0WUw3YmtMSy05djZnZEQ4RlVhWFgtczV3Uk51aEVqT2RQU1cwRV95MzNYYkVLcUF4WFQwNUsxdjJKRlE3ZTR1NDdoVGc?oc=5)
-
-**Zdroj:** 📰 Google News
+**Zdroj:** 📰 AppleInsider

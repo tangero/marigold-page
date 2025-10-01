@@ -5,7 +5,7 @@ companies:
 - Ford
 date: '2025-09-29 14:05:00'
 description: Ford je již nějakou dobu součástí seznamu partnerů Apple CarPlay Ultra
-  a jeho CEO právě poskytl novou aktualizaci plánované podpory.
+  a jeho CEO právě poskytl aktuální informace o plánované podpoře.
 importance: 4
 layout: tech_news_article
 original_title: Ford CEO talks CarPlay Ultra and offers new update on support - 9to5Mac
@@ -22,7 +22,7 @@ url: https://9to5mac.com/2025/09/29/ford-ceo-talks-carplay-ultra-and-offers-new-
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/carplay-ultra-aston-martin.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Ford je již nějakou dobu součástí seznamu partnerů Apple CarPlay Ultra a jeho CEO právě poskytl novou aktualizaci plánované podpory.
+Ford je již nějakou dobu součástí seznamu partnerů Apple CarPlay Ultra a jeho CEO právě poskytl aktuální informace o plánované podpoře.
 
 [Číst původní článek](https://9to5mac.com/2025/09/29/ford-ceo-talks-carplay-ultra-and-offers-new-update-on-support/)
 

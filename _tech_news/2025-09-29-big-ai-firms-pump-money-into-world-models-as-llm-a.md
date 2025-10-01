@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Financial Times
-title: Velké AI firmy investují do světových modelů, zatímco pokrok v LLM zpomaluje
+title: Velké AI firmy investují do světových modelů v době zpomalení pokroku v LLM
 url: https://www.ft.com/content/ae1c6de2-691e-448d-8bf3-8837cc1e6efb
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/aifirms-1152x648.jpg
 ---

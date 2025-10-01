@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Pokémon spolupracuje s GameSTopem na distribuci shinies, což se nevydařilo
+title: Pokémon spolupracuje s GameStopem na distribuci Shinies, což se nepovedlo
 url: https://kotaku.com/pokemon-shiny-koraidon-miraidon-gamestop-codes-scalper-2000629926
 urlToImage: https://kotaku.com/app/uploads/2025/09/bafkreifctucywa3yyxv7lxp652yx6aw-1200x675.jpg
 ---

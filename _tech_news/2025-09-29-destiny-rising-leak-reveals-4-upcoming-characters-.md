@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-09-29 15:18:28'
-description: Nový únik z dataminu Destiny Rising odhalil čtyři postavy, které by se
-  měly objevit v budoucnosti, včetně známého pistolníka, kterého hráči Destiny 2 možná
-  poznají.
+description: Nový únik z dataminingu Destiny Rising odhalil čtyři postavy, které se
+  zdají být součástí budoucí aktualizace, včetně známého pistolníka, kterého mohou
+  hráči Destiny 2 rozpoznat.
 importance: 4
 layout: tech_news_article
 original_title: Destiny Rising Leak Reveals 4 Upcoming Characters, Including a Gunslinger
@@ -20,7 +20,7 @@ url: https://thegamepost.com/destiny-rising-leak-reveals-4-upcoming-characters/
 urlToImage: https://thegamepost.com/wp-content/uploads/2025/09/destiny-rising-leak-reveals-4-upcoming-characters-6.webp
 ---
 
-Nový únik z dataminu Destiny Rising odhalil čtyři postavy, které by se měly objevit v budoucnosti, včetně známého pistolníka, kterého hráči Destiny 2 možná poznají.
+Nový únik z dataminingu Destiny Rising odhalil čtyři postavy, které se zdají být součástí budoucí aktualizace, včetně známého pistolníka, kterého mohou hráči Destiny 2 rozpoznat.
 
 [Číst původní článek](https://thegamepost.com/destiny-rising-leak-reveals-4-upcoming-characters/)
 

@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-09-29 16:01:12'
 description: Podle zprávy je na cestě nová akční hra z pohledu třetí osoby zasazená
-  do univerza Pána prstenů.
+  do světa Pána prstenů.
 importance: 4
 layout: tech_news_article
 original_title: New Lord Of The Rings Game Aiming To Compete With Hogwarts Legacy,
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Nová hra Pána prstenů se snaží konkurovat Hogwarts Legacy
+title: Nová hra Pána prstenů se snaží konkurovat Odkazu Bradavic
 url: https://www.gamespot.com/articles/new-lord-of-the-rings-game-aiming-to-compete-with-hogwarts-legacy-apparently/1100-6535084/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4576837-screenshot2025-09-29at10.52.24%E2%80%AFam.png
 ---
 
-Podle zprávy je na cestě nová akční hra z pohledu třetí osoby zasazená do univerza Pána prstenů.
+Podle zprávy je na cestě nová akční hra z pohledu třetí osoby zasazená do světa Pána prstenů.
 
 [Číst původní článek](https://www.gamespot.com/articles/new-lord-of-the-rings-game-aiming-to-compete-with-hogwarts-legacy-apparently/1100-6535084/)
 

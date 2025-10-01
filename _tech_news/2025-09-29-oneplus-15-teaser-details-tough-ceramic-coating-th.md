@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Teaser OnePlus 15 odhaluje odolný keramický povlak, který se směje 'škrábancům'
+title: Teaser OnePlus 15 odhaluje odolný keramický povlak, který se směje 'poškrábání'
   iPhonu 17
 url: http://9to5google.com/2025/09/29/oneplus-15-new-sand-storm-color-ceramic-coating/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/OnePlus15SandStorm-copy-wide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1

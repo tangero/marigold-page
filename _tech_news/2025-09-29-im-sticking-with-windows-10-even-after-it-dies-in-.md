@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: PCWorld
-title: Zůstávám u Windows 10 i po jeho ukončení v říjnu. Tady jak.
+title: Zůstanu u Windows 10 i poté, co v říjnu přestane být podporováno. Tady jak.
 url: https://www.pcworld.com/article/2919734/im-sticking-with-windows-10-even-after-it-dies-in-october-heres-how.html
 urlToImage: https://www.pcworld.com/wp-content/uploads/2025/09/Windows-10-laptop-on-a-desk-in-dramatic-lighting-1.jpg?quality=50&strip=all&w=1024
 ---

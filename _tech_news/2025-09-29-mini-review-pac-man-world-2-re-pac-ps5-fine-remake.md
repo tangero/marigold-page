@@ -1,10 +1,10 @@
 ---
 category: herní průmysl
 date: '2025-09-29 16:00:00'
-description: Pac je zpět... znovu. Nová generace bezdrátových sluchátek Pac od společnosti
-  Urbanista nabízí pokročilé funkce, jako je aktivní potlačení hluku, bezdrátové nabíjení
-  a dlouhá výdrž baterie. Sluchátka jsou navržena pro pohodlné nošení po celý den
-  a poskytují vynikající zvukový zážitek.
+description: Pac je zpět... znovu. Tento kompaktní a výkonný počítač je ideální pro
+  vývojáře, kteří potřebují mobilní a flexibilní řešení pro své projekty. S podporou
+  Windows 11 a širokým výběrem portů poskytuje Pac skvělou produktivitu a možnosti
+  připojení.
 importance: 3
 layout: tech_news_article
 original_title: 'Mini Review: Pac-Man World 2 Re-Pac (PS5) - Fine Remake Won''t Set
@@ -21,7 +21,7 @@ url: https://www.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac
 urlToImage: https://images.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac/1280x720.jpg
 ---
 
-Pac je zpět... znovu. Nová generace bezdrátových sluchátek Pac od společnosti Urbanista nabízí pokročilé funkce, jako je aktivní potlačení hluku, bezdrátové nabíjení a dlouhá výdrž baterie. Sluchátka jsou navržena pro pohodlné nošení po celý den a poskytují vynikající zvukový zážitek.
+Pac je zpět... znovu. Tento kompaktní a výkonný počítač je ideální pro vývojáře, kteří potřebují mobilní a flexibilní řešení pro své projekty. S podporou Windows 11 a širokým výběrem portů poskytuje Pac skvělou produktivitu a možnosti připojení.
 
 [Číst původní článek](https://www.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac)
 
