@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Push Square
-title: 'Malá recenze: Pac-Man World 2 Re-Pac (PS5) - Kvalitní remake, který nezapálí
+title: 'Minirecenze: Pac-Man World 2 Re-Pac (PS5) - Kvalitní remake, který nezapálí
   svět'
 url: https://www.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac
 urlToImage: https://images.pushsquare.com/reviews/ps5/pac-man-world-2-re-pac/1280x720.jpg

@@ -3,8 +3,8 @@ category: mobilní aplikace
 companies:
 - Google
 date: '2025-09-29 18:09:00'
-description: Google dnes podrobně představil několik nových a nadcházejících funkcí
-  pro aplikaci Pixel Phone a oficiálně oznámil její mezinárodní expanzi.
+description: Google dnes podrobně popsal několik nových a nadcházejících funkcí pro
+  aplikaci Pixel Phone a oficiálně oznámil její mezinárodní expanzi.
 importance: 4
 layout: tech_news_article
 original_title: Pixel Phone app rolling out Call Recording & Android Auto access,
@@ -21,7 +21,7 @@ url: http://9to5google.com/2025/09/29/pixel-phone-app-updates/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Magic-Cue-UI-Phone-App.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Google dnes podrobně představil několik nových a nadcházejících funkcí pro aplikaci Pixel Phone a oficiálně oznámil její mezinárodní expanzi.
+Google dnes podrobně popsal několik nových a nadcházejících funkcí pro aplikaci Pixel Phone a oficiálně oznámil její mezinárodní expanzi.
 
 [Číst původní článek](http://9to5google.com/2025/09/29/pixel-phone-app-updates/)
 

@@ -17,8 +17,7 @@ source:
   emoji: 📰
   id: null
   name: ZDNet
-title: Společnost Microsoft právě přidala AI agenty do aplikací Word, Excel a PowerPoint
-  - jak je používat
+title: Jak používat AI agenty v aplikacích Word, Excel a PowerPoint od Microsoftu
 url: https://www.zdnet.com/article/microsoft-just-added-ai-agents-to-word-excel-and-powerpoint-how-to-use-them/
 urlToImage: https://www.zdnet.com/a/img/resize/02fac8e791bb3924c21c94e8692282a950d60316/2025/09/29/f6711e9b-47eb-4926-a3a3-25f7ddb05df3/ms-sign5556gettyimages-2205047725.jpg?auto=webp&fit=crop&height=675&width=1200
 ---

@@ -1,7 +1,7 @@
 ---
 category: hororové hry
 date: '2025-09-29 15:45:00'
-description: Strašáci. Nekonečné pole. Hrozivá mlha. Krásné časy!
+description: Strašáci. Nekonečné pole. Hrozivá mlha. Dobrá doba!
 importance: 3
 layout: tech_news_article
 original_title: Silent Hill f Has One Of The Best & Creepiest Puzzles Of The Year
@@ -17,7 +17,7 @@ url: https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866
 urlToImage: https://kotaku.com/app/uploads/2025/09/PUZZLE-MAIN-1200x675.jpg
 ---
 
-Strašáci. Nekonečné pole. Hrozivá mlha. Krásné časy!
+Strašáci. Nekonečné pole. Hrozivá mlha. Dobrá doba!
 
 [Číst původní článek](https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866)
 

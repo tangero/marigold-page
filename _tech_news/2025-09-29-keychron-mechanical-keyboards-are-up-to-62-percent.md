@@ -4,9 +4,8 @@ companies:
 - Keychron
 - Nvidia
 date: '2025-09-29 15:08:57'
-description: Keychron nabízí několik mechanických herních klávesnic se slevou, z nichž
-  některé stojí pouhých 35 USD. Můžete také ušetřit na grafických kartách Nvidia RTX
-  5060 Ti.
+description: Keychron mechanické herní klávesnice jsou nyní se slevou na Woot, některé
+  za pouhých $35. Můžete také ušetřit na grafických kartách Nvidia RTX 5060 Ti.
 importance: 3
 layout: tech_news_article
 original_title: Keychron mechanical keyboards are up to 62 percent off - The Verge
@@ -16,12 +15,12 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Mechanické klávesnice Keychron se prodávají se slevou až 62 procent
+title: Klávesnice Keychron s mechanickými spínači až o 62 % levnější
 url: https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Keychron nabízí několik mechanických herních klávesnic se slevou, z nichž některé stojí pouhých 35 USD. Můžete také ušetřit na grafických kartách Nvidia RTX 5060 Ti.
+Keychron mechanické herní klávesnice jsou nyní se slevou na Woot, některé za pouhých $35. Můžete také ušetřit na grafických kartách Nvidia RTX 5060 Ti.
 
 [Číst původní článek](https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale)
 

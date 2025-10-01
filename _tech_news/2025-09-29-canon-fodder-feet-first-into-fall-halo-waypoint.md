@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-29 16:25:39'
-description: 'Pamatujete si Reach? Ano, hra je už patnáct let stará. Rok 2010 byl
+description: 'Pamatujete na Reach? Ano, hra je už patnáct let stará. Rok 2010 byl
   před patnácti lety! Zatímco litujeme neúprosného plynutí času, využijme příležitost
   oslavit a ohlédnout se za vším, co se týká Halo: Reach, ponořit se do některých
   méně známých...'
@@ -14,12 +14,12 @@ source:
   emoji: 📰
   id: null
   name: Halowaypoint.com
-title: 'Kánon jako střelivo: Nejprve nohy do pádu - Halo Waypoint'
+title: 'Kánon jako střelivo: Hlavou napřed do podzimu - Halo Waypoint'
 url: https://www.halowaypoint.com/news/canon-fodder-feet-first-into-fall
 urlToImage: https://wpassets.halowaypoint.com/wp-content/2025/09/CF165.jpg
 ---
 
-Pamatujete si Reach? Ano, hra je už patnáct let stará. Rok 2010 byl před patnácti lety! Zatímco litujeme neúprosného plynutí času, využijme příležitost oslavit a ohlédnout se za vším, co se týká Halo: Reach, ponořit se do některých méně známých...
+Pamatujete na Reach? Ano, hra je už patnáct let stará. Rok 2010 byl před patnácti lety! Zatímco litujeme neúprosného plynutí času, využijme příležitost oslavit a ohlédnout se za vším, co se týká Halo: Reach, ponořit se do některých méně známých...
 
 [Číst původní článek](https://www.halowaypoint.com/news/canon-fodder-feet-first-into-fall)
 

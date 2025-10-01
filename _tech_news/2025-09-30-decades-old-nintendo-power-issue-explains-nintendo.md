@@ -1,9 +1,7 @@
 ---
 category: herní historie
 date: '2025-09-30 04:01:23'
-description: Vysoce výkonný a kompaktní počítač s možností připojení k různým zařízením.
-  Obsahuje procesor Intel Core, SSD disk a podporuje připojení přes USB-C, HDMI a
-  další rozhraní. Ideální pro mobilní použití nebo jako doplňkový počítač.
+description: Zapnutý
 importance: 3
 layout: tech_news_article
 original_title: Decades-old Nintendo Power issue explains Nintendo's choice of A/B/X/Y
@@ -20,7 +18,7 @@ url: https://www.gonintendo.com/contents/53405-decades-old-nintendo-power-issue-
 urlToImage: https://gonintendo.com/attachments/image/71333/file/medium-b2c122ff0ffb9f53268f95fcb1f426e3.jpg
 ---
 
-Vysoce výkonný a kompaktní počítač s možností připojení k různým zařízením. Obsahuje procesor Intel Core, SSD disk a podporuje připojení přes USB-C, HDMI a další rozhraní. Ideální pro mobilní použití nebo jako doplňkový počítač.
+Zapnutý
 
 [Číst původní článek](https://www.gonintendo.com/contents/53405-decades-old-nintendo-power-issue-explains-nintendo-s-choice-of-a-b-x-y-buttons)
 
