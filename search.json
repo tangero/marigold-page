@@ -26555,6 +26555,15 @@
   
     
     ,{
+      "title"    : "Technologické zprávy - 2025-09-30",
+      "url"      : "/tech-news/2025-09-30/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
       "title"    : "Technologické zprávy",
       "url"      : "/tech-news/",
       "category" : "stránka",
@@ -30319,24 +30328,24 @@
       }
       
       ,{
-        "title"    : "Capcom oznamuje, že finále Capcom Cupu 12 bude placená událost ke sledování",
+        "title"    : "Capcom oznamuje, že finále Capcom Cupu 12 bude placená událost na streamování",
         "url"      : "/tech-news/capcom-announces-that-capcom-cup-12-finals-stream/",
         "category" : "tech_news",
-        "content"  : "Blížíme se ke konci dvanácté sezóny Capcom Pro Tour. Capcom Cup 12 je naplánován na 11. března 2026 až 14. března 2026. Událost bude mít celkovou výši výher 1 282 000 USD.Číst původní článekZdroj: 📰 EventHubs"
+        "content"  : "Blížíme se ke konci dvanácté sezóny Capcom Pro Tour. Capcom Cup 12 je naplánován na 11. až 14. března 2026. Událost bude mít celkovou výši výher 1 282 000 dolarů.Číst původní článekZdroj: 📰 EventHubs"
       }
       
       ,{
-        "title"    : "Pacient Neuralinku sdílí svou cestu 18 měsíců po implantaci mozkového čipu",
+        "title"    : "Cesta prvního pacienta Neuralinku 18 měsíců po implantaci mozkového čipu",
         "url"      : "/tech-news/a-18-months-after-his-brain-chip-implant-neuralink/",
         "category" : "tech_news",
-        "content"  : "Tento článek popisuje nejnovější vývoj v oblasti umělé inteligence (AI). Autoři představují nový model AI, který kombinuje generativní adversariální sítě (GAN) a transformery, aby vytvořil vysoce realistické a koherentní texty. Model je schopen generovat dlouhé, souvislé pasáže textu na širokou škálu témat. Výsledky ukazují, že tento přístup překonává současné state-of-the-art modely v oblasti generování textu. Článek diskutuje potenciální aplikace a výzvy tohoto nového modelu AI.Číst původní článekZdroj: 📰 Valleyvanguardonline.com"
+        "content"  : "Tento článek popisuje nejnovější trendy v oblasti technologií. Klíčové body zahrnují pokrok v oblasti umělé inteligence, nové inovace v oblasti hardwaru, jako jsou 5G sítě a kvantové počítače, a také důležitost kybernetické bezpečnosti. Článek se zaměřuje na to, jak tyto technologické pokroky ovlivňují různá odvětví, jako je zdravotnictví, doprava a průmysl. Dále diskutuje o výzvách a příležitostech, které s sebou tyto inovace přinášejí.Číst původní článekZdroj: 📰 Valleyvanguardonline.com"
       }
       
       ,{
-        "title"    : "Přechod AMD od SERDES k &quot;moři drátů&quot; pro propojení čipů v procesorech Zen 6nové generace, což přinese významné zlepšení energetické účinnosti a latence",
+        "title"    : "Přechod AMD od SERDES k &quot;moři drátů&quot; D2D propojení v procesorech Zen 6nové generace, přinášející významné zisky v energetické účinnosti a latenci",
         "url"      : "/tech-news/amd-to-pivot-from-serdes-to-a-sea-of-wires-d2d-int/",
         "category" : "tech_news",
-        "content"  : "AMD plánuje masivní zlepšení s propojením D2D (die-to-die) na Zen 6 a náznak toho již byl vidět u APU Strix Halo.Číst původní článekZdroj: 📰 Wccftech"
+        "content"  : "AMD plánuje masivní zlepšení s propojením D2D (die-to-die) na Zen 6 a náhled na to již byl vidět u APU Strix Halo.Číst původní článekZdroj: 📰 Wccftech"
       }
       
       ,{
@@ -30375,31 +30384,31 @@
       }
       
       ,{
-        "title"    : "Náhodné potvrzení Leona S. Kennedyho v Resident Evil 9: Requiem v závažném přešlapu",
+        "title"    : "Náhodné potvrzení Leona S. Kennedyho v Resident Evil 9: Requiem v závažné chybě",
         "url"      : "/tech-news/leon-s-kennedy-just-got-accidentally-confirmed-in/",
         "category" : "tech_news",
-        "content"  : "Překladatel: Náhodná poznámka během vysílání možná právě potvrdila návrat Leona v Resident Evil 9: Requiem.Číst původní článekZdroj: 📰 Thegamepost.com"
+        "content"  : "Nedávný komentář během živého vysílání by mohl potvrdit návrat Leona v Resident Evil 9: Requiem.Číst původní článekZdroj: 📰 Thegamepost.com"
       }
       
       ,{
-        "title"    : "Mám problémy s dosažením vyvrcholení. Řešení je přímo před obličejem mé ženy... a přesto!",
+        "title"    : "Mám problém s dosažením vyvrcholení. Řešení je přímo před obličejem mé ženy... a přesto!",
         "url"      : "/tech-news/im-having-a-hard-time-climaxing-the-solution-is-ri/",
         "category" : "tech_news",
         "content"  : "Není to ani tak těžké udělat!Číst původní článekZdroj: 📰 Slate Magazine"
       }
       
       ,{
-        "title"    : "Vylepšení Google Home",
+        "title"    : "Ovládání hlasem pro domácnost",
         "url"      : "/tech-news/whats-the-one-thing-would-you-change-about-google/",
         "category" : "tech_news",
-        "content"  : "Pokud bych mohl změnit jednu věc na Google Home, byla by to možnost lepší integrace s dalšími smart home zařízeními a rozšíření podporovaných funkcí a služeb. Rád bych viděl vylepšení v oblasti rozpoznávání řeči a přirozenějšího dialogu, aby interakce s Google Home byla ještě intuitivnější a užitečnější.Číst původní článekZdroj: 📰 9to5google.com"
+        "content"  : "Pokud bych mohl změnit jednu věc na Google Home, bylo by to zlepšení přesnosti hlasového rozpoznávání a schopnosti porozumět přirozenému jazyku. Často se stává, že Google Home špatně rozumí složitějším dotazům nebo příkazům a nedokáže adekvátně reagovat. Vylepšení této klíčové funkcionality by výrazně zlepšilo celkový uživatelský zážitek.Číst původní článekZdroj: 📰 9to5google.com"
       }
       
       ,{
         "title"    : "Týden s novými brýlemi Ray-Ban Meta Gen 2: Skvělé změny, staré problémy",
         "url"      : "/tech-news/one-week-with-the-new-ray-ban-meta-gen-2-glasses-g/",
         "category" : "tech_news",
-        "content"  : "Nový Wayfarer (Gen 2) brýle od Mety ukazují, které problémy z první generace Meta vyřešila a s čím si budete stále muset poradit.Číst původní článekZdroj: 📰 Android Central"
+        "content"  : "Moje týdenní zkušenost s brýlemi Wayfarer (Gen 2) ukazuje, které problémy první generace Meta opravila a se kterými si budete stále muset poradit.Číst původní článekZdroj: 📰 Android Central"
       }
       
       ,{
@@ -30459,17 +30468,17 @@
       }
       
       ,{
-        "title"    : "Zlomené legendy: NELŽI oznámeno pro PS5, Xbox Series a PC",
+        "title"    : "Zlomená legenda: NELŽI oznámeno pro PS5, Xbox Series a PC",
         "url"      : "/tech-news/brokenlore-dont-lie-announced-for-ps5-xbox-series/",
         "category" : "tech_news",
-        "content"  : "            Publisher Wired Productions a vývojář Serafini Productions oznámili BrokenLore: DON’T LIE, novou hru z řady BrokenLore, která byla dříve naznačena pro odhalení na Tokyo Game Show 2025. Hra bude dostupná na platformách PC, PlayStation 5 a Xbox Series X      S.      Číst původní článekZdroj: 📰 Gematsu"
+        "content"  : "Publisher Wired Productions a vývojář Serafini Productions oznámili BrokenLore: DON’T LIE, novou hru z řady BrokenLore, která byla dříve naznačena pro odhalení na Tokyo Game Show 2025. Hra bude dostupná na PC a konzolích.Číst původní článekZdroj: 📰 Gematsu"
       }
       
       ,{
         "title"    : "Vyzkoušel jsem tuto alternativu k OneNote, Google Keep a Evernote na Androidu a byl jsem ohromený",
         "url"      : "/tech-news/i-tried-this-onenote-google-keep-and-evernote-alte/",
         "category" : "tech_news",
-        "content"  : "Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Obsahuje funkce jako handwritten notes, audio nahrávání, integraci s cloud úložišti a další pokročilé možnosti. Aplikace je dostupná pro iOS a Android.Číst původní článekZdroj: 📰 Android Police"
+        "content"  : "Tato neznámá aplikace pro poznámky si zaslouží vaši pozornost. Nabízí intuitivní rozhraní, pokročilé funkce, jako jsou Markdown, vkládání obrázků a souborů, a synchronizaci mezi zařízeními prostřednictvím cloudového úložiště. Aplikace je dostupná na různých platformách a je bezplatná pro osobní použití.Číst původní článekZdroj: 📰 Android Police"
       }
       
       ,{
@@ -30504,7 +30513,7 @@
         "title"    : "Jak se Apple Stores snaží bojovat proti poškrábání iPhonu 17",
         "url"      : "/tech-news/heres-how-apple-stores-are-combating-iphone-17-scr/",
         "category" : "tech_news",
-        "content"  : "Apple Stores jsou podnikající dva důležité kroky, aby se pokusily zabránit poškrábání a označení na jejich vystavených jednotkách. Jelikož…Číst původní článekZdroj: 📰 9to5Mac"
+        "content"  : "Apple Stores jsou podnikající dva důležité kroky, aby se pokusily zabránit poškrábání a značkám na jejich vystavených jednotkách. Jelikož…Číst původní článekZdroj: 📰 9to5Mac"
       }
       
       ,{
@@ -30539,7 +30548,7 @@
         "title"    : "Chatbot &#39;Veritas&#39; společnosti Apple je údajně interní test vylepšení AI Siri",
         "url"      : "/tech-news/apples-veritas-chatbot-is-reportedly-an-employee-o/",
         "category" : "tech_news",
-        "content"  : "Apple nemá plány na veřejné vydání svého interního chatbotu Veritas a pravděpodobně se bude spoléhat na Google Gemini pro AI-poháněné vyhledávání Siri.Číst původní článekZdroj: ⚡ The Verge"
+        "content"  : "Apple nemá plány na veřejné vydání svého interního chatbota Veritas a pravděpodobně se bude spoléhat na Google Gemini pro AI-poháněné vyhledávání Siri.Číst původní článekZdroj: ⚡ The Verge"
       }
       
       ,{
@@ -30557,10 +30566,24 @@
       }
       
       ,{
+        "title"    : "Xiaomi 17 Pro (Max): První recenze Leica kamery a srovnání s iPhone 17 Pro Max, Galaxy S25 Ultra a Xiaomi 15 Pro - Notebookcheck",
+        "url"      : "/tech-news/xiaomi-17-pro-max-first-leica-camera-reviews-and-c/",
+        "category" : "tech_news",
+        "content"  : "Od tohoto víkendu je Xiaomi 17 horké téma v Číně. Kromě dlouhých front před obchody Xiaomi a nového prodejního rekordu se nyní první recenze zaměřují na to, jak fotoaparáty ve dvou variantách Xiaomi 17 Pro fungují ve srovnání s Xiaomi…Číst původní článekZdroj: 📰 Notebookcheck.net"
+      }
+      
+      ,{
         "title"    : "Jeden z největších streamerů Destiny 2 se odchází uprostřed pokračující frustrace hráčů se stavem hry, říká, že je &quot;unavený&quot; z neúprosné toxicity komunity: &quot;Komunita mě vyžene dříve, než to udělá hra",
         "url"      : "/tech-news/one-of-destiny-2s-biggest-streamers-is-stepping-aw/",
         "category" : "tech_news",
         "content"  : "Další přední streamer hry Destiny 2, Datto, oznámil, že se od hry odchází, čímž se připojuje k GrenaderJakeovi a Gladdovi, kteří si také berou pauzu kvůli vyhoření a frustraci.Číst původní článekZdroj: 📰 Thegamepost.com"
+      }
+      
+      ,{
+        "title"    : "Slavný designér Applu Jony Ive nemohl najít lucernu, kterou by chtěl na svou jachtu, a tak si navrhl vlastní. Stojí 4 800 dolarů.",
+        "url"      : "/tech-news/famed-apple-designer-jony-ive-couldnt-find-a-lante/",
+        "category" : "tech_news",
+        "content"  : "Designové studio Jonyho Iva, LoveFrom, uzavřelo partnerství s japonským výrobcem Balmuda a společně vytvořili Sailing Lantern, který stojí 4 800 dolarů.Číst původní článekZdroj: 📰 Business Insider"
       }
       
       ,{
@@ -30571,10 +30594,10 @@
       }
       
       ,{
-        "title"    : "Srovnání iPhone 17 Pro a Google Pixel 10 Pro - vítěz po 7 kolech",
+        "title"    : "Srovnání iPhone 17 Pro a Google Pixel 10 Pro ve 7 kolech - vítěz",
         "url"      : "/tech-news/i-put-the-iphone-17-pro-vs-google-pixel-10-pro-thr/",
         "category" : "tech_news",
-        "content"  : "Apple’s nejnovější kompaktní Pro model překonává Google? Nejnovější kompaktní Pro model od Applu nabízí výkonný procesor, pokročilé fotoaparáty a dlouhou výdrž baterie. Oproti tomu Google představil nový kompaktní model se špičkovými specifikacemi a vylepšenou kamerou. Oba modely mají své silné stránky a konkurují si v segmentu kompaktních prémiových smartphonů.Číst původní článekZdroj: 📰 Tom’s Guide"
+        "content"  : "Apple’s nejnovější kompaktní Pro model překonává Google? Nejnovější kompaktní Pro model od Applu nabízí vysoce výkonný procesor, pokročilé fotoaparáty a dlouhou výdrž baterie v kompaktním designu. Oproti tomu Google nabízí svůj vlastní kompaktní high-end model se skvělou kamerou a sofistikovanými funkcemi AI.Číst původní článekZdroj: 📰 Tom’s Guide"
       }
       
       ,{
@@ -30599,10 +30622,24 @@
       }
       
       ,{
-        "title"    : "Podrobnosti o prvním placeném DLC pro Borderlands 4 a pokračující problémy 2K s výkonem na PC",
+        "title"    : "Moto X70 Air s ultra tenkým designem bude uveden na trh do konce října",
+        "url"      : "/tech-news/moto-x70-air-with-ultra-thin-design-to-launch-by-o/",
+        "category" : "tech_news",
+        "content"  : "Motorola potvrdila, že Moto X70 Air bude uveden na trh v říjnu. Telefon se bude vyznačovat štíhlým a lehkým designem s AI funkcemi, ale plné specifikace zatím nebyly zveřejněny.Číst původní článekZdroj: 📰 gizmochina"
+      }
+      
+      ,{
+        "title"    : "Podrobnosti o prvním placeném DLC pro Borderlands 4 jako 2K nadále bojuje s problémy s výkonem na PC",
         "url"      : "/tech-news/borderlands-4-details-first-paid-dlc-plans-as-2k-c/",
         "category" : "tech_news",
-        "content"  : "Gearbox odhalil svého prvního DLC postavy vault huntera C4SH na Tokyo Game Show o víkendu.Číst původní článekZdroj: 📰 Eurogamer.net"
+        "content"  : "Společnost Gearbox představila svého prvního DLC hratelného hrdinu C4SH na Tokyo Game Show o víkendu.Číst původní článekZdroj: 📰 Eurogamer.net"
+      }
+      
+      ,{
+        "title"    : "Deset open-source aplikací, které vždy doporučuji uživatelům Windows - a jsou zdarma",
+        "url"      : "/tech-news/a-10-open-source-apps-i-always-recommend-windows-u/",
+        "category" : "tech_news",
+        "content"  : "Tyto bezplatné, open-source nástroje vám pomohou zvýšit výkon vašeho Windows PC a poskytnout vám významný nárůst produktivity.Číst původní článekZdroj: 📰 ZDNet"
       }
       
       ,{
@@ -30613,17 +30650,38 @@
       }
       
       ,{
-        "title"    : "Očekává se, že série NVIDIA GeForce RTX 50 SUPER bude uvedena mezi koncem Q1 a začátkem Q2 2026 - VideoCardz.com",
+        "title"    : "Očekává se, že série NVIDIA GeForce RTX 50 SUPER bude uvedena na trh mezi koncem prvního a začátkem druhého čtvrtletí roku 2026 - VideoCardz.com",
         "url"      : "/tech-news/nvidia-geforce-rtx-50-super-series-expected-betwee/",
         "category" : "tech_news",
-        "content"  : "Benchlife se vyjadřuje k nedávným spekulacím o RTX 50 SUPERSpekulace kolem řady NVIDIA GeForce RTX 50 SUPER stále kolují, ale nikdy nebyl oficiálně oznámen datum uvedení na trh. Některé zdroje nedávno naznačily, že karty by mohly přijít dříve, než se očekávalo, ale po…Číst původní článekZdroj: 📰 Videocardz.com"
+        "content"  : "Benchlife se vyjadřuje k nedávným spekulacím o RTX 50 SUPER Spekulace kolem řady NVIDIA GeForce RTX 50 SUPER stále kolují, ale nikdy nebylo oznámeno oficiální datum uvedení na trh. Některé zdroje nedávno naznačily, že karty by mohly být uvedeny dříve, než se očekávalo, ale po…Číst původní článekZdroj: 📰 Videocardz.com"
       }
       
       ,{
         "title"    : "Můj snoubenec chce, abych omezila cvičení. Jeho důvod by mohl vést k zrušení celé svatby.",
         "url"      : "/tech-news/help-my-fianc%C3%A9-wants-me-to-cut-back-on-working-out/",
         "category" : "tech_news",
-        "content"  : "Tohle je poslední kapka.Číst původní článekZdroj: 📰 Slate Magazine"
+        "content"  : "Tohle už je poslední kapka.Číst původní článekZdroj: 📰 Slate Magazine"
+      }
+      
+      ,{
+        "title"    : "Aktualizace stabilní verze One UI 8 pro Galaxy A55 je nyní k dispozici!",
+        "url"      : "/tech-news/stable-one-ui-8-update-for-galaxy-a55-is-out-now-s/",
+        "category" : "tech_news",
+        "content"  : "Před několika dny Samsung odhalil harmonogram nasazení One UI 8.0 (Android 16) a podle něj by měla značka poskytnout nový software pro Galaxy A55 již příští měsíc. Nicméně, protože společnost postupuje rychleji, již začala nasazovat aktualizaci pro vybrané modely Galaxy A55 v Evropě.Číst původní článekZdroj: 📰 SamMobile"
+      }
+      
+      ,{
+        "title"    : "Červená mrtvá vykoupení 2 &quot;bylo to nejlepší&quot;, na čem spoluzakladatel Rockstaru Dan Houser pracoval, ne GTA 5: &quot;Nejlepší jednotná realizace tematické konzistence vyprávění otevřeného světa",
+        "url"      : "/tech-news/red-dead-redemption-2-was-the-best-thing-that-rock/",
+        "category" : "tech_news",
+        "content"  : "Střední část GTA 5 je úžasná.Číst původní článekZdroj: 📰 GamesRadar+"
+      }
+      
+      ,{
+        "title"    : "Jak používat správce hesel pro sdílení přihlašovacích údajů po vaší smrti (2025)",
+        "url"      : "/tech-news/how-to-use-a-password-manager-to-share-your-logins/",
+        "category" : "tech_news",
+        "content"  : "Vaše přihlašovací údaje budou existovat i po vašem odchodu, ale správci hesel vám umožňují spravovat a sdílet váš digitální odkaz.Číst původní článekZdroj: 🔧 Wired"
       }
       
       ,{
@@ -30634,31 +30692,584 @@
       }
       
       ,{
-        "title"    : "Když Chrono Trigger slaví 30. výročí, spirituální nástupce Threads of Time dostává nový trailer s herním videem",
-        "url"      : "/tech-news/as-chrono-trigger-celebrates-30th-anniversary-spir/",
+        "title"    : "Nový trailer s herní mechanikou Dawn of War 4 vyvolává stížnosti na herecké výkony, začlenění Primaris Marines a dokonce i barvy — ale Warhammer 40,000 by nebyl Warhammer 40,000 bez nějaké hereze, že?",
+        "url"      : "/tech-news/dawn-of-war-4s-new-gameplay-trailer-sparks-complai/",
         "category" : "tech_news",
-        "content"  : "Retro RPG Threads of Time inspirovaný hrou Chrono Trigger představil nový gameplay trailer, který ukazuje více z jeho časové mechaniky, bojového systému a průzkumu světa.Číst původní článekZdroj: 📰 Eurogamer.net"
+        "content"  : "Dawn of War 4 obdržel o víkendu nový trailer s herní ukázkou a zatímco obecně pokračuje nadšení pro nadcházející real-time strategickou hru, video vyvolalo řadu stížností od některých členů komunity Warhammer 40,000.Číst původní článekZdroj: 📰 IGN"
       }
       
       ,{
-        "title"    : "ZR1, GTD a nová válka na Nürburgringu v Americe",
+        "title"    : "Tichý kopec f překročil prodej jednoho milionu kopií, den po vydání",
+        "url"      : "/tech-news/silent-hill-f-surpasses-one-million-copies-sold-a/",
+        "category" : "tech_news",
+        "content"  : "Nejnovější díl hororové série Konami dosáhl milníku rychleji než Silent Hill 2 Remake.Číst původní článekZdroj: 📰 GamesIndustry.biz"
+      }
+      
+      ,{
+        "title"    : "Když Chrono Trigger slaví 30. výročí, spirituální nástupce Threads of Time dostává nový trailer s herní ukázkou",
+        "url"      : "/tech-news/as-chrono-trigger-celebrates-30th-anniversary-spir/",
+        "category" : "tech_news",
+        "content"  : "Retro RPG Threads of Time inspirovaný hrou Chrono Trigger představil nový gameplay trailer, který ukazuje více z jeho časové mechaniky, různorodé prostředí a soubojový systém.Číst původní článekZdroj: 📰 Eurogamer.net"
+      }
+      
+      ,{
+        "title"    : "Nová nadušní sluchátka CMF mají posuvník energie pro zesílení basů a výšek",
+        "url"      : "/tech-news/cmfs-first-over-ear-headphones-have-an-energy-slid/",
+        "category" : "tech_news",
+        "content"  : "Rozpočtová podznačka CMF společnosti Nothing představila sluchátka Headphone Pro za 99 USD s funkcí aktivního potlačení hluku (ANC) a posuvníkem pro úpravu zvukového profilu.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Corvette ZR1, GTD a nová Nürburgring válka v Americe - Ars Technica",
         "url"      : "/tech-news/zr1-gtd-and-americas-new-n%C3%BCrburgring-war-ars-techn/",
         "category" : "tech_news",
         "content"  : "Ford a Chevy dosáhly téměř identických časů kol s velmi odlišnými vozy; oba jsme vyzkoušeli.Číst původní článekZdroj: 🔬 Ars Technica"
       }
       
       ,{
-        "title"    : "Ukončování věcí za vás",
+        "title"    : "Ukončení věcí za vás - nová skvělá funkce ChatGPT",
         "url"      : "/tech-news/column-i-discovered-chatgpts-best-new-feature-quit/",
         "category" : "tech_news",
-        "content"  : "Umělá inteligence “agenti” jsou nyní dostatečně schopní, aby prováděli otravné úkoly, jako je rušení předplatného. Pouze se ujistěte, že můžete napravit jakékoli chyby.Číst původní článekZdroj: 📰 The Washington Post"
+        "content"  : "Umělá inteligence “agenti” jsou nyní schopni provádět otravné úkoly, jako je rušení předplatného. Ujistěte se však, že můžete napravit jakékoli chyby.Číst původní článekZdroj: 📰 The Washington Post"
+      }
+      
+      ,{
+        "title"    : "Nastal čas upgradovat na iPhone 17? Jak se starší iPhony porovnávají",
+        "url"      : "/tech-news/is-it-time-to-upgrade-to-the-iphone-17-how-older-i/",
+        "category" : "tech_news",
+        "content"  : "iPhone 17 má několik drobných vylepšení oproti iPhone 16, ale v porovnání se staršími zařízeními jsou rozdíly opravdu znatelné.Číst původní článekZdroj: 📰 CNET"
+      }
+      
+      ,{
+        "title"    : "Společnost SanDisk představuje exkluzivní microSD kartu a NVMe SSD pro herní konzole ROG Xbox Ally",
+        "url"      : "/tech-news/sandisk-announces-exclusive-microsd-card-and-nvme/",
+        "category" : "tech_news",
+        "content"  : "SanDisk představil oficiálně licencovaná úložná řešení pro herní konzole ASUS’ ROG Xbox Ally X a ROG Xbox Ally. Nabídka zahrnuje ROG-branded SanDisk microSD kartu, která je nyní k dispozici pro předobjednávku, a připravovaný WD_BLACK SN7100X NVMe SSD.Číst původní článekZdroj: 📰 Techpowerup.com"
+      }
+      
+      ,{
+        "title"    : "Vylepšené brýle Ray-Ban Gen 2 od Mety stojí za to kvůli zlepšení výdrže baterie",
+        "url"      : "/tech-news/metas-revamped-ray-ban-gen-2-glasses-are-worth-it/",
+        "category" : "tech_news",
+        "content"  : "Tyto brýle mi nyní vydrží většinu dne, ale AI je stále ve velkém procesu vývoje.Číst původní článekZdroj: 📰 CNET"
+      }
+      
+      ,{
+        "title"    : "Dva nové displeje Apple se blíží masové výrobě, mohou být uvedeny na trh letos",
+        "url"      : "/tech-news/two-new-apple-displays-nearing-mass-production-may/",
+        "category" : "tech_news",
+        "content"  : "Apple plánuje v tomto roce nebo na začátku roku 2026 uvést na trh dva nové externí monitory, podle informací Marka Gurmana z Bloombergu.Číst původní článekZdroj: 📰 MacRumors"
+      }
+      
+      ,{
+        "title"    : "Podívejte se na OnePlus 15 ze všech úhlů",
+        "url"      : "/tech-news/get-a-look-at-the-oneplus-15-from-every-angle-the/",
+        "category" : "tech_news",
+        "content"  : "Vlajková loď OnePlus 15 bude uvedena na globální trh a toto je její nová barva ‘písečná bouře’ s fiberglasoým zadním krytem a kovovým rámem s keramickým povrchem.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Otestoval jsem nový Snapdragon X2 Elite Extreme od Qualcommu. Toto jsem se dozvěděl.",
+        "url"      : "/tech-news/i-benchmarked-qualcomms-new-snapdragon-x2-elite-ex/",
+        "category" : "tech_news",
+        "content"  : "Provedli jsme několik prvotních benchmarků na referenčních jednotkách, abychom zjistili, jak se nový čip Qualcomm Snapdragon X2 Elite vyrovná konkurenci.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "Váš příští Android telefon by mohl drtit iPhone 17 Pro pro hraní her",
+        "url"      : "/tech-news/your-next-android-phone-could-crush-the-iphone-17/",
+        "category" : "tech_news",
+        "content"  : "Buďte trpěliví a posuzujte telefony, až když se skutečně objeví na trhu.Číst původní článekZdroj: 📰 Gizmodo.com"
+      }
+      
+      ,{
+        "title"    : "Diskusní bod: Takže, objednali jste si předem ROG Xbox Ally?",
+        "url"      : "/tech-news/talking-point-so-did-you-end-up-pre-ordering-the-r/",
+        "category" : "tech_news",
+        "content"  : "Nový procesor Intel Core i9-13900K je výkonný, ale také velmi drahý. Nabízí 24 jader a 32 vláken, vysoké takty a vylepšenou mikroarchitekturu. Výkon je impozantní, ale cena se pohybuje okolo 15 000 Kč, což z něj dělá spíše prémiovou volbu pro nadšence a profesionály. Záleží, zda je pro vás takový výkon nezbytný a jste ochotni si za něj připlatit.Číst původní článekZdroj: 📰 Pure Xbox"
+      }
+      
+      ,{
+        "title"    : "Živá akční upoutávka Battlefieldu 6 je jeho největší výpad proti Call of Duty, dělá si legraci z výbuchu Zaca Efrona",
+        "url"      : "/tech-news/battlefield-6s-live-action-trailer-is-its-biggest/",
+        "category" : "tech_news",
+        "content"  : "Nový trailer k vydání hry Battlefield 6 obsahuje celebrity včetně Zaca Efrona, kteří jsou v komediálním výpadu proti marketingu hry Call of Duty vybuchováni.Číst původní článekZdroj: 📰 Eurogamer.net"
+      }
+      
+      ,{
+        "title"    : "Displej LG UltraFine 6K (32U990A) TB5: Předobjednávky otevřeny 30. září",
+        "url"      : "/tech-news/lg-ultrafine-6k-32u990a-tb5-display-pre-orders-ope/",
+        "category" : "tech_news",
+        "content"  : "Předobjednávky nového 6K displeje LG UltraFine evo (model 32U990A) s podporou Thunderbolt 5 začnou 30. září, podle zprávy z významného amerického…Číst původní článekZdroj: 📰 MacRumors"
+      }
+      
+      ,{
+        "title"    : "Zůstanu u Windows 10 i poté, co v říjnu přestane být podporováno. Tady jak.",
+        "url"      : "/tech-news/im-sticking-with-windows-10-even-after-it-dies-in/",
+        "category" : "tech_news",
+        "content"  : "Microsoft chce ukončit podporu Windows 10 pro uživatele jako jste vy a já. Zde je důvod, proč u něj zůstávám a jak to dělám.Číst původní článekZdroj: 📰 PCWorld"
+      }
+      
+      ,{
+        "title"    : "Společnost Microsoft zavádí funkci &#39;vibe working&#39; v Excelu a Wordu",
+        "url"      : "/tech-news/microsoft-launches-vibe-working-in-excel-and-word/",
+        "category" : "tech_news",
+        "content"  : "Microsoft zavádí nové AI nástroje ve svých aplikacích Office. Nový Agent Mode přichází do aplikací Word a Excel, spolu s Office Agentem v chatovací aplikaci Copilot.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Počáteční testy: Snapdragon X2 Elite Extreme od Qualcommu vykazuje vážnou rychlost",
+        "url"      : "/tech-news/first-tests-qualcomms-snapdragon-x2-elite-extreme/",
+        "category" : "tech_news",
+        "content"  : "Výkonné hodiny, mnoho jader, dostatek AI výkonu a přepracovaná GPU: nový čip Snapdragon X2 Elite Extreme vypadá jako lídr v závodě procesorů pro notebooky. Zde je, jak se v raných testech vyrovnává konkurenci od AMD, Apple a Intel.Číst původní článekZdroj: 📰 PCMag.com"
+      }
+      
+      ,{
+        "title"    : "Marissa Mayer uzavře svou starou AI startupovou společnost, prodá aktiva své nové AI startupové společnosti",
+        "url"      : "/tech-news/marissa-mayer-will-close-her-old-ai-startup-sell-a/",
+        "category" : "tech_news",
+        "content"  : "Bývalá výkonná ředitelka Yahoo Marissa Meyerová zavírá dveře své spotřebitelské softwarové startupové společnosti Sunshine a prodává aktiva společnosti svému novému AI startupu Dazzle, jak uvedl Wired s odkazem na e-mail zaslaný akcionářům Sunshine.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Společnost Samsung vydává aktualizaci One UI 8 a Android 16 pro modely Galaxy S23, Tab S10, A55 a další",
+        "url"      : "/tech-news/samsung-rolls-out-one-ui-8-android-16-update-to-ga/",
+        "category" : "tech_news",
+        "content"  : "Samsung nyní vydává stabilní aktualizace One UI 8 pro několik dalších zařízení včetně řady Galaxy S23, Galaxy…Číst původní článekZdroj: 📰 9to5google.com"
+      }
+      
+      ,{
+        "title"    : "Nový gradientní logo &#39;G&#39; od Googlu se rozšiřuje všude",
+        "url"      : "/tech-news/googles-gradient-g-logo-is-rolling-out-everywhere/",
+        "category" : "tech_news",
+        "content"  : "Google je zavedl gradient “G” jako své celofiremní logo, což je jeho první velká změna loga za posledních 10 let.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Velké AI firmy investují do světových modelů v době zpomalení pokroku v LLM",
+        "url"      : "/tech-news/big-ai-firms-pump-money-into-world-models-as-llm-a/",
+        "category" : "tech_news",
+        "content"  : "Světové modely mají za cíl navigovat fyzickým světem učením se z videí a robotických dat.Číst původní článekZdroj: 📰 Financial Times"
+      }
+      
+      ,{
+        "title"    : "Fanoušci zůstali bez slov, když Capcom uzamkl finále Street Fighter 6 za platební bránou",
+        "url"      : "/tech-news/fans-left-speechless-as-capcom-locks-street-fighte/",
+        "category" : "tech_news",
+        "content"  : "Hodně štěstí s tím.Číst původní článekZdroj: 📰 Push Square"
+      }
+      
+      ,{
+        "title"    : "Generální ředitel Fordu není nadšený z Apple CarPlay Ultra",
+        "url"      : "/tech-news/fords-ceo-isnt-impressed-with-apple-carplay-ultra/",
+        "category" : "tech_news",
+        "content"  : "Ford CEO Jim Farley kritizoval “provedení” nové rozšířené verze CarPlay Ultra od Applu, argumentujíc, že věci by se mohly stát “nepořádnými”, pokud by bylo povoleno přebírat základní funkce vozidla.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Všechny hlavní Wi-Fi mesh systémy seřazené od nejhoršího po nejlepší podle uživatelských recenzí",
+        "url"      : "/tech-news/every-major-wi-fi-mesh-system-ranked-from-worst-to/",
+        "category" : "tech_news",
+        "content"  : "Systém Wi-Fi mesh může odstranit mrtvá místa, zvýšit pokrytí a zvýšit rychlosti. Uživatelské recenze mohou odlišit ty nejlepší od těch nejhorších a my jsme je pro vás seřadili.Číst původní článekZdroj: 📰 BGR"
+      }
+      
+      ,{
+        "title"    : "Ředitel Fordu hovoří o CarPlay Ultra a poskytuje novou aktualizaci podpory",
+        "url"      : "/tech-news/ford-ceo-talks-carplay-ultra-and-offers-new-update/",
+        "category" : "tech_news",
+        "content"  : "Ford je již nějakou dobu součástí seznamu partnerů Apple CarPlay Ultra a jeho CEO právě poskytl aktuální informace o plánované podpoře.Číst původní článekZdroj: 📰 9to5Mac"
+      }
+      
+      ,{
+        "title"    : "Těžké získat zpět zálohu 50 000 USD na Roadster po 8 letech - Electrek",
+        "url"      : "/tech-news/tesla-makes-it-hard-to-get-50000-roadster-deposit/",
+        "category" : "tech_news",
+        "content"  : "Tesla Roadster rezervační držitelé popisují frustrující proces získání zpět svého 50 000 USD depozitu poté, co výrobce automobilu odložil uvedení vozidla na trh.Číst původní článekZdroj: 📰 Electrek"
+      }
+      
+      ,{
+        "title"    : "Vývoj hry Brotato po vydání přesunut do Evil Empire",
+        "url"      : "/tech-news/brotato-post-launch-development-moved-to-evil-empi/",
+        "category" : "tech_news",
+        "content"  : "Evil Empire, vývojář hry Rogue Prince of Persia, převzal post-launch vývoj hry Brotato, multi-milionového prodejního roguelike akčního střílecího titulu vyvinutého studiem Blobfish, jak oznámila společnost…Číst původní článekZdroj: 📰 Gematsu"
+      }
+      
+      ,{
+        "title"    : "Zprávy z Astros: Crawfish Boil 29. září: Framber, vyřazení, Meyers - The Crawfish Boxes",
+        "url"      : "/tech-news/astros-news-september-29th-crawfish-boil-framber-e/",
+        "category" : "tech_news",
+        "content"  : "Vítejte v pondělním Astros BoilČíst původní článekZdroj: 📰 The Crawfish Boxes"
+      }
+      
+      ,{
+        "title"    : "Příprava na masovou výrobu displejů pro iPhone Fold",
+        "url"      : "/tech-news/iphone-fold-a-step-closer-as-samsung-prepping-mass/",
+        "category" : "tech_news",
+        "content"  : "Očekávání, že Apple představí iPhone Fold příští rok, získala další podporu z oznámení Samsungu. Zatímco displej Applu…Číst původní článekZdroj: 📰 9to5Mac"
+      }
+      
+      ,{
+        "title"    : "Snapchat omezuje bezplatné úložiště, spouští placené plány úložiště",
+        "url"      : "/tech-news/snapchat-caps-free-memory-storage-launches-paid-st/",
+        "category" : "tech_news",
+        "content"  : "Sociální mediální gigant oznámil, že bezplatný přístup k této funkci bude omezen na 5 GB.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Testovací jízdy: Specialized Chisel FS Mikea Kazimera - Pinkbike",
+        "url"      : "/tech-news/staff-rides-mike-kazimers-specialized-chisel-fs-pi/",
+        "category" : "tech_news",
+        "content"  : "Tento článek poskytuje podrobný pohled na Kazovu velmi růžovou kolo. Kolo je vybaveno moderními komponentami, jako jsou hydraulické kotoučové brzdy a odpružená vidlice. Rám je vyroben z lehkého uhlíkového kompozitu, který zajišťuje vysokou pevnost a nízkou hmotnost. Celkový design kola je velmi výrazný díky zářivě růžové barvě rámu.Číst původní článekZdroj: 📰 Pinkbike.com"
+      }
+      
+      ,{
+        "title"    : "Rámec modelů základů Applu odemyká nové inteligentní zážitky z aplikací",
+        "url"      : "/tech-news/apples-foundation-models-framework-unlocks-new-int/",
+        "category" : "tech_news",
+        "content"  : "Vývojáři po celém světě mohou do svých aplikací přinášet ještě inteligentnější zážitky využíváním frameworku Foundation Models od společnosti Apple.Číst původní článekZdroj: 📰 Apple Newsroom"
+      }
+      
+      ,{
+        "title"    : "Mechanické klávesnice Keychron se prodávají se slevou až 62 procent",
+        "url"      : "/tech-news/keychron-mechanical-keyboards-are-up-to-62-percent/",
+        "category" : "tech_news",
+        "content"  : "Keychron nabízí několik mechanických herních klávesnic se slevou, z nichž některé stojí pouhých 35 USD. Můžete také ušetřit na grafických kartách Nvidia RTX 5060 Ti.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Zion opouští Nintendo Life po šesti skvělých letech",
+        "url"      : "/tech-news/video-after-six-wonderful-years-zion-is-leaving-ni/",
+        "category" : "tech_news",
+        "content"  : "Budeme tě postrádat, příteli.Číst původní článekZdroj: 📰 Nintendo Life"
+      }
+      
+      ,{
+        "title"    : "Nadcházející postavy v Destiny Rising, včetně známého Gunslinger",
+        "url"      : "/tech-news/destiny-rising-leak-reveals-4-upcoming-characters/",
+        "category" : "tech_news",
+        "content"  : "Nový únik dat z dataminu Destiny Rising odhalil čtyři postavy, které se zdají být uvedeny v budoucnosti, včetně známého pistolníka, kterého hráči Destiny 2 možná poznají.Číst původní článekZdroj: 📰 Thegamepost.com"
+      }
+      
+      ,{
+        "title"    : "Návrhové soubory: Odyssey, část 2 - Magic: The Gathering",
+        "url"      : "/tech-news/design-files-odyssey-part-2-magic-the-gathering/",
+        "category" : "tech_news",
+        "content"  : "Sledujte Marka na jeho odysee, ve které diskutuje o kartách z rané fáze vývoje sady Odyssey, které se dostaly do tisku.Číst původní článekZdroj: 📰 Wizards.com"
+      }
+      
+      ,{
+        "title"    : "Dětské Kindle od Amazonu jsou levnější než kdy dříve před říjnovým Prime Day",
+        "url"      : "/tech-news/amazons-kid-friendly-kindles-are-cheaper-than-ever/",
+        "category" : "tech_news",
+        "content"  : "Amazon Kindle Kids, Kindle Paperwhite Kids a Kindle Colorsoft Kids e-čtečky jsou nyní k dispozici za nejnižší ceny kdy dříve v rámci předčasných nabídek Amazon Prime Big Deal Days. Můžete ušetřit až 60 dolarů, když si jednu z nich nyní pořídíte.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Společnost Sony oslavuje výročí PlayStationu novou fotografickou knihou, která stojí £95 (nebo £245, pokud chcete něco exkluzivního).",
+        "url"      : "/tech-news/sony-celebrates-playstation-anniversary-with-a-new/",
+        "category" : "tech_news",
+        "content"  : "Dnes je 30. výročí uvedení Sony PlayStation na trh ve Velké Británii a Sony u této příležitosti vydává luxusní fotografickou knihu.Číst původní článekZdroj: 📰 Eurogamer.net"
+      }
+      
+      ,{
+        "title"    : "Alexa Plus je chytřejší — ale zatím není dost chytrá",
+        "url"      : "/tech-news/alexa-plus-is-smarter-but-its-not-yet-smart-enough/",
+        "category" : "tech_news",
+        "content"  : "Amazon’s LLM-powered Alexa Plus je velký krok vpřed, ale spolehlivost a hardwarová omezení jí brání v tom, aby se stala obrovským skokem, který si chytré domácnosti zaslouží.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Bohatí důchodci z generace baby boomů, kteří jsou nyní extrémně šetřiví, protože se bojí, že přijdou o všechno",
+        "url"      : "/tech-news/meet-the-rich-retired-boomers-who-are-now-ultra-fr/",
+        "category" : "tech_news",
+        "content"  : "Není to jen generace Z, kdo si v současnosti nemůže dovolit náklady na živobytí. Dokonce i baby boomers, kteří odešli do důchodu s alespoň šestimístnou částkou úspor, pociťují tlak.Číst původní článekZdroj: 📰 Fortune"
+      }
+      
+      ,{
+        "title"    : "Tichý kopec f má jednu z nejlepších a nejděsivějších hádanek roku",
+        "url"      : "/tech-news/silent-hill-f-has-one-of-the-best-creepiest-puzzle/",
+        "category" : "tech_news",
+        "content"  : "Strašáci. Nekonečné pole. Hrozivá mlha. Krásné časy!Číst původní článekZdroj: 📰 Kotaku"
+      }
+      
+      ,{
+        "title"    : "Nejzákeřnější šampion v LoL byl potvrzen pro 2XKO",
+        "url"      : "/tech-news/the-most-evil-champion-in-lol-has-been-confirmed-f/",
+        "category" : "tech_news",
+        "content"  : "S pouhými několika dny do zahájení fáze Early Access 2XKO se právě podíváme na jeden z nejočekávanějších aktualizací obsahu před tímto spuštěním.Číst původní článekZdroj: 📰 Sports Illustrated"
+      }
+      
+      ,{
+        "title"    : "Rozhovor s ředitelem Naokim Hamaguchim o FINAL FANTASY VII REMAKE INTERGRADE - Square Enix",
+        "url"      : "/tech-news/final-fantasy-vii-remake-intergrade-interview-with/",
+        "category" : "tech_news",
+        "content"  : "Vítejte na oficiální webové stránce SQUARE ENIX. Zde naleznete všechny nejnovější zprávy a aktualizace o vašich oblíbených hrách a nadcházejících vydáních.Číst původní článekZdroj: 📰 Square-enix-games.com"
+      }
+      
+      ,{
+        "title"    : "Hráči NBA 2K26 vytvářejí krvavé postavy Charlieho Kirka a hrají s nimi online",
+        "url"      : "/tech-news/nba-2k26-players-are-making-bloody-charlie-kirk-ch/",
+        "category" : "tech_news",
+        "content"  : "Postava v tvůrci postav má možnosti tetování na krku, které můžete zabarvit do krvavě červené barvy, a z toho se vyvinulo další.Číst původní článekZdroj: 📰 Kotaku"
+      }
+      
+      ,{
+        "title"    : "Nejrychlejší letecky přípustná powerbanka od Ankeru je nyní k dispozici",
+        "url"      : "/tech-news/ankers-fastest-airline-friendly-power-bank-is-now/",
+        "category" : "tech_news",
+        "content"  : "Anker’s nový Prime Power Bank umožňuje nabíjet pár notebooků a smartphone. Tento produkt je nyní k dispozici a je zlevněn na $184.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Malá recenze: Pac-Man World 2 Re-Pac (PS5) - Kvalitní remake, který nezapálí svět",
+        "url"      : "/tech-news/mini-review-pac-man-world-2-re-pac-ps5-fine-remake/",
+        "category" : "tech_news",
+        "content"  : "Pac je zpět… znovuČíst původní článekZdroj: 📰 Push Square"
+      }
+      
+      ,{
+        "title"    : "Nová hra Pána prstenů údajně míří konkurovat Odkazu Bradavic",
+        "url"      : "/tech-news/new-lord-of-the-rings-game-aiming-to-compete-with/",
+        "category" : "tech_news",
+        "content"  : "Podle zprávy je na cestě nová akční hra z pohledu třetí osoby zasazená do světa Pána prstenů.Číst původní článekZdroj: 📰 GameSpot"
+      }
+      
+      ,{
+        "title"    : "Závěrečná fantasy Tactics – Kroniky Ivalice: Tipy pro nové a vracející se hráče",
+        "url"      : "/tech-news/final-fantasy-tactics-the-ivalice-chronicles-tips/",
+        "category" : "tech_news",
+        "content"  : "Zjistěte, proč je tato legendární taktická hra tak vysoce ceněna a získejte několik tipů, které vám pomohou začít s vaší dobrodružstvím v Ivalice.Číst původní článekZdroj: 📰 Xbox.com"
+      }
+      
+      ,{
+        "title"    : "Kánon jako střelivo: Nejprve nohy do pádu - Halo Waypoint",
+        "url"      : "/tech-news/canon-fodder-feet-first-into-fall-halo-waypoint/",
+        "category" : "tech_news",
+        "content"  : "Pamatujete si Reach? Ano, hra je už patnáct let stará. Rok 2010 byl před patnácti lety! Zatímco litujeme neúprosného plynutí času, využijme příležitost oslavit a ohlédnout se za vším, co se týká Halo: Reach, ponořit se do některých méně známých…Číst původní článekZdroj: 📰 Halowaypoint.com"
+      }
+      
+      ,{
+        "title"    : "Série Ghost of Yōtei zůstane věrná Japonsku a katanám",
+        "url"      : "/tech-news/ghost-of-y%C5%8Dtei-dev-says-the-series-will-stick-with/",
+        "category" : "tech_news",
+        "content"  : "Před uvedením hry Ghost of Yōtei na PS5 řekl vedoucí studia Sucker Punch Brian Fleming, že si vývojáři nedokážou představit tuto sérii jinde.Číst původní článekZdroj: 📰 Wccftech"
+      }
+      
+      ,{
+        "title"    : "Terminátor 2D: Žádný osud nebyl odložen na všech konzolích",
+        "url"      : "/tech-news/terminator-2d-no-fate-has-been-delayed-on-all-cons/",
+        "category" : "tech_news",
+        "content"  : "Nesmí to však trvat příliš dlouho.Číst původní článekZdroj: 📰 Nintendo Life"
+      }
+      
+      ,{
+        "title"    : "Teaser OnePlus 15 odhaluje odolný keramický povlak, který se směje &#39;škrábancům&#39; iPhonu 17",
+        "url"      : "/tech-news/oneplus-15-teaser-details-tough-ceramic-coating-th/",
+        "category" : "tech_news",
+        "content"  : "OnePlus sdílel oficiální rendery, které ukazují téměř každý centimetr OnePlus 15 v zcela novém odstínu “Sand Storm”.Číst původní článekZdroj: 📰 9to5google.com"
+      }
+      
+      ,{
+        "title"    : "Poznámky k aktualizaci 33.6 — Hearthstone",
+        "url"      : "/tech-news/a-336-patch-notes-hearthstone-blizzard-news/",
+        "category" : "tech_news",
+        "content"  : "Nahlédněte do nadcházející expanze Across the Timeways pro Hearthstone, podívejte se na velkou aktualizaci Battlegrounds a prozkoumejte, co dalšího je nového v Patchi 33.6.Číst původní článekZdroj: 📰 Blizzard.com"
+      }
+      
+      ,{
+        "title"    : "Hrdinové Warcraftu z minulosti i budoucnosti se spojují v Across the Timeways, další rozšíření pro Hearthstone - Blizzard News",
+        "url"      : "/tech-news/warcraft-heroes-past-and-future-unite-in-across-th/",
+        "category" : "tech_news",
+        "content"  : "Seznamte se s Rewind, Fabled a jak manipulovat s časem samotným v našem novém setu Across the Timeways! Rewind umožňuje vrátit zpět akci, kterou jste právě provedli. Fabled je nová mechanika, která umožňuje hráčům manipulovat s časem a měnit průběh hry.Číst původní článekZdroj: 📰 Blizzard.com"
+      }
+      
+      ,{
+        "title"    : "Představuje ChatGPT Pulse první pokus OpenAI o sociální síť?",
+        "url"      : "/tech-news/is-chatgpt-pulse-openais-first-attempt-at-a-social/",
+        "category" : "tech_news",
+        "content"  : "OpenAI’s Pulse funkce dělá ChatGPT proaktivním. Navíc AI úspěšně složila náročnou CFA zkoušku, umožňuje psychedelické stavy a produkuje 160 000 automatizovaných podcastových epizod za 1 dolar.Číst původní článekZdroj: 📰 Theneurondaily.com"
+      }
+      
+      ,{
+        "title"    : "Absence zakladatele Rockstaru je zlomovým bodem pro sérii GTA 6",
+        "url"      : "/tech-news/rockstar-founders-gta-6-absence-is-an-inflection-p/",
+        "category" : "tech_news",
+        "content"  : "Spoluzakladatel společnosti Rockstar Dan Houser hrál zásadní roli při budování série Grand Theft Auto, takže kam se bude ubírat GTA 6?Číst původní článekZdroj: 📰 Polygon"
+      }
+      
+      ,{
+        "title"    : "Aktualizace iOS 26.0.1 opravuje chyby v iPhone 17 a iPhone Air",
+        "url"      : "/tech-news/ios-2601-fixes-these-iphone-17-and-iphone-air-bugs/",
+        "category" : "tech_news",
+        "content"  : "Apple vydal iOS 26.0.1 pro uživatele iPhone s několika důležitými opravami chyb. Nejdůležitější je, že Apple…Číst původní článekZdroj: 📰 9to5Mac"
+      }
+      
+      ,{
+        "title"    : "Pokémon spolupracuje s GameSTopem na distribuci Shinies, což se nepovedlo",
+        "url"      : "/tech-news/pok%C3%A9mon-partners-with-gamestop-to-give-out-shinies/",
+        "category" : "tech_news",
+        "content"  : "Obchod rozdává zdarma kódy pro Pokémon Scarlet a Violet. Alespoň by to tak mělo být.Číst původní článekZdroj: 📰 Kotaku"
+      }
+      
+      ,{
+        "title"    : "Uživatelé mají v Google aplikaci pro Windows odinstalovat a znovu stáhnout pro &#39;budoucí aktualizace",
+        "url"      : "/tech-news/google-app-for-windows-tells-users-to-uninstall-an/",
+        "category" : "tech_news",
+        "content"  : "Google informuje uživatele své nové aplikace pro Windows, aby ji odinstalovali a znovu stáhli novou verzi pro budoucí aktualizace.Číst původní článekZdroj: 📰 9to5google.com"
+      }
+      
+      ,{
+        "title"    : "Aktualizace Apple iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 opravují několik problémů",
+        "url"      : "/tech-news/apples-ios-2601-macos-2601-ipados-2601-updates-fix/",
+        "category" : "tech_news",
+        "content"  : "Apple vydal aktualizace pro iOS 26.0.1, macOS Tahoe 26.0.1 a další, které opravují různé problémy v obou operačních systémech.Číst původní článekZdroj: 📰 AppleInsider"
+      }
+      
+      ,{
+        "title"    : "Aplikace Pixel Phone zavádí nahrávání hovorů a přístup k Android Auto, detaily o globální expanzi",
+        "url"      : "/tech-news/pixel-phone-app-rolling-out-call-recording-android/",
+        "category" : "tech_news",
+        "content"  : "Google dnes podrobně představil několik nových a nadcházejících funkcí pro aplikaci Pixel Phone a oficiálně oznámil její mezinárodní expanzi.Číst původní článekZdroj: 📰 9to5google.com"
+      }
+      
+      ,{
+        "title"    : "Tajná edice MTG: Playstation Superdrop - Star City Games",
+        "url"      : "/tech-news/mtg-announces-secret-lair-the-playstation-superdro/",
+        "category" : "tech_news",
+        "content"  : "The Last of Us, God of War a další ikonické tituly PlayStation přicházejí do Magic v nové aktualizaci Superdrop.Číst původní článekZdroj: 📰 Starcitygames.com"
+      }
+      
+      ,{
+        "title"    : "Reakce Wayma na šokující video, které by u Tesly FSD způsobilo popravu",
+        "url"      : "/tech-news/waymo-responds-to-shocking-video-that-would-have-g/",
+        "category" : "tech_news",
+        "content"  : "Podle společnosti Waymo je ve skutečnosti docela dobrý důvod, proč jedno z jejich autonomních vozidel skončilo na golfovém hřišti.Číst původní článekZdroj: 📰 Teslarati"
+      }
+      
+      ,{
+        "title"    : "Nová omezení Google pro boční instalaci aplikací zabijí projekt F-Droid - Ars Technica",
+        "url"      : "/tech-news/f-droid-says-googles-new-sideloading-restrictions/",
+        "category" : "tech_news",
+        "content"  : "F-Droid vnímá plány Googlu jako hrozbu pro FOSS aplikace.Číst původní článekZdroj: 🔬 Ars Technica"
+      }
+      
+      ,{
+        "title"    : "Nová hra Terminátor opět odložena kvůli Trumpovým clům",
+        "url"      : "/tech-news/new-terminator-game-delayed-again-due-to-trumps-ta/",
+        "category" : "tech_news",
+        "content"  : "Terminator 2D: No Fate byl opět odložen.Číst původní článekZdroj: 📰 GameSpot"
+      }
+      
+      ,{
+        "title"    : "Společnost Microsoft právě přidala AI agenty do aplikací Word, Excel a PowerPoint - jak je používat",
+        "url"      : "/tech-news/microsoft-just-added-ai-agents-to-word-excel-and-p/",
+        "category" : "tech_news",
+        "content"  : "Dostupné pro uživatele Microsoft 365 Copilot, nové agenti vám pomohou vytvářet, upravovat a analyzovat vaše dokumenty, tabulky a prezentace.Číst původní článekZdroj: 📰 ZDNet"
+      }
+      
+      ,{
+        "title"    : "Floridská žena vyhrála turnaj Mortal Kombat s novorozenětem v náručí",
+        "url"      : "/tech-news/florida-woman-wins-mortal-kombat-tournament-playin/",
+        "category" : "tech_news",
+        "content"  : "Matka se stala virální senzací poté, co vyhrála turnaj v Mortal Kombat, zatímco držela ve svých rukách svou pětidenní dceru.Číst původní článekZdroj: 📰 Dexerto"
+      }
+      
+      ,{
+        "title"    : "Jak Apple řeší #scratchgate na modelech iPhone 17 Pro v Apple Stores a proč je to důležité",
+        "url"      : "/tech-news/how-apple-is-fixing-scratchgate-on-the-iphone-17-p/",
+        "category" : "tech_news",
+        "content"  : "Apple chce, aby demo modely iPhone 17 Pro a Pro Max v Apple Storu vypadaly dokonale.Číst původní článekZdroj: 📰 PhoneArena"
+      }
+      
+      ,{
+        "title"    : "Pět her pod radarem, které stojí za prozkoumání v rámci velké podzimní výprodeje na Steamu",
+        "url"      : "/tech-news/a-5-under-the-radar-games-to-check-out-in-steams-b/",
+        "category" : "tech_news",
+        "content"  : "Od krátkých a sladkých letních dobrodružství po nejlepší akční hry, o kterých jste nikdy neslyšeli, má Steam’s sale pro náročné PC hráče spoustu zajímavého.Číst původní článekZdroj: 📰 Polygon"
+      }
+      
+      ,{
+        "title"    : "Nabotnalý prstenec baterie galaxie uvízne na prstě, což vede k návštěvě nemocnice [Galerie]",
+        "url"      : "/tech-news/swollen-galaxy-ring-battery-gets-stuck-on-finger-l/",
+        "category" : "tech_news",
+        "content"  : "Jeden majitel Samsung Galaxy Ringu měl problém s rozšířením baterie, což způsobilo, že prsten uvízl na jejich prstě, a to je děsivá situace.Číst původní článekZdroj: 📰 9to5google.com"
+      }
+      
+      ,{
+        "title"    : "Vývoj Resident Evil: Requiem - Tvůrci říkají, že už nedokážou posoudit, zda je hra skutečně děsivá",
+        "url"      : "/tech-news/resident-evil-requiem-devs-say-they-cant-tell-if-t/",
+        "category" : "tech_news",
+        "content"  : "Zatímco vývojový tým Resident Evil: Requiem nadále hledá nové způsoby, jak vyděsit lidi, někteří z jeho vedoucích pracovníků přiznávají, že už nejsou vždy na 100% jisti, které prvky Resident Evil jsou ve skutečnosti děsivé.Číst původní článekZdroj: 📰 IGN"
+      }
+      
+      ,{
+        "title"    : "Velká, luxusní umělecká kniha plná nevyužitých návrhů pro PlayStation",
+        "url"      : "/tech-news/playstation-is-getting-a-big-fancy-art-book-full-o/",
+        "category" : "tech_news",
+        "content"  : "Dostupná začátkem příštího roku, kniha PlayStation: The First 30 Years představuje prototypy, koncepty a designové modely společnosti Sony Interactive Entertainment na 400 stranách.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Riot zastavuje spekulace o nepotvrzeném 2XKO šampionovi po odhalení Teema",
+        "url"      : "/tech-news/riot-shuts-down-rumors-of-deconfirmed-2xko-champio/",
+        "category" : "tech_news",
+        "content"  : "Nejnovější trailer společnosti Riot na odhalení Teema pro 2XKO ukazuje Kennena v pozadí, ale tým potvrzuje, že by se mohl stát hratelnou Postavou i později.Číst původní článekZdroj: 📰 Sports Illustrated"
+      }
+      
+      ,{
+        "title"    : "Vědci vytvořili roboty schopné chůze po vodě",
+        "url"      : "/tech-news/scientists-built-water-walking-robots-university-t/",
+        "category" : "tech_news",
+        "content"  : "Výzkumníci z Virginské univerzity dosáhli průlomového pokroku v robotice, inspirováni vlastními inženýry z přírody - vodními klíšťaty.Číst původní článekZdroj: 📰 Energy-reporters.com"
+      }
+      
+      ,{
+        "title"    : "Společnost Microsoft znovu spojuje své týmy vyvíjející operační systém Windows",
+        "url"      : "/tech-news/microsoft-is-bringing-its-windows-engineering-team/",
+        "category" : "tech_news",
+        "content"  : "Microsoft oznámil interní reorganizaci svých týmů Windows. Týmy serverového a klientského inženýrství jsou nyní opět pod jednotným vedením.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Podpora živých fotografií pro WhatsApp na iOS",
+        "url"      : "/tech-news/whatsapp-for-ios-gets-live-photos-support-9to5mac/",
+        "category" : "tech_news",
+        "content"  : "Dnes Meta oficiálně potvrdila to, co někteří uživatelé WhatsAppu už několik dní pozorovali: aplikace nyní podporuje Live Photos.Číst původní článekZdroj: 📰 9to5Mac"
+      }
+      
+      ,{
+        "title"    : "Moderátoři Redditu žalováni YouTuberem Ethanem Kleinem kvůli snahám o jejich odhalení",
+        "url"      : "/tech-news/reddit-mods-sued-by-youtuber-ethan-klein-fight-eff/",
+        "category" : "tech_news",
+        "content"  : "Klein se pokusil předvolat Discord a Reddit, aby získal informace, které by odhalily identitu moderátorů subredditu kritického vůči němu. Právníci moderátorů se obávají, že jejich klienti budou fyzicky napadeni, pokud budou předvolání provedena.Číst původní článekZdroj: 📰 404media.co"
+      }
+      
+      ,{
+        "title"    : "Přehled prodejů Xboxu 30. září 2025 - TrueAchievements",
+        "url"      : "/tech-news/xbox-sale-round-up-september-30-2025-trueachieveme/",
+        "category" : "tech_news",
+        "content"  : "Nové prodeje Xboxu jsou nyní živé, s velkými slevami na Dying Light, Cuphead, Dragon Ball FighterZ, Insurgency: Sandstorm, Dragon Ball Xenoverse 2, Naruto Shippuden: Ultimate Ninja Storm 4, Dying Light 2: Stay Human a další.Číst původní článekZdroj: 📰 TrueAchievements"
+      }
+      
+      ,{
+        "title"    : "Desetiletí starý Nintendo Power článek vysvětluje volbu tlačítek A/B/X/Y od Nintenda",
+        "url"      : "/tech-news/decades-old-nintendo-power-issue-explains-nintendo/",
+        "category" : "tech_news",
+        "content"  : "Vysoce výkonný a kompaktní počítač s možností připojení k různým zařízením. Obsahuje procesor Intel Core, SSD disk a podporuje připojení přes USB-C, HDMI a další rozhraní. Ideální pro mobilní použití nebo jako doplňkový počítač.Číst původní článekZdroj: 📰 GoNintendo"
+      }
+      
+      ,{
+        "title"    : "Herní počítače Walmart s RTX 5070 Ti a volbou procesoru Intel nebo AMD za 1 499 USD",
+        "url"      : "/tech-news/walmart-has-rtx-5070-ti-gaming-pcs-with-your-choic/",
+        "category" : "tech_news",
+        "content"  : "Výprodejové akce srovnatelné s Black Friday již v září.Číst původní článekZdroj: 📰 IGN"
       }
       
       ,{
         "title"    : "Technologické zprávy",
         "url"      : "/tech-news/",
         "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 37Poslední aktualizace: 30.09.2025 12:24 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 38Poslední aktualizace: 01.10.2025 08:19 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
       }
       
     
