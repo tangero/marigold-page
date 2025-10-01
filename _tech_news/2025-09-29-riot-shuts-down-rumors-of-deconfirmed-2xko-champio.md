@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Sports Illustrated
-title: Riot Uzavřel spekulace o nepotvrzeném 2XKO šampionovi po odhalení Teema
+title: Riot Uzavírá spekulace o nepotvrzeném 2XKO šampionovi po odhalení Teema
 url: https://www.si.com/esports/2xko/riot-shuts-down-kennen-rumors
 urlToImage: https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/esports_illustrated/01k6bjrpkga7fgd876qd.png
 ---

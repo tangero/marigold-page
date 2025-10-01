@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: cnn
   name: CNN
-title: Obyčejné telefony se stávají chytřejšími, dražšími a nabízejí možnosti pro
-  dezilusionované spotřebitele
+title: Obyčejné mobilní telefony se stávají chytřejšími, dražšími a nabízejí možnosti
+  pro dezilusionované spotřebitele
 url: https://www.cnn.com/world/dumphones-feature-phones-spc
 urlToImage: https://media.cnn.com/api/v1/images/stellar/prod/dumbphones.jpg?c=16x9&q=w_800,c_fill
 ---

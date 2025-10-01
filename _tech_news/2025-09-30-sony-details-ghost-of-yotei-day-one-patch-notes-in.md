@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Podrobnosti Sony o opravách Ghost of Tsushima v den vydání — Zahrnuje rozsáhlý
+title: Podrobnosti Sony o aktualizaci Ghost of Tsushima v den vydání — Obsahuje rozsáhlý
   seznam vylepšení
 url: https://www.ign.com/articles/sony-details-ghost-of-yotei-day-one-patch-notes-includes-an-extensive-list-of-improvements
 urlToImage: https://assets-prd.ignimgs.com/2024/09/24/ghost-of-yotai-1727217918872.jpg?width=1280&format=jpg&auto=webp&quality=80

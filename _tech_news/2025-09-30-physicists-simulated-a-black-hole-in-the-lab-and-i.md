@@ -1,7 +1,7 @@
 ---
 category: černé díry
 date: '2025-09-30 12:01:30'
-description: Černá díra analogová může nám říci něco o vyzařování, které teoreticky
+description: Černá díra analogová by nám mohla říci něco o vyzařování, které teoreticky
   emituje skutečná černá díra.
 importance: 2
 layout: tech_news_article
@@ -18,7 +18,7 @@ url: https://www.sciencealert.com/physicists-simulated-a-black-hole-in-the-lab-a
 urlToImage: https://www.sciencealert.com/images/2022/11/black-hole-art.jpg
 ---
 
-Černá díra analogová může nám říci něco o vyzařování, které teoreticky emituje skutečná černá díra.
+Černá díra analogová by nám mohla říci něco o vyzařování, které teoreticky emituje skutečná černá díra.
 
 [Číst původní článek](https://www.sciencealert.com/physicists-simulated-a-black-hole-in-the-lab-and-it-then-began-to-glow)
 

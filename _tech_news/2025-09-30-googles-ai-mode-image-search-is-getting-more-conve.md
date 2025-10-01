@@ -1,5 +1,5 @@
 ---
-category: vyhledávání obrazu
+category: vyhledávání obrázků
 companies:
 - Google
 date: '2025-09-30 13:00:00'

@@ -3,8 +3,8 @@ category: mobilní čipy
 companies:
 - Samsung
 date: '2025-09-30 08:40:00'
-description: Exynos 2600 oficiálně vstoupil do sériové výroby, přičemž společnost
-  Samsung zvýšila své výrobní výtěžky na 50 procent.
+description: Exynos 2600 oficiálně vstoupil do masové výroby, přičemž společnost Samsung
+  zvýšila své výnosy na 50 procent.
 importance: 2
 layout: tech_news_article
 original_title: Samsung Has Reportedly Kicked Off Mass Production Of Its Exynos 2600
@@ -21,7 +21,7 @@ url: https://wccftech.com/samsung-starts-mass-production-of-exynos-2600/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/09/Exynos-2600-5.jpg
 ---
 
-Exynos 2600 oficiálně vstoupil do sériové výroby, přičemž společnost Samsung zvýšila své výrobní výtěžky na 50 procent.
+Exynos 2600 oficiálně vstoupil do masové výroby, přičemž společnost Samsung zvýšila své výnosy na 50 procent.
 
 [Číst původní článek](https://wccftech.com/samsung-starts-mass-production-of-exynos-2600/)
 
