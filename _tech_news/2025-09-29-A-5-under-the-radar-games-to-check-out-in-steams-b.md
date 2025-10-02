@@ -13,7 +13,8 @@ source:
   emoji: 📰
   id: polygon
   name: Polygon
-title: Pět her, které stojí za pozornost v rámci velké podzimní výprodeje na Steamu
+title: Pět her pod radarem, které stojí za prozkoumání v rámci velké podzimní výprodeje
+  na Steamu
 url: https://www.polygon.com/when-is-steam-sale-autumn-what-to-buy-pc-gaming/
 urlToImage: https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/shooter2.JPG?w=1200&h=675&fit=crop
 ---

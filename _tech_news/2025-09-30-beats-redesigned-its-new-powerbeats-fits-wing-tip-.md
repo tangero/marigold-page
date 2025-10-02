@@ -3,7 +3,7 @@ category: bezdrátová sluchátka
 companies:
 - Beats
 date: '2025-09-30 17:10:38'
-description: Beats Powerbeats Fit jsou k dispozici dnes za 200 dolarů a mají přepracované
+description: Beats Powerbeats Fit jsou k dispozici dnes za 200 USD a mají přepracované
   křídlové špičky, které jsou pohodlnější, plus ANC, přístup k Siri a menší nabíjecí
   pouzdro.
 importance: 4
@@ -21,7 +21,7 @@ url: https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-ea
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/beats1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200
 ---
 
-Beats Powerbeats Fit jsou k dispozici dnes za 200 dolarů a mají přepracované křídlové špičky, které jsou pohodlnější, plus ANC, přístup k Siri a menší nabíjecí pouzdro.
+Beats Powerbeats Fit jsou k dispozici dnes za 200 USD a mají přepracované křídlové špičky, které jsou pohodlnější, plus ANC, přístup k Siri a menší nabíjecí pouzdro.
 
 [Číst původní článek](https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort)
 

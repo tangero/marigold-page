@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-09-30 10:41:50'
-description: Cavernózní, krkolomný, 20 sekund dlouhé nasávání dechu.
+description: Cavernózní, klikatý, 20 sekund dlouhé nasávání dechu.
 importance: 4
 layout: tech_news_article
 original_title: 'As Square Enix release Final Fantasy Tactics: The Ivalice Chronicles
@@ -18,7 +18,7 @@ url: https://www.rockpapershotgun.com/as-square-enix-release-final-fantasy-tacti
 urlToImage: https://assetsio.gnwcdn.com/1_rsZ1BVi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Cavernózní, krkolomný, 20 sekund dlouhé nasávání dechu.
+Cavernózní, klikatý, 20 sekund dlouhé nasávání dechu.
 
 [Číst původní článek](https://www.rockpapershotgun.com/as-square-enix-release-final-fantasy-tactics-the-ivalice-chronicles-on-pc-i-renew-my-demand-for-my-mate-richie-to-return-the-psp-copy-i-lent-him-15-years-ago)
 
