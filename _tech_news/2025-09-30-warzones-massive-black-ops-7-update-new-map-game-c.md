@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-09-30 18:07:00'
-description: Objevte zatím nejbarevnější a vizuálně nejpůsobivější mapu Warzone v
-  Haven's Hollow a klíčové změny v herní mechanice, které přichází s integrací Black
-  Ops 7.
+description: Objevte nejbarevnější a vizuálně nejpůsobivější mapu ve Warzone v Haven's
+  Hollow, plus klíčové změny v herní mechanice přicházející s integrací Black Ops
+  7.
 importance: 4
 layout: tech_news_article
 original_title: 'Warzone''s Massive Black Ops 7 Update: New Map, Game-Changing Features,
@@ -14,13 +14,12 @@ source:
   emoji: 📰
   id: null
   name: Screen Rant
-title: 'Masivní aktualizace Call of Duty: Warzone pro Black Ops 7: Nová mapa, zásadní
-  funkce a více!'
+title: 'Masivní aktualizace Black Ops 7 pro Warzone: Nová mapa, zásadní funkce a další!'
 url: https://screenrant.com/warzone-new-resurgence-map-havens-hollow-verdansk-updates/
 urlToImage: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/cod-next-warzone-haven-hollow-02-branded.jpg?w=1600&h=900&fit=crop
 ---
 
-Objevte zatím nejbarevnější a vizuálně nejpůsobivější mapu Warzone v Haven's Hollow a klíčové změny v herní mechanice, které přichází s integrací Black Ops 7.
+Objevte nejbarevnější a vizuálně nejpůsobivější mapu ve Warzone v Haven's Hollow, plus klíčové změny v herní mechanice přicházející s integrací Black Ops 7.
 
 [Číst původní článek](https://screenrant.com/warzone-new-resurgence-map-havens-hollow-verdansk-updates/)
 

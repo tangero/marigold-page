@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: 'Datum vydání iOS 26.1: Tady se můžete těšit na další aktualizaci iPhonu'
+title: 'Datum vydání iOS 26.1: Kdy očekávat další aktualizaci iPhonu'
 url: https://9to5mac.com/2025/09/30/ios-26-1-release-date-heres-when-to-expect-the-next-iphone-update/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.1-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

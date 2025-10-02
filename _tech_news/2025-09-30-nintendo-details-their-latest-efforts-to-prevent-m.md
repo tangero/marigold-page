@@ -1,5 +1,5 @@
 ---
-category: lidská práva
+category: společenská odpovědn
 date: '2025-09-30 17:41:18'
 description: ''
 importance: 3

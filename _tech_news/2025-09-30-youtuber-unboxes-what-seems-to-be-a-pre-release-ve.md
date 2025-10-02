@@ -15,7 +15,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Youtuber rozbaluje, co se zdá být předběžná verze M5 iPad Pro
+title: Youtuber rozbaluje, co se zdá být předběžná verze M5 iPadu Pro
 url: https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPad-Pro-space-black-2-up-240507-1152x648.jpg
 ---

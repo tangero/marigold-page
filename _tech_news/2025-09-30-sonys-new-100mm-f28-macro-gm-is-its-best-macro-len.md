@@ -1,9 +1,9 @@
 ---
-category: fotoaparátové objekt
+category: fotoaparátová techni
 companies:
 - Sony
 date: '2025-09-30 14:00:52'
-description: Nový makro objektiv společnosti Sony využívá optických vylepšení z posledního
+description: Nový makro objektiv od Sony využívá optických vylepšení z posledního
   desetiletí.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://petapixel.com/2025/09/30/sonys-new-100mm-f-2-8-macro-gm-is-its-best
 urlToImage: https://petapixel.com/assets/uploads/2025/09/sony-100mm-gm-macro-lens-featured2.jpg
 ---
 
-Nový makro objektiv společnosti Sony využívá optických vylepšení z posledního desetiletí.
+Nový makro objektiv od Sony využívá optických vylepšení z posledního desetiletí.
 
 [Číst původní článek](https://petapixel.com/2025/09/30/sonys-new-100mm-f-2-8-macro-gm-is-its-best-macro-lens-ever/)
 
