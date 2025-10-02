@@ -1,24 +1,34 @@
 ---
-author: Patrick Zandl
 audio: true
+audio_generated: '2025-10-02T19:19:16.701210'
+audio_url: https://www.marigold.cz/audio/2025-10-02-vibecoding-prednaska.mp3
+author: Patrick Zandl
 categories:
 - AI
 - Vibe coding
 layout: post
-post_excerpt: Vibe coding nebudou mít staří programátorští pardálové moc v oblibě. Protože je to změna paradigmatu, změna všeho, co známe. Nějaké dveře se ale zavřou, jiné otevřou a jde o to, o kterou kliku se chcete přetahovat... 
+post_excerpt: Vibe coding nebudou mít staří programátorští pardálové moc v oblibě.
+  Protože je to změna paradigmatu, změna všeho, co známe. Nějaké dveře se ale zavřou,
+  jiné otevřou a jde o to, o kterou kliku se chcete přetahovat...
 summary_points:
 - Přednáška o vibe codingu v Pirátském centru přilákala jak laiky, tak zkušené vývojáře.
-- Vibe coding představuje zásadní změnu v programování díky využití AI, což může být pro tradiční programátory těžko přijatelné.
-- AI postupně zlepšuje své schopnosti v pochopení zadání i bezpečnosti, a v některých ohledech už překonává běžné programátory.
-- Nové technologie, jako je vibe coding, umožňují vytvářet software i tam, kde by se tradiční vývoj nevyplatil.
-- Změny v technologiích vyžadují otevřenost a schopnost adaptace, což je důležité nejen pro jednotlivce, ale i pro stát.
-- Konzervativní přístup a odmítání změn může vést k problémům, jak ukazují příklady z energetiky i politiky.
-- Piráti jsou jednou z mála stran, které se aktivně věnují vzdělávání a přípravě na technologické změny.
-- Klíčem k úspěchu je hledat nové cesty bez ideologických předsudků a s důrazem na data a fakta.
-title: Vibe coding přednáška - proč na tom tak záleží?
+- Vibe coding představuje zásadní změnu v programování díky využití AI, což může být
+  pro tradiční programátory těžko přijatelné.
+- AI postupně zlepšuje své schopnosti v pochopení zadání i bezpečnosti, a v některých
+  ohledech už překonává běžné programátory.
+- Nové technologie, jako je vibe coding, umožňují vytvářet software i tam, kde by
+  se tradiční vývoj nevyplatil.
+- Změny v technologiích vyžadují otevřenost a schopnost adaptace, což je důležité
+  nejen pro jednotlivce, ale i pro stát.
+- Konzervativní přístup a odmítání změn může vést k problémům, jak ukazují příklady
+  z energetiky i politiky.
+- Piráti jsou jednou z mála stran, které se aktivně věnují vzdělávání a přípravě na
+  technologické změny.
+- Klíčem k úspěchu je hledat nové cesty bez ideologických předsudků a s důrazem na
+  data a fakta.
 thumbnail: https://www.marigold.cz/assets/vibecoding-prednaska.jpg
+title: Vibe coding přednáška - proč na tom tak záleží?
 ---
-
 V úterý večer jsme s [Institut π v Pirátském centru organizovali přednášku](https://institutpi.cz/akce/tvorba-programu-pomoci-ai-pro-neprogramatory/), byla na téma vibe codingu, programování s AI. Zájem byl slušný, bylo plno, lidi to zajímalo, přišli nejenom laici, ale i zkušení vývojáři. A tohle je myslím nesmírně důležité. To, že Piráti jsou dneska jedni z velmi mála, kteří se dívají dopředu a uvědomují si důležitost pokroku. I proto jsem rád, že se takhle angažujeme ve vzdělávání moderních trendů, protože zrovna vibe coding je skvělý příklad, jak se svět mění.
 
 ![V Pirátském centru bylo plno, protože vibecoding](/assets/vibecoding-prednaska.jpg)
