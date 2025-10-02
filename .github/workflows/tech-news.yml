@@ -56,5 +56,6 @@ jobs:
         git config user.name "Tech News Bot"
         git config user.email "actions@github.com"
         git add _tech_news/
+        git add tech-news/
         git commit -m "🤖 Aktualizace technologických zpráv $(date '+%Y-%m-%d %H:%M')"
         git push

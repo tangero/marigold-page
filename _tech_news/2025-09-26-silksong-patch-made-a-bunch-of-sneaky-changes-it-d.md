@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: polygon
   name: Polygon
-title: Aktualizace Silksong obsahuje řadu nenápadných změn, o kterých vás hra neinformovala
+title: Nečekané změny v záplatu hry Silksong, o kterých vás hra neinformovala
 url: https://www.polygon.com/silksong-charge-attack-volt-filament-architect-crest-cogwork-wheel-saw-changes-nerfs-buffs-patch/
 urlToImage: https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hollow-knight-silksong-last-judge-boss-guide.jpg?w=1600&h=900&fit=crop
 ---

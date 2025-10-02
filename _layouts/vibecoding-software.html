@@ -1,0 +1,40 @@
+---
+layout: vibecoding-default
+---
+
+<article class="page">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  {% comment %} Extrahovat název software ze stránky (např. "windsurf" z permalink /windsurf/) {% endcomment %}
+  {% assign software_slug = page.permalink | remove: "/" | downcase %}
+
+  {% comment %} Najít články pro tento software - použít folder name v cestě {% endcomment %}
+  {% assign software_path = "_vibecoding/" | append: software_slug | append: "/" %}
+  {% assign software_posts = site.vibecoding | where_exp: "post", "post.path contains software_path" | sort: "date" | reverse %}
+
+  {% if software_posts.size > 0 %}
+  <div style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+    <h2 style="margin-bottom: 1.5rem; color: #1f2937;">📰 Nejnovější články</h2>
+
+    <div style="display: grid; gap: 1rem;">
+      {% for post in software_posts limit: 20 %}
+        <article style="padding: 1rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #f9fafb; transition: all 0.2s;">
+          <div style="margin-bottom: 0.5rem;">
+            <time style="color: #6b7280; font-size: 0.875rem;">{{ post.date | date: "%d.%m.%Y" }}</time>
+          </div>
+          <h3 style="margin: 0 0 0.5rem 0; font-size: 1.125rem;">
+            <a href="{{ post.url }}" style="color: #1f2937; text-decoration: none;">{{ post.title }}</a>
+          </h3>
+          {% if post.post_excerpt %}
+            <p style="color: #4b5563; margin: 0; font-size: 0.9375rem;">{{ post.post_excerpt }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</article>

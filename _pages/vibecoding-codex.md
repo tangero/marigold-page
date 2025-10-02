@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: OpenAI Codex - Vibe Coding
 permalink: /openai-codex/
 ---
@@ -47,6 +47,3 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="openai-codex" tool_sw="codex" %}

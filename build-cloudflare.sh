@@ -17,10 +17,4 @@ bundle install
 echo "Building Jekyll site with vibecoding config..."
 bundle exec jekyll build --config _config_vibecoding.yml
 
-# Zkopírování vibecoding-index jako hlavní index
-if [ -f "_site/vibecoding-index/index.html" ]; then
-    echo "Copying vibecoding index..."
-    cp _site/vibecoding-index/index.html _site/index.html
-fi
-
 echo "Build completed!"

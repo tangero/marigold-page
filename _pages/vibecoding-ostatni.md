@@ -35,6 +35,3 @@ Zde najdete přehled dalších zajímavých AI nástrojů, které nezapadají do
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="ostatni" tool_sw="ostatni" %}

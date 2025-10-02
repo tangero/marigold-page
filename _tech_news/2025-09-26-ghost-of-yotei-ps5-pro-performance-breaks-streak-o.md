@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: PlayStation LifeStyle
-title: Výkon konzole PS5 Pro v Ghost of Yotei překonává sérii několika zklamání
+title: Výkon PS5 Pro ve hře Ghost of Yotei překonává sérii několika zklamání
 url: https://www.playstationlifestyle.net/2025/09/26/ghost-of-yotei-ps5-pro-enhancements-breath-of-fresh-air/
 urlToImage: https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/09/ghostofyotei1.png?resize=1200,630
 ---

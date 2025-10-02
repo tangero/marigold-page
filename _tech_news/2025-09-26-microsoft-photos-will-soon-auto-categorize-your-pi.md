@@ -3,7 +3,7 @@ category: automatizace fotogra
 companies:
 - Microsoft
 date: '2025-09-26 21:40:35'
-description: Test využívá AI k třídění vašich účtenek, snímků obrazovky, identifikačních
+description: Testovací nástroj využívá AI k třídění účtenek, snímků obrazovky, identifikačních
   dokumentů a poznámek do specifických složek.
 importance: 3
 layout: tech_news_article
@@ -14,12 +14,12 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Brzy vám Microsoft Photos automaticky roztřídí vaše fotografie
+title: Brzy Microsoft Photos automaticky kategorizuje vaše fotografie
 url: https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Test využívá AI k třídění vašich účtenek, snímků obrazovky, identifikačních dokumentů a poznámek do specifických složek.
+Testovací nástroj využívá AI k třídění účtenek, snímků obrazovky, identifikačních dokumentů a poznámek do specifických složek.
 
 [Číst původní článek](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)
 

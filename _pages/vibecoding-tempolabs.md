@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Tempolabs - Vibe Coding
 permalink: /tempolabs/
 ---
@@ -132,9 +132,6 @@ Tempolabs plánuje:
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="tempolabs" tool_sw="tempolabs" %}
 
 <script>
 function toggleDetails(button) {

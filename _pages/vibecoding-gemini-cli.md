@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Gemini CLI - Vibe Coding
 permalink: /gemini-cli/
 ---
@@ -55,8 +55,4 @@ npm i -g @google/gemini-cli
 ```
 
   </div>
-</div>
-
-<hr>
-
-{% include vibecoding-articles.html tool_folder="gemini-cli" tool_sw="Gemini CLI" %} 
+</div> 

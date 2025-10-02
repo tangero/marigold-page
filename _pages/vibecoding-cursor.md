@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Cursor - Vibe Coding
 permalink: /cursor/
 ---
@@ -170,9 +170,6 @@ Cursor tým plánuje:
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="cursor" tool_sw="cursor" %}
 
 <script>
 function toggleDetails(button) {

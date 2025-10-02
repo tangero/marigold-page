@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Gameinformer.com
-title: Závěrečná fantasy taktika – Recenze Ivalice Chronicles - Historický podnik
+title: Závěrečná fantasy taktika – Přehled Ivalice Chronicles - Historický počin
 url: https://gameinformer.com/review/final-fantasy-tactics-the-ivalice-chronicles/a-historic-undertaking
 urlToImage: https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/09/25/d8f4dec8/final_fantasy_tactics_-_the_ivalice_chronicles_20250920234727.jpg.webp
 ---

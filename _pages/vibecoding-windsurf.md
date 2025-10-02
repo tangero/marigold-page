@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Windsurf - Vibe Coding
 permalink: /windsurf/
 ---
@@ -119,6 +119,3 @@ Codeium plánuje pro Windsurf:
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="windsurf" tool_sw="windsurf" %}

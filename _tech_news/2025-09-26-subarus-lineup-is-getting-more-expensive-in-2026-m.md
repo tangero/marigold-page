@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: 'Motor1 '
-title: Subaru rozšiřuje své portfolio o dražší modely v roce 2026
+title: Lineup Subaru bude v roce 2026 dražší
 url: https://www.motor1.com/news/773833/2026-subaru-prices/
 urlToImage: https://cdn.motor1.com/images/mgl/BXygpZ/s1/2026-subaru-outback-exterior.jpg
 ---

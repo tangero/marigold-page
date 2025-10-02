@@ -8,9 +8,9 @@ author: Patrick Zandl
 description: Průvodce AI nástroji pro programování a vývoj software
 
 # URL nastavení pro produkci
-url: https://vibecoding.cz
+url: https://www.vibecoding.cz
 baseurl: ""
-enforce_ssl: https://vibecoding.cz
+enforce_ssl: https://www.vibecoding.cz
 
 # Avatar a kontakty (můžeš změnit)
 avatar: /images/patrick-avatar.jpg
@@ -19,7 +19,7 @@ avatar: /images/patrick-avatar.jpg
 collections:
   vibecoding:
     output: true
-    permalink: /:title/
+    permalink: /articles/:title/
 
 # Výchozí layout pro vibecoding články
 defaults:
@@ -34,26 +34,27 @@ defaults:
     values:
       layout: "vibecoding-default"
       
-# Zahrnout pouze vibecoding soubory
+# Zahrnout pouze vibecoding soubory a _pages
 include:
   - vibecoding-index.md
   - assets/vibecoding-index.css
-  - _pages/vibecoding-cursor.md
-  - _pages/vibecoding-windsurf.md
-  - _pages/vibecoding-memex.md
-  - _pages/vibecoding-databutton.md
-  - _pages/vibecoding-lovable.md
-  - _pages/vibecoding-tempolabs.md
-  - _pages/vibecoding-replit.md
-  - _pages/vibecoding-claude.md
-  - _pages/vibecoding-codex.md
-  - _pages/vibecoding-gemini-cli.md
-  - _pages/vibecoding-ostatni.md
-  - _pages/vibecoding-archiv.md
+  - _pages
 
 # Vyloučit všechno ostatní kromě vibecoding
 exclude:
   - _posts
+  - _pages/404.md
+  - _pages/about.md
+  - _pages/ai.md
+  - _pages/audio.md
+  - _pages/mobilnisite.md
+  - _pages/obraz.md
+  - _pages/obrazy.md
+  - _pages/projevy.md
+  - _pages/search.md
+  - _pages/tech-news-search.md
+  - _pages/tech-news.md
+  - _pages/vibecoding.md
   - _ai
   - _mobilnisite
   - _obrazy
@@ -83,8 +84,9 @@ exclude:
   - _includes/pullquote.html
   - _includes/welcomments
   - _layouts/default.html
-  - _layouts/page.html
   - _layouts/post.html
+  - _layouts/tech_news_day.html
+  - _layouts/tech_news.html
 
 # Jekyll nastavení
 source: .
@@ -103,7 +105,6 @@ sass:
 # Pluginy
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
 
@@ -111,13 +112,11 @@ plugins:
 paginate: 10
 paginate_path: /strana/:num/
 
-# Feed nastavení pro vibecoding
+# Feed nastavení pro vibecoding - nepoužívá se, protože články nemají date v front matter
+# Místo toho se používá vlastní šablona vibecoding-feed.xml
 feed:
-  path: feed.xml
   posts_limit: 20
   excerpt_only: true
-  collections:
-    - vibecoding
 
 # Footer odkazy (můžeš upravit)
 footer-links:

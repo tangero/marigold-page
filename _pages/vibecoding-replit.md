@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: vibecoding-software
 title: Replit - Vibe Coding
 permalink: /replit/
 ---
@@ -44,6 +44,3 @@ Replit se zaměřuje na "vibe coding" - rychlý a intuitivní vývoj aplikací s
   </div>
 </div>
 
-<hr>
-
-{% include vibecoding-articles.html tool_folder="replit" tool_sw="replit" %} 
