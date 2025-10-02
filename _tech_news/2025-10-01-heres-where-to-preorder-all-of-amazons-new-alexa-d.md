@@ -3,9 +3,9 @@ category: elektronika
 companies:
 - Amazon
 date: '2025-10-01 00:15:00'
-description: Amazon představil na svém podzimním hardwarovém eventu nové reproduktory
-  Echo, bezpečnostní zařízení Ring, Kindly a další Alexa gadgety, z nichž mnoho je
-  nyní k dispozici pro předobjednávku.
+description: Amazon představil na podzimní hardwarové akci nové reproduktory Echo,
+  bezpečnostní zařízení Ring, Kindly a další Alexa gadgety, z nichž mnoho je nyní
+  k dispozici pro předobjednávku.
 importance: 4
 layout: tech_news_article
 original_title: Here’s where to preorder all of Amazon’s new Alexa devices and when
@@ -21,7 +21,7 @@ url: https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-ech
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/2025-Echo-Studio-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613
 ---
 
-Amazon představil na svém podzimním hardwarovém eventu nové reproduktory Echo, bezpečnostní zařízení Ring, Kindly a další Alexa gadgety, z nichž mnoho je nyní k dispozici pro předobjednávku.
+Amazon představil na podzimní hardwarové akci nové reproduktory Echo, bezpečnostní zařízení Ring, Kindly a další Alexa gadgety, z nichž mnoho je nyní k dispozici pro předobjednávku.
 
 [Číst původní článek](https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date)
 

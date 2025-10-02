@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Konverzační režim vyhledávání obrázků v Google AI
+title: Konverzační režim vyhledávání obrázků pomocí AI od Googlu se zlepšuje
 url: https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AI-Mode-_-Blog-Hero-static.png?quality=90&strip=all&crop=0%2C3.5331803729601%2C100%2C92.93363925408&w=1200
 ---

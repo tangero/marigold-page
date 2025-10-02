@@ -14,7 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Screen Rant
-title: 'Masivní aktualizace Black Ops 7 pro Warzone: Nová mapa, zásadní funkce a další!'
+title: 'Masivní aktualizace Call of Duty: Warzone pro Black Ops 7: Nová mapa, zásadní
+  funkce a více!'
 url: https://screenrant.com/warzone-new-resurgence-map-havens-hollow-verdansk-updates/
 urlToImage: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/cod-next-warzone-haven-hollow-02-branded.jpg?w=1600&h=900&fit=crop
 ---
