@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Ty nejlepší cosplayové kostýmy z Anime NYC 2025 v New Yorku - Kotaku
+title: Nejlepší cosplayové kostýmy z Anime NYC 2025 v New Yorku - Kotaku
 url: https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188
 urlToImage: https://kotaku.com/app/uploads/2025/09/main-4.jpg
 ---

@@ -17,7 +17,7 @@ source:
   emoji: 💹
   id: bloomberg
   name: Bloomberg
-title: Barevný Kindle s dotykovým perem, $40 TV stick s 4K videem
+title: Barevný Kindle s dotykovým perem, $40 TV Stick s 4K videem
 url: https://www.bloomberg.com/news/articles/2025-09-30/amazon-devices-news-630-color-kindle-scribe-40-4k-fire-tv-stick-ring-blink
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkuRiIHOJ5A/v1/1200x800.jpg
 ---

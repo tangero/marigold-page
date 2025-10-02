@@ -1,7 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-30 19:07:59'
-description: Oslavte návrat kultovní hry Final Fantasy se stylovou módou.
+description: Oslavte návrat kultovní hry Final Fantasy s některým z těchto stylových
+  oblečení.
 importance: 3
 layout: tech_news_article
 original_title: Official Final Fantasy Tactics Apparel Is Available At Amazon - GameSpot
@@ -16,7 +17,7 @@ url: https://www.gamespot.com/articles/official-final-fantasy-tactics-apparel-is
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4577942-ff-ivalice-tees.jpg
 ---
 
-Oslavte návrat kultovní hry Final Fantasy se stylovou módou.
+Oslavte návrat kultovní hry Final Fantasy s některým z těchto stylových oblečení.
 
 [Číst původní článek](https://www.gamespot.com/articles/official-final-fantasy-tactics-apparel-is-available-at-amazon/1100-6535122/)
 

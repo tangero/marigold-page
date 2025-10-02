@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-09-30 17:27:25'
-description: Dvě nové mapy a herní módy budou přidány do EA's nadcházejícího vojenského
-  střílecího titulu v týdnech po jeho vydání.
+description: EA's nadcházející vojenský střílecí titul přidá v týdnech po vydání dvě
+  nové mapy a herní módy.
 importance: 4
 layout: tech_news_article
 original_title: Battlefield 6's Roadmap Is Packed With New Maps And More - Kotaku
@@ -17,7 +17,7 @@ url: https://kotaku.com/battlefield-6-two-new-maps-modes-roadmap-free-updates-dl
 urlToImage: https://kotaku.com/app/uploads/2025/07/099df2cfaf31728b2c1dbf8d3adb7167-1200x675.jpg
 ---
 
-Dvě nové mapy a herní módy budou přidány do EA's nadcházejícího vojenského střílecího titulu v týdnech po jeho vydání.
+EA's nadcházející vojenský střílecí titul přidá v týdnech po vydání dvě nové mapy a herní módy.
 
 [Číst původní článek](https://kotaku.com/battlefield-6-two-new-maps-modes-roadmap-free-updates-dlc-2025-ea-2000630301)
 
