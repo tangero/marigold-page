@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Vibe coding přednáška - proč na tom tak záleží?",
+      "url"      : "/item/vibecoding-prednaska/",
+      "category" : "AI, Vibe coding",
+      "tags"     : "",
+      "date"     : "2.10.2025",
+      "content"  : "V úterý večer jsme s Institut π v Pirátském centru organizovali přednášku, byla na téma vibe codingu, programování s AI. Zájem byl slušný, bylo plno, lidi to zajímalo, přišli nejenom laici, ale i zkušení vývojáři. A tohle je myslím nesmírně důležité. To, že Piráti jsou dneska jedni z velmi mála, kteří se dívají dopředu a uvědomují si důležitost pokroku. I proto jsem rád, že se takhle angažujeme ve vzdělávání moderních trendů, protože zrovna vibe coding je skvělý příklad, jak se svět mění.Jasně, pokud jste programátor, budete vibe coding nenávidět. Představa, že hromada křemíku spálí trochu elektřiny a napíše rychleji něco,..."
+    },
+  
+    {
       "title"    : "Nový Claude Sonnet 4.5 s experimentální funkcí Imagine",
       "url"      : "/item/claude-sonnet-4-5/",
       "category" : "AI, Anthropic, Claude, LLM, Cloudflare",
@@ -1096,15 +1105,6 @@
       "tags"     : "",
       "date"     : "6.10.2024",
       "content"  : "Naordinoval jsem si týdenní radiový klid, protože emoce cloumají mnohým majestátem. A děkuju vám za četnou podporu. Tak tedy krátce k Pirátům i těm ostatním. do vlády Piráti vstoupili dobrovolně, rozhodnutím celostátního fóra (tj. většinou hlasujících členů) a s ušlechtilou vidinou, že prosadíme důležité body z našeho programu. rychle se ukázalo, že v rámci koalice Piráti svá stěžejní témata prakticky neprosadí, ačkoliv deklarativně je koalice podporuje nebo je k nim neutrální. Důvod? Někteří lidé v koalici mají větší faktický vliv, než jejich jeden hlas. To je na jednu stranu v české politice normální, na druhou to není transparentní a Pirátům..."
-    },
-  
-    {
-      "title"    : "Vibe coding přednáška - proč na tom tak záleží?",
-      "url"      : "/item/vibecoding-prednaska/",
-      "category" : "AI, Vibe coding",
-      "tags"     : "",
-      "date"     : "2.10.2024",
-      "content"  : "V úterý večer jsme s Institut π v Pirátském centru organizovali přednášku, byla na téma vibe codingu, programování s AI. Zájem byl slušný, bylo plno, lidi to zajímalo, přišli nejenom laici, ale i zkušení vývojáři. A tohle je myslím nesmírně důležité. To, že Piráti jsou dneska jedni z velmi mála, kteří se dívají dopředu a uvědomují si důležitost pokroku. I proto jsem rád, že se takhle angažujeme ve vzdělávání moderních trendů, protože zrovna vibe coding je skvělý příklad, jak se svět mění.Jasně, pokud jste programátor, budete vibe coding nenávidět. Představa, že hromada křemíku spálí trochu elektřiny a napíše rychleji něco,..."
     },
   
     {
@@ -26484,7 +26484,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Nový Claude Sonnet 4.5 s experimentální funkcí Imagine (30.09.2025) OpenAI představuje ChatGPT Pulse. Asistent, který pozná, co vás zajímá! (27.09.2025) Google představil platební protokol AP2 s podporou stablecoinů pro AI agenty (17.09.2025) AI novinky z týdne - Replit Agent 3, Seedream..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Vibe coding přednáška - proč na tom tak záleží? ( 2.10.2025) Nový Claude Sonnet 4.5 s experimentální funkcí Imagine (30.09.2025) OpenAI představuje ChatGPT Pulse. Asistent, který pozná, co vás zajímá! (27.09.2025) Google představil platební protokol AP2 s podporou stablecoinů pro AI..."
     }
     
   
@@ -30941,10 +30941,10 @@
       }
       
       ,{
-        "title"    : "Rámec modelů základů Applu odemyká nové inteligentní zážitky z aplikací",
+        "title"    : "Rámec modelů základů od Applu odemyká nové inteligentní zážitky z aplikací",
         "url"      : "/tech-news/apples-foundation-models-framework-unlocks-new-int/",
         "category" : "tech_news",
-        "content"  : "Vývojáři po celém světě mohou do svých aplikací přinášet ještě inteligentnější zážitky využíváním frameworku Foundation Models od společnosti Apple.Číst původní článekZdroj: 📰 Apple Newsroom"
+        "content"  : "Vývojáři po celém světě mohou do svých aplikací začlenit ještě inteligentnější zážitky využitím rámce Foundation Models od společnosti Apple.Číst původní článekZdroj: 📰 Apple Newsroom"
       }
       
       ,{
@@ -31319,10 +31319,10 @@
       }
       
       ,{
-        "title"    : "Tento koncept Porsche 911 je stejnou měrou šílený a poutavý",
+        "title"    : "Tento koncept Porsche 911 je stejně šílený jako poutavý",
         "url"      : "/tech-news/this-porsche-911-concept-is-equal-parts-insane-and/",
         "category" : "tech_news",
-        "content"  : "Kyza vytvořil působivý render založený na modelu 964, který bude polarizovat jak puristy, tak i běžné fanoušky automobilů.Číst původní článekZdroj: 📰 Gear Patrol"
+        "content"  : "Kyza vytvořil působivou renderovanou verzi modelu 964, která bude polarizovat jak puristy, tak i běžné fanoušky automobilů.Číst původní článekZdroj: 📰 Gear Patrol"
       }
       
       ,{
@@ -31399,7 +31399,7 @@
         "title"    : "Podzimní výprodej na Steamu začíná se slevami na Tekken 8, Fatal Fury, Capcom Fighting Collection 2, Mortal Kombat 1 a mnoho dalšího",
         "url"      : "/tech-news/steams-autumn-sale-kicks-off-with-discounts-on-tek/",
         "category" : "tech_news",
-        "content"  : "Číst původní článekZdroj: 📰 EventHubs"
+        "content"  : "Léto sice už skončilo, ale čas na úspory na videohrách teprve začíná. Steam Autumn Sale právě dnes odstartoval se skvělými nabídkami na bojové hry na největší tituly a DLC.Číst původní článekZdroj: 📰 EventHubs"
       }
       
       ,{
@@ -31448,7 +31448,7 @@
         "title"    : "Logitech přidává vibrační zpětnou vazbu do populární řady myší MX",
         "url"      : "/tech-news/logitech-adds-vibration-feedback-to-popular-mx-mou/",
         "category" : "tech_news",
-        "content"  : "Společnost Logitech International SA v úterý oznámila novou verzi své prémiové bezdrátové počítačové myši se zabudovaným motorem, která přináší vibrace podobné herním aplikacím do kreativních aplikací - neobvyklý vstup do segmentu, který v poslední době nezaznamenal výrazné změny.Číst původní článekZdroj: 💹 Bloomberg"
+        "content"  : "Společnost Logitech International SA v úterý oznámila novou verzi své prémiové bezdrátové počítačové myši se zabudovaným motorem, který přináší vibrace podobné herním aplikacím do kreativních aplikací - neobvyklý vstup do segmentu, který v poslední době nezaznamenal žádné velké změny.Číst původní článekZdroj: 💹 Bloomberg"
       }
       
       ,{
@@ -31466,10 +31466,10 @@
       }
       
       ,{
-        "title"    : "Hloupé telefony se stávají chytřejšími, dražšími a nabízejí možnosti pro dezilusionované spotřebitele",
+        "title"    : "Obyčejné mobilní telefony se stávají chytřejšími, dražšími a nabízejí možnosti pro dezilusionované spotřebitele",
         "url"      : "/tech-news/dumbphones-are-getting-smarter-more-costly-and-off/",
         "category" : "tech_news",
-        "content"  : "Trh s klasickými mobilními telefony se zmenšuje, ale zdravý trh s prémiových modely uspokojuje poptávku lidí, kteří chtějí přejít na novou technologii s menším počtem kompromisů.Číst původní článekZdroj: 📰 CNN"
+        "content"  : "Trh s klasickými mobilními telefony se zmenšuje, ale zdravý trh s prémiových modely uspokojuje poptávku lidí, kteří chtějí přejít na nové telefony s méně kompromisy.Číst původní článekZdroj: 📰 CNN"
       }
       
       ,{
@@ -31494,7 +31494,7 @@
       }
       
       ,{
-        "title"    : "Podrobnosti Sony o aktualizaci Ghost of Yotei v den vydání — Obsahuje rozsáhlý seznam vylepšení",
+        "title"    : "Podrobnosti Sony o záplatě Ghost of Tsushima pro první den — Obsahuje rozsáhlý seznam vylepšení",
         "url"      : "/tech-news/sony-details-ghost-of-yotei-day-one-patch-notes-in/",
         "category" : "tech_news",
         "content"  : "PlayStation 5 exkluzivní Ghost of Yotei má day-one patch, který přidává řadu důležitých funkcí do hry. Sony poskytlo IGN poznámky k této aktualizaci.Číst původní článekZdroj: 📰 IGN"
@@ -31543,17 +31543,17 @@
       }
       
       ,{
-        "title"    : "Tato žena vás může porazit v Mortal Kombatu s pětidenním miminkem v náručí",
+        "title"    : "Tato žena vás porazí v Mortal Kombatu s pětidenním miminkem v náručí",
         "url"      : "/tech-news/this-woman-can-thrash-you-at-mortal-kombat-with-he/",
         "category" : "tech_news",
-        "content"  : "Legi0n je nová hrdinka bojových her. Její schopnosti zahrnují ovládání temné energie, která jí umožňuje provádět devastující útoky na blízko i na dálku. Legi0n je vybavena unikátními zbraněmi a bojovými styly, které ji činí smrtící bojovnicí v aréně.Číst původní článekZdroj: 📰 Kotaku"
+        "content"  : "Legi0n je nová postava bojové hry. Legi0n je vysoce mobilní a vysoce technologická postava, která využívá pokročilé zbraně a schopnosti. Její unikátní gameplay kombinuje střelbu, melee a schopnosti založené na technologii, což z ní dělá vysoce flexibilní a dynamickou herní postavu.Číst původní článekZdroj: 📰 Kotaku"
       }
       
       ,{
         "title"    : "Fyzikové simulovali černou díru v laboratoři a ta pak začala zářit",
         "url"      : "/tech-news/physicists-simulated-a-black-hole-in-the-lab-and-i/",
         "category" : "tech_news",
-        "content"  : "Černá díra analogová by nám mohla říci něco o tajemném záření, které by teoreticky mělo být emitováno skutečnou černou dírou.Číst původní článekZdroj: 📰 ScienceAlert"
+        "content"  : "Černá díra analogová by nám mohla říci něco o vyzařování, které teoreticky emituje skutečná černá díra.Číst původní článekZdroj: 📰 ScienceAlert"
       }
       
       ,{
@@ -31581,7 +31581,7 @@
         "title"    : "Konverzační režim vyhledávání obrázků pomocí AI od Googlu se zlepšuje",
         "url"      : "/tech-news/googles-ai-mode-image-search-is-getting-more-conve/",
         "category" : "tech_news",
-        "content"  : "Nejnovější aktualizace režimu AI od Googlu usnadňuje uživatelům vyhledávání obrázků pomocí neurčitých popisů a odkazů.Číst původní článekZdroj: ⚡ The Verge"
+        "content"  : "Nejnovější aktualizace režimu AI od Googlu usnadňuje uživatelům procházení obrázků pomocí neurčitých popisů a odkazů.Číst původní článekZdroj: ⚡ The Verge"
       }
       
       ,{
@@ -31592,10 +31592,10 @@
       }
       
       ,{
-        "title"    : "Rychlé a profesionální video editování na mobilních zařízeních - Adobe Newsroom",
+        "title"    : "Rychlé a profesionální video editování na mobilních zařízeních s Adobe Premiere",
         "url"      : "/tech-news/adobe-premiere-now-delivers-fast-pro-quality-video/",
         "category" : "tech_news",
-        "content"  : "Nová aplikace Premiere pro iPhone je k dispozici od dneška, verze pro Android je ve vývoji. Aplikace přináší rychlé, intuitivní a výkonné video editování pro tvůrce na cestách.Číst původní článekZdroj: 📰 Adobe.com"
+        "content"  : "Nová aplikace Premiere pro iPhone je k dispozici od dneška, verze pro Android je ve vývoji. Aplikace nabízí rychlé, intuitivní a výkonné video editování pro tvůrce na cestách.Číst původní článekZdroj: 📰 Adobe.com"
       }
       
       ,{
@@ -31603,6 +31603,20 @@
         "url"      : "/tech-news/resident-evil-9-aims-to-be-more-like-re2-kotaku/",
         "category" : "tech_news",
         "content"  : "Určení toho, co dělá hru děsivou, není snadné, když je to vaše každodenní rutina. Vytváření strašidelných her vyžaduje pečlivé vyvažování různých prvků, jako jsou atmosféra, napětí a šokující momenty. Vývojáři musí neustále zkoumat, co funguje a co ne, aby dosáhli zamýšleného efektu.Číst původní článekZdroj: 📰 Kotaku"
+      }
+      
+      ,{
+        "title"    : "Přidání kopí pro hráče, ale také pro jezdící zombie",
+        "url"      : "/tech-news/minecraft-adding-spears-for-players-but-also-for-m/",
+        "category" : "tech_news",
+        "content"  : "Minecraft oznámil významnou novou herní aktualizaci, Mounts of Mayhem, která bude vedena přidáním… kopí!Číst původní článekZdroj: 📰 IGN"
+      }
+      
+      ,{
+        "title"    : "Aplikace pro úpravu videa Adobe Premiere dorazila na iPhony",
+        "url"      : "/tech-news/adobes-video-editing-app-premiere-arrives-on-iphon/",
+        "category" : "tech_news",
+        "content"  : "Adobe Premiere mobilní aplikace je dostupná na mobilních zařízeních a nabízí širokou škálu editačních funkcí, včetně některých, které jsou poháněny umělou inteligencí.Číst původní článekZdroj: 🚀 TechCrunch"
       }
       
       ,{
@@ -31651,11 +31665,11 @@
         "title"    : "Nový 100mm f/2.8 Macro GM od Sony je jeho nejlepší makro objektiv",
         "url"      : "/tech-news/sonys-new-100mm-f28-macro-gm-is-its-best-macro-len/",
         "category" : "tech_news",
-        "content"  : "Nový makro objektiv společnosti Sony využívá optických vylepšení z posledního desetiletí.Číst původní článekZdroj: 📰 PetaPixel"
+        "content"  : "Nový makro objektiv od Sony využívá optických vylepšení z posledního desetiletí.Číst původní článekZdroj: 📰 PetaPixel"
       }
       
       ,{
-        "title"    : "Ty nejlepší cosplayové kostýmy z Anime NYC 2025 v New Yorku - Kotaku",
+        "title"    : "Nejlepší cosplayové kostýmy z Anime NYC 2025 v New Yorku - Kotaku",
         "url"      : "/tech-news/the-very-finest-cosplay-fits-from-new-yorks-anime/",
         "category" : "tech_news",
         "content"  : "Outfit z Kpop Demon Hunters, Resident Evil a Castlevania.Číst původní článekZdroj: 📰 Kotaku"
@@ -31683,7 +31697,7 @@
       }
       
       ,{
-        "title"    : "Barevný Kindle s dotykovým perem, $40 TV stick s 4K videem",
+        "title"    : "Barevný Kindle s dotykovým perem, $40 TV Stick s 4K videem",
         "url"      : "/tech-news/amazon-launches-color-kindle-with-stylus-40-tv-sti/",
         "category" : "tech_news",
         "content"  : "Společnost také uvádí na trh nové televizní sety a vylepšené domácí bezpečnostní produkty od společností Ring a Blink.Číst původní článekZdroj: 💹 Bloomberg"
@@ -31704,6 +31718,13 @@
       }
       
       ,{
+        "title"    : "Minecraft Game Drop 3 2025: Měděná éra - Minecraft",
+        "url"      : "/tech-news/minecraft-game-drop-3-2025-the-copper-age-drop-min/",
+        "category" : "tech_news",
+        "content"  : "Dozvěte se více o Měděné éře. Zjistěte více o nových měděných blocích a jak vyrábět měděnou zbroj, truhly, zbraně a měděné golemy.Číst původní článekZdroj: 📰 Minecraft.net"
+      }
+      
+      ,{
         "title"    : "Žena vyhrála turnaj Mortal Kombat pět dní po porodu, zatímco držela novorozence",
         "url"      : "/tech-news/five-days-after-giving-birth-a-woman-won-a-mortal/",
         "category" : "tech_news",
@@ -31711,10 +31732,10 @@
       }
       
       ,{
-        "title"    : "Halo Studios odhalí více o svých příštích projektech (ano, v množném čísle) na příštím měsíčním Mistrovství světa",
+        "title"    : "Halo Studios odhalí více o svých dalších projektech (ano, v množném čísle) na příštím měsíčním šampionátu World Championship",
         "url"      : "/tech-news/halo-studios-revealing-more-on-next-projects-yes-p/",
         "category" : "tech_news",
-        "content"  : "Halo Studios bude na Mistrovství světa ve hře Halo příští měsíc prezentovat “hluboký ponor” do svých dalších projektů.Číst původní článekZdroj: 📰 Eurogamer.net"
+        "content"  : "Halo Studios bude na Mistrovství světa ve hře Halo příští měsíc prezentovat “hluboký ponor” do svých příštích projektů.Číst původní článekZdroj: 📰 Eurogamer.net"
       }
       
       ,{
@@ -31725,7 +31746,7 @@
       }
       
       ,{
-        "title"    : "Kamerové systémy Ring mohou nyní rozpoznávat obličeje a pomáhat při hledání ztracených domácích mazlíčků",
+        "title"    : "Kamery Ring nyní mohou rozpoznávat obličeje a pomáhat při hledání ztracených domácích mazlíčků",
         "url"      : "/tech-news/ring-cameras-can-now-recognize-faces-and-help-to-f/",
         "category" : "tech_news",
         "content"  : "Amazon představil nové AI funkce pro své zařízení Ring, jako je schopnost identifikovat známé obličeje a pomoci najít ztraceného psa.Číst původní článekZdroj: 🚀 TechCrunch"
@@ -31760,17 +31781,17 @@
       }
       
       ,{
-        "title"    : "Světová válka: Půlnoc se údajně spustí v únoru 2026",
+        "title"    : "Svět Warcraftu: Půlnoc se údajně spustí v únoru 2026",
         "url"      : "/tech-news/world-of-warcraft-midnight-will-reportedly-launch/",
         "category" : "tech_news",
-        "content"  : "World of Warcraft: Midnight by Billbil-kun pravděpodobně odhalil datum vydání, které má být v únoru 2026.Číst původní článekZdroj: 📰 Wccftech"
+        "content"  : "World of Warcraft: Midnight by Billbil-kun by údajně vyjde v únoru 2026.Číst původní článekZdroj: 📰 Wccftech"
       }
       
       ,{
-        "title"    : "Uniknuté rendery Galaxy S26 Ultra ukazují obrovský nový fotoaparát Samsungu",
+        "title"    : "Uniknuté rendery Galaxy S26 Ultra ukazují masivní novou fotoaparátovou výčnělku Samsungu",
         "url"      : "/tech-news/leaked-galaxy-s26-ultra-renders-show-off-samsungs/",
         "category" : "tech_news",
-        "content"  : "Galaxy S26 Ultra se zdá být poměrně známým smartphonem, ale jeho nový fotoaparát může některé fanoušky rozčilovat.Číst původní článekZdroj: 📰 9to5google.com"
+        "content"  : "Galaxy S26 Ultra se zdá být poměrně známým smartphonem, ale jeho nový fotoaparát může některým fanouškům vadit.Číst původní článekZdroj: 📰 9to5google.com"
       }
       
       ,{
@@ -31812,7 +31833,14 @@
         "title"    : "Plán pro Battlefield 6 zahrnuje nové mapy a další obsah",
         "url"      : "/tech-news/battlefield-6s-roadmap-is-packed-with-new-maps-and/",
         "category" : "tech_news",
-        "content"  : "Dvě nové mapy a herní módy budou přidány do EA’s nadcházejícího vojenského střílecího titulu v týdnech po jeho vydání.Číst původní článekZdroj: 📰 Kotaku"
+        "content"  : "EA’s nadcházející vojenský střílecí titul přidá v týdnech po vydání dvě nové mapy a herní módy.Číst původní článekZdroj: 📰 Kotaku"
+      }
+      
+      ,{
+        "title"    : "Nový Samsung s trojitým skládáním představen na mezinárodním summitu",
+        "url"      : "/tech-news/samsungs-tri-folding-phone-to-debut-at-an-internat/",
+        "category" : "tech_news",
+        "content"  : "Po skvělém debutu Galaxy Z Fold 7 jsou všechny oči upřeny na první tri-folding telefon Samsungu. Několik zpráv naznačovalo, že tento průlomový přístroj bude uveden na trh ještě před koncem tohoto roku. Nyní nová zpráva tvrdí, že bude představen na nadcházející mezinárodní…Číst původní článekZdroj: 📰 SamMobile"
       }
       
       ,{
@@ -31823,6 +31851,13 @@
       }
       
       ,{
+        "title"    : "Nový bezpečnostní kamera Amazonu Blink s 180stupňovým záběrem za 100 dolarů",
+        "url"      : "/tech-news/amazon-blinks-curious-new-security-camera-delivers/",
+        "category" : "tech_news",
+        "content"  : "Nová “vynalézaná” funkce Blinku v oblasti domácí bezpečnosti existuje i na jiných kamerách, ale tato je nejlevnější, kterou jsme dosud viděli.Číst původní článekZdroj: 📰 CNET"
+      }
+      
+      ,{
         "title"    : "Třináct nezbytných aplikací pro iPad, které by každý měl mít nainstalované",
         "url"      : "/tech-news/a-13-essential-ipad-apps-everyone-should-have-inst/",
         "category" : "tech_news",
@@ -31830,45 +31865,66 @@
       }
       
       ,{
-        "title"    : "Masivní aktualizace Call of Duty: Warzone pro Black Ops 7: Nová mapa, zásadní funkce a více!",
+        "title"    : "Masivní aktualizace Black Ops 7 pro Warzone: Nová mapa, zásadní funkce a další!",
         "url"      : "/tech-news/warzones-massive-black-ops-7-update-new-map-game-c/",
         "category" : "tech_news",
-        "content"  : "Objevte zatím nejbarevnější a vizuálně nejpůsobivější mapu Warzone v Haven’s Hollow a klíčové změny v herní mechanice, které přichází s integrací Black Ops 7.Číst původní článekZdroj: 📰 Screen Rant"
+        "content"  : "Objevte nejbarevnější a vizuálně nejpůsobivější mapu ve Warzone v Haven’s Hollow, plus klíčové změny v herní mechanice přicházející s integrací Black Ops 7.Číst původní článekZdroj: 📰 Screen Rant"
       }
       
       ,{
-        "title"    : "Herní zážitek ze Super Mario Galaxy + Super Mario Galaxy 2 v prvním 4K na Nintendo Switch 2",
+        "title"    : "Hratelnost Super Mario Galaxy + Super Mario Galaxy 2 v prvním 4K na Nintendo Switch 2",
         "url"      : "/tech-news/super-mario-galaxy-super-mario-galaxy-2-gets-first/",
         "category" : "tech_news",
-        "content"  : "První gameplay záběry vydané pro Super Mario Galaxy + Super Mario Galaxy 2 ukazují tyto dvě hry na Nintendo Switch 2 ve 4K.Číst původní článekZdroj: 📰 Nintendoeverything.com"
+        "content"  : "První gameplay záběry vydané pro Super Mario Galaxy + Super Mario Galaxy 2 ukazují tyto dvě hry na Nintendo Switch 2 ve 4K rozlišení.Číst původní článekZdroj: 📰 Nintendoeverything.com"
       }
       
       ,{
-        "title"    : "Datum vydání iOS 26.1: Tady se můžete těšit na další aktualizaci iPhonu",
+        "title"    : "Datum vydání iOS 26.1: Kdy očekávat další aktualizaci iPhonu",
         "url"      : "/tech-news/ios-261-release-date-heres-when-to-expect-the-next/",
         "category" : "tech_news",
         "content"  : "iOS 26.1 je další velká softwarová aktualizace, která přijde pro uživatele iPhonu. Očekávaným datem vydání je a přehled nových funkcí je následující:Číst původní článekZdroj: 📰 9to5Mac"
       }
       
       ,{
-        "title"    : "Oficiální oblečení Final Fantasy Tactics je k dispozici na Amazonu",
-        "url"      : "/tech-news/official-final-fantasy-tactics-apparel-is-availabl/",
+        "title"    : "Průvodce - Mapa pro multiplayerový režim Black Ops 7 — The Forge - Call of Duty",
+        "url"      : "/tech-news/guides-black-ops-7-multiplayer-map-guide-the-forge/",
         "category" : "tech_news",
-        "content"  : "Oslavte návrat kultovní hry Final Fantasy se stylovou módou.Číst původní článekZdroj: 📰 GameSpot"
+        "content"  : "Číst původní článekZdroj: 📰 Callofduty.com"
       }
       
       ,{
-        "title"    : "Youtuber rozbaluje, co se zdá být předběžná verze M5 iPad Pro",
+        "title"    : "Oficiální oblečení Final Fantasy Tactics je k dispozici na Amazonu",
+        "url"      : "/tech-news/official-final-fantasy-tactics-apparel-is-availabl/",
+        "category" : "tech_news",
+        "content"  : "Oslavte návrat kultovní hry Final Fantasy s některým z těchto stylových oblečení.Číst původní článekZdroj: 📰 GameSpot"
+      }
+      
+      ,{
+        "title"    : "Youtuber rozbaluje, co se zdá být předběžná verze M5 iPadu Pro",
         "url"      : "/tech-news/youtuber-unboxes-what-seems-to-be-a-pre-release-ve/",
         "category" : "tech_news",
         "content"  : "Signály naznačují relativně mírné vylepšení oproti 16 měsíců starému Apple M4.Číst původní článekZdroj: 🔬 Ars Technica"
       }
       
       ,{
-        "title"    : "Oteklá oběť Galaxy Ringu ukazuje následky a poukazuje na další případ",
+        "title"    : "Otékání oběti prstenu Galaxy a odkaz na další případ",
         "url"      : "/tech-news/galaxy-ring-swelling-victim-shows-aftermath-and-po/",
         "category" : "tech_news",
-        "content"  : "Majitel Galaxy Ringu sdílel fotografii svého zranění a zároveň upozornil na další online hlášení o otékání. Samsung tuto záležitost vyšetřuje.Číst původní článekZdroj: 📰 Android Authority"
+        "content"  : "Majitel Galaxy Ringu sdílel fotografii svého zranění a upozornil na další online zprávu o otoku. Samsung situaci vyšetřuje.Číst původní článekZdroj: 📰 Android Authority"
+      }
+      
+      ,{
+        "title"    : "Nový režim agenta pro Excel a Word, Microsoft propaguje &quot;práci s náladou",
+        "url"      : "/tech-news/with-new-agent-mode-for-excel-and-word-microsoft-t/",
+        "category" : "tech_news",
+        "content"  : "Agent Mode v Wordu a Excelu funguje jako nástroje pro vibrační kódování, ale pro práci s informacemi. Umožňuje automatizovat opakující se úkoly, jako je generování textu, analýza dat nebo vytváření grafů.Číst původní článekZdroj: 🔬 Ars Technica"
+      }
+      
+      ,{
+        "title"    : "Poměrový mechanismus - modulární alternativní mechanický 1x přesmykač pro nahrazení všech ostatních",
+        "url"      : "/tech-news/coming-soon-ratio-mech-a-modular-alt-mechanical-1x/",
+        "category" : "tech_news",
+        "content"  : "Ukryli to pod naše nosy v rámci aprílového žertu, ale mechanický zadní měnič Ratio Mech vyrobený ve Velké Británii je skutečný. A brzy bude k dispozici…Číst původní článekZdroj: 📰 Bikerumor.com"
       }
       
       ,{
@@ -31879,10 +31935,17 @@
       }
       
       ,{
-        "title"    : "Zákazník v Amazoně Francie obdržel ROG Xbox Ally X téměř 3 týdny předčasně... a už ho recenzoval",
+        "title"    : "Nová verze Windows 11 25H2 právě vyšla, ale je třeba si být vědomi některých problémů",
+        "url"      : "/tech-news/windows-11-version-25h2-has-only-just-launched-but/",
+        "category" : "tech_news",
+        "content"  : "S novou verzí Windows 11, která je nyní všeobecně dostupná, Microsoft potvrdil, že existuje několik známých problémů, na které je třeba dávat pozor, pokud budete aktualizovat okamžitě.Číst původní článekZdroj: 📰 Windows Central"
+      }
+      
+      ,{
+        "title"    : "Amazonu Francie dodali zákazníkovi ROG Xbox Ally X téměř 3 týdny předčasně... a už ho recenzovali",
         "url"      : "/tech-news/amazon-france-shipped-someone-their-rog-xbox-ally/",
         "category" : "tech_news",
-        "content"  : "Amazon neobdržel memo o datu vydání 16. října.Číst původní článekZdroj: 📰 Windows Central"
+        "content"  : "Amazon představil novou generaci svých populárních zařízení Echo Dot, Echo Show a Echo Studio. Nové modely přinášejí vylepšený design a vyšší výkon. Echo Dot nabízí lepší zvuk a podporu pro Dolby Atmos, Echo Show má větší displej a vylepšené kamery, zatímco Echo Studio přichází s prostorově rozšířeným zvukem. Tyto produkty jsou k dispozici od 16. října.Číst původní článekZdroj: 📰 Windows Central"
       }
       
       ,{
@@ -31900,6 +31963,13 @@
       }
       
       ,{
+        "title"    : "Náhodné uniknutí informací FCC o chystaném Apple Vision Pro - MacRumors",
+        "url"      : "/tech-news/fcc-accidentally-leaks-apples-next-vision-pro-macr/",
+        "category" : "tech_news",
+        "content"  : "Federální komunikační komise Spojených států (FCC) zdá se, že potvrdila práci Applu na aktualizované verzi headsetu Vision Pro.Číst původní článekZdroj: 📰 MacRumors"
+      }
+      
+      ,{
         "title"    : "Kde si můžete předobjednat všechna nová Alexa zařízení Amazonu a kdy dorazí",
         "url"      : "/tech-news/heres-where-to-preorder-all-of-amazons-new-alexa-d/",
         "category" : "tech_news",
@@ -31907,17 +31977,108 @@
       }
       
       ,{
-        "title"    : "Displej Meta Ray-Ban je nyní k prodeji, ale pouze ve vybraných obchodech v USA",
+        "title"    : "Živé vysílání akce Amazonu 2025: Reakce na Echo Dot, Kindle Scribe Colorsoft, Fire TV a další",
+        "url"      : "/tech-news/amazon-event-2025-live-reactions-to-echo-dot-kindl/",
+        "category" : "tech_news",
+        "content"  : "Před Prime Day, obchodní gigant vypustil celou řadu chytrých domácích doplňků a zařízení, včetně pokračování modelů Echo Dot, Kindle Scribe, Ring a dalších.Číst původní článekZdroj: 📰 ZDNet"
+      }
+      
+      ,{
+        "title"    : "Displej Meta Ray-Ban je nyní k dostání, ale pouze ve vybraných obchodech v USA",
         "url"      : "/tech-news/meta-ray-ban-display-is-now-on-sale-but-only-in-se/",
         "category" : "tech_news",
-        "content"  : "Meta Ray-Ban Display je nyní prodáván ve vybraných kamenných obchodech v USA, i když pro většinu obchodů budete muset zajistit demo, abyste si jej mohli zakoupit.Číst původní článekZdroj: 📰 UploadVR"
+        "content"  : "Meta Ray-Ban Display je nyní prodáván ve vybraných kamenných obchodech v USA, i když pro většinu obchodů budete muset zajistit předváděcí model, abyste si ho mohli zakoupit.Číst původní článekZdroj: 📰 UploadVR"
+      }
+      
+      ,{
+        "title"    : "Společnost Samsung nemá důvěru v tenké telefony, vrací se k práci na modelu Galaxy S26 Plus",
+        "url"      : "/tech-news/samsung-doesnt-have-faith-in-thin-phones-gets-back/",
+        "category" : "tech_news",
+        "content"  : "Samsung údajně rozhodl o vývoji modelu Galaxy S26 Plus, ale co to znamená pro model Galaxy S26 Edge?Číst původní článekZdroj: 📰 Android Authority"
+      }
+      
+      ,{
+        "title"    : "Nový proces instalace Applu snižuje odchod uživatelů o 60% - podle Epic Games",
+        "url"      : "/tech-news/epic-games-says-apples-new-install-process-cuts-us/",
+        "category" : "tech_news",
+        "content"  : "Výrobce hry Fortnite, společnost Epic Games, uvedl, že nový instalační workflow implementovaný společností Apple v iOS 18.6 měl pozitivní dopad na růst jejich uživatelské základny, s 60% poklesem odchodů.Číst původní článekZdroj: 🚀 TechCrunch"
+      }
+      
+      ,{
+        "title"    : "Duch Yotei získává téměř dokonalé skóre v nejslavnějším japonském herním časopise - Push Square",
+        "url"      : "/tech-news/ghost-of-yotei-gets-a-near-perfect-score-in-japans/",
+        "category" : "tech_news",
+        "content"  : "Otevřený svět akční adventury Ghost of Tsushima nabízí hráčům nádherné prostředí feudálního Japonska, komplexní příběh a bohatý herní zážitek. Hra využívá moderní technologie k vytvoření autentického a atmosférického prostředí, které dokonale ztělesňuje estetiku samurajů. Kombinace akčního boje, stealth prvků a průzkumu otevřeného světa poskytuje hráčům mnoho možností, jak se vypořádat s nepřáteli a objevovat tajemství ostrova Tsushima.Číst původní článekZdroj: 📰 Push Square"
+      }
+      
+      ,{
+        "title"    : "Oura představuje barevné keramické kroužky a nabíjecí pouzdro do své řady",
+        "url"      : "/tech-news/oura-adds-colorful-ceramic-rings-and-charging-case/",
+        "category" : "tech_news",
+        "content"  : "Společnost Oura oznámila, že její čtvrtá generace chytrého prstenu bude nyní k dispozici v barevných keramických variantách. Společnost také přidává nabíjecí pouzdro a podporu více prstenů.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Testoval jsem Apple Watch SE 3 a necítil jsem žádné FOMO",
+        "url"      : "/tech-news/i-tested-the-apple-watch-se-3-and-didnt-feel-any-f/",
+        "category" : "tech_news",
+        "content"  : "Recenze: Nejdostupnější chytré hodinky od Applu jsou za 250 dolarů skvělým nákupem, který nabízí téměř vše, co byste od nositelného zařízení chtěli, s překvapivě málo kompromisy.Číst původní článekZdroj: 📰 CNET"
+      }
+      
+      ,{
+        "title"    : "Recenze Ray-Ban Meta Gen 2: celodenní chytré brýle se stejnými složitými otázkami",
+        "url"      : "/tech-news/ray-ban-meta-gen-2-review-all-day-smart-glasses-wi/",
+        "category" : "tech_news",
+        "content"  : "Meta’s nové brýle mají dvojnásobnou výdrž baterie, ale stále mají problematickou záležitost, že obsahují kameru přímo na obličeji.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Gemini přichází do Google Home s novými Nest kamerami a chytrým reproduktorem",
+        "url"      : "/tech-news/gemini-arrives-in-google-home-with-new-nest-camera/",
+        "category" : "tech_news",
+        "content"  : "Gemini nahrazuje Assistant ve vaší chytré domácnosti, protože Google přepracoval aplikaci Home a uvedl novou generaci zařízení Nest.Číst původní článekZdroj: 🔧 Wired"
+      }
+      
+      ,{
+        "title"    : "Aktualizovaná verze PS5 Slim od Sony se v Evropě prodává s menším úložištěm",
+        "url"      : "/tech-news/sonys-updated-ps5-slim-launches-with-less-storage/",
+        "category" : "tech_news",
+        "content"  : "Sony představil v Evropě novou, zhubenější verzi konzole PlayStation 5, která však nabízí menší úložný prostor při zachování stejné ceny 499 eur, jak upozornil youtuber Austin Evans.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Fallout 76 přidává Waltona Gogginse jako Ghoul ve velké aktualizaci inspirované New Vegas",
+        "url"      : "/tech-news/fallout-76-adds-walton-goggins-the-ghoul-in-big-ne/",
+        "category" : "tech_news",
+        "content"  : "Aktualizace Burning Springs hry Fallout 76 zavede hráče do pouštní oblasti inspirované New Vegas a přidá postavu The Ghoul, plně namluvenou Waltonem Gogginse.Číst původní článekZdroj: 📰 Polygon"
+      }
+      
+      ,{
+        "title"    : "Společnost Microsoft přepracovává plány Xbox Game Pass a zvyšuje cenu Ultimate na 29,99 USD měsíčně",
+        "url"      : "/tech-news/microsoft-revamps-xbox-game-pass-plans-and-hikes-u/",
+        "category" : "tech_news",
+        "content"  : "Microsoft přepracovává své plány na Xbox Cloud Gaming. Součástí přepracování je zvýšení ceny předplatného Xbox Game Pass Ultimate na 29,99 USD měsíčně.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "Recenze hry Digimon Story: Time Stranger - OpenCritic",
+        "url"      : "/tech-news/digimon-story-time-stranger-reviews-opencritic/",
+        "category" : "tech_news",
+        "content"  : "Digimon Story: Time Stranger je hodnocen jako ‘Strong’ po recenzi 36 kritiků, s celkovým průměrným skóre 82. Je zařazen v top 14 % her a doporučen 75 % kritiků.Číst původní článekZdroj: 📰 Opencritic.com"
+      }
+      
+      ,{
+        "title"    : "Nové ikony Microsoftové kanceláře jsou více zaoblené a barevné",
+        "url"      : "/tech-news/microsofts-new-office-icons-are-more-curvy-and-col/",
+        "category" : "tech_news",
+        "content"  : "Microsoft aktualizuje své ikony Office. Nový design aplikací Microsoft 365 je modernější, se zaměřením na barvu.Číst původní článekZdroj: ⚡ The Verge"
       }
       
       ,{
         "title"    : "Technologické zprávy",
         "url"      : "/tech-news/",
         "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 30Poslední aktualizace: 02.10.2025 08:18 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 29Poslední aktualizace: 02.10.2025 16:17 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
       }
       
     
