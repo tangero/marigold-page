@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Tom's Guide
-title: Nejuniverzálnější Patagonia bunda, kterou vlastním, je se slevou 51 % — a vážně
+title: Nejuniverzálnější Patagonia bunda, kterou vlastním, je se slevou 51 % - a vážně
   mě to láká koupit další
 url: https://www.tomsguide.com/wellness/fitness/the-most-versatile-patagonia-jacket-i-own-is-51-percent-off-and-im-seriously-tempted-to-buy-another
 urlToImage: https://cdn.mos.cms.futurecdn.net/DXe3a3JHxayPLnp5KkhwW8-2240-80.jpg

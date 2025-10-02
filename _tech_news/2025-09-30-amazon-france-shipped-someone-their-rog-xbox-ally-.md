@@ -14,8 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: Amazonu Francie odeslali někomu jejich ROG Xbox Ally X téměř 3 týdny předčasně...
-  a už ho recenzovali
+title: Zákazník v Amazoně Francie obdržel ROG Xbox Ally X téměř 3 týdny předčasně...
+  a už ho recenzoval
 url: https://www.windowscentral.com/gaming/xbox/amazon-france-ships-the-rog-xbox-ally-x-three-weeks-early-one-lucky-gamer-posts-first-review
 urlToImage: https://cdn.mos.cms.futurecdn.net/mg22A7BHV83DqDKxuSUHxF-640-80.jpg
 ---

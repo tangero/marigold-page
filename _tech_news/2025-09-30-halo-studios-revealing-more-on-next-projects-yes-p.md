@@ -3,8 +3,8 @@ category: herní průmysl
 companies:
 - Halo Studios
 date: '2025-09-30 15:24:59'
-description: Halo Studios bude na Mistrovství světa ve hře Halo příští měsíc prezentovat
-  "hluboký ponor" do svých nadcházejících projektů.
+description: Halo Studios představí "hluboký ponor" do svých příštích projektů na
+  Halo World Championship příští měsíc.
 importance: 3
 layout: tech_news_article
 original_title: Halo Studios revealing more on next projects (yes, plural) at next
@@ -21,7 +21,7 @@ url: https://www.eurogamer.net/halo-studios-revealing-more-on-next-projects-yes-
 urlToImage: https://assetsio.gnwcdn.com/A-New-Dawn-_-Halo-Studios-6-4-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Halo Studios bude na Mistrovství světa ve hře Halo příští měsíc prezentovat "hluboký ponor" do svých nadcházejících projektů.
+Halo Studios představí "hluboký ponor" do svých příštích projektů na Halo World Championship příští měsíc.
 
 [Číst původní článek](https://www.eurogamer.net/halo-studios-revealing-more-on-next-projects-yes-plural-at-next-months-world-championship-event)
 

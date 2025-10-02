@@ -5,7 +5,7 @@ companies:
 date: '2025-09-30 07:01:08'
 description: Společnost Logitech International SA v úterý oznámila novou verzi své
   prémiové bezdrátové počítačové myši se zabudovaným motorem, který přináší vibrace
-  podobné herním aplikacím do kreativních aplikací - neobvyklý přírůstek do segmentu,
+  podobné herním aplikacím do kreativních aplikací - neobvyklý vstup do segmentu,
   který v poslední době nezaznamenal výrazné změny.
 importance: 5
 layout: tech_news_article
@@ -16,12 +16,12 @@ source:
   emoji: 💹
   id: bloomberg
   name: Bloomberg
-title: Logitech přidává vibrace do populární řady myší MX
+title: Společnost Logitech přidává vibrační zpětnou vazbu do populární řady myší MX
 url: https://www.bloomberg.com/news/articles/2025-09-30/logitech-unveils-120-mx-master-4-mouse-with-haptic-vibrations
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaoY1iHhKWUw/v1/1200x800.jpg
 ---
 
-Společnost Logitech International SA v úterý oznámila novou verzi své prémiové bezdrátové počítačové myši se zabudovaným motorem, který přináší vibrace podobné herním aplikacím do kreativních aplikací - neobvyklý přírůstek do segmentu, který v poslední době nezaznamenal výrazné změny.
+Společnost Logitech International SA v úterý oznámila novou verzi své prémiové bezdrátové počítačové myši se zabudovaným motorem, který přináší vibrace podobné herním aplikacím do kreativních aplikací - neobvyklý vstup do segmentu, který v poslední době nezaznamenal výrazné změny.
 
 [Číst původní článek](https://www.bloomberg.com/news/articles/2025-09-30/logitech-unveils-120-mx-master-4-mouse-with-haptic-vibrations)
 

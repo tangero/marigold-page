@@ -7,8 +7,7 @@ description: 'Meta Ray-Ban Display je nyní k dispozici k zakoupení, exkluzivn�
   vybraných obchodech v USA.
 
 
-  Ačkoli to není povinné, Meta "silně" doporučuje rezervovat si předváděcí ukázku
-  před nákupem.'
+  Ačkoli to není povinné, Meta "silně" doporučuje zarezervovat si demo před nákupem.'
 importance: 3
 layout: tech_news_article
 original_title: Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores
@@ -19,15 +18,15 @@ source:
   emoji: 📰
   id: null
   name: UploadVR
-title: Displej Meta Ray-Ban je nyní k dispozici, ale pouze ve vybraných obchodech
-  v USA
+title: Displej Meta Ray-Ban je nyní k prodeji, ale pouze ve vybraných obchodech v
+  USA
 url: https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/
 urlToImage: https://www.uploadvr.com/content/images/size/w1200/2025/09/Meta-Ray-Ban-Display-and-Meta-Neural-Band-1.png
 ---
 
 Meta Ray-Ban Display je nyní k dispozici k zakoupení, exkluzivně ve vybraných obchodech v USA.
 
-Ačkoli to není povinné, Meta "silně" doporučuje rezervovat si předváděcí ukázku před nákupem.
+Ačkoli to není povinné, Meta "silně" doporučuje zarezervovat si demo před nákupem.
 
 [Číst původní článek](https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/)
 

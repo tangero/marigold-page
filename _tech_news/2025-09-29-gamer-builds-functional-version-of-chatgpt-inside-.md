@@ -1,8 +1,8 @@
 ---
-category: herní průmysl
+category: herní inženýrství
 date: '2025-09-29 17:50:00'
-description: CraftGPT je nejnovější projekt Sammyuriho, který se zabývá nad-rámcovým
-  inženýrstvím v Minecraftu. Tento projekt zabírá objem 1 020 x...
+description: CraftGPT je nejnovější projekt Sammyuriho, který představuje další příklad
+  extrémního inženýrství v Minecraftu. Tento projekt zaujímá objem 1 020 x...
 importance: 3
 layout: tech_news_article
 original_title: Gamer builds functional version of ChatGPT inside Minecraft using
@@ -18,7 +18,7 @@ url: https://www.techspot.com/news/109666-gamer-builds-functional-version-chatgp
 urlToImage: https://www.techspot.com/images2/news/bigimage/2025/09/2025-09-29-image-21.jpg
 ---
 
-CraftGPT je nejnovější projekt Sammyuriho, který se zabývá nad-rámcovým inženýrstvím v Minecraftu. Tento projekt zabírá objem 1 020 x...
+CraftGPT je nejnovější projekt Sammyuriho, který představuje další příklad extrémního inženýrství v Minecraftu. Tento projekt zaujímá objem 1 020 x...
 
 [Číst původní článek](https://www.techspot.com/news/109666-gamer-builds-functional-version-chatgpt-inside-minecraft-using.html)
 
