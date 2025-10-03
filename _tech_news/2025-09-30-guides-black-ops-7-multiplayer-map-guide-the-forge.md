@@ -11,8 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Callofduty.com
-title: Průvodce - Mapa pro multiplayerový režim Black Ops 7 — The Forge - Call of
-  Duty
+title: Průvodce - Mapa multiplayeru Black Ops 7 — The Forge
 url: https://www.callofduty.com/guides/blackops7/multiplayer-maps/the-forge
 urlToImage: https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/guides/games/blackops7/the-forge/COD-BO7-MAPS-CORE-FORGE-TOUT.jpg
 ---

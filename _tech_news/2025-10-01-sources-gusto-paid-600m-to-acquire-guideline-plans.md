@@ -4,7 +4,7 @@ companies:
 - Gusto
 - Guideline
 date: '2025-10-01 16:00:00'
-description: Ačkoliv byla HR Tech Guideline naposledy oceněna na 1,15 miliardy dolarů,
+description: Zatímco HR Tech Guideline byl naposledy oceněn na 1,15 miliardy dolarů,
   prodej pravděpodobně přinese zisk pro většinu investorů.
 importance: 5
 layout: tech_news_article
@@ -22,7 +22,7 @@ url: https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guidel
 urlToImage: https://techcrunch.com/wp-content/uploads/2017/08/mg_7281a.jpg?resize=1200,943
 ---
 
-Ačkoliv byla HR Tech Guideline naposledy oceněna na 1,15 miliardy dolarů, prodej pravděpodobně přinese zisk pro většinu investorů.
+Zatímco HR Tech Guideline byl naposledy oceněn na 1,15 miliardy dolarů, prodej pravděpodobně přinese zisk pro většinu investorů.
 
 [Číst původní článek](https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/)
 
