@@ -1,5 +1,5 @@
 ---
-category: platby za úložiště
+category: platební model
 companies:
 - Snapchat
 date: '2025-10-01 10:13:56'

@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: GamesIndustry.biz
-title: Muž se přiznal k posílání výhrůžek smrtí společnosti Epic Games
+title: Muž se přiznal k zasílání výhrůžek smrtí společnosti Epic Games
 url: https://www.gamesindustry.biz/man-pleads-guilty-to-sending-death-threats-to-epic-games
 urlToImage: https://assetsio.gnwcdn.com/Epic-Games-Symbol-913950161.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

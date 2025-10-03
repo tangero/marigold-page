@@ -15,7 +15,7 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: Gemini přichází do Google Home s novými kamerami Nest a chytrým reproduktorem
+title: Gemini přichází do Google Home s novými Nest kamerami a chytrým reproduktorem
 url: https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/
 urlToImage: https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png
 ---

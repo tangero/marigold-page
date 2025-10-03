@@ -19,7 +19,7 @@ source:
   emoji: 📰
   id: null
   name: UploadVR
-title: Prodej brýlí Meta Ray-Ban s displejem vyprodán, časní adoptoři bojují s nákupem
+title: Displej Meta Ray-Ban se vyprodal, zatímco ranní adoptoři bojují s nákupem
 url: https://www.uploadvr.com/meta-ray-ban-display-sold-out-early-adopters-struggle/
 urlToImage: https://www.uploadvr.com/content/images/2025/10/Meta-Ray-Ban-Display-with-case.png
 ---

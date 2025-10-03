@@ -3,7 +3,7 @@ category: mobilní telefony
 companies:
 - Samsung
 date: '2025-10-01 09:36:00'
-description: Samsung uvádí, že nákupy Galaxy Z Fold 7 převyšují předchozí generaci
+description: Samsung uvádí, že nákupy Galaxy Z Fold 7 překračují předchozí generaci
   o 50 %.
 importance: 3
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://www.androidcentral.com/phones/samsung-galaxy/samsung-says-galaxy-z-
 urlToImage: https://cdn.mos.cms.futurecdn.net/eywqvFaRMzpU9poUfE3Cr3-2500-80.jpg
 ---
 
-Samsung uvádí, že nákupy Galaxy Z Fold 7 převyšují předchozí generaci o 50 %.
+Samsung uvádí, že nákupy Galaxy Z Fold 7 překračují předchozí generaci o 50 %.
 
 [Číst původní článek](https://www.androidcentral.com/phones/samsung-galaxy/samsung-says-galaxy-z-fold-flip-7-hit-in-us)
 

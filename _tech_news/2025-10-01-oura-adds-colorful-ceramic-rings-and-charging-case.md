@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Oura představuje barevné keramické kroužky a nabíjecí pouzdro do své řady
+title: Oura přidává barevné keramické kroužky a nabíjecí pouzdro do své nabídky
 url: https://www.theverge.com/news/787210/oura-ring-ceramic-charging-case-price-specs
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/OR4C_Collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
