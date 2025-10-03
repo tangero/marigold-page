@@ -3,9 +3,9 @@ category: nové produkty
 companies:
 - Apple
 date: '2025-10-01 11:45:44'
-description: Připravte se na spoustu nových zařízení Apple v říjnu. Společnost plánuje
-  představit nové modely iPhonů, Apple Watch, iPadů a dalších produktů v nadcházejících
-  týdnech.
+description: Chystá se představení mnoha nových zařízení od Applu v říjnu. Očekává
+  se představení nových iPhone 14, Apple Watch Series 8, AirPods Pro 2 a dalších produktů.
+  Společnost plánuje uspořádat speciální událost, kde budou nové produkty odhaleny.
 importance: 4
 layout: tech_news_article
 original_title: Massive Apple leak just tipped MacBook Pro M5, iPad Pro M5 and new
@@ -22,7 +22,7 @@ url: https://www.tomsguide.com/computing/vr-ar/massive-apple-leak-seemingly-conf
 urlToImage: https://cdn.mos.cms.futurecdn.net/2JhaVehuoHDADq8A842E4L-2000-80.jpg
 ---
 
-Připravte se na spoustu nových zařízení Apple v říjnu. Společnost plánuje představit nové modely iPhonů, Apple Watch, iPadů a dalších produktů v nadcházejících týdnech.
+Chystá se představení mnoha nových zařízení od Applu v říjnu. Očekává se představení nových iPhone 14, Apple Watch Series 8, AirPods Pro 2 a dalších produktů. Společnost plánuje uspořádat speciální událost, kde budou nové produkty odhaleny.
 
 [Číst původní článek](https://www.tomsguide.com/computing/vr-ar/massive-apple-leak-seemingly-confirms-new-pro-devices-heres-everything-to-expect)
 

@@ -1,5 +1,5 @@
 ---
-category: cloudové služby
+category: balíčky předplatného
 companies:
 - Microsoft
 date: '2025-10-01 16:00:00'
