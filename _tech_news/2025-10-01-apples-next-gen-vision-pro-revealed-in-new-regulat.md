@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-10-01 14:41:07'
 description: Nové podání u Federální komise pro komunikace se zdá odhalovat práci
-  Applu na novém headsetu Vision Pro.
+  Apple na novém headsetu Vision Pro.
 importance: 4
 layout: tech_news_article
 original_title: Apple’s next-gen Vision Pro revealed in new regulatory filing - The
@@ -20,7 +20,7 @@ url: https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/vision-pro-filing.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200
 ---
 
-Nové podání u Federální komise pro komunikace se zdá odhalovat práci Applu na novém headsetu Vision Pro.
+Nové podání u Federální komise pro komunikace se zdá odhalovat práci Apple na novém headsetu Vision Pro.
 
 [Číst původní článek](https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak)
 

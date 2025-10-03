@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-01 14:00:00'
-description: Před spuštěním 2. sezóny "Fallout" od Amazonu přidávají tvůrci videoherní
+description: Před uvedením 2. sezóny "Fallout" od Amazonu přidávají tvůrci videoherní
   série "Fallout 76" postavu The Ghoul, kterou ztvárňuje Walton Goggins.
 importance: 3
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://variety.com/2025/gaming/news/fallout-season-2-update-fallout-76-wal
 urlToImage: https://variety.com/wp-content/uploads/2025/10/Fallout-76.png?w=1000&h=563&crop=1
 ---
 
-Před spuštěním 2. sezóny "Fallout" od Amazonu přidávají tvůrci videoherní série "Fallout 76" postavu The Ghoul, kterou ztvárňuje Walton Goggins.
+Před uvedením 2. sezóny "Fallout" od Amazonu přidávají tvůrci videoherní série "Fallout 76" postavu The Ghoul, kterou ztvárňuje Walton Goggins.
 
 [Číst původní článek](https://variety.com/2025/gaming/news/fallout-season-2-update-fallout-76-walton-goggins-ghoul-1236535681/)
 

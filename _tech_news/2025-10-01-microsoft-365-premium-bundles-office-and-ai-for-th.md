@@ -1,5 +1,5 @@
 ---
-category: balíčky předplatného
+category: cloudové služby
 companies:
 - Microsoft
 date: '2025-10-01 16:00:00'
@@ -17,7 +17,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Balíček Microsoft 365 Premium zahrnuje Office a AI za stejnou cenu jako ChatGPT
+title: Prémiový balík Microsoft 365 zahrnuje Office a AI za stejnou cenu jako ChatGPT
   Plus
 url: https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
