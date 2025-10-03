@@ -3,8 +3,8 @@ category: hardwarové produkty
 companies:
 - Amazon
 date: '2025-10-01 16:11:03'
-description: Před nadcházejícími Prime Big Deal Days příští týden jsme se podívali
-  na nové produkty v hardwarovém portfoliu Amazonu pro rok 2025.
+description: Před nadcházejícími Prime Big Deal Days příští týden jsme získali přímý
+  pohled na nové produkty v hardwarovém portfoliu Amazonu pro rok 2025.
 importance: 4
 layout: tech_news_article
 original_title: 'Echo, Kindle, Ring, and More: All the New Products Amazon Announced
@@ -21,7 +21,7 @@ url: https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-ev
 urlToImage: https://i.pcmag.com/imagery/articles/04eBC17sQ8QYcZtKtImuOpX-1.fit_lim.size_1200x630.v1759257910.jpg
 ---
 
-Před nadcházejícími Prime Big Deal Days příští týden jsme se podívali na nové produkty v hardwarovém portfoliu Amazonu pro rok 2025.
+Před nadcházejícími Prime Big Deal Days příští týden jsme získali přímý pohled na nové produkty v hardwarovém portfoliu Amazonu pro rok 2025.
 
 [Číst původní článek](https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire)
 
