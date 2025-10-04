@@ -1,7 +1,7 @@
 ---
-category: tech
+category: herní průmysl
 date: '2025-10-02 13:30:00'
-description: Game launches this month!
+description: Hra bude spuštěna tento měsíc!
 importance: 4
 layout: tech_news_article
 original_title: 'Pokémon Legends: Z-A Gets A 6-Minute Overview Trailer For Switch
@@ -12,13 +12,12 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: 'Pokémon Legends: Z-A Gets A 6-Minute Overview Trailer For Switch 2 - Nintendo
-  Life'
+title: 'Pokémon Legends: Z-A - 6minutový přehledový trailer pro Switch'
 url: https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-gets-a-6-minute-overview-trailer-for-switch-2
 urlToImage: https://images.nintendolife.com/ea0e6149cc234/large.jpg
 ---
 
-Game launches this month!
+Hra bude spuštěna tento měsíc!
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-gets-a-6-minute-overview-trailer-for-switch-2)
 
