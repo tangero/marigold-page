@@ -14,7 +14,7 @@ source:
   id: null
   name: Pcguide.com
 title: Alternativa k 'režimu Xbox' na ROG Ally dostává svou nejnovější velkou aktualizaci
-  před příchodem nových přenosných zařízení Xbox
+  před uvedením nových přenosných zařízení Xbox
 url: https://www.pcguide.com/news/alternative-to-xbox-mode-on-the-rog-ally-gets-its-latest-big-update-ahead-of-new-xbox-handhelds/
 urlToImage: https://www.pcguide.com/wp-content/uploads/2025/10/Winhanced-installed-on-ROG-Ally-X-with-Silksong-menus.jpg
 ---

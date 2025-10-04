@@ -6,7 +6,7 @@ companies:
 - WhatsApp
 date: '2025-10-02 11:34:48'
 description: T-Mobile rozšířil svou službu satelit-do-mobilu na několik populárních
-  aplikací v USA, což umožňuje uživatelům zůstat připojeni i bez pokrytí mobilní sítě.
+  aplikací v USA, což umožňuje uživatelům zůstat připojeni i bez pokrytí mobilní sítí.
 importance: 3
 layout: tech_news_article
 original_title: T-Mobile’s satellite service now supports Google Maps, WhatsApp, X,
@@ -22,7 +22,7 @@ url: https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-what
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK067__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-T-Mobile rozšířil svou službu satelit-do-mobilu na několik populárních aplikací v USA, což umožňuje uživatelům zůstat připojeni i bez pokrytí mobilní sítě.
+T-Mobile rozšířil svou službu satelit-do-mobilu na několik populárních aplikací v USA, což umožňuje uživatelům zůstat připojeni i bez pokrytí mobilní sítí.
 
 [Číst původní článek](https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps)
 

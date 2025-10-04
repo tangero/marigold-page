@@ -1,13 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-02 14:00:00'
-description: 'Balíček technologických článků z angličtiny do češtiny:
-
-
-  Tento článek popisuje koncept tzv. "wolf pack" v oblasti softwarového vývoje. Wolf
-  pack je přístup k vývoji softwaru, kdy tým vývojářů pracuje společně jako smečka
-  vlků, aby dosáhl společného cíle. Klíčovými principy jsou sdílení znalostí, rychlá
-  iterace a neustálá komunikace v rámci týmu.'
+description: Balíček funkcí pro správu a optimalizaci cloudových aplikací. Zahrnuje
+  nástroje pro automatizaci nasazení, monitorování výkonu, správu konfigurací a další
+  funkce pro efektivní provoz aplikací v cloudu.
 importance: 3
 layout: tech_news_article
 original_title: PS Studios Celebrates Launch of Ghost of Yotei on PS5 with Gorgeous
@@ -23,9 +19,7 @@ url: https://www.pushsquare.com/news/2025/10/ps-studios-celebrates-launch-of-gho
 urlToImage: https://images.pushsquare.com/6e50e87a37447/large.jpg
 ---
 
-Balíček technologických článků z angličtiny do češtiny:
-
-Tento článek popisuje koncept tzv. "wolf pack" v oblasti softwarového vývoje. Wolf pack je přístup k vývoji softwaru, kdy tým vývojářů pracuje společně jako smečka vlků, aby dosáhl společného cíle. Klíčovými principy jsou sdílení znalostí, rychlá iterace a neustálá komunikace v rámci týmu.
+Balíček funkcí pro správu a optimalizaci cloudových aplikací. Zahrnuje nástroje pro automatizaci nasazení, monitorování výkonu, správu konfigurací a další funkce pro efektivní provoz aplikací v cloudu.
 
 [Číst původní článek](https://www.pushsquare.com/news/2025/10/ps-studios-celebrates-launch-of-ghost-of-yotei-on-ps5-with-gorgeous-artwork)
 

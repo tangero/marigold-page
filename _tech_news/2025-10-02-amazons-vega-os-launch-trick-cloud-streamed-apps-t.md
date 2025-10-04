@@ -1,5 +1,5 @@
 ---
-category: cloudové aplikace
+category: cloudové streamování
 companies:
 - Amazon
 date: '2025-10-02 15:30:00'
@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: 'Amazonův trik s uvedením operačního systému Vega: cloudově streamované aplikace'
+title: 'Amazonova taktika spuštění operačního systému Vega: cloudově streamované aplikace'
 url: https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fire-tv-stick.jpeg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200
 ---

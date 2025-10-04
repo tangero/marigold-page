@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Patnáct úžasných staveb lodí v No Man's Sky, které musíte vidět
+title: Patnáct úžasných staveb lodí ve hře No Man's Sky, které musíte vidět
 url: https://kotaku.com/no-mans-sky-corvette-ship-build-voyagers-update-star-wars-2000630689
 urlToImage: https://kotaku.com/app/uploads/2025/10/FALCONMAIN-1200x675.jpg
 ---

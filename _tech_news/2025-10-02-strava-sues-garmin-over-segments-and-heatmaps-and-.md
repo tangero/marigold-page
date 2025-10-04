@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: BikeRadar.com
-title: Strava žaluje Garmin kvůli Segmentům a tepelným mapám a požaduje, aby přestal
+title: Strava žaluje Garmin kvůli segmentům a tepelným mapám a požaduje, aby přestal
   prodávat zařízení
 url: https://www.bikeradar.com/news/strava-sues-garmin-over-segments-and-heatmaps
 urlToImage: https://c02.purpledshub.com/uploads/sites/39/2024/09/AM9A2917-2-scaled.jpg?w=1200
