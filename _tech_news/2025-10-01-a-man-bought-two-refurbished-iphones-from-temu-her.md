@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: SlashGear
-title: Muž si koupil dva repasované iPhony z Temu - Toto zjistil, když je otevřel
+title: Muž si koupil dva repasované iPhony od Temu - Toto zjistil, když je otevřel
 url: https://www.slashgear.com/1981156/man-bought-temu-refurbished-iphone-here-is-what-he-found/
 urlToImage: https://www.slashgear.com/img/gallery/a-man-bought-two-refurbished-iphones-from-temu-heres-what-he-found-when-he-opened-them/l-intro-1759134653.jpg
 ---

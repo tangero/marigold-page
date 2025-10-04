@@ -3,7 +3,7 @@ category: produktivní software
 companies:
 - Microsoft
 date: '2025-10-01 16:39:01'
-description: Microsoft oznámil nové předplatné produktivity, které kombinuje Microsoft
+description: Microsoft oznámil nové produktivní předplatné, které kombinuje Microsoft
   365 Family a Copilot Pro pod jedním předplatným za 20 USD měsíčně s názvem Microsoft
   365 Premium.
 importance: 4
@@ -23,7 +23,7 @@ url: https://www.windowscentral.com/microsoft/microsoft-365-premium-is-a-new-mon
 urlToImage: https://cdn.mos.cms.futurecdn.net/4QzDn5UDVeKu8AgBvEzd5N-1430-80.jpg
 ---
 
-Microsoft oznámil nové předplatné produktivity, které kombinuje Microsoft 365 Family a Copilot Pro pod jedním předplatným za 20 USD měsíčně s názvem Microsoft 365 Premium.
+Microsoft oznámil nové produktivní předplatné, které kombinuje Microsoft 365 Family a Copilot Pro pod jedním předplatným za 20 USD měsíčně s názvem Microsoft 365 Premium.
 
 [Číst původní článek](https://www.windowscentral.com/microsoft/microsoft-365-premium-is-a-new-monthly-subscription-that-combines-office-and-copilot-pro-and-it-comes-with-shiny-new-icons)
 

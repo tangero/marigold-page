@@ -14,8 +14,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Odkládání přepracování Vision Pro, aby se Apple mohl soustředit na brýle s
-  umělou inteligencí
+title: Odložení přepracování Vision Pro od Applu, zaměření na brýle s umělou inteligencí
 url: https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/
 urlToImage: https://techcrunch.com/wp-content/uploads/2023/06/CMC_6538.jpg?resize=1200,800
 ---
