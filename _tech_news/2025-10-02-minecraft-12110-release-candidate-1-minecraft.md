@@ -5,16 +5,9 @@ description: 'Minecraft 1.21.10 Release Candidate 1
 
 
   Tato aktualizace obsahuje několik oprav chyb a vylepšení stability. Mezi hlavní
-  změny patří:
-
-
-  - Oprava několika pádů a crashů
-
-  - Vylepšení stability serveru
-
-  - Oprava problémů s renderováním
-
-  - Aktualizace některých knihoven'
+  změny patří oprava problémů s renderováním a optimalizace výkonu. Dále byly opraveny
+  problémy s připojováním k serverům a další drobné chyby. Tato verze je určena pro
+  testování před finálním vydáním.'
 importance: 3
 layout: tech_news_article
 original_title: Minecraft 1.21.10 Release Candidate 1 - Minecraft
@@ -31,12 +24,7 @@ urlToImage: https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/s
 
 Minecraft 1.21.10 Release Candidate 1
 
-Tato aktualizace obsahuje několik oprav chyb a vylepšení stability. Mezi hlavní změny patří:
-
-- Oprava několika pádů a crashů
-- Vylepšení stability serveru
-- Oprava problémů s renderováním
-- Aktualizace některých knihoven
+Tato aktualizace obsahuje několik oprav chyb a vylepšení stability. Mezi hlavní změny patří oprava problémů s renderováním a optimalizace výkonu. Dále byly opraveny problémy s připojováním k serverům a další drobné chyby. Tato verze je určena pro testování před finálním vydáním.
 
 [Číst původní článek](https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1)
 

@@ -7,8 +7,8 @@ description: 'Meta Ray-Ban Display je nyní vyprodán téměř ve všech obchode
   byl k dispozici.
 
 
-  Společnost Meta uvádí, že doplnění zásob je "na cestě" a společnost zdvojnásobuje
-  počet obchodů, které budou brýle nabízet.'
+  Společnost Meta uvádí, že doplnění zásob je "v plánu" a společnost zdvojnásobí počet
+  obchodů, které budou brýle nabízet.'
 importance: 3
 layout: tech_news_article
 original_title: Meta Ray-Ban Display Sells Out As Early Adopters Struggle To Buy -
@@ -19,14 +19,14 @@ source:
   emoji: 📰
   id: null
   name: UploadVR
-title: Displej Meta Ray-Ban se vyprodal, zatímco ranní adoptoři bojují s nákupem
+title: Prodej metaverze Ray-Ban displeje vyprodán, časní adoptoři zápasí s nákupem
 url: https://www.uploadvr.com/meta-ray-ban-display-sold-out-early-adopters-struggle/
 urlToImage: https://www.uploadvr.com/content/images/2025/10/Meta-Ray-Ban-Display-with-case.png
 ---
 
 Meta Ray-Ban Display je nyní vyprodán téměř ve všech obchodech, kde byl k dispozici.
 
-Společnost Meta uvádí, že doplnění zásob je "na cestě" a společnost zdvojnásobuje počet obchodů, které budou brýle nabízet.
+Společnost Meta uvádí, že doplnění zásob je "v plánu" a společnost zdvojnásobí počet obchodů, které budou brýle nabízet.
 
 [Číst původní článek](https://www.uploadvr.com/meta-ray-ban-display-sold-out-early-adopters-struggle/)
 

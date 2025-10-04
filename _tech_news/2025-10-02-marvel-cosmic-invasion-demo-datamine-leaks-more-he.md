@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Kosmická invaze Marvel - Průnik do demo verze odhaluje další hrdiny
+title: Kosmická invaze Marvelu - Dataminování dema odhaluje další hrdiny
 url: https://www.nintendolife.com/news/2025/10/marvel-cosmic-invasion-demo-datamine-leaks-more-heroes
 urlToImage: https://images.nintendolife.com/2a855a3761390/large.jpg
 ---
