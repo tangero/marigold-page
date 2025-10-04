@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-02 02:35:44'
-description: Přihlašte se do Diamond Dynasty každý den v tomto měsíci, abyste našli
+description: Přihlašujte se do Diamond Dynasty každý den v tomto měsíci, abyste našli
   nové monstrózní mise a strašidelné odměny!
 importance: 4
 layout: tech_news_article
@@ -18,7 +18,7 @@ url: https://theshow.com/news/mlb-the-show-25s-spooky-program-brings-new-content
 urlToImage: https://media.theshow.com/wp-content/uploads/2025/09/30171419/MLB25-Social-Holiday-Spooky-Program-Background-001-1024x576.png
 ---
 
-Přihlašte se do Diamond Dynasty každý den v tomto měsíci, abyste našli nové monstrózní mise a strašidelné odměny!
+Přihlašujte se do Diamond Dynasty každý den v tomto měsíci, abyste našli nové monstrózní mise a strašidelné odměny!
 
 [Číst původní článek](https://theshow.com/news/mlb-the-show-25s-spooky-program-brings-new-content-every-day-in-october/)
 

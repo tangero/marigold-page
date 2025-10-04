@@ -4,8 +4,8 @@ companies:
 - Meta
 date: '2025-10-01 22:19:51'
 description: Myšlenka, že by Meta tajně zapínala mikrofony na telefonech uživatelů,
-  aby nahrávala jejich konverzace, je starobylá konspiračí teorie, kterou společnost
-  již dříve popřela.
+  aby nahrávala jejich konverzace, je staletá konspiračí teorie - a jedna, kterou
+  společnost již dříve popírala.
 importance: 3
 layout: tech_news_article
 original_title: Instagram head says company is not using your microphone to listen
@@ -22,7 +22,7 @@ url: https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?resize=1200,889
 ---
 
-Myšlenka, že by Meta tajně zapínala mikrofony na telefonech uživatelů, aby nahrávala jejich konverzace, je starobylá konspiračí teorie, kterou společnost již dříve popřela.
+Myšlenka, že by Meta tajně zapínala mikrofony na telefonech uživatelů, aby nahrávala jejich konverzace, je staletá konspiračí teorie - a jedna, kterou společnost již dříve popírala.
 
 [Číst původní článek](https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/)
 

@@ -1,8 +1,5 @@
 ---
-category: herní průmysl
-companies:
-- Sega
-- Puma
+category: tech
 date: '2025-10-02 16:10:26'
 description: 'Sega odhalila limitovanou edici spolupráce s Pumou na trénerech, aby
   oslavila vydání hry Sonic Racing: CrossWorlds.'

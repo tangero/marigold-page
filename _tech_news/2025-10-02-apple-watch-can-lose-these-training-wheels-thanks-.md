@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Skvělá výdrž baterie umožňuje Apple Watch opustit trénovací kolečka
+title: Skvělá výdrž baterie umožňuje Apple Watch zbavit se těchto tréninkových koleček
 url: https://9to5mac.com/2025/10/02/apple-watch-can-lose-these-training-wheels-thanks-to-stellar-battery-life/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-stack.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
