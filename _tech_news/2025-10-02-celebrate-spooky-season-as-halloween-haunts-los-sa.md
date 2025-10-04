@@ -14,7 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Rockstargames.com
-title: Oslavujte strašidelné období, když Halloween straší Los Santos - Rockstar Games
+title: Oslavujte strašidelné období, protože Halloween straší Los Santos - Rockstar
+  Games
 url: https://www.rockstargames.com/newswire/article/3922ka4494o378/celebrate-spooky-season-as-halloween-haunts-los-santos
 urlToImage: https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3922ka4494o378/05ea9344c47ced637b321f01d0b65dc4d29fbebf.jpg
 ---

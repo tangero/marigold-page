@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Průnik kosmického světa Marvelu odhaluje poslední dvě hratelné postavy
+title: Kosmická invaze Marvelu odhaluje poslední dvě hratelné postavy
 url: https://nintendoeverything.com/marvel-cosmic-invasion-leak-reveals-final-two-playable-characters/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Marvel-Cosmic-Invasion-leak.jpg
 ---

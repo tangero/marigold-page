@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: UploadVR
-title: Praktické zkušenosti s displejem Meta Ray-Ban a Meta Neural Band v New Yorku
-  - UploadVR
+title: Praktické vyzkoušení displeje Meta Ray-Ban a Meta Neural Band v New Yorku -
+  UploadVR
 url: https://www.uploadvr.com/hands-on-meta-ray-ban-display-meta-neural-band-new-york-city/
 urlToImage: https://www.uploadvr.com/content/images/size/w1200/2025/10/meta-display.jpg
 ---

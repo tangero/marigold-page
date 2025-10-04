@@ -15,7 +15,8 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Nový nástroj pro vývojáře od Googlu vstupuje do konkurence AI agentů pro kódování
+title: Nový nástroj pro vývojáře od Googlu vstupuje do konkurence AI agentů pro psaní
+  kódu
 url: https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/google-jules.jpg?resize=1200,800
 ---
