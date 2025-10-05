@@ -12,8 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Game World Observer
-title: Megabonk je nový úspěšný nezávislý titul na Steamu. Prodeje hry překročily
-  jeden milion kopií
+title: Megabonk je nový indie hit na Steamu. Prodeje hry překročily jeden milion kopií
 url: https://gameworldobserver.com/2025/10/03/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies
 urlToImage: https://gameworldobserver.com/wp-content/previews/post/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies.png
 ---

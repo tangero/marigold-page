@@ -1,8 +1,8 @@
 ---
 category: animace
 date: '2025-10-03 23:01:00'
-description: Tvůrci seriálu Smiling Friends Michael Cusack a Zach Hadel a producent
-  Aron Fromm založili nezávislé animační studio Zam Studios se sídlem v Los Angeles.
+description: Tvůrci Smiling Friends Michael Cusack a Zach Hadel a producent Aron Fromm
+  založili nezávislé animační studio Zam Studios se sídlem v Los Angeles.
 importance: 4
 layout: tech_news_article
 original_title: ‘Smiling Friends’ Team Launches New L.A.-Based Animation Studio -
@@ -22,7 +22,7 @@ url: http://deadline.com/2025/10/smiling-friends-team-zam-studios-animation-stud
 urlToImage: https://deadline.com/wp-content/uploads/2025/10/Michael-CusackZach-Hadel-Aron-Fromm.jpg?w=1000
 ---
 
-Tvůrci seriálu Smiling Friends Michael Cusack a Zach Hadel a producent Aron Fromm založili nezávislé animační studio Zam Studios se sídlem v Los Angeles.
+Tvůrci Smiling Friends Michael Cusack a Zach Hadel a producent Aron Fromm založili nezávislé animační studio Zam Studios se sídlem v Los Angeles.
 
 [Číst původní článek](http://deadline.com/2025/10/smiling-friends-team-zam-studios-animation-studio-1236570049/)
 

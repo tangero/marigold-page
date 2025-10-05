@@ -1,7 +1,5 @@
 ---
 category: ai prohlížeč
-companies:
-- Perplexity
 date: '2025-10-03 16:52:54'
 description: Žádný čekací seznam ani předplatné není vyžadováno. Můžete si to nyní
   jednoduše stáhnout.

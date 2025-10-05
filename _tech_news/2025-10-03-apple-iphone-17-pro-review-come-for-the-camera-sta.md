@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-10-03 15:04:37'
 description: Pokud je váš iPhone vaším hlavním nebo jediným fotoaparátem, iPhone 17
-  Pro je určen právě pro vás.
+  Pro je pro vás.
 importance: 3
 layout: tech_news_article
 original_title: 'Apple iPhone 17 Pro review: Come for the camera, stay for the battery
@@ -20,7 +20,7 @@ url: https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437-1152x648.jpeg
 ---
 
-Pokud je váš iPhone vaším hlavním nebo jediným fotoaparátem, iPhone 17 Pro je určen právě pro vás.
+Pokud je váš iPhone vaším hlavním nebo jediným fotoaparátem, iPhone 17 Pro je pro vás.
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/)
 
