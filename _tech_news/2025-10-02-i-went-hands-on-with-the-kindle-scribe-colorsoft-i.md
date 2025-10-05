@@ -3,7 +3,7 @@ category: elektronické čtečky
 companies:
 - Amazon
 date: '2025-10-02 21:38:47'
-description: Nový Kindle - první dojmy technického editora Mashable
+description: Mashable's Tech Editor sdílí své první dojmy z nového Kindlu.
 importance: 4
 layout: tech_news_article
 original_title: 'I went hands on with the Kindle Scribe Colorsoft: It''s fast and
@@ -19,7 +19,7 @@ url: https://mashable.com/article/new-kindle-scribe-colorsoft-hands-on
 urlToImage: https://helios-i.mashable.com/imagery/articles/07pDovPUU8dFnmVgyTQxjND/hero-image.fill.size_1200x675.v1759435093.jpg
 ---
 
-Nový Kindle - první dojmy technického editora Mashable
+Mashable's Tech Editor sdílí své první dojmy z nového Kindlu.
 
 [Číst původní článek](https://mashable.com/article/new-kindle-scribe-colorsoft-hands-on)
 

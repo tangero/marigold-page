@@ -4,9 +4,9 @@ companies:
 - Amazon
 - Google
 date: '2025-10-03 13:03:07'
-description: Z nových Echo Show zařízení až po nové Nest Kamery, nový Google Home
-  smart speaker a nové hlasové asistenty, přichází spousta nového chytrého domácího
-  vybavení. Máte otázky, mám odpovědi.
+description: Z nových Echo Show zařízení až po nové Nest Cams, nový Google Home smart
+  speaker a nové hlasové asistenty, přichází spousta nových chytrých domácích zařízení.
+  Máte otázky, mám odpovědi.
 importance: 4
 layout: tech_news_article
 original_title: I tried Amazon and Google’s new smart home gadgets. Ask me anything!
@@ -23,7 +23,7 @@ url: https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-h
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257993_Jen_Tuohy_AMA_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Z nových Echo Show zařízení až po nové Nest Kamery, nový Google Home smart speaker a nové hlasové asistenty, přichází spousta nového chytrého domácího vybavení. Máte otázky, mám odpovědi.
+Z nových Echo Show zařízení až po nové Nest Cams, nový Google Home smart speaker a nové hlasové asistenty, přichází spousta nových chytrých domácích zařízení. Máte otázky, mám odpovědi.
 
 [Číst původní článek](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
 
