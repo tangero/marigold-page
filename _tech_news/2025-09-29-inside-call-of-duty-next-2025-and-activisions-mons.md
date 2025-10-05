@@ -3,8 +3,8 @@ category: herní průmysl
 companies:
 - Activision
 date: '2025-09-29 21:43:00'
-description: 'Scéna je připravována v Las Vegas před událostí Activision''s Call of
-  Duty: Next v úterý, kdy budou odhaleny podrobnosti o "Black Ops 7".'
+description: 'Scéna je připravována v Las Vegas před nadcházející událostí Activision''s
+  Call of Duty: Next v úterý, kdy budou odhaleny podrobnosti o "Black Ops 7".'
 importance: 3
 layout: tech_news_article
 original_title: 'Inside Call of Duty: Next 2025 and Activision’s Monster Takeover
@@ -21,7 +21,7 @@ url: https://variety.com/2025/gaming/news/call-of-duty-next-preview-black-ops-7-
 urlToImage: https://variety.com/wp-content/uploads/2025/09/IMG_0864.png?w=1000&h=563&crop=1
 ---
 
-Scéna je připravována v Las Vegas před událostí Activision's Call of Duty: Next v úterý, kdy budou odhaleny podrobnosti o "Black Ops 7".
+Scéna je připravována v Las Vegas před nadcházející událostí Activision's Call of Duty: Next v úterý, kdy budou odhaleny podrobnosti o "Black Ops 7".
 
 [Číst původní článek](https://variety.com/2025/gaming/news/call-of-duty-next-preview-black-ops-7-livestream-vegas-1236534279/)
 
