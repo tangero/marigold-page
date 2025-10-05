@@ -3,8 +3,8 @@ category: mobilní aplikace
 companies:
 - Apple
 date: '2025-10-03 12:00:00'
-description: S příchodem iOS 26 pro všechny uživatele, vývojáři aktualizují své aplikace,
-  aby zahrnovaly funkce využívající lokální AI modely od Applu.
+description: S postupným nasazováním iOS 26 pro všechny uživatele, vývojáři aktualizují
+  své aplikace, aby zahrnovaly funkce využívající lokální AI modely společnosti Apple.
 importance: 3
 layout: tech_news_article
 original_title: How developers are using Apple’s local AI models with iOS 26 - TechCrunch
@@ -14,12 +14,12 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Jak vývojáři používají lokální AI modely Applu s iOS 26
+title: Jak vývojáři používají místní AI modely Applu s iOS 26
 url: https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675
 ---
 
-S příchodem iOS 26 pro všechny uživatele, vývojáři aktualizují své aplikace, aby zahrnovaly funkce využívající lokální AI modely od Applu.
+S postupným nasazováním iOS 26 pro všechny uživatele, vývojáři aktualizují své aplikace, aby zahrnovaly funkce využívající lokální AI modely společnosti Apple.
 
 [Číst původní článek](https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/)
 

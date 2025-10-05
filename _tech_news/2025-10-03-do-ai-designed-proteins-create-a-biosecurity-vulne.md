@@ -12,7 +12,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Představují AI-navržené proteiny bezpečnostní riziko v oblasti biologie?
+title: Představují AI-navržené proteiny bezpečnostní riziko pro biologické systémy?
 url: https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg
 ---

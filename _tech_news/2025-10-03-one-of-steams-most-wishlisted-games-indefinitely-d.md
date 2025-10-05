@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-03 19:38:07'
 description: Kingmakers nebude vydán na Steamu v říjnu, jak bylo původně plánováno.
-  Hra bude místo toho vydána později v tomto roce.
+  Hra bude namísto toho vydána později v tomto roce.
 importance: 3
 layout: tech_news_article
 original_title: One Of Steam's Most-Wishlisted Games Indefinitely Delayed Days Before
@@ -18,7 +18,7 @@ url: https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-dat
 urlToImage: https://kotaku.com/app/uploads/2025/10/Kingmaker-1200x675.jpg
 ---
 
-Kingmakers nebude vydán na Steamu v říjnu, jak bylo původně plánováno. Hra bude místo toho vydána později v tomto roce.
+Kingmakers nebude vydán na Steamu v říjnu, jak bylo původně plánováno. Hra bude namísto toho vydána později v tomto roce.
 
 [Číst původní článek](https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559)
 

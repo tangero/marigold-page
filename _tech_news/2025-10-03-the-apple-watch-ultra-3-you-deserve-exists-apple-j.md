@@ -1,10 +1,10 @@
 ---
-category: smartwatch
+category: hodinky
 companies:
 - Apple
 date: '2025-10-03 14:33:28'
-description: Apple Watch Series 8 je nejpokročilejší chytré hodinky od Applu, ale
-  nejsou ultimátní chytré hodinky.
+description: Apple Watch Series 8 je vlajková loď společnosti Apple, ale ne ultimátní
+  chytré hodinky.
 importance: 3
 layout: tech_news_article
 original_title: 'The Apple Watch Ultra 3 you deserve exists: Apple just didn’t build
@@ -21,7 +21,7 @@ url: https://www.phonearena.com/news/the-apple-watch-ultra-3-you-deserve_id17463
 urlToImage: https://m-cdn.phonearena.com/images/article/174634-wide-two_1200/The-Apple-Watch-Ultra-3-you-deserve-exists-Apple-just-didnt-build-it.jpg
 ---
 
-Apple Watch Series 8 je nejpokročilejší chytré hodinky od Applu, ale nejsou ultimátní chytré hodinky.
+Apple Watch Series 8 je vlajková loď společnosti Apple, ale ne ultimátní chytré hodinky.
 
 [Číst původní článek](https://www.phonearena.com/news/the-apple-watch-ultra-3-you-deserve_id174634)
 
