@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Údajné testování modemu MediaTek pro Tensor G6 a Pixel 11 společností Google
+title: Údajně Google testuje modem MediaTek pro Tensor G6 a Pixel 11
 url: http://9to5google.com/2025/10/03/pixel-11-tensor-g6-modem/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

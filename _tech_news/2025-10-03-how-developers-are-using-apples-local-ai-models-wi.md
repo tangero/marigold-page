@@ -14,7 +14,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Jak vývojáři používají místní AI modely Applu s iOS 26
+title: Jak vývojáři používají lokální AI modely Applu s iOS 26
 url: https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675
 ---

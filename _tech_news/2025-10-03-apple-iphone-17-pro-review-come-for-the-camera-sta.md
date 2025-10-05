@@ -15,7 +15,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: 'Recenze Apple iPhone 17 Pro: Přijďte pro fotoaparát, zůstaňte kvůli baterii'
+title: 'Recenze Apple iPhone 17 Pro: Přijďte pro fotoaparát, zůstaňte pro baterii'
 url: https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437-1152x648.jpeg
 ---

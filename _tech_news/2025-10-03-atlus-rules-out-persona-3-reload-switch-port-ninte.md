@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-03 06:05:00'
-description: Zpozdilo by to uvedení na trh.
+description: Zpozdilo by to zahájení.
 importance: 3
 layout: tech_news_article
 original_title: Atlus Rules Out Persona 3 Reload Switch Port - Nintendo Life
@@ -11,12 +11,12 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Atlasova pravidla vylučují port Persona 3 Reload pro Nintendo Switch
+title: Persona 3 Reload - Žádný port pro Nintendo Switch
 url: https://www.nintendolife.com/news/2025/10/atlus-rules-out-persona-3-reload-switch-port
 urlToImage: https://images.nintendolife.com/5d5016d23c956/large.jpg
 ---
 
-Zpozdilo by to uvedení na trh.
+Zpozdilo by to zahájení.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/10/atlus-rules-out-persona-3-reload-switch-port)
 

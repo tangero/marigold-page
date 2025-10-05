@@ -1,7 +1,8 @@
 ---
 category: retro hardware
 date: '2025-10-03 10:09:00'
-description: Modder vměstnal funkční hardware do plastového pouzdra a spustil Tetris.
+description: Nadšenec do modifikací hardwaru vložil funkční komponenty do plastového
+  pouzdra a spustil hru Tetris.
 importance: 3
 layout: tech_news_article
 original_title: Retro nerd hacks LEGO's Game Boy into the real deal - theregister.com
@@ -11,12 +12,12 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Retro nerd přestavuje LEGO Game Boy na skutečné zařízení
+title: Retro nerd přestavuje LEGO Game Boy na funkční zařízení
 url: https://www.theregister.com/2025/10/03/lego_game_boy/
 urlToImage: https://regmedia.co.uk/2025/10/03/lego_game_boy.jpg
 ---
 
-Modder vměstnal funkční hardware do plastového pouzdra a spustil Tetris.
+Nadšenec do modifikací hardwaru vložil funkční komponenty do plastového pouzdra a spustil hru Tetris.
 
 [Číst původní článek](https://www.theregister.com/2025/10/03/lego_game_boy/)
 
