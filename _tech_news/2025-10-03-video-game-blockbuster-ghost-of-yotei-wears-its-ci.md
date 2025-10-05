@@ -13,7 +13,8 @@ source:
   emoji: 📰
   id: null
   name: WBUR
-title: Filmové blockbustery ovlivňují hru 'Ghost of Yotei
+title: Blockbuster videoherní hit 'Ghost of Yotei' otevřeně odkazuje na své filmové
+  vlivy
 url: https://www.wbur.org/hereandnow/2025/10/03/ghost-of-yotei
 urlToImage: https://wordpress.wbur.org/wp-content/uploads/2025/10/Ghost-of-Yotei_State-of-Play_Special-Modes_6-1000x563.jpg
 ---

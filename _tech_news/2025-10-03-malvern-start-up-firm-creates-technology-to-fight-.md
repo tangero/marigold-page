@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: BBC News
-title: Technologie pro boj proti kybernetickým útokům vytvořená startupem z Malvernu
+title: Technologie pro boj proti kybernetickým útokům vytvořená start-upem z Malvernu
 url: https://www.bbc.com/news/articles/c1l8yrl8y02o
 urlToImage: https://ichef.bbci.co.uk/news/1024/branded_news/f7ab/live/1dc65060-a04c-11f0-b687-23a5afa8b42e.jpg
 ---

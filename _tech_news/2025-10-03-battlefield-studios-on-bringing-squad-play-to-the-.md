@@ -14,9 +14,8 @@ source:
   emoji: 📰
   id: null
   name: VG247
-title: Jak vývojářská studia Battlefield přinášejí týmovou hru do kampaně Battlefield
-  6, naplňují představy tříd pomocí misí a zda se můžeme těšit na průběžné vyprávění
-  podobné Warzone
+title: Jak přinést týmovou hru do kampaně Battlefieldu 6, naplnit představy tříd pomocí
+  misí a očekávat Warzone-like průběžné vyprávění
 url: https://www.vg247.com/battlefield-6-campaign-interview-narrative-post-launch-inspirations
 urlToImage: https://assetsio.gnwcdn.com/battlefield-6-key-art-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

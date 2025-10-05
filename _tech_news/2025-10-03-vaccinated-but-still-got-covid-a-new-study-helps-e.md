@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: SciTechDaily
-title: Očkovaní, ale stále se nakazili COVID-19? Nová studie pomáhá vysvětlit proč
+title: Očkovaní, ale stále nakažení COVID-19? Nová studie pomáhá vysvětlit proč
 url: https://scitechdaily.com/vaccinated-but-still-got-covid-a-new-study-helps-explains-why/
 urlToImage: https://scitechdaily.com/images/Tracking-COVID-19-Vaccine-Responses.jpg
 ---

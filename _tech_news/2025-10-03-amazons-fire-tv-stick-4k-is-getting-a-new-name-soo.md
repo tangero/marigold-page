@@ -3,8 +3,7 @@ category: přejmenování produkt
 companies:
 - Amazon
 date: '2025-10-03 18:44:27'
-description: Rozjitření způsobené pojmenováním 4K Select by mohlo ustoupit... možná...
-  doufejme.
+description: Název 4K Select může způsobovat zmatek, ale ten by měl časem pominout...možná...doufejme.
 importance: 4
 layout: tech_news_article
 original_title: Amazon’s Fire TV Stick 4K is getting a new name soon - The Verge
@@ -19,7 +18,7 @@ url: https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.706434586833%2C100%2C78.587130826333&w=1200
 ---
 
-Rozjitření způsobené pojmenováním 4K Select by mohlo ustoupit... možná... doufejme.
+Název 4K Select může způsobovat zmatek, ale ten by měl časem pominout...možná...doufejme.
 
 [Číst původní článek](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
 

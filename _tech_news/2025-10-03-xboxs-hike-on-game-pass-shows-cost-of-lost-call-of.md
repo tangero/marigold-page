@@ -5,7 +5,7 @@ companies:
 date: '2025-10-03 21:26:21'
 description: Divize Microsoftu Xbox překvapila mnoho nadšenců videoher v tomto týdnu,
   když společnost oznámila 50% zvýšení ceny, na 30 dolarů měsíčně, pro nejvyšší úroveň
-  předplatného její služby Game Pass.
+  služby předplatného Game Pass.
 importance: 3
 layout: tech_news_article
 original_title: Xbox’s Hike on Game Pass Shows Cost of Lost ‘Call of Duty’ Sales -
@@ -21,7 +21,7 @@ url: https://www.bloomberg.com/news/articles/2025-10-03/xbox-s-game-pass-hike-sh
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGBO384Z0Gbk/v0/1200x800.jpg
 ---
 
-Divize Microsoftu Xbox překvapila mnoho nadšenců videoher v tomto týdnu, když společnost oznámila 50% zvýšení ceny, na 30 dolarů měsíčně, pro nejvyšší úroveň předplatného její služby Game Pass.
+Divize Microsoftu Xbox překvapila mnoho nadšenců videoher v tomto týdnu, když společnost oznámila 50% zvýšení ceny, na 30 dolarů měsíčně, pro nejvyšší úroveň služby předplatného Game Pass.
 
 [Číst původní článek](https://www.bloomberg.com/news/articles/2025-10-03/xbox-s-game-pass-hike-shows-cost-of-lost-call-of-duty-sales)
 

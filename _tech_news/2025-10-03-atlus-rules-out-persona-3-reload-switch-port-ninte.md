@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Persona 3 Reload - Žádný port pro Nintendo Switch
+title: Atlasova pravidla vylučují port Persona 3 Reload pro Nintendo Switch
 url: https://www.nintendolife.com/news/2025/10/atlus-rules-out-persona-3-reload-switch-port
 urlToImage: https://images.nintendolife.com/5d5016d23c956/large.jpg
 ---

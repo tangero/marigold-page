@@ -1,7 +1,7 @@
 ---
 category: biosecurity
 date: '2025-10-03 20:12:52'
-description: Objednávání DNA pro AI-navržené toxiny ne vždy vyvolává červené vlajky.
+description: Objednávání DNA pro AI-navržené toxiny ne vždy vzbudí červené vlajky.
 importance: 3
 layout: tech_news_article
 original_title: Do AI-designed proteins create a biosecurity vulnerability? - Ars
@@ -17,7 +17,7 @@ url: https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-bi
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg
 ---
 
-Objednávání DNA pro AI-navržené toxiny ne vždy vyvolává červené vlajky.
+Objednávání DNA pro AI-navržené toxiny ne vždy vzbudí červené vlajky.
 
 [Číst původní článek](https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/)
 

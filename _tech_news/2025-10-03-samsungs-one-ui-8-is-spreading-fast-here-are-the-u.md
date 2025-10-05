@@ -1,5 +1,5 @@
 ---
-category: aktualizace softwaru
+category: aktualizace mobilníc
 companies:
 - Samsung
 date: '2025-10-03 16:16:26'
@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Sammyfans.com
-title: Rozšiřování One UI 8 od Samsungu – Zde jsou data aktualizací
+title: Rozšiřování One UI 8 od Samsungu – Zde jsou termíny aktualizací
 url: https://www.sammyfans.com/2025/10/03/samsung-one-ui-8-update-dates/
 urlToImage: https://www.sammyfans.com/wp-content/uploads/2025/08/s24-one-ui-8-img-1000x576.jpg
 ---

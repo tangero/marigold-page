@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: BBC News
-title: Vědci závodí, aby vytvořili 'živé' počítače napájené lidskými buňkami
+title: Vědci závodí, aby vytvořili 'živé' počítače poháněné lidskými buňkami
 url: https://www.bbc.com/news/articles/cy7p1lzvxjro
 urlToImage: https://ichef.bbci.co.uk/news/1024/branded_news/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg
 ---
