@@ -1,8 +1,8 @@
 ---
-category: herní politika
+category: herní průmysl
 date: '2025-10-03 09:30:00'
 description: 'Final Fantasy Tactics'' původní scenárista a režisér Yasumi Matsuno
-  naznačil, že načasování tohoto remaku je z důvodu: jeho hrdina nabízí model odporu.'
+  naznačil včasnost této remasteované verze z důvodu: její hrdina nabízí model odporu.'
 importance: 3
 layout: tech_news_article
 original_title: The revolutionary politics of Final Fantasy Tactics, and why Ramza
@@ -21,7 +21,7 @@ url: https://www.eurogamer.net/the-revolutionary-politics-of-final-fantasy-tacti
 urlToImage: https://assetsio.gnwcdn.com/FINAL-FANTASY-TACTICS---The-Ivalice-Chronicles_20250917105148.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Final Fantasy Tactics' původní scenárista a režisér Yasumi Matsuno naznačil, že načasování tohoto remaku je z důvodu: jeho hrdina nabízí model odporu.
+Final Fantasy Tactics' původní scenárista a režisér Yasumi Matsuno naznačil včasnost této remasteované verze z důvodu: její hrdina nabízí model odporu.
 
 [Číst původní článek](https://www.eurogamer.net/the-revolutionary-politics-of-final-fantasy-tactics-and-why-ramza-beoulve-is-a-hero-for-our-times)
 

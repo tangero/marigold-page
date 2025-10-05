@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Retro nerd přestavuje LEGO's Game Boy na plně funkční zařízení
+title: Retro nerd přestavuje LEGO Game Boy na skutečné zařízení
 url: https://www.theregister.com/2025/10/03/lego_game_boy/
 urlToImage: https://regmedia.co.uk/2025/10/03/lego_game_boy.jpg
 ---

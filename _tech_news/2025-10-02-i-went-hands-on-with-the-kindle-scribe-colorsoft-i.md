@@ -1,7 +1,5 @@
 ---
 category: elektronické čtečky
-companies:
-- Amazon
 date: '2025-10-02 21:38:47'
 description: Mashable's Tech Editor sdílí své první dojmy z nového Kindlu.
 importance: 4
@@ -14,7 +12,7 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: 'Vyzkoušel jsem Kindle Scribe Colorsoft: Je rychlý a tenký'
+title: 'Kindle Scribe Colorsoft: Rychlý a tenký'
 url: https://mashable.com/article/new-kindle-scribe-colorsoft-hands-on
 urlToImage: https://helios-i.mashable.com/imagery/articles/07pDovPUU8dFnmVgyTQxjND/hero-image.fill.size_1200x675.v1759435093.jpg
 ---

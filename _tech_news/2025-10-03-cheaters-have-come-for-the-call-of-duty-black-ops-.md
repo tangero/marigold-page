@@ -4,7 +4,7 @@ companies:
 - Activision
 date: '2025-10-03 10:03:50'
 description: 'Call of Duty: Black Ops 7 beta je nyní spuštěn a, jak Activision očekával,
-  na něj vtrhli cheateři.'
+  cheateři se na něj vrhli.'
 importance: 3
 layout: tech_news_article
 original_title: 'Cheaters Have Come for the Call of Duty: Black Ops 7 Beta, as Activision
@@ -21,7 +21,7 @@ url: https://www.ign.com/articles/cheaters-have-come-for-the-call-of-duty-black-
 urlToImage: https://assets-prd.ignimgs.com/2025/08/22/ss-e11c510bf9237f904cd6801ace3ee39567cd8a7a-1920x1080-1755851855210.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Call of Duty: Black Ops 7 beta je nyní spuštěn a, jak Activision očekával, na něj vtrhli cheateři.
+Call of Duty: Black Ops 7 beta je nyní spuštěn a, jak Activision očekával, cheateři se na něj vrhli.
 
 [Číst původní článek](https://www.ign.com/articles/cheaters-have-come-for-the-call-of-duty-black-ops-7-beta-as-activision-said-they-would)
 

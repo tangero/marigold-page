@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-03 14:19:56'
-description: Megabonku se podařilo dosáhnout milionové hranice během dvou týdnů.
+description: Megabonku se podařilo dosáhnout milionové hranice za pouhé dva týdny.
 importance: 4
 layout: tech_news_article
 original_title: Megabonk is a new indie hit on Steam. The game’s sales have surpassed
@@ -18,7 +18,7 @@ url: https://gameworldobserver.com/2025/10/03/megabonk-is-a-new-indie-hit-on-ste
 urlToImage: https://gameworldobserver.com/wp-content/previews/post/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies.png
 ---
 
-Megabonku se podařilo dosáhnout milionové hranice během dvou týdnů.
+Megabonku se podařilo dosáhnout milionové hranice za pouhé dva týdny.
 
 [Číst původní článek](https://gameworldobserver.com/2025/10/03/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies)
 

@@ -4,8 +4,8 @@ companies:
 - Garmin
 date: '2025-10-03 08:23:47'
 description: Strava požaduje, aby Garmin okamžitě přestal prodávat své zařízení. Společnost
-  Strava tvrdí, že Garmin porušuje její patenty týkající se synchronizace dat a sociálních
-  funkcí.
+  Strava tvrdí, že Garmin porušuje její patenty a žádá, aby Garmin přestal prodávat
+  své wearable fitness trackers a chytré hodinky.
 importance: 4
 layout: tech_news_article
 original_title: Strava sues Garmin, demands it stops selling nearly every device -
@@ -22,7 +22,7 @@ url: https://www.cyclingnews.com/news/strava-sues-garmin-demands-it-stops-sellin
 urlToImage: https://cdn.mos.cms.futurecdn.net/efKj3rsLBGHJbWovRVGwfR-1600-80.jpg
 ---
 
-Strava požaduje, aby Garmin okamžitě přestal prodávat své zařízení. Společnost Strava tvrdí, že Garmin porušuje její patenty týkající se synchronizace dat a sociálních funkcí.
+Strava požaduje, aby Garmin okamžitě přestal prodávat své zařízení. Společnost Strava tvrdí, že Garmin porušuje její patenty a žádá, aby Garmin přestal prodávat své wearable fitness trackers a chytré hodinky.
 
 [Číst původní článek](https://www.cyclingnews.com/news/strava-sues-garmin-demands-it-stops-selling-nearly-every-device-heres-why/)
 

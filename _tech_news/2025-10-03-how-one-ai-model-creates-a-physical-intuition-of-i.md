@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Quanta Magazine
-title: Jak jeden AI model vytváří fyzickou intuici svého prostředí
+title: Jak jeden model umělé inteligence vytváří fyzickou intuici svého prostředí
 url: https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/
 urlToImage: https://www.quantamagazine.org/wp-content/uploads/2025/11/AIIntuitsPhysics-crKristinaArmitage-Social.jpg
 ---
