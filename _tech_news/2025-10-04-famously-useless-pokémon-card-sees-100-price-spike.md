@@ -1,8 +1,8 @@
 ---
 category: sběratelství
 date: '2025-10-04 20:05:44'
-description: Magikarp může být v boji odporný, ale sběratelé Pokémon TCG milují kartu
-  Paldea Evolved Magikarp IR natolik, že je nyní hodnocena na více než 400 dolarů!
+description: Magikarp může být v bitvě odporný, ale sběratelé Pokémon TCG milují kartu
+  Paldea Evolved Magikarp IR natolik, že je nyní hodna více než 400 dolarů!
 importance: 3
 layout: tech_news_article
 original_title: Famously useless Pokémon card sees $100 price spike in just two weeks
@@ -19,7 +19,7 @@ url: https://www.wargamer.com/pokemon-trading-card-game/magikarp-price-spike-pal
 urlToImage: https://www.wargamer.com/wp-content/sites/wargamer/2025/10/pokemon-tcg-price-spike-magikarp-paldea-evolved.jpg
 ---
 
-Magikarp může být v boji odporný, ale sběratelé Pokémon TCG milují kartu Paldea Evolved Magikarp IR natolik, že je nyní hodnocena na více než 400 dolarů!
+Magikarp může být v bitvě odporný, ale sběratelé Pokémon TCG milují kartu Paldea Evolved Magikarp IR natolik, že je nyní hodna více než 400 dolarů!
 
 [Číst původní článek](https://www.wargamer.com/pokemon-trading-card-game/magikarp-price-spike-paldea-evolved)
 

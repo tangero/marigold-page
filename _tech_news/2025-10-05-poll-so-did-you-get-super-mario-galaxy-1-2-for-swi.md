@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-05 07:00:00'
-description: Galaxy 2 již vede žebříčky eShop. Hra nabízí vylepšenou grafiku, nové
-  herní mechaniky a rozšířený obsah oproti předchozí verzi. Hráči mohou těšit na další
-  dobrodružství v této populární sci-fi sérii.
+description: Galaxy 2 již vede žebříčky eShop. Tato hra kombinuje akční platformové
+  prvky s prvky roguelike a nabízí procedurálně generované úrovně a bohatý systém
+  vylepšení.
 importance: 3
 layout: tech_news_article
 original_title: 'Poll: So, Did You Get Super Mario Galaxy 1 + 2 For Switch? - Nintendo
@@ -19,7 +19,7 @@ url: https://www.nintendolife.com/news/2025/10/poll-so-did-you-get-super-mario-g
 urlToImage: https://images.nintendolife.com/effcb52cb8d4c/large.jpg
 ---
 
-Galaxy 2 již vede žebříčky eShop. Hra nabízí vylepšenou grafiku, nové herní mechaniky a rozšířený obsah oproti předchozí verzi. Hráči mohou těšit na další dobrodružství v této populární sci-fi sérii.
+Galaxy 2 již vede žebříčky eShop. Tato hra kombinuje akční platformové prvky s prvky roguelike a nabízí procedurálně generované úrovně a bohatý systém vylepšení.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/10/poll-so-did-you-get-super-mario-galaxy-1-plus-2-for-switch)
 

@@ -12,8 +12,8 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Potomci Harryho Pottera by to nenáviděli, LEGO prodává sadu hradu Bradavice
-  za zlomek původní ceny
+title: Potomci Harryho Pottera by to nenáviděli, LEGO prodává sadu Bradavického hradu
+  za pakatel
 url: https://kotaku.com/harry-potters-heirs-would-hate-this-lego-is-selling-the-hogwarts-castle-set-for-pennies-on-the-dollar-2000631765
 urlToImage: https://kotaku.com/app/uploads/2025/10/harry-potter-hogwarts-caste-lego-set.jpg
 ---

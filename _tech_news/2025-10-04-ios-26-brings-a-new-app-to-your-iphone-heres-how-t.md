@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Tom's Guide
-title: Nová aplikace pro váš iPhone v iOS 26 — jak ji vyzkoušet
+title: Nová aplikace v iOS 26 pro váš iPhone — jak ji vyzkoušet
 url: https://www.tomsguide.com/phones/iphones/ios-26-brings-a-new-app-to-your-iphone-heres-how-to-try-it
 urlToImage: https://cdn.mos.cms.futurecdn.net/4CGPvqCrpt7EByK8XDmXmH-2000-80.jpg
 ---

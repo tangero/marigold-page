@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Plány Googlu na nápravu chaosu v chytrém domácím ekosystému pomocí Gemini pro
-  Google Home
+title: Jak Google plánuje napravit svůj chaos chytrého domova pomocí Gemini pro Google
+  Home
 url: https://www.androidauthority.com/google-home-win-back-trust-3604047/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/10/Google-Home-Speaker-Porcelain.jpg
 ---

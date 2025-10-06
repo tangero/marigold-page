@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Výprodej řemínků pro Apple Watch na Woot - Solo a Braided Loops s velkými slevami
+title: Výprodej pásků pro Apple Watch na Woot - Solo/Pletené smyčky za masivní slevy
 url: https://www.macrumors.com/2025/10/04/woots-watch-band-sale/
 urlToImage: https://images.macrumors.com/t/T_R4FDb-38OQaV6ZFUxsxQSASgc=/2500x/article-new/2025/03/woot-band-sale-blue.jpeg
 ---

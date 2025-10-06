@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-04 10:00:05'
 description: Rozhovor s designéry společnosti Lego Carlem Merriamem a Simonem Kentem
-  odhalil některá velikonoční vajíčka skrytá v cihlovém Game Boyi.
+  odhalil některá velikonoční vajíčka v cihlovém Game Boyi.
 importance: 3
 layout: tech_news_article
 original_title: 'Lego Game Boy Review: The Designers Share All the Secrets to the
@@ -22,7 +22,7 @@ url: https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secret
 urlToImage: https://gizmodo.com/app/uploads/2025/10/lego-game-boy-review-06-1200x675.jpg
 ---
 
-Rozhovor s designéry společnosti Lego Carlem Merriamem a Simonem Kentem odhalil některá velikonoční vajíčka skrytá v cihlovém Game Boyi.
+Rozhovor s designéry společnosti Lego Carlem Merriamem a Simonem Kentem odhalil některá velikonoční vajíčka v cihlovém Game Boyi.
 
 [Číst původní článek](https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492)
 

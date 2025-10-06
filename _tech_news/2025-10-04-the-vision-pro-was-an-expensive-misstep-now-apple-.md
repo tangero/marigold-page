@@ -15,8 +15,7 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: Vize Pro byla drahým omylem. Nyní musí Apple dohnat náskok v oblasti chytrých
-  brýlí.
+title: Drahá chyba Vision Pro. Nyní musí Apple dohnat náskok v chytrých brýlích.
 url: https://www.wired.com/story/the-vision-pro-was-an-expensive-misstep-now-apple-has-to-catch-up-with-smart-glasses/
 urlToImage: https://media.wired.com/photos/68e0268611d60a588341d448/191:100/w_1280,c_limit/Apple-WWDC23-Vision-Pro-rotation-230605.jpg
 ---
