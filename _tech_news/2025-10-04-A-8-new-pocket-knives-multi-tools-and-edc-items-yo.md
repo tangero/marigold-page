@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Gear Patrol
-title: Osm nových kapesních nožů, multifunkčních nástrojů a EDC položek, které jste
-  možná přehlédli
+title: Osm nových kapesních nožů, multifunkčních nástrojů a každodenních předmětů,
+  které jste možná přehlédli
 url: https://www.gearpatrol.com/outdoors/new-pocket-knife-releases-october-4-2025/
 urlToImage: https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/Best-new-knives-and-multi-tools-EDC-october-3-2025-lead.webp
 ---

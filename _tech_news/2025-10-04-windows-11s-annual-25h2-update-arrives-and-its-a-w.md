@@ -3,10 +3,9 @@ category: aktualizace windows
 companies:
 - Microsoft
 date: '2025-10-04 12:00:00'
-description: Windows 11 dostane velkou roční aktualizaci '25H2' dnes, ale nové funkce
-  získáte i bez upgradu. Důvod je ten, že Microsoft bude postupně vydávat nové funkce
-  pro Windows 11 v rámci pravidelných měsíčních aktualizací, takže je nebudete muset
-  čekat na velkou roční aktualizaci.
+description: Windows 11 dostává velkou roční aktualizaci '25H2', která je k dispozici
+  od dneška. Nové funkce ale získáte i bez nutnosti upgradu na tuto verzi. Důvod je
+  následující.
 importance: 4
 layout: tech_news_article
 original_title: Windows 11’s annual ’25H2′ update arrives, and it’s a weird one -
@@ -17,12 +16,12 @@ source:
   emoji: 📰
   id: null
   name: PCWorld
-title: Roční aktualizace '25H2' systému Windows 11 je tu a je to zvláštní
+title: Roční aktualizace '25H2' pro Windows 11 je tu a je to zvláštní
 url: https://www.pcworld.com/article/2925476/windows-11s-annual-25h2-update-arrives-and-its-a-weird-one.html
 urlToImage: https://www.pcworld.com/wp-content/uploads/2025/10/Windows-11-logo-on-phone-sitting-on-laptop-keyboard-hero.jpg?quality=50&strip=all&w=1024
 ---
 
-Windows 11 dostane velkou roční aktualizaci '25H2' dnes, ale nové funkce získáte i bez upgradu. Důvod je ten, že Microsoft bude postupně vydávat nové funkce pro Windows 11 v rámci pravidelných měsíčních aktualizací, takže je nebudete muset čekat na velkou roční aktualizaci.
+Windows 11 dostává velkou roční aktualizaci '25H2', která je k dispozici od dneška. Nové funkce ale získáte i bez nutnosti upgradu na tuto verzi. Důvod je následující.
 
 [Číst původní článek](https://www.pcworld.com/article/2925476/windows-11s-annual-25h2-update-arrives-and-its-a-weird-one.html)
 
