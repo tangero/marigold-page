@@ -1,9 +1,8 @@
 ---
-category: soukromí uživatelů
+category: ochrana soukromí
 companies:
-- a16z
 - Partiful
-- TechCrunch
+- a16z
 date: '2025-10-04 15:50:07'
 description: Startup pro plánování akcí, který získal více než 27 milionů dolarů od
   a16z a dalších investorů, opravil chybu poté, co TechCrunch zjistil, že Partiful
@@ -20,8 +19,8 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: 'Výhradní: Startup pro pořádání akcí Partiful neodstraňoval polohy GPS z uživatelem
-  nahraných fotografií'
+title: 'Výhradní: Startup pořádající akce Partiful neodstraňoval GPS polohy z uživatelem
+  nahraných fotografií - TechCrunch'
 url: https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/
 urlToImage: https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1392356345.jpg?resize=1200,800
 ---

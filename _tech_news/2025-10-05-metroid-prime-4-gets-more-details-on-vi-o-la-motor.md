@@ -14,8 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Více podrobností o herní mechanice motocyklu Vi-O-La ve hře Metroid Prime 4
-  - Nintendo Everything
+title: Více informací o herní mechanice motocyklu Vi-O-La ve hře Metroid Prime 4 -
+  Nintendo Everything
 url: https://nintendoeverything.com/metroid-prime-4-gets-more-details-on-vi-o-la-motorcycle-gameplay/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Metroid-Prime-4-Vi-O-La.jpg
 ---
