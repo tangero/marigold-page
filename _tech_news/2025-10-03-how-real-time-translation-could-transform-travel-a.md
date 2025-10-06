@@ -16,8 +16,8 @@ source:
   emoji: 📰
   id: null
   name: BBC News
-title: Jak by překlad v reálném čase mohl transformovat cestování – a co bychom mohli
-  ztratit
+title: Překladové technologie v reálném čase a jejich dopad na cestování – co bychom
+  mohli ztratit
 url: https://www.bbc.com/travel/article/20251001-how-real-time-translation-could-transform-travel
 urlToImage: https://ychef.files.bbci.co.uk/624x351/p0m5zxt5.jpg
 ---

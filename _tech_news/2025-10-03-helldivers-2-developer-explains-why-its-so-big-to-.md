@@ -2,7 +2,8 @@
 category: velikost her
 date: '2025-10-03 14:04:17'
 description: Helldivers 2 zabírá na PC přibližně 150 GB pro instalaci (třikrát více
-  než na konzoli) a zástupce technického ředitele hry nyní vysvětlil, proč.
+  než na konzoli) a zástupce technického ředitele hry nyní vysvětlil, proč tomu tak
+  je.
 importance: 3
 layout: tech_news_article
 original_title: Helldivers 2 developer explains why it's so big to install on PC,
@@ -19,7 +20,7 @@ url: https://www.eurogamer.net/helldivers-2-developer-explains-why-its-so-big-to
 urlToImage: https://assetsio.gnwcdn.com/Helldivers-2---Omens-of-Tyranny-_-PS5-%26-PC-Games-0-49-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Helldivers 2 zabírá na PC přibližně 150 GB pro instalaci (třikrát více než na konzoli) a zástupce technického ředitele hry nyní vysvětlil, proč.
+Helldivers 2 zabírá na PC přibližně 150 GB pro instalaci (třikrát více než na konzoli) a zástupce technického ředitele hry nyní vysvětlil, proč tomu tak je.
 
 [Číst původní článek](https://www.eurogamer.net/helldivers-2-developer-explains-why-its-so-big-to-install-on-pc-and-why-that-wont-be-changing-anytime-soon)
 

@@ -3,7 +3,7 @@ category: mobilní telefony
 companies:
 - OnePlus
 date: '2025-10-03 11:46:05'
-description: OnePlus 15 se očekává, že bude uveden na trh v Číně později tento měsíc
+description: OnePlus 15 se očekává, že bude uveden na trh v Číně na konci tohoto měsíce,
   a nový únik informací naznačuje, že nebudeme muset dlouho čekat na globální uvedení
   na trh.
 importance: 4
@@ -21,7 +21,7 @@ url: https://www.androidauthority.com/oneplus-15-global-launch-date-leak-3603717
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/09/OnePlus-15-sand-dune-colorway-official-image.jpg
 ---
 
-OnePlus 15 se očekává, že bude uveden na trh v Číně později tento měsíc a nový únik informací naznačuje, že nebudeme muset dlouho čekat na globální uvedení na trh.
+OnePlus 15 se očekává, že bude uveden na trh v Číně na konci tohoto měsíce, a nový únik informací naznačuje, že nebudeme muset dlouho čekat na globální uvedení na trh.
 
 [Číst původní článek](https://www.androidauthority.com/oneplus-15-global-launch-date-leak-3603717/)
 

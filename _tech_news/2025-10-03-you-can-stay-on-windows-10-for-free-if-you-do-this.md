@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: PCMag.com
-title: Zůstaňte na Windows 10 zdarma, pokud to uděláte do 14. října
+title: Jak zůstat na Windows 10 zdarma, pokud to uděláte do 14. října
 url: https://www.pcmag.com/news/you-can-stay-on-windows-10-for-free-if-you-do-this-by-oct-14
 urlToImage: https://i.pcmag.com/imagery/articles/06LOnVOPJwhmMu24DtoUmvb-1.fit_lim.size_1200x630.v1759510477.jpg
 ---

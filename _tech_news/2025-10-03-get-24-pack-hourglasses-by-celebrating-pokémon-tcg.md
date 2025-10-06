@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-03 16:11:53'
-description: Získejte kód uplatnitelný na 24 hodinových skleniček v herních balíčcích
+description: Získejte kód uplatnitelný na 24 hodinových skleniček v herním balíčku
   na vybraných místech.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://www.pokemon.com/us/pokemon-news/get-24-pack-hourglasses-by-celebrat
 urlToImage: https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/tcg-pocket/2025/10/03/pokemon-tcg-pocket-169-en.png
 ---
 
-Získejte kód uplatnitelný na 24 hodinových skleniček v herních balíčcích na vybraných místech.
+Získejte kód uplatnitelný na 24 hodinových skleniček v herním balíčku na vybraných místech.
 
 [Číst původní článek](https://www.pokemon.com/us/pokemon-news/get-24-pack-hourglasses-by-celebrating-pokemon-tcg-pocket-in-stores)
 
