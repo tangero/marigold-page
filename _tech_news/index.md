@@ -9,8 +9,8 @@ description: Nejnovější zprávy ze světa technologií z NewsAPI s překlady 
 
 Automaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.
 
-**Celkem článků:** 38
-**Poslední aktualizace:** 06.10.2025 04:17 UTC
+**Celkem článků:** 36
+**Poslední aktualizace:** 06.10.2025 08:19 UTC
 
 ## Zdroje
 

@@ -18,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: Společnost HP uvádí na trh AI pracovní stanici ZGX Nano G1n, poháněnou superkontrolérem
+title: Společnost HP představila pracovní stanici ZGX Nano G1n s AI, poháněnou superkontrolérem
   GB10 od společnosti NVIDIA
 url: https://wccftech.com/hp-launches-zgx-nano-g1n-ai-workstation-powered-by-nvidias-gb10-superchip/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/ZGX-Nano-G1n-2.jpg

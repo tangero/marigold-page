@@ -1,10 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-04 20:05:56'
-description: Říjen je tu a s ním i nová vlna oprav zpětné kompatibility pro hry Nintendo
+description: Přišel říjen a s ním i nová vlna oprav zpětné kompatibility pro hry Nintendo
   Switch 1 na Nintendo Switch 2. Možná si pamatujete, že obě systémy obdržely tento
-  týden novou aktualizaci firmwaru. Zmínili jsme, že by mohly být k dispozici opravy
-  zpětné kompatibility.
+  týden novou aktualizaci firmwaru. Zmínili jsme, že by mohlo dojít ke zpětné kompatibilitě...
 importance: 4
 layout: tech_news_article
 original_title: Nintendo issues October 2025 Switch 1 backwards compatibility fixes
@@ -15,13 +14,13 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Opravy zpětné kompatibility Nintendo Switch 1 pro Nintendo Switch 2 vydané
-  v říjnu 2025, kompletní seznam
+title: Opravy zpětné kompatibility Switch 1 pro Switch 2 vydané Nintenden v říjnu
+  2025, kompletní seznam
 url: https://nintendoeverything.com/nintendo-switch-1-2-backwards-compatibility-fixes-october-2025/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-backwards-compatibility-fixes-October-2025.jpg
 ---
 
-Říjen je tu a s ním i nová vlna oprav zpětné kompatibility pro hry Nintendo Switch 1 na Nintendo Switch 2. Možná si pamatujete, že obě systémy obdržely tento týden novou aktualizaci firmwaru. Zmínili jsme, že by mohly být k dispozici opravy zpětné kompatibility.
+Přišel říjen a s ním i nová vlna oprav zpětné kompatibility pro hry Nintendo Switch 1 na Nintendo Switch 2. Možná si pamatujete, že obě systémy obdržely tento týden novou aktualizaci firmwaru. Zmínili jsme, že by mohlo dojít ke zpětné kompatibilitě...
 
 [Číst původní článek](https://nintendoeverything.com/nintendo-switch-1-2-backwards-compatibility-fixes-october-2025/)
 

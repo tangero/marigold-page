@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-04 11:21:14'
 description: Druhá část našich doporučení pro Steam Deck pro podzimní výprodej na
-  Steamu je živá, kde se podíváme na Metroidvanie, plošinovky, roguelike a další.
+  Steamu je živá, kde se zaměřujeme na Metroidvanie, plošinovky, roguelike a další.
 importance: 3
 layout: tech_news_article
 original_title: Steam Autumn Sale 2025 Recommendations For Steam Deck - Part 2 - Steam
@@ -19,7 +19,7 @@ url: https://steamdeckhq.com/news/steam-autumn-sale-2025-recommendations-steam-d
 urlToImage: https://steamdeckhq.com/wp-content/uploads/2025/09/Screenshot-2025-09-30-at-10-22-45-Welcome-to-Steam.webp
 ---
 
-Druhá část našich doporučení pro Steam Deck pro podzimní výprodej na Steamu je živá, kde se podíváme na Metroidvanie, plošinovky, roguelike a další.
+Druhá část našich doporučení pro Steam Deck pro podzimní výprodej na Steamu je živá, kde se zaměřujeme na Metroidvanie, plošinovky, roguelike a další.
 
 [Číst původní článek](https://steamdeckhq.com/news/steam-autumn-sale-2025-recommendations-steam-deck-part-2/)
 

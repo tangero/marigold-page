@@ -3,7 +3,7 @@ category: úložiště
 companies:
 - Apple
 date: '2025-10-03 21:45:15'
-description: Apple fanoušci byli nadšeni, že společnost zdvojnásobila základní úložiště
+description: Apple fanoušci byli nadšení, že společnost zdvojnásobila základní úložiště
   na iPhonu 17, ale nejlevnější modely se zdají mít jinou limitaci.
 importance: 3
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://www.bgr.com/1986271/iphone-17-256gb-models-flash-memory-slow-speeds
 urlToImage: https://www.bgr.com/img/gallery/apples-256gb-iphone-17-models-appear-to-have-a-surprise-shortcoming/l-intro-1759527814.jpg
 ---
 
-Apple fanoušci byli nadšeni, že společnost zdvojnásobila základní úložiště na iPhonu 17, ale nejlevnější modely se zdají mít jinou limitaci.
+Apple fanoušci byli nadšení, že společnost zdvojnásobila základní úložiště na iPhonu 17, ale nejlevnější modely se zdají mít jinou limitaci.
 
 [Číst původní článek](https://www.bgr.com/1986271/iphone-17-256gb-models-flash-memory-slow-speeds/)
 
