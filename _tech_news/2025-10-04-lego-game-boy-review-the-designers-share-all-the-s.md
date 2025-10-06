@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-04 10:00:05'
 description: Rozhovor s designéry společnosti Lego Carlem Merriamem a Simonem Kentem
-  odhalil některé velikonoční vajíčka ukryté v modelu Lego Game Boy.
+  odhalil některá velikonoční vajíčka ukrytá v modelu Brick Game Boy.
 importance: 3
 layout: tech_news_article
 original_title: 'Lego Game Boy Review: The Designers Share All the Secrets to the
@@ -16,13 +16,13 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: 'Recenze Lego Game Boy: Návrháři sdílejí všechna tajemství zábavné a nostalgické
+title: 'Recenze Lego Game Boy: Návrháři sdílejí všechna tajemství zábavné, nostalgické
   sady'
 url: https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492
 urlToImage: https://gizmodo.com/app/uploads/2025/10/lego-game-boy-review-06-1200x675.jpg
 ---
 
-Rozhovor s designéry společnosti Lego Carlem Merriamem a Simonem Kentem odhalil některé velikonoční vajíčka ukryté v modelu Lego Game Boy.
+Rozhovor s designéry společnosti Lego Carlem Merriamem a Simonem Kentem odhalil některá velikonoční vajíčka ukrytá v modelu Brick Game Boy.
 
 [Číst původní článek](https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492)
 
