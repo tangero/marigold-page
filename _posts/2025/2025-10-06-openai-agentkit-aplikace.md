@@ -16,7 +16,7 @@ summary_points:
 - Sora 2 byla zpřístupněna přes API pro generování videí
 - OpenAI nyní slouží 800 milionům týdenních uživatelů a čtyřem milionům vývojářů
 title: OpenAI představil aplikace uvnitř ChatGPT, AgentKit a uzavřel dohodu s AMD
-thumbnail: https://www.marigold.cz/assets/Visual__Agent_Builder_Template_Assets.png
+thumbnail: https://www.marigold.cz/assets/Visual__Agent_Builder_Template_Assets.webp
 ---
 
 OpenAI na vývojářské konferenci DevDay oznámil řadu novinek, které mění ChatGPT z nástroje na platformu. Nejviditelnější změnou je možnost spouštět aplikace přímo uvnitř rozhraní ChatGPT, což uživatelům umožní pracovat s dalšími službami bez nutnosti přepínat mezi různými aplikacemi. Součástí oznámení byla i významná dohoda s AMD na dodávky čipů pro strojové učení.
@@ -33,17 +33,19 @@ Hlavní novinkou DevDay bylo představení App SDK, které vývojářům umožň
 
 Tato funkce má potenciál výrazně zvýšit čas, který uživatelé stráví v ChatGPT, protože eliminuje nutnost přepínat mezi různými aplikacemi. Seznam partnerů zahrnuje desítky známých služeb a platforma je otevřená dalším vývojářům. Tento krok staví ChatGPT do přímé konkurence s obchody s aplikacemi od Apple a Google, které ročně generují přibližně 200 miliard dolarů. Jak tito hráči zareagují na pokus OpenAI zasáhnout do jejich teritoria, ukáže budoucnost. Očekávat lze brzké oznámení monetizačních modelů pro tyto integrace. 
 
-![Booking v chatgpt](/assets/Booking_16x9__3_.png)
+![Booking v chatgpt](/assets/Booking_16x9__3_.webp)
 
 OpenAI tak rozvíjí koncept GPTs, který ovšem byl značně limitovaný, do jisté míry ale umožnil spouštět aplikace třetích stran uvnitř ChatGPT.
 
 ## Nástroje pro vývoj agentů
 
-OpenAI [představil AgentKit](https://openai.com/index/introducing-agentkit/), vývojářské prostředí pro tvorbu AI agentů s vizuálním rozhraním. Během demonstrace trvalo sedm minut vytvořit a nasadit funkčního agenta na web, přičemž původní odhad činil osm minut. Altman přirovnal AgentKit k CanvasT. Nástroj je již dostupný.
+OpenAI [představil AgentKit](https://openai.com/index/introducing-agentkit/), vývojářské prostředí pro tvorbu AI agentů s vizuálním rozhraním AgentBuilder Během demonstrace trvalo sedm minut vytvořit a nasadit funkčního agenta na web, přičemž původní odhad činil osm minut. Altman přirovnal AgentKit k Canvas. Nástroj je již dostupný.
 
-![AgentKit](/assets/Visual__Agent_Builder_Template_Assets.png)
+![AgentKit](/assets/Visual__Agent_Builder_Template_Assets.webp)
 
 Součástí oznámení byl i ChatKit, který umožňuje vývojářům vložit konverzační rozhraní poháněné ChatGPT do jejich vlastních aplikací nebo webů. Agenti navíc získali vestavěné nástroje pro evaluaci, což usnadňuje testování a kontrolu jejich chování. Tyto funkce mají za cíl usnadnit nasazení AI agentů v produkčním prostředí a zvýšit závislost firemních zákazníků na platformě OpenAI.
+
+Musím říct, že mi to zatím přijde dost nepřehledné a hony za N8N... Ale ještě tomu dám šanci. 
 
 ## Codex pro vývoj softwaru
 
