@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: 'Hromada tajemství: Skryté skvosty herní série Castlevania'
+title: 'Hromada tajemství: Skryté skvosty série Castlevania'
 url: https://www.gamespot.com/gallery/a-pile-of-secrets-the-hidden-gems-of-the-castlevania-series/2900-7110/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4579759-2443496-headercv.jpg
 ---

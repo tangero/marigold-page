@@ -1,10 +1,10 @@
 ---
-category: předplatné hardwaru
+category: předplatné
 companies:
 - Apple
 date: '2025-10-04 14:00:00'
 description: MacBooky jsou neuvěřitelné, ale nákup jednoho s sebou přináší spoustu
-  problémů. Je to drahé na začátku, časově náročné při prodeji a jeho...
+  problémů. Je to drahé na začátku, časově náročné na prodej a jeho...
 importance: 3
 layout: tech_news_article
 original_title: Get the latest MacBook every 2 years with the MacBook Upgrade Program
@@ -20,7 +20,7 @@ url: https://9to5mac.com/2025/10/04/get-the-latest-macbook-every-2-years-with-th
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/1._The_MacBook_Upgrade_Program_16-9-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-MacBooky jsou neuvěřitelné, ale nákup jednoho s sebou přináší spoustu problémů. Je to drahé na začátku, časově náročné při prodeji a jeho...
+MacBooky jsou neuvěřitelné, ale nákup jednoho s sebou přináší spoustu problémů. Je to drahé na začátku, časově náročné na prodej a jeho...
 
 [Číst původní článek](https://9to5mac.com/2025/10/04/get-the-latest-macbook-every-2-years-with-the-macbook-upgrade-program/)
 

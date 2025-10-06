@@ -20,7 +20,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: 'Výhradní: Startup pro pořádání akcí Partiful neodstraňoval GPS polohy z uživatelem
+title: 'Výhradní: Startup pro pořádání akcí Partiful neodstraňoval polohy GPS z uživatelem
   nahraných fotografií'
 url: https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/
 urlToImage: https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1392356345.jpg?resize=1200,800

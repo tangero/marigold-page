@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Mental Floss
-title: Nejcennější hry pro Nintendo 64 - Mental Floss
+title: Nejhodnotnější hry pro Nintendo 64 - Mental Floss
 url: https://www.mentalfloss.com/fun/video-games/most-valuable-nintendo-64-games
 urlToImage: https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_80,w_5000,h_2812/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01k6jzcnv8z5nx5z3jt1.jpg
 ---
