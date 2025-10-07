@@ -1,8 +1,8 @@
 ---
-category: umělá inteligence
+category: strojové učení
 date: '2025-10-05 15:00:00'
-description: Úkoly AI, které dobře fungují s reinforcement learningem, se rychle zlepšují
-  a hrozí, že zůstanou zbytek průmyslu daleko za sebou.
+description: Úkoly AI, které dobře fungují s reinforcement learning, se rychle zlepšují
+  a hrozí, že nechají zbytek průmyslu za sebou.
 importance: 3
 layout: tech_news_article
 original_title: The Reinforcement Gap — or why some AI skills improve faster than
@@ -19,7 +19,7 @@ url: https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skil
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675
 ---
 
-Úkoly AI, které dobře fungují s reinforcement learningem, se rychle zlepšují a hrozí, že zůstanou zbytek průmyslu daleko za sebou.
+Úkoly AI, které dobře fungují s reinforcement learning, se rychle zlepšují a hrozí, že nechají zbytek průmyslu za sebou.
 
 [Číst původní článek](https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/)
 

@@ -6,7 +6,7 @@ companies:
 - Comet
 date: '2025-10-05 12:00:00'
 description: 'Plus: Amazon Kindle Scribe Colorsoft, Logitech MX Master 4, Sora 2,
-  Comet a další v tomto týdenním vydání Installateru.'
+  Comet a další v tomto týdenním vydání newsletteru Installer.'
 importance: 4
 layout: tech_news_article
 original_title: The best lists to keep — and the best ways to keep them - The Verge
@@ -21,7 +21,7 @@ url: https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-install
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-100.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Plus: Amazon Kindle Scribe Colorsoft, Logitech MX Master 4, Sora 2, Comet a další v tomto týdenním vydání Installateru.
+Plus: Amazon Kindle Scribe Colorsoft, Logitech MX Master 4, Sora 2, Comet a další v tomto týdenním vydání newsletteru Installer.
 
 [Číst původní článek](https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer)
 

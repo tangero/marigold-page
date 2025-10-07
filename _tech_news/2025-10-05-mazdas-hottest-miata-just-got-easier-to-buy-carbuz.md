@@ -2,7 +2,7 @@
 category: automobilový průmysl
 date: '2025-10-05 16:41:00'
 description: Produkční model Mazda Spirit Racing bude vzrušující vůz, který si bude
-  moci vyzkoušet pouze několik málo lidí.
+  moci vyzkoušet jen málo lidí.
 importance: 3
 layout: tech_news_article
 original_title: Mazda's Hottest Miata Just Got Easier To Buy - CarBuzz
@@ -12,12 +12,12 @@ source:
   emoji: 📰
   id: null
   name: CarBuzz
-title: Nejžhavější Miata od Mazdy je nyní snáze k dostání
+title: Nejžhavější Miata od Mazdy je nyní snáze dostupná
 url: https://carbuzz.com/sports-cars-mazda-spirit-racing-mx-5-miata-limited-production/
 urlToImage: https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/mazda-spirit-racing-rs-concept-rear-badge-detail-copy.jpg?w=1600&h=900&fit=crop
 ---
 
-Produkční model Mazda Spirit Racing bude vzrušující vůz, který si bude moci vyzkoušet pouze několik málo lidí.
+Produkční model Mazda Spirit Racing bude vzrušující vůz, který si bude moci vyzkoušet jen málo lidí.
 
 [Číst původní článek](https://carbuzz.com/sports-cars-mazda-spirit-racing-mx-5-miata-limited-production/)
 

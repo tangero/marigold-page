@@ -14,7 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Gematsu
-title: 'Letošní japonské herní vydání: Battlefield 6, Little Nightmares III a další'
+title: 'Japonská herní vydání tohoto týdne: Battlefield 6, Little Nightmares III a
+  další'
 url: https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-battlefield-6-little-nightmares-iii-more
 urlToImage: https://www.gematsu.com/wp-content/uploads/2025/10/Weekly-Japanese-Game-Releases_10-05-25.jpg
 ---

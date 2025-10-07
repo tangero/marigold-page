@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Steamdeckhq.com
-title: Nejlepší hry pro Steam Deck za méně než 15 dolarů z podzimního výprodeje na
-  Steamu 2025 - Steam Deck HQ
+title: Nejlepší hry pro Steam Deck za méně než 15 USD z podzimního výprodeje na Steamu
+  2025 - Steam Deck HQ
 url: https://steamdeckhq.com/news/best-steam-deck-games-under-15-2025-steam-autumn-sale/
 urlToImage: https://steamdeckhq.com/wp-content/uploads/2025/10/Desperados3Stock1.webp
 ---

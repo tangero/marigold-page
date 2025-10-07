@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Budoucnost Google Home je jasnější než kdy jindy
+title: Budoucnost Google Home je jasnější než kdy dříve
 url: http://9to5google.com/2025/10/05/google-homes-future-is-brighter-than-ever/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Nest-Cam-Indoor-Berry_7-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

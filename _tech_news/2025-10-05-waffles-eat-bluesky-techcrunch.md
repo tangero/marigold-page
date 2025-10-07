@@ -1,7 +1,7 @@
 ---
 category: sociální média
 date: '2025-10-05 20:58:42'
-description: Kontroverze zaměřená na vafle poukazuje na probíhající napětí mezi Bluesky
+description: Kontroverzní téma vafle zdůrazňuje přetrvávající napětí mezi Bluesky
   a některými z jeho nejhlasitějších uživatelů.
 importance: 3
 layout: tech_news_article
@@ -17,7 +17,7 @@ url: https://techcrunch.com/2025/10/05/waffles-eat-bluesky/
 urlToImage: https://techcrunch.com/wp-content/uploads/2023/08/bluesky-007.jpg?resize=1200,675
 ---
 
-Kontroverze zaměřená na vafle poukazuje na probíhající napětí mezi Bluesky a některými z jeho nejhlasitějších uživatelů.
+Kontroverzní téma vafle zdůrazňuje přetrvávající napětí mezi Bluesky a některými z jeho nejhlasitějších uživatelů.
 
 [Číst původní článek](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/)
 
