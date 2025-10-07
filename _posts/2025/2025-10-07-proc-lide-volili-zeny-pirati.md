@@ -20,7 +20,7 @@ Z osmnácti pirátských poslaneckých mandátů pirátů jich patnáct připadl
 
 📗Včera jsem narychlo nechal postahovat/analyzovat příspěvky na sociálních sítích a vypadlo mi z toho několik zjištění:
 - ženy kroužkovaly především ženy a to v poměru cca 3:1. To asi nepřekvapí.
-- projevil se vliv kampaně Kroužkuj ženu, kterou rozeběhl privátní subjekt, ne politické strany
+- projevil se vliv kampaně [Zakroužkuj ženu](https://zakrouzkujzenu.cz/), kterou rozeběhl privátní subjekt, ne politické strany
 - ženy nejvíce kroužkovali původní voliči Zelených (a to je vidět i z čísel)
 - vlivem toho v případě Pirátů i STAN dostávaly více preferenčních hlasů ženy na kandidátce. 
 - naopak kampaň 30 pod 30, který bývá často zmiňována, se prakticky neprojevila. 
