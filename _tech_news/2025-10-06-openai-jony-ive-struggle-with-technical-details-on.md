@@ -4,7 +4,7 @@ companies:
 - OpenAI
 - Apple
 date: '2025-10-06 13:21:57'
-description: ChatGPT tvůrce pracuje s bývalým šéfem designu Applu na spuštění osobního
+description: ChatGPT tvůrce pracuje s bývalým šéfem designu Applu na uvedení osobního
   asistenta.
 importance: 4
 layout: tech_news_article
@@ -23,7 +23,7 @@ url: https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/altman-ive-1152x648.jpg
 ---
 
-ChatGPT tvůrce pracuje s bývalým šéfem designu Applu na spuštění osobního asistenta.
+ChatGPT tvůrce pracuje s bývalým šéfem designu Applu na uvedení osobního asistenta.
 
 [Číst původní článek](https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/)
 

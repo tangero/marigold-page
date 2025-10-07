@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-06 12:52:17'
-description: Krátkodobé zisky z trhů řízených scalperů a rychlých peněžních vazeb
+description: Krátkodobé zisky z trhů řízených scalpery a rychlých peněžních vazeb
   neinvestují do budoucnosti.
 importance: 3
 layout: tech_news_article
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Riziko ztráty celé generace hráčů pro Pokémon a Magic
+title: 'Riziko ztráty celé generace hráčů Pokémona a Magic: The Gathering'
 url: https://kotaku.com/pokemon-magic-the-gathering-scalpers-cards-2000632017
 urlToImage: https://kotaku.com/app/uploads/2025/10/mtg-and-pokemon-1200x675.jpg
 ---
 
-Krátkodobé zisky z trhů řízených scalperů a rychlých peněžních vazeb neinvestují do budoucnosti.
+Krátkodobé zisky z trhů řízených scalpery a rychlých peněžních vazeb neinvestují do budoucnosti.
 
 [Číst původní článek](https://kotaku.com/pokemon-magic-the-gathering-scalpers-cards-2000632017)
 

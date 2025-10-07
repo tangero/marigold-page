@@ -12,8 +12,8 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: 'Proč nelze v rámci betaverze Call of Duty: Black Ops 7 psát "Arc Raiders"
-  do herního chatu, ale je povoleno diskutovat o Battlefield 6'
+title: 'Proč nelze napsat "Arc Raiders" do chatu hry Call of Duty: Black Ops 7 beta,
+  ale lze hovořit o Battlefield 6'
 url: https://www.eurogamer.net/call-of-duty-black-ops-7-censor-arc-raiders
 urlToImage: https://assetsio.gnwcdn.com/blops-ar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

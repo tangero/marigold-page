@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Sammyguru.com
-title: 'Funkce a vylepšení One UI 8.5: Toto vás čeká'
+title: 'Funkce a vylepšení One UI 8.5: Co přichází'
 url: https://sammyguru.com/one-ui-8-5-features-and-enhancements/
 urlToImage: https://sammyguru.com/wp-content/uploads/2025/09/OUI8-Banner-1.png
 ---

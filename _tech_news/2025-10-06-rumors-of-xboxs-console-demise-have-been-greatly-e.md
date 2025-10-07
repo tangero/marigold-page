@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-06 14:24:56'
-description: Microsoft potvrzuje, že plány na konzoli Xbox nové generace jsou stále
+description: Microsoft potvrzuje, že plány na konzoli nové generace Xbox jsou stále
   v běhu, navzdory nedávným spekulacím.
 importance: 2
 layout: tech_news_article
@@ -22,7 +22,7 @@ url: https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-pl
 urlToImage: https://cdn.mos.cms.futurecdn.net/wWWfzjbbwqLoXvdF8tQhAT-2376-80.jpg
 ---
 
-Microsoft potvrzuje, že plány na konzoli Xbox nové generace jsou stále v běhu, navzdory nedávným spekulacím.
+Microsoft potvrzuje, že plány na konzoli nové generace Xbox jsou stále v běhu, navzdory nedávným spekulacím.
 
 [Číst původní článek](https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-plans-arent-cancelled)
 

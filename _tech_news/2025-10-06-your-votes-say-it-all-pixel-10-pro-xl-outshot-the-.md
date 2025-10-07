@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: PhoneArena
-title: 'Vaše hlasy to říkají vše: Pixel 10 Pro XL předčil iPhone 17 Pro (a to hodně)
+title: 'Vaše hlasy to říkají vše: Pixel 10 Pro XL předčil iPhone 17 Pro (o hodně)
   - PhoneArena'
 url: https://www.phonearena.com/news/votes-say-pixel-10-pro-xl-outshot-iphone-17-pro_id174683
 urlToImage: https://m-cdn.phonearena.com/images/article/174683-wide-two_1200/Your-votes-say-it-all-Pixel-10-Pro-XL-outshot-the-iPhone-17-Pro-by-a-lot.jpg
