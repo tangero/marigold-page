@@ -15,7 +15,8 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: Neuvěřitelná nabídka MacBooku Pro za 280 dolarů - rychle ji využijte, než zmizí
+title: Macbook Pro za 280 dolarů je nevídané - tak si ho pořiďte, než tato nabídka
+  zmizí
 url: https://mashable.com/article/oct-5-apple-macbook-pro-2017
 urlToImage: https://helios-i.mashable.com/imagery/articles/07nMewBa7JC5qANrCvSBEkK/hero-image.fill.size_1200x675.v1759448950.jpg
 ---

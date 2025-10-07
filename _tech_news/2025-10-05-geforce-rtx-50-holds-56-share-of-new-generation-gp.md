@@ -4,10 +4,9 @@ companies:
 - NVIDIA
 - AMD
 date: '2025-10-05 15:19:00'
-description: Radeon vs. GeForce v Austrálii Hardware Unboxed sdílí informace od maloobchodníků
+description: Radeon vs GeForce v Austrálii Hardware Unboxed sdílí informace od maloobchodníků
   o popularitě značek GPU pro nejnovější série NVIDIA a AMD. Australský technologický
-  recenzní kanál Hardware Unboxed odhalil nová prodejní data pro grafické karty GeForce
-  a Radeon.
+  recenzní kanál Hardware Unboxed odhalil nová prodejní data pro GPU GeForce a Radeon.
 importance: 4
 layout: tech_news_article
 original_title: GeForce RTX 50 holds 56% share of new-generation GPU sales in Australia,
@@ -24,7 +23,7 @@ url: https://videocardz.com/newz/geforce-rtx-50-accumulated-56-of-gpu-sales-in-a
 urlToImage: https://cdn.videocardz.com/1/2025/10/GEFORCE-RTX-50-VS-RADEON-RX-9000-HERO.jpg
 ---
 
-Radeon vs. GeForce v Austrálii Hardware Unboxed sdílí informace od maloobchodníků o popularitě značek GPU pro nejnovější série NVIDIA a AMD. Australský technologický recenzní kanál Hardware Unboxed odhalil nová prodejní data pro grafické karty GeForce a Radeon.
+Radeon vs GeForce v Austrálii Hardware Unboxed sdílí informace od maloobchodníků o popularitě značek GPU pro nejnovější série NVIDIA a AMD. Australský technologický recenzní kanál Hardware Unboxed odhalil nová prodejní data pro GPU GeForce a Radeon.
 
 [Číst původní článek](https://videocardz.com/newz/geforce-rtx-50-accumulated-56-of-gpu-sales-in-australia-radeon-rx-9000-at-44)
 

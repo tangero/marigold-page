@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Nejlepší seznamy, které si udržet — a nejlepší způsoby, jak je udržet
+title: Nejlepší seznamy, které si udržovat - a nejlepší způsoby, jak je udržovat
 url: https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-100.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
