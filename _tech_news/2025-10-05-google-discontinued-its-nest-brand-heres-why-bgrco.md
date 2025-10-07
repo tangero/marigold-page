@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: BGR
-title: Google ukončil značku Nest - Zde je důvod
+title: Společnost Google ukončila značku Nest - Zde je důvod
 url: https://www.bgr.com/1984436/why-google-discontinued-nest-brand-2025/
 urlToImage: https://www.bgr.com/img/gallery/google-discontinued-its-nest-brand-heres-why/l-intro-1759351294.jpg
 ---

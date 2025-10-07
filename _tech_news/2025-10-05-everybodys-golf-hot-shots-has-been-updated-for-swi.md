@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Aktualizace hry Everybody's Golf Hot Shots pro Nintendo Switch, zde jsou kompletní
+title: Všichni Golfisti Hot Shots byli aktualizováni pro Switch, zde jsou kompletní
   poznámky k aktualizaci
 url: https://www.nintendolife.com/news/2025/10/everybodys-golf-hot-shots-has-been-updated-for-switch-here-are-the-full-patch-notes
 urlToImage: https://images.nintendolife.com/8ee9026fbef08/large.jpg

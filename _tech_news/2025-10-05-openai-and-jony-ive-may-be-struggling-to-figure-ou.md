@@ -1,5 +1,5 @@
 ---
-category: vývoj hardwaru
+category: hardware
 companies:
 - OpenAI
 date: '2025-10-05 16:34:26'
@@ -17,7 +17,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Potíže OpenAI a Jonyho Iva při vývoji jejich AI zařízení
+title: Otevřená AI a Jony Ive možná mají potíže s určením jejich AI zařízení
 url: https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000
 ---

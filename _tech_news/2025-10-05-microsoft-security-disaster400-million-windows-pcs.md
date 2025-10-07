@@ -4,7 +4,8 @@ companies:
 - Microsoft
 date: '2025-10-05 12:35:42'
 description: Pokud jste v ohrožení, musíte jednat - co je důležité vědět. Perex popisuje,
-  co je důležité vědět, pokud jste v ohrožení a potřebujete jednat.
+  co je třeba udělat, pokud jste v rizikové situaci. Zachovává se použití technických
+  termínů v angličtině, pokud jsou běžně používané.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft ‘Security Disaster’—400 Million Windows PCs Now At Risk
@@ -22,7 +23,7 @@ url: https://www.forbes.com/sites/zakdoffman/2025/10/05/microsoft-security-disas
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
 ---
 
-Pokud jste v ohrožení, musíte jednat - co je důležité vědět. Perex popisuje, co je důležité vědět, pokud jste v ohrožení a potřebujete jednat.
+Pokud jste v ohrožení, musíte jednat - co je důležité vědět. Perex popisuje, co je třeba udělat, pokud jste v rizikové situaci. Zachovává se použití technických termínů v angličtině, pokud jsou běžně používané.
 
 [Číst původní článek](https://www.forbes.com/sites/zakdoffman/2025/10/05/microsoft-security-disaster-400-million-windows-pcs-now-at-risk/)
 
