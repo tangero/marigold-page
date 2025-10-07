@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Retrohandhelds.gg
-title: Retro přenosné herní konzole - VMUPro
+title: Retro Přenosná zařízení - VMUPro od 8BitMods
 url: https://retrohandhelds.gg/8bitmods-unveils-the-vmupro/
 urlToImage: https://rh-handhelds-content.nyc3.cdn.digitaloceanspaces.com/2025/10/VMUPro-Banner.jpg
 ---

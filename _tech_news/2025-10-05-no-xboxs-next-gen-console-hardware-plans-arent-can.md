@@ -3,8 +3,8 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-05 15:46:18'
-description: Šíří se zvěsti, že Xbox hodlá ukončit svůj hardwarový ekosystém. To není
-  pravda... zatím, ale snadno by to mohlo být pravdou, vzhledem k tomu, jak nesmyslně
+description: Kolují zvěsti, že Xbox plánuje ukončit svůj hardwarový ekosystém. To
+  není pravda... zatím, ale snadno by se to mohlo stát, vzhledem k tomu, jak nesmyslně
   se Xbox v poslední době chová.
 importance: 2
 layout: tech_news_article
@@ -22,7 +22,7 @@ url: https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-pl
 urlToImage: https://cdn.mos.cms.futurecdn.net/wLxFKtx9X7M8kGuecEj2LN-1007-80.jpg
 ---
 
-Šíří se zvěsti, že Xbox hodlá ukončit svůj hardwarový ekosystém. To není pravda... zatím, ale snadno by to mohlo být pravdou, vzhledem k tomu, jak nesmyslně se Xbox v poslední době chová.
+Kolují zvěsti, že Xbox plánuje ukončit svůj hardwarový ekosystém. To není pravda... zatím, ale snadno by se to mohlo stát, vzhledem k tomu, jak nesmyslně se Xbox v poslední době chová.
 
 [Číst původní článek](https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-plans-arent-cancelled)
 

@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Wargamer.com
-title: Proslulá bezcenná Pokémon karta zaznamenala nárůst ceny o 100 dolarů za pouhé
+title: Proslulá bezcenná Pokémon karta zaznamenala nárůst ceny o 100 USD za pouhé
   dva týdny
 url: https://www.wargamer.com/pokemon-trading-card-game/magikarp-price-spike-paldea-evolved
 urlToImage: https://www.wargamer.com/wp-content/sites/wargamer/2025/10/pokemon-tcg-price-spike-magikarp-paldea-evolved.jpg

@@ -1,9 +1,9 @@
 ---
 category: softwarová aktualiza
 date: '2025-10-05 17:37:55'
-description: Během více než 25 let se Audacity posunul z jednoduchého audio editoru
-  na noční můru z hlediska uživatelského rozhraní. Pokud se přes strašnou logo dokážete
-  prokousat, verze 4 by to mohla napravit.
+description: Během více než 25 let se Audacity vyvinul z jednoduchého audio editoru
+  na noční můru uživatelského rozhraní. Pokud se dokážete dostat přes strašnou logo,
+  verze 4 vypadá, že by to mohla napravit.
 importance: 2
 layout: tech_news_article
 original_title: If you can get past the terrible logo, Audacity 4 looks pretty great
@@ -19,7 +19,7 @@ url: https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Audacity.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
 ---
 
-Během více než 25 let se Audacity posunul z jednoduchého audio editoru na noční můru z hlediska uživatelského rozhraní. Pokud se přes strašnou logo dokážete prokousat, verze 4 by to mohla napravit.
+Během více než 25 let se Audacity vyvinul z jednoduchého audio editoru na noční můru uživatelského rozhraní. Pokud se dokážete dostat přes strašnou logo, verze 4 vypadá, že by to mohla napravit.
 
 [Číst původní článek](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
 
