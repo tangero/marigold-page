@@ -12,7 +12,7 @@ summary_points:
 - Průměrný věk zvolených pirátských poslanců je 37 let, ženy získaly v průměru výrazně více preferenčních hlasů než muži.
 - Úspěšné byly zejména lokální političky a mladší ženy, které oslovily voliče regionální prací nebo aktivitou na sociálních sítích.
 - V Praze a Středočeském kraji byla volební konkurence nejvyšší, ale i v regionech se prosadily ženy díky preferenčním hlasům.
-thumbnail: https://www.marigold.cz/assets/pirati-volebnifoto.jpg
+thumbnail: https://www.marigold.cz/assets/pirati-volebnifoto-fantova.jpg
 title: Do sněmovny se dostaly ženy. Jak se to stalo? 
 ---
 
