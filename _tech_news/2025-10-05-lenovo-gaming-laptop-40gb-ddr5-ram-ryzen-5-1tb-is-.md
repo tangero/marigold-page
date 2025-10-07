@@ -3,7 +3,7 @@ category: herní hardware
 companies:
 - Lenovo
 date: '2025-10-05 11:19:40'
-description: Lenovo vybavil tento počítač specifikacemi určenými pro skutečné hráče.
+description: Lenovo vybavil tento stroj specifikacemi určenými pro skutečné hráče.
 importance: 3
 layout: tech_news_article
 original_title: Lenovo Gaming Laptop (40GB DDR5 RAM, Ryzen 5, 1TB) Is 62% Off, Amazon
@@ -20,7 +20,7 @@ url: https://kotaku.com/lenovo-gaming-laptop-40gb-ddr5-ram-ryzen-5-1tb-is-62-off
 urlToImage: https://kotaku.com/app/uploads/2025/10/lenovo-gaming-40-gb-ram-1200x675.jpg
 ---
 
-Lenovo vybavil tento počítač specifikacemi určenými pro skutečné hráče.
+Lenovo vybavil tento stroj specifikacemi určenými pro skutečné hráče.
 
 [Číst původní článek](https://kotaku.com/lenovo-gaming-laptop-40gb-ddr5-ram-ryzen-5-1tb-is-62-off-amazon-is-cleaning-house-like-never-before-2000631818)
 

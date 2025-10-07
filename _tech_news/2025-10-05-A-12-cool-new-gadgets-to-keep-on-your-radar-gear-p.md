@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Gear Patrol
-title: Dvanáct skvělých nových zařízení, která byste měli mít na radaru
+title: Dvanáct skvělých nových zařízení, která byste měli mít na očích
 url: https://www.gearpatrol.com/audio/best-new-tech-releases-10-5-2025/
 urlToImage: https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/mcintosh-amp-lead.webp
 ---

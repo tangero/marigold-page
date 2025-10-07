@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: CarBuzz
-title: Nejžhavější Miata od Mazdy je nyní snáze dostupná
+title: Nejžhavější Mazda Miata je nyní snáze k dostání
 url: https://carbuzz.com/sports-cars-mazda-spirit-racing-mx-5-miata-limited-production/
 urlToImage: https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/mazda-spirit-racing-rs-concept-rear-badge-detail-copy.jpg?w=1600&h=900&fit=crop
 ---

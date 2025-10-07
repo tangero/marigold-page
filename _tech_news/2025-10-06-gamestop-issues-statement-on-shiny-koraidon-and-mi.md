@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Prohlášení společnosti GameStop o kódech pro Shiny Koraidon a Miraidon ve hrách
-  Pokémon Scarlet a Violet
+title: Prohlášení společnosti GameStop ohledně kódů pro Shiny Koraidon a Miraidon
+  pro Pokémon Scarlet a Violet
 url: https://nintendoeverything.com/gamestop-statement-shiny-koraidon-miraidon-pokemon-scarlet-violet/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/GameStop-statement-Shiny-Koraidon-and-Miraidon.jpg
 ---

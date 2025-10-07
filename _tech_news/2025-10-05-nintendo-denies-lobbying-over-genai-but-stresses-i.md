@@ -2,8 +2,7 @@
 category: autorská práva
 date: '2025-10-05 16:07:18'
 description: Nintendo popřel zprávy, že lobboval u japonských zákonodárců proti generativní
-  umělé inteligenci, a tvrdí, že "nezasahoval do žádných diskusí nebo jednání týkajících
-  se regulace generativní AI".
+  umělé inteligenci, a trval na tom, že "neměl žádné aktivity v této oblasti".
 importance: 3
 layout: tech_news_article
 original_title: Nintendo denies lobbying over genAI, but stresses it will continue
@@ -21,7 +20,7 @@ url: https://www.eurogamer.net/nintendo-denies-lobbying-over-genai-but-stresses-
 urlToImage: https://assetsio.gnwcdn.com/nintendo-logo-1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Nintendo popřel zprávy, že lobboval u japonských zákonodárců proti generativní umělé inteligenci, a tvrdí, že "nezasahoval do žádných diskusí nebo jednání týkajících se regulace generativní AI".
+Nintendo popřel zprávy, že lobboval u japonských zákonodárců proti generativní umělé inteligenci, a trval na tom, že "neměl žádné aktivity v této oblasti".
 
 [Číst původní článek](https://www.eurogamer.net/nintendo-denies-lobbying-over-genai-but-stresses-it-will-continue-fighting-ip-infringement-whether-ai-is-involved-or-not)
 
