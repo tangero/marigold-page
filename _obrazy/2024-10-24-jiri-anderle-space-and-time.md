@@ -7,12 +7,12 @@ namalovano: 1983
 autor: Jiří Anderle
 obraz: Space and Time
 styl: expresionismus
-urlobrazu: /assets/obrazy/Anderle-jiri-space-and-time.jpg
+urlobrazu: /assets/obrazy/anderle-jiri-space-and-time.jpg
 ---
 
 Jiří Anderle - Space and Time (1983) - si dal v osmdesátkách vlnku zajímavé kombinace abstraktna, surrealismu a realismu napasované na čas a prostor. Anderleho práce se obecně vyznačuje detailními kresbami lidských tváří a hlav které kombinuje se zcela abstraktní malbou. Když to chci bagatelizovat, tak tvrdím, že tím autor zdůrazňuje, že fakt ovládá řemeslo - a na tomhle obraze opravdu vidíte, že ovládá, že ty hlavy jsou opravdu vyňuňané do detailu, což suchá jehla krásně umožňuje. Tento obraz je kombinovaná technika oleje, akrylu a barevných tužek na plátně. 
 
-![Jiří Anderle - Space and Time](/assets/obrazy/Anderle-jiri-space-and-time.jpg)
+![Jiří Anderle - Space and Time](/assets/obrazy/anderle-jiri-space-and-time.jpg)
 
 No a teď záludná otázka. Symbolizují tváře na obraze prostor a abstraktní malba je časem, nebo je to obráceně? 
 

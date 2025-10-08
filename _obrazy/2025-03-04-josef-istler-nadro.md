@@ -7,14 +7,14 @@ namalovano: 1953
 autor: Josef Istler
 obraz: Ňadro / Figura
 styl: surrealismus
-urlobrazu: /assets/obrazy/Josef-Istler-nadro-figura-1953.jpg
+urlobrazu: /assets/obrazy/josef-istler-nadro-figura-1953.jpg
 ---
 
 Josef Istler (1919–2000) byl český malíř, grafik a ilustrátor spojený především se surrealismem a informelem.  Istler se učil kreslit převážně sám, v letech 1938–1939 krátce studoval malbu v Jugoslávii u německého malíře Waltera Höfnera.
 
 Byl ovlivněn dílem Toyen a surrealistickými umělci jako [Joan Miró](/obrazy/joan-miro-mont-roig-del-camp/), [Yves Tanguy](/obrazy/yves-tanguy-palac-okennich-skal/) a Jean Arp.
 
-![Josef Istler - Nadro / Figura](/assets/obrazy/Josef-Istler-nadro-figura-1953.jpg)
+![Josef Istler - Nadro / Figura](/assets/obrazy/josef-istler-nadro-figura-1953.jpg)
 
 Ňadro / Figura (1953) je ikonickým příkladem Istlerovy biomorfní abstrakce. Postava je dynamická, proměnlivá, jakoby v neustálém pohybu mezi realitou a snem.
 

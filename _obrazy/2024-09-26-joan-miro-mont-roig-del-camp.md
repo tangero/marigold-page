@@ -7,7 +7,7 @@ namalovano: 1919
 autor: Joan Miró
 obraz: Mont-roig del Camp
 styl: realismus
-urlobrazu: /assets/obrazy/joan-miro-Mont-roig-del-Camp.jpeg
+urlobrazu: /assets/obrazy/joan-miro-mont-roig-del-camp.jpeg
 ---
 
 Joan Miró a jeho Mont-roig del Camp /1919 je obrazem katalánského města, kde Miró startoval kariéru . Podařilo se mu vyhnout tehdy převládajícímu kubismu a abstrakcím a tak se jeho obrazům říká, že mají katalánskou identitu, což se ve Španělsku místy cení (no, jen v Katalánsku!). 
@@ -18,7 +18,7 @@ Barevná paleta obrazu Mont-roig del Camp je živá a pestrá, což je pro Miró
 
 Tento obraz představuje významný přechod v Miróově tvorbě, kdy se začal odklánět od čistého realismu a postupně směřoval k více symbolickému a abstraktnímu vyjádření. „Mont-roig del Camp“ tak zůstává důležitým dílem, které zachycuje nejen krajinu, ale také Miróovu cestu k uměleckému rozvoji a jeho pozdější práci, která výrazně ovlivnila surrealistické hnutí.
 
-![Joan Miró - Mont-roig del Camp](/assets/obrazy/joan-miro-Mont-roig-del-Camp.jpeg)
+![Joan Miró - Mont-roig del Camp](/assets/obrazy/joan-miro-mont-roig-del-camp.jpeg)
 
 A tady je ta Farma pro porovnání tříletého posunu v Miroově tvorbě:
 

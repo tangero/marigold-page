@@ -7,12 +7,12 @@ namalovano: 1905
 autor: Henri Matisse
 obraz: Papouščí tulipány 
 styl: fauvismus
-urlobrazu: /assets/obrazy/Henri-matisse-papousci-tulipany.jpeg
+urlobrazu: /assets/obrazy/henri-matisse-papousci-tulipany.jpeg
 ---
 
 Henri Matisse - Papouščí tulipány (1905) jsou atraktivním příkladem pointilismu. Veselý barevný obraz je často reprodukován, ale záře olejových barev barvotisky reprodukovat nemohou, takže se na obraz raději jeďte podívat do vídeňské Albertiny. 
 
-![Henri Matisse - Papouščí tulipány (1905)](/assets/obrazy/Henri-matisse-papousci-tulipany.jpeg)
+![Henri Matisse - Papouščí tulipány (1905)](/assets/obrazy/henri-matisse-papousci-tulipany.jpeg)
 
 -  pointilismus je technika malých bodů jasné barvy, které z dálky splývají (asi jako tisk na barevné tiskárně, jen ve větším a více barev)
 - Matisse na obraze experimentuje s intenzivními barvami, to je typické pro jeho fauvistické období

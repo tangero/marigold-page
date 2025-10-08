@@ -7,14 +7,14 @@ namalovano: 2024
 autor: Chiharu Shiota
 obraz: Neklidná duše
 styl: instalace
-urlobrazu: /assets/obrazy/IMG_5582.jpeg
+urlobrazu: /assets/obrazy/img-5582.jpeg
 ---
 
 Chiharu Shiota - Neklidná duše je instalace, kterou si můžete projít právě nyní v [pražské Kunsthalle](https://www.kunsthallepraha.org/udalosti/chiharu-shiota-neklidna-duse). 
 
 🇯🇵 Japonská umělkyně Chiharu Shiota je známá svými instalacemi, které často pracují s prostorem, časem a emocemi. Zamotejme se spolu právě teď!
 
-![Chiharu Shiota - Červená síť](/assets/obrazy/IMG_5582.jpeg)
+![Chiharu Shiota - Červená síť](/assets/obrazy/img-5582.jpeg)
 
 🧵Používání nití (černých nebo červených) vytváří iluzi sítě či labyrintu
 🕸️ Tak symbolizuje vzpomínky, propojení mezi lidmi, a také izolaci či pocity nejistoty.
@@ -36,6 +36,6 @@ PS: Jestli máte takovéto vtahování do světa umění přímo do uměleckých
 
 A ještě dvě fotky z instalace Chiharu Shioty - a mrkněte na její další instalace na [jejím Instagramu](https://www.instagram.com/chiharushiota/). 
 
-![Chiharu Shiota - Červená síť](/assets/obrazy/IMG_5586.jpeg)
+![Chiharu Shiota - Červená síť](/assets/obrazy/img-5586.jpeg)
 
-![Chiharu Shiota - Černá síť](/assets/obrazy/IMG_5589.jpeg)
+![Chiharu Shiota - Černá síť](/assets/obrazy/img-5589.jpeg)

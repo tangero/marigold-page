@@ -7,7 +7,7 @@ namalovano: 2019
 autor: Jeffrey Cheung
 obraz: Tangle (Propletení)
 styl: figurativní expresionismus
-urlobrazu: /assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg
+urlobrazu: /assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg
 ---
 
 Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostné vyjádření queer identity, čerpá inspiraci ze své vlastní zkušenosti s komunitou LGBTQ+, skateboardingem a hudbou. Jeho styl je jedinečný a charakteristický svými sytými barvami, organickými křivkami a hravými kompozicemi. Pojďme podrobněji prozkoumat jeho inspiraci a styl:
@@ -23,14 +23,14 @@ Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostn
 - Dílo či spíše celá série “Tangle” (tedy Propletení) je příkladem Cheungova zaměření na jednotu a propojení. Propletené postavy vytvářejí "tanec", což odráží ideály harmonie a rovnosti, které jsou ústředním tématem jeho tvorby.
 - Každá postava je jedinečná a zároveň propojená s ostatními, což představuje myšlenku kolektivního zapojení a přijetí různorodosti.
 
-![Jeffrey Cheung - Tangle](/assets/obrazy/jeffrey_cheung_tangle.jpg)
+![Jeffrey Cheung - Tangle](/assets/obrazy/jeffrey-cheung-tangle.jpg)
 
 🛹 Vliv skateboardingu:
 - Značka Unity: Cheung založil Unity jako značku propojující queer komunitu a skateboarding. Její poselství zdůrazňuje jednotu a komunitu.
 - Ve svých návrzích skateboardových desek kombinuje malbu s příběhy queer identity a komunitního ducha, což je i důvodem vzniku značky Unity.
 - Ručně malované skateboardy jsou nejen prostředkem uměleckého vyjádření, ale také nástrojem propojení s queer komunitou
 
-![Jeffrey Cheung a Unity skate brand](/assets/obrazy/Jeffrey-Cheung-unity-skate.jpeg)
+![Jeffrey Cheung a Unity skate brand](/assets/obrazy/jeffrey-cheung-unity-skate.jpeg)
 
 ✍️ Umělecké vzory:
 - Jeho dílo lze přirovnat k figurativním malířům, jako byli Keith Haring nebo Henri Matisse, kteří také pracovali s odvážnými barvami, liniemi a tématy propojení mezi lidmi.
@@ -43,5 +43,5 @@ Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostn
 
 Cheung svým uměním nejen oslavuje queer komunitu, ale také boří bariéry mezi uměním a každodenním životem. 
 
-![Jeffrey Cheung](/assets/obrazy/jeffrey_cheung.jpeg)
+![Jeffrey Cheung](/assets/obrazy/jeffrey-cheung.jpeg)
 

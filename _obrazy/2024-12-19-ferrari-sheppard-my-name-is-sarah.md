@@ -7,7 +7,7 @@ namalovano: 2021
 autor: Ferrari Sheppard
 obraz: Jméno mé je Sarah
 styl: abstraktivní figuralismus
-urlobrazu: /assets/obrazy/ferrari-sheppard-My-Name-is-Sarah.jpg
+urlobrazu: /assets/obrazy/ferrari-sheppard-my-name-is-sarah.jpg
 ---
 
 🇺🇸 Losangeleský všestranný umělec se narodil roku 1983 v Chicagu \
@@ -19,7 +19,7 @@ urlobrazu: /assets/obrazy/ferrari-sheppard-My-Name-is-Sarah.jpg
 🔊 dlouhodobě spolupracoval se značkama jako Bang & Olufsen \
 ⭐️ zlato používá k vyjádření hodnoty vztahů
 
-![Ferrari Sheppard - Jméno mé je Sarah](/assets/obrazy/ferrari-sheppard-My-Name-is-Sarah.jpg)
+![Ferrari Sheppard - Jméno mé je Sarah](/assets/obrazy/ferrari-sheppard-my-name-is-sarah.jpg)
 
 Jeho ikonickým obrazem je právě My name is Sarah z roku 2021.
 - obraz zachycuje postavu bez detailních rysů obličeje

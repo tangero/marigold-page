@@ -7,7 +7,7 @@ namalovano: 1942
 autor: Yves Tanguy
 obraz: Palác okenních skal
 styl: surrealismus
-urlobrazu: /assets/obrazy/IMG_3566.jpeg
+urlobrazu: /assets/obrazy/img-3566.jpeg
 ---
 
 Tanguy patřil do užšího kruhu pařížské avantgardy 20. let 20. století vedle takových osobností, jako byli Salvador Dali
@@ -16,7 +16,7 @@ Tanguy patřil do užšího kruhu pařížské avantgardy 20. let 20. století v
 ⛰️ Tanguy se inspiroval pohořím Atlas a pobřežím Bretaně \
 💡Obrazy Yvese Tanguyho jsou často interpretovány jako vizuální vyjádření podvědomí a symbolických významů. To je pro surrealismus typické. 
 
-![Yves Tanguy - Palác okenních skal](/assets/obrazy/IMG_3566.jpeg)
+![Yves Tanguy - Palác okenních skal](/assets/obrazy/img-3566.jpeg)
 
 🛌 Jeho uměleckou posedlostí byl svět imaginace, snů a snění \
 ⚫️ Jeho díla měla velký vliv na další generace surrealistů i abstraktních malířů, díky svému inovativnímu přístupu k tvarům a prostoru.

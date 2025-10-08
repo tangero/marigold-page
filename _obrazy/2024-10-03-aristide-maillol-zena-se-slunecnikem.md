@@ -7,12 +7,12 @@ namalovano: 1895
 autor: Aristide Maillol
 obraz: Žena se slunečníkem
 styl: postimpressionismus
-urlobrazu: /assets/obrazy/IMG_2730.jpeg
+urlobrazu: /assets/obrazy/img-2730.jpeg
 ---
 
 Aristide Maillol a jeho Žena se slunečníkem, namalovaná pravděpodobně roku 1895, ale datace se různí.
 
-![Aristide Maillol a jeho Žena se slunečníkem](/assets/obrazy/IMG_2730.jpeg)
+![Aristide Maillol a jeho Žena se slunečníkem](/assets/obrazy/img-2730.jpeg)
 
 Maillol byl jedním z nejznámějších sochařů své doby, jeho bronzové sochy inspirovaly Picassa i Matisse. Jenže do čtyřicítky se věnoval malbě - ve 29 letech namaloval Ženu se slunečníkem.
 

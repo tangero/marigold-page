@@ -7,12 +7,12 @@ namalovano: 2023
 autor: Charlotte Keates
 obraz: Dům ukrývá snění
 styl: architektonický surrealismus
-urlobrazu: /assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg
+urlobrazu: /assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg
 ---
 
 Její tvorbu charakterizuje unikátní spojení architektury 60. a 70. let s moderním přístupem k prostoru. Vytváří imaginární interiéry, které vás vtáhnou do světa, kde se realita mísí se snem. Originální název tohoto obrazu z roku 2023 je *The house shelters daydreaming*. 
 
-![Charlotte Keates - The house shelters daydreaming - 2023](/assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg)
+![Charlotte Keates - The house shelters daydreaming - 2023](/assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg)
 
 
 Charlotte Keates vystudovala malbu na Falmouth University a její první samostatná výstava se konala v Arusha Gallery v Edinburghu 2017.

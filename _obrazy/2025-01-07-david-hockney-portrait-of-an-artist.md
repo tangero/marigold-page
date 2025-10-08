@@ -7,13 +7,13 @@ namalovano: 1972
 autor: David Hockney
 obraz: Portrét umělce (Bazén se dvěma postavami)
 styl: pop-art
-urlobrazu: /assets/obrazy/david-hockney-Portrait-of-an-Artist.jpg
+urlobrazu: /assets/obrazy/david-hockney-portrait-of-an-artist.jpg
 ---
 
 
 Ikonické dílo “Portrait of an Artist (Pool with Two Figures)” z roku 1972 je jednou z nejlepších ukázek Hockneyho talentu a popartu. 🌐
 
-![David Hockney - Portrét umělce (Bazén se dvěma postavami) (1972)](/assets/obrazy/david-hockney-Portrait-of-an-Artist.jpg)
+![David Hockney - Portrét umělce (Bazén se dvěma postavami) (1972)](/assets/obrazy/david-hockney-portrait-of-an-artist.jpg)
 
 ☀️ Tento obraz zachycuje dva muže u bazénu v slunné Kalifornii \
 👨‍💬 Nad bazénem stojí bývalý Hockneyho partner Peter Schlesinger \

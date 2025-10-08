@@ -7,14 +7,14 @@ namalovano: 1915
 autor: Naděžda Udalcová
 obraz: Kuchyně
 styl: kubismus
-urlobrazu: /assets/obrazy/IMG_7722.jpeg
+urlobrazu: /assets/obrazy/img-7722.jpeg
 ---
 
 Naděžda Udalcová - Kuchyně (1915). Udalcová je ruská - a především sovětská - zástupkyně kubismu a kubo-futurismu. Narodila se v carském rusku, umřela v roce 1961 v Sovětském svazu, takže její kubismus je pošmourný, nevyjásaný. 
 
 Její obraz Kuchyně z klasického kubistického období se u nás jako jeden z mála se u nás vystavoval - tohle je myslím fotka z výstavy ruské avantgardy na Hluboké. 
 
-![Naděžda Udalcová - Kuchyně (1915)](/assets/obrazy/IMG_7722.jpeg)
+![Naděžda Udalcová - Kuchyně (1915)](/assets/obrazy/img-7722.jpeg)
 
 Udalcovová byla jednou z mála významných ženských kubistických umělkyň a tento obraz ukazuje, jak mistrně dokázala tento styl používat, což bylo velmi progresivní na dobu, kdy byla většina avantgardního umění tvořena muži. Kuchyně představuje každodenní předměty transformované do abstraktní formy - tak typické pro kubismus. 
 

@@ -7,7 +7,7 @@ namalovano: 1981
 autor: LeRoy Neiman
 obraz: Rocky Balboa
 styl: expresionismus
-urlobrazu: /assets/obrazy/leroy-neiman-Rocky Balboa.jpg
+urlobrazu: /assets/obrazy/leroy-neiman-rocky-balboa.jpg
 ---
 
 LeRoy Neiman (1921-2012)
@@ -24,7 +24,7 @@ LeRoy Neiman (1921-2012)
 🎨 jeho obrazy jsou výrazné, rozpoznatelné, zapamatovatelné \
 🎬 a zahrál si hlasatele v ringu ve filmech Rocky 😎 
 
-![LeRoy Neiman - Rocky Balboa](/assets/obrazy/leroy-neiman-Rocky Balboa.jpg)
+![LeRoy Neiman - Rocky Balboa](/assets/obrazy/leroy-neiman-rocky-balboa.jpg)
 
 📗 A proč má právě teď takovou pozornost? Vyšla mu nová biografie, která probudila novou vlnu zájmu o jeho obrazy... 
 
@@ -38,7 +38,7 @@ LeRoy Neiman (1921-2012)
 
 ### Giants Broncos Classic
 
-![LeRoy Neiman - Giants Broncos Classic](/assets/obrazy/Giants-Broncos-Classic.jpg)
+![LeRoy Neiman - Giants Broncos Classic](/assets/obrazy/giants-broncos-classic.jpg)
 
 ### Portrét Svobody
 

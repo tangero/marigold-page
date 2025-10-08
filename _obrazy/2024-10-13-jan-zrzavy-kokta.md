@@ -7,7 +7,7 @@ namalovano: 1915
 autor: Jan Zrzavý
 obraz: Kokta
 styl: [magický realismus]
-urlobrazu: /assets/obrazy/jan_zrzavy_kokta.jpeg
+urlobrazu: /assets/obrazy/jan-zrzavy-kokta.jpeg
 ---
 
 o českém avantgardistovi počátku minulého století se říkává, že je představitel magického realismu, já bych ho označil za "štěstí na půdě". To jsou obrazy na první pohled sice umírněné, ale už od pohledu takové, že je ani za totáče nevyhodili, ale šoupli na půdu, aby o půlstoletí později dědicům udělala aukce obrazu radost. Což je i případ obrazu Kokta.
@@ -20,7 +20,7 @@ o českém avantgardistovi počátku minulého století se říkává, že je p�
 6️⃣ zatímco Čapek měl tendenci směřovat více k analytickému a geometrickému ztvárnění, Zrzavý do svých prací vkládal citlivost a jemnost, která je blízká spíše symbolismu a expresionismu. \
 7️⃣přesto jsou jejich díla obdivuhodně podobná, na výstavě si je můžete prohlédnout kousek od sebe a uvidíte to v nich.
 
-![Jan Zrzavý - Kokta](/assets/obrazy/jan_zrzavy_kokta.jpeg)
+![Jan Zrzavý - Kokta](/assets/obrazy/jan-zrzavy-kokta.jpeg)
 
 💰Dneska je Zrzavý jeden z nejceněnějších českých umělců, jeho nejlepší díla se běžně draží přes deset milionů, rekord drží Spící hoch z roku 1913 (najděte si, je zcela jiný, než Kokta, to ještě Čapka neznal) - za 19 milionů Kč. Zrzavého litografie bývají za desítky, rekordně pak sto tisíc. No a Kokta? Tu Leo Tsoukernik vydražil za 16 milionů Kč, vyvolávačka byla osm.
 
