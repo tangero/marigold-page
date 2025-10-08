@@ -1,7 +1,7 @@
 ---
 category: pracovní vztahy
 date: '2025-10-06 18:00:00'
-description: Dokonce i když to sami nepotřebujete, učení se o AI může pomoci oddělit
+description: I přestože AI sami nepotřebujete, učení se o ní vám může pomoci odlišit
   užitečnost od přehnaných očekávání.
 importance: 3
 layout: tech_news_article
@@ -18,7 +18,7 @@ url: https://www.washingtonpost.com/business/2025/10/06/work-advice-accepting-ai
 urlToImage: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HE3OTGTNPZZALE57H3XF4QF7AM_size-normalized.jpg&w=1440
 ---
 
-Dokonce i když to sami nepotřebujete, učení se o AI může pomoci oddělit užitečnost od přehnaných očekávání.
+I přestože AI sami nepotřebujete, učení se o ní vám může pomoci odlišit užitečnost od přehnaných očekávání.
 
 [Číst původní článek](https://www.washingtonpost.com/business/2025/10/06/work-advice-accepting-ai/)
 

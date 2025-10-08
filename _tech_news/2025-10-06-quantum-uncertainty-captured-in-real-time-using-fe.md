@@ -4,8 +4,8 @@ date: '2025-10-06 17:40:03'
 description: 'Výzkumníci z Arizonské univerzity, spolupracující s mezinárodním týmem,
   zachytili a ovládli kvantovou nejistotu v reálném čase pomocí ultrakrátkých světelných
   pulsů. Jejich objev, publikovaný v časopise Light: Science & Applications, by mohl
-  vést k novým způsobům kontroly a manipulace kvantových systémů pro aplikace v kvantové
-  informatice a komunikaci.'
+  vést k novým způsobům kontroly kvantových systémů a jejich využití v pokročilých
+  technologiích, jako jsou kvantové počítače a senzory.'
 importance: 2
 layout: tech_news_article
 original_title: Quantum uncertainty captured in real time using femtosecond light
@@ -22,7 +22,7 @@ url: https://phys.org/news/2025-10-quantum-uncertainty-captured-real-femtosecond
 urlToImage: https://scx2.b-cdn.net/gfx/news/2025/quantum-uncertainty-ta.jpg
 ---
 
-Výzkumníci z Arizonské univerzity, spolupracující s mezinárodním týmem, zachytili a ovládli kvantovou nejistotu v reálném čase pomocí ultrakrátkých světelných pulsů. Jejich objev, publikovaný v časopise Light: Science & Applications, by mohl vést k novým způsobům kontroly a manipulace kvantových systémů pro aplikace v kvantové informatice a komunikaci.
+Výzkumníci z Arizonské univerzity, spolupracující s mezinárodním týmem, zachytili a ovládli kvantovou nejistotu v reálném čase pomocí ultrakrátkých světelných pulsů. Jejich objev, publikovaný v časopise Light: Science & Applications, by mohl vést k novým způsobům kontroly kvantových systémů a jejich využití v pokročilých technologiích, jako jsou kvantové počítače a senzory.
 
 [Číst původní článek](https://phys.org/news/2025-10-quantum-uncertainty-captured-real-femtosecond.html)
 

@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-06 19:25:50'
-description: První Shiny Pokémon v Pokémon Legends Z-A možná byl spatřen v japonské
+description: Prvního Shiny Pokémona v Pokemon Legends Z-A možná zahlédli v japonské
   verzi nejnovějšího traileru.
 importance: 4
 layout: tech_news_article
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Dexerto
-title: 'Pokémon Legends: Arceus - Trenér objevuje skrytého třpytivého Pokémona v japonském
-  traileru'
+title: 'Pokémon Legends: Arceus - Trenér objevuje skrytého zábleskového Pokémona v
+  japonském traileru'
 url: https://www.dexerto.com/gaming/pokemon-legends-z-a-trainer-spots-hidden-shiny-pokemon-in-japanese-trailer-3262773/
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/06/Pokemon-Legends-Z-A-header-shiny-pokemon.jpg
 ---
 
-První Shiny Pokémon v Pokémon Legends Z-A možná byl spatřen v japonské verzi nejnovějšího traileru.
+Prvního Shiny Pokémona v Pokemon Legends Z-A možná zahlédli v japonské verzi nejnovějšího traileru.
 
 [Číst původní článek](https://www.dexerto.com/gaming/pokemon-legends-z-a-trainer-spots-hidden-shiny-pokemon-in-japanese-trailer-3262773/)
 

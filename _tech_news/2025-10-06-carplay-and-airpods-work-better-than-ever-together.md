@@ -1,5 +1,5 @@
 ---
-category: mobilní aplikace
+category: mobilní technologie
 companies:
 - Apple
 date: '2025-10-06 20:32:00'
