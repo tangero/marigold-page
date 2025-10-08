@@ -1,7 +1,7 @@
 ---
 category: částicová fyzika
 date: '2025-10-06 14:52:03'
-description: Amplituhedron, tvar v srdci částicové fyziky, se zdá být hluboce propojen
+description: Amplituhedron, tvar v srdci částicové fyziky, se zdá být hluboce spojen
   s matematikou skládání papíru.
 importance: 5
 layout: tech_news_article
@@ -12,12 +12,12 @@ source:
   emoji: 📰
   id: null
   name: Quanta Magazine
-title: Origami vzory řeší zásadní fyzikální hádanku
+title: Origami vzory řeší významnou fyzikální hádanku
 url: https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/
 urlToImage: https://www.quantamagazine.org/wp-content/uploads/2025/10/Amplituhedron-cr.Ibrahim-Rayintakath-Social.jpg
 ---
 
-Amplituhedron, tvar v srdci částicové fyziky, se zdá být hluboce propojen s matematikou skládání papíru.
+Amplituhedron, tvar v srdci částicové fyziky, se zdá být hluboce spojen s matematikou skládání papíru.
 
 [Číst původní článek](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
 

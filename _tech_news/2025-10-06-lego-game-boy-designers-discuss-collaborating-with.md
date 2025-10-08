@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Nintendo
 date: '2025-10-06 15:45:08'
-description: Chtěli jsme do toho zahrnout vše.
+description: Chtěli jsme do toho zahrnout všechno.
 importance: 3
 layout: tech_news_article
 original_title: LEGO Game Boy Designers Discuss Collaborating With A "Very Involved"
@@ -19,7 +19,7 @@ url: https://www.nintendolife.com/news/2025/10/lego-game-boy-designers-discuss-c
 urlToImage: https://images.nintendolife.com/89d09427da961/large.jpg
 ---
 
-Chtěli jsme do toho zahrnout vše.
+Chtěli jsme do toho zahrnout všechno.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/10/lego-game-boy-designers-discuss-collaborating-with-a-very-involved-nintendo)
 

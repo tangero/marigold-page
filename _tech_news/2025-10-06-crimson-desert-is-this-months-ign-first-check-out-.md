@@ -14,7 +14,7 @@ source:
   id: ign
   name: IGN
 title: Krvavá poušť je IGN First pro tento měsíc, podívejte se na 11 minut nového
-  herního záběru z questů
+  herního záznamu z quests
 url: https://www.ign.com/articles/crimson-desert-gameplay-ign-first
 urlToImage: https://assets-prd.ignimgs.com/2025/10/06/crimson-desert-ign-first-quest-gameplay-1759739901532.jpeg?width=1280&format=jpg&auto=webp&quality=80
 ---

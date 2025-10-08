@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: Thegamepost.com
-title: 'Destiny 2 dosahuje nejnižšího počtu hráčů na Steamu v historii série, zatímco
+title: 'Destiny 2 dosahuje nejnižšího počtu hráčů na Steamu v historii franšízy, zatímco
   komunita dosahuje bodu zlomu: "Už Bungie nevěřím'
 url: https://thegamepost.com/destiny-2-lowest-player-count-steam-franchise-history-bungie-trust/
 urlToImage: https://thegamepost.com/wp-content/uploads/2025/10/destiny-2-lowest-player-count-steam-franchise-history-bungie-3.webp

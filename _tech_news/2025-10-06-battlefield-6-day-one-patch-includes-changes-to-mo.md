@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-06 17:13:06'
 description: EA a studia Battlefield představily některé úpravy herní mechaniky a
-  změny v balancování, které přijdou s dnem jedna patchem pro Battlefield 6 v nadcházejícím
+  změny v balancování, které přijdou s dnem jedna patchem pro Battlefield 6 v tomto
   týdnu.
 importance: 3
 layout: tech_news_article
@@ -14,13 +14,13 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Aktualizace Battlefield 6 v den vydání zahrnuje změny v pohybu, zpětném rázu
+title: Aktualizace Battlefield 6 v den vydání obsahuje změny v pohybu, zpětném rázu
   zbraní, režimu Rush a další
 url: https://www.ign.com/articles/battlefield-6-day-one-patch-includes-changes-to-movement-weapon-recoil-rush-and-more
 urlToImage: https://assets-prd.ignimgs.com/2025/10/06/battlefield-6-day-one-patch-1759770134402.png?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-EA a studia Battlefield představily některé úpravy herní mechaniky a změny v balancování, které přijdou s dnem jedna patchem pro Battlefield 6 v nadcházejícím týdnu.
+EA a studia Battlefield představily některé úpravy herní mechaniky a změny v balancování, které přijdou s dnem jedna patchem pro Battlefield 6 v tomto týdnu.
 
 [Číst původní článek](https://www.ign.com/articles/battlefield-6-day-one-patch-includes-changes-to-movement-weapon-recoil-rush-and-more)
 

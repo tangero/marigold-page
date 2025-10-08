@@ -5,7 +5,7 @@ companies:
 date: '2025-10-06 18:08:51'
 description: 'OpenAI Codex je nyní všeobecně dostupný s novými výkonnými funkcemi
   pro vývojáře: integrace se Slackem, Codex SDK a nástroje pro správu jako dashboardy
-  využití a správa pracovního prostoru - což činí Codex snazším k použití a správě
+  využití a správa pracovního prostoru - to vše činí Codex snazším k použití a správě
   v rozsáhlém měřítku.'
 importance: 4
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://openai.com/index/codex-now-generally-available/
 urlToImage: https://images.ctfassets.net/kftzwdyauwt9/Y2KhgPVYyo6q0UwBjEAwV/7ff5e4acda2b610b1e063ed421a8c0c2/Codex_Blog_SEO_16.9.png?w=1600&h=900&fit=fill
 ---
 
-OpenAI Codex je nyní všeobecně dostupný s novými výkonnými funkcemi pro vývojáře: integrace se Slackem, Codex SDK a nástroje pro správu jako dashboardy využití a správa pracovního prostoru - což činí Codex snazším k použití a správě v rozsáhlém měřítku.
+OpenAI Codex je nyní všeobecně dostupný s novými výkonnými funkcemi pro vývojáře: integrace se Slackem, Codex SDK a nástroje pro správu jako dashboardy využití a správa pracovního prostoru - to vše činí Codex snazším k použití a správě v rozsáhlém měřítku.
 
 [Číst původní článek](https://openai.com/index/codex-now-generally-available/)
 
