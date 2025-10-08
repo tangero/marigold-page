@@ -1,13 +1,13 @@
 ---
 category: retro technologie
-date: '2025-10-07 10:32:01'
+date: '2025-10-07 16:00:57'
 description: Nostalgie po estetice a dnech bez telefonů z 90. let je hnací silou trendu
   miniaturizace.
 importance: 3
 layout: tech_news_article
 original_title: The trendiest TVs are tiny, old and in your kitchen - The Washington
   Post
-publishedAt: '2025-10-07T10:32:01+00:00'
+publishedAt: '2025-10-07T16:00:57+00:00'
 slug: the-trendiest-tvs-are-tiny-old-and-in-your-kitchen
 source:
   emoji: 📰
