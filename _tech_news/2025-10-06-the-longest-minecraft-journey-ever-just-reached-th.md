@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-06 14:38:53'
-description: Battlefield 6 slibuje 120 fps, prodeje Ghost of Yotei začínají silně
-  a další novinky.
+description: Battlefield 6 také slibuje 120 fps, prodeje Ghost of Yotei začaly silně
+  a další.
 importance: 3
 layout: tech_news_article
 original_title: The Longest Minecraft Journey Ever Just Reached The Edge Of The Map
@@ -18,7 +18,7 @@ url: https://kotaku.com/minecraft-edge-map-far-lands-kurtjmac-battlefield-6-fram
 urlToImage: https://kotaku.com/app/uploads/2025/10/Minecraft-Edge-1.jpg
 ---
 
-Battlefield 6 slibuje 120 fps, prodeje Ghost of Yotei začínají silně a další novinky.
+Battlefield 6 také slibuje 120 fps, prodeje Ghost of Yotei začaly silně a další.
 
 [Číst původní článek](https://kotaku.com/minecraft-edge-map-far-lands-kurtjmac-battlefield-6-framerate-2000632059)
 

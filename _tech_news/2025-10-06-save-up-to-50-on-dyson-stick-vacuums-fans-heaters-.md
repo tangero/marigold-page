@@ -16,8 +16,8 @@ source:
   emoji: 📰
   id: cnn
   name: CNN
-title: Ušetřete až 50 % na tyčových vysavačích Dyson, ventilátorech, ohřívačích a
-  dalším zboží pro říjnové Prime Day
+title: Ušetřete až 50 % na tyčových vysavačích, ventilátorech, ohřívačích a dalším
+  od Dysonu během říjnového Prime Day - CNN
 url: https://www.cnn.com/cnn-underscored/deals/dyson-early-prime-day-deals-2025-10-06
 urlToImage: https://media.cnn.com/api/v1/images/stellar/prod/pbdd-dyson-deals-2025.jpg?c=16x9&q=w_800,c_fill
 ---

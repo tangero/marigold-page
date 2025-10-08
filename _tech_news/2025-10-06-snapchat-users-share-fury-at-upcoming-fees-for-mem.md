@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: BBC News
-title: Sdílení uživatelů Snapchatu s hněvem kvůli nadcházejícím poplatkům za úložiště
+title: Sdílení uživatelů Snapchatu rozčilení nad nadcházejícími poplatky za úložiště
   Memories
 url: https://www.bbc.com/news/articles/c4g5ypl6nkzo
 urlToImage: https://ichef.bbci.co.uk/news/1024/branded_news/d504/live/11b47050-a06e-11f0-8687-4726d7177866.jpg

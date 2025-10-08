@@ -1,9 +1,9 @@
 ---
-category: mobilní technologie
+category: mobilní aplikace
 companies:
 - Apple
 date: '2025-10-06 20:32:00'
-description: Jednou z nejlepších funkcí AirPods byla dlouho nepřítomna v CarPlay,
+description: Jednou z nejlepších funkcí AirPods byla dlouho nepřítomná v CarPlay,
   ale to se konečně změnilo v iOS 26. Zde jsou podrobnosti.
 importance: 3
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://9to5mac.com/2025/10/06/carplay-and-airpods-work-better-than-ever-to
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/airpods-carplay-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Jednou z nejlepších funkcí AirPods byla dlouho nepřítomna v CarPlay, ale to se konečně změnilo v iOS 26. Zde jsou podrobnosti.
+Jednou z nejlepších funkcí AirPods byla dlouho nepřítomná v CarPlay, ale to se konečně změnilo v iOS 26. Zde jsou podrobnosti.
 
 [Číst původní článek](https://9to5mac.com/2025/10/06/carplay-and-airpods-work-better-than-ever-together-in-ios-26-heres-how/)
 

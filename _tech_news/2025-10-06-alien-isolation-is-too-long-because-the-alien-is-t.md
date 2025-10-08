@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Rock Paper Shotgun
-title: 'Cizinec: Izolace je příliš dlouhá, protože Cizinec je příliš chytrý, říká
-  bývalý spisovatel Creative Assembly'
+title: Izolace mimozemšťana je příliš dlouhá, protože Mimozemšťan je příliš chytrý,
+  říká bývalý spisovatel Creative Assembly
 url: https://www.rockpapershotgun.com/alien-isolation-is-too-long-because-the-alien-is-too-clever-says-former-creative-assembly-writer
 urlToImage: https://assetsio.gnwcdn.com/best-ai-in-games-list-5-alien-isolation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Funkce Vyzvánění s oznámením na iPhonu
+title: Funkce Přijmout hovor s výzvou na iPhone
 url: https://www.macrumors.com/how-to/iphone-ask-someone-calling-before-pick-up/
 urlToImage: https://images.macrumors.com/t/hJoY7WDSUt3DPcwrtEoO1DK7Poo=/2500x/article-new/2025/07/iOS-26-Phone-App-Features.jpg
 ---

@@ -3,8 +3,8 @@ category: slevové akce
 companies:
 - V tomto článku není zmíněna žádná významná technologická firma
 date: '2025-10-07 08:11:42'
-description: Ušetřete na sluchátkách, fotoaparátech, PC příslušenství, spotřebičích
-  a mnohem více před Black Friday.
+description: Ušetřete na sluchátkách, fotoaparátech, příslušenství pro PC, spotřebičích
+  a mnoho dalšího před Black Friday.
 importance: 3
 layout: tech_news_article
 original_title: I've covered every Amazon AU sale – these are the 117 best deals on
@@ -21,7 +21,7 @@ url: https://www.techradar.com/live/news/amazon-prime-big-deal-days-2025-austral
 urlToImage: https://cdn.mos.cms.futurecdn.net/ELvbKaN3jJt898aQVoazNh-2000-80.jpg
 ---
 
-Ušetřete na sluchátkách, fotoaparátech, PC příslušenství, spotřebičích a mnohem více před Black Friday.
+Ušetřete na sluchátkách, fotoaparátech, příslušenství pro PC, spotřebičích a mnoho dalšího před Black Friday.
 
 [Číst původní článek](https://www.techradar.com/live/news/amazon-prime-big-deal-days-2025-australia)
 
