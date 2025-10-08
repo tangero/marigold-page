@@ -18,7 +18,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Společnost Microsoft opravuje další bezpečnostní díry, které umožňovaly instalaci
+title: Společnost Microsoft opravuje další bezpečnostní díry, které umožňují používat
   Windows 11 bez online účtu
 url: https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200

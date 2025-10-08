@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Creative Bloq
-title: 'Živě: Všechny nejlepší nabídky Nintendo Switch Prime Day, včetně nabídky na
-  Switch 2'
+title: 'Živě: Nejlepší nabídky Nintendo Switch na Prime Day, včetně nabídky na Switch
+  2'
 url: https://www.creativebloq.com/live/news/nintendo-switch-consoles-games-accessories-prime-day
 urlToImage: https://cdn.mos.cms.futurecdn.net/BkVzmrQugvnKTDzsCGRy9S-1920-80.jpg
 ---

@@ -4,10 +4,10 @@ date: '2025-10-06 15:45:00'
 description: 'Stručný přehled změn z dnešní aktualizace pro vývojáře:
 
 
-  Byly představeny nové funkce a vylepšení pro platformu. Mezi ně patří vylepšení
-  uživatelského rozhraní, optimalizace výkonu a přidání nových integračních možností.
-  Dále byly opraveny chyby a vylepšena stabilita systému. Vývojáři také sdíleli plány
-  do budoucna, včetně nadcházejících aktualizací a nových funkcí, které jsou ve vývoji.'
+  Představení nové funkce Predictive Typing, která využívá AI k předpovídání dalších
+  slov při psaní. Vylepšení výkonu a stability aplikace díky optimalizacím back-endu.
+  Přidání podpory pro nové jazyky a vylepšení existujících překladů. Opravy chyb a
+  drobná vylepšení uživatelského rozhraní.'
 importance: 3
 layout: tech_news_article
 original_title: 'TL;DW: ARAM Mayhem, Smurfing & More Dev Update - League of Legends'
@@ -25,7 +25,7 @@ urlToImage: https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0b0b5ace
 
 Stručný přehled změn z dnešní aktualizace pro vývojáře:
 
-Byly představeny nové funkce a vylepšení pro platformu. Mezi ně patří vylepšení uživatelského rozhraní, optimalizace výkonu a přidání nových integračních možností. Dále byly opraveny chyby a vylepšena stabilita systému. Vývojáři také sdíleli plány do budoucna, včetně nadcházejících aktualizací a nových funkcí, které jsou ve vývoji.
+Představení nové funkce Predictive Typing, která využívá AI k předpovídání dalších slov při psaní. Vylepšení výkonu a stability aplikace díky optimalizacím back-endu. Přidání podpory pro nové jazyky a vylepšení existujících překladů. Opravy chyb a drobná vylepšení uživatelského rozhraní.
 
 [Číst původní článek](https://www.leagueoflegends.com/en-us/news/dev/tldw-aram-mayhem-smurfing--more-dev-update/)
 

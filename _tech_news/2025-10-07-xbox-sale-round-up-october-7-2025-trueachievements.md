@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: TrueAchievements
-title: Přehled prodejů Xboxu 7. října 2025 - TrueAchievements
+title: Souhrn prodeje Xboxu 7. října 2025 - TrueAchievements
 url: https://www.trueachievements.com/n60433/xbox-sale-roundup-october-7-2025
 urlToImage: https://www.trueachievements.com/imgs/113480/xbox-weekly-sales.jpg
 ---

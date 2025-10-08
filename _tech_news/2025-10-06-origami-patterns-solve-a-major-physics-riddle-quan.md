@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Quanta Magazine
-title: Origami vzory řeší významnou fyzikální hádanku
+title: Origami vzory řeší zásadní fyzikální hádanku
 url: https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/
 urlToImage: https://www.quantamagazine.org/wp-content/uploads/2025/10/Amplituhedron-cr.Ibrahim-Rayintakath-Social.jpg
 ---
