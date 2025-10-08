@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Gamedeveloper.com
-title: 'Uzavření studia The Outsiders, vývojáře hry Metal: Hellsinger'
+title: 'Vývoj hry Metal: Hellsinger ukončen - Studio The Outsiders zavřeno'
 url: https://www.gamedeveloper.com/business/funcom-is-closing-metal-hellslinger-developer-the-outsiders
 urlToImage: https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltdbbb9d589435de02/68e3de2409ac9e6468a17775/The_Outsiders_Header.png?disable=upscale&width=1200&height=630&fit=crop
 ---

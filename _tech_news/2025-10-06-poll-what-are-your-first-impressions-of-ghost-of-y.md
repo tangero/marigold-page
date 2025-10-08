@@ -1,11 +1,11 @@
 ---
 category: herní průmysl
 date: '2025-10-06 17:31:32'
-description: Onryo je japonský termín pro zlého ducha nebo zlovolnou duši, která se
-  vrací z posmrtného života, aby se pomstila těm, kteří ji zranili nebo jí ublížili,
-  zatímco byla naživu. Onryové jsou často zobrazováni jako bledé, vlasaté ženské postavy,
-  které se zjevují v bílém kimonu a mají děsivý výraz. Jsou považováni za velmi mocné
-  a nebezpečné nadpřirozené entity v japonské mytologii a folklóru.
+description: Onryo je japonský termín pro ducha pomsty, který se objevuje v japonském
+  folklóru a hororu. Onryo jsou duchové, kteří se vrací z posmrtného života, aby se
+  pomstili za křivdy, které se jim staly za života. Jsou to mocné a zlé nadpřirozené
+  bytosti, které mohou způsobit vážné škody a neštěstí těm, kteří je rozzlobí nebo
+  je nechají bez řádného pohřbu.
 importance: 4
 layout: tech_news_article
 original_title: 'Poll: What Are Your First Impressions of Ghost of Yotei on PS5? -
@@ -21,7 +21,7 @@ url: https://www.pushsquare.com/features/poll-what-are-your-first-impressions-of
 urlToImage: https://images.pushsquare.com/76450436f2a30/large.jpg
 ---
 
-Onryo je japonský termín pro zlého ducha nebo zlovolnou duši, která se vrací z posmrtného života, aby se pomstila těm, kteří ji zranili nebo jí ublížili, zatímco byla naživu. Onryové jsou často zobrazováni jako bledé, vlasaté ženské postavy, které se zjevují v bílém kimonu a mají děsivý výraz. Jsou považováni za velmi mocné a nebezpečné nadpřirozené entity v japonské mytologii a folklóru.
+Onryo je japonský termín pro ducha pomsty, který se objevuje v japonském folklóru a hororu. Onryo jsou duchové, kteří se vrací z posmrtného života, aby se pomstili za křivdy, které se jim staly za života. Jsou to mocné a zlé nadpřirozené bytosti, které mohou způsobit vážné škody a neštěstí těm, kteří je rozzlobí nebo je nechají bez řádného pohřbu.
 
 [Číst původní článek](https://www.pushsquare.com/features/poll-what-are-your-first-impressions-of-ghost-of-yotei-on-ps5)
 

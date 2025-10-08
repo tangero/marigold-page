@@ -15,8 +15,7 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Společnost Amazon snížila ceny svých repasovaných PS5 Pro na pouhých 620 USD
-  během Prime Day akce
+title: Amazonu poklesly ceny renovovaných PS5 Pro na pouhých $620 pro Prime Day
 url: https://www.ign.com/articles/amazon-ps5-pro-refurb-october-prime-day-2025
 urlToImage: https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
