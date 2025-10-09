@@ -12,8 +12,8 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Společnost Nintendo se plně ponořila do stylu studia Pixar ve svém novém animovaném
-  krátkém filmu 'Close To You
+title: Společnost Nintendo se vydává cestou Pixaru ve svém novém animovaném krátkém
+  filmu 'Close To You
 url: https://www.nintendolife.com/news/2025/10/nintendo-goes-full-pixar-in-strange-new-animated-short-film-close-to-you
 urlToImage: https://images.nintendolife.com/f4ced84cc1bd3/large.jpg
 ---

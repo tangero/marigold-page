@@ -13,7 +13,8 @@ source:
   emoji: 📰
   id: null
   name: ScienceAlert
-title: 'Průlom v neočekávaném vypadávání vlasů: Cukrový gel stimuluje silný růst vlasů'
+title: 'Překvapivý průlom v léčbě vypadávání vlasů: Cukrový gel stimuluje silný růst
+  vlasů'
 url: https://www.sciencealert.com/surprise-hair-loss-breakthrough-a-sugar-gel-sparks-robust-regrowth
 urlToImage: https://www.sciencealert.com/images/2024/07/HopefulManWithNoHair.jpg
 ---

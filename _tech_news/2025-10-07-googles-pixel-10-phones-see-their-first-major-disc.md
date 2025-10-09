@@ -15,7 +15,7 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: Pixel 10 telefony Googlu mají první velkou slevu na Prime Day
+title: Nové telefony Google Pixel 10 poprvé výrazně zlevněny na Prime Day
 url: https://www.wired.com/story/google-pixel-10-sale-amazon-prime-big-deal-days-october-2025/
 urlToImage: https://media.wired.com/photos/68aea51fcb3116c38839e107/191:100/w_1280,c_limit/Google%20Pixel%2010%20Pro%20and%20Pixel%2010%20Pro%20XL%20SOURCE%20Julian%20Chokkattu.png
 ---

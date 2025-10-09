@@ -1,10 +1,10 @@
 ---
-category: mobilní aktualizace
+category: aktualizace softwaru
 companies:
 - Samsung
 date: '2025-10-07 13:20:00'
-description: Samsung One UI 8 s Androidem 16 se již nějakou dobu šíří rychleji, než
-  se očekávalo, a...
+description: Samsung One UI 8 s Android 16 je již nějakou dobu výrazně před harmonogramem
+  a...
 importance: 3
 layout: tech_news_article
 original_title: Samsung continues speedy One UI 8 rollout to more Galaxy devices -
@@ -21,7 +21,7 @@ url: http://9to5google.com/2025/10/07/samsung-continues-speedy-one-ui-8-rollout-
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/08/galaxy-z-fold-4-hardware-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Samsung One UI 8 s Androidem 16 se již nějakou dobu šíří rychleji, než se očekávalo, a...
+Samsung One UI 8 s Android 16 je již nějakou dobu výrazně před harmonogramem a...
 
 [Číst původní článek](http://9to5google.com/2025/10/07/samsung-continues-speedy-one-ui-8-rollout-to-more-galaxy-devices/)
 

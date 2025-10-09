@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: 'Predátor přichází do Call of Duty: Black Ops 6 a Warzone - ale fanoušci by
+title: 'Predátor přichází do Call of Duty: Black Ops 6 a Warzone — ale fanoušci by
   si přáli, aby ho mohli přenést do Black Ops 7'
 url: https://www.ign.com/articles/the-predator-is-coming-to-call-of-duty-black-ops-6-and-warzone-but-fans-wish-they-could-carry-him-forward-into-black-ops-7
 urlToImage: https://assets-prd.ignimgs.com/2025/10/07/predator-1759850071467.jpg?width=1280&format=jpg&auto=webp&quality=80

@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Úložiště UFS 5.0 slibuje být dvakrát rychlejší kvůli AI, což by mohlo přilákat
-  Google Pixel
+title: Úložiště UFS 5.0 slibuje být dvakrát rychlejší pro potřeby AI, což by mohlo
+  přilákat Google Pixel
 url: http://9to5google.com/2025/10/07/ufs-5-0-speed-improvement/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Pro-XL-in-Moonstone-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

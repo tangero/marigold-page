@@ -12,8 +12,8 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Nová mapa a prodloužené beta testování pro Black Ops 7, zatímco Battlefield
-  6 se blíží
+title: Nová mapa a prodloužené beta testování Black Ops 7 před vydáním Battlefieldu
+  6
 url: https://kotaku.com/black-ops-7-extends-beta-battlefield-6-release-date-2000632432
 urlToImage: https://kotaku.com/app/uploads/2025/10/toshin2-1200x675.jpg
 ---
