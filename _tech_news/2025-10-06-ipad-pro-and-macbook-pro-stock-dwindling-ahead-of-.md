@@ -3,8 +3,8 @@ category: hardwarové novinky
 companies:
 - Apple
 date: '2025-10-06 22:17:00'
-description: Apple se všeobecně očekává, že tento měsíc oznámí nové iPady a Macy,
-  a tato oznámení by mohla přijít spíše dříve než později.
+description: Apple se očekává, že v tomto měsíci oznámí nové iPady a Macy, přičemž
+  tato oznámení by mohla přijít spíše dříve než později.
 importance: 4
 layout: tech_news_article
 original_title: iPad Pro and MacBook Pro stock dwindling ahead of upcoming refresh
@@ -15,12 +15,12 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Zásoby iPadu Pro a MacBooku Pro klesají před blížící se aktualizací
+title: Klesající zásoba iPad Pro a MacBook Pro před blížící se aktualizací
 url: https://9to5mac.com/2025/10/06/ipad-pro-and-macbook-pro-stock-dwindling-ahead-of-upcoming-refresh/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/iPhone-17-event-scheduled-for-September-9-according-to-carrier-documents.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Apple se všeobecně očekává, že tento měsíc oznámí nové iPady a Macy, a tato oznámení by mohla přijít spíše dříve než později.
+Apple se očekává, že v tomto měsíci oznámí nové iPady a Macy, přičemž tato oznámení by mohla přijít spíše dříve než později.
 
 [Číst původní článek](https://9to5mac.com/2025/10/06/ipad-pro-and-macbook-pro-stock-dwindling-ahead-of-upcoming-refresh/)
 
