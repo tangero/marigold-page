@@ -1,7 +1,5 @@
 ---
 category: herní průmysl
-companies:
-- Nintendo
 date: '2025-10-08 01:35:00'
 description: 'Legends: Z-A bude dostupná také na Nintendo Switch.'
 importance: 4
