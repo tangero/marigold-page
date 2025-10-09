@@ -3,8 +3,8 @@ category: chytré domácnosti
 companies:
 - Google
 date: '2025-10-07 14:20:00'
-description: Po několika zaváháních Google říká, že chce "znovu získat vaši důvěru"
-  v souvislosti s Google Home, Nest a Gemini.
+description: Po několika chybách Google říká, že chce "znovu získat vaši důvěru" v
+  souvislosti s Google Home, Nest a Gemini.
 importance: 3
 layout: tech_news_article
 original_title: Google is ‘committed to earning back your trust’ with Nest, Home,
@@ -21,7 +21,7 @@ url: http://9to5google.com/2025/10/07/google-home-nest-earn-trust/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Po několika zaváháních Google říká, že chce "znovu získat vaši důvěru" v souvislosti s Google Home, Nest a Gemini.
+Po několika chybách Google říká, že chce "znovu získat vaši důvěru" v souvislosti s Google Home, Nest a Gemini.
 
 [Číst původní článek](http://9to5google.com/2025/10/07/google-home-nest-earn-trust/)
 

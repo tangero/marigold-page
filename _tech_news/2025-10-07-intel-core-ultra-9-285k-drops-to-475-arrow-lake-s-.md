@@ -1,14 +1,12 @@
 ---
-category: hardwarové ceny
+category: hardwarové slevy
 companies:
 - Intel
 date: '2025-10-07 14:17:00'
-description: 'Intel Core Ultra 200 Série procesorů klesá na nová minima, až 200 USD
-  sleva během podzimních výprodejů
-
-  Desktopová řada Intel Arrow Lake-S zaznamenává některé z nejlepších slev od svého
-  uvedení na trh. Core Ultra 9 285K, Ultra 7 265K a Ultra 5 245K jsou všechny k dispozici
-  za výrazně nižší ceny.'
+description: Intel Core Ultra 200 Série CPU klesají na nová minima, až 200 USD sleva
+  během podzimních výprodejů. Desktopová řada Intel Arrow Lake-S zaznamenává některé
+  z nejlepších slev od svého uvedení na trh. Core Ultra 9 285K, Ultra 7 265K a Ultra
+  5 245K jsou všechny k dispozici za výrazně nižší ceny.
 importance: 4
 layout: tech_news_article
 original_title: Intel Core Ultra 9 285K drops to $475, Arrow Lake-S CPUs now up to
@@ -25,8 +23,7 @@ url: https://videocardz.com/newz/intel-core-ultra-9-285k-drops-to-475-arrow-lake
 urlToImage: https://cdn.videocardz.com/1/2025/10/INTEL-CORE-200-HERO-SALES.jpg
 ---
 
-Intel Core Ultra 200 Série procesorů klesá na nová minima, až 200 USD sleva během podzimních výprodejů
-Desktopová řada Intel Arrow Lake-S zaznamenává některé z nejlepších slev od svého uvedení na trh. Core Ultra 9 285K, Ultra 7 265K a Ultra 5 245K jsou všechny k dispozici za výrazně nižší ceny.
+Intel Core Ultra 200 Série CPU klesají na nová minima, až 200 USD sleva během podzimních výprodejů. Desktopová řada Intel Arrow Lake-S zaznamenává některé z nejlepších slev od svého uvedení na trh. Core Ultra 9 285K, Ultra 7 265K a Ultra 5 245K jsou všechny k dispozici za výrazně nižší ceny.
 
 [Číst původní článek](https://videocardz.com/newz/intel-core-ultra-9-285k-drops-to-475-arrow-lake-s-cpus-now-up-to-39-below-launch-prices)
 

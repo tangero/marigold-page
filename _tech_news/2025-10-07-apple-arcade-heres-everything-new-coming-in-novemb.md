@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Apple
 date: '2025-10-07 14:26:00'
-description: Apple Arcade oznámil čtyři nové tituly, které budou k dispozici na herní
+description: Apple Arcade oznámil čtyři nové tituly, které budou dostupné na herní
   službě v listopadu.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://9to5mac.com/2025/10/07/apple-arcade-heres-everything-new-coming-in-
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-arcade.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Apple Arcade oznámil čtyři nové tituly, které budou k dispozici na herní službě v listopadu.
+Apple Arcade oznámil čtyři nové tituly, které budou dostupné na herní službě v listopadu.
 
 [Číst původní článek](https://9to5mac.com/2025/10/07/apple-arcade-heres-everything-new-coming-in-november/)
 

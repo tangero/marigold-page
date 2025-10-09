@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: the-washington-post
   name: The Washington Post
-title: Nejnovější televizory jsou miniaturní, staré a v kuchyni
+title: Nejnovější televizory jsou malé, staré a v kuchyni
 url: https://www.washingtonpost.com/home/2025/10/07/kitchen-tv-makes-a-comeback/
 urlToImage: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3T7WVPLENRDVNKYZD5SVEMF2UE.jpg&w=1440
 ---

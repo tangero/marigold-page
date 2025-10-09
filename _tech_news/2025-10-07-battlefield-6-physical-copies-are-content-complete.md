@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-07 09:15:57'
-description: Battlefield 6 fyzické kopie jsou kompletní soubory a nevyžadují žádnou
-  počáteční instalaci, podle držitelů raných kopií.
+description: Fyzické kopie Battlefieldu 6 jsou kompletní a nevyžadují žádnou počáteční
+  instalaci, podle držitelů předběžných kopií.
 importance: 3
 layout: tech_news_article
 original_title: Battlefield 6 physical copies are content complete and require no
@@ -19,7 +19,7 @@ url: https://www.eurogamer.net/battlefield-6-physical-copies-are-content-complet
 urlToImage: https://assetsio.gnwcdn.com/Battlefield-6-Official-Reveal-Trailer-0-12-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Battlefield 6 fyzické kopie jsou kompletní soubory a nevyžadují žádnou počáteční instalaci, podle držitelů raných kopií.
+Fyzické kopie Battlefieldu 6 jsou kompletní a nevyžadují žádnou počáteční instalaci, podle držitelů předběžných kopií.
 
 [Číst původní článek](https://www.eurogamer.net/battlefield-6-physical-copies-are-content-complete-and-require-no-initial-install-according-to-early-copy-holders)
 

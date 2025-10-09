@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Hvězdy 'Lovců démonů K-popu' nyní streamují Fortnite
+title: Hvězdy KPop Demon Hunters hrají nyní Fortnite na streamu
 url: https://kotaku.com/kpop-demon-hunters-fortnite-rei-ami-stream-zoey-rumi-2000632536
 urlToImage: https://kotaku.com/app/uploads/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22-1-1200x675.jpg
 ---
