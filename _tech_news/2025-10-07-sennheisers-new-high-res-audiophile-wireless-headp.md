@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: What Hi-Fi? US
-title: Nová vysokorozlišovací audiophilní bezdrátová sluchátka Sennheiser mají nabídnout
-  to nejlepší z obou světů
+title: Nová bezdrátová sluchátka pro audiofilské posluchače vysokého rozlišení od
+  Sennheiseru chtějí nabídnout to nejlepší z obou světů
 url: https://www.whathifi.com/headphones/wireless-headphones/sennheisers-new-high-res-audiophile-wireless-headphones-want-to-give-you-the-best-of-both-worlds
 urlToImage: https://cdn.mos.cms.futurecdn.net/dtv8tW5dJcs5AYi6arhAP-1318-80.png
 ---

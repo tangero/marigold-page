@@ -2,8 +2,8 @@
 category: herní průmysl
 date: '2025-10-07 12:51:55'
 description: Fáze předběžného přístupu 2XKO je naplánována na pozdější část dnešního
-  dne. Na rozdíl od uzavřené bety bude 2XKO dostupné pro každého (pokud mají PC schopné
-  spustit hru). Dva noví hratelní hrdinové jsou ...
+  dne. Na rozdíl od uzavřené bety bude 2XKO dostupné pro všechny (pokud mají PC schopné
+  spustit hru). Dva noví hratelní hrdinové jsou...
 importance: 4
 layout: tech_news_article
 original_title: Here's exactly when you'll be able to play the 2XKO early access later
@@ -19,7 +19,7 @@ url: https://www.eventhubs.com/news/2025/oct/07/2xko-early-access-playable-sched
 urlToImage: https://media.eventhubs.com/images/2025/10/07_timing-2xko-bnrt.webp
 ---
 
-Fáze předběžného přístupu 2XKO je naplánována na pozdější část dnešního dne. Na rozdíl od uzavřené bety bude 2XKO dostupné pro každého (pokud mají PC schopné spustit hru). Dva noví hratelní hrdinové jsou ...
+Fáze předběžného přístupu 2XKO je naplánována na pozdější část dnešního dne. Na rozdíl od uzavřené bety bude 2XKO dostupné pro všechny (pokud mají PC schopné spustit hru). Dva noví hratelní hrdinové jsou...
 
 [Číst původní článek](https://www.eventhubs.com/news/2025/oct/07/2xko-early-access-playable-schedule/)
 
