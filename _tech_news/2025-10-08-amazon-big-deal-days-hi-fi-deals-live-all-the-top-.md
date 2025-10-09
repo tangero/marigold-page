@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: What Hi-Fi? US
-title: 'Velké dny nabídek Amazon hi-fi: všechny top úspory na sluchátka, vinyl a reproduktory
+title: 'Velké dny akce Amazon hi-fi: všechny top úspory na sluchátka, vinyl a reproduktory
   vybrané našimi experty - What Hi-Fi?'
 url: https://www.whathifi.com/hi-fi/live/amazon-big-deal-days-hi-fi-deals-live-all-the-top-headphone-vinyl-and-speaker-savings-picked-by-our-experts
 urlToImage: https://cdn.mos.cms.futurecdn.net/j5WR7ijgzzMZZXHkLGTsuR-1674-80.jpg

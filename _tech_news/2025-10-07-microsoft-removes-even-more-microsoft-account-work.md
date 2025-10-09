@@ -3,8 +3,8 @@ category: operační systémy
 companies:
 - Microsoft
 date: '2025-10-07 19:47:19'
-description: Microsoft uzamkl dobře zdokumentované obejití v nedávných testovacích
-  sestavách.
+description: Microsoft uzamkl dobře zdokumentované obcházení v nedávných testovacích
+  verzích.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft removes even more Microsoft account workarounds from Windows
@@ -22,7 +22,7 @@ url: https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microso
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-listing.jpeg
 ---
 
-Microsoft uzamkl dobře zdokumentované obejití v nedávných testovacích sestavách.
+Microsoft uzamkl dobře zdokumentované obcházení v nedávných testovacích verzích.
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/)
 

@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-07 15:20:50'
-description: Nové uniknuté informace o Bungie's Marathon zahrnují cenu, edice, season
-  pass a očekávaný počet zbraní při spuštění.
+description: Nové uniknuté podrobnosti o Bungie's Marathon zahrnují informace o ceně,
+  edicích, season passu a očekávaném počtu zbraní při spuštění.
 importance: 4
 layout: tech_news_article
 original_title: New Leak Reveals Marathon's Pricing Details, Deluxe Edition, Season
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Thegamepost.com
-title: Nový únik odhaluje cenové údaje, edici Deluxe, sezónní průchod, předobjednávkové
-  bonusy a zbraně při spuštění hry Marathon - The Game Post
+title: Nový únik odhaluje cenové podrobnosti Marathonu, edici Deluxe, sezónní propustku,
+  předobjednávkové bonusy a zbraně při vydání
 url: https://thegamepost.com/leak-marathons-base-price-deluxe-edition-season-pass-weapons/
 urlToImage: https://thegamepost.com/wp-content/uploads/2025/10/leak-marathons-base-price-deluxe-edition-season-pass-weapon-3.webp
 ---
 
-Nové uniknuté informace o Bungie's Marathon zahrnují cenu, edice, season pass a očekávaný počet zbraní při spuštění.
+Nové uniknuté podrobnosti o Bungie's Marathon zahrnují informace o ceně, edicích, season passu a očekávaném počtu zbraní při spuštění.
 
 [Číst původní článek](https://thegamepost.com/leak-marathons-base-price-deluxe-edition-season-pass-weapons/)
 

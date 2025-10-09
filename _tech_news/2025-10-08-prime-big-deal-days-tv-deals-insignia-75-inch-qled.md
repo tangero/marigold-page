@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: 'Hlavní dny velkých nabídek TV: Insignia 75palcová QLED za 399,99 USD'
+title: 'Velké dny akce Prime TV: Insignia 75palcový QLED za $399,99'
 url: https://mashable.com/article/best-oct-prime-day-tv-deals-2025-day-2
 urlToImage: https://helios-i.mashable.com/imagery/articles/02LecI5KDAj7iWmw5206JGR/hero-image.fill.size_1200x675.v1759904306.png
 ---

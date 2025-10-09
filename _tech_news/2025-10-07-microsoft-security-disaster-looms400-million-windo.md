@@ -16,7 +16,7 @@ source:
   emoji: 💼
   id: null
   name: Forbes
-title: Hrozící bezpečnostní katastrofa Microsoftu - 400 milionů uživatelů Windows
+title: Hrozící 'bezpečnostní katastrofa' Microsoftu - 400 milionů uživatelů Windows
   musí jednat
 url: https://www.forbes.com/sites/zakdoffman/2025/10/07/microsoft-security-disaster-400-million-windows-pcs-now-at-risk/
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
