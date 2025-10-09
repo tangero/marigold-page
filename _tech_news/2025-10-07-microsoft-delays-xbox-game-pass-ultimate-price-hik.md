@@ -3,8 +3,8 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-07 17:22:04'
-description: Microsoft vrací zpět zvýšení ceny předplatného Xbox Game Pass Ultimate
-  pro některé uživatele. Toto rozhodnutí přichází méně než týden po 50% navýšení ceny.
+description: Microsoft ruší zvýšení ceny své služby Xbox Game Pass Ultimate pro některé
+  uživatele. Toto rozhodnutí přichází méně než týden po 50% zvýšení ceny.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers
@@ -23,7 +23,7 @@ url: https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-pric
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200
 ---
 
-Microsoft vrací zpět zvýšení ceny předplatného Xbox Game Pass Ultimate pro některé uživatele. Toto rozhodnutí přichází méně než týden po 50% navýšení ceny.
+Microsoft ruší zvýšení ceny své služby Xbox Game Pass Ultimate pro některé uživatele. Toto rozhodnutí přichází méně než týden po 50% zvýšení ceny.
 
 [Číst původní článek](https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries)
 

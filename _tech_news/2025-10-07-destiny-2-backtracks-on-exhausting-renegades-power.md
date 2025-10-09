@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Bungie
 date: '2025-10-07 12:58:37'
-description: 'Bungie rozhodl, že hráči měli pravdu a neměl by resetovat řadu grindu
+description: 'Bungie oznámil, že hráči měli pravdu a neměli by resetovat řadu grindu
   pro Destiny 2: Renegades.'
 importance: 3
 layout: tech_news_article
@@ -14,12 +14,12 @@ source:
   emoji: 💼
   id: null
   name: Forbes
-title: Destiny 2 se vrací od vyčerpávajícího shánění moci renegátů
+title: Destiny 2 se vrací od vyčerpávajícího shánění síly renegátů
 url: https://www.forbes.com/sites/paultassi/2025/10/07/destiny-2-backtracks-on-exhausting-renegades-power-grind/
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/68e50d76314548126c733b2b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
 ---
 
-Bungie rozhodl, že hráči měli pravdu a neměl by resetovat řadu grindu pro Destiny 2: Renegades.
+Bungie oznámil, že hráči měli pravdu a neměli by resetovat řadu grindu pro Destiny 2: Renegades.
 
 [Číst původní článek](https://www.forbes.com/sites/paultassi/2025/10/07/destiny-2-backtracks-on-exhausting-renegades-power-grind/)
 

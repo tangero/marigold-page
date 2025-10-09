@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-07 15:00:52'
-description: Od vydání v roce 2025 po kandidáty na Hru roku z loňska, nejlepší nabídky
+description: Od novinek z roku 2025 po hry roku z loňského roku, nejlepší nabídky
   Amazon Prime Day přinášejí úspory až 81%.
 importance: 4
 layout: tech_news_article
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Všechny Xbox hry zahrnuté v nové akci Amazon Prime Big Deal Days
+title: Každá hra Xbox zahrnutá v nové velké akci Prime Big Deal Days na Amazonu
 url: https://www.ign.com/articles/best-xbox-deals-october-prime-day-2025
 urlToImage: https://assets-prd.ignimgs.com/2025/10/07/xbox-prime-deals-1759838300028.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Od vydání v roce 2025 po kandidáty na Hru roku z loňska, nejlepší nabídky Amazon Prime Day přinášejí úspory až 81%.
+Od novinek z roku 2025 po hry roku z loňského roku, nejlepší nabídky Amazon Prime Day přinášejí úspory až 81%.
 
 [Číst původní článek](https://www.ign.com/articles/best-xbox-deals-october-prime-day-2025)
 

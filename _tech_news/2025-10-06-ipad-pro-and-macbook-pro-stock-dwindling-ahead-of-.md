@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Klesající zásoba iPadů Pro a MacBooků Pro před nadcházející aktualizací
+title: Klesající zásoba iPad Pro a MacBook Pro před blížící se aktualizací
 url: https://9to5mac.com/2025/10/06/ipad-pro-and-macbook-pro-stock-dwindling-ahead-of-upcoming-refresh/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/iPhone-17-event-scheduled-for-September-9-according-to-carrier-documents.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

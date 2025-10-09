@@ -1,5 +1,5 @@
 ---
-category: čtečky knih
+category: čtečky e-knih
 companies:
 - Amazon
 date: '2025-10-07 19:56:11'

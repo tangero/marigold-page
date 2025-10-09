@@ -1,10 +1,8 @@
 ---
 category: bezdrátová sluchátka
 date: '2025-10-07 15:21:09'
-description: Tyto sluchátka jsou nyní se slevou z $119,99 na $34,99. Nabízejí ovládání
-  pomocí Alexy, aktivní potlačení okolního hluku (ANC), bezproblémové přepínání mezi
-  zařízeními a IPX4 odolnost proti potu. Tyto vlastnosti z nich dělají velmi atraktivní
-  nabídku.
+description: Díky slevě z $119.99 na $34.99, s ovládáním Alexou, ANC, bezproblémovým
+  přepínáním a IPX4 odolností proti potu, přál bych si, abych si je mohl koupit.
 importance: 4
 layout: tech_news_article
 original_title: Forget AirPods, this competitor's 71% discount would convince me to
@@ -16,12 +14,12 @@ source:
   id: null
   name: Cyclingnews.com
 title: Zapomeňte na AirPody, 71% sleva tohoto konkurenta by mě přesvědčila ke změně
-  pro mé jízdy na trenažéru
+  pro mé jízdy v interiéru
 url: https://www.cyclingnews.com/news/forget-airpods-this-competitors-71-percent-discount-would-convince-me-to-switch-for-my-indoor-rides/
 urlToImage: https://cdn.mos.cms.futurecdn.net/Xvnx6YDNeXCDDEbgJRpCPV-2048-80.jpg
 ---
 
-Tyto sluchátka jsou nyní se slevou z $119,99 na $34,99. Nabízejí ovládání pomocí Alexy, aktivní potlačení okolního hluku (ANC), bezproblémové přepínání mezi zařízeními a IPX4 odolnost proti potu. Tyto vlastnosti z nich dělají velmi atraktivní nabídku.
+Díky slevě z $119.99 na $34.99, s ovládáním Alexou, ANC, bezproblémovým přepínáním a IPX4 odolností proti potu, přál bych si, abych si je mohl koupit.
 
 [Číst původní článek](https://www.cyclingnews.com/news/forget-airpods-this-competitors-71-percent-discount-would-convince-me-to-switch-for-my-indoor-rides/)
 
