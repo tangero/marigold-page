@@ -22,7 +22,7 @@ Společnost Google rozšířila funkcionalitu svého nástroje Gemini CLI o syst
 
 ![Gemini CLI extensions hero image](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiCLI_Expand_Hero.width-200.format-webp.webp)
 
-Gemini CLI je opensourcový agenturní nástroj pro terminál, který přináší možnosti modelu Gemini přímo do vývojového prostředí. Pracuje s modelem Gemini 2.5 Pro s kontextovým oknem jednoho milionu tokenů a nabízí bezplatný přístup s limitem 60 požadavků za minutu a tisíc požadavků denně. Nástroj spustila společnost Google v červnu tohoto roku jako konkurenci Claude Code od Anthropic a dalším agenturním programovacím nástrojům.
+Gemini CLI je opensourcový agentní nástroj pro terminál, který přináší možnosti modelu Gemini přímo do vývojového prostředí. Pracuje s modelem Gemini 2.5 Pro s kontextovým oknem jednoho milionu tokenů a nabízí bezplatný přístup s limitem 60 požadavků za minutu a tisíc požadavků denně. Nástroj spustila společnost Google v červnu tohoto roku jako konkurenci Claude Code od Anthropic a dalším agentním programovacím nástrojům.
 
 ## Architektura a komponenty rozšíření
 
@@ -30,7 +30,7 @@ Rozšíření pro Gemini CLI představují předpřipravené integrace, které p
 
 Technicky vzato rozšíření balí několik typů komponent do jednotné struktury. První komponentou jsou servery MCP neboli Model Context Protocol, které zajišťují připojení k externím nástrojům a službám. Protokol MCP vytváří jednotné rozhraní mezi modelem a různými zdroji dat či funkcionalitou.
 
-Druhou komponentou jsou kontextové soubory, typicky ve formátu GEMINI.md nebo jiných uživatelských formátech. Tyto soubory poskytují modelovi specifické instrukce a pravidla pro práci s daným nástrojem. Google zde navázal na standard, který představila komunita vývojářů pracujících s agenturními nástroji.
+Druhou komponentou jsou kontextové soubory, typicky ve formátu GEMINI.md nebo jiných uživatelských formátech. Tyto soubory poskytují modelovi specifické instrukce a pravidla pro práci s daným nástrojem. Google zde navázal na standard, který představila komunita vývojářů pracujících s agentními nástroji.
 
 Třetí typ tvoří vyloučené nástroje neboli excluded tools. Tato funkce umožňuje zakázat vestavěné nástroje nebo nabídnout alternativní implementace. Poslední komponentou jsou vlastní příkazy neboli custom commands, které zapouzdřují složité prompty do jednoduchých příkazů začínajících lomítkem.
 
@@ -50,7 +50,7 @@ Návrhářská platforma [Figma](https://github.com/figma/figma-gemini-cli-exten
 
 Platforma [Harness](https://github.com/harness/mcp-server) pro kontinuální integraci a nasazení přináší možnost analyzovat data o provádění pipeline, odhalovat nákladové přehledy, detekovat vzory selhání a automaticky řešit problémy pro urychlení dodávky softwaru.
 
-[Postman](https://github.com/postmanlabs/postman-mcp-server/blob/main/gemini-extension.json), nástroj pro práci s API, umožňuje agenturním systémům přistupovat k pracovním prostorům, spravovat kolekce a prostředí, vyhodnocovat API a automatizovat pracovní postupy pomocí přirozeného jazyka.
+[Postman](https://github.com/postmanlabs/postman-mcp-server/blob/main/gemini-extension.json), nástroj pro práci s API, umožňuje agentním systémům přistupovat k pracovním prostorům, spravovat kolekce a prostředí, vyhodnocovat API a automatizovat pracovní postupy pomocí přirozeného jazyka.
 
 E-commerce platforma [Shopify](https://github.com/Shopify/dev-mcp-gemini-cli) propojuje vývojářský ekosystém s nástroji pro vyhledávání dokumentace, prozkoumávání API schémat a vytváření bezserverových funkcí pro Shopify.
 
@@ -86,7 +86,7 @@ Před spuštěním Gemini CLI je třeba nakonfigurovat rozšíření pro připoj
 
 ## Srovnání s Claude Code pluginy
 
-Systémy rozšíření pro Gemini CLI a Claude Code sdílejí společný cíl - umožnit vývojářům přizpůsobit si agenturní programovací nástroje. Oba systémy používají Model Context Protocol pro připojení k externím službám a oba nabízejí možnost vytvářet vlastní příkazy a integrovat externí nástroje.
+Systémy rozšíření pro Gemini CLI a Claude Code sdílejí společný cíl - umožnit vývojářům přizpůsobit si agentní programovací nástroje. Oba systémy používají Model Context Protocol pro připojení k externím službám a oba nabízejí možnost vytvářet vlastní příkazy a integrovat externí nástroje.
 
 Klíčový rozdíl spočívá v přístupu k publikování rozšíření. Google zvolil plně otevřený model, kde kdokoliv může publikovat rozšíření hostované na veřejných GitHub repozitářích bez čekání na schválení nebo zapojení společnosti Google. Uživatelé instalují rozšíření manuálně z GitHub URL nebo lokálních cest.
 
@@ -108,7 +108,7 @@ Komunita kolem obou nástrojů vytváří vlastní rozšíření. Pro Claude Cod
 
 ## Strategické pozadí a konkurence
 
-Spuštění systému rozšíření pro Gemini CLI přichází v době, kdy agenturní programovací nástroje získávají na významu. Dva dny před oznámením Google představil OpenAI funkci ChatGPT apps s podobným propojením na služby třetích stran. Google však zvolil diametrálně odlišný přístup než kurátorovaný model OpenAI.
+Spuštění systému rozšíření pro Gemini CLI přichází v době, kdy agentní programovací nástroje získávají na významu. Dva dny před oznámením Google představil OpenAI funkci ChatGPT apps s podobným propojením na služby třetích stran. Google však zvolil diametrálně odlišný přístup než kurátorovaný model OpenAI.
 
 Podle Ryan J. Salvy, senior ředitele produktového managementu pro vývojářské nástroje Google, představuje funkce rozšíření transformační změnu. Google sám intenzivně používá Gemini CLI pro vytváření a údržbu tohoto nástroje, přičemž produktoví manažeři pečlivě sledují vývoj.
 
