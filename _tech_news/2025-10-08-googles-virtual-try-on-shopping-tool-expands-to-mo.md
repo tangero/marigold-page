@@ -1,10 +1,10 @@
 ---
-category: virtuální móda
+category: virtuální nákup
 companies:
 - Google
 date: '2025-10-08 14:49:01'
 description: Aby si uživatelé mohli virtuálně vyzkoušet pár bot, musí klepnout na
-  libovolný produktový listing na Google, vybrat tlačítko "vyzkoušet" a přidat si
+  libovolný produktový listing na Google, vybrat tlačítko "try it on" a přidat si
   vlastní celotělovou fotografii.
 importance: 3
 layout: tech_news_article
@@ -16,13 +16,13 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Virtuální zkušební nástroj pro nákupy od Googlu se rozšiřuje do dalších zemí,
-  nyní umožňuje vyzkoušet si i boty
+title: Rozšíření virtuálního vyzkoušení nákupního nástroje Google do více zemí, nyní
+  umožňuje vyzkoušení bot
 url: https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1477195126.jpg?resize=1200,857
 ---
 
-Aby si uživatelé mohli virtuálně vyzkoušet pár bot, musí klepnout na libovolný produktový listing na Google, vybrat tlačítko "vyzkoušet" a přidat si vlastní celotělovou fotografii.
+Aby si uživatelé mohli virtuálně vyzkoušet pár bot, musí klepnout na libovolný produktový listing na Google, vybrat tlačítko "try it on" a přidat si vlastní celotělovou fotografii.
 
 [Číst původní článek](https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/)
 

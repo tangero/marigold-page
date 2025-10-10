@@ -1,11 +1,10 @@
 ---
-category: chytré hodinky
+category: mobilní technologie
 companies:
 - Google
 date: '2025-10-08 17:00:07'
-description: Poté, co v létě vydala trio smartphonů Pixel 10, je společnost Alphabet
-  Inc., mateřská společnost Googlu, zpět s dalšími modely ze své řady Pixel pro rok
-  2025.
+description: Po vydání trojice smartphonů Pixel 10 v létě představuje společnost Alphabet
+  Inc., mateřská společnost Googlu, zbytek své modelové řady Pixel pro rok 2025.
 importance: 4
 layout: tech_news_article
 original_title: Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware
@@ -22,7 +21,7 @@ url: https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW5T4Uyqrd_g/v1/1200x800.jpg
 ---
 
-Poté, co v létě vydala trio smartphonů Pixel 10, je společnost Alphabet Inc., mateřská společnost Googlu, zpět s dalšími modely ze své řady Pixel pro rok 2025.
+Po vydání trojice smartphonů Pixel 10 v létě představuje společnost Alphabet Inc., mateřská společnost Googlu, zbytek své modelové řady Pixel pro rok 2025.
 
 [Číst původní článek](https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold-pixel-watch-4-review-new-ai-tricks-familiar-designs)
 

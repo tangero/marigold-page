@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Dexerto
-title: Všechny posily a oslabení v Black Ops 6 a Warzone Sezóna 6
+title: Všechny vylepšení a oslabení v Black Ops 6 a Warzone Sezóna 6
 url: https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/08/All-buffs-and-nerfs-in-Black-Ops-6-Warzone-Season-6.jpg
 ---

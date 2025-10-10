@@ -15,8 +15,7 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Očekávaný iPhone s ohebným displejem od Applu v roce 2026 má využívat rám z
-  titanu a hliníku
+title: Očekávaný skládací iPhone od Applu v roce 2026 má používat rám z titanu a hliníku
 url: https://www.macrumors.com/2025/10/08/foldable-iphone-titanium-aluminum-frame/
 urlToImage: https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg
 ---
