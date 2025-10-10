@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: usa-today
   name: USA Today
-title: Poslední šance na 5 Apple dohod, které si všichni kupují před koncem Prime
-  Day
+title: Pět posledních šancí na slevové nabídky Apple, které si všichni kupují před
+  koncem Prime Day
 url: https://www.usatoday.com/story/shopping/2025/10/08/best-selling-apple-deals-amazon-prime-day/86579535007/
 urlToImage: https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/08/USAT/86579945007-applenew.png?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp
 ---

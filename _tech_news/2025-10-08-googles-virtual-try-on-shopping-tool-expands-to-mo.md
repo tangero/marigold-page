@@ -16,8 +16,8 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Rozšíření virtuální zkušební aplikace Google na více zemí, nyní umožňuje vyzkoušení
-  bot
+title: Virtuální zkušební nástroj pro nákupy od Googlu se rozšiřuje do dalších zemí,
+  nyní umožňuje vyzkoušet si i boty
 url: https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1477195126.jpg?resize=1200,857
 ---

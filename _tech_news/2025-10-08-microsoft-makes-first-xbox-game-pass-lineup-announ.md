@@ -3,9 +3,9 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-08 14:37:30'
-description: Microsoft oznámil svůj první lineup her pro Xbox Game Pass od kontroverzního
+description: Microsoft oznámil svou první sestavu her pro Xbox Game Pass od kontroverzního
   rozhodnutí zvýšit cenu předplatného Ultimate. Podívejte se, co přichází do Game
-  Passu jako součást první vlny v říjnu 2025.
+  Pass jako součást první vlny v říjnu 2025.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft Makes First Xbox Game Pass Lineup Announcement Since Raising
@@ -16,13 +16,13 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Oznámení prvního seznamu her pro Xbox Game Pass od Microsoftu od zvýšení ceny
-  předplatného Ultimate
+title: Společnost Microsoft oznámila první sestavu her pro Xbox Game Pass od zvýšení
+  ceny předplatného Ultimate
 url: https://www.ign.com/articles/microsoft-makes-first-xbox-game-pass-lineup-announcement-since-raising-the-price-of-ultimate
 urlToImage: https://assets-prd.ignimgs.com/2025/10/08/xbox-blogroll-03-1-1759934400761.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Microsoft oznámil svůj první lineup her pro Xbox Game Pass od kontroverzního rozhodnutí zvýšit cenu předplatného Ultimate. Podívejte se, co přichází do Game Passu jako součást první vlny v říjnu 2025.
+Microsoft oznámil svou první sestavu her pro Xbox Game Pass od kontroverzního rozhodnutí zvýšit cenu předplatného Ultimate. Podívejte se, co přichází do Game Pass jako součást první vlny v říjnu 2025.
 
 [Číst původní článek](https://www.ign.com/articles/microsoft-makes-first-xbox-game-pass-lineup-announcement-since-raising-the-price-of-ultimate)
 
