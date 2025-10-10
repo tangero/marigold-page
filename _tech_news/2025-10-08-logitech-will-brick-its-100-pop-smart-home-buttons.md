@@ -3,8 +3,8 @@ category: chytrá domácnost
 companies:
 - Logitech
 date: '2025-10-08 17:47:39'
-description: Zájem společnosti Logitech o chytré domácnosti se v posledních letech
-  zdá upadat.
+description: Zdá se, že v posledních letech zájem společnosti Logitech o chytrou domácnost
+  upadá.
 importance: 3
 layout: tech_news_article
 original_title: Logitech will brick its $100 Pop smart home buttons on October 15
@@ -15,12 +15,13 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Logitech zablokuje své chytré domácí tlačítka Pop za 100 dolarů 15. října
+title: Logitech znehodnotí své chytré domácí tlačítka Pop v hodnotě 100 dolarů 15.
+  října
 url: https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/JPG_300_dpi_RGB-Pop_Family-1152x648-1759943765.jpg
 ---
 
-Zájem společnosti Logitech o chytré domácnosti se v posledních letech zdá upadat.
+Zdá se, že v posledních letech zájem společnosti Logitech o chytrou domácnost upadá.
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/)
 

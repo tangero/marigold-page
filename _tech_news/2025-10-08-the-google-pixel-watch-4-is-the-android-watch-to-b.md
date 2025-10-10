@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Chytré hodinky Google Pixel Watch 4 jsou nejlepší volbou pro Android
+title: Nový Google Pixel Watch 4 je Android hodinky, které musíte porazit
 url: https://www.theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0416.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

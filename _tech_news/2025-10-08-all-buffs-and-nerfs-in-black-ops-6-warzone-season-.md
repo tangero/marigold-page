@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-08 22:43:10'
 description: Aktualizace Black Ops 6 a Warzone Season 6 přináší změny v balancování,
-  které ovlivní meta hry. Zde jsou všechny zbraňové buffy a nerfy.
+  které ovlivní meta hry. Zde jsou všechny změny týkající se zbraní - buffs a nerfy.
 importance: 3
 layout: tech_news_article
 original_title: All buffs and nerfs in Black Ops 6 & Warzone Season 6 - Dexerto
@@ -12,12 +12,12 @@ source:
   emoji: 📰
   id: null
   name: Dexerto
-title: Všechny posily a oslabení v Black Ops 6 a Warzone Sezóna 6
+title: Všechny posily a oslabení v Black Ops 6 a Warzone Sezóně 6
 url: https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/08/All-buffs-and-nerfs-in-Black-Ops-6-Warzone-Season-6.jpg
 ---
 
-Aktualizace Black Ops 6 a Warzone Season 6 přináší změny v balancování, které ovlivní meta hry. Zde jsou všechny zbraňové buffy a nerfy.
+Aktualizace Black Ops 6 a Warzone Season 6 přináší změny v balancování, které ovlivní meta hry. Zde jsou všechny změny týkající se zbraní - buffs a nerfy.
 
 [Číst původní článek](https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/)
 

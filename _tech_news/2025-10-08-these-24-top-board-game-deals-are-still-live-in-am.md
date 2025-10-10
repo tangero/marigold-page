@@ -1,7 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-08 14:16:08'
-description: Během Amazon Prime Big Deal Days 2025 je mnoho deskových her v akci.
+description: Mnoho deskových her je na prodej v rámci Amazon's Prime Big Deal Days
+  sale 2025.
 importance: 3
 layout: tech_news_article
 original_title: These 24 Top Board Game Deals Are Still Live in Amazon’s October Prime
@@ -12,13 +13,13 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Těchto 24 top nabídek deskových her je stále aktivních v říjnovém Prime Day
-  2025 na Amazonu - IGN
+title: Tyto 24 nejlepší nabídky deskových her jsou stále aktivní v říjnovém Prime
+  Day 2025 na Amazonu
 url: https://www.ign.com/articles/board-game-deals-october-prime-day-2025
 urlToImage: https://assets-prd.ignimgs.com/2025/10/06/untitled-design-1759777584089.png?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Během Amazon Prime Big Deal Days 2025 je mnoho deskových her v akci.
+Mnoho deskových her je na prodej v rámci Amazon's Prime Big Deal Days sale 2025.
 
 [Číst původní článek](https://www.ign.com/articles/board-game-deals-october-prime-day-2025)
 

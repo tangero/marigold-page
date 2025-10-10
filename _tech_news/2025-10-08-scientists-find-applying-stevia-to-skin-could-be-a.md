@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Aplikace stévie na pokožku by mohla být novou zbraní proti plešatění
+title: Aplikace stevie na pokožku by mohla být novým prostředkem proti plešatění
 url: https://gizmodo.com/this-sweet-trick-could-make-hair-loss-treatments-rogaine-more-potent-2000668902
 urlToImage: https://gizmodo.com/app/uploads/2025/10/stevia-1200x675.jpg
 ---
