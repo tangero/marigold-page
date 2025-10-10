@@ -15,8 +15,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Logitech znehodnotí své chytré domácí tlačítka Pop v hodnotě 100 USD dne 15.
-  října
+title: Logitech zablokuje své chytré domácí tlačítka Pop za 100 dolarů 15. října
 url: https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/JPG_300_dpi_RGB-Pop_Family-1152x648-1759943765.jpg
 ---

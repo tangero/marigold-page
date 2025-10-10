@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Ubisoft
 date: '2025-10-08 23:49:31'
-description: Ubisoft údajně zrušil hru z Assassin's Creed o boji proti Ku-klux-klanu,
+description: Ubisoft prý zabil hru z Assassin's Creed o boji proti Ku-klux-klanu,
   protože byla příliš "politická".
 importance: 2
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://www.avclub.com/assassins-creed-canceled-reconstruction-clan-politic
 urlToImage: https://img.pastemagazine.com/wp-content/avuploads/2025/10/08193818/assassins-creed-feature.jpg
 ---
 
-Ubisoft údajně zrušil hru z Assassin's Creed o boji proti Ku-klux-klanu, protože byla příliš "politická".
+Ubisoft prý zabil hru z Assassin's Creed o boji proti Ku-klux-klanu, protože byla příliš "politická".
 
 [Číst původní článek](https://www.avclub.com/assassins-creed-canceled-reconstruction-clan-political)
 

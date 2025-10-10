@@ -15,6 +15,7 @@ source:
   id: null
   name: 9to5Mac
 title: Společnost Apple právě vydala novou firmware verzi pro AirPods Pro 3 a další
+  novinky
 url: https://9to5mac.com/2025/10/07/apple-just-released-new-airpods-pro-3-firmware-and-more/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

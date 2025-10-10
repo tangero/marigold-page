@@ -4,14 +4,12 @@ companies:
 - Google
 - Amazon
 date: '2025-10-08 16:00:00'
-description: Sliby ambientní inteligence se po letech falešných začátků konečně naplňují,
-  ale bude to stát za to?
+description: Po letech falešných startů se slib ambientní inteligence naplnil, ale
+  bude to stát za to?
 importance: 3
 layout: tech_news_article
 original_title: The problems with AI in the smart home and how Amazon and Google plan
   to fix them - The Verge
-people:
-- V článku nejsou zmíněny žádné významné osobnosti
 publishedAt: '2025-10-08T16:00:00+00:00'
 slug: the-problems-with-ai-in-the-smart-home-and-how-ama
 source:
@@ -23,7 +21,7 @@ url: https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258001_ai_smart_home_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Sliby ambientní inteligence se po letech falešných začátků konečně naplňují, ale bude to stát za to?
+Po letech falešných startů se slib ambientní inteligence naplnil, ale bude to stát za to?
 
 [Číst původní článek](https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home)
 

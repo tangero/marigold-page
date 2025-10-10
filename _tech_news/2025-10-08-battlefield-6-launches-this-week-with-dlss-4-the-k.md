@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - NVIDIA
 date: '2025-10-08 12:57:14'
-description: Little Nightmares III tuto týden startuje s DLSS 4 s Multi Frame Generation
+description: Little Nightmares III se tento týden spouští s DLSS 4 s Multi Frame Generation
   a ray tracingem. MAVRIX od Matta Jonese je nyní k dispozici s DLSS Frame Generation.
 importance: 4
 layout: tech_news_article
@@ -15,13 +15,14 @@ source:
   emoji: 📰
   id: null
   name: Nvidia.com
-title: Battlefield 6 se tento týden spouští s DLSS 4 & KPOP Demon Hunters přicházejí
-  do Fortnite - NVIDIA
+title: 'Battlefield 6 se tento týden spouští s DLSS 4
+
+  KPOP Demon Hunters přicházejí do Fortnite - NVIDIA'
 url: https://www.nvidia.com/en-us/geforce/news/battlefield-6-dlss-4-multi-frame-generation-nvidia-reflex/
 urlToImage: https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/battlefield-6-dlss-4-multi-frame-generation-nvidia-reflex/fortnite-kpop-demon-hunters-dlss-reflex-ray-tracing-ogimage.jpg
 ---
 
-Little Nightmares III tuto týden startuje s DLSS 4 s Multi Frame Generation a ray tracingem. MAVRIX od Matta Jonese je nyní k dispozici s DLSS Frame Generation.
+Little Nightmares III se tento týden spouští s DLSS 4 s Multi Frame Generation a ray tracingem. MAVRIX od Matta Jonese je nyní k dispozici s DLSS Frame Generation.
 
 [Číst původní článek](https://www.nvidia.com/en-us/geforce/news/battlefield-6-dlss-4-multi-frame-generation-nvidia-reflex/)
 

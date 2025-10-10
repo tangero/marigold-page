@@ -1,12 +1,12 @@
 ---
-category: počítačové komponent
+category: elektronika
 companies:
 - Apple
 date: '2025-10-08 08:38:34'
 description: Včera jsme představili slevy ve výši 200 USD, které se rozšířily na celou
-  řadu MacBooků Air M4. Tyto nabídky, včetně všech barev na 13- a 15palcových modelech,
-  jsou stále aktivní i druhý den Prime Big Deal Days, ale Amazon právě snížil cenu
-  15palcového modelu Sky Blue.
+  řadu MacBook Air M4. Tyto nabídky, včetně všech barev u 13" i 15" modelů, jsou stále
+  aktivní v rámci druhého dne Prime Big Deal Days, ale Amazon právě snížil cenu 15"
+  modelu Sky Blue.
 importance: 4
 layout: tech_news_article
 original_title: Prime Day delivers new all-time low on Sky Blue M4 MacBook Air at
@@ -17,13 +17,13 @@ source:
   emoji: 📰
   id: null
   name: 9to5Toys
-title: Letní výprodej přináší nový rekordně nízký cenový bod pro Sky Blue M4 MacBook
-  Air se slevou $245, ostatní modely stále se slevou $200
+title: Letní výprodej přináší nový historický nejnižší cenový bod pro Sky Blue M4
+  MacBook Air se slevou $245, ostatní modely stále se slevou $200
 url: http://9to5toys.com/2025/10/08/prime-day-sky-blue-m4-macbook-air/
 urlToImage: https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/03/M4-MacBook-Air-pre-order-deals-03.jpg?resize=1200%2C628&ssl=1
 ---
 
-Včera jsme představili slevy ve výši 200 USD, které se rozšířily na celou řadu MacBooků Air M4. Tyto nabídky, včetně všech barev na 13- a 15palcových modelech, jsou stále aktivní i druhý den Prime Big Deal Days, ale Amazon právě snížil cenu 15palcového modelu Sky Blue.
+Včera jsme představili slevy ve výši 200 USD, které se rozšířily na celou řadu MacBook Air M4. Tyto nabídky, včetně všech barev u 13" i 15" modelů, jsou stále aktivní v rámci druhého dne Prime Big Deal Days, ale Amazon právě snížil cenu 15" modelu Sky Blue.
 
 [Číst původní článek](http://9to5toys.com/2025/10/08/prime-day-sky-blue-m4-macbook-air/)
 

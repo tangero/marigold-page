@@ -2,7 +2,7 @@
 category: vlasová kosmetika
 date: '2025-10-08 13:45:54'
 description: Nový výzkum na myších naznačuje, že stevia může zvýšit účinnost minoxidilu,
-  aktivní složky v populárních přípravcích proti vypadávání vlasů jako je Rogaine.
+  aktivní složky v populárních přípravcích proti vypadávání vlasů jako Rogaine.
 importance: 4
 layout: tech_news_article
 original_title: Scientists Find Applying Stevia to Skin Could Be a New Weapon Against
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Aplikace stévie na pokožku by mohla být novou zbraní proti vypadávání vlasů
+title: Aplikace stévie na pokožku by mohla být novou zbraní proti plešatění
 url: https://gizmodo.com/this-sweet-trick-could-make-hair-loss-treatments-rogaine-more-potent-2000668902
 urlToImage: https://gizmodo.com/app/uploads/2025/10/stevia-1200x675.jpg
 ---
 
-Nový výzkum na myších naznačuje, že stevia může zvýšit účinnost minoxidilu, aktivní složky v populárních přípravcích proti vypadávání vlasů jako je Rogaine.
+Nový výzkum na myších naznačuje, že stevia může zvýšit účinnost minoxidilu, aktivní složky v populárních přípravcích proti vypadávání vlasů jako Rogaine.
 
 [Číst původní článek](https://gizmodo.com/this-sweet-trick-could-make-hair-loss-treatments-rogaine-more-potent-2000668902)
 

@@ -5,7 +5,8 @@ companies:
 date: '2025-10-07 18:51:09'
 description: Facebook představuje nová opatření, která mají uživatele přimět k delšímu
   scrollování Reels. Mezi tato opatření patří zvýšení viditelnosti Reels v hlavním
-  feedu a doporučování Reels na základě preferencí uživatelů.
+  feedu, doporučování Reels na základě uživatelských preferencí a další funkce, které
+  mají zvýšit zapojení uživatelů v této části platformy.
 importance: 4
 layout: tech_news_article
 original_title: Facebook Adds Topic Search Recommendations and Friend Likes To Reels
@@ -22,7 +23,7 @@ url: https://www.socialmediatoday.com/news/facebook-improves-reels-recommendatio
 urlToImage: https://imgproxy.divecdn.com/sbEfnuLy5KN66cww0Y8T2XugIztS885Q7QhJZ7gbAVY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9mcmllbmRfYnViYmxlczIucG5n.webp
 ---
 
-Facebook představuje nová opatření, která mají uživatele přimět k delšímu scrollování Reels. Mezi tato opatření patří zvýšení viditelnosti Reels v hlavním feedu a doporučování Reels na základě preferencí uživatelů.
+Facebook představuje nová opatření, která mají uživatele přimět k delšímu scrollování Reels. Mezi tato opatření patří zvýšení viditelnosti Reels v hlavním feedu, doporučování Reels na základě uživatelských preferencí a další funkce, které mají zvýšit zapojení uživatelů v této části platformy.
 
 [Číst původní článek](https://www.socialmediatoday.com/news/facebook-improves-reels-recommendations-friend-bubbles/802263/)
 
