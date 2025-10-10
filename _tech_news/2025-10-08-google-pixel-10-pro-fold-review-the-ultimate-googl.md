@@ -3,7 +3,7 @@ category: mobilní telefony
 companies:
 - Google
 date: '2025-10-08 17:00:11'
-description: Google představuje další telefon, který je o něco lepší než jeho předchůdce
+description: Google představuje další telefon, který je mírně lepší než jeho předchůdce
   - je to dostatečné?
 importance: 3
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://arstechnica.com/gadgets/2025/10/google-pixel-10-pro-fold-review-the
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-10-1152x648.jpg
 ---
 
-Google představuje další telefon, který je o něco lepší než jeho předchůdce - je to dostatečné?
+Google představuje další telefon, který je mírně lepší než jeho předchůdce - je to dostatečné?
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/10/google-pixel-10-pro-fold-review-the-ultimate-google-phone/)
 

@@ -1,5 +1,7 @@
 ---
 category: herní průmysl
+companies:
+- Nintendo
 date: '2025-10-08 01:35:00'
 description: 'Legends: Z-A bude dostupná také na Nintendo Switch.'
 importance: 4
@@ -12,8 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Společnost Nintendo si přizvala herce ze Stranger Things, aby propagoval její
-  novou Pokémon dobrodružnou hru pro Switch
+title: Společnost Nintendo si pro propagaci nové Pokémon dobrodružné hry pro Switch
+  přizvala hvězdu seriálu Stranger Things 2
 url: https://www.nintendolife.com/news/2025/10/nintendo-calls-on-stranger-things-star-to-promote-its-new-pokemon-adventure-for-switch-2
 urlToImage: https://images.nintendolife.com/b7d09b12264af/large.jpg
 ---

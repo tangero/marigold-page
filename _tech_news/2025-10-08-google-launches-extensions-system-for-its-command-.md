@@ -3,8 +3,8 @@ category: rozšíření cli
 companies:
 - Google
 date: '2025-10-08 14:00:00'
-description: Google představil novou funkci pro svůj command-line AI systém Gemini
-  CLI, která umožňuje externím společnostem integrovat se přímo do produktu.
+description: Google spustil novou funkci pro svůj command-line AI systém Gemini CLI,
+  která umožňuje externím společnostem přímou integraci do produktu.
 importance: 4
 layout: tech_news_article
 original_title: Google launches extensions system for its command-line coding tool
@@ -15,12 +15,12 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Rozšiřitelný systém pro Google's příkazový řádek pro kódování
+title: Rozšiřitelný systém pro Google's příkazový řádek pro programování
 url: https://techcrunch.com/2025/10/08/google-launches-extensions-system-for-its-command-line-coding-tool/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-08-at-9.22.17-AM.jpg?resize=1200,578
 ---
 
-Google představil novou funkci pro svůj command-line AI systém Gemini CLI, která umožňuje externím společnostem integrovat se přímo do produktu.
+Google spustil novou funkci pro svůj command-line AI systém Gemini CLI, která umožňuje externím společnostem přímou integraci do produktu.
 
 [Číst původní článek](https://techcrunch.com/2025/10/08/google-launches-extensions-system-for-its-command-line-coding-tool/)
 

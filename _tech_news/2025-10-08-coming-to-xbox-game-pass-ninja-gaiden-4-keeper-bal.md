@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Xbox.com
-title: 'Přichází na Xbox Game Pass: Ninja Gaiden 4, Keeper, Ball x Pit, Supermarket
+title: 'Přichází do Xbox Game Pass: Ninja Gaiden 4, Keeper, Ball x Pit, Supermarket
   Simulator a další - Xbox Wire'
 url: https://news.xbox.com/en-us/2025/10/08/xbox-game-pass-october-2025-wave-1/
 urlToImage: https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/XBOX_GamePass_Announcement_16x9_10.7.2025-ae79ba8b1f8fa452e8ec.jpg

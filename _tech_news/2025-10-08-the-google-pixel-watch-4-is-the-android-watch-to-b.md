@@ -3,7 +3,7 @@ category: chytré hodinky
 companies:
 - Google
 date: '2025-10-08 17:00:00'
-description: Google Pixel Watch 4 za 349,99 USD přináší několik chytrých aktualizací,
+description: Google Pixel Watch 4 za 349,99 USD přidává několik chytrých aktualizací,
   které z něj dělají nejlepší Android smartwatch, kterou si můžete koupit.
 importance: 3
 layout: tech_news_article
@@ -14,12 +14,12 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Chytré hodinky Google Pixel Watch 4 jsou nejlepší volbou pro Android
+title: Nový Google Pixel Watch 4 - nejlepší Android hodinky
 url: https://www.theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0416.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Google Pixel Watch 4 za 349,99 USD přináší několik chytrých aktualizací, které z něj dělají nejlepší Android smartwatch, kterou si můžete koupit.
+Google Pixel Watch 4 za 349,99 USD přidává několik chytrých aktualizací, které z něj dělají nejlepší Android smartwatch, kterou si můžete koupit.
 
 [Číst původní článek](https://www.theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable)
 

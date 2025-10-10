@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-08 11:41:17'
 description: 2XKO spouští s balíčkem Arcane za 100 dolarů, což šokuje hráče v early
-  access. Ale stojí to za to?
+  accessu. Ale stojí to za to?
 importance: 4
 layout: tech_news_article
 original_title: 2XKO launches with $100 Arcane bundle, shocking early access players.
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Společnost 2XKO spouští balíček Arcane za 100 dolarů, což šokuje hráče v předběžném
-  přístupu. Ale stojí to za to?
+title: Vydání 2XKO s balíčkem Arcane za $100, šokující hráče v předběžném přístupu.
+  Ale stojí to za to?
 url: https://www.eurogamer.net/2xko-launches-with-100-arcane-bundle-shocking-early-access-players-but-is-it-worth-it
 urlToImage: https://assetsio.gnwcdn.com/2xko-arcane-bundle-vi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-2XKO spouští s balíčkem Arcane za 100 dolarů, což šokuje hráče v early access. Ale stojí to za to?
+2XKO spouští s balíčkem Arcane za 100 dolarů, což šokuje hráče v early accessu. Ale stojí to za to?
 
 [Číst původní článek](https://www.eurogamer.net/2xko-launches-with-100-arcane-bundle-shocking-early-access-players-but-is-it-worth-it)
 
