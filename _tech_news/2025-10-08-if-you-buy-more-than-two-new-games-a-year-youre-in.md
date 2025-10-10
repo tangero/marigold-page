@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Pokud si ročně koupíte více než dvě nové hry, jste v menšině, odhaluje nová
-  zpráva
+title: Průzkum odhaluje, že pokud si koupíte více než dvě nové hry za rok, jste v
+  menšině.
 url: https://www.eurogamer.net/if-you-buy-more-than-two-new-games-a-year-youre-in-the-minority-new-report-reveals
 urlToImage: https://assetsio.gnwcdn.com/AdobeStock_412211529.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-08 14:32:02'
-description: 'Po prodeji 5 milionů kopií se breakout hit "Clair Obscur: Expedition
-  33" dočká nového obsahu a hudebního turné, říká malý tým vývojářů.'
+description: 'Po prodeji 5 milionů kopií se hit "Clair Obscur: Expedition 33" dočká
+  nového obsahu a hudebního turné, říká malý tým vývojářů.'
 importance: 4
 layout: tech_news_article
 original_title: ‘Expedition 33’ will get a free update as French studio takes victory
@@ -18,7 +18,7 @@ url: https://www.washingtonpost.com/entertainment/video-games/2025/10/08/clair-o
 urlToImage: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NAWHB3T6ANGFFKWTNJLO6YLUDE_size-normalized.png&w=1440
 ---
 
-Po prodeji 5 milionů kopií se breakout hit "Clair Obscur: Expedition 33" dočká nového obsahu a hudebního turné, říká malý tým vývojářů.
+Po prodeji 5 milionů kopií se hit "Clair Obscur: Expedition 33" dočká nového obsahu a hudebního turné, říká malý tým vývojářů.
 
 [Číst původní článek](https://www.washingtonpost.com/entertainment/video-games/2025/10/08/clair-obscur-expedition-33-free-update-sandfall-interactive/)
 

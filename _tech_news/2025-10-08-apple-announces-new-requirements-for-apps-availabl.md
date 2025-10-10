@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Nové požadavky společnosti Apple pro aplikace dostupné v Texasu
+title: Nové požadavky Applu pro aplikace dostupné v Texasu
 url: https://9to5mac.com/2025/10/08/apple-announces-new-requirements-for-apps-available-in-texas/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/texas-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
