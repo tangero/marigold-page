@@ -16,7 +16,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Společnosti Apple a Google neochotně vyhovují zákonu Texasu o ověřování věku
+title: Nechutné dodržování zákona o ověřování věku v Texasu firmami Apple a Google
 url: https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-texas-flag-1152x648.jpg
 ---

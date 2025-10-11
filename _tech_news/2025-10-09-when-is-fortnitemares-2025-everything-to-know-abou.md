@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-09 16:50:00'
-description: Velké novinky pro hráče a nadšence Fortnitu, Fortnitemares 2025 je zpět
+description: Velké novinky pro hráče a nadšence Fortnitu, Fortnitemares 2025 se vrací
   s novou mapou, skiny a výzvami. Zde je, jak hrát a co očekávat.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://www.azcentral.com/story/entertainment/life/2025/10/09/what-date-is-
 urlToImage: https://www.azcentral.com/gcdn/authoring/images/smg/2025/03/03/SFTW/81257652007-90-1975884.jpeg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp
 ---
 
-Velké novinky pro hráče a nadšence Fortnitu, Fortnitemares 2025 je zpět s novou mapou, skiny a výzvami. Zde je, jak hrát a co očekávat.
+Velké novinky pro hráče a nadšence Fortnitu, Fortnitemares 2025 se vrací s novou mapou, skiny a výzvami. Zde je, jak hrát a co očekávat.
 
 [Číst původní článek](https://www.azcentral.com/story/entertainment/life/2025/10/09/what-date-is-fortnitemares-coming-2025/86602978007/)
 
