@@ -5,7 +5,8 @@ companies:
 - Samsung
 date: '2025-10-09 15:29:00'
 description: Každý výrobce telefonů chce nyní vyrobit tenký telefon a jedním z nejzkušenějších
-  je právě...
+  je společnost, která ukazuje přesně, jak toho dosáhnout. Tenké telefony jsou nyní
+  žádaným designovým trendem a tento výrobce má bohaté zkušenosti s jejich vývojem.
 importance: 3
 layout: tech_news_article
 original_title: Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat
@@ -22,7 +23,7 @@ url: http://9to5google.com/2025/10/09/motorola-edge-70-battery-specs-leaked/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Motorola-Edge-70-leak-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Každý výrobce telefonů chce nyní vyrobit tenký telefon a jedním z nejzkušenějších je právě...
+Každý výrobce telefonů chce nyní vyrobit tenký telefon a jedním z nejzkušenějších je společnost, která ukazuje přesně, jak toho dosáhnout. Tenké telefony jsou nyní žádaným designovým trendem a tento výrobce má bohaté zkušenosti s jejich vývojem.
 
 [Číst původní článek](http://9to5google.com/2025/10/09/motorola-edge-70-battery-specs-leaked/)
 

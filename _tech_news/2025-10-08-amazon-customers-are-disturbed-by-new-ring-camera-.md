@@ -3,10 +3,9 @@ category: soukromí
 companies:
 - Amazon
 date: '2025-10-08 12:07:00'
-description: Amazon nedávno představil nadcházející změnu u zařízení Ring, která zákazníky
-  znepokojuje. Společnost plánuje zavedení funkce, která umožní sdílení videa z kamer
-  Ring s dalšími uživateli v okolí, a to i bez souhlasu majitele zařízení. Tato změna
-  vyvolává obavy ohledně soukromí a bezpečnosti zákazníků.
+description: Amazon nedávno představil plánovanou změnu u zařízení Ring, která zákazníky
+  znepokojuje. Nová funkce umožní Amazonu sdílet záznamy z kamer Ring s policií bez
+  souhlasu uživatele.
 importance: 4
 layout: tech_news_article
 original_title: Amazon customers are disturbed by new Ring camera feature - TheStreet
@@ -21,7 +20,7 @@ url: https://www.thestreet.com/retail/amazon-customers-are-disturbed-by-new-ring
 urlToImage: https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MzAzNDE1Nzk5Nzg1MzA4/amazons-fall-product-event-1.jpg
 ---
 
-Amazon nedávno představil nadcházející změnu u zařízení Ring, která zákazníky znepokojuje. Společnost plánuje zavedení funkce, která umožní sdílení videa z kamer Ring s dalšími uživateli v okolí, a to i bez souhlasu majitele zařízení. Tato změna vyvolává obavy ohledně soukromí a bezpečnosti zákazníků.
+Amazon nedávno představil plánovanou změnu u zařízení Ring, která zákazníky znepokojuje. Nová funkce umožní Amazonu sdílet záznamy z kamer Ring s policií bez souhlasu uživatele.
 
 [Číst původní článek](https://www.thestreet.com/retail/amazon-customers-are-disturbed-by-new-ring-camera-feature)
 

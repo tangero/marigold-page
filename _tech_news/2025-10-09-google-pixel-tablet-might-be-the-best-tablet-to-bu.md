@@ -3,7 +3,7 @@ category: mobilní hardware
 companies:
 - Google
 date: '2025-10-09 11:17:00'
-description: Prošli jsme katalog říjnového Prime Day na Amazonu, abychom upozornili
+description: Prohledali jsme katalog Prime Day od Amazonu v říjnu, abychom upozornili
   na nejlepší nabídky na nejlépe hodnocené telefony, které jsme testovali a kterým
   důvěřujeme.
 importance: 2
@@ -22,7 +22,7 @@ url: https://www.zdnet.com/article/google-pixel-tablet-might-be-the-best-tablet-
 urlToImage: https://www.zdnet.com/a/img/resize/d0f06fe96d66684ae076c290f284f6176319706b/2023/06/19/01f452bb-86ce-4d3a-8553-8a97bdb5276d/pixel-tablet-3.jpg?auto=webp&fit=crop&height=675&width=1200
 ---
 
-Prošli jsme katalog říjnového Prime Day na Amazonu, abychom upozornili na nejlepší nabídky na nejlépe hodnocené telefony, které jsme testovali a kterým důvěřujeme.
+Prohledali jsme katalog Prime Day od Amazonu v říjnu, abychom upozornili na nejlepší nabídky na nejlépe hodnocené telefony, které jsme testovali a kterým důvěřujeme.
 
 [Číst původní článek](https://www.zdnet.com/article/google-pixel-tablet-might-be-the-best-tablet-to-buy-right-now-thanks-to-record-low-discount/)
 

@@ -2,7 +2,7 @@
 category: automobilový průmysl
 date: '2025-10-08 22:40:28'
 description: Zatímco Bond obvykle sahá po vlajkové lodi s V12 motorem, DB12 S jistě
-  splní jeho požadavky. Ale neočekávejte žádné skryté kulomety. Zatím.
+  splní jeho požadavky. Ale nečekejte žádné skryté kulomety. Zatím.
 importance: 3
 layout: tech_news_article
 original_title: Aston Martin’s Latest V8 Coupe Is Enough to Make 007 Drool - Gear
@@ -21,7 +21,7 @@ url: https://www.gearpatrol.com/cars/aston-martins-latest-v8-coupe-is-enough-to-
 urlToImage: https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/2026-Aston-Martin-DB12-S-4.webp
 ---
 
-Zatímco Bond obvykle sahá po vlajkové lodi s V12 motorem, DB12 S jistě splní jeho požadavky. Ale neočekávejte žádné skryté kulomety. Zatím.
+Zatímco Bond obvykle sahá po vlajkové lodi s V12 motorem, DB12 S jistě splní jeho požadavky. Ale nečekejte žádné skryté kulomety. Zatím.
 
 [Číst původní článek](https://www.gearpatrol.com/cars/aston-martins-latest-v8-coupe-is-enough-to-make-007-drool/)
 

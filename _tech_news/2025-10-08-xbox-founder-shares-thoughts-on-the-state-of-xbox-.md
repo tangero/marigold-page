@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: Zakladatel Xboxu sdílí své myšlenky o stavu Xboxu a zvyšování cen, "chamtivost
+title: Zakladatel Xboxu sdílí myšlenky o stavu Xboxu a zvyšování cen, "ziskuchtivost
   nad hraním
 url: https://wccftech.com/xbox-founder-game-pass-price-hike-laura-fryer/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/Xbox-Founder-Shares-Thoughts-on-State-of-Xbox.png
