@@ -13,8 +13,7 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Aktualizace 1.0.1.0 Battlefield 6 - Poznámky k dennímu updatu jsou nyní k dispozici
-  v plném rozsahu
+title: Aktualizace 1.0.1.0 Battlefield 6 - Poznámky k opravě dne vydání
 url: https://www.ign.com/articles/battlefield-6-update-1010-day-one-patch-notes-out-now-in-full
 urlToImage: https://assets-prd.ignimgs.com/2025/10/09/ss-dc0f3eee66989dbd76234b23c61d6a37c9f6b53a-1920x1080-1760024559197.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---

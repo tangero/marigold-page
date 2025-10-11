@@ -15,7 +15,7 @@ source:
   emoji: 💹
   id: bloomberg
   name: Bloomberg
-title: Nový skládací telefon a chytré hodinky od Googlu se zaměřují spíše na AI než
+title: Nový skládací telefon a chytré hodinky od Googlu se zaměřují více na AI než
   na hardwarové změny
 url: https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold-pixel-watch-4-review-new-ai-tricks-familiar-designs
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW5T4Uyqrd_g/v1/1200x800.jpg
