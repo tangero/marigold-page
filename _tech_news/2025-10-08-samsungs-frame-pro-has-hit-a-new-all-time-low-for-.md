@@ -4,7 +4,7 @@ companies:
 - Samsung
 date: '2025-10-08 21:10:24'
 description: Během posledních hodin Prime Day můžete ušetřit až $1,400 na Samsung
-  Frame Pro TV. Matný panel tohoto setu dělá obrazy vypadat realističtěji.
+  Frame Pro TV. Matný panel tohoto modelu činí obrazy maleb realističtější.
 importance: 4
 layout: tech_news_article
 original_title: Samsung’s Frame Pro has hit a new all-time low for Prime Day - The
@@ -15,12 +15,12 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Nový rekordně nízký cenový bod pro Samsung Frame Pro během Prime Day
+title: 'Nový rekord pro Prime Day: Samsung Frame Pro'
 url: https://www.theverge.com/tech/796826/amazon-october-prime-day-samsung-frame-pro-tv-deal-sale-2025
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25818657/DSCF4264_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Během posledních hodin Prime Day můžete ušetřit až $1,400 na Samsung Frame Pro TV. Matný panel tohoto setu dělá obrazy vypadat realističtěji.
+Během posledních hodin Prime Day můžete ušetřit až $1,400 na Samsung Frame Pro TV. Matný panel tohoto modelu činí obrazy maleb realističtější.
 
 [Číst původní článek](https://www.theverge.com/tech/796826/amazon-october-prime-day-samsung-frame-pro-tv-deal-sale-2025)
 

@@ -3,9 +3,8 @@ category: herní průmysl
 companies:
 - Ubisoft
 date: '2025-10-09 11:03:06'
-description: Podle zpráv Ubisoft údajně v loňském roce zrušil vývoj své další hry
-  z řady Assassin's Creed kvůli politickým obavám spojeným s plánovaným prostředím
-  hry.
+description: Podle zpráv Ubisoft údajně loni zrušil vývoj své další hry z série Assassin's
+  Creed kvůli politickým obavám vyplývajícím z plánovaného prostředí hry.
 importance: 2
 layout: tech_news_article
 original_title: Ubisoft reportedly cancelled Assassin's Creed game in post-American
@@ -16,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Ubisoft údajně zrušil hru Assassin's Creed v období po Americké občanské válce
+title: Ubisoft údajně zrušil hru Assassin's Creed z období po Americké občanské válce
   kvůli politickým obavám
 url: https://www.eurogamer.net/ubisoft-reportedly-cancelled-assassins-creed-game-in-post-american-civil-war-over-political-concerns
 urlToImage: https://assetsio.gnwcdn.com/Assassin's-Creed-Shadows_-Official-World-Premiere-Trailer-1-27-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Podle zpráv Ubisoft údajně v loňském roce zrušil vývoj své další hry z řady Assassin's Creed kvůli politickým obavám spojeným s plánovaným prostředím hry.
+Podle zpráv Ubisoft údajně loni zrušil vývoj své další hry z série Assassin's Creed kvůli politickým obavám vyplývajícím z plánovaného prostředí hry.
 
 [Číst původní článek](https://www.eurogamer.net/ubisoft-reportedly-cancelled-assassins-creed-game-in-post-american-civil-war-over-political-concerns)
 

@@ -13,7 +13,7 @@ source:
   emoji: 💼
   id: null
   name: Forbes
-title: Halloweenské skiny Fortnitemares ve hře Fortnite - termíny vydání
+title: 'Fortnitemares: Halloweenské skiny ve Fortnite - termíny vydání'
 url: https://www.forbes.com/sites/paultassi/2025/10/09/the-release-dates-for-fortnites-fortnitemares-halloween-skins/
 urlToImage: https://imageio.forbes.com/specials-images/imageserve/68e7c70893d2d9f2e943346e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds
 ---

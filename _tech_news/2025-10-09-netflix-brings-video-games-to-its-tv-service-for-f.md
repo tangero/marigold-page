@@ -1,5 +1,7 @@
 ---
 category: herní průmysl
+companies:
+- Netflix
 date: '2025-10-09 02:59:00'
 description: Netflix Inc. chce, abyste hráli Boggle mezi sledováním seriálu Stranger
   Things.
@@ -12,7 +14,7 @@ source:
   emoji: 💹
   id: bloomberg
   name: Bloomberg
-title: Netflix poprvé přináší videoherní obsah do své televizní služby
+title: Společnost Netflix poprvé přináší videoherní obsah do své televizní služby
 url: https://www.bloomberg.com/news/articles/2025-10-09/netflix-brings-video-games-to-its-tv-service-for-the-first-time
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iflLjCUGiqeY/v0/1200x743.jpg
 ---
