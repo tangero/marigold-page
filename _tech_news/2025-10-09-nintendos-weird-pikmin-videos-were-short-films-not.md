@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Nintendo
 date: '2025-10-09 14:10:09'
-description: Animované krátké filmy 'Close To You' byly vytvořeny nově získaným CG
+description: Animované krátké filmy 'Close To You' byly vyrobeny nově získaným CG
   produkčním studiem Nintenda.
 importance: 4
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://www.theverge.com/entertainment/797623/pikmin-close-to-you-nintendo-
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-09-at-9.45.49%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C3.0890052356021%2C100%2C93.821989528796&w=1200
 ---
 
-Animované krátké filmy 'Close To You' byly vytvořeny nově získaným CG produkčním studiem Nintenda.
+Animované krátké filmy 'Close To You' byly vyrobeny nově získaným CG produkčním studiem Nintenda.
 
 [Číst původní článek](https://www.theverge.com/entertainment/797623/pikmin-close-to-you-nintendo-pictures)
 

@@ -1,8 +1,8 @@
 ---
 category: herní hardware
 date: '2025-10-09 18:15:00'
-description: Karty microSD Express o kapacitě 512GB a 1TB pro Nintendo Switch 2 se
-  konečně stávají cenově dostupnějšími díky nedávným slevám na Amazonu.
+description: 512GB a 1TB microSD Express karty pro Nintendo Switch 2 se konečně stávají
+  dostupnější díky nedávným slevám na Amazonu.
 importance: 3
 layout: tech_news_article
 original_title: 512GB microSD Express cards for Switch 2 are cheaper than ever right
@@ -19,7 +19,7 @@ url: https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-sw
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Lexar-MicroSD-Express-card.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Karty microSD Express o kapacitě 512GB a 1TB pro Nintendo Switch 2 se konečně stávají cenově dostupnějšími díky nedávným slevám na Amazonu.
+512GB a 1TB microSD Express karty pro Nintendo Switch 2 se konečně stávají dostupnější díky nedávným slevám na Amazonu.
 
 [Číst původní článek](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale)
 

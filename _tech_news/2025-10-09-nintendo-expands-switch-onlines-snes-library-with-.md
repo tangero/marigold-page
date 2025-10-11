@@ -2,19 +2,16 @@
 category: herní průmysl
 companies:
 - Nintendo
-date: '2025-10-09 02:40:22'
-description: Mario & Wario je plošinovka vydaná v roce 1993 pro Super Famicom v Japonsku.
-  Hráč ovládá postavu Waria, která se snaží umístit kbelík na hlavu Mariovi, zatímco
-  se snaží uniknout. Bubsy je plošinovka vydaná v roce 1993 pro Sega Genesis a Super
-  Nintendo Entertainment System. Hráč ovládá kočičí postavu Bubsyho, která skáče a
-  sbírá předměty. Fatal Fury Special je bojová hra vydaná v roce 1993 pro Neo Geo.
-  Hra obsahuje 15 bojovníků a nové herní mechaniky oproti předchozím dílům série Fatal
-  Fury.
+date: '2025-10-09 01:25:00'
+description: Mario & Wario je platform game, ve kterém hráč ovládá Waria, který se
+  snaží umístit kbelík na hlavu Mariovi. Bubsy je platform game, ve které hráč ovládá
+  kočku Bubsy, která se snaží zachránit svůj domov. Fatal Fury Special je bojová hra,
+  která je pokračováním série Fatal Fury.
 importance: 3
 layout: tech_news_article
 original_title: Nintendo Expands Switch Online's SNES Library With Three More Titles
   - Nintendo Life
-publishedAt: '2025-10-09T02:40:22+00:00'
+publishedAt: '2025-10-09T01:25:00+00:00'
 slug: nintendo-expands-switch-onlines-snes-library-with-
 source:
   emoji: 📰
@@ -25,7 +22,7 @@ url: https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-onlines-s
 urlToImage: https://images.nintendolife.com/faa740956562e/large.jpg
 ---
 
-Mario & Wario je plošinovka vydaná v roce 1993 pro Super Famicom v Japonsku. Hráč ovládá postavu Waria, která se snaží umístit kbelík na hlavu Mariovi, zatímco se snaží uniknout. Bubsy je plošinovka vydaná v roce 1993 pro Sega Genesis a Super Nintendo Entertainment System. Hráč ovládá kočičí postavu Bubsyho, která skáče a sbírá předměty. Fatal Fury Special je bojová hra vydaná v roce 1993 pro Neo Geo. Hra obsahuje 15 bojovníků a nové herní mechaniky oproti předchozím dílům série Fatal Fury.
+Mario & Wario je platform game, ve kterém hráč ovládá Waria, který se snaží umístit kbelík na hlavu Mariovi. Bubsy je platform game, ve které hráč ovládá kočku Bubsy, která se snaží zachránit svůj domov. Fatal Fury Special je bojová hra, která je pokračováním série Fatal Fury.
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-onlines-snes-library-with-three-more-titles)
 

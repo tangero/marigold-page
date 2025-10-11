@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-09 16:02:06'
 description: Bojový systém Crimson Deseru kombinuje prvky bojových her se souboji
-  meči, magií a bitevními roboty. Jak se tato neobvyklá směs spojuje dohromady? Hovořili
+  mečů, magie a bitevních robotů. Tato neobvyklá směs se spojuje dohromady. Mluvili
   jsme s vývojářem Pearl Abyss, abychom se to dozvěděli.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://www.ign.com/articles/crimson-deserts-combat-explained
 urlToImage: https://assets-prd.ignimgs.com/2025/10/06/crimson-desert-ign-first-combat-explainer-1759740631707.jpeg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Bojový systém Crimson Deseru kombinuje prvky bojových her se souboji meči, magií a bitevními roboty. Jak se tato neobvyklá směs spojuje dohromady? Hovořili jsme s vývojářem Pearl Abyss, abychom se to dozvěděli.
+Bojový systém Crimson Deseru kombinuje prvky bojových her se souboji mečů, magie a bitevních robotů. Tato neobvyklá směs se spojuje dohromady. Mluvili jsme s vývojářem Pearl Abyss, abychom se to dozvěděli.
 
 [Číst původní článek](https://www.ign.com/articles/crimson-deserts-combat-explained)
 
