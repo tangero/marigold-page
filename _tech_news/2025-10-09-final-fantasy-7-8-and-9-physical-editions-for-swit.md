@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Fyzická vydání Final Fantasy 7, 8 a 9 pro Nintendo Switch jsou k předobjednání
+title: Fyzická vydání Final Fantasy 7, 8 a 9 pro Switch jsou k předobjednání
 url: https://www.ign.com/articles/final-fantasy-7-8-and-9-physical-editions-for-switch-are-up-for-preorder-where-to-buy
 urlToImage: https://assets-prd.ignimgs.com/2025/10/09/untitled-design-1-1760032612266.png?width=1280&format=jpg&auto=webp&quality=80
 ---

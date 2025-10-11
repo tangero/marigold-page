@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-09 13:01:20'
-description: Vynikající beat 'em up, kterému však škodí roguelite struktura, která
-  mu neslouží.
+description: Vynikající beat 'em up hra, kterou bohužel zhoršuje roguelite struktura,
+  která jí neslouží.
 importance: 3
 layout: tech_news_article
 original_title: Absolum Review - IGN
@@ -17,7 +17,7 @@ url: https://www.ign.com/articles/absolum-review
 urlToImage: https://assets-prd.ignimgs.com/2025/10/09/absolum-blogroll-1759983972765.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Vynikající beat 'em up, kterému však škodí roguelite struktura, která mu neslouží.
+Vynikající beat 'em up hra, kterou bohužel zhoršuje roguelite struktura, která jí neslouží.
 
 [Číst původní článek](https://www.ign.com/articles/absolum-review)
 

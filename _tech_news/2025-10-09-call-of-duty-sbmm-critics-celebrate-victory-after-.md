@@ -3,9 +3,9 @@ category: herní průmysl
 companies:
 - Treyarch
 date: '2025-10-09 14:30:22'
-description: 'Treyarch potvrdil řadu významných změn pro Multiplayer hry Call of Duty:
-  Black Ops 7, které se dostanou do hry při jejím vydání. Mezi hlavní změny patří
-  Open Matchmaking při spuštění.'
+description: 'Treyarch potvrdil řadu významných změn pro Multiplayer Call of Duty:
+  Black Ops 7, které budou součástí hry při jejím vydání. Mezi hlavní změny patří
+  Open Matchmaking při startu hry.'
 importance: 3
 layout: tech_news_article
 original_title: Call of Duty SBMM Critics Celebrate Victory After Treyarch Confirms
@@ -17,14 +17,14 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Kritici SBMM ve hře Call of Duty slaví vítězství poté, co Treyarch potvrdil,
-  že otevřené párování bude výchozím nastavením pro multiplayerovou část Black Ops
-  7 při vydání - a dokonce i trvalé herní lobby
+title: Kritici systému SBMM ve hře Call of Duty slaví vítězství poté, co Treyarch
+  potvrdil, že výchozím nastavením pro multiplayerovou část Black Ops 7 bude otevřené
+  párování hráčů a dokonce i trvalé herní lobby
 url: https://www.ign.com/articles/call-of-duty-sbmm-critics-are-celebrating-after-treyarch-confirmed-open-matchmaking-as-the-default-for-black-ops-7-multiplayer-at-launch-and-even-persistent-lobbies
 urlToImage: https://assets-prd.ignimgs.com/2025/08/22/ss-e11c510bf9237f904cd6801ace3ee39567cd8a7a-1920x1080-1755851855210.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Treyarch potvrdil řadu významných změn pro Multiplayer hry Call of Duty: Black Ops 7, které se dostanou do hry při jejím vydání. Mezi hlavní změny patří Open Matchmaking při spuštění.
+Treyarch potvrdil řadu významných změn pro Multiplayer Call of Duty: Black Ops 7, které budou součástí hry při jejím vydání. Mezi hlavní změny patří Open Matchmaking při startu hry.
 
 [Číst původní článek](https://www.ign.com/articles/call-of-duty-sbmm-critics-are-celebrating-after-treyarch-confirmed-open-matchmaking-as-the-default-for-black-ops-7-multiplayer-at-launch-and-even-persistent-lobbies)
 

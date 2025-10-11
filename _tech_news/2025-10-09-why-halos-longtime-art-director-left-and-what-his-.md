@@ -14,8 +14,8 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: Proč dlouholetý umělecký ředitel Hala odešel - a co by jeho kryptické sdělení
-  mohlo znamenat
+title: Proč dlouholetý umělecký ředitel Hala odešel - a co by jeho kryptická zpráva
+  mohla znamenat
 url: https://www.windowscentral.com/gaming/xbox/former-halo-art-director-departs-ominous-message
 urlToImage: https://cdn.mos.cms.futurecdn.net/uibiKgimXvPLbQrxLdsrs6-2234-80.jpg
 ---

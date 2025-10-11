@@ -1,10 +1,10 @@
 ---
-category: počítačové hardwary
+category: počítačové komponent
 companies:
 - Apple
 date: '2025-10-09 15:00:34'
-description: Amazon hostuje velké slevy na celé řadě notebooků MacBook Air M4, přičemž
-  nabízí nejnižší ceny všech dob na každý model tohoto počítače.
+description: Amazon nabízí velké slevy na celou řadu notebooků MacBook Air M4. Tyto
+  nabídky představují historicky nejnižší ceny pro všechny modely tohoto počítače.
 importance: 2
 layout: tech_news_article
 original_title: Take $200 Off Every M4 MacBook Air on Amazon - MacRumors
@@ -19,7 +19,7 @@ url: https://www.macrumors.com/2025/10/09/m4-macbook-air-on-amazon-2/
 urlToImage: https://images.macrumors.com/t/Btuzs19Ba0EGCsh6lVT9k8thGTA=/2500x/article-new/2025/03/M4-MacBook-Air-13-and-15-inch-Feature.jpg
 ---
 
-Amazon hostuje velké slevy na celé řadě notebooků MacBook Air M4, přičemž nabízí nejnižší ceny všech dob na každý model tohoto počítače.
+Amazon nabízí velké slevy na celou řadu notebooků MacBook Air M4. Tyto nabídky představují historicky nejnižší ceny pro všechny modely tohoto počítače.
 
 [Číst původní článek](https://www.macrumors.com/2025/10/09/m4-macbook-air-on-amazon-2/)
 

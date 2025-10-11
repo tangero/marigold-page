@@ -4,7 +4,7 @@ companies:
 - Apple
 - Google
 date: '2025-10-09 19:09:55'
-description: Texas vyžaduje citlivé informace pouze pro kontrolu počasí a sportovních
+description: Texas požaduje citlivé informace pouze pro kontrolu počasí a sportovních
   výsledků, říká Apple.
 importance: 3
 layout: tech_news_article
@@ -16,13 +16,12 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Společnosti Apple a Google neochotně vyhovují texaskému zákonu o ověřování
-  věku
+title: Společnosti Apple a Google neochotně vyhovují zákonu Texasu o ověřování věku
 url: https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-texas-flag-1152x648.jpg
 ---
 
-Texas vyžaduje citlivé informace pouze pro kontrolu počasí a sportovních výsledků, říká Apple.
+Texas požaduje citlivé informace pouze pro kontrolu počasí a sportovních výsledků, říká Apple.
 
 [Číst původní článek](https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/)
 

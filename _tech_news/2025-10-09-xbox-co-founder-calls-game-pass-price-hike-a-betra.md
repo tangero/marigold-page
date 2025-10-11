@@ -3,7 +3,7 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-09 16:37:59'
-description: Laura Fryer se nezdrží toho, co si myslí o rozhodnutí Microsoftu zvýšit
+description: Laura Fryer se nebojí vyjádřit, co si myslí o rozhodnutí Microsoftu zvýšit
   ceny Game Passu a konzolí Xbox.
 importance: 3
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://www.gamespot.com/articles/xbox-co-founder-calls-game-pass-price-hik
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4582688-xboxlogo.jpg
 ---
 
-Laura Fryer se nezdrží toho, co si myslí o rozhodnutí Microsoftu zvýšit ceny Game Passu a konzolí Xbox.
+Laura Fryer se nebojí vyjádřit, co si myslí o rozhodnutí Microsoftu zvýšit ceny Game Passu a konzolí Xbox.
 
 [Číst původní článek](https://www.gamespot.com/articles/xbox-co-founder-calls-game-pass-price-hike-a-betrayal/1100-6535337/)
 

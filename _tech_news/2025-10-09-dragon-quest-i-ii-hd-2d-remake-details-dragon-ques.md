@@ -20,7 +20,7 @@ source:
 title: Podrobnosti o remaku Dragon Quest I & II HD-2D - nové scénáře, setkání a dungeons
   pro Dragon Quest I
 url: https://www.gematsu.com/2025/10/dragon-quest-i-ii-hd-2d-remake-details-dragon-quest-i-new-scenarios-encounters-and-dungeons
-urlToImage: https://www.gematsu.com/wp-content/uploads/2025/10/Dragon-QuestI-and-II-HD-2D-Remake_2025_10-09-25_010.jpg
+urlToImage: https://www.gematsu.com/wp-content/uploads/2025/10/Dragon-Quest-I-and-II-HD-2D-Remake_2025_10-09-25_019.jpg
 ---
 
 Vydavatel a vývojář Square Enix a vývojář Artdink Corporation zveřejnili nové informace a screenshoty pro Dragon Quest I & II HD-2D Remake, představující některé z funkcí Dragon Quest I&#82…

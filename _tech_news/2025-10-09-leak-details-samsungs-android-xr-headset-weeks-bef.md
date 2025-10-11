@@ -16,8 +16,8 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Podrobnosti o Samsung Android XR headsetu unikly týdny před očekávaným uvedením
-  na trh
+title: Detaily úniku informací o Samsungově Android XR headsetu týdny před očekávaným
+  uvedením na trh
 url: https://www.theverge.com/news/797679/samsung-android-xr-project-moohan-leak
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/vpavic_20250122_Untitled_Job_0008.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
