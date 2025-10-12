@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: the-washington-post
   name: The Washington Post
-title: Důvod, proč si dvakrát rozmyslet nákup chytrého prstenu
+title: Důvody, proč si dvakrát rozmyslet nákup chytrého prstenu
 url: https://www.washingtonpost.com/technology/2025/10/10/smart-ring-battery-swelling-samsung-oura/
 urlToImage: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IG5MKOO2CJGXFFVGKCNHB2ZCT4.jpg&w=1440
 ---

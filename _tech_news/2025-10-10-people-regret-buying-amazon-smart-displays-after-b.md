@@ -3,7 +3,7 @@ category: chytré displeje
 companies:
 - Amazon
 date: '2025-10-10 20:58:40'
-description: Chystám se celou věc prostě zahodit...
+description: Chystám se to celé prostě zahodit...
 importance: 3
 layout: tech_news_article
 original_title: People regret buying Amazon smart displays after being bombarded with
@@ -14,12 +14,12 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Lidé litují nákupu chytrých displejů Amazon po bombardování reklamami
+title: Lidé litují nákupu chytrých displejů Amazonu po bombardování reklamami
 url: https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/1_Echo_Family_Beekeeper._TTW_-1152x648.jpg
 ---
 
-Chystám se celou věc prostě zahodit...
+Chystám se to celé prostě zahodit...
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
 

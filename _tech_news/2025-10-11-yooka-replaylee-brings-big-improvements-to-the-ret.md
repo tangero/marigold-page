@@ -14,7 +14,7 @@ source:
   id: null
   name: Eurogamer.net
 title: Yooka-Replaylee přináší velká vylepšení do retro návratu, ale ztrácí část své
-  starosvětské kouzlo
+  staromódní kouzlo
 url: https://www.eurogamer.net/yooka-replaylee-brings-big-improvements-to-the-retro-throwback-but-loses-some-of-its-old-school-charm-along-the-way
 urlToImage: https://assetsio.gnwcdn.com/yooka-replaylee-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

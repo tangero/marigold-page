@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-10 15:57:53'
-description: 'Battlefield 6 byl spuštěn teprve před několika hodinami a někdo už stihl
-  vytvořit ikonickou mapu Call of Duty 4: Modern Warfare, Shipment, v jeho režimu
-  Portal.'
+description: 'Battlefield 6 byl spuštěn teprve před několika hodinami a někdo již
+  dokázal vytvořit ikonickou mapu Shipment z Call of Duty 4: Modern Warfare v jeho
+  režimu Portal.'
 importance: 3
 layout: tech_news_article
 original_title: Battlefield 6 Launched Just Hours Ago and Players Have Already Recreated
@@ -20,7 +20,7 @@ url: https://www.ign.com/articles/battlefield-6-launched-just-hours-ago-and-play
 urlToImage: https://assets-prd.ignimgs.com/2025/10/07/battlefield-6-debate-1759878378098.png?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Battlefield 6 byl spuštěn teprve před několika hodinami a někdo už stihl vytvořit ikonickou mapu Call of Duty 4: Modern Warfare, Shipment, v jeho režimu Portal.
+Battlefield 6 byl spuštěn teprve před několika hodinami a někdo již dokázal vytvořit ikonickou mapu Shipment z Call of Duty 4: Modern Warfare v jeho režimu Portal.
 
 [Číst původní článek](https://www.ign.com/articles/battlefield-6-launched-just-hours-ago-and-players-have-already-recreated-call-of-duty-map-shipment-in-portal)
 
