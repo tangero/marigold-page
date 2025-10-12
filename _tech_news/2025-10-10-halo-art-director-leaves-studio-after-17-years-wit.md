@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-10 09:39:10'
-description: Vedoucí uměleckého oddělení Halo, Glenn Israel, opustil studia Halo po
-  17 letech práce na této franšíze.
+description: Vedoucí výtvarník Halo Glenn Israel opustil Halo Studios po 17 letech
+  práce na této franšíze.
 importance: 3
 layout: tech_news_article
 original_title: Halo art director leaves studio after 17 years with ominous message
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Odchod ředitele umění Halo ze studia po 17 letech s ominózním vzkazem naznačujícím
+title: Odchod ředitele umění Halo ze studia po 17 letech s varovným vzkazem naznačujícím
   nespokojenost
 url: https://www.eurogamer.net/halo-art-director-leaves-studio-after-17-years-with-ominous-message-alluding-to-discontent
 urlToImage: https://assetsio.gnwcdn.com/halo-infinite_U4Ia556.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Vedoucí uměleckého oddělení Halo, Glenn Israel, opustil studia Halo po 17 letech práce na této franšíze.
+Vedoucí výtvarník Halo Glenn Israel opustil Halo Studios po 17 letech práce na této franšíze.
 
 [Číst původní článek](https://www.eurogamer.net/halo-art-director-leaves-studio-after-17-years-with-ominous-message-alluding-to-discontent)
 

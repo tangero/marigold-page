@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: TechSpot
-title: Zpráva ESA ukazuje, že průměrný hráč je 41 let – a téměř polovina jsou ženy
+title: Zpráva ESA ukazuje, že průměrný hráč je 41 let a téměř polovina jsou ženy
 url: https://www.techspot.com/news/109812-esa-report-shows-average-gamer-41-ndash-nearly.html
 urlToImage: https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-10-image-11.jpg
 ---

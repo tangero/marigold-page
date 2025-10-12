@@ -2,7 +2,7 @@
 category: digitální archivace
 date: '2025-10-10 09:05:28'
 description: Z přednášek Stephena Hawkinga až po dopisy britského politika Neila Kinnocka
-  – je to závod s časem, abychom zachránili historické poklady uzamčené na starých
+  – je to závod s časem, aby se zachránily historické poklady uzamčené na starých
   disketách.
 importance: 3
 layout: tech_news_article
@@ -21,7 +21,7 @@ url: https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-o
 urlToImage: https://ychef.files.bbci.co.uk/624x351/p0m7rpfy.jpg
 ---
 
-Z přednášek Stephena Hawkinga až po dopisy britského politika Neila Kinnocka – je to závod s časem, abychom zachránili historické poklady uzamčené na starých disketách.
+Z přednášek Stephena Hawkinga až po dopisy britského politika Neila Kinnocka – je to závod s časem, aby se zachránily historické poklady uzamčené na starých disketách.
 
 [Číst původní článek](https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
 

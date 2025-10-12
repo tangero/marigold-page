@@ -3,9 +3,9 @@ category: chytré brýle
 companies:
 - Meta
 date: '2025-10-10 02:00:00'
-description: Nedávno se nadšení lidé z iFixit, kteří se zabývají rozebíráním zařízení,
-  dostali k brýlím s displejem Ray-Ban Display od společnosti Meta, aby je doslova
-  důkladně prozkoumali. Během cesty narazili na fascinující...
+description: Nedávno se nadšení rozebiratelé z iFixitu dostali ke slunečním brýlím
+  s displejem Ray-Ban Display od Mety, aby se doslova podívali zblízka na tyto chytré
+  brýle. Během toho narazili na fascinující detaily ohledně jejich konstrukce a komponent.
 importance: 3
 layout: tech_news_article
 original_title: The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display
@@ -16,13 +16,12 @@ source:
   emoji: 📰
   id: null
   name: Hackaday
-title: Fascinující technologie vlnovodů uvnitř brýlí s displejem od společnosti Meta
-  Ray-Ban
+title: Fascinující technologie vlnovodů uvnitř zobrazovacích brýlí Ray-Ban od Mety
 url: https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/
 urlToImage: https://hackaday.com/wp-content/uploads/2025/10/ifixit_Meta_Glasses_119.jpg
 ---
 
-Nedávno se nadšení lidé z iFixit, kteří se zabývají rozebíráním zařízení, dostali k brýlím s displejem Ray-Ban Display od společnosti Meta, aby je doslova důkladně prozkoumali. Během cesty narazili na fascinující...
+Nedávno se nadšení rozebiratelé z iFixitu dostali ke slunečním brýlím s displejem Ray-Ban Display od Mety, aby se doslova podívali zblízka na tyto chytré brýle. Během toho narazili na fascinující detaily ohledně jejich konstrukce a komponent.
 
 [Číst původní článek](https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/)
 

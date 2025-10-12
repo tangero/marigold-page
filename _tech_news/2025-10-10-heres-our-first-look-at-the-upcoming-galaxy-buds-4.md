@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Náš první pohled na nadcházející Galaxy Buds 4 a jejich nový design
+title: Náš první pohled na nadcházející Galaxy Buds 4 a jeho nový design
 url: https://www.androidauthority.com/samsung-galaxy-buds-4-first-look-one-ui-8-5-3606189/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Buds-3-and-Galaxy-Buds-3-Pro-Cases-with-Earbuds-Inside.jpg
 ---

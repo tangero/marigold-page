@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Sledování sportů v imerzivním režimu pomocí Vision Pro
+title: Virtuální realita pro sport
 url: https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/246965_vision_pro_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

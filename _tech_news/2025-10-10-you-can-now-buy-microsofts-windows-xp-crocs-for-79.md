@@ -14,7 +14,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Nyní si můžete koupit Microsoft Windows XP Crocs za 79,95 USD
+title: Nyní si můžete koupit Microsoft Windows XP Crocs za 79,95 dolarů
 url: https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/windows-xp-crocs.png?quality=90&strip=all&crop=1.8838992332968%2C0%2C96.232201533406%2C100&w=1200
 ---
