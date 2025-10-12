@@ -3,8 +3,7 @@ category: počítače
 companies:
 - Intel
 date: '2025-10-10 12:40:08'
-description: Ušetřete 29 % na Intel-powered GMKtec Mini PC na Amazonu na omezenou
-  dobu.
+description: Ušetřete 29% na Intel-powered GMKtec Mini PC na Amazonu po omezenou dobu.
 importance: 3
 layout: tech_news_article
 original_title: This Intel N150 Mini PC Is Nearly 4x Cheaper Than Mac Mini, Still
@@ -15,13 +14,13 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Tento Intel N150 mini počítač je téměř 4x levnější než Mac Mini, stále na rekordně
-  nízké ceně po Prime Day akci
+title: Tento Intel N150 Mini PC je téměř 4x levnější než Mac Mini, stále na rekordně
+  nízké ceně po Prime Day
 url: https://kotaku.com/this-intel-n150-mini-pc-is-nearly-4x-cheaper-than-mac-mini-still-at-record-low-post-prime-day-2000633751
 urlToImage: https://kotaku.com/app/uploads/2025/10/GMKtecMiniIntel.jpg
 ---
 
-Ušetřete 29 % na Intel-powered GMKtec Mini PC na Amazonu na omezenou dobu.
+Ušetřete 29% na Intel-powered GMKtec Mini PC na Amazonu po omezenou dobu.
 
 [Číst původní článek](https://kotaku.com/this-intel-n150-mini-pc-is-nearly-4x-cheaper-than-mac-mini-still-at-record-low-post-prime-day-2000633751)
 

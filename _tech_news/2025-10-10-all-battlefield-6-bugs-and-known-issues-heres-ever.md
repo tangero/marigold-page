@@ -14,7 +14,7 @@ source:
   id: null
   name: Windows Central
 title: Všechny chyby a známé problémy Battlefieldu 6 — zde jsou všechny problémy při
-  spuštění a všechna známá řešení a obejití
+  spuštění a všechny známé opravy a alternativní řešení
 url: https://www.windowscentral.com/gaming/all-battlefield-6-bugs-and-known-issues-heres-every-problem-at-launch-and-all-known-fixes-and-workarounds
 urlToImage: https://cdn.mos.cms.futurecdn.net/ynm6GoNvDLeUCRqKVGYQDL-1920-80.jpg
 ---

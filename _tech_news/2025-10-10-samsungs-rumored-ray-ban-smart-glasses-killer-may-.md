@@ -15,7 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Očekávané Samsung Ray-Ban chytré brýle mohou přijít dříve, než si myslíte
+title: Očekávané chytré brýle Samsungu, které mají konkurovat Ray-Banu, mohou přijít
+  dříve, než si myslíte
 url: https://gizmodo.com/samsungs-rumored-ray-ban-smart-glasses-killer-may-arrive-sooner-than-you-think-2000671078
 urlToImage: https://gizmodo.com/app/uploads/2025/09/oakley-meta-hstn-smart-glasses-08-1200x675.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-category: módní doplňky
+category: obuv
 companies:
 - Microsoft
 date: '2025-10-10 13:54:02'

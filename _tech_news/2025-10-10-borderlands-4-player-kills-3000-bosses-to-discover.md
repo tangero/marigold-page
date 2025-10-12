@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-10 21:59:33'
-description: Uživatel Redditu se rozhodl vědecky prozkoumat problematiku náhodného
-  generování lootů (loot RNG).
+description: Uživatel Redditu se rozhodl vědecky prozkoumat loot RNG (náhodné generování
+  předmětů).
 importance: 3
 layout: tech_news_article
 original_title: Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Hranice 4 hráčů zabije 3 000 bossů, aby odhalili zklamavě nízkou míru legendárních
+title: Hráč Borderlands zabije 3 000 bossů, aby zjistil zklamavě nízkou míru legendárních
   dropů
 url: https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114
 urlToImage: https://kotaku.com/app/uploads/2024/12/67716c5284ac31bad67a3833640cd656-1200x675.jpg
 ---
 
-Uživatel Redditu se rozhodl vědecky prozkoumat problematiku náhodného generování lootů (loot RNG).
+Uživatel Redditu se rozhodl vědecky prozkoumat loot RNG (náhodné generování předmětů).
 
 [Číst původní článek](https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114)
 
