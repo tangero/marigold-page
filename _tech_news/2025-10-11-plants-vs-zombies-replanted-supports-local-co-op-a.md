@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: 'Rostliny proti zombíkům: Přesazené podporuje místní kooperaci a PvP přes GameShare'
+title: 'Rostliny proti zombiím: Replanted podporuje místní kooperaci a PvP přes GameShare'
 url: https://www.nintendolife.com/news/2025/10/plants-vs-zombies-replanted-supports-local-co-op-and-pvp-via-gameshare
 urlToImage: https://images.nintendolife.com/5b4736719262f/large.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-category: umělá inteligence
+category: robotika
 companies:
 - Google DeepMind
 date: '2025-10-10 12:10:00'

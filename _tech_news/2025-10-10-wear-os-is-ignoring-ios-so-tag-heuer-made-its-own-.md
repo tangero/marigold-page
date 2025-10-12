@@ -16,8 +16,8 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Wear OS ignoruje iOS, takže Tag Heuer vytvořil vlastní operační systém pro
-  chytré hodinky založený na Androidu
+title: Wear OS ignoruje iOS, takže Tag Heuer vytvořil vlastní smartwatch OS založený
+  na Androidu
 url: http://9to5google.com/2025/10/10/wear-os-is-ignoring-ios-so-tag-heuer-made-its-own-android-based-smartwatch-os/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/tag-heuer-connected-e5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Hráč Borderlands zabije 3 000 bossů, aby zjistil zklamavě nízkou míru legendárních
+title: Hranice 4 hráčů zabije 3 000 bossů, aby odhalili zklamavě nízkou rychlost legendárních
   dropů
 url: https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114
 urlToImage: https://kotaku.com/app/uploads/2024/12/67716c5284ac31bad67a3833640cd656-1200x675.jpg

@@ -1,10 +1,10 @@
 ---
-category: obuv
+category: módní doplňky
 companies:
 - Microsoft
 date: '2025-10-10 13:54:02'
 description: Microsoft nyní prodává své Crocs s motivem Windows XP. Limitovaná edice
-  těchto bot je k dispozici za cenu 79,95 USD v online obchodě společnosti Microsoft.
+  těchto bot je k dispozici v online obchodě společnosti Microsoft za cenu 79,95 USD.
 importance: 3
 layout: tech_news_article
 original_title: You can now buy Microsoft’s Windows XP Crocs for $79.95 - The Verge
@@ -19,7 +19,7 @@ url: https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-relea
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/windows-xp-crocs.png?quality=90&strip=all&crop=1.8838992332968%2C0%2C96.232201533406%2C100&w=1200
 ---
 
-Microsoft nyní prodává své Crocs s motivem Windows XP. Limitovaná edice těchto bot je k dispozici za cenu 79,95 USD v online obchodě společnosti Microsoft.
+Microsoft nyní prodává své Crocs s motivem Windows XP. Limitovaná edice těchto bot je k dispozici v online obchodě společnosti Microsoft za cenu 79,95 USD.
 
 [Číst původní článek](https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date)
 

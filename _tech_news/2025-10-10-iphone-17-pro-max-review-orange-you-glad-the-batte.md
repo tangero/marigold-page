@@ -3,8 +3,8 @@ category: mobilní telefony
 companies:
 - Apple
 date: '2025-10-10 16:08:19'
-description: Řada iPhone 17 Pro od Applu přidává odolnější unibody design, větší baterii
-  a vylepšení fotoaparátu, což vyměňuje tenký profil za výkon, výdrž a přitažlivost
+description: Řada iPhone 17 Pro od Applu přidává pevnější unibody design, větší baterii
+  a vylepšení fotoaparátu, obětuje tenký profil ve prospěch výkonu, výdrže a atraktivity
   pro tvůrce obsahu.
 importance: 3
 layout: tech_news_article
@@ -16,12 +16,12 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: 'Recenze iPhonu 17 Pro Max: Jsi rád, že baterie je větší'
+title: 'Recenze iPhonu 17 Pro Max: Jste rádi, že má větší baterii'
 url: https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/iPhone-Pro-Max-feat.jpg?resize=1200,675
 ---
 
-Řada iPhone 17 Pro od Applu přidává odolnější unibody design, větší baterii a vylepšení fotoaparátu, což vyměňuje tenký profil za výkon, výdrž a přitažlivost pro tvůrce obsahu.
+Řada iPhone 17 Pro od Applu přidává pevnější unibody design, větší baterii a vylepšení fotoaparátu, obětuje tenký profil ve prospěch výkonu, výdrže a atraktivity pro tvůrce obsahu.
 
 [Číst původní článek](https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/)
 
