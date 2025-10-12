@@ -17,7 +17,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Kopilot ve Windows nyní může vytvářet dokumenty Office a připojit se k Gmailu
+title: Vytváření dokumentů Office a připojení k Gmailu pomocí Copilota ve Windows
 url: https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

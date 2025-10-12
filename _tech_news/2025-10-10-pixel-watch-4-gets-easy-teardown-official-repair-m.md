@@ -3,7 +3,7 @@ category: opravitelnost
 companies:
 - Google
 date: '2025-10-10 15:59:00'
-description: Google navrhli Pixel Watch 4 tak, aby byl servisovatelný (nebo opravitelný)
+description: Google navrhl Pixel Watch 4 tak, aby byl servisovatelný (nebo opravitelný),
   a dnešní rozebrání od iFixitu ukazuje, jak snadné to je.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: http://9to5google.com/2025/10/10/pixel-watch-4-teardown/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-Watch-4-teardown-iFixit-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Google navrhli Pixel Watch 4 tak, aby byl servisovatelný (nebo opravitelný) a dnešní rozebrání od iFixitu ukazuje, jak snadné to je.
+Google navrhl Pixel Watch 4 tak, aby byl servisovatelný (nebo opravitelný), a dnešní rozebrání od iFixitu ukazuje, jak snadné to je.
 
 [Číst původní článek](http://9to5google.com/2025/10/10/pixel-watch-4-teardown/)
 

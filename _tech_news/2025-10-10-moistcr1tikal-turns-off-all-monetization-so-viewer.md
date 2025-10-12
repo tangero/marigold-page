@@ -1,7 +1,7 @@
 ---
 category: filantropie
 date: '2025-10-10 19:06:59'
-description: YouTuber a Twitch hvězda MoistCr1TiKaL vypnul všechny formy monetizace
+description: YouTuber a Twitch star MoistCr1TiKaL vypnul všechny formy monetizace
   a vyzývá diváky, aby místo toho darovali na charitu.
 importance: 3
 layout: tech_news_article
@@ -15,12 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Dexerto
-title: Vypnutí veškeré monetizace MoistCr1TiKaLem, aby diváci nemohli "plýtvat" penězi
+title: Vypnutí veškeré monetizace MoistCr1TiKaLem, aby diváci nemohli "utrácet" své
+  peníze
 url: https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so-viewers-cant-waste-their-money-3265394/
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/10/MoistCr1TiKaL-donations-monetization-charity-twitch-youtube.jpg
 ---
 
-YouTuber a Twitch hvězda MoistCr1TiKaL vypnul všechny formy monetizace a vyzývá diváky, aby místo toho darovali na charitu.
+YouTuber a Twitch star MoistCr1TiKaL vypnul všechny formy monetizace a vyzývá diváky, aby místo toho darovali na charitu.
 
 [Číst původní článek](https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so-viewers-cant-waste-their-money-3265394/)
 
