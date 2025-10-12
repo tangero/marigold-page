@@ -13,7 +13,8 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Spuštění fronty pro přístup k serverům v Battlefield 6 kvůli okamžitému zaplnění
+title: Spouštění systému fronty pro start Battlefieldu 6 - vývojáři reagují na plné
+  servery
 url: https://www.ign.com/articles/battlefield-6-developer-triggers-queue-system-for-launch-as-fans-immediately-face-full-servers
 urlToImage: https://assets-prd.ignimgs.com/2025/10/10/img-2148-1760109652961.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---

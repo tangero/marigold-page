@@ -16,8 +16,8 @@ source:
   emoji: 📰
   id: null
   name: Tipranks.com
-title: 'Zprávy o fúzích a akvizicích: Apple je blízko akvizice startupu Prompt AI
-  zaměřeného na počítačové vidění'
+title: 'Zprávy o fúzích a akvizicích: Apple je blízko akvizice startupu počítačového
+  vidění Prompt AI'
 url: https://www.tipranks.com/news/ma-news-apple-is-close-to-acquiring-computer-vision-startup-prompt-ai
 urlToImage: https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_1582046740-750x406.jpg
 ---

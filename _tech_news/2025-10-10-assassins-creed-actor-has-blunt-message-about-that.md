@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-10 14:38:26'
-description: Ralph Ineson reaguje na zprávu, že hra z série Assassin's Creed byla
-  zřejmě zrušena.
+description: Ralph Ineson reaguje na zprávu, že prý byl zrušen nějaký Assassin's Creed
+  titul.
 importance: 4
 layout: tech_news_article
 original_title: Assassin's Creed Actor Has Blunt Message About That Reportedly Canceled
@@ -15,12 +15,12 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Herec ze série Assassin's Creed má přímé sdělení o údajně zrušené hře
+title: Herec ze série Assassin's Creed má přímou zprávu o údajně zrušené hře
 url: https://www.gamespot.com/articles/assassins-creed-actor-has-blunt-message-about-that-reportedly-canceled-game/1100-6535358/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4583198-screenshot2025-10-10at9.33.06%E2%80%AFam.png
 ---
 
-Ralph Ineson reaguje na zprávu, že hra z série Assassin's Creed byla zřejmě zrušena.
+Ralph Ineson reaguje na zprávu, že prý byl zrušen nějaký Assassin's Creed titul.
 
 [Číst původní článek](https://www.gamespot.com/articles/assassins-creed-actor-has-blunt-message-about-that-reportedly-canceled-game/1100-6535358/)
 
