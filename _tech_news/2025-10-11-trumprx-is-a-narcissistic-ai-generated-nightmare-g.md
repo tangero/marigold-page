@@ -1,7 +1,7 @@
 ---
 category: ai umění
 date: '2025-10-11 00:04:56'
-description: AI umění se opravdu stalo estetikou podvodníků a fašistů.
+description: AI umění se skutečně stalo estetikou podvodníků a fašistů.
 importance: 3
 layout: tech_news_article
 original_title: TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo
@@ -11,12 +11,12 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Trumpova lékárenská aplikace je narcistický, AI generovaný noční můra
+title: Trumpova lékařská preskripce je narcistický, AI-generovaný noční můra
 url: https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309
 urlToImage: https://gizmodo.com/app/uploads/2025/10/trumprx-website-e1760140421440-1200x675.jpg
 ---
 
-AI umění se opravdu stalo estetikou podvodníků a fašistů.
+AI umění se skutečně stalo estetikou podvodníků a fašistů.
 
 [Číst původní článek](https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309)
 

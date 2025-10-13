@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Brzy vychází remaster Sacred 2, předobjednávky jsou k dispozici na Amazonu
+title: Brzy vychází remaster hry Sacred 2, předobjednávky jsou k dispozici na Amazonu
 url: https://www.gamespot.com/articles/sacred-2-remaster-launches-soon-preorders-live-at-amazon/1100-6535367/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4583377-sacred2.jpg
 ---

@@ -2,7 +2,7 @@
 category: filantropie
 date: '2025-10-10 22:30:25'
 description: YouTuber a Twitch star MoistCr1TiKaL vypnul všechny formy monetizace
-  a vyzývá diváky, aby místo toho darovali na charitu.
+  a vyzývá diváky, aby namísto toho přispívali na charitu.
 importance: 3
 layout: tech_news_article
 original_title: MoistCr1TiKaL turns off all monetization so viewers can’t “waste”
@@ -20,7 +20,7 @@ url: https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/10/MoistCr1TiKaL-donations-monetization-charity-twitch-youtube.jpg
 ---
 
-YouTuber a Twitch star MoistCr1TiKaL vypnul všechny formy monetizace a vyzývá diváky, aby místo toho darovali na charitu.
+YouTuber a Twitch star MoistCr1TiKaL vypnul všechny formy monetizace a vyzývá diváky, aby namísto toho přispívali na charitu.
 
 [Číst původní článek](https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so-viewers-cant-waste-their-money-3265394/)
 

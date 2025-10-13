@@ -1,11 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-11 04:51:50'
-description: Nintendo Switch a Nintendo Switch 2 a hry, které v roce svého uvedení
-  na trh obdržely, jsou porovnány, aby bylo určeno, který z nich je lepší. Nintendo
-  Switch představuje hybridní herní konzoli, která umožňuje hraní jak na TV, tak v
-  mobilním režimu. Nintendo Switch 2 je nástupce této konzole, který pravděpodobně
-  přinese vylepšený hardware a nové funkce.
+description: Nintendo Switch a Nintendo Switch 2 a hry, které dostaly v roce svého
+  uvedení na trh. Určíme, která konzole je lepší.
 importance: 4
 layout: tech_news_article
 original_title: Nintendo Switch and Switch 2 launches compared, and choosing which
@@ -16,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Srovnání uvedení Nintendo Switch a Switch 2 a volba, který je lepší
+title: Srovnání uvedení Nintendo Switch a Switch 2, a výběr, který je lepší
 url: https://nintendoeverything.com/nintendo-switch-switch-2-launch-comparison/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Switch-vs-Switch-2-Launch.jpg
 ---
 
-Nintendo Switch a Nintendo Switch 2 a hry, které v roce svého uvedení na trh obdržely, jsou porovnány, aby bylo určeno, který z nich je lepší. Nintendo Switch představuje hybridní herní konzoli, která umožňuje hraní jak na TV, tak v mobilním režimu. Nintendo Switch 2 je nástupce této konzole, který pravděpodobně přinese vylepšený hardware a nové funkce.
+Nintendo Switch a Nintendo Switch 2 a hry, které dostaly v roce svého uvedení na trh. Určíme, která konzole je lepší.
 
 [Číst původní článek](https://nintendoeverything.com/nintendo-switch-switch-2-launch-comparison/)
 

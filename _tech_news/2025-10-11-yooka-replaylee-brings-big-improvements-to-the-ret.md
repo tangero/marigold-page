@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-11 09:00:00'
-description: Několik hodin do Yooka-Replaylee, jsem rád, že jsem zpět, i když se zdá,
-  že část jeho záměrného staromódního kouzla se po cestě ztratila.
+description: Několik hodin do hry Yooka-Replaylee jsem rád, že jsem zpět, i když se
+  zdá, že část jejího záměrného retro kouzla byla po cestě ztracena.
 importance: 3
 layout: tech_news_article
 original_title: Yooka-Replaylee brings big improvements to the retro throwback, but
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Yooka-Replaylee přináší velká vylepšení k retro návratu, ale ztrácí část své
-  starosvětské kouzlo
+title: Yooka-Replaylee přináší velká vylepšení retro návratu, ale ztrácí část své
+  staromódní kouzlo
 url: https://www.eurogamer.net/yooka-replaylee-brings-big-improvements-to-the-retro-throwback-but-loses-some-of-its-old-school-charm-along-the-way
 urlToImage: https://assetsio.gnwcdn.com/yooka-replaylee-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Několik hodin do Yooka-Replaylee, jsem rád, že jsem zpět, i když se zdá, že část jeho záměrného staromódního kouzla se po cestě ztratila.
+Několik hodin do hry Yooka-Replaylee jsem rád, že jsem zpět, i když se zdá, že část jejího záměrného retro kouzla byla po cestě ztracena.
 
 [Číst původní článek](https://www.eurogamer.net/yooka-replaylee-brings-big-improvements-to-the-retro-throwback-but-loses-some-of-its-old-school-charm-along-the-way)
 
