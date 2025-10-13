@@ -5,7 +5,8 @@ companies:
 - Steam
 date: '2025-10-11 13:00:00'
 description: Následující výpadek aplikace Battlefield 6 EA, který na několik hodin
-  uzamkl některé hráče, doporučil vedoucí franšízy Vince Zampella platformu Steam.
+  uzamkl některé hráče, vedl k doporučení Vince Zampelly, vedoucího franšízy, přejít
+  na Steam.
 importance: 3
 layout: tech_news_article
 original_title: Battlefield 6 EA App Outage Leads Franchise Head Vince Zampella to
@@ -24,7 +25,7 @@ url: https://wccftech.com/battlefield-6-ea-app-outage-leads-franchise-head-to-re
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/G28FKKnbEAAhiG5-scaled.jpg
 ---
 
-Následující výpadek aplikace Battlefield 6 EA, který na několik hodin uzamkl některé hráče, doporučil vedoucí franšízy Vince Zampella platformu Steam.
+Následující výpadek aplikace Battlefield 6 EA, který na několik hodin uzamkl některé hráče, vedl k doporučení Vince Zampelly, vedoucího franšízy, přejít na Steam.
 
 [Číst původní článek](https://wccftech.com/battlefield-6-ea-app-outage-leads-franchise-head-to-recommend-steam/)
 

@@ -14,7 +14,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Lidé litují nákupu chytrých displejů Amazonu po bombardování reklamami
+title: Lidé litují nákupu chytrých displejů Amazon po bombardování reklamami
 url: https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/1_Echo_Family_Beekeeper._TTW_-1152x648.jpg
 ---

@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Nový systém UGC ve hře Genshin Impact je téměř tady – tohle můžete očekávat,
-  až bude spuštěn Miliastra Wonderland později tento měsíc
+title: Nový systém UGC ve hře Genshin Impact je téměř tady – toto můžete očekávat
+  při spuštění Miliastra Wonderland později tento měsíc
 url: https://www.eurogamer.net/genshin-impacts-new-ugc-system-is-almost-here-heres-what-to-expect-when-miliastra-wonderland-launches-later-this-month
 urlToImage: https://assetsio.gnwcdn.com/1_d7aXiFp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

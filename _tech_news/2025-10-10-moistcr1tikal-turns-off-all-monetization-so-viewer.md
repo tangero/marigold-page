@@ -1,6 +1,6 @@
 ---
 category: filantropie
-date: '2025-10-10 19:06:59'
+date: '2025-10-10 22:30:25'
 description: YouTuber a Twitch star MoistCr1TiKaL vypnul všechny formy monetizace
   a vyzývá diváky, aby místo toho darovali na charitu.
 importance: 3
@@ -9,7 +9,7 @@ original_title: MoistCr1TiKaL turns off all monetization so viewers can’t “w
   their money - Dexerto
 people:
 - MoistCr1TiKaL
-publishedAt: '2025-10-10T19:06:59+00:00'
+publishedAt: '2025-10-10T22:30:25+00:00'
 slug: moistcr1tikal-turns-off-all-monetization-so-viewer
 source:
   emoji: 📰

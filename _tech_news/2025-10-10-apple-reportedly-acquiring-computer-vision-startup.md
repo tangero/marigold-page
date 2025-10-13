@@ -16,7 +16,8 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Údajné převzetí týmu a technologie startupu Prompt AI společností Apple
+title: Údajné převzetí týmu a technologie startupu Prompt AI zaměřeného na počítačové
+  vidění společností Apple
 url: https://9to5mac.com/2025/10/10/apple-reportedly-acquiring-computer-vision-startup-prompt-ais-team-and-technology/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-macos-26-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

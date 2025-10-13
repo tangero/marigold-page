@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-10 22:55:37'
-description: Několik kosmetických předmětů můžete získat pouhým sběrem psích známek
+description: Několik kosmetických předmětů můžete získat pouhým sběrem psacích známek
   v kampani BF6.
 importance: 3
 layout: tech_news_article
@@ -17,7 +17,7 @@ url: https://www.gamespot.com/gallery/all-battlefield-6-free-skins-and-campaign-
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4583328-bf6screen%235.jpg
 ---
 
-Několik kosmetických předmětů můžete získat pouhým sběrem psích známek v kampani BF6.
+Několik kosmetických předmětů můžete získat pouhým sběrem psacích známek v kampani BF6.
 
 [Číst původní článek](https://www.gamespot.com/gallery/all-battlefield-6-free-skins-and-campaign-rewards/2900-7127/)
 

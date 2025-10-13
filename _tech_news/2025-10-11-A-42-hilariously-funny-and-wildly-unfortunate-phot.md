@@ -1,8 +1,8 @@
 ---
 category: zábavný obsah
 date: '2025-10-11 12:16:01'
-description: Chápu, že jste empatická osoba. Ale někdy se prostě nedá zabránit, aby
-  se pár úšklebků neprodralo ven.
+description: Chápu, že jste empatická osoba. Ale někdy se prostě nedá zabránit tomu,
+  aby se pár úšklebků neprodralo ven.
 importance: 3
 layout: tech_news_article
 original_title: 42 Hilariously Funny And Wildly Unfortunate Photos I Feel Terrible
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: buzzfeed
   name: Buzzfeed
-title: 42 neuvěřitelně vtipné a divoce nešťastné fotografie, za které se cítím strašně,
+title: 42 neuvěřitelně vtipné a nešťastně nešťastné fotografie, za které se stydím,
   že se jim směju (ale to mě nezastavilo)
 url: https://www.buzzfeed.com/hannahmarder/silly-unfortunate-photos
 urlToImage: https://img.buzzfeed.com/buzzfeed-static/static/2025-09/24/21/thumb/YnpXPOXV2.jpg?crop=1250:655;0,43%26downsize=1250:*
 ---
 
-Chápu, že jste empatická osoba. Ale někdy se prostě nedá zabránit, aby se pár úšklebků neprodralo ven.
+Chápu, že jste empatická osoba. Ale někdy se prostě nedá zabránit tomu, aby se pár úšklebků neprodralo ven.
 
 [Číst původní článek](https://www.buzzfeed.com/hannahmarder/silly-unfortunate-photos)
 

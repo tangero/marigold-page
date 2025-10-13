@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: 'Brzy vychází Sacred 2: Remaster, předobjednávky živé na Amazonu'
+title: 'Brzy vychází Sacred 2: Remaster, předobjednávky jsou živé na Amazonu'
 url: https://www.gamespot.com/articles/sacred-2-remaster-launches-soon-preorders-live-at-amazon/1100-6535367/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4583377-sacred2.jpg
 ---
