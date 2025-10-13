@@ -3,7 +3,7 @@ category: konkurence
 companies:
 - Apple
 date: '2025-10-12 09:10:00'
-description: AI nebyla pro firmu zvláštní silnou stránkou," řekl bývalý CEO Applu
+description: AI nebyla pro společnost zvláštní silnou stránkou," řekl bývalý CEO Applu
   John Sculley.
 importance: 4
 layout: tech_news_article
@@ -23,7 +23,7 @@ url: https://www.businessinsider.com/former-apple-ceo-john-sculley-says-openai-r
 urlToImage: https://i.insider.com/68e9336bcc993f9955cffa1f?width=1200&format=jpeg
 ---
 
-AI nebyla pro firmu zvláštní silnou stránkou," řekl bývalý CEO Applu John Sculley.
+AI nebyla pro společnost zvláštní silnou stránkou," řekl bývalý CEO Applu John Sculley.
 
 [Číst původní článek](https://www.businessinsider.com/former-apple-ceo-john-sculley-says-openai-rivals-apple-2025-10)
 

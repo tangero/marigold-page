@@ -1,7 +1,9 @@
 ---
 category: kabelové konektory
+companies:
+- V daném článku nejsou zmíněny žádné významné technologické firmy
 date: '2025-10-12 05:00:00'
-description: USB-C jako "jeden kabel, který je nad nimi všemi" byl jistě úspěchem.
+description: USB-C jako "jeden kabel, který je nad nimi všemi" byl jistě úspěšný.
   Zatímco USB-A je stále k dispozici, většina z nás si oddechla s odchodem micro-USB.
 importance: 3
 layout: tech_news_article
@@ -12,12 +14,12 @@ source:
   emoji: 📰
   id: null
   name: Hackaday
-title: Zachraňte své USB-C konektory před zapomnětím
+title: Zachraňte své USB-C konektory před zapomněním
 url: https://hackaday.com/2025/10/11/save-your-usb-c-plugs-from-oblivion/
 urlToImage: https://hackaday.com/wp-content/uploads/2025/10/strain-relief-featured.jpg
 ---
 
-USB-C jako "jeden kabel, který je nad nimi všemi" byl jistě úspěchem. Zatímco USB-A je stále k dispozici, většina z nás si oddechla s odchodem micro-USB.
+USB-C jako "jeden kabel, který je nad nimi všemi" byl jistě úspěšný. Zatímco USB-A je stále k dispozici, většina z nás si oddechla s odchodem micro-USB.
 
 [Číst původní článek](https://hackaday.com/2025/10/11/save-your-usb-c-plugs-from-oblivion/)
 
