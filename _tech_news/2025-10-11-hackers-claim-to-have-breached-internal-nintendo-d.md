@@ -3,8 +3,8 @@ category: kybernetický útok
 companies:
 - Nintendo
 date: '2025-10-11 17:28:36'
-description: Hackeři tvrdí, že "narušili" Nintendo a ukradli interní data z japonské
-  megakorporace.
+description: Hackeři tvrdí, že "napadli" Nintendo a ukradli interní data z japonské
+  korporátní gigantky.
 importance: 3
 layout: tech_news_article
 original_title: Hackers claim to have breached internal Nintendo data - Eurogamer
@@ -14,12 +14,12 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Hackeři tvrdí, že pronikli do interních dat Nintenda
+title: Hackeři tvrdí, že narušili interní data společnosti Nintendo
 url: https://www.eurogamer.net/hackers-claim-to-have-breached-internal-nintendo-data
 urlToImage: https://assetsio.gnwcdn.com/nintendo-logo-1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Hackeři tvrdí, že "narušili" Nintendo a ukradli interní data z japonské megakorporace.
+Hackeři tvrdí, že "napadli" Nintendo a ukradli interní data z japonské korporátní gigantky.
 
 [Číst původní článek](https://www.eurogamer.net/hackers-claim-to-have-breached-internal-nintendo-data)
 

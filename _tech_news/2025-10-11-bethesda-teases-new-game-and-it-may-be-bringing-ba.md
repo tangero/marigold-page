@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: ComicBook.com
-title: Bethesda naznačuje novou hru (a možná se vrátí série, kterou jsme neviděli
+title: Bethesda naznačuje novou hru (a možná se vrací k sérii, kterou jsme neviděli
   od 2010s)
 url: http://comicbook.com/gaming/news/bethesda-teases-new-game-and-it-may-be-bringing-series-we-havent-seen-since-the-2010s/
 urlToImage: https://comicbook.com/wp-content/uploads/sites/4/2025/10/w-o-l-f-e-n-s-t-e-i-n.png?resize=2000,1125

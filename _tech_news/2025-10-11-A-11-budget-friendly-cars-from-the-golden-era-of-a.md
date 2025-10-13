@@ -1,8 +1,9 @@
 ---
 category: automobilismus
 date: '2025-10-11 20:45:00'
-description: Vlastnit kus automobilové historie z doby největší slávy amerických muscle
-  cars nemusí stát majlant. Zde jsou některé možnosti, které nebudou rozbíjet banku.
+description: Vlastnit kus automobilové historie z období největší slávy amerických
+  muscle cars nemusí stát majlant. Zde jsou některé možnosti, které nebudou rozbíjet
+  banku.
 importance: 3
 layout: tech_news_article
 original_title: 11 Budget-Friendly Cars From The Golden Era Of American Muscle - Jalopnik
@@ -17,7 +18,7 @@ url: https://www.jalopnik.com/1992156/budget-friendly-classic-muscle-cars/
 urlToImage: https://www.jalopnik.com/img/gallery/11-budget-friendly-cars-from-the-golden-era-of-american-muscle/l-intro-1760040132.jpg
 ---
 
-Vlastnit kus automobilové historie z doby největší slávy amerických muscle cars nemusí stát majlant. Zde jsou některé možnosti, které nebudou rozbíjet banku.
+Vlastnit kus automobilové historie z období největší slávy amerických muscle cars nemusí stát majlant. Zde jsou některé možnosti, které nebudou rozbíjet banku.
 
 [Číst původní článek](https://www.jalopnik.com/1992156/budget-friendly-classic-muscle-cars/)
 

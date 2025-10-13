@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-10-11 15:15:43'
 description: V červenci Apple podal žalobu proti Jonu Prosserovi a Michaelu Ramacciottovi
-  kvůli údajnému krádeži obchodních tajemství společnosti. Stížnost...
+  kvůli údajnému odcizení obchodních tajemství společnosti. Stížnost...
 importance: 2
 layout: tech_news_article
 original_title: Here's the Latest on Apple Suing Jon Prosser Over iOS 26 Leaks - MacRumors
@@ -22,7 +22,7 @@ url: https://www.macrumors.com/2025/10/11/apple-jon-prosser-lawsuit-latest-updat
 urlToImage: https://images.macrumors.com/t/oCYEjeWdNk0EevfzJBuDMrnlqcA=/1600x/article-new/2025/10/Jon-Prosser-Rainbow.jpg
 ---
 
-V červenci Apple podal žalobu proti Jonu Prosserovi a Michaelu Ramacciottovi kvůli údajnému krádeži obchodních tajemství společnosti. Stížnost...
+V červenci Apple podal žalobu proti Jonu Prosserovi a Michaelu Ramacciottovi kvůli údajnému odcizení obchodních tajemství společnosti. Stížnost...
 
 [Číst původní článek](https://www.macrumors.com/2025/10/11/apple-jon-prosser-lawsuit-latest-updates/)
 

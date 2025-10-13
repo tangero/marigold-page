@@ -18,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: ZDNet
-title: Porovnání signálů 5G sítí Verizon, T-Mobile a AT&T na baseballovém stadionu
+title: Porovnání 5G signálů sítí Verizon, T-Mobile a AT&T na baseballovém stadionu
   - vítěz
 url: https://www.zdnet.com/article/i-compared-5g-network-signals-of-verizon-t-mobile-and-at-t-at-a-baseball-stadium-heres-the-winner/
 urlToImage: https://www.zdnet.com/a/img/resize/71fcb42d63bd908a702a93bffb6f3a6fbae68098/2025/10/10/cd1615e2-b877-4dc5-a329-7531c7a19f4a/pxl-20251001-194636931.jpg?auto=webp&fit=crop&height=675&width=1200

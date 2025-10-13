@@ -3,7 +3,7 @@ category: témata android
 companies:
 - Google
 date: '2025-10-11 12:23:28'
-description: 'Google vytváří tematické balíčky pro telefony Pixel a aby je mohl implementovat,
+description: 'Google vytváří tematické balíčky pro telefony Pixel a aby je zprovoznil,
   vyvinul nový Theme Manager pro Android. Jak to funguje:'
 importance: 4
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://www.androidauthority.com/android-theme-manager-3606395/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Android-lock-screen-customization-on-Pixel-phone-scaled.jpg
 ---
 
-Google vytváří tematické balíčky pro telefony Pixel a aby je mohl implementovat, vyvinul nový Theme Manager pro Android. Jak to funguje:
+Google vytváří tematické balíčky pro telefony Pixel a aby je zprovoznil, vyvinul nový Theme Manager pro Android. Jak to funguje:
 
 [Číst původní článek](https://www.androidauthority.com/android-theme-manager-3606395/)
 

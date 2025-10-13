@@ -3,8 +3,8 @@ category: mobilní hardware
 companies:
 - Apple
 date: '2025-10-12 02:36:42'
-description: AT&T's webová stránka odkazuje na dosud nevydaný model iPadu Pro s čipem
-  M5, ale není jasné, zda se jedná o náhodné uniknutí informací, nebo pouze předčasné...
+description: AT&T's webová stránka odkazuje na dosud nevydaný model iPad Pro s čipem
+  M5, ale není jasné, zda se jedná o náhodný únik informací, nebo pouze předčasné...
 importance: 2
 layout: tech_news_article
 original_title: AT&T Website References Next-Generation iPad Pro With M5 Chip - MacRumors
@@ -19,7 +19,7 @@ url: https://www.macrumors.com/2025/10/11/att-website-references-next-generation
 urlToImage: https://images.macrumors.com/t/fXHx_BozuNUEWL-lX7vYEtHEY1I=/3840x/article-new/2024/05/ipad-pro-2024.jpg
 ---
 
-AT&T's webová stránka odkazuje na dosud nevydaný model iPadu Pro s čipem M5, ale není jasné, zda se jedná o náhodné uniknutí informací, nebo pouze předčasné...
+AT&T's webová stránka odkazuje na dosud nevydaný model iPad Pro s čipem M5, ale není jasné, zda se jedná o náhodný únik informací, nebo pouze předčasné...
 
 [Číst původní článek](https://www.macrumors.com/2025/10/11/att-website-references-next-generation-ipad-pro-with-m5-chip/)
 
