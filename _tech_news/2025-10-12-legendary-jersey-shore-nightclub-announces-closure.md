@@ -1,8 +1,8 @@
 ---
 category: demolice
 date: '2025-10-12 15:04:00'
-description: Oblíbený bar na Jersey Shore bude zbourán kvůli projektu přestavby pobřeží,
-  který bude zahrnovat hotel, obytné budovy a maloobchodní prostory.
+description: Populární bar na pobřeží Jersey Shore bude zbourán kvůli projektu revitalizace
+  pobřeží, který bude zahrnovat hotel, rezidenční budovy a maloobchodní prostory.
 importance: 4
 layout: tech_news_article
 original_title: Legendary Jersey Shore nightclub announces closure, final days of
@@ -13,13 +13,12 @@ source:
   emoji: 📰
   id: null
   name: nj.com
-title: Legendární noční klub na pobřeží Jersey Shore oznamuje uzavření, poslední dny
-  provozu
+title: Legendární noční klub na Jersey Shore oznamuje uzavření, poslední dny provozu
 url: https://www.nj.com/monmouth/2025/10/legendary-jersey-shore-nightclub-announces-closure-final-days-of-operation.html
 urlToImage: https://www.nj.com/resizer/v2/TLUFU3C4UJBRLB42JIZXRJM4LE.jpeg?auth=2aaaede8289d723aa433a1063eef632afab0e7ab7cacdd05981590ac51bc2520&width=1280&smart=true&quality=90
 ---
 
-Oblíbený bar na Jersey Shore bude zbourán kvůli projektu přestavby pobřeží, který bude zahrnovat hotel, obytné budovy a maloobchodní prostory.
+Populární bar na pobřeží Jersey Shore bude zbourán kvůli projektu revitalizace pobřeží, který bude zahrnovat hotel, rezidenční budovy a maloobchodní prostory.
 
 [Číst původní článek](https://www.nj.com/monmouth/2025/10/legendary-jersey-shore-nightclub-announces-closure-final-days-of-operation.html)
 

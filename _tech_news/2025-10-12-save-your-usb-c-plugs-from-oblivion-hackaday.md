@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: Hackaday
-title: Zachraňte své USB-C konektory před zapomněním
+title: Zachraňte své USB-C konektory před zapomnětím
 url: https://hackaday.com/2025/10/11/save-your-usb-c-plugs-from-oblivion/
 urlToImage: https://hackaday.com/wp-content/uploads/2025/10/strain-relief-featured.jpg
 ---

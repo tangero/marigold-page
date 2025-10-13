@@ -1,11 +1,10 @@
 ---
 category: sluneční aplikace
 date: '2025-10-12 09:34:00'
-description: Slunce je možné předpovědět pomocí astronomických modelů. Tyto modely
-  využívají data o oběžné dráze Země kolem Slunce a rotaci Země kolem své osy k určení
-  polohy Slunce na obloze v jakémkoli daném čase a místě. Tato předpověď polohy Slunce
-  je důležitá pro mnoho aplikací, jako je solární energetika, navigace a plánovací
-  aktivity závislé na denním světle.
+description: Slunce bude na obloze v daném čase a místě. Pomocí astronomických výpočtů
+  lze určit přesnou polohu slunce na obloze pro libovolný okamžik a lokalitu. Tato
+  informace je užitečná například pro solární energetiku, navigaci, astronomická pozorování
+  a další aplikace, kde je potřeba znát přesnou polohu slunce.
 importance: 4
 layout: tech_news_article
 original_title: I wasn't looking for a new app — but this one completely changed how
@@ -16,12 +15,12 @@ source:
   emoji: 📰
   id: null
   name: Android Police
-title: Změna toho, jak vnímám denní světlo - Android Police
+title: Jak tato aplikace zcela změnila můj pohled na denní světlo
 url: https://www.androidpolice.com/sun-surveyor-app/
 urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0375.jpg?w=1600&h=900&fit=crop
 ---
 
-Slunce je možné předpovědět pomocí astronomických modelů. Tyto modely využívají data o oběžné dráze Země kolem Slunce a rotaci Země kolem své osy k určení polohy Slunce na obloze v jakémkoli daném čase a místě. Tato předpověď polohy Slunce je důležitá pro mnoho aplikací, jako je solární energetika, navigace a plánovací aktivity závislé na denním světle.
+Slunce bude na obloze v daném čase a místě. Pomocí astronomických výpočtů lze určit přesnou polohu slunce na obloze pro libovolný okamžik a lokalitu. Tato informace je užitečná například pro solární energetiku, navigaci, astronomická pozorování a další aplikace, kde je potřeba znát přesnou polohu slunce.
 
 [Číst původní článek](https://www.androidpolice.com/sun-surveyor-app/)
 

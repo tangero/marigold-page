@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-12 10:00:00'
-description: Uživatelé Redditu, kteří se vydávají za zaměstnance Targetu a Walmartu,
-  tvrdí, že tyto obchody stahují zásoby Xboxu.
+description: Uživatelé Redditu, kteří se vydávají za zaměstnance společností Target
+  a Walmart, tvrdí, že tyto obchody stahují zásoby konzolí Xbox.
 importance: 3
 layout: tech_news_article
 original_title: Target And Walmart Are Pulling Their Xbox Stock, According To Alleged
@@ -18,7 +18,7 @@ url: https://www.thegamer.com/target-walmart-stop-selling-xbox-reddit-user-alleg
 urlToImage: https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/10/news-xbox-logo-distorted-by-glass-panes.jpg?w=1600&h=900&fit=crop
 ---
 
-Uživatelé Redditu, kteří se vydávají za zaměstnance Targetu a Walmartu, tvrdí, že tyto obchody stahují zásoby Xboxu.
+Uživatelé Redditu, kteří se vydávají za zaměstnance společností Target a Walmart, tvrdí, že tyto obchody stahují zásoby konzolí Xbox.
 
 [Číst původní článek](https://www.thegamer.com/target-walmart-stop-selling-xbox-reddit-user-alleged-employee/)
 

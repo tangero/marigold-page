@@ -1,5 +1,5 @@
 ---
-category: herní průmysl
+category: mobilní hry
 date: '2025-10-12 03:10:57'
 description: Square Enix oznámí nový titul Dissidia Final Fantasy pro iOS a Android
   14. října v 3:00 ráno PT / 6:00 ráno ET / 19:00 JST, oznámila společnost. Streamování

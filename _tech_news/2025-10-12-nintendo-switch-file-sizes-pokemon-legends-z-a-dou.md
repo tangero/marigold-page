@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-12 07:41:50'
-description: 'Nejnovější velikosti souborů pro Nintendo Switch byly odhaleny, včetně
-  her Pokemon Legends: Z-A, Double Dragon Revive a dalších.'
+description: 'Nejnovější velikosti souborů pro Nintendo Switch byly zveřejněny, včetně
+  Pokemon Legends: Z-A, Double Dragon Revive a dalších.'
 importance: 3
 layout: tech_news_article
 original_title: 'Nintendo Switch file sizes – Pokemon Legends: Z-A, Double Dragon
@@ -19,7 +19,7 @@ url: https://nintendoeverything.com/nintendo-switch-file-sizes-pokemon-legends-z
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-size.jpg
 ---
 
-Nejnovější velikosti souborů pro Nintendo Switch byly odhaleny, včetně her Pokemon Legends: Z-A, Double Dragon Revive a dalších.
+Nejnovější velikosti souborů pro Nintendo Switch byly zveřejněny, včetně Pokemon Legends: Z-A, Double Dragon Revive a dalších.
 
 [Číst původní článek](https://nintendoeverything.com/nintendo-switch-file-sizes-pokemon-legends-z-a-double-dragon-revive-more/)
 

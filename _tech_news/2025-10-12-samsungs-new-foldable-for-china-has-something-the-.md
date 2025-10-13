@@ -3,10 +3,9 @@ category: mobilní telefony
 companies:
 - Samsung
 date: '2025-10-12 07:46:00'
-description: Samsung představil v Číně nový skládací smartphone. Je z velké části
-  založen na modelu Galaxy Z Fold 7, ale má několik dodatečných funkcí a nové barevné
-  varianty. Jednou z těchto dodatečných funkcí je prvek, který by mohl být velmi užitečný
-  v nouzových situacích.
+description: Samsung představil v Číně nový skládací smartphone. Vychází z modelu
+  Galaxy Z Fold 7, ale má několik dodatečných funkcí a nové barevné varianty. Jedna
+  z těchto dodatečných funkcí by mohla být velmi užitečná v nouzových situacích.
 importance: 5
 layout: tech_news_article
 original_title: Samsung's new foldable for China has something the Galaxy Z Fold 7
@@ -22,7 +21,7 @@ url: https://www.sammobile.com/news/samsung-w26-foldable-china-something-galaxy-
 urlToImage: https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-W26-Colors-1200x675.jpg
 ---
 
-Samsung představil v Číně nový skládací smartphone. Je z velké části založen na modelu Galaxy Z Fold 7, ale má několik dodatečných funkcí a nové barevné varianty. Jednou z těchto dodatečných funkcí je prvek, který by mohl být velmi užitečný v nouzových situacích.
+Samsung představil v Číně nový skládací smartphone. Vychází z modelu Galaxy Z Fold 7, ale má několik dodatečných funkcí a nové barevné varianty. Jedna z těchto dodatečných funkcí by mohla být velmi užitečná v nouzových situacích.
 
 [Číst původní článek](https://www.sammobile.com/news/samsung-w26-foldable-china-something-galaxy-z-fold-7-doesnt/)
 

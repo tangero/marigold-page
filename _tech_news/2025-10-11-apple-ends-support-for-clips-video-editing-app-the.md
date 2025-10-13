@@ -14,7 +14,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Ukončení podpory aplikace Clips pro video editaci od Applu
+title: Ukončení podpory aplikace Clips pro úpravu videa společností Apple
 url: https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Clips3.webp?quality=90&strip=all&crop=0%2C11.044304996833%2C100%2C77.911390006335&w=1200
 ---

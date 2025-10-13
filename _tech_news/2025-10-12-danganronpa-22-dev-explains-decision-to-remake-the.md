@@ -1,10 +1,10 @@
 ---
 category: herní průmysl
 date: '2025-10-12 04:01:50'
-description: Producent Danganronpa 2x2 komentuje, proč dostala tato hra remake namísto
-  Danganronpa 1. Podle jeho slov byla Danganronpa 2 zvolena pro remake, protože obsahuje
-  více obsahu a komplexnější příběh než první díl série. Remake měl za cíl přinést
-  tuto hru novým hráčům a zároveň poskytnout lepší herní zážitek pro stávající fanoušky.
+description: Producent Danganronpa 2x2 komentuje, proč dostala hra remake namísto
+  Danganronpa 1. Remake Danganronpa 2x2 byl upřednostněn, protože obsahuje více obsahu
+  a komplexnější příběh než původní Danganronpa 1. Vývojáři se rozhodli zaměřit na
+  vylepšení a modernizaci druhého dílu, který je považován za vrchol série.
 importance: 4
 layout: tech_news_article
 original_title: Danganronpa 2×2 dev explains decision to remake the second game instead
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: Vysvětlení rozhodnutí přepracovat druhou hru namísto první od vývojáře Danganronpa
-  2×2
+title: Vysvětlení rozhodnutí vývojářů Danganronpa 2×2 přepracovat druhou hru namísto
+  první
 url: https://nintendoeverything.com/danganronpa-2x2-dev-explains-decision-to-remake-the-second-game-instead-of-the-first/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Danganronpa-1-remake.jpg
 ---
 
-Producent Danganronpa 2x2 komentuje, proč dostala tato hra remake namísto Danganronpa 1. Podle jeho slov byla Danganronpa 2 zvolena pro remake, protože obsahuje více obsahu a komplexnější příběh než první díl série. Remake měl za cíl přinést tuto hru novým hráčům a zároveň poskytnout lepší herní zážitek pro stávající fanoušky.
+Producent Danganronpa 2x2 komentuje, proč dostala hra remake namísto Danganronpa 1. Remake Danganronpa 2x2 byl upřednostněn, protože obsahuje více obsahu a komplexnější příběh než původní Danganronpa 1. Vývojáři se rozhodli zaměřit na vylepšení a modernizaci druhého dílu, který je považován za vrchol série.
 
 [Číst původní článek](https://nintendoeverything.com/danganronpa-2x2-dev-explains-decision-to-remake-the-second-game-instead-of-the-first/)
 

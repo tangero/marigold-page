@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Android Central
-title: Pixel Watch 4 konečně napravuje největší slabinu chytrých hodinek
+title: Pixel Watch 4 konečně opravuje největší slabinu chytrých hodinek
 url: https://www.androidcentral.com/wearables/google-pixel-watch/googles-pixel-watch-4-just-rewrote-the-rules-for-smartwatch-repair
 urlToImage: https://cdn.mos.cms.futurecdn.net/jrS39xhdqGCpAxTvQEeJjm-2560-80.jpg
 ---
