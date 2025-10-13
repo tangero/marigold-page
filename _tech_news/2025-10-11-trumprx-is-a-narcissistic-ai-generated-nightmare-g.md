@@ -11,7 +11,7 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Trumpova lékárenská preskripce je narcistický, AI-generovaný noční můra
+title: Trumpova lékárenská aplikace je narcistický, AI generovaný noční můra
 url: https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309
 urlToImage: https://gizmodo.com/app/uploads/2025/10/trumprx-website-e1760140421440-1200x675.jpg
 ---

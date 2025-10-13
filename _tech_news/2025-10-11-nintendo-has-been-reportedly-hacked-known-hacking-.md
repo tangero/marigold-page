@@ -3,7 +3,7 @@ category: kybernetický útok
 companies:
 - Nintendo
 date: '2025-10-11 14:03:00'
-description: Podle nového online reportu skupina hackerů Crimson Collective tvrdí,
+description: Podle nové online zprávy hackerská skupina Crimson Collective tvrdí,
   že napadla Nintendo.
 importance: 4
 layout: tech_news_article
@@ -15,12 +15,12 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: Údajně došlo k napadení Nintenda, známá hackerská skupina to tvrdí
+title: Údajně byl Nintendo hacknut, tvrdí známá hackerská skupina
 url: https://wccftech.com/nintendo-has-been-reportedly-hacked-known-hacking-group-claims/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/Nintendo-HD-scaled-1.jpg
 ---
 
-Podle nového online reportu skupina hackerů Crimson Collective tvrdí, že napadla Nintendo.
+Podle nové online zprávy hackerská skupina Crimson Collective tvrdí, že napadla Nintendo.
 
 [Číst původní článek](https://wccftech.com/nintendo-has-been-reportedly-hacked-known-hacking-group-claims/)
 

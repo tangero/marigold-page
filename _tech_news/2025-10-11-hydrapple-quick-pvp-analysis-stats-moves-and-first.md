@@ -1,10 +1,10 @@
 ---
 category: pokémon go
 date: '2025-10-11 09:23:54'
-description: Hydrapple konečně dorazil do Pokémona GO a představuje nového soutěžního
-  Pokémona s typem Tráva a Drak. S celkově silnými statistikami, solidním typováním
-  a známým movestem se mnoho Trenérů ptá, zda Hydrapple může překonat své příbuzné
-  jako Flap...
+description: Hydrapple konečně dorazil do Pokémon GO a představuje nového soupeře
+  typu Tráva a Drak v PvP scéně. S dobrými celkovými statistikami, solidním typováním
+  a známým movestem se mnoho Trenérů ptá, zda Hydrapple může předčít své příbuzné
+  jako Flap…
 importance: 4
 layout: tech_news_article
 original_title: 'Hydrapple Quick PvP Analysis: Stats, Moves, and First Impressions
@@ -21,7 +21,7 @@ url: https://pokemongohub.net/post/pvp/hydrapple-pvp-analysis/
 urlToImage: https://pokemongohub.net/wp-content/uploads/2025/10/8qo6hjw.png
 ---
 
-Hydrapple konečně dorazil do Pokémona GO a představuje nového soutěžního Pokémona s typem Tráva a Drak. S celkově silnými statistikami, solidním typováním a známým movestem se mnoho Trenérů ptá, zda Hydrapple může překonat své příbuzné jako Flap...
+Hydrapple konečně dorazil do Pokémon GO a představuje nového soupeře typu Tráva a Drak v PvP scéně. S dobrými celkovými statistikami, solidním typováním a známým movestem se mnoho Trenérů ptá, zda Hydrapple může předčít své příbuzné jako Flap…
 
 [Číst původní článek](https://pokemongohub.net/post/pvp/hydrapple-pvp-analysis/)
 

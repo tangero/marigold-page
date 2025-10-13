@@ -4,7 +4,7 @@ companies:
 - Microsoft
 date: '2025-10-11 17:33:27'
 description: Xbox Game Pass Ultimate cena pravděpodobně brzy vzroste, ale tento víkend
-  si ho můžete předplatit ještě za současnou cenu.
+  si jej můžete předplatit ještě za současnou cenu.
 importance: 3
 layout: tech_news_article
 original_title: Xbox Game Pass Ultimate’s price may be going up soon, snag this 3-month
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: Cena předplatného Xbox Game Pass Ultimate se možná brzy zvýší, získejte tuto
+title: Cena předplatného Xbox Game Pass Ultimate se brzy může zvýšit, získejte tuto
   3měsíční vstupenku před zvýšením ceny
 url: https://mashable.com/article/oct-11-xbox-game-pass-ultimate-deal
 urlToImage: https://helios-i.mashable.com/imagery/articles/069bibLaPmRWBu6AZneUWU3/hero-image.fill.size_1200x675.v1760202463.png
 ---
 
-Xbox Game Pass Ultimate cena pravděpodobně brzy vzroste, ale tento víkend si ho můžete předplatit ještě za současnou cenu.
+Xbox Game Pass Ultimate cena pravděpodobně brzy vzroste, ale tento víkend si jej můžete předplatit ještě za současnou cenu.
 
 [Číst původní článek](https://mashable.com/article/oct-11-xbox-game-pass-ultimate-deal)
 

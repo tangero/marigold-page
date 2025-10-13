@@ -16,8 +16,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: AMD a čipová sada pro PlayStation 6 od Sony si klade za cíl přehodnotit současný
-  grafický pipeline
+title: AMD a čipová sada Sony PS6 mají za cíl přehodnotit současný grafický pipeline
 url: https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/amethyst-1152x648-1760113343.jpg
 ---

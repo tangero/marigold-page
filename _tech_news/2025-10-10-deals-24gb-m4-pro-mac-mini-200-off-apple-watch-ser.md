@@ -3,8 +3,8 @@ category: elektronika
 companies:
 - Apple
 date: '2025-10-10 15:47:00'
-description: Dnešní nabídky 9to5Toys Lunch Break jsou nyní připraveny, počínaje návratem
-  cen na úrovni historického minima pro AirPods 4...
+description: Dnešní nabídky 9to5Toys Lunch Break jsou nyní připraveny, začínající
+  s návratem cen na úrovni historického minima pro AirPods 4...
 importance: 3
 layout: tech_news_article
 original_title: 'Deals: 24GB M4 Pro Mac mini $200 off, Apple Watch Series 10 $129
@@ -21,7 +21,7 @@ url: https://9to5mac.com/2025/10/10/deals-m4-pro-mac-mini-apple-watch-m3-ipad-ai
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Apple-deals-Apple-Watch-M4-Pro-Mac-mini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Dnešní nabídky 9to5Toys Lunch Break jsou nyní připraveny, počínaje návratem cen na úrovni historického minima pro AirPods 4...
+Dnešní nabídky 9to5Toys Lunch Break jsou nyní připraveny, začínající s návratem cen na úrovni historického minima pro AirPods 4...
 
 [Číst původní článek](https://9to5mac.com/2025/10/10/deals-m4-pro-mac-mini-apple-watch-m3-ipad-air-airpods/)
 

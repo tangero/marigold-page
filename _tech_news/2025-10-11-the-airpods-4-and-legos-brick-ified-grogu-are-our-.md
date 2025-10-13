@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-10-11 15:01:53'
 description: AirPods 4 jsou nyní k dispozici se slevou 31 procent. K dispozici jsou
-  také nabídky na roztomilou Lego Star Wars sadu Grogu a chytré žárovky Philips Hue.
+  také nabídky na roztomilou Lego Star Wars sadu Grogu a Philips Hue chytré žárovky.
 importance: 3
 layout: tech_news_article
 original_title: The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals
@@ -21,7 +21,7 @@ url: https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-d
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-AirPods-4-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-AirPods 4 jsou nyní k dispozici se slevou 31 procent. K dispozici jsou také nabídky na roztomilou Lego Star Wars sadu Grogu a chytré žárovky Philips Hue.
+AirPods 4 jsou nyní k dispozici se slevou 31 procent. K dispozici jsou také nabídky na roztomilou Lego Star Wars sadu Grogu a Philips Hue chytré žárovky.
 
 [Číst původní článek](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
 

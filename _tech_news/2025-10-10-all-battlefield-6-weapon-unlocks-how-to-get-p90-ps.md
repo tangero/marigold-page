@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-10 15:05:10'
 description: Tento průvodce uvádí všechny zbraně v Battlefield 6 a jak je odemknout,
-  včetně útočné pušky NVO, odstřelovací pušky PSR, submachinegunů P90 a dalších.
+  včetně útočné pušky NVO, odstřelovací pušky PSR, PDW P90 a dalších.
 importance: 3
 layout: tech_news_article
 original_title: 'All Battlefield 6 weapon unlocks: How to get P90, PSR, and more -
@@ -18,7 +18,7 @@ url: https://www.rockpapershotgun.com/battlefield-6-how-to-unlock-all-weapons
 urlToImage: https://assetsio.gnwcdn.com/Battlefield-6-bullshot-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Tento průvodce uvádí všechny zbraně v Battlefield 6 a jak je odemknout, včetně útočné pušky NVO, odstřelovací pušky PSR, submachinegunů P90 a dalších.
+Tento průvodce uvádí všechny zbraně v Battlefield 6 a jak je odemknout, včetně útočné pušky NVO, odstřelovací pušky PSR, PDW P90 a dalších.
 
 [Číst původní článek](https://www.rockpapershotgun.com/battlefield-6-how-to-unlock-all-weapons)
 
