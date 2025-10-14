@@ -1,27 +1,25 @@
 ---
 category: herní průmysl
-date: '2025-10-12 13:40:17'
-description: Bandai Namco oznámil, že postava Miary Zo z downloadable content pro
-  Tekken 8 bude vydána 1. prosince pro vlastníky Season 2 Character Pass a 4. prosince
-  pro všechny uživatele.
+date: '2025-10-12 16:11:15'
+description: Společnost Bandai Namco oznámila, že postava Miary Zo z DLC Tekken 8
+  bude celosvětově vydána 4. prosince jako nejnovější přírůstek do herního roster
+  pro druhou sezónu.
 importance: 4
 layout: tech_news_article
-original_title: Tekken 8 DLC character Miary Zo launches December 1 for Season 2 Character
-  Pass owners, December 4 for all - Gematsu
-publishedAt: '2025-10-12T13:40:17+00:00'
+original_title: Tekken 8 DLC Character Miary Zo Launches December 4 - Final Weapon
+publishedAt: '2025-10-12T16:11:15+00:00'
 slug: tekken-8-dlc-character-miary-zo-launches-december-
 source:
   emoji: 📰
   id: null
-  name: Gematsu
-title: Tekken 8 DLC postava Miary Zo startuje 1. prosince pro vlastníky Season 2 Character
-  Passu, 4. prosince pro všechny
-url: https://www.gematsu.com/2025/10/tekken-8-dlc-character-miary-zo-launches-december-1-for-season-2-character-pass-owners-december-4-for-all
-urlToImage: https://www.gematsu.com/wp-content/uploads/2025/10/Tekken-8-DLC_10-12-25.jpg
+  name: Finalweapon.net
+title: Miary Zo, nová postava DLC pro Tekken 8, vychází 4. prosince - Finální zbraň
+url: https://finalweapon.net/2025/10/12/tekken-8-dlc-character-miary-zo-december-4-release-date/
+urlToImage: https://finalweapon.net/wp-content/uploads/2025/10/Tekken-8-Miary-Zo.webp
 ---
 
-Bandai Namco oznámil, že postava Miary Zo z downloadable content pro Tekken 8 bude vydána 1. prosince pro vlastníky Season 2 Character Pass a 4. prosince pro všechny uživatele.
+Společnost Bandai Namco oznámila, že postava Miary Zo z DLC Tekken 8 bude celosvětově vydána 4. prosince jako nejnovější přírůstek do herního roster pro druhou sezónu.
 
-[Číst původní článek](https://www.gematsu.com/2025/10/tekken-8-dlc-character-miary-zo-launches-december-1-for-season-2-character-pass-owners-december-4-for-all)
+[Číst původní článek](https://finalweapon.net/2025/10/12/tekken-8-dlc-character-miary-zo-december-4-release-date/)
 
-**Zdroj:** 📰 Gematsu
+**Zdroj:** 📰 Finalweapon.net

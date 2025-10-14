@@ -1,8 +1,8 @@
 ---
 category: automobilový průmysl
 date: '2025-10-12 10:05:00'
-description: Systém DRS ve stylu Formule 1 na modelu Mustang GTD není povolen na závodních
-  vozech jako je Mustang GT3, který byl jeho inspirací.
+description: Systém DRS ve stylu F1 v Mustangu GTD není povolen na závodních vozech
+  jako Mustang GT3, který ho inspiroval.
 importance: 3
 layout: tech_news_article
 original_title: Ford Built The Mustang GTD With Aero Tech Race Cars Can't Even Use
@@ -19,7 +19,7 @@ url: https://www.jalopnik.com/1991294/ford-mustang-gtd-illegal-race-series/
 urlToImage: https://www.jalopnik.com/img/gallery/ford-built-the-mustang-gtd-with-aero-tech-race-cars-cant-even-use/l-intro-1759959673.jpg
 ---
 
-Systém DRS ve stylu Formule 1 na modelu Mustang GTD není povolen na závodních vozech jako je Mustang GT3, který byl jeho inspirací.
+Systém DRS ve stylu F1 v Mustangu GTD není povolen na závodních vozech jako Mustang GT3, který ho inspiroval.
 
 [Číst původní článek](https://www.jalopnik.com/1991294/ford-mustang-gtd-illegal-race-series/)
 

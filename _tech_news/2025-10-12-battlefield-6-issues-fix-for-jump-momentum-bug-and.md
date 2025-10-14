@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-12 18:47:50'
-description: Battlefield 6 vydal opravu pro problém, kde skok získává "neúmyslně přerušený"
-  moment v závislosti na tom, co...
+description: Battlefield 6 vydal opravu pro problém, kdy skoková hybnost byla "neúmyslně
+  přerušena" v závislosti na tom, co...
 importance: 5
 layout: tech_news_article
 original_title: Battlefield 6 issues "fix" for jump momentum bug and is "monitoring"
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Oprava chyby s momentem skoku v Battlefieldu 6 a monitorování počtu hráčů v
-  režimu Průlom
+title: Řešení problému s momentem skoku v Battlefieldu 6 a monitorování počtu hráčů
+  v Breakthrough
 url: https://www.eurogamer.net/battlefield-6-issues-fix-for-jump-momentum-bug-and-is-monitoring-breakthrough-player-counts
 urlToImage: https://assetsio.gnwcdn.com/battlefield-6-soldiers-running-from-explosion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Battlefield 6 vydal opravu pro problém, kde skok získává "neúmyslně přerušený" moment v závislosti na tom, co...
+Battlefield 6 vydal opravu pro problém, kdy skoková hybnost byla "neúmyslně přerušena" v závislosti na tom, co...
 
 [Číst původní článek](https://www.eurogamer.net/battlefield-6-issues-fix-for-jump-momentum-bug-and-is-monitoring-breakthrough-player-counts)
 

@@ -1,7 +1,7 @@
 ---
-category: herní hardware
+category: přenosný monitor
 date: '2025-10-12 12:21:00'
-description: Ideální pro hraní her na konzoli na cestách a stejně tak užitečný jako
+description: Perfektní pro hraní her na konzoli na cestách a stejně tak užitečný jako
   druhá obrazovka pro váš pracovní notebook.
 importance: 3
 layout: tech_news_article
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Máte PS5, Xbox nebo Switch? Tato přenosná obrazovka za pár korun vám umožní
-  hrát kdekoli.
+title: Máte PS5, Xbox nebo Switch? Toto přenosné monitorování za pár drobných vám
+  umožní hrát kdekoli.
 url: https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for-pennies-lets-you-play-anywhere-2000634469
 urlToImage: https://kotaku.com/app/uploads/2025/08/mnn-portable-monitor-fhd-1200x675.jpg
 ---
 
-Ideální pro hraní her na konzoli na cestách a stejně tak užitečný jako druhá obrazovka pro váš pracovní notebook.
+Perfektní pro hraní her na konzoli na cestách a stejně tak užitečný jako druhá obrazovka pro váš pracovní notebook.
 
 [Číst původní článek](https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for-pennies-lets-you-play-anywhere-2000634469)
 

@@ -1,9 +1,9 @@
 ---
-category: technologický odpor
+category: digitální skepticism
 date: '2025-10-12 14:01:59'
 description: Proč se musím potýkat se všemi těmito počítačovými zkratkami, které se
-  často ukážou být dlouhými cestami? Nyní v mém pozdním věku 80 let mi čas utíká a
-  nemám žádné přání trávit ho snahou o připojení k iCloud.
+  obvykle ukážou být dlouhými cestami? Nyní v mém pozdním věku 80 let mi čas utíká
+  a nemám zájem trávit ho snahou o připojení k iCloud.
 importance: 3
 layout: tech_news_article
 original_title: 'Ancient Wisdom: A Middle Digit to the Digital Age - The Free Press'
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Thefp.com
-title: 'Dávná moudrost: Prostředník digitálnímu věku - The Free Press'
+title: 'Dávná moudrost: Prostředníček digitálnímu věku - The Free Press'
 url: https://www.thefp.com/p/ancient-wisdom-a-middle-digit-to-digital-age-tech-culture
 urlToImage: https://substackcdn.com/image/fetch/$s_!d5LQ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c509a15-1114-44b1-a674-a825f869cb9b_1024x683.heic
 ---
 
-Proč se musím potýkat se všemi těmito počítačovými zkratkami, které se často ukážou být dlouhými cestami? Nyní v mém pozdním věku 80 let mi čas utíká a nemám žádné přání trávit ho snahou o připojení k iCloud.
+Proč se musím potýkat se všemi těmito počítačovými zkratkami, které se obvykle ukážou být dlouhými cestami? Nyní v mém pozdním věku 80 let mi čas utíká a nemám zájem trávit ho snahou o připojení k iCloud.
 
 [Číst původní článek](https://www.thefp.com/p/ancient-wisdom-a-middle-digit-to-digital-age-tech-culture)
 

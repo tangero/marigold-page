@@ -15,8 +15,8 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Seznamovací aplikace Cerca ukáže, jak skutečně randí generace Z na TechCrunch
-  Disrupt 2025
+title: Aplikace pro randění Cerca ukáže, jak randí generace Z na TechCrunch Disrupt
+  2025
 url: https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/Myles-Slayton.png?resize=831,1200
 ---

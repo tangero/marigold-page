@@ -3,8 +3,8 @@ category: herní průmysl
 companies:
 - Rare
 date: '2025-10-12 17:58:46'
-description: MP1st odhalil posmrtné podrobnosti a exkluzivní snímky obrazovky ze zrušeného
-  titulu studia Rare, Everwild, s prvním pohledem na uživatelské rozhraní hry.
+description: MP1st odhalil posmrtné detaily a exkluzivní snímky obrazovky ze zrušeného
+  titulu studia Rare, Everwild, s prvním pohledem na UI hry.
 importance: 4
 layout: tech_news_article
 original_title: 'Report: Screenshots for Rare’s Everwild Unveiled, Featuring UI and
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: http://mp1st.com/category/news
-title: 'Zpráva: Odhaleny snímky obrazovky pro Everwild od Rare, včetně uživatelského
-  rozhraní a dalšího'
+title: 'Zpráva: Ukázány snímky obrazovky z Rare''s Everwild, obsahující uživatelské
+  rozhraní a další'
 url: https://mp1st.com/news/screenshots-rares-everwild-featuring-ui-gameplay-details
 urlToImage: https://mp1st.com/wp-content/uploads/2025/10/evthmb.jpg
 ---
 
-MP1st odhalil posmrtné podrobnosti a exkluzivní snímky obrazovky ze zrušeného titulu studia Rare, Everwild, s prvním pohledem na uživatelské rozhraní hry.
+MP1st odhalil posmrtné detaily a exkluzivní snímky obrazovky ze zrušeného titulu studia Rare, Everwild, s prvním pohledem na UI hry.
 
 [Číst původní článek](https://mp1st.com/news/screenshots-rares-everwild-featuring-ui-gameplay-details)
 

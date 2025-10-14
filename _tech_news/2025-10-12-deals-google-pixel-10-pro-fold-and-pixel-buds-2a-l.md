@@ -16,8 +16,8 @@ source:
   emoji: 📰
   id: null
   name: GSMArena.com
-title: 'Nabídky: Google Pixel 10 Pro Fold a Pixel Buds 2a uvedeny na trh, Samsung
-  reaguje bezplatným tabletem'
+title: 'Nabídky: Představení Google Pixel 10 Pro Fold a Pixel Buds 2a, Samsung reaguje
+  bezplatným tabletem'
 url: https://www.gsmarena.com/deals_google_pixel_10_pro_fold_and_pixel_buds_2a_launch_samsung_counters_with_a_free_tablet-news-69873.php
 urlToImage: https://fdn.gsmarena.com/imgroot/news/25/10/weekly-deals-10/-952x498w6/gsmarena_de.jpg
 ---
