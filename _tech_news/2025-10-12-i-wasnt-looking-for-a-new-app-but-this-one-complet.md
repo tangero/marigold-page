@@ -1,10 +1,11 @@
 ---
 category: sluneční aplikace
 date: '2025-10-12 09:34:00'
-description: Slunce je možné předpovědět pomocí modelu solární pozice, který využívá
-  parametry jako čas, datum, zeměpisnou šířku a délku k výpočtu polohy slunce na obloze.
-  Tento model umožňuje určit, kde se slunce bude nacházet v daném čase a místě, což
-  je užitečné pro aplikace jako solární energie, navigace nebo astronomická pozorování.
+description: Solární tracking je technologie, která umožňuje sledování polohy Slunce
+  na obloze a optimalizaci orientace solárních panelů pro maximální výkon. Solární
+  trackery využívají senzory, algoritmy a motory k automatickému natáčení panelů tak,
+  aby byly vždy kolmo k dopadajícímu slunečnímu záření. Tato technologie zvyšuje výkon
+  solárních systémů až o 30-40 % ve srovnání se statickými panely.
 importance: 4
 layout: tech_news_article
 original_title: I wasn't looking for a new app — but this one completely changed how
@@ -20,7 +21,7 @@ url: https://www.androidpolice.com/sun-surveyor-app/
 urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0375.jpg?w=1600&h=900&fit=crop
 ---
 
-Slunce je možné předpovědět pomocí modelu solární pozice, který využívá parametry jako čas, datum, zeměpisnou šířku a délku k výpočtu polohy slunce na obloze. Tento model umožňuje určit, kde se slunce bude nacházet v daném čase a místě, což je užitečné pro aplikace jako solární energie, navigace nebo astronomická pozorování.
+Solární tracking je technologie, která umožňuje sledování polohy Slunce na obloze a optimalizaci orientace solárních panelů pro maximální výkon. Solární trackery využívají senzory, algoritmy a motory k automatickému natáčení panelů tak, aby byly vždy kolmo k dopadajícímu slunečnímu záření. Tato technologie zvyšuje výkon solárních systémů až o 30-40 % ve srovnání se statickými panely.
 
 [Číst původní článek](https://www.androidpolice.com/sun-surveyor-app/)
 

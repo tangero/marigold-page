@@ -15,8 +15,7 @@ source:
   emoji: 📰
   id: null
   name: http://mp1st.com/category/news
-title: 'Zpráva: Ukázány snímky obrazovky z Rare''s Everwild, obsahující uživatelské
-  rozhraní a další'
+title: 'Zpráva: Ukázky uživatelského rozhraní a další z Rare''s Everwild - MP1st'
 url: https://mp1st.com/news/screenshots-rares-everwild-featuring-ui-gameplay-details
 urlToImage: https://mp1st.com/wp-content/uploads/2025/10/evthmb.jpg
 ---

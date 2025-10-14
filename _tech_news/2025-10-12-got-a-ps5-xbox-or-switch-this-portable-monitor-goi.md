@@ -1,7 +1,7 @@
 ---
-category: přenosný monitor
+category: herní hardware
 date: '2025-10-12 12:21:00'
-description: Perfektní pro hraní her na konzoli na cestách a stejně tak užitečný jako
+description: Ideální pro hraní her na konzoli na cestách a stejně tak užitečný jako
   druhá obrazovka pro váš pracovní notebook.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for
 urlToImage: https://kotaku.com/app/uploads/2025/08/mnn-portable-monitor-fhd-1200x675.jpg
 ---
 
-Perfektní pro hraní her na konzoli na cestách a stejně tak užitečný jako druhá obrazovka pro váš pracovní notebook.
+Ideální pro hraní her na konzoli na cestách a stejně tak užitečný jako druhá obrazovka pro váš pracovní notebook.
 
 [Číst původní článek](https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for-pennies-lets-you-play-anywhere-2000634469)
 

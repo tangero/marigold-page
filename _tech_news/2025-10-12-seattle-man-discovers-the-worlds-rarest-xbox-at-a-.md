@@ -14,7 +14,7 @@ source:
   id: null
   name: Supercarblondie.com
 title: Obyvatel Seattlu objevil na bleším trhu nejřidší Xbox na světě za 50 dolarů,
-  podobný kus se kdysi vydražil za 400násobek této částky
+  podobný kus byl kdysi vydražen za 400krát vyšší částku
 url: https://supercarblondie.com/seattle-man-discovered-rare-xbox-yard-sale-for-50/
 urlToImage: https://supercarblondie.com/wp-content/uploads/orange_xbox-2.webp
 ---

@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Lookout Landing
-title: 'Mořští lední medvědi, 12. 10. 2025: Gleyber Torres, Yusei Kikuchi a Humpy
+title: 'Námořníci Moose Tracks, 12. 10. 25: Gleyber Torres, Yusei Kikuchi a Humpy
   - Lookout Landing'
 url: https://www.lookoutlanding.com/lookout-linkage/135897/mariners-moose-tracks-10-12-25-gleyber-torres-yusei-kikuchi-and-humpy
 urlToImage: https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2025/10/imagn-27276118.jpg?quality=90&strip=all&crop=0%2C10.735609971275%2C100%2C78.52878005745&w=1200

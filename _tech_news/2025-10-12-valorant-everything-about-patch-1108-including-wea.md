@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-12 20:56:30'
-description: Objevte odborné postřehy a aktuální zprávy z League of Legends Esports,
+description: Prozkoumejte odborné postřehy a aktuální zprávy z League of Legends Esports,
   které vám přináší Sheep Esports.
 importance: 4
 layout: tech_news_article
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: Sheepesports.com
-title: 'Valorant: Vše o záplatě 11.08, včetně zbraní, agentů a změn map'
+title: Změny zbraní, agentů a map v aktualizaci 11.08 hry VALORANT
 url: https://www.sheepesports.com/articles/valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes/en
 urlToImage: https://sheepesports.com/api/og?url=valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes&language=en
 ---
 
-Objevte odborné postřehy a aktuální zprávy z League of Legends Esports, které vám přináší Sheep Esports.
+Prozkoumejte odborné postřehy a aktuální zprávy z League of Legends Esports, které vám přináší Sheep Esports.
 
 [Číst původní článek](https://www.sheepesports.com/articles/valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes/en)
 

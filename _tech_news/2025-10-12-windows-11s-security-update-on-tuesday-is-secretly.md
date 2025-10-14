@@ -1,9 +1,9 @@
 ---
-category: aktualizace windows
+category: aktualizace operační
 companies:
 - Microsoft
 date: '2025-10-12 12:30:00'
-description: Od chytřejšího Copilotu po čistší Start menu, říjnová aktualizace Microsoftu
+description: Od chytřejšího Copilota po čistší Start menu, říjnová aktualizace Microsoftu
   dělá více než jen záplatu děr.
 importance: 3
 layout: tech_news_article
@@ -23,7 +23,7 @@ url: https://www.windowscentral.com/microsoft/windows-11/9-new-features-coming-w
 urlToImage: https://cdn.mos.cms.futurecdn.net/TDBBRKpgBfT7mrv43VzP5L-1680-80.jpg
 ---
 
-Od chytřejšího Copilotu po čistší Start menu, říjnová aktualizace Microsoftu dělá více než jen záplatu děr.
+Od chytřejšího Copilota po čistší Start menu, říjnová aktualizace Microsoftu dělá více než jen záplatu děr.
 
 [Číst původní článek](https://www.windowscentral.com/microsoft/windows-11/9-new-features-coming-with-the-october-2025-security-update-for-windows-11-versions-25h2-and-24h2)
 

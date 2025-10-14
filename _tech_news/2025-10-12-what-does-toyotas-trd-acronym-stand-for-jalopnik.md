@@ -2,8 +2,8 @@
 category: automobilový průmysl
 date: '2025-10-12 12:05:00'
 description: TRD (Toyota Racing Development) je značka, která má dlouhou historii
-  spojenou s úspěchy Toyoty na závodních tratích. Tato značka představuje vyšší úroveň
-  výkonu a sportovního ladění vozidel Toyoty.
+  spojenou s úspěchy Toyoty na závodních tratích. Tato označení jsou spojena s vylepšenou
+  výkonností vozidel, která jsou jimi vybavena.
 importance: 3
 layout: tech_news_article
 original_title: What Does Toyota's TRD Acronym Stand For? - Jalopnik
@@ -18,7 +18,7 @@ url: https://www.jalopnik.com/1991766/what-does-trd-stand-for-toyota/
 urlToImage: https://www.jalopnik.com/img/gallery/what-does-toyotas-trd-acronym-stand-for/l-intro-1760025689.jpg
 ---
 
-TRD (Toyota Racing Development) je značka, která má dlouhou historii spojenou s úspěchy Toyoty na závodních tratích. Tato značka představuje vyšší úroveň výkonu a sportovního ladění vozidel Toyoty.
+TRD (Toyota Racing Development) je značka, která má dlouhou historii spojenou s úspěchy Toyoty na závodních tratích. Tato označení jsou spojena s vylepšenou výkonností vozidel, která jsou jimi vybavena.
 
 [Číst původní článek](https://www.jalopnik.com/1991766/what-does-trd-stand-for-toyota/)
 

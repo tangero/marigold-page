@@ -17,8 +17,8 @@ source:
   emoji: 📰
   id: business-insider
   name: Business Insider
-title: Bývalý CEO Applu říká, že společnost má po desetiletích svého 'prvního skutečného
-  konkurenta
+title: Bývalý CEO Applu říká, že společnost má své 'první skutečného konkurenta' za
+  desetiletí
 url: https://www.businessinsider.com/former-apple-ceo-john-sculley-says-openai-rivals-apple-2025-10
 urlToImage: https://i.insider.com/68e9336bcc993f9955cffa1f?width=1200&format=jpeg
 ---

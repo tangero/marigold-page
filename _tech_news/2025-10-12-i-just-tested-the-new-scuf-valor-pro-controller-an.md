@@ -1,7 +1,7 @@
 ---
 category: herní hardware
 date: '2025-10-12 08:30:00'
-description: Nové joysticky TMR slibují větší přesnost než Hallovy senzory.
+description: Nové joysticky s TMR slibují větší přesnost než Hallovy senzory.
 importance: 4
 layout: tech_news_article
 original_title: I just tested the new Scuf Valor Pro controller — and it’s a must-have
@@ -17,7 +17,7 @@ url: https://www.tomsguide.com/gaming/gaming-peripherals/i-just-tested-the-new-s
 urlToImage: https://cdn.mos.cms.futurecdn.net/wcY6ayNMuvge8J9FP8gtN5-2560-80.jpg
 ---
 
-Nové joysticky TMR slibují větší přesnost než Hallovy senzory.
+Nové joysticky s TMR slibují větší přesnost než Hallovy senzory.
 
 [Číst původní článek](https://www.tomsguide.com/gaming/gaming-peripherals/i-just-tested-the-new-scuf-valor-pro-controller-and-its-a-must-have-for-pc-gamers)
 

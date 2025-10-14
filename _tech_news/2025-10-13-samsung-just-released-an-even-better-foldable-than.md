@@ -1,10 +1,8 @@
 ---
-category: skládací telefony
-companies:
-- Samsung
+category: tech
 date: '2025-10-13 02:17:07'
-description: Samsung představil model W26, luxusní verzi telefonu Galaxy Z Fold 7,
-  která nabízí satelitní konektivitu, prémiový design a další vylepšení.
+description: Samsung has launched the W26, a luxurious version of the Galaxy Z Fold
+  7 that brings satellite connectivity, a premium design, and more
 importance: 3
 layout: tech_news_article
 original_title: Samsung just released an even better foldable than the Galaxy Z Fold
@@ -15,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Společnost Samsung právě představila ještě lepší skládací telefon než Galaxy
-  Z Fold 7
+title: Samsung just released an even better foldable than the Galaxy Z Fold 7 - Android
+  Authority
 url: https://www.androidauthority.com/samsung-w26-3606529/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/10/samsung-w26-color-red.jpg
 ---
 
-Samsung představil model W26, luxusní verzi telefonu Galaxy Z Fold 7, která nabízí satelitní konektivitu, prémiový design a další vylepšení.
+Samsung has launched the W26, a luxurious version of the Galaxy Z Fold 7 that brings satellite connectivity, a premium design, and more
 
 [Číst původní článek](https://www.androidauthority.com/samsung-w26-3606529/)
 
