@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: BGR
-title: Leaker potvrzuje 10 nových Apple produktů, které budou představeny v nadcházejících
+title: Unikátor potvrzuje 10 produktů Apple, které budou uvedeny na trh v nadcházejících
   měsících
 url: https://www.bgr.com/1994667/apple-to-launch-10-new-products-leak/
 urlToImage: https://www.bgr.com/img/gallery/leaker-confirms-10-apple-products-launching-in-the-coming-months/l-intro-1760354630.jpg

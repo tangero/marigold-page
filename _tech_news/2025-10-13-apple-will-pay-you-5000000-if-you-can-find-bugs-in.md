@@ -15,8 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Supercarblondie.com
-title: Společnost Apple vám zaplatí 5 000 000 dolarů, pokud najdete chyby v jejím
-  softwaru
+title: Společnost Apple vám zaplatí 5 000 000 USD, pokud najdete chyby v jejím softwaru
 url: https://supercarblondie.com/apple-multimillion-dollar-prize-security-bounty-program/
 urlToImage: https://supercarblondie.com/wp-content/uploads/a-hacker-has-run-off-with-17-million-worth-of-nfts.jpg
 ---
