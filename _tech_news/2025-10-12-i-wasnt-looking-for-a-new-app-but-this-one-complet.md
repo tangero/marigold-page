@@ -1,10 +1,11 @@
 ---
 category: sluneční aplikace
 date: '2025-10-12 09:34:00'
-description: Slunce bude na obloze v daném čase a místě. Pomocí astronomických výpočtů
-  lze určit přesnou polohu slunce na obloze pro libovolný okamžik a lokalitu. Tato
-  informace je užitečná například pro solární energetiku, navigaci, astronomická pozorování
-  a další aplikace, kde je potřeba znát přesnou polohu slunce.
+description: Predikce polohy Slunce umožňuje přesné plánování solárních aplikací,
+  jako jsou fotovoltaické systémy nebo sluneční kolektory. Pomocí matematických modelů
+  a astronomických výpočtů lze určit, kde se bude Slunce nacházet v daném čase a místě
+  na Zemi. Tyto informace jsou klíčové pro optimalizaci orientace a sklonu solárních
+  panelů nebo kolektorů, aby byla zajištěna maximální účinnost.
 importance: 4
 layout: tech_news_article
 original_title: I wasn't looking for a new app — but this one completely changed how
@@ -20,7 +21,7 @@ url: https://www.androidpolice.com/sun-surveyor-app/
 urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0375.jpg?w=1600&h=900&fit=crop
 ---
 
-Slunce bude na obloze v daném čase a místě. Pomocí astronomických výpočtů lze určit přesnou polohu slunce na obloze pro libovolný okamžik a lokalitu. Tato informace je užitečná například pro solární energetiku, navigaci, astronomická pozorování a další aplikace, kde je potřeba znát přesnou polohu slunce.
+Predikce polohy Slunce umožňuje přesné plánování solárních aplikací, jako jsou fotovoltaické systémy nebo sluneční kolektory. Pomocí matematických modelů a astronomických výpočtů lze určit, kde se bude Slunce nacházet v daném čase a místě na Zemi. Tyto informace jsou klíčové pro optimalizaci orientace a sklonu solárních panelů nebo kolektorů, aby byla zajištěna maximální účinnost.
 
 [Číst původní článek](https://www.androidpolice.com/sun-surveyor-app/)
 

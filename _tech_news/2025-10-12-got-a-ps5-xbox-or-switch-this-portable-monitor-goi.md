@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Máte PS5, Xbox nebo Switch? Tento přenosný monitor za pár korun vám umožní
+title: Máte PS5, Xbox nebo Switch? Tato přenosná obrazovka za pár korun vám umožní
   hrát kdekoli.
 url: https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for-pennies-lets-you-play-anywhere-2000634469
 urlToImage: https://kotaku.com/app/uploads/2025/08/mnn-portable-monitor-fhd-1200x675.jpg
