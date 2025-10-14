@@ -1,8 +1,8 @@
 ---
 category: baseball
 date: '2025-10-12 14:00:00'
-description: Milwaukee Brewers postoupili přes Chicago Cubs, Gleyber Torres podstoupí
-  operaci kýly a Yusei Kikuchi příliš nerad potí.
+description: Brewers postoupili přes Cubs, Gleyber Torres podstoupí operaci kýly a
+  Yusei Kikuchi příliš nerad potí.
 importance: 3
 layout: tech_news_article
 original_title: 'Mariners Moose Tracks, 10/12/25: Gleyber Torres, Yusei Kikuchi, and
@@ -22,7 +22,7 @@ url: https://www.lookoutlanding.com/lookout-linkage/135897/mariners-moose-tracks
 urlToImage: https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2025/10/imagn-27276118.jpg?quality=90&strip=all&crop=0%2C10.735609971275%2C100%2C78.52878005745&w=1200
 ---
 
-Milwaukee Brewers postoupili přes Chicago Cubs, Gleyber Torres podstoupí operaci kýly a Yusei Kikuchi příliš nerad potí.
+Brewers postoupili přes Cubs, Gleyber Torres podstoupí operaci kýly a Yusei Kikuchi příliš nerad potí.
 
 [Číst původní článek](https://www.lookoutlanding.com/lookout-linkage/135897/mariners-moose-tracks-10-12-25-gleyber-torres-yusei-kikuchi-and-humpy)
 

@@ -2,7 +2,7 @@
 category: herní průmysl
 date: '2025-10-12 21:22:27'
 description: Finální věta nahrazuje spouštěcí prsty za rychlé APM (actions per minute)
-  s jedinečným přístupem k formátu battle royale, kde jsou místo kulek použita slova.
+  svým jedinečným pojetím battle royale formule, kde místo střelby jsou použita slova.
 importance: 3
 layout: tech_news_article
 original_title: Everything we know about Final Sentence - Dexerto
@@ -17,7 +17,7 @@ url: https://www.dexerto.com/gaming/everything-we-know-about-final-sentence-3265
 urlToImage: https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/12/final-sentence-game-cover.jpg
 ---
 
-Finální věta nahrazuje spouštěcí prsty za rychlé APM (actions per minute) s jedinečným přístupem k formátu battle royale, kde jsou místo kulek použita slova.
+Finální věta nahrazuje spouštěcí prsty za rychlé APM (actions per minute) svým jedinečným pojetím battle royale formule, kde místo střelby jsou použita slova.
 
 [Číst původní článek](https://www.dexerto.com/gaming/everything-we-know-about-final-sentence-3265822/)
 

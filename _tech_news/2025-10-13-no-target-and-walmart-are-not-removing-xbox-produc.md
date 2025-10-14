@@ -1,10 +1,10 @@
 ---
-category: tech
+category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-13 01:39:00'
-description: One thing after another, Microsoft is forced to respond time and time
-  again to ongoing rumors that it's leaving the hardware space.
+description: Jedno za druhým, společnost Microsoft je nucena reagovat znovu a znovu
+  na neustálé spekulace, že opouští hardwarový prostor.
 importance: 4
 layout: tech_news_article
 original_title: No, Target and Walmart are not removing Xbox products from their stores
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: No, Target and Walmart are not removing Xbox products from their stores — as
-  Xbox misinformation reaches new levels - Windows Central
+title: Nákupní řetězce neodstraňují produkty Xbox z prodejen - dezinformace o Xboxu
+  dosahuje nových úrovní
 url: https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels
 urlToImage: https://cdn.mos.cms.futurecdn.net/jZVgdFkfBM5jQpQ6t8Nfpi-2000-80.jpg
 ---
 
-One thing after another, Microsoft is forced to respond time and time again to ongoing rumors that it's leaving the hardware space.
+Jedno za druhým, společnost Microsoft je nucena reagovat znovu a znovu na neustálé spekulace, že opouští hardwarový prostor.
 
 [Číst původní článek](https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels)
 

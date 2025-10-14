@@ -4,7 +4,8 @@ companies:
 - Apple
 date: '2025-10-12 12:45:00'
 description: S uvedením AirPods Pro 3 minulý měsíc překvapil mnoho lidí jeden detail
-  - stále využívaly Lightning konektor namísto USB-C.
+  – stále využívají Lightning konektor místo USB-C, který se očekával u nové generace
+  bezdrátových sluchátek Apple.
 importance: 3
 layout: tech_news_article
 original_title: 'Apple has already begun work on an H3 chip and next-generation AirPods:
@@ -21,7 +22,7 @@ url: https://9to5mac.com/2025/10/12/next-generation-airpods-5-and-h3-chip-in-the
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/airpods-pro-2-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-S uvedením AirPods Pro 3 minulý měsíc překvapil mnoho lidí jeden detail - stále využívaly Lightning konektor namísto USB-C.
+S uvedením AirPods Pro 3 minulý měsíc překvapil mnoho lidí jeden detail – stále využívají Lightning konektor místo USB-C, který se očekával u nové generace bezdrátových sluchátek Apple.
 
 [Číst původní článek](https://9to5mac.com/2025/10/12/next-generation-airpods-5-and-h3-chip-in-the-pipeline-report/)
 
