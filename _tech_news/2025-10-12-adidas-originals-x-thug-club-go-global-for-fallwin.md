@@ -1,8 +1,8 @@
 ---
-category: móda
+category: módní spolupráce
 date: '2025-10-12 19:26:11'
-description: Ostřili svůj kolaborativní jazyk na své první plně rozvinuté kolekci,
-  nacházejíc dvojsmyslnou a vzdornou designovou inspiraci ve sportu šermu.
+description: Ostřili svůj kolaborativní jazyk na své první plně vybavené kolekci,
+  nacházejíce dvojsmyslnou a vzdornou designovou inspiraci ve sportu šermu.
 importance: 4
 layout: tech_news_article
 original_title: adidas Originals x Thug Club Go Global for Fall/Winter 2025 - hypebeast.com
@@ -12,12 +12,12 @@ source:
   emoji: 📰
   id: null
   name: HYPEBEAST
-title: Adidas Originals x Thug Club představují kolekci pro podzim/zimu 2025
+title: adidas Originals x Thug Club - Globální kolekce na podzim/zimu 2025
 url: https://hypebeast.com/2025/10/adidas-originals-x-thug-club-fall-winter-2025-collection-collab-lookbook-release-info
 urlToImage: https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F12%2Fadidas-originals-x-thug-club-fall-winter-2025-collection-collab-lookbook-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max
 ---
 
-Ostřili svůj kolaborativní jazyk na své první plně rozvinuté kolekci, nacházejíc dvojsmyslnou a vzdornou designovou inspiraci ve sportu šermu.
+Ostřili svůj kolaborativní jazyk na své první plně vybavené kolekci, nacházejíce dvojsmyslnou a vzdornou designovou inspiraci ve sportu šermu.
 
 [Číst původní článek](https://hypebeast.com/2025/10/adidas-originals-x-thug-club-fall-winter-2025-collection-collab-lookbook-release-info)
 

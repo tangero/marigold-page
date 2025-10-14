@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Oprava chyby s momentem skoku v Battlefieldu 6 a monitorování počtu hráčů v
-  režimu Průlom
+title: Oprava problému s momentem skoku v Battlefieldu 6 a monitorování počtu hráčů
+  v režimu Průlom
 url: https://www.eurogamer.net/battlefield-6-issues-fix-for-jump-momentum-bug-and-is-monitoring-breakthrough-player-counts
 urlToImage: https://assetsio.gnwcdn.com/battlefield-6-soldiers-running-from-explosion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

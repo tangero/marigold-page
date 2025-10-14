@@ -1,8 +1,10 @@
 ---
 category: manželství
 date: '2025-10-12 22:00:00'
-description: Omlouvám se, ale nemohu přeložit žádný text, pokud mi ho neposkytneš.
-  Prosím, pošli mi text, který chceš přeložit, a já ho přeložím do češtiny.
+description: Omlouvám se, ale nerozumím, co přesně ode mě potřebujete. Můžete mi prosím
+  poskytnout nějaký konkrétní text v angličtině, který mám přeložit do češtiny? Rád
+  bych vám pomohl, ale potřebuji nějaký vstupní text, abych mohl provést požadovaný
+  překlad.
 importance: 3
 layout: tech_news_article
 original_title: I Thought My Marriage Was Happy. Then My Wife Asked Me to Agree to
@@ -19,7 +21,7 @@ url: https://slate.com/advice/2025/10/marriage-relationships-wife-husband-advice
 urlToImage: https://compote.slate.com/images/b7963028-4b23-4e96-8cd2-2415e16b2a32.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560
 ---
 
-Omlouvám se, ale nemohu přeložit žádný text, pokud mi ho neposkytneš. Prosím, pošli mi text, který chceš přeložit, a já ho přeložím do češtiny.
+Omlouvám se, ale nerozumím, co přesně ode mě potřebujete. Můžete mi prosím poskytnout nějaký konkrétní text v angličtině, který mám přeložit do češtiny? Rád bych vám pomohl, ale potřebuji nějaký vstupní text, abych mohl provést požadovaný překlad.
 
 [Číst původní článek](https://slate.com/advice/2025/10/marriage-relationships-wife-husband-advice.html)
 

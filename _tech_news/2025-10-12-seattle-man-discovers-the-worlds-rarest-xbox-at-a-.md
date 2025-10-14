@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-12 17:13:00'
-description: Majitel ze Seattlu jednou objevil na garážovém prodeji mimořádně vzácnou
-  Xbox konzoli a koupil ji za pouhých $50, než ji následně prodal za mnohem vyšší
+description: Majitel z Seattlu jednou objevil mimořádně vzácnou Xboxovou konzoli na
+  garážovém prodeji a koupil ji za pouhých $50, než ji následně prodal za mnohem vyšší
   částku.
 importance: 3
 layout: tech_news_article
@@ -15,12 +15,12 @@ source:
   id: null
   name: Supercarblondie.com
 title: Muž ze Seattlu objevil na bleším trhu nejřidší Xbox na světě za 50 dolarů,
-  podobný kus se jednou vydražil za 400násobek této částky
+  podobný kus kdysi vydražili za 400násobek této částky
 url: https://supercarblondie.com/seattle-man-discovered-rare-xbox-yard-sale-for-50/
 urlToImage: https://supercarblondie.com/wp-content/uploads/orange_xbox-2.webp
 ---
 
-Majitel ze Seattlu jednou objevil na garážovém prodeji mimořádně vzácnou Xbox konzoli a koupil ji za pouhých $50, než ji následně prodal za mnohem vyšší částku.
+Majitel z Seattlu jednou objevil mimořádně vzácnou Xboxovou konzoli na garážovém prodeji a koupil ji za pouhých $50, než ji následně prodal za mnohem vyšší částku.
 
 [Číst původní článek](https://supercarblondie.com/seattle-man-discovered-rare-xbox-yard-sale-for-50/)
 

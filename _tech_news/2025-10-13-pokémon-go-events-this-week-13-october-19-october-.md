@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-13 00:27:04'
-description: 'Harmonogram Pokémona GO od 6. do 12. října přináší měsíc strašidelné
-  sezóny v rámci sezóny Příběhů transformace! Těšte se na vydání nových úrovní v Pokémonu
+description: 'Rozvrh Pokémon GO od 6. do 12. října přináší měsíc strašidelné sezóny
+  v rámci sezóny Příběhů transformace! Těšte se na vydání nových levelů v Pokémon
   GO, konec Sklizňového festivalu, Oslavu Pokémon Legends: Z-A a Mega Rayquaza Ra...'
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://pokemongohub.net/post/event/pokemon-go-events-this-week-13-october-
 urlToImage: https://pokemongohub.net/wp-content/uploads/2025/10/level-80.jpg
 ---
 
-Harmonogram Pokémona GO od 6. do 12. října přináší měsíc strašidelné sezóny v rámci sezóny Příběhů transformace! Těšte se na vydání nových úrovní v Pokémonu GO, konec Sklizňového festivalu, Oslavu Pokémon Legends: Z-A a Mega Rayquaza Ra...
+Rozvrh Pokémon GO od 6. do 12. října přináší měsíc strašidelné sezóny v rámci sezóny Příběhů transformace! Těšte se na vydání nových levelů v Pokémon GO, konec Sklizňového festivalu, Oslavu Pokémon Legends: Z-A a Mega Rayquaza Ra...
 
 [Číst původní článek](https://pokemongohub.net/post/event/pokemon-go-events-this-week-13-october-19-october-2025/)
 

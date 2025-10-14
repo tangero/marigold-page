@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-12 17:32:19'
-description: 'Pokemon Legends: Z-A ROM nyní pronikl online a očekávají se další úniky
+description: 'Pokemon Legends: Z-A ROM nyní unikl online a očekávají se další úniky
   v nejbližší budoucnosti.'
 importance: 3
 layout: tech_news_article
@@ -12,12 +12,12 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: 'Pokémon Legends: Z-A ROM unikl online - Nintendo Everything'
+title: 'Pokémon Legends: Z-A - unikl online'
 url: https://nintendoeverything.com/pokemon-legends-z-a-rom-leaked-online/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-ROM.jpg
 ---
 
-Pokemon Legends: Z-A ROM nyní pronikl online a očekávají se další úniky v nejbližší budoucnosti.
+Pokemon Legends: Z-A ROM nyní unikl online a očekávají se další úniky v nejbližší budoucnosti.
 
 [Číst původní článek](https://nintendoeverything.com/pokemon-legends-z-a-rom-leaked-online/)
 

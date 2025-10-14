@@ -1,8 +1,8 @@
 ---
 category: hudební historie
 date: '2025-10-13 00:00:00'
-description: Ikonické WWE vstupní téma Hulka Hogana slaví 40 let – ale původně nebylo
-  určeno pro Hulkstra.
+description: Ikonické vstupní téma Hulka Hogana ve WWE slaví 40 let - ale původně
+  nebylo určeno pro Hulksterera.
 importance: 3
 layout: tech_news_article
 original_title: ‘Real American’ debuts, but that’s not Hulk Hogan walking out, brother
@@ -15,12 +15,12 @@ source:
   emoji: 📰
   id: null
   name: Cageside Seats
-title: Skutečný Američan debutuje, ale to není Hulk Hogan, bratře
+title: Skutečný Američan debutuje, ale není to Hulk Hogan, bratře
 url: https://www.cagesideseats.com/wwe/389484/hulk-hogan-real-american-entrance-theme-40th-anniversary-wwe
 urlToImage: https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/10/Screenshot-2025-10-12-11.23.01.png?quality=90&strip=all&crop=0%2C10.564817202372%2C100%2C78.870365595255&w=1200
 ---
 
-Ikonické WWE vstupní téma Hulka Hogana slaví 40 let – ale původně nebylo určeno pro Hulkstra.
+Ikonické vstupní téma Hulka Hogana ve WWE slaví 40 let - ale původně nebylo určeno pro Hulksterera.
 
 [Číst původní článek](https://www.cagesideseats.com/wwe/389484/hulk-hogan-real-american-entrance-theme-40th-anniversary-wwe)
 

@@ -3,10 +3,9 @@ category: reklama
 companies:
 - Amazon
 date: '2025-10-12 16:06:00'
-description: Zprávy se hromadí od majitelů Amazon Echo Show, kteří říkají, že chytrý
-  displej začal zobrazovat více reklam. Mnoho z nich označuje tuto zkušenost za narušující
-  a frustrující. Napříč fóry a sociálními médii uživatelé sdílejí své stížnosti na
-  zvýšený počet reklamních obsahů, které se objevují na jejich zařízeních.
+description: Zprávy narůstají od majitelů Amazon Echo Show, kteří říkají, že chytrý
+  displej začal zobrazovat více reklam, přičemž mnoho z nich označuje tuto zkušenost
+  za rušivou a frustrující. Napříč...
 importance: 3
 layout: tech_news_article
 original_title: Echo Show users say Amazon's smart displays are starting to feel like
@@ -23,7 +22,7 @@ url: https://www.techspot.com/news/109829-echo-show-users-amazon-smart-displays-
 urlToImage: https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-11-image-17.jpg
 ---
 
-Zprávy se hromadí od majitelů Amazon Echo Show, kteří říkají, že chytrý displej začal zobrazovat více reklam. Mnoho z nich označuje tuto zkušenost za narušující a frustrující. Napříč fóry a sociálními médii uživatelé sdílejí své stížnosti na zvýšený počet reklamních obsahů, které se objevují na jejich zařízeních.
+Zprávy narůstají od majitelů Amazon Echo Show, kteří říkají, že chytrý displej začal zobrazovat více reklam, přičemž mnoho z nich označuje tuto zkušenost za rušivou a frustrující. Napříč...
 
 [Číst původní článek](https://www.techspot.com/news/109829-echo-show-users-amazon-smart-displays-starting-feel.html)
 

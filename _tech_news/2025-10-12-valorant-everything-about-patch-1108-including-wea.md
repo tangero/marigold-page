@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Sheepesports.com
-title: 'Valorant: Vše o aktualizaci 11.08, včetně zbraní, agentů a změn map'
+title: 'Změny ve zbrani, agenty a mapách ve VALORANTU: Vše o záplatě 11.08'
 url: https://www.sheepesports.com/articles/valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes/en
 urlToImage: https://sheepesports.com/api/og?url=valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes&language=en
 ---
