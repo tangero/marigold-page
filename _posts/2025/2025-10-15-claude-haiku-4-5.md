@@ -14,9 +14,8 @@ summary_points:
 - Haiku 4.5 je klasifikován jako ASL-2, což z něj činí bezpečnostně nejbezpečnější model Anthropic
 - Model umožňuje orchestraci více instancí pro paralelní zpracování složitých úkolů
 - Haiku 4.5 předčí Claude Sonnet 4 v ovládání počítačů a vyniká v úkolах s nízkou latencí
-title: Anthropic představil Claude Haiku 4.5, rychlý a dostupný model pro kódování
-
------
+title: Anthropic představil levný a rychlý model Claude Haiku 4.5
+---
 
 Anthropic dnes zpřístupnil [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5), malý jazykový model, který přináší výkon blízký hraničním modelům za zlomek ceny. Model, který je dostupný všem uživatelům, nabízí programátorský výkon srovnatelný s pět měsíců starým Claude Sonnet 4, ale při třetinových nákladech a více než dvojnásobné rychlosti zpracování.
 
