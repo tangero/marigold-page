@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-13 14:17:48'
-description: Věci nevypadají moc dobře pro "forever game", jehož příběh odstartoval
-  před více než deseti lety. Hra se potýká s řadou výzev a její budoucnost je nejistá.
+description: Věci nevypadají moc dobře pro "forever game", jehož příběh začal před
+  více než deseti lety. Tento titul se potýká s pokračujícími výzvami a nejistou budoucností.
 importance: 3
 layout: tech_news_article
 original_title: The last time Destiny 2's player numbers looked this bad, Bungie was
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Poslední pokles počtu hráčů Destiny 2 naznačuje, že Bungie bylo měsíc od "uzavření
-  obchodu" - znamená to tedy konec?
+title: Poslední pokles počtu hráčů Destiny 2 naznačuje, že Bungie může být měsíc od
+  "uzavření obchodu" - je to tedy konečně konec?
 url: https://www.eurogamer.net/is-this-the-beginning-of-the-end-for-destiny-2
 urlToImage: https://assetsio.gnwcdn.com/destiny-down.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Věci nevypadají moc dobře pro "forever game", jehož příběh odstartoval před více než deseti lety. Hra se potýká s řadou výzev a její budoucnost je nejistá.
+Věci nevypadají moc dobře pro "forever game", jehož příběh začal před více než deseti lety. Tento titul se potýká s pokračujícími výzvami a nejistou budoucností.
 
 [Číst původní článek](https://www.eurogamer.net/is-this-the-beginning-of-the-end-for-destiny-2)
 

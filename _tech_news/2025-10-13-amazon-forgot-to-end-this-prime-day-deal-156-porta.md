@@ -15,7 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Amazonská sleva na 15,6" přenosný monitor stále pokračuje
+title: Zapomněl Amazon ukončit tuto akci Prime Day, 15,6" přenosný monitor stále jde
+  za babku
 url: https://kotaku.com/amazon-forgot-to-end-this-prime-day-deal-15-6″-portable-monitor-still-goes-for-peanuts-2000634484
 urlToImage: https://kotaku.com/app/uploads/2025/10/mnn-monitor.jpg
 ---

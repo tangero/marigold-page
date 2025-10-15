@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: UploadVR
-title: 'Říjnový Steam Next Fest 2025: Zde jsou představené ukázky PC VR her'
+title: 'Říjnový Steam Next Fest 2025: Zde jsou představené PC VR dema'
 url: https://www.uploadvr.com/steam-next-fest-october-2025-pc-vr-demos/
 urlToImage: https://www.uploadvr.com/content/images/size/w1200/2025/10/english.jpg
 ---

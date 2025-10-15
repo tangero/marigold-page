@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-13 22:32:07'
-description: Už je téměř čas znovu si zahrát s postavou Armored King jako DLC postavou
-  v Tekken 8 a s ním přichází i výrazná aktualizace. Bandai Namco nyní vydalo kompletní
-  poznámky k aktualizaci pro Tekken 8.
+description: Už je skoro čas vzít Armored Kinga znovu do akce jako DLC postavu v Tekken
+  8 a přináší s sebou významnou aktualizaci. Bandai Namco nyní zveřejnilo plné poznámky
+  k aktualizaci pro Tekken 8.
 importance: 3
 layout: tech_news_article
 original_title: Tekken 8 Version 2.06 patch notes released - EventHubs
@@ -18,7 +18,7 @@ url: https://www.eventhubs.com/news/2025/oct/13/tekken-patch-notes-armor-king/
 urlToImage: https://media.eventhubs.com/images/2025/10/13-tekken-patch-notes-armor-kingt.webp
 ---
 
-Už je téměř čas znovu si zahrát s postavou Armored King jako DLC postavou v Tekken 8 a s ním přichází i výrazná aktualizace. Bandai Namco nyní vydalo kompletní poznámky k aktualizaci pro Tekken 8.
+Už je skoro čas vzít Armored Kinga znovu do akce jako DLC postavu v Tekken 8 a přináší s sebou významnou aktualizaci. Bandai Namco nyní zveřejnilo plné poznámky k aktualizaci pro Tekken 8.
 
 [Číst původní článek](https://www.eventhubs.com/news/2025/oct/13/tekken-patch-notes-armor-king/)
 

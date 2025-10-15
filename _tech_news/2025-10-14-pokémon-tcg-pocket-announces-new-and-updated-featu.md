@@ -1,9 +1,10 @@
 ---
-category: herní průmysl
+category: karetní hry
 date: '2025-10-14 01:19:11'
-description: Get ready, trainers. Nová aktualizace pro Pokémon GO přináší spoustu
-  vzrušujících novinek. Těšte se na nové Pokémony, vylepšení systému bojů a další
-  zajímavé funkce. Připravte se na další dobrodružství v Pokémon světě!
+description: Get ready, trainers. Nový Pokémon GO event je tady! Užijte si zvýšený
+  výskyt Pokémonů typu Elektrický a Bojový. Získejte dvojnásobné množství Stardust
+  při chytání Pokémonů. Nezapomeňte také na speciální Field Research úkoly a možnost
+  získat exkluzivní odměny. Tak hurá do akce!
 importance: 4
 layout: tech_news_article
 original_title: Pokémon TCG Pocket Announces "New And Updated" Features For First
@@ -14,12 +15,13 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: Kapesní Pokémon TCG oznamuje "nové a aktualizované" funkce k prvnímu výročí
+title: Nové a aktualizované funkce pro první výročí Pokémon TCG Pocket - Nintendo
+  Life
 url: https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary
 urlToImage: https://images.nintendolife.com/40eb17ac2e531/large.jpg
 ---
 
-Get ready, trainers. Nová aktualizace pro Pokémon GO přináší spoustu vzrušujících novinek. Těšte se na nové Pokémony, vylepšení systému bojů a další zajímavé funkce. Připravte se na další dobrodružství v Pokémon světě!
+Get ready, trainers. Nový Pokémon GO event je tady! Užijte si zvýšený výskyt Pokémonů typu Elektrický a Bojový. Získejte dvojnásobné množství Stardust při chytání Pokémonů. Nezapomeňte také na speciální Field Research úkoly a možnost získat exkluzivní odměny. Tak hurá do akce!
 
 [Číst původní článek](https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary)
 

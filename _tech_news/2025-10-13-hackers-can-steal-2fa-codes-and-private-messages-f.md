@@ -13,7 +13,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Hackři mohou krást 2FA kódy a soukromé zprávy z Androidových telefonů
+title: Hackeři mohou ukrást 2FA kódy a soukromé zprávy z Androidových telefonů
 url: https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-1152x648.jpg
 ---

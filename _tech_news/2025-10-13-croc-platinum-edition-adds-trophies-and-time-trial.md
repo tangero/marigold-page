@@ -12,8 +12,8 @@ source:
   emoji: 📰
   id: null
   name: Push Square
-title: Edice Croc Platinum přidává trofeje a časové zkoušky, stávající majitelé PS5
-  a PS4 ji dostanou zdarma
+title: Croc Platinum Edition přidává trofeje a časové zkoušky, stávající majitelé
+  PS5 a PS4 jej dostanou zdarma
 url: https://www.pushsquare.com/news/2025/10/croc-platinum-edition-adds-trophies-and-time-trials-existing-ps5-ps4-owners-get-it-for-free
 urlToImage: https://images.pushsquare.com/f519be18a8de9/large.jpg
 ---
