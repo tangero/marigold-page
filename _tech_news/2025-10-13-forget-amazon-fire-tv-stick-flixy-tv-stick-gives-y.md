@@ -14,7 +14,7 @@ source:
   id: null
   name: Gizmodo.com
 title: Zapomeňte na Amazon Fire TV Stick, Flixy TV Stick vám poskytne neomezené streamování
-  se slevou 75% - Gizmodo
+  za 75% slevu
 url: https://gizmodo.com/forget-amazon-fire-tv-stick-flixy-tv-stick-gives-you-limitless-streaming-at-75-off-2000671726
 urlToImage: https://gizmodo.com/app/uploads/2025/10/Flixy-1200x675.jpg
 ---
