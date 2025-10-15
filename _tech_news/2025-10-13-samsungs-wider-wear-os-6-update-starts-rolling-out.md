@@ -4,8 +4,8 @@ companies:
 - Samsung
 date: '2025-10-13 15:34:00'
 description: Galaxy Watch 7 série údajně dostává aktualizaci na One UI 8 založenou
-  na Wear OS 6 v některých regionech. Aktualizace přináší vylepšení uživatelského
-  rozhraní a nové funkce.
+  na Wear OS 6 v určitých regionech. Aktualizace přináší vylepšení uživatelského rozhraní,
+  nové funkce a vylepšení výkonu.
 importance: 2
 layout: tech_news_article
 original_title: Samsung’s wider Wear OS 6 update starts rolling out to Galaxy Watch
@@ -22,7 +22,7 @@ url: http://9to5google.com/2025/10/13/samsung-one-ui-8-galaxy-watch-7-rollout/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-watch-7-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Galaxy Watch 7 série údajně dostává aktualizaci na One UI 8 založenou na Wear OS 6 v některých regionech. Aktualizace přináší vylepšení uživatelského rozhraní a nové funkce.
+Galaxy Watch 7 série údajně dostává aktualizaci na One UI 8 založenou na Wear OS 6 v určitých regionech. Aktualizace přináší vylepšení uživatelského rozhraní, nové funkce a vylepšení výkonu.
 
 [Číst původní článek](http://9to5google.com/2025/10/13/samsung-one-ui-8-galaxy-watch-7-rollout/)
 

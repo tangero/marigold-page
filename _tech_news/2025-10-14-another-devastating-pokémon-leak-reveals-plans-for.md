@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-14 10:51:39'
-description: Vývojář Pokémona, společnost Game Freak, utrpěl další obrovský únik dat,
-  který odhalil plánované projekty studia až do roku 2030.
+description: Vývojář Pokémonu, společnost Game Freak, utrpěl další obrovský únik dat,
+  který odhalil údajně plánované projekty studia až do roku 2030.
 importance: 3
 layout: tech_news_article
 original_title: Another devastating Pokémon leak reveals plans for future games, but
@@ -14,12 +14,12 @@ source:
   id: null
   name: Eurogamer.net
 title: Další ničivý únik informací o Pokémonu odhaluje plány pro budoucí hry, ale
-  je to údajný rozpočet na vývoj, který zanechal hráče v šoku
+  jsou to údajné rozpočty na vývoj, které zanechaly hráče v šoku
 url: https://www.eurogamer.net/another-devastating-pokemon-leak-reveals-plans-for-future-games-but-its-the-reported-development-budgets-that-have-left-players-stunned
 urlToImage: https://assetsio.gnwcdn.com/pokemon-leek.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Vývojář Pokémona, společnost Game Freak, utrpěl další obrovský únik dat, který odhalil plánované projekty studia až do roku 2030.
+Vývojář Pokémonu, společnost Game Freak, utrpěl další obrovský únik dat, který odhalil údajně plánované projekty studia až do roku 2030.
 
 [Číst původní článek](https://www.eurogamer.net/another-devastating-pokemon-leak-reveals-plans-for-future-games-but-its-the-reported-development-budgets-that-have-left-players-stunned)
 

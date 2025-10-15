@@ -13,7 +13,7 @@ source:
   emoji: 📡
   id: axios
   name: Axios
-title: 'Exkluzivní: Web je stále z velké části tvořen lidmi, zjistila studie - Axios'
+title: 'Výhradní: Web je stále z velké části vytvářen lidmi, zjistila studie - Axios'
 url: https://www.axios.com/2025/10/14/ai-generated-writing-humans
 urlToImage: https://images.axios.com/3y-o-N9CCYC3jMfyTVQleWTrHZQ=/0x0:1344x756/1366x768/2025/10/09/1760031680598.png
 ---

@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-13 17:01:16'
-description: Steam Next Fest zahajuje svou týdenní říjnovou akci dnes, která nabízí
+description: Steam Next Fest zahajuje svou týdenní říjnovou akci dnes, která představuje
   desítky ukázek PC VR her.
 importance: 3
 layout: tech_news_article
@@ -13,12 +13,12 @@ source:
   emoji: 📰
   id: null
   name: UploadVR
-title: 'Říjnový Steam Next Fest 2025: Zde jsou představené PC VR dema'
+title: 'Říjnový Steam Next Fest 2025: Zde jsou představené ukázky PC VR her'
 url: https://www.uploadvr.com/steam-next-fest-october-2025-pc-vr-demos/
 urlToImage: https://www.uploadvr.com/content/images/size/w1200/2025/10/english.jpg
 ---
 
-Steam Next Fest zahajuje svou týdenní říjnovou akci dnes, která nabízí desítky ukázek PC VR her.
+Steam Next Fest zahajuje svou týdenní říjnovou akci dnes, která představuje desítky ukázek PC VR her.
 
 [Číst původní článek](https://www.uploadvr.com/steam-next-fest-october-2025-pc-vr-demos/)
 

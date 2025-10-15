@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Nové editační nástroje pro Google Photos, které vám pomohou vypadat co nejlépe
+title: Nové editační nástroje v Google Photos pro vylepšení vašeho vzhledu
 url: https://www.androidauthority.com/google-photos-face-touchup-3606721/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-Pro-XL-selfie-in-photos-app.jpg
 ---
