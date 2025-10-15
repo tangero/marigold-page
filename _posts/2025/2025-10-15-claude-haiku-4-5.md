@@ -6,14 +6,14 @@ categories:
 - Claude
 - jazykové modely
 layout: post
-post_excerpt: Anthropic uvedl Claude Haiku 4.5, malý model s výkonem srovnatelným s pět měsíců starým Claude Sonnet 4, ale třikrát levnější a dvakrát rychlejší.
+post_excerpt: "Anthropic uvedl Claude Haiku 4.5, malý model s výkonem srovnatelným s pět měsíců starým Claude Sonnet 4, ale třikrát levnější a dvakrát rychlejší."
 summary_points:
 - Claude Haiku 4.5 nabízí výkon srovnatelný s Claude Sonnet 4 při třetinových nákladech a více než dvojnásobné rychlosti
 - V programování dosahuje Haiku 4.5 73,3 % úspěšnosti na testu SWE-bench, čímž překonává GPT-5 Codex i Gemini 2.5 Pro
 - Model je dostupný přes API za cenu 1 dolar za milion vstupních a 5 dolarů za milion výstupních tokenů
-- Haiku 4.5 je klasifikován jako ASL-2, což z něj činí bezpečnostně nejbezpečnější model Anthropic
+- Haiku 4.5 je klasifikován jako ASL-2, což z něj činí nejbezpečnější model Anthropic
 - Model umožňuje orchestraci více instancí pro paralelní zpracování složitých úkolů
-- Haiku 4.5 předčí Claude Sonnet 4 v ovládání počítačů a vyniká v úkolах s nízkou latencí
+- Haiku 4.5 předčí Claude Sonnet 4 v ovládání počítačů a vyniká v úkolech s nízkou latencí
 title: Anthropic představil levný a rychlý model Claude Haiku 4.5
 ---
 
