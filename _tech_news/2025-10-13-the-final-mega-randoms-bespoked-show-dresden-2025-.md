@@ -1,7 +1,7 @@
 ---
 category: kreativní cyklistika
 date: '2025-10-13 19:00:00'
-description: Poslední kolo kreativních cyklistických kreací vystavených v Drážďanech
+description: Finální kolo kreativních bicyklových kreací vystavených v Drážďanech
   letos.
 importance: 3
 layout: tech_news_article
@@ -17,7 +17,7 @@ url: https://www.pinkbike.com/news/the-final-mega-randoms-bespoked-show-dresden-
 urlToImage: https://ep1.pinkbike.org/p4pb28877204/p4pb28877204.jpg
 ---
 
-Poslední kolo kreativních cyklistických kreací vystavených v Drážďanech letos.
+Finální kolo kreativních bicyklových kreací vystavených v Drážďanech letos.
 
 [Číst původní článek](https://www.pinkbike.com/news/the-final-mega-randoms-bespoked-show-dresden-2025.html)
 

@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-13 10:57:13'
-description: Možná byly nalezeny, ale o tom jsem nic neslyšel. Stále je tu několik
-  věcí, ano," říká Guillaume Broche.
+description: Možná byly nalezeny, ale zatím jsem o tom nic neslyšel. Je tu stále ještě
+  několik věcí, které je třeba vyřešit, říká Guillaume Broche.
 importance: 3
 layout: tech_news_article
 original_title: 'Clair Obscur: Expedition 33 Still Has Undiscovered Secrets, Says
@@ -20,7 +20,7 @@ url: https://gamingbolt.com/clair-obscur-expedition-33-still-has-undiscovered-se
 urlToImage: https://gamingbolt.com/wp-content/uploads/2025/03/Clair-Obscur-Expedition-33_04.jpg
 ---
 
-Možná byly nalezeny, ale o tom jsem nic neslyšel. Stále je tu několik věcí, ano," říká Guillaume Broche.
+Možná byly nalezeny, ale zatím jsem o tom nic neslyšel. Je tu stále ještě několik věcí, které je třeba vyřešit, říká Guillaume Broche.
 
 [Číst původní článek](https://gamingbolt.com/clair-obscur-expedition-33-still-has-undiscovered-secrets-says-director)
 

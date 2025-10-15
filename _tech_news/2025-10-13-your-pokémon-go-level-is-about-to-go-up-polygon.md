@@ -1,5 +1,5 @@
 ---
-category: herní průmysl
+category: mobilní aplikace
 companies:
 - Niantic
 date: '2025-10-13 17:00:00'
@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: polygon
   name: Polygon
-title: Váš level ve hře Pokémon Go se chystá zvýšit
+title: Váš level ve hře Pokémon Go se brzy zvýší
 url: https://www.polygon.com/pokmon-go-new-level-cap-changes-rewards-daily-adventure-egg/
 urlToImage: https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/pokemon-go-leveling-2025-update.jpg?w=1600&h=900&fit=crop
 ---

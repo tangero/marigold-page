@@ -14,7 +14,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Demonstrace Wi-Fi 8 s prvním prototypovým připojením
+title: Demonstrace Wi-Fi 8 s prvním prototypem připojení
 url: https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24957516/236811_WIFI7_CVirginia_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

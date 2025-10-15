@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: TrueAchievements
-title: Nejtěžší dosažení v Little Nightmares 3 je také velmi vágní
+title: Nejtěžší dosažení v Little Nightmares 3 je také velmi neurčité
 url: https://www.trueachievements.com/news/little-nightmares-3-hand-eye-coordination-achievement
 urlToImage: https://www.trueachievements.com/imgs/165110/little-nightmares-3.jpg
 ---

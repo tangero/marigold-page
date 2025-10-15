@@ -1,5 +1,5 @@
 ---
-category: důvěra v ai
+category: nedůvěra v ai
 date: '2025-10-13 11:00:00'
 description: Předběžná zpráva ukazuje, že důvěra výzkumníků v AI software se za poslední
   rok prudce snížila.

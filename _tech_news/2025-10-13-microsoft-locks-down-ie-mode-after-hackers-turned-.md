@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Internet
-title: Společnost Microsoft zabezpečila IE Mode po tom, co hackeři zneužili tuto legacy
-  funkci jako zadní vrátka
+title: Společnost Microsoft uzamkla režim IE po tom, co jej hackeři zneužili jako
+  zadní vrátka
 url: https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html
 urlToImage: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtO_KAfNCOTqs2JcWLrUFXMVfDeVWtB8zvcN3nIR4i2wPde7J5FxNBOzLU2sYynj2wNmZXPYs60s9-kf4tIlrEEu4ZrxLnqLOdGyMjBVR0AbCBP5WG9pNZEq7Img77ZoIqGquYFGeG0HPzHbhiSgHjLn_2f_gi_4sZnQawhSUT9qTELXPk_DagHbugCM2y/s790-rw-e365/edge.jpg
 ---

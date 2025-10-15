@@ -3,7 +3,7 @@ category: ai editory
 companies:
 - Google
 date: '2025-10-13 19:52:23'
-description: Po více než 5 miliardách úprav AI obrázků se Nano Banana rozšiřuje.
+description: Po více než 5 miliardách editací AI obrazů se Nano Banana rozšiřuje.
 importance: 5
 layout: tech_news_article
 original_title: Google’s Nano Banana AI image editor is coming to search, Photos,
@@ -19,7 +19,7 @@ url: https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/BananaLens-2096x1182.width-2200.format-webp-copy-1152x648.jpg
 ---
 
-Po více než 5 miliardách úprav AI obrázků se Nano Banana rozšiřuje.
+Po více než 5 miliardách editací AI obrazů se Nano Banana rozšiřuje.
 
 [Číst původní článek](https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/)
 
