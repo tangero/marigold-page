@@ -14,7 +14,7 @@ source:
   id: null
   name: Wccftech
 title: Spekulace o finalizovaných specifikacích PlayStation 6 a Xbox Magnus; Únik
-  informací naznačuje, že Xbox bude mít výkonnostní převahu
+  naznačuje, že Xbox bude mít výkonnostní převahu
 url: https://wccftech.com/playstation-6-and-xbox-magnus-specs-finalized-xbox-performance-advantage/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/PlayStation-6.jpg
 ---

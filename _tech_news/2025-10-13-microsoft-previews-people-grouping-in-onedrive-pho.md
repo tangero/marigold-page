@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Náhled seskupování lidí v OneDrive fotkách
+title: Náhled seskupování lidí v OneDrive fotografiích
 url: https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/
 urlToImage: https://regmedia.co.uk/2015/09/02/metal_faces_iron.jpg
 ---
