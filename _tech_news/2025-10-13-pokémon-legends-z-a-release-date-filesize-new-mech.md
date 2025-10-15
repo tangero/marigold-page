@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: 'Datum vydání, velikost souboru, nové mechaniky a potvrzený Pokédex hry Pokémon
+title: 'Datum vydání, velikost souboru, nové mechaniky a potvrzený Pokédex pro Pokémon
   Legends: Z-A'
 url: https://mashable.com/article/pokemon-legends-za-release-date-time-pokedex
 urlToImage: https://helios-i.mashable.com/imagery/articles/04sHra8NQGUKRi7bhiRQNtj/hero-image.fill.size_1200x675.v1760349611.png

@@ -14,7 +14,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Nanobanánový AI editor obrázků od Googlu přichází do vyhledávání, Fotek a NotebookLM
+title: Nano Banana AI image editor od Googlu přichází do vyhledávání, Photos a NotebookLM
 url: https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/BananaLens-2096x1182.width-2200.format-webp-copy-1152x648.jpg
 ---

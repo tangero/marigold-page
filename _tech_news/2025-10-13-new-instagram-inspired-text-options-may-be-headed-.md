@@ -4,8 +4,8 @@ companies:
 - Google
 date: '2025-10-13 13:44:44'
 description: S nadcházející aktualizací aplikace Fotky Google by mohla přinést rozsáhlé
-  textové funkce identické s těmi, které již dlouho vidíme na Instagram Stories a
-  Reels.
+  textové funkce identické s těmi, které již dlouho vidíme na Instagramu ve Stories
+  a Reels.
 importance: 4
 layout: tech_news_article
 original_title: New Instagram-inspired text options may be headed to Google Photos
@@ -16,13 +16,13 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Nové možnosti textu inspirované Instagramem se možná dostanou do Google Photos
+title: Nové textové možnosti inspirované Instagramem se možná dostanou do Google Photos
   (APK teardown)
 url: https://www.androidauthority.com/google-photos-video-editor-improved-text-menu-3606617/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg
 ---
 
-S nadcházející aktualizací aplikace Fotky Google by mohla přinést rozsáhlé textové funkce identické s těmi, které již dlouho vidíme na Instagram Stories a Reels.
+S nadcházející aktualizací aplikace Fotky Google by mohla přinést rozsáhlé textové funkce identické s těmi, které již dlouho vidíme na Instagramu ve Stories a Reels.
 
 [Číst původní článek](https://www.androidauthority.com/google-photos-video-editor-improved-text-menu-3606617/)
 

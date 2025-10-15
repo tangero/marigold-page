@@ -3,9 +3,9 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-13 18:47:08'
-description: Microsoft odmítl tvrzení, že maloobchodníci v USA stáhli prodej konzolí
-  Xbox Series X a S, a trvá na tom, že hlavní maloobchodníci nadále nabízejí tyto
-  konzole k prodeji.
+description: Microsoft popřel tvrzení, že maloobchodníci v USA stáhli prodej konzolí
+  Xbox Series X a S, a trvá na tom, že hlavní maloobchodní řetězce nadále nabízejí
+  tyto konzole k prodeji.
 importance: 5
 layout: tech_news_article
 original_title: Microsoft denies U.S. retailers like Target and Walmart have removed
@@ -19,12 +19,12 @@ source:
   id: null
   name: GamesIndustry.biz
 title: Společnost Microsoft popírá, že by maloobchodníci v USA jako Target a Walmart
-  odstranili produkty Xbox ze svých prodejen - GamesIndustry.biz
+  odstranili produkty Xbox z prodejen
 url: https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores
 urlToImage: https://assetsio.gnwcdn.com/Xbox-Series-X%7CS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Microsoft odmítl tvrzení, že maloobchodníci v USA stáhli prodej konzolí Xbox Series X a S, a trvá na tom, že hlavní maloobchodníci nadále nabízejí tyto konzole k prodeji.
+Microsoft popřel tvrzení, že maloobchodníci v USA stáhli prodej konzolí Xbox Series X a S, a trvá na tom, že hlavní maloobchodní řetězce nadále nabízejí tyto konzole k prodeji.
 
 [Číst původní článek](https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores)
 

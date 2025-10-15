@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-13 09:50:46'
-description: Bojová spin-off hra série Final Fantasy, Dissidia, se brzy vrátí po svém
-  vrcholu na PSP, ale zatím bude dostupná pouze na mobilních zařízeních.
+description: Bojový spin-off série Final Fantasy, Dissidia, se brzy vrátí po svém
+  úspěšném období na PSP, ale zatím bude dostupný pouze na mobilních zařízeních.
 importance: 3
 layout: tech_news_article
 original_title: Final Fantasy's beloved fighting spin-off is soon set to make a return
@@ -18,7 +18,7 @@ url: https://www.eurogamer.net/final-fantasys-beloved-fighting-spin-off-is-soon-
 urlToImage: https://assetsio.gnwcdn.com/yshtola-dissidia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Bojová spin-off hra série Final Fantasy, Dissidia, se brzy vrátí po svém vrcholu na PSP, ale zatím bude dostupná pouze na mobilních zařízeních.
+Bojový spin-off série Final Fantasy, Dissidia, se brzy vrátí po svém úspěšném období na PSP, ale zatím bude dostupný pouze na mobilních zařízeních.
 
 [Číst původní článek](https://www.eurogamer.net/final-fantasys-beloved-fighting-spin-off-is-soon-set-to-make-a-return)
 

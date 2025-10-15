@@ -3,7 +3,7 @@ category: generátor obrázků
 companies:
 - Microsoft
 date: '2025-10-13 21:24:05'
-description: Microsoft AI oznámil nový generátor text-to-image vyvinutý interně.
+description: Microsoft AI představil nový generátor textu do obrazu vyvinutý interně.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft AI announces first image generator created in-house - The
@@ -16,12 +16,12 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Oznámení Microsoftu o prvním generátoru obrazu vytvořeném interně
+title: Nový generátor obrázků od Microsoftu
 url: https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Microsoft AI oznámil nový generátor text-to-image vyvinutý interně.
+Microsoft AI představil nový generátor textu do obrazu vyvinutý interně.
 
 [Číst původní článek](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
 

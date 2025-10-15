@@ -3,8 +3,8 @@ category: mobilní platby
 companies:
 - Google
 date: '2025-10-13 21:30:00'
-description: American Airlines oznámila, že bude podporovat Google Wallet pro své
-  palubní vstupenky, což je dlouho očekávané doplnění pro leteckou společnost.
+description: American Airlines oznámila, že bude podporovat Google Wallet se svými
+  palubními vstupenkami, což je dlouho očekávané doplnění pro...
 importance: 3
 layout: tech_news_article
 original_title: American Airlines adding Google Wallet support for boarding passes
@@ -15,13 +15,13 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Americká letecká společnost American Airlines přidává podporu Google Wallet
-  pro palubní lístky
+title: Americké aerolinky American Airlines přidávají podporu Google Wallet pro palubní
+  lístky
 url: http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/american-airlines.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-American Airlines oznámila, že bude podporovat Google Wallet pro své palubní vstupenky, což je dlouho očekávané doplnění pro leteckou společnost.
+American Airlines oznámila, že bude podporovat Google Wallet se svými palubními vstupenkami, což je dlouho očekávané doplnění pro...
 
 [Číst původní článek](http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/)
 
