@@ -1,11 +1,11 @@
 ---
-category: nové produkty
+category: nový hardware
 companies:
 - Apple
 date: '2025-10-14 19:17:48'
-description: 'Apple se chystá odhalit svůj nový M5 MacBook. Greg Joswiak, senior viceprezident
-  pro celosvětový marketing, zveřejnil krátké video s titulkem: "Něco výkonného se
-  blíží.'
+description: 'Apple chystá představení svého nového M5 MacBooku, přičemž viceprezident
+  pro celosvětový marketing Greg Joswiak zveřejnil krátké video s titulkem: "Něco
+  výkonného přichází.'
 importance: 3
 layout: tech_news_article
 original_title: Apple teases M5 MacBook - The Verge
@@ -22,7 +22,7 @@ url: https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m5-teaser.jpg?quality=90&strip=all&crop=0%2C6.646045932146%2C100%2C86.707908135708&w=1200
 ---
 
-Apple se chystá odhalit svůj nový M5 MacBook. Greg Joswiak, senior viceprezident pro celosvětový marketing, zveřejnil krátké video s titulkem: "Něco výkonného se blíží.
+Apple chystá představení svého nového M5 MacBooku, přičemž viceprezident pro celosvětový marketing Greg Joswiak zveřejnil krátké video s titulkem: "Něco výkonného přichází.
 
 [Číst původní článek](https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser)
 

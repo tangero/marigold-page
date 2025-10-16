@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: Očekávané specifikace PlayStation 6 a Xbox Magnus; Únik naznačuje, že Xbox
-  bude mít výkonnostní výhodu
+title: Specifikace PlayStation 6 a Xbox Magnus se údajně finalizují; únik naznačuje,
+  že Xbox bude mít výkonnostní výhodu
 url: https://wccftech.com/playstation-6-and-xbox-magnus-specs-finalized-xbox-performance-advantage/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/PlayStation-6.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-14 18:28:24'
-description: Spoluzakladatel Infinity Wardu a vedoucí Battlefield 6 sdílí malý kousek
+description: Spoluzakladatel Infinity Wardu a vedoucí Battlefieldu 6 sdílí malý kousek
   vhledu do původu Call of Duty.
 importance: 3
 layout: tech_news_article
@@ -20,7 +20,7 @@ url: https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4584966-callofduty.jpg
 ---
 
-Spoluzakladatel Infinity Wardu a vedoucí Battlefield 6 sdílí malý kousek vhledu do původu Call of Duty.
+Spoluzakladatel Infinity Wardu a vedoucí Battlefieldu 6 sdílí malý kousek vhledu do původu Call of Duty.
 
 [Číst původní článek](https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks-says-vince-zampella/1100-6535420/)
 

@@ -14,8 +14,7 @@ source:
   emoji: 📰
   id: vice-news
   name: Vice News
-title: 'Pokémon Legends Z-A: Úniky informací o Mega startérech, odhaleny statistiky
-  a nové Mega evoluce'
+title: 'Pokémon Legends Z-A Mega Starters unikly: Statistiky a nové Mega Evoluce odhaleny'
 url: http://www.vice.com/en/article/pokemon-legends-z-a-mega-starters-leaked-stats-and-new-mega-evolutions-revealed/
 urlToImage: https://www.vice.com/wp-content/uploads/sites/2/2025/10/Pokemon-Legends-Z-A-Mega-Starters-Leaked-Stats-and-New-Mega-Evolutions-Revealed.jpg?resize=2000,1028
 ---

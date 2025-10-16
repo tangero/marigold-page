@@ -1,5 +1,5 @@
 ---
-category: streamovací služba
+category: streamovací služby
 companies:
 - Apple
 date: '2025-10-15 00:30:00'
