@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Oblíbená párty hra se náhodou stala trvale zdarma na Steamu
+title: Oblíbená párty hra se náhodou trvale stala bezplatnou na Steamu
 url: https://kotaku.com/adored-party-game-accidentally-gets-permanently-stuck-as-free-on-steam-2000633195
 urlToImage: https://kotaku.com/app/uploads/2025/10/pico1-1200x675.jpg
 ---

@@ -16,7 +16,7 @@ source:
   id: null
   name: Nvidia.com
 title: Battlefield 6 vychází tento týden s DLSS 4 a KPOP Demon Hunters přicházejí
-  do Fortnitu - NVIDIA
+  do Fortnite - NVIDIA
 url: https://www.nvidia.com/en-us/geforce/news/battlefield-6-dlss-4-multi-frame-generation-nvidia-reflex/
 urlToImage: https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/battlefield-6-dlss-4-multi-frame-generation-nvidia-reflex/fortnite-kpop-demon-hunters-dlss-reflex-ray-tracing-ogimage.jpg
 ---

@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: ign
   name: IGN
-title: Jako hráč PS5 bych nechtěl minout tyto PlayStation slevy na Prime Day v říjnu
-  a čas už téměř vypršel
+title: Jako hráč PS5 bych nechtěl přijít o tyto nabídky PlayStation Prime Day v říjnu,
+  a čas se krátí
 url: https://www.ign.com/articles/best-ps5-deals-amazon-october-prime-day-2025
 urlToImage: https://assets-prd.ignimgs.com/2025/10/08/ps-deals-header-1759923747169.jpg?width=1280&format=jpg&auto=webp&quality=80
 ---
