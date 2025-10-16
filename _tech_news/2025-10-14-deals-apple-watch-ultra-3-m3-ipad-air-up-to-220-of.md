@@ -3,8 +3,8 @@ category: elektronika
 companies:
 - Apple
 date: '2025-10-14 15:45:00'
-description: Dnešní 9to5Toys Lunch Break je připraven s dalšími slevami na M3 iPad
-  Air, které jsou ještě nižší než ceny během Prime Day.
+description: Dnešní 9to5Toys Lunch Break je připraven s ještě více nabídkami na iPad
+  Air M3, které překonávají ceny Prime Day.
 importance: 3
 layout: tech_news_article
 original_title: 'Deals: Apple Watch Ultra 3, M3 iPad Air up to $220 off, Beats Kickstand
@@ -21,7 +21,7 @@ url: https://9to5mac.com/2025/10/14/deals-apple-watch-ultra-3-m3-ipad-air-kickst
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Apple-deals-Apple-Watch-Ultra-3-iPad-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Dnešní 9to5Toys Lunch Break je připraven s dalšími slevami na M3 iPad Air, které jsou ještě nižší než ceny během Prime Day.
+Dnešní 9to5Toys Lunch Break je připraven s ještě více nabídkami na iPad Air M3, které překonávají ceny Prime Day.
 
 [Číst původní článek](https://9to5mac.com/2025/10/14/deals-apple-watch-ultra-3-m3-ipad-air-kickstand-case/)
 
