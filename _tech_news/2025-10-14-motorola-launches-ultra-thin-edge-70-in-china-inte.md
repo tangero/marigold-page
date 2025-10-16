@@ -15,8 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Motorola představuje ultra tenký Edge 70 v Číně, brzy bude uveden na mezinárodní
-  trh
+title: Motorola představuje ultra tenký Edge 70 v Číně, brzy bude k dispozici i mezinárodně
 url: http://9to5google.com/2025/10/14/motorola-launches-ultra-thin-edge-70-in-china-international-release-coming-soon/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/moto-edge-70-hero-china.png?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

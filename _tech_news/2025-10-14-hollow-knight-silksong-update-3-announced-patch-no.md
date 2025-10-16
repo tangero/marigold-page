@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Nintendoeverything.com
-title: 'Hollow Knight: Silksong - aktualizace 3, poznámky k záplatě'
+title: 'Hollow Knight: Silksong - aktualizace 3, poznámky k opravě chyb'
 url: https://nintendoeverything.com/hollow-knight-silksong-update-3-announced-patch-notes/
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Hollow-Knight-Silksong-update-3.jpg
 ---

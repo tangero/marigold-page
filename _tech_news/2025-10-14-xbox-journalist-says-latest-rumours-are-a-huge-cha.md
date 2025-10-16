@@ -3,10 +3,9 @@ category: herní průmysl
 companies:
 - Microsoft
 date: '2025-10-14 10:05:57'
-description: Někteří fanoušci Xboxu se obávali, že nová generace konzolí Xbox Series
-  X|S bude mít problémy s kompatibilitou zpětného chodu. Společnost Microsoft však
-  ujistila, že většina her z předchozích generací Xboxu bude na nových konzolích plně
-  kompatibilní a poběží lépe díky technologiím jako Auto HDR a rychlejšímu načítání.
+description: Xbox fanoušci se obávali, že nová konzole Xbox Series X bude příliš velká
+  a těžká. Nicméně Microsoft ujistil, že konzole bude stále kompaktní a snadno přenosná,
+  přestože obsahuje výkonné hardware komponenty jako 12 teraflop GPU a 8jádrový procesor.
 importance: 3
 layout: tech_news_article
 original_title: Xbox Journalist Says Latest Rumours Are 'A Huge Challenge For The
@@ -23,7 +22,7 @@ url: https://www.purexbox.com/news/2025/10/xbox-journalist-says-latest-rumours-a
 urlToImage: https://images.purexbox.com/1e46040d25eba/large.jpg
 ---
 
-Někteří fanoušci Xboxu se obávali, že nová generace konzolí Xbox Series X|S bude mít problémy s kompatibilitou zpětného chodu. Společnost Microsoft však ujistila, že většina her z předchozích generací Xboxu bude na nových konzolích plně kompatibilní a poběží lépe díky technologiím jako Auto HDR a rychlejšímu načítání.
+Xbox fanoušci se obávali, že nová konzole Xbox Series X bude příliš velká a těžká. Nicméně Microsoft ujistil, že konzole bude stále kompaktní a snadno přenosná, přestože obsahuje výkonné hardware komponenty jako 12 teraflop GPU a 8jádrový procesor.
 
 [Číst původní článek](https://www.purexbox.com/news/2025/10/xbox-journalist-says-latest-rumours-are-a-huge-challenge-for-the-brand-right-now)
 
