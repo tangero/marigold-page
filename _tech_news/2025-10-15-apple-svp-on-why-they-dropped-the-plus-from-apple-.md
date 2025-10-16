@@ -1,9 +1,9 @@
 ---
-category: streamovací služby
+category: streamovací služba
 companies:
 - Apple
 date: '2025-10-15 00:30:00'
-description: Eddy Cue, Senior Vice President of Services v Apple, poskytuje vhled
+description: Eddy Cue, Senior Vice President of Services v Applu, poskytuje vhled
   do přejmenování Apple TV+ na pouhé Apple TV.
 importance: 3
 layout: tech_news_article
@@ -17,12 +17,12 @@ source:
   emoji: 📰
   id: null
   name: Deadline
-title: Proč Apple vypustil "Plus" z Apple TV a náznaky počtu předplatitelů - Deadline
+title: Proč Apple vypustil "Plus" z Apple TV a náznaky počtu předplatitelů
 url: http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/
 urlToImage: https://deadline.com/wp-content/uploads/2025/10/apple-tv-logo.jpg?w=1024
 ---
 
-Eddy Cue, Senior Vice President of Services v Apple, poskytuje vhled do přejmenování Apple TV+ na pouhé Apple TV.
+Eddy Cue, Senior Vice President of Services v Applu, poskytuje vhled do přejmenování Apple TV+ na pouhé Apple TV.
 
 [Číst původní článek](http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/)
 

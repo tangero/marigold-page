@@ -3,8 +3,8 @@ category: počítačová technika
 companies:
 - Apple
 date: '2025-10-14 19:20:00'
-description: Nový MacBook Pro je "brzy k dispozici", podle příspěvku na sociálních
-  médiích od Grega "Joz" Joswiak z úterý.
+description: Nový MacBook Pro "brzy přijde," podle příspěvku na sociálních médiích
+  od Grega "Joz" Joswiaká v úterý.
 importance: 4
 layout: tech_news_article
 original_title: New powerful M5 MacBook Pro teased by Greg Joswiak - AppleInsider
@@ -21,7 +21,7 @@ url: https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teas
 urlToImage: https://photos5.appleinsider.com/gallery/65407-136815-img_2983-xl.jpg
 ---
 
-Nový MacBook Pro je "brzy k dispozici", podle příspěvku na sociálních médiích od Grega "Joz" Joswiak z úterý.
+Nový MacBook Pro "brzy přijde," podle příspěvku na sociálních médiích od Grega "Joz" Joswiaká v úterý.
 
 [Číst původní článek](https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak)
 

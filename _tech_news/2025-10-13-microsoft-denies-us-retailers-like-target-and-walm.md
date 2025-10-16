@@ -18,8 +18,8 @@ source:
   emoji: 📰
   id: null
   name: GamesIndustry.biz
-title: Společnost Microsoft popírá, že by americké maloobchodní řetězce jako Target
-  a Walmart odstranily produkty Xbox z prodejen
+title: Společnost Microsoft popírá, že by maloobchodníci v USA jako Target a Walmart
+  odstranili produkty Xbox ze svých prodejen
 url: https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores
 urlToImage: https://assetsio.gnwcdn.com/Xbox-Series-X%7CS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

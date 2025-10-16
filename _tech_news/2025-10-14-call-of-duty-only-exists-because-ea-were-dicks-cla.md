@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Eurogamer.net
-title: Battlefield vedoucí Vince Zampella tvrdí, že Call of Duty existuje pouze proto,
-  že "EA byli parchanti
+title: Vznik Call of Duty je podle tvrzení vedoucího Battlefieldu Vince Zampelly způsoben
+  tím, že "EA byli parchanti
 url: https://www.eurogamer.net/call-of-duty-only-exists-because-ea-were-dicks-claims-battlefield-lead-vince-zampella
 urlToImage: https://assetsio.gnwcdn.com/battlefield-6-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-14 17:24:21'
-description: Helldivers hiatus, budoucnost Sucker Punch a další odchody zkušených
+description: Helldivers hiatus, budoucnost Sucker Punch a další odchody veteránních
   vývojářů
 importance: 3
 layout: tech_news_article
@@ -18,7 +18,7 @@ url: https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-per
 urlToImage: https://kotaku.com/app/uploads/2025/10/borderlands-4-photo-1-1200x675.jpg
 ---
 
-Helldivers hiatus, budoucnost Sucker Punch a další odchody zkušených vývojářů
+Helldivers hiatus, budoucnost Sucker Punch a další odchody veteránních vývojářů
 
 [Číst původní článek](https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-performance-2000635349)
 
