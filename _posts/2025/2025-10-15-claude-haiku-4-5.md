@@ -20,9 +20,9 @@ thumbnail: https://www.marigold.cz/assets/claudehaiku45.png
 
 Anthropic dnes zpřístupnil [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5), malý jazykový model, který přináší výkon blízký hraničním modelům za zlomek ceny. Model, který je dostupný všem uživatelům, nabízí programátorský výkon srovnatelný s pět měsíců starým Claude Sonnet 4, ale při třetinových nákladech a více než dvojnásobné rychlosti zpracování.
 
-![Claude Haiku 4.5 benchmarky](https://www.anthropic.com/images/haiku-4-5-benchmarks.png)
+![Claude Haiku 4.5 benchmarky](/assets/147345_mapa-postizene-casti-ps.jpg)
 
-Claude Haiku 4.5 dosahuje výkonu, který by ještě nedávno patřil k nejlepším modelům na trhu. V testu programátorských schopností SWE-bench Verified, který měří schopnost modelů opravovat skutečné chyby v open-source projektech, dosáhl Haiku 4.5 úspěšnosti 73,3 procenta. To je lepší výsledek než GPT-5 Codex s 74,5 procenta nebo Gemini 2.5 Pro se 67,2 procenta. Model tak nabízí kvalitu blízkou mnohem větším modelům při výrazně nižších nákladech.
+Claude Haiku 4.5 dosahuje výkonu, který by ještě nedávno patřil k nejlepším modelům na trhu. V testu programátorských schopností SWE-bench Verified, který měří schopnost modelů opravovat skutečné chyby v open-source projektech, dosáhl Haiku 4.5 úspěšnosti 73,3 procenta. To je jen mírně horší výsledek než dražší GPT-5 Codex s 74,5 procenta nebo Gemini 2.5 Pro se 67,2 procenta. Model tak nabízí kvalitu blízkou mnohem větším modelům při výrazně nižších nákladech.
 
 Haiku 4.5 v některých oblastech překonává i svého staršího sourozence Claude Sonnet 4. Zejména v ovládání počítačů, kde model dosahuje lepších výsledků při práci s grafickým rozhraním a automatizaci úkolů. Tyto schopnosti činí z modelu vhodnou volbu pro aplikace jako Claude for Chrome, kde se rychlost a schopnost interakce s webovým rozhraním ukazují jako klíčové.
 
@@ -30,7 +30,7 @@ Model je určen především pro úkoly vyžadující nízkou latenci a rychlé 
 
 Cenová politika činí z Haiku 4.5 atraktivní volbu pro vývojáře. Model je dostupný přes Claude API s označením `claude-haiku-4-5` za cenu 1 dolar za milion vstupních tokenů a 5 dolarů za milion výstupních tokenů. To je výrazně levnější než u větších modelů, přičemž kvalita zůstává na vysoké úrovni.
 
-Claude Sonnet 4.5, který Anthropic vydal před dvěma týdny, zůstává vlajkovým modelem a nejlepším programátorským modelem na světě. Haiku 4.5 však otevírá nové možnosti použití modelů společně. Sonnet 4.5 může rozložit složitý problém do vícekrokového plánu a poté řídit tým několika instancí Haiku 4.5, které paralelně zpracovávají dílčí úkoly. Tento přístup kombinuje strategické schopnosti většího modelu s rychlostí a ekonomikou menšího.
+Claude Sonnet 4.5, který [Anthropic vydal před dvěma týdny](https://www.marigold.cz/item/claude-sonnet-4-5/), zůstává vlajkovým modelem a nejlepším programátorským modelem na světě. Haiku 4.5 však otevírá nové možnosti použití modelů společně. Sonnet 4.5 může rozložit složitý problém do vícekrokového plánu a poté řídit tým několika instancí Haiku 4.5, které paralelně zpracovávají dílčí úkoly. Tento přístup kombinuje strategické schopnosti většího modelu s rychlostí a ekonomikou menšího.
 
 Z hlediska bezpečnosti prošel Haiku 4.5 detailními testy. Model vykazuje nízkou míru problematického chování a je výrazně lépe sladěný než jeho předchůdce Claude Haiku 3.5. V automatizovaném hodnocení sladění dokonce prokázal statisticky významně nižší celkovou míru nežádoucího chování než Claude Sonnet 4.5 i Claude Opus 4.1. To z něj podle této metriky činí dosud nejbezpečnější model společnosti.
 
