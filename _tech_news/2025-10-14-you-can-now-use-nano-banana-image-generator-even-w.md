@@ -3,8 +3,8 @@ category: generátor obrázků
 companies:
 - Google
 date: '2025-10-14 10:02:40'
-description: Google's oblíbený generátor obrazu, Nano Banana, se dostává do dalších
-  Google aplikací, včetně Lens, Search a NotebookLM.
+description: Google's oblíbený generátor obrázků, Nano Banana, se začíná objevovat
+  v dalších Google aplikacích, včetně Lens, Search a NotebookLM.
 importance: 3
 layout: tech_news_article
 original_title: You can now use Nano Banana image generator even without Gemini, here's
@@ -20,7 +20,7 @@ url: https://www.androidauthority.com/google-nano-banana-search-lens-notebooklm-
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/09/Gemini-Nano-Banana.jpg
 ---
 
-Google's oblíbený generátor obrazu, Nano Banana, se dostává do dalších Google aplikací, včetně Lens, Search a NotebookLM.
+Google's oblíbený generátor obrázků, Nano Banana, se začíná objevovat v dalších Google aplikacích, včetně Lens, Search a NotebookLM.
 
 [Číst původní článek](https://www.androidauthority.com/google-nano-banana-search-lens-notebooklm-3606901/)
 

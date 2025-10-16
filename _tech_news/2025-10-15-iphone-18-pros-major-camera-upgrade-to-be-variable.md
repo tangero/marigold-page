@@ -4,7 +4,9 @@ companies:
 - Apple
 date: '2025-10-15 10:30:38'
 description: Modely iPhone 18 Pro od Applu budou mít výrazně vylepšenou zadní kameru
-  s variabilní clonou, uvádí zpráva z ETNews. Korejský zdroj informuje, že...
+  s proměnlivou clonou, uvádí zpráva ETNews. Korejský zdroj informací také uvádí,
+  že nové iPhony budou mít vylepšené optické stabilizace obrazu a další pokročilé
+  fotografické funkce.
 importance: 5
 layout: tech_news_article
 original_title: iPhone 18 Pro's Major Camera Upgrade to Be Variable Aperture - MacRumors
@@ -14,12 +16,12 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Hlavní upgrade fotoaparátu iPhonu 18 Pro bude proměnlivá clona
+title: Hlavní vylepšení fotoaparátu iPhonu 18 Pro bude proměnlivá clona
 url: https://www.macrumors.com/2025/10/15/iphone-18-pros-major-camera-upgrade/
 urlToImage: https://images.macrumors.com/t/P6o_sCTViql2FdQGH-vv-sg5FGU=/2000x/article-new/2025/09/iphone-17-cameras-zoom.jpg
 ---
 
-Modely iPhone 18 Pro od Applu budou mít výrazně vylepšenou zadní kameru s variabilní clonou, uvádí zpráva z ETNews. Korejský zdroj informuje, že...
+Modely iPhone 18 Pro od Applu budou mít výrazně vylepšenou zadní kameru s proměnlivou clonou, uvádí zpráva ETNews. Korejský zdroj informací také uvádí, že nové iPhony budou mít vylepšené optické stabilizace obrazu a další pokročilé fotografické funkce.
 
 [Číst původní článek](https://www.macrumors.com/2025/10/15/iphone-18-pros-major-camera-upgrade/)
 

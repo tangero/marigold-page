@@ -1,7 +1,7 @@
 ---
 category: herní hardware
 date: '2025-10-15 13:00:23'
-description: První přenosný "Xbox" se nezdařil sjednotit chaotický svět soupeřících
+description: První přenosná "Xbox" nepodařilo sjednotit chaotický svět soupeřících
   PC herních platforem.
 importance: 4
 layout: tech_news_article
@@ -17,7 +17,7 @@ url: https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-rev
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/rogpromo-1152x648-1760476814.jpg
 ---
 
-První přenosný "Xbox" se nezdařil sjednotit chaotický svět soupeřících PC herních platforem.
+První přenosná "Xbox" nepodařilo sjednotit chaotický svět soupeřících PC herních platforem.
 
 [Číst původní článek](https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/)
 

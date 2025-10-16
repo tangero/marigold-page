@@ -1,7 +1,7 @@
 ---
 category: mobilní hry
 date: '2025-10-14 14:27:56'
-description: Kapesní verze Pokémon TCG se blíží ke svému prvnímu výročí a k oslavě
+description: Kapesní verze Pokémon TCG se blíží ke svému prvnímu výročí a pro oslavu
   jsou na cestě nové aktualizace, které usnadní dokončení vaší sbírky.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://www.eurogamer.net/pokemon-tcg-pocket-updates-will-soon-make-complet
 urlToImage: https://assetsio.gnwcdn.com/Pok%C3%A9mon-TCG-Pocket-_-Deluxe-Pack-ex-%E2%9C%A8-0-21-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Kapesní verze Pokémon TCG se blíží ke svému prvnímu výročí a k oslavě jsou na cestě nové aktualizace, které usnadní dokončení vaší sbírky.
+Kapesní verze Pokémon TCG se blíží ke svému prvnímu výročí a pro oslavu jsou na cestě nové aktualizace, které usnadní dokončení vaší sbírky.
 
 [Číst původní článek](https://www.eurogamer.net/pokemon-tcg-pocket-updates-will-soon-make-completing-your-collection-easier-as-mobile-game-approaches-first-anniversary)
 

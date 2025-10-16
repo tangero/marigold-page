@@ -1,7 +1,7 @@
 ---
 category: kybernetická bezpečn
 date: '2025-10-14 11:18:00'
-description: Pixnapping side-channel může krást 2FA kódy pixel po pixelu na Androidu
+description: Pixnapping, bočním kanálem, může ukrást 2FA kódy pixel po pixelu na Androidu
   13–16; CVE-2025-48561 byl opraven v září 2025, ale existuje obejití.
 importance: 4
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.ht
 urlToImage: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bfM1yEcw7WZjx2RKEktuieKPwlv2Gh_rraTzrK0iBYOD-OM6VBRfDT-oHF_gTv5ymkrZP7lkdsvLIJnSK_btwdFQttvQvCcBkVXZpD69epbk6n3sxOPbnCTOfQque59TqfdRrRdN4F_MCrIw5TR_r5kqWHjLm-_oL1Kd05Y6CEz-H61ebIZvXJAB1kzG/s790-rw-e365/android-opt.jpg
 ---
 
-Pixnapping side-channel může krást 2FA kódy pixel po pixelu na Androidu 13–16; CVE-2025-48561 byl opraven v září 2025, ale existuje obejití.
+Pixnapping, bočním kanálem, může ukrást 2FA kódy pixel po pixelu na Androidu 13–16; CVE-2025-48561 byl opraven v září 2025, ale existuje obejití.
 
 [Číst původní článek](https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html)
 
