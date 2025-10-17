@@ -2,9 +2,11 @@ name: Generate Podcast
 
 on:
   push:
+    branches:
+      - main
     paths:
       - '_posts/**.md'
-  
+
   workflow_dispatch:  # Toto umožní manuální spuštění
 
 jobs:

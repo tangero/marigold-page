@@ -124,11 +124,37 @@ def send_onesignal_notification(title, message):
         return False
 
 
+def check_git_changes():
+    """Check if changes are from _posts directory."""
+    try:
+        # Get the last commit's changed files
+        result = os.popen('git diff --name-only HEAD~1 HEAD 2>/dev/null || git diff --name-only --cached 2>/dev/null').read()
+        changed_files = result.strip().split('\n') if result.strip() else []
+
+        # Filter for _posts files
+        posts_changes = [f for f in changed_files if f.startswith('_posts/')]
+
+        if not posts_changes:
+            print("⚠️  No changes in _posts/ directory detected")
+            return False
+
+        return True
+    except Exception as e:
+        print(f"⚠️  Could not check git changes: {e}")
+        # Fallback - allow notification if we can't check
+        return True
+
+
 def main():
     """Main function."""
     print("🔔 OneSignal Notification Sender")
     print(f"⏰ Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("-" * 50)
+
+    # Check if this is from _posts directory
+    if not check_git_changes():
+        print("⚠️  Skipping notification - not a post change")
+        return 0
 
     # Get latest post
     latest_post = get_latest_post()
