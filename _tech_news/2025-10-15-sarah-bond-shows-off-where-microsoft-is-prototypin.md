@@ -16,8 +16,8 @@ source:
   emoji: 📰
   id: null
   name: Pure Xbox
-title: Jak Sarah Bond ukazuje, kde Microsoft 'vytváří prototypy pro příští generaci
-  Xbox' - Pure Xbox
+title: Kde společnost Microsoft 'prototypuje pro příští generaci Xboxu' - Sarah Bond
+  ukazuje - Pure Xbox
 url: https://www.purexbox.com/news/2025/10/sarah-bond-shows-off-where-microsoft-is-prototyping-for-the-next-generation-of-xbox
 urlToImage: https://images.purexbox.com/61dfe9e731608/large.jpg
 ---

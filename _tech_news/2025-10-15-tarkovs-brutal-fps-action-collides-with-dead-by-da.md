@@ -1,5 +1,5 @@
 ---
-category: herní průmysl
+category: extrakční střílečka
 date: '2025-10-15 03:00:54'
 description: Pravidla nasazení The Grey State je nadcházející extrakční střílečka,
   která přináší legie slavných hororových monster do děsivých PvPvE zápasů.

@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-15 17:39:02'
-description: Rozumím. Nebudete již chtít komunikovat se SpudBoim nebo NoCapShroomem.
+description: Nechtěl bych už nikdy slyšet od SpudBoi nebo NoCapShroom, děkuji.
 importance: 4
 layout: tech_news_article
 original_title: New PvZ Replanted Trailer Is Very Cringey And Not Good - Kotaku
@@ -11,12 +11,12 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: Nový trailer Replanted pro PvZ je velmi trapný a špatný
+title: Nový trailer hry Replanted je velmi trapný a špatný
 url: https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689
 urlToImage: https://kotaku.com/app/uploads/2025/10/pvsszzz-1200x675.jpg
 ---
 
-Rozumím. Nebudete již chtít komunikovat se SpudBoim nebo NoCapShroomem.
+Nechtěl bych už nikdy slyšet od SpudBoi nebo NoCapShroom, děkuji.
 
 [Číst původní článek](https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689)
 

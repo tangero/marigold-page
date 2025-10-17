@@ -3,8 +3,8 @@ category: umělá inteligence
 companies:
 - OpenAI
 date: '2025-10-15 13:52:34'
-description: OpenAI's CEO odvážně přežvýkal postavy hlavních studií, aby umožnil video
-  aplikaci Sora 2 vyplivovat klipy ušité na míru uživatelům. Insideři v hlavních agenturách
+description: OpenAI's CEO odvážně zopakoval postavy velkých studií, aby umožnil video
+  aplikaci Sora 2 vyplivovat klipy šité na míru uživatelům. Insideři z velkých agentur
   jsou znepokojeni - a někteří se ptají, zda studia nedělají dost.
 importance: 5
 layout: tech_news_article
@@ -18,12 +18,12 @@ source:
   emoji: 📰
   id: null
   name: Hollywood Reporter
-title: Jak Sam Altman využil OpenAI's Sora 2 v Hollywoodu
+title: Jak Sam Altman hrál v Hollywoodu s OpenAI's Sora 2
 url: http://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/
 urlToImage: https://www.hollywoodreporter.com/wp-content/uploads/2025/10/28rep_opener.jpg?w=1440&h=810&crop=1
 ---
 
-OpenAI's CEO odvážně přežvýkal postavy hlavních studií, aby umožnil video aplikaci Sora 2 vyplivovat klipy ušité na míru uživatelům. Insideři v hlavních agenturách jsou znepokojeni - a někteří se ptají, zda studia nedělají dost.
+OpenAI's CEO odvážně zopakoval postavy velkých studií, aby umožnil video aplikaci Sora 2 vyplivovat klipy šité na míru uživatelům. Insideři z velkých agentur jsou znepokojeni - a někteří se ptají, zda studia nedělají dost.
 
 [Číst původní článek](http://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/)
 
