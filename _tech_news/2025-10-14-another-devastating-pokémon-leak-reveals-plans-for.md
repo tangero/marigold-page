@@ -14,7 +14,7 @@ source:
   id: null
   name: Eurogamer.net
 title: Další ničivý únik informací o Pokémonu odhaluje plány pro budoucí hry, ale
-  jsou to údajné rozpočty na vývoj, které nechaly hráče ohromené
+  jsou to údajné rozpočty na vývoj, které zanechaly hráče v šoku
 url: https://www.eurogamer.net/another-devastating-pokemon-leak-reveals-plans-for-future-games-but-its-the-reported-development-budgets-that-have-left-players-stunned
 urlToImage: https://assetsio.gnwcdn.com/pokemon-leek.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---

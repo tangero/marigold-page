@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Přidávání přezdívek pro platební karty v Google Wallet na Androidu
+title: Přidávání přezdívek pro platební karty v Google Wallet pro Android
 url: http://9to5google.com/2025/10/14/google-wallet-nickname-passes/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

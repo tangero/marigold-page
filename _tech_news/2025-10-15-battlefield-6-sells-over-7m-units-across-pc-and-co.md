@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-15 12:51:27'
-description: Data sdílená exkluzivně s GamesIndustry.biz také odhaluje, že Steam vede
+description: Data sdílená výhradně s GamesIndustry.biz také odhaluje, že Steam vede
   v počtu hráčů s 55% podílem.
 importance: 3
 layout: tech_news_article
@@ -18,7 +18,7 @@ url: https://www.gamesindustry.biz/battlefield-6-sells-over-7m-units-across-pc-a
 urlToImage: https://assetsio.gnwcdn.com/battlefield.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Data sdílená exkluzivně s GamesIndustry.biz také odhaluje, že Steam vede v počtu hráčů s 55% podílem.
+Data sdílená výhradně s GamesIndustry.biz také odhaluje, že Steam vede v počtu hráčů s 55% podílem.
 
 [Číst původní článek](https://www.gamesindustry.biz/battlefield-6-sells-over-7m-units-across-pc-and-console-in-five-days)
 

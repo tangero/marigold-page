@@ -1,9 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-15 16:29:58'
-description: Halloween sezóna je plně v plném proudu a v nově představeném říjnovém
-  vydání Sony najdeme spoustu strašidelnosti. Toto vydání obsahuje řadu nových her
-  a aktualizací, které jistě zaujmou hráče.
+description: Halloween sezóna je tu plnou měrou a v nově představeném říjnovém vydání
+  Sony najdeme spoustu strašidelnosti. Toto vydání obsahuje řadu hororových a napínavých
+  titulů, které jistě potěší všechny fanoušky žánru.
 importance: 4
 layout: tech_news_article
 original_title: Here are our PS Plus Extra and Premium games for October - Eurogamer
@@ -18,7 +18,7 @@ url: https://www.eurogamer.net/here-are-our-ps-plus-extra-and-premium-games-for-
 urlToImage: https://assetsio.gnwcdn.com/playstation-plus-premium-extra-october-25.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Halloween sezóna je plně v plném proudu a v nově představeném říjnovém vydání Sony najdeme spoustu strašidelnosti. Toto vydání obsahuje řadu nových her a aktualizací, které jistě zaujmou hráče.
+Halloween sezóna je tu plnou měrou a v nově představeném říjnovém vydání Sony najdeme spoustu strašidelnosti. Toto vydání obsahuje řadu hororových a napínavých titulů, které jistě potěší všechny fanoušky žánru.
 
 [Číst původní článek](https://www.eurogamer.net/here-are-our-ps-plus-extra-and-premium-games-for-october)
 

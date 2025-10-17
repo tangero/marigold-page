@@ -3,7 +3,7 @@ category: plánování schůzek
 companies:
 - Google
 date: '2025-10-14 18:24:53'
-description: Help Me Schedule vytváří widget pro plánování schůzek na základě kontextu
+description: Help Me Schedule vytváří widget pro plánování schůzky na základě kontextu
   vaší zprávy.
 importance: 3
 layout: tech_news_article
@@ -19,7 +19,7 @@ url: https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meeting
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg
 ---
 
-Help Me Schedule vytváří widget pro plánování schůzek na základě kontextu vaší zprávy.
+Help Me Schedule vytváří widget pro plánování schůzky na základě kontextu vaší zprávy.
 
 [Číst původní článek](https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/)
 

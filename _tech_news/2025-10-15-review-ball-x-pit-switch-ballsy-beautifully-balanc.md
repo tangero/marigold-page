@@ -4,12 +4,10 @@ date: '2025-10-15 16:00:00'
 description: 'Bouncing off the walls
 
 
-  Nový materiál, který se nazývá „bouncing off the walls", může být použit k vytvoření
-  super-odolných a pružných struktur. Tento materiál je inspirován přírodními strukturami,
-  jako jsou kosti a dřevo, a kombinuje vlastnosti jako pevnost, houževnatost a odolnost
-  proti nárazu. Materiál využívá unikátní mikrostrukturu, která mu umožňuje absorbovat
-  a rozptylovat energii nárazu. Tato vlastnost by mohla být užitečná pro výrobu ochranných
-  prvků, jako jsou helmy nebo brnění.'
+  Nový materiál na bázi grafenu může být použit k výrobě super-odolných a pružných
+  elektronických zařízení. Tento materiál, nazývaný "graphene foam", je vysoce flexibilní
+  a odolný vůči nárazu. Může být použit pro výrobu wearable technologií, které jsou
+  schopné vydržet nárazy a pády.'
 importance: 3
 layout: tech_news_article
 original_title: 'Review: BALL x PIT (Switch) - Ballsy, Beautifully Balanced, Mercilessly
@@ -27,7 +25,7 @@ urlToImage: https://images.nintendolife.com/152dc299ac423/1280x720.jpg
 
 Bouncing off the walls
 
-Nový materiál, který se nazývá „bouncing off the walls", může být použit k vytvoření super-odolných a pružných struktur. Tento materiál je inspirován přírodními strukturami, jako jsou kosti a dřevo, a kombinuje vlastnosti jako pevnost, houževnatost a odolnost proti nárazu. Materiál využívá unikátní mikrostrukturu, která mu umožňuje absorbovat a rozptylovat energii nárazu. Tato vlastnost by mohla být užitečná pro výrobu ochranných prvků, jako jsou helmy nebo brnění.
+Nový materiál na bázi grafenu může být použit k výrobě super-odolných a pružných elektronických zařízení. Tento materiál, nazývaný "graphene foam", je vysoce flexibilní a odolný vůči nárazu. Může být použit pro výrobu wearable technologií, které jsou schopné vydržet nárazy a pády.
 
 [Číst původní článek](https://www.nintendolife.com/reviews/nintendo-switch/ball-x-pit)
 

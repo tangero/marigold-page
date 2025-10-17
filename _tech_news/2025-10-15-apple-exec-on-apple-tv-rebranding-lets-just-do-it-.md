@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: 'Vedoucí pracovník Applu o přejmenování Apple TV: ''prostě to udělejme'
+title: 'Vedoucí pracovník Applu o přejmenování Apple TV: ''Prostě to udělejme'
 url: https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

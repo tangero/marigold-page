@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Společnost Samsung oficiálně naznačuje uvedení headsetu Moohan příští týden
+title: Společnost Samsung oficiálně naznačuje představení headsetu Moohan příští týden
 url: https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/image002.jpg?quality=90&strip=all&crop=0%2C3.4846106844621%2C100%2C93.030778631076&w=1200
 ---
