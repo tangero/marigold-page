@@ -1,22 +1,35 @@
 ---
+audio: true
+audio_generated: '2025-10-17T10:10:35.405316'
+audio_url: https://www.marigold.cz/audio/2025-10-17-obce-sedi-na-miliardach-proc.mp3
 author: Patrick Zandl
 categories:
 - obce
 - politika
 - ekonomika
 layout: post
-post_excerpt: "Ministerští úředníci cítí po volbách příležitost, jak si vyšlápnout na obce. Obce totiž prý sedí na miliardách, které si stát musí půjčovat. Jenže... proč na nich ty obce sedí a neinvestují? Pojďme se na to podívat podrobněji, než zase rozhasíme něco, co funguje z posledního zbytku sil."
+post_excerpt: Ministerští úředníci cítí po volbách příležitost, jak si vyšlápnout
+  na obce. Obce totiž prý sedí na miliardách, které si stát musí půjčovat. Jenže...
+  proč na nich ty obce sedí a neinvestují? Pojďme se na to podívat podrobněji, než
+  zase rozhasíme něco, co funguje z posledního zbytku sil.
 summary_points:
-- Obce mají na účtech přes 560 miliard Kč, peníze ale drží kvůli náročnému investičnímu prostředí a nejistému plánování velkých projektů.
-- Pravidla rozpočtové odpovědnosti svazují obcím ruce. Půjčit si mohou jen omezeně, často proto musí dlouho šetřit.
-- Malé obce mají nižší finanční vzdělanost a méně možností, proto spoří více, ale hůře investují, zatímco velké drží rezervy kvůli připravenosti na rozsáhlé akce jako je metro v Praze.
-- Nedostatečné investice a škrty ve výdajích povedou k chátrání obecního majetku a poklesu kvality služeb pro obyvatele.
-- Jako řešení se nabízí úprava pravidel zadlužování, víceleté plánování, půjčování jen na investice, posílení kapacit malých obcí a vytvoření nových nástrojů (např. investiční banky).
-- Restrukturalizace malých obcí a změny v řízení stavebních projektů jsou nezbytné pro efektivnější investice do veřejné infrastruktury.
-title: Obce mají přestat sedět na miliardách. A proč na nich sedí, páni novináři a úředníci?
-audio: true
+- Obce mají na účtech přes 560 miliard Kč, peníze ale drží kvůli náročnému investičnímu
+  prostředí a nejistému plánování velkých projektů.
+- Pravidla rozpočtové odpovědnosti svazují obcím ruce. Půjčit si mohou jen omezeně,
+  často proto musí dlouho šetřit.
+- Malé obce mají nižší finanční vzdělanost a méně možností, proto spoří více, ale
+  hůře investují, zatímco velké drží rezervy kvůli připravenosti na rozsáhlé akce
+  jako je metro v Praze.
+- Nedostatečné investice a škrty ve výdajích povedou k chátrání obecního majetku a
+  poklesu kvality služeb pro obyvatele.
+- Jako řešení se nabízí úprava pravidel zadlužování, víceleté plánování, půjčování
+  jen na investice, posílení kapacit malých obcí a vytvoření nových nástrojů (např.
+  investiční banky).
+- Restrukturalizace malých obcí a změny v řízení stavebních projektů jsou nezbytné
+  pro efektivnější investice do veřejné infrastruktury.
+title: Obce mají přestat sedět na miliardách. A proč na nich sedí, páni novináři a
+  úředníci?
 ---
-
 📰 Hospodářské noviny vydaly článek nazvaný ["Obce sedí na miliardách, stát se zadlužuje. Je nutné změnit rozdělení daní, naléhá ministerstvo"](https://archiv.hn.cz/c1-67801820-obce-sedi-na-miliardach-stat-se-zadluzuje-je-nutne-zmenit-rozdeleni-dani-naleha-ministerstvo) - placený článek. Článek zjevně vyšel na popud ministerských aktivit a až v závěru se mírně zohledňují i jiné pohledy, než ministerských úředníků. Takže než začneme prskat podobně jako státní úředníci na to, že obce šetří, pojďme si situaci usadit do kontextu. Protože tahle situace ohrožuje nás všechny. Obce totiž ještě zatím fungují, zatímco státní správa pomalu kolabuje. To nemusí vydržet dlouho...
 
 💰 Ano, je pravda, že obce mají na účtech přes 560 miliard Kč, zatímco stát si půjčuje peníze na to, aby je obcím vyplácel. Jenže ministerští úředníci promáchli při hledání důvodu. A tím je úvěrová přiměřenost a způsob, jakým se dnes investují větší investiční celky v obcích.
