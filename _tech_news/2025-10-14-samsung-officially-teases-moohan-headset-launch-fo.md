@@ -4,7 +4,7 @@ companies:
 - Samsung
 date: '2025-10-14 23:00:51'
 description: Samsung konečně odhalí více podrobností o svém smíšeném reality headsetu
-  Project Moohan na nové akci "Worlds Wide Open" Galaxy 21. října.
+  Project Moohan na nové akci "Worlds Wide Open" Galaxy, která se bude konat 21. října.
 importance: 4
 layout: tech_news_article
 original_title: Samsung officially teases Moohan headset launch for next week - The
@@ -20,7 +20,7 @@ url: https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-an
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/image002.jpg?quality=90&strip=all&crop=0%2C3.4846106844621%2C100%2C93.030778631076&w=1200
 ---
 
-Samsung konečně odhalí více podrobností o svém smíšeném reality headsetu Project Moohan na nové akci "Worlds Wide Open" Galaxy 21. října.
+Samsung konečně odhalí více podrobností o svém smíšeném reality headsetu Project Moohan na nové akci "Worlds Wide Open" Galaxy, která se bude konat 21. října.
 
 [Číst původní článek](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open)
 

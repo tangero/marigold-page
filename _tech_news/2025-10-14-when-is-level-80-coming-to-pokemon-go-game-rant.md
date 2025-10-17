@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: GameRant
-title: Kdy přijde úroveň 80 do Pokemon GO?
+title: Kdy přijde úroveň 80 do Pokémon GO?
 url: https://gamerant.com/when-is-level-80-coming-to-pokemon-go/
 ---
 

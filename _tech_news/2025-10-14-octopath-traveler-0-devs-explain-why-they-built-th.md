@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-14 13:00:24'
-description: Vývojáři Octopath Traveler 0 hovoří pro Inverse o tom, jak se RPG rychle
-  stalo mnohem víc než jen jednoduchým remakerem mobilní hry.
+description: Vývojáři hry Octopath Traveler 0 hovoří pro Inverse o tom, jak se RPG
+  rychle stalo mnohem víc než pouhým remasterem mobilní hry.
 importance: 3
 layout: tech_news_article
 original_title: '''Octopath Traveler 0’ Devs Explain Why They Built The Latest RPG
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Inverse
-title: Tvůrci 'Octopath Traveler 0' vysvětlují, proč vytvořili nejnovější RPG remake
+title: Vývojáři 'Octopath Traveler 0' vysvětlují, proč nejnovější RPG remake postavili
   'od základů
 url: https://www.inverse.com/gaming/octopath-traveler-0-interview
 urlToImage: https://imgix.bustle.com/uploads/image/2025/10/13/fc8d5281/octopath0header.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.8497&fp-y=0.3187
 ---
 
-Vývojáři Octopath Traveler 0 hovoří pro Inverse o tom, jak se RPG rychle stalo mnohem víc než jen jednoduchým remakerem mobilní hry.
+Vývojáři hry Octopath Traveler 0 hovoří pro Inverse o tom, jak se RPG rychle stalo mnohem víc než pouhým remasterem mobilní hry.
 
 [Číst původní článek](https://www.inverse.com/gaming/octopath-traveler-0-interview)
 

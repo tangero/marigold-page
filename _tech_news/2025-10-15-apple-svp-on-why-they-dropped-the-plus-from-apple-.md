@@ -1,27 +1,29 @@
 ---
-category: mediální technologie
+category: streamovací služby
 companies:
 - Apple
 date: '2025-10-15 00:30:00'
-description: ''
+description: Eddy Cue, Senior Vice President of Services v Applu, poskytuje vhled
+  do přejmenování Apple TV+ na pouhé Apple TV.
 importance: 3
 layout: tech_news_article
 original_title: Apple SVP On Why They Dropped The "Plus" From Apple TV & Hints At
   Subscriber Numbers - Deadline
 people:
-- Tim Cook
+- Eddy Cue
 publishedAt: '2025-10-15T00:30:00+00:00'
 slug: apple-svp-on-why-they-dropped-the-plus-from-apple-
 source:
   emoji: 📰
-  id: google-news
-  name: Google News
-title: Proč Apple upustil od "Plus" v názvu Apple TV a náznaky počtu předplatitelů
-url: https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDJyOUVSeVpIY2tlUVJSTUdUcEZiMGpNVml6bjV6MG0wNUQyUkh4bVRHYUFvd0laTmdTTWt5SC1vV0I5Skt4VHFoRGFJX1B4dEw1RHpVSzlQWm9DTFRQelhGU3R2TXRPNUl4YmF4Vzk4NVRpSUJkZldicnFlbENxQzZpVWVnV0QyOHc?oc=5
+  id: null
+  name: Deadline
+title: Proč Apple vypustil "Plus" z Apple TV a náznaky počtu předplatitelů - Deadline
+url: http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/
+urlToImage: https://deadline.com/wp-content/uploads/2025/10/apple-tv-logo.jpg?w=1024
 ---
 
+Eddy Cue, Senior Vice President of Services v Applu, poskytuje vhled do přejmenování Apple TV+ na pouhé Apple TV.
 
+[Číst původní článek](http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/)
 
-[Číst původní článek](https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDJyOUVSeVpIY2tlUVJSTUdUcEZiMGpNVml6bjV6MG0wNUQyUkh4bVRHYUFvd0laTmdTTWt5SC1vV0I5Skt4VHFoRGFJX1B4dEw1RHpVSzlQWm9DTFRQelhGU3R2TXRPNUl4YmF4Vzk4NVRpSUJkZldicnFlbENxQzZpVWVnV0QyOHc?oc=5)
-
-**Zdroj:** 📰 Google News
+**Zdroj:** 📰 Deadline
