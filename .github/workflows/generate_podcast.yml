@@ -30,3 +30,9 @@ jobs:
         ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python .github/scripts/podcast-automation-script.py
+
+    - name: Send OneSignal Notification
+      env:
+        ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
+        ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+      run: python .github/scripts/send_onesignal_notification.py

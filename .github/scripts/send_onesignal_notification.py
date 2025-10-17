@@ -1,0 +1,166 @@
+#!/usr/bin/env python3
+"""
+Send push notification via OneSignal API when a new post is published.
+"""
+
+import os
+import json
+import requests
+import sys
+from datetime import datetime
+from pathlib import Path
+
+
+def get_latest_post():
+    """Find the most recently modified post in _posts directory."""
+    posts_dir = Path("_posts")
+
+    if not posts_dir.exists():
+        print("❌ _posts directory not found")
+        return None
+
+    # Get all markdown files
+    posts = sorted(posts_dir.glob("*.md"), key=lambda p: p.stat().st_mtime, reverse=True)
+
+    if not posts:
+        print("❌ No posts found in _posts")
+        return None
+
+    latest_post = posts[0]
+    return latest_post
+
+
+def extract_post_metadata(post_path):
+    """Extract title and summary from post frontmatter."""
+    try:
+        with open(post_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Parse front matter
+        if not content.startswith('---'):
+            print(f"❌ Invalid post format in {post_path}")
+            return None
+
+        # Split by --- to get frontmatter
+        parts = content.split('---', 2)
+        if len(parts) < 2:
+            print(f"❌ Could not parse frontmatter in {post_path}")
+            return None
+
+        frontmatter = parts[1]
+
+        # Extract title
+        title = None
+        summary = None
+
+        for line in frontmatter.split('\n'):
+            if line.startswith('title:'):
+                title = line.replace('title:', '').strip().strip('"\'')
+            elif line.startswith('summary:'):
+                summary = line.replace('summary:', '').strip().strip('"\'')
+
+        if not title:
+            # Fallback: use filename as title
+            title = post_path.stem.replace('-', ' ').title()
+
+        return {
+            'title': title,
+            'summary': summary or title,
+            'filename': post_path.name
+        }
+    except Exception as e:
+        print(f"❌ Error parsing post: {e}")
+        return None
+
+
+def send_onesignal_notification(title, message):
+    """Send notification via OneSignal REST API."""
+    api_key = os.getenv('ONESIGNAL_REST_API_KEY')
+    app_id = os.getenv('ONESIGNAL_APP_ID')
+
+    if not api_key or not app_id:
+        print("❌ Missing ONESIGNAL_REST_API_KEY or ONESIGNAL_APP_ID environment variables")
+        return False
+
+    # OneSignal API endpoint
+    url = "https://onesignal.com/api/v1/notifications"
+
+    headers = {
+        "Content-Type": "application/json; charset=utf-8",
+        "Authorization": f"Basic {api_key}"
+    }
+
+    # Notification payload
+    payload = {
+        "app_id": app_id,
+        "included_segments": ["All"],  # Send to all subscribed users
+        "headings": {"en": title},
+        "contents": {"en": message},
+        "big_picture": "",  # You can add featured image URL here
+        "chrome_web_icon": "",  # You can add icon URL here
+    }
+
+    try:
+        response = requests.post(url, json=payload, headers=headers, timeout=10)
+
+        if response.status_code in [200, 201]:
+            result = response.json()
+            notification_id = result.get('body', {}).get('id', 'unknown')
+            print(f"✅ Notification sent successfully! ID: {notification_id}")
+            return True
+        else:
+            print(f"❌ Failed to send notification. Status: {response.status_code}")
+            print(f"Response: {response.text}")
+            return False
+
+    except requests.exceptions.Timeout:
+        print("❌ Request timeout while sending notification")
+        return False
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Request error: {e}")
+        return False
+    except json.JSONDecodeError:
+        print("❌ Invalid JSON response from OneSignal API")
+        return False
+
+
+def main():
+    """Main function."""
+    print("🔔 OneSignal Notification Sender")
+    print(f"⏰ Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("-" * 50)
+
+    # Get latest post
+    latest_post = get_latest_post()
+    if not latest_post:
+        print("⚠️  No posts to notify about. Exiting.")
+        return 0
+
+    print(f"📝 Latest post: {latest_post.name}")
+
+    # Extract metadata
+    metadata = extract_post_metadata(latest_post)
+    if not metadata:
+        print("❌ Failed to extract post metadata")
+        return 1
+
+    print(f"📰 Title: {metadata['title']}")
+    print(f"📄 Summary: {metadata['summary']}")
+    print("-" * 50)
+
+    # Send notification
+    success = send_onesignal_notification(
+        title=f"Nový článek: {metadata['title']}",
+        message=metadata['summary']
+    )
+
+    if success:
+        print("✅ Process completed successfully")
+        return 0
+    else:
+        print("❌ Process failed")
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
