@@ -15,7 +15,7 @@ summary_points:
 - Skripty běží v sandboxovaném prostředí bez zatížení kontextového okna
 - Dovednosti lze sdílet mezi různými prostředími Claude včetně API a Claude Code
 - Alternativa k projektům pro jednodušší opakované úlohy s dynamickým načítáním
-title: Claude Skills: Nová cesta k specializovaným schopnostem umělé inteligence
+title: "Claude Skills: Nová cesta k specializovaným schopnostem AI"
 thumbnail: https://www.marigold.cz/assets/claude-skills.webp
 ---
 
