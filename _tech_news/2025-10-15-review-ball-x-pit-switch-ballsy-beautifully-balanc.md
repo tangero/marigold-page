@@ -3,12 +3,12 @@ category: herní průmysl
 date: '2025-10-15 16:00:00'
 description: 'Bouncing off the walls
 
-  Nová technologie využívá piezoelektrické materiály k vytvoření inteligentních stěn,
-  které mohou absorbovat nárazy a vibrace. Tyto stěny by mohly být použity v budovách,
-  aby snížily poškození způsobené zemětřesením nebo jinými silnými otřesy. Technologie
-  využívá piezoelektrický efekt, kde materiál generuje elektrický náboj v reakci na
-  mechanické napětí. Tento náboj může být použit k aktivaci tlumicích mechanismů,
-  které absorbují energii nárazu.'
+
+  Nová technologie využívá piezoelektrické materiály k přeměně kinetické energie z
+  nárazů na elektrickou energii. Tato metoda může být použita k napájení malých elektronických
+  zařízení, jako jsou senzory nebo LED diody, které jsou umístěny na stěnách nebo
+  jiných površích. Piezoelektrické materiály generují elektrický náboj při mechanickém
+  namáhání, což umožňuje přeměnu vibračních sil na využitelnou energii.'
 importance: 3
 layout: tech_news_article
 original_title: 'Review: BALL x PIT (Switch) - Ballsy, Beautifully Balanced, Mercilessly
@@ -19,13 +19,14 @@ source:
   emoji: 📰
   id: null
   name: Nintendo Life
-title: 'Recenze: BALL x PIT (Switch) - Míčovitý, krásně vyvážený, nemilosrdně návykový'
+title: 'Recenze: BALL x PIT (Switch) - Balancovaná, krásná a neúprosně návyková'
 url: https://www.nintendolife.com/reviews/nintendo-switch/ball-x-pit
 urlToImage: https://images.nintendolife.com/152dc299ac423/1280x720.jpg
 ---
 
 Bouncing off the walls
-Nová technologie využívá piezoelektrické materiály k vytvoření inteligentních stěn, které mohou absorbovat nárazy a vibrace. Tyto stěny by mohly být použity v budovách, aby snížily poškození způsobené zemětřesením nebo jinými silnými otřesy. Technologie využívá piezoelektrický efekt, kde materiál generuje elektrický náboj v reakci na mechanické napětí. Tento náboj může být použit k aktivaci tlumicích mechanismů, které absorbují energii nárazu.
+
+Nová technologie využívá piezoelektrické materiály k přeměně kinetické energie z nárazů na elektrickou energii. Tato metoda může být použita k napájení malých elektronických zařízení, jako jsou senzory nebo LED diody, které jsou umístěny na stěnách nebo jiných površích. Piezoelektrické materiály generují elektrický náboj při mechanickém namáhání, což umožňuje přeměnu vibračních sil na využitelnou energii.
 
 [Číst původní článek](https://www.nintendolife.com/reviews/nintendo-switch/ball-x-pit)
 

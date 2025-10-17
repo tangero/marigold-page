@@ -1,10 +1,10 @@
 ---
 category: herní průmysl
 date: '2025-10-15 17:14:30'
-description: 'Pokémon Legends: Z-A již začal být vydáván (alespoň v některých regionech)
+description: 'Pokémon Legends: Z-A začíná být vydáván (alespoň v některých regionech)
   a nyní, když je celá hra k dispozici, máme možnost podívat se na návrat Pokémonů
-  a jejich forem, stejně jako na Pokémony, kteří získají nové formy v nadcházejícím
-  DLC Mega Dimension. Tato informace pochází z nových dat...'
+  a jejich forem, stejně jako na Pokémony, kteří dostanou nové formy v nadcházejícím
+  DLC Mega Dimension. Toto zjištění pochází z nových dat...'
 importance: 4
 layout: tech_news_article
 original_title: 'Pokemon Legends: Z-A datamine reveals returning Pokemon and new Mega
@@ -21,7 +21,7 @@ url: https://nintendoeverything.com/pokemon-legends-z-a-datamine-reveals-returni
 urlToImage: https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-DLC-returning-Pokemon-new-Mega-Evolutions.jpg
 ---
 
-Pokémon Legends: Z-A již začal být vydáván (alespoň v některých regionech) a nyní, když je celá hra k dispozici, máme možnost podívat se na návrat Pokémonů a jejich forem, stejně jako na Pokémony, kteří získají nové formy v nadcházejícím DLC Mega Dimension. Tato informace pochází z nových dat...
+Pokémon Legends: Z-A začíná být vydáván (alespoň v některých regionech) a nyní, když je celá hra k dispozici, máme možnost podívat se na návrat Pokémonů a jejich forem, stejně jako na Pokémony, kteří dostanou nové formy v nadcházejícím DLC Mega Dimension. Toto zjištění pochází z nových dat...
 
 [Číst původní článek](https://nintendoeverything.com/pokemon-legends-z-a-datamine-reveals-returning-pokemon-and-new-mega-evolutions-for-dlc/)
 
