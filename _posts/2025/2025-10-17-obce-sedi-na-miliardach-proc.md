@@ -8,7 +8,7 @@ layout: post
 post_excerpt: "Ministerští úředníci cítí po volbách příležitost, jak si vyšlápnout na obce. Obce totiž prý sedí na miliardách, které si stát musí půjčovat. Jenže... proč na nich ty obce sedí a neinvestují? Pojďme se na to podívat podrobněji, než zase rozhasíme něco, co funguje z posledního zbytku sil."
 summary_points:
 - Obce mají na účtech přes 560 miliard Kč, peníze ale drží kvůli náročnému investičnímu prostředí a nejistému plánování velkých projektů.
-- Pravidla rozpočtové odpovědnosti svazují obcím ruce: půjčit si mohou jen omezeně, často proto musí dlouho šetřit.
+- Pravidla rozpočtové odpovědnosti svazují obcím ruce. Půjčit si mohou jen omezeně, často proto musí dlouho šetřit.
 - Malé obce mají nižší finanční vzdělanost a méně možností, proto spoří více, ale hůře investují, zatímco velké drží rezervy kvůli připravenosti na rozsáhlé akce jako je metro v Praze.
 - Nedostatečné investice a škrty ve výdajích povedou k chátrání obecního majetku a poklesu kvality služeb pro obyvatele.
 - Jako řešení se nabízí úprava pravidel zadlužování, víceleté plánování, půjčování jen na investice, posílení kapacit malých obcí a vytvoření nových nástrojů (např. investiční banky).
