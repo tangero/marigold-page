@@ -1,9 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-15 14:27:07'
-description: Marvel Rivals je nová free-to-play hra, kde se hráči mohou připojit k
-  oblíbeným hrdinům Marvelu a zapojit se do epických bitev. Hráči si mohou vybrat
-  ze široké škály postav a vytvořit si vlastní unikátní taktiku pro vítězství v soubojích.
+description: Hraj zdarma nyní! Připrav se na Ignite the Battle s Marvel Rivals!
 importance: 3
 layout: tech_news_article
 original_title: The Super Hero Team-based PVP Shooter - Marvel Rivals
@@ -13,12 +11,12 @@ source:
   emoji: 📰
   id: null
   name: Marvelrivals.com
-title: Superhrdina na základě týmové PVP střílečky - Marvel Rivals
+title: Superhrdinský tým-založený PVP střílečka - Marvel Rivals
 url: https://www.marvelrivals.com/gameupdate/20251015/41548_1264918.html
 urlToImage: https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg
 ---
 
-Marvel Rivals je nová free-to-play hra, kde se hráči mohou připojit k oblíbeným hrdinům Marvelu a zapojit se do epických bitev. Hráči si mohou vybrat ze široké škály postav a vytvořit si vlastní unikátní taktiku pro vítězství v soubojích.
+Hraj zdarma nyní! Připrav se na Ignite the Battle s Marvel Rivals!
 
 [Číst původní článek](https://www.marvelrivals.com/gameupdate/20251015/41548_1264918.html)
 

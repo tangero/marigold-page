@@ -1,5 +1,5 @@
 ---
-category: účet obnova
+category: účtová obnova
 companies:
 - Google
 date: '2025-10-15 16:00:00'
@@ -15,7 +15,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Přidávání přátel jako kontaktů pro obnovu účtu
+title: Přidání přátel jako kontaktů pro obnovu účtu
 url: https://techcrunch.com/2025/10/15/google-now-lets-you-add-friends-as-contacts-for-account-recovery/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/Google-Blog_Oct15_Account-Recovery.jpeg?resize=1200,677
 ---

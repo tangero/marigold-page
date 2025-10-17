@@ -4,7 +4,7 @@ companies:
 - Google
 date: '2025-10-15 20:20:32'
 description: Google připravuje upgrade uživatelů na Gemini 3.0 Pro na svých oficiálních
-  stránkách, což naznačuje blížící se uvedení na trh s pokročilým výkonem pro vývojáře.
+  stránkách, což naznačuje blížící se nasazení s pokročilým výkonem pro vývojáře.
 importance: 3
 layout: tech_news_article
 original_title: Gemini 3.0 Pro upgrade notice appears as Google nears public release
@@ -20,7 +20,7 @@ url: https://www.testingcatalog.com/gemini-3-0-pro-upgrade-notice-appears-as-goo
 urlToImage: https://www.testingcatalog.com/content/images/size/w1200/2025/10/Google-Gemini-10-15-2025_09_31_PM.jpg
 ---
 
-Google připravuje upgrade uživatelů na Gemini 3.0 Pro na svých oficiálních stránkách, což naznačuje blížící se uvedení na trh s pokročilým výkonem pro vývojáře.
+Google připravuje upgrade uživatelů na Gemini 3.0 Pro na svých oficiálních stránkách, což naznačuje blížící se nasazení s pokročilým výkonem pro vývojáře.
 
 [Číst původní článek](https://www.testingcatalog.com/gemini-3-0-pro-upgrade-notice-appears-as-google-nears-public-release/)
 
