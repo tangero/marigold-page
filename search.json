@@ -1,21 +1,21 @@
 [
   
     {
-      "title"    : "",
-      "url"      : "/item/2025-10-17-claude-skills/",
-      "category" : "",
-      "tags"     : "",
-      "date"     : "17.10.2025",
-      "content"  : "Anthropic představil novou funkci nazvanou Claude Skills, která příjemně rozšiřuje způsob, jakým lze přizpůsobovat schopnosti umělé inteligence Claude pro specializované pracovní úlohy. Skills čili Dovednosti představují modulární systém složek obsahujících instrukce, skripty a zdroje, které Claude načítá pouze v případě potřeby. Tato architektura umožňuje transformaci obecného asistenta na specializovaného odborníka pro konkrétní pracovní postupy, aniž by došlo k přetížení kontextového okna modelu.Začnu osobní zkušeností. Sám jsem si zvykl si řadu materiálů zpracovávat specializovanými prompty a abych si je nemusel nikde archivovat a aby je AI nezapomněla, dával jsem si tyto prompty do Projektů. Prompt jsem spouštěl klíčovým slovem Pracuj, když..."
-    },
-  
-    {
       "title"    : "Obce mají přestat sedět na miliardách. A proč na nich sedí, páni novináři a úředníci?",
       "url"      : "/item/obce-sedi-na-miliardach-proc/",
       "category" : "obce, politika, ekonomika",
       "tags"     : "",
       "date"     : "17.10.2025",
       "content"  : "📰 Hospodářské noviny vydaly článek nazvaný “Obce sedí na miliardách, stát se zadlužuje. Je nutné změnit rozdělení daní, naléhá ministerstvo” - placený článek. Článek zjevně vyšel na popud ministerských aktivit a až v závěru se mírně zohledňují i jiné pohledy, než ministerských úředníků. Takže než začneme prskat podobně jako státní úředníci na to, že obce šetří, pojďme si situaci usadit do kontextu. Protože tahle situace ohrožuje nás všechny. Obce totiž ještě zatím fungují, zatímco státní správa pomalu kolabuje. To nemusí vydržet dlouho…💰 Ano, je pravda, že obce mají na účtech přes 560 miliard Kč, zatímco stát si půjčuje peníze na..."
+    },
+  
+    {
+      "title"    : "Claude Skills: Nová cesta k specializovaným schopnostem AI",
+      "url"      : "/item/claude-skills/",
+      "category" : "AI, Anthropic, Claude, automatizace, vývoj softwaru",
+      "tags"     : "",
+      "date"     : "17.10.2025",
+      "content"  : "Anthropic představil novou funkci nazvanou Claude Skills, která příjemně rozšiřuje způsob, jakým lze přizpůsobovat schopnosti umělé inteligence Claude pro specializované pracovní úlohy. Skills čili Dovednosti představují modulární systém složek obsahujících instrukce, skripty a zdroje, které Claude načítá pouze v případě potřeby. Tato architektura umožňuje transformaci obecného asistenta na specializovaného odborníka pro konkrétní pracovní postupy, aniž by došlo k přetížení kontextového okna modelu.Začnu osobní zkušeností. Sám jsem si zvykl si řadu materiálů zpracovávat specializovanými prompty a abych si je nemusel nikde archivovat a aby je AI nezapomněla, dával jsem si tyto prompty do Projektů. Prompt jsem spouštěl klíčovým slovem Pracuj, když..."
     },
   
     {
@@ -26538,7 +26538,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Anthropic představil levný a rychlý model Claude Haiku 4.5 (15.10.2025) OpenAI představil aplikace uvnitř ChatGPT, AgentKit a uzavřel dohodu s AMD ( 6.10.2025) Vibe coding přednáška - proč na tom tak záleží? ( 2.10.2025) Nový Claude Sonnet 4.5 s experimentální funkcí..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Claude Skills: Nová cesta k specializovaným schopnostem AI (17.10.2025) Anthropic představil levný a rychlý model Claude Haiku 4.5 (15.10.2025) OpenAI představil aplikace uvnitř ChatGPT, AgentKit a uzavřel dohodu s AMD ( 6.10.2025) Vibe coding přednáška - proč na tom tak záleží?..."
     }
     
   
@@ -26783,7 +26783,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 241 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 242 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
