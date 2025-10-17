@@ -17,7 +17,7 @@ title: Obce mají přestat sedět na miliardách. A proč na nich sedí, páni n
 
 ---
 
-📰 Hospodářské noviny vydaly článek nazvaný "Obce sedí na miliardách, stát se zadlužuje. Je nutné změnit rozdělení daní, naléhá ministerstvo". Článek zjevně vyšel na popud ministerských aktivit a až v závěru se mírně zohledňují i jiné pohledy, než ministerských úředníků. Takže než začneme prskat podobně jako státní úředníci na to, že obce šetří, pojďme si situaci usadit do kontextu. Protože tahle situace ohrožuje nás všechny. Obce totiž ještě zatím fungují, zatímco státní správa pomalu kolabuje. To nemusí vydržet dlouho...
+📰 Hospodářské noviny vydaly článek nazvaný ["Obce sedí na miliardách, stát se zadlužuje. Je nutné změnit rozdělení daní, naléhá ministerstvo"](https://archiv.hn.cz/c1-67801820-obce-sedi-na-miliardach-stat-se-zadluzuje-je-nutne-zmenit-rozdeleni-dani-naleha-ministerstvo) - placený článek. Článek zjevně vyšel na popud ministerských aktivit a až v závěru se mírně zohledňují i jiné pohledy, než ministerských úředníků. Takže než začneme prskat podobně jako státní úředníci na to, že obce šetří, pojďme si situaci usadit do kontextu. Protože tahle situace ohrožuje nás všechny. Obce totiž ještě zatím fungují, zatímco státní správa pomalu kolabuje. To nemusí vydržet dlouho...
 
 💰 Ano, je pravda, že obce mají na účtech přes 560 miliard Kč, zatímco stát si půjčuje peníze na to, aby je obcím vyplácel. Jenže ministerští úředníci promáchli při hledání důvodu. A tím je úvěrová přiměřenost a způsob, jakým se dnes investují větší investiční celky v obcích.
 
