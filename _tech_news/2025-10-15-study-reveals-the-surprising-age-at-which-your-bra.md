@@ -13,9 +13,9 @@ source:
   emoji: 📰
   id: null
   name: ScienceAlert
-title: Studie odhaluje překvapivý věk, ve kterém dosahuje váš mozek svého vrcholu
+title: Studie odhaluje překvapivý věk, ve kterém dosahuje váš mozek vrcholu
 url: https://www.sciencealert.com/study-reveals-the-surprising-age-at-which-your-brain-reaches-its-peak
-urlToImage: https://www.sciencealert.com/images/2025/10/Young-old.jpg
+urlToImage: https://www.sciencealert.com/images/2025/10/Smiling-Woman-Peeking-Through-Hand.jpg
 ---
 
 Jak vaše mládí stále více ustupuje do minulosti, můžete začít mít strach ze stárnutí.

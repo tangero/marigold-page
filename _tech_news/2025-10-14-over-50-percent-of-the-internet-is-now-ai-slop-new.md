@@ -1,8 +1,8 @@
 ---
-category: ai generování
+category: umělá inteligence
 date: '2025-10-14 21:13:21'
-description: Nová studie společnosti Graphite zjistila, že přibližně polovina všech
-  článků na internetu je generována pomocí AI.
+description: Nový výzkum společnosti Graphite zjistil, že zhruba polovina všech článků
+  na internetu je generována umělou inteligencí.
 importance: 4
 layout: tech_news_article
 original_title: Over 50 Percent of the Internet Is Now AI Slop, New Data Finds - Futurism
@@ -17,7 +17,7 @@ url: https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-sl
 urlToImage: https://futurism.com/wp-content/uploads/2025/10/over-50-percent-internet-ai-slop.jpg?w=1200
 ---
 
-Nová studie společnosti Graphite zjistila, že přibližně polovina všech článků na internetu je generována pomocí AI.
+Nový výzkum společnosti Graphite zjistil, že zhruba polovina všech článků na internetu je generována umělou inteligencí.
 
 [Číst původní článek](https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop)
 
