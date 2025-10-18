@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Vibecoding - AI nástroje pro programování",
+  "short_name": "Vibecoding",
+  "description": "Průvodce AI nástroji pro programování a vývoj software",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/favicon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/favicon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "?homescreen=1",
+  "screenshots": [
+    {
+      "src": "/images/screenshot-540x720.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/screenshot-1080x1440.png",
+      "sizes": "1080x1440",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}

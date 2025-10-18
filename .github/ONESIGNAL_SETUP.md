@@ -43,9 +43,18 @@ web.onesignal.auto.0e731bf1-0f8d-4c8c-8593-03e4c907000a
 - `_includes/onesignal-vibecoding.html` - OneSignal SDK inicializace
 - `_layouts/vibecoding-default.html` - Zahrnutí OneSignal
 - `_config_vibecoding.yml` - Konfigurace App ID
+- `manifest.json` - Web app manifest pro iOS
+- `.github/IOS_PUSH_SETUP.md` - Detailní iOS setup průvodce
 
 **App ID:**
-- *(Bude vyplněno později)*
+```
+0c413930-f7f6-4d73-9438-36ec057acb7d
+```
+
+**Platform Support:**
+- ✅ Desktop (Chrome, Firefox, Safari, Edge)
+- ✅ Android (Chrome, Firefox, Edge)
+- ✅ iOS/iPadOS 16.4+ (Safari, Chrome, Edge - vyžaduje web app na home screen)
 
 **Aktivace:**
 
@@ -193,8 +202,36 @@ ONESIGNAL_VIBECODING_APP_ID    - App ID pro vibecoding.cz (pokud je aktivní)
 
 ---
 
+---
+
+## iOS Web Push Setup
+
+Pro iOS/iPadOS 16.4+ je potřeba speciální konfigurace. Kompletní průvodce je v `.github/IOS_PUSH_SETUP.md`.
+
+**Klíčové body:**
+- iOS vyžaduje web app přidanou na home screen
+- Manifest.json musí být správně nastaven
+- Permission prompt se zobrazí jen po kliknutí na subscribe button v rámci web appu
+- Funguje v Safari, Chrome a Edge prohlížečích
+
+**Pro uživatele:**
+1. Jdi na vibecoding.cz
+2. Klikni Sdílení → Přidat na home screen
+3. Otevři app z home screenu
+4. Klikni "Odebírat aktuality"
+5. Schvál notifikace
+
+**Implementace v kódu:**
+- `manifest.json` - Web app manifest s icons a nastavením
+- iOS meta tagy v `_layouts/vibecoding-default.html`
+- OneSignal SDK konfigurace v `_includes/onesignal-vibecoding.html`
+
+---
+
 ## Další Resourcy
 
 - [OneSignal Documentation](https://documentation.onesignal.com/)
 - [Web Push Setup](https://documentation.onesignal.com/docs/web-push-setup)
+- [iOS Web Push Setup](https://documentation.onesignal.com/docs/ios-web-push-setup)
 - [REST API Reference](https://documentation.onesignal.com/reference)
+- [Web App Manifest - MDN](https://developer.mozilla.org/en-US/docs/Web/Manifest)
