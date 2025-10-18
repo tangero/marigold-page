@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Xbox.com
-title: 'Přizpůsobte si svou hru: Nové příslušenství pro ROG Xbox Ally přenosné konzole'
+title: 'Přizpůsobte si svou hru: Nové doplňky pro přenosné konzole ROG Xbox Ally'
 url: https://news.xbox.com/en-us/2025/10/16/rog-xbox-ally-handheld-accessories/
 urlToImage: https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/Hero_New-99ed742c3b3433e46190.jpg
 ---

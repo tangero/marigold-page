@@ -1,10 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-10-16 08:51:38'
-description: Sociální aktualizace potvrzuje úmrtí veterána tvůrčí společnosti Tecmo.
-  Dlouholetý zaměstnanec a významná postava v herním průmyslu zemřel ve věku 73 let.
-  Tecmo je známé svými populárními herními tituly jako Ninja Gaiden a Dead or Alive.
-  Tato ztráta je velkou ranou pro celé herní společenství.
+description: Společnost Tecmo potvrdila úmrtí veterána tvůrčího týmu. Dlouholetý zaměstnanec
+  společnosti Tecmo, který se podílel na vývoji mnoha významných her, zemřel. Tecmo
+  ve svém sociálním příspěvku vzdal hold jeho přínosu a odkazu v herním průmyslu.
 importance: 3
 layout: tech_news_article
 original_title: Legendary developer Tomonobu Itagaki, creator of Dead or Alive and
@@ -23,7 +22,7 @@ url: https://www.gamesindustry.biz/legendary-developer-tomonobu-itagaki-creator-
 urlToImage: https://assetsio.gnwcdn.com/itagaki_e0I2L3n.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Sociální aktualizace potvrzuje úmrtí veterána tvůrčí společnosti Tecmo. Dlouholetý zaměstnanec a významná postava v herním průmyslu zemřel ve věku 73 let. Tecmo je známé svými populárními herními tituly jako Ninja Gaiden a Dead or Alive. Tato ztráta je velkou ranou pro celé herní společenství.
+Společnost Tecmo potvrdila úmrtí veterána tvůrčího týmu. Dlouholetý zaměstnanec společnosti Tecmo, který se podílel na vývoji mnoha významných her, zemřel. Tecmo ve svém sociálním příspěvku vzdal hold jeho přínosu a odkazu v herním průmyslu.
 
 [Číst původní článek](https://www.gamesindustry.biz/legendary-developer-tomonobu-itagaki-creator-of-dead-or-alive-and-ninja-gaiden-2004-has-died)
 

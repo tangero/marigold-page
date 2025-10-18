@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Eddy Cue vysvětluje, proč je Apple TV+ nyní Apple TV
+title: Proč se Apple TV+ nyní nazývá Apple TV - MacRumors
 url: https://www.macrumors.com/2025/10/15/eddy-cue-explains-apple-tv-plus-name-change/
 urlToImage: https://images.macrumors.com/t/B58MHLucUfcrQo4O1BU-LI1SEuA=/1600x/article-new/2025/10/Apple-TV-Color.jpg
 ---

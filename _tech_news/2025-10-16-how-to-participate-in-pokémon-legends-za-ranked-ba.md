@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-16 06:03:41'
-description: Náš průvodce startupu poskytuje veškeré podrobnosti o tom, jak se účastnit
-  této intenzivní online herní módy.
+description: Náš průvodce startupu poskytuje všechny podrobnosti o tom, jak se účastnit
+  tohoto intenzivního online herního módu.
 importance: 3
 layout: tech_news_article
 original_title: 'How to Participate in Pokémon Legends: Z‑A Ranked Battles - Pokemon.com'
@@ -17,7 +17,7 @@ url: https://www.pokemon.com/us/strategy/how-to-participate-in-pokemon-legends-z
 urlToImage: https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-legends-z-a/strategy/ranked-battles/01/pokemon-legends-z-a-169-en.png
 ---
 
-Náš průvodce startupu poskytuje veškeré podrobnosti o tom, jak se účastnit této intenzivní online herní módy.
+Náš průvodce startupu poskytuje všechny podrobnosti o tom, jak se účastnit tohoto intenzivního online herního módu.
 
 [Číst původní článek](https://www.pokemon.com/us/strategy/how-to-participate-in-pokemon-legends-z-a-ranked-battles)
 

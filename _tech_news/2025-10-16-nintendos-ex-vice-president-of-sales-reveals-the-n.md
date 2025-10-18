@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-16 11:30:00'
-description: To byla nejhorší hra, kterou jsme kdy prodali.
+description: Byl to nejhorší produkt, který jsme kdy prodali.
 importance: 2
 layout: tech_news_article
 original_title: Nintendo's Ex-Vice President Of Sales Reveals The NES Game They "Couldn't
@@ -18,7 +18,7 @@ url: https://www.timeextension.com/news/2025/10/nintendos-ex-vice-president-of-s
 urlToImage: https://images.timeextension.com/a06492134e1af/large.jpg
 ---
 
-To byla nejhorší hra, kterou jsme kdy prodali.
+Byl to nejhorší produkt, který jsme kdy prodali.
 
 [Číst původní článek](https://www.timeextension.com/news/2025/10/nintendos-ex-vice-president-of-sales-reveals-the-nes-game-they-couldnt-give-away)
 

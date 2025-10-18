@@ -13,7 +13,7 @@ source:
   id: null
   name: Space.com
 title: Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout
-  do inovativní 'vesmírné zbroje
+  do inovativního 'vesmírného brnění
 url: https://www.space.com/space-exploration/satellites/new-space-debris-shield-satellites-and-astronauts-could-suit-up-in-novel-space-armor
 urlToImage: https://cdn.mos.cms.futurecdn.net/naQtry7CedNEFLbjen6Rqe-1920-80.jpg
 ---
