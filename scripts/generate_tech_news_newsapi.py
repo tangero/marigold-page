@@ -171,9 +171,10 @@ class NewsAPITechNewsGenerator:
         if people:
             front_matter['people'] = people
 
-        # Přidat urlToImage pouze pokud existuje
+        # Přidat urlToImage a urlToImageBackup pro fallback mechanismus
         if article.get('urlToImage'):
             front_matter['urlToImage'] = article['urlToImage']
+            front_matter['urlToImageBackup'] = article['urlToImage']  # Backup URL pro případ lokálního selhání
 
         # Vytvořit obsah
         content = f"""---
