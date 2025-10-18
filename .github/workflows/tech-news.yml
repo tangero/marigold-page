@@ -64,10 +64,3 @@ jobs:
         git add assets/tech-news/ || true
         git commit -m "🤖 Aktualizace technologických zpráv $(date '+%Y-%m-%d %H:%M')"
         git push
-
-    - name: Send OneSignal Notification
-      if: steps.git-check.outputs.changed == 'true'
-      env:
-        ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
-        ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
-      run: python .github/scripts/send_tech_news_notification.py
