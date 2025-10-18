@@ -152,8 +152,8 @@ def check_git_changes():
 def is_new_article(file_path):
     """Check if the article is new (first commit) or an edit (multiple commits)."""
     try:
-        # Počet commitů pro tento soubor
-        result = os.popen(f'git log --oneline "{file_path}" 2>/dev/null | wc -l').read().strip()
+        # Počet commitů pro tento soubor (včetně renames s --follow)
+        result = os.popen(f'git log --oneline --follow "{file_path}" 2>/dev/null | wc -l').read().strip()
         commit_count = int(result) if result.isdigit() else 0
 
         if commit_count <= 1:
