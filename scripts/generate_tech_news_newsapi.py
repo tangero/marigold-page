@@ -463,6 +463,59 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
 
         return []
 
+    def is_gaming_article(self, title, description):
+        """Detekuje články o počítačových hrách a herním průmyslu"""
+        text = f"{title} {description}".lower()
+
+        # Klíčová slova související s hrami a herním průmyslem
+        gaming_keywords = [
+            # Obecné herní termíny
+            'game', 'games', 'gaming', 'gamer', 'esports', 'e-sports',
+            # Herní platformy a engine
+            'steam', 'playstation', 'xbox', 'nintendo', 'unreal engine', 'unity engine',
+            # Herní společnosti
+            'activision', 'ubisoft', 'ea sports', 'electronic arts', 'rockstar', 'take-two',
+            'square enix', 'bandai namco', 'konami', 'capcom', 'sega', 'nintendo', 'sony',
+            'microsoft gaming', 'blizzard', 'valve',
+            # Herní žánry
+            'call of duty', 'fortnite', 'valorant', 'counter-strike', 'dota 2',
+            'world of warcraft', 'elden ring', 'dark souls', 'zelda', 'minecraft',
+            # VR/AR hry
+            'virtual reality game', 'vr game', 'metaverse game', 'roblox',
+            # Herní konference
+            'gamescom', 'e3', 'pax', 'game developers conference', 'gdc',
+            # Streamy a obsah
+            'twitch', 'youtube gaming', 'streaming game',
+            # Znevažování her
+            'loot box', 'battle pass', 'microtransaction', 'dlc',
+            # eSports a streamování
+            'esports tournament', 'esports team', 'gaming tournament',
+            'esports player', 'pro gamer', 'speedrun',
+        ]
+
+        # Počet nalezených herních klíčových slov
+        gaming_matches = sum(1 for keyword in gaming_keywords if keyword in text)
+
+        # Pokud se najde více než 1 herní klíčové slovo, je to pravděpodobně artikel o hrách
+        if gaming_matches > 1:
+            logger.debug(f"🎮 Detekován herní článek (nalezeno {gaming_matches} klíčových slov): {title[:50]}...")
+            return True
+
+        # Pokud se najde klíčové slovo "game" s dalšími indikátory
+        if 'game' in text or 'gaming' in text:
+            # Podívat se na další indikátory, které by potvrdily, že je to o hrách
+            gaming_indicators = [
+                'game release', 'game update', 'new game', 'game trailer',
+                'game review', 'game patch', 'gaming news', 'game developer',
+                'game engine', 'gaming studio', 'gaming hardware',
+            ]
+
+            if any(indicator in text for indicator in gaming_indicators):
+                logger.debug(f"🎮 Detekován herní článek (herní indikátor): {title[:50]}...")
+                return True
+
+        return False
+
     def detect_importance(self, title, description, category):
         """Detekuje důležitost článku"""
         text = f"{title} {description}".lower()
@@ -539,12 +592,19 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         self.clean_duplicates(articles)
 
         processed_count = 0
+        skipped_gaming_count = 0
 
         for i, article in enumerate(articles, 1):
             try:
                 # Přeskočit články bez obsahu
                 if not article.get('title'):
                     logger.warning(f"⏭️ Přeskakuji článek {i} - chybí titulek")
+                    continue
+
+                # Přeskočit články o hrách a herním průmyslu
+                if self.is_gaming_article(article['title'], article.get('description', '')):
+                    logger.info(f"🎮 Přeskakuji herní článek {i}: {article['title'][:50]}...")
+                    skipped_gaming_count += 1
                     continue
 
                 logger.info(f"📝 Zpracovávám článek {i}: {article['title'][:50]}...")
@@ -564,6 +624,8 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 continue
 
         logger.info(f"✅ Úspěšně zpracováno {processed_count} článků")
+        if skipped_gaming_count > 0:
+            logger.info(f"🎮 Přeskočeno {skipped_gaming_count} herních článků")
 
         # Vytvoření index stránky
         self.create_index_page(processed_count)
