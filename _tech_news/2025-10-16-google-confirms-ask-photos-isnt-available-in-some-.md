@@ -15,10 +15,11 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Potvrzení Googlu, že 'Ask Photos' není k dispozici ve všech státech, a seskupování
-  obličejů by mohlo být příčinou
+title: Potvrzení Googlu, že 'Ask Photos' není dostupné ve všech státech, a seskupování
+  obličejů by mohlo být na vině
 url: http://9to5google.com/2025/10/16/google-confirms-ask-photos-isnt-available-in-some-states/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Google-Photos-Pixel-10-Pro-XL-Help-Me-Edit-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Google-Photos-Pixel-10-Pro-XL-Help-Me-Edit-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
 Google's AI-powered Ask Photos a konverzační editační funkce jsou významnou součástí řady Pixel a dalších Android zařízení,...

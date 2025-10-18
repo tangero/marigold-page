@@ -14,6 +14,7 @@ source:
 title: Superhrdinský tým-založený PVP střílečka - Marvel Rivals
 url: https://www.marvelrivals.com/gameupdate/20251015/41548_1264918.html
 urlToImage: https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg
+urlToImageBackup: https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg
 ---
 
 Hraj zdarma nyní! Připrav se na Ignite the Battle s Marvel Rivals!

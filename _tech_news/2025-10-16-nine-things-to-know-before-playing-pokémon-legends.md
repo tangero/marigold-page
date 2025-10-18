@@ -1,27 +1,27 @@
 ---
 category: herní průmysl
 date: '2025-10-16 13:53:00'
-description: 'Eurogamerův top devět tipů, které byste měli znát, než začnete hrát
-  Pokémon Legends: Z-A!
+description: 'Eurogamerovy top 9 tipů, které byste měli znát, než začnete hrát Pokémon
+  Legends: Z-A!
 
 
-  1. Využijte výhody Agile Style a Strong Style při používání moves.
+  1. Využijte výhody Agile Style a Strong Style v boji.
 
-  2. Sbírejte a upgradujte své Hisuian Pokémony, abyste získali výhodu.
+  2. Sbírejte a upgradujte své Pokémony, abyste zvýšili jejich statistiky.
 
-  3. Prozkoumejte mapu a objevujte nové oblasti a skryté předměty.
+  3. Prozkoumejte otevřený svět a objevujte nové oblasti.
 
-  4. Využijte výhod různých typů Pokémonů ve vašem týmu.
+  4. Využijte různé typy Pokémonů pro různé situace.
 
-  5. Nezapomeňte na sidequesty a vedlejší aktivity, které mohou přinést užitečné odměny.
+  5. Nezapomeňte na sidequesty a vedlejší aktivity.
 
-  6. Naučte se efektivně používat Crafting a vytvářejte užitečné předměty.
+  6. Naučte se efektivně používat crafting a vylepšování vybavení.
 
-  7. Zvažte využití Ride Pokémonů pro rychlý přesun po mapě.
+  7. Buďte opatrní při střetu s nebezpečnými divokými Pokémony.
 
-  8. Věnujte pozornost Pokémon Outbreaks a využijte je k získání vzácných Pokémonů.
+  8. Využijte výhod kooperativního režimu s přáteli.
 
-  9. Pravidelně ukládejte hru, abyste předešli ztrátě postupu.'
+  9. Věnujte pozornost příběhu a lore hry.'
 importance: 3
 layout: tech_news_article
 original_title: Nine things to know before playing Pokémon Legends Z-A - Eurogamer
@@ -34,19 +34,20 @@ source:
 title: Devět věcí, které byste měli vědět před hraním Pokémon Legends Z-A
 url: https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legends-z-a
 urlToImage: https://assetsio.gnwcdn.com/Pokemon-Legends-Z-A-Nine-Things-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
+urlToImageBackup: https://assetsio.gnwcdn.com/Pokemon-Legends-Z-A-Nine-Things-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Eurogamerův top devět tipů, které byste měli znát, než začnete hrát Pokémon Legends: Z-A!
+Eurogamerovy top 9 tipů, které byste měli znát, než začnete hrát Pokémon Legends: Z-A!
 
-1. Využijte výhody Agile Style a Strong Style při používání moves.
-2. Sbírejte a upgradujte své Hisuian Pokémony, abyste získali výhodu.
-3. Prozkoumejte mapu a objevujte nové oblasti a skryté předměty.
-4. Využijte výhod různých typů Pokémonů ve vašem týmu.
-5. Nezapomeňte na sidequesty a vedlejší aktivity, které mohou přinést užitečné odměny.
-6. Naučte se efektivně používat Crafting a vytvářejte užitečné předměty.
-7. Zvažte využití Ride Pokémonů pro rychlý přesun po mapě.
-8. Věnujte pozornost Pokémon Outbreaks a využijte je k získání vzácných Pokémonů.
-9. Pravidelně ukládejte hru, abyste předešli ztrátě postupu.
+1. Využijte výhody Agile Style a Strong Style v boji.
+2. Sbírejte a upgradujte své Pokémony, abyste zvýšili jejich statistiky.
+3. Prozkoumejte otevřený svět a objevujte nové oblasti.
+4. Využijte různé typy Pokémonů pro různé situace.
+5. Nezapomeňte na sidequesty a vedlejší aktivity.
+6. Naučte se efektivně používat crafting a vylepšování vybavení.
+7. Buďte opatrní při střetu s nebezpečnými divokými Pokémony.
+8. Využijte výhod kooperativního režimu s přáteli.
+9. Věnujte pozornost příběhu a lore hry.
 
 [Číst původní článek](https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legends-z-a)
 
