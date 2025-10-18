@@ -27,7 +27,6 @@ jobs:
         pip install requests PyGithub pyyaml
 
     - name: Run script
-      if: true  # Zabrání spuštění tohoto kroku
       env:
         ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
