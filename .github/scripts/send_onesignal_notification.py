@@ -9,18 +9,19 @@ import requests
 import sys
 from datetime import datetime
 from pathlib import Path
+import yaml
 
 
 def get_latest_post():
-    """Find the most recently modified post in _posts directory."""
+    """Find the most recently modified post in _posts directory (recursive)."""
     posts_dir = Path("_posts")
 
     if not posts_dir.exists():
         print("❌ _posts directory not found")
         return None
 
-    # Get all markdown files
-    posts = sorted(posts_dir.glob("*.md"), key=lambda p: p.stat().st_mtime, reverse=True)
+    # Get all markdown files recursively (including subdirectories)
+    posts = sorted(posts_dir.glob("**/*.md"), key=lambda p: p.stat().st_mtime, reverse=True)
 
     if not posts:
         print("❌ No posts found in _posts")
@@ -31,7 +32,7 @@ def get_latest_post():
 
 
 def extract_post_metadata(post_path):
-    """Extract title and summary from post frontmatter."""
+    """Extract title and summary from post frontmatter using YAML parser."""
     try:
         with open(post_path, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -43,29 +44,32 @@ def extract_post_metadata(post_path):
 
         # Split by --- to get frontmatter
         parts = content.split('---', 2)
-        if len(parts) < 2:
+        if len(parts) < 3:
             print(f"❌ Could not parse frontmatter in {post_path}")
             return None
 
-        frontmatter = parts[1]
+        # Parse YAML front matter
+        try:
+            frontmatter = yaml.safe_load(parts[1])
+        except yaml.YAMLError as e:
+            print(f"❌ Error parsing YAML: {e}")
+            return None
 
-        # Extract title
-        title = None
-        summary = None
+        if not frontmatter:
+            print(f"❌ Empty frontmatter in {post_path}")
+            return None
 
-        for line in frontmatter.split('\n'):
-            if line.startswith('title:'):
-                title = line.replace('title:', '').strip().strip('"\'')
-            elif line.startswith('summary:'):
-                summary = line.replace('summary:', '').strip().strip('"\'')
+        # Extract title and summary
+        title = frontmatter.get('title', 'Bez názvu')
+        summary = frontmatter.get('summary', frontmatter.get('excerpt', title))
 
-        if not title:
-            # Fallback: use filename as title
-            title = post_path.stem.replace('-', ' ').title()
+        # If summary is still just the title, use it
+        if not summary or summary == title:
+            summary = title
 
         return {
             'title': title,
-            'summary': summary or title,
+            'summary': summary,
             'filename': post_path.name
         }
     except Exception as e:
