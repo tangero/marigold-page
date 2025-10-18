@@ -126,7 +126,12 @@ footer-links:
   rss: rss
 
 # Analytics (pokud chceš oddělené)
-google_analytics: 
+google_analytics:
 
 # Disqus (pokud chceš komentáře)
 disqus:
+
+# OneSignal Web Push Notifications Configuration for vibecoding.cz
+# Nota: App ID se načítá z proměnné prostředí nebo komentáře
+# Pro aktivaci, nastavte ONESIGNAL_VIBECODING_APP_ID v GitHub Actions
+onesignal_vibecoding_app_id: ""  # Bude nastaveno z prostředí během buildu

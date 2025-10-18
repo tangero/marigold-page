@@ -1,0 +1,53 @@
+<!-- OneSignal Web Push Notifications for Vibecoding -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal-Vibecoding] Script starting...');
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal-Vibecoding] Initializing OneSignal SDK for vibecoding.cz');
+
+      const config = {
+        appId: "{{ site.onesignal_vibecoding_app_id }}",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Odebírat aktuality",
+            "button.unsubscribe": "Již neodebírat",
+          },
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal-Vibecoding] Initialization complete');
+
+      // Show slidedown on 3rd page visit using localStorage
+      const visitKey = 'onesignal_vibecoding_visit_count';
+      let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+      visitCount++;
+      localStorage.setItem(visitKey, visitCount.toString());
+
+      console.log('[OneSignal-Vibecoding] Page visit count:', visitCount);
+
+      if (visitCount === 3) {
+        console.log('[OneSignal-Vibecoding] 3rd visit detected - showing slidedown');
+        await OneSignal.Slidedown.promptPushCategories({
+          slidedownPromptOptions: {
+            actionMessage: "Chcete dostávat oznámení o nových AI nástrojích a tutoriálech?",
+            acceptButtonText: "Ano, přihlaste mě",
+            cancelButtonText: "Ne, děkuji",
+          }
+        });
+        localStorage.setItem(visitKey, '0'); // Reset counter
+      }
+
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal-Vibecoding] Permission status:', permission);
+    } catch (error) {
+      console.error('[OneSignal-Vibecoding] Error:', error.message);
+    }
+  });
+</script>
