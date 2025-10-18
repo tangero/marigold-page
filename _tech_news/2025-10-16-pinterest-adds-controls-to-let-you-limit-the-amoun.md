@@ -1,11 +1,9 @@
 ---
-category: sociální média
-companies:
-- Pinterest
+category: tech
 date: '2025-10-16 15:15:50'
-description: Pinterest zavádí nové ovládací prvky, které umožňují uživatelům omezit
-  množství obsahu generovaného umělou inteligencí, který se zobrazuje v jejich kanálech.
-  Společnost také činí své značky AI obsahu více viditelné.
+description: Pinterest is rolling out new controls that let users limit how much AI-generated
+  content appears in their feeds. The company is also making its AI content labels
+  more visible.
 importance: 4
 layout: tech_news_article
 original_title: Pinterest adds controls to let you limit the amount of ‘AI slop’ in
@@ -16,14 +14,14 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Nové ovládací prvky na Pinterestu umožňují omezit množství 'AI slizu' ve vašem
-  kanálu
+title: Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed
+  - TechCrunch
 url: https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/FilteringPins-NewsroomHeader.jpg?resize=1200,675
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/FilteringPins-NewsroomHeader.jpg?resize=1200,675
 ---
 
-Pinterest zavádí nové ovládací prvky, které umožňují uživatelům omezit množství obsahu generovaného umělou inteligencí, který se zobrazuje v jejich kanálech. Společnost také činí své značky AI obsahu více viditelné.
+Pinterest is rolling out new controls that let users limit how much AI-generated content appears in their feeds. The company is also making its AI content labels more visible.
 
 [Číst původní článek](https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/)
 
