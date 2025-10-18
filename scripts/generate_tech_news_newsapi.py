@@ -229,7 +229,7 @@ class NewsAPITechNewsGenerator:
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'anthropic/claude-sonnet-4.5-20250514',
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
@@ -295,7 +295,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'anthropic/claude-sonnet-4.5-20250514',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -358,7 +358,7 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'anthropic/claude-sonnet-4.5-20250514',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -426,7 +426,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'anthropic/claude-sonnet-4.5-20250514',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
