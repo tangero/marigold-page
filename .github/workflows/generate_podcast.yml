@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '_posts/**.md'
+      - '_posts/**/*.md'
 
   workflow_dispatch:  # Toto umožní manuální spuštění
 
