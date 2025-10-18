@@ -3,8 +3,8 @@ category: věda
 companies:
 - OpenAI
 date: '2025-10-16 14:00:54'
-description: Společnost, která vytvořila ChatGPT, se chce v oblasti vědy a výzkumu
-  konkurovat společnosti Google DeepMind.
+description: Tvůrce ChatGPT se chce konkurovat společnosti Google DeepMind v oblasti
+  vědy.
 importance: 3
 layout: tech_news_article
 original_title: 'Exclusive: OpenAI hires black hole physicist in broader science push
@@ -20,7 +20,7 @@ url: https://www.axios.com/2025/10/16/openai-science-black-hole-physicist
 urlToImage: https://images.axios.com/5apj9xd-jxg9wtGZraWNQyhxhEY=/0x0:1920x1080/1366x768/2025/10/15/1760563660206.jpeg
 ---
 
-Společnost, která vytvořila ChatGPT, se chce v oblasti vědy a výzkumu konkurovat společnosti Google DeepMind.
+Tvůrce ChatGPT se chce konkurovat společnosti Google DeepMind v oblasti vědy.
 
 [Číst původní článek](https://www.axios.com/2025/10/16/openai-science-black-hole-physicist)
 

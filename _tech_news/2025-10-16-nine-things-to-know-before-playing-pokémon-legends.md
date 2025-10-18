@@ -1,27 +1,27 @@
 ---
 category: herní průmysl
 date: '2025-10-16 13:53:00'
-description: 'Eurogamerův top devět tipů, které byste měli znát, než začnete hrát
+description: 'Eurogamerovy top devět tipů, které byste měli znát, než začnete hrát
   Pokémon Legends: Z-A!
 
 
-  1. Využijte Pokémon Arceus jako hlavního průvodce při cestování po otevřeném světě.
+  1. Využijte výhod Hisuian verzí Pokémonů.
 
-  2. Naučte se efektivně používat Pokémon Arceus k průzkumu a boji.
+  2. Prozkoumejte Obsidiánové pláně a objevte jejich tajemství.
 
-  3. Sbírejte suroviny a materiály pro výrobu předmětů a vylepšení.
+  3. Naučte se efektivně využívat systém crafting.
 
-  4. Prozkoumejte různé oblasti a objevujte nové Pokémony.
+  4. Zaměřte se na upgrady vašeho Basecampu.
 
-  5. Využijte dynamický systém boje a kombinujte různé schopnosti Pokémonů.
+  5. Zvládněte techniku Agile a Strong Style.
 
-  6. Rozšiřujte svůj Pokédex a získávejte nové informace o Pokémoncích.
+  6. Sbírejte suroviny a materiály pro vylepšení vybavení.
 
-  7. Spolupracujte s ostatními hráči a vyměňujte si Pokémony.
+  7. Využijte výhod Ride Pokémonů pro rychlý přesun.
 
-  8. Přizpůsobte si svůj styl hry a vybavení Pokémonů.
+  8. Nezapomeňte na vedlejší úkoly a postranní aktivity.
 
-  9. Užívejte si dobrodružství a objevování v otevřeném světě Pokémon Legends: Z-A!'
+  9. Připravte se na náročné souboje s legendárními Pokémony.'
 importance: 3
 layout: tech_news_article
 original_title: Nine things to know before playing Pokémon Legends Z-A - Eurogamer
@@ -36,17 +36,17 @@ url: https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legend
 urlToImage: https://assetsio.gnwcdn.com/Pokemon-Legends-Z-A-Nine-Things-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 ---
 
-Eurogamerův top devět tipů, které byste měli znát, než začnete hrát Pokémon Legends: Z-A!
+Eurogamerovy top devět tipů, které byste měli znát, než začnete hrát Pokémon Legends: Z-A!
 
-1. Využijte Pokémon Arceus jako hlavního průvodce při cestování po otevřeném světě.
-2. Naučte se efektivně používat Pokémon Arceus k průzkumu a boji.
-3. Sbírejte suroviny a materiály pro výrobu předmětů a vylepšení.
-4. Prozkoumejte různé oblasti a objevujte nové Pokémony.
-5. Využijte dynamický systém boje a kombinujte různé schopnosti Pokémonů.
-6. Rozšiřujte svůj Pokédex a získávejte nové informace o Pokémoncích.
-7. Spolupracujte s ostatními hráči a vyměňujte si Pokémony.
-8. Přizpůsobte si svůj styl hry a vybavení Pokémonů.
-9. Užívejte si dobrodružství a objevování v otevřeném světě Pokémon Legends: Z-A!
+1. Využijte výhod Hisuian verzí Pokémonů.
+2. Prozkoumejte Obsidiánové pláně a objevte jejich tajemství.
+3. Naučte se efektivně využívat systém crafting.
+4. Zaměřte se na upgrady vašeho Basecampu.
+5. Zvládněte techniku Agile a Strong Style.
+6. Sbírejte suroviny a materiály pro vylepšení vybavení.
+7. Využijte výhod Ride Pokémonů pro rychlý přesun.
+8. Nezapomeňte na vedlejší úkoly a postranní aktivity.
+9. Připravte se na náročné souboje s legendárními Pokémony.
 
 [Číst původní článek](https://www.eurogamer.net/nine-things-to-know-before-playing-pokemon-legends-z-a)
 

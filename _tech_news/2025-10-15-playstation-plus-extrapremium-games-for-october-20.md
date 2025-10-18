@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: GameSpot
-title: Hry pro PlayStation Plus Extra/Premium na říjen 2025 zahrnují jednu z nejlepších
+title: Hry PlayStation Plus Extra/Premium na říjen 2025 zahrnují jednu z nejlepších
   hororových her všech dob
 url: https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-october-2025-include-one-of-the-best-horror-games-of-all-time/2900-7135/
 urlToImage: https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4585753-ps-plus-october-2025.jpg

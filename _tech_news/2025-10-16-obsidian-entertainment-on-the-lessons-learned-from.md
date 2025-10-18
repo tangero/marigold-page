@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-16 15:25:34'
-description: Mluvili jsme s týmem stojícím za The Outer Worlds 2, abychom se dozvěděli
-  více o poučeních získaných z první hry.
+description: Mluvili jsme s týmem za The Outer Worlds 2, abychom se dozvěděli více
+  o poučeních z prvního dílu.
 importance: 4
 layout: tech_news_article
 original_title: Obsidian Entertainment On The Lessons Learned From The Outer Worlds
@@ -18,7 +18,7 @@ url: https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the
 urlToImage: https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/09/24/a6073db2/tow2_15.jpg.webp
 ---
 
-Mluvili jsme s týmem stojícím za The Outer Worlds 2, abychom se dozvěděli více o poučeních získaných z první hry.
+Mluvili jsme s týmem za The Outer Worlds 2, abychom se dozvěděli více o poučeních z prvního dílu.
 
 [Číst původní článek](https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the-lessons-learned-from-the-outer-worlds)
 

@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Business Wire
-title: Battlefield 6 překonává rekordy a stává se největším startem v historii série
+title: Battlefield 6 překonává rekordy a stává se největším startem v historii franšízy
 url: https://www.businesswire.com/news/home/20251016418634/en/Battlefield-6-Shatters-Records-Becoming-the-Biggest-Launch-in-Franchise-History
 ---
 

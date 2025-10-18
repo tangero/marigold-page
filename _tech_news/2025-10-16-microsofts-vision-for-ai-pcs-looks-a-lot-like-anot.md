@@ -1,9 +1,9 @@
 ---
-category: umělá inteligence
+category: ai asistent
 companies:
 - Microsoft
 date: '2025-10-16 21:12:48'
-description: Copilot se rozšiřuje se zaměřením na vytváření a úpravu souborů, hlasový
+description: Copilot se rozšiřuje se zaměřením na vytváření a úpravu souborů a hlasový
   vstup.
 importance: 3
 layout: tech_news_article
@@ -22,7 +22,7 @@ url: https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/Windows-Blog-Hero-Image_High-Res-1152x648.jpg
 ---
 
-Copilot se rozšiřuje se zaměřením na vytváření a úpravu souborů, hlasový vstup.
+Copilot se rozšiřuje se zaměřením na vytváření a úpravu souborů a hlasový vstup.
 
 [Číst původní článek](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)
 

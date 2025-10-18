@@ -1,8 +1,8 @@
 ---
 category: mikrofotografie
 date: '2025-10-15 20:30:43'
-description: Soutěž Nikon Small World o nejlepší fotomikrografii je každoroční připomínkou,
-  že věda může být nejen informativní, ale i krásná.
+description: Soutěž fotografické mikroskopie Nikon Small World je každoroční připomínkou,
+  že věda může být krásná i informativní.
 importance: 3
 layout: tech_news_article
 original_title: Rice weevil on a grain of rice wins 2025 Nikon Small World contest
@@ -13,12 +13,12 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Rýžový kůrovec na zrnu rýže vyhrává soutěž Nikon Small World 2025
+title: Rýžový kůrovec na zrnu rýže vítězí v soutěži Nikon Small World 2025 - Ars Technica
 url: https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/10/nikon1-1152x648-1760544093.jpg
 ---
 
-Soutěž Nikon Small World o nejlepší fotomikrografii je každoroční připomínkou, že věda může být nejen informativní, ale i krásná.
+Soutěž fotografické mikroskopie Nikon Small World je každoroční připomínkou, že věda může být krásná i informativní.
 
 [Číst původní článek](https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/)
 
