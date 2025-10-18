@@ -132,6 +132,4 @@ google_analytics:
 disqus:
 
 # OneSignal Web Push Notifications Configuration for vibecoding.cz
-# Nota: App ID se načítá z proměnné prostředí nebo komentáře
-# Pro aktivaci, nastavte ONESIGNAL_VIBECODING_APP_ID v GitHub Actions
-onesignal_vibecoding_app_id: ""  # Bude nastaveno z prostředí během buildu
+onesignal_vibecoding_app_id: "0c413930-f7f6-4d73-9438-36ec057acb7d"
