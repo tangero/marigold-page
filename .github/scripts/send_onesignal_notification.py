@@ -13,21 +13,22 @@ import yaml
 
 
 def get_latest_post():
-    """Find the most recently modified post in _posts directory (recursive)."""
-    posts_dir = Path("_posts")
+    """Find the most recently modified post in _posts or _vibecoding directory (recursive)."""
+    posts_locations = [Path("_posts"), Path("_vibecoding")]
+    all_posts = []
 
-    if not posts_dir.exists():
-        print("❌ _posts directory not found")
+    for posts_dir in posts_locations:
+        if posts_dir.exists():
+            # Get all markdown files recursively (including subdirectories)
+            posts = list(posts_dir.glob("**/*.md"))
+            all_posts.extend(posts)
+
+    if not all_posts:
+        print("❌ No posts found in _posts or _vibecoding")
         return None
 
-    # Get all markdown files recursively (including subdirectories)
-    posts = sorted(posts_dir.glob("**/*.md"), key=lambda p: p.stat().st_mtime, reverse=True)
-
-    if not posts:
-        print("❌ No posts found in _posts")
-        return None
-
-    latest_post = posts[0]
+    # Sort by modification time (most recent first)
+    latest_post = sorted(all_posts, key=lambda p: p.stat().st_mtime, reverse=True)[0]
     return latest_post
 
 
@@ -77,10 +78,29 @@ def extract_post_metadata(post_path):
         return None
 
 
-def send_onesignal_notification(title, message):
+def detect_website_and_get_app_id(file_path):
+    """Detect which website the article is for and return corresponding App ID."""
+    file_path_str = str(file_path)
+
+    # Vibecoding App ID (from _vibecoding directory)
+    ONESIGNAL_VIBECODING_APP_ID = "0c413930-f7f6-4d73-9438-36ec057acb7d"
+
+    # Check if article is from _vibecoding
+    if "_vibecoding" in file_path_str:
+        print(f"🌐 Detekován vibecoding.cz článek")
+        return ONESIGNAL_VIBECODING_APP_ID, "vibecoding"
+
+    # Default to marigold (from _posts)
+    print(f"🌐 Detekován marigold.cz článek")
+    return os.getenv('ONESIGNAL_APP_ID'), "marigold"
+
+
+def send_onesignal_notification(title, message, app_id=None):
     """Send notification via OneSignal REST API."""
     api_key = os.getenv('ONESIGNAL_REST_API_KEY')
-    app_id = os.getenv('ONESIGNAL_APP_ID')
+
+    if not app_id:
+        app_id = os.getenv('ONESIGNAL_APP_ID')
 
     if not api_key or not app_id:
         print("❌ Missing ONESIGNAL_REST_API_KEY or ONESIGNAL_APP_ID environment variables")
@@ -129,17 +149,17 @@ def send_onesignal_notification(title, message):
 
 
 def check_git_changes():
-    """Check if changes are from _posts directory."""
+    """Check if changes are from _posts or _vibecoding directory."""
     try:
         # Get the last commit's changed files
         result = os.popen('git diff --name-only HEAD~1 HEAD 2>/dev/null || git diff --name-only --cached 2>/dev/null').read()
         changed_files = result.strip().split('\n') if result.strip() else []
 
-        # Filter for _posts files
-        posts_changes = [f for f in changed_files if f.startswith('_posts/')]
+        # Filter for _posts or _vibecoding files
+        posts_changes = [f for f in changed_files if f.startswith('_posts/') or f.startswith('_vibecoding/')]
 
         if not posts_changes:
-            print("⚠️ Žádné změny v _posts/ adresáři detekovány")
+            print("⚠️ Žádné změny v _posts/ nebo _vibecoding/ adresáři detekovány")
             return False
 
         return True
@@ -188,6 +208,9 @@ def main():
 
     print(f"📝 Nejnovější článek: {latest_post.name}")
 
+    # Detect which website this article is for
+    app_id, website = detect_website_and_get_app_id(latest_post)
+
     # Check if it's a new article or just an edit
     if not is_new_article(str(latest_post)):
         print("✏️ Skipping notification - article was edited, not new")
@@ -206,7 +229,8 @@ def main():
     # Send notification
     success = send_onesignal_notification(
         title=f"🆕 Nový článek: {metadata['title']}",
-        message=metadata['summary']
+        message=metadata['summary'],
+        app_id=app_id
     )
 
     if success:
