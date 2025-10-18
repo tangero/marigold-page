@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Blizzard.com
-title: Vylepšení předmětů a systémů - Diablo IV
+title: Svatyně se rozzáří díky změnám v předmětech a systémech — Diablo IV
 url: https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes
 urlToImage: https://bnetcmsus-a.akamaihd.net/cms/blog_header/gr/GR2VEK57SC2L1760573259083.png
 ---

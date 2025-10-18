@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-15 03:00:54'
-description: Pravidla nasazení The Grey State je nadcházející extrakční střílečka,
-  která přivede legie slavných hororových monster do děsivých PvPvE zápasů.
+description: Rules of Engagement The Grey State je nadcházející extraction shooter,
+  který přináší legie slavných hororových monster do děsivých PvPvE zápasů.
 importance: 4
 layout: tech_news_article
 original_title: Tarkov's brutal FPS action collides with Dead by Daylight's horror
@@ -13,13 +13,13 @@ source:
   emoji: 📰
   id: null
   name: PCGamesN
-title: Brutální akce FPS z Tarkova se střetává s hororovými křížovkami Dead by Daylight
-  v tomto novém extrakčním střílečkovém titulu
+title: Brutální akce FPS hry Tarkov se střetává s hororovými křížovkami Dead by Daylight
+  v této nové extrakční střílečce
 url: https://www.pcgamesn.com/rules-of-engagement-the-grey-state/reveal
 urlToImage: https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/Being-held-up-by-a-creature-with-a-light-for-a-head-in-Rules-of-Engagement-The-Grey-State.jpg
 ---
 
-Pravidla nasazení The Grey State je nadcházející extrakční střílečka, která přivede legie slavných hororových monster do děsivých PvPvE zápasů.
+Rules of Engagement The Grey State je nadcházející extraction shooter, který přináší legie slavných hororových monster do děsivých PvPvE zápasů.
 
 [Číst původní článek](https://www.pcgamesn.com/rules-of-engagement-the-grey-state/reveal)
 
