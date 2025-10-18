@@ -63,6 +63,70 @@
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
+  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Callback executed, OneSignal object available');
+
+      // Basic minimal configuration first
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+        }
+      };
+
+      console.log('[OneSignal] Initializing with config:', config);
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization successful!');
+
+      // Add slide prompt after init
+      try {
+        await OneSignal.Slidedown.promptPushCategories({
+          autoPrompt: true,
+          slidedownPromptOptions: {
+            actionMessage: "Chcete dostávat oznámení o nových článcích?",
+            acceptButtonText: "Ano",
+            cancelButtonText: "Ne",
+          }
+        });
+        console.log('[OneSignal] Slidedown prompt added');
+      } catch (e) {
+        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+      }
+
+      // Check final state
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error during initialization:', error);
+      console.error('[OneSignal] Error message:', error.message);
+      console.error('[OneSignal] Error stack:', error.stack);
+    }
+  });
+
+  // Verify SDK loaded
+  setTimeout(() => {
+    console.log('[OneSignal] Verification - OneSignal SDK status:');
+    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
+    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
+  }, 2000);
+</script>
+
+
     <script type="text/javascript">
       window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
       heap.load("2219710997");
@@ -400,10 +464,10 @@
           
             <tr>
               <td>
-                <a href="/item/apple-csam-detska-pornografie/">👉Apple jde do dětského porna</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Apple nově představil  [technologii pro odhalování takzvané CSAM (Child Sexual Abuse Material)](https://www.apple.com/child-safety/), tedy dětské pornografie...
+                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
                   
                 </p>
               </td>
@@ -411,10 +475,10 @@
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>

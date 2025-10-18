@@ -63,6 +63,70 @@
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
+  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Callback executed, OneSignal object available');
+
+      // Basic minimal configuration first
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+        }
+      };
+
+      console.log('[OneSignal] Initializing with config:', config);
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization successful!');
+
+      // Add slide prompt after init
+      try {
+        await OneSignal.Slidedown.promptPushCategories({
+          autoPrompt: true,
+          slidedownPromptOptions: {
+            actionMessage: "Chcete dostávat oznámení o nových článcích?",
+            acceptButtonText: "Ano",
+            cancelButtonText: "Ne",
+          }
+        });
+        console.log('[OneSignal] Slidedown prompt added');
+      } catch (e) {
+        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+      }
+
+      // Check final state
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error during initialization:', error);
+      console.error('[OneSignal] Error message:', error.message);
+      console.error('[OneSignal] Error stack:', error.stack);
+    }
+  });
+
+  // Verify SDK loaded
+  setTimeout(() => {
+    console.log('[OneSignal] Verification - OneSignal SDK status:');
+    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
+    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
+  }, 2000);
+</script>
+
+
     <script type="text/javascript">
       window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
       heap.load("2219710997");
@@ -261,31 +325,31 @@
           
             
               <tr>
-                <td>Friedensreich Hundertwasser</td>
-                <td><a href="/obrazy/hundertwasser-hommage-au-tachisme/">Hommage au Tachisme</a></td>
+                <td>Yves Tanguy</td>
+                <td><a href="/obrazy/yves-tanguy-palac-okennich-skal/">Palác okenních skal</a></td>
                 <td>
                   
-                    <a href="/obrazy/hundertwasser-hommage-au-tachisme/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hundertwasser-hommage.jpeg" alt="Friedensreich Hundertwasser - Hommage au Tachisme (1961)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/yves-tanguy-palac-okennich-skal/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-3566.jpeg" alt="Yves Tanguy - Palác okenních skal" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Ferrari Sheppard</td>
-                <td><a href="/obrazy/ferrari-sheppard-my-name-is-sarah/">Jméno mé je Sarah</a></td>
+                <td>Milan Kunc</td>
+                <td><a href="/obrazy/milan-kunc-amor-a-psyche/">Amor a Psyche</a></td>
                 <td>
                   
-                    <a href="/obrazy/ferrari-sheppard-my-name-is-sarah/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/ferrari-sheppard-my-name-is-sarah.jpg" alt="Ferrari Sheppard - Jméno mé je Sarah" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/milan-kunc-amor-a-psyche/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-3701.jpeg" alt="Milan Kunc -  Amor a Psyche" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Sandro Botticelli</td>
-                <td><a href="/obrazy/sandro-botticelli-the-birth-of-venus/">Zrození Venuše</a></td>
+                <td>Damien Hirst</td>
+                <td><a href="/obrazy/damien-hirst-furfuryl-mercaptan/">Furfuryl Mercaptan</a></td>
                 <td>
                   
-                    <a href="/obrazy/sandro-botticelli-the-birth-of-venus/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/sandro-botticelli-the-birth-of-venus.jpg" alt="Sandro Botticelli - Zrození Venuše / The Birth of Venus" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/damien-hirst-furfuryl-mercaptan/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hirst-furfuryl-cely.jpeg" alt="Damien Hirst - Furfuryl Mercaptan" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -331,10 +395,10 @@
           
             <tr>
               <td>
-                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>
@@ -342,10 +406,10 @@
           
             <tr>
               <td>
-                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
                 <p class="excerpt">
                   
-                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
                   
                 </p>
               </td>

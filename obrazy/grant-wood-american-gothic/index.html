@@ -63,6 +63,70 @@
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
+  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Callback executed, OneSignal object available');
+
+      // Basic minimal configuration first
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+        }
+      };
+
+      console.log('[OneSignal] Initializing with config:', config);
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization successful!');
+
+      // Add slide prompt after init
+      try {
+        await OneSignal.Slidedown.promptPushCategories({
+          autoPrompt: true,
+          slidedownPromptOptions: {
+            actionMessage: "Chcete dostávat oznámení o nových článcích?",
+            acceptButtonText: "Ano",
+            cancelButtonText: "Ne",
+          }
+        });
+        console.log('[OneSignal] Slidedown prompt added');
+      } catch (e) {
+        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+      }
+
+      // Check final state
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error during initialization:', error);
+      console.error('[OneSignal] Error message:', error.message);
+      console.error('[OneSignal] Error stack:', error.stack);
+    }
+  });
+
+  // Verify SDK loaded
+  setTimeout(() => {
+    console.log('[OneSignal] Verification - OneSignal SDK status:');
+    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
+    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
+  }, 2000);
+</script>
+
+
     <script type="text/javascript">
       window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
       heap.load("2219710997");
@@ -289,31 +353,31 @@
           
             
               <tr>
-                <td>Katsushika Hokusai</td>
-                <td><a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/">Velká vlna u Kanagawy</a></td>
+                <td>Martin Krajc</td>
+                <td><a href="/obrazy/martin-krajc-blue-drink/">Blue Drink</a></td>
                 <td>
                   
-                    <a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.jpg" alt="Katsushika Hokusai - Velká vlna u Kanagawy / The Great Wave off Kanagawa" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/martin-krajc-blue-drink/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/martin-krajc-blue-drink.jpg" alt="Martin Krajc - Blue Drink (2021)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Michelangelo</td>
-                <td><a href="/obrazy/michelangelo-sistine-chapel-ceiling/">Stropní fresky v Sixtinské kapli</a></td>
+                <td>Edvard Munch</td>
+                <td><a href="/obrazy/edvard-munch-the-scream/">Výkřik</a></td>
                 <td>
                   
-                    <a href="/obrazy/michelangelo-sistine-chapel-ceiling/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/michelangelo-sistine-chapel-ceiling.jpg" alt="Michelangelo - Stropní fresky v Sixtinské kapli / Sistine Chapel Ceiling" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/edvard-munch-the-scream/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/edvard-munch-the-scream.jpg" alt="Edvard Munch - Výkřik / The Scream" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Pierre-Auguste Renoir</td>
-                <td><a href="/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette/">Ples v Moulin de la Galette</a></td>
+                <td>Vasilij Kandinský</td>
+                <td><a href="/obrazy/vasilij-kandinsky-milieu-jaune/">Milieu jaune</a></td>
                 <td>
                   
-                    <a href="/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette.jpg" alt="Pierre-Auguste Renoir - Ples v Moulin de la Galette / Bal du moulin de la Galette" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/vasilij-kandinsky-milieu-jaune/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg" alt="Vasilij Kandinský - Milieu jaune " style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -359,10 +423,10 @@
           
             <tr>
               <td>
-                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>
@@ -370,10 +434,10 @@
           
             <tr>
               <td>
-                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
                 <p class="excerpt">
                   
-                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
                   
                 </p>
               </td>

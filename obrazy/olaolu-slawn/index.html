@@ -63,6 +63,70 @@
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
+  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Callback executed, OneSignal object available');
+
+      // Basic minimal configuration first
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+        }
+      };
+
+      console.log('[OneSignal] Initializing with config:', config);
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization successful!');
+
+      // Add slide prompt after init
+      try {
+        await OneSignal.Slidedown.promptPushCategories({
+          autoPrompt: true,
+          slidedownPromptOptions: {
+            actionMessage: "Chcete dostávat oznámení o nových článcích?",
+            acceptButtonText: "Ano",
+            cancelButtonText: "Ne",
+          }
+        });
+        console.log('[OneSignal] Slidedown prompt added');
+      } catch (e) {
+        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+      }
+
+      // Check final state
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error during initialization:', error);
+      console.error('[OneSignal] Error message:', error.message);
+      console.error('[OneSignal] Error stack:', error.stack);
+    }
+  });
+
+  // Verify SDK loaded
+  setTimeout(() => {
+    console.log('[OneSignal] Verification - OneSignal SDK status:');
+    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
+    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
+  }, 2000);
+</script>
+
+
     <script type="text/javascript">
       window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
       heap.load("2219710997");
@@ -274,31 +338,31 @@
           
             
               <tr>
-                <td>Auguste Rodin</td>
-                <td><a href="/obrazy/auguste-rodin-the-thinker/">Myslitel</a></td>
+                <td>Marcel Duchamp</td>
+                <td><a href="/obrazy/marcel-duchamp-fountain/">Fontána</a></td>
                 <td>
                   
-                    <a href="/obrazy/auguste-rodin-the-thinker/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/auguste-rodin-the-thinker.jpg" alt="Auguste Rodin - Myslitel / The Thinker" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/marcel-duchamp-fountain/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/marcel-duchamp-fountain.jpg" alt="Marcel Duchamp - Fontána / Fountain" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>David Hockney</td>
-                <td><a href="/obrazy/david-hockney-portrait-of-an-artist/">Portrét umělce (Bazén se dvěma postavami)</a></td>
+                <td>Pierre-Auguste Renoir</td>
+                <td><a href="/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette/">Ples v Moulin de la Galette</a></td>
                 <td>
                   
-                    <a href="/obrazy/david-hockney-portrait-of-an-artist/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/david-hockney-portrait-of-an-artist.jpg" alt="David Hockney - Portrét umělce (Bazén se dvěma postavami) (1972)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette.jpg" alt="Pierre-Auguste Renoir - Ples v Moulin de la Galette / Bal du moulin de la Galette" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Jean-Honoré Fragonard</td>
-                <td><a href="/obrazy/jean-honore-fragonard-the-swing/">Houpačka</a></td>
+                <td>Jan Zrzavý</td>
+                <td><a href="/obrazy/jan-zrzavy-kokta/">Kokta</a></td>
                 <td>
                   
-                    <a href="/obrazy/jean-honore-fragonard-the-swing/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jean-honore-fragonard-the-swing.jpg" alt="Jean-Honoré Fragonard - Houpačka / The Swing" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/jan-zrzavy-kokta/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jan-zrzavy-kokta.jpeg" alt="Jan Zrzavý - Kokta" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -344,10 +408,10 @@
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>
@@ -355,10 +419,10 @@
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
                   
                 </p>
               </td>
