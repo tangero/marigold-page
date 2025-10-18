@@ -13,8 +13,10 @@ OneSignal push notifikace jsou v tomto repozitáři integrované na dvou místec
 
 **Soubory:**
 - `_includes/onesignal.html` - OneSignal SDK inicializace
-- `_layouts/default.html` - Zahrnutí OneSignal (line 24)
+- `_layouts/default.html` - Zahrnutí OneSignal (line 30)
 - `.github/scripts/send_onesignal_notification.py` - Odesílání notifikací na nové články
+- `manifest-marigold.json` - Web app manifest pro iOS
+- `.github/IOS_PUSH_SETUP.md` - iOS setup průvodce
 
 **App ID:**
 ```
@@ -29,11 +31,17 @@ web.onesignal.auto.0e731bf1-0f8d-4c8c-8593-03e4c907000a
 **Service Worker:**
 - `OneSignalSDKWorker.js` v kořenovém adresáři
 
+**Platform Support:**
+- ✅ Desktop (Chrome, Firefox, Safari, Edge)
+- ✅ Android (Chrome, Firefox, Edge)
+- ✅ iOS/iPadOS 16.4+ (Safari, Chrome, Edge - vyžaduje web app na home screen)
+
 **Features:**
 - Subscribe button v dolním rohu
 - Slidedown prompt na 3. návštěvu
 - Automatické notifikace při nových příspěvcích (via GitHub Actions)
 - Sledování počtu návštěv přes localStorage
+- iOS web app podpora s manifest.json
 
 ---
 
@@ -225,6 +233,19 @@ Pro iOS/iPadOS 16.4+ je potřeba speciální konfigurace. Kompletní průvodce j
 - `manifest.json` - Web app manifest s icons a nastavením
 - iOS meta tagy v `_layouts/vibecoding-default.html`
 - OneSignal SDK konfigurace v `_includes/onesignal-vibecoding.html`
+
+---
+
+---
+
+## Poznámky pro marigold.cz
+
+Marigold.cz má stejnou iOS konfiguraci jako vibecoding.cz:
+- Web app manifest: `manifest-marigold.json`
+- iOS meta tagy v `_layouts/default.html`
+- OneSignal SDK s iOS supportem
+
+Uživatelé marigold.cz mohou stejně jako u vibecoding.cz přidat web na home screen a dostávat notifikace o nových článcích.
 
 ---
 
