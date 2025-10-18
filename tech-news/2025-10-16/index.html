@@ -292,15 +292,62 @@ function convertTimesToLocal() {
 function handleImageError(imgElement, articleUrl) {
   console.warn('Obrázek se nenačetl:', imgElement.src);
 
-  // Zkusit alternativní služby pro preview
-  const alternatives = [
-    // Služba pro generování screenshotů
-    `https://api.screenshotmachine.com/?key=demo&url=${encodeURIComponent(articleUrl)}&dimension=1024x768`,
-    // Fallback obrázek podle zdroje
-    getFallbackImageForSource(articleUrl)
-  ];
+  // Zkusit backup URL z front matter pokud existuje
+  if (imgElement.dataset.backup) {
+    const backupImg = new Image();
+    backupImg.onload = function() {
+      imgElement.src = imgElement.dataset.backup;
+      return;
+    };
+    backupImg.onerror = function() {
+      showEmojiPlaceholder(imgElement);
+    };
+    backupImg.src = imgElement.dataset.backup;
+  } else {
+    showEmojiPlaceholder(imgElement);
+  }
+}
 
-  tryAlternativeImage(imgElement, alternatives, 0);
+// Zobrazit emoji placeholder místo obrázku
+function showEmojiPlaceholder(imgElement) {
+  const card = imgElement.closest('.tech-news-card');
+  const category = card ? card.dataset.category : 'default';
+
+  // Najít kategorii v mapě
+  const emojiMap = {
+    'ai': '🤖', 'machine-learning': '🧠', 'cybersecurity': '🔐', 'privacy': '🛡️',
+    'security': '🔒', 'space': '🚀', 'astronomy': '🌌', 'mobile': '📱',
+    'apps': '📲', 'software': '💻', 'web': '🌐', 'development': '⚙️',
+    'gaming': '🎮', 'graphics': '🎨', 'health': '🏥', 'medicine': '💊',
+    'energy': '⚡', 'climate': '🌍', 'automotive': '🚗', 'transport': '🚆',
+    'infrastructure': '🏗️', 'internet': '📡', 'media': '🎬', 'entertainment': '🎭',
+    'science': '🔬', 'research': '📊', 'technology': '🔧', 'hardware': '⚙️',
+    'cloud': '☁️', 'data': '📈', 'blockchain': '⛓️', 'crypto': '₿',
+    'network': '🌐', '5g': '📶', 'ar': '👓', 'vr': '🥽',
+    'robotics': '🤖', 'iot': '📡', 'wearables': '⌚', 'quantum': '⚛️',
+    'biotech': '🧬', 'nanotechnology': '🔬', 'herní-průmysl': '🎮',
+    'programování': '💻', 'umělá-inteligence': '🤖', 'default': '📰'
+  };
+
+  const emoji = emojiMap[category] || emojiMap['default'];
+
+  // Skrýt obrázek a zobrazit emoji container
+  imgElement.parentElement.innerHTML = `
+    <div class="emoji-placeholder" style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+      font-size: 3.5rem;
+      color: #cbd5e0;
+    ">
+      ${emoji}
+    </div>
+  `;
+
+  console.info('Zobrazeno emoji místo obrázku pro kategorii:', category);
 }
 
 function getFallbackImageForSource(url) {
