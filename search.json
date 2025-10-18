@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Pošleme vám notifikaci o novém článku",
+      "url"      : "/item/notifikace-novy-clanek/",
+      "category" : "Marigold",
+      "tags"     : "",
+      "date"     : "18.10.2025",
+      "content"  : "Chcete do svého prohlížeče dostat notifikaci o tom, že na Marigold.cz vyšel nový článek? V pravém dolním rohu máme ikonku zvonečku, která umožní notifikace zapnout a zase vypnout. Notifikace vám přijde do otevřeného prohlížeče.Notifikace do prohlížeče o novém článku je něco, co nemám příliš rád, protože většinou je to první dialog, co na novém serveru vybafne. Ale zase je to skvělá věc v momentě, kdy server není aktualizován každý den. A to Marigold.cz není. Do vašeho prohlížeče vám přijde notifikace v momentě, kdy se tu objeví nový hlavní článek. Technicky vzato v momentě vystavení nového článku rozesíláme notifikace - zpoždění..."
+    },
+  
+    {
       "title"    : "Obce mají přestat sedět na miliardách. A proč na nich sedí, páni novináři a úředníci?",
       "url"      : "/item/obce-sedi-na-miliardach-proc/",
       "category" : "obce, politika, ekonomika",
