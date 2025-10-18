@@ -3255,6 +3255,24 @@
     
       
       
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
         
         
 
@@ -3444,75 +3462,44 @@ document.addEventListener('DOMContentLoaded', function() {
   // Převést časy na místní časovou zónu
   convertTimesToLocal();
 
-  // Filtrování článků
+  // Setup filtry
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 
-  // Aktualizovat počty ve filtrech
-  function updateFilterCounts() {
-    filterBtns.forEach(btn => {
-      const filter = btn.dataset.filter;
-      const type = btn.dataset.type;
-      let count = 0;
+  updateFilterCounts(filterBtns, newsCards);
 
-      if (filter === 'all') {
-        count = newsCards.length;
-      } else if (type === 'importance') {
-        newsCards.forEach(card => {
-          if (card.dataset.importance === filter) {
-            count++;
-          }
-        });
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => filterArticles(btn, filterBtns, newsCards));
+  });
+
+  function updateFilterCounts(buttons, cards) {
+    buttons.forEach(btn => {
+      if (btn.dataset.filter === 'all') {
+        btn.textContent = `${btn.textContent.split(' (')[0]} (${cards.length})`;
+        return;
       }
 
-      // Aktualizovat text tlačítka
-      const originalText = btn.textContent.split(' (')[0];
-      btn.textContent = `${originalText} (${count})`;
+      const count = Array.from(cards).filter(card =>
+        card.dataset.importance === btn.dataset.filter
+      ).length;
 
-      // Skrýt tlačítka bez článků
-      if (count === 0 && filter !== 'all') {
-        btn.style.display = 'none';
-      } else {
-        btn.style.display = 'inline-block';
-      }
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+      btn.style.display = count > 0 ? 'inline-block' : 'none';
     });
   }
 
-  updateFilterCounts();
+  function filterArticles(activeBtn, allBtns, cards) {
+    allBtns.forEach(b => b.classList.remove('active'));
+    activeBtn.classList.add('active');
 
-  filterBtns.forEach(btn => {
-    btn.addEventListener('click', function() {
-      const filter = this.dataset.filter;
-      const type = this.dataset.type;
+    const filter = activeBtn.dataset.filter;
+    const type = activeBtn.dataset.type;
 
-      // Aktualizovat aktivní tlačítko
-      filterBtns.forEach(b => b.classList.remove('active'));
-      this.classList.add('active');
-
-      // Filtrovat zprávy
-      let visibleCount = 0;
-
-      newsCards.forEach(card => {
-        let shouldShow = false;
-
-        if (filter === 'all') {
-          shouldShow = true;
-        } else if (type === 'importance' && card.dataset.importance === filter) {
-          shouldShow = true;
-        }
-
-        if (shouldShow) {
-          card.style.display = 'block';
-          card.style.animation = 'fadeIn 0.3s ease-in';
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      console.log(`Filtered to ${type}: ${filter}, showing ${visibleCount} articles`);
+    cards.forEach(card => {
+      const show = filter === 'all' || card.dataset[type] === filter;
+      card.style.display = show ? 'block' : 'none';
     });
-  });
+  }
 });
 </script>
 
