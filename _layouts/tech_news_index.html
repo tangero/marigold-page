@@ -92,7 +92,7 @@ layout: default
 
         {% if article.urlToImage %}
         <div class="tech-news-image">
-          <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="{{ article.urlToImageBackup }}" onerror="handleImageError(this, '{{ article.url }}');">
+          <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="{{ article.urlToImageBackup }}" onerror="handleImageError(this, '{{ article.url }}');" width="380" height="200">
         </div>
         {% endif %}
 
@@ -153,83 +153,36 @@ layout: default
 // Clicky tracking pro tech-news
 function initTechNewsTracking() {
   if (typeof clicky === 'undefined' || !window.clicky) {
-    console.debug('Clicky not loaded, tracking disabled');
     return;
   }
 
-  // Track kliknutí na články
-  document.querySelectorAll('.tech-news-card').forEach(function(card, index) {
-    const link = card.querySelector('.tech-news-title a');
-    const category = card.dataset.category;
-    const importance = card.dataset.importance;
-    const source = card.querySelector('.tech-news-source').textContent;
-
-    if (link) {
-      link.addEventListener('click', function(e) {
-        const articleTitle = this.textContent.trim();
-
-        // Základní tracking akce
-        clicky.log(
-          '#tech-news-click/' + category + '/' + importance,
-          'Tech News: ' + articleTitle.substring(0, 60),
-          'click'
-        );
-
-        // Goals podle důležitosti
-        if (importance >= 4) {
-          clicky.goal('High Priority Article Click');
-        }
-
-        // Goals podle kategorie (dynamické LLM kategorie)
-        if (category && category !== 'tech') {
-          clicky.goal('Category Article Click', category);
-        }
-
-        // Detailní data pro analýzu
-        clicky.log(
-          '#tech-news-detail/' + category + '/' + importance + '/' + (index + 1),
-          source + ': ' + articleTitle.substring(0, 50),
-          'click'
-        );
-      });
-    }
-  });
-
-  // Track externí odkazy na původní články
-  document.querySelectorAll('.tech-news-link').forEach(function(link) {
+  // Jednoduchý tracking kliknutí na články
+  document.querySelectorAll('.tech-news-title a').forEach(function(link) {
     link.addEventListener('click', function(e) {
       const card = this.closest('.tech-news-card');
-      const category = card.dataset.category;
-      const importance = card.dataset.importance;
+      const category = card?.dataset.category || 'tech';
+      const importance = card?.dataset.importance || '3';
 
       clicky.log(
-        this.href,
-        'External: ' + this.textContent,
-        'outbound'
+        '#tech-news-click/' + category + '/' + importance,
+        'Tech News: ' + this.textContent.trim().substring(0, 60),
+        'click'
       );
-
-      // Goal pro čtení celého článku
-      clicky.goal('Read Full Article');
     });
   });
 
-  // Track použití filtrů
+  // Track filtrů s debounce
+  let filterTimeout;
   document.querySelectorAll('.filter-btn').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      const filter = this.dataset.filter;
-      const type = this.dataset.type;
-      const text = this.textContent.trim();
-
-      clicky.log(
-        '#tech-news-filter/' + type + '/' + filter,
-        'Filter: ' + text,
-        'click'
-      );
-
-      // Goal pro aktivní filtrování
-      if (filter !== 'all') {
-        clicky.goal('Content Filter Used');
-      }
+      clearTimeout(filterTimeout);
+      filterTimeout = setTimeout(() => {
+        clicky.log(
+          '#tech-news-filter/' + this.dataset.type + '/' + this.dataset.filter,
+          'Filter: ' + this.textContent.trim().split(' (')[0],
+          'click'
+        );
+      }, 100);
     });
   });
 }
@@ -297,40 +250,6 @@ function showEmojiPlaceholder(imgElement) {
   console.info('Zobrazeno emoji místo obrázku pro kategorii:', category);
 }
 
-function getFallbackImageForSource(url) {
-  if (url.includes('techcrunch.com')) {
-    return '/images/fallback-techcrunch.png';
-  } else if (url.includes('theverge.com')) {
-    return '/images/fallback-verge.png';
-  } else if (url.includes('wired.com')) {
-    return '/images/fallback-wired.png';
-  }
-  return '/images/fallback-tech-news.png';
-}
-
-function tryAlternativeImage(imgElement, alternatives, index) {
-  if (index >= alternatives.length) {
-    // Žádné další alternativy, skrýt obrázek
-    imgElement.parentElement.style.display = 'none';
-    return;
-  }
-
-  const altSrc = alternatives[index];
-  if (!altSrc) {
-    tryAlternativeImage(imgElement, alternatives, index + 1);
-    return;
-  }
-
-  // Zkusit načíst alternativní obrázek
-  const testImg = new Image();
-  testImg.onload = function() {
-    imgElement.src = altSrc;
-  };
-  testImg.onerror = function() {
-    tryAlternativeImage(imgElement, alternatives, index + 1);
-  };
-  testImg.src = altSrc;
-}
 
 // Převod času na místní časovou zónu
 function convertTimesToLocal() {
@@ -373,86 +292,61 @@ function convertTimesToLocal() {
   });
 }
 
-// Filtrování a inicializace
-document.addEventListener('DOMContentLoaded', function() {
-  // Převést časy na místní časovou zónu
+// Inicializace se optimalizacemi
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initTechNews);
+} else {
+  initTechNews();
+}
+
+function initTechNews() {
+  // Převést časy
   convertTimesToLocal();
 
   // Inicializovat tracking
   initTechNewsTracking();
 
-  // Definovat elementy
+  // Setup filtry
   const filterBtns = document.querySelectorAll('.filter-btn');
   const newsCards = document.querySelectorAll('.tech-news-card');
 
-  // Aktualizovat počty ve filtrech
-  function updateFilterCounts() {
-    filterBtns.forEach(btn => {
-      const filter = btn.dataset.filter;
-      const type = btn.dataset.type;
-      let count = 0;
+  // Počty filtry
+  updateFilterCounts(filterBtns, newsCards);
 
-      if (filter === 'all') {
-        count = newsCards.length;
-      } else if (type === 'importance') {
-        newsCards.forEach(card => {
-          if (card.dataset.importance === filter) {
-            count++;
-          }
-        });
-      }
-
-      // Aktualizovat text tlačítka
-      const originalText = btn.textContent.split(' (')[0];
-      btn.textContent = `${originalText} (${count})`;
-
-      // Skrýt tlačítka bez článků
-      if (count === 0 && filter !== 'all') {
-        btn.style.display = 'none';
-      } else {
-        btn.style.display = 'inline-block';
-      }
-    });
-  }
-
-  // Inicializovat počty
-  updateFilterCounts();
-
-  // Filtrování článků
+  // Event listenery pro filtrování
   filterBtns.forEach(btn => {
-    btn.addEventListener('click', function() {
-      const filter = this.dataset.filter;
-      const type = this.dataset.type;
-
-      // Aktualizovat aktivní tlačítko
-      filterBtns.forEach(b => b.classList.remove('active'));
-      this.classList.add('active');
-
-      // Filtrovat zprávy
-      let visibleCount = 0;
-
-      newsCards.forEach(card => {
-        let shouldShow = false;
-
-        if (filter === 'all') {
-          shouldShow = true;
-        } else if (type === 'importance' && card.dataset.importance === filter) {
-          shouldShow = true;
-        }
-
-        if (shouldShow) {
-          card.style.display = 'block';
-          card.style.animation = 'fadeIn 0.3s ease-in';
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      console.log(`Filtered to ${type}: ${filter}, showing ${visibleCount} articles`);
-    });
+    btn.addEventListener('click', () => filterArticles(btn, filterBtns, newsCards));
   });
-});
+}
+
+function updateFilterCounts(buttons, cards) {
+  buttons.forEach(btn => {
+    if (btn.dataset.filter === 'all') {
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${cards.length})`;
+      return;
+    }
+
+    const count = Array.from(cards).filter(card =>
+      card.dataset.importance === btn.dataset.filter
+    ).length;
+
+    btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+    btn.style.display = count > 0 ? 'inline-block' : 'none';
+  });
+}
+
+function filterArticles(activeBtn, allBtns, cards) {
+  allBtns.forEach(b => b.classList.remove('active'));
+  activeBtn.classList.add('active');
+
+  const filter = activeBtn.dataset.filter;
+  const type = activeBtn.dataset.type;
+
+  cards.forEach(card => {
+    const show = filter === 'all' || card.dataset[type] === filter;
+    card.style.display = show ? 'block' : 'none';
+  });
+}
 </script>
 
 <style>
