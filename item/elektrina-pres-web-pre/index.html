@@ -69,62 +69,71 @@ Nedávno jsem dostal spolu s fakturou za elektřinu od Pražské energetiky tak�
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   console.log('[OneSignal] Script starting...');
-  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
-  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
 
   window.OneSignalDeferred = window.OneSignalDeferred || [];
 
   OneSignalDeferred.push(async function(OneSignal) {
     try {
-      console.log('[OneSignal] Callback executed, OneSignal object available');
+      console.log('[OneSignal] Initializing OneSignal SDK');
 
-      // Basic minimal configuration first
+      // Initialize OneSignal with minimal config
       const config = {
         appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
         notifyButton: {
           enable: true,
           position: "bottom-right",
           size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
         }
       };
 
-      console.log('[OneSignal] Initializing with config:', config);
-
       await OneSignal.init(config);
-      console.log('[OneSignal] Initialization successful!');
+      console.log('[OneSignal] Initialization complete');
 
-      // Add slide prompt after init
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
       try {
-        await OneSignal.Slidedown.promptPushCategories({
-          autoPrompt: true,
-          slidedownPromptOptions: {
-            actionMessage: "Chcete dostávat oznámení o nových článcích?",
-            acceptButtonText: "Ano",
-            cancelButtonText: "Ne",
-          }
-        });
-        console.log('[OneSignal] Slidedown prompt added');
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
       } catch (e) {
-        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+        console.log('[OneSignal] Slidedown error:', e.message);
       }
 
-      // Check final state
+      // Check permission status
       const permission = await OneSignal.Notifications.permission;
       console.log('[OneSignal] Permission status:', permission);
 
     } catch (error) {
-      console.error('[OneSignal] Error during initialization:', error);
-      console.error('[OneSignal] Error message:', error.message);
-      console.error('[OneSignal] Error stack:', error.stack);
+      console.error('[OneSignal] Error:', error.message);
     }
   });
-
-  // Verify SDK loaded
-  setTimeout(() => {
-    console.log('[OneSignal] Verification - OneSignal SDK status:');
-    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
-    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
-  }, 2000);
 </script>
 
 
@@ -458,10 +467,11 @@ Jen tak dále se zákaznickými aplikacemi. Ačkoliv, abych řekl pravdu, v okam
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>
@@ -469,10 +479,12 @@ Jen tak dále se zákaznickými aplikacemi. Ačkoliv, abych řekl pravdu, v okam
           
             <tr>
               <td>
-                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
                 <p class="excerpt">
                   
-                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
                   
                 </p>
               </td>

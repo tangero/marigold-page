@@ -68,62 +68,71 @@
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   console.log('[OneSignal] Script starting...');
-  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
-  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
 
   window.OneSignalDeferred = window.OneSignalDeferred || [];
 
   OneSignalDeferred.push(async function(OneSignal) {
     try {
-      console.log('[OneSignal] Callback executed, OneSignal object available');
+      console.log('[OneSignal] Initializing OneSignal SDK');
 
-      // Basic minimal configuration first
+      // Initialize OneSignal with minimal config
       const config = {
         appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
         notifyButton: {
           enable: true,
           position: "bottom-right",
           size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
         }
       };
 
-      console.log('[OneSignal] Initializing with config:', config);
-
       await OneSignal.init(config);
-      console.log('[OneSignal] Initialization successful!');
+      console.log('[OneSignal] Initialization complete');
 
-      // Add slide prompt after init
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
       try {
-        await OneSignal.Slidedown.promptPushCategories({
-          autoPrompt: true,
-          slidedownPromptOptions: {
-            actionMessage: "Chcete dostávat oznámení o nových článcích?",
-            acceptButtonText: "Ano",
-            cancelButtonText: "Ne",
-          }
-        });
-        console.log('[OneSignal] Slidedown prompt added');
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
       } catch (e) {
-        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+        console.log('[OneSignal] Slidedown error:', e.message);
       }
 
-      // Check final state
+      // Check permission status
       const permission = await OneSignal.Notifications.permission;
       console.log('[OneSignal] Permission status:', permission);
 
     } catch (error) {
-      console.error('[OneSignal] Error during initialization:', error);
-      console.error('[OneSignal] Error message:', error.message);
-      console.error('[OneSignal] Error stack:', error.stack);
+      console.error('[OneSignal] Error:', error.message);
     }
   });
-
-  // Verify SDK loaded
-  setTimeout(() => {
-    console.log('[OneSignal] Verification - OneSignal SDK status:');
-    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
-    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
-  }, 2000);
 </script>
 
 
@@ -384,31 +393,31 @@ A to už je obraz Eva…</p>
           
             
               <tr>
-                <td>Marcel Duchamp</td>
-                <td><a href="/obrazy/marcel-duchamp-fountain/">Fontána</a></td>
-                <td>
-                  
-                    <a href="/obrazy/marcel-duchamp-fountain/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/marcel-duchamp-fountain.jpg" alt="Marcel Duchamp - Fontána / Fountain" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Friedensreich Hundertwasser</td>
-                <td><a href="/obrazy/hundertwasser-hommage-au-tachisme/">Hommage au Tachisme</a></td>
-                <td>
-                  
-                    <a href="/obrazy/hundertwasser-hommage-au-tachisme/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hundertwasser-hommage.jpeg" alt="Friedensreich Hundertwasser - Hommage au Tachisme (1961)" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
                 <td>Georges Seurat</td>
                 <td><a href="/obrazy/georges-seurat-koupani-v-asnieres/">Koupání v Asnieres</a></td>
                 <td>
                   
                     <a href="/obrazy/georges-seurat-koupani-v-asnieres/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-2754.jpeg" alt="Georges Seurat - Koupání v Asnieres" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Joan Miró</td>
+                <td><a href="/obrazy/joan-miro-mont-roig-del-camp/">Mont-roig del Camp</a></td>
+                <td>
+                  
+                    <a href="/obrazy/joan-miro-mont-roig-del-camp/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/joan-miro-mont-roig-del-camp.jpeg" alt="Joan Miró - Mont-roig del Camp" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Josef Istler</td>
+                <td><a href="/obrazy/josef-istler-nadro/">Ňadro / Figura</a></td>
+                <td>
+                  
+                    <a href="/obrazy/josef-istler-nadro/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/josef-istler-nadro-figura-1953.jpg" alt="Josef Istler - Nadro / Figura (1953)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -454,10 +463,12 @@ A to už je obraz Eva…</p>
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
                   
                 </p>
               </td>
@@ -465,10 +476,10 @@ A to už je obraz Eva…</p>
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
                   
                 </p>
               </td>

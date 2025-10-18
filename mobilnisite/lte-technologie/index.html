@@ -68,62 +68,71 @@
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   console.log('[OneSignal] Script starting...');
-  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
-  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
 
   window.OneSignalDeferred = window.OneSignalDeferred || [];
 
   OneSignalDeferred.push(async function(OneSignal) {
     try {
-      console.log('[OneSignal] Callback executed, OneSignal object available');
+      console.log('[OneSignal] Initializing OneSignal SDK');
 
-      // Basic minimal configuration first
+      // Initialize OneSignal with minimal config
       const config = {
         appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
         notifyButton: {
           enable: true,
           position: "bottom-right",
           size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
         }
       };
 
-      console.log('[OneSignal] Initializing with config:', config);
-
       await OneSignal.init(config);
-      console.log('[OneSignal] Initialization successful!');
+      console.log('[OneSignal] Initialization complete');
 
-      // Add slide prompt after init
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
       try {
-        await OneSignal.Slidedown.promptPushCategories({
-          autoPrompt: true,
-          slidedownPromptOptions: {
-            actionMessage: "Chcete dostávat oznámení o nových článcích?",
-            acceptButtonText: "Ano",
-            cancelButtonText: "Ne",
-          }
-        });
-        console.log('[OneSignal] Slidedown prompt added');
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
       } catch (e) {
-        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+        console.log('[OneSignal] Slidedown error:', e.message);
       }
 
-      // Check final state
+      // Check permission status
       const permission = await OneSignal.Notifications.permission;
       console.log('[OneSignal] Permission status:', permission);
 
     } catch (error) {
-      console.error('[OneSignal] Error during initialization:', error);
-      console.error('[OneSignal] Error message:', error.message);
-      console.error('[OneSignal] Error stack:', error.stack);
+      console.error('[OneSignal] Error:', error.message);
     }
   });
-
-  // Verify SDK loaded
-  setTimeout(() => {
-    console.log('[OneSignal] Verification - OneSignal SDK status:');
-    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
-    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
-  }, 2000);
 </script>
 
 
@@ -508,10 +517,12 @@ prosinec
           
             <tr>
               <td>
-                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
                 <p class="excerpt">
                   
-                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
                   
                 </p>
               </td>
@@ -519,10 +530,10 @@ prosinec
           
             <tr>
               <td>
-                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>

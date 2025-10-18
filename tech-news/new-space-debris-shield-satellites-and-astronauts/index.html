@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní 'vesmírné zbroje | Marigold.cz - Sítě a Technologie</title>
+    <title>Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního 'vesmírného brnění | Marigold.cz - Sítě a Technologie</title>
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní ‘vesmírné zbroje" />
+<meta property="og:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního ‘vesmírného brnění" />
 <meta name="author" content="Patrick Zandl" />
 <meta property="og:locale" content="cs" />
 <meta name="description" content="Vzali jsme to na výrobu dlaždice a byli jsme ohromeni výsledky testů." />
@@ -15,9 +15,9 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-10-16T13:01:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní ‘vesmírné zbroje" />
+<meta property="twitter:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního ‘vesmírného brnění" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-16T13:01:00+00:00","datePublished":"2025-10-16T13:01:00+00:00","description":"Vzali jsme to na výrobu dlaždice a byli jsme ohromeni výsledky testů.","headline":"Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní ‘vesmírné zbroje","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/new-space-debris-shield-satellites-and-astronauts/"},"url":"https://www.marigold.cz/tech-news/new-space-debris-shield-satellites-and-astronauts/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-16T13:01:00+00:00","datePublished":"2025-10-16T13:01:00+00:00","description":"Vzali jsme to na výrobu dlaždice a byli jsme ohromeni výsledky testů.","headline":"Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního ‘vesmírného brnění","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/new-space-debris-shield-satellites-and-astronauts/"},"url":"https://www.marigold.cz/tech-news/new-space-debris-shield-satellites-and-astronauts/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -33,8 +33,8 @@
     <meta name="author" content="Marigold.cz" />
 
     
-    <meta property="og:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní 'vesmírné zbroje" />
-    <meta property="twitter:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní 'vesmírné zbroje" />
+    <meta property="og:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního 'vesmírného brnění" />
+    <meta property="twitter:title" content="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního 'vesmírného brnění" />
     
 
     
@@ -68,62 +68,71 @@
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   console.log('[OneSignal] Script starting...');
-  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
-  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
 
   window.OneSignalDeferred = window.OneSignalDeferred || [];
 
   OneSignalDeferred.push(async function(OneSignal) {
     try {
-      console.log('[OneSignal] Callback executed, OneSignal object available');
+      console.log('[OneSignal] Initializing OneSignal SDK');
 
-      // Basic minimal configuration first
+      // Initialize OneSignal with minimal config
       const config = {
         appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
         notifyButton: {
           enable: true,
           position: "bottom-right",
           size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
         }
       };
 
-      console.log('[OneSignal] Initializing with config:', config);
-
       await OneSignal.init(config);
-      console.log('[OneSignal] Initialization successful!');
+      console.log('[OneSignal] Initialization complete');
 
-      // Add slide prompt after init
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
       try {
-        await OneSignal.Slidedown.promptPushCategories({
-          autoPrompt: true,
-          slidedownPromptOptions: {
-            actionMessage: "Chcete dostávat oznámení o nových článcích?",
-            acceptButtonText: "Ano",
-            cancelButtonText: "Ne",
-          }
-        });
-        console.log('[OneSignal] Slidedown prompt added');
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
       } catch (e) {
-        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+        console.log('[OneSignal] Slidedown error:', e.message);
       }
 
-      // Check final state
+      // Check permission status
       const permission = await OneSignal.Notifications.permission;
       console.log('[OneSignal] Permission status:', permission);
 
     } catch (error) {
-      console.error('[OneSignal] Error during initialization:', error);
-      console.error('[OneSignal] Error message:', error.message);
-      console.error('[OneSignal] Error stack:', error.stack);
+      console.error('[OneSignal] Error:', error.message);
     }
   });
-
-  // Verify SDK loaded
-  setTimeout(() => {
-    console.log('[OneSignal] Verification - OneSignal SDK status:');
-    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
-    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
-  }, 2000);
 </script>
 
 
@@ -187,7 +196,7 @@
       </div>
     </div>
 
-    <h1 class="article-title">Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní 'vesmírné zbroje</h1>
+    <h1 class="article-title">Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního 'vesmírného brnění</h1>
 
     <div class="article-meta">
       <time datetime="2025-10-16T13:01:00+00:00">16.10.2025 13:01</time>
@@ -197,7 +206,7 @@
 
   
   <div class="article-image">
-    <img src="https://cdn.mos.cms.futurecdn.net/naQtry7CedNEFLbjen6Rqe-1920-80.jpg" alt="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativní 'vesmírné zbroje" loading="lazy">
+    <img src="https://cdn.mos.cms.futurecdn.net/naQtry7CedNEFLbjen6Rqe-1920-80.jpg" alt="Nová ochrana proti vesmírnému smetí? Satelity a astronauti se mohou obléknout do inovativního 'vesmírného brnění" loading="lazy">
   </div>
   
 

@@ -68,62 +68,71 @@
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   console.log('[OneSignal] Script starting...');
-  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
-  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
 
   window.OneSignalDeferred = window.OneSignalDeferred || [];
 
   OneSignalDeferred.push(async function(OneSignal) {
     try {
-      console.log('[OneSignal] Callback executed, OneSignal object available');
+      console.log('[OneSignal] Initializing OneSignal SDK');
 
-      // Basic minimal configuration first
+      // Initialize OneSignal with minimal config
       const config = {
         appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
         notifyButton: {
           enable: true,
           position: "bottom-right",
           size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
         }
       };
 
-      console.log('[OneSignal] Initializing with config:', config);
-
       await OneSignal.init(config);
-      console.log('[OneSignal] Initialization successful!');
+      console.log('[OneSignal] Initialization complete');
 
-      // Add slide prompt after init
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
       try {
-        await OneSignal.Slidedown.promptPushCategories({
-          autoPrompt: true,
-          slidedownPromptOptions: {
-            actionMessage: "Chcete dostávat oznámení o nových článcích?",
-            acceptButtonText: "Ano",
-            cancelButtonText: "Ne",
-          }
-        });
-        console.log('[OneSignal] Slidedown prompt added');
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
       } catch (e) {
-        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+        console.log('[OneSignal] Slidedown error:', e.message);
       }
 
-      // Check final state
+      // Check permission status
       const permission = await OneSignal.Notifications.permission;
       console.log('[OneSignal] Permission status:', permission);
 
     } catch (error) {
-      console.error('[OneSignal] Error during initialization:', error);
-      console.error('[OneSignal] Error message:', error.message);
-      console.error('[OneSignal] Error stack:', error.stack);
+      console.error('[OneSignal] Error:', error.message);
     }
   });
-
-  // Verify SDK loaded
-  setTimeout(() => {
-    console.log('[OneSignal] Verification - OneSignal SDK status:');
-    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
-    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
-  }, 2000);
 </script>
 
 
@@ -460,12 +469,10 @@ květen
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/apple-csam-detska-pornografie/">👉Apple jde do dětského porna</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Apple nově představil  [technologii pro odhalování takzvané CSAM (Child Sexual Abuse Material)](https://www.apple.com/child-safety/), tedy dětské pornografie...
                   
                 </p>
               </td>
@@ -473,10 +480,10 @@ Poznatek první: umělá intel...
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>

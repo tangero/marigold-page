@@ -68,62 +68,71 @@
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   console.log('[OneSignal] Script starting...');
-  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
-  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
 
   window.OneSignalDeferred = window.OneSignalDeferred || [];
 
   OneSignalDeferred.push(async function(OneSignal) {
     try {
-      console.log('[OneSignal] Callback executed, OneSignal object available');
+      console.log('[OneSignal] Initializing OneSignal SDK');
 
-      // Basic minimal configuration first
+      // Initialize OneSignal with minimal config
       const config = {
         appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
         notifyButton: {
           enable: true,
           position: "bottom-right",
           size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
         }
       };
 
-      console.log('[OneSignal] Initializing with config:', config);
-
       await OneSignal.init(config);
-      console.log('[OneSignal] Initialization successful!');
+      console.log('[OneSignal] Initialization complete');
 
-      // Add slide prompt after init
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
       try {
-        await OneSignal.Slidedown.promptPushCategories({
-          autoPrompt: true,
-          slidedownPromptOptions: {
-            actionMessage: "Chcete dostávat oznámení o nových článcích?",
-            acceptButtonText: "Ano",
-            cancelButtonText: "Ne",
-          }
-        });
-        console.log('[OneSignal] Slidedown prompt added');
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
       } catch (e) {
-        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+        console.log('[OneSignal] Slidedown error:', e.message);
       }
 
-      // Check final state
+      // Check permission status
       const permission = await OneSignal.Notifications.permission;
       console.log('[OneSignal] Permission status:', permission);
 
     } catch (error) {
-      console.error('[OneSignal] Error during initialization:', error);
-      console.error('[OneSignal] Error message:', error.message);
-      console.error('[OneSignal] Error stack:', error.stack);
+      console.error('[OneSignal] Error:', error.message);
     }
   });
-
-  // Verify SDK loaded
-  setTimeout(() => {
-    console.log('[OneSignal] Verification - OneSignal SDK status:');
-    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
-    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
-  }, 2000);
 </script>
 
 
@@ -328,31 +337,31 @@
           
             
               <tr>
-                <td>Naděžda Udalcová</td>
-                <td><a href="/obrazy/nadezda-udalcova-kuchyne/">Kuchyně</a></td>
+                <td>Jean-Honoré Fragonard</td>
+                <td><a href="/obrazy/jean-honore-fragonard-the-swing/">Houpačka</a></td>
                 <td>
                   
-                    <a href="/obrazy/nadezda-udalcova-kuchyne/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-7722.jpeg" alt="Naděžda Udalcová - Kuchyně" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/jean-honore-fragonard-the-swing/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jean-honore-fragonard-the-swing.jpg" alt="Jean-Honoré Fragonard - Houpačka / The Swing" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Ferrari Sheppard</td>
-                <td><a href="/obrazy/ferrari-sheppard-my-name-is-sarah/">Jméno mé je Sarah</a></td>
+                <td>Milan Kunc</td>
+                <td><a href="/obrazy/milan-kunc-amor-a-psyche/">Amor a Psyche</a></td>
                 <td>
                   
-                    <a href="/obrazy/ferrari-sheppard-my-name-is-sarah/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/ferrari-sheppard-my-name-is-sarah.jpg" alt="Ferrari Sheppard - Jméno mé je Sarah" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/milan-kunc-amor-a-psyche/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-3701.jpeg" alt="Milan Kunc -  Amor a Psyche" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Salvador Dalí</td>
-                <td><a href="/obrazy/salvador-dali-the-persistence-of-memory/">Stálost paměti</a></td>
+                <td>Olaolu Slawn</td>
+                <td><a href="/obrazy/olaolu-slawn/">Young black n thriving</a></td>
                 <td>
                   
-                    <a href="/obrazy/salvador-dali-the-persistence-of-memory/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/salvador-dali-the-persistence-of-memory.jpg" alt="Salvador Dalí - Stálost paměti / The Persistence of Memory" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/olaolu-slawn/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/slawn-obrazy.png" alt="Olaolu Slawn - Young black n thriving (2021)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -398,10 +407,10 @@
           
             <tr>
               <td>
-                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>
@@ -409,10 +418,10 @@
           
             <tr>
               <td>
-                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
                   
                 </p>
               </td>
