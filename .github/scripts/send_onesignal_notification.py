@@ -139,56 +139,81 @@ def check_git_changes():
         posts_changes = [f for f in changed_files if f.startswith('_posts/')]
 
         if not posts_changes:
-            print("⚠️  No changes in _posts/ directory detected")
+            print("⚠️ Žádné změny v _posts/ adresáři detekovány")
             return False
 
         return True
     except Exception as e:
-        print(f"⚠️  Could not check git changes: {e}")
+        print(f"⚠️ Nepodařilo se zkontrolovat git změny: {e}")
         # Fallback - allow notification if we can't check
+        return True
+
+
+def is_new_article(file_path):
+    """Check if the article is new (first commit) or an edit (multiple commits)."""
+    try:
+        # Počet commitů pro tento soubor
+        result = os.popen(f'git log --oneline "{file_path}" 2>/dev/null | wc -l').read().strip()
+        commit_count = int(result) if result.isdigit() else 0
+
+        if commit_count <= 1:
+            print(f"✨ Nový článek detekován (prvn commit): {file_path}")
+            return True
+        else:
+            print(f"✏️ Oprava detekována ({commit_count} commitů): {file_path}")
+            return False
+
+    except Exception as e:
+        print(f"⚠️ Chyba při kontrole git historie: {e}")
+        # Fallback - assume it's new if we can't determine
         return True
 
 
 def main():
     """Main function."""
     print("🔔 OneSignal Notification Sender")
-    print(f"⏰ Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"⏰ Čas: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("-" * 50)
 
     # Check if this is from _posts directory
     if not check_git_changes():
-        print("⚠️  Skipping notification - not a post change")
+        print("⚠️ Přeskakuji notifikaci - není změna v _posts/")
         return 0
 
     # Get latest post
     latest_post = get_latest_post()
     if not latest_post:
-        print("⚠️  No posts to notify about. Exiting.")
+        print("⚠️ Žádné články k upozornění. Ukončuji.")
         return 0
 
-    print(f"📝 Latest post: {latest_post.name}")
+    print(f"📝 Nejnovější článek: {latest_post.name}")
+
+    # Check if it's a new article or just an edit
+    if not is_new_article(str(latest_post)):
+        print("✏️ Skipping notification - article was edited, not new")
+        return 0
 
     # Extract metadata
     metadata = extract_post_metadata(latest_post)
     if not metadata:
-        print("❌ Failed to extract post metadata")
+        print("❌ Selhalo extrahování metadat")
         return 1
 
-    print(f"📰 Title: {metadata['title']}")
-    print(f"📄 Summary: {metadata['summary']}")
+    print(f"📰 Titulek: {metadata['title']}")
+    print(f"📄 Shrnutí: {metadata['summary']}")
     print("-" * 50)
 
     # Send notification
     success = send_onesignal_notification(
-        title=f"Nový článek: {metadata['title']}",
+        title=f"🆕 Nový článek: {metadata['title']}",
         message=metadata['summary']
     )
 
     if success:
-        print("✅ Process completed successfully")
+        print("✅ Proces úspěšně dokončen")
         return 0
     else:
-        print("❌ Process failed")
+        print("❌ Proces selhal")
         return 1
 
 
