@@ -1,34 +1,61 @@
 <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
+  console.log('[OneSignal] Script starting...');
+  console.log('[OneSignal] OneSignal available:', typeof OneSignal !== 'undefined');
+  console.log('[OneSignal] OneSignalDeferred available:', typeof OneSignalDeferred !== 'undefined');
+
   window.OneSignalDeferred = window.OneSignalDeferred || [];
+
   OneSignalDeferred.push(async function(OneSignal) {
-    await OneSignal.init({
-      appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
-      safari_web_id: "web.onesignal.auto.0e731bf1-0f8d-4c8c-8593-03e4c907000a",
-      notifyButton: {
-        enable: true,
-        position: "bottom-right",
-        size: "medium",
-        showCredit: false,
-        text: {
-          "button.subscribe": "Přihlásit se k oznámením",
-          "button.unsubscribe": "Odhlásit se od oznámení",
-          "prompt.message": "Chcete dostávat oznámení o nových článcích?",
-          "prompt.cancelButtonText": "Ne",
-          "prompt.acceptButton": "Ano",
-        },
-      },
-      // Slide prompt - automaticky se zobrazí na některých prohlížečích
-      prompts: [
-        {
-          type: "slide",
+    try {
+      console.log('[OneSignal] Callback executed, OneSignal object available');
+
+      // Basic minimal configuration first
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+        }
+      };
+
+      console.log('[OneSignal] Initializing with config:', config);
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization successful!');
+
+      // Add slide prompt after init
+      try {
+        await OneSignal.Slidedown.promptPushCategories({
           autoPrompt: true,
-          text: {
-            "message": "Chcete dostávat oznámení o nových článcích?",
-          },
-        },
-      ],
-    });
+          slidedownPromptOptions: {
+            actionMessage: "Chcete dostávat oznámení o nových článcích?",
+            acceptButtonText: "Ano",
+            cancelButtonText: "Ne",
+          }
+        });
+        console.log('[OneSignal] Slidedown prompt added');
+      } catch (e) {
+        console.log('[OneSignal] Slidedown not available (might be expected):', e.message);
+      }
+
+      // Check final state
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error during initialization:', error);
+      console.error('[OneSignal] Error message:', error.message);
+      console.error('[OneSignal] Error stack:', error.stack);
+    }
   });
+
+  // Verify SDK loaded
+  setTimeout(() => {
+    console.log('[OneSignal] Verification - OneSignal SDK status:');
+    console.log('[OneSignal] - OneSignal object:', typeof window.OneSignal);
+    console.log('[OneSignal] - OneSignalDeferred:', Array.isArray(window.OneSignalDeferred));
+  }, 2000);
 </script>
