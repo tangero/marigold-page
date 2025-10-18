@@ -6,7 +6,7 @@ companies:
 date: '2025-10-15 20:36:52'
 description: DeepMindův model "Cell2Sentence-Scale" s 27 miliardami parametrů identifikoval
   kombinaci léků, která činí nádory viditelnější pro imunitní systém, což Google označuje
-  jako "milník pro AI v oblasti vědy".
+  jako "milník pro AI ve vědě".
 importance: 5
 layout: tech_news_article
 original_title: Google’s AI Cracks a New Cancer Code - Decrypt
@@ -22,7 +22,7 @@ urlToImage: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/202
 urlToImageBackup: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png
 ---
 
-DeepMindův model "Cell2Sentence-Scale" s 27 miliardami parametrů identifikoval kombinaci léků, která činí nádory viditelnější pro imunitní systém, což Google označuje jako "milník pro AI v oblasti vědy".
+DeepMindův model "Cell2Sentence-Scale" s 27 miliardami parametrů identifikoval kombinaci léků, která činí nádory viditelnější pro imunitní systém, což Google označuje jako "milník pro AI ve vědě".
 
 [Číst původní článek](https://decrypt.co/344454/google-ai-cracks-new-cancer-code)
 

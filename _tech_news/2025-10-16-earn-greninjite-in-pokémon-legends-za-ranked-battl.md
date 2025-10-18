@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Pokemon.com
-title: 'Získejte Greninjite v Pokémon Legends: Z‑A Ranked Battles Season 1 (říjen
-  2025) - Pokemon.com'
+title: Získejte Greninjite v sezóně 1 Z‑A Ranked Battles hry Pokémon Legends (říjen
+  2025) - Pokemon.com
 url: https://www.pokemon.com/us/pokemon-news/earn-greninjite-in-pokemon-legends-z-a-ranked-battles-season-1-october-2025
 urlToImage: https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-legends-z-a/events/2025/10/15/pokemon-legends-z-a-169-en.png
 urlToImageBackup: https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-legends-z-a/events/2025/10/15/pokemon-legends-z-a-169-en.png

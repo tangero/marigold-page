@@ -1,9 +1,9 @@
 ---
-category: herní průmysl
+category: nekrolog
 date: '2025-10-16 14:36:19'
-description: Dne 16. října odhalil účet Facebooku Tomonobuho Itagakiho, že herní vývojář
-  ve věku 58 let zemřel. Od fanoušků a dalších herních vývojářů, zejména z jeho domovského
-  Japonska, se sypou pocty tvůrci série Dead or Alive.
+description: Dne 16. října odhalil facebookový účet Tomonobua Itagakiho, že herní
+  vývojář zemřel ve věku 58 let. Od fanoušků i kolegů herních vývojářů, zejména v
+  jeho domovském Japonsku, se sypou pocty tvůrci série Dead or Alive.
 importance: 3
 layout: tech_news_article
 original_title: Masahiro Sakurai, Katsuhiro Harada, and More Japanese Video Game Developers
@@ -25,7 +25,7 @@ urlToImage: https://assets-prd.ignimgs.com/2025/10/16/screenshot-2025-10-16-1532
 urlToImageBackup: https://assets-prd.ignimgs.com/2025/10/16/screenshot-2025-10-16-153251-1760625232681.png?width=1280&format=jpg&auto=webp&quality=80
 ---
 
-Dne 16. října odhalil účet Facebooku Tomonobuho Itagakiho, že herní vývojář ve věku 58 let zemřel. Od fanoušků a dalších herních vývojářů, zejména z jeho domovského Japonska, se sypou pocty tvůrci série Dead or Alive.
+Dne 16. října odhalil facebookový účet Tomonobua Itagakiho, že herní vývojář zemřel ve věku 58 let. Od fanoušků i kolegů herních vývojářů, zejména v jeho domovském Japonsku, se sypou pocty tvůrci série Dead or Alive.
 
 [Číst původní článek](https://www.ign.com/articles/masahiro-sakurai-katsuhiro-harada-and-more-japanese-video-game-developers-pay-tribute-to-dead-or-alive-creator-tomonobu-itagaki-who-has-died-aged-58)
 

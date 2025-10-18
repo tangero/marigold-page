@@ -1,11 +1,11 @@
 ---
-category: hardwarové inovace
+category: hardwarové novinky
 companies:
 - Apple
 date: '2025-10-17 00:46:00'
-description: Podle zprávy společnosti Bloomberg chystá Apple pro své další hlavní
+description: Podle zprávy společnosti Bloomberg chystá Apple pro své příští hlavní
   revize MacBooku Pro přidání dotykových obrazovek a OLED displejů, a to buď na konci
-  roku 2026, nebo na začátku roku 2027.
+  roku 2026, nebo začátkem roku 2027.
 importance: 5
 layout: tech_news_article
 original_title: MacBook Pro rumor points to OLED, touchscreen upgrades next year -
@@ -22,7 +22,7 @@ urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uplo
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
-Podle zprávy společnosti Bloomberg chystá Apple pro své další hlavní revize MacBooku Pro přidání dotykových obrazovek a OLED displejů, a to buď na konci roku 2026, nebo na začátku roku 2027.
+Podle zprávy společnosti Bloomberg chystá Apple pro své příští hlavní revize MacBooku Pro přidání dotykových obrazovek a OLED displejů, a to buď na konci roku 2026, nebo začátkem roku 2027.
 
 [Číst původní článek](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
 

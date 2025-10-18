@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Gematsu
-title: Nová PvE režie 'Zombie Mode' oznámena pro Marvel Rivals
+title: Oznámení prvního režimu PvE 'Zombie Mode' pro Marvel Rivals
 url: https://www.gematsu.com/2025/10/marvel-rivals-first-ever-pve-mode-zombie-mode-announced
 urlToImage: https://www.gematsu.com/wp-content/uploads/2025/10/Marvel-Rivals-Zombies_10-17-25.jpg
 urlToImageBackup: https://www.gematsu.com/wp-content/uploads/2025/10/Marvel-Rivals-Zombies_10-17-25.jpg

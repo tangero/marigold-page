@@ -5,8 +5,7 @@ companies:
 - Blizzard Entertainment
 date: '2025-10-15 16:01:00'
 description: Téměř 400 zaměstnanců se organizovalo do dvou odborů, které pokrývají
-  všechny druhy pracovních míst v odděleních Platform a Technology společnosti Blizzard
-  Entertainment.
+  všechny druhy pozic v odděleních Platform a Technology společnosti Blizzard Entertainment.
 importance: 3
 layout: tech_news_article
 original_title: Battle.net Workers Unionize As Microsoft Neutrality Agreement Expires
@@ -23,7 +22,7 @@ urlToImage: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/0
 urlToImageBackup: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/08/shutterstock_2196494309.jpg
 ---
 
-Téměř 400 zaměstnanců se organizovalo do dvou odborů, které pokrývají všechny druhy pracovních míst v odděleních Platform a Technology společnosti Blizzard Entertainment.
+Téměř 400 zaměstnanců se organizovalo do dvou odborů, které pokrývají všechny druhy pozic v odděleních Platform a Technology společnosti Blizzard Entertainment.
 
 [Číst původní článek](https://aftermath.site/battle-net-workers-unionize-blizzard-entertainment-cwa)
 

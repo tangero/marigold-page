@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Antropická společnost přináší Claudovi mimořádné schopnosti
+title: Antropická společnost přináší Claudovi skvělé dovednosti
 url: https://www.theregister.com/2025/10/16/anthropic_mad_skills_claude/
 urlToImage: https://regmedia.co.uk/2025/04/25/shutterstock_robot_teachers.jpg
 urlToImageBackup: https://regmedia.co.uk/2025/04/25/shutterstock_robot_teachers.jpg

@@ -13,7 +13,7 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: 'Pokus o narušení pilotního dílu seriálu ''Star Trek: Voyager'
+title: 'Pokus o úplné zpackání pilotního dílu ''Star Trek: Voyager'
 url: https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198
 urlToImage: https://gizmodo.com/app/uploads/2025/10/star-trek-voyager-across-the-unknown-demo-impressions-1200x675.jpg
 urlToImageBackup: https://gizmodo.com/app/uploads/2025/10/star-trek-voyager-across-the-unknown-demo-impressions-1200x675.jpg

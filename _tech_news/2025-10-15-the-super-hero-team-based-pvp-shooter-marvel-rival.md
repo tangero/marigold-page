@@ -1,7 +1,7 @@
 ---
 category: herní průmysl
 date: '2025-10-15 14:27:07'
-description: Hraj zdarma nyní! Připrav se na Ignite the Battle s Marvel Rivals!
+description: Hraj zdarma Nyní! Připrav se Zapálit Bitvu s Marvel Rivals!
 importance: 3
 layout: tech_news_article
 original_title: The Super Hero Team-based PVP Shooter - Marvel Rivals
@@ -17,7 +17,7 @@ urlToImage: https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg
 urlToImageBackup: https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg
 ---
 
-Hraj zdarma nyní! Připrav se na Ignite the Battle s Marvel Rivals!
+Hraj zdarma Nyní! Připrav se Zapálit Bitvu s Marvel Rivals!
 
 [Číst původní článek](https://www.marvelrivals.com/gameupdate/20251015/41548_1264918.html)
 

@@ -1,11 +1,12 @@
 ---
-category: odchody zaměstnanců
+category: personální změny
 companies:
 - Apple
 - Meta
 date: '2025-10-16 15:21:03'
 description: Yangovo odchození označuje nejnovější v řadě odchodů z AI jednotky Applu,
-  což staví společnost do ohrožení před očekávanou revizí Siri plánovanou na březen.
+  což společnost staví do ohrožení před očekávaným přepracováním Siri plánovaným na
+  březen.
 importance: 3
 layout: tech_news_article
 original_title: Apple loses another AI exec to Meta - TechCrunch
@@ -23,7 +24,7 @@ urlToImage: https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800
 ---
 
-Yangovo odchození označuje nejnovější v řadě odchodů z AI jednotky Applu, což staví společnost do ohrožení před očekávanou revizí Siri plánovanou na březen.
+Yangovo odchození označuje nejnovější v řadě odchodů z AI jednotky Applu, což společnost staví do ohrožení před očekávaným přepracováním Siri plánovaným na březen.
 
 [Číst původní článek](https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/)
 

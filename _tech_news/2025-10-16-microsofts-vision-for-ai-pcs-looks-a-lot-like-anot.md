@@ -1,5 +1,5 @@
 ---
-category: ai asistent
+category: umělá inteligence
 companies:
 - Microsoft
 date: '2025-10-16 21:12:48'

@@ -15,8 +15,7 @@ source:
   emoji: 📰
   id: null
   name: PCWorld
-title: Rozšířený program aktualizací Windows 10 se nezobrazuje? Toto je postup, co
-  dělat
+title: Rozšířený program aktualizací Windows 10 se nezobrazuje? Toto je řešení
 url: https://www.pcworld.com/article/2944058/windows-10-extended-updates-program-not-showing-up-heres-what-to-do.html
 urlToImage: https://www.pcworld.com/wp-content/uploads/2025/10/monticello-Shutterstock.com_-1.jpg?quality=50&strip=all&w=1024
 urlToImageBackup: https://www.pcworld.com/wp-content/uploads/2025/10/monticello-Shutterstock.com_-1.jpg?quality=50&strip=all&w=1024

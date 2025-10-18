@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-10-16 17:59:05'
-description: Hlavní zlepšení kvality života spočívá v tom, že je snazší než kdy dříve
-  najít tyto alternativně zbarvené jedince.
+description: Hlavní zlepšení kvality života spočívá v tom, že je nyní snazší než kdy
+  předtím najít tyto alternativně zbarvené jedince.
 importance: 5
 layout: tech_news_article
 original_title: 'Pokémon Legends: Z-A Has Changed Shiny Hunting Forever, And Not Everyone’s
@@ -19,7 +19,7 @@ urlToImage: https://kotaku.com/app/uploads/2025/10/bafkreiajsmjdqodwtjfa5tpffbk2
 urlToImageBackup: https://kotaku.com/app/uploads/2025/10/bafkreiajsmjdqodwtjfa5tpffbk26v5-1200x675.jpg
 ---
 
-Hlavní zlepšení kvality života spočívá v tom, že je snazší než kdy dříve najít tyto alternativně zbarvené jedince.
+Hlavní zlepšení kvality života spočívá v tom, že je nyní snazší než kdy předtím najít tyto alternativně zbarvené jedince.
 
 [Číst původní článek](https://kotaku.com/pokemon-legends-z-a-shiny-hunting-despawn-sound-effect-2000636142)
 

@@ -17,7 +17,7 @@ source:
   id: null
   name: GamesIndustry.biz
 title: Společnost Sony kritizuje obhajobu společnosti Tencent ohledně "napodobeniny"
-  hry Horizon Light of Motiram, tvrdí, že "škoda je již způsobena a pokračuje".
+  hry Horizon - Light of Motiram, tvrdí, že "škoda je již způsobena a pokračuje".
 url: https://www.gamesindustry.biz/sony-slams-tencents-defence-of-horizon-knock-off-light-of-motiram-claiming-the-damage-is-done-and-it-continues
 urlToImage: https://assetsio.gnwcdn.com/Light-of-Motiram-Screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
 urlToImageBackup: https://assetsio.gnwcdn.com/Light-of-Motiram-Screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp
