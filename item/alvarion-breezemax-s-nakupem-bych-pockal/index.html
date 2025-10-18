@@ -58,12 +58,18 @@ Včera jsem psal o tom, jak chlapci z Alvarionu přišli s první WiMax kompatib
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -87,6 +93,12 @@ Včera jsem psal o tom, jak chlapci z Alvarionu přišli s první WiMax kompatib
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -462,10 +474,10 @@ Takže pokud už jste včera rozbíjeli své prasátko, ještě bych s nákupem 
           
             <tr>
               <td>
-                <a href="/item/apple-csam-detska-pornografie/">👉Apple jde do dětského porna</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Apple nově představil  [technologii pro odhalování takzvané CSAM (Child Sexual Abuse Material)](https://www.apple.com/child-safety/), tedy dětské pornografie...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>
@@ -473,10 +485,10 @@ Takže pokud už jste včera rozbíjeli své prasátko, ještě bych s nákupem 
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>

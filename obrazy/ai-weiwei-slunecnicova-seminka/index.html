@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -351,31 +363,31 @@
           
             
               <tr>
-                <td>Vasilij Kandinský</td>
-                <td><a href="/obrazy/vasilij-kandinsky-milieu-jaune/">Milieu jaune</a></td>
+                <td>Edward Hopper</td>
+                <td><a href="/obrazy/edward-hopper-nighthawks/">Noční ptáci</a></td>
                 <td>
                   
-                    <a href="/obrazy/vasilij-kandinsky-milieu-jaune/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg" alt="Vasilij Kandinský - Milieu jaune " style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/edward-hopper-nighthawks/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/edward-hopper-nighthawks.jpg" alt="Edward Hopper - Noční ptáci / Nighthawks" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Ai Weiwei</td>
-                <td><a href="/obrazy/ai-weiwei-slunecnicova-seminka/">Slunečnicová Semínka</a></td>
+                <td>Katsushika Hokusai</td>
+                <td><a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/">Velká vlna u Kanagawy</a></td>
                 <td>
                   
-                    <a href="/obrazy/ai-weiwei-slunecnicova-seminka/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/ai-weiwei-sunflower-seeds-tate-modern-london-may-2-2011.jpg" alt="Ai Weiwei - Slunečnicová Semínka (2010) " style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.jpg" alt="Katsushika Hokusai - Velká vlna u Kanagawy / The Great Wave off Kanagawa" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Matěj Lipavský</td>
-                <td><a href="/obrazy/matej-lipavsky/">Zimní zahrada</a></td>
+                <td>Georges Seurat</td>
+                <td><a href="/obrazy/georges-seurat-koupani-v-asnieres/">Koupání v Asnieres</a></td>
                 <td>
                   
-                    <a href="/obrazy/matej-lipavsky/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/matej-lipavsky-zimni-zahrada.jpeg" alt="Matěj Lipavský - Zimní zahrada (2025)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/georges-seurat-koupani-v-asnieres/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-2754.jpeg" alt="Georges Seurat - Koupání v Asnieres" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -421,10 +433,11 @@
           
             <tr>
               <td>
-                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                    
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli t...
                   
                 </p>
               </td>

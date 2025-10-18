@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -340,31 +352,31 @@ Jeho matka Nina Gore Auchincloss byla poloviční sestrou slavného spisovatele 
           
             
               <tr>
-                <td>Vasilij Kandinský</td>
-                <td><a href="/obrazy/vasilij-kandinsky-milieu-jaune/">Milieu jaune</a></td>
+                <td>Piet Mondrian</td>
+                <td><a href="/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue/">Kompozice II v červené, žluté a modré</a></td>
                 <td>
                   
-                    <a href="/obrazy/vasilij-kandinsky-milieu-jaune/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg" alt="Vasilij Kandinský - Milieu jaune " style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue.jpg" alt="Piet Mondrian - Kompozice II v červené, žluté a modré / Composition II in Red, Yellow, and Blue" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Edward Hopper</td>
-                <td><a href="/obrazy/edward-hopper-nighthawks/">Noční ptáci</a></td>
+                <td>Pablo Picasso</td>
+                <td><a href="/obrazy/pablo-picasso-guernica/">Guernica</a></td>
                 <td>
                   
-                    <a href="/obrazy/edward-hopper-nighthawks/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/edward-hopper-nighthawks.jpg" alt="Edward Hopper - Noční ptáci / Nighthawks" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/pablo-picasso-guernica/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/pablo-picasso-guernica.jpg" alt="Pablo Picasso - Guernica" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Marcel Duchamp</td>
-                <td><a href="/obrazy/marcel-duchamp-fountain/">Fontána</a></td>
+                <td>Diego Velázquez</td>
+                <td><a href="/obrazy/diego-velazquez-las-meninas/">Las Meninas</a></td>
                 <td>
                   
-                    <a href="/obrazy/marcel-duchamp-fountain/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/marcel-duchamp-fountain.jpg" alt="Marcel Duchamp - Fontána / Fountain" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/diego-velazquez-las-meninas/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/diego-velazquez-las-meninas.jpg" alt="Diego Velázquez - Las Meninas" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -410,10 +422,10 @@ Jeho matka Nina Gore Auchincloss byla poloviční sestrou slavného spisovatele 
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
                   
                 </p>
               </td>
@@ -421,10 +433,10 @@ Jeho matka Nina Gore Auchincloss byla poloviční sestrou slavného spisovatele 
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>

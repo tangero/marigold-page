@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -364,31 +376,31 @@
           
             
               <tr>
-                <td>Friedensreich Hundertwasser</td>
-                <td><a href="/obrazy/hundertwasser-hommage-au-tachisme/">Hommage au Tachisme</a></td>
+                <td>Gustav Klimt</td>
+                <td><a href="/obrazy/gustav-klimt-the-kiss/">Polibek</a></td>
                 <td>
                   
-                    <a href="/obrazy/hundertwasser-hommage-au-tachisme/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hundertwasser-hommage.jpeg" alt="Friedensreich Hundertwasser - Hommage au Tachisme (1961)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/gustav-klimt-the-kiss/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/gustav-klimt-the-kiss.jpg" alt="Gustav Klimt - Polibek / The Kiss" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Marcel Duchamp</td>
-                <td><a href="/obrazy/marcel-duchamp-fountain/">Fontána</a></td>
+                <td>LeRoy Neiman</td>
+                <td><a href="/obrazy/leroy-neiman-rocky-balboa/">Rocky Balboa</a></td>
                 <td>
                   
-                    <a href="/obrazy/marcel-duchamp-fountain/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/marcel-duchamp-fountain.jpg" alt="Marcel Duchamp - Fontána / Fountain" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/leroy-neiman-rocky-balboa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/leroy-neiman-rocky-balboa.jpg" alt="LeRoy Neiman - Rocky Balboa (1981)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Hugh Steers</td>
-                <td><a href="/obrazy/hugh-steers-fulton-couch/">Fulton Couch</a></td>
+                <td>Katsushika Hokusai</td>
+                <td><a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/">Velká vlna u Kanagawy</a></td>
                 <td>
                   
-                    <a href="/obrazy/hugh-steers-fulton-couch/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hugh-steers-fulton-couch.jpg" alt="Hugh Steers - Fulton Couch (1991)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.jpg" alt="Katsushika Hokusai - Velká vlna u Kanagawy / The Great Wave off Kanagawa" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -434,10 +446,12 @@
           
             <tr>
               <td>
-                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
                 <p class="excerpt">
                   
-                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí.
+
+Poznatek první: umělá inteli...
                   
                 </p>
               </td>
@@ -445,10 +459,10 @@
           
             <tr>
               <td>
-                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

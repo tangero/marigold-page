@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -362,31 +374,31 @@
           
             
               <tr>
-                <td>Édouard Manet</td>
-                <td><a href="/obrazy/edouard-manet-bar-ve-folies-bergere/">Bar ve Folies-Bergère</a></td>
+                <td>Aristide Maillol</td>
+                <td><a href="/obrazy/aristide-maillol-zena-se-slunecnikem/">Žena se slunečníkem</a></td>
                 <td>
                   
-                    <a href="/obrazy/edouard-manet-bar-ve-folies-bergere/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/edouard-manet-a-bar-at-the-folies-bergere.jpg" alt="Édouard Manet - Bar ve Folies-Bergère (1882)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/aristide-maillol-zena-se-slunecnikem/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-2730.jpeg" alt="Aristide Maillol - Žena se slunečníkem" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Diego Velázquez</td>
-                <td><a href="/obrazy/diego-velazquez-las-meninas/">Las Meninas</a></td>
+                <td>Pablo Picasso</td>
+                <td><a href="/obrazy/pablo-picasso-guernica/">Guernica</a></td>
                 <td>
                   
-                    <a href="/obrazy/diego-velazquez-las-meninas/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/diego-velazquez-las-meninas.jpg" alt="Diego Velázquez - Las Meninas" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/pablo-picasso-guernica/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/pablo-picasso-guernica.jpg" alt="Pablo Picasso - Guernica" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Otto Placht</td>
-                <td><a href="/obrazy/otto-placht-peru-rail/">Peru Rail</a></td>
+                <td>Ai Weiwei</td>
+                <td><a href="/obrazy/ai-weiwei-slunecnicova-seminka/">Slunečnicová Semínka</a></td>
                 <td>
                   
-                    <a href="/obrazy/otto-placht-peru-rail/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otto-placht-peru-rail-2020.jpg" alt="Otto Placht - Peru Rail (2020)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/ai-weiwei-slunecnicova-seminka/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/ai-weiwei-sunflower-seeds-tate-modern-london-may-2-2011.jpg" alt="Ai Weiwei - Slunečnicová Semínka (2010) " style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -432,10 +444,10 @@
           
             <tr>
               <td>
-                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
                 <p class="excerpt">
                   
-                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
                   
                 </p>
               </td>
@@ -443,10 +455,10 @@
           
             <tr>
               <td>
-                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
                 <p class="excerpt">
                   
-                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
                   
                 </p>
               </td>

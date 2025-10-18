@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -334,31 +346,31 @@
           
             
               <tr>
-                <td>Marcel Duchamp</td>
-                <td><a href="/obrazy/marcel-duchamp-fountain/">Fontána</a></td>
+                <td>Damien Hirst</td>
+                <td><a href="/obrazy/damien-hirst-furfuryl-mercaptan/">Furfuryl Mercaptan</a></td>
                 <td>
                   
-                    <a href="/obrazy/marcel-duchamp-fountain/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/marcel-duchamp-fountain.jpg" alt="Marcel Duchamp - Fontána / Fountain" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/damien-hirst-furfuryl-mercaptan/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hirst-furfuryl-cely.jpeg" alt="Damien Hirst - Furfuryl Mercaptan" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Henri Matisse</td>
-                <td><a href="/obrazy/henri-matisse-papousci-tulipany/">Papouščí tulipány</a></td>
+                <td>Katsushika Hokusai</td>
+                <td><a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/">Velká vlna u Kanagawy</a></td>
                 <td>
                   
-                    <a href="/obrazy/henri-matisse-papousci-tulipany/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/henri-matisse-papousci-tulipany.jpeg" alt="Henri Matisse - Papouščí tulipány" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.jpg" alt="Katsushika Hokusai - Velká vlna u Kanagawy / The Great Wave off Kanagawa" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Jakub Schikaneder</td>
-                <td><a href="/obrazy/jakub-schikaneder-mlekarka/">Mlékařka</a></td>
+                <td>Miloš Englberth</td>
+                <td><a href="/obrazy/milos-englberth-happy-birthday/">Happy Birthday</a></td>
                 <td>
                   
-                    <a href="/obrazy/jakub-schikaneder-mlekarka/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/schikaneder-mlekarka.jpg" alt="Jakub Schikaneder - Mlékařka" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/milos-englberth-happy-birthday/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/milos-englberth-happy-birthday.jpg" alt="Miloš Englberth - Happy Birthday (2024)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -404,10 +416,10 @@
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
                   
                 </p>
               </td>
@@ -415,10 +427,12 @@
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
                   
                 </p>
               </td>

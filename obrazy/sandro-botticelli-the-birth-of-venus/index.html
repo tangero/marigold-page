@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -362,31 +374,31 @@
           
             
               <tr>
+                <td>Olaolu Slawn</td>
+                <td><a href="/obrazy/olaolu-slawn/">Young black n thriving</a></td>
+                <td>
+                  
+                    <a href="/obrazy/olaolu-slawn/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/slawn-obrazy.png" alt="Olaolu Slawn - Young black n thriving (2021)" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Charlotte Keates</td>
+                <td><a href="/obrazy/charlotte-keates-dum-ukryva-sneni/">Dům ukrývá snění</a></td>
+                <td>
+                  
+                    <a href="/obrazy/charlotte-keates-dum-ukryva-sneni/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg" alt="Charlotte Keates - Dům ukrývá snění (2023)" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
                 <td>Naděžda Udalcová</td>
                 <td><a href="/obrazy/nadezda-udalcova-kuchyne/">Kuchyně</a></td>
                 <td>
                   
                     <a href="/obrazy/nadezda-udalcova-kuchyne/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-7722.jpeg" alt="Naděžda Udalcová - Kuchyně" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Damien Hirst</td>
-                <td><a href="/obrazy/damien-hirst-furfuryl-mercaptan/">Furfuryl Mercaptan</a></td>
-                <td>
-                  
-                    <a href="/obrazy/damien-hirst-furfuryl-mercaptan/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hirst-furfuryl-cely.jpeg" alt="Damien Hirst - Furfuryl Mercaptan" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Piet Mondrian</td>
-                <td><a href="/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue/">Kompozice II v červené, žluté a modré</a></td>
-                <td>
-                  
-                    <a href="/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue.jpg" alt="Piet Mondrian - Kompozice II v červené, žluté a modré / Composition II in Red, Yellow, and Blue" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -432,10 +444,11 @@
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>
@@ -443,10 +456,10 @@
           
             <tr>
               <td>
-                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>

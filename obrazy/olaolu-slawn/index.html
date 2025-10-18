@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -347,31 +359,31 @@
           
             
               <tr>
-                <td>Claude Monet</td>
-                <td><a href="/obrazy/claude-monet-water-lilies/">Lekníny</a></td>
+                <td>Édouard Manet</td>
+                <td><a href="/obrazy/edouard-manet-bar-ve-folies-bergere/">Bar ve Folies-Bergère</a></td>
                 <td>
                   
-                    <a href="/obrazy/claude-monet-water-lilies/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/claude-monet-water-lilies.jpg" alt="Claude Monet - Lekníny / Water Lilies" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/edouard-manet-bar-ve-folies-bergere/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/edouard-manet-a-bar-at-the-folies-bergere.jpg" alt="Édouard Manet - Bar ve Folies-Bergère (1882)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Vasilij Kandinský</td>
-                <td><a href="/obrazy/vasilij-kandinsky-milieu-jaune/">Milieu jaune</a></td>
+                <td>Sandro Botticelli</td>
+                <td><a href="/obrazy/sandro-botticelli-the-birth-of-venus/">Zrození Venuše</a></td>
                 <td>
                   
-                    <a href="/obrazy/vasilij-kandinsky-milieu-jaune/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg" alt="Vasilij Kandinský - Milieu jaune " style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/sandro-botticelli-the-birth-of-venus/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/sandro-botticelli-the-birth-of-venus.jpg" alt="Sandro Botticelli - Zrození Venuše / The Birth of Venus" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Michelangelo</td>
-                <td><a href="/obrazy/michelangelo-sistine-chapel-ceiling/">Stropní fresky v Sixtinské kapli</a></td>
+                <td>Leonardo da Vinci</td>
+                <td><a href="/obrazy/leonardo-da-vinci-the-last-supper/">Poslední večeře</a></td>
                 <td>
                   
-                    <a href="/obrazy/michelangelo-sistine-chapel-ceiling/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/michelangelo-sistine-chapel-ceiling.jpg" alt="Michelangelo - Stropní fresky v Sixtinské kapli / Sistine Chapel Ceiling" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/leonardo-da-vinci-the-last-supper/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/leonardo-da-vinci-the-last-supper.jpg" alt="Leonardo da Vinci - Poslední večeře / The Last Supper" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -417,10 +429,10 @@
           
             <tr>
               <td>
-                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>
@@ -428,10 +440,10 @@
           
             <tr>
               <td>
-                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
                   
                 </p>
               </td>

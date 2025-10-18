@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -334,31 +346,31 @@
           
             
               <tr>
-                <td>Jan Zrzavý</td>
-                <td><a href="/obrazy/jan-zrzavy-kokta/">Kokta</a></td>
+                <td>Michelangelo</td>
+                <td><a href="/obrazy/michelangelo-david/">David</a></td>
                 <td>
                   
-                    <a href="/obrazy/jan-zrzavy-kokta/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jan-zrzavy-kokta.jpeg" alt="Jan Zrzavý - Kokta" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/michelangelo-david/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/michelangelo-david.jpg" alt="Michelangelo - David" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Henri Matisse</td>
-                <td><a href="/obrazy/henri-matisse-papousci-tulipany/">Papouščí tulipány</a></td>
+                <td>Yves Tanguy</td>
+                <td><a href="/obrazy/yves-tanguy-palac-okennich-skal/">Palác okenních skal</a></td>
                 <td>
                   
-                    <a href="/obrazy/henri-matisse-papousci-tulipany/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/henri-matisse-papousci-tulipany.jpeg" alt="Henri Matisse - Papouščí tulipány" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/yves-tanguy-palac-okennich-skal/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/img-3566.jpeg" alt="Yves Tanguy - Palác okenních skal" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Olaolu Slawn</td>
-                <td><a href="/obrazy/olaolu-slawn/">Young black n thriving</a></td>
+                <td>Leonardo da Vinci</td>
+                <td><a href="/obrazy/leonardo-da-vinci-the-last-supper/">Poslední večeře</a></td>
                 <td>
                   
-                    <a href="/obrazy/olaolu-slawn/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/slawn-obrazy.png" alt="Olaolu Slawn - Young black n thriving (2021)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/leonardo-da-vinci-the-last-supper/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/leonardo-da-vinci-the-last-supper.jpg" alt="Leonardo da Vinci - Poslední večeře / The Last Supper" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -404,10 +416,10 @@
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
                   
                 </p>
               </td>
@@ -415,10 +427,10 @@
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>

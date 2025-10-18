@@ -57,12 +57,18 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="manifest" href="/manifest-marigold.json">
     <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
     <!-- OneSignal Web Push Notifications -->
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -86,6 +92,12 @@
             "button.subscribe": "Přihlásit se k oznámením",
             "button.unsubscribe": "Odhlásit se od oznámení",
           },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
         }
       };
 
@@ -337,31 +349,31 @@
           
             
               <tr>
-                <td>Sandro Botticelli</td>
-                <td><a href="/obrazy/sandro-botticelli-the-birth-of-venus/">Zrození Venuše</a></td>
-                <td>
-                  
-                    <a href="/obrazy/sandro-botticelli-the-birth-of-venus/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/sandro-botticelli-the-birth-of-venus.jpg" alt="Sandro Botticelli - Zrození Venuše / The Birth of Venus" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Grant Wood</td>
-                <td><a href="/obrazy/grant-wood-american-gothic/">Americká gotika</a></td>
-                <td>
-                  
-                    <a href="/obrazy/grant-wood-american-gothic/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/grant-wood-american-gothic.jpg" alt="Grant Wood - Americká gotika / American Gothic" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
                 <td>Josef Istler</td>
                 <td><a href="/obrazy/josef-istler-nadro/">Ňadro / Figura</a></td>
                 <td>
                   
                     <a href="/obrazy/josef-istler-nadro/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/josef-istler-nadro-figura-1953.jpg" alt="Josef Istler - Nadro / Figura (1953)" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Damien Hirst</td>
+                <td><a href="/obrazy/damien-hirst-furfuryl-mercaptan/">Furfuryl Mercaptan</a></td>
+                <td>
+                  
+                    <a href="/obrazy/damien-hirst-furfuryl-mercaptan/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hirst-furfuryl-cely.jpeg" alt="Damien Hirst - Furfuryl Mercaptan" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Edvard Munch</td>
+                <td><a href="/obrazy/edvard-munch-the-scream/">Výkřik</a></td>
+                <td>
+                  
+                    <a href="/obrazy/edvard-munch-the-scream/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/edvard-munch-the-scream.jpg" alt="Edvard Munch - Výkřik / The Scream" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -407,10 +419,10 @@
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -418,10 +430,12 @@
           
             <tr>
               <td>
-                <a href="/item/apple-csam-detska-pornografie/">👉Apple jde do dětského porna</a>
+                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
                 <p class="excerpt">
                   
-                    Apple nově představil  technologii pro odhalování takzvané CSAM (Child Sexual Abuse Material), tedy dětské pornografie. Technologie má přijít do iOS v někter...
+                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
+
+Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
                   
                 </p>
               </td>
