@@ -1,0 +1,33 @@
+name: Send OneSignal Notifications
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2  # Potřebujeme 2 commity pro porovnání
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml
+
+    - name: Send Notifications
+      env:
+        ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
+        ONESIGNAL_MARIGOLD_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+        ONESIGNAL_VIBECODING_APP_ID: 0c413930-f7f6-4d73-9438-36ec057acb7d
+      run: python .github/scripts/send_notifications.py
