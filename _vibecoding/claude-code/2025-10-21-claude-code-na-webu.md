@@ -16,7 +16,6 @@ summary_points:
 - Bezpečnost zajišťují izolované virtuální stroje, omezený síťový přístup a proxy pro citlivé operace
 - Služba sdílí rychlostní limity s ostatním používáním Claude v rámci účtu
 title: Anthropic spustil Claude Code na webu 
-thumbnail: https://www.marigold.cz/assets/claude-code-pro-web.png
 ---
 
 Společnost Anthropic, známá vývojem konverzačního modelu Claude, zpřístupnila novou funkci Claude Code na webu. Jde o nástroj pro automatizované programování, který běží na vzdálené infrastruktuře a umožňuje vývojářům zadávat úlohy přes webové rozhraní bez nutnosti lokální instalace. Služba je momentálně ve výzkumné beta verzi a dostupná pro předplatitele tarifů Pro a Max. 
