@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá",
+      "url"      : "/item/openai-prohlizec-atlas/",
+      "category" : "AI, OpenAI, ChatGPT, Prohlížeče",
+      "tags"     : "",
+      "date"     : "21.10.2025",
+      "content"  : "OpenAI představil nový webový prohlížeč ChatGPT Atlas, který přináší hlubokou integraci s jazykovým modelem ChatGPT a agentními funkcemi. Společnost ho označuje jako “průvodce” a “nový model vyhledávání”. Akcie mateřské společnosti Googlu Alphabet klesly při oznámení o 3 procenta, což představuje pokles tržní kapitalizace o 231 miliard dolarů.Prohlížeč vyvinul tým vedený Samem Altmanem spolu s Willem Ellsworthem, Adamem Frym, Benem Goodgerem, Ryanem O’Rourkem, Justinem Rushingem a Pranavem Vishnu. Atlas dokáže převzít nastavení z Chrome za méně než minutu, což usnadňuje přechod uživatelům dominantního prohlížeče od Googlu.Tři hlavní funkceSidechat na každé stránce. Atlas přidává tlačítko pro vyvolání ChatGPT na jakékoliv webové stránce...."
+    },
+  
+    {
       "title"    : "Anthropic spustil Claude Code na webu",
       "url"      : "/item/claude-code-na-webu/",
       "category" : "AI, Anthropic, Claude, vývoj softwaru, GitHub",
@@ -26556,7 +26565,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Anthropic spustil Claude Code na webu (21.10.2025) Claude Skills: Nová cesta k specializovaným schopnostem AI (17.10.2025) Anthropic představil levný a rychlý model Claude Haiku 4.5 (15.10.2025) OpenAI představil aplikace uvnitř ChatGPT, AgentKit a uzavřel dohodu s AMD ( 6.10.2025) Vibe coding..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá (21.10.2025) Anthropic spustil Claude Code na webu (21.10.2025) Claude Skills: Nová cesta k specializovaným schopnostem AI (17.10.2025) Anthropic představil levný a rychlý model Claude Haiku 4.5 (15.10.2025) OpenAI představil aplikace uvnitř..."
     }
     
   
@@ -26837,7 +26846,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 243 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 244 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -42582,17 +42591,17 @@
       }
       
       ,{
-        "title"    : "Údajně se vyvíjí remake Resident Evil 0, objevily se informace o obsazení a ději",
-        "url"      : "/tech-news/report-resident-evil-0-remake-in-development-new-c/",
-        "category" : "tech_news",
-        "content"  : "Podle neověřených zdrojů má být ve vývoji remake hry Resident Evil 0, původně vydané pro GameCube. Projekt údajně běží pod kódovým názvem Chamber, což je slovní hříčka odkazující na příjmení hlavní hrdinky Rebeccy Chambers. Vývoj má probíhat již několik let a v roce 2024 mělo začít natáčení hlasových a motion capture nahrávek s novými herci.V životopise herce Jona McLarena, známého z role Star-Lorda ve hře Guardians of the Galaxy z roku 2021 a z Far Cry 5, se objevuje zmínka o projektu Chamber jako o hlavní roli. Motion capture práce má zajišťovat studio Beyond Capture Studios, které s Capcomem spolupracovalo..."
-      }
-      
-      ,{
         "title"    : "Tweety týdne: CM Punk skáče do náruče Rhey Ripley, Iyo Sky dělá salto do moře a další",
         "url"      : "/tech-news/tweets-of-the-week-cm-punk-jumps-into-rhea-ripleys/",
         "category" : "tech_news",
         "content"  : "Článek shrnuje humorné a zajímavé příspěvky ze sociálních sítí wrestlerů z uplynulého týdne. Mezi hlavní momenty patří CM Punk napodobující Iyo Sky při skoku do náruče Rhey Ripley, video Iyo Sky provádějící salto do moře, nebo záběry Graysona Wallera a Rhey Ripley pijících z boty (takzvaný “shoey”). Dále obsahuje zákulisní záběry Stephanie Vaquer konzultující svůj vstup s Triple H, neúspěšný pokus Dominika Mysteria přesvědčit Wallera k mullet účesu, a vzpomínku Sheamuse na svého zesnulého psa. Článek uzavírá humorná matematická úvaha Santina z TNA Bound For Glory. Jde o typický zábavný obsah pro fanoušky wrestlingu bez jakéhokoli technologického přesahu.Číst původní článekZdroj:..."
+      }
+      
+      ,{
+        "title"    : "13 specializovaných nástrojů Ryobi a jejich využití",
+        "url"      : "/tech-news/a-13-niche-ryobi-tools-and-what-theyre-used-for-sl/",
+        "category" : "tech_news",
+        "content"  : "Článek představuje výběr specializovaných nástrojů od výrobce Ryobi, které nejsou běžně známé a slouží k velmi specifickým úkolům. Jde o produkty, které většina uživatelů nepoužívá denně, ale mohou výrazně usnadnit konkrétní práce.Ze zmíněných nástrojů je podrobněji popsána sada pro vyřezávání dýní, která je součástí USB Lithium Ion řady Ryobi. Tato rotační řezbářská sada obsahuje 15 různých nástavců určených pro precizní práci. Nástroj umožňuje vrtání otvorů různých velikostí, řezání linií a vln, povrchové úpravy a přidávání jemných detailů. Kromě dýní lze sadu využít i pro dřevoobráběcí práce a další řemeslné projekty. Balení zahrnuje hlavní rotační nástroj, 15 bitů, dva klíče, tři..."
       }
       
       ,{
@@ -42603,10 +42612,10 @@
       }
       
       ,{
-        "title"    : "Kohler představil kameru do záchodu za 15 tisíc korun",
+        "title"    : "Kohler představil kameru do záchodové mísy za 15 tisíc korun",
         "url"      : "/tech-news/kohler-unveils-a-camera-for-your-toilet-techcrunch/",
         "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Kohler, známý výrobce sanitární techniky a vybavení domácností, představila zařízení Dekoda – kameru za 599 dolarů (přibližně 14 000 Kč), která se instaluje do záchodové mísy a pořizuje snímky jejího obsahu. Zařízení analyzuje tyto fotografie s cílem poskytovat informace o zdraví trávicího systému, hydrataci a potenciálně detekovat přítomnost krve.Klíčové body Cena zařízení činí 599 dolarů s povinným předplatným 70-156 dolarů ročně Dekoda obsahuje dobíjecí baterii, USB připojení a snímač otisků prstů pro identifikaci uživatele Předobjednávky jsou již dostupné, dodávky začínají 21. října 2025 Data jsou šifrována end-to-end šifrováním, senzory snímají pouze obsah mísy Kohler není jediný – startup Throne..."
+        "content"  : "SouhrnSpolečnost Kohler, známý výrobce sanitární techniky a vybavení domácností, představila zařízení Dekoda – kameru za 599 dolarů (přibližně 14 tisíc korun), která se připevňuje k záchodové míse a pořizuje snímky výkalů. Produkt je již dostupný v předprodeji s plánovaným zahájením dodávek 21. října 2025.Klíčové body Cena zařízení činí 599 dolarů plus roční předplatné v rozmezí 70 až 156 dolarů Kamera analyzuje snímky pro sledování zdraví střev, hydratace a potenciální detekci krve Zařízení obsahuje dobíjecí baterii, USB připojení a čtečku otisků prstů pro identifikaci uživatelů Data jsou šifrována end-to-end šifrováním, senzory snímají pouze vnitřek mísy Kohler není jediný – startup Throne..."
       }
       
       ,{
@@ -42624,24 +42633,24 @@
       }
       
       ,{
-        "title"    : "Sdílení s AI: Jak mohou být vaše konverzace s ChatGPT použity proti vám",
-        "url"      : "/tech-news/oversharing-with-ai-how-your-chatgpt-conversations/",
+        "title"    : "OnePlus 15: Globální model se objevil v benchmarku před listopadovým uvedením",
+        "url"      : "/tech-news/oneplus-15-global-model-stars-in-early-benchmark-b/",
         "category" : "tech_news",
-        "content"  : "SouhrnPolicie v USA poprvé použila konverzace s ChatGPT jako důkaz v trestních řízeních. 19letý student Ryan Schaefer čelí obvinění z vandalismu poté, co se AI chatbotu “přiznal” k poškození 17 aut, a Jonathan Rinderknecht byl zatčen v souvislosti s požárem v Kalifornii po žádosti o vygenerování obrázků hořícího města. Šéf OpenAI Sam Altman přitom otevřeně přiznává, že konverzace uživatelů s ChatGPT nemají žádnou právní ochranu.Klíčové body Student Ryan Schaefer se ChatGPT ptal “jak jsem v prdeli brácho?” po vandalismu 17 aut, policie citovala tyto konverzace v obvinění Jonathan Rinderknecht zatčen po žádosti o generování obrázků hořícího města v souvislosti s..."
+        "content"  : "ShrnutíOnePlus 15 se objevil v benchmarku Geekbench ve své globální verzi před plánovaným uvedením. Zatímco čínská premiéra je potvrzena na 27. října, globální prodej by měl podle spekulací začít 13. listopadu. Telefon dosáhl v testech vyšších výsledků než předchůdce OnePlus 13, i když zatím nedosahuje referenčních hodnot čipsetu Snapdragon 8 Elite.Globální verze OnePlus 15 dosáhla v Geekbench 6 skóre 3 614 bodů v jednojádrovém testu a 10 292 bodů v multijádrovém testu. To představuje 17% nárůst v jednojádrovém výkonu a 9,5% zlepšení v multijádrovém výkonu oproti OnePlus 13, který dosahoval průměrně 3 087 a 9 369 bodů. Benchmark potvrdil základní..."
       }
       
       ,{
-        "title"    : "AdGuard Family Plan nabízí doživotní blokování reklam za 40 dolarů",
+        "title"    : "AdGuard nabízí doživotní blokování reklam pro rodinu za 40 dolarů",
         "url"      : "/tech-news/protect-your-family-from-ads-trackers-and-malware/",
         "category" : "tech_news",
-        "content"  : "ShrnutíPortál Mashable propaguje slevovou akci na doživotní předplatné AdGuard Family Plan, které je nyní dostupné za 39,99 dolaru místo běžných 169,99 dolaru. Jde o typickou affiliate marketingovou kampaň, nikoli o technologickou novinku.AdGuard Family Plan je blokátor reklam a tracker, který funguje na iOS i Android zařízeních a podporuje až devět zařízení současně. Aplikace blokuje vyskakovací okna, bannery a video reklamy, zároveň má chránit před malwarem, phishingovými weby a sledováním uživatelské aktivity. Součástí je také rodičovská kontrola pro filtrování nevhodného obsahu.Jde však primárně o komerční nabídku, nikoli o významnou technologickou zprávu. Podobné slevy na “doživotní licence” jsou v oblasti bezpečnostního softwaru..."
+        "content"  : "Společnost AdGuard propaguje svůj rodinný tarif s doživotní licencí za 40 dolarů (běžná cena 170 dolarů). Jde o běžnou marketingovou akci na blokátor reklam, nikoli o technologickou novinku.Aplikace AdGuard Family Plan blokuje vyskakovací okna, bannery a video reklamy na webových stránkách. Licence pokrývá až devět zařízení s operačními systémy iOS a Android. Kromě blokování reklam nabízí aplikace ochranu před phishingovými weby, malwarem a trackery sledujícími aktivitu uživatelů. Součástí je také rodičovská kontrola pro filtrování nevhodného obsahu.Cena 40 dolarů představuje jednorázový poplatek za doživotní přístup, což vychází na necelých 5 dolarů na jedno zařízení. Sleva z původních 170 dolarů je typickou..."
       }
       
       ,{
-        "title"    : "Renovovaný MacBook Pro z roku 2020 za 430 dolarů",
+        "title"    : "Renovovaný MacBook Pro z roku 2020 v akci za 430 dolarů",
         "url"      : "/tech-news/black-friday-came-early-get-a-refurbished-macbook/",
         "category" : "tech_news",
-        "content"  : "Obchodní platforma StackSocial nabízí renovovaný MacBook Pro z roku 2020 za 429,97 dolarů plus 4,99 dolarů za dopravu. Jde o standardní výprodejovou akci renovované techniky, která nemá žádný technologický význam.Notebook je vybaven procesorem Intel Core i5 10. generace, 16GB operační paměti a 1TB SSD úložištěm. Součástí je Touch Bar - OLED lišta nad klávesnicí, která zobrazuje kontextové ovládací prvky podle používané aplikace. Apple tuto funkci v novějších modelech již nepoužívá.Zařízení je klasifikováno jako renovované ve třídě “A”, což znamená minimální známky opotřebení. Prodejce poskytuje 30denní záruku. Původní doporučená cena byla 1 999 dolarů, sleva tedy činí 78 procent. Jde o..."
+        "content"  : "Obchodní platforma StackSocial nabízí renovovaný MacBook Pro z roku 2020 za 430 dolarů (plus 5 dolarů za dopravu), což představuje slevu 78 % oproti původní doporučené ceně 1 999 dolarů. Jedná se o běžnou komerční nabídku renovované techniky, nikoli o technologickou novinku.Notebook je vybaven procesorem Intel Core i5 10. generace s frekvencí 2 GHz, 16GB operační paměti RAM a 1TB SSD úložištěm. Součástí je také Touch Bar – tenký OLED displej nad klávesnicí, který se přizpůsobuje aktuálně používané aplikaci a zobrazuje kontextové ovládací prvky. Tato funkce byla později Applem zrušena a nachází se pouze ve vybraných modelech Pro.Zařízení je klasifikováno..."
       }
       
       ,{
@@ -42659,24 +42668,101 @@
       }
       
       ,{
-        "title"    : "Třicetiletá závodní hra Indycar Racing 2 dostává moderní grafiku a podporu force feedback",
-        "url"      : "/tech-news/game-of-theseus-gets-graphics-upgrade-force-feedba/",
+        "title"    : "ChatGPT Canvas: Přehlížená funkce, která výrazně zvyšuje produktivitu",
+        "url"      : "/tech-news/youre-probably-not-using-this-chatgpt-feature-but/",
         "category" : "tech_news",
-        "content"  : "SouhrnZávodní simulátor Indycar Racing 2 z roku 1995 se dočkal významných vylepšení díky komunitě modderů. Hra nyní běží v moderních rozlišeních a podporuje současné volanty s force feedback, což odhaluje kvalitu fyzikálního modelu, která byla před třiceti lety skryta za tehdejšími technologickými omezeními.Klíčové body Modder sharangad vytvořil wrapper překládající Rendition API na moderní hardware, což umožňuje běh hry ve vysokých rozlišeních Původní verze pro grafické karty Rendition (dnes již neexistující značka) slouží jako základ pro HD upgrade Modder GPLaps implementoval podporu moderních volantů s force feedback čtením fyzikálních hodnot přímo z paměti hry Úpravy odhalují pokročilý fyzikální model, který v..."
+        "content"  : "SouhrnChatGPT Canvas, funkce spuštěná před více než rokem, se díky aktualizacím v podobě ChatGPT-5 a vylepšené paměti stala výrazně personalizovanějším nástrojem. Místo nekonečného přepisování v chatovacím okně nabízí Canvas společný editační prostor, kde uživatel a AI mohou upravovat text nebo kód řádek po řádku, podobně jako dva autoři u jednoho stolu.Klíčové body Canvas transformuje ChatGPT z chatovacího okna na živý editační prostor s rozdělením obrazovky Funkce je nyní klíčová pro vibe coding - přístup k programování založený na iterativních úpravách a experimentování Umožňuje cílené úpravy přímo v textu bez ztráty původního obsahu Díky vylepšené paměti ChatGPT-5 je nástroj personalizovanější než..."
       }
       
       ,{
-        "title"    : "Velký výpadek služeb Apple: Apple TV, Apple Music a App Store nefungovaly několik hodin",
+        "title"    : "Masivní výpadek služeb Apple zasáhl Apple TV, Apple Music a App Store",
         "url"      : "/tech-news/apple-tv-apple-music-and-app-store-are-down-as-app/",
         "category" : "tech_news",
-        "content"  : "SouhrnApple čelil jednomu z největších výpadků svých služeb v roce 2025, kdy uživatelé po dobu přibližně tří hodin nemohli používat Apple TV, Apple Music ani App Store. Problémy začaly kolem půlnoci východního času a zasáhly miliony uživatelů, kteří se nemohli dostat ke svému obsahu a aplikacím.Klíčové body Výpadek zasáhl klíčové služby Apple včetně Apple TV, Apple Music, App Store, TestFlight a částečně iCloud Storage Problémy trvaly přibližně tři hodiny, což z něj činí nejrozsáhlejší výpadek Apple služeb v roce 2025 Uživatelé nemohli sledovat nedělní večerní vysílání Apple Originals, včetně populárních seriálů The Studio a Severance Oficiální stavová stránka Apple potvrdila..."
+        "content"  : "SouhrnApple čelil jednomu z největších výpadků svých online služeb v roce 2025, který trval přibližně tři hodiny a zasáhl klíčové platformy včetně Apple TV, Apple Music a App Store. Problémy začaly kolem půlnoci východního času a postihly uživatele po celém světě, kteří nemohli streamovat obsah, přehrávat hudbu ani stahovat aplikace.Klíčové body Výpadek trval přibližně tři hodiny a zasáhl Apple TV, Apple Music, App Store, TestFlight a Apple Games Uživatelé nemohli dokončit sledování nedělních pořadů včetně populárních seriálů The Studio a Severance Při pokusu o přehrání obsahu se zobrazovala chybová hláška “There’s a problem loading this content” Některým uživatelům nefungovalo ani..."
+      }
+      
+      ,{
+        "title"    : "Co jsou tajemná světla občas pozorovaná na Měsíci?",
+        "url"      : "/tech-news/what-are-the-mysterious-lights-sometimes-seen-on-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnZa posledních dva tisíce let astronomové zaznamenali přes 3000 případů tajemných světelných jevů na povrchu Měsíce, které zahrnují záblesky, záře nebo paprsky světla. Tyto přechodné lunární jevy (TLP - transient lunar phenomena) mohou trvat od milisekund po hodiny a jejich délka napovídá, co je způsobilo.Klíčové body První zdokumentovaný pozorování pochází z roku 1787, kdy astronom William Herschel zaznamenal několikahodinové světlo jasné jako mlhovina v Orionu Přechodné lunární jevy zahrnují zesvětlení, načervenalé nebo fialové skvrny a mlhavá místa Záblesky trvající méně než minutu jsou způsobeny dopady meteoritů těžších než 0,2 kilogramu Delší jevy mohou být způsobeny uvolňováním plynů z lunárního povrchu..."
+      }
+      
+      ,{
+        "title"    : "Proč by Google neměl vyrábět telefony Pixel",
+        "url"      : "/tech-news/i-wish-google-didnt-make-smartphones-android-autho/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAutorka článku vyjadřuje obavy z toho, že Google jako hlavní vývojář Androidu současně vyrábí vlastní telefony Pixel. Problém spočívá v tom, že Google má motivaci vytvářet exkluzivní funkce pouze pro své zařízení místo jejich integrace do základního Androidu, což poškozuje celý ekosystém.Klíčové body Google vytváří stále více funkcí exkluzivně pro telefony Pixel, které nejsou vázány na hardwarová omezení Pozice Googlu jako vývojáře Androidu a zároveň výrobce telefonů vytváří konflikt zájmů Mnoho Pixel-exkluzivních funkcí by mělo být součástí základního Androidu dostupného všem výrobcům Podobnou strategii umělého omezování funkcí používá i Samsung u starších modelů Výrobci se stále více zaměřují na softwarovou..."
+      }
+      
+      ,{
+        "title"    : "Nejlepší mikroskopické snímky roku 2025 odhalují skrytou realitu",
+        "url"      : "/tech-news/the-best-microscopic-shots-of-2025-will-make-you-r/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Nikon vyhlásila výsledky své výroční soutěže Photomicrography Competition, která oceňuje nejlepší mikroskopické snímky z oblasti vědy. Letošní vítězné fotografie zahrnují extrémní detaily buněčných struktur, skryté světy hub a mikroskopické organismy, které běžně unikají lidskému vnímání.Klíčové body Druhé místo získal německý chemický inženýr Jan Rosenboom za snímek kapky vody obsahující drobné sféry koloniálních řas, pořízený technikou mikroskopie v odraženém světle Devátou pozici obsadil Wim van Egmond z Micropolitan Museum v Nizozemsku se záběrem červených difuzních pigmentů houby Talaromyces purpureogenus, vzdáleného příbuzného penicilinové plísně Penicillium Výzkumníci z Friedrich Miescher Institute for Biomedical Research ve Švýcarsku představili fluorescenčně označené tlusté střevo myši..."
+      }
+      
+      ,{
+        "title"    : "NTFSPLUS: Nový linuxový ovladač pro NTFS s lepším výkonem a funkcemi",
+        "url"      : "/tech-news/ntfsplus-announced-a-new-linux-driver-for-ntfs-wit/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPro Linux vznikl další ovladač souborového systému NTFS s názvem NTFSPLUS. Vývoj vede Namjae Jeon, autor linuxového ovladače exFAT a správce kódu KSMBD serveru. Nový ovladač slibuje lepší výkon a více funkcí než současný NTFS3 ovladač v jádře Linuxu.Klíčové body NTFSPLUS nabízí plnou podporu čtení i zápisu na NTFS oddíly Vývoj vede Namjae Jeon, zkušený vývojář linuxových ovladačů souborových systémů Ovladač je založen na čistším kódu původního read-only NTFS ovladače Implementuje moderní technologie jako iomap a obchází zastaralý buffer-head Má nahradit špatně udržovaný NTFS3 a zastaralý NTFS-3G v uživatelském prostoruPodrobnostiLinux má v současnosti několik možností pro práci s NTFS oddíly...."
+      }
+      
+      ,{
+        "title"    : "Interní testy Samsungu údajně ukazují šestinásobný výkon Exynos 2600 v AI oproti konkurenci",
+        "url"      : "/tech-news/exynos-2600-wipes-the-floor-against-the-competitio/",
+        "category" : "tech_news",
+        "content"  : "Samsung podle neoficiálních zdrojů provádí interní testování svého připravovaného procesoru Exynos 2600, který má údajně dosahovat šestinásobně vyššího výkonu v AI úlohách oproti konkurenčním čipům Snapdragon 8 Elite Gen 5 a Apple A19 Pro. Informace pochází z interních testů výrobce a nebyla nezávisle ověřena.Zdrojem informací jsou interní benchmarky Samsungu zaměřené na výkon GPU a NPU (Neural Processing Unit - specializovaný čip pro zpracování neuronových sítí a strojové učení). Exynos 2600 má představovat návrat Samsungu ke konkurenceschopným vlastním procesorům po několika generacích, kdy firma upřednostňovala čipy Qualcomm Snapdragon v prémiových modelech řady Galaxy S.Jde však o typický příklad předčasných informací založených..."
+      }
+      
+      ,{
+        "title"    : "Průkopník Apple Bill Atkinson tajně propagoval nejsilnější psychedelikum na světě",
+        "url"      : "/tech-news/apple-pioneer-bill-atkinson-was-a-secret-evangelis/",
+        "category" : "tech_news",
+        "content"  : "SouhrnBill Atkinson, legendární programátor Apple, který v 80. letech vytvořil grafické uživatelské rozhraní pro počítače Macintosh, vedl ve druhé polovině života skrytý život jako propagátor 5-MeO-DMT, psychedelické látky považované za nejsilnější na světě. Atkinson, který zemřel 5. června ve věku 74 let na rakovinu slinivky, byl aktivním členem uzavřené online komunity OneLight, kde pod přezdívkou “Grace Within” pomáhal lidem s bezpečnějším užíváním nižších dávek této látky.Klíčové body Bill Atkinson vytvořil v 80. letech grafické rozhraní pro Apple včetně oken, menu a grafiky, později také HyperCard Tajně propagoval mikrodávkování 5-MeO-DMT, látky z jedu ropuchy Sonoran Desert (Incilius alvarius) Byl aktivním členem..."
+      }
+      
+      ,{
+        "title"    : "Kamera z ponorky OceanGate Titan nalezena téměř neporušená, SD karta SanDisk stále obsahuje záznamy",
+        "url"      : "/tech-news/oceangate-titan-subs-camera-found-mostly-intact-wi/",
+        "category" : "tech_news",
+        "content"  : "SouhrnZáchranné týmy objevily ve vraku ponorky OceanGate Titan kameru, která přežila katastrofickou implozi v červnu 2022. SD karta SanDisk uvnitř kamery zůstala funkční a stále obsahuje fotografie a videa z poslední cesty ponorky k vraku Titanicu. Nález dokládá odolnost běžné spotřební elektroniky v extrémních podmínkách.Klíčové body Kamera byla nalezena více než dva roky po implozi ponorky v hloubce přibližně 3 800 metrů SD karta SanDisk uvnitř kamery zůstala neporušená a data jsou čitelná Záznamy obsahují fotografie a videa z poslední expedice k vraku Titanicu Nález je součástí probíhajícího vyšetřování tragédie, při které zahynulo pět lidí Objevení funkční paměťové karty po..."
+      }
+      
+      ,{
+        "title"    : "Dva widgety Apple CarPlay, které byste měli začít používat",
+        "url"      : "/tech-news/a-2-apple-carplay-widgets-you-need-to-start-using/",
+        "category" : "tech_news",
+        "content"  : "Článek představuje praktické tipy na využití widgetů v systému Apple CarPlay, konkrétně widget aplikace Domácnost (Home) a widget počasí. Jde o návod zaměřený na běžné uživatele, nikoli o oznámení nové funkce.Widgety v CarPlay umožňují zobrazovat informace z vybraných aplikací přímo na obrazovce v autě. Pro jejich aktivaci je potřeba iOS 26 a navigace do Nastavení &amp;gt; Obecné &amp;gt; CarPlay &amp;gt; Vaše vozidlo &amp;gt; Widgety. Apple nabízí widgety pro Hodiny, Fotky, Kalendář, Hudbu a další, přičemž systém podporuje i widgety od vývojářů třetích stran.Widget aplikace Domácnost zobrazuje čtyři příslušenství HomeKit nebo scény, což umožňuje ovládat chytrou domácnost přímo z auta. Vyžaduje..."
+      }
+      
+      ,{
+        "title"    : "iPhone Air po měsíci používání: Obavy z fotoaparátu a baterie se nepotvrdily",
+        "url"      : "/tech-news/iphone-air-one-month-later-my-camera-and-battery-f/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple iPhone Air, nejtenčí smartphone od kalifornské společnosti, prošel měsíčním praktickým testem. Přestože telefon za 999 dolarů disponuje pouze jedním zadním fotoaparátem a menší baterií kvůli ultratenkému designu, v běžném používání se tyto kompromisy ukázaly jako překvapivě zvladatelné.Klíčové body iPhone Air má pouze jeden 48megapixelový širokoúhlý fotoaparát místo obvyklé sady s ultraširokoúhlým a teleobjektivem Menší baterie v tenkém těle nevyžadovala v praxi časté dobíjení Obavy z ohýbání ultratenkého těla se nepotvrdily Tester přešel z iPhone 16 Pro Max, který má výrazně pokročilejší fotoaparát s 5x optickým zoomem Za cenu téměř 1000 dolarů by zákazníci měli očekávat flexibilnější možnosti fotoaparátuPodrobnostiPřechod z..."
+      }
+      
+      ,{
+        "title"    : "Týden v životě Brooke Eby s ALS: Za objektivem telefonu",
+        "url"      : "/tech-news/my-life-with-als-a-week-in-brooke-ebys-life-behind/",
+        "category" : "tech_news",
+        "content"  : "Brooke Eby, 36letá influencerka, dokumentuje na TikToku svůj život s amyotrofickou laterální sklerózou (ALS), neurodegenerativním onemocněním známým také jako Lou Gehrigova choroba. Za poslední tři roky prošla od běžných aktivit přes chodítko až k invalidnímu vozíku.Eby začala pociťovat příznaky v pozdních dvaceti letech, kdy si všimla napětí v levém lýtku. Následovaly roky návštěv specialistů, než jí v březnu 2022 ve věku 33 let diagnostikovali ALS. Po diagnóze strávila několik měsíců v depresi, než se rozhodla sdílet svůj příběh na sociálních sítích prostřednictvím humoru.Své první video o ALS zveřejnila na TikTok dva měsíce po diagnóze, následované záběry ze svatby kamarádky, kde..."
+      }
+      
+      ,{
+        "title"    : "Ford představil Mustang Mach-E GT California Special inspirovaný klasikou z roku 1968",
+        "url"      : "/tech-news/fords-mustang-mach-e-gt-california-special-blends/",
+        "category" : "tech_news",
+        "content"  : "SouhrnFord představil novou speciální edici elektrického SUV Mustang Mach-E GT California Special, která odkazuje na limitovanou sérii původního Mustangu z roku 1968. Nová verze přináší designové změny karoserie, nová kola, grafické prvky v interiéru a novou barvu laku, přičemž Ford se snaží udržet prodejní momentum vozu, který v srpnu předstihl v prodeji své benzinové sourozence.Klíčové body Speciální edice GT California Special odkazuje na limitovanou sérii Mustangu z roku 1968 Nová barva Rave Blue nahrazuje původní červeno-černé schéma a má evokovat kalifornské pobřežní vody Designové změny zahrnují odstranění bočních výduchů, nová 20palcová kola v karbonově šedé barvě s logem GT/CS a..."
       }
       
       ,{
         "title"    : "Technologické zprávy",
         "url"      : "/tech-news/",
         "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 32Poslední aktualizace: 21.10.2025 12:35 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 18Poslední aktualizace: 21.10.2025 16:25 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
       }
       
     
