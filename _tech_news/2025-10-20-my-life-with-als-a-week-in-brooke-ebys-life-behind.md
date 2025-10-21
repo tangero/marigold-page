@@ -13,19 +13,19 @@ source:
   emoji: 📰
   id: null
   name: The Cut
-title: 'Týden v životě Brooke Eby s ALS: Za objektivem telefonu'
+title: Týden v životě Brooke Eby s ALS zachycený přes kameru telefonu
 url: http://www.thecut.com/article/living-with-als-photo-diary-brooke-eby.html
 urlToImage: https://pyxis.nymag.com/v1/imgs/880/86d/db7295a5e299e249d7940b473440a4ad42-IMG-1546.1x.rsocial.w1200.jpg
 urlToImageBackup: https://pyxis.nymag.com/v1/imgs/880/86d/db7295a5e299e249d7940b473440a4ad42-IMG-1546.1x.rsocial.w1200.jpg
 ---
 
-Brooke Eby, 36letá influencerka, dokumentuje na TikToku svůj život s amyotrofickou laterální sklerózou (ALS), neurodegenerativním onemocněním známým také jako Lou Gehrigova choroba. Za poslední tři roky prošla od běžných aktivit přes chodítko až k invalidnímu vozíku.
+Brooke Eby, nyní 36letá žena s diagnózou amyotrofické laterální sklerózy (ALS), dokumentuje svůj život s touto neurodegenerativní chorobou na platformě TikTok. Za poslední tři roky prošla od běžných cvičení na Pelotonu přes používání chodítka až k invalidnímu vozíku.
 
-Eby začala pociťovat příznaky v pozdních dvaceti letech, kdy si všimla napětí v levém lýtku. Následovaly roky návštěv specialistů, než jí v březnu 2022 ve věku 33 let diagnostikovali ALS. Po diagnóze strávila několik měsíců v depresi, než se rozhodla sdílet svůj příběh na sociálních sítích prostřednictvím humoru.
+V pozdních dvaceti letech si Eby všimla napětí v levém lýtku, které postupně přerostlo v problémy s chůzí a neschopnost zvednout přední část levé nohy (footdrop). Po čtyřech letech návštěv různých specialistů jí v březnu 2022 diagnostikovali ALS, také známou jako Lou Gehrigova choroba. Jde o terminální onemocnění, při kterém mozek přestává vysílat signály do svalů, které postupně atrofují.
 
-Své první video o ALS zveřejnila na TikTok dva měsíce po diagnóze, následované záběry ze svatby kamarádky, kde jako družička používala chodítko. Od té doby získala stovky tisíc sledujících, kterým ukazuje realitu života s progresivním onemocněním ve třiceti letech.
+Po diagnóze strávila Eby několik měsíců v depresi, než se rozhodla využít humor jako způsob vyrovnání se s nemocí. Na svatbě kamarádky dva měsíce po diagnóze poprvé dokázala lidi rozesmát vtipkováním o svých pomůckách pro pohyb. O dva měsíce později začala sdílet videa o svém životě s ALS na TikToku, kde získala stovky tisíc sledujících.
 
-Jedná se o osobní příběh bez technologického přesahu, který spadá spíše do kategorie lifestyle a zdravotního obsahu na sociálních sítích.
+Jedná se o osobní příběh bez přímé souvislosti s technologickým průmyslem, i když využívá sociální média jako platformu pro osvětu.
 
 ---
 
