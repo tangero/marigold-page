@@ -15,11 +15,16 @@ summary_points:
 - Atlas je zatím dostupný pouze na macOS, podpora Windows, iOS a Android přijde později
 - Agentní režim funguje pouze pro předplatitele Plus a Pro
 title: OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá
+thumbnail: https://www.marigold.cz/assets/Agent.png.webp
 ---
 
 OpenAI představil nový webový prohlížeč ChatGPT Atlas, který přináší hlubokou integraci s jazykovým modelem ChatGPT a agentními funkcemi. Společnost ho označuje jako "průvodce" a "nový model vyhledávání". Akcie mateřské společnosti Googlu Alphabet klesly při oznámení o 3 procenta, což představuje pokles tržní kapitalizace o 231 miliard dolarů.
 
 Prohlížeč vyvinul tým vedený Samem Altmanem spolu s Willem Ellsworthem, Adamem Frym, Benem Goodgerem, Ryanem O'Rourkem, Justinem Rushingem a Pranavem Vishnu. Atlas dokáže převzít nastavení z Chrome za méně než minutu, což usnadňuje přechod uživatelům dominantního prohlížeče od Googlu.
+
+![OpenAI Atlas](ttps://www.marigold.cz/assets/Agent.png.webp)
+
+[Stáhnout ChatGPT Atlas](https://chatgpt.com/atlas/) 
 
 ## Tři hlavní funkce
 
@@ -32,6 +37,8 @@ Prohlížeč vyvinul tým vedený Samem Altmanem spolu s Willem Ellsworthem, Ada
 ## Rozšířená navigace
 
 Atlas přidává řadu ikon pro různé typy zobrazení a informací. Domovská ikona vede na klasické rozhraní ChatGPT, ikona web zobrazuje tradiční výsledky vyhledávání, další ikony pak specializované výsledky pro obrázky, videa a zprávy. Vlastní instrukce vytvořené uživatelem fungují napříč celým webem, což vyžaduje pečlivé nastavení a pochopení jejich dopadu.
+
+![OpenAi Atlas](/assets/Sidechat__7_.png.webp)
 
 ## Dostupnost a konkurence
 
@@ -58,4 +65,4 @@ Třiprocentní pokles akcií Alphabetu signalizuje, že trh tento posun vnímá 
 **Regulace a odpovědnost**. Autonomie agentů přináší nové třídy právní odpovědnosti a rizika manipulace. Je potřeba definovat standardy pro práva na data v prohlížečích s umělou inteligencí, včetně souhlasu, retence a vysvětlitelnosti. První bezpečnostní incident pravděpodobně spustí regulační reakci, proto by firmy měly mluvit s HR a IT odděleními preventivně.
 
 **Odkazy**:  
-[Stáhnout ChatGPT Atlas](https://openai.com/atlas) | [Sledovat video prezentace](https://www.youtube.com/watch?v=atlas-launch)
+[Stáhnout ChatGPT Atlas](https://chatgpt.com/atlas/) 
