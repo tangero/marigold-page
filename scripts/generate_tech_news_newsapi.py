@@ -10,6 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 import logging
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 # Načíst .env soubor
 load_dotenv()
@@ -27,6 +28,192 @@ class NewsAPITechNewsGenerator:
         self.news_api_key = os.getenv('NEWS_API_KEY', '')
         self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY', '')
         self.translation_enabled = self.openrouter_api_key and self.openrouter_api_key != 'skip'
+
+    def fetch_article_content(self, url, max_length=2000):
+        """Stáhne a parsuje plný text článku z URL"""
+        try:
+            logger.debug(f"📄 Stahuji obsah článku: {url[:50]}...")
+
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Marigold.cz Tech News Bot; +https://marigold.cz)'
+            }
+
+            response = requests.get(url, headers=headers, timeout=10)
+
+            if response.status_code != 200:
+                logger.warning(f"⚠️ HTTP {response.status_code} pro {url}")
+                return None
+
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Odstranit skripty, styly a navigaci
+            for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
+                element.decompose()
+
+            # Pokusit se najít hlavní obsah článku
+            article_content = None
+
+            # Zkusit běžné selektory pro obsah článku
+            for selector in ['article', 'main', '.article-content', '.post-content', '.entry-content']:
+                content = soup.select_one(selector)
+                if content:
+                    article_content = content
+                    break
+
+            # Pokud nenalezeno, použít celý body
+            if not article_content:
+                article_content = soup.body
+
+            if not article_content:
+                logger.warning(f"⚠️ Nepodařilo se extrahovat obsah z {url}")
+                return None
+
+            # Získat text a vyčistit
+            text = article_content.get_text(separator=' ', strip=True)
+
+            # Vyčistit whitespace
+            text = re.sub(r'\s+', ' ', text)
+
+            # Omezit délku
+            if len(text) > max_length:
+                text = text[:max_length] + '...'
+
+            logger.debug(f"✅ Extrahováno {len(text)} znaků")
+            return text
+
+        except Exception as e:
+            logger.warning(f"⚠️ Chyba při stahování článku {url}: {e}")
+            return None
+
+    def analyze_and_enhance_article(self, url, title, description, category):
+        """Kombinovaná LLM analýza: detekce důležitosti + generování rozšířeného obsahu"""
+        if not self.translation_enabled:
+            # Fallback bez LLM
+            return {
+                'importance': 3,
+                'czech_title': title,
+                'czech_description': description,
+                'enhanced_content': description
+            }
+
+        try:
+            # Stáhnout plný článek
+            full_text = self.fetch_article_content(url)
+
+            # Připravit kontext pro LLM
+            article_context = f"""
+NADPIS: {title}
+POPIS: {description}
+KATEGORIE: {category}
+"""
+
+            if full_text:
+                article_context += f"\nPLNÝ TEXT (zkráceno): {full_text}\n"
+
+            # Kombinovaný prompt pro důležitost + obsah
+            prompt = f"""Analyzuj tento technologický článek a vytvoř český obsah.
+
+{article_context}
+
+ÚKOL 1 - DŮLEŽITOST (1-5):
+5 = Průlomové (AGI, kvantové počítače, akvizice $1B+, bezpečnostní krize, shutdown velkých služeb)
+4 = Velmi důležité (nové produkty Apple/Google/Microsoft/Meta/OpenAI, významná partnerství, IPO, funding $100M+)
+3 = Zajímavé (běžné novinky, updaty, zajímavé technologie, novinky od známých firem)
+2 = Spekulace (rumors, leaky, "možná", "údajně", "sources say")
+1 = Nedůležité (triviální novinky, clickbait)
+
+ÚKOL 2 - ČESKÝ OBSAH:
+- Pokud důležitost ≥ 3: Vytvoř strukturovaný článek (400-600 slov)
+- Pokud důležitost < 3: Vytvoř pouze krátké shrnutí (100-150 slov)
+
+Pro důležité články (≥3) použij strukturu:
+## Souhrn
+[2-3 věty s podstatou novinky]
+
+## Klíčové body
+- [3-5 nejdůležitějších bodů]
+
+## Podrobnosti
+[200-300 slov s detaily, kontextem a souvislostmi. Vysvětli, co to znamená pro uživatele/průmysl.]
+
+## Proč je to důležité
+[Dopady, kontext v širším technologickém ekosystému]
+
+FORMÁT ODPOVĚDI (JSON):
+{{
+  "importance": 3,
+  "czech_title": "Přeložený titulek",
+  "czech_description": "Přeložený krátký popis (1-2 věty)",
+  "enhanced_content": "Rozšířený obsah v markdown formátu"
+}}
+
+DŮLEŽITÉ:
+- Technické termíny zachovej v angličtině (AI, API, GPU, atd.)
+- Buď konkrétní, ne obecný
+- Odpověz POUZE validním JSON, bez jakéhokoli dalšího textu
+"""
+
+            headers = {
+                'Authorization': f'Bearer {self.openrouter_api_key}',
+                'Content-Type': 'application/json'
+            }
+
+            data = {
+                'model': 'anthropic/claude-sonnet-4.5',
+                'messages': [
+                    {'role': 'user', 'content': prompt}
+                ],
+                'max_tokens': 2000,  # Dostatek pro dlouhý obsah
+                'temperature': 0.3
+            }
+
+            logger.debug(f"🤖 Volám LLM pro analýzu článku: {title[:50]}...")
+
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=data,
+                timeout=30
+            )
+
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('choices') and len(result['choices']) > 0:
+                    content = result['choices'][0]['message']['content'].strip()
+
+                    # Odstranit případné markdown code bloky
+                    content = re.sub(r'^```json\s*', '', content)
+                    content = re.sub(r'\s*```$', '', content)
+
+                    # Parsovat JSON
+                    try:
+                        analysis = json.loads(content)
+
+                        importance = analysis.get('importance', 3)
+                        logger.info(f"✅ LLM analýza: důležitost={importance}, délka obsahu={len(analysis.get('enhanced_content', ''))} znaků")
+
+                        return {
+                            'importance': importance,
+                            'czech_title': analysis.get('czech_title', title),
+                            'czech_description': analysis.get('czech_description', description),
+                            'enhanced_content': analysis.get('enhanced_content', description)
+                        }
+                    except json.JSONDecodeError as e:
+                        logger.warning(f"⚠️ Chyba parsování JSON z LLM: {e}")
+                        logger.warning(f"Odpověď LLM: {content[:200]}...")
+            else:
+                logger.warning(f"⚠️ LLM API selhalo (HTTP {response.status_code})")
+
+        except Exception as e:
+            logger.warning(f"⚠️ Chyba při LLM analýze: {e}")
+
+        # Fallback - použít staré metody
+        return {
+            'importance': self.detect_importance(title, description, category),
+            'czech_title': self.translate_title(title),
+            'czech_description': self.translate_description(description),
+            'enhanced_content': self.translate_description(description)
+        }
 
     def fetch_newsapi_articles(self):
         """Stáhne články z NewsAPI"""
@@ -140,13 +327,23 @@ class NewsAPITechNewsGenerator:
         filename = f"{date_str}-{slug}.md"
         filepath = self.output_dir / filename
 
-        # Převést na český titulek a popis
-        czech_title = self.translate_title(article['title'])
-        czech_description = self.translate_description(article.get('description', ''))
-
-        # Detekce kategorie, důležitosti, firem a osobností
+        # Detekce kategorie nejdřív (potřebujeme pro LLM analýzu)
         category = self.detect_category(article['title'], article.get('description', ''))
-        importance = self.detect_importance(article['title'], article.get('description', ''), category)
+
+        # Kombinovaná LLM analýza: důležitost + český obsah
+        analysis = self.analyze_and_enhance_article(
+            article['url'],
+            article['title'],
+            article.get('description', ''),
+            category
+        )
+
+        czech_title = analysis['czech_title']
+        czech_description = analysis['czech_description']
+        importance = analysis['importance']
+        enhanced_content = analysis['enhanced_content']
+
+        # Detekce firem a osobností (zachováme pro metadata)
         companies = self.detect_companies(article['title'], article.get('description', ''))
         people = self.detect_people(article['title'], article.get('description', ''))
 
@@ -180,7 +377,9 @@ class NewsAPITechNewsGenerator:
         content = f"""---
 {yaml.dump(front_matter, default_flow_style=False, allow_unicode=True)}---
 
-{czech_description}
+{enhanced_content}
+
+---
 
 [Číst původní článek]({article['url']})
 
@@ -229,7 +428,7 @@ class NewsAPITechNewsGenerator:
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
@@ -295,7 +494,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -358,7 +557,7 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -426,7 +625,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],

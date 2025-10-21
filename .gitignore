@@ -21,7 +21,11 @@ test_fix.py
 test_title.md
 test_title.md
 test_title.md
-/__pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.patch
+*.zip
 test_title.md
 test_validator.py
 test_yaml.md
