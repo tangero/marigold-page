@@ -5,8 +5,8 @@ companies:
 - TechCrunch
 date: '2025-10-19 21:30:09'
 description: Výrobce sanitární techniky Kohler uvádí na trh zařízení Dekoda – kameru
-  za 599 dolarů, která se instaluje do záchodové mísy a fotografuje její obsah pro
-  analýzu zdravotního stavu.
+  za 599 dolarů, která se instaluje do záchodové mísy a fotografuje výkaly pro analýzu
+  zdravotního stavu.
 importance: 3
 layout: tech_news_article
 original_title: Kohler unveils a camera for your toilet - TechCrunch
@@ -16,7 +16,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Kohler představil kameru do záchodu za 15 tisíc korun
+title: Kohler představil kameru do záchodové mísy za 15 tisíc korun
 url: https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/kohler-dekoda.jpg?w=1024
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/kohler-dekoda.jpg?w=1024
@@ -24,27 +24,33 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/kohler-dekod
 
 ## Souhrn
 
-Společnost Kohler, známý výrobce sanitární techniky a vybavení domácností, představila zařízení Dekoda – kameru za 599 dolarů (přibližně 14 000 Kč), která se instaluje do záchodové mísy a pořizuje snímky jejího obsahu. Zařízení analyzuje tyto fotografie s cílem poskytovat informace o zdraví trávicího systému, hydrataci a potenciálně detekovat přítomnost krve.
+Společnost Kohler, známý výrobce sanitární techniky a vybavení domácností, představila zařízení Dekoda – kameru za 599 dolarů (přibližně 14 tisíc korun), která se připevňuje k záchodové míse a pořizuje snímky výkalů. Produkt je již dostupný v předprodeji s plánovaným zahájením dodávek 21. října 2025.
 
 ## Klíčové body
 
-- Cena zařízení činí 599 dolarů s povinným předplatným 70-156 dolarů ročně
-- Dekoda obsahuje dobíjecí baterii, USB připojení a snímač otisků prstů pro identifikaci uživatele
-- Předobjednávky jsou již dostupné, dodávky začínají 21. října 2025
-- Data jsou šifrována end-to-end šifrováním, senzory snímají pouze obsah mísy
+- Cena zařízení činí 599 dolarů plus roční předplatné v rozmezí 70 až 156 dolarů
+- Kamera analyzuje snímky pro sledování zdraví střev, hydratace a potenciální detekci krve
+- Zařízení obsahuje dobíjecí baterii, USB připojení a čtečku otisků prstů pro identifikaci uživatelů
+- Data jsou šifrována end-to-end šifrováním, senzory snímají pouze vnitřek mísy
 - Kohler není jediný – startup Throne nabízí podobné řešení
 
 ## Podrobnosti
 
-Dekoda představuje vstup tradičního výrobce sanitární techniky do segmentu zdravotního monitoringu v domácnosti. Zařízení se připevňuje přímo do záchodové mísy a automaticky pořizuje snímky při každém použití. Podle informací serveru CNET analyzuje tyto snímky pomocí algoritmů, které vyhodnocují stav trávicího systému, úroveň hydratace organismu a dokáží detekovat přítomnost krve, což může být indikátorem různých zdravotních problémů.
+Dekoda představuje vstup tradičního výrobce sanitární techniky do oblasti zdravotních technologií pro domácnost. Zařízení kombinuje hardwarové řešení s pokročilou analýzou obrazu – kamera pořizuje fotografie obsahu záchodové mísy a následně je vyhodnocuje pomocí algoritmů, které mají poskytnout uživatelům informace o stavu jejich trávicího systému.
 
-Zařízení je vybaveno snímačem otisků prstů, který umožňuje identifikovat konkrétního uživatele v domácnosti a přiřadit data správné osobě. Napájení zajišťuje dobíjecí baterie s USB připojením. Kromě pořizovací ceny 599 dolarů je nutné počítat s ročním předplatným v rozmezí 70 až 156 dolarů, což během tří let může celkovou cenu vyšplhat až na 1 067 dolarů.
+Koncepce produktu vychází z předpokladu, že pravidelné sledování stolice může odhalit zdravotní problémy v raném stadiu. Systém má být schopen detekovat přítomnost krve, vyhodnocovat konzistenci a barvu stolice jako indikátory hydratace a celkového zdraví střevního traktu. Čtečka otisků prstů umožňuje rozlišit jednotlivé členy domácnosti a vést pro každého samostatnou zdravotní historii.
 
-Kohler se snaží adresovat obavy ohledně soukromí tím, že zdůrazňuje zaměření senzorů výhradně do mísy a nikam jinam. Veškerá data jsou podle společnosti zabezpečena end-to-end šifrováním. Přesto koncept kamery v tak intimním prostoru může u mnoha uživatelů vyvolávat pochybnosti.
+Z hlediska soukromí Kohler zdůrazňuje, že senzory kamery jsou namířeny výhradně do mísy a nikam jiné, což má minimalizovat riziko nežádoucího snímání intimních partií. Veškerá pořízená data jsou podle výrobce chráněna end-to-end šifrováním, což znamená, že k nim nemá přístup ani samotná společnost.
+
+Biznesový model kombinuje jednorázový nákup hardwaru s pravidelným předplatným, které pokrývá cloudové služby, analýzu dat a pravděpodobně i průběžné aktualizace algoritmů. Roční poplatek mezi 70 až 156 dolary naznačuje existenci různých úrovní služeb.
 
 ## Proč je to důležité
 
-Dekoda ilustruje rostoucí trend monitoringu zdraví v domácím prostředí, který se postupně rozšiřuje i do oblastí, které byly dosud považovány za příliš intimní. Analýza stolice může skutečně poskytovat cenné informace o zdravotním stavu – od problémů s trávením přes dehydrataci až po včasnou detekci vážných onemocnění. Existence konkurenčního produktu od startupu Throne naznačuje, že jde o vznikající kategorii produktů, nikoli o ojedinělý experiment. Otázkou zůstává, zda spotřebitelé budou ochotni překonat psychologickou bariéru a akceptovat kameru v záchodě jako běžnou součást chytré domácnosti.
+Dekoda ilustruje rostoucí trend monitorování zdraví v domácím prostředí a expanzi tradičních výrobců do oblasti chytrých zdravotních technologií. Jde o pokračování trendu, kdy se běžné domácí spotřebiče obohacují o senzory a analytické schopnosti – podobně jako chytré váhy, fitness náramky či chytré hodinky.
+
+Produkt zároveň otevírá otázky ohledně hranic soukromí v domácnosti a ochoty uživatelů sdílet velmi intimní zdravotní data výměnou za potenciální zdravotní benefity. Skutečnost, že na trh vstupují minimálně dvě společnosti s podobným řešením, naznačuje, že výrobci vidí v této kategorii komerční potenciál.
+
+Z medicínského hlediska může pravidelné sledování stolice skutečně pomoci s včasnou detekcí některých onemocnění, otázkou však zůstává přesnost automatizované analýzy a její schopnost nahradit nebo doplnit profesionální lékařské vyšetření.
 
 ---
 
