@@ -213,6 +213,13 @@ DŮLEŽITÉ:
                     except json.JSONDecodeError as e:
                         logger.warning(f"⚠️ Chyba parsování JSON z LLM: {e}")
                         logger.warning(f"Odpověď LLM: {content[:200]}...")
+                        # Fallback při chybě parsování
+                        return {
+                            'importance': self.detect_importance(title, description, category),
+                            'czech_title': self.translate_title(title),
+                            'czech_description': self.translate_description(description),
+                            'enhanced_content': self.translate_description(description)
+                        }
             else:
                 logger.warning(f"⚠️ LLM API selhalo (HTTP {response.status_code})")
 
@@ -674,55 +681,101 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
 
         return []
 
-    def is_gaming_article(self, title, description):
-        """Detekuje články o počítačových hrách a herním průmyslu"""
+    def should_skip_article(self, title, description):
+        """Detekuje články, které by měly být přeskočeny (hry, sport, zábava)"""
         text = f"{title} {description}".lower()
 
-        # Klíčová slova související s hrami a herním průmyslem
+        # === HERNÍ KLÍČOVÁ SLOVA ===
         gaming_keywords = [
             # Obecné herní termíny
-            'game', 'games', 'gaming', 'gamer', 'esports', 'e-sports',
-            # Herní platformy a engine
-            'steam', 'playstation', 'xbox', 'nintendo', 'unreal engine', 'unity engine',
+            'game', 'games', 'gaming', 'gamer', 'gameplay', 'playthrough',
+            'esports', 'e-sports', 'speedrun', 'streamer', 'streaming game',
+            # Herní platformy
+            'steam', 'playstation', 'ps4', 'ps5', 'xbox', 'nintendo', 'switch',
+            'game pass', 'epic games store',
+            # Herní engine a nástroje
+            'unreal engine', 'unity engine', 'game engine',
             # Herní společnosti
-            'activision', 'ubisoft', 'ea sports', 'electronic arts', 'rockstar', 'take-two',
-            'square enix', 'bandai namco', 'konami', 'capcom', 'sega', 'nintendo', 'sony',
-            'microsoft gaming', 'blizzard', 'valve',
-            # Herní žánry
-            'call of duty', 'fortnite', 'valorant', 'counter-strike', 'dota 2',
-            'world of warcraft', 'elden ring', 'dark souls', 'zelda', 'minecraft',
-            # VR/AR hry
-            'virtual reality game', 'vr game', 'metaverse game', 'roblox',
-            # Herní konference
+            'activision', 'ubisoft', 'ea sports', 'electronic arts', 'rockstar',
+            'take-two', 'square enix', 'bandai namco', 'konami', 'capcom', 'sega',
+            'blizzard', 'valve', 'bungie', 'bethesda', 'bioware',
+            # Populární herní série a hry
+            'call of duty', 'fortnite', 'valorant', 'counter-strike', 'cs:go', 'cs2',
+            'dota', 'league of legends', 'lol', 'world of warcraft', 'wow',
+            'elden ring', 'dark souls', 'zelda', 'minecraft', 'roblox',
+            'gta', 'grand theft auto', 'red dead', 'assassin\'s creed',
+            'final fantasy', 'borderlands', 'destiny', 'halo', 'spider-man',
+            'god of war', 'horizon', 'the last of us', 'uncharted',
+            'pokemon', 'mario', 'sonic', 'yakuza', 'resident evil',
+            'street fighter', 'mortal kombat', 'overwatch', 'apex legends',
+            'pubg', 'battlefield', 'fifa', 'nba 2k', 'madden',
+            'diablo', 'starcraft', 'hearthstone', 'witcher', 'cyberpunk',
+            'fallout', 'skyrim', 'elder scrolls', 'doom', 'wolfenstein',
+            'marathon', 'ananta',
+            # Herní žánry a termíny
+            'rpg', 'mmorpg', 'fps', 'battle royale', 'roguelike', 'metroidvania',
+            'souls-like', 'open world', 'sandbox', 'moba', 'rts',
+            'loot box', 'battle pass', 'microtransaction', 'dlc', 'season pass',
+            'gacha game', 'mobile game',
+            # Herní události a média
             'gamescom', 'e3', 'pax', 'game developers conference', 'gdc',
-            # Streamy a obsah
-            'twitch', 'youtube gaming', 'streaming game',
-            # Znevažování her
-            'loot box', 'battle pass', 'microtransaction', 'dlc',
-            # eSports a streamování
-            'esports tournament', 'esports team', 'gaming tournament',
-            'esports player', 'pro gamer', 'speedrun',
+            'state of play', 'nintendo direct', 'xbox showcase',
+            'game awards', 'ign', 'gamespot', 'polygon', 'kotaku',
+            'rock paper shotgun',
+            # VR/AR hry
+            'vr game', 'virtual reality game', 'oculus', 'quest',
+            # Streamování
+            'twitch', 'youtube gaming', 'mixer',
         ]
 
-        # Počet nalezených herních klíčových slov
-        gaming_matches = sum(1 for keyword in gaming_keywords if keyword in text)
+        # === SPORTOVNÍ KLÍČOVÁ SLOVA ===
+        sports_keywords = [
+            # Obecné sportovní termíny
+            'sport', 'sports', 'athlete', 'championship', 'tournament',
+            'league', 'season', 'playoffs', 'finals', 'match', 'game score',
+            # Konkrétní sporty
+            'football', 'soccer', 'basketball', 'baseball', 'hockey',
+            'tennis', 'golf', 'cricket', 'rugby', 'boxing', 'ufc', 'mma',
+            'formula 1', 'f1', 'nascar', 'racing', 'motorsport',
+            # Sportovní organizace
+            'nfl', 'nba', 'mlb', 'nhl', 'fifa world cup', 'premier league',
+            'champions league', 'olympics', 'super bowl',
+            # Wrestling a zábavní sport
+            'wwe', 'wrestling', 'wrestler', 'smackdown', 'raw', 'wrestlemania',
+            'aew', 'impact wrestling',
+        ]
 
-        # Pokud se najde více než 1 herní klíčové slovo, je to pravděpodobně artikel o hrách
-        if gaming_matches > 1:
-            logger.debug(f"🎮 Detekován herní článek (nalezeno {gaming_matches} klíčových slov): {title[:50]}...")
-            return True
+        # === ZÁBAVNÍ KLÍČOVÁ SLOVA ===
+        entertainment_keywords = [
+            # Filmy a seriály (pokud nejsou o technologii)
+            'movie review', 'film review', 'tv series', 'netflix show',
+            'season finale', 'episode', 'actor', 'actress', 'director',
+            'box office', 'trailer review',
+            # Reality show a celebritní zprávy
+            'reality show', 'celebrity news', 'gossip',
+        ]
 
-        # Pokud se najde klíčové slovo "game" s dalšími indikátory
-        if 'game' in text or 'gaming' in text:
-            # Podívat se na další indikátory, které by potvrdily, že je to o hrách
-            gaming_indicators = [
-                'game release', 'game update', 'new game', 'game trailer',
-                'game review', 'game patch', 'gaming news', 'game developer',
-                'game engine', 'gaming studio', 'gaming hardware',
+        # Zkombinovat všechny klíčové slova
+        all_skip_keywords = gaming_keywords + sports_keywords + entertainment_keywords
+
+        # Spočítat shody
+        matches = sum(1 for keyword in all_skip_keywords if keyword in text)
+
+        # Agresivnější detekce - stačí 1 shoda
+        if matches > 0:
+            # Extra kontrola - některá slova mohou být falešně pozitivní
+            # Pokud je to o technologii (ne o samotné hře), nepřeskakovat
+            tech_indicators = [
+                'ai in gaming', 'machine learning', 'artificial intelligence',
+                'cloud gaming technology', 'game streaming technology',
+                'graphics card', 'gpu', 'processor', 'chip',
+                'nvidia', 'amd', 'intel' # pokud není přímo o herním hardware
             ]
 
-            if any(indicator in text for indicator in gaming_indicators):
-                logger.debug(f"🎮 Detekován herní článek (herní indikátor): {title[:50]}...")
+            has_tech_context = any(indicator in text for indicator in tech_indicators)
+
+            if not has_tech_context:
+                logger.debug(f"🚫 Přeskakuji článek (nalezeno {matches} klíčových slov pro přeskočení): {title[:50]}...")
                 return True
 
         return False
@@ -803,7 +856,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         self.clean_duplicates(articles)
 
         processed_count = 0
-        skipped_gaming_count = 0
+        skipped_count = 0
 
         for i, article in enumerate(articles, 1):
             try:
@@ -812,10 +865,10 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                     logger.warning(f"⏭️ Přeskakuji článek {i} - chybí titulek")
                     continue
 
-                # Přeskočit články o hrách a herním průmyslu
-                if self.is_gaming_article(article['title'], article.get('description', '')):
-                    logger.info(f"🎮 Přeskakuji herní článek {i}: {article['title'][:50]}...")
-                    skipped_gaming_count += 1
+                # Přeskočit články o hrách, sportu a zábavě
+                if self.should_skip_article(article['title'], article.get('description', '')):
+                    logger.info(f"🚫 Přeskakuji nerelevantní článek {i}: {article['title'][:50]}...")
+                    skipped_count += 1
                     continue
 
                 logger.info(f"📝 Zpracovávám článek {i}: {article['title'][:50]}...")
@@ -835,8 +888,8 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 continue
 
         logger.info(f"✅ Úspěšně zpracováno {processed_count} článků")
-        if skipped_gaming_count > 0:
-            logger.info(f"🎮 Přeskočeno {skipped_gaming_count} herních článků")
+        if skipped_count > 0:
+            logger.info(f"🚫 Přeskočeno {skipped_count} nerelevantních článků (hry, sport, zábava)")
 
         # Vytvoření index stránky
         self.create_index_page(processed_count)
