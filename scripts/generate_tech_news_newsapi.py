@@ -139,6 +139,18 @@ Pro důležité články (≥3) použij strukturu:
 ## Proč je to důležité
 [Dopady, kontext v širším technologickém ekosystému]
 
+STYLISTICKÉ ZÁSADY:
+- Piš česky, čitelně, jasně, konkrétně a střízlivě
+- Vyvaruj se superlativů a nadšených výrazů
+- Vynechej preambuli, jdi přímo k věci
+- Buď kritický expert na umělou inteligenci, IT a robotiku
+- Používej co nejvíce detailů a konkrétních informací
+- Preferuj delší souvislý text před bodovými odrážkami
+- Vyvaruj se anglicismů, používej české výrazy
+- U každého nového software či funkce zmiň, k čemu slouží a k čemu je možné je použít
+- U méně známých firem uveď, čím se zabývají
+- Úvodní odstavec by měl obsahovat shrnutí toho, o čem článek je
+
 FORMÁT ODPOVĚDI (JSON):
 {{
   "importance": 3,
