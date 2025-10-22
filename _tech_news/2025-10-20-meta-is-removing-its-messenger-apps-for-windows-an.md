@@ -6,7 +6,7 @@ companies:
 - Apple
 date: '2025-10-20 15:09:26'
 description: Obě desktopové aplikace byly odstraněny z obchodů a přestanou fungovat
-  v prosinci. Uživatelé budou muset přejít na webovou verzi.
+  v prosinci 2025. Uživatelé budou muset přejít na webovou verzi.
 importance: 3
 layout: tech_news_article
 original_title: Meta is removing its Messenger apps for Windows and macOS - The Verge
@@ -24,30 +24,30 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Meta ukončuje podporu nativních desktopových aplikací Messenger pro Windows a macOS. Obě aplikace již byly odstraněny z Microsoft Store a Mac App Store a stávající uživatelé dostávají upozornění, že aplikace přestanou fungovat v prosinci 2025.
+Meta ukončuje podporu samostatných desktopových aplikací Messenger pro Windows a macOS. Obě aplikace již byly staženy z Microsoft Store a Mac App Store a stávajícím uživatelům přicházejí oznámení, že aplikace přestanou fungovat v prosinci 2025.
 
 ## Klíčové body
 
-- Aplikace Messenger pro Windows přestane fungovat 14. prosince 2025
+- Desktopové aplikace Messenger pro Windows a macOS byly odstraněny z oficiálních obchodů
+- Aplikace pro Windows přestane fungovat 14. prosince 2025
 - Uživatelé macOS mají 60denní lhůtu před úplným zablokováním aplikace
-- Obě aplikace již nejsou dostupné ke stažení v oficiálních obchodech
-- Uživatelé Windows mohou přejít na aplikaci Facebook nebo webovou verzi Messengeru
-- Uživatelé macOS budут mít k dispozici pouze webovou verzi
+- Uživatelé Windows budou muset přejít na aplikaci Facebook nebo webovou verzi Messenger
+- Uživatelé macOS budou mít k dispozici pouze webovou verzi
 - Meta plánuje podobný krok i u WhatsApp pro Windows
 
 ## Podrobnosti
 
-Meta postupně opouští nativní desktopové aplikace ve prospěch webových řešení. Podle informací z oficiální stránky podpory Meta, kterou jako první zaznamenal Apple Insider, mají uživatelé Mac aplikace Messenger 60 dní na přechod k alternativním řešením, než bude aplikace kompletně zablokována. Uživatelé Windows vidí konkrétní datum ukončení podpory - 14. prosince 2025.
+Meta postupně opouští nativní desktopové aplikace ve prospěch webových řešení. Podle podpůrné stránky společnosti, kterou jako první zaznamenal Apple Insider, mají uživatelé Mac aplikace Messenger 60 dní na přechod k alternativním řešením, než bude aplikace kompletně zablokována. Uživatelé Windows dostávají konkrétnější termín - 14. prosince 2025.
 
-Pro uživatele Windows existují dvě alternativy: buď mohou používat webovou verzi Messengeru v prohlížeči, nebo komunikovat přes desktopovou aplikaci Facebook, která Messenger integruje. Uživatelé macOS mají situaci komplikovanější - Meta totiž nenabízí desktopovou aplikaci Facebook pro macOS, takže jejich jedinou možností zůstává webové rozhraní Messengeru.
+Zrušení desktopových aplikací znamená výraznou změnu pro uživatele obou platforem. Zatímco uživatelé Windows mohou jako alternativu využít desktopovou aplikaci Facebook, která obsahuje integrovaný Messenger, uživatelé macOS takovou možnost nemají a budou odkázáni výhradně na webové rozhraní přístupné přes prohlížeč.
 
-Tento krok není ojedinělý. Meta podle dostupných informací plánuje podobný přechod i u WhatsApp pro Windows, kde chce nahradit nativní aplikaci verzí postavenou na webových technologiích. Tento přístup společnosti umožňuje zjednodušit vývoj a údržbu aplikací - místo samostatných kódových bází pro každou platformu stačí udržovat jednu webovou verzi, která běží v různých obalech.
+Tento krok není ojedinělý. Meta připravuje podobnou změnu i pro WhatsApp na Windows, kde plánuje nahradit nativní aplikaci verzí postavenou na webových technologiích. Toto rozhodnutí pravděpodobně souvisí se snahou zjednodušit vývoj a údržbu aplikací napříč platformami. Webové aplikace umožňují jednotnou kódovou základnu a rychlejší nasazování aktualizací, což snižuje náklady na vývoj.
 
 ## Proč je to důležité
 
-Rozhodnutí Meta odráží širší trend v technologickém průmyslu směrem k webovým aplikacím a opouštění nativních desktopových řešení. Tento přístup sice snižuje náklady na vývoj a zjednodušuje údržbu, ale často jde na úkor výkonu a integrace se systémem. Uživatelé přicházejí o nativní notifikace, lepší správu paměti a další výhody, které nativní aplikace nabízejí.
+Rozhodnutí Meta odráží širší trend v technologickém průmyslu směrem k webovým aplikacím a opouštění nativních desktopových řešení. Tento přístup sice zjednodušuje vývoj a údržbu pro společnosti, ale často na úkor uživatelského komfortu a funkcí specifických pro danou platformu.
 
-Pro miliony uživatelů Messengeru na desktopech to znamená nutnost přizpůsobit se novému způsobu komunikace. Webové aplikace sice nabízejí podobnou funkcionalitu, ale vyžadují otevřený prohlížeč a často spotřebovávají více systémových prostředků než nativní řešení. Tento krok také ukazuje, jak Meta prioritizuje mobilní platformy, kde má Messenger stovky milionů aktivních uživatelů, oproti relativně menší desktopové základně.
+Pro miliony uživatelů Messengeru na desktopu to znamená nutnost adaptace na webové rozhraní, které nemusí nabízet stejnou úroveň integrace se systémem, jako nativní aplikace. Chybět mohou například pokročilé notifikace, lepší správa oken nebo offline funkce. Tento krok také ukazuje, jak Meta prioritizuje efektivitu vývoje před uživatelskou zkušeností na menších platformách, kde desktopové aplikace představují pouze zlomek celkové uživatelské základny.
 
 ---
 
