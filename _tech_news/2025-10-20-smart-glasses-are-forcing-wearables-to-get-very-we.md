@@ -1,16 +1,8 @@
 ---
 category: nositelná elektronik
-companies:
-- Na základě poskytnutého textu (pouze nadpisu a popisu) nemohu identifikovat žádné
-  konkrétní technologické firmy. Text mluví obecně o "smart glasses" a "wearables
-- 'ale neuvádí názvy žádných společností.
-
-
-  žádné'
 date: '2025-10-20 16:18:20'
-description: Nástup chytrých brýlí s displeji přináší vlnu neobvyklých nositelných
-  zařízení pro jejich ovládání. Meta představila neuronální náramek, další firmy vsázejí
-  na chytré prsteny.
+description: S příchodem chytrých brýlí od Mety, Samsungu a Apple se objevují nové
+  ovládací metody - od náramků snímających nervové signály po chytré prsteny.
 importance: 3
 layout: tech_news_article
 original_title: Smart Glasses Are Forcing Wearables to Get Very Weird - Gizmodo
@@ -28,29 +20,28 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2025/10/Smart-ring-1200x675.jp
 
 ## Souhrn
 
-Chytré brýle s displeji se dostávají na trh a s nimi přichází nová generace nositelné elektroniky určené k jejich ovládání. Meta uvedla Ray-Ban Display brýle s neuronálním náramkem využívajícím elektromyografii, zatímco další výrobci experimentují s chytrými prsteny a dalšími alternativními ovládacími metodami.
+Chytré brýle přestávají být experimentem a stávají se realitou - Meta právě uvedla na trh Ray-Ban Display s displejem, Samsung a Apple mají následovat. Zásadní otázkou ale zůstává způsob ovládání, což vede k vývoju neobvyklých nositelných zařízení jako jsou náramky snímající nervové signály nebo chytré prsteny.
 
 ## Klíčové body
 
-- Meta Ray-Ban Display brýle jsou prvním modelem společnosti s integrovaným displejem a jsou již dostupné v prodeji
-- Neural Band od Mety je elektromyografický (EMG) náramek, který snímá elektrické signály ve svalech ruky a prstů a překládá je do ovládacích příkazů
-- Gesta jako přejetí palcem po sevřené pěsti fungují jako kurzor, sevření palce a ukazováku simuluje kliknutí myši
-- Alternativou jsou chytré prsteny s dotykovou plochou, které používají výrobci jako INMO pro své AR brýle
-- Výzkumníci z Tokijské univerzity vyvinuli picoRing mouse, který spotřebovuje pouze 2 % energie běžných řešení
+- Meta představila Neural Band - náramek využívající elektromyografii (EMG) ke snímání elektrických signálů ve svalech ruky a prstů
+- Gesta jako přejetí palcem po sevřené pěsti fungují jako kurzor, sevření palce a ukazováčku jako kliknutí myší
+- Alternativou jsou chytré prsteny s dotykovou plochou, které používají například brýle od firmy INMO
+- Výzkumníci z Tokijské univerzity vyvinuli picoRing mouse, který spotřebovává pouze 2 % energie běžných řešení
 
 ## Podrobnosti
 
-Trh s chytrými brýlemi prochází zásadní transformací. Po letech experimentů se zařízení s integrovanými displeji dostávají do běžného prodeje, přičemž se očekává vstup dalších velkých hráčů jako Samsung a Apple. Klíčovou výzvou však zůstává způsob ovládání – dotykové plochy na brýlích jsou nepraktické a hlasové ovládání nevyhovuje ve všech situacích.
+Meta Ray-Ban Display představují první generaci chytrých brýlí s displejem od této společnosti. Klíčovou součástí ekosystému je Neural Band - náramek, který čte elektrické signály vznikající při pohybu svalů v předloktí a prstech. Technologie elektromyografie umožňuje detekovat i jemné pohyby, které se pak překládají do ovládacích příkazů pro brýle. Uživatel tak může navigovat v rozhraní brýlí pomocí gest prováděných v sevřené pěsti, aniž by musel fyzicky dotýkat brýle nebo vytahovat telefon.
 
-Meta přišla s řešením v podobě Neural Band, sofistikovaného náramku využívajícího elektromyografii. Technologie EMG dokáže zachytit elektrické impulzy vznikající při pohybu svalů a nervů v předloktí a prstech, ještě než dojde k viditelnému pohybu. Systém tak rozpozná záměr uživatele provést gesto a okamžitě ho přeloží do ovládacího příkazu pro brýle. Výsledkem je ovládání, které působí téměř magicky – uživatel provádí jemná gesta rukou a brýle reagují bez viditelného fyzického rozhraní.
+Méně známé firmy jako INMO, která vyvíjí AR brýle s tlustšími obroučkami, volí odlišný přístup. Jejich řešení spočívá v chytrém prstenu s dotykovou plochou, po které uživatel přejíždí palcem. Princip je podobný jako u Meta Neural Band, ale technologie je jednodušší a pravděpodobně levnější.
 
-Alternativním přístupem jsou chytré prsteny s dotykovou plochou. Výrobci jako INMO je nasazují u tlustších AR brýlí, kde prsten detekuje přejetí palcem po jeho povrchu. Tento přístup je technologicky jednodušší než EMG, ale vyžaduje aktivní dotyk na fyzickém povrchu. Výzkumný tým z Tokijské univerzity posunul koncept dále s picoRing mouse, který dosahuje dramatického snížení spotřeby energie na pouhá 2 % oproti standardním řešením, což je klíčové pro celodenní použití.
+Výzkumný tým z Tokijské univerzity posunul koncept chytrého prstenu dále s prototypem picoRing mouse. Tento miniaturní ovladač dokáže fungovat s pouhými 2 % energie, kterou spotřebovávají současná řešení, což je zásadní pro nositelnou elektroniku, kde je výdrž baterie kritickým faktorem.
 
 ## Proč je to důležité
 
-Vývoj těchto ovládacích zařízení ukazuje, že chytré brýle nejsou izolovaným produktem, ale katalyzátorem pro celou novou kategorii nositelné elektroniky. Zatímco dosavadní wearables jako chytré hodinky nebo fitness náramky fungovaly samostatně, nová generace je navržena jako doplňkové ovládací rozhraní pro jiná zařízení. To představuje zásadní posun v konceptu nositelné elektroniky.
+Příchod chytrých brýlí od hlavních hráčů trhu (Meta, Samsung, Apple) signalizuje začátek nové éry nositelné elektroniky. Zásadní výzvou ale není samotný hardware brýlí, nýbrž způsob jejich ovládání. Tradiční metody jako dotykové plochy na obroučkách nebo hlasové příkazy mají své limity - první jsou nepřesné, druhé nevhodné na veřejnosti.
 
-Úspěch chytrých brýlí bude záviset právě na kvalitě a přirozenosti ovládání. Pokud se Neural Band nebo podobná zařízení osvědčí v praxi, mohou odstranit hlavní bariéru adopce AR brýlí běžnými uživateli. Zároveň se otevírá prostor pro specializované výrobce nositelné elektroniky, kteří nemusí vyvíjet kompletní ekosystém, ale mohou se zaměřit na optimalizaci ovládacích rozhraní pro produkty velkých hráčů.
+Neuronální náramky a chytré prsteny představují potenciální řešení, které umožňuje diskrétní a přesné ovládání. Jde o fundamentální posun v interakci s technologií - místo fyzického dotyku zařízení systém interpretuje záměr uživatele ze svalové aktivity. Pokud se tato technologie osvědčí, může změnit nejen způsob používání chytrých brýlí, ale i dalších zařízení.
 
 ---
 

@@ -3,8 +3,8 @@ category: akcie apple
 companies:
 - Apple
 date: '2025-10-20 17:27:21'
-description: Akcie Apple vzrostly na historické maximum po zveřejnění dat ukazujících
-  14% nárůst prodejů iPhone 17 oproti předchozí generaci v prvních deseti dnech dostupnosti.
+description: Akcie Apple vzrostly na rekordní hodnotu po pozitivních zprávách analytiků
+  o poptávce po iPhone 17, který v prvních 10 dnech předčil prodeje iPhone 16 o 14%.
 importance: 3
 layout: tech_news_article
 original_title: 'Jim Cramer: Patient Apple bulls are vindicated, and the stock is
@@ -17,8 +17,7 @@ source:
   emoji: 📰
   id: null
   name: CNBC
-title: Akcie Apple dosáhly rekordních hodnot po pozitivních datech o prodeji iPhone
-  17
+title: Akcie Apple dosáhly historického maxima díky silné poptávce po iPhone 17
 url: https://www.cnbc.com/2025/10/20/jim-cramer-patient-apple-bulls-are-vindicated-and-the-stock-is-just-getting-started.html
 urlToImage: https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-gettyimages-2235712789-AFP_764J3VL.jpeg?v=1760970266&w=1920&h=1080
 urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-gettyimages-2235712789-AFP_764J3VL.jpeg?v=1760970266&w=1920&h=1080
@@ -26,27 +25,29 @@ urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-
 
 ## Souhrn
 
-Akcie společnosti Apple dosáhly vpondělí historického maxima poté, co analytici Wall Street zveřejnili pozitivní data o poptávce po nové řadě iPhone 17. Podle výzkumné firmy Counterpoint předčila nová generace iPhone 17 prodeje modelu iPhone 16 o 14 % v USA a Číně během prvních deseti dnů od uvedení na trh.
+Akcie společnosti Apple dosáhly vpondělí nového historického maxima poté, co analytici Wall Street zveřejnili pozitivní data o poptávce po nové řadě iPhone 17. Podle výzkumné společnosti Counterpoint předčely modely iPhone 17 v prvních 10 dnech dostupnosti prodeje předchozí generace iPhone 16 o 14% na americkém a čínském trhu.
 
 ## Klíčové body
 
-- iPhone 17 zaznamenal o 14 % vyšší prodeje než iPhone 16 v prvních deseti dnech dostupnosti v USA a Číně
-- Základní model iPhone 17 nabízí vylepšený čip, lepší displej, vyšší základní úložiště a vylepšenou selfie kameru za stejnou cenu jako loňský iPhone 16
-- Nový model iPhone Air, který používá výhradně eSIM bez možnosti fyzické SIM karty, byl v Číně během předobjednávek téměř okamžitě vyprodán
-- Akcie Apple překonaly předchozí rekord z 26. prosince 2024, kdy dosáhly hodnoty 259 dolarů
-- Analytická firma Loop Capital upgradovala rating akcií Apple
+- Akcie Apple směřovaly k překonání předchozího rekordu z 26. prosince 2024, kdy uzavřely na hodnotě 259 dolarů
+- iPhone 17 zaznamenal o 14% vyšší prodeje než iPhone 16 v prvních 10 dnech na klíčových trzích
+- Základní model iPhone 17 nabízí vylepšený čip, lepší displej, větší úložiště a vylepšenou selfie kameru za stejnou cenu jako loňský iPhone 16
+- Nový model iPhone Air, který funguje výhradně s eSIM, se v Číně vyprodal téměř okamžitě po zahájení předobjednávek 17. října
+- Analytická společnost Loop Capital upgradovala rating akcií Apple
 
 ## Podrobnosti
 
-Pozitivní zprávy o prodeji iPhone 17 vyvrátily obavy investorů ohledně dopadu cel na ceny zařízení a možného slabého zájmu kvůli funkcím umělé inteligence Siri. Finanční analytik Jim Cramer označil tyto obavy za neopodstatněné a zdůraznil, že nesprávné vnímání situace vytváří příležitost pro nákup akcií.
+Trhový optimismus ohledně Apple přichází po období nejistoty, kdy investoři vyjadřovali obavy z možného dopadu cel na ceny iPhone a z nedostatečného zájmu kvůli asistentce Siri. Finanční komentátor Jim Cramer označil tyto obavy za neopodstatněné a zdůraznil, že mylné představy o produktech Apple vytvořily nákupní příležitost.
 
-Výzkumná firma Counterpoint vyzdvihla zejména základní model iPhone 17 jako velmi atraktivní nabídku pro spotřebitele. Zařízení přináší výrazná vylepšení včetně výkonnějšího procesoru, kvalitnějšího displeje, větší základní kapacity úložiště a vylepšené přední kamery, přičemž cena zůstala na stejné úrovni jako u předchozí generace. V kombinaci s obchodními slevami a kupóny od operátorů se podle analytiků jedná o velmi výhodnou nabídku.
+Výzkumná společnost Counterpoint ve své analýze vyzdvihla atraktivitu základního modelu iPhone 17, který nabízí výrazně lepší poměr ceny a výkonu než předchozí generace. Zákazníci získávají vylepšený procesor, kvalitnější displej, větší základní úložiště a vylepšenou přední kameru, přičemž cena zůstala na stejné úrovni jako u iPhone 16. V kombinaci s obchodními slevami a kupóny se podle analytiků stává nákup tohoto zařízení logickou volbou.
 
-Zajímavým milníkem je úspěch nového modelu iPhone Air, který je prvním zařízením Apple využívajícím výhradně technologii eSIM bez možnosti vložení fyzické SIM karty. V Číně, kde předobjednávky začaly 17. října, byl model téměř okamžitě vyprodán. Counterpoint označil tento úspěch za významný krok nejen pro Apple, ale i pro širší adopci technologie eSIM na trhu. Model iPhone Air dosahuje mírně lepších výsledků než loňský iPhone 16 Plus.
+Zvláštní pozornost si zaslouží model iPhone Air, který představuje významný milník v přechodu na technologii eSIM. Tento model zcela opouští fyzickou SIM kartu a spoléhá výhradně na virtuální eSIM. V Číně, kde předobjednávky začaly 17. října, se zařízení vyprodalo téměř okamžitě, což Counterpoint označil za důležitý úspěch nejen pro Apple, ale i pro širší adopci technologie eSIM.
+
+Jim Cramer opakovaně upozorňoval na výhodnost nových iPhone díky vysoké výkupní hodnotě starších modelů a slevám od operátorů, což činí upgrade finančně dostupnějším než v minulosti.
 
 ## Proč je to důležité
 
-Úspěch iPhone 17 potvrzuje, že Apple si udržuje silnou pozici na trhu smartphonů i přes rostoucí konkurenci a ekonomické nejistoty. Pozitivní přijetí základního modelu ukazuje, že spotřebitelé oceňují konkrétní hardwarová vylepšení za stabilní cenu více než pouze marketingové sliby ohledně umělé inteligence. Rychlý výprodej modelu iPhone Air v Číně signalizuje rostoucí připravenost trhu přijmout technologii eSIM, což může urychlit odklon od fyzických SIM karet v celém odvětví. Pro investory představují aktuální výsledky potvrzení, že upgrade cyklus funguje a obavy z negativních dopadů cel či slabého zájmu o AI funkce byly předčasné.
+Silný start prodejů iPhone 17 potvrzuje, že Apple si udržuje schopnost přesvědčit zákazníky k upgradu navzdory obavám z ekonomické nejistoty a rostoucích cen. Úspěch základního modelu ukazuje, že zákazníci oceňují konkrétní technická vylepšení za rozumnou cenu více než prémiové funkce dražších variant. Rychlé vyprodání modelu iPhone Air v Číně signalizuje rostoucí připravenost trhu přijmout technologii eSIM, což může urychlit konec fyzických SIM karet v celém odvětví. Pro investory představuje překonání historických maxim potvrzení, že Apple zůstává dominantní silou na trhu prémiových smartphonů.
 
 ---
 
