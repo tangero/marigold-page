@@ -23,29 +23,27 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Powerbanka Iniu P55-E2 je nyní dostupná na Amazonu za 13,74 dolaru po aplikaci automatické slevy 45 procent, což představuje historicky nejnižší cenu. Zařízení kombinuje kompaktní rozměry srovnatelné s pouzdrem AirPods Pro s kapacitou 10 000 mAh a maximálním výkonem 45W.
+Powerbanka Iniu P55-E2 s kapacitou 10 000 mAh je aktuálně dostupná na Amazonu za 13,74 dolaru po aplikaci automatického kupónu s 45% slevou. Zařízení kombinuje kompaktní rozměry srovnatelné s pouzdrem AirPods Pro s výkonem 45W a třemi nabíjecími porty.
 
 ## Klíčové body
 
 - Kapacita 10 000 mAh umožňuje dvakrát plně nabít iPhone 16
 - Maximální výkon 45W přes USB-C port pro rychlé nabíjení
 - Tři porty celkem (dva USB-C a jeden USB-A) pro současné nabíjení tří zařízení
-- Integrovaný displej zobrazující zbývající kapacitu
-- Aktuální cena 13,74 dolaru představuje slevu 44 procent z původních 25 dolarů
+- Aktuální cena 13,74 dolaru představuje nejnižší hodnotu od uvedení na trh
+- Displej zobrazující zbývající kapacitu baterie
 
 ## Podrobnosti
 
-Model P55-E2 od společnosti Iniu, která se specializuje na nabíjecí příslušenství, představuje kompromis mezi velikostí a kapacitou. Ačkoliv není tak kompaktní jako model Pocket Rocket P50 od stejného výrobce, nabízí výrazně vyšší kapacitu při zachování ultratenkého designu.
+Model P55-E2 od společnosti Iniu, která se specializuje na nabíjecí příslušenství, představuje kompromis mezi velikostí a kapacitou. Zatímco není tak kompaktní jako model Pocket Rocket P50 od stejného výrobce, nabízí větší kapacitu a vyšší výkon. Kapacita 10 000 mAh je dostatečná pro dvě úplná nabití iPhone 16 nebo jedno nabití většiny tabletů a herních konzolí včetně Nintendo Switch 2.
 
-Baterie s kapacitou 10 000 mAh postačuje na dvojnásobné nabití současných smartphonů, jako je iPhone 16. Hlavní USB-C port podporuje výkon až 45W, což umožňuje rychlé nabíjení nejen telefonů, ale i tabletů a herních konzolí včetně Nintendo Switch 2. Přítomnost tří portů (dva USB-C a jeden USB-A) zajišťuje kompatibilitu s různými zařízeními a možnost nabíjet více zařízení současně.
+Výkon 45W dostupný přes jeden z USB-C portů umožňuje rychlé nabíjení kompatibilních zařízení. Tato hodnota je dostatečná pro efektivní nabíjení smartphonů, tabletů i menších notebooků podporujících nabíjení přes USB-C. Přítomnost tří portů současně (dva USB-C a jeden USB-A) rozšiřuje praktické využití, protože umožňuje nabíjet více zařízení najednou, byť při rozdělení celkového výkonu.
 
-Powerbanka obsahuje displej, který zobrazuje přesnou zbývající kapacitu, což uživatelům umožňuje lépe plánovat nabíjení. Zařízení se prodává v černém provedení a sleva je aplikována automaticky při objednávce na Amazonu.
-
-Cena 13,74 dolaru představuje výrazný pokles oproti běžné ceně 25 dolarů. Jde o nižší cenu než během nedávného Prime Day výprodeje v říjnu 2025, kdy byla powerbanka také zlevněna.
+Ultra-tenký design powerbanky ji činí vhodnou pro přenášení v kapse nebo menší tašce. Integrovaný displej poskytuje přehled o zbývající kapacitě, což eliminuje nutnost odhadovat, kolik energie ještě zbývá. Aktuální sleva představuje pokles z původní ceny 25 dolarů na 13,74 dolaru, což je podle dostupných informací historicky nejnižší cena tohoto modelu.
 
 ## Proč je to důležité
 
-Trh s powerbankami je přesycený levnými produkty s podobnými parametry, ale kombinace kompaktních rozměrů, vysoké kapacity a výkonu 45W za cenu pod 15 dolary představuje nadstandardní nabídku. Pro běžné uživatele smartphonů a tabletů jde o praktické řešení pro cestování nebo situace, kdy není k dispozici zásuvka. Podpora rychlého nabíjení až 45W je relevantní zejména pro novější zařízení, která tuto funkci podporují a mohou tak výrazně zkrátit dobu nabíjení.
+Trh s powerbankami je přesycený, ale kombinace kompaktních rozměrů, vysoké kapacity a dostupné ceny činí z P55-E2 zajímavou volbu pro běžné uživatele. Výkon 45W je relevantní v kontextu rostoucích nároků moderních zařízení na rychlost nabíjení. Pro uživatele, kteří potřebují spolehlivé záložní napájení pro mobilní zařízení, představuje tato powerbanka praktické řešení s dobrým poměrem ceny a výkonu.
 
 ---
 

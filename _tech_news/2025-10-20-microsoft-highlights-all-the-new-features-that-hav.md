@@ -5,7 +5,7 @@ companies:
 date: '2025-10-20 12:54:58'
 description: Microsoft publikoval přehled všech nových funkcí, které dorazily do Windows
   11 v roce 2025. Operační systém dostává aktualizace téměř každý měsíc v rámci strategie
-  kontinuální inovace.
+  průběžných inovací.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft highlights all the new features that have shipped on Windows
@@ -24,33 +24,27 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/7kZUkvTX3qs2LE52ZBteaN-2560-
 
 ## Souhrn
 
-Microsoft zveřejnil shrnutí všech novinek, které dorazily do Windows 11 v průběhu roku 2025. Operační systém prochází strategií "kontinuální inovace", která přináší nové funkce prakticky každý měsíc. Aktualizace zahrnují vylepšení Průzkumníka souborů, přepracované widgety, AI funkce pro Copilot+ počítače i drobná vylepšení uživatelského rozhraní.
+Microsoft zveřejnil shrnutí všech nových funkcí a vylepšení, které dorazily do Windows 11 v průběhu roku 2025. Společnost postupuje podle strategie nazvané "continuous innovation" (průběžné inovace), která přináší nové funkce do operačního systému v měsíčním taktu. Aktualizace se zaměřují na AI integraci, vylepšení uživatelského rozhraní a konzistenci designu.
 
 ## Klíčové body
 
-- Průzkumník souborů získal novou nabídku AI Actions pro práci se soubory na Copilot+ počítačích
-- Panel widgetů prošel kompletním přepracováním s podporou Copilot Discover a novou personalizací
-- Widgety jsou nyní dostupné i na zamykací obrazovce s možností vlastního uspořádání
-- Windows Hello dostalo vizuální redesign přihlašovacích metod
-- Microsoft pokračuje v měsíčním vydávání nových funkcí místo tradičních velkých aktualizací
+- Průzkumník souborů získal novou nabídku AI Actions, která se zobrazuje po kliknutí pravým tlačítkem na soubory v počítačích Copilot+ PC
+- Panel widgetů prošel kompletní přestavbou s novým rozhraním poháněným funkcí Copilot Discover
+- Widgety jsou nyní dostupné i na zamykací obrazovce s možností přizpůsobení pozice a výběru
+- Windows Hello dostal vizuální redesign přihlašovacích metod
+- Systém dostává měsíční aktualizace zaměřené na intuitivnost, bezpečnost, přístupnost a spolehlivost
 
 ## Podrobnosti
 
-Microsoft v roce 2025 výrazně změnil přístup k aktualizacím Windows 11. Místo tradičních velkých pololetních aktualizací firma přešla na model kontinuálního vydávání novinek, kdy uživatelé dostávají nové funkce prakticky každý měsíc. Tento přístup má za cíl učinit systém intuitivnějším, bezpečnějším, přístupnějším a spolehlivějším.
+Průzkumník souborů, základní nástroj pro správu souborů ve Windows, získal několik významných vylepšení. Nová funkce AI Actions se integruje do kontextové nabídky a nabízí AI-asistované operace se soubory na zařízeních s Copilot+ PC. Domovská stránka Průzkumníka souborů nyní zobrazuje aktivitu od lidí, se kterými uživatel sdílí soubory, což usnadňuje sledování spolupráce.
 
-Průzkumník souborů, základní nástroj pro správu souborů, získal několik významných vylepšení. Nejvýraznější je nová nabídka AI Actions, která se zobrazí po kliknutí pravým tlačítkem na soubory, ale pouze na počítačích s označením Copilot+. Tyto počítače disponují specializovaným hardwarem pro zpracování AI úloh. Domovská stránka Průzkumníka nyní také zobrazuje aktivitu od lidí, se kterými uživatel sdílí soubory, což usnadňuje spolupráci.
+Panel widgetů prošel zásadní proměnou. Nové rozhraní odděluje widgety do samostatného přehledu a využívá Copilot Discover pro kuraci zpravodajského obsahu na základě zájmů a konverzací uživatele. Widgety se poprvé objevily i na zamykací obrazovce, kde je možné je plně přizpůsobit - uživatelé mohou přidávat a odebírat libovolné widgety včetně těch od třetích stran a měnit jejich pozici.
 
-Panel widgetů prošel zásadní proměnou. Nově je poháněn technologií Copilot Discover a nabízí přepracované rozhraní, kde jsou widgety umístěny v samostatném panelu. Zpravodajský kanál obsahuje příběhy kurátorované umělou inteligencí Copilot na základě zájmů a konverzací uživatele. Widgety jsou poprvé dostupné i na zamykací obrazovce s možností přidávat, odebírat a přesouvat jednotlivé widgety včetně těch od třetích stran.
-
-Microsoft také zdůrazňuje vylepšení v oblasti "řemeslného zpracování" systému, což označuje drobná vylepšení kvality a konzistence uživatelského rozhraní. Windows Hello, systém pro biometrické přihlašování, získal vizuální redesign, který aktualizoval vzhled přihlašovacích metod na zamykací obrazovce i v dialogových oknech.
+Microsoft věnoval pozornost také tomu, co nazývá "craft" - kvalitativním vylepšením a konzistenci uživatelského rozhraní. Windows Hello, systém pro biometrické přihlašování, dostal vizuální redesign, který aktualizuje vzhled přihlašovacích metod na zamykací obrazovce i při zobrazení výzvy Windows Hello v rámci systému. Další vylepšení zahrnují přidání oddělovačů k ikonám nejvyšší úrovně v různých částech rozhraní.
 
 ## Proč je to důležité
 
-Přechod Microsoftu na model kontinuálních aktualizací představuje významnou změnu ve vývoji Windows. Tradiční model velkých pololetních aktualizací často způsoboval problémy s kompatibilitou a stabilitou. Měsíční vydávání menších novinek by mělo být pro uživatele i vývojáře předvídatelnější a méně riskantní.
-
-Integrace AI funkcí přímo do základních nástrojů operačního systému, jako je Průzkumník souborů, ukazuje směr, kterým se Microsoft ubírá. Firma se snaží učinit AI běžnou součástí každodenní práce s počítačem, nikoli pouze izolovanou funkcí. To však vyžaduje speciální hardware v podobě Copilot+ počítačů, což vytváří fragmentaci mezi uživateli s novějším a starším hardwarem.
-
-Důraz na konzistenci uživatelského rozhraní a drobná vylepšení kvality naznačuje, že Microsoft reaguje na dlouhodobou kritiku nekonzistentního designu Windows, kde vedle sebe existují prvky z různých generací systému.
+Strategie měsíčních aktualizací představuje změnu v přístupu Microsoftu k vývoji Windows. Místo velkých ročních aktualizací dostávají uživatelé pravidelný tok menších vylepšení, což umožňuje rychlejší reakci na zpětnou vazbu a postupné zavádění nových technologií. Integrace AI funkcí přímo do základních nástrojů jako Průzkumník souborů ukazuje, jak Microsoft vnímá budoucnost desktopových operačních systémů - s AI jako integrální součástí běžných pracovních postupů, nikoli jako samostatnou funkci.
 
 ---
 

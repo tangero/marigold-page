@@ -3,8 +3,9 @@ category: mobilní telefony
 companies:
 - Apple
 date: '2025-10-20 12:00:00'
-description: Nejtenčí telefon od Apple nabízí pouze jeden fotoaparát a menší baterii,
-  ale v každodenním používání se tyto kompromisy ukázaly jako zvladatelné.
+description: Nejtenčí iPhone od Apple nabízí pouze jeden zadní fotoaparát a menší
+  baterii. Měsíční test však ukázal, že tyto kompromisy nejsou v praxi tak zásadní,
+  jak se očekávalo.
 importance: 3
 layout: tech_news_article
 original_title: 'iPhone Air, One Month Later: My Camera and Battery Fears Have Been
@@ -23,29 +24,29 @@ urlToImageBackup: https://www.cnet.com/a/img/resize/6d2c429b6c99c171eaf2f911a75c
 
 ## Souhrn
 
-Po měsíci testování iPhone Air za 999 dolarů se ukázalo, že obavy z jediného fotoaparátu, tenké baterie a možného ohnutí telefonu byly z velké části neopodstatněné. Přestože jde o nejtenčí iPhone v historii s výraznými kompromisy v hardwaru, v běžném používání telefon obstál překvapivě dobře.
+Recenzent z CNET testoval iPhone Air, nejtenčí model v historii Apple, po dobu jednoho měsíce. Přestože telefon za 999 dolarů nabízí pouze jeden 48megapixelový zadní fotoaparát a menší baterii kvůli ultratenkému designu, v běžném používání se tyto kompromisy ukázaly jako překvapivě únosné.
 
 ## Klíčové body
 
-- iPhone Air má pouze jeden 48megapixelový širokoúhlý fotoaparát, chybí ultraširokoúhlý a teleobjektiv
-- Baterie vydrží celý den běžného používání, včetně focení, streamování a navigace
-- Tenký design nevykazuje problémy s ohýbáním ani po měsíci každodenního nošení
-- Hlavní omezení se projevilo při focení koncertu, kde by se hodil optický zoom
-- Cena 999 dolarů je podle autora vysoká na telefon s jedním fotoaparátem
+- iPhone Air má pouze jeden 48megapixelový širokoúhlý fotoaparát, na rozdíl od modelů Pro s ultraširokoúhlým a teleobjektivem
+- Recenzent uvádí, že absence dalších objektivů byla problémem jen v několika málo případech během měsíčního testování
+- Obavy z výdrže baterie a možného ohnutí tenkého těla se v praxi nepotvrdily
+- Telefon stojí 999 dolarů, což je cena, za kterou by podle autora měly být k dispozici flexibilnější možnosti fotoaparátu
+- Předchozí zkušenost s ultratenkým Samsung Galaxy S25 Edge byla podobná
 
 ## Podrobnosti
 
-Přechod z iPhone 16 Pro Max s pokročilým kamerovým systémem na iPhone Air s jediným fotoaparátem představoval výraznou změnu. Autor však zjistil, že ultraširokoúhlý objektiv a teleobjektiv používá méně často, než očekával. Během měsíčního testování se počet situací, kdy mu chyběly další objektivy, dal spočítat na prstech jedné ruky. Výjimkou byl koncert Jonas Brothers, kde by se hodil 5x optický zoom dostupný na Pro modelech.
+Přechod z iPhone 16 Pro Max na iPhone Air představoval na papíře výrazný sestup v možnostech fotografování. Model Pro Max nabízí kromě hlavního snímače také ultraširokoúhlý objektiv a teleobjektiv s 5x optickým zoomem (iPhone 17 Pro Max dokonce 8x). iPhone Air se musí spokojit s jediným 48megapixelovým širokoúhlým fotoaparátem.
 
-Baterie představovala další oblast obav. Tenčí konstrukce logicky znamená menší kapacitu baterie, což vyvolávalo otázky ohledně výdrže. V praxi se však ukázalo, že baterie vydrží celý den standardního používání zahrnujícího focení, streamování hudby, navigaci a běžnou komunikaci. Autor uvádí, že telefon dokázal zvládnout i náročnější dny bez nutnosti dobíjení.
+V praxi se však ukázalo, že pro běžné fotografování je jeden kvalitní fotoaparát často dostačující. Recenzent přiznává, že mu chybí možnost 0.5x ultraširokoúhlého záběru pro krajinářské fotografie a při koncertě Jonas Brothers raději použil iPhone 16 Pro Max s jeho 5x zoomem. Celkově však během měsíce narazil na situace, kdy mu fotoaparát Air nestačil, jen několikrát.
 
-Otázka odolnosti ultratenkého designu byla třetí velkou neznámou. Po měsíci nošení v kapse a běžného používání telefon nevykazuje žádné známky ohnutí nebo strukturálních problémů. Toto zjištění je podobné zkušenostem se Samsung Galaxy S25 Edge, který autor testoval dříve v roce.
+Podobně se nepotvrdily ani obavy z výdrže baterie. Tenký design nutně znamená menší kapacitu baterie, ale v každodenním používání to nepředstavovalo zásadní problém. Telefon také nevykazoval známky možného ohnutí či jiných problémů s odolností, které by mohly plynout z ultratenkého provedení.
 
-Autor nicméně zdůrazňuje, že za cenu blížící se 1000 dolarům by zákazníci měli očekávat flexibilnější možnosti fotoaparátu. iPhone Air je podle něj vhodný především pro uživatele, kteří upřednostňují elegantní design a kompaktnost před fotografickými schopnostmi.
+Recenzent měl předchozí zkušenost s podobným konceptem od Samsungu - modelem Galaxy S25 Edge, který také sází na minimální tloušťku. Zkušenost s tímto zařízením byla obdobná, což naznačuje, že ultratenké telefony se stávají reálnou alternativou pro uživatele, kteří upřednostňují design před maximální výbavou.
 
 ## Proč je to důležité
 
-iPhone Air představuje zajímavý experiment Apple v segmentu ultratenkých telefonů. Ukazuje, že výrobci mohou úspěšně vytvářet extrémně tenké zařízení bez zásadního dopadu na každodenní použitelnost. Zkušenost s měsíčním testováním naznačuje, že průměrný uživatel nemusí potřebovat všechny pokročilé funkce vlajkových modelů. Zároveň však otevírá debatu o ceně – zda je oprávněné požadovat téměř 1000 dolarů za telefon s omezenými fotografickými možnostmi, byť s prémiovou konstrukcí. Pro Apple jde o test trhu, zda existuje dostatečná poptávka po designově orientovaných zařízeních s kompromisy ve výbavě.
+iPhone Air představuje zajímavý směr ve vývoji smartphonů. Zatímco poslední roky dominoval trend přidávání stále více fotoaparátů a funkcí, Air ukazuje, že existuje segment uživatelů, kteří preferují elegantní design a jsou ochotni akceptovat určitá omezení. Pro Apple jde o test, zda má smysl nabízet vedle výkonnostně zaměřených modelů Pro také variantu zaměřenou primárně na design. Cena 999 dolarů však zůstává sporným bodem - za tuto částku konkurence často nabízí kompletní výbavu včetně všech typů fotoaparátů.
 
 ---
 

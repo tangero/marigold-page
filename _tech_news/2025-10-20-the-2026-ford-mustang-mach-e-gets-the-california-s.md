@@ -5,8 +5,8 @@ companies:
 - Tesla
 date: '2025-10-20 13:00:00'
 description: Elektrické SUV Ford Mustang Mach-E GT získává poprvé legendární designový
-  balíček California Special, který přináší novou modrou barevnou variantu a unikátní
-  prvky odlišné od klasického Mustangu.
+  balíček California Special, který přináší novou modrou barevnou variantu Rave Blue
+  místo tradiční červeno-černé kombinace.
 importance: 3
 layout: tech_news_article
 original_title: The 2026 Ford Mustang Mach-E gets the California Special treatment,
@@ -26,29 +26,27 @@ urlToImageBackup: https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/
 
 ## Souhrn
 
-Ford představil pro modelový rok 2026 speciální edici svého elektrického SUV Mustang Mach-E GT s designovým balíčkem California Special. Jde o první elektrické vozidlo, které tento historický styl dostává, přičemž Ford pro něj zvolil odlišný přístup než u klasického dvoudveřového Mustangu.
+Ford představil pro modelový rok 2026 speciální edici svého elektrického SUV Mustang Mach-E GT s designovým balíčkem California Special. Jde o první elektrické vozidlo, které tento historický stylingový balíček dostává, přičemž Ford pro něj zvolil zcela nový přístup s modrou barvou Rave Blue místo tradiční červeno-černé kombinace.
 
 ## Klíčové body
 
-- Mustang Mach-E GT California Special je první elektrické vozidlo s tímto legendárním designovým balíčkem
-- Nová barevná varianta Rave Blue nahrazuje tradiční červeno-černou kombinaci a stává se základem balíčku California Special
-- Vozidlo získává 20palcová kola v karbonově šedé barvě s vytištěným označením GT/CS
-- Designový balíček California Special byl poprvé představen v roce 1968 na žádost kalifornských dealerů
-- Ford vyrobil původně jen přes 4000 kusů Mustangu California Special s charakteristickými červeno-černými akcenty
+- Ford Mustang Mach-E GT California Special je první elektrické vozidlo s tímto historickým designovým balíčkem
+- Nová barva Rave Blue nahrazuje tradiční červeno-černou kombinaci používanou od roku 1968
+- Výbava zahrnuje 20palcová kola v karbonově šedé barvě s odznakem GT/CS
+- Stejný balíček dostává i klasický dvoudvéřový Mustang 2026
+- Mustang Mach-E zůstává jedním z nejprodávanějších elektromobilů v USA
 
 ## Podrobnosti
 
-Mustang Mach-E patří mezi nejprodávanější elektrická vozidla v USA a Ford pro modelový rok 2026 přichází s výraznou vizuální aktualizací. Designový balíček California Special, který má v historii Mustangu zvláštní místo, se nyní poprvé dostává i na elektrickou verzi.
+Designový balíček California Special má v historii Fordu zvláštní místo. Poprvé byl představen v roce 1968 na žádost kalifornských dealerů, kteří chtěli mít vlastní verzi úspěšného Mustangu. Ford tehdy vyrobil něco přes 4 000 kusů původního Mustangu California Special, přičemž červeno-černé akcenty definovaly tento balíček po následující desetiletí.
 
-Kristen Keenan, designérka barev a materiálů ve Fordu, vysvětluje, že kalifornský duch byl vždy spojen se značkou Mustang a nyní se Mach-E stává plnohodnotnou součástí této rodiny. Stefan Taylor, exteriérový designér, zdůrazňuje, že tým nechtěl jednoduše zkopírovat řešení z dvoudveřového Mustangu. Design má ctít místo Mach-E v rodině Mustangů, ale zároveň mu dát vlastní identitu.
+Pro modelový rok 2026 však Ford přistoupil k výrazným změnám. Jak uvedla Kristen Keenan, designérka barev a materiálů ve Fordu, kalifornský duch byl vždy spojen se značkou Mustang a nyní se Mach-E stává plnohodnotnou součástí této rodiny. Stefan Taylor, exteriérový designér Fordu, zdůraznil, že tým nechtěl jednoduše kopírovat řešení z dvoudvéřového Mustangu. Design má ctít místo Mach-E v rodině Mustang, ale zároveň mu dát vlastní identitu.
 
-Nejvýraznější změnou je nová barva Rave Blue, která se stává základním kamenem balíčku California Special místo tradiční červeno-černé kombinace používané od roku 1968. Tato změna představuje odvážný krok Fordu, který chce odlišit elektrickou verziu od spalovacích modelů. Kromě nové barvy získává Mach-E GT California Special také speciální 20palcová kola v karbonově šedé barvě s vytištěným označením GT/CS.
-
-Designový balíček bude k dispozici jak pro klasický dvoudveřový Mustang 2026, tak pro elektrický Mach-E, přičemž obě verze dostanou odlišné designové prvky odpovídající jejich charakteru.
+Nejvýraznější změnou je nová barva Rave Blue, která se podle Fordu stává základním kamenem balíčku California Special. Tato modrá odstín nahrazuje tradiční červenou barvu, která byla s California Special spojena od počátku. Vozidlo dále dostává speciální 20palcová kola v karbonově šedé barvě s vytištěným odznakem GT/CS.
 
 ## Proč je to důležité
 
-Tato novinka ukazuje, jak tradiční automobilky přistupují k elektrifikaci svých ikonických modelů. Ford se snaží propojit historii značky Mustang s moderní elektrickou budoucností, přičemž respektuje odlišnosti obou světů. Zavedení nové modré barvy místo tradiční červeno-černé kombinace signalizuje, že elektrické modely dostanou vlastní identitu, místo aby byly pouze kopií spalovacích verzí. Pro zákazníky to znamená větší možnosti personalizace a jasné odlišení elektrického Mach-E od klasického Mustangu, což může pomoci překonat počáteční odpor tradičních fanoušků vůči elektrickému SUV nesoucímu jméno Mustang.
+Mustang Mach-E představuje důležitý pilíř elektromobilní strategie Fordu a patří mezi nejúspěšnější elektrická SUV na americkém trhu. Zavedení speciální edice California Special ukazuje, jak Ford propojuje svou historii s elektrickou budoucností a snaží se oslovit zákazníky, kteří oceňují designové dědictví značky. Změna tradiční barevné kombinace na novou modrou variantu signalizuje, že Ford vnímá elektrické modely jako samostatnou kategorii vyžadující vlastní identitu, nikoli pouze jako elektrifikované verze spalovacích vozů. Pro trh elektromobilů jde o zajímavý příklad, jak tradiční automobilky pracují s vlastní historií při budování nových produktových řad.
 
 ---
 
