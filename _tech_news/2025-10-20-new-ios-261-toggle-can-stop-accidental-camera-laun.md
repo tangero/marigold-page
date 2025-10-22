@@ -3,7 +3,7 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-10-20 18:52:00'
-description: Čtvrtá beta verze iOS 26.1 obsahuje nové nastavení, které umožňuje zakázat
+description: Čtvrtá beta verze iOS 26.1 přidává nové nastavení, které umožňuje vypnout
   gesto pro otevření fotoaparátu přejetím prstu na zamykací obrazovce.
 importance: 3
 layout: tech_news_article
@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: iOS 26.1 přináší možnost vypnout náhodné spouštění fotoaparátu
+title: iOS 26.1 přináší možnost zakázat náhodné spouštění fotoaparátu
 url: https://9to5mac.com/2025/10/20/new-ios-26-1-toggle-can-stop-accidental-camera-launches/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/camera-app-ios-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/camera-app-ios-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -22,27 +22,31 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple v iOS 26.1 beta 4 konečně přidává možnost vypnout gesto pro spuštění fotoaparátu na zamykací obrazovce iPhonu. Uživatelé tak mohou zakázat funkci, která po přejetí prstu doleva na zamčeném displeji okamžitě otevírá aplikaci Fotoaparát, což často vedlo k nechtěnému spuštění.
+Apple vydal čtvrtou beta verzi iOS 26.1, která přináší dlouho očekávanou možnost zakázat gesto pro spuštění fotoaparátu na zamykací obrazovce. Uživatelé si nyní mohou vypnout funkci přejetí prstu doleva, která po léta sloužila jako rychlá zkratka k fotoaparátu, ale často vedla k náhodnému spuštění aplikace.
 
 ## Klíčové body
 
 - iOS 26.1 beta 4 přidává přepínač pro vypnutí gesta "přejetím otevřít fotoaparát" na zamykací obrazovce
-- Gesto existovalo roky bez možnosti deaktivace, což vedlo k častému náhodnému spouštění aplikace
-- S příchodem dedikovaného tlačítka Camera Control na iPhone 16 a 17 ztratilo gesto na významu
-- Uživatelé mohou nadále používat fyzické tlačítko fotoaparátu na zamykací obrazovce nebo nové tlačítko Camera Control
-- Změna přichází v době, kdy Apple nabízí více alternativních způsobů spuštění fotoaparátu
+- Gesto bylo součástí iOS po mnoho let, ale nikdy dříve nešlo vypnout
+- S příchodem dedikovaného tlačítka fotoaparátu na iPhone 16 a 17 (Camera Control) ztratilo gesto na významu
+- Změna reaguje na časté stížnosti uživatelů na náhodné spouštění fotoaparátu
+- Nastavení je dostupné v beta verzi, do finální verze se dostane v následujících týdnech
 
 ## Podrobnosti
 
-Gesto pro rychlé otevření fotoaparátu přejetím prstu doleva na zamykací obrazovce bylo v iOS přítomné mnoho let. Původně šlo o primární způsob rychlého přístupu k fotoaparátu, ale s vývojem hardwaru a softwaru postupně ztrácelo na významu. S příchodem iPhone X v roce 2017 Apple přidal dedikované tlačítko fotoaparátu přímo na zamykací obrazovku, které nabídlo alternativní způsob spuštění. Ještě výraznější změnu přinesly modely iPhone 16 a iPhone 17 s fyzickým tlačítkem Camera Control na pravé straně zařízení.
+Gesto přejetí prstu doleva na zamykací obrazovce sloužilo jako rychlá cesta k fotoaparátu od dob prvních verzí iOS. Jeho popularita však postupně klesala s vývojem hardwaru a softwaru iPhonu. Zlomovým okamžikem byl příchod iPhone X, který přinesl dedikované tlačítko fotoaparátu přímo na zamykací obrazovce. Ještě větší změnu představilo zavedení fyzického tlačítka Camera Control na pravé straně iPhone 16 a iPhone 17, které nabízí rychlý přístup k fotoaparátu bez nutnosti odemykání telefonu.
 
-Pro uživatele, kteří preferovali novější metody spouštění fotoaparátu, se původní gesto stalo spíše zdrojem frustrace. Náhodné přejetí prstem po displeji při vyndávání telefonu z kapsy nebo při běžném používání často vedlo k nechtěnému otevření aplikace Fotoaparát. Absence možnosti tuto funkci vypnout byla dlouhodobě kritizovaná, zejména když Apple současně nabízel stále více alternativních způsobů přístupu k fotoaparátu.
+Pro uživatele, kteří preferují jiné metody spouštění fotoaparátu, se gesto přejetím stalo spíše zdrojem frustrace. Telefon v kapse nebo tašce mohl náhodně aktivovat fotoaparát, což vedlo k plýtvání baterií a občas i k pořízení nežádoucích snímků. Apple na tuto situaci reagoval až nyní, v iOS 26.1 beta 4, kde přidal možnost gesto zcela vypnout.
 
-Nové nastavení v iOS 26.1 beta 4 tuto situaci konečně řeší. Uživatelé si mohou v nastavení systému jednoduše zakázat gesto přejetím, aniž by přišli o jiné možnosti rychlého spuštění fotoaparátu. Stále mohou využívat tlačítko na zamykací obrazovce, které lze navíc od iOS 18 nahradit jiným ovládacím prvkem podle vlastních preferencí, nebo fyzické tlačítko Camera Control na novějších modelech.
+Objevitel této novinky Aaron Perris zveřejnil informaci na sociální síti X s komentářem, že na tuto funkci čekal velmi dlouho. Nastavení je dostupné v sekci pro správu zamykací obrazovky a jeho aktivace je jednoduchá. Uživatelé, kteří si gesto ponechají aktivní, mohou nadále využívat tuto metodu spouštění fotoaparátu vedle ostatních dostupných možností.
+
+Stojí za zmínku, že Apple již v iOS 18 umožnil přizpůsobení tlačítek na zamykací obrazovce, včetně výměny ikony fotoaparátu za jiný ovládací prvek. Tato flexibilita však dosud neřešila problém s gestem přejetí, které zůstávalo aktivní bez ohledu na uživatelské preference.
 
 ## Proč je to důležité
 
-Tato zdánlivě drobná změna odráží širší trend v přístupu Apple k personalizaci iOS. Zatímco dříve byl systém známý svou rigidností a minimem možností přizpůsobení, v posledních letech Apple postupně přidává více voleb pro uživatele. Možnost vypnout dlouhodobě zabudovanou funkci, která některým uživatelům vadila, ukazuje, že společnost reaguje na zpětnou vazbu a uznává, že různí uživatelé mají různé preference. V kontextu rostoucího počtu způsobů, jak spustit fotoaparát na iPhonu, dává tato změna smysl a přispívá k lepší uživatelské zkušenosti pro ty, kteří preferují modernější hardwarové ovládání.
+Tato zdánlivě drobná změna odráží širší trend v přístupu Applu k uživatelskému nastavení. Společnost tradičně preferovala jednoduchá rozhraní s minimem možností konfigurace, ale postupně ustupuje tlaku uživatelů požadujících větší kontrolu nad chováním svých zařízení. Přidání možnosti vypnout gesto po tolika letech jeho existence ukazuje, že Apple naslouchá zpětné vazbě a je ochoten měnit i dlouhodobě zavedené funkce.
+
+Z praktického hlediska jde o užitečné vylepšení pro miliony uživatelů iPhonu, kteří se potýkali s náhodným spouštěním fotoaparátu. S rostoucím počtem alternativních metod přístupu k fotoaparátu, zejména s hardwarovým tlačítkem Camera Control, se původní gesto stalo pro mnoho lidí zbytečným. Možnost jeho vypnutí zlepšuje uživatelský zážitek a snižuje riziko nežádoucího chování zařízení.
 
 ---
 

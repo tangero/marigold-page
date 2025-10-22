@@ -13,15 +13,15 @@ source:
   emoji: 📰
   id: null
   name: Chicagoyimby.com
-title: Plány na smíšený projekt v Lake View East v Chicagu
+title: Plány na smíšený developerský projekt na ulici North Halsted v Chicagu
 url: https://chicagoyimby.com/2025/10/mixed-use-development-proposed-at-3611-north-halsted-street-in-lake-view-east.html
 urlToImage: https://chicagoyimby.com/wp-content/uploads/2025/10/3611-N-Halsted-02.jpg
 urlToImageBackup: https://chicagoyimby.com/wp-content/uploads/2025/10/3611-N-Halsted-02.jpg
 ---
 
-V chicagské čtvrti Lake View East byly odhaleny plány na výstavbu smíšeného projektu na adrese 3611 North Halsted Street. Desetipodlažní budova s názvem "The Phoenix" navržená architektonickou firmou Studio Dwell nahradí prázdný pozemek, kde dříve stála jednopodlažní komerční budova s vodárenskou věží.
+V chicagské čtvrti Lake View East byly odhaleny plány na výstavbu smíšeného developerského projektu s názvem "The Phoenix" na adrese 3611 North Halsted Street. Deseti-podlažní budova od architektonické firmy Studio Dwell nahradí prázdný pozemek o rozloze 24 000 čtverečních stop, kde dříve stála jednopatrová komerční budova s vodárenskou věží.
 
-Projekt zahrnuje 188 bytových jednotek (96 studií, 56 jednopokojových a 36 dvoupokojových bytů), z nichž 38 bude určeno jako dostupné bydlení. Tržní nájemné se bude pohybovat od 1 940 do 3 008 dolarů měsíčně. V přízemí bude umístěna kavárna o rozloze 900 čtverečních stop s venkovním posezením, malá vstupní hala, úložiště pro kola a parkoviště pro 77 vozidel na dvou úrovních. Střechu budovy bude tvořit společenský prostor s venkovní terasou a fitness centrem.
+Projekt zahrnuje 188 bytových jednotek (96 studií, 56 jedno-pokojových a 36 dvou-pokojových bytů), z nichž 38 bude určeno jako dostupné bydlení. Tržní nájemné se bude pohybovat od 1 940 do 3 008 dolarů měsíčně. V přízemí bude umístěna kavárna o rozloze 900 čtverečních stop s venkovním posezením, lobby, úložiště pro kola a dvou-podlažní garáž pro 77 vozidel. Na střeše budovy bude fitness centrum a venkovní terasa.
 
 ---
 

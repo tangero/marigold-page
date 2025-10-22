@@ -3,9 +3,8 @@ category: zdraví
 companies:
 - Kohler
 date: '2025-10-20 16:29:14'
-description: Společnost Kohler Health uvedla zařízení Dekoda za 599 dolarů, které
-  se připevní na záchodovou mísu a pomocí senzorů analyzuje výkaly a moč pro sledování
-  hydratace a zdraví střev.
+description: Společnost Kohler uvedla zařízení Dekoda za 599 dolarů, které se připevní
+  na záchod a pomocí senzorů analyzuje hydrataci, zdraví střev a detekuje krev.
 importance: 3
 layout: tech_news_article
 original_title: Kohler’s new toilet camera provides health insights based on your
@@ -16,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Kohler představil toaletní kameru Dekoda pro sledování zdraví
+title: Kohler představil kamerový systém pro záchod, který analyzuje zdravotní stav
 url: https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/kohler_dekoda_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/kohler_dekoda_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200
@@ -24,31 +23,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Společnost Kohler Health, divize výrobce sanitární techniky Kohler, představila zdravotnické zařízení Dekoda, které se instaluje na okraj záchodové mísy a pomocí senzorů a kamer analyzuje lidské výkaly a moč. Zařízení za 599 dolarů vyhodnocuje hydrataci, zdraví střev a dokáže detekovat přítomnost krve, která může signalizovat vážnější zdravotní problémy.
+Společnost Kohler, známý výrobce sanitární techniky, představila zdravotnické zařízení Dekoda, které se instaluje na okraj záchodové mísy a pomocí senzorů a kamer analyzuje výkaly a moč uživatelů. Systém vyhodnocuje hydrataci, zdraví střev a upozorňuje na přítomnost krve, která může signalizovat vážnější zdravotní problémy. Zařízení je k dispozici v předprodeji za 599 dolarů s dodáním od 21. října 2025.
 
 ## Klíčové body
 
-- Dekoda se připevňuje na okraj většiny záchodových mís pomocí upínacího mechanismu bez nutnosti nářadí
-- Cena zařízení je 599 dolarů, předobjednávky jsou dostupné s dodáním od 21. října 2025
-- Pro přístup k datům je nutné předplatné Kohler Health: 6,99 dolarů měsíčně nebo 70 dolarů ročně pro jednoho uživatele, rodinný tarif pro až pět uživatelů stojí 12,99 dolarů měsíčně nebo 130 dolarů ročně
-- Mobilní aplikace Kohler Health je dostupná pro iOS, verze pro Android je v přípravě
-- Zařízení nefunguje na tmavě zbarvených toaletách kvůli nedostatečnému osvětlení
+- Dekoda se připevňuje na okraj záchodové mísy pomocí rozpínacího upínacího mechanismu bez potřeby nářadí
+- Systém zahrnuje samotný senzor, magnetickou nabíjecí podložku a nástěnné dálkové ovládání
+- Data jsou dostupná přes mobilní aplikaci Kohler Health (iOS, Android připravován) pouze s předplatným 6,99 USD měsíčně nebo 70 USD ročně pro jednoho uživatele
+- Rodinný tarif pro až pět uživatelů stojí 12,99 USD měsíčně nebo 130 USD ročně
+- Zařízení nefunguje na tmavě zbarvených záchodech kvůli nedostatečnému osvětlení
 
 ## Podrobnosti
 
-Dekoda představuje další krok v trendu propojených zdravotnických zařízení pro domácnost. Kohler Health ji prezentuje jako součást iniciativy zaměřené na proměnu koupelny v "propojený, daty informovaný zdravotní a wellness hub". Zařízení využívá kombinaci senzorů a kamerového systému, které snímají obsah záchodové mísy a pomocí algoritmů vyhodnocují získaná data.
+Dekoda představuje součást nové iniciativy společnosti Kohler zaměřené na proměnu koupelny v propojený zdravotní a wellness centrum založený na datech. Zařízení využívá senzory a algoritmy pro analýzu biologického materiálu přímo v záchodové míse, čímž poskytuje uživatelům pravidelný přehled o jejich zdravotním stavu bez nutnosti návštěvy lékaře nebo laboratorních testů.
 
-Instalace je navržena jako jednoduchá - Dekoda se upevňuje na okraj mísy pomocí rozpínacího upínacího mechanismu, který nevyžaduje žádné nástroje. V balení je kromě samotného senzoru také magnetická nabíjecí podložka a nástěnné dálkové ovládání. Výrobce však upozorňuje na omezení - zařízení není kompatibilní s tmavě zbarvenými toaletami, kde nedostatečné osvětlení znemožňuje správnou analýzu.
+Instalace je navržena jako jednoduchá - rozpínací upínací mechanismus umožňuje připevnění na většinu standardních záchodových mís bez použití nářadí. Systém je dodáván s magnetickou nabíjecí podložkou pro napájení a nástěnným dálkovým ovládáním pro snadnější ovládání.
 
-Klíčovou funkcí je vyhodnocování hydratace organismu a zdraví trávicího systému na základě analýzy moči a výkalů. Systém také dokáže detekovat přítomnost krve, což může být včasným varováním před závažnějšími zdravotními problémy jako jsou polypy, hemoroidy nebo dokonce nádorová onemocnění tlustého střeva. Při detekci krve zařízení diskrétně upozorní uživatele.
+Klíčovým omezením je závislost na předplatném služby Kohler Health. Bez měsíčního nebo ročního předplatného zůstávají nasbíraná data v aplikaci nedostupná, což z jednorázového nákupu za 599 dolarů činí dlouhodobou investici s opakovanými náklady. Roční předplatné pro jednoho uživatele vychází na 70 dolarů, což za pět let představuje dodatečných 350 dolarů nad rámec pořizovací ceny.
 
-Všechna nasbíraná data jsou dostupná prostřednictvím mobilní aplikace, která však vyžaduje aktivní předplatné. Model předplatného je rozdělen na individuální a rodinný tarif, přičemž rodinná verze umožňuje sledování až pěti uživatelů současně.
+Technické omezení představují tmavě zbarvené záchody, kde systém nemůže správně fungovat kvůli nedostatečnému kontrastu a osvětlení pro optické senzory.
 
 ## Proč je to důležité
 
-Dekoda reprezentuje rostoucí trend domácího zdravotního monitoringu, který se snaží přenést preventivní péči z ordinací do domácností. Pravidelná analýza biologického odpadu může skutečně pomoci odhalit zdravotní problémy v raném stadiu, kdy je léčba nejúčinnější. Zejména detekce okultního krvácení ve stolici je důležitým screeningovým nástrojem pro kolorektální karcinom.
+Dekoda reprezentuje rostoucí trend domácího zdravotního monitoringu, který přesouvá některé diagnostické funkce z lékařských zařízení přímo do domácností. Pravidelná detekce krve ve stolici může pomoci s včasným odhalením závažných onemocnění jako je rakovina tlustého střeva, zatímco monitoring hydratace a zdraví střev poskytuje preventivní informace.
 
-Na druhou stranu kombinace vysoké vstupní ceny a povinného měsíčního předplatného vytváří značnou finanční bariéru - za první rok použití zaplatí jednotlivec minimálně 669 dolarů. Otázkou také zůstává přesnost algoritmů a jejich schopnost nahradit nebo doplnit klasické lékařské vyšetření. Zařízení navíc vyžaduje sdílení velmi citlivých zdravotních dat s cloudovou službou Kohler Health, což může vyvolávat obavy o soukromí.
+Zároveň produkt ilustruje problematický model předplatného u hardwarových zařízení - zákazníci platí vysokou vstupní cenu za hardware, ale pro plnou funkčnost musí hradit průběžné poplatky. Tento přístup se stává standardem u zdravotnických zařízení pro domácí použití, což může omezit dostupnost preventivní péče pro širší populaci.
 
 ---
 
