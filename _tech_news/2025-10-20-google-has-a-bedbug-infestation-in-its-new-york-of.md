@@ -21,15 +21,13 @@ urlToImage: https://media.wired.com/photos/68f67f0f0159e300cdd3ba9c/191:100/w_12
 urlToImageBackup: https://media.wired.com/photos/68f67f0f0159e300cdd3ba9c/191:100/w_1280,c_limit/Bed-Bug-Google-Business-927681020.jpg
 ---
 
-Google musel v neděli uzavřít své kanceláře na kampusu Chelsea v New Yorku kvůli výskytu štěnic. Zaměstnanci obdrželi e-mail od týmu pro ochranu životního prostředí, zdraví a bezpečnosti s varováním před možným výskytem parazitů.
+Google musel dočasně uzavřít své kanceláře na kampusu Chelsea v New Yorku kvůli výskytu štěnic. Zaměstnanci obdrželi v neděli upozornění o možné invazi, přičemž deratizéři s vycvičeným psem následně potvrdili přítomnost těchto parazitů.
 
-Na místo byli přivoláni deratizéři se speciálně vycvičeným psem, který dokáže štěnice vyhledat. Podle interního e-mailu, který získal server WIRED, našli "věrohodné důkazy o jejich přítomnosti". Zaměstnancům bylo doporučeno vyhnout se kancelářím do dokončení dezinfekce. V pondělí ráno již mohli do práce opět nastoupit.
+Podle interního emailu, který získal server WIRED, byl kampus uzavřen do dokončení deratizace. V pondělí ráno se zaměstnanci mohli vrátit do práce. Google preventivně provádí kontroly i na dalších newyorských kampusech, včetně budov v Hudson Square.
 
-Google preventivně provádí dodatečné kontroly i na dalších kampusech v New Yorku, včetně budov v Hudson Square. Zaměstnanci byli vyzváni, aby nahlásili jakékoli příznaky, které by mohly souviset s kontaktem se štěnicemi, a aby kontaktovali profesionální deratizéry, pokud by parazity objevili i ve svých domovech.
+Společnost vyzvala zaměstnance, aby hlásili jakékoli příznaky spojené s možným kontaktem se štěnicemi a nahlásili pozorování těchto parazitů týmu správy budov. Pokud by zaměstnanci našli štěnice doma, měli by kontaktovat profesionální deratizéry.
 
-Neověřené zdroje uvádějí, že v newyorských kancelářích Googlu se nachází řada velkých plyšových zvířat, která by mohla být zdrojem nákazy. Tuto informaci se však nepodařilo před publikací ověřit. Google se k situaci odmítl vyjádřit.
-
-Jde o druhý podobný incident v historii Googlu v New Yorku – v roce 2010 postihla invaze štěnic kanceláře společnosti na 9th Avenue v Manhattanu, což bylo součástí širší vlny výskytu těchto parazitů v celém městě.
+Neověřené zdroje uvádějí, že v newyorských kancelářích Googlu se nachází řada velkých plyšových zvířat, která mohou být zdrojem nákazy. Google odmítl incident komentovat. Není to poprvé, co se Google v New Yorku potýká se štěnicemi – v roce 2010 postihla invaze kanceláře na 9th Avenue v rámci širší epidemie štěnic ve městě.
 
 ---
 

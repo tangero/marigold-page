@@ -1,8 +1,9 @@
 ---
 category: nositelná elektronik
 date: '2025-10-20 16:18:20'
-description: Nástup chytrých brýlí s displeji přináší vlnu neobvyklých nositelných
-  zařízení pro jejich ovládání, od elektromyografických náramků po chytré prsteny.
+description: Meta představila Neural Band, náramek ovládající chytré brýle pomocí
+  svalových signálů. Podobné technologie vyvíjejí i další výrobci, včetně chytrých
+  prstenů pro ovládání AR brýlí.
 importance: 3
 layout: tech_news_article
 original_title: Smart Glasses Are Forcing Wearables to Get Very Weird - Gizmodo
@@ -20,27 +21,33 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2025/10/Smart-ring-1200x675.jp
 
 ## Souhrn
 
-Chytré brýle s displeji se dostávají na trh a s nimi přichází nová generace nositelné elektroniky určené k jejich ovládání. Meta představila Neural Band, elektromyografický náramek schopný číst elektrické signály z ruky a prstů, zatímco další výrobci experimentují s chytrými prsteny a dalšími alternativními ovládacími metodami.
+Chytré brýle se stávají realitou a s nimi přichází nová generace nositelné elektroniky určené k jejich ovládání. Meta představila Neural Band, elektromyografický náramek, který čte elektrické signály ze svalů a umožňuje ovládat brýle gesty. Podobné přístupy volí i další výrobci, kteří experimentují s chytrými prsteny a dalšími vstupními zařízeními.
 
 ## Klíčové body
 
-- Meta Ray-Ban Display, první chytré brýle Meta s displejem, jsou již v prodeji a očekává se vstup Samsungu a Apple do tohoto segmentu
-- Neural Band od Meta využívá elektromyografii (EMG) ke snímání elektrických signálů z paže a prstů pro ovládání brýlí
-- Gesta jako přejetí palcem po sevřené pěsti fungují jako kurzor, sevření palce a ukazováku simuluje kliknutí myší
-- Alternativou jsou dotykové chytré prsteny používané například u brýlí INMO
-- Výzkumníci z Tokijské univerzity vyvinuli picoRing, který spotřebovává pouze 2 % energie běžných řešení
+- Meta Ray-Ban Display jsou první chytré brýle Meta s displejem, které jsou již v prodeji
+- Neural Band využívá elektromyografii (EMG) ke snímání elektrických signálů ze svalů ruky a prstů
+- Ovládání funguje gesty - přejetí palcem po sevřené pěsti pohybuje kurzorem, sevření palce a ukazováčku funguje jako kliknutí myší
+- Výrobce INMO používá dotykový chytrý prsten pro ovládání svých AR brýlí
+- Výzkumníci z Tokijské univerzity vyvinuli picoRing mouse, který spotřebuje pouze 2 % energie běžných řešení
 
 ## Podrobnosti
 
-Trh s chytrými brýlemi prochází zásadní transformací. Meta Ray-Ban Display představují první komerčně dostupné brýle společnosti s integrovaným displejem, ale skutečnou novinkou není hardware brýlí samotných, nýbrž způsob jejich ovládání. Neural Band je elektromyografický náramek, který dokáže detekovat jemné elektrické impulzy vznikající při pohybu svalů v předloktí a prstech. Tyto signály následně překládá do příkazů pro uživatelské rozhraní brýlí.
+Trh s chytrými brýlemi prochází zásadní změnou. Meta uvedla na trh Ray-Ban Display, první model s integrovaným displejem, a spekulace naznačují, že Samsung a Apple připravují vlastní produkty. Klíčovou výzvou však není samotná technologie brýlí, ale způsob jejich ovládání.
 
-Funkčnost Neural Bandu je založena na principu, že každý pohyb prstu nebo ruky generuje specifický elektrický vzorec ve svalech. Systém tyto vzorce rozpoznává a mapuje je na konkrétní akce - pohyb palcem po sevřené pěsti se chová jako pohyb kurzoru, zatímco sevření palce a ukazováku funguje jako levé tlačítko myši. Podle testů je zážitek z používání tohoto zařízení působivý, i když technologie ještě není zcela dokonalá.
+Meta Neural Band představuje inovativní řešení tohoto problému. Náramek využívá elektromyografii, technologii známou z lékařství, která snímá elektrické impulzy vznikající při svalové aktivitě. Systém dokáže rozpoznat jemné pohyby prstů a ruky a překládat je do příkazů pro uživatelské rozhraní brýlí. Uživatel tak může navigovat v menu pouhým přejetím palcem po sevřené pěsti nebo vybírat položky sevřením prstů.
 
-Paralelně s Meta se objevují i jiná řešení. Výrobci jako INMO, kteří vyrábějí robustnější AR brýle, vsadili na chytré prsteny s dotykovou plochou. Tyto prsteny detekují přejetí palcem a umožňují navigaci v uživatelském rozhraní brýlí podobným způsobem jako Neural Band, ale s jednodušší technologií. Akademická sféra jde ještě dál - picoRing z Tokijské univerzity dokázal snížit energetickou náročnost na pouhá 2 % běžných řešení, což by mohlo výrazně prodloužit výdrž těchto zařízení.
+Alternativní přístup volí výrobce INMO, který ke svým AR brýlím dodává chytrý prsten s dotykovou plochou. Prsten umožňuje podobné ovládání pomocí přejetí palcem, ale s nižší technologickou složitostí než Neural Band.
+
+Výzkumný tým z Tokijské univerzity posunul koncept chytrého prstenu dále s prototypem picoRing mouse. Tento miniaturní vstupní zařízení spotřebuje pouze 2 % energie běžných řešení, což je klíčové pro celodenní používání nositelné elektroniky.
 
 ## Proč je to důležité
 
-Otázka ovládání představuje klíčovou výzvu pro masové rozšíření chytrých brýlí. Tradiční metody jako hlasové příkazy nejsou vhodné pro veřejná prostranství a dotykové ovládání přímo na brýlích je nepohodlné. Elektromyografické náramky a chytré prsteny nabízejí diskrétní a intuitivní způsob interakce, který by mohl odstranit jednu z hlavních překážek adopce této technologie. S očekávaným vstupem Samsungu a Apple do segmentu chytrých brýlí se dá předpokládat další vývoj a standardizace těchto ovládacích metod, což může definovat podobu nositelné elektroniky na další roky.
+Vývoj vstupních zařízení pro chytré brýle ukazuje, že samotné brýle jsou pouze částí širšího ekosystému nositelné elektroniky. Tradiční ovládání dotykem displeje nebo hlasem má u brýlí zásadní omezení - dotyk by rušil zobrazení a hlasové příkazy nejsou vhodné ve všech situacích.
+
+Elektromyografické náramky a chytré prsteny představují novou kategorii vstupních zařízení, která může změnit způsob interakce s technologiemi obecně. Pokud se tato řešení osvědčí u chytrých brýlí, mohou najít uplatnění i u dalších zařízení, od smartphonů po počítače.
+
+Pro výrobce to znamená nutnost vyvíjet a prodávat komplexní sady zařízení místo jednotlivých produktů. Pro uživatele to může znamenat vyšší vstupní náklady, ale také potenciálně intuitivnější ovládání budoucích technologií.
 
 ---
 
