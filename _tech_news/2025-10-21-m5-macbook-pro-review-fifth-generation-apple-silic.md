@@ -3,9 +3,9 @@ category: hardware
 companies:
 - Apple
 date: '2025-10-21 17:00:45'
-description: Apple představil první Mac s čipem M5 v podobě základního 14palcového
-  MacBooku Pro. Nový procesor konkuruje starším Pro a Max čipům, ale laptop jinak
-  zůstává beze změn.
+description: Apple představil první Mac s čipem M5 v základním 14palcovém MacBook
+  Pro. Nový procesor konkuruje starším Pro a Max čipům, ale laptop samotný přináší
+  jen minimální změny.
 importance: 4
 layout: tech_news_article
 original_title: 'M5 MacBook Pro review: Fifth-generation Apple Silicon in a familiar
@@ -24,31 +24,29 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_621
 
 ## Souhrn
 
-Apple vydal první počítač s čipem M5 v podobě základního 14palcového MacBooku Pro za 1 599 dolarů. Nový procesor představuje pátou generaci Apple Silicon a naznačuje, co čeká zbytek produktové řady. Kromě výměny čipu laptop nezaznamenal žádné další změny oproti předchozím verzím s M3 a M4.
+Apple vydal první Mac s čipem M5 v podobě základního 14palcového MacBook Pro za 1 599 dolarů. Nový procesor představuje pátou generaci Apple Silicon a naznačuje, co čeká zbytek produktové řady. Samotný laptop však kromě čipu nepřináší prakticky žádné změny oproti verzím s M3 a M4.
 
 ## Klíčové body
 
-- První Mac s čipem M5, který zahajuje pátou generaci Apple Silicon
-- Základní model za 1 599 dolarů používá standardní M5 bez Pro nebo Max varianty
+- M5 je první čip z páté generace Apple Silicon, který se postupně dostane do celé řady Mac počítačů
+- Základní 14palcový MacBook Pro za 1 599 dolarů zůstává nejlevnější cestou k mini LED displeji s 120 Hz ProMotion a volitelným matným povrchem
+- Na rozdíl od MacBook Air obsahuje aktivní chlazení s ventilátorem pro lepší dlouhodobý výkon
+- Nabízí tři Thunderbolt porty, HDMI a čtečku SD karet, což Air postrádá
 - Výkon čipu M5 konkuruje starším Pro a Max čipům z předchozích generací
-- Žádné designové ani hardwarové změny oproti modelům s M3 a M4
-- Zůstává nejlevnější MacBook s mini LED displejem, 120Hz ProMotion a třemi Thunderbolt porty
 
 ## Podrobnosti
 
-Základní 14palcový MacBook Pro tradičně zaujímá specifickou pozici v nabídce Applu. Nachází se mezi levnějšími modely MacBook Air (13 a 15 palců) a výkonnějšími verzemi MacBooku Pro s čipy řady Pro a Max. Za cenu 1 599 dolarů nabízí kompromis mezi dostupností a profesionálními funkcemi.
+Základní 14palcový MacBook Pro představuje zajímavou pozici v produktové řadě Apple. Při doporučování notebooků často zůstává stranou - MacBook Air ve 13 a 15palcové verzi jsou výrazně levnější a pro většinu uživatelů zcela dostačující. Vyšší modely MacBook Pro s čipy řady Pro nebo Max nabízejí více CPU jader, podstatně lepší grafický výkon a vyšší kapacitu paměti pro profesionály.
 
-Hlavní výhodou tohoto modelu je mini LED displej s technologií ProMotion a obnovovací frekvencí 120 Hz, který zajišťuje plynulejší scrollování a animace. K dispozici je také volitelná nano-texturní (matná) úprava povrchu. Na rozdíl od MacBooku Air obsahuje aktivní chlazení s ventilátorem, což historicky znamenalo lepší dlouhodobý výkon a menší throttling při náročných úlohách.
+Přesto má základní Pro své opodstatnění pro specifickou skupinu uživatelů. Za 1 599 dolarů je nejlevnější cestou k nejlepšímu displeji, který Apple v noteboocích nabízí. Mini LED technologie, 120Hz obnovovací frekvence ProMotion pro plynulejší scrollování a animace, a volitelný matný povrch představují výrazný rozdíl oproti Air. Aktivní chlazení s ventilátorem historicky znamenalo výrazně lepší dlouhodobý výkon bez throttlingu, což Air s pasivním chlazením nemůže nabídnout.
 
-Z hlediska konektivity nabízí tři Thunderbolt porty, HDMI výstup a čtečku SD karet, což je výrazně více než dva porty u MacBooku Air. Pro uživatele, kteří potřebují připojit více periferií současně, to eliminuje nutnost používat adaptéry nebo dokovací stanice.
+Konektivita je další výhodou - tři Thunderbolt porty, HDMI a čtečka SD karet jsou praktické pro uživatele, kteří potřebují připojit více zařízení bez nutnosti používat adaptéry nebo dokovací stanice, které by obsadily dva dostupné porty na Air.
 
-Čip M5 představuje evoluční krok v architektuře Apple Silicon. Podle recenze dokáže konkurovat výkonem starším čipům řady Pro a Max, což naznačuje pokračující optimalizaci a zlepšování efektivity. Konkrétní výkonnostní data však zkrácený text neuvádí.
+Verze s M5 nepřináší prakticky žádné změny kromě samotného čipu. Pokud vás předchozí verze s M3 nebo M4 nepřesvědčily, M5 na tom nic nezmění. Význam tohoto modelu spočívá především v tom, že jako první představuje novou generaci procesorů Apple.
 
 ## Proč je to důležité
 
-Uvedení čipu M5 znamená start páté generace Apple Silicon, která postupně dorazí do celé produktové řady Maců. Základní MacBook Pro slouží jako první ukázka toho, jaký výkonnostní posun mohou uživatelé očekávat. Skutečnost, že standardní M5 konkuruje starším Pro a Max čipům, naznačuje významné zlepšení výkonu na watt, což je klíčová metrika pro mobilní zařízení.
-
-Pro potenciální kupce je důležité, že laptop nepřináší žádné další novinky kromě procesoru. Pokud předchozí generace s M3 nebo M4 nevyhovovala kvůli designu, konektivitě nebo ceně, M5 verze pravděpodobně nezmění rozhodnutí. Produkt zůstává určen specifické skupině uživatelů, kteří potřebují profesionální displej a konektivitu, ale nevyžadují maximální výkon čipů Pro nebo Max.
+Příchod M5 znamená start páté generace Apple Silicon, která postupně zamíří do téměř celé produktové řady Mac. Jde o důležitý milník ukazující pokračující vývoj vlastních procesorů Apple a jejich schopnost konkurovat výkonnějším čipům z předchozích generací. Pro potenciální kupce je podstatné, že základní MacBook Pro zůstává specifickým produktem pro uživatele, kteří potřebují lepší displej a konektivitu, ale nevyžadují maximální výkon Pro nebo Max čipů.
 
 ---
 

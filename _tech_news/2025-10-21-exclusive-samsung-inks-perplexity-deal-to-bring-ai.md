@@ -5,7 +5,7 @@ companies:
 - Perplexity
 date: '2025-10-21 13:31:40'
 description: Samsung přináší chatboty do obývacích pokojů prostřednictvím partnerství
-  s vyhledávačem Perplexity AI, který bude integrován do chytrých televizorů.
+  s AI vyhledávačem Perplexity, který bude integrován do chytrých televizorů.
 importance: 3
 layout: tech_news_article
 original_title: 'Exclusive: Samsung inks Perplexity deal to bring AI to the TV - Axios'
@@ -23,31 +23,31 @@ urlToImageBackup: https://images.axios.com/AU-_0BSxIE3CePyVyRVCwBitK-k=/0x0:1920
 
 ## Souhrn
 
-Samsung uzavřel partnerství s Perplexity AI, které přinese konverzační umělou inteligenci přímo do televizorů. Jde o první významnou integraci AI chatbota do televizní platformy, která má proměnit způsob, jakým uživatelé vyhledávají obsah a interagují se svými televizory.
+Samsung uzavřel exkluzivní partnerství s AI vyhledávačem Perplexity, které přinese konverzační umělou inteligenci přímo do televizorů. Uživatelé budán moci pokládat otázky a získávat odpovědi prostřednictvím AI asistenta integrovaného do televizního rozhraní.
 
 ## Klíčové body
 
-- Samsung integruje Perplexity AI do své platformy chytrých televizorů
-- Perplexity je AI vyhledávač založený na velkých jazykových modelech, který poskytuje konverzační odpovědi s citacemi zdrojů
-- Uživatelé budou moci pokládat otázky přirozeným jazykem přímo prostřednictvím televizního rozhraní
-- Partnerství představuje nový směr v ovládání televizorů a vyhledávání obsahu
-- Jde o součást širšího trendu integrace AI asistentů do spotřební elektroniky
+- Samsung integruje Perplexity AI do svých chytrých televizorů jako první velký výrobce
+- Perplexity je AI vyhledávač, který kombinuje generativní AI s vyhledáváním na internetu a poskytuje odpovědi s citacemi zdrojů
+- Partnerství rozšiřuje AI asistenty z mobilních zařízení a počítačů do domácích obývacích pokojů
+- Jde o další krok v integraci velkých jazykových modelů do běžné spotřební elektroniky
+- Dohoda je označena jako exkluzivní, což naznačuje konkurenční výhodu Samsungu v segmentu chytrých televizorů
 
 ## Podrobnosti
 
-Perplexity AI je relativně nový hráč na poli AI vyhledávání, který konkuruje tradičním vyhledávačům i ChatGPT tím, že kombinuje konverzační rozhraní s přesným citováním zdrojů. Na rozdíl od klasických chatbotů Perplexity poskytuje odpovědi s odkazy na konkrétní zdroje informací, což zvyšuje důvěryhodnost výstupů.
+Perplexity je relativně mladá společnost v oblasti AI vyhledávání, která se odlišuje od tradičních vyhledávačů tím, že místo seznamu odkazů poskytuje přímé odpovědi generované umělou inteligencí. Na rozdíl od ChatGPT nebo jiných čistě konverzačních AI modelů Perplexity vyhledává aktuální informace na internetu a uvádí zdroje, ze kterých čerpá.
 
-Integrace do televizorů Samsung představuje logický krok v evoluci chytrých televizí. Uživatelé budou moci pokládat otázky týkající se doporučení obsahu, informací o hercích, vysvětlení děje nebo obecných dotazů, aniž by museli přepínat na jiné zařízení. Systém by měl fungovat prostřednictvím hlasového ovládání nebo dálkového ovladače.
+Integrace do televizorů Samsungu představuje významný posun v tom, jak budou uživatelé interagovat se svými zařízeními v obývacím pokoji. Namísto tradičního ovládání dálkovým ovladačem budou moci pokládat přirozené otázky - například na doporučení filmů, informace o hercích, nebo obecné dotazy během sledování obsahu.
 
-Tato dohoda přichází v době, kdy výrobci spotřební elektroniky hledají způsoby, jak odlišit své produkty na přesyceném trhu. Integrace pokročilých AI funkcí se stává klíčovým diferenciátorem, podobně jako tomu bylo v případě chytrých telefonů. Samsung již dříve experimentoval s vlastními AI asistenty, ale partnerství se specializovanou firmou jako Perplexity naznačuje pragmatičtější přístup.
+Tato dohoda zapadá do širšího trendu, kdy výrobci spotřební elektroniky hledají způsoby, jak odlišit své produkty prostřednictvím AI funkcí. Samsung již dříve experimentoval s různými formami hlasových asistentů, ale integrace pokročilého AI vyhledávače představuje kvalitativně nový přístup.
 
-Z technického hlediska bude zajímavé sledovat, jak Samsung vyřeší otázky soukromí a zpracování dat, zejména pokud budou uživatelé pokládat osobní dotazy prostřednictvím televizoru v obývacím pokoji.
+Z technického hlediska bude zajímavé sledovat, jak Samsung vyřeší otázky soukromí a zpracování dotazů - zda bude Perplexity běžet lokálně, nebo bude vyžadovat cloudové připojení. Rovněž není jasné, zda půjde o hlasové rozhraní, textové, nebo kombinaci obojího.
 
 ## Proč je to důležité
 
-Tato dohoda signalizuje začátek nové éry v domácí zábavě, kde AI asistenti přestávají být doménou pouze počítačů a telefonů. Pro Perplexity jde o významnou expanzi do hardwaru a potenciální přístup k milionům nových uživatelů. Pro Samsung představuje konkurenční výhodu v segmentu prémiových televizorů.
+Tato dohoda signalizuje další fázi adopce generativní AI v mainstreamových spotřebitelských zařízeních. Zatímco AI asistenti jsou běžní v telefonech a počítačích, jejich integrace do televizorů otevírá nové možnosti využití - od personalizovaných doporučení obsahu až po vzdělávací funkce během sledování.
 
-Širší kontext ukazuje, že AI se stává standardní součástí všech kategorií spotřební elektroniky. Otázkou zůstává, zda uživatelé skutečně chtějí konverzovat se svými televizory, nebo jde pouze o marketingovou novinku bez praktického využití.
+Pro Perplexity jde o významnou validaci jejich technologie a potenciálně o přístup k milionům uživatelů televizorů Samsung po celém světě. Pro Samsung to může být konkurenční výhoda v segmentu prémiových televizorů, kde se výrobci snaží najít diferenciační faktory nad rámec kvality obrazu.
 
 ---
 

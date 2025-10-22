@@ -4,9 +4,9 @@ companies:
 - Apple
 - DxOMark
 date: '2025-10-20 21:17:00'
-description: iPhone 17 Pro s novou 18MPx selfie kamerou se čtvercovým snímačem získal
-  154 bodů v testu DxOMark a obsadil první místo žebříčku. Neobvyklý formát snímače
-  umožňuje pořizovat čtvercové i na výšku i na šířku bez otáčení telefonu.
+description: Apple nasadil do celé řady iPhone 17 nový 18megapixelový čtvercový senzor
+  pro selfie kameru. iPhone 17 Pro díky tomu získal 154 bodů v testu DxOMark a porazil
+  všechny konkurenty.
 importance: 3
 layout: tech_news_article
 original_title: iPhone 17 Pro's innovative front camera beats all competitors in DxOMark
@@ -17,7 +17,8 @@ source:
   emoji: 📰
   id: null
   name: Notebookcheck.net
-title: Přední kamera iPhonu 17 Pro porazila všechny konkurenty v testu DxOMark
+title: Přední kamera iPhone 17 Pro s neobvyklým čtvercovým senzorem vede žebříček
+  DxOMark
 url: https://www.notebookcheck.net/iPhone-17-Pro-s-innovative-front-camera-beats-all-competitors-in-DxOMark-review.1142746.0.html
 urlToImage: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iPhone_17_Pro45.jpg
 urlToImageBackup: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iPhone_17_Pro45.jpg
@@ -25,27 +26,29 @@ urlToImageBackup: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iP
 
 ## Souhrn
 
-Apple iPhone 17 Pro dosáhl nejvyššího hodnocení v testu přední kamery od DxOMark se 154 body, čímž porazil všechny konkurenční smartphony. Klíčem k úspěchu je nová 18MPx kamera s neobvyklým čtvercovým snímačem, který umožňuje pořizovat snímky v různých formátech bez nutnosti otáčet zařízení.
+Apple vybavil celou řadu iPhone 17 zcela novou 18megapixelovou přední kamerou s neobvyklým čtvercovým senzorem, který se nevyskytuje u žádného konkurenčního telefonu. V detailním testu laboratoře DxOMark dosáhl iPhone 17 Pro 154 bodů a obsadil první místo v žebříčku selfie kamer, čímž porazil iPhone 16 Pro i Honor Magic6 Pro.
 
 ## Klíčové body
 
-- iPhone 17 Pro získal 154 bodů v testu DxOMark a obsadil první místo žebříčku selfie kamer
-- Nová 18MPx kamera s čtvercovým snímačem nahradila předchozí 12MPx modul s 1/3,6" snímačem
-- Čtvercový formát snímače umožňuje přepínat mezi čtvercovými, na výšku a na šířku orientovanými snímky bez otáčení telefonu
-- Ohnisková vzdálenost 20 mm oproti předchozím 23 mm usnadňuje skupinové selfie
-- Na druhém místě se umístily iPhone 16 Pro a Honor Magic6 Pro se 151 body
+- iPhone 17 Pro získal 154 bodů v testu DxOMark, iPhone 16 Pro a Honor Magic6 Pro mají shodně 151 bodů
+- Nový 18MP senzor má netradiční čtvercový tvar, který umožňuje pořizovat čtvercové, na výšku i na šířku orientované fotografie bez otáčení telefonu
+- Ohnisková vzdálenost 20 mm oproti 23 mm u předchůdce usnadňuje zachycení skupinových fotografií
+- Clona f/1.9 zůstala stejná jako u iPhone 16 Pro, ale fyzický senzor se zvětšil z 1/3,6 palce
+- Hlavní slabinou zůstává viditelný šum při horších světelných podmínkách a nedokonalá stabilizace videa
 
 ## Podrobnosti
 
-Přechod z 12MPx na 18MPx rozlišení představuje významný upgrade přední kamery u řady iPhone 17. Zatímco iPhone 16 Pro používal modul s clonou f/1.9 a malým 1/3,6" snímačem, nový iPhone 17 Pro vsadil na čtvercový snímač, který v konkurenčních telefonech nenajdeme. Toto netradiční řešení přináší praktickou výhodu – uživatelé mohou pořizovat fotografie v různých formátech bez nutnosti měnit orientaci zařízení.
+Zatímco iPhone 16 Pro používal 12megapixelový senzor o velikosti pouhých 1/3,6 palce, iPhone 17 Pro přináší výrazně větší čtvercový senzor s rozlišením 18 megapixelů. Toto neobvyklé řešení není jen marketingovým tahem – čtvercový formát umožňuje uživatelům pořizovat fotografie v libovolné orientaci bez nutnosti otáčet telefon. Systém dokáže z čtvercového záběru vyříznout jak portrétní, tak krajinný formát, případně ponechat čtvercový snímek.
 
-DxOMark ve své analýze vyzdvihl konzistentně přesnou expozici, široký dynamický rozsah a věrné podání barev, i když tóny pleti mají tendenci být mírně teplejší než ve skutečnosti. Změna ohniskové vzdálenosti z 23 mm na 20 mm rozšiřuje záběr, což oceníte zejména při skupinových selfie. Hloubka ostrosti je dostatečná i bez variabilní clony, takže osoby v popředí i pozadí jsou zaostřené stejně ostře.
+DxOMark ve svém testu vyzdvihl konzistentně přesnou expozici napříč různými scénami, široký dynamický rozsah a věrné podání barev. Mírnou výtkou je tendence k teplejšímu podání tónů pleti. Širší zorný úhel díky ohniskové vzdálenosti 20 mm (oproti 23 mm u předchůdce) výrazně usnadňuje skupinové selfie, kde se do záběru vejde více lidí.
 
-Velkou předností je přesný bokeh efekt, který iPhone 17 Pro pravděpodobně dosahuje díky modulu Face ID. Ten poskytuje přesné informace o hloubce scény, což umožňuje realističtější rozostření pozadí. Testování však odhalilo i slabiny – relativně malý snímač vykazuje viditelný šum při slabém osvětlení a stabilizace obrazu není zcela přesvědčivá, což je patrné zejména při natáčení videa.
+Hloubka ostrosti je podle testu dostatečná i bez variabilní clony – telefon dokáže zachytit ostře jak osoby v popředí, tak v pozadí. Mimořádně přesný bokeh efekt pravděpodobně vděčí za svou kvalitu modulu Face ID, který poskytuje přesnou hloubkovou mapu scény.
+
+Nedostatky se projevují především při slabším osvětlení, kde relativně malý senzor stále produkuje viditelný obrazový šum. Stabilizace videa také není zcela přesvědčivá, což dokládají ukázkové záběry z testu.
 
 ## Proč je to důležité
 
-Výsledky testu potvrzují, že Apple i u přední kamery dokáže konkurovat špičkovým androidovým telefonům. Čtvercový snímač představuje inovativní přístup, který řeší praktický problém uživatelů – nutnost otáčet telefon při změně orientace snímku. Třímístný náskok před iPhone 16 Pro a Honor Magic6 Pro ukazuje, že hardwarový upgrade přinesl měřitelné zlepšení kvality. Pro segment prémiových smartphonů je kvalita selfie kamery stále důležitějším faktorem, zejména s rostoucí popularitou videohovorů a obsahu pro sociální sítě.
+Přední kamery dlouhodobě zaostávaly za hlavními fotoaparáty smartphonů v tempou inovací. Appleovo rozhodnutí nasadit čtvercový senzor představuje zajímavý přístup k řešení problému orientace telefonu při pořizování selfie. Pokud se tento koncept osvědčí, můžeme očekávat jeho adopci i u konkurence. Vedoucí pozice v žebříčku DxOMark potvrzuje, že iPhone zůstává referenčním zařízením v oblasti mobilní fotografie, i když rozdíly oproti konkurenci se postupně zmenšují – mezi prvním a pátým místem je rozdíl pouhých 6 bodů.
 
 ---
 
