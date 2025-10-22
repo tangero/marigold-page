@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Kompaktní powerbanka Iniu s kapacitou 10 000 mAh nyní téměř za polovinu
+title: Kompaktní powerbanka Iniu s kapacitou 10 000 mAh je nyní téměř za polovinu
 url: https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Iniu-P55-E2-lifestyle.png?quality=90&strip=all&crop=0,10.818757590937,100,78.362484818126
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Iniu-P55-E2-lifestyle.png?quality=90&strip=all&crop=0,10.818757590937,100,78.362484818126
@@ -23,29 +23,29 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Powerbanka Iniu P55-E2 s kapacitou 10 000 mAh je aktuálně dostupná na Amazonu za 13,74 dolaru po aplikaci automatického kupónu s 45% slevou. Zařízení kombinuje kompaktní rozměry srovnatelné s pouzdrem AirPods Pro s výkonem 45W a třemi nabíjecími porty.
+Powerbanka Iniu P55-E2 je nyní dostupná na Amazonu za 13,74 dolaru po aplikaci automatické slevy 45 procent, což představuje historicky nejnižší cenu. Zařízení kombinuje kompaktní rozměry srovnatelné s pouzdrem AirPods Pro s kapacitou 10 000 mAh a maximálním výkonem 45W.
 
 ## Klíčové body
 
 - Kapacita 10 000 mAh umožňuje dvakrát plně nabít iPhone 16
 - Maximální výkon 45W přes USB-C port pro rychlé nabíjení
-- Tři porty celkem (dva USB-C a jeden USB-A) pro simultánní nabíjení tří zařízení
-- Cena 13,74 dolaru představuje historické minimum pro tento model
-- Displej zobrazující zbývající kapacitu baterie
+- Tři porty celkem (dva USB-C a jeden USB-A) pro současné nabíjení tří zařízení
+- Integrovaný displej zobrazující zbývající kapacitu
+- Aktuální cena 13,74 dolaru představuje slevu 44 procent z původních 25 dolarů
 
 ## Podrobnosti
 
-Iniu, výrobce nabíjecích příslušenství, nabízí model P55-E2 jako kompromis mezi velikostí a kapacitou. Zatímco není tak kompaktní jako jejich model Pocket Rocket P50, stále se řadí mezi ultratenkých powerbankách s výrazně vyšší kapacitou 10 000 mAh.
+Model P55-E2 od společnosti Iniu, která se specializuje na nabíjecí příslušenství, představuje kompromis mezi velikostí a kapacitou. Ačkoliv není tak kompaktní jako model Pocket Rocket P50 od stejného výrobce, nabízí výrazně vyšší kapacitu při zachování ultratenkého designu.
 
-Klíčovou vlastností je podpora rychlého nabíjení až 45W prostřednictvím jednoho z USB-C portů. Tento výkon postačuje pro efektivní nabíjení smartphonů, tabletů i herních konzolí včetně Nintendo Switch 2. Přítomnost tří portů (dva USB-C a jeden USB-A) umožňuje nabíjet současně tři zařízení, což oceníte při cestování nebo v situacích, kdy potřebujete dobít více zařízení najednou.
+Baterie s kapacitou 10 000 mAh postačuje na dvojnásobné nabití současných smartphonů, jako je iPhone 16. Hlavní USB-C port podporuje výkon až 45W, což umožňuje rychlé nabíjení nejen telefonů, ale i tabletů a herních konzolí včetně Nintendo Switch 2. Přítomnost tří portů (dva USB-C a jeden USB-A) zajišťuje kompatibilitu s různými zařízeními a možnost nabíjet více zařízení současně.
 
-Kapacita 10 000 mAh v praxi znamená přibližně dvě plná nabití pro iPhone 16 nebo jedno až dvě nabití pro větší Android telefony v závislosti na velikosti jejich baterií. Pro tablety nebo herní konzole poskytne zhruba jedno plné nabití.
+Powerbanka obsahuje displej, který zobrazuje přesnou zbývající kapacitu, což uživatelům umožňuje lépe plánovat nabíjení. Zařízení se prodává v černém provedení a sleva je aplikována automaticky při objednávce na Amazonu.
 
-Zařízení obsahuje displej, který zobrazuje aktuální stav nabití powerbanky, což eliminuje nutnost odhadovat zbývající kapacitu podle LED diod, jak je běžné u levnějších modelů. Tato funkce přináší větší přehled o tom, kdy je potřeba powerbanku samotnou dobít.
+Cena 13,74 dolaru představuje výrazný pokles oproti běžné ceně 25 dolarů. Jde o nižší cenu než během nedávného Prime Day výprodeje v říjnu 2025, kdy byla powerbanka také zlevněna.
 
 ## Proč je to důležité
 
-Sleva 45 procent činí z P55-E2 zajímavou volbu v segmentu kompaktních powerbankách s vyšší kapacitou. Cena 13,74 dolaru představuje výrazně lepší poměr ceny a výkonu než u konkurenčních produktů s podobnými parametry. Pro uživatele, kteří hledají spolehlivé záložní napájení pro každodenní použití nebo cestování, představuje tato powerbanka praktické řešení bez nutnosti investovat do dražších značkových alternativ.
+Trh s powerbankami je přesycený levnými produkty s podobnými parametry, ale kombinace kompaktních rozměrů, vysoké kapacity a výkonu 45W za cenu pod 15 dolary představuje nadstandardní nabídku. Pro běžné uživatele smartphonů a tabletů jde o praktické řešení pro cestování nebo situace, kdy není k dispozici zásuvka. Podpora rychlého nabíjení až 45W je relevantní zejména pro novější zařízení, která tuto funkci podporují a mohou tak výrazně zkrátit dobu nabíjení.
 
 ---
 

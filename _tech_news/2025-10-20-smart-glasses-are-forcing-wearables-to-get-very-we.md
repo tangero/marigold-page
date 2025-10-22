@@ -1,9 +1,9 @@
 ---
 category: nositelná elektronik
 date: '2025-10-20 16:18:20'
-description: Meta představila Neural Band, náramek ovládající chytré brýle pomocí
-  svalových signálů. Podobné technologie vyvíjejí i další výrobci, včetně chytrých
-  prstenů pro ovládání AR brýlí.
+description: Meta představila Neural Band, elektromyografický náramek pro ovládání
+  chytrých brýlí Ray-Ban Display pomocí gesten rukou. Vznikají i další alternativy
+  jako chytré prsteny.
 importance: 3
 layout: tech_news_article
 original_title: Smart Glasses Are Forcing Wearables to Get Very Weird - Gizmodo
@@ -21,33 +21,31 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2025/10/Smart-ring-1200x675.jp
 
 ## Souhrn
 
-Chytré brýle se stávají realitou a s nimi přichází nová generace nositelné elektroniky určené k jejich ovládání. Meta představila Neural Band, elektromyografický náramek, který čte elektrické signály ze svalů a umožňuje ovládat brýle gesty. Podobné přístupy volí i další výrobci, kteří experimentují s chytrými prsteny a dalšími vstupními zařízeními.
+Chytré brýle se stávají realitou a s nimi přichází nová generace nositelné elektroniky určené k jejich ovládání. Meta uvedla na trh Ray-Ban Display s displejem a k nim Neural Band, náramek využívající elektromyografii k detekci pohybů prstů. Paralelně vznikají alternativní řešení jako chytré prsteny pro ovládání AR brýlí.
 
 ## Klíčové body
 
-- Meta Ray-Ban Display jsou první chytré brýle Meta s displejem, které jsou již v prodeji
-- Neural Band využívá elektromyografii (EMG) ke snímání elektrických signálů ze svalů ruky a prstů
-- Ovládání funguje gesty - přejetí palcem po sevřené pěsti pohybuje kurzorem, sevření palce a ukazováčku funguje jako kliknutí myší
-- Výrobce INMO používá dotykový chytrý prsten pro ovládání svých AR brýlí
+- Meta Ray-Ban Display jsou první chytré brýle Meta s integrovaným displejem, dostupné již v prodeji
+- Neural Band je elektromyografický (EMG) náramek, který snímá elektrické signály ve svalech ruky a prstů a překládá je na ovládací příkazy
+- Gesta jako přejetí palcem po sevřené pěsti fungují jako kurzor, sevření palce a ukazováku simuluje kliknutí myši
+- Alternativou jsou chytré prsteny s dotykovou plochou, které používají například brýle od firmy INMO
 - Výzkumníci z Tokijské univerzity vyvinuli picoRing mouse, který spotřebuje pouze 2 % energie běžných řešení
 
 ## Podrobnosti
 
-Trh s chytrými brýlemi prochází zásadní změnou. Meta uvedla na trh Ray-Ban Display, první model s integrovaným displejem, a spekulace naznačují, že Samsung a Apple připravují vlastní produkty. Klíčovou výzvou však není samotná technologie brýlí, ale způsob jejich ovládání.
+Trh s chytrými brýlemi prochází zásadní proměnou. Meta již dodává své Ray-Ban Display s displejem a podle spekulací se připravují i Samsung a Apple. Klíčovou otázkou však zůstává způsob ovládání těchto zařízení.
 
-Meta Neural Band představuje inovativní řešení tohoto problému. Náramek využívá elektromyografii, technologii známou z lékařství, která snímá elektrické impulzy vznikající při svalové aktivitě. Systém dokáže rozpoznat jemné pohyby prstů a ruky a překládat je do příkazů pro uživatelské rozhraní brýlí. Uživatel tak může navigovat v menu pouhým přejetím palcem po sevřené pěsti nebo vybírat položky sevřením prstů.
+Meta vsadila na Neural Band, sofistikovaný elektromyografický náramek. Technologie EMG dokáže zachytit elektrické impulzy vznikající při pohybu svalů a šlach v předloktí a prstech. Systém tyto signály interpretuje a převádí na ovládací příkazy pro brýle. Uživatel tak může navigovat v rozhraní pouhými gesty ruky, aniž by se musel dotýkat jakéhokoli fyzického ovládacího prvku.
 
-Alternativní přístup volí výrobce INMO, který ke svým AR brýlím dodává chytrý prsten s dotykovou plochou. Prsten umožňuje podobné ovládání pomocí přejetí palcem, ale s nižší technologickou složitostí než Neural Band.
+Pro méně náročné AR brýle, jako jsou ty od firmy INMO, se jako alternativa nabízejí chytré prsteny. Tyto prsteny obsahují dotykovou plochu, po které uživatel přejíždí palcem a dosahuje podobného efektu jako s Neural Band. Řešení je jednodušší a pravděpodobně i levnější.
 
-Výzkumný tým z Tokijské univerzity posunul koncept chytrého prstenu dále s prototypem picoRing mouse. Tento miniaturní vstupní zařízení spotřebuje pouze 2 % energie běžných řešení, což je klíčové pro celodenní používání nositelné elektroniky.
+Výzkumný tým z Tokijské univerzity představil picoRing mouse, který představuje další evoluci konceptu chytrého prstenu. Hlavní výhodou je extrémně nízká spotřeba energie - pouze 2 % oproti standardním řešením, což výrazně prodlužuje výdrž na baterii.
 
 ## Proč je to důležité
 
-Vývoj vstupních zařízení pro chytré brýle ukazuje, že samotné brýle jsou pouze částí širšího ekosystému nositelné elektroniky. Tradiční ovládání dotykem displeje nebo hlasem má u brýlí zásadní omezení - dotyk by rušil zobrazení a hlasové příkazy nejsou vhodné ve všech situacích.
+Příchod chytrých brýlí s displeji vyžaduje zcela nové způsoby interakce. Tradiční ovládání pomocí dotykových ploch na brýlích není ergonomické ani intuitivní. Neural Band a podobná zařízení představují pokus o vytvoření přirozenějšího rozhraní mezi člověkem a technologií.
 
-Elektromyografické náramky a chytré prsteny představují novou kategorii vstupních zařízení, která může změnit způsob interakce s technologiemi obecně. Pokud se tato řešení osvědčí u chytrých brýlí, mohou najít uplatnění i u dalších zařízení, od smartphonů po počítače.
-
-Pro výrobce to znamená nutnost vyvíjet a prodávat komplexní sady zařízení místo jednotlivých produktů. Pro uživatele to může znamenat vyšší vstupní náklady, ale také potenciálně intuitivnější ovládání budoucích technologií.
+Tato vlna inovací ukazuje, že chytré brýle nejsou izolovaným produktem, ale katalyzátorem pro celý ekosystém nositelné elektroniky. Firmy experimentují s různými přístupy - od pokročilé elektromyografie přes jednoduché dotykové prsteny až po ultra-úsporná řešení. Úspěch chytrých brýlí bude záviset nejen na kvalitě samotných brýlí, ale i na tom, jak přirozeně a spolehlivě je uživatelé dokážou ovládat.
 
 ---
 
