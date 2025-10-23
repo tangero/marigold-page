@@ -6,7 +6,7 @@ companies:
 - Google
 date: '2025-10-22 02:00:00'
 description: Samsung představil headset Galaxy XR s platformou Android XR a asistentem
-  Gemini za 1 800 dolarů, což je o 1 700 dolarů méně než Apple Vision Pro.
+  Gemini za 1 800 dolarů, což je výrazně méně než 3 499 dolarů za Apple Vision Pro.
 importance: 4
 layout: tech_news_article
 original_title: Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision
@@ -25,33 +25,33 @@ urlToImageBackup: https://media.wired.com/photos/68f69800ae96f92366d7b48f/191:10
 
 ## Souhrn
 
-Samsung uvedl na trh headset pro smíšenou realitu Galaxy XR za cenu 1 800 dolarů, což představuje výrazně nižší cenovou hladinu než konkurenční Apple Vision Pro za 3 499 dolarů. Zařízení běží na nové platformě Android XR vyvinuté ve spolupráci s Googlem a Qualcommem a je prvním komerčním produktem této kategorie od Samsungu a Googlu po pěti letech od ukončení podpory jejich mobilních VR headsetů.
+Samsung uvedl na trh headset pro smíšenou realitu Galaxy XR za cenu 1 800 dolarů, což je o 1 700 dolarů méně než konkurenční Apple Vision Pro. Zařízení běží na nové platformě Android XR vyvinuté Googlem a je prvním komerčním produktem této kategorie od Samsungu a Googlu po pěti letech od ukončení podpory jejich mobilních VR headsetů.
 
 ## Klíčové body
 
-- Cena 1 800 dolarů (možnost splácení 149 dolarů měsíčně po dobu 12 měsíců)
-- Pohon čipem Qualcomm Snapdragon XR2+ Gen 2
-- Integrovaný asistent Google Gemini a přístup k aplikacím z Google Play Store
-- Ovládání rukama s podporou eye trackingu, kontrolery prodávány samostatně
-- Dostupnost zatím pouze v USA a Jižní Koreji
+- Galaxy XR stojí 1 800 dolarů (možnost splácení 149 dolarů měsíčně), což je polovina ceny Vision Pro za 3 499 dolarů
+- Běží na platformě Android XR s integrovaným asistentem Google Gemini
+- Pohání ho čip Qualcomm Snapdragon XR2+ Gen 2
+- Ovládání pomocí rukou a sledování očí, kontrolery se prodávají samostatně
+- Dostupný v USA a Jižní Koreji, aplikace z Google Play Store s označením "Made for XR"
 
 ## Podrobnosti
 
-Galaxy XR, původně oznámený jako Project Moohan, představuje návrat Samsungu a Googlu do segmentu virtuální a smíšené reality. Headset využívá pancake čočky, které umožňují vidět reálné prostředí s překrytím virtuálního obsahu, nebo úplné ponoření do virtuálního světa. Platforma Android XR je postavena přímo na operačním systému Android s hlubokou integrací asistenta Gemini.
+Galaxy XR představuje návrat Samsungu a Googlu do segmentu virtuální a smíšené reality po pětiletém odmlčení. Projekt původně oznámený pod kódovým názvem Moohan je postaven na zcela nové platformě Android XR, kterou Google vyvinul specificky pro chytré brýle a headsety s integrací asistenta Gemini.
 
-Zařízení konkuruje především Apple Vision Pro, které Apple tento týden aktualizuje procesorem M5. Samsung však volí agresivnější cenovou strategii - jeho headset stojí necelou polovinu ceny produktu od Apple. Zároveň je výrazně dražší než standardní VR headsety jako Meta Quest 3.
+Z technického hlediska headset využívá pancake čočky umožňující vidět reálné prostředí s překrytím virtuálního obsahu, nebo úplné ponoření do virtuálního světa. Primárním vstupním zařízením jsou ruce uživatele, přičemž systém sledování očí určuje, co chce uživatel vybrat. Kontrolery jsou k dispozici jako volitelné příslušenství.
 
-Aplikace z Google Play Store budou mít speciální označení "Made for XR" pro rozlišení optimalizovaných verzí. Ovládání probíhá primárně gesty rukou a sledováním pohybu očí pro výběr prvků, přičemž fyzické kontrolery jsou dostupné jako příplatek. Technicky headset využívá čip Snapdragon XR2+ Gen 2 od Qualcommu, který je optimalizován pro aplikace smíšené reality.
+Cenové umístění mezi standardní VR headsety jako Meta Quest 3 a prémiový Vision Pro naznačuje snahu oslovit segment uživatelů, kteří hledají pokročilé funkce smíšené reality, ale nejsou ochotni zaplatit přes 3 000 dolarů. Samsung nabízí také možnost splátkového financování po 149 dolarech měsíčně na 12 měsíců.
 
-Podrobnosti o hardwarových specifikacích jako rozlišení displejů, zorné pole nebo výdrž baterie Samsung zatím neupřesnil. Demonstrace pro média ukázaly podobné možnosti jako u konkurence - práci s virtuálními okny, prostorové aplikace a přepínání mezi režimy smíšené a virtuální reality.
+Platforma Android XR přináší přístup k aplikacím z Google Play Store, kde budou XR aplikace označeny speciálním štítkem "Made for XR". To by mělo usnadnit uživatelům orientaci v nabídce kompatibilního softwaru.
 
 ## Proč je to důležité
 
-Uvedení Galaxy XR představuje významný milník pro ekosystém Android v segmentu smíšené reality, který dosud dominoval především Meta s headsety Quest a Apple s Vision Pro. Spolupráce Samsungu, Googlu a Qualcommu vytváří alternativní platformu s potenciálem širší adopce díky nižší ceně a vazbě na ekosystém Android a Google služeb.
+Vstup Samsungu a Googlu do segmentu smíšené reality s výrazně nižší cenou než Apple Vision Pro může zásadně ovlivnit adopci této technologie. Zatímco Vision Pro zůstává nedostupný pro většinu spotřebitelů kvůli vysoké ceně, Galaxy XR nabízí podobné funkce za poloviční částku, což může urychlit mainstream přijetí XR technologií.
 
-Cenová strategie může být klíčová pro rozšíření technologie smíšené reality mimo segment early adopters a profesionálů. Zatímco Vision Pro cílí na prémiový segment, Galaxy XR se pokouší najít střední cestu mezi dostupností a pokročilými funkcemi. Úspěch platformy Android XR bude záviset na podpoře vývojářů a dostupnosti kvalitních aplikací optimalizovaných pro smíšenou realitu.
+Spolupráce tří technologických gigantů - Samsungu, Googlu a Qualcommu - vytváří silný ekosystém konkurující Apple. Platforma Android XR má potenciál standardizovat vývoj aplikací pro různá XR zařízení, podobně jako to Android udělal pro smartphony. Integrace Gemini asistenta přímo do platformy ukazuje směr, kterým se XR technologie budou ubírat - kombinace umělé inteligence s rozšířenou realitou.
 
-Pro Google jde o další pokus etablovat se v hardwaru pro rozšířenou realitu po neúspěšných Google Glass a Daydream. Integrace Gemini naznačuje záměr využít AI asistenta jako diferenciační prvek oproti konkurenci.
+Pro průmysl to znamená novou konkurenci v segmentu, kde dosud dominovala Meta se svými Quest headsety v nižší cenové kategorii a Apple s prémiovým Vision Pro. Samsung s Googlem se pokouší obsadit střední segment trhu, který může být klíčový pro masové rozšíření XR technologií.
 
 ---
 

@@ -4,9 +4,8 @@ companies:
 - Google
 - TechCrunch
 date: '2025-10-21 18:23:12'
-description: Telekomunikační služba Google Fi získává AI filtraci šumu při hovorech,
-  podporu RCS ve webovém rozhraní a rozšířené automatické připojení k Wi-Fi na milionech
-  míst.
+description: Telekomunikační služba Google Fi získává AI vylepšení zvuku hovorů, podporu
+  RCS zpráv v prohlížeči a rozšířené automatické připojení k Wi-Fi na miliony míst.
 importance: 3
 layout: tech_news_article
 original_title: Google Fi to add AI-enhanced audio and RCS web messaging - TechCrunch
@@ -16,7 +15,7 @@ source:
   emoji: 🚀
   id: techcrunch
   name: TechCrunch
-title: Google Fi přidává AI vylepšení zvuku a RCS webové zprávy
+title: Google Fi přidává AI potlačení šumu a RCS zprávy na webu
 url: https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/rubaitul-azad-pBaJRaF4x9Q-unsplash.jpg?resize=1200,810
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/rubaitul-azad-pBaJRaF4x9Q-unsplash.jpg?resize=1200,810
@@ -24,33 +23,31 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/rubaitul-aza
 
 ## Souhrn
 
-Google oznámil aktualizaci své telekomunikační služby Google Fi, která přináší AI vylepšení kvality zvuku při hovorech, plnou podporu RCS ve webovém rozhraní pro zprávy a rozšíření funkce automatického připojení k prémiové Wi-Fi. Novinky budут postupně dostupné od prosince 2024.
+Google oznámil několik aktualizací pro svou telekomunikační službu Google Fi, která v USA konkuruje tradičním operátorům. Hlavní novinkou je AI-enhanced audio pro potlačení hluku na pozadí a zlepšení čistoty hlasu během hovorů, dále pak podpora RCS zpráv v prohlížeči a rozšíření automatického připojení k prémiové Wi-Fi na miliony lokalit včetně velkých letišť.
 
 ## Klíčové body
 
-- AI vylepšení zvuku automaticky redukuje hluk na pozadí a zlepšuje srozumitelnost hlasu i při hovorech na pevnou linku
-- Webové rozhraní Messages for web získává plnou podporu RCS včetně sdílení fotografií a videí ve vysokém rozlišení
-- Wi-Fi Auto Connect+ se rozšiřuje na miliony lokalit včetně velkých letišť jako LAX, ORD a JFK
-- Nové AI shrnutí v aplikaci Google Fi vysvětlují poplatky a dopady změn tarifů
-- Časově omezená akce nabízí 50% slevu na 15 měsíců pro nové zákazníky
+- AI-enhanced audio automaticky redukuje hluk na pozadí a zlepšuje čistotu hlasu i při hovoru s pevnou linkou nebo staršími telefony
+- RCS podpora v prohlížeči umožní sdílení fotografií a videí ve vysokém rozlišení přímo z webového rozhraní Messages for web
+- Wi-Fi Auto Connect+ se rozšiřuje na miliony míst včetně letišť LAX, ORD a JFK s automatickým šifrovaným připojením
+- Aplikace Google Fi získává AI-generované souhrny vysvětlující poplatky a dopady změn tarifu
+- Časově omezená akce nabízí 50% slevu po dobu 15 měsíců pro nové zákazníky s vlastním telefonem
 
 ## Podrobnosti
 
-AI vylepšení zvuku představuje nejviditelnější novinku. Technologie využívá umělou inteligenci k potlačení rušivých zvuků na pozadí a zlepšení čistoty hlasu během telefonních hovorů. Funkce funguje obousměrně a zlepšuje kvalitu i při hovoru s někým, kdo používá pevnou linku nebo starší zařízení. Google uvádí, že výsledkem by měly být přirozeněji znějící konverzace. Funkce bude aktivní automaticky, uživatelé ji však mohou vypnout. Dostupná bude od příštího měsíce.
+Funkce AI-enhanced audio představuje pokročilé zpracování zvuku v reálném čase, které má zajistit přirozenější konverzace odstraněním rušivých zvuků z okolí. Technologie funguje i při hovoru s účastníky na pevné lince nebo se staršími zařízeními, která podobnou funkcionalitu nepodporují. Uživatelé budou mít možnost funkci vypnout, pokud by preferovali původní kvalitu zvuku. Nasazení je plánováno na příští měsíc.
 
-Webové rozhraní pro zprávy prochází redesignem s plnou podporou protokolu RCS (Rich Communication Services), který představuje moderní náhradu SMS. Nové rozhraní umožní sdílet fotografie a videa ve vysokém rozlišení přímo z webového prohlížeče. Aktualizace se začne šířit v prosinci.
+Aktualizace webového rozhraní Messages for web přináší plnou podporu protokolu RCS (Rich Communication Services), který představuje modernější alternativu k tradičním SMS zprávám. Uživatelé budou moci sdílet fotografie a videa ve vysokém rozlišení přímo z prohlížeče bez nutnosti komprese, kterou vyžadují klasické MMS zprávy. Tato funkce bude dostupná v prosinci.
 
-Funkce Wi-Fi Auto Connect+ automaticky připojuje zařízení k prémiové Wi-Fi síti na vytížených místech jako letiště nebo nákupní centra, kde běžné připojení bývá nespolehlivé. Google rozšiřuje dostupnost této funkce na miliony lokalit. Podle Jane Harnett, senior produktové manažerky Google Fi Wireless, je Google Fi jediným velkým operátorem, který automaticky zabezpečuje online aktivitu šifrovaným připojením při použití prémiové Wi-Fi. Uživatelé poznají aktivní připojení podle ikony W+ ve stavovém řádku.
+Wi-Fi Auto Connect+ automaticky připojuje uživatele k ověřeným prémiové Wi-Fi sítím na místech s vysokou koncentrací lidí, jako jsou letiště nebo nákupní centra. Google zdůrazňuje, že je jediným velkým operátorem, který automaticky zabezpečuje online aktivitu šifrovaným připojením při použití prémiové Wi-Fi. Připojení přes tuto funkci je indikováno ikonou W+ ve stavovém řádku.
 
-Aplikace Google Fi také získává AI shrnutí, která vysvětlují jednotlivé poplatky, měsíční změny a dopady úprav tarifu na budoucí náklady. Jde o praktické využití generativní AI pro zjednodušení pochopení účtů.
+Nově implementované AI souhrny v aplikaci Google Fi mají uživatelům pomoci lépe porozumět jejich účtům. Systém vysvětluje jednotlivé poplatky, měsíční změny a simuluje, jak by úpravy tarifu ovlivnily budoucí náklady.
 
 ## Proč je to důležité
 
-Aktualizace Google Fi ukazuje, jak se AI integrace stává standardem i v telekomunikačních službách. Zatímco AI vylepšení zvuku není zcela novou technologií - podobné funkce nabízejí některé sluchátka nebo videokonferenční nástroje - její implementace přímo na úrovni operátora znamená, že bude fungovat univerzálně napříč všemi hovory bez ohledu na použité zařízení.
+Google Fi se snaží odlišit od tradičních amerických operátorů kombinací pokročilých technologií a transparentního přístupu k cenám. Implementace AI do telekomunikačních služeb ukazuje trend, kdy umělá inteligence proniká i do základních komunikačních funkcí. Potlačení šumu v reálném čase může být užitečné zejména pro uživatele pracující na hlučných místech nebo v otevřených kancelářích.
 
-Rozšíření RCS podpory do webového rozhraní je logickým krokem v Googlem dlouhodobě prosazované snaze nahradit zastaralé SMS moderním protokolem. Pro uživatele to znamená konzistentnější zážitek při přepínání mezi mobilem a počítačem.
-
-Z hlediska konkurence jde o postupné vylepšování služby, která v USA konkuruje tradičním operátorům jako Verizon, AT&T nebo T-Mobile. Google Fi funguje jako MVNO (Mobile Virtual Network Operator) využívající infrastrukturu T-Mobile a US Cellular.
+Rozšíření RCS na webové rozhraní odpovídá snahám Google prosadit tento standard jako náhradu za zastaralé SMS. Automatické zabezpečení Wi-Fi připojení reaguje na rostoucí bezpečnostní rizika spojená s veřejnými sítěmi. Celkově jde o evoluční vylepšení, která mají zvýšit konkurenceschopnost služby na americkém trhu.
 
 ---
 

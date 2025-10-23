@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: 'Řada M5 od Applu pokračuje v trendu: iPad inovuje rychleji než Mac'
+title: 'Řada M5 od Apple pokračuje v trendu: iPad inovuje rychleji než Mac'
 url: https://9to5mac.com/2025/10/21/apples-m5-lineup-continues-trend-of-ipad-innovating-before-mac/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ipad-pro-vs-macbook-pro-m5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ipad-pro-vs-macbook-pro-m5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -23,31 +23,31 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple představil nové modely iPad Pro a MacBook Pro s čipem M5, přičemž se potvrzuje dlouhodobý trend, kdy hardwarové novinky přicházejí nejprve do řady iPad. Zatímco iPad Pro dostává nejmodernější technologie jako tandemový OLED displej a Face ID, MacBook Pro zůstává u starších řešení s klasickým LCD panelem a Touch ID.
+Apple představil nové modely iPad Pro a MacBook Pro s čipem M5, které opět potvrzují dlouhodobý trend: hardwarové novinky se objevují nejprve v iPadu a do Maců přicházejí s několikaletým zpožděním. iPad Pro M5 dostává tandemový OLED displej, Face ID a vlastní bezdrátové čipy Apple, zatímco MacBook Pro zůstává u čtyři roky starého designu s LCD displejem a Touch ID.
 
 ## Klíčové body
 
 - iPad Pro M5 má tandemový OLED displej Ultra Retina XDR, MacBook Pro stále používá LCD technologii Liquid Retina XDR
-- iPad nabízí dotykovou obrazovku a Face ID, MacBook Pro má pouze Touch ID
-- iPad Pro používá proprietární bezdrátový čip N1 a modem C1X od Applu, MacBook Pro spoléhá na komponenty třetích stran
-- Design iPadu Pro je tenčí a modernější (roční stáří), MacBook Pro má čtyři roky starý robustnější design
-- Většina těchto inovací má podle spekulací dorazit do MacBooků v příštích letech
+- iPad nabízí Face ID a dotykovou obrazovku, MacBook Pro má pouze Touch ID a žádnou dotykovou podporu
+- iPad Pro používá proprietární bezdrátový čip N1 a modem C1X s podporou mobilních sítí, MacBook Pro má standardní čipy třetích stran
+- iPad Pro má ultratenkový design z loňského roku, MacBook Pro používá čtyři roky starý robustnější design
+- Většina těchto inovací má podle spekulací dorazit do MacBooku Pro až v příštích letech
 
 ## Podrobnosti
 
-Srovnání nových modelů M5 odhaluje výrazné rozdíly v hardwarové výbavě. iPad Pro dostal tandemový OLED displej s označením Ultra Retina XDR, který nabízí lepší kontrast a barevné podání než LCD panel MacBooku Pro. Technologie tandemového OLED využívá dvě vrstvy organických diod pro vyšší jas a delší životnost.
+Srovnání nových modelů s čipem M5 ukazuje výrazné rozdíly v hardwarovém vybavení. iPad Pro dostal tandemový OLED displej, který kombinuje dvě OLED vrstvy pro vyšší jas a delší životnost. MacBook Pro naproti tomu stále spoléhá na LCD technologii s mini-LED podsvícením, ačkoliv OLED displeje nabízejí lepší kontrast a černou barvu.
 
-Dalším rozdílem je absence dotykové obrazovky u MacBooku Pro, zatímco iPad ji má ze své podstaty. Apple také u tabletu implementoval Face ID pro biometrické odemykání pomocí rozpoznávání obličeje, zatímco notebook zůstává u Touch ID ve formě čtečky otisků prstů.
+V oblasti biometrie iPad Pro využívá Face ID s 3D skenováním obličeje, zatímco MacBook Pro zůstává u Touch ID ve formě čtečky otisků prstů. iPad má navíc dotykovou obrazovku, která v MacBoocích stále chybí, přestože konkurenční Windows notebooky ji nabízejí již roky.
 
-Z hlediska konektivity iPad Pro využívá vlastní bezdrátový čip N1 a modem C1X vyvinutý Applem, což firmě dává větší kontrolu nad výkonem a spotřebou. MacBook Pro nadále spoléhá na standardní komponenty od externích dodavatelů. iPad navíc nabízí možnost mobilního připojení, která u MacBooku chybí.
+Významným rozdílem je také použití vlastních čipů Apple pro bezdrátovou konektivitu. iPad Pro obsahuje čip N1 pro Wi-Fi a Bluetooth a modem C1X pro mobilní sítě, což Apple umožňuje lepší kontrolu nad spotřebou energie a výkonem. MacBook Pro používá standardní komponenty od třetích stran.
 
-Designově je iPad Pro výrazně tenčí díky loňské redesignu, zatímco MacBook Pro používá čtyři roky starou konstrukci, která je objemnější a těžší.
-
-Podle dostupných informací má většina těchto inovací dorazit do MacBooku Pro v následujících letech. OLED displej se očekává koncem příštího roku, stejně jako podpora dotykové obrazovky. Face ID je podle spekulací vzdálenější, nový tenčí design má přijít příští rok. Vlastní bezdrátové čipy a modemy Apple pravděpodobně implementuje postupně.
+Podle dostupných informací má MacBook Pro získat OLED displej koncem příštího roku, dotykovou podporu také v roce 2026, Face ID až za několik let a nový tenčí design v roce 2026. Vlastní bezdrátové čipy a případně modem C2 jsou také v plánu, ale bez konkrétního časového harmonogramu.
 
 ## Proč je to důležité
 
-Tento trend ukazuje strategii Applu testovat nové technologie nejprve na iPadu, kde je menší riziko negativní reakce uživatelů a kde má firma větší svobodu v experimentování s formátem. iPad slouží jako testovací platforma pro inovace, které později míří do konzervativnější řady Mac. Pro uživatele MacBooků to znamená, že musí čekat déle na nejnovější hardwarové funkce, zatímco majitelé iPadů dostávají cutting-edge technologie dříve. Zároveň to naznačuje, že příští generace MacBooků s čipem M6 by mohla přinést výraznou hardwarovou modernizaci.
+Tento trend odráží odlišnou strategii Apple pro obě produktové řady. iPad slouží jako testovací platforma pro nové technologie, které se později přenesou do Maců. To má své důvody: iPad má kratší vývojové cykly, menší baterii (což vyžaduje efektivnější komponenty) a uživatelé tabletů jsou zvyklí na častější inovace z mobilního světa.
+
+Pro uživatele to znamená, že kdo chce nejnovější hardwarové technologie od Apple, musí sáhnout po iPadu Pro. MacBook Pro sice nabízí výkonnější čip M5 Pro a M5 Max, ale v oblasti displeje, biometrie a designu zaostává. Situace by se měla změnit s modely M6 v roce 2026, které slibují největší redesign MacBooku Pro za poslední roky.
 
 ---
 
