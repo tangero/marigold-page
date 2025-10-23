@@ -4,8 +4,8 @@ companies:
 - Apple
 date: '2025-10-21 18:21:43'
 description: Apple údajně odložil plánované uvedení skládacího iPadu s velkým displejem
-  kvůli technickým problémům. Zařízení za cenu kolem 3000 dolarů se může zpozdit až
-  na rok 2029.
+  kvůli technickým komplikacím. Zařízení za 3000 dolarů se může posunout z roku 2028
+  na rok 2029 nebo později.
 importance: 2
 layout: tech_news_article
 original_title: Apple’s Planned Foldable iPad With 18-inch Screen Hits Development
@@ -22,11 +22,11 @@ urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVG5oGihUjA/v0/120
 urlToImageBackup: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVG5oGihUjA/v0/1200x800.jpg
 ---
 
-Apple podle zdrojů Bloombergu čelí vývojovým komplikacím u plánovaného skládacího iPadu s 18palcovým displejem. Projekt, na kterém společnost pracuje několik let, měl původně dorazit v roce 2028, ale technické překážky mohou jeho uvedení posunout až na rok 2029 nebo později.
+Apple podle zdrojů Bloombergu čelí vývojovým problémům u plánovaného skládacího iPadu s 18palcovým displejem, což může posunout jeho uvedení na trh z původně zamýšleného roku 2028 na rok 2029 nebo ještě později.
 
-Hlavní problémy se týkají hmotnosti zařízení, implementace funkcí a technologie ohebného displeje. Předpokládaná cena má dosahovat přibližně 3000 dolarů, což by z něj činilo nejdražší iPad v historii. Jedná se však o nepotvrzené informace z anonymních zdrojů, nikoli oficiální oznámení Applu.
+Společnost na tomto zařízení pracuje již několik let s cílovou cenou kolem 3000 dolarů. Hlavní překážky se týkají hmotnosti zařízení, implementace funkcí a technologie displeje. Konkrétní povaha těchto technických výzev není blíže specifikována.
 
-Skládací zařízení představují pro výrobce významnou technickou výzvu. Kromě samotné mechaniky ohybu displeje musí inženýři řešit otázky trvanlivosti, tloušťky zařízení a viditelnosti záhybu na obrazovce. Apple dosud žádné skládací zařízení neuvedl na trh, zatímco konkurence jako Samsung nebo Huawei již několik generací skládacích telefonů prodává.
+Jde o spekulativní informaci založenou na neověřených zdrojích, nikoli o oficiální oznámení Apple. Společnost tradičně své vývojové plány nekomentuje a často mění priority projektů v rané fázi vývoje. Skládací displeje představují komplexní technologickou výzvu - kromě samotného ohebného panelu je nutné vyřešit mechanismus skládání, odolnost pantů, distribuci hmotnosti a softwarovou optimalizaci pro různé režimy použití.
 
 ---
 

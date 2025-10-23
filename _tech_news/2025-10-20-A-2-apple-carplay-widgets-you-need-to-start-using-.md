@@ -3,9 +3,8 @@ category: mobilní aplikace
 companies:
 - Apple
 date: '2025-10-20 11:17:00'
-description: iOS 26 přináší do CarPlay podporu widgetů. Článek doporučuje vyzkoušet
-  widget aplikace Domácnost a widgety počasí pro rychlý přístup k funkcím přímo z
-  palubní desky.
+description: Článek doporučuje vyzkoušet widget aplikace Domácnost a widget počasí
+  v systému CarPlay dostupném v iOS 26.
 importance: 2
 layout: tech_news_article
 original_title: 2 Apple CarPlay Widgets You Need To Start Using Right Now - bgr.com
@@ -15,17 +14,17 @@ source:
   emoji: 📰
   id: null
   name: BGR
-title: Dva widgety pro Apple CarPlay, které stojí za vyzkoušení
+title: Dva widgety Apple CarPlay, které byste měli začít používat
 url: https://www.bgr.com/1996756/essential-apple-carplay-widgets/
 urlToImage: https://www.bgr.com/img/gallery/2-apple-carplay-widgets-you-need-to-start-using-right-now/l-intro-1760464991.jpg
 urlToImageBackup: https://www.bgr.com/img/gallery/2-apple-carplay-widgets-you-need-to-start-using-right-now/l-intro-1760464991.jpg
 ---
 
-Článek představuje novou funkci widgetů v Apple CarPlay, která přišla s aktualizací iOS 26. Zaměřuje se na dva konkrétní widgety - aplikaci Domácnost (Home) pro ovládání chytré domácnosti a widgety počasí. Jedná se o praktický návod pro běžné uživatele, nikoli o zásadní technologickou novinku.
+Článek z října 2025 popisuje dvě doporučené widgety pro Apple CarPlay dostupné v iOS 26 - widget aplikace Domácnost (Home) a widget počasí. Jde o spekulativní nebo předčasně publikovaný obsah, protože iOS 26 v době psaní této analýzy ještě neexistuje.
 
-Widgety v CarPlay fungují podobně jako na domovské obrazovce iPhone - zobrazují relevantní informace z aplikací nebo poskytují rychlý přístup k funkcím. Aktivace vyžaduje iOS 26 a nastavení přes Nastavení > Obecné > CarPlay > Vaše vozidlo > Widgety. Widget aplikace Domácnost umožňuje ovládat HomeKit zařízení a scény přímo z auta, což vyžaduje hub jako Apple TV nebo HomePod. Kromě doporučených widgetů Apple nabízí také Hodiny, Fotky, Kalendář, Hudbu a další, včetně podpory widgetů od vývojářů třetích stran.
+Widgety v CarPlay umožňují zobrazovat informace z aplikací přímo na obrazovce automobilu. Podle článku se aktivují v nastavení iPhone přes cestu Nastavení > Obecné > CarPlay > Vaše vozidlo > Widgety. Widget aplikace Domácnost má umožňovat ovládání chytrých domácích zařízení přímo z auta, včetně HomeKit příslušenství a scén. Widget počasí pak zobrazuje aktuální informace o počasí.
 
-Jde o běžný tutoriálový obsah zaměřený na koncové uživatele Apple ekosystému, bez hlubších technických detailů nebo širšího dopadu na automobilový či technologický průmysl.
+Vedle těchto dvou Apple nabízí i další widgety jako Hodiny, Fotky, Kalendář nebo Hudba. Systém má podporovat i widgety od vývojářů třetích stran. Jedná se o tutoriálový obsah zaměřený na běžné uživatele, nikoli o oznámení nové funkce.
 
 ---
 
