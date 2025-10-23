@@ -39,8 +39,8 @@ headers = {
 payload = {
     "app_id": ONESIGNAL_APP_ID,
     "included_segments": ["Subscribed Users"],
-    "headings": {"en": f"🆕 {title}"},
-    "contents": {"en": summary},
+    "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
+    "contents": {"en": summary, "cs": summary},
 }
 
 print(f"\n📤 Odesílám notifikaci...")
