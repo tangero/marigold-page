@@ -5,8 +5,8 @@ companies:
 - Microsoft
 date: '2025-10-22 10:12:46'
 description: Studie 22 veřejnoprávních médií včetně DW odhalila, že AI asistenti jako
-  ChatGPT a Copilot zkreslují zpravodajský obsah v 45 % případů a nedokáží rozlišit
-  fakta od názorů.
+  ChatGPT a Copilot zkreslují zpravodajský obsah v 45 % případů a mají problémy s
+  rozlišením faktů od názorů.
 importance: 4
 layout: tech_news_article
 original_title: AI chatbots fail at accurate news, major study reveals - DW
@@ -24,33 +24,37 @@ urlToImageBackup: https://static.dw.com/image/74390458_6.jpg
 
 ## Souhrn
 
-Rozsáhlá mezinárodní studie zahrnující 22 veřejnoprávních médií, včetně německé DW, zjistila, že čtyři nejpoužívanější AI chatboti poskytují nepřesné nebo zkreslené informace ve 45 % případů při zprostředkování zpravodajského obsahu. Problémy se objevují napříč jazyky i regiony a týkají se faktických chyb, problémů se zdroji i neschopnosti rozlišit fakta od názorů.
+Rozsáhlá mezinárodní studie zahrnující 22 veřejnoprávních médií prokázala, že čtyři nejpoužívanější AI chatboti poskytují nepřesné nebo zkreslené informace ve 45 % případů při zprostředkování zpravodajského obsahu. Výzkum testoval ChatGPT, Microsoft Copilot, Google Gemini a Perplexity AI napříč různými jazyky a regiony s alarmujícími výsledky.
 
 ## Klíčové body
 
-- Čtyři testované AI asistenty (ChatGPT, Microsoft Copilot, Google Gemini a Perplexity AI) zkreslují zpravodajský obsah v 45 % odpovědí
-- 31 % odpovědí obsahovalo vážné problémy se zdroji informací, 20 % mělo závažné faktické chyby
-- DW zaznamenala problémy v 53 % odpovědí, přičemž 29 % mělo konkrétní problémy s přesností
-- Mezi chybami bylo například označení Olafa Scholze za kancléře měsíc poté, co se jím stal Friedrich Merz
-- Podle Reuters Institute používá AI chatboty k získávání zpráv 7 % online čtenářů, u uživatelů mladších 25 let to je 15 %
+- 45 % odpovědí AI asistentů obsahovalo alespoň jeden významný problém při zprostředkování zpravodajského obsahu
+- 31 % odpovědí mělo vážné problémy se zdrojováním informací
+- 20 % odpovědí obsahovalo zásadní faktické chyby
+- Německá DW zaznamenala problémy u 53 % odpovědí, přičemž 29 % mělo specifické problémy s přesností
+- Podle Reuters Institute Digital News Report 2025 využívá AI chatboty pro zprávy 7 % online konzumentů zpravodajství, u uživatelů mladších 25 let to je 15 %
 
 ## Podrobnosti
 
-Novinářské týmy z veřejnoprávních médií, včetně BBC a NPR, systematicky vyhodnocovaly odpovědi čtyř hlavních AI asistentů podle kritérií jako přesnost, uvádění zdrojů, poskytování kontextu, schopnost vhodně editorizovat a rozlišovat fakta od názorů. Výsledky ukazují, že téměř polovina všech odpovědí měla alespoň jeden významný problém.
+Novinářské týmy z veřejnoprávních médií včetně BBC, NPR a německé DW systematicky testovaly odpovědi čtyř hlavních AI asistentů podle několika kritérií: přesnost informací, správné uvádění zdrojů, poskytování kontextu, schopnost vhodně editorizovat a rozlišovat fakta od názorů.
 
-Německá DW zaznamenala ještě horší výsledky než průměr studie - problémy se objevily v 53 % odpovědí. Mezi konkrétními chybami bylo například tvrzení, že Olaf Scholz je německým kancléřem, přestože tuto pozici měsíc předtím převzal Friedrich Merz. Jiný případ zahrnoval označení Jense Stoltenberga za generálního tajemníka NATO poté, co ho již nahradil Mark Rutte.
+Výsledky jsou znepokojivé zejména proto, že problémy se objevovaly konzistentně bez ohledu na jazyk nebo geografickou oblast. Studie tak vyvrací představu, že jde o izolované incidenty nebo problémy specifické pro určité jazykové mutace.
 
-Studie se zaměřila na čtyři nejpoužívanější AI asistenty - ChatGPT od OpenAI, Microsoft Copilot, Google Gemini a Perplexity AI. Všechny tyto nástroje se stávají stále populárnějšími způsoby, jak lidé přistupují k informacím a zpravodajství. Podle Digital News Report 2025 od Reuters Institute využívá AI chatboty k získávání zpráv 7 % online čtenářů, přičemž u mladších uživatelů do 25 let tento podíl stoupá na 15 %.
+Konkrétní příklady chyb z testování DW zahrnují označení Olafa Scholze za německého kancléře měsíc poté, co byl kancléřem jmenován Friedrich Merz. Jiný případ uvedl Jense Stoltenberga jako generálního tajemníka NATO i po nástupu Marka Rutteho do této funkce. Tyto chyby ukazují na zásadní problém s aktuálností informací, které AI modely poskytují.
 
-Autoři studie zdůrazňují, že zjištění potvrzují systematické zkreslování zpravodajského obsahu všeho druhu ze strany AI asistentů. Nejde tedy o izolované incidenty, ale o strukturální problém těchto technologií.
+Problémy se zdrojováním se projevovaly v téměř třetině případů, což znamená, že AI asistenti buď neuváděli zdroje vůbec, odkazovali na neexistující nebo nesprávné zdroje, nebo nedokázali rozlišit důvěryhodné zdroje od nedůvěryhodných.
+
+Studie přichází v době, kdy se AI chatboti stávají stále populárnějším způsobem přístupu k informacím, zejména mezi mladšími uživateli. Každý sedmý uživatel mladší 25 let již využívá AI asistenty jako zdroj zpravodajství, což činí zjištění studie ještě relevantnějšími.
 
 ## Proč je to důležité
 
-Studie přichází v době, kdy AI chatboti získávají stále větší podíl na zprostředkování informací, zejména mezi mladšími uživateli. Zjištění, že téměř polovina odpovědí obsahuje významné problémy, vyvolává vážné otázky ohledně spolehlivosti těchto nástrojů jako zdrojů zpravodajství.
+Tato studie představuje první rozsáhlý systematický výzkum spolehlivosti AI chatbotů při zprostředkování zpravodajského obsahu. Zapojení 22 renomovaných veřejnoprávních médií z různých zemí dává výsledkům značnou váhu a důvěryhodnost.
 
-Problémy s přesností a uvádění zdrojů jsou obzvláště znepokojivé v kontextu dezinformací a důvěry v média. Pokud AI asistenti nedokáží správně rozlišit fakta od názorů nebo aktuální informace od zastaralých, mohou přispívat k šíření nepřesných informací ve velkém měřítku.
+Zjištění mají zásadní dopady pro rostoucí počet lidí, kteří se spoléhají na AI asistenty jako na zdroj informací o aktuálním dění. Míra chybovosti 45 % je alarmující zejména v kontextu dezinformací a potřeby spolehlivých zpravodajských zdrojů.
 
-Pro technologické společnosti vyvíjející tyto nástroje představuje studie výzvu k zásadnímu zlepšení spolehlivosti při zpracování zpravodajského obsahu. Pro uživatele je to varování, že AI chatboty nelze považovat za důvěryhodný primární zdroj aktuálních informací a je nutné ověřovat údaje z více zdrojů.
+Pro vývojáře velkých jazykových modelů jako OpenAI, Microsoft, Google a Perplexity AI představuje studie výzvu k zásadnímu zlepšení přesnosti a spolehlivosti jejich systémů při práci se zpravodajským obsahem. Ukazuje také limity současných AI technologií v oblasti, kde je faktická přesnost a aktuálnost informací kritická.
+
+Výsledky by měly vést k opatrnějšímu přístupu uživatelů k informacím z AI chatbotů a k nutnosti ověřování údajů z primárních zdrojů, zejména u aktuálního zpravodajství a politických událostí.
 
 ---
 

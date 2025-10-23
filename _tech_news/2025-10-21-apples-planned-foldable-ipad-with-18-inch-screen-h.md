@@ -15,17 +15,15 @@ source:
   emoji: 💹
   id: bloomberg
   name: Bloomberg
-title: Plánovaný skládací iPad s 18palcovým displejem naráží na vývojové problémy
+title: Vývoj skládacího iPadu s 18palcovým displejem naráží na problémy
 url: https://www.bloomberg.com/news/articles/2025-10-21/apple-s-planned-foldable-ipad-with-18-inch-screen-hits-development-snags
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVG5oGihUjA/v0/1200x800.jpg
 urlToImageBackup: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVG5oGihUjA/v0/1200x800.jpg
 ---
 
-Apple podle zdrojů Bloombergu narazil na vývojové komplikace při práci na skládacím iPadu s 18palcovým displejem. Projekt, který měl představovat zásadní reinvenci produktové řady iPad, se potýká s technickými problémy, které mohou posunout původně plánované datum uvedení na trh.
+Apple podle zdrojů Bloombergu narazil na vývojové problémy při práci na skládacím iPadu s 18palcovým displejem. Projekt, který měl představovat zásadní redesign produktové řady iPad, se potýká s technickými výzvami, které mohou posunout původně plánované datum uvedení na trh.
 
-Jedná se o spekulativní informace založené na nepotvrzených zdrojích. Konkrétní povaha technických problémů ani původní termín plánovaného uvedení nejsou známy. Apple se k projektu oficiálně nevyjádřil, což je u vývojových produktů standardní postup.
-
-Skládací zařízení s velkým displejem by teoreticky mohlo konkurovat notebookům a nabídnout uživatelům větší pracovní plochu při zachování přenosnosti. Technologie skládacích displejů však zůstává náročná na výrobu a spolehlivost, jak ukazují zkušenosti konkurence se skládacími telefony.
+Jde o spekulativní informaci založenou na nepotvrzených zdrojích. Konkrétní povaha technických problémů ani původní termín uvedení produktu nejsou známy. Apple se k těmto informacím tradičně nevyjadřuje a oficiálně žádný skládací iPad neoznámil. Zpráva zapadá do širšího kontextu experimentů technologických firem se skládacími displeji, kde již své produkty nabízejí Samsung, Huawei či Motorola.
 
 ---
 

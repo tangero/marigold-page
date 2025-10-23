@@ -24,16 +24,25 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/10/On
 
 ## Shrnutí
 
-Před čínským uvedením telefonu OnePlus 15 se objevily neoficiální informace o ceně v Británii. Podle leakera by měla varianta s 512GB úložištěm stát 949 liber, což je o 50 liber méně než u loňského modelu OnePlus 13. Jde však o nepotvrzené spekulace.
+Před oficiálním uvedením telefonu OnePlus 15 v Číně unikly informace o jeho ceně na britském trhu. Podle leakera Arsene Lupina by měla varianta s 16GB RAM a 512GB úložištěm stát 949 liber (přibližně 28 500 Kč), což je o 50 liber méně než u loňského modelu OnePlus 13. Jde však o nepotvrzené spekulace.
 
-## Klíčové informace
+## Klíčové body
 
-- Varianta 16GB RAM/512GB úložiště má stát 949 liber (asi 27 500 Kč) v Británii
-- Oproti OnePlus 13 by šlo o pokles o 50 liber
-- Cena základní 256GB varianty nebyla prozrazena
-- OnePlus 15 nabídne čipset Snapdragon 8 Elite Gen 5, baterii 7 300 mAh s 120W drátovým a 50W bezdrátovým nabíjením a 165Hz OLED displej
+- Varianta 16GB/512GB má stát 949 liber v Británii
+- Oproti OnePlus 13 (999 liber) jde o úsporu 50 liber
+- Základní model s 256GB by mohl stát 849 liber (pokud bude slevu aplikována stejně)
+- Potvrzené specifikace zahrnují Snapdragon 8 Elite Gen 5, baterii 7 300 mAh a 165Hz OLED displej
+- Oficiální uvedení se očekává příští týden v Číně
 
-Informace pochází od twitterového tipéra Arsene Lupin, který zveřejnil pouze cenu jedné varianty. Pokud by se stejné snížení vztahovalo i na základní model, ten by mohl začínat na 849 librách místo současných 899 liber u OnePlus 13. Oficiální potvrzení od výrobce zatím chybí, čínské uvedení je plánováno na příští týden.
+## Podrobnosti
+
+Informace pochází od Twitter tipsteru Arsene Lupina, který zveřejnil cenu pouze pro nejvyšší variantu s 512GB úložištěm. Pro srovnání, loňský OnePlus 13 startoval v Británii na 899 librách za základní model s 256GB a 999 librách za verzi s 512GB. Pokud by OnePlus aplikoval stejnou slevu 50 liber napříč celou řadou, základní model by mohl začínat na 849 librách.
+
+Společnost OnePlus již potvrdila některé specifikace nadcházejícího telefonu. Zařízení bude osazeno nejnovějším čipsetem Snapdragon 8 Elite Gen 5, což je vlajková loď Qualcommu pro rok 2025. Výrazným vylepšením je baterie s kapacitou 7 300 mAh, která podporuje 120W drátové a 50W bezdrátové nabíjení. Displej nabídne obnovovací frekvenci 165 Hz na OLED panelu.
+
+## Proč je to důležité
+
+Jde o nepotvrzené informace od leakera, nikoli oficiální oznámení výrobce. Takové úniky bývají často nepřesné nebo se týkají pouze vybraných trhů. Mírné snížení ceny by mohlo OnePlus pomoci v konkurenci s vlajkovými loděmi od Googlu a Samsungu, které v posledních letech výrazně zdražily. Skutečná cena a dostupnost budou známy až po oficiálním uvedení v Číně příští týden.
 
 ---
 

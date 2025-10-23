@@ -2,14 +2,14 @@
 category: mobilní telefony
 companies:
 - Google
-date: '2025-10-21 20:47:37'
+date: '2025-10-21 20:54:40'
 description: Google pracuje na nové funkci pro Always-on Display, která automaticky
   vypne obrazovku při neaktivitě a pomůže tak prodloužit výdrž baterie telefonů Pixel.
 importance: 3
 layout: tech_news_article
 original_title: Pixel phones will get a smarter always-on display that saves battery
   life - Android Authority
-publishedAt: '2025-10-21T20:47:37+00:00'
+publishedAt: '2025-10-21T20:54:40+00:00'
 slug: pixel-phones-will-get-a-smarter-always-on-display-
 source:
   emoji: 📰
@@ -23,27 +23,31 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/08/Go
 
 ## Souhrn
 
-Google vyvíjí novou funkci pro telefony Pixel, která umožní inteligentnější správu stále zapnutého displeje (Always-on Display). Nové nastavení automaticky vypne obrazovku při detekci neaktivity uživatele, čímž výrazně sníží spotřebu energie. Funkce zatím není aktivní a není jasné, jak přesně bude Android určovat, kdy je telefon neaktivní.
+Google vyvíjí novou funkci pro telefony Pixel, která inteligentně řídí Always-on Display (AOD) a automaticky vypíná obrazovku při detekci neaktivity uživatele. Kód objevený v nejnovějším Android Canary buildu naznačuje, že uživatelé Pixelů brzy získají lepší kontrolu nad touto funkcí, která dosud nabízela pouze možnost úplného zapnutí nebo vypnutí.
 
 ## Klíčové body
 
-- Google přidává do telefonů Pixel nové nastavení pro Always-on Display s názvem "Turn off display on inactivity"
-- Funkce automaticky vypne displej, když nezjistí žádnou aktivitu uživatele, čímž šetří baterii
-- Kód nové funkce byl objeven v nejnovějším Android Canary buildu
-- Na rozdíl od konkurenčních Android telefonů Pixel aktuálně nenabízí žádné pokročilé ovládání AOD - displej je buď zapnutý, nebo vypnutý
-- Není zatím známo, jaké konkrétní parametry bude Android používat k detekci neaktivity
+- Google přidává do nastavení Pixelů novou volbu "Turn off display on inactivity", která automaticky vypne displej při neaktivitě
+- Funkce má pomoci šetřit baterii při zachování výhod Always-on Display
+- Kód byl objeven v Android Canary buildu vydaném v říjnu 2025
+- Zatím není jasné, jak přesně bude Android určovat neaktivitu telefonu
+- Pixel telefony dosud nabízely pouze základní zapnutí/vypnutí AOD, na rozdíl od konkurenčních zařízení s pokročilejšími možnostmi plánování
 
 ## Podrobnosti
 
-Funkce Always-on Display umožňuje zobrazovat čas a notifikace na zamčené obrazovce bez nutnosti telefon probouzet. Tato praktická funkce má však jeden zásadní nedostatek - neustále svítící displej spotřebovává baterii. Zatímco většina Android telefonů nabízí různé možnosti správy AOD, včetně časového plánování, telefony Pixel dosud poskytovaly pouze binární volbu - displej buď svítí neustále, nebo je zcela vypnutý.
+Always-on Display je funkce, která zobrazuje čas a notifikace na zamčené obrazovce bez nutnosti telefon probouzet. Zatímco většina Android telefonů tuto funkci nabízí, její implementace se mezi výrobci liší. Některé telefony umožňují plánovat, kdy má být AOD aktivní, což pomáhá vyvážit pohodlí s výdrží baterie.
 
-Analýza kódu v aplikaci Nastavení odhalila dva nové řetězce, které potvrzují příchod této funkce. Technicky se jedná o rozšíření režimu "doze", což je označení pro nízkoenergetický stav zařízení v Androidu. Nové nastavení ponese název "Turn off display on inactivity" s popisem "Powers down the display when no user activity is detected to save power".
+Telefony Pixel však dosud nabízely pouze binární volbu - AOD buď běží nepřetržitě během dne, nebo je zcela vypnutý. To znamenalo, že uživatelé museli volit mezi pohodlím okamžitého přehledu o čase a notifikacích a úsporou energie.
 
-Zásadní otázkou zůstává, jak přesně bude systém detekovat neaktivitu uživatele. Android telefony disponují řadou senzorů - od akcelerometru přes gyroskop až po proximity senzor. Je pravděpodobné, že Google využije kombinaci těchto senzorů k určení, zda je telefon například v kapse, v tašce, nebo leží na stole bez pohybu. Mohlo by se také jednat o detekci přítomnosti uživatele pomocí proximity senzoru nebo dokonce využití kontextových informací o poloze a denní době.
+Analýza kódu v aplikaci Nastavení odhalila nové textové řetězce s názvy "doze_always_on_inactivity_detection_title" a související popis funkce. Termín "doze" v Androidu obvykle odkazuje na režim nízké spotřeby energie, který systém aktivuje, když zařízení delší dobu leží nehybně.
+
+Nová funkce by měla automaticky detekovat, kdy uživatel telefon nepoužívá, a v takových chvílích displej vypnout. Přesný mechanismus detekce neaktivity zatím není znám - může využívat kombinaci senzorů pohybu, proximity senzoru nebo vzorců používání telefonu.
 
 ## Proč je to důležité
 
-Tato funkce představuje dlouho očekávané vylepšení pro uživatele telefonů Pixel, kteří museli volit mezi pohodlím okamžitého přehledu o notifikacích a výdrží baterie. Zatímco konkurenční výrobci jako Samsung nebo OnePlus nabízejí pokročilé možnosti správy AOD již delší dobu, Google zůstával v tomto ohledu pozadu. Nová funkce by měla přinést kompromis - uživatelé získají výhody Always-on Display bez nutnosti obětovat výdrž baterie v situacích, kdy displej stejně nikdo nesleduje. Jde o praktický příklad toho, jak může software vylepšit uživatelský zážitek bez nutnosti hardwarových změn.
+Výdrž baterie zůstává jedním z klíčových faktorů při používání smartphonů. Always-on Display, přestože je užitečné, patří mezi funkce s měřitelným dopadem na spotřebu energie. Inteligentní řízení této funkce představuje kompromis mezi pohodlím a efektivitou.
+
+Google tímto krokem dohání konkurenci, která podobné možnosti nabízí již delší dobu. Funkce zatím není aktivní ani v testovacích verzích systému, takže její uvedení do ostrého provozu může trvat několik měsíců. Pravděpodobně se objeví nejprve v beta verzích Androidu a následně se rozšíří na všechny podporované modely Pixel.
 
 ---
 

@@ -24,7 +24,7 @@ urlToImage: https://www.windowslatest.com/wp-content/uploads/2025/10/Windows-11-
 urlToImageBackup: https://www.windowslatest.com/wp-content/uploads/2025/10/Windows-11-AI-native-OS.jpg
 ---
 
-Copilot je téměř všude ve Windows 11. Nachází se v kontextové nabídce, uvnitř aplikací jako Paint, Poznámkový blok a dokonce i Word nebo PowerPoint. Přichází také do hlavního panelu, ale to Microsoftu nestačí pro jeho novou vizi. Microsoft právě potvrdil, že chce pře...
+Copilot je téměř všude ve Windows 11. Je v kontextovém menu, uvnitř aplikací jako Paint, Poznámkový blok a dokonce i Word nebo PowerPoint. Přichází také do hlavního panelu, ale to Microsoftu nestačí pro jeho novou vizi. Microsoft právě potvrdil, že chce...
 
 ---
 

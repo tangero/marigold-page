@@ -6,7 +6,7 @@ companies:
 - 8BitDo
 date: '2025-10-21 19:40:53'
 description: Specializovaná sluchátka pro spánek Anker Soundcore Sleep A30 s aktivním
-  potlačením hluku jsou nyní k dispozici za 194 dolarů, což představuje slevu 36 dolarů
+  potlačením hluku jsou nyní dostupná za 194 dolarů, což představuje slevu 36 dolarů
   oproti běžné ceně.
 importance: 3
 layout: tech_news_article
@@ -26,27 +26,29 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Anker Soundcore Sleep A30, specializovaná sluchátka určená pro spaní s aktivním potlačením hluku, jsou aktuálně v prodeji za 193,99 dolaru u prodejců Amazon, Walmart a Best Buy. Sleva 36 dolarů z původní ceny 230 dolarů představuje téměř stejnou nabídku jako během nedávného Prime Day.
+Anker Soundcore Sleep A30, specializovaná sluchátka určená pro nošení během spánku, jsou aktuálně v prodeji za 194 dolarů u prodejců Amazon, Walmart a Best Buy. Sleva 36 dolarů z původní ceny 230 dolarů představuje téměř stejnou nabídku jako během nedávného Prime Day.
 
 ## Klíčové body
 
-- Cena klesla na 193,99 dolaru, což je sleva 16 % z běžné ceny 230 dolarů
-- Sluchátka nabízejí aktivní potlačení hluku (ANC) s adaptivním maskovacím systémem
-- Nabíjecí pouzdro analyzuje okolní zvuky a sluchátka optimalizují ANC pro blokování konkrétních ruchů
-- Kompaktnější a pohodlnější design než předchozí generace, vhodný i pro spaní na boku
-- Výdrž baterie postačuje na celou noc při přehrávání bílého šumu
+- Cena snížena na 194 dolarů (sleva 36 dolarů z původních 230 dolarů)
+- Aktivní potlačení hluku s adaptivním systémem maskování zvuků
+- Nabíjecí pouzdro analyzuje okolní zvuky a optimalizuje ANC v reálném čase
+- Kompaktnější design než předchozí generace, vhodný pro spaní na boku
+- Aplikace obsahuje kurátorované zvuky pro spánek a sledování kvality spánku
 
 ## Podrobnosti
 
-Soundcore Sleep A30 představují pokročilou kategorii sluchátek specificky navržených pro použití během spánku. Na rozdíl od běžných sluchátek mají ultra-nízký profil, který umožňuje pohodlné nošení po celou noc, včetně pozice na boku. Klíčovou technologií je adaptivní maskovací systém - nabíjecí pouzdro monitoruje a analyzuje okolní zvuky v prostředí, zatímco sluchátka následně optimalizují aktivní potlačení hluku pro eliminaci specifických ruchů jako chrápání, dopravní hluk nebo bzučení spotřebičů.
+Soundcore Sleep A30 představují pokročilou kategorii sluchátek navržených specificky pro použití během spánku. Na rozdíl od běžných sluchátek mají ultra-nízký profil, který umožňuje pohodlné nošení celou noc, včetně pro osoby spící na boku.
 
-Podle recenze zástupce šéfredaktora Thomase Rickera funkce efektivně potlačuje chrápání a další nízkofrekvenční zvuky. Sluchátka jsou dodávána se silikonovými i pěnovými koncovkami v různých velikostech pro optimální přizpůsobení. Součástí balení je také aplikace s kurátorovanými zvuky pro spaní a sledováním kvality spánku, která uživatelům poskytuje přehled o tom, jak dobře spali. Baterie vydrží celou noc při přehrávání bílého šumu uloženého lokálně ve sluchátkách.
+Klíčovou technologií je adaptivní systém maskování zvuků. Nabíjecí pouzdro kontinuálně monitoruje a analyzuje okolní zvuky v prostředí, zatímco sluchátka na základě těchto dat optimalizují aktivní potlačení hluku. Systém je navržen k eliminaci rušivých zvuků jako chrápání, dopravní hluk nebo bzučení spotřebičů. Podle recenze zástupce šéfredaktora Thomase Rickera funkce účinně potlačuje chrápání a další nízkofrekvenční zvuky.
 
-Kompaktnější design oproti předchozí generaci činí A30 vhodnějšími zejména pro osoby spící na boku, kde tradiční sluchátka mohou způsobovat nepohodlí při tlaku na polštář.
+Sluchátka jsou dodávána se silikonovými i pěnovými koncovkami v různých velikostech pro optimální přizpůsobení. Doprovodná aplikace nabízí knihovnu zvuků pro usínání a funkci sledování spánku, která poskytuje přehled o kvalitě odpočinku. Sluchátka dokáží přehrávat bílý šum uložený lokálně po celou noc bez nutnosti připojení k telefonu, což šetří baterii obou zařízení.
+
+Výdrž baterie je dostatečná pro celonočního použití při přehrávání bílého šumu. Kompaktnější design oproti předchozí generaci Sleep A10 zlepšuje komfort zejména pro osoby, které spí na boku.
 
 ## Proč je to důležité
 
-Trh se specializovanými zařízeními pro zlepšení spánku roste s rostoucím povědomím o důležitosti kvalitního odpočinku. Soundcore Sleep A30 představují pokročilé řešení pro osoby citlivé na hluk, které potřebují ticho pro usnutí. Sleva 16 % činí tuto technologii dostupnější širšímu okruhu uživatelů před nástupem svátečního období. Kombinace aktivního potlačení hluku s adaptivním systémem a sledováním spánku ukazuje směr, kterým se ubírá kategorie nositelné technologie zaměřené na wellness a zdraví.
+Specializovaná sluchátka pro spánek představují rostoucí kategorii produktů zaměřených na kvalitu odpočinku. Soundcore Sleep A30 kombinují několik technologií - aktivní potlačení hluku, adaptivní maskování a sledování spánku - do kompaktního formátu použitelného celou noc. Pro osoby citlivé na hluk nebo žijící v hlučném prostředí mohou představovat efektivní řešení bez nutnosti používat nepohodlné chrániče sluchu nebo spoléhat se pouze na pasivní izolaci.
 
 ---
 
