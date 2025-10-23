@@ -23,11 +23,11 @@ urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Podle jihokorejského deníku Hankyung plánuje Samsung u celé řady Galaxy S26 nasadit vlastní čipy Exynos 2600, což by znamenalo významnou změnu strategie. Model Ultra používá od roku 2022 výhradně čipy Snapdragon od Qualcommu.
+Podle jihokorejského zdroje Hankyung má Samsung u celé řady Galaxy S26 nasadit vlastní čip Exynos 2600, což by znamenalo významnou změnu strategie. Model Ultra používá od roku 2022 výhradně čipy Snapdragon od Qualcommu.
 
-Exynos 2600 má být vyráběn 2nm procesem a podle úniku informací nabídne výkon CPU mírně převyšující Apple A19 Pro, GPU až o 75 % výkonnější než u Applu a NPU pro AI úlohy až 6× rychlejší. Oproti Snapdragonu 8 Elite Gen 5 má být Exynos rychlejší v GPU i NPU přibližně o 30 %.
+Exynos 2600 vyráběný 2nm procesem má údajně nabídnout mírně vyšší výkon CPU než Apple A19 Pro, GPU až o 75 % rychlejší a NPU pro AI úlohy šestkrát výkonnější. Oproti Snapdragonu 8 Elite Gen 5 má být rychlejší v GPU i NPU přibližně o 30 %. 
 
-Severní Amerika však pravděpodobně dostane verze se Snapdragonem kvůli regulačním požadavkům. Podobně mají být na Snapdragonu závislé i trhy v Japonsku a Číně. Jde zatím o nepotvrzené informace, které je třeba brát s rezervou.
+Pro severoamerický trh však Samsung pravděpodobně zachová Snapdragon kvůli regulačním schvalovacím procesům. Podobně mají být čipy Qualcommu použity v Japonsku a Číně. Jedná se zatím o nepotvrzené informace ze zdrojů blízkých dodavatelskému řetězci.
 
 ---
 
