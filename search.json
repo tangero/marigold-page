@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Je po vrcholu: proč generativní AI ztrácí dech?",
+      "url"      : "/item/proc-generativni-ai-ztraci-dech/",
+      "category" : "AI, generativní AI",
+      "tags"     : "",
+      "date"     : "23.10.2025",
+      "content"  : "Ještě před dvěma lety se zdálo, že generativní umělá inteligence změní všechno – software, média, vzdělávání i samotné fungování práce. Dnes už se zdá, že spíš změnila očekávání než realitu. Po explozi investic a pozornosti přichází první útlum, který není náhodný. Hype fáze se vyčerpala a technologie naráží na své přirozené limity.Asi tak by se daly shrnout výsledky z poslední doby, tedy čísla v jednotlivých segmentech AI trhu. Doporučuji projít si třeba Global AI Tracker. Nejprve si probereme signály, pak se detailněji podíváme na případ vibe codingu.1. Od fascinace k únavěZájem o generativní nástroje, od kódovacích asistentů po ChatGPT, se..."
+    },
+  
+    {
       "title"    : "OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá",
       "url"      : "/item/openai-prohlizec-atlas/",
       "category" : "AI, OpenAI, ChatGPT, Prohlížeče",
@@ -26565,7 +26574,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá (21.10.2025) Anthropic spustil Claude Code na webu (21.10.2025) Claude Skills: Nová cesta k specializovaným schopnostem AI (17.10.2025) Anthropic představil levný a rychlý model Claude Haiku 4.5 (15.10.2025) OpenAI představil aplikace uvnitř..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Je po vrcholu: proč generativní AI ztrácí dech? (23.10.2025) OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá (21.10.2025) Anthropic spustil Claude Code na webu (21.10.2025) Claude Skills: Nová cesta k specializovaným schopnostem AI (17.10.2025) Anthropic představil levný a rychlý..."
     }
     
   
@@ -26753,6 +26762,15 @@
   
     
     ,{
+      "title"    : "Technologické zprávy - 2025-10-22",
+      "url"      : "/tech-news/2025-10-22/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
       "title"    : "Technologické zprávy - 2025-10-15",
       "url"      : "/tech-news/2025-10-15/",
       "category" : "stránka",
@@ -26855,7 +26873,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 244 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 245 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -43111,6 +43129,13 @@
       }
       
       ,{
+        "title"    : "Microsoft tvrdí, že to myslí vážně s přeměnou Windows 11 na &quot;AI-native&quot; operační systém",
+        "url"      : "/tech-news/microsoft-says-its-serious-about-turning-windows-1/",
+        "category" : "tech_news",
+        "content"  : "Copilot je téměř všude ve Windows 11. Nachází se v kontextové nabídce, uvnitř aplikací jako Paint, Poznámkový blok a dokonce i Word nebo PowerPoint. Přichází také do hlavního panelu, ale to Microsoftu nestačí pro jeho novou vizi. Microsoft právě potvrdil, že chce pře…Číst původní článekZdroj: 📰 WindowsLatest"
+      }
+      
+      ,{
         "title"    : "Sen o Samsung Galaxy S26 je u konce (a proč byste měli být naštvaní)",
         "url"      : "/tech-news/the-samsung-galaxy-s26-dream-is-already-dead-and-w/",
         "category" : "tech_news",
@@ -43132,10 +43157,17 @@
       }
       
       ,{
-        "title"    : "AMD údajně připravuje Ryzen 9 9950X3D2 s duálními X3D čipy a 192 MB cache",
+        "title"    : "YouTuber postavil kameru snímající světlo rychlostí 2 miliardy snímků za sekundu",
+        "url"      : "/tech-news/video-youtuber-builds-camera-capturing-light-at-2/",
+        "category" : "tech_news",
+        "content"  : "SouhrnYouTuber vystupující pod jménem AlphaPhoenix (vlastním jménem Haidet) postavil ve své garáži vysokorychlostní kameru dosahující rychlosti 2 miliardy snímků za sekundu. Zařízení dokáže zachytit pohyb světla a laserových paprsků v extrémním zpomalení, což umožňuje vizualizovat jevy, které jsou běžným okem nepostřehnutelné.Klíčové body Kamera dosahuje rychlosti 2 miliardy snímků za sekundu (2 Gfps) Zařízení bylo postaveno v domácí garáži s využitím dostupných komponent Kamera dokáže zachytit pohyb světla a laserových paprsků v extrémním zpomalení Projekt demonstruje, že pokročilé vědecké experimenty jsou možné i mimo profesionální laboratoře Video dokumentující projekt bylo zveřejněno na YouTube kanálu AlphaPhoenixPodrobnostiVysokorychlostní kamery představují specializovanou kategorii zobrazovacích zařízení..."
+      }
+      
+      ,{
+        "title"    : "AMD údajně připravuje Ryzen 9 9950X3D2 s duální 3D V-Cache a 192 MB paměti",
         "url"      : "/tech-news/amd-ryzen-9-9950x3d2-cpu-to-feature-dual-x3d-ccds/",
         "category" : "tech_news",
-        "content"  : "ShrnutíNa internetu se objevily nepotvrzené informace o připravovaných procesorech AMD Ryzen 9 9950X3D2 a Ryzen 7 9805X3D. Model 9950X3D2 by měl disponovat duálními čipy s technologií 3D V-Cache a celkovou cache pamětí až 192 MB, zatímco Ryzen 7 9805X3D má nabídnout zvýšené taktovací frekvence až 5,6 GHz. Jedná se však o neoficiální úniky bez potvrzení ze strany AMD.Důvod nižšího hodnocení: Článek je založen na nepotvrzených únicích a spekulacích. Chybí oficiální potvrzení od AMD, konkrétní technické specifikace nebo ověřitelné zdroje informací. Jedná se o typický příklad předčasného zveřejnění informací, které mohou být nepřesné nebo zcela nepravdivé.Číst původní článekZdroj: 📰 Wccftech"
+        "content"  : "ShrnutíNa internetu se objevily nepotvrzené informace o chystaných procesorech AMD Ryzen 9 9950X3D2 a Ryzen 7 9805X3D. Podle úniku má špičkový model disponovat duální konfigurací 3D V-Cache technologie na obou výpočetních chipech (CCD) s celkovou kapacitou až 192 MB cache paměti. Jde však o spekulace založené na únicích, nikoli oficiální oznámení.Údajné specifikace Ryzen 9 9950X3D2: Model by měl obsahovat dva CCD chipy, přičemž oba budou vybaveny vrstvou 3D V-Cache paměti. Současný Ryzen 9 9950X3D má 3D V-Cache pouze na jednom z chipů, což vytváří asymetrickou konfiguraci. Nová verze s označením “X3D2” by mohla tento problém vyřešit symetrickou implementací, což by..."
       }
       
       ,{
@@ -43146,10 +43178,10 @@
       }
       
       ,{
-        "title"    : "Samsung uzavřel partnerství s Perplexity pro AI v televizích",
+        "title"    : "Samsung uzavřel dohodu s Perplexity o integraci AI do televizorů",
         "url"      : "/tech-news/exclusive-samsung-inks-perplexity-deal-to-bring-ai/",
         "category" : "tech_news",
-        "content"  : "SouhrnSamsung uzavřel exkluzivní partnerství s AI startupem Perplexity, které přinese konverzační umělou inteligenci do chytrých televizí. Uživatelé budou moci pomocí hlasových příkazů nebo dálkového ovladače pokládat otázky a získávat odpovědi přímo na obrazovce televize.Klíčové body Samsung integruje Perplexity AI do svých chytrých televizí jako první velký výrobce Perplexity je AI vyhledávač, který kombinuje tradiční vyhledávání s generativní AI pro poskytování odpovědí v konverzačním stylu Integrace umožní uživatelům klást otázky pomocí hlasu nebo dálkového ovladače Jde o další krok v expanzi AI asistentů z mobilních zařízení do domácností Partnerství představuje konkurenci tradičním hlasovým asistentům jako Alexa nebo Google AssistantPodrobnostiPerplexity AI je..."
+        "content"  : "SouhrnSamsung uzavřel exkluzivní partnerství s AI vyhledávačem Perplexity, které přinese konverzační umělou inteligenci přímo do televizorů. Jde o první významnou integraci AI chatbota do televizní platformy, která má změnit způsob, jakým uživatelé vyhledávají obsah a interagují se svými televizory.Klíčové body Samsung integruje Perplexity AI přímo do svých chytrých televizorů Perplexity je AI vyhledávač, který kombinuje konverzační rozhraní s vyhledáváním informací v reálném čase a poskytuje odpovědi s citacemi zdrojů Partnerství představuje první velkou integraci AI chatbota do televizní platformy Uživatelé budou moci klást otázky a vyhledávat informace přímo z televizoru pomocí přirozeného jazyka Dohoda je součástí širšího trendu integrace AI..."
       }
       
       ,{
@@ -43163,7 +43195,7 @@
         "title"    : "Microsoft vydal nouzovou aktualizaci Windows 11 kvůli chybě v obnovovacím prostředí",
         "url"      : "/tech-news/microsofts-emergency-windows-11-update-fixes-a-nas/",
         "category" : "tech_news",
-        "content"  : "SouhrnMicrosoft vydal mimořádnou opravu pro Windows 11, která řeší závažnou chybu v obnovovacím prostředí systému. Původní aktualizace z 14. října nechtěně znemožnila používat USB myš a klávesnici v prostředí Windows Recovery Environment (WinRE), což uživatelům zabránilo v obnovení nebo továrním resetu jejich počítačů.Klíčové body Aktualizace KB5070773 byla vydána méně než týden po objevení problému Chyba postihla verze Windows 11 24H2 a 25H2 Nefunkční obnovovací prostředí představovalo kritický problém pro uživatele s potížemi se systémem Jde o druhou mimořádnou opravu Windows 11 v letošním roce Microsoft obvykle vydává mimořádné aktualizace pouze při urgentních bezpečnostních problémechPodrobnostiWindows Recovery Environment je kritická součást operačního..."
+        "content"  : "SouhrnMicrosoft vydal mimořádnou opravu pro Windows 11, která řeší závažnou chybu v obnovovacím prostředí systému (Windows Recovery Environment, WinRE). Problém způsobila pravidelná měsíční aktualizace z 14. října 2025, po které přestaly v obnovovacím režimu fungovat USB myši a klávesnice. Oprava byla vydána během necelého týdne, což je pro Microsoft neobvykle rychlá reakce.Klíčové body Aktualizace KB5070773 opravuje nefunkční USB myši a klávesnice v obnovovacím prostředí Windows 11 Chybu způsobila pravidelná měsíční aktualizace vydaná 14. října 2025 Oprava je dostupná pro verze Windows 11 24H2 a 25H2 Microsoft vydává mimořádné aktualizace mimo pravidelný cyklus jen výjimečně Podobný problém s obnovovacím prostředím Microsoft..."
       }
       
       ,{
@@ -43177,7 +43209,7 @@
         "title"    : "TARmageddon: Kritická bezpečnostní chyba v populární Rust knihovně umožňuje vzdálené spuštění kódu",
         "url"      : "/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/",
         "category" : "tech_news",
-        "content"  : "SouhrnBezpečnostní firma Edera zveřejnila kritickou zranitelnost s označením CVE-2025-62518, známou jako TARmageddon, která postihuje populární knihovnu async-tar pro programovací jazyk Rust a její odnože včetně tokio-tar. Chyba umožňuje útočníkům vzdálené spuštění kódu prostřednictvím přepsání souborů, což představuje vážné bezpečnostní riziko pro projekty jako správce balíčků uv pro Python a další nástroje využívající tyto knihovny.Klíčové body Zranitelnost TARmageddon (CVE-2025-62518) postihuje knihovnu async-tar a její odnože jako tokio-tar, které slouží ke zpracování TAR archivů v asynchronním Rust kódu Chyba je klasifikována jako vysoká závažnost a umožňuje vzdálené spuštění kódu (RCE) prostřednictvím útoků přepisujících soubory Problém se týká kritické chyby při parsování hranic..."
+        "content"  : "SouhrnBezpečnostní výzkumníci ze společnosti Edera odhalili kritickou zranitelnost s označením CVE-2025-62518, nazvanou TARmageddon, která postihuje populární Rust knihovnu async-tar a její odvozeniny včetně tokio-tar. Chyba v parsování hranic umožňuje útočníkům vzdálené spuštění kódu prostřednictvím přepisování souborů, což má dopad na řadu projektů včetně správce balíčků uv pro Python.Klíčové body Zranitelnost CVE-2025-62518 postihuje async-tar a její forky jako tokio-tar, které jsou používány v mnoha projektech Chyba je klasifikována jako vysoké závažnosti a umožňuje vzdálené spuštění kódu (RCE) přes útoky přepisováním souborů Problém se vyskytl navzdory tomu, že kód je napsán v Rustu, který je propagován pro své záruky paměťové bezpečnosti Knihovna..."
       }
       
       ,{
@@ -43230,10 +43262,17 @@
       }
       
       ,{
-        "title"    : "Vývoj skládacího iPadu s 18palcovým displejem naráží na problémy",
+        "title"    : "Plánovaný skládací iPad s 18palcovým displejem naráží na vývojové problémy",
         "url"      : "/tech-news/apples-planned-foldable-ipad-with-18-inch-screen-h/",
         "category" : "tech_news",
-        "content"  : "Apple podle zdrojů Bloombergu čelí vývojovým problémům u plánovaného skládacího iPadu s 18palcovým displejem, což může posunout jeho uvedení na trh z původně zamýšleného roku 2028 na rok 2029 nebo ještě později.Společnost na tomto zařízení pracuje již několik let s cílovou cenou kolem 3000 dolarů. Hlavní překážky se týkají hmotnosti zařízení, implementace funkcí a technologie displeje. Konkrétní povaha těchto technických výzev není blíže specifikována.Jde o spekulativní informaci založenou na neověřených zdrojích, nikoli o oficiální oznámení Apple. Společnost tradičně své vývojové plány nekomentuje a často mění priority projektů v rané fázi vývoje. Skládací displeje představují komplexní technologickou výzvu - kromě samotného..."
+        "content"  : "Apple podle zdrojů Bloombergu narazil na vývojové komplikace při práci na skládacím iPadu s 18palcovým displejem. Projekt, který měl představovat zásadní reinvenci produktové řady iPad, se potýká s technickými problémy, které mohou posunout původně plánované datum uvedení na trh.Jedná se o spekulativní informace založené na nepotvrzených zdrojích. Konkrétní povaha technických problémů ani původní termín plánovaného uvedení nejsou známy. Apple se k projektu oficiálně nevyjádřil, což je u vývojových produktů standardní postup.Skládací zařízení s velkým displejem by teoreticky mohlo konkurovat notebookům a nabídnout uživatelům větší pracovní plochu při zachování přenosnosti. Technologie skládacích displejů však zůstává náročná na výrobu a spolehlivost, jak..."
+      }
+      
+      ,{
+        "title"    : "Google Fi přidává AI potlačení šumu a RCS zprávy na webu",
+        "url"      : "/tech-news/google-fi-to-add-ai-enhanced-audio-and-rcs-web-mes/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle oznámil několik aktualizací pro svou telekomunikační službu Google Fi, která v USA konkuruje tradičním operátorům. Hlavní novinkou je AI-enhanced audio pro potlačení hluku na pozadí a zlepšení čistoty hlasu během hovorů, dále pak podpora RCS zpráv v prohlížeči a rozšíření automatického připojení k prémiové Wi-Fi na miliony lokalit včetně velkých letišť.Klíčové body AI-enhanced audio automaticky redukuje hluk na pozadí a zlepšuje čistotu hlasu i při hovoru s pevnou linkou nebo staršími telefony RCS podpora v prohlížeči umožní sdílení fotografií a videí ve vysokém rozlišení přímo z webového rozhraní Messages for web Wi-Fi Auto Connect+ se rozšiřuje na miliony míst..."
       }
       
       ,{
@@ -43254,7 +43293,14 @@
         "title"    : "iOS a macOS 26.1 přidá možnost snížit průhlednost rozhraní Liquid Glass",
         "url"      : "/tech-news/upcoming-ios-and-macos-261-update-will-let-you-fog/",
         "category" : "tech_news",
-        "content"  : "SouhrnApple v nadcházející aktualizaci iOS, iPadOS a macOS 26.1 přidává nový přepínač, který uživatelům umožní snížit průhlednost kontroverzního designu Liquid Glass. Nové nastavení nabídne volbu mezi výchozím čirým vzhledem a zamlženou variantou s vyšším kontrastem a neprůhledností. Jde o reakci na kritiku čitelnosti, kterou design Liquid Glass od svého uvedení sklízí.Klíčové body Aktualizace 26.1 přidává přepínač mezi režimy Clear (čirý) a Tinted (zamlžený) pro rozhraní Liquid Glass Režim Tinted zvyšuje neprůhlednost a kontrast při zachování lehké průhlednosti Apple nemění výchozí vzhled Liquid Glass, pouze přidává možnost volby Funkce se objeví napříč všemi operačními systémy Apple - iOS, iPadOS i macOS..."
+        "content"  : "SouhrnApple v nadcházející aktualizaci iOS, iPadOS a macOS 26.1 přidává nový přepínač, který uživatelům umožní upravit vzhled kontroverzního designu Liquid Glass. Nová volba mezi režimy Clear a Tinted reaguje na kritiku týkající se čitelnosti, aniž by Apple změnil výchozí nastavení svého nového designového jazyka.Klíčové body Aktualizace 26.1 přidává přepínač mezi Clear (průhledným) a Tinted (zamlženým) vzhledem rozhraní Liquid Glass Clear režim představuje výchozí průhledný design, Tinted zvyšuje neprůhlednost a kontrast Nová volba funguje jako mezistupeň mezi výchozím nastavením a stávající funkcí “snížit průhlednost” V macOS 26.1 se přepínač chová méně konzistentně než v iOS Apple nemění výchozí nastavení Liquid Glass,..."
+      }
+      
+      ,{
+        "title"    : "Claude Code Creator: Nástroj, který Anthropic nechtěl vytvořit, ale změnil vše",
+        "url"      : "/tech-news/claude-code-creator-we-didnt-mean-to-build-it-but/",
+        "category" : "tech_news",
+        "content"  : "SouhrnClaude Code, nástroj pro automatizované programování od společnosti Anthropic, je nyní dostupný přes webový prohlížeč, nejen přes profesionální vývojářské nástroje. Podle Borise Chernyho, vedoucího vývoje Claude Code, firma tento produkt původně vůbec nezamýšlela vytvořit – vznikl jako jeden z prototypů výzkumného týmu Labs, který měl zjistit, co všechno dokážou pokročilé AI modely.Klíčové body Claude Code je nyní přístupný přes webový prohlížeč na počítačích i telefonech pro předplatitele Pro (17 dolarů měsíčně) a Max (100 dolarů měsíčně) Nástroj dokáže opravovat chyby v kódu, aktualizovat soubory, provádět code review a vytvářet úkoly v nástrojích pro projektové řízení jako Asana Používají ho firmy..."
       }
       
       ,{
@@ -43265,10 +43311,24 @@
       }
       
       ,{
+        "title"    : "Jon Prosser poskytl aktualizaci k žalobě Apple kvůli únikům informací o iOS 26",
+        "url"      : "/tech-news/jon-prosser-provides-update-on-apple-lawsuit-over/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple v červenci podal žalobu proti známému leakerovi Jonu Prosserovi a Michaelu Ramacciottimu za údajnou krádež obchodních tajemství týkajících se iOS 26. Soud minulý týden vydal rozsudek pro zmeškání poté, co právníci Apple tvrdili, že Prosser nestihl termín pro odpověď na žalobu. Prosser nyní poprvé veřejně reagoval a tvrdí, že případ neignoruje.Klíčové body Apple žaluje Jona Prossera a Michaela Ramacciottiho za krádež obchodních tajemství souvisejících s iOS 26 Dvojice údajně naboural vývojářský iPhone bývalého zaměstnance Apple Ethana Lipnika Prosser zveřejnil informace o průsvitném designu iOS 26 nazvaném Liquid Glass měsíce před oficiálním oznámením na WWDC 2025 Soud vydal rozsudek pro..."
+      }
+      
+      ,{
         "title"    : "Anker Soundcore Sleep A30 se slevou téměř 40 dolarů",
         "url"      : "/tech-news/ankers-latest-noise-canceling-sleep-earbuds-are-ne/",
         "category" : "tech_news",
         "content"  : "SouhrnAnker Soundcore Sleep A30, specializovaná sluchátka určená pro spaní s aktivním potlačením hluku, jsou aktuálně v prodeji za 193,99 dolaru u prodejců Amazon, Walmart a Best Buy. Sleva 36 dolarů z původní ceny 230 dolarů představuje téměř stejnou nabídku jako během nedávného Prime Day.Klíčové body Cena klesla na 193,99 dolaru, což je sleva 16 % z běžné ceny 230 dolarů Sluchátka nabízejí aktivní potlačení hluku (ANC) s adaptivním maskovacím systémem Nabíjecí pouzdro analyzuje okolní zvuky a sluchátka optimalizují ANC pro blokování konkrétních ruchů Kompaktnější a pohodlnější design než předchozí generace, vhodný i pro spaní na boku Výdrž baterie postačuje na..."
+      }
+      
+      ,{
+        "title"    : "Řada M5 od Apple pokračuje v trendu: iPad inovuje rychleji než Mac",
+        "url"      : "/tech-news/apples-m5-lineup-continues-trend-of-ipad-innovatin/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple představil nové modely iPad Pro a MacBook Pro s čipem M5, které opět potvrzují dlouhodobý trend: hardwarové novinky se objevují nejprve v iPadu a do Maců přicházejí s několikaletým zpožděním. iPad Pro M5 dostává tandemový OLED displej, Face ID a vlastní bezdrátové čipy Apple, zatímco MacBook Pro zůstává u čtyři roky starého designu s LCD displejem a Touch ID.Klíčové body iPad Pro M5 má tandemový OLED displej Ultra Retina XDR, MacBook Pro stále používá LCD technologii Liquid Retina XDR iPad nabízí Face ID a dotykovou obrazovku, MacBook Pro má pouze Touch ID a žádnou dotykovou podporu iPad Pro používá..."
       }
       
       ,{
@@ -43286,6 +43346,13 @@
       }
       
       ,{
+        "title"    : "YouTube spouští AI nástroj pro detekci deepfake videí tvůrců obsahu",
+        "url"      : "/tech-news/youtubes-ai-likeness-detection-tool-is-searching-f/",
+        "category" : "tech_news",
+        "content"  : "SouhrnYouTube od 21. října 2025 zpřístupňuje vybraným tvůrcům v Partner Program nový AI nástroj nazvaný Likeness Detection, který automaticky vyhledává videa obsahující neoprávněně vytvořené deepfake záběry s jejich tváří. Tvůrci mohou podezřelá videa po ověření identity přímo nahlásit k odstranění prostřednictvím YouTube Studio.Klíčové body Nástroj Likeness Detection je dostupný od 21. října 2025 pro první vlnu tvůrců z YouTube Partner Program, další budou následovat v příštích měsících Funguje podobně jako systém Content ID pro detekci autorských práv, ale zaměřuje se na AI-generovanou podobu tváří Tvůrci musí nejprve ověřit svou identitu, poté mohou v záložce Content Detection v YouTube Studio kontrolovat..."
+      }
+      
+      ,{
         "title"    : "Selfie kamera iPhone 17 zdržuje podporu aplikace Project Indigo",
         "url"      : "/tech-news/the-iphone-17s-selfie-camera-is-to-blame-for-delay/",
         "category" : "tech_news",
@@ -43293,10 +43360,73 @@
       }
       
       ,{
+        "title"    : "Android Canary 2510 je poprvé dostupný pro celou rodinu Pixel",
+        "url"      : "/tech-news/googles-latest-android-canary-is-finally-available/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle zpřístupnil vývojářskou verzi Android Canary 2510 pro všechna zařízení Pixel od šesté generace výše. Jedná se o první vydání, které je od začátku dostupné i pro kompletní řadu Pixel 10 včetně modelu Pro Fold. Aktualizace přináší vylepšené ovládání svítilny a dlouho očekávanou možnost přizpůsobení pořadí tlačítek v tříknoflíkové navigaci.Klíčové body Android Canary 2510 (build ZP11.250926.010) je dostupný pro Pixel 6 a novější modely Poprvé zahrnuje kompletní řadu Pixel 10 včetně Pro Fold od prvního dne vydání Nové grafické rozhraní pro ovládání jasu svítilny s vizuálními prvky Možnost změnit pořadí tlačítek v tříknoflíkové navigaci Canary track představuje nejnovější vývojovou větev..."
+      }
+      
+      ,{
+        "title"    : "OpenAI vydává webový prohlížeč ChatGPT Atlas jako konkurenci pro Google Chrome",
+        "url"      : "/tech-news/chatgpt-maker-openai-releases-web-browser-to-rival/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI uvedlo nový webový prohlížeč ChatGPT Atlas, který má konkurovat Google Chrome a dalším etablovaným prohlížečům. Atlas se liší absencí klasického adresního řádku a je postaven přímo kolem chatbota ChatGPT. Prohlížeč je zatím dostupný pouze pro macOS a nabízí placenou agentní funkci, která autonomně vyhledává informace za uživatele.Klíčové body ChatGPT Atlas odstraňuje tradiční adresní řádek a staví na interakci s ChatGPT jako primárním způsobem navigace Placená agentní funkce umožňuje automatické vyhledávání a práci s kontextem prohlížení, dostupná pouze pro předplatitele ChatGPT Prohlížeč je aktuálně k dispozici pouze pro operační systém macOS od Apple OpenAI uzavřelo partnerství s e-commerce platformami Etsy..."
+      }
+      
+      ,{
+        "title"    : "Persona 3 Reload dostane aktualizaci s osmi skladbami od původní zpěvačky",
+        "url"      : "/tech-news/persona-3-reload-update-announced-adds-eight-songs/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost ATLUS oznámila bezplatnou aktualizaci pro remake japonské RPG hry Persona 3 Reload, která vyjde do 23. října 2024. Aktualizace přidá osm hudebních skladeb v podání Yumi Kawamurou, která nahrávala vokály pro původní Persona 3 a její rozšířenou verzi Persona 3 FES z let 2006-2007.Klíčové body Bezplatná aktualizace vyjde do 23. října 2024 pro všechny platformy Přidává osm skladeb od původní zpěvačky Yumi Kawamurou z her Persona 3 a Persona 3 FES Skladby půjde použít jako hudební doprovod při průzkumu dungeonů a v bojích Zahrnuje ikonické skladby jako “Mass Destruction”, “Burn My Dread -Last Battle-“ nebo “Memories of You” Yumi..."
+      }
+      
+      ,{
+        "title"    : "Samsung Galaxy XR podráží Apple Vision Pro o 38 tisíc korun",
+        "url"      : "/tech-news/samsungs-galaxy-xr-mixed-reality-headset-undercuts/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSamsung uvedl na trh headset pro smíšenou realitu Galaxy XR za cenu 1 800 dolarů, což je o 1 700 dolarů méně než konkurenční Apple Vision Pro. Zařízení běží na nové platformě Android XR vyvinuté Googlem a je prvním komerčním produktem této kategorie od Samsungu a Googlu po pěti letech od ukončení podpory jejich mobilních VR headsetů.Klíčové body Galaxy XR stojí 1 800 dolarů (možnost splácení 149 dolarů měsíčně), což je polovina ceny Vision Pro za 3 499 dolarů Běží na platformě Android XR s integrovaným asistentem Google Gemini Pohání ho čip Qualcomm Snapdragon XR2+ Gen 2 Ovládání pomocí rukou..."
+      }
+      
+      ,{
+        "title"    : "První velký únik ceny OnePlus 15 přináší povzbudivé zprávy",
+        "url"      : "/tech-news/the-first-major-oneplus-15-price-leak-has-encourag/",
+        "category" : "tech_news",
+        "content"  : "ShrnutíPřed čínským uvedením telefonu OnePlus 15 se objevily neoficiální informace o ceně v Británii. Podle leakera by měla varianta s 512GB úložištěm stát 949 liber, což je o 50 liber méně než u loňského modelu OnePlus 13. Jde však o nepotvrzené spekulace.Klíčové informace Varianta 16GB RAM/512GB úložiště má stát 949 liber (asi 27 500 Kč) v Británii Oproti OnePlus 13 by šlo o pokles o 50 liber Cena základní 256GB varianty nebyla prozrazena OnePlus 15 nabídne čipset Snapdragon 8 Elite Gen 5, baterii 7 300 mAh s 120W drátovým a 50W bezdrátovým nabíjením a 165Hz OLED displejInformace pochází od twitterového..."
+      }
+      
+      ,{
+        "title"    : "OpenAI spouští webový prohlížeč Atlas s integrovaným ChatGPT",
+        "url"      : "/tech-news/openai-launches-browser-to-rival-google-chrome-dw/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI uvedlo nový webový prohlížeč Atlas, který integruje ChatGPT přímo do jádra prohlížení webu. Produkt má ambici nahradit tradiční koncept adresního řádku AI chatbotem a nabízí režim agenta, který autonomně vyhledává informace na základě historie uživatele. Zatím je dostupný pouze pro počítače Mac.Klíčové body Atlas nahrazuje klasický URL řádek rozhraním ChatGPT chatbota pro přirozenější interakci s webem Režim agenta automaticky prochází internet jménem uživatele na základě jeho historie a předpokládaných potřeb Prohlížeč umožňuje dokončovat úkoly bez kopírování textu nebo opouštění stránky Počáteční dostupnost je omezena na macOS, další platformy zatím nebyly oznámeny CEO Sam Altman označil projekt za vzácnou příležitost..."
+      }
+      
+      ,{
+        "title"    : "Apple údajně snižuje výrobu iPhone Air, zvyšuje produkci ostatních modelů řady 17",
+        "url"      : "/tech-news/apple-slashes-iphone-air-production-plans-boosts-o/",
+        "category" : "tech_news",
+        "content"  : "ShrnutíApple podle nepotvrzených zdrojů výrazně snižuje výrobní objednávky pro model iPhone Air, zatímco zvyšuje produkci ostatních modelů z řady iPhone 17. Celkové prodeje nové řady přitom překonávají očekávání navzdory slabému trhu se smartphony a probíhající celní válce mezi USA a Čínou. Informace pocházejí z dodavatelského řetězce a nejsou oficiálně potvrzeny.Jedná se o spekulativní zprávu založenou na anonymních zdrojích z dodavatelského řetězce. Článek neuvádí konkrétní čísla ani procenta snížení výroby iPhone Air, ani o kolik přesně Apple zvyšuje produkci ostatních modelů. Chybí také informace o tom, zda se iPhone Air vůbec dostal do prodeje, jaké jsou jeho specifikace nebo proč by..."
+      }
+      
+      ,{
+        "title"    : "AI chatboti selhávají při zprostředkování zpráv, ukazuje rozsáhlá studie",
+        "url"      : "/tech-news/ai-chatbots-fail-at-accurate-news-major-study-reve/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRozsáhlá mezinárodní studie zahrnující 22 veřejnoprávních médií, včetně německé DW, zjistila, že čtyři nejpoužívanější AI chatboti poskytují nepřesné nebo zkreslené informace ve 45 % případů při zprostředkování zpravodajského obsahu. Problémy se objevují napříč jazyky i regiony a týkají se faktických chyb, problémů se zdroji i neschopnosti rozlišit fakta od názorů.Klíčové body Čtyři testované AI asistenty (ChatGPT, Microsoft Copilot, Google Gemini a Perplexity AI) zkreslují zpravodajský obsah v 45 % odpovědí 31 % odpovědí obsahovalo vážné problémy se zdroji informací, 20 % mělo závažné faktické chyby DW zaznamenala problémy v 53 % odpovědí, přičemž 29 % mělo konkrétní problémy s přesností..."
+      }
+      
+      ,{
+        "title"    : "Microsoft chystá velkou aktualizaci Windows 11 s novým Start menu a vylepšeními hlavního panelu",
+        "url"      : "/tech-news/microsoft-prepares-major-windows-11-feature-drop-w/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft dokončuje testování další velké aktualizace pro Windows 11, která přinese zásadně přepracované Start menu poprvé oznámené začátkem roku. Aktualizace je nyní v Release Preview kanálu programu Windows Insider, což je poslední fáze před oficiálním vydáním pro všechny uživatele, které by mohlo přijít již příští měsíc.Klíčové body Nové Start menu s přepracovaným rozhraním, které upřednostňuje seznam aplikací před doporučeným obsahem Kategorizovaný pohled na aplikace podobný iOS/iPadOS s možností přepnutí na klasické abecední řazení Vylepšená integrace s Phone Link pro rychlý přístup k fotografie, notifikacím a zprávám ze smartphonu Nová ikona baterie na hlavním panelu s možností zobrazit procenta a žlutým..."
+      }
+      
+      ,{
         "title"    : "Technologické zprávy",
         "url"      : "/tech-news/",
         "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 18Poslední aktualizace: 23.10.2025 04:22 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 18Poslední aktualizace: 23.10.2025 12:32 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
       }
       
     

@@ -7,8 +7,8 @@
 <meta property="og:title" content="TARmageddon: Kritická bezpečnostní chyba v populární Rust knihovně umožňuje vzdálené spuštění kódu" />
 <meta name="author" content="Patrick Zandl" />
 <meta property="og:locale" content="cs" />
-<meta name="description" content="Bezpečnostní výzkumníci odhalili závažnou zranitelnost CVE-2025-62518 v knihovně async-tar pro jazyk Rust, která postihuje správce balíčků uv a další projekty. Chyba umožňuje vzdálené spuštění kódu přes přepsání souborů." />
-<meta property="og:description" content="Bezpečnostní výzkumníci odhalili závažnou zranitelnost CVE-2025-62518 v knihovně async-tar pro jazyk Rust, která postihuje správce balíčků uv a další projekty. Chyba umožňuje vzdálené spuštění kódu přes přepsání souborů." />
+<meta name="description" content="Bezpečnostní zranitelnost CVE-2025-62518 v knihovně async-tar a jejích odvozeninách jako tokio-tar ohrožuje projekty včetně správce balíčků uv pro Python. Chyba umožňuje vzdálené spuštění kódu přes přepisování souborů." />
+<meta property="og:description" content="Bezpečnostní zranitelnost CVE-2025-62518 v knihovně async-tar a jejích odvozeninách jako tokio-tar ohrožuje projekty včetně správce balíčků uv pro Python. Chyba umožňuje vzdálené spuštění kódu přes přepisování souborů." />
 <link rel="canonical" href="https://www.marigold.cz/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/" />
 <meta property="og:url" content="https://www.marigold.cz/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/" />
 <meta property="og:site_name" content="Marigold.cz" />
@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="TARmageddon: Kritická bezpečnostní chyba v populární Rust knihovně umožňuje vzdálené spuštění kódu" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-21T14:38:00+00:00","datePublished":"2025-10-21T14:38:00+00:00","description":"Bezpečnostní výzkumníci odhalili závažnou zranitelnost CVE-2025-62518 v knihovně async-tar pro jazyk Rust, která postihuje správce balíčků uv a další projekty. Chyba umožňuje vzdálené spuštění kódu přes přepsání souborů.","headline":"TARmageddon: Kritická bezpečnostní chyba v populární Rust knihovně umožňuje vzdálené spuštění kódu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/"},"url":"https://www.marigold.cz/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-21T14:38:00+00:00","datePublished":"2025-10-21T14:38:00+00:00","description":"Bezpečnostní zranitelnost CVE-2025-62518 v knihovně async-tar a jejích odvozeninách jako tokio-tar ohrožuje projekty včetně správce balíčků uv pro Python. Chyba umožňuje vzdálené spuštění kódu přes přepisování souborů.","headline":"TARmageddon: Kritická bezpečnostní chyba v populární Rust knihovně umožňuje vzdálené spuštění kódu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/"},"url":"https://www.marigold.cz/tech-news/tarmageddon-strikes-high-profile-security-vulnerab/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -225,35 +225,35 @@
   <div class="article-content">
     <h2 id="souhrn">Souhrn</h2>
 
-<p>Bezpečnostní firma Edera zveřejnila kritickou zranitelnost s označením CVE-2025-62518, známou jako TARmageddon, která postihuje populární knihovnu async-tar pro programovací jazyk Rust a její odnože včetně tokio-tar. Chyba umožňuje útočníkům vzdálené spuštění kódu prostřednictvím přepsání souborů, což představuje vážné bezpečnostní riziko pro projekty jako správce balíčků uv pro Python a další nástroje využívající tyto knihovny.</p>
+<p>Bezpečnostní výzkumníci ze společnosti Edera odhalili kritickou zranitelnost s označením CVE-2025-62518, nazvanou TARmageddon, která postihuje populární Rust knihovnu async-tar a její odvozeniny včetně tokio-tar. Chyba v parsování hranic umožňuje útočníkům vzdálené spuštění kódu prostřednictvím přepisování souborů, což má dopad na řadu projektů včetně správce balíčků uv pro Python.</p>
 
 <h2 id="klíčové-body">Klíčové body</h2>
 
 <ul>
-  <li>Zranitelnost TARmageddon (CVE-2025-62518) postihuje knihovnu async-tar a její odnože jako tokio-tar, které slouží ke zpracování TAR archivů v asynchronním Rust kódu</li>
-  <li>Chyba je klasifikována jako vysoká závažnost a umožňuje vzdálené spuštění kódu (RCE) prostřednictvím útoků přepisujících soubory</li>
-  <li>Problém se týká kritické chyby při parsování hranic v archivech, což dokazuje, že ani Rust s jeho zárukami paměťové bezpečnosti není imunní vůči všem typům zranitelností</li>
-  <li>Knihovna tokio-tar je fakticky opuštěná bez aktivní údržby, což komplikuje řešení problému</li>
-  <li>Edera koordinovala decentralizované záplatování klíčových projektů včetně Binstalk, opa-wasm a dalších</li>
+  <li>Zranitelnost CVE-2025-62518 postihuje async-tar a její forky jako tokio-tar, které jsou používány v mnoha projektech</li>
+  <li>Chyba je klasifikována jako vysoké závažnosti a umožňuje vzdálené spuštění kódu (RCE) přes útoky přepisováním souborů</li>
+  <li>Problém se vyskytl navzdory tomu, že kód je napsán v Rustu, který je propagován pro své záruky paměťové bezpečnosti</li>
+  <li>Knihovna tokio-tar je fakticky opuštěná bez aktivní údržby</li>
+  <li>Edera koordinovala decentralizované záplatování klíčových downstream forků s projekty jako Binstalk a opa-wasm</li>
 </ul>
 
 <h2 id="podrobnosti">Podrobnosti</h2>
 
-<p>Zranitelnost TARmageddon představuje významný bezpečnostní incident v ekosystému jazyka Rust, který je běžně prezentován jako bezpečnější alternativa k jazykům jako C nebo C++ díky svým zárukami paměťové bezpečnosti. Tato chyba však ukazuje, že paměťová bezpečnost není všelék - problém spočívá v logické chybě při parsování hranic v TAR archivech, nikoli v klasických paměťových chybách jako buffer overflow.</p>
+<p>Zranitelnost TARmageddon představuje významný bezpečnostní problém v ekosystému Rustu. Jedná se o chybu v parsování hranic v knihovně async-tar, která slouží k asynchronnímu zpracování TAR archivů. Tato knihovna a její forky jsou široce používány v různých projektech, což zvyšuje rozsah dopadu.</p>
 
-<p>Knihovny async-tar a tokio-tar slouží ke zpracování TAR archivů v asynchronním Rust kódu, což je běžný požadavek v moderních aplikacích pracujících s komprimovanými soubory. Tyto knihovny používá řada významných projektů, včetně správce balíčků uv pro Python, který získal v poslední době značnou popularitu jako rychlejší alternativa k pip.</p>
+<p>Zvláště problematická je situace kolem tokio-tar, což je fork async-tar integrovaný s populárním asynchronním runtime frameworkem Tokio. Tato knihovna je fakticky opuštěná bez aktivní upstream údržby, což komplikuje řešení zranitelnosti standardním způsobem prostřednictvím aktualizace od původních vývojářů.</p>
 
-<p>Situaci komplikuje fakt, že tokio-tar, jedna z nejpoužívanějších odnožích, je prakticky opuštěná bez aktivní údržby. To znamená, že neexistuje centrální místo, kde by mohla být chyba opravena pro všechny uživatele. Bezpečnostní firma Edera proto zvolila netradiční přístup decentralizovaného záplatování, kdy koordinovala opravu přímo s vývojáři klíčových downstream projektů jako Binstalk (nástroj pro instalaci binárních souborů) a opa-wasm (WebAssembly runtime pro Open Policy Agent).</p>
+<p>Společnost Edera, která zranitelnost objevila, musela zvolit netradiční přístup a koordinovat decentralizované záplatování přímo s projekty, které tyto knihovny používají. Mezi klíčové projekty, se kterými Edera spolupracovala, patří Binstalk (nástroj pro instalaci binárních souborů z různých zdrojů) a opa-wasm (WebAssembly runtime pro Open Policy Agent).</p>
 
-<p>Útok využívající TARmageddon může útočníkovi umožnit přepsat libovolné soubory v systému při rozbalování speciálně připraveného TAR archivu, což může vést ke spuštění škodlivého kódu s právy aplikace provádějící rozbalení.</p>
+<p>Dopad na správce balíčků uv pro Python je obzvláště významný, protože uv se rychle stává populární alternativou k tradičním nástrojům jako pip. Uživatelé těchto nástrojů by měli co nejdříve aktualizovat na opravené verze.</p>
 
 <h2 id="proč-je-to-důležité">Proč je to důležité</h2>
 
-<p>Tato zranitelnost má několik významných dopadů na technologický ekosystém. Především zpochybňuje představu, že přechod na Rust automaticky řeší všechny bezpečnostní problémy - zatímco jazyk skutečně eliminuje celé třídy paměťových chyb, logické chyby v kódu zůstávají problémem. Pro vývojáře to znamená, že i při použití moderních bezpečných jazyků je nutné provádět důkladné bezpečnostní audity.</p>
+<p>Tato zranitelnost je významná ze dvou hlavních důvodů. Za prvé, vyvrací běžnou představu, že kód napsaný v Rustu je automaticky bezpečný. Zatímco Rust skutečně poskytuje silné záruky paměťové bezpečnosti, které eliminují celé třídy zranitelností jako buffer overflow, nezabraňuje logickým chybám v kódu. TARmageddon je příkladem toho, že i v Rustu mohou vzniknout kritické bezpečnostní problémy.</p>
 
-<p>Dále případ ukazuje na problém opuštěných knihoven v open-source ekosystému. Tokio-tar byla široce používaná knihovna, ale bez aktivní údržby se stala bezpečnostním rizikem pro všechny závislé projekty. To vyvolává otázky o dlouhodobé udržitelnosti open-source infrastruktury.</p>
+<p>Za druhé, případ ukazuje na širší problém v open source ekosystému - opuštěné projekty, které jsou stále široce používány. Tokio-tar není udržován, ale zůstává závislostí mnoha aktivních projektů. To vytváří bezpečnostní riziko a komplikuje proces záplatování. Decentralizovaný přístup Edery, kdy museli koordinovat opravy přímo s downstream projekty, je sice funkční, ale není škálovatelný pro budoucí zranitelnosti.</p>
 
-<p>Pro uživatele nástrojů jako uv je důležité co nejdříve aktualizovat na opravené verze, protože zranitelnost může být zneužita při instalaci balíčků ze škodlivých zdrojů. Organizace používající postižené knihovny by měly provést audit svých závislostí a aplikovat dostupné záplaty.</p>
+<p>Pro vývojáře a organizace používající Rust je to připomínka, že je nutné pravidelně auditovat závislosti a mít plán pro situace, kdy upstream projekt přestane být udržován.</p>
 
 <hr />
 
