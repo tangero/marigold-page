@@ -4,8 +4,8 @@ companies:
 - Samsung
 - Perplexity
 date: '2025-10-21 13:31:40'
-description: Samsung integruje chatbota Perplexity AI do svých chytrých televizí,
-  což přináší konverzační umělou inteligenci přímo do obývacího pokoje.
+description: Samsung přináší chatboty do obývacích pokojů prostřednictvím partnerství
+  s AI vyhledávačem Perplexity, který bude integrován do chytrých televizorů.
 importance: 3
 layout: tech_news_article
 original_title: 'Exclusive: Samsung inks Perplexity deal to bring AI to the TV - Axios'
@@ -15,7 +15,7 @@ source:
   emoji: 📡
   id: axios
   name: Axios
-title: Samsung uzavřel partnerství s Perplexity pro AI v televizích
+title: Samsung uzavřel dohodu s Perplexity o integraci AI do televizorů
 url: https://www.axios.com/2025/10/21/samsung-perplexity-ai-deal-tv
 urlToImage: https://images.axios.com/AU-_0BSxIE3CePyVyRVCwBitK-k=/0x0:1920x1080/1366x768/2025/10/20/1760989704409.jpg
 urlToImageBackup: https://images.axios.com/AU-_0BSxIE3CePyVyRVCwBitK-k=/0x0:1920x1080/1366x768/2025/10/20/1760989704409.jpg
@@ -23,29 +23,29 @@ urlToImageBackup: https://images.axios.com/AU-_0BSxIE3CePyVyRVCwBitK-k=/0x0:1920
 
 ## Souhrn
 
-Samsung uzavřel exkluzivní partnerství s AI startupem Perplexity, které přinese konverzační umělou inteligenci do chytrých televizí. Uživatelé budou moci pomocí hlasových příkazů nebo dálkového ovladače pokládat otázky a získávat odpovědi přímo na obrazovce televize.
+Samsung uzavřel exkluzivní partnerství s AI vyhledávačem Perplexity, které přinese konverzační umělou inteligenci přímo do televizorů. Jde o první významnou integraci AI chatbota do televizní platformy, která má změnit způsob, jakým uživatelé vyhledávají obsah a interagují se svými televizory.
 
 ## Klíčové body
 
-- Samsung integruje Perplexity AI do svých chytrých televizí jako první velký výrobce
-- Perplexity je AI vyhledávač, který kombinuje tradiční vyhledávání s generativní AI pro poskytování odpovědí v konverzačním stylu
-- Integrace umožní uživatelům klást otázky pomocí hlasu nebo dálkového ovladače
-- Jde o další krok v expanzi AI asistentů z mobilních zařízení do domácností
-- Partnerství představuje konkurenci tradičním hlasovým asistentům jako Alexa nebo Google Assistant
+- Samsung integruje Perplexity AI přímo do svých chytrých televizorů
+- Perplexity je AI vyhledávač, který kombinuje konverzační rozhraní s vyhledáváním informací v reálném čase a poskytuje odpovědi s citacemi zdrojů
+- Partnerství představuje první velkou integraci AI chatbota do televizní platformy
+- Uživatelé budou moci klást otázky a vyhledávat informace přímo z televizoru pomocí přirozeného jazyka
+- Dohoda je součástí širšího trendu integrace AI do spotřební elektroniky
 
 ## Podrobnosti
 
-Perplexity AI je relativně mladý startup zaměřený na AI-poháněné vyhledávání, který získal významnou pozornost díky svému přístupu kombinujícímu klasické vyhledávání s velkými jazykovými modely. Na rozdíl od tradičních vyhledávačů neposkytuje seznam odkazů, ale přímo odpovídá na dotazy uživatelů v konverzačním formátu, přičemž uvádí zdroje informací.
+Partnerství mezi Samsungem a Perplexity představuje zajímavý posun v oblasti chytrých televizorů. Perplexity, která vznikla jako alternativa k tradičním vyhledávačům, využívá velké jazykové modely k poskytování konverzačních odpovědí na dotazy uživatelů. Na rozdíl od běžných chatbotů Perplexity vyhledává aktuální informace na internetu a poskytuje odpovědi s odkazy na zdroje, což ji odlišuje od nástrojů jako ChatGPT.
 
-Integrace do Samsung televizí znamená, že uživatelé budou moci pokládat otázky typu "Jaké je dnes počasí?", "Kdo vyhrál včerejší zápas?" nebo "Co se děje ve světě?" a získat odpovědi přímo na obrazovce. Technologie by měla fungovat jak prostřednictvím hlasových příkazů, tak pomocí dálkového ovladače.
+Integrace do televizorů Samsung znamená, že uživatelé budou moci pokládat otázky týkající se filmů, seriálů, herců nebo obecných informací přímo prostřednictvím televizního rozhraní. Místo procházení menu a aplikací budou moci použít přirozený jazyk k nalezení toho, co hledají. Technicky by mělo jít o hlubší integraci než pouhá aplikace – Perplexity by měla být dostupná napříč celým systémem.
 
-Tento krok představuje významný posun v tom, jak výrobci spotřební elektroniky přemýšlejí o integraci AI. Zatímco dosud byly chytré televize vybaveny především základními hlasovými asistenty pro ovládání, Perplexity nabízí komplexnější konverzační schopnosti založené na moderních jazykových modelech.
-
-Pro Samsung jde o strategický tah v konkurenčním boji s dalšími výrobci televizí. Pro Perplexity pak partnerství znamená vstup do miliónů domácností a významné rozšíření uživatelské základny mimo mobilní zařízení a webové prohlížeče.
+Tento krok odráží snahu Samsungu udržet konkurenceschopnost v době, kdy AI funkce se stávají standardem u spotřební elektroniky. Zatímco konkurenti jako LG a Sony také experimentují s AI asistenty, partnerství s Perplexity je specifické tím, že se zaměřuje na vyhledávání s citacemi zdrojů, což může být užitečné pro ověřování informací.
 
 ## Proč je to důležité
 
-Partnerství signalizuje další fázi integrace generativní AI do běžných spotřebních zařízení. Po smartphonech a počítačích se AI asistenti dostávají do televize, která zůstává centrálním bodem mnoha obývacích pokojů. Jde o test, zda uživatelé skutečně chtějí konverzační AI v tomto kontextu, nebo zda půjde pouze o málo využívanou funkci. Úspěch této integrace může ovlivnit, jak rychle se podobné funkce objeví u konkurence jako LG, Sony či dalších výrobců.
+Integrace AI do televizorů představuje další krok v pronikání velkých jazykových modelů do každodenních zařízení. Po smartphonech, počítačích a chytrých reproduktorech se AI asistenti dostávají i do obývacích pokojů. Pro Samsung jde o strategický tah, jak odlišit své televizory od konkurence v době, kdy hardwarové specifikace dosahují stropu a výrobci hledají nové způsoby diferenciace.
+
+Pro Perplexity znamená partnerství významné rozšíření dosahu a validaci jejich technologie velkým hráčem v oblasti spotřební elektroniky. Zároveň to ukazuje, že AI vyhledávače se stávají alternativou k tradičním hlasovým asistentům jako Alexa nebo Google Assistant. Otázkou zůstává, jak dobře bude tato integrace fungovat v praxi a zda uživatelé skutečně budут využívat konverzační AI na televizorech.
 
 ---
 
