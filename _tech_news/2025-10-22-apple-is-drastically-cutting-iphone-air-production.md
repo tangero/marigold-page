@@ -21,15 +21,11 @@ urlToImage: https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImage
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2234535273-e1761141582499.jpg?resize=1200,600
 ---
 
-Apple podle zdrojů z dodavatelského řetězce výrazně omezuje výrobu modelu iPhone Air poté, co se ukázalo, že zákazníci o nejtenčí iPhone v historii nemají zájem. Výroba má od listopadu klesnout na méně než 10 % zářijových objemů.
+Apple podle informací z dodavatelského řetězce výrazně omezuje výrobu modelu iPhone Air, který představil teprve v září 2025. Jeden z manažerů dodavatelského řetězce uvedl, že objednávky výroby od listopadu klesnou na méně než 10 % objemu ve srovnání se zářím, což odpovídá úrovním blízkým ukončení výroby.
 
-Zpravodajský server Nikkei Asia cituje manažera z dodavatelského řetězce, podle kterého Apple snižuje objednávky výroby iPhone Air téměř na úroveň ukončení produkce. Průzkum investiční společnosti KeyBanc Capital Markets navíc zjistil "prakticky nulovou poptávku" po tomto modelu a omezenou ochotu zákazníků platit za skládací telefon.
+Průzkum investiční společnosti KeyBanc Capital Markets potvrzuje "prakticky nulovou poptávku" po iPhone Air a omezenou ochotu zákazníků platit za skládací telefon. Zákazníci dávají přednost tradičnímu iPhone 17 a výkonnějším modelům Pro a Pro Max, které nabízejí lepší fotoaparáty a výdrž baterie. Poptávka po ostatních modelech iPhone 17 zůstává zdravá, přičemž se prodeje posouvají směrem k dražším variantám Pro.
 
-Zákazníci podle dostupných dat preferují standardní iPhone 17 a výkonnější modely Pro a Pro Max, které nabízejí lepší fotoaparáty a výdrž baterie. Poptávka po ostatních modelech řady iPhone 17 zůstává zdravá, přičemž se nadále posouvá směrem k dražším variantám Pro.
-
-Průzkum také ukázal, že funkce umělé inteligence zatím nemají významný vliv na nákupní rozhodování zákazníků, přestože Apple AI ve svých posledních prezentacích a marketingových materiálech výrazně zmiňuje.
-
-Jde však o nepotvrzené informace ze zdrojů dodavatelského řetězce, nikoli oficiální vyjádření Applu. Zpráva přichází krátce po uvedení iPhone Air na čínský trh, což naznačuje obzvláště slabou poptávku mimo Čínu.
+Průzkum také ukázal, že funkce umělé inteligence zatím nemají výrazný vliv na nákupní rozhodnutí zákazníků, přestože Apple AI intenzivně zmiňuje v marketingových materiálech. iPhone Air je nejtenčí a nejlehčí telefon Apple, ale tato vlastnost zjevně není pro zákazníky dostatečně přitažlivá ve srovnání s praktičtějšími parametry jako kvalita fotoaparátů a výdrž baterie.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-category: hardware
+category: hardware apple
 companies:
 - Apple
 date: '2025-10-22 15:00:33'
-description: Apple dnes uvedl na trh nové generace iPad Pro (11" a 13"), MacBook Pro
-  14" a Vision Pro, všechny osazené čipem M5. Zařízení jsou dostupná v Apple Store
-  a online.
+description: Apple dnes uvedl na trh nové generace iPad Pro v 11" a 13" variantách,
+  MacBook Pro 14" a Vision Pro, všechny osazené čipem M5. Produkty jsou dostupné v
+  Apple Store i online.
 importance: 4
 layout: tech_news_article
 original_title: New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available
@@ -24,33 +24,31 @@ urlToImageBackup: https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-
 
 ## Souhrn
 
-Apple dnes 22. října 2025 zahájil prodej nové generace svých klíčových produktů - iPad Pro v 11" a 13" variantě, MacBook Pro 14" a headsetu Vision Pro. Všechna zařízení jsou osazena novou generací proprietárního čipu M5, který přináší výrazné zvýšení výkonu zejména pro AI úlohy.
+Apple dnes 22. října 2025 zahájil prodej nové generace svých klíčových produktů - iPad Pro, MacBook Pro 14" a Vision Pro, které spojuje použití nového čipu M5. Zařízení jsou k dispozici v kamenných prodejnách Apple Store, na webu apple.com i v mobilní aplikaci Apple Store.
 
 ## Klíčové body
 
-- Všechna tři zařízení využívají nový čip M5 s důrazem na výkon při AI výpočtech
-- MacBook Pro 14" nabízí až 24 hodin výdrže baterie a rychlejší úložiště
-- Vision Pro získává vylepšené zobrazování, delší výdrž a nový pohodlnější hlavový pásek Dual Knit Band
-- iPad Pro s iPadOS 26 má představovat nejpokročilejší verzi tabletu od Apple
-- Zařízení jsou dostupná v Apple Store, na apple.com a v mobilní aplikaci Apple Store
+- Všechna tři zařízení využívají nový čip M5, který přináší výrazné zlepšení výkonu zejména pro AI úlohy
+- iPad Pro je dostupný v 11" a 13" variantách s operačním systémem iPadOS 26
+- MacBook Pro 14" nabízí až 24 hodin výdrže baterie, rychlejší úložiště a běží na macOS Tahoe
+- Vision Pro získal vylepšený výkon, lepší vykreslování obrazu, delší výdrž baterie a nový pohodlnější pásek Dual Knit Band
+- Apple nabízí personalizované nákupní služby včetně konzultací přes video
 
 ## Podrobnosti
 
-Nový čip M5 představuje páteř aktualizované produktové řady Apple. U MacBooku Pro 14" firma slibuje "velký skok" v celkovém výkonu a "obrovské zvýšení" výkonu při AI úlohách, což naznačuje pokračující zaměření Apple na integraci strojového učení do běžných pracovních postupů. Výdrž baterie až 24 hodin řadí tento model mezi nejdéle fungující notebooky na trhu. Zařízení běží na novém systému macOS Tahoe.
+Nový iPad Pro s čipem M5 představuje podle Applu nejpokročilejší verzi tabletu v historii firmy. Kombinuje vysoký výkon s ultrapřenosným designem a ve spojení s iPadOS 26 přináší rozšířené možnosti pro uživatele, kteří chtějí z iPadu vytěžit maximum. Konkrétní technické specifikace čipu M5 Apple v tiskové zprávě neuvádí, zdůrazňuje však zejména zlepšení při zpracování AI úloh.
 
-U iPad Pro Apple zdůrazňuje kombinaci výkonu a ultrapřenosného designu. Operační systém iPadOS 26 má přinášet "bezprecedentní schopnosti" pro uživatele, kteří chtějí z tabletu vytěžit maximum, což pravděpodobně míří na profesionální uživatele v oblasti grafiky, videa a designu.
+MacBook Pro 14" s čipem M5 slibuje výrazný nárůst celkového výkonu a významné zlepšení právě při práci s umělou inteligencí. Výdrž baterie až 24 hodin řadí tento notebook mezi nejdéle fungující zařízení ve své kategorii. Rychlejší úložiště by mělo urychlit práci s velkými soubory a náročnými projekty. Nový operační systém macOS Tahoe přináší redesignované uživatelské rozhraní.
 
-Vision Pro, headset pro prostorové výpočty představený v roce 2023, získává s čipem M5 vylepšené vykreslování obrazu a prodlouženou výdrž baterie. Nový hlavový pásek Dual Knit Band má zlepšit pohodlí při delším nošení, což byla jedna z kritik původní verze.
+Apple Vision Pro, headset pro smíšenou realitu, dostává s čipem M5 zlepšený výkon, kvalitnější vykreslování obrazu a delší výdrž baterie. Nový pásek Dual Knit Band má zlepšit pohodlí při delším nošení. Vision Pro se tak snaží adresovat některé kritiky první generace týkající se hmotnosti a komfortu.
 
-Apple rozšiřuje také nákupní služby - zákazníci mohou využít personalizované konzultace přes chat, telefon nebo jednosměrný video hovor s pracovníky Apple Store, kteří pomohou s výběrem konfigurace. Dostupné jsou také možnosti konfigurace na míru a rozšířená záruka AppleCare.
+Apple rozšiřuje i nákupní služby - zákazníci mohou využít personalizované konzultace přes chat, telefon nebo jednosměrné video, kde jim specialista Apple pomůže vybrat vhodný produkt. K dispozici jsou konfigurace na míru, příslušenství a služba AppleCare.
 
 ## Proč je to důležité
 
-Uvedení čipu M5 napříč produktovou řadou potvrzuje strategii Apple soustředit se na vlastní křemík optimalizovaný pro AI úlohy. V době, kdy konkurence jako Qualcomm a Intel intenzivně pracují na čipech s dedikovanými AI akcelerátory pro Windows zařízení, Apple pokračuje ve svém ekosystému s vertikální integrací hardware a software.
+Uvedení tří klíčových produktových linií s novým čipem M5 ukazuje pokračující strategii Applu v oblasti vlastních procesorů a důraz na výkon při zpracování AI. Zatímco konkurence jako Microsoft, Google a Meta integrují AI funkce primárně prostřednictvím cloudových služeb, Apple sází na lokální zpracování díky výkonným čipům. To má výhody v oblasti soukromí a rychlosti odezvy, ale vyžaduje pravidelnou obměnu hardwaru.
 
-Zvláště zajímavé je nasazení M5 do Vision Pro, což naznačuje, že Apple vnímá prostorové výpočty jako oblast vyžadující vysoký výpočetní výkon. Vylepšené vykreslování a delší výdrž baterie mohou pomoci headsetu získat širší adopci mimo early adopters.
-
-Synchronizované uvedení tří produktových kategorií s jednotným čipem také usnadňuje vývojářům optimalizaci aplikací pro celý ekosystém Apple, což může urychlit vývoj softwaru využívajícího pokročilé AI funkce napříč zařízeními.
+Výdrž 24 hodin u MacBooku Pro 14" je významná zejména pro profesionální uživatele a konkuruje nejlepším notebookům na trhu. Vision Pro stále hledá své místo na trhu - vylepšení výkonu a pohodlí jsou kroky správným směrem, ale masové rozšíření AR/VR headsetů zatím nenastalo. Cena a praktické využití zůstávají hlavními překážkami adopce.
 
 ---
 

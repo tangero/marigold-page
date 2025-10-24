@@ -1,11 +1,11 @@
 ---
-category: ai nástroje
+category: programování
 companies:
 - Anthropic
 - PCMag
 date: '2025-10-21 19:12:56'
-description: Boris Cherny z Anthropic popisuje vznik nástroje Claude Code, který nyní
-  získal přístup k webu a používají ho firmy jako Salesforce, Uber či Deloitte.
+description: Rozhovor s Borisem Chernym z Anthropicu o vzniku agentního nástroje pro
+  programování Claude Code a jeho nové funkci přístupu přes webový prohlížeč.
 importance: 3
 layout: tech_news_article
 original_title: 'Claude Code Creator: We Didn''t Mean to Build It, But It''s Changed
@@ -27,29 +27,29 @@ urlToImageBackup: https://i.pcmag.com/imagery/articles/05LRlzax3PqbMeN6xgrItgd-3
 
 ## Souhrn
 
-Claude Code, nástroj pro automatizované programování od společnosti Anthropic, je nyní dostupný přes webový prohlížeč, nejen přes profesionální vývojářské nástroje. Podle Borise Chernyho, vedoucího vývoje Claude Code, firma tento produkt původně vůbec nezamýšlela vytvořit – vznikl jako jeden z prototypů výzkumného týmu Labs, který měl zjistit, co všechno dokážou pokročilé AI modely.
+Claude Code, nástroj pro automatizované programování od společnosti Anthropic, je nyní dostupný přímo ve webovém prohlížeči, nejen v profesionálních vývojářských nástrojích. Boris Cherny, vedoucí vývoje Claude Code, v rozhovoru pro PCMag prozradil, že produkt vznikl náhodou jako interní prototyp a Anthropic jej nikdy neplánoval oficiálně uvést na trh.
 
 ## Klíčové body
 
-- Claude Code je nyní přístupný přes webový prohlížeč na počítačích i telefonech pro předplatitele Pro (17 dolarů měsíčně) a Max (100 dolarů měsíčně)
-- Nástroj dokáže opravovat chyby v kódu, aktualizovat soubory, provádět code review a vytvářet úkoly v nástrojích pro projektové řízení jako Asana
-- Používají ho firmy jako Salesforce, Uber a Deloitte, stejně jako interní vývojáři Anthropic
-- Produkt vznikl náhodně v rámci experimentálního týmu Labs, který měl za úkol zjistit možnosti AI modelů
-- Cherny nástroj používá ráno z telefonu k zadání úkolů, které pak kontroluje v kanceláři
+- Claude Code je nyní přístupný přes webový prohlížeč pro předplatitele tarif Pro (17 dolarů měsíčně) a Max (100 dolarů měsíčně)
+- Nástroj dokáže opravovat chyby v kódu, aktualizovat soubory, provádět code review a vytvářet úkoly v projektových nástrojích jako Asana
+- Produkt vznikl náhodně v rámci interního prototypovacího týmu Labs, který měl za úkol zjistit, co všechno dokážou AI modely Anthropicu
+- Využívají jej inženýři ve firmách jako Salesforce, Uber a Deloitte
+- Boris Cherny jej sám používá z telefonu ráno k zahájení úkolů, které pak kontroluje v kanceláři
 
 ## Podrobnosti
 
-Boris Cherny, který do Anthropic nastoupil v září 2024 z Mety a dalších technologických firem, nebyl najat přímo pro vývoj Claude Code. Původně pracoval v týmu Labs, jehož úkolem bylo prototypování a zjišťování možností pokročilých AI modelů společnosti. Tento tým již neexistuje, protože podle Chernyho splnil svůj účel.
+Claude Code běží na AI modelech společnosti Anthropic a funguje jako agentní nástroj pro programátory. Dokáže pracovat s libovolnými nástroji, které běžně používají vývojáři, včetně projektových manažerů jako Asana. Podle Chernyho se stal každodenní součástí práce inženýrů v Anthropicu od února 2025, kdy byl oficiálně uveden.
 
-Claude Code běží na AI modelech Anthropic a funguje jako agentní nástroj pro programování. Dokáže pracovat s jakýmikoli nástroji, které používají vývojáři – od oprav chyb a aktualizací souborů přes code review až po integraci s nástroji pro projektové řízení. Cherny zdůrazňuje, že přístup přes webový prohlížeč výrazně zjednodušuje používání nástroje, protože vývojáři nemusí pokaždé otevírat příkazovou řádku.
+Zajímavostí je, že Anthropic nikdy neměl v plánu Claude Code vytvořit jako samostatný produkt. Cherny byl v září 2024 najat do týmu Labs, jehož úkolem bylo prototypovat a zjišťovat, jaké možnosti nabízejí pokročilé AI modely firmy. Tým měl za cíl objevit funkce, které modely zvládají, ale dosud nebyly zachyceny v žádném produktu. Claude Code byl jedním z těchto experimentálních prototypů.
 
-Od vydání v únoru 2025 se Claude Code stal běžnou součástí pracovního procesu vývojářů v Anthropic i ve velkých firmách. Webová verze umožňuje flexibilnější využití – Cherny například zadává úkoly ráno z telefonu ještě před příchodem do kanceláře a výsledky kontroluje později.
+Přesunutí nástroje do webového prohlížeče představuje významnou změnu v přístupnosti. Zatímco dříve museli vývojáři používat nástroje příkazové řádky, nyní mohou Claude Code spustit jednoduše v prohlížeči na počítači nebo dokonce na telefonu. Cherny sám využívá tuto možnost k zahájení programátorských úkolů z telefonu během ranní rutiny, což mu umožňuje efektivněji využít čas před příchodem do kanceláře.
 
-Přestože je nástroj primárně určen pro inženýry, snadná dostupnost přes webový prohlížeč ho činí přístupnějším i pro širší okruh uživatelů s předplatným Pro nebo Max. Ironií zůstává, že Anthropic nikdy neměl v plánu takový produkt vytvořit – vznikl organicky jako vedlejší produkt výzkumu možností AI modelů.
+Cílovou skupinou zůstávají profesionální programátoři, ale jednodušší přístup přes web činí nástroj dostupnějším i pro širší okruh uživatelů s předplatným Pro nebo Max.
 
 ## Proč je to důležité
 
-Claude Code představuje další krok v evoluci AI nástrojů pro programování, které postupně mění způsob vývoje softwaru. Přesun z příkazové řádky do webového prohlížeče signalizuje demokratizaci těchto nástrojů a jejich integraci do běžného pracovního procesu. Adopce ve velkých firmách jako Salesforce nebo Uber ukazuje, že agentní AI nástroje pro programování přestávají být experimentem a stávají se standardní součástí vývojářského ekosystému. Příběh vzniku produktu také ilustruje, jak výzkumné týmy v AI firmách objevují nové použití modelů metodou pokus-omyl.
+Claude Code reprezentuje rostoucí trend agentních AI nástrojů, které nejen generují kód, ale aktivně pracují s vývojářskými nástroji a automatizují celé pracovní postupy. Přesun z příkazové řádky do webového prohlížeče signalizuje snahu o demokratizaci pokročilých AI nástrojů pro programování. Skutečnost, že produkt vznikl jako vedlejší efekt interního výzkumu, ukazuje, jak rychle se vyvíjí oblast praktických aplikací velkých jazykových modelů a jak firmy často objevují užitečné produkty experimentováním spíše než cíleným plánováním.
 
 ---
 
