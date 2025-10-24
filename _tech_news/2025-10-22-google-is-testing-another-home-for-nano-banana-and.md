@@ -3,8 +3,9 @@ category: ai generátory
 companies:
 - Google
 date: '2025-10-22 13:24:01'
-description: Google experimentuje s novými způsoby přístupu k funkci Nano Banana,
-  tentokrát přímo z plovoucího overlay asistenta Gemini.
+description: Google experimentuje s novými způsoby, jak zpřístupnit svůj nástroj Nano
+  Banana pro úpravu obrázků pomocí AI, tentokrát přímo v plovoucím rozhraní asistenta
+  Gemini.
 importance: 2
 layout: tech_news_article
 original_title: Google is testing another home for Nano Banana, and we're unsure what
@@ -21,11 +22,11 @@ urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/06/google-g
 urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/06/google-gemini-android-prompt-ask-about-screen-hero-1-scaled.jpg
 ---
 
-Google testuje další možnosti přístupu k funkci Nano Banana, nástroji pro úpravu obrázků pomocí AI, který se stal virálním díky schopnosti přidávat do fotografií banány a další objekty na základě textového popisu. Nově se objevuje tlačítko "Edit this image" v plovoucím overlay asistenta Gemini, které se zobrazí při aktivaci Gemini nad jinou aplikací.
+Google testuje další umístění pro svůj nástroj Nano Banana, který umožňuje úpravu obrázků pomocí textových popisů. Nová funkce se objevuje ve verzi 16.42.61 aplikace Google, kde přibývá tlačítko "Edit this image" v plovoucím rozhraní asistenta Gemini.
 
-Změna byla zaznamenána ve verzi 16.42.61 aplikace Google, zatím však není široce dostupná. Po klepnutí na nové tlačítko se aktivuje režim Nano Banana, kde uživatel může přidat textový popis požadovaných úprav obrázku. Funkčnost je podobná stávajícímu rozhraní Nano Banana v hlavní aplikaci Gemini.
+Nano Banana je generátor a editor obrázků založený na umělé inteligenci, který umožňuje uživatelům upravovat fotografie pomocí textových příkazů. Google nástroj postupně integruje do různých aplikací včetně NotebookLM a Messages. Nové tlačítko se zobrazuje při přidání obrázku do Gemini overlay - plovoucího rozhraní, které se aktivuje při použití asistenta Gemini nad jinou aplikací. Po kliknutí se spustí režim Nano Banana, kde lze přidat textový popis požadovaných úprav.
 
-Google také testuje tlačítko "Feeling Lucky" pro Nano Banana, jehož účel zatím není jasný. Společnost systematicky rozšiřuje dostupnost tohoto nástroje do různých aplikací, včetně NotebookLM a Messages. Jedná se o spekulativní informaci o testování funkcí, které nemusí být nikdy veřejně vydány.
+Google také testuje tlačítko "Feeling Lucky" pro Nano Banana, jehož funkce zatím není jasná. Změny nejsou zatím široce dostupné a jedná se o experimentální funkce v rámci testování. Jde o pokračování strategie Google zpřístupnit tento nástroj na co nejvíce místech v rámci svého ekosystému aplikací.
 
 ---
 
