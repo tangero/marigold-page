@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-10-22 15:00:33'
 description: Apple dnes uvedl na trh nové generace iPad Pro v 11" a 13" verzích, MacBook
-  Pro 14" a Vision Pro, všechny osazené čipem M5. Zařízení jsou dostupná v Apple Store
+  Pro 14" a Vision Pro, všechny osazené čipem M5. Produkty jsou dostupné v Apple Store
   a online.
 importance: 4
 layout: tech_news_article
@@ -24,31 +24,33 @@ urlToImageBackup: https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-
 
 ## Souhrn
 
-Apple dnes 22. října 2025 zahájil prodej nové generace svých produktů osazených čipem M5. Do prodeje se dostaly iPad Pro v 11palcové a 13palcové variantě, MacBook Pro s 14palcovou obrazovkou a prostorový počítač Vision Pro. Všechna zařízení jsou k dispozici v kamenných prodejnách Apple Store, na webu apple.com i v mobilní aplikaci Apple Store.
+Apple dnes 22. října 2025 zahájil prodej nové generace svých klíčových produktů – iPad Pro, MacBook Pro 14" a Vision Pro, které spojuje použití nového čipu M5. Všechna zařízení jsou k dispozici v kamenných prodejnách Apple Store, na webu apple.com i v mobilní aplikaci Apple Store.
 
 ## Klíčové body
 
-- Všechna tři zařízení využívají nový čip M5, který přináší výrazné zvýšení výkonu zejména pro AI úlohy
-- MacBook Pro 14" nabízí až 24 hodin výdrže baterie a rychlejší úložiště, běží na macOS Tahoe
-- iPad Pro s M5 představuje nejpokročilejší verzi tabletu od Apple, funguje s iPadOS 26
-- Vision Pro s čipem M5 získává lepší výkon, vylepšené vykreslování obrazu, delší výdrž baterie a nový pohodlnější pásek Dual Knit Band
-- Zákazníci mohou využít konfigurace na míru a personalizované nákupní poradenství přes chat, telefon nebo video hovor
+- Všechna tři zařízení využívají nový čip M5, který přináší výrazné zlepšení výkonu zejména pro AI úlohy
+- iPad Pro je dostupný v 11" a 13" verzích s operačním systémem iPadOS 26
+- MacBook Pro 14" nabízí až 24 hodin výdrže baterie, rychlejší úložiště a běží na macOS Tahoe
+- Vision Pro získává vylepšené zobrazení, delší výdrž baterie a nový pohodlnější Dual Knit Band
+- Zákazníci mohou využít konfiguraci na míru a personalizované nákupní poradenství
 
 ## Podrobnosti
 
-Nový iPad Pro s čipem M5 kombinuje vysoký výkon s ultrapřenosným designem. Společně s operačním systémem iPadOS 26 přináší rozšířené možnosti pro uživatele, kteří chtějí z tabletu vytěžit maximum. Apple tradičně nabízí dvě velikosti displeje - 11 a 13 palců.
+iPad Pro s čipem M5 představuje podle Applu nejpokročilejší verzi tabletu v historii firmy. Kombinuje vysoký výkon s ultrapřenosným designem a díky iPadOS 26 nabízí rozšířené možnosti pro náročnější pracovní využití. Apple tradičně cílí na profesionální uživatele, kteří potřebují výkonné zařízení pro kreativní práci, úpravu videa nebo grafický design.
 
-MacBook Pro ve 14palcové variantě představuje výrazný skok ve výkonu díky čipu M5. Podle Apple jde zejména o zlepšení v oblasti AI výpočtů, což odpovídá současnému trendu integrace umělé inteligence do běžných pracovních postupů. Rychlejší úložiště a výdrž baterie až 24 hodin činí z tohoto notebooku nástroj pro náročné profesionály. Zařízení běží na nové verzi operačního systému macOS Tahoe.
+MacBook Pro 14" s čipem M5 přináší významné zlepšení celkového výkonu a zejména výrazné posílení schopností pro zpracování AI úloh. Výdrž baterie až 24 hodin řadí tento model mezi nejdéle fungující notebooky na trhu. Rychlejší úložiště by mělo urychlit práci s velkými soubory. Zařízení běží na novém operačním systému macOS Tahoe.
 
-Prostorový počítač Vision Pro, který Apple představil v předchozích letech jako headset pro rozšířenou a virtuální realitu, získává s čipem M5 několik vylepšení. Kromě vyššího výkonu a lepšího vykreslování obrazu Apple řeší i praktické aspekty používání - nový pásek Dual Knit Band má být pohodlnější při delším nošení. Prodloužená výdrž baterie adresuje jednu z hlavních výtek uživatelů podobných zařízení.
+Apple Vision Pro, headset pro smíšenou realitu, získává s čipem M5 vylepšené vykreslování obrazu a delší výdrž baterie. Nový Dual Knit Band má zlepšit pohodlí při delším nošení. Jedná se o druhou generaci tohoto produktu, který Apple představil jako svůj vstup do oblasti prostorových počítačů.
 
-Apple rozšiřuje své nákupní služby o personalizované poradenství. Zákazníci mohou komunikovat se specialisty přes zabezpečené jednosměrné video hovory, kde jim pracovníci Apple Store pomohou vybrat vhodnou konfiguraci. Po nákupu je k dispozici další podpora při nastavení zařízení.
+Apple nabízí zákazníkům možnost konfigurace zařízení na míru přímo při objednávce. Služba Shop with a Specialist umožňuje personalizované poradenství přes chat, telefon nebo jednosměrné video, kde zákazník může s pracovníkem Apple Store procházet produkty a vybrat nejvhodnější konfiguraci.
 
 ## Proč je to důležité
 
-Uvedení čipu M5 do prodeje představuje další krok v Apple strategii vlastních procesorů, kterou firma zahájila v roce 2020 přechodem od Intel čipů. Důraz na výkon v AI úlohách odráží celoodvětový trend integrace umělé inteligence do běžných zařízení. Pro konkurenci v podobě Intel, AMD a Qualcomm to znamená pokračující tlak na vývoj vlastních řešení.
+Uvedení nového čipu M5 napříč produktovou řadou Applu signalizuje další krok ve strategii firmy spoléhat na vlastní křemík místo procesorů Intel. Důraz na vylepšení AI výkonu odráží obecný trend v technologickém průmyslu, kde se schopnost efektivně zpracovávat úlohy strojového učení stává klíčovým diferenciátorem.
 
-Synchronizované uvedení čipu M5 napříč různými produktovými liniemi ukazuje zralost Apple ekosystému vlastních čipů. Zatímco iPad Pro a MacBook Pro jsou zavedené kategorie, Vision Pro stále hledá své místo na trhu - vylepšení výkonu a pohodlí mohou pomoci širšímu přijetí této technologie.
+Synchronizované uvedení tří produktových kategorií s jedním čipem ukazuje zralost vlastní čipové platformy Applu a umožňuje firmě nabídnout konzistentní výkon napříč zařízeními. Pro vývojáře to znamená jednotnější platformu pro optimalizaci aplikací.
+
+Výdrž baterie 24 hodin u MacBooku Pro a vylepšení u Vision Pro naznačuje, že M5 přináší nejen vyšší výkon, ale i lepší energetickou efektivitu – klíčový parametr pro mobilní zařízení. Úspěch těchto produktů bude důležitý ukazatel, zda zákazníci vnímají dostatečnou hodnotu v upgradu na novou generaci čipů.
 
 ---
 
