@@ -4,7 +4,7 @@ companies:
 - Microsoft
 date: '2025-10-22 12:53:00'
 description: Uživatelé Windows 10 zkoušejí open-source operační systém kvůli ukončení
-  podpory. Jedna distribuce zaznamenala rekordní nárůst stahování.
+  podpory. Jedna distribuce zaznamenala rekordní nárůst stažení.
 importance: 3
 layout: tech_news_article
 original_title: The end of Windows 10 has been a boon for one particular Linux distro
@@ -23,31 +23,29 @@ urlToImageBackup: https://www.zdnet.com/a/img/resize/92227970aa3e783b7bfbf5f5d69
 
 ## Souhrn
 
-Po ukončení podpory Windows 10 zaznamenala linuxová distribuce Zorin OS rekordních více než 100 000 stažení během pouhých dvou dnů. Zorin OS Group strategicky vydala svou největší aktualizaci Zorin OS 18 přesně v den ukončení podpory Windows 10, přičemž 72 % stažení přišlo z počítačů s Windows.
+Po ukončení podpory Windows 10 zaznamenala linuxová distribuce Zorin OS rekordních více než 100 000 stažení během pouhých dvou dnů. Vývojáři strategicky vydali novou verzi Zorin OS 18 přesně v den, kdy Microsoft ukončil podporu Windows 10, a 72 % stažení přišlo přímo ze zařízení s Windows.
 
 ## Klíčové body
 
-- Zorin OS 18 byl vydán strategicky v den ukončení podpory Windows 10
-- Za dva dny bylo zaznamenáno přes 100 000 stažení, což je historický rekord distribuce
-- 72 % stažení pocházelo z počítačů s operačním systémem Windows
-- Francouzské město Échirolles přešlo na open-source software včetně Zorin OS (10 % strojů)
-- Microsoft nabízí prodloužení bezpečnostních aktualizací za 30 dolarů ročně
+- Zorin OS zaznamenal přes 100 000 stažení během dvou dnů po ukončení podpory Windows 10
+- 72 % stažení pocházelo ze zařízení s Windows, což potvrzuje migraci uživatelů
+- Verze Zorin OS 18 byla vydána strategicky ve stejný den jako konec podpory Windows 10
+- Francouzské město Échirolles přešlo na svobodný software včetně Zorin OS na 10 % počítačů v radnici
+- Microsoft nabízí prodloužení bezpečnostních aktualizací za 30 dolarů ročně, což pouze oddaluje nevyhnutelné
 
 ## Podrobnosti
 
-Ukončení podpory Windows 10 postavilo miliony uživatelů před rozhodnutí. Ti, jejichž počítače nesplňují hardwarové požadavky Windows 11, mají v podstatě tři možnosti: přejít na macOS (což vyžaduje nákup nového počítače), zaplatit za prodloužení podpory Windows 10, nebo vyzkoušet Linux.
+Uživatelé Windows 10 se ocitli na rozcestí poté, co Microsoft oficiálně ukončil podporu tohoto operačního systému. Pro majitele starších počítačů, které nesplňují hardwarové požadavky Windows 11, existují v podstatě dvě možnosti: přejít na macOS, což vyžaduje nákup nového počítače, nebo vyzkoušet některou z linuxových distribucí.
 
-Zorin OS je linuxová distribuce zaměřená specificky na uživatele přecházející z Windows. Nabízí rozhraní podobné Windows, což výrazně snižuje bariéru vstupu pro běžné uživatele. Vydání verze 18 přesně v den ukončení podpory Windows 10 bylo promyšleným marketingovým tahem, který se zjevně vyplatil.
+Zorin OS, distribuce zaměřená na snadný přechod z Windows, využila této situace vydáním své dosud největší aktualizace. Zorin OS Group uvádí, že jde o jejich nejúspěšnější uvedení nové verze v historii projektu. Distribuce je navržena tak, aby uživatelům Windows nabídla známé prostředí a minimalizovala křivku učení.
 
-Čísla mluví jasně - více než 100 000 stažení za dva dny představuje bezprecedentní zájem o tuto distribuci. Skutečnost, že 72 % stažení přišlo přímo z Windows počítačů, potvrzuje, že uživatelé aktivně hledají alternativy. Microsoft sice nabízí prodloužení bezpečnostních aktualizací za přibližně 30 dolarů ročně, ale to pouze oddaluje nevyhnutelné.
+Zajímavým případem adopce je francouzské město Échirolles, které přešlo na svobodný software ve své radnici. Ačkoliv pouze 10 % strojů běží konkrétně na Zorin OS, jde o významný krok směrem k nezávislosti na proprietárním software v veřejné správě.
 
-Příkladem širšího přijetí je francouzské město Échirolles, které přešlo na svobodný a open-source software. I když pouze 10 % jejich strojů běží na Zorin OS, jde o významný signál rostoucího zájmu veřejného sektoru o linuxové alternativy.
+Microsoft sice nabízí prodloužení bezpečnostních aktualizací za přibližně 30 dolarů ročně, ale toto řešení pouze oddaluje nutnost rozhodnutí. Uživatelé musí zvážit, zda investovat do nového hardwaru kompatibilního s Windows 11, nebo vyzkoušet alternativní operační systémy.
 
 ## Proč je to důležité
 
-Tato situace ukazuje, jak mohou rozhodnutí velkých technologických firem o ukončení podpory produktů vytvořit příležitosti pro alternativní řešení. Zorin OS těží z frustrace uživatelů, kteří mají funkční hardware, ale nemohou upgradovat na Windows 11 kvůli umělým hardwarovým omezením.
-
-Pro širší ekosystém to znamená potenciální posun v tržním podílu operačních systémů. Pokud i zlomek z milionů uživatelů Windows 10 přejde na Linux, může to vést k lepší podpoře Linuxu ze strany vývojářů aplikací a výrobců hardwaru. Zároveň to ukazuje, že uživatelsky přívětivé linuxové distribuce jako Zorin OS mohou skutečně konkurovat komerčním systémům, pokud jsou správně pozicované a načasované.
+Ukončení podpory Windows 10 představuje významný zlom v desktopovém ekosystému. Miliony počítačů po celém světě se stávají potenciálně zranitelnými bez bezpečnostních aktualizací, což vytváří tlak na uživatele k akci. Úspěch Zorin OS ukazuje, že Linux může být reálnou alternativou pro běžné uživatele, kteří nechtějí nebo nemohou investovat do nového hardwaru. Tento trend může dlouhodobě ovlivnit podíl jednotlivých operačních systémů na trhu a ukázat, že open-source řešení jsou připravena přijmout mainstream uživatele.
 
 ---
 

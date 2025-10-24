@@ -3,7 +3,7 @@ category: operační systémy
 companies:
 - Microsoft
 date: '2025-10-22 11:19:06'
-description: Příští velká aktualizace Windows 11 přinese přepracovanou nabídku Start,
+description: Příští velká aktualizace Windows 11 přinese přepracované menu Start,
   vylepšení hlavního panelu a Průzkumníka souborů. Nové funkce jsou ve finální fázi
   testování a měly by být dostupné příští měsíc.
 importance: 3
@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: Microsoft chystá velkou aktualizaci Windows 11 s novou nabídkou Start, úpravami
+title: Microsoft připravuje velkou aktualizaci Windows 11 s novým menu Start, úpravami
   hlavního panelu a dalšími funkcemi
 url: https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025
 urlToImage: https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe-2560-80.jpg
@@ -26,35 +26,31 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe-2560-
 
 ## Souhrn
 
-Microsoft dokončuje testování rozsáhlé aktualizace pro Windows 11, která přinese kompletně přepracovanou nabídku Start, vylepšený hlavní panel a další změny zaměřené na zlepšení uživatelského komfortu. Aktualizace je nyní v testovacím kanálu Release Preview, což je poslední fáze před oficiálním vydáním pro všechny uživatele, které se očekává již příští měsíc.
+Microsoft dokončuje testování velké aktualizace Windows 11, která přinese kompletně přepracované menu Start, vylepšený hlavní panel a řadu dalších funkcí zaměřených na zlepšení uživatelského komfortu. Aktualizace je nyní v Release Preview Channel, což je poslední fáze před oficiálním vydáním pro všechny uživatele, které se očekává již příští měsíc.
 
 ## Klíčové body
 
-- Nová nabídka Start s přepracovaným rozvržením, které upřednostňuje seznam aplikací a přidává kategorizované zobrazení podobné iOS
-- Vylepšený hlavní panel s větší ikonou baterie, která se zbarví žlutě při nízkém stavu a umožňuje zobrazit procenta přímo na panelu
-- Rozšířená integrace s Phone Link pro rychlý přístup k fotografie, notifikacím a zprávám ze smartphonu
-- Vylepšení Průzkumníka souborů s novými funkcemi pro správu souborů
-- Větší možnosti přizpůsobení včetně volby mezi kategorizovaným a abecedním zobrazením aplikací
+- Nové menu Start s přepracovaným rozhraním a kategorizovaným zobrazením aplikací podobným iOS
+- Rozšířené možnosti přizpůsobení včetně vypnutí sekce doporučených položek
+- Integrovaný panel Phone Link pro rychlý přístup k telefonu přímo z menu Start
+- Vylepšená ikona baterie na hlavním panelu s procentuálním zobrazením
+- Aktualizace Průzkumníka souborů s novými funkcemi
 
 ## Podrobnosti
 
-Nová nabídka Start představuje nejvýraznější změnu v této aktualizaci. Microsoft přesunul seznam aplikací do hlavní oblasti a přidal možnost zobrazit aplikace v kategoriích podobně jako na iPadu nebo iPhonu. Uživatelé mohou přepínat mezi tímto kategorizovaným zobrazením a klasickým abecedním seznamem podle vlastních preferencí.
+Nové menu Start představuje zásadní změnu v přístupu Microsoftu k organizaci aplikací. Hlavní oblast nyní zobrazuje seznam aplikací místo připnutých položek, přičemž uživatelé mohou volit mezi kategorizovaným zobrazením, které seskupuje aplikace podobně jako na iPadu nebo iPhonu, a klasickým abecedním seznamem. Microsoft popisuje nový design jako nástroj pro rychlejší a plynulejší přístup k aplikacím.
 
-Výrazně se rozšířily možnosti přizpůsobení. Uživatelé mohou vypnout sekci Doporučené a místo ní připnout více aplikací, nebo dokonce odstranit jak sekci Doporučené, tak Připnuté aplikace a ponechat pouze seznam všech aplikací. Tato flexibilita reaguje na časté připomínky uživatelů, kteří požadovali větší kontrolu nad vzhledem nabídky Start.
+Významnou novinkou je možnost kompletního přizpůsobení menu Start. Uživatelé mohou vypnout sekci doporučených položek a místo toho připnout více aplikací, nebo dokonce odstranit jak doporučené, tak připnuté položky a ponechat pouze seznam aplikací. Tato flexibilita reaguje na časté kritiky původního designu Windows 11, který byl příliš rigidní.
 
-Integrace s Phone Link, službou pro propojení smartphonu s počítačem, získává nový panel přímo vedle nabídky Start. Odtud lze rychle zobrazit nedávné fotografie z telefonu, notifikace a odpovídat na textové zprávy nebo zobrazit obrazovku telefonu bez nutnosti otevírat samostatnou aplikaci.
+Integrace Phone Link přímo do menu Start umožňuje zobrazit nedávné fotografie a oznámení z telefonu, odpovídat na textové zprávy nebo zobrazit obrazovku telefonu bez nutnosti otevírat samostatnou aplikaci. Panel se objevuje vedle menu Start a poskytuje rychlý přehled o aktivitě na smartphonu.
 
-Hlavní panel dostává praktické vylepšení v podobě přepracované ikony baterie. Ta je nyní větší, lépe viditelná a při nízkém stavu nabití se zbarví žlutě. Uživatelé navíc mohou přímo na hlavním panelu zobrazit procenta baterie, což byla dlouho požadovaná funkce.
-
-Průzkumník souborů také prochází aktualizací, která přináší nové funkce pro efektivnější správu souborů, i když konkrétní detaily těchto vylepšení nebyly plně specifikovány.
+Hlavní panel získává vylepšenou ikonu baterie, která je větší, při nízkém stavu nabití se zbarví žlutě a umožňuje zobrazit procentuální stav baterie přímo na panelu. Průzkumník souborů také prochází aktualizacemi, jejichž detaily Microsoft postupně odhaluje.
 
 ## Proč je to důležité
 
-Tato aktualizace představuje významný krok v evoluci Windows 11, který byl při svém uvedení kritizován za omezenou funkcionalitu nabídky Start a hlavního panelu ve srovnání s Windows 10. Microsoft nyní reaguje na zpětnou vazbu uživatelů a vrací některé funkce, které při přechodu na Windows 11 chyběly.
+Tato aktualizace ukazuje, že Microsoft aktivně reaguje na zpětnou vazbu uživatelů ohledně Windows 11. Původní menu Start bylo kritizováno za omezenou funkcionalitu a nedostatek možností přizpůsobení ve srovnání s Windows 10. Nový přístup nabízí větší flexibilitu a zároveň modernizuje uživatelské rozhraní.
 
-Zvýšená integrace s mobilními zařízeními prostřednictvím Phone Link ukazuje snahu Microsoftu o vytvoření propojenějšího ekosystému napříč zařízeními, podobně jako to dělá Apple s funkcemi Continuity mezi macOS a iOS. Pro uživatele to znamená plynulejší práci při přepínání mezi počítačem a smartphonem.
-
-Skutečnost, že aktualizace prošla do kanálu Release Preview, naznačuje vysokou míru stability a připravenosti pro masové nasazení. Uživatelé Windows 11 se tak mohou těšit na tyto novinky v horizontu několika týdnů, pravděpodobně formou běžné kumulativní aktualizace.
+Integrace funkcí pro propojení s telefonem přímo do základních prvků systému odráží rostoucí důraz na ekosystémové propojení napříč zařízeními, kde Microsoft konkuruje Applu a jeho Continuity funkcím. Pro běžné uživatele to znamená pohodlnější práci s více zařízeními současně bez nutnosti přepínání mezi aplikacemi.
 
 ---
 

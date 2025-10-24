@@ -8,9 +8,9 @@ companies:
 
   žádné'
 date: '2025-10-21 09:33:56'
-description: Rostoucí poptávka po výpočetním výkonu pro AI vede některé firmy k plánům
-  umístit datová centra na oběžnou dráhu. Evropský projekt ASCEND zkoumá proveditelnost
-  této vize.
+description: Rostoucí poptávka po výpočetním výkonu pro AI tlačí některé firmy k radikálnímu
+  řešení - umístění datových center na oběžnou dráhu. Evropský projekt ASCEND zkoumá
+  proveditelnost této vize.
 importance: 3
 layout: tech_news_article
 original_title: Why these companies want to send data centers into space - CNN
@@ -28,29 +28,29 @@ urlToImageBackup: https://media.cnn.com/api/v1/images/stellar/prod/20250828-data
 
 ## Souhrn
 
-Rozvoj umělé inteligence způsobuje prudký nárůst poptávky po datových centrech, která však spotřebovávají obrovské množství energie a vyžadují rozsáhlé pozemky. Evropský projekt ASCEND nyní zkoumá možnost umístění datových center do vesmíru, kde by mohla využívat nepřetržitou solární energii a snížit tak emise CO2.
+Rozvoj umělé inteligence výrazně zvyšuje poptávku po datových centrech, která však spotřebovávají obrovské množství energie a vyžadují rozsáhlé pozemky. Podle Goldman Sachs vzroste spotřeba energie datových center do roku 2030 o 165 %. Některé společnosti proto zkoumají možnost umístit datová centra do vesmíru, kde by měla neomezený přístup k solární energii.
 
 ## Klíčové body
 
-- Podle Goldman Sachs vzroste spotřeba energie datových center do roku 2030 o 165 %
-- Francouzská společnost Thales Alenia Space vedla studii financovanou Evropskou komisí o proveditelnosti vesmírných datových center
-- Klíčovou podmínkou je vývoj nosné rakety s 10× nižšími emisemi uhlíku než současné modely
-- Vesmír nabízí nepřetržitý přístup k solární energii bez vlivu počasí, noci nebo ročních období
-- Projekt zatím čelí významným technologickým překážkám
+- Evropský projekt ASCEND vedený francouzskou společností Thales Alenia Space zkoumá proveditelnost vesmírných datových center pro snížení emisí CO2
+- Vesmír nabízí nepřetržitý přístup k solární energii bez vlivu oblačnosti, nočních hodin nebo ročních období
+- Studie z roku 2024 identifikovala zásadní překážku: nosné rakety by musely produkovat 10× méně emisí než současné modely
+- Emise z raketových startů sice představují zlomek emisí leteckého průmyslu, ale uvolňují znečišťující látky ve vyšších vrstvách atmosféry, kde přetrvávají déle
+- Realizace konceptu závisí na technologických průlomech v několika oblastech
 
 ## Podrobnosti
 
-Dataová centra představují stále větší problém z hlediska energetické náročnosti a prostorových požadavků. Tyto skladištní komplexy plné serverů zpracovávají a ukládají data, přičemž jejich provoz generuje značné emise CO2. Ačkoliv některá centra využívají obnovitelné zdroje energie nebo mají vlastní solární a větrné farmy, i tyto řešení vyžadují rozsáhlé pozemky.
+Projekt ASCEND (Advanced Space Cloud for European Net zero emission and Data sovereignty) představuje ambiciózní pokus řešit rostoucí energetické nároky digitální infrastruktury. Datová centra, která jsou v podstatě rozsáhlé sklady plné serverů zpracovávajících a ukládajících data, dnes čelí dvěma zásadním problémům: potřebují velké pozemky a spotřebovávají enormní množství elektřiny.
 
-Evropský projekt ASCEND se zaměřuje na demonstraci proveditelnosti vesmírných datových center jako způsobu snížení emisí. Studie společnosti Thales Alenia Space, která se zabývá vývojem kosmických systémů a satelitů, dospěla k závěru, že umístění datových center na oběžnou dráhu by mohlo nabídnout ekologičtější řešení díky nepřetržitému přístupu k solární energii.
+Ačkoli některá současná datová centra využívají obnovitelné zdroje energie nebo mají solární a větrné elektrárny přímo na místě, i tyto čisté zdroje vyžadují fyzický prostor. Umístění do vesmíru by tento problém obešlo a zároveň poskytlo přístup k nepřetržité solární energii bez atmosférických vlivů.
 
-Xavier Roser z Thales Alenia Space však upozorňuje, že realizace je podmíněna pokrokem v několika technologických oblastech. Klíčovým problémem jsou emise z raketových startů. Ačkoliv celkové emise z raketových nosičů představují zatím jen zlomek emisí leteckého průmyslu, rakety vypouštějí znečišťující látky ve vyšších vrstvách atmosféry, kde přetrvávají déle.
+Studie společnosti Thales Alenia Space, financovaná Evropskou komisí, dospěla k závěru, že vesmírná datová centra by mohla nabídnout "ekologičtější a suverénnější řešení pro hosting a zpracování dat". Xavier Roser z Thales Alenia Space však upozorňuje, že realizace je podmíněna významnými technologickými pokroky.
 
-Studie ASCEND odhaduje, že aby vesmírná datová centra skutečně snížila uhlíkovou stopu ve srovnání s pozemními protějšky, bylo by nutné vyvinout nosnou raketu s emisemi o 90 % nižšími než u současných modelů. Není však jasné, zda je takový raketový systém vůbec ve vývoji.
+Klíčovou překážkou je paradoxně environmentální dopad samotných raketových startů. Ačkoli celkové emise z raket jsou dnes pouze zlomkem emisí leteckého průmyslu, rakety vypouštějí znečišťující látky ve vysokých vrstvách atmosféry, kde přetrvávají podstatně déle než emise z letadel. Studie ASCEND odhaduje, že pro skutečné snížení uhlíkové stopy ve srovnání s pozemními datacentry by bylo nutné vyvinout nosnou raketu s 10× nižšími emisemi během celého životního cyklu oproti současným modelům.
 
 ## Proč je to důležité
 
-Projekt ASCEND ilustruje rostoucí tlak na technologický průmysl v oblasti energetické náročnosti AI. Zatímco vesmírná datová centra mohou znít jako futuristické řešení, reálná proveditelnost zůstává nejistá. Projekt ukazuje, že i při využití nepřetržité solární energie ve vesmíru by ekologický přínos mohl být negován emisemi z raketových startů potřebných k vynesení a údržbě infrastruktury na oběžné dráze. Otázkou zůstává, zda by investice do takto radikálního řešení nebyly efektivněji využity pro zlepšení energetické účinnosti pozemních datových center nebo rozvoj čistších zdrojů energie.
+Koncept vesmírných datových center ilustruje rostoucí tlak na technologický průmysl v souvislosti s energetickou náročností AI. Zatímco velké jazykové modely a další AI systémy vyžadují stále více výpočetního výkonu, otázka udržitelnosti se stává kritickou. Projekt ASCEND ukazuje, že i zdánlivě futuristická řešení jsou dnes předmětem vážného technického zkoumání. Zároveň však odhaluje fundamentální paradox: snaha o ekologičtější řešení by v krátkodobém horizontu mohla vést k vyšším emisím kvůli raketovým startům. Není jasné, zda a kdy budou k dispozici dostatečně čisté nosné rakety, což celý koncept zatím ponechává v rovině teoretických studií.
 
 ---
 

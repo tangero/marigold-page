@@ -5,8 +5,8 @@ companies:
 - Apple
 date: '2025-10-22 18:12:50'
 description: Samsung představil Galaxy XR, první zařízení s novým systémem Android
-  XR od Googlu. Headset s pokročilým hardwarem stojí 1 800 dolarů a konkuruje Apple
-  Vision Pro.
+  XR od Googlu. Headset s Micro-OLED displeji a pokročilým sledováním rukou stojí
+  1 800 dolarů a konkuruje Apple Vision Pro.
 importance: 4
 layout: tech_news_article
 original_title: Samsung Galaxy XR is the first Android XR headset, now on sale for
@@ -25,31 +25,31 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung
 
 ## Souhrn
 
-Samsung uvedl na trh Galaxy XR, první headset využívající novou platformu Android XR od Googlu. Zařízení je k dispozici v předprodeji za 1 800 dolarů bez ovladačů a představuje třetí pokus Googlu o etablování Androidu ve světě virtuální a rozšířené reality. Headset kombinuje pokročilý hardware s designem podobným Apple Vision Pro, včetně externí baterie na kabelu.
+Samsung uvedl na trh Galaxy XR, první headset využívající nový operační systém Android XR od Googlu. Zařízení je k dispozici v předprodeji za 1 800 dolarů bez ovladačů a představuje třetí pokus Googlu etablovat Android ve světě virtuální a rozšířené reality. Headset přímo konkuruje Apple Vision Pro, se kterým sdílí podobný design včetně externího bateriového packu.
 
 ## Klíčové body
 
-- Cena 1 800 dolarů bez ovladačů, dostupné v předprodeji
-- Hardware: 16GB RAM, 256GB úložiště, Snapdragon XR2+ Gen 2
-- Displeje: dva Micro-OLED panely s rozlišením 3 552 × 3 840 pixelů, 109° zorné pole
-- 12 kamer pro passthrough video, sledování rukou, očí a odemykání pomocí duhovky
+- Cena 1 800 dolarů bez ovladačů, k dispozici v předprodeji
+- Dva Micro-OLED displeje s rozlišením 3 552 x 3 840 pixelů na oko (109° zorné pole)
+- Procesor Snapdragon XR2+ Gen 2, 16 GB RAM, 256 GB úložiště
+- Celkem 12 kamer pro passthrough video, sledování rukou, očí a odemykání pomocí duhovky
 - Výdrž baterie 2-2,5 hodiny, hmotnost 545 gramů
 
 ## Podrobnosti
 
-Galaxy XR představuje Googleův třetí pokus o zavedení Androidu do oblasti headsetu pro virtuální a rozšířenou realitu. Předchozí dva pokusy selhaly, ale tentokrát Google vsadil na partnerství se Samsungem a novou platformu Android XR optimalizovanou pro éru umělé inteligence.
+Galaxy XR představuje Googleův třetí pokus o zavedení Androidu do oblasti virtuální reality, tentokrát v partnerství se Samsungem a s důrazem na umělou inteligenci. Headset využívá plně uzavřenou konstrukci s passthrough videem, což znamená, že uživatel vidí okolní svět prostřednictvím kamer streamujících obraz na displeje, na který software může přidávat virtuální prvky.
 
-Hardwarová výbava je na vysoké úrovni. Procesor Snapdragon XR2+ Gen 2 je mírně novější verzí čipu používaného v Meta Quest 3, disponuje šesti CPU jádry a GPU Adreno podporujícím až dva 4,3K displeje. Skutečné displeje nabízejí rozlišení 3 552 × 3 840 pixelů na oko, což je o něco více než u Apple Vision Pro a téměř třikrát více než u Quest 3. Micro-OLED technologie zajišťuje vysokou kvalitu obrazu s obnovovací frekvencí až 90Hz, standardně nastavenou na 72Hz kvůli úspoře energie.
+Hardwarová výbava je solidní. Procesor Snapdragon XR2+ Gen 2 je mírně novější verzí čipu z Meta Quest 3, disponuje šesti CPU jádry a GPU Adreno podporujícím až duální 4,3K displeje. Micro-OLED panely nabízejí mírně vyšší rozlišení než Vision Pro a téměř trojnásobek pixelů oproti Quest 3. Displeje podporují obnovovací frekvenci až 90 Hz, výchozí nastavení je však 72 Hz kvůli úspoře energie.
 
-Zařízení je osazeno celkem 12 kamerami. Dvě stereoskopické kamery s rozlišením 6,5 MP streamují okolí na displeje a umožňují přidávání virtuálních prvků do reálného prostředí. Šest dalších kamer slouží k určování polohy headsetu a sledování rukou. Čtyři vnitřní kamery sledují pohyb očí a umožňují biometrické odemykání pomocí skenování duhovky, včetně automatického vyplňování hesel ve vybraných aplikacích.
+Kamerový systém je rozsáhlý: dva 6,5 MP stereoskopické snímače pro passthrough video, šest dalších kamer pro pozicování headsetu a sledování rukou, plus čtyři vnitřní kamery pro sledování očí a skenování duhovky. Biometrické odemykání pomocí duhovky funguje i pro vyplňování hesel ve vybraných aplikacích.
 
-Výdrž baterie dosahuje dvou hodin při běžném používání nebo dvou a půl hodiny při sledování videa. To není příliš dlouhá doba, ale hmotnost 545 gramů může být při delším nošení nepříjemná. Headset se dodává bez ovladačů, ovládání je tedy plně založeno na sledování rukou a očí.
+Výdrž baterie 2-2,5 hodiny je poměrně krátká, což může omezit praktické využití zařízení. Hmotnost 545 gramů je srovnatelná s konkurencí, ale při delším nošení může být zatěžující.
 
 ## Proč je to důležité
 
-Galaxy XR je významný především jako první komerční produkt s Android XR, což může změnit dynamiku trhu s headsety. Zatímco Meta dominuje s Quest zařízeními a Apple vstoupil s prémiovou Vision Pro, Samsung a Google se snaží etablovat třetí ekosystém. Cena 1 800 dolarů je sice výrazně nižší než 3 500 dolarů za Vision Pro, ale stále výrazně vyšší než u Quest 3.
+Galaxy XR je významný především jako první implementace Android XR, nové platformy, která má ambici sjednotit ekosystém pro virtuální a rozšířenou realitu na Androidu. Předchozí pokusy Googlu (Daydream, Cardboard) selhaly kvůli nedostatečné podpoře vývojářů a hardwaru. Tentokrát Google vsází na partnerství se Samsungem a na integraci AI funkcí.
 
-Úspěch této platformy bude záviset na podpoře vývojářů a dostupnosti aplikací. Google má zkušenosti s předchozími neúspěchy v této oblasti (Google Cardboard, Daydream), což vyvolává otázky o dlouhodobé podpoře. Partnerství se Samsungem však může zajistit stabilnější základnu než předchozí pokusy.
+Cena 1 800 dolarů sice není tak vysoká jako u Vision Pro (3 499 dolarů), ale stále představuje významnou bariéru pro masové přijetí. Absence ovladačů v balení naznačuje důraz na sledování rukou, což může být pro některé aplikace limitující. Headset bude muset prokázat, že nabízí dostatečnou hodnotu oproti levnějšímu Meta Quest 3, který stojí zlomek ceny a má etablovaný ekosystém aplikací.
 
 ---
 
