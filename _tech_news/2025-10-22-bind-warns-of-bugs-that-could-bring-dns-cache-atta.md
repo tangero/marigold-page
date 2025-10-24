@@ -1,9 +1,9 @@
 ---
 category: kybernetická bezpečn
 date: '2025-10-22 22:35:41'
-description: Vývojáři nejpoužívanějšího DNS softwaru BIND odhalili dvě kritické zranitelnosti
+description: Tvůrci nejpoužívanějšího DNS softwaru BIND odhalili dvě kritické zranitelnosti
   umožňující otrávení cache a přesměrování uživatelů na falešné stránky. Připomínají
-  slavný Kaminského útok z roku 2008.
+  slavný Kaminsky útok z roku 2008.
 importance: 4
 layout: tech_news_article
 original_title: BIND warns of bugs that could bring DNS cache attack back from the
@@ -22,29 +22,29 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser
 
 ## Souhrn
 
-Vývojáři BIND, nejrozšířenějšího softwaru pro překlad doménových jmen na internetu, varují před dvěma kritickými zranitelnostmi s hodnocením závažnosti 8,6 z 10. Chyby umožňují útočníkům otrávit celou cache DNS resolverů a přesměrovat uživatele na podvodné stránky, které jsou k nerozeznání od skutečných. Podobné zranitelnosti byly objeveny i v konkurenčním softwaru Unbound.
+Vývojáři BIND, nejrozšířenějšího softwaru pro překlad doménových jmen na internetu, varují před dvěma kritickými zranitelnostmi s hodnocením závažnosti 8,6 z 10. Chyby umožňují útočníkům otrávit celou cache DNS resolverů a přesměrovat uživatele na podvodné stránky, které jsou k nerozeznání od legitimních. Situace připomína slavný bezpečnostní problém objevený Danem Kaminským v roce 2008.
 
 ## Klíčové body
 
-- Zranitelnosti CVE-2025-40778 a CVE-2025-40780 vznikly kvůli logické chybě a slabosti v generování pseudonáhodných čísel
-- Útoky připomínají slavný Kaminského útok z roku 2008, který tehdy představoval jednu z nejzávažnějších bezpečnostních hrozeb internetu
-- Útočníci mohou nahradit legitimní IP adresy (například 3.15.119.63 pro arstechnica.com) vlastními škodlivými adresami
+- Zranitelnosti CVE-2025-40778 a CVE-2025-40780 postihují BIND, software používaný tisíci organizacemi pro překlad DNS
+- První chyba vznikla logickou chybou v kódu, druhá slabostí v generování pseudonáhodných čísel
+- Podobné zranitelnosti (s hodnocením 5,6) byly objeveny i v konkurenčním DNS resolveru Unbound
+- Útoky umožňují nahradit legitimní IP adresy (například 3.15.119.63 pro arstechnica.com) adresami kontrolovanými útočníky
 - Záplaty pro všechny tři zranitelnosti byly vydány ve středu
-- Software Unbound hlásí podobnou zranitelnost s nižším hodnocením závažnosti 5,6
 
 ## Podrobnosti
 
-DNS (Domain Name System) funguje jako telefonní seznam internetu - překládá lidsky čitelné doménové názvy na IP adresy, které počítače používají ke komunikaci. BIND je dominantním softwarem pro tuto úlohu a používají ho tisíce organizací po celém světě.
+DNS (Domain Name System) funguje jako telefonní seznam internetu - překládá lidsky čitelná doménová jména na IP adresy, které počítače používají ke komunikaci. BIND je dominantním softwarem pro tuto úlohu a jeho zranitelnosti proto představují systémové riziko pro celý internet.
 
-Obě nově objevené zranitelnosti umožňují provést útok zvaný DNS cache poisoning (otrávení DNS cache). Při něm útočník dokáže podstrčit DNS resolveru falešné záznamy, které se uloží do cache a následně jsou poskytovány všem uživatelům dané organizace. Pokud by například útočník otrávil cache pro doménu banky, všichni zaměstnanci nebo zákazníci by byli přesměrováni na podvodnou stránku vypadající identicky jako ta skutečná.
+Obě nově objevené chyby umožňují takzvané otrávení DNS cache (cache poisoning). Útočník může zneužít těchto zranitelností k tomu, aby DNS resolver - server, který překládá doménová jména - uložil do své cache falešné záznamy. Když pak uživatelé zadají například adresu banky nebo e-mailové služby, resolver jim vrátí IP adresu kontrolovanou útočníkem místo legitimní adresy. Uživatelé se tak dostanou na podvodnou stránku, aniž by to poznali - v prohlížeči se zobrazí správná doména, ale obsah pochází z útočníkova serveru.
 
-První zranitelnost (CVE-2025-40778) vznikla kvůli logické chybě v kódu, zatímco druhá (CVE-2025-40780) je způsobena nedostatečně kvalitním generátorem pseudonáhodných čísel. Tento problém je obzvláště závažný, protože náhodná čísla jsou klíčová pro bezpečnostní mechanismy DNS.
+První zranitelnost (CVE-2025-40778) vznikla logickou chybou v implementaci, zatímco druhá (CVE-2025-40780) je způsobena nedostatečně kvalitním generátorem pseudonáhodných čísel. Problém je obzvláště závažný, protože DNS tradičně používá UDP protokol, který na rozdíl od TCP neposkytuje mechanismy pro ověřování identity komunikujících stran.
 
-Situace připomína rok 2008, kdy bezpečnostní výzkumník Dan Kaminsky odhalil podobnou zranitelnost, která představovala existenční hrozbu pro bezpečnost internetu. Tehdy bylo nutné koordinované úsilí tisíců poskytovatelů DNS služeb a výrobců prohlížečů, aby byla implementována ochrana. Problém tehdy spočíval v použití UDP paketů, které jsou jednosměrné a neumožňují DNS resolverům ověřit identitu autoritativních serverů pomocí hesel nebo jiných přihlašovacích údajů.
+Situace připomíná rok 2008, kdy bezpečnostní výzkumník Dan Kaminsky odhalil fundamentální zranitelnost v DNS, která umožňovala právě tento typ útoku. Tehdy byla potřeba koordinovaná celosvětová akce tisíců poskytovatelů DNS služeb, výrobců prohlížečů a dalších aplikací, aby byla implementována obrana. Nové zranitelnosti potenciálně oslabují právě tyto obranné mechanismy zavedené po Kaminského odhalení.
 
 ## Proč je to důležité
 
-Objevení těchto zranitelností ukazuje, že DNS cache poisoning zůstává reálnou hrozbou i po sedmnácti letech od Kaminského objevu. Úspěšný útok by mohl mít devastující důsledky - útočníci by mohli přesměrovat miliony uživatelů na phishingové stránky bank, e-shopů nebo jiných služeb bez jakéhokoli viditelného varování. Organizace používající BIND nebo Unbound by měly okamžitě aplikovat dostupné záplaty. Vysoké hodnocení závažnosti 8,6 odráží potenciální dopad na bezpečnost celého internetu a nutnost rychlé reakce administrátorů po celém světě.
+DNS představuje kritickou infrastrukturu internetu a její kompromitace má dalekosáhlé důsledky. Na rozdíl od phishingových útoků, kde útočník musí přesvědčit oběť ke kliknutí na podezřelý odkaz, otrávení DNS cache postihuje všechny uživatele dané organizace automaticky. Administrátoři serverů používajících BIND nebo Unbound by měli okamžitě aplikovat vydané záplaty. Zranitelnost s hodnocením 8,6 patří mezi vysoce kritické a její zneužití by mohlo vést k rozsáhlým phishingovým kampaním, krádeži přihlašovacích údajů nebo šíření malwaru v dosud nevídaném měřítku.
 
 ---
 

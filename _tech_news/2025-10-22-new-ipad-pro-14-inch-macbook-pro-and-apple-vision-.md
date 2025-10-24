@@ -3,9 +3,9 @@ category: hardware
 companies:
 - Apple
 date: '2025-10-22 15:00:33'
-description: Apple dnes uvedl na trh nové generace iPad Pro v 11" a 13" verzích, MacBook
-  Pro 14" a Vision Pro, všechny osazené čipem M5. Zařízení jsou k dispozici v Apple
-  Store a online.
+description: Apple dnes uvedl na trh nové generace iPad Pro v 11 a 13palcové verzi,
+  MacBook Pro 14 palců a Vision Pro, všechny osazené čipem M5. Zařízení jsou dostupná
+  v prodejnách i online.
 importance: 4
 layout: tech_news_article
 original_title: New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available
@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Apple Newsroom
-title: Apple zahájil prodej iPad Pro, MacBook Pro 14" a Vision Pro s čipem M5
+title: Apple zahájil prodej iPad Pro, MacBook Pro 14 a Vision Pro s čipem M5
 url: https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/
 urlToImage: https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/tile/Apple-October-2025-new-products-lp.jpg.og.jpg?202510221755
 urlToImageBackup: https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/tile/Apple-October-2025-new-products-lp.jpg.og.jpg?202510221755
@@ -24,33 +24,33 @@ urlToImageBackup: https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-
 
 ## Souhrn
 
-Apple dnes zahájil prodej nové generace svých klíčových produktů - iPad Pro, MacBook Pro 14" a Vision Pro, které spojuje použití nového čipu M5. Všechna zařízení jsou k dispozici v kamenných prodejnách Apple Store, na webu apple.com i v mobilní aplikaci Apple Store.
+Apple dnes zahájil prodej nové generace svých klíčových produktů – iPad Pro, MacBook Pro 14 palců a Vision Pro, které spojuje použití nového čipu M5. Zařízení jsou k dispozici v Apple Store prodejnách, na webu apple.com a v mobilní aplikaci Apple Store.
 
 ## Klíčové body
 
-- iPad Pro s M5 dostupný v 11" a 13" variantách, běží na iPadOS 26
-- MacBook Pro 14" nabízí až 24 hodin výdrže baterie, rychlejší úložiště a operační systém macOS Tahoe
-- Vision Pro s M5 přináší vylepšené vykreslování obrazu, delší výdrž baterie a nový Dual Knit Band
-- Všechna zařízení sdílejí čip M5 s důrazem na výkon při AI úlohách
-- K dispozici konfigurace na míru, příslušenství a služba AppleCare
+- Všechna tři zařízení využívají nový čip M5, který přináší výrazné zvýšení výkonu zejména pro AI úlohy
+- iPad Pro je dostupný v 11palcové a 13palcové verzi s operačním systémem iPadOS 26
+- MacBook Pro 14 nabízí až 24 hodin výdrže baterie, rychlejší úložiště a běží na macOS Tahoe
+- Vision Pro získal vylepšený výkon, lepší vykreslování obrazu, delší výdrž baterie a nový pohodlnější Dual Knit Band
+- Zákazníci mohou využít konfigurace na míru a personalizované nákupní poradenství přes chat, telefon nebo video hovor
 
 ## Podrobnosti
 
-Nový iPad Pro představuje podle Applu nejpokročilejší verzi tabletu v historii firmy. Kombinace čipu M5 a operačního systému iPadOS 26 má uživatelům umožnit využívat zařízení pro náročnější úkoly než dosud. Apple zdůrazňuje ultraportabilní design při zachování vysokého výkonu.
+Nový iPad Pro s čipem M5 představuje podle Applu dosud nejpokročilejší verzi tabletu. Kombinace hardwaru a operačního systému iPadOS 26 má uživatelům umožnit využívat zařízení pro náročnější pracovní úlohy. Ultratenký design zůstává zachován, přičemž výkon se výrazně zvyšuje.
 
-MacBook Pro 14" se zaměřuje na výrazné zlepšení celkového výkonu a především na akceleraci AI úloh. Výdrž baterie až 24 hodin představuje významný parametr pro mobilní práci. Zařízení běží na nové verzi operačního systému macOS Tahoe, která byla navržena s ohledem na možnosti čipu M5. Apple také zmiňuje rychlejší úložiště, konkrétní parametry ale nejsou v dostupných informacích uvedeny.
+MacBook Pro 14 palců přináší podle Applu výrazný skok v celkovém výkonu a zejména v oblasti zpracování AI úloh. Výdrž baterie až 24 hodin řadí tento model mezi notebooky s nejdelší výdrží na trhu. Rychlejší úložiště má zlepšit práci s velkými soubory a náročnými aplikacemi. Nový operační systém macOS Tahoe přináší redesignované rozhraní.
 
-Apple Vision Pro, headset pro rozšířenou a virtuální realitu, dostává s čipem M5 vylepšené vykreslování obrazu a delší výdrž baterie. Nová verze také přináší Dual Knit Band - pravděpodobně vylepšený hlavový pásek pro pohodlnější nošení. Vylepšený výkon má zlepšit celkovou uživatelskou zkušenost při práci s prostorovým počítáním.
+Apple Vision Pro, headset pro prostorové výpočty představený v roce 2024, získává s čipem M5 vylepšený výkon při vykreslování obrazu, což je klíčové pro plynulý zážitek ve virtuální a rozšířené realitě. Delší výdrž baterie řeší jeden z hlavních problémů první generace. Nový Dual Knit Band má zlepšit pohodlí při delším nošení.
 
-Apple nabízí zákazníkům možnost konfigurace zařízení na míru přímo při objednávce, nákup příslušenství a rozšířené záruky AppleCare. Dostupná je jak osobní odběr v prodejnách, tak doručení domů. Firma také poskytuje službu Shop with a Specialist, kde zákazníci mohou konzultovat nákup přes chat, telefon nebo jednosměrné video s pracovníky Apple Store.
+Apple rozšiřuje nákupní služby – zákazníci mohou využít personalizované poradenství přes Shop with a Specialist službu, která funguje přes chat, telefon nebo jednosměrný video hovor. Tato služba má pomoci vybrat správnou konfiguraci podle konkrétních potřeb.
 
 ## Proč je to důležité
 
-Uvedení tří klíčových produktových linií Apple s novým čipem M5 představuje významný krok v ekosystému firmy. Společné nasazení M5 napříč tabletem, notebookem i AR/VR headsetem ukazuje strategii Apple sjednotit výkonnostní platformu a optimalizovat software pro konkrétní hardware.
+Uvedení čipu M5 napříč produktovou řadou ukazuje Applovu strategii vlastních procesorů a důraz na výkon pro AI aplikace. Jde o pokračování trendu, kdy Apple opustil procesory Intel a AMD ve prospěch vlastních ARM čipů. Důraz na AI výkon odráží rostoucí význam strojového učení v běžných aplikacích – od zpracování fotografií přes editaci videa až po hlasové asistenty.
 
-Zvláštní důraz na výkon při AI úlohách odráží obecný trend v technologickém průmyslu, kde se AI zpracování stává standardní součástí běžných zařízení. Apple tak reaguje na konkurenci, která podobné schopnosti již implementovala nebo připravuje.
+Synchronizované uvedení tří produktových kategorií s jedním čipem je neobvyklé a naznačuje, že Apple má dostatečnou výrobní kapacitu pro pokročilé čipy. Pro konkurenci, zejména Intel, AMD a Qualcomm, to představuje další tlak v oblasti výkonu a energetické efektivity.
 
-Pro trh AR/VR je aktualizace Vision Pro důležitým signálem, že Apple pokračuje v investicích do této kategorie navzdory omezenému přijetí první generace. Vylepšení výkonu a pohodlí nošení řeší dvě hlavní kritiky původního produktu.
+Výdrž 24 hodin u MacBooku Pro a vylepšená baterie u Vision Pro ukazují, že Apple reaguje na kritiku kratší výdrže u předchozích generací. Pro profesionální uživatele je to klíčový parametr, který může ovlivnit rozhodování mezi platformami.
 
 ---
 
