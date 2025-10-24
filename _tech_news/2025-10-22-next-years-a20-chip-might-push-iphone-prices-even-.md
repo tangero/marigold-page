@@ -4,7 +4,7 @@ companies:
 - Apple
 date: '2025-10-22 16:40:00'
 description: Podle zpráv z Číny by mohl přechod na 2nm výrobní proces u čipu A20 zvýšit
-  náklady o 50 %, což může vést k dalšímu zdražení iPhonů.
+  náklady o 50 %, což může vést k dalšímu zdražení iPhonů v roce 2026.
 importance: 2
 layout: tech_news_article
 original_title: Next year’s A20 chip might push iPhone prices even higher - 9to5Mac
@@ -14,17 +14,17 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Čip A20 v příštím roce může výrazně zvýšit ceny iPhonů
+title: Čip A20 v příštích iPhonech může výrazně zvýšit jejich cenu
 url: https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-14.11.19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-14.11.19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Podle zprávy čínského deníku China Times by mohl čip A20, který Apple plánuje použít v iPhonech příštího roku, výrazně zvýšit cenu těchto zařízení. Důvodem jsou náklady spojené s přechodem na nový 2nanometrový výrobní proces u tchajwanské společnosti TSMC.
+Podle zprávy čínského deníku China Times by mohl být čip A20, který Apple plánuje použít v iPhonech příštího roku, výrazně dražší kvůli přechodu na nový 2nm výrobní proces. Společnost TSMC, která čipy pro Apple vyrábí, údajně investovala značné prostředky do vývoje této technologie a není ochotna na ceně vyjednávat jako obvykle. Zpráva hovoří o nárůstu nákladů nejméně o 50 % oproti současnému 3nm procesu.
 
-TSMC investovala značné prostředky do vývoje 2nm procesu a podle zprávy není ochotna na cenách vyjednávat ani poskytovat obvyklé slevy. Nový výrobní proces má přijít s nejméně 50% navýšením ceny oproti současnému 3nm procesu. Přesné finanční detaily partnerství mezi Applem a TSMC nejsou veřejné, ale takové zvýšení by mohlo mít významný dopad na celkové náklady.
+Apple letos již zvýšil ceny modelů iPhone 17 Pro a iPhone Air oproti jejich předchůdcům. Pokud se informace o zdražení čipů potvrdí, mohlo by to vést k dalšímu nárůstu cen v roce 2026. Není však jisté, zda Apple náklady přenese na zákazníky – základní iPhone 17 zůstal na ceně 799 dolarů a zaznamenal neobvykle vysokou poptávku. Apple by mohl zvýšit cenu u některých modelů, nebo naopak ušetřit vynecháním jiných plánovaných funkcí.
 
-Letos Apple zvýšil vstupní ceny u modelů iPhone 17 Pro a iPhone Air oproti jejich předchůdcům. Základní iPhone 17 zůstal na ceně 799 dolarů a zaznamenal neobvykle vysokou poptávku. Není jisté, zda by Apple přenesl vyšší náklady na zákazníky, ale pokud budou nárůsty dostatečně výrazné, může k tomu být nucen alespoň u některých modelů. Do uvedení nových iPhonů zbývá téměř rok, takže Apple pravděpodobně stále finalizuje detaily řady iPhone 18.
+Jde zatím pouze o spekulace založené na informacích o výrobních nákladech. Do uvedení iPhonů 18 zbývá téměř rok a Apple pravděpodobně stále finalizuje detaily produktové řady.
 
 ---
 
