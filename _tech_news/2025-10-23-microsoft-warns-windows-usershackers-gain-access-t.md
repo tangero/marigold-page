@@ -3,8 +3,9 @@ category: kybernetická bezpečn
 companies:
 - Microsoft
 date: '2025-10-23 09:51:21'
-description: Microsoft upozorňuje na bezprecedentní bezpečnostní riziko po ukončení
-  podpory Windows 10, které postihuje přibližně 400 milionů počítačů.
+description: Microsoft upozorňuje na bezpečnostní rizika spojená s koncem podpory
+  Windows 10, který postihuje přibližně 400 milionů počítačů. Nepodporované systémy
+  se stávají hlavním cílem kybernetických útoků.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft Warns Windows Users—Hackers Gain Access To PCs - Forbes
@@ -23,31 +24,29 @@ urlToImageBackup: https://imageio.forbes.com/specials-images/imageserve/6842b192
 
 ## Souhrn
 
-Microsoft vydal varování před bezpečnostními riziky nepodporovaných systémů Windows, především po ukončení podpory Windows 10 v říjnu 2024. Přibližně 400 milionů počítačů se ocitlo bez bezpečnostních aktualizací, což vytváří bezprecedentní příležitost pro kybernetické útoky. Společnost upozorňuje, že odkládání upgradu o "jen jeden rok" může mít fatální důsledky.
+Microsoft vydal varování před bezpečnostními riziky spojenými s nepodporovanými systémy Windows, především po ukončení podpory Windows 10 v říjnu 2024. Přibližně 400 milionů počítačů se ocitlo bez bezpečnostních aktualizací, což z nich činí snadný cíl pro hackery a ransomwarové útoky. Společnost upozorňuje na nebezpečí odkládání upgradu na Windows 11 nebo placené rozšířené podpory (ESU).
 
 ## Klíčové body
 
-- Windows 10 dosáhl konce životnosti, což postihuje přibližně 400 milionů počítačů bez rozšířené podpory ESU (Extended Security Updates)
-- Jde o historicky největší počet zařízení, která ztratila podporu v jediný den
-- Microsoft varuje před strategií kyberútočníků, kteří necílí přímo na nejcennější data, ale hledají slabá místa v zastaralých systémech
-- Windows 11 zároveň čelí vlastním problémům včetně nutnosti vydání nouzových aktualizací
-- Hlavním rizikem jsou ransomwarové útoky využívající nepodporované systémy jako vstupní body
+- Windows 10 dosáhl konce životnosti, což postihuje přibližně 400 milionů počítačů bez přístupu k bezpečnostním aktualizacím
+- Microsoft nabízí program ESU (Extended Security Updates) pro prodloužení podpory za poplatek
+- Uživatelé Windows 11 čelili v říjnu několika kritickým selháním vyžadujícím nouzové aktualizace
+- Kybernetičtí útočníci cíleně vyhledávají nepodporované systémy jako vstupní body pro ransomwarové útoky
+- Jde o bezprecedentní situaci – nikdy předtím nespadlo z podpory tolik zařízení najednou
 
 ## Podrobnosti
 
-Microsoft ve svém varování zaměřeném především na firemní sektor zdůrazňuje, že moderní kybernetické útoky fungují jinak, než si mnoho uživatelů představuje. Útočníci se nesnaží prolomit nejsilnější zabezpečení, místo toho systematicky vyhledávají slabá místa – zastaralé operační systémy, starší infrastrukturu a nepodporovaná koncová zařízení.
+Microsoft ve svém varování zdůrazňuje, že moderní kybernetické útoky nevyužívají přímou konfrontaci s nejlépe zabezpečenými systémy. Místo toho útočníci systematicky vyhledávají slabá místa v infrastruktuře – zastaralé operační systémy, starší technologie a právě nepodporované koncové body. Podle společnosti stačí, aby útočníci počkali, až uživatelé "nechají okno otevřené".
 
-Situace s Windows 10 je z historického hlediska unikátní. Nikdy předtím nespadlo takové množství zařízení z podpory najednou, což vytváří bezprecedentní bezpečnostní riziko. Společnost používá metaforu otevřeného okna: "Hackeři nepotřebují prolomit váš nejsilnější zámek. Stačí jim počkat, až necháte okno otevřené."
+Problém je obzvláště akutní u podnikových uživatelů, kde nepodporované systémy slouží jako vstupní brána pro ransomwarové útoky. Microsoft varuje před myšlením "ještě jeden rok to vydrží", které vede k odkládání nezbytných upgradů. Útočníci přitom dobře vědí, že mnoho firem bude s přechodem na nový systém otálet, a každý měsíc prodlení jim poskytuje předvídatelnou příležitost k útoku.
 
-Pro uživatele, kteří chtějí pokračovat v používání Windows 10, Microsoft nabízí program ESU (Extended Security Updates), který poskytuje další bezpečnostní aktualizace za poplatek. Bez této rozšířené podpory nebo upgradu na Windows 11 zůstávají počítače vystaveny známým zranitelnostem, pro které již nebudou vydávány opravy.
+Situace je komplikovaná i pro uživatele Windows 11, kteří v říjnu čelili několika závažným problémům vyžadujícím nouzové aktualizace. To vytváří paradoxní situaci, kdy ani přechod na podporovaný systém nezaručuje bezproblémový provoz.
 
-Problém komplikuje i situace kolem Windows 11, kde uživatelé čelili několika selháním a Microsoft musel vydat nouzové aktualizace. To může některé uživatele odrazovat od upgradu, čímž se dostávají do bezpečnostního vakua.
+Uživatelé Windows 10 mají v zásadě tři možnosti: upgrade na Windows 11 (pokud jejich hardware splňuje požadavky), zakoupení rozšířené podpory ESU, nebo ponechání systému bez aktualizací s vědomím bezpečnostních rizik. Microsoft jasně doporučuje první dvě varianty.
 
 ## Proč je to důležité
 
-Tato situace představuje jeden z největších bezpečnostních problémů v historii osobních počítačů. Čtyři sta milionů potenciálně zranitelných zařízení vytváří rozsáhlý útočný prostor pro kyberzločince, zejména pro ransomwarové skupiny. Firmy, které odkládají upgrade kvůli nákladům nebo kompatibilitě, riskují, že se stanou snadným terčem útoků.
-
-Z širší perspektivy jde o ukázku dlouhodobého problému technologického průmyslu – jak vyvážit inovace s podporou starších systémů. Microsoft čelí kritice za relativně krátký životní cyklus Windows 10 a přísné hardwarové požadavky Windows 11, které mnohé funkční počítače činí nekompatibilními. Zároveň však nelze popřít, že provoz nepodporovaných systémů představuje reálné bezpečnostní riziko nejen pro jednotlivé uživatele, ale i pro celý ekosystém internetu.
+Jde o bezprecedentní bezpečnostní situaci v historii Windows. Nikdy předtím nespadlo z podpory takové množství aktivně používaných zařízení najednou. Čtyři sta milionů potenciálně zranitelných počítačů představuje obrovskou útočnou plochu pro kyberzločince. Pro podniky to znamená nutnost rychlého rozhodnutí mezi nákladným upgradem hardwaru, placením za rozšířenou podporu, nebo riskováním bezpečnostního incidentu. Pro domácí uživatele jde o dilema mezi investicí do nového počítače a pokračováním s potenciálně nebezpečným systémem. Situace také ukazuje širší problém technologického průmyslu s nuceným zastaráváním funkčního hardwaru kvůli softwarovým požadavkům.
 
 ---
 

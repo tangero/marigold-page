@@ -1,5 +1,5 @@
 ---
-category: firemní software
+category: kancelářský software
 companies:
 - Microsoft
 date: '2025-10-23 11:13:39'
@@ -16,7 +16,8 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: Microsoft Teams bude automaticky sledovat, kdy jste v kanceláři pomocí Wi-Fi
+title: Microsoft Teams začne automaticky hlásit šéfovi vaši polohu při připojení k
+  firemní Wi-Fi
 url: https://www.windowscentral.com/microsoft/microsoft-teams/microsoft-teams-is-about-to-become-your-boss-lapdog
 urlToImage: https://cdn.mos.cms.futurecdn.net/Rww6axAGd2yzkk3LUcnaHa-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/Rww6axAGd2yzkk3LUcnaHa-2560-80.jpg
@@ -24,29 +25,29 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/Rww6axAGd2yzkk3LUcnaHa-2560-
 
 ## Souhrn
 
-Microsoft připravuje pro Teams novou funkci automatické detekce pracovní polohy, která využívá připojení k firemní Wi-Fi síti. Když se uživatel připojí k Wi-Fi v kanceláři, Teams automaticky aktualizuje jeho pracovní polohu a zobrazí, v jaké budově se nachází. Funkce má být široce dostupná v prosinci 2025.
+Microsoft připravuje pro Teams novou funkci, která automaticky detekuje a sdílí pracovní polohu zaměstnanců na základě připojení k firemní Wi-Fi síti. Systém bude schopen určit, ve které budově se uživatel nachází, a tuto informaci zpřístupnit manažerům a kolegům. Funkce má být široce dostupná v prosinci 2025.
 
 ## Klíčové body
 
-- Teams automaticky nastaví pracovní polohu uživatele při připojení k firemní Wi-Fi síti
-- Funkce umožní manažerům a kolegům snadno zjistit, kdo je fyzicky přítomen v kanceláři
-- Spuštění je plánováno na prosinec 2025, funkce je zatím ve fázi vývoje
-- Novinka přichází v době, kdy Microsoft řeší antimonopolní tlaky ohledně balíčkování Teams s Office 365
-- Samostatná licence Teams stojí přibližně 5,50 dolaru (130 Kč) na uživatele měsíčně
+- Teams automaticky aktualizuje pracovní polohu při připojení k firemní Wi-Fi síti
+- Systém dokáže identifikovat konkrétní budovu, ve které se zaměstnanec nachází
+- Funkce je v současnosti ve fázi vývoje, plánované vydání je v prosinci 2025
+- Informace o poloze budou dostupné manažerům a spolupracovníkům
+- Novinka přichází v době, kdy Microsoft čelí antimonopolním tlakům kvůli Teams
 
 ## Podrobnosti
 
-Nová funkce v Microsoft Teams využívá připojení k firemní Wi-Fi síti jako indikátor fyzické přítomnosti zaměstnance v kanceláři. Podle záznamu v oficiálním plánu Microsoft 365 systém automaticky nastaví pracovní polohu tak, aby odrážela budovu, ve které se uživatel nachází. Implementace je relativně přímočará - jakmile se zařízení připojí k rozpoznané firemní Wi-Fi, Teams aktualizuje status polohy bez nutnosti manuálního zásahu.
+Podle záznamu v Microsoft 365 roadmap bude nová funkce fungovat tak, že při připojení zařízení uživatele k firemní Wi-Fi síti Teams automaticky nastaví pracovní polohu tak, aby odrážela budovu, ve které se zaměstnanec nachází. Systém tedy nevyžaduje žádnou manuální aktualizaci ze strany uživatele.
 
-Funkce má podle Microsoftu snížit zmatky na pracovišti tím, že umožní manažerům a zaměstnancům snadno identifikovat vzájemnou polohu. V praxi to znamená, že místo telefonování nebo hledání kolegy po kanceláři bude možné jednoduše zkontrolovat jeho status v Teams. Na druhou stranu funkce vyvolává otázky ohledně sledování zaměstnanců a soukromí.
+Microsoft prezentuje funkci jako nástroj pro zvýšení produktivity a snížení zmatků na pracovišti. Zaměstnanci a manažeři budou moci snadno identifikovat, kde se jejich kolegové nacházejí, aniž by museli provádět manuální vyhledávání nebo telefonické dotazy. V praxi to znamená, že pokud potřebujete najít kolegu, stačí se podívat do Teams a okamžitě zjistíte, zda je v kanceláři a v jaké budově.
 
-Tato novinka přichází v kontextu širších změn kolem Teams. V roce 2023 Microsoft pod tlakem antimonopolních úřadů oddělil Teams od balíčku Office 365, což umožnilo zákazníkům kupovat tyto služby samostatně. Evropská komise následně donutila Microsoft změnit cenovou politiku - Office 365 a Microsoft 365 jsou nyní nabízeny bez Teams za nižší cenu, přičemž Teams lze dokoupit samostatně za přibližně 5,50 dolaru měsíčně na uživatele.
+Na druhou stranu funkce vyvolává otázky ohledně soukromí a sledování zaměstnanců. Automatické sdílení polohy může být vnímáno jako forma monitoringu, která dává zaměstnavatelům detailní přehled o fyzické přítomnosti zaměstnanců v kanceláři. Není zatím jasné, zda budou mít uživatelé možnost tuto funkci vypnout nebo omezit, kdo může jejich polohu vidět.
+
+Tato novinka přichází v kontextu širších změn kolem Teams. Microsoft nedávno ustoupil antimonopolním tlakům a oddělil Teams od balíčků Office 365 a Microsoft 365. Uživatelé nyní mohou zakoupit Office plány bez Teams, nebo Teams jako samostatnou službu za přibližně 5,50 dolaru (5 eur) na uživatele měsíčně. Tato změna byla reakcí na stížnosti konkurentů, zejména Slacku od Salesforce, kteří obviňovali Microsoft z protisoutěžních praktik.
 
 ## Proč je to důležité
 
-Automatické sledování polohy zaměstnanců představuje citlivou oblast mezi produktivitou a soukromím. Zatímco Microsoft prezentuje funkci jako nástroj pro lepší koordinaci týmů v hybridním pracovním prostředí, může být stejně snadno využita k monitorování docházky a fyzické přítomnosti zaměstnanců. V době, kdy mnoho firem zavádí povinný návrat do kanceláří, může tato funkce sloužit jako nástroj kontroly.
-
-Z technického hlediska jde o poměrně jednoduchý systém využívající existující infrastrukturu Wi-Fi, což naznačuje, že podobné funkce mohou brzy následovat i u konkurenčních platforem jako Slack nebo Zoom. Otázkou zůstává, jak budou zaměstnanci a odborové organizace reagovat na tuto formu digitálního dohledu na pracovišti.
+Funkce reprezentuje rostoucí trend sledování zaměstnanců prostřednictvím firemního softwaru. Zatímco Microsoft prezentuje novinku jako nástroj pro produktivitu, může také sloužit k monitoringu docházky a fyzické přítomnosti zaměstnanců v kanceláři. V době, kdy mnoho firem zavádí hybridní pracovní modely a vyžaduje návrat do kanceláří, může být automatická detekce polohy kontroverzním nástrojem pro vynucování těchto politik. Otázkou zůstává, jak bude funkce přijata zaměstnanci a zda Microsoft poskytne dostatečné kontrolní mechanismy pro ochranu soukromí.
 
 ---
 

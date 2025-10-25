@@ -3,8 +3,8 @@ category: mobilní telefony
 companies:
 - Apple
 date: '2025-10-23 11:28:40'
-description: Podle výzkumné firmy Omdia plánuje Apple v roce 2027 přeskočit číslování
-  iPhone 19 a představit rovnou řadu iPhone 20, podobně jako v roce 2017 přeskočil
+description: Podle výzkumné firmy Omdia plánuje Apple v roce 2027 přeskočit název
+  iPhone 19 a představit přímo řadu iPhone 20, podobně jako v roce 2017 přeskočil
   iPhone 9.
 importance: 2
 layout: tech_news_article
@@ -21,13 +21,11 @@ urlToImage: https://images.macrumors.com/t/JCwkhRRQDfwbPkXYUlc8xuUgQBw=/2500x/ar
 urlToImageBackup: https://images.macrumors.com/t/JCwkhRRQDfwbPkXYUlc8xuUgQBw=/2500x/article-new/2025/05/All-Screen-iPhone-2027-Feature-1.jpg
 ---
 
-Výzkumná firma Omdia tvrdí, že Apple v roce 2027 přeskočí označení iPhone 19 a novou generaci pojmenuje rovnou iPhone 20. Informace zazněla na konferenci v Soulu od hlavního výzkumníka společnosti Heo Moo-yeola.
+Výzkumná firma Omdia tvrdí, že Apple v podzimní nabídce roku 2027 přeskočí označení iPhone 19 a představí přímo modely iPhone 20. Hlavní výzkumník společnosti Heo Moo-yeol na konferenci v Soulu uvedl, že tento krok má být součástí širší strategie k resetování názvosloví iPhonů a oživení produktové řady u příležitosti 20. výročí zařízení.
 
-Podle Omdia má Apple v první polovině roku 2027 představit modely iPhone 18e a iPhone 18, zatímco ve druhé polovině roku přijde řada iPhone 20 zahrnující iPhone Air nové generace, iPhone 20 Pro, iPhone 20 Pro Max a druhá generace skládacího iPhonu. Změna má být součástí širší strategie obnovení názvosloví iPhonů a oživení produktové řady u příležitosti 20. výročí zařízení.
+Podle Omdie Apple v první polovině roku 2027 uvede modely iPhone 18e a iPhone 18, zatímco ve druhé polovině roku představí novou generaci iPhone Air, iPhone 20 Pro, iPhone 20 Pro Max a druhou generaci skládacího iPhonu. Tato změna má paralelu s rokem 2017, kdy Apple u příležitosti 10. výročí přeskočil iPhone 9 a představil iPhone X (římská desítka) společně s modely iPhone 8 a iPhone 8 Plus.
 
-Apple již podobný krok učinil v roce 2017, kdy u příležitosti 10. výročí iPhonu přeskočil označení iPhone 9 a představil iPhone X (římská číslice pro 10) společně s modely iPhone 8 a iPhone 8 Plus. Firma údajně plánuje posunout uvedení standardních modelů do první poloviny roku, přičemž v roce 2026 se žádný iPhone 18 na podzim neobjeví. Kvůli této změně Apple dočasně sníží objednávky panelů o 20 milionů kusů, což má být dlouhodobě kompenzováno dodávkami skládacích iPhonů.
-
-Jde však o nepotvrzené informace ze zdrojů dodavatelského řetězce, nikoli oficiální oznámení od Applu.
+Společnost údajně plánuje posunout uvedení standardních modelů na první polovinu roku, což má vést k dočasnému snížení objednávek panelů o 20 milionů jednotek. V roce 2026 se tak nepočítá s podzimním uvedením iPhone 18. Dlouhodobě má tento pokles kompenzovat prodej skládacích iPhonů. Informace zatím vychází pouze ze zdrojů dodavatelského řetězce a nebyla Applem potvrzena.
 
 ---
 
