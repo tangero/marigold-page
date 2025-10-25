@@ -12,19 +12,17 @@ source:
   emoji: 📰
   id: null
   name: Wizards.com
-title: 'Vývojářský deník: Tvorba Powered Cube pro MTG Arena'
+title: 'Vývojářský deník: Vznik Powered Cube pro MTG Arena'
 url: https://magic.wizards.com/en/news/mtg-arena/dev-diary-creating-arena-powered-cube
 urlToImage: https://images.ctfassets.net/s5n2t79q9icq/1YvZihFSB5g9CqerP5eGAa/deb40093f8d447df35f770162ca3c060/MH2_Urza-s_Saga_960x540.jpg
 urlToImageBackup: https://images.ctfassets.net/s5n2t79q9icq/1YvZihFSB5g9CqerP5eGAa/deb40093f8d447df35f770162ca3c060/MH2_Urza-s_Saga_960x540.jpg
 ---
 
-Článek popisuje vývoj Powered Cube eventu pro digitální karetní hru MTG Arena, který startoval 28. října. Jde o vývojářský deník zaměřený na interní proces studia Wizards of the Coast.
+Článek popisuje interní vývojový proces studia Wizards of the Coast při přípravě Powered Cube eventu pro digitální karetní hru MTG Arena, který byl spuštěn 28. října. Jde o vývojářský deník zaměřený na technické aspekty implementace, nikoli o průlomovou novinku.
 
-Projekt vznikl během interního hackathonu nazvaného "Experimental Frenzy" v dubnu 2023, kdy vývojáři dostávají tři dny na experimentování s novými funkcemi mimo běžnou práci. Tyto hackathony v minulosti vedly k implementaci achievementů, cube draftů obecně nebo vizuálních indikátorů schopností karet.
+Projekt vznikl během interního hackathonu nazvaného "Experimental Frenzy" v dubnu 2023, kdy vývojáři dostávají tři dny na experimentování s novými nápady. Vývojář začal analýzou Vintage Cube seznamu z Magic Online, který obsahoval 215 karet vyžadujících implementaci do MTG Arena. Cílem bylo zjistit, jak náročné by bylo přidat klasické výkonné karty jako Power Nine, Balance či Mana Vault.
 
-Vývojář začal analýzou Vintage Cube ze hry Magic Online, která obsahovala 215 karet vyžadujících implementaci do MTG Arena. Nešlo o přímý port tohoto seznamu, ale o referenční bod pro odhad rozsahu práce a zajištění, že nebudou opomenuty klíčové karty jako Power Nine, Balance nebo Mana Vault.
-
-Článek je primárně určen pro hráče Magic: The Gathering a poskytuje pohled do interního vývojového procesu studia. Pro širší technologickou komunitu nemá větší relevanci, protože se jedná o specifický herní obsah bez technických inovací nebo zajímavých vývojářských postupů, které by byly aplikovatelné mimo tento konkrétní projekt.
+Z hackathonu vznikl dvouletý projekt zahrnující implementaci desítek karet s komplexními herními pravidly. Powered Cube představuje speciální herní režim s nejsilnějšími kartami v historii Magic: The Gathering. Článek slouží především jako pohled do zákulisí vývoje a ukazuje, jak interní experimentální projekty mohou vést k novým funkcím ve hře.
 
 ---
 
