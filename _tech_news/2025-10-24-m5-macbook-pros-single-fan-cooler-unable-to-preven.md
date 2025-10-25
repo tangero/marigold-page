@@ -3,8 +3,9 @@ category: hardware
 companies:
 - Apple
 date: '2025-10-24 07:18:00'
-description: Nový MacBook Pro s čipem M5 se při zátěži přehřívá až na 99 °C, přestože
-  má jedno ventilátorové chlazení. Dochází k tepelnému škrcení výkonu.
+description: Nový MacBook Pro s čipem M5 trpí přehříváním při zátěži, kdy teplota
+  SoC dosahuje 99 °C. Jediný ventilátor v základní konfiguraci nedokáže zabránit tepelnému
+  škrcení výkonu.
 importance: 3
 layout: tech_news_article
 original_title: M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling;
@@ -16,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: MacBook Pro s M5 čipem trpí tepelným škrcením, dosahuje až 99 °C
+title: MacBook Pro s M5 se potýká s tepelným škrcením, čip dosahuje až 99 °C
 url: https://wccftech.com/m5-macbook-pro-can-reach-99-degrees-celsius-when-under-load-but-runs-cooler-than-m4/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-can-run-exceptionally-hot.jpg
 urlToImageBackup: https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-can-run-exceptionally-hot.jpg
@@ -24,29 +25,29 @@ urlToImageBackup: https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-can-run
 
 ## Souhrn
 
-Nový MacBook Pro s čipem Apple M5 se potýká s problémy s chlazením, kdy při plné zátěži dosahuje teplota čipu až 99 stupňů Celsia. Jediný ventilátor v zařízení není schopen zabránit tepelnému škrcení (thermal throttling), což vede ke snížení výkonu při náročných úlohách. Paradoxně však běží chladněji než předchozí generace s čipem M4.
+Apple MacBook Pro s nejnovějším čipem M5 se při plné zátěži potýká s výrazným přehříváním, kdy teplota systému na čipu (SoC) dosahuje až 99 stupňů Celsia. Základní konfigurace s jediným ventilátorem není schopna zabránit tepelnému škrcení (thermal throttling), což vede ke snížení výkonu při náročných úlohách.
 
 ## Klíčové body
 
-- Čip M5 v MacBook Pro dosahuje při plné zátěži teploty až 99 °C
-- Jedno ventilátorové chlazení není dostatečné pro odvod tepla při náročných úlohách
-- Dochází k tepelnému škrcení, které snižuje výkon procesoru pro ochranu hardwaru
-- Přes vysoké teploty běží M5 chladněji než předchozí generace M4
-- Problém se týká energetické efektivity versus tepelného výkonu
+- Čip M5 v MacBook Pro dosahuje při zátěži teploty až 99 °C
+- Jediný ventilátor v základní konfiguraci nezvládá odvod tepla
+- Dochází k tepelnému škrcení, které snižuje výkon procesoru
+- Paradoxně běží M5 při běžném provozu chladněji než předchozí M4
+- Problém se týká zejména základního modelu s pasivním chlazením
 
 ## Podrobnosti
 
-Apple tradičně vsází na energetickou efektivitu svých čipů řady M, což umožňuje používat minimalistické chladicí systémy. MacBook Pro s čipem M5 je vybaven pouze jedním ventilátorem, který má za úkol odvádět teplo z celého systému. Při běžném používání toto řešení funguje bez problémů, ale při náročných úlohách jako je renderování videa, kompilace kódu nebo práce s 3D grafikou se ukazuje jako nedostatečné.
+Nový MacBook Pro vybavený čipem M5 přináší výkonnostní pokrok, ale zároveň odhaluje limity chladicího systému v základní konfiguraci. Při náročných výpočetních úlohách, jako je renderování videa, kompilace kódu nebo práce s umělou inteligencí, teplota SoC rychle stoupá až k hranici 99 stupňů Celsia.
 
-Tepelné škrcení je ochranný mechanismus, který automaticky snižuje taktovací frekvenci procesoru, když teplota dosáhne kritických hodnot. Tím se sice chrání hardware před poškozením, ale zároveň klesá výkon systému, což může být problematické pro profesionální uživatele, kteří MacBook Pro kupují právě kvůli vysokému výkonu.
+Tepelné škrcení je ochranný mechanismus, který automaticky snižuje taktovací frekvenci procesoru při dosažení kritické teploty. Cílem je zabránit poškození hardwaru, ale za cenu výrazného poklesu výkonu. V praxi to znamená, že MacBook Pro s M5 nedokáže udržet maximální výkon při delších náročných úlohách.
 
-Zajímavým zjištěním je, že přes tyto problémy běží M5 při stejné zátěži chladněji než předchozí generace M4. To naznačuje, že Apple udělal pokrok v energetické efektivitě čipu, ale zároveň možná podcenil tepelný výkon při maximálním zatížení, nebo se rozhodl pro agresivnější nastavení výkonu.
+Zajímavostí je, že při běžném používání – prohlížení webu, práce s dokumenty nebo přehrávání videa – běží M5 chladněji než předchozí generace M4. To naznačuje, že Apple vylepšil energetickou efektivitu při nižších zátěžích, ale při maximálním výkonu generuje čip více tepla, než dokáže jediný ventilátor odvést.
 
-Pro běžné uživatele, kteří využívají MacBook Pro pro kancelářskou práci, prohlížení webu nebo lehčí kreativní úlohy, nebude přehřívání představovat problém. Kritické je to především pro profesionály pracující s náročným softwarem, kteří očekávají konzistentní výkon i při dlouhodobé zátěži.
+Problém se týká především základního modelu MacBook Pro, který používá jednodušší chladicí systém s jedním ventilátorem. Vyšší konfigurace s výkonnějšími variantami čipu M5 Pro a M5 Max disponují robustnějším chlazením s více tepelnými trubicemi a větším ventilátorem.
 
 ## Proč je to důležité
 
-Tato situace ukazuje na kompromisy, které musí výrobci řešit při navrhování ultratenkých notebooků s vysokým výkonem. Apple dlouhodobě preferuje elegantní design a tichý provoz před maximálním výkonem za každou cenu. Pro profesionální segment trhu však může být tepelné škrcení významným omezením, které ovlivní rozhodování při nákupu. Konkurence v podobě notebooků s procesory Intel nebo AMD často nabízí robustnější chladicí systémy s více ventilátory, což může být výhodou pro uživatele s náročnými požadavky na trvalý výkon.
+Tato situace ukazuje na rostoucí výzvu v oblasti chlazení mobilních počítačů. Přestože Apple dosahuje impresivní energetické efektivity díky architektuře ARM a pokročilému výrobnímu procesu, fyzikální limity odvodu tepla z tenkého hliníkového šasi zůstávají. Pro profesionální uživatele, kteří spoléhají na konzistentní výkon při náročných úlohách, může být tepelné škrcení významným omezením. Zároveň to naznačuje, že investice do vyšších konfigurací s lepším chlazením může být pro náročné uživatele nezbytná.
 
 ---
 

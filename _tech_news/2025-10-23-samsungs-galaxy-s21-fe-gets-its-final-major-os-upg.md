@@ -24,27 +24,27 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Samsung začal distribuovat aktualizaci One UI 8 založenou na Androidu 16 pro Galaxy S21 FE, což představuje poslední velkou aktualizaci operačního systému pro tento model. Telefon tak dosáhl konce čtyřleté podpory velkých aktualizací OS, přičemž bezpečnostní záplaty budou pokračovat ještě dalších 15 měsíců.
+Samsung začal distribuovat aktualizaci One UI 8 založenou na Androidu 16 pro Galaxy S21 FE, což představuje poslední velkou aktualizaci operačního systému pro tento model. Telefon tak dosáhl konce čtyřleté podpory velkých aktualizací, která byla standardem před nástupem současné sedmileté podpory.
 
 ## Klíčové body
 
-- Aktualizace One UI 8 (Android 16) se začíná šířit v Thajsku a Vietnamu pod označením G990EXXUIHYJ2
-- Jedná se o poslední velkou aktualizaci OS pro Galaxy S21 FE, který byl uveden v lednu 2022
-- Velikost aktualizace činí pouze 2 GB, což odráží menší rozsah změn oproti předchozí verzi One UI 7
-- Bezpečnostní aktualizace budут pokračovat přibližně do dubna 2026
+- Aktualizace One UI 8 (verze G990EXXUIHYJ2) se začíná šířit v Thajsku a Vietnamu
+- Jedná se o poslední velkou aktualizaci OS pro Galaxy S21 FE po čtyřech letech od uvedení
+- Velikost aktualizace je 2 GB, což odráží menší rozsah změn oproti předchozí verzi One UI 7
+- Bezpečnostní záplaty budou pokračovat ještě přibližně 15 měsíců
 - Globální distribuce se očekává v následujících týdnech
 
 ## Podrobnosti
 
-Aktualizace One UI 8 přináší evoluční vylepšení oproti předchozí verzi. Mezi hlavní novinky patří vylepšení funkce Now Brief, která poskytuje kontextové informace a shrnutí, změny na zamykací obrazovce a zdokonalenou podporu rozdělené obrazovky pro práci s více aplikacemi současně. Oproti One UI 7, které přineslo výraznou vizuální přeměnu rozhraní, je One UI 8 spíše technickou aktualizací s drobnými vylepšeními.
+Galaxy S21 FE představuje příklad přechodného období v podpoře softwarových aktualizací u Samsungu. Zatímco současné modely od Samsungu a Googlu nabízejí sedm let aktualizací operačního systému, Galaxy S21 FE spadá ještě pod starší čtyřletý standard. Telefon byl uveden na trh začátkem roku 2022, takže v lednu 2026 dosáhne čtyřletého výročí.
 
-Galaxy S21 FE představoval zajímavý produkt v portfoliu Samsungu. Model byl uveden na trh v lednu 2022, tedy pouhé dva měsíce před příchodem řady Galaxy S22, což výrazně omezilo jeho tržní potenciál. Na rozdíl od úspěšného Galaxy S20 FE se S21 FE potýkal s vyšší cenou a nejasným umístěním v produktové řadě. Samsung od té doby hledá správnou identitu pro svou řadu FE (Fan Edition), přičemž nejnovější Galaxy S25 FE byl tiše uveden před několika měsíci.
+Aktualizace na One UI 8 přináší několik vylepšení, i když se jedná o méně rozsáhlou změnu než předchozí One UI 7, která přinesla výraznou vizuální přestavbu. Mezi novinky patří vylepšení funkce Now Brief (nástroj pro přehled důležitých informací), změny na zamykací obrazovce a vylepšenou podporu rozdělené obrazovky pro práci s více aplikacemi současně. Relativně malá velikost aktualizace (2 GB) odpovídá menšímu rozsahu změn mezi Androidem 15 a 16.
 
-Velikost aktualizace 2 GB naznačuje, že přechod z Androidu 15 na Android 16 nepřináší zásadní změny v jádru systému. To odpovídá strategii Googlu, který se u Androidu 16 zaměřil především na optimalizace a vylepšení stávajících funkcí.
+Galaxy S21 FE měl od začátku komplikovanou pozici na trhu. Dorazil do obchodů pouhé dva měsíce před uvedením řady Galaxy S22, což výrazně zkrátilo jeho relevanci. Navíc vyšší cena ve srovnání s předchůdcem Galaxy S20 FE vedla k menšímu komerčnímu úspěchu. Samsung od té doby hledá správnou identitu pro řadu FE (Fan Edition) – nejnovější model Galaxy S25 FE byl tiše uveden teprve před několika měsíci.
 
 ## Proč je to důležité
 
-Tato aktualizace symbolizuje přechodné období v přístupu Samsungu k softwarové podpoře. Galaxy S21 FE patří k poslední generaci zařízení s čtyřletou podporou velkých aktualizací OS, zatímco novější modely od roku 2024 dostávají sedmileté záruky aktualizací. Pro majitele S21 FE to znamená, že jejich zařízení sice dostalo poslední velkou aktualizaci funkcí, ale bezpečnostní záplaty budou pokračovat až do dubna 2026, což telefonu zajišťuje celkově pět let podpory od uvedení na trh. Uživatelé tak mají ještě dostatek času na plánování případné výměny zařízení.
+Tato aktualizace ilustruje přechodné období v podpoře mobilních zařízení. Majitelé Galaxy S21 FE sice dostávají poslední velkou aktualizaci, ale stále mohou počítat s bezpečnostními záplatami až do poloviny roku 2026. To představuje celkem pět let podpory od uvedení, což je slušná životnost, ale výrazně kratší než současný sedmiletý standard. Pro uživatele to znamená, že telefon zůstane bezpečný ještě více než rok, ale nové funkce operačního systému už nedostanou. Situace také ukazuje, jak rychle se standardy v mobilním průmyslu mění a jak starší zařízení postupně vypadávají z podpory.
 
 ---
 
