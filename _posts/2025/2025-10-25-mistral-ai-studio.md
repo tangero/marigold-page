@@ -16,6 +16,7 @@ summary_points:
 - Platforma nabízí přístup ke všem modelům Mistral včetně Pixtral Large a Codestral
 - Fine-tuning umožňuje doladění vlastních modelů na specifická data
 title: Mistral představil AI Studio pro lepší ladění LLM 
+thumbnail: https://www.marigold.cz/assets/marketecture-ai-studio.png
 ---
 
 Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách.
@@ -24,7 +25,7 @@ Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s
 
 Základem platformy je playground režim, kde mohou vývojáři testovat různé konfigurace modelů. Prostředí nabízí přístup ke všem modelům Mistral, včetně multimodálního [Pixtral Large](https://mistral.ai/news/pixtral-large/) s kapacitou 123 miliard parametrů nebo specializovaného [Codestral](https://mistral.ai/news/codestral/) pro generování kódu.
 
-![Mistral AI Studio Playground](https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-45-28-pm.webp)
+![Mistral AI Studio Playground](/assets/marketecture-ai-studio.png)
 
 Vývojáři moví nastavovat parametry jako teplotu, top-p hodnotu nebo maximální délku odpovědi. Playground podporuje režim multi-turn konverzací, kde lze vytvářet komplexnější dialogy s udržováním kontextu. Systém umožňuje paralelní testování s více modely najednou, což zjednodušuje porovnání výsledků různých konfigurací.
 
@@ -34,7 +35,7 @@ Součástí je knihovna předpřipravených šablon promptů pro typické úlohy
 
 Platforma obsahuje systém pro správu promptů napříč projekty. Vývojáři mohou vytvářet, ukládat a verzovat prompty včetně systémových instrukcí a příkladů. Každý prompt má vlastní historii změn, což umožňuje návrat k předchozím verzím nebo porovnání výsledků mezi různými iteracemi.
 
-![Správa promptů v Mistral AI Studio](https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-40-07-pm.webp)
+![Správa promptů v Mistral AI Studio](/assets/observability.webp)
 
 Systém podporuje parametrizaci promptů pomocí proměnných, které lze dynamicky vyplňovat při volání API. To zjednodušuje práci s šablonami, které se liší pouze v několika konkrétních hodnotách. Prompty lze organizovat do složek a sdílet mezi členy týmu s nastavením přístupových práv.
 
@@ -42,7 +43,7 @@ Systém podporuje parametrizaci promptů pomocí proměnných, které lze dynami
 
 Agent Builder umožňuje vytváření specializovaných agentů bez nutnosti psát kód. Vývojář definuje roli agenta, jeho cíle a k dispozici nástroje. Platforma podporuje připojení vlastních nástrojů přes API nebo využití vestavěných funkcí pro práce s webem, kalendářem nebo databázemi.
 
-![Agent Builder v Mistral AI Studio](https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-41-39-pm.webp)
+![Agent Builder v Mistral AI Studio](/assets/agent-workflow.webp)
 
 Agent může pracovat se znalostní bází nahrané dokumentace nebo dat. Systém automaticky indexuje obsah a umožňuje agentovi vyhledávat relevantní informace během konverzace. Podporovány jsou formáty PDF, DOCX, TXT nebo webové stránky přes jejich URL.
 
@@ -52,8 +53,7 @@ Vytvořené agenty lze nasadit přes API endpoint nebo sdílet pomocí veřejné
 
 Batch API je určeno pro zpracování velkých objemů požadavků, které nevyžadují okamžitou odpověď. Systém přijímá dávky požadavků ve formátu JSONL souboru, zpracovává je v průběhu 24 hodin a vrací výsledky. Cena za zpracování je o 50 % nižší než u standardního API.
 
-![Batch API v Mistral AI Studio](https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-44-35-pm.webp)
-
+/Users/patrickzandl/GitHub/marigold-page/assets/agent-workflow.webp
 Služba se hodí pro úlohy jako hromadné zpracování dat, generování obsahu pro větší množství položek nebo evaluaci modelů na velkých datasetech. Platforma poskytuje rozhraní pro sledování stavu dávek, včetně počtu zpracovaných požadavků nebo odhadovaného času dokončení.
 
 Batch API podporuje všechny modely dostupné v běžném API včetně jejich konfigurací. Vývojáři mohou nastavit priority dávek nebo je automaticky zrušit, pokud zpracování trvá příliš dlouho. Výsledky jsou dostupné ke stažení po dobu 30 dnů od dokončení.
@@ -62,7 +62,6 @@ Batch API podporuje všechny modely dostupné v běžném API včetně jejich ko
 
 AI Studio obsahuje nástroje pro doladění modelů na vlastní data. Vývojáři nahrají trénovací dataset ve formátu JSONL s dvojicemi prompt-odpověď, nakonfigurují hyperparametry jako learning rate nebo počet epoch a spustí trénink.
 
-![Fine-tuning v Mistral AI Studio](https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-45-04-pm.webp)
 
 Platforma aktuálně podporuje fine-tuning modelů Mistral Small a Mistral Large. Proces trvá podle velikosti datasetu a modelu řádově hodiny. Vytvořený model je privátní a dostupný pouze přes API klíč vlastníka. Cena fine-tuningu začína na 4 dolarech za milion tokenů pro trénink.
 
