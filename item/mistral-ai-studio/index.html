@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mistral představil AI Studio pro lepší ladění LLM | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Mistral představil AI Studio pro lepší ladění LLM" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách." />
+<meta property="og:description" content="Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách." />
+<link rel="canonical" href="https://www.marigold.cz/item/mistral-ai-studio/" />
+<meta property="og:url" content="https://www.marigold.cz/item/mistral-ai-studio/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-10-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Mistral představil AI Studio pro lepší ladění LLM" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-25T00:00:00+00:00","datePublished":"2025-10-25T00:00:00+00:00","description":"Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách.","headline":"Mistral představil AI Studio pro lepší ladění LLM","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/mistral-ai-studio/"},"url":"https://www.marigold.cz/item/mistral-ai-studio/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách.
+
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Mistral představil AI Studio pro lepší ladění LLM" />
+    <meta property="twitter:title" content="Mistral představil AI Studio pro lepší ladění LLM" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/mistral-ai-studio/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+
+<!-- místo původního feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Mistral představil AI Studio pro lepší ladění LLM</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Letní <a href="https://skola.prolnuto.cz/">škola AI</a> zdarma! Každý pracovní den jedna lekce, za tři týdny jste v obraze. <br/>👉 Přidejte se zdarma na <a href="https://skola.prolnuto.cz/">skola.prolnuto.cz</a></p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+říjen
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="/rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="/rubrika/#Mistral AI">Mistral AI</a>
+        &nbsp;
+      
+        <a href="/rubrika/#LLM">LLM</a>
+        &nbsp;
+      
+        <a href="/rubrika/#vývoj">vývoj</a>
+        &nbsp;
+      
+        <a href="/rubrika/#API">API</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>Mistral AI spustil AI Studio jako komplexní platformu pro vývoj a testování aplikací s jazykovými modely</li>
+      
+        <li>Playground umožňuje pokročilé nastavení parametrů, práci s prompty a testování s více modely současně</li>
+      
+        <li>Agent Builder podporuje vytváření agentů s nástroji, znalostními bázemi a možností sdílení</li>
+      
+        <li>Batch API zpracovává velké objemy požadavků s 50% slevou oproti standardní ceně</li>
+      
+        <li>Platforma nabízí přístup ke všem modelům Mistral včetně Pixtral Large a Codestral</li>
+      
+        <li>Fine-tuning umožňuje doladění vlastních modelů na specifická data</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
+
+
+
+  <div class="entry">
+    <p>Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách.</p>
+
+<h2 id="playground-s-pokročilými-funkcemi">Playground s pokročilými funkcemi</h2>
+
+<p>Základem platformy je playground režim, kde mohou vývojáři testovat různé konfigurace modelů. Prostředí nabízí přístup ke všem modelům Mistral, včetně multimodálního <a href="https://mistral.ai/news/pixtral-large/">Pixtral Large</a> s kapacitou 123 miliard parametrů nebo specializovaného <a href="https://mistral.ai/news/codestral/">Codestral</a> pro generování kódu.</p>
+
+<p><img src="https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-45-28-pm.webp" alt="Mistral AI Studio Playground" /></p>
+
+<p>Vývojáři moví nastavovat parametry jako teplotu, top-p hodnotu nebo maximální délku odpovědi. Playground podporuje režim multi-turn konverzací, kde lze vytvářet komplexnější dialogy s udržováním kontextu. Systém umožňuje paralelní testování s více modely najednou, což zjednodušuje porovnání výsledků různých konfigurací.</p>
+
+<p>Součástí je knihovna předpřipravených šablon promptů pro typické úlohy - od summarizace textu přes extrakci informací až po generování kódu. Tyto šablony lze upravovat a ukládat pro pozdější použití. Vývojáři mohou exportovat úspěšné konfigurace přímo do produkčního kódu s vygenerovanými ukázkami pro Python, JavaScript nebo cURL.</p>
+
+<h2 id="správa-promptů-a-verzování">Správa promptů a verzování</h2>
+
+<p>Platforma obsahuje systém pro správu promptů napříč projekty. Vývojáři mohou vytvářet, ukládat a verzovat prompty včetně systémových instrukcí a příkladů. Každý prompt má vlastní historii změn, což umožňuje návrat k předchozím verzím nebo porovnání výsledků mezi různými iteracemi.</p>
+
+<p><img src="https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-40-07-pm.webp" alt="Správa promptů v Mistral AI Studio" /></p>
+
+<p>Systém podporuje parametrizaci promptů pomocí proměnných, které lze dynamicky vyplňovat při volání API. To zjednodušuje práci s šablonami, které se liší pouze v několika konkrétních hodnotách. Prompty lze organizovat do složek a sdílet mezi členy týmu s nastavením přístupových práv.</p>
+
+<h2 id="agent-builder-pro-vytváření-agentů">Agent Builder pro vytváření agentů</h2>
+
+<p>Agent Builder umožňuje vytváření specializovaných agentů bez nutnosti psát kód. Vývojář definuje roli agenta, jeho cíle a k dispozici nástroje. Platforma podporuje připojení vlastních nástrojů přes API nebo využití vestavěných funkcí pro práce s webem, kalendářem nebo databázemi.</p>
+
+<p><img src="https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-41-39-pm.webp" alt="Agent Builder v Mistral AI Studio" /></p>
+
+<p>Agent může pracovat se znalostní bází nahrané dokumentace nebo dat. Systém automaticky indexuje obsah a umožňuje agentovi vyhledávat relevantní informace během konverzace. Podporovány jsou formáty PDF, DOCX, TXT nebo webové stránky přes jejich URL.</p>
+
+<p>Vytvořené agenty lze nasadit přes API endpoint nebo sdílet pomocí veřejného odkazu. Každý agent má vlastní konfigurační rozhraní, kde lze upravovat parametry modelu, dostupné nástroje nebo omezení počtu požadavků. Platforma zaznamenává veškerou interakci s agentem včetně použitých nástrojů a jejich výstupů.</p>
+
+<h2 id="batch-api-pro-zpracování-větších-objemů">Batch API pro zpracování větších objemů</h2>
+
+<p>Batch API je určeno pro zpracování velkých objemů požadavků, které nevyžadují okamžitou odpověď. Systém přijímá dávky požadavků ve formátu JSONL souboru, zpracovává je v průběhu 24 hodin a vrací výsledky. Cena za zpracování je o 50 % nižší než u standardního API.</p>
+
+<p><img src="https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-44-35-pm.webp" alt="Batch API v Mistral AI Studio" /></p>
+
+<p>Služba se hodí pro úlohy jako hromadné zpracování dat, generování obsahu pro větší množství položek nebo evaluaci modelů na velkých datasetech. Platforma poskytuje rozhraní pro sledování stavu dávek, včetně počtu zpracovaných požadavků nebo odhadovaného času dokončení.</p>
+
+<p>Batch API podporuje všechny modely dostupné v běžném API včetně jejich konfigurací. Vývojáři mohou nastavit priority dávek nebo je automaticky zrušit, pokud zpracování trvá příliš dlouho. Výsledky jsou dostupné ke stažení po dobu 30 dnů od dokončení.</p>
+
+<h2 id="fine-tuning-vlastních-modelů">Fine-tuning vlastních modelů</h2>
+
+<p>AI Studio obsahuje nástroje pro doladění modelů na vlastní data. Vývojáři nahrají trénovací dataset ve formátu JSONL s dvojicemi prompt-odpověď, nakonfigurují hyperparametry jako learning rate nebo počet epoch a spustí trénink.</p>
+
+<p><img src="https://mistral.ai/images/news/2025-01-14-mistral-ai-studio/screenshot-2025-01-14-at-4-45-04-pm.webp" alt="Fine-tuning v Mistral AI Studio" /></p>
+
+<p>Platforma aktuálně podporuje fine-tuning modelů Mistral Small a Mistral Large. Proces trvá podle velikosti datasetu a modelu řádově hodiny. Vytvořený model je privátní a dostupný pouze přes API klíč vlastníka. Cena fine-tuningu začína na 4 dolarech za milion tokenů pro trénink.</p>
+
+<p>Výsledný model lze testovat přímo v playground prostředí před nasazením do produkce. Systém poskytuje metriky kvality jako training loss nebo validation accuracy. Modely lze dále iterativně vylepšovat přidáváním nových dat nebo úpravou hyperparametrů.</p>
+
+<h2 id="správa-api-a-nákladů">Správa API a nákladů</h2>
+
+<p>Platforma centralizuje správu API klíčů, nastavení limitů a sledování spotřeby. Vývojáři vidí detailní statistiky použití včetně počtu požadavků, spotřebovaných tokenů a nákladů rozčleněných podle modelů a časových období.</p>
+
+<p>Systém umožňuje nastavit limity spotřeby pro jednotlivé klíče nebo projekty. Při dosažení limitu se požadavky automaticky odmítají, což chrání před neočekávanými náklady. Platforma podporuje webhooky pro notifikace o překročení nastavených prahů.</p>
+
+<p>K dispozici je také monitoring výkonu API včetně latence požadavků, úspěšnosti volání nebo počtu chyb. Vývojáři mohou sledovat trendy využití a optimalizovat své aplikace podle reálných dat. Všechny statistiky jsou exportovatelné do CSV nebo dostupné přes API pro vlastní reporting.</p>
+
+<p>Mistral AI Studio je dostupný na adrese <a href="https://console.mistral.ai">console.mistral.ai</a>. Platforma funguje na základě pay-as-you-go modelu s cenami začínajícími na 0,1 dolaru za milion vstupních tokenů pro nejmenší modely. Nové účty získávají kredit 5 dolarů pro testování.​​​​​​​​​​​​​​​​</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+      <!-- Místo pro widget -->
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback.js" 
+        data-slug="item-mistral-ai-studio" 
+        data-title="Mistral představil AI Studio pro lepší ladění LLM" 
+        data-url="https://www.marigold.cz/item/mistral-ai-studio/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+<!-- Místo pro widget nejčtenější články -->
+<script src="//widgets.clicky.com/poppy/?site_id=101451859&sitekey=5e093ea9431d06c7b572df6b51eda89f&width=500&height=500&date=last-28-days&type=pages&limit=10&title=Nej%C4%8Dten%C4%9Bj%C5%A1%C3%AD%20%C4%8Dl%C3%A1nky&hide_title=0&hide_branding=1" type="text/javascript"></script>
+<!-- Konec widget nejčtenější články -->
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <p class="excerpt">
+                  
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <p class="excerpt">
+                  
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Mistral představil AI Studio pro lepší ladění LLM&url=https://www.marigold.cz/item/mistral-ai-studio/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/mistral-ai-studio/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2025/2025-10-25-mistral-ai-studio.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/proc-generativni-ai-ztraci-dech/">&laquo; Je po vrcholu: proč generativní AI ztrácí dech?</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

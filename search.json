@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Mistral představil AI Studio pro lepší ladění LLM",
+      "url"      : "/item/mistral-ai-studio/",
+      "category" : "AI, Mistral AI, LLM, vývoj, API",
+      "tags"     : "",
+      "date"     : "25.10.2025",
+      "content"  : "Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách.Playground s pokročilými funkcemiZákladem platformy je playground režim, kde mohou vývojáři testovat různé konfigurace modelů. Prostředí nabízí přístup ke všem modelům Mistral, včetně multimodálního Pixtral Large s kapacitou 123 miliard parametrů nebo specializovaného Codestral pro generování kódu.Vývojáři moví nastavovat parametry jako teplotu, top-p hodnotu nebo maximální délku odpovědi. Playground podporuje režim..."
+    },
+  
+    {
       "title"    : "Je po vrcholu: proč generativní AI ztrácí dech?",
       "url"      : "/item/proc-generativni-ai-ztraci-dech/",
       "category" : "AI, generativní AI",
@@ -26574,7 +26583,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Je po vrcholu: proč generativní AI ztrácí dech? (23.10.2025) OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá (21.10.2025) Anthropic spustil Claude Code na webu (21.10.2025) Claude Skills: Nová cesta k specializovaným schopnostem AI (17.10.2025) Anthropic představil levný a rychlý..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Mistral představil AI Studio pro lepší ladění LLM (25.10.2025) Je po vrcholu: proč generativní AI ztrácí dech? (23.10.2025) OpenAI uvedl prohlížeč Atlas s AI - hodnota Google padá (21.10.2025) Anthropic spustil Claude Code na webu (21.10.2025) Claude Skills: Nová cesta k..."
     }
     
   
@@ -26611,6 +26620,15 @@
     ,{
       "title"    : "Technologické zprávy - 2025-10-16",
       "url"      : "/tech-news/2025-10-16/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
+      "title"    : "Technologické zprávy - 2025-10-23",
+      "url"      : "/tech-news/2025-10-23/",
       "category" : "stránka",
       "content"  : ""
     }
@@ -26873,7 +26891,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 245 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 246 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -43132,7 +43150,7 @@
         "title"    : "Microsoft tvrdí, že to myslí vážně s přeměnou Windows 11 na &quot;AI-native&quot; operační systém",
         "url"      : "/tech-news/microsoft-says-its-serious-about-turning-windows-1/",
         "category" : "tech_news",
-        "content"  : "Copilot je téměř všude ve Windows 11. Nachází se v kontextové nabídce, uvnitř aplikací jako Paint, Poznámkový blok a dokonce i Word nebo PowerPoint. Přichází také do hlavního panelu, ale to Microsoftu nestačí pro jeho novou vizi. Microsoft právě potvrdil, že chce pře…Číst původní článekZdroj: 📰 WindowsLatest"
+        "content"  : "Copilot je téměř všude ve Windows 11. Je v kontextovém menu, uvnitř aplikací jako Paint, Poznámkový blok a dokonce i Word nebo PowerPoint. Přichází také do hlavního panelu, ale to Microsoftu nestačí pro jeho novou vizi. Microsoft právě potvrdil, že chce…Číst původní článekZdroj: 📰 WindowsLatest"
       }
       
       ,{
@@ -43140,6 +43158,13 @@
         "url"      : "/tech-news/the-samsung-galaxy-s26-dream-is-already-dead-and-w/",
         "category" : "tech_news",
         "content"  : "ShrnutíSamsung Galaxy S26 sliboval podle dřívějších úniků zajímavou změnu v produktové řadě - základní model měl být nahrazen výkonnějším S26 Pro, varianta Plus měla ustoupit tenčímu modelu Edge a Ultra měl zůstat vlajkovou lodí. Nejnovější informace však naznačují, že realita bude výrazně mírnější a Samsung opět zklamá očekávání.Klíčové body Model S26 Pro nebude výrazným upgradem základního modelu, jak se původně očekávalo Úniky hovoří pouze o baterii 4 300 mAh, což není žádný průlom Samsung pravděpodobně opět ponechá nejlepší specifikace pouze pro model Ultra Základní řada Galaxy S je zanedbávána již několik generací Průzkum ukazuje, že pouze 33 % respondentů je..."
+      }
+      
+      ,{
+        "title"    : "Datová centra ve vesmíru: Řešení energetické krize AI, nebo sci-fi fantazie?",
+        "url"      : "/tech-news/why-these-companies-want-to-send-data-centers-into/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRozvoj umělé inteligence výrazně zvyšuje poptávku po datových centrech, která však spotřebovávají obrovské množství energie a vyžadují rozsáhlé pozemky. Podle Goldman Sachs vzroste spotřeba energie datových center do roku 2030 o 165 %. Některé společnosti proto zkoumají možnost umístit datová centra do vesmíru, kde by měla neomezený přístup k solární energii.Klíčové body Evropský projekt ASCEND vedený francouzskou společností Thales Alenia Space zkoumá proveditelnost vesmírných datových center pro snížení emisí CO2 Vesmír nabízí nepřetržitý přístup k solární energii bez vlivu oblačnosti, nočních hodin nebo ročních období Studie z roku 2024 identifikovala zásadní překážku: nosné rakety by musely produkovat 10× méně emisí..."
       }
       
       ,{
@@ -43164,10 +43189,10 @@
       }
       
       ,{
-        "title"    : "AMD údajně připravuje Ryzen 9 9950X3D2 s duální 3D V-Cache a 192 MB paměti",
+        "title"    : "AMD údajně připravuje Ryzen 9 9950X3D2 s duálními X3D čipy a 192 MB cache",
         "url"      : "/tech-news/amd-ryzen-9-9950x3d2-cpu-to-feature-dual-x3d-ccds/",
         "category" : "tech_news",
-        "content"  : "ShrnutíNa internetu se objevily nepotvrzené informace o chystaných procesorech AMD Ryzen 9 9950X3D2 a Ryzen 7 9805X3D. Podle úniku má špičkový model disponovat duální konfigurací 3D V-Cache technologie na obou výpočetních chipech (CCD) s celkovou kapacitou až 192 MB cache paměti. Jde však o spekulace založené na únicích, nikoli oficiální oznámení.Údajné specifikace Ryzen 9 9950X3D2: Model by měl obsahovat dva CCD chipy, přičemž oba budou vybaveny vrstvou 3D V-Cache paměti. Současný Ryzen 9 9950X3D má 3D V-Cache pouze na jednom z chipů, což vytváří asymetrickou konfiguraci. Nová verze s označením “X3D2” by mohla tento problém vyřešit symetrickou implementací, což by..."
+        "content"  : "ShrnutíNa internetu se objevily nepotvrzené informace o chystaných procesorech AMD Ryzen 9 9950X3D2 a Ryzen 7 9805X3D. Podle úniku má vlajkový model disponovat duálními čipy s technologií 3D V-Cache a celkovou cache pamětí až 192 MB, zatímco Ryzen 7 9805X3D má nabídnout vyšší taktovací frekvence až 5,6 GHz. Jedná se však o neoficiální informace bez potvrzení ze strany AMD.KontextTechnologie 3D V-Cache od AMD umožňuje umístit dodatečnou cache paměť přímo na procesorové čipy, což výrazně zvyšuje výkon zejména v herních aplikacích a úlohách citlivých na latenci paměti. Dosavadní procesory řady X3D využívaly tuto technologii pouze na jednom z čipů (CCD) u..."
       }
       
       ,{
@@ -43213,6 +43238,13 @@
       }
       
       ,{
+        "title"    : "Úniky informací o nových procesorech AMD Ryzen způsobily pokles akcií",
+        "url"      : "/tech-news/amd-stock-slips-alongside-new-ryzen-cpu-leaks-tipr/",
+        "category" : "tech_news",
+        "content"  : "Akcie společnosti AMD v úterý klesly o 2,27 % poté, co známý leaker chi11eddog zveřejnil údajné specifikace dvou připravovaných procesorů z řady Ryzen. Jde o modely Ryzen 7 9850X3D a Ryzen 9 9950X3D2, které mají představovat novou generaci výkonných čipů pro náročné uživatele.Podle uniklých informací má Ryzen 7 9850X3D disponovat osmi jádry s šestnácti vlákny, tepelným výkonem 120 W, 96 MB cache L3 a maximálním taktem až 5,6 GHz. Výkonnější model Ryzen 9 9950X3D2 má nabídnout šestnáct jader s 32 vlákny, tepelný výkon 200 W, 192 MB cache L3 a rovněž maximální takt 5,6 GHz.Pokles akcií může souviset s tím,..."
+      }
+      
+      ,{
         "title"    : "YouTube spustil technologii pro detekci AI kopií tváří a hlasů tvůrců",
         "url"      : "/tech-news/youtubes-likeness-detection-technology-has-officia/",
         "category" : "tech_news",
@@ -43231,6 +43263,13 @@
         "url"      : "/tech-news/openai-announces-chatgpt-atlas-an-ai-enabled-web-b/",
         "category" : "tech_news",
         "content"  : "OpenAI údajně představilo webový prohlížeč ChatGPT Atlas, který má integrované funkce umělé inteligence a má ambici konkurovat etablovaným prohlížečům jako Google Chrome. Prohlížeč bude v první fázi dostupný pouze pro uživatele macOS.ChatGPT Atlas má nabídnout nativní integraci s jazykovými modely OpenAI přímo v prostředí prohlížeče, což by mohlo umožnit funkce jako automatické shrnutí webových stránek, asistenci při vyhledávání nebo kontextové odpovědi na dotazy související s prohlíženým obsahem. Jde o další krok OpenAI v expanzi mimo chatovací rozhraní do běžně používaných aplikací.Vstup OpenAI na trh webových prohlížečů představuje přímou konkurenci nejen pro Google Chrome, ale i pro další prohlížeče jako Microsoft..."
+      }
+      
+      ,{
+        "title"    : "Microsoft: Nedávné aktualizace Windows způsobují problémy s přihlašováním",
+        "url"      : "/tech-news/microsoft-recent-windows-updates-cause-login-issue/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft potvrdil závažný problém s aktualizacemi Windows vydanými od 29. srpna 2025, které způsobují selhání autentizace na systémech s duplicitními Security Identifiers (SID). Problém postihuje Windows 11 24H2, Windows 11 25H2 a Windows Server 2025, kde nové bezpečnostní kontroly blokují přihlašování uživatelů s platným heslem.Klíčové body Aktualizace od 29. srpna 2025 zavádějí přísnější kontroly Security Identifiers, což způsobuje selhání Kerberos a NTLM autentizace Postižené jsou systémy Windows 11 24H2, Windows 11 25H2 a Windows Server 2025 s duplicitními SID Uživatelé čelí chybám při přihlašování, nefunkčnímu vzdálenému připojení a odmítnutému přístupu k síťovým prostředkům Problém vzniká především při klonování nebo duplikaci..."
       }
       
       ,{
@@ -43262,10 +43301,10 @@
       }
       
       ,{
-        "title"    : "Plánovaný skládací iPad s 18palcovým displejem naráží na vývojové problémy",
+        "title"    : "Vývoj skládacího iPadu s 18palcovým displejem naráží na problémy",
         "url"      : "/tech-news/apples-planned-foldable-ipad-with-18-inch-screen-h/",
         "category" : "tech_news",
-        "content"  : "Apple podle zdrojů Bloombergu narazil na vývojové komplikace při práci na skládacím iPadu s 18palcovým displejem. Projekt, který měl představovat zásadní reinvenci produktové řady iPad, se potýká s technickými problémy, které mohou posunout původně plánované datum uvedení na trh.Jedná se o spekulativní informace založené na nepotvrzených zdrojích. Konkrétní povaha technických problémů ani původní termín plánovaného uvedení nejsou známy. Apple se k projektu oficiálně nevyjádřil, což je u vývojových produktů standardní postup.Skládací zařízení s velkým displejem by teoreticky mohlo konkurovat notebookům a nabídnout uživatelům větší pracovní plochu při zachování přenosnosti. Technologie skládacích displejů však zůstává náročná na výrobu a spolehlivost, jak..."
+        "content"  : "Apple podle zdrojů Bloombergu narazil na vývojové problémy při práci na skládacím iPadu s 18palcovým displejem. Projekt, který měl představovat zásadní redesign produktové řady iPad, se potýká s technickými výzvami, které mohou posunout původně plánované datum uvedení na trh.Jde o spekulativní informaci založenou na nepotvrzených zdrojích. Konkrétní povaha technických problémů ani původní termín uvedení produktu nejsou známy. Apple se k těmto informacím tradičně nevyjadřuje a oficiálně žádný skládací iPad neoznámil. Zpráva zapadá do širšího kontextu experimentů technologických firem se skládacími displeji, kde již své produkty nabízejí Samsung, Huawei či Motorola.Číst původní článekZdroj: 💹 Bloomberg"
       }
       
       ,{
@@ -43300,7 +43339,7 @@
         "title"    : "Claude Code Creator: Nástroj, který Anthropic nechtěl vytvořit, ale změnil vše",
         "url"      : "/tech-news/claude-code-creator-we-didnt-mean-to-build-it-but/",
         "category" : "tech_news",
-        "content"  : "SouhrnClaude Code, nástroj pro automatizované programování od společnosti Anthropic, je nyní dostupný přes webový prohlížeč, nejen přes profesionální vývojářské nástroje. Podle Borise Chernyho, vedoucího vývoje Claude Code, firma tento produkt původně vůbec nezamýšlela vytvořit – vznikl jako jeden z prototypů výzkumného týmu Labs, který měl zjistit, co všechno dokážou pokročilé AI modely.Klíčové body Claude Code je nyní přístupný přes webový prohlížeč na počítačích i telefonech pro předplatitele Pro (17 dolarů měsíčně) a Max (100 dolarů měsíčně) Nástroj dokáže opravovat chyby v kódu, aktualizovat soubory, provádět code review a vytvářet úkoly v nástrojích pro projektové řízení jako Asana Používají ho firmy..."
+        "content"  : "SouhrnClaude Code, nástroj pro automatizované programování od společnosti Anthropic, je nyní dostupný přímo ve webovém prohlížeči, nejen v profesionálních vývojářských nástrojích. Boris Cherny, vedoucí vývoje Claude Code, v rozhovoru pro PCMag prozradil, že produkt vznikl náhodou jako interní prototyp a Anthropic jej nikdy neplánoval oficiálně uvést na trh.Klíčové body Claude Code je nyní přístupný přes webový prohlížeč pro předplatitele tarif Pro (17 dolarů měsíčně) a Max (100 dolarů měsíčně) Nástroj dokáže opravovat chyby v kódu, aktualizovat soubory, provádět code review a vytvářet úkoly v projektových nástrojích jako Asana Produkt vznikl náhodně v rámci interního prototypovacího týmu Labs, který měl za..."
       }
       
       ,{
@@ -43318,10 +43357,10 @@
       }
       
       ,{
-        "title"    : "Anker Soundcore Sleep A30 se slevou téměř 40 dolarů",
+        "title"    : "Anker Soundcore Sleep A30 se slevou téměř 1000 Kč",
         "url"      : "/tech-news/ankers-latest-noise-canceling-sleep-earbuds-are-ne/",
         "category" : "tech_news",
-        "content"  : "SouhrnAnker Soundcore Sleep A30, specializovaná sluchátka určená pro spaní s aktivním potlačením hluku, jsou aktuálně v prodeji za 193,99 dolaru u prodejců Amazon, Walmart a Best Buy. Sleva 36 dolarů z původní ceny 230 dolarů představuje téměř stejnou nabídku jako během nedávného Prime Day.Klíčové body Cena klesla na 193,99 dolaru, což je sleva 16 % z běžné ceny 230 dolarů Sluchátka nabízejí aktivní potlačení hluku (ANC) s adaptivním maskovacím systémem Nabíjecí pouzdro analyzuje okolní zvuky a sluchátka optimalizují ANC pro blokování konkrétních ruchů Kompaktnější a pohodlnější design než předchozí generace, vhodný i pro spaní na boku Výdrž baterie postačuje na..."
+        "content"  : "SouhrnAnker Soundcore Sleep A30, specializovaná sluchátka určená pro nošení během spánku, jsou aktuálně v prodeji za 194 dolarů místo standardních 230 dolarů. Sleva 36 dolarů se blíží cenové nabídce z nedávného Prime Day a sluchátka jsou dostupná u prodejců Amazon, Walmart i Best Buy.Klíčové body Cena klesla na 194 dolarů, což představuje 16% slevu oproti běžné ceně 230 dolarů Sluchátka disponují aktivním potlačením hluku (ANC) s adaptivním maskovacím systémem Nabíjecí pouzdro analyzuje okolní zvuky a sluchátka optimalizují ANC pro blokování konkrétních ruchů Kompaktnější a pohodlnější design než předchozí generace, vhodné i pro spaní na boku Výdrž baterie pokryje celou noc..."
       }
       
       ,{
@@ -43342,7 +43381,7 @@
         "title"    : "Telefony Pixel dostanou chytřejší stále zapnutý displej, který šetří baterii",
         "url"      : "/tech-news/pixel-phones-will-get-a-smarter-always-on-display/",
         "category" : "tech_news",
-        "content"  : "SouhrnGoogle vyvíjí novou funkci pro telefony Pixel, která umožní inteligentnější správu stále zapnutého displeje (Always-on Display). Nové nastavení automaticky vypne obrazovku při detekci neaktivity uživatele, čímž výrazně sníží spotřebu energie. Funkce zatím není aktivní a není jasné, jak přesně bude Android určovat, kdy je telefon neaktivní.Klíčové body Google přidává do telefonů Pixel nové nastavení pro Always-on Display s názvem “Turn off display on inactivity” Funkce automaticky vypne displej, když nezjistí žádnou aktivitu uživatele, čímž šetří baterii Kód nové funkce byl objeven v nejnovějším Android Canary buildu Na rozdíl od konkurenčních Android telefonů Pixel aktuálně nenabízí žádné pokročilé ovládání AOD -..."
+        "content"  : "SouhrnGoogle vyvíjí novou funkci pro telefony Pixel, která inteligentně řídí Always-on Display (AOD) a automaticky vypíná obrazovku při detekci neaktivity uživatele. Kód objevený v nejnovějším Android Canary buildu naznačuje, že uživatelé Pixelů brzy získají lepší kontrolu nad touto funkcí, která dosud nabízela pouze možnost úplného zapnutí nebo vypnutí.Klíčové body Google přidává do nastavení Pixelů novou volbu “Turn off display on inactivity”, která automaticky vypne displej při neaktivitě Funkce má pomoci šetřit baterii při zachování výhod Always-on Display Kód byl objeven v Android Canary buildu vydaném v říjnu 2025 Zatím není jasné, jak přesně bude Android určovat neaktivitu telefonu Pixel telefony..."
       }
       
       ,{
@@ -43360,10 +43399,24 @@
       }
       
       ,{
+        "title"    : "AI asistenti dělají chyby v téměř polovině odpovědí o aktualitách, ukazuje nový výzkum",
+        "url"      : "/tech-news/ai-assistants-make-widespread-errors-about-the-new/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVedoucí AI asistenti jako ChatGPT, Copilot, Gemini a Perplexity poskytují nepřesné nebo zavádějící informace o aktualitách v téměř polovině svých odpovědí. Mezinárodní výzkum Evropské vysílací unie (EBU) a BBC analyzoval 3000 odpovědí ve 14 jazycích a odhalil závažné problémy s přesností, citováním zdrojů a rozlišováním faktů od názorů.Klíčové body 45 % odpovědí AI asistentů obsahovalo alespoň jeden závažný problém, celkem 81 % mělo nějakou formu chyby Třetina odpovědí vykazovala vážné chyby v citování zdrojů - chybějící, zavádějící nebo nesprávné uvedení původu informací Gemini od Googlu měl nejhorší výsledky v oblasti zdrojů - 72 % odpovědí obsahovalo závažné problémy s citacemi..."
+      }
+      
+      ,{
         "title"    : "Android Canary 2510 je poprvé dostupný pro celou rodinu Pixel",
         "url"      : "/tech-news/googles-latest-android-canary-is-finally-available/",
         "category" : "tech_news",
         "content"  : "SouhrnGoogle zpřístupnil vývojářskou verzi Android Canary 2510 pro všechna zařízení Pixel od šesté generace výše. Jedná se o první vydání, které je od začátku dostupné i pro kompletní řadu Pixel 10 včetně modelu Pro Fold. Aktualizace přináší vylepšené ovládání svítilny a dlouho očekávanou možnost přizpůsobení pořadí tlačítek v tříknoflíkové navigaci.Klíčové body Android Canary 2510 (build ZP11.250926.010) je dostupný pro Pixel 6 a novější modely Poprvé zahrnuje kompletní řadu Pixel 10 včetně Pro Fold od prvního dne vydání Nové grafické rozhraní pro ovládání jasu svítilny s vizuálními prvky Možnost změnit pořadí tlačítek v tříknoflíkové navigaci Canary track představuje nejnovější vývojovou větev..."
+      }
+      
+      ,{
+        "title"    : "Google Fi vylepšuje svou službu o automatické Wi-Fi připojení a AI vylepšení hovorů",
+        "url"      : "/tech-news/google-fi-rolls-out-some-major-upgrades-to-make-it/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle Fi, virtuální mobilní operátor společnosti Google, rozšiřuje své služby o několik praktických funkcí zaměřených na zlepšení konektivity a kvality hovorů. Hlavními novinkami jsou automatické připojování k milionům Wi-Fi hotspotů, AI vylepšení kvality hovorů na pevné linky a možnost volat a spravovat zprávy přímo z webového prohlížeče.Klíčové body Rozšíření sítě Wi-Fi Auto Connect+ o miliony nových lokací na letištích, nákupních centrech a dalších místech AI vylepšení kvality hovorů s filtrováním rušivých zvuků na pozadí a zlepšením srozumitelnosti hlasu Nová možnost volat, kontrolovat zprávy a hlasovou schránku z kompatibilního webového prohlížeče Integrace AI asistenta přímo v aplikaci Google Fi pro rychlejší..."
       }
       
       ,{
@@ -43374,6 +43427,13 @@
       }
       
       ,{
+        "title"    : "Kohler představil záchodovou kameru za 15 tisíc, která vyžaduje měsíční předplatné 170 Kč",
+        "url"      : "/tech-news/yes-theres-a-toilet-camera-and-it-charges-7-a-mont/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Kohler, známý výrobce koupelnového vybavení, představila produkt Dekoda – kameru s optickým senzorem, která se instaluje do záchodu a analyzuje stolici uživatele pro detekci zdravotních problémů. Zařízení stojí 599 dolarů (přibližně 13 500 Kč), ale k jeho fungování je nutné měsíční předplatné ve výši 7 dolarů (asi 160 Kč) nebo roční za 70 dolarů.Klíčové body Dekoda využívá optické senzory k analýze stolice a detekci potenciálních zdravotních problémů Pořizovací cena činí 599 dolarů, ale zařízení nefunguje bez aktivního předplatného Měsíční předplatné stojí 7 dolarů, roční varianta 70 dolarů Jde o další produkt v trendu předplatného pro běžné domácí spotřebiče Technologie..."
+      }
+      
+      ,{
         "title"    : "Persona 3 Reload dostane aktualizaci s osmi skladbami od původní zpěvačky",
         "url"      : "/tech-news/persona-3-reload-update-announced-adds-eight-songs/",
         "category" : "tech_news",
@@ -43381,52 +43441,423 @@
       }
       
       ,{
-        "title"    : "Samsung Galaxy XR podráží Apple Vision Pro o 38 tisíc korun",
+        "title"    : "Samsung Galaxy XR podřezává Apple Vision Pro o 38 tisíc korun",
         "url"      : "/tech-news/samsungs-galaxy-xr-mixed-reality-headset-undercuts/",
         "category" : "tech_news",
-        "content"  : "SouhrnSamsung uvedl na trh headset pro smíšenou realitu Galaxy XR za cenu 1 800 dolarů, což je o 1 700 dolarů méně než konkurenční Apple Vision Pro. Zařízení běží na nové platformě Android XR vyvinuté Googlem a je prvním komerčním produktem této kategorie od Samsungu a Googlu po pěti letech od ukončení podpory jejich mobilních VR headsetů.Klíčové body Galaxy XR stojí 1 800 dolarů (možnost splácení 149 dolarů měsíčně), což je polovina ceny Vision Pro za 3 499 dolarů Běží na platformě Android XR s integrovaným asistentem Google Gemini Pohání ho čip Qualcomm Snapdragon XR2+ Gen 2 Ovládání pomocí rukou..."
+        "content"  : "SouhrnSamsung oficiálně uvedl headset Galaxy XR pro smíšenou realitu za cenu 1 800 dolarů, což je téměř o polovinu méně než konkurenční Apple Vision Pro za 3 499 dolarů. Jde o první zařízení postavené na nové platformě Android XR, kterou Samsung vyvinul ve spolupráci s Googlem a Qualcommem. Headset je dostupný v USA a Jižní Koreji s možností financování za 149 dolarů měsíčně.Klíčové body Cena 1 800 dolarů představuje výrazně nižší vstupní bod než Vision Pro, ale stále výrazně vyšší než Meta Quest 3 První headset s platformou Android XR, která integruje Google Gemini asistenta přímo do systému Pohání ho..."
       }
       
       ,{
         "title"    : "První velký únik ceny OnePlus 15 přináší povzbudivé zprávy",
         "url"      : "/tech-news/the-first-major-oneplus-15-price-leak-has-encourag/",
         "category" : "tech_news",
-        "content"  : "ShrnutíPřed čínským uvedením telefonu OnePlus 15 se objevily neoficiální informace o ceně v Británii. Podle leakera by měla varianta s 512GB úložištěm stát 949 liber, což je o 50 liber méně než u loňského modelu OnePlus 13. Jde však o nepotvrzené spekulace.Klíčové informace Varianta 16GB RAM/512GB úložiště má stát 949 liber (asi 27 500 Kč) v Británii Oproti OnePlus 13 by šlo o pokles o 50 liber Cena základní 256GB varianty nebyla prozrazena OnePlus 15 nabídne čipset Snapdragon 8 Elite Gen 5, baterii 7 300 mAh s 120W drátovým a 50W bezdrátovým nabíjením a 165Hz OLED displejInformace pochází od twitterového..."
+        "content"  : "ShrnutíPřed oficiálním uvedením telefonu OnePlus 15 v Číně unikly informace o jeho ceně na britském trhu. Podle leakera Arsene Lupina by měla varianta s 16GB RAM a 512GB úložištěm stát 949 liber (přibližně 28 500 Kč), což je o 50 liber méně než u loňského modelu OnePlus 13. Jde však o nepotvrzené spekulace.Klíčové body Varianta 16GB/512GB má stát 949 liber v Británii Oproti OnePlus 13 (999 liber) jde o úsporu 50 liber Základní model s 256GB by mohl stát 849 liber (pokud bude slevu aplikována stejně) Potvrzené specifikace zahrnují Snapdragon 8 Elite Gen 5, baterii 7 300 mAh a 165Hz..."
       }
       
       ,{
-        "title"    : "OpenAI spouští webový prohlížeč Atlas s integrovaným ChatGPT",
+        "title"    : "Samsung představil Galaxy XR: Rozšířená realita s multimodální umělou inteligencí",
+        "url"      : "/tech-news/full-video-replay-galaxy-xr-merging-multimodal-ai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSamsung Electronics 21. října 2024 představil Galaxy XR, novou platformu pro rozšířenou realitu postavenou na kontextově aware multimodální umělé inteligenci. Systém má podle výrobce umožnit plnou imerzi a otevřít zcela nové možnosti pro zařízení navržená primárně pro práci s AI.Klíčové body Galaxy XR kombinuje rozšířenou realitu s multimodální AI schopnou zpracovávat různé typy vstupů (obraz, zvuk, text) Systém využívá kontextové povědomí pro přizpůsobení zážitku aktuální situaci uživatele Samsung prezentoval platformu jako základ pro AI-nativní zařízení nové generace Jde o Samsungův vstup do segmentu XR headsetů, kde již působí Apple s Vision Pro a Meta s Quest Platforma má umožnit plnou..."
+      }
+      
+      ,{
+        "title"    : "Windows 11 tiše získal funkci podobnou Google Lens, postavenou na Bingu",
+        "url"      : "/tech-news/windows-11-quietly-gets-a-built-in-google-lens-lik/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft přidal do nástroje Výstřižky ve Windows 11 funkci vizuálního vyhledávání postavenou na Bingu, která představuje přímou konkurenci Google Lens. Nová funkce je dostupná ve verzi 11.2508.29.0 a postupně se rozšiřuje ke všem uživatelům v produkční verzi systému.Klíčové body Nástroj Výstřižky (klávesová zkratka Win + Shift + S) nyní umožňuje přímo nahrát vybranou část obrazovky do vizuálního vyhledávání Bingu Funkce je dostupná ve verzi 11.2508.29.0 a rozšiřuje se ke všem uživatelům Windows 11 Microsoft reaguje na nedávné uvedení experimentální aplikace Google pro Windows v USA Jde o další rozšíření nástroje Výstřižky, který již dříve získal nahrávání obrazovky a OCR extrakci..."
+      }
+      
+      ,{
+        "title"    : "OpenAI spouští prohlížeč Atlas s ChatGPT jako konkurenci Google Chrome",
         "url"      : "/tech-news/openai-launches-browser-to-rival-google-chrome-dw/",
         "category" : "tech_news",
-        "content"  : "SouhrnOpenAI uvedlo nový webový prohlížeč Atlas, který integruje ChatGPT přímo do jádra prohlížení webu. Produkt má ambici nahradit tradiční koncept adresního řádku AI chatbotem a nabízí režim agenta, který autonomně vyhledává informace na základě historie uživatele. Zatím je dostupný pouze pro počítače Mac.Klíčové body Atlas nahrazuje klasický URL řádek rozhraním ChatGPT chatbota pro přirozenější interakci s webem Režim agenta automaticky prochází internet jménem uživatele na základě jeho historie a předpokládaných potřeb Prohlížeč umožňuje dokončovat úkoly bez kopírování textu nebo opouštění stránky Počáteční dostupnost je omezena na macOS, další platformy zatím nebyly oznámeny CEO Sam Altman označil projekt za vzácnou příležitost..."
+        "content"  : "SouhrnOpenAI v úterý oficiálně spustilo vlastní webový prohlížeč Atlas, který využívá technologii ChatGPT a má ambici změnit způsob, jakým lidé používají internet. Prohlížeč nahrazuje tradiční adresní řádek rozhraním s AI chatbotem a zatím je dostupný pouze pro počítače Apple Mac.Klíčové body Atlas nahrazuje klasický URL řádek rozhraním s AI chatbotem pro přirozenější interakci Režim “agent mode” automaticky prohledává internet za uživatele na základě jeho historie a předpovídá, jaké informace hledá Prohlížeč umožňuje dokončovat úkoly bez kopírování textu nebo opouštění stránky CEO Sam Altman označil launch za “vzácnou příležitost jednou za dekádu” přehodnotit koncept webového prohlížeče Dostupnost je zatím omezena pouze..."
       }
       
       ,{
         "title"    : "Apple údajně snižuje výrobu iPhone Air, zvyšuje produkci ostatních modelů řady 17",
         "url"      : "/tech-news/apple-slashes-iphone-air-production-plans-boosts-o/",
         "category" : "tech_news",
-        "content"  : "ShrnutíApple podle nepotvrzených zdrojů výrazně snižuje výrobní objednávky pro model iPhone Air, zatímco zvyšuje produkci ostatních modelů z řady iPhone 17. Celkové prodeje nové řady přitom překonávají očekávání navzdory slabému trhu se smartphony a probíhající celní válce mezi USA a Čínou. Informace pocházejí z dodavatelského řetězce a nejsou oficiálně potvrzeny.Jedná se o spekulativní zprávu založenou na anonymních zdrojích z dodavatelského řetězce. Článek neuvádí konkrétní čísla ani procenta snížení výroby iPhone Air, ani o kolik přesně Apple zvyšuje produkci ostatních modelů. Chybí také informace o tom, zda se iPhone Air vůbec dostal do prodeje, jaké jsou jeho specifikace nebo proč by..."
+        "content"  : "Apple podle nepotvrzených informací z dodavatelského řetězce drasticky snižuje objednávky na výrobu modelu iPhone Air, zatímco zvyšuje produkci ostatních variant řady iPhone 17. Celkové prodeje nové řady telefonů jsou přitom silné navzdory probíhající celní válce a stagnujícímu trhu se smartphony.Zdrojem informací jsou dodavatelé z asijského regionu, konkrétně z Tchaj-wanu, kde se nachází významná část dodavatelského řetězce Applu. Řada iPhone 17 byla představena 9. září 2025 a od té doby vykazuje dobré prodejní výsledky, zejména v Japonsku a dalších asijských trzích.Jde o spekulativní informace založené na neověřených zdrojích z dodavatelského řetězce. Článek neuvádí konkrétní čísla o snížení či zvýšení výroby, ani..."
       }
       
       ,{
-        "title"    : "AI chatboti selhávají při zprostředkování zpráv, ukazuje rozsáhlá studie",
+        "title"    : "Apple údajně zachová název iPhone 20 pro dvacáté výročí, předpovídá výzkumník šest modelů v roce 2027",
+        "url"      : "/tech-news/apple-will-stick-with-the-iphone-20-name-for-its-2/",
+        "category" : "tech_news",
+        "content"  : "Podle tvrzení seniora výzkumníka plánuje Apple pro dvacáté výročí iPhonu v roce 2027 zachovat tradiční číselné označení iPhone 20, namísto případného speciálního názvu. Současně se očekává uvedení celkem šesti modelů najednou.Jde však o pouhou spekulaci založenou na předpovědích jednotlivého analytika, nikoli o potvrzené informace od Applu. Firma tradičně drží své plány v tajnosti až do oficiálního oznámení. Předpověď šesti modelů by znamenala rozšíření současné čtyřmodelové řady (standardní, Plus, Pro, Pro Max), což by mohlo naznačovat další diferenciaci produktové řady.Historicky Apple u výročních modelů volil speciální označení - iPhone X (desáté výročí) použil římskou číslici místo čísla 10. Zachování běžného číselného..."
+      }
+      
+      ,{
+        "title"    : "AI chatboti selhávají při zpracování zpráv, ukazuje rozsáhlá studie",
         "url"      : "/tech-news/ai-chatbots-fail-at-accurate-news-major-study-reve/",
         "category" : "tech_news",
-        "content"  : "SouhrnRozsáhlá mezinárodní studie zahrnující 22 veřejnoprávních médií, včetně německé DW, zjistila, že čtyři nejpoužívanější AI chatboti poskytují nepřesné nebo zkreslené informace ve 45 % případů při zprostředkování zpravodajského obsahu. Problémy se objevují napříč jazyky i regiony a týkají se faktických chyb, problémů se zdroji i neschopnosti rozlišit fakta od názorů.Klíčové body Čtyři testované AI asistenty (ChatGPT, Microsoft Copilot, Google Gemini a Perplexity AI) zkreslují zpravodajský obsah v 45 % odpovědí 31 % odpovědí obsahovalo vážné problémy se zdroji informací, 20 % mělo závažné faktické chyby DW zaznamenala problémy v 53 % odpovědí, přičemž 29 % mělo konkrétní problémy s přesností..."
+        "content"  : "SouhrnRozsáhlá studie zahrnující 22 veřejnoprávních médií z celého světa prokázala, že čtyři nejpoužívanější AI asistenti poskytují nepřesné nebo zkreslené informace ve 45 % případů při odpovídání na otázky týkající se zpravodajství. Výzkum testoval ChatGPT, Microsoft Copilot, Google Gemini a Perplexity AI a odhalil závažné problémy s přesností, zdrojováním a schopností rozlišit fakta od názorů.Klíčové body AI chatboti zkreslují zpravodajský obsah v 45 % případů bez ohledu na jazyk či region 31 % odpovědí obsahovalo vážné problémy se zdrojováním informací 20 % odpovědí obsahovalo závažné faktické chyby U německého vysílatele DW mělo 53 % odpovědí významné problémy, přičemž 29 % trpělo..."
       }
       
       ,{
-        "title"    : "Microsoft chystá velkou aktualizaci Windows 11 s novým Start menu a vylepšeními hlavního panelu",
+        "title"    : "Microsoft chystá velkou aktualizaci Windows 11 s novou nabídkou Start a vylepšeními hlavního panelu",
         "url"      : "/tech-news/microsoft-prepares-major-windows-11-feature-drop-w/",
         "category" : "tech_news",
-        "content"  : "SouhrnMicrosoft dokončuje testování další velké aktualizace pro Windows 11, která přinese zásadně přepracované Start menu poprvé oznámené začátkem roku. Aktualizace je nyní v Release Preview kanálu programu Windows Insider, což je poslední fáze před oficiálním vydáním pro všechny uživatele, které by mohlo přijít již příští měsíc.Klíčové body Nové Start menu s přepracovaným rozhraním, které upřednostňuje seznam aplikací před doporučeným obsahem Kategorizovaný pohled na aplikace podobný iOS/iPadOS s možností přepnutí na klasické abecední řazení Vylepšená integrace s Phone Link pro rychlý přístup k fotografie, notifikacím a zprávám ze smartphonu Nová ikona baterie na hlavním panelu s možností zobrazit procenta a žlutým..."
+        "content"  : "SouhrnMicrosoft dokončuje testování velké aktualizace Windows 11, která přinese kompletně přepracovanou nabídku Start, vylepšení hlavního panelu a Průzkumníka souborů. Aktualizace je nyní v Release Preview Channel, což je poslední fáze před oficiálním vydáním pro všechny uživatele, které se očekává již příští měsíc.Klíčové body Nová nabídka Start s přepracovaným rozhraním, které upřednostňuje seznam aplikací před doporučeným obsahem Kategorizovaný pohled na aplikace podobný iOS/iPadOS s možností přepnutí na klasický abecední seznam Vylepšená integrace s telefonem přes Phone Link panel přímo v nabídce Start Nová ikona baterie na hlavním panelu s možností zobrazení procent a barevným indikátorem stavu Vylepšení Průzkumníka souborů s novými..."
+      }
+      
+      ,{
+        "title"    : "Samsung údajně opouští název Galaxy S26 Pro ještě před jeho uvedením",
+        "url"      : "/tech-news/the-galaxy-s26-pro-is-dead-before-it-even-arrived/",
+        "category" : "tech_news",
+        "content"  : "Samsung podle nepotvrzených informací od leakera Yogeshe Brara opouští plánované změny v pojmenování své vlajkové řady Galaxy S26. Společnost se tak vrací k původnímu schématu Galaxy S26, Galaxy S26 Plus a Galaxy S26 Ultra.Původně se spekulovalo, že Samsung přejmenuje základní model na Galaxy S26 Pro, aby lépe konkuroval pojmenování Apple iPhone Pro. Tato změna měla přijít po letošním experimentu s modelem Galaxy S25 Edge, který měl nahradit tradiční variantu Plus. Galaxy S25 Edge se však prodával ještě hůře než předchozí modely Plus, což vedlo k opuštění této strategie.Návrat k tradičnímu pojmenování znamená, že Samsung zůstává u osvědčeného schématu se třemi..."
+      }
+      
+      ,{
+        "title"    : "Konec Windows 10 přinesl rekordní zájem o jednu linuxovou distribuci",
+        "url"      : "/tech-news/the-end-of-windows-10-has-been-a-boon-for-one-part/",
+        "category" : "tech_news",
+        "content"  : "SouhrnDistribuce Zorin OS zaznamenala rekordní počet stažení po ukončení podpory Windows 10 dne 14. října 2025. Vývojáři strategicky vydali novou verzi Zorin OS 18 přesně v den ukončení podpory Windows 10, což vedlo k více než 100 000 stažením během pouhých dvou dnů. Podle údajů pocházelo 72 % těchto stažení z počítačů se systémem Windows.Klíčové body Zorin OS 18 byl vydán strategicky v den ukončení podpory Windows 10 Za dva dny bylo zaznamenáno přes 100 000 stažení, což představuje největší vydání v historii distribuce 72 % stažení pocházelo z počítačů s Windows, což potvrzuje přechod uživatelů z Windows 10 Francouzské..."
+      }
+      
+      ,{
+        "title"    : "Clickbait a spam způsobují AI modelům &#39;degradaci schopností&#39;, zjistili vědci",
+        "url"      : "/tech-news/clickbait-gives-ai-models-brain-rot-researchers-fi/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVýzkumný tým z amerických univerzit prokázal, že trénování velkých jazykových modelů (LLM) na nekvalitních datech ze sociálních sítí vede k výraznému zhoršení jejich výkonu. Studie nazvaná “LLM Brain Rot Hypothesis” testovala čtyři různé modely na datech z platformy X a zjistila pokles v logickém uvažování, porozumění kontextu i dodržování bezpečnostních standardů.Klíčové body Výzkumníci z Texas A&amp;amp;M University, University of Texas at Austin a Purdue University identifikovali dva typy “nekvalitních” dat: krátké příspěvky ze sociálních sítí s vysokou mírou interakcí a delší obsah s clickbaitovými titulky Testovány byly čtyři modely: Llama3 8B, Qwen2.5 7B/0.5B a Qwen3 4B na vzorku jednoho milionu..."
+      }
+      
+      ,{
+        "title"    : "Google testuje další umístění pro Nano Banana, virální generátor obrázků",
+        "url"      : "/tech-news/google-is-testing-another-home-for-nano-banana-and/",
+        "category" : "tech_news",
+        "content"  : "Google pokračuje v testování různých umístění pro svůj nástroj Nano Banana, který umožňuje úpravu obrázků pomocí textových popisů. Společnost nyní experimentuje s integrací do plovoucího overlay asistenta Gemini, který se zobrazuje při aktivaci nad jinými aplikacemi.V testovací verzi 16.42.61 aplikace Google se objevilo nové tlačítko “Edit this image” (Upravit tento obrázek), které se zobrazí po přidání obrázku do Gemini overlay. Toto tlačítko spouští režim Nano Banana, kde uživatelé mohou pomocí textového popisu upravovat libovolné obrázky. Funkce se liší od stávající možnosti, která nabízí živou konverzaci o obsahu obrázku prostřednictvím Gemini Live.Google také testuje tlačítko “Feeling Lucky” pro Nano Banana, jehož..."
+      }
+      
+      ,{
+        "title"    : "Spotify potvrdilo problémy s Android aplikací – zamrzá a padá, ale jen na Wi-Fi",
+        "url"      : "/tech-news/spotify-confirms-android-app-is-freezing-and-crash/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpotify oficiálně potvrdilo, že jeho aplikace pro Android má závažné problémy se stabilitou, které se projevují pouze při připojení k Wi-Fi sítím. Aplikace zamrzá, přestává reagovat nebo úplně padá, což ji činí prakticky nepoužitelnou. Problém se objevil přibližně před dvěma týdny a postihuje především uživatele telefonů Samsung Galaxy a Google Pixel.Klíčové body Aplikace Spotify pro Android zamrzá a padá pouze při připojení k Wi-Fi, nikoli při použití mobilních dat Problém se objevil před dvěma týdny a postihuje především zařízení Samsung Galaxy a Google Pixel Spotify problém oficiálně potvrdilo a pracuje na opravě, termín vydání není znám Uživatelé spekulují o souvislosti..."
+      }
+      
+      ,{
+        "title"    : "Apple údajně drasticky omezuje výrobu iPhone Air kvůli slabé poptávce",
+        "url"      : "/tech-news/apple-is-drastically-cutting-iphone-air-production/",
+        "category" : "tech_news",
+        "content"  : "Apple podle zdrojů z dodavatelského řetězce výrazně omezuje výrobu modelu iPhone Air, který představil teprve v září 2025. Výrobní objednávky od listopadu klesnou na méně než 10 % objemů ze září, což odpovídá téměř úrovním ukončení výroby.Příčinou je slabá poptávka zákazníků, kteří dávají přednost tradičním modelům iPhone 17 a výkonnějším verzím Pro a Pro Max s lepšími fotoaparáty a výdrží baterie. Průzkum investiční společnosti KeyBanc Capital Markets potvrzuje “prakticky nulovou poptávku” po iPhone Air a omezenou ochotu platit za skládací telefony.Jde o spekulativní zprávu založenou na anonymních zdrojích z dodavatelského řetězce, nikoli oficiální vyjádření Applu. iPhone Air měl být nejtenčím..."
+      }
+      
+      ,{
+        "title"    : "Samsung představil headset Galaxy XR jako konkurenci pro Apple Vision Pro",
+        "url"      : "/tech-news/samsung-takes-on-apples-vision-pro-with-new-galaxy/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSamsung oficiálně představil headset Galaxy XR pro smíšenou realitu, který má konkurovat Apple Vision Pro. Zařízení běží na operačním systému Android XR od Googlu a čipu Snapdragon XR2+ Gen 2 od Qualcommu. S cenou 1 800 dolarů je téměř o polovinu levnější než Vision Pro a je dostupný v USA a Jižní Koreji.Klíčové body Cena 1 800 dolarů představuje téměř polovinu ceny Apple Vision Pro (3 499 dolarů) Micro OLED displej s 27 miliony pixelů (o 6 milionů více než Vision Pro) a rozlišením 3 552 × 3 840 pixelů Hmotnost 545 gramů oproti 750-800 gramům u Vision Pro Výdrž..."
+      }
+      
+      ,{
+        "title"    : "Nový iPad Pro, 14palcový MacBook Pro a Apple Vision Pro jsou nyní k dispozici - Apple",
+        "url"      : "/tech-news/new-ipad-pro-14-inch-macbook-pro-and-apple-vision/",
+        "category" : "tech_news",
+        "content"  : "Zákazníci Apple nyní mohou objevovat a kupovat 11palcový a 13palcový iPad Pro, nový 14palcový MacBook Pro a Apple Vision Pro.Číst původní článekZdroj: 📰 Apple Newsroom"
+      }
+      
+      ,{
+        "title"    : "OpenAI představilo prohlížeč ChatGPT Atlas s integrovanou umělou inteligencí",
+        "url"      : "/tech-news/chatgpt-atlas-is-an-ai-infused-but-chromium-based/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI uvedlo webový prohlížeč ChatGPT Atlas, který nabízí hlubokou integraci chatbota přímo do prostředí pro procházení webu. Prohlížeč je zatím dostupný pouze pro macOS a navzdory vlastním funkcím je postaven na open-source jádru Chromium, stejně jako Google Chrome či desítky dalších prohlížečů.Klíčové body Atlas je první webový prohlížeč od OpenAI s ChatGPT integrovaným přímo v jádru systému Dostupný pouze pro macOS, verze pro Windows nebyla oznámena Postavený na Chromium, podporuje rozšíření z Chrome Web Store Nabízí přístup k ChatGPT přes postranní panel i kontextovou nabídku po kliknutí pravým tlačítkem Umožňuje ChatGPT procházet historii prohlížení a vytvářet “paměť prohlížeče” pro lepší..."
+      }
+      
+      ,{
+        "title"    : "iPhone 17 Pro vs. Pixel 10 Pro XL: Srovnání fotoaparátů vlajkových lodí",
+        "url"      : "/tech-news/iphone-17-pro-vs-pixel-10-pro-xl-i-pitted-smartpho/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRedakce CNET provedla podrobné srovnání fotografických schopností dvou nejdůležitějších vlajkových telefonů současnosti - iPhone 17 Pro za 1 099 dolarů a Pixel 10 Pro XL za 1 199 dolarů. Oba telefony představují nejen vrchol svých produktových řad, ale také vzory, podle kterých se řídí ostatní výrobci, zejména v případě Pixelu, jehož výrobce Google stojí za operačním systémem Android.Klíčové body Oba telefony byly testovány v reálných podmínkách v Seattlu a v oblasti Columbia River Gorge Všechny fotografie byly pořízeny s výchozím automatickým nastavením, některé v RAW formátu Kvalita obrazu je u obou telefonů excelentní, ale každý překvapil v jiných situacích Oba..."
+      }
+      
+      ,{
+        "title"    : "Escape from Duckov překonalo milion prodaných kopií za pět dní",
+        "url"      : "/tech-news/escape-from-duckov-sales-top-one-million-gematsu/",
+        "category" : "tech_news",
+        "content"  : "SouhrnIndie hra Escape from Duckov od vývojářského studia Team Soda překonala milion prodaných kopií pouhých pět dní po vydání 16. října 2024. Hra, kterou vydává čínská platforma Bilibili, zaznamenala na Steamu špičkový počet 221 963 současně hrajících hráčů, čímž se zařadila na 76. místo v historickém žebříčku nejhranějších her na této platformě.Klíčové body Hra prodala 200 000 kopií během prvních 24 hodin a 500 000 kopií do 19. října Maximální počet současně hrajících hráčů dosáhl 221 963, což ji řadí na 5. místo aktuálně nejhranějších her na Steamu Vydána současně na Steamu a Epic Games Store pro PC Vyvíjí studio..."
+      }
+      
+      ,{
+        "title"    : "Čip A20 v příštím roce může výrazně zvýšit ceny iPhonů",
+        "url"      : "/tech-news/next-years-a20-chip-might-push-iphone-prices-even/",
+        "category" : "tech_news",
+        "content"  : "Podle zprávy čínského deníku China Times by mohl čip Apple A20, který se očekává v příštím roce v řadě iPhone 18, výrazně zvýšit ceny těchto telefonů. Důvodem je přechod na nový 2nanometrový výrobní proces u tchajwanského výrobce TSMC.TSMC investovalo značné prostředky do vývoje 2nm procesu a podle zprávy není ochotno na cenách vyjednávat jako v minulosti. Nový výrobní proces má přinést minimálně 50% nárůst ceny oproti současnému 3nm procesu. Přesné finanční detaily partnerství mezi Apple a TSMC nejsou veřejné, ale takový nárůst by mohl znamenat výrazné zvýšení celkových nákladů.Letos Apple již zvýšil vstupní ceny u modelů iPhone 17 Pro a..."
+      }
+      
+      ,{
+        "title"    : "Jazykové modely trpí &quot;mozkovým úpadkem&quot; při trénování na obsahu ze sociálních sítí",
+        "url"      : "/tech-news/ai-models-get-brain-rot-too-wired/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVýzkumníci z univerzit v Texasu a Purdue zjistili, že velké jazykové modely trénované na virálním obsahu ze sociálních sítí zažívají formu “mozkového úpadku” podobnou tomu, co postihuje lidi po dlouhém scrollování na platformách jako X nebo TikTok. Studie testovala dopady nekvalitních trénovacích dat na open-source modely Meta Llama a Alibaba Qwen, přičemž zjistila výrazné snížení rozumových schopností, degradaci paměti a pokles etického zaměření.Klíčové body Modely trénované na virálních příspěvcích a senzačním obsahu vykazují měřitelný pokles kognitivních schopností Testovány byly open-source modely Meta Llama a Alibaba Qwen s využitím různých benchmarků Výzkum identifikoval snížení rozumových schopností, horší paměť a pokles etického..."
+      }
+      
+      ,{
+        "title"    : "Magnetická powerbanka Qi 2.2 připomíná klasický fotoaparát Sony Cybershot",
+        "url"      : "/tech-news/this-magnetic-qi-22-powerbank-looks-like-a-classic/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Sharge, známá svými designově neobvyklými nabíjecími příslušenstvími, představila powerbanku Icemag 3 inspirovanou klasickými kompaktními fotoaparáty Sony Cybershot T-Series. Zařízení kombinuje kapacitu 10 000 mAh s magnetickým bezdrátovým nabíjením Qi 2.2 o výkonu 25W, vestavěným USB-C kabelem a hliníkovým stojánkem připomínajícím posuvnou krytku objektivu původních fotoaparátů.Klíčové body Kapacita 39,1 Wh (10 000 mAh) s magnetickým bezdrátovým nabíjením Qi 2.2 až 25W Vestavěný 35W USB-C kabel integrovaný do textilního řemínku Hliníkový sklopný stojánek inspirovaný posuvnou krytkou Sony Cybershot Aktivní chlazení ventilátorem s otáčkami 10 000 ot/min Volitelné RGB podsvícení a průchozí nabíjení přes dodatečný USB-C portPodrobnostiSharge se specializuje na výrobu USB-C..."
+      }
+      
+      ,{
+        "title"    : "Apple odstranil z App Store aplikaci Tea pro bezpečnost žen při randění",
+        "url"      : "/tech-news/apple-removes-women-dating-safety-app-from-the-app/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple odstranil z App Store aplikaci Tea, která měla ženám pomáhat sdílet informace o potenciálně nebezpečných partnerech při randění. Aplikace byla stažena po sérii závažných úniků dat a nadměrném počtu stížností, včetně těch týkajících se zveřejňování osobních údajů nezletilých.Klíčové body Apple odstranil aplikaci Tea i její napodobeninu TeaOnHer z App Store kvůli porušení podmínek používání Aplikace čelila dvěma závažným únikům dat - první odhalil řidičské průkazy a selfie uživatelek, druhý kompromitoval soukromé zprávy Tea umožňovala ženám sdílet varování před problematickými muži, ověřovat jejich totožnost a provádět kontroly minulosti Apple obdržel nadměrné množství stížností, zejména kvůli zveřejňování osobních údajů nezletilých Aplikace..."
+      }
+      
+      ,{
+        "title"    : "Samsung Galaxy XR je první headset s Android XR, v prodeji za 1 800 dolarů",
+        "url"      : "/tech-news/samsung-galaxy-xr-is-the-first-android-xr-headset/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSamsung uvedl na trh Galaxy XR, první headset využívající nový operační systém Android XR od Googlu. Zařízení je k dispozici v předprodeji za 1 800 dolarů bez ovladačů a představuje třetí pokus Googlu etablovat Android ve světě virtuální a rozšířené reality. Headset přímo konkuruje Apple Vision Pro, se kterým sdílí podobný design včetně externího bateriového packu.Klíčové body Cena 1 800 dolarů bez ovladačů, k dispozici v předprodeji Dva Micro-OLED displeje s rozlišením 3 552 x 3 840 pixelů na oko (109° zorné pole) Procesor Snapdragon XR2+ Gen 2, 16 GB RAM, 256 GB úložiště Celkem 12 kamer pro passthrough video,..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk ostře kritizuje dočasného šéfa NASA po znovuotevření tendru na lunární modul",
+        "url"      : "/tech-news/sean-dummy-elon-musk-goes-after-acting-nasa-chief/",
+        "category" : "tech_news",
+        "content"  : "SouhrnNASA pod vedením dočasného administrátora Seana Duffyho oznámila znovuotevření tendru na lunární modul pro misi Artemis 3, což vyvolalo ostrou reakci Elona Muska. SpaceX původně vyhrál tento kontrakt v dubnu 2021 s plánem použít upravenou horní část rakety Starship, ale Duffy vyjádřil obavy, že společnost nestihne termín plánovaný na rok 2028.Klíčové body NASA znovuotevírá soutěž o kontrakt na lunární modul pro misi Artemis 3, kterou původně vyhrál SpaceX Dočasný šéf NASA Sean Duffy tvrdí, že SpaceX je pozadu s vývojem Starship a posouvá termíny Elon Musk reagoval sérií urážlivých příspěvků na síti X, nazývá Duffyho “Sean Dummy” a “nebezpečně hloupým”..."
+      }
+      
+      ,{
+        "title"    : "OpenAI Atlas: Prohlížeč jako distribuční kanál pro ChatGPT",
+        "url"      : "/tech-news/openais-atlas-is-more-about-chatgpt-than-the-web-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI v úterý představilo vlastní webový prohlížeč ChatGPT Atlas, který má potenciál oslovit až 800 milionů týdenních uživatelů ChatGPT. Hlavním cílem není inovace v prohlížení webu, ale zajištění kontroly nad distribučními kanály ChatGPT a posílení pozice AI asistenta jako primárního nástroje pro vyhledávání namísto Google.Klíčové body Atlas je dostupný zatím pouze pro macOS, verze pro Windows, iOS a Android jsou ve vývoji Na rozdíl od konkurence (Dia od The Browser Company, Opera Neon, Perplexity Comet) je Atlas okamžitě dostupný všem uživatelům bez systému pozvánek Základní koncept nahrazuje tradiční vyhledávání přes Google přímými odpověďmi od AI chatbota v adresním řádku Spuštění..."
+      }
+      
+      ,{
+        "title"    : "OpenAI spouští prohlížeč Atlas a vstupuje do konkurence s Google Chrome",
+        "url"      : "/tech-news/openai-launches-atlas-browser-to-compete-with-goog/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI v úterý představilo vlastní webový prohlížeč s názvem Atlas, který integruje chatbota ChatGPT přímo do procházení webu. Tento krok staví společnost do přímé konkurence s Google Chrome a představuje pokus o monetizaci obrovské uživatelské základny ChatGPT prostřednictvím internetového provozu a digitální reklamy.Klíčové body Atlas je webový prohlížeč s integrovaným ChatGPT, který má konkurovat Google Chrome s jeho 3 miliardami uživatelů Spuštění začíná na macOS, později přijde podpora pro Windows, iOS a Android ChatGPT má přes 800 milionů uživatelů, většina z nich používá bezplatnou verzi OpenAI hledá způsoby zpeněžení, protože aktuálně prodělává více, než vydělává Prohlížeč vychází měsíce poté, co..."
+      }
+      
+      ,{
+        "title"    : "Apple údajně omezuje výrobu iPhone Air",
+        "url"      : "/tech-news/apples-reportedly-pulling-back-on-iphone-air-produ/",
+        "category" : "tech_news",
+        "content"  : "Krátké shrnutíApple podle nepotvrzených informací z dodavatelského řetězce výrazně omezuje výrobu nového ultratenkého modelu iPhone Air. Zatímco celková plánovaná produkce řady iPhone 17 zůstává na úrovni 85 až 90 milionů kusů, objem výroby modelu Air byl snížen na úroveň blízkou ukončení produkce. Podle zdrojů portálu Nikkei Asia měl Air původně tvořit 10 až 15 procent celkové produkce řady iPhone 17, ale od listopadu bude jeho výroba výrazně omezena.Apple kompenzuje snížení výroby modelu Air zvýšením produkce základního iPhone 17 o 5 milionů kusů a navýšením výroby modelů Pro. Tato zpráva přichází jen týden poté, co se objevily spekulace o zrušení modelu..."
+      }
+      
+      ,{
+        "title"    : "OnePlus 15 dostane trojitý 50MP fotoaparát a ukončí spolupráci s Hasselblad",
+        "url"      : "/tech-news/oneplus-15-is-officially-getting-a-mighty-camera-t/",
+        "category" : "tech_news",
+        "content"  : "OnePlus pokračuje v sérii oficiálních oznámení o chystaném modelu OnePlus 15, jehož čínská premiéra se blíží. Nejnovější informace se týkají fotoaparátu a znamenají konec spolupráce s firmou Hasselblad.Telefon dostane trojitý fotoaparát s rozlišením 50 megapixelů u všech tří senzorů. Jedním z nich bude periskopický teleobjektiv s ekvivalentní ohniskovou vzdáleností 85 mm, který nabídne 3,5násobný optický zoom. Hlavní fotoaparát zvládne natáčet video ve 4K rozlišení při 120 snímcích za sekundu s podporou Dolby Vision. Zpracování obrazu zajistí systém Lumo vyvinutý společností Oppo, což znamená ukončení pětileté spolupráce s Hasselblad, která začala u modelu OnePlus 9 a skončila loňským OnePlus 13.Zařízení dále..."
+      }
+      
+      ,{
+        "title"    : "Snapchat zpřístupňuje AI generování obrázků zdarma všem uživatelům v USA",
+        "url"      : "/tech-news/snapchat-makes-its-first-open-prompt-ai-lens-avail/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSnapchat zpřístupňuje svou funkci Imagine Lens všem uživatelům zdarma v USA. Jde o první nástroj společnosti pro generování obrázků pomocí AI na základě volných textových příkazů, který byl od září 2024 dostupný pouze placeným předplatitelům služeb Lens+ a Snapchat Platinum.Klíčové body Imagine Lens umožňuje uživatelům upravovat vlastní fotografie nebo generovat zcela nové obrázky pomocí textových příkazů Bezplatní uživatelé získají omezený počet generování, který se liší podle regionu a kapacity systému Rozšíření přístupu je reakcí na konkurenci ze strany Meta AI a OpenAI Sora, které nabízejí pokročilejší AI nástroje včetně generování videí Výsledky lze sdílet s přáteli, publikovat do Stories nebo..."
+      }
+      
+      ,{
+        "title"    : "BIND varuje před chybami umožňujícími otrávení DNS cache",
+        "url"      : "/tech-news/bind-warns-of-bugs-that-could-bring-dns-cache-atta/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVývojáři BIND, nejrozšířenějšího softwaru pro překlad doménových jmen na internetu, varují před dvěma závažnými zranitelnostmi umožňujícími útok typu DNS cache poisoning. Chyby s označením CVE-2025-40778 a CVE-2025-40780 mají hodnocení závažnosti 8,6 z 10 a mohou útočníkům umožnit nahradit legitimní IP adresy škodlivými, čímž přesměrují uživatele na podvržené stránky.Klíčové body Dvě kritické zranitelnosti v BIND s hodnocením 8,6/10 umožňují otrávení DNS cache CVE-2025-40778 vznikla kvůli logické chybě, CVE-2025-40780 kvůli slabosti v generování pseudonáhodných čísel Podobné zranitelnosti odhaleny také v DNS resolveru Unbound (hodnocení 5,6/10) Útok připomína slavnou zranitelnost z roku 2008 odhalenou Danem Kaminským Záplaty pro všechny tři zranitelnosti jsou k..."
+      }
+      
+      ,{
+        "title"    : "Úniky odhalují tajemný telefon OnePlus se Snapdragonem 8 Gen 5 a baterií přes 8000 mAh",
+        "url"      : "/tech-news/mysterious-oneplus-phone-with-qualcomm-snapdragon/",
+        "category" : "tech_news",
+        "content"  : "Čínský informátor Digital Chat Station zveřejnil na sociální síti Weibo informace o dosud nepojmenovaném smartphonu OnePlus, který by měl být uveden na trh koncem letošního roku. Jedná se o spekulace založené na neověřených zdrojích.Telefon by měl být vybaven procesorem Qualcomm Snapdragon 8 Gen 5, což je čipset střední třídy plánovaný na druhou polovinu roku 2025. Podle informátora má tento procesor nabídnout mírně vyšší výkon než Snapdragon 8 Elite, který pohání model OnePlus Ace 6. Je důležité nezaměňovat Snapdragon 8 Gen 5 s vlajkovým Snapdragon 8 Elite Gen 5, který používají špičkové modely jako OnePlus 15, Xiaomi 17 nebo Realme GT..."
+      }
+      
+      ,{
+        "title"    : "Google Fotky údajně testují AI generátor memů s vlastní tváří",
+        "url"      : "/tech-news/this-is-fine-google-photos-could-soon-let-you-turn/",
+        "category" : "tech_news",
+        "content"  : "Krátké shrnutíV beta verzi Google Fotek 7.51.0 byl objeven kód nové funkce s názvem “Me Meme”, která by měla umožnit uživatelům vytvářet personalizované memy s vlastní tváří nebo tvářemi přátel a rodiny. Funkce využívá generativní AI a vyžaduje zálohovanou referenční fotografii, ideálně selfie. Jedná se o spekulaci založenou na analýze kódu aplikace, nikoli o oficiálně oznámenou funkci.Funkce by měla fungovat tak, že uživatel vybere šablonu memu, zvolí referenční fotografii ze zálohovaných snímků v Google Fotkách a AI následně vytvoří personalizovaný mem vhodný ke sdílení v konverzacích nebo na sociálních sítích. Podle nalezených textových řetězců v kódu bude nutné mít fotografii..."
+      }
+      
+      ,{
+        "title"    : "Google Pixel 10 brzy dostane aktualizaci ovladačů GPU",
+        "url"      : "/tech-news/google-pixel-10-will-soon-get-a-gpu-driver-update/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle potvrdil, že chystá aktualizaci ovladačů GPU pro Pixel 10, který trpí výkonnostními problémy navzdory použití nového grafického čipu PowerVR od Imagination Technologies. Telefon je dodáván se zastaralými ovladači verze 24.3, zatímco výrobce GPU již vydal novější verzi 25.1 s podporou Android 16 a Vulkan 1.4.Klíčové body Pixel 10 používá GPU PowerVR DXT-48-1536 s výkonem 1,5 TFLOPS, přesto v benchmarcích zaostává za předchozím modelem Pixel 9 Telefon je dodáván s ovladači verze 24.3, které nepodporují Android 16, ačkoliv novější verze 25.1 je již k dispozici Google potvrdil plánované aktualizace ovladačů v budoucích měsíčních a čtvrtletních aktualizacích systému Předchozí aktualizace ze..."
+      }
+      
+      ,{
+        "title"    : "Série Galaxy S26 se údajně opozdí, Samsung možná odloží uvedení na trh",
+        "url"      : "/tech-news/bad-news-keeps-piling-up-for-the-galaxy-s26-series/",
+        "category" : "tech_news",
+        "content"  : "Podle informací od známého leakera Ice Universe dojde k odložení uvedení série Galaxy S26 na trh. Samsung tradičně představuje své vlajkové telefony řady Galaxy S v lednu – tak tomu bylo u modelů S24 i S25. Pro rok 2026 se však očekává změna.Leaker na čínské sociální síti Weibo uvedl, že k odkladu dojde, ale nespecifikoval délku odložení ani důvod. Pokud půjde o kratší odklad, telefony by mohly být představeny v únoru, což by odpovídalo uvedení modelů Galaxy S22 a S23 v minulosti. Řecký web TechManiacs však minulý týden spekuloval o březnovém termínu, což by znamenalo výraznější zpoždění. Tento zdroj má..."
+      }
+      
+      ,{
+        "title"    : "Microsoft varuje uživatele Windows – hackeri získávají přístup k nepodporovaným počítačům",
+        "url"      : "/tech-news/microsoft-warns-windows-usershackers-gain-access-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft vydal varování před bezpečnostními riziky nepodporovaných systémů Windows, především po ukončení podpory Windows 10 v říjnu 2024. Přibližně 400 milionů počítačů se ocitlo bez bezpečnostních aktualizací, což vytváří bezprecedentní příležitost pro kybernetické útoky. Společnost upozorňuje, že odkládání upgradu o “jen jeden rok” může mít fatální důsledky.Klíčové body Windows 10 dosáhl konce životnosti, což postihuje přibližně 400 milionů počítačů bez rozšířené podpory ESU (Extended Security Updates) Jde o historicky největší počet zařízení, která ztratila podporu v jediný den Microsoft varuje před strategií kyberútočníků, kteří necílí přímo na nejcennější data, ale hledají slabá místa v zastaralých systémech Windows 11 zároveň čelí..."
+      }
+      
+      ,{
+        "title"    : "Šéf Corningu popsal, jak ho Steve Jobs donutil vyrábět všechny displeje pro první iPhone",
+        "url"      : "/tech-news/corning-ceo-says-steve-jobs-pressured-him-into-mak/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGenerální ředitel společnosti Corning Wendell Weeks v podcastu Fortune Leadership Next popsal klíčové setkání se Stevem Jobsem z roku 2007, které vedlo k masové výrobě Gorilla Glass pro první iPhone. Jobs tehdy odmítl Weeksův návrh na jiný produkt a místo toho ho psychologicky donutil přijmout zakázku, kterou Corning považoval za neproveditelnou.Klíčové body Steve Jobs požadoval masovou výrobu odolného skla pro iPhone do šesti měsíců před červnovým uvedením v roce 2007 Corning měl technologii Gorilla Glass, ale ne výrobní kapacity pro produkci v požadovaném měřítku Správní rada Corningu doporučila Weeksovi navrhnout Jobsovi druhého dodavatele, Jobs to kategoricky odmítl Jobs použil psychologickou..."
+      }
+      
+      ,{
+        "title"    : "OpenAI plánuje vylepšení pro prohlížeč ChatGPT Atlas",
+        "url"      : "/tech-news/openai-teases-new-features-and-fixes-for-chatgpt-a/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI dva dny po vydání svého AI prohlížeče ChatGPT Atlas zveřejnila plány na řadu vylepšení. Vedoucí produktu Adam Fry na platformě X představil seznam funkcí, které mají v nadcházejících týdnech dorazit do prohlížeče, jenž má konkurovat Google Chrome.Klíčové body Prohlížeč ChatGPT Atlas dostane uživatelské profily, skupiny záložek a volitelný blokátor reklam AI agent bude rychlejší, spolehlivější a lépe integrovaný s Google Drive a cloudovým Excelem Postranní panel Ask ChatGPT umožní přímý výběr projektů a AI modelů bez nutnosti opouštět stránku Většina vylepšení má dorazit během několika týdnů, některá budou trvat déle OpenAI aktivně sbírá zpětnou vazbu od uživatelůPodrobnostiChatGPT Atlas představuje..."
+      }
+      
+      ,{
+        "title"    : "Microsoft Teams bude automaticky sledovat, kdy jste v kanceláři pomocí Wi-Fi",
+        "url"      : "/tech-news/microsoft-teams-is-about-to-become-a-lapdog-for-yo/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft připravuje pro Teams novou funkci automatické detekce pracovní polohy, která využívá připojení k firemní Wi-Fi síti. Když se uživatel připojí k Wi-Fi v kanceláři, Teams automaticky aktualizuje jeho pracovní polohu a zobrazí, v jaké budově se nachází. Funkce má být široce dostupná v prosinci 2025.Klíčové body Teams automaticky nastaví pracovní polohu uživatele při připojení k firemní Wi-Fi síti Funkce umožní manažerům a kolegům snadno zjistit, kdo je fyzicky přítomen v kanceláři Spuštění je plánováno na prosinec 2025, funkce je zatím ve fázi vývoje Novinka přichází v době, kdy Microsoft řeší antimonopolní tlaky ohledně balíčkování Teams s Office 365 Samostatná..."
+      }
+      
+      ,{
+        "title"    : "Apple údajně přeskočí označení iPhone 19 a přejde rovnou na iPhone 20",
+        "url"      : "/tech-news/report-apple-to-skip-iphone-19-name-for-iphone-20/",
+        "category" : "tech_news",
+        "content"  : "Výzkumná firma Omdia tvrdí, že Apple v roce 2027 přeskočí označení iPhone 19 a novou generaci pojmenuje rovnou iPhone 20. Informace zazněla na konferenci v Soulu od hlavního výzkumníka společnosti Heo Moo-yeola.Podle Omdia má Apple v první polovině roku 2027 představit modely iPhone 18e a iPhone 18, zatímco ve druhé polovině roku přijde řada iPhone 20 zahrnující iPhone Air nové generace, iPhone 20 Pro, iPhone 20 Pro Max a druhá generace skládacího iPhonu. Změna má být součástí širší strategie obnovení názvosloví iPhonů a oživení produktové řady u příležitosti 20. výročí zařízení.Apple již podobný krok učinil v roce 2017, kdy u..."
+      }
+      
+      ,{
+        "title"    : "Analytik tvrdí, že Apple přeskočí iPhone 19 - je čas opustit číslování?",
+        "url"      : "/tech-news/as-analyst-says-apple-will-skip-the-iphone-19-is-i/",
+        "category" : "tech_news",
+        "content"  : "Analytik Ming-Chi Kuo, známý svými předpověďmi ohledně produktů Apple, přichází se spekulací, že společnost by mohla v roce 2027 přeskočit označení iPhone 19 a přejít rovnou na iPhone 20. Důvodem má být údajně snaha vyhnout se číslu 19, které v některých asiatských kulturách nemá pozitivní konotace.Tato spekulace otevírá širší diskusi o tom, zda by Apple neměl úplně opustit číselné označování svých telefonů. Společnost již v minulosti experimentovala s různými schématy pojmenování - například u modelů iPhone X (desítka) nebo přidáváním přípon jako Plus, Pro, Pro Max. Číselné označování se však stává stále komplikovanějším a méně přehledným pro běžné uživatele.Jde však..."
+      }
+      
+      ,{
+        "title"    : "Xiaomi Redmi K90 Pro Max: Snapdragon 8 Elite Gen 5 ve střední třídě s baterií 7 560 mAh a 5× teleobjektivem",
+        "url"      : "/tech-news/qualcomm-snapdragon-8-elite-gen-5-at-mid-range-pri/",
+        "category" : "tech_news",
+        "content"  : "SouhrnXiaomi uvedlo na čínský trh Redmi K90 Pro Max, který nahrazuje loňský model K80 Pro a globálně bude prodáván jako Poco F7 Ultra. Telefon přináší procesor Snapdragon 8 Elite Gen 5, baterii s kapacitou 7 560 mAh a vylepšený fotoaparát s pětinásobným optickým zoomem za startovní cenu 3 999 CNY, což odpovídá přibližně 561 dolarům.Klíčové body Procesor Qualcomm Snapdragon 8 Elite Gen 5 s pamětí LPDDR5X RAM Baterie s kapacitou 7 560 mAh využívající křemíko-uhlíkovou technologii Displej LTPO AMOLED o úhlopříčce 6,9 palce s rozlišením 2 608 × 1 200 pixelů a maximálním jasem 3 500 nitů Fotoaparát s 50MP..."
+      }
+      
+      ,{
+        "title"    : "Samsung údajně zahájí masovou výrobu Galaxy S26 Ultra v prosinci, dříve než zbylé dva modely",
+        "url"      : "/tech-news/galaxy-s26-ultra-mass-production-reportedly-starti/",
+        "category" : "tech_news",
+        "content"  : "Samsung údajně plánuje zahájit masovou výrobu vlajkového modelu Galaxy S26 Ultra již v prosinci, což je výrazně dříve než u standardních variant S26 a S26 Plus. Informace pochází z neoficiálních zdrojů z průmyslu, které označují tento krok za “efektivní” strategii.Dřívější start výroby nejdražšího modelu by měl Samsungu umožnit lepší přípravu na uvedení celé řady na trh, které se tradičně koná na začátku roku. Výroba zbývajících dvou modelů by měla následovat s časovým odstupem. Tento přístup není zcela neobvyklý - výrobci často prioritizují vlajkové modely kvůli jejich složitější konstrukci a vyšším nárokům na dodavatelský řetězec.Jde však o nepotvrzené spekulace bez oficiálního..."
+      }
+      
+      ,{
+        "title"    : "Google slibuje aktualizace GPU pro Pixel 10",
+        "url"      : "/tech-news/google-says-pixel-10-will-get-gpu-updates-soon-9to/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle potvrdil, že telefony Pixel 10 v nadcházejících aktualizacích dostanou nový firmware pro grafický procesor. Současná verze firmwaru PowerVR GPU v čipu Tensor G5 je zastaralá a postrádá plnou podporu Androidu 16, což by měly nadcházející aktualizace napravit.Klíčové body Pixel 10 používá relativně neobvyklý PowerVR GPU v čipu Tensor G5 Současný firmware verze 24.3 je několik měsíců starý a chybí mu podpora Androidu 16 Novější verze firmwaru 25.1 byla vydána již v srpnu 2025 Google slibuje aktualizace GPU v rámci měsíčních a čtvrtletních systémových aktualizací Zářijová a říjnová aktualizace již obsahovaly vylepšení ovladačůPodrobnostiTelefony Pixel 10 a Pixel 10 Pro jsou..."
+      }
+      
+      ,{
+        "title"    : "Fujifilm představil X-T30 III s 6K videem a ovladačem filmových simulací",
+        "url"      : "/tech-news/fujifilm-updates-its-entry-level-x-t30-with-6k-vid/",
+        "category" : "tech_news",
+        "content"  : "SouhrnFujifilm oznámil třetí generaci svého vstupního fotoaparátu X-T30 III se zaměřením na vylepšené video a rychlejší přístup k filmovým simulacím. Kamera si zachovává 26,1megapixelový snímač předchůdce, ale přináší nový procesor X-Processor 5, dedikovaný ovladač pro filmové simulace a sledování objektů pomocí AI.Klíčové body Nový procesor X-Processor 5 umožňuje nahrávání videa v rozlišení 6,2K Dedikovaný ovladač Film Simulation poskytuje přístup k 20 přednastavením a 3 vlastním profilům AI systém dokáže detekovat a sledovat lidi, zvířata, auta, vlaky a ptáky Zachován 26,1megapixelový snímač X-Trans CMOS 4 z předchozího modelu Rychlost snímání zůstává na 20 snímcích za sekundu s elektronickou závěrkouPodrobnostiFujifilm X-T30 III..."
+      }
+      
+      ,{
+        "title"    : "Ultratenkému iPhone Air se nedaří, skládací iPad se opožďuje",
+        "url"      : "/tech-news/apples-ultra-thin-iphone-flops-as-foldable-ipad-hi/",
+        "category" : "tech_news",
+        "content"  : "Apple podle analytiků čelí problémům hned se dvěma hardwarovými experimenty. Ultratenkému modelu iPhone Air se nedaří získat zákazníky a dodavatelé škrtají výrobní kapacity o více než 80 procent do začátku roku 2026. Některé komponenty budou zcela vyřazeny z výroby ještě před koncem letošního roku.Analytik Ming-Chi Kuo uvádí, že poptávka po iPhone Air výrazně zaostává za očekáváním. Podle jeho analýzy standardní a Pro modely již dostatečně uspokojují většinu zákazníků v prémiové kategorii, takže pro tenčí telefon s omezenými funkcemi není dostatečný zájem. K podobnému závěru došli i analytici z japonské společnosti Mizuho Securities. Tchajwanský Nikkei Asia informuje, že Apple snížil výrobu..."
+      }
+      
+      ,{
+        "title"    : "Tvůrce, který ručně napodobuje estetiku AI videí",
+        "url"      : "/tech-news/the-man-who-makes-ai-slop-by-hand-wired/",
+        "category" : "tech_news",
+        "content"  : "SouhrnDvacetidevítiletý čínský tvůrce Tianran Mu dosáhl virálního úspěchu videem, které tak přesně napodobuje charakteristiky AI generovaných videí, že miliony diváků uvěřily, že jde skutečně o AI obsah. Jeho video dvou mužů tančících robotické tango získalo přes 11 milionů zhlédnutí na platformě X, přičemž Mu o své mezinárodní popularitě dlouho nevěděl.Klíčové body Tianran Mu vytvořil sérii videí napodobujících AI generovaný obsah s charakteristickými neohrabanými pohyby, prázdnými výrazy ve tváři a nepředvídatelným dějem Jeho nejúspěšnější video získalo přes 11 milionů zhlédnutí na X a desítky tisíc lajků na dalších platformách, kde Mu nemá žádný účet Úspěch mu vynesl sponzorskou smlouvu s čínskou..."
+      }
+      
+      ,{
+        "title"    : "Apple Wallet přidává digitální občanky pro další americký stát",
+        "url"      : "/tech-news/apple-wallet-now-offers-digital-id-for-another-us/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple Wallet rozšířil podporu digitálních občanských průkazů a řidičských průkazů o další americký stát. Západní Virginie se stává třináctým státem či územím, kde mohou uživatelé iPhone a Apple Watch ukládat své identifikační doklady v digitální podobě přímo do aplikace Wallet.Klíčové body Západní Virginie je třináctým státem či územím s podporou digitálních ID v Apple Wallet Uživatelé mohou přidat řidičský průkaz nebo občanský průkaz pomocí několika jednoduchých kroků Digitální doklady fungují jak na iPhone, tak na Apple Watch Rozšíření bylo očekáváno od začátku roku 2025, kdy Google oznámil podobnou podporu Akceptace digitálních dokladů se liší podle místních předpisů a institucíPodrobnostiPřidání digitálního..."
+      }
+      
+      ,{
+        "title"    : "První klinická studie potvrdila bezpečnost střevní ventilace u lidí",
+        "url"      : "/tech-news/breathing-through-our-butts-declared-safe-after-fi/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVědci z Cincinnati Children’s Hospital Medical Center a Univerzity v Ósace úspěšně provedli první klinickou studii střevní ventilace (enteral ventilation) u lidí. Metoda spočívá v dodávání kyslíku pomocí kapaliny aplikované přes konečník, která se následně vstřebává ve střevech. Studie publikovaná v časopise Med prokázala, že technika je bezpečná a otevírá cestu k dalšímu výzkumu její účinnosti u pacientů s respiračním selháním.Klíčové body První aplikace střevní ventilace u lidí prokázala bezpečnost metody Technika není náhradou mechanické ventilace nebo ECMO, ale doplňkovou cestou pro dodávání kyslíku Tým vedený Takanori Takebe již v roce 2021 úspěšně testoval metodu na potkanech, myších a prasatech..."
+      }
+      
+      ,{
+        "title"    : "Chatbot Claude od Anthropic získává funkci paměti",
+        "url"      : "/tech-news/anthropics-claude-chatbot-is-getting-a-memory-upgr/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAnthropič rozšiřuje funkci automatické paměti pro svého AI chatbota Claude na všechny platící uživatele. Funkce, která byla od září dostupná pouze pro firemní zákazníky, umožňuje chatbotovi zapamatovat si detaily z předchozích konverzací bez nutnosti opakovaného zadávání kontextu. Uživatelé plánů Max mohou funkci aktivovat okamžitě, zatímco pro předplatitele plánu Pro bude dostupná v následujících dnech.Klíčové body Funkce paměti se rozšiřuje z firemních plánů Team a Enterprise na individuální předplatitele Pro a Max Uživatelé budут mít plnou kontrolu nad tím, co si Claude pamatuje, včetně možnosti upravovat nebo mazat konkrétní vzpomínky Systém nabízí vytváření oddělených paměťových prostorů pro různé projekty nebo účely..."
+      }
+      
+      ,{
+        "title"    : "OpenAI koupila startup založený bývalými zaměstnanci Apple",
+        "url"      : "/tech-news/openai-acquires-ai-startup-founded-by-former-apple/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI dokončila akvizici startupu Software Applications Inc., který vyvíjí AI-poháněné uživatelské rozhraní pro macOS. Startup založili v roce 2023 bývalí zaměstnanci Apple, kteří se podíleli na vývoji aplikace Shortcuts pro iPhone. Celý tým o zhruba tuctu lidí přejde do OpenAI a technologie bude integrována do ChatGPT.Klíčové body OpenAI kupuje Software Applications Inc., startup zaměřený na AI rozhraní pro Mac Zakladatelé pocházejí z Apple, kde pracovali na aplikaci Shortcuts pro automatizaci úkolů na iPhone Technologie bude začleněna do ChatGPT, celý tým přibližně 12 lidí přechází do OpenAI Finanční podmínky nebyly zveřejněny Jde o třetí významnou akvizici OpenAI v letošním roce po..."
+      }
+      
+      ,{
+        "title"    : "Microsoft představil Mico – animovaného avatara pro Copilot připomínajícího Clippy",
+        "url"      : "/tech-news/microsofts-mico-is-a-clippy-for-the-ai-era-techcru/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft představil Mico, animovaného avatara pro svého AI asistenta Copilot, který má uživatelům nabídnout vizuální a personalizovanou podobu chatbota. Jméno Mico odkazuje na “Microsoft Copilot” a avatar má být “teplou” a přizpůsobitelnou vizuální přítomností, která reaguje na interakce uživatelů a mění barvy podle kontextu konverzace.Klíčové body Mico je animovaný avatar ve formě expresivního blobu, který slouží jako vizuální tvář AI asistenta Copilot Avatar je ve výchozím nastavení aktivní při použití hlasového režimu a je dostupný v USA, Kanadě a Velké Británii Obsahuje velikonoční vajíčko – po opakovaném klepnutí se Mico promění v klasického Clippy, legendárního asistenta z dřívějších verzí Microsoft..."
+      }
+      
+      ,{
+        "title"    : "Vývojářský deník: Vznik Powered Cube pro MTG Arena",
+        "url"      : "/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/",
+        "category" : "tech_news",
+        "content"  : "Článek popisuje interní vývojový proces studia Wizards of the Coast při přípravě Powered Cube eventu pro digitální karetní hru MTG Arena, který byl spuštěn 28. října. Jde o vývojářský deník zaměřený na technické aspekty implementace, nikoli o průlomovou novinku.Projekt vznikl během interního hackathonu nazvaného “Experimental Frenzy” v dubnu 2023, kdy vývojáři dostávají tři dny na experimentování s novými nápady. Vývojář začal analýzou Vintage Cube seznamu z Magic Online, který obsahoval 215 karet vyžadujících implementaci do MTG Arena. Cílem bylo zjistit, jak náročné by bylo přidat klasické výkonné karty jako Power Nine, Balance či Mana Vault.Z hackathonu vznikl dvouletý projekt zahrnující..."
+      }
+      
+      ,{
+        "title"    : "Výkonný čip NVIDIA míří na oběžnou dráhu - test vesmírného datového centra",
+        "url"      : "/tech-news/powerful-nvidia-chip-launching-to-orbit-next-month/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Starcloud ze státu Washington plánuje příští měsíc vypustit satelit Starcloud-1 s grafickým procesorem NVIDIA H100, který je přibližně stokrát výkonnější než jakýkoli procesor dosud použitý ve vesmíru. Mise má otestovat fungování zpracování dat na oběžné dráze jako první krok k budování rozsáhlé výpočetní infrastruktury mimo Zemi.Klíčové body NVIDIA H100 GPU poletí na palubě satelitu Starcloud-1, start je plánován na příští měsíc raketou SpaceX Falcon 9 Procesor je asi 100× výkonnější než dosavadní vesmírné čipy Starcloud plánuje postavit orbitální datové centrum o výkonu 5 gigawattů s solárními a chladicími panely o rozměrech přibližně 4 kilometry Realizace velkých vesmírných datových center..."
+      }
+      
+      ,{
+        "title"    : "Microsoft přidává do Copilotu animovaného asistenta ve stylu 90. let",
+        "url"      : "/tech-news/microsoft-makes-copilot-human-centered-with-a-90s/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft představil novou podobu svého AI asistenta Copilot v rámci iniciativy “human-centered AI”. Součástí je animovaná postava jménem Mico - barevný blob s obličejem, který reaguje na interakce uživatele, mění barvy a vytváří dojem živé konverzace. Jde o pokus oživit koncept animovaných asistentů z 90. let, tentokrát podpořený velkými jazykovými modely.Klíčové body Microsoft přidává do Copilotu volitelnou animovanou postavu “Mico” s dynamickým obličejem Mico reaguje na interakce, mění barvy a vytváří dojem “teplé” a personalizované komunikace Koncept připomína historické asistenty jako Clippy, Microsoft Bob nebo Rover z 90. let a začátku 2000s Součástí aktualizace jsou také vylepšené hlasové ovládání, podobné..."
+      }
+      
+      ,{
+        "title"    : "Nike představuje svou první „motorovou obuv&quot;, která je jako e-bike pro vaše nohy",
+        "url"      : "/tech-news/nike-says-its-first-powered-footwear-is-like-an-e/",
+        "category" : "tech_news",
+        "content"  : "Nike’s Project Amplify je bota využívající robotickou kotníkovou ortézu, která zvyšuje rychlost běhu a chůze podobně jako pedal-assist u elektrokol.Číst původní článekZdroj: ⚡ The Verge"
+      }
+      
+      ,{
+        "title"    : "OpenAI kupuje Sky, AI rozhraní pro Mac",
+        "url"      : "/tech-news/openai-buys-sky-an-ai-interface-for-mac-techcrunch/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI oznámilo akvizici startupu Software Applications Inc., který vyvíjel Sky – AI rozhraní pro Mac ovládané přirozeným jazykem. Produkt, který nebyl veřejně vydán, umožňuje sledovat obsah obrazovky a provádět akce v aplikacích za uživatele. Tým za Sky má zkušenosti z Apple, kde vytvořil aplikaci Workflow, předchůdce dnešních Shortcuts.Klíčové body OpenAI kupuje Software Applications Inc., tvůrce AI rozhraní Sky pro macOS Sky funguje jako plovoucí vrstva nad pracovní plochou, vidí obsah obrazovky a ovládá aplikace Zakladatelé Ari Weinstein a Conrad Kramer dříve prodali Apple aplikaci Workflow (dnes Shortcuts) Třetí spoluzakladatelka Kim Beverett strávila téměř 10 let v Apple na projektech Safari,..."
+      }
+      
+      ,{
+        "title"    : "Microsoft Edge spouští Copilot Mode s pokročilými AI funkcemi",
+        "url"      : "/tech-news/microsoft-edges-new-copilot-mode-turns-on-more-ai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMicrosoft oficiálně spouští Copilot Mode v prohlížeči Edge, který transformuje AI asistenta v centrální rozhraní pro práci s internetem. Každá nová záložka nyní otevírá chatové okno, kde uživatelé mohou klást otázky, vyhledávat nebo zadávat URL adresy. Součástí jsou i experimentální agentní funkce Copilot Actions, které mají automatizovat úkoly jako odhlašování z emailových seznamů nebo rezervace.Klíčové body Copilot Mode kombinuje AI odpovědi, vyhledávání a navigaci do jednoho okna a pracuje se všemi otevřenými záložkami současně Nová funkce Copilot Actions umožňuje automatizaci úkolů včetně správy emailů a rezervací Agentní funkce jsou zatím nespolehlivé - Microsoft sám varuje, že nástroj “může dělat chyby”..."
       }
       
       ,{
         "title"    : "Technologické zprávy",
         "url"      : "/tech-news/",
         "category" : "tech_news",
-        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 18Poslední aktualizace: 23.10.2025 12:32 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
+        "content"  : "Technologické zprávyAutomaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.Celkem článků: 14Poslední aktualizace: 25.10.2025 04:21 UTCZdrojeČlánky jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:  📰 Associated Press - zpravodajství  🚀 TechCrunch - startupy a technologie  💹 Bloomberg - business a finance  💼 Forbes - podnikání a investice  📡 Axios - technologie a politika  🤖 OpenAI - AI průlomy"
       }
       
     
