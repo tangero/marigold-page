@@ -3,9 +3,9 @@ category: fotoaparáty
 companies:
 - Fujifilm
 date: '2025-10-23 14:16:43'
-description: Nový fotoaparát X-T30 III přináší vylepšené video v rozlišení 6,2K, rychlý
-  přístup k filmovým simulacím pomocí dedikovaného kolečka a sledování objektů pomocí
-  AI.
+description: Nový fotoaparát Fujifilm X-T30 III přináší vylepšené video v rozlišení
+  6,2K, dedikovaný ovladač pro rychlý přístup k filmovým vzhledům a sledování objektů
+  pomocí AI.
 importance: 3
 layout: tech_news_article
 original_title: Fujifilm updates its entry-level X-T30 with 6K video and a film simulation
@@ -16,7 +16,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Fujifilm představil X-T30 III s 6K videem a kolečkem pro filmové simulace
+title: Fujifilm představil X-T30 III s 6K videem a ovladačem filmových simulací
 url: https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/fujifilm_xt30_1.jpg?quality=90&strip=all&crop=0%2C10.702615371533%2C100%2C78.594769256933&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/fujifilm_xt30_1.jpg?quality=90&strip=all&crop=0%2C10.702615371533%2C100%2C78.594769256933&w=1200
@@ -24,29 +24,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Fujifilm oznámil třetí generaci svého vstupního fotoaparátu se zaměnitelnými objektivy X-T30 III. Novinka zachovává 26,1megapixelový snímač předchůdce, ale přináší nový procesor X-Processor 5, který umožňuje nahrávání videa v rozlišení 6,2K, sledování objektů pomocí AI a dedikované kolečko pro rychlý přístup k filmovým simulacím.
+Fujifilm oznámil třetí generaci svého vstupního fotoaparátu X-T30 III se zaměřením na vylepšené video a rychlejší přístup k filmovým simulacím. Kamera si zachovává 26,1megapixelový snímač předchůdce, ale přináší nový procesor X-Processor 5, dedikovaný ovladač pro filmové simulace a sledování objektů pomocí AI.
 
 ## Klíčové body
 
-- Zachován 26,1megapixelový snímač X-Trans CMOS 4 z předchozího modelu
 - Nový procesor X-Processor 5 umožňuje nahrávání videa v rozlišení 6,2K
-- Kolečko Film Simulation poskytuje přístup k 20 přednastavením simulujícím vzhled filmových materiálů
-- AI sledování objektů rozpoznává lidi, zvířata, auta, vlaky a ptáky
-- Rychlost snímání zůstává na 20 snímcích za sekundu při použití elektronické závěrky
+- Dedikovaný ovladač Film Simulation poskytuje přístup k 20 přednastavením a 3 vlastním profilům
+- AI systém dokáže detekovat a sledovat lidi, zvířata, auta, vlaky a ptáky
+- Zachován 26,1megapixelový snímač X-Trans CMOS 4 z předchozího modelu
+- Rychlost snímání zůstává na 20 snímcích za sekundu s elektronickou závěrkou
 
 ## Podrobnosti
 
-Fujifilm X-T30 III představuje evoluční upgrade vstupního modelu řady X-T. Původní X-T30 debutoval v roce 2019, druhá generace z roku 2021 přinesla pouze minimální vylepšení. Třetí iterace si zachovává kompaktní rozměry předchůdce a stejný 26,1megapixelový snímač X-Trans CMOS 4, ale výrazně rozšiřuje funkčnost díky novému procesoru.
+Fujifilm X-T30 III představuje evoluční upgrade modelu z roku 2021. Původní X-T30 debutoval v roce 2019, druhá generace přinesla v roce 2021 pouze minimální změny. Nová třetí generace se drží podobné filozofie postupných vylepšení.
 
-Nejviditelnější změnou je nahrazení horního kolečka režimů novým kolečkem Film Simulation, které Fujifilm již použil například u loňského modelu X-T50. Toto kolečko poskytuje okamžitý přístup k 20 různým přednastavením simulujícím vzhled klasických filmových materiálů, včetně černobílých variant. Kromě továrních přednastavení nabízí tři pozice pro vlastní recepty, které lze vytvořit úpravou parametrů jako zrnitost, barevný tón, světla a sytost.
+Nejviditelnější změnou je nahrazení klasického ovladače režimů novým ovladačem Film Simulation, který Fujifilm již použil například u loňského modelu X-T50. Tento ovladač umožňuje rychlý přístup k 20 různým přednastavením simulujícím vzhled klasických filmů, včetně černobílých variant. Tři pozice ovladače lze navíc přiřadit vlastním profilům vytvořeným úpravou parametrů jako zrnitost filmu, barevný tón, světla a sytost.
 
-Nový procesor X-Processor 5 přináší výrazné vylepšení video schopností. Zatímco předchozí model nabízel maximálně 4K video, X-T30 III dokáže nahrávat v rozlišení 6,2K. Pro fotografy zůstává maximální rychlost snímání na 20 snímcích za sekundu při použití elektronické závěrky.
+Přestože jde primárně o fotoaparát zaměřený na fotografii s maximální rychlostí 20 snímků za sekundu při použití elektronické závěrky, významně se vylepšily video schopnosti. Nový procesor X-Processor 5 umožňuje nahrávání videa v rozlišení 6,2K, což představuje výrazný skok oproti předchozí generaci.
 
-Významnou novinkou je AI sledování objektů, které dokáže automaticky detekovat a sledovat lidi, zvířata, auta, vlaky a ptáky. Tato funkce usnadňuje zachycení ostrých snímků pohybujících se objektů, což oceníte zejména při fotografování sportu nebo divokých zvířat.
+Důležitým vylepšením je také implementace sledování objektů pomocí AI, které dokáže rozpoznat a sledovat různé typy subjektů včetně lidí, zvířat, automobilů, vlaků a ptáků. Tato funkce usnadňuje práci při fotografování pohybujících se objektů.
+
+Fyzické rozměry fotoaparátu zůstávají stejné jako u předchozího modelu, což zajišťuje kompatibilitu s existujícím příslušenstvím a zachovává kompaktní rozměry charakteristické pro řadu X-T30.
 
 ## Proč je to důležité
 
-X-T30 III potvrzuje trend přidávání pokročilých funkcí do vstupních modelů fotoaparátů. Dedikované kolečko pro filmové simulace odráží rostoucí popularitu Fujifilm receptů mezi fotografy, kteří oceňují možnost dosáhnout specifického vzhledu přímo v fotoaparátu bez nutnosti rozsáhlé postprodukce. Upgrade na 6,2K video ukazuje, že i vstupní modely musí dnes nabízet profesionální video schopnosti, aby zůstaly konkurenceschopné. AI sledování objektů se stává standardem napříč všemi cenovými kategoriemi, což dříve bylo výsadou pouze špičkových modelů.
+X-T30 III potvrzuje strategii Fujifilm zaměřenou na postupná vylepšení vstupních modelů spíše než na radikální redesign. Přidání dedikovaného ovladače filmových simulací odráží rostoucí popularitu těchto funkcí mezi uživateli Fujifilm, kteří oceňují možnost rychle měnit vzhled snímků bez nutnosti postprodukce. Vylepšené video schopnosti reagují na současný trend, kdy i fotografové stále častěji potřebují natáčet kvalitní video. AI sledování objektů přibližuje vstupní model funkcím, které byly dříve vyhrazeny profesionálnějším tělesům.
 
 ---
 
