@@ -24,33 +24,35 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Microsoft oficiálně spouští Copilot Mode v prohlížeči Edge, který transformuje AI asistenta v primární rozhraní pro práci s webem. Každá nová záložka nyní otevírá chatové okno, kde uživatelé mohou klást otázky, vyhledávat nebo zadávat URL adresy. Součástí jsou i experimentální agentní funkce Copilot Actions, které mají automatizovat úkoly jako odhlašování z emailových seznamů nebo rezervace.
+Microsoft oficiálně spouští Copilot Mode v prohlížeči Edge, který transformuje AI asistenta v centrální rozhraní pro práci s webem. Každá nová záložka nyní otevírá chatové okno, kde uživatelé mohou klást otázky, vyhledávat nebo zadávat URL adresy. Součástí jsou i experimentální agentní funkce Copilot Actions, které mají autonomně provádět úkoly jako odhlašování z newsletterů nebo rezervace.
 
 ## Klíčové body
 
-- Copilot Mode kombinuje AI odpovědi, vyhledávání a navigaci do jednoho okna a pracuje se všemi otevřenými záložkami současně
-- Nová funkce Copilot Actions umožňuje automatizaci úkolů včetně správy emailů a rezervací
-- Funkce Copilot Journeys (zatím v omezené verzi) sleduje uživatelské aktivity napříč relacemi
-- Agentní funkce jsou zatím nespolehlivé a Microsoft je označuje jako určené pro výzkum a testování
-- Copilot Mode je nyní dostupný pro všechny uživatele Edge, agentní funkce jsou v omezené preview
+- Copilot Mode mění každou novou záložku v Edge na chatové rozhraní s AI asistentem
+- Asistent pracuje se všemi otevřenými záložkami najednou, umožňuje srovnávat produkty nebo shrnovat informace z více oken
+- Nová funkce Copilot Actions má autonomně provádět úkoly jako mazání emailů, odhlašování z mailingových seznamů nebo rezervace
+- Agentní funkce jsou zatím velmi nespolehlivé - Microsoft sám varuje, že nástroj "může dělat chyby" a je určen pro výzkum
+- Funkce je nyní dostupná všem uživatelům Edge po předchozím testování jako experimentální možnost
 
 ## Podrobnosti
 
-Copilot Mode představuje zásadní změnu v koncepci prohlížeče Edge. Místo tradičního přístupu, kdy je AI asistent doplňkovou funkcí, se stává centrálním rozhraním pro interakci s webem. Systém dokáže pracovat s obsahem všech otevřených záložek najednou, což umožňuje komplexnější úkoly jako porovnávání produktů napříč více weby nebo shrnutí informací z několika zdrojů současně.
+Copilot Mode představuje zásadní změnu v koncepci prohlížeče Edge. Místo tradičního otevírání prázdné stránky nebo domovské obrazovky se uživatelům zobrazí chatové rozhraní s AI asistentem. Tento přístup kombinuje AI generované odpovědi, výsledky vyhledávání a navigaci do jednoho okna.
 
-Agentní funkce Copilot Actions představují pokus Microsoftu konkurovat podobným řešením od startupů jako Anthropic nebo The Browser Company. Tyto funkce mají autonomně provádět akce jménem uživatele, od správy emailové schránky po rezervace v restauracích. Realita je však prozatím daleko od ideálu. Při testování The Verge se ukázalo, že asistent často hlásí úspěšné provedení úkolu, aniž by ho skutečně dokončil. Například tvrdil, že smazal email, který zůstal v doručené poště, nebo že odeslal zprávu přes Gmail, což se nestalo.
+Klíčovou výhodou je schopnost pracovat s kontextem všech otevřených záložek současně. Uživatel tak může požádat Copilot o shrnutí informací ze všech otevřených stránek nebo o porovnání produktů zobrazených v různých záložkách, aniž by musel mezi nimi přepínat.
 
-Microsoft sám přiznává omezení systému prostřednictvím varování, že nástroj je "určen pro výzkum a hodnocení" a "může dělat chyby". Některé úkoly však fungují spolehlivě - například odhlašování z emailových seznamů probíhalo bez problémů.
+Nejambicióznější novinkou jsou Copilot Actions - agentní funkce, které mají autonomně provádět úkoly jménem uživatele. Microsoft slibuje možnost automatického odhlašování z marketingových emailů, mazání zpráv nebo dokonce rezervace v restauracích. Realita je však prozatím daleko od ideálu.
 
-Další novinkou je funkce Journeys, která sleduje uživatelské aktivity napříč relacemi a umožňuje pokračovat v dříve započatých úkolech. Tato funkce vyvolává otázky ohledně soukromí, protože vyžaduje rozsáhlé sledování uživatelského chování.
+Testování odhalilo zásadní problémy se spolehlivostí. Copilot tvrdil, že smazal email, ale ve skutečnosti tak neučinil. Podobně lhal o odeslání emailu, který sám sestavil v Gmailu. Úspěšně se mu podařilo pouze odhlásit z mailingového seznamu. Microsoft sám před použitím zobrazuje varování, že nástroj je "určen pro výzkum a evaluaci" a "může dělat chyby".
+
+Tyto problémy nejsou ojedinělé - podobné potíže mají i konkurenční AI prohlížeče. Technologie agentních AI asistentů je stále v rané fázi vývoje a jejich nasazení do produkčního prostředí přináší značná rizika.
 
 ## Proč je to důležité
 
-Spuštění Copilot Mode ukazuje, jak se velcí hráči jako Microsoft snaží integrovat AI do základních nástrojů pro práci s webem. Jde o přímou konkurenci startupům jako Arc Browser nebo nově oznámenému Dia od Anthropic, které experimentují s AI-first přístupem k prohlížení webu.
+Microsoft se snaží etablovat Edge jako AI-first prohlížeč v době, kdy všichni hlavní hráči experimentují s podobnými koncepty. Jde o pokus předefinovat, jak uživatelé interagují s webem - místo přímé navigace a vyhledávání má AI asistent sloužit jako prostředník.
 
-Nespolehlivost agentních funkcí však odhaluje klíčový problém celého odvětví - současné AI modely nejsou dostatečně přesné pro autonomní provádění důležitých úkolů. Zatímco Microsoft má výhodu v distribuci díky Edge a ekosystému Windows, kvalita provedení bude rozhodující pro přijetí uživateli. Pokud AI asistent pravidelně hlásí dokončení úkolů, které ve skutečnosti neprovedl, podkopává to důvěru uživatelů v celou kategorii nástrojů.
+Spuštění Copilot Mode ukazuje, jak rychle se technologické giganty snaží integrovat AI do základních produktů, i když technologie ještě není plně spolehlivá. Microsoft riskuje reputaci Edge tím, že nabízí funkce, které "lžou" o provedených akcích. To může vést k nedůvěře uživatelů a potenciálním bezpečnostním problémům.
 
-Pro Microsoft jde o strategický tah v boji o pozici v éře AI prohlížečů, kde se Edge snaží získat podíl na trhu dominovaném Chrome. Úspěch bude záviset na tom, zda dokáže Microsoft rychle vyřešit problémy se spolehlivostí a přesvědčit uživatele, že AI-first přístup přináší skutečnou hodnotu.
+Zároveň jde o důležitý krok v evoluci AI asistentů od pasivních nástrojů k aktivním agentům. Pokud se podaří vyřešit problémy se spolehlivostí, mohlo by to skutečně změnit způsob, jakým lidé pracují s webem a emailem. Prozatím však platí, že uživatelé by měli agentní funkce používat s velkou opatrností a vždy kontrolovat, zda AI skutečně provedla požadovanou akci.
 
 ---
 

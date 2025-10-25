@@ -3,9 +3,9 @@ category: mobilní sítě
 companies:
 - Google
 date: '2025-10-23 20:10:00'
-description: Mobilní operátor Google Fi oficiálně aktivoval HD volání, jehož absence
-  byla dlouhodobou stížností uživatelů. Nová podpůrná stránka vysvětluje rozdíly mezi
-  HD Voice a HD+ Voice.
+description: Mobilní operátor Google Fi konečně přidal podporu HD volání, jejíž absence
+  byla dlouhodobě kritizována uživateli. Nová podpůrná stránka odhaluje technické
+  detaily implementace.
 importance: 3
 layout: tech_news_article
 original_title: Google Fi details how HD calling works - 9to5Google
@@ -23,29 +23,26 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google Fi, virtuální mobilní operátor společnosti Google, oficiálně spustil podporu HD volání po dlouhých letech čekání ze strany zákazníků. Služba nabízí dvě úrovně kvality - HD Voice využívající VoLTE, VoNR nebo Wi-Fi calling, a pokročilejší HD+ Voice s dvojnásobnou šířkou pásma zvukových frekvencí díky kodeku EVS.
+Mobilní operátor Google Fi oficiálně spustil podporu HD volání, funkci, jejíž absence byla dlouhodobě jednou z hlavních stížností zákazníků. Služba nabízí dvě úrovně kvality - HD Voice a HD+ Voice, přičemž druhá varianta využívá pokročilejší kodek s dvojnásobnou šířkou pásma.
 
 ## Klíčové body
 
-- HD Voice vyžaduje podporu Voice over LTE (VoLTE), Voice over 5G (VoNR) nebo Wi-Fi calling na obou stranách hovoru
-- HD+ Voice nabízí dvojnásobnou šířku pásma zvukových frekvencí oproti HD Voice pomocí kodeku 3GPP Enhanced Voice Services (EVS)
+- HD Voice vyžaduje podporu VoLTE (Voice over LTE), VoNR (Voice over 5G) nebo Wi-Fi volání na obou stranách hovoru
+- HD+ Voice využívá kodek EVS (Enhanced Voice Services) podle standardu 3GPP s dvojnásobnou šířkou pásma oproti HD Voice
 - Na Androidu se zobrazuje ikona "HD" v horní části obrazovky během hovoru, na iOS indikátor chybí
-- Kvalita hovoru klesá na nejnižší společný jmenovatel při konferenčních hovorech nebo změně sítě
-- Uživatelé zaznamenávali ikonu HD již několik týdnů před oficiálním oznámením
+- Kvalita hovoru se přizpůsobuje nejhoršímu společnému jmenovateli při konferenčních hovorech nebo změně sítě
 
 ## Podrobnosti
 
-Google Fi dlouhodobě postrádal funkci HD volání, což bylo častým terčem kritiky od předplatitelů. Nově publikovaná podpůrná stránka přináší technické detaily implementace. HD Voice poskytuje širokopásmové audio pro bohatší a plnější zvuk během hovorů, zatímco HD+ Voice využívá nejnovější technologie pro ještě lepší kvalitu a spolehlivost.
+Google Fi uživatelé začali ikonu HD volání zaznamenávat již několik týdnů před oficiálním oznámením. Základní HD Voice poskytuje širokopásmové audio pro bohatší zvuk během hovorů, zatímco HD+ Voice představuje vyšší úroveň s využitím nejnovějších technologií. Podle organizace GSMA nabízí HD+ Voice dvojnásobnou šířku frekvenčního pásma oproti standardnímu HD Voice díky kodeku EVS definovanému konsorciem 3GPP.
 
-Pro fungování HD Voice musí oba účastníci hovoru používat sítě podporující Voice over LTE, Voice over 5G nebo Wi-Fi calling. U HD+ Voice Google specifikuje pouze obecný požadavek na podporu ze strany zařízení i sítě obou volajících. Podle organizace GSMA nabízí HD+ Voice dvojnásobnou šířku pásma zvukových frekvencí oproti standardnímu HD Voice díky kodeku Enhanced Voice Services standardizovanému organizací 3GPP.
+Implementace má několik specifických vlastností. Na zařízeních s Androidem se ikona HD zobrazí až po navázání spojení, nikoli během vytáčení nebo vyzvánění. V historii hovorů se pak objeví zpětně. Uživatelé iOS sice žádný vizuální indikátor neuvidí, ale hovory mohou stále využívat HD nebo HD+ kvalitu.
 
-Na zařízeních s Androidem se po navázání spojení zobrazuje ikona "HD" v horní části obrazovky volání. Ikona se nezobrazuje během vytáčení nebo vyzvánění, ale objeví se zpětně v historii hovorů. Uživatelé iOS žádný vizuální indikátor nevidí, přestože hovor může využívat HD nebo HD+ kvalitu.
-
-Implementace má několik specifických vlastností. Při podržení HD hovoru ikona zůstává viditelná. Pokud však uživatel sloučí hovor s někým na lince nepodporující HD, ikona zmizí po dobu trvání konferenčního hovoru a kvalita audio se přizpůsobí nejhorší kvalitě ze všech aktivních účastníků. Podobně při přechodu mezi sítěmi během hovoru, například z VoLTE na síť nepodporující HD, ikona zmizí, pokud nová síť HD Voice nepodporuje.
+Zajímavé je chování při různých scénářích. Pokud uživatel přepne hovor do režimu čekání, ikona HD zůstane viditelná. Při konferenčních hovorech však platí pravidlo nejhoršího společného jmenovatele - pokud se do hovoru připojí účastník bez podpory HD, ikona zmizí a kvalita se sníží pro všechny. Podobně při přechodu mezi sítěmi, například z VoLTE na starší síť bez podpory HD Voice, ikona zmizí a kvalita se přizpůsobí možnostem aktuální sítě.
 
 ## Proč je to důležité
 
-Spuštění HD volání u Google Fi představuje dohánění standardu, který konkurenční operátoři nabízejí již roky. Jde o základní funkci moderních mobilních sítí, která výrazně zlepšuje srozumitelnost a komfort telefonování. Implementace HD+ Voice s kodekem EVS ukazuje snahu Google nabídnout špičkovou kvalitu, která překonává běžný standard. Pro uživatele Google Fi to znamená konečně srovnatelnou kvalitu volání s ostatními operátory, což odstraňuje jednu z hlavních nevýhod této služby.
+Přidání HD volání do Google Fi řeší dlouhodobý nedostatek, který službu stavěl do nevýhodné pozice vůči konkurenci. Většina velkých operátorů v USA nabízí VoLTE a HD volání již několik let. Pro uživatele to znamená výrazně lepší kvalitu hlasových hovorů s čistším a přirozenějším zvukem, což je stále relevantní i v éře dominance textových zpráv a videohovorů. Implementace dvou úrovní kvality ukazuje snahu Google konkurovat nejen základní funkčností, ale i pokročilými technologiemi jako je kodek EVS.
 
 ---
 

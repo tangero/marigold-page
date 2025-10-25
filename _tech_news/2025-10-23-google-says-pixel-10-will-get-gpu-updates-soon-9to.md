@@ -4,7 +4,8 @@ companies:
 - Google
 date: '2025-10-23 13:55:00'
 description: Google potvrdil, že telefony Pixel 10 brzy dostanou aktualizace firmwaru
-  GPU, které by měly zlepšit výkon grafického čipu PowerVR v procesoru Tensor G5.
+  GPU v čipu Tensor G5, který momentálně běží na zastaralé verzi bez plné podpory
+  Androidu 16.
 importance: 3
 layout: tech_news_article
 original_title: Google says Pixel 10 will get GPU updates soon - 9to5Google
@@ -22,27 +23,31 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google potvrdil, že telefony Pixel 10 v nadcházejících aktualizacích dostanou nový firmware pro grafický procesor. Současná verze firmwaru PowerVR GPU v čipu Tensor G5 je zastaralá a postrádá plnou podporu Androidu 16, což by měly nadcházející aktualizace napravit.
+Google potvrdil, že telefony Pixel 10 a Pixel 10 Pro dostanou v nadcházejících měsících aktualizace firmwaru pro grafický procesor. Čip Tensor G5 v těchto telefonech používá méně obvyklé GPU PowerVR, které momentálně běží na zastaralém firmwaru verze 24.3 z června, jenž postrádá plnou podporu Androidu 16.
 
 ## Klíčové body
 
-- Pixel 10 používá relativně neobvyklý PowerVR GPU v čipu Tensor G5
-- Současný firmware verze 24.3 je několik měsíců starý a chybí mu podpora Androidu 16
-- Novější verze firmwaru 25.1 byla vydána již v srpnu 2025
-- Google slibuje aktualizace GPU v rámci měsíčních a čtvrtletních systémových aktualizací
-- Zářijová a říjnová aktualizace již obsahovaly vylepšení ovladačů
+- Pixel 10 používá GPU PowerVR v čipu Tensor G5, které běží na firmwaru verze 24.3
+- Aktuální firmware je několik měsíců starý a chybí mu podpora Androidu 16, která je dostupná ve verzi 25.1 vydané v srpnu
+- Google slibuje aktualizace GPU v rámci měsíčních a čtvrtletních systémových updatů
+- Zářijová a říjnová bezpečnostní záplata již obsahovala vylepšení ovladačů
+- Dopad budoucích aktualizací na výkon není zatím jasný
 
 ## Podrobnosti
 
-Telefony Pixel 10 a Pixel 10 Pro jsou vybaveny novým čipem Tensor G5, který obsahuje grafický procesor PowerVR. Jde o méně běžnou volbu ve srovnání s GPU od Qualcommu nebo ARM, které používá většina konkurenčních zařízení. Jak upozornil Android Authority, současný firmware verze 24.3 je zastaralý a postrádá optimalizace pro Android 16, které přinesla novější verze 25.1 vydaná v srpnu.
+Situace kolem GPU v telefonech Pixel 10 upozorňuje na jednu z méně viditelných stránek vývoje hardwaru. Zatímco Google prezentoval Tensor G5 jako vylepšený čip, volba GPU PowerVR představuje určité komplikace. Tento typ grafického procesoru není v Android ekosystému příliš rozšířený, což může vést k problémům s optimalizací a aktualizacemi.
 
-V oficiálním prohlášení Google uvedl, že společnost průběžně vylepšuje kvalitu ovladačů v měsíčních a čtvrtletních systémových aktualizacích. Zářijová a říjnová bezpečnostní záplata již obsahovaly vylepšení ovladačů a v budoucích verzích jsou plánovány další aktualizace firmwaru GPU.
+Portál Android Authority upozornil, že firmware verze 24.3 je nejen několik měsíců starý, ale především mu chybí plná podpora Androidu 16. Novější verze firmwaru 25.1, která byla vydána již v srpnu, tyto nedostatky řeší. Google na dotazy reagoval oficiálním prohlášením, ve kterém ujistil uživatele, že práce na vylepšení ovladačů probíhá kontinuálně.
 
-Dopad těchto aktualizací zatím není jasný. Nový firmware by mohl vyřešit některé problémy s výkonem her na telefonech Pixel, nicméně nezmění základní hardwarové limity čipu Tensor G5. Ten není primárně zaměřen na maximální grafický výkon, ale spíše na zpracování umělé inteligence a strojového učení.
+Společnost zdůraznila, že zářijová a říjnová bezpečnostní aktualizace již obsahovala vylepšení ovladačů GPU. Do budoucna plánuje další aktualizace v rámci pravidelných měsíčních a čtvrtletních systémových updatů. Konkrétní termíny ani rozsah změn však Google nespecifikoval.
+
+Otázkou zůstává, jaký reálný dopad budou tyto aktualizace mít na výkon telefonů. Aktualizace firmwaru mohou vyřešit některé problémy s herním výkonem a plynulostí grafiky, není však realistické očekávat, že by z Tensoru G5 udělaly výkonnostní špičku. Čip má své hardwarové limity, které software nemůže překonat.
 
 ## Proč je to důležité
 
-Situace odhaluje pokračující výzvy Googlu s vlastními čipy Tensor. Zatímco společnost má plnou kontrolu nad hardwarem a softwarem, volba méně rozšířeného PowerVR GPU přináší komplikace s aktuálností firmwaru a optimalizacemi. Pro uživatele to znamená, že telefony za 25 000 až 35 000 korun jsou dodávány se zastaralým firmwarem GPU, což může negativně ovlivnit herní výkon a celkovou plynulost systému. Aktualizace by měly tyto nedostatky napravit, otázkou zůstává, zda Google dokáže udržet firmware aktuální i v budoucnu.
+Případ Pixelu 10 ilustruje výzvy, kterým čelí výrobci při vývoji vlastních čipů. Google se s řadou Tensor snaží získat větší kontrolu nad hardwarem svých telefonů, podobně jako Apple s čipy řady A a M. Volba méně obvyklého GPU PowerVR však přináší rizika v podobě pomalejších aktualizací a potenciálně horší optimalizace.
+
+Pro uživatele Pixelu 10 je pozitivní, že Google situaci aktivně řeší a slibuje pravidelné aktualizace. Zároveň to však ukazuje, že telefony byly uvedeny na trh s neoptimálním softwarem. V konkurenčním prostředí, kde Qualcomm s čipy Snapdragon a Apple s čipy A-series nabízejí vyspělé a dobře optimalizované GPU, musí Google dohánět zpoždění.
 
 ---
 

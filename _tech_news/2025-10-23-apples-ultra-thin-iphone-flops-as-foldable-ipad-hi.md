@@ -1,11 +1,11 @@
 ---
-category: tech
+category: mobilní zařízení
 companies:
 - Apple
 date: '2025-10-23 14:31:00'
-description: Ultratenkému iPhone Air se nedaří na trhu a Apple čelí produkčním škrtům.
-  Zároveň se odkládá uvedení skládacího iPadu kvůli technickým komplikacím a vysokým
-  nákladům.
+description: Apple čelí slabé poptávce po novém iPhone Air a technickým komplikacím
+  u připravovaného skládacího iPadu. Výroba tenkého telefonu se propadá o více než
+  80 procent.
 importance: 3
 layout: tech_news_article
 original_title: Apple's ultra-thin iPhone flops as foldable iPad hits a crease - theregister.com
@@ -15,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: iPhone Air propadá, skládací iPad se odkládá kvůli technickým problémům
+title: Ultratenký iPhone Air propadá, skládací iPad se potýká s problémy
 url: https://www.theregister.com/2025/10/23/apples_ultrathin_iphone_flops/
 urlToImage: https://regmedia.co.uk/2025/10/23/shutterstock_iphone_air.jpg
 urlToImageBackup: https://regmedia.co.uk/2025/10/23/shutterstock_iphone_air.jpg
@@ -23,33 +23,33 @@ urlToImageBackup: https://regmedia.co.uk/2025/10/23/shutterstock_iphone_air.jpg
 
 ## Souhrn
 
-Apple čelí neúspěchu hnou dvou hardwarových experimentů. Ultratenkému iPhone Air se nedaří získat zákazníky a dodavatelé škrtají výrobu o více než 80 procent. Současně se odkládá dlouho očekávaný skládací iPad kvůli technickým problémům a rostoucím nákladům.
+Apple zaznamenává neúspěch u dvou hardwarových experimentů. Ultratenkým iPhone Air se nepodařilo zaujmout zákazníky a dodavatelé snižují výrobní kapacity o více než 80 procent. Současně se dlouho očekávaný skládací iPad potýká s technickými problémy a rostoucími náklady, což vede k dalším odkladům.
 
 ## Klíčové body
 
-- iPhone Air s tloušťkou 5,6 mm a cenou 999 dolarů zaznamenává velmi slabou poptávku
-- Dodavatelé snižují výrobní kapacity o více než 80 procent do začátku roku 2026
-- Některé komponenty budou zcela vyřazeny z výroby ještě před koncem roku
-- Skládací iPad s 18palcovou úhlopříčkou čelí technickým komplikacím a vysokým nákladům
-- Analytici se shodují, že standardní a Pro modely iPhonů již pokrývají potřeby většiny zákazníků
+- iPhone Air s tloušťkou 5,6 mm a cenou 999 dolarů vykazuje podle analytiků "prakticky nulovou poptávku"
+- Dodavatelé snižují výrobní kapacity o více než 80 procent do začátku roku 2026, některé komponenty budou zcela vyřazeny
+- Analytik Ming-Chi Kuo uvádí, že standardní a Pro modely již uspokojují většinu zákazníků
+- Skládací iPad s 18palcovou úhlopříčkou čelí technickým komplikacím a rostoucím nákladům
+- iFixit udělil iPhone Air hodnocení opravitelnosti 7 z 10, ale upozornil na křehkost konstrukce
 
 ## Podrobnosti
 
-iPhone Air byl představen jako součást řady iPhone 17 minulý měsíc s ambicí stát se nejtenčím telefonem, jaký Apple kdy vyrobil. Zařízení mělo nahradit krátkověký model Plus, ale navzdory titanovému rámu a prémiové ceně se jeho přitažlivost ukázala být především kosmetická.
+iPhone Air byl představen jako součást řady iPhone 17 minulý měsíc s ambicí stát se nejtenčím telefonem, jaký Apple kdy vyrobil. Zařízení měřící pouhých 5,6 mm mělo nahradit krátkověký model Plus. Navzdory titanovému rámu a prémiové ceně se však zdá, že přitažlivost telefonu byla především kosmetická.
 
-Podle analytika Ming-Chi Kua, který se specializuje na produkty Apple, poptávka výrazně zaostala za očekáváními. Analytici z japonské společnosti Mizuho Securities i tchajwanský Nikkei Asia potvrzují podobné závěry. Výroba se snižuje téměř na úroveň ukončení produkce.
+Podле analytika Ming-Chi Kua, který se specializuje na produkty Apple, poptávka výrazně zaostala za očekáváními. Dodavatelé reagují drastickým snížením výroby, přičemž některé komponenty budou zcela vyřazeny ještě před koncem roku. Podobné závěry prezentovali i analytici z japonské společnosti Mizuho Securities a tchajwanský Nikkei Asia informoval o poklesu výroby téměř na úroveň "konce produkce".
 
-Zajímavé je hodnocení od iFixit, kteří sice udělili telefonu slušné skóre opravitelnosti 7 z 10, ale upozornili, že "tenčí často znamená křehčí". Podle nich jde spíše o technický výkon inženýrství než o smysluplné vylepšení pro běžné uživatele.
+Průzkum společnosti KeyBanc Capital Markets z tohoto týdne použil přímočaré hodnocení a konstatoval "prakticky nulovou poptávku" po zařízení. Tým iFixit, který telefonu udělil slušné hodnocení opravitelnosti 7 z 10, poznamenal, že "tenčí často znamená křehčí" a že iPhone Air představuje spíše technický úspěch inženýrství než smysluplné vylepšení pro běžné uživatele.
 
-Průzkum společnosti KeyBanc Capital Markets tento týden konstatoval, že po zařízení je "prakticky nulová poptávka" - poměrně přímočaré hodnocení nejnovějšího designového experimentu z Cupertina.
+Problém spočívá v tom, že Apple již nabízí standardní a Pro modely, které podle Kua uspokojují většinu zákazníků v prémiové kategorii. Tenčí telefon s omezenými funkcemi tak nenašel své místo na trhu.
 
-Druhým problematickým projektem je skládací iPad s 18palcovou úhlopříčkou, který se potýká s technickými překážkami a rostoucími náklady. Tento produkt se tak posouvá dále v kalendáři plánovaných uvedení.
+Paralelně s problémy iPhone Air se Apple potýká s komplikacemi u připravovaného skládacího iPadu s 18palcovou úhlopříčkou. Projekt čelí technickým překážkám a rostoucím nákladům, což vede k dalším odkladům uvedení na trh.
 
 ## Proč je to důležité
 
-Neúspěch iPhone Air ukazuje, že i Apple může chybně odhadnout zájem trhu. Firma evidentně vsadila na to, že ultratenkost bude dostatečným diferenciátorem, ale zákazníci dávají přednost funkčnosti před designovými experimenty. Situace naznačuje, že současná nabídka standardních a Pro modelů již pokrývá potřeby většiny high-end kupců a prostor pro další varianty je omezený.
+Neúspěch iPhone Air ukazuje limity strategie Apple zaměřené na design před funkcionalitou. Zatímco společnost v minulosti úspěšně prosadila trendy jako odstranění konektorů nebo ztenčování zařízení, současný trh vyžaduje konkrétní přidanou hodnotu. Zákazníci nejsou ochotni platit prémiovou cenu za pouhou estetickou změnu, pokud to znamená kompromisy v odolnosti nebo funkcích.
 
-Problémy se skládacím iPadem pak potvrzují, že tato technologie stále není zralá pro masové nasazení v prémiových zařízeních. Apple, známý tím, že do nových kategorií vstupuje až s dopracovanými produkty, zjevně naráží na stejné technické a ekonomické bariéry jako konkurence v segmentu skládacích zařízení.
+Pro Apple to představuje signál, že musí přehodnotit svůj přístup k inovacím. Současně problémy se skládacím iPadem naznačují, že i technologický gigant se potýká s výzvami při zavádění nových formátů zařízení, které konkurence jako Samsung již nabízí několik let.
 
 ---
 

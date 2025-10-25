@@ -4,7 +4,7 @@ companies:
 - OpenAI
 - Anthropic
 date: '2025-10-23 17:00:00'
-description: Anthropic spustil dlouho očekávanou funkci Memory pro všechny platící
+description: Anthropic spustil dlouho očekávanou funkci Memory pro všechny placené
   uživatele Claude. Chatbot si nyní pamatuje kontext projektů a může importovat data
   z ChatGPT.
 importance: 4
@@ -25,31 +25,33 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/Jfj8hkGTZmymSejQcNuF4A-2560-
 
 ## Souhrn
 
-Anthropic dnes spustil funkci Memory pro všechny platící uživatele svého AI asistenta Claude. Chatbot si nyní dokáže pamatovat kontext předchozích konverzací, projekty a další informace, což eliminuje nutnost opakovaně zadávat stejné údaje. Zajímavostí je možnost importu paměťových dat z ChatGPT, čímž Claude přímo konkuruje řešení od OpenAI.
+Anthropic dnes spustil funkci Memory pro všechny placené uživatele svého AI asistenta Claude. Chatbot si nyní trvale pamatuje kontext projektů, předchozí konverzace a uživatelské preference. Zajímavostí je možnost importu paměťových dat z ChatGPT, což usnadňuje přechod mezi oběma platformami.
 
 ## Klíčové body
 
-- Memory je dostupná pro všechny platící uživatele Claude Pro a Max od dnešního dne
-- Každý projekt má vlastní paměťový prostor, takže se různé úkoly vzájemně nepřekrývají
-- Uživatelé mohou paměť zapínat/vypínat, mazat konkrétní vzpomínky nebo používat režim Incognito
-- Claude umožňuje import a export paměťových dat, včetně importu z ChatGPT
-- Funkce dohání konkurenci - ChatGPT a Gemini podobnou schopnost již mají
+- Memory je dostupná pro všechny předplatitele Claude Pro a Claude Max od dnešního dne
+- Každý projekt má vlastní paměťový prostor, který se nepřekrývá s ostatními konverzacemi
+- Uživatelé mohou paměť zapínat a vypínat, mazat konkrétní vzpomínky nebo používat režim Incognito
+- Claude umožňuje export a import paměťových dat, včetně importu z ChatGPT
+- Funkce řeší dlouhodobý nedostatek Claude oproti konkurenci od OpenAI a Google
 
 ## Podrobnosti
 
-Funkce Memory mění způsob práce s Claude tím, že si asistent pamatuje kontext z předchozích konverzací. Při práci na kódu, psaní románu, přípravě prezentace nebo výzkumu tak Claude navazuje na předchozí sezení bez nutnosti opakovat základní informace. Anthropic tuto funkci implementoval s určitým zpožděním - konkurenční ChatGPT od OpenAI a Gemini od Google ji nabízejí již delší dobu.
+Funkce Memory mění způsob práce s Claude tím, že eliminuje nutnost opakovaně zadávat kontext při každé nové konverzaci. Ať už uživatel píše kód, připravuje prezentaci, pracuje na románu nebo provádí výzkum, Claude si nyní pamatuje předchozí sezení a umožňuje na nich stavět.
 
-Klíčovou vlastností je projektově orientovaná paměť. Každý projekt má vlastní paměťový prostor, takže plán startupu se nepromíchá se scénářem k filmu nebo plánováním dovolené. Autor článku zmiňuje praktickou ukázku: při práci na skriptu zadal Claude jinou otázku a asistent reagoval dotazem, zda nepracuje na původním úkolu X. To ukazuje, že Claude aktivně využívá kontext k pochopení záměrů uživatele.
+Klíčovou vlastností je projektově orientovaná paměť. Každý projekt má vlastní paměťový prostor, takže plán startupu se nepromíchá se scénářem k filmu nebo plánováním dovolené. Autor článku uvádí praktickou ukázku: při práci na scénáři přerušil práci jinou otázkou a Claude reagoval dotazem, zda nechce pokračovat v původním úkolu.
 
-Unikátní funkcí, kterou konkurence nenabízí, je možnost importu a exportu paměťových dat. Uživatelé mohou exportovat paměť z jednoho účtu Claude a nahrát ji do jiného. Zajímavější je však možnost exportovat paměť z ChatGPT a importovat ji do Claude, čímž asistent okamžitě získá kontext z předchozí práce. Přímý jednoklikový import mezi systémy zatím neexistuje kvůli otázkám soukromí a formátování dat, ale manuální přenos je možný.
+Unikátní funkcí, kterou konkurence nenabízí, je možnost exportu a importu paměťových dat. Uživatelé mohou přenést svá data mezi různými účty Claude nebo dokonce importovat paměť z ChatGPT. Přestože zatím neexistuje přímý jedenklikový import mezi oběma systémy kvůli otázkám soukromí a formátování dat, manuální přenos je možný.
 
-Uživatelé mají nad pamětí plnou kontrolu. Mohou ji kdykoli vypnout, mazat konkrétní vzpomínky nebo používat režim Incognito pro konverzace bez ukládání kontextu. To adresuje obavy o soukromí a dává uživatelům flexibilitu v tom, co si Claude má pamatovat.
+Paměť lze kdykoliv vypnout, mazat konkrétní záznamy nebo používat režim Incognito pro konverzace bez ukládání. Tato flexibilita dává uživatelům kontrolu nad tím, co si asistent pamatuje.
 
 ## Proč je to důležité
 
-Přidání funkce Memory staví Claude na stejnou úroveň s hlavními konkurenty v oblasti AI asistentů. Pro uživatele Claude Pro a Max (placené verze) to znamená výrazné zlepšení produktivity, zejména při dlouhodobých projektech vyžadujících více kroků nebo technické práci.
+Přidání funkce Memory staví Claude na stejnou úroveň s ChatGPT a Gemini, které tuto funkci nabízejí již delší dobu. Pro Anthropic šlo o dlouho očekávaný update, který byl v kontextu konkurence opožděný.
 
-Možnost importu dat z ChatGPT snižuje náklady přechodu mezi platformami a umožňuje uživatelům vyzkoušet Claude bez ztráty kontextu. To je strategický tah, který může přilákat uživatele od OpenAI. Anthropic tak posiluje pozici Claude jako plnohodnotné alternativy k ChatGPT, zejména pro profesionální použití v oblasti vývoje softwaru, kreativní práce a výzkumu.
+Funkce výrazně zvyšuje hodnotu předplatného Claude Pro a Claude Max, zejména pro uživatele pracující na dlouhodobých projektech, technických úkolech nebo kreativní práci. Možnost importu dat z ChatGPT snižuje bariéru přechodu mezi platformami a může přilákat uživatele, kteří zvažují změnu AI asistenta.
+
+V širším kontextu jde o další krok v evoluci AI asistentů směrem k personalizovaným, kontextově vědomým nástrojům, které se přizpůsobují individuálním potřebám uživatelů a eliminují opakované zadávání stejných informací.
 
 ---
 

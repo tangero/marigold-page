@@ -1,11 +1,11 @@
 ---
-category: soukromí uživatelů
+category: soukromí dat
 companies:
 - Apple
 date: '2025-10-24 02:02:00'
-description: Apple varuje, že může být nucen vypnout funkci App Tracking Transparency
-  v Evropě v důsledku intenzivního lobbingu reklamních firem a regulačních tlaků v
-  Německu a Itálii.
+description: Apple v prohlášení uvedl, že může být nucen vypnout funkci App Tracking
+  Transparency v Evropě v důsledku intenzivního lobbingu ze strany reklamních firem
+  a regulačních tlaků.
 importance: 4
 layout: tech_news_article
 original_title: Apple decries ‘intense lobbying,’ threatens to turn off App Tracking
@@ -16,7 +16,8 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Apple hrozí vypnutím funkce App Tracking Transparency v Evropě kvůli lobbingu
+title: Apple varuje před vypnutím funkce App Tracking Transparency v Evropě kvůli
+  lobbingu
 url: https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -24,33 +25,33 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/
 
 ## Souhrn
 
-Apple ve vyjádření pro německou tiskovou agenturu varoval, že může být nucen vypnout funkci App Tracking Transparency (ATT) v Evropě kvůli "intenzivnímu lobbingu" ze strany reklamních firem a regulačním tlakům. Společnost konkrétně zmiňuje Německo a Itálii jako země, kde lobbistické aktivity mohou vést k zákazu této funkce na ochranu soukromí uživatelů.
+Apple varuje, že může být nucen vypnout svou funkci App Tracking Transparency (ATT) v Evropě kvůli intenzivnímu lobbingu ze strany reklamního průmyslu a tlaku regulačních orgánů v Německu, Itálii a dalších evropských zemích. Společnost označuje tento vývoj za hrozbu pro soukromí evropských uživatelů a vyzývá regulátory, aby jí umožnili tuto funkci nadále poskytovat.
 
 ## Klíčové body
 
-- Apple hrozí vypnutím App Tracking Transparency v Evropě kvůli lobbistickým tlakům
-- Funkce ATT zavedená v květnu 2021 snížila sledování uživatelů napříč aplikacemi o 54,7 % v USA
-- Reklamní firmy včetně Meta obviňují Apple z protisoutěžního chování
+- Apple může vypnout funkci App Tracking Transparency v Evropě kvůli lobbistickým tlakům
+- Funkce ATT zavedená v květnu 2021 snížila sledování uživatelů napříč aplikacemi o 54,7 % pouze ve Spojených státech
+- Reklamní firmy včetně Meta údajně hledají způsoby, jak ATT obejít
+- Některé společnosti žalují Apple za údajné protisoutěžní chování
 - Apple vyzývá evropské regulátory, aby mu umožnili funkci zachovat
-- Německo a Itálie jsou hlavními zeměmi, kde probíhá lobbistická kampaň proti ATT
 
 ## Podrobnosti
 
-App Tracking Transparency je funkce zavedená Applem v květnu 2021, která vyžaduje, aby aplikace před sledováním aktivity uživatelů napříč jinými aplikacemi a weby požádaly o explicitní souhlas. Uživatelé iOS tak mohou odmítnout, aby aplikace sdílely jejich data s reklamními sítěmi nebo je používaly k cílenému zobrazování reklam.
+App Tracking Transparency je funkce ochrany soukromí, kterou Apple představil v květnu 2021 jako součást iOS 14.5. Umožňuje uživatelům rozhodnout se, zda aplikace mohou sledovat jejich aktivitu napříč aplikacemi a weby jiných společností pro účely cílené reklamy nebo sdílení dat. Při prvním spuštění aplikace se uživateli zobrazí dialog s možností sledování povolit nebo odmítnout.
 
-Dopad této funkce byl okamžitý a významný. Podle studií kleslo sledování uživatelů napříč aplikacemi v USA o 54,7 %. To mělo přímý vliv na příjmy z online reklamy, zejména pro společnosti jako Meta (Facebook, Instagram), které jsou na cílené reklamě silně závislé. Některé firmy však podle Apple našly způsoby, jak ATT obcházet a udržet si reklamní výnosy.
+Dopad této funkce na reklamní průmysl byl okamžitý a výrazný. Podle studií klesla míra sledování napříč aplikacemi o více než polovinu, což mělo přímý vliv na příjmy společností závislých na cílené reklamě. Meta (dříve Facebook) například oznámila, že ATT ji stála miliardy dolarů v příjmech, ačkoliv společnost údajně našla způsoby, jak některá omezení obejít pomocí alternativních sledovacích metod.
 
-Nízkoprahová ochrana soukromí se však nelíbí reklamnímu průmyslu. Několik společností a odvětvových skupin podalo stížnosti k soudům a regulačním orgánům s tvrzením, že Apple zneužívá své dominantní postavení na trhu mobilních operačních systémů. Argumentují, že zatímco Apple vyžaduje souhlas uživatelů pro sledování třetími stranami, vlastní reklamní síť Apple Search Ads podobným omezením nepodléhá.
+Některé společnosti a obchodní skupiny se rozhodly bojovat proti ATT právní cestou. Podaly stížnosti u regulačních orgánů a soudů s argumentem, že Apple zneužívá své dominantní postavení na trhu a chová se protisoutěžně. Tvrdí, že zatímco Apple omezuje sledování třetích stran, jeho vlastní reklamní síť má výhodu.
 
-Ve svém prohlášení Apple uvedl: "Intenzivní lobbistické úsilí v Německu, Itálii a dalších evropských zemích nás může přinutit stáhnout tuto funkci ke škodě evropských spotřebitelů. Budeme nadále naléhat na příslušné úřady v Německu, Itálii a po celé Evropě, aby Applu umožnily nadále poskytovat tento důležitý nástroj ochrany soukromí našim uživatelům."
+V prohlášení pro německou tiskovou agenturu Apple uvedl: "Intenzivní lobbistické úsilí v Německu, Itálii a dalších evropských zemích nás může přinutit stáhnout tuto funkci ke škodě evropských spotřebitelů. Budeme nadále naléhat na příslušné orgány v Německu, Itálii a po celé Evropě, aby nám umožnily nadále poskytovat tento důležitý nástroj ochrany soukromí našim uživatelům."
 
 ## Proč je to důležité
 
-Tato situace představuje zásadní střet mezi ochranou soukromí uživatelů a zájmy reklamního průmyslu. App Tracking Transparency se stal jedním z nejvýznamnějších kroků v ochraně digitálního soukromí za poslední roky a jeho případné vypnutí v Evropě by znamenalo významný krok zpět.
+Tato situace představuje zásadní střet mezi ochranou soukromí uživatelů a zájmy reklamního průmyslu, který je klíčovým pilířem internetové ekonomiky. Případné vypnutí ATT v Evropě by znamenalo významný krok zpět v ochraně soukromí a mohlo by vytvořit precedens pro další oslabování podobných ochranných mechanismů.
 
-Případ také ilustruje sílu lobbingu technologických a reklamních firem v Evropě. Zatímco EU je obecně vnímána jako region s přísnými pravidly na ochranu soukromí (GDPR, Digital Markets Act), lobbistické tlaky mohou vést k paradoxní situaci, kdy by funkce chránící soukromí mohla být zakázána kvůli údajnému porušování hospodářské soutěže.
+Jde také o test toho, jak evropské regulační orgány vyvažují ochranu spotřebitelů s obavami z protisoutěžního chování technologických gigantů. Evropská unie má přísné nařízení o ochraně osobních údajů (GDPR) a obecně se staví na stranu soukromí uživatelů, což činí tento vývoj o to překvapivějším.
 
-Pro uživatele by ztráta ATT znamenala návrat k éře neomezeného sledování napříč aplikacemi bez možnosti snadného odmítnutí. Pro Apple jde o test schopnosti udržet si kontrolu nad vlastní platformou a prosazovat vlastní vizi ochrany soukromí proti tlakům regulátorů a konkurence.
+Pro širší technologický ekosystém jde o signál, jak obtížné je pro platformy implementovat skutečně účinná opatření na ochranu soukromí proti odporu etablovaného reklamního průmyslu. Výsledek této situace může ovlivnit budoucí přístup dalších technologických společností k podobným funkcím.
 
 ---
 
