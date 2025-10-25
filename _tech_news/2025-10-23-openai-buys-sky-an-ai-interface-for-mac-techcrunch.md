@@ -5,8 +5,8 @@ companies:
 - Software Applications
 - Inc
 date: '2025-10-23 20:53:02'
-description: OpenAI získává startup Software Applications, tvůrce Sky - AI asistenta
-  pro Mac, který vidí obsah obrazovky a může ovládat aplikace pomocí přirozeného jazyka.
+description: OpenAI získává startup Software Applications Inc., tvůrce Sky - AI rozhraní
+  pro Mac, které dokáže sledovat obrazovku a ovládat aplikace pomocí přirozeného jazyka.
 importance: 4
 layout: tech_news_article
 original_title: OpenAI buys Sky, an AI interface for Mac - TechCrunch
@@ -24,29 +24,31 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/ArtCard_SKY_
 
 ## Souhrn
 
-OpenAI oznámilo akvizici startupu Software Applications, Inc., který vyvíjel Sky - AI asistenta pro macOS s přirozeným jazykovým rozhraním. Produkt, který nebyl veřejně vydán, umí sledovat obsah obrazovky a provádět akce v aplikacích na základě uživatelských příkazů. Jde o významný krok OpenAI směrem k integraci jejich technologie do běžného používání počítačů.
+OpenAI oznámilo akvizici startupu Software Applications Inc., který vyvíjel Sky - AI rozhraní pro Mac ovládané přirozeným jazykem. Produkt, který nebyl veřejně uveden, umožňuje sledovat obsah obrazovky a provádět akce v aplikacích za uživatele. Tým za Sky dříve vytvořil aplikaci Workflow, kterou koupil Apple a přeměnil ji na dnešní Shortcuts.
 
 ## Klíčové body
 
-- OpenAI kupuje Software Applications, tvůrce AI asistenta Sky pro macOS
-- Sky funguje jako plovoucí vrstva nad desktopem, vidí obsah obrazovky a ovládá aplikace
-- Zakladatelé Ari Weinstein a Conrad Kramer dříve prodali Apple aplikaci Workflow, ze které vznikly Shortcuts
+- OpenAI kupuje Software Applications Inc., tvůrce AI rozhraní Sky pro macOS
+- Sky funguje jako plovoucí vrstva nad pracovní plochou, vidí obsah obrazovky a ovládá aplikace
+- Zakladatelé Ari Weinstein a Conrad Kramer dříve prodali Workflow společnosti Apple, kde se stal Shortcuts
 - Třetí spoluzakladatelka Kim Beverett strávila téměř 10 let v Apple na projektech Safari, WebKit a dalších
-- Akvizice přichází v době, kdy Apple chystá vylepšenou Siri s AI funkcemi
+- Akvizice posiluje pozici OpenAI v každodenním používání počítačů a konkurenci s Apple Intelligence
 
 ## Podrobnosti
 
-Sky představuje AI rozhraní, které má uživatelům pomáhat při psaní, plánování, programování a dalších činnostech na počítači Mac. Podobně jako AI prohlížeče dokáže Sky analyzovat obsah obrazovky a na základě příkazů v přirozeném jazyce provádět akce přímo v aplikacích. Software nebyl před akvizicí veřejně dostupný.
+Sky představuje AI asistenta, který se integruje přímo do pracovního prostředí macOS. Na rozdíl od chatbotů v samostatných oknech Sky funguje jako plovoucí vrstva nad celým systémem a dokáže sledovat, co uživatel dělá. Podobně jako AI prohlížeče vidí obsah obrazovky a může za uživatele provádět akce v různých aplikacích - ať už jde o psaní, plánování nebo programování.
 
-Zakladatelský tým má výjimečnou historii. Ari Weinstein a Conrad Kramer v minulosti vytvořili aplikaci Workflow, kterou koupil Apple a transformoval ji na dnešní Shortcuts - nástroj pro automatizaci úloh v iOS a macOS. Oba zakladatelé následně několik let pracovali přímo pro Apple, než v srpnu 2023 založili Software Applications. Třetí členka týmu, Kim Beverett, působila v Apple jako senior program a product manager na klíčových projektech včetně Safari, WebKit, Privacy, Messages, Mail a dalších.
+Zakladatelé startupu mají významnou historii v Apple ekosystému. Weinstein a Kramer vytvořili aplikaci Workflow, která umožňovala automatizaci úkolů na iOS. Apple ji koupil a přeměnil na systémovou funkci Shortcuts, která je dnes součástí iOS i macOS. Oba zakladatelé pak v Apple pracovali několik let, než v srpnu 2023 založili Software Applications. Kim Beverett, třetí spoluzakladatelka a COO, má za sebou téměř dekádu v Apple, kde se podílela na vývoji Safari, WebKit, funkcí pro ochranu soukromí, Messages, Mail, Phone, FaceTime a SharePlay.
 
-Akvizice přichází v zajímavém kontextu. Apple, který v oblasti AI zatím zaostává za konkurencí, plánuje na příští rok spustit kompletně přepracovanou Siri s pokročilými AI schopnostmi. Společnost již nasadila některé funkce v rámci Apple Intelligence - psací asistenty, živý překlad, generování obrázků, vizuální vyhledávání a další. Apple také spolupracuje s OpenAI na přesměrování dotazů, které Siri nedokáže zodpovědět, na ChatGPT.
+Timing akvizice je zajímavý v kontextu vývoje AI u Apple. Společnost, která v oblasti AI zaostává za konkurencí, plánuje na příští rok uvedení přepracované Siri s pokročilými AI schopnostmi. Apple již nasadil některé funkce své technologie Apple Intelligence, včetně asistentů pro psaní, živého překladu, tvorby obrázků a vizuálního vyhledávání. Pro dotazy, které Siri nezvládne, Apple spolupracuje právě s OpenAI a přesměrovává je do ChatGPT.
 
 ## Proč je to důležité
 
-Akvizice signalizuje ambice OpenAI expandovat za hranice webových a mobilních aplikací přímo do operačních systémů. Sky představuje vizi AI asistenta, který není izolovanou aplikací, ale integrální součástí pracovního prostředí. Schopnost vidět obsah obrazovky a ovládat aplikace otevírá možnosti pro automatizaci složitějších úloh než současné AI chatboty.
+Akvizice Sky představuje strategický krok OpenAI směrem k hlubší integraci do operačních systémů a každodenního používání počítačů. Zatímco ChatGPT funguje primárně jako samostatná aplikace nebo webová služba, Sky nabízí model asistenta, který je neustále přítomný a kontextově aware - vidí, co uživatel dělá, a může okamžitě pomoci.
 
-Získání týmu s hlubokou znalostí macOS ekosystému a historií úspěšné akvizice Applem dává OpenAI cennou expertízu pro vývoj nativních desktopových řešení. Zároveň to vytváří zajímavou dynamiku - bývalí zaměstnanci Apple nyní budou vyvíjet konkurenční AI technologii pro platformu svého bývalého zaměstnavatele. Pro stovky milionů uživatelů Maců to může znamenat přístup k pokročilejším AI nástrojům integrovaným přímo do systému.
+Jde o přímou konkurenci Apple Intelligence a budoucí verzi Siri. OpenAI tak získává tým s hlubokými znalostmi macOS ekosystému a zkušenostmi s tvorbou nástrojů pro automatizaci a produktivitu. Weinstein ve svém prohlášení hovoří o vizi přinést tuto technologii "stovkám milionů lidí", což naznačuje ambici široké distribuce.
+
+Pro uživatele Mac by to mohlo znamenat novou generaci AI asistentů, kteří nejsou omezeni na chatovací okno, ale aktivně pomáhají s konkrétními úkoly napříč aplikacemi. Zároveň to vyvolává otázky ohledně soukromí - software, který neustále sleduje obrazovku, vyžaduje vysokou míru důvěry v bezpečnost a zpracování dat.
 
 ---
 
