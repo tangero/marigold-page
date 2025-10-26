@@ -1,5 +1,5 @@
 ---
-category: ai výzkum
+category: tech
 date: '2025-10-24 17:15:58'
 description: Researchers found AI models trained on shortform, clickbait-y content
   experienced irreversible cognitive decline.
@@ -13,8 +13,8 @@ source:
   emoji: 📰
   id: null
   name: Futurism
-title: Trénování AI na obsahu "Brain Rot" způsobuje trvalé kognitivní poškození, zjistila
-  nová studie
+title: Training AI on "Brain Rot" Content Causes Lasting Cognitive Damage, New Paper
+  Finds - Futurism
 url: http://futurism.com/artificial-intelligence/ai-brain-rot
 urlToImage: https://futurism.com/wp-content/uploads/2025/10/ai-brain-rot.jpg?w=1200
 urlToImageBackup: https://futurism.com/wp-content/uploads/2025/10/ai-brain-rot.jpg?w=1200
