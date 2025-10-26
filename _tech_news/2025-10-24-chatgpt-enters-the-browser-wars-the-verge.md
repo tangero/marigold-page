@@ -6,7 +6,7 @@ companies:
 - Warner Bros. Discovery
 date: '2025-10-24 12:30:00'
 description: OpenAI představilo ChatGPT Atlas, AI nástroj schopný ovládat webový prohlížeč
-  a provádět úkoly za uživatele. Vstupuje tak do rostoucí konkurence AI prohlížečů.
+  a procházet web za uživatele. Spouští novou vlnu konkurence v oblasti AI prohlížečů.
 importance: 4
 layout: tech_news_article
 original_title: ChatGPT enters the browser wars - The Verge
@@ -24,33 +24,33 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-OpenAI oznámilo ChatGPT Atlas, nový nástroj umělé inteligence schopný přímo ovládat webový prohlížeč a provádět úkoly za uživatele. Jde o další krok v rostoucím trendu AI prohlížečů, kde technologické firmy usilují o kontrolu nad jedním z nejdůležitějších rozhraní na jakémkoli zařízení. Atlas představuje posun od pouhého doporučování k přímému ovládání kurzoru a procházení webu.
+OpenAI oznámilo ChatGPT Atlas, nový nástroj umělé inteligence schopný přímo ovládat webový prohlížeč a autonomně procházet web za uživatele. Jde o další krok v rostoucí konkurenci AI asistentů, kteří se snaží převzít kontrolu nad jedním z nejdůležitějších rozhraní na počítačích - webovým prohlížečem.
 
 ## Klíčové body
 
-- ChatGPT Atlas umožňuje AI přímo ovládat prohlížeč a provádět úkoly místo uživatele
-- Webové prohlížeče vypadají a fungují stejně více než deset let, AI nyní přináší zásadní změnu
-- V posledních měsících došlo k nárůstu nových AI prohlížečů od různých firem
-- Kontrola prohlížeče znamená nejen nastavení výchozích hodnot, ale doslova ovládání kurzoru uživatele
-- Trend souvisí s širším bojem o kontrolu klíčových rozhraní v éře umělé inteligence
+- ChatGPT Atlas dokáže přímo ovládat kurzor myši a procházet webové stránky autonomně
+- Představuje posun od pasivního AI asistenta k aktivnímu agentovi schopnému vykonávat úkoly
+- V posledních měsících došlo k nárůstu podobných AI prohlížečů od různých technologických firem
+- Firmy bojují o kontrolu nad webovým prohlížečem jako klíčovým rozhraním pro interakci s AI
+- Samsung zároveň představil Galaxy XR, zařízení kombinující AI s rozšířenou realitou
 
 ## Podrobnosti
 
-Webové prohlížeče prošly za poslední dekádu jen minimálními změnami. Většina z nich sdílí podobné funkce umístěné na stejných místech a často jsou postaveny na stejném jádru (Chromium). Tato stagnace nyní končí s příchodem umělé inteligence.
+Webové prohlížeče vypadají a fungují v podstatě stejně již více než deset let. Většina z nich sdílí podobné funkce na stejných místech a mnohé jsou postaveny na stejném jádru (Chromium). Tato stabilita se však nyní mění díky nástupu umělé inteligence.
 
-ChatGPT Atlas od OpenAI představuje nový přístup k interakci s webem. Místo toho, aby AI pouze odpovídala na dotazy nebo poskytovala doporučení, může nyní přímo ovládat prohlížeč - pohybovat kurzorem, klikat na odkazy, vyplňovat formuláře a procházet webové stránky autonomně. Uživatel tak může zadat úkol a nechat AI, aby ho provedla místo něj.
+ChatGPT Atlas představuje zásadní změnu v přístupu k AI asistentům. Místo pouhého poskytování odpovědí nebo generování textu dokáže Atlas aktivně ovládat prohlížeč - pohybovat kurzorem, klikat na odkazy, vyplňovat formuláře a procházet webové stránky. Uživatel tak může AI zadat úkol a nechat ji, aby ho vykonala samostatně.
 
-Tento vývoj není ojedinělý. V posledních měsících se objevila celá řada nových AI prohlížečů od různých technologických firem. Všechny sdílejí podobnou vizi - využít umělou inteligenci k transformaci způsobu, jakým lidé interagují s webem. Jde o strategický tah, protože prohlížeč představuje jeden z nejdůležitějších vstupních bodů do digitálního světa.
+Tento vývoj není ojedinělý. V posledních měsících představilo hned několik technologických firem vlastní AI prohlížeče nebo rozšíření s podobnými schopnostmi. Všechny tyto projekty spojuje snaha získat kontrolu nad webovým prohlížečem jako kritickým rozhraním mezi uživatelem a internetem. Kdo ovládá prohlížeč, ovládá nejen výchozí nastavení, ale potenciálně celý způsob, jakým uživatelé přistupují k informacím a službám online.
 
-Kontrola prohlížeče má pro technologické firmy zásadní význam. Nejedná se pouze o možnost nastavit výchozí vyhledávač nebo domovskou stránku, ale o fundamentální kontrolu nad tím, jak uživatelé přistupují k informacím a službám online. V éře AI to znamená možnost zprostředkovávat a filtrovat veškerý obsah, který uživatelé konzumují.
+Paralelně Samsung představil Galaxy XR, zařízení pro rozšířenou realitu s integrovanou umělou inteligencí. Otázkou zůstává, zda mají uživatelé skutečný zájem nosit AI zařízení na obličeji, zejména po vlažném přijetí podobných produktů v minulosti.
 
 ## Proč je to důležité
 
-Vstup ChatGPT do prostoru webových prohlížečů signalizuje důležitý posun v konkurenčním boji technologických gigantů. Prohlížeč byl dlouho doménou několika málo hráčů - Google s Chrome, Apple se Safari, Microsoft s Edge a Mozilla s Firefoxem. AI nyní otevírá prostor pro nové konkurenty a zcela nové paradigma interakce s webem.
+Vstup ChatGPT do oblasti webových prohlížečů signalizuje zásadní posun v evoluci AI asistentů. Místo pasivních nástrojů, které pouze odpovídají na dotazy, se AI stává aktivním agentem schopným vykonávat komplexní úkoly v digitálním prostředí.
 
-Autonomní ovládání prohlížeče AI však přináší i zásadní otázky ohledně soukromí, bezpečnosti a kontroly. Když AI může provádět akce vaším jménem, kdo nese odpovědnost za případné chyby? Jak zajistit, že AI neprovede nežádoucí akci? Tyto otázky budou muset být vyřešeny, než se takové nástroje stanou mainstreamem.
+Pro uživatele to může znamenat výrazné zjednodušení rutinních online aktivit - od vyhledávání informací přes vyplňování formulářů až po online nákupy. Zároveň to však vyvolává otázky ohledně soukromí, bezpečnosti a kontroly nad vlastními daty. Když AI ovládá váš prohlížeč, má přístup ke všemu, co v něm děláte.
 
-Pro běžné uživatele může Atlas a podobné nástroje znamenat výrazné zjednodušení opakujících se úkolů na webu - od vyplňování formulářů přes srovnávání cen až po automatizaci nákupů. Zároveň to však představuje další krok k předání kontroly nad našimi digitálními aktivitami umělé inteligenci.
+Z hlediska technologického průmyslu jde o boj o strategickou pozici. Webový prohlížeč je brána k internetu a kdo ji kontroluje, má obrovský vliv na to, jak lidé konzumují obsah, nakupují produkty a využívají online služby. Google si tuto pozici budoval desetiletí s Chrome, nyní však OpenAI a další hráči chtějí tuto dominanci narušit pomocí AI.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-category: neuromorfní výpočty
+category: neuromorfinformatika
 companies:
 - MIT
 date: '2025-10-24 04:00:00'
 description: Doktorandka MIT Miranda Schwacke vyvíjí elektrochemická zařízení pro
-  neuromorfní výpočty, která napodobují fungování mozku a mají výrazně snížit energetickou
+  neuromorfní výpočty, která napodobují fungování mozku a mohou výrazně snížit energetickou
   náročnost umělé inteligence.
 importance: 3
 layout: tech_news_article
@@ -17,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Mit.edu
-title: Neuromorfní počítače inspirované mozkem pro udržitelnou AI
+title: Neuromorfní počítače inspirované mozkem jako cesta k udržitelné AI
 url: https://news.mit.edu/2025/brain-power-behind-sustainable-ai-miranda-schwacke-1024
 urlToImage: https://news.mit.edu/sites/default/files/images/202510/Miranda%20Schwacke5_0.JPG
 urlToImageBackup: https://news.mit.edu/sites/default/files/images/202510/Miranda%20Schwacke5_0.JPG
@@ -25,31 +25,31 @@ urlToImageBackup: https://news.mit.edu/sites/default/files/images/202510/Miranda
 
 ## Souhrn
 
-Miranda Schwacke z MIT pracuje na neuromorfních počítačích, které napodobují fungování lidského mozku a slibují dramatické snížení energetické náročnosti umělé inteligence. Její výzkum se zaměřuje na iontové synapse - elektrochemická zařízení, která na rozdíl od současných počítačů zpracovávají a ukládají informace současně, podobně jako neurony v mozku.
+Miranda Schwacke z MIT pracuje na neuromorfních počítačích, které napodobují fungování lidského mozku a slibují dramatické snížení energetické náročnosti AI systémů. Její výzkum se zaměřuje na iontové synapse - elektrochemická zařízení, která na rozdíl od současných počítačů zpracovávají a ukládají informaci současně, podobně jako neurony v mozku.
 
 ## Klíčové body
 
-- Schwacke vyvíjí iontové synapse, jejichž vodivost lze elektrochemicky "ladit" podobně, jako mozek upravuje spojení mezi neurony
-- Výzkum cílí na hlavní problém současných počítačů - oddělené jednotky pro ukládání a zpracování dat, mezi nimiž se musí informace neustále přesouvat, což spotřebovává značné množství energie
-- Práce probíhá v laboratoři profesorky Bilge Yildiz na katedře materiálového inženýrství MIT
-- Schwacke měří změny elektrického odporu oxidových filmů wolframu za různých podmínek pomocí měřicí stanice
-- Kromě výzkumu se věnuje popularizaci vědy a komunitní práci
+- Současné počítače oddělují paměť od výpočetních jednotek, což při přenosu dat způsobuje významné energetické ztráty
+- Neuromorfní zařízení kombinují ukládání a zpracování dat v jednom místě, podobně jako synapse v mozku
+- Schwacke vyvíjí iontové synapse z oxidu wolframu, jejichž vodivost lze elektrochemicky "ladit"
+- Výzkum reaguje na rostoucí energetické nároky AI a strojového učení
+- Projekt kombinuje materiálovou vědu, elektrochemii a inspiraci biologickými systémy
 
 ## Podrobnosti
 
-Současná architektura počítačů, známá jako von Neumannova, odděluje paměť od procesorů. Data se musí neustále přesouvat mezi těmito jednotkami, což představuje významný zdroj energetické spotřeby. Tento problém se stává kritickým zejména u aplikací umělé inteligence a strojového učení, které vyžadují obrovské výpočetní kapacity.
+Schwacke pracuje v laboratoři profesorky Bilge Yildiz na Katedře materiálových věd a inženýrství MIT. Její výzkum se soustředí na fundamentální problém současné výpočetní architektury - von Neumannovo úzké hrdlo. Tradiční počítače musí neustále přesouvat data mezi pamětí RAM a procesorem, což spotřebovává značné množství energie a zpomaluje výpočty.
 
-Neuromorfní výpočty nabízejí radikálně odlišný přístup inspirovaný biologickým mozkem. Neurony a synapse v mozku zpracovávají a ukládají informace na stejném místě, což eliminuje potřebu neustálého přesouvání dat. Schwacke se zaměřuje konkrétně na iontové synapse - zařízení, jejichž elektrická vodivost se dá měnit elektrochemickými procesy.
+Neuromorfní přístup tento problém řeší inspirací v lidském mozku, kde neurony a synapse zpracovávají a ukládají informace na stejném místě. Schwacke konkrétně pracuje s tenkými filmy oxidu wolframu, které fungují jako iontové synapse. Tyto materiály lze elektrochemicky upravovat, čímž se mění jejich elektrická vodivost - podobně jako mozek posiluje nebo oslabuje spojení mezi neurony při učení.
 
-Ve své práci používá oxidy wolframu a zkoumá, jak se jejich elektrický odpor mění za různých podmínek. Cílem je vytvořit materiály a zařízení, která dokážou napodobit plasticitu biologických synapsí - schopnost měnit sílu spojení mezi neurony na základě aktivity.
+Pomocí měřicí stanice Schwacke testuje, jak se elektrický odpor těchto materiálů mění za různých podmínek. Cílem je vytvořit zařízení, která by mohla nahradit energeticky náročné GPU a další komponenty používané v současných AI systémech.
 
-Schwacke pochází z vědecké rodiny - její matka je mořská bioložka a otec elektrotechnik. Původně chtěla být paleontologkou, k materiálovému inženýrství se dostala až na střední škole. K laboratoři profesorky Yildiz ji přivedl nejen zajímavý výzkum, ale také Yildizin praktický přístup k vysvětlování vědy.
+Výzkum má interdisciplinární charakter - Schwacke kombinuje znalosti z materiálové vědy, elektrochemie a neurověd. Kromě laboratorní práce se věnuje i popularizaci vědy a komunitním aktivitám.
 
 ## Proč je to důležité
 
-Energetická náročnost umělé inteligence se stává stále palčivějším problémem. Velké jazykové modely a systémy strojového učení spotřebovávají obrovské množství elektřiny, což má dopady jak ekonomické, tak environmentální. Neuromorfní výpočty představují jednu z mála cest, jak by bylo možné tuto spotřebu zásadně snížit, nikoli jen postupně optimalizovat.
+Energetická náročnost AI představuje rostoucí problém. Trénování velkých jazykových modelů spotřebuje tisíce megawatthodin elektřiny a datová centra pro AI již nyní představují významnou zátěž pro elektrické sítě. Neuromorfní počítače by mohly tento problém zásadně zmírnit.
 
-Pokud se podaří vyvinout funkční neuromorfní čipy s iontovými synapsemi, mohlo by to znamenat revoluci v energetické efektivitě AI systémů. Místo postupného zlepšování současné architektury by šlo o fundamentální změnu přístupu k výpočtům. Výzkum je zatím v raném stadiu, ale ukazuje směr, kterým by se mohla ubírat budoucnost udržitelné umělé inteligence.
+Pokud se podaří vyvinout funkční neuromorfní čipy, mohly by umožnit provozování AI modelů s řádově nižší spotřebou energie. To by mělo dopady nejen na environmentální udržitelnost, ale i na ekonomiku AI - levnější provoz by umožnil širší nasazení pokročilých modelů. Výzkum je zatím ve fázi základního materiálového výzkumu, ale představuje jeden z perspektivních směrů pro budoucnost výpočetní techniky.
 
 ---
 

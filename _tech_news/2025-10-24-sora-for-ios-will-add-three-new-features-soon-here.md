@@ -4,8 +4,9 @@ companies:
 - OpenAI
 - Apple
 date: '2025-10-24 13:45:00'
-description: OpenAI oznámilo plánované rozšíření mobilní aplikace Sora o možnost vkládání
-  vlastních postav do videí, nástroje pro editaci a skupinové kanály pro sdílení obsahu.
+description: OpenAI oznámilo chystané novinky pro mobilní aplikaci Sora - možnost
+  vkládání vlastních postav do videí, nástroje pro editaci a skupinové kanály pro
+  sdílení obsahu.
 importance: 3
 layout: tech_news_article
 original_title: Sora for iOS will add three new features soon, here’s what’s coming
@@ -24,27 +25,27 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Bill Peebles, vedoucí vývoje Sora v OpenAI, oznámil tři hlavní funkce, které brzy dorazí do iOS aplikace pro generování videí pomocí umělé inteligence. Jde o možnost vkládání vlastních postav do generovaných videí, základní nástroje pro editaci a systém kanálů pro sdílení obsahu v menších skupinách.
+Bill Peebles, vedoucí vývoje Sora v OpenAI, oznámil tři nové funkce pro iOS aplikaci generátoru videí Sora. Uživatelé brzy získají možnost vkládat vlastní postavy do generovaných videí, základní nástroje pro editaci včetně spojování klipů a skupinové kanály pro sdílení obsahu s užším okruhem lidí.
 
 ## Klíčové body
 
-- Funkce "character cameos" umožní vkládat do AI generovaných videí vlastní objekty a postavy - od domácích mazlíčků po plyšové hračky
-- Přibude možnost spojování více videoklipů dohromady, další pokročilejší editační nástroje jsou v přípravě
-- Systém kanálů a skupin má zlepšit sociální aspekt aplikace a umožnit sdílení obsahu v rámci menších komunit
-- Funkce cameos by měla být dostupná během několika dní
-- Rozhraní pro generování videí zobrazí aktuálně populární cameos v reálném čase
+- Funkce "character cameos" umožní vkládat vlastní objekty a postavy (domácí mazlíčky, hračky) do AI generovaných videí
+- První editační nástroj přinese možnost spojování více video klipů, další pokročilejší funkce jsou v přípravě
+- Skupinové kanály rozšíří sociální aspekt aplikace nad rámec globálního feedu
+- Aktualizace rozhraní zobrazí populární cameos v reálném čase
+- Funkce character cameos má být dostupná během několika dní
 
 ## Podrobnosti
 
-Funkce character cameos představuje zajímavé rozšíření možností generování videí. Uživatelé budou moci nahrát fotografie prakticky čehokoli - od domácích zvířat přes oblíbené předměty až po vygenerované postavy z předchozích Sora videí - a následně tyto objekty začlenit do nově generovaných scén. Podle Peeblesova vyjádření by měla být tato funkce k dispozici během několika dní. Součástí aktualizace bude i úprava uživatelského rozhraní, které bude zobrazovat aktuálně nejpopulárnější cameos mezi uživateli.
+Funkce character cameos představuje zajímavé rozšíření možností generování videí. Uživatelé budou moci nahrát fotografie svých domácích zvířat, oblíbených hraček nebo prakticky jakýchkoli objektů a následně je vkládat jako postavy do AI generovaných videí. Systém také umožní vytvářet cameos přímo z postav, které se objevily v předchozích Sora videích. Po spuštění funkce se v generovacím rozhraní zobrazí aktuálně nejpopulárnější cameos, což by mělo uživatelům poskytnout inspiraci.
 
-V oblasti editace videí OpenAI začíná s relativně základní funkcí - možností spojit více klipů do jednoho celku. Peebles však naznačil, že v této oblasti připravují pokročilejší nástroje, které by měly přijít v blízké budoucnosti. Detaily o těchto funkcích zatím nebyly zveřejněny.
+V oblasti editace videí OpenAI začíná s relativně základní funkcí - spojováním více klipů do jednoho videa. Peebles však naznačil, že v této oblasti připravují pokročilejší nástroje, které by měly přijít v blízké budoucnosti. Jde o logický krok, protože čistě generativní nástroj bez možností editace má v praxi omezené využití.
 
-Třetí novinkou je zavedení kanálů nebo skupin, které mají posílit sociální aspekt aplikace. Zatímco dosud Sora nabízela především globální feed s obsahem od všech uživatelů, nový systém umožní vytváření menších komunit zaměřených například na sportovní kluby, univerzity, firmy nebo jiné skupiny se společnými zájmy. Tato funkce má konkurovat podobným řešením v jiných sociálních sítích a umožnit cílenější sdílení obsahu.
+Třetí novinkou jsou skupinové kanály, které mají posílit sociální aspekt aplikace. Místo pouze globálního feedu budou uživatelé moci vytvářet nebo se připojovat ke kanálům zaměřeným na konkrétní skupiny - sportovní kluby, univerzity, firmy nebo jiná sdružení. Tato funkce má z Sora udělat více než jen nástroj pro generování videí a posunout ji směrem k sociální platformě.
 
 ## Proč je to důležité
 
-Aktualizace ukazuje směr, kterým se OpenAI s aplikací Sora ubírá - kombinace pokročilých AI nástrojů pro generování videí s funkcemi sociální sítě. Možnost vkládání vlastních postav do AI generovaných videí může výrazně rozšířit kreativní možnosti uživatelů a personalizovat výstupy. Zároveň je patrná snaha vytvořit kolem Sora aktivní komunitu uživatelů, kteří budou sdílet svůj obsah nejen globálně, ale i v menších, tematicky zaměřených skupinách. Úspěch této strategie bude záviset na tom, zda se OpenAI podaří vybudovat dostatečně velkou uživatelskou základnu a udržet zájem o platformu i po počátečním nadšení z nové technologie.
+OpenAI se snaží odlišit Sora od konkurenčních AI video generátorů nejen kvalitou výstupu, ale také uživatelskou zkušeností a sociálními funkcemi. Přidání character cameos zvyšuje personalizaci a praktickou využitelnost nástroje - uživatelé mohou vytvářet videa s vlastními mazlíčky nebo produkty, což má potenciál pro kreativní i komerční využití. Editační nástroje jsou nezbytné pro praktické použití, protože čistě generativní přístup bez možnosti úprav je příliš omezující. Skupinové kanály pak ukazují ambici OpenAI vybudovat kolem Sora komunitu a platformu, ne pouze izolovaný nástroj.
 
 ---
 

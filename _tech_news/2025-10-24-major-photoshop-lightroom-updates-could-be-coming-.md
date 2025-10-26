@@ -3,7 +3,7 @@ category: grafický software
 companies:
 - Adobe
 date: '2025-10-24 18:51:00'
-description: Na konferenci Adobe Max, která začíná 28. října v Los Angeles, by měly
+description: Na konferenci Adobe Max, která začíná 28. října v Kalifornii, by mohly
   být oznámeny největší letošní aktualizace Photoshopu a Lightroom.
 importance: 2
 layout: tech_news_article
@@ -21,11 +21,13 @@ urlToImage: https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg
 ---
 
-Adobe pravděpodobně představí na konferenci Adobe Max, která se koná 28.-30. října v Los Angeles, významné aktualizace svých hlavních produktů Photoshop a Lightroom. Společnost tradičně využívá tuto každoroční kreativní konferenci k oznámení nových funkcí svého software.
+Adobe pravděpodobně představí na příští týden naplánované konferenci Adobe Max v Los Angeles nové funkce pro Photoshop a Lightroom. Konference se koná 28.-30. října 2025 a Adobe tradičně využívá její zahajovací keynote k oznámení významných aktualizací svého softwaru.
 
-První hlavní prezentace je naplánována na 28. října v 18:00 středoevropského času. Loni Adobe během této akce představil například funkci Distraction Removal pro odstranění rušivých elementů z fotografií a generativní pracovní prostor v Photoshopu. Důležitou součástí konference je také sekce Sneaks, kde Adobe ukazuje experimentální funkce, na kterých vývojáři pracují. Některé z těchto funkcí se později dostanou do finálních produktů - například loni představený Project Perfect Blend byl v červenci 2025 implementován do Photoshopu pod názvem Harmonize pro sjednocení barevnosti a stylu různých vrstev.
+První keynote je naplánována na 28. října v 9:00 PDT (18:00 středoevropského času). Podle vzorců z minulých let lze očekávat, že Adobe zaměří oznámení na funkce založené na umělé inteligenci. Loni například Photoshop získal funkci Distraction Removal pro odstranění rušivých elementů z fotografií a generativní workspace.
 
-Na základě nedávného vývoje se očekává, že AI bude klíčovým tématem letošních oznámení. Konkrétní detaily o nových funkcích však zatím nejsou známy.
+Součástí konference bude také sekce Sneaks naplánovaná na 29. října, kde Adobe ukazuje experimentální funkce, na kterých vývojáři pracují. Ne všechny z nich se nakonec dostanou do finálních produktů, ale některé ano - například loni představený Project Perfect Blend se v červenci 2025 objevil v Photoshopu pod názvem Harmonize.
+
+Jde však o spekulaci založenou na historických vzorcích, nikoli o potvrzené informace od Adobe. Konkrétní detaily o plánovaných aktualizacích zatím nejsou známy.
 
 ---
 

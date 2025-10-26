@@ -3,9 +3,8 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-10-24 21:30:33'
-description: Ve čtvrté beta verzi iOS 26.1 Apple přidal možnost "Tinted" pro méně
-  průhledné rozhraní Liquid Glass. Test zkoumá, zda toto nastavení ovlivňuje spotřebu
-  baterie.
+description: Uživatel testoval, zda nový režim Tinted pro rozhraní Liquid Glass v
+  iOS 26.1 beta šetří baterii oproti standardnímu průhlednému režimu Clear.
 importance: 2
 layout: tech_news_article
 original_title: 'iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode
@@ -22,11 +21,11 @@ urlToImage: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/ar
 urlToImageBackup: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg
 ---
 
-Článek popisuje test vlivu různých nastavení vizuálního rozhraní Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Autor provedl čtyři testy s různými kombinacemi nastavení průhlednosti a vizuálních efektů, přičemž každý test trval 2,5 hodiny a zahrnoval identickou sérii aktivit (TikTok, YouTube, Instagram, Safari, Mapy).
+Článek popisuje neoficiální test vlivu různých režimů zobrazení rozhraní Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Autor testoval čtyři konfigurace: standardní průhledný režim Clear, nový režim Tinted s redukovanou průhledností, Tinted s aktivními funkcemi Reduce Transparency a Increase Contrast, a konečně kombinaci všech úsporných nastavení včetně Reduce Motion.
 
-Testovány byly čtyři konfigurace: standardní průhledný režim Clear, nový režim Tinted s redukovanou průhledností, Tinted s vypnutou průhledností a zvýšeným kontrastem, a konečně Tinted se všemi možnými redukcemi vizuálních efektů včetně vypnutých animací. Všechny testy probíhaly za stejných podmínek - světlý režim, 50% jas, vypnutý True Tone a Night Shift, teplota 68-72°F.
+Test probíhal za kontrolovaných podmínek s 50% jasem displeje, vypnutým True Tone a Night Shift, při teplotě 68-72°F. Každý test zahrnoval identickou dvouapůlhodinovou sekvenci aktivit: 30 minut TikTok, 30 minut YouTube, 30 minut Instagram, 30 minut prohlížení webu v Safari a 30 minut aplikace Mapy. Během testování autor pravidelně otevíral notifikace a Control Center.
 
-Jedná se o spekulativní test zaměřený na beta verzi systému, který ještě nebyl oficiálně vydán. Článek neobsahuje výsledky testů, což snižuje jeho informační hodnotu. Liquid Glass je zřejmě nové vizuální rozhraní v iOS 26.1, jehož průhlednost může teoreticky ovlivňovat spotřebu energie displeje.
+Jde o spekulativní obsah založený na uživatelském testování beta verze systému, nikoli o oficiální informace od Apple. Výsledky testu nejsou v poskytnutém textu uvedeny, což snižuje informační hodnotu článku. Navíc iOS 26.1 představuje nerealistické označení verze - současné verze iOS jsou kolem 18.x, což naznačuje buď chybu v původním článku nebo fiktivní obsah.
 
 ---
 
