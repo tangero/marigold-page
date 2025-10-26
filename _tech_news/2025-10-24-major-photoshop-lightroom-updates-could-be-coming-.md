@@ -3,8 +3,9 @@ category: grafický software
 companies:
 - Adobe
 date: '2025-10-24 18:51:00'
-description: Na konferenci Adobe Max, která začíná 28. října v Kalifornii, by mohly
-  být oznámeny největší letošní aktualizace Photoshopu a Lightroom.
+description: Konference Adobe Max začíná 28. října v Los Angeles. Podle minulých let
+  lze očekávat oznámení nových funkcí pro Photoshop a Lightroom, pravděpodobně s důrazem
+  na AI.
 importance: 2
 layout: tech_news_article
 original_title: Major Photoshop, Lightroom updates could be coming next week (plus
@@ -15,19 +16,17 @@ source:
   emoji: 📰
   id: null
   name: Digital Camera World
-title: Adobe může příští týden představit velké aktualizace Photoshopu a Lightroom
+title: Adobe Max může přinést velké aktualizace Photoshopu a Lightroomu
 url: https://www.digitalcameraworld.com/tech/software/adobe-may-be-about-to-make-the-biggest-photoshop-and-lightroom-announcements-of-the-year-adobe-max-2025-is-coming-heres-what-that-means
 urlToImage: https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg
 ---
 
-Adobe pravděpodobně představí na příští týden naplánované konferenci Adobe Max v Los Angeles nové funkce pro Photoshop a Lightroom. Konference se koná 28.-30. října 2025 a Adobe tradičně využívá její zahajovací keynote k oznámení významných aktualizací svého softwaru.
+Adobe Max, výroční konference společnosti Adobe zaměřená na kreativní software, se koná 28.-30. října v Los Angeles. Podle tradice z minulých let lze očekávat, že firma využije úvodní keynote k oznámení významných aktualizací svých hlavních produktů Photoshop a Lightroom.
 
-První keynote je naplánována na 28. října v 9:00 PDT (18:00 středoevropského času). Podle vzorců z minulých let lze očekávat, že Adobe zaměří oznámení na funkce založené na umělé inteligenci. Loni například Photoshop získal funkci Distraction Removal pro odstranění rušivých elementů z fotografií a generativní workspace.
+V loňském roce Adobe během Max představilo funkce jako Distraction Removal (odstranění rušivých elementů) a generativní workspace pro Photoshop. Součástí konference bývá také sekce Sneaks, kde firma ukazuje experimentální funkce, na kterých vývojáři pracují. Ne všechny se nakonec dostanou do finálních produktů, ale některé ano - například loňský Project Perfect Blend se v červenci 2025 objevil v Photoshopu pod názvem Harmonize.
 
-Součástí konference bude také sekce Sneaks naplánovaná na 29. října, kde Adobe ukazuje experimentální funkce, na kterých vývojáři pracují. Ne všechny z nich se nakonec dostanou do finálních produktů, ale některé ano - například loni představený Project Perfect Blend se v červenci 2025 objevil v Photoshopu pod názvem Harmonize.
-
-Jde však o spekulaci založenou na historických vzorcích, nikoli o potvrzené informace od Adobe. Konkrétní detaily o plánovaných aktualizacích zatím nejsou známy.
+Úvodní keynote je naplánována na 28. října v 17:00 středoevropského času, Sneaks pak následující den. Podle nedávného vývoje Adobe lze předpokládat, že hlavním tématem letošních oznámení budou AI funkce. Jde však o spekulaci založenou na minulých vzorcích, konkrétní informace o chystaných novinkách zatím nejsou k dispozici.
 
 ---
 

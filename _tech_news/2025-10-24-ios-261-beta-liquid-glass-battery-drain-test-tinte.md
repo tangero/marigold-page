@@ -3,8 +3,8 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-10-24 21:30:33'
-description: Uživatel testoval, zda nový režim Tinted pro rozhraní Liquid Glass v
-  iOS 26.1 beta šetří baterii oproti standardnímu průhlednému režimu Clear.
+description: Ve čtvrté beta verzi iOS 26.1 Apple přidal možnost "Tinted" pro rozhraní
+  Liquid Glass. Test zkoumá, zda tónovaný režim šetří baterii oproti průhlednému.
 importance: 2
 layout: tech_news_article
 original_title: 'iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode
@@ -21,11 +21,13 @@ urlToImage: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/ar
 urlToImageBackup: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg
 ---
 
-Článek popisuje neoficiální test vlivu různých režimů zobrazení rozhraní Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Autor testoval čtyři konfigurace: standardní průhledný režim Clear, nový režim Tinted s redukovanou průhledností, Tinted s aktivními funkcemi Reduce Transparency a Increase Contrast, a konečně kombinaci všech úsporných nastavení včetně Reduce Motion.
+Článek popisuje test výdrže baterie v beta verzi iOS 26.1, konkrétně srovnání vlivu různých režimů zobrazení rozhraní Liquid Glass na spotřebu energie. Jedná se o spekulativní obsah z beta verze operačního systému, který ještě nebyl oficiálně vydán.
 
-Test probíhal za kontrolovaných podmínek s 50% jasem displeje, vypnutým True Tone a Night Shift, při teplotě 68-72°F. Každý test zahrnoval identickou dvouapůlhodinovou sekvenci aktivit: 30 minut TikTok, 30 minut YouTube, 30 minut Instagram, 30 minut prohlížení webu v Safari a 30 minut aplikace Mapy. Během testování autor pravidelně otevíral notifikace a Control Center.
+Autor provedl čtyři testy na iPhone 17 Pro Max s různými nastaveními: standardní průhledný režim Clear, nový tónovaný režim Tinted, Tinted s aktivovanými funkcemi Reduce Transparency a Increase Contrast, a konečně kombinace všech předchozích včetně Reduce Motion. Každý test trval 2,5 hodiny a zahrnoval identickou sekvenci aktivit - 30 minut TikTok, YouTube, Instagram, prohlížení webu v Safari a navigace v Mapách.
 
-Jde o spekulativní obsah založený na uživatelském testování beta verze systému, nikoli o oficiální informace od Apple. Výsledky testu nejsou v poskytnutém textu uvedeny, což snižuje informační hodnotu článku. Navíc iOS 26.1 představuje nerealistické označení verze - současné verze iOS jsou kolem 18.x, což naznačuje buď chybu v původním článku nebo fiktivní obsah.
+Testování probíhalo za kontrolovaných podmínek se 50% jasem displeje, vypnutým True Tone a Night Shift, při teplotě 68-72°F. Během každého testu autor 20x otevřel notifikace a Control Center, aby simuloval běžné používání.
+
+Jde o beta verzi budoucího systému iOS, přičemž samotné výsledky testu nejsou v ukázce článku uvedeny. Materiál má charakter spekulace o potenciálních úsporách baterie u funkce, která jeще není veřejně dostupná.
 
 ---
 

@@ -22,30 +22,30 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-New York Times přidal do svých populárních slovních her Wordle, Spelling Bee a Connections systém odznaků, které odměňují hráče za různé herní úspěchy. Odznaky zahrnují ocenění za vzácné výkony jako uhádnutí Wordle na první pokus nebo dokonalé vyřešení Connections, přičemž předplatitelé NYT Games získají přístup k exkluzivním odznakům.
+New York Times přidal do svých populárních slovních her Wordle, Spelling Bee a Connections systém odznaků, které odměňují hráče za specifické herní úspěchy. Odznaky zahrnují ocenění za vzácné výkony jako uhodnutí Wordle na první pokus nebo dokonalé vyřešení Connections, přičemž předplatitelé NYT Games získají přístup k exkluzivním odznakům.
 
 ## Klíčové body
 
-- Systém odznaků je nyní dostupný pro tři hlavní slovní hry NYT: Wordle, Spelling Bee a Connections
-- Hráči mohou získat odznaky za specifické úspěchy, například uhádnutí Wordle na první pokus nebo vytvoření pangramů ve Spelling Bee
-- V aplikaci je k dispozici virtuální "vitrína" pro zobrazení získaných odznaků
-- Plánují se sezónní události a speciální výzvy s odznaky pro svátky a speciální hádanky
-- Předplatitelé NYT Games získají přístup k exkluzivním odznakům
-- Systém se má v budoucnu rozšířit i na další hry z portfolia NYT Games
+- Systém odznaků je nyní dostupný pro tři slovní hry: Wordle, Spelling Bee a Connections
+- Hráči mohou získat odznaky za specifické úspěchy, například uhodnutí Wordle na jeden pokus nebo nalezení všech pangramů ve Spelling Bee
+- V mobilní aplikaci se odznaky zobrazují v virtuální "vitríně trofejí"
+- Plánují se sezónní události a speciální výzvy s tematickými odznaky pro svátky
+- Předplatitelé NYT Games budou mít přístup k exkluzivním odznakům
+- Systém se v budoucnu rozšíří i na další hry z portfolia NYT Games
 
 ## Podrobnosti
 
-Nový systém odznaků představuje gamifikační prvek, který má motivovat hráče k pokračování ve hře nad rámec pouhého udržování herní série. Podle NYT slouží odznaky jako "odměny, které můžete získat hraním a které vám umožní ohlédnout se za momenty, které učinily vaši cestu NYT Games výjimečnou".
+Systém odznaků představuje gamifikační prvek, který má motivovat hráče k pokračování ve hře nad rámec pouhého udržování série úspěšných řešení. Podle NYT slouží odznaky jako "odměny, které můžete získat hraním a které vám umožní ohlédnout se za momenty, jež učinily vaši cestu NYT Games výjimečnou".
 
-Mezi oceňované úspěchy patří například legendární uhádnutí Wordle na první pokus, což je extrémně vzácný výkon vyžadující kombinaci štěstí a strategie. Ve hře Spelling Bee mohou hráči sbírat odznaky za vytváření pangramů - slov obsahujících všechna dostupná písmena. V případě Connections, hry zaměřené na hledání souvislostí mezi slovy, existují odznaky za dokonalé vyřešení hádanky bez jediné chyby.
+Mezi konkrétní odznaky patří ocenění za extrémně vzácný úspěch - uhodnutí správného slova ve Wordle na první pokus, což je statisticky velmi nepravděpodobné. Ve hře Spelling Bee mohou hráči sbírat odznaky za nalezení pangramů (slova obsahující všechna dostupná písmena), zatímco v Connections se odměňuje dokonalé vyřešení puzzle bez jediné chyby.
 
-NYT plánuje zavést sezónní události a speciální výzvy, které budут nabízet časově omezené odznaky spojené se svátky nebo speciálními hádankami. Tato strategie má udržet hráče aktivní a pravidelně se vracející k hrám. Předplatitelé NYT Games, kteří platí za přístup k rozšířenému obsahu, získají navíc exkluzivní odznaky nedostupné běžným hráčům.
+NYT plánuje zavést sezónní události a speciální výzvy, které budут nabízet tematické odznaky spojené se svátky nebo speciálními puzzle. Toto rozšíření odpovídá strategii NYT Games budovat dlouhodobou angažovanost hráčů a přidávat hodnotu placeným předplatným.
 
-Aktuálně je systém implementován pouze pro tři zmíněné hry, ale NYT naznačuje plány na rozšíření do dalších her z jejich portfolia. Toto rozhodnutí přichází po předchozích vylepšeních, jako bylo sledování vítězných sérií v Connections.
+Aktuálně je systém implementován pouze ve třech hrách, ale NYT naznačuje, že odznaky se postupně rozšíří i na další tituly z jejich herního portfolia. Jde o další krok v evoluci těchto her - nedávno NYT přidal do Connections sledování série výher, což byla funkce, kterou hráči dlouho požadovali.
 
 ## Proč je to důležité
 
-Přidání systému odznaků reprezentuje pokračující trend gamifikace v oblasti mobilních a webových her. NYT Games se snaží zvýšit zapojení uživatelů a prodloužit dobu, kterou tráví s jejich hrami, což je klíčové pro udržení předplatitelské základny. Wordle, které NYT koupil v roce 2022, se stal významným tahounem návštěvnosti a předplatného, a systém odznaků má tento efekt ještě posílit. Jde o standardní strategii v herním průmyslu, která se nyní přenáší i do segmentu casual slovních her zaměřených na starší a méně hardcore publikum.
+Přidání odznaků reprezentuje pokračující trend gamifikace v casual hrách a ukazuje, jak NYT monetizuje své akvizice v herním sektoru. Wordle, kterou NYT koupil v roce 2022, se stal jedním z pilířů jejich strategie v oblasti digitálního předplatného. Systém odznaků s exkluzivním obsahem pro předplatitele je další motivací k placenému předplatnému NYT Games, které stojí vedle tradičního zpravodajského předplatného. Jde o běžnou strategii v herním průmyslu, která má zvýšit retenci uživatelů a jejich dlouhodobou angažovanost.
 
 ---
 

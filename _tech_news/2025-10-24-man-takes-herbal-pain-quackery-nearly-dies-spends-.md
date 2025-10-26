@@ -1,9 +1,9 @@
 ---
 category: zdraví
 date: '2025-10-24 21:29:30'
-description: 61letý muž z Kalifornie skončil v intenzivní péči po užívání bylinných
-  doplňků stravy, které mu způsobily rozsáhlé poškození organismu, bakteriální infekci
-  a selhání nadledvin.
+description: 61letý muž z Kalifornie skončil v intenzivní péči s bakteriální infekcí,
+  mnohočetnými ranami a selháním nadledvin po užívání bylinných doplňků na bolesti
+  kloubů.
 importance: 3
 layout: tech_news_article
 original_title: Man takes herbal pain quackery, nearly dies, spends months in hospital
@@ -23,31 +23,31 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyIm
 
 ## Souhrn
 
-61letý muž z Kalifornie málem zemřel po užívání kombinace bylinných doplňků stravy určených k léčbě bolesti kloubů. Přípravky mu způsobily závažné poškození organismu včetně krvácení do trávicího traktu, bakteriální infekce a selhání nadledvin, což vedlo k měsícům hospitalizace v intenzivní péči. Případ byl publikován v odborném časopise Annals of Internal Medicine: Clinical Cases.
+61letý muž z Kalifornie málem přišel o život poté, co kombinace bylinných doplňků, které užíval na bolesti kloubů, způsobila závažné poškození jeho organismu. Pacient strávil měsíce v intenzivní péči s bakteriální infekcí, krvácením do trávicího traktu a selháním nadledvin. Případ byl publikován v odborném časopise Annals of Internal Medicine: Clinical Cases.
 
 ## Klíčové body
 
-- Pacient se dostavil do nemocnice v San Francisku s bolestí zad, horečkou, nevolností a extrémní slabostí
-- Lékaři zjistili bakterii Staphylococcus aureus v krvi, absces na rameni a infekci kolem páteře
-- Došlo k masivnímu krvácení do trávicího traktu s vředy v jícnu, žaludku a tenkém střevě
-- Pacient musel být intubován a lékaři objevili selhání nadledvin
-- Příčinou byla kombinace bylinných doplňků stravy proti bolesti kloubů
+- Muž se dostavil do nemocnice v San Franciscu s nespecifickými příznaky včetně horečky, slabosti, bolestí zad a neschopnosti samostatně chodit
+- Lékaři objevili bakterii Staphylococcus aureus v krvi, absces na rameni a infekci v okolí páteře
+- Pacient utrpěl hemoragický šok kvůli krvácení do trávicího traktu, kde měl závažně zanícený jícen a vředy v žaludku i tenkém střevě
+- Vyšetření odhalila poškození nadledvin, které produkují kortizol a další steroidní hormony nezbytné pro zvládání stresu
+- Na dolní části těla měl mnohočetné rány v různých stádiích hojení
 
 ## Podrobnosti
 
-Pacient přišel do nemocnice s nespecifickými příznaky, které se objevily před dvěma dny. Kromě bolesti zad a horečky byl natolik slabý, že nemohl chodit ani vstát z postele bez pomoci. Měl zrychlený tep a dýchání, nízký krevní tlak a četné rány na dolní části těla v různých stádiích hojení.
+Případ ilustruje závažná rizika spojená s nekontrolovaným užíváním bylinných doplňků stravy, které jsou často vnímány jako bezpečná alternativa k běžným lékům. Muž přišel do nemocnice s příznaky, které se zpočátku jevily jako běžná infekce, ale jeho stav se rychle zhoršoval.
 
-Počáteční vyšetření odhalila bakterii Staphylococcus aureus v krevním oběhu, absces na rameni a zhoršující se infekci v oblasti páteře. Lékaři chtěli provést chirurgický zákrok k uvolnění tlaku na míchu a nervy, ale pacientův krevní tlak byl příliš nízký. Následně došlo k hemoragickému šoku způsobenému masivním krvácením do trávicího traktu.
+Lékaři museli pacienta přemístit na jednotku intenzivní péče, kde byl intubován kvůli dechové nedostatečnosti. Krevní tlak klesal navzdory léčbě a dýchání se zhoršovalo. Endoskopické vyšetření trávicího traktu odhalilo rozsáhlé poškození - těžký zánět jícnu, vřed v žaludku a "prosakující" vřed v horní části tenkého střeva.
 
-Po převozu na jednotku intenzivní péče vyšetření trávicího traktu odhalilo další vážné problémy: těžce zanícený jícen, vřed v žaludku a "krvácející" vřed v horní části tenkého střeva. Přestože se lékařům podařilo zastavit krvácení, stav pacienta se nadále zhoršoval. Krevní tlak dále klesal a dýchání se zhoršovalo, což vyžadovalo intubaci.
+Klíčovým zjištěním bylo podezření na dysfunkci nadledvin. Tyto žlázy, umístěné nad ledvinami, produkují steroidní hormony včetně kortizolu, který je někdy označován jako "stresový hormon". Kortizol je nezbytný pro regulaci krevního tlaku, metabolismu a imunitní odpovědi organismu. Selhání nadledvin může vést k život ohrožujícím stavům, zejména v kombinaci s těžkou infekcí.
 
-V tomto bodě lékaři začali podezírat poruchu nadledvin. Tyto žlázy umístěné nad ledvinami produkují steroidní hormony včetně kortizolu, známého jako "stresový hormon". Následné vyšetření potvrdilo, že bylinné doplňky stravy, které pacient užíval na bolesti kloubů, způsobily selhání nadledvin a kaskádu dalších zdravotních komplikací.
+Bylinné doplňky stravy nejsou v USA podrobeny stejně přísné regulaci jako běžné léky. Nemusí procházet klinickými studiemi před uvedením na trh a jejich složení může být proměnlivé. Některé bylinné přípravky mohou obsahovat látky, které interagují s léky nebo přímo poškozují orgány.
 
 ## Proč je to důležité
 
-Případ ilustruje závažná rizika spojená s neregulovaným trhem doplňků stravy a bylinných přípravků. Na rozdíl od léků podléhajících přísné regulaci a testování nejsou doplňky stravy v mnoha zemích včetně USA dostatečně kontrolovány. Spotřebitelé často považují bylinné přípravky za bezpečnou alternativu k farmaceutikům, aniž by si uvědomovali potenciální nebezpečí.
+Případ upozorňuje na rostoucí problém s nekontrolovaným užíváním bylinných doplňků a alternativní medicíny. Mnoho lidí považuje bylinné přípravky za bezpečnější než syntetické léky, což může vést k podcenění rizik. Trh s doplňky stravy je přitom v USA i Evropě jen minimálně regulován.
 
-Zveřejnění případu v prestižním lékařském časopise slouží jako varování pro zdravotnickou komunitu i veřejnost. Ukazuje, že i zdánlivě neškodné přírodní přípravky mohou mít devastující účinky na lidský organismus, zejména při kombinaci různých látek nebo při dlouhodobém užívání. Lékaři by měli aktivně zjišťovat, jaké doplňky stravy jejich pacienti užívají, protože tyto informace mohou být klíčové pro diagnostiku a léčbu.
+Jde o varování pro zdravotnický systém i spotřebitele. Lékaři by měli aktivně zjišťovat, jaké doplňky jejich pacienti užívají, protože ti je často nepovažují za důležité zmínit. Spotřebitelé by si měli uvědomit, že "přírodní" neznamená automaticky "bezpečný" a že bylinné přípravky mohou mít závažné vedlejší účinky a interakce s jinými léky.
 
 ---
 
