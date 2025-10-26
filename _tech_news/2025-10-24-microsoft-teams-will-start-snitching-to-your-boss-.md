@@ -3,8 +3,9 @@ category: kancelářský software
 companies:
 - Microsoft
 date: '2025-10-24 10:38:25'
-description: Teams získá funkci automatického sledování pracovní lokace pomocí firemní
-  Wi-Fi sítě. Administrátoři budou moci vidět, kdo skutečně pracuje z kanceláře.
+description: Nová funkce v Microsoft Teams bude automaticky sledovat polohu zaměstnanců
+  pomocí firemní Wi-Fi a sdílet tyto informace s vedením. Aktualizace přichází v prosinci
+  2025.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft Teams will start snitching to your boss when you’re not
@@ -23,29 +24,33 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/ZNosfAN6RXL7bQy6sRhkHZ-2560-
 
 ## Souhrn
 
-Microsoft Teams v prosinci 2025 zavede funkci automatického sledování pracovní lokace zaměstnanců. Platforma bude využívat připojení k firemní Wi-Fi síti k určení, zda pracovník skutečně pracuje z kanceláře nebo z domova. Informace o lokaci budou dostupné administrátorům a manažerům.
+Microsoft Teams získá v prosinci 2025 novou funkci automatického sledování pracovní polohy zaměstnanců. Platforma bude využívat připojení k firemní Wi-Fi síti k určení, zda pracovník skutečně pracuje z kancelář, nebo z domova. Informace budou dostupné vedoucím pracovníkům.
 
 ## Klíčové body
 
-- Teams automaticky nastaví pracovní lokaci na základě připojení k firemní Wi-Fi síti
-- Funkce bude ve výchozím stavu vypnutá, ale administrátoři ji mohou aktivovat
-- Aktualizace se týká Windows i macOS verzí aplikace
-- Rollout začíná koncem prosince 2025
-- Administrátoři mohou vyžadovat, aby zaměstnanci funkci povolili
+- Teams bude automaticky detekovat polohu zaměstnance na základě připojení k firemní Wi-Fi síti
+- Funkce se spustí v prosinci 2025 pro Windows i macOS
+- Ve výchozím nastavení bude funkce vypnutá, ale IT administrátoři mohou vyžadovat její aktivaci
+- Systém pravděpodobně využije IP adresu a další síťové parametry k identifikaci konkrétní budovy nebo pobočky
+- Navazuje na existující manuální nastavení pracovní polohy v Teams
 
 ## Podrobnosti
 
-Podle oficiální dokumentace Microsoft 365 bude Teams automaticky detekovat pracovní lokaci uživatele při připojení k firemní Wi-Fi síti. Systém pravděpodobně využije identifikaci na základě IP adresy nebo jiných síťových parametrů k určení konkrétní budovy nebo kanceláře, ve které se zaměstnanec nachází.
+Podle oficiální dokumentace Microsoft 365 roadmap bude nová funkce fungovat tak, že při připojení k firemní Wi-Fi síti Teams automaticky nastaví pracovní polohu uživatele tak, aby odrážela budovu, ve které se nachází. Aktualizace polohy proběhne okamžitě po připojení k síti.
 
-Funkce rozšiřuje stávající možnost manuálního nastavení pracovní lokace v Teams, která dosud sloužila především k orientaci ve velkých kancelářských komplexech nebo campusech. Nově však bude proces plně automatizovaný a aktualizace proběhne okamžitě po připojení k síti.
+Microsoft Teams již nyní obsahuje možnost manuálního nastavení pracovní polohy, která slouží především k identifikaci konkrétního pracoviště v rámci velkých kancelářských komplexů nebo firemních kampusů. Nová funkce tento proces automatizuje pomocí síťových parametrů, jako je IP adresa připojení.
 
-Microsoft zdůrazňuje, že funkce bude standardně deaktivovaná. Rozhodnutí o jejím zapnutí leží na správcích IT infrastruktury jednotlivých organizací. Ti navíc mohou vyžadovat, aby zaměstnanci aktivně souhlasili s jejím používáním. V praxi to však znamená, že zaměstnanci budou mít minimální kontrolu nad tím, zda budou sledováni.
+Implementace bude záviset na rozhodnutí IT administrátorů jednotlivých organizací. Ačkoliv bude funkce ve výchozím stavu deaktivovaná, administrátoři mají možnost ji zapnout a dokonce vyžadovat, aby ji zaměstnanci aktivovali ve svých profilech. To vytváří potenciální tlak na pracovníky, kteří preferují práci z domova.
 
-Článek zmiňuje precedens z Amazonu, kde po pandemii zaměstnanci neochotní vracet se do kanceláří měnili názvy svých domácích Wi-Fi sítí (SSID) tak, aby odpovídaly firemní síti a obešli tak sledování přítomnosti.
+Zajímavým historickým kontextem je případ Amazonu po pandemii COVID-19, kdy firma tlačila zaměstnance zpět do kanceláří. Někteří pracovníci tehdy změnili název své domácí Wi-Fi sítě (SSID) tak, aby odpovídal firemní síti, čímž obcházeli sledování přítomnosti. Nový systém Microsoftu by měl být proti takovým praktikám odolnější díky využití komplexnějších síťových parametrů.
 
 ## Proč je to důležité
 
-Tato aktualizace odráží pokračující napětí mezi zaměstnavateli a zaměstnanci ohledně práce z domova. Po pandemii COVID-19 mnoho firem tlačí na návrat do kanceláří, zatímco zaměstnanci preferují flexibilitu hybridního nebo plně vzdáleného režimu. Implementace automatického sledování lokace v tak rozšířené platformě, jakou je Teams, představuje významný posun směrem k větší kontrole nad pracovními návyky zaměstnanců. Zároveň to vyvolává otázky ohledně soukromí a důvěry mezi zaměstnavateli a zaměstnanci. Pro IT administrátory to znamená nutnost zvážit etické a právní aspekty sledování zaměstnanců, zejména v kontextu evropské legislativy GDPR.
+Tato aktualizace odráží pokračující napětí mezi zaměstnavateli a zaměstnanci ohledně práce na dálku. Po pandemii COVID-19 mnoho firem tlačí na návrat do kanceláří, zatímco zaměstnanci často preferují flexibilitu práce z domova. Microsoft Teams, jako dominantní platforma pro firemní komunikaci s více než 280 miliony aktivních uživatelů měsíčně, tak získává nástroj pro monitorování, který může zásadně ovlivnit pracovní kulturu v mnoha organizacích.
+
+Funkce také vyvolává otázky ohledně soukromí a důvěry mezi zaměstnavateli a zaměstnanci. Automatické sledování polohy může být vnímáno jako forma mikromanagementu, která podkopává autonomii pracovníků. Na druhou stranu může pomoci vedení lépe plánovat využití kancelářských prostor a koordinovat týmovou spolupráci.
+
+Pro IT administrátory a vedení firem bude klíčové zvážit, zda aktivace této funkce přinese skutečnou hodnotu, nebo naopak poškodí morálku zaměstnanců a důvěru v organizaci.
 
 ---
 

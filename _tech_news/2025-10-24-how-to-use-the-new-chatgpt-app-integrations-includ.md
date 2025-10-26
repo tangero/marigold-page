@@ -7,9 +7,9 @@ companies:
 - Canva
 - Expedia
 date: '2025-10-24 19:08:10'
-description: OpenAI spustilo přímé integrace aplikací do ChatGPT, které umožňují propojit
-  účty služeb jako Spotify, Canva, Figma nebo Booking.com a ovládat je pomocí konverzačního
-  rozhraní.
+description: OpenAI spustilo přímé integrace aplikací třetích stran do ChatGPT, které
+  umožňují uživatelům propojit účty služeb jako Spotify, Canva, Figma nebo Booking.com
+  a ovládat je pomocí konverzačních příkazů.
 importance: 4
 layout: tech_news_article
 original_title: How to use the new ChatGPT app integrations, including Spotify, Figma,
@@ -28,33 +28,33 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-
 
 ## Souhrn
 
-OpenAI představilo nové integrace aplikací třetích stran přímo do ChatGPT, které uživatelům umožňují propojit své účty u služeb jako Spotify, Canva, Figma, Booking.com a dalších. Místo přepínání mezi aplikacemi tak mohou uživatelé zadávat příkazy přímo v ChatGPT a systém provede požadované akce v propojených službách.
+OpenAI rozšířilo ChatGPT o možnost přímého propojení s externími aplikacemi a službami. Uživatelé nyní mohou připojit své účty ze služeb jako Spotify, Canva, Figma, Booking.com nebo Expedia a ovládat je přímo z rozhraní ChatGPT pomocí textových příkazů. Integrace umožňuje například vytváření playlistů na Spotify nebo vyhledávání ubytování na Booking.com bez nutnosti opouštět ChatGPT.
 
 ## Klíčové body
 
-- ChatGPT nyní podporuje přímé integrace s externími aplikacemi včetně Spotify, Canva, Figma, Booking.com a dalších služeb
-- Uživatelé mohou propojit své účty buď průběžně při zadávání příkazů, nebo hromadně v nastavení pod sekcí Apps and Connectors
-- Propojení účtu znamená sdílení osobních dat z dané aplikace s ChatGPT, včetně historie poslechu u Spotify nebo dalších citlivých informací
-- Integrace se Spotify umožňuje vytváření personalizovaných playlistů přímo z ChatGPT
-- Propojení s Booking.com slouží k vyhledávání ubytování podle konkrétních parametrů jako datum, rozpočet, počet osob nebo blízkost veřejné dopravy
+- ChatGPT nyní podporuje přímé integrace s aplikacemi třetích stran včetně Spotify, Canva, Figma a Booking.com
+- Propojení účtů probíhá buď zadáním názvu aplikace do promptu, nebo hromadně přes nabídku Nastavení → Apps and Connectors
+- Připojení účtu znamená sdílení osobních dat z dané aplikace s ChatGPT, včetně historie poslechu u Spotify nebo preferencí cestování
+- Uživatelé mohou kdykoli odpojit jakoukoli propojenou aplikaci v nastavení
+- Integrace s Booking.com umožňuje vyhledávání ubytování podle data, rozpočtu, počtu osob a specifických požadavků jako blízkost veřejné dopravy
 
 ## Podrobnosti
 
-Aktivace integrací probíhá dvěma způsoby. První možností je začít prompt názvem aplikace, kterou chcete použít - ChatGPT vás pak provede procesem přihlášení a propojení účtu. Druhá varianta spočívá v návštěvě sekce Settings, kde najdete položku Apps and Connectors s přehledem dostupných aplikací. Zde můžete procházet nabídku služeb a propojit více účtů najednou.
+Aktivace integrací je navržena jako jednoduchý proces. Uživatel buď napíše název aplikace na začátek svého příkazu (například "Spotify, vytvoř mi playlist"), nebo přejde do nabídky Nastavení, kde najde sekci Apps and Connectors s přehledem dostupných aplikací. Po výběru aplikace následuje standardní přihlašovací proces a udělení oprávnění.
 
-Při propojování účtů je třeba věnovat pozornost oprávněním, která ChatGPT získává. V případě Spotify má systém přístup k playlistům, historii poslechu a dalším osobním informacím. Tato data slouží k personalizaci výsledků, ale uživatelé s obavami o soukromí by měli zvážit, zda jsou ochotni poskytnout takovou úroveň přístupu. Všechna propojení lze kdykoliv odpojit v menu nastavení.
+Integrace se Spotify představuje praktický příklad využití. Uživatel může ChatGPT požádat o vytvoření personalizovaného playlistu, který se následně objeví přímo v aplikaci Spotify. ChatGPT má přitom přístup k historii poslechu, existujícím playlistům a dalším osobním údajům, což mu umožňuje lépe přizpůsobit výsledky individuálním preferencím.
 
-Integrace s Booking.com je zaměřena především na cestovatele, kteří poprvé navštěvují určitou destinaci a potřebují doporučení ubytování. Po propojení účtu mohou uživatelé požádat ChatGPT o vyhledání hotelů v konkrétním městě podle data, rozpočtu, počtu osob nebo specifických požadavků jako blízkost veřejné dopravy či snídaně v ceně. Systém má být intuitivnější než přímé vyhledávání na webu Booking.com a umožňuje přirozenější formulaci požadavků.
+U integrace s Booking.com jde o zjednodušení procesu hledání ubytování. Místo procházení filtry na webu mohou uživatelé formulovat požadavky přirozeným jazykem: "Najdi hotel v Praze pro dva lidi od 15. do 20. června, rozpočet do 100 eur na noc, blízko metra, se snídaní." ChatGPT pak zpracuje požadavek a vrátí relevantní výsledky z databáze Booking.com.
 
-Další dostupné integrace zahrnují Canva pro tvorbu grafického obsahu a Figma pro designové projekty, což naznačuje zaměření na produktivní nástroje používané profesionály i běžnými uživateli.
+OpenAI upozorňuje na důležitý aspekt ochrany soukromí. Propojení účtu znamená sdílení dat mezi aplikací a ChatGPT. U Spotify to zahrnuje playlisty, historii poslechu a další osobní informace. Uživatelé by měli před připojením pečlivě zvážit, jaká oprávnění udělují, a zkontrolovat, s jakými daty ChatGPT získá možnost pracovat. Všechna propojení lze kdykoliv zrušit v nastavení.
 
 ## Proč je to důležité
 
-Tento krok představuje významný posun v pozici ChatGPT od pouhého konverzačního asistenta k centrálnímu rozhraní pro ovládání různých online služeb. OpenAI tím přímo konkuruje ekosystémům jako Google Assistant nebo Siri, ale s výhodou pokročilejšího jazykového modelu schopného lépe porozumět kontextu a složitějším požadavkům.
+Tato aktualizace představuje významný posun v pozici ChatGPT v technologickém ekosystému. Místo pouhého konverzačního asistenta se ChatGPT stává centrálním rozhraním pro ovládání různých služeb a aplikací. Jde o přímou konkurenci asistentům jako Google Assistant nebo Siri, s tím rozdílem, že ChatGPT nabízí pokročilejší porozumění kontextu a přirozenému jazyku.
 
-Integrace však přinášejí zásadní otázky ohledně soukromí a centralizace dat. Uživatelé fakticky svěřují OpenAI přístup k osobním informacím z mnoha služeb najednou, což vytváří nový typ závislosti na jednom poskytovateli AI. Pro konkurenci to znamená tlak na vytvoření podobných integrací, což může vést k fragmentaci trhu nebo naopak k dalšímu upevnění pozice několika dominantních AI platforem.
+Z hlediska uživatelské zkušenosti integrace slibují úsporu času a zjednodušení pracovních postupů. Místo přepínání mezi aplikacemi mohou uživatelé vše ovládat z jednoho místa. To je obzvláště užitečné pro komplexnější úkoly vyžadující koordinaci více nástrojů.
 
-Z hlediska uživatelské zkušenosti jde o praktický přínos zejména pro ty, kdo chtějí zefektivnit práci s více aplikacemi současně. Otázkou zůstává, jak spolehlivě budou integrace fungovat v praxi a zda přirozený jazyk skutečně překoná specializovaná rozhraní jednotlivých služeb.
+Na druhou stranu centralizace přístupu k datům z různých služeb vyvolává otázky ohledně soukromí a bezpečnosti. OpenAI získává přístup k citlivým informacím z mnoha zdrojů najednou, což vytváří potenciální riziko v případě úniku dat nebo zneužití. Uživatelé musí zvážit kompromis mezi pohodlím a ochranou soukromí.
 
 ---
 

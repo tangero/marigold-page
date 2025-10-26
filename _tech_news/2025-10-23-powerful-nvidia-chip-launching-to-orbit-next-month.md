@@ -6,7 +6,7 @@ companies:
 date: '2025-10-23 18:00:00'
 description: Společnost Starcloud příští měsíc vypustí satelit se čipem NVIDIA H100,
   který je stonásobně výkonnější než dosavadní procesory ve vesmíru. Jde o první krok
-  k budování rozsáhlých datových center na oběžné dráze.
+  k budování datových center na oběžné dráze.
 importance: 3
 layout: tech_news_article
 original_title: Powerful NVIDIA chip launching to orbit next month - Space
@@ -24,31 +24,31 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/T6h4NdLfj8SRCSHpEa3enj-1920-
 
 ## Souhrn
 
-Společnost Starcloud z Washingtonu plánuje příští měsíc vypustit satelit Starcloud-1 s grafickým procesorem NVIDIA H100, který je přibližně stokrát výkonnější než jakýkoli procesor dosud použitý ve vesmíru. Mise má otestovat zpracování dat na oběžné dráze jako první krok k vybudování rozsáhlé výpočetní infrastruktury ve vesmíru, což by mohlo výrazně snížit environmentální zátěž pozemských datových center.
+Společnost Starcloud ze státu Washington plánuje příští měsíc vypustit satelit Starcloud-1 s grafickým procesorem NVIDIA H100, který je přibližně stokrát výkonnější než jakýkoli procesor dosud použitý ve vesmíru. Mise má otestovat možnosti zpracování dat na oběžné dráze jako první krok k vybudování rozsáhlé výpočetní infrastruktury ve vesmíru.
 
 ## Klíčové body
 
-- NVIDIA H100 GPU poletí na palubě satelitu Starcloud-1, start je plánován na příští měsíc raketou SpaceX Falcon 9
-- Procesor je asi 100× výkonnější než jakýkoli dosud použitý čip ve vesmíru
+- NVIDIA H100 GPU poletí na palubě satelitu Starcloud-1, jehož start je plánován na příští měsíc raketou SpaceX Falcon 9
+- Procesor je asi 100× výkonnější než jakýkoli čip, který dosud letěl ve vesmíru
 - Starcloud plánuje vybudovat orbitální datové centrum o výkonu 5 gigawattů s solárními a chladicími panely o rozměrech přibližně 4 kilometry
-- Podle CEO Philipa Johnstona by vesmírné datové centrum mělo během své životnosti ušetřit 10× více CO2 oproti pozemnímu provozu
-- Ekonomická realizovatelnost projektu závisí na snížení nákladů na starty, které má přinést plně operační raketa SpaceX Starship na začátku 30. let
+- Projekt počítá s plnou realizací v době, kdy bude plně operační raketa SpaceX Starship, což se očekává na začátku 30. let
+- Podle firmy by vesmírná datová centra měla za svou životnost ušetřit 10× více CO2 než pozemní varianty
 
 ## Podrobnosti
 
-Pozemská datová centra představují rostoucí environmentální zátěž. Spotřebovávají obrovské množství elektrické energie a vody, zatěžují místní zdroje, produkují hluk a přispívají k emisím skleníkových plynů. Ve vesmíru by podle technologů stojících za projektem Starcloud byla energie a chlazení dostupnější a levnější.
+Starcloud, firma sídlící v Redmondu ve Washingtonu, vidí ve vesmíru řešení rostoucích environmentálních problémů spojených s datovými centry. Současná datová centra spotřebovávají obrovské množství elektřiny a vody, zatěžují místní zdroje, produkují hluk a přispívají k emisím skleníkových plynů.
 
-Philip Johnston, spoluzakladatel a CEO společnosti Starcloud, vysvětluje: "Ve vesmíru získáte téměř neomezené, levné obnovitelné zdroje energie. Jediný dopad na životní prostředí bude při startu rakety, poté dojde k desetinásobným úsporám oxidu uhličitého během životnosti datového centra ve srovnání s napájením pozemského centra."
+Ve vesmíru by podle vizionářů z Starcloud bylo možné využít prakticky neomezené množství obnovitelné energie ze Slunce. "Ve vesmíru získáte téměř neomezené, levné obnovitelné zdroje energie," uvedl Philip Johnston, spoluzakladatel a generální ředitel Starcloud. Jediným environmentálním dopadem by byl samotný start rakety.
 
-Klíčovým faktorem pro realizaci projektu jsou náklady na vynášení nákladu na oběžnou dráhu. Starcloud počítá s tím, že ekonomika projektu bude fungovat až po plném zprovoznění megarakety Starship od SpaceX, což se očekává na začátku 30. let tohoto století. Tato raketa má výrazně snížit cenu za kilogram vyneseného nákladu.
+Chladicí systémy, které na Zemi představují významnou část energetické spotřeby datových center, by ve vesmíru fungovaly efektivněji díky vakuu a možnosti odvádět teplo radiací. Hluk, který obtěžuje obyvatele v okolí pozemních datových center, by ve vakuu nikoho nerušil.
 
-Satelit Starcloud-1 bude testovací platformou pro ověření konceptu zpracování dat ve vesmírném prostředí. Společnost plánuje následně vybudovat datové centrum s výkonem 5 gigawattů, vybavené rozsáhlými solárními panely pro napájení a chladicími systémy o rozměrech přibližně 4 × 4 kilometry.
+Klíčovým faktorem pro realizovatelnost projektu jsou náklady na vynášení nákladů na oběžnou dráhu. Starcloud počítá s tím, že ekonomika projektu bude dávat smysl až v okamžiku, kdy bude plně operační raketa Starship od SpaceX, což se očekává na začátku 30. let tohoto století. Tato obří raketa má výrazně snížit cenu za kilogram vyneseného nákladu.
+
+Mise Starcloud-1 s čipem H100 má ověřit, jak výkonné procesory fungují v podmínkách vesmíru, včetně vystavení kosmickému záření a extrémním teplotním výkyvům.
 
 ## Proč je to důležité
 
-Projekt představuje zajímavý pokus o řešení rostoucích nároků na výpočetní výkon a související environmentální zátěže. S rozvojem umělé inteligence, cloudových služeb a zpracování velkých dat neustále roste potřeba datových center, která spotřebovávají stále více zdrojů. Přesun části této infrastruktury do vesmíru by mohl být jedním z možných řešení.
-
-Realističnost projektu však závisí na několika faktorech - především na dramatickém snížení nákladů na starty, které slibuje Starship, ale také na spolehlivosti technologie v náročném vesmírném prostředí a na řešení přenosu dat mezi oběžnou dráhou a Zemí. Mise Starcloud-1 poskytne první praktická data o tom, jak dobře mohou výkonné procesory fungovat na oběžné dráze a zda je koncept vesmírných datových center technicky i ekonomicky proveditelný.
+Projekt představuje zajímavý pokus o řešení rostoucích environmentálních dopadů digitální infrastruktury. S rozvojem umělé inteligence a cloudových služeb roste poptávka po výpočetním výkonu exponenciálně, což klade stále větší tlak na energetické sítě a vodní zdroje. Vesmírná datová centra by mohla být jedním z řešení, pokud se podaří dramaticky snížit náklady na starty. Úspěch mise Starcloud-1 ukáže, zda jsou současné výkonné procesory schopné spolehlivě fungovat na oběžné dráze, což je základní předpoklad pro jakékoli budoucí komerční využití.
 
 ---
 

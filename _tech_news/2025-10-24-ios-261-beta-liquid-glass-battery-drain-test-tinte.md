@@ -3,9 +3,8 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-10-24 21:30:33'
-description: Ve čtvrté beta verzi iOS 26.1 Apple přidal možnost "Tinted" pro Liquid
-  Glass, která snižuje průhlednost rozhraní. Test zkoumá, zda toto nastavení ovlivňuje
-  spotřebu baterie.
+description: Uživatel testoval, zda nový režim Tinted v rozhraní Liquid Glass v iOS
+  26.1 beta šetří baterii oproti průhlednému režimu Clear.
 importance: 2
 layout: tech_news_article
 original_title: 'iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode
@@ -22,11 +21,11 @@ urlToImage: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/ar
 urlToImageBackup: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg
 ---
 
-Článek popisuje test vlivu různých režimů zobrazení Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Jedná se o spekulativní obsah týkající se budoucí verze iOS, která zatím neexistuje (aktuální verze je iOS 18.x), a pravděpodobně jde o fiktivní scénář nebo chybu v datování.
+## Shrnutí
 
-Autor provedl čtyři testy s různými nastaveními: standardní průhledný režim Clear, nový režim Tinted se sníženou průhledností, Tinted s aktivovanými funkcemi Reduce Transparency a Increase Contrast, a konečně kombinace všech předchozích včetně Reduce Motion. Každý test trval 2,5 hodiny a zahrnoval identickou sekvenci aktivit - 30 minut TikTok, YouTube, Instagram, prohlížení webu v Safari a navigace v Mapách. Během testování autor pravidelně otevíral notifikace a Control Center.
+Jedná se o neoficiální test vlivu různých režimů zobrazení rozhraní Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Autor testoval čtyři různé konfigurace včetně nového režimu Tinted, který snižuje průhlednost rozhraní. Test však není oficiální a jedná se spíše o spekulativní obsah než o relevantní novinku.
 
-Test byl proveden za kontrolovaných podmínek s 50% jasem displeje, vypnutým True Tone a Night Shift, při pokojové teplotě. Článek však nekončí výsledky testování, taktakže není jasné, zda režim Tinted skutečně šetří baterii oproti standardnímu Clear režimu.
+**Poznámka:** Článek zmiňuje iOS 26.1 a iPhone 17 Pro Max, což jsou produkty, které v současnosti neexistují (aktuální je iOS 18.x a iPhone 16). Pravděpodobně se jedná o fiktivní nebo chybně datovaný obsah.
 
 ---
 
