@@ -18,9 +18,9 @@ urlToImage: https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655
 urlToImageBackup: https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg
 ---
 
-Společnost Wizards of the Coast, vydavatel karetní hry Magic: The Gathering, oznámila výrobní zpoždění u své prémiové produktové řady Secret Lair. Problém vznikl kvůli nesrovnalostem v surovinách používaných při výrobě, což neovlivnilo kvalitu nebo bezpečnost produktů, ale způsobilo zpoždění v dodávkách.
+Společnost Wizards of the Coast, vydavatel karetní hry Magic: The Gathering, oznámila zpoždění ve výrobě produktové řady Secret Lair. Příčinou jsou nesrovnalosti v surovinách používaných při výrobě, které sice neovlivnily kvalitu ani bezpečnost produktů, ale narušily výrobní harmonogram.
 
-Zákazníci s dotčenými objednávkami mají tři možnosti: počkat na dodání, upravit objednávku prostřednictvím zákaznické podpory, nebo zrušit objednávku a požádat o vrácení peněz. Společnost slibuje transparentnost a zavazuje se dodat kvalitní produkty, i když s časovým zpožděním způsobeným faktory mimo jejich kontrolu.
+Firma již zajistila náhradní komponenty a problém vyřešila, nicméně oprava způsobila dominový efekt v celém výrobním plánu. Zákazníci s objednávkami obsahujícími dotčené položky mají tři možnosti: počkat na dodání, upravit objednávku prostřednictvím zákaznické podpory, nebo zrušit objednávku a požádat o vrácení peněz. Společnost slibuje transparentnost a dodání kvalitních produktů, přestože se jedná o experimentální limitované edice.
 
 ---
 

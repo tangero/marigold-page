@@ -23,33 +23,31 @@ urlToImageBackup: https://helios-i.mashable.com/imagery/articles/04nYaUCJFREFVb7
 
 ## Souhrn
 
-OpenAI oznámilo akvizici společnosti Software Applications Incorporated, vývojáře AI asistenta Sky pro macOS. Jde o nativní rozhraní, které umožňuje ovládat Mac pomocí přirozeného jazyka a automatizovat běžné úkoly přímo v operačním systému, nikoli pouze přes webový prohlížeč. Akvizice posiluje pozici OpenAI v ekosystému Apple.
+OpenAI oznámilo akvizici společnosti Software Applications Incorporated, vývojáře AI asistenta Sky pro macOS. Jde o nativní rozhraní ovládané přirozeným jazykem, které má umožnit ChatGPT přímo ovládat funkce počítače Mac, nikoli pouze odpovídat na dotazy v prohlížeči.
 
 ## Klíčové body
 
-- OpenAI koupilo Software Applications Incorporated, tvůrce AI asistenta Sky pro Mac
-- Sky funguje jako nativní AI rozhraní přímo v macOS, ne jen jako webová aplikace
-- Obchod vedl Nick Turley, viceprezident a vedoucí ChatGPT
-- Sky zatím nebyl veřejně vydán, existují pouze demo ukázky z května
-- Akvizice rozšiřuje již existující partnerství mezi OpenAI a Apple v rámci Apple Intelligence
+- OpenAI kupuje Software Applications Incorporated, tvůrce AI asistenta Sky pro Mac
+- Sky funguje jako nativní AI rozhraní přímo v macOS, ne pouze v prohlížeči
+- Akvizici vedl Nick Turley, viceprezident a vedoucí ChatGPT
+- Produkt Sky dosud nebyl veřejně vydán, existuje pouze demo z května 2024
+- Jde o další krok OpenAI do ekosystému Apple po partnerství na Apple Intelligence
 
 ## Podrobnosti
 
-Sky představuje AI asistenta, který běží nativně na Macu a umožňuje uživatelům ovládat počítač pomocí přirozených příkazů. Na rozdíl od běžných AI chatbotů v prohlížeči má Sky přímý přístup k systému a aplikacím. Demonstrační video z května ukazuje praktické využití: asistent dokáže přečíst textovou zprávu o večeři, automaticky přidat událost do kalendáře, vyhledat vhodné bary v okolí a odpovědět na zprávu s návrhem předvečerního programu.
+Akvizice představuje strategický krok OpenAI směrem k hlubší integraci do operačního systému macOS. Zatímco současné AI asistenty fungují primárně v prohlížeči nebo jako samostatné aplikace, Sky má být nativně integrován přímo do systému a umožnit ovládání počítače pomocí přirozeného jazyka.
 
-Nick Turley, který akvizici vedl, vysvětluje vizi OpenAI: "Budujeme budoucnost, kde ChatGPT nejen odpovídá na vaše dotazy, ale pomáhá vám věci skutečně udělat. Hluboká integrace Sky s Macem urychluje naši vizi přinést AI přímo do nástrojů, které lidé používají každý den."
+Demonstrace z května ukazuje praktické využití: Sky dokáže přidat schůzku z textové zprávy do kalendáře, vyhledat informace o barech v okolí a odpovědět na zprávu s návrhem programu. Jde tedy o asistenta, který aktivně pracuje s daty napříč aplikacemi a vykonává úkoly za uživatele.
 
-CEO a spoluzakladatel Software Applications Incorporated Ari Weinstein k akvizici uvedl, že vždy chtěli, aby počítače byly více posilující, přizpůsobitelné a intuitivní. S velkými jazykovými modely je podle něj konečně možné poskládat všechny díly dohromady.
+Nick Turley, který akvizici vedl, uvedl: "Budujeme budoucnost, kde ChatGPT nejen odpovídá na dotazy, ale pomáhá vám věci dokončit. Hluboká integrace Sky s Macem urychluje naši vizi přinést AI přímo do nástrojů, které lidé používají každý den."
 
-Sky dosud nebyl veřejně vydán, takže jeho skutečné schopnosti a omezení nejsou plně známé. OpenAI nezveřejnilo finanční podmínky transakce ani časový plán integrace Sky do svých produktů.
+CEO Software Applications Incorporated Ari Weinstein k tomu dodal, že s příchodem velkých jazykových modelů je konečně možné udělat počítače intuitivnější a přizpůsobitelnější.
+
+OpenAI již má s Apple partnerství na Apple Intelligence, kde modely ChatGPT pohánějí některé funkce. Tato akvizice však ukazuje ambici jít ještě dál a nabídnout vlastní řešení pro ovládání macOS.
 
 ## Proč je to důležité
 
-Akvizice signalizuje posun OpenAI od čistě cloudových služeb k nativním aplikacím pro konkrétní platformy. Zatímco partnerství s Apple v rámci Apple Intelligence se zaměřuje na integraci ChatGPT do systémových funkcí iOS a macOS, Sky představuje samostatný produkt s hlubší kontrolou nad operačním systémem.
-
-Jde o strategický tah do teritoria, které tradičně patří Applu. Nativní AI asistent s přístupem k systémovým funkcím může konkurovat vlastním řešením Apple, což vytváří zajímavou dynamiku mezi partnery. OpenAI tak získává přímý kanál k uživatelům Macu nezávisle na rozhodnutích Applu.
-
-Pro uživatele by mohlo jít o výrazný posun v produktivitě, pokud Sky skutečně dokáže spolehlivě automatizovat běžné úkoly napříč aplikacemi. Zároveň to však vyvolává otázky ohledně soukromí a bezpečnosti – nativní asistent s rozsáhlými oprávněními má přístup k citlivým datům uživatele.
+Akvizice signalizuje posun od konverzačních AI asistentů k agentním systémům, které aktivně vykonávají úkoly. OpenAI tak přímo konkuruje Applu na jeho vlastní platformě a zároveň rozšiřuje definici toho, co ChatGPT dokáže. Jde o strategický tah v době, kdy všichni hlavní hráči (Google, Microsoft, Apple) integrují AI do svých operačních systémů. Pro uživatele Maců to může znamenat výrazně pokročilejší možnosti automatizace a ovládání počítače hlasem či textem, pokud se produkt skutečně dostane na trh.
 
 ---
 

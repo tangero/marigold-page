@@ -3,8 +3,9 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-10-24 21:30:33'
-description: Uživatel testoval, zda nový režim Tinted v rozhraní Liquid Glass v iOS
-  26.1 beta šetří baterii oproti průhlednému režimu Clear.
+description: Ve čtvrté beta verzi iOS 26.1 Apple přidal možnost "Tinted" pro méně
+  průhledné rozhraní Liquid Glass. Test zkoumá, zda toto nastavení ovlivňuje spotřebu
+  baterie.
 importance: 2
 layout: tech_news_article
 original_title: 'iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode
@@ -21,11 +22,11 @@ urlToImage: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/ar
 urlToImageBackup: https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg
 ---
 
-## Shrnutí
+Článek popisuje test vlivu různých nastavení vizuálního rozhraní Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Autor provedl čtyři testy s různými kombinacemi nastavení průhlednosti a vizuálních efektů, přičemž každý test trval 2,5 hodiny a zahrnoval identickou sérii aktivit (TikTok, YouTube, Instagram, Safari, Mapy).
 
-Jedná se o neoficiální test vlivu různých režimů zobrazení rozhraní Liquid Glass v beta verzi iOS 26.1 na výdrž baterie iPhone 17 Pro Max. Autor testoval čtyři různé konfigurace včetně nového režimu Tinted, který snižuje průhlednost rozhraní. Test však není oficiální a jedná se spíše o spekulativní obsah než o relevantní novinku.
+Testovány byly čtyři konfigurace: standardní průhledný režim Clear, nový režim Tinted s redukovanou průhledností, Tinted s vypnutou průhledností a zvýšeným kontrastem, a konečně Tinted se všemi možnými redukcemi vizuálních efektů včetně vypnutých animací. Všechny testy probíhaly za stejných podmínek - světlý režim, 50% jas, vypnutý True Tone a Night Shift, teplota 68-72°F.
 
-**Poznámka:** Článek zmiňuje iOS 26.1 a iPhone 17 Pro Max, což jsou produkty, které v současnosti neexistují (aktuální je iOS 18.x a iPhone 16). Pravděpodobně se jedná o fiktivní nebo chybně datovaný obsah.
+Jedná se o spekulativní test zaměřený na beta verzi systému, který ještě nebyl oficiálně vydán. Článek neobsahuje výsledky testů, což snižuje jeho informační hodnotu. Liquid Glass je zřejmě nové vizuální rozhraní v iOS 26.1, jehož průhlednost může teoreticky ovlivňovat spotřebu energie displeje.
 
 ---
 

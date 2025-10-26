@@ -4,8 +4,8 @@ companies:
 - Microsoft
 date: '2025-10-24 10:38:25'
 description: Nová funkce v Microsoft Teams bude automaticky sledovat polohu zaměstnanců
-  pomocí firemní Wi-Fi a sdílet tyto informace s vedením. Aktualizace přichází v prosinci
-  2025.
+  pomocí firemní Wi-Fi sítě a informovat nadřízené o tom, zda pracují z kanceláře
+  nebo vzdáleně.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft Teams will start snitching to your boss when you’re not
@@ -16,7 +16,8 @@ source:
   emoji: 📰
   id: null
   name: Tom's Guide
-title: Microsoft Teams začne v prosinci sledovat, kdo pracuje z kancelář a kdo z domova
+title: Microsoft Teams začne v prosinci sledovat, kdo pracuje z kanceláře a kdo z
+  domova
 url: https://www.tomsguide.com/computing/office-software/microsoft-teams-will-start-snitching-to-your-boss-when-youre-not-in-the-office-and-this-update-is-coming-in-december
 urlToImage: https://cdn.mos.cms.futurecdn.net/ZNosfAN6RXL7bQy6sRhkHZ-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/ZNosfAN6RXL7bQy6sRhkHZ-2560-80.jpg
@@ -24,33 +25,33 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/ZNosfAN6RXL7bQy6sRhkHZ-2560-
 
 ## Souhrn
 
-Microsoft Teams získá v prosinci 2025 novou funkci automatického sledování pracovní polohy zaměstnanců. Platforma bude využívat připojení k firemní Wi-Fi síti k určení, zda pracovník skutečně pracuje z kancelář, nebo z domova. Informace budou dostupné vedoucím pracovníkům.
+Microsoft Teams získá v prosinci 2025 novou funkci automatického sledování pracovní polohy zaměstnanců. Platforma bude využívat připojení k firemní Wi-Fi síti k určení, zda zaměstnanec skutečně pracuje z kanceláře nebo z jiného místa. Informace o polohe budou dostupné nadřízeným a mohou výrazně ovlivnit flexibilitu práce z domova.
 
-## Klíčové body
+## Klíčové údaje
 
-- Teams bude automaticky detekovat polohu zaměstnance na základě připojení k firemní Wi-Fi síti
-- Funkce se spustí v prosinci 2025 pro Windows i macOS
-- Ve výchozím nastavení bude funkce vypnutá, ale IT administrátoři mohou vyžadovat její aktivaci
-- Systém pravděpodobně využije IP adresu a další síťové parametry k identifikaci konkrétní budovy nebo pobočky
-- Navazuje na existující manuální nastavení pracovní polohy v Teams
+- Funkce se začne zavádět v prosinci 2025 pro Windows i macOS
+- Automatická detekce polohy bude fungovat na základě připojení k firemní Wi-Fi síti
+- Poloha zaměstnance se aktualizuje automaticky při připojení k síti
+- Funkce bude ve výchozím nastavení vypnutá, ale správci systému mohou rozhodnout o jejím zapnutí
+- Administrátoři mohou vyžadovat, aby zaměstnanci funkci aktivovali
 
 ## Podrobnosti
 
-Podle oficiální dokumentace Microsoft 365 roadmap bude nová funkce fungovat tak, že při připojení k firemní Wi-Fi síti Teams automaticky nastaví pracovní polohu uživatele tak, aby odrážela budovu, ve které se nachází. Aktualizace polohy proběhne okamžitě po připojení k síti.
+Podle oficiální dokumentace Microsoft 365 bude Teams automaticky nastavovat pracovní polohu uživatele podle budovy, ve které se nachází, jakmile se připojí k firemní Wi-Fi síti. Systém pravděpodobně využije technické parametry připojení jako IP adresu k identifikaci konkrétní lokace.
 
-Microsoft Teams již nyní obsahuje možnost manuálního nastavení pracovní polohy, která slouží především k identifikaci konkrétního pracoviště v rámci velkých kancelářských komplexů nebo firemních kampusů. Nová funkce tento proces automatizuje pomocí síťových parametrů, jako je IP adresa připojení.
+Microsoft Teams již nyní nabízí možnost manuálního nastavení pracovní polohy, která slouží především k orientaci ve velkých kancelářských komplexech nebo firemních kampusech. Nová funkce tento proces automatizuje a odstraňuje možnost zaměstnanců uvádět nepřesné informace o svém skutečném místě práce.
 
-Implementace bude záviset na rozhodnutí IT administrátorů jednotlivých organizací. Ačkoliv bude funkce ve výchozím stavu deaktivovaná, administrátoři mají možnost ji zapnout a dokonce vyžadovat, aby ji zaměstnanci aktivovali ve svých profilech. To vytváří potenciální tlak na pracovníky, kteří preferují práci z domova.
+Implementace této funkce připomína podobné kroky, které po pandemii COVID-19 zavedla společnost Amazon. Zaměstnanci Amazonu, kteří nesouhlasili s návratem do kanceláří, tehdy zkoušeli obejít systém změnou názvu domácí Wi-Fi sítě (SSID) tak, aby odpovídal oficiální firemní síti.
 
-Zajímavým historickým kontextem je případ Amazonu po pandemii COVID-19, kdy firma tlačila zaměstnance zpět do kanceláří. Někteří pracovníci tehdy změnili název své domácí Wi-Fi sítě (SSID) tak, aby odpovídal firemní síti, čímž obcházeli sledování přítomnosti. Nový systém Microsoftu by měl být proti takovým praktikám odolnější díky využití komplexnějších síťových parametrů.
+Funkce bude dostupná jak pro operační systém Windows, tak pro macOS. Klíčovým faktorem bude rozhodnutí firemních administrátorů, zda funkci vůbec aktivují a zda budou po zaměstnancích vyžadovat její povinné používání.
 
 ## Proč je to důležité
 
-Tato aktualizace odráží pokračující napětí mezi zaměstnavateli a zaměstnanci ohledně práce na dálku. Po pandemii COVID-19 mnoho firem tlačí na návrat do kanceláří, zatímco zaměstnanci často preferují flexibilitu práce z domova. Microsoft Teams, jako dominantní platforma pro firemní komunikaci s více než 280 miliony aktivních uživatelů měsíčně, tak získává nástroj pro monitorování, který může zásadně ovlivnit pracovní kulturu v mnoha organizacích.
+Tato aktualizace představuje významný posun v oblasti sledování zaměstnanců a může mít dopad na miliony uživatelů Microsoft Teams po celém světě. Jde o další krok ve snaze firem získat lepší přehled o pracovních návycích zaměstnanců v éře hybridní práce.
 
-Funkce také vyvolává otázky ohledně soukromí a důvěry mezi zaměstnavateli a zaměstnanci. Automatické sledování polohy může být vnímáno jako forma mikromanagementu, která podkopává autonomii pracovníků. Na druhou stranu může pomoci vedení lépe plánovat využití kancelářských prostor a koordinovat týmovou spolupráci.
+Funkce může sloužit legitimním účelům, jako je plánování využití kancelářských prostor nebo koordinace týmových setkání. Zároveň však vyvolává otázky ohledně soukromí zaměstnanců a důvěry mezi zaměstnavateli a zaměstnanci. Pro organizace, které podporují flexibilní pracovní modely, může být tato funkce kontraproduktivní a vést k poklesu spokojenosti zaměstnanců.
 
-Pro IT administrátory a vedení firem bude klíčové zvážit, zda aktivace této funkce přinese skutečnou hodnotu, nebo naopak poškodí morálku zaměstnanců a důvěru v organizaci.
+Rozhodnutí ponechat funkci ve výchozím stavu vypnutou naznačuje, že Microsoft si je vědom citlivosti této problematiky. Konečné slovo však budou mít firemní administrátoři, což může vést k různým přístupům napříč organizacemi.
 
 ---
 
