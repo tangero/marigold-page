@@ -4,7 +4,7 @@ companies:
 - Microsoft
 date: '2025-10-23 09:51:21'
 description: Microsoft upozorňuje na bezprecedentní bezpečnostní riziko po ukončení
-  podpory Windows 10, které postihuje přibližně 400 milionů počítačů.
+  podpory Windows 10, které ohrožuje přibližně 400 milionů počítačů.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft Warns Windows Users—Hackers Gain Access To PCs - Forbes
@@ -23,33 +23,33 @@ urlToImageBackup: https://imageio.forbes.com/specials-images/imageserve/6842b192
 
 ## Souhrn
 
-Microsoft vydal varování před masivním bezpečnostním rizikem spojeným s ukončením podpory Windows 10, které oficiálně proběhlo v říjnu 2025. Přibližně 400 milionů počítačů se ocitlo bez bezpečnostních aktualizací, což vytváří bezprecedentní příležitost pro hackery. Společnost upozorňuje, že nikdy v historii nespadlo takové množství zařízení z podpory v jediný den.
+Microsoft vydal varování před bezpečnostními riziky spojenými s nepodporovanými systémy Windows 10, jejichž oficiální podpora skončila v říjnu 2025. Přibližně 400 milionů počítačů se ocitlo v ohrožení, pokud jejich majitelé nezaplatí za rozšířenou podporu ESU (Extended Security Updates) nebo nepřejdou na Windows 11. Jde o bezprecedentní situaci, kdy nikdy předtím nespadlo z podpory takové množství zařízení najednou.
 
 ## Klíčové body
 
-- Windows 10 dosáhl konce životnosti, čímž se 400 milionů počítačů ocitlo bez bezpečnostních záplat
-- Microsoft nabízí program Extended Security Updates (ESU) pro pokračování v ochraně
-- Nepodporované systémy představují hlavní vstupní bod pro ransomwarové útoky
-- Uživatelé Windows 11 čelili v říjnu několika selháním a nouzovým aktualizacím
-- Hackeři cíleně vyčkávají na firmy, které odkládají upgrade systému
+- Windows 10 oficiálně ukončil životní cyklus, což ohrožuje přibližně 400 milionů počítačů bez rozšířené podpory ESU
+- Microsoft varuje před strategií "ještě jeden rok" a odkládáním upgradu na Windows 11
+- Kybernetičtí útočníci cílí na nepodporované systémy jako vstupní body pro ransomware
+- Uživatelé Windows 11 čelili v říjnu 2025 několika selháním a nouzovým aktualizacím
+- Jde o historicky největší počet zařízení, která ztratila podporu v jediný den
 
 ## Podrobnosti
 
-Microsoft ve svém varování zdůrazňuje nebezpečí strategie "ještě jeden rok počkáme", kterou mnoho uživatelů a firem volí při rozhodování o upgradu na Windows 11. Problém je tentokrát závažnější než při předchozích ukončeních podpory – jde o největší počet zařízení, která současně ztratila přístup k bezpečnostním aktualizacím.
+Microsoft ve svém varování zdůrazňuje, že moderní kybernetické útoky necílí přímo na nejcennější data, ale hledají slabá místa v infrastruktuře – zastaralé operační systémy, starší technologie a nepodporované koncové body. Podle společnosti hackeři nepotřebují prolomit nejsilnější zámek, stačí počkat, až někdo nechá okno otevřené.
 
-Varování je primárně zaměřeno na podnikové prostředí, kde nepodporované systémy slouží jako vstupní brána pro ransomwarové útoky. Moderní kybernetické útoky podle Microsoftu necílí přímo na nejcennější data, ale hledají slabá místa v infrastruktuře – zastaralé operační systémy, legacy systémy a nepodporovaná koncová zařízení.
+Varování je primárně zaměřeno na firemní sektor, kde představují nepodporované systémy vstupní bránu pro ransomwarové útoky. Problém je o to závažnější, že Microsoft nikdy předtím nečelil situaci, kdy by takové množství zařízení ztratilo podporu najednou. Každý měsíc prodlení s upgradem poskytuje útočníkům předvídatelnou příležitost.
 
-Společnost používá metaforu, že hackeři nepotřebují prolomit nejsilnější zámek, stačí počkat, až někdo nechá okno otevřené. A právě stovky milionů počítačů s Windows 10 představují tato otevřená okna. Každý měsíc prodlení s upgradem dává útočníkům předvídatelnou výhodu – vytváří se mozaika nezabezpečených systémů.
+Situaci komplikuje fakt, že Windows 11 sám čelil v říjnu 2025 několika problémům vyžadujícím nouzové aktualizace. Uživatelé se tak ocitají v nelehké pozici – buď zůstat na nepodporovaném Windows 10, nebo přejít na Windows 11 s vlastními technickými problémy.
 
-Pro pokračování v ochraně Microsoft nabízí program Extended Security Updates, který umožňuje i po ukončení standardní podpory získávat kritické bezpečnostní záplaty. Toto řešení je však určeno především jako dočasný most k migraci na Windows 11, ne jako dlouhodobá strategie.
-
-Situaci komplikuje fakt, že říjen 2025 byl pro Microsoft problematický i v jiných ohledech – uživatelé Windows 11 čelili několika závažným selháním systému, což vyústilo v nouzové aktualizace. Tyto problémy mohou paradoxně odrazovat uživatele Windows 10 od upgradu.
+Microsoft nabízí program ESU, který umožňuje pokračovat v získávání bezpečnostních aktualizací za poplatek, ale ne všichni uživatelé jsou ochotni nebo schopni tuto službu zaplatit. Pro mnoho firem představuje upgrade na Windows 11 také hardwarovou výzvu, protože tento systém má přísnější požadavky na hardware než jeho předchůdce.
 
 ## Proč je to důležité
 
-Jde o bezprecedentní bezpečnostní situaci v historii osobních počítačů. Nikdy předtím nespadlo takové množství zařízení z podpory najednou, což vytváří ideální podmínky pro masivní kybernetické útoky. Pro podniky představují nepodporované systémy kritické riziko – mohou sloužit jako vstupní bod pro ransomware, který může paralyzovat celou infrastrukturu.
+Jde o kritickou bezpečnostní situaci s bezprecedentním rozsahem. Nikdy předtím v historii osobních počítačů nespadlo z podpory takové množství zařízení najednou. Čtyři sta milionů potenciálně zranitelných počítačů představuje obrovskou útočnou plochu pro kyberzločince.
 
-Situace ukazuje dilema moderní IT bezpečnosti: na jedné straně nutnost pravidelných upgradů, na druhé straně problémy s kompatibilitou hardwaru (Windows 11 má přísnější požadavky na TPM 2.0 a další komponenty) a nestabilita nových verzí systému. Uživatelé a firmy musí vážit riziko zůstat na nepodporovaném systému proti riziku migrace na potenciálně nestabilní platformu.
+Situace má dopad nejen na individuální uživatele, ale především na firemní sektor, kde mohou nepodporované systémy sloužit jako vstupní bod pro rozsáhlé ransomwarové útoky. Microsoft tím fakticky nutí uživatele k rychlému rozhodnutí – buď investovat do nového hardware kompatibilního s Windows 11, zaplatit za rozšířenou podporu, nebo riskovat bezpečnostní incident.
+
+Pro technologický průmysl to znamená masivní tlak na upgrade cyklus a potenciálně velké množství elektronického odpadu z počítačů, které nesplňují požadavky Windows 11. Zároveň to ukazuje na širší problém plánovaného zastarávání v softwarovém průmyslu a závislost uživatelů na rozhodnutích velkých technologických korporací.
 
 ---
 
