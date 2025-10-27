@@ -3,7 +3,7 @@ category: ai etika
 date: '2025-10-25 20:00:30'
 description: Washington Post mapuje rostoucí skupinu lidí, kteří vědomě odmítají používat
   AI nástroje v práci i osobním životě. Mezi důvody patří obavy o soukromí, přesnost
-  a ztrátu vlastních dovedností.
+  a udržení vlastních dovedností.
 importance: 3
 layout: tech_news_article
 original_title: '''Meet The People Who Dare to Say No to AI'' - Slashdot'
@@ -21,33 +21,35 @@ urlToImageBackup: https://a.fsdn.com/sd/topics/ai_64.png
 
 ## Souhrn
 
-Washington Post publikoval rozsáhlý profil lidí, kteří vědomě odmítají používat nástroje umělé inteligence navzdory jejich masivnímu rozšíření v korporátním prostředí. Mezi odpůrci jsou studenti, softwaroví inženýři i kreativci, kteří AI vnímají jako riziko pro soukromí dat, přesnost výstupů a udržení vlastních profesních dovedností. Podle průzkumu Pew Research Center z června 2024 je 50 % Američanů více znepokojeno než nadšeno rostoucím využíváním AI v každodenním životě, což představuje nárůst z 37 % v roce 2021.
+Washington Post přináší profily lidí, kteří se vědomě rozhodli nepoužívat nástroje umělé inteligence navzdory masivnímu tlaku technologického průmyslu. Mezi odpůrci AI jsou studenti, softwaroví inženýři i kreativci, kteří odmítají AI z důvodů ochrany soukromí, obav o přesnost výstupů a snahy udržet si vlastní myšlenkové schopnosti. Podle průzkumu Pew Research Center z června 2024 je 50 % Američanů více znepokojeno než nadšeno rostoucím používáním AI v každodenním životě, což je nárůst z 37 % v roce 2021.
 
 ## Klíčové body
 
-- 16letá studentka z Virginie odmítá AI nástroje kvůli obavám ze zkreslení a nepřesností, nechce přenášet své myšlení na stroj
-- Techničtí pracovníci používají AI chatboty co nejméně kvůli ochraně dat, přesnosti a udržení vlastních dovedností
-- Grafičtí designéři označují svá díla štítky "not by AI" jako důkaz lidského původu
-- 36letý softwarový inženýr z Chicaga vypíná AI funkce ve všech aplikacích, včetně DuckDuckGo a Google
-- Kritika AI v pracovním prostředí se stává stigmatizovanou, odpůrci riskují nálepku luditů
+- 16letá studentka z Virginie odmítá AI, protože nechce přenášet své myšlení na stroj a obává se zkreslení a nepřesností AI nástrojů
+- 36letý softwarový inženýr z Chicaga vypíná AI funkce ve všech aplikacích a používá DuckDuckGo místo Google kvůli snadnějšímu vypnutí AI
+- Někteří techničtí pracovníci mluví anonymně ze strachu, že kritika AI by jim mohla uškodit v zaměstnání - odmítání AI se stává stigmatizované
+- Grafičtí designéři umísťují na svá díla označení "not by AI" jako důkaz lidského původu
+- Malé firmy dělají z odmítání AI chatbotů a generátorů obrázků součást své obchodní strategie
 
 ## Podrobnosti
 
-Washington Post dokumentuje různé formy odporu vůči AI napříč demografickými skupinami. Někteří lidé odmítají automatické přepisovací nástroje při lékařských vyšetřeních, vypínají chatbotové vyhledávání Google nebo deaktivují AI funkce na iPhone. Pro kreativce a malé podniky se odmítání AI stává dokonce obchodní strategií.
+Článek Washington Post zachycuje zajímavý fenomén - zatímco technologické firmy a korporátní Amerika masivně investují do AI, objevuje se skupina lidí, kteří tuto technologii vědomě odmítají. Jejich motivace jsou různorodé, ale často se opakují podobné obavy.
 
-Zvláště zajímavý je případ anonymního softwarového inženýra z Chicaga, který systematicky vypíná AI ve všech aplikacích. Používá vyhledávač DuckDuckGo částečně proto, že umožňuje snadnější deaktivaci AI funkcí než Google. Přesto se nemůže AI zcela vyhnout - GitHub Copilot automaticky kontroluje všechny změny v kódu jeho zaměstnavatele. Nedávno nástroj vytvořil zcela chybnou revizi, kterou musel inženýr zdlouhavě opravovat a dokumentovat všechny chyby.
+Softwaroví inženýři, kteří s AI pracují denně, patří paradoxně mezi nejhlasitější kritiky. Jeden z nich popisuje konkrétní případ, kdy GitHub Copilot - nástroj pro automatickou revizi kódu - vytvořil zcela chybnou analýzu změn v kódu jeho zaměstnavatele. Musel následně strávit čas opravováním a dokumentováním všech chyb, které AI udělala. Tento příklad ilustruje jeden z hlavních problémů - AI nástroje mohou vytvářet více práce, než kolik ušetří, zejména když jejich výstupy vyžadují pečlivou kontrolu a opravu.
 
-Tento případ ilustruje klíčový problém: i když jednotlivci chtějí AI odmítat, často nemají na výběr, protože jejich zaměstnavatelé nebo služby, které používají, AI implementují bez možnosti opt-out. Zároveň se vytváří tlak na konformitu - kritika AI v pracovním prostředí může poškodit profesní reputaci.
+Zajímavé je, že odpor vůči AI se stává citlivým tématem na pracovištích. Několik technických pracovníků hovořilo s Washington Post anonymně, protože se obávají, že veřejná kritika AI by mohla poškodit jejich kariéru. Jak uvedl jeden z nich: "Stalo se stigmatizovanějším říct, že na pracovišti vůbec nepoužíváte AI. Odhalujete se jako potenciální luddita." Tento tlak na používání AI bez ohledu na její skutečnou užitečnost odráží širší problém v technologickém průmyslu, kde je adopce nových technologií často vnímána jako nutnost bez kritického zhodnocení.
 
-Různorodost důvodů pro odmítání AI je pozoruhodná. Studenti se obávají atrofie vlastního myšlení, techničtí pracovníci upozorňují na problémy s přesností a ochranou dat, kreativci chrání autenticitu své práce. Společným jmenovatelem je nedůvěra k technologii, která slibuje efektivitu, ale přináší řadu rizik.
+V kreativním sektoru se odpor vůči AI proměnil v marketingovou strategii. Grafičtí designéři a umělci začali označovat svá díla speciálními odznaky "not by AI", které mají zákazníkům garantovat lidský původ práce. Tato strategie reaguje na obavy, že AI generátory obrázků jako Midjourney nebo DALL-E mohou devalvovat lidskou kreativitu a řemeslnou práci.
+
+Lidé také odmítají AI v osobním životě - vypínají automatické přepisovací nástroje při lékařských návštěvách, deaktivují chatbotové výsledky vyhledávání Google a zakazují AI funkce na iPhonech. Tyto kroky jsou motivovány obavami o soukromí dat a kontrolu nad vlastními informacemi.
 
 ## Proč je to důležité
 
-Článek zachycuje důležitý protitlak vůči všudypřítomné AI, který dosud nebyl v mainstreamových médiích dostatečně reflektován. Zatímco technologický průmysl a korporace masivně investují do AI, rostoucí část populace vyjadřuje legitimní obavy. Nárůst skepticismu z 37 % na 50 % za tři roky naznačuje, že nadšení z AI není univerzální.
+Tento článek zachycuje důležitý protitlak vůči všudypřítomné AI, který dosud nebyl v médiích příliš viditelný. Zatímco technologické firmy prezentují AI jako nevyhnutelný pokrok, rostoucí skupina uživatelů a odborníků zpochybňuje tuto naraci na základě konkrétních zkušeností s nepřesností, ztrátou dovedností a problémy se soukromím.
 
-Příběhy konkrétních lidí odhalují praktické problémy AI implementace - od chybných výstupů GitHub Copilot po nutnost anonymity při kritice technologie. Skutečnost, že techničtí pracovníci, kteří AI rozumí nejlépe, patří mezi její odpůrce, je významným varováním. Jejich obavy o přesnost, soukromí a degradaci dovedností by neměly být ignorovány jako luditismus, ale vnímány jako odborná kritika.
+Nárůst skepticismu vůči AI z 37 % na 50 % za tři roky naznačuje, že veřejnost není tak nadšená z AI revoluce, jak by si technologické firmy přály. To může mít dlouhodobé dopady na adopci AI technologií a regulaci tohoto sektoru. Pokud polovina populace vnímá AI spíše jako hrozbu než příležitost, politici budou pod tlakem přijmout přísnější regulace.
 
-Článek také ukazuje, že odmítání AI se stává identitou a obchodní strategií, což může vést k fragmentaci trhu mezi AI a non-AI produkty a služby.
+Pro technologický průmysl je také varovným signálem, že i lidé pracující v oboru - softwaroví inženýři a techničtí odborníci - patří mezi kritiky AI. Jejich obavy o přesnost, spolehlivost a skutečnou užitečnost AI nástrojů by měly být brány vážně, protože tito lidé rozumí technologii nejlépe a jejich zkušenosti mohou předznamenat širší problémy s masovou adopcí AI.
 
 ---
 

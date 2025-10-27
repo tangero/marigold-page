@@ -1,8 +1,10 @@
 ---
 category: mobilní aplikace
+companies:
+- Google
 date: '2025-10-26 05:48:19'
-description: Google vydal verzi 4.1 aplikace Google Home s opravami chyb a vylepšeními
-  na základě zpětné vazby uživatelů po nedávném redesignu.
+description: Google vydává aktualizaci 4.1 aplikace Google Home, která přináší opravy
+  chyb a vylepšení na základě zpětné vazby uživatelů po nedávném redesignu.
 importance: 3
 layout: tech_news_article
 original_title: Google Home's latest update fixes annoying bugs you probably noticed
@@ -13,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Google Home 4.1 opravuje chyby po velkém redesignu aplikace
+title: Google Home verze 4.1 opravuje chyby po velkém redesignu aplikace
 url: https://www.androidauthority.com/google-home-4-1-update-3610178/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg
 urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg
@@ -21,31 +23,29 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2022/10/Go
 
 ## Souhrn
 
-Google vydal aktualizaci 4.1 aplikace Google Home, která přináší první větší sadu oprav a vylepšení po zásadním redesignu aplikace z října 2025. Aktualizace reaguje na zpětnou vazbu uživatelů a řeší konkrétní problémy s výkonem a přesností ovládání chytrých zařízení.
+Google vydal verzi 4.1 aplikace Google Home, což je první větší aktualizace od zásadního redesignu, který přišel s verzí 4.0 začátkem října 2025. Aktualizace přináší několik oprav chyb a vylepšení výkonu, které reagují na stížnosti uživatelů po nedávné změně rozhraní.
 
 ## Klíčové body
 
-- Verze 4.1 je první významná aktualizace po redesignu v rámci verze 4.0
-- Funkce Ask Home poháněná modelem Gemini se rozšiřuje pro více předplatitelů Google Home Premium
-- Vylepšený výkon při procházení oblíbených kamerových zdrojů, zejména na iOS
-- Oprava tlačítka "Vše zapnuto" pro světla na Androidu
-- Korekce zavádějících názvů v přehledu Home Brief
+- Verze 4.1 je první aktualizace po redesignu aplikace Google Home z října 2025
+- Funkce Ask Home poháněná modelem Gemini se rozšiřuje na více předplatitelů Google Home Premium
+- Vylepšena plynulost scrollování při zobrazení více oblíbených kamerových kanálů, zejména na iOS
+- Opraveno tlačítko "Vše zapnuto" pro světla na Androidu, které nyní správně šedne, když nejsou všechna světla zapnutá
+- Odstraněna chyba v názvech "Home Brief" funkce Ask Home, která mylně označovala včerejší aktualizace jako dnešní
 
 ## Podrobnosti
 
-Aplikace Google Home prošla v říjnu 2025 zásadním redesignem označeným jako verze 4.0. Nová aktualizace 4.1 představuje první reakci vývojářů na problémy, které uživatelé po redesignu zaznamenali.
+Aplikace Google Home slouží jako centrální ovládací panel pro všechna zařízení chytré domácnosti od Googlu a kompatibilních výrobců. Nedávný redesign ve verzi 4.0 přinesl výrazné změny v uživatelském rozhraní, které však zjevně vedly k řadě problémů v každodenním používání.
 
-Nejvýraznějším vylepšením je optimalizace výkonu při práci s kamerovými záznamy. Uživatelé, kteří mají v oblíbených položkách několik kamerových zdrojů, si všimnou výrazně plynulejšího procházení na hlavní kartě aplikace. Toto vylepšení je obzvláště patrné na zařízeních s iOS, kde předchozí verze vykazovala znatelné zpomalení.
+Nejvýraznějším vylepšením je optimalizace výkonu při práci s kamerovými kanály. Uživatelé, kteří si označili více kamer jako oblíbené a zobrazují je na hlavní obrazovce, si stěžovali na trhané scrollování. Toto chování bylo obzvláště patrné na zařízeních s iOS, kde Google nyní slibuje výrazně responzivnější chování.
 
-Funkce Ask Home, která využívá jazykový model Gemini od Googlu pro konverzační ovládání chytré domácnosti, se s touto aktualizací rozšiřuje na další uživatele s předplatným Google Home Premium. Tato služba umožňuje pokročilé dotazy a automatizaci pomocí přirozeného jazyka.
+Funkce Ask Home představuje asistenta pro správu chytré domácnosti postaveného na velkém jazykovém modelu Gemini. Umožňuje uživatelům klást přirozené dotazy o stavu domácnosti a získávat přehledy formou "Home Brief". Právě zde se vyskytovala matoucí chyba, kdy systém prezentoval informace z předchozího dne jako aktuální.
 
-Uživatelé Androidu získávají opravu drobné, ale rušivé chyby v kategorii Světla. Tlačítko "Vše zapnuto" nyní správně zobrazuje šedou barvu, když nejsou všechna světla zapnutá, což zlepšuje přehlednost stavu osvětlení v domácnosti.
-
-Google také vyřešil matoucí označování v sekci Home Brief funkce Ask Home, kde se aktualizace z předchozího dne někdy nesprávně zobrazovaly jako "dnešní".
+Pro uživatele Androidu přichází oprava zdánlivě drobné, ale v praxi frustrující chyby. Tlačítko pro zapnutí všech světel v kategorii osvětlení nyní správně indikuje svůj stav - když nejsou všechna světla zapnutá, tlačítko zešedne. Tato vizuální zpětná vazba je důležitá pro rychlou orientaci ve stavu domácnosti.
 
 ## Proč je to důležité
 
-Aktualizace ukazuje, že Google aktivně reaguje na zpětnou vazbu po rozsáhlém redesignu své klíčové aplikace pro správu chytré domácnosti. Rychlost reakce na problémy s výkonem a přesností ovládání je důležitá pro udržení důvěry uživatelů, kteří spoléhají na aplikaci pro každodenní ovládání domácích zařízení. Rozšiřování funkcí založených na Gemini naznačuje pokračující integraci pokročilých AI schopností do ekosystému chytré domácnosti Google.
+Aktualizace ukazuje, že Google aktivně reaguje na zpětnou vazbu po redesignu, což je pozitivní signál pro uživatele ekosystému chytré domácnosti. Redesign aplikací často přináší dětské nemoci a rychlost, s jakou Google vydává opravy, naznačuje, že společnost bere uživatelskou zkušenost vážně. Pro majitele chytrých domácností s většími instalacemi, zejména s více kamerami, může tato aktualizace výrazně zlepšit každodenní používání aplikace.
 
 ---
 

@@ -2,9 +2,10 @@
 category: hardware
 companies:
 - Apple
+- Blackmagic
 date: '2025-10-25 20:40:00'
-description: Testy Blackmagic ukazují, že nový MacBook Pro s čipem M5 dosahuje výrazně
-  vyšších rychlostí čtení a zápisu díky rychlejší NAND flash paměti.
+description: Testy pomocí Blackmagic Speed Test ukazují, že nový MacBook Pro s čipem
+  M5 dosahuje výrazně vyšších rychlostí čtení a zápisu díky rychlejší NAND flash paměti.
 importance: 4
 layout: tech_news_article
 original_title: M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook
@@ -23,33 +24,33 @@ urlToImageBackup: https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-MacBook
 
 ## Souhrn
 
-Nový MacBook Pro s čipem M5 přináší výrazné zlepšení výkonu úložiště oproti předchozí generaci s M4. Testy pomocí nástroje Blackmagic Disk Speed Test ukazují až o 211 % vyšší rychlosti čtení a zápisu dat, což naznačuje použití výrazně rychlejší NAND flash paměti.
+Nový MacBook Pro vybavený čipem M5 dosahuje v testech rychlosti SSD až o 211 % vyšších hodnot než předchozí generace s čipem M4. Měření provedené pomocí nástroje Blackmagic Speed Test odhalilo výrazné zlepšení výkonu úložiště, které Apple dosáhl implementací rychlejší NAND flash paměti.
 
 ## Klíčové body
 
-- MacBook Pro s M5 dosahuje až o 211 % vyšších rychlostí při práci s úložištěm oproti modelu s M4
-- Zlepšení je způsobeno implementací rychlejší NAND flash paměti
-- Výkonnostní skok byl změřen pomocí standardizovaného testu Blackmagic Disk Speed Test
-- Jde o jeden z největších mezigeneračních skoků v rychlosti úložiště u MacBooků Pro
-- Apple pravděpodobně přešel na novější generaci flash paměti nebo optimalizoval řadič úložiště
+- MacBook Pro s M5 čipem dosahuje až o 211 % vyšších rychlostí čtení a zápisu dat oproti modelu s M4
+- Zlepšení je způsobeno použitím rychlejší NAND flash paměti nové generace
+- Testy byly provedeny pomocí standardizovaného nástroje Blackmagic Speed Test
+- Jedná se o významný skok ve výkonu úložiště mezi dvěma po sobě jdoucími generacemi MacBooků Pro
+- Vyšší rychlosti SSD mají přímý dopad na práci s velkými soubory a náročnými aplikacemi
 
 ## Podrobnosti
 
-MacBook Pro s čipem M5 představuje významný pokrok v oblasti výkonu interního úložiště. Zatímco Apple tradičně neuvádí detailní specifikace použité NAND flash paměti, nezávislé testy jasně ukazují podstatné zlepšení oproti předchozí generaci.
+Apple u nové generace MacBook Pro s čipem M5 výrazně vylepšil výkon interního úložiště. Podle srovnávacích testů provedených pomocí aplikace Blackmagic Speed Test, která je standardním nástrojem pro měření rychlosti diskových jednotek, dosahuje nový model až trojnásobných rychlostí oproti předchůdci s čipem M4.
 
-Blackmagic Disk Speed Test je standardizovaný nástroj používaný profesionály pro měření rychlostí čtení a zápisu úložných zařízení. Výsledky ukazují, že M5 MacBook Pro dosahuje výrazně vyšších přenosových rychlostí, což má přímý dopad na každodenní použití. Rychlejší úložiště znamená kratší časy načítání aplikací, rychlejší práci s velkými soubory a plynulejší workflow při práci s videem, fotografií nebo velkými datovými sadami.
+Zlepšení o 211 % představuje mimořádný skok mezi dvěma po sobě jdoucími generacemi produktů. Pro srovnání - mezi modely M3 a M4 byl nárůst výkonu SSD výrazně nižší. Apple dosáhl tohoto zlepšení implementací nové generace NAND flash paměti, která nabízí vyšší propustnost dat při čtení i zápisu.
 
-Zlepšení o 211 % představuje téměř trojnásobný nárůst výkonu, což je neobvykle velký skok mezi generacemi. Apple pravděpodobně implementoval novější generaci NAND flash čipů, případně výrazně optimalizoval řadič úložiště integrovaný v čipu M5. Vyšší rychlosti mohou také souviset s přechodem na pokročilejší technologie jako je 3D NAND s vyšším počtem vrstev nebo použití rychlejšího rozhraní mezi řadičem a pamětí.
+V praxi se vyšší rychlosti úložiště projeví zejména při práci s velkými video soubory, při exportu projektů z aplikací jako Final Cut Pro, při práci s rozsáhlými fotografickými knihovnami v aplikacích pro úpravu RAW souborů, nebo při kompilaci rozsáhlých softwarových projektů. Rychlejší SSD také zkracuje čas potřebný pro boot systému a spouštění aplikací.
 
-Pro profesionální uživatele pracující s náročnými aplikacemi jako Final Cut Pro, Adobe Premiere, Logic Pro nebo při práci s velkými databázemi a virtuálními stroji představuje toto zlepšení významný praktický přínos. Rychlejší úložiště snižuje čekací doby a zvyšuje celkovou produktivitu.
+Blackmagic Speed Test je aplikace vyvinutá společností Blackmagic Design, která se zabývá profesionální video technikou. Nástroj měří sekvenční rychlosti čtení a zápisu a je oblíbený mezi profesionály pracujícími s video obsahem, protože poskytuje reálný obraz o tom, jak rychle dokáže úložiště zpracovávat velké video soubory.
 
 ## Proč je to důležité
 
-Výkonnost úložiště je často přehlíženým aspektem výkonu počítače, přestože má zásadní vliv na uživatelskou zkušenost. Zatímco výkon procesoru a grafiky dostává většinu pozornosti, rychlost SSD přímo ovlivňuje responzivitu systému a časy načítání.
+Výrazné zlepšení rychlosti SSD u MacBook Pro s M5 potvrzuje, že Apple nadále investuje do optimalizace celého systému, nejen procesoru. Rychlost úložiště je často podceňovaným faktorem ovlivňujícím celkový výkon počítače - pomalé SSD může výrazně brzdit i ten nejrychlejší procesor.
 
-Tento mezigenerační skok ukazuje, že Apple pokračuje v optimalizaci všech komponent svých zařízení, nejen samotných čipů. Integrace rychlejšího úložiště s výkonným čipem M5 vytváří vyváženou platformu bez úzkých hrdel. Pro konkurenci to znamená další výzvu - Apple nejen vyvíjí vlastní procesory, ale také pečlivě optimalizuje celý systém včetně úložiště, paměti a softwaru.
+Pro profesionální uživatele pracující s video produkcí, 3D grafikou nebo velkými datovými sadami představuje toto zlepšení konkrétní úsporu času. Trojnásobná rychlost při exportu projektu může znamenat rozdíl mezi čekáním několika minut versus desítek minut.
 
-Pro zákazníky zvažující upgrade z M4 na M5 model může být rychlejší úložiště důležitým faktorem, zejména pro profesionální použití s velkými soubory.
+Zároveň to ukazuje rostoucí propast mezi výkonem Apple Silicon a konkurenčními řešeními. Zatímco mnoho výrobců Windows notebooků stále používá standardní PCIe Gen 4 SSD, Apple zřejmě implementoval vlastní řešení optimalizované pro integraci s M5 čipem a unified memory architekturou.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: automobilový průmysl
 date: '2025-10-26 01:25:00'
-description: Příběh z roku 1988, kdy italská zbrojovka Beretta zažalovala General
+description: Příběh z roku 1988, kdy italský výrobce zbraní Beretta zažaloval General
   Motors za neoprávněné použití svého ochranného názvu pro model Chevrolet Beretta.
 importance: 1
 layout: tech_news_article
@@ -13,19 +13,13 @@ source:
   emoji: 📰
   id: null
   name: Jalopnik
-title: Podivná žaloba, která umístila Chevrolet Beretta do sídla zbrojovky Beretta
+title: Podivná soudní pře, která umístila Chevrolet Beretta do sídla firmy Beretta
 url: https://www.jalopnik.com/2006339/chevy-beretta-at-beretta-hq/
 urlToImage: https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg
 urlToImageBackup: https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg
 ---
 
-Historická kuriozita z automobilového průmyslu konce 80. let, kdy italská zbrojovka Fabbrica d'Armi Pietro Beretta S.p.A. podala žalobu proti General Motors za použití názvu Beretta pro model Chevrolet. Zbrojovka měla název chráněný ochrannou známkou v USA od roku 1954.
-
-V červenci 1988 zahájila více než 500 let stará rodinná firma právní kroky proti GM, protože automobilka použila název Beretta pro svůj model na platformě L bez povolení. Zbrojovka argumentovala, že její jméno je synonymem kvality a tradice, a nechtěla, aby si kdokoli myslel, že povoluje používání své identity bez výslovného souhlasu.
-
-Spor vyústil v neobvyklé řešení - do amerického sídla zbrojovky Beretta v Gallatin v Tennessee byl umístěn vůz Chevrolet Beretta GTU Coupe. Časopis Car and Driver věnoval sporu článek v únoru 1989, kde postavil vůz proti pistoli Beretta 92 (vojenská verze M9), což byla poloautomatická zbraň, která se stala standardní výzbrojí americké armády.
-
-Jde o zajímavý příklad střetu ochranných známek mezi dvěma zcela odlišnými průmyslovými odvětvími, který ilustruje důležitost práv k duševnímu vlastnictví i pro tradiční výrobce.
+Článek popisuje kuriózní soudní spor z konce 80. let mezi italským výrobcem zbraní Fabbrica d'Armi Pietro Beretta a automobilkou General Motors. V červenci 1988 Beretta zažalovala GM za použití svého ochranného názvu pro model Chevrolet Beretta, kompaktní kupé postavené na platformě GM L. Italská firma, která má více než 500 let tradice a ochrannou známku v USA od roku 1954, nesouhlasila s tím, že by kdokoli mohl používat její jméno bez výslovného povolení. Spor nakonec vedl k neobvyklému vyústění - vůz Chevrolet Beretta GTU Coupe byl umístěn přímo v americkém sídle firmy Beretta v Gallatinu v Tennessee. Časopis Car and Driver věnoval tomuto střetu v únoru 1989 článek, kde postavil proti sobě Chevrolet Beretta a poloautomatickou pistoli Beretta 92 (vojenské označení M9).
 
 ---
 

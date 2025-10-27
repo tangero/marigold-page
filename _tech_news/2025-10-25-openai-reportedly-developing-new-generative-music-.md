@@ -4,8 +4,9 @@ companies:
 - OpenAI
 - TechCrunch
 date: '2025-10-25 19:48:54'
-description: Podle zdrojů The Information pracuje OpenAI na nástroji, který by generoval
-  hudbu na základě textových a audio podnětů. Není jasné, kdy bude spuštěn.
+description: Podle zdrojů pracuje OpenAI na nástroji, který by generoval hudbu na
+  základě textových a audio promptů. Není jasné, kdy bude spuštěn ani zda půjde o
+  samostatný produkt.
 importance: 2
 layout: tech_news_article
 original_title: OpenAI reportedly developing new generative music tool - TechCrunch
@@ -21,11 +22,13 @@ urlToImage: https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-202125
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800
 ---
 
-OpenAI podle informací serveru The Information vyvíjí nový nástroj pro generování hudby, který by fungoval na základě textových a audio podnětů. Nástroj by měl umožňovat přidávání hudby k existujícím videím nebo například doplnění kytarového doprovodu k vokální stopě.
+OpenAI podle informací serveru The Information pracuje na novém nástroji pro generování hudby, který by fungoval na základě textových a audio promptů. Jde však o nepotvrzenou zprávu založenou na anonymních zdrojích.
 
-Termín spuštění ani forma produktu zatím nejsou známé. Není jasné, zda půjde o samostatný produkt, nebo zda bude integrován do existujících služeb OpenAI jako ChatGPT či video aplikace Sora. Podle jedného ze zdrojů spolupracuje OpenAI se studenty prestižní hudební školy Juilliard School na anotaci notových zápisů, které slouží jako trénovací data pro model.
+Nástroj by měl umožňovat přidávání hudby k existujícím videím nebo například doplnění kytarového doprovodu k vokální stopě. Není ale jasné, kdy OpenAI plánuje takový produkt spustit, ani zda půjde o samostatnou aplikaci, nebo zda bude integrován do ChatGPT či video aplikace Sora.
 
-OpenAI sice v minulosti vydala generativní hudební modely, ty však vznikly ještě před spuštěním ChatGPT. V poslední době se společnost zaměřovala především na audio modely pro převod textu na řeč a řeči na text. Na trhu s generativní hudbou již působí konkurenti jako Google a Suno. OpenAI se k informacím zatím nevyjádřila.
+Jeden ze zdrojů uvedl, že OpenAI spolupracuje se studenty prestižní hudební školy Juilliard School na anotaci notových zápisů, které slouží jako trénovací data pro model. OpenAI sice v minulosti generativní hudební modely vydávala, ty však vznikly před spuštěním ChatGPT. V poslední době se společnost zaměřovala především na audio modely pro převod textu na řeč a řeči na text.
+
+V oblasti generativní hudby má OpenAI konkurenci – podobné nástroje nabízí Google i startup Suno. TechCrunch kontaktoval OpenAI s žádostí o vyjádření, odpověď však zatím nedostal. Vzhledem k tomu, že jde o neoficiální informace od anonymních zdrojů, je třeba k této zprávě přistupovat s rezervou.
 
 ---
 
