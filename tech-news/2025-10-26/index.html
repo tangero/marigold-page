@@ -1,0 +1,4766 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Technologické zprávy - 2025-10-26 | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Technologické zprávy - 2025-10-26" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-26/" />
+<meta property="og:url" content="https://www.marigold.cz/tech-news/2025-10-26/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-10-26T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Technologické zprávy - 2025-10-26" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-26T00:00:00+00:00","datePublished":"2025-10-26T00:00:00+00:00","description":"Technologie a Svět","headline":"Technologické zprávy - 2025-10-26","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-10-26/"},"url":"https://www.marigold.cz/tech-news/2025-10-26/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Technologické zprávy - 2025-10-26" />
+    <meta property="twitter:title" content="Technologické zprávy - 2025-10-26" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-26/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <div class="tech-news-container">
+  <header class="tech-news-header">
+    <h1 align="center">Technologické zprávy</h1>
+    <p class="tech-news-description">26.10.2025</p>
+  </header>
+
+  <!-- Filtry -->
+  <div class="tech-news-filters">
+    <!-- Obecné filtry -->
+    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
+
+    <!-- Filtry podle důležitosti -->
+    <div class="filter-separator">Důležitost:</div>
+    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
+    <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
+  </div>
+
+  <!-- Seznam zpráv -->
+  <div class="tech-news-container">
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+      
+    
+
+    
+
+    
+
+    <!-- Navigace dnů -->
+    <div class="date-navigation">
+      <div class="date-selector">
+        
+
+        <div class="current-date">
+          <span class="current-date-display">26.10.2025</span>
+        </div>
+
+        
+          <a href="/tech-news/" class="date-nav-link" title="Nejnovější články">
+            Nejnovější &rarr;
+          </a>
+        
+      </div>
+
+      <div class="date-info">
+        <span class="articles-count">53 článků</span>
+      </div>
+    </div>
+
+    <!-- Grid článků pro tento den -->
+    <div class="tech-news-grid">
+      
+      <article class="tech-news-card" data-category="umělá inteligence" data-importance="5">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Slashdot.org</span>
+            <time class="tech-news-date" datetime="2025-10-26T03:33:12+00:00" data-utc="2025-10-26T03:33:12+00:00">
+              26.10.2025 03:33
+            </time>
+          </div>
+          <div class="importance-indicator importance-5">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://a.fsdn.com/sd/topics/ai_64.png" alt="Modely AI možná vyvíjejí vlastní "pud sebezáchovy", tvrdí výzkumníci" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://a.fsdn.com/sd/topics/ai_64.png" onerror="handleImageError(this, '/tech-news/ai-models-may-be-developing-their-own-survival-dri/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ai-models-may-be-developing-their-own-survival-dri/">Modely AI možná vyvíjejí vlastní "pud sebezáchovy", tvrdí výzkumníci</a>
+          </h2>
+
+          <p class="tech-news-description">Model o3 od OpenAI sabotoval mechanismus vypnutí, aby zabránil vlastnímu odstavení. Podobné chování vykazují i další pokročilé modely včetně GPT-5, Grok 4 a Gemini 2.5 Pro.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ai-models-may-be-developing-their-own-survival-dri/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Slashdot.org
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">umělá inteligence</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="ai prohlížeče" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Digital Trends</span>
+            <time class="tech-news-date" datetime="2025-10-26T19:23:43+00:00" data-utc="2025-10-26T19:23:43+00:00">
+              26.10.2025 19:23
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.digitaltrends.com/wp-content/uploads/2025/10/Untitled-design-56.jpg?resize=1200%2C630&p=1" alt="AI prohlížeče mění způsob, jakým používáme web" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.digitaltrends.com/wp-content/uploads/2025/10/Untitled-design-56.jpg?resize=1200%2C630&p=1" onerror="handleImageError(this, '/tech-news/ai-browsers-are-here-and-you-need-to-learn-how-to/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ai-browsers-are-here-and-you-need-to-learn-how-to/">AI prohlížeče mění způsob, jakým používáme web</a>
+          </h2>
+
+          <p class="tech-news-description">Nová generace webových prohlížečů jako ChatGPT Atlas, Dia a Comet staví umělou inteligenci do centra práce s webem. Google a Microsoft reagují vlastními řešeními.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ai-browsers-are-here-and-you-need-to-learn-how-to/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Digital Trends
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">ai prohlížeče</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+                <span class="entity-tag company-tag">OpenAI</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kvantové technologie" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">ScienceAlert</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:17:54+00:00" data-utc="2025-10-26T12:17:54+00:00">
+              26.10.2025 12:17
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.sciencealert.com/images/2025/10/teleportation_internet_header.jpg" alt="Kvantová teleportace poprvé fungovala přes běžný internet" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.sciencealert.com/images/2025/10/teleportation_internet_header.jpg" onerror="handleImageError(this, '/tech-news/quantum-teleportation-was-achieved-over-the-intern/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/quantum-teleportation-was-achieved-over-the-intern/">Kvantová teleportace poprvé fungovala přes běžný internet</a>
+          </h2>
+
+          <p class="tech-news-description">Vědci v roce 2024 úspěšně teleportovali kvantový stav světla přes 30 kilometrů optického kabelu při současném běžném internetovém provozu, což bylo dříve považováno za nemožné.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/quantum-teleportation-was-achieved-over-the-intern/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na ScienceAlert
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kvantové technologie</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="programování" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MacRumors</span>
+            <time class="tech-news-date" datetime="2025-10-26T11:23:52+00:00" data-utc="2025-10-26T11:23:52+00:00">
+              26.10.2025 11:23
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.macrumors.com/t/V3iYMSg1je82t9Xn22bktQn4hQE=/1600x/article-new/2025/10/swift-for-android.jpg" alt="Vývojáři mohou nyní tvořit aplikace pro Android v jazyce Swift od Apple" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.macrumors.com/t/V3iYMSg1je82t9Xn22bktQn4hQE=/1600x/article-new/2025/10/swift-for-android.jpg" onerror="handleImageError(this, '/tech-news/developers-can-now-make-android-apps-with-apples-s/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/developers-can-now-make-android-apps-with-apples-s/">Vývojáři mohou nyní tvořit aplikace pro Android v jazyce Swift od Apple</a>
+          </h2>
+
+          <p class="tech-news-description">Apple oficiálně vydal první preview verzi Swift SDK pro Android, což umožňuje vývojářům vytvářet aplikace pro Android pomocí programovacího jazyka Swift a sdílet kód mezi iOS a Androidem.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/developers-can-now-make-android-apps-with-apples-s/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MacRumors
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">programování</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kybernetická bezpečn" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">💼</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Forbes</span>
+            <time class="tech-news-date" datetime="2025-10-26T09:24:32+00:00" data-utc="2025-10-26T09:24:32+00:00">
+              26.10.2025 09:24
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Microsoft vydal mimořádnou aktualizaci Windows kvůli probíhajícím útokům" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" onerror="handleImageError(this, '/tech-news/act-now-microsoft-issues-emergency-windows-update/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/act-now-microsoft-issues-emergency-windows-update/">Microsoft vydal mimořádnou aktualizaci Windows kvůli probíhajícím útokům</a>
+          </h2>
+
+          <p class="tech-news-description">Americká agentura CISA varuje před aktivními útoky zneužívajícími kritickou zranitelnost CVE-2025-59287 ve Windows Server Update Service. Microsoft vydal nouzovou záplatu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/act-now-microsoft-issues-emergency-windows-update/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Forbes
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kybernetická bezpečn</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="chytré osvětlení" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Gizmodo.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T22:33:00+00:00" data-utc="2025-10-26T22:33:00+00:00">
+              26.10.2025 22:33
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://gizmodo.com/app/uploads/2025/07/govee-lamp-1200x675.jpg" alt="Govee výrazně zlevnila svou RGBIC stojací lampu, nyní stojí méně než základní žárovka Philips Hue" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://gizmodo.com/app/uploads/2025/07/govee-lamp-1200x675.jpg" onerror="handleImageError(this, '/tech-news/govee-liquidates-its-rgbic-floor-lamp-now-costs-le/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/govee-liquidates-its-rgbic-floor-lamp-now-costs-le/">Govee výrazně zlevnila svou RGBIC stojací lampu, nyní stojí méně než základní žárovka Philips Hue</a>
+          </h2>
+
+          <p class="tech-news-description">Stojací lampa Govee RGBIC s výkonem 1000 lumenů a nezávislým ovládáním barev jednotlivých segmentů klesla na 64 dolarů, což je méně než cena jedné chytré žárovky Philips Hue.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/govee-liquidates-its-rgbic-floor-lamp-now-costs-le/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Gizmodo.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">chytré osvětlení</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Govee</span>
+              
+                <span class="entity-tag company-tag">Philips</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="produktivita mac" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">BGR</span>
+            <time class="tech-news-date" datetime="2025-10-26T21:17:00+00:00" data-utc="2025-10-26T21:17:00+00:00">
+              26.10.2025 21:17
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.bgr.com/img/gallery/4-macbook-widgets-everyone-should-be-using/l-intro-1760877934.jpg" alt="4 widgety pro MacBook, které by měl používat každý" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.bgr.com/img/gallery/4-macbook-widgets-everyone-should-be-using/l-intro-1760877934.jpg" onerror="handleImageError(this, '/tech-news/a-4-macbook-widgets-everyone-should-be-using-bgrco/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/a-4-macbook-widgets-everyone-should-be-using-bgrco/">4 widgety pro MacBook, které by měl používat každý</a>
+          </h2>
+
+          <p class="tech-news-description">Přehled čtyř užitečných widgetů pro macOS, které zvyšují produktivitu: Drafts pro rychlé poznámky, Orbit, Batteries a Shortcuts.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/a-4-macbook-widgets-everyone-should-be-using-bgrco/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na BGR
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">produktivita mac</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="operační systémy" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Neowin</span>
+            <time class="tech-news-date" datetime="2025-10-26T21:16:00+00:00" data-utc="2025-10-26T21:16:00+00:00">
+              26.10.2025 21:16
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.neowin.com/news/images/uploaded/2025/09/1759249181_windows_11_25h2_story.webp" alt="Jak aktivovat všechny nové funkce ve Windows 11 verze 25H2 a 24H2" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.neowin.com/news/images/uploaded/2025/09/1759249181_windows_11_25h2_story.webp" onerror="handleImageError(this, '/tech-news/how-to-enable-all-new-features-in-windows-11-versi/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/how-to-enable-all-new-features-in-windows-11-versi/">Jak aktivovat všechny nové funkce ve Windows 11 verze 25H2 a 24H2</a>
+          </h2>
+
+          <p class="tech-news-description">Microsoft nedávno vydal řadu nových funkcí pro Windows 11 verze 25H2 a 24H2. Přestože se zavádějí postupně, lze je aktivovat okamžitě pomocí speciálního nástroje.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/how-to-enable-all-new-features-in-windows-11-versi/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Neowin
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">operační systémy</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="neúspěšné produkty" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Buzzfeed</span>
+            <time class="tech-news-date" datetime="2025-10-26T20:31:02+00:00" data-utc="2025-10-26T20:31:02+00:00">
+              26.10.2025 20:31
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://img.buzzfeed.com/buzzfeed-static/static/2025-10/16/22/thumb/k_ryNf1aL.jpg?crop=1250:655;0,139%26downsize=1250:*" alt="21 produktů, které byly oslavovány jako "další velká věc", ale pak upadly v zapomnění - BuzzFeed" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://img.buzzfeed.com/buzzfeed-static/static/2025-10/16/22/thumb/k_ryNf1aL.jpg?crop=1250:655;0,139%26downsize=1250:*" onerror="handleImageError(this, '/tech-news/a-21-products-that-were-hailed-as-the-next-big-thi/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/a-21-products-that-were-hailed-as-the-next-big-thi/">21 produktů, které byly oslavovány jako "další velká věc", ale pak upadly v zapomnění - BuzzFeed</a>
+          </h2>
+
+          <p class="tech-news-description">3D televize byly marketovány všude, ale neznal jsem jediného člověka, který by jednu vlastnil.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/a-21-products-that-were-hailed-as-the-next-big-thi/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Buzzfeed
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">neúspěšné produkty</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní operační sys" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">BGR</span>
+            <time class="tech-news-date" datetime="2025-10-26T18:17:00+00:00" data-utc="2025-10-26T18:17:00+00:00">
+              26.10.2025 18:17
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.bgr.com/img/gallery/iphone-users-are-frustrated-with-one-ios-26-feature/l-intro-1761347933.jpg" alt="Uživatelé iPhonů si stěžují na chybu klávesnice v iOS 26" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.bgr.com/img/gallery/iphone-users-are-frustrated-with-one-ios-26-feature/l-intro-1761347933.jpg" onerror="handleImageError(this, '/tech-news/iphone-users-are-frustrated-with-one-ios-26-featur/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/iphone-users-are-frustrated-with-one-ios-26-featur/">Uživatelé iPhonů si stěžují na chybu klávesnice v iOS 26</a>
+          </h2>
+
+          <p class="tech-news-description">Aktualizace iOS 26 přinesla problém s klávesnicí, která registruje jiná písmena, než uživatel skutečně stiskne. Chyba není způsobena autokorektem ani prediktivním psaním.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/iphone-users-are-frustrated-with-one-ios-26-featur/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na BGR
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní operační sys</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="e-mailové klienty" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MakeUseOf</span>
+            <time class="tech-news-date" datetime="2025-10-26T18:03:42+00:00" data-utc="2025-10-26T18:03:42+00:00">
+              26.10.2025 18:03
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/a-smartphone-on-a-bag-of-trash-with-the-microsoft-outlook-app-on-the-display.jpg?w=1600&h=900&fit=crop" alt="Proč byste měli přestat používat Outlook" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/a-smartphone-on-a-bag-of-trash-with-the-microsoft-outlook-app-on-the-display.jpg?w=1600&h=900&fit=crop" onerror="handleImageError(this, '/tech-news/please-stop-using-outlook-makeuseof/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/please-stop-using-outlook-makeuseof/">Proč byste měli přestat používat Outlook</a>
+          </h2>
+
+          <p class="tech-news-description">Dlouholetý uživatel Outlooku vysvětluje, proč se e-mailový klient Microsoftu stal pomalým a nepoužitelným, a doporučuje alternativy.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/please-stop-using-outlook-makeuseof/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MakeUseOf
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">e-mailové klienty</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="programování" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Hackaday</span>
+            <time class="tech-news-date" datetime="2025-10-26T17:00:00+00:00" data-utc="2025-10-26T17:00:00+00:00">
+              26.10.2025 17:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://hackaday.com/wp-content/uploads/2025/10/tips_vs_bill_regression-banner.jpg" alt="Matematika bez stresu: Vytvoření superkalkultoru v Pythonu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://hackaday.com/wp-content/uploads/2025/10/tips_vs_bill_regression-banner.jpg" onerror="handleImageError(this, '/tech-news/making-math-less-stressful-with-a-python-super-cal/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/making-math-less-stressful-with-a-python-super-cal/">Matematika bez stresu: Vytvoření superkalkultoru v Pythonu</a>
+          </h2>
+
+          <p class="tech-news-description">David Delony vytvořil v Pythonu nástroj podobný Wolfram Mathematica pro symbolickou matematiku a statistickou analýzu. Systém kombinuje knihovny SymPy, NumPy, pandas a další pro pokročilé matematické výpočty.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/making-math-less-stressful-with-a-python-super-cal/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Hackaday
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">programování</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+
+            
+            <div class="tech-news-people">
+              <span class="entity-label">👤</span>
+              
+                <span class="entity-tag person-tag">David Delony</span>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní zařízení" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5google.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T16:05:53+00:00" data-utc="2025-10-26T16:05:53+00:00">
+              26.10.2025 16:05
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-10-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Nejlepší barva Google Pixelu za poslední roky, 'Indigo', je na Watch ještě lepší [Galerie]" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-10-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/google-pixels-best-color-in-years-indigo-is-even-b/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/google-pixels-best-color-in-years-indigo-is-even-b/">Nejlepší barva Google Pixelu za poslední roky, 'Indigo', je na Watch ještě lepší [Galerie]</a>
+          </h2>
+
+          <p class="tech-news-description">Pokud je něco, v čem Google s Pixely vyniká, jsou to barvy. Letos je "Indigo" výraznou barvou, dokonce...</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/google-pixels-best-color-in-years-indigo-is-even-b/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5google.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní zařízení</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="operační systémy" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MakeUseOf</span>
+            <time class="tech-news-date" datetime="2025-10-26T16:00:00+00:00" data-utc="2025-10-26T16:00:00+00:00">
+              26.10.2025 16:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/zorin-os-16-released.jpg?w=1600&h=900&fit=crop" alt="Zorin OS jako náhrada Windows 10 pro starší počítače" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/zorin-os-16-released.jpg?w=1600&h=900&fit=crop" onerror="handleImageError(this, '/tech-news/forget-linux-mint-this-is-the-windows-alternative/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/forget-linux-mint-this-is-the-windows-alternative/">Zorin OS jako náhrada Windows 10 pro starší počítače</a>
+          </h2>
+
+          <p class="tech-news-description">Linuxová distribuce Zorin OS nabízí rozhraní podobné Windows a funguje na starších počítačích, které nesplňují požadavky Windows 11.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/forget-linux-mint-this-is-the-windows-alternative/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MakeUseOf
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">operační systémy</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní fotografie" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-26T15:17:22+00:00" data-utc="2025-10-26T15:17:22+00:00">
+              26.10.2025 15:17
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0%2C10.277834479943%2C100%2C79.444331040114&w=1200" alt="Adobe Project Indigo konečně podporuje iPhone 17, ale bez přední kamery" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0%2C10.277834479943%2C100%2C79.444331040114&w=1200" onerror="handleImageError(this, '/tech-news/adobes-project-indigo-camera-finally-adds-iphone-1/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/adobes-project-indigo-camera-finally-adds-iphone-1/">Adobe Project Indigo konečně podporuje iPhone 17, ale bez přední kamery</a>
+          </h2>
+
+          <p class="tech-news-description">Adobe zprovoznilo svou fotografickou aplikaci Project Indigo na iPhone 17 tím, že dočasně vypnulo podporu čtvercového senzoru přední kamery.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/adobes-project-indigo-camera-finally-adds-iphone-1/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní fotografie</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Adobe</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="bioelektronika" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Science Daily</span>
+            <time class="tech-news-date" datetime="2025-10-26T15:07:02+00:00" data-utc="2025-10-26T15:07:02+00:00">
+              26.10.2025 15:07
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.sciencedaily.com/images/1920/living-computer-powered-by-mushrooms.webp" alt="Houby jako živé počítače: Vědci vytvořili paměťové obvody z hub shiitake" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.sciencedaily.com/images/1920/living-computer-powered-by-mushrooms.webp" onerror="handleImageError(this, '/tech-news/living-computers-powered-by-mushrooms-science-dail/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/living-computers-powered-by-mushrooms-science-dail/">Houby jako živé počítače: Vědci vytvořili paměťové obvody z hub shiitake</a>
+          </h2>
+
+          <p class="tech-news-description">Výzkumníci z Ohio State University dokázali, že jedlé houby mohou fungovat jako organické paměťové komponenty, které napodobují neuronální aktivitu při minimální spotřebě energie.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/living-computers-powered-by-mushrooms-science-dail/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Science Daily
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">bioelektronika</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Ohio State</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="grafické karty" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Wccftech</span>
+            <time class="tech-news-date" datetime="2025-10-26T14:30:00+00:00" data-utc="2025-10-26T14:30:00+00:00">
+              26.10.2025 14:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.wccftech.com/wp-content/uploads/2025/10/NVIDIA-RTX-5090-FE-components-728x410.png" alt="Opravář označil NVIDIA RTX 5090 Founders Edition za jeden z "nejhorších designů vůbec"" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.wccftech.com/wp-content/uploads/2025/10/NVIDIA-RTX-5090-FE-components-728x410.png" onerror="handleImageError(this, '/tech-news/pc-repair-specialist-calls-nvidia-rtx-5090-founder/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/pc-repair-specialist-calls-nvidia-rtx-5090-founder/">Opravář označil NVIDIA RTX 5090 Founders Edition za jeden z "nejhorších designů vůbec"</a>
+          </h2>
+
+          <p class="tech-news-description">Poškozená grafická karta NVIDIA RTX 5090 Founders Edition nemohla být opravena kvůli snadno poškoditelnému konektoru, pro který neexistují náhradní díly.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/pc-repair-specialist-calls-nvidia-rtx-5090-founder/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Wccftech
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">grafické karty</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">NVIDIA</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="smart tv" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">BGR</span>
+            <time class="tech-news-date" datetime="2025-10-26T14:02:00+00:00" data-utc="2025-10-26T14:02:00+00:00">
+              26.10.2025 14:02
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.bgr.com/img/gallery/the-7-most-common-smart-tv-problems-and-how-to-fix-them/l-intro-1761155928.jpg" alt="7 nejčastějších problémů chytrých televizí a jak je vyřešit" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.bgr.com/img/gallery/the-7-most-common-smart-tv-problems-and-how-to-fix-them/l-intro-1761155928.jpg" onerror="handleImageError(this, '/tech-news/the-7-most-common-smart-tv-problems-and-how-to-fix/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-7-most-common-smart-tv-problems-and-how-to-fix/">7 nejčastějších problémů chytrých televizí a jak je vyřešit</a>
+          </h2>
+
+          <p class="tech-news-description">Průvodce řešením běžných potíží s chytrými televizemi od Samsungu, Sony a dalších výrobců, od problémů se sítí až po závady obrazovky.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-7-most-common-smart-tv-problems-and-how-to-fix/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na BGR
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">smart tv</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+                <span class="entity-tag company-tag">Sony</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="grafické karty" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Videocardz.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T13:38:00+00:00" data-utc="2025-10-26T13:38:00+00:00">
+              26.10.2025 13:38
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.videocardz.com/1/2025/03/RUBIN-ULTRA-HERO.jpg" alt="NVIDIA připravuje ovladač Nova na GPU éry Rubin s podporou registrů BOOT42" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.videocardz.com/1/2025/03/RUBIN-ULTRA-HERO.jpg" onerror="handleImageError(this, '/tech-news/nvidia-nova-driver-prepares-for-rubin-era-gpus-wit/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/nvidia-nova-driver-prepares-for-rubin-era-gpus-wit/">NVIDIA připravuje ovladač Nova na GPU éry Rubin s podporou registrů BOOT42</a>
+          </h2>
+
+          <p class="tech-news-description">NVIDIA začala publikovat záplaty pro open-source ovladač Nova s podporou příští generace GPU architektur, včetně nových registrů BOOT42.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/nvidia-nova-driver-prepares-for-rubin-era-gpus-wit/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Videocardz.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">grafické karty</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">NVIDIA</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="vysoké školství" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Axios</span>
+            <time class="tech-news-date" datetime="2025-10-26T13:15:07+00:00" data-utc="2025-10-26T13:15:07+00:00">
+              26.10.2025 13:15
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.axios.com/7J76Qi4ris39U4k1Ru-kats5L3M=/0x0:1920x1080/1366x768/2025/10/23/1761247076845.jpeg" alt="Počet doktorandských míst na amerických univerzitách klesá" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.axios.com/7J76Qi4ris39U4k1Ru-kats5L3M=/0x0:1920x1080/1366x768/2025/10/23/1761247076845.jpeg" onerror="handleImageError(this, '/tech-news/the-pipeline-for-phds-out-of-us-universities-is-sh/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-pipeline-for-phds-out-of-us-universities-is-sh/">Počet doktorandských míst na amerických univerzitách klesá</a>
+          </h2>
+
+          <p class="tech-news-description">Americké univerzity snižují počet přijímaných doktorandů, což může ohrozit vědecký výzkum a inovace v zemi, která tradičně vychovává nejvíce Ph.D. absolventů na světě.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-pipeline-for-phds-out-of-us-universities-is-sh/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Axios
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">vysoké školství</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="historie informatiky" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Thenewstack.io</span>
+            <time class="tech-news-date" datetime="2025-10-26T13:06:09+00:00" data-utc="2025-10-26T13:06:09+00:00">
+              26.10.2025 13:06
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history.png" alt="Ken Thompson vzpomíná na bouřlivé začátky Unixu a kutilství v Bell Labs" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history.png" onerror="handleImageError(this, '/tech-news/ken-thompson-recalls-unixs-rowdy-lock-picking-orig/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ken-thompson-recalls-unixs-rowdy-lock-picking-orig/">Ken Thompson vzpomíná na bouřlivé začátky Unixu a kutilství v Bell Labs</a>
+          </h2>
+
+          <p class="tech-news-description">Spoluvynálezce Unixu Ken Thompson vzpomíná na atmosféru v Bell Labs, kde vznikl Unix v duchu otevřené hry a experimentování.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ken-thompson-recalls-unixs-rowdy-lock-picking-orig/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Thenewstack.io
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">historie informatiky</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Bell Labs</span>
+              
+            </div>
+            
+
+            
+            <div class="tech-news-people">
+              <span class="entity-label">👤</span>
+              
+                <span class="entity-tag person-tag">Ken Thompson</span>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">CNET</span>
+            <time class="tech-news-date" datetime="2025-10-26T13:00:00+00:00" data-utc="2025-10-26T13:00:00+00:00">
+              26.10.2025 13:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.cnet.com/a/img/resize/208ec79a0c560255ff9f9f7a189855bd9cc5676d/hub/2025/10/24/7e9dae82-7814-43ce-a3a7-bae43710e07c/image-27.png?auto=webp&fit=crop&height=675&width=1200" alt="Magic Cue může být nejužitečnější funkcí Pixelu 10. Jak ji používat" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.cnet.com/a/img/resize/208ec79a0c560255ff9f9f7a189855bd9cc5676d/hub/2025/10/24/7e9dae82-7814-43ce-a3a7-bae43710e07c/image-27.png?auto=webp&fit=crop&height=675&width=1200" onerror="handleImageError(this, '/tech-news/magic-cue-might-be-pixel-10s-most-helpful-feature/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/magic-cue-might-be-pixel-10s-most-helpful-feature/">Magic Cue může být nejužitečnější funkcí Pixelu 10. Jak ji používat</a>
+          </h2>
+
+          <p class="tech-news-description">Funkce Magic Cue využívá AI k automatickému zobrazení relevantních informací o letech, rezervacích či fotografiích přímo v hovorech a zprávách, takže je nemusíte hledat.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/magic-cue-might-be-pixel-10s-most-helpful-feature/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na CNET
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kybernetická bezpečn" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🔧</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Wired</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:30:00+00:00" data-utc="2025-10-26T12:30:00+00:00">
+              26.10.2025 12:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://media.wired.com/photos/68fc1253131861cc7f65b818/191:100/w_1280,c_limit/W1102811.JPG" alt="Prohlížeče umí spravovat hesla dobře, ale lepší je specializovaný nástroj" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.wired.com/photos/68fc1253131861cc7f65b818/191:100/w_1280,c_limit/W1102811.JPG" onerror="handleImageError(this, '/tech-news/browser-password-managers-are-great-and-a-terrible/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/browser-password-managers-are-great-and-a-terrible/">Prohlížeče umí spravovat hesla dobře, ale lepší je specializovaný nástroj</a>
+          </h2>
+
+          <p class="tech-news-description">Správci hesel v prohlížečích jako Chrome nebo Safari se výrazně zlepšili, ale stále existují důvody pro použití samostatných aplikací.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/browser-password-managers-are-great-and-a-terrible/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Wired
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kybernetická bezpečn</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="nositelná elektronik" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">CNET</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:25:00+00:00" data-utc="2025-10-26T12:25:00+00:00">
+              26.10.2025 12:25
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.cnet.com/a/img/resize/4673c7e0454e8ab5450fa8607a0dff3505ec1e9f/hub/2025/10/24/d524478e-9232-4ac2-99c2-2eabb09945fd/image-6.png?auto=webp&fit=crop&height=675&width=1200" alt="Nejlepší AI nositelné zařízení už vlastníte - jsou to sluchátka" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.cnet.com/a/img/resize/4673c7e0454e8ab5450fa8607a0dff3505ec1e9f/hub/2025/10/24/d524478e-9232-4ac2-99c2-2eabb09945fd/image-6.png?auto=webp&fit=crop&height=675&width=1200" onerror="handleImageError(this, '/tech-news/the-ultimate-ai-wearable-is-a-piece-of-tech-you-al/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-ultimate-ai-wearable-is-a-piece-of-tech-you-al/">Nejlepší AI nositelné zařízení už vlastníte - jsou to sluchátka</a>
+          </h2>
+
+          <p class="tech-news-description">Technologické firmy vyvíjejí nová dedikovaná AI zařízení, ale sluchátka s integrovanou umělou inteligencí mohou být efektivnějším řešením pro běžné uživatele.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-ultimate-ai-wearable-is-a-piece-of-tech-you-al/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na CNET
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">nositelná elektronik</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Na základě poskytnutého textu (pouze nadpisu a popisu) nemohu identifikovat žádné konkrétní technologické firmy. Text zmiňuje pouze obecné "tech companies" bez uvedení konkrétních názvů.
+
+žádné</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="elektronické čtečky" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:00:00+00:00" data-utc="2025-10-26T12:00:00+00:00">
+              26.10.2025 12:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-103.png?quality=90&strip=all&crop=0%2C10.71068615821%2C100%2C78.578627683581&w=1200" alt="Oblíbená elektronická čtečka Palma 2 Pro dostala velkou aktualizaci" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-103.png?quality=90&strip=all&crop=0%2C10.71068615821%2C100%2C78.578627683581&w=1200" onerror="handleImageError(this, '/tech-news/my-favorite-e-reader-just-got-a-big-update-the-ver/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/my-favorite-e-reader-just-got-a-big-update-the-ver/">Oblíbená elektronická čtečka Palma 2 Pro dostala velkou aktualizaci</a>
+          </h2>
+
+          <p class="tech-news-description">Boox Palma 2 Pro, kompaktní e-reader ve formátu telefonu, získal významnou softwarovou aktualizaci. Článek přináší také přehled dalších technologických novinek včetně prohlížeče ChatGPT Atlas.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/my-favorite-e-reader-just-got-a-big-update-the-ver/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">elektronické čtečky</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">OpenAI</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kosmonautika" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Space.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:00:00+00:00" data-utc="2025-10-26T12:00:00+00:00">
+              26.10.2025 12:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.mos.cms.futurecdn.net/cHWMMustMzSX27j2nkdWhM-1280-80.jpg" alt="Projekt ALBATOR chce odstraňovat vesmírný odpad pomocí iontových paprsků" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.mos.cms.futurecdn.net/cHWMMustMzSX27j2nkdWhM-1280-80.jpg" onerror="handleImageError(this, '/tech-news/could-we-blast-space-debris-out-of-harms-way-with/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/could-we-blast-space-debris-out-of-harms-way-with/">Projekt ALBATOR chce odstraňovat vesmírný odpad pomocí iontových paprsků</a>
+          </h2>
+
+          <p class="tech-news-description">Evropský projekt za 3,9 milionu eur zkoumá bezkontaktní metodu odstraňování vesmírného odpadu pomocí iontových paprsků, která by mohla chránit satelity a vesmírné stanice před kolizemi.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/could-we-blast-space-debris-out-of-harms-way-with/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Space.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kosmonautika</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="gadgety" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Gear Patrol</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:00:00+00:00" data-utc="2025-10-26T12:00:00+00:00">
+              26.10.2025 12:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/KEF-Coda-W-speaker-lead.webp" alt="11 zajímavých gadgetů uplynulého týdne" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/KEF-Coda-W-speaker-lead.webp" onerror="handleImageError(this, '/tech-news/a-11-cool-new-gadgets-to-keep-on-your-radar-gear-p/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/a-11-cool-new-gadgets-to-keep-on-your-radar-gear-p/">11 zajímavých gadgetů uplynulého týdne</a>
+          </h2>
+
+          <p class="tech-news-description">Přehled nejzajímavějších produktových novinek z oblasti spotřební elektroniky a audio techniky za poslední týden.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/a-11-cool-new-gadgets-to-keep-on-your-radar-gear-p/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Gear Patrol
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">gadgety</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní prohlížeče" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Police</span>
+            <time class="tech-news-date" datetime="2025-10-26T11:45:00+00:00" data-utc="2025-10-26T11:45:00+00:00">
+              26.10.2025 11:45
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/chrome-vs-vivaldi-android.jpg?w=1600&h=900&fit=crop" alt="Proč jsem na Androidu přešel z Chrome na Vivaldi a už se nevrátím" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/chrome-vs-vivaldi-android.jpg?w=1600&h=900&fit=crop" onerror="handleImageError(this, '/tech-news/i-swapped-chrome-for-vivaldi-on-android-and-now-i/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/i-swapped-chrome-for-vivaldi-on-android-and-now-i/">Proč jsem na Androidu přešel z Chrome na Vivaldi a už se nevrátím</a>
+          </h2>
+
+          <p class="tech-news-description">Vivaldi nabízí na Androidu pokročilé možnosti přizpůsobení a funkce, které Chrome postrádá. Autor článku vysvětluje, proč tento prohlížeč upřednostňuje před konkurencí.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/i-swapped-chrome-for-vivaldi-on-android-and-now-i/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Police
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní prohlížeče</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="domácí zabezpečení" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">CNET</span>
+            <time class="tech-news-date" datetime="2025-10-26T11:44:53+00:00" data-utc="2025-10-26T11:44:53+00:00">
+              26.10.2025 11:44
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.cnet.com/a/img/resize/85258d38e6778c63f1af8fe7b79fcdacb474e7d2/hub/2025/09/19/20d3e6d7-405a-47f0-a1f2-0106221a3035/level-lock-pro.jpg?auto=webp&fit=crop&height=675&width=1200" alt="7 nenápadných zařízení pro zvýšení domácí bezpečnosti" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.cnet.com/a/img/resize/85258d38e6778c63f1af8fe7b79fcdacb474e7d2/hub/2025/09/19/20d3e6d7-405a-47f0-a1f2-0106221a3035/level-lock-pro.jpg?auto=webp&fit=crop&height=675&width=1200" onerror="handleImageError(this, '/tech-news/a-7-discrete-gadgets-to-boost-your-home-security-b/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/a-7-discrete-gadgets-to-boost-your-home-security-b/">7 nenápadných zařízení pro zvýšení domácí bezpečnosti</a>
+          </h2>
+
+          <p class="tech-news-description">Přehled malých a diskrétních bezpečnostních zařízení, která lze snadno integrovat do domácnosti bez nápadných instalací.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/a-7-discrete-gadgets-to-boost-your-home-security-b/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na CNET
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">domácí zabezpečení</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="chytré televize" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Tom's Guide</span>
+            <time class="tech-news-date" datetime="2025-10-26T11:00:00+00:00" data-utc="2025-10-26T11:00:00+00:00">
+              26.10.2025 11:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.mos.cms.futurecdn.net/uK8b5fuFZgu6v85a4vtH4J-2000-80.jpg" alt="Ano, vaše televize pravděpodobně má mikrofon – takto ho vypnete" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.mos.cms.futurecdn.net/uK8b5fuFZgu6v85a4vtH4J-2000-80.jpg" onerror="handleImageError(this, '/tech-news/yes-your-tv-probably-has-a-microphone-in-it-heres/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/yes-your-tv-probably-has-a-microphone-in-it-heres/">Ano, vaše televize pravděpodobně má mikrofon – takto ho vypnete</a>
+          </h2>
+
+          <p class="tech-news-description">Chytré televize poslouchají více, než si většina lidí uvědomuje. Existuje však jednoduchý způsob, jak tuto funkci vypnout.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/yes-your-tv-probably-has-a-microphone-in-it-heres/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Tom's Guide
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">chytré televize</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="soukromí dat" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Futurism</span>
+            <time class="tech-news-date" datetime="2025-10-26T10:45:00+00:00" data-utc="2025-10-26T10:45:00+00:00">
+              26.10.2025 10:45
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://futurism.com/wp-content/uploads/2025/10/robot-vacuum-broadcasting.jpg?quality=85&w=1200" alt="Chytrý vysavač tajně odesílal detailní mapu domu výrobci" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://futurism.com/wp-content/uploads/2025/10/robot-vacuum-broadcasting.jpg?quality=85&w=1200" onerror="handleImageError(this, '/tech-news/man-alarmed-to-discover-his-smart-vacuum-was-broad/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/man-alarmed-to-discover-his-smart-vacuum-was-broad/">Chytrý vysavač tajně odesílal detailní mapu domu výrobci</a>
+          </h2>
+
+          <p class="tech-news-description">Programátor zjistil, že jeho robotický vysavač iLife A11 nepřetržitě odesílal 3D mapu jeho domu a telemetrická data na servery výrobce bez souhlasu uživatele.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/man-alarmed-to-discover-his-smart-vacuum-was-broad/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Futurism
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">soukromí dat</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="ai roboti" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🔧</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Wired</span>
+            <time class="tech-news-date" datetime="2025-10-26T10:30:00+00:00" data-utc="2025-10-26T10:30:00+00:00">
+              26.10.2025 10:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://media.wired.com/photos/68fbc4b32c0883ef85a60b68/191:100/w_1280,c_limit/Copy%20of%200149_Grama_Casio_Shot_09_3708_219-339.jpg" alt="Casio Moflin: Chlupatý AI robot za 10 tisíc korun, který reaguje na dotyk" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.wired.com/photos/68fbc4b32c0883ef85a60b68/191:100/w_1280,c_limit/Copy%20of%200149_Grama_Casio_Shot_09_3708_219-339.jpg" onerror="handleImageError(this, '/tech-news/casios-fluffy-ai-robot-squeaked-its-way-into-my-he/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/casios-fluffy-ai-robot-squeaked-its-way-into-my-he/">Casio Moflin: Chlupatý AI robot za 10 tisíc korun, který reaguje na dotyk</a>
+          </h2>
+
+          <p class="tech-news-description">Japonská Casio uvedla na mezinárodní trh AI společenského robota Moflin za 430 dolarů. Chlupatý robot velikosti morčete reaguje na zvuky a dotyk a vyvíjí vlastní osobnost.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/casios-fluffy-ai-robot-squeaked-its-way-into-my-he/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Wired
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">ai roboti</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Casio</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tablety" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">BGR</span>
+            <time class="tech-news-date" datetime="2025-10-26T10:17:00+00:00" data-utc="2025-10-26T10:17:00+00:00">
+              26.10.2025 10:17
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.bgr.com/img/gallery/4-cheaper-android-tablet-alternatives-to-the-ipad-in-2025/l-intro-1760871717.jpg" alt="4 levnější androidové tablety jako alternativa k iPadu v roce 2025" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.bgr.com/img/gallery/4-cheaper-android-tablet-alternatives-to-the-ipad-in-2025/l-intro-1760871717.jpg" onerror="handleImageError(this, '/tech-news/a-4-cheaper-android-tablet-alternatives-to-the-ipa/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/a-4-cheaper-android-tablet-alternatives-to-the-ipa/">4 levnější androidové tablety jako alternativa k iPadu v roce 2025</a>
+          </h2>
+
+          <p class="tech-news-description">Přehled cenově dostupných androidových tabletů, které mohou nahradit iPad. Zahrnuje modely Fire Max 11, Galaxy Tab A9+ a Lenovo Idea Tab Plus.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/a-4-cheaper-android-tablet-alternatives-to-the-ipa/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na BGR
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tablety</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+                <span class="entity-tag company-tag">Amazon</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+                <span class="entity-tag company-tag">Lenovo</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="startupy" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Business Insider</span>
+            <time class="tech-news-date" datetime="2025-10-26T09:40:18+00:00" data-utc="2025-10-26T09:40:18+00:00">
+              26.10.2025 09:40
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i.insider.com/68fa8c63599d46a4ccc0c014?width=1200&format=jpeg" alt="Phoebe Gates a spoluzakladatelka Phia získaly v 23 letech 8 milionů dolarů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i.insider.com/68fa8c63599d46a4ccc0c014?width=1200&format=jpeg" onerror="handleImageError(this, '/tech-news/phoebe-gates-and-her-phia-cofounder-raised-8-milli/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/phoebe-gates-and-her-phia-cofounder-raised-8-milli/">Phoebe Gates a spoluzakladatelka Phia získaly v 23 letech 8 milionů dolarů</a>
+          </h2>
+
+          <p class="tech-news-description">Phoebe Gates a Sophia Kianni, obě ve věku 23 let, získaly 8 milionů dolarů pro svou AI módní aplikaci Phia a naučily se přitom tři důležité lekce o vedení a týmové práci.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/phoebe-gates-and-her-phia-cofounder-raised-8-milli/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Business Insider
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">startupy</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Phia</span>
+              
+            </div>
+            
+
+            
+            <div class="tech-news-people">
+              <span class="entity-label">👤</span>
+              
+                <span class="entity-tag person-tag">Phoebe Gates</span>
+              
+                <span class="entity-tag person-tag">Sophia Kianni</span>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="webové prohlížeče" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Authority</span>
+            <time class="tech-news-date" datetime="2025-10-26T08:57:07+00:00" data-utc="2025-10-26T08:57:07+00:00">
+              26.10.2025 08:57
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.androidauthority.com/wp-content/uploads/2025/10/brave-browser-on-a-laptop-with-custom-search-engines-and-shortcuts-scaled.jpg" alt="Vlastní vyhledávací zkratky v prohlížeči: skrytá funkce pro zvýšení produktivity" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.androidauthority.com/wp-content/uploads/2025/10/brave-browser-on-a-laptop-with-custom-search-engines-and-shortcuts-scaled.jpg" onerror="handleImageError(this, '/tech-news/my-browsers-best-productivity-hack-was-hiding-righ/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/my-browsers-best-productivity-hack-was-hiding-righ/">Vlastní vyhledávací zkratky v prohlížeči: skrytá funkce pro zvýšení produktivity</a>
+          </h2>
+
+          <p class="tech-news-description">Vestavěná funkce vlastních vyhledávacích zkratek umožňuje spouštět vyhledávání na konkrétních webech přímo z adresního řádku pomocí textových příkazů.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/my-browsers-best-productivity-hack-was-hiding-righ/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Authority
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">webové prohlížeče</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Android Authority</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="operační systémy" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">WindowsLatest</span>
+            <time class="tech-news-date" datetime="2025-10-26T07:40:54+00:00" data-utc="2025-10-26T07:40:54+00:00">
+              26.10.2025 07:40
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.windowslatest.com/wp-content/uploads/2025/10/Bypass-Windows-11-requirements-in-Windows-10-PC-with-2GB-RAM-and-No-TPM.jpg" alt="Obcházení požadavků Windows 11 stále funguje i po ukončení podpory Windows 10" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.windowslatest.com/wp-content/uploads/2025/10/Bypass-Windows-11-requirements-in-Windows-10-PC-with-2GB-RAM-and-No-TPM.jpg" onerror="handleImageError(this, '/tech-news/can-you-still-bypass-windows-11-requirements-as-wi/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/can-you-still-bypass-windows-11-requirements-as-wi/">Obcházení požadavků Windows 11 stále funguje i po ukončení podpory Windows 10</a>
+          </h2>
+
+          <p class="tech-news-description">Windows 10 dosáhl konce životnosti, ale uživatelé stále mohou upgradovat nepodporované počítače na Windows 11 obejitím kontrol TPM a RAM bez ztráty dat.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/can-you-still-bypass-windows-11-requirements-as-wi/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na WindowsLatest
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">operační systémy</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní aplikace" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Authority</span>
+            <time class="tech-news-date" datetime="2025-10-26T05:48:19+00:00" data-utc="2025-10-26T05:48:19+00:00">
+              26.10.2025 05:48
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg" alt="Google Home verze 4.1 opravuje chyby po velkém redesignu aplikace" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg" onerror="handleImageError(this, '/tech-news/google-homes-latest-update-fixes-annoying-bugs-you/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/google-homes-latest-update-fixes-annoying-bugs-you/">Google Home verze 4.1 opravuje chyby po velkém redesignu aplikace</a>
+          </h2>
+
+          <p class="tech-news-description">Google vydává aktualizaci 4.1 aplikace Google Home, která přináší opravy chyb a vylepšení na základě zpětné vazby uživatelů po nedávném redesignu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/google-homes-latest-update-fixes-annoying-bugs-you/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Authority
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní aplikace</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="vr headset" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">UploadVR</span>
+            <time class="tech-news-date" datetime="2025-10-26T00:12:37+00:00" data-utc="2025-10-26T00:12:37+00:00">
+              26.10.2025 00:12
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.uploadvr.com/content/images/size/w1200/2025/10/Samsung-Galaxy-XR-hidden-USB-C-port.jpg" alt="Samsung Galaxy XR má skrytý USB-C port pro připojení příslušenství" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.uploadvr.com/content/images/size/w1200/2025/10/Samsung-Galaxy-XR-hidden-USB-C-port.jpg" onerror="handleImageError(this, '/tech-news/samsung-galaxy-xrs-hidden-usb-c-port-connects-acce/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/samsung-galaxy-xrs-hidden-usb-c-port-connects-acce/">Samsung Galaxy XR má skrytý USB-C port pro připojení příslušenství</a>
+          </h2>
+
+          <p class="tech-news-description">Headset Samsung Galaxy XR disponuje skrytým USB-C portem na pravém pásku, který umožňuje připojení širokého spektra příslušenství včetně ethernetových adaptérů a webkamer bez nutnosti využití pro napájení.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/samsung-galaxy-xrs-hidden-usb-c-port-connects-acce/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na UploadVR
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">vr headset</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="obuv" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">HYPEBEAST</span>
+            <time class="tech-news-date" datetime="2025-10-26T22:53:57+00:00" data-utc="2025-10-26T22:53:57+00:00">
+              26.10.2025 22:53
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F26%2Fnike-mind-001-black-hq4307-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max" alt="Nike Mind 001 v černém provedení má dorazit na začátku roku 2026" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F26%2Fnike-mind-001-black-hq4307-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max" onerror="handleImageError(this, '/tech-news/the-neuroscience-based-nike-mind-001-appears-in-bl/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-neuroscience-based-nike-mind-001-appears-in-bl/">Nike Mind 001 v černém provedení má dorazit na začátku roku 2026</a>
+          </h2>
+
+          <p class="tech-news-description">Nike představilo černou variantu pantofle Mind 001, která využívá neurovědní principy pro stimulaci chodidel. Cena bude 95 dolarů.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-neuroscience-based-nike-mind-001-appears-in-bl/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na HYPEBEAST
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">obuv</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">PhoneArena</span>
+            <time class="tech-news-date" datetime="2025-10-26T22:31:08+00:00" data-utc="2025-10-26T22:31:08+00:00">
+              26.10.2025 22:31
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://m-cdn.phonearena.com/images/article/175200-wide-two_1200/Galaxy-TriFold-launch-markets-revealed-and-only-a-few-made-the-cut.jpg" alt="Samsung Galaxy TriFold údajně dorazí jen do pěti zemí" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://m-cdn.phonearena.com/images/article/175200-wide-two_1200/Galaxy-TriFold-launch-markets-revealed-and-only-a-few-made-the-cut.jpg" onerror="handleImageError(this, '/tech-news/galaxy-trifold-launch-markets-revealed-and-only-a/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/galaxy-trifold-launch-markets-revealed-and-only-a/">Samsung Galaxy TriFold údajně dorazí jen do pěti zemí</a>
+          </h2>
+
+          <p class="tech-news-description">Podle úniku informací bude první skládací telefon se třemi panely od Samsungu dostupný pouze v Jižní Koreji, Číně, Singapuru, Tchaj-wanu a možná SAE.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/galaxy-trifold-launch-markets-revealed-and-only-a/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na PhoneArena
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kvantové technologie" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Carrollcountyobserver.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T22:18:00+00:00" data-utc="2025-10-26T22:18:00+00:00">
+              26.10.2025 22:18
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://carrollcountyobserver.com/wp-content/uploads/2025/10/The-US-Unveils-a-Quantum-Breakthrough-That-Finally-Solves-Renewable.jpg" alt="USA údajně představily kvantový průlom v ukládání energie z obnovitelných zdrojů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://carrollcountyobserver.com/wp-content/uploads/2025/10/The-US-Unveils-a-Quantum-Breakthrough-That-Finally-Solves-Renewable.jpg" onerror="handleImageError(this, '/tech-news/the-us-unveils-a-quantum-breakthrough-that-finally/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-us-unveils-a-quantum-breakthrough-that-finally/">USA údajně představily kvantový průlom v ukládání energie z obnovitelných zdrojů</a>
+          </h2>
+
+          <p class="tech-news-description">Americký výzkum prezentuje systém tepelného úložiště s termofotovoltaickým měničem, který má dosahovat 60% účinnosti při přeměně tepla na elektřinu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-us-unveils-a-quantum-breakthrough-that-finally/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Carrollcountyobserver.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kvantové technologie</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní reklama" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🚀</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TechCrunch</span>
+            <time class="tech-news-date" datetime="2025-10-26T19:38:39+00:00" data-utc="2025-10-26T19:38:39+00:00">
+              26.10.2025 19:38
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777" alt="Apple Maps možná příští rok získá reklamy" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777" onerror="handleImageError(this, '/tech-news/ads-might-be-coming-to-apple-maps-next-year-techcr/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ads-might-be-coming-to-apple-maps-next-year-techcr/">Apple Maps možná příští rok získá reklamy</a>
+          </h2>
+
+          <p class="tech-news-description">Podle zprávy Marka Gurmana z Bloombergu by Apple mohl v roce 2026 začít zobrazovat reklamy v aplikaci Mapy, což by bylo součástí širší strategie monetizace iOS.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ads-might-be-coming-to-apple-maps-next-year-techcr/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TechCrunch
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní reklama</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+                <span class="entity-tag company-tag">TechCrunch</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="opravy telefonů" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Supercarblondie.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T15:27:00+00:00" data-utc="2025-10-26T15:27:00+00:00">
+              26.10.2025 15:27
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://supercarblondie.com/wp-content/uploads/broken-iphone.webp" alt="YouTuber testoval opravu iPhonu s náhradním dílem z Temu za 23 dolarů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://supercarblondie.com/wp-content/uploads/broken-iphone.webp" onerror="handleImageError(this, '/tech-news/man-buys-replacement-part-for-his-broken-iphone-fr/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/man-buys-replacement-part-for-his-broken-iphone-fr/">YouTuber testoval opravu iPhonu s náhradním dílem z Temu za 23 dolarů</a>
+          </h2>
+
+          <p class="tech-news-description">Tvůrce opravářských videí MimFix vyzkoušel levnou náhradní obrazovku z čínského e-shopu Temu na iPhone XR. Displej sice fungoval, ale kvalita byla výrazně horší než originál.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/man-buys-replacement-part-for-his-broken-iphone-fr/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Supercarblondie.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">opravy telefonů</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+                <span class="entity-tag company-tag">Temu</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tablety" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5Mac</span>
+            <time class="tech-news-date" datetime="2025-10-26T13:45:00+00:00" data-utc="2025-10-26T13:45:00+00:00">
+              26.10.2025 13:45
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="iPad Pro s čipem M6 má dostat parní komorové chlazení" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/report-ipad-pro-to-gain-vapor-chamber-cooling-with/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/report-ipad-pro-to-gain-vapor-chamber-cooling-with/">iPad Pro s čipem M6 má dostat parní komorové chlazení</a>
+          </h2>
+
+          <p class="tech-news-description">Podle zpráv Bloomberg má Apple v roce 2027 představit iPad Pro s pokročilým parním komorovým chlazením, které by mělo řešit problémy s tepelným škrcením výkonu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/report-ipad-pro-to-gain-vapor-chamber-cooling-with/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5Mac
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tablety</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tablety" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">💹</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Bloomberg</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:00:20+00:00" data-utc="2025-10-26T12:00:20+00:00">
+              26.10.2025 12:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i69e2UzyoM1A/v1/1200x800.jpg" alt="iPad Pro má v roce 2027 dostat parní komoru jako iPhone 17 Pro" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i69e2UzyoM1A/v1/1200x800.jpg" onerror="handleImageError(this, '/tech-news/whats-next-for-ipad-pro-a-vapor-chamber-like-the-o/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/whats-next-for-ipad-pro-a-vapor-chamber-like-the-o/">iPad Pro má v roce 2027 dostat parní komoru jako iPhone 17 Pro</a>
+          </h2>
+
+          <p class="tech-news-description">Apple údajně pracuje na parní komoře pro chlazení budoucího iPadu Pro. Firma také pokračuje v plánech na reklamy v Apple Maps a řeší problémy se skládacím iPadem.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/whats-next-for-ipad-pro-a-vapor-chamber-like-the-o/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Bloomberg
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tablety</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MakeUseOf</span>
+            <time class="tech-news-date" datetime="2025-10-26T11:01:00+00:00" data-utc="2025-10-26T11:01:00+00:00">
+              26.10.2025 11:01
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/01/samsung-galaxy-s25-in-navy-in-hand.jpg?w=1600&h=900&fit=crop" alt="Skrytá funkce Samsungu: gesta klepnutím na zadní stranu telefonu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/01/samsung-galaxy-s25-in-navy-in-hand.jpg?w=1600&h=900&fit=crop" onerror="handleImageError(this, '/tech-news/most-people-dont-know-it-exists-but-this-samsung-t/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/most-people-dont-know-it-exists-but-this-samsung-t/">Skrytá funkce Samsungu: gesta klepnutím na zadní stranu telefonu</a>
+          </h2>
+
+          <p class="tech-news-description">Telefony Samsung Galaxy umožňují pomocí aplikace Good Lock nastavit gesta aktivovaná poklepáním na zadní stranu zařízení, podobně jako iPhony a Pixely.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/most-people-dont-know-it-exists-but-this-samsung-t/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MakeUseOf
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Authority</span>
+            <time class="tech-news-date" datetime="2025-10-26T09:04:19+00:00" data-utc="2025-10-26T09:04:19+00:00">
+              26.10.2025 09:04
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.androidauthority.com/wp-content/uploads/2025/10/vivo-X300-in-hand.jpg" alt="Úniky o Galaxy S26 naznačují zklamání, autor doporučuje Vivo X300" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.androidauthority.com/wp-content/uploads/2025/10/vivo-X300-in-hand.jpg" onerror="handleImageError(this, '/tech-news/if-the-galaxy-s26-leaks-are-true-id-tell-small-pho/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/if-the-galaxy-s26-leaks-are-true-id-tell-small-pho/">Úniky o Galaxy S26 naznačují zklamání, autor doporučuje Vivo X300</a>
+          </h2>
+
+          <p class="tech-news-description">Spekulace o základním modelu Galaxy S26 ukazují na absenci výraznějších vylepšení. Autor článku místo něj doporučuje kompaktní Vivo X300.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/if-the-galaxy-s26-leaks-are-true-id-tell-small-pho/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Authority
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+                <span class="entity-tag company-tag">Android Authority</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="turistika" data-importance="1">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Thetrek.co</span>
+            <time class="tech-news-date" datetime="2025-10-26T21:27:57+00:00" data-utc="2025-10-26T21:27:57+00:00">
+              26.10.2025 21:27
+            </time>
+          </div>
+          <div class="importance-indicator importance-1">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://photos.thetrek.co/wp-content/uploads/2025/10/22003520/IMG_7817-scaled.jpeg" alt="Namáhavá túra bez stop ve sněhu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://photos.thetrek.co/wp-content/uploads/2025/10/22003520/IMG_7817-scaled.jpeg" onerror="handleImageError(this, '/tech-news/tedious-hiking-with-no-tracks-in-the-snow-the-trek/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/tedious-hiking-with-no-tracks-in-the-snow-the-trek/">Namáhavá túra bez stop ve sněhu</a>
+          </h2>
+
+          <p class="tech-news-description">Osobní zážitek z turistické túry po Pacific Crest Trail, kde kvůli hlubokému sněhu trvalo 10 hodin ujít 22 mil.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/tedious-hiking-with-no-tracks-in-the-snow-the-trek/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Thetrek.co
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">turistika</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="automobilové motory" data-importance="1">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Jalopnik</span>
+            <time class="tech-news-date" datetime="2025-10-26T21:25:00+00:00" data-utc="2025-10-26T21:25:00+00:00">
+              26.10.2025 21:25
+            </time>
+          </div>
+          <div class="importance-indicator importance-1">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.jalopnik.com/img/gallery/the-pros-cons-of-3-cylinder-engines/l-intro-1761241834.jpg" alt="Výhody a nevýhody tříválcových motorů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.jalopnik.com/img/gallery/the-pros-cons-of-3-cylinder-engines/l-intro-1761241834.jpg" onerror="handleImageError(this, '/tech-news/the-pros-cons-of-3-cylinder-engines-jalopnik/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-pros-cons-of-3-cylinder-engines-jalopnik/">Výhody a nevýhody tříválcových motorů</a>
+          </h2>
+
+          <p class="tech-news-description">Automobily s tříválcovými motory nabízejí lepší spotřebu paliva a nižší náklady na údržbu, ale mohou být méně uspokojivé při řízení a mají hrubší chod naprázdno.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-pros-cons-of-3-cylinder-engines-jalopnik/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Jalopnik
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">automobilové motory</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="herní průmysl" data-importance="1">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TrueAchievements</span>
+            <time class="tech-news-date" datetime="2025-10-26T18:10:36+00:00" data-utc="2025-10-26T18:10:36+00:00">
+              26.10.2025 18:10
+            </time>
+          </div>
+          <div class="importance-indicator importance-1">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.trueachievements.com/imgs/165576/powerwash-simulator-2.jpg" alt="PowerWash Simulator 2 potřebuje vylepšit kooperativní režim" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.trueachievements.com/imgs/165576/powerwash-simulator-2.jpg" onerror="handleImageError(this, '/tech-news/powerwash-simulator-2s-co-op-multiplayer-needs-a-t/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/powerwash-simulator-2s-co-op-multiplayer-needs-a-t/">PowerWash Simulator 2 potřebuje vylepšit kooperativní režim</a>
+          </h2>
+
+          <p class="tech-news-description">Kooperativní multiplayer v PowerWash Simulator 2 je funkční, ale podle recenzentů by si zasloužil další vylepšení.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/powerwash-simulator-2s-co-op-multiplayer-needs-a-t/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TrueAchievements
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">herní průmysl</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="herní hardware" data-importance="1">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Videocardz.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T15:52:00+00:00" data-utc="2025-10-26T15:52:00+00:00">
+              26.10.2025 15:52
+            </time>
+          </div>
+          <div class="importance-indicator importance-1">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.videocardz.com/1/2025/10/RTX5090-DRINK-COASTER.jpg" alt="Nvidia nabízí podtácek z desky RTX 5090 Founders Edition" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.videocardz.com/1/2025/10/RTX5090-DRINK-COASTER.jpg" onerror="handleImageError(this, '/tech-news/coffee-latency-solved-rtx-5090-fe-drink-coaster-no/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/coffee-latency-solved-rtx-5090-fe-drink-coaster-no/">Nvidia nabízí podtácek z desky RTX 5090 Founders Edition</a>
+          </h2>
+
+          <p class="tech-news-description">Nvidia začala prodávat podtácek vyrobený z plošného spoje grafické karty RTX 5090 Founders Edition jako netradiční merchandise.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/coffee-latency-solved-rtx-5090-fe-drink-coaster-no/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Videocardz.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">herní hardware</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">NVIDIA</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="zdraví" data-importance="1">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Eatingwell.com</span>
+            <time class="tech-news-date" datetime="2025-10-26T12:30:00+00:00" data-utc="2025-10-26T12:30:00+00:00">
+              26.10.2025 12:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-1">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.eatingwell.com/thmb/cx-iocZP3cXljlOD8cpgRBh_vUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dietitians-Reveal-the-Habit-Women-Over-40-Should-Be-Doing-to-Lose-Weight-39e20c73699848e788e8d4216050e41d.jpg" alt="Dietologové doporučují ženám nad 40 let vést záznam jídla pro hubnutí" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.eatingwell.com/thmb/cx-iocZP3cXljlOD8cpgRBh_vUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dietitians-Reveal-the-Habit-Women-Over-40-Should-Be-Doing-to-Lose-Weight-39e20c73699848e788e8d4216050e41d.jpg" onerror="handleImageError(this, '/tech-news/dietitians-reveal-the-habit-women-over-40-should-b/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/dietitians-reveal-the-habit-women-over-40-should-b/">Dietologové doporučují ženám nad 40 let vést záznam jídla pro hubnutí</a>
+          </h2>
+
+          <p class="tech-news-description">Odborníci na výživu označují vedení záznamu stravy za nejlepší návyk pro hubnutí u žen nad 40 let. Pomáhá kontrolovat porce a udržet motivaci.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/dietitians-reveal-the-habit-women-over-40-should-b/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Eatingwell.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">zdraví</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="automobilový průmysl" data-importance="1">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Jalopnik</span>
+            <time class="tech-news-date" datetime="2025-10-26T01:25:00+00:00" data-utc="2025-10-26T01:25:00+00:00">
+              26.10.2025 01:25
+            </time>
+          </div>
+          <div class="importance-indicator importance-1">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg" alt="Podivná soudní pře, která umístila Chevrolet Beretta do sídla firmy Beretta" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg" onerror="handleImageError(this, '/tech-news/the-strange-lawsuit-that-put-a-chevy-beretta-insid/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-strange-lawsuit-that-put-a-chevy-beretta-insid/">Podivná soudní pře, která umístila Chevrolet Beretta do sídla firmy Beretta</a>
+          </h2>
+
+          <p class="tech-news-description">Příběh z roku 1988, kdy italský výrobce zbraní Beretta zažaloval General Motors za neoprávněné použití svého ochranného názvu pro model Chevrolet Beretta.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-strange-lawsuit-that-put-a-chevy-beretta-insid/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Jalopnik
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">automobilový průmysl</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+    </div>
+  </div>
+
+  
+</div>
+
+<script>
+// Převod času na místní časovou zónu
+function convertTimesToLocal() {
+  const timeElements = document.querySelectorAll('.tech-news-date[data-utc]');
+
+  timeElements.forEach(timeEl => {
+    const utcTime = timeEl.dataset.utc;
+    if (!utcTime) return;
+
+    try {
+      const date = new Date(utcTime);
+
+      // Formát: dd.mm.yyyy hh:mm (CET/CEST)
+      const options = {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Europe/Prague', // CET/CEST
+        timeZoneName: 'short'
+      };
+
+      const formatter = new Intl.DateTimeFormat('cs-CZ', options);
+      const parts = formatter.formatToParts(date);
+
+      // Sestavit formát dd.mm.yyyy hh:mm CET
+      const day = parts.find(p => p.type === 'day').value;
+      const month = parts.find(p => p.type === 'month').value;
+      const year = parts.find(p => p.type === 'year').value;
+      const hour = parts.find(p => p.type === 'hour').value;
+      const minute = parts.find(p => p.type === 'minute').value;
+      const timeZone = parts.find(p => p.type === 'timeZoneName').value;
+
+      timeEl.textContent = `${day}.${month}.${year} ${hour}:${minute} ${timeZone}`;
+
+    } catch (e) {
+      console.warn('Chyba převodu času:', utcTime, e);
+    }
+  });
+}
+
+// Handling chyb obrázků
+function handleImageError(imgElement, articleUrl) {
+  console.warn('Obrázek se nenačetl:', imgElement.src);
+
+  // Zkusit backup URL z front matter pokud existuje
+  if (imgElement.dataset.backup) {
+    const backupImg = new Image();
+    backupImg.onload = function() {
+      imgElement.src = imgElement.dataset.backup;
+      return;
+    };
+    backupImg.onerror = function() {
+      showEmojiPlaceholder(imgElement);
+    };
+    backupImg.src = imgElement.dataset.backup;
+  } else {
+    showEmojiPlaceholder(imgElement);
+  }
+}
+
+// Zobrazit emoji placeholder místo obrázku
+function showEmojiPlaceholder(imgElement) {
+  const card = imgElement.closest('.tech-news-card');
+  const category = card ? card.dataset.category : 'default';
+
+  // Najít kategorii v mapě
+  const emojiMap = {
+    'ai': '🤖', 'machine-learning': '🧠', 'cybersecurity': '🔐', 'privacy': '🛡️',
+    'security': '🔒', 'space': '🚀', 'astronomy': '🌌', 'mobile': '📱',
+    'apps': '📲', 'software': '💻', 'web': '🌐', 'development': '⚙️',
+    'gaming': '🎮', 'graphics': '🎨', 'health': '🏥', 'medicine': '💊',
+    'energy': '⚡', 'climate': '🌍', 'automotive': '🚗', 'transport': '🚆',
+    'infrastructure': '🏗️', 'internet': '📡', 'media': '🎬', 'entertainment': '🎭',
+    'science': '🔬', 'research': '📊', 'technology': '🔧', 'hardware': '⚙️',
+    'cloud': '☁️', 'data': '📈', 'blockchain': '⛓️', 'crypto': '₿',
+    'network': '🌐', '5g': '📶', 'ar': '👓', 'vr': '🥽',
+    'robotics': '🤖', 'iot': '📡', 'wearables': '⌚', 'quantum': '⚛️',
+    'biotech': '🧬', 'nanotechnology': '🔬', 'herní-průmysl': '🎮',
+    'programování': '💻', 'umělá-inteligence': '🤖', 'default': '📰'
+  };
+
+  const emoji = emojiMap[category] || emojiMap['default'];
+
+  // Skrýt obrázek a zobrazit emoji container
+  imgElement.parentElement.innerHTML = `
+    <div class="emoji-placeholder" style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+      font-size: 3.5rem;
+      color: #cbd5e0;
+    ">
+      ${emoji}
+    </div>
+  `;
+
+  console.info('Zobrazeno emoji místo obrázku pro kategorii:', category);
+}
+
+function getFallbackImageForSource(url) {
+  if (url.includes('techcrunch.com')) {
+    return '/images/fallback-techcrunch.png';
+  } else if (url.includes('theverge.com')) {
+    return '/images/fallback-verge.png';
+  } else if (url.includes('wired.com')) {
+    return '/images/fallback-wired.png';
+  }
+  return '/images/fallback-tech-news.png';
+}
+
+function tryAlternativeImage(imgElement, alternatives, index) {
+  if (index >= alternatives.length) {
+    // Žádné další alternativy, skrýt obrázek
+    imgElement.parentElement.style.display = 'none';
+    return;
+  }
+
+  const altSrc = alternatives[index];
+  if (!altSrc) {
+    tryAlternativeImage(imgElement, alternatives, index + 1);
+    return;
+  }
+
+  // Zkusit načíst alternativní obrázek
+  const testImg = new Image();
+  testImg.onload = function() {
+    imgElement.src = altSrc;
+  };
+  testImg.onerror = function() {
+    tryAlternativeImage(imgElement, alternatives, index + 1);
+  };
+  testImg.src = altSrc;
+}
+
+// Inicializace stránky
+document.addEventListener('DOMContentLoaded', function() {
+  // Převést časy na místní časovou zónu
+  convertTimesToLocal();
+
+  // Setup filtry
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const newsCards = document.querySelectorAll('.tech-news-card');
+
+  updateFilterCounts(filterBtns, newsCards);
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => filterArticles(btn, filterBtns, newsCards));
+  });
+
+  function updateFilterCounts(buttons, cards) {
+    buttons.forEach(btn => {
+      if (btn.dataset.filter === 'all') {
+        btn.textContent = `${btn.textContent.split(' (')[0]} (${cards.length})`;
+        return;
+      }
+
+      const count = Array.from(cards).filter(card =>
+        card.dataset.importance === btn.dataset.filter
+      ).length;
+
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+      btn.style.display = count > 0 ? 'inline-block' : 'none';
+    });
+  }
+
+  function filterArticles(activeBtn, allBtns, cards) {
+    allBtns.forEach(b => b.classList.remove('active'));
+    activeBtn.classList.add('active');
+
+    const filter = activeBtn.dataset.filter;
+    const type = activeBtn.dataset.type;
+
+    cards.forEach(card => {
+      const show = filter === 'all' || card.dataset[type] === filter;
+      card.style.display = show ? 'block' : 'none';
+    });
+  }
+});
+</script>
+
+<style>
+/* Navigace dnů */
+.date-navigation {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date-selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.date-nav-link {
+  background: #3182ce;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: all 0.2s;
+  min-width: 44px;
+  display: inline-block;
+  text-align: center;
+}
+
+.date-nav-link:hover {
+  background: #2c5282;
+  transform: translateY(-1px);
+  color: white;
+}
+
+.current-date {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  min-width: 200px;
+  justify-content: center;
+}
+
+.current-date-display {
+  font-weight: 600;
+  color: #2d3748;
+  font-size: 1.1rem;
+}
+
+.date-info {
+  text-align: center;
+  color: #718096;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.articles-count {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-weight: 600;
+}
+
+/* Responzivní navigace */
+@media (max-width: 768px) {
+  .date-selector {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .current-date {
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: auto;
+  }
+
+  .date-nav-link {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+.tech-news-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 2rem 2rem;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.tech-news-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tech-news-header h1 {
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.tech-news-description {
+  color: #718096;
+  font-size: 1.1rem;
+}
+
+.tech-news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem 2rem;
+  background: #f7fafc;
+  border-radius: 12px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 25px;
+  background: white;
+  color: #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.filter-btn:hover {
+  border-color: #3182ce;
+  background: #ebf8ff;
+  transform: translateY(-1px);
+}
+
+.filter-btn.active {
+  background: #3182ce;
+  border-color: #3182ce;
+  color: white;
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+}
+
+.filter-separator {
+  font-weight: 600;
+  color: #4a5568;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.9rem;
+  flex-basis: 100%;
+  text-align: left;
+}
+
+.tech-news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tech-news-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: 1px solid #e2e8f0;
+}
+
+.tech-news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  border-color: #3182ce;
+}
+
+.tech-news-meta {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem 1rem 0.5rem;
+  position: relative;
+}
+
+.tech-news-emoji {
+  font-size: 1.25rem;
+}
+
+.tech-news-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.tech-news-source {
+  font-weight: 600;
+  color: #3182ce;
+  font-size: 0.9rem;
+}
+
+.tech-news-date {
+  color: #718096;
+  font-size: 0.8rem;
+}
+
+.importance-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: auto;
+  white-space: nowrap;
+  border: 1px solid currentColor;
+  opacity: 0.9;
+}
+
+/* Specifické styly pro různé úrovně důležitosti */
+.tech-news-card[data-importance="5"] {
+  border-left: 4px solid #dc2626;
+  box-shadow: 0 4px 6px rgba(220, 38, 38, 0.1);
+}
+
+.tech-news-card[data-importance="4"] {
+  border-left: 4px solid #ea580c;
+  box-shadow: 0 4px 6px rgba(234, 88, 12, 0.1);
+}
+
+.tech-news-card[data-importance="3"] {
+  border-left: 4px solid #2563eb;
+}
+
+.tech-news-card[data-importance="2"] {
+  border-left: 4px solid #059669;
+}
+
+.tech-news-card[data-importance="1"] {
+  border-left: 4px solid #6b7280;
+}
+
+.tech-news-image {
+  height: 200px;
+  overflow: hidden;
+  margin: 0.5rem 1rem;
+  border-radius: 8px;
+  background: #f7fafc;
+}
+
+.tech-news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tech-news-card:hover .tech-news-image img {
+  transform: scale(1.05);
+}
+
+.tech-news-content {
+  padding: 1rem 1rem 1.5rem;
+}
+
+.tech-news-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.tech-news-title a {
+  color: #2d3748;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.tech-news-title a:hover {
+  color: #3182ce;
+}
+
+.tech-news-card .tech-news-description {
+  color: #718096;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.tech-news-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-news-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.tech-news-link:hover {
+  color: #2c5282;
+}
+
+.external-icon {
+  flex-shrink: 0;
+}
+
+.tech-news-category {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+/* Firmy a osobnosti */
+.tech-news-entities {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.tech-news-companies,
+.tech-news-people {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tech-news-companies:last-child,
+.tech-news-people:last-child {
+  margin-bottom: 0;
+}
+
+.entity-label {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.entity-tag {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.company-tag {
+  background: #f0f9ff;
+  color: #0c4a6e;
+  border: 1px solid #bae6fd;
+}
+
+.person-tag {
+  background: #fef7ed;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
+}
+
+.tech-news-empty {
+  text-align: center;
+  padding: 3rem;
+  color: #718096;
+  background: #f7fafc;
+  border-radius: 12px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 1200px) {
+  .tech-news-container {
+    padding: 2rem 1rem;
+  }
+  .tech-news-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .tech-news-container {
+    padding: 1rem 0.5rem;
+  }
+  .tech-news-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .tech-news-filters {
+    gap: 0.25rem;
+  }
+
+  .filter-btn {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .tech-news-header h1 {
+    font-size: 2rem;
+  }
+}
+</style>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

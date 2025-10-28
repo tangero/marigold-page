@@ -7,8 +7,8 @@
 <meta property="og:title" content="Vývojářský deník: Vznik Powered Cube pro MTG Arena" />
 <meta name="author" content="Patrick Zandl" />
 <meta property="og:locale" content="cs" />
-<meta name="description" content="Vývojáři MTG Arena popisují cestu od interního hackathonu k implementaci Powered Cube eventu, který vyžadoval přidání více než 200 nových karet do hry." />
-<meta property="og:description" content="Vývojáři MTG Arena popisují cestu od interního hackathonu k implementaci Powered Cube eventu, který vyžadoval přidání více než 200 nových karet do hry." />
+<meta name="description" content="Vývojáři Magic: The Gathering Arena popisují cestu od interního hackathonu k implementaci Powered Cube eventu, který vyžadoval naprogramování více než 200 karet." />
+<meta property="og:description" content="Vývojáři Magic: The Gathering Arena popisují cestu od interního hackathonu k implementaci Powered Cube eventu, který vyžadoval naprogramování více než 200 karet." />
 <link rel="canonical" href="https://www.marigold.cz/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/" />
 <meta property="og:url" content="https://www.marigold.cz/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/" />
 <meta property="og:site_name" content="Marigold.cz" />
@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Vývojářský deník: Vznik Powered Cube pro MTG Arena" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-23T17:11:46+00:00","datePublished":"2025-10-23T17:11:46+00:00","description":"Vývojáři MTG Arena popisují cestu od interního hackathonu k implementaci Powered Cube eventu, který vyžadoval přidání více než 200 nových karet do hry.","headline":"Vývojářský deník: Vznik Powered Cube pro MTG Arena","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/"},"url":"https://www.marigold.cz/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-23T17:11:46+00:00","datePublished":"2025-10-23T17:11:46+00:00","description":"Vývojáři Magic: The Gathering Arena popisují cestu od interního hackathonu k implementaci Powered Cube eventu, který vyžadoval naprogramování více než 200 karet.","headline":"Vývojářský deník: Vznik Powered Cube pro MTG Arena","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/"},"url":"https://www.marigold.cz/tech-news/dev-diary-creating-arena-powered-cube-magic-the-ga/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -26,7 +26,7 @@
     <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
 
     
-    <meta property="og:description" content="Článek popisuje interní vývojový proces studia Wizards of the Coast při přípravě Powered Cube eventu pro digitální karetní hru MTG Arena, který byl spuštěn 28. října. Jde o vývojářský deník zaměřený na technické aspekty implementace, nikoli o průlomovou novinku.
+    <meta property="og:description" content="Shrnutí
 
 " />
     
@@ -223,11 +223,17 @@
   
 
   <div class="article-content">
-    <p>Článek popisuje interní vývojový proces studia Wizards of the Coast při přípravě Powered Cube eventu pro digitální karetní hru MTG Arena, který byl spuštěn 28. října. Jde o vývojářský deník zaměřený na technické aspekty implementace, nikoli o průlomovou novinku.</p>
+    <h2 id="shrnutí">Shrnutí</h2>
 
-<p>Projekt vznikl během interního hackathonu nazvaného “Experimental Frenzy” v dubnu 2023, kdy vývojáři dostávají tři dny na experimentování s novými nápady. Vývojář začal analýzou Vintage Cube seznamu z Magic Online, který obsahoval 215 karet vyžadujících implementaci do MTG Arena. Cílem bylo zjistit, jak náročné by bylo přidat klasické výkonné karty jako Power Nine, Balance či Mana Vault.</p>
+<p>Článek popisuje interní vývojový proces studia Wizards of the Coast, který vedl k implementaci Powered Cube eventu v digitální karetní hře MTG Arena. Jde o vývojářský deník zaměřený na technické aspekty přidávání historických karet do hry, který vznikl během interního hackathonu nazvaného “Experimental Frenzy”.</p>
 
-<p>Z hackathonu vznikl dvouletý projekt zahrnující implementaci desítek karet s komplexními herními pravidly. Powered Cube představuje speciální herní režim s nejsilnějšími kartami v historii Magic: The Gathering. Článek slouží především jako pohled do zákulisí vývoje a ukazuje, jak interní experimentální projekty mohou vést k novým funkcím ve hře.</p>
+<h2 id="kontext">Kontext</h2>
+
+<p>Jedná se o interní pohled na vývoj konkrétní herní funkce v MTG Arena, digitální verzi populární karetní hry Magic: The Gathering. Powered Cube je speciální herní formát obsahující nejsilnější karty z historie hry, včetně legendárního “Power Nine”. Článek má primárně informační charakter pro komunitu hráčů a nepřináší žádné průlomové technologické novinky.</p>
+
+<p>Vývoj začal v dubnu 2023 během čtvrtletního hackathonu, kdy vývojáři dostávají tři dny na experimentování s vlastními nápady. Vývojář analyzoval seznam Vintage Cube z platformy Magic Online a identifikoval 215 karet, které by bylo potřeba implementovat. Cílem bylo vyhodnotit technickou náročnost přenosu těchto karet do MTG Arena z hlediska herních pravidel a mechanik.</p>
+
+<p>Článek je zajímavý především pro fanoušky Magic: The Gathering, kteří chtějí nahlédnout do zákulisí vývoje. Z technologického hlediska jde o běžný popis interního vývojového procesu bez širšího dopadu na herní průmysl.</p>
 
 <hr />
 

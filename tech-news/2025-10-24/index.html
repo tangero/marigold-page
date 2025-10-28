@@ -1,0 +1,4158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Technologické zprávy - 2025-10-24 | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Technologické zprávy - 2025-10-24" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-24/" />
+<meta property="og:url" content="https://www.marigold.cz/tech-news/2025-10-24/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-10-24T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Technologické zprávy - 2025-10-24" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-24T00:00:00+00:00","datePublished":"2025-10-24T00:00:00+00:00","description":"Technologie a Svět","headline":"Technologické zprávy - 2025-10-24","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-10-24/"},"url":"https://www.marigold.cz/tech-news/2025-10-24/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Technologické zprávy - 2025-10-24" />
+    <meta property="twitter:title" content="Technologické zprávy - 2025-10-24" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-24/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <div class="tech-news-container">
+  <header class="tech-news-header">
+    <h1 align="center">Technologické zprávy</h1>
+    <p class="tech-news-description">24.10.2025</p>
+  </header>
+
+  <!-- Filtry -->
+  <div class="tech-news-filters">
+    <!-- Obecné filtry -->
+    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
+
+    <!-- Filtry podle důležitosti -->
+    <div class="filter-separator">Důležitost:</div>
+    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
+    <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
+  </div>
+
+  <!-- Seznam zpráv -->
+  <div class="tech-news-container">
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+      
+    
+
+    
+
+    
+
+    <!-- Navigace dnů -->
+    <div class="date-navigation">
+      <div class="date-selector">
+        
+
+        <div class="current-date">
+          <span class="current-date-display">24.10.2025</span>
+        </div>
+
+        
+          <a href="/tech-news/" class="date-nav-link" title="Nejnovější články">
+            Nejnovější &rarr;
+          </a>
+        
+      </div>
+
+      <div class="date-info">
+        <span class="articles-count">47 článků</span>
+      </div>
+    </div>
+
+    <!-- Grid článků pro tento den -->
+    <div class="tech-news-grid">
+      
+      <article class="tech-news-card" data-category="tech" data-importance="5">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Digital Camera World</span>
+            <time class="tech-news-date" datetime="2025-10-24T18:51:00+00:00" data-utc="2025-10-24T18:51:00+00:00">
+              24.10.2025 18:51
+            </time>
+          </div>
+          <div class="importance-indicator importance-5">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg" alt="Major Photoshop, Lightroom updates could be coming next week (plus free online classes) - Digital Camera World" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg" onerror="handleImageError(this, '/tech-news/major-photoshop-lightroom-updates-could-be-coming/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/major-photoshop-lightroom-updates-could-be-coming/">Major Photoshop, Lightroom updates could be coming next week (plus free online classes) - Digital Camera World</a>
+          </h2>
+
+          <p class="tech-news-description">Get ready, the biggest Photoshop and Lightroom updates of the year could be coming next week as Adobe Max opens in California on October 28</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/major-photoshop-lightroom-updates-could-be-coming/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Digital Camera World
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="5">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Barchart.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T18:35:49+00:00" data-utc="2025-10-24T18:35:49+00:00">
+              24.10.2025 18:35
+            </time>
+          </div>
+          <div class="importance-indicator importance-5">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Communication%20Services/Alphabet%20Inc%20logo%20signage%20by-JHVEPhoto%20via%20Shutterstock.jpg" alt="Google Just Achieved a First-Ever Quantum Advantage. Should You Buy GOOGL Stock Here? - Barchart.com" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Communication%20Services/Alphabet%20Inc%20logo%20signage%20by-JHVEPhoto%20via%20Shutterstock.jpg" onerror="handleImageError(this, '/tech-news/google-just-achieved-a-first-ever-quantum-advantag/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/google-just-achieved-a-first-ever-quantum-advantag/">Google Just Achieved a First-Ever Quantum Advantage. Should You Buy GOOGL Stock Here? - Barchart.com</a>
+          </h2>
+
+          <p class="tech-news-description">Tech giant Google just scored a major win in the quantum computing space. Should investors pay attention to GOOGL stock now?</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/google-just-achieved-a-first-ever-quantum-advantag/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Barchart.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="5">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Mashable</span>
+            <time class="tech-news-date" datetime="2025-10-24T18:01:45+00:00" data-utc="2025-10-24T18:01:45+00:00">
+              24.10.2025 18:01
+            </time>
+          </div>
+          <div class="importance-indicator importance-5">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://helios-i.mashable.com/imagery/articles/04nYaUCJFREFVb7B5ru4Odm/hero-image.fill.size_1200x675.v1761324386.png" alt="OpenAI is coming for your MacBook with latest acquisition - Mashable" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://helios-i.mashable.com/imagery/articles/04nYaUCJFREFVb7B5ru4Odm/hero-image.fill.size_1200x675.v1761324386.png" onerror="handleImageError(this, '/tech-news/openai-is-coming-for-your-macbook-with-latest-acqu/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/openai-is-coming-for-your-macbook-with-latest-acqu/">OpenAI is coming for your MacBook with latest acquisition - Mashable</a>
+          </h2>
+
+          <p class="tech-news-description">The ChatGPT creator has acquired Sky, an AI interface for Mac.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/openai-is-coming-for-your-macbook-with-latest-acqu/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Mashable
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="5">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Fortune</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:13:00+00:00" data-utc="2025-10-24T16:13:00+00:00">
+              24.10.2025 16:13
+            </time>
+          </div>
+          <div class="importance-indicator importance-5">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2207866106-e1761321048264.jpg?resize=1200,600" alt="After Microsoft invested $13 billion into OpenAI, its AI chief is slamming erotica chatbots: ‘This is very dangerous’ - Fortune" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2207866106-e1761321048264.jpg?resize=1200,600" onerror="handleImageError(this, '/tech-news/after-microsoft-invested-13-billion-into-openai-it/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/after-microsoft-invested-13-billion-into-openai-it/">After Microsoft invested $13 billion into OpenAI, its AI chief is slamming erotica chatbots: ‘This is very dangerous’ - Fortune</a>
+          </h2>
+
+          <p class="tech-news-description">OpenAI CEO Sam Altman defended a newly announced erotica feature for ChatGPT, saying his company is “not the elected moral police of the world.”</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/after-microsoft-invested-13-billion-into-openai-it/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Fortune
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Authority</span>
+            <time class="tech-news-date" datetime="2025-10-24T19:45:40+00:00" data-utc="2025-10-24T19:45:40+00:00">
+              24.10.2025 19:45
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.androidauthority.com/wp-content/uploads/2025/04/Nothing-Phone-3a-Pro-rear-lying-down.jpg" alt="Nothing attempts to justify its move to put bloatware on your next phone - Android Authority" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.androidauthority.com/wp-content/uploads/2025/04/Nothing-Phone-3a-Pro-rear-lying-down.jpg" onerror="handleImageError(this, '/tech-news/nothing-attempts-to-justify-its-move-to-put-bloatw/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/nothing-attempts-to-justify-its-move-to-put-bloatw/">Nothing attempts to justify its move to put bloatware on your next phone - Android Authority</a>
+          </h2>
+
+          <p class="tech-news-description">Nothing has published a new blog post revealing its future plans for non-flagship phones, while also offering more details on Lock Glimpse.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/nothing-attempts-to-justify-its-move-to-put-bloatw/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Authority
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="ai integrace" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🚀</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TechCrunch</span>
+            <time class="tech-news-date" datetime="2025-10-24T19:08:10+00:00" data-utc="2025-10-24T19:08:10+00:00">
+              24.10.2025 19:08
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024" alt="Jak používat nové integrace aplikací v ChatGPT včetně Spotify, Figma a Canva" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024" onerror="handleImageError(this, '/tech-news/how-to-use-the-new-chatgpt-app-integrations-includ/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/how-to-use-the-new-chatgpt-app-integrations-includ/">Jak používat nové integrace aplikací v ChatGPT včetně Spotify, Figma a Canva</a>
+          </h2>
+
+          <p class="tech-news-description">OpenAI spustilo přímé integrace aplikací do ChatGPT, které umožňují propojit účty služeb jako Spotify, Canva, Figma nebo Booking.com a ovládat je pomocí konverzačního rozhraní.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/how-to-use-the-new-chatgpt-app-integrations-includ/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TechCrunch
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">ai integrace</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">OpenAI</span>
+              
+                <span class="entity-tag company-tag">Spotify</span>
+              
+                <span class="entity-tag company-tag">Figma</span>
+              
+                <span class="entity-tag company-tag">Canva</span>
+              
+                <span class="entity-tag company-tag">Expedia</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5Mac</span>
+            <time class="tech-news-date" datetime="2025-10-24T17:48:00+00:00" data-utc="2025-10-24T17:48:00+00:00">
+              24.10.2025 17:48
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Opt-out-of-algorithmic-feeds-on-Instagram-and-Facebook.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Instagram adds new watch history feature for revisiting Reels - 9to5Mac" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Opt-out-of-algorithmic-feeds-on-Instagram-and-Facebook.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/instagram-adds-new-watch-history-feature-for-revis/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/instagram-adds-new-watch-history-feature-for-revis/">Instagram adds new watch history feature for revisiting Reels - 9to5Mac</a>
+          </h2>
+
+          <p class="tech-news-description">Instagram just launched a watch history feature for Reels you’ve recently seen, here are the details on how it works.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/instagram-adds-new-watch-history-feature-for-revis/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5Mac
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Futurism</span>
+            <time class="tech-news-date" datetime="2025-10-24T17:15:58+00:00" data-utc="2025-10-24T17:15:58+00:00">
+              24.10.2025 17:15
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://futurism.com/wp-content/uploads/2025/10/ai-brain-rot.jpg?w=1200" alt="Training AI on "Brain Rot" Content Causes Lasting Cognitive Damage, New Paper Finds - Futurism" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://futurism.com/wp-content/uploads/2025/10/ai-brain-rot.jpg?w=1200" onerror="handleImageError(this, '/tech-news/training-ai-on-brain-rot-content-causes-lasting-co/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/training-ai-on-brain-rot-content-causes-lasting-co/">Training AI on "Brain Rot" Content Causes Lasting Cognitive Damage, New Paper Finds - Futurism</a>
+          </h2>
+
+          <p class="tech-news-description">Researchers found AI models trained on shortform, clickbait-y content experienced irreversible cognitive decline.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/training-ai-on-brain-rot-content-causes-lasting-co/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Futurism
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">CNBC</span>
+            <time class="tech-news-date" datetime="2025-10-24T17:10:22+00:00" data-utc="2025-10-24T17:10:22+00:00">
+              24.10.2025 17:10
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://image.cnbcfm.com/api/v1/image/108214983-17610771932025-10-21t195023z_2008595976_rc2jghajhi33_rtrmadp_0_openai-sora.jpeg?v=1761077292&w=1920&h=1080" alt="OpenAI's new Sora 2 video generation app went viral. Is it a real threat to Meta? - CNBC" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://image.cnbcfm.com/api/v1/image/108214983-17610771932025-10-21t195023z_2008595976_rc2jghajhi33_rtrmadp_0_openai-sora.jpeg?v=1761077292&w=1920&h=1080" onerror="handleImageError(this, '/tech-news/openais-new-sora-2-video-generation-app-went-viral/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/openais-new-sora-2-video-generation-app-went-viral/">OpenAI's new Sora 2 video generation app went viral. Is it a real threat to Meta? - CNBC</a>
+          </h2>
+
+          <p class="tech-news-description">Sora 2 is the latest competitive threat to Meta's social media supremacy.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/openais-new-sora-2-video-generation-app-went-viral/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na CNBC
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kybernetická bezpečn" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Internet</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:30:00+00:00" data-utc="2025-10-24T16:30:00+00:00">
+              24.10.2025 16:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboN42WiQTI7VcMEGEDyMaY3ZP7VsruF2cHNgK4XQ2SxW0adaaMaJYfa_3B5Og4rvc1KF9HS1L7IxA-jSa_ZWMOz5kAKexTlsbZHomhllf8esxYBqcv3-pL7GY5CCb7qZaSxFaM2s3sbLR6cw-KlYMQ0ZnyWbYpjxHph9tMZxDxGdsf6jQ8kdBWYsMdvol/s790-rw-e365/windows-update.jpg" alt="Microsoft záplatuje kritickou chybu ve WSUS, která je aktivně zneužívána" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboN42WiQTI7VcMEGEDyMaY3ZP7VsruF2cHNgK4XQ2SxW0adaaMaJYfa_3B5Og4rvc1KF9HS1L7IxA-jSa_ZWMOz5kAKexTlsbZHomhllf8esxYBqcv3-pL7GY5CCb7qZaSxFaM2s3sbLR6cw-KlYMQ0ZnyWbYpjxHph9tMZxDxGdsf6jQ8kdBWYsMdvol/s790-rw-e365/windows-update.jpg" onerror="handleImageError(this, '/tech-news/newly-patched-critical-microsoft-wsus-flaw-comes-u/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/newly-patched-critical-microsoft-wsus-flaw-comes-u/">Microsoft záplatuje kritickou chybu ve WSUS, která je aktivně zneužívána</a>
+          </h2>
+
+          <p class="tech-news-description">Microsoft vydal nouzovou opravu pro kritickou zranitelnost CVE-2025-59287 ve službě WSUS, která je již aktivně zneužívána útočníky v reálných útocích.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/newly-patched-critical-microsoft-wsus-flaw-comes-u/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Internet
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kybernetická bezpečn</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:00:00+00:00" data-utc="2025-10-24T16:00:00+00:00">
+              24.10.2025 16:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Microsoft Outlook is getting an AI overhaul under new leaders - The Verge" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="handleImageError(this, '/tech-news/microsoft-outlook-is-getting-an-ai-overhaul-under/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/microsoft-outlook-is-getting-an-ai-overhaul-under/">Microsoft Outlook is getting an AI overhaul under new leaders - The Verge</a>
+          </h2>
+
+          <p class="tech-news-description">Microsoft is getting ready to overhaul Outlook again. Microsoft’s mail app is being rebuilt with a focus on AI.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/microsoft-outlook-is-getting-an-ai-overhaul-under/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MacRumors</span>
+            <time class="tech-news-date" datetime="2025-10-24T14:18:01+00:00" data-utc="2025-10-24T14:18:01+00:00">
+              24.10.2025 14:18
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.macrumors.com/t/NiqVm75fJdfBoWGMCBRbMJjPAU0=/3564x/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg" alt="iPhone 18 Pro Rumored to Support Full 5G Satellite Internet - MacRumors" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.macrumors.com/t/NiqVm75fJdfBoWGMCBRbMJjPAU0=/3564x/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg" onerror="handleImageError(this, '/tech-news/iphone-18-pro-rumored-to-support-full-5g-satellite/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/iphone-18-pro-rumored-to-support-full-5g-satellite/">iPhone 18 Pro Rumored to Support Full 5G Satellite Internet - MacRumors</a>
+          </h2>
+
+          <p class="tech-news-description">At least some new iPhone models launching next year may support full 5G satellite internet, according to a report this week from The Information.  ...</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/iphone-18-pro-rumored-to-support-full-5g-satellite/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MacRumors
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MacRumors</span>
+            <time class="tech-news-date" datetime="2025-10-24T14:03:10+00:00" data-utc="2025-10-24T14:03:10+00:00">
+              24.10.2025 14:03
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.macrumors.com/t/q7PCmOh2oHwxKF12S_4qNLQGTv8=/2500x/article-new/2025/10/m5-ipad-pro.jpeg" alt="Apple's New M5 iPad Pro Gets First Amazon Discounts at Up to $100 Off - MacRumors" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.macrumors.com/t/q7PCmOh2oHwxKF12S_4qNLQGTv8=/2500x/article-new/2025/10/m5-ipad-pro.jpeg" onerror="handleImageError(this, '/tech-news/apples-new-m5-ipad-pro-gets-first-amazon-discounts/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/apples-new-m5-ipad-pro-gets-first-amazon-discounts/">Apple's New M5 iPad Pro Gets First Amazon Discounts at Up to $100 Off - MacRumors</a>
+          </h2>
+
+          <p class="tech-news-description">Amazon today has a few discounts on Apple's just-released M5 iPad Pro, with up to $100 off these tablets. These deals are focused on the...</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/apples-new-m5-ipad-pro-gets-first-amazon-discounts/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MacRumors
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="bezpečnostní záplaty" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Theregister.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T12:16:00+00:00" data-utc="2025-10-24T12:16:00+00:00">
+              24.10.2025 12:16
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://regmedia.co.uk/2015/06/17/spanner_hammer_screw_648.jpg" alt="Microsoft vydal mimořádnou záplatu pro kritickou chybu ve WSUS" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://regmedia.co.uk/2015/06/17/spanner_hammer_screw_648.jpg" onerror="handleImageError(this, '/tech-news/microsoft-issues-out-of-band-patch-for-critical-ws/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/microsoft-issues-out-of-band-patch-for-critical-ws/">Microsoft vydal mimořádnou záplatu pro kritickou chybu ve WSUS</a>
+          </h2>
+
+          <p class="tech-news-description">Microsoft nečekaně vydal kritickou bezpečnostní záplatu pro Windows Server Update Services, která opravuje zranitelnost umožňující vzdálené spuštění kódu. Veřejně je dostupný proof-of-concept exploit.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/microsoft-issues-out-of-band-patch-for-critical-ws/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Theregister.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">bezpečnostní záplaty</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Police</span>
+            <time class="tech-news-date" datetime="2025-10-24T07:41:00+00:00" data-utc="2025-10-24T07:41:00+00:00">
+              24.10.2025 07:41
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-hands-on-1.jpg?w=1600&h=900&fit=crop" alt="Kritická chyba telefonů Google Pixel brání volání na tísňovou linku" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-hands-on-1.jpg?w=1600&h=900&fit=crop" onerror="handleImageError(this, '/tech-news/google-pixels-most-dangerous-bug-refuses-to-die-an/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/google-pixels-most-dangerous-bug-refuses-to-die-an/">Kritická chyba telefonů Google Pixel brání volání na tísňovou linku</a>
+          </h2>
+
+          <p class="tech-news-description">Uživatelé telefonů Pixel opakovaně hlásí neschopnost spojit se s tísňovou linkou 911. Problém se vrací i přes předchozí opravy a postihuje modely od Pixel 6 po Pixel 10.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/google-pixels-most-dangerous-bug-refuses-to-die-an/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Police
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Wccftech</span>
+            <time class="tech-news-date" datetime="2025-10-24T07:18:00+00:00" data-utc="2025-10-24T07:18:00+00:00">
+              24.10.2025 07:18
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-can-run-exceptionally-hot.jpg" alt="M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-can-run-exceptionally-hot.jpg" onerror="handleImageError(this, '/tech-news/m5-macbook-pros-single-fan-cooler-unable-to-preven/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/m5-macbook-pros-single-fan-cooler-unable-to-preven/">M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech</a>
+          </h2>
+
+          <p class="tech-news-description">Despite being extremely power efficient, Apple’s newest M5 MacBook Pro can get insanely hot, with the SoC reaching 99 degrees Celsius</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/m5-macbook-pros-single-fan-cooler-unable-to-preven/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Wccftech
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Internet</span>
+            <time class="tech-news-date" datetime="2025-10-24T07:00:00+00:00" data-utc="2025-10-24T07:00:00+00:00">
+              24.10.2025 07:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s790-rw-e365/code-vscode.jpg" alt="Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack - The Hacker News" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s790-rw-e365/code-vscode.jpg" onerror="handleImageError(this, '/tech-news/self-spreading-glassworm-infects-vs-code-extension/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/self-spreading-glassworm-infects-vs-code-extension/">Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack - The Hacker News</a>
+          </h2>
+
+          <p class="tech-news-description">GlassWorm spread via 14 VS Code extensions; Solana + Google Calendar C2; stole credentials, drained 49 wallets.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/self-spreading-glassworm-infects-vs-code-extension/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Internet
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Mit.edu</span>
+            <time class="tech-news-date" datetime="2025-10-24T04:00:00+00:00" data-utc="2025-10-24T04:00:00+00:00">
+              24.10.2025 04:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://news.mit.edu/sites/default/files/images/202510/Miranda%20Schwacke5_0.JPG" alt="The brain power behind sustainable AI - MIT News" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://news.mit.edu/sites/default/files/images/202510/Miranda%20Schwacke5_0.JPG" onerror="handleImageError(this, '/tech-news/the-brain-power-behind-sustainable-ai-mit-news/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-brain-power-behind-sustainable-ai-mit-news/">The brain power behind sustainable AI - MIT News</a>
+          </h2>
+
+          <p class="tech-news-description">Miranda Schwacke, a PhD student at MIT, develops electrochemical devices for brain-inspired computing to enable sustainable AI. She combines cutting-edge research with community involvement and science communication, inspiring others while addressing energy-e…</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-brain-power-behind-sustainable-ai-mit-news/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Mit.edu
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="soukromí dat" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5Mac</span>
+            <time class="tech-news-date" datetime="2025-10-24T02:02:00+00:00" data-utc="2025-10-24T02:02:00+00:00">
+              24.10.2025 02:02
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Apple varuje před vypnutím funkce App Tracking Transparency v Evropě kvůli lobbingu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/apple-decries-intense-lobbying-threatens-to-turn-o/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/apple-decries-intense-lobbying-threatens-to-turn-o/">Apple varuje před vypnutím funkce App Tracking Transparency v Evropě kvůli lobbingu</a>
+          </h2>
+
+          <p class="tech-news-description">Apple v prohlášení pro německou tiskovou agenturu uvedl, že může být nucen vypnout funkci App Tracking Transparency v Evropě v důsledku intenzivního lobbingu reklamních firem a regulačních tlaků.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/apple-decries-intense-lobbying-threatens-to-turn-o/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5Mac
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">soukromí dat</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="ai" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">VentureBeat</span>
+            <time class="tech-news-date" datetime="2025-10-24T00:35:33+00:00" data-utc="2025-10-24T00:35:33+00:00">
+              24.10.2025 00:35
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.ctfassets.net/jdtwqhzvc2n1/77MUUhh1PM8EeHOJyHjmwX/2f1b317b8af31339017a06f84d871d58/cfr0z3n_third-person_view_of_woman_seated_at_desk_in_a_home_off_d68bd7db-ac86-44be-8e05-2cdb878c7190.png?w=300&q=30" alt="OpenAI spouští firemní znalostní bázi v ChatGPT s přístupem k datům z Google Drive, Slacku a GitHubu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.ctfassets.net/jdtwqhzvc2n1/77MUUhh1PM8EeHOJyHjmwX/2f1b317b8af31339017a06f84d871d58/cfr0z3n_third-person_view_of_woman_seated_at_desk_in_a_home_off_d68bd7db-ac86-44be-8e05-2cdb878c7190.png?w=300&q=30" onerror="handleImageError(this, '/tech-news/openai-launches-company-knowledge-in-chatgpt-letti/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/openai-launches-company-knowledge-in-chatgpt-letti/">OpenAI spouští firemní znalostní bázi v ChatGPT s přístupem k datům z Google Drive, Slacku a GitHubu</a>
+          </h2>
+
+          <p class="tech-news-description">OpenAI představilo novou funkci Company Knowledge pro ChatGPT, která umožňuje podnikovým uživatelům propojit firemní data z různých platforem a využívat je v konverzacích s AI.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/openai-launches-company-knowledge-in-chatgpt-letti/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na VentureBeat
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">ai</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">OpenAI</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+                <span class="entity-tag company-tag">Slack</span>
+              
+                <span class="entity-tag company-tag">GitHub</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="soudní spory" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-24T23:07:53+00:00" data-utc="2025-10-24T23:07:53+00:00">
+              24.10.2025 23:07
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Apple chce získat rozsudek proti leakerovi Jonu Prosserovi, který nereaguje na žalobu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="handleImageError(this, '/tech-news/apple-says-jon-prosser-has-not-indicated-when-he-m/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/apple-says-jon-prosser-has-not-indicated-when-he-m/">Apple chce získat rozsudek proti leakerovi Jonu Prosserovi, který nereaguje na žalobu</a>
+          </h2>
+
+          <p class="tech-news-description">Apple v novém podání uvádí, že Jon Prosser nenaznačil, zda a kdy odpoví na žalobu kvůli úniku obchodních tajemství týkajících se iOS 26.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/apple-says-jon-prosser-has-not-indicated-when-he-m/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">soudní spory</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+            <div class="tech-news-people">
+              <span class="entity-label">👤</span>
+              
+                <span class="entity-tag person-tag">Jon Prosser</span>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Theregister.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T22:42:00+00:00" data-utc="2025-10-24T22:42:00+00:00">
+              24.10.2025 22:42
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://regmedia.co.uk/2015/11/09/ransomware_439857465.jpg" alt="Everybody's warning about critical Windows Server WSUS bug exploits ... but Microsoft's mum - theregister.com" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://regmedia.co.uk/2015/11/09/ransomware_439857465.jpg" onerror="handleImageError(this, '/tech-news/everybodys-warning-about-critical-windows-server-w/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/everybodys-warning-about-critical-windows-server-w/">Everybody's warning about critical Windows Server WSUS bug exploits ... but Microsoft's mum - theregister.com</a>
+          </h2>
+
+          <p class="tech-news-description">: Critical 9.8-rated vulnerability affects Windows Server 2012 - 2025</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/everybodys-warning-about-critical-windows-server-w/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Theregister.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🔬</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Ars Technica</span>
+            <time class="tech-news-date" datetime="2025-10-24T21:29:30+00:00" data-utc="2025-10-24T21:29:30+00:00">
+              24.10.2025 21:29
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg" alt="Man takes herbal pain quackery, nearly dies, spends months in hospital - Ars Technica" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg" onerror="handleImageError(this, '/tech-news/man-takes-herbal-pain-quackery-nearly-dies-spends/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/man-takes-herbal-pain-quackery-nearly-dies-spends/">Man takes herbal pain quackery, nearly dies, spends months in hospital - Ars Technica</a>
+          </h2>
+
+          <p class="tech-news-description">The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/man-takes-herbal-pain-quackery-nearly-dies-spends/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Ars Technica
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-24T21:28:43+00:00" data-utc="2025-10-24T21:28:43+00:00">
+              24.10.2025 21:28
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-24-at-2.26.00%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.5252100560815%2C100%2C86.949579887837&w=1200" alt="Wordle has achievements now - The Verge" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-24-at-2.26.00%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.5252100560815%2C100%2C86.949579887837&w=1200" onerror="handleImageError(this, '/tech-news/wordle-has-achievements-now-the-verge/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/wordle-has-achievements-now-the-verge/">Wordle has achievements now - The Verge</a>
+          </h2>
+
+          <p class="tech-news-description">Spelling Bee and Connections have them, too.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/wordle-has-achievements-now-the-verge/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Phys.Org</span>
+            <time class="tech-news-date" datetime="2025-10-24T19:10:01+00:00" data-utc="2025-10-24T19:10:01+00:00">
+              24.10.2025 19:10
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://scx2.b-cdn.net/gfx/news/2025/google-claims-its-late.jpg" alt="Google claims its latest quantum algorithm can outperform supercomputers on a real-world task - Phys.org" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://scx2.b-cdn.net/gfx/news/2025/google-claims-its-late.jpg" onerror="handleImageError(this, '/tech-news/google-claims-its-latest-quantum-algorithm-can-out/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/google-claims-its-latest-quantum-algorithm-can-out/">Google claims its latest quantum algorithm can outperform supercomputers on a real-world task - Phys.org</a>
+          </h2>
+
+          <p class="tech-news-description">Researchers from Google Quantum AI report that their quantum processor, Willow, ran an algorithm for a quantum computer that solved a complex physics problem thousands of times faster than the world's most powerful classical supercomputers. If verified, this …</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/google-claims-its-latest-quantum-algorithm-can-out/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Phys.Org
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-24T18:03:42+00:00" data-utc="2025-10-24T18:03:42+00:00">
+              24.10.2025 18:03
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258032_neato_robot_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode - The Verge" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258032_neato_robot_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="handleImageError(this, '/tech-news/neatos-cloud-is-shutting-down-leaving-its-robovacs/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/neatos-cloud-is-shutting-down-leaving-its-robovacs/">Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode - The Verge</a>
+          </h2>
+
+          <p class="tech-news-description">Neato Robotics is officially ending support for cloud services for its robot vacuum cleaners.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/neatos-cloud-is-shutting-down-leaving-its-robovacs/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🔬</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Ars Technica</span>
+            <time class="tech-news-date" datetime="2025-10-24T17:07:57+00:00" data-utc="2025-10-24T17:07:57+00:00">
+              24.10.2025 17:07
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png" alt="Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png" onerror="handleImageError(this, '/tech-news/microsofts-mico-heightens-the-risks-of-parasocial/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/microsofts-mico-heightens-the-risks-of-parasocial/">Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica</a>
+          </h2>
+
+          <p class="tech-news-description">“It looks like you’re trying to find a friend. Would you like help?”…</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/microsofts-mico-heightens-the-risks-of-parasocial/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Ars Technica
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="sociální sítě" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🚀</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TechCrunch</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:38:02+00:00" data-utc="2025-10-24T16:38:02+00:00">
+              24.10.2025 16:38
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://techcrunch.com/wp-content/uploads/2025/10/1920x1280.png?resize=1200,800" alt="Instagram přidává historii shlédnutých Reels" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://techcrunch.com/wp-content/uploads/2025/10/1920x1280.png?resize=1200,800" onerror="handleImageError(this, '/tech-news/instagrams-latest-feature-lets-you-go-back-to-see/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/instagrams-latest-feature-lets-you-go-back-to-see/">Instagram přidává historii shlédnutých Reels</a>
+          </h2>
+
+          <p class="tech-news-description">Nová funkce Watch History umožňuje uživatelům vrátit se k dříve shlédnutým videím, které nestihli uložit. Instagram tak dohání konkurenční TikTok.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/instagrams-latest-feature-lets-you-go-back-to-see/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TechCrunch
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">sociální sítě</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Instagram</span>
+              
+                <span class="entity-tag company-tag">TechCrunch</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="sociální sítě" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🚀</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TechCrunch</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:38:02+00:00" data-utc="2025-10-24T16:38:02+00:00">
+              24.10.2025 16:38
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://techcrunch.com/wp-content/uploads/2025/10/1920x1280.png?resize=1200,800" alt="Instagram přidává historii shlédnutých Reels" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://techcrunch.com/wp-content/uploads/2025/10/1920x1280.png?resize=1200,800" onerror="handleImageError(this, '/tech-news/instagrams-latest-feature-lets-you-go-back-see-you/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/instagrams-latest-feature-lets-you-go-back-see-you/">Instagram přidává historii shlédnutých Reels</a>
+          </h2>
+
+          <p class="tech-news-description">Instagram zavádí funkci Watch History, která uživatelům umožní zpětně dohledat dříve shlédnutá videa v sekci Reels. Konkurenční TikTok tuto možnost nabízí již několik let.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/instagrams-latest-feature-lets-you-go-back-see-you/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TechCrunch
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">sociální sítě</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Instagram</span>
+              
+                <span class="entity-tag company-tag">TechCrunch</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Lifehacker.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:30:00+00:00" data-utc="2025-10-24T16:30:00+00:00">
+              24.10.2025 16:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://lifehacker.com/imagery/articles/01K8BDF03ZQK8WBMVP6C7F66FK/hero-image.fill.size_1200x675.jpg" alt="Microsoft Teams Will Soon Tell Your Boss When You're Not in the Office - Lifehacker" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://lifehacker.com/imagery/articles/01K8BDF03ZQK8WBMVP6C7F66FK/hero-image.fill.size_1200x675.jpg" onerror="handleImageError(this, '/tech-news/microsoft-teams-will-soon-tell-your-boss-when-your/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/microsoft-teams-will-soon-tell-your-boss-when-your/">Microsoft Teams Will Soon Tell Your Boss When You're Not in the Office - Lifehacker</a>
+          </h2>
+
+          <p class="tech-news-description">Teams is no team player.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/microsoft-teams-will-soon-tell-your-boss-when-your/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Lifehacker.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Wizards.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:18:56+00:00" data-utc="2025-10-24T16:18:56+00:00">
+              24.10.2025 16:18
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg" alt="Secret Lair Update: Manufacturing Delay - Magic: The Gathering" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg" onerror="handleImageError(this, '/tech-news/secret-lair-update-manufacturing-delay-magic-the-g/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/secret-lair-update-manufacturing-delay-magic-the-g/">Secret Lair Update: Manufacturing Delay - Magic: The Gathering</a>
+          </h2>
+
+          <p class="tech-news-description">An update regarding Secret Lair manufacturing delays.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/secret-lair-update-manufacturing-delay-magic-the-g/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Wizards.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Top Gear</span>
+            <time class="tech-news-date" datetime="2025-10-24T15:00:00+00:00" data-utc="2025-10-24T15:00:00+00:00">
+              24.10.2025 15:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.topgear.com/sites/default/files/cars-car/image/2025/10/TG%20-%20Ferrari%20296%20-%20RT1-012.jpg?w=1280&h=720" alt="Ferrari 296 Speciale Review 2025 - Top Gear" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.topgear.com/sites/default/files/cars-car/image/2025/10/TG%20-%20Ferrari%20296%20-%20RT1-012.jpg?w=1280&h=720" onerror="handleImageError(this, '/tech-news/ferrari-296-speciale-review-2025-top-gear/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ferrari-296-speciale-review-2025-top-gear/">Ferrari 296 Speciale Review 2025 - Top Gear</a>
+          </h2>
+
+          <p class="tech-news-description">A truly formidable achievement that's as amiable on road as it is astonishing on track</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ferrari-296-speciale-review-2025-top-gear/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Top Gear
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="operační systémy" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">ZDNet</span>
+            <time class="tech-news-date" datetime="2025-10-24T14:59:00+00:00" data-utc="2025-10-24T14:59:00+00:00">
+              24.10.2025 14:59
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.zdnet.com/a/img/resize/4e0724c123838a732d9eb3f715f08ca2db64236b/2025/02/27/06ecf7c8-b656-4946-b73f-c525a22b5b4f/dsc03180.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Microsoft označil můj počítač za 'příliš starý' pro Windows 11 - jak jsem ho přesto upgradoval za 5 minut" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.zdnet.com/a/img/resize/4e0724c123838a732d9eb3f715f08ca2db64236b/2025/02/27/06ecf7c8-b656-4946-b73f-c525a22b5b4f/dsc03180.jpg?auto=webp&fit=crop&height=675&width=1200" onerror="handleImageError(this, '/tech-news/microsoft-said-my-pc-was-too-old-to-run-windows-11/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/microsoft-said-my-pc-was-too-old-to-run-windows-11/">Microsoft označil můj počítač za 'příliš starý' pro Windows 11 - jak jsem ho přesto upgradoval za 5 minut</a>
+          </h2>
+
+          <p class="tech-news-description">Návod, jak nainstalovat Windows 11 na 'nekompatibilní' počítač v 10 jednoduchých krocích, i když nesplňuje oficiální požadavky Microsoftu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/microsoft-said-my-pc-was-too-old-to-run-windows-11/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na ZDNet
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">operační systémy</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní příslušenstv" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5google.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T14:30:00+00:00" data-utc="2025-10-24T14:30:00+00:00">
+              24.10.2025 14:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/belkin-pixel-10-qi2-stand-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Belkin 3-in-1 Qi2 nabíječka s 25W výkonem je ideální příslušenství pro Pixel 10" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/belkin-pixel-10-qi2-stand-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/belkins-3-in-1-qi2-25w-charging-stand-is-the-first/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/belkins-3-in-1-qi2-25w-charging-stand-is-the-first/">Belkin 3-in-1 Qi2 nabíječka s 25W výkonem je ideální příslušenství pro Pixel 10</a>
+          </h2>
+
+          <p class="tech-news-description">Kompaktní nabíjecí stojan od Belkinu využívá novou podporu Qi2 v telefonech Pixel 10 a nabízí bezdrátové nabíjení až 25W spolu s dalšími dvěma nabíjecími pozicemi.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/belkins-3-in-1-qi2-25w-charging-stand-is-the-first/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5google.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní příslušenstv</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Belkin</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní aplikace" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5Mac</span>
+            <time class="tech-news-date" datetime="2025-10-24T13:45:00+00:00" data-utc="2025-10-24T13:45:00+00:00">
+              24.10.2025 13:45
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/sora-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Aplikace Sora pro iOS brzy získá tři nové funkce" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/sora-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/sora-for-ios-will-add-three-new-features-soon-here/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/sora-for-ios-will-add-three-new-features-soon-here/">Aplikace Sora pro iOS brzy získá tři nové funkce</a>
+          </h2>
+
+          <p class="tech-news-description">OpenAI oznámilo chystané novinky pro mobilní aplikaci Sora - možnost vkládání vlastních postav do videí, nástroje pro editaci a skupinové kanály pro sdílení obsahu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/sora-for-ios-will-add-three-new-features-soon-here/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5Mac
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní aplikace</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">OpenAI</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Sammyfans.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T13:03:18+00:00" data-utc="2025-10-24T13:03:18+00:00">
+              24.10.2025 13:03
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.sammyfans.com/wp-content/uploads/2025/04/samsung-galaxy-s24-and-s23-img1-1000x576.jpg" alt="Samsung obnovil aktualizaci One UI 8 pro řadu Galaxy S23 a S24" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.sammyfans.com/wp-content/uploads/2025/04/samsung-galaxy-s24-and-s23-img1-1000x576.jpg" onerror="handleImageError(this, '/tech-news/samsung-one-ui-8-is-back-galaxy-s23-and-s24-series/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/samsung-one-ui-8-is-back-galaxy-s23-and-s24-series/">Samsung obnovil aktualizaci One UI 8 pro řadu Galaxy S23 a S24</a>
+          </h2>
+
+          <p class="tech-news-description">Samsung po krátké pauze znovu spustil distribuci aktualizace One UI 8 s Androidem 16 pro telefony Galaxy S23 a S24. Aktualizace byla dočasně zastavena kvůli hlášeným chybám a problémům s výkonem.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/samsung-one-ui-8-is-back-galaxy-s23-and-s24-series/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Sammyfans.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Futurism</span>
+            <time class="tech-news-date" datetime="2025-10-24T12:42:58+00:00" data-utc="2025-10-24T12:42:58+00:00">
+              24.10.2025 12:42
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://futurism.com/wp-content/uploads/2025/10/tech-industry-insiders-view-ai-overhyped.jpg?w=1200" alt="What Tech Insiders Actually Think of AI Is Extremely Revealing - Futurism" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://futurism.com/wp-content/uploads/2025/10/tech-industry-insiders-view-ai-overhyped.jpg?w=1200" onerror="handleImageError(this, '/tech-news/what-tech-insiders-actually-think-of-ai-is-extreme/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/what-tech-insiders-actually-think-of-ai-is-extreme/">What Tech Insiders Actually Think of AI Is Extremely Revealing - Futurism</a>
+          </h2>
+
+          <p class="tech-news-description">Tech entrepreneurs and insiders agree that the extreme AI hype is getting in the way of making the most out of the tech.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/what-tech-insiders-actually-think-of-ai-is-extreme/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Futurism
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-24T12:30:00+00:00" data-utc="2025-10-24T12:30:00+00:00">
+              24.10.2025 12:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1024_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="ChatGPT enters the browser wars - The Verge" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1024_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="handleImageError(this, '/tech-news/chatgpt-enters-the-browser-wars-the-verge/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/chatgpt-enters-the-browser-wars-the-verge/">ChatGPT enters the browser wars - The Verge</a>
+          </h2>
+
+          <p class="tech-news-description">On The Vergecast: ChatGPT Atlas, Samsung’s Galaxy XR, the future of Warner Bros. Discovery, and more.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/chatgpt-enters-the-browser-wars-the-verge/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="kancelářský software" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Tom's Guide</span>
+            <time class="tech-news-date" datetime="2025-10-24T10:38:25+00:00" data-utc="2025-10-24T10:38:25+00:00">
+              24.10.2025 10:38
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.mos.cms.futurecdn.net/ZNosfAN6RXL7bQy6sRhkHZ-2560-80.jpg" alt="Microsoft Teams začne v prosinci sledovat, kdo pracuje z kanceláře a kdo z domova" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.mos.cms.futurecdn.net/ZNosfAN6RXL7bQy6sRhkHZ-2560-80.jpg" onerror="handleImageError(this, '/tech-news/microsoft-teams-will-start-snitching-to-your-boss/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/microsoft-teams-will-start-snitching-to-your-boss/">Microsoft Teams začne v prosinci sledovat, kdo pracuje z kanceláře a kdo z domova</a>
+          </h2>
+
+          <p class="tech-news-description">Nová funkce v Microsoft Teams bude automaticky sledovat polohu zaměstnanců pomocí firemní Wi-Fi sítě a informovat nadřízené o tom, zda pracují z kanceláře nebo vzdáleně.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/microsoft-teams-will-start-snitching-to-your-boss/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Tom's Guide
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kancelářský software</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Microsoft</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">HYPEBEAST</span>
+            <time class="tech-news-date" datetime="2025-10-24T09:50:21+00:00" data-utc="2025-10-24T09:50:21+00:00">
+              24.10.2025 09:50
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F24%2Fnike-mind-002-light-smoke-grey-HQ4308-003-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max" alt="The Nike Mind 002 "Light Smoke Grey" Has an Official Release Date - hypebeast.com" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F24%2Fnike-mind-002-light-smoke-grey-HQ4308-003-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max" onerror="handleImageError(this, '/tech-news/the-nike-mind-002-light-smoke-grey-has-an-official/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-nike-mind-002-light-smoke-grey-has-an-official/">The Nike Mind 002 "Light Smoke Grey" Has an Official Release Date - hypebeast.com</a>
+          </h2>
+
+          <p class="tech-news-description">Arriving early 2026.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-nike-mind-002-light-smoke-grey-has-an-official/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na HYPEBEAST
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="sportovní aplikace" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Police</span>
+            <time class="tech-news-date" datetime="2025-10-24T00:49:00+00:00" data-utc="2025-10-24T00:49:00+00:00">
+              24.10.2025 00:49
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/garminfenix8-11.jpg?w=1600&h=900&fit=crop" alt="Strava stahuje žalobu proti Garminu po několika týdnech" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/garminfenix8-11.jpg?w=1600&h=900&fit=crop" onerror="handleImageError(this, '/tech-news/garmin-doesnt-even-blink-as-strava-voluntarily-dro/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/garmin-doesnt-even-blink-as-strava-voluntarily-dro/">Strava stahuje žalobu proti Garminu po několika týdnech</a>
+          </h2>
+
+          <p class="tech-news-description">Fitness aplikace Strava dobrovolně stáhla žalobu na porušení patentů proti výrobci nositelné elektroniky Garmin, což vyvolává otázky o budoucnosti jejich partnerství.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/garmin-doesnt-even-blink-as-strava-voluntarily-dro/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Police
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">sportovní aplikace</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Garmin</span>
+              
+                <span class="entity-tag company-tag">Strava</span>
+              
+                <span class="entity-tag company-tag">Android Police</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MacRumors</span>
+            <time class="tech-news-date" datetime="2025-10-24T21:30:33+00:00" data-utc="2025-10-24T21:30:33+00:00">
+              24.10.2025 21:30
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg" alt="iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg" onerror="handleImageError(this, '/tech-news/ios-261-beta-liquid-glass-battery-drain-test-tinte/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ios-261-beta-liquid-glass-battery-drain-test-tinte/">iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors</a>
+          </h2>
+
+          <p class="tech-news-description">In the fourth iOS 26.1 beta, Apple added a "Tinted" option that reduces the translucency of Liquid Glass for those who prefer a more opaque...</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ios-261-beta-liquid-glass-battery-drain-test-tinte/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MacRumors
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="soudní spory" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">MacRumors</span>
+            <time class="tech-news-date" datetime="2025-10-24T16:20:36+00:00" data-utc="2025-10-24T16:20:36+00:00">
+              24.10.2025 16:20
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg" alt="Únikář informací o iOS 26 žalovaný Applem je ve skutečnosti 'celoživotní Apple fanoušek" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg" onerror="handleImageError(this, '/tech-news/ios-26-leaker-being-sued-by-apple-is-actually-a-li/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ios-26-leaker-being-sued-by-apple-is-actually-a-li/">Únikář informací o iOS 26 žalovaný Applem je ve skutečnosti 'celoživotní Apple fanoušek</a>
+          </h2>
+
+          <p class="tech-news-description">V červenci Apple zažaloval známého YouTubera Jona Prossera a jeho známého Michaela Ramacciotiho kvůli údajné krádeži obchodních tajemství společnosti,...</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ios-26-leaker-being-sued-by-apple-is-actually-a-li/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na MacRumors
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">soudní spory</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+            <div class="tech-news-people">
+              <span class="entity-label">👤</span>
+              
+                <span class="entity-tag person-tag">Jon Prosser</span>
+              
+                <span class="entity-tag person-tag">Michael Ramacciotti</span>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="tech" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🚀</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TechCrunch</span>
+            <time class="tech-news-date" datetime="2025-10-24T15:39:13+00:00" data-utc="2025-10-24T15:39:13+00:00">
+              24.10.2025 15:39
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://techcrunch.com/wp-content/uploads/2024/05/gpt4o-featured.png?resize=1200,675" alt="OpenAI wants to power your browser, and that might be a security nightmare - TechCrunch" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://techcrunch.com/wp-content/uploads/2024/05/gpt4o-featured.png?resize=1200,675" onerror="handleImageError(this, '/tech-news/openai-wants-to-power-your-browser-and-that-might/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/openai-wants-to-power-your-browser-and-that-might/">OpenAI wants to power your browser, and that might be a security nightmare - TechCrunch</a>
+          </h2>
+
+          <p class="tech-news-description">The browser wars are heating up again, this time with AI in the driver’s seat.  OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language and even includes an “agent mode” that can complete tasks autonomously. I…</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/openai-wants-to-power-your-browser-and-that-might/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TechCrunch
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">tech</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="drony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Gizmodo.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T14:29:14+00:00" data-utc="2025-10-24T14:29:14+00:00">
+              24.10.2025 14:29
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://gizmodo.com/app/uploads/2024/10/DJI-Neo-3.jpg" alt="DJI údajně chystá nástupce malého dronu Neo" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://gizmodo.com/app/uploads/2024/10/DJI-Neo-3.jpg" onerror="handleImageError(this, '/tech-news/djis-tinniest-cheapest-drone-is-coming-back-to-ter/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/djis-tinniest-cheapest-drone-is-coming-back-to-ter/">DJI údajně chystá nástupce malého dronu Neo</a>
+          </h2>
+
+          <p class="tech-news-description">Uniklé informace naznačují příchod dronu DJI Neo 2 s delší výdrží baterie a lepšími senzory. Do USA se ale kvůli obavám z čínského sledování pravděpodobně nedostane.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/djis-tinniest-cheapest-drone-is-coming-back-to-ter/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Gizmodo.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">drony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">DJI</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="chytré svíčky" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Gizmodo.com</span>
+            <time class="tech-news-date" datetime="2025-10-24T13:24:05+00:00" data-utc="2025-10-24T13:24:05+00:00">
+              24.10.2025 13:24
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://gizmodo.com/app/uploads/2025/10/Smart-candles-1200x675.jpg" alt="SwitchBot představil chytrou lampu na ohřev vonných svíček" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://gizmodo.com/app/uploads/2025/10/Smart-candles-1200x675.jpg" onerror="handleImageError(this, '/tech-news/smart-candles-baby-we-fcking-did-it-gizmodo/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/smart-candles-baby-we-fcking-did-it-gizmodo/">SwitchBot představil chytrou lampu na ohřev vonných svíček</a>
+          </h2>
+
+          <p class="tech-news-description">Čínská firma SwitchBot uvedla lampu na ohřev svíček s připojením k internetu a podporou Matter protokolu. Zařízení umožňuje ovládat intenzitu vůně a světla přes mobilní aplikaci.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/smart-candles-baby-we-fcking-did-it-gizmodo/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Gizmodo.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">chytré svíčky</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Authority</span>
+            <time class="tech-news-date" datetime="2025-10-24T10:56:13+00:00" data-utc="2025-10-24T10:56:13+00:00">
+              24.10.2025 10:56
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.androidauthority.com/wp-content/uploads/2025/10/oneplus-15-official-sand-color-hero.jpg" alt="OnePlus 15 versus Galaxy S26: Spekulace o souboji vlajkových lodí roku 2026" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.androidauthority.com/wp-content/uploads/2025/10/oneplus-15-official-sand-color-hero.jpg" onerror="handleImageError(this, '/tech-news/the-oneplus-15-is-crushing-samsungs-2026-hopes-and/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/the-oneplus-15-is-crushing-samsungs-2026-hopes-and/">OnePlus 15 versus Galaxy S26: Spekulace o souboji vlajkových lodí roku 2026</a>
+          </h2>
+
+          <p class="tech-news-description">Úniky informací o připravovaných telefonech OnePlus 15 a Samsung Galaxy S26 naznačují možnou převahu čínského výrobce, zejména díky výrazně větší baterii a rychlejšímu nabíjení.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/the-oneplus-15-is-crushing-samsungs-2026-hopes-and/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Authority
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">OnePlus</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+    </div>
+  </div>
+
+  
+</div>
+
+<script>
+// Převod času na místní časovou zónu
+function convertTimesToLocal() {
+  const timeElements = document.querySelectorAll('.tech-news-date[data-utc]');
+
+  timeElements.forEach(timeEl => {
+    const utcTime = timeEl.dataset.utc;
+    if (!utcTime) return;
+
+    try {
+      const date = new Date(utcTime);
+
+      // Formát: dd.mm.yyyy hh:mm (CET/CEST)
+      const options = {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Europe/Prague', // CET/CEST
+        timeZoneName: 'short'
+      };
+
+      const formatter = new Intl.DateTimeFormat('cs-CZ', options);
+      const parts = formatter.formatToParts(date);
+
+      // Sestavit formát dd.mm.yyyy hh:mm CET
+      const day = parts.find(p => p.type === 'day').value;
+      const month = parts.find(p => p.type === 'month').value;
+      const year = parts.find(p => p.type === 'year').value;
+      const hour = parts.find(p => p.type === 'hour').value;
+      const minute = parts.find(p => p.type === 'minute').value;
+      const timeZone = parts.find(p => p.type === 'timeZoneName').value;
+
+      timeEl.textContent = `${day}.${month}.${year} ${hour}:${minute} ${timeZone}`;
+
+    } catch (e) {
+      console.warn('Chyba převodu času:', utcTime, e);
+    }
+  });
+}
+
+// Handling chyb obrázků
+function handleImageError(imgElement, articleUrl) {
+  console.warn('Obrázek se nenačetl:', imgElement.src);
+
+  // Zkusit backup URL z front matter pokud existuje
+  if (imgElement.dataset.backup) {
+    const backupImg = new Image();
+    backupImg.onload = function() {
+      imgElement.src = imgElement.dataset.backup;
+      return;
+    };
+    backupImg.onerror = function() {
+      showEmojiPlaceholder(imgElement);
+    };
+    backupImg.src = imgElement.dataset.backup;
+  } else {
+    showEmojiPlaceholder(imgElement);
+  }
+}
+
+// Zobrazit emoji placeholder místo obrázku
+function showEmojiPlaceholder(imgElement) {
+  const card = imgElement.closest('.tech-news-card');
+  const category = card ? card.dataset.category : 'default';
+
+  // Najít kategorii v mapě
+  const emojiMap = {
+    'ai': '🤖', 'machine-learning': '🧠', 'cybersecurity': '🔐', 'privacy': '🛡️',
+    'security': '🔒', 'space': '🚀', 'astronomy': '🌌', 'mobile': '📱',
+    'apps': '📲', 'software': '💻', 'web': '🌐', 'development': '⚙️',
+    'gaming': '🎮', 'graphics': '🎨', 'health': '🏥', 'medicine': '💊',
+    'energy': '⚡', 'climate': '🌍', 'automotive': '🚗', 'transport': '🚆',
+    'infrastructure': '🏗️', 'internet': '📡', 'media': '🎬', 'entertainment': '🎭',
+    'science': '🔬', 'research': '📊', 'technology': '🔧', 'hardware': '⚙️',
+    'cloud': '☁️', 'data': '📈', 'blockchain': '⛓️', 'crypto': '₿',
+    'network': '🌐', '5g': '📶', 'ar': '👓', 'vr': '🥽',
+    'robotics': '🤖', 'iot': '📡', 'wearables': '⌚', 'quantum': '⚛️',
+    'biotech': '🧬', 'nanotechnology': '🔬', 'herní-průmysl': '🎮',
+    'programování': '💻', 'umělá-inteligence': '🤖', 'default': '📰'
+  };
+
+  const emoji = emojiMap[category] || emojiMap['default'];
+
+  // Skrýt obrázek a zobrazit emoji container
+  imgElement.parentElement.innerHTML = `
+    <div class="emoji-placeholder" style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+      font-size: 3.5rem;
+      color: #cbd5e0;
+    ">
+      ${emoji}
+    </div>
+  `;
+
+  console.info('Zobrazeno emoji místo obrázku pro kategorii:', category);
+}
+
+function getFallbackImageForSource(url) {
+  if (url.includes('techcrunch.com')) {
+    return '/images/fallback-techcrunch.png';
+  } else if (url.includes('theverge.com')) {
+    return '/images/fallback-verge.png';
+  } else if (url.includes('wired.com')) {
+    return '/images/fallback-wired.png';
+  }
+  return '/images/fallback-tech-news.png';
+}
+
+function tryAlternativeImage(imgElement, alternatives, index) {
+  if (index >= alternatives.length) {
+    // Žádné další alternativy, skrýt obrázek
+    imgElement.parentElement.style.display = 'none';
+    return;
+  }
+
+  const altSrc = alternatives[index];
+  if (!altSrc) {
+    tryAlternativeImage(imgElement, alternatives, index + 1);
+    return;
+  }
+
+  // Zkusit načíst alternativní obrázek
+  const testImg = new Image();
+  testImg.onload = function() {
+    imgElement.src = altSrc;
+  };
+  testImg.onerror = function() {
+    tryAlternativeImage(imgElement, alternatives, index + 1);
+  };
+  testImg.src = altSrc;
+}
+
+// Inicializace stránky
+document.addEventListener('DOMContentLoaded', function() {
+  // Převést časy na místní časovou zónu
+  convertTimesToLocal();
+
+  // Setup filtry
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const newsCards = document.querySelectorAll('.tech-news-card');
+
+  updateFilterCounts(filterBtns, newsCards);
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => filterArticles(btn, filterBtns, newsCards));
+  });
+
+  function updateFilterCounts(buttons, cards) {
+    buttons.forEach(btn => {
+      if (btn.dataset.filter === 'all') {
+        btn.textContent = `${btn.textContent.split(' (')[0]} (${cards.length})`;
+        return;
+      }
+
+      const count = Array.from(cards).filter(card =>
+        card.dataset.importance === btn.dataset.filter
+      ).length;
+
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+      btn.style.display = count > 0 ? 'inline-block' : 'none';
+    });
+  }
+
+  function filterArticles(activeBtn, allBtns, cards) {
+    allBtns.forEach(b => b.classList.remove('active'));
+    activeBtn.classList.add('active');
+
+    const filter = activeBtn.dataset.filter;
+    const type = activeBtn.dataset.type;
+
+    cards.forEach(card => {
+      const show = filter === 'all' || card.dataset[type] === filter;
+      card.style.display = show ? 'block' : 'none';
+    });
+  }
+});
+</script>
+
+<style>
+/* Navigace dnů */
+.date-navigation {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date-selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.date-nav-link {
+  background: #3182ce;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: all 0.2s;
+  min-width: 44px;
+  display: inline-block;
+  text-align: center;
+}
+
+.date-nav-link:hover {
+  background: #2c5282;
+  transform: translateY(-1px);
+  color: white;
+}
+
+.current-date {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  min-width: 200px;
+  justify-content: center;
+}
+
+.current-date-display {
+  font-weight: 600;
+  color: #2d3748;
+  font-size: 1.1rem;
+}
+
+.date-info {
+  text-align: center;
+  color: #718096;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.articles-count {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-weight: 600;
+}
+
+/* Responzivní navigace */
+@media (max-width: 768px) {
+  .date-selector {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .current-date {
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: auto;
+  }
+
+  .date-nav-link {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+.tech-news-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 2rem 2rem;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.tech-news-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tech-news-header h1 {
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.tech-news-description {
+  color: #718096;
+  font-size: 1.1rem;
+}
+
+.tech-news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem 2rem;
+  background: #f7fafc;
+  border-radius: 12px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 25px;
+  background: white;
+  color: #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.filter-btn:hover {
+  border-color: #3182ce;
+  background: #ebf8ff;
+  transform: translateY(-1px);
+}
+
+.filter-btn.active {
+  background: #3182ce;
+  border-color: #3182ce;
+  color: white;
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+}
+
+.filter-separator {
+  font-weight: 600;
+  color: #4a5568;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.9rem;
+  flex-basis: 100%;
+  text-align: left;
+}
+
+.tech-news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tech-news-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: 1px solid #e2e8f0;
+}
+
+.tech-news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  border-color: #3182ce;
+}
+
+.tech-news-meta {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem 1rem 0.5rem;
+  position: relative;
+}
+
+.tech-news-emoji {
+  font-size: 1.25rem;
+}
+
+.tech-news-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.tech-news-source {
+  font-weight: 600;
+  color: #3182ce;
+  font-size: 0.9rem;
+}
+
+.tech-news-date {
+  color: #718096;
+  font-size: 0.8rem;
+}
+
+.importance-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: auto;
+  white-space: nowrap;
+  border: 1px solid currentColor;
+  opacity: 0.9;
+}
+
+/* Specifické styly pro různé úrovně důležitosti */
+.tech-news-card[data-importance="5"] {
+  border-left: 4px solid #dc2626;
+  box-shadow: 0 4px 6px rgba(220, 38, 38, 0.1);
+}
+
+.tech-news-card[data-importance="4"] {
+  border-left: 4px solid #ea580c;
+  box-shadow: 0 4px 6px rgba(234, 88, 12, 0.1);
+}
+
+.tech-news-card[data-importance="3"] {
+  border-left: 4px solid #2563eb;
+}
+
+.tech-news-card[data-importance="2"] {
+  border-left: 4px solid #059669;
+}
+
+.tech-news-card[data-importance="1"] {
+  border-left: 4px solid #6b7280;
+}
+
+.tech-news-image {
+  height: 200px;
+  overflow: hidden;
+  margin: 0.5rem 1rem;
+  border-radius: 8px;
+  background: #f7fafc;
+}
+
+.tech-news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tech-news-card:hover .tech-news-image img {
+  transform: scale(1.05);
+}
+
+.tech-news-content {
+  padding: 1rem 1rem 1.5rem;
+}
+
+.tech-news-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.tech-news-title a {
+  color: #2d3748;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.tech-news-title a:hover {
+  color: #3182ce;
+}
+
+.tech-news-card .tech-news-description {
+  color: #718096;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.tech-news-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-news-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.tech-news-link:hover {
+  color: #2c5282;
+}
+
+.external-icon {
+  flex-shrink: 0;
+}
+
+.tech-news-category {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+/* Firmy a osobnosti */
+.tech-news-entities {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.tech-news-companies,
+.tech-news-people {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tech-news-companies:last-child,
+.tech-news-people:last-child {
+  margin-bottom: 0;
+}
+
+.entity-label {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.entity-tag {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.company-tag {
+  background: #f0f9ff;
+  color: #0c4a6e;
+  border: 1px solid #bae6fd;
+}
+
+.person-tag {
+  background: #fef7ed;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
+}
+
+.tech-news-empty {
+  text-align: center;
+  padding: 3rem;
+  color: #718096;
+  background: #f7fafc;
+  border-radius: 12px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 1200px) {
+  .tech-news-container {
+    padding: 2rem 1rem;
+  }
+  .tech-news-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .tech-news-container {
+    padding: 1rem 0.5rem;
+  }
+  .tech-news-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .tech-news-filters {
+    gap: 0.25rem;
+  }
+
+  .filter-btn {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .tech-news-header h1 {
+    font-size: 2rem;
+  }
+}
+</style>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
