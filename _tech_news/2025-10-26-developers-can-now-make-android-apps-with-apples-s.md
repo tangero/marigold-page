@@ -5,8 +5,8 @@ companies:
 - Google
 date: '2025-10-26 11:23:52'
 description: Apple oficiálně vydal první preview verzi Swift SDK pro Android, což
-  umožňuje vývojářům vytvářet nativní aplikace pro Android pomocí programovacího jazyka
-  Swift a sdílet kód mezi iOS a Androidem.
+  umožňuje vývojářům vytvářet aplikace pro Android pomocí programovacího jazyka Swift
+  a sdílet kód mezi iOS a Androidem.
 importance: 4
 layout: tech_news_article
 original_title: Developers Can Now Make Android Apps With Apple's Swift - MacRumors
@@ -24,31 +24,31 @@ urlToImageBackup: https://images.macrumors.com/t/V3iYMSg1je82t9Xn22bktQn4hQE=/16
 
 ## Souhrn
 
-Apple tento týden publikoval první preview verzi Swift SDK pro Android, která umožňuje vývojářům vytvářet aplikace pro Android pomocí programovacího jazyka Swift s oficiální podporou nástrojů. Toto rozšíření výrazně zjednodušuje sdílení kódu mezi platformami iOS a Android a představuje významný krok v otevření ekosystému Swift.
+Apple tento týden zveřejnil první preview verzi Swift SDK pro Android, která umožňuje vývojářům vytvářet aplikace pro Android pomocí programovacího jazyka Swift s oficiální podporou nástrojů. Toto rozhodnutí výrazně usnadňuje sdílení kódu mezi platformami iOS a Android a představuje významný krok v otevření ekosystému Swift pro konkurenční platformu.
 
 ## Klíčové body
 
-- Swift SDK pro Android je k dispozici v nightly preview verzi pro Windows, Linux a macOS
-- Interoperabilita s Androidem je zajištěna pomocí swift-java, které automaticky generuje vazby mezi Java a Swift kódem
-- Více než 25 % všech balíčků na Swift Package Index již podporuje Android
-- K dispozici je kompletní dokumentace včetně průvodce Getting Started a ukázkových projektů
-- V červnu 2024 byla založena Android Working Group v rámci open-source projektu Swift
+- Swift SDK pro Android je dostupné v nightly preview verzi jako součást instalátoru Swift pro Windows nebo jako samostatný balíček pro Linux a macOS
+- Interoperabilita s Androidem je zajištěna pomocí swift-java, který automaticky generuje vazby mezi Javou a Swiftem
+- Více než 25 % všech balíčků v Swift Package Index již podporuje Android
+- Apple v červnu 2024 založil Android Working Group v rámci open-source projektu Swift
+- K dispozici je nová příručka Getting Started s kompletními instrukcemi a ukázkovými projekty
 
 ## Podrobnosti
 
-Dosud museli vývojáři, kteří chtěli používat Swift pro vývoj aplikací na Androidu, spoléhat na neoficiální komunitní řešení bez záruky stability a podpory. Nové SDK mění situaci tím, že poskytuje oficiálně podporované nástroje přímo od správců jazyka Swift.
+Vydání Swift SDK pro Android představuje zásadní změnu v přístupu Apple k multiplatformnímu vývoji. Dosud museli vývojáři, kteří chtěli používat Swift pro Android aplikace, spoléhat na neoficiální komunitní řešení bez záruky stability a podpory. Nové SDK přináší oficiálně podporované nástroje, což znamená vyšší spolehlivost a lepší integraci do vývojového procesu.
 
-Klíčovou komponentou celého řešení je swift-java, nástroj pro automatické generování vazeb mezi kódem v jazyce Java a Swift. To umožňuje vývojářům využívat existující Android API a Java knihovny přímo ze Swift kódu, aniž by museli přepisovat funkčnost nebo vytvářet vlastní wrappery. Vývojáři tak mohou kombinovat Swift kód s nativními Android API a stávajícími Java komponentami.
+Klíčovou technologií umožňující tuto integraci je swift-java, nástroj pro automatické generování vazeb mezi kódem v Javě a Swiftu. To vývojářům umožňuje využívat existující Android API a Java knihovny přímo ze Swift kódu, aniž by museli přepisovat celou aplikaci. Mohou tak kombinovat výhody Swift syntaxe a bezpečnostních funkcí s rozsáhlým ekosystémem Android nástrojů.
 
-Swift Package Index, centrální repozitář pro Swift balíčky, nyní explicitně označuje balíčky s podporou Androidu. Skutečnost, že již více než čtvrtina všech dostupných balíčků funguje na Androidu, poskytuje vývojářům solidní základ znovupoužitelného kódu a knihoven. To výrazně snižuje vstupní bariéru pro vývoj multiplatformních aplikací.
+Swift Package Index, centrální repozitář pro Swift balíčky, nyní označuje balíčky s podporou Androidu a ukazuje, že více než čtvrtina všech dostupných balíčků již funguje na této platformě. To vytváří solidní základ znovupoužitelného kódu pro vývojáře, kteří se rozhodnou Swift pro Android využít.
 
-Pro vývojáře, kteří chtějí začít, je k dispozici komplexní Getting Started průvodce s detailními instrukcemi pro nastavení vývojového prostředí. Součástí jsou také ukázkové projekty demonstrující kompletní workflow od vytvoření projektu až po sestavení finální aplikace. Android Working Group připravuje vision dokument, který stanoví budoucí priority vývoje, a průběh prací je transparentně sledován na veřejném project boardu.
+Android Working Group, která byla ustanovena v červnu minulého roku, nyní připravuje dokument s vizí budoucího směřování projektu a sleduje pokrok na veřejné projektové nástabuli. Vývojáři mají k dispozici kompletní dokumentaci včetně ukázkových projektů demonstrujících celý workflow od nastavení po finální build.
 
 ## Proč je to důležité
 
-Tento krok představuje významnou změnu v přístupu Apple k multiplatformnímu vývoji. Swift, původně vytvořený výhradně pro ekosystém Apple, se postupně transformuje na skutečně multiplatformní jazyk použitelný pro iOS, macOS, Windows, Linux a nyní i Android. Pro vývojáře to znamená možnost sdílet business logiku, datové modely a další komponenty mezi platformami, což výrazně snižuje náklady na vývoj a údržbu aplikací.
+Tento krok má potenciál významně změnitландшафт multiplatformního vývoje mobilních aplikací. Swift se od svého uvedení v roce 2014 etabloval jako moderní, bezpečný a výkonný programovací jazyk pro iOS vývoj. Jeho oficiální rozšíření na Android může přilákat vývojáře, kteří dosud váhali kvůli nutnosti udržovat dvě oddělené kódové báze v různých jazycích.
 
-Oficiální podpora Androidu může přilákat vývojáře, kteří dosud váhali investovat do Swift kvůli jeho omezení na Apple platformy. Zároveň to firmám s existujícími iOS aplikacemi v Swift usnadňuje expanzi na Android bez nutnosti kompletního přepisu do Kotlinu nebo Javy. Dlouhodobě to může vést k větší konvergenci vývojářských nástrojů a postupů napříč mobilními platformami.
+Pro firmy to znamená potenciální úsporu nákladů a času, protože mohou sdílet větší část kódu mezi platformami. Zároveň to posiluje pozici Swiftu jako open-source projektu nezávislého na Apple ekosystému, což může přilákat širší vývojářskou komunitu. Dlouhodobě by tato iniciativa mohla vést k větší konvergenci vývojových praktik mezi iOS a Android platformami.
 
 ---
 

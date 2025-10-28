@@ -26,25 +26,25 @@ S blížícím se koncem podpory Windows 10 v říjnu 2025 hledají uživatelé 
 
 ## Klíčové body
 
-- Zorin OS nabízí rozhraní prakticky identické s Windows 10, což minimalizuje nutnost přeškolení uživatelů
+- Zorin OS nabízí rozhraní téměř identické s Windows 10, což minimalizuje potřebu učení se novému systému
 - Funguje na starších počítačích, které nesplňují přísné hardwarové požadavky Windows 11 (TPM 2.0, moderní procesor)
-- Distribuce je postavena na Ubuntu, což zajišťuje pravidelné bezpečnostní aktualizace a širokou kompatibilitu
-- Na rozdíl od neoficiálních úprav jako Tiny11 jde o oficiální a stabilní operační systém
-- Instalace aplikací probíhá přes Software Store podobně jako v moderních operačních systémech
+- Založen na Ubuntu, což zajišťuje pravidelné bezpečnostní aktualizace a širokou kompatibilitu
+- Software Store umožňuje jednoduchou instalaci aplikací bez nutnosti používat příkazovou řádku
+- Na rozdíl od neoficiálních řešení jako Tiny11 jde o oficiální, stabilní distribuci bez rizikových úprav
 
 ## Podrobnosti
 
-Microsoft ukončí podporu Windows 10 v říjnu 2025, což vytváří problém pro miliony počítačů vyrobených před rokem 2018. Tyto stroje často nesplňují hardwarové požadavky Windows 11, především kvůli absenci TPM 2.0 čipu nebo nedostatečně modernímu procesoru. Příkladem je HP EliteBook 850 G2 z roku 2015, který je stále funkční, ale pro Windows 11 nevhodný.
+Konec podpory Windows 10 představuje problém pro miliony uživatelů se staršími počítači. Typickým příkladem je HP EliteBook 850 G2 z roku 2015 – plně funkční stroj, který však nesplňuje požadavky Windows 11 na TPM 2.0 čip a novější generaci procesorů. Microsoft odhaduje, že stovky milionů počítačů se ocitnou v podobné situaci.
 
-Zorin OS řeší tento problém nabídkou linuxového systému s uživatelským rozhraním, které věrně napodobuje Windows. Distribuce nabízí několik přednastavených rozložení plochy, včetně varianty připomínající Windows 10 s panelem úloh ve spodní části obrazovky a tlačítkem Start. Uživatelé tak mohou pokračovat v práci bez nutnosti učit se nové ovládání.
+Zorin OS řeší tento problém nabídkou linuxového systému s minimální křivkou učení. Distribuce obsahuje několik předpřipravených rozložení pracovní plochy, z nichž jedno věrně napodobuje vzhled Windows 10 včetně umístění hlavního menu, panelu úloh a systémových ikon. Uživatelé tak mohou pokračovat v práci bez nutnosti přizpůsobovat se radikálně odlišnému prostředí.
 
-Na rozdíl od Linux Mint, který má vlastní klasické rozhraní, nebo neoficiálního Tiny11, který je zjednodušenou verzí Windows s potenciálními bezpečnostními riziky, Zorin OS kombinuje výhody obou světů. Poskytuje stabilitu a bezpečnost Ubuntu s uživatelskou přívětivostí Windows. Systém nevyžaduje žádné nestandardní úpravy ani obcházení bezpečnostních mechanismů.
+Na rozdíl od Linux Mint, který se zaměřuje na tradiční linuxový desktop s vlastním designem, Zorin OS cílí přímo na uživatele přecházející z Windows. Oproti neoficiálním modifikacím Windows 11 jako Tiny11, které odstraňují bezpečnostní funkce a mohou být nestabilní, nabízí Zorin OS oficiálně podporované řešení s pravidelnou údržbou.
 
-Instalace aplikací probíhá přes grafické rozhraní Software Store, kde jsou k dispozici tisíce programů. Systém také podporuje běh některých Windows aplikací prostřednictvím kompatibilní vrstvy Wine.
+Distribuce je založena na Ubuntu, což znamená přístup k rozsáhlému ekosystému aplikací a ovladačů. Software Store poskytuje grafické rozhraní pro instalaci programů, takže uživatelé nemusí ovládat příkazovou řádku. Systém podporuje běžné kancelářské aplikace, webové prohlížeče a většinu hardware bez dodatečné konfigurace.
 
 ## Proč je to důležité
 
-Konec podpory Windows 10 představuje významný problém pro udržitelnost IT infrastruktury. Miliony funkčních počítačů by se mohly stát elektronickým odpadem pouze kvůli softwarovým omezením. Zorin OS a podobné distribuce nabízejí ekologičtější alternativu, která prodlužuje životnost hardwaru bez kompromisů v bezpečnosti. Pro firmy a instituce s rozsáhlým parkem starších počítačů může jít o úsporu značných finančních prostředků, které by jinak musely investovat do nového hardwaru.
+Konec podpory Windows 10 vytváří významný tlak na uživatele starších počítačů. Přechod na Windows 11 vyžaduje nový hardware v hodnotě tisíců korun, což není pro všechny uživatele ekonomicky smysluplné, zejména pokud jejich současné počítače stále dobře fungují. Zorin OS představuje legitimní alternativu, která umožňuje pokračovat v používání stávajícího hardware bez kompromisů v bezpečnosti nebo funkčnosti. Pro širší ekosystém jde o další důkaz rostoucí role Linuxu na desktopu, zejména v segmentu uživatelů hledajících stabilní a bezpečný systém bez vendor lock-in a nucených aktualizací.
 
 ---
 

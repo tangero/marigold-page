@@ -4,8 +4,9 @@ companies:
 - Apple
 - Temu
 date: '2025-10-26 15:27:00'
-description: Tvůrce kanálu MimFix zkusil opravit iPhone XR pomocí levné náhradní obrazovky
-  z čínského e-shopu Temu. Výsledek nebyl příliš uspokojivý.
+description: Tvůrce opravářských videí MimFix vyzkoušel levnou náhradní obrazovku
+  z čínského e-shopu Temu. Displej sice fungoval, ale kvalita byla výrazně horší než
+  originál.
 importance: 2
 layout: tech_news_article
 original_title: Man buys replacement part for his broken iPhone from Temu to see if
@@ -16,17 +17,17 @@ source:
   emoji: 📰
   id: null
   name: Supercarblondie.com
-title: YouTuber testoval opravu iPhonu s náhradním dílem z Temu za 500 korun
+title: YouTuber testoval opravu iPhonu s náhradním dílem z Temu za 23 dolarů
 url: https://supercarblondie.com/man-buys-temu-part-to-fix-broken-iphone/
 urlToImage: https://supercarblondie.com/wp-content/uploads/broken-iphone.webp
 urlToImageBackup: https://supercarblondie.com/wp-content/uploads/broken-iphone.webp
 ---
 
-YouTuber MimFix provedl experiment s opravou iPhonu XR pomocí náhradní obrazovky značky Anfyco objednané z čínského e-shopu Temu za 23 dolarů (přibližně 500 korun). Sada obsahovala kromě displeje také sadu šroubováků, lepidlo, ochrannou fólii a čisticí hadřík.
+YouTuber MimFix provedl experiment s opravou iPhonu XR pomocí levné náhradní obrazovky z čínského e-shopu Temu. Kompletní sada včetně displeje značky Anfyco, šroubováků, lepidla, ochranné fólie a čisticí utěrky stála 23 dolarů.
 
-Po otevření telefonu zjistil, že zařízení bylo opravováno již dříve a předchozí technik uvnitř zanechal modrou fólii, která blokovala odvod tepla. Po přenesení flex kabelu reproduktoru (nutného pro funkci Face ID) na nový displej a vyčištění rámu izopropylalkoholem telefon znovu sestavil.
+Při samotné opravě se ukázalo, že telefon byl již dříve rozebírán a předchozí opravář zanechal uvnitř modrou fólii, která blokovala odvod tepla. Po přenesení flex kabelu reproduktoru (nutného pro funkci Face ID) na nový displej a vyčištění rámu izopropylalkoholem telefon opět fungoval. Obrazovka reagovala na dotyk a iOS 18 automaticky aktivoval funkci True Tone.
 
-Obrazovka se sice rozsvítila a dotyková funkce fungovala, dokonce se automaticky aktivovala funkce True Tone v iOS 18, ale kvalita zobrazení byla výrazně horší než u originálního dílu. Barvy byly vybledlé a šedivé. MimFix označil opravu za vyhozené peníze a doporučil držet se originálních nebo kvalitních repasovaných náhradních dílů. Pro běžné uživatele je z experimentu zřejmé, že extrémně levné náhradní díly z čínských e-shopů sice mohou telefon zprovoznit, ale za cenu výrazně horší kvality zobrazení.
+Kvalita zobrazení však byla výrazně horší než u originálního dílu – barvy působily vybledlým a šedivým dojmem. MimFix označil opravu za "vyhozené peníze" a doporučil raději investovat do originálních nebo kvalitních repasovaných náhradních dílů. Video slouží jako varování před příliš levnými náhradními díly z čínských e-shopů.
 
 ---
 

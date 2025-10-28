@@ -2,7 +2,7 @@
 category: chytré televize
 date: '2025-10-26 11:00:00'
 description: Chytré televize poslouchají více, než si většina lidí uvědomuje. Existuje
-  však jednoduchý způsob, jak to zastavit.
+  však jednoduchý způsob, jak tuto funkci vypnout.
 importance: 3
 layout: tech_news_article
 original_title: Yes, your TV probably has a microphone in it — here's how to turn
@@ -21,27 +21,26 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/uK8b5fuFZgu6v85a4vtH4J-2000-
 
 ## Souhrn
 
-Většina chytrých televizí je vybavena mikrofony, které mohou naslouchat i v době, kdy nepoužíváte hlasové příkazy. Tyto skryté mikrofony umožňují funkce jako hlasové vyhledávání a virtuální asistenty, ale zároveň představují potenciální riziko pro soukromí. Vypnutí těchto mikrofonů je naštěstí poměrně jednoduché.
+Většina moderních chytrých televizí obsahuje vestavěné mikrofony, které mohou naslouchat i v době, kdy aktivně nepoužíváte hlasové příkazy. Tyto mikrofony umožňují funkce jako hlasové vyhledávání a virtuální asistenty, zároveň však představují potenciální riziko pro soukromí. Vypnutí těchto mikrofonů je naštěstí relativně jednoduché.
 
 ## Klíčové body
 
-- Většina chytrých televizí obsahuje vestavěné mikrofony pro hlasové ovládání a asistenty
-- Mnoho výrobců zahrnuje fyzický přepínač pro vypnutí mikrofonu, ale málokdy na něj upozorňují
-- Pokud fyzický přepínač chybí, mikrofon lze vypnout v nastavení systému
-- U televizí Samsung se přepínač obvykle nachází na spodní hraně vpravo při pohledu na obrazovku
-- Vypnutí mikrofonu trvá jen několik minut a výrazně zvyšuje kontrolu nad soukromím
+- Většina chytrých televizí má vestavěné mikrofony pro hlasové ovládání a virtuální asistenty
+- Mnoho výrobců zahrnuje fyzický přepínač pro vypnutí mikrofonu, který však spotřebitelům aktivně neukazují
+- U televizí bez fyzického přepínače lze mikrofon deaktivovat v nastavení systému
+- Proces vypnutí trvá jen několik minut a poskytuje uživatelům větší kontrolu nad soukromím
 
 ## Podrobnosti
 
-Chytré televize se staly běžnou součástí domácností, ale málokdo si uvědomuje, že obsahují aktivní mikrofony. Tyto mikrofony slouží k pohodlným funkcím jako hlasové vyhledávání obsahu nebo ovládání virtuálních asistentů, ale zároveň mohou teoreticky naslouchat nepřetržitě.
+Prvním krokem při vypínání mikrofonu v chytré televizi je kontrola fyzického přepínače. Mnoho výrobců tento hardwarový prvek zahrnuje, ale málokdy na něj upozorňuje v marketingových materiálech nebo uživatelských příručkách. Přepínač je třeba hledat na spodní nebo boční hraně televizoru – jedná se o malý posuvný mechanismus, někdy označený textem jako "Built-in MIC". U televizorů Samsung se tento přepínač často nachází na spodní hraně směrem k pravé straně při pohledu na obrazovku. Po přesunutí do polohy "off" televize obvykle zobrazí oznámení potvrzující deaktivaci mikrofonu. Toto hardwarové řešení zajišťuje, že mikrofon skutečně nemůže fungovat, dokud je přepínač vypnutý.
 
-Nejefektivnější metodou vypnutí mikrofonu je použití fyzického přepínače, který mnoho výrobců do televizí integruje, ačkoliv o něm spotřebitele aktivně neinformují. Tento přepínač se obvykle nachází na spodní nebo boční hraně televizoru a může být označen textem "Built-in MIC" nebo podobným popiskem. U televizí Samsung je typicky umístěn na spodní hraně směrem k pravé straně při pohledu na obrazovku. Po přesunutí přepínače do polohy "off" televize obvykle zobrazí oznámení potvrzující deaktivaci mikrofonu. Výhodou hardwarového řešení je, že mikrofon skutečně nemůže fungovat, dokud je přepínač vypnutý.
+Pokud televize fyzický přepínač nemá, je nutné navigovat do systémového menu. Přestože přesná cesta se liší podle výrobce, proces je u většiny značek podobný. Začíná se stisknutím tlačítka Home nebo Settings na dálkovém ovladači. Následně je třeba hledat hlavní kategorie jako "System", "General" nebo "Privacy", které obvykle obsahují možnosti související s hlasem. V těchto sekcích se objevují termíny jako "Voice Recognition", "Microphone" nebo "Voice Assistant". Vypnutí těchto funkcí efektivně deaktivuje naslouchání mikrofonu.
 
-Pokud televize fyzický přepínač nemá, je nutné mikrofon vypnout prostřednictvím systémového menu. Přesná cesta se liší podle výrobce, ale obecný postup je podobný napříč značkami. Proces začíná stisknutím tlačítka Home nebo Settings na dálkovém ovladači. V hlavním menu je třeba hledat kategorie jako "System", "General" nebo "Privacy", které obvykle obsahují nastavení týkající se hlasových funkcí. V těchto sekcích se pak nachází možnosti označené jako "Voice Recognition", "Microphone" nebo "Voice Assistant", které lze deaktivovat.
+Je důležité si uvědomit, že mikrofony v chytrých televizích slouží primárně pro legitimní funkce – hlasové vyhledávání obsahu, ovládání hlasitosti a dalších parametrů bez nutnosti používat dálkový ovladač, nebo interakci s virtuálními asistenty jako Google Assistant či Amazon Alexa. Problém nastává v okamžiku, kdy uživatelé nevědí o existenci těchto mikrofonů nebo nemají jasnou představu o tom, kdy přesně jsou aktivní a jaká data se zpracovávají.
 
 ## Proč je to důležité
 
-Otázka soukromí v souvislosti s chytrými zařízeními nabývá na významu s rostoucím počtem připojených zařízení v domácnostech. Mikrofony v televizích představují potenciální bezpečnostní riziko, zejména pokud uživatelé nevědí o jejich existenci nebo nemají kontrolu nad tím, kdy jsou aktivní. Schopnost jednoduše vypnout tyto mikrofony dává uživatelům větší kontrolu nad vlastním soukromím a umožňuje jim vyvážit pohodlí hlasového ovládání s ochranou osobních údajů. Pro mnoho uživatelů může být překvapením, že jejich televize vůbec mikrofon obsahuje, což podtrhuje důležitost transparentnosti výrobců ohledně funkcí jejich zařízení.
+Otázka soukromí v kontextu chytrých domácích zařízení nabývá na významu s rostoucím počtem připojených zařízení v domácnostech. Chytré televize představují specifické riziko, protože se nacházejí v obývacích pokojích a ložnicích, kde lidé vedou soukromé konverzace. Zatímco výrobci tvrdí, že mikrofony aktivně naslouchají pouze po aktivaci hlasovým příkazem, technická možnost pasivního naslouchání existuje. Schopnost jednoduše vypnout mikrofon – ať už fyzickým přepínačem nebo v nastavení – dává uživatelům kontrolu nad tím, co jejich zařízení může slyšet. Tato informace je zvláště relevantní v době, kdy se stále více diskutuje o ochraně osobních údajů a transparentnosti technologických společností ohledně sběru dat.
 
 ---
 

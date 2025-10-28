@@ -3,8 +3,9 @@ category: mobilní prohlížeče
 companies:
 - Google
 date: '2025-10-26 11:45:00'
-description: Vivaldi nabízí na Androidu pokročilé možnosti přizpůsobení, které převyšují
-  Chrome i další konkurenční prohlížeče.
+description: Vivaldi nabízí na Androidu pokročilé možnosti přizpůsobení a funkce,
+  které Chrome postrádá. Autor článku vysvětluje, proč tento prohlížeč upřednostňuje
+  před konkurencí.
 importance: 3
 layout: tech_news_article
 original_title: I swapped Chrome for Vivaldi on Android, and now I can't go back -
@@ -15,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Android Police
-title: Proč uživatel přešel z Chrome na Vivaldi na Androidu a nechce se vrátit
+title: Proč jsem na Androidu přešel z Chrome na Vivaldi a už se nevrátím
 url: https://www.androidpolice.com/swapped-chrome-for-vivaldi-on-android/
 urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/chrome-vs-vivaldi-android.jpg?w=1600&h=900&fit=crop
 urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/chrome-vs-vivaldi-android.jpg?w=1600&h=900&fit=crop
@@ -23,29 +24,27 @@ urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/20
 
 ## Souhrn
 
-Prohlížeč Vivaldi pro Android získává pozornost díky rozsáhlým možnostem přizpůsobení, které výrazně převyšují nabídku Google Chrome. Autor článku po testování několika alternativ včetně Samsung Internet, Edge, Firefox a Brave zvolil právě Vivaldi jako svůj hlavní mobilní prohlížeč a neplánuje návrat ke konkurenci.
+Vivaldi se ukazuje jako zajímavá alternativa k Chrome na Androidu díky rozsáhlým možnostem přizpůsobení a funkcím, které konkurenční prohlížeče nenabízejí. Autor článku testoval několik prohlížečů včetně Edge, Firefox a Brave, ale právě Vivaldi ho přesvědčil natolik, že se k Chrome nechce vracet.
 
 ## Klíčové body
 
-- Vivaldi umožňuje přizpůsobit pozici panelů a adresního řádku (nahoře nebo dole) již při prvním spuštění
-- Nabízí desktopový režim zobrazení záložek vedle sebe, na rozdíl od mřížkového zobrazení v Chrome
-- Uživatel může plně upravit panel nástrojů a odstranit nevyužívané tlačítka, což Chrome neumožňuje
-- Poskytuje konzistentnější zážitek napříč různými Android zařízeními než Samsung Internet
-- Kombinuje praktické funkce s možností detailního přizpůsobení podle individuálních potřeb
+- Vivaldi umožňuje přizpůsobit pozici panelu s kartami a adresního řádku (nahoře nebo dole)
+- Nabízí možnost přepnout z mřížkového zobrazení karet na desktop-like rozložení se záložkami vedle sebe
+- Uživatel může plně upravit panel nástrojů a odstranit nebo přidat tlačítka podle potřeby
+- Chrome má fixní rozložení panelu nástrojů bez možnosti úprav
+- Samsung Internet funguje optimálně pouze na zařízeních Galaxy, což omezuje uživatele s více značkami telefonů
 
 ## Podrobnosti
 
-Autor článku původně používal Samsung Internet, který však optimálně funguje pouze na zařízeních Galaxy. Funkce jako asistence při prohlížení nebo plná podpora rozšíření nefungují správně na jiných Android zařízeních. Pro uživatele, kteří často střídají telefony různých značek (Google Pixel, Oppo, Xiaomi), to představuje problém s konzistencí.
+Autor článku původně používal Samsung Internet jako alternativu k Chrome, ale narazil na problém s konzistencí napříč zařízeními. Funkce jako browsing assist nebo plná podpora rozšíření nefungují správně na telefonech jiných výrobců než Samsung. Při častém střídání mezi Google Pixel 10 a telefony od Oppo nebo Xiaomi se Samsung Internet ukázal jako nevhodné řešení.
 
-Vivaldi se od konkurence odlišuje především hloubkou přizpůsobení. Zatímco většina prohlížečů nabízí základní možnosti úprav, Vivaldi poskytuje kontrolu nad téměř každým aspektem uživatelského rozhraní. Uživatel může zvolit, zda chce mít záložky a adresní řádek nahoře nebo dole, podobně jako v Chrome. Klíčovým rozdílem je však možnost přepnout z mřížkového zobrazení záložek na desktopový režim, kde se všechny záložky zobrazují vedle sebe jako v počítačovém prohlížeči.
+Vivaldi se odlišuje už při prvním spuštění, kdy nabízí širokou škálu možností přizpůsobení. Uživatel si může vybrat umístění karet a adresního řádku podobně jako v Chrome, ale navíc získává možnost změnit způsob zobrazení přepínače karet. Zatímco Chrome používá výhradně mřížkové zobrazení, Vivaldi nabízí rozložení podobné desktopovým prohlížečům, kde se všechny karty zobrazují vedle sebe. Samozřejmě je možné vrátit se zpět k mřížkovému zobrazení.
 
-Další výhodou je možnost upravit panel nástrojů. Chrome má pevně dané tlačítko domů, přepínač záložek a menu, které nelze odstranit ani přesunout. Vivaldi naopak umožňuje plnou kontrolu nad tím, která tlačítka se v panelu zobrazí. Standardně je k dispozici tlačítko pro přidání do záložek, ale uživatel ho může odstranit, pokud tuto funkci nevyužívá.
-
-Tyto možnosti nejsou jen kosmetickou záležitostí - umožňují skutečně přizpůsobit prohlížeč konkrétnímu způsobu používání, což u mobilních prohlížečů bývá vzácné.
+Klíčovým rozdílem oproti Chrome je možnost úpravy panelu nástrojů. V Chrome jsou tlačítka jako ikona domovské stránky, přepínač karet a menu pevně fixována bez možnosti změny. Vivaldi naopak umožňuje plně přizpůsobit menu bar podle preferencí uživatele. Ve výchozím nastavení obsahuje tlačítko pro přidání do záložek, ale uživatel ho může odstranit, pokud tuto funkci nevyužívá.
 
 ## Proč je to důležité
 
-Trh mobilních prohlížečů je dlouhodobě dominován Chrome, který těží především z předinstalace na Android zařízeních. Vivaldi ukazuje, že existuje prostor pro alternativy zaměřené na pokročilé uživatele, kteří chtějí větší kontrolu nad svým prohlížečem. Zatímco Chrome se zaměřuje na jednoduchost a jednotnost, Vivaldi sází na flexibilitu a přizpůsobitelnost. Pro uživatele, kteří používají více zaření různých výrobců, může být konzistentní zážitek napříč platformami důležitějším faktorem než optimalizace pro konkrétní značku, jak ji nabízí Samsung Internet.
+Trh mobilních prohlížečů je dominován Chrome, ale alternativy jako Vivaldi ukazují, že existuje prostor pro inovace v oblasti uživatelského rozhraní a přizpůsobení. Pro uživatele, kteří často střídají zařízení různých výrobců, je důležitá konzistentní zkušenost napříč platformami. Vivaldi nabízí řešení, které není vázané na konkrétního výrobce hardwaru, na rozdíl od Samsung Internet. Rozsáhlé možnosti přizpůsobení mohou oslovit pokročilé uživatele, kteří chtějí mít nad svým prohlížečem větší kontrolu než jakou nabízí mainstream řešení.
 
 ---
 
