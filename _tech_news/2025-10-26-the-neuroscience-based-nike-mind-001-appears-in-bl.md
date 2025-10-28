@@ -1,10 +1,10 @@
 ---
-category: obuv
+category: sportovní obuv
 date: '2025-10-26 22:53:57'
-description: Nike představuje další barevnou variantu pantofle Mind 001, tentokrát
-  v černém provedení s červenými akcenty. Jde o obuv s 22 pěnovými moduly, která má
-  stimulovat smyslové oblasti mozku.
-importance: 1
+description: Nike představilo černou variantu pantofle Mind 001, která využívá neurovědní
+  principy pro stimulaci mozku prostřednictvím chodidel. Prodej začne v lednu 2026
+  za 95 dolarů.
+importance: 2
 layout: tech_news_article
 original_title: The Neuroscience-Based Nike Mind 001 Appears in "Black" - hypebeast.com
 publishedAt: '2025-10-26T22:53:57+00:00'
@@ -13,17 +13,17 @@ source:
   emoji: 📰
   id: null
   name: HYPEBEAST
-title: Nike Mind 001 v černém provedení dorazí na trh v lednu
+title: Nike Mind 001 v černém provedení má dorazit na začátku roku 2026
 url: https://hypebeast.com/2025/10/nike-mind-001-black-hq4307-001-release-info
 urlToImage: https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F26%2Fnike-mind-001-black-hq4307-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max
 urlToImageBackup: https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F26%2Fnike-mind-001-black-hq4307-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max
 ---
 
-Nike pokračuje v propagaci nové řady obuvi Mind, která má podle výrobce využívat poznatky z neurovědy. Po variantách "Light Smoke Grey" a "Solar Red" se nyní objevuje černá verze pantofle Mind 001.
+Nike ukázalo další barevnou variantu svého nadcházejícího modelu Mind 001 v černém provedení. Jde o pantofli, která je součástí nové produktové řady Mind, představené v rámci iniciativy NIKE, Inc. Sport Offense pod vedením nového CEO Elliotta Hilla.
 
-Model využívá 22 nezávislých pěnových modulů v podešvi, které mají podle Nike aktivovat klíčové smyslové oblasti mozku prostřednictvím stimulace chodidla. Černé provedení doplňují akcenty v barvě "Hyper Crimson" na specifické podešvi. Cena je stanovena na 95 dolarů.
+Model Mind 001 využívá 22 nezávislých pěnových modulů na podrážce, které mají podle výrobce aktivovat klíčové smyslové oblasti mozku prostřednictvím stimulace chodidel. Černá varianta kombinuje celočerný svršek s kontrastní mezipodrážkou v barvě "Hyper Crimson".
 
-Obuv je součástí širší iniciativy Nike Sport Offense, kterou oznámil současný generální ředitel Elliott Hill. Platforma kombinuje inovační, designové a produktové týmy značek Nike, Jordan Brand a Converse. Řada Mind představuje jeden ze čtyř pilířů této strategie a zahrnuje kromě pantofle Mind 001 také tenisku Mind 002. Debut modelu je plánován na začátek ledna 2026 prostřednictvím platformy Nike SNKRS a vybraných prodejců.
+Nike plánuje uvedení modelu Mind 001 na trh v lednu 2026 za cenu 95 dolarů přes platformu Nike SNKRS a vybrané prodejce. Kromě černé verze se v minulých týdnech objevily také varianty "Light Smoke Grey" a "Solar Red". Konkrétní datum vydání černé verze však zatím nebylo oznámeno.
 
 ---
 
