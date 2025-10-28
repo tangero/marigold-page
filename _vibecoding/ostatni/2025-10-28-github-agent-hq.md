@@ -55,7 +55,7 @@ Agent HQ také podporuje integraci externích nástrojů přes MCP - propojení 
 
 GitHub v oznámení nezmiňuje, pro jaké úkoly Agent HQ není vhodný. Nejasné zůstává například, jak dobře agenti zvládají netriviální architektonická rozhodnutí, nebo jak se vyrovnají s doménovými znalostmi specifickými pro konkrétní projekt, které nejsou nikde zdokumentovány.
 
-![Přidání zvýrazněn syntaxe](https://www.marigold.cz/assets/copilot-agent.webp)
+![Přidání zvýraznění syntaxe](/assets/copilot-agent.webp)
 
 ## Kontrola kvality a metriky
 
