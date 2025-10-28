@@ -3,8 +3,8 @@ category: mobilní telefony
 companies:
 - Google
 date: '2025-10-27 04:58:22'
-description: Majitelé Pixel 10 hlásí výrazné zpoždění oznámení, což je dlouhodobý
-  problém telefonů Google. Jediné řešení vyžaduje vypnutí funkce Doze.
+description: Majitelé nového Pixel 10 hlásí výrazná zpoždění oznámení, což je dlouhodobý
+  problém telefonů Google, který se táhne napříč generacemi.
 importance: 3
 layout: tech_news_article
 original_title: It's 2025, and Pixels still don't seem to deliver notifications on
@@ -23,31 +23,31 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/07/An
 
 ## Souhrn
 
-Majitelé nové řady Pixel 10 hlásí závažné problémy se zpožděným doručováním oznámení, což potvrzuje, že tento dlouhodobý problém telefonů Google přetrvává i v roce 2025. Uživatelé na Redditu uvádějí, že oznámení z aplikace Google Home a dalších služeb přicházejí se značným zpožděním, často až po odemčení telefonu.
+Majitelé nově vydaného Pixel 10 hlásí závažné problémy se zpožděnými oznámeními, přičemž některá upozornění přicházejí až po odemčení telefonu. Jedná se o dlouhodobý problém telefonů Pixel, který se opakuje napříč generacemi od Pixel 4 až po současný Pixel 10 a Google jej nedokáže vyřešit.
 
 ## Klíčové body
 
-- Majitelé Pixel 10 hlásí výrazné zpoždění oznámení, zejména u Google Home a aplikací pro monitorování dětí
-- Problém se táhne napříč generacemi od Pixel 4 až po současný Pixel 10
-- Oznámení často přicházejí najednou až po manuálním odemčení telefonu
-- Jediné funkční řešení vyžaduje vypnutí funkce Doze, což negativně ovlivňuje výdrž baterie
-- Problém přetrvává bez ohledu na verzi softwaru nebo generaci hardwaru
+- Uživatelé Pixel 10 na Redditu hlásí výrazná zpoždění oznámení z aplikací Google Home a dalších služeb
+- Oznámení se často zobrazují až po manuálním odemčení telefonu, kdy najednou dorazí celá série zpožděných upozornění
+- Problém se táhne napříč všemi generacemi od Pixel 4 po Pixel 10, bez ohledu na verzi softwaru či hardwarovou generaci
+- Jediné funkční řešení vyžaduje vypnutí funkce Doze, což má negativní dopad na výdrž baterie
+- Problém se týká zejména kritických oznámení z kamerových systémů a monitorování dětí
 
 ## Podrobnosti
 
-Problémy se zpožděnými oznámeními na telefonech Pixel nejsou novou záležitostí, ale jejich přetrvávání až do roku 2025 a nejnovější řady Pixel 10 ukazuje na systémový problém, který Google nedokázal vyřešit. Uživatelé na Redditu popisují konkrétní případy, kdy oznámení z kamerového systému Google Home nebo z aplikace Cradlewise pro monitorování kojenců přicházejí s výrazným zpožděním.
+Zpožděná oznámení představují jeden z nejpersistentnějších problémů telefonů Pixel. Uživatelé na diskusním fóru Reddit popisují situace, kdy oznámení z kamerového systému Google Home nebo z monitoru dětské postýlky Cradlewise přicházejí s výrazným zpožděním, což u bezpečnostních a monitorovacích aplikací představuje zásadní problém.
 
-Jeden z uživatelů popsal situaci, kdy po zakoupení Pixel 10 Pro při uvedení na trh začal zažívat nemožnost dostávat oznámení včas. Oznámení z Google Home o aktivitě kamery a z aplikace pro sledování dítěte přicházejí se zpožděním, přičemž často se objeví najednou ve velkém množství až po odemčení telefonu.
+Jeden z uživatelů popsal typickou situaci: "Koupil jsem Pixel 10 Pro při uvedení na trh a od té doby je nemožné dostávat oznámení včas. Mám Google Home s oznámeními z kamer a Cradlewise pro hlídání miminka, a všechna oznámení přicházejí se zpožděním. Často odemknu telefon a vidím záplavu oznámení z Google Home o aktivitě před kamerou."
 
-Problém se táhne napříč mnoha generacemi telefonů Pixel, od Pixel 4 až po současnou řadu Pixel 10. Jedná se o jeden z těch přetrvávajících problémů, které se nikdy plně nevyřeší, bez ohledu na verzi Androidu nebo generaci hardwaru. Komunita uživatelů identifikovala, že jediným skutečně funkčním řešením je vypnutí funkce Doze, která je součástí systému správy spotřeby energie Androidu.
+Problém není nový - táhne se napříč všemi generacemi Pixelů od modelu Pixel 4 až po současný Pixel 10. Komunita uživatelů identifikovala, že za zpoždění pravděpodobně stojí funkce Doze, která má šetřit baterii omezením aktivit aplikací na pozadí. Vypnutí této funkce sice problém řeší, ale za cenu výrazně kratší výdrže baterie.
 
-Doze je mechanismus, který přepíná telefon do režimu hlubokého spánku při nečinnosti, čímž šetří baterii. Vypnutí této funkce však znamená výrazně horší výdrž baterie, což není ideální kompromis pro uživatele, kteří očekávají, že jejich telefon bude fungovat správně bez nutnosti takových zásahů.
+Google dosud neposkytl oficiální řešení ani vysvětlení, proč se problém opakuje napříč generacemi hardware i verzemi Androidu. Pro uživatele, kteří spoléhají na včasná oznámení z bezpečnostních kamer, monitorů dětí nebo jiných kritických aplikací, představuje tato situace vážné omezení funkčnosti zařízení.
 
 ## Proč je to důležité
 
-Tato situace odhaluje závažný problém v produktové strategii Google. Zatímco společnost prezentuje telefony Pixel jako referenční zařízení pro Android s nejlepší softwarovou podporou, základní funkce jako doručování oznámení nefunguje spolehlivě. Pro uživatele, kteří spoléhají na oznámení z bezpečnostních kamer, monitorování dětí nebo jiných kritických aplikací, je toto nepřijatelné.
+Opakující se problém se zpožděnými oznámeními na telefonech Pixel ukazuje na systémový problém v přístupu Google k optimalizaci baterie a správě aplikací na pozadí. Zatímco konkurenční výrobci jako Samsung nebo Apple dokázali najít rovnováhu mezi výdrží baterie a spolehlivým doručováním oznámení, Google tento problém neřeší ani po letech stížností uživatelů.
 
-Přetrvávání problému napříč tolika generacemi naznačuje, že se nejedná o jednoduchý bug, ale o hlubší architektonický problém v implementaci správy spotřeby energie a doručování oznámení v Androidu. Google zjevně nedokázal najít rovnováhu mezi úsporou baterie a spolehlivým doručováním oznámení, což poškozuje důvěryhodnost značky Pixel.
+Situace je obzvláště problematická vzhledem k tomu, že Google propaguje integraci svých telefonů s ekosystémem služeb včetně Google Home. Pokud uživatelé nemohou spoléhat na včasná oznámení z vlastních služeb Google, podkopává to důvěru v celý ekosystém. Pro segment uživatelů využívajících telefony pro bezpečnostní a monitorovací účely může být tento problém důvodem k přechodu ke konkurenci.
 
 ---
 
