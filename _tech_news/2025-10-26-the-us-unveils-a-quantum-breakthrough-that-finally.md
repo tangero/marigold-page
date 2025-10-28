@@ -1,8 +1,8 @@
 ---
 category: kvantové technologie
 date: '2025-10-26 22:18:00'
-description: Článek tvrdí, že americké prototypy dosahují 60% účinnosti přeměny tepla
-  na elektřinu pomocí termofotovoltaiky, což by mohlo vyřešit problém přerušovanosti
+description: Článek tvrdí, že americké prototypy dosahují 60% účinnosti při přeměně
+  tepla na elektřinu pomocí termofotovoltaiky, což by mohlo vyřešit problém přerušovanosti
   obnovitelných zdrojů.
 importance: 2
 layout: tech_news_article
@@ -14,17 +14,19 @@ source:
   emoji: 📰
   id: null
   name: Carrollcountyobserver.com
-title: USA údajně představily kvantový průlom v ukládání obnovitelné energie
+title: USA údajně představily kvantový průlom v ukládání energie z obnovitelných zdrojů
 url: https://carrollcountyobserver.com/2025/10/26/the-us-unveils-a-quantum-breakthrough-that-finally-solves-renewable-energys-biggest-problem/
 urlToImage: https://carrollcountyobserver.com/wp-content/uploads/2025/10/The-US-Unveils-a-Quantum-Breakthrough-That-Finally-Solves-Renewable.jpg
 urlToImageBackup: https://carrollcountyobserver.com/wp-content/uploads/2025/10/The-US-Unveils-a-Quantum-Breakthrough-That-Finally-Solves-Renewable.jpg
 ---
 
-Článek z neověřeného zdroje tvrdí, že Spojené státy dosáhly průlomu v ukládání energie pomocí kombinace termálního úložiště a termofotovoltaických převodníků s údajnou účinností až 60 %. Systém má fungovat tak, že místo nabíjení baterií ukládá teplo a následně ho přeměňuje na elektřinu pomocí přesně naladěných fotonů.
+Článek prezentuje údajný průlom v ukládání energie z obnovitelných zdrojů, který kombinuje systém tepelného ukládání energie (TES) s termofotovoltaickým (TPV) konvertorem. Podle textu dosahují rané prototypy až 60% účinnosti při přeměně tepla na elektřinu.
 
-Jde však o typický příklad clickbaitového obsahu bez konkrétních zdrojů, jmen výzkumníků, institucí nebo odkazů na vědecké publikace. Text neuvádí, která americká instituce nebo firma za výzkumem stojí, kde byly výsledky publikovány, ani kdy k údajnému průlomu došlo. Zmínka o "kvantovém průlomu" v titulku je zavádějící - samotná termofotovoltaika není kvantová technologie v užším slova smyslu.
+Systém funguje tak, že místo nabíjení baterií zachycuje teplo, ukládá ho a následně emituje přesně naladěné fotony, které fotovoltaické články přeměňují na elektřinu. Klíčem má být nanostrukturovaný emitor, který kontroluje spektrum vyzařování tak, aby odpovídalo citlivosti fotovoltaických článků, čímž minimalizuje ztráty.
 
-Termofotovoltaické systémy skutečně existují a výzkum v této oblasti probíhá, například na MIT byly v roce 2022 publikovány výsledky s účinností kolem 40 %. Tvrzená 60% účinnost by byla významným pokrokem, ale bez ověřitelných zdrojů a recenzovaných dat jde pouze o spekulaci. Článek navíc obsahuje nesouvisející odkazy na "10 nejspolehlivějších aut" a "nebezpečné Android aplikace", což je typický znak nekvalitního contentu zaměřeného na generování kliknutí.
+Článek však vykazuje několik problematických rysů. Chybí konkrétní informace o výzkumném týmu, instituci nebo publikaci. Není uvedeno, kde byl výzkum proveden, kdo za ním stojí, ani odkaz na vědeckou práci. Text obsahuje reklamy na nesouvisející témata (spolehlivá auta, nebezpečné Android aplikace), což je typické pro clickbaitové weby. Zdroj carrollcountyobserver.com není renomovaný technologický nebo vědecký portál.
+
+Termofotovoltaika sama o sobě není nová technologie a výzkum v této oblasti probíhá již delší dobu. Tvrzená 60% účinnost by byla významná, ale bez ověřitelných zdrojů a recenzovaných dat zůstává pouze spekulací. Skutečné průlomy v této oblasti bývají publikovány v odborných časopisech a prezentovány etablovanými institucemi.
 
 ---
 

@@ -18,11 +18,11 @@ urlToImage: https://www.jalopnik.com/img/gallery/the-pros-cons-of-3-cylinder-eng
 urlToImageBackup: https://www.jalopnik.com/img/gallery/the-pros-cons-of-3-cylinder-engines/l-intro-1761241834.jpg
 ---
 
-Článek se zabývá tříválcovými spalovacími motory v automobilech, což je téma z oblasti automobilového průmyslu, nikoli technologií v užším slova smyslu. Tříválcové motory nejsou novinkou a již dlouho se používají v ekonomických vozidlech v Japonsku. Nyní se dostávají i na americký trh v modelech značek Buick, Chevrolet a Nissan.
+Článek z automobilového magazínu Jalopnik rozebírá vlastnosti tříválcových motorů, které se začínají objevovat v modelech značek Buick, Chevrolet a Nissan na americkém trhu. Jde o technologii, která je v Japonsku běžná již delší dobu, především v úsporných vozidlech.
 
-Hlavní výhodou tříválcových motorů je nižší spotřeba paliva oproti čtyřválcovým verzím. To je dáno nejen jedním válcem méně, ale také nižší hmotností celého motoru díky menšímu počtu komponentů. Mezi nevýhody patří vyšší vibrace při provozu a horší výkon při rychlé akceleraci na vyšších rychlostech.
+Hlavní výhodou tříválcových motorů je nižší spotřeba paliva oproti čtyřválcům, což je dáno nejen menším počtem válců, ale především nižší hmotností celého motoru díky menšímu počtu komponentů. Mezi nevýhody patří vyšší vibrace při provozu a horší výkon při rychlé akceleraci na vyšších rychlostech.
 
-Článek zmiňuje jako srovnání motor Dodge Hurricane, jehož standardní verze dosahuje výkonu až 420 koňských sil, což překonává větší motory V8 Hemi o objemu 5,7 a 6,4 litru. Jde o běžný automobilový obsah zaměřený na spotřebitele, nikoli o technologickou novinku relevantní pro IT sektor.
+Článek nemá relevanci pro technologický obsah zaměřený na IT, umělou inteligenci či robotiku. Jedná se o běžný automobilový článek diskutující tradiční spalovací motory, nikoli o elektrické pohony, autonomní řízení či jiné pokročilé technologie relevantní pro technologický sektor.
 
 ---
 

@@ -4,7 +4,8 @@ companies:
 - Microsoft
 date: '2025-10-26 21:16:00'
 description: Microsoft nedávno vydal řadu nových funkcí pro Windows 11 verze 25H2
-  a 24H2. Ačkoliv se zavádějí postupně, lze je aktivovat okamžitě.
+  a 24H2. Přestože se zavádějí postupně, lze je aktivovat okamžitě pomocí speciálního
+  nástroje.
 importance: 3
 layout: tech_news_article
 original_title: How to enable all new features in Windows 11 version 25H2 and 24H2
@@ -23,29 +24,29 @@ urlToImageBackup: https://cdn.neowin.com/news/images/uploaded/2025/09/1759249181
 
 ## Souhrn
 
-Microsoft vydal nové funkce pro Windows 11 verze 25H2 a 24H2, které se uživatelům zpřístupňují postupně prostřednictvím řízeného zavádění. Existuje však způsob, jak tyto funkce aktivovat okamžitě bez čekání na automatické rozšíření dostupnosti.
+Microsoft vydal nové funkce pro Windows 11 verze 25H2 a 24H2, které se uživatelům zpřístupňují postupně prostřednictvím řízeného zavádění. Uživatelé však mohou obejít toto postupné zavádění a aktivovat všechny nové funkce okamžitě pomocí nástroje ViVeTool, který umožňuje manuální povolení experimentálních a skrytých funkcí operačního systému.
 
 ## Klíčové body
 
-- Microsoft používá postupné zavádění nových funkcí ve Windows 11, což znamená, že ne všichni uživatelé je dostanou současně
-- Nové funkce jsou dostupné pro verze 25H2 (nejnovější) a 24H2 operačního systému
-- Uživatelé mohou obejít postupné zavádění a aktivovat funkce manuálně
-- Proces vyžaduje zásah do systémových nastavení nebo použití specializovaných nástrojů
-- Aktivace funkcí před oficiálním rozšířením může nést určitá rizika stability
+- Microsoft zavádí nové funkce pro Windows 11 verze 24H2 a 25H2 postupně, ne všem uživatelům najednou
+- Pomocí nástroje ViVeTool lze obejít postupné zavádění a aktivovat funkce okamžitě
+- Mezi nové funkce patří vylepšení Průzkumníka souborů, Nastavení systému a dalších systémových komponent
+- Aktivace vyžaduje použití příkazového řádku s administrátorskými právy
+- Některé funkce mohou být nestabilní, protože nejsou oficiálně dokončené
 
 ## Podrobnosti
 
-Microsoft tradičně zavádí nové funkce ve Windows 11 postupně, aby minimalizoval potenciální problémy a mohl monitorovat stabilitu systému na menší skupině uživatelů. Tento přístup, známý jako controlled feature rollout, znamená, že i když máte nainstalovanou nejnovější verzi systému, některé funkce mohou zůstat skryté nebo neaktivní.
+Microsoft tradičně používá postupné zavádění nových funkcí ve Windows 11, což znamená, že ne všichni uživatelé získají nové funkce současně. Tento přístup umožňuje společnosti monitorovat stabilitu a výkon nových funkcí na menší skupině uživatelů před plným nasazením. Pro uživatele, kteří nechtějí čekat, existuje řešení v podobě nástroje ViVeTool.
 
-Verze 24H2 představuje hlavní aktualizaci Windows 11 z roku 2024, zatímco 25H2 je nejnovější vydání z roku 2025. Obě verze obsahují řadu vylepšení uživatelského rozhraní, nové nástroje pro produktivitu a vylepšení výkonu. Mezi typické novinky patří aktualizace Průzkumníka souborů, vylepšení nabídky Start, nové možnosti přizpůsobení a integrace funkcí umělé inteligence.
+ViVeTool je neoficiální nástroj třetí strany, který umožňuje aktivovat skryté a experimentální funkce Windows 11 prostřednictvím manipulace s interními přepínači funkcí. Nástroj funguje přes příkazový řádek a vyžaduje administrátorská oprávnění. Uživatelé musí stáhnout ViVeTool, rozbalit jej do složky a spustit příkazový řádek jako správce.
 
-Pro aktivaci skrytých funkcí existuje několik metod. Nejčastěji se používají nástroje třetích stran jako ViVeTool, který umožňuje manipulovat s feature flags v systému Windows. Tyto příznaky řídí, které funkce jsou aktivní. Alternativně lze použít úpravy registru Windows nebo PowerShell skripty, které mění systémová nastavení.
+Pro aktivaci konkrétních funkcí je nutné zadat specifické příkazy s identifikačními čísly funkcí. Každá nová funkce má své unikátní ID, které se zadává do příkazu ve formátu "vivetool /enable /id:XXXXXXXX". Po provedení příkazů je nutné restartovat počítač, aby se změny projevily.
 
-Je důležité poznamenat, že předčasná aktivace funkcí může vést k nestabilitě systému, neočekávanému chování nebo konfliktům s existujícím softwarem. Microsoft tyto funkce skrývá z důvodu - často potřebují další testování v reálném prostředí.
+Mezi nové funkce ve verzi 24H2 a 25H2 patří vylepšení Průzkumníka souborů s modernějším rozhraním, aktualizace aplikace Nastavení s novými možnostmi konfigurace, vylepšení správy úloh a další optimalizace systému. Některé funkce se týkají také vylepšení výkonu a energetické efektivity.
 
 ## Proč je to důležité
 
-Postupné zavádění funkcí je běžnou praxí u všech velkých operačních systémů, ale možnost manuální aktivace dává pokročilým uživatelům a IT profesionálům kontrolu nad tím, kdy a jak nové funkce nasadí. Pro běžné uživatele to představuje způsob, jak získat přístup k novinkám dříve, než je Microsoft oficiálně zpřístupní. Zároveň to ilustruje rostoucí trend v softwarovém průmyslu, kde jsou funkce často přítomny v kódu dlouho před jejich oficiálním spuštěním, což umožňuje flexibilnější správu vydání a rychlejší reakci na problémy.
+Postupné zavádění funkcí je běžnou praxí u velkých operačních systémů, ale pro pokročilé uživatele a IT profesionály může být frustrující čekat na nové funkce. ViVeTool představuje způsob, jak získat okamžitý přístup k novinkám, což je užitečné zejména pro testování a hodnocení nových funkcí v podnikových prostředích před jejich oficiálním nasazením. Je však třeba mít na paměti, že aktivace funkcí tímto způsobem může vést k nestabilitě systému, protože funkce nemusí být plně otestované. Uživatelé by měli postupovat opatrně a ideálně testovat na neprodukčních systémech.
 
 ---
 
