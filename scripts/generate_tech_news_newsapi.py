@@ -10,6 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 import logging
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 # Načíst .env soubor
 load_dotenv()
@@ -27,6 +28,211 @@ class NewsAPITechNewsGenerator:
         self.news_api_key = os.getenv('NEWS_API_KEY', '')
         self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY', '')
         self.translation_enabled = self.openrouter_api_key and self.openrouter_api_key != 'skip'
+
+    def fetch_article_content(self, url, max_length=2000):
+        """Stáhne a parsuje plný text článku z URL"""
+        try:
+            logger.debug(f"📄 Stahuji obsah článku: {url[:50]}...")
+
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Marigold.cz Tech News Bot; +https://marigold.cz)'
+            }
+
+            response = requests.get(url, headers=headers, timeout=10)
+
+            if response.status_code != 200:
+                logger.warning(f"⚠️ HTTP {response.status_code} pro {url}")
+                return None
+
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Odstranit skripty, styly a navigaci
+            for element in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
+                element.decompose()
+
+            # Pokusit se najít hlavní obsah článku
+            article_content = None
+
+            # Zkusit běžné selektory pro obsah článku
+            for selector in ['article', 'main', '.article-content', '.post-content', '.entry-content']:
+                content = soup.select_one(selector)
+                if content:
+                    article_content = content
+                    break
+
+            # Pokud nenalezeno, použít celý body
+            if not article_content:
+                article_content = soup.body
+
+            if not article_content:
+                logger.warning(f"⚠️ Nepodařilo se extrahovat obsah z {url}")
+                return None
+
+            # Získat text a vyčistit
+            text = article_content.get_text(separator=' ', strip=True)
+
+            # Vyčistit whitespace
+            text = re.sub(r'\s+', ' ', text)
+
+            # Omezit délku
+            if len(text) > max_length:
+                text = text[:max_length] + '...'
+
+            logger.debug(f"✅ Extrahováno {len(text)} znaků")
+            return text
+
+        except Exception as e:
+            logger.warning(f"⚠️ Chyba při stahování článku {url}: {e}")
+            return None
+
+    def analyze_and_enhance_article(self, url, title, description, category):
+        """Kombinovaná LLM analýza: detekce důležitosti + generování rozšířeného obsahu"""
+        if not self.translation_enabled:
+            # Fallback bez LLM
+            return {
+                'importance': 3,
+                'czech_title': title,
+                'czech_description': description,
+                'enhanced_content': description
+            }
+
+        try:
+            # Stáhnout plný článek
+            full_text = self.fetch_article_content(url)
+
+            # Připravit kontext pro LLM
+            article_context = f"""
+NADPIS: {title}
+POPIS: {description}
+KATEGORIE: {category}
+"""
+
+            if full_text:
+                article_context += f"\nPLNÝ TEXT (zkráceno): {full_text}\n"
+
+            # Kombinovaný prompt pro důležitost + obsah
+            prompt = f"""Analyzuj tento technologický článek a vytvoř český obsah.
+
+{article_context}
+
+ÚKOL 1 - DŮLEŽITOST (1-5):
+5 = Průlomové (AGI, kvantové počítače, akvizice $1B+, bezpečnostní krize, shutdown velkých služeb)
+4 = Velmi důležité (nové produkty Apple/Google/Microsoft/Meta/OpenAI, významná partnerství, IPO, funding $100M+)
+3 = Zajímavé (běžné novinky, updaty, zajímavé technologie, novinky od známých firem)
+2 = Spekulace (rumors, leaky, "možná", "údajně", "sources say")
+1 = Nedůležité (triviální novinky, clickbait)
+
+ÚKOL 2 - ČESKÝ OBSAH:
+- Pokud důležitost ≥ 3: Vytvoř strukturovaný článek (400-600 slov)
+- Pokud důležitost < 3: Vytvoř pouze krátké shrnutí (100-150 slov)
+
+Pro důležité články (≥3) použij strukturu:
+## Souhrn
+[2-3 věty s podstatou novinky]
+
+## Klíčové body
+- [3-5 nejdůležitějších bodů]
+
+## Podrobnosti
+[200-300 slov s detaily, kontextem a souvislostmi. Vysvětli, co to znamená pro uživatele/průmysl.]
+
+## Proč je to důležité
+[Dopady, kontext v širším technologickém ekosystému]
+
+STYLISTICKÉ ZÁSADY:
+- Piš česky, čitelně, jasně, konkrétně a střízlivě
+- Vyvaruj se superlativů a nadšených výrazů
+- Vynechej preambuli, jdi přímo k věci
+- Buď kritický expert na umělou inteligenci, IT a robotiku
+- Používej co nejvíce detailů a konkrétních informací
+- Preferuj delší souvislý text před bodovými odrážkami
+- Vyvaruj se anglicismů, používej české výrazy
+- U každého nového software či funkce zmiň, k čemu slouží a k čemu je možné je použít
+- U méně známých firem uveď, čím se zabývají
+- Úvodní odstavec by měl obsahovat shrnutí toho, o čem článek je
+
+FORMÁT ODPOVĚDI (JSON):
+{{
+  "importance": 3,
+  "czech_title": "Přeložený titulek",
+  "czech_description": "Přeložený krátký popis (1-2 věty)",
+  "enhanced_content": "Rozšířený obsah v markdown formátu"
+}}
+
+DŮLEŽITÉ:
+- Technické termíny zachovej v angličtině (AI, API, GPU, atd.)
+- Buď konkrétní, ne obecný
+- Odpověz POUZE validním JSON, bez jakéhokoli dalšího textu
+"""
+
+            headers = {
+                'Authorization': f'Bearer {self.openrouter_api_key}',
+                'Content-Type': 'application/json'
+            }
+
+            data = {
+                'model': 'anthropic/claude-sonnet-4.5',
+                'messages': [
+                    {'role': 'user', 'content': prompt}
+                ],
+                'max_tokens': 2000,  # Dostatek pro dlouhý obsah
+                'temperature': 0.3
+            }
+
+            logger.debug(f"🤖 Volám LLM pro analýzu článku: {title[:50]}...")
+
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=data,
+                timeout=30
+            )
+
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('choices') and len(result['choices']) > 0:
+                    content = result['choices'][0]['message']['content'].strip()
+
+                    # Odstranit případné markdown code bloky
+                    content = re.sub(r'^```json\s*', '', content)
+                    content = re.sub(r'\s*```$', '', content)
+
+                    # Parsovat JSON
+                    try:
+                        analysis = json.loads(content)
+
+                        importance = analysis.get('importance', 3)
+                        logger.info(f"✅ LLM analýza: důležitost={importance}, délka obsahu={len(analysis.get('enhanced_content', ''))} znaků")
+
+                        return {
+                            'importance': importance,
+                            'czech_title': analysis.get('czech_title', title),
+                            'czech_description': analysis.get('czech_description', description),
+                            'enhanced_content': analysis.get('enhanced_content', description)
+                        }
+                    except json.JSONDecodeError as e:
+                        logger.warning(f"⚠️ Chyba parsování JSON z LLM: {e}")
+                        logger.warning(f"Odpověď LLM: {content[:200]}...")
+                        # Fallback při chybě parsování
+                        return {
+                            'importance': self.detect_importance(title, description, category),
+                            'czech_title': self.translate_title(title),
+                            'czech_description': self.translate_description(description),
+                            'enhanced_content': self.translate_description(description)
+                        }
+            else:
+                logger.warning(f"⚠️ LLM API selhalo (HTTP {response.status_code})")
+
+        except Exception as e:
+            logger.warning(f"⚠️ Chyba při LLM analýze: {e}")
+
+        # Fallback - použít staré metody
+        return {
+            'importance': self.detect_importance(title, description, category),
+            'czech_title': self.translate_title(title),
+            'czech_description': self.translate_description(description),
+            'enhanced_content': self.translate_description(description)
+        }
 
     def fetch_newsapi_articles(self):
         """Stáhne články z NewsAPI"""
@@ -140,13 +346,23 @@ class NewsAPITechNewsGenerator:
         filename = f"{date_str}-{slug}.md"
         filepath = self.output_dir / filename
 
-        # Převést na český titulek a popis
-        czech_title = self.translate_title(article['title'])
-        czech_description = self.translate_description(article.get('description', ''))
-
-        # Detekce kategorie, důležitosti, firem a osobností
+        # Detekce kategorie nejdřív (potřebujeme pro LLM analýzu)
         category = self.detect_category(article['title'], article.get('description', ''))
-        importance = self.detect_importance(article['title'], article.get('description', ''), category)
+
+        # Kombinovaná LLM analýza: důležitost + český obsah
+        analysis = self.analyze_and_enhance_article(
+            article['url'],
+            article['title'],
+            article.get('description', ''),
+            category
+        )
+
+        czech_title = analysis['czech_title']
+        czech_description = analysis['czech_description']
+        importance = analysis['importance']
+        enhanced_content = analysis['enhanced_content']
+
+        # Detekce firem a osobností (zachováme pro metadata)
         companies = self.detect_companies(article['title'], article.get('description', ''))
         people = self.detect_people(article['title'], article.get('description', ''))
 
@@ -180,7 +396,9 @@ class NewsAPITechNewsGenerator:
         content = f"""---
 {yaml.dump(front_matter, default_flow_style=False, allow_unicode=True)}---
 
-{czech_description}
+{enhanced_content}
+
+---
 
 [Číst původní článek]({article['url']})
 
@@ -229,7 +447,7 @@ class NewsAPITechNewsGenerator:
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
@@ -295,7 +513,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -358,7 +576,7 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -426,7 +644,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-sonnet-4.5-20250514',
+                'model': 'anthropic/claude-sonnet-4.5',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -463,55 +681,101 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
 
         return []
 
-    def is_gaming_article(self, title, description):
-        """Detekuje články o počítačových hrách a herním průmyslu"""
+    def should_skip_article(self, title, description):
+        """Detekuje články, které by měly být přeskočeny (hry, sport, zábava)"""
         text = f"{title} {description}".lower()
 
-        # Klíčová slova související s hrami a herním průmyslem
+        # === HERNÍ KLÍČOVÁ SLOVA ===
         gaming_keywords = [
             # Obecné herní termíny
-            'game', 'games', 'gaming', 'gamer', 'esports', 'e-sports',
-            # Herní platformy a engine
-            'steam', 'playstation', 'xbox', 'nintendo', 'unreal engine', 'unity engine',
+            'game', 'games', 'gaming', 'gamer', 'gameplay', 'playthrough',
+            'esports', 'e-sports', 'speedrun', 'streamer', 'streaming game',
+            # Herní platformy
+            'steam', 'playstation', 'ps4', 'ps5', 'xbox', 'nintendo', 'switch',
+            'game pass', 'epic games store',
+            # Herní engine a nástroje
+            'unreal engine', 'unity engine', 'game engine',
             # Herní společnosti
-            'activision', 'ubisoft', 'ea sports', 'electronic arts', 'rockstar', 'take-two',
-            'square enix', 'bandai namco', 'konami', 'capcom', 'sega', 'nintendo', 'sony',
-            'microsoft gaming', 'blizzard', 'valve',
-            # Herní žánry
-            'call of duty', 'fortnite', 'valorant', 'counter-strike', 'dota 2',
-            'world of warcraft', 'elden ring', 'dark souls', 'zelda', 'minecraft',
-            # VR/AR hry
-            'virtual reality game', 'vr game', 'metaverse game', 'roblox',
-            # Herní konference
+            'activision', 'ubisoft', 'ea sports', 'electronic arts', 'rockstar',
+            'take-two', 'square enix', 'bandai namco', 'konami', 'capcom', 'sega',
+            'blizzard', 'valve', 'bungie', 'bethesda', 'bioware',
+            # Populární herní série a hry
+            'call of duty', 'fortnite', 'valorant', 'counter-strike', 'cs:go', 'cs2',
+            'dota', 'league of legends', 'lol', 'world of warcraft', 'wow',
+            'elden ring', 'dark souls', 'zelda', 'minecraft', 'roblox',
+            'gta', 'grand theft auto', 'red dead', 'assassin\'s creed',
+            'final fantasy', 'borderlands', 'destiny', 'halo', 'spider-man',
+            'god of war', 'horizon', 'the last of us', 'uncharted',
+            'pokemon', 'mario', 'sonic', 'yakuza', 'resident evil',
+            'street fighter', 'mortal kombat', 'overwatch', 'apex legends',
+            'pubg', 'battlefield', 'fifa', 'nba 2k', 'madden',
+            'diablo', 'starcraft', 'hearthstone', 'witcher', 'cyberpunk',
+            'fallout', 'skyrim', 'elder scrolls', 'doom', 'wolfenstein',
+            'marathon', 'ananta',
+            # Herní žánry a termíny
+            'rpg', 'mmorpg', 'fps', 'battle royale', 'roguelike', 'metroidvania',
+            'souls-like', 'open world', 'sandbox', 'moba', 'rts',
+            'loot box', 'battle pass', 'microtransaction', 'dlc', 'season pass',
+            'gacha game', 'mobile game',
+            # Herní události a média
             'gamescom', 'e3', 'pax', 'game developers conference', 'gdc',
-            # Streamy a obsah
-            'twitch', 'youtube gaming', 'streaming game',
-            # Znevažování her
-            'loot box', 'battle pass', 'microtransaction', 'dlc',
-            # eSports a streamování
-            'esports tournament', 'esports team', 'gaming tournament',
-            'esports player', 'pro gamer', 'speedrun',
+            'state of play', 'nintendo direct', 'xbox showcase',
+            'game awards', 'ign', 'gamespot', 'polygon', 'kotaku',
+            'rock paper shotgun',
+            # VR/AR hry
+            'vr game', 'virtual reality game', 'oculus', 'quest',
+            # Streamování
+            'twitch', 'youtube gaming', 'mixer',
         ]
 
-        # Počet nalezených herních klíčových slov
-        gaming_matches = sum(1 for keyword in gaming_keywords if keyword in text)
+        # === SPORTOVNÍ KLÍČOVÁ SLOVA ===
+        sports_keywords = [
+            # Obecné sportovní termíny
+            'sport', 'sports', 'athlete', 'championship', 'tournament',
+            'league', 'season', 'playoffs', 'finals', 'match', 'game score',
+            # Konkrétní sporty
+            'football', 'soccer', 'basketball', 'baseball', 'hockey',
+            'tennis', 'golf', 'cricket', 'rugby', 'boxing', 'ufc', 'mma',
+            'formula 1', 'f1', 'nascar', 'racing', 'motorsport',
+            # Sportovní organizace
+            'nfl', 'nba', 'mlb', 'nhl', 'fifa world cup', 'premier league',
+            'champions league', 'olympics', 'super bowl',
+            # Wrestling a zábavní sport
+            'wwe', 'wrestling', 'wrestler', 'smackdown', 'raw', 'wrestlemania',
+            'aew', 'impact wrestling',
+        ]
 
-        # Pokud se najde více než 1 herní klíčové slovo, je to pravděpodobně artikel o hrách
-        if gaming_matches > 1:
-            logger.debug(f"🎮 Detekován herní článek (nalezeno {gaming_matches} klíčových slov): {title[:50]}...")
-            return True
+        # === ZÁBAVNÍ KLÍČOVÁ SLOVA ===
+        entertainment_keywords = [
+            # Filmy a seriály (pokud nejsou o technologii)
+            'movie review', 'film review', 'tv series', 'netflix show',
+            'season finale', 'episode', 'actor', 'actress', 'director',
+            'box office', 'trailer review',
+            # Reality show a celebritní zprávy
+            'reality show', 'celebrity news', 'gossip',
+        ]
 
-        # Pokud se najde klíčové slovo "game" s dalšími indikátory
-        if 'game' in text or 'gaming' in text:
-            # Podívat se na další indikátory, které by potvrdily, že je to o hrách
-            gaming_indicators = [
-                'game release', 'game update', 'new game', 'game trailer',
-                'game review', 'game patch', 'gaming news', 'game developer',
-                'game engine', 'gaming studio', 'gaming hardware',
+        # Zkombinovat všechny klíčové slova
+        all_skip_keywords = gaming_keywords + sports_keywords + entertainment_keywords
+
+        # Spočítat shody
+        matches = sum(1 for keyword in all_skip_keywords if keyword in text)
+
+        # Agresivnější detekce - stačí 1 shoda
+        if matches > 0:
+            # Extra kontrola - některá slova mohou být falešně pozitivní
+            # Pokud je to o technologii (ne o samotné hře), nepřeskakovat
+            tech_indicators = [
+                'ai in gaming', 'machine learning', 'artificial intelligence',
+                'cloud gaming technology', 'game streaming technology',
+                'graphics card', 'gpu', 'processor', 'chip',
+                'nvidia', 'amd', 'intel' # pokud není přímo o herním hardware
             ]
 
-            if any(indicator in text for indicator in gaming_indicators):
-                logger.debug(f"🎮 Detekován herní článek (herní indikátor): {title[:50]}...")
+            has_tech_context = any(indicator in text for indicator in tech_indicators)
+
+            if not has_tech_context:
+                logger.debug(f"🚫 Přeskakuji článek (nalezeno {matches} klíčových slov pro přeskočení): {title[:50]}...")
                 return True
 
         return False
@@ -592,7 +856,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         self.clean_duplicates(articles)
 
         processed_count = 0
-        skipped_gaming_count = 0
+        skipped_count = 0
 
         for i, article in enumerate(articles, 1):
             try:
@@ -601,10 +865,10 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                     logger.warning(f"⏭️ Přeskakuji článek {i} - chybí titulek")
                     continue
 
-                # Přeskočit články o hrách a herním průmyslu
-                if self.is_gaming_article(article['title'], article.get('description', '')):
-                    logger.info(f"🎮 Přeskakuji herní článek {i}: {article['title'][:50]}...")
-                    skipped_gaming_count += 1
+                # Přeskočit články o hrách, sportu a zábavě
+                if self.should_skip_article(article['title'], article.get('description', '')):
+                    logger.info(f"🚫 Přeskakuji nerelevantní článek {i}: {article['title'][:50]}...")
+                    skipped_count += 1
                     continue
 
                 logger.info(f"📝 Zpracovávám článek {i}: {article['title'][:50]}...")
@@ -624,8 +888,8 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 continue
 
         logger.info(f"✅ Úspěšně zpracováno {processed_count} článků")
-        if skipped_gaming_count > 0:
-            logger.info(f"🎮 Přeskočeno {skipped_gaming_count} herních článků")
+        if skipped_count > 0:
+            logger.info(f"🚫 Přeskočeno {skipped_count} nerelevantních článků (hry, sport, zábava)")
 
         # Vytvoření index stránky
         self.create_index_page(processed_count)

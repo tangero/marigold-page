@@ -1,0 +1,133 @@
+name: Test OneSignal Notification
+
+on:
+  workflow_dispatch:
+    inputs:
+      article_path:
+        description: 'Cesta k článku (např. _posts/2025/2025-10-21-openai-prohlizec-atlas.md)'
+        required: false
+        default: '_posts/2025/2025-10-21-openai-prohlizec-atlas.md'
+
+jobs:
+  test-notify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml
+
+    - name: Send Test Notification
+      env:
+        ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
+        ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+      run: |
+        cat << 'EOF' > test_notify.py
+        #!/usr/bin/env python3
+        import os
+        import sys
+        import yaml
+        import requests
+        from pathlib import Path
+
+        def send_notification(title, message):
+            api_key = os.getenv('ONESIGNAL_REST_API_KEY')
+            app_id = os.getenv('ONESIGNAL_APP_ID')
+
+            if not api_key or not app_id:
+                print("❌ Chybí API klíče")
+                print(f"API Key: {'✅' if api_key else '❌'}")
+                print(f"App ID: {'✅' if app_id else '❌'}")
+                return False
+
+            url = "https://onesignal.com/api/v1/notifications"
+            headers = {
+                "Content-Type": "application/json; charset=utf-8",
+                "Authorization": f"Basic {api_key}"
+            }
+
+            payload = {
+                "app_id": app_id,
+                "included_segments": ["Subscribed Users"],
+                "headings": {"en": title, "cs": title},
+                "contents": {"en": message, "cs": message},
+            }
+
+            print(f"📤 Odesílám notifikaci...")
+            print(f"   App ID: {app_id}")
+            print(f"   Titulek: {title}")
+            print(f"   Zpráva: {message[:100]}...")
+
+            try:
+                response = requests.post(url, json=payload, headers=headers, timeout=10)
+
+                if response.status_code in [200, 201]:
+                    result = response.json()
+                    recipients = result.get('recipients', 0)
+                    notification_id = result.get('id', 'unknown')
+                    print(f"✅ Úspěch!")
+                    print(f"   Notification ID: {notification_id}")
+                    print(f"   Příjemci: {recipients}")
+                    return True
+                else:
+                    print(f"❌ Chyba {response.status_code}")
+                    print(f"   Response: {response.text}")
+                    return False
+            except Exception as e:
+                print(f"❌ Exception: {e}")
+                import traceback
+                traceback.print_exc()
+                return False
+
+        # Načíst článek
+        article_path = '${{ github.event.inputs.article_path }}'
+        if not article_path:
+            article_path = '_posts/2025/2025-10-21-openai-prohlizec-atlas.md'
+
+        print(f"📰 Načítám článek: {article_path}")
+
+        try:
+            with open(article_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            if not content.startswith('---'):
+                print("❌ Článek nemá front matter")
+                sys.exit(1)
+
+            parts = content.split('---', 2)
+            if len(parts) < 3:
+                print("❌ Neplatný front matter")
+                sys.exit(1)
+
+            frontmatter = yaml.safe_load(parts[1])
+            title = frontmatter.get('title', 'Bez názvu')
+            summary = frontmatter.get('post_excerpt', frontmatter.get('summary', title))
+
+            print(f"   Titulek: {title}")
+            print(f"   Shrnutí: {summary[:100]}...")
+
+            # Poslat notifikaci
+            if send_notification(f"🆕 {title}", summary):
+                print("\n✅ Test úspěšný!")
+                sys.exit(0)
+            else:
+                print("\n❌ Test selhal!")
+                sys.exit(1)
+
+        except Exception as e:
+            print(f"❌ Chyba: {e}")
+            import traceback
+            traceback.print_exc()
+            sys.exit(1)
+        EOF
+
+        python test_notify.py
