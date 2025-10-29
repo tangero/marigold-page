@@ -15,19 +15,19 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Google Messages možná získá koš pro smazané zprávy
+title: Google Messages možná dostane koš pro smazané zprávy
 url: https://www.androidauthority.com/google-messages-trash-folder-3610484/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/10/google-messages-trash-spongebob.jpg
 urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/10/google-messages-trash-spongebob.jpg
 ---
 
-V kódu nejnovější beta verze aplikace Google Messages se objevily náznaky chystané funkce koše pro smazané konverzace. Jde však o spekulaci založenou na analýze kódu, nikoli o oficiálně oznámenou funkci.
+V kódu nejnovější beta verze aplikace Google Messages se objevily náznaky připravované funkce koše pro smazané konverzace. Jde zatím pouze o spekulaci založenou na analýze kódu, nikoli o oficiálně oznámenou funkci.
 
-V beta verzi messages.android_20251020_01_RC01.phone.openbeta_dynamic vývojáři objevili několik nových řetězců odkazujících na "trashed conversations" (konverzace v koši). Kód obsahuje mimo jiné vytvoření nové databázové tabulky "trashed_conversations" a odkazy na aktivitu s názvem "Trash".
+V beta verzi messages.android_20251020_01_RC01.phone.openbeta_dynamic byly objeveny nové řetězce odkazující na "Trash" (koš) a "trashed conversations" (smazané konverzace). Kód obsahuje například vytvoření databázové tabulky pro smazané konverzace a odkazy na složku koše.
 
-Funkce by pravděpodobně fungovala podobně jako koš v Gmailu - smazané zprávy by se nepermanentně odstranily okamžitě, ale přesunuly do koše, kde by zůstaly 30 dní před automatickým trvalým smazáním. To by uživatelům poskytlo určitou ochrannou lhůtu pro případ omylem smazaných zpráv.
+V současnosti Google Messages umožňuje archivovat zprávy, které zůstávají uložené, dokud je uživatel ručně nesmaže. Při smazání jsou však zprávy okamžitě a trvale odstraněny ze zařízení. Nová funkce koše by mohla fungovat podobně jako v Gmailu, kde smazané položky zůstávají v koši 30 dní před automatickým trvalým smazáním. To by uživatelům poskytlo určitou ochrannou lhůtu pro případné obnovení omylem smazaných konverzací.
 
-V současnosti Google Messages nabízí archivaci konverzací, kde zprávy zůstávají trvale až do ručního smazání. Samotné smazání však zprávy okamžitě a nevratně odstraní ze zařízení. Vývojářům se nepodařilo aktivovat žádné uživatelské rozhraní pro novou funkci, což naznačuje, že je ve velmi raném stadiu vývoje a není jasné, zda se vůbec dostane do finální verze aplikace.
+Autor analýzy kódu nebyl schopen aktivovat žádné uživatelské rozhraní této funkce, což naznačuje, že je ve velmi raném stadiu vývoje. Není jasné, zda a kdy se tato funkce skutečně dostane do finální verze aplikace.
 
 ---
 

@@ -2,8 +2,7 @@
 category: sportovní vozy
 date: '2025-10-27 23:01:06'
 description: Nová generace vrcholného modelu 911 Turbo S kombinuje dva elektricky
-  poháněné turbodmychadla s hybridním pohonem pro výkon 701 koní a okamžitou odezvu
-  plynu.
+  poháněné turbodmychadla s hybridním pohonem pro maximální výkon bez prodlevy odezvy.
 importance: 3
 layout: tech_news_article
 original_title: Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower
@@ -23,27 +22,31 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/10/2026-Po
 
 ## Souhrn
 
-Porsche představilo nový model 911 Turbo S pro rok 2026, který se stává nejsilnějším sériovým modelem 911 v historii s výkonem 701 koní (523 kW). Vůz využívá technologii T-Hybrid se dvěma turbodmychadly osazených vysokorychlostními elektromotory, která eliminují tradiční turbo lag a poskytují okamžitou odezvu na plyn.
+Porsche představilo model 911 Turbo S pro rok 2026, který se stává nejsilnějším sériovým modelem 911 v historii s výkonem 701 koní (523 kW). Vůz využívá technologii T-Hybrid se dvěma turbodmychadly osazených vysokorychlostními elektromotory, která eliminují tradiční turbo lag a poskytují okamžitou odezvu na plyn.
 
 ## Klíčové body
 
 - Výkon 701 koní (523 kW) činí z modelu nejsilnější sériové Porsche 911 v historii
 - Dva turbodmychadla s integrovanými vysokorychlostními elektromotory dosahují maximálních otáček za méně než sekundu
 - Technologie T-Hybrid poprvé použitá v modelu 911 GTS nyní rozšířena na dva turbodmychadla
-- Elektromotor v turbodmychadle umožňuje roztočení na maximální otáčky téměř okamžitě, čímž eliminuje turbo lag
-- Cena vozu dosahuje astronomických hodnot, což z něj činí exkluzivní produkt
+- Elektromotor v turbodmychadle roztáčí kompresor ještě před příchodem výfukových plynů, čímž eliminuje prodlevu odezvy
+- Kabriolet s měkkou střechou nabízí slušnou zvukovou izolaci
 
 ## Podrobnosti
 
-Nový model 911 Turbo S staví na technologii, kterou Porsche poprvé představilo u modelu 911 GTS s označením T-Hybrid. Klíčovou inovací je integrace vysokorychlostního elektromotoru přímo do turbodmychadla. Tento motor dokáže roztočit turbínu na maximální otáčky za méně než sekundu, což v praxi znamená téměř úplné odstranění turbo lagu - zpoždění mezi sešlápnutím plynu a nárůstem výkonu, které je typické pro turbodmychadly poháněná výfukovými plyny.
+Porsche aplikuje technologii hybridního turbodmychadla, kterou poprvé představilo v modelu 911 GTS, na vrcholný model Turbo S. Klíčovou inovací je integrace vysokorychlostního elektromotoru přímo do turbodmychadla. Tento motor dokáže roztočit kompresor na maximální otáčky za méně než sekundu, což prakticky eliminuje turbo lag - tradiční problém přeplňovaných motorů, kdy po sešlápnutí plynu následuje prodleva, než turbodmychadlo dosáhne pracovních otáček.
 
-Zatímco model GTS používá jedno takové pokročilé turbodmychadlo, Turbo S jich má dva. Tato konfigurace umožňuje dosáhnout výkonu 701 koní, což představuje nový vrchol pro sériově vyráběné Porsche 911. Kromě samotných turbodmychadel zahrnuje hybridní systém také elektromotor a baterii, které přispívají k celkovému výkonu a umožňují pokročilé řízení energetických toků.
+Zatímco model GTS používá jedno takové pokročilé turbodmychadlo, Turbo S jich využívá dva. Tato konfigurace umožňuje dosáhnout výkonu 701 koní při zachování okamžité odezvy na plyn, která je charakteristická pro atmosférické motory. Elektromotor v turbodmychadle je navíc napojen na vysokonapěťový systém, což mu umožňuje poskytovat dostatečný výkon pro rychlé roztočení kompresoru.
 
-Vůz je k dispozici také ve verzi s textilní skládací střechou, která podle výrobce poskytuje slušnou zvukovou izolaci. Vizuálně se Turbo S odlišuje od standardních modelů 911 specifickými aerodynamickými prvky vpředu a dalšími stylistickými úpravami.
+Výsledkem je vůz, který kombinuje brutální výkon s agilním chováním a precizní odezvou na pohyb plynového pedálu. Porsche tak řeší jeden z hlavních kompromisů moderních přeplňovaných motorů - nutnost volby mezi výkonem a okamžitou odezvou. Kabriolet s měkkou střechou navíc nabízí překvapivě dobrou zvukovou izolaci.
+
+Cena vozu však odpovídá jeho technologické vyspělosti a výkonu - pohybuje se v astronomických výších, což z něj činí exkluzivní produkt pro úzký okruh zákazníků.
 
 ## Proč je to důležité
 
-Model 911 Turbo S 2026 představuje významný krok v evoluci sportovních vozů směrem k elektrifikaci, která nemusí znamenat kompromis v jízdních vlastnostech. Porsche zde demonstruje, jak lze hybridní technologie využít nejen pro snížení spotřeby, ale především pro zlepšení výkonu a jízdní dynamiky. Eliminace turbo lagu pomocí elektricky poháněných turbodmychadel řeší jeden z hlavních nedostatků turbomotorů a může nastavit nový standard pro budoucí sportovní vozy. Astronomická cena však z vozu činí produkt dostupný pouze úzkému okruhu zákazníků.
+Model 911 Turbo S 2026 demonstruje, jak lze hybridní technologie využít nejen pro snížení spotřeby, ale především pro zlepšení výkonnostních charakteristik. Elektrifikace turbodmychadla představuje elegantní řešení dlouhodobého problému turbo lagu, který tradičně komplikoval použití přeplňování ve sportovních vozech zaměřených na maximální zážitek z jízdy.
+
+Tato technologie může v budoucnu najít uplatnění i v dostupnějších modelech, kde by pomohla kombinovat efektivitu malých přeplňovaných motorů s odezvou atmosférických agregátů. Porsche tak ukazuje cestu, jak může elektřina zlepšit spalovací motory, namísto jejich pouhého nahrazení.
 
 ---
 

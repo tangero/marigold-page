@@ -3,8 +3,8 @@ category: tablety
 companies:
 - Apple
 date: '2025-10-27 21:45:00'
-description: Praktické zkušenosti s novým iPadem Pro s čipem M5 po týdnu používání.
-  Srovnání s loňským modelem M4 a zhodnocení, zda se upgrade vyplatil.
+description: Praktické zkušenosti s novým iPad Pro s čipem M5 po týdnu používání.
+  Srovnání s loňským modelem M4 a zhodnocení, zda stojí upgrade za to.
 importance: 3
 layout: tech_news_article
 original_title: 'M5 iPad Pro after five days: Was upgrade from M4 worth it? - 9to5Mac'
@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: 'iPad Pro s čipem M5 po pěti dnech používání: Vyplatil se upgrade z M4?'
+title: 'iPad Pro s čipem M5 po pěti dnech: Vyplatil se upgrade z M4?'
 url: https://9to5mac.com/2025/10/27/m5-ipad-pro-after-five-days-was-upgrade-from-m4-worth-it/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-ipad-pro-13-inch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-ipad-pro-13-inch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -22,29 +22,29 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple minulý týden uvedl na trh iPad Pro s čipem M5 a první uživatelé sdílejí své zkušenosti po pěti dnech používání. Nový model přináší sedm konkrétních vylepšení oproti loňskému M4, přičemž vnější design zůstává prakticky identický s výjimkou chybějícího nápisu "iPad Pro" na zadní straně.
+Apple začal minulý týden dodávat nový iPad Pro s čipem M5 a první uživatelé sdílejí své zkušenosti po několika dnech používání. Autor článku upgradoval z loňského modelu M4 na nový 13palcový iPad Pro s M5 a hodnotí, zda přechod dává smysl. Nový model přináší sedm konkrétních vylepšení, přičemž vnější design zůstává prakticky identický.
 
 ## Klíčové body
 
-- iPad Pro M5 nabízí výkonnější čip, více a rychlejší RAM, nový modem C1X 5G a bezdrátový čip N1
-- Přidána podpora rychlého nabíjení, vylepšená výdrž baterie při používání mobilních dat a podpora 120Hz externích displejů
-- Vnější design zůstává téměř totožný s modelem M4, změna pouze v absenci nápisu na zadní straně
-- Autor zaznamenal zlepšení ve správě oken a Safari přestalo potřebovat znovu načítat záložky
-- Upgrade se doporučuje především uživatelům starších modelů, ne majitelům M4
+- iPad Pro s M5 přináší sedm vylepšení: výkonnější čip M5, více a rychlejší RAM, modem C1X 5G, bezdrátový čip N1, rychlejší nabíjení, lepší výdrž baterie při intenzivním využití mobilních dat a podporu externích displejů s 120Hz
+- Vnější design je téměř totožný s M4 modelem, jediný rozdíl je absence nápisu "iPad Pro" na zadní straně
+- S iPadOS 26 začal autor zaznamenávat problémy s výkonem na M4 modelu, které M5 řeší
+- Správa oken a změna jejich velikosti funguje plynuleji, záložky v Safari se nemusí znovu načítat
+- Autor doporučuje upgrade primárně uživatelům, kteří intenzivně využívají mobilní data nebo potřebují připojit externí displej
 
 ## Podrobnosti
 
-Autor článku používal 13palcový iPad Pro s čipem M4 po dobu téměř 18 měsíců jako svůj primární počítač. Model M4 přinesl významná vylepšení včetně tandemového OLED displeje a ultratenkého designu. Nový M5 staví na tomto základu a přidává sedm konkrétních vylepšení.
+Autor používal 13palcový iPad Pro s M4 jako svůj primární počítač po dobu téměř 18 měsíců. Loňský model přinesl významná vylepšení včetně nového čipu, tandemového OLED displeje, ultratenkého designu a dalších novinek. Model M5 staví na těchto základech a přidává další vylepšení v klíčových oblastech.
 
-Nejvýraznější změnou je výkonnější čip M5 s větším množstvím rychlejší RAM paměti. Tato kombinace se projevila především v práci s iPadOS 26, kde předchozí model M4 začínal místami zaostávat. Správa oken a jejich změna velikosti je nyní plynulejší a Safari již nevyžaduje opětovné načítání záložek při přepínání mezi nimi.
+Pro většinu uživatelů, kteří vlastní M4 iPad Pro, není upgrade na M5 nutný. Rozhodnutí závisí především na konkrétních potřebách a rozpočtu. Autor se rozhodl pro upgrade kvůli kombinaci výkonnostních zisků z čipu M5 a vylepšené RAM paměti.
 
-Další novinkou je modem C1X 5G a bezdrátový čip N1, které zlepšují konektivitu. Pro uživatele často pracující s mobilními daty přináší M5 vylepšenou výdrž baterie. Přidána byla také podpora rychlého nabíjení a možnost připojit externí displeje s obnovovací frekvencí 120Hz, což ocení uživatelé pracující s více obrazovkami.
+Po léta hardware iPadu výrazně předbíhal softwarové možnosti. Situace se však změnila s příchodem iPadOS 26, kdy autor poprvé začal zaznamenávat výkonnostní problémy na M4 modelu. Nový M5 iPad Pro tyto problémy řeší - správa oken probíhá plynuleji a záložky v prohlížeči Safari se nemusí znovu načítat, což byly dva hlavní problémy, které autor chtěl vyřešit.
 
-Autor upozorňuje, že většina majitelů M4 by neměla upgradovat, protože rozdíly nejsou pro běžné použití zásadní. Hardware iPadů již roky předbíhá možnosti softwaru, teprve s iPadOS 26 začal systém plně využívat výkon dostupného hardwaru.
+Za zmínku stojí, že nový model podporuje externí displeje s obnovovací frekvencí 120Hz, což je významné vylepšení pro uživatele, kteří iPad používají s externími monitory. Vylepšení modemu C1X 5G a bezdrátového čipu N1 přináší benefit především pro uživatele, kteří intenzivně využívají mobilní připojení.
 
 ## Proč je to důležité
 
-Článek poskytuje praktický pohled na reálné přínosy nového iPadu Pro M5 po prvních dnech používání. Ukazuje, že Apple pokračuje v každoročních iteracích svých tabletů s postupnými vylepšeními, přičemž rozdíly mezi generacemi se zmenšují. Pro potenciální kupce je klíčové zjištění, že upgrade z M4 na M5 má smysl pouze pro specifické případy použití, zatímco majitelé starších modelů získají výraznější skok ve výkonu. Článek také potvrzuje dlouhodobý trend, kdy hardwarové možnosti iPadů výrazně převyšují schopnosti operačního systému iPadOS.
+Článek poskytuje praktický pohled na reálné využití nejnovějšího iPad Pro po několika dnech používání, což je cenná informace pro potenciální kupce. Ukazuje, že Apple dosáhl bodu, kdy software iPadOS konečně začíná využívat výkonný hardware, což je významný posun po letech, kdy hardware výrazně předbíhal softwarové možnosti. Pro běžné uživatele M4 modelu upgrade nedává smysl, ale pro power users s konkrétními potřebami (intenzivní multitasking, mobilní data, externí displeje) může být upgrade opodstatněný.
 
 ---
 

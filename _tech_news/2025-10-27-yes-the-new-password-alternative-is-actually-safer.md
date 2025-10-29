@@ -1,8 +1,8 @@
 ---
 category: kybernetická bezpečn
 date: '2025-10-27 17:00:00'
-description: Technologie passkeys nahrazuje tradiční hesla a nabízí bezpečnější způsob
-  přihlašování bez nutnosti pamatovat si složité kombinace znaků.
+description: Passkeys nahrazují tradiční hesla a nabízejí bezpečnější způsob přihlašování
+  bez rizika úniku dat nebo phishingu.
 importance: 3
 layout: tech_news_article
 original_title: Yes, the new password alternative is actually safer - MakeUseOf
@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: MakeUseOf
-title: Přístupové klíče jsou skutečně bezpečnější než hesla
+title: Passkeys jako bezpečnější alternativa k heslům
 url: https://www.makeuseof.com/passkeys-much-safer-than-old-passwords/
 urlToImage: https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/10/passkey-sign-in-on-tablet-with-passkey-icon.jpg?w=1600&h=900&fit=crop
 urlToImageBackup: https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/10/passkey-sign-in-on-tablet-with-passkey-icon.jpg?w=1600&h=900&fit=crop
@@ -20,29 +20,29 @@ urlToImageBackup: https://static0.makeuseofimages.com/wordpress/wp-content/uploa
 
 ## Souhrn
 
-Přístupové klíče (passkeys) představují novou metodu autentizace, která má nahradit tradiční hesla. Místo zapamatování tajného řetězce znaků vaše zařízení prokáže identitu pomocí kryptografických klíčů, což eliminuje rizika spojená s opakovaným používáním hesel, phishingem a úniky dat.
+Passkeys představují novou metodu autentizace, která má nahradit tradiční hesla. Místo zapamatování tajného řetězce znaků využívá passkey kryptografické klíče uložené v zařízení, které prokazují identitu uživatele bez nutnosti sdílet jakékoli tajemství se serverem. Technologie eliminuje hlavní slabiny hesel včetně možnosti úniku dat, phishingu nebo opakovaného použití stejného hesla.
 
 ## Klíčové body
 
-- Passkeys fungují na principu asymetrické kryptografie, kdy zařízení uchovává soukromý klíč a server pouze veřejný
-- Eliminují riziko phishingu, keyloggerů a úniků databází hesel
-- Nevyžadují zapamatování složitých kombinací znaků a symbolů
-- Každý účet má unikátní pár klíčů, takže kompromitace jednoho účtu neohrozí ostatní
-- Fungují napříč zařízeními a platformami
+- Passkeys fungují na principu asymetrické kryptografie, kdy soukromý klíč zůstává v zařízení a nikdy není sdílen
+- Eliminují rizika spojená s tradičními hesly: úniky databází, phishing, keyloggery a opakované použití hesel
+- Přihlášení probíhá pomocí biometrie nebo PIN kódu zařízení, což je rychlejší než psaní hesla
+- Každý účet má unikátní pár klíčů, takže kompromitace jedné služby neohrozí ostatní
+- Dvoustupňové ověření (2FA) se stává zbytečným, protože passkeys jsou inherentně bezpečnější
 
 ## Podrobnosti
 
-Tradiční hesla představují zásadní bezpečnostní problém, který se desítky let nedaří vyřešit. Přestože uživatelé vytváří stále složitější kombinace velkých a malých písmen, čísel a symbolů, hesla zůstávají statická data, která lze zkopírovat, ukrást nebo získat při úniku databáze. Problém není v síle hesla, ale v samotném konceptu sdíleného tajemství, které se opakovaně přenáší mezi uživatelem a serverem.
+Tradiční hesla představují fundamentální bezpečnostní problém, který nelze vyřešit pouhým zvyšováním složitosti. I když uživatel vytvoří silné heslo s kombinací velkých a malých písmen, čísel a symbolů, heslo zůstává statickým tajemstvím, které může být zkopírováno, ukradeno nebo unikne při narušení databáze služby. Problém se prohlubuje tím, že lidé často používají stejné nebo podobné heslo pro více účtů.
 
-Dvoufaktorová autentizace (2FA) tento problém pouze zmírňuje, ale neřeší. Sofistikované phishingové útoky dokážou obejít i 2FA, protože útočník může v reálném čase předat získané údaje legitimnímu serveru. Keyloggery zachytí heslo bez ohledu na jeho složitost. A při úniku databáze se kompromitují všechny účty, kde uživatel použil stejné nebo podobné heslo.
+Passkeys tento model zcela mění. Při registraci na službu vytvoří zařízení pár kryptografických klíčů - soukromý klíč zůstává bezpečně uložen v zařízení (telefonu, počítači nebo hardwarovém tokenu), zatímco veřejný klíč se odešle službě. Při přihlášení služba pošle výzvu, kterou zařízení podepíše soukromým klíčem. Služba ověří podpis pomocí veřejného klíče, aniž by soukromý klíč kdy opustil zařízení uživatele.
 
-Passkeys fungují fundamentálně jinak. Při registraci se vytvoří pár kryptografických klíčů – soukromý zůstává bezpečně uložen ve vašem zařízení (telefon, počítač, hardware token) a veřejný se odešle serveru. Při přihlášení server pošle výzvu, kterou vaše zařízení podepíše soukromým klíčem. Server ověří podpis pomocí veřejného klíče, aniž by soukromý klíč kdy opustil vaše zařízení.
+Tato architektura má několik zásadních výhod. Phishingové útoky se stávají neúčinnými, protože neexistuje žádné heslo, které by mohl útočník ukrást. Keyloggery jsou zbytečné, protože uživatel nic netypuje. Úniky databází ztrácejí na závažnosti - i když útočník získá veřejný klíč, nemůže ho použít k přihlášení. Každý účet má navíc unikátní pár klíčů, takže kompromitace jedné služby neohrozí ostatní.
 
-Tato architektura eliminuje většinu známých útoků. Phishing nefunguje, protože útočník nemá co ukrást – soukromý klíč nikdy neopustí zařízení. Keyloggery jsou neúčinné, protože nic netypujete. Úniky databází neškodí, protože veřejný klíč sám o sobě neumožňuje přihlášení. Každý účet má navíc unikátní pár klíčů, taktakže kompromitace jednoho účtu neovlivní ostatní.
+Pro uživatele je proces přihlášení jednodušší - stačí potvrdit identitu pomocí biometrie (otisk prstu, Face ID) nebo PIN kódu zařízení. Synchronizace mezi zařízeními probíhá šifrovaně přes cloudové služby výrobců (Apple iCloud Keychain, Google Password Manager).
 
 ## Proč je to důležité
 
-Passkeys představují první skutečnou evoluci v autentizaci za poslední dekády. Zatímco správci hesel problém částečně řeší, stále pracují s fundamentálně zranitelným konceptem. Passkeys tento koncept nahrazují architekturou, která je z principu odolnější vůči současným i budoucím útokům. Podpora ze strany Apple, Google, Microsoft a dalších velkých hráčů naznačuje, že jde o standardizovanou technologii s dlouhodobou perspektivou, nikoli o dočasný experiment.
+Passkeys představují první skutečně masovou alternativu k heslům s podporou všech hlavních technologických firem včetně Apple, Google a Microsoft. Jde o standardizovanou technologii postavenou na protokolu FIDO2, což zajišťuje kompatibilitu napříč platformami. Pro běžné uživatele to znamená konec neustálého resetování zapomenutých hesel a vyšší bezpečnost bez nutnosti používat správce hesel. Pro firmy jde o snížení nákladů na helpdesk a významné posílení bezpečnostního profilu. Adopce passkeys však bude postupná - vyžaduje podporu ze strany webových služeb a aplikací, což bude trvat roky.
 
 ---
 
