@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Nový MacBook Air s čipem M5 může mít vážný problém s přehříváním
+title: Nový MacBook Air s čipem M5 může mít problém s přehříváním
 url: https://gizmodo.com/m5-macbook-may-have-big-problem-2000677459
 urlToImage: https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Color-2-1200x675.jpg
 urlToImageBackup: https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Color-2-1200x675.jpg
@@ -22,31 +22,31 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Co
 
 ## Souhrn
 
-Apple představil nový 14palcový MacBook Pro s čipem M5, ale testy odhalují potenciální problém s chlazením. Procesor M5 generuje více tepla, než dokáže odvést jediný ventilátor v základní verzi MacBooku Pro, což vede k omezování výkonu. Tento problém může být ještě výraznější u připravovaného MacBooku Air s M5, který tradičně nemá aktivní chlazení vůbec.
+Nový čip M5 v 14palcovém MacBooku Pro vykazuje známky tepelného omezování výkonu kvůli nedostatečnému chlazení. Testy Cinebench 2024 odhalily, že jediný ventilátor v základním modelu nezvládá odvádět teplo generované procesorem, což vede ke snižování taktovací frekvence. Problém může být ještě výraznější u plánovaného MacBooku Air s M5, který tradičně nemá aktivní chlazení vůbec.
 
 ## Klíčové body
 
-- Čip M5 trpí tepelným omezováním (thermal throttling) při zátěži kvůli nedostatečnému chlazení
-- V testech Cinebench 2024 dosahuje M5 poměru single-core ku multi-core skóre pouze 5,07x oproti 5,38x u M4
-- Frekvence procesoru klesá při zatížení kvůli přehřívání
-- MacBook Air tradičně nemá žádný ventilátor, což může problém ještě zhoršit
-- Výkonnější varianty M5 Pro a M5 Max s dvěma ventilátory přijdou až příští rok
+- Čip M5 v MacBooku Pro vykazuje horší poměr výkonu mezi jedno-jádrovým a více-jádrovým testem (5,07x) oproti předchůdci M4 (5,38x)
+- Taktovací frekvence CPU klesá při zátěži kvůli tepelnému omezování
+- MacBook Air tradičně používá pasivní chlazení bez ventilátorů, což může problém ještě zhoršit
+- Výkonnější varianty M5 Pro a M5 Max s dvěma ventilátory jsou plánovány až na příští rok
+- V GPU testech M5 překonává M4 výrazněji, což naznačuje, že čip má potenciál vyššího výkonu
 
 ## Podrobnosti
 
-Technologický YouTuber Vadim Yuryev provedl sérii testů pomocí benchmarku Cinebench 2024, který simuluje výkon procesoru při 3D úlohách. Testy měří jak single-core výkon (zpracování instrukcí postupně), tak multi-core výkon (paralelní zpracování více instrukcí současně). Výsledky ukazují, že M5 nedosahuje očekávaného výkonu při plném zatížení.
+Technologický YouTuber Vadim Yuryev provedl sérii testů pomocí benchmarku Cinebench 2024, který simuluje výkon procesoru při 3D úlohách. Testy měří jak jedno-jádrový výkon (zpracování příkazů postupně), tak více-jádrový výkon (paralelní zpracování). Výsledky ukazují, že poměr mezi těmito dvěma metrikami je u M5 nižší než u M4, což indikuje tepelné omezování.
 
-Poměr mezi single-core a multi-core skóre klesl z 5,38násobku u M4 na pouhých 5,07násobek u M5. To znamená, že zatímco výkon jednoho jádra se zlepšil, při zatížení všech jader procesor nedokáže udržet maximální frekvenci kvůli přehřívání. Yuryev také zaznamenal, že taktovací frekvence CPU klesá při zátěži na nižší hodnoty, než by měla.
+Konkrétně jde o pokles z 5,38násobku u M4 na 5,07násobek u M5. To znamená, že zatímco jedno-jádrový výkon roste podle očekávání, více-jádrový výkon nedosahuje teoretického maxima kvůli tomu, že čip musí snižovat frekvenci, aby se nepřehříval. Yuryev také zaznamenal nižší taktovací frekvence CPU při zátěži.
 
-Základní 14palcový MacBook Pro má pouze jeden ventilátor, zatímco výkonnější modely s čipy Pro a Max tradičně disponují dvěma ventilátory pro lepší odvod tepla. Apple plánuje varianty M5 Pro a M5 Max uvést až v příštím roce, což naznačuje, že základní M5 byl uveden samostatně možná právě kvůli těmto problémům s chlazením.
+Apple letos uvedl pouze základní verzi M5 v 14palcovém MacBooku Pro s jedním ventilátorem. Výkonnější varianty M5 Pro a M5 Max, které tradičně přicházejí se dvěma ventilátory, jsou podle informací plánovány až na příští rok. To naznačuje, že Apple si je vědom tepelných výzev nového čipu.
 
-V GPU testech sice M5 překonal M4 výrazněji, ale při dlouhodobější zátěži procesoru se tepelné limity projevují. Pro běžné uživatele to znamená, že při náročnějších úlohách jako je video rendering, kompilace kódu nebo 3D modelování může MacBook s M5 zpomalovat.
+Situace je ještě problematičtější pro MacBook Air, který Apple tradičně navrhuje bez aktivního chlazení. Tenký a lehký design spoléhá pouze na pasivní odvod tepla přes hliníkový šasi. Pokud už M5 způsobuje problémy v MacBooku Pro s ventilátorem, v MacBooku Air bez něj by tepelné omezování mohlo být ještě výraznější.
 
 ## Proč je to důležité
 
-Pro MacBook Air je situace potenciálně ještě horší. Tento model tradičně nemá žádné aktivní chlazení - spoléhá pouze na pasivní odvod tepla přes hliníkové tělo. Pokud už základní MacBook Pro s jedním ventilátorem má problémy udržet M5 v chodu na plný výkon, MacBook Air bez ventilátoru bude pravděpodobně čelit ještě výraznějšímu omezování výkonu.
+Tepelné řízení je klíčovým faktorem pro výkon moderních procesorů. I když má čip teoreticky vysoký výkon, pokud ho nemůže udržet kvůli přehřívání, reálný výkon pro uživatele je nižší. Pro MacBook Air, který je populární mezi běžnými uživateli i profesionály hledajícími přenosnost, by výrazné tepelné omezování znamenalo, že výhody nového čipu M5 by nebyly plně využity.
 
-Apple se tak dostává do situace, kdy zvyšující se výkon čipů naráží na fyzikální limity tenkých a lehkých designů. Buď bude muset Apple přepracovat chlazení MacBooků, nebo přijmout, že tenké notebooky budou mít výrazně omezený výkon oproti tomu, co čip teoreticky dokáže. Pro uživatele to může znamenat, že investice do dražšího čipu M5 se u MacBooku Air nemusí vyplatit, pokud jej systém nebude schopen plně využít.
+Situace ukazuje na širší výzvu v průmyslu: jak dále zvyšovat výkon čipů při zachování tenkých a tichých designů. Apple bude muset buď upravit design MacBooku Air s lepším chlazením, nebo optimalizovat čip M5 pro nižší spotřebu a tepelný výkon v pasivně chlazených zařízeních.
 
 ---
 

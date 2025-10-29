@@ -21,21 +21,11 @@ urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-launcher-homescreen-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-## Shrnutí
+## Krátké shrnutí
 
-Uniklé snímky obrazovky z aplikace Pixel Tips naznačují, že Google chystá listopadovou aktualizaci pro telefony Pixel s několika novými funkcemi. Mezi nimi jsou balíčky motivů pro rychlou personalizaci, možnost vytváření animací v aplikaci Pixel Studio a VIP notifikace. Aktualizace měla původně dorazit až v prosinci spolu s Android 16 QPR2.
+Na internetu se objevily uniklé snímky obrazovky z aplikace Pixel Tips, které naznačují příchod listopadové aktualizace pro telefony Google Pixel. Aktualizace by měla přinést tři nové funkce: balíčky motivů pro rychlou personalizaci vzhledu telefonu, možnost vytváření animací v aplikaci Pixel Studio a VIP notifikace. Informace pocházejí od skupiny Mystic Leaks na Telegramu a zatím nebyly oficiálně potvrzeny.
 
-## Klíčové body
-
-- Balíčky motivů umožní změnit vzhled telefonu jedním klepnutím včetně tapety, ikon, zvuků a GIF obrázků
-- První balíček bude tematicky zaměřený na film "Wicked: For Good" s třemi variantami motivů
-- Pixel Studio získá funkci pro převod statických obrázků na animované GIF soubory nebo nálepky
-- Informace pochází z neoficiálních zdrojů (skupina Mystic Leaks), oficiální potvrzení od Googlu chybí
-- Původně plánovaná prosincová aktualizace se může posunout na listopad
-
-## Proč je to spekulace
-
-Jedná se o nepotvrzené informace založené na únicích od neoficiálních zdrojů. Google zatím žádnou listopadovou aktualizaci neoznámil a screenshoty nelze ověřit. Funkce mohou být změněny nebo zrušeny před případným oficiálním vydáním.
+Balíčky motivů (Theme Packs) mají umožnit změnu vzhledu telefonu jedním klepnutím, včetně tapety, ikon, zvuků a GIF animací. První balíček bude podle úniků věnován muzikálu Wicked. Aplikace Pixel Studio, která slouží k vytváření obrázků pomocí umělé inteligence, získá funkci pro převod statických obrázků na animované GIFy nebo samolepky. Třetí novinkou jsou VIP notifikace, o kterých však uniklé materiály neposkytují bližší informace. Aktualizace měla původně dorazit v prosinci společně s Android 16 QPR2, ale může přijít dříve.
 
 ---
 

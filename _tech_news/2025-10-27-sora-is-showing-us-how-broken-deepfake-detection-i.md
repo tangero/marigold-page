@@ -4,8 +4,8 @@ companies:
 - OpenAI
 - The Verge
 date: '2025-10-27 16:00:00'
-description: Generátor videí od OpenAI používá metadata C2PA pro označení AI obsahu,
-  ale systém zjevně nefunguje, když se videa sdílí na jiných platformách.
+description: Videogenerátor OpenAI používá metadata C2PA pro označení AI obsahu, ale
+  systém v praxi selhává a platformy deepfaky nerozpoznávají.
 importance: 4
 layout: tech_news_article
 original_title: Sora is showing us how broken deepfake detection is - The Verge
@@ -23,33 +23,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-OpenAI spustilo videogenerátor Sora postavený na modelu Sora 2, který dokáže vytvářet přesvědčivá falešná videa celebrit, copyrightovaných postav i běžných uživatelů. Ačkoliv aplikace používá systém C2PA pro označování AI obsahu metadaty, tento standard selhává v okamžiku, kdy se videa sdílí mimo původní platformu. Situace ukazuje zásadní nedostatky v současných systémech detekce deepfake obsahu.
+OpenAI spustilo videogenerátor Sora založený na modelu Sora 2, který vytváří přesvědčivá deepfake videa celebrit i chráněných postav. Přestože aplikace používá standard C2PA pro označení AI obsahu metadata, systém detekce v praxi selhává a platformy sdílená videa jako deepfaky nerozpoznávají. Situace odhaluje zásadní nedostatky v současných technologiích pro ověřování autenticity obsahu.
 
 ## Klíčové body
 
-- Sora vytváří detailní AI videa známých osobností jako Martin Luther King Jr., Michael Jackson nebo Bryan Cranston, stejně jako copyrightovaných postav typu SpongeBob a Pikachu
-- Uživatelé, kteří dobrovolně sdíleli své podobizny, se objevili ve videích s rasistickými výroky nebo byli zneužiti pro fetišistické účty
-- OpenAI implementuje C2PA autentizaci (Content Credentials), která přidává neviditelná metadata k videím pro jejich identifikaci jako AI obsahu
-- Systém C2PA, který OpenAI samo pomáhá spravovat, se ukazuje jako nedostatečný pro ochranu uživatelů před dezinformacemi
-- Jakmile videa opustí aplikaci Sora, prakticky neexistuje ochrana zajišťující, že diváci poznají jejich umělý původ
+- Sora vytváří detailní deepfake videa známých osobností (Martin Luther King Jr., Michael Jackson, Bryan Cranston) i chráněných postav (SpongeBob, Pikachu)
+- Uživatelé, kteří dobrovolně sdíleli své podobizny, se objevují ve videích s rasistickými výroky nebo v obsahu pro fetišistické účty
+- OpenAI implementovalo standard C2PA (Content Credentials), který přidává neviditelná ověřitelná metadata k videím
+- Systém C2PA v praxi nefunguje - jakmile videa opustí aplikaci Sora, platformy je nedokážou rozpoznat jako AI obsah
+- Problém demonstruje systémové selhání technologií pro označování AI obsahu, včetně standardu, který OpenAI samo pomáhá spravovat
 
 ## Podrobnosti
 
-C2PA autentizace, známá také jako Content Credentials, představuje systém pro připojování ověřitelných metadat k obrázkům a videím. Iniciativu vede Adobe a měla by sloužit jako jeden z nejlepších nástrojů pro rozlišení skutečného obsahu od AI falešků. Princip spočívá v tom, že metadata cestují spolu s obsahem a platformy je mohou číst a zobrazovat uživatelům varování.
+C2PA (Coalition for Content Provenance and Authenticity) představuje jeden z nejpokročilejších systémů pro rozlišení skutečného a AI generovaného obsahu. Standard, který propaguje především Adobe a jehož vývoj podporuje i OpenAI, funguje na principu připojení neviditelných, ale ověřitelných metadat k obrázkům a videím. Tato metadata by měla platformám a uživatelům umožnit zjistit původ obsahu a rozpoznat, zda byl vytvořen umělou inteligencí.
 
-Problém je v praxi zásadní - většina sociálních sítí a platforem pro sdílení obsahu tato metadata buď vůbec nečte, nebo je při nahrávání odstraňuje kvůli kompresí a úpravám souborů. Když uživatel stáhne video ze Sory a nahraje ho na Twitter, TikTok nebo Facebook, informace o AI původu se ztratí.
+V případě Sory však systém selhává v okamžiku, kdy uživatelé sdílejí vygenerovaná videa na jiné platformy. Přestože aplikace metadata C2PA do videí vkládá, sociální sítě a další služby je buď nedokážou přečíst, nebo je ignorují. Výsledkem je, že přesvědčivá deepfake videa cirkulují internetem bez jakéhokoli označení, že jde o AI obsah.
 
-Sora sama o sobě funguje jako uzavřené prostředí, kde je jasné, že veškerý obsah je umělý. Problematické je sdílení mimo tuto "karanténní zónu nereality". Aplikace již vyprodukovala množství kontroverzního obsahu - od videí historických osobností v nevhodných situacích až po zneužití podob skutečných uživatelů pro tvorbu urážlivého nebo sexuálně zaměřeného materiálu.
+Problém je o to závažnější, že Sora vytváří mimořádně kvalitní deepfaky. Uživatelé aplikace vytvořili videa zobrazující historické osobnosti v nevhodných kontextech, celebrity v kompromitujících situacích a chráněné postavy z populární kultury. Zvláště problematické jsou případy, kdy lidé dobrovolně nahrají své fotografie do aplikace a následně se objeví ve videích, která je zobrazují při rasistických výrocích nebo v sexuálně zaměřeném obsahu.
 
-Technologie deepfake dosáhla bodu, kdy je pro běžného diváka prakticky nemožné rozpoznat falešné video od skutečného bez technických nástrojů. Kvalita výstupů ze Sory 2 je natolik přesvědčivá, že představuje reálné riziko pro dezinformační kampaně, manipulaci veřejného mínění nebo poškození reputace jednotlivců.
+Adobe a další zastánci C2PA argumentují, že standard má své opodstatnění, ale současná implementace jasně ukazuje, že samotná metadata nestačí k ochraně uživatelů před dezinformacemi a zneužitím AI generovaného obsahu.
 
 ## Proč je to důležité
 
-Případ Sory demonstruje kritickou mezeru mezi technologickými možnostmi AI a ochrannými mechanismy společnosti. OpenAI je jedním z hlavních podporovatelů standardu C2PA, přesto jeho vlastní produkt ukazuje fundamentální slabiny tohoto systému. Pokud ani tvůrce technologie nedokáže zajistit funkční označování AI obsahu, je otázkou, zda současný přístup k detekci deepfake vůbec může fungovat.
+Situace kolem Sory odhaluje zásadní rozpor mezi technologickými možnostmi AI a systémy pro její regulaci. OpenAI vytvořilo nástroj schopný generovat přesvědčivá falešná videa, ale zároveň se ukázalo, že standard pro jejich označování, který firma sama pomáhá vyvíjet, v praxi nefunguje. Jde o konkrétní důkaz, že současné přístupy k detekci deepfaků jsou nedostatečné.
 
-Situace má dalekosáhlé důsledky pro důvěryhodnost online obsahu. S rostoucí kvalitou AI generátorů se stává neudržitelné spoléhat na dobrovolné označování nebo metadata, která lze snadno odstranit. Průmysl bude muset hledat robustnější řešení - od povinného vodoznaku přímo v pixelech videa až po blockchainové registry AI obsahu.
-
-Pro běžné uživatele to znamená nutnost radikálně změnit přístup k online videím. Éra, kdy bylo možné věřit vlastním očím, definitivně končí. Bez systémových změn na úrovni platforem a legislativy se internet stane prostředím, kde bude rozlišení pravdy od fikce prakticky nemožné.
+Problém má širší dopady na celý ekosystém online obsahu. S rostoucí kvalitou AI generátorů se stává stále těžší rozlišit skutečnost od fikce, přičemž ochranné mechanismy zaostávají. Selhání C2PA naznačuje, že potřebujeme fundamentálně odlišný přístup - nestačí spoléhat na dobrovolné označování obsahu ze strany tvůrců AI nástrojů, když platformy tyto značky stejně nerespektují nebo nedokážou zpracovat.
 
 ---
 
