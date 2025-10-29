@@ -4,9 +4,8 @@ companies:
 - OnePlus
 - The Verge
 date: '2025-10-27 13:24:55'
-description: OnePlus představil nový vlajkový telefon OnePlus 15 na čínském trhu s
-  rychlým 165Hz displejem a výrazně větší baterií. Globální uvedení má následovat
-  brzy.
+description: OnePlus oznámil svůj nový vlajkový telefon OnePlus 15 pro čínský trh
+  s rychlým 165Hz displejem a velkou baterií. Globální uvedení má přijít brzy.
 importance: 3
 layout: tech_news_article
 original_title: OnePlus 15 arrives in China, global launch ‘coming soon’ - The Verge
@@ -24,12 +23,12 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-OnePlus dnes oficiálně představil svůj nový vlajkový telefon OnePlus 15 na čínském trhu. Hlavními novinkami jsou displej s obnovovací frekvencí 165Hz a baterie s kapacitou 7300mAh. Globální uvedení telefonu zatím nemá potvrzené datum, ale společnost slibuje, že přijde "brzy".
+OnePlus dnes představil v Číně svůj nový vlajkový telefon OnePlus 15, který přináší výrazný skok v obnovovací frekvenci displeje na 165 Hz a velkou baterii s kapacitou 7300 mAh. Globální uvedení telefonu firma slibuje v blízké budoucnosti, přesné datum však zatím neoznámila.
 
 ## Klíčové body
 
-- Displej s obnovovací frekvencí 165Hz (nárůst z 120Hz u loňského OnePlus 13)
-- Baterie s kapacitou 7300mAh, což je součást trendu čínských vlajkových lodí s bateriemi nad 7000mAh
+- Displej s obnovovací frekvencí 165 Hz (nárůst z 120 Hz u loňského OnePlus 13)
+- Baterie s kapacitou 7300 mAh, což odpovídá trendu čínských vlajkových lodí
 - Procesor Qualcomm Snapdragon 8 Elite Gen 5
 - Trojitý 50megapixelový fotoaparát s vylepšeným periskopickým objektivem
 - Odolnost IP69K a 120W drátové nabíjení
@@ -37,17 +36,17 @@ OnePlus dnes oficiálně představil svůj nový vlajkový telefon OnePlus 15 na
 
 ## Podrobnosti
 
-OnePlus 15 přináší několik výrazných vylepšení oproti předchozí generaci. Nejvýraznější změnou je zvýšení obnovovací frekvence displeje ze 120Hz na 165Hz, což představuje výrazný skok v plynulosti zobrazení. Je však třeba poznamenat, že her a aplikací podporujících tak vysokou frekvenci je stále málo, takže praktický přínos pro většinu uživatelů bude omezený.
+OnePlus 15 představuje evoluční upgrade oproti předchozí generaci. Nejvýraznější změnou je zvýšení obnovovací frekvence displeje ze 120 Hz na 165 Hz, což by mělo přinést plynulejší zobrazení. Praktický přínos je však omezený, protože jen málo her a aplikací tyto vysoké frekvence skutečně podporuje.
 
-Baterie s kapacitou 7300mAh řadí OnePlus 15 mezi telefony s nejdelší výdrží na trhu. Tento trend velkých baterií je letos patrný především u čínských výrobců. Otázkou však zůstává, zda stejnou kapacitu dostanou i evropské a americké verze telefonu – v minulosti se totiž stávalo, že čínské varianty měly větší baterie než jejich globální protějšky.
+Baterie s kapacitou 7300 mAh řadí OnePlus 15 mezi telefony s největšími bateriemi na trhu. Tento trend velkých baterií nad 7000 mAh se letos prosadil především u čínských výrobců. Otázkou zůstává, zda stejnou kapacitu dostanou i evropské a americké verze telefonu - v minulosti se stávalo, že globální varianty měly menší baterie než čínské modely.
 
-Fotoaparát se skládá ze tří 50megapixelových senzorů, přičemž došlo k vylepšení periskopického objektivu pro lepší přiblížení. Telefon získal certifikaci IP69K, což znamená odolnost nejen proti vodě a prachu, ale i proti vysokotlakému čištění horkou vodou. Nabíjení zůstává na 120W, což umožňuje rychlé doplnění energie.
+Fotoaparát tvoří trojice 50megapixelových senzorů s vylepšeným periskopickým teleobjektivem. Design fotoaparátu prošel redesignem s novým zaoblenějším čtvercovým modulem. Telefon dostal certifikaci IP69K, což znamená ochranu proti prachu a vysokotlakému mytí horkou vodou.
 
-Společně s OnePlus 15 byla představena i levnější varianta Ace 6, která může být globálně uvedena jako OnePlus 15R. Ta nabízí ještě větší baterii 7800mAh, ale má jednodušší duální fotoaparát.
+Nabíjení zůstává na 120W pro drátové nabíjení, což umožňuje rychlé doplnění energie i u tak velké baterie. Společně s OnePlus 15 byl představen i levnější model Ace 6 s ještě větší baterií 7800 mAh, ale jednodušším duálním fotoaparátem. Tento model by mohl být globálně uveden jako OnePlus 15R.
 
 ## Proč je to důležité
 
-OnePlus 15 ukazuje směr, kterým se ubírají moderní vlajkové telefony – důraz na výdrž baterie a vysoké obnovovací frekvence displejů. Pro český trh bude klíčové, jakou specifikaci a za jakou cenu telefon dorazí do Evropy. Pokud si zachová velkou baterie a agresivní cenu, může představovat zajímavou alternativu k dražším vlajkovým lodím od Samsungu nebo Apple.
+OnePlus 15 ukazuje směr, kterým se ubírají vlajkové telefony - důraz na výdrž baterie a vysoké obnovovací frekvence displejů. Otázkou zůstává, zda západní trhy dostanou stejné specifikace jako Čína, zejména co se týče kapacity baterie. Pro uživatele bude klíčová cena globální verze, která pravděpodobně bude výrazně vyšší než čínských 13 000 Kč.
 
 ---
 

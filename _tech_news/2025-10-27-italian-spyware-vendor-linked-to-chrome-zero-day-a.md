@@ -5,8 +5,8 @@ companies:
 - Memento Labs
 - Hacking Team
 date: '2025-10-27 16:37:28'
-description: Zranitelnost nultého dne v prohlížeči Chrome využitá v kampani ForumTroll
-  dodávala malware od italské firmy Memento Labs, která vznikla z nechvalně známého
+description: Zranitelnost zero-day v prohlížeči Chrome, využitá při kampani ForumTroll,
+  šířila malware od italské firmy Memento Labs, která vznikla z nechvalně známého
   Hacking Teamu.
 importance: 4
 layout: tech_news_article
@@ -17,8 +17,8 @@ source:
   emoji: 📰
   id: null
   name: BleepingComputer
-title: Italský prodejce špionážního softwaru stojí za útoky využívajícími zranitelnost
-  Chrome
+title: Italský výrobce špionážního softwaru stojí za útoky využívajícími zranitelnost
+  v Chrome
 url: https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/
 urlToImage: https://www.bleepstatic.com/content/hl-images/2023/11/28/Google_Chrome.jpg
 urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2023/11/28/Google_Chrome.jpg
@@ -26,33 +26,31 @@ urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2023/11/28/Googl
 
 ## Souhrn
 
-Bezpečnostní výzkumníci z Kaspersky odhalili spojení mezi útoky využívajícími zranitelnost nultého dne v prohlížeči Chrome a italskou firmou Memento Labs, která vznikla po akvizici kontroverzního Hacking Teamu. Kampaň nazvaná Operation ForumTroll cílila na ruské organizace pomocí zranitelnosti CVE-2025-2783 a dodávala komerční špionážní software s kódovým označením Dante.
+Bezpečnostní výzkumníci z Kaspersky odhalili spojení mezi útoky využívajícími zranitelnost zero-day v prohlížeči Chrome a italským výrobcem špionážního softwaru Memento Labs. Firma vznikla po akvizici kontroverzního Hacking Teamu společností InTheCyber Group a její malware s kódovým označením "Dante" byl aktivní minimálně od roku 2022.
 
 ## Klíčové body
 
-- Kaspersky v březnu 2025 odhalil kampaň ForumTroll využívající zranitelnost CVE-2025-2783 pro únik z sandboxu Chrome
-- Útoky cílily na ruská média, univerzity, výzkumná centra, vládní organizace a finanční instituce
-- Malware Dante pochází od firmy Memento Labs, která vznikla z aktiv Hacking Teamu po jeho akvizici v roce 2019
-- Analýza odhalila, že podobné útoky probíhají minimálně od roku 2022 a zasáhly také organizace v Bělorusku
-- Hacking Team byl v roce 2015 kompromitován, což odhalilo prodej špionážního softwaru autoritářským režimům
+- Kampaň ForumTroll zneužila zranitelnost CVE-2025-2783 v Chrome k útokům na ruské organizace včetně médií, univerzit a vládních institucí
+- Malware Dante vyvinula firma Memento Labs, nástupce Hacking Teamu, který byl v roce 2015 kompromitován a odhalen jako dodavatel špionážního softwaru autoritářským režimům
+- Útoky probíhaly prostřednictvím podvodných e-mailových pozvánek na konferenci Primakov Readings s maliciózními odkazy
+- Pouhé načtení odkazu v jakémkoli prohlížeči založeném na Chromium stačilo k infikování systému
+- Analýza odhalila další útoky na organizace v Rusku a Bělorusku sahající až do roku 2022
 
 ## Podrobnosti
 
-Operation ForumTroll představovala sofistikovanou útočnou kampaň, která využívala sociální inženýrství v kombinaci s technickou zranitelností. Útočníci rozesílali pečlivě připravené pozvánky na konferenci Primakov Readings, které obsahovaly škodlivý odkaz. Pouhé načtení tohoto odkazu v jakémkoli prohlížeči založeném na Chromiu stačilo k infikování systému.
+Operace ForumTroll, kterou Kaspersky poprvé odhalil v březnu 2025, představovala sofistikovanou kybernetickou kampaň zaměřenou na ruské instituce. Útočníci využili pečlivě připravené e-maily vydávající se za pozvánky na prestižní mezinárodní fórum Primakov Readings. Tyto zprávy obsahovaly škodlivé odkazy, které po otevření v prohlížeči automaticky spustily infekční řetězec.
 
-Zranitelnost CVE-2025-2783 umožňovala útočníkům uniknout z bezpečnostního sandboxu prohlížeče Chrome, což je kritická ochranná vrstva, která má zabránit škodlivému kódu v přístupu k operačnímu systému. Tato schopnost činila z útoků mimořádně nebezpečné, protože nevyžadovaly žádnou další interakci od oběti.
+Klíčovým prvkem útoků byla zranitelnost CVE-2025-2783, umožňující útěk z bezpečnostního sandboxu prohlížeče Chrome. Tato zero-day zranitelnost, tedy bezpečnostní chyba neznámá v době zneužití, poskytla útočníkům možnost obejít ochranné mechanismy prohlížeče a nainstalovat malware přímo do systému oběti.
 
-Memento Labs je přímým pokračováním Hacking Teamu, milánské firmy, která vyvinula systém Remote Control System (RCS) prodávaný jako nástroj pro sledování. V roce 2015 byl Hacking Team sám napaden hackery, kteří zveřejnili interní data odhalující prodej špionážního softwaru autoritářským režimům, využívání zranitelností nultého dne a spolupráci s vládními zpravodajskými službami. Tento incident fakticky ukončil činnost firmy v původní podobě.
+Při hlubší analýze starších útoků výzkumníci identifikovali dosud neznámý komerční špionážní software nazvaný Dante. Stopa vedla k italské firmě Memento Labs, která vznikla v roce 2019 po akvizici nechvalně známého Hacking Teamu společností InTheCyber Group. Hacking Team byl milánský výrobce špionážního softwaru Remote Control System (RCS), který prodával své nástroje vládním agenturám jako sledovací technologii.
 
-V roce 2019 skupinu InTheCyber Group získala aktiva Hacking Teamu a založila Memento Labs, která pokračuje ve vývoji komerčního špionážního softwaru. Firma prezentovala své produkty například na konferenci ISS World Middle East and Africa, která se zaměřuje na technologie pro sledování a zpravodajské služby.
+Osud Hacking Teamu byl zpečetěn v roce 2015, kdy firma sama padla za oběť kybernetického útoku. Únik dat odhalil prodeje autoritářským režimům, přístup k zero-day zranitelnostem a spolupráci s vládními zpravodajskými službami. InTheCyber Group následně využil výzkum a know-how Hacking Teamu k vytvoření Memento Labs, která pokračuje v tradici vývoje komerčního špionážního softwaru.
 
 ## Proč je to důležité
 
-Tento případ ilustruje pokračující problém komerčního trhu se špionážním softwarem a zranitelnostmi nultého dne. Navzdory skandálu z roku 2015 a veřejnému odhalení kontroverzních praktik Hacking Teamu pokračuje stejná technologická základna v nových formách. Memento Labs představuje reinkarnaci firmy, která byla veřejně kompromitována za prodej nástrojů autoritářským režimům.
+Odhalení spojení mezi zero-day zranitelnostmi v široce používaném prohlížeči Chrome a komerčním špionážním softwarem ukazuje na rostoucí sofistikovanost kybernetických útoků sponzorovaných státy nebo prováděných s využitím komerčních nástrojů. Existence firem jako Memento Labs, které staví na základech kontroverzních předchůdců, poukazuje na problematický trh se špionážními technologiemi.
 
-Zranitelnosti nultého dne v široce používaných prohlížečích jako Chrome představují kritické bezpečnostní riziko, protože mohou být zneužity k masovému sledování bez vědomí obětí. Skutečnost, že malware Dante byl aktivní minimálně od roku 2022, naznačuje dlouhodobou kampaň, která mohla zasáhnout desítky nebo stovky organizací.
-
-Případ také ukazuje na rostoucí sofistikovanost útoků kombinujících sociální inženýrství s technickými exploity. Použití legitimně vypadajících pozvánek na skutečnou konferenci zvyšuje pravděpodobnost, že oběti na odkaz kliknou. Pro organizace to znamená nutnost implementovat vícevrstvou obranu zahrnující jak technická opatření, tak školení zaměstnanců v rozpoznávání phishingových útoků.
+Případ také demonstruje, jak mohou být zero-day zranitelnosti v běžném softwaru zneužity k rozsáhlým špionážním kampaním. Skutečnost, že pouhé kliknutí na odkaz v e-mailu stačilo k infikování systému, zdůrazňuje důležitost pravidelných aktualizací prohlížečů a opatrnosti při otevírání odkazů i od zdánlivě důvěryhodných odesílatelů. Pro organizace v citlivých sektorech to znamená nutnost implementace vícevrstvé bezpečnosti a školení zaměstnanců v rozpoznávání phishingových útoků.
 
 ---
 
