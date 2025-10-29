@@ -2,10 +2,9 @@
 category: nositelná elektronik
 companies:
 - Google
-- Fitbit
 date: '2025-10-27 17:19:05'
 description: Google oficiálně oznámil, že v roce 2026 uvede na trh nový hardware značky
-  Fitbit. Poslední fitness tracker Charge 6 byl představen v září 2023.
+  Fitbit. Jde o první potvrzení nových zařízení po dvou letech.
 importance: 3
 layout: tech_news_article
 original_title: Google says new Fitbit hardware is coming in 2026 - 9to5Google
@@ -23,29 +22,27 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google potvrdil, že v roce 2026 uvede na trh nový hardware pod značkou Fitbit. Oznámení přišlo v rámci představení nové služby Fitbit Coach a redesignované aplikace Fitbit, které budут plně spuštěny také v příštím roce. Poslední fitness tracker Charge 6 byl představen v září 2023, levnější model Inspire 3 pochází z roku 2022.
+Google oficiálně potvrdil, že v roce 2026 uvede na trh nový hardware pod značkou Fitbit. Oznámení přišlo v rámci představení služby Fitbit Coach, která vstupuje do testovací fáze. Poslední fitness tracker Fitbit Charge 6 byl vydán v září 2023, levnější model Inspire 3 pochází z roku 2022.
 
 ## Klíčové body
 
-- Google oficiálně potvrdil uvedení nového hardwaru Fitbit v roce 2026
-- Poslední tracker Charge 6 je na trhu od září 2023, Inspire 3 od roku 2022
-- Nejnovějším produktem Fitbit je technicky Ace LTE za 180 dolarů s Wear OS pro děti
-- Google pravděpodobně ukončí vývoj chytrých hodinek s Fitbit OS ve prospěch Wear OS
-- Pokračování ve vývoji fitness trackerů se jeví jako pravděpodobné
+- Google potvrdil vydání nového hardwaru Fitbit v roce 2026
+- Současně s hardwarem bude spuštěna služba Fitbit Coach a redesignovaná aplikace
+- Poslední tracker Charge 6 je z roku 2023, Inspire 3 z roku 2022
+- Google pravděpodobně ukončí vývoj chytrých hodinek s Fitbit OS
+- Nejnovějším zařízením Fitbit jsou dětské hodinky Ace LTE s Wear OS
 
 ## Podrobnosti
 
-Google v současnosti nabízí dva hlavní fitness trackery Fitbit - model Inspire 3 za 100 dolarů a pokročilejší Charge 6 za 160 dolarů. Oba modely nabízejí výdrž baterie kolem týdne a výrazně kompaktnější rozměry než chytré hodinky Pixel Watch, které stojí 350 dolarů. Důležitou výhodou trackerů Fitbit zůstává také kompatibilita s iOS.
+Google po delší odmlce potvrdil pokračování hardwarové řady Fitbit. Aktuální nabídka zahrnuje tracker Charge 6 za 160 dolarů a cenově dostupnější Inspire 3 za 100 dolarů, který bývá často v akci. Chytré hodinky Versa 4 a Sense 2 pocházejí rovněž z roku 2022. Technicky nejnovějším produktem jsou dětské hodinky Ace LTE za 180 dolarů, které již běží na platformě Wear OS.
 
-S ohledem na zralost platformy Pixel Watch se očekává, že Google již nebude vyvíjet další chytré hodinky s operačním systémem Fitbit OS. Místo toho se zaměří na pokračování v linii fitness trackerů, které mají své pevné místo na trhu díky nižší ceně, delší výdrži baterie a menším rozměrům.
+S ohledem na zralost řady Pixel Watch se očekává, že Google ukončí vývoj chytrých hodinek s proprietárním systémem Fitbit OS. Pokračování v trackerech však dává smysl z několika důvodů. Především nabízejí výdrž baterie kolem týdne, což je výrazně více než u Pixel Watch. Další výhodou je kompaktnější provedení a kompatibilita s iOS.
 
-Loňské Pixel Watch 3 se prodává od 250 dolarů, přičemž u jiných prodejců lze najít ceny v rozmezí 200+ dolarů, což historicky odpovídá cenovému segmentu chytrých hodinek Fitbit. Přesto existuje poptávka po více fitness-orientovaných hodinkách s Wear OS, případně modelu ve stylu "Ultra" verze. Takové zařízení by mohlo využít plastové tělo pro nižší hmotnost a vyšší odolnost, čtvercový nebo obdélníkový tvar by pak mohl přispět k delší výdrži baterie.
-
-Nová služba Fitbit Coach, která není omezena pouze na Pixel Watch, dává smysl pokračování v nabídce cenově dostupnějších zařízení pod hranicí 350 dolarů.
+Pixel Watch 3 z loňského roku se prodává od 250 dolarů, přičemž slevy u jiných prodejců ho dostávají do cenového pásma 200+ dolarů, kde se historicky pohybovaly chytré hodinky Fitbit. To sice poskytuje určitou škálu možností, ale stále existuje poptávka po více fitness-orientovaných hodinkách s Wear OS, případně variantě "Ultra". Plastové provedení by mohlo zajistit lehčí a odolnější zařízení, čtvercový nebo obdélníkový tvar by pak pomohl s výdrží baterie.
 
 ## Proč je to důležité
 
-Potvrzení nového hardwaru Fitbit ukazuje, že Google i po akvizici značky v roce 2021 pokračuje v její podpoře a neplánuje ji úplně sloučit s produktovou linií Pixel Watch. Fitness trackery Fitbit mají stále své místo na trhu díky kombinaci nižší ceny, delší výdrže baterie a kompatibility s iOS, což jsou oblasti, kde Pixel Watch nemůže konkurovat. Pokračování ve vývoji trackerů dává smysl zejména v kontextu nové služby Fitbit Coach, která má fungovat napříč zařízeními a poskytovat personalizované zdravotní poradenství širšímu okruhu uživatelů.
+Potvrzení nového hardwaru Fitbit ukazuje, že Google nemá v úmyslu opustit segment cenově dostupnějších fitness trackerů navzdory vlastní řadě Pixel Watch. Zachování dvou produktových linií dává smysl - Pixel Watch cílí na prémiový segment chytrých hodinek, zatímco Fitbit trackery oslovují uživatele hledající především sledování aktivity s dlouhou výdrží a nižší cenou. Otázkou zůstává, zda Google představí pouze nové generace stávajících trackerů, nebo přijde s úplně novým typem zařízení.
 
 ---
 

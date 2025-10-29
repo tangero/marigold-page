@@ -22,9 +22,9 @@ urlToImageBackup: https://photos5.appleinsider.com/gallery/65541-137143-65192-13
 
 ## Shrnutí
 
-Nové informace z dodavatelského řetězce zpochybňují dřívější zprávy o tom, že Apple snižuje výrobu chystaného modelu iPhone Air. Podle aktuálních zdrojů společnost nezměnila své výrobní plány pro rok 2025, což odporuje předchozím spekulacím o redukci objednávek u dodavatelů.
+Nová zpráva z dodavatelského řetězce zpochybňuje dřívější informace o tom, že Apple snižuje výrobu chystaného modelu iPhone Air. Podle aktuálních zdrojů společnost nemění své výrobní plány pro rok 2025 a původní spekulace o redukci objednávek se nepotvrzují.
 
-Jedná se o typickou situaci protichůdných informací z dodavatelského řetězce, kde různé zdroje poskytují odlišné údaje o výrobních plánech Applu. Bez oficiálního potvrzení ze strany společnosti zůstává skutečný stav výroby iPhone Air nejasný.
+Jedná se o další z řady protichůdných informací ohledně nového ultra-tenkého modelu iPhonu, který má údajně doplnit produktovou řadu Apple. Celá záležitost zůstává v rovině spekulací a nepotvrzených zpráv ze zákulisí dodavatelského řetězce.
 
 ---
 

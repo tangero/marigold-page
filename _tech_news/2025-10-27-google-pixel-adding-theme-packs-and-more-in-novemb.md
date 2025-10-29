@@ -21,11 +21,17 @@ urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-launcher-homescreen-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-## Krátké shrnutí
+## Shrnutí
 
-Na internetu se objevily uniklé snímky obrazovky z aplikace Pixel Tips, které naznačují příchod listopadové aktualizace pro telefony Google Pixel. Aktualizace by měla přinést tři nové funkce: balíčky motivů pro rychlou personalizaci vzhledu telefonu, možnost vytváření animací v aplikaci Pixel Studio a VIP notifikace. Informace pocházejí od skupiny Mystic Leaks na Telegramu a zatím nebyly oficiálně potvrzeny.
+Na internetu se objevily uniklé snímky obrazovky z aplikace Pixel Tips, které naznačují příchod listopadové aktualizace pro telefony Google Pixel. Aktualizace má přinést tři nové funkce: balíčky motivů pro rychlou personalizaci, možnost vytváření animací v aplikaci Pixel Studio a VIP notifikace. Informace pochází od skupiny Mystic Leaks na Telegramu, přičemž původně se očekávalo vydání Feature Drop až v prosinci společně s Android 16 QPR2.
 
-Balíčky motivů (Theme Packs) mají umožnit změnu vzhledu telefonu jedním klepnutím, včetně tapety, ikon, zvuků a GIF animací. První balíček bude podle úniků věnován muzikálu Wicked. Aplikace Pixel Studio, která slouží k vytváření obrázků pomocí umělé inteligence, získá funkci pro převod statických obrázků na animované GIFy nebo samolepky. Třetí novinkou jsou VIP notifikace, o kterých však uniklé materiály neposkytují bližší informace. Aktualizace měla původně dorazit v prosinci společně s Android 16 QPR2, ale může přijít dříve.
+**Balíčky motivů** mají umožnit uživatelům změnit vzhled telefonu jedním klepnutím. Funkce kombinuje výběr tapety s automatickým přizpůsobením ikon, zvuků a GIF animací. První balíček bude tematicky zaměřený na muzikál Wicked a nabídne tři varianty: "For Good", "Glinda" a "Elphaba". Jde v podstatě o rozšířenou verzi stávajícího systému motivů.
+
+**Animace v Pixel Studio** přidají do aplikace pro generování obrázků pomocí AI možnost převádět statické obrázky na GIF animace nebo animované samolepky. Uživatelé budou moci vytvořit obrázek textovým příkazem a následně ho animovat tlačítkem "Animate image".
+
+**VIP notifikace** představují třetí novinku, o které však uniklé materiály neposkytují podrobnosti. Jedná se pravděpodobně o rozšíření stávajícího systému upozornění.
+
+Důležité je zdůraznit, že jde o neoficiální informace z úniku, nikoli o oficiální oznámení Googlu. Termín vydání ani finální podoba funkcí nejsou potvrzeny.
 
 ---
 
