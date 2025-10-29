@@ -1,0 +1,1752 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Technologické zprávy - 2025-10-28 | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Technologické zprávy - 2025-10-28" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-28/" />
+<meta property="og:url" content="https://www.marigold.cz/tech-news/2025-10-28/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-10-28T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Technologické zprávy - 2025-10-28" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-10-28T00:00:00+00:00","datePublished":"2025-10-28T00:00:00+00:00","description":"Technologie a Svět","headline":"Technologické zprávy - 2025-10-28","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-10-28/"},"url":"https://www.marigold.cz/tech-news/2025-10-28/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Technologické zprávy - 2025-10-28" />
+    <meta property="twitter:title" content="Technologické zprávy - 2025-10-28" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-28/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <div class="tech-news-container">
+  <header class="tech-news-header">
+    <h1 align="center">Technologické zprávy</h1>
+    <p class="tech-news-description">28.10.2025</p>
+  </header>
+
+  <!-- Filtry -->
+  <div class="tech-news-filters">
+    <!-- Obecné filtry -->
+    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
+
+    <!-- Filtry podle důležitosti -->
+    <div class="filter-separator">Důležitost:</div>
+    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
+    <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
+  </div>
+
+  <!-- Seznam zpráv -->
+  <div class="tech-news-container">
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+      
+    
+
+    
+
+    
+
+    <!-- Navigace dnů -->
+    <div class="date-navigation">
+      <div class="date-selector">
+        
+
+        <div class="current-date">
+          <span class="current-date-display">28.10.2025</span>
+        </div>
+
+        
+          <a href="/tech-news/" class="date-nav-link" title="Nejnovější články">
+            Nejnovější &rarr;
+          </a>
+        
+      </div>
+
+      <div class="date-info">
+        <span class="articles-count">11 článků</span>
+      </div>
+    </div>
+
+    <!-- Grid článků pro tento den -->
+    <div class="tech-news-grid">
+      
+      <article class="tech-news-card" data-category="kybernetická bezpečn" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Internet</span>
+            <time class="tech-news-date" datetime="2025-10-28T08:22:00+00:00" data-utc="2025-10-28T08:22:00+00:00">
+              28.10.2025 08:22
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s790-rw-e365/chrome-exploit.png" alt="Zranitelnost Chrome Zero-Day zneužita k šíření špionážního softwaru LeetAgent od italské firmy Memento Labs" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s790-rw-e365/chrome-exploit.png" onerror="handleImageError(this, '/tech-news/chrome-zero-day-exploited-to-deliver-italian-memen/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/chrome-zero-day-exploited-to-deliver-italian-memen/">Zranitelnost Chrome Zero-Day zneužita k šíření špionážního softwaru LeetAgent od italské firmy Memento Labs</a>
+          </h2>
+
+          <p class="tech-news-description">Společnost Kaspersky odhalila aktivní zneužívání kritické zranitelnosti CVE-2025-2783 v prohlížeči Chrome, kterou útočníci využili k nasazení špionážního nástroje LeetAgent od italské firmy Memento Labs.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/chrome-zero-day-exploited-to-deliver-italian-memen/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Internet
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">kybernetická bezpečn</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+                <span class="entity-tag company-tag">Kaspersky</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="virtuální realita" data-importance="4">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">TheStreet</span>
+            <time class="tech-news-date" datetime="2025-10-28T00:07:00+00:00" data-utc="2025-10-28T00:07:00+00:00">
+              28.10.2025 00:07
+            </time>
+          </div>
+          <div class="importance-indicator importance-4">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2Mzg2OTE0MTUwNzg2NDE1/sundar_pichai_google_cp_071725.jpg" alt="Samsung a Google představily headset Galaxy XR za 1 799 dolarů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2Mzg2OTE0MTUwNzg2NDE1/sundar_pichai_google_cp_071725.jpg" onerror="handleImageError(this, '/tech-news/samsung-google-unveil-1799-device-that-aims-to-rep/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/samsung-google-unveil-1799-device-that-aims-to-rep/">Samsung a Google představily headset Galaxy XR za 1 799 dolarů</a>
+          </h2>
+
+          <p class="tech-news-description">Samsung a Google odhalily společný headset pro rozšířenou realitu Galaxy XR, který kombinuje AI, aplikace a imersivní výpočetní prostředí v jednom zařízení.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/samsung-google-unveil-1799-device-that-aims-to-rep/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na TheStreet
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">virtuální realita</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní systémy" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">9to5Mac</span>
+            <time class="tech-news-date" datetime="2025-10-28T15:33:07+00:00" data-utc="2025-10-28T15:33:07+00:00">
+              28.10.2025 15:33
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iOS-26.1-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="iOS 26.1 přinese čtyři nové možnosti přizpůsobení iPhonu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iOS-26.1-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" onerror="handleImageError(this, '/tech-news/ios-261-will-add-four-new-ways-to-customize-your-i/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/ios-261-will-add-four-new-ways-to-customize-your-i/">iOS 26.1 přinese čtyři nové možnosti přizpůsobení iPhonu</a>
+          </h2>
+
+          <p class="tech-news-description">Nadcházející aktualizace iOS 26.1 nabídne uživatelům čtyři nové nastavení pro úpravu vzhledu a chování jejich iPhonu, včetně úprav designu Liquid Glass a možnosti vypnout gesto pro spuštění fotoaparátu.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/ios-261-will-add-four-new-ways-to-customize-your-i/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na 9to5Mac
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní systémy</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="notebookové procesor" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">🔬</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Ars Technica</span>
+            <time class="tech-news-date" datetime="2025-10-28T15:17:13+00:00" data-utc="2025-10-28T15:17:13+00:00">
+              28.10.2025 15:17
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/AMD-mendocino-1152x648.jpg" alt="AMD přejmenovává několik let staré procesory pro levné notebooky" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.arstechnica.net/wp-content/uploads/2025/10/AMD-mendocino-1152x648.jpg" onerror="handleImageError(this, '/tech-news/amd-shores-up-its-budget-laptop-cpus-by-renaming-m/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/amd-shores-up-its-budget-laptop-cpus-by-renaming-m/">AMD přejmenovává několik let staré procesory pro levné notebooky</a>
+          </h2>
+
+          <p class="tech-news-description">AMD tiše přejmenovala starší notebookové procesory z let 2019-2022 s novými čísly modelů. Intel postupuje podobně u levných počítačů.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/amd-shores-up-its-budget-laptop-cpus-by-renaming-m/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Ars Technica
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">notebookové procesor</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">AMD</span>
+              
+                <span class="entity-tag company-tag">Intel</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní aplikace" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-28T13:14:14+00:00" data-utc="2025-10-28T13:14:14+00:00">
+              28.10.2025 13:14
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1028_SIte_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" alt="Mistrovský kurz Apple Shortcuts: Automatizace iPhonu v praxi" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1028_SIte_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200" onerror="handleImageError(this, '/tech-news/an-apple-shortcuts-masterclass-the-verge/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/an-apple-shortcuts-masterclass-the-verge/">Mistrovský kurz Apple Shortcuts: Automatizace iPhonu v praxi</a>
+          </h2>
+
+          <p class="tech-news-description">Podcast The Vergecast se věnuje pokročilým možnostem Apple Shortcuts, recenzi chytrých brýlí Meta Ray-Ban Display a levným bezdrátovým sluchátkům.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/an-apple-shortcuts-masterclass-the-verge/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní aplikace</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Apple</span>
+              
+                <span class="entity-tag company-tag">Meta</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="skládací telefony" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-28T13:14:04+00:00" data-utc="2025-10-28T13:14:04+00:00">
+              28.10.2025 13:14
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2243326301.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200" alt="Samsung poprvé veřejně ukázal svůj skládací telefon se třemi panty" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2243326301.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200" onerror="handleImageError(this, '/tech-news/samsung-shows-off-its-trifold-phone-in-person-the/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/samsung-shows-off-its-trifold-phone-in-person-the/">Samsung poprvé veřejně ukázal svůj skládací telefon se třemi panty</a>
+          </h2>
+
+          <p class="tech-news-description">Jihokorejský výrobce představil na summitu APEC prototyp telefonu s trojitým skládáním, který má být uveden na trh ještě letos. Zařízení je vystaveno ve skleněné vitríně a nikdo si ho nemůže vyzkoušet.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/samsung-shows-off-its-trifold-phone-in-person-the/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">skládací telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+                <span class="entity-tag company-tag">The Verge</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="robotické vysavače" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">⚡</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">The Verge</span>
+            <time class="tech-news-date" datetime="2025-10-28T08:00:00+00:00" data-utc="2025-10-28T08:00:00+00:00">
+              28.10.2025 08:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6755_3e38af.jpeg?quality=90&strip=all&crop=0%2C1.2319774174429%2C100%2C69.820493642483&w=1200" alt="První pohled na robotický vysavač DJI Romo" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6755_3e38af.jpeg?quality=90&strip=all&crop=0%2C1.2319774174429%2C100%2C69.820493642483&w=1200" onerror="handleImageError(this, '/tech-news/first-look-djis-romo-robot-vacuum-the-verge/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/first-look-djis-romo-robot-vacuum-the-verge/">První pohled na robotický vysavač DJI Romo</a>
+          </h2>
+
+          <p class="tech-news-description">DJI vstupuje na trh robotických vysavačů s modelem Romo, který kombinuje vysávání a mytí podlah s průhledným designem a navigační technologií z dronů.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/first-look-djis-romo-robot-vacuum-the-verge/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na The Verge
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">robotické vysavače</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">DJI</span>
+              
+                <span class="entity-tag company-tag">The Verge</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="herní průmysl" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Push Square</span>
+            <time class="tech-news-date" datetime="2025-10-28T05:00:00+00:00" data-utc="2025-10-28T05:00:00+00:00">
+              28.10.2025 05:00
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://images.pushsquare.com/01b8fb4d7dc90/large.jpg" alt="Pocta Sony k 25. výročí PlayStation 2 vyvolala kritiku fanoušků" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://images.pushsquare.com/01b8fb4d7dc90/large.jpg" onerror="handleImageError(this, '/tech-news/sonys-social-media-tribute-to-the-ps2-borders-on-i/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/sonys-social-media-tribute-to-the-ps2-borders-on-i/">Pocta Sony k 25. výročí PlayStation 2 vyvolala kritiku fanoušků</a>
+          </h2>
+
+          <p class="tech-news-description">Sony oslavilo čtvrtstoletí konzole PS2 propagací služby PS Plus Premium, která však postrádá většinu ikonických her z této platformy.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/sonys-social-media-tribute-to-the-ps2-borders-on-i/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Push Square
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">herní průmysl</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Sony</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="biotechnologie" data-importance="3">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">ScienceAlert</span>
+            <time class="tech-news-date" datetime="2025-10-28T01:42:46+00:00" data-utc="2025-10-28T01:42:46+00:00">
+              28.10.2025 01:42
+            </time>
+          </div>
+          <div class="importance-indicator importance-3">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.sciencealert.com/images/2025/10/mushroom_memristor_header.jpg" alt="Vědci vytvořili funkční počítačovou paměť z hub shiitake" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.sciencealert.com/images/2025/10/mushroom_memristor_header.jpg" onerror="handleImageError(this, '/tech-news/scientists-built-a-working-computer-memory-out-of/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/scientists-built-a-working-computer-memory-out-of/">Vědci vytvořili funkční počítačovou paměť z hub shiitake</a>
+          </h2>
+
+          <p class="tech-news-description">Výzkumníci z Ohio State University postavili funkční memristory z mycelií hub shiitake, které by mohly být levnou a ekologickou alternativou k současným paměťovým čipům.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/scientists-built-a-working-computer-memory-out-of/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na ScienceAlert
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">biotechnologie</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">GSMArena.com</span>
+            <time class="tech-news-date" datetime="2025-10-28T12:07:01+00:00" data-utc="2025-10-28T12:07:01+00:00">
+              28.10.2025 12:07
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://fdn.gsmarena.com/imgroot/news/25/10/galaxy-z-fold8-display-battery-leak/-952x498w6/gsmarena_000.jpg" alt="Úniky specifikací displeje a baterie Galaxy Z Fold8" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://fdn.gsmarena.com/imgroot/news/25/10/galaxy-z-fold8-display-battery-leak/-952x498w6/gsmarena_000.jpg" onerror="handleImageError(this, '/tech-news/galaxy-z-fold8-display-and-battery-details-leaked/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/galaxy-z-fold8-display-and-battery-details-leaked/">Úniky specifikací displeje a baterie Galaxy Z Fold8</a>
+          </h2>
+
+          <p class="tech-news-description">Objevily se první spekulace o skládacím telefonu Samsung Galaxy Z Fold8, který má přijít v červenci 2026. Telefon údajně dostane větší baterii a vylepšený displej s menší záhybovou rýhou.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/galaxy-z-fold8-display-and-battery-details-leaked/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na GSMArena.com
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Samsung</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+      <article class="tech-news-card" data-category="mobilní telefony" data-importance="2">
+        <div class="tech-news-meta">
+          <span class="tech-news-emoji">📰</span>
+          <div class="tech-news-info">
+            <span class="tech-news-source">Android Authority</span>
+            <time class="tech-news-date" datetime="2025-10-28T00:54:25+00:00" data-utc="2025-10-28T00:54:25+00:00">
+              28.10.2025 00:54
+            </time>
+          </div>
+          <div class="importance-indicator importance-2">
+            
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star filled">★</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+              
+                <span class="star">☆</span>
+              
+            
+          </div>
+        </div>
+
+        
+        <div class="tech-news-image">
+          <img src="https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-2-scaled.jpg" alt="Úniky naznačují brzké vydání listopadové aktualizace Pixel Drop s novými tématy" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-2-scaled.jpg" onerror="handleImageError(this, '/tech-news/googles-next-pixel-drop-may-land-early-as-leak-spi/');" width="380" height="200">
+        </div>
+        
+
+        <div class="tech-news-content">
+          <h2 class="tech-news-title">
+            <a href="/tech-news/googles-next-pixel-drop-may-land-early-as-leak-spi/">Úniky naznačují brzké vydání listopadové aktualizace Pixel Drop s novými tématy</a>
+          </h2>
+
+          <p class="tech-news-description">Podle neoficiálních informací by Google mohl vydat další velkou aktualizaci pro telefony Pixel již 4. listopadu, tedy dříve než obvykle. Přinést má především nové tematické balíčky.</p>
+
+          <div class="tech-news-actions">
+            <a href="/tech-news/googles-next-pixel-drop-may-land-early-as-leak-spi/" class="tech-news-link" target="_blank" rel="noopener">
+              Číst na Android Authority
+              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+              </svg>
+            </a>
+            <span class="tech-news-category">mobilní telefony</span>
+          </div>
+
+          <!-- Firmy a osobnosti -->
+          
+          <div class="tech-news-entities">
+            
+            <div class="tech-news-companies">
+              <span class="entity-label">🏢</span>
+              
+                <span class="entity-tag company-tag">Google</span>
+              
+            </div>
+            
+
+            
+          </div>
+          
+        </div>
+      </article>
+      
+    </div>
+  </div>
+
+  
+</div>
+
+<script>
+// Převod času na místní časovou zónu
+function convertTimesToLocal() {
+  const timeElements = document.querySelectorAll('.tech-news-date[data-utc]');
+
+  timeElements.forEach(timeEl => {
+    const utcTime = timeEl.dataset.utc;
+    if (!utcTime) return;
+
+    try {
+      const date = new Date(utcTime);
+
+      // Formát: dd.mm.yyyy hh:mm (CET/CEST)
+      const options = {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Europe/Prague', // CET/CEST
+        timeZoneName: 'short'
+      };
+
+      const formatter = new Intl.DateTimeFormat('cs-CZ', options);
+      const parts = formatter.formatToParts(date);
+
+      // Sestavit formát dd.mm.yyyy hh:mm CET
+      const day = parts.find(p => p.type === 'day').value;
+      const month = parts.find(p => p.type === 'month').value;
+      const year = parts.find(p => p.type === 'year').value;
+      const hour = parts.find(p => p.type === 'hour').value;
+      const minute = parts.find(p => p.type === 'minute').value;
+      const timeZone = parts.find(p => p.type === 'timeZoneName').value;
+
+      timeEl.textContent = `${day}.${month}.${year} ${hour}:${minute} ${timeZone}`;
+
+    } catch (e) {
+      console.warn('Chyba převodu času:', utcTime, e);
+    }
+  });
+}
+
+// Handling chyb obrázků
+function handleImageError(imgElement, articleUrl) {
+  console.warn('Obrázek se nenačetl:', imgElement.src);
+
+  // Zkusit backup URL z front matter pokud existuje
+  if (imgElement.dataset.backup) {
+    const backupImg = new Image();
+    backupImg.onload = function() {
+      imgElement.src = imgElement.dataset.backup;
+      return;
+    };
+    backupImg.onerror = function() {
+      showEmojiPlaceholder(imgElement);
+    };
+    backupImg.src = imgElement.dataset.backup;
+  } else {
+    showEmojiPlaceholder(imgElement);
+  }
+}
+
+// Zobrazit emoji placeholder místo obrázku
+function showEmojiPlaceholder(imgElement) {
+  const card = imgElement.closest('.tech-news-card');
+  const category = card ? card.dataset.category : 'default';
+
+  // Najít kategorii v mapě
+  const emojiMap = {
+    'ai': '🤖', 'machine-learning': '🧠', 'cybersecurity': '🔐', 'privacy': '🛡️',
+    'security': '🔒', 'space': '🚀', 'astronomy': '🌌', 'mobile': '📱',
+    'apps': '📲', 'software': '💻', 'web': '🌐', 'development': '⚙️',
+    'gaming': '🎮', 'graphics': '🎨', 'health': '🏥', 'medicine': '💊',
+    'energy': '⚡', 'climate': '🌍', 'automotive': '🚗', 'transport': '🚆',
+    'infrastructure': '🏗️', 'internet': '📡', 'media': '🎬', 'entertainment': '🎭',
+    'science': '🔬', 'research': '📊', 'technology': '🔧', 'hardware': '⚙️',
+    'cloud': '☁️', 'data': '📈', 'blockchain': '⛓️', 'crypto': '₿',
+    'network': '🌐', '5g': '📶', 'ar': '👓', 'vr': '🥽',
+    'robotics': '🤖', 'iot': '📡', 'wearables': '⌚', 'quantum': '⚛️',
+    'biotech': '🧬', 'nanotechnology': '🔬', 'herní-průmysl': '🎮',
+    'programování': '💻', 'umělá-inteligence': '🤖', 'default': '📰'
+  };
+
+  const emoji = emojiMap[category] || emojiMap['default'];
+
+  // Skrýt obrázek a zobrazit emoji container
+  imgElement.parentElement.innerHTML = `
+    <div class="emoji-placeholder" style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+      font-size: 3.5rem;
+      color: #cbd5e0;
+    ">
+      ${emoji}
+    </div>
+  `;
+
+  console.info('Zobrazeno emoji místo obrázku pro kategorii:', category);
+}
+
+function getFallbackImageForSource(url) {
+  if (url.includes('techcrunch.com')) {
+    return '/images/fallback-techcrunch.png';
+  } else if (url.includes('theverge.com')) {
+    return '/images/fallback-verge.png';
+  } else if (url.includes('wired.com')) {
+    return '/images/fallback-wired.png';
+  }
+  return '/images/fallback-tech-news.png';
+}
+
+function tryAlternativeImage(imgElement, alternatives, index) {
+  if (index >= alternatives.length) {
+    // Žádné další alternativy, skrýt obrázek
+    imgElement.parentElement.style.display = 'none';
+    return;
+  }
+
+  const altSrc = alternatives[index];
+  if (!altSrc) {
+    tryAlternativeImage(imgElement, alternatives, index + 1);
+    return;
+  }
+
+  // Zkusit načíst alternativní obrázek
+  const testImg = new Image();
+  testImg.onload = function() {
+    imgElement.src = altSrc;
+  };
+  testImg.onerror = function() {
+    tryAlternativeImage(imgElement, alternatives, index + 1);
+  };
+  testImg.src = altSrc;
+}
+
+// Inicializace stránky
+document.addEventListener('DOMContentLoaded', function() {
+  // Převést časy na místní časovou zónu
+  convertTimesToLocal();
+
+  // Setup filtry
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const newsCards = document.querySelectorAll('.tech-news-card');
+
+  updateFilterCounts(filterBtns, newsCards);
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => filterArticles(btn, filterBtns, newsCards));
+  });
+
+  function updateFilterCounts(buttons, cards) {
+    buttons.forEach(btn => {
+      if (btn.dataset.filter === 'all') {
+        btn.textContent = `${btn.textContent.split(' (')[0]} (${cards.length})`;
+        return;
+      }
+
+      const count = Array.from(cards).filter(card =>
+        card.dataset.importance === btn.dataset.filter
+      ).length;
+
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+      btn.style.display = count > 0 ? 'inline-block' : 'none';
+    });
+  }
+
+  function filterArticles(activeBtn, allBtns, cards) {
+    allBtns.forEach(b => b.classList.remove('active'));
+    activeBtn.classList.add('active');
+
+    const filter = activeBtn.dataset.filter;
+    const type = activeBtn.dataset.type;
+
+    cards.forEach(card => {
+      const show = filter === 'all' || card.dataset[type] === filter;
+      card.style.display = show ? 'block' : 'none';
+    });
+  }
+});
+</script>
+
+<style>
+/* Navigace dnů */
+.date-navigation {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date-selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.date-nav-link {
+  background: #3182ce;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: all 0.2s;
+  min-width: 44px;
+  display: inline-block;
+  text-align: center;
+}
+
+.date-nav-link:hover {
+  background: #2c5282;
+  transform: translateY(-1px);
+  color: white;
+}
+
+.current-date {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  min-width: 200px;
+  justify-content: center;
+}
+
+.current-date-display {
+  font-weight: 600;
+  color: #2d3748;
+  font-size: 1.1rem;
+}
+
+.date-info {
+  text-align: center;
+  color: #718096;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.articles-count {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-weight: 600;
+}
+
+/* Responzivní navigace */
+@media (max-width: 768px) {
+  .date-selector {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .current-date {
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: auto;
+  }
+
+  .date-nav-link {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+.tech-news-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 2rem 2rem;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.tech-news-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tech-news-header h1 {
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.tech-news-description {
+  color: #718096;
+  font-size: 1.1rem;
+}
+
+.tech-news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem 2rem;
+  background: #f7fafc;
+  border-radius: 12px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 25px;
+  background: white;
+  color: #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.filter-btn:hover {
+  border-color: #3182ce;
+  background: #ebf8ff;
+  transform: translateY(-1px);
+}
+
+.filter-btn.active {
+  background: #3182ce;
+  border-color: #3182ce;
+  color: white;
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+}
+
+.filter-separator {
+  font-weight: 600;
+  color: #4a5568;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.9rem;
+  flex-basis: 100%;
+  text-align: left;
+}
+
+.tech-news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tech-news-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: 1px solid #e2e8f0;
+}
+
+.tech-news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  border-color: #3182ce;
+}
+
+.tech-news-meta {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem 1rem 0.5rem;
+  position: relative;
+}
+
+.tech-news-emoji {
+  font-size: 1.25rem;
+}
+
+.tech-news-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.tech-news-source {
+  font-weight: 600;
+  color: #3182ce;
+  font-size: 0.9rem;
+}
+
+.tech-news-date {
+  color: #718096;
+  font-size: 0.8rem;
+}
+
+.importance-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: auto;
+  white-space: nowrap;
+  border: 1px solid currentColor;
+  opacity: 0.9;
+}
+
+/* Specifické styly pro různé úrovně důležitosti */
+.tech-news-card[data-importance="5"] {
+  border-left: 4px solid #dc2626;
+  box-shadow: 0 4px 6px rgba(220, 38, 38, 0.1);
+}
+
+.tech-news-card[data-importance="4"] {
+  border-left: 4px solid #ea580c;
+  box-shadow: 0 4px 6px rgba(234, 88, 12, 0.1);
+}
+
+.tech-news-card[data-importance="3"] {
+  border-left: 4px solid #2563eb;
+}
+
+.tech-news-card[data-importance="2"] {
+  border-left: 4px solid #059669;
+}
+
+.tech-news-card[data-importance="1"] {
+  border-left: 4px solid #6b7280;
+}
+
+.tech-news-image {
+  height: 200px;
+  overflow: hidden;
+  margin: 0.5rem 1rem;
+  border-radius: 8px;
+  background: #f7fafc;
+}
+
+.tech-news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tech-news-card:hover .tech-news-image img {
+  transform: scale(1.05);
+}
+
+.tech-news-content {
+  padding: 1rem 1rem 1.5rem;
+}
+
+.tech-news-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.tech-news-title a {
+  color: #2d3748;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.tech-news-title a:hover {
+  color: #3182ce;
+}
+
+.tech-news-card .tech-news-description {
+  color: #718096;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.tech-news-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-news-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.tech-news-link:hover {
+  color: #2c5282;
+}
+
+.external-icon {
+  flex-shrink: 0;
+}
+
+.tech-news-category {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+/* Firmy a osobnosti */
+.tech-news-entities {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.tech-news-companies,
+.tech-news-people {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tech-news-companies:last-child,
+.tech-news-people:last-child {
+  margin-bottom: 0;
+}
+
+.entity-label {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.entity-tag {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.company-tag {
+  background: #f0f9ff;
+  color: #0c4a6e;
+  border: 1px solid #bae6fd;
+}
+
+.person-tag {
+  background: #fef7ed;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
+}
+
+.tech-news-empty {
+  text-align: center;
+  padding: 3rem;
+  color: #718096;
+  background: #f7fafc;
+  border-radius: 12px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 1200px) {
+  .tech-news-container {
+    padding: 2rem 1rem;
+  }
+  .tech-news-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .tech-news-container {
+    padding: 1rem 0.5rem;
+  }
+  .tech-news-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .tech-news-filters {
+    gap: 0.25rem;
+  }
+
+  .filter-btn {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .tech-news-header h1 {
+    font-size: 2rem;
+  }
+}
+</style>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
