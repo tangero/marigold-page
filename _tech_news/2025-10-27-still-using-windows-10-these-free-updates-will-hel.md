@@ -24,30 +24,31 @@ urlToImageBackup: https://www.cnet.com/a/img/resize/70173af9f175253ee1e0bdd38a8f
 
 ## Souhrn
 
-Microsoft oficiálně ukončil podporu Windows 10, ale uživatelům nabízí program rozšířených bezpečnostních aktualizací (ESU) až do 13. října 2026. Ačkoliv standardní cena registrace činí 30 dolarů, existují tři způsoby, jak získat přístup zdarma – včetně využití zálohovací služby nebo věrnostního programu Microsoft Rewards.
+Microsoft oficiálně ukončil podporu Windows 10, ale uživatelům nabízí program rozšířených bezpečnostních aktualizací (Extended Security Updates) až do 13. října 2026. Přestože standardní cena registrace činí 30 dolarů, existují tři způsoby, jak získat přístup zdarma, včetně využití služby Windows Backup nebo Microsoft Rewards.
 
 ## Klíčové body
 
-- 41 % uživatelů počítačů stále používá Windows 10 navzdory ukončení oficiální podpory
+- 41 % uživatelů počítačů stále používá Windows 10 a nemůže nebo nechce přejít na Windows 11
 - Program ESU prodlužuje bezpečnostní aktualizace o jeden rok až do října 2026
-- Standardní cena registrace je 30 dolarů, ale existují tři bezplatné možnosti
-- Evropští uživatelé mají registraci zdarma automaticky
-- Ostatní mohou využít Windows Backup se synchronizací do OneDrive nebo vyměnit 1000 bodů Microsoft Rewards
-- Nutná je aktualizace na verzi Windows 10 22H2 a administrátorská oprávnění
+- Standardní cena registrace je 30 dolarů, Evropané mají přístup zdarma
+- Dva další bezplatné způsoby: synchronizace nastavení přes Windows Backup do OneDrive nebo využití 1 000 bodů Microsoft Rewards
+- Nutná je aktuální verze Windows 10 22H2 a administrátorská oprávnění
 
 ## Podrobnosti
 
-Microsoft ukončil standardní podporu Windows 10, což představuje významný bezpečnostní problém pro téměř polovinu uživatelů počítačů, kteří nemohou nebo nechtějí přejít na Windows 11. Hlavním důvodem je často hardwarová nekompatibilita – Windows 11 vyžaduje TPM 2.0 čip a modernější procesory, které starší stroje nemají.
+Microsoft ukončil standardní podporu Windows 10, což představuje významný bezpečnostní problém pro téměř polovinu uživatelů počítačů, kteří z různých důvodů nemohou přejít na Windows 11. Hlavními překážkami jsou hardwarové požadavky Windows 11, zejména nutnost čipu TPM 2.0, který starší počítače nemají.
 
-Program rozšířených bezpečnostních aktualizací není koncipován jako dlouhodobé řešení, ale jako dočasnýmost pro bezpečný přechod na novější platformu. Bezpečnostní zranitelnosti v operačním systému představují vážné riziko, protože mohou útočníkům umožnit přístup k citlivým datům, instalaci malwaru nebo převzetí kontroly nad systémem.
+Program Extended Security Updates není zamýšlen jako dlouhodobé řešení, ale jako dočasnýmost pro bezpečný přechod na novější platformu. Bezpečnostní zranitelnosti Windows jsou vážnou záležitostí - bez pravidelných aktualizací se počítače stávají terčem malwaru, ransomwaru a dalších kybernetických hrozeb.
 
-Pro registraci do programu musí uživatelé nejprve ověřit, že používají nejnovější verzi Windows 10 s označením 22H2. Kontrola probíhá v Nastavení pod položkou Windows Update, kde lze zobrazit historii aktualizací. Samotná registrace pak vyžaduje administrátorská oprávnění a probíhá opět přes sekci Windows Update, kde se v pravém horním rohu objeví odkazy informující o ukončení podpory a možnosti registrace do ESU programu.
+Registrace do programu vyžaduje několik kroků. Uživatelé musí nejprve ověřit, že používají nejnovější verzi Windows 10 22H2, což lze zkontrolovat v Nastavení > Windows Update > Zobrazit historii aktualizací. Dále je nutné mít administrátorská oprávnění k počítači.
 
-Bezplatná varianta přes Windows Backup vyžaduje synchronizaci nastavení systému s cloudovým úložištěm OneDrive, což může být pro některé uživatele nevýhodné z hlediska soukromí. Alternativa s Microsoft Rewards body je dostupná pro ty, kdo aktivně používají vyhledávač Bing a další služby Microsoftu, kde za běžné aktivity získávají body.
+Samotná registrace probíhá přes Nastavení > Windows Update, kde se v pravém horním rohu objeví odkaz s textem o ukončení podpory Windows 10 a možnosti registrace do programu rozšířených aktualizací. Pro bezplatný přístup mimo Evropu je nejjednodušší využít Windows Backup a synchronizovat nastavení do OneDrive účtu, nebo vykoupit 1 000 bodů z programu Microsoft Rewards.
 
 ## Proč je to důležité
 
-Tato novinka má přímý dopad na bezpečnost stovek milionů počítačů po celém světě. Bez bezpečnostních aktualizací se Windows 10 stává snadným terčem pro kybernetické útoky, což ohrožuje nejen osobní data uživatelů, ale i firemní sítě. Program ESU poskytuje kritickou ochranu pro organizace a jednotlivce, kteří nemohou okamžitě investovat do nového hardwaru kompatibilního s Windows 11. Zároveň ukazuje, jak Microsoft balancuje mezi nutností posunout uživatele na modernější platformu a realitou, že významná část zákaznické základny prostě nemůže nebo nechce upgradovat.
+Tato novinka má zásadní význam pro bezpečnost stovek milionů počítačů po celém světě. Windows 10 stále dominuje na starších zařízeních a v podnikových prostředích, kde přechod na Windows 11 není technicky nebo ekonomicky možný. Bez bezpečnostních aktualizací by tyto systémy představovaly vážné riziko nejen pro jednotlivé uživatele, ale i pro celou internetovou infrastrukturu.
+
+Microsoft tímto krokem zmírňuje tlak na uživatele a dává jim více času na plánovaný přechod, aniž by museli riskovat bezpečnost svých dat. Zároveň je to signál, že firma si uvědomuje praktické problémy spojené s hardwarovými požadavky Windows 11 a snaží se najít kompromis mezi bezpečností a realitou trhu.
 
 ---
 

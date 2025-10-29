@@ -5,7 +5,8 @@ companies:
 - Google
 date: '2025-10-28 00:07:00'
 description: Samsung a Google odhalily společný headset pro rozšířenou realitu Galaxy
-  XR, který kombinuje AI funkce s aplikacemi a má konkurovat Vision Pro od Apple.
+  XR, který kombinuje umělou inteligenci s aplikacemi a má konkurovat Apple Vision
+  Pro.
 importance: 4
 layout: tech_news_article
 original_title: Samsung, Google unveil $1,799 device that aims to replace everything
@@ -16,7 +17,7 @@ source:
   emoji: 📰
   id: null
   name: TheStreet
-title: Samsung a Google představily headset Galaxy XR za 1 799 dolarů
+title: Samsung a Google představují headset Galaxy XR za 1 799 dolarů
 url: https://www.thestreet.com/entertainment/samsung-google-unveil-1799-device-that-aims-to-replace-everything
 urlToImage: https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2Mzg2OTE0MTUwNzg2NDE1/sundar_pichai_google_cp_071725.jpg
 urlToImageBackup: https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2Mzg2OTE0MTUwNzg2NDE1/sundar_pichai_google_cp_071725.jpg
@@ -24,31 +25,33 @@ urlToImageBackup: https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/Mj
 
 ## Souhrn
 
-Samsung a Google oficiálně představily headset Galaxy XR za 1 799 dolarů, který má konkurovat Apple Vision Pro. Zařízení kombinuje funkce rozšířené reality s umělou inteligencí a běží na platformě Android XR, nově vyvinutém operačním systému Google určeném pro prostorové výpočetní prostředí.
+Samsung a Google představily headset Galaxy XR za 1 799 dolarů, který má konkurovat Apple Vision Pro. Zařízení kombinuje virtuální a rozšířenou realitu s umělou inteligencí a běží na platformě Android XR, kterou Google vyvinul speciálně pro prostorové výpočetní systémy.
 
 ## Klíčové body
 
-- Cena 1 799 dolarů staví Galaxy XR do přímé konkurence s Apple Vision Pro (3 499 dolarů)
-- Zařízení běží na nové platformě Android XR od Google, navržené specificky pro headset a brýle rozšířené reality
+- Headset Galaxy XR stojí 1 799 dolarů, což je stejná cena jako u Apple Vision Pro při jeho uvedení
+- Zařízení běží na nové platformě Android XR od Googlu, určené pro headsets a chytré brýle
 - Integrace s ekosystémem Google zahrnuje aplikace jako YouTube, Google Maps a Google Photos v prostorové podobě
-- Podpora AI funkcí včetně asistenta Gemini pro hlasové ovládání a kontextové interakce
-- Samsung dodává hardware a displeje, Google poskytuje software a AI technologie
+- Samsung slibuje integraci s vlastními zařízeními včetně televizorů a chytrých telefonů
+- Dostupnost je plánována na rok 2025, přesné datum zatím nebylo oznámeno
 
 ## Podrobnosti
 
-Galaxy XR představuje první velkou spolupráci Samsungu a Google v oblasti rozšířené reality. Headset využívá high-resolution displeje od Samsungu a běží na platformě Android XR, kterou Google vyvíjel specificky pro prostorové výpočetní prostředí. Na rozdíl od herně zaměřených headsetů jako Meta Quest se Galaxy XR soustředí na produktivitu a konzumaci obsahu.
+Galaxy XR představuje první společný projekt Samsungu a Googlu v oblasti prostorových výpočetních systémů. Headset využívá novou platformu Android XR, kterou Google vyvinul jako odpověď na visionOS od Apple. Platforma má umožnit běh standardních Android aplikací v trojrozměrném prostoru a zároveň podporuje nativní XR aplikace navržené speciálně pro prostorové rozhraní.
 
-Zařízení nabízí passthrough režim pro smíšenou realitu, kdy uživatelé vidí reálné prostředí obohacené o digitální prvky. Integrace s ekosystémem Google znamená přístup k aplikacím jako YouTube pro sledování videí na virtuálních obrazovkách, Google Maps pro prostorovou navigaci a Google Photos pro prohlížení fotografií v trojrozměrném prostoru.
+Zařízení nabízí průhledový režim pro rozšířenou realitu (AR), kdy uživatel vidí reálné prostředí doplněné o digitální prvky, i plně imersivní režim virtuální reality (VR). Google zdůrazňuje integraci umělé inteligence prostřednictvím asistenta Gemini, který má uživatelům pomáhat s navigací v prostorových aplikacích a poskytovat kontextové informace.
 
-Klíčovou součástí je AI asistent Gemini, který umožňuje hlasové ovládání a kontextové interakce. Uživatelé mohou například požádat o informace o objektech v jejich okolí nebo o pomoc s úkoly přímo v prostředí rozšířené reality.
+Samsung plánuje propojení headsetu s vlastním ekosystémem zařízení. Uživatelé budou moci například promítat obsah z headsetu na Samsung televizory nebo synchronizovat data s telefony Galaxy. Google zase přináší prostorové verze svých klíčových služeb - YouTube umožní sledování videí na virtuálních plochách libovolné velikosti, Google Maps nabídne trojrozměrnou navigaci a Google Photos zobrazí fotografie v prostorových galeriích.
 
-Samsung slibuje kompatibilitu s aplikacemi z Google Play Store, které budou postupně optimalizovány pro prostorové rozhraní. Výrobce také naznačil možnost budoucích brýlí rozšířené reality postavených na stejné platformě Android XR.
+Cena 1 799 dolarů řadí Galaxy XR do prémiového segmentu, kde přímo konkuruje Apple Vision Pro. Na rozdíl od Apple však Samsung a Google sází na otevřenější ekosystém založený na Androidu, který by měl přilákat více vývojářů aplikací.
 
 ## Proč je to důležité
 
-Vstup Samsungu a Google do segmentu premium headsetů rozšířené reality signalizuje rostoucí konkurenci v tomto trhu. Zatímco Apple Vision Pro stanovilo vysokou laťku s cenou 3 499 dolarů, Galaxy XR za 1 799 dolarů může oslovit širší publikum a urychlit adopci této technologie.
+Galaxy XR představuje první vážnou konkurenci pro Apple Vision Pro od etablovaných technologických gigantů. Zatímco Meta se zaměřuje na dostupnější Quest headsets pro gaming a fitness, Samsung s Googlem cílí na stejný prémiový segment produktivity a zábavní elektroniky jako Apple.
 
-Spolupráce dvou technologických gigantů vytváří silnou alternativu k Apple a Meta. Google získává hardwarového partnera pro svou platformu Android XR, zatímco Samsung rozšiřuje portfolio za hranice smartphonů a tabletů. Úspěch Galaxy XR může ovlivnit, zda se headset rozšířené reality stanou mainstreamovým produktem nebo zůstanou niche technologií pro early adopters a profesionály.
+Spolupráce Samsungu a Googlu vytváří alternativní ekosystém pro prostorové výpočetní systémy založený na Androidu. To může zásadně ovlivnit budoucnost XR technologií - pokud se Android XR ujme podobně jako Android v mobilních telefonech, může to vést k větší fragmentaci trhu, ale zároveň k rychlejšímu vývoji a širší nabídce aplikací.
+
+Pro průmysl je klíčové, že další velcí hráči vstupují do segmentu prostorových počítačů, což signalizuje dlouhodobou víru v tuto technologii navzdory vlažnému přijetí Vision Pro. Dostupnost v roce 2025 však znamená, že Samsung a Google budou muset čelit nejen Apple, ale potenciálně i druhé generaci Vision Pro.
 
 ---
 

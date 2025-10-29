@@ -3,8 +3,8 @@ category: mobilní telefony
 companies:
 - Apple
 date: '2025-10-27 14:11:00'
-description: Apple údajně nesnížil výrobní plány pro iPhone Air v roce 2025, jak tvrdí
-  nová zpráva z dodavatelského řetězce.
+description: Apple údajně nesnižuje výrobní plány pro iPhone Air v roce 2025, jak
+  tvrdí nová zpráva z dodavatelského řetězce.
 importance: 2
 layout: tech_news_article
 original_title: iPhone Air production change orders may not be true - AppleInsider
@@ -22,9 +22,9 @@ urlToImageBackup: https://photos5.appleinsider.com/gallery/65541-137143-65192-13
 
 ## Shrnutí
 
-Nové informace z dodavatelského řetězce zpochybňují dřívější zprávy o tom, že Apple snižuje výrobu chystaného modelu iPhone Air. Podle aktuálních zdrojů společnost nezměnila své výrobní plány pro rok 2025, což odporuje předchozím spekulacím o problémech s poptávkou nebo výrobou.
+Nové informace z dodavatelského řetězce zpochybňují dřívější zprávy o tom, že Apple snižuje výrobu chystaného modelu iPhone Air. Podle aktuálních zdrojů společnost nezměnila své výrobní plány pro rok 2025, což odporuje předchozím spekulacím o redukci objednávek u dodavatelů.
 
-Jedná se o typický příklad rozporuplných informací z dodavatelského řetězce, které se v případě Apple produktů objevují pravidelně před jejich uvedením na trh. Skutečná situace ohledně výroby iPhone Air zůstává nejasná.
+Jedná se o typický příklad rozporuplných informací z dodavatelského řetězce, které se často objevují před uvedením nových produktů Apple. Bez oficiálního potvrzení ze strany společnosti zůstává skutečný stav výroby nejasný.
 
 ---
 

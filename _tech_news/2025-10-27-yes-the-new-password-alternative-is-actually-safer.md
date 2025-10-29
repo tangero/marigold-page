@@ -12,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: MakeUseOf
-title: Passkeys jako bezpečnější náhrada hesel skutečně fungují
+title: Přístupové klíče jsou skutečně bezpečnější než hesla
 url: https://www.makeuseof.com/passkeys-much-safer-than-old-passwords/
 urlToImage: https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/10/passkey-sign-in-on-tablet-with-passkey-icon.jpg?w=1600&h=900&fit=crop
 urlToImageBackup: https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/10/passkey-sign-in-on-tablet-with-passkey-icon.jpg?w=1600&h=900&fit=crop
@@ -20,29 +20,29 @@ urlToImageBackup: https://static0.makeuseofimages.com/wordpress/wp-content/uploa
 
 ## Souhrn
 
-Passkeys představují novou metodu autentizace, která má nahradit tradiční hesla. Místo zapamatování tajného řetězce znaků vaše zařízení prokáže identitu pomocí kryptografických klíčů, což eliminuje rizika spojená s opakovaným používáním hesel, phishingem nebo úniky databází.
+Přístupové klíče (passkeys) představují novou metodu autentizace, která má nahradit tradiční hesla. Místo zapamatování tajného řetězce znaků vaše zařízení prokáže identitu pomocí kryptografických klíčů, což eliminuje rizika spojená s opakovaným používáním hesel, phishingem a úniky dat.
 
 ## Klíčové body
 
-- Passkeys fungují na principu asymetrické kryptografie bez nutnosti sdílet tajemství se serverem
-- Eliminují hlavní slabiny hesel: možnost kopírování, krádeže nebo úniku z databází
-- Odstraňují riziko phishingu, protože passkey je vázán na konkrétní doménu
-- Uživatel se nemusí starat o vytváření, zapamatování ani pravidelnou změnu hesel
-- Dvoufaktorová autentizace (2FA) se stává zbytečnou, protože passkeys kombinují oba faktory
+- Passkeys fungují na principu asymetrické kryptografie, kdy zařízení uchovává soukromý klíč a server pouze veřejný
+- Eliminují riziko phishingu, keyloggerů a úniků databází hesel
+- Nevyžadují zapamatování složitých kombinací znaků a symbolů
+- Každý účet má unikátní pár klíčů, takže kompromitace jednoho účtu neohrozí ostatní
+- Fungují napříč zařízeními a platformami
 
 ## Podrobnosti
 
-Tradiční hesla představují bezpečnostní problém již desítky let. Přestože uživatelé vytváří stále složitější kombinace symbolů, čísel a velkých písmen, hesla zůstávají zranitelná. Jsou statická a lze je zkopírovat, ukrást nebo získat při úniku dat. Jakmile se dostanou do nesprávných rukou, útočník může kompromitovat všechny účty používající stejné heslo.
+Tradiční hesla představují zásadní bezpečnostní problém, který se desítky let nedaří vyřešit. Přestože uživatelé vytváří stále složitější kombinace velkých a malých písmen, čísel a symbolů, hesla zůstávají statická data, která lze zkopírovat, ukrást nebo získat při úniku databáze. Problém není v síle hesla, ale v samotném konceptu sdíleného tajemství, které se opakovaně přenáší mezi uživatelem a serverem.
 
-Základní problém spočívá v samotném modelu hesel - nutí uživatele sdílet tajemství, které je následně opakovaně používáno. Keyloggery mohou zachytit heslo při psaní, phishingové e-maily dokážou uživatele přimět k jeho prozrazení a databázové úniky pravidelně vystavují miliony hesel veřejnosti. Ani dvoufaktorová autentizace není dokonalým řešením, protože i ta může být obejita sofistikovanými phishingovými útoky.
+Dvoufaktorová autentizace (2FA) tento problém pouze zmírňuje, ale neřeší. Sofistikované phishingové útoky dokážou obejít i 2FA, protože útočník může v reálném čase předat získané údaje legitimnímu serveru. Keyloggery zachytí heslo bez ohledu na jeho složitost. A při úniku databáze se kompromitují všechny účty, kde uživatel použil stejné nebo podobné heslo.
 
-Passkeys řeší tyto problémy fundamentálně odlišným přístupem. Při registraci se vytvoří pár kryptografických klíčů - soukromý zůstává bezpečně uložen ve vašem zařízení, zatímco veřejný klíč se odešle na server. Při přihlášení server vyšle výzvu, kterou vaše zařízení podepíše soukromým klíčem. Server ověří podpis pomocí veřejného klíče, aniž by kdy viděl klíč soukromý. Tento proces je automatický a nevyžaduje od uživatele žádnou interakci kromě biometrického ověření nebo PIN kódu na zařízení.
+Passkeys fungují fundamentálně jinak. Při registraci se vytvoří pár kryptografických klíčů – soukromý zůstává bezpečně uložen ve vašem zařízení (telefon, počítač, hardware token) a veřejný se odešle serveru. Při přihlášení server pošle výzvu, kterou vaše zařízení podepíše soukromým klíčem. Server ověří podpis pomocí veřejného klíče, aniž by soukromý klíč kdy opustil vaše zařízení.
 
-Důležitou vlastností je, že passkey je vázán na konkrétní doménu. Pokud se pokusíte přihlásit na phishingovou stránku napodobující legitimní službu, passkey prostě nebude fungovat, protože doména se neshoduje. Tím se eliminuje jedna z nejčastějších metod krádeže přihlašovacích údajů.
+Tato architektura eliminuje většinu známých útoků. Phishing nefunguje, protože útočník nemá co ukrást – soukromý klíč nikdy neopustí zařízení. Keyloggery jsou neúčinné, protože nic netypujete. Úniky databází neškodí, protože veřejný klíč sám o sobě neumožňuje přihlášení. Každý účet má navíc unikátní pár klíčů, taktakže kompromitace jednoho účtu neovlivní ostatní.
 
 ## Proč je to důležité
 
-Passkeys představují první skutečně masově nasaditelnou alternativu k heslům s podporou hlavních technologických firem včetně Apple, Google a Microsoft. Jejich implementace do operačních systémů a prohlížečů znamená, že běžní uživatelé mohou začít využívat pokročilou kryptografii bez nutnosti rozumět technickým detailům. Pro průmysl to znamená potenciální konec éry pravidelných databázových úniků hesel a snížení nákladů na správu zapomenutých hesel. Z hlediska kybernetické bezpečnosti jde o významný posun směrem k autentizaci, která je odolná vůči většině současných útoků.
+Passkeys představují první skutečnou evoluci v autentizaci za poslední dekády. Zatímco správci hesel problém částečně řeší, stále pracují s fundamentálně zranitelným konceptem. Passkeys tento koncept nahrazují architekturou, která je z principu odolnější vůči současným i budoucím útokům. Podpora ze strany Apple, Google, Microsoft a dalších velkých hráčů naznačuje, že jde o standardizovanou technologii s dlouhodobou perspektivou, nikoli o dočasný experiment.
 
 ---
 

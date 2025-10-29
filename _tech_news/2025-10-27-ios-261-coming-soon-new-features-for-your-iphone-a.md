@@ -3,8 +3,9 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-10-27 14:55:50'
-description: Apple chystá vydání iOS 26.1 s úpravami designu Liquid Glass, novým ovládáním
-  budíků a dalšími změnami. Aktualizace dorazí pravděpodobně začátkem listopadu.
+description: Apple chystá aktualizaci iOS 26.1 s možností přizpůsobení designu Liquid
+  Glass, novým ovládáním budíků a dalšími vylepšeními. Vydání se očekává začátkem
+  listopadu.
 importance: 3
 layout: tech_news_article
 original_title: 'iOS 26.1 Coming Soon: New Features for Your iPhone and Release Date
@@ -23,33 +24,31 @@ urlToImageBackup: https://images.macrumors.com/t/hA8-InYSASCV9BmL5Loq8C5XKIw=/25
 
 ## Souhrn
 
-Apple připravuje vydání aktualizace iOS 26.1, která přinese několik nových funkcí a úprav pro iPhone. Mezi hlavní novinky patří možnost přizpůsobení vzhledu designu Liquid Glass, nové ovládání budíků pomocí přejetí prstu a rozšíření jazykové podpory pro Apple Intelligence. Aktualizace by měla být vydána začátkem listopadu 2025.
+Apple připravuje vydání iOS 26.1, které přinese několik nových funkcí a úprav pro iPhone. Aktualizace zahrnuje přepínač pro změnu vzhledu designu Liquid Glass, nové ovládání budíků pomocí přejetí prstu a rozšíření jazykové podpory Apple Intelligence. Vydání se očekává v prvních dnech listopadu 2025.
 
 ## Klíčové body
 
-- Vydání očekáváno 3. nebo 4. listopadu 2025, pokud Apple vydá Release Candidate tento týden
-- Nové nastavení pro vzhled Liquid Glass s možností volby mezi průhlednější variantou "Clear" a matnou "Tinted"
-- Ovládání budíků a časovačů změněno na "slide to stop" místo velkého tlačítka
-- Možnost vypnout otevření fotoaparátu přejetím prstu na zamčené obrazovce
-- Přejmenování služby Apple TV+ na Apple TV s novým barevným vzhledem ikony
+- Vydání iOS 26.1 se posunulo z října na začátek listopadu, pravděpodobně 3. nebo 4. listopadu 2025
+- Nové nastavení pro design Liquid Glass s volbou mezi průhlednější variantou "Clear" a matnou "Tinted"
+- Budíky a časovače v aplikaci Hodiny budou vyžadovat přejetí prstu místo pouhého klepnutí na tlačítko
+- Možnost vypnout rychlé otevření fotoaparátu přejetím prstu na zamčené obrazovce
+- Přejmenování služby Apple TV+ na Apple TV s novým barevnějším designem ikony
 
 ## Podrobnosti
 
-Apple původně plánoval vydání iOS 26.1 ještě v říjnu, ale vzhledem k tomu, že společnost dosud nevydala Release Candidate verzi, která představuje poslední testovací fázi před finálním vydáním, se termín posunul na začátek listopadu. Pokud se Release Candidate objeví v tomto týdnu, uživatelé mohou očekávat veřejné vydání v pondělí 3. listopadu nebo v úterý 4. listopadu.
+Apple dosud nevydal Release Candidate verzi iOS 26.1, což je obvykle poslední testovací verze před finálním vydáním. To znamená, že původně plánované vydání v říjnu se neuskuteční a aktualizace dorazí až v listopadu. Pokud společnost zveřejní Release Candidate tento týden, můžeme očekávat finální verzi 3. nebo 4. listopadu.
 
-Nejviditelnější změnou je nové nastavení pro Liquid Glass, designový prvek představený v iOS 26. Uživatelé nyní získají možnost vybrat si mezi dvěma variantami vzhledu v sekci Nastavení → Displej a jas → Liquid Glass. Varianta "Clear" nabízí průhlednější vzhled, zatímco "Tinted" je matější a méně průhledná.
+Nejviditelnější změnou je nové nastavení pro Liquid Glass, vizuální prvek představený v iOS 26. Uživatelé si budou moci v sekci Nastavení → Displej a jas → Liquid Glass vybrat mezi průhlednější variantou "Clear" a matnou variantou "Tinted", což umožní přizpůsobit vzhled systému osobním preferencím.
 
-Důležitou změnou prošlo ovládání budíků v aplikaci Hodiny. Apple v iOS 26 výrazně zvětšil tlačítko pro zastavení budíku, což vedlo k problémům s náhodným vypnutím. iOS 26.1 zavádí nový mechanismus "slide to stop", kdy je nutné přejet prstem po obrazovce pro vypnutí budíku nebo časovače. Tato změna má zabránit nechtěnému zastavení alarmu.
+Významnou úpravou prošla aplikace Hodiny. Místo velkého tlačítka "stop", které bylo v iOS 26 zvětšeno a mohlo být snadno omylem stisknuto, iOS 26.1 zavádí ovládání "slide to stop" - uživatel musí přejet prstem po obrazovce, aby vypnul budík nebo časovač. Tato změna má zabránit nechtěnému vypnutí budíku.
 
-V oblasti zabezpečení a soukromí přibyla možnost vypnout rychlé otevření fotoaparátu přejetím prstu doleva na zamčené obrazovce. Toto nastavení najdou uživatelé v sekci Nastavení.
+Nová verze také přidává možnost zakázat rychlé otevření fotoaparátu přejetím prstu doleva na zamčené obrazovce. Toto nastavení najdete v sekci Nastavení pod názvem "Lock Screen Swipe to Open Camera".
 
-Aplikace Apple Music získává novou funkci přepínání mezi skladbami pomocí přejetí prstu po přehrávači. Jde o alternativu k dosavadnímu ovládání pomocí tlačítek.
-
-Aktualizace také připravuje půdu pro přejmenování streamovací služby Apple TV+ na Apple TV, které Apple oznámil začátkem října. Součástí této změny je nová barevnější ikona aplikace Apple TV.
+V aplikaci Apple Music se objevuje nová funkce pro přepínání mezi skladbami pomocí přejetí prstu po přehrávači. Aktualizace také připravuje půdu pro přejmenování streamovací služby Apple TV+ na Apple TV, což se projeví novým barevnějším designem ikony aplikace.
 
 ## Proč je to důležité
 
-iOS 26.1 představuje typickou meziverzi, která reaguje na zpětnou vazbu uživatelů k hlavnímu vydání iOS 26. Změna ovládání budíků ukazuje, že Apple aktivně naslouchá stížnostem na náhodné vypínání alarmů. Přidání možnosti přizpůsobení Liquid Glass designu je odpovědí na různé preference uživatelů ohledně vzhledu systému. Rozšíření jazykové podpory Apple Intelligence postupně zpřístupňuje AI funkce širšímu okruhu uživatelů mimo anglicky mluvící země.
+Aktualizace iOS 26.1 představuje typický mezivývojový update, který přináší drobná vylepšení a úpravy na základě zpětné vazby uživatelů. Změna ovládání budíků reaguje na problém, který Apple sám vytvořil zvětšením tlačítka v iOS 26 - ukazuje to na iterativní přístup společnosti k designu uživatelského rozhraní. Možnost přizpůsobení Liquid Glass designu naznačuje, že Apple reaguje na různé preference uživatelů ohledně vizuálního stylu systému. Rozšíření jazykové podpory Apple Intelligence postupně zpřístupňuje funkce umělé inteligence širšímu okruhu uživatelů mimo anglicky mluvící země.
 
 ---
 

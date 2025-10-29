@@ -3,9 +3,9 @@ category: mobilní telefony
 companies:
 - Google
 date: '2025-10-28 00:54:25'
-description: Google údajně vydá další velkou aktualizaci Pixel Drop již 4. listopadu,
-  tedy dříve než se očekávalo. Přinést má první balíčky témat a vylepšení prioritních
-  oznámení.
+description: Podle neověřených informací by Google mohl vydat listopadovou aktualizaci
+  Pixel Drop již 4. listopadu, což je dříve než obvykle. Součástí má být systém motivů
+  a vylepšené prioritní notifikace.
 importance: 2
 layout: tech_news_article
 original_title: Google's next Pixel Drop may land early, as leak spills the beans
@@ -24,9 +24,13 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/09/go
 
 ## Shrnutí
 
-Podle úniku informací na Telegramu plánuje Google vydat další velkou aktualizaci Pixel Drop pro své telefony již 4. listopadu 2025, tedy výrazně dříve než obvyklý prosincový termín. Aktualizace má přinést první balíčky témat pro úpravu vzhledu systému a vylepšení funkce prioritních kontaktů.
+Podle neověřených úniků z kanálu Mystic Leaks na Telegramu by Google mohl vydat další velkou aktualizaci pro telefony Pixel již 4. listopadu 2025, tedy dříve než očekávaný prosincový termín. Aktualizace má přinést nový systém motivů a vylepšení funkcí pro VIP kontakty.
 
-Jedná se o nepotvrzené informace z neoficiálních zdrojů, které je třeba brát s rezervou. Google pravidelně vydává větší balíčky funkcí pro telefony Pixel každé tři měsíce, poslední aktualizace proběhla v září. Nová listopadová aktualizace by měla zahrnovat správce témat (Theme Manager), který umožní rychle měnit vzhled systému včetně tapet, barev a ikon. První tematický balíček má být inspirován filmem "Wicked: For Good". Dále se má vylepšit funkce Pixel VIPs pro prioritní oznámení od vybraných kontaktů.
+Jedná se o spekulativní informace z neoficiálních zdrojů, které dosud nebyly potvrzeny. Pixel Drop je označení pro pravidelné čtvrtletní aktualizace, kterými Google přidává nové funkce do svých telefonů Pixel. Poslední taková aktualizace proběhla v září 2025 a přinesla design Material 3 Expressive.
+
+Podle úniku by hlavní novinkou měl být Theme Manager - systém pro rychlou změnu vzhledu telefonu včetně tapet, barev a ikon. První balíček motivů má být inspirován filmem "Wicked: For Good". Další plánovanou funkcí jsou prioritní notifikace pro VIP kontakty, které by měly zvýšit užitečnost této stávající funkce.
+
+Informace pochází z neoficiálního zdroje a termín 4. listopadu je pouze spekulací. Google obvykle vydává Pixel Drop aktualizace v prosinci, takže listopadový termín by byl neobvyklý. Vzhledem k povaze úniku a absenci oficiálního potvrzení je třeba k těmto informacím přistupovat s rezervou.
 
 ---
 

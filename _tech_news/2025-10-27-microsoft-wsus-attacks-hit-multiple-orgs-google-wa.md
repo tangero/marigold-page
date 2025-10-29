@@ -4,9 +4,9 @@ companies:
 - Microsoft
 - Google
 date: '2025-10-27 23:54:00'
-description: Microsoft vydal nouzovou záplatu pro kritickou zranitelnost CVE-2025-59287
-  ve Windows Server Update Services, kterou útočníci aktivně zneužívají k útokům na
-  organizace.
+description: Kritická zranitelnost CVE-2025-59287 ve Windows Server Update Services
+  je aktivně zneužívána útočníky proti desítkám organizací. Microsoft vydal nouzovou
+  záplatu, ale neaktualizoval informace o probíhajících útocích.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft WSUS attacks hit 'multiple' orgs, Google warns - theregister.com
@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Kritická zranitelnost WSUS pod aktivním útokem, varuje Google
+title: Microsoft WSUS pod aktivním útokem, varuje Google a další bezpečnostní týmy
 url: https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/
 urlToImage: https://regmedia.co.uk/2024/04/19/shutterstock_bell.jpg
 urlToImageBackup: https://regmedia.co.uk/2024/04/19/shutterstock_bell.jpg
@@ -24,33 +24,33 @@ urlToImageBackup: https://regmedia.co.uk/2024/04/19/shutterstock_bell.jpg
 
 ## Souhrn
 
-Kritická zranitelnost ve Windows Server Update Services (WSUS) označená jako CVE-2025-59287 je aktivně zneužívána útočníky k útokům na organizace. Google Threat Intelligence Group potvrdil útoky nové skupiny UNC6512 na více obětí, přičemž Microsoft vydal nouzovou záplatu a americká agentura CISA přidala chybu do katalogu známých zneužívaných zranitelností.
+Kritická bezpečnostní chyba ve Windows Server Update Services (WSUS) s označením CVE-2025-59287 je aktivně zneužívána kybernetickými útočníky proti desítkám organizací. Google Threat Intelligence Group varuje před novou skupinou útočníků UNC6512, která využívá tuto zranitelnost ke vzdálenému spuštění kódu a exfiltraci dat. Microsoft sice vydal nouzovou záplatu, ale dosud neaktualizoval své bezpečnostní doporučení o probíhajících útocích.
 
 ## Klíčové body
 
-- Zranitelnost CVE-2025-59287 umožňuje neautentizovaným útočníkům vzdálené spuštění kódu na zranitelných serverech s Windows Server 2012 až 2025
-- Google Threat Intelligence Group identifikoval novou skupinu útočníků UNC6512, která aktivně zneužívá tuto chybu k útokům na více organizací
-- Microsoft vydal nouzovou záplatu, ale ve svém bezpečnostním doporučení stále neuvádí aktivní zneužívání v reálném prostředí
-- Útočníci po získání přístupu provádějí průzkum kompromitovaných systémů a exfiltrují data
-- Detekováno přibližně 100 000 pokusů o zneužití této zranitelnosti
+- Zranitelnost CVE-2025-59287 umožňuje neautentizovaným útočníkům vzdálené spuštění libovolného kódu na zranitelných serverech
+- Google potvrdil aktivní útoky nové skupiny UNC6512 proti "desítkám organizací"
+- Postiženy jsou Windows Server verze 2012 až 2025 s aktivní rolí WSUS
+- Americká agentura CISA přidala chybu do katalogu známých zneužívaných zranitelností
+- Microsoft neaktualizoval své bezpečnostní doporučení a stále uvádí, že chyba nebyla veřejně zveřejněna ani zneužita
 
 ## Podrobnosti
 
-Zranitelnost CVE-2025-59287 postihuje Windows Server Update Services, službu Microsoftu pro centralizovanou správu aktualizací Windows v podnikových sítích. Problém spočívá v nebezpečné deserializaci nedůvěryhodných dat, což útočníkům umožňuje spustit libovolný kód na zranitelných systémech bez nutnosti autentizace. Postiženy jsou všechny verze Windows Server od roku 2012 do 2025, pokud mají aktivovanou roli WSUS.
+Zranitelnost CVE-2025-59287 vzniká kvůli nebezpečné deserializaci nedůvěryhodných dat v systému Windows Server Update Services. WSUS je služba Microsoftu, která umožňuje správcům IT centralizovaně spravovat a distribuovat aktualizace Windows napříč podnikovou sítí. Útočníci mohou tuto chybu zneužít bez jakékoliv autentizace, což z ní činí obzvláště nebezpečnou hrozbu.
 
-Google Threat Intelligence Group ve svém vyjádření pro The Register potvrdil, že sleduje novou skupinu útočníků označenou jako UNC6512, která tuto zranitelnost aktivně zneužívá. Po získání počátečního přístupu útočníci spouštějí sérii příkazů pro průzkum kompromitovaného hostitele a celého prostředí. Bezpečnostní výzkumníci také zaznamenali exfiltraci dat z napadených systémů.
+Google Threat Intelligence Group identifikoval novou skupinu útočníků označenou jako UNC6512, která aktivně zneužívá tuto zranitelnost. Po získání přístupu útočníci provádějí průzkum kompromitovaného systému a okolního prostředí pomocí série příkazů. Google také potvrdil, že došlo k exfiltraci dat z napadených systémů.
 
-Microsoft sice vydal nouzovou záplatu a hodnotí zranitelnost jako "pravděpodobně zneužitelnou", ale ve svém oficiálním bezpečnostním doporučení stále uvádí, že chyba nebyla veřejně odhalena ani zneužita. Společnost odmítla odpovědět na dotazy The Register ohledně hlášených útoků s odůvodněním, že bezpečnostní doporučení obvykle neaktualizuje po vydání, pokud původní informace nebyly nepřesné.
+Microsoft vydal nouzovou záplatu krátce po objevení zranitelnosti a označil ji jako "pravděpodobně zneužitelnou". Společnost však odmítla odpovědět na dotazy ohledně hlášených útoků a neaktualizovala své bezpečnostní doporučení. Microsoft uvedl, že bezpečnostní bulletiny obvykle neaktualizuje po zveřejnění, pokud původní informace nebyly nepřesné.
 
-Americká agentura pro kybernetickou bezpečnost CISA přidala CVE-2025-59287 do svého katalogu Known Exploited Vulnerabilities, což signalizuje vážnost situace. Bezpečnostní výzkumníci zaznamenali přibližně 100 000 pokusů o zneužití této zranitelnosti, což naznačuje rozsáhlou kampaň.
+Postiženy jsou pouze servery s aktivní rolí WSUS ve verzích Windows Server 2012 až 2025. Servery bez této role nejsou zranitelné. Bezpečnostní výzkumníci zaznamenali přibližně 100 000 pokusů o zneužití této chyby, což naznačuje rozsáhlou kampaň.
 
 ## Proč je to důležité
 
-Tato situace ilustruje kritický problém v podnikové bezpečnosti. WSUS je klíčová služba pro správu aktualizací v podnikových prostředích, což z ní činí atraktivní cíl pro útočníky. Kompromitace WSUS serveru může útočníkům poskytnout rozsáhlý přístup k celé podnikové síti a umožnit distribuci škodlivého softwaru maskovaného jako legitimní aktualizace.
+Tato situace představuje vážné bezpečnostní riziko pro podnikové prostředí využívající Windows Server. WSUS je kritická infrastrukturní služba používaná tisíci organizacemi po celém světě k správě aktualizací. Ironie spočívá v tom, že systém určený k zabezpečení serverů prostřednictvím aktualizací se sám stal vstupní branou pro útočníky.
 
-Nesoulad mezi veřejnými varováními bezpečnostních výzkumníků a oficiálním stanoviskem Microsoftu je znepokojující. Zatímco Google a další bezpečnostní týmy hlásí aktivní útoky na více organizací, Microsoft ve svém doporučení tuto skutečnost neuvádí, což může vést k podcenění rizika ze strany správců systémů.
+Nesoulad mezi Microsoftovým veřejným stanoviskem a varováními předních bezpečnostních týmů včetně Google je znepokojující. Zatímco Microsoft stále uvádí, že chyba nebyla zneužita, nezávislé bezpečnostní týmy potvrzují aktivní útoky proti desítkám organizací. Tato komunikační mezera může vést k tomu, že správci IT podceňují naléhavost instalace záplaty.
 
-Organizace používající WSUS by měly okamžitě aplikovat dostupnou záplatu a provést audit svých systémů na případné známky kompromitace. Tato zranitelnost představuje vážné riziko zejména pro větší podniky a vládní instituce, které WSUS běžně využívají pro správu tisíců koncových stanic.
+Zařazení do katalogu Known Exploited Vulnerabilities agentury CISA znamená, že federální agentury USA mají povinnost záplatu nainstalovat v určeném časovém rámci. Soukromé organizace by měly následovat tento příklad a prioritizovat okamžitou instalaci bezpečnostní aktualizace na všech serverech s aktivní rolí WSUS.
 
 ---
 
