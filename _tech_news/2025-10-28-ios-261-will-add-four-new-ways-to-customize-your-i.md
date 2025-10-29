@@ -23,26 +23,26 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple chystá vydání iOS 26.1, které přinese čtyři nové možnosti přizpůsobení systému. Aktualizace reaguje na smíšené reakce uživatelů na design Liquid Glass zavedený v iOS 26 a přidává možnost vypnout dlouhodobě kritizované gesto pro spuštění fotoaparátu z uzamčené obrazovky.
+Apple chystá vydání iOS 26.1, které přinese čtyři nové možnosti přizpůsobení systému. Aktualizace reaguje na zpětnou vazbu uživatelů k novému designu Liquid Glass a přidává možnost vypnout dlouhodobě kritizované gesto pro otevření fotoaparátu z uzamčené obrazovky.
 
 ## Klíčové body
 
-- Nový přepínač pro volbu mezi průhledným a tónovaným režimem designu Liquid Glass
-- Možnost vypnout gesto přejetí pro spuštění fotoaparátu z uzamčené obrazovky
-- Návrat klasického gesta "Slide to unlock" pro vypínání budíků a časovačů
-- Všechna nová nastavení jsou volitelná, výchozí chování zůstává zachováno
+- Nové nastavení umožní přepínat mezi průhledným a tónovaným režimem designu Liquid Glass
+- Poprvé bude možné vypnout gesto pro otevření fotoaparátu přejetím prstem na uzamčené obrazovce
+- Systém vrací klasické gesto "přejeď pro odemčení" pro budíky a časovače
+- Všechna nová nastavení jsou volitelná a standardně zachovávají současné chování
 
 ## Podrobnosti
 
-Design Liquid Glass, který Apple představil v iOS 26, se setkal s rozporuplnými reakcemi uživatelské základny. Místo úpravy designu pro všechny se Apple rozhodl přidat volitelné nastavení v sekci Displej a jas. Uživatelé si nyní mohou vybrat mezi režimem "Clear" (průhledný), který zachovává původní vzhled, a novým režimem "Tinted" (tónovaný), který zvyšuje neprůhlednost a přidává vyšší kontrast v celém systému. Tónovaný režim má pomoci zejména těm, kteří měli s původním designem problémy s čitelností.
+Nejvýraznější novinkou je možnost úpravy designu Liquid Glass, který Apple představil v iOS 26. Tento výrazně průhledný design se setkal se smíšenými reakcemi uživatelů. Místo úplného přepracování Apple v sekci Nastavení > Displej a jas > Liquid Glass přidává přepínač mezi dvěma variantami. Režim "Clear" zachovává původní průhledný styl, zatímco nová varianta "Tinted" zvyšuje neprůhlednost a přidává vyšší kontrast v celém systému, což má zlepšit čitelnost.
 
-Další významnou změnou je možnost vypnout gesto přejetí doleva na uzamčené obrazovce pro spuštění fotoaparátu. Toto gesto bylo v systému přítomno mnoho let a nikdy nešlo deaktivovat, přestože iPhone postupně získával další způsoby spuštění fotoaparátu - tlačítko na obrazovce od iPhone X v roce 2017, Action button od roku 2023 a Camera Control od roku 2024. Nové nastavení "Lock Screen Swipe to Open Camera" v sekci Fotoaparát je standardně zapnuté, ale uživatelé, kteří fotoaparát spouštějí pouze omylem, ho nyní mohou vypnout.
+Další významnou změnou je možnost vypnout gesto pro spuštění fotoaparátu. Přejetím prstem doleva na uzamčené obrazovce bylo možné otevřít fotoaparát již od prvních verzí iOS, přičemž tuto funkci nešlo nikdy deaktivovat. S příchodem iPhone X v roce 2017 přibylo tlačítko na obrazovce, v roce 2023 tlačítko Action Button a v roce 2024 Camera Control. Přes tuto nabídku alternativ zůstávalo původní gesto aktivní, což vedlo k častému nechtěnému spuštění fotoaparátu. V iOS 26.1 se v sekci Nastavení > Fotoaparát objeví nová volba "Přejetím na uzamčené obrazovce otevřít fotoaparát", která je standardně zapnutá, ale lze ji vypnout.
 
-Třetí novinkou je návrat klasického gesta "Slide to unlock", které Apple znovu zavádí, tentokrát pro vypínání budíků a časovačů na uzamčené obrazovce. V iOS 26 Apple změnil ovládání těchto funkcí, což zřejmě nebylo přijato kladně.
+Třetí novinkou je návrat klasického gesta "přejeď pro odemčení", které Apple nově nasazuje pro ovládání budíků a časovačů na uzamčené obrazovce. V iOS 26 Apple změnil způsob interakce s těmito prvky, což zjevně nebylo přijato kladně.
 
 ## Proč je to důležité
 
-Tato aktualizace ukazuje Applovu ochotu reagovat na zpětnou vazbu uživatelů a poskytovat větší flexibilitu v přizpůsobení systému. Jde o posun od tradičního přístupu "jeden design pro všechny" k volitelným nastaveními, která umožňují uživatelům přizpůsobit iPhone svým preferencím. Zejména možnost vypnout gesto pro fotoaparát je významná pro uživatele, kteří ho aktivovali nechtěně, což bylo dlouhodobě kritizované omezení systému iOS.
+Tyto změny ukazují Applův posun směrem k větší flexibilitě systému iOS. Společnost tradičně preferovala jednotný přístup pro všechny uživatele, ale rostoucí diverzita uživatelské bázy vyžaduje více možností přizpůsobení. Zejména možnost upravit design Liquid Glass naznačuje, že Apple si je vědom různých potřeb uživatelů ohledně přístupnosti a čitelnosti. Přidání možnosti vypnout gesto fotoaparátu pak reaguje na konkrétní stížnosti uživatelů, kteří mají k dispozici modernější metody spuštění kamery a původní gesto jim působí pouze problémy.
 
 ---
 

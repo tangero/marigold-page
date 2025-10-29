@@ -5,7 +5,7 @@ companies:
 - The Verge
 date: '2025-10-28 08:00:00'
 description: DJI vstupuje na trh robotických vysavačů s modelem Romo, který kombinuje
-  vysávání a mytí podlah s průhledným designem a navigační technologií z dronů.
+  vysávání a vytírání a vyniká průhledným designem. V Evropě startuje za 1 899 eur.
 importance: 3
 layout: tech_news_article
 original_title: 'First look: DJI’s Romo robot vacuum - The Verge'
@@ -15,7 +15,7 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: První pohled na robotický vysavač DJI Romo
+title: 'První pohled: Robotický vysavač DJI Romo'
 url: https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6755_3e38af.jpeg?quality=90&strip=all&crop=0%2C1.2319774174429%2C100%2C69.820493642483&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6755_3e38af.jpeg?quality=90&strip=all&crop=0%2C1.2319774174429%2C100%2C69.820493642483&w=1200
@@ -23,33 +23,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Čínský výrobce dronů a kamer DJI představil svůj první robotický vysavač Romo, který je nyní dostupný v Evropě za cenu od 1 599 do 1 899 eur. Zařízení kombinuje vysávání a mytí podlah s průhledným designem a využívá navigační technologie, které firma vyvinula pro své drony.
+Čínský výrobce dronů a kamer DJI překvapivě vstoupil na trh robotických vysavačů s modelem Romo, který byl dnes uveden v Evropě po letním debutu v Číně. Vlajková loď série, model Romo P s průhledným designem, stojí 1 899 eur (přibližně 47 000 Kč) a kombinuje funkce vysávání a vytírání podlah.
 
 ## Klíčové body
 
-- DJI Romo je dostupný ve třech variantách: plně průhledný Romo P za 1 899 eur, Romo A s průhledným robotem a neprůhlednou základnou za 1 599 eur a plně bílý Romo S
-- Vlajková loď Romo P má průhledný vrchní kryt i samočisticí základnovou stanici, hlavní tělo zůstává neprůhledné
-- Zařízení kombinuje funkce robotického vysavače a mopu
+- DJI Romo je dostupný ve třech variantách: plně průhledný Romo P za 1 899 eur, Romo A s průhledným robotem a neprůhlednou bílou základnou za 1 599 eur, a zcela bílý Romo S
+- Hlavní předností je průhledný design umožňující nahlédnout do konstrukce zařízení
 - DJI využívá své zkušenosti s navigačními systémy z výroby dronů
-- Produkt byl poprvé představen v Číně v létě 2025, nyní expanduje do Evropy
+- Zařízení kombinuje funkce robotického vysavače a mopu s automatickou čisticí základnou
+- Model Romo P disponuje plně průhlednou samočisticí základnou, zatímco hlavní tělo robota zůstává neprůhledné
 
 ## Podrobnosti
 
-Vstup DJI na trh robotických vysavačů představuje překvapivou diverzifikaci portfolia firmy, která je primárně známá výrobou dronů a kamerových systémů. Společnost se rozhodla aplikovat své know-how v oblasti autonomní navigace a počítačového vidění do zcela nového segmentu spotřební elektroniky.
+Vstup DJI na trh robotických vysavačů představuje neočekávaný krok pro společnost známou především výrobou dronů a kamerových systémů. Firma se rozhodla aplikovat své know-how v oblasti navigace a počítačového vidění, které využívá u létajících zařízení, na pozemní robotiku.
 
-Nejvýraznějším designovým prvkem je průhledná konstrukce, která umožňuje nahlédnout do vnitřního uspořádání zařízení. U modelu Romo P je průhledný jak vrchní kryt samotného robota, tak i samočisticí základnová stanice. Hlavní tělo robota však zůstává neprůhledné, takže vizuální technologie uvnitř nejsou viditelné. Toto designové řešení je neobvyklé na trhu robotických vysavačů, kde dominují převážně jednobarevné plastové kryty.
+Série Romo nabízí tři cenové úrovně. Nejdražší model Romo P za 1 899 eur láká na plně průhlednou konstrukci včetně samočisticí základny, což umožňuje uživatelům nahlédnout do vnitřního uspořádání technologie. Střední varianta Romo A za 1 599 eur kombinuje průhledného robota s klasickou bílou základnou. Nejlevnější model Romo S je zcela bílý, jeho cena však nebyla zveřejněna.
 
-Cenové rozpětí produktové řady začíná na 1 599 eurech za model Romo A a končí na 1 899 eurech za top model Romo P, což odpovídá přibližně 39 000 až 46 000 korunám. Tím se DJI řadí do prémiového segmentu trhu, kde konkuruje zavedeným značkám jako Roborock, iRobot nebo Ecovacs.
+První ukázka proběhla na veletrhu IFA v září 2025, kde novináři mohli prohlédnout hardware, nikoliv však vidět zařízení v akci. Zajímavostí je, že zatímco horní část robota Romo P je průhledná, hlavní tělo zůstává neprůhledné, takže vizuální technologie uvnitř nejsou viditelné.
 
-Zařízení bylo poprvé představeno na veletrhu IFA v září 2025, kde novináři měli možnost prohlédnout si hardware, i když ne v plném provozu. Podle dostupných informací robot kombinuje standardní funkce vysávání s mokrým vytíráním podlah.
+Romo konkuruje zavedeným značkám jako Roborock, iRobot nebo Ecovacs na stále více přeplněném trhu robotických vysavačů. Průhledný design představuje především estetickou diferenciaci, která může oslovit zákazníky hledající designově zajímavé řešení.
 
 ## Proč je to důležité
 
-Vstup DJI na trh robotických vysavačů signalizuje rostoucí konsolidaci technologického průmyslu, kde firmy s expertízou v autonomní navigaci hledají nové aplikační oblasti pro své technologie. DJI má díky letité zkušenosti s vývojem dronů silné zázemí v oblasti počítačového vidění, senzorů a autonomního pohybu – všechny tyto kompetence jsou přímo přenositelné do robotických vysavačů.
+Vstup DJI na trh robotických vysavačů ukazuje, jak se technologické firmy snaží diverzifikovat své portfolio a využít existující technologie v nových oblastech. Navigační systémy a počítačové vidění, které DJI vyvinula pro drony, mají přímou aplikaci v robotických vysavačích, které musí efektivně mapovat prostory a vyhýbat se překážkám.
 
-Trh s robotickými vysavači je vysoce konkurenční a rychle rostoucí, s očekávaným objemem přes 20 miliard dolarů do roku 2028. Dominují mu především čínští výrobci jako Roborock a Ecovacs, kteří v posledních letech výrazně předstihli americký iRobot. DJI tak vstupuje na trh, kde má domácí konkurenční výhodu a kde může využít své etablované distribuční kanály.
-
-Pro spotřebitele může vstup dalšího silného hráče znamenat zvýšenou konkurenci a potenciálně inovativnější řešení v oblasti navigace a mapování prostoru. Otázkou zůstává, zda průhledný design přinese nějakou praktickou hodnotu, nebo jde pouze o estetický prvek odlišující produkt od konkurence.
+Cena 1 899 eur řadí Romo P do prémiového segmentu trhu, kde konkuruje špičkovým modelům zavedených výrobců. Otázkou zůstává, zda průhledný design a značka DJI dokážou přesvědčit zákazníky k investici do prvního produktu firmy v této kategorii. Pro úspěch bude klíčová kvalita vysávání, navigace a spolehlivost, nikoliv pouze vizuální odlišnost.
 
 ---
 

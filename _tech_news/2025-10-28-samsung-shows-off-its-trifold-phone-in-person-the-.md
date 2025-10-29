@@ -24,35 +24,29 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Samsung poprvé veřejně ukázal svůj dlouho očekávaný telefon s trojitým skládáním na summitu APEC v Jižní Koreji. Zařízení je vystaveno ve skleněné vitríně v rozloženém i složeném stavu, ale návštěvníci si ho nemohou vyzkoušet. Společnost potvrdila záměr uvést telefon na trh ještě v roce 2025, ale nepotvrdila, zda jde o finální verzi hardwaru.
+Samsung poprvé veřejně vystavil svůj dlouho očekávaný telefon s trojitým skládáním na summitu APEC v Jižní Koreji. Zařízení je prezentováno ve skleněné vitríně ve složeném i roztaženém stavu, přičemž animace ukazuje způsob skládání. Společnost potvrdila záměr uvést telefon na trh ještě v roce 2025, ale nepotvrdila, zda jde o finální verzi hardwaru.
 
 ## Klíčové body
 
-- Samsung vystavil prototyp telefonu s trojitým skládáním na summitu APEC v Jižní Koreji ve skleněné vitríně
-- V rozloženém stavu se zařízení mění v 10palcový tablet
-- Telefon se skládá do tvaru písmene "G" - obě strany se ohýbají dovnitř, na rozdíl od harmonikového skládání u konkurenčního Huawei Mate XT
-- Samsung potvrdil plán uvést zařízení na trh v roce 2025, ale neoznámil název ani finální specifikace
-- Jde pravděpodobně o první ukázku hardwaru, který bude skutečně dostupný pro zákazníky
+- Samsung vystavil prototyp telefonu s trojitým skládáním na summitu APEC v Jižní Koreji
+- Zařízení je umístěno ve skleněné vitríně, nikdo si ho nemůže fyzicky vyzkoušet ani složit
+- V rozloženém stavu má úhlopříčku 10 palců a funguje jako tablet
+- Oba panely se skládají dovnitř do tvaru písmene "G", na rozdíl od harmonikového skládání u konkurenčního Huawei Mate XT
+- Samsung potvrdil uvedení na trh v roce 2025, ale nespecifikoval název ani finální podobu
 
 ## Podrobnosti
 
-Samsung dlouhodobě sliboval uvedení svého prvního telefonu s trojitým skládáním v roce 2025 a nyní udělal další krok k naplnění tohoto slibu. Na summitu APEC, který se koná tento týden v Jižní Koreji, společnost vystavila funkční prototyp zařízení, i když pouze za sklem.
+Prezentace na summitu APEC představuje významný krok v dlouhodobých slibech Samsungu ohledně uvedení telefonu s trojitým skládáním. Zařízení je vystaveno ve dvou exemplářích – jeden ve složeném a druhý v rozloženém stavu. Návštěvníci mohou sledovat pouze animaci ukazující proces skládání, protože fyzické manipulace se zařízením nejsou povoleny.
 
-Návštěvníci mohou vidět telefon ve dvou stavech - složeném a plně rozloženém, kdy se mění v tablet s úhlopříčkou 10 palců. Animace ukazuje, jak se zařízení mezi těmito stavy transformuje, ale samotný hardware zůstává statický a nikdo si ho nemůže osahat, natož vyzkoušet mechanismus skládání.
+Konstrukčně se Samsung rozhodl pro odlišný přístup než čínský Huawei, jehož model Mate XT používá harmonikové skládání. U Samsungu se oba boční panely skládají dovnitř směrem k centrálnímu panelu, čímž vzniká tvar připomínající písmeno "G". V plně roztaženém stavu nabízí zařízení 10palcovou úhlopříčku, což z něj činí plnohodnotný tablet.
 
-Zajímavým detailem je způsob skládání. Zatímco konkurenční Huawei Mate XT, který je již ve druhé generaci, používá harmonikové skládání, Samsung zvolil odlišný přístup. Obě strany displeje se skládají dovnitř společně do tvaru připomínajícího písmeno "G". Tento design může mít vliv na kompaktnost složeného telefonu i na celkovou odolnost konstrukce.
+Neoficiální mluvčí společnosti pro server SamMobile uvedl, že prezentace odráží probíhající výzkum a vývoj a že Samsung plánuje uvést zařízení nové generace na trh ještě v tomto roce. Společnost však odmítla potvrdit, zda vystavené kusy odpovídají finální verzi produktu.
 
-Neoznámený mluvčí společnosti pro web SamMobile uvedil: "Nedávná ukázka odráží probíhající výzkum a vývoj a plánujeme přinést toto zařízení nové generace uživatelům ještě letos." Samsung však nepotvrdil, zda jde o finální verzi hardwaru připravenou k uvedení na trh, ani neoznámil oficiální název produktu.
-
-Displejová divize Samsungu již v minulosti ukazovala koncepty telefonů s trojitým skládáním, včetně prezentace na veletrhu MWC 2025, ale toto je pravděpodobně poprvé, kdy veřejnost vidí hardware, který bude skutečně dostupný pro běžné zákazníky.
+Displayová divize Samsungu již v minulosti prezentovala koncepty telefonů s trojitým skládáním, například na veletrhu MWC 2025. Aktuální prezentace však pravděpodobně poprvé ukazuje hardware, který bude skutečně komerčně dostupný.
 
 ## Proč je to důležité
 
-Uvedení telefonu s trojitým skládáním od Samsungu představuje další evoluci v kategorii skládacích telefonů, která se postupně etabluje jako standardní segment trhu. Samsung jako největší výrobce skládacích telefonů čelí rostoucí konkurenci zejména z Číny, kde Huawei již druhým rokem prodává svůj Mate XT s trojitým skládáním.
-
-Trifold telefony nabízejí kompromis mezi přenosností smartphonu a produktivitou tabletu - v rozloženém stavu poskytují pracovní plochu srovnatelnou s malým tabletem, zatímco složené zůstávají relativně kompaktní. To může oslovit uživatele, kteří potřebují větší displej pro práci, ale nechtějí nosit samostatný tablet.
-
-Časový harmonogram uvedení na trh zůstává nejasný. Samsung má do konce roku 2025 pouze dva měsíce a veřejná prezentace statického prototypu ve skleněné vitríně naznačuje, že produkt ještě nemusí být zcela připraven. Otázkou také zůstává cena - Huawei Mate XT startuje na částce přesahující 2500 dolarů, což z něj činí extrémně drahé zařízení dostupné pouze úzkému segmentu zákazníků.
+Samsung dlouhodobě dominuje trhu se skládacími telefony, ale v segmentu zařízení s trojitým skládáním ho předběhl Huawei, který již uvedl druhou generaci modelu Mate XT. Uvedení vlastního řešení je pro Samsung klíčové pro udržení technologického vedení v této kategorii. Telefony s trojitým skládáním představují další evoluční krok po současných modelech s jedním pantem a nabízejí větší flexibilitu mezi kompaktností telefonu a použitelnou plochou tabletu. Úspěch těchto zařízení však bude záviset na ceně, odolnosti a praktické použitelnosti v každodenním provozu.
 
 ---
 
