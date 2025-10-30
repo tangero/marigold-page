@@ -1,9 +1,8 @@
 ---
 category: displeje
 date: '2025-10-27 18:36:18'
-description: Vědci z Cambridge a Meta Reality Labs vyvinuli novou metodiku pro měření
-  schopností lidského oka a určili, kdy vyšší rozlišení displeje už nepřináší viditelný
-  přínos.
+description: Vědci z Cambridge a Meta vyvinuli novou metodiku pro měření schopností
+  lidského oka a určili, kdy vyšší rozlišení displeje už nepřináší viditelné zlepšení.
 importance: 3
 layout: tech_news_article
 original_title: Your eyes can only handle so much HDTV - Currently.com
@@ -13,7 +12,7 @@ source:
   emoji: 📰
   id: null
   name: Popular Science
-title: 'Lidské oko má limit: Kdy přestávají mít smysl další pixely na displejích'
+title: 'Lidské oko má limit: Kdy přestávají mít smysl další pixely na obrazovce'
 url: https://www.popsci.com/technology/eyes-hdtv-pixels/
 urlToImage: https://s.yimg.com/ny/api/res/1.2/EZdtcss126Zw3a6PvtOvWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_science_109/3853cc597b2876ab1f559bd61f879b9f
 urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/EZdtcss126Zw3a6PvtOvWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_science_109/3853cc597b2876ab1f559bd61f879b9f
@@ -21,29 +20,28 @@ urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/EZdtcss126Zw3a6PvtOvWA--/YXB
 
 ## Souhrn
 
-Výzkumníci z University of Cambridge a Meta Reality Labs vyvinuli novou metodiku pro měření schopností lidského oka při vnímání moderních displejů. Studie publikovaná v Nature Communications ukazuje, že existuje rozlišovací limit, za kterým další pixely nepřinášejí viditelné zlepšení obrazu. Tým vytvořil i bezplatnou kalkulačku, která pomůže spotřebitelům určit optimální rozlišení displeje podle jejich potřeb.
+Výzkumníci z University of Cambridge a Meta Reality Labs vyvinuli novou metodiku pro měření schopností lidského oka při vnímání moderních displejů. Studie publikovaná v Nature Communications ukazuje, že existuje hranice, za kterou další zvyšování rozlišení obrazovek nemá pro lidské vnímání praktický přínos. Tým vytvořil i bezplatnou kalkulačku, která pomáhá určit optimální rozlišení displeje podle konkrétních podmínek použití.
 
 ## Klíčové body
 
-- Výzkumníci aktualizovali 160 let starou Snellenovu metodu testování zraku pro moderní displeje
-- Studie určuje bod, kdy další zvyšování rozlišení displeje přestává být pro lidské oko rozpoznatelné
-- Vyšší rozlišení znamená nejen vyšší cenu, ale i větší ekologickou zátěž při výrobě a provozu
-- 4K displeje se rozšířily kolem roku 2014, dnes jsou dostupné televizory s dvojnásobným rozlišením
-- Tým vytvořil volně dostupnou kalkulačku pro výběr optimálního rozlišení
+- Vědci aktualizovali 160 let starou Snellenovu tabulku pro testování zraku, aby odpovídala moderním displejům
+- 4K displeje se rozšířily kolem roku 2014, dnes jsou dostupné i 8K televizory s dvojnásobným rozlišením
+- Výzkum se zaměřil na ekologický dopad zbytečně vysokých rozlišení - výroba a provoz těchto zařízení spotřebovává značné množství zdrojů a energie
+- Tým vytvořil volně dostupnou kalkulačku pro určení optimálního rozlišení podle vzdálenosti od obrazovky a dalších parametrů
 
 ## Podrobnosti
 
-Snellenova tabulka, kterou oftalmologové používají k testování zraku od roku 1862, byla navržena pro čtení písmen na papíře. Dnes však lidé tráví většinu času pohledem na smartphony, tablety a počítačové obrazovky, což představuje odlišné vizuální podmínky. Maliha Ashraf, spoluautorka studie z University of Cambridge, vysvětluje, že nikdo dosud neprovedl systematické měření schopností lidského oka specificky pro moderní displeje.
+Snellenova tabulka, kterou oftalmologové používají od roku 1862, byla navržena pro čtení písmen na papíře. Dnes však lidé tráví většinu času sledováním smartphonů, tabletů a počítačových obrazovek, což představuje zcela odlišné vizuální podmínky. Maliha Ashraf, spoluautorka studie z University of Cambridge, upozorňuje, že nikdo dosud neprovedl systematické měření schopností lidského oka specificky pro moderní displeje.
 
-Výzkum přichází v době, kdy výrobci televizorů a dalších zařízení každoročně prezentují stále vyšší rozlišení jako klíčovou výhodu svých produktů. Displeje s rozlišením 4K (přibližně 4000 pixelů v horizontálním směru) se staly běžným standardem během poslední dekády. Nyní jsou na trhu dostupné televizory s dvojnásobným rozlišením, přičemž výrobci pokračují v závodě o stále vyšší hodnoty.
+Výzkum se zaměřil na praktickou otázku: kdy další pixely přestávají být viditelné a stávají se zbytečnými? To není pouze otázka plýtvání penězi při nákupu předražených televizorů. Jde především o ekologický dopad - výroba displejů s extrémně vysokým rozlišením vyžaduje více materiálů, energie a zdrojů. Provoz těchto zařízení pak znamená vyšší spotřebu elektřiny.
 
-Otázka smysluplnosti těchto parametrů však není pouze ekonomická. Výroba a provoz displejů s extrémně vysokým rozlišením vyžaduje značné množství zdrojů a energie, což představuje rostoucí ekologický problém. Studie proto nabízí vědecky podložený pohled na to, kdy další investice do vyššího rozlišení přestávají přinášet reálný přínos pro uživatele.
-
-Výzkumníci vytvořili metodiku, která zohledňuje specifika moderních zobrazovacích technologií a typické vzdálenosti, ze kterých lidé na displeje koukají. Bezplatná kalkulačka umožňuje spotřebitelům určit optimální rozlišení podle velikosti obrazovky a vzdálenosti sledování.
+Výzkumníci vyvinuli novou metodiku testování, která zohledňuje specifika digitálních displejů oproti tradičním tištěným materiálům. Výsledky ukazují, že existuje jasná hranice, za kterou lidské oko nedokáže rozpoznat rozdíl mezi vyšším a nižším rozlišením. Tato hranice závisí na vzdálenosti od obrazovky, velikosti displeje a dalších faktorech.
 
 ## Proč je to důležité
 
-Studie poskytuje vědecky podložený základ pro rozhodování spotřebitelů i výrobců v době, kdy marketing často prezentuje vyšší rozlišení jako automaticky lepší volbu. Z ekologického hlediska může pomoci snížit zbytečnou spotřebu zdrojů při výrobě displejů s parametry, které lidské oko nedokáže plně využít. Pro průmysl to znamená potenciální přesměrování inovací od pouhého zvyšování počtu pixelů k jiným aspektům kvality obrazu, jako je barevná věrnost, kontrast nebo obnovovací frekvence.
+Výzkum přichází v době, kdy výrobci televizorů a dalších zařízení neustále tlačí na vyšší rozlišení jako hlavní prodejní argument. Přechod z Full HD na 4K a nyní na 8K displeje představuje významné zvýšení výrobních nákladů a ekologické zátěže. Pokud však lidské oko nedokáže tyto rozdíly při běžném používání vnímat, jde o zbytečné plýtvání zdroji.
+
+Studie poskytuje vědecký základ pro racionálnější nákupní rozhodnutí spotřebitelů i pro odpovědnější přístup výrobců. Bezplatná kalkulačka umožňuje každému určit optimální rozlišení podle konkrétních podmínek - například podle toho, jak daleko od televize obvykle sedí. To může vést k úsporám peněz i snížení environmentálního dopadu technologického průmyslu.
 
 ---
 
