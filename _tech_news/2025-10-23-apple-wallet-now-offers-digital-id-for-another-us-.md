@@ -3,8 +3,8 @@ category: mobilní platby
 companies:
 - Apple
 date: '2025-10-23 15:05:00'
-description: Apple Wallet rozšiřuje podporu digitálních občanských průkazů o Západní
-  Virginii, která se stává třináctým státem či územím s touto funkcí.
+description: Apple rozšiřuje podporu digitálních průkazů totožnosti v aplikaci Wallet
+  o další americký stát. Západní Virginie se stává třináctým státem s touto funkcí.
 importance: 3
 layout: tech_news_article
 original_title: Apple Wallet now offers digital ID for another US state - 9to5Mac
@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Apple Wallet přidává digitální občanky pro další americký stát
+title: Apple Wallet přidává digitální občanky pro Západní Virginii
 url: https://9to5mac.com/2025/10/23/apple-wallet-now-supports-digital-id-in-another-us-state/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/wv-license-digital-id.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/wv-license-digital-id.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -22,31 +22,27 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple Wallet rozšířil podporu digitálních občanských průkazů a řidičských průkazů o další americký stát. Západní Virginie se stává třináctým státem či územím, kde mohou uživatelé iPhone a Apple Watch ukládat své identifikační doklady v digitální podobě přímo do aplikace Wallet.
+Apple rozšířil podporu digitálních průkazů totožnosti v aplikaci Wallet o Západní Virginii, která se stává třináctým americkým státem nebo územím s touto funkcí. Uživatelé iPhone a Apple Watch mohou nyní přidat svůj řidičský průkaz nebo státní občanku do digitální peněženky a používat je na vybraných místech místo fyzického dokladu.
 
 ## Klíčové body
 
-- Západní Virginie je třináctým státem či územím s podporou digitálních ID v Apple Wallet
-- Uživatelé mohou přidat řidičský průkaz nebo občanský průkaz pomocí několika jednoduchých kroků
-- Digitální doklady fungují jak na iPhone, tak na Apple Watch
-- Rozšíření bylo očekáváno od začátku roku 2025, kdy Google oznámil podobnou podporu
-- Akceptace digitálních dokladů se liší podle místních předpisů a institucí
+- Západní Virginie je třináctým státem nebo územím USA s podporou digitálních průkazů v Apple Wallet
+- Funkce je dostupná jak pro iPhone, tak pro Apple Watch
+- Přidání dokladu vyžaduje naskenování fyzického průkazu a validaci totožnosti
+- Rozšíření bylo očekáváno od začátku roku 2025, kdy Google oznámil podobnou podporu pro svou platformu
+- Akceptace digitálních průkazů se liší podle místa a účelu použití
 
 ## Podrobnosti
 
-Přidání digitálního dokladu do Apple Wallet je poměrně přímočaré. Uživatelé otevřou aplikaci Wallet, klepnou na tlačítko plus v pravém horním rohu a vyberou možnost "Driver's License and ID Cards". Po výběru Západní Virginie následuje proces skenování fyzického dokladu pro ověření. Během validace si uživatelé mohou vybrat, zda chtějí doklad přidat pouze na iPhone, nebo i na Apple Watch.
+Přidání digitálního průkazu do Apple Wallet je relativně přímočarý proces. Uživatel otevře aplikaci Wallet, klepne na tlačítko plus v pravém horním rohu a vybere možnost "Driver's License and ID Cards". Po výběru Západní Virginie následuje proces skenování fyzického dokladu pro validaci. Během tohoto procesu si uživatel může vybrat, zda chce průkaz přidat pouze do iPhone, nebo i do Apple Watch.
 
-Rozšíření do Západní Virginie nepřichází nečekaně. Již začátkem roku 2025 Google oznámil, že tento stát bude jedním z dalších, které podpoří vlastní funkci digitálních dokladů. Apple nyní tento krok následuje a posiluje svou pozici v oblasti digitální identifikace.
+Digitální průkazy v Apple Wallet představují pokus o modernizaci identifikačních dokladů, ale jejich praktické využití je stále omezené. Akceptace se liší nejen mezi jednotlivými státy, ale i mezi konkrétními institucemi. Například pracovníci TSA na letištích mohou mít různé postupy podle toho, ve kterém státě se nacházejí. Apple proto doporučuje uživatelům, aby si před použitím digitálního průkazu ověřili místní pravidla a zjistili, kde je akceptován jako náhrada fyzického dokladu.
 
-Důležitým aspektem používání digitálních dokladů je jejich akceptace. Apple upozorňuje uživatele, aby si ověřili místní předpisy a zjistili, kde lze digitální doklad použít místo fyzického. Například pracovníci TSA na letištích mohou mít různé postupy v závislosti na státu. To znamená, že i když máte digitální doklad v telefonu, v některých situacích budete stále potřebovat fyzickou verzi.
-
-Digitální doklady v Apple Wallet využívají bezpečnostní prvky iPhone, včetně šifrování a biometrického ověření pomocí Face ID nebo Touch ID. Při předložení dokladu si uživatel může vybrat, jaké informace chce sdílet, což přináší větší kontrolu nad osobními údaji.
+Rozšíření do Západní Virginie bylo očekávané od začátku roku 2025, kdy Google oznámil, že tento stát bude jedním z dalších, které získají podporu digitálních průkazů i v jeho platformě. To naznačuje koordinovaný přístup jednotlivých států k digitalizaci identifikačních dokladů napříč různými technologickými platformami.
 
 ## Proč je to důležité
 
-Postupné rozšiřování podpory digitálních dokladů v Apple Wallet ukazuje trend směrem k digitalizaci identifikačních dokumentů v USA. Třináct států a území představuje významný pokrok, i když stále pokrývá pouze menšinu amerických států. Tato funkce má potenciál zjednodušit každodenní situace, kdy je potřeba prokázat totožnost, od kontroly věku při nákupu alkoholu až po bezpečnostní kontroly na letištích.
-
-Z širšího pohledu jde o součást většího ekosystému digitálních plateb a identifikace, který Apple buduje. Společně s Apple Pay a dalšími funkcemi Wallet se snaží nahradit fyzickou peněženku digitální alternativou. Konkurence s Googlem v této oblasti ukazuje, že digitální doklady se stávají standardní funkcí mobilních operačních systémů, nikoli pouze experimentální novinkou.
+Postupné rozšiřování podpory digitálních průkazů v Apple Wallet ukazuje pomalý, ale stabilní posun směrem k digitalizaci základních identifikačních dokladů v USA. S třinácti podporovanými státy a územími však stále pokrývá pouze menšinu americké populace. Hlavní výzvou zůstává nejen technická implementace, ale především vytvoření jednotného rámce pro akceptaci těchto digitálních dokladů napříč různými institucemi a státy. Bez širší akceptace zůstává funkce spíše doplňkem než plnohodnotnou náhradou fyzických průkazů, což omezuje její praktickou hodnotu pro běžné uživatele.
 
 ---
 
