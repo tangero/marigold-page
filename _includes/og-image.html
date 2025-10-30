@@ -1,0 +1,94 @@
+{% comment %}
+  Open Graph Image Selector
+
+  Hierarchie výběru obrázků:
+  1. post.thumbnail (priorita pro loop přes posty)
+  2. page.thumbnail (explicitně nastavený thumbnail)
+  3. page.urlToImage (tech-news články)
+  4. page.image (explicitně nastavený image)
+  5. První obrázek z content (extrakce z markdown/HTML)
+  6. site.avatar (fallback)
+
+  Všechny externí obrázky procházejí přes Cloudinary pro optimalizaci.
+{% endcomment %}
+
+{% assign og_image_found = false %}
+{% assign og_image_url = '' %}
+{% assign twitter_image_url = '' %}
+
+{% comment %} 1. post.thumbnail (v loop přes posty) {% endcomment %}
+{% if post.thumbnail and post.thumbnail != '' %}
+  {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+  {% assign og_image_url = thumbnail_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/' %}
+  {% assign twitter_image_url = thumbnail_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/' %}
+  {% assign og_image_found = true %}
+  {% assign og_image_source = 'post.thumbnail' %}
+{% endif %}
+
+{% comment %} 2. page.thumbnail {% endcomment %}
+{% if og_image_found == false and page.thumbnail and page.thumbnail != '' %}
+  {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' %}
+  {% assign og_image_url = thumbnail_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/' %}
+  {% assign twitter_image_url = thumbnail_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/' %}
+  {% assign og_image_found = true %}
+  {% assign og_image_source = 'page.thumbnail' %}
+{% endif %}
+
+{% comment %} 3. page.urlToImage (tech-news) {% endcomment %}
+{% if og_image_found == false and page.urlToImage and page.urlToImage != '' %}
+  {% assign thumbnail_url = page.urlToImage | replace: 'http://', 'https://' %}
+  {% assign og_image_url = thumbnail_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/' %}
+  {% assign twitter_image_url = thumbnail_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/' %}
+  {% assign og_image_found = true %}
+  {% assign og_image_source = 'page.urlToImage (tech-news)' %}
+{% endif %}
+
+{% comment %} 4. page.image {% endcomment %}
+{% if og_image_found == false and page.image and page.image != '' %}
+  {% assign og_image_url = page.image | prepend: site.url %}
+  {% assign twitter_image_url = page.image | prepend: site.url %}
+  {% assign og_image_found = true %}
+  {% assign og_image_source = 'page.image' %}
+{% endif %}
+
+{% comment %} 5. První obrázek z content {% endcomment %}
+{% if og_image_found == false %}
+  {% comment %} Zkusit extrahovat z HTML <img> tagu {% endcomment %}
+  {% assign first_image = content | split: '<img ' | last | split: 'src="' | last | split: '"' | first %}
+
+  {% if first_image == content or first_image == '' %}
+    {% comment %} Pokud nenašel <img>, zkus markdown formát ![](url) {% endcomment %}
+    {% assign first_image = content | split: '![' | last | split: '](' | last | split: ')' | first %}
+  {% endif %}
+
+  {% if first_image and first_image != '' and first_image != content %}
+    {% comment %} Obrázek nalezen - zjisti, jestli je externí nebo lokální {% endcomment %}
+    {% if first_image contains 'http' %}
+      {% comment %} Externí obrázek - pošli přes Cloudinary {% endcomment %}
+      {% assign image_url = first_image | replace: 'http://', 'https://' %}
+      {% assign og_image_url = image_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/' %}
+      {% assign twitter_image_url = image_url | prepend: 'https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/' %}
+    {% else %}
+      {% comment %} Lokální obrázek - použij site.url {% endcomment %}
+      {% assign og_image_url = first_image | prepend: site.url %}
+      {% assign twitter_image_url = first_image | prepend: site.url %}
+    {% endif %}
+    {% assign og_image_found = true %}
+    {% assign og_image_source = 'extracted from content' %}
+  {% endif %}
+{% endif %}
+
+{% comment %} 6. Fallback na site.avatar {% endcomment %}
+{% if og_image_found == false %}
+  {% assign og_image_url = site.avatar | prepend: site.url %}
+  {% assign twitter_image_url = site.avatar | prepend: site.url %}
+  {% assign og_image_source = 'site.avatar (fallback)' %}
+{% endif %}
+
+{% comment %} Výstup meta tagů {% endcomment %}
+<!-- og-image source: {{ og_image_source }} -->
+<meta property="og:image" content="{{ og_image_url }}"/>
+<meta property="twitter:image" content="{{ twitter_image_url }}"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
