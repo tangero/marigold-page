@@ -3,8 +3,8 @@ category: hardware
 companies:
 - Apple
 date: '2025-10-28 20:56:27'
-description: Apple podle zdrojů testuje nové verze MacBook Air, iPad mini a iPad Air
-  s OLED obrazovkami, které nabízejí lepší barvy a kontrast než současné LCD panely.
+description: Podle zdrojů Bloomberg testuje Apple nové verze MacBook Air, iPad mini
+  a iPad Air s OLED obrazovkami, které by měly nahradit současné LCD displeje.
 importance: 2
 layout: tech_news_article
 original_title: Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays
@@ -23,9 +23,15 @@ urlToImageBackup: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBtB59Tcoa8/
 
 ## Shrnutí
 
-Apple podle neoficiálních zdrojů testuje nové verze svých populárních zařízení MacBook Air, iPad mini a iPad Air s OLED displeji. Technologie organických světlo emitujících diod by měla nahradit současné LCD panely a přinést výraznější barvy a hlubší kontrast.
+Apple podle informací Bloomberg testuje nové verze MacBook Air, iPad mini a iPad Air vybavené OLED displeji. Jedná se zatím o spekulace založené na nepotvrzených zdrojích, které naznačují posun těchto produktových řad k prémiové zobrazovací technologii.
 
-Jedná se o spekulativní informaci založenou na nepotvrzených zdrojích. Apple zatím žádné oficiální plány neoznámil a není jasné, kdy by případné produkty mohly být uvedeny na trh. OLED technologie již firma používá v iPhone a vyšších modelech iPad Pro, rozšíření do cenově dostupnějších produktových řad by znamenalo významnou změnu strategie.
+## Kontext
+
+OLED (organic light-emitting diode) displeje nabízejí oproti současným LCD panelům hlubší kontrast, živější barvy a lepší úhly pohledu. Apple již tuto technologii používá v iPhone a Apple Watch, zatímco v iPadech ji zatím nasadil pouze u modelů iPad Pro. MacBooky dosud OLED displeje nemají vůbec.
+
+Přechod na OLED by znamenal výrazné zlepšení kvality zobrazení u produktů střední třídy, ale také pravděpodobné zvýšení ceny. Zároveň by se tím zmenšil rozdíl mezi základními a Pro modely, což může Apple řešit dalšími diferenciačními prvky.
+
+Informace pochází z neoficiálních zdrojů a Apple žádné konkrétní plány nepotvrdil. Časový harmonogram případného uvedení na trh není znám.
 
 ---
 

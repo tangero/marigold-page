@@ -24,27 +24,29 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung
 
 ## Souhrn
 
-Samsung oficiálně potvrdil zavedení reklam do svých chytrých lednic Family Hub z roku 2024, které se prodávají za ceny od 1 899 do 3 499 dolarů (přibližně 47 000 až 87 000 korun). Reklamy se začnou zobrazovat po softwarové aktualizaci, kterou výrobce začne distribuovat ještě tento měsíc, a budou se objevovat na integrovaných 21,5palcových nebo 32palcových displejích lednic.
+Samsung oficiálně potvrdil zavedení reklam do svých prémiových chytrých lednic Family Hub z roku 2024, které stojí mezi 1 899 a 3 499 dolary (přibližně 47 000 až 87 000 korun). Reklamy se začnou zobrazovat po softwarové aktualizaci, kterou výrobce začne distribuovat ještě tento měsíc na integrovaných 21,5palcových nebo 32palcových displejích lednic.
 
 ## Klíčové body
 
-- Reklamy se budou zobrazovat na chytrých lednicích Family Hub prostřednictvím softwarové aktualizace vydané v březnu 2025
-- Zobrazování reklam probíhá dvěma způsoby: widget na Cover Screen a nový Daily Board motiv
-- Samsung používá kontextové reklamy místo personalizovaných, které by vyžadovaly sbírání uživatelských dat
-- Uživatelé mohou reklamy vypnout v nastavení nebo použitím motivů Art či Album
+- Reklamy se zobrazí na chytrých lednicích Family Hub prostřednictvím softwarové aktualizace vydávané v březnu 2025
+- Aktualizace přináší dva způsoby zobrazování reklam: widget na Cover Screens a nový režim Daily Board
+- Samsung slibuje pouze kontextové reklamy bez sledování uživatelů, na rozdíl od personalizovaných reklam
+- Uživatelé mohou reklamy vypnout v nastavení nebo přepnutím na režimy Art či Album
 - Ceny postižených lednic se pohybují od 1 899 do 3 499 dolarů (47 000 až 87 000 korun)
 
 ## Podrobnosti
 
-Samsung po nepopulárním pilotním testování z minulého měsíce oficiálně potvrdil zavedení reklamního systému do svých prémiových chytrých lednic. Aktualizace přinese dva způsoby zobrazování reklam. První formou je widget, který se objeví jako obdélníkový box v dolní části obrazovky při zobrazení Cover Screen motivů. Tento widget bude každých 10 sekund měnit obsah mezi užitečnými informacemi jako zprávy, kalendář a předpověď počasí a kurátorovanými reklamami.
+Softwarová aktualizace přinese reklamy ve dvou podobách. První formou je widget, který se objeví jako obdélníkový box v dolní části obrazovky při zobrazení Cover Screens. Tento widget bude každých 10 sekund měnit obsah mezi užitečnými informacemi jako zprávy, kalendář a předpověď počasí a reklamami. Druhým způsobem je nový režim Daily Board, který zobrazuje šest dlaždic s informacemi – pět z nich obsahuje užitečná data jako schůzky a počasí, šestá je vyhrazena pro reklamy.
 
-Druhým způsobem je nový Daily Board motiv, který nabídne přehled užitečných informací na první pohled. Tento motiv zobrazuje pět dlaždic s informacemi jako schůzky a počasí, přičemž šestá dlaždice je vyhrazena pro reklamy. Samsung ve svém oficiálním oznámení existenci reklam v Daily Board motivu nezmiňuje, informaci potvrdil server The Verge.
+Samsung zdůrazňuje, že lednice budут zobrazovat pouze kontextové reklamy, nikoli personalizované, což znamená, že výrobce nebude sbírat data o chování uživatelů pro cílení reklam. Reklamy se budou zobrazovat pouze v době, kdy je lednice v nečinnosti.
 
-Reklamy se budují zobrazovat, když je lednice v nečinnosti. Samsung zdůrazňuje, že používá kontextové reklamy místo personalizovaných, což znamená, že systém nesbírá data o uživatelích pro cílení reklam. Oproti původnímu pilotnímu testování se situace mírně zlepšila - uživatelé nyní mohou reklamy vypnout v nastavení lednice. Alternativně mohou nastavit Cover Screen na zobrazení integrovaných motivů Art nebo Album, což zabrání zobrazování reklam, ale zároveň omezí přístup k některým funkcím.
+Oproti pilotnímu testování z minulého měsíce, které vyvolalo negativní reakce, Samsung nyní nabízí možnost reklamy zcela vypnout. Uživatelé mohou v menu nastavení deaktivovat zobrazování reklam, nebo přepnout Cover Screen do režimů Art nebo Album, které reklamy neobsahují. Toto rozhodnutí však znamená, že uživatelé přijdou o některé funkce widgetu s užitečnými informacemi.
 
 ## Proč je to důležité
 
-Zavedení reklam do prémiových spotřebičů za desítky tisíc korun představuje kontroverzní trend v oblasti chytrých domácností. Samsung fakticky monetizuje displeje zařízení, která si zákazníci již zaplatili vysokou cenu, což vyvolává otázky o hodnotové nabídce těchto produktů. Jde o podobný přístup, jaký známe z chytrých televizorů, kde se reklamy staly standardem, ale u lednic je tento krok vnímán ještě citlivěji kvůli jejich umístění v soukromí domácnosti a vysoké pořizovací ceně. Tento krok může ovlivnit rozhodování spotřebitelů při výběru chytrých spotřebičů a potenciálně posílit pozici konkurence, která reklamy nezavádí.
+Zavedení reklam do prémiových spotřebičů představuje kontroverzní trend v odvětví chytrých domácností. Samsung fakticky monetizuje hardware, za který zákazníci zaplatili desítky tisíc korun, což vyvolává otázky o hodnotové nabídce těchto zařízení. Jde o podobný model, jaký známe z levných tabletů nebo televizorů s podporou reklam, ale v tomto případě aplikovaný na luxusní spotřebiče.
+
+Tento krok může nastavit precedens pro další výrobce chytrých spotřebičů a ovlivnit budoucí vývoj celého segmentu. Pokud Samsung uspěje s tímto modelem, můžeme očekávat podobné praktiky i u konkurence. Pro spotřebitele to znamená nutnost zvažovat nejen pořizovací cenu, ale i dlouhodobé náklady v podobě vystavení reklamě při používání vlastního spotřebiče. Otázkou zůstává, zda zákazníci ochotní platit prémiové ceny budou tento přístup akceptovat, nebo zda to povede k poklesu zájmu o chytré lednice.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-category: ai asistenti
+category: ai asistent
 companies:
 - Microsoft
 date: '2025-10-28 12:02:11'
-description: Kompletní průvodce pro začátečníky, jak pracovat s AI asistentem Copilot
-  nativně ve Windows 11 a v integrovaných aplikacích.
+description: Komplexní průvodce používáním AI asistenta Copilot ve Windows 11, včetně
+  integrace do systémových aplikací a nastavení.
 importance: 3
 layout: tech_news_article
 original_title: How to use Microsoft Copilot on Windows 11 - Windows Central
@@ -22,35 +22,29 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/7Uiv5pM6dWRkj4jvXt4z5j-1683-
 
 ## Souhrn
 
-Microsoft Copilot je AI asistent integrovaný do Windows 11, který funguje jak jako samostatná aplikace, tak jako součást dalších programů systému. Na rozdíl od lokálních AI modelů využívá cloudové jazykové modely Microsoftu a nabízí interakci přirozeným jazykem, hlasové ovládání pomocí příkazu "Hey Copilot" a propojení s aplikacemi jako Notepad, Průzkumník souborů, Fotky, Paint nebo Microsoft 365.
+Microsoft Copilot je AI asistent integrovaný do Windows 11, který funguje jako nástupce Cortany a využívá velké jazykové modely z cloudu Microsoftu. Systém umožňuje interakci přirozeným jazykem a postupně se integruje do různých aplikací včetně Poznámkového bloku, Průzkumníka souborů, Fotek, Paintu a Microsoft 365.
 
 ## Klíčové body
 
-- Copilot funguje jako nástupce asistenta Cortana, ale spoléhá na cloudové AI modely místo lokálního zpracování
-- Asistent je dostupný jako samostatná aplikace i jako integrace v systémových aplikacích (Notepad, Průzkumník souborů, Fotky, Paint)
-- Podporuje hlasové ovládání příkazem "Hey Copilot" pro práci bez použití rukou
-- Nabízí funkce jako Connector, Vision, vyhledávání souborů a propojení s Microsoft 365
-- Přístup je možný několika způsoby včetně tlačítka na hlavním panelu nebo nabídky Start
+- Copilot funguje jako cloudová služba využívající velké jazykové modely, nikoli lokální AI na zařízení
+- Integrace zahrnuje hlasové ovládání příkazem "Hey Copilot" a funkce jako Connector, Vision a vyhledávání souborů
+- Asistent je dostupný jako samostatná aplikace i jako integrace v systémových aplikacích (Notepad, File Explorer, Photos, Paint)
+- Spuštění je možné z hlavního panelu, nabídky Start nebo pomocí klávesových zkratek
+- Vyžaduje přihlášení k účtu Microsoft pro plnou funkčnost
 
 ## Podrobnosti
 
-Microsoft Copilot představuje evoluci osobních asistentů ve Windows 11. Zatímco předchozí Cortana měla omezené možnosti, Copilot využívá pokročilé velké jazykové modely (LLM) běžící v cloudu Microsoftu. To znamená, že asistent vyžaduje připojení k internetu, ale zároveň má přístup k výkonnějším AI schopnostem než lokální řešení.
+Microsoft Copilot představuje zásadní posun v přístupu Microsoftu k AI asistentům ve Windows. Na rozdíl od předchozí Cortany, která měla omezenou funkčnost a spoléhala se především na lokální zpracování, Copilot využívá pokročilé jazykové modely hostované v cloudu. Tato architektura umožňuje sofistikovanější zpracování dotazů a generování odpovědí, ale zároveň vyžaduje aktivní internetové připojení.
 
-Uživatelské rozhraní aplikace je minimalistické a přímočaré. Pro plnohodnotné využití je doporučeno přihlášení pomocí Microsoft účtu, což umožňuje personalizaci a synchronizaci napříč zařízeními. Spuštění asistenta je možné několika způsoby - přes dedikované tlačítko na hlavním panelu, z nabídky Start, nebo pomocí hlasového příkazu.
+Integrace do operačního systému probíhá na dvou úrovních. První je samostatná aplikace Copilot, která poskytuje rozhraní pro přímou konverzaci s AI asistentem. Uživatelé mohou zadávat dotazy přirozeným jazykem a získávat odpovědi nebo provádět akce v systému. Druhá úroveň zahrnuje integraci přímo do jednotlivých aplikací - v Poznámkovém bloku může asistent pomoci s úpravou textu, v aplikaci Fotky s editací obrázků a v Průzkumníku souborů s vyhledáváním a organizací dokumentů.
 
-Zajímavější než samostatná aplikace je však integrace Copilota do systémových nástrojů. V aplikaci Notepad může asistent pomoci s úpravou textu, generováním obsahu nebo vysvětlováním kódu. V Průzkumníku souborů usnadňuje vyhledávání a organizaci dokumentů. Aplikace Fotky získává AI schopnosti pro úpravu a analýzu obrázků, zatímco Paint nabízí generativní funkce pro tvorbu grafiky.
-
-Propojení s Microsoft 365 (dříve Office) přináší produktivní funkce do Wordu, Excelu a PowerPointu - od sumarizace dokumentů přes analýzu dat až po tvorbu prezentací. V prohlížeči Microsoft Edge pak Copilot funguje jako asistent pro procházení webu, sumarizaci stránek a odpovídání na dotazy týkající se zobrazeného obsahu.
-
-Funkce Vision umožňuje asistentovi analyzovat obsah obrazovky a poskytovat kontextovou pomoc. Connector zajišťuje propojení s dalšími službami a daty uživatele. Vyhledávání souborů využívá AI k chytřejšímu nalezení dokumentů na základě obsahu, ne jen názvu.
+Microsoft postupně rozšiřuje možnosti interakce s asistentem. Funkce Vision umožňuje zpracování vizuálního obsahu, Connector propojuje různé služby a data, zatímco hlasové ovládání "Hey Copilot" nabízí hands-free ovládání podobné konkurenčním řešením od Google nebo Amazon. Vyhledávání souborů využívá AI k sémantickému pochopení obsahu dokumentů, což překonává tradiční vyhledávání podle názvů a klíčových slov.
 
 ## Proč je to důležité
 
-Integrace Copilota do Windows 11 představuje Microsoftův pokus o vytvoření jednotného AI asistenta napříč celým operačním systémem. Na rozdíl od konkurenčních řešení, která často fungují jako izolované aplikace, Microsoft vsadil na hlubokou integraci do existujících nástrojů, které uživatelé denně používají.
+Integrace Copilotu do Windows 11 představuje strategický krok Microsoftu v konkurenčním boji o dominanci v oblasti AI asistentů pro osobní počítače. Zatímco Apple integruje vlastní AI do macOS a Google posiluje Chrome OS, Microsoft vsází na hlubokou integraci cloudových AI služeb napříč celým ekosystémem Windows a Office.
 
-Tento přístup má potenciál změnit způsob, jakým lidé pracují s počítačem - místo přepínání mezi aplikacemi a manuálního provádění úkolů mohou uživatelé komunikovat s asistentem přirozeným jazykem. Zároveň však cloudová povaha řešení vyvolává otázky ohledně soukromí dat a závislosti na internetovém připojení.
-
-Pro běžné uživatele jde o postupné zpřístupňování AI technologií bez nutnosti technických znalostí. Pro Microsoft je to strategický tah v konkurenci s Google, Apple a dalšími hráči v oblasti AI asistentů, kde se snaží využít své dominance v podnikové sféře a ekosystému Windows.
+Pro uživatele to znamená postupnou změnu způsobu interakce s operačním systémem - od tradičního klikání a vyhledávání k dialogu s AI asistentem. Cloudová architektura však vyvolává otázky ohledně soukromí dat a závislosti na internetovém připojení. Microsoft tak musí balancovat mezi pokročilými funkcemi a ochranou uživatelských dat, zejména v kontextu evropské regulace GDPR.
 
 ---
 

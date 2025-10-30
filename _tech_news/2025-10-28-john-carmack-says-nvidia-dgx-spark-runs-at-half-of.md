@@ -5,8 +5,8 @@ companies:
 date: '2025-10-28 07:48:00'
 description: Legendární programátor John Carmack veřejně kritizuje nový AI systém
   NVIDIA DGX Spark, který podle jeho měření dosahuje pouze poloviny deklarovaného
-  výkonu a spotřebovává polovinu udávaného příkonu.
-importance: 3
+  výkonu při poloviční spotřebě energie.
+importance: 4
 layout: tech_news_article
 original_title: John Carmack says NVIDIA DGX Spark runs at half of the rated power
   and delivers half the quoted performance - VideoCardz.com
@@ -27,31 +27,31 @@ urlToImageBackup: https://cdn.videocardz.com/1/2025/10/JOHN-CARMACK-DGX-SPARK.jp
 
 ## Souhrn
 
-John Carmack, známý programátor a technologický vizionář, veřejně upozornil na významné nesrovnalosti v parametrech nového AI systému NVIDIA DGX Spark. Podle jeho měření zařízení spotřebovává pouze polovinu deklarovaného příkonu a současně dosahuje pouze poloviny očekávaného výkonu. Carmack není jediný, kdo se s těmito problémy potýká.
+John Carmack, spoluzakladatel id Software a uznávaná osobnost v oblasti programování, veřejně upozornil na závažné problémy s novým AI systémem NVIDIA DGX Spark. Podle jeho měření zařízení spotřebovává pouze polovinu deklarované energie a současně dosahuje pouze poloviny očekávaného výkonu, což naznačuje možné problémy s optimalizací nebo hardwarovou konfigurací.
 
 ## Klíčové body
 
-- NVIDIA DGX Spark v reálném provozu spotřebovuje méně než polovinu udávaného příkonu
-- Výkon systému odpovídá pouze polovině specifikovaných hodnot
-- John Carmack potvrdil, že s podobnými problémy se setkali i další uživatelé
+- John Carmack na platformě X (dříve Twitter) zveřejnil, že NVIDIA DGX Spark nedosahuje deklarovaných výkonnostních parametrů
+- Systém spotřebovává méně než polovinu jmenovitého příkonu, což koreluje s polovičním výkonem oproti specifikacím
+- Carmack není jediný, kdo tyto problémy zaznamenal - zmiňuje další uživatele s podobnými zkušenostmi
 - Jde o nový produkt NVIDIA určený pro AI výpočty a trénování modelů
-- Carmack své zjištění zveřejnil na platformě X (dříve Twitter)
+- Problém může signalizovat širší potíže s uvedením produktu na trh nebo s jeho softwarovou optimalizací
 
 ## Podrobnosti
 
-NVIDIA DGX Spark je nový systém určený pro AI výpočty, trénování neuronových sítí a další náročné úlohy strojového učení. Měl by představovat dostupnější variantu etablované řady DGX, která je standardem v oblasti AI infrastruktury pro výzkumné instituce i komerční firmy.
+NVIDIA DGX Spark představuje novou řadu systémů určených pro AI výpočty, které mají nabídnout výkonnou platformu pro trénování a inferenci velkých jazykových modelů a dalších AI aplikací. Systém je pozicionován jako dostupnější alternativa k vlajkovým DGX stanicím, přičemž má nabídnout profesionální výkon za nižší cenu.
 
-John Carmack, který stál za vývojem her jako Doom a Quake a později působil jako technologický ředitel ve společnostech Oculus a Meta, má v technologické komunitě značnou autoritu. Jeho veřejná kritika proto nese významnou váhu. V příspěvku na platformě X uvedl, že systém nejen nedosahuje deklarovaného výkonu, ale současně spotřebovuje výrazně méně energie, než uvádí oficiální specifikace.
+Carmackovo zjištění je o to závažnější, že pochází od respektované osobnosti s desetiletími zkušeností v oblasti optimalizace výkonu a hardwaru. Jeho veřejná kritika na sociálních sítích získala značnou pozornost technologické komunity. Podle jeho slov systém nejen nedosahuje očekávaného výkonu, ale současně spotřebovává výrazně méně energie, než je uvedeno ve specifikacích. Tato korelace naznačuje, že GPU čipy nebo další komponenty pravděpodobně nepracují na plný výkon.
 
-Tato situace je neobvyklá hned z několika důvodů. Typicky se u nových produktů setkáváme spíše s opačným problémem - vyšší spotřebou než udávanou. Současný stav naznačuje, že systém pravděpodobně nepracuje na plný výkon, případně že došlo k chybě v konfiguraci nebo že NVIDIA dodává systémy s odlišnými parametry, než jsou oficiálně prezentované.
+Podobné problémy hlásí i další uživatelé, což vyvolává otázky ohledně kvality kontroly před uvedením produktu na trh. Může jít o softwarový problém s ovladači, chybu v BIOSu, nebo dokonce o hardwarovou limitaci, která nebyla během vývoje odhalena. Pro zákazníky, kteří investovali desítky až stovky tisíc dolarů do těchto systémů, představuje situace významný problém.
 
-Carmack také zmínil, že není jediný, kdo se s těmito problémy potýká, což naznačuje systémový problém spíše než izolovanou závadu konkrétního kusu. Pro zákazníky, kteří investovali do DGX Spark s očekáváním určitého výkonu, jde o zásadní informaci ovlivňující návratnost investice.
+NVIDIA zatím na Carmackovu kritiku veřejně nereagovala. Společnost má historii rychlého řešení podobných problémů prostřednictvím aktualizací firmwaru a ovladačů, otázkou však zůstává, zda jde o řešitelný softwarový problém, nebo o fundamentálnější hardwarovou limitaci.
 
 ## Proč je to důležité
 
-Tato kauza má několik významných dopadů. Především ukazuje na potenciální problém v komunikaci specifikací u AI hardware, kde jsou zákazníci odkázáni na údaje výrobce. Pro firmy plánující investice do AI infrastruktury jde o varovný signál, že je nutné provádět vlastní benchmarky před finálním nákupem.
+Tato situace má několik významných dopadů na AI průmysl. NVIDIA dominuje trhu s AI akcelerátory s více než 80% podílem a její produkty jsou kritickou infrastrukturou pro vývoj moderních AI systémů. Problémy s novou produktovou řadou mohou zpozdit projekty zákazníků a ovlivnit důvěru v budoucí produkty.
 
-Pro NVIDIA, která dominuje trhu s AI akcelerátory, může jít o reputační problém, pokud se ukáže, že specifikace neodpovídají realitě. Společnost bude muset situaci vysvětlit a případně nabídnout řešení. Zároveň to otevírá prostor pro konkurenci, která může těžit z pochybností o spolehlivosti NVIDIA produktů.
+Pro firmy investující do AI infrastruktury jde o varovný signál ohledně důležitosti nezávislého testování před nasazením. Carmackova ochota veřejně kritizovat produkt od jednoho z největších technologických gigantů také ukazuje rostoucí požadavky na transparentnost v oblasti AI hardwaru, kde jsou výkonnostní parametry klíčové pro návratnost investic.
 
 ---
 
