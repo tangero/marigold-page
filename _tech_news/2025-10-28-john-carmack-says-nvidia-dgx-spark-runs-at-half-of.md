@@ -1,11 +1,12 @@
 ---
-category: ai hardware
+category: hardware ai
 companies:
 - NVIDIA
 date: '2025-10-28 07:48:00'
-description: Legendární programátor John Carmack oznámil, že nový systém NVIDIA DGX
-  Spark nedosahuje deklarovaného výkonu a spotřebovává pouze polovinu udávaného příkonu.
-importance: 3
+description: Legendární programátor John Carmack veřejně kritizuje nový AI systém
+  NVIDIA DGX Spark, který podle jeho měření dosahuje pouze poloviny deklarovaného
+  výkonu při poloviční spotřebě energie.
+importance: 4
 layout: tech_news_article
 original_title: John Carmack says NVIDIA DGX Spark runs at half of the rated power
   and delivers half the quoted performance - VideoCardz.com
@@ -26,33 +27,31 @@ urlToImageBackup: https://cdn.videocardz.com/1/2025/10/JOHN-CARMACK-DGX-SPARK.jp
 
 ## Souhrn
 
-John Carmack, známý programátor a technologický vizionář, veřejně upozornil na problémy s novým systémem NVIDIA DGX Spark. Podle jeho pozorování zařízení spotřebovává pouze polovinu deklarovaného příkonu a současně dosahuje pouze polovičního výkonu oproti specifikacím. Carmack není jediný, kdo se s těmito problémy potýká.
+John Carmack, spoluzakladatel id Software a uznávaná osobnost v oblasti programování, veřejně upozornil na závažné problémy s novým AI systémem NVIDIA DGX Spark. Podle jeho měření zařízení spotřebovává pouze polovinu deklarované energie a současně dosahuje pouze poloviny očekávaného výkonu, což naznačuje zásadní problém s hardwarovou konfigurací nebo optimalizací systému.
 
 ## Klíčové body
 
-- NVIDIA DGX Spark spotřebovává méně než polovinu udávaného příkonu
-- Výkon systému odpovídá pouze polovině očekávaných hodnot
-- John Carmack potvrdil, že s podobnými problémy se setkali i další uživatelé
-- Jedná se o nový produkt z řady DGX určený pro AI výpočty
-- Problém naznačuje možné potíže s optimalizací nebo hardwarovou konfigurací
+- NVIDIA DGX Spark odebírá méně než polovinu své jmenovité spotřeby energie
+- Výkon systému odpovídá pouze polovině deklarovaných specifikací
+- John Carmack potvrdil, že podobné problémy zaznamenali i další uživatelé
+- Jedná se o nový produkt NVIDIA určený pro AI výpočty a trénování modelů
+- Problém naznačuje možné potíže s hardwarovou konfigurací nebo softwarovou optimalizací
 
 ## Podrobnosti
 
-NVIDIA DGX Spark je nový systém z portfolia DGX, které společnost NVIDIA nabízí pro náročné AI výpočty a trénování velkých jazykových modelů. Tyto systémy jsou určeny především pro výzkumné instituce, technologické firmy a datová centra, kde slouží k akceleraci strojového učení a dalších AI úloh.
+NVIDIA DGX Spark je nový systém určený pro AI výpočty, trénování velkých jazykových modelů a další náročné úlohy strojového učení. Měl by představovat dostupnější variantu etablovaných DGX systémů, které využívají datacentra a výzkumné instituce po celém světě.
 
-John Carmack, který je známý svou prací na herních enginech jako Doom a Quake a později jako technologický ředitel společnosti Oculus, sdílel své zkušenosti s DGX Spark na platformě X (dříve Twitter). Podle jeho měření systém nečerpá plný deklarovaný příkon, což by za normálních okolností mohlo znít jako pozitivum z hlediska energetické efektivity. Problém je však v tom, že nižší spotřeba přímo koreluje s nižším výkonem.
+John Carmack, který se v posledních letech intenzivně věnuje umělé inteligenci a pracoval jako technický ředitel ve společnosti Oculus VR, zveřejnil své poznatky na platformě X (dříve Twitter). Podle jeho měření systém nevyužívá plný výkon dostupného hardwaru, což se projevuje jak v nižší spotřebě energie, tak v proporcionálně nižším výkonu.
 
-Tato situace naznačuje, že systém pravděpodobně nevyužívá plný potenciál svého hardwaru. Možné příčiny mohou zahrnovat problémy s firmware, nedostatečnou optimalizaci ovladačů, teplotní throttling, nebo dokonce hardwarové limitace, které nebyly správně komunikovány v technických specifikacích.
+Problém je o to závažnější, že Carmack není jediný, kdo se s těmito potížemi potýká. Podle jeho vyjádření podobné zkušenosti sdílí i další uživatelé systému. To naznačuje, že se nejedná o izolovaný problém konkrétního kusu hardwaru, ale pravděpodobně o systematickou chybu v konfiguraci, firmwaru nebo softwarové vrstvě systému.
 
-Carmack také zmínil, že s podobnými problémy se setkali i další uživatelé, což naznačuje, že se nejedná o izolovaný případ, ale o systematický problém, který se týká více kusů nebo celé série.
+DGX systémy od NVIDIA představují kompletní řešení pro AI výpočty, které kombinuje výkonné GPU akcelerátory s optimalizovaným softwarem a předkonfigurovanými nástroji pro strojové učení. Ceny těchto systémů se pohybují v řádu stovek tisíc až milionů dolarů, což činí zjištěné problémy ještě problematičtějšími pro zákazníky, kteří do těchto systémů investovali.
 
 ## Proč je to důležité
 
-Tato zpráva je významná hned z několika důvodů. NVIDIA je dominantním hráčem na trhu AI hardwaru a její produkty z řady DGX představují prémiový segment s odpovídajícími cenami. Zákazníci, kteří investují do těchto systémů, očekávají špičkový výkon a spolehlivost.
+Tato kauza má několik významných dopadů. Především ukazuje, že i přední výrobce AI hardwaru může mít problémy s dodáním slibovaného výkonu, což je kritické pro organizace plánující investice do AI infrastruktury. Carmackova veřejná kritika navíc přichází v době, kdy NVIDIA dominuje trhu s AI akcelerátory a její produkty jsou často vyprodané měsíce dopředu.
 
-Problémy s výkonem mohou mít dopad na plánování AI projektů, výpočet návratnosti investic a celkovou důvěru v NVIDIA jako dodavatele kritické infrastruktury. Pro společnosti, které budují AI datová centra, může poloviční výkon znamenat nutnost zdvojnásobení počtu systémů, což má zásadní dopady na rozpočty i prostorové nároky.
-
-Významné je také to, že na problém upozornil právě John Carmack, respektovaná osobnost v technologickém průmyslu, jehož slova mají váhu. NVIDIA bude pravděpodobně nucena problém adresovat a poskytnout vysvětlení nebo řešení.
+Pro zákazníky to znamená nutnost pečlivého testování a validace výkonu před nasazením do produkce. Pro NVIDIA jde o reputační riziko v době, kdy čelí rostoucí konkurenci ze strany AMD, Intelu i specializovaných startupů vyvíjejících vlastní AI čipy. Rychlost a kvalita reakce společnosti na tento problém bude důležitým signálem o její schopnosti podporovat zákazníky i u nových produktových linií.
 
 ---
 

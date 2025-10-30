@@ -4,8 +4,8 @@ companies:
 - Oppo
 - Hasselblad
 date: '2025-10-28 16:00:00'
-description: Nový telefon Oppo Find X9 Pro přináší 200megapixelový teleobjektiv vyvinutý
-  s Hasselblad a volitelný externí telekonvertor pro ještě větší přiblížení.
+description: Nový smartphone Oppo Find X9 Pro přináší 200megapixelový teleobjektiv
+  vyvinutý s Hasselblad a volitelný externí telekonvertor pro ještě větší přiblížení.
 importance: 3
 layout: tech_news_article
 original_title: Zoom Uncomfortably Close With Oppo’s Crazy New Telephoto Lens - WIRED
@@ -23,29 +23,31 @@ urlToImageBackup: https://media.wired.com/photos/68ffeb3a8fdb4736bd882bac/191:10
 
 ## Souhrn
 
-Čínský výrobce Oppo představil vlajkový telefon Find X9 Pro s 200megapixelovým teleobjektivem vyvinutým ve spolupráci s výrobcem fotoaparátů Hasselblad. Kromě samotného telefonu firma nabízí i externí Hasselblad Teleconverter Kit, který se připevňuje na speciální pouzdro a poskytuje 3,28násobný optický zoom nad rámec možností vestavěné kamery.
+Oppo představilo nový vlajkový smartphone Find X9 Pro s 200megapixelovým teleobjektivem vyvinutým ve spolupráci s výrobcem fotoaparátů Hasselblad. Zařízení navíc podporuje neobvyklé příslušenství v podobě externího telekonvertoru, který poskytuje 3,28násobné optické přiblížení nad rámec vestavěných možností telefonu.
 
 ## Klíčové body
 
-- 200megapixelový teleobjektiv s 3násobným optickým zoomem, při 6násobném přiblížení ořezává 200megapixelové snímky na 50 megapixelů
+- 200megapixelový teleobjektiv s 3násobným optickým zoomem, kvalitní snímky až do 6násobného přiblížení
+- Hasselblad Teleconverter Kit nabízí další 3,28násobné optické přiblížení pomocí externího objektivu
+- 6,78palcový displej a baterie s kapacitou 7 500 mAh využívající křemíko-uhlíkovou technologii
 - Oppo deklaruje až 13,2násobný bezeztrátový zoom pomocí výpočetní fotografie
-- Volitelný externí telekonvertor poskytuje další 3,28násobné optické přiblížení
-- Telefon disponuje 6,78palcovým displejem a baterií o kapacitě 7 500 mAh s křemíko-uhlíkovou technologií
-- Zařízení se prodává v Číně a brzy dorazí do Velké Británie a Evropy, v USA nebude dostupné
+- Dostupnost v Číně, brzy v Británii a Evropě, ne v USA
 
 ## Podrobnosti
 
-Oppo Find X9 Pro představuje další krok v soupeření čínských výrobců smartphonů o nadvládu v oblasti mobilní fotografie. Zatímco meziroční změny bývají často minimální, výrobci se snaží navzájem předhánět v technických specifikacích.
+Čínský výrobce Oppo pokračuje v trendu vylepšování fotografických schopností smartphonů, kde se hlavní asijské značky snaží předhánět v technických specifikacích. Model Find X9 Pro představuje zajímavý přístup k mobilní fotografii kombinací vysokorozlišovacího senzoru a možnosti připojení externího objektivu.
 
-Hlavní novinkou je 200megapixelový teleobjektiv, který umožňuje fotografovat vzdálené objekty s vysokým detailem. Při 3násobném optickém zoomu využívá plné rozlišení senzoru, při 6násobném přiblížení pak ořezává 200megapixelové snímky na 50 megapixelů, což teoreticky zachovává vysokou kvalitu bez digitální interpolace. Oppo navíc tvrdí, že pomocí výpočetní fotografie dokáže dosáhnout až 13,2násobného bezeztrátového zoomu.
+Základní teleobjektiv s rozlišením 200 megapixelů umožňuje 3násobné optické přiblížení. Při 6násobném zoomu telefon ořezává 200megapixelové snímky na 50 megapixelů, čímž zachovává kvalitu obrazu. Výrobce tvrdí, že pomocí výpočetní fotografie lze dosáhnout až 13,2násobného přiblížení bez viditelné ztráty kvality, což kombinuje optické možnosti s algoritmickým zpracováním obrazu.
 
-Nejzajímavějším doplňkem je však Hasselblad Teleconverter Kit - externí teleobjektiv, který se připevňuje na speciální pouzdro a poskytuje další 3,28násobné optické přiblížení. Jde o neobvyklé řešení, které se u smartphonů prakticky nevyskytuje a spíše připomíná příslušenství pro klasické fotoaparáty.
+Nejvýraznější novinkou je však volitelný Hasselblad Teleconverter Kit - externí teleobjektiv, který se připevňuje na speciální pouzdro a poskytuje další 3,28násobné optické přiblížení. Jde o netradiční řešení, které se u smartphonů objevuje zřídka a které se snaží překlenout propast mezi mobilní a profesionální fotografií.
 
-Telefon doplňuje 6,78palcový displej a baterie o kapacitě 7 500 mAh využívající křemíko-uhlíkovou technologii, která umožňuje vyšší kapacitu při stejných rozměrech oproti tradičním lithium-iontovým bateriím. Vedle modelu Pro firma představila i základní Find X9 s mírně skromnější výbavou.
+Telefon disponuje 6,78palcovým displejem a baterii s kapacitou 7 500 mAh využívající křemíko-uhlíkovou technologii, která nabízí vyšší hustotu energie než tradiční lithium-iontové baterie. Vedle modelu Pro vychází i základní Find X9 s mírně skromnějšími specifikacemi.
 
 ## Proč je to důležité
 
-Vývoj ukazuje pokračující trend zlepšování fotografických schopností smartphonů, konkrétně v oblasti teleobjektivů. Zatímco ultraširokoúhlé objektivy se staly standardem, kvalitní teleobjektivy s vysokým optickým zoomem zůstávají výzvou kvůli omezenému prostoru v tenkých tělesech telefonů. Oppo se pokouší tento problém řešit kombinací vysokého rozlišení senzoru s volitelným externím příslušenstvím, což je netradiční přístup na trhu smartphonů. Absence dostupnosti v USA však omezuje dopad této novinky na globální trh.
+Find X9 Pro ukazuje pokračující trend zlepšování fotografických schopností smartphonů, kde se výrobci snaží nahradit dedikované fotoaparáty. Zatímco většina konkurence se zaměřuje na výpočetní fotografii a softwarové vylepšení, Oppo kombinuje vysokorozlišovací hardware s možností fyzického rozšíření optických schopností.
+
+Externí telekonvertor představuje zajímavý experiment - otázkou zůstává, zda uživatelé budou ochotni nosit dodatečné příslušenství, když hlavní výhodou smartphonů je právě kompaktnost. Pro nadšence mobilní fotografie však může jít o zajímavou alternativu k nošení těžkých zrcadlovek s teleobjektivy. Absence dostupnosti v USA odráží pokračující geopolitické napětí a omezení čínských technologických firem na americkém trhu.
 
 ---
 

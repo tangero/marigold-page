@@ -4,9 +4,8 @@ companies:
 - Apple
 - Microsoft
 date: '2025-10-27 22:24:07'
-description: Apple snižuje cenu MacBook Air s čipem M4 na 799 dolarů, což je o 200
-  dolarů méně než původní cena. Ultraportabilní notebook nabízí 16GB paměti a 18hodinovou
-  výdrž baterie.
+description: MacBook Air s čipem M4 a 16GB paměti se na Amazonu prodává za 799 dolarů,
+  což je o 200 dolarů méně než původní cena a nové cenové minimum.
 importance: 3
 layout: tech_news_article
 original_title: Apple Drops MacBook Air M4 Price Yet Again, Now Cheaper Than Basic
@@ -17,8 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Kotaku
-title: MacBook Air M4 klesá na historické minimum 799 dolarů, podkutuje základní Windows
-  notebooky
+title: Apple snižuje cenu MacBooku Air M4 na historické minimum 799 dolarů
 url: https://kotaku.com/apple-drops-macbook-air-m4-price-yet-again-now-cheaper-than-basic-windows-laptops-2000639289
 urlToImage: https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple.jpg
 urlToImageBackup: https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple.jpg
@@ -26,29 +24,29 @@ urlToImageBackup: https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple.
 
 ## Souhrn
 
-Apple MacBook Air s čipem M4 a 256GB úložištěm dosáhl na Amazonu nového cenového minima 799 dolarů, což představuje pokles o 200 dolarů oproti původní ceně 999 dolarů. Cena notebooku od březnového uvedení na trh kolísala mezi 849 a 999 dolary, aktuální snížení jej činí cenově konkurenceschopným vůči základním Windows notebookům.
+Apple MacBook Air s čipem M4 a 256GB úložištěm dosáhl na Amazonu nové nejnižší ceny 799 dolarů, což představuje slevu 200 dolarů oproti původní ceně 999 dolarů. Jde o nejpopulárnější notebook Apple, který nyní cenově konkuruje základním notebookům s Windows.
 
 ## Klíčové body
 
-- Cena klesla z původních 999 dolarů na historické minimum 799 dolarů
-- Čip M4 s taktovací frekvencí 4,4 GHz obsahuje 10jádrový CPU (4 výkonná, 6 úsporných jader)
-- 8jádrové GPU podporuje ray tracing a mesh shading, dříve dostupné pouze v čipu M3
-- 16jádrový Neural Engine zpracovává 38 bilionů operací za sekundu, téměř dvojnásobek M3
-- Výdrž baterie dosahuje 18 hodin, standardní konfigurace obsahuje 16GB paměti
+- Cena klesla z původních 999 dolarů na 799 dolarů, což je historické minimum
+- Notebook obsahuje čip M4 s taktovací frekvencí 4,4 GHz a 10jádrovým CPU (4 výkonná jádra, 6 úsporných jader)
+- 8jádrové GPU podporuje ray tracing a mesh shading, funkce dříve dostupné až v čipu M3
+- 16jádrový Neural Engine zvládá 38 bilionů operací za sekundu, téměř dvojnásobek čipu M3
+- Výdrž baterie dosahuje 18 hodin
 
 ## Podrobnosti
 
-Architektura čipu M4 rozděluje výpočetní zátěž mezi čtyři výkonná jádra určená pro náročné úlohy jako střih videa a zpracování komplexních dokumentů, zatímco šest úsporných jader obsluhuje běžné operace bez dopadu na výdrž baterie. Toto rozdělení umožňuje efektivní správu energie při zachování vysokého výkonu.
+Čip M4 představuje výrazný výkonnostní skok oproti předchozím generacím. Architektura s výkonnými a úspornými jádry umožňuje efektivní rozdělení zátěže - náročné úlohy jako střih videa nebo zpracování složitých dokumentů zvládají výkonná jádra, zatímco běžné operace zajišťují úsporná jádra bez dopadu na výdrž baterie.
 
-Grafická jednotka přináší významné zlepšení v oblasti zpracování obrazu. Podle Applu je úprava fotografií v Adobe Photoshop až 3,6krát rychlejší než u modelů s procesory Intel, střih videa v iMovie pak až osmkrát rychlejší. Podpora ray tracingu, technologie sledující dráhy světelných paprsků v 3D prostředí, byla dříve vyhrazena pouze pro čip M3 a vyšší modely.
+Grafická jednotka přináší podporu pokročilých technologií včetně ray tracingu, který simuluje realistické chování světla v 3D prostředí. V praxi to znamená až 3,6krát rychlejší úpravy fotografií v Adobe Photoshop oproti modelům s procesory Intel a osmkrát rychlejší střih videa v aplikaci iMovie. Práce ve Final Cut Pro je rovněž výrazně plynulejší.
 
-Neural Engine, specializovaný akcelerátor pro strojové učení, dosahuje výkonu 38 bilionů operací za sekundu. Tato jednotka pohání funkce Apple Intelligence v nejnovější verzi macOS, včetně automatického odstraňování šumu z videí, vylepšování obrázků jedním kliknutím a systémové podpory AI s důrazem na lokální zpracování dat bez jejich odesílání na servery.
+Neural Engine s výkonem 38 bilionů operací za sekundu pohání funkce Apple Intelligence v nejnovější verzi macOS. Mezi tyto funkce patří automatické odstraňování šumu z videí, vylepšování obrázků jedním kliknutím a systémová podpora umělé inteligence, která zpracovává data lokálně na zařízení bez nutnosti odesílat je do cloudu.
 
-Standardní konfigurace s 16GB paměti představuje změnu oproti dřívějším modelům, které často startovaly s 8GB. Tato kapacita je důležitá zejména pro běh AI funkcí a náročnějších aplikací.
+Standardní konfigurace obsahuje 16GB operační paměti, což je dostatečné pro většinu běžných i náročnějších úloh včetně práce s více aplikacemi současně.
 
 ## Proč je to důležité
 
-Cenový posun MacBooku Air M4 pod hranici 800 dolarů mění dynamiku trhu ultraportabilních notebooků. Apple tradičně konkuroval prémiovou kvalitou za vyšší cenu, aktuální snížení však staví M4 do přímé konkurence se základními Windows notebooky, které často nabízejí slabší výkon a kratší výdrž baterie za podobnou cenu. Pro spotřebitele to znamená dostupnější vstup do ekosystému Apple s výkonem srovnatelným s desktopovými počítači. Kombinace 18hodinové výdrže baterie, výkonného čipu a podpory pokročilých AI funkcí činí z tohoto modelu zajímavou volbu pro uživatele hledající spolehlivý pracovní nástroj bez nutnosti kompromisů v oblasti mobility.
+Cenový pokles MacBooku Air M4 pod hranici 800 dolarů mění konkurenční prostředí na trhu ultrapřenosných notebooků. Apple se tímto krokem dostává do cenové kategorie, kde tradičně dominovaly základní notebooky s Windows, přičemž nabízí výrazně vyšší výkon a výdrž baterie. Pro uživatele to znamená dostupnější přístup k výkonnému hardwaru s dlouhou životností a kvalitním zpracováním. Jde o signál, že Apple aktivně reaguje na konkurenci a snaží se rozšířit svůj podíl na trhu přenosných počítačů.
 
 ---
 

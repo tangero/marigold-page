@@ -3,9 +3,9 @@ category: mobilní telefony
 companies:
 - Google
 date: '2025-10-28 00:54:25'
-description: Podle nepotvrzených informací by Google mohl vydat listopadovou aktualizaci
-  Pixel Drop již 4. listopadu, což je dříve než obvykle. Přinést má první tematické
-  balíčky a vylepšení prioritních notifikací.
+description: Podle uniklých informací by Google mohl vydat další velkou aktualizaci
+  Pixel Drop již 4. listopadu, tedy dříve než se očekávalo. Přinést má první tematické
+  balíčky a vylepšení prioritních oznámení.
 importance: 2
 layout: tech_news_article
 original_title: Google's next Pixel Drop may land early, as leak spills the beans
@@ -22,13 +22,13 @@ urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/09/google-p
 urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-2-scaled.jpg
 ---
 
-Podle neoficiálních zdrojů z Telegramu plánuje Google vydat další velkou aktualizaci pro telefony Pixel již 4. listopadu 2025, což by bylo výrazně dříve než očekávaný prosincový termín. Informace pocházejí z účtu Mystic Leaks a zatím nebyly oficiálně potvrzeny.
+Podle uniklých informací z kanálu Mystic Leaks na Telegramu by Google mohl vydat další velkou aktualizaci Pixel Drop již 4. listopadu 2025, tedy výrazně dříve než očekávaný prosincový termín. Aktualizace by měla přinést několik nových funkcí pro telefony Pixel.
 
-Nejvýraznější novinkou by měly být první tematické balíčky pro telefony Pixel. Google na této funkci pracuje od začátku roku - jde o správce témat (Theme Manager), který umožní rychle měnit vzhled systému včetně tapet, barevných schémat a ikon. První tematický balíček má být inspirován připravovaným filmem "Wicked: For Good".
+Nejvýraznější novinkou mají být první tematické balíčky (theme packs) pro systém Android. Google na této funkci pracuje od začátku roku 2025 a jedná se o nástroj Theme Manager, který umožňuje rychle měnit vzhled systému výměnou tapet, barevných schémat a ikon najednou. První tematický balíček má být inspirován filmem "Wicked: For Good", jehož premiéra se blíží.
 
-Další plánovanou změnou je vylepšení funkce Pixel VIPs prostřednictvím prioritních notifikací. Konkrétní detaily o tom, jak přesně bude tato funkce fungovat, však úniky neobsahují.
+Další vylepšení se má týkat funkce Pixel VIPs, která by měla získat podporu prioritních oznámení. Konkrétní detaily o tom, jak přesně bude tato funkce vypadat, však úniky neuvádějí.
 
-Pixel Drop jsou pravidelné čtvrtletní aktualizace, kterými Google přidává nové funkce do svých telefonů. Poslední zářijová aktualizace přinesla například designový jazyk Material 3 Expressive. Pokud se úniky potvrdí a listopadová aktualizace skutečně dorazí 4. listopadu, znamenalo by to změnu v dosavadním harmonogramu vydávání těchto aktualizací.
+Je třeba zdůraznit, že se jedná o nepotvrzené informace z neoficiálního zdroje. Google běžně vydává velké aktualizace Pixel Drop každé tři měsíce, přičemž poslední zářijová aktualizace přinesla designový jazyk Material 3 Expressive. Listopadové vydání by tedy bylo mimo standardní harmonogram, což zvyšuje pochybnosti o věrohodnosti úniku.
 
 ---
 
