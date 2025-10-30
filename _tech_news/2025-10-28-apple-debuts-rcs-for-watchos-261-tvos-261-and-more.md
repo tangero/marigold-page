@@ -3,8 +3,9 @@ category: softwarové aktualiza
 companies:
 - Apple
 date: '2025-10-28 21:11:00'
-description: Apple zpřístupnil RC verze nadcházejících aktualizací pro všechny své
-  platformy. Veřejné vydání se očekává během příštího týdne.
+description: Apple zpřístupnil release candidate verze svých operačních systémů včetně
+  watchOS 26.1, tvOS 26.1, iOS 26.1 a dalších. Veřejné vydání se očekává během příštího
+  týdne.
 importance: 3
 layout: tech_news_article
 original_title: Apple debuts RCs for watchOS 26.1, tvOS 26.1, and more - 9to5Mac
@@ -22,27 +23,32 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple dnes vydal RC (release candidate) verze nadcházejících aktualizací pro všechny své operační systémy, včetně iOS 26.1, iPadOS 26.1, macOS Tahoe 26.1, watchOS 26.1, tvOS 26.1, visionOS 26.1 a HomePod 26.1. Podle historických vzorců společnosti lze očekávat veřejné vydání těchto aktualizací během příštího týdne.
+Apple dnes zpřístupnil release candidate (RC) verze svých operačních systémů pro beta testery, což signalizuje blížící se veřejné vydání aktualizací. Jedná se o iOS 26.1, iPadOS 26.1, macOS Tahoe 26.1, watchOS 26.1, tvOS 26.1, visionOS 26.1 a HomePod 26.1. Na základě historických vzorců lze očekávat veřejné spuštění během následujícího týdne.
 
 ## Klíčové body
 
-- RC verze představují poslední testovací fázi před veřejným vydáním
-- Aktualizace byly v beta testování přes měsíc
+- Apple vydal RC verze všech svých operačních systémů po měsíci beta testování
 - Nejvýznamnější změny se týkají iOS, iPadOS a macOS
-- Pro watchOS, tvOS, visionOS a HomePod jsou změny minimální
-- Veřejné vydání se očekává do 7-10 dnů
+- Nové přepínače pro úpravu designu Liquid Glass
+- Výrazné rozšíření jazykové podpory pro Apple Intelligence
+- Návrat funkce Slide Over na iPadu
+- Minimální změny pro watchOS, tvOS, visionOS a HomePod
 
 ## Podrobnosti
 
-RC verze představují finální testovací fázi před oficiálním vydáním softwaru. Apple je zpřístupňuje vývojářům a beta testerům k ověření stability a odhalení případných kritických chyb. Pokud se v této fázi neobjeví žádné zásadní problémy, RC verze se obvykle stává identickou s finální veřejnou verzí.
+Release candidate představuje poslední testovací fázi před veřejným vydáním softwaru. Aktualizace prošly beta testováním po dobu přibližně měsíce, během kterého vývojáři a testeri identifikovali a hlásili chyby.
 
-Během měsíčního beta testování se objevilo několik zajímavých novinek, které jsou však omezeny především na tři hlavní platformy. V iOS, iPadOS a macOS přibývají nové přepínače pro úpravu designu Liquid Glass, což je vizuální styl uživatelského rozhraní zavedený v předchozích verzích. Významnou novinkou je rozšíření jazykové podpory pro Apple Intelligence - systém umělé inteligence integrovaný do operačních systémů Apple, který zahrnuje funkce jako pokročilé zpracování textu, generování obsahu a kontextové návrhy.
+Největší pozornost si zaslouží změny v hlavních platformách. U iOS a iPadOS přibývají možnosti přizpůsobení designového jazyka Liquid Glass, který Apple představil v předchozích verzích systému. Uživatelé získají větší kontrolu nad vizuálním vzhledem rozhraní prostřednictvím nových přepínačů v nastavení.
 
-Na iPadu se vrací funkce Slide Over, která umožňuje zobrazit aplikaci v plovoucím okně nad hlavní aplikací, což zlepšuje multitasking. Pro menší platformy jako watchOS, tvOS, visionOS a HomePod jsou změny minimální. U tvOS se objevila nová ikona aplikace Apple TV, pravděpodobně v rámci připravované aktualizace vizuální identity streamovací služby Apple TV+. Samotná aplikace však v beta verzích zůstala beze změn.
+Významnou novinkou je rozšíření jazykové podpory pro Apple Intelligence, umělou inteligenci integrovanou do operačních systémů Apple. Konkrétní jazyky však v dostupných informacích nejsou specifikovány. Na iPadu se vrací funkce Slide Over, která umožňuje zobrazit aplikaci v plovoucím okně nad hlavní aplikací, což zlepšuje multitasking.
+
+U menších platforem jako watchOS (operační systém pro Apple Watch), tvOS (systém pro Apple TV), visionOS (pro headset Vision Pro) a HomePod jsou změny minimální. Jedinou viditelnou úpravou je nová ikona aplikace Apple TV, která má pravděpodobně odpovídat chystané "živější" vizuální identitě streamovací služby Apple TV+. Samotná aplikace však v beta verzích zůstala beze změn.
+
+Pro tyto platformy budou hlavními přínosy pravděpodobně opravy chyb, bezpečnostní záplaty a vylepšení výkonu, což jsou standardní součásti každé aktualizace.
 
 ## Proč je to důležité
 
-Vydání RC verzí signalizuje blížící se konec vývojového cyklu aktualizací 26.1 a jejich brzké zpřístupnění široké veřejnosti. Pro uživatele to znamená, že nové funkce a vylepšení budou k dispozici během několika dní. Rozšíření jazykové podpory Apple Intelligence je významné pro uživatele mimo anglicky mluvící země, protože umožní využívat pokročilé AI funkce v dalších jazycích. Návrat funkce Slide Over na iPad ukazuje, že Apple reaguje na zpětnou vazbu uživatelů a vrací oblíbené funkce pro práci s více aplikacemi současně. Minimální změny u vedlejších platforem naznačují, že Apple se v tomto cyklu soustředil především na vylepšení hlavních systémů a stabilizaci nových funkcí.
+Release candidate verze signalizují blížící se dokončení vývojového cyklu a poskytují poslední příležitost k odhalení kritických problémů před masovým nasazením. Pro uživatele Apple ekosystému to znamená, že nové funkce a vylepšení budou k dispozici během několika dní. Rozšíření jazykové podpory Apple Intelligence je obzvláště relevantní pro mezinárodní uživatele, kteří dosud nemohli využívat AI funkce ve svém rodném jazyce. Pravidelné aktualizace napříč celým portfoliem zařízení ukazují Applovu strategii jednotného ekosystému, kde všechny produkty postupují synchronizovaně.
 
 ---
 

@@ -3,9 +3,9 @@ category: mobilní telefony
 companies:
 - Apple
 date: '2025-10-28 14:05:00'
-description: Kombinace laboratorních testů a reálného používání ukazuje, že iPhone
-  Air s menší baterií zvládne běžný den provozu, přestože při náročném používání zaostává
-  za ostatními modely.
+description: Laboratorní i praktické testy ukazují, že iPhone Air navzdory menší baterii
+  zvládne celý den běžného používání. Ve streamovacím testu dosáhl stejných výsledků
+  jako iPhone 17 Pro.
 importance: 3
 layout: tech_news_article
 original_title: Both real-life and lab tests suggest iPhone Air battery lasts a typical
@@ -24,28 +24,31 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Nový iPhone Air, který přináší kompromis v podobě menší baterie kvůli štíhlejšímu designu, podle testů serveru CNET zvládne běžný den používání. V laboratorních testech dosáhl srovnatelných výsledků s iPhone 17 Pro, při extrémně náročném používání však zaostává za ostatními modely řady iPhone 17.
+Nový iPhone Air, který přináší kompromis v podobě menší baterie kvůli štíhlejšímu designu, podle testů portálu CNET zvládne běžný den používání. V laboratorních testech streamování videa dosáhl stejných výsledků jako iPhone 17 Pro a iPhone 15, při tříhodinovém testu na maximální jas ztratil pouze 15 % kapacity.
 
 ## Klíčové body
 
-- V tříhodinovém testu streamování videa při maximálním jasu iPhone Air ztratil 15 % baterie, stejně jako iPhone 17 Pro a iPhone 15
-- iPhone 17 Pro Max dosáhl historicky nejlepšího výsledku mezi iPhony s pouhými 9 % úbytku baterie
-- V 45minutovém zátěžovém testu náročných aplikací iPhone Air zaostává za ostatními modely řady iPhone 17
-- CNET provádí stejné bateriové testy tři roky, což poskytuje spolehlivá srovnávací data
+- iPhone Air ztratil při tříhodinovém streamovacím testu 15 % baterie, stejně jako iPhone 17 Pro
+- Ve standardním testu dosáhl srovnatelných výsledků s iPhone 15 navzdory menší baterii
+- Při náročnějším 45minutovém zátěžovém testu si vedl hůře než ostatní modely řady iPhone 17
+- iPhone 17 Pro Max dosáhl historicky nejlepšího výsledku mezi iPhony s pouhými 9 % úbytku
+- CNET provádí stejné testy tři roky, což umožňuje spolehlivé srovnání napříč generacemi
 
 ## Podrobnosti
 
-Server CNET podrobil nové modely iPhone 17 sérii standardizovaných testů, které provádí již tři roky. Hlavní test spočívá ve streamování videa přes Wi-Fi po dobu tří hodin s obrazovkou nastavenou na maximální jas, což představuje výrazně vyšší spotřebu než běžné používání s automatickou regulací jasu.
+Portál CNET testoval výdrž baterie nových modelů iPhone 17 třemi způsoby: zátěžovým stresovým testem, streamováním videa a sledováním běžného každodenního používání. Testovali také rychlost drátového i bezdrátového nabíjení.
 
-Výsledky ukázaly, že iPhone Air s 15% úbytkem baterie dosáhl stejného výsledku jako iPhone 17 Pro a také starší iPhone 15. iPhone 17 Pro Max zapsal historický úspěch jako první iPhone, který v tomto testu ztratil méně než 10 % kapacity. Standardní iPhone 17 dosáhl 11% úbytku.
+Streamovací test je poměrně náročný - telefon streamuje video přes Wi-Fi po dobu tří hodin s obrazovkou nastavenou na maximální jas, což spotřebovává výrazně více energie než běžné úrovně jasu používané většinou uživatelů. Telefony začínají plně nabité a měří se procentuální úbytek během testu.
 
-Druhou částí testování byl 45minutový zátěžový test simulující náročné používání včetně her, streamování videa a videohovorů. Zde se iPhone Air umístil hůře než ostatní modely řady iPhone 17. iPhone 17 Pro Max ztratil pouze 1 % baterie, standardní iPhone 17 pak 2 %, zatímco iPhone 17 Pro dosáhl lepších výsledků než Air.
+Výsledky ukázaly, že iPhone Air s 15% úbytkem dosáhl stejného výsledku jako iPhone 17 Pro a také iPhone 15 z předchozí generace. Nejlepší výsledek zaznamenal iPhone 17 Pro Max s pouhými 9 % úbytku - jedná se o první iPhone v historii testování, který dosáhl jednociferného výsledku.
 
-CNET kromě laboratorních testů sledoval také běžné každodenní používání telefonů v reálných podmínkách. Testy zahrnovaly jak drátové, tak bezdrátové nabíjení všech modelů.
+Při náročnějším 45minutovém zátěžovém testu, který simuluje intenzivní používání včetně her, streamování videa a videohovorů, si iPhone Air vedl výrazně hůře. Zatímco iPhone 17 Pro Max ztratil pouze 1 % a iPhone 17 standardní 2 %, konkrétní výsledek pro iPhone Air není v dostupném textu uveden, ale je zmíněno, že byl "notably worse" (výrazně horší).
 
 ## Proč je to důležité
 
-Výdrž baterie patří mezi klíčové parametry při výběru smartphonu a u iPhone Air byla jednou z hlavních obav kvůli štíhlejšímu designu vyžadujícímu menší baterii. Výsledky testů ukazují, že Apple dokázal optimalizovat spotřebu tak, aby telefon zvládl běžný den používání, což je pro většinu uživatelů dostačující. Pro náročné uživatele, kteří intenzivně využívají hry a další výkonově náročné aplikace, však budou vhodnější modely iPhone 17 Pro nebo Pro Max s výrazně lepší výdrží při zátěži.
+Výsledky testů jsou důležité pro potenciální kupce iPhone Air, kteří zvažují kompromis mezi štíhlejším designem a menší baterií. Data ukazují, že pro běžné používání by výdrž baterie neměla být problém, telefon zvládne celý den. Při intenzivnějším používání však uživatelé mohou pocítit rozdíl oproti ostatním modelům řady iPhone 17.
+
+Jde o typický příklad designového kompromisu, kdy Apple obětoval část kapacity baterie ve prospěch tenčího těla. Pro uživatele, kteří prioritizují design a hmotnost před absolutní výdrží, může být iPhone Air stále vhodnou volbou, zejména pokud jejich používání odpovídá spíše běžným scénářům než extrémní zátěži.
 
 ---
 
