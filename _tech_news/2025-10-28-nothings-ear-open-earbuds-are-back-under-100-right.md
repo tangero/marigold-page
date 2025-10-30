@@ -15,33 +15,35 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Sluchátka Nothing Ear Open opět za 2 300 Kč
+title: Sluchátka Nothing Ear Open jsou opět k dostání pod 100 dolarů
 url: https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nothing-Ear-Open-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nothing-Ear-Open-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
 ## Souhrn
-Sluchátka Nothing Ear Open jsou aktuálně v prodeji za 99 dolarů (přibližně 2 300 Kč) na Amazonu a v oficiálním obchodě Nothing, což představuje slevu 50 dolarů z původní ceny 149 dolarů. Jde o bezdrátová sluchátka s otevřeným designem, která nesedí v ušním kanálu, ale spočívají na vnějším uchu, což uživatelům umožňuje vnímat okolní zvuky.
+
+Sluchátka Nothing Ear Open se otevřeným designem jsou aktuálně v prodeji za 99 dolarů na Amazonu a v oficiálním obchodě Nothing, což odpovídá jejich historicky nejnižší ceně. Jde o bezdrátová sluchátka s konstrukcí, která spočívá na vnějším uchu místo uvnitř zvukovodu, což uživatelům umožňuje neustále vnímat okolní zvuky.
 
 ## Klíčové body
-- Cena klesla na historické minimum 99 dolarů, sleva činí 34 % z běžné ceny 149 dolarů
-- Otevřený design umožňuje vnímání okolního prostředí, což zvyšuje bezpečnost při pohybu venku
-- Sluchátka využívají háček přes ucho pro stabilní uchycení
-- Konstrukce minimalizuje únik zvuku navzdory otevřenému designu
-- Konkurují dražším modelům jako Shokz OpenRun Pro 2 a Bose Ultra Open
+
+- Sleva 50 dolarů snižuje cenu ze 149 na 99 dolarů, což je historické minimum
+- Otevřený design umožňuje vnímání okolního prostředí, vhodné pro běžce a cyklisty
+- Konstrukce s háčkem přes ucho zajišťuje stabilní uchycení
+- Minimalizace úniku zvuku díky speciálnímu designu reproduktorových modulů
+- Možné problémy při nošení s brýlemi s tlustšími obroučkami
 
 ## Podrobnosti
-Nothing Ear Open představují vstup společnosti Nothing do segmentu otevřených sluchátek, který se v poslední době rozrůstá. Na rozdíl od klasických sluchátek, která vytvářejí těsnění v ušním kanálu a pasivně izolují zvuk, tyto modely záměrně propouštějí okolní hluk. Konstrukce spočívá v umístění reproduktorových modulů na vnějším uchu s háčkem, který zajišťuje stabilní posazení.
 
-Tento přístup je primárně zaměřen na bezpečnost uživatelů, kteří se pohybují venku. Běžci, cyklisté a chodci mohou díky otevřenému designu slyšet přijíždějící vozidla, ostatní chodce nebo jiná potenciální nebezpečí. Zvuková kvalita je přitom záměrně obětována ve prospěch bezpečnosti – sluchátka nedosahují audio výkonu moderních uzavřených modelů.
+Nothing Ear Open představují alternativu k tradičním sluchátkům s uzavřeným designem. Místo vytvoření těsnění uvnitř zvukovodu spočívají na vnějším uchu, čímž umožňují neustálý průnik okolních zvuků. Tato konstrukce je primárně zaměřena na bezpečnost uživatelů, kteří se pohybují venku – běžci, cyklisté a chodci tak mohou slyšet vozidla, ostatní lidi a další potenciální nebezpečí.
 
-Konstrukce reproduktorových modulů je navržena tak, aby minimalizovala únik zvuku do okolí, což je běžný problém otevřených sluchátek. Uživatelé s brýlemi by však měli počítat s možnými komplikacemi při nošení, zejména pokud mají silnější obruby, protože háček přes ucho může kolidovat s brýlovými stranicemi.
+Sluchátka konkurují dalším modelům s otevřeným designem na trhu, jako jsou Shokz OpenRun Pro 2 nebo Bose Ultra Open, které jsou ovšem cenově výše. Nothing volí konstrukci s háčkem přes ucho, která zajišťuje pevnější uchycení během pohybu. Toto řešení však může způsobovat problémy uživatelům brýlí s tlustšími obroučkami, kde může docházet k nepříjemnému tlaku.
 
-Akce je dostupná na Amazonu pro členy Prime a v oficiálním obchodě Nothing. Jde o stejnou cenu, za kterou se sluchátka prodávala při předchozí slevové akci.
+Z hlediska zvukové kvality nelze očekávat stejnou úroveň jako u moderních sluchátek s uzavřeným designem. Absence těsnění v uchu znamená absenci pasivní izolace a horší reprodukci basů. Výrobce však implementoval speciální design reproduktorových modulů, který minimalizuje únik zvuku do okolí, takže posluchač nerušivě obtěžuje okolí.
 
 ## Proč je to důležité
-Rostoucí segment otevřených sluchátek odráží měnící se priority spotřebitelů, kteří hledají kompromis mezi poslechem hudby a vnímáním okolí. Zatímco prémiové značky jako Bose nabízejí podobná řešení za vyšší ceny, Nothing se snaží zpřístupnit tuto technologii širšímu publiku. Cenová dostupnost pod hranicí 100 dolarů činí z Ear Open zajímavou alternativu pro uživatele, kteří prioritizují bezpečnost při venkovních aktivitách před maximální zvukovou kvalitou.
+
+Rostoucí segment sluchátek s otevřeným designem odráží změnu priorit části uživatelů, kteří upřednostňují bezpečnost a vnímání okolí před maximální zvukovou kvalitou. Cena 99 dolarů činí Nothing Ear Open dostupnější alternativou k dražším konkurentům, což může urychlit adopci této kategorie produktů. Pro výrobce Nothing, který se snaží etablovat jako alternativa k zavedeným značkám, jde o další pokus oslovit specifický segment trhu s produktem, který kombinuje netradiční design s konkurenceschopnou cenou.
 
 ---
 

@@ -3,8 +3,8 @@ category: skládací telefony
 companies:
 - Samsung
 date: '2025-10-29 01:47:00'
-description: Samsung ukázal prototyp telefonu se dvěma panty a 10palcovým displejem.
-  Zařízení má dorazit na trh ještě letos.
+description: Samsung ukázal prototyp telefonu se dvěma panty a 10palcovým displejem,
+  který má být uveden na trh ještě letos.
 importance: 4
 layout: tech_news_article
 original_title: Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South
@@ -23,31 +23,33 @@ urlToImageBackup: https://www.cnet.com/a/img/resize/f4a03218d51059f985b15452fee9
 
 ## Souhrn
 
-Samsung představil na technologické výstavě během summitu APEC v Jižní Koreji svůj první trojskládací telefon určený pro spotřebitelský trh. Zařízení s dvěma panty se skládá do kompaktní velikosti běžného smartphonu s 6,5palcovým vnějším displejem a rozkládá se na 10palcovou tabletovou obrazovku. Podle korejských médií by měl telefon dorazit na trh v listopadu nebo prosinci 2025.
+Samsung představil na technologické výstavě během summitu APEC v Jižní Koreji svůj první trojskládací telefon pro spotřebitelský trh. Zařízení se dvěma panty nabídne 6,5palcový vnější displej v složeném stavu a po rozložení 10palcový displej velikosti tabletu. Podle korejských médií by měl telefon dorazit na trh v listopadu nebo prosinci 2025.
 
 ## Klíčové body
 
-- Telefon má dva panty a tři displeje - v složeném stavu nabízí 6,5palcový vnější displej, v rozloženém 10palcový
-- Jde o přímou odpověď na Huawei Mate XT, který získal v roce 2024 významný náskok na trhu trojskládacích telefonů
-- Samsung zatím neprezentoval oficiální název produktu, ukázal pouze prototyp
-- Firma potvrdila plány uvést zařízení na trh ještě v roce 2025
-- Na rozdíl od Galaxy Z Fold 7 a Z Flip 7 s jedním pantem má nový model dva panty a dvě záhyby na displeji
+- Telefon se skládá ve dvou místech a nabízí 10palcový displej po rozložení oproti 8palcovým displejům současných dvoudílných skládaček
+- V složeném stavu má standardní 6,5palcový vnější displej, což odpovídá běžným smartphonům
+- Samsung reaguje na konkurenci Huawei, které v roce 2024 získalo výrazný náskok s modelem Mate XT
+- Zařízení zatím nemá oficiální název a bylo představeno jako prototyp
+- Hlavní displej bude mít dvě záhyby oproti jednomu u Galaxy Z Fold 7
 
 ## Podrobnosti
 
-Samsung ukázal prototyp na technologické výstavě bez oficiálního názvu. Podle jihokorejského deníku The Chosun Daily se zařízení skládá ve dvou místech - v kompaktním stavu má rozměry běžného smartphonu s 6,5palcovým vnějším displejem, po rozložení nabízí 10palcovou plochu displeje. Pro srovnání - současné dvoudislejové skládačky jako Galaxy Z Fold mají vnitřní displej o velikosti přibližně 8 palců.
+Samsung ukázal prototyp svého prvního trojskládacího telefonu na technologické výstavě v rámci summitu APEC v Jižní Koreji. Zatímco současné modely Galaxy Z Fold 7 a Galaxy Z Flip 7 se skládají v polovině podél jednoho pantu, nové zařízení využívá dva panty pro kompaktnější design.
 
-Klíčový rozdíl oproti konkurenčnímu Huawei Mate XT spočívá v konstrukci pantů. Zatímco Huawei používá panty skládající se opačnými směry do tvaru písmene Z (podobně jako harmonika), Samsung zvolil řešení, kde se oba displeje skládají dovnitř. Toto řešení může lépe chránit displeje před poškozením, ale zároveň vytváří dvě záhyby na hlavní obrazovce místo jedné u Galaxy Z Fold 7.
+Podstatný rozdíl oproti konkurenčnímu Huawei Mate XT spočívá v mechanismu skládání. Huawei používá dva panty, které se ohýbají v opačných směrech jako harmonika a vytváří tvar písmene Z. Samsung naopak zvolil design, kde se oba displeje skládají dovnitř. Tento přístup může mít vliv na odolnost zařízení a způsob jeho používání.
 
-Samsung v oficiálním prohlášení uvedl, že pokračuje ve vývoji inovativních technologií včetně formátů nové generace v éře mobilní umělé inteligence. Firma potvrdila, že nedávná ukázka odráží pokračující výzkum a vývoj a plánuje uvést zařízení na trh ještě v letošním roce.
+Velikost displeje představuje významný pokrok - 10 palců po rozložení znamená výrazně větší pracovní plochu než současných přibližně 8 palců u dvoudílných skládaček. V složeném stavu pak 6,5palcový vnější displej odpovídá standardním smartphonům, což zajišťuje pohodlné každodenní používání.
 
-Jde o významný krok pro Samsung, který byl průkopníkem skládacích telefonů od uvedení prvního Galaxy Fold v roce 2019 a Galaxy Z Flip v roce 2020. V té době čelil silné konkurenci od Motoroly a Huawei, přičemž Huawei získal v roce 2024 významný náskok svým trojskládacím modelem Mate XT, po kterém následovala druhá verze.
+Samsung v oficiálním prohlášení uvedl, že pokračuje ve vývoji inovativních technologií včetně formátů nové generace v éře mobilní umělé inteligence. Společnost potvrdila, že nedávná ukázka odráží probíhající výzkum a vývoj a plánuje uvést zařízení na trh ještě v letošním roce.
 
 ## Proč je to důležité
 
-Uvedení trojskládacího telefonu Samsungu představuje důležitý milník ve vývoji skládacích zařízení. Samsung si tímto krokem udržuje pozici v segmentu, kde mu Huawei v roce 2024 utekl s vlastním trojskládacím řešením. Větší 10palcový displej posouvá skládací telefony blíže k plnohodnotným tabletům, což může změnit způsob, jak uživatelé pracují s mobilními zařízeními.
+Samsung byl průkopníkem skládacích telefonů s prvním Galaxy Fold z roku 2019 a Galaxy Z Flip z roku 2020. Vstup do segmentu trojskládacích zařízení je pro společnost strategicky klíčový, protože Huawei získalo v roce 2024 významný náskok se svým modelem Mate XT a následně představilo i druhou verzi.
 
-Pro spotřebitele to znamená možnost mít v kapse zařízení velikosti běžného telefonu, které se rozloží na tablet vhodný pro produktivní práci, sledování obsahu nebo multitasking. Otázkou zůstává cena - Huawei Mate XT startoval na ceně přes 2800 dolarů, což z něj činilo jedno z nejdražších spotřebitelských zařízení na trhu. Samsung bude muset najít rovnováhu mezi cenou a funkcionalitou, aby zaujal širší publikum.
+Trojskládací telefony představují další evoluci v kategorii skládacích zařízení a nabízejí kompromis mezi mobilitou a velikostí pracovní plochy. Zatímco dvoudílné skládačky se staly relativně běžnými, trojskládací design otevírá nové možnosti využití - od produktivity přes konzumaci obsahu až po multitasking s mobilní AI.
+
+Uvedení Samsungu na trh ještě v roce 2025 ukazuje, že segment skládacích telefonů se rychle vyvíjí a konkurence mezi výrobci se zostřuje. Pro spotřebitele to znamená rychlejší inovace a potenciálně dostupnější ceny v budoucnu.
 
 ---
 

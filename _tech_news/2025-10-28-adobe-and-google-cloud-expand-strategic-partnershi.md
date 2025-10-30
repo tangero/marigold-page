@@ -5,8 +5,7 @@ companies:
 - Google
 date: '2025-10-28 14:35:08'
 description: Adobe a Google Cloud oznámily rozšíření strategického partnerství, které
-  přinese pokročilé AI modely Googlu přímo do aplikací Adobe včetně Photoshopu, Premiere
-  a dalších.
+  přinese pokročilé AI modely Googlu přímo do aplikací Adobe včetně Photoshopu a Premiere.
 importance: 4
 layout: tech_news_article
 original_title: Adobe and Google Cloud Expand Strategic Partnership to Advance the
@@ -17,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: Adobe.com
-title: Adobe a Google Cloud rozšiřují partnerství pro kreativní AI
+title: Adobe a Google Cloud rozšiřují partnerství v oblasti kreativní AI
 url: https://news.adobe.com/news/2025/10/adobe-max-2025-google-cloud
 urlToImage: https://news.adobe.com/news/2025/10/media_1293b4f391448d7551dcad764880e1c218b4a4218.jpg?width=1200&format=pjpg&optimize=medium
 urlToImageBackup: https://news.adobe.com/news/2025/10/media_1293b4f391448d7551dcad764880e1c218b4a4218.jpg?width=1200&format=pjpg&optimize=medium
@@ -25,33 +24,33 @@ urlToImageBackup: https://news.adobe.com/news/2025/10/media_1293b4f391448d7551dc
 
 ## Souhrn
 
-Adobe a Google Cloud oznámily na konferenci Adobe MAX rozšíření strategického partnerství, které integruje pokročilé AI modely Googlu – Gemini, Veo a Imagen – přímo do aplikací Adobe. Zákazníci Adobe získají přístup k těmto modelům v nástrojích jako Photoshop, Premiere, Adobe Express a Adobe Firefly, přičemž firemní klienti budou moci prostřednictvím Adobe Firefly Foundry přizpůsobovat modely vlastními daty pro tvorbu obsahu odpovídajícího jejich značce.
+Adobe a Google Cloud oznámily na konferenci Adobe MAX rozšíření strategického partnerství, které integruje pokročilé AI modely Googlu – Gemini, Veo a Imagen – přímo do aplikací Adobe. Podnikoví zákazníci budou moci prostřednictvím Adobe Firefly Foundry přizpůsobovat tyto modely vlastními daty pro tvorbu firemního obsahu ve velkém měřítku.
 
 ## Klíčové body
 
-- Google poskytne Adobe přístup k AI modelům Gemini (konverzační AI), Veo (generování videa) a Imagen (generování obrázků)
-- Integrace proběhne napříč portfoliem Adobe – Firefly, Photoshop, Premiere, Adobe Express a podnikovou platformou GenStudio
-- Adobe Firefly Foundry umožní firemním zákazníkům trénovat AI modely na proprietárních datech pro konzistentní brandový obsah
-- Partnerství rozšiřuje strategii Adobe nabízet zákazníkům výběr z různých AI modelů
-- Oznámení proběhlo 28. října 2025 na konferenci Adobe MAX v Los Angeles
+- Modely Gemini, Veo a Imagen budou integrovány do Adobe Firefly, Photoshopu, Adobe Express, Premiere a dalších aplikací
+- Podnikoví zákazníci získají přístup k modelům přes Adobe GenStudio pro správu firemního obsahu
+- Adobe Firefly Foundry umožní firmám trénovat AI modely na vlastních datech pro konzistentní značkový obsah
+- Partnerství rozšiřuje strategii Adobe nabízet uživatelům výběr z různých AI modelů
+- Integrace pokrývá generování obrázků, videa i další kreativní formáty
 
 ## Podrobnosti
 
-Partnerství představuje významný posun v přístupu Adobe k umělé inteligenci. Místo spoléhání pouze na vlastní technologie Adobe Firefly firma otevírá své aplikace modelům třetích stran. Google přináší do spolupráce tři klíčové technologie: Gemini pro pokročilé jazykové zpracování a konverzační AI, Veo pro generování vysokojakostního videa a Imagen pro tvorbu obrázků.
+Partnerství představuje významný posun v přístupu Adobe k AI nástrojům. Zatímco Adobe dosud primárně spoléhalo na vlastní generativní model Firefly, nově otevírá své aplikace i pro konkurenční technologie. Uživatelé Photoshopu, Premiere a dalších nástrojů tak budou moci využívat Googlem vyvinuté modely Veo pro generování videa a Imagen pro tvorbu obrázků přímo v prostředí, které znají.
 
-Integrace se dotkne prakticky celého portfolia Adobe. V aplikaci Photoshop, která slouží k profesionální úpravě fotografií a grafiky, získají uživatelé přístup k alternativním generativním nástrojům. Premiere, software pro střih a úpravu videa, bude moci využít model Veo pro generování video obsahu. Adobe Express, zjednodušený nástroj pro rychlou tvorbu marketingových materiálů, a Adobe Firefly, platforma pro generativní AI, rovněž dostanou přístup k modelům Googlu.
+Zvláště zajímavá je integrace s Adobe GenStudio, platformou určenou pro správu a tvorbu marketingového obsahu v podnicích. Firmy budou moci využívat Google AI modely pro rychlejší produkci kampaní a marketingových materiálů s centralizovanou kontrolou nad výstupy.
 
-Zvláště zajímavá je integrace do Adobe GenStudio, podnikové platformy pro správu a tvorbu obsahu ve velkém měřítku. Prostřednictvím služby Adobe Firefly Foundry budou moci velké firmy trénovat AI modely Googlu na vlastních datech – například na knihovnách produktových fotografií, brandových materiálech nebo firemních designových systémech. Výsledkem by měla být AI schopná generovat obsah, který automaticky odpovídá vizuálnímu stylu a požadavkům dané značky.
+Adobe Firefly Foundry jde ještě o krok dál – umožňuje podnikovým zákazníkům vzít Google AI modely a dotrénovat je na vlastních datech, logách, barvách a dalších firemních aktivech. Výsledkem jsou AI modely, které automaticky generují obsah odpovídající vizuální identitě značky, což může výrazně urychlit tvorbu konzistentního obsahu napříč různými kanály.
 
-Tato možnost customizace je klíčová pro enterprise segment, kde konzistence brandingu a dodržování firemních standardů představuje zásadní požadavek. Firmy tak nebudou muset spoléhat pouze na obecné AI modely, ale získají nástroje přizpůsobené jejich specifickým potřebám.
+Tato strategie kontrastuje s přístupem některých konkurentů, kteří se snaží uzavřít uživatele do vlastního AI ekosystému. Adobe místo toho sází na otevřenost a možnost volby, což může být atraktivní zejména pro profesionální uživatele a firmy, které chtějí flexibilitu při výběru nástrojů.
 
 ## Proč je to důležité
 
-Partnerství signalizuje důležitý trend v oblasti kreativního softwaru – konec éry uzavřených ekosystémů. Adobe, tradiční dominantní hráč v profesionálních kreativních nástrojích, uznává, že nemůže konkurovat všem specializovaným AI modelům vlastními silami. Otevření platformy konkurenčním technologiím je pragmatickým krokem, který má zabránit odlivu zákazníků k alternativním řešením.
+Partnerství signalizuje důležitý trend v oblasti kreativního softwaru – přechod od proprietárních AI řešení k otevřenějším platformám nabízejícím výběr modelů. Pro Adobe jde o strategický tah, jak si udržet pozici v době, kdy se AI nástroje rychle komoditizují a konkurence roste.
 
-Pro Google představuje partnerství příležitost dostat své AI modely do rukou milionů kreativních profesionálů a firem, které používají Adobe produkty. Jde o významný distribuční kanál pro technologie, které Google vyvíjí v rámci své AI strategie.
+Pro Google Cloud představuje integrace cestu, jak dostat své AI modely k milionům kreativců a firem používajících Adobe nástroje, což může výrazně zvýšit adopci jejich technologií. Veo a Imagen tak získávají distribuční kanál, který by jinak budování vlastních aplikací trvalo roky.
 
-Z pohledu uživatelů přináší spolupráce větší flexibilitu a možnost volby. Místo závislosti na jediném AI poskytovateli budou moci vybírat model nejlépe vyhovující konkrétnímu úkolu. Zároveň to však může vést ke komplikovanějšímu uživatelskému rozhraní a nutnosti rozhodovat se mezi různými technologiemi s podobnými funkcemi.
+Z pohledu uživatelů jde o pozitivní vývoj – větší konkurence mezi AI modely přímo v aplikacích by měla vést k lepší kvalitě výstupů a nižším cenám. Otázkou zůstává, jak Adobe vyřeší licencování a zda budou Google modely dostupné ve stejných cenových plánech jako Firefly.
 
 ---
 

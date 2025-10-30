@@ -3,8 +3,8 @@ category: hardware
 companies:
 - Apple
 date: '2025-10-28 20:56:27'
-description: Podle zdrojů Bloomberg testuje Apple nové verze MacBook Air a iPadů s
-  OLED obrazovkami, které nabízejí lepší barvy a kontrast než současné LCD displeje.
+description: Podle zdrojů Bloomberg testuje Apple nové verze MacBook Air, iPad mini
+  a iPad Air s OLED obrazovkami místo současných LCD panelů.
 importance: 2
 layout: tech_news_article
 original_title: Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays
@@ -15,7 +15,7 @@ source:
   emoji: 💹
   id: bloomberg
   name: Bloomberg
-title: Apple údajně plánuje MacBook Air, iPad Air a iPad Mini s OLED displeji
+title: Apple údajně plánuje MacBook Air, iPad Air a iPad mini s OLED displeji
 url: https://www.bloomberg.com/news/articles/2025-10-28/apple-plans-oled-for-ipad-mini-ipad-air-macbook-air-mini-water-resistance
 urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBtB59Tcoa8/v1/1200x800.jpg
 urlToImageBackup: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBtB59Tcoa8/v1/1200x800.jpg
@@ -23,9 +23,11 @@ urlToImageBackup: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBtB59Tcoa8/
 
 ## Shrnutí
 
-Apple podle nepotvrzených informací testuje nové verze MacBook Air, iPad mini a iPad Air s OLED displeji. Jedná se zatím o spekulace založené na anonymních zdrojích Bloomberg, které naznačují posun těchto produktových řad k prémiové technologii zobrazení.
+Apple podle nepotvrzených informací testuje nové verze MacBook Air, iPad mini a iPad Air vybavené OLED displeji. Jedná se zatím o spekulace založené na zdrojích obeznámených se situací, nikoli o oficiální oznámení společnosti.
 
-**Poznámka:** Článek vychází z nepotvrzených informací od anonymních zdrojů a jedná se o spekulace. Apple oficiálně žádné takové plány nepotvrdil. OLED (organic light-emitting diode) technologie nabízí živější barvy, hlubší černou a lepší kontrast oproti současným LCD displejům, které tyto produkty používají. Apple již OLED displeje využívá v iPhone a vyšších modelech iPad Pro, zatímco MacBook Air a levnější iPady stále spoléhají na LCD technologii.
+## Kontext
+
+OLED (organic light-emitting diode) technologie nabízí oproti současným LCD displejům výraznější barvy a hlubší kontrast. Apple již OLED panely používá v iPhone a vyšších modelech iPad Pro, zatímco cenově dostupnější produktové řady jako MacBook Air a iPad Air stále spoléhají na LCD technologii. Přechod na OLED by znamenal sjednocení displayové technologie napříč produktovým portfoliem, ale také pravděpodobné zvýšení ceny těchto zařízení. Informace pochází z anonymních zdrojů a neexistuje žádný časový harmonogram ani potvrzení ze strany Applu.
 
 ---
 

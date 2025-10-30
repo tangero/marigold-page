@@ -3,9 +3,8 @@ category: kybernetická bezpečn
 companies:
 - Microsoft
 date: '2025-10-28 23:31:28'
-description: Microsoft vydal aktualizaci KB5067036 pro Windows 11, která zavádí novou
-  bezpečnostní funkci Administrator Protection a redesignované Start Menu s lepší
-  organizací aplikací.
+description: Microsoft vydal aktualizaci KB5067036 pro Windows 11 24H2 a 25H2, která
+  zavádí bezpečnostní funkci Administrator Protection a redesignované Start Menu.
 importance: 4
 layout: tech_news_article
 original_title: Windows 11 KB5067036 update rolls out Administrator Protection feature
@@ -25,33 +24,31 @@ urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2024/07/18/Windo
 
 ## Souhrn
 
-Microsoft vydal volitelnou aktualizaci KB5067036 pro Windows 11 verze 24H2 a 25H2, která přináší dvě významné novinky: bezpečnostní funkci Administrator Protection a přepracované Start Menu. Aktualizace je součástí měsíčního testovacího cyklu, který předchází pravidelným bezpečnostním záplatám Patch Tuesday.
+Microsoft vydal volitelnou kumulativní aktualizaci KB5067036 pro Windows 11 verze 24H2 a 25H2, která přináší dlouho očekávanou bezpečnostní funkci Administrator Protection a redesignované Start Menu. Aktualizace je součástí měsíčního testovacího cyklu, který předchází pravidelným bezpečnostním záplatám Patch Tuesday.
 
 ## Klíčové body
 
 - Aktualizace KB5067036 zavádí funkci Administrator Protection, která snižuje riziko spuštění škodlivých příkazů s administrátorskými právy
-- Nové Start Menu nabízí kategorie, mřížkové zobrazení, responzivní rozvržení a posuvnou sekci "Vše" pro snadnější vyhledávání aplikací
-- Jedná se o volitelnou aktualizaci bez bezpečnostních záplat, která aktualizuje Windows 11 24H2 na build 26100.5074 a verzi 25H2 na build 26100.7019
-- Opravuje chyby v nástroji Media Creation Tool a problémy s HTTP/2 připojeními k webovým službám běžícím na localhost
-- Uživatelé si mohou aktualizaci stáhnout přes Windows Update nebo ručně z Microsoft Update Catalog
+- Redesignované Start Menu nabízí nové kategorie, mřížkové zobrazení, responzivní layout a scrollovatelnou sekci "Vše"
+- Aktualizace opravuje chyby v Media Creation Tool a problémy s HTTP/2 připojeními na localhost
+- Jedná se o volitelnou aktualizaci bez bezpečnostních záplat, která testuje funkce pro příští Patch Tuesday
+- Po instalaci se Windows 11 24H2 aktualizuje na build 26100.5074 a verze 25H2 na build 26100.7019
 
 ## Podrobnosti
 
-Administrator Protection představuje významný posun v bezpečnostním modelu Windows. Tato funkce má za cíl omezit rizika spojená se spouštěním škodlivých programů s administrátorskými oprávněními. Tradiční model v Windows umožňuje uživatelům s administrátorskými právy spouštět prakticky jakýkoli kód, což představuje bezpečnostní riziko v případě kompromitace systému. Administrator Protection vytváří dodatečnou vrstvu ochrany, která má zabránit zneužití těchto oprávnění.
+Aktualizace KB5067036 představuje důležitý krok v posílení bezpečnosti Windows 11. Hlavní novinkou je funkce Administrator Protection, která má za cíl omezit rizika spojená se spouštěním škodlivých programů s administrátorskými oprávněními. Tato funkce se postupně zavádí mezi uživatele a představuje významné vylepšení bezpečnostního modelu operačního systému.
 
-Přepracované Start Menu přináší praktické vylepšení každodenního používání systému. Nové kategorie a mřížkové zobrazení umožňují lepší organizaci aplikací, zatímco responzivní rozvržení se přizpůsobuje různým velikostem obrazovky. Posuvná sekce "Vše" řeší dlouhodobý problém s vyhledáváním aplikací v rozsáhlých seznamech.
+Redesignované Start Menu přináší praktické změny v uživatelském rozhraní. Nové kategorie a mřížkové zobrazení mají zjednodušit orientaci v nainstalovaných aplikacích. Responzivní layout se přizpůsobuje různým velikostem obrazovky a scrollovatelná sekce "Vše" umožňuje rychlejší vyhledávání aplikací. Tyto úpravy reagují na dlouhodobou kritiku uživatelů ohledně ergonomie Start Menu ve Windows 11.
 
-Aktualizace KB5067036 je součástí měsíčního testovacího programu, kdy Microsoft vydává volitelné aktualizace na konci každého měsíce. Tyto aktualizace slouží k otestování nových funkcí a oprav před jejich začleněním do povinných bezpečnostních aktualizací Patch Tuesday následující měsíc. Uživatelé si mohou vybrat, zda aktualizaci nainstalují okamžitě, nebo počkají na její začlenění do pravidelné aktualizace.
+Aktualizace je dostupná přes Windows Update v nastavení systému, kde se zobrazí jako volitelná. Uživatelé musí explicitně kliknout na "Download and install", pokud nemají aktivovanou možnost automatického stahování nejnovějších aktualizací. Alternativně lze aktualizaci stáhnout manuálně z Microsoft Update Catalog.
 
-Mezi další opravy patří řešení problémů s nástrojem Media Creation Tool, který slouží k vytváření instalačních médií Windows, a oprava chyb při navazování HTTP/2 spojení s lokálními webovými službami, což ovlivňovalo vývojáře a pokročilé uživatele.
+Mezi opravenými chybami je problém s Media Creation Tool, který uživatelům znemožňoval vytváření instalačních médií, a technický problém s HTTP/2 připojeními na localhost, který komplikoval práci vývojářům testujícím webové služby lokálně.
 
 ## Proč je to důležité
 
-Administrator Protection představuje důležitý krok v evolučním vývoji bezpečnosti Windows. V době rostoucích kybernetických hrozeb, kdy ransomware a další malware často zneužívají administrátorská oprávnění k šíření po síti, poskytuje tato funkce dodatečnou obranu. Jde o reakci Microsoftu na moderní bezpečnostní výzvy, kde tradiční model oprávnění již nepostačuje.
+Zavedení funkce Administrator Protection představuje významný posun v bezpečnostní strategii Microsoftu. Tradiční model administrátorských práv ve Windows byl dlouhodobě terčem kritiky bezpečnostních expertů, protože umožňoval malwaru získat plnou kontrolu nad systémem. Nová funkce má potenciál výrazně snížit úspěšnost útoků využívajících eskalaci oprávnění.
 
-Pro běžné uživatele znamená redesignované Start Menu zlepšení uživatelské zkušenosti, které může zvýšit produktivitu práce se systémem. Microsoft tak reaguje na kritiku, že Start Menu v Windows 11 bylo krokem zpět oproti Windows 10.
-
-Volitelný charakter aktualizace umožňuje uživatelům a správcům IT otestovat nové funkce před jejich povinným nasazením, což snižuje riziko problémů s kompatibilitou v produkčním prostředí.
+Pro běžné uživatele je důležité, že se jedná o volitelnou aktualizaci bez bezpečnostních záplat. To znamená, že její instalace není kritická a uživatelé mohou počkat na stabilnější verzi v rámci listopadového Patch Tuesday. Vývojáři a IT administrátoři však ocení opravu problémů s HTTP/2 a Media Creation Tool, které komplikovaly každodenní práci.
 
 ---
 

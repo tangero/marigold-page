@@ -22,29 +22,31 @@ urlToImageBackup: https://images.macrumors.com/t/cE3ZPpZRsi8VGQdcoAIbbwr6lbo=/25
 
 ## Souhrn
 
-Apple uvedl na trh nový iPad Pro s čipem M5, který přichází 18 měsíců po loňské verzi s M4. Zatímco předchozí generace přinesla zásadní změny včetně OLED displeje a zcela nového designu, letošní model představuje spíše evoluční krok zaměřený na vylepšení výkonu procesoru a bezdrátové konektivity.
+Apple vydal nový iPad Pro s čipem M5 přibližně 18 měsíců po loňské verzi s M4. Zatímco předchozí generace přinesla zásadní změny včetně OLED displeje, tenčího designu a nové klávesnice Magic Keyboard, letošní aktualizace je výrazně konzervativnější a soustředí se především na vylepšení výkonu procesoru a bezdrátové konektivity.
 
 ## Klíčové body
 
-- Čip M5 nabízí o 15 % rychlejší vícevláknový výkon CPU, o 30 % rychlejší grafiku a o 45 % rychlejší ray tracing oproti M4
-- Nová generace přechází z Wi-Fi 6E na Wi-Fi 7 a z Bluetooth 5.3 na Bluetooth 6
+- Čip M5 nabízí o 15 % rychlejší vícevláknový výkon CPU, o 30 % rychlejší grafiku a o 45 % lepší ray tracing oproti M4
+- Nová verze přináší Wi-Fi 7 místo Wi-Fi 6E a Bluetooth 6 místo 5.3
 - Apple nahradil komponenty třetích stran vlastními čipy N1 (Wi-Fi/Bluetooth) a C1X (5G modem)
-- Základní modely s 256GB a 512GB nyní mají 12GB operační paměti místo 8GB
-- Displej dosahuje minimální jas 1 nit oproti předchozím 2-4 nitům
+- Základní modely s 256GB a 512GB nyní mají 12GB RAM místo 8GB
+- Podpora externích displejů až do 120Hz s technologií Adaptive Sync
 
 ## Podrobnosti
 
-Nový iPad Pro s M5 představuje pokračování strategie Apple Silicon, kdy společnost postupně nahrazuje komponenty od dodavatelů vlastními řešeními. Broadcom čip pro Wi-Fi a Bluetooth nahradil proprietární čip N1, zatímco u verzí s mobilní konektivitou Apple vyměnil Qualcomm Snapdragon modem za vlastní C1X čip. Tato změna dává Applu větší kontrolu nad hardwarem a potenciálně snižuje závislost na externích dodavatelích.
+Nový iPad Pro s M5 představuje typickou mezigenerační aktualizaci, která se zaměřuje na evoluční vylepšení spíše než revoluci. Nejvýznamnější změnou je samotný čip M5, který podle Applu přináší měřitelná zlepšení ve výkonu. Vícevláknový výkon CPU vzrostl o 15 %, celkový grafický výkon o 30 % a ray tracing, důležitý pro náročné 3D aplikace a hry, je rychlejší o 45 %. Šířka pásma unifikované paměti se zvýšila o 27,5 %.
 
-Z hlediska výkonu přináší M5 měřitelná vylepšení. Kromě obecných nárůstů výkonu CPU a GPU Apple zveřejnil konkrétní výsledky v reálných pracovních zátěžích zaměřených na umělou inteligenci, kde čip dosahuje více než čtyřnásobného špičkového výkonu GPU. Propustnost sjednocené paměti vzrostla o 27,5 %, což má pozitivní dopad na aplikace náročné na práci s daty.
+Apple publikoval také konkrétní výsledky z reálných pracovních zátěží, zejména v oblasti aplikací využívajících umělou inteligenci, kde čip M5 vykazuje více než čtyřnásobný špičkový výpočetní výkon GPU.
 
-Významnou změnou je navýšení základní operační paměti u modelů s 256GB a 512GB úložištěm z 8GB na 12GB. Toto vylepšení by mělo pozitivně ovlivnit multitasking a práci s náročnějšími aplikacemi. Rychlost SSD se zdvojnásobila, což urychlí načítání velkých souborů a export projektů.
+Důležitou změnou je přechod na vlastní čipy pro bezdrátovou konektivitu. Apple nahradil Broadcom čip vlastním N1 čipem pro Wi-Fi a Bluetooth a Qualcomm Snapdragon modem vlastním C1X čipem v mobilních verzích. To přináší podporu Wi-Fi 7 a Bluetooth 6, což znamená rychlejší a stabilnější bezdrátové připojení.
 
-V oblasti konektivity přináší Wi-Fi 7 vyšší přenosové rychlosti a nižší latenci, zatímco Bluetooth 6 zlepšuje spolehlivost bezdrátového připojení. iPad Pro nyní podporuje připojení externích displejů s obnovovací frekvencí až 120Hz místo předchozích 60Hz, včetně podpory Adaptive Sync pro plynulejší obraz.
+Výrazně se zlepšila i paměťová konfigurace – základní modely s 256GB a 512GB úložištěm nyní disponují 12GB RAM místo původních 8GB, což ocení uživatelé pracující s náročnějšími aplikacemi. Rychlost SSD se zdvojnásobila a minimální jas displeje klesl na 1 nit, což zlepšuje čitelnost v tmavém prostředí.
+
+Podpora externích displejů se rozšířila o možnost obnovovací frekvence až 120Hz s technologií Adaptive Sync, což ocení profesionální uživatelé pracující s externími monitory.
 
 ## Proč je to důležité
 
-Aktualizace iPad Pro odráží strategii Applu postupně nahrazovat komponenty třetích stran vlastními řešeními, což firma úspěšně realizovala u procesorů řady M a nyní rozšiřuje i na modemy a bezdrátovou konektivitu. Pro uživatele loňského modelu s M4 nepředstavuje nová generace dostatečně výrazný důvod k upgradu, zejména když předchozí verze přinesla zásadní redesign s OLED displejem a tenčím tělem. Vylepšení jsou především pod kapotou a projeví se hlavně v náročných profesionálních aplikacích využívajících AI a grafický výkon. Pro ty, kdo vlastní starší modely iPad Pro, může kombinace výkonnějšího čipu, lepší konektivity a vyšší základní paměti představovat zajímavý upgrade.
+Aktualizace iPad Pro s M5 ukazuje strategii Applu střídání velkých a malých aktualizací produktové řady. Po loňské zásadní redesignu s OLED displejem a výrazně tenčím tělem přichází letošní verze s konzervativnějšími vylepšeními. Pro majitele modelu s M4 není upgrade příliš přesvědčivý, ale uživatelé starších generací získají výrazně výkonnější zařízení s moderní konektivitou. Přechod na vlastní čipy pro Wi-Fi, Bluetooth a 5G modem navíc ukazuje pokračující snahu Applu o vertikální integraci a nezávislost na dodavatelích komponentů.
 
 ---
 
