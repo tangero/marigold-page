@@ -43,6 +43,10 @@ jobs:
       run: |
         python scripts/optimize_tech_news_images.py
 
+    - name: Generate tech-news manifest
+      run: |
+        python scripts/generate_tech_news_manifest.py
+
     - name: Check for changes
       id: git-check
       run: |
