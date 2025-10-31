@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-31T08:17:52.500514+00:00",
+  "generated": "2025-10-31T12:24:48.669820+00:00",
   "count": 200,
   "articles": [
     {
@@ -16,6 +16,24 @@
         "emoji": "📰",
         "id": null,
         "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple adds new App Store submission and marketing features, will phase out promo codes in 2026 - 9to5Mac",
+      "description": "Apple is rolling out a round of enhancements that will make it easier for developers to submit, manage, and market their apps on the App Store.",
+      "slug": "apple-adds-new-app-store-submission-and-marketing-",
+      "publishedAt": "2025-10-29T23:37:00+00:00",
+      "date": "2025-10-29 23:37:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/app-store-connect.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/apple-adds-new-app-store-submission-and-marketing-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
       },
       "companies": [],
       "people": []
@@ -76,6 +94,42 @@
         "Alphabet",
         "OpenAI"
       ],
+      "people": []
+    },
+    {
+      "title": "Google Maps vs. Waze: We Finally Know Which App Will Get You There Faster - PCMag",
+      "description": "Through vast cross-country stretches or tight city streets, Google Maps and Waze guide you where you need to go—but which one is the top map app? I put them head-to-head to find out.",
+      "slug": "google-maps-vs-waze-we-finally-know-which-app-will",
+      "publishedAt": "2025-10-29T19:47:27+00:00",
+      "date": "2025-10-29 19:47:27",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.pcmag.com/imagery/comparisons/245.fit_lim.size_1200x630.v1754426503.jpg",
+      "url": "/tech-news/2025-10-29/google-maps-vs-waze-we-finally-know-which-app-will/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uv is the best thing to happen to the Python ecosystem in a decade - Hacker News",
+      "description": "",
+      "slug": "uv-is-the-best-thing-to-happen-to-the-python-ecosy",
+      "publishedAt": "2025-10-29T19:17:40+00:00",
+      "date": "2025-10-29 19:17:40",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-10-29/uv-is-the-best-thing-to-happen-to-the-python-ecosy/",
+      "source": {
+        "emoji": "📰",
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -214,6 +268,24 @@
       "people": []
     },
     {
+      "title": "Galaxy Z ‘TriFold’ might still be thinner than most of Samsung’s foldables to date - 9to5Google",
+      "description": "Samsung has officially shown off the Galaxy Z TriFold for the first time and, in that initial showing, it appears...",
+      "slug": "galaxy-z-trifold-might-still-be-thinner-than-most-",
+      "publishedAt": "2025-10-29T15:55:00+00:00",
+      "date": "2025-10-29 15:55:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-fold-6-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/galaxy-z-trifold-might-still-be-thinner-than-most-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Android Auto prepares support for app widgets as latest updates roll out [Gallery] - 9to5Google",
       "description": "Google has some new Android Auto features in the pipeline, including support for app widgets on the dashboard as has...",
       "slug": "android-auto-prepares-support-for-app-widgets-as-l",
@@ -307,6 +379,24 @@
       "people": []
     },
     {
+      "title": "Nothing’s new bloatware includes Facebook services that can’t be uninstalled - 9to5Google",
+      "description": "Nothing’s first phone with third-party bloatware has arrived, with the new Nothing Phone (3a) Lite shipping out of the box...",
+      "slug": "nothings-new-bloatware-includes-facebook-services-",
+      "publishedAt": "2025-10-29T14:10:00+00:00",
+      "date": "2025-10-29 14:10:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nothing-phone-3a-lite-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/nothings-new-bloatware-includes-facebook-services-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Nothing Phone 3A Lite strips the Glyph Lights down to the bare minimum - The Verge",
       "description": "Nothing’s new Phone 3A Lite is a budget-friendly model destined for the UK and Europe, but its single notification LED won’t be launching in the US.",
       "slug": "nothing-phone-3a-lite-strips-the-glyph-lights-down",
@@ -325,13 +415,13 @@
       "people": []
     },
     {
-      "title": "Amazon představil dva nové reproduktory Echo – levnější model je lepší volbou",
-      "description": "Recenze nových chytrých reproduktorů Echo Dot Max za 100 dolarů a Echo Studio za 220 dolarů ukazuje, že levnější varianta nabízí lepší poměr ceny a výkonu.",
+      "title": "Amazon’s Two New Echo Speakers Present a Clear Winner — With or Without Alexa+ - Bloomberg.com",
+      "description": "Review: The $100 Echo Dot Max outshines the pricier Echo Studio.",
       "slug": "amazons-two-new-echo-speakers-present-a-clear-winn",
       "publishedAt": "2025-10-29T14:00:05+00:00",
       "date": "2025-10-29 14:00:05",
-      "importance": 3,
-      "category": "chytré reproduktory",
+      "importance": 4,
+      "category": "tech",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8n.ARMZmNY/v4/1200x800.jpg",
       "url": "/tech-news/2025-10-29/amazons-two-new-echo-speakers-present-a-clear-winn/",
       "source": {
@@ -339,10 +429,7 @@
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "companies": [
-        "Amazon",
-        "Bloomberg"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -387,13 +474,13 @@
       "people": []
     },
     {
-      "title": "OnePlus 15: Výkonnostní zaměření jako výmluva pro ústupky",
-      "description": "OnePlus představil model 15 s důrazem na herní výkon, ale oproti předchůdci přináší několik kontroverzních kompromisů, zejména v oblasti fotoaparátů.",
+      "title": "Sorry OnePlus, but I’m not buying your excuse for the OnePlus 15 downgrades - Android Authority",
+      "description": "OnePlus has just launched the OnePlus 15, but the company's marketing isn't fooling me when it comes to the phone's downgrades.",
       "slug": "sorry-oneplus-but-im-not-buying-your-excuse-for-th",
-      "publishedAt": "2025-10-29T12:58:07+00:00",
-      "date": "2025-10-29 12:58:07",
+      "publishedAt": "2025-10-29T12:33:30+00:00",
+      "date": "2025-10-29 12:33:30",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "tech",
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/oneplus-15-official-sand-color-hero.jpg",
       "url": "/tech-news/2025-10-29/sorry-oneplus-but-im-not-buying-your-excuse-for-th/",
       "source": {
@@ -401,10 +488,7 @@
         "id": null,
         "name": "Android Authority"
       },
-      "companies": [
-        "OnePlus",
-        "Android Authority"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -3830,60 +3914,6 @@
       "people": []
     },
     {
-      "title": "Scientists Invented an Entirely New Way to Refrigerate - ScienceAlert",
-      "description": "Say hello to ionocaloric cooling.",
-      "slug": "scientists-invented-an-entirely-new-way-to-refrige",
-      "publishedAt": "2025-10-25T12:17:41+00:00",
-      "date": "2025-10-25 12:17:41",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.sciencealert.com/images/2025/10/new_type_refrigeration_header.jpg",
-      "url": "/tech-news/2025-10-25/scientists-invented-an-entirely-new-way-to-refrige/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The glaring security risks with AI browser agents - TechCrunch",
-      "description": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
-      "slug": "the-glaring-security-risks-with-ai-browser-agents-",
-      "publishedAt": "2025-10-25T12:00:00+00:00",
-      "date": "2025-10-25 12:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1290478576.jpg?resize=1200,846",
-      "url": "/tech-news/2025-10-25/the-glaring-security-risks-with-ai-browser-agents-/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung and Google Told Me What Upcoming Smart Glasses Could Bring - CNET",
-      "description": "Mixed reality headsets, smart glasses and live AI. Google's head of Android and Samsung's COO for mobile experiences revealed what's coming next.",
-      "slug": "samsung-and-google-told-me-what-upcoming-smart-gla",
-      "publishedAt": "2025-10-25T12:00:00+00:00",
-      "date": "2025-10-25 12:00:00",
-      "importance": 2,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/50c5922a9d5e21a70ffdf86077399b10af61bbba/hub/2025/10/24/6fdf98b9-58e5-42b5-bced-6ddd20d7b25a/scott-samsung-xr-headset.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-25/samsung-and-google-told-me-what-upcoming-smart-gla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Windows 10 Deadline Boosts Mac Sales - MacRumors",
       "description": "The Windows 10 end-of-support deadline is driving the largest coordinated PC replacement cycle in years across the industry, and Apple is emerging as...",
       "slug": "windows-10-deadline-boosts-mac-sales-macrumors",
@@ -3897,42 +3927,6 @@
         "emoji": "📰",
         "id": null,
         "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One - WIRED",
-      "description": "In OpenAI’s new Atlas browser, the Ask ChatGPT sidebar is moderately helpful at best. Sometimes, it’s confusingly wrong.",
-      "slug": "openais-atlas-wants-to-be-the-webs-tour-guide-im-n",
-      "publishedAt": "2025-10-25T10:00:00+00:00",
-      "date": "2025-10-25 10:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://media.wired.com/photos/68fc1ab3582abcd215b5b4b2/191:100/w_1280,c_limit/gear_openai_atlas_browser%20_tour.jpg",
-      "url": "/tech-news/2025-10-25/openais-atlas-wants-to-be-the-webs-tour-guide-im-n/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price - Mashable",
-      "description": "Which mixed reality headset is for you?",
-      "slug": "samsung-galaxy-xr-vs-apple-vision-pro-comparing-sp",
-      "publishedAt": "2025-10-25T09:39:35+00:00",
-      "date": "2025-10-25 09:39:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04iNP22NOmiPvuhpwOkxE6c/hero-image.fill.size_1200x675.v1761336792.jpg",
-      "url": "/tech-news/2025-10-25/samsung-galaxy-xr-vs-apple-vision-pro-comparing-sp/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
       },
       "companies": [],
       "people": []
