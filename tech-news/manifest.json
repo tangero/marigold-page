@@ -1,7 +1,25 @@
 {
-  "generated": "2025-10-31T07:29:49.423012+00:00",
+  "generated": "2025-10-31T16:16:46.138423+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI adds reusable ‘characters’ and video stitching to Sora - The Verge",
+      "description": "OpenAI’s Sora app will now let you turn almost anything into a reusable avatar for its AI-generated videos.",
+      "slug": "openai-adds-reusable-characters-and-video-stitchin",
+      "publishedAt": "2025-10-30T12:20:45+00:00",
+      "date": "2025-10-30 12:20:45",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Sora-Character-Cameo.jpg?quality=90&strip=all&crop=0%2C8.2505867485106%2C100%2C83.498826502979&w=1200",
+      "url": "/tech-news/2025-10-30/openai-adds-reusable-characters-and-video-stitchin/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Deepfake Videos Are More Realistic Than Ever. How Can You Spot if a Video Is Real or Sora AI? - CNET",
       "description": "Figuring out if a video is made with OpenAI's Sora app is difficult, but there are some visual clues.",
@@ -16,6 +34,24 @@
         "emoji": "📰",
         "id": null,
         "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple adds new App Store submission and marketing features, will phase out promo codes in 2026 - 9to5Mac",
+      "description": "Apple is rolling out a round of enhancements that will make it easier for developers to submit, manage, and market their apps on the App Store.",
+      "slug": "apple-adds-new-app-store-submission-and-marketing-",
+      "publishedAt": "2025-10-29T23:37:00+00:00",
+      "date": "2025-10-29 23:37:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/app-store-connect.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/apple-adds-new-app-store-submission-and-marketing-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
       },
       "companies": [],
       "people": []
@@ -57,6 +93,24 @@
       "people": []
     },
     {
+      "title": "Instagram to let select users tune the Reels algorithm in new test - 9to5Mac",
+      "description": "Instagram is rolling out a new test that lets select users fine-tune what they’d like to see in their Reels and Explore feeds.",
+      "slug": "instagram-to-let-select-users-tune-the-reels-algor",
+      "publishedAt": "2025-10-29T21:34:00+00:00",
+      "date": "2025-10-29 21:34:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/Flood-of-violent-and-graphic-content-on-Instagram.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/instagram-to-let-select-users-tune-the-reels-algor/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Gemini od Googlu dohání ChatGPT v popularitě",
       "description": "Alphabet zveřejnil výsledky za třetí čtvrtletí, investoři sledují růst cloudových služeb a výkonnost vyhledávání v éře AI.",
       "slug": "googles-gemini-is-catching-up-to-chatgpts-populari",
@@ -76,6 +130,60 @@
         "Alphabet",
         "OpenAI"
       ],
+      "people": []
+    },
+    {
+      "title": "Google Maps vs. Waze: We Finally Know Which App Will Get You There Faster - PCMag",
+      "description": "Through vast cross-country stretches or tight city streets, Google Maps and Waze guide you where you need to go—but which one is the top map app? I put them head-to-head to find out.",
+      "slug": "google-maps-vs-waze-we-finally-know-which-app-will",
+      "publishedAt": "2025-10-29T19:47:27+00:00",
+      "date": "2025-10-29 19:47:27",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.pcmag.com/imagery/comparisons/245.fit_lim.size_1200x630.v1754426503.jpg",
+      "url": "/tech-news/2025-10-29/google-maps-vs-waze-we-finally-know-which-app-will/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uv is the best thing to happen to the Python ecosystem in a decade - Hacker News",
+      "description": "",
+      "slug": "uv-is-the-best-thing-to-happen-to-the-python-ecosy",
+      "publishedAt": "2025-10-29T19:17:40+00:00",
+      "date": "2025-10-29 19:17:40",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-10-29/uv-is-the-best-thing-to-happen-to-the-python-ecosy/",
+      "source": {
+        "emoji": "📰",
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET",
+      "description": "The Galaxy phonemaker showed off a twin-hinged foldable at a Korean consumer tech show.",
+      "slug": "samsungs-wild-looking-tri-fold-phone-debuts-at-ape",
+      "publishedAt": "2025-10-29T19:00:00+00:00",
+      "date": "2025-10-29 19:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f4a03218d51059f985b15452fee91520c17c9aeb/hub/2025/01/06/7020b74d-f5f8-4f30-933b-58f9f4c38e35/samsung-display-demo-concept-flexible-oled-5292.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-10-29/samsungs-wild-looking-tri-fold-phone-debuts-at-ape/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -214,6 +322,24 @@
       "people": []
     },
     {
+      "title": "Galaxy Z ‘TriFold’ might still be thinner than most of Samsung’s foldables to date - 9to5Google",
+      "description": "Samsung has officially shown off the Galaxy Z TriFold for the first time and, in that initial showing, it appears...",
+      "slug": "galaxy-z-trifold-might-still-be-thinner-than-most-",
+      "publishedAt": "2025-10-29T15:55:00+00:00",
+      "date": "2025-10-29 15:55:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-fold-6-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/galaxy-z-trifold-might-still-be-thinner-than-most-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Android Auto prepares support for app widgets as latest updates roll out [Gallery] - 9to5Google",
       "description": "Google has some new Android Auto features in the pipeline, including support for app widgets on the dashboard as has...",
       "slug": "android-auto-prepares-support-for-app-widgets-as-l",
@@ -307,6 +433,24 @@
       "people": []
     },
     {
+      "title": "Nothing’s new bloatware includes Facebook services that can’t be uninstalled - 9to5Google",
+      "description": "Nothing’s first phone with third-party bloatware has arrived, with the new Nothing Phone (3a) Lite shipping out of the box...",
+      "slug": "nothings-new-bloatware-includes-facebook-services-",
+      "publishedAt": "2025-10-29T14:10:00+00:00",
+      "date": "2025-10-29 14:10:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nothing-phone-3a-lite-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/nothings-new-bloatware-includes-facebook-services-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Nothing Phone 3A Lite strips the Glyph Lights down to the bare minimum - The Verge",
       "description": "Nothing’s new Phone 3A Lite is a budget-friendly model destined for the UK and Europe, but its single notification LED won’t be launching in the US.",
       "slug": "nothing-phone-3a-lite-strips-the-glyph-lights-down",
@@ -325,13 +469,13 @@
       "people": []
     },
     {
-      "title": "Amazon představil dva nové reproduktory Echo – levnější model je lepší volbou",
-      "description": "Recenze nových chytrých reproduktorů Echo Dot Max za 100 dolarů a Echo Studio za 220 dolarů ukazuje, že levnější varianta nabízí lepší poměr ceny a výkonu.",
+      "title": "Amazon’s Two New Echo Speakers Present a Clear Winner — With or Without Alexa+ - Bloomberg.com",
+      "description": "Review: The $100 Echo Dot Max outshines the pricier Echo Studio.",
       "slug": "amazons-two-new-echo-speakers-present-a-clear-winn",
       "publishedAt": "2025-10-29T14:00:05+00:00",
       "date": "2025-10-29 14:00:05",
-      "importance": 3,
-      "category": "chytré reproduktory",
+      "importance": 4,
+      "category": "tech",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8n.ARMZmNY/v4/1200x800.jpg",
       "url": "/tech-news/2025-10-29/amazons-two-new-echo-speakers-present-a-clear-winn/",
       "source": {
@@ -339,10 +483,7 @@
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "companies": [
-        "Amazon",
-        "Bloomberg"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -387,36 +528,15 @@
       "people": []
     },
     {
-      "title": "OnePlus 15: Výkonnostní zaměření jako výmluva pro ústupky",
-      "description": "OnePlus představil model 15 s důrazem na herní výkon, ale oproti předchůdci přináší několik kontroverzních kompromisů, zejména v oblasti fotoaparátů.",
+      "title": "Sorry OnePlus, but I’m not buying your excuse for the OnePlus 15 downgrades - Android Authority",
+      "description": "OnePlus has just launched the OnePlus 15, but the company's marketing isn't fooling me when it comes to the phone's downgrades.",
       "slug": "sorry-oneplus-but-im-not-buying-your-excuse-for-th",
-      "publishedAt": "2025-10-29T12:58:07+00:00",
-      "date": "2025-10-29 12:58:07",
+      "publishedAt": "2025-10-29T12:33:30+00:00",
+      "date": "2025-10-29 12:33:30",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "tech",
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/oneplus-15-official-sand-color-hero.jpg",
       "url": "/tech-news/2025-10-29/sorry-oneplus-but-im-not-buying-your-excuse-for-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "OnePlus",
-        "Android Authority"
-      ],
-      "people": []
-    },
-    {
-      "title": "OnePlus 15 teardown confirms our worst fear: Major camera downgrades - Android Authority",
-      "description": "OnePlus 15 teardown reveals a larger battery, larger vapor chamber but surprising camera downgrades with all rear sensors being swapped out.",
-      "slug": "oneplus-15-teardown-confirms-our-worst-fear-major-",
-      "publishedAt": "2025-10-29T12:19:51+00:00",
-      "date": "2025-10-29 12:19:51",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/OnePlus-15-sand-dune-colorway-official-image.jpg",
-      "url": "/tech-news/2025-10-29/oneplus-15-teardown-confirms-our-worst-fear-major-/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -443,6 +563,24 @@
       "companies": [
         "Apple"
       ],
+      "people": []
+    },
+    {
+      "title": "OnePlus 15 teardown confirms our worst fear: Major camera downgrades - Android Authority",
+      "description": "OnePlus 15 teardown reveals a larger battery, larger vapor chamber but surprising camera downgrades with all rear sensors being swapped out.",
+      "slug": "oneplus-15-teardown-confirms-our-worst-fear-major-",
+      "publishedAt": "2025-10-29T11:47:52+00:00",
+      "date": "2025-10-29 11:47:52",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/OnePlus-15-sand-dune-colorway-official-image.jpg",
+      "url": "/tech-news/2025-10-29/oneplus-15-teardown-confirms-our-worst-fear-major-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -518,6 +656,24 @@
       "people": []
     },
     {
+      "title": "Android Auto wants to give apps a new place to live on your car's dashboard - Android Police",
+      "description": "It's all about giving you more control",
+      "slug": "android-auto-wants-to-give-apps-a-new-place-to-liv",
+      "publishedAt": "2025-10-29T07:43:00+00:00",
+      "date": "2025-10-29 07:43:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/top-down-view-of-a-car-with-the-android-auto-logo-google-assistant-messaging-icons-and-crossed-out-apple-carplay-symbols.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-10-29/android-auto-wants-to-give-apps-a-new-place-to-liv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Google tvrdí, že boční načítání aplikací nikam nezmizí, F-Droid to nazývá dezinformací",
       "description": "Alternativní obchod s aplikacemi F-Droid varuje, že Google uživatele zavádí, když tvrdí, že boční načítání aplikací na Androidu nikam nezmizí.",
       "slug": "google-says-sideloading-isnt-going-anywhere-f-droi",
@@ -574,24 +730,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET",
-      "description": "The Galaxy phonemaker showed off a twin-hinged foldable at a Korean consumer tech show.",
-      "slug": "samsungs-wild-looking-tri-fold-phone-debuts-at-ape",
-      "publishedAt": "2025-10-29T01:47:00+00:00",
-      "date": "2025-10-29 01:47:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/f4a03218d51059f985b15452fee91520c17c9aeb/hub/2025/01/06/7020b74d-f5f8-4f30-933b-58f9f4c38e35/samsung-display-demo-concept-flexible-oled-5292.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-29/samsungs-wild-looking-tri-fold-phone-debuts-at-ape/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3754,24 +3892,6 @@
       "people": []
     },
     {
-      "title": "Nejlepší notebooky podzimu 2025: Notebookcheck testoval 41 modelů",
-      "description": "Testovací portál Notebookcheck zveřejnil přehled nejlepších notebooků z posledních měsíců. Z 41 testovaných modelů vynikl Lenovo Yoga Pro 9i s tandem OLED displejem a Honor MagicBook Art 14 s parní komorou.",
-      "slug": "these-are-the-best-laptops-to-buy-in-fall-2025-41-",
-      "publishedAt": "2025-10-25T19:36:00+00:00",
-      "date": "2025-10-25 19:36:00",
-      "importance": 3,
-      "category": "notebooky",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Awards/bestoflaptops46.jpg",
-      "url": "/tech-news/2025-10-25/these-are-the-best-laptops-to-buy-in-fall-2025-41-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Who are AI browsers for? - TechCrunch",
       "description": "OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.",
       "slug": "who-are-ai-browsers-for-techcrunch",
@@ -3810,80 +3930,6 @@
       "people": []
     },
     {
-      "title": "iPhone Air údajně propadá, Apple výrazně omezuje výrobu",
-      "description": "Podle zpráv z dodavatelského řetězce Apple dramaticky snižuje výrobu nového ultra-tenkého iPhone Air kvůli slabé poptávce, kapacita dodavatelů klesá o více než 80 %.",
-      "slug": "top-stories-iphone-air-flops-new-liquid-glass-togg",
-      "publishedAt": "2025-10-25T13:00:00+00:00",
-      "date": "2025-10-25 13:00:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://images.macrumors.com/t/MUZN7MXkDCB43TWxnA5DHIeRApc=/1600x/article-new/2025/10/top-stories-2025-10-25.jpg",
-      "url": "/tech-news/2025-10-25/top-stories-iphone-air-flops-new-liquid-glass-togg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Scientists Invented an Entirely New Way to Refrigerate - ScienceAlert",
-      "description": "Say hello to ionocaloric cooling.",
-      "slug": "scientists-invented-an-entirely-new-way-to-refrige",
-      "publishedAt": "2025-10-25T12:17:41+00:00",
-      "date": "2025-10-25 12:17:41",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.sciencealert.com/images/2025/10/new_type_refrigeration_header.jpg",
-      "url": "/tech-news/2025-10-25/scientists-invented-an-entirely-new-way-to-refrige/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The glaring security risks with AI browser agents - TechCrunch",
-      "description": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
-      "slug": "the-glaring-security-risks-with-ai-browser-agents-",
-      "publishedAt": "2025-10-25T12:00:00+00:00",
-      "date": "2025-10-25 12:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1290478576.jpg?resize=1200,846",
-      "url": "/tech-news/2025-10-25/the-glaring-security-risks-with-ai-browser-agents-/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung and Google Told Me What Upcoming Smart Glasses Could Bring - CNET",
-      "description": "Mixed reality headsets, smart glasses and live AI. Google's head of Android and Samsung's COO for mobile experiences revealed what's coming next.",
-      "slug": "samsung-and-google-told-me-what-upcoming-smart-gla",
-      "publishedAt": "2025-10-25T12:00:00+00:00",
-      "date": "2025-10-25 12:00:00",
-      "importance": 2,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/50c5922a9d5e21a70ffdf86077399b10af61bbba/hub/2025/10/24/6fdf98b9-58e5-42b5-bced-6ddd20d7b25a/scott-samsung-xr-headset.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-25/samsung-and-google-told-me-what-upcoming-smart-gla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Windows 10 Deadline Boosts Mac Sales - MacRumors",
       "description": "The Windows 10 end-of-support deadline is driving the largest coordinated PC replacement cycle in years across the industry, and Apple is emerging as...",
       "slug": "windows-10-deadline-boosts-mac-sales-macrumors",
@@ -3897,60 +3943,6 @@
         "emoji": "📰",
         "id": null,
         "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One - WIRED",
-      "description": "In OpenAI’s new Atlas browser, the Ask ChatGPT sidebar is moderately helpful at best. Sometimes, it’s confusingly wrong.",
-      "slug": "openais-atlas-wants-to-be-the-webs-tour-guide-im-n",
-      "publishedAt": "2025-10-25T10:00:00+00:00",
-      "date": "2025-10-25 10:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://media.wired.com/photos/68fc1ab3582abcd215b5b4b2/191:100/w_1280,c_limit/gear_openai_atlas_browser%20_tour.jpg",
-      "url": "/tech-news/2025-10-25/openais-atlas-wants-to-be-the-webs-tour-guide-im-n/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price - Mashable",
-      "description": "Which mixed reality headset is for you?",
-      "slug": "samsung-galaxy-xr-vs-apple-vision-pro-comparing-sp",
-      "publishedAt": "2025-10-25T09:39:35+00:00",
-      "date": "2025-10-25 09:39:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04iNP22NOmiPvuhpwOkxE6c/hero-image.fill.size_1200x675.v1761336792.jpg",
-      "url": "/tech-news/2025-10-25/samsung-galaxy-xr-vs-apple-vision-pro-comparing-sp/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Outer Worlds 2 – DLSS 4 & Ray Tracing Benchmarks - DSOGaming",
-      "description": "Before publishing our PC Performance Analysis, I've decided to test The Oute Worlds 2's Ray Tracing and DLSS 4 on the NVIDIA RTX 5090.",
-      "slug": "the-outer-worlds-2-dlss-4-ray-tracing-benchmarks-d",
-      "publishedAt": "2025-10-25T00:09:54+00:00",
-      "date": "2025-10-25 00:09:54",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2025/10/The-Outer-Worlds-2-feature-3-scaled.jpg",
-      "url": "/tech-news/2025-10-25/the-outer-worlds-2-dlss-4-ray-tracing-benchmarks-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DSOGaming"
       },
       "companies": [],
       "people": []
