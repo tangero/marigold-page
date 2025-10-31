@@ -1,13 +1,14 @@
 ---
+author: Marisa Aigen
 category: tech
-date: '2025-10-29 01:47:00'
+date: '2025-10-29 19:00:00'
 description: The Galaxy phonemaker showed off a twin-hinged foldable at a Korean consumer
   tech show.
 importance: 3
 layout: tech_news_article
 original_title: Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South
   Korea - CNET
-publishedAt: '2025-10-29T01:47:00+00:00'
+publishedAt: '2025-10-29T19:00:00+00:00'
 slug: samsungs-wild-looking-tri-fold-phone-debuts-at-ape
 source:
   emoji: 📰

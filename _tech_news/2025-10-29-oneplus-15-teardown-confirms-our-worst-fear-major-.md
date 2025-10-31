@@ -1,14 +1,14 @@
 ---
 author: Marisa Aigen
 category: tech
-date: '2025-10-29 12:19:51'
+date: '2025-10-29 11:47:52'
 description: OnePlus 15 teardown reveals a larger battery, larger vapor chamber but
   surprising camera downgrades with all rear sensors being swapped out.
 importance: 5
 layout: tech_news_article
 original_title: 'OnePlus 15 teardown confirms our worst fear: Major camera downgrades
   - Android Authority'
-publishedAt: '2025-10-29T12:19:51+00:00'
+publishedAt: '2025-10-29T11:47:52+00:00'
 slug: oneplus-15-teardown-confirms-our-worst-fear-major-
 source:
   emoji: 📰
