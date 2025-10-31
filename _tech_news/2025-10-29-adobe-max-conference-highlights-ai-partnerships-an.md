@@ -6,8 +6,8 @@ companies:
 - UBS
 date: '2025-10-29 15:06:01'
 description: Výroční konference Adobe MAX v Los Angeles ukázala rostoucí roli společnosti
-  jako centrální platformy pro kreativní umělou inteligenci. Analytici upozorňují
-  na nové funkce i sníženou transparentnost reportování.
+  jako centrální platformy pro kreativní umělou inteligenci. Analytici hodnotí pozici
+  Adobe v oblasti generativní AI.
 importance: 3
 layout: tech_news_article
 original_title: Adobe MAX conference highlights AI partnerships and platform expansion
@@ -26,33 +26,31 @@ urlToImageBackup: https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finan
 
 ## Souhrn
 
-Výroční konference Adobe MAX v Los Angeles potvrdila pozici společnosti jako klíčové platformy pro kreativní umělou inteligenci. Analytici ze Stifel a UBS hodnotili tříhodinovou prezentaci, která byla dominována generativní AI, novými funkcemi napříč produktovým portfoliem a partnerstvími s předními poskytovateli AI modelů. Zároveň Adobe oznámil snížení transparentnosti finančního reportování.
+Výroční konference Adobe MAX v Los Angeles potvrdila strategii společnosti stát se centrální platformou pro kreativní umělou inteligenci. Analytici ze Stifel a UBS hodnotili tříhodinovou prezentaci, která byla zaměřena především na generativní AI a partnerství s předními poskytovateli modelů. Adobe zároveň oznámilo změny v reportování finančních metrik.
 
 ## Klíčové body
 
-- Adobe se etabluje jako "Creative OS" - centrální operační systém pro kreativní práci v nadcházejících letech
-- Generativní AI dominovala tříhodinové prezentaci, což je výrazně delší formát než obvykle
+- Adobe se pozicionuje jako "Creative OS" pro nadcházející roky s důrazem na generativní AI
 - Nové funkce zahrnují Firefly Video editor a integraci Express do ChatGPT
-- Adobe přestane po tomto čtvrtletí zveřejňovat ARR (Annual Recurring Revenue) na úrovni jednotlivých segmentů
-- AI nástroje zvyšují provozní náklady, což povede k poklesu hrubých marží o několik procentních bodů
+- Společnost ukončí zveřejňování ARR (Annual Recurring Revenue) na úrovni jednotlivých segmentů
+- Analytici Stifel potvrdili doporučení koupit s cílovou cenou 480 USD
+- UBS zachovává neutrální postoj s cílovou cenou 375 USD
 
 ## Podrobnosti
 
-Analytici ze Stifel udrželi doporučení koupit s cílovou cenou 480 dolarů za akcii. Zdůrazňují, že adopce generativní AI v kreativním průmyslu je výrazně dále než v jiných odvětvích. Adobe posiluje svou pozici prostřednictvím webových a mobilních aplikací a spolupráce s předními poskytovateli AI modelů. Firma věří, že pozice Adobe jako "kreativního systému evidence" pro firmy zůstane dlouhodobě udržitelná.
+Konference MAX trvala neobvykle dlouho - tři hodiny hlavní prezentace následované investorskou sekcí. Podle analytiků ze Stifel je adopce generativní AI v kreativním průmyslu výrazně dále než v jiných odvětvích. Adobe posiluje svou pozici prostřednictvím webových a mobilních aplikací a partnerství s předními poskytovateli AI modelů.
 
-UBS zachovala neutrální hodnocení s cílovou cenou 375 dolarů. Banka upozornila na sníženou transparentnost - Adobe přestane po tomto čtvrtletí reportovat ARR na úrovni jednotlivých segmentů a bude zveřejňovat pouze celkové ARR. Ačkoliv jakákoliv ztráta transparentnosti je negativní, UBS poznamenává, že ne všichni velcí SaaS poskytovatelé reportují ARR nebo příjmy na úrovni segmentů.
+Mezi konkrétní novinky patří rozšíření video editoru Firefly, který využívá generativní AI, a integrace Adobe Express přímo do ChatGPT. Tato integrace umožňuje uživatelům ChatGPT přístup k nástrojům Adobe přímo v konverzačním rozhraní.
 
-Důležitým zjištěním je, že AI funkce přinášejí vyšší provozní náklady (COGS - Cost of Goods Sold), což povede k postupnému poklesu hrubých marží. Adobe však plánuje tento dopad kompenzovat kontrolou nákladů a zvýšením efektivity. UBS zaznamenala pozitivní zpětnou vazbu od uživatelů, kteří AI nástroje aktivně využívají, nicméně příjmy z AI jsou stále v rané fázi.
+Zásadní změnou je rozhodnutí Adobe přestat zveřejňovat ARR metriky na úrovni jednotlivých segmentů. Od příštího čtvrtletí bude společnost reportovat pouze celkové ARR. UBS poznamenává, že ne všichni velcí SaaS poskytovatelé reportují ARR nebo příjmy na segmentové úrovni, takže tento krok není zcela neobvyklý.
 
-Firefly Video editor rozšiřuje možnosti generativní AI do oblasti video editace, zatímco integrace Express do ChatGPT otevírá Adobe nástroje širšímu publiku přímo v konverzačním rozhraní.
+Analytici UBS upozorňují, že AI workloady s sebou nesou vyšší náklady (COGS) a hrubé marže budují časem klesat "o několik procentních bodů". Tento pokles by měl být kompenzován kontrolou nákladů a zvýšením efektivity. Zpětná vazba od uživatelů potvrzuje aktivní využívání AI nástrojů, nicméně příjmový dopad AI je stále v rané fázi.
 
 ## Proč je to důležité
 
-Adobe MAX ukazuje, jak se tradiční softwarové společnosti transformují v éře generativní AI. Adobe se snaží udržet dominantní pozici v kreativním průmyslu tím, že integruje AI napříč celým portfoliem a otevírá se partnerstvím s externími poskytovateli modelů. To je odlišný přístup od uzavřených ekosystémů některých konkurentů.
+Adobe se snaží etablovat jako dominantní platforma pro kreativní práci s AI, což je strategicky důležitá pozice v době, kdy generativní AI transformuje kreativní průmysl. Partnerství s poskytovateli AI modelů a integrace do ChatGPT ukazují snahu o maximální dostupnost nástrojů.
 
-Snížení transparentnosti reportování může znepokojovat investory, kteří chtějí sledovat výkonnost jednotlivých produktových linií. Zároveň přiznání, že AI funkce snižují marže, ukazuje reálné ekonomické dopady integrace generativní AI do komerčních produktů - technologie je nákladná na provoz a monetizace zatím není plně vyřešena.
-
-Pro kreativní profesionály znamená pokračující integrace AI do Adobe nástrojů zásadní změnu pracovních postupů. Otázkou zůstává, zda Adobe dokáže vyvážit inovace s udržitelným obchodním modelem a zda uživatelé budou ochotni platit za AI funkce dostatečně na to, aby kompenzovaly vyšší provozní náklady.
+Snížená transparentnost ve finančním reportingu může být pro investory negativním signálem, i když jde o běžnou praxi v odvětví. Rozdílné hodnocení analytiků (Stifel s cílovou cenou 480 USD versus UBS s 375 USD) odráží nejistotu ohledně schopnosti Adobe monetizovat AI funkce v krátkodobém horizontu. Klíčovou otázkou zůstává, zda uživatelé budou ochotni platit za AI funkce dostatečně na to, aby kompenzovali vyšší provozní náklady.
 
 ---
 

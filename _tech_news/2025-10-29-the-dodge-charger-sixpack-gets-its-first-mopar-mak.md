@@ -1,8 +1,8 @@
 ---
 category: automobilový průmysl
 date: '2025-10-29 11:00:44'
-description: Dodge představil na veletrhu SEMA upravený Charger Sixpack s fialovým
-  lakem a vizuálními vylepšeními od divize Mopar.
+description: Dodge představil na veletrhu SEMA upravený Charger Sixpack s fialovou
+  metalízou a vizuálními i výkonnostními vylepšeními od divize Mopar.
 importance: 1
 layout: tech_news_article
 original_title: The Dodge Charger Sixpack Gets Its First Mopar Makeover - Motor1.com
@@ -18,11 +18,9 @@ urlToImage: https://cdn.motor1.com/images/mgl/mMg8M4/s1/moparized-dodge-charger-
 urlToImageBackup: https://cdn.motor1.com/images/mgl/mMg8M4/s1/moparized-dodge-charger-sixpack-concept-sema.jpg
 ---
 
-Dodge představil na veletrhu SEMA 2024 koncept Moparized Charger Sixpack s kosmetickými úpravami od své výkonnostní divize Mopar. Jedná se o verzi s benzínovým šestiválcovým motorem, která má sloužit jako alternativa k elektrickému Chargeru.
+Dodge představil na veletrhu SEMA 2024 koncept Moparized Charger Sixpack s řadou úprav od vlastní výkonnostní divize Mopar. Vůz dostal fialový lak Stryker Purple, karbonové doplňky na kapotě, předním splitteru a zadním spoileru, 21palcová kola v barvě Brass Monkey a oranžová brzdová třmena Brembo. Interiér kombinuje kůži Katzkin v černé a béžové barvě s oranžovým a fialovým prošíváním.
 
-Vůz dostal fialový lak Stryker Purple doplněný karbonovými prvky na kapotě, předním spliteru a zadním spoileru. Koncept je osazen 21palcovými koly v barvě Brass Monkey a oranžovými brzdovými třmeny Brembo. Interiér kombinuje kůži Katzkin v černé a béžové barvě s oranžovým a fialovým prošíváním.
-
-Z hlediska výkonu zůstává vůz prakticky beze změny - přeplňovaný třílitrový řadový šestiválec stále produkuje 550 koní a 531 lb-ft točivého momentu. Mopar přidal pouze sání studeného vzduchu a nerezový výfukový systém. Jedná se tedy primárně o vizuální koncept pro veletrh, nikoli o skutečné výkonnostní vylepšení.
+Z hlediska výkonu zůstává koncept prakticky beze změny – přeplňovaný třílitrový řadový šestiválec stále produkuje 550 koní a 531 lb-ft točivého momentu. Mopar přidal pouze sání studeného vzduchu a nerezový výfukový systém cat-back. Jde o ukázku možností přizpůsobení benzinové verze Chargeru, která má oslovit fanoušky nespokojené s elektrickou verzí modelu.
 
 ---
 
