@@ -8,13 +8,11 @@ categories:
 layout: post
 post_excerpt: Google rozšířil NotebookLM o osminásobný kontext a vylepšenou paměť. A také umožňuje lépe dosahovat vašich cílů přizpůsobením chatu. Nově s vámi může chat komunikovat jako s doktorandem nebo třeba jako marketingový stratég, stačí si říct. 
 summary_points:
-- Google NotebookLM nově podporuje tvorbu vlastních "osobností" (Custom Personas) pro personalizované chování asistenta.
-- Kontextové okno bylo rozšířeno na 5 milionů tokenů, takže lze pracovat s tisíci stranami textu současně.
+- Google NotebookLM nově podporuje tvorbu vlastních cílů pro personalizované chování asistenta.
+- Kontextové okno bylo rozšířeno na 1 milionů tokenů, takže lze pracovat s tisíci stranami textu současně.
 - Nově si systém pamatuje celou historii chatu v rámci jednoho poznámkového bloku, takže lze plynule navazovat na dřívější konverzace.
-- Audio souhrny jsou nyní dostupné ve 33 jazycích včetně češtiny.
-- Podle interních měření došlo ke zvýšení relevance odpovědí o 35 % díky lepší paměti a většímu kontextu.
 - Služba zůstává zdarma pro individuální uživatele, podnikové nasazení zatím není dostupné.
-title: Google NotebookLM získal vlastní osobnosti a osminásobný kontext
+title: Google NotebookLM umožňuje přizpůsobit chat vlastním cílům a využít osminásobný kontext
 thumbnail: https://www.marigold.cz/assets/notebooklm-chat.webp
 ---
 
