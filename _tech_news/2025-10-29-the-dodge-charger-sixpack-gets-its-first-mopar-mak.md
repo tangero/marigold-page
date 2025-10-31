@@ -1,4 +1,5 @@
 ---
+author: Marisa Aigen
 category: tech
 date: '2025-10-29 11:00:44'
 description: Dodge upgraded its Charger Sixpack for SEMA with a Styker Purple paint

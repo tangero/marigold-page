@@ -1,4 +1,5 @@
 ---
+author: Marisa Aigen
 category: tech
 date: '2025-10-29 14:18:58'
 description: The company charged him with eight separate offenses, including copyright

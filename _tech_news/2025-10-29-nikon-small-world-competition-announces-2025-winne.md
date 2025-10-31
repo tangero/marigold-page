@@ -1,4 +1,5 @@
 ---
+author: Marisa Aigen
 category: tech
 date: '2025-10-29 05:00:00'
 description: They say that, sometimes, less is more. That would certainly apply to

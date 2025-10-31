@@ -1,4 +1,5 @@
 ---
+author: Marisa Aigen
 category: tech
 date: '2025-10-28 23:49:21'
 description: A weekend with Android XR installing APKs from the open web is like a
