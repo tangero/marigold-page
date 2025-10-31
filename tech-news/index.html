@@ -1,18 +1,956 @@
-<h1 id="technologické-zprávy">Technologické zprávy</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Technologické zprávy | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Technologické zprávy" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Nejnovější zprávy ze světa technologií, překládané do češtiny a vyhodnocené podle důležitosti" />
+<meta property="og:description" content="Nejnovější zprávy ze světa technologií, překládané do češtiny a vyhodnocené podle důležitosti" />
+<link rel="canonical" href="https://www.marigold.cz/tech-news/" />
+<meta property="og:url" content="https://www.marigold.cz/tech-news/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Technologické zprávy" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Nejnovější zprávy ze světa technologií, překládané do češtiny a vyhodnocené podle důležitosti","headline":"Technologické zprávy","url":"https://www.marigold.cz/tech-news/"}</script>
+<!-- End Jekyll SEO tag -->
 
-<p>Automaticky aktualizované zprávy ze světa technologií z NewsAPI, přeložené do češtiny.</p>
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
 
-<p><strong>Celkem článků:</strong> 13
-<strong>Poslední aktualizace:</strong> 31.10.2025 18:11 UTC</p>
+    
+    <meta property="og:description" content="Nejnovější zprávy ze světa technologií, překládané do češtiny a vyhodnocené podle důležitosti" />
+    
+    <meta name="author" content="Marigold.cz" />
 
-<h2 id="zdroje">Zdroje</h2>
+    
+    <meta property="og:title" content="Technologické zprávy" />
+    <meta property="twitter:title" content="Technologické zprávy" />
+    
 
-<p>Články jsou získávány z NewsAPI Technology kategorie, včetně zdrojů jako:</p>
-<ul>
-  <li>📰 <strong>Associated Press</strong> - zpravodajství</li>
-  <li>🚀 <strong>TechCrunch</strong> - startupy a technologie</li>
-  <li>💹 <strong>Bloomberg</strong> - business a finance</li>
-  <li>💼 <strong>Forbes</strong> - podnikání a investice</li>
-  <li>📡 <strong>Axios</strong> - technologie a politika</li>
-  <li>🤖 <strong>OpenAI</strong> - AI průlomy</li>
-</ul>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz${article.urlToImage}"/>
+<meta property="twitter:image" content="https://www.marigold.cz${article.urlToImage}"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <div class="tech-news-container">
+  <header class="tech-news-header">
+    <h1 align="center">Technologické zprávy</h1>
+    <p class="tech-news-description">Nejnovější zprávy ze světa technologií, překládané do češtiny a vyhodnocené podle důležitosti</p>
+  </header>
+
+  <!-- Filtry -->
+  <div class="tech-news-filters">
+    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
+
+    <div class="filter-separator">Důležitost:</div>
+    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
+    <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
+  </div>
+
+  <!-- Loading stav -->
+  <div id="loading-state" class="tech-news-loading">
+    <p>🔄 Načítám zprávy...</p>
+  </div>
+
+  <!-- Error stav -->
+  <div id="error-state" class="tech-news-error" style="display: none;">
+    <p>❌ Chyba při načítání zpráv. Zkuste to prosím později.</p>
+  </div>
+
+  <!-- Navigace dnů -->
+  <div id="date-navigation" class="date-navigation" style="display: none;">
+    <div class="date-selector">
+      <div class="current-date">
+        <span class="current-date-display">18 nejnovějších článků</span>
+      </div>
+    </div>
+
+    <div class="date-info">
+      <span id="articles-count" class="articles-count">0 článků</span>
+    </div>
+  </div>
+
+  <!-- Grid článků -->
+  <div id="tech-news-grid" class="tech-news-grid">
+    <!-- Články se načtou přes JavaScript -->
+  </div>
+</div>
+
+<script>
+// Globální proměnné
+let allArticles = [];
+let filteredArticles = [];
+
+// Načíst manifest při načtení stránky
+async function loadTechNews() {
+  try {
+    const response = await fetch('/tech-news/manifest.json');
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    console.log(`📰 Načteno ${data.articles.length} článků z manifestu`);
+
+    allArticles = data.articles;
+
+    // Vzít jen prvních 18 nejnovějších
+    filteredArticles = allArticles.slice(0, 18);
+
+    // Zobrazit články
+    renderArticles(filteredArticles);
+
+    // Skrýt loading, zobrazit navigaci
+    document.getElementById('loading-state').style.display = 'none';
+    document.getElementById('date-navigation').style.display = 'block';
+
+    // Aktualizovat počítadlo
+    document.getElementById('articles-count').textContent = `${filteredArticles.length} článků`;
+
+    // Inicializovat filtry
+    initializeFilters();
+
+  } catch (error) {
+    console.error('Chyba při načítání tech-news:', error);
+    document.getElementById('loading-state').style.display = 'none';
+    document.getElementById('error-state').style.display = 'block';
+  }
+}
+
+// Vykreslit články
+function renderArticles(articles) {
+  const grid = document.getElementById('tech-news-grid');
+
+  if (articles.length === 0) {
+    grid.innerHTML = '<div class="tech-news-empty"><p>📭 Žádné články k zobrazení</p></div>';
+    return;
+  }
+
+  grid.innerHTML = articles.map(article => `
+    <article class="tech-news-card" data-category="${article.category || 'technology'}" data-importance="${article.importance || 3}">
+      <div class="tech-news-meta">
+        <span class="tech-news-emoji">${article.source?.emoji || '📰'}</span>
+        <div class="tech-news-info">
+          <span class="tech-news-source">${article.source?.name || 'Tech News'}</span>
+          <time class="tech-news-date" datetime="${article.publishedAt}">
+            ${formatDate(article.publishedAt)}
+          </time>
+        </div>
+        <div class="importance-indicator importance-${article.importance || 3}">
+          ${generateStars(article.importance || 3)}
+        </div>
+      </div>
+
+      ${article.urlToImage ? `
+        <div class="tech-news-image">
+          <img src="${article.urlToImage}"
+               alt="${escapeHtml(article.title)}"
+               loading="lazy"
+               decoding="async"
+               onerror="handleImageError(this, '${article.category || 'technology'}')">
+        </div>
+      ` : ''}
+
+      <div class="tech-news-content">
+        <h2 class="tech-news-title">
+          <a href="${article.url}">${escapeHtml(article.title)}</a>
+        </h2>
+
+        <p class="tech-news-description">${escapeHtml(article.description || '')}</p>
+
+        <div class="tech-news-actions">
+          <a href="${article.url}" class="tech-news-link">
+            Číst článek
+            <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+          </a>
+          <span class="tech-news-category">${article.category || 'technology'}</span>
+        </div>
+
+        ${(article.companies?.length > 0 || article.people?.length > 0) ? `
+          <div class="tech-news-entities">
+            ${article.companies?.length > 0 ? `
+              <div class="tech-news-companies">
+                <span class="entity-label">🏢</span>
+                ${article.companies.map(company =>
+                  `<span class="entity-tag company-tag">${escapeHtml(company)}</span>`
+                ).join('')}
+              </div>
+            ` : ''}
+
+            ${article.people?.length > 0 ? `
+              <div class="tech-news-people">
+                <span class="entity-label">👤</span>
+                ${article.people.map(person =>
+                  `<span class="entity-tag person-tag">${escapeHtml(person)}</span>`
+                ).join('')}
+              </div>
+            ` : ''}
+          </div>
+        ` : ''}
+      </div>
+    </article>
+  `).join('');
+
+  // Inicializovat tracking
+  if (typeof initTechNewsTracking === 'function') {
+    initTechNewsTracking();
+  }
+
+  // Převést časy na lokální
+  convertTimesToLocal();
+}
+
+// Utility funkce
+function formatDate(dateString) {
+  if (!dateString) return '';
+
+  const date = new Date(dateString);
+  const day = String(date.getDate()).padStart(2, '0');
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const year = date.getFullYear();
+  const hours = String(date.getHours()).padStart(2, '0');
+  const minutes = String(date.getMinutes()).padStart(2, '0');
+
+  return `${day}.${month}.${year} ${hours}:${minutes}`;
+}
+
+function generateStars(importance) {
+  let html = '';
+  for (let i = 1; i <= 5; i++) {
+    if (i <= importance) {
+      html += '<span class="star filled">★</span>';
+    } else {
+      html += '<span class="star">☆</span>';
+    }
+  }
+  return html;
+}
+
+function escapeHtml(text) {
+  if (!text) return '';
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function handleImageError(imgElement, category) {
+  const emojiMap = {
+    'ai': '🤖', 'mobile': '📱', 'security': '🔒', 'gaming': '🎮',
+    'hardware': '⚙️', 'software': '💻', 'science': '🔬', 'default': '📰'
+  };
+
+  const emoji = emojiMap[category] || emojiMap['default'];
+
+  imgElement.parentElement.innerHTML = `
+    <div class="emoji-placeholder" style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+      font-size: 3.5rem;
+      color: #cbd5e0;
+    ">
+      ${emoji}
+    </div>
+  `;
+}
+
+function convertTimesToLocal() {
+  const timeElements = document.querySelectorAll('.tech-news-date[datetime]');
+
+  timeElements.forEach(timeEl => {
+    const utcTime = timeEl.getAttribute('datetime');
+    if (!utcTime) return;
+
+    try {
+      const date = new Date(utcTime);
+      const options = {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'Europe/Prague',
+        timeZoneName: 'short'
+      };
+
+      timeEl.textContent = new Intl.DateTimeFormat('cs-CZ', options).format(date);
+    } catch (e) {
+      console.warn('Chyba převodu času:', utcTime, e);
+    }
+  });
+}
+
+// Inicializovat filtry
+function initializeFilters() {
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const newsCards = document.querySelectorAll('.tech-news-card');
+
+  // Aktualizovat počty
+  updateFilterCounts(filterBtns, newsCards);
+
+  // Event listenery
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterArticles(btn, filterBtns, newsCards);
+    });
+  });
+}
+
+function updateFilterCounts(buttons, cards) {
+  buttons.forEach(btn => {
+    if (btn.dataset.filter === 'all') {
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${cards.length})`;
+      return;
+    }
+
+    const count = Array.from(cards).filter(card =>
+      card.dataset.importance === btn.dataset.filter
+    ).length;
+
+    btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+    btn.style.display = count > 0 ? 'inline-block' : 'none';
+  });
+}
+
+function filterArticles(activeBtn, allBtns, cards) {
+  allBtns.forEach(b => b.classList.remove('active'));
+  activeBtn.classList.add('active');
+
+  const filter = activeBtn.dataset.filter;
+  const type = activeBtn.dataset.type;
+
+  cards.forEach(card => {
+    const show = filter === 'all' || card.dataset[type] === filter;
+    card.style.display = show ? 'block' : 'none';
+  });
+}
+
+// Tracking funkce (z původního layoutu)
+function initTechNewsTracking() {
+  if (typeof clicky === 'undefined' || !window.clicky) {
+    return;
+  }
+
+  document.querySelectorAll('.tech-news-title a').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      const card = this.closest('.tech-news-card');
+      const category = card?.dataset.category || 'tech';
+      const importance = card?.dataset.importance || '3';
+
+      clicky.log(
+        '#tech-news-click/' + category + '/' + importance,
+        'Tech News: ' + this.textContent.trim().substring(0, 60),
+        'click'
+      );
+    });
+  });
+}
+
+// Načíst data při načtení stránky
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', loadTechNews);
+} else {
+  loadTechNews();
+}
+</script>
+
+<style>
+/* Převzat ze stávajícího tech_news_index.html layoutu */
+
+.tech-news-loading,
+.tech-news-error {
+  text-align: center;
+  padding: 3rem;
+  color: #718096;
+  background: #f7fafc;
+  border-radius: 12px;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.tech-news-error {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+.date-navigation {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date-selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.current-date {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  min-width: 200px;
+  justify-content: center;
+}
+
+.current-date-display {
+  font-weight: 600;
+  color: #2d3748;
+  font-size: 1.1rem;
+}
+
+.date-info {
+  text-align: center;
+  color: #718096;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.articles-count {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-weight: 600;
+}
+
+.tech-news-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 2rem 2rem;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.tech-news-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tech-news-header h1 {
+  color: #2d3748;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.tech-news-description {
+  color: #718096;
+  font-size: 1.1rem;
+}
+
+.tech-news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem 2rem;
+  background: #f7fafc;
+  border-radius: 12px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e2e8f0;
+  border-radius: 25px;
+  background: white;
+  color: #4a5568;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.filter-btn:hover {
+  border-color: #3182ce;
+  background: #ebf8ff;
+  transform: translateY(-1px);
+}
+
+.filter-btn.active {
+  background: #3182ce;
+  border-color: #3182ce;
+  color: white;
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+}
+
+.filter-separator {
+  font-weight: 600;
+  color: #4a5568;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.9rem;
+  flex-basis: 100%;
+  text-align: left;
+}
+
+.tech-news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tech-news-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: 1px solid #e2e8f0;
+}
+
+.tech-news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  border-color: #3182ce;
+}
+
+.tech-news-meta {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem 1rem 0.5rem;
+  position: relative;
+}
+
+.tech-news-emoji {
+  font-size: 1.25rem;
+}
+
+.tech-news-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.tech-news-source {
+  font-weight: 600;
+  color: #3182ce;
+  font-size: 0.9rem;
+}
+
+.tech-news-date {
+  color: #718096;
+  font-size: 0.8rem;
+}
+
+.importance-indicator {
+  display: flex;
+  gap: 2px;
+  margin-left: auto;
+}
+
+.importance-indicator .star {
+  color: #fbbf24;
+  font-size: 1.2rem;
+}
+
+.importance-indicator .star:not(.filled) {
+  color: #d1d5db;
+}
+
+.tech-news-card[data-importance="5"] {
+  border-left: 4px solid #dc2626;
+}
+
+.tech-news-card[data-importance="4"] {
+  border-left: 4px solid #ea580c;
+}
+
+.tech-news-card[data-importance="3"] {
+  border-left: 4px solid #2563eb;
+}
+
+.tech-news-image {
+  height: 200px;
+  overflow: hidden;
+  margin: 0.5rem 1rem;
+  border-radius: 8px;
+  background: #f7fafc;
+}
+
+.tech-news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.tech-news-card:hover .tech-news-image img {
+  transform: scale(1.05);
+}
+
+.tech-news-content {
+  padding: 1rem 1rem 1.5rem;
+}
+
+.tech-news-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.tech-news-title a {
+  color: #2d3748;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.tech-news-title a:hover {
+  color: #3182ce;
+}
+
+.tech-news-card .tech-news-description {
+  color: #718096;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.tech-news-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-news-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.tech-news-link:hover {
+  color: #2c5282;
+}
+
+.external-icon {
+  flex-shrink: 0;
+}
+
+.tech-news-category {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.tech-news-entities {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.tech-news-companies,
+.tech-news-people {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.entity-label {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.entity-tag {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.company-tag {
+  background: #f0f9ff;
+  color: #0c4a6e;
+  border: 1px solid #bae6fd;
+}
+
+.person-tag {
+  background: #fef7ed;
+  color: #9a3412;
+  border: 1px solid #fed7aa;
+}
+
+@media (max-width: 1200px) {
+  .tech-news-grid {
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .tech-news-container {
+    padding: 1rem 0.5rem;
+  }
+
+  .tech-news-grid {
+    grid-template-columns: 1fr;
+    padding: 0 1rem;
+  }
+
+  .tech-news-header h1 {
+    font-size: 2rem;
+  }
+}
+</style>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
