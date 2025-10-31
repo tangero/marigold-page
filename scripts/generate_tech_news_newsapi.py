@@ -381,6 +381,10 @@ DŮLEŽITÉ:
             'source': article['source']
         }
 
+        # Přidat autora pro důležité články (delší rozšířené verze)
+        if importance >= 3:
+            front_matter['author'] = 'Marisa Aigen'
+
         # Přidat firmy a osobnosti pouze pokud existují
         if companies:
             front_matter['companies'] = companies
