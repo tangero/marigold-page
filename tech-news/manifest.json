@@ -1,7 +1,133 @@
 {
-  "generated": "2025-10-31T18:12:09.128643+00:00",
+  "generated": "2025-10-31T20:15:52.682075+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
+      "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's how it works.",
+      "slug": "openai-unveils-aardvark-a-gpt-5-powered-agent-for-",
+      "publishedAt": "2025-10-30T18:00:00+00:00",
+      "date": "2025-10-30 18:00:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/285b3135bc42402adf30867f110e2826c7d72cd5/2025/10/30/5b7f80f4-48e6-4662-9aa5-2845fda8dc18/aardvark-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-10-30/openai-unveils-aardvark-a-gpt-5-powered-agent-for-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google study finds Android avoids 58% more spam and scam texts compared to iOS - 9to5Google",
+      "description": "As part of Cybersecurity Awareness Month, Google partnered with YouGov to commission a survey of over 5,000 smartphone users throughout...",
+      "slug": "google-study-finds-android-avoids-58-more-spam-and",
+      "publishedAt": "2025-10-30T18:00:00+00:00",
+      "date": "2025-10-30 18:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Banner-1-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/google-study-finds-android-avoids-58-more-spam-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica",
+      "description": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival.",
+      "slug": "disney-gets-hdr10-via-over-1000-hulu-titles-ars-te",
+      "publishedAt": "2025-10-30T17:28:38+00:00",
+      "date": "2025-10-30 17:28:38",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg",
+      "url": "/tech-news/2025-10-30/disney-gets-hdr10-via-over-1000-hulu-titles-ars-te/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
+      "description": "Amazon appears to have canceled its Lord of the Rings MMO that it was developing with Embracer. It was the company’s second run at an LOTR MMO.",
+      "slug": "amazon-has-reportedly-canceled-its-lotr-mmo-the-ve",
+      "publishedAt": "2025-10-30T17:19:38+00:00",
+      "date": "2025-10-30 17:19:38",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/90.jpeg?quality=90&strip=all&crop=0,8.2843009449451,100,83.43139811011",
+      "url": "/tech-news/2025-10-30/amazon-has-reportedly-canceled-its-lotr-mmo-the-ve/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls - The Verge",
+      "description": "DJI’s new Neo 2 drone for China is upgraded with a bigger battery, obstacle avoidance, gesture controls, and a small display showing you what mode it’s in.",
+      "slug": "djis-neo-2-selfie-drone-adds-obstacle-avoidance-an",
+      "publishedAt": "2025-10-30T16:35:01+00:00",
+      "date": "2025-10-30 16:35:01",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/dji_neo2_4.jpg?quality=90&strip=all&crop=0,10.713061910796,100,78.573876178409",
+      "url": "/tech-news/2025-10-30/djis-neo-2-selfie-drone-adds-obstacle-avoidance-an/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
+      "description": "The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.",
+      "slug": "someone-snuck-into-a-cellebrite-microsoft-teams-ca",
+      "publishedAt": "2025-10-30T15:15:30+00:00",
+      "date": "2025-10-30 15:15:30",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/10/cellebrite-youtube.png",
+      "url": "/tech-news/2025-10-30/someone-snuck-into-a-cellebrite-microsoft-teams-ca/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "404media.co"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "YouTube will upgrade video and thumbnail file size limits ‘soon’ - 9to5Google",
+      "description": "YouTube is preparing to support higher-quality content, including larger video upload sizes and higher file size limits for thumbnails. Alongside...",
+      "slug": "youtube-will-upgrade-video-and-thumbnail-file-size",
+      "publishedAt": "2025-10-30T12:30:00+00:00",
+      "date": "2025-10-30 12:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/youtube-will-upgrade-video-and-thumbnail-file-size/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "OpenAI adds reusable ‘characters’ and video stitching to Sora - The Verge",
       "description": "OpenAI’s Sora app will now let you turn almost anything into a reusable avatar for its AI-generated videos.",
@@ -3016,26 +3142,6 @@
       "people": []
     },
     {
-      "title": "4 widgety pro MacBook, které by měl používat každý",
-      "description": "Přehled čtyř užitečných widgetů pro macOS, které zvyšují produktivitu: Drafts pro rychlé poznámky, Orbit, Batteries a Shortcuts.",
-      "slug": "A-4-macbook-widgets-everyone-should-be-using-bgrco",
-      "publishedAt": "2025-10-26T21:17:00+00:00",
-      "date": "2025-10-26 21:17:00",
-      "importance": 3,
-      "category": "produktivita mac",
-      "urlToImage": "https://www.bgr.com/img/gallery/4-macbook-widgets-everyone-should-be-using/l-intro-1760877934.jpg",
-      "url": "/tech-news/2025-10-26/A-4-macbook-widgets-everyone-should-be-using-bgrco/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Jak aktivovat všechny nové funkce ve Windows 11 verze 25H2 a 24H2",
       "description": "Microsoft nedávno vydal řadu nových funkcí pro Windows 11 verze 25H2 a 24H2. Přestože se zavádějí postupně, lze je aktivovat okamžitě pomocí speciálního nástroje.",
       "slug": "how-to-enable-all-new-features-in-windows-11-versi",
@@ -3053,24 +3159,6 @@
       "companies": [
         "Microsoft"
       ],
-      "people": []
-    },
-    {
-      "title": "21 produktů, které byly oslavovány jako \"další velká věc\", ale pak upadly v zapomnění - BuzzFeed",
-      "description": "3D televize byly marketovány všude, ale neznal jsem jediného člověka, který by jednu vlastnil.",
-      "slug": "A-21-products-that-were-hailed-as-the-next-big-thi",
-      "publishedAt": "2025-10-26T20:31:02+00:00",
-      "date": "2025-10-26 20:31:02",
-      "importance": 3,
-      "category": "neúspěšné produkty",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/16/22/thumb/k_ryNf1aL.jpg?crop=1250:655;0,139%26downsize=1250:*",
-      "url": "/tech-news/2025-10-26/A-21-products-that-were-hailed-as-the-next-big-thi/",
-      "source": {
-        "emoji": "📰",
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3272,27 +3360,6 @@
       "companies": [
         "Apple",
         "Temu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Adobe Project Indigo konečně podporuje iPhone 17, ale bez přední kamery",
-      "description": "Adobe zprovoznilo svou fotografickou aplikaci Project Indigo na iPhone 17 tím, že dočasně vypnulo podporu čtvercového senzoru přední kamery.",
-      "slug": "adobes-project-indigo-camera-finally-adds-iphone-1",
-      "publishedAt": "2025-10-26T15:17:22+00:00",
-      "date": "2025-10-26 15:17:22",
-      "importance": 3,
-      "category": "mobilní fotografie",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0%2C10.277834479943%2C100%2C79.444331040114&w=1200",
-      "url": "/tech-news/2025-10-26/adobes-project-indigo-camera-finally-adds-iphone-1/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Adobe",
-        "Apple"
       ],
       "people": []
     },
@@ -3590,24 +3657,6 @@
       "people": []
     },
     {
-      "title": "11 zajímavých gadgetů uplynulého týdne",
-      "description": "Přehled nejzajímavějších produktových novinek z oblasti spotřební elektroniky a audio techniky za poslední týden.",
-      "slug": "A-11-cool-new-gadgets-to-keep-on-your-radar-gear-p",
-      "publishedAt": "2025-10-26T12:00:00+00:00",
-      "date": "2025-10-26 12:00:00",
-      "importance": 3,
-      "category": "gadgety",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/KEF-Coda-W-speaker-lead.webp",
-      "url": "/tech-news/2025-10-26/A-11-cool-new-gadgets-to-keep-on-your-radar-gear-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gear Patrol"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč jsem na Androidu přešel z Chrome na Vivaldi a už se nevrátím",
       "description": "Vivaldi nabízí na Androidu pokročilé možnosti přizpůsobení a funkce, které Chrome postrádá. Autor článku vysvětluje, proč tento prohlížeč upřednostňuje před konkurencí.",
       "slug": "i-swapped-chrome-for-vivaldi-on-android-and-now-i-",
@@ -3625,24 +3674,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "7 nenápadných zařízení pro zvýšení domácí bezpečnosti",
-      "description": "Přehled malých a diskrétních bezpečnostních zařízení, která lze snadno integrovat do domácnosti bez nápadných instalací.",
-      "slug": "A-7-discrete-gadgets-to-boost-your-home-security-b",
-      "publishedAt": "2025-10-26T11:44:53+00:00",
-      "date": "2025-10-26 11:44:53",
-      "importance": 3,
-      "category": "domácí zabezpečení",
-      "urlToImage": "https://www.cnet.com/a/img/resize/85258d38e6778c63f1af8fe7b79fcdacb474e7d2/hub/2025/09/19/20d3e6d7-405a-47f0-a1f2-0106221a3035/level-lock-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-26/A-7-discrete-gadgets-to-boost-your-home-security-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3743,29 +3774,6 @@
       "people": []
     },
     {
-      "title": "4 levnější androidové tablety jako alternativa k iPadu v roce 2025",
-      "description": "Přehled cenově dostupných androidových tabletů, které mohou nahradit iPad. Zahrnuje modely Fire Max 11, Galaxy Tab A9+ a Lenovo Idea Tab Plus.",
-      "slug": "A-4-cheaper-android-tablet-alternatives-to-the-ipa",
-      "publishedAt": "2025-10-26T10:17:00+00:00",
-      "date": "2025-10-26 10:17:00",
-      "importance": 3,
-      "category": "tablety",
-      "urlToImage": "https://www.bgr.com/img/gallery/4-cheaper-android-tablet-alternatives-to-the-ipad-in-2025/l-intro-1760871717.jpg",
-      "url": "/tech-news/2025-10-26/A-4-cheaper-android-tablet-alternatives-to-the-ipa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Apple",
-        "Amazon",
-        "Samsung",
-        "Lenovo"
-      ],
-      "people": []
-    },
-    {
       "title": "Phoebe Gates a spoluzakladatelka Phia získaly v 23 letech 8 milionů dolarů",
       "description": "Phoebe Gates a Sophia Kianni, obě ve věku 23 let, získaly 8 milionů dolarů pro svou AI módní aplikaci Phia a naučily se přitom tři důležité lekce o vedení a týmové práci.",
       "slug": "phoebe-gates-and-her-phia-cofounder-raised-8-milli",
@@ -3787,26 +3795,6 @@
         "Phoebe Gates",
         "Sophia Kianni"
       ]
-    },
-    {
-      "title": "Microsoft vydal mimořádnou aktualizaci Windows kvůli probíhajícím útokům",
-      "description": "Americká agentura CISA varuje před aktivními útoky zneužívajícími kritickou zranitelnost CVE-2025-59287 ve Windows Server Update Service. Microsoft vydal nouzovou záplatu.",
-      "slug": "act-now-microsoft-issues-emergency-windows-update-",
-      "publishedAt": "2025-10-26T09:24:32+00:00",
-      "date": "2025-10-26 09:24:32",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": null,
-      "url": "/tech-news/2025-10-26/act-now-microsoft-issues-emergency-windows-update-/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
     },
     {
       "title": "Úniky o Galaxy S26 naznačují zklamání, autor doporučuje Vivo X300",
