@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tech-News: Analýza problému a návrh řešení | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Tech-News: Analýza problému a návrh řešení" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/TECH_NEWS_PROBLEM_ANALYSIS/" />
+<meta property="og:url" content="https://www.marigold.cz/TECH_NEWS_PROBLEM_ANALYSIS/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tech-News: Analýza problému a návrh řešení" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Tech-News: Analýza problému a návrh řešení","url":"https://www.marigold.cz/TECH_NEWS_PROBLEM_ANALYSIS/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Tech-News: Analýza problému a návrh řešení" />
+    <meta property="twitter:title" content="Tech-News: Analýza problému a návrh řešení" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/TECH_NEWS_PROBLEM_ANALYSIS/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Tech-News: Analýza problému a návrh řešení</h1>
+
+  <div class="entry">
+    <h1 id="tech-news-analýza-problému-a-návrh-řešení">Tech-News: Analýza problému a návrh řešení</h1>
+
+<h2 id="-zjištěné-problémy">🔴 Zjištěné problémy</h2>
+
+<h3 id="1-obrovská-velikost-stránky">1. Obrovská velikost stránky</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Soubor: _site/tech-news/index.html
+Velikost: 6.4 MB
+Řádky: 163,250
+</code></pre></div></div>
+<p><strong>Důsledky:</strong></p>
+<ul>
+  <li>Pomalé načítání stránky</li>
+  <li>Vysoká spotřeba dat</li>
+  <li>Problémy s výkonem prohlížeče</li>
+  <li>Špatné SEO</li>
+</ul>
+
+<h3 id="2-nadměrný-počet-článků-v-kolekci">2. Nadměrný počet článků v kolekci</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Celkem článků v _tech_news/: 2,478
+Nejstarší článek: 23. září 2025
+Nejnovější článek: 29. října 2025
+Rozsah: více než měsíc
+</code></pre></div></div>
+
+<p><strong>Rozdělení podle období:</strong></p>
+<ul>
+  <li>Dnes (30.10.): 0 článků</li>
+  <li>Včera (29.10.): 1 článek</li>
+  <li>Poslední týden (23-29.10.): 263 článků</li>
+  <li>Celkem: 2,478 článků</li>
+</ul>
+
+<h3 id="3-chybějící-filtrace-podle-data">3. Chybějící filtrace podle data</h3>
+
+<p><strong>Layout <code class="language-plaintext highlighter-rouge">tech_news_index.html</code> (řádky 26-29):</strong></p>
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+
+</code></pre></div></div>
+
+<p><strong>Problém:</strong></p>
+<ul>
+  <li>❌ Načítá <strong>VŠECH 2,478 článků</strong> z kolekce</li>
+  <li>❌ Žádná filtrace podle data (24 hodin)</li>
+  <li>❌ Jen limit 18 článků, ale po načtení všech</li>
+  <li>❌ Jekyll musí při každém buildu zpracovat všechny články</li>
+</ul>
+
+<h3 id="4-neefektivní-build-proces">4. Neefektivní build proces</h3>
+
+<p><strong>Současný stav:</strong></p>
+<ol>
+  <li>Jekyll načte všech 2,478 článků do paměti</li>
+  <li>Seřadí je podle publishedAt</li>
+  <li>Vezme prvních 18</li>
+  <li>Vygeneruje 6.4 MB HTML soubor</li>
+</ol>
+
+<p><strong>Výsledek:</strong></p>
+<ul>
+  <li>Dlouhý build čas</li>
+  <li>Vysoká spotřeba paměti</li>
+  <li>Neefektivní využití zdrojů</li>
+</ul>
+
+<h2 id="-navrhovaná-řešení">💡 Navrhovaná řešení</h2>
+
+<h3 id="řešení-a-cleanup--filtrace-doporučeno">Řešení A: Cleanup + Filtrace (DOPORUČENO)</h3>
+
+<h4 id="1-automatický-cleanup-starých-článků">1. Automatický cleanup starých článků</h4>
+
+<p><strong>Vytvořit skript <code class="language-plaintext highlighter-rouge">.github/scripts/cleanup_old_tech_news.py</code>:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">#!/usr/bin/env python3
+</span><span class="s">"""
+Cleanup starých tech-news článků
+Ponechá pouze články za posledních 7 dní
+"""</span>
+
+<span class="kn">from</span> <span class="nn">pathlib</span> <span class="kn">import</span> <span class="n">Path</span>
+<span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span><span class="p">,</span> <span class="n">timedelta</span><span class="p">,</span> <span class="n">timezone</span>
+<span class="kn">import</span> <span class="nn">re</span>
+
+<span class="k">def</span> <span class="nf">cleanup_old_articles</span><span class="p">(</span><span class="n">days_to_keep</span><span class="o">=</span><span class="mi">7</span><span class="p">):</span>
+    <span class="n">tech_news_dir</span> <span class="o">=</span> <span class="n">Path</span><span class="p">(</span><span class="s">'_tech_news'</span><span class="p">)</span>
+    <span class="n">cutoff_date</span> <span class="o">=</span> <span class="n">datetime</span><span class="p">.</span><span class="n">now</span><span class="p">(</span><span class="n">timezone</span><span class="p">.</span><span class="n">utc</span><span class="p">)</span> <span class="o">-</span> <span class="n">timedelta</span><span class="p">(</span><span class="n">days</span><span class="o">=</span><span class="n">days_to_keep</span><span class="p">)</span>
+
+    <span class="n">removed_count</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">kept_count</span> <span class="o">=</span> <span class="mi">0</span>
+
+    <span class="k">for</span> <span class="n">article_file</span> <span class="ow">in</span> <span class="n">tech_news_dir</span><span class="p">.</span><span class="n">glob</span><span class="p">(</span><span class="s">'*.md'</span><span class="p">):</span>
+        <span class="k">if</span> <span class="n">article_file</span><span class="p">.</span><span class="n">name</span> <span class="o">==</span> <span class="s">'index.md'</span><span class="p">:</span>
+            <span class="k">continue</span>
+
+        <span class="c1"># Extrahovat datum z názvu souboru (YYYY-MM-DD)
+</span>        <span class="n">match</span> <span class="o">=</span> <span class="n">re</span><span class="p">.</span><span class="n">match</span><span class="p">(</span><span class="sa">r</span><span class="s">'(\d{4}-\d{2}-\d{2})-'</span><span class="p">,</span> <span class="n">article_file</span><span class="p">.</span><span class="n">name</span><span class="p">)</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">match</span><span class="p">:</span>
+            <span class="k">continue</span>
+
+        <span class="n">article_date</span> <span class="o">=</span> <span class="n">datetime</span><span class="p">.</span><span class="n">fromisoformat</span><span class="p">(</span><span class="n">match</span><span class="p">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">)).</span><span class="n">replace</span><span class="p">(</span><span class="n">tzinfo</span><span class="o">=</span><span class="n">timezone</span><span class="p">.</span><span class="n">utc</span><span class="p">)</span>
+
+        <span class="k">if</span> <span class="n">article_date</span> <span class="o">&lt;</span> <span class="n">cutoff_date</span><span class="p">:</span>
+            <span class="n">article_file</span><span class="p">.</span><span class="n">unlink</span><span class="p">()</span>
+            <span class="n">removed_count</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">kept_count</span> <span class="o">+=</span> <span class="mi">1</span>
+
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"✅ Cleanup dokončen"</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"   Smazáno: </span><span class="si">{</span><span class="n">removed_count</span><span class="si">}</span><span class="s"> článků"</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"   Ponecháno: </span><span class="si">{</span><span class="n">kept_count</span><span class="si">}</span><span class="s"> článků"</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">removed_count</span><span class="p">,</span> <span class="n">kept_count</span>
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">cleanup_old_articles</span><span class="p">(</span><span class="n">days_to_keep</span><span class="o">=</span><span class="mi">7</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h4 id="2-přidat-cleanup-do-github-actions-workflow">2. Přidat cleanup do GitHub Actions workflow</h4>
+
+<p><strong><code class="language-plaintext highlighter-rouge">.github/workflows/tech-news.yml</code> - přidat před build:</strong></p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Cleanup old tech-news articles</span>
+  <span class="na">run</span><span class="pi">:</span> <span class="s">python .github/scripts/cleanup_old_tech_news.py</span>
+</code></pre></div></div>
+
+<h4 id="3-filtrovat-v-layoutu-podle-data">3. Filtrovat v layoutu podle data</h4>
+
+<p><strong>Aktualizovat <code class="language-plaintext highlighter-rouge">_layouts/tech_news_index.html</code> (řádky 26-34):</strong></p>
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+</code></pre></div></div>
+
+<p><strong>Výhody:</strong></p>
+<ul>
+  <li>✅ Zobrazí jen relevantní články (24-48 hodin)</li>
+  <li>✅ Automatický cleanup snižuje velikost kolekce</li>
+  <li>✅ Zachovává historii v denních stránkách</li>
+  <li>✅ Snížení velikosti HTML na ~100-200 KB</li>
+</ul>
+
+<hr />
+
+<h3 id="řešení-b-redirect-na-denní-stránku">Řešení B: Redirect na denní stránku</h3>
+
+<p><strong>Změnit <code class="language-plaintext highlighter-rouge">/tech-news/</code> na redirect:</strong></p>
+
+<p><strong><code class="language-plaintext highlighter-rouge">_pages/tech-news.md</code>:</strong></p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">tech_news_redirect</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Technologické zprávy</span>
+<span class="na">permalink</span><span class="pi">:</span> <span class="s">/tech-news/</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong><code class="language-plaintext highlighter-rouge">_layouts/tech_news_redirect.html</code>:</strong></p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: default
+---
+
+<span class="nt">&lt;script&gt;</span>
+<span class="c1">// Přesměrovat na nejnovější denní stránku</span>
+<span class="kd">const</span> <span class="nx">today</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">();</span>
+<span class="kd">const</span> <span class="nx">yyyy</span> <span class="o">=</span> <span class="nx">today</span><span class="p">.</span><span class="nx">getFullYear</span><span class="p">();</span>
+<span class="kd">const</span> <span class="nx">mm</span> <span class="o">=</span> <span class="nb">String</span><span class="p">(</span><span class="nx">today</span><span class="p">.</span><span class="nx">getMonth</span><span class="p">()</span> <span class="o">+</span> <span class="mi">1</span><span class="p">).</span><span class="nx">padStart</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="dl">'</span><span class="s1">0</span><span class="dl">'</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">dd</span> <span class="o">=</span> <span class="nb">String</span><span class="p">(</span><span class="nx">today</span><span class="p">.</span><span class="nx">getDate</span><span class="p">()).</span><span class="nx">padStart</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="dl">'</span><span class="s1">0</span><span class="dl">'</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">dateStr</span> <span class="o">=</span> <span class="s2">`</span><span class="p">${</span><span class="nx">yyyy</span><span class="p">}</span><span class="s2">-</span><span class="p">${</span><span class="nx">mm</span><span class="p">}</span><span class="s2">-</span><span class="p">${</span><span class="nx">dd</span><span class="p">}</span><span class="s2">`</span><span class="p">;</span>
+
+<span class="nb">window</span><span class="p">.</span><span class="nx">location</span><span class="p">.</span><span class="nx">href</span> <span class="o">=</span> <span class="s2">`/tech-news/</span><span class="p">${</span><span class="nx">dateStr</span><span class="p">}</span><span class="s2">/`</span><span class="p">;</span>
+<span class="nt">&lt;/script&gt;</span>
+
+<span class="nt">&lt;div</span> <span class="na">style=</span><span class="s">"text-align: center; padding: 3rem;"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;p&gt;</span>Přesměrovávám na dnešní zprávy...<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;p&gt;&lt;a</span> <span class="na">href=</span><span class="s">"/tech-news/2025-10-31/"</span><span class="nt">&gt;</span>Pokračovat ručně<span class="nt">&lt;/a&gt;&lt;/p&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<p><strong>Výhody:</strong></p>
+<ul>
+  <li>✅ Nejjednodušší řešení</li>
+  <li>✅ Žádné načítání velkých kolekcí</li>
+  <li>✅ Denní stránky už existují</li>
+  <li>✅ Okamžité zobrazení</li>
+</ul>
+
+<p><strong>Nevýhody:</strong></p>
+<ul>
+  <li>⚠️ Žádný přehled napříč dny</li>
+  <li>⚠️ Nutný JavaScript</li>
+</ul>
+
+<hr />
+
+<h3 id="řešení-c-kombinované-nejvíce-robustní">Řešení C: Kombinované (NEJVÍCE ROBUSTNÍ)</h3>
+
+<p>Kombinace řešení A + B:</p>
+
+<ol>
+  <li><strong>Cleanup starých článků</strong> (7 dní)</li>
+  <li><strong>Hlavní stránka zobrazuje 18 nejnovějších</strong> (48 hodin)</li>
+  <li><strong>Fallback redirect</strong> pokud nejsou žádné články za 48 hodin</li>
+  <li><strong>Link na archiv</strong> pro přístup k denním stránkám</li>
+</ol>
+
+<p><strong>Implementace:</strong></p>
+
+<p><strong>1. Cleanup script</strong> (stejný jako Řešení A)</p>
+
+<p><strong>2. Aktualizovaný layout <code class="language-plaintext highlighter-rouge">tech_news_index.html</code>:</strong></p>
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+
+
+
+
+
+
+  
+  
+
+  &lt;!-- Navigace --&gt;
+  &lt;div class="tech-news-navigation"&gt;
+    &lt;a href="/tech-news/archive/"&gt;📚 Archiv&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Články... --&gt;
+
+</code></pre></div></div>
+
+<p><strong>3. Stránka archivu</strong> <code class="language-plaintext highlighter-rouge">/tech-news/archive/</code>:</p>
+<ul>
+  <li>Seznam denních stránek</li>
+  <li>Kalendářové zobrazení</li>
+  <li>Filtr podle měsíce</li>
+</ul>
+
+<hr />
+
+<h2 id="-srovnání-řešení">📊 Srovnání řešení</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Kritérium</th>
+      <th>Řešení A</th>
+      <th>Řešení B</th>
+      <th>Řešení C</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Velikost HTML</strong></td>
+      <td>~100-200 KB</td>
+      <td>~10 KB (redirect)</td>
+      <td>~100-200 KB</td>
+    </tr>
+    <tr>
+      <td><strong>Build čas</strong></td>
+      <td>Střední</td>
+      <td>Rychlý</td>
+      <td>Střední</td>
+    </tr>
+    <tr>
+      <td><strong>Funkčnost</strong></td>
+      <td>✅ Plná</td>
+      <td>⚠️ Omezená</td>
+      <td>✅ Plná</td>
+    </tr>
+    <tr>
+      <td><strong>Uživatelský zážitek</strong></td>
+      <td>✅ Dobrý</td>
+      <td>⚠️ Redirect delay</td>
+      <td>✅ Výborný</td>
+    </tr>
+    <tr>
+      <td><strong>Údržba</strong></td>
+      <td>Střední</td>
+      <td>Nízká</td>
+      <td>Vyšší</td>
+    </tr>
+    <tr>
+      <td><strong>Implementace</strong></td>
+      <td>⚙️ Jednoduchá</td>
+      <td>🚀 Velmi jednoduchá</td>
+      <td>⚙️ Složitější</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="-doporučení">🎯 Doporučení</h2>
+
+<p><strong>Pro okamžité řešení:</strong> <strong>Řešení A</strong> (Cleanup + Filtrace)</p>
+<ul>
+  <li>✅ Řeší hlavní problémy</li>
+  <li>✅ Rychlá implementace</li>
+  <li>✅ Zachovává funkcionalitu</li>
+  <li>✅ Automatický maintenance</li>
+</ul>
+
+<p><strong>Pro dlouhodobé řešení:</strong> <strong>Řešení C</strong> (Kombinované)</p>
+<ul>
+  <li>✅ Nejrobustnější</li>
+  <li>✅ Nejlepší UX</li>
+  <li>✅ Archiv pro historii</li>
+  <li>✅ Fallback mechanismy</li>
+</ul>
+
+<h2 id="-implementační-kroky">📋 Implementační kroky</h2>
+
+<h3 id="krok-1-cleanup-script">Krok 1: Cleanup script</h3>
+<ol>
+  <li>Vytvořit <code class="language-plaintext highlighter-rouge">.github/scripts/cleanup_old_tech_news.py</code></li>
+  <li>Otestovat lokálně</li>
+  <li>Přidat do workflow</li>
+</ol>
+
+<h3 id="krok-2-aktualizovat-layout">Krok 2: Aktualizovat layout</h3>
+<ol>
+  <li>Upravit <code class="language-plaintext highlighter-rouge">_layouts/tech_news_index.html</code></li>
+  <li>Přidat filtraci podle data</li>
+  <li>Otestovat s malým počtem článků</li>
+</ol>
+
+<h3 id="krok-3-deploy">Krok 3: Deploy</h3>
+<ol>
+  <li>Commitnout změny</li>
+  <li>Pushnout do GitHubu</li>
+  <li>Ověřit workflow</li>
+</ol>
+
+<h3 id="krok-4-monitoring">Krok 4: Monitoring</h3>
+<ol>
+  <li>Zkontrolovat velikost HTML</li>
+  <li>Měřit build čas</li>
+  <li>Sledovat počet článků v kolekci</li>
+</ol>
+
+<h2 id="-technické-detaily">🔧 Technické detaily</h2>
+
+<h3 id="jekyll-collection-limits">Jekyll Collection Limits</h3>
+<ul>
+  <li>Jekyll nemá vestavěný limit pro kolekce</li>
+  <li>Všechny dokumenty se načítají do paměti</li>
+  <li>Filtrace Liquid je pomalá pro velké kolekce</li>
+</ul>
+
+<h3 id="liquid-date-filtering">Liquid Date Filtering</h3>
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+
+</code></pre></div></div>
+
+<h3 id="cleanup-considerations">Cleanup Considerations</h3>
+<ul>
+  <li><strong>7 dní:</strong> Optimální pro archiv + aktuální zobrazení</li>
+  <li><strong>Denní stránky:</strong> Zachovávají historii</li>
+  <li><strong>Build čas:</strong> ~50% redukce při cleanup</li>
+</ul>
+
+<h2 id="-očekávané-výsledky">📈 Očekávané výsledky</h2>
+
+<p><strong>Po implementaci Řešení A:</strong></p>
+<ul>
+  <li>Velikost HTML: <strong>6.4 MB → ~150 KB</strong> (-98%)</li>
+  <li>Počet článků: <strong>2,478 → ~100-200</strong> (-92%)</li>
+  <li>Build čas: <strong>~3-5 min → ~1-2 min</strong> (-50%)</li>
+  <li>Načítání stránky: <strong>~5-10s → &lt;1s</strong> (-90%)</li>
+</ul>
+
+<p><strong>Po implementaci Řešení C:</strong></p>
+<ul>
+  <li>Stejné výsledky jako A</li>
+  <li>Plus: Archiv, lepší navigace, fallback</li>
+</ul>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

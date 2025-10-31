@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Open Graph Image - Implementace | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Open Graph Image - Implementace" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/OG_IMAGE_IMPLEMENTATION/" />
+<meta property="og:url" content="https://www.marigold.cz/OG_IMAGE_IMPLEMENTATION/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Open Graph Image - Implementace" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Open Graph Image - Implementace","url":"https://www.marigold.cz/OG_IMAGE_IMPLEMENTATION/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Open Graph Image - Implementace" />
+    <meta property="twitter:title" content="Open Graph Image - Implementace" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/OG_IMAGE_IMPLEMENTATION/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Open Graph Image - Implementace</h1>
+
+  <div class="entry">
+    <h1 id="open-graph-image---implementace">Open Graph Image - Implementace</h1>
+
+<h2 id="-přehled">📋 Přehled</h2>
+
+<p>Robustní řešení pro automatický výběr Open Graph obrázků na Marigold.cz s podporou běžných článků i tech-news.</p>
+
+<h2 id="-funkce">🎯 Funkce</h2>
+
+<h3 id="hierarchie-výběru-obrázků">Hierarchie výběru obrázků</h3>
+
+<ol>
+  <li><strong>post.thumbnail</strong> - Priorita při iteraci přes kolekci postů</li>
+  <li><strong>page.thumbnail</strong> - Explicitně nastavený thumbnail v článku</li>
+  <li><strong>page.urlToImage</strong> - Externí obrázky z tech-news (NewsAPI)</li>
+  <li><strong>page.image</strong> - Explicitně nastavený image</li>
+  <li><strong>První obrázek z content</strong> - Automatická extrakce z markdown/HTML</li>
+  <li><strong>site.avatar</strong> - Fallback pro stránky bez obrázků</li>
+</ol>
+
+<h3 id="optimalizace-přes-cloudinary">Optimalizace přes Cloudinary</h3>
+
+<p>Všechny externí obrázky procházejí přes Cloudinary CDN s automatickou optimalizací:</p>
+<ul>
+  <li>Open Graph: 1200×630px, auto kvalita, auto formát</li>
+  <li>Twitter Card: 1024×512px, auto kvalita, auto formát</li>
+</ul>
+
+<h2 id="-soubory">📁 Soubory</h2>
+
+<h3 id="_includesog-imagehtml"><code class="language-plaintext highlighter-rouge">_includes/og-image.html</code></h3>
+
+<p>Hlavní include pro výběr a generování OG tagů.</p>
+
+<p><strong>Vstupní proměnné:</strong></p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">post.thumbnail</code> (string, URL)</li>
+  <li><code class="language-plaintext highlighter-rouge">page.thumbnail</code> (string, URL)</li>
+  <li><code class="language-plaintext highlighter-rouge">page.urlToImage</code> (string, URL) - tech-news</li>
+  <li><code class="language-plaintext highlighter-rouge">page.image</code> (string, cesta nebo URL)</li>
+  <li><code class="language-plaintext highlighter-rouge">content</code> (HTML/markdown obsah)</li>
+  <li><code class="language-plaintext highlighter-rouge">site.avatar</code> (string, cesta)</li>
+  <li><code class="language-plaintext highlighter-rouge">site.url</code> (string, base URL)</li>
+</ul>
+
+<p><strong>Výstupní meta tagy:</strong></p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- og-image source: [zdroj] --&gt;</span>
+<span class="nt">&lt;meta</span> <span class="na">property=</span><span class="s">"og:image"</span> <span class="na">content=</span><span class="s">"[URL]"</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;meta</span> <span class="na">property=</span><span class="s">"twitter:image"</span> <span class="na">content=</span><span class="s">"[URL]"</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;meta</span> <span class="na">property=</span><span class="s">"og:image:width"</span> <span class="na">content=</span><span class="s">"1200"</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;meta</span> <span class="na">property=</span><span class="s">"og:image:height"</span> <span class="na">content=</span><span class="s">"630"</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">"twitter:card"</span> <span class="na">content=</span><span class="s">"summary_large_image"</span><span class="nt">/&gt;</span>
+</code></pre></div></div>
+
+<h3 id="_includesmetahtml"><code class="language-plaintext highlighter-rouge">_includes/meta.html</code></h3>
+
+<p>Aktualizováno pro použití nového include:</p>
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;!-- og-image source: extracted from content --&gt;
+&lt;meta property="og:image" content="https://www.marigold.cz&lt;article class="/&gt;
+&lt;meta property="twitter:image" content="https://www.marigold.cz&lt;article class="/&gt;
+&lt;meta property="og:image:width" content="1200"/&gt;
+&lt;meta property="og:image:height" content="630"/&gt;
+&lt;meta name="twitter:card" content="summary_large_image"/&gt;
+
+</code></pre></div></div>
+
+<h2 id="-použití">🔧 Použití</h2>
+
+<h3 id="běžný-článek-s-thumbnail">Běžný článek s thumbnail</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Název</span><span class="nv"> </span><span class="s">článku"</span>
+<span class="na">thumbnail</span><span class="pi">:</span> <span class="s">https://example.com/image.jpg</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong>Výsledek:</strong> Cloudinary optimalizace → <code class="language-plaintext highlighter-rouge">og:image</code></p>
+
+<h3 id="tech-news-článek">Tech-news článek</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Tech</span><span class="nv"> </span><span class="s">news"</span>
+<span class="na">urlToImage</span><span class="pi">:</span> <span class="s">https://newssite.com/photo.jpg</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">tech_news_article</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong>Výsledek:</strong> Cloudinary optimalizace → <code class="language-plaintext highlighter-rouge">og:image</code></p>
+
+<h3 id="článek-bez-thumbnail">Článek bez thumbnail</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Článek"</span>
+<span class="nn">---</span>
+
+<span class="p">![</span><span class="nv">Popis</span><span class="p">](</span><span class="sx">https://example.com/photo.jpg</span><span class="p">)</span>
+
+Obsah článku...
+</code></pre></div></div>
+
+<p><strong>Výsledek:</strong> První obrázek extrahován z markdown → Cloudinary → <code class="language-plaintext highlighter-rouge">og:image</code></p>
+
+<h3 id="lokální-obrázek">Lokální obrázek</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Článek"</span>
+<span class="na">image</span><span class="pi">:</span> <span class="s">/assets/images/local.jpg</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong>Výsledek:</strong> <code class="language-plaintext highlighter-rouge">https://www.marigold.cz/assets/images/local.jpg</code> → <code class="language-plaintext highlighter-rouge">og:image</code></p>
+
+<h2 id="-testování">🧪 Testování</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Spustit test skript</span>
+<span class="nb">chmod</span> +x test_og_tags.sh
+./test_og_tags.sh
+</code></pre></div></div>
+
+<p>Test ověřuje:</p>
+<ol>
+  <li>Článek s thumbnail (page.thumbnail)</li>
+  <li>Tech-news článek (page.urlToImage)</li>
+  <li>Hlavní stránka (fallback na site.avatar)</li>
+</ol>
+
+<h3 id="manuální-kontrola">Manuální kontrola</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Build webu</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># Zkontrolovat konkrétní článek</span>
+<span class="nb">grep</span> <span class="s2">"og:image"</span> _site/2025/10/21/openai-prohlizec-atlas.html
+
+<span class="c"># Zkontrolovat tech-news</span>
+<span class="nb">grep</span> <span class="s2">"og:image"</span> _site/tech-news/<span class="k">*</span>/index.html | <span class="nb">head</span> <span class="nt">-5</span>
+</code></pre></div></div>
+
+<h2 id="-debug">🐛 Debug</h2>
+
+<p>Include obsahuje HTML komentář se zdrojem obrázku:</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- og-image source: page.thumbnail --&gt;</span>
+</code></pre></div></div>
+
+<p>Možné hodnoty:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">post.thumbnail</code></li>
+  <li><code class="language-plaintext highlighter-rouge">page.thumbnail</code></li>
+  <li><code class="language-plaintext highlighter-rouge">page.urlToImage (tech-news)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">page.image</code></li>
+  <li><code class="language-plaintext highlighter-rouge">extracted from content</code></li>
+  <li><code class="language-plaintext highlighter-rouge">site.avatar (fallback)</code></li>
+</ul>
+
+<h2 id="-podpora-formátů">📊 Podpora formátů</h2>
+
+<h3 id="markdown-obrázky">Markdown obrázky</h3>
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">![</span><span class="nv">Alt text</span><span class="p">](</span><span class="sx">/assets/image.jpg</span><span class="p">)</span>
+<span class="p">![</span><span class="nv">Alt text</span><span class="p">](</span><span class="sx">https://external.com/image.jpg</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h3 id="html-obrázky">HTML obrázky</h3>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/assets/image.jpg"</span> <span class="na">alt=</span><span class="s">"Alt text"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"https://external.com/image.jpg"</span> <span class="na">alt=</span><span class="s">"Alt text"</span><span class="nt">&gt;</span>
+</code></pre></div></div>
+
+<h2 id="-odkazy">🔗 Odkazy</h2>
+
+<ul>
+  <li><a href="https://ogp.me/">Open Graph Protocol</a></li>
+  <li><a href="https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards">Twitter Cards</a></li>
+  <li><a href="https://cloudinary.com/documentation/image_transformations">Cloudinary Image Transformations</a></li>
+</ul>
+
+<h2 id="-historie-změn">📅 Historie změn</h2>
+
+<h3 id="2025-10-25">2025-10-25</h3>
+<ul>
+  <li>✅ Vytvořen separátní <code class="language-plaintext highlighter-rouge">_includes/og-image.html</code></li>
+  <li>✅ Přidána podpora <code class="language-plaintext highlighter-rouge">page.urlToImage</code> pro tech-news</li>
+  <li>✅ Automatická extrakce prvního obrázku z content</li>
+  <li>✅ Cloudinary optimalizace pro všechny externí obrázky</li>
+  <li>✅ Debug komentáře pro snadné zjištění zdroje</li>
+</ul>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
