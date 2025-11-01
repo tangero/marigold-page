@@ -1,7 +1,79 @@
 {
-  "generated": "2025-11-01T12:21:13.122424+00:00",
+  "generated": "2025-11-01T16:14:29.605270+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Tim Cook provides update on next-gen Siri development - 9to5Mac",
+      "description": "We’re still waiting on Apple to release its promised next-generation version of Siri. CEO Tim Cook says things are going well so far…",
+      "slug": "tim-cook-provides-update-on-next-gen-siri-developm",
+      "publishedAt": "2025-10-31T12:51:00+00:00",
+      "date": "2025-10-31 12:51:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/tim-cook-provides-update-on-next-gen-siri-developm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica",
+      "description": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
+      "slug": "unexpectedly-a-deer-briefly-entered-the-family-roo",
+      "publishedAt": "2025-10-31T11:30:22+00:00",
+      "date": "2025-10-31 11:30:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-1152x648.jpg",
+      "url": "/tech-news/2025-10-31/unexpectedly-a-deer-briefly-entered-the-family-roo/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google rolls out a surprise October update for Pixel users - Android Central",
+      "description": "Not the one you're waiting for, though",
+      "slug": "google-rolls-out-a-surprise-october-update-for-pix",
+      "publishedAt": "2025-10-31T10:04:47+00:00",
+      "date": "2025-10-31 10:04:47",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7VRynWNu5EaptSUgniwKqW-2560-80.jpg",
+      "url": "/tech-news/2025-10-31/google-rolls-out-a-surprise-october-update-for-pix/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "This leaked OnePlus flagship looks like a better bet than the OnePlus 15 - Android Authority",
+      "description": "OnePlus' next compact flagship has leaked, and it does not appear to repeat the same mistakes as the OnePlus 15.",
+      "slug": "this-leaked-oneplus-flagship-looks-like-a-better-b",
+      "publishedAt": "2025-10-31T08:38:03+00:00",
+      "date": "2025-10-31 08:38:03",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/OnePlus-13s_1-scaled.jpg",
+      "url": "/tech-news/2025-10-31/this-leaked-oneplus-flagship-looks-like-a-better-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Google drops a surprise late-October 2025 update for Pixels - Android Police",
       "description": "And it's all about performance improvements",
@@ -57,6 +129,24 @@
       "people": []
     },
     {
+      "title": "WhatsApp Testing Apple Watch App - MacRumors",
+      "description": "WhatsApp today provided its TestFlight users with a new Apple Watch app for testing purposes, which means a version of WhatsApp for the wrist could...",
+      "slug": "whatsapp-testing-apple-watch-app-macrumors",
+      "publishedAt": "2025-10-30T22:06:47+00:00",
+      "date": "2025-10-30 22:06:47",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://images.macrumors.com/t/3IetT83Dy-vXeWMAYAAW3aaQad0=/1632x/article-new/2025/10/whatsapp-apple-watch.jpg",
+      "url": "/tech-news/2025-10-30/whatsapp-testing-apple-watch-app-macrumors/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
       "description": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, telling CNBC that “our intention is to integrate with more people over time.”",
       "slug": "tim-cook-says-more-ais-are-coming-to-apple-intelli",
@@ -70,6 +160,24 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Listen up! These top-selling Anker earbuds are 50% off before Black Friday - New York Post",
+      "description": "This deal is music to our ears!",
+      "slug": "listen-up-these-top-selling-anker-earbuds-are-50-o",
+      "publishedAt": "2025-10-30T21:25:00+00:00",
+      "date": "2025-10-30 21:25:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/game1.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2025-10-30/listen-up-these-top-selling-anker-earbuds-are-50-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
       },
       "companies": [],
       "people": []
@@ -178,6 +286,42 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "No More Game Optimizations for AMD Radeon RX 6000 and RX 5000, Still Part of Main Driver Branch - TechPowerUp",
+      "description": "In a rather shocking move, AMD has given the Radeon RX 6000 series and RX 5000 series GPUs a partial retirement by removing it from the regular monthly game optimization cycle. While the monthly driver updates will continue to support them, the game optimizat…",
+      "slug": "no-more-game-optimizations-for-amd-radeon-rx-6000-",
+      "publishedAt": "2025-10-30T19:02:28+00:00",
+      "date": "2025-10-30 19:02:28",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/LIDADUeU9LavJo9H.jpg",
+      "url": "/tech-news/2025-10-30/no-more-game-optimizations-for-amd-radeon-rx-6000-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Creative revives iconic Sound Blaster brand with modular audio hub - TechSpot",
+      "description": "At the heart of the Re:Imagine is an octa-core Arm-based SoC paired with 8GB of LPDDR4 RAM and 16GB of eMMC flash storage. There's also a 6-TOPS...",
+      "slug": "creative-revives-iconic-sound-blaster-brand-with-m",
+      "publishedAt": "2025-10-30T18:59:00+00:00",
+      "date": "2025-10-30 18:59:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-30-image-23.jpg",
+      "url": "/tech-news/2025-10-30/creative-revives-iconic-sound-blaster-brand-with-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TechSpot"
       },
       "companies": [],
       "people": []
@@ -345,6 +489,24 @@
       "people": []
     },
     {
+      "title": "Google Maps prepares black & white ‘Power saving mode’ on Android [Gallery] - 9to5Google",
+      "description": "Google Maps is preparing a new “Power saving mode” behind the scenes on its Android app, which does away with...",
+      "slug": "google-maps-prepares-black-white-power-saving-mode",
+      "publishedAt": "2025-10-30T16:05:00+00:00",
+      "date": "2025-10-30 16:05:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/google-maps-power-saving-mode-prep-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/google-maps-prepares-black-white-power-saving-mode/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "T-Mobile’s emergency payments system is going online-only - 9to5Google",
       "description": "Users who need to take advantage of T-Mobile’s payment arrangements in uncertain times will need to do it all in...",
       "slug": "t-mobiles-emergency-payments-system-is-going-onlin",
@@ -384,8 +546,8 @@
       "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
       "description": "The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.",
       "slug": "someone-snuck-into-a-cellebrite-microsoft-teams-ca",
-      "publishedAt": "2025-10-30T15:15:30+00:00",
-      "date": "2025-10-30 15:15:30",
+      "publishedAt": "2025-10-30T15:15:46+00:00",
+      "date": "2025-10-30 15:15:46",
       "importance": 3,
       "category": "tech",
       "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/10/cellebrite-youtube.png",
@@ -3587,24 +3749,6 @@
       "people": []
     },
     {
-      "title": "Namáhavá túra bez stop ve sněhu",
-      "description": "Osobní zážitek z turistické túry po Pacific Crest Trail, kde kvůli hlubokému sněhu trvalo 10 hodin ujít 22 mil.",
-      "slug": "tedious-hiking-with-no-tracks-in-the-snow-the-trek",
-      "publishedAt": "2025-10-26T21:27:57+00:00",
-      "date": "2025-10-26 21:27:57",
-      "importance": 1,
-      "category": "turistika",
-      "urlToImage": "https://photos.thetrek.co/wp-content/uploads/2025/10/22003520/IMG_7817-scaled.jpeg",
-      "url": "/tech-news/2025-10-26/tedious-hiking-with-no-tracks-in-the-snow-the-trek/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thetrek.co"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Výhody a nevýhody tříválcových motorů",
       "description": "Automobily s tříválcovými motory nabízejí lepší spotřebu paliva a nižší náklady na údržbu, ale mohou být méně uspokojivé při řízení a mají hrubší chod naprázdno.",
       "slug": "the-pros-cons-of-3-cylinder-engines-jalopnik",
@@ -3620,105 +3764,6 @@
         "name": "Jalopnik"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "PowerWash Simulator 2 potřebuje vylepšit kooperativní režim",
-      "description": "Kooperativní multiplayer v PowerWash Simulator 2 je funkční, ale podle recenzentů by si zasloužil další vylepšení.",
-      "slug": "powerwash-simulator-2s-co-op-multiplayer-needs-a-t",
-      "publishedAt": "2025-10-26T18:10:36+00:00",
-      "date": "2025-10-26 18:10:36",
-      "importance": 1,
-      "category": "herní průmysl",
-      "urlToImage": "https://www.trueachievements.com/imgs/165576/powerwash-simulator-2.jpg",
-      "url": "/tech-news/2025-10-26/powerwash-simulator-2s-co-op-multiplayer-needs-a-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč byste měli přestat používat Outlook",
-      "description": "Dlouholetý uživatel Outlooku vysvětluje, proč se e-mailový klient Microsoftu stal pomalým a nepoužitelným, a doporučuje alternativy.",
-      "slug": "please-stop-using-outlook-makeuseof",
-      "publishedAt": "2025-10-26T18:03:42+00:00",
-      "date": "2025-10-26 18:03:42",
-      "importance": 3,
-      "category": "e-mailové klienty",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/a-smartphone-on-a-bag-of-trash-with-the-microsoft-outlook-app-on-the-display.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-26/please-stop-using-outlook-makeuseof/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MakeUseOf"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Opravář označil NVIDIA RTX 5090 Founders Edition za jeden z \"nejhorších designů vůbec\"",
-      "description": "Poškozená grafická karta NVIDIA RTX 5090 Founders Edition nemohla být opravena kvůli snadno poškoditelnému konektoru, pro který neexistují náhradní díly.",
-      "slug": "pc-repair-specialist-calls-nvidia-rtx-5090-founder",
-      "publishedAt": "2025-10-26T14:30:00+00:00",
-      "date": "2025-10-26 14:30:00",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/NVIDIA-RTX-5090-FE-components-728x410.png",
-      "url": "/tech-news/2025-10-26/pc-repair-specialist-calls-nvidia-rtx-5090-founder/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "7 nejčastějších problémů chytrých televizí a jak je vyřešit",
-      "description": "Průvodce řešením běžných potíží s chytrými televizemi od Samsungu, Sony a dalších výrobců, od problémů se sítí až po závady obrazovky.",
-      "slug": "the-7-most-common-smart-tv-problems-and-how-to-fix",
-      "publishedAt": "2025-10-26T14:02:00+00:00",
-      "date": "2025-10-26 14:02:00",
-      "importance": 3,
-      "category": "smart tv",
-      "urlToImage": "https://www.bgr.com/img/gallery/the-7-most-common-smart-tv-problems-and-how-to-fix-them/l-intro-1761155928.jpg",
-      "url": "/tech-news/2025-10-26/the-7-most-common-smart-tv-problems-and-how-to-fix/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Samsung",
-        "Sony"
-      ],
-      "people": []
-    },
-    {
-      "title": "iPad Pro s čipem M6 má dostat parní komorové chlazení",
-      "description": "Podle zpráv Bloomberg má Apple v roce 2027 představit iPad Pro s pokročilým parním komorovým chlazením, které by mělo řešit problémy s tepelným škrcením výkonu.",
-      "slug": "report-ipad-pro-to-gain-vapor-chamber-cooling-with",
-      "publishedAt": "2025-10-26T13:45:00+00:00",
-      "date": "2025-10-26 13:45:00",
-      "importance": 2,
-      "category": "tablety",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-26/report-ipad-pro-to-gain-vapor-chamber-cooling-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
       "people": []
     },
     {
@@ -3760,24 +3805,6 @@
       "people": []
     },
     {
-      "title": "Kvantová teleportace poprvé fungovala přes běžný internet",
-      "description": "Vědci v roce 2024 úspěšně teleportovali kvantový stav světla přes 30 kilometrů optického kabelu při současném běžném internetovém provozu, což bylo dříve považováno za nemožné.",
-      "slug": "quantum-teleportation-was-achieved-over-the-intern",
-      "publishedAt": "2025-10-26T12:17:54+00:00",
-      "date": "2025-10-26 12:17:54",
-      "importance": 4,
-      "category": "kvantové technologie",
-      "urlToImage": "https://www.sciencealert.com/images/2025/10/teleportation_internet_header.jpg",
-      "url": "/tech-news/2025-10-26/quantum-teleportation-was-achieved-over-the-intern/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "iPad Pro má v roce 2027 dostat parní komoru jako iPhone 17 Pro",
       "description": "Apple údajně pracuje na parní komoře pro chlazení budoucího iPadu Pro. Firma také pokračuje v plánech na reklamy v Apple Maps a řeší problémy se skládacím iPadem.",
       "slug": "whats-next-for-ipad-pro-a-vapor-chamber-like-the-o",
@@ -3816,29 +3843,6 @@
       "people": []
     },
     {
-      "title": "Phoebe Gates a spoluzakladatelka Phia získaly v 23 letech 8 milionů dolarů",
-      "description": "Phoebe Gates a Sophia Kianni, obě ve věku 23 let, získaly 8 milionů dolarů pro svou AI módní aplikaci Phia a naučily se přitom tři důležité lekce o vedení a týmové práci.",
-      "slug": "phoebe-gates-and-her-phia-cofounder-raised-8-milli",
-      "publishedAt": "2025-10-26T09:40:18+00:00",
-      "date": "2025-10-26 09:40:18",
-      "importance": 3,
-      "category": "startupy",
-      "urlToImage": "https://i.insider.com/68fa8c63599d46a4ccc0c014?width=1200&format=jpeg",
-      "url": "/tech-news/2025-10-26/phoebe-gates-and-her-phia-cofounder-raised-8-milli/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Phia"
-      ],
-      "people": [
-        "Phoebe Gates",
-        "Sophia Kianni"
-      ]
-    },
-    {
       "title": "Podivná soudní pře, která umístila Chevrolet Beretta do sídla firmy Beretta",
       "description": "Příběh z roku 1988, kdy italský výrobce zbraní Beretta zažaloval General Motors za neoprávněné použití svého ochranného názvu pro model Chevrolet Beretta.",
       "slug": "the-strange-lawsuit-that-put-a-chevy-beretta-insid",
@@ -3854,26 +3858,6 @@
         "name": "Jalopnik"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung Galaxy XR má skrytý USB-C port pro připojení příslušenství",
-      "description": "Headset Samsung Galaxy XR disponuje skrytým USB-C portem na pravém pásku, který umožňuje připojení širokého spektra příslušenství včetně ethernetových adaptérů a webkamer bez nutnosti využití pro napájení.",
-      "slug": "samsung-galaxy-xrs-hidden-usb-c-port-connects-acce",
-      "publishedAt": "2025-10-26T00:12:37+00:00",
-      "date": "2025-10-26 00:12:37",
-      "importance": 3,
-      "category": "vr headset",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/10/Samsung-Galaxy-XR-hidden-USB-C-port.jpg",
-      "url": "/tech-news/2025-10-26/samsung-galaxy-xrs-hidden-usb-c-port-connects-acce/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "UploadVR"
-      },
-      "companies": [
-        "Samsung"
-      ],
       "people": []
     }
   ]
