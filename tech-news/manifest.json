@@ -1,7 +1,151 @@
 {
-  "generated": "2025-11-01T16:14:29.605270+00:00",
+  "generated": "2025-11-01T20:13:15.349063+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Rumor: iPhone 18 Pro to come in three all-new colors - 9to5Mac",
+      "description": "Unlike any ‘Pro’ iPhone before it, the iPhone 17 Pro is available in a bright cosmic orange color. This trend...",
+      "slug": "rumor-iphone-18-pro-to-come-in-three-all-new-color",
+      "publishedAt": "2025-10-31T16:54:56+00:00",
+      "date": "2025-10-31 16:54:56",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-18-pro-color-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/rumor-iphone-18-pro-to-come-in-three-all-new-color/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager - Ars Technica",
+      "description": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
+      "slug": "closing-windows-11s-task-manager-accidentally-open",
+      "publishedAt": "2025-10-31T16:06:33+00:00",
+      "date": "2025-10-31 16:06:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/taskmgr-1080x648.jpg",
+      "url": "/tech-news/2025-10-31/closing-windows-11s-task-manager-accidentally-open/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tim Cook says Apple is open to M&A on the AI front - TechCrunch",
+      "description": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
+      "slug": "tim-cook-says-apple-is-open-to-ma-on-the-ai-front-",
+      "publishedAt": "2025-10-31T15:17:12+00:00",
+      "date": "2025-10-31 15:17:12",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+      "url": "/tech-news/2025-10-31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front-/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Next year’s AirPods lineup could be Apple’s biggest ever - 9to5Mac",
+      "description": "Apple just launched AirPods Pro 3, but another new AirPods model is rumored to arrive next year, expanding the lineup to be bigger than ever.",
+      "slug": "next-years-airpods-lineup-could-be-apples-biggest-",
+      "publishedAt": "2025-10-31T14:40:11+00:00",
+      "date": "2025-10-31 14:40:11",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/next-years-airpods-lineup-could-be-apples-biggest-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Where is the Trump phone? - The Verge",
+      "description": "T1 Phone 8002 (gold version) — a.k.a. the Trump phone — has missed three release dates in a row.",
+      "slug": "where-is-the-trump-phone-the-verge",
+      "publishedAt": "2025-10-31T14:36:53+00:00",
+      "date": "2025-10-31 14:36:53",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/t1-phone-trump.jpg?quality=90&strip=all&crop=0,1.7328436659964,100,78.534031413613",
+      "url": "/tech-news/2025-10-31/where-is-the-trump-phone-the-verge/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Android prepares ‘Min Mode’ always-on display upgrade that can show apps - 9to5Google",
+      "description": "Google is reportedly working on a big upgrade to always-on display functionality in Android that’s called “Min Mode” and can...",
+      "slug": "android-prepares-min-mode-always-on-display-upgrad",
+      "publishedAt": "2025-10-31T14:30:18+00:00",
+      "date": "2025-10-31 14:30:18",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/05/Always-on-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/android-prepares-min-mode-always-on-display-upgrad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "50 People Whose Lives Got Completely And Totally Blown Up By The Consequences Of Their Own Terrible Decisions Last Month - BuzzFeed",
+      "description": "Look before you leap.",
+      "slug": "A-50-people-whose-lives-got-completely-and-totally",
+      "publishedAt": "2025-10-31T14:18:24+00:00",
+      "date": "2025-10-31 14:18:24",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/30/17/thumb/RlqXSMPKB.jpg?crop=2500:1309;0,26%26downsize=1250:*",
+      "url": "/tech-news/2025-10-31/A-50-people-whose-lives-got-completely-and-totally/",
+      "source": {
+        "emoji": "📰",
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio - The Verge",
+      "description": "Creative revived its Sound Blaster brand for a new modular magnetic hub called the Re:Imagine that serves as mission control for your audio gear.",
+      "slug": "sound-blasters-modular-hub-is-a-reconfigurable-str",
+      "publishedAt": "2025-10-31T14:08:34+00:00",
+      "date": "2025-10-31 14:08:34",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/soundblaster3.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
+      "url": "/tech-news/2025-10-31/sound-blasters-modular-hub-is-a-reconfigurable-str/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tim Cook provides update on next-gen Siri development - 9to5Mac",
       "description": "We’re still waiting on Apple to release its promised next-generation version of Siri. CEO Tim Cook says things are going well so far…",
@@ -21,6 +165,24 @@
       "people": []
     },
     {
+      "title": "China solves 'century-old problem' with new analog chip that is 1,000 times faster than high-end Nvidia GPUs - Live Science",
+      "description": "Researchers from Peking University say their resistive random-access memory chip may be capable of speeds 1,000 faster than the Nvidia H100 and AMD Vega 20 GPUs.",
+      "slug": "china-solves-century-old-problem-with-new-analog-c",
+      "publishedAt": "2025-10-31T12:00:00+00:00",
+      "date": "2025-10-31 12:00:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZFj6VmRph4pi6M7jvDSnBf-1600-80.png",
+      "url": "/tech-news/2025-10-31/china-solves-century-old-problem-with-new-analog-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Live Science"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica",
       "description": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
       "slug": "unexpectedly-a-deer-briefly-entered-the-family-roo",
@@ -34,6 +196,42 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sora now lets you pay extra to make more AI videos - The Verge",
+      "description": "More monetization is on the way, including cuts to free AI video allowances.",
+      "slug": "sora-now-lets-you-pay-extra-to-make-more-ai-videos",
+      "publishedAt": "2025-10-31T11:16:01+00:00",
+      "date": "2025-10-31 11:16:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939746.jpg?quality=90&strip=all&crop=0%2C10.73009041629%2C100%2C78.53981916742&w=1200",
+      "url": "/tech-news/2025-10-31/sora-now-lets-you-pay-extra-to-make-more-ai-videos/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AMD Windows Driver Changes For RX 5000/6000 Series Won't Impact Linux Users - Phoronix",
+      "description": "Over the past day there have been many reports of AMD planning to no longer provide game optimizations for the Radeon RX 5000 and RX 6000 series graphics cards for their Microsoft Windows driver",
+      "slug": "amd-windows-driver-changes-for-rx-50006000-series-",
+      "publishedAt": "2025-10-31T10:51:00+00:00",
+      "date": "2025-10-31 10:51:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.phoronix.net/image.php?id=rx6800xt-windows-linux&image=rx6800xt_windows_linux",
+      "url": "/tech-news/2025-10-31/amd-windows-driver-changes-for-rx-50006000-series-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Phoronix"
       },
       "companies": [],
       "people": []
@@ -232,6 +430,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How a chorus of synchronized frequencies helps you digest your food - Phys.org",
+      "description": "Synchronization abounds in nature: from the flashing lights of fireflies to the movement of fish wriggling through the ocean, biological systems are often in rhythmic movement with each other. The mechanics of how this synchronization happens are complex.",
+      "slug": "how-a-chorus-of-synchronized-frequencies-helps-you",
+      "publishedAt": "2025-10-30T20:09:04+00:00",
+      "date": "2025-10-30 20:09:04",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/how-a-chorus-of-synchr.jpg",
+      "url": "/tech-news/2025-10-30/how-a-chorus-of-synchronized-frequencies-helps-you/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Phys.Org"
       },
       "companies": [],
       "people": []
@@ -2680,27 +2896,6 @@
       "people": []
     },
     {
-      "title": "Apple snižuje cenu MacBooku Air M4 na historické minimum 799 dolarů",
-      "description": "MacBook Air s čipem M4 a 16GB paměti se na Amazonu prodává za 799 dolarů, což je o 200 dolarů méně než původní cena a nové cenové minimum.",
-      "slug": "apple-drops-macbook-air-m4-price-yet-again-now-che",
-      "publishedAt": "2025-10-27T22:24:07+00:00",
-      "date": "2025-10-27 22:24:07",
-      "importance": 3,
-      "category": "notebooky",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple.jpg",
-      "url": "/tech-news/2025-10-27/apple-drops-macbook-air-m4-price-yet-again-now-che/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [
-        "Apple",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "iPad Pro s čipem M5 po pěti dnech používání: Vyplatil se upgrade z M4?",
       "description": "Redaktor 9to5Mac sdílí své první dojmy z nového iPad Pro s čipem M5 po upgradu z loňského modelu s M4. Zařízení přináší sedm konkrétních vylepšení.",
       "slug": "m5-ipad-pro-after-five-days-was-upgrade-from-m4-wo",
@@ -2714,26 +2909,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Recenze 14palcového MacBooku Pro (M5): Nová duše ve starém těle",
-      "description": "Čip M5 je rychlejší, ale zároveň dosahuje limitů toho, co dokáže zvládnout současný design notebooku od Apple.",
-      "slug": "A-14-inch-macbook-pro-m5-review-new-soul-in-an-old",
-      "publishedAt": "2025-10-27T21:33:12+00:00",
-      "date": "2025-10-27 21:33:12",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/macbook-pro-m5-review-01-1200x675.jpg",
-      "url": "/tech-news/2025-10-27/A-14-inch-macbook-pro-m5-review-new-soul-in-an-old/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
       },
       "companies": [
         "Apple"
@@ -2757,27 +2932,6 @@
       },
       "companies": [
         "Oura"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI vyhledávače citují méně populární zdroje než tradiční Google",
-      "description": "Výzkum ukazuje, že generativní vyhledávače jako AI Overviews nebo GPT-4o odkazují na weby, které by se v klasickém Google vyhledávání ani neobjevily v prvních 100 výsledcích.",
-      "slug": "ai-powered-search-engines-rely-on-less-popular-sou",
-      "publishedAt": "2025-10-27T20:18:05+00:00",
-      "date": "2025-10-27 20:18:05",
-      "importance": 3,
-      "category": "ai vyhledávání",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-184366155-1152x648.jpg",
-      "url": "/tech-news/2025-10-27/ai-powered-search-engines-rely-on-less-popular-sou/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "Google",
-        "OpenAI"
       ],
       "people": []
     },
@@ -3652,27 +3806,6 @@
       ]
     },
     {
-      "title": "AI ukončí éru smartphonů a možná obrazovek úplně",
-      "description": "Umělá inteligence podle analytiků postupně odstraní potřebu obrazovek a smartphonů. Místo nich budeme komunikovat s AI pomocí hlasu, nositelné elektroniky a gest.",
-      "slug": "ai-will-kill-the-smartphoneand-maybe-the-screen-en",
-      "publishedAt": "2025-10-27T10:00:00+00:00",
-      "date": "2025-10-27 10:00:00",
-      "importance": 3,
-      "category": "budoucnost ai",
-      "urlToImage": "https://media.wired.com/photos/68eeb9ff4b49cd08d2ea686b/191:100/w_1280,c_limit/AI_as_Screen-Killer_Broken-Glass.jpg",
-      "url": "/tech-news/2025-10-27/ai-will-kill-the-smartphoneand-maybe-the-screen-en/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Nemám přístup k plnému textu článku",
-        "pouze k nadpisu a popisu. Na základě poskytnutých informací:\n\nžádné"
-      ],
-      "people": []
-    },
-    {
       "title": "Rok 2025 a telefony Pixel stále nedoručují oznámení včas",
       "description": "Majitelé nového Pixel 10 hlásí výrazná zpoždění oznámení, což je dlouhodobý problém telefonů Google, který se táhne napříč generacemi.",
       "slug": "its-2025-and-pixels-still-dont-seem-to-deliver-not",
@@ -3710,154 +3843,6 @@
       "companies": [
         "Retroid"
       ],
-      "people": []
-    },
-    {
-      "title": "Nike Mind 001 v černém provedení má dorazit na začátku roku 2026",
-      "description": "Nike představilo černou variantu pantofle Mind 001, která využívá neurovědní principy pro stimulaci chodidel. Cena bude 95 dolarů.",
-      "slug": "the-neuroscience-based-nike-mind-001-appears-in-bl",
-      "publishedAt": "2025-10-26T22:53:57+00:00",
-      "date": "2025-10-26 22:53:57",
-      "importance": 2,
-      "category": "obuv",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F26%2Fnike-mind-001-black-hq4307-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-      "url": "/tech-news/2025-10-26/the-neuroscience-based-nike-mind-001-appears-in-bl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "HYPEBEAST"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "USA údajně představily kvantový průlom v ukládání energie z obnovitelných zdrojů",
-      "description": "Americký výzkum prezentuje systém tepelného úložiště s termofotovoltaickým měničem, který má dosahovat 60% účinnosti při přeměně tepla na elektřinu.",
-      "slug": "the-us-unveils-a-quantum-breakthrough-that-finally",
-      "publishedAt": "2025-10-26T22:18:00+00:00",
-      "date": "2025-10-26 22:18:00",
-      "importance": 2,
-      "category": "kvantové technologie",
-      "urlToImage": "https://carrollcountyobserver.com/wp-content/uploads/2025/10/The-US-Unveils-a-Quantum-Breakthrough-That-Finally-Solves-Renewable.jpg",
-      "url": "/tech-news/2025-10-26/the-us-unveils-a-quantum-breakthrough-that-finally/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Carrollcountyobserver.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Výhody a nevýhody tříválcových motorů",
-      "description": "Automobily s tříválcovými motory nabízejí lepší spotřebu paliva a nižší náklady na údržbu, ale mohou být méně uspokojivé při řízení a mají hrubší chod naprázdno.",
-      "slug": "the-pros-cons-of-3-cylinder-engines-jalopnik",
-      "publishedAt": "2025-10-26T21:25:00+00:00",
-      "date": "2025-10-26 21:25:00",
-      "importance": 1,
-      "category": "automobilové motory",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/the-pros-cons-of-3-cylinder-engines/l-intro-1761241834.jpg",
-      "url": "/tech-news/2025-10-26/the-pros-cons-of-3-cylinder-engines-jalopnik/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Počet doktorandských míst na amerických univerzitách klesá",
-      "description": "Americké univerzity snižují počet přijímaných doktorandů, což může ohrozit vědecký výzkum a inovace v zemi, která tradičně vychovává nejvíce Ph.D. absolventů na světě.",
-      "slug": "the-pipeline-for-phds-out-of-us-universities-is-sh",
-      "publishedAt": "2025-10-26T13:15:07+00:00",
-      "date": "2025-10-26 13:15:07",
-      "importance": 3,
-      "category": "vysoké školství",
-      "urlToImage": "https://images.axios.com/7J76Qi4ris39U4k1Ru-kats5L3M=/0x0:1920x1080/1366x768/2025/10/23/1761247076845.jpeg",
-      "url": "/tech-news/2025-10-26/the-pipeline-for-phds-out-of-us-universities-is-sh/",
-      "source": {
-        "emoji": "📡",
-        "id": "axios",
-        "name": "Axios"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejlepší AI nositelné zařízení už vlastníte - jsou to sluchátka",
-      "description": "Technologické firmy vyvíjejí nová dedikovaná AI zařízení, ale sluchátka s integrovanou umělou inteligencí mohou být efektivnějším řešením pro běžné uživatele.",
-      "slug": "the-ultimate-ai-wearable-is-a-piece-of-tech-you-al",
-      "publishedAt": "2025-10-26T12:25:00+00:00",
-      "date": "2025-10-26 12:25:00",
-      "importance": 3,
-      "category": "nositelná elektronik",
-      "urlToImage": "https://www.cnet.com/a/img/resize/4673c7e0454e8ab5450fa8607a0dff3505ec1e9f/hub/2025/10/24/d524478e-9232-4ac2-99c2-2eabb09945fd/image-6.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-26/the-ultimate-ai-wearable-is-a-piece-of-tech-you-al/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Na základě poskytnutého textu (pouze nadpisu a popisu) nemohu identifikovat žádné konkrétní technologické firmy. Text zmiňuje pouze obecné \"tech companies\" bez uvedení konkrétních názvů.\n\nžádné"
-      ],
-      "people": []
-    },
-    {
-      "title": "iPad Pro má v roce 2027 dostat parní komoru jako iPhone 17 Pro",
-      "description": "Apple údajně pracuje na parní komoře pro chlazení budoucího iPadu Pro. Firma také pokračuje v plánech na reklamy v Apple Maps a řeší problémy se skládacím iPadem.",
-      "slug": "whats-next-for-ipad-pro-a-vapor-chamber-like-the-o",
-      "publishedAt": "2025-10-26T12:00:20+00:00",
-      "date": "2025-10-26 12:00:20",
-      "importance": 2,
-      "category": "tablety",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i69e2UzyoM1A/v1/1200x800.jpg",
-      "url": "/tech-news/2025-10-26/whats-next-for-ipad-pro-a-vapor-chamber-like-the-o/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ano, vaše televize pravděpodobně má mikrofon – takto ho vypnete",
-      "description": "Chytré televize poslouchají více, než si většina lidí uvědomuje. Existuje však jednoduchý způsob, jak tuto funkci vypnout.",
-      "slug": "yes-your-tv-probably-has-a-microphone-in-it-heres-",
-      "publishedAt": "2025-10-26T11:00:00+00:00",
-      "date": "2025-10-26 11:00:00",
-      "importance": 3,
-      "category": "chytré televize",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uK8b5fuFZgu6v85a4vtH4J-2000-80.jpg",
-      "url": "/tech-news/2025-10-26/yes-your-tv-probably-has-a-microphone-in-it-heres-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Podivná soudní pře, která umístila Chevrolet Beretta do sídla firmy Beretta",
-      "description": "Příběh z roku 1988, kdy italský výrobce zbraní Beretta zažaloval General Motors za neoprávněné použití svého ochranného názvu pro model Chevrolet Beretta.",
-      "slug": "the-strange-lawsuit-that-put-a-chevy-beretta-insid",
-      "publishedAt": "2025-10-26T01:25:00+00:00",
-      "date": "2025-10-26 01:25:00",
-      "importance": 1,
-      "category": "automobilový průmysl",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg",
-      "url": "/tech-news/2025-10-26/the-strange-lawsuit-that-put-a-chevy-beretta-insid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
       "people": []
     }
   ]
