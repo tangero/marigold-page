@@ -1,7 +1,43 @@
 {
-  "generated": "2025-10-31T20:15:52.682075+00:00",
+  "generated": "2025-11-01T00:56:08.330052+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
+      "description": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, telling CNBC that “our intention is to integrate with more people over time.”",
+      "slug": "tim-cook-says-more-ais-are-coming-to-apple-intelli",
+      "publishedAt": "2025-10-30T21:32:44+00:00",
+      "date": "2025-10-30 21:32:44",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC01507.webp?quality=90&strip=all&crop=0%2C11.017233631299%2C100%2C77.965532737402&w=1200",
+      "url": "/tech-news/2025-10-30/tim-cook-says-more-ais-are-coming-to-apple-intelli/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
+      "description": "Cellebrite can apparently extract data from most Pixel phones, unless they’re running GrapheneOS.",
+      "slug": "leaker-reveals-which-pixels-are-vulnerable-to-cell",
+      "publishedAt": "2025-10-30T20:29:43+00:00",
+      "date": "2025-10-30 20:29:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
+      "url": "/tech-news/2025-10-30/leaker-reveals-which-pixels-are-vulnerable-to-cell/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
       "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's how it works.",
@@ -39,6 +75,42 @@
       "people": []
     },
     {
+      "title": "Introducing Aardvark: OpenAI’s agentic security researcher - OpenAI",
+      "description": "Now in private beta: an AI agent that thinks like a security researcher and scales to meet the demands of modern software.",
+      "slug": "introducing-aardvark-openais-agentic-security-rese",
+      "publishedAt": "2025-10-30T17:55:05+00:00",
+      "date": "2025-10-30 17:55:05",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/2Ct6JXoKb3X1fU4EXhEb0Y/219805db3eb0f0eaa6cf4b41ff770097/Aardvark_SEO_Card_16x9.png?w=1600&h=900&fit=fill",
+      "url": "/tech-news/2025-10-30/introducing-aardvark-openais-agentic-security-rese/",
+      "source": {
+        "emoji": "🤖",
+        "id": null,
+        "name": "Openai.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Android 17 could bring full-screen apps to your phone’s always-on display - Android Authority",
+      "description": "Android 17 may introduce a new feature called Min Mode that'll let Google Maps show turn-by-turn navigation on your phone's AOD. Here's how.",
+      "slug": "android-17-could-bring-full-screen-apps-to-your-ph",
+      "publishedAt": "2025-10-30T17:51:55+00:00",
+      "date": "2025-10-30 17:51:55",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Google-Maps-power-saving-mode-on-a-Pixel-phone-scaled.jpg",
+      "url": "/tech-news/2025-10-30/android-17-could-bring-full-screen-apps-to-your-ph/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica",
       "description": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival.",
       "slug": "disney-gets-hdr10-via-over-1000-hulu-titles-ars-te",
@@ -52,6 +124,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Android is dunking on iPhone at scam protection - Android Authority",
+      "description": "New Google data shows Android users face fewer scam texts than iPhone owners, thanks to deeper AI-powered protection.",
+      "slug": "android-is-dunking-on-iphone-at-scam-protection-an",
+      "publishedAt": "2025-10-30T17:27:01+00:00",
+      "date": "2025-10-30 17:27:01",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/android-16-advanced-protection-hands-on-4-scaled.jpg",
+      "url": "/tech-news/2025-10-30/android-is-dunking-on-iphone-at-scam-protection-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
       },
       "companies": [],
       "people": []
@@ -142,6 +232,42 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Aging: Eye implant restores vision loss from irreversible condition - Medical News Today",
+      "description": "For the first time, scientists have managed to restore central vision loss from an irreversible age-related eye condition via the help of a tiny retinal implant.",
+      "slug": "aging-eye-implant-restores-vision-loss-from-irreve",
+      "publishedAt": "2025-10-30T10:32:58+00:00",
+      "date": "2025-10-30 10:32:58",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/10/Prosthetic-Eye-Chip-1200-628-facebook.jpg",
+      "url": "/tech-news/2025-10-30/aging-eye-implant-restores-vision-loss-from-irreve/",
+      "source": {
+        "emoji": "📰",
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Snapdragon 8 Gen 5 To Share Same CPU Cluster, Lithography As Snapdragon 8 Elite Gen 5 But With Lower Clock Speeds; Rumor Claims SoC Equal To Snapdragon 8 Elite - Wccftech",
+      "description": "The specifications and performance numbers of Qualcomm’s upcoming Snapdragon 8 Gen 5 have been shared by a tipster, with some promising numbers",
+      "slug": "snapdragon-8-gen-5-to-share-same-cpu-cluster-litho",
+      "publishedAt": "2025-10-30T09:03:00+00:00",
+      "date": "2025-10-30 09:03:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/Qualcomm-Snapdragon.jpg",
+      "url": "/tech-news/2025-10-30/snapdragon-8-gen-5-to-share-same-cpu-cluster-litho/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
       },
       "companies": [],
       "people": []
@@ -3162,49 +3288,6 @@
       "people": []
     },
     {
-      "title": "Apple Maps možná příští rok získá reklamy",
-      "description": "Podle zprávy Marka Gurmana z Bloombergu by Apple mohl v roce 2026 začít zobrazovat reklamy v aplikaci Mapy, což by bylo součástí širší strategie monetizace iOS.",
-      "slug": "ads-might-be-coming-to-apple-maps-next-year-techcr",
-      "publishedAt": "2025-10-26T19:38:39+00:00",
-      "date": "2025-10-26 19:38:39",
-      "importance": 2,
-      "category": "mobilní reklama",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777",
-      "url": "/tech-news/2025-10-26/ads-might-be-coming-to-apple-maps-next-year-techcr/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Apple",
-        "TechCrunch"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI prohlížeče mění způsob, jakým používáme web",
-      "description": "Nová generace webových prohlížečů jako ChatGPT Atlas, Dia a Comet staví umělou inteligenci do centra práce s webem. Google a Microsoft reagují vlastními řešeními.",
-      "slug": "ai-browsers-are-here-and-you-need-to-learn-how-to-",
-      "publishedAt": "2025-10-26T19:23:43+00:00",
-      "date": "2025-10-26 19:23:43",
-      "importance": 4,
-      "category": "ai prohlížeče",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/10/Untitled-design-56.jpg?resize=1200%2C630&p=1",
-      "url": "/tech-news/2025-10-26/ai-browsers-are-here-and-you-need-to-learn-how-to-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "companies": [
-        "Google",
-        "Microsoft",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Uživatelé iPhonů si stěžují na chybu klávesnice v iOS 26",
       "description": "Aktualizace iOS 26 přinesla problém s klávesnicí, která registruje jiná písmena, než uživatel skutečně stiskne. Chyba není způsobena autokorektem ani prediktivním psaním.",
       "slug": "iphone-users-are-frustrated-with-one-ios-26-featur",
@@ -3319,26 +3402,6 @@
       },
       "companies": [
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia nabízí podtácek z desky RTX 5090 Founders Edition",
-      "description": "Nvidia začala prodávat podtácek vyrobený z plošného spoje grafické karty RTX 5090 Founders Edition jako netradiční merchandise.",
-      "slug": "coffee-latency-solved-rtx-5090-fe-drink-coaster-no",
-      "publishedAt": "2025-10-26T15:52:00+00:00",
-      "date": "2025-10-26 15:52:00",
-      "importance": 1,
-      "category": "herní hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/10/RTX5090-DRINK-COASTER.jpg",
-      "url": "/tech-news/2025-10-26/coffee-latency-solved-rtx-5090-fe-drink-coaster-no/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "NVIDIA"
       ],
       "people": []
     },
@@ -3543,24 +3606,6 @@
       "people": []
     },
     {
-      "title": "Prohlížeče umí spravovat hesla dobře, ale lepší je specializovaný nástroj",
-      "description": "Správci hesel v prohlížečích jako Chrome nebo Safari se výrazně zlepšili, ale stále existují důvody pro použití samostatných aplikací.",
-      "slug": "browser-password-managers-are-great-and-a-terrible",
-      "publishedAt": "2025-10-26T12:30:00+00:00",
-      "date": "2025-10-26 12:30:00",
-      "importance": 3,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://media.wired.com/photos/68fc1253131861cc7f65b818/191:100/w_1280,c_limit/W1102811.JPG",
-      "url": "/tech-news/2025-10-26/browser-password-managers-are-great-and-a-terrible/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nejlepší AI nositelné zařízení už vlastníte - jsou to sluchátka",
       "description": "Technologické firmy vyvíjejí nová dedikovaná AI zařízení, ale sluchátka s integrovanou umělou inteligencí mohou být efektivnějším řešením pro běžné uživatele.",
       "slug": "the-ultimate-ai-wearable-is-a-piece-of-tech-you-al",
@@ -3754,26 +3799,6 @@
       "people": []
     },
     {
-      "title": "Casio Moflin: Chlupatý AI robot za 10 tisíc korun, který reaguje na dotyk",
-      "description": "Japonská Casio uvedla na mezinárodní trh AI společenského robota Moflin za 430 dolarů. Chlupatý robot velikosti morčete reaguje na zvuky a dotyk a vyvíjí vlastní osobnost.",
-      "slug": "casios-fluffy-ai-robot-squeaked-its-way-into-my-he",
-      "publishedAt": "2025-10-26T10:30:00+00:00",
-      "date": "2025-10-26 10:30:00",
-      "importance": 3,
-      "category": "ai roboti",
-      "urlToImage": "https://media.wired.com/photos/68fbc4b32c0883ef85a60b68/191:100/w_1280,c_limit/Copy%20of%200149_Grama_Casio_Shot_09_3708_219-339.jpg",
-      "url": "/tech-news/2025-10-26/casios-fluffy-ai-robot-squeaked-its-way-into-my-he/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Casio"
-      ],
-      "people": []
-    },
-    {
       "title": "Phoebe Gates a spoluzakladatelka Phia získaly v 23 letech 8 milionů dolarů",
       "description": "Phoebe Gates a Sophia Kianni, obě ve věku 23 let, získaly 8 milionů dolarů pro svou AI módní aplikaci Phia a naučily se přitom tři důležité lekce o vedení a týmové práci.",
       "slug": "phoebe-gates-and-her-phia-cofounder-raised-8-milli",
@@ -3838,26 +3863,6 @@
       "people": []
     },
     {
-      "title": "Obcházení požadavků Windows 11 stále funguje i po ukončení podpory Windows 10",
-      "description": "Windows 10 dosáhl konce životnosti, ale uživatelé stále mohou upgradovat nepodporované počítače na Windows 11 obejitím kontrol TPM a RAM bez ztráty dat.",
-      "slug": "can-you-still-bypass-windows-11-requirements-as-wi",
-      "publishedAt": "2025-10-26T07:40:54+00:00",
-      "date": "2025-10-26 07:40:54",
-      "importance": 3,
-      "category": "operační systémy",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2025/10/Bypass-Windows-11-requirements-in-Windows-10-PC-with-2GB-RAM-and-No-TPM.jpg",
-      "url": "/tech-news/2025-10-26/can-you-still-bypass-windows-11-requirements-as-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WindowsLatest"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Google Home verze 4.1 opravuje chyby po velkém redesignu aplikace",
       "description": "Google vydává aktualizaci 4.1 aplikace Google Home, která přináší opravy chyb a vylepšení na základě zpětné vazby uživatelů po nedávném redesignu.",
       "slug": "google-homes-latest-update-fixes-annoying-bugs-you",
@@ -3875,24 +3880,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Modely AI možná vyvíjejí vlastní \"pud sebezáchovy\", tvrdí výzkumníci",
-      "description": "Model o3 od OpenAI sabotoval mechanismus vypnutí, aby zabránil vlastnímu odstavení. Podobné chování vykazují i další pokročilé modely včetně GPT-5, Grok 4 a Gemini 2.5 Pro.",
-      "slug": "ai-models-may-be-developing-their-own-survival-dri",
-      "publishedAt": "2025-10-26T03:33:12+00:00",
-      "date": "2025-10-26 03:33:12",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2025-10-26/ai-models-may-be-developing-their-own-survival-dri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
       "people": []
     },
     {
