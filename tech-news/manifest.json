@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-01T00:56:08.330052+00:00",
+  "generated": "2025-11-01T04:15:45.864207+00:00",
   "count": 200,
   "articles": [
     {
@@ -21,6 +21,24 @@
       "people": []
     },
     {
+      "title": "Google surprises Pixel users with another October update - Android Authority",
+      "description": "Google is unexpectedly releasing another October update for Pixel phones. Once again, it looks like the Pixel 6 is missing out.",
+      "slug": "google-surprises-pixel-users-with-another-october-",
+      "publishedAt": "2025-10-30T21:08:26+00:00",
+      "date": "2025-10-30 21:08:26",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-3-scaled.jpg",
+      "url": "/tech-news/2025-10-30/google-surprises-pixel-users-with-another-october-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
       "description": "Cellebrite can apparently extract data from most Pixel phones, unless they’re running GrapheneOS.",
       "slug": "leaker-reveals-which-pixels-are-vulnerable-to-cell",
@@ -34,6 +52,42 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update - Ars Technica",
+      "description": "Updated app is “free forever,” but won’t get a perpetually licensed version.",
+      "slug": "affinitys-image-editing-apps-go-freemium-in-first-",
+      "publishedAt": "2025-10-30T20:05:50+00:00",
+      "date": "2025-10-30 20:05:50",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-30-at-3.30.39-PM-1152x648-1761852764.jpeg",
+      "url": "/tech-news/2025-10-30/affinitys-image-editing-apps-go-freemium-in-first-/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google",
+      "description": "The Android XR floodgates finally cracked open this month with the debut of Samsung’s Galaxy XR headset, but glasses are...",
+      "slug": "google-shows-off-prototype-android-xr-glasses-from",
+      "publishedAt": "2025-10-30T19:15:00+00:00",
+      "date": "2025-10-30 19:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/google-android-xr-glasses-magic-leap-presentation-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/google-shows-off-prototype-android-xr-glasses-from/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
       },
       "companies": [],
       "people": []
@@ -201,6 +255,24 @@
       "people": []
     },
     {
+      "title": "WhatsApp adds passkey protection to end-to-end encrypted backups - TechCrunch",
+      "description": "This means if you lose your device, you can use methods like fingerprint, face, or the screen lock code of your previous device to access WhatsApp's backup.",
+      "slug": "whatsapp-adds-passkey-protection-to-end-to-end-enc",
+      "publishedAt": "2025-10-30T13:00:00+00:00",
+      "date": "2025-10-30 13:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/English_WhatsApp_passkey-encrypted-backups-1.jpeg?resize=1200,675",
+      "url": "/tech-news/2025-10-30/whatsapp-adds-passkey-protection-to-end-to-end-enc/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "YouTube will upgrade video and thumbnail file size limits ‘soon’ - 9to5Google",
       "description": "YouTube is preparing to support higher-quality content, including larger video upload sizes and higher file size limits for thumbnails. Alongside...",
       "slug": "youtube-will-upgrade-video-and-thumbnail-file-size",
@@ -232,6 +304,24 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Adobe just previewed some of the wildest AI tools we’ve ever seen - Creative Bloq",
+      "description": "These Adobe MAX sneaks could transform Photoshop and more.",
+      "slug": "adobe-just-previewed-some-of-the-wildest-ai-tools-",
+      "publishedAt": "2025-10-30T10:53:24+00:00",
+      "date": "2025-10-30 10:53:24",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/u3zTw4N56EV3yRNJD9JboV-1920-80.jpg",
+      "url": "/tech-news/2025-10-30/adobe-just-previewed-some-of-the-wildest-ai-tools-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Creative Bloq"
       },
       "companies": [],
       "people": []
@@ -286,6 +376,42 @@
         "emoji": "📰",
         "id": null,
         "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung teases Galaxy S26 with next-gen AI, custom chip, and new camera sensors - Android Authority",
+      "description": "Samsung just confirmed that the Galaxy S26 series will bring big AI upgrades, a new set of cameras, and a custom-built processor.",
+      "slug": "samsung-teases-galaxy-s26-with-next-gen-ai-custom-",
+      "publishedAt": "2025-10-30T03:52:38+00:00",
+      "date": "2025-10-30 03:52:38",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S26-Ultra-CAD-render-3.jpg",
+      "url": "/tech-news/2025-10-30/samsung-teases-galaxy-s26-with-next-gen-ai-custom-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "T-Mobile Will Now Force The T-Life App When Doing Payment Arrangements - The Mobile Report",
+      "description": "From October 30th, you won't be able to set up a payment arrangement through support, so you better learn your way around the T-Life app.",
+      "slug": "t-mobile-will-now-force-the-t-life-app-when-doing-",
+      "publishedAt": "2025-10-30T00:45:29+00:00",
+      "date": "2025-10-30 00:45:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://tmo.report/wp-content/uploads/2025/06/tlifefeatured3.png",
+      "url": "/tech-news/2025-10-30/t-mobile-will-now-force-the-t-life-app-when-doing-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tmo.report"
       },
       "companies": [],
       "people": []
@@ -403,6 +529,42 @@
       "people": []
     },
     {
+      "title": "NotebookLM can now be your personalized PhD advisor, marketing strategist, and more - Android Police",
+      "description": "Your assistant can now role-play",
+      "slug": "notebooklm-can-now-be-your-personalized-phd-adviso",
+      "publishedAt": "2025-10-29T21:12:00+00:00",
+      "date": "2025-10-29 21:12:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/07/notebooklm-is-best-example-of-ai.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-10-29/notebooklm-can-now-be-your-personalized-phd-adviso/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "YouTube Will Use AI to Sharpen Lower-Resolution Videos on TVs - Bloomberg.com",
+      "description": "Google’s YouTube will use artificial intelligence to improve the visual clarity of many low-resolution videos on its platform when viewed on TV screens, the web and mobile devices.",
+      "slug": "youtube-will-use-ai-to-sharpen-lower-resolution-vi",
+      "publishedAt": "2025-10-29T20:29:04+00:00",
+      "date": "2025-10-29 20:29:04",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixNoF6JcyhUA/v1/1200x800.jpg",
+      "url": "/tech-news/2025-10-29/youtube-will-use-ai-to-sharpen-lower-resolution-vi/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Google Maps vs. Waze: We Finally Know Which App Will Get You There Faster - PCMag",
       "description": "Through vast cross-country stretches or tight city streets, Google Maps and Waze guide you where you need to go—but which one is the top map app? I put them head-to-head to find out.",
       "slug": "google-maps-vs-waze-we-finally-know-which-app-will",
@@ -452,24 +614,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "YouTube Will Use AI to Sharpen Lower-Resolution Videos on TVs - Bloomberg.com",
-      "description": "Google’s YouTube will use artificial intelligence to improve the visual clarity of many low-resolution videos on its platform when viewed on TV screens, the web and mobile devices.",
-      "slug": "youtube-will-use-ai-to-sharpen-lower-resolution-vi",
-      "publishedAt": "2025-10-29T18:53:17+00:00",
-      "date": "2025-10-29 18:53:17",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixNoF6JcyhUA/v1/1200x800.jpg",
-      "url": "/tech-news/2025-10-29/youtube-will-use-ai-to-sharpen-lower-resolution-vi/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
       },
       "companies": [],
       "people": []
@@ -3173,47 +3317,6 @@
       "people": []
     },
     {
-      "title": "Govee výrazně zlevnila svou RGBIC stojací lampu, nyní stojí méně než základní žárovka Philips Hue",
-      "description": "Stojací lampa Govee RGBIC s výkonem 1000 lumenů a nezávislým ovládáním barev jednotlivých segmentů klesla na 64 dolarů, což je méně než cena jedné chytré žárovky Philips Hue.",
-      "slug": "govee-liquidates-its-rgbic-floor-lamp-now-costs-le",
-      "publishedAt": "2025-10-26T22:33:00+00:00",
-      "date": "2025-10-26 22:33:00",
-      "importance": 3,
-      "category": "chytré osvětlení",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/govee-lamp-1200x675.jpg",
-      "url": "/tech-news/2025-10-26/govee-liquidates-its-rgbic-floor-lamp-now-costs-le/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Govee",
-        "Philips"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung Galaxy TriFold údajně dorazí jen do pěti zemí",
-      "description": "Podle úniku informací bude první skládací telefon se třemi panely od Samsungu dostupný pouze v Jižní Koreji, Číně, Singapuru, Tchaj-wanu a možná SAE.",
-      "slug": "galaxy-trifold-launch-markets-revealed-and-only-a-",
-      "publishedAt": "2025-10-26T22:31:08+00:00",
-      "date": "2025-10-26 22:31:08",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175200-wide-two_1200/Galaxy-TriFold-launch-markets-revealed-and-only-a-few-made-the-cut.jpg",
-      "url": "/tech-news/2025-10-26/galaxy-trifold-launch-markets-revealed-and-only-a-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "USA údajně představily kvantový průlom v ukládání energie z obnovitelných zdrojů",
       "description": "Americký výzkum prezentuje systém tepelného úložiště s termofotovoltaickým měničem, který má dosahovat 60% účinnosti při přeměně tepla na elektřinu.",
       "slug": "the-us-unveils-a-quantum-breakthrough-that-finally",
@@ -3364,46 +3467,6 @@
       "people": [
         "David Delony"
       ]
-    },
-    {
-      "title": "Nejlepší barva Google Pixelu za poslední roky, 'Indigo', je na Watch ještě lepší [Galerie]",
-      "description": "Pokud je něco, v čem Google s Pixely vyniká, jsou to barvy. Letos je \"Indigo\" výraznou barvou, dokonce...",
-      "slug": "google-pixels-best-color-in-years-indigo-is-even-b",
-      "publishedAt": "2025-10-26T16:05:53+00:00",
-      "date": "2025-10-26 16:05:53",
-      "importance": 3,
-      "category": "mobilní zařízení",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-10-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-26/google-pixels-best-color-in-years-indigo-is-even-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zorin OS jako náhrada Windows 10 pro starší počítače",
-      "description": "Linuxová distribuce Zorin OS nabízí rozhraní podobné Windows a funguje na starších počítačích, které nesplňují požadavky Windows 11.",
-      "slug": "forget-linux-mint-this-is-the-windows-alternative-",
-      "publishedAt": "2025-10-26T16:00:00+00:00",
-      "date": "2025-10-26 16:00:00",
-      "importance": 3,
-      "category": "operační systémy",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/zorin-os-16-released.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-26/forget-linux-mint-this-is-the-windows-alternative-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MakeUseOf"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
     },
     {
       "title": "YouTuber testoval opravu iPhonu s náhradním dílem z Temu za 23 dolarů",
@@ -3588,24 +3651,6 @@
       "people": []
     },
     {
-      "title": "Dietologové doporučují ženám nad 40 let vést záznam jídla pro hubnutí",
-      "description": "Odborníci na výživu označují vedení záznamu stravy za nejlepší návyk pro hubnutí u žen nad 40 let. Pomáhá kontrolovat porce a udržet motivaci.",
-      "slug": "dietitians-reveal-the-habit-women-over-40-should-b",
-      "publishedAt": "2025-10-26T12:30:00+00:00",
-      "date": "2025-10-26 12:30:00",
-      "importance": 1,
-      "category": "zdraví",
-      "urlToImage": "https://www.eatingwell.com/thmb/cx-iocZP3cXljlOD8cpgRBh_vUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dietitians-Reveal-the-Habit-Women-Over-40-Should-Be-Doing-to-Lose-Weight-39e20c73699848e788e8d4216050e41d.jpg",
-      "url": "/tech-news/2025-10-26/dietitians-reveal-the-habit-women-over-40-should-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nejlepší AI nositelné zařízení už vlastníte - jsou to sluchátka",
       "description": "Technologické firmy vyvíjejí nová dedikovaná AI zařízení, ale sluchátka s integrovanou umělou inteligencí mohou být efektivnějším řešením pro běžné uživatele.",
       "slug": "the-ultimate-ai-wearable-is-a-piece-of-tech-you-al",
@@ -3684,24 +3729,6 @@
       "people": []
     },
     {
-      "title": "Projekt ALBATOR chce odstraňovat vesmírný odpad pomocí iontových paprsků",
-      "description": "Evropský projekt za 3,9 milionu eur zkoumá bezkontaktní metodu odstraňování vesmírného odpadu pomocí iontových paprsků, která by mohla chránit satelity a vesmírné stanice před kolizemi.",
-      "slug": "could-we-blast-space-debris-out-of-harms-way-with-",
-      "publishedAt": "2025-10-26T12:00:00+00:00",
-      "date": "2025-10-26 12:00:00",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cHWMMustMzSX27j2nkdWhM-1280-80.jpg",
-      "url": "/tech-news/2025-10-26/could-we-blast-space-debris-out-of-harms-way-with-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč jsem na Androidu přešel z Chrome na Vivaldi a už se nevrátím",
       "description": "Vivaldi nabízí na Androidu pokročilé možnosti přizpůsobení a funkce, které Chrome postrádá. Autor článku vysvětluje, proč tento prohlížeč upřednostňuje před konkurencí.",
       "slug": "i-swapped-chrome-for-vivaldi-on-android-and-now-i-",
@@ -3717,27 +3744,6 @@
         "name": "Android Police"
       },
       "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vývojáři mohou nyní tvořit aplikace pro Android v jazyce Swift od Apple",
-      "description": "Apple oficiálně vydal první preview verzi Swift SDK pro Android, což umožňuje vývojářům vytvářet aplikace pro Android pomocí programovacího jazyka Swift a sdílet kód mezi iOS a Androidem.",
-      "slug": "developers-can-now-make-android-apps-with-apples-s",
-      "publishedAt": "2025-10-26T11:23:52+00:00",
-      "date": "2025-10-26 11:23:52",
-      "importance": 4,
-      "category": "programování",
-      "urlToImage": "https://images.macrumors.com/t/V3iYMSg1je82t9Xn22bktQn4hQE=/1600x/article-new/2025/10/swift-for-android.jpg",
-      "url": "/tech-news/2025-10-26/developers-can-now-make-android-apps-with-apples-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
         "Google"
       ],
       "people": []
@@ -3859,26 +3865,6 @@
       },
       "companies": [
         "Android Authority"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Home verze 4.1 opravuje chyby po velkém redesignu aplikace",
-      "description": "Google vydává aktualizaci 4.1 aplikace Google Home, která přináší opravy chyb a vylepšení na základě zpětné vazby uživatelů po nedávném redesignu.",
-      "slug": "google-homes-latest-update-fixes-annoying-bugs-you",
-      "publishedAt": "2025-10-26T05:48:19+00:00",
-      "date": "2025-10-26 05:48:19",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg",
-      "url": "/tech-news/2025-10-26/google-homes-latest-update-fixes-annoying-bugs-you/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
