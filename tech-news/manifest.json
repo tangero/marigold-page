@@ -1,7 +1,43 @@
 {
-  "generated": "2025-11-01T08:15:57.494407+00:00",
+  "generated": "2025-11-01T12:21:13.122424+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google drops a surprise late-October 2025 update for Pixels - Android Police",
+      "description": "And it's all about performance improvements",
+      "slug": "google-drops-a-surprise-late-october-2025-update-f",
+      "publishedAt": "2025-10-31T03:41:00+00:00",
+      "date": "2025-10-31 03:41:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-xl-camera-visor-1.JPG?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-10-31/google-drops-a-surprise-late-october-2025-update-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "WhatsApp now testing an Apple Watch companion app - 9to5Mac",
+      "description": "Meta has released a WhatsApp TestFlight build with a long-awaited feature for Apple Watch users. Here are the details.",
+      "slug": "whatsapp-now-testing-an-apple-watch-companion-app-",
+      "publishedAt": "2025-10-31T01:01:00+00:00",
+      "date": "2025-10-31 01:01:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/WhatsApp-security-concerns-see-app-banned-in-Congress-iMessage-recommended.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/whatsapp-now-testing-an-apple-watch-companion-app-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "New Google Pixel October 2025 update rolling out with ‘performance improvements’ - 9to5Google",
       "description": "Google today released new October builds for the Pixel 7-10 series, with Verizon shedding some light on what this update brings.",
@@ -52,6 +88,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "New court document reveals payment details between Jon Prosser and Michael Ramacciotti - 9to5Mac",
+      "description": "Following a couple of deadline extensions, Michael Ramacciotti’s lawyer sent in his answer to Apple’s complaint in the Jon Prosser case.",
+      "slug": "new-court-document-reveals-payment-details-between",
+      "publishedAt": "2025-10-30T20:44:00+00:00",
+      "date": "2025-10-30 20:44:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/new-court-document-reveals-payment-details-between/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
       },
       "companies": [],
       "people": []
@@ -147,6 +201,24 @@
       "people": []
     },
     {
+      "title": "Android 17 could bring full-screen apps to your phone’s always-on display - Android Authority",
+      "description": "Android 17 may introduce a new feature called Min Mode that'll let Google Maps show turn-by-turn navigation on your phone's AOD. Here's how.",
+      "slug": "android-17-could-bring-full-screen-apps-to-your-ph",
+      "publishedAt": "2025-10-30T18:07:22+00:00",
+      "date": "2025-10-30 18:07:22",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Google-Maps-power-saving-mode-on-a-Pixel-phone-scaled.jpg",
+      "url": "/tech-news/2025-10-30/android-17-could-bring-full-screen-apps-to-your-ph/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
       "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's how it works.",
       "slug": "openai-unveils-aardvark-a-gpt-5-powered-agent-for-",
@@ -196,24 +268,6 @@
         "emoji": "🤖",
         "id": null,
         "name": "Openai.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Android 17 could bring full-screen apps to your phone’s always-on display - Android Authority",
-      "description": "Android 17 may introduce a new feature called Min Mode that'll let Google Maps show turn-by-turn navigation on your phone's AOD. Here's how.",
-      "slug": "android-17-could-bring-full-screen-apps-to-your-ph",
-      "publishedAt": "2025-10-30T17:51:55+00:00",
-      "date": "2025-10-30 17:51:55",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Google-Maps-power-saving-mode-on-a-Pixel-phone-scaled.jpg",
-      "url": "/tech-news/2025-10-30/android-17-could-bring-full-screen-apps-to-your-ph/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
       },
       "companies": [],
       "people": []
@@ -300,6 +354,24 @@
       "category": "tech",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/T-Mobile_New_Logo_Primary_RGB_W-on-M.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-10-30/t-mobiles-emergency-payments-system-is-going-onlin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Play now allows Android apps to use other billing systems in the US - 9to5Google",
+      "description": "Following a court ruling, Google has been forced to open up the Play Store in the US to allow Android...",
+      "slug": "google-play-now-allows-android-apps-to-use-other-b",
+      "publishedAt": "2025-10-30T15:30:00+00:00",
+      "date": "2025-10-30 15:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/google-play-now-allows-android-apps-to-use-other-b/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -484,6 +556,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Wccftech"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Android 16 QPR2 Beta 3.2 lands with long-awaited lock screen bug fix - Android Police",
+      "description": "Another minor beta update",
+      "slug": "android-16-qpr2-beta-32-lands-with-long-awaited-lo",
+      "publishedAt": "2025-10-30T04:57:00+00:00",
+      "date": "2025-10-30 04:57:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/android-16-qpr1-notifications-unread.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-10-30/android-16-qpr2-beta-32-lands-with-long-awaited-lo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
       },
       "companies": [],
       "people": []
@@ -686,6 +776,42 @@
         "emoji": "💹",
         "id": "bloomberg",
         "name": "Bloomberg"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple could solve my biggest problem with the iPad mini - 9to5Mac",
+      "description": "A new iPad mini is in the works, and it could finally solve one of my biggest problems with the device. Here's how.",
+      "slug": "apple-could-solve-my-biggest-problem-with-the-ipad",
+      "publishedAt": "2025-10-29T20:27:00+00:00",
+      "date": "2025-10-29 20:27:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/iPad-mini-6-overhead-view.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-29/apple-could-solve-my-biggest-problem-with-the-ipad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Windows 11 KB5067036 issue, Task Manager won’t close and duplicates, may hurt performance - Windows Latest",
+      "description": "Windows 11 KB5067036 has a strange bug that causes the Task Manager instance to duplicate every time it is closed.",
+      "slug": "windows-11-kb5067036-issue-task-manager-wont-close",
+      "publishedAt": "2025-10-29T20:17:56+00:00",
+      "date": "2025-10-29 20:17:56",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2025/10/Windows-11-KB5067036-Task-Manager-issue.jpg",
+      "url": "/tech-news/2025-10-29/windows-11-kb5067036-issue-task-manager-wont-close/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WindowsLatest"
       },
       "companies": [],
       "people": []
@@ -3535,47 +3661,6 @@
       "people": []
     },
     {
-      "title": "Matematika bez stresu: Vytvoření superkalkultoru v Pythonu",
-      "description": "David Delony vytvořil v Pythonu nástroj podobný Wolfram Mathematica pro symbolickou matematiku a statistickou analýzu. Systém kombinuje knihovny SymPy, NumPy, pandas a další pro pokročilé matematické výpočty.",
-      "slug": "making-math-less-stressful-with-a-python-super-cal",
-      "publishedAt": "2025-10-26T17:00:00+00:00",
-      "date": "2025-10-26 17:00:00",
-      "importance": 3,
-      "category": "programování",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/tips_vs_bill_regression-banner.jpg",
-      "url": "/tech-news/2025-10-26/making-math-less-stressful-with-a-python-super-cal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hackaday"
-      },
-      "companies": [],
-      "people": [
-        "David Delony"
-      ]
-    },
-    {
-      "title": "YouTuber testoval opravu iPhonu s náhradním dílem z Temu za 23 dolarů",
-      "description": "Tvůrce opravářských videí MimFix vyzkoušel levnou náhradní obrazovku z čínského e-shopu Temu na iPhone XR. Displej sice fungoval, ale kvalita byla výrazně horší než originál.",
-      "slug": "man-buys-replacement-part-for-his-broken-iphone-fr",
-      "publishedAt": "2025-10-26T15:27:00+00:00",
-      "date": "2025-10-26 15:27:00",
-      "importance": 2,
-      "category": "opravy telefonů",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/broken-iphone.webp",
-      "url": "/tech-news/2025-10-26/man-buys-replacement-part-for-his-broken-iphone-fr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Supercarblondie.com"
-      },
-      "companies": [
-        "Apple",
-        "Temu"
-      ],
-      "people": []
-    },
-    {
       "title": "Opravář označil NVIDIA RTX 5090 Founders Edition za jeden z \"nejhorších designů vůbec\"",
       "description": "Poškozená grafická karta NVIDIA RTX 5090 Founders Edition nemohla být opravena kvůli snadno poškoditelnému konektoru, pro který neexistují náhradní díly.",
       "slug": "pc-repair-specialist-calls-nvidia-rtx-5090-founder",
@@ -3633,26 +3718,6 @@
       },
       "companies": [
         "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "NVIDIA připravuje ovladač Nova na GPU éry Rubin s podporou registrů BOOT42",
-      "description": "NVIDIA začala publikovat záplaty pro open-source ovladač Nova s podporou příští generace GPU architektur, včetně nových registrů BOOT42.",
-      "slug": "nvidia-nova-driver-prepares-for-rubin-era-gpus-wit",
-      "publishedAt": "2025-10-26T13:38:00+00:00",
-      "date": "2025-10-26 13:38:00",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/03/RUBIN-ULTRA-HERO.jpg",
-      "url": "/tech-news/2025-10-26/nvidia-nova-driver-prepares-for-rubin-era-gpus-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "NVIDIA"
       ],
       "people": []
     },
@@ -3733,46 +3798,6 @@
       "people": []
     },
     {
-      "title": "Oblíbená elektronická čtečka Palma 2 Pro dostala velkou aktualizaci",
-      "description": "Boox Palma 2 Pro, kompaktní e-reader ve formátu telefonu, získal významnou softwarovou aktualizaci. Článek přináší také přehled dalších technologických novinek včetně prohlížeče ChatGPT Atlas.",
-      "slug": "my-favorite-e-reader-just-got-a-big-update-the-ver",
-      "publishedAt": "2025-10-26T12:00:00+00:00",
-      "date": "2025-10-26 12:00:00",
-      "importance": 3,
-      "category": "elektronické čtečky",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-103.png?quality=90&strip=all&crop=0%2C10.71068615821%2C100%2C78.578627683581&w=1200",
-      "url": "/tech-news/2025-10-26/my-favorite-e-reader-just-got-a-big-update-the-ver/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Skrytá funkce Samsungu: gesta klepnutím na zadní stranu telefonu",
-      "description": "Telefony Samsung Galaxy umožňují pomocí aplikace Good Lock nastavit gesta aktivovaná poklepáním na zadní stranu zařízení, podobně jako iPhony a Pixely.",
-      "slug": "most-people-dont-know-it-exists-but-this-samsung-t",
-      "publishedAt": "2025-10-26T11:01:00+00:00",
-      "date": "2025-10-26 11:01:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/01/samsung-galaxy-s25-in-navy-in-hand.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-26/most-people-dont-know-it-exists-but-this-samsung-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MakeUseOf"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "Ano, vaše televize pravděpodobně má mikrofon – takto ho vypnete",
       "description": "Chytré televize poslouchají více, než si většina lidí uvědomuje. Existuje však jednoduchý způsob, jak tuto funkci vypnout.",
       "slug": "yes-your-tv-probably-has-a-microphone-in-it-heres-",
@@ -3786,24 +3811,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Tom's Guide"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chytrý vysavač tajně odesílal detailní mapu domu výrobci",
-      "description": "Programátor zjistil, že jeho robotický vysavač iLife A11 nepřetržitě odesílal 3D mapu jeho domu a telemetrická data na servery výrobce bez souhlasu uživatele.",
-      "slug": "man-alarmed-to-discover-his-smart-vacuum-was-broad",
-      "publishedAt": "2025-10-26T10:45:00+00:00",
-      "date": "2025-10-26 10:45:00",
-      "importance": 3,
-      "category": "soukromí dat",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/robot-vacuum-broadcasting.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-10-26/man-alarmed-to-discover-his-smart-vacuum-was-broad/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
       },
       "companies": [],
       "people": []
@@ -3830,26 +3837,6 @@
         "Phoebe Gates",
         "Sophia Kianni"
       ]
-    },
-    {
-      "title": "Vlastní vyhledávací zkratky v prohlížeči: skrytá funkce pro zvýšení produktivity",
-      "description": "Vestavěná funkce vlastních vyhledávacích zkratek umožňuje spouštět vyhledávání na konkrétních webech přímo z adresního řádku pomocí textových příkazů.",
-      "slug": "my-browsers-best-productivity-hack-was-hiding-righ",
-      "publishedAt": "2025-10-26T08:57:07+00:00",
-      "date": "2025-10-26 08:57:07",
-      "importance": 3,
-      "category": "webové prohlížeče",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/brave-browser-on-a-laptop-with-custom-search-engines-and-shortcuts-scaled.jpg",
-      "url": "/tech-news/2025-10-26/my-browsers-best-productivity-hack-was-hiding-righ/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Android Authority"
-      ],
-      "people": []
     },
     {
       "title": "Podivná soudní pře, která umístila Chevrolet Beretta do sídla firmy Beretta",

@@ -1,14 +1,14 @@
 ---
 author: Marisa Aigen
 category: tech
-date: '2025-10-30 17:51:55'
+date: '2025-10-30 18:07:22'
 description: Android 17 may introduce a new feature called Min Mode that'll let Google
   Maps show turn-by-turn navigation on your phone's AOD. Here's how.
 importance: 4
 layout: tech_news_article
 original_title: Android 17 could bring full-screen apps to your phone’s always-on
   display - Android Authority
-publishedAt: '2025-10-30T17:51:55+00:00'
+publishedAt: '2025-10-30T18:07:22+00:00'
 slug: android-17-could-bring-full-screen-apps-to-your-ph
 source:
   emoji: 📰
