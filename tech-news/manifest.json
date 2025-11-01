@@ -1,7 +1,25 @@
 {
-  "generated": "2025-11-01T04:15:45.864207+00:00",
+  "generated": "2025-11-01T08:15:57.494407+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "New Google Pixel October 2025 update rolling out with ‘performance improvements’ - 9to5Google",
+      "description": "Google today released new October builds for the Pixel 7-10 series, with Verizon shedding some light on what this update brings.",
+      "slug": "new-google-pixel-october-2025-update-rolling-out-w",
+      "publishedAt": "2025-10-31T00:20:00+00:00",
+      "date": "2025-10-31 00:20:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-6-family-with-Pixel-10-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/new-google-pixel-october-2025-update-rolling-out-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
       "description": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, telling CNBC that “our intention is to integrate with more people over time.”",
@@ -75,6 +93,24 @@
       "people": []
     },
     {
+      "title": "I Didn’t Expect to Like Nike’s Wildly Futuristic Robotic Shoes. Then I Tried Them - Gear Patrol",
+      "description": "Unlike a super shoe, Project Amplify isn't about making people quicker. But I'll be damned if it isn't fun to run fast.",
+      "slug": "i-didnt-expect-to-like-nikes-wildly-futuristic-rob",
+      "publishedAt": "2025-10-30T19:29:35+00:00",
+      "date": "2025-10-30 19:29:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/nike-project-amplify-gear-patrol-1_19e848.webp",
+      "url": "/tech-news/2025-10-30/i-didnt-expect-to-like-nikes-wildly-futuristic-rob/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gear Patrol"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google",
       "description": "The Android XR floodgates finally cracked open this month with the debut of Samsung’s Galaxy XR headset, but glasses are...",
       "slug": "google-shows-off-prototype-android-xr-glasses-from",
@@ -88,6 +124,24 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "iOS 26 leak co-defendant says Jon Prosser paid him $650 - The Verge",
+      "description": "Michael Ramacciotti, who is being sued by Apple for allegedly stealing trade secrets, says Jon Prosser paid him $650 after he showed Prosser iOS 26 features.",
+      "slug": "ios-26-leak-co-defendant-says-jon-prosser-paid-him",
+      "publishedAt": "2025-10-30T18:58:22+00:00",
+      "date": "2025-10-30 18:58:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/videoframe_37296.png?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+      "url": "/tech-news/2025-10-30/ios-26-leak-co-defendant-says-jon-prosser-paid-him/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
       },
       "companies": [],
       "people": []
@@ -237,6 +291,24 @@
       "people": []
     },
     {
+      "title": "T-Mobile’s emergency payments system is going online-only - 9to5Google",
+      "description": "Users who need to take advantage of T-Mobile’s payment arrangements in uncertain times will need to do it all in...",
+      "slug": "t-mobiles-emergency-payments-system-is-going-onlin",
+      "publishedAt": "2025-10-30T15:43:00+00:00",
+      "date": "2025-10-30 15:43:00",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/T-Mobile_New_Logo_Primary_RGB_W-on-M.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/t-mobiles-emergency-payments-system-is-going-onlin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
       "description": "The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.",
       "slug": "someone-snuck-into-a-cellebrite-microsoft-teams-ca",
@@ -250,6 +322,42 @@
         "emoji": "📰",
         "id": null,
         "name": "404media.co"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple 16-inch 24GB M4 Pro MacBook Pro at $545 off open-box, or $310 off brand new - 9to5Toys",
+      "description": "Yesterday we featured a notable open-box deal on the 14-inch M4 Pro MacBook Pro with 24GB of RAM at nearly...",
+      "slug": "apple-16-inch-24gb-m4-pro-macbook-pro-at-545-off-o",
+      "publishedAt": "2025-10-30T13:13:00+00:00",
+      "date": "2025-10-30 13:13:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/10/M4-MacBook-Pro-pre-order-deals.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-30/apple-16-inch-24gb-m4-pro-macbook-pro-at-545-off-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "WhatsApp can now use passkeys to secure your backups - The Verge",
+      "description": "WhatsApp is launching passkey-encrypted backups for iOS and Android that can protect stored messages using your face, fingerprint, or device screen lock code.",
+      "slug": "whatsapp-can-now-use-passkeys-to-secure-your-backu",
+      "publishedAt": "2025-10-30T13:00:00+00:00",
+      "date": "2025-10-30 13:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/English_WhatsApp_passkey-encrypted-backups-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "url": "/tech-news/2025-10-30/whatsapp-can-now-use-passkeys-to-secure-your-backu/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
       },
       "companies": [],
       "people": []
@@ -304,6 +412,24 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AMD disables USB-C power on Radeon RX 7900, moves RDNA2/RDNA1 GPUs to sub-branch in latest driver - VideoCardz.com",
+      "description": "AMD Radeon RX 7900 reference cards lose USB-C power delivery Update: AMD has now confirmed the RX 6000 and RX 5000 series will enter ‘maintenance mode,’ which means a lack of day-1 game optimizations.  Yesterday, AMD released a new graphics driver for its Rad…",
+      "slug": "amd-disables-usb-c-power-on-radeon-rx-7900-moves-r",
+      "publishedAt": "2025-10-30T11:30:00+00:00",
+      "date": "2025-10-30 11:30:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/10/AMD-RADEON-7900-USBC-POWER-HERO.jpg",
+      "url": "/tech-news/2025-10-30/amd-disables-usb-c-power-on-radeon-rx-7900-moves-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
       },
       "companies": [],
       "people": []
@@ -3371,46 +3497,6 @@
       "people": []
     },
     {
-      "title": "Jak aktivovat všechny nové funkce ve Windows 11 verze 25H2 a 24H2",
-      "description": "Microsoft nedávno vydal řadu nových funkcí pro Windows 11 verze 25H2 a 24H2. Přestože se zavádějí postupně, lze je aktivovat okamžitě pomocí speciálního nástroje.",
-      "slug": "how-to-enable-all-new-features-in-windows-11-versi",
-      "publishedAt": "2025-10-26T21:16:00+00:00",
-      "date": "2025-10-26 21:16:00",
-      "importance": 3,
-      "category": "operační systémy",
-      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/09/1759249181_windows_11_25h2_story.webp",
-      "url": "/tech-news/2025-10-26/how-to-enable-all-new-features-in-windows-11-versi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Neowin"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uživatelé iPhonů si stěžují na chybu klávesnice v iOS 26",
-      "description": "Aktualizace iOS 26 přinesla problém s klávesnicí, která registruje jiná písmena, než uživatel skutečně stiskne. Chyba není způsobena autokorektem ani prediktivním psaním.",
-      "slug": "iphone-users-are-frustrated-with-one-ios-26-featur",
-      "publishedAt": "2025-10-26T18:17:00+00:00",
-      "date": "2025-10-26 18:17:00",
-      "importance": 3,
-      "category": "mobilní operační sys",
-      "urlToImage": "https://www.bgr.com/img/gallery/iphone-users-are-frustrated-with-one-ios-26-feature/l-intro-1761347933.jpg",
-      "url": "/tech-news/2025-10-26/iphone-users-are-frustrated-with-one-ios-26-featur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "PowerWash Simulator 2 potřebuje vylepšit kooperativní režim",
       "description": "Kooperativní multiplayer v PowerWash Simulator 2 je funkční, ale podle recenzentů by si zasloužil další vylepšení.",
       "slug": "powerwash-simulator-2s-co-op-multiplayer-needs-a-t",
@@ -3486,26 +3572,6 @@
       "companies": [
         "Apple",
         "Temu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Houby jako živé počítače: Vědci vytvořili paměťové obvody z hub shiitake",
-      "description": "Výzkumníci z Ohio State University dokázali, že jedlé houby mohou fungovat jako organické paměťové komponenty, které napodobují neuronální aktivitu při minimální spotřebě energie.",
-      "slug": "living-computers-powered-by-mushrooms-science-dail",
-      "publishedAt": "2025-10-26T15:07:02+00:00",
-      "date": "2025-10-26 15:07:02",
-      "importance": 3,
-      "category": "bioelektronika",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/living-computer-powered-by-mushrooms.webp",
-      "url": "/tech-news/2025-10-26/living-computers-powered-by-mushrooms-science-dail/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Science Daily"
-      },
-      "companies": [
-        "Ohio State"
       ],
       "people": []
     },
@@ -3609,48 +3675,6 @@
       "people": []
     },
     {
-      "title": "Ken Thompson vzpomíná na bouřlivé začátky Unixu a kutilství v Bell Labs",
-      "description": "Spoluvynálezce Unixu Ken Thompson vzpomíná na atmosféru v Bell Labs, kde vznikl Unix v duchu otevřené hry a experimentování.",
-      "slug": "ken-thompson-recalls-unixs-rowdy-lock-picking-orig",
-      "publishedAt": "2025-10-26T13:06:09+00:00",
-      "date": "2025-10-26 13:06:09",
-      "importance": 3,
-      "category": "historie informatiky",
-      "urlToImage": "https://cdn.thenewstack.io/media/2025/11/91ab99cb-ken-thompson-2024-screenshot-from-computer-history-museum-acm-oral-history.png",
-      "url": "/tech-news/2025-10-26/ken-thompson-recalls-unixs-rowdy-lock-picking-orig/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thenewstack.io"
-      },
-      "companies": [
-        "Bell Labs"
-      ],
-      "people": [
-        "Ken Thompson"
-      ]
-    },
-    {
-      "title": "Magic Cue může být nejužitečnější funkcí Pixelu 10. Jak ji používat",
-      "description": "Funkce Magic Cue využívá AI k automatickému zobrazení relevantních informací o letech, rezervacích či fotografiích přímo v hovorech a zprávách, takže je nemusíte hledat.",
-      "slug": "magic-cue-might-be-pixel-10s-most-helpful-feature-",
-      "publishedAt": "2025-10-26T13:00:00+00:00",
-      "date": "2025-10-26 13:00:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.cnet.com/a/img/resize/208ec79a0c560255ff9f9f7a189855bd9cc5676d/hub/2025/10/24/7e9dae82-7814-43ce-a3a7-bae43710e07c/image-27.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-26/magic-cue-might-be-pixel-10s-most-helpful-feature-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Nejlepší AI nositelné zařízení už vlastníte - jsou to sluchátka",
       "description": "Technologické firmy vyvíjejí nová dedikovaná AI zařízení, ale sluchátka s integrovanou umělou inteligencí mohou být efektivnějším řešením pro běžné uživatele.",
       "slug": "the-ultimate-ai-wearable-is-a-piece-of-tech-you-al",
@@ -3725,26 +3749,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč jsem na Androidu přešel z Chrome na Vivaldi a už se nevrátím",
-      "description": "Vivaldi nabízí na Androidu pokročilé možnosti přizpůsobení a funkce, které Chrome postrádá. Autor článku vysvětluje, proč tento prohlížeč upřednostňuje před konkurencí.",
-      "slug": "i-swapped-chrome-for-vivaldi-on-android-and-now-i-",
-      "publishedAt": "2025-10-26T11:45:00+00:00",
-      "date": "2025-10-26 11:45:00",
-      "importance": 3,
-      "category": "mobilní prohlížeče",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/chrome-vs-vivaldi-android.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-26/i-swapped-chrome-for-vivaldi-on-android-and-now-i-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -3826,27 +3830,6 @@
         "Phoebe Gates",
         "Sophia Kianni"
       ]
-    },
-    {
-      "title": "Úniky o Galaxy S26 naznačují zklamání, autor doporučuje Vivo X300",
-      "description": "Spekulace o základním modelu Galaxy S26 ukazují na absenci výraznějších vylepšení. Autor článku místo něj doporučuje kompaktní Vivo X300.",
-      "slug": "if-the-galaxy-s26-leaks-are-true-id-tell-small-pho",
-      "publishedAt": "2025-10-26T09:04:19+00:00",
-      "date": "2025-10-26 09:04:19",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/vivo-X300-in-hand.jpg",
-      "url": "/tech-news/2025-10-26/if-the-galaxy-s26-leaks-are-true-id-tell-small-pho/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Samsung",
-        "Android Authority"
-      ],
-      "people": []
     },
     {
       "title": "Vlastní vyhledávací zkratky v prohlížeči: skrytá funkce pro zvýšení produktivity",
