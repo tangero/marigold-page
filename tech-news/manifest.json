@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-02T04:18:21.881338+00:00",
+  "generated": "2025-11-02T08:15:45.827091+00:00",
   "count": 200,
   "articles": [
     {
@@ -201,6 +201,24 @@
       "people": []
     },
     {
+      "title": "Elon Musk on data centers in orbit: “SpaceX will be doing this” - Ars Technica",
+      "description": "“We could see another transformation of what’s done in space.”…",
+      "slug": "elon-musk-on-data-centers-in-orbit-spacex-will-be-",
+      "publishedAt": "2025-10-31T16:40:56+00:00",
+      "date": "2025-10-31 16:40:56",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-comparison-1152x648.jpg",
+      "url": "/tech-news/2025-10-31/elon-musk-on-data-centers-in-orbit-spacex-will-be-/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager - Ars Technica",
       "description": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
       "slug": "closing-windows-11s-task-manager-accidentally-open",
@@ -214,6 +232,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys",
+      "description": "As part of its now live early Black Friday sale, Best Buy is offering a handful of Lenovo Android tablets...",
+      "slug": "lenovos-budget-friendly-2025-idea-tab-plus-android",
+      "publishedAt": "2025-10-31T16:03:00+00:00",
+      "date": "2025-10-31 16:03:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/lenovos-budget-friendly-2025-idea-tab-plus-android/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
       },
       "companies": [],
       "people": []
@@ -3694,24 +3730,6 @@
       "people": []
     },
     {
-      "title": "Jak daleko byste šli pro prsa? Rekonstrukce po rakovině prsu",
-      "description": "Osobní příběh pacientky s rakovinou prsu o bolestivé a komplikované rekonstrukci prsou po mastektomii.",
-      "slug": "how-far-would-you-go-for-a-breast-the-cut",
-      "publishedAt": "2025-10-27T11:00:41+00:00",
-      "date": "2025-10-27 11:00:41",
-      "importance": 1,
-      "category": "zdraví",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/308/207/34cf428ec70916623574b9dcc262dd0561-breast-reconstruction-lede.1x.rsocial.w1200.jpg",
-      "url": "/tech-news/2025-10-27/how-far-would-you-go-for-a-breast-the-cut/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Cut"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "iPhone 18 Pro by mohl získat proměnlivou clonu jako zrcadlovky",
       "description": "Podle čínských zdrojů z dodavatelského řetězce Apple plánuje vybavit iPhone 18 Pro proměnlivou clonou objektivu, což by uživatelům umožnilo manuální kontrolu nad hloubkou ostrosti.",
       "slug": "iphone-18-pro-could-gain-dslr-camera-style-apertur",
@@ -3748,26 +3766,6 @@
       },
       "companies": [
         "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung začne zobrazovat reklamy na chytrých lednicích za 50 000 Kč",
-      "description": "Od listopadu se na displejích chytrých lednic Samsung Family Hub objeví nový widget s rotujícími reklamami. Uživatelé mohou funkci vypnout.",
-      "slug": "heres-what-ads-on-your-2000-samsung-smart-fridge-w",
-      "publishedAt": "2025-10-27T10:00:00+00:00",
-      "date": "2025-10-27 10:00:00",
-      "importance": 3,
-      "category": "chytré spotřebiče",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Widget-Pilot-Image-Ad.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "url": "/tech-news/2025-10-27/heres-what-ads-on-your-2000-samsung-smart-fridge-w/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Samsung"
       ],
       "people": []
     },
