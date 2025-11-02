@@ -1,7 +1,43 @@
 {
-  "generated": "2025-11-02T00:57:29.426706+00:00",
+  "generated": "2025-11-02T04:18:21.881338+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Houses without lounges are a reality for renters - BBC",
+      "description": "Nearly a third of homes advertised on a property sharing website had no living room.",
+      "slug": "houses-without-lounges-are-a-reality-for-renters-b",
+      "publishedAt": "2025-11-01T01:02:51+00:00",
+      "date": "2025-11-01 01:02:51",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce32/live/5b113cc0-b684-11f0-b2a1-6f537f66f9aa.jpg",
+      "url": "/tech-news/2025-11-01/houses-without-lounges-are-a-reality-for-renters-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "YouTube denies AI was involved with odd removals of tech tutorials - Ars Technica",
+      "description": "YouTubers suspect AI is bizarrely removing popular video explainers.",
+      "slug": "youtube-denies-ai-was-involved-with-odd-removals-o",
+      "publishedAt": "2025-11-01T00:32:01+00:00",
+      "date": "2025-11-01 00:32:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg",
+      "url": "/tech-news/2025-11-01/youtube-denies-ai-was-involved-with-odd-removals-o/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "iOS 26.1 Brings Back 2007 Feature in New Way - MacRumors",
       "description": "The upcoming iOS 26.1 update includes a small but helpful change for iPhones, and it could prevent you from running late to something important.  ...",
@@ -21,6 +57,24 @@
       "people": []
     },
     {
+      "title": "My top Apple Music upgrade in iOS 26 has a hidden feature I love - 9to5Mac",
+      "description": "Apple Music in iOS 26 is packed with new features, and I just discovered that one of my favorites—music pins—come with a hidden bonus perk.",
+      "slug": "my-top-apple-music-upgrade-in-ios-26-has-a-hidden-",
+      "publishedAt": "2025-10-31T20:33:00+00:00",
+      "date": "2025-10-31 20:33:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/my-top-apple-music-upgrade-in-ios-26-has-a-hidden-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Bluesky hits 40 million users, introduces ‘dislikes’ beta - TechCrunch",
       "description": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings.",
       "slug": "bluesky-hits-40-million-users-introduces-dislikes-",
@@ -34,6 +88,42 @@
         "emoji": "🚀",
         "id": "techcrunch",
         "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Pulls the Plug on Older Nest Thermostats - PCMag",
+      "description": "You can manually set the temperature, but it no longer connects to the Google Nest or Home apps.",
+      "slug": "google-pulls-the-plug-on-older-nest-thermostats-pc",
+      "publishedAt": "2025-10-31T19:13:09+00:00",
+      "date": "2025-10-31 19:13:09",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/019hsPI75cL32i29tDwIbN3-1.fit_lim.size_1200x630.v1761937740.jpg",
+      "url": "/tech-news/2025-10-31/google-pulls-the-plug-on-older-nest-thermostats-pc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once - The Verge",
+      "description": "Microsoft is testing shared audio on Windows 11, allowing users to broadcast audio across two pairs of headphones, earbuds, speakers, or hearing aids.",
+      "slug": "windows-11-tests-bluetooth-audio-sharing-that-conn",
+      "publishedAt": "2025-10-31T18:32:30+00:00",
+      "date": "2025-10-31 18:32:30",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-10-31/windows-11-tests-bluetooth-audio-sharing-that-conn/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
       },
       "companies": [],
       "people": []
@@ -124,6 +214,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI browsers are here, and they're already being hacked - NBC News",
+      "description": "Hackers can target AI browsers with prompts hidden in websites.",
+      "slug": "ai-browsers-are-here-and-theyre-already-being-hack",
+      "publishedAt": "2025-10-31T16:02:17+00:00",
+      "date": "2025-10-31 16:02:17",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-ai-final-illo-gk-aeaaa2.jpg",
+      "url": "/tech-news/2025-10-31/ai-browsers-are-here-and-theyre-already-being-hack/",
+      "source": {
+        "emoji": "📰",
+        "id": "nbc-news",
+        "name": "NBC News"
       },
       "companies": [],
       "people": []
@@ -286,6 +394,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Live Science"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Too much social media gives AI chatbots ‘brain rot’ - Nature",
+      "description": "Large language models fed low-quality data skip steps in their reasoning process.",
+      "slug": "too-much-social-media-gives-ai-chatbots-brain-rot-",
+      "publishedAt": "2025-10-31T11:31:06+00:00",
+      "date": "2025-10-31 11:31:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03542-2/d41586-025-03542-2_51628252.jpg",
+      "url": "/tech-news/2025-10-31/too-much-social-media-gives-ai-chatbots-brain-rot-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
       },
       "companies": [],
       "people": []
@@ -3138,46 +3264,6 @@
       "people": []
     },
     {
-      "title": "Google Pixel údajně dostane balíčky motivů a další funkce v listopadové aktualizaci",
-      "description": "Uniklé snímky obrazovky naznačují, že listopadová aktualizace pro telefony Google Pixel přinese balíčky motivů, animace v aplikaci Pixel Studio a VIP notifikace.",
-      "slug": "google-pixel-adding-theme-packs-and-more-in-novemb",
-      "publishedAt": "2025-10-27T18:19:10+00:00",
-      "date": "2025-10-27 18:19:10",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-launcher-homescreen-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/google-pixel-adding-theme-packs-and-more-in-novemb/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Messages možná dostane koš pro smazané zprávy",
-      "description": "V beta verzi aplikace Google Messages se objevily odkazy na novou funkci koše, která by mohla fungovat podobně jako v Gmailu s 30denní lhůtou před trvalým smazáním.",
-      "slug": "googles-working-on-a-trash-folder-for-messages-and",
-      "publishedAt": "2025-10-27T18:12:44+00:00",
-      "date": "2025-10-27 18:12:44",
-      "importance": 2,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-messages-trash-spongebob.jpg",
-      "url": "/tech-news/2025-10-27/googles-working-on-a-trash-folder-for-messages-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Sennheiser Momentum True Wireless 4 se slevou téměř 50 %",
       "description": "Prémiová bezdrátová sluchátka Sennheiser Momentum True Wireless 4 jsou na Amazonu dostupná za 180 dolarů, což představuje slevu 170 dolarů z původní ceny.",
       "slug": "sennheisers-awesome-wireless-earbuds-are-almost-ha",
@@ -3219,48 +3305,6 @@
       "people": []
     },
     {
-      "title": "Galaxy XR je headset, který může posunout celé odvětví vpřed",
-      "description": "Samsung představil Galaxy XR headset, který cenově i funkčně zapadá mezi Meta Quest 3 a Apple Vision Pro a vytváří konkurenční tlak na oba výrobce současně.",
-      "slug": "galaxy-xr-is-the-headset-the-industry-needs-to-tak",
-      "publishedAt": "2025-10-27T17:28:34+00:00",
-      "date": "2025-10-27 17:28:34",
-      "importance": 4,
-      "category": "virtuální realita",
-      "urlToImage": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/10/samsung-galaxy-xr-4.jpg",
-      "url": "/tech-news/2025-10-27/galaxy-xr-is-the-headset-the-industry-needs-to-tak/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Road to VR"
-      },
-      "companies": [
-        "Samsung",
-        "Meta",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google potvrdil nový hardware Fitbit pro rok 2026",
-      "description": "Google oficiálně oznámil, že v roce 2026 uvede na trh nový hardware značky Fitbit. Jde o první potvrzení nových zařízení po dvou letech.",
-      "slug": "google-says-new-fitbit-hardware-is-coming-in-2026-",
-      "publishedAt": "2025-10-27T17:19:05+00:00",
-      "date": "2025-10-27 17:19:05",
-      "importance": 3,
-      "category": "nositelná elektronik",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/fitbit-logo-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/google-says-new-fitbit-hardware-is-coming-in-2026-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Passkeys jako bezpečnější alternativa k heslům",
       "description": "Passkeys nahrazují tradiční hesla a nabízejí bezpečnější způsob přihlašování bez rizika úniku dat nebo phishingu.",
       "slug": "yes-the-new-password-alternative-is-actually-safer",
@@ -3276,26 +3320,6 @@
         "name": "MakeUseOf"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Fitbit spouští přepracovanou aplikaci s AI zdravotním koučem",
-      "description": "Fitbit zavádí novou aplikaci postavenou kolem AI kouče poháněného modelem Gemini, který má uživatelům pomoci lépe využívat jejich zdravotní data a vytvářet personalizované tréninkové plány.",
-      "slug": "fitbits-overhauled-app-and-ai-health-coach-arrive-",
-      "publishedAt": "2025-10-27T17:00:00+00:00",
-      "date": "2025-10-27 17:00:00",
-      "importance": 3,
-      "category": "zdraví",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fitbithealthcoach.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-27/fitbits-overhauled-app-and-ai-health-coach-arrive-/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Fitbit"
-      ],
       "people": []
     },
     {
@@ -3485,27 +3509,6 @@
       "people": []
     },
     {
-      "title": "Gemini rychle dohání ChatGPT v jednom konkrétním ohledu, podle nových dat",
-      "description": "Chatbot společnosti Google v poslední době zaznamenává působivé pokroky. Zde je důvod proč.",
-      "slug": "gemini-is-gaining-fast-on-chatgpt-in-one-particula",
-      "publishedAt": "2025-10-27T14:27:00+00:00",
-      "date": "2025-10-27 14:27:00",
-      "importance": 4,
-      "category": "ai chatboti",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c811ebe938d8a836552c1353cc288359877e3a71/2025/10/27/373add95-3cd2-40e8-b878-0ff8bf1fbd50/gettyimages-2197163077.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-27/gemini-is-gaining-fast-on-chatgpt-in-one-particula/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Zprávy o změnách výroby iPhone Air se možná nezakládají na pravdě",
       "description": "Apple údajně nesnižuje výrobní plány pro iPhone Air v roce 2025, jak tvrdí nová zpráva z dodavatelského řetězce.",
       "slug": "iphone-air-production-change-orders-may-not-be-tru",
@@ -3603,27 +3606,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pixel Watch 3 ve verzi 45mm za 200 dolarů méně než Pixel Watch 4",
-      "description": "Amazon nabízí Google Pixel Watch 3 v 45mm provedení za 199,99 dolarů, což je polovina původní ceny a 100 dolarů pod aktuální doporučenou cenou.",
-      "slug": "grab-a-45mm-pixel-watch-3-at-200-less-than-pixel-w",
-      "publishedAt": "2025-10-27T12:23:00+00:00",
-      "date": "2025-10-27 12:23:00",
-      "importance": 3,
-      "category": "chytré hodinky",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/10/Google-Pixel-Watch-3-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/grab-a-45mm-pixel-watch-3-at-200-less-than-pixel-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "companies": [
-        "Google",
-        "Amazon"
       ],
       "people": []
     },
