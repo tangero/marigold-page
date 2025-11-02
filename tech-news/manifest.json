@@ -1,7 +1,43 @@
 {
-  "generated": "2025-11-02T16:14:50.175813+00:00",
+  "generated": "2025-11-02T20:14:31.682611+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding - The Verge",
+      "description": "A teaser video confirms there’s an Ayaneo Phone coming with physical controls.",
+      "slug": "ayaneo-phone-confirmed-in-a-teaser-featuring-retro",
+      "publishedAt": "2025-11-01T16:43:17+00:00",
+      "date": "2025-11-01 16:43:17",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "url": "/tech-news/2025-11-01/ayaneo-phone-confirmed-in-a-teaser-featuring-retro/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams - TechCrunch",
+      "description": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
+      "slug": "ai-researchers-embodied-an-llm-into-a-robot-and-it",
+      "publishedAt": "2025-11-01T15:00:00+00:00",
+      "date": "2025-11-01 15:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
+      "url": "/tech-news/2025-11-01/ai-researchers-embodied-an-llm-into-a-robot-and-it/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday - The Verge",
       "description": "LG’s B5 is an excellent entry-level OLED TV, and the 48-inch model is currently on sale for just $529.99 at Best Buy ahead of Black Friday.",
@@ -16,6 +52,42 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Don't Want to Pay to Store All Your Memories in the Cloud? Do This Instead - CNET",
+      "description": "There's an easy way to back up your photos and videos without relying on cloud subscription services.",
+      "slug": "dont-want-to-pay-to-store-all-your-memories-in-the",
+      "publishedAt": "2025-11-01T14:00:00+00:00",
+      "date": "2025-11-01 14:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/134aa5aff7d585b70ab688797710fe67be3f764b/hub/2025/09/29/ed96b29b-fc00-49af-907c-14bdd11d78a5/image-6.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-01/dont-want-to-pay-to-store-all-your-memories-in-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nest Audio, Mini, and Home Mini get updated lights with Gemini - 9to5Google",
+      "description": "With the Gemini for Home voice assistant, Google has updated the LED lights on the Home Mini, Nest Mini, and Nest Audio.",
+      "slug": "nest-audio-mini-and-home-mini-get-updated-lights-w",
+      "publishedAt": "2025-11-01T13:40:56+00:00",
+      "date": "2025-11-01 13:40:56",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_audio_sage_4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-01/nest-audio-mini-and-home-mini-get-updated-lights-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
       },
       "companies": [],
       "people": []
@@ -39,6 +111,24 @@
       "people": []
     },
     {
+      "title": "Honda Salesman Takes Chevy Trailblazer to Dealership. Then GM Refuses Coverage Because of How His Car Smells - Motor1.com",
+      "description": "In a viral video, a Honda salesman says he brought his Trailblazer to a Chevrolet dealership and was shocked by how his issue was handled.",
+      "slug": "honda-salesman-takes-chevy-trailblazer-to-dealersh",
+      "publishedAt": "2025-11-01T11:45:54+00:00",
+      "date": "2025-11-01 11:45:54",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/QebNo0/s1/chevrolet-trailblazer-to-the-dealership.-then-gm-refuses-coverage.jpg",
+      "url": "/tech-news/2025-11-01/honda-salesman-takes-chevy-trailblazer-to-dealersh/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Motor1 "
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Should you stretch before a run? The answer may surprise you. - The Washington Post",
       "description": "The goal of a warm-up is to make the race experience easier and more comfortable.",
       "slug": "should-you-stretch-before-a-run-the-answer-may-sur",
@@ -52,6 +142,42 @@
         "emoji": "📰",
         "id": "the-washington-post",
         "name": "The Washington Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Starlink V3 satellites could enable SpaceX’s orbital computing plans: Musk - Teslarati",
+      "description": "Musk’s remarks come as companies explore how orbital infrastructure could solve the Earth-bound energy and cooling challenges that come with hyperscale AI computing.",
+      "slug": "starlink-v3-satellites-could-enable-spacexs-orbita",
+      "publishedAt": "2025-11-01T10:26:43+00:00",
+      "date": "2025-11-01 10:26:43",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/05/SpaceX-expands-Starlink-constellation-amid-surging-global-demand--1000x600.jpg",
+      "url": "/tech-news/2025-11-01/starlink-v3-satellites-could-enable-spacexs-orbita/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Teslarati"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Pixel 10 Pro is the Pixel I've always wanted Google to make - Android Authority",
+      "description": "The Pixel 10 Pro isn't a perfect phone, but it delivers on the Pixel promise better than any generation before it, and I love it.",
+      "slug": "the-pixel-10-pro-is-the-pixel-ive-always-wanted-go",
+      "publishedAt": "2025-11-01T10:24:43+00:00",
+      "date": "2025-11-01 10:24:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-2-scaled.jpg",
+      "url": "/tech-news/2025-11-01/the-pixel-10-pro-is-the-pixel-ive-always-wanted-go/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
       },
       "companies": [],
       "people": []
@@ -3265,24 +3391,6 @@
       "people": []
     },
     {
-      "title": "Porsche 911 Turbo S 2026 nabídne 701 koní a dva elektrifikované turbodmychadla",
-      "description": "Nová vlajková loď Porsche kombinuje dva vysokonapěťové turbodmychadla s elektromotory pro eliminaci turbo lagu. Výkon 701 koní přichází s astronomickou cenou.",
-      "slug": "porsches-2026-911-turbo-s-is-a-ballistic-twin-turb",
-      "publishedAt": "2025-10-27T23:01:06+00:00",
-      "date": "2025-10-27 23:01:06",
-      "importance": 3,
-      "category": "sportovní vozy",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2026-Porsche-911-Turbo-S-first-drive-005-2560x1440.jpg",
-      "url": "/tech-news/2025-10-27/porsches-2026-911-turbo-s-is-a-ballistic-twin-turb/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Stále používáte Windows 10? Bezplatné bezpečnostní aktualizace prodlouží podporu do roku 2026",
       "description": "Microsoft nabízí program Extended Security Updates, který poskytne bezpečnostní záplaty pro Windows 10 až do října 2026. Registrace je možná zdarma několika způsoby.",
       "slug": "still-using-windows-10-these-free-updates-will-hel",
@@ -3319,46 +3427,6 @@
       },
       "companies": [
         "Oura"
-      ],
-      "people": []
-    },
-    {
-      "title": "Původní Pixel Watch dostávají říjnovou aktualizaci 2025, Wear OS 6 se nedočkají",
-      "description": "Google vydává říjnovou aktualizaci pro první generaci Pixel Watch, která zůstává na Wear OS 5.1. Jde pravděpodobně o poslední garantovanou aktualizaci pro hodinky z roku 2022.",
-      "slug": "original-pixel-watch-gets-october-2025-update-no-w",
-      "publishedAt": "2025-10-27T20:01:00+00:00",
-      "date": "2025-10-27 20:01:00",
-      "importance": 3,
-      "category": "chytré hodinky",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Pixel-Watch-Fall-Detection.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/original-pixel-watch-gets-october-2025-update-no-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kritická zranitelnost Microsoft WSUS (CVE-2025-59287) aktivně zneužívána útočníky",
-      "description": "Kritická bezpečnostní chyba ve Windows Server Update Services umožňuje vzdálené spuštění kódu bez ověření. Útočníci ji začali zneužívat během hodin po vydání nouzové záplaty.",
-      "slug": "microsoft-wsus-remote-code-execution-cve-2025-5928",
-      "publishedAt": "2025-10-27T19:57:43+00:00",
-      "date": "2025-10-27 19:57:43",
-      "importance": 5,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/08_DNS_Overview_1920x900.jpg",
-      "url": "/tech-news/2025-10-27/microsoft-wsus-remote-code-execution-cve-2025-5928/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Paloaltonetworks.com"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     },
@@ -3499,26 +3567,6 @@
       "people": []
     },
     {
-      "title": "Implementace magnetů Qi2 do Androidu nestojí 10 milionů dolarů, tvrdí WPC",
-      "description": "Wireless Power Consortium vyvrací tvrzení společnosti Nothing, že přidání magnetického bezdrátového nabíjení Qi2 do Android telefonů stojí 10 milionů dolarů. Skutečné náklady jsou výrazně nižší.",
-      "slug": "no-it-doesnt-cost-10-million-to-add-qi2-magnets-to",
-      "publishedAt": "2025-10-27T16:30:00+00:00",
-      "date": "2025-10-27 16:30:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-32-qi2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/no-it-doesnt-cost-10-million-to-add-qi2-magnets-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Sora odhaluje, jak nefunkční je detekce deepfake videí",
       "description": "Generátor videí od OpenAI používá metadata C2PA pro označení AI obsahu, ale systém zjevně nefunguje při sdílení na jiných platformách.",
       "slug": "sora-is-showing-us-how-broken-deepfake-detection-i",
@@ -3622,27 +3670,6 @@
       "people": []
     },
     {
-      "title": "OnePlus 15 představen v Číně s 165Hz displejem a 7300mAh baterií",
-      "description": "OnePlus oznámil svůj nový vlajkový telefon s rychlou obnovovací frekvencí 165 Hz a výrazně větší baterií. Globální uvedení přijde brzy, ale specifikace se mohou lišit.",
-      "slug": "oneplus-15-arrives-in-china-global-launch-coming-s",
-      "publishedAt": "2025-10-27T13:24:55+00:00",
-      "date": "2025-10-27 13:24:55",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oneplus-15-sand-storm-back.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "url": "/tech-news/2025-10-27/oneplus-15-arrives-in-china-global-launch-coming-s/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "OnePlus",
-        "The Verge"
-      ],
-      "people": []
-    },
-    {
       "title": "Týdenní přehled: Zneužití WSUS, návrat LockBit 5.0, zadní vrátka v Telegramu a rozšíření úniku dat F5",
       "description": "Aktivní zneužívání WSUS, comeback ransomwaru LockBit 5.0, backdoor v Telegramu a skrytý únik dat společnosti F5 představují největší kybernetické hrozby tohoto týdne.",
       "slug": "weekly-recap-wsus-exploited-lockbit-50-returns-tel",
@@ -3685,32 +3712,6 @@
       "people": []
     },
     {
-      "title": "OpenAI vstupuje na trh s AI hudbou v hodnotě 2,8 miliardy dolarů, konkuruje Suno a Google",
-      "description": "OpenAI vyvíjí nástroj pro generování hudby z textových a zvukových podnětů, čímž vstupuje na rychle rostoucí trh AI hudby, kde již působí Suno s ročními příjmy 150 milionů dolarů a Google s modelem Lyria RealTime.",
-      "slug": "openai-moves-into-28-billion-ai-music-market-takin",
-      "publishedAt": "2025-10-27T12:14:46+00:00",
-      "date": "2025-10-27 12:14:46",
-      "importance": 4,
-      "category": "ai hudba",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2386277509-1-750x406.jpg",
-      "url": "/tech-news/2025-10-27/openai-moves-into-28-billion-ai-music-market-takin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tipranks.com"
-      },
-      "companies": [
-        "OpenAI",
-        "Suno",
-        "Google"
-      ],
-      "people": [
-        "Na základě poskytnutého textu (pouze nadpisu a popisu článku) nemohu identifikovat žádné konkrétní jmenované osobnosti. Text zmiňuje pouze společnosti (OpenAI",
-        "Suno",
-        "Google) a zdroj informací (The Information)"
-      ]
-    },
-    {
       "title": "Samsung Galaxy Buds 3 dostávají novou aktualizaci firmwaru",
       "description": "Samsung vydal novou aktualizaci firmwaru pro bezdrátová sluchátka Galaxy Buds 3 a Galaxy Buds 3 Pro z roku 2024, zatímco současně pokračuje v distribuci One UI 8.0 pro telefony a tablety.",
       "slug": "samsung-galaxy-buds-3-series-gets-a-new-software-u",
@@ -3727,26 +3728,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "OnePlus 15 oficiálně představen s 10 vylepšeními: baterie 7 300 mAh a čipset Snapdragon 8 Elite",
-      "description": "OnePlus představil nový vlajkový telefon s rekordní baterií, výkonnějším čipsetem a vylepšeným fotoaparátem. Zatím pouze pro čínský trh, globální uvedení očekáváno v listopadu.",
-      "slug": "oneplus-15-is-official-with-10-important-upgrades-",
-      "publishedAt": "2025-10-27T11:08:20+00:00",
-      "date": "2025-10-27 11:08:20",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175215-wide-two_1200/OnePlus-15-is-official-with-10-important-upgrades-check-out-the-good-and-bad.jpg",
-      "url": "/tech-news/2025-10-27/oneplus-15-is-official-with-10-important-upgrades-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "OnePlus"
       ],
       "people": []
     },
