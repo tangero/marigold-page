@@ -1,7 +1,97 @@
 {
-  "generated": "2025-11-02T12:20:54.402018+00:00",
+  "generated": "2025-11-02T16:14:50.175813+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday - The Verge",
+      "description": "LG’s B5 is an excellent entry-level OLED TV, and the 48-inch model is currently on sale for just $529.99 at Best Buy ahead of Black Friday.",
+      "slug": "lgs-brilliant-b5-oled-tv-is-already-down-to-just-5",
+      "publishedAt": "2025-11-01T14:00:00+00:00",
+      "date": "2025-11-01 14:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/LG-B5-OLED-TV-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-01/lgs-brilliant-b5-oled-tv-is-already-down-to-just-5/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Android Auto's best feature isn't navigation - Android Police",
+      "description": "It's about getting there safely",
+      "slug": "android-autos-best-feature-isnt-navigation-android",
+      "publishedAt": "2025-11-01T12:37:00+00:00",
+      "date": "2025-11-01 12:37:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/top-view-of-a-car-driving-over-the-android-auto-logo.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-01/android-autos-best-feature-isnt-navigation-android/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Should you stretch before a run? The answer may surprise you. - The Washington Post",
+      "description": "The goal of a warm-up is to make the race experience easier and more comfortable.",
+      "slug": "should-you-stretch-before-a-run-the-answer-may-sur",
+      "publishedAt": "2025-11-01T11:31:54+00:00",
+      "date": "2025-11-01 11:31:54",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKFON53YJVFEFCIRO7J2VJOCUY.jpg&w=1440",
+      "url": "/tech-news/2025-11-01/should-you-stretch-before-a-run-the-answer-may-sur/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Is your Pixel getting Google’s surprise update? Here’s every supported phone - Android Authority",
+      "description": "Seemingly out of nowhere, Google has surprised Pixel users with a second update in the same month. But is your Pixel getting it?",
+      "slug": "is-your-pixel-getting-googles-surprise-update-here",
+      "publishedAt": "2025-11-01T09:29:12+00:00",
+      "date": "2025-11-01 09:29:12",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-vs-pixel-9-pro-camera-comparison-hero-4-scaled.jpg",
+      "url": "/tech-news/2025-11-01/is-your-pixel-getting-googles-surprise-update-here/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys",
+      "description": "As part of its now live early Black Friday sale, Best Buy is offering a handful of Lenovo Android tablets...",
+      "slug": "lenovos-budget-friendly-2025-idea-tab-plus-android",
+      "publishedAt": "2025-11-01T08:03:00+00:00",
+      "date": "2025-11-01 08:03:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-01/lenovos-budget-friendly-2025-idea-tab-plus-android/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Houses without lounges are a reality for renters - BBC",
       "description": "Nearly a third of homes advertised on a property sharing website had no living room.",
@@ -34,6 +124,78 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Semiconductor startup to fly payloads on Falcon 9 boosters - SpaceNews",
+      "description": "A startup plans to test technology to produce semiconductors in space on a series of Falcon 9 launches using payloads attached to the rocket’s booster.",
+      "slug": "semiconductor-startup-to-fly-payloads-on-falcon-9-",
+      "publishedAt": "2025-10-31T23:15:01+00:00",
+      "date": "2025-10-31 23:15:01",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2021/05/50631642722_5f82f17757_k.jpg",
+      "url": "/tech-news/2025-10-31/semiconductor-startup-to-fly-payloads-on-falcon-9-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "This advanced ad-blocking app is only $19 for life - Mashable",
+      "description": "Block annoying ads and protect your devices.",
+      "slug": "this-advanced-ad-blocking-app-is-only-19-for-life-",
+      "publishedAt": "2025-10-31T23:03:09+00:00",
+      "date": "2025-10-31 23:03:09",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01M6AizGSSLdJpsSvrFVJdv/hero-image.fill.size_1200x675.v1761919033.jpg",
+      "url": "/tech-news/2025-10-31/this-advanced-ad-blocking-app-is-only-19-for-life-/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon just dropped the black Apple Watch Ultra 3 w/ Milanese Loop to its all-time low at $99 off - 9to5Toys",
+      "description": "This morning ushered in some particularly notable discounts on Apple Watch Ultra 3 – but you’ll need to be a...",
+      "slug": "amazon-just-dropped-the-black-apple-watch-ultra-3-",
+      "publishedAt": "2025-10-31T22:40:00+00:00",
+      "date": "2025-10-31 22:40:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Black-Titanium-Apple-Watch-Ultra-3-with-the-black-Titanium-Milanese-Loop-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-10-31/amazon-just-dropped-the-black-apple-watch-ultra-3-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple iPhone Air review – The thinnest smartphone packs a ton of power - Notebookcheck",
+      "description": "iPhone Air review | The slimmest iPhone of 2025 comes with a fast Apple A19 Pro chip, at least 256 GB of storage, and a very bright display. Compromises have had to be made in terms of the camera, GPU performance, and battery life.",
+      "slug": "apple-iphone-air-review-the-thinnest-smartphone-pa",
+      "publishedAt": "2025-10-31T21:16:00+00:00",
+      "date": "2025-10-31 21:16:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Apple/iPhone_Air/aPic_Apple_iPhone_Air-1580-2.jpg",
+      "url": "/tech-news/2025-10-31/apple-iphone-air-review-the-thinnest-smartphone-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
       },
       "companies": [],
       "people": []
@@ -219,6 +381,24 @@
       "people": []
     },
     {
+      "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack - The Hacker News",
+      "description": "New Airstalk malware hijacks AirWatch APIs in stealth supply chain attack, targeting enterprise browsers.",
+      "slug": "nation-state-hackers-deploy-new-airstalk-malware-i",
+      "publishedAt": "2025-10-31T16:08:00+00:00",
+      "date": "2025-10-31 16:08:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKxzaqZgRJLRPcNqwG7WhPAKXXPkKpEOo3KCEyJxJAGr4jvJCJYu7f5_MKXFMBZEAYHyDeNoDbQMuA-f4OOSp74F9iEax0USQCQ0oyFWnJTn4IJc-wiXoxpiFociu-ToO04Wyjq6vry_PsdrCzezc2OvE_SD7esW9tFMPrgG2jpa1KfUoJcMPcVynngGI/s790-rw-e365/cyberattack.jpg",
+      "url": "/tech-news/2025-10-31/nation-state-hackers-deploy-new-airstalk-malware-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager - Ars Technica",
       "description": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
       "slug": "closing-windows-11s-task-manager-accidentally-open",
@@ -232,24 +412,6 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys",
-      "description": "As part of its now live early Black Friday sale, Best Buy is offering a handful of Lenovo Android tablets...",
-      "slug": "lenovos-budget-friendly-2025-idea-tab-plus-android",
-      "publishedAt": "2025-10-31T16:03:00+00:00",
-      "date": "2025-10-31 16:03:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/lenovos-budget-friendly-2025-idea-tab-plus-android/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
       },
       "companies": [],
       "people": []
@@ -286,6 +448,24 @@
         "emoji": "📰",
         "id": null,
         "name": "MacRumors"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "50 Things People Somehow Accepted As Completely Normal In The Early 2000s That Were Definitely Very, Very Weird - BuzzFeed",
+      "description": "Maybe you just had to be there.",
+      "slug": "A-50-things-people-somehow-accepted-as-completely-",
+      "publishedAt": "2025-10-31T15:31:01+00:00",
+      "date": "2025-10-31 15:31:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/13/18/enhanced/b8160e74e16d/original-6766-1723573141-9.jpg?crop=1245:830;3,0&resize=1250:830",
+      "url": "/tech-news/2025-10-31/A-50-things-people-somehow-accepted-as-completely-/",
+      "source": {
+        "emoji": "📰",
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
       },
       "companies": [],
       "people": []
@@ -3085,47 +3265,6 @@
       "people": []
     },
     {
-      "title": "Microsoft WSUS pod aktivním útokem, varuje Google a další bezpečnostní týmy",
-      "description": "Kritická zranitelnost CVE-2025-59287 ve Windows Server Update Services je aktivně zneužívána útočníky proti desítkám organizací. Microsoft vydal nouzovou záplatu, ale neaktualizoval informace o probíhajících útocích.",
-      "slug": "microsoft-wsus-attacks-hit-multiple-orgs-google-wa",
-      "publishedAt": "2025-10-27T23:54:00+00:00",
-      "date": "2025-10-27 23:54:00",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://regmedia.co.uk/2024/04/19/shutterstock_bell.jpg",
-      "url": "/tech-news/2025-10-27/microsoft-wsus-attacks-hit-multiple-orgs-google-wa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Microsoft",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "iPhone XX: 6 funkcí, které se spekulují pro dvacáté výročí iPhonu",
-      "description": "Apple údajně plánuje pro iPhone k dvacátému výročí v roce 2027 zásadní redesign s ohnutým displejem bez rámečků a technologií Face ID pod displejem.",
-      "slug": "iphone-xx-6-features-rumored-for-apples-20th-anniv",
-      "publishedAt": "2025-10-27T23:01:52+00:00",
-      "date": "2025-10-27 23:01:52",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://images.macrumors.com/t/JCwkhRRQDfwbPkXYUlc8xuUgQBw=/2500x/article-new/2025/05/All-Screen-iPhone-2027-Feature-1.jpg",
-      "url": "/tech-news/2025-10-27/iphone-xx-6-features-rumored-for-apples-20th-anniv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Porsche 911 Turbo S 2026 nabídne 701 koní a dva elektrifikované turbodmychadla",
       "description": "Nová vlajková loď Porsche kombinuje dva vysokonapěťové turbodmychadla s elektromotory pro eliminaci turbo lagu. Výkon 701 koní přichází s astronomickou cenou.",
       "slug": "porsches-2026-911-turbo-s-is-a-ballistic-twin-turb",
@@ -3160,26 +3299,6 @@
       },
       "companies": [
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "iPad Pro s čipem M5 po pěti dnech používání: Vyplatil se upgrade z M4?",
-      "description": "Redaktor 9to5Mac sdílí své první dojmy z nového iPad Pro s čipem M5 po upgradu z loňského modelu s M4. Zařízení přináší sedm konkrétních vylepšení.",
-      "slug": "m5-ipad-pro-after-five-days-was-upgrade-from-m4-wo",
-      "publishedAt": "2025-10-27T21:45:00+00:00",
-      "date": "2025-10-27 21:45:00",
-      "importance": 3,
-      "category": "tablety",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-ipad-pro-13-inch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/m5-ipad-pro-after-five-days-was-upgrade-from-m4-wo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
       ],
       "people": []
     },
@@ -3380,28 +3499,6 @@
       "people": []
     },
     {
-      "title": "Italský výrobce špionážního softwaru stojí za útoky využívajícími zranitelnost v Chrome",
-      "description": "Zranitelnost zero-day v prohlížeči Chrome, využitá při kampani ForumTroll, šířila malware od italské firmy Memento Labs, která vznikla z nechvalně známého Hacking Teamu.",
-      "slug": "italian-spyware-vendor-linked-to-chrome-zero-day-a",
-      "publishedAt": "2025-10-27T16:37:28+00:00",
-      "date": "2025-10-27 16:37:28",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/11/28/Google_Chrome.jpg",
-      "url": "/tech-news/2025-10-27/italian-spyware-vendor-linked-to-chrome-zero-day-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "Google",
-        "Memento Labs",
-        "Hacking Team"
-      ],
-      "people": []
-    },
-    {
       "title": "Implementace magnetů Qi2 do Androidu nestojí 10 milionů dolarů, tvrdí WPC",
       "description": "Wireless Power Consortium vyvrací tvrzení společnosti Nothing, že přidání magnetického bezdrátového nabíjení Qi2 do Android telefonů stojí 10 milionů dolarů. Skutečné náklady jsou výrazně nižší.",
       "slug": "no-it-doesnt-cost-10-million-to-add-qi2-magnets-to",
@@ -3504,26 +3601,6 @@
       "people": []
     },
     {
-      "title": "iOS 26.1 vyjde začátkem listopadu s novými funkcemi pro iPhone",
-      "description": "Apple chystá aktualizaci iOS 26.1 s možností přizpůsobení designu Liquid Glass, novým ovládáním budíků a dalšími vylepšeními. Vydání se očekává začátkem listopadu.",
-      "slug": "ios-261-coming-soon-new-features-for-your-iphone-a",
-      "publishedAt": "2025-10-27T14:55:50+00:00",
-      "date": "2025-10-27 14:55:50",
-      "importance": 3,
-      "category": "mobilní systémy",
-      "urlToImage": "https://images.macrumors.com/t/hA8-InYSASCV9BmL5Loq8C5XKIw=/2500x/article-new/2025/09/iOS-26.1-Feature.jpg",
-      "url": "/tech-news/2025-10-27/ios-261-coming-soon-new-features-for-your-iphone-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Spotify spouští novou aplikaci pro Apple TV 4K s výraznými vylepšeními",
       "description": "Spotify vydalo kompletně přepracovanou aplikaci pro Apple TV 4K s nativním designem pro tvOS, podporou videí, textů písní a dalšími funkcemi, které mají vyrovnat rozdíl oproti Apple Music.",
       "slug": "spotify-launches-new-apple-tv-4k-app-with-big-feat",
@@ -3542,44 +3619,6 @@
         "Spotify",
         "Apple"
       ],
-      "people": []
-    },
-    {
-      "title": "Zprávy o změnách výroby iPhone Air se možná nezakládají na pravdě",
-      "description": "Apple údajně nesnižuje výrobní plány pro iPhone Air v roce 2025, jak tvrdí nová zpráva z dodavatelského řetězce.",
-      "slug": "iphone-air-production-change-orders-may-not-be-tru",
-      "publishedAt": "2025-10-27T14:11:00+00:00",
-      "date": "2025-10-27 14:11:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65541-137143-65192-136263-iPhone-Air-xl-xl.jpg",
-      "url": "/tech-news/2025-10-27/iphone-air-production-change-orders-may-not-be-tru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI aplikace prodávají falešné dovolenkové fotky lidem, kteří si dovolenou nemohou dovolit",
-      "description": "Nový trend v AI aplikacích umožňuje uživatelům vytvářet fotky sebe sama na luxusních dovolených a v bohatství jako formu úniku z reality nebo manifestace lepšího života.",
-      "slug": "if-you-cant-afford-a-vacation-an-ai-app-will-sell-",
-      "publishedAt": "2025-10-27T14:09:54+00:00",
-      "date": "2025-10-27 14:09:54",
-      "importance": 3,
-      "category": "ai aplikace",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6898.jpg?quality=90&strip=all&crop=0%2C23.637203572528%2C100%2C52.725592854943&w=1200",
-      "url": "/tech-news/2025-10-27/if-you-cant-afford-a-vacation-an-ai-app-will-sell-/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3672,24 +3711,6 @@
       ]
     },
     {
-      "title": "Selfie s pláčem na sociálních sítích: Odvaha nebo touha po pozornosti?",
-      "description": "Fotografie a videa uživatelů při pláči se stávají kontroverzním fenoménem na sociálních sítích. Zatímco jedni je považují za projev zranitelnosti, druzí je kritizují jako manipulativní obsah.",
-      "slug": "if-someone-wants-to-cry-online-let-them-were-takin",
-      "publishedAt": "2025-10-27T12:00:27+00:00",
-      "date": "2025-10-27 12:00:27",
-      "importance": 3,
-      "category": "sociální sítě",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/f50/0e0/1d3ff3287c4d02d6dc7677836a5c675cfc-crying-selfie.1x.rsocial.w1200.jpg",
-      "url": "/tech-news/2025-10-27/if-someone-wants-to-cry-online-let-them-were-takin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Cut"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Samsung Galaxy Buds 3 dostávají novou aktualizaci firmwaru",
       "description": "Samsung vydal novou aktualizaci firmwaru pro bezdrátová sluchátka Galaxy Buds 3 a Galaxy Buds 3 Pro z roku 2024, zatímco současně pokračuje v distribuci One UI 8.0 pro telefony a tablety.",
       "slug": "samsung-galaxy-buds-3-series-gets-a-new-software-u",
@@ -3730,26 +3751,6 @@
       "people": []
     },
     {
-      "title": "iPhone 18 Pro by mohl získat proměnlivou clonu jako zrcadlovky",
-      "description": "Podle čínských zdrojů z dodavatelského řetězce Apple plánuje vybavit iPhone 18 Pro proměnlivou clonou objektivu, což by uživatelům umožnilo manuální kontrolu nad hloubkou ostrosti.",
-      "slug": "iphone-18-pro-could-gain-dslr-camera-style-apertur",
-      "publishedAt": "2025-10-27T10:59:55+00:00",
-      "date": "2025-10-27 10:59:55",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://images.macrumors.com/t/XEU16kt-6jgaEnJRrVVbql2f7YU=/1960x/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
-      "url": "/tech-news/2025-10-27/iphone-18-pro-could-gain-dslr-camera-style-apertur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Starlink nemá dostatečnou kapacitu pro ukrajinské bojové roboty",
       "description": "Omezená šířka pásma satelitů Starlink brání Ukrajině v efektivním nasazení pozemních robotů na frontě. Terminály poskytují pouze 10 Mb/s, což neumožňuje plynulé ovládání.",
       "slug": "spacex-starlink-internet-isnt-fast-enough-for-ukra",
@@ -3766,26 +3767,6 @@
       },
       "companies": [
         "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rok 2025 a telefony Pixel stále nedoručují oznámení včas",
-      "description": "Majitelé nového Pixel 10 hlásí výrazná zpoždění oznámení, což je dlouhodobý problém telefonů Google, který se táhne napříč generacemi.",
-      "slug": "its-2025-and-pixels-still-dont-seem-to-deliver-not",
-      "publishedAt": "2025-10-27T04:58:22+00:00",
-      "date": "2025-10-27 04:58:22",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Android-bots-standing-over-a-Pixel-phone-with-various-notifications.jpg",
-      "url": "/tech-news/2025-10-27/its-2025-and-pixels-still-dont-seem-to-deliver-not/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
