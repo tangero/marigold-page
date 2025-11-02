@@ -1,7 +1,79 @@
 {
-  "generated": "2025-11-01T20:13:15.349063+00:00",
+  "generated": "2025-11-02T00:57:29.426706+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "iOS 26.1 Brings Back 2007 Feature in New Way - MacRumors",
+      "description": "The upcoming iOS 26.1 update includes a small but helpful change for iPhones, and it could prevent you from running late to something important.  ...",
+      "slug": "ios-261-brings-back-2007-feature-in-new-way-macrum",
+      "publishedAt": "2025-10-31T20:40:00+00:00",
+      "date": "2025-10-31 20:40:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://images.macrumors.com/t/eWEIWALXdBnURstsWvQt_kFYs58=/2091x/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
+      "url": "/tech-news/2025-10-31/ios-261-brings-back-2007-feature-in-new-way-macrum/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bluesky hits 40 million users, introduces ‘dislikes’ beta - TechCrunch",
+      "description": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings.",
+      "slug": "bluesky-hits-40-million-users-introduces-dislikes-",
+      "publishedAt": "2025-10-31T20:14:06+00:00",
+      "date": "2025-10-31 20:14:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800",
+      "url": "/tech-news/2025-10-31/bluesky-hits-40-million-users-introduces-dislikes-/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI will let Sora users pay extra to make more AI videos - Mashable",
+      "description": "In case 30 free generations per day weren't enough.",
+      "slug": "openai-will-let-sora-users-pay-extra-to-make-more-",
+      "publishedAt": "2025-10-31T17:56:14+00:00",
+      "date": "2025-10-31 17:56:14",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/045zpvGGvBS3S64Y3meWLm2/hero-image.fill.size_1200x675.v1761931635.jpg",
+      "url": "/tech-news/2025-10-31/openai-will-let-sora-users-pay-extra-to-make-more-/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Adobe’s experimental AI tool can edit entire videos using one frame - The Verge",
+      "description": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio.",
+      "slug": "adobes-experimental-ai-tool-can-edit-entire-videos",
+      "publishedAt": "2025-10-31T17:31:03+00:00",
+      "date": "2025-10-31 17:31:03",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Adobe-Project-Frame-Forward.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-10-31/adobes-experimental-ai-tool-can-edit-entire-videos/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Rumor: iPhone 18 Pro to come in three all-new colors - 9to5Mac",
       "description": "Unlike any ‘Pro’ iPhone before it, the iPhone 17 Pro is available in a bright cosmic orange color. This trend...",
@@ -21,6 +93,24 @@
       "people": []
     },
     {
+      "title": "AMD Clarifies \"Maintenance Mode\" for Radeon RX 5000/6000 Series, First-Day Game Support Remains - TechPowerUp",
+      "description": "AMD surprised its customers yesterday by announcing that its Radeon RX 5000 and RX 6000 series GPUs will be partially retired from the regular monthly game optimization cycle. These RDNA 1 and RDNA 2 GPUs will still receive essential patches for security vuln…",
+      "slug": "amd-clarifies-maintenance-mode-for-radeon-rx-50006",
+      "publishedAt": "2025-10-31T16:43:57+00:00",
+      "date": "2025-10-31 16:43:57",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/6VeZ5MHLt9k35XV7.jpg",
+      "url": "/tech-news/2025-10-31/amd-clarifies-maintenance-mode-for-radeon-rx-50006/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager - Ars Technica",
       "description": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
       "slug": "closing-windows-11s-task-manager-accidentally-open",
@@ -34,6 +124,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "iPhone Fold: Launch, Pricing, and What to Expect From Apple's Foldable - MacRumors",
+      "description": "Apple is expected to launch a new foldable iPhone next year, based on multiple rumors and credible sources. The long-awaited device has been rumored...",
+      "slug": "iphone-fold-launch-pricing-and-what-to-expect-from",
+      "publishedAt": "2025-10-31T15:52:58+00:00",
+      "date": "2025-10-31 15:52:58",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "url": "/tech-news/2025-10-31/iphone-fold-launch-pricing-and-what-to-expect-from/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
       },
       "companies": [],
       "people": []
@@ -60,8 +168,8 @@
       "title": "Next year’s AirPods lineup could be Apple’s biggest ever - 9to5Mac",
       "description": "Apple just launched AirPods Pro 3, but another new AirPods model is rumored to arrive next year, expanding the lineup to be bigger than ever.",
       "slug": "next-years-airpods-lineup-could-be-apples-biggest-",
-      "publishedAt": "2025-10-31T14:40:11+00:00",
-      "date": "2025-10-31 14:40:11",
+      "publishedAt": "2025-10-31T15:10:00+00:00",
+      "date": "2025-10-31 15:10:00",
       "importance": 4,
       "category": "tech",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -250,6 +358,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Android Central"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Daily Crossword: The Conspiracy Puzzle — October 31 - Vulture",
+      "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 28-Across, Three Letters: He played Robert in ‘The Da Vinci Code’",
+      "slug": "daily-crossword-the-conspiracy-puzzle-october-31-v",
+      "publishedAt": "2025-10-31T09:00:57+00:00",
+      "date": "2025-10-31 09:00:57",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/ff9/949/57ae88126560a3134101eb4d1be34c9ead-Crossword-10x10-feed-10-31-2025.1x.rsocial.w1200.jpg",
+      "url": "/tech-news/2025-10-31/daily-crossword-the-conspiracy-puzzle-october-31-v/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Vulture"
       },
       "companies": [],
       "people": []
@@ -2838,26 +2964,6 @@
       "people": []
     },
     {
-      "title": "Black Friday slevy na Fire TV Stick 4K – očekávaná cena pod 25 dolarů",
-      "description": "Mashable spekuluje o možných slevách na Amazon Fire TV Stick 4K během Black Friday, které by mohly dosáhnout úrovně z října.",
-      "slug": "black-friday-deals-we-hope-to-see-the-fire-tv-stic",
-      "publishedAt": "2025-10-27T23:01:30+00:00",
-      "date": "2025-10-27 23:01:30",
-      "importance": 1,
-      "category": "slevy elektroniky",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07MyJL4z4Ft3axfB6ZBCaMr/hero-image.fill.size_1200x675.v1761297942.png",
-      "url": "/tech-news/2025-10-27/black-friday-deals-we-hope-to-see-the-fire-tv-stic/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "Porsche 911 Turbo S 2026 nabídne 701 koní a dva elektrifikované turbodmychadla",
       "description": "Nová vlajková loď Porsche kombinuje dva vysokonapěťové turbodmychadla s elektromotory pro eliminaci turbo lagu. Výkon 701 koní přichází s astronomickou cenou.",
       "slug": "porsches-2026-911-turbo-s-is-a-ballistic-twin-turb",
@@ -2992,26 +3098,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zranitelnost Atlas umožňuje vkládání škodlivých instrukcí do paměti ChatGPT",
-      "description": "Bezpečnostní firma LayerX odhalila zranitelnost v OpenAI Atlas, která útočníkům umožňuje pomocí CSRF útoků vkládat škodlivé instrukce do trvalé paměti ChatGPT.",
-      "slug": "atlas-vuln-allows-malicious-memory-injection-into-",
-      "publishedAt": "2025-10-27T19:23:00+00:00",
-      "date": "2025-10-27 19:23:00",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://regmedia.co.uk/2024/05/20/memory_shutterstock.jpg",
-      "url": "/tech-news/2025-10-27/atlas-vuln-allows-malicious-memory-injection-into-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "OpenAI"
       ],
       "people": []
     },
@@ -3420,26 +3506,6 @@
       "people": []
     },
     {
-      "title": "Fanoušci značky Nothing se cítí zrazeni kvůli reklamám v systému a chystanému levnému telefonu",
-      "description": "Společnost Nothing představuje model Phone 3a Lite a zároveň čelí kritice za přidání reklam do svého operačního systému Nothing OS 4.0.",
-      "slug": "fans-feel-betrayed-as-nothing-preps-budget-phone-3",
-      "publishedAt": "2025-10-27T14:19:16+00:00",
-      "date": "2025-10-27 14:19:16",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Nothing-Phone-3-09-1200x675.jpg",
-      "url": "/tech-news/2025-10-27/fans-feel-betrayed-as-nothing-preps-budget-phone-3/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Nothing"
-      ],
-      "people": []
-    },
-    {
       "title": "Zprávy o změnách výroby iPhone Air se možná nezakládají na pravdě",
       "description": "Apple údajně nesnižuje výrobní plány pro iPhone Air v roce 2025, jak tvrdí nová zpráva z dodavatelského řetězce.",
       "slug": "iphone-air-production-change-orders-may-not-be-tru",
@@ -3499,27 +3565,6 @@
       "people": []
     },
     {
-      "title": "Algoritmus YouTube doporučil milionům uživatelů video s nevhodným AI náhledem",
-      "description": "Doporučovací systém YouTube zobrazil video s AI generovaným NSFW náhledem 3,9 milionu uživatelů, včetně nezletilých a lidí hledajících nesouvisející obsah.",
-      "slug": "did-youtubes-algorithm-break-this-nsfw-thumbnail-v",
-      "publishedAt": "2025-10-27T13:21:26+00:00",
-      "date": "2025-10-27 13:21:26",
-      "importance": 3,
-      "category": "sociální sítě",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-15.jpg",
-      "url": "/tech-news/2025-10-27/did-youtubes-algorithm-break-this-nsfw-thumbnail-v/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "YouTube",
-        "Android Authority"
-      ],
-      "people": []
-    },
-    {
       "title": "Týdenní přehled: Zneužití WSUS, návrat LockBit 5.0, zadní vrátka v Telegramu a rozšíření úniku dat F5",
       "description": "Aktivní zneužívání WSUS, comeback ransomwaru LockBit 5.0, backdoor v Telegramu a skrytý únik dat společnosti F5 představují největší kybernetické hrozby tohoto týdne.",
       "slug": "weekly-recap-wsus-exploited-lockbit-50-returns-tel",
@@ -3559,24 +3604,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Za 6 800 dolarů: Má tento Datsun 200SX z roku 1978 stále přitažlivost?",
-      "description": "Článek hodnotí nabídku veterána Datsun 200SX z roku 1978 s originálním čalouněním a cenou 6 800 dolarů.",
-      "slug": "at-6800-does-this-1978-datsun-still-have-200sx-app",
-      "publishedAt": "2025-10-27T12:25:00+00:00",
-      "date": "2025-10-27 12:25:00",
-      "importance": 1,
-      "category": "veterány",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/at-6800-does-this-1978-datsun-still-have-200sx-appeal/l-intro-1761331182.jpg",
-      "url": "/tech-news/2025-10-27/at-6800-does-this-1978-datsun-still-have-200sx-app/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3625,26 +3652,6 @@
         "Suno",
         "Google) a zdroj informací (The Information)"
       ]
-    },
-    {
-      "title": "Apple údajně představí vlastní obrazový senzor v jubilejním iPhonu z roku 2027",
-      "description": "Podle korejských zdrojů by Apple mohl v roce 2027 nasadit technologii LOFIC pro výrazně lepší dynamický rozsah fotografií. Jde však o nepotvrzené spekulace.",
-      "slug": "apples-custom-image-sensor-could-debut-in-20th-ann",
-      "publishedAt": "2025-10-27T12:05:35+00:00",
-      "date": "2025-10-27 12:05:35",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://images.macrumors.com/t/JCwkhRRQDfwbPkXYUlc8xuUgQBw=/2500x/article-new/2025/05/All-Screen-iPhone-2027-Feature-1.jpg",
-      "url": "/tech-news/2025-10-27/apples-custom-image-sensor-could-debut-in-20th-ann/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
     },
     {
       "title": "Selfie s pláčem na sociálních sítích: Odvaha nebo touha po pozornosti?",
@@ -3781,29 +3788,6 @@
         "Samsung"
       ],
       "people": []
-    },
-    {
-      "title": "Ed Zitron vydělává na podpoře AI. A také na kritice AI",
-      "description": "Provozovatel PR agentury EZPR je jedním z nejhlasitějších kritiků AI průmyslu, přestože zároveň poskytuje PR služby firmám z tohoto odvětví.",
-      "slug": "ed-zitron-gets-paid-to-love-ai-he-also-gets-paid-t",
-      "publishedAt": "2025-10-27T10:00:00+00:00",
-      "date": "2025-10-27 10:00:00",
-      "importance": 3,
-      "category": "ai průmysl",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "url": "/tech-news/2025-10-27/ed-zitron-gets-paid-to-love-ai-he-also-gets-paid-t/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Na základě poskytnutého textu (pouze nadpis a popis článku) nemohu identifikovat žádné konkrétní technologické firmy. Článek zmiňuje AI obecně a osobu jménem Ed Zitron",
-        "ale neuvádí názvy konkrétních firem.\n\nžádné"
-      ],
-      "people": [
-        "Ed Zitron"
-      ]
     },
     {
       "title": "Rok 2025 a telefony Pixel stále nedoručují oznámení včas",

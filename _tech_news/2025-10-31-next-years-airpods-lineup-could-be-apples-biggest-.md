@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
 category: tech
-date: '2025-10-31 14:40:11'
+date: '2025-10-31 15:10:00'
 description: Apple just launched AirPods Pro 3, but another new AirPods model is rumored
   to arrive next year, expanding the lineup to be bigger than ever.
 importance: 4
 layout: tech_news_article
 original_title: Next year’s AirPods lineup could be Apple’s biggest ever - 9to5Mac
-publishedAt: '2025-10-31T14:40:11+00:00'
+publishedAt: '2025-10-31T15:10:00+00:00'
 slug: next-years-airpods-lineup-could-be-apples-biggest-
 source:
   emoji: 📰
