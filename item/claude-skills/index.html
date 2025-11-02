@@ -480,6 +480,8 @@
 
 <p>Začnu osobní zkušeností. Sám jsem si zvykl si řadu materiálů zpracovávat specializovanými prompty a abych si je nemusel nikde archivovat a aby je AI nezapomněla, dával jsem si tyto prompty do Projektů. Prompt jsem spouštěl klíčovým slovem Pracuj, když jsem byl ve složce Projektu. Nyní mohu tentýž doplňkový prompt spouštět přímo jako Dovednost a dokonce je mohu míchat. Je to usnadnění, sice to není zásadní, ale řekl bych, že postupem doby budeme příjemně odkrývat, jak moc to zjednodušuje práci s Claude. Takže se na to všechno podívejme podrobněji.</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vSPfE5RMbdc?si=1bzpdf5gS0p6rfT7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
 <h2 id="technická-architektura-a-postupné-odkrývání">Technická architektura a postupné odkrývání</h2>
 
 <p>Nejprve technikálie, jak to funguje. Jádrem funkce Claude Skills je technika nazvaná <a href="https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills">postupné odkrývání</a> (progressive disclosure). Místo načtení všech informací najednou do kontextového okna modelu Claude postupuje ve třech fázích. Nejprve skenuje pouze metadata - název a popis každé dostupné dovednosti, což zabírá pouhých několik desítek tokenů. Pokud identifikuje relevantní dovednost pro daný úkol, načte hlavní instrukční soubor SKILL.md obsahující podrobné pokyny. V poslední fázi přistupuje k dodatečným zdrojům jako jsou skripty nebo referenční dokumenty pouze tehdy, když je skutečně potřebuje pro splnění úkolu. Šetří to dostupný kontext, tedy množství zpracovávaných dat (a to má vliv na limity či na cenu) a je to rychlejší.</p>
@@ -617,10 +619,10 @@
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují n...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>
@@ -628,10 +630,10 @@
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>
