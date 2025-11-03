@@ -895,8 +895,8 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         if skipped_count > 0:
             logger.info(f"🚫 Přeskočeno {skipped_count} nerelevantních článků (hry, sport, zábava)")
 
-        # Vytvoření index stránky
-        self.create_index_page(processed_count)
+        # POZNÁMKA: Index stránka se již nevytváří - používáme _pages/tech-news-new.html s JSON manifestem
+        # self.create_index_page(processed_count)
 
         return True
 
