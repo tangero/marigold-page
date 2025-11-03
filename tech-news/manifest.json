@@ -1,7 +1,61 @@
 {
-  "generated": "2025-11-03T00:56:57.700264+00:00",
+  "generated": "2025-11-03T04:23:39.296019+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Treat your PC to Microsoft Office apps for less than $7 each - Mashable",
+      "description": "One lifetime license, eight apps, endless possibilities.",
+      "slug": "treat-your-pc-to-microsoft-office-apps-for-less-th",
+      "publishedAt": "2025-11-01T23:00:00+00:00",
+      "date": "2025-11-01 23:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/003OgStrRyHv29zB1J7buf9/hero-image.fill.size_1200x675.v1761919554.jpg",
+      "url": "/tech-news/2025-11-01/treat-your-pc-to-microsoft-office-apps-for-less-th/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The best Android phones never make it to the US - Android Police",
+      "description": "US Android users deserve better flagships",
+      "slug": "the-best-android-phones-never-make-it-to-the-us-an",
+      "publishedAt": "2025-11-01T19:34:00+00:00",
+      "date": "2025-11-01 19:34:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/android-flagships-xiaomi-oppo.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-01/the-best-android-phones-never-make-it-to-the-us-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive Another Day - Road & Track",
+      "description": "“I said, 'I heard you used to have the Aerotech,' and he said, 'That's not true.' I said, 'Oh, I'm so sorry to bother you,' and he said, 'No. I still have them.'”",
+      "slug": "aerotech-reborn-the-stashed-away-257-mph-gm-protot",
+      "publishedAt": "2025-11-01T19:05:35+00:00",
+      "date": "2025-11-01 19:05:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2s6a4932-6905ab5e1d3d0.jpg?crop=1.00xw:0.750xh;0,0.180xh&resize=1200:*",
+      "url": "/tech-news/2025-11-01/aerotech-reborn-the-stashed-away-257-mph-gm-protot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "RoadandTrack.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Despite their unpopularity, iPhone crossbody straps aren’t as useless as they may seem - 9to5Mac",
       "description": "With the launch of the iPhone 17 lineup this fall, Apple debuted a new accessory – the crossbody strap. It...",
@@ -34,6 +88,24 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Yes, You Can Run Windows 95 In Your Browser, And It's Glorious - bgr.com",
+      "description": "Windows 95 is back in an accessible and free way thanks to this website, which allows you to boot up the formative operating system right in your browser.",
+      "slug": "yes-you-can-run-windows-95-in-your-browser-and-its",
+      "publishedAt": "2025-11-01T18:17:00+00:00",
+      "date": "2025-11-01 18:17:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.bgr.com/img/gallery/yes-you-can-run-windows-95-in-your-browser-and-its-glorious/l-intro-1761333837.jpg",
+      "url": "/tech-news/2025-11-01/yes-you-can-run-windows-95-in-your-browser-and-its/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
       },
       "companies": [],
       "people": []
@@ -160,6 +232,78 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching - CNN",
+      "description": "As NASA’s moon-landing plans with SpaceX hang in the balance, other bold ideas are quietly starting to take shape.",
+      "slug": "inside-nasas-scramble-to-find-a-backup-moon-plan-a",
+      "publishedAt": "2025-11-01T13:32:18+00:00",
+      "date": "2025-11-01 13:32:18",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/03-two-stage-lunar-lander-concept.JPG?c=16x9&q=w_800,c_fill",
+      "url": "/tech-news/2025-11-01/inside-nasas-scramble-to-find-a-backup-moon-plan-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple Watch Ultra 3 Hits New Record Low Price of $699.99 ($99 Off) - MacRumors",
+      "description": "Apple Watch Ultra 3 has hit a new all-time low price on Amazon this weekend, available at $99 off select models. This includes the higher-end...",
+      "slug": "apple-watch-ultra-3-hits-new-record-low-price-of-6",
+      "publishedAt": "2025-11-01T13:18:16+00:00",
+      "date": "2025-11-01 13:18:16",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://images.macrumors.com/t/mXU2QtU7dBSqEi8e_eiJgwqpDMI=/2500x/article-new/2025/11/apple-watch-ultra-3-mint.jpeg",
+      "url": "/tech-news/2025-11-01/apple-watch-ultra-3-hits-new-record-low-price-of-6/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Top Stories: iOS 26.1 Imminent, iPhone 18 Rumors, and More - MacRumors",
+      "description": "After a flurry of Apple releases in September in October, the calendar has now turned to November, but that doesn't necessarily mean Apple is...",
+      "slug": "top-stories-ios-261-imminent-iphone-18-rumors-and-",
+      "publishedAt": "2025-11-01T13:00:00+00:00",
+      "date": "2025-11-01 13:00:00",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://images.macrumors.com/t/N6rWmBCN8Nx5fVC9GDx5D8dqcAE=/1600x/article-new/2025/11/top-stories-2025-11-01.jpg",
+      "url": "/tech-news/2025-11-01/top-stories-ios-261-imminent-iphone-18-rumors-and-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "‘ARC Raiders’ Has A Substantive 2025 Roadmap Already - Forbes",
+      "description": "Despite just coming out and there being only two months left in the year, Embark has a big ARC Raiders roadmap.",
+      "slug": "arc-raiders-has-a-substantive-2025-roadmap-already",
+      "publishedAt": "2025-11-01T12:47:45+00:00",
+      "date": "2025-11-01 12:47:45",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690600ca2bc4d5fb50409f77/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-11-01/arc-raiders-has-a-substantive-2025-roadmap-already/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
       },
       "companies": [],
       "people": []
@@ -3481,64 +3625,6 @@
       "people": []
     },
     {
-      "title": "Stále používáte Windows 10? Bezplatné bezpečnostní aktualizace prodlouží podporu do roku 2026",
-      "description": "Microsoft nabízí program Extended Security Updates, který poskytne bezpečnostní záplaty pro Windows 10 až do října 2026. Registrace je možná zdarma několika způsoby.",
-      "slug": "still-using-windows-10-these-free-updates-will-hel",
-      "publishedAt": "2025-10-27T23:00:00+00:00",
-      "date": "2025-10-27 23:00:00",
-      "importance": 3,
-      "category": "bezpečnostní aktuali",
-      "urlToImage": "https://www.cnet.com/a/img/resize/70173af9f175253ee1e0bdd38a8fd1b9f9003a3d/hub/2025/08/29/8343e52b-e66e-43dc-a4c4-3475ca2236ff/gettyimages-1237969321.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-27/still-using-windows-10-these-free-updates-will-hel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Stojí Oura Ring Gen 4 za investici? Po 4 měsících testování máme pochybnosti",
-      "description": "Oura Ring Gen 4 je nejlepší chytrý prsten na trhu, ale jeho vysoká cena a povinné měsíční předplatné vyvolávají otázky o dlouhodobé výhodnosti investice.",
-      "slug": "should-you-invest-in-the-oura-ring-gen-4-after-4-m",
-      "publishedAt": "2025-10-27T21:00:00+00:00",
-      "date": "2025-10-27 21:00:00",
-      "importance": 3,
-      "category": "nositelná elektronik",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GHEUXcJA4GcZNfqV6oLEWK-2132-80.jpg",
-      "url": "/tech-news/2025-10-27/should-you-invest-in-the-oura-ring-gen-4-after-4-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Live Science"
-      },
-      "companies": [
-        "Oura"
-      ],
-      "people": []
-    },
-    {
-      "title": "Loňská čtečka Kindle za 65 dolarů v renovované verzi",
-      "description": "Renovovaný model Kindle z roku 2022 je v prodeji za 65 dolarů s promo kódem. Nabídka platí do konce října.",
-      "slug": "the-last-gen-kindle-is-a-steal-at-just-65-refurbis",
-      "publishedAt": "2025-10-27T18:39:11+00:00",
-      "date": "2025-10-27 18:39:11",
-      "importance": 1,
-      "category": "e-čtečky",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VERGE-DEALS-DAILY-IMAGE-23.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-27/the-last-gen-kindle-is-a-steal-at-just-65-refurbis/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Lidské oko má limit: Kdy přestávají mít smysl další pixely na obrazovce",
       "description": "Vědci z Cambridge a Meta vyvinuli novou metodiku pro měření schopností lidského oka a určili, kdy vyšší rozlišení displeje už nepřináší viditelné zlepšení.",
       "slug": "your-eyes-can-only-handle-so-much-hdtv-currentlyco",
@@ -3557,47 +3643,6 @@
       "people": []
     },
     {
-      "title": "Sennheiser Momentum True Wireless 4 se slevou téměř 50 %",
-      "description": "Prémiová bezdrátová sluchátka Sennheiser Momentum True Wireless 4 jsou na Amazonu dostupná za 180 dolarů, což představuje slevu 170 dolarů z původní ceny.",
-      "slug": "sennheisers-awesome-wireless-earbuds-are-almost-ha",
-      "publishedAt": "2025-10-27T18:04:00+00:00",
-      "date": "2025-10-27 18:04:00",
-      "importance": 3,
-      "category": "sluchátka",
-      "urlToImage": "https://media.wired.com/photos/68ffb03faa10614a173a358a/191:100/w_1280,c_limit/Sennheiser%E2%80%99s%20Awesome%20Wireless%20Earbuds%20Are%20Almost%20Half%20Off.png",
-      "url": "/tech-news/2025-10-27/sennheisers-awesome-wireless-earbuds-are-almost-ha/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Sennheiser"
-      ],
-      "people": []
-    },
-    {
-      "title": "Telegram pro Android přidává v beta verzi efekt 'Liquid Glass'",
-      "description": "Messenger Telegram testuje v beta verzi pro Android nový vizuální efekt nazvaný Liquid Glass, který uživatelé přijímají negativně. Změna zatím není ve stabilní verzi.",
-      "slug": "telegram-for-android-adds-a-touch-of-liquid-glass-",
-      "publishedAt": "2025-10-27T17:54:56+00:00",
-      "date": "2025-10-27 17:54:56",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/telegram-fi-04.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/telegram-for-android-adds-a-touch-of-liquid-glass-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Telegram",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Passkeys jako bezpečnější alternativa k heslům",
       "description": "Passkeys nahrazují tradiční hesla a nabízejí bezpečnější způsob přihlašování bez rizika úniku dat nebo phishingu.",
       "slug": "yes-the-new-password-alternative-is-actually-safer",
@@ -3613,27 +3658,6 @@
         "name": "MakeUseOf"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sora odhaluje, jak nefunkční je detekce deepfake videí",
-      "description": "Generátor videí od OpenAI používá metadata C2PA pro označení AI obsahu, ale systém zjevně nefunguje při sdílení na jiných platformách.",
-      "slug": "sora-is-showing-us-how-broken-deepfake-detection-i",
-      "publishedAt": "2025-10-27T16:00:00+00:00",
-      "date": "2025-10-27 16:00:00",
-      "importance": 4,
-      "category": "deepfake detekce",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK419_DEEPFAKE_CVIRGINIA_C.gif?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-27/sora-is-showing-us-how-broken-deepfake-detection-i/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "OpenAI",
-        "The Verge"
-      ],
       "people": []
     },
     {
@@ -3678,27 +3702,6 @@
       "people": []
     },
     {
-      "title": "Spotify spouští novou aplikaci pro Apple TV 4K s výraznými vylepšeními",
-      "description": "Spotify vydalo kompletně přepracovanou aplikaci pro Apple TV 4K s nativním designem pro tvOS, podporou videí, textů písní a dalšími funkcemi, které mají vyrovnat rozdíl oproti Apple Music.",
-      "slug": "spotify-launches-new-apple-tv-4k-app-with-big-feat",
-      "publishedAt": "2025-10-27T14:54:00+00:00",
-      "date": "2025-10-27 14:54:00",
-      "importance": 3,
-      "category": "streamovací služby",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/spotify-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-27/spotify-launches-new-apple-tv-4k-app-with-big-feat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Spotify",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Týdenní přehled: Zneužití WSUS, návrat LockBit 5.0, zadní vrátka v Telegramu a rozšíření úniku dat F5",
       "description": "Aktivní zneužívání WSUS, comeback ransomwaru LockBit 5.0, backdoor v Telegramu a skrytý únik dat společnosti F5 představují největší kybernetické hrozby tohoto týdne.",
       "slug": "weekly-recap-wsus-exploited-lockbit-50-returns-tel",
@@ -3737,26 +3740,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Starlink nemá dostatečnou kapacitu pro ukrajinské bojové roboty",
-      "description": "Omezená šířka pásma satelitů Starlink brání Ukrajině v efektivním nasazení pozemních robotů na frontě. Terminály poskytují pouze 10 Mb/s, což neumožňuje plynulé ovládání.",
-      "slug": "spacex-starlink-internet-isnt-fast-enough-for-ukra",
-      "publishedAt": "2025-10-27T10:00:00+00:00",
-      "date": "2025-10-27 10:00:00",
-      "importance": 4,
-      "category": "vojenské technologie",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ggSgcpqu5LKJgXFcPfyp3i-1920-80.jpg",
-      "url": "/tech-news/2025-10-27/spacex-starlink-internet-isnt-fast-enough-for-ukra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space.com"
-      },
-      "companies": [
-        "SpaceX"
       ],
       "people": []
     }
