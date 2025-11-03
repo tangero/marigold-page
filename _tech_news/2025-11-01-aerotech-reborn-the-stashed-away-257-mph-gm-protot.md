@@ -1,9 +1,8 @@
 ---
 category: automobilové prototy
 date: '2025-11-01 19:05:35'
-description: Dva prototypy Oldsmobile Aerotech z roku 1987, které měly být zničeny
-  po dosažení rychlostního rekordu 257 mph, byly po desetiletích nalezeny v soukromé
-  sbírce.
+description: Legendární prototypy Aerotech od General Motors, které dosahovaly rychlosti
+  257 mil za hodinu, byly po letech objeveny v soukromé sbírce a čekají na renovaci.
 importance: 2
 layout: tech_news_article
 original_title: 'Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive
@@ -14,18 +13,18 @@ source:
   emoji: 📰
   id: null
   name: RoadandTrack.com
-title: 'Aerotech znovu nalezen: Schované prototypy GM s rychlostí 414 km/h přežily
-  zničení'
+title: 'Aerotech Reborn: Zapomenuté prototypy GM s rychlostí 414 km/h se vrací na
+  scénu'
 url: https://www.roadandtrack.com/car-culture/a69220164/aerotech-reborn-257-mph-gm-prototypes-live-to-drive-another-day/
 urlToImage: https://hips.hearstapps.com/hmg-prod/images/2s6a4932-6905ab5e1d3d0.jpg?crop=1.00xw:0.750xh;0,0.180xh&resize=1200:*
 urlToImageBackup: https://hips.hearstapps.com/hmg-prod/images/2s6a4932-6905ab5e1d3d0.jpg?crop=1.00xw:0.750xh;0,0.180xh&resize=1200:*
 ---
 
-Dva prototypy Oldsmobile Aerotech z roku 1987, které dosáhly rychlosti 257 mph (414 km/h) a následně měly být podle příkazu General Motors zničeny, byly po desetiletích nalezeny v soukromé sbírce. Sběratel Matthew Katz objevil vozy díky náhodné konverzaci s vedením muzea Petersen.
+Historické prototypy Aerotech od General Motors, které v 80. letech stanovily rychlostní rekordy s maximální rychlostí 257 mil za hodinu (414 km/h), byly po desetiletích objeveny v soukromé sbírce. Vozidla, která měla být ztracena nebo zničena, se nyní připravují na renovaci a případný návrat na veřejnost.
 
-Prototypy Aerotech byly navrženy designérem Edem Welburnem s inspirací závodními vozy Porsche 917 a postaveny pro propagační účely. Po tom, co závodní legenda A.J. Foyt dosáhl na testovací dráze Firestone v texaském Fort Stocktonu rychlostního rekordu, GM nařídil zničení karbon-fiberových karosérií, zatímco upravené podvozky z formulových vozů March CART měly být zachovány. Později byly vytvořeny tři nové verze Aerotech s předními světly pro noční jízdu, které skončily v muzeích.
+Prototypy Aerotech vznikly jako demonstrace technologických schopností GM a měly ukázat pokročilé aerodynamické řešení a výkonnost motorů. Po ukončení programu se vozidla ztratila z veřejného povědomí. Majitel, který si přál zůstat v anonymitě, vozidla uchoval ve své sbírce, kde čekala na lepší časy. Podle dostupných informací se jedná o unikátní kusy automobilové historie, které představovaly vrchol inženýrství své doby.
 
-Originální vozy však přežily díky neznámému sběrateli, který je po celá desetiletí uchovával v tajnosti. Katz vozy objevil náhodou během charitativní akce v muzeu Petersen, kde se dozvěděl o člověku tvrdícím, že prototypy vlastní. Příběh ilustruje, jak automobilové společnosti v minulosti zacházely s historickými vozy jako s pouhými nástroji, které po splnění účelu nemají hodnotu - na rozdíl od Porsche, které své vítězné vozy 917 z Le Mans 1970 zachovalo.
+Objevení vozidel přišlo náhodou při rozhovoru, kdy se majitel přiznal, že prototypy stále vlastní. Nyní se plánuje jejich restaurování a možná i veřejná prezentace, což by mohlo přinést nový pohled na historii automobilového průmyslu a technologický vývoj v éře před moderními elektromobily.
 
 ---
 

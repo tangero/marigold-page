@@ -22,11 +22,13 @@ urlToImage: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/
 urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/galaxy-s25-ultra-display-1.jpg?w=1600&h=900&fit=crop
 ---
 
-Podle jihokorejského serveru Money Today Samsung naplánoval představení řady Galaxy S26 na 25. února v San Franciscu. Únorové uvedení vlajkových lodí není u Samsungu neobvyklé - Galaxy S23 i S22 byly představeny v únoru. Jde však o první případ od Galaxy S9 v roce 2018, kdy Samsung odhalí své vlajkové telefony až v závěru února.
+Podle jihokorejského deníku Money Today Samsung uspořádá akci Unpacked pro představení řady Galaxy S26 dne 25. února v San Franciscu. Únorové uvedení vlajkových lodí není u Samsungu bezprecedentní - Galaxy S23 byl představen v únoru 2023 a Galaxy S22 v únoru 2022. Jde však o první případ od Galaxy S9 v roce 2018, kdy Samsung odhalí svou vlajkovou řadu až v závěru února.
 
-Zdrojem odkladu je podle zprávy změna produktové strategie. Samsung původně plánoval přejmenovat základní model na Galaxy S26 Pro a model Plus na Galaxy S26 Edge, nakonec však od těchto plánů ustoupil a zůstane u zavedené nomenklatury Galaxy S26, S26 Plus a S26 Ultra.
+Původně se spekulovalo, že Samsung přejmenuje základní model Galaxy S26 na Galaxy S26 Pro a model Plus získá přívlastek Edge. Tyto plány však Samsung údajně zrušil a zůstane u zavedené nomenklatury - Galaxy S26, Galaxy S26 Plus a Galaxy S26 Ultra.
 
-Model Galaxy S26 Edge, který má být výrazně tenčím zařízením, nebude představen společně s hlavní řadou a dorazí až později. Podobný scénář Samsung použil letos, kdy Galaxy S25 Edge byl odhalen až v květnu, zatímco standardní modely přišly v lednu. Informace vychází z nepotvrzených zdrojů a jedná se o spekulace.
+Odklad uvedení souvisí s úpravami produktové řady. Model Galaxy S26 Edge, který má být výrazně tenčím zařízením, nebude představen během únorové akce a dorazí až později. Podobný scénář Samsung použil letos, kdy v lednu odhalil Galaxy S25, S25 Plus a S25 Ultra, zatímco Galaxy S25 Edge byl uveden až v květnu. Během lednové akce však Samsung tenký model alespoň krátce předvedl.
+
+Jde o další z řady úniků informací o připravované řadě Galaxy S26, které v posledních týdnech nabývají na intenzitě.
 
 ---
 

@@ -3,8 +3,8 @@ category: herní telefony
 companies:
 - Ayaneo
 date: '2025-11-01 16:43:17'
-description: Čínský výrobce herních handhelds Ayaneo v krátkém teaseru potvrdil příchod
-  svého prvního telefonu s fyzickými ovladači, detaily však zatím chybí.
+description: Společnost Ayaneo, známá svými herními handheldy, potvrdila vývoj svého
+  prvního telefonu s fyzickými ovládacími prvky.
 importance: 2
 layout: tech_news_article
 original_title: Ayaneo Phone confirmed in a teaser featuring retro Remake branding
@@ -15,19 +15,19 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Ayaneo potvrdilo vývoj herního telefonu s fyzickými ovladači
+title: Ayaneo Phone potvrzen v teaseru s retro designem
 url: https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
 ---
 
-Společnost Ayaneo, známá výrobou retro herních handhelds, v krátkém propagačním videu potvrdila vývoj svého prvního telefonu s fyzickými ovladači. Jde zatím pouze o teaser s minimem konkrétních informací.
+Čínská společnost Ayaneo, která se specializuje na přenosné herní konzole s retro designem, potvrdila prostřednictvím krátké ukázky příchod svého prvního telefonu. Zařízení by mělo obsahovat fyzické ovládací prvky, což je neobvyklé pro moderní herní telefony.
 
-Z videa je patrný standardně vypadající obdélníkový telefon s duálním fotoaparátem v levém horním rohu a pravděpodobně ramenními tlačítky. Podle spekulací serveru Android Central by mohlo jít o posuvný design podobný Sony Xperia Play, kde jsou ovladače skryté pod displejem, video to však nepotvrzuje.
+Informace o telefonu jsou zatím velmi omezené. Z krátkého videa je patrný standardní obdélníkový tvar s duálním fotoaparátem v levém horním rohu a pravděpodobně ramennými tlačítky. Podle spekulací portálu Android Central by telefon mohl mít vysouvací design podobný Sony Xperia Play, kde jsou ovládací prvky skryté pod displejem, což však z videa nelze potvrdit.
 
-Ayaneo telefon poprvé naznačilo v srpnu 2025 při představení dual-screen handheldu Pocket DS. Přechod k telefonu dává smysl, protože většina herních handhelds firmy již běží na upravené verzi Androidu, přidání mobilního modemu tedy není velký krok.
+Ayaneo poprvé naznačila práci na telefonu v srpnu 2025 během představení dvooudisplejového handheldu Pocket DS. Přechod k telefonu je pro firmu logický krok, protože mnoho jejích herních zařízení již běží na upravené verzi Androidu. Není tedy technicky náročné přidat mobilní modem.
 
-Na trhu existují i další herní telefony, ty však obvykle nemají fyzické ovladače a zaměřují se primárně na výkonný hardware a chlazení. Fyzické ovládání je většinou řešeno externími příslušenstvím. Není také jasné, zda telefon vůbec dorazí na západní trhy včetně USA.
+Na trhu s herními telefony by Ayaneo nebyla sama, moderní konkurence jako ASUS ROG Phone nebo RedMagic však fyzické ovládací prvky obvykle vynechává a soustředí se na výkonné čipy a chlazení. Fyzické ovládání je standardně řešeno externím příslušenstvím. Zatím není jasné, zda telefon vůbec dorazí na západní trhy včetně USA.
 
 ---
 

@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-03T16:24:44.584261+00:00",
+  "generated": "2025-11-03T20:23:39.164790+00:00",
   "count": 200,
   "articles": [
     {
       "title": "Nová verze Siri má údajně využívat Google Gemini",
-      "description": "Podle Marka Gurmana z Bloombergu plánuje Apple v březnu 2026 představit přepracovanou Siri, která bude v pozadí využívat vlastní model založený na Google Gemini.",
+      "description": "Podle Marka Gurmana z Bloombergu plánuje Apple v březnu 2025 představit přepracovanou Siri, která bude v pozadí využívat vlastní model založený na Google Gemini.",
       "slug": "new-version-of-siri-to-lean-on-google-gemini-macru",
       "publishedAt": "2025-11-02T14:06:07+00:00",
       "date": "2025-11-02 14:06:07",
@@ -27,8 +27,31 @@
       ]
     },
     {
+      "title": "Apple údajně spustí beta verzi iOS 26.2 již v úterý, den po vydání iOS 26.1",
+      "description": "Podle Marka Gurmana z Bloombergu by Apple mohl spustit vývojářskou beta verzi iOS 26.2 již v úterý, bezprostředně po pondělním veřejném vydání iOS 26.1.",
+      "slug": "gurman-apple-launching-ios-262-beta-as-soon-as-tue",
+      "publishedAt": "2025-11-02T14:02:00+00:00",
+      "date": "2025-11-02 14:02:00",
+      "importance": 2,
+      "category": "mobilní systémy",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-02/gurman-apple-launching-ios-262-beta-as-soon-as-tue/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Bloomberg"
+      ],
+      "people": [
+        "Mark Gurman"
+      ]
+    },
+    {
       "title": "Dokonalá aplikace pro nákupní seznamy neexistuje",
-      "description": "Hledání ideální aplikace pro plánování receptů a nákupních seznamů se ukázalo být složitější, než se zdá. Žádné jednotné řešení zatím neexistuje.",
+      "description": "Hledání ideální aplikace pro plánování jídel a vytváření nákupních seznamů se ukázalo být složitější, než se zdá. Žádné jednotné řešení neexistuje.",
       "slug": "the-perfect-grocery-list-making-app-doesnt-exist-t",
       "publishedAt": "2025-11-02T14:00:00+00:00",
       "date": "2025-11-02 14:00:00",
@@ -45,8 +68,8 @@
       "people": []
     },
     {
-      "title": "Nový Apple TV a HomePod mini by mohly dorazit brzy, ale pravděpodobnost je nízká",
-      "description": "Apple údajně připravuje změny v prodejnách na 12. listopadu, ale nové produkty se pravděpodobně nedočkáme. HomePod mini a Apple TV čelí nedostatku zásob.",
+      "title": "Nový Apple TV a HomePod mini možná dorazí brzy, ale pravděpodobnost je nízká",
+      "description": "Apple údajně připravuje změny v prodejnách na 12. listopadu, ale nové produkty pravděpodobně nepřijdou. HomePod mini a Apple TV čelí nedostatku zásob.",
       "slug": "report-new-apple-tv-and-homepod-mini-could-launch-",
       "publishedAt": "2025-11-02T13:36:00+00:00",
       "date": "2025-11-02 13:36:00",
@@ -68,8 +91,26 @@
       ]
     },
     {
+      "title": "5 Android telefonů, kterým se v roce 2025 vyhnout (a co koupit místo nich)",
+      "description": "Přehled Android telefonů, které v roce 2025 nenabízejí dostatečnou hodnotu za peníze ve srovnání s konkurencí, včetně doporučení lepších alternativ.",
+      "slug": "A-5-android-phones-to-avoid-in-2025-and-what-to-bu",
+      "publishedAt": "2025-11-02T13:30:00+00:00",
+      "date": "2025-11-02 13:30:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://www.slashgear.com/img/gallery/5-android-phones-to-avoid-in-2025-and-what-to-buy-instead/l-intro-1761641103.jpg",
+      "url": "/tech-news/2025-11-02/A-5-android-phones-to-avoid-in-2025-and-what-to-bu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SlashGear"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Apple údajně zahájí 50. výročí s téměř 140miliardovým čtvrtletím",
-      "description": "Podle spekulací by Apple mohl vykázat rekordní tržby za vánoční čtvrtletí. Firma také plánuje nové displeje v prodejnách a připravuje OLED obrazovky pro MacBook Air a iPady.",
+      "description": "Podle spekulací má Apple vykázat rekordní tržby za vánoční čtvrtletí. Firma také plánuje aktualizaci obchodů a přípravu OLED displejů pro MacBook Air a iPady.",
       "slug": "apple-to-kick-off-50th-anniversary-with-nearly-140",
       "publishedAt": "2025-11-02T13:00:11+00:00",
       "date": "2025-11-02 13:00:11",
@@ -88,8 +129,8 @@
       "people": []
     },
     {
-      "title": "Výzkumníci z University of Surrey napodobují zapojení mozku pro zlepšení AI",
-      "description": "Nová metoda inspirovaná biologickými neuronovými sítěmi lidského mozku zlepšuje výkon umělých neuronových sítí při výrazném snížení energetické náročnosti.",
+      "title": "Vědci z University of Surrey napodobují propojení mozku pro zlepšení AI",
+      "description": "Nová metoda inspirovaná biologickými neuronovými sítěmi lidského mozku výrazně zlepšuje výkon umělých neuronových sítí při nižší spotřebě energie.",
       "slug": "university-of-surrey-researchers-mimic-brain-wirin",
       "publishedAt": "2025-11-02T12:31:23+00:00",
       "date": "2025-11-02 12:31:23",
@@ -106,8 +147,50 @@
       "people": []
     },
     {
-      "title": "Ray-Ban Meta Gen 2: Chytré brýle s lepší kamerou, ale sporným přínosem",
-      "description": "Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů s vylepšenou 12MP kamerou a delší výdrží baterie. Recenzent oceňuje technické parametry, ale upozorňuje na problémy s ochranou soukromí.",
+      "title": "Jak omezení iOS klávesnice odhalilo skrytou funkci Androidu",
+      "description": "Uživatel po přechodu na iPhone objevil frustrující absenci klávesy tečky na iOS klávesnici, což ho vedlo k objevení podobné, ale lépe implementované funkce na Androidu.",
+      "slug": "the-infuriating-iphone-feature-that-accidentally-m",
+      "publishedAt": "2025-11-02T12:09:00+00:00",
+      "date": "2025-11-02 12:09:00",
+      "importance": 2,
+      "category": "mobilní telefony",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/an-angry-android-mascot-peeks-over-an-iphone-keyboard.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-02/the-infuriating-iphone-feature-that-accidentally-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lenovo Yoga 9i 2-in-1 Aura Edition: Prémiový konvertibilní notebook s rekordní výdrží baterie",
+      "description": "Nový konvertibilní notebook od Lenovo nabízí OLED displej, výjimečnou výdrž baterie téměř 26 hodin a kvalitní zvuk za cenu 1 400 dolarů.",
+      "slug": "lenovo-yoga-9i-2-in-1-aura-edition-review-near-per",
+      "publishedAt": "2025-11-02T12:00:06+00:00",
+      "date": "2025-11-02 12:00:06",
+      "importance": 3,
+      "category": "notebooky",
+      "urlToImage": "https://www.cnet.com/a/img/resize/1433050442d2b9cee61687982560a97381a39ba6/hub/2025/10/31/b04d19f5-75ce-4a79-ad07-d301ec660b75/img-3601.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-02/lenovo-yoga-9i-2-in-1-aura-edition-review-near-per/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Lenovo",
+        "CNET"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ray-Ban Meta Gen 2: Chytré brýle s lepší kamerou, ale pochybnými vibracemi",
+      "description": "Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů s vylepšenou 12MP kamerou, osmihdinovou výdrží a AI funkcemi. Recenzent oceňuje technické parametry, ale má výhrady k soukromí a všudypřítomným kamerám.",
       "slug": "i-cant-help-feeling-like-a-creep-wearing-metas-new",
       "publishedAt": "2025-11-02T11:30:00+00:00",
       "date": "2025-11-02 11:30:00",
@@ -124,9 +207,69 @@
         "Meta"
       ],
       "people": [
-        "Bohužel nemám přístup k plnému textu článku",
+        "Nemám přístup k plnému textu článku",
         "pouze k nadpisu a popisu. Na základě poskytnutých informací nemohu identifikovat žádné konkrétní jmenované osobnosti.\n\nžádné"
       ]
+    },
+    {
+      "title": "Proč je vaše televize pravděpodobně špatná volba a jak to napravit",
+      "description": "Vědecký výzkum ukazuje, že lidské oko má své limity při vnímání rozlišení televizorů. Pro většinu domácností jsou 4K a 8K televize zbytečnou investicí.",
+      "slug": "why-your-tv-is-probably-the-wrong-choice-and-how-t",
+      "publishedAt": "2025-11-02T11:07:00+00:00",
+      "date": "2025-11-02 11:07:00",
+      "importance": 3,
+      "category": "televizory",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/a-hand-holding-a-remote-pointing-at-a-tv-with-a-warning-sign.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-02/why-your-tv-is-probably-the-wrong-choice-and-how-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Android Police"
+      ],
+      "people": []
+    },
+    {
+      "title": "MacBook Air z roku 2017 za necelých 200 dolarů",
+      "description": "Mashable nabízí renovovaný MacBook Air z roku 2017 za 180 dolarů. Jde o standardní prodejní článek, nikoliv technologickou novinku.",
+      "slug": "score-a-macbook-air-for-less-than-200-mashable",
+      "publishedAt": "2025-11-02T10:00:00+00:00",
+      "date": "2025-11-02 10:00:00",
+      "importance": 1,
+      "category": "hardware",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05q8AJ1wDYKuIAF2To4982F/hero-image.fill.size_1200x675.v1761919661.jpg",
+      "url": "/tech-news/2025-11-02/score-a-macbook-air-for-less-than-200-mashable/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD Radeon RX 9070 XT konečně dostupná za doporučenou cenu 599 dolarů, osm měsíců po uvedení",
+      "description": "Grafická karta AMD Radeon RX 9070 XT je po osmi měsících od uvedení na trh konečně dostupná za původně avizovanou cenu 599 dolarů. Umělé navýšení cen po startu způsobilo značnou kritiku.",
+      "slug": "amd-radeon-rx-9070-xt-finally-reaches-599-msrp-in-",
+      "publishedAt": "2025-11-02T09:34:00+00:00",
+      "date": "2025-11-02 09:34:00",
+      "importance": 3,
+      "category": "grafické karty",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/ASROCK-RX9070XT-600-USD.jpg",
+      "url": "/tech-news/2025-11-02/amd-radeon-rx-9070-xt-finally-reaches-599-msrp-in-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": []
     },
     {
       "title": "Datum uvedení Samsung Galaxy S26 uniklo, odklad pokračuje",
@@ -150,8 +293,8 @@
       "people": []
     },
     {
-      "title": "Test měření tepové frekvence AirPods Pro 3 proti Apple Watch Ultra 3",
-      "description": "Praktické srovnání nové funkce měření tepu v AirPods Pro 3 s Apple Watch. Jak si vedou sluchátka jako fitness zařízení?",
+      "title": "Test sledování tepové frekvence AirPods Pro 3 proti Apple Watch Ultra 3",
+      "description": "Nové AirPods Pro 3 přinášejí poprvé do této produktové řady sledování tepové frekvence. Praktické srovnání ukazuje, jak si vedou proti Apple Watch.",
       "slug": "i-measured-the-airpods-pro-3s-heart-rate-tracking-",
       "publishedAt": "2025-11-02T05:01:38+00:00",
       "date": "2025-11-02 05:01:38",
@@ -190,8 +333,8 @@
       "people": []
     },
     {
-      "title": "Microsoft Office 2021 v akci za 40 dolarů s doživotní licencí",
-      "description": "Prodejní akce nabízí Microsoft Office Professional 2021 pro Windows s doživotní licencí za 39,97 dolarů místo běžných 219,99 dolarů.",
+      "title": "Microsoft Office 2021 v akci za 40 dolarů",
+      "description": "Prodejce nabízí doživotní licenci Microsoft Office Professional 2021 pro Windows se slevou 82 % za 39,97 dolaru.",
       "slug": "treat-your-pc-to-microsoft-office-apps-for-less-th",
       "publishedAt": "2025-11-01T23:00:00+00:00",
       "date": "2025-11-01 23:00:00",
@@ -246,8 +389,8 @@
       "people": []
     },
     {
-      "title": "Aerotech znovu nalezen: Schované prototypy GM s rychlostí 414 km/h přežily zničení",
-      "description": "Dva prototypy Oldsmobile Aerotech z roku 1987, které měly být zničeny po dosažení rychlostního rekordu 257 mph, byly po desetiletích nalezeny v soukromé sbírce.",
+      "title": "Aerotech Reborn: Zapomenuté prototypy GM s rychlostí 414 km/h se vrací na scénu",
+      "description": "Legendární prototypy Aerotech od General Motors, které dosahovaly rychlosti 257 mil za hodinu, byly po letech objeveny v soukromé sbírce a čekají na renovaci.",
       "slug": "aerotech-reborn-the-stashed-away-257-mph-gm-protot",
       "publishedAt": "2025-11-01T19:05:35+00:00",
       "date": "2025-11-01 19:05:35",
@@ -264,8 +407,8 @@
       "people": []
     },
     {
-      "title": "Porsche podalo patentovou přihlášku na režim Tunnel Mode",
-      "description": "Budoucí vozy Porsche by mohly automaticky stahovat okna a řadit dolů při detekci tunelu. Jde však zatím pouze o patentovou přihlášku.",
+      "title": "Porsche podalo patentovou přihlášku na režim tunelu, který automaticky stáhne okna a přeřadí",
+      "description": "Budoucí vozy Porsche by mohly automaticky detekovat tunely a upravit chování vozu pro lepší zážitek ze zvuku motoru. Jde zatím pouze o patentovou přihlášku.",
       "slug": "porsche-files-patent-app-for-tunnel-mode-and-it-so",
       "publishedAt": "2025-11-01T19:00:00+00:00",
       "date": "2025-11-01 19:00:00",
@@ -303,13 +446,13 @@
       "people": []
     },
     {
-      "title": "5 užitečných vestavěných aplikací Windows, o kterých jste možná nevěděli",
-      "description": "Operační systém Windows obsahuje řadu skrytých nástrojů, které mohou zlepšit produktivitu a bezpečnost bez nutnosti instalace dalšího softwaru.",
+      "title": "5 užitečných vestavěných aplikací Windows, o kterých jste pravděpodobně nevěděli",
+      "description": "Přehled skrytých nástrojů ve Windows, které mohou zrychlit a zefektivnit práci s počítačem bez nutnosti instalace dalšího softwaru.",
       "slug": "A-5-handy-built-in-windows-apps-you-probably-didnt",
       "publishedAt": "2025-11-01T18:30:00+00:00",
       "date": "2025-11-01 18:30:00",
       "importance": 3,
-      "category": "windows aplikace",
+      "category": "windows nástroje",
       "urlToImage": "https://www.slashgear.com/img/gallery/5-handy-built-in-windows-apps-you-probably-didnt-know-exist/l-intro-1761576473.jpg",
       "url": "/tech-news/2025-11-01/A-5-handy-built-in-windows-apps-you-probably-didnt/",
       "source": {
@@ -359,8 +502,8 @@
       "people": []
     },
     {
-      "title": "AMD přidává čtyři hry ze Steamu k hernímu handheldu Lenovo Legion Go 2",
-      "description": "AMD spustilo exkluzivní akci pro síť Costco, kde k handheldu Lenovo Legion Go 2 s procesorem Ryzen Z2 přidává balíček čtyř her ze Steamu.",
+      "title": "AMD přidává čtyři hry ze Steamu k herní konzoli Lenovo Legion Go 2",
+      "description": "AMD spustilo propagační akci exkluzivně pro síť Costco, která k herní konzoli Lenovo Legion Go 2 s procesorem Ryzen Z2 přidává balíček čtyř her ze Steamu.",
       "slug": "amd-bundles-four-steam-games-with-lenovo-legion-go",
       "publishedAt": "2025-11-01T16:48:00+00:00",
       "date": "2025-11-01 16:48:00",
@@ -376,13 +519,13 @@
       "companies": [
         "AMD",
         "Lenovo",
-        "Costco"
+        "Valve"
       ],
       "people": []
     },
     {
-      "title": "Ayaneo potvrdilo vývoj herního telefonu s fyzickými ovladači",
-      "description": "Čínský výrobce herních handhelds Ayaneo v krátkém teaseru potvrdil příchod svého prvního telefonu s fyzickými ovladači, detaily však zatím chybí.",
+      "title": "Ayaneo Phone potvrzen v teaseru s retro designem",
+      "description": "Společnost Ayaneo, známá svými herními handheldy, potvrdila vývoj svého prvního telefonu s fyzickými ovládacími prvky.",
       "slug": "ayaneo-phone-confirmed-in-a-teaser-featuring-retro",
       "publishedAt": "2025-11-01T16:43:17+00:00",
       "date": "2025-11-01 16:43:17",
@@ -3057,66 +3200,6 @@
       "people": []
     },
     {
-      "title": "Gboard přináší zkratku pro rychlé zadávání symbolů přetažením prstů",
-      "description": "Klávesnice Gboard pro Android získává novou funkci, která umožňuje rychle zadávat čísla a symboly přetažením prstu dolů po klávese.",
-      "slug": "gboard-rolls-out-flick-keys-to-enter-symbols-short",
-      "publishedAt": "2025-10-28T23:22:00+00:00",
-      "date": "2025-10-28 23:22:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-19-gboard.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-28/gboard-rolls-out-flick-keys-to-enter-symbols-short/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Změny v algoritmu Google poškozují kvalitní weby ve prospěch nekvalitního obsahu",
-      "description": "Automobilový web The Autopian hlásí dramatický pokles návštěvnosti kvůli změnám v Google Discover, který nyní upřednostňuje nízkohodnotný obsah před originální žurnalistikou.",
-      "slug": "google-is-why-grandpa-thinks-a-mustang-truck-is-co",
-      "publishedAt": "2025-10-28T22:34:24+00:00",
-      "date": "2025-10-28 22:34:24",
-      "importance": 3,
-      "category": "vyhledávací algoritm",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/grandpa_AI_top.jpg",
-      "url": "/tech-news/2025-10-28/google-is-why-grandpa-thinks-a-mustang-truck-is-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Hlasový asistent Gemini for Home vstupuje do fáze předběžného přístupu",
-      "description": "Google zahajuje omezené testování hlasového asistenta Gemini pro chytré domácnosti, zatím pouze v USA. Širší dostupnost se očekává až v roce 2026.",
-      "slug": "gemini-for-home-voice-assistant-begins-early-acces",
-      "publishedAt": "2025-10-28T21:13:14+00:00",
-      "date": "2025-10-28 21:13:14",
-      "importance": 3,
-      "category": "hlasový asistent",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/gemini-google-home-logo.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-28/gemini-for-home-voice-assistant-begins-early-acces/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Sluchátka Nothing Ear Open jsou opět k dostání pod 100 dolarů",
       "description": "Bezdrátová sluchátka Nothing Ear Open s otevřeným designem jsou nyní v akci za 99 dolarů, což představuje slevu 50 dolarů oproti běžné ceně.",
       "slug": "nothings-ear-open-earbuds-are-back-under-100-right",
@@ -3199,26 +3282,6 @@
       "people": [
         "Mustafa Suleyman"
       ]
-    },
-    {
-      "title": "Prototypy modulárního telefonu Google Project Ara se objevily v nových videích po deseti letech",
-      "description": "Uživatel na TikToku ukázal tři funkční prototypy zrušeného projektu Google Project Ara, modulárního telefonu s vyměnitelnými komponenty, který byl ukončen před deseti lety.",
-      "slug": "googles-modular-project-ara-smartphone-shown-off-i",
-      "publishedAt": "2025-10-28T18:45:00+00:00",
-      "date": "2025-10-28 18:45:00",
-      "importance": 2,
-      "category": "modulární telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/google-project-ara-proto-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-28/googles-modular-project-ara-smartphone-shown-off-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Samsung oficiálně zavádí reklamy do chytrých lednic za 90 tisíc korun",
@@ -3401,26 +3464,6 @@
       "people": []
     },
     {
-      "title": "Galaxy S26 Ultra má přinést 7 vylepšení – zatím jen spekulace",
-      "description": "Úniky a spekulace naznačují možná vylepšení připravovaného Galaxy S26 Ultra, včetně nového OLED panelu a rozdělení čipsetů podle regionů.",
-      "slug": "galaxy-s26-ultra-launches-soon-and-these-7-upgrade",
-      "publishedAt": "2025-10-28T14:14:35+00:00",
-      "date": "2025-10-28 14:14:35",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175250-wide-two_1200/Galaxy-S26-Ultra-launches-soon--and-these-7-upgrades-will-blow-you-away.jpg",
-      "url": "/tech-news/2025-10-28/galaxy-s26-ultra-launches-soon-and-these-7-upgrade/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "How OpenAI’s Sora is Evolving Like TikTok - The Information",
       "description": "When OpenAI released its Sora video app last month, it seemed like an attempt to develop a TikTok-like viral video service with artificial intelligence at its core. And in some ways, usage of Sora has echoes in how TikTok is used.In a recent all-hands, OpenAI…",
       "slug": "how-openais-sora-is-evolving-like-tiktok-the-infor",
@@ -3501,26 +3544,6 @@
       "people": []
     },
     {
-      "title": "Úniky specifikací displeje a baterie Galaxy Z Fold8",
-      "description": "Objevily se první spekulace o skládacím telefonu Samsung Galaxy Z Fold8, který má přijít v červenci 2026. Telefon údajně dostane větší baterii a vylepšený displej s menší záhybovou rýhou.",
-      "slug": "galaxy-z-fold8-display-and-battery-details-leaked-",
-      "publishedAt": "2025-10-28T12:07:01+00:00",
-      "date": "2025-10-28 12:07:01",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/10/galaxy-z-fold8-display-battery-leak/-952x498w6/gsmarena_000.jpg",
-      "url": "/tech-news/2025-10-28/galaxy-z-fold8-display-and-battery-details-leaked-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "Jak používat Microsoft Copilot ve Windows 11",
       "description": "Komplexní průvodce pro začátečníky, jak pracovat s AI asistentem Copilot integrovaným do Windows 11 a dalších aplikací Microsoft.",
       "slug": "how-to-use-microsoft-copilot-on-windows-11-windows",
@@ -3592,26 +3615,6 @@
         "name": "ScienceAlert"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Galaxy S26 by mohl dostat nejnovější Bluetooth specifikaci",
-      "description": "Očekává se, že série Galaxy S26 od Samsungu bude vybavena nejnovější verzí Bluetooth. Jde však zatím pouze o spekulace.",
-      "slug": "galaxy-s26-could-have-newest-bluetooth-spec-heres-",
-      "publishedAt": "2025-10-28T09:24:00+00:00",
-      "date": "2025-10-28 09:24:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S25-Edge-home-screen-1-1200x675.jpg",
-      "url": "/tech-news/2025-10-28/galaxy-s26-could-have-newest-bluetooth-spec-heres-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung"
-      ],
       "people": []
     },
     {
