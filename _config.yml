@@ -182,6 +182,8 @@ exclude:
   - vibecoding-*.md
   - build-vibecoding*.sh
   - _includes/vibecoding-*.html
+  - _data/llm_costs.db
+  - _data/llm_costs_report.md
 
 
 # Tipue search settings
