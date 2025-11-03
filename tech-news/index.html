@@ -245,12 +245,27 @@
   <div id="tech-news-grid" class="tech-news-grid">
     <!-- Články se načtou přes JavaScript -->
   </div>
+
+  <!-- Tlačítko "Načíst další" -->
+  <div id="load-more-container" class="load-more-container" style="display: none;">
+    <button id="load-more-btn" class="load-more-btn">
+      📰 Načíst dalších 18 článků
+    </button>
+    <p class="load-more-info">Zobrazeno <span id="shown-count">0</span> z <span id="total-count">0</span> článků</p>
+  </div>
+
+  <!-- Odkaz na archiv -->
+  <div id="archive-link" class="archive-info" style="display: none;">
+    <p>🗂️ Starší články najdete v <a href="/tech-news/2025-10-31/">denních archivech</a></p>
+  </div>
 </div>
 
 <script>
 // Globální proměnné
 let allArticles = [];
 let filteredArticles = [];
+let displayedCount = 0;
+const ARTICLES_PER_PAGE = 18;
 
 // Načíst manifest při načtení stránky
 async function loadTechNews() {
@@ -268,7 +283,8 @@ async function loadTechNews() {
     allArticles = data.articles;
 
     // Vzít jen prvních 18 nejnovějších
-    filteredArticles = allArticles.slice(0, 18);
+    displayedCount = Math.min(ARTICLES_PER_PAGE, allArticles.length);
+    filteredArticles = allArticles.slice(0, displayedCount);
 
     // Zobrazit články
     renderArticles(filteredArticles);
@@ -280,8 +296,14 @@ async function loadTechNews() {
     // Aktualizovat počítadlo
     document.getElementById('articles-count').textContent = `${filteredArticles.length} článků`;
 
+    // Zobrazit "Načíst další" pokud jsou další články
+    updateLoadMoreButton();
+
     // Inicializovat filtry
     initializeFilters();
+
+    // Inicializovat "Načíst další" tlačítko
+    document.getElementById('load-more-btn').addEventListener('click', loadMoreArticles);
 
   } catch (error) {
     console.error('Chyba při načítání tech-news:', error);
@@ -290,16 +312,54 @@ async function loadTechNews() {
   }
 }
 
-// Vykreslit články
-function renderArticles(articles) {
+// Funkce pro načtení dalších článků
+function loadMoreArticles() {
+  const nextCount = Math.min(displayedCount + ARTICLES_PER_PAGE, allArticles.length);
+  const nextArticles = allArticles.slice(displayedCount, nextCount);
+
+  if (nextArticles.length === 0) return;
+
+  displayedCount = nextCount;
+  filteredArticles = allArticles.slice(0, displayedCount);
+
+  // Přidat nové články k existujícím (append)
   const grid = document.getElementById('tech-news-grid');
+  grid.innerHTML += nextArticles.map(article => createArticleHTML(article)).join('');
 
-  if (articles.length === 0) {
-    grid.innerHTML = '<div class="tech-news-empty"><p>📭 Žádné články k zobrazení</p></div>';
-    return;
+  // Aktualizovat tlačítko
+  updateLoadMoreButton();
+
+  // Převést časy na lokální
+  convertTimesToLocal();
+}
+
+// Aktualizovat stav "Načíst další" tlačítka
+function updateLoadMoreButton() {
+  const container = document.getElementById('load-more-container');
+  const button = document.getElementById('load-more-btn');
+  const shownCount = document.getElementById('shown-count');
+  const totalCount = document.getElementById('total-count');
+  const archiveLink = document.getElementById('archive-link');
+
+  shownCount.textContent = displayedCount;
+  totalCount.textContent = allArticles.length;
+
+  if (displayedCount < allArticles.length) {
+    // Jsou další články
+    container.style.display = 'block';
+    button.disabled = false;
+    const remaining = allArticles.length - displayedCount;
+    button.textContent = `📰 Načíst dalších ${Math.min(remaining, ARTICLES_PER_PAGE)} článků`;
+  } else {
+    // Žádné další články v manifestu
+    container.style.display = 'none';
+    archiveLink.style.display = 'block';
   }
+}
 
-  grid.innerHTML = articles.map(article => `
+// Vytvořit HTML pro jeden článek (helper funkce)
+function createArticleHTML(article) {
+  return `
     <article class="tech-news-card" data-category="${article.category || 'technology'}" data-importance="${article.importance || 3}">
       <div class="tech-news-meta">
         <span class="tech-news-emoji">${article.source?.emoji || '📰'}</span>
@@ -364,7 +424,19 @@ function renderArticles(articles) {
         ` : ''}
       </div>
     </article>
-  `).join('');
+  `;
+}
+
+// Vykreslit články
+function renderArticles(articles) {
+  const grid = document.getElementById('tech-news-grid');
+
+  if (articles.length === 0) {
+    grid.innerHTML = '<div class="tech-news-empty"><p>📭 Žádné články k zobrazení</p></div>';
+    return;
+  }
+
+  grid.innerHTML = articles.map(article => createArticleHTML(article)).join('');
 
   // Inicializovat tracking
   if (typeof initTechNewsTracking === 'function') {
@@ -901,6 +973,73 @@ if (document.readyState === 'loading') {
   .tech-news-header h1 {
     font-size: 2rem;
   }
+}
+
+/* Tlačítko "Načíst další" */
+.load-more-container {
+  text-align: center;
+  padding: 3rem 0;
+  margin-top: 2rem;
+}
+
+.load-more-btn {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+}
+
+.load-more-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+}
+
+.load-more-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.load-more-info {
+  margin-top: 1rem;
+  color: #718096;
+  font-size: 0.95rem;
+}
+
+.load-more-info span {
+  font-weight: 600;
+  color: #2d3748;
+}
+
+/* Archiv info */
+.archive-info {
+  text-align: center;
+  padding: 2rem 0;
+  margin-top: 2rem;
+  background: #f7fafc;
+  border-radius: 12px;
+}
+
+.archive-info p {
+  margin: 0;
+  color: #4a5568;
+  font-size: 1rem;
+}
+
+.archive-info a {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.archive-info a:hover {
+  text-decoration: underline;
 }
 </style>
 
