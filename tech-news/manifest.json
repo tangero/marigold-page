@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-03T04:23:39.296019+00:00",
+  "generated": "2025-11-03T08:19:51.816497+00:00",
   "count": 200,
   "articles": [
     {
@@ -16,6 +16,24 @@
         "emoji": "📰",
         "id": "mashable",
         "name": "Mashable"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "These work-from-home gadgets and routines doubled my productivity - MakeUseOf",
+      "description": "I use these gadgets and routines to make my WFH setup more productive.",
+      "slug": "these-work-from-home-gadgets-and-routines-doubled-",
+      "publishedAt": "2025-11-01T20:00:00+00:00",
+      "date": "2025-11-01 20:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/l-desk-with-daul-monitor-mount-and-various-gadgets.jpeg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-01/these-work-from-home-gadgets-and-routines-doubled-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MakeUseOf"
       },
       "companies": [],
       "people": []
@@ -142,6 +160,24 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I was ready to buy an Apple Watch Ultra 3 – here’s why I’m getting a Series 11 instead, for a fraction of the cost - TechRadar",
+      "description": "I saved hundreds by downgrading",
+      "slug": "i-was-ready-to-buy-an-apple-watch-ultra-3-heres-wh",
+      "publishedAt": "2025-11-01T15:00:00+00:00",
+      "date": "2025-11-01 15:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vd8Tachg8Lo9BrXuJmSyzn-2289-80.jpg",
+      "url": "/tech-news/2025-11-01/i-was-ready-to-buy-an-apple-watch-ultra-3-heres-wh/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
       },
       "companies": [],
       "people": []
@@ -327,6 +363,24 @@
       "people": []
     },
     {
+      "title": "After Elon Tantrum, SpaceX Now Prepping ‘Simplified’ Starship-Based Lunar Lander - PCMag",
+      "description": "Amid concerns over China’s space-related progress, NASA is reviewing new lunar lander proposals from SpaceX and Blue Origin. The move initially prompted a flurry of insults from Musk on X.",
+      "slug": "after-elon-tantrum-spacex-now-prepping-simplified-",
+      "publishedAt": "2025-11-01T12:00:06+00:00",
+      "date": "2025-11-01 12:00:06",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/03O3rKGlEfJZKzeT7zgXY9h-1.fit_lim.size_1200x630.v1761943573.jpg",
+      "url": "/tech-news/2025-11-01/after-elon-tantrum-spacex-now-prepping-simplified-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Honda Salesman Takes Chevy Trailblazer to Dealership. Then GM Refuses Coverage Because of How His Car Smells - Motor1.com",
       "description": "In a viral video, a Honda salesman says he brought his Trailblazer to a Chevrolet dealership and was shocked by how his issue was handled.",
       "slug": "honda-salesman-takes-chevy-trailblazer-to-dealersh",
@@ -484,6 +538,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "First look at how Copilot will change Windows 11 taskbar search - Windows Latest",
+      "description": "Microsoft testing \"Ask Copilot\" in the Windows 11 taskbar, replacing Search with Copilot Vision, Voice, rolling out now in Build 26220.7051",
+      "slug": "first-look-at-how-copilot-will-change-windows-11-t",
+      "publishedAt": "2025-11-01T00:24:31+00:00",
+      "date": "2025-11-01 00:24:31",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2025/11/Ask-Copilot-in-the-taskbar-in-place-of-Windows-Search.jpg",
+      "url": "/tech-news/2025-11-01/first-look-at-how-copilot-will-change-windows-11-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WindowsLatest"
       },
       "companies": [],
       "people": []
@@ -3658,89 +3730,6 @@
         "name": "MakeUseOf"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Outer Worlds 2: Test výkonu s více než 30 grafickými kartami",
-      "description": "Obsidian vydal pokračování sci-fi RPG postavené na Unreal Engine 5. Hra má vysoké systémové požadavky a technické problémy, test zahrnuje výkonnostní analýzu desítek GPU.",
-      "slug": "the-outer-worlds-2-performance-benchmark-review-30",
-      "publishedAt": "2025-10-27T15:28:00+00:00",
-      "date": "2025-10-27 15:28:00",
-      "importance": 3,
-      "category": "herní hardware",
-      "urlToImage": "https://www.techpowerup.com/review/the-outer-worlds-2-performance-benchmark/images/title.jpg",
-      "url": "/tech-news/2025-10-27/the-outer-worlds-2-performance-benchmark-review-30/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Microsoft",
-        "Epic Games"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nový MacBook Air s čipem M5 může mít problém s přehříváním",
-      "description": "Testy ukazují, že čip M5 v MacBooku Pro generuje více tepla, než dokáže odvést jedno chlazení. To může být ještě větší problém pro tenčí MacBook Air.",
-      "slug": "the-next-macbook-air-might-have-a-big-problem-gizm",
-      "publishedAt": "2025-10-27T14:58:37+00:00",
-      "date": "2025-10-27 14:58:37",
-      "importance": 3,
-      "category": "notebooky",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/MacBook-Air-M4-Blue-Color-2-1200x675.jpg",
-      "url": "/tech-news/2025-10-27/the-next-macbook-air-might-have-a-big-problem-gizm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Týdenní přehled: Zneužití WSUS, návrat LockBit 5.0, zadní vrátka v Telegramu a rozšíření úniku dat F5",
-      "description": "Aktivní zneužívání WSUS, comeback ransomwaru LockBit 5.0, backdoor v Telegramu a skrytý únik dat společnosti F5 představují největší kybernetické hrozby tohoto týdne.",
-      "slug": "weekly-recap-wsus-exploited-lockbit-50-returns-tel",
-      "publishedAt": "2025-10-27T12:51:00+00:00",
-      "date": "2025-10-27 12:51:00",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2q6euKywSmaEnRcHkwDW0flTn3K1gG307F71NC88dB79TWO64M7pzPZ4Fkf5NtpizatYaN1f2mLWHXbwUnU0IZrq7gJpvsiPuQ4Fs1c8AuGLgdf6F0qF-kBH9GFBu1tyEGCduxFZQw0HuN3J8N5q2OHBtCopO1bjIk9NuCoHveb8Bw_gZWioAY0CsBr3/s790-rw-e365/recap-hacker.jpg",
-      "url": "/tech-news/2025-10-27/weekly-recap-wsus-exploited-lockbit-50-returns-tel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Microsoft",
-        "F5",
-        "Telegram"
-      ],
-      "people": []
-    },
-    {
-      "title": "Skrytá nastavení klávesnice Gboard, která většina uživatelů přehlíží",
-      "description": "Několik málo změn v nastavení klávesnice Gboard může výrazně zrychlit psaní na Androidu. Jde především o číselný řádek a rychlý přístup k symbolům.",
-      "slug": "the-secret-android-keyboard-settings-everyone-forg",
-      "publishedAt": "2025-10-27T12:45:00+00:00",
-      "date": "2025-10-27 12:45:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/android-key-secret-settings.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-27/the-secret-android-keyboard-settings-everyone-forg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google"
-      ],
       "people": []
     }
   ]
