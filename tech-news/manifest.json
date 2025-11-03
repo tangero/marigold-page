@@ -1,15 +1,202 @@
 {
-  "generated": "2025-11-03T08:19:51.816497+00:00",
+  "generated": "2025-11-03T16:24:44.584261+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Treat your PC to Microsoft Office apps for less than $7 each - Mashable",
-      "description": "One lifetime license, eight apps, endless possibilities.",
+      "title": "Nová verze Siri má údajně využívat Google Gemini",
+      "description": "Podle Marka Gurmana z Bloombergu plánuje Apple v březnu 2026 představit přepracovanou Siri, která bude v pozadí využívat vlastní model založený na Google Gemini.",
+      "slug": "new-version-of-siri-to-lean-on-google-gemini-macru",
+      "publishedAt": "2025-11-02T14:06:07+00:00",
+      "date": "2025-11-02 14:06:07",
+      "importance": 2,
+      "category": "ai asistenti",
+      "urlToImage": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
+      "url": "/tech-news/2025-11-02/new-version-of-siri-to-lean-on-google-gemini-macru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Bloomberg"
+      ],
+      "people": [
+        "Mark Gurman"
+      ]
+    },
+    {
+      "title": "Dokonalá aplikace pro nákupní seznamy neexistuje",
+      "description": "Hledání ideální aplikace pro plánování receptů a nákupních seznamů se ukázalo být složitější, než se zdá. Žádné jednotné řešení zatím neexistuje.",
+      "slug": "the-perfect-grocery-list-making-app-doesnt-exist-t",
+      "publishedAt": "2025-11-02T14:00:00+00:00",
+      "date": "2025-11-02 14:00:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258039_grocery_list_app_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-02/the-perfect-grocery-list-making-app-doesnt-exist-t/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nový Apple TV a HomePod mini by mohly dorazit brzy, ale pravděpodobnost je nízká",
+      "description": "Apple údajně připravuje změny v prodejnách na 12. listopadu, ale nové produkty se pravděpodobně nedočkáme. HomePod mini a Apple TV čelí nedostatku zásob.",
+      "slug": "report-new-apple-tv-and-homepod-mini-could-launch-",
+      "publishedAt": "2025-11-02T13:36:00+00:00",
+      "date": "2025-11-02 13:36:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-02/report-new-apple-tv-and-homepod-mini-could-launch-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Bloomberg"
+      ],
+      "people": [
+        "Mark Gurman"
+      ]
+    },
+    {
+      "title": "Apple údajně zahájí 50. výročí s téměř 140miliardovým čtvrtletím",
+      "description": "Podle spekulací by Apple mohl vykázat rekordní tržby za vánoční čtvrtletí. Firma také plánuje nové displeje v prodejnách a připravuje OLED obrazovky pro MacBook Air a iPady.",
+      "slug": "apple-to-kick-off-50th-anniversary-with-nearly-140",
+      "publishedAt": "2025-11-02T13:00:11+00:00",
+      "date": "2025-11-02 13:00:11",
+      "importance": 2,
+      "category": "apple",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZApvAoMJSq8/v1/1200x800.jpg",
+      "url": "/tech-news/2025-11-02/apple-to-kick-off-50th-anniversary-with-nearly-140/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výzkumníci z University of Surrey napodobují zapojení mozku pro zlepšení AI",
+      "description": "Nová metoda inspirovaná biologickými neuronovými sítěmi lidského mozku zlepšuje výkon umělých neuronových sítí při výrazném snížení energetické náročnosti.",
+      "slug": "university-of-surrey-researchers-mimic-brain-wirin",
+      "publishedAt": "2025-11-02T12:31:23+00:00",
+      "date": "2025-11-02 12:31:23",
+      "importance": 3,
+      "category": "neuronové sítě",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/63a3/live/19cfda60-b5ac-11f0-b392-ad2df543f963.png",
+      "url": "/tech-news/2025-11-02/university-of-surrey-researchers-mimic-brain-wirin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ray-Ban Meta Gen 2: Chytré brýle s lepší kamerou, ale sporným přínosem",
+      "description": "Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů s vylepšenou 12MP kamerou a delší výdrží baterie. Recenzent oceňuje technické parametry, ale upozorňuje na problémy s ochranou soukromí.",
+      "slug": "i-cant-help-feeling-like-a-creep-wearing-metas-new",
+      "publishedAt": "2025-11-02T11:30:00+00:00",
+      "date": "2025-11-02 11:30:00",
+      "importance": 3,
+      "category": "chytré brýle",
+      "urlToImage": "https://media.wired.com/photos/6906870d7b005df85cad76e5/191:100/w_1280,c_limit/Review-%20Ray-Ban%20Meta%20Gen%202.png",
+      "url": "/tech-news/2025-11-02/i-cant-help-feeling-like-a-creep-wearing-metas-new/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Bohužel nemám přístup k plnému textu článku",
+        "pouze k nadpisu a popisu. Na základě poskytnutých informací nemohu identifikovat žádné konkrétní jmenované osobnosti.\n\nžádné"
+      ]
+    },
+    {
+      "title": "Datum uvedení Samsung Galaxy S26 uniklo, odklad pokračuje",
+      "description": "Samsung údajně představí řadu Galaxy S26 až 25. února v San Franciscu, což znamená další odklad oproti původním očekáváním.",
+      "slug": "the-samsung-galaxy-s26-launch-date-has-leaked-and-",
+      "publishedAt": "2025-11-02T08:56:00+00:00",
+      "date": "2025-11-02 08:56:00",
+      "importance": 2,
+      "category": "mobilní telefony",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/galaxy-s25-ultra-display-1.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-02/the-samsung-galaxy-s26-launch-date-has-leaked-and-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Samsung",
+        "Android Police"
+      ],
+      "people": []
+    },
+    {
+      "title": "Test měření tepové frekvence AirPods Pro 3 proti Apple Watch Ultra 3",
+      "description": "Praktické srovnání nové funkce měření tepu v AirPods Pro 3 s Apple Watch. Jak si vedou sluchátka jako fitness zařízení?",
+      "slug": "i-measured-the-airpods-pro-3s-heart-rate-tracking-",
+      "publishedAt": "2025-11-02T05:01:38+00:00",
+      "date": "2025-11-02 05:01:38",
+      "importance": 3,
+      "category": "nositelná elektronik",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wt6eciubiB98pxzuMAwU5Q-2560-80.jpg",
+      "url": "/tech-news/2025-11-02/i-measured-the-airpods-pro-3s-heart-rate-tracking-/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "15palcový MacBook Air M3 v akci za výrazně sníženou cenu",
+      "description": "Prodejci vyprodávají starší model MacBook Air s čipem M3, který je nyní dostupný s lepší výbavou za nižší cenu než základní verze nového modelu M4.",
+      "slug": "this-15-inch-macbook-air-deal-makes-upgrading-more",
+      "publishedAt": "2025-11-02T02:35:00+00:00",
+      "date": "2025-11-02 02:35:00",
+      "importance": 2,
+      "category": "notebooky",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/m3-macbook-air-battery-life.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-02/this-15-inch-macbook-air-deal-makes-upgrading-more/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft Office 2021 v akci za 40 dolarů s doživotní licencí",
+      "description": "Prodejní akce nabízí Microsoft Office Professional 2021 pro Windows s doživotní licencí za 39,97 dolarů místo běžných 219,99 dolarů.",
       "slug": "treat-your-pc-to-microsoft-office-apps-for-less-th",
       "publishedAt": "2025-11-01T23:00:00+00:00",
       "date": "2025-11-01 23:00:00",
-      "importance": 3,
-      "category": "tech",
+      "importance": 1,
+      "category": "kancelářský software",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/003OgStrRyHv29zB1J7buf9/hero-image.fill.size_1200x675.v1761919554.jpg",
       "url": "/tech-news/2025-11-01/treat-your-pc-to-microsoft-office-apps-for-less-th/",
       "source": {
@@ -17,7 +204,9 @@
         "id": "mashable",
         "name": "Mashable"
       },
-      "companies": [],
+      "companies": [
+        "Microsoft"
+      ],
       "people": []
     },
     {
@@ -57,13 +246,13 @@
       "people": []
     },
     {
-      "title": "Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive Another Day - Road & Track",
-      "description": "“I said, 'I heard you used to have the Aerotech,' and he said, 'That's not true.' I said, 'Oh, I'm so sorry to bother you,' and he said, 'No. I still have them.'”",
+      "title": "Aerotech znovu nalezen: Schované prototypy GM s rychlostí 414 km/h přežily zničení",
+      "description": "Dva prototypy Oldsmobile Aerotech z roku 1987, které měly být zničeny po dosažení rychlostního rekordu 257 mph, byly po desetiletích nalezeny v soukromé sbírce.",
       "slug": "aerotech-reborn-the-stashed-away-257-mph-gm-protot",
       "publishedAt": "2025-11-01T19:05:35+00:00",
       "date": "2025-11-01 19:05:35",
-      "importance": 3,
-      "category": "tech",
+      "importance": 2,
+      "category": "automobilové prototy",
       "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2s6a4932-6905ab5e1d3d0.jpg?crop=1.00xw:0.750xh;0,0.180xh&resize=1200:*",
       "url": "/tech-news/2025-11-01/aerotech-reborn-the-stashed-away-257-mph-gm-protot/",
       "source": {
@@ -72,6 +261,27 @@
         "name": "RoadandTrack.com"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Porsche podalo patentovou přihlášku na režim Tunnel Mode",
+      "description": "Budoucí vozy Porsche by mohly automaticky stahovat okna a řadit dolů při detekci tunelu. Jde však zatím pouze o patentovou přihlášku.",
+      "slug": "porsche-files-patent-app-for-tunnel-mode-and-it-so",
+      "publishedAt": "2025-11-01T19:00:00+00:00",
+      "date": "2025-11-01 19:00:00",
+      "importance": 2,
+      "category": "automobilový průmysl",
+      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2025/10/Porsche_Nevada_C4S_M07.jpg?quality=85&w=1200",
+      "url": "/tech-news/2025-11-01/porsche-files-patent-app-for-tunnel-mode-and-it-so/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Drive"
+      },
+      "companies": [
+        "Porsche",
+        "Tesla"
+      ],
       "people": []
     },
     {
@@ -90,6 +300,26 @@
         "name": "9to5Mac"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "5 užitečných vestavěných aplikací Windows, o kterých jste možná nevěděli",
+      "description": "Operační systém Windows obsahuje řadu skrytých nástrojů, které mohou zlepšit produktivitu a bezpečnost bez nutnosti instalace dalšího softwaru.",
+      "slug": "A-5-handy-built-in-windows-apps-you-probably-didnt",
+      "publishedAt": "2025-11-01T18:30:00+00:00",
+      "date": "2025-11-01 18:30:00",
+      "importance": 3,
+      "category": "windows aplikace",
+      "urlToImage": "https://www.slashgear.com/img/gallery/5-handy-built-in-windows-apps-you-probably-didnt-know-exist/l-intro-1761576473.jpg",
+      "url": "/tech-news/2025-11-01/A-5-handy-built-in-windows-apps-you-probably-didnt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SlashGear"
+      },
+      "companies": [
+        "Microsoft"
+      ],
       "people": []
     },
     {
@@ -129,13 +359,13 @@
       "people": []
     },
     {
-      "title": "AMD bundles four Steam games with Lenovo Legion Go 2, Costco only - VideoCardz.com",
-      "description": "AMD launches “4 Games” bundle for Lenovo Legion Go 2 with Ryzen Z2 APU AMD has launched a Costco-exclusive promotion for Lenovo’s Legion Go 2 with the Ryzen Z2 APU. The handheld features an 8.8-inch 1920×1200 OLED display at up to 144 Hz, detachable controlle…",
+      "title": "AMD přidává čtyři hry ze Steamu k hernímu handheldu Lenovo Legion Go 2",
+      "description": "AMD spustilo exkluzivní akci pro síť Costco, kde k handheldu Lenovo Legion Go 2 s procesorem Ryzen Z2 přidává balíček čtyř her ze Steamu.",
       "slug": "amd-bundles-four-steam-games-with-lenovo-legion-go",
       "publishedAt": "2025-11-01T16:48:00+00:00",
       "date": "2025-11-01 16:48:00",
-      "importance": 4,
-      "category": "tech",
+      "importance": 3,
+      "category": "herní hardware",
       "urlToImage": "https://cdn.videocardz.com/1/2025/11/LEGION-GO-AMD-GAME-BUNDLE.jpg",
       "url": "/tech-news/2025-11-01/amd-bundles-four-steam-games-with-lenovo-legion-go/",
       "source": {
@@ -143,17 +373,21 @@
         "id": null,
         "name": "Videocardz.com"
       },
-      "companies": [],
+      "companies": [
+        "AMD",
+        "Lenovo",
+        "Costco"
+      ],
       "people": []
     },
     {
-      "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding - The Verge",
-      "description": "A teaser video confirms there’s an Ayaneo Phone coming with physical controls.",
+      "title": "Ayaneo potvrdilo vývoj herního telefonu s fyzickými ovladači",
+      "description": "Čínský výrobce herních handhelds Ayaneo v krátkém teaseru potvrdil příchod svého prvního telefonu s fyzickými ovladači, detaily však zatím chybí.",
       "slug": "ayaneo-phone-confirmed-in-a-teaser-featuring-retro",
       "publishedAt": "2025-11-01T16:43:17+00:00",
       "date": "2025-11-01 16:43:17",
-      "importance": 3,
-      "category": "tech",
+      "importance": 2,
+      "category": "herní telefony",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "url": "/tech-news/2025-11-01/ayaneo-phone-confirmed-in-a-teaser-featuring-retro/",
       "source": {
@@ -161,17 +395,39 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "companies": [],
+      "companies": [
+        "Ayaneo"
+      ],
       "people": []
     },
     {
-      "title": "I was ready to buy an Apple Watch Ultra 3 – here’s why I’m getting a Series 11 instead, for a fraction of the cost - TechRadar",
-      "description": "I saved hundreds by downgrading",
+      "title": "Windows 11 Build 26220.7051 vydán s funkcí \"Ask Copilot",
+      "description": "Windows 11 Build 26220.7051 se nyní distribuuje testerům v programu Windows Insider a přináší alespoň tři nové funkce, včetně Ask Copilot v hlavním panelu.",
+      "slug": "windows-11-build-262207051-released-with-ask-copil",
+      "publishedAt": "2025-11-01T16:17:22+00:00",
+      "date": "2025-11-01 16:17:22",
+      "importance": 4,
+      "category": "operační systémy",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/02/07/Windows-11.jpg",
+      "url": "/tech-news/2025-11-01/windows-11-build-262207051-released-with-ask-copil/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč si místo Apple Watch Ultra 3 koupím Series 11 a ušetřím tisíce",
+      "description": "Osobní úvaha autora, proč se rozhodl pro levnější model Series 11 místo vlajkové lodi Ultra 3.",
       "slug": "i-was-ready-to-buy-an-apple-watch-ultra-3-heres-wh",
       "publishedAt": "2025-11-01T15:00:00+00:00",
       "date": "2025-11-01 15:00:00",
-      "importance": 3,
-      "category": "tech",
+      "importance": 2,
+      "category": "chytré hodinky",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vd8Tachg8Lo9BrXuJmSyzn-2289-80.jpg",
       "url": "/tech-news/2025-11-01/i-was-ready-to-buy-an-apple-watch-ultra-3-heres-wh/",
       "source": {
@@ -179,7 +435,9 @@
         "id": "techradar",
         "name": "TechRadar"
       },
-      "companies": [],
+      "companies": [
+        "Apple"
+      ],
       "people": []
     },
     {
@@ -201,13 +459,13 @@
       "people": []
     },
     {
-      "title": "Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser - Phoronix",
-      "description": "Open-source developer Joel Severin today announced his work on porting the Linux kernel to WebAssembly and has successffully gotten the kernel up and running within WASM-capable web browsers.",
+      "title": "Linuxové jádro portováno do WebAssembly - demo běží přímo v prohlížeči",
+      "description": "Open-source vývojář Joel Severin úspěšně portoval linuxové jádro do WebAssembly a zprovoznil ho v běžných webových prohlížečích, včetně funkčního shellu.",
       "slug": "linux-kernel-ported-to-webassembly-demo-lets-you-r",
       "publishedAt": "2025-11-01T14:40:00+00:00",
       "date": "2025-11-01 14:40:00",
       "importance": 3,
-      "category": "tech",
+      "category": "webové technologie",
       "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=linux_wasm_2",
       "url": "/tech-news/2025-11-01/linux-kernel-ported-to-webassembly-demo-lets-you-r/",
       "source": {
@@ -216,16 +474,18 @@
         "name": "Phoronix"
       },
       "companies": [],
-      "people": []
+      "people": [
+        "Joel Severin"
+      ]
     },
     {
-      "title": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday - The Verge",
-      "description": "LG’s B5 is an excellent entry-level OLED TV, and the 48-inch model is currently on sale for just $529.99 at Best Buy ahead of Black Friday.",
+      "title": "OLED televize LG B5 v Black Friday slevě za 530 dolarů",
+      "description": "48palcový model vstupní OLED televize LG B5 je v předstihu před Black Friday dostupný za 530 dolarů, což představuje slevu 770 dolarů oproti běžné ceně.",
       "slug": "lgs-brilliant-b5-oled-tv-is-already-down-to-just-5",
       "publishedAt": "2025-11-01T14:00:00+00:00",
       "date": "2025-11-01 14:00:00",
       "importance": 3,
-      "category": "tech",
+      "category": "televizory",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/LG-B5-OLED-TV-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-01/lgs-brilliant-b5-oled-tv-is-already-down-to-just-5/",
       "source": {
@@ -233,7 +493,10 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "companies": [],
+      "companies": [
+        "LG",
+        "Best Buy"
+      ],
       "people": []
     },
     {
@@ -255,13 +518,13 @@
       "people": []
     },
     {
-      "title": "Nest Audio, Mini, and Home Mini get updated lights with Gemini - 9to5Google",
-      "description": "With the Gemini for Home voice assistant, Google has updated the LED lights on the Home Mini, Nest Mini, and Nest Audio.",
+      "title": "Google aktualizoval LED indikátory na reproduktorech Nest s asistentem Gemini",
+      "description": "Chytré reproduktory Google Home Mini, Nest Mini a Nest Audio dostaly nové barevné LED indikátory po přechodu na hlasového asistenta Gemini for Home.",
       "slug": "nest-audio-mini-and-home-mini-get-updated-lights-w",
       "publishedAt": "2025-11-01T13:40:56+00:00",
       "date": "2025-11-01 13:40:56",
       "importance": 3,
-      "category": "tech",
+      "category": "chytré reproduktory",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_audio_sage_4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-01/nest-audio-mini-and-home-mini-get-updated-lights-w/",
       "source": {
@@ -269,7 +532,9 @@
         "id": null,
         "name": "9to5google.com"
       },
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
       "people": []
     },
     {
@@ -2852,26 +3117,6 @@
       "people": []
     },
     {
-      "title": "Apple vydal kandidátské verze watchOS 26.1, tvOS 26.1 a dalších systémů",
-      "description": "Apple dnes zpřístupnil RC verze nadcházejících aktualizací pro všechny své platformy. Veřejné vydání se očekává během příštího týdne.",
-      "slug": "apple-debuts-rcs-for-watchos-261-tvos-261-and-more",
-      "publishedAt": "2025-10-28T21:11:00+00:00",
-      "date": "2025-10-28 21:11:00",
-      "importance": 3,
-      "category": "softwarové aktualiza",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/watchOS-26.1-rc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-28/apple-debuts-rcs-for-watchos-261-tvos-261-and-more/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Sluchátka Nothing Ear Open jsou opět k dostání pod 100 dolarů",
       "description": "Bezdrátová sluchátka Nothing Ear Open s otevřeným designem jsou nyní v akci za 99 dolarů, což představuje slevu 50 dolarů oproti běžné ceně.",
       "slug": "nothings-ear-open-earbuds-are-back-under-100-right",
@@ -2889,26 +3134,6 @@
       "companies": [
         "Nothing",
         "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple údajně plánuje MacBook Air, iPad Air a iPad mini s OLED displeji",
-      "description": "Podle zdrojů Bloomberg testuje Apple nové verze MacBook Air, iPad mini a iPad Air s OLED obrazovkami místo současných LCD panelů.",
-      "slug": "apple-plans-macbook-air-ipad-air-and-ipad-mini-wit",
-      "publishedAt": "2025-10-28T20:56:27+00:00",
-      "date": "2025-10-28 20:56:27",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBtB59Tcoa8/v1/1200x800.jpg",
-      "url": "/tech-news/2025-10-28/apple-plans-macbook-air-ipad-air-and-ipad-mini-wit/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Apple"
       ],
       "people": []
     },
@@ -2974,27 +3199,6 @@
       "people": [
         "Mustafa Suleyman"
       ]
-    },
-    {
-      "title": "Apple obviňuje inženýra Oppo z krádeže obchodních tajemství Apple Watch",
-      "description": "Bývalý inženýr Apple Watch Chen Shi údajně ukradl citlivé informace o senzorech a prezentoval je stovkám zaměstnanců čínské společnosti Oppo.",
-      "slug": "apple-says-oppo-engineer-stole-apple-watch-trade-s",
-      "publishedAt": "2025-10-28T19:09:49+00:00",
-      "date": "2025-10-28 19:09:49",
-      "importance": 4,
-      "category": "průmyslová špionáž",
-      "urlToImage": "https://images.macrumors.com/t/TjHN55N6QK9foP6DVIxJy3OpzxU=/2500x/article-new/2025/09/apple-watch-ultra-3-blue.jpeg",
-      "url": "/tech-news/2025-10-28/apple-says-oppo-engineer-stole-apple-watch-trade-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "Oppo"
-      ],
-      "people": []
     },
     {
       "title": "Prototypy modulárního telefonu Google Project Ara se objevily v nových videích po deseti letech",
@@ -3197,48 +3401,6 @@
       "people": []
     },
     {
-      "title": "AMD přejmenovává několik let staré procesory pro levné notebooky",
-      "description": "AMD tiše přejmenovala starší notebookové procesory z let 2019-2022 s novými čísly modelů. Intel postupuje podobně u levných počítačů.",
-      "slug": "amd-shores-up-its-budget-laptop-cpus-by-renaming-m",
-      "publishedAt": "2025-10-28T15:17:13+00:00",
-      "date": "2025-10-28 15:17:13",
-      "importance": 3,
-      "category": "notebookové procesor",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/AMD-mendocino-1152x648.jpg",
-      "url": "/tech-news/2025-10-28/amd-shores-up-its-budget-laptop-cpus-by-renaming-m/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "AMD",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Adobe a Google Cloud rozšiřují partnerství v oblasti kreativní AI",
-      "description": "Adobe a Google Cloud oznámily rozšíření strategického partnerství, které přinese pokročilé AI modely Googlu přímo do aplikací Adobe včetně Photoshopu a Premiere.",
-      "slug": "adobe-and-google-cloud-expand-strategic-partnershi",
-      "publishedAt": "2025-10-28T14:35:08+00:00",
-      "date": "2025-10-28 14:35:08",
-      "importance": 4,
-      "category": "kreativní ai",
-      "urlToImage": "https://news.adobe.com/news/2025/10/media_1293b4f391448d7551dcad764880e1c218b4a4218.jpg?width=1200&format=pjpg&optimize=medium",
-      "url": "/tech-news/2025-10-28/adobe-and-google-cloud-expand-strategic-partnershi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Adobe.com"
-      },
-      "companies": [
-        "Adobe",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Galaxy S26 Ultra má přinést 7 vylepšení – zatím jen spekulace",
       "description": "Úniky a spekulace naznačují možná vylepšení připravovaného Galaxy S26 Ultra, včetně nového OLED panelu a rozdělení čipsetů podle regionů.",
       "slug": "galaxy-s26-ultra-launches-soon-and-these-7-upgrade",
@@ -3277,46 +3439,6 @@
       "people": []
     },
     {
-      "title": "Testy potvrzují: iPhone Air vydrží běžný den na jedno nabití",
-      "description": "Laboratorní i praktické testy ukazují, že iPhone Air navzdory menší baterii zvládne celý den běžného používání. Ve streamovacím testu dosáhl stejných výsledků jako iPhone 17 Pro.",
-      "slug": "both-real-life-and-lab-tests-suggest-iphone-air-ba",
-      "publishedAt": "2025-10-28T14:05:00+00:00",
-      "date": "2025-10-28 14:05:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-28/both-real-life-and-lab-tests-suggest-iphone-air-ba/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "10 tipů pro používání iPadu jako náhrady notebooku",
-      "description": "Praktický průvodce, jak z iPadu udělat plnohodnotnou náhradu notebooku díky správnému příslušenství a nastavení pro produktivní práci.",
-      "slug": "A-10-tips-for-using-your-ipad-as-a-laptop-replacem",
-      "publishedAt": "2025-10-28T14:02:00+00:00",
-      "date": "2025-10-28 14:02:00",
-      "importance": 3,
-      "category": "tablety",
-      "urlToImage": "https://www.bgr.com/img/gallery/10-tips-for-using-your-ipad-as-a-laptop-replacement/l-intro-1761229631.jpg",
-      "url": "/tech-news/2025-10-28/A-10-tips-for-using-your-ipad-as-a-laptop-replacem/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung ukázal prototyp skládacího telefonu TriFold",
       "description": "Samsung poprvé veřejně předvedl prototyp telefonu se dvěma skládacími panty, který se rozkládá na velikost tabletu. Zařízení bylo vystaveno za sklem bez možnosti přímého kontaktu.",
       "slug": "samsung-trifold-samsung-gives-us-a-first-glimpse-m",
@@ -3334,27 +3456,6 @@
       "companies": [
         "Samsung",
         "Mashable"
-      ],
-      "people": []
-    },
-    {
-      "title": "Mistrovský kurz Apple Shortcuts: Automatizace iPhonu v praxi",
-      "description": "Podcast The Vergecast se věnuje pokročilým možnostem Apple Shortcuts, recenzi chytrých brýlí Meta Ray-Ban Display a levným bezdrátovým sluchátkům.",
-      "slug": "an-apple-shortcuts-masterclass-the-verge",
-      "publishedAt": "2025-10-28T13:14:14+00:00",
-      "date": "2025-10-28 13:14:14",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1028_SIte_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-28/an-apple-shortcuts-masterclass-the-verge/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Meta"
       ],
       "people": []
     },
@@ -3514,48 +3615,6 @@
       "people": []
     },
     {
-      "title": "Zranitelnost Chrome Zero-Day zneužita k šíření špionážního softwaru LeetAgent od italské firmy Memento Labs",
-      "description": "Společnost Kaspersky odhalila aktivní zneužívání kritické zranitelnosti CVE-2025-2783 v prohlížeči Chrome, která sloužila k nasazení špionážního nástroje LeetAgent od italské firmy Memento Labs.",
-      "slug": "chrome-zero-day-exploited-to-deliver-italian-memen",
-      "publishedAt": "2025-10-28T08:22:00+00:00",
-      "date": "2025-10-28 08:22:00",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s790-rw-e365/chrome-exploit.png",
-      "url": "/tech-news/2025-10-28/chrome-zero-day-exploited-to-deliver-italian-memen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Google",
-        "Kaspersky"
-      ],
-      "people": []
-    },
-    {
-      "title": "První pohled na robotický vysavač DJI Romo",
-      "description": "DJI vstupuje na trh robotických vysavačů s modelem Romo, který kombinuje vysávání a mytí podlah s průhledným designem a navigační technologií z dronů.",
-      "slug": "first-look-djis-romo-robot-vacuum-the-verge",
-      "publishedAt": "2025-10-28T08:00:00+00:00",
-      "date": "2025-10-28 08:00:00",
-      "importance": 3,
-      "category": "robotické vysavače",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6755_3e38af.jpeg?quality=90&strip=all&crop=0%2C1.2319774174429%2C100%2C69.820493642483&w=1200",
-      "url": "/tech-news/2025-10-28/first-look-djis-romo-robot-vacuum-the-verge/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "DJI",
-        "The Verge"
-      ],
-      "people": []
-    },
-    {
       "title": "John Carmack upozorňuje na problémy s NVIDIA DGX Spark: poloviční spotřeba i výkon",
       "description": "Legendární programátor John Carmack veřejně kritizuje nový AI systém NVIDIA DGX Spark, který podle jeho měření dosahuje pouze poloviny deklarovaného výkonu při poloviční spotřebě energie.",
       "slug": "john-carmack-says-nvidia-dgx-spark-runs-at-half-of",
@@ -3694,42 +3753,6 @@
         "Samsung",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Lidské oko má limit: Kdy přestávají mít smysl další pixely na obrazovce",
-      "description": "Vědci z Cambridge a Meta vyvinuli novou metodiku pro měření schopností lidského oka a určili, kdy vyšší rozlišení displeje už nepřináší viditelné zlepšení.",
-      "slug": "your-eyes-can-only-handle-so-much-hdtv-currentlyco",
-      "publishedAt": "2025-10-27T18:36:18+00:00",
-      "date": "2025-10-27 18:36:18",
-      "importance": 3,
-      "category": "displeje",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EZdtcss126Zw3a6PvtOvWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_science_109/3853cc597b2876ab1f559bd61f879b9f",
-      "url": "/tech-news/2025-10-27/your-eyes-can-only-handle-so-much-hdtv-currentlyco/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Popular Science"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Passkeys jako bezpečnější alternativa k heslům",
-      "description": "Passkeys nahrazují tradiční hesla a nabízejí bezpečnější způsob přihlašování bez rizika úniku dat nebo phishingu.",
-      "slug": "yes-the-new-password-alternative-is-actually-safer",
-      "publishedAt": "2025-10-27T17:00:00+00:00",
-      "date": "2025-10-27 17:00:00",
-      "importance": 3,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/10/passkey-sign-in-on-tablet-with-passkey-icon.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-27/yes-the-new-password-alternative-is-actually-safer/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MakeUseOf"
-      },
-      "companies": [],
       "people": []
     }
   ]
