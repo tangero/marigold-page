@@ -268,6 +268,39 @@
   <li><code class="language-plaintext highlighter-rouge">python generate_summaries.py</code> - Generate summaries for posts (requires DEEPSEEK_API_KEY)</li>
 </ul>
 
+<h2 id="llm-cost-monitoring">LLM Cost Monitoring</h2>
+<p>Pro sledování nákladů za OpenRouter API volání:</p>
+
+<ul>
+  <li><strong>Cost Tracker</strong>: <code class="language-plaintext highlighter-rouge">scripts/llm_cost_tracker.py</code> - automaticky loguje všechna API volání
+    <ul>
+      <li>Ukládá data do SQLite databáze: <code class="language-plaintext highlighter-rouge">_data/llm_costs.db</code></li>
+      <li>Sleduje tokeny, ceny, časy odpovědí a chyby</li>
+      <li>Integrováno do <code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code></li>
+    </ul>
+  </li>
+  <li><strong>Reporting</strong>: <code class="language-plaintext highlighter-rouge">python3 scripts/generate_llm_cost_report.py</code>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">--summary-only</code> - Jen konzolový výpis statistik</li>
+      <li><code class="language-plaintext highlighter-rouge">--output FILE</code> - Název výstupního Markdown souboru</li>
+      <li><code class="language-plaintext highlighter-rouge">--db PATH</code> - Vlastní cesta k databázi</li>
+      <li>Generuje přehledy: denní, týdenní, měsíční</li>
+      <li>Výstup: <code class="language-plaintext highlighter-rouge">_data/llm_costs_report.md</code></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Příklady použití:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zobrazit summary v konzoli</span>
+python3 scripts/generate_llm_cost_report.py <span class="nt">--summary-only</span>
+
+<span class="c"># Vygenerovat plný Markdown report</span>
+python3 scripts/generate_llm_cost_report.py
+
+<span class="c"># Vlastní výstupní soubor</span>
+python3 scripts/generate_llm_cost_report.py <span class="nt">--output</span> costs_<span class="si">$(</span><span class="nb">date</span> +%Y%m<span class="si">)</span>.md
+</code></pre></div></div>
+
 <h2 id="project-structure">Project Structure</h2>
 <ul>
   <li><code class="language-plaintext highlighter-rouge">_posts/</code> - Blog posts (format: YYYY-MM-DD-title.md)</li>

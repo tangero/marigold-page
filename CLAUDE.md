@@ -47,6 +47,33 @@
 - `bundle exec jekyll build` - Build site for production
 - `python generate_summaries.py` - Generate summaries for posts (requires DEEPSEEK_API_KEY)
 
+## LLM Cost Monitoring
+Pro sledování nákladů za OpenRouter API volání:
+
+- **Cost Tracker**: `scripts/llm_cost_tracker.py` - automaticky loguje všechna API volání
+  - Ukládá data do SQLite databáze: `_data/llm_costs.db`
+  - Sleduje tokeny, ceny, časy odpovědí a chyby
+  - Integrováno do `scripts/generate_tech_news_newsapi.py`
+
+- **Reporting**: `python3 scripts/generate_llm_cost_report.py`
+  - `--summary-only` - Jen konzolový výpis statistik
+  - `--output FILE` - Název výstupního Markdown souboru
+  - `--db PATH` - Vlastní cesta k databázi
+  - Generuje přehledy: denní, týdenní, měsíční
+  - Výstup: `_data/llm_costs_report.md`
+
+Příklady použití:
+```bash
+# Zobrazit summary v konzoli
+python3 scripts/generate_llm_cost_report.py --summary-only
+
+# Vygenerovat plný Markdown report
+python3 scripts/generate_llm_cost_report.py
+
+# Vlastní výstupní soubor
+python3 scripts/generate_llm_cost_report.py --output costs_$(date +%Y%m).md
+```
+
 ## Project Structure
 - `_posts/` - Blog posts (format: YYYY-MM-DD-title.md)
 - `_ai/`, `_mobilnisite/`, `_obrazy/` - Collection content

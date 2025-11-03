@@ -11,6 +11,7 @@ from pathlib import Path
 import logging
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
+from llm_cost_tracker import LLMCostTracker, track_llm_call
 
 # Načíst .env soubor
 load_dotenv()
@@ -28,6 +29,11 @@ class NewsAPITechNewsGenerator:
         self.news_api_key = os.getenv('NEWS_API_KEY', '')
         self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY', '')
         self.translation_enabled = self.openrouter_api_key and self.openrouter_api_key != 'skip'
+
+        # Inicializovat LLM cost tracker
+        self.cost_tracker = LLMCostTracker() if self.translation_enabled else None
+        if self.cost_tracker:
+            logger.info("💰 LLM Cost Tracker aktivován")
 
     def fetch_article_content(self, url, max_length=2000):
         """Stáhne a parsuje plný text článku z URL"""
@@ -181,14 +187,19 @@ DŮLEŽITÉ:
 
             logger.debug(f"🤖 Volám LLM pro analýzu článku: {title[:50]}...")
 
-            response = requests.post(
-                'https://openrouter.ai/api/v1/chat/completions',
+            # API volání s cost trackingem
+            response, usage = track_llm_call(
+                url='https://openrouter.ai/api/v1/chat/completions',
                 headers=headers,
-                json=data,
-                timeout=30
+                data=data,
+                operation='analyze_and_enhance',
+                article_slug=None,  # Slug není v tomto bodě dostupný
+                article_title=title[:100],  # Omezit délku
+                timeout=30,
+                tracker=self.cost_tracker
             )
 
-            if response.status_code == 200:
+            if response and response.status_code == 200:
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     content = result['choices'][0]['message']['content'].strip()
@@ -460,14 +471,19 @@ DŮLEŽITÉ:
                 'temperature': 0.3
             }
 
-            response = requests.post(
-                'https://openrouter.ai/api/v1/chat/completions',
+            # API volání s cost trackingem
+            response, usage = track_llm_call(
+                url='https://openrouter.ai/api/v1/chat/completions',
                 headers=headers,
-                json=data,
-                timeout=10
+                data=data,
+                operation=f'translate_{text_type}',
+                article_slug=None,
+                article_title=text[:50],  # Náhled textu
+                timeout=10,
+                tracker=self.cost_tracker
             )
 
-            if response.status_code == 200:
+            if response and response.status_code == 200:
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     translated = result['choices'][0]['message']['content'].strip()
@@ -475,7 +491,10 @@ DŮLEŽITÉ:
                     logger.debug(f"Překlad {text_type}: {text[:30]}... → {translated[:30]}...")
                     return translated
 
-            logger.warning(f"Překlad selhal (HTTP {response.status_code}), používám originál")
+            if response:
+                logger.warning(f"Překlad selhal (HTTP {response.status_code}), používám originál")
+            else:
+                logger.warning(f"Překlad selhal (API error), používám originál")
 
         except Exception as e:
             logger.warning(f"Chyba překladu: {e}, používám originál")
@@ -525,14 +544,19 @@ Odpověz POUZE názvem kategorie, nic jiného."""
                 'temperature': 0.1
             }
 
-            response = requests.post(
-                'https://openrouter.ai/api/v1/chat/completions',
+            # API volání s cost trackingem
+            response, usage = track_llm_call(
+                url='https://openrouter.ai/api/v1/chat/completions',
                 headers=headers,
-                json=data,
-                timeout=10
+                data=data,
+                operation='detect_category',
+                article_slug=None,
+                article_title=title[:100],
+                timeout=10,
+                tracker=self.cost_tracker
             )
 
-            if response.status_code == 200:
+            if response and response.status_code == 200:
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     category = result['choices'][0]['message']['content'].strip()
@@ -588,14 +612,19 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
                 'temperature': 0.1
             }
 
-            response = requests.post(
-                'https://openrouter.ai/api/v1/chat/completions',
+            # API volání s cost trackingem
+            response, usage = track_llm_call(
+                url='https://openrouter.ai/api/v1/chat/completions',
                 headers=headers,
-                json=data,
-                timeout=10
+                data=data,
+                operation='detect_companies',
+                article_slug=None,
+                article_title=title[:100],
+                timeout=10,
+                tracker=self.cost_tracker
             )
 
-            if response.status_code == 200:
+            if response and response.status_code == 200:
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     companies_text = result['choices'][0]['message']['content'].strip()
@@ -656,14 +685,19 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 'temperature': 0.1
             }
 
-            response = requests.post(
-                'https://openrouter.ai/api/v1/chat/completions',
+            # API volání s cost trackingem
+            response, usage = track_llm_call(
+                url='https://openrouter.ai/api/v1/chat/completions',
                 headers=headers,
-                json=data,
-                timeout=10
+                data=data,
+                operation='detect_people',
+                article_slug=None,
+                article_title=title[:100],
+                timeout=10,
+                tracker=self.cost_tracker
             )
 
-            if response.status_code == 200:
+            if response and response.status_code == 200:
                 result = response.json()
                 if result.get('choices') and len(result['choices']) > 0:
                     people_text = result['choices'][0]['message']['content'].strip()
@@ -1024,8 +1058,23 @@ def main():
         # Generovat denní archivní stránky
         generator.generate_daily_pages()
         logger.info("🎉 Generování tech-news z NewsAPI dokončeno")
+
+        # Zobrazit LLM cost statistiky
+        if generator.cost_tracker:
+            try:
+                stats = generator.cost_tracker.get_stats(days=1)
+                logger.info("💰 LLM Cost Statistics (today):")
+                logger.info(f"   • Total calls: {stats['total_calls']}")
+                logger.info(f"   • Total tokens: {stats['total_tokens']:,}")
+                logger.info(f"   • Total cost: ${stats['total_cost_usd']:.4f}")
+                logger.info(f"   • Avg cost per call: ${stats['avg_cost_per_call']:.6f}")
+                generator.cost_tracker.close()
+            except Exception as e:
+                logger.warning(f"⚠️ Chyba při zobrazení cost statistik: {e}")
     else:
         logger.error("💥 Generování tech-news z NewsAPI selhalo")
+        if generator.cost_tracker:
+            generator.cost_tracker.close()
         return 1
 
     return 0
