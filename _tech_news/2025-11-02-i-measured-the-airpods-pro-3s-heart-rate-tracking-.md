@@ -4,8 +4,8 @@ category: nositelná elektronik
 companies:
 - Apple
 date: '2025-11-02 05:01:38'
-description: Nové AirPods Pro 3 přinášejí poprvé do této produktové řady sledování
-  tepové frekvence. Praktické srovnání ukazuje, jak si vedou proti Apple Watch.
+description: Nové AirPods Pro 3 přinášejí poprvé v této produktové řadě sledování
+  tepové frekvence. Praktické srovnání ukazuje, jak se vyrovnají Apple Watch.
 importance: 3
 layout: tech_news_article
 original_title: I measured the AirPods Pro 3's heart rate tracking against an Apple
@@ -24,29 +24,29 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/wt6eciubiB98pxzuMAwU5Q-2560-
 
 ## Souhrn
 
-Apple představil AirPods Pro 3 s novou funkcí sledování tepové frekvence, což je poprvé v historii této produktové řady. Sluchátka mohou fungovat samostatně nebo v kombinaci s Apple Watch a nabízejí podporu pro více než 50 typů cvičení. Kromě měření tepu přinášejí výrazně vylepšené aktivní potlačení hluku a lepší uchycení při sportu.
+Apple představil AirPods Pro 3 s novou funkcí sledování tepové frekvence, což je první implementace této technologie v řadě AirPods. Sluchátka mohou fungovat samostatně nebo v kombinaci s Apple Watch a nabízejí podporu pro více než 50 typů cvičení. Kromě měření tepu přinášejí výrazně vylepšené aktivní potlačení hluku a lepší uchycení v uchu.
 
 ## Klíčové body
 
 - AirPods Pro 3 obsahují nové senzory pro měření tepové frekvence přímo z ucha
 - Vylepšené pěnové koncovky zajišťují stabilnější uchycení při cvičení
-- Aktivní potlačení hluku (Active Noise Cancellation) dosáhlo výrazného zlepšení
-- Sluchátka mohou fungovat jako samostatný fitness doplněk nebo v tandemu s Apple Watch
-- Podpora více než 50 typů sportovních aktivit
+- Aktivní potlačení hluku bylo výrazně zlepšeno pro použití v hlučných prostředích
+- Sluchátka podporují sledování více než 50 typů cvičení
+- Technologie měření tepu z ucha již Apple použil u sluchátek Beats Powerbeats Pro 2
 
 ## Podrobnosti
 
-Apple rozšiřuje své portfolio fitness zařízení o nečekaného kandidáta. Zatímco měření tepové frekvence z ucha není pro Apple úplnou novinkou – tuto funkci nabízely již Beats Powerbeats Pro 2 uvedené začátkem roku – jde o první implementaci v hlavní produktové řadě AirPods.
+Nové AirPods Pro 3 představují první mainstream implementaci sledování tepové frekvence v produktové řadě AirPods, ačkoliv Apple tuto technologii již dříve použil u sluchátek Beats Powerbeats Pro 2. Měření probíhá pomocí nových senzorů umístěných ve sluchátkách, které snímají tepovou frekvenci přímo z ušního kanálu.
 
-Významným vylepšením je konstrukce sluchátek. Starší generace AirPods měly tendenci vypadávat při intenzivnějším pohybu, což je problém, který Apple u třetí generace Pro modelů adresoval novými pěnovými koncovkami. Ty poskytují stabilnější a pohodlnější uchycení, což je zásadní pro použití při sportu.
+Apple výrazně přepracoval fyzickou konstrukci sluchátek. Nové pěnové koncovky jsou podle testování podstatně stabilnější než u předchozích generací, které měly tendenci vypadávat během intenzivního cvičení. Tato změna je zásadní pro spolehlivé měření tepové frekvence, které vyžaduje konstantní kontakt se sluchovým kanálem.
 
-Aktivní potlačení hluku představuje další významný pokrok. V hlučném prostředí posilovny nebo při běhu v rušné ulici dokáže nová generace účinně izolovat uživatele od okolního ruchu. Podle testování se jedná o výrazný upgrade oproti předchozím modelům, který umožňuje soustředěné cvičení bez rušivých vlivů.
+Výrazným vylepšením prošlo také aktivní potlačení hluku (Active Noise Cancellation). Při testování v hlučném prostředí posilovny dokázala sluchátka efektivně eliminovat rušivé zvuky jako cinkání závaží nebo hlasité projevy ostatních cvičenců. Tato funkce není primárně fitness feature, ale výrazně zlepšuje komfort při cvičení v rušném prostředí.
 
-Sledování tepové frekvence funguje prostřednictvím senzorů umístěných ve sluchátkách, které snímají data přímo ze zvukovodu. Tato metoda měření není v nositelné elektronice běžná – většina fitness zařízení měří tep ze zápěstí. Měření z ucha může v některých případech poskytovat přesnější data, protože tepny v této oblasti jsou blíže povrchu kůže.
+Sluchátka lze používat buď samostatně jako fitness doplněk, nebo v kombinaci s Apple Watch pro komplexnější sledování zdravotních dat. Podporují více než 50 různých typů cvičení, což je srovnatelné s nabídkou Apple Watch.
 
 ## Proč je to důležité
 
-Rozšíření fitness funkcí do AirPods Pro 3 naznačuje strategii Apple diverzifikovat možnosti sledování zdraví mimo Apple Watch. Pro uživatele, kteří nechtějí nosit hodinky při cvičení nebo preferují minimalistický přístup, představují AirPods Pro 3 zajímavou alternativu. Zároveň mohou fungovat jako doplněk k Apple Watch a poskytovat redundantní měření pro zvýšení přesnosti dat. Jde o další krok v trendu integrace zdravotních senzorů do běžně používaných zařízení, což může zpřístupnit fitness tracking širšímu okruhu uživatelů.
+Integrace sledování tepové frekvence do AirPods Pro 3 rozšiřuje ekosystém fitness zařízení Apple o další možnost pro uživatele, kteří nechtějí nosit hodinky při cvičení. Jde o postupný posun sluchátek z kategorie čistě audio zařízení směrem k multifunkčním nositelným technologiím. Pro Apple to znamená další datový bod pro zdravotní platformu Health, která se stává stále komplexnějším nástrojem pro sledování fyzické kondice uživatelů.
 
 ---
 

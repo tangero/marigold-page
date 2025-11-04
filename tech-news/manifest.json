@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-03T20:23:39.164790+00:00",
+  "generated": "2025-11-04T00:59:33.701564+00:00",
   "count": 200,
   "articles": [
     {
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "title": "Apple údajně spustí beta verzi iOS 26.2 již v úterý, den po vydání iOS 26.1",
-      "description": "Podle Marka Gurmana z Bloombergu by Apple mohl spustit vývojářskou beta verzi iOS 26.2 již v úterý, bezprostředně po pondělním veřejném vydání iOS 26.1.",
+      "title": "Apple údajně spustí beta verzi iOS 26.2 již v úterý, těsně po vydání iOS 26.1",
+      "description": "Podle Marka Gurmana z Bloombergu by Apple mohl spustit beta verzi iOS 26.2 už v úterý, den po veřejném vydání iOS 26.1.",
       "slug": "gurman-apple-launching-ios-262-beta-as-soon-as-tue",
       "publishedAt": "2025-11-02T14:02:00+00:00",
       "date": "2025-11-02 14:02:00",
@@ -69,7 +69,7 @@
     },
     {
       "title": "Nový Apple TV a HomePod mini možná dorazí brzy, ale pravděpodobnost je nízká",
-      "description": "Apple údajně připravuje změny v prodejnách na 12. listopadu, ale nové produkty pravděpodobně nepřijdou. HomePod mini a Apple TV čelí nedostatku zásob.",
+      "description": "Apple údajně připravuje změny v maloobchodech k 12. listopadu, ale spíše půjde o vizuální úpravy než uvedení nových produktů. HomePod mini a Apple TV čelí nedostatku zásob.",
       "slug": "report-new-apple-tv-and-homepod-mini-could-launch-",
       "publishedAt": "2025-11-02T13:36:00+00:00",
       "date": "2025-11-02 13:36:00",
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "title": "5 Android telefonů, kterým se v roce 2025 vyhnout (a co koupit místo nich)",
-      "description": "Přehled Android telefonů, které v roce 2025 nenabízejí dostatečnou hodnotu za peníze ve srovnání s konkurencí, včetně doporučení lepších alternativ.",
+      "title": "5 telefonů s Androidem, kterým se v roce 2025 vyhnout (a co koupit místo nich)",
+      "description": "Přehled androidových telefonů, které v roce 2025 nenabízejí dostatečnou hodnotu za cenu, a doporučení lepších alternativ v jednotlivých cenových kategoriích.",
       "slug": "A-5-android-phones-to-avoid-in-2025-and-what-to-bu",
       "publishedAt": "2025-11-02T13:30:00+00:00",
       "date": "2025-11-02 13:30:00",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Apple údajně zahájí 50. výročí s téměř 140miliardovým čtvrtletím",
-      "description": "Podle spekulací má Apple vykázat rekordní tržby za vánoční čtvrtletí. Firma také plánuje aktualizaci obchodů a přípravu OLED displejů pro MacBook Air a iPady.",
+      "description": "Apple má podle očekávání vykázat za vánoční čtvrtletí tržby blížící se 140 miliardám dolarů. Firma také chystá nové displeje do prodejen a OLED obrazovky pro MacBook Air a iPad.",
       "slug": "apple-to-kick-off-50th-anniversary-with-nearly-140",
       "publishedAt": "2025-11-02T13:00:11+00:00",
       "date": "2025-11-02 13:00:11",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Vědci z University of Surrey napodobují propojení mozku pro zlepšení AI",
-      "description": "Nová metoda inspirovaná biologickými neuronovými sítěmi lidského mozku výrazně zlepšuje výkon umělých neuronových sítí při nižší spotřebě energie.",
+      "description": "Výzkumníci vyvinuli novou metodu pro neuronové sítě inspirovanou biologickým propojením lidského mozku, která výrazně snižuje energetickou náročnost AI modelů.",
       "slug": "university-of-surrey-researchers-mimic-brain-wirin",
       "publishedAt": "2025-11-02T12:31:23+00:00",
       "date": "2025-11-02 12:31:23",
@@ -148,7 +148,7 @@
     },
     {
       "title": "Jak omezení iOS klávesnice odhalilo skrytou funkci Androidu",
-      "description": "Uživatel po přechodu na iPhone objevil frustrující absenci klávesy tečky na iOS klávesnici, což ho vedlo k objevení podobné, ale lépe implementované funkce na Androidu.",
+      "description": "Uživatel po přechodu na iPhone objevil díky frustraci s iOS klávesnicí užitečnou funkci Android klávesnic, kterou dříve přehlížel.",
       "slug": "the-infuriating-iphone-feature-that-accidentally-m",
       "publishedAt": "2025-11-02T12:09:00+00:00",
       "date": "2025-11-02 12:09:00",
@@ -169,7 +169,7 @@
     },
     {
       "title": "Lenovo Yoga 9i 2-in-1 Aura Edition: Prémiový konvertibilní notebook s rekordní výdrží baterie",
-      "description": "Nový konvertibilní notebook od Lenovo nabízí OLED displej, výjimečnou výdrž baterie téměř 26 hodin a kvalitní zvuk za cenu 1 400 dolarů.",
+      "description": "Nový prémiový konvertibilní notebook od Lenovo nabízí OLED displej, výjimečnou výdrž baterie téměř 26 hodin a unikátní soundbar za cenu 1 400 dolarů.",
       "slug": "lenovo-yoga-9i-2-in-1-aura-edition-review-near-per",
       "publishedAt": "2025-11-02T12:00:06+00:00",
       "date": "2025-11-02 12:00:06",
@@ -189,8 +189,26 @@
       "people": []
     },
     {
-      "title": "Ray-Ban Meta Gen 2: Chytré brýle s lepší kamerou, ale pochybnými vibracemi",
-      "description": "Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů s vylepšenou 12MP kamerou, osmihdinovou výdrží a AI funkcemi. Recenzent oceňuje technické parametry, ale má výhrady k soukromí a všudypřítomným kamerám.",
+      "title": "Fyzici vytvořili teploměr pro měření kvantovosti",
+      "description": "Anomální tok tepla, který zdánlivě porušuje druhý termodynamický zákon, umožňuje fyzikům detekovat kvantové provázání bez jeho zničení.",
+      "slug": "physicists-create-a-thermometer-for-measuring-quan",
+      "publishedAt": "2025-11-02T12:00:00+00:00",
+      "date": "2025-11-02 12:00:00",
+      "importance": 4,
+      "category": "kvantová fyzika",
+      "urlToImage": "https://media.wired.com/photos/68f0e670ac914813c3e7b315/191:100/w_1280,c_limit/Quantum-2nd-Law-cr-Daniel-Garcia-Lede.jpeg",
+      "url": "/tech-news/2025-11-02/physicists-create-a-thermometer-for-measuring-quan/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ray-Ban Meta Gen 2: Chytré brýle s lepší kamerou, ale pochybným dojmem",
+      "description": "Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů s vylepšenou 12MP kamerou, osmihdinovou výdrží a AI funkcemi. Recenzent oceňuje technické parametry, ale upozorňuje na problémy s vnímáním soukromí.",
       "slug": "i-cant-help-feeling-like-a-creep-wearing-metas-new",
       "publishedAt": "2025-11-02T11:30:00+00:00",
       "date": "2025-11-02 11:30:00",
@@ -207,13 +225,13 @@
         "Meta"
       ],
       "people": [
-        "Nemám přístup k plnému textu článku",
+        "Bohužel nemám přístup k plnému textu článku",
         "pouze k nadpisu a popisu. Na základě poskytnutých informací nemohu identifikovat žádné konkrétní jmenované osobnosti.\n\nžádné"
       ]
     },
     {
       "title": "Proč je vaše televize pravděpodobně špatná volba a jak to napravit",
-      "description": "Vědecký výzkum ukazuje, že lidské oko má své limity při vnímání rozlišení televizorů. Pro většinu domácností jsou 4K a 8K televize zbytečnou investicí.",
+      "description": "Vědecký výzkum ukazuje, že většina lidí sedí příliš daleko od televize, než aby dokázala využít výhod 4K rozlišení. Pro běžné obývací pokoje je upgrade na 8K zbytečný.",
       "slug": "why-your-tv-is-probably-the-wrong-choice-and-how-t",
       "publishedAt": "2025-11-02T11:07:00+00:00",
       "date": "2025-11-02 11:07:00",
@@ -232,8 +250,8 @@
       "people": []
     },
     {
-      "title": "MacBook Air z roku 2017 za necelých 200 dolarů",
-      "description": "Mashable nabízí renovovaný MacBook Air z roku 2017 za 180 dolarů. Jde o standardní prodejní článek, nikoliv technologickou novinku.",
+      "title": "MacBook Air z roku 2017 v prodeji za 180 dolarů",
+      "description": "Mashable nabízí renovovaný MacBook Air z roku 2017 za zlomek původní ceny. Jde o běžnou reklamní nabídku staršího hardwaru.",
       "slug": "score-a-macbook-air-for-less-than-200-mashable",
       "publishedAt": "2025-11-02T10:00:00+00:00",
       "date": "2025-11-02 10:00:00",
@@ -252,8 +270,8 @@
       "people": []
     },
     {
-      "title": "AMD Radeon RX 9070 XT konečně dostupná za doporučenou cenu 599 dolarů, osm měsíců po uvedení",
-      "description": "Grafická karta AMD Radeon RX 9070 XT je po osmi měsících od uvedení na trh konečně dostupná za původně avizovanou cenu 599 dolarů. Umělé navýšení cen po startu způsobilo značnou kritiku.",
+      "title": "AMD Radeon RX 9070 XT konečně dosáhla doporučené ceny 599 dolarů v USA, osm měsíců po uvedení",
+      "description": "Grafická karta AMD Radeon RX 9070 XT je po osmi měsících od uvedení na trh konečně dostupná za původně avizovanou doporučenou cenu 599 dolarů.",
       "slug": "amd-radeon-rx-9070-xt-finally-reaches-599-msrp-in-",
       "publishedAt": "2025-11-02T09:34:00+00:00",
       "date": "2025-11-02 09:34:00",
@@ -272,8 +290,8 @@
       "people": []
     },
     {
-      "title": "Datum uvedení Samsung Galaxy S26 uniklo, odklad pokračuje",
-      "description": "Samsung údajně představí řadu Galaxy S26 až 25. února v San Franciscu, což znamená další odklad oproti původním očekáváním.",
+      "title": "Datum uvedení Samsung Galaxy S26 uniklo, odklad do konce února",
+      "description": "Samsung údajně představí řadu Galaxy S26 až 25. února 2025 v San Francisku, což znamená odklad oproti očekávanému termínu.",
       "slug": "the-samsung-galaxy-s26-launch-date-has-leaked-and-",
       "publishedAt": "2025-11-02T08:56:00+00:00",
       "date": "2025-11-02 08:56:00",
@@ -294,7 +312,7 @@
     },
     {
       "title": "Test sledování tepové frekvence AirPods Pro 3 proti Apple Watch Ultra 3",
-      "description": "Nové AirPods Pro 3 přinášejí poprvé do této produktové řady sledování tepové frekvence. Praktické srovnání ukazuje, jak si vedou proti Apple Watch.",
+      "description": "Nové AirPods Pro 3 přinášejí poprvé v této produktové řadě sledování tepové frekvence. Praktické srovnání ukazuje, jak se vyrovnají Apple Watch.",
       "slug": "i-measured-the-airpods-pro-3s-heart-rate-tracking-",
       "publishedAt": "2025-11-02T05:01:38+00:00",
       "date": "2025-11-02 05:01:38",
@@ -333,8 +351,8 @@
       "people": []
     },
     {
-      "title": "Microsoft Office 2021 v akci za 40 dolarů",
-      "description": "Prodejce nabízí doživotní licenci Microsoft Office Professional 2021 pro Windows se slevou 82 % za 39,97 dolaru.",
+      "title": "Microsoft Office 2021 v akci za 40 dolarů s doživotní licencí",
+      "description": "Prodejní akce nabízí Microsoft Office Professional 2021 pro Windows s doživotní licencí za 39,97 dolaru místo běžných 219,99 dolaru.",
       "slug": "treat-your-pc-to-microsoft-office-apps-for-less-th",
       "publishedAt": "2025-11-01T23:00:00+00:00",
       "date": "2025-11-01 23:00:00",
@@ -389,8 +407,8 @@
       "people": []
     },
     {
-      "title": "Aerotech Reborn: Zapomenuté prototypy GM s rychlostí 414 km/h se vrací na scénu",
-      "description": "Legendární prototypy Aerotech od General Motors, které dosahovaly rychlosti 257 mil za hodinu, byly po letech objeveny v soukromé sbírce a čekají na renovaci.",
+      "title": "Aerotech Reborn: Ukryté prototypy GM s rychlostí 414 km/h se vrací na scénu",
+      "description": "Legendární rychlostní prototypy Aerotech od General Motors, které dosahovaly rychlosti 257 mil za hodinu, byly po letech objeveny v soukromé sbírce a čekají na znovuoživení.",
       "slug": "aerotech-reborn-the-stashed-away-257-mph-gm-protot",
       "publishedAt": "2025-11-01T19:05:35+00:00",
       "date": "2025-11-01 19:05:35",
@@ -407,8 +425,8 @@
       "people": []
     },
     {
-      "title": "Porsche podalo patentovou přihlášku na režim tunelu, který automaticky stáhne okna a přeřadí",
-      "description": "Budoucí vozy Porsche by mohly automaticky detekovat tunely a upravit chování vozu pro lepší zážitek ze zvuku motoru. Jde zatím pouze o patentovou přihlášku.",
+      "title": "Porsche podalo patentovou přihlášku na Tunnel Mode - automatický režim pro tunely",
+      "description": "Budoucí modely Porsche by mohly automaticky detekovat tunely a upravit nastavení vozu pro maximální zvukový zážitek. Jde však zatím pouze o patentovou přihlášku.",
       "slug": "porsche-files-patent-app-for-tunnel-mode-and-it-so",
       "publishedAt": "2025-11-01T19:00:00+00:00",
       "date": "2025-11-01 19:00:00",
@@ -3695,26 +3713,6 @@
         "name": "ScienceAlert"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Úniky naznačují brzké vydání listopadové aktualizace Pixel Drop s novými tématy",
-      "description": "Podle uniklých informací by Google mohl vydat další velkou aktualizaci Pixel Drop již 4. listopadu, tedy dříve než se očekávalo. Přinést má především nové tematické balíčky.",
-      "slug": "googles-next-pixel-drop-may-land-early-as-leak-spi",
-      "publishedAt": "2025-10-28T00:54:25+00:00",
-      "date": "2025-10-28 00:54:25",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-2-scaled.jpg",
-      "url": "/tech-news/2025-10-28/googles-next-pixel-drop-may-land-early-as-leak-spi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
       "people": []
     },
     {

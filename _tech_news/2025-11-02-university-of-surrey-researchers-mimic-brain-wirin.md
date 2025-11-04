@@ -2,8 +2,8 @@
 author: Marisa Aigen
 category: neuronové sítě
 date: '2025-11-02 12:31:23'
-description: Nová metoda inspirovaná biologickými neuronovými sítěmi lidského mozku
-  výrazně zlepšuje výkon umělých neuronových sítí při nižší spotřebě energie.
+description: Výzkumníci vyvinuli novou metodu pro neuronové sítě inspirovanou biologickým
+  propojením lidského mozku, která výrazně snižuje energetickou náročnost AI modelů.
 importance: 3
 layout: tech_news_article
 original_title: University of Surrey researchers mimic brain wiring to improve AI
@@ -22,31 +22,33 @@ urlToImageBackup: https://ichef.bbci.co.uk/news/1024/branded_news/63a3/live/19cf
 
 ## Souhrn
 
-Výzkumníci z University of Surrey vyvinuli nový přístup k navrhování umělých neuronových sítí, který napodobuje způsob propojení neuronů v lidském mozku. Metoda nazvaná Topographical Sparse Mapping výrazně zlepšuje výkon AI modelů při současném snížení energetické náročnosti, což řeší jeden z klíčových problémů současné generativní AI.
+Výzkumný tým z University of Surrey publikoval studii v časopise Neurocomputing, která představuje nový přístup k architektuře neuronových sítí inspirovaný biologickým propojením lidského mozku. Metoda nazvaná Topographical Sparse Mapping (topografické řídké mapování) výrazně snižuje energetickou náročnost AI modelů při zachování jejich výkonu tím, že eliminuje zbytečná propojení mezi neurony.
 
 ## Klíčové body
 
 - Topographical Sparse Mapping propojuje každý neuron pouze s blízkými nebo souvisejícími neurony, podobně jako lidský mozek
-- Metoda eliminuje potřebu obrovského množství zbytečných spojení mezi neurony
+- Metoda eliminuje obrovské množství zbytečných spojení, což snižuje energetickou náročnost bez ztráty přesnosti
 - Vylepšená verze Enhanced Topographical Sparse Mapping využívá biologicky inspirovaný proces "prořezávání" spojení během tréninku
-- Trénink současných velkých AI modelů spotřebuje přes milion kilowatthodin elektřiny
-- Výzkum byl publikován v odborném časopise Neurocomputing
+- Trénink současných velkých AI modelů může spotřebovat přes milion kilowatthodin elektřiny
+- Výzkumníci zkoumají využití přístupu v neuromorphic computing
 
 ## Podrobnosti
 
-Tradiční umělé neuronové sítě používají hustě propojené vrstvy neuronů, kde je každý neuron spojen s většinou nebo všemi neurony v sousední vrstvě. Tento přístup vyžaduje obrovské množství výpočetního výkonu a energie. Výzkumný tým z University of Surrey se inspiroval biologickými neuronovými sítěmi, kde neurony nejsou propojeny náhodně, ale organizují se do topografických map podle funkční podobnosti.
+Tradiční neuronové sítě používané v generativní AI a modelech jako ChatGPT využívají husté propojení mezi neurony, což vede k vysoké energetické náročnosti. Nový přístup z University of Surrey se inspiruje tím, jak lidský mozek organizuje informace efektivně prostřednictvím selektivního propojení.
 
-Dr. Roman Bauer, vedoucí výzkumu, vysvětluje, že jejich práce ukazuje možnost budovat inteligentní systémy mnohem efektivněji, se sníženými energetickými nároky bez ztráty výkonu. Metoda Topographical Sparse Mapping vytváří řídké propojení, kde každý neuron komunikuje pouze s neurony v určité oblasti nebo s těmi, které zpracovávají související informace.
+Topographical Sparse Mapping funguje na principu, že každý umělý neuron je propojen pouze s neurony v jeho blízkosti nebo s těmi, které zpracovávají související informace. Tento přístup dramaticky redukuje počet spojení v síti, což má přímý dopad na výpočetní náročnost a spotřebu energie.
 
-Vylepšená verze Enhanced Topographical Sparse Mapping jde ještě dál a během tréninku postupně odstraňuje méně důležitá spojení, podobně jako lidský mozek v průběhu učení a vývoje optimalizuje své neuronové dráhy. Tento proces, známý jako synaptické prořezávání, je klíčový pro efektivní fungování biologických nervových systémů.
+Dr. Roman Bauer, vedoucí výzkumu, upozorňuje na neudržitelnost současného trendu v AI: "Trénink mnoha dnešních populárních velkých AI modelů může spotřebovat přes milion kilowatthodin elektřiny. To prostě není udržitelné při rychlosti, jakou AI nadále roste."
 
-Výzkumníci zdůrazňují, že současná spotřeba energie při trénování velkých jazykových modelů jako ChatGPT není dlouhodobě udržitelná. Trénink jednoho velkého modelu může spotřebovat elektřinu odpovídající roční spotřebě stovek domácností.
+Vylepšená verze metody, Enhanced Topographical Sparse Mapping, jde ještě dál a během tréninku postupně odstraňuje méně důležitá spojení. Tento proces napodobuje způsob, jakým se lidský mozek vyvíjí - během učení postupně zjemňuje a optimalizuje své neuronální spojení, přičemž slabé nebo nepoužívané spoje zanikají.
+
+Výzkumný tým také zkoumá aplikaci tohoto přístupu v neuromorphic computing - oblasti, která se snaží vytvářet počítače přímo inspirované strukturou a funkcí lidského mozku. Tyto systémy by mohly být ještě efektivnější než tradiční architektury.
 
 ## Proč je to důležité
 
-S rychlým růstem AI průmyslu se energetická náročnost stává kritickým problémem. Datová centra pro AI již nyní spotřebovávají významnou část globální elektřiny a tento trend se zrychluje. Přístup z University of Surrey nabízí praktickou cestu, jak zlepšit výkon AI při současném snížení ekologické stopy.
+S rostoucí velikostí AI modelů se energetická náročnost stává kritickým problémem. Velké jazykové modely a generativní AI systémy vyžadují obrovské množství výpočetního výkonu nejen pro trénink, ale i pro běžný provoz. Tento výzkum nabízí cestu, jak vytvářet efektivnější AI systémy bez kompromisů ve výkonu.
 
-Výzkum má potenciál ovlivnit nejen trénování velkých jazykových modelů, ale také vývoj neuromorfních počítačů – specializovaného hardwaru inspirovaného strukturou mozku. Tyto systémy by mohly být výrazně energeticky efektivnější než současné GPU a TPU čipy používané pro AI. Praktická aplikace těchto poznatků by mohla urychlit nasazení AI v oblastech, kde je energie omezená, například v mobilních zařízeních nebo edge computing.
+Přístup je relevantní pro celý AI průmysl, protože ukazuje, že inspirace biologickými systémy může vést k praktickým zlepšením. Zatímco mnoho současných AI systémů se zaměřuje na zvyšování výkonu přidáváním více parametrů a výpočetního výkonu, tento výzkum demonstruje opačný přístup - dosažení lepších výsledků prostřednictvím inteligentnější architektury s menším počtem spojení.
 
 ---
 
