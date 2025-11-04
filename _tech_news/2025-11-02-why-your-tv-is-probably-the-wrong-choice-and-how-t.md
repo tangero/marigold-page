@@ -4,9 +4,8 @@ category: televizory
 companies:
 - Android Police
 date: '2025-11-02 11:07:00'
-description: Vědecký výzkum ukazuje, že většina lidí sedí příliš daleko od televize,
-  než aby dokázala využít výhod 4K rozlišení. Pro běžné obývací pokoje je upgrade
-  na 8K zbytečný.
+description: Vědecký výzkum ukazuje, že většina lidí sedí příliš daleko od svých 4K
+  televizorů, než aby dokázali rozlišit rozdíl oproti Full HD.
 importance: 3
 layout: tech_news_article
 original_title: Why your TV is probably the wrong choice, and how to fix it - Android
@@ -25,29 +24,26 @@ urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/20
 
 ## Souhrn
 
-Vědci z univerzity v Cambridge a společnosti Meta provedli výzkum, který ukazuje, že lidské oko má své limity v rozlišovací schopnosti. Většina uživatelů sedí od svých 4K televizorů příliš daleko na to, aby dokázala vnímat rozdíl oproti nižšímu rozlišení. Pro běžné obývací pokoje je tak upgrade na 8K televize, které stojí od 2 000 do 35 000 dolarů, zcela zbytečný.
+Vědci z univerzity v Cambridge a společnosti Meta provedli výzkum, který ukazuje, že lidské oko má svá omezení při vnímání rozlišení obrazovky. Výsledky naznačují, že většina uživatelů sedí příliš daleko od svých 4K televizorů, než aby mohli skutečně využít jejich vyšší rozlišení oproti Full HD.
 
 ## Klíčové body
 
-- Vědci zjistili, že při sledování 44palcové 4K televize ze vzdálenosti 2,5 metru už lidské oko nedokáže vnímat další detaily
-- Výzkum používal 27palcový 4K monitor s obrazy obsahujícími jeden pixel široké svislé čáry různých barev na šedém pozadí
-- Účastníci studie měli určit, který obraz obsahuje čáry, jak se monitor vzdaloval
-- 8K televize nepřinášejí při běžných vzdálenostech sledování žádné viditelné zlepšení oproti 4K
-- Technologie televizorů již dávno překonala schopnosti lidského zraku
+- Výzkumníci zjistili "rozlišovací limit" lidského oka pomocí experimentu s 27palcovým 4K monitorem
+- Pro 44palcovou 4K televizi umístěnou 2,5 metru od diváka je rozlišení vyšší, než dokáže lidské oko rozeznat
+- 8K televize v cenách od 50 000 do 900 000 Kč nemají pro běžné použití smysl
+- 4K televize jsou dnes dostupné již od 5 000 Kč a staly se standardem
 
 ## Podrobnosti
 
-Výzkumníci z univerzity v Cambridge ve spolupráci se společností Meta provedli experiment zaměřený na zjištění rozlišovacího limitu lidského oka. Tento limit označuje bod, kdy další zvyšování rozlišení obrazovky nepřináší žádné viditelné zlepšení pro diváka.
+Výzkumný tým použil metodiku, při které účastníci sledovali dva typy obrazů na monitoru postupně se vzdalujícím na kolejnici. První obraz zobrazoval jeden pixel široké svislé čáry různých barev na šedém pozadí, druhý pouze šedé pozadí. Účastníci měli při každém kroku určit, který obraz obsahuje čáry. Tento experiment měl za cíl zjistit, kolik pixelů je lidské oko skutečně schopné rozlišit.
 
-V experimentu použili 27palcový 4K monitor umístěný na kolejnici, která umožňovala posunovat displej směrem k účastníkům a od nich. Testovaným osobám byly prezentovány dva typy obrazů v náhodném pořadí - jeden obsahoval jeden pixel široké svislé čáry různých barev na šedém pozadí, druhý zobrazoval pouze šedé pozadí. Účastníci měli při každém kroku vzdalování určit, který obraz obsahuje čáry.
+Dr. Maliha Ashraf, hlavní autorka studie, v rozhovoru pro Guardian uvedla, že pokud někdo vlastní 44palcovou 4K televizi a sleduje ji ze vzdálenosti přibližně 2,5 metru, má již více detailů, než dokáže lidské oko vnímat. To znamená, že pro většinu běžných obývacích pokojů, kde lidé sedí v typické vzdálenosti od televize, nepřináší 4K rozlišení žádný viditelný přínos oproti Full HD.
 
-Dr. Maliha Ashraf, hlavní autorka studie, k výsledkům uvedla, že pokud někdo vlastní 44palcovou 4K televizi a sleduje ji ze vzdálenosti přibližně 2,5 metru, jedná se již o více detailů, než dokáže lidské oko vnímat. Upgrade na 8K verzi stejné velikosti by tak nevypadal o nic ostřeji.
-
-Tato zjištění mají praktické důsledky pro spotřebitele. Zatímco 4K televize jsou dnes dostupné za méně než 200 dolarů a staly se standardem v elektronických obchodech, 8K televize představují prémiový segment s cenami od 2 000 do 35 000 dolarů. Výzkum však ukazuje, že pro většinu domácností s běžnými rozměry obývacích pokojů je tato investice z hlediska kvality obrazu zbytečná.
+Situace je ještě výraznější u 8K televizorů, které se staly novým cílem pro nadšence do technologií. Tyto displeje nabízejí čtyřnásobné rozlišení oproti 4K, ale jejich praktický přínos je pro běžné sledování minimální až nulový. Člověk by musel sedět extrémně blízko obrazovky nebo vlastnit obrovskou televizi, aby dokázal rozdíl vůbec postřehnout.
 
 ## Proč je to důležité
 
-Výzkum přináší důležité poznatky pro spotřebitele i průmysl. Ukazuje, že marketingové tlaky na neustálé zvyšování rozlišení televizorů již dávno překročily hranice toho, co je pro lidské vnímání relevantní. Místo investic do dražších 8K televizorů by se uživatelé měli zaměřit na jiné parametry, jako je kvalita panelu, podpora HDR, obnovovací frekvence nebo správná vzdálenost sledování. Pro výrobce to znamená, že by se měli soustředit na zlepšování jiných aspektů obrazu než pouze rozlišení, protože další zvyšování počtu pixelů nepřinese zákazníkům měřitelnou hodnotu.
+Tento výzkum má praktické dopady na spotřebitelská rozhodnutí v oblasti televizní technologie. Ukazuje, že marketingové tlaky směřující k neustálému zvyšování rozlišení již dávno překročily hranice lidského vnímání. Pro většinu domácností by investice do lepší kvality panelu, vyššího kontrastu, širšího barevného gamutu nebo lepšího HDR mohla přinést viditelnější zlepšení než pouhé zvyšování počtu pixelů. Výsledky také naznačují, že technologický průmysl dosáhl bodu, kdy další inovace by se měly zaměřit na jiné aspekty obrazu než jen rozlišení.
 
 ---
 

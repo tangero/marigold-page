@@ -1,12 +1,11 @@
 ---
-category: hardware
+category: chytrá domácnost
 companies:
 - Apple
 - Bloomberg
 date: '2025-11-02 13:36:00'
-description: Apple údajně připravuje změny v maloobchodech k 12. listopadu, ale spíše
-  půjde o vizuální úpravy než uvedení nových produktů. HomePod mini a Apple TV čelí
-  nedostatku zásob.
+description: Zaměstnanci Apple Store se připravují na noční aktualizaci 11. listopadu,
+  což může signalizovat uvedení nových produktů. Jde však pravděpodobně jen o spekulace.
 importance: 2
 layout: tech_news_article
 original_title: 'Report: New Apple TV and HomePod mini could launch shortly, but don’t
@@ -19,19 +18,19 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Nový Apple TV a HomePod mini možná dorazí brzy, ale pravděpodobnost je nízká
+title: Apple možná brzy představí nový Apple TV a HomePod mini, ale očekávání tlumte
 url: https://9to5mac.com/2025/11/02/new-apple-tv-and-homepod-mini-may-launch-before-end-of-year/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Podle nejnovějšího newsletteru Power On od Marka Gurmana z Bloombergu Apple instruuje zaměstnance maloobchodů, aby se připravili na noční aktualizaci 11. listopadu, což naznačuje možné změny v prodejnách od 12. listopadu. Pravděpodobnost uvedení nových produktů je však nízká.
+Podle nejnovějšího newsletteru Power On od Marka Gurmana z Bloombergu dostali zaměstnanci maloobchodních prodejen Apple pokyn připravit se na noční aktualizaci 11. listopadu, což naznačuje možné změny v prodejnách od 12. listopadu. Gurman však upozorňuje, že se pravděpodobně nebude jednat o uvedení nových produktů, ale spíše o vizuální úpravu prodejen před vánočním obdobím.
 
-Původně se očekávalo, že Apple v říjnu představí čipy M5 v iPad Pro, MacBook Pro a Vision Pro, stejně jako aktualizované verze Apple TV a HomePod mini. K uvedení posledních dvou produktů nedošlo a termín jejich vydání zůstává nejasný. Gurman upozorňuje, že výrok Tima Cooka z minulého týdne o "nejpozoruhodnější produktové řadě" naznačuje, že nové produkty před koncem roku nepřijdou.
+Před říjnem se očekávalo, že Apple představí čipy M5 v iPad Pro, MacBook Pro a Vision Pro, stejně jako aktualizované verze Apple TV a HomePod mini. Zatímco některé produkty s M5 dorazily, nové verze zařízení pro chytrou domácnost se neobjevily. Tim Cook na minulotýdenní konferenci k výsledkům hospodaření uvedl, že společnost nabízí "nejpozoruhodnější produktovou řadu" před vánočním obdobím, což naznačuje, že žádné nové produkty letos již nepřijdou.
 
-Zajímavým signálem jsou však problémy se zásobami obou produktů. Snižující se skladové zásoby často předznamenávají příchod nových verzí. Oba produkty byly původně plánovány k uvedení před koncem roku 2025 a měly by představit nové funkce Siri a Apple Intelligence plánované na příští rok.
+Gurman zároveň upozorňuje na nedostatek zásob Apple TV a HomePod mini, což tradičně bývá signálem blížícího se uvedení nových verzí. Oba produkty měly být podle jeho informací uvedeny ještě před koncem roku 2025. Pokud se tak nestane, jejich příchod by neměl být příliš vzdálený, zejména proto, že mají předvést nové funkce Siri a Apple Intelligence plánované na příští rok.
 
-Nejpravděpodobnějším scénářem pro 12. listopad je pouze vizuální úprava prodejen pro vánoční sezónu, nikoli uvedení nových produktů. Apple TV a HomePod mini mají navíc relativně malý vliv na celkové finanční výsledky společnosti ve srovnání s produkty jako MacBook nebo iPad.
+Celkově se tedy zdá, že uvedení nových verzí Apple TV a HomePod mini před koncem roku je nepravděpodobné. Jedná se o spekulace založené na nedostatku zásob a plánované aktualizaci prodejen, nikoli o potvrzené informace od Applu.
 
 ---
 
