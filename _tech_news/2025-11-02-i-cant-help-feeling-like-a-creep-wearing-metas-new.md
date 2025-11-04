@@ -5,8 +5,8 @@ companies:
 - Meta
 date: '2025-11-02 11:30:00'
 description: Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů
-  s vylepšenou 12MP kamerou a delší výdrží baterie, ale otázky kolem soukromí a praktického
-  využití přetrvávají.
+  s vylepšeným fotoaparátem a delší výdrží, ale otázky soukromí a sledování zůstávají
+  nevyřešené.
 importance: 3
 layout: tech_news_article
 original_title: I Can't Help Feeling Like a Creep Wearing Meta's New Gen 2 Glasses
@@ -24,7 +24,8 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: 'Ray-Ban Meta Gen 2: Chytré brýle s lepší kamerou, ale sporným přínosem'
+title: Chytré brýle Meta Ray-Ban Gen 2 jsou technicky zdařilé, ale vyvolávají nepříjemné
+  pocity
 url: https://www.wired.com/review/ray-ban-meta-gen-2-glasses/
 urlToImage: https://media.wired.com/photos/6906870d7b005df85cad76e5/191:100/w_1280,c_limit/Review-%20Ray-Ban%20Meta%20Gen%202.png
 urlToImageBackup: https://media.wired.com/photos/6906870d7b005df85cad76e5/191:100/w_1280,c_limit/Review-%20Ray-Ban%20Meta%20Gen%202.png
@@ -32,32 +33,29 @@ urlToImageBackup: https://media.wired.com/photos/6906870d7b005df85cad76e5/191:10
 
 ## Souhrn
 
-Meta vydala druhou generaci chytrých brýlí Ray-Ban Meta za 379 dolarů, které nabízejí vylepšenou 12MP kameru s rozlišením až 3K, osmhodinovou výdrž baterie a AI asistenta pro hlasové příkazy. Brýle umožňují fotografování, natáčení videa, přehrávání hudby a telefonování, ale jejich o 80 dolarů vyšší cena oproti předchůdci a přetrvávající obavy o soukromí vyvolávají otázky o jejich skutečné hodnotě.
+Meta vydala druhou generaci chytrých brýlí Ray-Ban Meta Gen 2 za 379 dolarů, které nabízejí vylepšený 12megapixelový fotoaparát s rozlišením až 3K, osmhodinovou výdrž baterie a pokročilé AI funkce. Přes technické vylepšení recenzent z WIRED upozorňuje na přetrvávající problém s vnímáním těchto zařízení jako invazivních sledovacích nástrojů v běžném prostředí.
 
 ## Klíčové body
 
-- Cena 379 dolarů představuje nárůst o 80 dolarů oproti první generaci
-- Nová 12MP kamera snímá fotografie a videa v rozlišení až 3K s možností 60 fps a slow-motion režimu
-- Výdrž baterie se zvýšila na osm hodin při běžném používání, při intenzivním využití klesá na pět až šest hodin
+- Cena vzrostla o 80 dolarů oproti první generaci na 379 dolarů
+- Nový 12MP fotoaparát umožňuje snímání fotografií a videí v rozlišení až 3K s podporou 60 snímků za sekundu a slow-motion režimu
+- Výdrž baterie se prodloužila na osm hodin při běžném používání, pět až šest hodin při intenzivním využívání
 - Maximální délka jednoho videozáznamu je tři minuty
-- Integrovaný AI asistent umožňuje navigaci, živý překlad a rozpoznávání objektů
-- Dražší varianta Oakley Meta Vanguards za 499 dolarů nabízí pokročilejší kamerové funkce
+- Integrace s Meta AI umožňuje hlasové příkazy pro navigaci, živý překlad a rozpoznávání objektů
 
 ## Podrobnosti
 
-Druhá generace chytrých brýlí Ray-Ban Meta představuje evoluční upgrade původního modelu, který se stal překvapivým komerčním úspěchem. Hlavní vylepšení spočívá v kameře, která nyní disponuje 12 megapixely a dokáže zachytit obsah v rozlišení až 3K. Uživatelé mohou natáčet videa s frekvencí až 60 snímků za sekundu nebo využít režim slow-motion pro zpomalené záběry. Praktické omezení představuje tříminutový limit pro jeden záznam.
+Ray-Ban Meta Gen 2 představují vstupní model v portfoliu chytrých brýlí společnosti Meta, která nabízí také dražší variantu Oakley Meta Vanguards za 499 dolarů s pokročilejšími kamerovými schopnostmi připomínajícími akční kamery GoPro. Druhá generace navazuje na překvapivě úspěšnou první verzi, která se stala komerčním hitem.
 
-Výdrž baterie se výrazně zlepšila z původních hodnot na deklarovaných osm hodin při běžném používání. V praxi to znamená přibližně pět až šest hodin při konstantním využívání funkcí, přičemž intenzivní natáčení videa ve vysokém rozlišení baterii vybíjí ještě rychleji. Brýle slouží nejen jako kamera, ale také jako handsfree zařízení pro telefonování a bezdrátová sluchátka pro přehrávání hudby.
+Brýle kombinují funkce fotoaparátu, videokamery, sluchátek a handsfree zařízení pro telefonování. Uživatelé mohou pomocí hlasových příkazů aktivovat AI asistenta Meta, který dokáže poskytovat informace o okolí, překládat cizí jazyky v reálném čase nebo identifikovat objekty a živočichy. Technicky jde o zdařilé zařízení, které plní slibované funkce bez větších kompromisů.
 
-Integrace AI asistenta přináší funkce jako hlasovou navigaci, živý překlad cizích jazyků a rozpoznávání objektů v reálném čase. Aplikace však uživatele nutí interagovat s Meta AI, což recenzent označuje za obtěžující. Pro náročnější uživatele Meta nabízí dražší variantu Oakley Meta Vanguards za 499 dolarů s pokročilejšími kamerovými schopnostmi připomínajícími akční kamery GoPro.
+Problematická zůstává především aplikace, která nutí uživatele k interakci s AI asistentem Meta, který recenzent označuje za obtěžující. Větším problémem je však sociální aspekt nošení brýlí s integrovanou kamerou. I když zařízení disponuje indikátorem nahrávání, jeho přítomnost vyvolává u okolních lidí oprávněné obavy o soukromí a pocit neustálého sledování.
 
 ## Proč je to důležité
 
-Chytré brýle představují jeden z mála úspěšných pokusů o nositelnou technologii mimo chytré hodinky. Meta vsadila na partnerství s etablovanou značkou Ray-Ban, což pomohlo překonat stigma spojené s předchozími pokusy jako Google Glass. Úspěch první generace naznačuje, že existuje trh pro nenápadná nositelná zařízení s kamerou.
+Chytré brýle Meta Ray-Ban Gen 2 reprezentují pokračující snahu technologických gigantů o normalizaci nositelné technologie s integrovanými kamerami v běžném životě. Zatímco Google Glass v roce 2013 narazily na masivní odpor kvůli obavám o soukromí, Meta se snaží podobnou technologii prosadit prostřednictvím stylového designu Ray-Ban a postupného přidávání funkcí.
 
-Přetrvávající obavy o soukromí a surveillance však zůstávají relevantní. Brýle s integrovanou kamerou umožňují diskrétní nahrávání bez zjevného souhlasu okolí, což vyvolává etické otázky o hranicích soukromí ve veřejném prostoru. Vyšší cena druhé generace také testuje, zda jsou zákazníci ochotni platit premium za relativně omezené funkce.
-
-Z hlediska širšího technologického ekosystému představují tyto brýle Metův pokus o budování hardwarové platformy mimo virtuální realitu. Jde o přechodné zařízení mezi současnými chytrými telefony a budoucími AR brýlemi s displeji, které Meta stále vyvíjí.
+Úspěch první generace naznačuje, že trh pro tato zařízení existuje, ale recenze poukazuje na přetrvávající společenský problém: technologie může být sebelepší, ale pokud její nošení vyvolává u okolí nepříjemné pocity a oprávněné obavy o soukromí, zůstává otázkou, zda by se měla stát běžnou součástí veřejného prostoru. Jde o střet mezi technologickým pokrokem a společenskými normami, který zatím nemá jasné řešení.
 
 ---
 

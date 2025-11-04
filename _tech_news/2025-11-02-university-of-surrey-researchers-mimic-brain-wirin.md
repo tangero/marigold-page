@@ -2,8 +2,9 @@
 author: Marisa Aigen
 category: neuronové sítě
 date: '2025-11-02 12:31:23'
-description: Nová metoda Topographical Sparse Mapping inspirovaná lidským mozkem výrazně
-  snižuje energetickou náročnost neuronových sítí bez ztráty výkonu.
+description: Výzkumníci vyvinuli novou metodu Topographical Sparse Mapping, která
+  napodobuje strukturu lidského mozku a výrazně snižuje energetickou náročnost neuronových
+  sítí bez ztráty výkonu.
 importance: 3
 layout: tech_news_article
 original_title: University of Surrey researchers mimic brain wiring to improve AI
@@ -14,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: BBC News
-title: Výzkumníci z University of Surrey napodobují strukturu mozku pro zlepšení AI
+title: Vědci z University of Surrey napodobují propojení mozku pro zlepšení AI
 url: https://www.bbc.com/news/articles/c986ddy0myno
 urlToImage: https://ichef.bbci.co.uk/news/1024/branded_news/63a3/live/19cfda60-b5ac-11f0-b392-ad2df543f963.png
 urlToImageBackup: https://ichef.bbci.co.uk/news/1024/branded_news/63a3/live/19cfda60-b5ac-11f0-b392-ad2df543f963.png
@@ -22,31 +23,31 @@ urlToImageBackup: https://ichef.bbci.co.uk/news/1024/branded_news/63a3/live/19cf
 
 ## Souhrn
 
-Výzkumníci z University of Surrey vyvinuli nový přístup k návrhu umělých neuronových sítí, který napodobuje způsob propojení neuronů v lidském mozku. Metoda nazvaná Topographical Sparse Mapping propojuje neurony pouze s blízkými nebo souvisejícími neurony, což podle studie publikované v časopise Neurocomputing výrazně zlepšuje výkon při současném snížení energetické náročnosti.
+Výzkumníci z University of Surrey publikovali studii v časopise Neurocomputing, která představuje nový přístup k architektuře umělých neuronových sítí inspirovaný biologickým propojením lidského mozku. Metoda nazvaná Topographical Sparse Mapping (TSM) propojuje neurony pouze s blízkými nebo souvisejícími neurony, což výrazně snižuje energetickou náročnost při zachování výkonu.
 
 ## Klíčové body
 
 - Topographical Sparse Mapping eliminuje zbytečná propojení mezi neurony a napodobuje efektivní organizaci informací v lidském mozku
-- Trénování současných velkých AI modelů spotřebuje přes milion kilowatthodin elektřiny, což není při současném růstu AI udržitelné
-- Vylepšená verze Enhanced Topographical Sparse Mapping využívá biologicky inspirovaný proces "prořezávání" spojů během tréninku
-- Přístup zachovává přesnost modelů při výrazném snížení energetických nároků
-- Výzkumný tým zkoumá využití metody pro neuromorfní počítače
+- Trénování současných velkých AI modelů spotřebuje přes milion kilowatthodin elektřiny, což podle výzkumníků není udržitelné
+- Vylepšená verze Enhanced Topographical Sparse Mapping využívá biologicky inspirovaný proces "prořezávání" (pruning) během tréninku
+- Metoda je aplikovatelná na generativní AI a velké jazykové modely typu ChatGPT
+- Výzkumný tým zkoumá využití přístupu v neuromorfních počítačích
 
 ## Podrobnosti
 
-Tradiční umělé neuronové sítě, které tvoří základ moderních AI systémů jako ChatGPT, využívají husté propojení mezi neurony, kde je každý neuron potenciálně spojen s mnoha dalšími. Tento přístup vyžaduje obrovské množství výpočetního výkonu a energie. Výzkumníci z University of Surrey se rozhodli přehodnotit tuto základní architekturu a inspirovali se biologickými neuronovými sítěmi.
+Dr. Roman Bauer, vedoucí výzkumu a senior lecturer na University of Surrey, vysvětluje, že současné umělé neuronové sítě často využívají plně propojené vrstvy, kde každý neuron komunikuje s každým neuronem v následující vrstvě. To vytváří obrovské množství spojení, z nichž mnohá jsou redundantní a zbytečně zvyšují výpočetní a energetické nároky.
 
-Metoda Topographical Sparse Mapping vychází z pozorování, že lidský mozek neorganizuje neurony náhodně, ale vytváří topografické mapy, kde jsou blízké neurony zodpovědné za zpracování podobných informací. Dr. Roman Bauer, vedoucí výzkumu, vysvětluje, že tento přístup umožňuje budovat inteligentní systémy mnohem efektivněji, se sníženými energetickými nároky bez obětování výkonu.
+Topographical Sparse Mapping tento problém řeší tím, že strukturuje propojení podobně jako lidský mozek – neurony jsou spojeny pouze s těmi, které zpracovávají související informace nebo jsou prostorově blízko. Tato topografická organizace je běžná v biologických nervových systémech, například ve vizuálním kortexu, kde sousední neurony zpracovávají sousední oblasti zorného pole.
 
-Vylepšená verze Enhanced Topographical Sparse Mapping jde ještě dál a zavádí proces podobný synaptickému prořezávání v mozku. Během vývoje mozku a učení se postupně odstraňují méně používaná spojení mezi neurony, což vede k efektivnější síti. Tento biologický princip aplikovaný na umělé neuronové sítě umožňuje další optimalizaci během tréninku.
+Enhanced Topographical Sparse Mapping jde ještě dál a během tréninku postupně odstraňuje nejméně důležitá spojení, podobně jako se vyvíjející se mozek v dětství a dospívání prořezává synapse, které se nepoužívají. Tento proces vede k ještě efektivnějším sítím.
 
-Výzkumný tým také zkoumá aplikaci této metody v neuromorfních počítačích - specializovaném hardwaru, který přímo napodobuje strukturu a funkci lidského mozku a slibuje ještě větší energetickou efektivitu než tradiční architektury.
+Výzkumníci zdůrazňují praktický dopad na energetickou spotřebu. Při současném tempu růstu AI a trénování stále větších modelů představuje spotřeba energie zásadní problém jak z ekonomického, tak ekologického hlediska. Metoda TSM nabízí cestu ke snížení těchto nároků bez kompromisů ve výkonu.
 
 ## Proč je to důležité
 
-Energetická náročnost AI modelů se stává kritickým problémem s rostoucím nasazením generativní AI. Trénování jednoho velkého jazykového modelu může spotřebovat elektřinu srovnatelnou s roční spotřebou stovek domácností. Při současném tempu růstu AI není tento trend udržitelný z environmentálního ani ekonomického hlediska.
+Tato studie přichází v době, kdy energetická náročnost AI modelů čelí rostoucí kritice. Trénování velkých jazykových modelů vyžaduje masivní výpočetní kapacity a spotřebovává enormní množství elektřiny. Přístup inspirovaný biologií nabízí alternativní cestu k efektivnějším architekturám, která nemusí spoléhat pouze na zvyšování výpočetního výkonu.
 
-Přístup z University of Surrey nabízí cestu, jak výrazně snížit energetické nároky bez kompromisů ve výkonu. To má potenciál demokratizovat vývoj AI tím, že sníží náklady na trénování modelů, a současně zmírnit environmentální dopady technologie. Pokud se metoda osvědčí v praxi a bude adoptována průmyslem, mohla by představovat významný krok směrem k udržitelnější AI.
+Výzkum také otevírá možnosti pro neuromorfní computing – oblast, která se snaží vytvářet počítače fungující podobně jako lidský mozek. Tyto systémy by mohly být výrazně energeticky efektivnější než současné architektury založené na von Neumannově modelu. Pokud se principy TSM osvědčí v praxi, mohou ovlivnit design budoucích AI akcelerátorů a specializovaných čipů pro strojové učení.
 
 ---
 

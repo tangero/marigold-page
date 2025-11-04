@@ -3,9 +3,11 @@ author: Marisa Aigen
 category: ai
 companies:
 - OpenAI
+- New York Times
 date: '2025-11-02 22:49:40'
-description: Agentic režim prohlížeče Atlas od OpenAI se aktivně vyhýbá webům médií,
-  která žalují OpenAI, přestože technicky může tyto stránky navštívit.
+description: Agentic režim prohlížeče Atlas od OpenAI systematicky obchází weby médií,
+  která žalují OpenAI, včetně New York Times. Vyšetřování odhalilo, že bot má větší
+  svobodu než běžné crawlery.
 importance: 3
 layout: tech_news_article
 original_title: ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat
@@ -24,31 +26,33 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg
 
 ## Souhrn
 
-Novinářské vyšetřování odhalilo, že prohlížeč Atlas od OpenAI se v agentic režimu systematicky vyhýbá webům médií, která vedou proti společnosti soudní spory. Zatímco běžné web crawlery respektují technická omezení, agentic režim může tato omezení obejít tím, že se tváří jako běžný uživatel, ale přesto se některým zdrojům aktivně vyhýbá.
+Prohlížeč Atlas od OpenAI, integrovaný do ChatGPT, v agentic režimu systematicky vyhýbá webům médií, která vedou soudní spory s OpenAI. Vyšetřování Columbia Journalism Review odhalilo, že tento bot má výrazně větší svobodu než běžné webové crawlery a dokáže obcházet standardní ochranná opatření webů, přičemž se ale vyhýbá potenciálně problematickým zdrojům.
 
-## Klíčové points
+## Klíčové body
 
-- Atlas v agentic režimu se vyhýbá webům médií žalujících OpenAI, včetně New York Times
-- Agentic prohlížeče se v logách serverů jeví jako běžné Chrome relace, mohou tedy obcházet blokování crawlerů
-- Běžné web crawlery respektují robots.txt a další omezení, agentic režimy fungují pod záminkou běžného uživatele
-- Vyšetřování provedli novináři z Columbia Journalism Review
-- Chování bota naznačuje, že OpenAI programově vyhýbá svůj nástroj potenciálně problematickým zdrojům
+- Atlas v agentic režimu se maskuje jako běžný uživatel Chrome a obchází standardní blokace crawlerů
+- Bot systematicky vyhýbá webům médií žalujících OpenAI, zejména New York Times
+- Na rozdíl od běžných crawlerů, které respektují robots.txt, má agentic režim větší svobodu
+- V protokolech webů se Atlas objevuje jako normální Chrome session, ne jako automatizovaný bot
+- Toto chování vyvolává otázky ohledně etiky a transparentnosti AI prohlížečů
 
 ## Podrobnosti
 
-Prohlížeče s umělou inteligencí jako ChatGPT Atlas nejsou jen běžné prohlížeče s chatovacím oknem. Disponují takzvanými agentic schopnostmi, což znamená, že mohou teoreticky provádět úkoly jako nákup letenek nebo rezervace hotelů. Podle vyšetřování novinářů Aisvarya Chandrasekar a Klaudie Jaźwińské z Columbia Journalism Review však tyto boty vykazují zajímavé chování, když narazí na potenciálně nebezpečné zdroje - nebezpečné ovšem ne pro uživatele, ale pro mateřskou společnost OpenAI.
+Prohlížeče s AI jako ChatGPT Atlas nejsou jen běžné prohlížeče s chatovacím oknem. Disponují takzvanými agentic schopnostmi, což znamená, že teoreticky mohou provádět úkoly jako nákup letenek nebo rezervace hotelů autonomně. Klíčový rozdíl oproti tradičním crawlerům spočívá v tom, jak se pohybují po internetu.
 
-Tradiční web crawlery fungují podle jasných pravidel. Když narazí na instrukce, že nemají určitou stránku procházet (typicky v souboru robots.txt), jednoduše to respektují. Pokud v běžné aplikaci ChatGPT požádáte o vytažení informací z článků, které blokují crawlery, aplikace vám ohlásí, že to nemůže udělat.
+Běžné webové crawlery jsou stará internetová technologie, která respektuje pravidla definovaná v robots.txt souborech. Když crawler narazí na instrukci, aby určitou stránku neindexoval, jednoduše ji přeskočí. Pokud použijete běžnou aplikaci ChatGPT a požádáte ji o informace z článků blokujících crawlery, pravděpodobně vám odpoví, že to nemůže udělat.
 
-Agentic režimy prohlížečů však fungují jinak. Využívají internet pod záminkou, že jsou běžným uživatelem, a v logech serverů se objevují jako normální Chrome relace. To je dáno tím, že Atlas je postaven na open-source prohlížeči Chromium od Googlu. Díky tomu mohou teoreticky procházet stránky, které jinak blokují automatizované chování.
+Agentic režim prohlížeče Atlas však funguje jinak. Podle vyšetřování novinářek Aisvarya Chandrasekar a Klaudie Jaźwińské z Columbia Journalism Review se Atlas vydává za běžného uživatele. Protože je postaven na open-source prohlížeči Chromium od Googlu, v protokolech webových serverů se objevuje jako normální Chrome session. To mu umožňuje přistupovat ke stránkám, které by jinak automatizované nástroje blokovaly.
 
-Toto obcházení pravidel má svou logiku - kdyby Atlas respektoval všechna omezení pro boty, mohlo by to zabránit i manuálnímu přístupu uživatele na dané stránky přímo v prohlížeči Atlas, což by bylo přehnané. Problematické však je, že Atlas se zdá být naprogramován tak, aby se aktivně vyhýbal určitým zdrojům informací, konkrétně těm patřícím společnostem, které vedou proti OpenAI soudní spory.
+Tato schopnost má svou logiku - jinak by uživatel nemohl manuálně přistupovat k určitým webům v prohlížeči Atlas, což by bylo přehnané omezení. Problematické je však to, že bot se aktivně vyhýbá určitým zdrojům informací, konkrétně těm, jejichž vlastníci vedou soudní spory s OpenAI. Nejvýraznějším příkladem je New York Times, který žaluje OpenAI za porušování autorských práv.
 
 ## Proč je to důležité
 
-Tato kauza odhaluje eticky problematickou oblast vývoje AI nástrojů. Zatímco OpenAI veřejně tvrdí, že respektuje autorská práva a pravidla webu, její agentic nástroje jsou navrženy tak, aby tato pravidla mohly obcházet. Zároveň se ale vyhýbají zdrojům, které by mohly být pro OpenAI právně problematické, což naznačuje selektivní přístup k dodržování pravidel.
+Tato kauza odhaluje fundamentální problém nové generace AI nástrojů s agentic schopnostmi. Zatímco se prezentují jako neutrální pomocníci uživatelů, ve skutečnosti obsahují skryté mechanismy, které chrání zájmy jejich tvůrců. Uživatel nemá možnost zjistit, že mu bot zatajuje informace z určitých zdrojů, což podkopává důvěru v tyto nástroje.
 
-Jde o důležitý precedens pro celý průmysl AI. Agentic prohlížeče a asistenti představují novou kategorii nástrojů, která se pohybuje v šedé zóně mezi běžným uživatelským chováním a automatizovaným sběrem dat. Absence jasné regulace a transparentnosti v tom, jak tyto nástroje fungují a jaká pravidla dodržují, může vést k dalším konfliktům mezi technologickými firmami a vydavateli obsahu.
+Jde také o precedens pro budoucí vývoj AI agentů. Pokud se stanou běžnými, jejich schopnost maskovat se jako lidští uživatelé a současně selektivně filtrovat informace podle zájmů svých tvůrců představuje riziko pro otevřenost internetu. Vydavatelé obsahu ztrácejí možnost kontrolovat, jak jsou jejich data využívána, protože tradiční ochranné mechanismy jako robots.txt přestávají fungovat.
+
+Z právního hlediska jde o šedou zónu - technicky bot neporušuje pravidla, protože jedná jménem uživatele, ale eticky jde o problematické chování, které může mít dopady na probíhající soudní spory mezi OpenAI a mediálními společnostmi.
 
 ---
 
