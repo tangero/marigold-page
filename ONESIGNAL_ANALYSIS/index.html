@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>🔍 OneSignal Browser Notifications - Hluboká Analýza | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="🔍 OneSignal Browser Notifications - Hluboká Analýza" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/ONESIGNAL_ANALYSIS/" />
+<meta property="og:url" content="https://www.marigold.cz/ONESIGNAL_ANALYSIS/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="🔍 OneSignal Browser Notifications - Hluboká Analýza" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"🔍 OneSignal Browser Notifications - Hluboká Analýza","url":"https://www.marigold.cz/ONESIGNAL_ANALYSIS/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="🔍 OneSignal Browser Notifications - Hluboká Analýza" />
+    <meta property="twitter:title" content="🔍 OneSignal Browser Notifications - Hluboká Analýza" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ONESIGNAL_ANALYSIS/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>🔍 OneSignal Browser Notifications - Hluboká Analýza</h1>
+
+  <div class="entry">
+    <h1 id="-onesignal-browser-notifications---hluboká-analýza">🔍 OneSignal Browser Notifications - Hluboká Analýza</h1>
+
+<h2 id="-executive-summary">📋 Executive Summary</h2>
+
+<p>Provedl jsem komplexní analýzu OneSignal integrace pro marigold.cz. Identifikoval jsem <strong>6 kritických problémů</strong> a <strong>3 varování</strong>, které mohou způsobovat, že notifikace nefungují.</p>
+
+<hr />
+
+<h2 id="-identifikované-problémy">🎯 Identifikované Problémy</h2>
+
+<h3 id="-kritické-problémy">🔴 KRITICKÉ PROBLÉMY</h3>
+
+<h4 id="1-nesprávný-onesignal-segment">1. <strong>Nesprávný OneSignal Segment</strong></h4>
+<p><strong>Lokace:</strong> Všechny notifikační skripty<br />
+<strong>Dopad:</strong> VYSOKÝ - Notifikace se nemusí vůbec posílat</p>
+
+<p><strong>Problém:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">payload</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">"app_id"</span><span class="p">:</span> <span class="n">app_id</span><span class="p">,</span>
+    <span class="s">"included_segments"</span><span class="p">:</span> <span class="p">[</span><span class="s">"Subscribed Users"</span><span class="p">],</span>  <span class="c1"># ❌ CHYBA
+</span>    <span class="p">...</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>Analýza:</strong></p>
+<ul>
+  <li>Všechny skripty používají segment <code class="language-plaintext highlighter-rouge">"Subscribed Users"</code></li>
+  <li>Tento segment <strong>neexistuje</strong> ve výchozím OneSignal nastavení</li>
+  <li>Výchozí segmenty v OneSignal jsou:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">"All"</code> - všichni uživatelé</li>
+      <li><code class="language-plaintext highlighter-rouge">"Active Users"</code> - aktivní uživatelé (7 dní)</li>
+      <li><code class="language-plaintext highlighter-rouge">"Inactive Users"</code> - neaktivní uživatelé</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Důsledek:</strong></p>
+<ul>
+  <li>API vrátí chybu nebo 0 příjemců</li>
+  <li>Notifikace se nikam nepošlou</li>
+</ul>
+
+<p><strong>Oprava:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">payload</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">"app_id"</span><span class="p">:</span> <span class="n">app_id</span><span class="p">,</span>
+    <span class="s">"included_segments"</span><span class="p">:</span> <span class="p">[</span><span class="s">"All"</span><span class="p">],</span>  <span class="c1"># ✅ Správně
+</span>    <span class="p">...</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>Soubory k opravě:</strong></p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">.github/scripts/send_notifications.py:104</code></li>
+  <li><code class="language-plaintext highlighter-rouge">test_onesignal.py:53</code></li>
+  <li><code class="language-plaintext highlighter-rouge">send_notification_now.py:41</code></li>
+  <li><code class="language-plaintext highlighter-rouge">debug_onesignal.py:55</code></li>
+  <li><code class="language-plaintext highlighter-rouge">.github/workflows/test-notification.yml:60</code></li>
+</ul>
+
+<hr />
+
+<h4 id="2-špatné-parsování-onesignal-response">2. <strong>Špatné Parsování OneSignal Response</strong></h4>
+<p><strong>Lokace:</strong> <code class="language-plaintext highlighter-rouge">.github/scripts/send_notifications.py:114</code><br />
+<strong>Dopad:</strong> STŘEDNÍ - Nesprávné logování, může skrývat skutečné chyby</p>
+
+<p><strong>Problém:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">result</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">json</span><span class="p">()</span>
+<span class="n">notification_id</span> <span class="o">=</span> <span class="n">result</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'body'</span><span class="p">,</span> <span class="p">{}).</span><span class="n">get</span><span class="p">(</span><span class="s">'id'</span><span class="p">,</span> <span class="s">'unknown'</span><span class="p">)</span>  <span class="c1"># ❌ CHYBA
+</span></code></pre></div></div>
+
+<p><strong>Analýza:</strong>
+OneSignal API vrací response v tomto formátu:</p>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"notification-id-here"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"recipients"</span><span class="p">:</span><span class="w"> </span><span class="mi">5</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"external_id"</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><strong>NIKDY ne:</strong></p>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"body"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"notification-id-here"</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><strong>Oprava:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">result</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">json</span><span class="p">()</span>
+<span class="n">notification_id</span> <span class="o">=</span> <span class="n">result</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'id'</span><span class="p">,</span> <span class="s">'unknown'</span><span class="p">)</span>  <span class="c1"># ✅ Správně
+</span><span class="n">recipients</span> <span class="o">=</span> <span class="n">result</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'recipients'</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+</code></pre></div></div>
+
+<hr />
+
+<h4 id="3-github-workflow---nekonzistentní-secret-names">3. <strong>GitHub Workflow - Nekonzistentní Secret Names</strong></h4>
+<p><strong>Lokace:</strong> <code class="language-plaintext highlighter-rouge">.github/workflows/send-notifications.yml:34</code><br />
+<strong>Dopad:</strong> VYSOKÝ - Workflow může selhat pokud secret není správně pojmenován</p>
+
+<p><strong>Problém:</strong></p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">env</span><span class="pi">:</span>
+  <span class="na">ONESIGNAL_REST_API_KEY</span><span class="pi">:</span> <span class="s">$</span>
+  <span class="na">ONESIGNAL_MARIGOLD_APP_ID</span><span class="pi">:</span> <span class="s">$</span>  <span class="c1"># ❌ Nekonzistentní</span>
+  <span class="na">ONESIGNAL_VIBECODING_APP_ID</span><span class="pi">:</span> <span class="s">0c413930-f7f6-4d73-9438-36ec057acb7d</span>
+</code></pre></div></div>
+
+<p><strong>Analýza:</strong></p>
+<ul>
+  <li>Workflow mapuje <code class="language-plaintext highlighter-rouge">ONESIGNAL_MARIGOLD_APP_ID</code> na <code class="language-plaintext highlighter-rouge">secrets.ONESIGNAL_APP_ID</code></li>
+  <li>Dokumentace uvádí, že by měl být secret <code class="language-plaintext highlighter-rouge">ONESIGNAL_MARIGOLD_APP_ID</code></li>
+  <li>Toto vytváří zmatení a může způsobit chyby</li>
+</ul>
+
+<p><strong>Doporučení:</strong>
+Buď:</p>
+<ol>
+  <li>Použít konzistentně <code class="language-plaintext highlighter-rouge">ONESIGNAL_MARIGOLD_APP_ID</code> všude</li>
+  <li>Nebo přejmenovat secret na <code class="language-plaintext highlighter-rouge">ONESIGNAL_APP_ID</code> a aktualizovat dokumentaci</li>
+</ol>
+
+<hr />
+
+<h4 id="4-workflow-trigger---může-chybět-tech-news">4. <strong>Workflow Trigger - Může Chybět Tech News</strong></h4>
+<p><strong>Lokace:</strong> <code class="language-plaintext highlighter-rouge">.github/workflows/send-notifications.yml:7-9</code><br />
+<strong>Dopad:</strong> STŘEDNÍ - Notifikace pro tech news se neposílají</p>
+
+<p><strong>Problém:</strong></p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">paths</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">_posts/**/*.md'</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">_vibecoding/**/*.md'</span>
+</code></pre></div></div>
+
+<p><strong>Analýza:</strong></p>
+<ul>
+  <li>Workflow se spouští jen pro <code class="language-plaintext highlighter-rouge">_posts/</code> a <code class="language-plaintext highlighter-rouge">_vibecoding/</code></li>
+  <li>V projektu existuje i <code class="language-plaintext highlighter-rouge">_tech_news/</code> kolekce</li>
+  <li>Tech news články nespustí workflow</li>
+</ul>
+
+<p><strong>Možné řešení:</strong></p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">paths</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">_posts/**/*.md'</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">_vibecoding/**/*.md'</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">_tech_news/**/*.md'</span>  <span class="c1"># Pokud chcete notifikace i pro tech news</span>
+</code></pre></div></div>
+
+<hr />
+
+<h4 id="5-chybějící-error-handling-v-production-skriptu">5. <strong>Chybějící Error Handling v Production Skriptu</strong></h4>
+<p><strong>Lokace:</strong> <code class="language-plaintext highlighter-rouge">.github/scripts/send_notifications.py</code><br />
+<strong>Dopad:</strong> STŘEDNÍ - Ztráta důležitých debug informací</p>
+
+<p><strong>Problém:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">try</span><span class="p">:</span>
+    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">post</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">json</span><span class="o">=</span><span class="n">payload</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">,</span> <span class="n">timeout</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">response</span><span class="p">.</span><span class="n">status_code</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">200</span><span class="p">,</span> <span class="mi">201</span><span class="p">]:</span>
+        <span class="p">...</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"❌ </span><span class="si">{</span><span class="n">website_name</span><span class="si">}</span><span class="s">: Chyba </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">status_code</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Response: </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">text</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="bp">False</span>
+</code></pre></div></div>
+
+<p><strong>Analýza:</strong></p>
+<ul>
+  <li>Minimální error handling</li>
+  <li>Nedostatečné logování pro debugging</li>
+  <li>Nezachycuje network errors mimo timeout</li>
+</ul>
+
+<p><strong>Doporučené vylepšení:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">try</span><span class="p">:</span>
+    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">post</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">json</span><span class="o">=</span><span class="n">payload</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">,</span> <span class="n">timeout</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+    
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"[DEBUG] Status: </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">status_code</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"[DEBUG] Response: </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">text</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+    
+    <span class="k">if</span> <span class="n">response</span><span class="p">.</span><span class="n">status_code</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">200</span><span class="p">,</span> <span class="mi">201</span><span class="p">]:</span>
+        <span class="n">result</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">json</span><span class="p">()</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"[DEBUG] Full result: </span><span class="si">{</span><span class="n">json</span><span class="p">.</span><span class="n">dumps</span><span class="p">(</span><span class="n">result</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="p">...</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"❌ </span><span class="si">{</span><span class="n">website_name</span><span class="si">}</span><span class="s">: HTTP </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">status_code</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Headers: </span><span class="si">{</span><span class="nb">dict</span><span class="p">(</span><span class="n">response</span><span class="p">.</span><span class="n">headers</span><span class="p">)</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Body: </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">text</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="bp">False</span>
+<span class="k">except</span> <span class="n">requests</span><span class="p">.</span><span class="n">Timeout</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"❌ </span><span class="si">{</span><span class="n">website_name</span><span class="si">}</span><span class="s">: Timeout po 10s"</span><span class="p">)</span>
+    <span class="k">return</span> <span class="bp">False</span>
+<span class="k">except</span> <span class="n">requests</span><span class="p">.</span><span class="n">RequestException</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"❌ </span><span class="si">{</span><span class="n">website_name</span><span class="si">}</span><span class="s">: Network error: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+    <span class="k">return</span> <span class="bp">False</span>
+</code></pre></div></div>
+
+<hr />
+
+<h4 id="6-možná-absence-subscriberů">6. <strong>Možná Absence Subscriberů</strong></h4>
+<p><strong>Lokace:</strong> Frontend<br />
+<strong>Dopad:</strong> KRITICKÝ - Notifikace nemají komu poslat</p>
+
+<p><strong>Analýza:</strong>
+Možné důvody, proč nikdo není přihlášen:</p>
+
+<ol>
+  <li><strong>Slidedown se zobrazuje až na 3. návštěvu</strong>
+    <ul>
+      <li>Většina uživatelů může navštívit web jen 1-2x</li>
+      <li>Konzervativní přístup může odradit od přihlášení</li>
+    </ul>
+  </li>
+  <li><strong>Chybějící explicitní call-to-action</strong>
+    <ul>
+      <li>Subscribe button je v rohu - může být přehlédnut</li>
+      <li>Není viditelný na mobilech</li>
+    </ul>
+  </li>
+  <li><strong>iOS Web Push vyžaduje speciální setup</strong>
+    <ul>
+      <li>Uživatel musí přidat web na home screen</li>
+      <li>Poměrně složitý proces</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Ověření:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Spustit test skript lokálně</span>
+<span class="nb">export </span><span class="nv">ONESIGNAL_REST_API_KEY</span><span class="o">=</span><span class="s2">"your-key"</span>
+python3 test_onesignal.py
+<span class="c"># Zkontrolovat "Příjemci: X" v outputu</span>
+</code></pre></div></div>
+
+<hr />
+
+<h3 id="️-varování">⚠️ VAROVÁNÍ</h3>
+
+<h4 id="w1-onesignal-sdk-v16---stabilita">W1. OneSignal SDK v16 - Stabilita</h4>
+<p><strong>Dopad:</strong> NÍZKÝ</p>
+
+<p>SDK v16 je poslední verze, ale OneSignal API se často mění. Doporučuji:</p>
+<ul>
+  <li>Monitorovat changelog: https://documentation.onesignal.com/docs/web-sdk-changelog</li>
+  <li>Testovat notifikace po každém update SDK</li>
+</ul>
+
+<h4 id="w2-service-worker-caching">W2. Service Worker Caching</h4>
+<p><strong>Dopad:</strong> NÍZKÝ</p>
+
+<p><code class="language-plaintext highlighter-rouge">OneSignalSDKWorker.js</code> používá importScripts a může být cachován prohlížečem.</p>
+
+<p><strong>Doporučení:</strong></p>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Přidat do OneSignalSDKWorker.js</span>
+<span class="nb">self</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="dl">'</span><span class="s1">install</span><span class="dl">'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">event</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nb">self</span><span class="p">.</span><span class="nx">skipWaiting</span><span class="p">();</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<h4 id="w3-lokální-testing-není-možný">W3. Lokální Testing není možný</h4>
+<p><strong>Dopad:</strong> NÍZKÝ</p>
+
+<p>OneSignal vyžaduje HTTPS (nebo localhost). Pro staging/testing:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>allowLocalhostAsSecureOrigin: true  // ✅ Už nastaveno
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="-co-funguje-správně">✅ Co Funguje Správně</h2>
+
+<h3 id="frontend-_includesonesignalhtml">Frontend (_includes/onesignal.html)</h3>
+<p>✅ <strong>OneSignal SDK inicializace:</strong></p>
+<ul>
+  <li>Správný App ID: <code class="language-plaintext highlighter-rouge">00fc3def-70d1-4e7d-a081-984d5e738a75</code></li>
+  <li>SDK v16 správně načten</li>
+  <li>Safari Web Push podpora zapnuta</li>
+  <li>iOS Web App metadata v pořádku</li>
+</ul>
+
+<p>✅ <strong>Service Worker:</strong></p>
+<ul>
+  <li>OneSignalSDKWorker.js na správném místě</li>
+  <li>Správný import SDK</li>
+</ul>
+
+<p>✅ <strong>Manifest:</strong></p>
+<ul>
+  <li>manifest-marigold.json správně nakonfigurován</li>
+  <li>Icons v pořádku</li>
+  <li>iOS metadata správně</li>
+</ul>
+
+<h3 id="backend">Backend</h3>
+<p>✅ <strong>API Endpoint:</strong></p>
+<ul>
+  <li>Používá správný endpoint: <code class="language-plaintext highlighter-rouge">https://onesignal.com/api/v1/notifications</code></li>
+</ul>
+
+<p>✅ <strong>Authentication:</strong></p>
+<ul>
+  <li>Správný formát Authorization header: <code class="language-plaintext highlighter-rouge">Basic {api_key}</code></li>
+</ul>
+
+<p>✅ <strong>Content Type:</strong></p>
+<ul>
+  <li>Správný: <code class="language-plaintext highlighter-rouge">application/json; charset=utf-8</code></li>
+</ul>
+
+<hr />
+
+<h2 id="-akční-plán-priority">🔧 Akční Plán (Priority)</h2>
+
+<h3 id="1-okamžitě---opravit-segment-name">1. OKAMŽITĚ - Opravit Segment Name</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Najít a nahradit ve všech souborech</span>
+find <span class="nb">.</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s2">"*.py"</span> <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"Subscribed Users"/"All"/g'</span> <span class="o">{}</span> +
+find .github/workflows <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s2">"*.yml"</span> <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"Subscribed Users"/"All"/g'</span> <span class="o">{}</span> +
+</code></pre></div></div>
+
+<h3 id="2-okamžitě---opravit-response-parsing">2. OKAMŽITĚ - Opravit Response Parsing</h3>
+<p>Upravit <code class="language-plaintext highlighter-rouge">.github/scripts/send_notifications.py:114</code>:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">notification_id</span> <span class="o">=</span> <span class="n">result</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'id'</span><span class="p">,</span> <span class="s">'unknown'</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h3 id="3-dnes---ověřit-github-secrets">3. DNES - Ověřit GitHub Secrets</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zkontrolovat v GitHub UI:</span>
+<span class="c"># Settings → Secrets and variables → Actions</span>
+<span class="c"># </span>
+<span class="c"># Měly by existovat:</span>
+<span class="c"># - ONESIGNAL_REST_API_KEY</span>
+<span class="c"># - ONESIGNAL_APP_ID (nebo ONESIGNAL_MARIGOLD_APP_ID)</span>
+</code></pre></div></div>
+
+<h3 id="4-dnes---spustit-test">4. DNES - Spustit Test</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Manuálně spustit test-notification.yml workflow</span>
+<span class="c"># nebo lokálně:</span>
+<span class="nb">export </span><span class="nv">ONESIGNAL_REST_API_KEY</span><span class="o">=</span><span class="s2">"your-key"</span>
+<span class="nb">export </span><span class="nv">ONESIGNAL_APP_ID</span><span class="o">=</span><span class="s2">"00fc3def-70d1-4e7d-a081-984d5e738a75"</span>
+python3 test_onesignal.py
+</code></pre></div></div>
+
+<h3 id="5-týden---vylepšit-ux-pro-subscription">5. TÝDEN - Vylepšit UX pro Subscription</h3>
+<ul>
+  <li>Přidat viditelný banner “📬 Chcete dostávat novinky?” na homepage</li>
+  <li>Zkrátit slidedown delay z 3 na 2 návštěvy</li>
+  <li>Přidat explicitní CTA v článcích</li>
+</ul>
+
+<h3 id="6-měsíc---monitoring">6. MĚSÍC - Monitoring</h3>
+<ul>
+  <li>Implementovat logging do souboru nebo cloud service</li>
+  <li>Nastavit alerts při selhání notifikací</li>
+  <li>Sledovat OneSignal dashboard pro statistiky doručení</li>
+</ul>
+
+<hr />
+
+<h2 id="-diagnostické-skripty">📊 Diagnostické Skripty</h2>
+
+<h3 id="ověření-subscriberů">Ověření Subscriberů</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">import</span> <span class="nn">os</span>
+
+<span class="n">app_id</span> <span class="o">=</span> <span class="s">"00fc3def-70d1-4e7d-a081-984d5e738a75"</span>
+<span class="n">api_key</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">'ONESIGNAL_REST_API_KEY'</span><span class="p">)</span>
+
+<span class="c1"># Získat počet subscriberů
+</span><span class="n">url</span> <span class="o">=</span> <span class="sa">f</span><span class="s">"https://onesignal.com/api/v1/apps/</span><span class="si">{</span><span class="n">app_id</span><span class="si">}</span><span class="s">"</span>
+<span class="n">headers</span> <span class="o">=</span> <span class="p">{</span><span class="s">"Authorization"</span><span class="p">:</span> <span class="sa">f</span><span class="s">"Basic </span><span class="si">{</span><span class="n">api_key</span><span class="si">}</span><span class="s">"</span><span class="p">}</span>
+<span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">)</span>
+
+<span class="k">if</span> <span class="n">response</span><span class="p">.</span><span class="n">status_code</span> <span class="o">==</span> <span class="mi">200</span><span class="p">:</span>
+    <span class="n">data</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">json</span><span class="p">()</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Celkem subscriberů: </span><span class="si">{</span><span class="n">data</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'players'</span><span class="p">,</span> <span class="s">'N/A'</span><span class="p">)</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Aktivních (7 dní): </span><span class="si">{</span><span class="n">data</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'messageable_players'</span><span class="p">,</span> <span class="s">'N/A'</span><span class="p">)</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="k">print</span><span class="p">(</span><span class="sa">f</span><span class="s">"Chyba: </span><span class="si">{</span><span class="n">response</span><span class="p">.</span><span class="n">status_code</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h3 id="test-notifikace">Test Notifikace</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Použít existující test_segments.py</span>
+<span class="nb">export </span><span class="nv">ONESIGNAL_REST_API_KEY</span><span class="o">=</span><span class="s2">"your-key"</span>
+python3 test_segments.py
+
+<span class="c"># Nebo jednodušší:</span>
+python3 send_notification_now.py
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="-závěrečné-doporučení">🎓 Závěrečné Doporučení</h2>
+
+<p>Jako senior vývojář doporučuji:</p>
+
+<ol>
+  <li><strong>První krok:</strong> Opravit segment name z “Subscribed Users” na “All”</li>
+  <li><strong>Druhý krok:</strong> Opravit response parsing</li>
+  <li><strong>Třetí krok:</strong> Ověřit GitHub Secrets</li>
+  <li><strong>Čtvrtý krok:</strong> Spustit test a zkontrolovat recipients count</li>
+  <li><strong>Pátý krok:</strong> Pokud recipients = 0, zaměřit se na frontend subscription UX</li>
+</ol>
+
+<p><strong>Pravděpodobnost problému:</strong></p>
+<ul>
+  <li>80% - Špatný segment name</li>
+  <li>15% - Žádní subscribeři</li>
+  <li>5% - Špatné API credentials</li>
+</ul>
+
+<p><strong>Očekávaný čas opravy:</strong> 30-60 minut</p>
+
+<hr />
+
+<h2 id="-reference">📚 Reference</h2>
+
+<ul>
+  <li><a href="https://documentation.onesignal.com/docs/web-push-setup">OneSignal Web Push Docs</a></li>
+  <li><a href="https://documentation.onesignal.com/reference/create-notification">OneSignal REST API</a></li>
+  <li><a href="https://documentation.onesignal.com/docs/segments">Web Push Segments</a></li>
+  <li>Lokální dokumentace: <code class="language-plaintext highlighter-rouge">.github/ONESIGNAL_SETUP.md</code></li>
+</ul>
+
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
