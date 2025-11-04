@@ -57,7 +57,7 @@ jobs:
 
             payload = {
                 "app_id": app_id,
-                "included_segments": ["Subscribed Users"],
+                "included_segments": ["All"],
                 "headings": {"en": title, "cs": title},
                 "contents": {"en": message, "cs": message},
             }

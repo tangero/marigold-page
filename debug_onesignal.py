@@ -52,7 +52,7 @@ def main():
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["Subscribed Users"],
+        "included_segments": ["All"],
         "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
         "contents": {"en": summary, "cs": summary},
     }
