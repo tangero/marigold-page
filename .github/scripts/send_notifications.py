@@ -101,7 +101,7 @@ def send_notification(title, message, app_id, website_name):
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["All"],
+        "included_segments": ["Total Subscriptions"],
         "headings": {"en": title, "cs": title},
         "contents": {"en": message, "cs": message},
     }

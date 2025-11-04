@@ -38,7 +38,7 @@ headers = {
 
 payload = {
     "app_id": ONESIGNAL_APP_ID,
-    "included_segments": ["All"],
+    "included_segments": ["Total Subscriptions"],
     "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
     "contents": {"en": summary, "cs": summary},
 }
