@@ -41,6 +41,11 @@ payload = {
     "included_segments": ["Total Subscriptions"],
     "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
     "contents": {"en": summary, "cs": summary},
+    # Platform targeting - pouze Web Push
+    "isAnyWeb": True,
+    "isChromeWeb": True,
+    "isFirefox": True,
+    "isSafari": True,
 }
 
 print(f"\n📤 Odesílám notifikaci...")
