@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/BRIDGY_FED_SETUP/" />
+<meta property="og:url" content="https://www.marigold.cz/BRIDGY_FED_SETUP/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse","url":"https://www.marigold.cz/BRIDGY_FED_SETUP/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse" />
+    <meta property="twitter:title" content="Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/BRIDGY_FED_SETUP/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse</h1>
+
+  <div class="entry">
+    <h1 id="bridgy-fed---propojení-marigoldcz-a-vibecodingcz-do-fediverse">Bridgy Fed - Propojení Marigold.cz a Vibecoding.cz do Fediverse</h1>
+
+<h2 id="přehled">Přehled</h2>
+
+<p>Tento dokument popisuje nastavení automatického publikování článků z Marigold.cz a Vibecoding.cz do fediverse (Mastodon) a Bluesky přes službu Bridgy Fed.</p>
+
+<h2 id="stav-konfigurace">Stav konfigurace</h2>
+
+<h3 id="rss-feedy">RSS Feedy</h3>
+
+<p><strong>Marigold.cz:</strong></p>
+<ul>
+  <li>✅ Český RSS feed: <code class="language-plaintext highlighter-rouge">https://www.marigold.cz/feed.xml</code></li>
+  <li>✅ Anglický RSS feed: <code class="language-plaintext highlighter-rouge">https://www.marigold.cz/feed-en.xml</code></li>
+  <li>✅ Jekyll-feed plugin nakonfigurován</li>
+  <li>✅ Feed obsahuje 20 nejnovějších článků s excerptem</li>
+  <li>✅ Feed je discoverable z homepage (link rel=”alternate” v HTML hlavičce)</li>
+</ul>
+
+<p><strong>Vibecoding.cz:</strong></p>
+<ul>
+  <li>✅ RSS feed: <code class="language-plaintext highlighter-rouge">https://www.vibecoding.cz/vibecoding-feed.xml</code></li>
+  <li>✅ Vlastní feed template</li>
+  <li>✅ Feed obsahuje články o AI nástrojích pro programování</li>
+</ul>
+
+<h2 id="aktivace-bridgy-fed">Aktivace Bridgy Fed</h2>
+
+<h3 id="metoda-1-webové-rozhraní-doporučeno">Metoda 1: Webové rozhraní (doporučeno)</h3>
+
+<ol>
+  <li><strong>Pro Marigold.cz:</strong>
+    <ul>
+      <li>Otevřete https://fed.brid.gy/</li>
+      <li>Do pole zadejte: <code class="language-plaintext highlighter-rouge">marigold.cz</code> nebo <code class="language-plaintext highlighter-rouge">https://www.marigold.cz</code></li>
+      <li>Klikněte na tlačítko “Go” nebo “Bridge”</li>
+      <li>Bridgy Fed automaticky najde váš RSS feed a začne ho sledovat</li>
+    </ul>
+  </li>
+  <li><strong>Pro Vibecoding.cz:</strong>
+    <ul>
+      <li>Otevřete https://fed.brid.gy/</li>
+      <li>Do pole zadejte: <code class="language-plaintext highlighter-rouge">vibecoding.cz</code> nebo <code class="language-plaintext highlighter-rouge">https://www.vibecoding.cz</code></li>
+      <li>Klikněte na tlačítko “Go” nebo “Bridge”</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="metoda-2-api-alternativa">Metoda 2: API (alternativa)</h3>
+
+<p>Pokud preferujete API, můžete použít curl:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Pro Marigold.cz</span>
+curl <span class="nt">-X</span> POST <span class="s2">"https://fed.brid.gy/web-site"</span> <span class="se">\</span>
+  <span class="nt">-H</span> <span class="s2">"Content-Type: application/x-www-form-urlencoded"</span> <span class="se">\</span>
+  <span class="nt">-d</span> <span class="s2">"url=https://www.marigold.cz"</span>
+
+<span class="c"># Pro Vibecoding.cz</span>
+curl <span class="nt">-X</span> POST <span class="s2">"https://fed.brid.gy/web-site"</span> <span class="se">\</span>
+  <span class="nt">-H</span> <span class="s2">"Content-Type: application/x-www-form-urlencoded"</span> <span class="se">\</span>
+  <span class="nt">-d</span> <span class="s2">"url=https://www.vibecoding.cz"</span>
+</code></pre></div></div>
+
+<h2 id="vaše-bridgované-účty">Vaše bridgované účty</h2>
+
+<p>Po aktivaci budete mít následující účty:</p>
+
+<h3 id="marigoldcz">Marigold.cz</h3>
+<ul>
+  <li><strong>Mastodon/Fediverse:</strong> <code class="language-plaintext highlighter-rouge">@marigold.cz@web.brid.gy</code></li>
+  <li><strong>Bluesky:</strong> <code class="language-plaintext highlighter-rouge">marigold.cz.web.brid.gy</code></li>
+</ul>
+
+<h3 id="vibecodingcz">Vibecoding.cz</h3>
+<ul>
+  <li><strong>Mastodon/Fediverse:</strong> <code class="language-plaintext highlighter-rouge">@vibecoding.cz@web.brid.gy</code></li>
+  <li><strong>Bluesky:</strong> <code class="language-plaintext highlighter-rouge">vibecoding.cz.web.brid.gy</code></li>
+</ul>
+
+<h2 id="jak-to-funguje">Jak to funguje</h2>
+
+<ol>
+  <li><strong>První synchronizace:</strong>
+    <ul>
+      <li>Bridgy Fed najde RSS feed na vaší homepage</li>
+      <li>Extrahuje a publikuje existující příspěvky z feedu</li>
+      <li>Obvykle začne s několika nejnovějšími články</li>
+    </ul>
+  </li>
+  <li><strong>Průběžná synchronizace:</strong>
+    <ul>
+      <li>Bridgy Fed periodicky kontroluje váš RSS feed (několikrát denně)</li>
+      <li>Když najde nový článek, automaticky ho publikuje do fediverse a Bluesky</li>
+      <li>Publikace obsahuje název, excerpt a odkaz na původní článek</li>
+    </ul>
+  </li>
+  <li><strong>Formát publikace:</strong>
+    <ul>
+      <li>Název článku</li>
+      <li>Krátký excerpt (z RSS feedu)</li>
+      <li>Odkaz na plný článek</li>
+      <li>Datum publikace</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="monitoring-a-správa">Monitoring a správa</h2>
+
+<h3 id="dashboard">Dashboard</h3>
+
+<p>Po aktivaci můžete sledovat stav na:</p>
+<ul>
+  <li>Marigold.cz: https://fed.brid.gy/web/marigold.cz</li>
+  <li>Vibecoding.cz: https://fed.brid.gy/web/vibecoding.cz</li>
+</ul>
+
+<p>Dashboard zobrazuje:</p>
+<ul>
+  <li>Počet publikovaných příspěvků</li>
+  <li>Poslední synchronizaci</li>
+  <li>Případné chyby</li>
+</ul>
+
+<h3 id="vyhledání-vašich-účtů">Vyhledání vašich účtů</h3>
+
+<p>Lidé vás mohou najít zadáním vaší domény do vyhledávání:</p>
+
+<p><strong>V Mastodon/Fediverse aplikacích:</strong></p>
+<ul>
+  <li>Vyhledejte: <code class="language-plaintext highlighter-rouge">@marigold.cz@web.brid.gy</code></li>
+  <li>Nebo jen: <code class="language-plaintext highlighter-rouge">marigold.cz</code></li>
+</ul>
+
+<p><strong>V Bluesky:</strong></p>
+<ul>
+  <li>Vyhledejte: <code class="language-plaintext highlighter-rouge">marigold.cz.web.brid.gy</code></li>
+  <li>Nebo jen: <code class="language-plaintext highlighter-rouge">marigold.cz</code></li>
+</ul>
+
+<h3 id="kontrola-funkčnosti">Kontrola funkčnosti</h3>
+
+<p>Po aktivaci počkejte 5-10 minut a zkontrolujte:</p>
+
+<ol>
+  <li>Otevřete Mastodon klienta (např. https://mastodon.social)</li>
+  <li>V vyhledávání zadejte: <code class="language-plaintext highlighter-rouge">@marigold.cz@web.brid.gy</code></li>
+  <li>Měli byste vidět váš bridgovaný účet s několika nejnovějšími články</li>
+</ol>
+
+<h2 id="propagace">Propagace</h2>
+
+<p>Po aktivaci můžete propagovat své nové účty:</p>
+
+<h3 id="text-pro-propagaci">Text pro propagaci</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>🎉 Marigold.cz je teď i na fediverse a Bluesky!
+
+Sledujte nás:
+🐘 Mastodon: @marigold.cz@web.brid.gy
+🦋 Bluesky: marigold.cz.web.brid.gy
+
+Všechny nové články se automaticky publikují. Stačí zadat "marigold.cz"
+do vyhledávání ve vašem oblíbeném fediverse klientu.
+</code></pre></div></div>
+
+<h3 id="přidání-odkazů-na-web">Přidání odkazů na web</h3>
+
+<p>Můžete přidat odkazy na bridgované účty do footer-links v <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">footer-links</span><span class="pi">:</span>
+  <span class="na">mastodon</span><span class="pi">:</span> <span class="s2">"</span><span class="s">@marigold.cz@web.brid.gy"</span>
+  <span class="na">bluesky</span><span class="pi">:</span> <span class="s2">"</span><span class="s">marigold.cz.web.brid.gy"</span>
+</code></pre></div></div>
+
+<h2 id="časté-dotazy">Časté dotazy</h2>
+
+<h3 id="jak-často-se-synchronizuje">Jak často se synchronizuje?</h3>
+<p>Bridgy Fed kontroluje RSS feed několikrát denně. Nové články se obvykle objeví do několika hodin.</p>
+
+<h3 id="co-se-stane-s-existujícími-články">Co se stane s existujícími články?</h3>
+<p>Při první aktivaci Bridgy Fed publikuje několik nejnovějších článků z RSS feedu (obvykle 5-10).</p>
+
+<h3 id="můžu-ovlivnit-které-články-se-publikují">Můžu ovlivnit, které články se publikují?</h3>
+<p>Ano, články v RSS feedu (feed.xml) se publikují. Můžete upravit konfiguraci jekyll-feed pluginu v <code class="language-plaintext highlighter-rouge">_config.yml</code>.</p>
+
+<h3 id="co-když-chci-přestat-publikovat">Co když chci přestat publikovat?</h3>
+<p>Můžete deaktivovat bridging na dashboardu Bridgy Fed nebo kontaktovat jejich podporu.</p>
+
+<h3 id="vidím-interakce-lajky-odpovědi-na-webu">Vidím interakce (lajky, odpovědi) na webu?</h3>
+<p>Ne, toto je jednoduchá RSS integrace pouze pro publikování. Pro přijímání interakcí zpět byste potřebovali webmentions (složitější).</p>
+
+<h3 id="můžu-změnit-formát-příspěvků">Můžu změnit formát příspěvků?</h3>
+<p>Formát je dán obsahem RSS feedu. Můžete upravit <code class="language-plaintext highlighter-rouge">excerpt_length</code> v <code class="language-plaintext highlighter-rouge">_config.yml</code> pro délku excerptů.</p>
+
+<h2 id="řešení-problémů">Řešení problémů</h2>
+
+<h3 id="bridgy-fed-nenašel-můj-feed">Bridgy Fed nenašel můj feed</h3>
+<ul>
+  <li>Zkontrolujte, že je feed dostupný na produkci: https://www.marigold.cz/feed.xml</li>
+  <li>Ověřte, že homepage obsahuje <code class="language-plaintext highlighter-rouge">&lt;link rel="alternate" type="application/rss+xml"&gt;</code> v hlavičce</li>
+</ul>
+
+<h3 id="články-se-nepublikují">Články se nepublikují</h3>
+<ul>
+  <li>Zkontrolujte dashboard: https://fed.brid.gy/web/marigold.cz</li>
+  <li>Počkejte alespoň 24 hodin po aktivaci</li>
+  <li>Ověřte, že nové články mají správné datum (ne v budoucnosti)</li>
+</ul>
+
+<h3 id="nemohu-najít-bridgovaný-účet">Nemohu najít bridgovaný účet</h3>
+<ul>
+  <li>Ujistěte se, že jste správně zadali <code class="language-plaintext highlighter-rouge">@marigold.cz@web.brid.gy</code> (včetně obou @)</li>
+  <li>Zkuste vyhledávání v jiném fediverse klientu</li>
+  <li>Počkejte alespoň 1 hodinu po aktivaci</li>
+</ul>
+
+<h2 id="další-kroky-volitelné">Další kroky (volitelné)</h2>
+
+<p>Pokud v budoucnu budete chtít více funkcí:</p>
+
+<ol>
+  <li><strong>Webmentions integrace:</strong>
+    <ul>
+      <li>Přijímání lajků, repostů a odpovědí zpět na web</li>
+      <li>Vyžaduje přidání microformats2 do HTML</li>
+      <li>Dokumentace: https://indieweb.org/Webmention</li>
+    </ul>
+  </li>
+  <li><strong>Vlastní Mastodon/Bluesky účty:</strong>
+    <ul>
+      <li>Můžete si založit nativní účty místo bridgovaných</li>
+      <li>Pro automatické publikování použijte RSS-to-Mastodon služby nebo GitHub Actions</li>
+    </ul>
+  </li>
+  <li><strong>Zobrazování sociálních interakcí:</strong>
+    <ul>
+      <li>Použijte webmention.io pro sběr interakcí</li>
+      <li>Zobrazte počty lajků/repostů pod články</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="kontakt-a-podpora">Kontakt a podpora</h2>
+
+<ul>
+  <li>Bridgy Fed dokumentace: https://fed.brid.gy/docs</li>
+  <li>GitHub: https://github.com/snarfed/bridgy-fed</li>
+  <li>Podpora: https://github.com/snarfed/bridgy-fed/issues</li>
+</ul>
+
+<hr />
+
+<p><strong>Datum vytvoření:</strong> 21. října 2025
+<strong>Poslední aktualizace:</strong> 21. října 2025
+<strong>Stav:</strong> RSS integrace připravena, čeká na aktivaci</p>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
