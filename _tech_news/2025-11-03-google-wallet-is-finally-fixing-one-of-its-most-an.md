@@ -26,29 +26,27 @@ urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/20
 
 ## Souhrn
 
-Google pracuje na nové funkci Express Transit Card pro aplikaci Google Wallet, která zrychlí platby v hromadné dopravě. Uživatelé budou moci nastavit konkrétní platební kartu pro dopravu a platit pouhým přiložením telefonu bez nutnosti odemykání pomocí PIN kódu nebo biometrické autentizace.
+Google pracuje na nové funkci Express Transit Card pro aplikaci Google Wallet, která zrychlí platby v hromadné dopravě. Uživatelé budouce moci zaplatit jízdenku pouhým přiložením telefonu k terminálu bez nutnosti odemykání zařízení pomocí PIN kódu nebo biometrické autentizace.
 
 ## Klíčové body
 
-- Nová funkce Express Transit Card byla objevena v APK verze 25.43.826060251 aplikace Google Wallet
-- Umožní vybrat specifickou kartu pro platby v dopravě odděleně od výchozí karty pro běžné nákupy
-- Platba proběhne bez nutnosti odemykání telefonu pomocí PIN nebo biometrie
-- Funkce je již dostupná v Samsung Wallet a Apple Pay
-- Odstranění této nevýhody může přilákat uživatele konkurenčních řešení
+- Nová funkce Express Transit Card byla objevena v kódu verze 25.43.826060251 aplikace Google Wallet
+- Umožní nastavit konkrétní platební kartu určenou výhradně pro platby v dopravě, odděleně od běžné karty pro nákupy
+- Platba proběhne bez nutnosti odemykání telefonu - stačí přiložit zařízení k terminálu
+- Funkce je inspirována podobnými řešeními v Samsung Wallet a Apple Pay
+- Google Wallet sice již dnes podporuje platby v dopravě, ale proces není tak plynulý jako u konkurence
 
 ## Podrobnosti
 
-Analýza kódu aplikace Google Wallet provedená portálem Android Authority odhalila připravovanou funkci, která dlouhodobě chyběla ve srovnání s konkurencí. Express Transit Card funguje podobně jako již existující řešení v Samsung Wallet a Apple Pay.
+Portál Android Authority provedl analýzu kódu aplikace Google Wallet a podařilo se jim novou funkci aktivovat na testovacích zařízeních. Express Transit Card funguje podobně jako Transit card v Samsung Wallet - uživatel si předem vybere konkrétní debetní nebo kreditní kartu, která bude sloužit výhradně pro platby v hromadné dopravě.
 
-V současnosti musí uživatelé Google Wallet s více platebními kartami při každé platbě v dopravě vybrat správnou kartu a použít bezkontaktní platbu. Nová funkce tento proces výrazně zjednoduší. Uživatel si předem nastaví konkrétní kartu určenou výhradně pro platby v hromadné dopravě, která bude oddělená od výchozí karty používané pro běžné nákupy.
+Hlavní výhodou tohoto řešení je rychlost transakce. Zatímco v současnosti musí uživatelé Google Wallet s více platebními kartami pokaždé vybrat správnou kartu a odemknout telefon, nová funkce celý proces zjednoduší na jediný pohyb - přiložení telefonu k čtečce. Tím se Google Wallet dostává na úroveň konkurenčních řešení od Applu a Samsungu, které tuto možnost nabízejí již delší dobu.
 
-Klíčovou výhodou je eliminace nutnosti odemykání telefonu. Zatímco standardní platby přes Google Wallet vyžadují autentizaci pomocí PIN kódu, otisku prstu nebo rozpoznání obličeje, platby označenou kartou Express Transit Card proběhnou okamžitě po přiložení telefonu k terminálu. To je zásadní zejména v situacích, kdy je potřeba rychle projít turniketem nebo nastoupit do vozidla.
-
-Funkce byla aktivována vývojáři Android Authority v testovací verzi aplikace, což naznačuje pokročilou fázi vývoje. Google však zatím oficiálně nepotvrdil datum nasazení této novinky pro širokou veřejnost.
+Současný stav Google Wallet představuje pro uživatele veřejné dopravy určitou komplikaci. Při každé platbě je nutné telefon odemknout, vybrat správnou kartu a teprve poté provést platbu pomocí NFC. V ranní špičce nebo při spěchu může tento proces způsobovat zdržení a frustraci. Express Transit Card tento problém odstraňuje.
 
 ## Proč je to důležité
 
-Absence funkce pro rychlé platby v dopravě byla jedním z hlavních důvodů, proč uživatelé preferovali Samsung Wallet nebo Apple Pay před Google Wallet. Odstranění této nevýhody může přilákat nové uživatele a posílit pozici Google v oblasti mobilních plateb. Pro běžné cestující v městské hromadné dopravě představuje úspora několika sekund při každém průchodu turniketem významné zlepšení uživatelského komfortu, zejména v ranních špičkách.
+Google Wallet se postupně snaží dohnat funkční náskok konkurence a stát se komplexním řešením pro digitální platby a dokumenty. Absence rychlých plateb v dopravě byla jedním z hlavních důvodů, proč uživatelé Samsungu a Apple zařízení neměli motivaci přejít na řešení od Googlu. S přidáním Express Transit Card se Google Wallet stává konkurenceschopnější alternativou, zejména pro uživatele Android zařízení od jiných výrobců než Samsung. Funkce zatím není oficiálně dostupná, ale její přítomnost v kódu aplikace naznačuje brzké nasazení pro širokou veřejnost.
 
 ---
 
