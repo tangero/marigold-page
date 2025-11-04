@@ -1,10 +1,11 @@
 ---
-category: black friday
+category: slevy apple
 companies:
 - Apple
+- MacRumors
 date: '2025-11-02 18:04:00'
-description: Přehled aktuálních slev na produkty Apple před Black Friday 2025, který
-  se koná 28. listopadu. Většina nabídek pochází z Amazonu.
+description: Přehled aktuálních slev na produkty Apple v rámci předčasných nabídek
+  Black Friday u různých prodejců.
 importance: 2
 layout: tech_news_article
 original_title: The Best Early Black Friday Apple Deals - MacRumors
@@ -12,22 +13,16 @@ publishedAt: '2025-11-02T18:04:00+00:00'
 slug: the-best-early-black-friday-apple-deals-macrumors
 source:
   emoji: 📰
-  id: null
-  name: MacRumors
-title: Nejlepší předčasné Black Friday slevy na produkty Apple
-url: https://www.macrumors.com/2025/11/02/best-early-black-friday-apple-deals-2025/
-urlToImage: https://images.macrumors.com/t/ciftS4vVNOxHx10Tmrs8i58t6mQ=/2500x/article-new/2025/10/Early-Black-Friday-Deals-2.jpg
-urlToImageBackup: https://images.macrumors.com/t/ciftS4vVNOxHx10Tmrs8i58t6mQ=/2500x/article-new/2025/10/Early-Black-Friday-Deals-2.jpg
+  id: google-news
+  name: Google News
+title: Nejlepší předčasné slevy Apple produktů k Black Friday
+url: https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXlCc0tDdTFISFdKZnAtS2JyU21ZTXlrdlM2RWgybWx6aHB3clc3SzIwR1FvdklkbDM1REhKS01rN2RfOWtQZ2R3YmhtRXRqdndxbzRtTy16a0pST3J2aGlfakl1YTU2R0ctT2p1QzlCMGlhdzFfbU1QM2NoNGVyUjAwMFY?oc=5
 ---
 
-Článek shrnuje předčasné slevy na produkty Apple před Black Friday 2025, který letos připadá na 28. listopadu. Jde o běžný sezónní přehled aktuálních slev, nikoliv o skutečné technologické novinky.
-
-Mezi nabídkami se objevují slevy na Apple Watch Series 11 (titanový model za 752 dolarů, sleva 49 dolarů), Apple Watch Ultra 3 (sleva 99 dolarů na vybrané modely s cenou od 700 dolarů) a Apple Watch SE 3 (sleva 49 dolarů, ceny od 200 dolarů). U iPadů 11. generace Amazon nabízí slevu 50 dolarů na Wi-Fi modely, přičemž základní 128GB verze stojí 299 dolarů místo 349 dolarů.
-
-Jde o affiliate obsah, kde MacRumors dostává provizi z prodejů přes uvedené odkazy. Slevy nejsou nijak výjimečné a jedná se o standardní předvánoční marketingové akce. Článek sám upozorňuje, že lepší nabídky mohou přijít později v listopadu.
+Článek shrnuje aktuální slevy na produkty Apple, které různí prodejci nabízejí v rámci předčasných akcí před Black Friday. Jde o běžnou sezónní nabídku slev, která se opakuje každoročně a zahrnuje produkty jako iPhone, iPad, MacBook, Apple Watch a další příslušenství. Slevy se typicky pohybují v řádu jednotek až desítek procent oproti běžným cenám a jsou dostupné u autorizovaných prodejců i velkých maloobchodních řetězců. Tento typ obsahu má primárně komerční charakter a slouží jako nákupní průvodce pro zákazníky hledající výhodnější ceny produktů Apple. Informace o konkrétních slevách a produktech nejsou v poskytnutém zdroji specifikovány.
 
 ---
 
-[Číst původní článek](https://www.macrumors.com/2025/11/02/best-early-black-friday-apple-deals-2025/)
+[Číst původní článek](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXlCc0tDdTFISFdKZnAtS2JyU21ZTXlrdlM2RWgybWx6aHB3clc3SzIwR1FvdklkbDM1REhKS01rN2RfOWtQZ2R3YmhtRXRqdndxbzRtTy16a0pST3J2aGlfakl1YTU2R0ctT2p1QzlCMGlhdzFfbU1QM2NoNGVyUjAwMFY?oc=5)
 
-**Zdroj:** 📰 MacRumors
+**Zdroj:** 📰 Google News

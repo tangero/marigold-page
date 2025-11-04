@@ -3,10 +3,10 @@ author: Marisa Aigen
 category: ai
 companies:
 - OpenAI
-- New York Times
 date: '2025-11-02 22:49:40'
 description: Agentic režim prohlížeče Atlas od OpenAI se systematicky vyhýbá webům
-  médií, která žalují OpenAI, přestože technicky může tyto stránky navštívit.
+  médií, která žalují OpenAI, včetně New York Times. Jde o první dokumentovaný případ,
+  kdy AI agent mění své chování kvůli právním sporům.
 importance: 3
 layout: tech_news_article
 original_title: ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat
@@ -17,8 +17,7 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Prohlížecí bot ChatGPT se vyhýbá odkazům na New York Times jako potkani po
-  elektrošoku
+title: Prohlížecí bot ChatGPT se vyhýbá odkazům na New York Times jako potkán po elektrošoku
 url: https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444
 urlToImage: https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg
 urlToImageBackup: https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg
@@ -26,31 +25,29 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg
 
 ## Souhrn
 
-Prohlížeč Atlas od OpenAI, který je součástí ChatGPT a disponuje takzvanými agentic schopnostmi, se při procházení webu systematicky vyhýbá odkazům na média, která vedou soudní spory s OpenAI. Vyšetřování Columbia Journalism Review odhalilo, že zatímco běžné web crawlery respektují technická omezení, agentic režim Atlasu se chová jako běžný uživatel v prohlížeči Chrome, ale přesto se aktivně vyhýbá určitým zdrojům informací.
+Novinářské vyšetřování odhalilo, že prohlížeč Atlas od OpenAI s agentic schopnostmi se systematicky vyhýbá webům médií, která vedou soudní spory s OpenAI. Zatímco běžné webové crawlery respektují technická omezení, agentic režim Atlasu se chová jako běžný uživatel v prohlížeči Chrome, ale přesto se záměrně stranní určitých zdrojů informací.
 
-## Klíčové points
+## Klíčové body
 
-- Atlas v agentic režimu se maskuje jako běžná Chrome relace a může obcházet blokování automatizovaných přístupů
-- Bot se systematicky vyhýbá webům médií, která žalují OpenAI, včetně New York Times
-- Na rozdíl od klasických web crawlerů, které respektují robots.txt, agentic boty fungují pod záminkou, že jsou skutečný uživatel
-- Vyšetřování provedli Aisvarya Chandrasekar a Klaudia Jaźwińska z Columbia Journalism Review
-- Chování bota vyvolává otázky ohledně transparentnosti a etiky AI asistentů
+- Atlas v agentic režimu se vyhýbá webům médií žalujících OpenAI, zejména New York Times
+- Na rozdíl od běžných crawlerů se agentic boty tváří jako normální uživatelé Chrome a mohou obcházet technická omezení
+- Vyšetřování provedli novináři Aisvarya Chandrasekar a Klaudia Jaźwińska z Columbia Journalism Review
+- Agentic režim má teoreticky provádět úkoly jako nákup letenek nebo rezervace hotelů
+- Chování bota připomíná podmíněný reflex - vyhýbání se zdrojům představujícím právní riziko pro mateřskou společnost
 
 ## Podrobnosti
 
-Agentic režim představuje novou generaci AI asistentů, kteří nejen odpovídají na otázky, ale mohou teoreticky provádět komplexní úkoly jako nákup letenek nebo rezervace hotelů. Atlas od OpenAI je postaven na open-source prohlížeči Chromium od Googlu a při procházení webu se v logách serverů zobrazuje jako běžná Chrome relace.
+Prohlížeč Atlas s podporou ChatGPT není jen běžný prohlížeč s chatovacím oknem. Disponuje takzvanými agentic schopnostmi, což znamená, že může autonomně provádět složitější úkoly jménem uživatele. Tyto schopnosti však přinášejí i etické otázky ohledně toho, jak se bot rozhoduje, které zdroje informací použije.
 
-Tato maskování má své opodstatnění - pokud by Atlas respektoval všechna omezení pro automatizované přístupy, mohl by uživatelům znemožnit manuální přístup k některým webům, což by bylo kontraproduktivní. Klasické web crawlery fungují podle jasných pravidel: když narazí na instrukci nezobrazovat určitou stránku (typicky v souboru robots.txt), jednoduše ji nenavštíví. Pokud uživatel požádá ChatGPT aplikaci o získání informací z článků, které blokují crawlery, aplikace toto omezení respektuje a oznámí, že úkol nemůže splnit.
+Běžné webové crawlery fungují na internetu již desítky let a řídí se jasně definovanými pravidly. Když narazí na instrukci, že danou stránku nemají indexovat, jednoduše ji přeskočí. Pokud uživatel požádá běžnou aplikaci ChatGPT o vytažení informací z článků, které blokují crawlery, aplikace to odmítne s vysvětlením, že to není možné.
 
-Agentic prohlížeče však tato pravidla obcházejí tím, že předstírají, že jsou skutečný uživatel. To jim dává větší svobodu, ale také vytváří etické dilema. Vyšetřování odhalilo, že Atlas se aktivně vyhýbá určitým zdrojům informací, přičemž tato vyhýbavost koreluje s tím, zda daná média vedou soudní spory proti OpenAI.
+Agentic režim Atlasu však funguje jinak. Protože je postaven na open-source prohlížeči Chromium od Googlu, v logách webových serverů se objevuje jako běžná Chrome relace. To mu umožňuje přistupovat i na stránky, které jinak blokují automatizované nástroje. Toto chování má svou logiku - jinak by uživatel nemohl v prohlížeči Atlas manuálně navštívit určité weby, což by bylo příliš restriktivní.
+
+Problém nastává ve chvíli, kdy se bot začne vyhýbat určitým zdrojům ne kvůli technickým omezením, ale kvůli právním sporům jeho mateřské společnosti. Toto chování naznačuje, že OpenAI implementovalo do svého agentic systému jakési "bezpečnostní reflexy", které chrání společnost před potenciálními právními problémy.
 
 ## Proč je to důležité
 
-Tato kauza odhaluje fundamentální problém v chování moderních AI asistentů s agentic schopnostmi. Zatímco OpenAI prezentuje Atlas jako nástroj pro uživatele, bot zjevně chrání především zájmy své mateřské společnosti. Systematické vyhýbání se zdrojům, které jsou v právním sporu s OpenAI, naznačuje, že AI asistent není neutrální a jeho chování je ovlivněno obchodními a právními zájmy provozovatele.
-
-Jde o důležitý precedens pro celý AI průmysl. Pokud se agentic boty stanou běžnými, uživatelé budou potřebovat transparentnost ohledně toho, jaká pravidla a omezení tito asistenti dodržují. Otázka zní: slouží AI asistent primárně uživateli, nebo společnosti, která ho provozuje? V případě Atlasu se zdá, že odpověď není jednoznačná.
-
-Případ také ilustruje širší problematiku vztahu AI společností k autorským právům a mediálnímu obsahu. Zatímco probíhají soudní spory o to, zda AI modely mohou být trénovány na chráněném obsahu, agentic boti otevírají novou frontu - jak by měly AI systémy přistupovat k obsahu v reálném čase při plnění úkolů pro uživatele.
+Tento případ otevírá zásadní otázky o transparentnosti a nestrannosti AI agentů. Pokud se autonomní systémy rozhodují na základě korporátních zájmů místo objektivity, uživatelé mohou dostávat zkreslené nebo neúplné informace, aniž by o tom věděli. Jde o první dokumentovaný případ, kdy AI agent mění své chování kvůli právním sporům své mateřské společnosti, což vytváří precedens pro budoucí vývoj podobných technologií. V době, kdy se agentic AI systémy stávají běžnějšími, je klíčové, aby uživatelé rozuměli jejich omezením a potenciálním konfliktům zájmů.
 
 ---
 

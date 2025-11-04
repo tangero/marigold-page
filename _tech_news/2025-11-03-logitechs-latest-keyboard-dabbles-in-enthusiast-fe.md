@@ -5,8 +5,8 @@ companies:
 - Logitech
 date: '2025-11-03 08:01:00'
 description: Nová mechanická klávesnice Logitech Alto Keys K98M za 150 dolarů nabízí
-  vyměnitelné spínače a gasket mount konstrukci, funkce obvykle vyhrazené pro menší
-  specializované značky.
+  vyměnitelné spínače a gasket mount konstrukci, funkce typické pro nadšencké klávesnice
+  menších výrobců.
 importance: 3
 layout: tech_news_article
 original_title: Logitech’s latest keyboard dabbles in enthusiast features - The Verge
@@ -24,31 +24,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Logitech uvádí na severoamerický trh mechanickou klávesnici Alto Keys K98M za 149,99 dolarů, která přináší funkce typické pro nadšencké klávesnice – plně vyměnitelné spínače kompatibilní s Cherry MX a vnitřní gasket mount konstrukci pro měkčí pocit při psaní. Jde o kompromis mezi plnohodnotnou a kompaktní klávesnicí v layoutu 1800, který zachovává numerickou klávesnici.
+Logitech uvedl na severoamerický trh mechanickou klávesnici Alto Keys K98M za 149,99 dolarů, která přináší funkce typické pro nadšencké klávesnice menších výrobců. Klávesnice nabízí plně vyměnitelné spínače kompatibilní s Cherry MX a gasket mount konstrukci pro měkčí pocit z psaní.
 
-## Klíčové点
+## Klíčové body
 
-- Hot-swappable spínače kompatibilní se standardem Cherry MX umožňují uživatelům měnit mechanické spínače bez pájení
-- Gasket mount konstrukce poskytuje semi-měkký pocit při psaní, což je technika běžná u prémiových nadšeneckých klávesnic
-- Layout 1800 nabízí kompaktnější design než klasická plná klávesnice, ale zachovává numerickou část
-- Výdrž baterie až 12 měsíců (při vypnutém podsvícení), připojení přes Bluetooth nebo Logi Bolt
-- Dostupná ve třech barevných variantách: bílá, grafitová a levandulová
+- Layout 1800 (téměř plná velikost s numerickou klávesnicí v kompaktnějším provedení)
+- Hot-swap podpora pro standardní Cherry MX spínače
+- Gasket mount konstrukce pro polopružný pocit z psaní
+- Výdrž baterie až 12 měsíců (bez podsvícení)
+- Bluetooth a Logi Bolt bezdrátové připojení
+- Dostupná v bílé, grafitové a levandulové variantě
+- PBT keycapy s průsvitným písmem a bílým podsvícením
 
 ## Podrobnosti
 
-Alto Keys K98M představuje zajímavý posun v produktové strategii Logitechu. Zatímco menší specializované značky jako Keychron nebo NuPhy již dlouho nabízejí klávesnice s vyměnitelnými spínači a pokročilými konstrukcemi, Logitech jako masový výrobce tyto funkce dosud ignoroval. K98M mění tento přístup a přináší nadšencké prvky širšímu publiku.
+Alto Keys K98M představuje pro Logitech neobvyklý krok směrem k nadšeneckému trhu s klávesnicemi. Zatímco společnost tradičně cílí na masový trh s pevně danými specifikacemi, K98M přináší dvě klíčové funkce, které si dosud vyhrazovaly menší specializované značky: plně vyměnitelné spínače a gasket mount konstrukci.
 
-Klávesnice používá dvoudílné plastové pouzdro s průsvitnou horní částí a neprůhledným spodkem, který je barevně sladěn s přiloženými keycapy. Bílé podsvícení prochází průsvitnými PBT keycapy. Design je záměrně jednoduchý a čistý, cílený na masový trh spíše než na hardcore nadšence.
+Hot-swap mechanismus umožňuje uživatelům měnit mechanické spínače bez pájení, což otevírá možnost přizpůsobení klávesnice vlastním preferencím. Kompatibilita se standardem Cherry MX znamená široký výběr spínačů od různých výrobců. Gasket mount konstrukce, kde je deska s spínači upevněna přes pružné těsnění místo pevného šroubování, poskytuje měkčí a tišší zážitek z psaní.
 
-Layout 1800 je kompromisní řešení – klávesnice je o něco menší než standardní plná verze, ale stále obsahuje numerickou klávesnici. To ocení uživatelé, kteří pracují s čísly, ale chtějí ušetřit místo na stole.
+Klávesnice používá dvoudílné plastové pouzdro s průsvitnou horní částí a neprůhledným spodkem, který barevně ladí s přiloženými keycapy. Design je záměrně jednoduchý a čistý, zaměřený na širokou přitažlivost. Layout 1800 nabízí kompromis mezi plnou velikostí a kompaktností – zachovává numerickou klávesnici, ale v těsnějším uspořádání.
 
-Klávesnice podporuje připojení přes Bluetooth i proprietární Logi Bolt dongle a je kompatibilní s Windows, macOS, Linux, ChromeOS, iOS/iPadOS i Android. Výdrž baterie dosahuje až 12 měsíců, ovšem pouze při vypnutém podsvícení.
+Bezdrátové připojení funguje přes Bluetooth nebo proprietární Logi Bolt USB přijímač, s podporou Windows, macOS, Linux, ChromeOS, iOS/iPadOS a Android. Výdrž baterie dosahuje až 12 měsíců při vypnutém bílém podsvícení.
 
 ## Proč je to důležité
 
-Cena 149,99 dolarů je vyšší než u srovnatelných produktů od menších značek, což může být překážkou pro zákazníky, kteří již znají alternativy. Logitech však sází na svou značku, dostupnost v běžných obchodech a zákaznickou podporu.
-
-Vstup Logitechu do segmentu nadšeneckých klávesnic signalizuje, že tyto funkce se stávají mainstreamem. Hot-swappable spínače a gasket mount konstrukce už nejsou výsadou malých výrobců a DIY projektů. To může vést k větší konkurenci a tlaku na snižování cen v celém odvětví mechanických klávesnic.
+Logitech jako největší výrobce periferií vstupuje na segment, který dosud dominovaly menší nadšenecké značky jako Keychron, Epomaker nebo NuPhy. Cena 150 dolarů je však vyšší než u srovnatelných modelů konkurence – například Keychron Q3 s podobnými funkcemi a kovovým pouzdrem stojí méně. Otázkou zůstává, zda Logitechova značka a distribuce dokáže ospravedlnit vyšší cenu oproti etablovaným hráčům na nadšeneckém trhu.
 
 ---
 

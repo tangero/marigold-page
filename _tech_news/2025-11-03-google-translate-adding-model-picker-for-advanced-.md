@@ -4,8 +4,8 @@ category: strojový překlad
 companies:
 - Google
 date: '2025-11-03 00:31:00'
-description: Google Překladač dostává novou funkci výběru modelu s možnostmi "Pokročilý"
-  a "Rychlý" překlad, která se zatím objevuje na iOS zařízeních.
+description: Aplikace Google Translate dostává novou funkci výběru modelu s možnostmi
+  "Pokročilý" a "Rychlý" překlad, která zatím není dostupná na Androidu.
 importance: 3
 layout: tech_news_article
 original_title: Google Translate adding model picker for ‘Advanced’ or ‘Fast’ translations
@@ -16,7 +16,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Google Překladač získává výběr mezi pokročilým a rychlým překladem
+title: Google Překladač přidává výběr mezi pokročilým a rychlým překladem
 url: http://9to5google.com/2025/11/02/google-translate-model-picker/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Translate-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Translate-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -24,27 +24,29 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google Překladač přidává nový výběr překladového modelu, který uživatelům umožní volit mezi režimem "Pokročilý" pro vyšší přesnost a "Rychlý" pro běžné překlady. Funkce se zatím objevuje pouze na iOS zařízeních a není jasné, zda bude zdarma nebo vázána na předplatné Google AI Pro.
+Google Překladač testuje novou funkci výběru překladového modelu, která uživatelům umožní volit mezi pokročilým překladem s vyšší přesností a rychlým překladem pro běžné použití. Funkce se zatím objevuje pouze na některých iOS zařízeních a není jasné, zda bude zdarma nebo vyhrazena pro předplatitele.
 
 ## Klíčové body
 
-- Nový výběr modelu se zobrazuje pod logem "Google Translate" v horní části aplikace
-- Režim "Pokročilý" nabízí vysokou přesnost pro složité překlady, ale je podporován pouze pro vybrané jazyky
-- Režim "Rychlý" je určen pro běžné rychlé překlady
-- Výběr modelu je dostupný pouze pro textové překlady, nikoli pro ostatní funkce aplikace
-- Funkce se zatím objevuje pouze na iOS, na Androidu ještě není k dispozici
+- Nový výběr modelu nabízí dvě varianty: "Advanced" pro složité překlady s vysokou přesností a "Fast" pro rychlé běžné překlady
+- Pokročilý režim je nastaven jako výchozí a podporuje pouze vybrané jazyky pro textový překlad
+- Funkce se zatím objevuje pouze na iOS zařízeních, na Androidu není dostupná
+- Není potvrzeno, zda bude funkce zdarma nebo vázána na předplatné Google AI Pro
+- Design odpovídá aplikaci Gemini, což naznačuje jednotný přístup Googlu k výběru AI modelů
 
 ## Podrobnosti
 
-Nový výběr modelu se zobrazuje jako přepínač ve tvaru pilulky pod hlavním logem aplikace. Po klepnutí se otevře spodní panel s názvem "Choose text translation model", kde si uživatel může vybrat mezi dvěma možnostmi. Režim "Pokročilý" je nastaven jako výchozí a Google jej doporučuje pro složitější překladové úlohy vyžadující vyšší přesnost. Omezením je však podpora pouze vybraných jazyků a funkčnost pouze pro textové překlady.
+Nový výběr modelu se zobrazuje přímo pod logem "Google Translate" v horní části aplikace. Po kliknutí na tlačítko se otevře spodní panel s názvem "Choose text translation model", který nabízí dvě možnosti. Pokročilý režim slibuje vysokou přesnost pro složité překlady, zatímco rychlý režim je určen pro situace, kdy uživatel potřebuje okamžitý překlad bez nutnosti maximální přesnosti.
 
-Design výběru modelu odpovídá tomu, který Google používá v aplikaci Gemini, ačkoli tam byl nedávno přesunut do pole pro zadávání dotazu. V uživatelském rozhraní zatím není nic, co by naznačovalo, že by se mělo jednat o placenou funkci, nicméně není vyloučeno, že bude vázána na předplatné Google AI Pro, podobně jako jiné výběry modelů v produktech Google.
+Google v popisu upozorňuje, že pokročilý režim je podporován pouze pro textový překlad ve vybraných jazycích, což naznačuje, že ne všechny jazykové kombinace budou mít přístup k této funkci. Není zatím jasné, které konkrétní jazyky budou podporovány.
 
-V srpnu 2025 Google uvedl, že díky "modelům Gemini v Překladači" dosáhl významného pokroku v kvalitě překladů, multimodálním překladu a schopnostech syntézy řeči. Koncem září pak aplikace Google Překladač pro iOS získala widgety pro Control Center, které umožňují rychlý přístup k funkcím jako kamera, překlad textu, diktování a konverzace.
+Funkce se objevuje v kontextu širších vylepšení Google Překladače pomocí modelů Gemini. V srpnu 2025 Google uvedl, že integrace modelů Gemini do Překladače umožnila výrazné pokroky v kvalitě překladů, multimodálním překladu a schopnostech převodu textu na řeč. Kromě toho aplikace pro iOS získala koncem září widgety pro Control Center, které umožňují rychlý přístup k funkcím jako kamera, překlad textu, diktování a konverzace.
+
+Design výběru modelu odpovídá tomu, co Google používá v aplikaci Gemini, což naznačuje snahu o jednotné uživatelské rozhraní napříč AI produkty společnosti. Není však jasné, zda bude tato funkce dostupná zdarma všem uživatelům, nebo zda bude vázána na předplatné Google AI Pro, podobně jako jiné pokročilé AI funkce.
 
 ## Proč je to důležité
 
-Přidání výběru modelu do Google Překladače odráží širší trend v AI aplikacích, kde uživatelé získávají možnost volit mezi rychlostí a kvalitou výstupu. Tato funkce může být užitečná zejména pro profesionální uživatele, kteří potřebují přesnější překlady složitějších textů, zatímco běžní uživatelé mohou preferovat rychlejší zpracování. Nejasnost ohledně zpoplatnění však vyvolává otázky o budoucí strategii Google v monetizaci AI funkcí v běžně používaných aplikacích.
+Přidání výběru modelu do Google Překladače odráží rostoucí trend diferenciace AI služeb podle rychlosti a kvality. Uživatelé tak získají větší kontrolu nad tím, jak chtějí službu používat - zda preferují maximální přesnost pro důležité dokumenty, nebo rychlost pro běžnou komunikaci. Toto rozlišení je důležité zejména v kontextu rostoucích nákladů na provoz pokročilých AI modelů, kdy rychlejší modely mohou být ekonomičtější pro běžné použití. Otázkou zůstává, zda Google tuto funkci zpeněží formou předplatného, což by mohlo změnit dosavadní model bezplatného překladače.
 
 ---
 
