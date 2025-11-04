@@ -4,8 +4,7 @@ companies:
 - T-Mobile
 date: '2025-11-02 20:12:50'
 description: Americký mobilní operátor T-Mobile nabízí svým zákazníkům v rámci programu
-  T-Mobile Tuesdays bezplatnou zimní čepici. Nabídka platí pouze v USA a má omezené
-  množství.
+  T-Mobile Tuesdays bezplatné oboustranné zimní čepice v magentové a černé barvě.
 importance: 1
 layout: tech_news_article
 original_title: T-Mobile Has Free Beanies, Here’s How To Get One - The Mobile Report
@@ -15,17 +14,17 @@ source:
   emoji: 📰
   id: null
   name: Tmo.report
-title: T-Mobile rozdává zdarma čepice, zde je návod jak ji získat
+title: T-Mobile rozdává zdarma zimní čepice, takto je získáte
 url: https://tmo.report/2025/11/t-mobile-has-free-beanies-heres-how-to-get-one/
 urlToImage: https://tmo.report/wp-content/uploads/2025/11/coldtmobiletuesdaysfeatured.png
 urlToImageBackup: https://tmo.report/wp-content/uploads/2025/11/coldtmobiletuesdaysfeatured.png
 ---
 
-Americký mobilní operátor T-Mobile nabízí svým zákazníkům v rámci věrnostního programu T-Mobile Tuesdays bezplatnou zimní čepici. Jedná se o klasickou pletený model v oboustranném provedení - na jedné straně v charakteristické fialové barvě operátora (magenta), na druhé straně černý s logem T-Mobile.
+Americký mobilní operátor T-Mobile v úterý 5. listopadu 2024 rozdá svým zákazníkům prostřednictvím aplikace T-Life bezplatné zimní čepice. Jedná se o klasickou pletený model, který je oboustranný - na jedné straně v charakteristické magentové barvě T-Mobile, na druhé straně černý s logem operátora.
 
-Zákazníci T-Mobile a Metro by T-Mobile mohou čepici získat prostřednictvím aplikace T-Life. Po otevření aplikace je nutné přejít do sekce T-Mobile Tuesdays, uložit nabídku do záložky "My Stuff" a následně navštívit některou z participujících prodejen, kde zaměstnanec naskenuje čárový kód z aplikace. Nabídka platí pouze do vyprodání zásob.
+Pro získání čepice musí zákazníci T-Mobile nebo Metro by T-Mobile otevřít aplikaci T-Life, přejít do sekce T-Mobile Tuesdays, uložit nabídku do záložky "My Stuff" a následně navštívit některou z participujících prodejen. Zaměstnanec prodejny naskenuje čárový kód z aplikace a čepici vydá. Zásoby jsou omezené a nabídka platí, dokud vydrží.
 
-Toto není první případ, kdy T-Mobile rozdává čepice svým zákazníkům - poprvé tak učinil již v roce 2018, tehdy však šlo o model s pruhy a bambulí. Aktuální verze má jednodušší design vhodný k celoročnímu nošení. Kromě čepice nabízí T-Mobile tento týden také slevu na kuřecí stripsy a hranolky z KFC.
+Nejde o první čepici, kterou T-Mobile svým zákazníkům nabízí - v roce 2018 rozdával model s pruhy a bambulí, který byl více vánočního charakteru. Nový design je jednodušší a univerzálnější pro celoroční použití. Kromě čepice nabízí T-Mobile tento týden také kuřecí stripsy a hranolky z KFC.
 
 ---
 

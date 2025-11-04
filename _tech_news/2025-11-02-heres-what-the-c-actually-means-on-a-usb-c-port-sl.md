@@ -1,9 +1,13 @@
 ---
 author: Marisa Aigen
-category: hardware
+category: 'hardware
+
+
+
+  konektor '
 date: '2025-11-02 23:45:00'
-description: Písmeno 'C' v USB-C označuje třetí typ konektoru po Type-A a Type-B,
-  nikoli 'charging' nebo 'connectivity', jak se často mylně předpokládá.
+description: Písmeno 'C' v USB-C jednoduše označuje třetí typ USB konektoru po Type-A
+  a Type-B, nikoli zkratku pro 'charging' nebo 'connectivity'.
 importance: 3
 layout: tech_news_article
 original_title: Here's What The 'C' Actually Means On A USB-C Port - SlashGear
@@ -21,27 +25,27 @@ urlToImageBackup: https://www.slashgear.com/img/gallery/heres-what-the-c-actuall
 
 ## Souhrn
 
-Označení USB-C vyvolává řadu spekulací o významu písmene 'C', přičemž nejčastější teorie hovoří o zkratkách pro 'charging' nebo 'connectivity'. Ve skutečnosti jde o prosté označení třetího typu USB konektoru - po Type-A a Type-B přichází logicky Type-C. Tuto nomenklaturu stanovilo konsorcium USB Implementers Forum (USB-IF).
+Označení USB-C vyvolává řadu spekulací o tom, co písmeno 'C' vlastně znamená. Podle oficiální specifikace USB Implementers Forum (USB-IF) však jde pouze o označení třetího hlavního typu konektoru v historii USB standardu - po Type-A a Type-B přišel logicky Type-C.
 
 ## Klíčové body
 
-- Písmeno 'C' v USB-C označuje typ konektoru, nikoli funkci nebo tvar
-- Jde o třetí hlavní typ USB konektoru po Type-A (klasický plochý) a Type-B (šestihranný)
-- Názvy přiděluje konsorcium USB-IF, které spravuje specifikace standardu
-- Navzdory názvu není USB-C historicky třetím typem USB konektoru vůbec
-- Existuje mnohem více variant USB konektorů, než by napovídalo jednoduché abecední označení
+- Písmeno 'C' v USB-C označuje typ konektoru, nikoli zkratku pro 'charging', 'connectivity' nebo odkaz na tvar
+- Jedná se o třetí hlavní typ USB konektoru po Type-A a Type-B
+- Názvy přiděluje USB Implementers Forum (USB-IF), konsorcium technologických firem spravující USB specifikace
+- Navzdory názvu není USB-C skutečně třetím typem USB konektoru v chronologickém pořadí
+- USB-C podporuje vysokorychlostní přenos dat, nabíjení i video výstup
 
 ## Podrobnosti
 
-USB Type-A představuje klasický plochý obdélníkový konektor, který se dodnes nachází na většině notebooků a stolních počítačů. USB Type-B má šestihranný tvar připomínající čtverec se dvěma odříznutými rohy a typicky se používá u tiskáren, audio zařízení a dalších periferií. Zajímavostí je, že Type-B konektory se změnily mezi verzemi USB 2.0 a 3.0, kdy novější varianta získala vyšší zástrčku.
+V technologické komunitě koluje několik teorií o významu písmene 'C' v označení USB-C. Některé zdroje tvrdí, že jde o zkratku pro 'charging' (nabíjení) nebo 'connectivity' (konektivita), jiné spekulují, že odkazuje na zaoblený tvar konektoru připomínající protáhlé písmeno C. Žádná z těchto teorií však neodpovídá skutečnosti.
 
-Pokud by někdo skutečně spočítal všechny typy USB konektorů vydané v průběhu let, rychle by zjistil, že jich je podstatně více než tři. Existovaly například Mini-USB a Micro-USB konektory v různých variantách, které se hojně používaly u mobilních telefonů a dalších přenosných zařízení. Tato skutečnost pravděpodobně přispívá k nejasnostem ohledně významu písmene 'C'.
+Reálné vysvětlení je prozaičtější - jde o třetí typ konektoru v hlavní linii USB standardu. USB Type-A představuje klasický plochý obdélníkový konektor, který se dodnes používá na noteboocích a stolních počítačích. USB Type-B je šestihranný konektor připomínající čtverec se dvěma odříznutými rohy, běžně používaný na tiskárnách, audio zařízení a dalších periferních zařízeních. Type-B konektor se navíc změnil mezi verzemi USB 2.0 a 3.0, kdy získal vyšší tvar.
 
-USB-C se stal všudypřítomným standardem díky podpoře vysokorychlostního přenosu dat, nabíjení a dokonce i video výstupu. Jedná se o univerzální řešení, které má potenciál nahradit většinu ostatních kabelů, i když rozlišení mezi USB-C kabely s různými schopnostmi může být pro běžné uživatele problematické.
+Problém s jednoduchým vysvětlením 'A, B, C' spočívá v tom, že pokud skutečně spočítáte všechny typy USB konektorů vydané v průběhu let, zjistíte, že jich bylo výrazně více než tři. Existovaly různé varianty mini a micro konektorů, což celou situaci komplikuje. USB-C tedy není třetím konektorem chronologicky, ale třetím hlavním typem v oficiální klasifikaci USB-IF.
 
 ## Proč je to důležité
 
-Porozumění správnému označení USB-C pomáhá uživatelům lépe orientovat se v technických specifikacích a vyhnout se mylným představám o schopnostech tohoto konektoru. Zatímco písmeno 'C' samo o sobě označuje pouze fyzický typ konektoru, skutečné možnosti kabelu závisí na podporovaném protokolu (USB 2.0, 3.0, 3.1, 3.2, 4.0) a dalších specifikacích jako Power Delivery nebo Thunderbolt. Tato znalost je klíčová při výběru správného kabelu pro konkrétní účel, ať už jde o rychlé nabíjení, přenos dat nebo připojení externího monitoru.
+Porozumění správnému označení USB-C pomáhá orientovat se v ekosystému USB standardů, který se stal během let značně komplikovaným. USB-C se prosadil jako univerzální řešení pro nabíjení, přenos dat i video výstup, což z něj činí jeden z nejdůležitějších konektorů současnosti. Správné pochopení terminologie je důležité zejména proto, že ne všechny USB-C kabely nabízejí stejné možnosti - některé podporují pouze základní nabíjení, zatímco jiné zvládají vysokorychlostní přenos dat nebo video v rozlišení 4K. Znalost toho, že 'C' označuje pouze typ konektoru, pomáhá uživatelům lépe pochopit, že vlastnosti kabelu závisí na použité verzi USB protokolu (USB 2.0, 3.0, 3.1, 4.0), nikoli na samotném tvaru konektoru.
 
 ---
 

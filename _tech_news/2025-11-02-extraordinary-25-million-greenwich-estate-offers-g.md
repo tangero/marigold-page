@@ -1,8 +1,8 @@
 ---
 category: nemovitosti
 date: '2025-11-02 13:57:36'
-description: Nabídka historického sídla v Greenwichi kombinující architekturu pozlaceného
-  věku s moderními prvky.
+description: Historické sídlo v Greenwichi v Connecticutu je na prodej za 25 milionů
+  dolarů. Jedná se o nemovitost, nikoli technologickou novinku.
 importance: 1
 layout: tech_news_article
 original_title: Extraordinary $25 Million Greenwich Estate Offers Gilded Age Grandeur
@@ -13,11 +13,11 @@ source:
   emoji: 📰
   id: null
   name: Realtor.com News
-title: Luxusní nemovitost v Greenwichi za 25 milionů dolarů
+title: Luxusní sídlo v Greenwichi za 25 milionů dolarů nabízí velkolepou architekturu
 url: https://www.realtor.com/news/unique-homes/greenwich-mansion-estate-gilded-age/
 ---
 
-Článek se zabývá prodejem luxusní nemovitosti v Greenwichi v Connecticutu za 25 milionů dolarů. Jedná se o historické sídlo inspirované architekturou pozlaceného věku (Gilded Age) s moderními úpravami. Obsah nesouvisí s technologiemi, umělou inteligencí ani IT průmyslem - jde o běžnou realitní nabídku prémiové nemovitosti. Článek byl pravděpodobně nesprávně zařazen do kategorie technologických novinek.
+Článek se zabývá prodejem luxusní nemovitosti v Greenwichi za 25 milionů dolarů. Jedná se o historické sídlo z období tzv. Gilded Age (Zlatého věku americké architektury). Obsah není relevantní pro technologický přehled, protože se jedná o běžnou realitní nabídku bez jakéhokoli technologického přesahu, inovace či souvislosti s IT průmyslem, umělou inteligencí nebo robotikou.
 
 ---
 
