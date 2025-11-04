@@ -101,7 +101,7 @@ def send_notification(title, message, app_id, website_name):
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["Subscribed Users"],
+        "included_segments": ["All"],
         "headings": {"en": title, "cs": title},
         "contents": {"en": message, "cs": message},
     }
@@ -111,8 +111,9 @@ def send_notification(title, message, app_id, website_name):
 
         if response.status_code in [200, 201]:
             result = response.json()
-            notification_id = result.get('body', {}).get('id', 'unknown')
-            print(f"✅ {website_name}: Notifikace poslána! ID: {notification_id}")
+            notification_id = result.get('id', 'unknown')
+            recipients = result.get('recipients', 0)
+            print(f"✅ {website_name}: Notifikace poslána! ID: {notification_id}, Příjemci: {recipients}")
             return True
         else:
             print(f"❌ {website_name}: Chyba {response.status_code}")

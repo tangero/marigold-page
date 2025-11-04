@@ -50,7 +50,7 @@ def send_test_notification(app_id, app_name):
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["Subscribed Users"],
+        "included_segments": ["All"],
         "headings": {"en": f"🧪 Test z Claude Code", "cs": f"🧪 Test z Claude Code"},
         "contents": {"en": f"Test notifikace pro {app_name} - funguje! ✅", "cs": f"Test notifikace pro {app_name} - funguje! ✅"},
     }
@@ -139,7 +139,7 @@ def send_article_notification():
 
         payload = {
             "app_id": app_id,
-            "included_segments": ["Subscribed Users"],
+            "included_segments": ["All"],
             "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
             "contents": {"en": summary, "cs": summary},
         }
