@@ -27,31 +27,33 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 
 ## Souhrn
 
-Apple plánuje v iOS 18.4 na jaře 2026 nasadit zásadně přepracované Siri, které bude v zákulisí využívat modely Google Gemini. Tyto modely poběží na serverové infrastruktuře Apple Private Cloud Compute, přičemž Apple toto partnerství nebude veřejně propagovat a veškeré funkce bude prezentovat jako vlastní technologii.
+Apple se rozhodl postavit novou generaci hlasového asistenta Siri na modelech Google Gemini, které budут běžet na vlastních serverech Private Cloud Compute. Aktualizace má dorazit s iOS 18.4 na jaře 2026, přičemž Apple toto partnerství neplánuje veřejně komunikovat.
 
 ## Klíčové body
 
-- Nové Siri bude mít třívrstvou architekturu: plánovač dotazů, systém vyhledávání znalostí a sumarizátor
-- Modely Google Gemini budou zajišťovat funkce plánovače a sumarizátoru na serverech Apple
-- Uživatelská data zůstanou na infrastruktuře Apple bez sdílení s Google, osobní data budou zpracovávána vlastními modely Apple
+- Gemini modely poběží na serverech Apple Private Cloud Compute bez sdílení dat s Googlem
+- Nová architektura Siri bude mít tři komponenty: plánovač dotazů, systém vyhledávání znalostí a sumarizátor
+- Gemini zajistí funkce plánovače a sumarizátoru, osobní data na zařízení zpracují Apple modely
 - Siri získá schopnost odpovídat na osobní dotazy typu "najdi knižní doporučení od mámy" prohledáváním dat v zařízení
-- Vylepšené znalosti o světových tématech a triviích bez nutnosti používat ChatGPT integraci nebo základní webové vyhledávání
+- Apple partnerství s Googlem nebude marketingově zdůrazňovat
 
 ## Podrobnosti
 
-Podle informací Marka Gurmana z Bloombergu Apple dokončil strategii pro největší aktualizaci hlasového asistenta Siri, která dorazí nejdříve v iOS 18.4 plánovaném na jaro 2026. Architektura nového Siri bude postavena na třech odlišných komponentách, přičemž klíčovou roli budou hrát modely Google Gemini.
+Podle informací Marka Gurmana z Bloombergu se Apple rozhodl pro hybridní přístup při vývoji nové generace Siri. Zatímco dosavadní integrace s ChatGPT byla označována za nedostatečnou a asistent často uživatele odkázal na webové vyhledávání s odpovědí "našel jsem toto na webu", nová architektura má být podstatně sofistikovanější.
 
-První komponentou je plánovač dotazů, který bude rozhodovat, jak zpracovat uživatelský požadavek. Druhou je systém vyhledávání znalostí, který umožní Siri rozumět světovým tématům a odpovídat na obecné znalostní otázky. Třetí komponentou je sumarizátor, který bude generovat odpovědi na základě nalezených informací. Modely Gemini budут zajišťovat funkce plánovače a sumarizátoru, pravděpodobně i systém vyhledávání znalostí.
+Jádrem systému budou tři oddělené komponenty. Plánovač dotazů rozhodne, jak požadavek zpracovat. Systém vyhledávání znalostí zajistí přístup k obecným informacím a faktům o světě. Sumarizátor pak vygeneruje finální odpověď. Modely Google Gemini poběží na serverové infrastruktuře Apple a zajistí funkčnost plánovače a sumarizátoru, pravděpodobně i systému znalostí.
 
-Významným aspektem je řešení ochrany soukromí. Přestože Apple využije technologii Google, modely Gemini poběží výhradně na serverové infrastruktuře Apple Private Cloud Compute. Žádná data nebudou sdílena s externími servery Google. Osobní data uložená v zařízení budou zpracovávána pomocí vlastních Foundation Models od Apple.
+Klíčovým aspektem je ochrana soukromí. Gemini modely sice budou od Googlu, ale poběží výhradně na serverech Apple Private Cloud Compute bez jakéhokoli sdílení dat s externími systémy. Osobní data uživatelů uložená v zařízení budou zpracovávána vlastními Foundation Models od Apple.
 
-Nové Siri by mělo konečně překonat notoricky známou odpověď "Našel jsem toto na webu" a místo toho poskytovat smysluplné, kontextově relevantní odpovědi. Uživatelé budou moci klást složitější dotazy vyžadující prohledání osobních dat, jako jsou zprávy, e-maily nebo poznámky, a Siri vygeneruje odpověď na míru.
+Nová Siri má být schopna odpovídat na kontextové dotazy vyžadující prohledání osobních dat - například najít konkrétní doporučení z konverzace, vyhledat informace v e-mailech nebo zprávách a vygenerovat relevantní odpověď. Zároveň získá lepší porozumění obecným tématům a triviálním otázkám, což by mělo eliminovat nutnost spoléhat se na externí integraci s ChatGPT nebo základní webové vyhledávání.
 
 ## Proč je to důležité
 
-Tato zpráva odhaluje zajímavou strategii Apple v éře velkých jazykových modelů. Místo vývoje vlastních konkurenceschopných modelů se Apple rozhodl využít technologii Google, ale způsobem, který zachovává kontrolu nad infrastrukturou a uživatelskými daty. Jde o pragmatický přístup, který ukazuje, že ani Apple nemůže v současné době konkurovat nejlepším modelům od OpenAI, Google či Anthropic.
+Rozhodnutí Apple využít modely konkurenčního Googlu ukazuje pragmatický přístup firmy k AI technologiím. Přestože Apple investuje do vlastních Foundation Models, uznává, že v některých oblastech jsou modely třetích stran pokročilejší. Jde o významný posun od strategie "vše vlastními silami", kterou Apple tradičně preferuje.
 
-Fakt, že Apple nebude toto partnerství propagovat, naznačuje snahu zachovat image vlastní technologické nezávislosti. Pro uživatele to znamená, že konečně mohou očekávat Siri na úrovni konkurence jako je Google Assistant nebo Alexa s podporou pokročilých AI modelů. Pro průmysl jde o další potvrzení, že budoucnost patří hybridním řešením kombinujícím on-device zpracování s cloudovými modely, přičemž ochrana soukromí zůstává klíčovým diferenciátorem.
+Pro uživatele to znamená potenciálně výrazné zlepšení funkčnosti Siri, která dlouhodobě zaostává za konkurencí jako Google Assistant nebo Alexa. Pokud Apple skutečně dokáže integrovat pokročilé jazykové modely při zachování soukromí na úrovni Private Cloud Compute, může to být konkurenční výhoda.
+
+Skutečnost, že Apple partnerství neplánuje propagovat, naznačuje citlivost tématu - firma nechce přiznat závislost na technologii Googlu, přestože jde o klíčovou součást produktu. Ukazuje to také, že v éře velkých jazykových modelů už není možné být zcela soběstačný, ani pro firmu velikosti Apple.
 
 ---
 
