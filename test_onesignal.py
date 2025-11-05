@@ -42,17 +42,23 @@ def send_test_notification(app_id, app_name):
     """Poslat testovací notifikaci"""
     api_key = os.getenv('ONESIGNAL_REST_API_KEY')
 
-    url = "https://onesignal.com/api/v1/notifications"
+    url = "https://api.onesignal.com/notifications"
     headers = {
         "Content-Type": "application/json; charset=utf-8",
-        "Authorization": f"Basic {api_key}"
+        "Authorization": f"Key {api_key}"
     }
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["All"],
+        "included_segments": ["Total Subscriptions"],
         "headings": {"en": f"🧪 Test z Claude Code", "cs": f"🧪 Test z Claude Code"},
         "contents": {"en": f"Test notifikace pro {app_name} - funguje! ✅", "cs": f"Test notifikace pro {app_name} - funguje! ✅"},
+        "isAnyWeb": True,
+        "isChromeWeb": True,
+        "isFirefox": True,
+        "isSafari": True,
+        "isIos": False,
+        "isAndroid": False,
     }
 
     print(f"\n📤 Odesílám testovací notifikaci do {app_name}...")
@@ -63,11 +69,14 @@ def send_test_notification(app_id, app_name):
 
         if response.status_code in [200, 201]:
             result = response.json()
-            recipients = result.get('recipients', 0)
+            recipients = result.get('recipients', None)
             notification_id = result.get('id', 'unknown')
             print(f"✅ Úspěch!")
             print(f"   Notification ID: {notification_id}")
-            print(f"   Příjemci: {recipients}")
+            if recipients is not None:
+                print(f"   Příjemci: {recipients}")
+            else:
+                print(f"   Příjemci: Zobrazí se v OneSignal dashboardu")
             return True
         else:
             print(f"❌ Chyba {response.status_code}")
@@ -131,17 +140,23 @@ def send_article_notification():
         app_id = os.getenv('ONESIGNAL_MARIGOLD_APP_ID') or os.getenv('ONESIGNAL_APP_ID')
         api_key = os.getenv('ONESIGNAL_REST_API_KEY')
 
-        url = "https://onesignal.com/api/v1/notifications"
+        url = "https://api.onesignal.com/notifications"
         headers = {
             "Content-Type": "application/json; charset=utf-8",
-            "Authorization": f"Basic {api_key}"
+            "Authorization": f"Key {api_key}"
         }
 
         payload = {
             "app_id": app_id,
-            "included_segments": ["All"],
+            "included_segments": ["Total Subscriptions"],
             "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
             "contents": {"en": summary, "cs": summary},
+            "isAnyWeb": True,
+            "isChromeWeb": True,
+            "isFirefox": True,
+            "isSafari": True,
+            "isIos": False,
+            "isAndroid": False,
         }
 
         print(f"\n📤 Odesílám notifikaci o článku...")
@@ -150,11 +165,14 @@ def send_article_notification():
 
         if response.status_code in [200, 201]:
             result = response.json()
-            recipients = result.get('recipients', 0)
+            recipients = result.get('recipients', None)
             notification_id = result.get('id', 'unknown')
             print(f"✅ Úspěch!")
             print(f"   Notification ID: {notification_id}")
-            print(f"   Příjemci: {recipients}")
+            if recipients is not None:
+                print(f"   Příjemci: {recipients}")
+            else:
+                print(f"   Příjemci: Zobrazí se v OneSignal dashboardu")
             return True
         else:
             print(f"❌ Chyba {response.status_code}")
