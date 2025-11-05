@@ -1,7 +1,673 @@
 {
-  "generated": "2025-11-04T16:26:26.021612+00:00",
+  "generated": "2025-11-05T08:27:24.916008+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním Liquid Glass",
+      "description": "Apple uvolnil první významnou aktualizaci svých operačních systémů s novým číslem verze 26.1, která přináší vylepšení efektu Liquid Glass, návrat režimu Slide Over na iPadu a další drobné úpravy.",
+      "slug": "apple-releases-ios-261-macos-261-other-updates-wit",
+      "publishedAt": "2025-11-04T02:08:26+00:00",
+      "date": "2025-11-04 02:08:26",
+      "importance": 3,
+      "category": "mobilní systémy",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
+      "url": "/tech-news/2025-11-04/apple-releases-ios-261-macos-261-other-updates-wit/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.1 přináší možnost upravit průhlednost Liquid Glass",
+      "description": "Apple vydal iOS 26.1 s novým přepínačem průhlednosti pro designový prvek Liquid Glass, rozšířenými jazykovými funkcemi a novými ovládacími prvky pro Apple Music a Fotoaparát.",
+      "slug": "ios-261-lets-you-tweak-liquid-glass-and-its-out-no",
+      "publishedAt": "2025-11-03T22:20:00+00:00",
+      "date": "2025-11-03 22:20:00",
+      "importance": 3,
+      "category": "mobilní systémy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_apple_frost_glass_iphone_f76e1d.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-03/ios-261-lets-you-tweak-liquid-glass-and-its-out-no/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Starší termostaty Nest lze oživit pomocí open-source projektu",
+      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil nástroj, který jim vrací funkčnost prostřednictvím alternativní platformy.",
+      "slug": "google-pulled-the-plug-on-nest-thermostats-but-you",
+      "publishedAt": "2025-11-03T22:07:00+00:00",
+      "date": "2025-11-03 22:07:00",
+      "importance": 3,
+      "category": "chytrá domácnost",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-nest-thermostat-4th-gen-review-on-the-wall.JPG?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple skutečně vydává produkty v listopadu - kdy se to stalo naposledy",
+      "description": "Historický přehled listopadových uvedení produktů Apple v kontextu očekávaných novinek jako Apple TV 4K, HomePod mini 2 a AirTag 2.",
+      "slug": "apple-does-launch-new-products-in-november-heres-w",
+      "publishedAt": "2025-11-03T20:39:00+00:00",
+      "date": "2025-11-03 20:39:00",
+      "importance": 2,
+      "category": "apple produkty",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Apple-Silicon-Macs-to-be-announced-by-November.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/apple-does-launch-new-products-in-november-heres-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD po kritice vrací podporu ovladačů pro starší grafické karty Radeon",
+      "description": "AMD po vlně kritiky zrušilo plány na omezení podpory GPU s architekturami RDNA 1 a RDNA 2, které zahrnují i karty prodávané až do roku 2022.",
+      "slug": "amd-says-that-its-not-pulling-driver-support-for-o",
+      "publishedAt": "2025-11-03T20:21:36+00:00",
+      "date": "2025-11-03 20:21:36",
+      "importance": 3,
+      "category": "grafické karty",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg",
+      "url": "/tech-news/2025-11-03/amd-says-that-its-not-pulling-driver-support-for-o/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple spouští webovou verzi App Store",
+      "description": "Apple představil nové webové rozhraní App Store na adrese apps.apple.com, které umožňuje procházet a vyhledávat aplikace pro všechna zařízení společnosti. Instalace aplikací přímo z webu však není možná.",
+      "slug": "apple-brings-its-app-store-to-the-web-the-verge",
+      "publishedAt": "2025-11-03T20:02:52+00:00",
+      "date": "2025-11-03 20:02:52",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/apple-app-store-games-page.png?quality=90&strip=all&crop=0%2C11.011473766292%2C100%2C77.977052467417&w=1200",
+      "url": "/tech-news/2025-11-03/apple-brings-its-app-store-to-the-web-the-verge/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhone 17",
+      "description": "Google hlásí 28% meziroční nárůst prodejů řady Pixel v září 2025 a dosáhl tak nejvyšších měsíčních prodejů v historii značky.",
+      "slug": "pixel-10-is-a-hit-in-the-us-with-googles-new-singl",
+      "publishedAt": "2025-11-03T19:30:00+00:00",
+      "date": "2025-11-03 19:30:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/pixel-10-is-a-hit-in-the-us-with-googles-new-singl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI prohlížeče dokážou obcházet placené zdi vydavatelů, ukazuje zpráva",
+      "description": "Nové AI prohlížeče jako ChatGPT Atlas a Perplexity Comet dokážu obejít placené zdi některých vydavatelů a přistupovat k obsahu určenému pouze pro předplatitele.",
+      "slug": "some-ai-browsers-can-bypass-publisher-paywalls-rep",
+      "publishedAt": "2025-11-03T19:28:06+00:00",
+      "date": "2025-11-03 19:28:06",
+      "importance": 4,
+      "category": "ai prohlížeče",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0014koRIKb7bRFobP6KvuP5/hero-image.fill.size_1200x675.v1762191041.jpg",
+      "url": "/tech-news/2025-11-03/some-ai-browsers-can-bypass-publisher-paywalls-rep/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Na základě poskytnutého textu (pouze nadpisu a popisu) nemohu identifikovat žádné konkrétní technologické firmy. Text zmiňuje pouze obecné termíny \"AI browsers\" a \"publisher paywalls\" bez uvedení specifických názvů firem.\n\nžádné"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple TV představuje nový zvukový podpis od Finneasa",
+      "description": "Apple vytvořil nový úvodní zvuk a video pro streamovací službu Apple TV, která nedávno změnila název. Zvukový podpis složil Finneas, bratr a producent Billie Eilish.",
+      "slug": "apple-tvs-new-name-now-comes-with-a-new-sound-the-",
+      "publishedAt": "2025-11-03T18:58:57+00:00",
+      "date": "2025-11-03 18:58:57",
+      "importance": 3,
+      "category": "streamovací služby",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/videoframe_4095.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "url": "/tech-news/2025-11-03/apple-tvs-new-name-now-comes-with-a-new-sound-the-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Finneas"
+      ]
+    },
+    {
+      "title": "Apple TV představuje nové intro s hudbou od Finnease po rebrandingu",
+      "description": "Apple odhalil nové barevné logo pro streamovací službu Apple TV, která se přejmenovala z Apple TV+. Hudbu k intru vytvořil Oscar vítěz Finneas.",
+      "slug": "apple-debuts-new-apple-tv-intro-with-music-by-finn",
+      "publishedAt": "2025-11-03T18:30:00+00:00",
+      "date": "2025-11-03 18:30:00",
+      "importance": 3,
+      "category": "streamovací služby",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/apple-tv-rebrand-logo-finneas.jpg?w=1024",
+      "url": "/tech-news/2025-11-03/apple-debuts-new-apple-tv-intro-with-music-by-finn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Deadline"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Finneas"
+      ]
+    },
+    {
+      "title": "Apple spustil webovou verzi App Store",
+      "description": "Apple představil nový webový App Store na adrese apps.apple.com, který umožňuje procházet a vyhledávat aplikace napříč všemi platformami společnosti přímo v prohlížeči.",
+      "slug": "apple-launches-app-store-for-the-web-macrumors",
+      "publishedAt": "2025-11-03T18:29:57+00:00",
+      "date": "2025-11-03 18:29:57",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://images.macrumors.com/t/brZVn416ZdrgU-2jLFNQ0Hjz2NU=/2000x/article-new/2025/11/apple-app-store-web.jpg",
+      "url": "/tech-news/2025-11-03/apple-launches-app-store-for-the-web-macrumors/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple spouští bohatě vybavené nové webové rozhraní pro App Store",
+      "description": "Apple spustil dramaticky nový webový interface pro App Store. Nyní můžete získat plný App Store...",
+      "slug": "apple-launches-rich-new-web-interface-for-the-app-",
+      "publishedAt": "2025-11-03T18:28:00+00:00",
+      "date": "2025-11-03 18:28:00",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/screenshot-2025-11-03-at-13.27.10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/apple-launches-rich-new-web-interface-for-the-app-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk navrhuje blokování slunečního záření satelity jako řešení klimatické krize",
+      "description": "Majitel SpaceX a největší satelitní společnosti na světě navrhuje použití konstelace satelitů pro řízení množství slunečního záření dopadajícího na Zemi. Experti varují před nereálností a nebezpečností tohoto přístupu.",
+      "slug": "elon-musk-wants-to-block-out-the-sun-gizmodo",
+      "publishedAt": "2025-11-03T17:25:20+00:00",
+      "date": "2025-11-03 17:25:20",
+      "importance": 3,
+      "category": "klimatická krize",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Earth-and-Sun-1200x675.jpg",
+      "url": "/tech-news/2025-11-03/elon-musk-wants-to-block-out-the-sun-gizmodo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Na základě poskytnutého textu (nadpis a popis) nemohu identifikovat žádné konkrétní technologické firmy podle jejich názvu. Je zmíněn Elon Musk a \"největší satelitní společnost na světě\" (pravděpodobně SpaceX/Starlink)",
+        "ale není explicitně pojmenována.\n\nPokud mám být striktní a uvá"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Amazon Kanada spustil předčasné Black Friday slevy: 50 nejlepších nabídek od 8 dolarů",
+      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s tisíci položkami se slevami až 88 %. Nabídka zahrnuje elektroniku, domácí potřeby a vánoční dekorace.",
+      "slug": "amazon-canadas-early-black-friday-deals-are-here-5",
+      "publishedAt": "2025-11-03T17:23:06+00:00",
+      "date": "2025-11-03 17:23:06",
+      "importance": 1,
+      "category": "e-commerce",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c77178e0-b8d6-11f0-9d43-9f6a4308eca7",
+      "url": "/tech-news/2025-11-03/amazon-canadas-early-black-friday-deals-are-here-5/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Amazon",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chytré brýle Lenovo V1 patří mezi nejlehčí na trhu, ale chybí jim kamera",
+      "description": "Lenovo představilo chytré brýle V1 s micro LED displejem a hmotností pouhých 38 gramů, což je o 30 gramů méně než Meta Ray-Ban Display. Brýle však postrádají kameru.",
+      "slug": "lenovos-smart-glasses-are-among-the-lightest-you-c",
+      "publishedAt": "2025-11-03T17:15:42+00:00",
+      "date": "2025-11-03 17:15:42",
+      "importance": 3,
+      "category": "chytré brýle",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Lenovo-smart-glasses-1200x675.jpg",
+      "url": "/tech-news/2025-11-03/lenovos-smart-glasses-are-among-the-lightest-you-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Lenovo",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Série Pixel 10 dostává výrazné slevy před Black Friday",
+      "description": "Google Store v USA nečekaně spustil rozsáhlé slevy na celou řadu Pixel 10, včemž zvýšených výkupních cen starších modelů.",
+      "slug": "pixel-10-series-gets-deep-discounts-boosted-trade-",
+      "publishedAt": "2025-11-03T16:41:00+00:00",
+      "date": "2025-11-03 16:41:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/pixel-10-series-gets-deep-discounts-boosted-trade-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "30 let vývoje Magic: The Gathering - 1. část",
+      "description": "Mark Rosewater vzpomíná na 30 let práce na karetní hře Magic: The Gathering a popisuje klíčové změny v designu hry.",
+      "slug": "A-30-years-part-1-magic-the-gathering",
+      "publishedAt": "2025-11-03T16:11:30+00:00",
+      "date": "2025-11-03 16:11:30",
+      "importance": 1,
+      "category": "karetní hry",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/3xW2O1pL2ybksjRY9UjG5X/90042e16a657ec7dd976c16b5aaece23/ODY_Broodhatch_Nantuko_960x540.jpg",
+      "url": "/tech-news/2025-11-03/A-30-years-part-1-magic-the-gathering/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wizards.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google údajně mění loga aplikací Mapy a Fotky. Podívejte se na nové ikony.",
+      "description": "Google podle nepotvrzených informací připravuje redesign log pro aplikace Mapy a Fotky s novým gradientovým stylem, který má zdůraznit zaměření na AI.",
+      "slug": "google-photos-and-maps-logos-are-reportedly-changi",
+      "publishedAt": "2025-11-03T16:08:22+00:00",
+      "date": "2025-11-03 16:08:22",
+      "importance": 2,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00NS8fs8WIFum9w4XvCrZZb/hero-image.fill.size_1200x675.v1762184786.jpg",
+      "url": "/tech-news/2025-11-03/google-photos-and-maps-logos-are-reportedly-changi/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fyzik diskutuje o Higgsově bosonu a jeho možném vlivu na osud vesmíru",
+      "description": "Třináct let po objevu Higgsova bosonu v urychlovači LHC se fyzici stále zabývají fundamentálními otázkami o této částici a jejím vlivu na stabilitu vesmíru.",
+      "slug": "physicist-discusses-the-higgs-boson-and-whether-it",
+      "publishedAt": "2025-11-03T15:57:04+00:00",
+      "date": "2025-11-03 15:57:04",
+      "importance": 3,
+      "category": "částicová fyzika",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/physicist-discusses-th.jpg",
+      "url": "/tech-news/2025-11-03/physicist-discusses-the-higgs-boson-and-whether-it/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou umělou inteligenci je ztráta času",
+      "description": "Mustafa Suleyman z Microsoftu označil výzkum vědomé AI za absurdní. Podle něj AI nikdy nedosáhne lidského vědomí, protože jí chybí biologický základ pro skutečné emocionální prožitky.",
+      "slug": "microsoft-ai-chief-warns-pursuing-machine-consciou",
+      "publishedAt": "2025-11-03T15:50:53+00:00",
+      "date": "2025-11-03 15:50:53",
+      "importance": 3,
+      "category": "ai vědomí",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/04/a9fa029527a6577ace70df231fe3087e.jpg",
+      "url": "/tech-news/2025-11-03/microsoft-ai-chief-warns-pursuing-machine-consciou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Suleyman"
+      ]
+    },
+    {
+      "title": "Apple Watch SE 3 v rekordní slevě za 199 dolarů",
+      "description": "Model Apple Watch SE 3 s 40mm GPS je dostupný za historicky nejnižší cenu. Současně jsou v akci tablet Amazon Fire HD 10 a termostat Google Nest.",
+      "slug": "the-apple-watch-se-3-is-on-sale-for-a-record-low-p",
+      "publishedAt": "2025-11-03T15:45:00+00:00",
+      "date": "2025-11-03 15:45:00",
+      "importance": 3,
+      "category": "chytré hodinky",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Verge-Deals-Apple-Watch-SE-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-03/the-apple-watch-se-3-is-on-sale-for-a-record-low-p/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "LinkedIn začíná používat příspěvky uživatelů k trénování AI modelů, jak odhlásit",
+      "description": "Microsoft rozšiřuje využívání dat z LinkedIn profilů a příspěvků k trénování umělé inteligence i v Evropě a dalších regionech. Uživatelé jsou automaticky přihlášeni, ale mohou se odhlásit.",
+      "slug": "security-bite-linkedin-is-now-using-your-humble-po",
+      "publishedAt": "2025-11-03T15:36:00+00:00",
+      "date": "2025-11-03 15:36:00",
+      "importance": 3,
+      "category": "ochrana soukromí",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/greg-bulla-BaZjB1S18fI-unsplash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/security-bite-linkedin-is-now-using-your-humble-po/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "LinkedIn",
+        "Mosyle",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 27 údajně přinese zásadní vylepšení Apple Intelligence",
+      "description": "Podle zprávy Marka Gurmana z Bloombergu má iOS 27 obsahovat významné aktualizace umělé inteligence Apple Intelligence, detaily však zatím chybí.",
+      "slug": "ios-27-will-have-major-updates-to-apple-intelligen",
+      "publishedAt": "2025-11-03T15:36:00+00:00",
+      "date": "2025-11-03 15:36:00",
+      "importance": 2,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/ios-27-will-have-major-updates-to-apple-intelligen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft: Záplata kritické zranitelnosti WSUS vyřadila hotpatching na Windows Server 2025",
+      "description": "Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně zneužívanou kritickou zranitelnost ve Windows Server Update Service, způsobila výpadek funkce hotpatching na některých serverech s Windows Server 2025.",
+      "slug": "microsoft-patch-for-wsus-flaw-disabled-windows-ser",
+      "publishedAt": "2025-11-03T15:22:12+00:00",
+      "date": "2025-11-03 15:22:12",
+      "importance": 4,
+      "category": "bezpečnostní aktuali",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg",
+      "url": "/tech-news/2025-11-03/microsoft-patch-for-wsus-flaw-disabled-windows-ser/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Best Buy spouští předčasné Black Friday výprodeje s výraznými slevami na Apple produkty",
+      "description": "Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje s výraznými slevami na produkty Apple včetně iPadů, MacBooků a příslušenství. Akce potrvá do 29. listopadu.",
+      "slug": "best-buy-reveals-black-friday-plans-with-sitewide-",
+      "publishedAt": "2025-11-03T15:05:53+00:00",
+      "date": "2025-11-03 15:05:53",
+      "importance": 3,
+      "category": "e-commerce",
+      "urlToImage": "https://images.macrumors.com/t/-aDjUl38v4J6LqydD6kyFUXeI5I=/2500x/article-new/2025/11/best-buy-early-black-friday.jpeg",
+      "url": "/tech-news/2025-11-03/best-buy-reveals-black-friday-plans-with-sitewide-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Best Buy"
+      ],
+      "people": []
+    },
+    {
+      "title": "M5 Macy: Přehled nových modelů, které Apple údajně chystá",
+      "description": "Podle nových informací Apple v roce 2026 plánuje uvedení minimálně čtyř nových Mac počítačů s procesory M5, včetně MacBook Air, MacBook Pro, Mac mini a Mac Studio.",
+      "slug": "m5-macs-here-are-the-new-mac-models-reportedly-com",
+      "publishedAt": "2025-11-03T14:57:00+00:00",
+      "date": "2025-11-03 14:57:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_regular.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-03/m5-macs-here-are-the-new-mac-models-reportedly-com/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "The Seance of Blake Manor jako alternativa k Blue Prince",
+      "description": "Osobní dojmy autora z detektivní puzzle hry The Seance of Blake Manor, která ho zaujala více než populární Blue Prince.",
+      "slug": "the-seance-of-blake-manor-is-my-blue-prince-afterm",
+      "publishedAt": "2025-11-03T14:36:00+00:00",
+      "date": "2025-11-03 14:36:00",
+      "importance": 2,
+      "category": "herní průmysl",
+      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png",
+      "url": "/tech-news/2025-11-03/the-seance-of-blake-manor-is-my-blue-prince-afterm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Aftermath.site"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Lyžařské středisko Big Sky v Montaně nabízí vyhřívané lanovky a výhledy na tři státy",
+      "description": "Big Sky Resort v Montaně disponuje 5 850 akry sjezdovek, luxusními hotely a pokročilou infrastrukturou lanovek. Pro sezónu 2025-2026 plánuje otevření nového luxusního resortu One&Only.",
+      "slug": "this-uncrowded-ski-resort-has-heated-lifts-and-a-s",
+      "publishedAt": "2025-11-03T14:00:00+00:00",
+      "date": "2025-11-03 14:00:00",
+      "importance": 1,
+      "category": "cestovní ruch",
+      "urlToImage": "https://www.travelandleisure.com/thmb/rzTQcJmDkTe0Ld9-6XwL_Wfjb5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-big-sky-montana-BIGSKYMM0325-3fd1c225b1d6476593f127680e773439.jpg",
+      "url": "/tech-news/2025-11-03/this-uncrowded-ski-resort-has-heated-lifts-and-a-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Travel+Leisure"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google zveřejnil seznam 100 nejhledanějších dárků pro rok 2025",
+      "description": "Vyhledávač Google publikoval žebříček nejpopulárnějších vánočních dárků na základě analýzy vyhledávacích dotazů uživatelů.",
+      "slug": "exclusive-inside-the-google-holiday-100-top-search",
+      "publishedAt": "2025-11-03T13:24:00+00:00",
+      "date": "2025-11-03 13:24:00",
+      "importance": 1,
+      "category": "nákupní trendy",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/google-top-100.png?w=1200",
+      "url": "/tech-news/2025-11-03/exclusive-inside-the-google-holiday-100-top-search/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Britský copywriter odmítl pracovní pohovor vedený umělou inteligencí",
+      "description": "Richard Stott z Beverley považoval AI pohovor za neúctivý a rozhodl se pozici neakceptovat. Jeho postoj získal na sociálních sítích jednomyslnou podporu.",
+      "slug": "beverley-man-turned-down-disrespectful-interview-l",
+      "publishedAt": "2025-11-03T11:59:41+00:00",
+      "date": "2025-11-03 11:59:41",
+      "importance": 3,
+      "category": "ai pohovory",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb7a/live/f4c7e450-b8a9-11f0-9418-d155a3381a50.jpg",
+      "url": "/tech-news/2025-11-03/beverley-man-turned-down-disrespectful-interview-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": [
+        "Richard Stott"
+      ]
+    },
+    {
+      "title": "4 chytrá využití pro staré MacBooky",
+      "description": "Starší MacBooky, které již nedostávají aktualizace macOS, lze smysluplně využít jako experimenty s jinými operačními systémy, rozšíření Wi-Fi sítě, mediální centrum nebo druhý monitor.",
+      "slug": "A-4-clever-uses-for-your-old-macbooks-bgrcom",
+      "publishedAt": "2025-11-03T11:47:00+00:00",
+      "date": "2025-11-03 11:47:00",
+      "importance": 3,
+      "category": "recyklace hardware",
+      "urlToImage": "https://www.bgr.com/img/gallery/4-clever-uses-for-your-old-macbooks/l-intro-1761596823.jpg",
+      "url": "/tech-news/2025-11-03/A-4-clever-uses-for-your-old-macbooks-bgrcom/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ranč rodiny Rockefellerů s 12 ložnicemi se prodává ve Wyomingu",
+      "description": "Rodinné sídlo rodiny Rockefellerů v Jackson Hole, které sloužilo jako vícegenerační útočiště, je na prodej.",
+      "slug": "a-12-bedroom-rockefeller-family-ranch-is-selling-i",
+      "publishedAt": "2025-11-03T11:29:00+00:00",
+      "date": "2025-11-03 11:29:00",
+      "importance": 1,
+      "category": "luxusní nemovitosti",
+      "urlToImage": "https://images.mansionglobal.com/im-26564558/social",
+      "url": "/tech-news/2025-11-03/a-12-bedroom-rockefeller-family-ranch-is-selling-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mansion Global"
+      },
+      "companies": [],
+      "people": [
+        "Jay Rockefeller"
+      ]
+    },
+    {
+      "title": "Ash by Elegance vzdává další titul kvůli zdravotním problémům",
+      "description": "Wrestlerka Ash by Elegance musela opět vzdát titul kvůli zdravotním komplikacím, tentokrát nejen v organizaci TNA.",
+      "slug": "ash-by-elegance-vacates-another-title-amid-medical",
+      "publishedAt": "2025-11-03T11:24:37+00:00",
+      "date": "2025-11-03 11:24:37",
+      "importance": 1,
+      "category": "wrestling",
+      "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2025/11/ash-by-elegance-vacates-another-title-amid-medical-issues-53.jpg",
+      "url": "/tech-news/2025-11-03/ash-by-elegance-vacates-another-title-amid-medical/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ringside News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Nové Siri bude tajně využívat modely Google Gemini",
       "description": "Apple podle Marka Gurmana nasadí do nové verze Siri modely Google Gemini, které poběží na serverech Private Cloud Compute. Partnerství nebude veřejně propagováno.",
@@ -85,7 +751,7 @@
     },
     {
       "title": "Logitech Alto Keys K98M přináší nadšencké funkce do mainstreamu",
-      "description": "Nová mechanická klávesnice Logitech Alto Keys K98M za 150 dolarů nabízí vyměnitelné spínače a gasket mount konstrukci, funkce typické pro nadšencké klávesnice menších výrobců.",
+      "description": "Nová mechanická klávesnice Logitech za 150 dolarů nabízí výměnné spínače a gasket mount konstrukci, funkce typické pro menší specializované značky.",
       "slug": "logitechs-latest-keyboard-dabbles-in-enthusiast-fe",
       "publishedAt": "2025-11-03T08:01:00+00:00",
       "date": "2025-11-03 08:01:00",
@@ -101,6 +767,44 @@
       "companies": [
         "Logitech"
       ],
+      "people": []
+    },
+    {
+      "title": "Jak rychle smazat všechny konverzace v ChatGPT — a proč to možná budete chtít udělat",
+      "description": "OpenAI umožňuje smazat celou historii ChatGPT konverzací několika kliknutími. Návod krok za krokem pro webové rozhraní i mobilní aplikace.",
+      "slug": "the-quick-way-to-delete-all-your-chatgpt-conversat",
+      "publishedAt": "2025-11-03T08:00:00+00:00",
+      "date": "2025-11-03 08:00:00",
+      "importance": 3,
+      "category": "ai nástroje",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dCnZty2hKNmDqjVrvUD2nN-2000-80.jpg",
+      "url": "/tech-news/2025-11-03/the-quick-way-to-delete-all-your-chatgpt-conversat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zahrádkáři varováni před houbami na trávníku — co s tím dělat",
+      "description": "Rady, jak se zbavit hub na trávníku, které mohou být nebezpečné pro domácí mazlíčky.",
+      "slug": "gardeners-warned-to-look-out-for-mushrooms-in-thei",
+      "publishedAt": "2025-11-03T07:00:00+00:00",
+      "date": "2025-11-03 07:00:00",
+      "importance": 1,
+      "category": "zahradnictví",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/e7SaJ8veHcGdSJ5UgVxHMW-2560-80.jpg",
+      "url": "/tech-news/2025-11-03/gardeners-warned-to-look-out-for-mushrooms-in-thei/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -127,7 +831,7 @@
     },
     {
       "title": "NASA vyfotila mrtvého robota na povrchu Marsu",
-      "description": "Sonda Mars Reconnaissance Orbiter zachytila snímek nefunkčního přistávacího modulu InSight, který po čtyřech letech služby na Marsu ukončil svou misi v prosinci 2022.",
+      "description": "Sonda Mars Reconnaissance Orbiter zachytila snímek přistávacího modulu InSight, který ukončil svou misi v roce 2022 a nyní pomalu mizí pod vrstvou marsiánského prachu.",
       "slug": "nasa-spacecraft-spots-dead-robot-lying-on-mars-sur",
       "publishedAt": "2025-11-03T06:19:00+00:00",
       "date": "2025-11-03 06:19:00",
@@ -143,6 +847,24 @@
       "companies": [
         "NASA"
       ],
+      "people": []
+    },
+    {
+      "title": "New Balance 1080 v15: Nová pěna a výrazné snížení hmotnosti",
+      "description": "Recenze běžecké boty New Balance 1080 v15, která přináší novou superkritickou pěnu Infinion a snížení hmotnosti o 39 gramů oproti předchozí verzi.",
+      "slug": "new-balance-1080-v15-multi-tester-review-super-fre",
+      "publishedAt": "2025-11-03T05:01:00+00:00",
+      "date": "2025-11-03 05:01:00",
+      "importance": 1,
+      "category": "běžecká obuv",
+      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgFAOhMGqitXUpIX6pPgR78ODQFE-qOm8tk_m2aGhWttMLE3YBis4jYrf27w9gu_X-2t7-wAbW0P0ca5TWiPiCk4id-5TtNtPXYhJkcmHjPGN04dNm3FSP7K6BpF2FI4QPGlK8LbYQRgd1q9UV-8MLlTqnfQAjliLrUX2-6cBwcQrLMdaUBsWVGuQ=w1200-h630-p-k-no-nu",
+      "url": "/tech-news/2025-11-03/new-balance-1080-v15-multi-tester-review-super-fre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Roadtrailrun.com"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -2869,60 +3591,6 @@
       "people": []
     },
     {
-      "title": "Apple adds new App Store submission and marketing features, will phase out promo codes in 2026 - 9to5Mac",
-      "description": "Apple is rolling out a round of enhancements that will make it easier for developers to submit, manage, and market their apps on the App Store.",
-      "slug": "apple-adds-new-app-store-submission-and-marketing-",
-      "publishedAt": "2025-10-29T23:37:00+00:00",
-      "date": "2025-10-29 23:37:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/app-store-connect.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/apple-adds-new-app-store-submission-and-marketing-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini for Home is finally rolling out for early access - here's how to try it first - ZDNET",
-      "description": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
-      "slug": "gemini-for-home-is-finally-rolling-out-for-early-a",
-      "publishedAt": "2025-10-29T23:31:00+00:00",
-      "date": "2025-10-29 23:31:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-29/gemini-for-home-is-finally-rolling-out-for-early-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "How to get the new Windows Start menu now - theregister.com",
-      "description": ": The new Start has a more convenient layout that saves you a click",
-      "slug": "how-to-get-the-new-windows-start-menu-now-theregis",
-      "publishedAt": "2025-10-29T23:24:00+00:00",
-      "date": "2025-10-29 23:24:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://regmedia.co.uk/2025/10/29/shutterstock_1395298475.jpg",
-      "url": "/tech-news/2025-10-29/how-to-get-the-new-windows-start-menu-now-theregis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Samsung Internet Expands to PC With New Beta Program - Samsung Global Newsroom",
       "description": "Samsung Electronics today announced the beta release of Samsung Internet for PC, expanding its popular mobile browser1 to desktop. Samsung Internet for PC delivers a seamless, connected browsing experience across Samsung devices and marks the first step towar…",
       "slug": "samsung-internet-expands-to-pc-with-new-beta-progr",
@@ -2936,64 +3604,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Samsung.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Instagram to let select users tune the Reels algorithm in new test - 9to5Mac",
-      "description": "Instagram is rolling out a new test that lets select users fine-tune what they’d like to see in their Reels and Explore feeds.",
-      "slug": "instagram-to-let-select-users-tune-the-reels-algor",
-      "publishedAt": "2025-10-29T21:34:00+00:00",
-      "date": "2025-10-29 21:34:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/Flood-of-violent-and-graphic-content-on-Instagram.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/instagram-to-let-select-users-tune-the-reels-algor/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini od Googlu dohání ChatGPT v popularitě",
-      "description": "Alphabet zveřejnil výsledky za třetí čtvrtletí, investoři sledují růst cloudových služeb a výkonnost vyhledávání v éře AI.",
-      "slug": "googles-gemini-is-catching-up-to-chatgpts-populari",
-      "publishedAt": "2025-10-29T21:16:58+00:00",
-      "date": "2025-10-29 21:16:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.mktw.net/im-23421869/social",
-      "url": "/tech-news/2025-10-29/googles-gemini-is-catching-up-to-chatgpts-populari/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "companies": [
-        "Google",
-        "Alphabet",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "NotebookLM can now be your personalized PhD advisor, marketing strategist, and more - Android Police",
-      "description": "Your assistant can now role-play",
-      "slug": "notebooklm-can-now-be-your-personalized-phd-adviso",
-      "publishedAt": "2025-10-29T21:12:00+00:00",
-      "date": "2025-10-29 21:12:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/07/notebooklm-is-best-example-of-ai.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-29/notebooklm-can-now-be-your-personalized-phd-adviso/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
       },
       "companies": [],
       "people": []
@@ -3017,24 +3627,6 @@
       "people": []
     },
     {
-      "title": "Apple could solve my biggest problem with the iPad mini - 9to5Mac",
-      "description": "A new iPad mini is in the works, and it could finally solve one of my biggest problems with the device. Here's how.",
-      "slug": "apple-could-solve-my-biggest-problem-with-the-ipad",
-      "publishedAt": "2025-10-29T20:27:00+00:00",
-      "date": "2025-10-29 20:27:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/iPad-mini-6-overhead-view.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/apple-could-solve-my-biggest-problem-with-the-ipad/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Windows 11 KB5067036 issue, Task Manager won’t close and duplicates, may hurt performance - Windows Latest",
       "description": "Windows 11 KB5067036 has a strange bug that causes the Task Manager instance to duplicate every time it is closed.",
       "slug": "windows-11-kb5067036-issue-task-manager-wont-close",
@@ -3048,24 +3640,6 @@
         "emoji": "📰",
         "id": null,
         "name": "WindowsLatest"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google Maps vs. Waze: We Finally Know Which App Will Get You There Faster - PCMag",
-      "description": "Through vast cross-country stretches or tight city streets, Google Maps and Waze guide you where you need to go—but which one is the top map app? I put them head-to-head to find out.",
-      "slug": "google-maps-vs-waze-we-finally-know-which-app-will",
-      "publishedAt": "2025-10-29T19:47:27+00:00",
-      "date": "2025-10-29 19:47:27",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.pcmag.com/imagery/comparisons/245.fit_lim.size_1200x630.v1754426503.jpg",
-      "url": "/tech-news/2025-10-29/google-maps-vs-waze-we-finally-know-which-app-will/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
       },
       "companies": [],
       "people": []
@@ -3107,64 +3681,6 @@
       "people": []
     },
     {
-      "title": "MediaTek’s new Chromebook chip promises better battery life, fanless laptops in 2026 - 9to5Google",
-      "description": "MediaTek has announced a new chipset for Chromebooks, which will debut in early 2026 with the promise of battery life...",
-      "slug": "mediateks-new-chromebook-chip-promises-better-batt",
-      "publishedAt": "2025-10-29T18:40:00+00:00",
-      "date": "2025-10-29 18:40:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/lenovo-chromebook-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/mediateks-new-chromebook-chip-promises-better-batt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Univerzální USB-C kabel Anker 2-in-1 s výkonem 140W nyní za méně než 20 dolarů",
-      "description": "Kabel Anker 140W 2-in-1 USB-C dokáže nabíjet dvě zařízení současně a je nyní v akci za necelých 20 dolarů na Amazonu i v oficiálním obchodě Anker.",
-      "slug": "ankers-fast-2-in-1-usb-c-cable-is-less-than-20-rig",
-      "publishedAt": "2025-10-29T18:00:00+00:00",
-      "date": "2025-10-29 18:00:00",
-      "importance": 3,
-      "category": "příslušenství",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-140W-2-in-1-USB-C-to-USB-C-cable.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-29/ankers-fast-2-in-1-usb-c-cable-is-less-than-20-rig/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Anker",
-        "Amazon",
-        "The Verge"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI Agents Are Terrible Freelance Workers - WIRED",
-      "description": "A new benchmark measures how well AI agents can automate economically valuable chores. Human-level AI is still some ways off.",
-      "slug": "ai-agents-are-terrible-freelance-workers-wired",
-      "publishedAt": "2025-10-29T18:00:00+00:00",
-      "date": "2025-10-29 18:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://media.wired.com/photos/690147a56a37037ce5efc6db/191:100/w_1280,c_limit/A-%20Lab-AI-Agents-Tried-to-Make-Money-Doing-Freelance-Work-Business-2168056998.jpg",
-      "url": "/tech-news/2025-10-29/ai-agents-are-terrible-freelance-workers-wired/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "YouTube přináší AI vylepšování videa a QR kódy pro nákupy na televizích",
       "description": "Google rozšiřuje YouTube o funkce zaměřené na sledování na velkých obrazovkách, včetně automatického zvyšování rozlišení pomocí AI a nových nástrojů pro tvůrce.",
       "slug": "tv-focused-youtube-update-brings-ai-upscaling-shop",
@@ -3181,249 +3697,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "iPhone Fold’s launch timing sounds like it couldn’t be better - 9to5Mac",
-      "description": "Market trends are increasingly indicating that Apple’s launch timing with the iPhone Fold couldn’t be better.",
-      "slug": "iphone-folds-launch-timing-sounds-like-it-couldnt-",
-      "publishedAt": "2025-10-29T16:25:00+00:00",
-      "date": "2025-10-29 16:25:00",
-      "importance": 2,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iphone-fold-05.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/iphone-folds-launch-timing-sounds-like-it-couldnt-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nový Android malware Herodotus napodobuje lidské chování při krádeži peněz",
-      "description": "Bankovní trojan Herodotus využívá simulaci lidského chování včetně náhodných prodlev při psaní, aby obešel detekční systémy a ukradl přihlašovací údaje i peníze z bankovních aplikací.",
-      "slug": "new-android-malware-lags-like-a-human-to-steal-mon",
-      "publishedAt": "2025-10-29T16:03:00+00:00",
-      "date": "2025-10-29 16:03:00",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/android-system-security-updates-vs-play-system-updates-2.jpg",
-      "url": "/tech-news/2025-10-29/new-android-malware-lags-like-a-human-to-steal-mon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google",
-        "Android Authority"
-      ],
-      "people": []
-    },
-    {
-      "title": "Galaxy Z ‘TriFold’ might still be thinner than most of Samsung’s foldables to date - 9to5Google",
-      "description": "Samsung has officially shown off the Galaxy Z TriFold for the first time and, in that initial showing, it appears...",
-      "slug": "galaxy-z-trifold-might-still-be-thinner-than-most-",
-      "publishedAt": "2025-10-29T15:55:00+00:00",
-      "date": "2025-10-29 15:55:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-fold-6-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/galaxy-z-trifold-might-still-be-thinner-than-most-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Android Auto prepares support for app widgets as latest updates roll out [Gallery] - 9to5Google",
-      "description": "Google has some new Android Auto features in the pipeline, including support for app widgets on the dashboard as has...",
-      "slug": "android-auto-prepares-support-for-app-widgets-as-l",
-      "publishedAt": "2025-10-29T15:25:00+00:00",
-      "date": "2025-10-29 15:25:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Android-Auto-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/android-auto-prepares-support-for-app-widgets-as-l/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Starší telefony Google Pixel neumí přesně lokalizovat UWB trackery",
-      "description": "Google potvrdil, že modely Pixel 6 Pro a Pixel 7 Pro nepodporují funkci přesného vyhledávání pro Moto Tag a síť Find Hub, přestože mají potřebný hardware.",
-      "slug": "older-google-pixel-phones-cant-precisely-locate-uw",
-      "publishedAt": "2025-10-29T15:07:58+00:00",
-      "date": "2025-10-29 15:07:58",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24100172/226337_Pixel_7_and_7_Pro_AKrales_0370.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-29/older-google-pixel-phones-cant-precisely-locate-uw/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Google",
-        "Motorola"
-      ],
-      "people": []
-    },
-    {
-      "title": "Adobe MAX conference highlights AI partnerships and platform expansion - Yahoo Finance",
-      "description": "Investing.com -- Analysts at Stifel and UBS said in notes on Wednesday that Adobe’s annual MAX user conference in Los Angeles underscored the company’s...",
-      "slug": "adobe-max-conference-highlights-ai-partnerships-an",
-      "publishedAt": "2025-10-29T15:06:01+00:00",
-      "date": "2025-10-29 15:06:01",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "url": "/tech-news/2025-10-29/adobe-max-conference-highlights-ai-partnerships-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Anker's Halloween Sale Has Discounts on Chargers, Hubs, and Portable Batteries - MacRumors",
-      "description": "Anker recently kicked off a new Halloween sale with up to 20 percent off the company's most popular charging accessories. Most accessories have...",
-      "slug": "ankers-halloween-sale-has-discounts-on-chargers-hu",
-      "publishedAt": "2025-10-29T14:34:45+00:00",
-      "date": "2025-10-29 14:34:45",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/513oppp2DKH4esnQA0rpgEpzV0w=/2500x/article-new/2025/10/anker-fall-green-2.jpeg",
-      "url": "/tech-news/2025-10-29/ankers-halloween-sale-has-discounts-on-chargers-hu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Lock Company Sues Man Who Picked Its Lock, Gets Horribly Humiliated - Futurism",
-      "description": "The company charged him with eight separate offenses, including copyright infringement and \"defamation by implication\"",
-      "slug": "lock-company-sues-man-who-picked-its-lock-gets-hor",
-      "publishedAt": "2025-10-29T14:18:58+00:00",
-      "date": "2025-10-29 14:18:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/lockpick-lawsuit-trevor-mcnally.jpg?w=1200",
-      "url": "/tech-news/2025-10-29/lock-company-sues-man-who-picked-its-lock-gets-hor/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect - MacRumors",
-      "description": "Rumors are stoking excitement for the next-generation iPad mini that Apple is reportedly close to launching. So what should we expect from the...",
-      "slug": "oled-ipad-mini-release-date-pricing-and-what-to-ex",
-      "publishedAt": "2025-10-29T14:13:28+00:00",
-      "date": "2025-10-29 14:13:28",
-      "importance": 2,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/SQjjVUDE-D57gCJxdtxmV-Xy9zY=/1920x/article-new/2024/10/ipad-mini-7-feature-blue.jpg",
-      "url": "/tech-news/2025-10-29/oled-ipad-mini-release-date-pricing-and-what-to-ex/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nothing’s new bloatware includes Facebook services that can’t be uninstalled - 9to5Google",
-      "description": "Nothing’s first phone with third-party bloatware has arrived, with the new Nothing Phone (3a) Lite shipping out of the box...",
-      "slug": "nothings-new-bloatware-includes-facebook-services-",
-      "publishedAt": "2025-10-29T14:10:00+00:00",
-      "date": "2025-10-29 14:10:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nothing-phone-3a-lite-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/nothings-new-bloatware-includes-facebook-services-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nothing Phone 3A Lite strips the Glyph Lights down to the bare minimum - The Verge",
-      "description": "Nothing’s new Phone 3A Lite is a budget-friendly model destined for the UK and Europe, but its single notification LED won’t be launching in the US.",
-      "slug": "nothing-phone-3a-lite-strips-the-glyph-lights-down",
-      "publishedAt": "2025-10-29T14:02:30+00:00",
-      "date": "2025-10-29 14:02:30",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/nothing-phone-3a-lite.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "url": "/tech-news/2025-10-29/nothing-phone-3a-lite-strips-the-glyph-lights-down/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon’s Two New Echo Speakers Present a Clear Winner — With or Without Alexa+ - Bloomberg.com",
-      "description": "Review: The $100 Echo Dot Max outshines the pricier Echo Studio.",
-      "slug": "amazons-two-new-echo-speakers-present-a-clear-winn",
-      "publishedAt": "2025-10-29T14:00:05+00:00",
-      "date": "2025-10-29 14:00:05",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8n.ARMZmNY/v4/1200x800.jpg",
-      "url": "/tech-news/2025-10-29/amazons-two-new-echo-speakers-present-a-clear-winn/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple údajně plánuje OLED displeje pro iPad Mini s navýšením ceny až o 100 dolarů",
-      "description": "Podle Bloomberg má Apple v plánu vybavit iPad Mini OLED displejem již příští rok, což by mohlo znamenat zdražení až o 100 dolarů. OLED displeje by se později měly dostat i do MacBook Air a iPad Air.",
-      "slug": "apples-oled-transition-could-come-with-a-more-expe",
-      "publishedAt": "2025-10-29T13:26:54+00:00",
-      "date": "2025-10-29 13:26:54",
-      "importance": 2,
-      "category": "tablety",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/iPad_Mini_8.webp?quality=90&strip=all&crop=0,10.416314811687,100,79.167370376626",
-      "url": "/tech-news/2025-10-29/apples-oled-transition-could-come-with-a-more-expe/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Bloomberg"
       ],
       "people": []
     },
@@ -3466,26 +3739,6 @@
       "people": []
     },
     {
-      "title": "Matka popisuje temnou stránku Apple Family Sharing po rozchodu",
-      "description": "Matka se soudně svěřenými dětmi popisuje, jak může bývalý partner zneužít funkci Family Sharing od Apple ke kontrole a nátlaku, přičemž podpora Apple jí nebyla schopna pomoci.",
-      "slug": "mother-describes-the-dark-side-of-apples-family-sh",
-      "publishedAt": "2025-10-29T12:02:23+00:00",
-      "date": "2025-10-29 12:02:23",
-      "importance": 3,
-      "category": "rodinné funkce",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Mother-describes-the-dark-side-of-Apples-Family-Sharing-feature-when-a-relationship-ends.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/mother-describes-the-dark-side-of-apples-family-sh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "OnePlus 15 teardown confirms our worst fear: Major camera downgrades - Android Authority",
       "description": "OnePlus 15 teardown reveals a larger battery, larger vapor chamber but surprising camera downgrades with all rear sensors being swapped out.",
       "slug": "oneplus-15-teardown-confirms-our-worst-fear-major-",
@@ -3499,24 +3752,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "6 New Things Your iPhone Can Do in iOS 26.1 - MacRumors",
-      "description": "Apple is about to drop iOS 26.1, the first major point release since iOS 26 was rolled out in September, and there are at least six notable changes...",
-      "slug": "A-6-new-things-your-iphone-can-do-in-ios-261-macru",
-      "publishedAt": "2025-10-29T11:22:55+00:00",
-      "date": "2025-10-29 11:22:55",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/2qjdyv4w-h48P2zdIKz-4ZyltwA=/2500x/article-new/2025/10/iOS-26.1-Whats-New-Feature.jpg",
-      "url": "/tech-news/2025-10-29/A-6-new-things-your-iphone-can-do-in-ios-261-macru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
       },
       "companies": [],
       "people": []
@@ -3540,42 +3775,6 @@
       "people": []
     },
     {
-      "title": "Monster Hunter Wilds zaznamenává propad prodejů, předčily ho starší hry Capcomu",
-      "description": "Nová hra Monster Hunter Wilds prodala ve druhém čtvrtletí pouze 160 000 kopií, což je méně než čtyři roky starý Monster Hunter Rise nebo Devil May Cry 5.",
-      "slug": "monster-hunter-wilds-doing-so-badly-thats-its-been",
-      "publishedAt": "2025-10-29T11:00:00+00:00",
-      "date": "2025-10-29 11:00:00",
-      "importance": 3,
-      "category": "herní průmysl",
-      "urlToImage": "https://images.pushsquare.com/57741e00ac758/large.jpg",
-      "url": "/tech-news/2025-10-29/monster-hunter-wilds-doing-so-badly-thats-its-been/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Push Square"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Exynos 2600: Samsung Galaxy S26 series chipset shines in latest benchmark appearance - Notebookcheck",
-      "description": "Samsung's next-gen flagship chipset, the Exynos 2600, has surfaced on Geekbench yet again. The SOC is expected to be present in the Galaxy S26 lineup next year, and appears to deliver CPU performance on par with the Snapdragon 8 Elite Gen 5.",
-      "slug": "exynos-2600-samsung-galaxy-s26-series-chipset-shin",
-      "publishedAt": "2025-10-29T10:45:00+00:00",
-      "date": "2025-10-29 10:45:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-S25-Ultra-314.JPG",
-      "url": "/tech-news/2025-10-29/exynos-2600-samsung-galaxy-s26-series-chipset-shin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Please stop using AI browsers - XDA",
       "description": "Agentic AI browsers are dangerous, and even some of the biggest browser companies think so.",
       "slug": "please-stop-using-ai-browsers-xda",
@@ -3589,162 +3788,6 @@
         "emoji": "📰",
         "id": null,
         "name": "XDA Developers"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Android Auto wants to give apps a new place to live on your car's dashboard - Android Police",
-      "description": "It's all about giving you more control",
-      "slug": "android-auto-wants-to-give-apps-a-new-place-to-liv",
-      "publishedAt": "2025-10-29T07:43:00+00:00",
-      "date": "2025-10-29 07:43:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/top-down-view-of-a-car-with-the-android-auto-logo-google-assistant-messaging-icons-and-crossed-out-apple-carplay-symbols.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-29/android-auto-wants-to-give-apps-a-new-place-to-liv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google tvrdí, že boční načítání aplikací nikam nezmizí, F-Droid to nazývá dezinformací",
-      "description": "Alternativní obchod s aplikacemi F-Droid varuje, že Google uživatele zavádí, když tvrdí, že boční načítání aplikací na Androidu nikam nezmizí.",
-      "slug": "google-says-sideloading-isnt-going-anywhere-f-droi",
-      "publishedAt": "2025-10-29T06:54:41+00:00",
-      "date": "2025-10-29 06:54:41",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/Android_15_restricted_settings_hero_image.jpg",
-      "url": "/tech-news/2025-10-29/google-says-sideloading-isnt-going-anywhere-f-droi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google",
-        "F-Droid"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nikon Small World Competition Announces 2025 Winners - Hackaday",
-      "description": "They say that, sometimes, less is more. That would certainly apply to photomicrography, where you want to take pictures of tiny things. Nikon agrees, and they sponsor the Small World contest every …",
-      "slug": "nikon-small-world-competition-announces-2025-winne",
-      "publishedAt": "2025-10-29T05:00:00+00:00",
-      "date": "2025-10-29 05:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/Nikon-2025-banner.jpg",
-      "url": "/tech-news/2025-10-29/nikon-small-world-competition-announces-2025-winne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hackaday"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Android Auto připravuje widgety pro domovskou obrazovku",
-      "description": "Android Auto dostane možnost přidávat widgety z mobilních aplikací přímo na palubní desku vozidla. Funkce s kódovým označením Earth je již částečně funkční.",
-      "slug": "exclusive-android-auto-is-preparing-home-screen-wi",
-      "publishedAt": "2025-10-29T04:16:45+00:00",
-      "date": "2025-10-29 04:16:45",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-launcher-home-screen-1.jpg",
-      "url": "/tech-news/2025-10-29/exclusive-android-auto-is-preparing-home-screen-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Galaxy Buds 3 Pro se na Amazonu prodávají se slevou 34 %",
-      "description": "Samsung Galaxy Buds 3 Pro jsou aktuálně dostupné za 165 dolarů místo původních 249 dolarů. Jde o běžnou produktovou slevu, nikoli o významnou technologickou novinku.",
-      "slug": "forget-airpods-the-galaxy-buds-3-pro-are-selling-f",
-      "publishedAt": "2025-10-29T00:24:29+00:00",
-      "date": "2025-10-29 00:24:29",
-      "importance": 2,
-      "category": "bezdrátová sluchátka",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/buds-3-pro-galaxy.jpg",
-      "url": "/tech-news/2025-10-29/forget-airpods-the-galaxy-buds-3-pro-are-selling-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [
-        "Samsung",
-        "Amazon",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature - BleepingComputer",
-      "description": "​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which begins the rollout of the Administrator Protection cybersecurity feature and an updated Start Menu.",
-      "slug": "windows-11-kb5067036-update-rolls-out-administrato",
-      "publishedAt": "2025-10-28T23:31:28+00:00",
-      "date": "2025-10-28 23:31:28",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg",
-      "url": "/tech-news/2025-10-28/windows-11-kb5067036-update-rolls-out-administrato/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Oppo Find X9 Pro nabízí 200megapixelový teleobjektiv a externí zoom příslušenství",
-      "description": "Nový smartphone Oppo Find X9 Pro přináší 200megapixelový teleobjektiv vyvinutý s Hasselblad a volitelný externí telekonvertor pro ještě větší přiblížení.",
-      "slug": "zoom-uncomfortably-close-with-oppos-crazy-new-tele",
-      "publishedAt": "2025-10-28T16:00:00+00:00",
-      "date": "2025-10-28 16:00:00",
-      "importance": 3,
-      "category": "mobilní fotografie",
-      "urlToImage": "https://media.wired.com/photos/68ffeb3a8fdb4736bd882bac/191:100/w_1280,c_limit/Oppo%20Find%20X9%20Pro%201%20SOURCE%20Simon%20Hill.jpg",
-      "url": "/tech-news/2025-10-28/zoom-uncomfortably-close-with-oppos-crazy-new-tele/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Oppo",
-        "Hasselblad"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vědci vytvořili nejmenší pixel na světě, má ale zásadní omezení",
-      "description": "Němečtí výzkumníci představili pixel o velikosti pouhých 300 × 300 nanometrů, který by mohl revolucionizovat displeje pro VR a AR zařízení. Zatím funguje pouze pro oranžovou barvu.",
-      "slug": "worlds-tiniest-pixel-shatters-records-but-theres-a",
-      "publishedAt": "2025-10-28T11:01:49+00:00",
-      "date": "2025-10-28 11:01:49",
-      "importance": 3,
-      "category": "displeje",
-      "urlToImage": "https://www.sciencealert.com/images/2025/10/vr_headset_small_pixel_header-1.jpg",
-      "url": "/tech-news/2025-10-28/worlds-tiniest-pixel-shatters-records-but-theres-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ScienceAlert"
       },
       "companies": [],
       "people": []
