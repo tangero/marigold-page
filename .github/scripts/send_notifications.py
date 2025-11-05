@@ -93,17 +93,26 @@ def send_notification(title, message, app_id, website_name):
         print(f"❌ Missing credentials for {website_name}")
         return False
 
-    url = "https://onesignal.com/api/v1/notifications"
+    # ✅ Správná URL podle OneSignal dokumentace 2025
+    url = "https://api.onesignal.com/notifications"
     headers = {
         "Content-Type": "application/json; charset=utf-8",
-        "Authorization": f"Basic {api_key}"
+        "Authorization": f"Key {api_key}"  # ✅ Použít "Key" prefix, ne "Basic"
     }
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["All"],
-        "headings": {"en": title, "cs": title},
-        "contents": {"en": message, "cs": message},
+        "included_segments": ["Total Subscriptions"],  # ✅ Existující segment s push subscribers
+        "headings": {"en": title, "cs": title},  # ✅ EN je POVINNÝ
+        "contents": {"en": message, "cs": message},  # ✅ EN je POVINNÝ
+        # ✅ Explicitně specifikovat Web Push platformy
+        "isAnyWeb": True,
+        "isChromeWeb": True,
+        "isFirefox": True,
+        "isSafari": True,
+        # ✅ Vypnout mobilní platformy
+        "isIos": False,
+        "isAndroid": False,
     }
 
     try:
@@ -112,8 +121,15 @@ def send_notification(title, message, app_id, website_name):
         if response.status_code in [200, 201]:
             result = response.json()
             notification_id = result.get('id', 'unknown')
-            recipients = result.get('recipients', 0)
-            print(f"✅ {website_name}: Notifikace poslána! ID: {notification_id}, Příjemci: {recipients}")
+            recipients = result.get('recipients', None)  # ✅ Může být None
+
+            if recipients is not None:
+                print(f"✅ {website_name}: Notifikace poslána! ID: {notification_id}, Příjemci: {recipients}")
+            else:
+                # OneSignal často nevrací recipients okamžitě - počet se zobrazí v dashboardu
+                print(f"✅ {website_name}: Notifikace poslána! ID: {notification_id}")
+                print(f"   💡 Počet příjemců se zobrazí v OneSignal dashboardu")
+
             return True
         else:
             print(f"❌ {website_name}: Chyba {response.status_code}")

@@ -44,17 +44,23 @@ def main():
     print(f"   Shrnutí: {summary[:100]}...")
 
     # Připravit payload
-    url = "https://onesignal.com/api/v1/notifications"
+    url = "https://api.onesignal.com/notifications"
     headers = {
         "Content-Type": "application/json; charset=utf-8",
-        "Authorization": f"Basic {api_key}"
+        "Authorization": f"Key {api_key}"
     }
 
     payload = {
         "app_id": app_id,
-        "included_segments": ["All"],
+        "included_segments": ["Total Subscriptions"],
         "headings": {"en": f"🆕 {title}", "cs": f"🆕 {title}"},
         "contents": {"en": summary, "cs": summary},
+        "isAnyWeb": True,
+        "isChromeWeb": True,
+        "isFirefox": True,
+        "isSafari": True,
+        "isIos": False,
+        "isAndroid": False,
     }
 
     print("\n" + "=" * 60)

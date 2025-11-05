@@ -49,17 +49,23 @@ jobs:
                 print(f"App ID: {'✅' if app_id else '❌'}")
                 return False
 
-            url = "https://onesignal.com/api/v1/notifications"
+            url = "https://api.onesignal.com/notifications"
             headers = {
                 "Content-Type": "application/json; charset=utf-8",
-                "Authorization": f"Basic {api_key}"
+                "Authorization": f"Key {api_key}"
             }
 
             payload = {
                 "app_id": app_id,
-                "included_segments": ["All"],
+                "included_segments": ["Total Subscriptions"],
                 "headings": {"en": title, "cs": title},
                 "contents": {"en": message, "cs": message},
+                "isAnyWeb": True,
+                "isChromeWeb": True,
+                "isFirefox": True,
+                "isSafari": True,
+                "isIos": False,
+                "isAndroid": False,
             }
 
             print(f"📤 Odesílám notifikaci...")
@@ -72,11 +78,14 @@ jobs:
 
                 if response.status_code in [200, 201]:
                     result = response.json()
-                    recipients = result.get('recipients', 0)
+                    recipients = result.get('recipients', None)
                     notification_id = result.get('id', 'unknown')
                     print(f"✅ Úspěch!")
                     print(f"   Notification ID: {notification_id}")
-                    print(f"   Příjemci: {recipients}")
+                    if recipients is not None:
+                        print(f"   Příjemci: {recipients}")
+                    else:
+                        print(f"   Příjemci: Zobrazí se v OneSignal dashboardu")
                     return True
                 else:
                     print(f"❌ Chyba {response.status_code}")
