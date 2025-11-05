@@ -4,9 +4,9 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-11-04 02:08:26'
-description: Apple vydal první významnou aktualizaci svých operačních systémů s novým
-  číslem verze 26.1, která přináší vylepšení rozhraní Liquid Glass a návrat režimu
-  Slide Over na iPadu.
+description: Apple zpřístupnil první významnou aktualizaci svých operačních systémů
+  s novým číslováním verzí. Přináší vylepšené ovládání efektu Liquid Glass a návrat
+  multitaskingu Slide Over na iPadu.
 importance: 3
 layout: tech_news_article
 original_title: Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass
@@ -26,27 +26,29 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-o
 
 ## Souhrn
 
-Apple vydal aktualizaci 26.1 pro všechny své operační systémy včetně iOS, iPadOS, macOS, watchOS, tvOS, visionOS a systému HomePod. Jde o první významnou aktualizaci od zářijového vydání, která přináší nové funkce a opravy chyb, zejména ovládání průhlednosti rozhraní Liquid Glass a návrat multitaskingového režimu Slide Over na iPadu.
+Apple vydal aktualizace 26.1 pro všechny své operační systémy včetně iOS, iPadOS, macOS, watchOS, tvOS, visionOS a systému HomePod. Jde o první významnou aktualizaci od zářijového vydání hlavních verzí, která přináší nové funkce a opravy chyb, zejména vylepšené ovládání průhlednosti rozhraní Liquid Glass a návrat multitaskingového režimu Slide Over na iPadu.
 
 ## Klíčové body
 
-- Nové ovládání průhlednosti Liquid Glass umožňuje volbu mezi čirým vzhledem a tónovaným režimem s lepší čitelností
-- iPadOS 26.1 vrací aktualizovanou verzi multitaskingového režimu Slide Over s možností přesouvání a změny velikosti okna
-- iOS přináší vylepšenou funkci budíku, kde odložení funguje tlačítkem, ale vypnutí vyžaduje posunutí
-- Možnost zakázat gesto otevření fotoaparátu na zamčené obrazovce
-- Apple přešel na nový jednotný systém číslování verzí založený na roce
+- Nové ovládání průhlednosti efektu Liquid Glass s režimy Clear a Tinted pro lepší čitelnost
+- Návrat multitaskingového režimu Slide Over na iPadOS s vylepšenou funkcionalitou
+- Upravené ovládání budíku v iOS vyžadující posunutí pro vypnutí místo pouhého stisknutí tlačítka
+- Možnost zakázat gesto otevření fotoaparátu na zamykací obrazovce
+- Jednotné číslování verzí napříč všemi platformami Apple založené na roce vydání
 
 ## Podrobnosti
 
-Nejvýraznější změnou napříč platformami je nové ovládání průhlednosti pro rozhraní Liquid Glass, které Apple představil v září. Uživatelé si nyní mohou vybrat mezi výchozím čirým vzhledem (Clear), který zobrazuje průhlednější skleněný efekt s větším prosvítáním obsahu pod rozhraním, nebo novým tónovaným režimem (Tinted), který poskytuje nepropustnější pozadí zobrazující pouze neurčité tvary a barvy. Tato změna reaguje na stížnosti uživatelů ohledně čitelnosti rozhraní.
+Apple letos na podzim přešel na nový systém číslování verzí založený na roce vydání, což znamená, že všechny operační systémy nyní sdílejí stejné číslo hlavní verze. Aktualizace 26.1 představuje první významnou revizi od zářijového uvedení hlavních verzí a reaguje na zpětnou vazbu uživatelů a časté problémy.
 
-Pro uživatele iPadu představuje aktualizace návrat režimu Slide Over, který byl v předchozí verzi odstraněn. Tento multitaskingový režim umožňuje rychlým posunutím vyvolat a zavřít jednotlivou aplikaci nad aktuálně používanými aplikacemi. Verze v iPadOS 26 vypadá odlišně a přináší funkční změny - přepínání mezi aplikacemi v režimu Slide Over je složitější, ale okno lze nyní přesouvat a měnit jeho velikost stejně jako u jakéhokoli jiného okna aplikace v iPadOS 26.
+Nejviditelnější změnou je nové ovládání průhlednosti pro vizuální efekt Liquid Glass, který Apple používá napříč svými systémy pro rozmazání pozadí a vytvoření efektu skla. Uživatelé si nyní mohou vybrat mezi výchozím režimem Clear, který nabízí vyšší průhlednost a umožňuje vidět více obsahu pod skleněným efektem, a novým režimem Tinted, který poskytuje více neprůhledné pozadí zobrazující pouze neurčité tvary a barvy. Tato změna má zlepšit čitelnost textu, což byla častá stížnost uživatelů.
 
-V iOS Apple upravil funkci budíku tak, aby uživatelé mohli alarm odložit tlačítkem, ale pro úplné vypnutí musí použít gesto posunutí. Tato změna má pomoci lidem, kteří mají tendenci mačkat tlačítka, aniž by se plně probudili. Další novinkou je možnost zakázat gesto otevření fotoaparátu posunutím na zamčené obrazovce.
+Na iPadu se vrací multitaskingový režim Slide Over, který umožňuje rychlým posunutím vyvolat a zavřít jednotlivou aplikaci přes aktuálně používané aplikace. Verze v iPadOS 26 vypadá odlišně než předchozí implementace a přináší funkční změny - přepínání mezi aplikacemi v režimu Slide Over je nyní složitější, ale okno lze poprvé přesouvat a měnit jeho velikost stejně jako jakékoli jiné okno aplikace v iPadOS 26.
+
+V iOS Apple upravil ovládání budíku tak, aby uživatelé mohli odložit buzení tlačítkem, ale pro úplné vypnutí budíku musí použít gesto posunutí. Tato změna má pomoci lidem, kteří mají tendenci mačkat tlačítka, aniž by se plně probudili. Další drobnou, ale užitečnou změnou je možnost zakázat gesto otevření fotoaparátu posunutím na zamykací obrazovce.
 
 ## Proč je to důležité
 
-Aktualizace 26.1 ukazuje, jak Apple reaguje na zpětnou vazbu uživatelů po vydání hlavních verzí operačních systémů. Změny v ovládání průhlednosti Liquid Glass a návrat režimu Slide Over naznačují, že společnost je ochotna upravit své designové rozhodnutí na základě praktického používání. Přechod na jednotný systém číslování verzí založený na roce napříč všemi platformami zjednodušuje orientaci v aktualizacích a sjednocuje ekosystém Apple. Jde o typickou první významnou aktualizaci po hlavním vydání, která ladí nové funkce a odstraňuje počáteční problémy.
+Aktualizace 26.1 ukazuje, jak Apple reaguje na zpětnou vazbu uživatelů po vydání hlavních verzí operačních systémů. Přidání ovládání průhlednosti Liquid Glass je přímou odpovědí na kritiku ohledně čitelnosti rozhraní, zatímco návrat režimu Slide Over na iPadu s vylepšenou funkcionalitou naznačuje, že Apple hledá rovnováhu mezi novými koncepty multitaskingu a osvědčenými pracovními postupy uživatelů. Jednotné číslování verzí napříč platformami také zjednodušuje orientaci v ekosystému Apple a naznačuje užší integraci mezi jednotlivými systémy.
 
 ---
 

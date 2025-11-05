@@ -5,8 +5,8 @@ companies:
 - AMD
 date: '2025-11-03 20:21:36'
 description: AMD po vlně kritiky potvrdilo, že grafické karty s architekturami RDNA
-  1 a RDNA 2 budou nadále dostávat aktualizace, optimalizace a opravy chyb, nikoliv
-  pouze údržbový režim.
+  1 a RDNA 2 budou nadále dostávat aktualizace ovladačů, optimalizace her a opravy
+  chyb.
 importance: 3
 layout: tech_news_article
 original_title: AMD says that it’s not pulling driver support for older Radeon GPUs
@@ -17,7 +17,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: AMD po kritice zachovává plnou podporu ovladačů pro starší grafické karty Radeon
+title: AMD po kritice couvá z ukončení podpory starších grafických karet Radeon
 url: https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg
 urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg
@@ -25,29 +25,27 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su
 
 ## Souhrn
 
-AMD po týdnu zpětného kroku potvrdilo, že grafické karty řady Radeon RX 5000 a 6000 s architekturami RDNA 1 a RDNA 2 budou nadále dostávat plnou podporu ovladačů včetně optimalizací pro nové hry a oprav chyb. Původní oznámení o přechodu do "údržbového režimu" vyvolalo silnou negativní reakci uživatelů, zejména kvůli tomu, že některé dotčené karty byly prodávány ještě v roce 2022.
+AMD po týdnu zpětného kroku potvrdilo, že grafické karty řady Radeon RX 5000 a 6000 s architekturami RDNA 1 a RDNA 2 budou nadále dostávat plnou podporu ovladačů. Původní oznámení o přesunu těchto GPU do "režimu údržby" vyvolalo silnou negativní reakci uživatelů, protože se týkalo i karet uvedených na trh teprve v roce 2022.
 
 ## Klíčové body
 
-- AMD původně s vydáním ovladače Adrenalin 25.10.2 oznámilo přesun GPU s RDNA 1 a RDNA 2 do údržbového režimu
-- Po kritice společnost potvrdila pokračování plné podpory včetně optimalizací pro nové hry, oprav chyb a bezpečnostních záplat
-- Starší architektury budou mít oddělený vývojový strom ovladačů, ale s plnou funkčností
-- Dotčené jsou karty Radeon RX 5000 a RX 6000, z nichž některé byly prodávány až do roku 2022
-- Oddělení vývojových větví má zabránit problémům způsobeným změnami určenými pro novější RDNA 3 a RDNA 4
+- AMD původně oznámilo přesun GPU s architekturami RDNA 1 a RDNA 2 do "režimu údržby" s verzí ovladačů 25.10.2
+- Po kritice společnost postupně couvala a nakonec potvrdila pokračování plné podpory včetně optimalizací pro nové hry
+- Starší GPU budou mít oddělený vývojový proud ovladačů od novějších architektur RDNA 3 a RDNA 4
+- Změna se týká grafických kart uvedených na trh až do roku 2022
+- AMD zdůvodňuje oddělení kódových větví ochranou starších GPU před změnami určenými pro novější architektury
 
 ## Podrobnosti
 
-Minulý týden AMD vydalo verzi 25.10.2 svého ovladačového balíku Adrenalin pro grafické karty Radeon. Spolu s běžnými opravami chyb a vylepšeními výkonu ve hrách přišlo překvapivé oznámení: grafické karty s architekturami RDNA 1 (řada RX 5000) a RDNA 2 (řada RX 6000) budou přesunuty do údržbového režimu. To znamenalo, že tyto GPU by již nedostávaly nové optimalizace výkonu a opravy pro nově vydávané hry.
+Kontroverze začala s vydáním ovladačů Adrenalin verze 25.10.2, kdy AMD oznámilo přesun podpory pro řady Radeon RX 5000 a 6000 do režimu údržby. To v praxi znamenalo, že tyto karty by již nedostávaly nové optimalizace výkonu pro nově vydávané hry ani pravidelné opravy chyb. Problém byl o to citlivější, že některé produkty s těmito architekturami byly na trh uvedeny teprve před dvěma lety.
 
-Problém byl o to citlivější, že AMD opakovaně používalo stejný křemík v různých produktech napříč několika lety. Některé dedikované grafické karty založené na těchto architekturách byly na trh uvedeny ještě v roce 2022, což znamenalo, že relativně nové produkty by přišly o podporu.
+Po první vlně kritiky AMD vydalo upřesňující prohlášení, že starší GPU budou stále dostávat "nové funkce, opravy chyb a herní optimalizace" podle "potřeb trhu". Toto vágní vyjádření však uživatele neuspokojilo, což vedlo k dalšímu oficiálnímu příspěvku, ve kterém AMD explicitně potvrdilo pokračování podpory pro nové hry, optimalizace stability a výkonu i bezpečnostní záplaty.
 
-Po vlně kritiky AMD vydalo několik upřesňujících prohlášení. Podle serveru Tom's Hardware společnost nejprve uvedla, že starší GPU budou stále dostávat "nové funkce, opravy chyb a herní optimalizace" podle "potřeb trhu". Když ani to nestačilo uklidnit situaci, AMD publikovalo samostatný příspěvek s jasným potvrzením: vydání ovladače 25.10.2 "není koncem podpory pro RDNA 1 a RDNA 2".
-
-Společnost potvrdila, že starší architektury GPU skutečně dostaly oddělený vývojový strom ovladačů. Podle AMD je však tento krok zamýšlen jako ochrana - má zabránit tomu, aby opravy a funkce určené pro novější RDNA 3 a RDNA 4 nechtěně nerozbily funkčnost starších karet. AMD argumentuje, že "tyto produkty nyní těží z dedikované, stabilní větve ovladačů, postavené na letech ladění a optimalizací" a že tento přístup "pomáhá poskytovat plynulejší a konzistentnější zážitek ve hrách, zatímco izoluje GPU předchozí generace od rychlých změn navržených pro novější architektury".
+Společnost nyní zdůvodňuje oddělení vývojových větví ovladačů jako ochranné opatření. Starší GPU budou mít vlastní stabilní větev postavenou na letech ladění a optimalizací, což má zabránit tomu, aby změny určené pro novější architektury RDNA 3 a RDNA 4 nezpůsobily problémy na starších kartách. AMD tvrdí, že tento přístup zajistí plynulejší a konzistentnější herní zážitek.
 
 ## Proč je to důležité
 
-Tato situace odhaluje citlivou rovnováhu mezi technologickým pokrokem a podporou starších produktů v grafickém průmyslu. AMD čelí výzvě udržovat ovladače pro několik generací architektur současně, což je komplikované zejména kvůli praxi opakovaného používání stejného křemíku v produktech vydávaných v různých letech. Zpětný krok společnosti ukazuje, že tlak komunity a uživatelů stále má vliv na rozhodování velkých technologických firem. Pro majitele karet RX 5000 a RX 6000 to znamená, že jejich investice zůstává chráněna a mohou očekávat pokračující optimalizace pro nové hry a stabilní provoz.
+Tato situace odhaluje citlivé téma v grafickém průmyslu - délku softwarové podpory hardwaru. AMD opakovaně používá stejné čipy v různých produktech napříč několika lety, což znamená, že ukončení podpory "starých" architektur může zasáhnout i relativně nové produkty. Pro uživatele, kteří investovali do grafických kart v posledních letech, je zásadní mít jistotu, že jejich hardware bude i nadále optimalizován pro nové hry. Rychlý ústup AMD ukazuje, jak silný vliv má komunita na rozhodování výrobců, ale také vyvolává otázky ohledně dlouhodobé strategie podpory produktů.
 
 ---
 

@@ -1,10 +1,71 @@
 {
-  "generated": "2025-11-05T12:31:14.899216+00:00",
+  "generated": "2025-11-05T16:22:41.572602+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Google Messages získá funkci Remix postavenou na modelu Nano Banana",
+      "description": "Google přidává do aplikace Messages novou funkci Remix, která využívá model Nano Banana pro generování a úpravu obrázků přímo v konverzacích.",
+      "slug": "exclusive-heres-your-first-look-at-google-messages",
+      "publishedAt": "2025-11-04T08:36:21+00:00",
+      "date": "2025-11-04 08:36:21",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Gemini-Nano-Banana.jpg",
+      "url": "/tech-news/2025-11-04/exclusive-heres-your-first-look-at-google-messages/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tech YouTuber rozzuřený poté, co AI \"neoprávněně\" zrušila účet s více než 350 tisíci odběrateli",
+      "description": "Tech YouTuber 'Enderman' měl svůj účet s více než 350 000 odběrateli zrušen. Tvrdí, že rozhodnutí bylo chybně učiněno umělou inteligencí.",
+      "slug": "tech-youtuber-irate-as-ai-wrongfully-terminates-ac",
+      "publishedAt": "2025-11-04T03:59:08+00:00",
+      "date": "2025-11-04 03:59:08",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/04/YouTube-AI-termination.jpg",
+      "url": "/tech-news/2025-11-04/tech-youtuber-irate-as-ai-wrongfully-terminates-ac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dexerto"
+      },
+      "companies": [
+        "YouTube"
+      ],
+      "people": []
+    },
+    {
+      "title": "Exynos 2600 údajně dosahuje výkonu Apple M5 v benchmarcích",
+      "description": "Desetijádrový procesor od Samsungu vyrobený v 2nm procesu údajně dosáhl impresivních výsledků v Geekbench testu, srovnatelných s čipem Apple M5.",
+      "slug": "its-hard-to-believe-but-the-exynos-2600-ap-reporte",
+      "publishedAt": "2025-11-04T02:25:30+00:00",
+      "date": "2025-11-04 02:25:30",
+      "importance": 2,
+      "category": "mobilní procesory",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175429-wide-two_1200/Its-hard-to-believe-but-the-Exynos-2600-AP-reportedly-benchmarks-at-Apple-M5-levels.jpg",
+      "url": "/tech-news/2025-11-04/its-hard-to-believe-but-the-exynos-2600-ap-reporte/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "Apple",
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
       "title": "Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním průhlednosti Liquid Glass",
-      "description": "Apple vydal první významnou aktualizaci svých operačních systémů s novým číslem verze 26.1, která přináší vylepšení rozhraní Liquid Glass a návrat režimu Slide Over na iPadu.",
+      "description": "Apple zpřístupnil první významnou aktualizaci svých operačních systémů s novým číslováním verzí. Přináší vylepšené ovládání efektu Liquid Glass a návrat multitaskingu Slide Over na iPadu.",
       "slug": "apple-releases-ios-261-macos-261-other-updates-wit",
       "publishedAt": "2025-11-04T02:08:26+00:00",
       "date": "2025-11-04 02:08:26",
@@ -19,6 +80,26 @@
       },
       "companies": [
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung zveřejnil detaily listopadové bezpečnostní aktualizace pro rok 2025",
+      "description": "Samsung publikoval informace o listopadové bezpečnostní záplatě pro zařízení Galaxy dříve než obvykle, po dokončení většiny nasazení One UI 8.0.",
+      "slug": "samsung-monthly-updates-november-2025-security-pat",
+      "publishedAt": "2025-11-04T00:18:00+00:00",
+      "date": "2025-11-04 00:18:00",
+      "importance": 3,
+      "category": "bezpečnostní aktuali",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/06/Galaxy-A55-seamless-software-updates.jpg",
+      "url": "/tech-news/2025-11-04/samsung-monthly-updates-november-2025-security-pat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung"
       ],
       "people": []
     },
@@ -63,8 +144,8 @@
       "people": []
     },
     {
-      "title": "Apple skutečně vydává produkty v listopadu - kdy se to stalo naposledy",
-      "description": "Historický přehled listopadových uvedení produktů Apple v kontextu očekávaných novinek jako Apple TV 4K, HomePod mini 2 a AirTag 2.",
+      "title": "Apple může představit nové produkty v listopadu - historický přehled",
+      "description": "Analýza pravděpodobnosti listopadového představení nových produktů od Applu, včetně Apple TV 4K, HomePod mini 2 a AirTag 2, na základě historických dat.",
       "slug": "apple-does-launch-new-products-in-november-heres-w",
       "publishedAt": "2025-11-03T20:39:00+00:00",
       "date": "2025-11-03 20:39:00",
@@ -83,8 +164,8 @@
       "people": []
     },
     {
-      "title": "AMD po kritice zachovává plnou podporu ovladačů pro starší grafické karty Radeon",
-      "description": "AMD po vlně kritiky potvrdilo, že grafické karty s architekturami RDNA 1 a RDNA 2 budou nadále dostávat aktualizace, optimalizace a opravy chyb, nikoliv pouze údržbový režim.",
+      "title": "AMD po kritice couvá z ukončení podpory starších grafických karet Radeon",
+      "description": "AMD po vlně kritiky potvrdilo, že grafické karty s architekturami RDNA 1 a RDNA 2 budou nadále dostávat aktualizace ovladačů, optimalizace her a opravy chyb.",
       "slug": "amd-says-that-its-not-pulling-driver-support-for-o",
       "publishedAt": "2025-11-03T20:21:36+00:00",
       "date": "2025-11-03 20:21:36",
@@ -145,7 +226,7 @@
     },
     {
       "title": "AI prohlížeče dokážou obcházet placené zdi vydavatelů, ukazuje zpráva",
-      "description": "Prohlížeče s umělou inteligencí jako ChatGPT Atlas a Perplexity Comet dokážu obejít placené zdi některých vydavatelů a získat přístup k obsahu určenému pouze pro předplatitele.",
+      "description": "Prohlížeče s umělou inteligencí jako ChatGPT Atlas a Perplexity Comet dokážu obejít paywally některých vydavatelů a přistupovat k placeným článkům, což vytváří nový problém pro mediální průmysl.",
       "slug": "some-ai-browsers-can-bypass-publisher-paywalls-rep",
       "publishedAt": "2025-11-03T19:28:06+00:00",
       "date": "2025-11-03 19:28:06",
@@ -158,9 +239,7 @@
         "id": "mashable",
         "name": "Mashable"
       },
-      "companies": [
-        "Na základě poskytnutého textu (pouze nadpisu a popisu) nemohu identifikovat žádné konkrétní technologické firmy. Text zmiňuje pouze obecné termíny \"AI browsers\" a \"publisher paywalls\" bez uvedení specifických názvů firem.\n\nžádné"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -184,6 +263,24 @@
       "people": [
         "Finneas"
       ]
+    },
+    {
+      "title": "Nové umělé svaly umožní humanoidním robotům zvednout 4000násobek vlastní hmotnosti",
+      "description": "Výzkumníci vyvinuli miniaturní magnetické svaly, které kombinují vlastnosti měkkých robotů s výkonem kovových konstrukcí a dosahují extrémního poměru síly k hmotnosti.",
+      "slug": "this-new-artificial-muscle-could-let-humanoid-robo",
+      "publishedAt": "2025-11-03T18:46:22+00:00",
+      "date": "2025-11-03 18:46:22",
+      "importance": 3,
+      "category": "robotika",
+      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2025/11/andandand0017_a_strong_humanoid_robot_equipped_with_artificia_efece932-4576-4453-b6c9-5a9cf94518bc_1.png",
+      "url": "/tech-news/2025-11-03/this-new-artificial-muscle-could-let-humanoid-robo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZME Science"
+      },
+      "companies": [],
+      "people": []
     },
     {
       "title": "Apple TV představuje nové intro s hudbou od Finnease po rebrandingu",
@@ -271,8 +368,8 @@
       ]
     },
     {
-      "title": "Amazon Kanada spustil předčasné Black Friday slevy: 50 nejlepších nabídek od 8 dolarů",
-      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s až 88% slevami na elektroniku, domácí potřeby a vánoční dekorace.",
+      "title": "Amazon Kanada spustil předčasné Black Friday slevy s až 88% slevami",
+      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s tisíci produkty se slevami až 88 %, včetně elektroniky, domácích potřeb a vánočních dekorací.",
       "slug": "amazon-canadas-early-black-friday-deals-are-here-5",
       "publishedAt": "2025-11-03T17:23:06+00:00",
       "date": "2025-11-03 17:23:06",
@@ -334,7 +431,7 @@
     },
     {
       "title": "30 let vývoje Magic: The Gathering - 1. část",
-      "description": "Mark Rosewater oslavuje 30 let práce na karetní hře Magic: The Gathering retrospektivou nejvýznamnějších změn v designu hry.",
+      "description": "Mark Rosewater bilancuje 30 let práce na karetní hře Magic: The Gathering a popisuje klíčové změny v designu od roku 1995.",
       "slug": "A-30-years-part-1-magic-the-gathering",
       "publishedAt": "2025-11-03T16:11:30+00:00",
       "date": "2025-11-03 16:11:30",
@@ -372,7 +469,7 @@
     },
     {
       "title": "Fyzik diskutuje o Higgsově bosonu a jeho možném vlivu na osud vesmíru",
-      "description": "Třináct let po objevu Higgsova bosonu se fyzici na konferenci na Brown University zabývají otevřenými otázkami o této částici a jejím potenciálním vlivu na stabilitu vesmíru.",
+      "description": "Třináct let po objevu Higgsova bosonu se fyzici na konferenci na Brown University zabývají otevřenými otázkami o této částici a jejím možném vlivu na stabilitu vesmíru.",
       "slug": "physicist-discusses-the-higgs-boson-and-whether-it",
       "publishedAt": "2025-11-03T15:57:04+00:00",
       "date": "2025-11-03 15:57:04",
@@ -389,8 +486,8 @@
       "people": []
     },
     {
-      "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou AI je obrovská ztráta času",
-      "description": "Mustafa Suleyman z Microsoftu označuje výzkum vědomé umělé inteligence za absurdní a tvrdí, že AI nikdy nemůže dosáhnout skutečného lidského vědomí.",
+      "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou umělou inteligenci je ztráta času",
+      "description": "Mustafa Suleyman z Microsoftu považuje výzkum vědomé AI za absurdní. Tvrdí, že AI nikdy nemůže dosáhnout skutečného vědomí, protože jí chybí biologický základ pro emocionální zkušenost.",
       "slug": "microsoft-ai-chief-warns-pursuing-machine-consciou",
       "publishedAt": "2025-11-03T15:50:53+00:00",
       "date": "2025-11-03 15:50:53",
@@ -3591,24 +3688,6 @@
       "people": []
     },
     {
-      "title": "Samsung Internet Expands to PC With New Beta Program - Samsung Global Newsroom",
-      "description": "Samsung Electronics today announced the beta release of Samsung Internet for PC, expanding its popular mobile browser1 to desktop. Samsung Internet for PC delivers a seamless, connected browsing experience across Samsung devices and marks the first step towar…",
-      "slug": "samsung-internet-expands-to-pc-with-new-beta-progr",
-      "publishedAt": "2025-10-29T23:00:00+00:00",
-      "date": "2025-10-29 23:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/10/29191914/Samsung-Mobile-Samsung-Internet-for-PC-Expansion_thumb932.jpg",
-      "url": "/tech-news/2025-10-29/samsung-internet-expands-to-pc-with-new-beta-progr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Samsung.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "YouTube Will Use AI to Sharpen Lower-Resolution Videos on TVs - Bloomberg.com",
       "description": "Google’s YouTube will use artificial intelligence to improve the visual clarity of many low-resolution videos on its platform when viewed on TV screens, the web and mobile devices.",
       "slug": "youtube-will-use-ai-to-sharpen-lower-resolution-vi",
@@ -3663,24 +3742,6 @@
       "people": []
     },
     {
-      "title": "Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET",
-      "description": "The Galaxy phonemaker showed off a twin-hinged foldable at a Korean consumer tech show.",
-      "slug": "samsungs-wild-looking-tri-fold-phone-debuts-at-ape",
-      "publishedAt": "2025-10-29T19:00:00+00:00",
-      "date": "2025-10-29 19:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/f4a03218d51059f985b15452fee91520c17c9aeb/hub/2025/01/06/7020b74d-f5f8-4f30-933b-58f9f4c38e35/samsung-display-demo-concept-flexible-oled-5292.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-29/samsungs-wild-looking-tri-fold-phone-debuts-at-ape/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "YouTube přináší AI vylepšování videa a QR kódy pro nákupy na televizích",
       "description": "Google rozšiřuje YouTube o funkce zaměřené na sledování na velkých obrazovkách, včetně automatického zvyšování rozlišení pomocí AI a nových nástrojů pro tvůrce.",
       "slug": "tv-focused-youtube-update-brings-ai-upscaling-shop",
@@ -3721,42 +3782,6 @@
       "people": []
     },
     {
-      "title": "Sorry OnePlus, but I’m not buying your excuse for the OnePlus 15 downgrades - Android Authority",
-      "description": "OnePlus has just launched the OnePlus 15, but the company's marketing isn't fooling me when it comes to the phone's downgrades.",
-      "slug": "sorry-oneplus-but-im-not-buying-your-excuse-for-th",
-      "publishedAt": "2025-10-29T12:32:37+00:00",
-      "date": "2025-10-29 12:32:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/oneplus-15-official-sand-color-hero.jpg",
-      "url": "/tech-news/2025-10-29/sorry-oneplus-but-im-not-buying-your-excuse-for-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OnePlus 15 teardown confirms our worst fear: Major camera downgrades - Android Authority",
-      "description": "OnePlus 15 teardown reveals a larger battery, larger vapor chamber but surprising camera downgrades with all rear sensors being swapped out.",
-      "slug": "oneplus-15-teardown-confirms-our-worst-fear-major-",
-      "publishedAt": "2025-10-29T11:47:52+00:00",
-      "date": "2025-10-29 11:47:52",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/OnePlus-15-sand-dune-colorway-official-image.jpg",
-      "url": "/tech-news/2025-10-29/oneplus-15-teardown-confirms-our-worst-fear-major-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Dodge Charger Sixpack Gets Its First Mopar Makeover - Motor1.com",
       "description": "Dodge upgraded its Charger Sixpack for SEMA with a Styker Purple paint job and a host of visual and performance upgrades.",
       "slug": "the-dodge-charger-sixpack-gets-its-first-mopar-mak",
@@ -3770,24 +3795,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Motor1 "
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Please stop using AI browsers - XDA",
-      "description": "Agentic AI browsers are dangerous, and even some of the biggest browser companies think so.",
-      "slug": "please-stop-using-ai-browsers-xda",
-      "publishedAt": "2025-10-29T09:00:00+00:00",
-      "date": "2025-10-29 09:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/perplexity-comet-on-a-macbook.jpeg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-29/please-stop-using-ai-browsers-xda/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "XDA Developers"
       },
       "companies": [],
       "people": []
