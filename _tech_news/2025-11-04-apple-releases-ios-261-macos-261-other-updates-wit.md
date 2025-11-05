@@ -4,9 +4,9 @@ category: mobilní systémy
 companies:
 - Apple
 date: '2025-11-04 02:08:26'
-description: Apple uvolnil první významnou aktualizaci svých operačních systémů s
-  novým číslem verze 26.1, která přináší vylepšení efektu Liquid Glass, návrat režimu
-  Slide Over na iPadu a další drobné úpravy.
+description: Apple vydal první významnou aktualizaci svých operačních systémů s novým
+  číslem verze 26.1, která přináší vylepšení rozhraní Liquid Glass a návrat režimu
+  Slide Over na iPadu.
 importance: 3
 layout: tech_news_article
 original_title: Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass
@@ -17,7 +17,8 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním Liquid Glass
+title: Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním průhlednosti
+  Liquid Glass
 url: https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg
 urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg
@@ -25,29 +26,27 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-o
 
 ## Souhrn
 
-Apple vydal aktualizaci 26.1 pro všechny své operační systémy včetně iOS, iPadOS, macOS, watchOS, tvOS, visionOS a systému HomePod. Jde o první významnou aktualizaci od zářijového vydání verze 26, která přináší nové funkce a opravy chyb, zejména nové ovládání průhlednosti efektu Liquid Glass a návrat multitaskingového režimu Slide Over na iPadu.
+Apple vydal aktualizaci 26.1 pro všechny své operační systémy včetně iOS, iPadOS, macOS, watchOS, tvOS, visionOS a systému HomePod. Jde o první významnou aktualizaci od zářijového vydání, která přináší nové funkce a opravy chyb, zejména ovládání průhlednosti rozhraní Liquid Glass a návrat multitaskingového režimu Slide Over na iPadu.
 
 ## Klíčové body
 
-- Nové ovládání průhlednosti efektu Liquid Glass s možností volby mezi čirým a tónovaným vzhledem
-- Návrat aktualizovaného režimu Slide Over na iPadOS s možností přesouvání a změny velikosti okna
-- Vylepšené ovládání budíku v iOS, které vyžaduje posunutí pro vypnutí místo pouhého stisknutí tlačítka
-- Možnost zakázat gesto otevření fotoaparátu na zamykací obrazovce
-- Jednotný systém verzování založený na ročníku zavedený na podzim 2024
+- Nové ovládání průhlednosti Liquid Glass umožňuje volbu mezi čirým vzhledem a tónovaným režimem s lepší čitelností
+- iPadOS 26.1 vrací aktualizovanou verzi multitaskingového režimu Slide Over s možností přesouvání a změny velikosti okna
+- iOS přináší vylepšenou funkci budíku, kde odložení funguje tlačítkem, ale vypnutí vyžaduje posunutí
+- Možnost zakázat gesto otevření fotoaparátu na zamčené obrazovce
+- Apple přešel na nový jednotný systém číslování verzí založený na roce
 
 ## Podrobnosti
 
-Apple po několika týdnech testování uvolnil finální verze aktualizace 26.1 pro celé portfolio svých operačních systémů. Všechny platformy přešly na podzim na nový jednotný systém číslování verzí založený na ročníku, což znamená, že všechny systémy sdílejí stejné číslo hlavní verze.
+Nejvýraznější změnou napříč platformami je nové ovládání průhlednosti pro rozhraní Liquid Glass, které Apple představil v září. Uživatelé si nyní mohou vybrat mezi výchozím čirým vzhledem (Clear), který zobrazuje průhlednější skleněný efekt s větším prosvítáním obsahu pod rozhraním, nebo novým tónovaným režimem (Tinted), který poskytuje nepropustnější pozadí zobrazující pouze neurčité tvary a barvy. Tato změna reaguje na stížnosti uživatelů ohledně čitelnosti rozhraní.
 
-Nejviditelnější změnou napříč platformami je nové ovládání průhlednosti efektu Liquid Glass, který Apple představil ve verzi 26. Uživatelé si nyní mohou vybrat mezi výchozím čirým vzhledem (Clear), který umožňuje vidět více obsahu pod prvky rozhraní, a novým tónovaným režimem (Tinted), který poskytuje více neprůhledné pozadí zobrazující pouze neurčité tvary a barvy. Tato změna reaguje na stížnosti uživatelů ohledně čitelnosti rozhraní.
+Pro uživatele iPadu představuje aktualizace návrat režimu Slide Over, který byl v předchozí verzi odstraněn. Tento multitaskingový režim umožňuje rychlým posunutím vyvolat a zavřít jednotlivou aplikaci nad aktuálně používanými aplikacemi. Verze v iPadOS 26 vypadá odlišně a přináší funkční změny - přepínání mezi aplikacemi v režimu Slide Over je složitější, ale okno lze nyní přesouvat a měnit jeho velikost stejně jako u jakéhokoli jiného okna aplikace v iPadOS 26.
 
-Pro uživatele iPadu aktualizace přináší návrat režimu Slide Over, který byl v iPadOS 26 odstraněn. Tento multitaskingový režim umožňuje rychlým posunutím vyvolat jednotlivou aplikaci nad aktuálně používanými aplikacemi. Nová implementace v iPadOS 26.1 vypadá odlišně než předchozí verze a přináší funkční změny - přepínání mezi aplikacemi v režimu Slide Over je nyní složitější, ale okno lze přesouvat a měnit jeho velikost stejně jako u běžných oken aplikací v iPadOS 26.
-
-V iOS byla upravena funkce budíku tak, aby uživatelé mohli odložit buzení tlačítkem, ale pro úplné vypnutí budíku musí použít gesto posunutí. Tato změna má pomoci lidem, kteří mají tendenci mačkat tlačítka, aniž by se plně probudili. Další drobnou změnou je možnost zakázat gesto otevření fotoaparátu posunutím na zamykací obrazovce.
+V iOS Apple upravil funkci budíku tak, aby uživatelé mohli alarm odložit tlačítkem, ale pro úplné vypnutí musí použít gesto posunutí. Tato změna má pomoci lidem, kteří mají tendenci mačkat tlačítka, aniž by se plně probudili. Další novinkou je možnost zakázat gesto otevření fotoaparátu posunutím na zamčené obrazovce.
 
 ## Proč je to důležité
 
-Aktualizace 26.1 představuje typický postup Apple při vývoji operačních systémů - po zářijovém vydání hlavní verze následuje v průběhu podzimu první významná aktualizace, která reaguje na zpětnou vazbu uživatelů a opravuje problémy zjištěné v reálném provozu. Změny v ovládání Liquid Glass ukazují, že Apple naslouchá kritice ohledně čitelnosti nového designu a poskytuje uživatelům větší kontrolu nad vzhledem systému. Návrat režimu Slide Over na iPadu je důležitý pro uživatele, kteří tento způsob multitaskingu preferovali a byli zklamáni jeho odstraněním ve verzi 26.
+Aktualizace 26.1 ukazuje, jak Apple reaguje na zpětnou vazbu uživatelů po vydání hlavních verzí operačních systémů. Změny v ovládání průhlednosti Liquid Glass a návrat režimu Slide Over naznačují, že společnost je ochotna upravit své designové rozhodnutí na základě praktického používání. Přechod na jednotný systém číslování verzí založený na roce napříč všemi platformami zjednodušuje orientaci v aktualizacích a sjednocuje ekosystém Apple. Jde o typickou první významnou aktualizaci po hlavním vydání, která ladí nové funkce a odstraňuje počáteční problémy.
 
 ---
 

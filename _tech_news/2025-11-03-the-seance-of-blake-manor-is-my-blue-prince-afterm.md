@@ -1,8 +1,8 @@
 ---
 category: herní průmysl
 date: '2025-11-03 14:36:00'
-description: Osobní dojmy autora z detektivní puzzle hry The Seance of Blake Manor,
-  která ho zaujala více než populární Blue Prince.
+description: Osobní dojmy autora z detektivní hry The Seance of Blake Manor, která
+  se pro něj stala návykovou alternativou k populární hře Blue Prince.
 importance: 2
 layout: tech_news_article
 original_title: The Seance Of Blake Manor Is My Blue Prince - aftermath.site
@@ -18,13 +18,13 @@ urlToImage: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/1
 urlToImageBackup: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png
 ---
 
-Článek představuje subjektivní herní dojmy autora Rileyho MacLeoda z detektivní puzzle hry The Seance of Blake Manor od studia Spooky Door. Autor přiznává, že zatímco populární hra Blue Prince ho neuchvátila natolik, aby ji dohrál, The Seance of Blake Manor se stala jeho obsesí.
+Článek představuje subjektivní herní dojmy autora Rileyho MacLeoda z detektivní puzzle hry The Seance of Blake Manor od studia Spooky Door. Autor přiznává, že na rozdíl od většiny hráčů nedokázal dokončit populární hru Blue Prince, protože ho dostatečně nezaujala. Místo toho našel svou "posedlost" v The Seance of Blake Manor.
 
-Hra zasazená do Irska 90. let 19. století staví hráče do role detektiva Declana Warda, který vyšetřuje zmizení ženy jménem Evelyn Deane v tajemném panském sídle. Rozmanitá skupina hostů se zde sešla na spiritistickou seanci a každý z nich má motiv ublížit zmizelé ženě. Hráč má víkend na vyřešení případu před nedělní seancí.
+Hra se odehrává v Irsku 90. let 19. století, kde hráč v roli detektiva Declana Warda vyšetřuje zmizení ženy jménem Evelyn Deane v tajemném panském sídle. Hlavní mechanika spočívá v časově omezeném vyšetřování - hráč má víkend do nedělní seance na vyřešení případu. Čas plyne pouze při konkrétních akcích jako vyšetřování předmětů, výslechy hostů nebo účast na společenských událostech.
 
-Časový limit vytváří tlak, ale čas plyne pouze při konkrétních akcích jako zkoumání předmětů, výslechy hostů nebo účast na společných aktivitách. Klíčem k úspěchu je sestavení rozvrhu víkendových aktivit a pohybu jednotlivých postav, což umožňuje například prohledávat pokoje hostů, když nejsou přítomni.
+Klíčovým herním prvkem je sestavení rozvrhu aktivit a pohybu jednotlivých postav, což umožňuje strategické plánování vyšetřování včetně vloupání do pokojů hostů. Každá postava má vlastní příběh, motiv a vztahy s ostatními.
 
-Jde o typický subjektivní herní článek bez širšího průmyslového dopadu, zaměřený na osobní preference autora v žánru puzzle her.
+Jedná se o typický subjektivní herní článek zaměřený na osobní zážitek autora, nikoli o zpravodajství z herního průmyslu. Chybí informace o vydavateli, datu vydání, platformách či jiných objektivních parametrech hry.
 
 ---
 

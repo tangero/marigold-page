@@ -3,7 +3,7 @@ category: cestovní ruch
 date: '2025-11-03 14:00:00'
 description: Big Sky Resort v Montaně disponuje 5 850 akry sjezdovek, luxusními hotely
   a pokročilou infrastrukturou lanovek. Pro sezónu 2025-2026 plánuje otevření nového
-  luxusního resortu One&Only.
+  resortu One&Only.
 importance: 1
 layout: tech_news_article
 original_title: This Uncrowded Ski Resort Has Heated Lifts and a Scenic Tram With
@@ -21,11 +21,11 @@ urlToImage: https://www.travelandleisure.com/thmb/rzTQcJmDkTe0Ld9-6XwL_Wfjb5I=/1
 urlToImageBackup: https://www.travelandleisure.com/thmb/rzTQcJmDkTe0Ld9-6XwL_Wfjb5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-big-sky-montana-BIGSKYMM0325-3fd1c225b1d6476593f127680e773439.jpg
 ---
 
-Big Sky Resort v Montaně představuje lyžařské středisko s rozlohou 5 850 akrů sjezdovek a pokročilou infrastrukturou zahrnující pět kabinových lanovek, z nichž čtyři jsou vyhřívané. Středisko je jediné v Severní Americe s dvěma osmimístnými lanovkami. Průměrná hustota je více než jeden akr na lyžaře, což zajišťuje nekomplikované lyžování bez front.
+Big Sky Resort v Montaně představuje lyžařské středisko s rozlohou 5 850 akrů sjezdovek a pokročilou infrastrukturou zahrnující pět kabinových lanovek, z nichž čtyři jsou vyhřívané. Středisko je jediné v Severní Americe s dvěma osmimístnými lanovkami. V průměru připadá více než jeden akr na lyžaře, což zajišťuje nekomplikované lyžování bez davů.
 
-Nabídka zahrnuje tratě od trojitých černých diamantů až po terén pro začátečníky a středně pokročilé lyžaře, kteří tvoří 50 procent cílové skupiny. Z vrcholu Lone Peak Tram je za jasného počasí vidět tři státy a dva národní parky. Vyhlídková jízda a nová prosklená vyhlídková platforma ve výšce přes 11 000 stop jsou přístupné i nelyžařům.
+Nabídka zahrnuje tratě od trojitých černých diamantů až po terén pro začátečníky a středně pokročilé lyžaře, kteří tvoří 50 procent cílové skupiny. Z vrcholu Lone Peak Tram je za jasného počasí vidět tři státy a dva národní parky. Nová celoprůhledná vyhlídková platforma ve výšce přes 11 000 stop je přístupná i nelyžařům.
 
-Pro sezónu 2025-2026 se připravuje otevření prvního amerického resortu značky One&Only s názvem Moonlight Basin a nové gastronomické koncepty od uznávaných šéfkuchařů Granta Achatze a dalších. Středisko již nyní nabízí luxusní ubytování včetně hotelu Montage Big Sky a stravování založené na lokálních surovinách.
+Pro sezónu 2025-2026 se plánuje otevření prvního amerického resortu One&Only Moonlight Basin a nové gastronomické koncepty od kuchařů Granta Achatze a dalších. Středisko již nyní nabízí ubytování v luxusním hotelu Montage Big Sky a stravování založené na místních surovinách.
 
 ---
 

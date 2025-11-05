@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-05T08:27:24.916008+00:00",
+  "generated": "2025-11-05T12:31:14.899216+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním Liquid Glass",
-      "description": "Apple uvolnil první významnou aktualizaci svých operačních systémů s novým číslem verze 26.1, která přináší vylepšení efektu Liquid Glass, návrat režimu Slide Over na iPadu a další drobné úpravy.",
+      "title": "Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním průhlednosti Liquid Glass",
+      "description": "Apple vydal první významnou aktualizaci svých operačních systémů s novým číslem verze 26.1, která přináší vylepšení rozhraní Liquid Glass a návrat režimu Slide Over na iPadu.",
       "slug": "apple-releases-ios-261-macos-261-other-updates-wit",
       "publishedAt": "2025-11-04T02:08:26+00:00",
       "date": "2025-11-04 02:08:26",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Starší termostaty Nest lze oživit pomocí open-source projektu",
-      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil nástroj, který jim vrací funkčnost prostřednictvím alternativní platformy.",
+      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil řešení, které jim vrací funkčnost prostřednictvím alternativní platformy.",
       "slug": "google-pulled-the-plug-on-nest-thermostats-but-you",
       "publishedAt": "2025-11-03T22:07:00+00:00",
       "date": "2025-11-03 22:07:00",
@@ -83,8 +83,8 @@
       "people": []
     },
     {
-      "title": "AMD po kritice vrací podporu ovladačů pro starší grafické karty Radeon",
-      "description": "AMD po vlně kritiky zrušilo plány na omezení podpory GPU s architekturami RDNA 1 a RDNA 2, které zahrnují i karty prodávané až do roku 2022.",
+      "title": "AMD po kritice zachovává plnou podporu ovladačů pro starší grafické karty Radeon",
+      "description": "AMD po vlně kritiky potvrdilo, že grafické karty s architekturami RDNA 1 a RDNA 2 budou nadále dostávat aktualizace, optimalizace a opravy chyb, nikoliv pouze údržbový režim.",
       "slug": "amd-says-that-its-not-pulling-driver-support-for-o",
       "publishedAt": "2025-11-03T20:21:36+00:00",
       "date": "2025-11-03 20:21:36",
@@ -123,8 +123,8 @@
       "people": []
     },
     {
-      "title": "Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhone 17",
-      "description": "Google hlásí 28% meziroční nárůst prodejů řady Pixel v září 2025 a dosáhl tak nejvyšších měsíčních prodejů v historii značky.",
+      "title": "Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhonu 17",
+      "description": "Google hlásí 28% meziroční nárůst prodejů telefonů Pixel v září 2025 a dosáhl nového měsíčního prodejního rekordu. Podíl na prémiové kategorii nad 600 dolarů vzrostl na 6,1 %.",
       "slug": "pixel-10-is-a-hit-in-the-us-with-googles-new-singl",
       "publishedAt": "2025-11-03T19:30:00+00:00",
       "date": "2025-11-03 19:30:00",
@@ -145,7 +145,7 @@
     },
     {
       "title": "AI prohlížeče dokážou obcházet placené zdi vydavatelů, ukazuje zpráva",
-      "description": "Nové AI prohlížeče jako ChatGPT Atlas a Perplexity Comet dokážu obejít placené zdi některých vydavatelů a přistupovat k obsahu určenému pouze pro předplatitele.",
+      "description": "Prohlížeče s umělou inteligencí jako ChatGPT Atlas a Perplexity Comet dokážu obejít placené zdi některých vydavatelů a získat přístup k obsahu určenému pouze pro předplatitele.",
       "slug": "some-ai-browsers-can-bypass-publisher-paywalls-rep",
       "publishedAt": "2025-11-03T19:28:06+00:00",
       "date": "2025-11-03 19:28:06",
@@ -248,8 +248,8 @@
       "people": []
     },
     {
-      "title": "Elon Musk navrhuje blokování slunečního záření satelity jako řešení klimatické krize",
-      "description": "Majitel SpaceX a největší satelitní společnosti na světě navrhuje použití konstelace satelitů pro řízení množství slunečního záření dopadajícího na Zemi. Experti varují před nereálností a nebezpečností tohoto přístupu.",
+      "title": "Elon Musk navrhuje blokování slunečního záření pomocí satelitů",
+      "description": "Majitel SpaceX a největší satelitní společnosti na světě navrhuje použití konstelace satelitů pro řízení množství slunečního záření dopadajícího na Zemi jako řešení klimatické krize.",
       "slug": "elon-musk-wants-to-block-out-the-sun-gizmodo",
       "publishedAt": "2025-11-03T17:25:20+00:00",
       "date": "2025-11-03 17:25:20",
@@ -263,8 +263,8 @@
         "name": "Gizmodo.com"
       },
       "companies": [
-        "Na základě poskytnutého textu (nadpis a popis) nemohu identifikovat žádné konkrétní technologické firmy podle jejich názvu. Je zmíněn Elon Musk a \"největší satelitní společnost na světě\" (pravděpodobně SpaceX/Starlink)",
-        "ale není explicitně pojmenována.\n\nPokud mám být striktní a uvá"
+        "Na základě poskytnutého textu (nadpis a popis) nemohu identifikovat žádné konkrétní technologické firmy přímo zmíněné názvem. Text odkazuje na \"největší satelitní společnost na světě\" a jejího CEO Elona Muska",
+        "ale firma není explicitně pojmenována v poskytnutém úryvku.\n\nžádné"
       ],
       "people": [
         "Elon Musk"
@@ -272,7 +272,7 @@
     },
     {
       "title": "Amazon Kanada spustil předčasné Black Friday slevy: 50 nejlepších nabídek od 8 dolarů",
-      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s tisíci položkami se slevami až 88 %. Nabídka zahrnuje elektroniku, domácí potřeby a vánoční dekorace.",
+      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s až 88% slevami na elektroniku, domácí potřeby a vánoční dekorace.",
       "slug": "amazon-canadas-early-black-friday-deals-are-here-5",
       "publishedAt": "2025-11-03T17:23:06+00:00",
       "date": "2025-11-03 17:23:06",
@@ -334,7 +334,7 @@
     },
     {
       "title": "30 let vývoje Magic: The Gathering - 1. část",
-      "description": "Mark Rosewater vzpomíná na 30 let práce na karetní hře Magic: The Gathering a popisuje klíčové změny v designu hry.",
+      "description": "Mark Rosewater oslavuje 30 let práce na karetní hře Magic: The Gathering retrospektivou nejvýznamnějších změn v designu hry.",
       "slug": "A-30-years-part-1-magic-the-gathering",
       "publishedAt": "2025-11-03T16:11:30+00:00",
       "date": "2025-11-03 16:11:30",
@@ -372,7 +372,7 @@
     },
     {
       "title": "Fyzik diskutuje o Higgsově bosonu a jeho možném vlivu na osud vesmíru",
-      "description": "Třináct let po objevu Higgsova bosonu v urychlovači LHC se fyzici stále zabývají fundamentálními otázkami o této částici a jejím vlivu na stabilitu vesmíru.",
+      "description": "Třináct let po objevu Higgsova bosonu se fyzici na konferenci na Brown University zabývají otevřenými otázkami o této částici a jejím potenciálním vlivu na stabilitu vesmíru.",
       "slug": "physicist-discusses-the-higgs-boson-and-whether-it",
       "publishedAt": "2025-11-03T15:57:04+00:00",
       "date": "2025-11-03 15:57:04",
@@ -389,8 +389,8 @@
       "people": []
     },
     {
-      "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou umělou inteligenci je ztráta času",
-      "description": "Mustafa Suleyman z Microsoftu označil výzkum vědomé AI za absurdní. Podle něj AI nikdy nedosáhne lidského vědomí, protože jí chybí biologický základ pro skutečné emocionální prožitky.",
+      "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou AI je obrovská ztráta času",
+      "description": "Mustafa Suleyman z Microsoftu označuje výzkum vědomé umělé inteligence za absurdní a tvrdí, že AI nikdy nemůže dosáhnout skutečného lidského vědomí.",
       "slug": "microsoft-ai-chief-warns-pursuing-machine-consciou",
       "publishedAt": "2025-11-03T15:50:53+00:00",
       "date": "2025-11-03 15:50:53",
@@ -433,8 +433,8 @@
       "people": []
     },
     {
-      "title": "LinkedIn začíná používat příspěvky uživatelů k trénování AI modelů, jak odhlásit",
-      "description": "Microsoft rozšiřuje využívání dat z LinkedIn profilů a příspěvků k trénování umělé inteligence i v Evropě a dalších regionech. Uživatelé jsou automaticky přihlášeni, ale mohou se odhlásit.",
+      "title": "LinkedIn začíná využívat příspěvky uživatelů k trénování AI modelů – jak se odhlásit",
+      "description": "Microsoft rozšiřuje využívání dat z LinkedInu pro trénování umělé inteligence do Evropy a dalších regionů. Uživatelé jsou automaticky zapojeni, ale mohou se odhlásit.",
       "slug": "security-bite-linkedin-is-now-using-your-humble-po",
       "publishedAt": "2025-11-03T15:36:00+00:00",
       "date": "2025-11-03 15:36:00",
@@ -455,8 +455,8 @@
       "people": []
     },
     {
-      "title": "iOS 27 údajně přinese zásadní vylepšení Apple Intelligence",
-      "description": "Podle zprávy Marka Gurmana z Bloombergu má iOS 27 obsahovat významné aktualizace umělé inteligence Apple Intelligence, detaily však zatím chybí.",
+      "title": "iOS 27 údajně přinese zásadní aktualizace Apple Intelligence",
+      "description": "Podle zpráv Marka Gurmana z Bloombergu má iOS 27 obsahovat významné vylepšení umělé inteligence Apple Intelligence, přestože konkrétní detaily zatím chybí.",
       "slug": "ios-27-will-have-major-updates-to-apple-intelligen",
       "publishedAt": "2025-11-03T15:36:00+00:00",
       "date": "2025-11-03 15:36:00",
@@ -475,13 +475,13 @@
       "people": []
     },
     {
-      "title": "Microsoft: Záplata kritické zranitelnosti WSUS vyřadila hotpatching na Windows Server 2025",
-      "description": "Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně zneužívanou kritickou zranitelnost ve Windows Server Update Service, způsobila výpadek funkce hotpatching na některých serverech s Windows Server 2025.",
+      "title": "Microsoft: Záplata kritické chyby WSUS vyřadila hotpatching na Windows Server 2025",
+      "description": "Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně zneužívanou zranitelnost ve Windows Server Update Service, způsobila výpadek funkce hotpatching na některých serverech Windows Server 2025.",
       "slug": "microsoft-patch-for-wsus-flaw-disabled-windows-ser",
       "publishedAt": "2025-11-03T15:22:12+00:00",
       "date": "2025-11-03 15:22:12",
       "importance": 4,
-      "category": "bezpečnostní aktuali",
+      "category": "kybernetická bezpečn",
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg",
       "url": "/tech-news/2025-11-03/microsoft-patch-for-wsus-flaw-disabled-windows-ser/",
       "source": {
@@ -496,7 +496,7 @@
     },
     {
       "title": "Best Buy spouští předčasné Black Friday výprodeje s výraznými slevami na Apple produkty",
-      "description": "Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje s výraznými slevami na produkty Apple včetně iPadů, MacBooků a příslušenství. Akce potrvá do 29. listopadu.",
+      "description": "Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje s nabídkou slev na produkty Apple, elektroniku a další zboží. Akce potrvá do 29. listopadu.",
       "slug": "best-buy-reveals-black-friday-plans-with-sitewide-",
       "publishedAt": "2025-11-03T15:05:53+00:00",
       "date": "2025-11-03 15:05:53",
@@ -536,7 +536,7 @@
     },
     {
       "title": "The Seance of Blake Manor jako alternativa k Blue Prince",
-      "description": "Osobní dojmy autora z detektivní puzzle hry The Seance of Blake Manor, která ho zaujala více než populární Blue Prince.",
+      "description": "Osobní dojmy autora z detektivní hry The Seance of Blake Manor, která se pro něj stala návykovou alternativou k populární hře Blue Prince.",
       "slug": "the-seance-of-blake-manor-is-my-blue-prince-afterm",
       "publishedAt": "2025-11-03T14:36:00+00:00",
       "date": "2025-11-03 14:36:00",
@@ -554,7 +554,7 @@
     },
     {
       "title": "Lyžařské středisko Big Sky v Montaně nabízí vyhřívané lanovky a výhledy na tři státy",
-      "description": "Big Sky Resort v Montaně disponuje 5 850 akry sjezdovek, luxusními hotely a pokročilou infrastrukturou lanovek. Pro sezónu 2025-2026 plánuje otevření nového luxusního resortu One&Only.",
+      "description": "Big Sky Resort v Montaně disponuje 5 850 akry sjezdovek, luxusními hotely a pokročilou infrastrukturou lanovek. Pro sezónu 2025-2026 plánuje otevření nového resortu One&Only.",
       "slug": "this-uncrowded-ski-resort-has-heated-lifts-and-a-s",
       "publishedAt": "2025-11-03T14:00:00+00:00",
       "date": "2025-11-03 14:00:00",

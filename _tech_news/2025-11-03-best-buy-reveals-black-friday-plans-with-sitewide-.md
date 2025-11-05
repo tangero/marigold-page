@@ -5,8 +5,8 @@ companies:
 - Best Buy
 date: '2025-11-03 15:05:53'
 description: Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday
-  výprodeje s výraznými slevami na produkty Apple včetně iPadů, MacBooků a příslušenství.
-  Akce potrvá do 29. listopadu.
+  výprodeje s nabídkou slev na produkty Apple, elektroniku a další zboží. Akce potrvá
+  do 29. listopadu.
 importance: 3
 layout: tech_news_article
 original_title: Best Buy Reveals Black Friday Plans With Sitewide Sales Available
@@ -26,29 +26,29 @@ urlToImageBackup: https://images.macrumors.com/t/-aDjUl38v4J6LqydD6kyFUXeI5I=/25
 
 ## Souhrn
 
-Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje s výraznými slevami na produkty Apple a další elektroniku. Akce začala o víkendu a potrvá s různými fázemi až do Cyber Monday 1. prosince. Mezi nejvýraznější slevy patří iPad mini 7 za 399 dolarů (sleva 100 dolarů) a MacBook Pro s čipem M4 za 1 399 dolarů (sleva 100 dolarů).
+Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje s nabídkou slev na širokou škálu elektroniky včetně produktů Apple. Akce začala koncem října a bude pokračovat v několika vlnách až do Cyber Monday 1. prosince. Slevy zahrnují iPady, MacBooky a další příslušenství s úsporami až 200 dolarů.
 
 ## Klíčové body
 
-- Předčasné Black Friday výprodeje probíhají od 31. října do 19. listopadu, následuje hlavní Black Friday výprodej od 20. do 29. listopadu
-- iPad mini 7. generace je dostupný se slevou 100 dolarů za 399 dolarů
-- MacBook Air s čipem M2 (256 GB) je k dispozici za 679,99 dolarů, což představuje slevu 119 dolarů
-- MacBook Pro s čipem M4 (16 GB RAM, 512 GB) je v prodeji za 1 399 dolarů se slevou 100 dolarů
-- Některé slevy vyžadují členství My Best Buy Plus nebo Total za 49,99 dolarů ročně
+- Předčasné Black Friday výprodeje probíhají od 31. října do 19. listopadu
+- Oficiální Black Friday výprodej začne 20. listopadu a potrvá do 29. listopadu
+- iPad mini 7. generace je dostupný za 399 dolarů (sleva 100 dolarů)
+- MacBook Air s čipem M4 nabízí slevu 200 dolarů (13palcový model za 799 dolarů)
+- Některé slevy vyžadují členství My Best Buy Plus za 49,99 dolarů ročně
 
 ## Podrobnosti
 
-Best Buy strukturoval své Black Friday výprodeje do tří fází. První fáze s předčasnými slevami probíhá od 31. října do 19. listopadu, přičemž každý pátek v listopadu budou přidávány nové nabídky. Hlavní Black Friday výprodej začne 20. listopadu a potrvá do 29. listopadu. Závěrečná fáze Cyber Monday proběhne 30. listopadu až 1. prosince.
+Best Buy strukturoval letošní Black Friday do tří hlavních fází. První vlna předčasných slev začala již 31. října a potrvá do 19. listopadu, přičemž každý pátek v listopadu přibydou nové nabídky. Hlavní Black Friday výprodej pak oficiálně začne 20. listopadu a bude trvat až do 29. listopadu. Akce zakončí Cyber Monday výprodej 30. listopadu a 1. prosince.
 
-Mezi produkty Apple v akci patří základní iPad 11. generace za 299 dolarů (sleva 50 dolarů), iPad mini 7 za 399 dolarů (sleva 100 dolarů) a několik variant MacBooků. MacBook Air s 13palcovou obrazovkou a čipem M2 je dostupný za 679,99 dolarů, zatímco novější modely s čipem M4 nabízejí slevy 200 dolarů - 13palcová verze za 799 dolarů a 15palcová za 999 dolarů.
+Mezi nejvýraznější nabídky patří iPad 11. generace za 299 dolarů (sleva 50 dolarů) a iPad mini 7. generace za 399 dolarů (sleva 100 dolarů). U notebooků MacBook Air nabízí Best Buy 13palcový model s čipem M2 a 256GB úložištěm za 679,99 dolarů, což představuje slevu 119 dolarů. Nové modely s čipem M4 jsou dostupné s úsporou 200 dolarů - 13palcový za 799 dolarů a 15palcový za 999 dolarů.
 
-U MacBooků Pro s čipem M4 jsou slevy konzistentnějších 100 dolarů napříč různými konfiguracemi. Model se 16 GB RAM a 512 GB úložištěm stojí 1 399 dolarů, verze s 1 TB úložištěm 1 599 dolarů a nejvýkonnější varianta s 24 GB RAM a 1 TB úložištěm 1 799 dolarů.
+Profesionální řada MacBook Pro s čipem M4 nabízí slevy 100 dolarů napříč konfiguracemi. Model se 16GB RAM a 512GB úložištěm stojí 1 399 dolarů, varianta s 1TB je za 1 599 dolarů a nejvýkonnější konfigurace s 24GB RAM a 1TB úložištěm za 1 799 dolarů.
 
-Mezi další zlevněné produkty patří čtyřbalení AirTag za 64,99 dolarů (sleva 34 dolarů) a Apple Pencil Pro za 99 dolarů (sleva 30 dolarů). Některé z těchto slev jsou vyhrazeny pouze pro členy programu My Best Buy Plus nebo Total, který za 49,99 dolarů ročně nabízí bezplatnou dvoudenní dopravu, exkluzivní slevy a prodlouženou 60denní lhůtu pro vrácení zboží.
+Další zajímavé nabídky zahrnují balení čtyř Apple AirTag za 64,99 dolarů (sleva 34 dolarů) a Apple Pencil Pro za 99 dolarů (sleva 30 dolarů). Některé z těchto slev jsou vyhrazeny pouze pro členy programu My Best Buy Plus, který za roční poplatek 49,99 dolarů nabízí dopravu zdarma do dvou dnů, exkluzivní slevy a prodlouženou 60denní lhůtu pro vrácení zboží.
 
 ## Proč je to důležité
 
-Předčasné Black Friday výprodeje se staly standardem v americkém maloobchodě, přičemž řetězce jako Best Buy zahajují akce již měsíc před samotným Black Friday. Pro zákazníky to znamená možnost získat produkty Apple za výhodné ceny bez nutnosti čekat na tradiční nákupní šílenství poslední listopadový pátek. Slevy na nové MacBooky s čipem M4, které Apple představil teprve nedávno, jsou obzvláště zajímavé pro uživatele hledající výkonné notebooky. Strategie Best Buy s postupným přidáváním nových nabídek každý pátek má za cíl udržet zákazníky v pozornosti po celý listopad a rozložit nákupní tlak.
+Předčasné zahájení Black Friday výprodejů odráží rostoucí trend mezi maloobchodníky rozložit nápor nákupů do delšího období místo koncentrace na jeden víkend. Pro zákazníky to znamená více času na porovnání cen a nákup bez stresu z vyprodání zásob. Slevy na produkty Apple jsou zajímavé zejména u nových modelů s čipem M4, které jsou na trhu teprve krátce. Best Buy tak konkuruje přímému prodeji Apple i dalším řetězcům jako Amazon nebo Walmart v boji o zákazníky během nejdůležitějšího nákupního období roku.
 
 ---
 

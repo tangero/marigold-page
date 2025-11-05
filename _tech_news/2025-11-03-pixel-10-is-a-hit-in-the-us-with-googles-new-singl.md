@@ -5,8 +5,9 @@ companies:
 - Google
 - Apple
 date: '2025-11-03 19:30:00'
-description: Google hlásí 28% meziroční nárůst prodejů řady Pixel v září 2025 a dosáhl
-  tak nejvyšších měsíčních prodejů v historii značky.
+description: Google hlásí 28% meziroční nárůst prodejů telefonů Pixel v září 2025
+  a dosáhl nového měsíčního prodejního rekordu. Podíl na prémiové kategorii nad 600
+  dolarů vzrostl na 6,1 %.
 importance: 3
 layout: tech_news_article
 original_title: Pixel 10 is a hit in the US with Google’s new ‘single-month sales
@@ -17,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhone 17
+title: Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhonu 17
 url: http://9to5google.com/2025/11/03/pixel-10-is-a-hit-in-the-us-with-googles-new-single-month-sales-record-amid-iphone-17/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -25,31 +26,31 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google dosáhl v září 2025 rekordních prodejů smartphonů Pixel v USA s meziročním nárůstem o 28 % oproti září 2024. Jde o nejvyšší měsíční prodeje v téměř desetileté historii značky Pixel, a to i přes současné uvedení nové řady iPhone 17 od Applu.
+Google zaznamenal v září 2025 rekordní měsíční prodeje telefonů řady Pixel v USA s meziročním nárůstem o 28 % oproti září 2024. Podle dat analytické společnosti Counterpoint se podíl Googlu na prémiové kategorii telefonů nad 600 dolarů zvýšil na 6,1 %, což představuje výrazný růst z pouhých 0,1 % před třemi lety. Úspěch přichází navzdory uvedení nové řady iPhone 17 od Applu.
 
 ## Klíčové body
 
-- Prodeje Pixel v USA vzrostly v září 2025 meziročně o 28 %
-- Podíl Google na trhu prémiových zařízení nad 600 dolarů dosáhl 6,1 % (před třemi lety 0,1 %)
-- U operátora T-Mobile dosáhl Pixel 7% podíl v prémiové kategorii, u Verizonu také 7 %, u AT&T pouze 2,3 %
-- Růst přišel především na úkor Samsungu, jehož podíl klesl o 8 procentních bodů
-- Marketingová kampaň pozicionuje Pixel 10 jako zařízení zaměřená primárně na umělou inteligenci
+- Prodeje telefonů Pixel vzrostly v září 2025 meziročně o 28 % a stanovily nový měsíční rekord značky
+- Podíl Googlu na trhu prémiových telefonů nad 600 dolarů dosáhl 6,1 % oproti 0,1 % před třemi lety
+- U operátora T-Mobile dosáhl Google 7% podíl v prémiové kategorii, u Verizonu podobně 7 %, pouze AT&T zaostává s 2,3 %
+- Růst přichází především na úkor Samsungu, jehož podíl v této kategorii klesl o 8 procentních bodů
+- Marketingová kampaň Pixelu 10 staví na pozicionování jako zařízení zaměřených primárně na umělou inteligenci
 
 ## Podrobnosti
 
-Data od analytické společnosti Counterpoint ukazují výrazný posun Google na americkém trhu smartphonů. Za poslední tři roky se podíl Pixelu v segmentu prémiových zařízení nad 600 dolarů zvýšil z prakticky nulových 0,1 % na 6,1 %. Tento růst je pozoruhodný zejména v kontextu současného trhu, kde uživatelé jen zřídka přecházejí mezi výrobci, natož mezi operačními systémy.
+Data od analytické společnosti Counterpoint ukazují, že Google dosáhl významného pokroku na americkém trhu s chytrými telefony, kde tradičně dominují Apple a Samsung. Zatímco absolutní čísla stále zůstávají daleko za těmito giganty, dynamika růstu je pozoruhodná zejména v kontextu prémiového segmentu nad 600 dolarů.
 
-Zajímavé je, že úspěch Google nepřichází na úkor Applu, ale především Samsungu. Zatímco Apple si v prémiové kategorii polepšil také o 8 procentních bodů, Samsung ztratil stejné množství. To naznačuje, že Pixel láká především uživatele, kteří dříve preferovali jiné výrobce zařízení s Androidem.
+Zajímavým zjištěním je, že růst Googlu nepřichází na úkor Applu, ale především Samsungu. Zatímco podíl jihokorejského výrobce v prémiové kategorii klesl o 8 procentních bodů, Apple ve stejném období zaznamenal podobný 8% růst. To naznačuje, že uživatelé Androidu jsou ochotnější přejít mezi výrobci v rámci stejného operačního systému, než aby měnili platformu.
 
-Rozdíly mezi jednotlivými operátory jsou značné. U T-Mobile a Verizonu dosáhl Pixel 7% podílu na prémiovém trhu, zatímco zákazníci AT&T zůstávají k zařízením Google skeptičtější s pouhými 2,3 %. Google v marketingu silně akcentuje funkce umělé inteligence, což může oslovovat určitý segment zákazníků hledajících pokročilé softwarové funkce.
+Rozdíly mezi jednotlivými operátory jsou výrazné. U T-Mobile a Verizonu dosáhl Google 7% podíl na prémiovém trhu, zatímco u AT&T pouze 2,3 %. Tento rozdíl může souviset s různými marketingovými strategiemi operátorů nebo s odlišnou strukturou jejich zákaznické základny.
 
-Přestože 6-7% podíl na trhu může znít skromně ve srovnání s dominancí Applu a Samsungu, jde o významný úspěch pro Google, který dlouhodobě bojoval o relevanci na hardwarovém trhu. Růst o 28 % meziročně v době uvedení nového iPhone ukazuje, že značka Pixel si buduje stabilní základnu příznivců.
+Google v kampani k řadě Pixel 10 silně akcentuje funkce umělé inteligence, což odráží širší strategii společnosti pozicionovat své hardwarové produkty jako AI-first zařízení. Toto zaměření může oslovovat technologicky pokročilejší uživatele, kteří hledají alternativu k etablovaným značkám.
 
 ## Proč je to důležité
 
-Úspěch Pixelu 10 signalizuje postupnou diverzifikaci amerického trhu smartphonů, který byl dlouhodobě rozdělený mezi Apple a Samsung. Google se po letech pokusů daří etablovat jako třetí relevantní hráč v prémiové kategorii. To může vést k větší konkurenci a inovacím v oblasti integrace umělé inteligence do mobilních zařízení.
+Úspěch řady Pixel 10 ukazuje, že na americkém trhu existuje prostor pro třetího hráče v prémiové kategorii, i když stále relativně malý. Pro Google jde o validaci dlouhodobé strategie vývoje vlastního hardwaru a důkaz, že investice do vlastních čipů Tensor a integrace AI funkcí nachází své publikum.
 
-Pro ekosystém Androidu je pozitivní, že Google jako tvůrce operačního systému získává větší vliv prostřednictvím vlastního hardwaru. Zároveň to však může vytvářet napětí s ostatními výrobci, zejména Samsungem, který ztrácí podíl. Dlouhodobě může silnější pozice Pixelu znamenat rychlejší zavádění nových funkcí Androidu a lepší optimalizaci mezi hardwarem a softwarem.
+Z širšího pohledu je zajímavé, že růst přichází především na úkor Samsungu, což může signalizovat změnu preferencí uživatelů Androidu směrem k čistější verzi systému a těsnější integraci s ekosystémem Google služeb. Pro Samsung to představuje výzvu v segmentu, kde tradičně dominoval jako hlavní prémiová alternativa k iPhonu.
 
 ---
 

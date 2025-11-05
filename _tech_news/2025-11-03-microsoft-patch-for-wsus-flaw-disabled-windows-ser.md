@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: bezpečnostní aktuali
+category: kybernetická bezpečn
 companies:
 - Microsoft
 date: '2025-11-03 15:22:12'
 description: Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně
-  zneužívanou kritickou zranitelnost ve Windows Server Update Service, způsobila výpadek
-  funkce hotpatching na některých serverech s Windows Server 2025.
+  zneužívanou zranitelnost ve Windows Server Update Service, způsobila výpadek funkce
+  hotpatching na některých serverech Windows Server 2025.
 importance: 4
 layout: tech_news_article
 original_title: 'Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching
@@ -17,8 +17,8 @@ source:
   emoji: 📰
   id: null
   name: BleepingComputer
-title: 'Microsoft: Záplata kritické zranitelnosti WSUS vyřadila hotpatching na Windows
-  Server 2025'
+title: 'Microsoft: Záplata kritické chyby WSUS vyřadila hotpatching na Windows Server
+  2025'
 url: https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/
 urlToImage: https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg
 urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg
@@ -26,31 +26,33 @@ urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2024/05/16/Windo
 
 ## Souhrn
 
-Microsoft vydal mimořádnou bezpečnostní aktualizaci KB5070881, která opravuje kritickou zranitelnost CVE-2025-59287 ve Windows Server Update Service (WSUS) aktivně zneužívanou útočníky. Aktualizace však způsobila nečekaný problém – vyřadila funkci hotpatching na části serverů s Windows Server 2025, což znamená, že tyto systémy budou muset být pro instalaci bezpečnostních aktualizací restartovány.
+Microsoft vydal mimořádnou bezpečnostní aktualizaci KB5070881, která opravuje kritickou zranitelnost CVE-2025-59287 ve Windows Server Update Service (WSUS) aktivně zneužívanou útočníky. Záplata však způsobila nečekaný problém – vyřadila funkci hotpatching na části serverů Windows Server 2025, které byly do tohoto programu zapojeny.
 
 ## Klíčové body
 
-- Mimořádná aktualizace KB5070881 opravuje zranitelnost CVE-2025-59287 umožňující vzdálené spuštění kódu (RCE) ve službě WSUS
+- Aktualizace KB5070881 opravuje kritickou zranitelnost CVE-2025-59287 umožňující vzdálené spuštění kódu (RCE) ve službě WSUS
 - Zranitelnost je aktivně zneužívána útočníky a existuje veřejně dostupný proof-of-concept exploit
-- Aktualizace způsobila ztrátu registrace k hotpatchingu u omezeného počtu Windows Server 2025 systémů
-- Americká agentura CISA přidala zranitelnost do katalogu aktivně zneužívaných bezpečnostních chyb a nařídila vládním agenturám okamžité zabezpečení
-- Sledovací skupina Shadowserver identifikovala přes 2 600 WSUS instancí vystavených na internetu s výchozími porty 8530/8531
+- Záplata způsobila ztrátu hotpatch enrollmentu na omezeném počtu Windows Server 2025 systémů
+- Microsoft zastavil distribuci aktualizace na servery s aktivním hotpatchingem
+- Organizace Shadowserver sleduje přes 2 600 WSUS instancí vystavených na internetu s výchozími porty 8530/8531
 
 ## Podrobnosti
 
-Zranitelnost CVE-2025-59287 představuje vážné bezpečnostní riziko pro Windows Server Update Service, který slouží k centralizované správě a distribuci aktualizací Windows v podnikových sítích. Několik bezpečnostních společností potvrdilo aktivní zneužívání této chyby v reálných útocích, což vedlo Microsoft k vydání mimořádné aktualizace ještě před pravidelným měsíčním cyklem záplat.
+Zranitelnost CVE-2025-59287 představuje vážné bezpečnostní riziko pro organizace využívající Windows Server Update Service – centralizovanou službu pro správu a distribuci aktualizací Windows v podnikových sítích. Několik bezpečnostních společností potvrdilo aktivní zneužívání této chyby v reálných útocích, což vedlo k vydání mimořádné záplaty mimo standardní měsíční cyklus aktualizací.
 
-Nizozemské národní centrum kybernetické bezpečnosti (NCSC-NL) varovalo administrátory IT před zvýšeným rizikem, zejména kvůli dostupnosti veřejného proof-of-concept exploitu. Americká agentura CISA následně zařadila zranitelnost do svého katalogu známých zneužívaných bezpečnostních chyb a nařídila federálním agenturám okamžité nasazení záplaty.
+Nizozemské národní centrum kybernetické bezpečnosti (NCSC-NL) varovalo správce IT infrastruktury před zvýšeným rizikem, zejména kvůli dostupnosti veřejného exploitu. Americká agentura CISA (Cybersecurity and Infrastructure Security Agency) následně přidala zranitelnost do svého katalogu bezpečnostních chyb zneužívaných v útocích a nařídila federálním agenturám okamžité zabezpečení systémů.
 
-Nečekaným vedlejším efektem aktualizace KB5070881 je však narušení funkce hotpatching na Windows Server 2025. Hotpatching umožňuje instalaci bezpečnostních aktualizací bez nutnosti restartu serveru, což je klíčová funkce pro kritické systémy vyžadující nepřetržitý provoz. Microsoft potvrdil, že omezený počet serverů registrovaných k hotpatchingu ztratil po instalaci aktualizace svůj registrační status.
+Hotpatching je funkce Windows Server 2025 umožňující instalaci bezpečnostních aktualizací bez nutnosti restartování serveru, což je zásadní pro provoz kritických služeb vyžadujících nepřetržitou dostupnost. Microsoft v aktualizované dokumentaci k KB5070881 přiznává, že omezený počet serverů zapojených do programu hotpatching ztratil po instalaci záplaty svůj enrollment status.
 
-Společnost problém rychle identifikovala a upravila distribuci aktualizace tak, aby se již nenabízela systémům s aktivním hotpatchingem. Postižené servery však nebudou v listopadu a prosinci dostávat hotpatch aktualizace a místo toho obdrží standardní měsíční bezpečnostní záplaty vyžadující restart.
+Postižené servery nebudou v listopadu a prosinci 2025 dostávat hotpatch aktualizace a místo toho jim budou nabídnuty standardní měsíční bezpečnostní aktualizace vyžadující restart. Microsoft již zastavil distribuci KB5070881 na servery s aktivním hotpatchingem, problém však postihl systémy, které aktualizaci obdržely před identifikací chyby.
 
 ## Proč je to důležité
 
-Tato situace ilustruje složitý kompromis mezi bezpečností a dostupností systémů. Microsoft čelil dilema – buď okamžitě opravit aktivně zneužívanou kritickou zranitelnost s rizikem vedlejších efektů, nebo počkat na důkladnější testování a ponechat systémy zranitelné. Společnost zvolila bezpečnost, což je v kontextu aktivních útoků správné rozhodnutí.
+Tato situace ilustruje složitý kompromis mezi rychlou reakcí na aktivně zneužívané zranitelnosti a stabilitou pokročilých funkcí operačního systému. Organizace čelí dilema – buď okamžitě nainstalovat kritickou bezpečnostní záplatu a riskovat ztrátu hotpatchingu, nebo odložit aktualizaci a vystavit se riziku kompromitace přes WSUS.
 
-Pro administrátory Windows Server 2025 s hotpatchingem to znamená nutnost plánovat restarty serverů pro instalaci bezpečnostních aktualizací v následujících dvou měsících. Zároveň je kritické okamžitě nainstalovat KB5070881 na všechny WSUS servery, protože riziko aktivního zneužití zranitelnosti výrazně převyšuje dočasnou ztrátu funkce hotpatching. Přítomnost přes 2 600 potenciálně zranitelných WSUS instancí vystavených na internetu ukazuje na rozsah problému a naléhavost nasazení záplaty.
+Pro podniky využívající Windows Server 2025 s hotpatchingem jde o významný problém, protože tato funkce byla jedním z hlavních prodejních argumentů nové verze serveru. Nutnost restartů po instalaci bezpečnostních aktualizací znamená plánované výpadky služeb, což může mít dopad na dostupnost kritických aplikací a služeb.
+
+Vysoký počet WSUS instancí vystavených na internetu (přes 2 600) ukazuje na rozsah potenciálního útočného prostoru. WSUS je klíčová infrastruktura pro správu aktualizací v podnikových sítích, a její kompromitace může útočníkům poskytnout možnost distribuovat škodlivý software do celé organizace pod záminkou legitimních aktualizací.
 
 ---
 
