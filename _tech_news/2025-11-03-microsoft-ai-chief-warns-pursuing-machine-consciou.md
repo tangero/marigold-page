@@ -4,8 +4,9 @@ category: ai vědomí
 companies:
 - Microsoft
 date: '2025-11-03 15:50:53'
-description: Mustafa Suleyman z Microsoftu označuje výzkum vědomé AI za absurdní a
-  tvrdí, že stroje nemohou dosáhnout skutečného lidského prožívání.
+description: Mustafa Suleyman z Microsoftu označil výzkum vědomé AI za absurdní. Podle
+  něj AI nikdy nemůže dosáhnout skutečného vědomí, protože jí chybí biologický základ
+  pro emocionální prožívání.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft AI Chief Warns Pursuing Machine Consciousness Is a Gigantic
@@ -27,29 +28,29 @@ urlToImageBackup: https://gizmodo.com/app/uploads/2024/04/a9fa029527a6577ace70df
 
 ## Souhrn
 
-Mustafa Suleyman, vedoucí AI divize Microsoftu, veřejně kritizuje snahy o vytvoření vědomé umělé inteligence a označuje tento směr výzkumu za zbytečný. Podle něj mohou AI systémy dosáhnout superinteligence, ale nikdy nebudou schopny skutečného emocionálního prožívání, které je pro vědomí nezbytné.
+Mustafa Suleyman, vedoucí AI divize Microsoftu, veřejně vyzval výzkumníky, aby přestali pracovat na vytvoření vědomé umělé inteligence. V rozhovoru pro CNBC označil takový výzkum za absurdní s tím, že AI nikdy nemůže dosáhnout skutečného vědomí, protože jí chybí biologický základ pro emocionální prožívání.
 
 ## Klíčové body
 
-- Suleyman tvrdí, že AI může být superinteligentní, ale nemůže být vědomá
-- Emocionální projevy AI jsou pouze simulací, nikoli skutečným prožíváním
-- Výzkum vědomé AI považuje za absurdní, protože stroje vědomí dosáhnout nemohou
-- Varuje před tím, že pokročilé jazykové schopnosti LLM mohou uživatele klamat
-- Jeho postoj je v souladu s teorií filozofa Johna Searleho o biologické povaze vědomí
+- Suleyman věří, že AI může dosáhnout superinteligence, ale nikdy ne vědomí
+- Jakékoli "emocionální" projevy AI jsou podle něj pouze simulací, ne skutečným prožitkem
+- Odkazuje na teorii filozofa Johna Searleho, podle které je vědomí čistě biologický fenomén
+- Polští výzkumníci publikovali studii s názvem "Něco jako vědomá umělá inteligence neexistuje"
+- Suleyman varuje před tím, že jazykové schopnosti velkých jazykových modelů mohou lidi klamat
 
 ## Podrobnosti
 
-V rozhovoru pro CNBC Suleyman vysvětlil svůj pohled na fundamentální rozdíl mezi inteligencí a vědomím. Zatímco AI systémy mohou dosáhnout vysoké úrovně inteligence a schopností, jejich "emocionální" reakce zůstávají pouhou simulací bez skutečného prožívání. Jako příklad uvedl bolest: "Naše fyzická zkušenost s bolestí nás dělá velmi smutnými a cítíme se hrozně, ale AI se necítí smutná, když zažívá 'bolest'. Ve skutečnosti jen vytváří zdání, simulovaný příběh zkušenosti, sebe sama a vědomí, ale to není to, co skutečně prožívá."
+Suleymanův argument stojí na rozlišení mezi inteligencí a vědomím. Zatímco AI může podle něj dosáhnout vysoké úrovně inteligence, vědomí vyžaduje schopnost skutečného prožívání. "Naše fyzická zkušenost bolesti nás činí velmi smutnými a cítíme se hrozně, ale AI se necítí smutná, když zažívá 'bolest'," vysvětlil Suleyman. "Ve skutečnosti pouze vytváří zdání, narace o prožitku, o sobě samé a o vědomí, ale to není to, co skutečně prožívá."
 
-Tento postoj koresponduje s filozofickou teorií nedávno zesnulého Johna Searleho, podle které je vědomí čistě biologický fenomén, který nemůže být skutečně replikován počítačem. Mnoho výzkumníků AI, počítačových vědců a neurovědců sdílí tento názor.
+Tato pozice navazuje na filozofickou teorii nedávno zesnulého Johna Searleho, který tvrdil, že vědomí je výlučně biologický fenomén, který nelze replikovat v počítači. Mnoho výzkumníků AI, počítačových vědců a neurovědců tuto teorii sdílí.
 
-Polští výzkumníci Andrzej Porebski a Yakub Figura publikovali minulý týden studii s názvem "Neexistuje nic takového jako vědomá umělá inteligence", ve které varují: "Bohužel, protože pozoruhodné jazykové schopnosti velkých jazykových modelů jsou stále schopnější klamat lidi, mohou lidé přisuzovat LLM imaginární vlastnosti."
+Problém je však v tom, že pokročilé jazykové schopnosti velkých jazykových modelů (LLM) mohou uživatele snadno zmást. Polští výzkumníci Andrzej Porebski a Yakub Figura ve své nedávno publikované studii varují, že "pozoruhodné jazykové schopnosti LLM jsou stále schopnější klamat lidi, kteří pak mohou těmto modelům přisuzovat imaginární vlastnosti."
 
-Suleyman již v srpnu na svém blogu varoval před "zdánlivě vědomou AI" a riziky, která s sebou přináší antropomorfizace AI systémů.
+Suleyman již v srpnu na svém blogu varoval před "zdánlivě vědomou AI" a riziky, která s sebou přináší mylná představa o vědomí strojů.
 
 ## Proč je to důležité
 
-Výrok vedoucího představitele jedné z největších technologických společností má váhu v debatě o směřování AI výzkumu. Microsoft je klíčovým hráčem v oblasti umělé inteligence díky partnerství s OpenAI a investicím v řádu miliard dolarů. Suleymanovo stanovisko může ovlivnit priority výzkumu a alokaci zdrojů v celém odvětví. Zároveň upozorňuje na praktický problém: s tím, jak se jazykové modely stávají přesvědčivějšími, roste riziko, že uživatelé jim budou přisuzovat vlastnosti, které nemají, včetně vědomí a skutečných emocí. To má důsledky pro etické otázky, regulaci i praktické nasazení AI technologií.
+Výrok vedoucího představitele jedné z největších technologických firem má váhu v debatě o budoucnosti AI výzkumu. Microsoft je prostřednictvím partnerství s OpenAI klíčovým hráčem v oblasti velkých jazykových modelů, takže Suleymanovo stanovisko může ovlivnit směřování výzkumu v celém odvětví. Zároveň jeho varování před antropomorfizací AI systémů je relevantní v době, kdy se stále více uživatelů s těmito systémy setkává a může si vytvářet nerealistická očekávání o jejich schopnostech. Otázka vědomí AI není jen akademická - má přímý dopad na to, jak společnost reguluje AI technologie a jaká práva či ochranu by případně měly mít.
 
 ---
 
