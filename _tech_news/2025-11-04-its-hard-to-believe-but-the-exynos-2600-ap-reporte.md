@@ -4,8 +4,8 @@ companies:
 - Apple
 - Samsung
 date: '2025-11-04 02:25:30'
-description: Desetijádrový procesor od Samsungu vyrobený v 2nm procesu údajně dosáhl
-  impresivních výsledků v Geekbench testu, srovnatelných s čipem Apple M5.
+description: Desetijádrový procesor Samsung vyrobený v 2nm procesu má podle uniklých
+  výsledků Geekbench dosahovat impresivních hodnot, které konkurují čipům Apple M5.
 importance: 2
 layout: tech_news_article
 original_title: It's hard to believe, but the Exynos 2600 AP reportedly benchmarks
@@ -24,17 +24,19 @@ urlToImageBackup: https://m-cdn.phonearena.com/images/article/175429-wide-two_12
 
 ## Shrnutí
 
-Na sociální síti X se objevily uniklé výsledky benchmarku Geekbench 6 pro chystaný procesor Samsung Exynos 2600, který má být vyráběn v 2nm procesu. Výsledky ukazují jednojádrový výkon 4 217 bodů a vícejádrový výkon 13 482 bodů, což jsou hodnoty srovnatelné s čipem Apple M5. Jedná se však o neověřené informace z neoficiálních zdrojů.
+Na sociální síti X se objevily údajné výsledky benchmarku Geekbench 6 pro nadcházející procesor Samsung Exynos 2600, který má být vyráběn v 2nm procesu. Výsledky ukazují single-core skóre 4 217 bodů a multi-core skóre 13 482 bodů, což jsou hodnoty srovnatelné s čipy Apple M5. Jedná se však o neověřené informace z neoficiálních zdrojů.
 
-## Klíčové informace
+## Klíčové body
 
-- **Výkon**: Geekbench 6 skóre 4 217 bodů (jednojádrové), 13 482 bodů (vícejádrové)
-- **Výrobní proces**: 2nm technologie s Gate-All-Around (GAA) tranzistory
-- **Konfigurace jader**: Desetijádrový procesor v uspořádání 1+3+6 (1× 4,20 GHz, 3× 3,56 GHz, 6× 2,76 GHz)
-- **Plánované nasazení**: Řada Galaxy S26 v Evropě a Jižní Koreji, možná i model Ultra
-- **Konkurence**: V USA, Číně a Japonsku má být použit Snapdragon 8 Elite Gen 5
+- Exynos 2600 má být prvním 2nm procesorem v řadě Galaxy S26
+- Desetijádrová konfigurace využívá architekturu 1+3+6 s hlavním jádrem na 4,20 GHz
+- Uniklé skóre Geekbench 6: 4 217 bodů (single-core), 13 482 bodů (multi-core)
+- Procesor využívá GAA (Gate-All-Around) tranzistory pro lepší energetickou účinnost
+- Galaxy S26 Ultra má údajně dostat Exynos 2600 i v Evropě a Jižní Koreji
 
-Jedná se o spekulativní informace založené na uniklých benchmarcích, jejichž autenticitu nelze ověřit. Výsledky jsou výrazně lepší než předchozí úniky, které ukazovaly 3 455 bodů (jednojádrové) a 11 621 bodů (vícejádrové). GAA tranzistory mají teoreticky snižovat úniky proudu a zvyšovat energetickou efektivitu.
+## Proč je to spekulace
+
+Článek je založen výhradně na neověřených únicích informací z anonymních zdrojů na sociálních sítích. Benchmarkové výsledky nejsou oficiálně potvrzeny a mohou pocházet z raných prototypů, které se od finálních produktů často liší. Samsung ani Apple oficiálně nepotvrdili specifikace svých budoucích procesorů. Navíc srovnání s Apple M5 je čistě spekulativní, protože tento čip ještě nebyl představen ani testován. Jedná se tedy o typický příklad předčasných informací, které je třeba brát s velkou rezervou.
 
 ---
 

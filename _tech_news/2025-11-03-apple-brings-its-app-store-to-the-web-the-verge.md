@@ -6,7 +6,7 @@ companies:
 date: '2025-11-03 20:02:52'
 description: Apple představil nové webové rozhraní App Store na adrese apps.apple.com,
   které umožňuje procházet a vyhledávat aplikace pro všechna zařízení společnosti.
-  Instalace aplikací přímo z webu však není možná.
+  Stahování aplikací přímo z webu ale není možné.
 importance: 3
 layout: tech_news_article
 original_title: Apple brings its App Store to the web - The Verge
@@ -24,33 +24,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Apple spustil webovou verzi svého App Store na adrese apps.apple.com, která nabízí centrální rozhraní pro procházení aplikací napříč všemi zařízeními společnosti. Nové rozhraní nahrazuje dosavadní informační stránku, neumožňuje však přímou instalaci aplikací – uživatelé mohou aplikace pouze sdílet nebo otevřít v nativním App Store na svém zařízení.
+Apple spustil webovou verzi svého App Store na adrese apps.apple.com, která nabízí centrální rozhraní pro procházení aplikací napříč všemi zařízeními společnosti. Nové webové rozhraní nahrazuje původní informační stránku, ale neumožňuje přímou instalaci aplikací – uživatelé mohou aplikace pouze sdílet nebo otevřít v nativní aplikaci App Store na svém zařízení.
 
 ## Klíčové body
 
-- Webové rozhraní App Store je dostupné na adrese apps.apple.com s kompletně přepracovaným designem
-- Podporuje procházení aplikací pro iPhone, iPad, Mac, Vision Pro, Apple Watch a Apple TV
+- Webové rozhraní je dostupné na adrese apps.apple.com a nahrazuje původní statickou informační stránku
+- Uživatelé mohou procházet aplikace pro iPhone, iPad, Mac, Vision Pro, Apple Watch a Apple TV
 - Instalace aplikací přímo z webu není možná – pouze sdílení nebo přesměrování do nativní aplikace
-- Obsahuje sekci Today s doporučeními a třídění podle kategorií (produktivita, zábava, dobrodružství)
-- Nová vyhledávací funkce umožňuje snadnější objevování aplikací
+- Rozhraní obsahuje sekci Today s doporučeními a třídění podle kategorií (produktivita, zábava, dobrodružství)
+- Nově je k dispozici vyhledávání aplikací, které dříve fungovalo pouze přes přímé odkazy
 
 ## Podrobnosti
 
-Dosud Apple nabízel webové stránky pro jednotlivé aplikace, ty však nebyly snadno dostupné ani prohledávatelné bez přímého odkazu. Nové webové rozhraní představuje výrazné zlepšení v přístupnosti informací o aplikacích z ekosystému Apple.
+Nové webové rozhraní App Store představuje výraznou změnu v přístupu Apple k distribuci informací o aplikacích. Zatímco dříve společnost nabízela jednotlivé webové stránky pro každou aplikaci, ty nebyly snadno dostupné ani prohledávatelné bez přímého odkazu. Nové rozhraní tento problém řeší a vytváří centrální místo pro objevování aplikací.
 
-Rozhraní umožňuje přepínat mezi výpisy aplikací pro různá zařízení – od iPhonu přes iPad a Mac až po Vision Pro, Apple Watch a Apple TV. Uživatelé mohou procházet aplikace podle kategorií, což usnadňuje objevování nového softwaru podle konkrétních potřeb.
+Webová verze App Store umožňuje přepínání mezi výpisy aplikací pro různá zařízení Apple. Uživatelé tak mohou snadno procházet nabídku pro iPhone, iPad, Mac, Vision Pro, Apple Watch i Apple TV z jednoho místa. Rozhraní obsahuje sekci Today, která funguje podobně jako v nativní aplikaci a nabízí redakčně vybraná doporučení.
 
-Zajímavým omezením je absence možnosti přímé instalace. Když uživatel najde zajímavou aplikaci, může ji buď sdílet s ostatními, nebo ji otevřít přímo v App Store nainstalovaném na svém zařízení. Toto řešení je konzistentní s dosavadním přístupem Apple k distribuci aplikací, kde společnost striktně kontroluje instalační proces přes své nativní aplikace.
+Aplikace lze třídit podle kategorií, což usnadňuje hledání software podle účelu – od produktivity přes zábavu až po dobrodružné hry. Významným vylepšením je také plnohodnotné vyhledávání, které dříve na webu chybělo.
 
-Webové rozhraní obsahuje také sekci Today, která nabízí kurátorovaná doporučení podobně jako v mobilní verzi App Store. Kategorizace aplikací pokrývá široké spektrum od produktivity přes zábavu až po dobrodružné hry.
+Limitací nového rozhraní zůstává nemožnost přímé instalace aplikací. Apple nabízí pouze dvě možnosti – sdílení odkazu na aplikaci nebo otevření v nativní aplikaci App Store nainstalované na zařízení uživatele. Tento přístup je konzistentní s dlouhodobou strategií Apple udržovat kontrolu nad distribucí software prostřednictvím vlastního ekosystému.
 
 ## Proč je to důležité
 
-Spuštění webového App Store představuje posun v přístupu Apple k distribuci informací o aplikacích. Zatímco společnost tradičně preferovala uzavřený ekosystém s důrazem na nativní aplikace, webové rozhraní zpřístupňuje katalog aplikací širšímu publiku včetně uživatelů, kteří zrovna nemají po ruce zařízení Apple.
+Spuštění webové verze App Store je zajímavým krokem v kontextu rostoucího tlaku regulátorů na otevření ekosystému Apple. Zatímco společnost čelí požadavkům na umožnění alternativních obchodů s aplikacemi, zejména v Evropské unii, webové rozhraní zůstává pouze informačním portálem bez možnosti přímé distribuce.
 
-Tento krok může souviset s rostoucím tlakem regulátorů, zejména v Evropské unii, na otevření ekosystému Apple. Webové rozhraní sice neřeší požadavky na alternativní obchody s aplikacemi, ale představuje první krok k větší otevřenosti.
-
-Z praktického hlediska webový App Store usnadňuje sdílení odkazů na aplikace a jejich procházení z běžného prohlížeče, což může být užitečné při výzkumu aplikací před nákupem nebo při doporučování softwaru kolegům a přátelům.
+Pro uživatele přináší nové rozhraní především lepší dostupnost informací o aplikacích mimo zařízení Apple. Možnost procházet a vyhledávat aplikace z běžného webového prohlížeče může usnadnit objevování software před nákupem nového zařízení nebo při plánování pracovních postupů. Absence možnosti instalace však ukazuje, že Apple zatím nehodlá opustit svůj uzavřený model distribuce aplikací.
 
 ---
 
