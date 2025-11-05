@@ -1,8 +1,8 @@
 ---
-category: videohry
+category: herní průmysl
 date: '2025-11-03 14:36:00'
-description: Subjektivní recenze detektivní puzzle hry The Seance of Blake Manor od
-  autora, který nedokázal dohrát populární hru Blue Prince.
+description: Osobní dojmy autora z detektivní puzzle hry The Seance of Blake Manor,
+  která ho zaujala více než populární Blue Prince.
 importance: 2
 layout: tech_news_article
 original_title: The Seance Of Blake Manor Is My Blue Prince - aftermath.site
@@ -18,13 +18,13 @@ urlToImage: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/1
 urlToImageBackup: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png
 ---
 
-Autor Riley MacLeod popisuje svou zkušenost s detektivní puzzle hrou The Seance of Blake Manor od studia Spooky Door, kterou prezentuje jako svou osobní alternativu k všeobecně oblíbené hře Blue Prince. Zatímco Blue Prince se mu nepodařilo dohrát kvůli nedostatku motivace, The Seance of Blake Manor ho zcela pohltila.
+Článek představuje subjektivní herní dojmy autora Rileyho MacLeoda z detektivní puzzle hry The Seance of Blake Manor od studia Spooky Door. Autor přiznává, že zatímco populární hra Blue Prince ho neuchvátila natolik, aby ji dohrál, The Seance of Blake Manor se stala jeho obsesí.
 
-Hra se odehrává v Irsku 90. let 19. století, kde hráč v roli detektiva Declana Warda vyšetřuje zmizení ženy jménem Evelyn Deane v tajemném panském sídle. Rozmanitá skupina hostů se zde sešla na spiritistickou seanci a všichni mají motivy k ublížení zmizené osobě. Hráč má víkend na vyřešení případu před seancí v neděli večer.
+Hra zasazená do Irska 90. let 19. století staví hráče do role detektiva Declana Warda, který vyšetřuje zmizení ženy jménem Evelyn Deane v tajemném panském sídle. Rozmanitá skupina hostů se zde sešla na spiritistickou seanci a každý z nich má motiv ublížit zmizelé ženě. Hráč má víkend na vyřešení případu před nedělní seancí.
 
-Časový limit vytváří tlak, ale čas plyne pouze při konkrétních akcích jako zkoumání předmětů, výslechy hostů nebo účast na jídlech a přednáškách. Důležitou součástí vyšetřování je sestavení rozvrhu aktivít a pohybu hostů, což umožňuje například prohledávat pokoje bez rizika prozrazení.
+Časový limit vytváří tlak, ale čas plyne pouze při konkrétních akcích jako zkoumání předmětů, výslechy hostů nebo účast na společných aktivitách. Klíčem k úspěchu je sestavení rozvrhu víkendových aktivit a pohybu jednotlivých postav, což umožňuje například prohledávat pokoje hostů, když nejsou přítomni.
 
-Jedná se o osobní dojmy autora z hraní, nikoli o objektivní recenzi nebo oznámení o vydání hry. Článek postrádá technické informace, datum vydání, platformy nebo cenu.
+Jde o typický subjektivní herní článek bez širšího průmyslového dopadu, zaměřený na osobní preference autora v žánru puzzle her.
 
 ---
 

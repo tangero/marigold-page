@@ -1,10 +1,16 @@
 ---
 author: Marisa Aigen
 category: ai prohlížeče
+companies:
+- 'Na základě poskytnutého textu (pouze nadpisu a popisu) nemohu identifikovat žádné
+  konkrétní technologické firmy. Text zmiňuje pouze obecné termíny "AI browsers" a
+  "publisher paywalls" bez uvedení specifických názvů firem.
+
+
+  žádné'
 date: '2025-11-03 19:28:06'
-description: Prohlížeče s umělou inteligencí jako ChatGPT Atlas a Perplexity Comet
-  dokážu obejít placené zdi některých vydavatelů a přistupovat k obsahu určenému pro
-  předplatitele.
+description: Nové AI prohlížeče jako ChatGPT Atlas a Perplexity Comet dokážu obejít
+  placené zdi některých vydavatelů a přistupovat k obsahu určenému pouze pro předplatitele.
 importance: 4
 layout: tech_news_article
 original_title: Some AI browsers can bypass publisher paywalls, report says - Mashable
@@ -22,33 +28,33 @@ urlToImageBackup: https://helios-i.mashable.com/imagery/articles/0014koRIKb7bRFo
 
 ## Souhrn
 
-AI prohlížeče ChatGPT Atlas od OpenAI a Comet od Perplexity dokážou obcházet placené zdi (paywalls) některých vydavatelů a získávat přístup k obsahu určenému výhradně pro platící předplatitele. Podle zprávy Columbia Journalism Review se tyto nástroje tváří jako běžní uživatelé, což vydavatelům znemožňuje je detekovat a blokovat standardními metodami.
+AI prohlížeče ChatGPT Atlas od OpenAI a Comet od Perplexity dokážou obcházet placené zdi (paywalls) některých vydavatelů a získávat přístup k obsahu určenému pouze pro platící předplatitele. Podle zprávy Columbia Journalism Review se tyto nástroje pro webové stránky tváří jako běžní uživatelé, což znemožňuje jejich detekci a blokování pomocí standardních ochranných mechanismů.
 
 ## Klíčové body
 
-- Oba AI prohlížeče úspěšně získaly přístup k 9000slovnímu článku z MIT Technology Review určenému pouze pro předplatitele
-- Standardní ChatGPT nástroj nebyl schopen stejný článek získat, protože web blokoval crawlery OpenAI pomocí Robots Exclusion Protocol
-- AI prohlížeče se vydavatelům jeví jako běžní lidští návštěvníci, což znemožňuje jejich detekci a blokování
-- Některé weby používají klientské placené zdi, které sice skrývají text před návštěvníky, ale AI boty jej stále dokážou přečíst
-- ChatGPT Atlas se vyhýbá čtení obsahu od vydavatelů, kteří právě žalují OpenAI
+- ChatGPT Atlas i Perplexity Comet dokázaly získat přístup k 9000slovnímu článku z MIT Technology Review určenému pouze pro předplatitele
+- Standardní ChatGPT nástroj nebyl schopen stejný článek získat, protože web blokoval OpenAI web crawler
+- AI prohlížeče se pro webové servery jeví jako běžní lidští uživatelé, což znemožňuje jejich blokování pomocí Robots Exclusion Protocol
+- Atlas specificky vyhýbá čtení obsahu od vydavatelů, kteří právě žalují OpenAI
+- Některé weby používají klientské placené zdi, které sice skrývají text před návštěvníky, ale AI boti jej stále dokážou přečíst
 
 ## Podrobnosti
 
-Columbia Journalism Review provedla test, při kterém požádala ChatGPT Atlas i Perplexity Comet o získání obsahu z placeného článku MIT Technology Review. Oba AI prohlížeče byly úspěšné a dokázaly zpřístupnit kompletní text určený pouze pro předplatitele. Když byl stejný požadavek zadán přes standardní rozhraní ChatGPT, chatbot selhal, protože MIT Technology Review blokuje crawlery OpenAI prostřednictvím Robots Exclusion Protocol.
+Problém spočívá v architektuře těchto nových AI nástrojů. Zatímco tradiční web crawlery a AI boti lze identifikovat a blokovat pomocí Robots Exclusion Protocol - standardního mechanismu, který vydavatelé používají k ochraně svého obsahu - agentic AI nástroje a prohlížeče jako Atlas a Comet fungují odlišně. Pro webové servery vypadají jako běžný lidský provoz, což znemožňuje jejich detekci a omezení.
 
-Problém spočívá v tom, že tyto agentic AI nástroje a prohlížeče dokážou splynout s běžnou lidskou návštěvností webu. Zatímco vydavatelé tradičně používají Robots Exclusion Protocol k blokování nechtěných crawlerů a AI botů, Atlas a Comet se chovají jako běžní uživatelé s webovými prohlížeči, což je činí prakticky nerozpoznatelnými.
+Columbia Journalism Review provedla test, při kterém požádala oba AI prohlížeče o získání dlouhého článku z MIT Technology Review chráněného placenou zdí. Oba nástroje byly úspěšné. Když byl stejný požadavek zadán standardnímu ChatGPT rozhraní, chatbot nebyl schopen článek získat, protože web měl zablokovaný OpenAI web crawler.
 
-Situaci komplikuje skutečnost, že některé vydavatelské weby používají takzvané klientské placené zdi (client-side paywalls), které sice vizuálně skrývají text článku před neplatícími návštěvníky, ale technicky je obsah stále přítomen v HTML kódu stránky. AI boty tak mohou tento obsah číst zdarma, i když běžný uživatel jej na obrazovce nevidí.
+Zajímavým zjištěním je, že Atlas se aktivně vyhýbá čtení obsahu od vydavatelů, kteří v současnosti vedou soudní spory s OpenAI. Když byl požádán o shrnutí článku z PCMag - webu vlastněného společností Ziff Davis, která také vlastní Mashable - Atlas místo toho vytvořil kompozitní shrnutí založené na příspěvcích z platformy X, syndikovaných článcích a dalších externích zdrojích.
 
-Zajímavým zjištěním je, že ChatGPT Atlas se specificky vyhýbá čtení obsahu od vydavatelů, kteří v současnosti vedou soudní spory s OpenAI. Když byl například požádán o shrnutí článku z PCMag (vlastněného společností Ziff Davis, která vlastní i Mashable), Atlas místo přímého čtení článku vytvořil kompozitní shrnutí založené na příspěvcích z platformy X, syndikovaných příbězích a dalších externích zdrojích.
+Dalším problémem jsou klientské placené zdi, které některé weby používají. Tyto systémy sice skrývají text článku před návštěvníky v prohlížeči, ale obsah je stále přítomen v HTML kódu stránky. AI boti tak mohou tento obsah číst zdarma, i když běžný uživatel bez předplatného jej nevidí.
 
 ## Proč je to důležité
 
-Tato zjištění otevírají zásadní otázky o budoucnosti vydavatelského byznysu a monetizace online obsahu. Vydavatelé investují značné prostředky do tvorby kvalitního obsahu a spoléhají na předplatné jako na klíčový zdroj příjmů. Pokud AI nástroje dokážou systematicky obcházet placené zdi, podkopává to celý model financování žurnalistiky.
+Tato situace představuje zásadní výzvu pro vydavatelský průmysl a jeho obchodní model založený na předplatném. Pokud AI nástroje dokážou volně přistupovat k placeným obsahům a poskytovat jejich shrnutí uživatelům, podkopává to motivaci platit za předplatné. Vydavatelé investují značné prostředky do tvorby kvalitního obsahu a spoléhají na příjmy z předplatného pro financování své činnosti.
 
-Jde o další kapitolu v probíhajícím konfliktu mezi technologickými společnostmi vyvíjejícími AI a vydavateli obsahu. Zatímco firmy jako OpenAI a Perplexity argumentují, že poskytují uživatelům užitečné služby, vydavatelé vidí v obcházení placených zdí krádež jejich duševního vlastnictví a ohrožení jejich obchodního modelu.
+Jde o další kapitolu v probíhajícím konfliktu mezi AI společnostmi a vydavateli. Několik velkých mediálních domů již podalo žaloby proti OpenAI a dalším AI firmám kvůli neoprávněnému používání jejich obsahu pro trénování AI modelů. Tato nová schopnost obcházet placené zdi přidává další rozměr k této disputě.
 
-Problém je technicky obtížně řešitelný – pokud AI nástroje skutečně napodobují chování běžných uživatelů, tradiční metody ochrany obsahu selhávají. Vydavatelé budou muset hledat nová technická řešení nebo se spoléhat na právní kroky, což však může být zdlouhavé a nákladné. Situace také ukazuje, že současná regulace a technické standardy nebyly připraveny na éru agentic AI nástrojů, které dokážou autonomně procházet web a získávat informace způsobem napodobujícím lidské chování.
+Pro uživatele to sice může znamenat snadnější přístup k informacím, dlouhodobě však může vést k oslabení kvalitní žurnalistiky, pokud vydavatelé přijdou o důležitý zdroj příjmů. Situace vyžaduje nové technické i právní řešení, které by vyvážilo přístup k informacím s udržitelným financováním kvalitní tvorby obsahu.
 
 ---
 

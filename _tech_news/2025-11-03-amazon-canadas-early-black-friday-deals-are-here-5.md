@@ -24,11 +24,7 @@ urlToImage: https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9a
 urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c77178e0-b8d6-11f0-9d43-9f6a4308eca7
 ---
 
-Amazon Kanada spustil předčasné Black Friday slevy téměř měsíc před samotným dnem (28. listopadu 2024). Jedná se o běžnou marketingovou kampaň e-commerce platformy zaměřenou na vánoční nákupy.
-
-Nabídka zahrnuje široké spektrum produktů od elektroniky (Apple AirPods, televizory) přes kuchyňské spotřebiče až po vánoční dekoraci a domácí potřeby. Slevy dosahují údajně až 88 % u vybraných položek, přičemž nejlevnější produkty začínají na 8 dolarech. Mezi propagovanými produkty jsou například elektrický rotační kartáč za 53 dolarů (původně 400 dolarů), chytré hodinky s Bluetooth za 40 dolarů nebo bezdrátový vysavač za 129 dolarů.
-
-Jde o standardní předvánoční výprodejovou akci bez technologického dopadu, která je relevantní pouze pro kanadské spotřebitele. Článek má charakter affiliate marketingu, kde Yahoo Canada získává provizi z nákupů provedených přes odkazy.
+Amazon Kanada spustil předčasné Black Friday slevy několik týdnů před samotným Black Friday (28. listopadu 2024). Jedná se o běžnou marketingovou kampaň e-commerce platformy zaměřenou na vánoční nákupní sezónu. Nabídka zahrnuje širokou škálu produktů včetně Apple AirPods, televizorů, vánočních dekorací, domácích potřeb a kuchyňských pomůcek se slevami až 88 %. Ceny začínají na 8 dolarech. Jde o standardní předvánoční výprodejovou akci bez technologického významu.
 
 ---
 

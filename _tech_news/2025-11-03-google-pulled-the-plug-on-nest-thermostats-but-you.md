@@ -24,29 +24,29 @@ urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm
 
 ## Souhrn
 
-Google v roce 2024 ukončil podporu termostatů Nest první a druhé generace po více než deseti letech provozu. Vývojář Cody Kociemba však vytvořil open-source projekt na GitHubu, který umožňuje těmto zařízením obnovit připojení a ovládání přes aplikaci pomocí alternativního firmware a vlastní platformy.
+Google ukončil podporu termostatů Nest první a druhé generace, čímž uživatelé přišli o možnost ovládat zařízení přes mobilní aplikaci. Vývojář Cody Kociemba však vytvořil open-source projekt na GitHubu, který umožňuje tato zařízení znovu zprovoznit pomocí alternativního firmware a vlastní platformy.
 
 ## Klíčové body
 
-- Google ukončil cloudovou podporu pro termostaty Nest 1. a 2. generace, čímž uživatelé ztratili možnost ovládat je přes mobilní aplikaci
-- Vývojář Cody Kociemba zveřejnil projekt na GitHubu, který nabízí řešení pro obnovení funkčnosti
-- Řešení vyžaduje nahrání nového firmware do termostatu a přesměrování komunikace na alternativní platformu
-- Proces je bezplatný, ale vyžaduje technické znalosti a nese riziko poškození zařízení
+- Google ukončil podporu termostatů Nest 1. a 2. generace po více než deseti letech provozu
+- Uživatelé ztratili možnost ovládat termostaty prostřednictvím mobilní aplikace
+- Vývojář Cody Kociemba publikoval na GitHubu projekt pro oživení těchto zařízení
+- Řešení vyžaduje nahrání nového firmware a přesměrování komunikace na alternativní platformu
 - Po úspěšné instalaci funguje termostat stejně jako před ukončením podpory
 
 ## Podrobnosti
 
-Ukončení podpory starších chytrých zařízení je problém, se kterým se uživatelé setkávají stále častěji. V případě termostatů Nest první a druhé generace Google sice poskytl dostatečné předběžné upozornění, nicméně uživatelé přišli o klíčovou funkčnost zařízení, která jinak stále fungovala bez problémů. Termostaty ztratily možnost vzdáleného ovládání přes mobilní aplikaci, což výrazně snižuje jejich praktickou hodnotu.
+Ukončení podpory starších termostatů Nest představuje typický problém chytrých domácností - fyzicky funkční zařízení se stává nepoužitelným kvůli rozhodnutí výrobce. Ačkoliv Google poskytl dostatečné předběžné upozornění a více než deset let podpory lze považovat za nadstandardní, uživatelé oprávněně očekávají, že termostat vydrží déle než software, na kterém závisí.
 
-Projekt Codyho Kociemby představuje technické řešení této situace. Funguje na principu nahrazení původního firmware alternativní verzí, která přesměrovává veškerou komunikaci z cloudových serverů Google na nově vytvořenou platformu. Uživatelské rozhraní a ovládání zůstává podle dostupných informací prakticky identické s původním stavem.
+Řešení od Codyho Kociemby spočívá v nahrazení původního firmware alternativní verzí, která přesměruje veškerou komunikaci zařízení na novou platformu. Tím se termostat stává nezávislým na infrastruktuře Google a může nadále fungovat s plnou funkčností včetně dálkového ovládání.
 
-Implementace však není triviální záležitostí. Proces vyžaduje přímý zásah do firmware termostatu, což s sebou nese standardní rizika spojená s flashováním zařízení. Autor projektu uvádí řadu varování a upozornění, že v případě neúspěchu nebo poškození zařízení nese veškerou odpovědnost uživatel. Oficiální podpora od Google samozřejmě není k dispozici a pravděpodobně nikdy nebude.
+Proces instalace není triviální a vyžaduje technické znalosti. Projekt obsahuje rozsáhlé varování a upozornění - uživatelé postupují na vlastní riziko a v případě problémů nemohou počítat s podporou Google ani zárukou. Jako u každé aktualizace firmware existuje riziko, že zařízení přestane fungovat úplně.
 
-Dokumentace projektu je dostupná na GitHubu a obsahuje podrobné instrukce pro celý proces. Před zahájením jakýchkoli kroků je nezbytné pečlivě prostudovat všechny pokyny a ujistit se, že uživatel rozumí technickým aspektům a možným rizikům.
+Pro uživatele, kteří proces úspěšně dokončí, však výsledek vypadá a funguje identicky jako před ukončením podpory. Řešení je zdarma, vyžaduje pouze čas a technické dovednosti. Detailní instrukce jsou k dispozici v repozitáři na GitHubu.
 
 ## Proč je to důležité
 
-Tento projekt ilustruje širší problematiku životního cyklu chytrých domácích zařízení a závislosti na cloudových službách výrobců. Zatímco hardware může fungovat bez problémů i po deseti letech, softwarová podpora často končí mnohem dříve, což vede k předčasnému zastarání jinak funkčních zařízení. Open-source alternativy jako tento projekt ukazují možnou cestu, jak prodloužit životnost chytré domácnosti nezávisle na rozhodnutích výrobců. Zároveň však zdůrazňují technickou náročnost takových řešení, která nejsou dostupná běžným uživatelům bez technických znalostí.
+Tento projekt ilustruje rostoucí problém plánované zastaralosti v oblasti chytrých domácností a závislosti na cloudových službách výrobců. Ukazuje také sílu open-source komunity, která dokáže prodloužit životnost hardwaru i po ukončení oficiální podpory. Pro majitele starších termostatů Nest představuje praktickou alternativu k nákupu nového zařízení, což má pozitivní dopad jak na peněženku uživatelů, tak na životní prostředí.
 
 ---
 
