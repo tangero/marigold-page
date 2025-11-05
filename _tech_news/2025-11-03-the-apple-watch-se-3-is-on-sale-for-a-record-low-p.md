@@ -7,7 +7,7 @@ companies:
 - Google
 date: '2025-11-03 15:45:00'
 description: Model Apple Watch SE 3 s 40mm GPS je dostupný za historicky nejnižší
-  cenu 199 dolarů. Jde o slevu 50 dolarů oproti běžné ceně.
+  cenu. Současně jsou v akci tablet Amazon Fire HD 10 a termostat Google Nest.
 importance: 3
 layout: tech_news_article
 original_title: The Apple Watch SE 3 is on sale for a record low price of $199 - The
@@ -26,29 +26,29 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Apple Watch SE 3 v provedení 40mm GPS je aktuálně dostupný za 199 dolarů, což představuje slevu 50 dolarů a historicky nejnižší cenu tohoto modelu. Hodinky nabízejí většinu funkcí dražších modelů včetně always-on displeje a procesoru S10, který se používá i v Apple Watch Series 11 a Ultra 3.
+Apple Watch SE 3 v základní variantě s 40mm GPS modulem je aktuálně dostupný za 199,99 dolaru, což představuje slevu 50 dolarů a historicky nejnižší cenu tohoto modelu. Hodinky nabízejí většinu funkcí dražších modelů včetně čipu S10 a podpory gest, přičemž se jedná o nejlepší volbu v poměru cena/výkon v portfoliu Apple.
 
 ## Klíčové body
 
-- Cena klesla na 199 dolarů (sleva 50 dolarů) u modelu 40mm GPS ve variantě Starlight
-- Hodinky disponují always-on displejem pro trvalé zobrazení času a notifikací
-- Procesor S10 umožňuje zpracování požadavků Siri přímo v zařízení
-- Podpora gest jako poklepání dvěma prsty a mávnutí zápěstím pro ovládání bez doteku displeje
-- Výdrž baterie zůstává na 18 hodinách, přibylo však rychlé nabíjení
+- Cena klesla na 199,99 dolaru (sleva 20 %) u modelu ve variantě Starlight
+- Hodinky obsahují stejný čip S10 jako Apple Watch Series 11 a Ultra 3
+- Nově podporují always-on displej, gesta dvojitého ťuknutí a rychlé nabíjení
+- Výdrž baterie zůstává na 18 hodinách, ale přibylo rychlé nabíjení
+- Chybí Ultra Wideband čip pro funkci Precision Finding
 
 ## Podrobnosti
 
-Apple Watch SE 3 představují vstupní model chytrých hodinek od Applu, který však nabízí překvapivě bohatou výbavu. Hlavní novinkou třetí generace je always-on displej, který umožňuje kontrolovat čas nebo příchozí notifikace bez nutnosti zvedat zápěstí nebo dotýkat se obrazovky. Tato funkce byla dříve vyhrazena pouze pro dražší modely řady Series.
+Apple Watch SE 3 představuje vstupní model v nabídce chytrých hodinek Apple, který však obsahuje překvapivě velké množství funkcí z dražších variant. Nejvýznamnější novinkou oproti předchozí generaci je always-on displej, který umožňuje kontrolovat čas a notifikace bez nutnosti zvedat zápěstí nebo dotýkat se obrazovky. Tato funkce byla dříve vyhrazena pouze pro dražší modely Series.
 
-Výkonnostní základ tvoří čip S10, stejný jako v aktuálních modelech Apple Watch Series 11 a Ultra 3. Chybí však Ultra Wideband čip, který zajišťuje funkci přesného vyhledávání iPhonu. Procesor je dostatečně výkonný pro zpracování požadavků hlasového asistenta Siri přímo v hodinkách bez nutnosti připojení k telefonu.
+Výkonnostní základ tvoří čip S10, který je identický s procesory použitými v modelech Apple Watch Series 11 a Ultra 3. Tento čip je dostatečně výkonný pro zpracování požadavků na hlasového asistenta Siri přímo v zařízení bez nutnosti připojení k internetu. Chybí však Ultra Wideband čip, což znamená, že hodinky nepodporují funkci Precision Finding pro přesné vyhledávání iPhonu.
 
-Hodinky podporují moderní ovládací gesta včetně poklepání dvěma prsty a mávnutí zápěstím. Tato gesta umožňují mazat notifikace, nastavovat časovače, odkládat budík nebo přijímat a ukončovat telefonní hovory bez doteku displeje. Jde o funkce, které Apple postupně zavádí napříč celou řadou hodinek pro zlepšení dostupnosti a pohodlí ovládání.
+Třetí generace SE přináší podporu pokročilých gest - dvojité ťuknutí a pohyb zápěstím. Tyto gesta umožňují ovládat hodinky bez dotýkání displeje, například mazat notifikace, nastavovat časovače, odložit budík nebo přijímat a ukončovat telefonní hovory. Jde o funkce, které výrazně zlepšují každodenní použitelnost.
 
-Výdrž baterie zůstává na úrovni předchozí generace s přibližně 18 hodinami provozu. Apple však přidal podporu rychlého nabíjení, což umožňuje doplnit energii v kratším čase. Pro uživatele, kteří hodinky nosí i v noci pro sledování spánku, to znamená možnost rychlejšího dobití během ranní rutiny.
+Výdrž baterie zůstává na úrovni přibližně 18 hodin, což je stejné jako u předchozí generace. Apple však implementoval podporu rychlého nabíjení, takže doplnění energie zabere výrazně méně času než dříve.
 
 ## Proč je to důležité
 
-Apple Watch SE 3 za 199 dolarů představují nejdostupnější cestu k ekosystému chytrých hodinek od Applu s minimem kompromisů. Cena je nyní srovnatelná s mnoha hodinkami od konkurence, přičemž Apple nabízí propracovanější softwarovou integraci s iPhony a širší nabídku aplikací. Pro uživatele, kteří dosud neměli chytré hodinky nebo používají starší generace, jde o zajímavou příležitost k upgradu s dobrým poměrem ceny a výkonu.
+Snížení ceny Apple Watch SE 3 na 199 dolarů činí z těchto hodinek nejdostupnější vstupní bod do ekosystému Apple Watch. Pro uživatele, kteří své hodinky neaktualizovali několik let nebo je nikdy nevlastnili, představuje tento model optimální volbu s minimem kompromisů. Přidání always-on displeje a pokročilých gest do vstupního modelu ukazuje, že Apple postupně demokratizuje prémiové funkce a činí je dostupnějšími širšímu publiku. V kontextu celkového portfolia chytrých hodinek jde o konkurenceschopnou nabídku, která může přilákat nové uživatele do ekosystému Apple.
 
 ---
 

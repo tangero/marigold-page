@@ -21,11 +21,11 @@ urlToImage: https://images.macrumors.com/t/-aDjUl38v4J6LqydD6kyFUXeI5I=/2500x/ar
 urlToImageBackup: https://images.macrumors.com/t/-aDjUl38v4J6LqydD6kyFUXeI5I=/2500x/article-new/2025/11/best-buy-early-black-friday.jpeg
 ---
 
-Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje, které potrvají do 9. listopadu 2025. Akce zahrnuje slevy na produkty Apple, sluchátka, televize, monitory, videohry a další elektroniku.
+Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje, které potrvají do 9. listopadu 2025. Akce zahrnuje slevy na produkty Apple včetně MacBooků, iPadů a příslušenství, stejně jako další elektroniku.
 
-Mezi nabízenými produkty Apple se objevují iPad 11. generace za 299 dolarů (sleva 50 dolarů), iPad mini 7 za 399 dolarů (sleva 100 dolarů), MacBook Air 13" M2 za 680 dolarů (sleva 119 dolarů) nebo MacBook Pro 14" M4 s 16GB RAM a 512GB úložištěm za 1 399 dolarů (sleva 100 dolarů). V nabídce jsou také AirTag ve čtyřbalení za 65 dolarů (sleva 34 dolarů) nebo Apple Pencil Pro za 99 dolarů (sleva 30 dolarů).
+Mezi nabízenými produkty Apple jsou iPad 11. generace za 299 dolarů (sleva 50 dolarů), iPad mini 7 za 399 dolarů (sleva 100 dolarů), MacBook Air 13" M2 za 680 dolarů (sleva 119 dolarů) a MacBook Pro 14" M4 s 16GB RAM a 512GB úložištěm za 1 399 dolarů (sleva 100 dolarů). Některé slevy vyžadují členství My Best Buy Plus nebo Total za 49,99 dolarů ročně.
 
-Některé slevy vyžadují členství My Best Buy Plus nebo Total, které začíná na 50 dolarech ročně a zahrnuje dopravu zdarma do dvou dnů, exkluzivní slevy a prodlouženou 60denní lhůtu pro vrácení zboží. Oficiální Black Friday výprodej Best Buy začne 20. listopadu a potrvá do 29. listopadu, následovaný Cyber Monday výprodejem 30. listopadu až 1. prosince.
+Harmonogram Black Friday u Best Buy pokračuje novými nabídkami každý pátek v listopadu, oficiální Black Friday výprodej proběhne 20.-29. listopadu a Cyber Monday výprodej 30. listopadu až 1. prosince. Jde o standardní maloobchodní akci bez většího technologického dopadu.
 
 ---
 

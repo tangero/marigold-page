@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-05T01:00:53.540249+00:00",
+  "generated": "2025-11-05T04:24:41.958881+00:00",
   "count": 200,
   "articles": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "title": "Starší termostaty Nest lze oživit pomocí open-source projektu",
-      "description": "Po ukončení oficiální podpory termostatů Nest 1. a 2. generace nabízí vývojář řešení pro jejich opětovné zprovoznění prostřednictvím alternativního firmware.",
+      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil nástroj, který jim vrací funkčnost prostřednictvím alternativní platformy.",
       "slug": "google-pulled-the-plug-on-nest-thermostats-but-you",
       "publishedAt": "2025-11-03T22:07:00+00:00",
       "date": "2025-11-03 22:07:00",
@@ -43,8 +43,8 @@
       "people": []
     },
     {
-      "title": "Apple občas představuje produkty v listopadu - kdy se tak stalo naposledy",
-      "description": "Historický přehled listopadových uvedení produktů Apple v kontextu očekávaných novinek jako Apple TV 4K, HomePod mini 2 a AirTag 2.",
+      "title": "Apple může představit nové produkty v listopadu - historický přehled",
+      "description": "Analýza pravděpodobnosti listopadového představení nových produktů od Apple, včetně Apple TV 4K, HomePod mini 2 a AirTag 2, na základě historických dat.",
       "slug": "apple-does-launch-new-products-in-november-heres-w",
       "publishedAt": "2025-11-03T20:39:00+00:00",
       "date": "2025-11-03 20:39:00",
@@ -63,8 +63,8 @@
       "people": []
     },
     {
-      "title": "AMD po kritice ruší plány na omezení podpory starších grafických karet Radeon",
-      "description": "AMD po vlně kritiky oznámilo, že starší GPU architektury RDNA 1 a RDNA 2 budou nadále dostávat plnou podporu včetně optimalizací pro nové hry a oprav chyb.",
+      "title": "AMD po kritice vrací podporu ovladačů pro starší grafické karty Radeon",
+      "description": "AMD po vlně kritiky zrušilo plány na omezení podpory GPU s architekturami RDNA 1 a RDNA 2, které se používají i v novějších produktech.",
       "slug": "amd-says-that-its-not-pulling-driver-support-for-o",
       "publishedAt": "2025-11-03T20:21:36+00:00",
       "date": "2025-11-03 20:21:36",
@@ -104,7 +104,7 @@
     },
     {
       "title": "Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhone 17",
-      "description": "Google hlásí 28% meziroční nárůst prodejů řady Pixel 10 v září 2025, což představuje nejlepší měsíční výsledek za téměř deset let existence značky.",
+      "description": "Google hlásí 28% meziroční nárůst prodejů Pixel telefonů v září 2025 a dosáhl tak nejlepšího měsíčního výsledku v historii značky.",
       "slug": "pixel-10-is-a-hit-in-the-us-with-googles-new-singl",
       "publishedAt": "2025-11-03T19:30:00+00:00",
       "date": "2025-11-03 19:30:00",
@@ -121,6 +121,24 @@
         "Google",
         "Apple"
       ],
+      "people": []
+    },
+    {
+      "title": "AI prohlížeče dokážou obcházet placené zdi vydavatelů, ukazuje zpráva",
+      "description": "Prohlížeče s umělou inteligencí jako ChatGPT Atlas a Perplexity Comet dokážu obejít placené zdi některých vydavatelů a přistupovat k obsahu určenému pro předplatitele.",
+      "slug": "some-ai-browsers-can-bypass-publisher-paywalls-rep",
+      "publishedAt": "2025-11-03T19:28:06+00:00",
+      "date": "2025-11-03 19:28:06",
+      "importance": 4,
+      "category": "ai prohlížeče",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0014koRIKb7bRFobP6KvuP5/hero-image.fill.size_1200x675.v1762191041.jpg",
+      "url": "/tech-news/2025-11-03/some-ai-browsers-can-bypass-publisher-paywalls-rep/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -144,6 +162,48 @@
       "people": [
         "Finneas"
       ]
+    },
+    {
+      "title": "Apple představil nové intro pro Apple TV s hudbou od Finneaseho po rebrandingu",
+      "description": "Apple odhalil nové barevné logo pro svou streamovací službu Apple TV, které bude předcházet všem pořadům a filmům. Hudbu k intru vytvořil oscarový skladatel Finneas.",
+      "slug": "apple-debuts-new-apple-tv-intro-with-music-by-finn",
+      "publishedAt": "2025-11-03T18:30:00+00:00",
+      "date": "2025-11-03 18:30:00",
+      "importance": 3,
+      "category": "streamování",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/apple-tv-rebrand-logo-finneas.jpg?w=1024",
+      "url": "/tech-news/2025-11-03/apple-debuts-new-apple-tv-intro-with-music-by-finn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Deadline"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Finneas"
+      ]
+    },
+    {
+      "title": "Apple spustil webovou verzi App Store",
+      "description": "Apple představil nový webový App Store na adrese apps.apple.com, který umožňuje procházet a vyhledávat aplikace napříč všemi platformami společnosti přímo v prohlížeči.",
+      "slug": "apple-launches-app-store-for-the-web-macrumors",
+      "publishedAt": "2025-11-03T18:29:57+00:00",
+      "date": "2025-11-03 18:29:57",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://images.macrumors.com/t/brZVn416ZdrgU-2jLFNQ0Hjz2NU=/2000x/article-new/2025/11/apple-app-store-web.jpg",
+      "url": "/tech-news/2025-11-03/apple-launches-app-store-for-the-web-macrumors/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
     },
     {
       "title": "Elon Musk navrhuje blokování slunečního záření pomocí satelitů",
@@ -170,7 +230,7 @@
     },
     {
       "title": "Amazon Kanada spustil předčasné Black Friday slevy: 50 nejlepších nabídek od 8 dolarů",
-      "description": "Kanadská pobočka Amazonu zahájila předčasné Black Friday výprodeje s až 88% slevami na elektroniku, domácí potřeby a vánoční dekorace.",
+      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s tisíci položkami se slevami až 88 %. Nabídka zahrnuje elektroniku, domácí potřeby a vánoční dekorace.",
       "slug": "amazon-canadas-early-black-friday-deals-are-here-5",
       "publishedAt": "2025-11-03T17:23:06+00:00",
       "date": "2025-11-03 17:23:06",
@@ -270,7 +330,7 @@
     },
     {
       "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou umělou inteligenci je ztráta času",
-      "description": "Mustafa Suleyman z Microsoftu označil výzkum vědomé AI za absurdní. Podle něj AI nikdy nemůže dosáhnout skutečného vědomí, protože jí chybí biologický základ pro emocionální prožívání.",
+      "description": "Mustafa Suleyman z Microsoftu označuje výzkum vědomé AI za absurdní. Podle něj AI nikdy nedosáhne skutečného vědomí, protože jí chybí biologický základ lidských emocí.",
       "slug": "microsoft-ai-chief-warns-pursuing-machine-consciou",
       "publishedAt": "2025-11-03T15:50:53+00:00",
       "date": "2025-11-03 15:50:53",
@@ -292,7 +352,7 @@
     },
     {
       "title": "Apple Watch SE 3 v rekordní slevě za 199 dolarů",
-      "description": "Model Apple Watch SE 3 s 40mm GPS je dostupný za historicky nejnižší cenu 199 dolarů. Jde o slevu 50 dolarů oproti běžné ceně.",
+      "description": "Model Apple Watch SE 3 s 40mm GPS je dostupný za historicky nejnižší cenu. Současně jsou v akci tablet Amazon Fire HD 10 a termostat Google Nest.",
       "slug": "the-apple-watch-se-3-is-on-sale-for-a-record-low-p",
       "publishedAt": "2025-11-03T15:45:00+00:00",
       "date": "2025-11-03 15:45:00",
@@ -313,12 +373,12 @@
       "people": []
     },
     {
-      "title": "iOS 27 údajně přinese zásadní aktualizace Apple Intelligence",
-      "description": "Podle zpráv Marka Gurmana z Bloombergu má iOS 27 obsahovat významné vylepšení umělé inteligence Apple Intelligence, přestože konkrétní detaily zatím chybí.",
+      "title": "iOS 27 přinese \"zásadní aktualizace\" Apple Intelligence, uvádí zpráva",
+      "description": "iOS 27 a další doprovodné aktualizace od Applu údajně přinesou \"zásadní aktualizace\" Apple Intelligence v několika oblastech.",
       "slug": "ios-27-will-have-major-updates-to-apple-intelligen",
       "publishedAt": "2025-11-03T15:36:00+00:00",
       "date": "2025-11-03 15:36:00",
-      "importance": 2,
+      "importance": 5,
       "category": "umělá inteligence",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-03/ios-27-will-have-major-updates-to-apple-intelligen/",
@@ -333,13 +393,13 @@
       "people": []
     },
     {
-      "title": "Microsoft: Záplata pro kritickou chybu WSUS vyřadila hotpatching na Windows Server 2025",
-      "description": "Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně zneužívanou zranitelnost ve Windows Server Update Service, způsobila výpadek funkce hotpatching na některých serverech s Windows Server 2025.",
+      "title": "Microsoft: Záplata kritické chyby WSUS vyřadila hotpatching na Windows Server 2025",
+      "description": "Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně zneužívanou zranitelnost ve Windows Server Update Service, zablokovala funkci hotpatchingu na některých serverech s Windows Server 2025.",
       "slug": "microsoft-patch-for-wsus-flaw-disabled-windows-ser",
       "publishedAt": "2025-11-03T15:22:12+00:00",
       "date": "2025-11-03 15:22:12",
       "importance": 4,
-      "category": "bezpečnostní aktuali",
+      "category": "kybernetická bezpečn",
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg",
       "url": "/tech-news/2025-11-03/microsoft-patch-for-wsus-flaw-disabled-windows-ser/",
       "source": {
@@ -393,19 +453,37 @@
       "people": []
     },
     {
-      "title": "The Seance of Blake Manor – detektivní logická hra z Irska 19. století",
-      "description": "Recenze logické hry The Seance of Blake Manor, která se odehrává v irském venkovském sídle v 90. letech 19. století a nabízí komplexní detektivní záhadu s časovým limitem.",
+      "title": "The Seance of Blake Manor jako alternativa k Blue Prince",
+      "description": "Subjektivní recenze detektivní puzzle hry The Seance of Blake Manor od autora, který nedokázal dohrát populární hru Blue Prince.",
       "slug": "the-seance-of-blake-manor-is-my-blue-prince-afterm",
       "publishedAt": "2025-11-03T14:36:00+00:00",
       "date": "2025-11-03 14:36:00",
-      "importance": 3,
+      "importance": 2,
       "category": "videohry",
-      "urlToImage": null,
+      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png",
       "url": "/tech-news/2025-11-03/the-seance-of-blake-manor-is-my-blue-prince-afterm/",
       "source": {
         "emoji": "📰",
         "id": null,
         "name": "Aftermath.site"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Lyžařské středisko Big Sky v Montaně nabízí vyhřívané lanovky a výhledy na tři státy",
+      "description": "Big Sky Resort v Montaně disponuje 5 850 akry sjezdovek, luxusními hotely a pokročilou infrastrukturou lanovek. Pro sezónu 2025-2026 plánuje otevření nového luxusního resortu One&Only.",
+      "slug": "this-uncrowded-ski-resort-has-heated-lifts-and-a-s",
+      "publishedAt": "2025-11-03T14:00:00+00:00",
+      "date": "2025-11-03 14:00:00",
+      "importance": 1,
+      "category": "cestovní ruch",
+      "urlToImage": "https://www.travelandleisure.com/thmb/rzTQcJmDkTe0Ld9-6XwL_Wfjb5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-big-sky-montana-BIGSKYMM0325-3fd1c225b1d6476593f127680e773439.jpg",
+      "url": "/tech-news/2025-11-03/this-uncrowded-ski-resort-has-heated-lifts-and-a-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Travel+Leisure"
       },
       "companies": [],
       "people": []
@@ -3449,24 +3527,6 @@
       "people": []
     },
     {
-      "title": "NotebookLM can now be your personalized PhD advisor, marketing strategist, and more - Android Police",
-      "description": "Your assistant can now role-play",
-      "slug": "notebooklm-can-now-be-your-personalized-phd-adviso",
-      "publishedAt": "2025-10-29T21:12:00+00:00",
-      "date": "2025-10-29 21:12:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/07/notebooklm-is-best-example-of-ai.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-29/notebooklm-can-now-be-your-personalized-phd-adviso/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "YouTube Will Use AI to Sharpen Lower-Resolution Videos on TVs - Bloomberg.com",
       "description": "Google’s YouTube will use artificial intelligence to improve the visual clarity of many low-resolution videos on its platform when viewed on TV screens, the web and mobile devices.",
       "slug": "youtube-will-use-ai-to-sharpen-lower-resolution-vi",
@@ -3555,27 +3615,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nový Android malware Herodotus napodobuje lidské chování při krádeži peněz",
-      "description": "Bankovní trojan Herodotus využívá simulaci lidského chování včetně náhodných prodlev při psaní, aby obešel detekční systémy a ukradl přihlašovací údaje i peníze z bankovních aplikací.",
-      "slug": "new-android-malware-lags-like-a-human-to-steal-mon",
-      "publishedAt": "2025-10-29T16:03:00+00:00",
-      "date": "2025-10-29 16:03:00",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/android-system-security-updates-vs-play-system-updates-2.jpg",
-      "url": "/tech-news/2025-10-29/new-android-malware-lags-like-a-human-to-steal-mon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google",
-        "Android Authority"
       ],
       "people": []
     },
@@ -3693,26 +3732,6 @@
       "people": []
     },
     {
-      "title": "Matka popisuje temnou stránku Apple Family Sharing po rozchodu",
-      "description": "Matka se soudně svěřenými dětmi popisuje, jak může bývalý partner zneužít funkci Family Sharing od Apple ke kontrole a nátlaku, přičemž podpora Apple jí nebyla schopna pomoci.",
-      "slug": "mother-describes-the-dark-side-of-apples-family-sh",
-      "publishedAt": "2025-10-29T12:02:23+00:00",
-      "date": "2025-10-29 12:02:23",
-      "importance": 3,
-      "category": "rodinné funkce",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Mother-describes-the-dark-side-of-Apples-Family-Sharing-feature-when-a-relationship-ends.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-29/mother-describes-the-dark-side-of-apples-family-sh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "OnePlus 15 teardown confirms our worst fear: Major camera downgrades - Android Authority",
       "description": "OnePlus 15 teardown reveals a larger battery, larger vapor chamber but surprising camera downgrades with all rear sensors being swapped out.",
       "slug": "oneplus-15-teardown-confirms-our-worst-fear-major-",
@@ -3762,24 +3781,6 @@
         "emoji": "📰",
         "id": null,
         "name": "XDA Developers"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nikon Small World Competition Announces 2025 Winners - Hackaday",
-      "description": "They say that, sometimes, less is more. That would certainly apply to photomicrography, where you want to take pictures of tiny things. Nikon agrees, and they sponsor the Small World contest every …",
-      "slug": "nikon-small-world-competition-announces-2025-winne",
-      "publishedAt": "2025-10-29T05:00:00+00:00",
-      "date": "2025-10-29 05:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/Nikon-2025-banner.jpg",
-      "url": "/tech-news/2025-10-29/nikon-small-world-competition-announces-2025-winne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hackaday"
       },
       "companies": [],
       "people": []

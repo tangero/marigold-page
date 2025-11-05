@@ -4,8 +4,8 @@ category: chytrá domácnost
 companies:
 - Google
 date: '2025-11-03 22:07:00'
-description: Po ukončení oficiální podpory termostatů Nest 1. a 2. generace nabízí
-  vývojář řešení pro jejich opětovné zprovoznění prostřednictvím alternativního firmware.
+description: Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář
+  vytvořil nástroj, který jim vrací funkčnost prostřednictvím alternativní platformy.
 importance: 3
 layout: tech_news_article
 original_title: Google pulled the plug on Nest Thermostats, but you can now bring
@@ -24,29 +24,29 @@ urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/wm
 
 ## Souhrn
 
-Google letos ukončil podporu termostatů Nest první a druhé generace, čímž uživatelé přišli o možnost ovládat zařízení přes mobilní aplikaci. Vývojář Cody Kociemba nyní zveřejnil open-source projekt na GitHubu, který umožňuje tato zařízení vrátit k životu pomocí alternativního firmware a přesměrování komunikace na novou platformu.
+Google v roce 2024 ukončil podporu termostatů Nest první a druhé generace po více než deseti letech provozu. Vývojář Cody Kociemba však vytvořil open-source projekt na GitHubu, který umožňuje těmto zařízením obnovit připojení a ovládání přes aplikaci pomocí alternativního firmware a vlastní platformy.
 
 ## Klíčové body
 
-- Google ukončil podporu termostatů Nest 1. a 2. generace po více než deseti letech provozu
-- Uživatelé ztratili možnost ovládat termostaty prostřednictvím mobilní aplikace
-- Vývojář Cody Kociemba vytvořil open-source řešení dostupné na GitHubu
-- Proces vyžaduje nahrání nového firmware a přesměrování komunikace na alternativní platformu
-- Řešení je zdarma, ale vyžaduje technické znalosti a uživatel nese plnou odpovědnost za případné problémy
+- Google ukončil cloudovou podporu pro termostaty Nest 1. a 2. generace, čímž uživatelé ztratili možnost ovládat je přes mobilní aplikaci
+- Vývojář Cody Kociemba zveřejnil projekt na GitHubu, který nabízí řešení pro obnovení funkčnosti
+- Řešení vyžaduje nahrání nového firmware do termostatu a přesměrování komunikace na alternativní platformu
+- Proces je bezplatný, ale vyžaduje technické znalosti a nese riziko poškození zařízení
+- Po úspěšné instalaci funguje termostat stejně jako před ukončením podpory
 
 ## Podrobnosti
 
-Ukončení podpory starších zařízení chytré domácnosti představuje problém, se kterým se uživatelé setkávají stále častěji. I když Google poskytl dostatečné předběžné upozornění, mnoho majitelů termostatů Nest první a druhé generace se ocitlo se zařízením, které sice funguje jako základní termostat, ale ztratilo veškeré chytré funkce včetně vzdáleného ovládání.
+Ukončení podpory starších chytrých zařízení je problém, se kterým se uživatelé setkávají stále častěji. V případě termostatů Nest první a druhé generace Google sice poskytl dostatečné předběžné upozornění, nicméně uživatelé přišli o klíčovou funkčnost zařízení, která jinak stále fungovala bez problémů. Termostaty ztratily možnost vzdáleného ovládání přes mobilní aplikaci, což výrazně snižuje jejich praktickou hodnotu.
 
-Řešení od Codyho Kociemby spočívá v nahrazení původního firmware alternativní verzí, která přesměruje veškerou komunikaci zařízení na novou platformu nezávislou na službách Google. Podle dostupných informací by mělo zařízení po úspěšné instalaci fungovat stejně jako před ukončením oficiální podpory, včetně ovládání přes aplikaci.
+Projekt Codyho Kociemby představuje technické řešení této situace. Funguje na principu nahrazení původního firmware alternativní verzí, která přesměrovává veškerou komunikaci z cloudových serverů Google na nově vytvořenou platformu. Uživatelské rozhraní a ovládání zůstává podle dostupných informací prakticky identické s původním stavem.
 
-Proces instalace však není určen pro běžné uživatele. Vyžaduje technické znalosti, pečlivé dodržování instrukcí a uživatel musí počítat s tím, že nese plnou odpovědnost za případné poškození zařízení. Jako u každé aktualizace firmware existuje riziko, že proces nemusí proběhnout úspěšně a termostat může přestat fungovat úplně. Projekt obsahuje rozsáhlé varování a upozornění, která je nutné před zahájením procesu pečlivě prostudovat.
+Implementace však není triviální záležitostí. Proces vyžaduje přímý zásah do firmware termostatu, což s sebou nese standardní rizika spojená s flashováním zařízení. Autor projektu uvádí řadu varování a upozornění, že v případě neúspěchu nebo poškození zařízení nese veškerou odpovědnost uživatel. Oficiální podpora od Google samozřejmě není k dispozici a pravděpodobně nikdy nebude.
+
+Dokumentace projektu je dostupná na GitHubu a obsahuje podrobné instrukce pro celý proces. Před zahájením jakýchkoli kroků je nezbytné pečlivě prostudovat všechny pokyny a ujistit se, že uživatel rozumí technickým aspektům a možným rizikům.
 
 ## Proč je to důležité
 
-Tento případ ilustruje širší problém ekosystému chytré domácnosti - závislost na cloudových službách výrobců a omezenou životnost zařízení, která jsou jinak technicky funkční. Zatímco deset let podpory lze považovat za nadstandardní, uživatelé oprávněně očekávají, že zařízení jako termostat vydrží déle než běžná elektronika.
-
-Open-source řešení ukazuje cestu, jak mohou komunity vývojářů prodloužit životnost zařízení i po ukončení oficiální podpory. Zároveň však zdůrazňuje rizika spojená s uzavřenými ekosystémy, kde výrobce má absolutní kontrolu nad funkčností produktu. Pro budoucí nákupy zařízení chytré domácnosti by uživatelé měli zvažovat nejen aktuální funkce, ale také dlouhodobou podporu a případnou dostupnost alternativních řešení.
+Tento projekt ilustruje širší problematiku životního cyklu chytrých domácích zařízení a závislosti na cloudových službách výrobců. Zatímco hardware může fungovat bez problémů i po deseti letech, softwarová podpora často končí mnohem dříve, což vede k předčasnému zastarání jinak funkčních zařízení. Open-source alternativy jako tento projekt ukazují možnou cestu, jak prodloužit životnost chytré domácnosti nezávisle na rozhodnutích výrobců. Zároveň však zdůrazňují technickou náročnost takových řešení, která nejsou dostupná běžným uživatelům bez technických znalostí.
 
 ---
 

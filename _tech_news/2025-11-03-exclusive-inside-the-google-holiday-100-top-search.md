@@ -21,11 +21,11 @@ urlToImage: https://nypost.com/wp-content/uploads/sites/2/2025/10/google-top-100
 urlToImageBackup: https://nypost.com/wp-content/uploads/sites/2/2025/10/google-top-100.png?w=1200
 ---
 
-Google zveřejnil seznam Holiday 100, který obsahuje stovku nejhledanějších dárků pro vánoční sezónu 2025. Seznam vznikl analýzou vyhledávacích dotazů a má sloužit jako nákupní průvodce pro vánoční období.
+Google zveřejnil seznam Holiday 100, který obsahuje stovku nejhledanějších dárků pro vánoční sezónu 2025. Seznam vznikl analýzou vyhledávacích dotazů a trendů v Google vyhledávači.
 
-Podle Sagal Mohammed, vedoucí komerčního obsahu ve společnosti Google, se letošní seznam zaměřuje na produkty podporující domácí pohodu a osobní regeneraci. Mezi nejhledanější kategorie patří kosmetické produkty pro domácí péči, kvalitní kávové šálky, aromaterapeutické difuzéry a prémiové kuchyňské nádobí.
+Podle Sagal Mohammed, vedoucí komerčního obsahu v Google, se letošní seznam zaměřuje na produkty podporující domácí pohodu a osobní regeneraci. Mezi nejhledanější kategorie patří kosmetické produkty pro domácí péči, kvalitní kávové šálky, aromaterapeutické difuzéry a prémiové kuchyňské nádobí.
 
-Seznam zahrnuje široké spektrum produktů od technologických gadgetů přes virální kosmetické novinky až po hračky. Všechny položky si své místo vysloužily vysokou frekvencí vyhledávání a zájmem uživatelů. Jedná se o marketingovou iniciativu, která má uživatelům usnadnit výběr dárků na základě aktuálních trendů ve vyhledávání.
+Jedná se primárně o marketingovou iniciativu Google, která nemá přímou souvislost s technologickým průmyslem. Seznam obsahuje běžné spotřební zboží a dárky napříč kategoriemi od elektroniky po domácí potřeby, které uživatelé v daném období nejvíce vyhledávají.
 
 ---
 

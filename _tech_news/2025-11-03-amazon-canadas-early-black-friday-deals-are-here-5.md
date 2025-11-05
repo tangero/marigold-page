@@ -4,8 +4,8 @@ companies:
 - Amazon
 - Apple
 date: '2025-11-03 17:23:06'
-description: Kanadská pobočka Amazonu zahájila předčasné Black Friday výprodeje s
-  až 88% slevami na elektroniku, domácí potřeby a vánoční dekorace.
+description: Amazon Kanada zahájil předčasné Black Friday výprodeje s tisíci položkami
+  se slevami až 88 %. Nabídka zahrnuje elektroniku, domácí potřeby a vánoční dekorace.
 importance: 1
 layout: tech_news_article
 original_title: 'Amazon Canada''s early Black Friday deals are here: 50 best deals
@@ -24,11 +24,11 @@ urlToImage: https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9a
 urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c77178e0-b8d6-11f0-9d43-9f6a4308eca7
 ---
 
-Amazon Kanada spustil předčasné Black Friday slevy několik týdnů před samotným datem výprodeje (28. listopadu 2024). Nabídka zahrnuje slevy až 88 % na tisíce produktů včetně sluchátek Apple AirPods, televizorů, vánoční výzdoby a kuchyňských spotřebičů.
+Amazon Kanada spustil předčasné Black Friday slevy téměř měsíc před samotným dnem (28. listopadu 2024). Jedná se o běžnou marketingovou kampaň e-commerce platformy zaměřenou na vánoční nákupy.
 
-Mezi nejvýraznější slevy patří elektrický rotační kartáč NBONEBS za 53 dolarů (původně 400 dolarů, sleva 87 %), chytré hodinky s Bluetooth za 40 dolarů (původně 250 dolarů, sleva 84 %) nebo přenosná nabíječka za 17 dolarů (původně 100 dolarů, sleva 83 %). Nabídka cílí na zákazníky, kteří chtějí nakoupit vánoční dárky s předstihem.
+Nabídka zahrnuje široké spektrum produktů od elektroniky (Apple AirPods, televizory) přes kuchyňské spotřebiče až po vánoční dekoraci a domácí potřeby. Slevy dosahují údajně až 88 % u vybraných položek, přičemž nejlevnější produkty začínají na 8 dolarech. Mezi propagovanými produkty jsou například elektrický rotační kartáč za 53 dolarů (původně 400 dolarů), chytré hodinky s Bluetooth za 40 dolarů nebo bezdrátový vysavač za 129 dolarů.
 
-Jedná se o standardní marketingovou kampaň e-commerce platformy bez technologického dopadu. Článek má charakter affiliate marketingu, kdy Yahoo Canada získává provizi z nákupů provedených přes odkazy v článku.
+Jde o standardní předvánoční výprodejovou akci bez technologického dopadu, která je relevantní pouze pro kanadské spotřebitele. Článek má charakter affiliate marketingu, kde Yahoo Canada získává provizi z nákupů provedených přes odkazy.
 
 ---
 

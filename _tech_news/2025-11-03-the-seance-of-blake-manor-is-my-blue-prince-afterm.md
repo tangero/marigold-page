@@ -1,11 +1,9 @@
 ---
-author: Marisa Aigen
 category: videohry
 date: '2025-11-03 14:36:00'
-description: Recenze logické hry The Seance of Blake Manor, která se odehrává v irském
-  venkovském sídle v 90. letech 19. století a nabízí komplexní detektivní záhadu s
-  časovým limitem.
-importance: 3
+description: Subjektivní recenze detektivní puzzle hry The Seance of Blake Manor od
+  autora, který nedokázal dohrát populární hru Blue Prince.
+importance: 2
 layout: tech_news_article
 original_title: The Seance Of Blake Manor Is My Blue Prince - aftermath.site
 publishedAt: '2025-11-03T14:36:00+00:00'
@@ -14,37 +12,19 @@ source:
   emoji: 📰
   id: null
   name: Aftermath.site
-title: The Seance of Blake Manor – detektivní logická hra z Irska 19. století
+title: The Seance of Blake Manor jako alternativa k Blue Prince
 url: https://aftermath.site/seance-of-blake-manor
+urlToImage: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png
+urlToImageBackup: https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png
 ---
 
-## Souhrn
+Autor Riley MacLeod popisuje svou zkušenost s detektivní puzzle hrou The Seance of Blake Manor od studia Spooky Door, kterou prezentuje jako svou osobní alternativu k všeobecně oblíbené hře Blue Prince. Zatímco Blue Prince se mu nepodařilo dohrát kvůli nedostatku motivace, The Seance of Blake Manor ho zcela pohltila.
 
-The Seance of Blake Manor je detektivní logická hra zasadená do Irska 90. let 19. století, kde hráč v roli detektiva Declana Warda vyšetřuje zmizení ženy jménem Evelyn Deane. Hra nabízí komplexní systém dedukce s časovým limitem a důrazem na plánování, vyšetřování a logické spojování indicií.
+Hra se odehrává v Irsku 90. let 19. století, kde hráč v roli detektiva Declana Warda vyšetřuje zmizení ženy jménem Evelyn Deane v tajemném panském sídle. Rozmanitá skupina hostů se zde sešla na spiritistickou seanci a všichni mají motivy k ublížení zmizené osobě. Hráč má víkend na vyřešení případu před seancí v neděli večer.
 
-## Klíčové body
+Časový limit vytváří tlak, ale čas plyne pouze při konkrétních akcích jako zkoumání předmětů, výslechy hostů nebo účast na jídlech a přednáškách. Důležitou součástí vyšetřování je sestavení rozvrhu aktivít a pohybu hostů, což umožňuje například prohledávat pokoje bez rizika prozrazení.
 
-- Hráč má víkend (do neděle večer) na vyřešení záhady zmizení Evelyn Deane v venkovském sídle
-- Čas plyne pouze při konkrétních akcích jako vyšetřování předmětů, výslechy hostů nebo účast na společenských událostech
-- Hra vyžaduje sestavení časového rozvrhu aktivit a pohybu všech hostů pro efektivní vyšetřování
-- Každá postava má vlastní minulost, motiv a vztahy s ostatními, které je třeba odhalit
-- Možnost prohledávat pokoje hostů, ale s rizikem prozrazení
-
-## Podrobnosti
-
-The Seance of Blake Manor představuje alternativu k nedávno populární logické hře Blue Prince. Zatímco Blue Prince zaujala široké publikum, autor recenze nachází v Blake Manor svou osobní "sicko mode" hru – tedy takovou, o které nemůže přestat přemýšlet a potřebuje o ní mluvit.
-
-Hra se odehrává v tajemném venkovském sídle, kde se sešla rozmanitá skupina hostů na spiritualistickou seanci. Všichni mají své důvody přát Evelyn Deane zlo. Hráč musí do nedělního večera, kdy se koná seance, odhalit, co se s ní stalo a kdo za to může.
-
-Klíčovým herním mechanismem je řízení času. Časový limit může působit stresujícím dojmem, ale hra jej implementuje elegantně – čas postupuje pouze při jasně označených akcích. To umožňuje hráči strategicky plánovat své kroky. Důležitým prvním krokem je vyplnění časového rozvrhu víkendových aktivit a pohybů jednotlivých hostů, což poskytuje přehled o tom, kdo bude kdy a kde.
-
-Tento systém otevírá zajímavé možnosti vyšetřování. Například hráč může využít znalosti rozvrhu k prohledávání pokojů hostů v době, kdy nejsou přítomni. Hra však varuje před prozrazením – být přistižen při neoprávněném vstupu má své důsledky.
-
-Každá postava v sídle, ať už host nebo personál, disponuje propracovanou minulostí, motivy a vztahy s ostatními postavami. Analýza postav odhaluje více informací a poskytuje témata pro konverzaci.
-
-## Proč je to důležité
-
-The Seance of Blake Manor představuje zajímavý přístup k žánru detektivních logických her s důrazem na časové plánování a systematické vyšetřování. Hra ukazuje, že i v době dominance velkých AAA titulů existuje prostor pro komplexní puzzle hry s propracovanými mechanismy dedukce. Pro fanoušky žánru nabízí alternativu k populárnímu Blue Prince s odlišným herním designem a atmosférou viktoriánského Irska.
+Jedná se o osobní dojmy autora z hraní, nikoli o objektivní recenzi nebo oznámení o vydání hry. Článek postrádá technické informace, datum vydání, platformy nebo cenu.
 
 ---
 
