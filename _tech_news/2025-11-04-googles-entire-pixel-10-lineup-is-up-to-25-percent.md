@@ -25,27 +25,27 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Google poprvé výrazně zlevnil celou řadu telefonů Pixel 10, které uvedl na trh teprve před měsícem. Základní model je k dispozici za 599 dolarů místo původních 799 dolarů, verze Pro za 749 dolarů místo 999 dolarů a skládací Pixel 10 Pro Fold za 1 499 dolarů oproti standardní ceně 1 799 dolarů. Slevy platí u prodejců Amazon a Best Buy.
+Google poprvé výrazně snížil ceny celé řady telefonů Pixel 10, které uvedl na trh teprve před měsícem. Základní model je nyní k dispozici za 599 dolarů místo původních 799 dolarů, verze Pro za 749 dolarů místo 999 dolarů a skládací Pixel 10 Pro Fold za 1 499 dolarů místo 1 799 dolarů. Slevy mají podle Google Store trvat do konce týdne.
 
-## Klíčové body
+## Klíčové点
 
-- Pixel 10 se 128GB úložištěm je o 200 dolarů levnější (599 USD místo 799 USD)
-- Pixel 10 Pro se 128GB úložištěm klesá o 250 dolarů (749 USD místo 999 USD)
-- Pixel 10 Pro Fold s 256GB úložištěm je o 300 dolarů levnější (1 499 USD místo 1 799 USD)
-- Slevy představují snížení o 25 procent oproti doporučeným cenám
-- Podle Google Store mají slevy trvat do konce týdne
+- Pixel 10 se 128GB úložištěm je dostupný za 599 dolarů, což představuje slevu 200 dolarů oproti původní ceně 799 dolarů
+- Model Pixel 10 Pro se 128GB úložištěm je k dispozici za 749 dolarů místo 999 dolarů, tedy o 250 dolarů levněji
+- Skládací Pixel 10 Pro Fold s 256GB úložištěm stojí 1 499 dolarů oproti původním 1 799 dolarům
+- Slevy jsou dostupné u prodejců Amazon a Best Buy, podle Google Store mají trvat do konce týdne
+- Jde o první výraznější cenové snížení od uvedení řady Pixel 10 na trh před měsícem
 
 ## Podrobnosti
 
-Základní Pixel 10 nabízí 6,3palcový OLED displej s rozlišením 1080p a obnovovací frekvencí až 120 Hz. Stejně jako ostatní modely řady je vybaven procesorem Tensor G5, který Google vyvinul speciálně pro své telefony s důrazem na funkce umělé inteligence. Verze Pro přináší vylepšený fotoaparát a rozšířené AI funkce, zatímco model Fold představuje skládací variantu s ohebným displejem.
+Google se rozhodl agresivně snížit ceny své nejnovější řady telefonů Pixel 10 pouhý měsíc po jejich uvedení na trh. Základní model Pixel 10 se 128GB úložištěm je nyní dostupný za 599 dolarů, což představuje 25procentní slevu oproti původní ceně 799 dolarů. Telefon nabízí 6,3palcový OLED displej s rozlišením 1080p a obnovovací frekvencí až 120 Hz, pohání ho procesor Tensor G5.
 
-Jde o první výraznější cenové snížení od uvedení řady Pixel 10 na trh, které proběhlo teprve před měsícem. Slevy jsou dostupné u hlavních prodejců včetně Amazonu a Best Buy, přičemž se vztahují na odemčené verze telefonů v různých barevných variantách. Google na svém oficiálním obchodě uvádí, že akční ceny budou platit minimálně do konce týdne.
+Model Pixel 10 Pro, který nabízí lepší fotoaparát a rozšířené funkce umělé inteligence, je k dispozici za 749 dolarů místo původních 999 dolarů. Jde o slevu 250 dolarů, což činí tento prémiový model výrazně dostupnějším. Nejvýraznější sleva se týká skládacího modelu Pixel 10 Pro Fold s 256GB úložištěm, který je nyní k dispozici za 1 499 dolarů oproti původním 1 799 dolarům.
 
-Časování slev naznačuje, že Google může podobné nabídky opakovat během Black Friday, který se v USA koná koncem listopadu. Pro zákazníky, kteří zvažují nákup telefonu Pixel 10, může být výhodnější vyčkat na tento tradiční výprodejový termín, kdy mohou slevy dosáhnout ještě vyšších hodnot.
+Slevy jsou dostupné u hlavních prodejců včetně Amazonu a Best Buy. Google Store uvádí, že tyto ceny budou platit do konce týdne. Pokud zákazníci nestihnou využít aktuální nabídku, podobné slevy se mohou vrátit během Black Friday na konci listopadu.
 
 ## Proč je to důležité
 
-Rychlé zavedení slev poukazuje na konkurenční tlak na trhu prémiových smartphonů, kde Google čelí především Apple s iPhone 17 a dalším výrobcům zařízení s Androidem. Cenové snížení o čtvrtinu už měsíc po uvedení na trh není u vlajkových modelů běžné a může signalizovat buď nižší než očekávaný zájem zákazníků, nebo strategickou snahu získat větší podíl na trhu před vánočním obdobím. Pro spotřebitele to představuje příležitost pořídit si aktuální generaci telefonů Google s pokročilými AI funkcemi za výrazně nižší cenu.
+Rychlé a výrazné snížení cen pouhý měsíc po uvedení na trh naznačuje, že Google čelí silné konkurenci na trhu prémiových telefonů. Srovnání s iPhonem 17 v článku není náhodné – Google se snaží konkurovat Applu agresivní cenovou politikou. Slevy činí telefony Pixel 10 výrazně atraktivnějšími pro zákazníky, kteří zvažovali nákup nového zařízení, zejména s ohledem na blížící se sváteční období. Pro trh to signalizuje, že i prémiové telefony s nejnovějšími technologiemi mohou být cenově dostupnější rychleji než v minulosti.
 
 ---
 

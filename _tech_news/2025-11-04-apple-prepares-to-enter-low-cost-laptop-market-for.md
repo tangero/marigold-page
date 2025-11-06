@@ -23,11 +23,11 @@ urlToImage: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iatk.zJV13.A/v1/120
 urlToImageBackup: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iatk.zJV13.A/v1/1200x800.jpg
 ---
 
-## Shrnutí
+## Krátké shrnutí
 
-Apple podle zdrojů agentury Bloomberg pracuje na svém prvním cenově dostupném notebooku, který má cílit na segment trhu obsazený Chromebooky a levnými Windows počítači. Zařízení má být určeno především studentům, firmám a běžným uživatelům, kteří nepotřebují výkonný hardware.
+Apple podle nepotvrzených informací z Bloomberg pracuje na svém prvním cenově dostupném notebooku, který má cílit na segment trhu ovládaný Chromebooky a levnými Windows počítači. Zařízení má být určeno především pro studenty, firmy a běžné uživatele, kteří potřebují notebook pro prohlížení webu, práci s dokumenty a základní úpravy médií. Apple údajně cílí také na potenciální kupce iPadů, kteří by preferovali tradiční notebookovou formu.
 
-**Poznámka:** Jedná se o nepotvrzenou informaci založenou na anonymních zdrojích. Apple podobné produkty oficiálně neoznámil a není jasné, zda a kdy by se mohly dostat na trh. Důležitost hodnocena jako spekulace (2/5).
+Jde o spekulativní informaci založenou na anonymních zdrojích, bez oficiálního potvrzení ze strany Applu. Článek neuvádí žádné konkrétní specifikace, cenu ani předpokládané datum uvedení na trh. Pokud by se informace potvrdila, znamenalo by to významnou strategickou změnu pro Apple, který se tradičně zaměřuje na prémiový segment trhu s vyššími maržemi. Vstup do segmentu levných notebooků by mohl rozšířit zákaznickou základnu, ale zároveň představuje riziko pro image značky spojené s prémiovými produkty.
 
 ---
 

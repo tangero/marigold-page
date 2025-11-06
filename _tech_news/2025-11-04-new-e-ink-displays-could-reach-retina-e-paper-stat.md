@@ -5,9 +5,9 @@ companies:
 - Uppsala University
 - University of Gothenburg
 date: '2025-11-04 11:16:00'
-description: Vědci z univerzit v Uppsale a Göteborgu navrhli nový typ antireflexní
-  obrazovky s extrémní hustotou pixelů, která by mohla posunout e-paper technologii
-  na zcela novou úroveň.
+description: Vědci z Uppsala University a University of Gothenburg navrhli nový typ
+  antireflexní obrazovky s extrémní hustotou pixelů, která by mohla překonat současné
+  e-ink displeje.
 importance: 3
 layout: tech_news_article
 original_title: New e-ink displays could reach "retina e-paper" status with pixel
@@ -26,31 +26,27 @@ urlToImageBackup: https://www.techspot.com/images2/news/bigimage/2025/10/2025-10
 
 ## Souhrn
 
-Výzkumníci ze švédské univerzity v Uppsale a univerzity v Göteborgu představili nový typ e-ink displeje, který by mohl dosáhnout hustoty pixelů přesahující 25 000 PPI. Tato technologie využívá elektrochemické principy a mohla by výrazně překonat současné e-paper displeje, které se pohybují kolem 300 PPI.
+Výzkumníci ze švédské Uppsala University a University of Gothenburg představili novou technologii e-ink displejů, která by mohla dosáhnout hustoty pixelů přes 25 000 PPI (pixelů na palec). Tato hodnota výrazně překonává současné e-ink displeje i běžné LCD a OLED obrazovky a přibližuje se teoretickému limitu lidského oka.
 
 ## Klíčové body
 
-- Nová technologie dosahuje hustoty pixelů přes 25 000 PPI, což je více než 80krát vyšší hodnota než u současných e-ink displejů
-- Displej využívá elektrochemické procesy místo tradičních mikrokapsulí s černými a bílými částicemi
-- Technologie zachovává klíčové vlastnosti e-paper displejů - nízkou spotřebu energie a čitelnost na přímém slunci
-- Výzkum je zatím ve fázi laboratorního prototypu, komerční nasazení není v dohledné době
-- Pixely mají velikost pouhých jednotek mikrometrů
+- Nová technologie využívá elektrochemický princip s nanočásticemi, které mění barvu při aplikaci elektrického napětí
+- Dosažená hustota pixelů přesahuje 25 000 PPI, což je výrazně více než u současných e-ink displejů (typicky 150-300 PPI)
+- Displeje si zachovávají klíčové vlastnosti e-ink technologie: nízkou spotřebu energie a čitelnost na přímém slunci
+- Technologie je zatím ve výzkumné fázi a do komerčního nasazení zbývá několik let
+- Výzkum byl publikován v odborném časopise a představuje potenciální průlom v oblasti elektronického papíru
 
 ## Podrobnosti
 
-Současné e-ink displeje, které najdeme v čtečkách elektronických knih jako Kindle nebo PocketBook, pracují s hustotou pixelů kolem 300 PPI. Tato hodnota je srovnatelná s běžnými LCD a OLED displeji v chytrých telefonech. Nová technologie ze Švédska by mohla tuto hodnotu zvýšit na více než 25 000 PPI, což představuje kvalitativní skok.
+Současné e-ink displeje, které se používají především ve čtečkách elektronických knih jako Amazon Kindle, dosahují hustoty pixelů mezi 150 až 300 PPI. Pro srovnání, běžné LCD displeje v chytrých telefonech mají typicky 300-500 PPI, zatímco špičkové OLED panely dosahují až 600 PPI. Lidské oko přestává rozlišovat jednotlivé pixely přibližně při 300 PPI při běžné vzdálenosti čtení, proto se tato hodnota označuje jako "retina" rozlišení.
 
-Principalní rozdíl spočívá v použité technologii. Zatímco tradiční e-ink displeje využívají mikrokapslule naplněné černými a bílými nabitými částicemi, které se přesouvají elektrickým polem, nový přístup pracuje s elektrochemickými procesy na molekulární úrovni. Každý pixel je tvořen elektrochemickou buňkou, která mění svou barvu v reakci na elektrický signál.
+Nová technologie ze Švédska funguje na principu elektrochemických reakcí s nanočásticemi, které mění svou barvu v závislosti na přiloženém napětí. Klíčovým rozdílem oproti současným e-ink displejům je miniaturizace těchto částic a způsob jejich uspořádání, což umožňuje vytvářet extrémně malé pixely. Výsledná hustota přes 25 000 PPI je teoreticky dostačující pro vytváření obrazu, který by lidské oko vnímalo jako naprosto hladký i při velmi blízké vzdálenosti.
 
-Výzkumníci zdůrazňují, že jejich technologie si zachovává hlavní výhody klasických e-ink displejů. Displej nevyžaduje podsvícení, je perfektně čitelný na přímém slunci a spotřebovává energii pouze při změně obsahu obrazovky. Po zobrazení statického obrazu nevyžaduje žádný příkon.
-
-Velikost jednotlivých pixelů se pohybuje v řádu jednotek mikrometrů, což umožňuje zobrazení extrémně jemných detailů. Pro srovnání - lidské oko přestává rozlišovat jednotlivé pixely při hustotě kolem 300-400 PPI při běžné vzdálenosti čtení, proto se tato hodnota označuje jako "retina" rozlišení.
+Výzkumníci zdůrazňují, že nová technologie si zachovává základní výhody e-ink displejů: minimální spotřebu energie (obraz zůstává viditelný i bez napájení), výbornou čitelnost na přímém slunci díky reflektivnímu principu a absenci modrého světla, které unavuje oči. Tyto vlastnosti dělají z e-ink technologie ideální řešení pro dlouhodobé čtení.
 
 ## Proč je to důležité
 
-Pokud se tuto technologii podaří dovést do komerční podoby, mohla by otevřít nové možnosti využití e-paper displejů. Extrémně vysoká hustota pixelů by umožnila zobrazení velmi jemných detailů, což by ocenili zejména uživatelé pracující s technickými výkresy, notami nebo vědeckými publikacemi s komplexními diagramy.
-
-Realita je však taková, že cesta od laboratorního prototypu ke komerčnímu produktu bývá dlouhá a plná technických i ekonomických překážek. Výzkumníci zatím neprezentovali informace o rychlosti odezvy displeje, barevném podání ani o nákladech na výrobu. Současné e-ink displeje trpí pomalou odezvou a omezenou barevnou paletou, což omezuje jejich použití především na čtečky knih a cenové štítky v obchodech.
+Pokud se technologie podaří dovést do komerční podoby, mohla by výrazně posunout možnosti elektronických čteček a dalších zařízení využívających e-ink displeje. Extrémně vysoká hustota pixelů by umožnila zobrazovat jemné detaily, komplexní grafiku a text s kvalitou blížící se tištěné knize. To by mohlo otevřít nové aplikace pro e-ink technologii v oblasti odborných publikací, technických výkresů nebo uměleckých reprodukcí. Současně by zachování nízké spotřeby energie a čitelnosti na slunci udrželo klíčové konkurenční výhody oproti LCD a OLED displejům. Výzkum je však zatím v rané fázi a praktické nasazení bude záviset na vyřešení výrobních a ekonomických otázek.
 
 ---
 

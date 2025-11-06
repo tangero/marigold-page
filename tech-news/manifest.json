@@ -1,7 +1,128 @@
 {
-  "generated": "2025-11-05T20:24:08.748102+00:00",
+  "generated": "2025-11-06T01:01:21.508484+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Chytré vánoční řetězy Govee v předsváteční slevě",
+      "description": "Govee Christmas Lights 2 jsou nyní dostupné se slevou až 100 dolarů. Ceny začínají na 69,99 dolarů za 20metrovou verzi.",
+      "slug": "deck-your-house-in-govees-smart-string-lights-whic",
+      "publishedAt": "2025-11-04T20:00:00+00:00",
+      "date": "2025-11-04 20:00:00",
+      "importance": 2,
+      "category": "chytré osvětlení",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25772023/goveechristmas.jpg?quality=90&strip=all&crop=0%2C18.840116151172%2C100%2C79.369967882441&w=1200",
+      "url": "/tech-news/2025-11-04/deck-your-house-in-govees-smart-string-lights-whic/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Govee"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sora je nyní dostupná na Androidu v USA, Kanadě a dalších regionech",
+      "description": "AI generátor videí od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si zachovává všechny funkce včetně kontroverzní funkce Cameos pro tvorbu videí s vlastní podobiznou.",
+      "slug": "sora-is-now-available-on-android-in-the-us-canada-",
+      "publishedAt": "2025-11-04T19:35:51+00:00",
+      "date": "2025-11-04 19:35:51",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+      "url": "/tech-news/2025-11-04/sora-is-now-available-on-android-in-the-us-canada-/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.2 přidává posuvník Liquid Glass pro přizpůsobení zamykací obrazovky",
+      "description": "Beta verze iOS 26.2 přináší vylepšený posuvník pro úpravu průhlednosti hodin na zamykací obrazovce iPhonu pomocí efektu Liquid Glass.",
+      "slug": "ios-262-adds-liquid-glass-slider-to-customize-your",
+      "publishedAt": "2025-11-04T19:22:00+00:00",
+      "date": "2025-11-04 19:22:00",
+      "importance": 2,
+      "category": "mobilní systémy",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26-2-liquid-glass-clock-lock-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/ios-262-adds-liquid-glass-slider-to-customize-your/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.2 přináší tři vylepšení aplikace Apple Podcasts",
+      "description": "Apple aktualizuje svou vestavěnou aplikaci Podcasts ve verzi iOS 26.2 o automatické generování kapitol, lepší objevování odkazovaných podcastů a snadnější přístup k odkazům ze show notes.",
+      "slug": "ios-262-includes-three-helpful-upgrades-to-apple-p",
+      "publishedAt": "2025-11-04T18:50:00+00:00",
+      "date": "2025-11-04 18:50:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-podcasts-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/ios-262-includes-three-helpful-upgrades-to-apple-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 18.2 a watchOS 11.2 aktualizují rozsahy hodnocení spánku",
+      "description": "Apple upravil škálu hodnocení kvality spánku v nových verzích iOS a watchOS, čímž mění způsob vyhodnocování spánkových dat.",
+      "slug": "ios-262-and-watchos-262-update-sleep-score-ranges-",
+      "publishedAt": "2025-11-04T18:44:03+00:00",
+      "date": "2025-11-04 18:44:03",
+      "importance": 3,
+      "category": "mobilní operační sys",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-04/ios-262-and-watchos-262-update-sleep-score-ranges-/",
+      "source": {
+        "emoji": "📰",
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung představil HDR10 Plus Advanced jako odpověď na Dolby Vision 2",
+      "description": "Samsung ukázal simulovanou ukázku nového formátu dynamického HDR s šesti funkcemi podobnými Dolby Vision 2. Technologie by měla dorazit na trh v roce 2026.",
+      "slug": "samsung-previews-hdr10-plus-advanced-its-answer-to",
+      "publishedAt": "2025-11-04T18:36:19+00:00",
+      "date": "2025-11-04 18:36:19",
+      "importance": 3,
+      "category": "televizory",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23123060/HDR10_GAMING_Standard_main2.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
+      "url": "/tech-news/2025-11-04/samsung-previews-hdr10-plus-advanced-its-answer-to/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Samsung",
+        "Dolby"
+      ],
+      "people": []
+    },
     {
       "title": "Apple údajně připravuje levný notebook pro konkurenci Chromebookům",
       "description": "Podle zdrojů Bloomberg vyvíjí Apple poprvé v historii cenově dostupný Mac zaměřený na studenty a běžné uživatele, který má konkurovat Chromebookům a levným Windows notebookům.",
@@ -26,7 +147,7 @@
     },
     {
       "title": "Google Maps získává funkci živého vedení v jízdních pruzích pro vozy Polestar 4",
-      "description": "Google Maps zavádí novou funkci živého vedení v pruzích pro elektromobily Polestar 4 v USA a Švédsku, která využívá přední kameru vozidla a AI k navigaci při změnách pruhů.",
+      "description": "Google Maps zavádí novou funkci živého vedení v pruzích pro elektromobily Polestar 4 v USA a Švédsku. Systém využívá přední kameru vozidla a AI k poskytování pokynů pro včasné přejíždění.",
       "slug": "google-maps-can-tell-polestar-4-drivers-when-to-me",
       "publishedAt": "2025-11-04T16:57:50+00:00",
       "date": "2025-11-04 16:57:50",
@@ -42,6 +163,27 @@
       "companies": [
         "Google",
         "Polestar"
+      ],
+      "people": []
+    },
+    {
+      "title": "Detailní pohled na Galaxy Z TriFold odhaluje kompromis v podobě tlustších rámečků",
+      "description": "Nové záběry Samsungu Galaxy Z TriFold ukazují, že telefon se třemi skládacími částmi má výrazně tlustší rámečky kolem displeje než současný Galaxy Z Fold 7.",
+      "slug": "closer-look-at-galaxy-z-trifold-shows-that-samsung",
+      "publishedAt": "2025-11-04T16:21:00+00:00",
+      "date": "2025-11-04 16:21:00",
+      "importance": 3,
+      "category": "skládací telefony",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Galaxy-Z-TriFold-bezels-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/closer-look-at-galaxy-z-trifold-shows-that-samsung/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Samsung",
+        "Google"
       ],
       "people": []
     },
@@ -63,6 +205,49 @@
       "companies": [
         "Google",
         "8BitDo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Best Buy spouští předčasné slevy na Black Friday: sluchátka, televize a další elektronika",
+      "description": "Americký řetězec Best Buy zahájil předčasný výprodej před Black Friday se slevami na elektroniku včetně sluchátek, televizí, notebooků a herního vybavení.",
+      "slug": "best-buys-early-black-friday-deals-start-saving-on",
+      "publishedAt": "2025-11-04T15:17:44+00:00",
+      "date": "2025-11-04 15:17:44",
+      "importance": 3,
+      "category": "slevy elektroniky",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/02TsKfwKJF7Rsm4jJ83pyUU-9.fit_lim.size_1200x630.v1762267092.png",
+      "url": "/tech-news/2025-11-04/best-buys-early-black-friday-deals-start-saving-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "Best Buy",
+        "PCMag"
+      ],
+      "people": []
+    },
+    {
+      "title": "WhatsApp spouští dlouho očekávanou aplikaci pro Apple Watch",
+      "description": "Meta konečně vydala nativní aplikaci WhatsApp pro Apple Watch, která umožňuje číst zprávy, nahrávat hlasové zprávy a přijímat notifikace hovorů přímo z chytrých hodinek.",
+      "slug": "whatsapp-launches-long-awaited-apple-watch-app-tec",
+      "publishedAt": "2025-11-04T15:00:00+00:00",
+      "date": "2025-11-04 15:00:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/English_WhatsApp-apple-watch-2.png?resize=1200,675",
+      "url": "/tech-news/2025-11-04/whatsapp-launches-long-awaited-apple-watch-app-tec/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "WhatsApp",
+        "Apple",
+        "TechCrunch"
       ],
       "people": []
     },
@@ -108,8 +293,29 @@
       "people": []
     },
     {
+      "title": "Alexa+ přichází do aplikace Amazon Music",
+      "description": "Amazon zpřístupňuje svého vylepšeného hlasového asistenta Alexa+ v mobilní aplikaci Amazon Music. Funkce využívá AI pro přirozenější konverzaci o hudbě a je dostupná pro uživatele s předběžným přístupem.",
+      "slug": "alexa-comes-to-the-amazon-music-app-techcrunch",
+      "publishedAt": "2025-11-04T14:00:00+00:00",
+      "date": "2025-11-04 14:00:00",
+      "importance": 3,
+      "category": "hudební služby",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/alexaplusmusic2.png?w=1164",
+      "url": "/tech-news/2025-11-04/alexa-comes-to-the-amazon-music-app-techcrunch/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Amazon",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
       "title": "Tři funkce Oppo Find X9 Pro, které by Apple měl okopírovat pro iPhone 18",
-      "description": "Komentář redaktora CNET ukazuje, kde iPhone 17 Pro zaostává za čínskou konkurencí v oblasti fotografie, nabíjení a designu.",
+      "description": "Komentář redaktora CNET poukazuje na oblasti, kde čínský Oppo Find X9 Pro předčí iPhone 17 Pro, zejména v kvalitě fotografií, nabíjení a designu.",
       "slug": "apple-desperately-needs-to-copy-3-oppo-find-x9-pro",
       "publishedAt": "2025-11-04T13:00:00+00:00",
       "date": "2025-11-04 13:00:00",
@@ -149,7 +355,7 @@
     },
     {
       "title": "Nové e-ink displeje by mohly dosáhnout hustoty přes 25 000 PPI",
-      "description": "Vědci z univerzit v Uppsale a Göteborgu navrhli nový typ antireflexní obrazovky s extrémní hustotou pixelů, která by mohla posunout e-paper technologii na zcela novou úroveň.",
+      "description": "Vědci z Uppsala University a University of Gothenburg navrhli nový typ antireflexní obrazovky s extrémní hustotou pixelů, která by mohla překonat současné e-ink displeje.",
       "slug": "new-e-ink-displays-could-reach-retina-e-paper-stat",
       "publishedAt": "2025-11-04T11:16:00+00:00",
       "date": "2025-11-04 11:16:00",
@@ -169,8 +375,8 @@
       "people": []
     },
     {
-      "title": "Snapdragon 8 Elite Gen 6 má údajně dorazit ve dvou verzích, varianta Pro s exkluzivní podporou LPDDR6",
-      "description": "Nové spekulace naznačují, že Qualcomm připravuje čipset Snapdragon 8 Elite Gen 6 ve dvou variantách, přičemž model Pro má nabídnout pokročilejší specifikace včetně podpory paměti LPDDR6.",
+      "title": "Snapdragon 8 Elite Gen 6 údajně dorazí ve dvou verzích, varianta Pro má dostat exkluzivní podporu LPDDR6",
+      "description": "Nové spekulace naznačují, že Qualcomm připravuje čipset Snapdragon 8 Elite Gen 6 ve dvou variantách, přičemž verze Pro má nabídnout pokročilejší specifikace včetně podpory paměti LPDDR6.",
       "slug": "snapdragon-8-elite-gen-6-rumored-to-arrive-in-two-",
       "publishedAt": "2025-11-04T08:42:00+00:00",
       "date": "2025-11-04 08:42:00",
@@ -247,13 +453,13 @@
       "people": []
     },
     {
-      "title": "YouTube omylem zrušil účet technologického tvůrce s 350 000 odběrateli kvůli AI rozhodnutí",
-      "description": "Technologický YouTuber Enderman přišel o účet s více než 350 000 odběrateli poté, co AI systém YouTube nesprávně spojil jeho kanál s jiným účtem porušujícím autorská práva.",
+      "title": "YouTube zrušil účet technologického tvůrce s 350 tisíci odběrateli kvůli chybě AI",
+      "description": "Technologický YouTuber Enderman přišel o účet s více než 350 tisíci odběrateli poté, co ho automatizovaný systém YouTube nesprávně spojil s kanálem porušujícím autorská práva.",
       "slug": "tech-youtuber-irate-as-ai-wrongfully-terminates-ac",
       "publishedAt": "2025-11-04T03:59:08+00:00",
       "date": "2025-11-04 03:59:08",
       "importance": 3,
-      "category": "umělá inteligence",
+      "category": "sociální média",
       "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/04/YouTube-AI-termination.jpg",
       "url": "/tech-news/2025-11-04/tech-youtuber-irate-as-ai-wrongfully-terminates-ac/",
       "source": {
@@ -369,7 +575,7 @@
     },
     {
       "title": "Prodeje telefonů Google Pixel dosáhly rekordních hodnot",
-      "description": "Série Pixel 10 pomohla Googlu dosáhnout 28% meziročního růstu prodejů v USA a získat 6,1% podíl na prémiových telefonech.",
+      "description": "Prodeje řady Pixel v USA vzrostly meziročně o 28 %, série Pixel 10 se stala nejrychleji rostoucí prémiovou značkou na trhu.",
       "slug": "google-pixel-sales-continue-to-surge-as-the-brand-",
       "publishedAt": "2025-11-03T23:32:00+00:00",
       "date": "2025-11-03 23:32:00",
@@ -3360,24 +3566,6 @@
       "people": []
     },
     {
-      "title": "Google surprises Pixel users with another October update - Android Authority",
-      "description": "Google is unexpectedly releasing another October update for Pixel phones. Once again, it looks like the Pixel 6 is missing out.",
-      "slug": "google-surprises-pixel-users-with-another-october-",
-      "publishedAt": "2025-10-30T21:08:26+00:00",
-      "date": "2025-10-30 21:08:26",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-3-scaled.jpg",
-      "url": "/tech-news/2025-10-30/google-surprises-pixel-users-with-another-october-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "New court document reveals payment details between Jon Prosser and Michael Ramacciotti - 9to5Mac",
       "description": "Following a couple of deadline extensions, Michael Ramacciotti’s lawyer sent in his answer to Apple’s complaint in the Jon Prosser case.",
       "slug": "new-court-document-reveals-payment-details-between",
@@ -3414,24 +3602,6 @@
       "people": []
     },
     {
-      "title": "How a chorus of synchronized frequencies helps you digest your food - Phys.org",
-      "description": "Synchronization abounds in nature: from the flashing lights of fireflies to the movement of fish wriggling through the ocean, biological systems are often in rhythmic movement with each other. The mechanics of how this synchronization happens are complex.",
-      "slug": "how-a-chorus-of-synchronized-frequencies-helps-you",
-      "publishedAt": "2025-10-30T20:09:04+00:00",
-      "date": "2025-10-30 20:09:04",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/how-a-chorus-of-synchr.jpg",
-      "url": "/tech-news/2025-10-30/how-a-chorus-of-synchronized-frequencies-helps-you/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "I Didn’t Expect to Like Nike’s Wildly Futuristic Robotic Shoes. Then I Tried Them - Gear Patrol",
       "description": "Unlike a super shoe, Project Amplify isn't about making people quicker. But I'll be damned if it isn't fun to run fast.",
       "slug": "i-didnt-expect-to-like-nikes-wildly-futuristic-rob",
@@ -3450,24 +3620,6 @@
       "people": []
     },
     {
-      "title": "Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google",
-      "description": "The Android XR floodgates finally cracked open this month with the debut of Samsung’s Galaxy XR headset, but glasses are...",
-      "slug": "google-shows-off-prototype-android-xr-glasses-from",
-      "publishedAt": "2025-10-30T19:15:00+00:00",
-      "date": "2025-10-30 19:15:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/google-android-xr-glasses-magic-leap-presentation-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/google-shows-off-prototype-android-xr-glasses-from/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "No More Game Optimizations for AMD Radeon RX 6000 and RX 5000, Still Part of Main Driver Branch - TechPowerUp",
       "description": "In a rather shocking move, AMD has given the Radeon RX 6000 series and RX 5000 series GPUs a partial retirement by removing it from the regular monthly game optimization cycle. While the monthly driver updates will continue to support them, the game optimizat…",
       "slug": "no-more-game-optimizations-for-amd-radeon-rx-6000-",
@@ -3481,24 +3633,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Techpowerup.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Creative revives iconic Sound Blaster brand with modular audio hub - TechSpot",
-      "description": "At the heart of the Re:Imagine is an octa-core Arm-based SoC paired with 8GB of LPDDR4 RAM and 16GB of eMMC flash storage. There's also a 6-TOPS...",
-      "slug": "creative-revives-iconic-sound-blaster-brand-with-m",
-      "publishedAt": "2025-10-30T18:59:00+00:00",
-      "date": "2025-10-30 18:59:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-30-image-23.jpg",
-      "url": "/tech-news/2025-10-30/creative-revives-iconic-sound-blaster-brand-with-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TechSpot"
       },
       "companies": [],
       "people": []
@@ -3540,24 +3674,6 @@
       "people": []
     },
     {
-      "title": "Google study finds Android avoids 58% more spam and scam texts compared to iOS - 9to5Google",
-      "description": "As part of Cybersecurity Awareness Month, Google partnered with YouGov to commission a survey of over 5,000 smartphone users throughout...",
-      "slug": "google-study-finds-android-avoids-58-more-spam-and",
-      "publishedAt": "2025-10-30T18:00:00+00:00",
-      "date": "2025-10-30 18:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Banner-1-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/google-study-finds-android-avoids-58-more-spam-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Introducing Aardvark: OpenAI’s agentic security researcher - OpenAI",
       "description": "Now in private beta: an AI agent that thinks like a security researcher and scales to meet the demands of modern software.",
       "slug": "introducing-aardvark-openais-agentic-security-rese",
@@ -3576,60 +3692,6 @@
       "people": []
     },
     {
-      "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica",
-      "description": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival.",
-      "slug": "disney-gets-hdr10-via-over-1000-hulu-titles-ars-te",
-      "publishedAt": "2025-10-30T17:28:38+00:00",
-      "date": "2025-10-30 17:28:38",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg",
-      "url": "/tech-news/2025-10-30/disney-gets-hdr10-via-over-1000-hulu-titles-ars-te/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls - The Verge",
-      "description": "DJI’s new Neo 2 drone for China is upgraded with a bigger battery, obstacle avoidance, gesture controls, and a small display showing you what mode it’s in.",
-      "slug": "djis-neo-2-selfie-drone-adds-obstacle-avoidance-an",
-      "publishedAt": "2025-10-30T16:35:01+00:00",
-      "date": "2025-10-30 16:35:01",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/dji_neo2_4.jpg?quality=90&strip=all&crop=0,10.713061910796,100,78.573876178409",
-      "url": "/tech-news/2025-10-30/djis-neo-2-selfie-drone-adds-obstacle-avoidance-an/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google Maps prepares black & white ‘Power saving mode’ on Android [Gallery] - 9to5Google",
-      "description": "Google Maps is preparing a new “Power saving mode” behind the scenes on its Android app, which does away with...",
-      "slug": "google-maps-prepares-black-white-power-saving-mode",
-      "publishedAt": "2025-10-30T16:05:00+00:00",
-      "date": "2025-10-30 16:05:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/google-maps-power-saving-mode-prep-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/google-maps-prepares-black-white-power-saving-mode/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "T-Mobile’s emergency payments system is going online-only - 9to5Google",
       "description": "Users who need to take advantage of T-Mobile’s payment arrangements in uncertain times will need to do it all in...",
       "slug": "t-mobiles-emergency-payments-system-is-going-onlin",
@@ -3639,24 +3701,6 @@
       "category": "tech",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/T-Mobile_New_Logo_Primary_RGB_W-on-M.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-10-30/t-mobiles-emergency-payments-system-is-going-onlin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google Play now allows Android apps to use other billing systems in the US - 9to5Google",
-      "description": "Following a court ruling, Google has been forced to open up the Play Store in the US to allow Android...",
-      "slug": "google-play-now-allows-android-apps-to-use-other-b",
-      "publishedAt": "2025-10-30T15:30:00+00:00",
-      "date": "2025-10-30 15:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/google-play-now-allows-android-apps-to-use-other-b/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -3769,24 +3813,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Wccftech"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Deepfake Videos Are More Realistic Than Ever. How Can You Spot if a Video Is Real or Sora AI? - CNET",
-      "description": "Figuring out if a video is made with OpenAI's Sora app is difficult, but there are some visual clues.",
-      "slug": "deepfake-videos-are-more-realistic-than-ever-how-c",
-      "publishedAt": "2025-10-30T04:30:35+00:00",
-      "date": "2025-10-30 04:30:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/029e818f542e695b1e3a60cc9bcbe97a220ffdc9/hub/2025/09/26/740849d5-a0ab-499b-b9fe-5d54c27c9968/ai-cnet-3.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-30/deepfake-videos-are-more-realistic-than-ever-how-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
       },
       "companies": [],
       "people": []

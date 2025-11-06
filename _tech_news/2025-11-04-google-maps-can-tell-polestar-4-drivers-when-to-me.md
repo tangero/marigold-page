@@ -6,8 +6,8 @@ companies:
 - Polestar
 date: '2025-11-04 16:57:50'
 description: Google Maps zavádí novou funkci živého vedení v pruzích pro elektromobily
-  Polestar 4 v USA a Švédsku, která využívá přední kameru vozidla a AI k navigaci
-  při změnách pruhů.
+  Polestar 4 v USA a Švédsku. Systém využívá přední kameru vozidla a AI k poskytování
+  pokynů pro včasné přejíždění.
 importance: 3
 layout: tech_news_article
 original_title: Google Maps can tell Polestar 4 drivers when to merge lanes - The
@@ -27,31 +27,33 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Google Maps zavádí novou funkci živého vedení v jízdních pruzích (live lane guidance) pro elektromobily Polestar 4 v USA a Švédsku. Systém využívá přední kameru vozidla ke snímání značení pruhů a dopravních značek, které následně zpracovává pomocí AI a poskytuje řidiči přizpůsobené zvukové a vizuální pokyny pro změny jízdních pruhů v reálném čase.
+Google Maps zavádí funkci živého vedení v jízdních pruzích (live lane guidance) pro elektromobily Polestar 4 v USA a Švédsku. Systém využívá přední kameru vozidla ke snímání značení pruhů a dopravních značek, které následně zpracovává AI Google Maps a poskytuje řidiči přizpůsobené audio a vizuální pokyny pro včasné přejíždění mezi pruhy.
 
 ## Klíčové body
 
-- Funkce využívá přední kameru vozidla ke snímání značení pruhů a dopravních značek na silnici
-- AI v Google Maps zpracovává data z kamery a poskytuje řidiči pokyny v reálném čase
-- Systém upozorňuje řidiče na potřebu změnit pruh s dostatečným předstihem před sjezdem
-- Funkce je dostupná pouze pro vozy Polestar 4 v USA a Švédsku
-- Polestar využívá vestavěný Android systém pro své informačně-zábavní systémy
+- Funkce využívá přední kameru vozu Polestar 4 ke snímání značení pruhů a dopravních značek v reálném čase
+- AI Google Maps zpracovává data z kamery a poskytuje personalizované pokyny pro přejíždění
+- Systém upozorňuje řidiče, když je potřeba změnit pruh například před sjezdem z dálnice
+- Funkce je dostupná zatím pouze pro vozy Polestar 4 v USA a Švédsku
+- Polestar využívá vestavěný Android systém pro své infotainment systémy
 
 ## Podrobnosti
 
-Nová funkce živého vedení v pruzích představuje další krok v integraci služeb Google do vozidel Polestar. Systém funguje tak, že přední kamera vozidla kontinuálně snímá okolí a rozpoznává značení jízdních pruhů a dopravní značky. Tato data jsou následně zpracována pomocí AI algoritmu v Google Maps, který je kombinuje s navigačními informacemi.
+Nová funkce živého vedení v pruzích představuje další krok v integraci služeb Google do vozů Polestar. Systém funguje tak, že přední kamera vozidla kontinuálně snímá okolí a rozpoznává značení jízdních pruhů a dopravní značky. Tyto informace jsou následně předávány do AI systému Google Maps, který je kombinuje s navigačními daty a aktuální polohou vozidla.
 
-Praktické využití lze demonstrovat na běžné situaci: pokud řidič jede v levém pruhu dálnice a jeho sjezd se nachází vpravo, systém detekuje aktuální pozici vozidla a včas upozorní na nutnost přeřazení do správného pruhu. Informace se zobrazují na palubním displeji vozidla a jsou doplněny zvukovými pokyny.
+Praktické využití si lze představit například při jízdě po dálnici, kdy se řidič nachází v levém pruhu a jeho sjezd je na pravé straně. Systém dokáže detekovat, že řidič je několik pruhů od potřebného sjezdu, a včas ho upozorní na nutnost přejíždění. Pokyny jsou zobrazovány na palubním displeji vozidla a doplněny audio pokyny.
 
-Vozidla Polestar využívají vestavěný Android systém od Google pro své informačně-zábavní systémy již několik let. Tato integrace umožnila postupné zavádění dalších služeb Google, včetně prohlížeče Chrome a map s vysokým rozlišením. Nová funkce živého vedení v pruzích navazuje na tuto spolupráci a představuje další využití AI technologií přímo ve vozidle.
+Polestar, čínsko-švédský výrobce elektrických vozidel, dlouhodobě spolupracuje s Google na integraci Android systému do svých vozů. Za posledních pět let společnost do svých vozidel implementovala různé produkty Google včetně prohlížeče Chrome a map s vysokým rozlišením. Vozy Polestar využívají vestavěný Android Automotive OS pro své infotainment systémy, což umožňuje hlubší integraci služeb než běžné Android Auto.
 
-Podle Sida Odedry, vedoucího oddělení UX/UI společnosti Polestar, má funkce snížit stres řidičů a zvýšit bezpečnost tím, že minimalizuje riziko zmeškaných sjezdů a nutnost náhlých změn jízdních pruhů.
+Sid Odedra, vedoucí oddělení UX/UI společnosti Polestar, označil novou funkci za pokračování strategie zaměřené na řidiče, která má snižovat stres při řízení a zvyšovat bezpečnost tím, že minimalizuje riziko zmeškaných sjezdů a nutnost náhlých změn pruhů.
 
 ## Proč je to důležité
 
-Tato novinka ilustruje rostoucí trend integrace AI technologií přímo do automobilů a využití pokročilého počítačového vidění pro zlepšení navigace. Zatímco podobné funkce asistence v jízdních pruzích existují v různých vozidlech, propojení s navigačním systémem a využití dat z Google Maps představuje zajímavý přístup k řešení běžných navigačních situací.
+Funkce živého vedení v pruzích ukazuje rostoucí trend integrace AI a kamerových systémů do navigačních řešení. Zatímco podobné funkce jsou běžnou součástí pokročilých asistenčních systémů (ADAS), jejich propojení s navigací představuje další úroveň personalizace a kontextového porozumění.
 
-Omezení na jeden model vozidla a dva trhy však naznačuje, že jde zatím o pilotní nasazení. Bude zajímavé sledovat, zda Google rozšíří tuto funkci i na další výrobce automobilů využívající Android Automotive OS, nebo zda zůstane exkluzivitou pro vybrané partnery.
+Jde o příklad toho, jak technologičtí giganti jako Google využívají své softwarové platformy k získání pozice v automobilovém průmyslu. Exkluzivní dostupnost pro Polestar 4 naznačuje, že Google testuje funkci na omezeném vzorku před případným širším nasazením. Zároveň to posiluje pozici Polestaru jako technologicky pokročilé značky, která může nabídnout funkce nedostupné u konkurence.
+
+Otázkou zůstává, jak rychle se podobné funkce rozšíří do dalších vozidel a zda Google plánuje jejich zpřístupnění i pro běžné Android Auto uživatele, kteří používají vlastní smartphony pro navigaci.
 
 ---
 

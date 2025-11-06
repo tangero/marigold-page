@@ -6,8 +6,8 @@ companies:
 - Oppo
 - CNET
 date: '2025-11-04 13:00:00'
-description: Komentář redaktora CNET ukazuje, kde iPhone 17 Pro zaostává za čínskou
-  konkurencí v oblasti fotografie, nabíjení a designu.
+description: Komentář redaktora CNET poukazuje na oblasti, kde čínský Oppo Find X9
+  Pro předčí iPhone 17 Pro, zejména v kvalitě fotografií, nabíjení a designu.
 importance: 3
 layout: tech_news_article
 original_title: Apple Desperately Needs to Copy 3 Oppo Find X9 Pro Features for the
@@ -26,26 +26,29 @@ urlToImageBackup: https://www.cnet.com/a/img/resize/47669c4f9440038b250a91e5b408
 
 ## Souhrn
 
-Redaktor technologického serveru CNET po týdnu testování Oppo Find X9 Pro identifikoval tři oblasti, kde iPhone 17 Pro výrazně zaostává za čínskou konkurencí. Jde především o kvalitu fotografií při zoomu a v noci, rychlost nabíjení a ergonomii zařízení. Přestože Oppo Find X9 Pro není v USA oficiálně dostupný, ukazuje směr, kterým by se měl Apple vydat.
+Redaktor technologického serveru CNET po týdnu testování telefonu Oppo Find X9 Pro identifikoval tři klíčové oblasti, kde čínský výrobce předčí aktuální iPhone 17 Pro a které by Apple měl implementovat do příštího iPhone 18. Jde především o kvalitu fotografií, rychlost nabíjení a ergonomii zařízení.
 
 ## Klíčové body
 
-- Oppo Find X9 Pro má 200megapixelový teleobjektiv s 3× optickým zoomem, který poskytuje výrazně ostřejší snímky než 48megapixelový 4× teleobjektiv iPhonu 17 Pro
-- iPhone 17 Pro produkuje při zoomu nad 4× a v nočních podmínkách výrazně více šumu než konkurenční Oppo
-- Digitální zpracování obrazu u Oppo poskytuje lepší výsledky v portrétním režimu, při makro snímcích a v podmínkách slabého osvětlení
-- Oppo nabízí rychlejší nabíjení a lepší ergonomii díky zakřivenému displeji
+- Oppo Find X9 Pro disponuje 200megapixelovým teleobjektivem s 3× optickým zoomem, který poskytuje výrazně ostřejší snímky než 48megapixelový 4× teleobjektiv iPhonu 17 Pro
+- Čínský telefon nabízí lepší zpracování digitálních snímků v portrétním režimu, při slabém osvětlení a při makrofotografii
+- iPhone 17 Pro sice exceluje ve video nahrávkách se stabilitou na úrovni akčních kamer, ale zaostává v kvalitě statických fotografií při vyšším přiblížení
+- Find X9 Pro umožňuje kvalitní 10× přiblížení, zatímco iPhone 17 Pro produkuje při 8× zoomu výrazně zašuměné výsledky
+- Oppo implementovalo rychlejší nabíjení a ergonomičtější design než současné modely iPhone
 
 ## Podrobnosti
 
-Hlavní výhodou Oppo Find X9 Pro je podle redaktora fotoaparát. Zatímco iPhone 17 Pro exceluje ve videozáznamu s vysokou stabilitou a možnostmi postprodukce až do 8× zoomu, v oblasti statické fotografie zaostává za čínskými výrobci jako Xiaomi a Oppo. Konkrétně jde o kvalitu portrétů, noční snímky a fotografie s delším zoomem.
+Oppo Find X9 Pro představuje podle redaktora Andrewa Lanxona jeden z nejkomplexnějších telefonů roku 2025. Kombinuje všestranný fotografický systém, výkonný hardware, kvalitní displej a výdrž baterie v ergonomickém provedení. Ačkoliv není dostupný na americkém trhu, přímo konkuruje Apple v oblastech, kde kalifornský výrobce zaostává.
 
-Teleobjektiv s rozlišením 200 megapixelů a 3× optickým zoomem v Oppo Find X9 Pro poskytuje snímky s výrazně lepšími detaily než 48megapixelový senzor s 4× zoomem v iPhonu. Apple sice propaguje 8× "optical-like zoom", ale v praxi produkuje při vyšších hodnotách zoomu výrazně zašuměné výsledky, zejména při horších světelných podmínkách. Redaktor uvádí, že s Oppo běžně fotografuje na 10× zoom, zatímco s iPhonem se kvůli šumu neodváží jít nad 4×.
+Nejvýraznější rozdíl se projevuje v oblasti fotografie. Zatímco iPhone 17 Pro zůstává předním nástrojem pro mobilní videografy díky stabilizaci a možnostem postprodukce i při 8× přiblížení, v kvalitě statických snímků zaostává za čínskými konkurenty jako Xiaomi a Oppo. Teleobjektiv Find X9 Pro s rozlišením 200 megapixelů a 3× optickým zoomem produkuje snímky s výrazně lepšími detaily než 48megapixelový 4× teleobjektiv iPhonu s "optical-like" 8× zoomem.
 
-Druhá oblast se týká nabíjení. Zatímco iPhone 17 Pro podporuje maximálně 45W drátové nabíjení, Oppo Find X9 Pro nabízí 90W nabíjení, které dokáže telefon nabít výrazně rychleji. Třetí oblastí je design - redaktor oceňuje zakřivený displej Oppo, který činí telefon ergonomičtější a příjemnější na držení než ploché hrany iPhonu.
+V praxi to znamená, že při fotografování s 10× přiblížením na Find X9 Pro získáte použitelné výsledky, zatímco na iPhonu 17 Pro se nedoporučuje překračovat 4× zoom kvůli výraznému šumu v obraze, zejména při horších světelných podmínkách. Oppo také implementovalo kvalitnější digitální zpracování obrazu, což se projevuje v portrétním režimu, nočních snímcích a makrofotografii.
+
+Apple se tak dostává do složité situace, kdy musí pokračovat v inovacích a přidávat nové funkce do iPhonu, přičemž současně musí držet krok s tím, co nabízejí konkurenti jako Oppo.
 
 ## Proč je to důležité
 
-Článek ukazuje rostoucí tlak čínských výrobců na Apple v oblasti hardwarových inovací. Zatímco Apple dlouhodobě dominuje v oblasti videozáznamu a ekosystému služeb, v čisté kvalitě fotoaparátu a rychlosti nabíjení ho čínská konkurence předběhla. Pro Apple to představuje výzvu - musí pokračovat v inovacích nejen v oblastech, kde tradičně exceluje, ale také dohnat konkurenci tam, kde zaostává. Absence těchto funkcí v iPhonu 18 by mohla vést k dalšímu oslabení pozice Applu na globálním trhu smartphonů, zejména v Asii, kde čínští výrobci nabízejí srovnatelnou nebo lepší kvalitu za nižší ceny.
+Článek odráží rostoucí tlak na Apple ze strany čínských výrobců, kteří v některých technických parametrech předstihli iPhony. Zatímco Apple dlouhodobě dominoval v oblasti mobilní fotografie, čínská konkurence investovala do pokročilejších fotografických systémů s vyšším rozlišením a lepším zpracováním obrazu. Pro uživatele to znamená, že volba mezi iPhonenem a konkurencí již není tak jednoznačná - iPhone zůstává nejlepší volbou pro video, ale pro statickou fotografii mohou být čínské telefony lepší volbou. Apple bude muset reagovat, pokud chce udržet pozici prémiového výrobce v segmentu fotografie.
 
 ---
 
