@@ -1,5 +1,6 @@
 ---
 author: Patrick Zandl
+audio: true
 categories:
 - politika
 - USA
@@ -15,6 +16,7 @@ summary_points:
 - Starosta New Yorku má ale velmi omezenou moc, všechny zásadní rozhodnutí musí schválit stát New York
 - Jeho úspěch bude záviset na schopnosti vyjednávat a budovat koalice navzdory strukturálním překážkám
 title: Zohran Mamdani je nový starosta New Yorku a my ho neznáme ...
+thumbnail: https://www.marigold.cz/assets/zohran-mamdani.jpeg
 ---
 
 New York má nového starostu, což by nám mohlo být jedno, kdyby se jím nestal čtyřiatřicetiletý Zohran Mamdani. Podle dikce jména asi hned na první dobrou nepoznáte😇, zda je příslušníkem klanu Kenedyů, Bushů, Romeyů nebo Clintonových - ale nebudu vás napínat, nezapadá do žádné tradiční americké politické škatulky. V části českých konzervativních médií (jako Echo24) se okamžitě převzal Trumpovský příběh o Mandanim: je to muslimský terorista, komouš a zlo a zkáza.
