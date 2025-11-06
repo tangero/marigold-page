@@ -4,9 +4,9 @@ category: mobilní aplikace
 companies:
 - OpenAI
 date: '2025-11-04 19:35:51'
-description: Generátor videí s umělou inteligencí od OpenAI se rozšiřuje na platformu
-  Android v sedmi zemích. Aplikace nabízí stejné funkce jako verze pro iOS, včetně
-  kontroverzní funkce Cameos.
+description: AI generátor videí od OpenAI expanduje z iOS na Android v sedmi zemích.
+  Aplikace si zachovává všechny funkce včetně kontroverzní funkce Cameos pro tvorbu
+  videí s vlastní podobiznou.
 importance: 3
 layout: tech_news_article
 original_title: Sora is now available on Android in the US, Canada, and other regions
@@ -25,35 +25,31 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/sora-app-Get
 
 ## Souhrn
 
-Sora, generátor videí využívající umělou inteligenci od OpenAI, je nyní oficiálně dostupná pro uživatele Androidu v USA, Kanadě, Japonsku, Koreji, Tchaj-wanu, Thajsku a Vietnamu. Aplikace, která byla původně spuštěna pouze pro iOS v září 2024, si za týden stáhlo přes milion uživatelů a nyní se rozšiřuje na výrazně větší platformu Google Play Store.
+OpenAI zpřístupnilo svůj AI generátor videí Sora uživatelům Androidu v USA, Kanadě, Japonsku, Koreji, Tchaj-wanu, Thajsku a Vietnamu. Aplikace, která v září dosáhla na iOS přes milion stažení za týden, nyní cílí na širší uživatelskou základnu prostřednictvím Google Play Store.
 
 ## Klíčové body
 
-- Sora je dostupná na Androidu v sedmi zemích: USA, Kanada, Japonsko, Korea, Tchaj-wan, Thajsko a Vietnam
-- Androidová verze obsahuje všechny funkce z iOS, včetně funkce Cameos pro generování videí s vlastní podobiznou
-- Aplikace čelí kritice kvůli deepfake obsahu a právním sporům ohledně autorských práv
-- OpenAI změnil přístup k ochraně autorských práv z opt-out na opt-in systém
-- Společnost je v právním sporu s platformou Cameo ohledně názvu funkce
+- Sora expanduje z iOS na Android v sedmi zemích po úspěšném startu se 1+ milionem stažení za týden
+- Androidová verze obsahuje všechny funkce iOS verze včetně kontroverzní funkce Cameos pro generování videí s vlastní podobiznou
+- OpenAI čelí kritice kvůli deepfakes a právnímu sporu s platformou Cameo ohledně názvu funkce
+- Společnost změnila politiku ochrany autorských práv z opt-out na opt-in systém po kritice za neoprávněné použití postav jako SpongeBob a Pikachu
+- Aplikace konkuruje Meta Vibes, TikToku a Instagramu v segmentu krátkých AI videí
 
 ## Podrobnosti
 
-Androidová verze Sory zachovává kompletní funkcionalitu iOS aplikace. Klíčovou funkcí je Cameos, která umožňuje uživatelům generovat videa, ve kterých vystupují oni sami při různých aktivitách. Systém využívá podobiznu uživatele a vytváří AI generovaná videa podle zadaných instrukcí.
+Sora představuje pokus OpenAI proniknout do segmentu krátkých videí, který dominují platformy jako TikTok a Instagram. Aplikace umožňuje uživatelům generovat videa pomocí umělé inteligence a sdílet je ve feedu připomínajícím TikTok, kde mohou objevovat a interagovat s obsahem od ostatních uživatelů.
 
-Aplikace funguje podobně jako TikTok - uživatelé mohou sdílet svá videa ve feedu, procházet obsah ostatních a interagovat s ním. Tento přístup odhaluje strategii OpenAI konkurovat etablovaným platformám pro sdílení krátkých videí, jako jsou TikTok, Instagram a nově také Meta s jejím AI video feedem Vibes.
+Nejviditelnější funkcí je Cameos, která umožňuje uživatelům vytvářet videa, kde vystupují oni sami v různých aktivitách a situacích. Technologie využívá podobiznu uživatele k vytvoření AI generovaného obsahu, což otevírá široké možnosti pro kreativní tvorbu, ale zároveň vyvolává obavy z možného zneužití.
 
-Od spuštění však Sora čelí významným kontroverzím. Uživatelé začali nahrávat nevhodná videa historických osobností, včetně Martina Luthera Kinga Jr. OpenAI v reakci na to minulý měsíc pozastavil generování obsahu zobrazujícího Dr. Kinga a posílil bezpečnostní opatření.
+Po spuštění aplikace se OpenAI potýkalo s vážnými problémy. Uživatelé začali nahrávat nevhodná videa historických osobností, včetně Martina Luthera Kinga Jr. Společnost musela minulý měsíc pozastavit generování obsahu zobrazujícího Dr. Kinga a posílila bezpečnostní opatření. Další kontroverzí bylo neoprávněné použití chráněných postav jako SpongeBob nebo Pikachu, což vedlo ke změně politiky z opt-out na opt-in systém pro držitele práv.
 
-Dalším problémem je zacházení s autorskými právy. Uživatelé vytvářeli videa s chráněnými postavami jako SpongeBob nebo Pikachu. OpenAI proto změnil politiku z opt-out systému, kde museli držitelé práv aktivně žádat o vyloučení, na opt-in systém, kde musí držitelé práv explicitně povolit použití svých postav.
-
-Společnost také čelí právnímu sporu s platformou Cameo, která nabízí personalizovaná videa od celebrit. Spor se týká názvu funkce "Cameo" v aplikaci Sora.
+OpenAI navíc čelí právnímu sporu s platformou Cameo, která se specializuje na personalizovaná videa od celebrit. Spor se týká názvu klíčové funkce aplikace Sora, což může vést k nucené změně brandu této funkce.
 
 ## Proč je to důležité
 
-Expanze Sory na Android představuje významný krok v demokratizaci AI generování videí. Vzhledem k tomu, že Android má celosvětově výrazně větší podíl na trhu než iOS, lze očekávat masivní nárůst uživatelské základny.
+Expanze Sory na Android signalizuje ambice OpenAI konkurovat zavedeným platformám v segmentu krátkých videí. Zatímco Meta nedávno spustila vlastní AI video feed Vibes, OpenAI se snaží etablovat jako samostatná platforma pro AI generovaný obsah. Dostupnost na Androidu, který má globálně výrazně větší podíl na trhu než iOS, může výrazně rozšířit uživatelskou základnu.
 
-Zároveň případ Sory ilustruje klíčové výzvy, kterým čelí generativní AI v oblasti videí: problematiku deepfakes, ochranu autorských práv a moderaci obsahu. Způsob, jakým OpenAI tyto problémy řeší, může nastavit standardy pro celé odvětví. Přechod na opt-in systém pro autorská práva je konzervativnější přístup, který může omezit kreativitu uživatelů, ale zároveň chrání držitele práv.
-
-Vstup OpenAI do prostoru sociálních médií s funkcemi podobnými TikToku také signalizuje ambice společnosti expandovat za hranice tradičních AI nástrojů a konkurovat velkým technologickým platformám v oblasti zábavního obsahu.
+Případ Sory však ilustruje klíčové výzvy AI generátorů videí: balancování mezi kreativní svobodou a prevencí zneužití, ochranu autorských práv a řešení etických otázek spojených s deepfakes. Způsob, jakým OpenAI tyto problémy vyřeší, může nastavit precedens pro celý průmysl generativní AI.
 
 ---
 

@@ -1,10 +1,91 @@
 {
-  "generated": "2025-11-06T12:30:26.845946+00:00",
+  "generated": "2025-11-06T16:24:48.580011+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Fairphone vstupuje na americký trh s opravitelnými produkty",
+      "description": "Nizozemská firma Fairphone, známá svými snadno opravitelnými telefony, oficiálně vstoupila na americký trh. Zatím nabízí sluchátka, ale chystá i uvedení smartphonu.",
+      "slug": "this-refreshingly-innovative-smartphone-brand-has-",
+      "publishedAt": "2025-11-05T12:52:31+00:00",
+      "date": "2025-11-05 12:52:31",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/Fairphone-Gen-6-Moment-Key.jpg",
+      "url": "/tech-news/2025-11-05/this-refreshingly-innovative-smartphone-brand-has-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bývalí zaměstnanci Mety představili Sandbar, chytrý prsten pro hlasové poznámky a ovládání hudby",
+      "description": "Startup Sandbar od bývalých vývojářů Meta uvádí prsten Stream, který slouží jako hlasové rozhraní pro zaznamenávání myšlenek, interakci s AI asistentem a ovládání médií.",
+      "slug": "former-meta-employees-launch-sandbar-a-smart-ring-",
+      "publishedAt": "2025-11-05T11:00:00+00:00",
+      "date": "2025-11-05 11:00:00",
+      "importance": 3,
+      "category": "nositelná elektronik",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
+      "url": "/tech-news/2025-11-05/former-meta-employees-launch-sandbar-a-smart-ring-/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Meta",
+        "Sandbar",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Pixel 10 Pro dostal výraznou slevu před Black Friday",
+      "description": "Vlajkové telefony Google Pixel 10 Pro a Pro XL jsou nyní dostupné se slevami až 300 dolarů u hlavních prodejců.",
+      "slug": "unreal-pixel-10-pro-discounts-are-now-live-ahead-o",
+      "publishedAt": "2025-11-05T00:14:00+00:00",
+      "date": "2025-11-05 00:14:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/you-re-missing-something-with-the-pixel-10-8-48-screenshot.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-05/unreal-pixel-10-pro-discounts-are-now-live-ahead-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google",
+        "Android Police"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google plánuje umístit datová centra pro AI do vesmíru",
+      "description": "Google představil projekt Suncatcher, který by měl vytvořit datová centra na oběžné dráze Země využívající solární energii téměř nepřetržitě.",
+      "slug": "google-has-a-moonshot-plan-for-ai-data-centers-in-",
+      "publishedAt": "2025-11-04T23:51:44+00:00",
+      "date": "2025-11-04 23:51:44",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-04/google-has-a-moonshot-plan-for-ai-data-centers-in-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
       "title": "Nový standard HDR10+ Advanced se pokusí vyřešit efekt mýdlové opery",
-      "description": "Samsung představil HDR10+ Advanced s funkcí Intelligent FRC, která má zlepšit vyhlazování pohybu a odstranit nežádoucí efekt mýdlové opery při sledování filmů.",
+      "description": "Samsung představil HDR10+ Advanced s funkcí Intelligent FRC, která má zlepšit vyhlazování pohybu a eliminovat nežádoucí efekt mýdlové opery při sledování filmů.",
       "slug": "new-hdr10-advanced-standard-will-try-to-fix-the-so",
       "publishedAt": "2025-11-04T22:14:24+00:00",
       "date": "2025-11-04 22:14:24",
@@ -82,7 +163,7 @@
     },
     {
       "title": "Travis Pastrana představil nový Gymkhana vůz - Subaru Brat s 9500 otáčkami",
-      "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, aktivní aerodynamikou a karbonovým tělem.",
+      "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, karbonovým tělem a aktivní aerodynamikou.",
       "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
       "publishedAt": "2025-11-04T20:00:00+00:00",
       "date": "2025-11-04 20:00:00",
@@ -120,7 +201,7 @@
     },
     {
       "title": "Sora je nyní dostupná na Androidu v USA, Kanadě a dalších regionech",
-      "description": "Generátor videí s umělou inteligencí od OpenAI se rozšiřuje na platformu Android v sedmi zemích. Aplikace nabízí stejné funkce jako verze pro iOS, včetně kontroverzní funkce Cameos.",
+      "description": "AI generátor videí od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si zachovává všechny funkce včetně kontroverzní funkce Cameos pro tvorbu videí s vlastní podobiznou.",
       "slug": "sora-is-now-available-on-android-in-the-us-canada-",
       "publishedAt": "2025-11-04T19:35:51+00:00",
       "date": "2025-11-04 19:35:51",
@@ -160,7 +241,7 @@
     },
     {
       "title": "iOS 26.2 přináší tři vylepšení aplikace Apple Podcasts",
-      "description": "Apple aktualizuje svou vestavěnou aplikaci Podcasts ve verzi iOS 26.2 o automatické generování kapitol, lepší objevování odkazovaných podcastů a snadnější přístup k odkazům ze show notes.",
+      "description": "Apple aktualizuje svou aplikaci Podcasts ve verzi iOS 26.2 o automatické generování kapitol, zobrazování odkazů na zmíněné podcasty a snadnější přístup k odkazům ze show notes.",
       "slug": "ios-262-includes-three-helpful-upgrades-to-apple-p",
       "publishedAt": "2025-11-04T18:50:00+00:00",
       "date": "2025-11-04 18:50:00",
@@ -305,7 +386,7 @@
     },
     {
       "title": "Detailní pohled na Galaxy Z TriFold odhaluje kompromis v podobě tlustších rámečků",
-      "description": "Nové záběry Samsungu Galaxy Z TriFold ukazují, že telefon se třemi skládacími částmi má výrazně tlustší rámečky kolem displeje než současný Galaxy Z Fold 7.",
+      "description": "Nové záběry Samsungu Galaxy Z TriFold ukazují, že trojitě skládací telefon má výrazně tlustší rámečky displeje než současný Galaxy Z Fold 7.",
       "slug": "closer-look-at-galaxy-z-trifold-shows-that-samsung",
       "publishedAt": "2025-11-04T16:21:00+00:00",
       "date": "2025-11-04 16:21:00",
@@ -326,7 +407,7 @@
     },
     {
       "title": "Samsung očekává prodej 35 milionů kusů řady Galaxy S26 díky AI",
-      "description": "Samsung podle interních odhadů plánuje prodat 36 milionů kusů řady Galaxy S26, což by představovalo nárůst oproti 22 milionům prodaných S25 v první polovině roku 2025.",
+      "description": "Samsung plánuje prodat 36 milionů kusů řady Galaxy S26, což by představovalo nárůst oproti 22 milionům prodaných S25 v první polovině roku 2025.",
       "slug": "samsung-expects-the-galaxy-s26-series-to-sell-35-m",
       "publishedAt": "2025-11-04T16:09:00+00:00",
       "date": "2025-11-04 16:09:00",
@@ -367,7 +448,7 @@
     },
     {
       "title": "Best Buy spouští předčasné Black Friday slevy na elektroniku",
-      "description": "Americký řetězec Best Buy zahájil předčasný výprodej před Black Friday se slevami na sluchátka, televize, notebooky a další elektroniku od značek jako Samsung, Apple a další.",
+      "description": "Americký prodejce elektroniky Best Buy zahájil předčasný Black Friday výprodeј s výraznými slevami na sluchátka, televize, notebooky a další techniku.",
       "slug": "best-buys-early-black-friday-deals-start-saving-on",
       "publishedAt": "2025-11-04T15:17:44+00:00",
       "date": "2025-11-04 15:17:44",
@@ -473,7 +554,7 @@
     },
     {
       "title": "Amazon ruší svůj největší projekt ze světa Pána prstenů",
-      "description": "Amazon Game Studios oficiálně zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů napříč společností. Jde již o druhý neúspěšný pokus Amazonu vytvořit hru z Tolkienova světa.",
+      "description": "Amazon Game Studios definitivně zrušil vývoj MMORPG hry ze světa Pána prstenů. Jde o druhý neúspěšný pokus společnosti vytvořit hru z Tolkienova univerza.",
       "slug": "amazon-cancels-their-biggest-lord-of-the-rings-pro",
       "publishedAt": "2025-11-04T14:41:00+00:00",
       "date": "2025-11-04 14:41:00",
@@ -533,8 +614,28 @@
       "people": []
     },
     {
-      "title": "MacBook Air 13\" s M3 čipem a 24GB RAM za 999 dolarů – o 300 dolarů méně než srovnatelný model s M4",
-      "description": "Předvánoční sleva na loňský MacBook Air s čipem M3 nabízí konfiguraci s 24GB RAM a 512GB SSD za 999 dolarů, což je o 500 dolarů méně než původní cena a o 200 dolarů méně než aktuální sleva na srovnatelný model s M4.",
+      "title": "Gemini Deep Research možná získá přístup k Disku a Gmailu (analýza APK)",
+      "description": "Analýza kódu aplikace Google odhalila, že funkce Deep Research v Gemini by mohla umožnit prohledávání Gmailu, Google Disku a dalších služeb.",
+      "slug": "gemini-deep-research-could-soon-get-drive-and-gmai",
+      "publishedAt": "2025-11-04T13:34:59+00:00",
+      "date": "2025-11-04 13:34:59",
+      "importance": 2,
+      "category": "ai asistenti",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/Deep-Research-in-Gemini-hero-image.jpg",
+      "url": "/tech-news/2025-11-04/gemini-deep-research-could-soon-get-drive-and-gmai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "MacBook Air 13\" s M3 čipem a 24GB RAM za 999 dolarů – o 300 dolarů levněji než srovnatelný model s M4",
+      "description": "Prodejce B&H nabízí loňský MacBook Air s čipem M3, 24GB RAM a 512GB SSD za 999 dolarů, což je o 500 dolarů méně než původní cena a o 300 dolarů levněji než nový model s M4 čipem.",
       "slug": "score-apples-13-inch-24gb-m3-macbook-air-at-500-of",
       "publishedAt": "2025-11-04T13:19:00+00:00",
       "date": "2025-11-04 13:19:00",
@@ -635,8 +736,8 @@
       "people": []
     },
     {
-      "title": "Ford plánuje prodej výkonnostního balíčku 300T pro Maverick s výkonem 300 koní",
-      "description": "Ford představil na výstavě SEMA upravený pickup Maverick s výkonem 300 koní a plánuje nabídnout podobný balíček 300T zákazníkům v roce 2026.",
+      "title": "Ford plánuje prodávat 300koňový tuningový balíček pro Maverick s větším turbem",
+      "description": "Ford představil na výstavě SEMA upravený pickup Maverick s výkonem 300 koní a hodlá podobný balíček 300T nabídnout zákazníkům v roce 2026.",
       "slug": "ford-plans-to-sell-this-300-hp-maverick-street-tru",
       "publishedAt": "2025-11-04T11:00:00+00:00",
       "date": "2025-11-04 11:00:00",
@@ -3489,24 +3590,6 @@
       "people": []
     },
     {
-      "title": "50 Things People Somehow Accepted As Completely Normal In The Early 2000s That Were Definitely Very, Very Weird - BuzzFeed",
-      "description": "Maybe you just had to be there.",
-      "slug": "A-50-things-people-somehow-accepted-as-completely-",
-      "publishedAt": "2025-10-31T15:31:01+00:00",
-      "date": "2025-10-31 15:31:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/13/18/enhanced/b8160e74e16d/original-6766-1723573141-9.jpg?crop=1245:830;3,0&resize=1250:830",
-      "url": "/tech-news/2025-10-31/A-50-things-people-somehow-accepted-as-completely-/",
-      "source": {
-        "emoji": "📰",
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tim Cook says Apple is open to M&A on the AI front - TechCrunch",
       "description": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
       "slug": "tim-cook-says-apple-is-open-to-ma-on-the-ai-front-",
@@ -3574,24 +3657,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "50 People Whose Lives Got Completely And Totally Blown Up By The Consequences Of Their Own Terrible Decisions Last Month - BuzzFeed",
-      "description": "Look before you leap.",
-      "slug": "A-50-people-whose-lives-got-completely-and-totally",
-      "publishedAt": "2025-10-31T14:18:24+00:00",
-      "date": "2025-10-31 14:18:24",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/30/17/thumb/RlqXSMPKB.jpg?crop=2500:1309;0,26%26downsize=1250:*",
-      "url": "/tech-news/2025-10-31/A-50-people-whose-lives-got-completely-and-totally/",
-      "source": {
-        "emoji": "📰",
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
       },
       "companies": [],
       "people": []
@@ -3822,60 +3887,6 @@
       "category": "tech",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-6-family-with-Pixel-10-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-10-31/new-google-pixel-october-2025-update-rolling-out-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "WhatsApp Testing Apple Watch App - MacRumors",
-      "description": "WhatsApp today provided its TestFlight users with a new Apple Watch app for testing purposes, which means a version of WhatsApp for the wrist could...",
-      "slug": "whatsapp-testing-apple-watch-app-macrumors",
-      "publishedAt": "2025-10-30T22:06:47+00:00",
-      "date": "2025-10-30 22:06:47",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/3IetT83Dy-vXeWMAYAAW3aaQad0=/1632x/article-new/2025/10/whatsapp-apple-watch.jpg",
-      "url": "/tech-news/2025-10-30/whatsapp-testing-apple-watch-app-macrumors/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "WhatsApp can now use passkeys to secure your backups - The Verge",
-      "description": "WhatsApp is launching passkey-encrypted backups for iOS and Android that can protect stored messages using your face, fingerprint, or device screen lock code.",
-      "slug": "whatsapp-can-now-use-passkeys-to-secure-your-backu",
-      "publishedAt": "2025-10-30T13:00:00+00:00",
-      "date": "2025-10-30 13:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/English_WhatsApp_passkey-encrypted-backups-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "url": "/tech-news/2025-10-30/whatsapp-can-now-use-passkeys-to-secure-your-backu/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "YouTube will upgrade video and thumbnail file size limits ‘soon’ - 9to5Google",
-      "description": "YouTube is preparing to support higher-quality content, including larger video upload sizes and higher file size limits for thumbnails. Alongside...",
-      "slug": "youtube-will-upgrade-video-and-thumbnail-file-size",
-      "publishedAt": "2025-10-30T12:30:00+00:00",
-      "date": "2025-10-30 12:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/youtube-will-upgrade-video-and-thumbnail-file-size/",
       "source": {
         "emoji": "📰",
         "id": null,

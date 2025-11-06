@@ -4,9 +4,9 @@ category: mobilní aplikace
 companies:
 - Apple
 date: '2025-11-04 18:50:00'
-description: Apple aktualizuje svou vestavěnou aplikaci Podcasts ve verzi iOS 26.2
-  o automatické generování kapitol, lepší objevování odkazovaných podcastů a snadnější
-  přístup k odkazům ze show notes.
+description: Apple aktualizuje svou aplikaci Podcasts ve verzi iOS 26.2 o automatické
+  generování kapitol, zobrazování odkazů na zmíněné podcasty a snadnější přístup k
+  odkazům ze show notes.
 importance: 3
 layout: tech_news_article
 original_title: iOS 26.2 includes three helpful upgrades to Apple Podcasts app - 9to5Mac
@@ -24,27 +24,27 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/
 
 ## Souhrn
 
-Apple vydává iOS 26.2 s třemi významnými vylepšeními vestavěné aplikace Podcasts. Aktualizace zahrnuje automatické generování kapitol epizod pomocí umělé inteligence, funkci pro rychlé sledování podcastů zmíněných v jiných pořadech a nový způsob přístupu k odkazům ze show notes přímo na stránce epizody.
+Apple vydává aktualizaci iOS 26.2, která přináší tři významná vylepšení vestavěné aplikace Podcasts. Novinky zahrnují automatické generování kapitol epizod pomocí umělé inteligence, zobrazování odkazů na podcasty zmíněné v epizodách a novou funkci pro snadnější přístup k odkazům sdíleným v poznámkách k epizodám.
 
 ## Klíčové body
 
-- Automatické generování kapitol epizod pomocí AI, které doplňuje dosavadní manuální vytváření časových značek producenty
-- Funkce Podcast Mentions umožňuje sledovat zmíněné podcasty přímo z přehrávače nebo přepisu bez nutnosti vyhledávání
-- Nová sekce From This Episode zpřístupňuje odkazy ze show notes přímo na stránce epizody
+- Automatické generování kapitol epizod pomocí AI, které doplňuje dosavadní manuální značkování časových úseků tvůrci
+- Funkce Podcast Mentions zobrazuje odkazy na zmíněné podcasty přímo v přehrávači a transkriptu
+- Nová sekce From This Episode umožňuje rychlý přístup k odkazům ze show notes přímo na stránce epizody
 - Všechny funkce jsou dostupné od první beta verze iOS 26.2
-- Apple bude označovat AI-generované kapitoly, aby bylo zřejmé, které vznikly automaticky
+- Apple bude AI-generované kapitoly odpovídajícím způsobem označovat
 
 ## Podrobnosti
 
-Aplikace Podcasts již dříve podporovala zobrazování kapitol v epizodách, producenti však museli ručně vytvářet názvy kapitol a časové značky. S iOS 26.2 Apple zavádí automatické generování těchto kapitol, což má usnadnit navigaci ve více epizodách. Podle Applu půjde o AI-generovaný obsah, který bude odpovídajícím způsobem označen. Zatím není jasné, jak přesně a spolehlivě bude tato funkce fungovat v praxi.
+První novinkou je automatické generování kapitol podcastových epizod. Aplikace Podcasts již dříve podporovala zobrazování kapitol s časovými značkami, ale tvůrci je museli vytvářet ručně. Nová funkce využívá umělou inteligenci k automatickému vytvoření struktury epizody, což usnadňuje navigaci posluchačům. Apple zatím nespecifikoval, jak přesně systém funguje a jak spolehlivě dokáže identifikovat jednotlivé tematické celky.
 
-Druhým vylepšením je funkce Podcast Mentions, která řeší problém s objevováním nových podcastů na základě doporučení. Když moderátor v epizodě zmíní jiný podcast, posluchači dosud museli název vyhledávat ručně. Nová funkce zobrazí odkaz na zmíněný podcast přímo v přehrávači nebo v přepisu epizody, což výrazně zjednodušuje proces sledování doporučeného obsahu.
+Druhá funkce s názvem Podcast Mentions řeší problém objevování nových podcastů prostřednictvím doporučení. Když moderátor v epizodě zmíní jiný podcast, aplikace automaticky zobrazí odkaz přímo v přehrávači a transkriptu. Posluchači tak nemusí hledat zmíněný pořad ručně nebo procházet poznámky k epizodě. Tato funkce je užitečná zejména pro situace, kdy posluchač chce okamžitě reagovat na doporučení.
 
-Třetí novinkou je sekce From This Episode, která se zaměřuje na dlouhodobý problém s přístupem k odkazům ze show notes. Moderátoři běžně odkazují na "odkazy v poznámkách k epizodě", ale jejich skutečné zobrazení ve správném formátu bývalo komplikované. Apple nyní tyto odkazy zpřístupňuje přímo na stránce epizody. Podle prvních informací má funkce zatím omezenou podporu, což je běžné u prvních beta verzí.
+Třetí vylepšení s názvem From This Episode se zaměřuje na zpřístupnění odkazů sdílených v poznámkách k epizodám. Tvůrci podcastů běžně odkazují na "odkazy v show notes", ale jejich skutečné zobrazení v přehledném formátu bývá problematické. Nová funkce tyto odkazy soustředí na jedno místo přímo na stránce epizody. V první beta verzi má funkce zatím omezenou podporu.
 
 ## Proč je to důležité
 
-Vylepšení aplikace Podcasts ukazuje, že Apple aktivně pracuje na zlepšení uživatelské zkušenosti v oblasti podcastů, kde čelí konkurenci specializovaných aplikací třetích stran jako Overcast nebo Pocket Casts. Automatické generování kapitol pomocí AI představuje praktické využití strojového učení, které může výrazně zlepšit navigaci v dlouhých epizodách. Funkce Podcast Mentions a From This Episode řeší konkrétní problémy, se kterými se posluchači potýkají denně, a mohou zvýšit hodnotu ekosystému Apple Podcasts jak pro posluchače, tak pro tvůrce obsahu.
+Tyto aktualizace představují první významnější inovaci aplikace Apple Podcasts za poslední roky. Automatické generování kapitol pomocí AI ukazuje, jak Apple začleňuje strojové učení do běžných funkcí svých aplikací. Pro posluchače to znamená lepší orientaci v dlouhých epizodách, pro tvůrce úsporu času při přípravě obsahu. Funkce Podcast Mentions a From This Episode řeší praktické problémy, se kterými se posluchači potýkají denně, a mohou zvýšit objevitelnost menších podcastů prostřednictvím organických zmínek ve větších pořadech.
 
 ---
 
