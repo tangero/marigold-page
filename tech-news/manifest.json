@@ -1,7 +1,150 @@
 {
-  "generated": "2025-11-06T16:24:48.580011+00:00",
+  "generated": "2025-11-06T20:22:01.813057+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple údajně jedná o platbě 1 miliardy dolarů ročně Googlu za AI model pro Siri",
+      "description": "Podle nepotvrzených zdrojů plánuje Apple platit Google přibližně miliardu dolarů ročně za využití pokročilého AI modelu s 1,2 bilionu parametrů pro vylepšení hlasového asistenta Siri.",
+      "slug": "apple-nears-deal-to-pay-google-roughly-1-billion-a",
+      "publishedAt": "2025-11-05T19:34:49+00:00",
+      "date": "2025-11-05 19:34:49",
+      "importance": 2,
+      "category": "ai asistenti",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii.c38pePXg4/v1/1200x800.jpg",
+      "url": "/tech-news/2025-11-05/apple-nears-deal-to-pay-google-roughly-1-billion-a/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Alphabet"
+      ],
+      "people": [
+        "Na základě poskytnutého textu (nadpisu a popisu) nejsou zmíněny žádné konkrétní osobnosti jménem. Text hovoří pouze o společnostech Apple Inc. a Alphabet Inc.'s Google",
+        "nikoli o konkrétních lidech.\n\nžádné"
+      ]
+    },
+    {
+      "title": "Google vydal novou aplikaci Theme packs pro telefony Pixel",
+      "description": "Google zpřístupnil v obchodě Play Store novou aplikaci Theme packs, která umožňuje uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím.",
+      "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
+      "publishedAt": "2025-11-05T18:31:00+00:00",
+      "date": "2025-11-05 18:31:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Pixel-Theme-packs-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-05/google-releases-new-pixel-theme-packs-app-on-the-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI Mode od Googlu přichází do Chrome pro Android a iOS, rozšiřuje autonomní rezervace",
+      "description": "Google rozšiřuje AI Mode do mobilních prohlížečů Chrome a přidává možnost rezervovat vstupenky na akce či termíny v salónech. Funkce se postupně zpřístupňuje ve 160 zemích.",
+      "slug": "google-ai-mode-comes-to-chrome-for-android-ios-exp",
+      "publishedAt": "2025-11-05T17:15:00+00:00",
+      "date": "2025-11-05 17:15:00",
+      "importance": 3,
+      "category": "ai vyhledávání",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-AI-Mode-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-05/google-ai-mode-comes-to-chrome-for-android-ios-exp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google chce postavit datová centra v kosmu pro AI výpočty",
+      "description": "Google oznámil projekt Suncatcher, který zkoumá možnost umístění satelitních konstelací s AI čipy do vesmíru. Podle inženýrů firmy již existují všechny potřebné technologie.",
+      "slug": "if-you-want-to-satiate-ais-hunger-for-power-google",
+      "publishedAt": "2025-11-05T16:36:12+00:00",
+      "date": "2025-11-05 16:36:12",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/googletpu-1152x648.jpg",
+      "url": "/tech-news/2025-11-05/if-you-want-to-satiate-ais-hunger-for-power-google/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nové levnější APU od AMD by mohly nahradit low-end grafické karty",
+      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové kategorii.",
+      "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
+      "publishedAt": "2025-11-05T16:16:16+00:00",
+      "date": "2025-11-05 16:16:16",
+      "importance": 2,
+      "category": "procesory",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/FrameworkDesktop-Teardown-Hero-WithHands-1-1200x675.jpg",
+      "url": "/tech-news/2025-11-05/amds-new-cpus-might-just-kill-low-end-gpus-soon-gi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak vyčistit Windows 11 25H2 od reklam a umělé inteligence",
+      "description": "Ars Technica publikovala aktualizovaný průvodce pro odstranění nežádoucích funkcí, reklam a AI nástrojů z nejnovější verze Windows 11.",
+      "slug": "how-to-declutter-quiet-down-and-take-the-ai-out-of",
+      "publishedAt": "2025-11-05T15:42:57+00:00",
+      "date": "2025-11-05 15:42:57",
+      "importance": 3,
+      "category": "operační systémy",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-1152x648.jpg",
+      "url": "/tech-news/2025-11-05/how-to-declutter-quiet-down-and-take-the-ai-out-of/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu a půjde do prodeje",
+      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového Mustangu.",
+      "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
+      "publishedAt": "2025-11-05T15:01:08+00:00",
+      "date": "2025-11-05 15:01:08",
+      "importance": 3,
+      "category": "automobilový průmysl",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg",
+      "url": "/tech-news/2025-11-05/ford-maverick-300t-concept-uses-a-mustang-turbo-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Fairphone vstupuje na americký trh s opravitelnými produkty",
       "description": "Nizozemská firma Fairphone, známá svými snadno opravitelnými telefony, oficiálně vstoupila na americký trh. Zatím nabízí sluchátka, ale chystá i uvedení smartphonu.",
@@ -18,6 +161,26 @@
         "name": "Android Authority"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Stream Ring: Chytrý prsten pro nahrávání myšlenek šeptem",
+      "description": "Startup Sandbar představil AI chytrý prsten Stream Ring, který umožňuje nahrávat tiše vyslovené myšlenky pomocí mikrofonu. Zařízení přepisuje řeč do textu bez ukládání zvuku.",
+      "slug": "whisper-into-this-ai-powered-smart-ring-to-organiz",
+      "publishedAt": "2025-11-05T11:00:00+00:00",
+      "date": "2025-11-05 11:00:00",
+      "importance": 3,
+      "category": "chytré prsteny",
+      "urlToImage": "https://media.wired.com/photos/690ac75e0688aae134b0cb56/191:100/w_1280,c_limit/Sandbar%20Stream%20Smart%20Ring%20SOURCE%20Julian%20Chokkattu(2).jpg",
+      "url": "/tech-news/2025-11-05/whisper-into-this-ai-powered-smart-ring-to-organiz/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Sandbar"
+      ],
       "people": []
     },
     {
@@ -43,8 +206,28 @@
       "people": []
     },
     {
-      "title": "Google Pixel 10 Pro dostal výraznou slevu před Black Friday",
-      "description": "Vlajkové telefony Google Pixel 10 Pro a Pro XL jsou nyní dostupné se slevami až 300 dolarů u hlavních prodejců.",
+      "title": "Říjnové aktualizace Windows spouštějí BitLocker recovery",
+      "description": "Microsoft varuje, že říjnové bezpečnostní aktualizace Windows způsobují na některých systémech spuštění režimu BitLocker recovery, který vyžaduje zadání obnovovacího klíče.",
+      "slug": "microsoft-october-windows-updates-trigger-bitlocke",
+      "publishedAt": "2025-11-05T08:56:22+00:00",
+      "date": "2025-11-05 08:56:22",
+      "importance": 3,
+      "category": "bezpečnostní aktuali",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/12/16/Windows.jpg",
+      "url": "/tech-news/2025-11-05/microsoft-october-windows-updates-trigger-bitlocke/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Pixel 10 Pro dostává výrazné slevy před Black Friday",
+      "description": "Celá řada telefonů Pixel 10 je nyní dostupná se slevami až 300 dolarů. Nejvyšší model Pixel 10 Pro XL s 6,8palcovým displejem a čipem Tensor G5 lze pořídit za 899 dolarů místo původních 1199 dolarů.",
       "slug": "unreal-pixel-10-pro-discounts-are-now-live-ahead-o",
       "publishedAt": "2025-11-05T00:14:00+00:00",
       "date": "2025-11-05 00:14:00",
@@ -163,7 +346,7 @@
     },
     {
       "title": "Travis Pastrana představil nový Gymkhana vůz - Subaru Brat s 9500 otáčkami",
-      "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, karbonovým tělem a aktivní aerodynamikou.",
+      "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, aktivní aerodynamikou a karoserií z uhlíkových vláken.",
       "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
       "publishedAt": "2025-11-04T20:00:00+00:00",
       "date": "2025-11-04 20:00:00",
@@ -201,7 +384,7 @@
     },
     {
       "title": "Sora je nyní dostupná na Androidu v USA, Kanadě a dalších regionech",
-      "description": "AI generátor videí od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si zachovává všechny funkce včetně kontroverzní funkce Cameos pro tvorbu videí s vlastní podobiznou.",
+      "description": "Generátor videí založený na umělé inteligenci od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si nese kontroverze ohledně deepfakes a autorských práv.",
       "slug": "sora-is-now-available-on-android-in-the-us-canada-",
       "publishedAt": "2025-11-04T19:35:51+00:00",
       "date": "2025-11-04 19:35:51",
@@ -241,7 +424,7 @@
     },
     {
       "title": "iOS 26.2 přináší tři vylepšení aplikace Apple Podcasts",
-      "description": "Apple aktualizuje svou aplikaci Podcasts ve verzi iOS 26.2 o automatické generování kapitol, zobrazování odkazů na zmíněné podcasty a snadnější přístup k odkazům ze show notes.",
+      "description": "Apple aktualizuje svou aplikaci Podcasts o automatické generování kapitol, detekci zmíněných podcastů a přehlednější zobrazení odkazů z epizod.",
       "slug": "ios-262-includes-three-helpful-upgrades-to-apple-p",
       "publishedAt": "2025-11-04T18:50:00+00:00",
       "date": "2025-11-04 18:50:00",
@@ -281,7 +464,7 @@
     },
     {
       "title": "Samsung představil HDR10 Plus Advanced jako odpověď na Dolby Vision 2",
-      "description": "Samsung ukázal simulovanou ukázku nového formátu dynamického HDR s šesti funkcemi podobnými Dolby Vision 2. Technologie by měla dorazit na trh v roce 2026.",
+      "description": "Samsung ukázal simulovanou ukázku nového formátu dynamického HDR s šesti funkcemi podobnými Dolby Vision 2. Technologie by měla být představena na CES 2026.",
       "slug": "samsung-previews-hdr10-plus-advanced-its-answer-to",
       "publishedAt": "2025-11-04T18:36:19+00:00",
       "date": "2025-11-04 18:36:19",
@@ -3302,42 +3485,6 @@
       "people": []
     },
     {
-      "title": "Amazon just dropped the black Apple Watch Ultra 3 w/ Milanese Loop to its all-time low at $99 off - 9to5Toys",
-      "description": "This morning ushered in some particularly notable discounts on Apple Watch Ultra 3 – but you’ll need to be a...",
-      "slug": "amazon-just-dropped-the-black-apple-watch-ultra-3-",
-      "publishedAt": "2025-10-31T22:40:00+00:00",
-      "date": "2025-10-31 22:40:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Black-Titanium-Apple-Watch-Ultra-3-with-the-black-Titanium-Milanese-Loop-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/amazon-just-dropped-the-black-apple-watch-ultra-3-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple iPhone Air review – The thinnest smartphone packs a ton of power - Notebookcheck",
-      "description": "iPhone Air review | The slimmest iPhone of 2025 comes with a fast Apple A19 Pro chip, at least 256 GB of storage, and a very bright display. Compromises have had to be made in terms of the camera, GPU performance, and battery life.",
-      "slug": "apple-iphone-air-review-the-thinnest-smartphone-pa",
-      "publishedAt": "2025-10-31T21:16:00+00:00",
-      "date": "2025-10-31 21:16:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Apple/iPhone_Air/aPic_Apple_iPhone_Air-1580-2.jpg",
-      "url": "/tech-news/2025-10-31/apple-iphone-air-review-the-thinnest-smartphone-pa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "iOS 26.1 Brings Back 2007 Feature in New Way - MacRumors",
       "description": "The upcoming iOS 26.1 update includes a small but helpful change for iPhones, and it could prevent you from running late to something important.  ...",
       "slug": "ios-261-brings-back-2007-feature-in-new-way-macrum",
@@ -3369,24 +3516,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bluesky hits 40 million users, introduces ‘dislikes’ beta - TechCrunch",
-      "description": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings.",
-      "slug": "bluesky-hits-40-million-users-introduces-dislikes-",
-      "publishedAt": "2025-10-31T20:14:06+00:00",
-      "date": "2025-10-31 20:14:06",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800",
-      "url": "/tech-news/2025-10-31/bluesky-hits-40-million-users-introduces-dislikes-/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
       },
       "companies": [],
       "people": []
@@ -3446,24 +3575,6 @@
       "people": []
     },
     {
-      "title": "Adobe’s experimental AI tool can edit entire videos using one frame - The Verge",
-      "description": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio.",
-      "slug": "adobes-experimental-ai-tool-can-edit-entire-videos",
-      "publishedAt": "2025-10-31T17:31:03+00:00",
-      "date": "2025-10-31 17:31:03",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Adobe-Project-Frame-Forward.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-10-31/adobes-experimental-ai-tool-can-edit-entire-videos/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Rumor: iPhone 18 Pro to come in three all-new colors - 9to5Mac",
       "description": "Unlike any ‘Pro’ iPhone before it, the iPhone 17 Pro is available in a bright cosmic orange color. This trend...",
       "slug": "rumor-iphone-18-pro-to-come-in-three-all-new-color",
@@ -3477,24 +3588,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AMD Clarifies \"Maintenance Mode\" for Radeon RX 5000/6000 Series, First-Day Game Support Remains - TechPowerUp",
-      "description": "AMD surprised its customers yesterday by announcing that its Radeon RX 5000 and RX 6000 series GPUs will be partially retired from the regular monthly game optimization cycle. These RDNA 1 and RDNA 2 GPUs will still receive essential patches for security vuln…",
-      "slug": "amd-clarifies-maintenance-mode-for-radeon-rx-50006",
-      "publishedAt": "2025-10-31T16:43:57+00:00",
-      "date": "2025-10-31 16:43:57",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.techpowerup.com/img/6VeZ5MHLt9k35XV7.jpg",
-      "url": "/tech-news/2025-10-31/amd-clarifies-maintenance-mode-for-radeon-rx-50006/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
       },
       "companies": [],
       "people": []
@@ -3549,24 +3642,6 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI browsers are here, and they're already being hacked - NBC News",
-      "description": "Hackers can target AI browsers with prompts hidden in websites.",
-      "slug": "ai-browsers-are-here-and-theyre-already-being-hack",
-      "publishedAt": "2025-10-31T16:02:17+00:00",
-      "date": "2025-10-31 16:02:17",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-ai-final-illo-gk-aeaaa2.jpg",
-      "url": "/tech-news/2025-10-31/ai-browsers-are-here-and-theyre-already-being-hack/",
-      "source": {
-        "emoji": "📰",
-        "id": "nbc-news",
-        "name": "NBC News"
       },
       "companies": [],
       "people": []
@@ -3644,24 +3719,6 @@
       "people": []
     },
     {
-      "title": "Android prepares ‘Min Mode’ always-on display upgrade that can show apps - 9to5Google",
-      "description": "Google is reportedly working on a big upgrade to always-on display functionality in Android that’s called “Min Mode” and can...",
-      "slug": "android-prepares-min-mode-always-on-display-upgrad",
-      "publishedAt": "2025-10-31T14:30:18+00:00",
-      "date": "2025-10-31 14:30:18",
-      "importance": 2,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/05/Always-on-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/android-prepares-min-mode-always-on-display-upgrad/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio - The Verge",
       "description": "Creative revived its Sound Blaster brand for a new modular magnetic hub called the Re:Imagine that serves as mission control for your audio gear.",
       "slug": "sound-blasters-modular-hub-is-a-reconfigurable-str",
@@ -3693,24 +3750,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "China solves 'century-old problem' with new analog chip that is 1,000 times faster than high-end Nvidia GPUs - Live Science",
-      "description": "Researchers from Peking University say their resistive random-access memory chip may be capable of speeds 1,000 faster than the Nvidia H100 and AMD Vega 20 GPUs.",
-      "slug": "china-solves-century-old-problem-with-new-analog-c",
-      "publishedAt": "2025-10-31T12:00:00+00:00",
-      "date": "2025-10-31 12:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZFj6VmRph4pi6M7jvDSnBf-1600-80.png",
-      "url": "/tech-news/2025-10-31/china-solves-century-old-problem-with-new-analog-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Live Science"
       },
       "companies": [],
       "people": []
@@ -3765,24 +3804,6 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AMD Windows Driver Changes For RX 5000/6000 Series Won't Impact Linux Users - Phoronix",
-      "description": "Over the past day there have been many reports of AMD planning to no longer provide game optimizations for the Radeon RX 5000 and RX 6000 series graphics cards for their Microsoft Windows driver",
-      "slug": "amd-windows-driver-changes-for-rx-50006000-series-",
-      "publishedAt": "2025-10-31T10:51:00+00:00",
-      "date": "2025-10-31 10:51:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.phoronix.net/image.php?id=rx6800xt-windows-linux&image=rx6800xt_windows_linux",
-      "url": "/tech-news/2025-10-31/amd-windows-driver-changes-for-rx-50006000-series-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Phoronix"
       },
       "companies": [],
       "people": []
