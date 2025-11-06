@@ -4,8 +4,9 @@ category: streamovací služby
 companies:
 - Amazon
 date: '2025-11-04 14:41:00'
-description: Amazon zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých
-  škrtů. Jde o druhý neúspěšný pokus studia vytvořit hru z Tolkienova univerza.
+description: Amazon Game Studios zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci
+  rozsáhlých škrtů. Jde o druhý neúspěšný pokus společnosti vytvořit hru z Tolkienova
+  univerza.
 importance: 3
 layout: tech_news_article
 original_title: Amazon Cancels Their Biggest 'Lord of the Rings' Project - Collider
@@ -23,29 +24,29 @@ urlToImageBackup: https://static0.colliderimages.com/wordpress/wp-content/upload
 
 ## Souhrn
 
-Amazon Game Studios oficiálně zrušil vývoj MMORPG hry ze světa Pána prstenů, která měla vznikat ve spolupráci se švédskou společností Embracer Group. Zrušení projektu přišlo v rámci rozsáhlých propouštění a restrukturalizace společnosti, přičemž jde již o druhý neúspěšný pokus Amazonu vytvořit masivně multiplayerovou hru z Tolkienova univerza.
+Amazon Game Studios oficiálně zrušil vývoj masivně multiplayerové online hry (MMORPG) ze světa Pána prstenů. Projekt padl za oběť rozsáhlým propouštěním a restrukturalizaci společnosti. Jde o druhý neúspěšný pokus Amazonu vytvořit hru z Tolkienova univerza během posledních let.
 
 ## Klíčové body
 
-- Amazon zrušil vývoj MMORPG ze světa Pána prstenů v rámci rozsáhlých škrtů a propouštění
-- Projekt vznikal ve spolupráci s Embracer Group, která vlastní interaktivní práva k Pánu prstenů a Hobbitovi
-- Jde o druhý neúspěšný pokus Amazonu - první projekt oznámený v roce 2019 byl zrušen o necelé dva roky později
-- Hra měla přinést "nový pohled" na Tolkienovu mytologii, ale vývojový tým stále hledal základní koncept
-- O zrušení informovala bývalá inženýrka Ashleigh Amrine, která byla součástí propuštěných zaměstnanců
+- Amazon zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů
+- Informaci potvrdila bývalá inženýrka Ashleigh Amrine, která byla součástí propuštěných zaměstnanců
+- Hra byla vyvíjena ve spolupráci se švédskou společností Embracer Group, která vlastní interaktivní práva k Pánu prstenů a Hobbitovi
+- Projekt byl oznámen v roce 2023 s ambicí nabídnout "nový pohled" na Tolkienovu mytologii
+- Jde o druhý zrušený pokus Amazonu vytvořit MMORPG ze světa Pána prstenů po projektu z roku 2019
 
 ## Podrobnosti
 
-Nový MMORPG projekt byl oficiálně oznámen v roce 2023 a měl vznikat jako partnerství mezi Amazon Games a Embracer Group, švédskou holdingovou společností vlastnící interaktivní práva k Pánu prstenů a Hobbitovi. Hra měla představovat zcela nový zážitek s "novým pohledem" na Tolkienovu mytologii.
+Zrušení projektu oznámila na sociálních sítích Ashleigh Amrine, bývalá inženýrka Amazon Games, která byla součástí ranních propouštění. "Dnes ráno jsem byla součástí propouštění v Amazon Games společně s neuvěřitelně talentovanými kolegy z New World a naší vznikající hry Pán prstenů (měli byste ji rádi)," napsala Amrine. Její příspěvek potvrdil obavy, které se objevily po zprávách o rozsáhlých škrtech v zaměstnancích minulý týden.
 
-V roce 2024 však CEO Amazon Games Christoph Hartmann přiznal, že tým stále experimentuje s nápady a hledá základní koncept hry. "Stále se snažíme najít ten háček, tu myšlenku, protože nechceme jen udělat totéž znovu. I když je to s existující značkou někdy lákavé, to není smysl toho dělání. Musíte najít nový pohled... Takže je to trochu brzy," uvedl Hartmann. Jak se ukázalo, "brzy" ve skutečnosti znamenalo konec projektu.
+Hra byla vyvíjena Amazon Games ve spolupráci s Embracer Group, švédskou holdingovou společností vlastnící interaktivní práva k Pánu prstenů a Hobbitovi. Projekt byl oznámen v roce 2023 s cílem vytvořit zcela nový herní zážitek, který měl "najít nový úhel pohledu" v rámci Tolkienovy mytologie.
 
-Zpráva o zrušení přišla od Ashleigh Amrine, bývalé inženýrky Amazon Games, která na sociálních sítích napsala: "Dnes ráno jsem byla součástí propouštění v Amazon Games, společně s mými neuvěřitelně talentovanými kolegy z New World a naší vznikající hry Pán prstenů (měli byste ji rádi)." Její příspěvek potvrdil obavy, které se objevily po zprávách o rozsáhlých škrtech minulý týden.
+V roce 2024 CEO Amazon Games Christoph Hartmann uvedl, že tým stále experimentoval s nápady. "Stále se snažíme najít ten správný háček, najít tu myšlenku, protože nechceme jen udělat to samé znovu. I když je to s existující značkou někdy lákavé, to není smysl toho celého. Musíte najít nový úhel pohledu... Takže je to trochu brzy," řekl Hartmann. Jak se ukazuje, "brzy" ve skutečnosti znamenalo konec projektu.
 
-Toto je již druhý neúspěšný pokus Amazonu vytvořit MMORPG ze světa Pána prstenů. První projekt byl oznámen v roce 2019 a vyvíjel ho tým New World v Amazon Games Orange County. Projekt byl zrušen o necelé dva roky později kvůli komplikacím s kontraktem s Tencent.
+Toto je druhý neúspěšný pokus Amazonu vytvořit MMORPG ze světa Pána prstenů. První pokus byl oznámen v roce 2019 a vyvíjel ho tým New World v Amazon Games Orange County, než byl zrušen o necelé dva roky později kvůli komplikacím s kontrakty s Tencent.
 
 ## Proč je to důležité
 
-Zrušení projektu ilustruje problémy velkých technologických společností s expanzí do herního průmyslu. Amazon investoval v posledních letech značné prostředky do Amazon Games, ale kromě středně úspěšného New World se studiu nedaří vytvořit výrazné tituly. Opakované neúspěchy s adaptací Pána prstenů ukazují, že i s velkým rozpočtem a prestižní licencí není úspěch zaručen. Pro herní průmysl to znamená ztrátu potenciálně velkého MMORPG projektu v době, kdy tento žánr zažívá určitou renesanci. Embracer Group, která vlastní práva k Tolkienovu dílu, bude muset hledat nového partnera pro využití této lukrativní licence v herním světě.
+Zrušení projektu ilustruje problémy velkých technologických společností s expanzí do herního průmyslu. Amazon investoval v posledních letech značné prostředky do vývoje her, ale úspěchy jsou omezené. Zatímco New World měl slušný start, udržení hráčské základny se ukázalo jako problematické. Zrušení MMORPG ze světa Pána prstenů ukazuje, že ani prestižní licence a velké rozpočty nezaručují úspěch v konkurenčním prostředí online her. Pro fanoušky Tolkienova díla to znamená další zklamání, protože kvalitní MMORPG ze Středozemě zůstává nedosažitelným cílem.
 
 ---
 

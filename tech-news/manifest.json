@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-06T04:27:39.068449+00:00",
+  "generated": "2025-11-06T08:25:05.315620+00:00",
   "count": 200,
   "articles": [
     {
@@ -27,7 +27,7 @@
       "publishedAt": "2025-11-04T21:48:09+00:00",
       "date": "2025-11-04 21:48:09",
       "importance": 4,
-      "category": "ai generátory",
+      "category": "ai generování obrazu",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-04/microsoft-ais-first-in-house-image-generator-mai-i/",
       "source": {
@@ -37,6 +37,26 @@
       },
       "companies": [
         "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.1 přináší vylepšení ovládání Liquid Glass a řadu nových funkcí",
+      "description": "První velká aktualizace iOS 26 zahrnuje vylepšení živého překladu, zjednodušené ovládání gesty, nové vizuální nastavení a další funkce.",
+      "slug": "ios-261-update-offers-liquid-glass-controls-bevy-o",
+      "publishedAt": "2025-11-04T21:45:00+00:00",
+      "date": "2025-11-04 21:45:00",
+      "importance": 1,
+      "category": "mobilní systémy",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/012JNU5R7KkQAa5OJLmuVr0-1.fit_lim.size_1200x630.v1762292546.jpg",
+      "url": "/tech-news/2025-11-04/ios-261-update-offers-liquid-glass-controls-bevy-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "Apple"
       ],
       "people": []
     },
@@ -61,8 +81,8 @@
       "people": []
     },
     {
-      "title": "Travis Pastrana představil nový Gymkhana vůz - upravený Subaru Brat s 9500 otáčkami",
-      "description": "Třináctá série Gymkhana přináší extrémně upravený Subaru Brat s výkonem 670 koní, karbonovým tělem a aktivní aerodynamikou.",
+      "title": "Travis Pastrana představil nový Gymkhana vůz - upravené Subaru Brat s 9500 otáčkami",
+      "description": "Série Gymkhana pokračuje třináctým dílem s Travisem Pastranou za volantem extrémně upraveného Subaru Brat s výkonem 670 koní a aktivní aerodynamikou.",
       "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
       "publishedAt": "2025-11-04T20:00:00+00:00",
       "date": "2025-11-04 20:00:00",
@@ -222,6 +242,26 @@
       "people": []
     },
     {
+      "title": "M2 vs. M5 Vision Pro: Porovnání více než 20 rozdílů",
+      "description": "Apple aktualizoval headset Vision Pro s čipem M5. Přehled všech rozdílů oproti původní verzi s čipem M2 ukazuje, že jde o inkrementální vylepšení, nikoli novou generaci.",
+      "slug": "m2-vs-m5-vision-pro-20-differences-compared-macrum",
+      "publishedAt": "2025-11-04T17:04:44+00:00",
+      "date": "2025-11-04 17:04:44",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/AWIbpR3c6hj_3eVOI_xw1a_xY4A=/1600x/article-new/2025/10/Vision-Pro-M5-Demo.jpg",
+      "url": "/tech-news/2025-11-04/m2-vs-m5-vision-pro-20-differences-compared-macrum/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
       "title": "Google Maps získává funkci živého vedení v jízdních pruzích pro vozy Polestar 4",
       "description": "Google Maps zavádí novou funkci živého vedení v pruzích pro elektromobily Polestar 4 v USA a Švédsku. Systém využívá přední kameru vozidla a AI k poskytování pokynů pro včasné přejíždění.",
       "slug": "google-maps-can-tell-polestar-4-drivers-when-to-me",
@@ -285,8 +325,28 @@
       "people": []
     },
     {
+      "title": "Samsung údajně očekává prodej 35 milionů kusů řady Galaxy S26 díky AI",
+      "description": "Podle korejských zdrojů Samsung plánuje prodat 36 milionů kusů řady Galaxy S26, což představuje nárůst oproti 22 milionům prodaných S25 v první polovině roku 2024.",
+      "slug": "samsung-expects-the-galaxy-s26-series-to-sell-35-m",
+      "publishedAt": "2025-11-04T16:09:00+00:00",
+      "date": "2025-11-04 16:09:00",
+      "importance": 2,
+      "category": "mobilní telefony",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/samsung-expects-the-galaxy-s26-series-to-sell-35-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
       "title": "Celá řada Google Pixel 10 poprvé se slevou až 25 procent",
-      "description": "Google nabízí své telefony Pixel 10 včetně modelů Pro a Fold se slevami až 25 procent. Jde o první výraznější cenové snížení od uvedení na trh.",
+      "description": "Google nabízí své telefony Pixel 10 včetně modelů Pro a Fold s rekordními slevami až 25 procent. Základní model stojí 599 dolarů místo původních 799 dolarů.",
       "slug": "googles-entire-pixel-10-lineup-is-up-to-25-percent",
       "publishedAt": "2025-11-04T16:04:43+00:00",
       "date": "2025-11-04 16:04:43",
@@ -306,8 +366,8 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští předčasné slevy na Black Friday: sluchátka, televize a další elektronika",
-      "description": "Americký řetězec Best Buy zahájil předčasný výprodej před Black Friday se slevami na elektroniku včetně sluchátek, televizí, notebooků a herního vybavení.",
+      "title": "Best Buy spouští předčasné Black Friday slevy na elektroniku",
+      "description": "Americký řetězec Best Buy zahájil předčasný výprodej před Black Friday se slevami na sluchátka, televize, notebooky a další elektroniku od značek jako Samsung, Apple a další.",
       "slug": "best-buys-early-black-friday-deals-start-saving-on",
       "publishedAt": "2025-11-04T15:17:44+00:00",
       "date": "2025-11-04 15:17:44",
@@ -370,8 +430,8 @@
       "people": []
     },
     {
-      "title": "Vivo X300 Ultra údajně míří na globální trh, prodejně ale neohrozí iPhone ani Galaxy",
-      "description": "Čínský výrobce Vivo plánuje uvést svůj fotomobilní vlajkový model X300 Ultra na mezinárodní trh, což je neobvyklé pro tuto kategorii zařízení.",
+      "title": "Vivo X300 Ultra údajně zamíří na globální trh, i když nepřekoná prodeje iPhonu či Galaxy",
+      "description": "Čínský výrobce Vivo plánuje uvést svůj fotovlajkový model X300 Ultra na globální trh, což je neobvyklé pro telefony této kategorie.",
       "slug": "vivo-x300-ultras-global-debut-is-great-even-though",
       "publishedAt": "2025-11-04T14:55:56+00:00",
       "date": "2025-11-04 14:55:56",
@@ -413,7 +473,7 @@
     },
     {
       "title": "Amazon ruší svůj největší projekt ze světa Pána prstenů",
-      "description": "Amazon zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů. Jde o druhý neúspěšný pokus studia vytvořit hru z Tolkienova univerza.",
+      "description": "Amazon Game Studios zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů. Jde o druhý neúspěšný pokus společnosti vytvořit hru z Tolkienova univerza.",
       "slug": "amazon-cancels-their-biggest-lord-of-the-rings-pro",
       "publishedAt": "2025-11-04T14:41:00+00:00",
       "date": "2025-11-04 14:41:00",
@@ -469,6 +529,26 @@
       "companies": [
         "Amazon",
         "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Mapy získávají AI navigaci s kamerou v Android Automotive",
+      "description": "Google Mapy v systému Android Automotive využívají přední kameru vozidla a AI k analýze dopravních značek a jízdních pruhů pro pokročilé navigační pokyny v reálném čase.",
+      "slug": "new-google-maps-live-lane-guidance-uses-ai-camera-",
+      "publishedAt": "2025-11-04T13:00:00+00:00",
+      "date": "2025-11-04 13:00:00",
+      "importance": 3,
+      "category": "navigační systémy",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Google-Maps-Live-Lane-Guidance.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/new-google-maps-live-lane-guidance-uses-ai-camera-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
       ],
       "people": []
     },
@@ -534,8 +614,8 @@
       "people": []
     },
     {
-      "title": "Ford plánuje prodávat výkonnostní balíček pro Maverick s výkonem 300 koní",
-      "description": "Ford představil na veletrhu SEMA upravený pick-up Maverick s balíčkem 300T a oznámil záměr nabídnout podobnou úpravu zákazníkům v roce 2026.",
+      "title": "Ford plánuje prodávat výkonnostní balíček 300T pro Maverick s výkonem 300 koní",
+      "description": "Ford představil na výstavě SEMA upravenou verzi pickupu Maverick s výkonem 300 koní a plánuje balíček 300T nabídnout zákazníkům v roce 2026.",
       "slug": "ford-plans-to-sell-this-300-hp-maverick-street-tru",
       "publishedAt": "2025-11-04T11:00:00+00:00",
       "date": "2025-11-04 11:00:00",
@@ -1116,7 +1196,7 @@
     },
     {
       "title": "30 let vývoje Magic: The Gathering - 1. část",
-      "description": "Mark Rosewater bilancuje 30 let práce na karetní hře Magic: The Gathering a popisuje klíčové změny v designu od roku 1995.",
+      "description": "Mark Rosewater bilancuje 30 let práce na karetní hře Magic: The Gathering a popisuje klíčové změny v designu her.",
       "slug": "A-30-years-part-1-magic-the-gathering",
       "publishedAt": "2025-11-03T16:11:30+00:00",
       "date": "2025-11-03 16:11:30",
@@ -1313,6 +1393,26 @@
       },
       "companies": [
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup plánuje těžit měsíční palivo v hodnotě 20 milionů dolarů za kilogram",
+      "description": "Společnost Interlune ze Seattlu chce do roku 2027 zahájit těžbu helia-3 na Měsíci, což by mohlo odstartovat bilionovou lunární ekonomiku.",
+      "slug": "startup-plans-to-mine-20-million-per-kilo-moon-fue",
+      "publishedAt": "2025-11-03T14:45:00+00:00",
+      "date": "2025-11-03 14:45:00",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/11/Startup-Plans-to-Mine-20-Million-Per-Kilo-Moon-Fuel-That-Could-Revolutionize-Energy-Forever-scaled.png",
+      "url": "/tech-news/2025-11-03/startup-plans-to-mine-20-million-per-kilo-moon-fue/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Daily Galaxy --Great Discoveries Channel"
+      },
+      "companies": [
+        "Na základě poskytnutého textu (nadpisu a popisu) nelze identifikovat konkrétní název startupu ze Seattlu. Článek zmiňuje pouze \"Seattle startup\" bez uvedení jména firmy.\n\nžádné"
       ],
       "people": []
     },
@@ -3725,42 +3825,6 @@
       "people": []
     },
     {
-      "title": "T-Mobile’s emergency payments system is going online-only - 9to5Google",
-      "description": "Users who need to take advantage of T-Mobile’s payment arrangements in uncertain times will need to do it all in...",
-      "slug": "t-mobiles-emergency-payments-system-is-going-onlin",
-      "publishedAt": "2025-10-30T15:43:00+00:00",
-      "date": "2025-10-30 15:43:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/T-Mobile_New_Logo_Primary_RGB_W-on-M.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/t-mobiles-emergency-payments-system-is-going-onlin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
-      "description": "The leaked slide focuses on Google Pixel phones and mentions those running the security-focused GrapheneOS operating system.",
-      "slug": "someone-snuck-into-a-cellebrite-microsoft-teams-ca",
-      "publishedAt": "2025-10-30T15:15:46+00:00",
-      "date": "2025-10-30 15:15:46",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/10/cellebrite-youtube.png",
-      "url": "/tech-news/2025-10-30/someone-snuck-into-a-cellebrite-microsoft-teams-ca/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "404media.co"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "WhatsApp can now use passkeys to secure your backups - The Verge",
       "description": "WhatsApp is launching passkey-encrypted backups for iOS and Android that can protect stored messages using your face, fingerprint, or device screen lock code.",
       "slug": "whatsapp-can-now-use-passkeys-to-secure-your-backu",
@@ -3810,60 +3874,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Snapdragon 8 Gen 5 To Share Same CPU Cluster, Lithography As Snapdragon 8 Elite Gen 5 But With Lower Clock Speeds; Rumor Claims SoC Equal To Snapdragon 8 Elite - Wccftech",
-      "description": "The specifications and performance numbers of Qualcomm’s upcoming Snapdragon 8 Gen 5 have been shared by a tipster, with some promising numbers",
-      "slug": "snapdragon-8-gen-5-to-share-same-cpu-cluster-litho",
-      "publishedAt": "2025-10-30T09:03:00+00:00",
-      "date": "2025-10-30 09:03:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/Qualcomm-Snapdragon.jpg",
-      "url": "/tech-news/2025-10-30/snapdragon-8-gen-5-to-share-same-cpu-cluster-litho/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung teases Galaxy S26 with next-gen AI, custom chip, and new camera sensors - Android Authority",
-      "description": "Samsung just confirmed that the Galaxy S26 series will bring big AI upgrades, a new set of cameras, and a custom-built processor.",
-      "slug": "samsung-teases-galaxy-s26-with-next-gen-ai-custom-",
-      "publishedAt": "2025-10-30T03:52:38+00:00",
-      "date": "2025-10-30 03:52:38",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S26-Ultra-CAD-render-3.jpg",
-      "url": "/tech-news/2025-10-30/samsung-teases-galaxy-s26-with-next-gen-ai-custom-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "T-Mobile Will Now Force The T-Life App When Doing Payment Arrangements - The Mobile Report",
-      "description": "From October 30th, you won't be able to set up a payment arrangement through support, so you better learn your way around the T-Life app.",
-      "slug": "t-mobile-will-now-force-the-t-life-app-when-doing-",
-      "publishedAt": "2025-10-30T00:45:29+00:00",
-      "date": "2025-10-30 00:45:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://tmo.report/wp-content/uploads/2025/06/tlifefeatured3.png",
-      "url": "/tech-news/2025-10-30/t-mobile-will-now-force-the-t-life-app-when-doing-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tmo.report"
       },
       "companies": [],
       "people": []

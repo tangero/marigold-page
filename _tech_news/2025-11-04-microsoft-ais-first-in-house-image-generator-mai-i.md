@@ -1,6 +1,6 @@
 ---
 author: Marisa Aigen
-category: ai generátory
+category: ai generování obrazu
 companies:
 - Microsoft
 date: '2025-11-04 21:48:09'
@@ -25,33 +25,29 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-Microsoft zpřístupnil svůj první vlastní AI generátor obrázků MAI-Image-1, který je nyní k dispozici v nástrojích Bing Image Creator a Copilot Audio Expressions. Model byl oznámen v říjnu 2025 a představuje další krok Microsoftu směrem k nezávislosti na modelech OpenAI. V Evropské unii zatím není dostupný, ale podle šéfa Microsoft AI Mustafy Suleymana by měl být brzy.
+Microsoft zpřístupnil svůj první vlastní AI generátor obrázků MAI-Image-1, který je nyní k dispozici v nástrojích Bing Image Creator a Copilot Audio Expressions. Model, poprvé představený v říjnu 2025, zatím není dostupný v Evropské unii, ale šéf Microsoft AI Mustafa Suleyman slíbil brzké rozšíření.
 
 ## Klíčové body
 
 - MAI-Image-1 je první interně vyvinutý generátor obrázků Microsoftu, dostupný v Bing Image Creator a Copilot Audio Expressions
-- Model vyniká v generování fotorealistických snímků jídla, přírodních scén a detailního osvětlení
-- V EU zatím není k dispozici, spuštění je plánováno "brzy"
-- Kombinuje rychlost a kvalitu, což umožňuje rychlejší iteraci nápadů oproti větším a pomalejším modelům
-- Součást širší strategie Microsoftu budovat vlastní AI modely a snižovat závislost na OpenAI
+- Model vyniká ve fotorealistických snímcích jídla, přírody a uměleckého osvětlení, přičemž je rychlejší než konkurenční větší modely
+- V EU zatím není k dispozici, Suleyman slibuje brzké spuštění
+- Microsoft pokračuje v budování vlastních AI modelů, čímž snižuje závislost na OpenAI
+- Copilot přechází na GPT-5 od OpenAI, ale nabízí i modely Claude od Anthropic
 
 ## Podrobnosti
 
-MAI-Image-1 je text-to-image model, který podle Microsoftu vyniká zejména v generování fotorealistických obrazů s důrazem na přesné zobrazení osvětlení, včetně odražených světel a reflexí. Společnost zdůrazňuje, že model je optimalizován pro rychlost při zachování vysoké kvality, což uživatelům umožňuje rychleji vizualizovat své nápady a efektivněji je iterovat před přenesením do dalších nástrojů pro finální úpravy.
+MAI-Image-1 představuje další krok Microsoftu k vlastním AI modelům. Podle oficiálního blogu společnosti model exceluje v generování fotorealistických snímků s důrazem na správné zobrazení osvětlení, včetně odrazů a nepřímého světla. Zvláště dobře si vede při tvorbě krajin a přírodních scén. Klíčovou výhodou oproti konkurenci je kombinace rychlosti a kvality – uživatelé mohou rychleji iterovat své nápady a následně je exportovat do dalších nástrojů pro pokročilou úpravu.
 
-Model nachází uplatnění ve dvou produktech. V Bing Image Creator slouží jako primární generátor obrázků pro uživatele, kteří chtějí vytvářet AI obrazy z textových popisů. Druhé využití je v Copilot Audio Expressions, konkrétně v režimu "story mode", kde MAI-Image-1 automaticky generuje ilustrace k AI vytvořeným zvukovým příběhům.
+V rámci Copilot Audio Expressions, platformy pro převod textu na řeč, bude MAI-Image-1 automaticky generovat ilustrace k AI vytvořeným audio příběhům v režimu "story mode". Tato integrace ukazuje snahu Microsoftu o propojení různých AI modalit v rámci jednoho ekosystému.
 
-MAI-Image-1 je třetím modelem z rodiny MAI (Microsoft AI), kterou společnost představila v srpnu 2025. První dva modely byly MAI-Voice-1 pro generování řeči a MAI-1-preview pro zpracování textu. Všechny tyto modely jsou součástí strategie Microsoftu budovat vlastní AI infrastrukturu a snižovat závislost na modelech OpenAI, se kterou má Microsoft významné partnerství.
-
-Zajímavé je, že zatímco Microsoft vyvíjí vlastní modely, jeho chatbot Copilot právě přechází na nejnovější model OpenAI GPT-5 a nabízí také možnost využití modelů Claude od společnosti Anthropic. To ukazuje na hybridní přístup, kdy Microsoft kombinuje vlastní technologie s externími řešeními podle konkrétních potřeb.
+V srpnu 2025 Microsoft představil své první vlastní AI modely – řečový model MAI-Voice-1 a textový model MAI-1-preview. Tehdy společnost naznačila, že MAI-1-preview bude využíván v asistentovi Copilot v některých případech, což signalizovalo možný odklon od závislosti na modelech OpenAI. Současná situace je však složitější – zatímco Microsoft buduje vlastní modely, Copilot aktuálně přechází na nejnovější GPT-5 od OpenAI a zároveň nabízí uživatelům možnost využít modely Claude od Anthropic.
 
 ## Proč je to důležité
 
-Spuštění MAI-Image-1 signalizuje významný posun v strategii Microsoftu. Zatímco společnost investovala miliardy dolarů do OpenAI a její modely tvoří základ mnoha Microsoft produktů, nyní aktivně buduje vlastní AI portfolio. To jí dává větší kontrolu nad technologií, náklady a vývojem funkcí.
+Spuštění MAI-Image-1 potvrzuje strategický posun Microsoftu směrem k vlastním AI modelům, což může mít zásadní dopady na celý ekosystém umělé inteligence. Přestože Microsoft investoval do OpenAI miliardy dolarů a zůstává jejich klíčovým partnerem, vlastní modely mu poskytují větší kontrolu nad technologií, náklady a možnostmi přizpůsobení.
 
-Pro uživatele to znamená potenciálně rychlejší a lépe integrované nástroje, protože Microsoft může optimalizovat vlastní modely přímo pro své produkty. Důraz na rychlost při zachování kvality může být konkurenční výhodou oproti pomalejším modelům jako Midjourney nebo DALL-E.
-
-Nedostupnost v EU odráží pokračující regulatorní výzvy, kterým čelí AI společnosti v Evropě kvůli přísnějším pravidlům AI Act a GDPR.
+Diverse portfolio modelů – vlastní MAI modely, GPT-5 od OpenAI a Claude od Anthropic – ukazuje pragmatický přístup, kdy Microsoft nesází pouze na jednoho koně. Pro uživatele to znamená větší flexibilitu a možnost volby podle konkrétních potřeb. Absence v EU zatím odráží složitost regulatorního prostředí v Evropě, kde AI Act a další předpisy vyžadují pečlivé posouzení před spuštěním nových AI nástrojů.
 
 ---
 
