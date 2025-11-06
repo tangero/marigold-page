@@ -7,8 +7,8 @@
 <meta property="og:title" content="Starší termostaty Nest lze oživit pomocí komunitního projektu" />
 <meta name="author" content="Marisa Aigen" />
 <meta property="og:locale" content="cs" />
-<meta name="description" content="Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které zařízení vrací k životu." />
-<meta property="og:description" content="Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které zařízení vrací k životu." />
+<meta name="description" content="Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které jim vrací funkčnost." />
+<meta property="og:description" content="Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které jim vrací funkčnost." />
 <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/" />
 <meta property="og:url" content="https://www.marigold.cz/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/" />
 <meta property="og:site_name" content="Marigold.cz" />
@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Starší termostaty Nest lze oživit pomocí komunitního projektu" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Marisa Aigen"},"dateModified":"2025-11-03T22:07:00+00:00","datePublished":"2025-11-03T22:07:00+00:00","description":"Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které zařízení vrací k životu.","headline":"Starší termostaty Nest lze oživit pomocí komunitního projektu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/"},"url":"https://www.marigold.cz/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Marisa Aigen"},"dateModified":"2025-11-03T22:07:00+00:00","datePublished":"2025-11-03T22:07:00+00:00","description":"Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které jim vrací funkčnost.","headline":"Starší termostaty Nest lze oživit pomocí komunitního projektu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/"},"url":"https://www.marigold.cz/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -253,31 +253,33 @@
   <div class="article-content">
     <h2 id="souhrn">Souhrn</h2>
 
-<p>Google v roce 2024 ukončil podporu termostatů Nest první a druhé generace po více než deseti letech provozu, čímž uživatelé přišli o možnost ovládat svá zařízení přes mobilní aplikaci. Vývojář Cody Kociemba však vytvořil open-source projekt na platformě GitHub, který umožňuje tato zařízení znovu zprovoznit pomocí alternativního firmwaru.</p>
+<p>Google v roce 2024 ukončil podporu termostatů Nest první a druhé generace po více než deseti letech provozu. Vývojář Cody Kociemba však vytvořil open-source projekt na GitHubu, který umožňuje majitelům těchto zařízení obnovit jejich funkčnost přesměrováním komunikace na alternativní platformu.</p>
 
 <h2 id="klíčové-body">Klíčové body</h2>
 
 <ul>
-  <li>Google ukončil podporu termostatů Nest 1. a 2. generace, které ztratily možnost připojení k internetu a ovládání přes aplikaci</li>
-  <li>Vývojář Cody Kociemba publikoval na GitHubu projekt pro oživení těchto zařízení</li>
-  <li>Řešení vyžaduje nahrání nového firmwaru, který přesměruje komunikaci na alternativní platformu</li>
-  <li>Po úspěšné instalaci funguje termostat stejně jako před ukončením podpory</li>
-  <li>Projekt je zdarma, ale uživatelé postupují na vlastní riziko bez záruky</li>
+  <li>Google ukončil cloudovou podporu pro termostaty Nest 1. a 2. generace, čímž uživatelé ztratili možnost ovládat je přes mobilní aplikaci</li>
+  <li>Vývojář Cody Kociemba publikoval projekt na GitHubu, který umožňuje nahrát do termostatů nový firmware</li>
+  <li>Řešení přesměruje veškerou komunikaci zařízení na alternativní platformu místo původních serverů Google</li>
+  <li>Po úspěšné instalaci termostaty fungují stejně jako před ukončením podpory</li>
+  <li>Projekt je zcela zdarma, vyžaduje však technické znalosti a manuální zásah do zařízení</li>
 </ul>
 
 <h2 id="podrobnosti">Podrobnosti</h2>
 
-<p>Ukončení podpory starších termostatů Nest představuje typický problém chytrých domácností - zařízení, která jsou fyzicky plně funkční, se stávají nepoužitelnými kvůli rozhodnutí výrobce. Ačkoliv Google poskytl dostatečné předběžné upozornění a více než deset let podpory lze považovat za nadstandardní, uživatelé oprávněně očekávají, že zařízení v ceně několika tisíc korun si udrží svou funkcionalitu po celou dobu fyzické životnosti.</p>
+<p>Ukončení podpory starších termostatů Nest představuje typický problém chytrých domácností - závislost na cloudových službách výrobce. Ačkoliv Google poskytoval podporu po dobu přes deseti let, což je v technologickém průmyslu nadstandardní, uživatelé přesto přišli o funkční zařízení, která jinak fungovala bez problémů a vyžadovala minimální údržbu.</p>
 
-<p>Řešení od Codyho Kociemby funguje na principu nahrazení původního firmwaru. Uživatel musí do termostatu nahrát nový software, který přesměruje veškerou komunikaci z původních serverů Google na novou platformu. Tím se obnoví možnost vzdáleného ovládání a všechny chytré funkce, které zařízení původně mělo.</p>
+<p>Projekt Codyho Kociemby nabízí technické řešení této situace. Proces obnovy vyžaduje nahrání nového firmwaru do termostatu, což není triviální úkon a nese určitá rizika. Autor projektu upozorňuje na množství varování a odmítnutí odpovědnosti - pokud něco selže, uživatel nemá na koho se obrátit. Jedná se o neoficiální řešení, které Google rozhodně nedoporučuje.</p>
 
-<p>Proces instalace není triviální a vyžaduje technické znalosti. Autor projektu uvádí rozsáhlý seznam varování a upozornění - při aktualizaci firmwaru vždy existuje riziko, že zařízení přestane fungovat úplně. Uživatelé postupují zcela na vlastní odpovědnost bez jakékoliv záruky. Dokumentace na GitHubu obsahuje detailní návod, který je nutné pečlivě prostudovat před zahájením procesu.</p>
+<p>Samotná implementace spočívá v přesměrování veškeré komunikace termostatu z původních serverů Google na novou platformu. Po úspěšné instalaci by mělo zařízení vypadat a fungovat identicky jako před ukončením podpory. Podle dostupných informací řešení skutečně funguje, pokud uživatel úspěšně projde instalačním procesem.</p>
 
-<p>Po úspěšné instalaci by měl termostat fungovat prakticky identicky jako před ukončením podpory. Uživatelské rozhraní i ovládání zůstávají zachovány, což znamená minimální nutnost přizpůsobení se novému systému.</p>
+<p>Projekt je dostupný na GitHubu s podrobnou dokumentací. Před jakýmkoliv zásahem do zařízení je nezbytné pečlivě prostudovat všechny instrukce. Jako u každé aktualizace firmwaru existuje riziko, že proces nemusí proběhnout úspěšně a zařízení může být trvale poškozeno.</p>
 
 <h2 id="proč-je-to-důležité">Proč je to důležité</h2>
 
-<p>Tento projekt ilustruje rostoucí problém plánovaného zastarávání v oblasti chytrých domácností a internetu věcí. Zatímco tradiční termostaty fungují desítky let, chytrá zařízení jsou závislá na cloudových službách výrobců, které mohou být kdykoliv vypnuty. Komunitní řešení jako toto ukazují cestu, jak prodloužit životnost zařízení a snížit elektronický odpad. Zároveň však zdůrazňují potřebu otevřenějších standardů a možnosti lokálního provozu bez závislosti na cloudových službách výrobců.</p>
+<p>Tento případ ilustruje fundamentální problém ekosystému chytrých domácností - závislost na cloudových službách výrobců. Zařízení, která jsou hardwarově plně funkční, se stávají nepoužitelnými kvůli rozhodnutí výrobce ukončit serverovou podporu. Komunitní projekty jako tento ukazují, že technická řešení existují, ale vyžadují pokročilé znalosti a ochotu riskovat.</p>
+
+<p>Jde také o precedens pro budoucnost - s rostoucím počtem chytrých zařízení v domácnostech bude problém ukončování podpory stále častější. Otázkou zůstává, zda by výrobci neměli být legislativně nuceni poskytovat delší podporu nebo umožnit přechod na alternativní platformy.</p>
 
 <hr />
 
