@@ -2,8 +2,8 @@
 author: Marisa Aigen
 category: automobilový průmysl
 date: '2025-11-04 11:00:00'
-description: Ford představil na výstavě SEMA upravenou verzi pickupu Maverick s výkonem
-  300 koní a plánuje balíček 300T nabídnout zákazníkům v roce 2026.
+description: Ford představil na výstavě SEMA upravený pickup Maverick s výkonem 300
+  koní a plánuje nabídnout podobný balíček 300T zákazníkům v roce 2026.
 importance: 3
 layout: tech_news_article
 original_title: Ford Plans to Sell This 300-HP Maverick Street Truck Upgrade With
@@ -14,7 +14,7 @@ source:
   emoji: 📰
   id: null
   name: The Drive
-title: Ford plánuje prodávat výkonnostní balíček 300T pro Maverick s výkonem 300 koní
+title: Ford plánuje prodej výkonnostního balíčku 300T pro Maverick s výkonem 300 koní
 url: http://www.thedrive.com/news/ford-plans-to-sell-this-300-hp-maverick-street-truck-upgrade-with-a-bigger-turbo
 urlToImage: https://www.thedrive.com/wp-content/uploads/2025/11/Ford-Maverick-300T-Hero-1.jpg?quality=85&w=1200
 urlToImageBackup: https://www.thedrive.com/wp-content/uploads/2025/11/Ford-Maverick-300T-Hero-1.jpg?quality=85&w=1200
@@ -22,27 +22,29 @@ urlToImageBackup: https://www.thedrive.com/wp-content/uploads/2025/11/Ford-Maver
 
 ## Souhrn
 
-Ford představil na výstavě SEMA v Las Vegas upravenou verzi kompaktního pickupu Maverick s výkonnostním balíčkem 300T, který zvyšuje výkon na 300 koní a 430 Nm točivého momentu. Na rozdíl od většiny konceptů ze SEMA plánuje automobilka tento balíček skutečně nabídnout zákazníkům v roce 2026.
+Ford představil na výstavě SEMA v Las Vegas upravený pickup Maverick s výkonnostním balíčkem 300T, který zvyšuje výkon na 300 koní a 430 Nm. Na rozdíl od většiny konceptů ze SEMA má tento projekt reálnou šanci dostat se k zákazníkům – Ford plánuje nabídnout balíček 300T nebo jeho podobnou verzi v roce 2026.
 
 ## Klíčové body
 
-- Výkonnostní balíček 300T zvyšuje výkon z původních 250 na 300 koní a točivý moment z 376 na 430 Nm
-- Klíčovou úpravou je větší turbodmychadlo o průměru 59 mm převzaté z 2,3litrového motoru Mustang EcoBoost
-- Balíček zahrnuje větší mezichladič Mishimoto, úpravu řídící jednotky ProCal 4 a sportovní výfuk
-- Ford doporučuje instalaci pouze na vozy s balíčkem 4K Tow Package kvůli lepšímu chlazení
-- Plánované uvedení na trh v roce 2026 ve dvou barevných provedeních
+- Výkon zvýšen na 300 koní a 430 Nm (317 lb-ft) pomocí většího 59mm turbodmychadla z Mustangu EcoBoost
+- Nárůst o 50 koní a 54 Nm oproti sériovému 2.0litrovému motoru Mavericku
+- Balíček zahrnuje větší intercooler Mishimoto (o 60 % větší než sériový), tuning ProCal 4 a sportovní výfuk
+- Ford doporučuje balíček pouze pro vozy s tažným balíčkem 4K kvůli lepšímu chlazení
+- Plánovaná dostupnost pro zákazníky v roce 2026 ve dvou barevných schématech
 
 ## Podrobnosti
 
-Ford Maverick je kompaktní pickup, který si získal popularitu díky dostupné ceně a praktičnosti. Standardní dvoulitrový turbomotor nabízí slušných 250 koní, ale Ford nyní ukazuje, že v motoru je skrytý větší potenciál. Hlavní úpravou je instalace většího turbodmychadla o průměru 59 milimetrů, které pochází z 2,3litrového motoru Mustang EcoBoost. Tato změna sama o sobě přináší nárůst o 50 koní a 54 Nm.
+Ford u modelu Maverick vsadil na přímočarý přístup ke zvýšení výkonu – klíčovou komponentou je větší turbodmychadlo o průměru 59 milimetrů, které automobilka vypůjčila z 2.3litrového motoru Mustangu EcoBoost. Toto turbodmychadlo aplikované na menší dvoulitrový motor Mavericku přináší automatický nárůst výkonu o 50 koní a točivého momentu o 54 Nm oproti sériovému provedení.
 
-K turbodmychadlu přibývá mezichladič od společnosti Mishimoto, který je o 60 procent větší než sériový. Větší mezichladič dokáže efektivněji ochlazovat stlačený vzduch, což umožňuje vyšší výkon bez rizika poškození motoru. Úprava řídící jednotky pomocí systému ProCal 4 optimalizuje parametry motoru pro nové komponenty. Sportovní výfuk cat-back pak zajišťuje lepší odvod výfukových plynů a charakterističtější zvuk.
+Balíček 300T však není pouze o větším turbu. Zahrnuje také výrazně větší intercooler od společnosti Mishimoto, který je o téměř 60 procent objemnější než sériový díl. Tento upgrade je nezbytný pro efektivní chlazení stlačeného vzduchu při vyšším tlaku. Součástí je také tuning ProCal 4, který optimalizuje řídící jednotku motoru pro nové komponenty, a sportovní výfukový systém cat-back, který podle Fordu vydává charakteristický burácivý zvuk.
 
-Ford výslovně doporučuje, aby si balíček 300T nechali instalovat pouze majitelé vozů s továrním balíčkem 4K Tow Package. Tento balíček zahrnuje vylepšené chlazení, které je nezbytné pro spolehlivý provoz s navýšeným výkonem. Koncept na SEMA byl doplněn také snižovacím setem Maverick Lobo s monotubovými tlumiči, silnějším stabilizátorem a tužšími pouzdry. Vůz stojí na 20palcových kolech z Mustangu Mach-E GT obutých do pneumatik Michelin Pilot Sport 4 S.
+Ford explicitně doporučuje, aby si balíček 300T pořizovali pouze majitelé vozů s tažným balíčkem 4K. Tento balíček totiž zahrnuje vylepšené chlazení, které lépe zvládá dodatečné tepelné zatížení z vyššího výkonu. Koncept na SEMA je dále vybaven snižovacím setem Maverick Lobo s monotubovými tlumiči, silnějším stabilizátorem a tužšími silentbloky. Estetickou stránku dotváří 20palcová kola z Mustangu Mach-E GT s pneumatikami Michelin Pilot Sport 4 S.
 
 ## Proč je to důležité
 
-Jde o neobvyklý krok, kdy automobilka plánuje skutečně komercializovat koncept ze SEMA. Většina projektů z této výstavy zůstává pouze na úrovni ukázek. Ford tím reaguje na poptávku po výkonnějších verzích Mavericku a zároveň nabízí tovární řešení s garancí, což je pro zákazníky bezpečnější než úpravy v neautorizovaných dílnách. Balíček 300T může pomoci Fordu konkurovat sportovnějším pickupům na trhu a rozšířit nabídku pro zákazníky, kteří hledají kombinaci praktičnosti a výkonu.
+Tento krok Fordu je zajímavý z několika důvodů. Především jde o relativně neobvyklý přístup, kdy automobilka otevřeně plánuje komercionalizaci konceptu ze SEMA ještě před jeho oficiálním uvedením. Maverick se od svého uvedení stal překvapivým úspěchem jako cenově dostupný kompaktní pickup, a Ford nyní zjevně testuje zájem o výkonnější verzi.
+
+Balíček 300T by mohl konkurovat aftermarketovým úpravám a zároveň nabídnout zákazníkům tovární záruku a podporu. Není však jasné, které komponenty budou součástí finálního balíčku – Ford ve své tiskové zprávě konkrétně uvádí, že vylepšené pneumatiky budou doporučené, ale ne součástí balíčku. Dostupnost v roce 2026 naznačuje, že Ford chce nejprve otestovat trh a případně upravit nabídku podle zpětné vazby.
 
 ---
 

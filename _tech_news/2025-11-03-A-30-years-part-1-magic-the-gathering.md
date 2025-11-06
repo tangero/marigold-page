@@ -18,11 +18,11 @@ urlToImage: https://images.ctfassets.net/s5n2t79q9icq/3xW2O1pL2ybksjRY9UjG5X/900
 urlToImageBackup: https://images.ctfassets.net/s5n2t79q9icq/3xW2O1pL2ybksjRY9UjG5X/90042e16a657ec7dd976c16b5aaece23/ODY_Broodhatch_Nantuko_960x540.jpg
 ---
 
-Mark Rosewater, dlouholetý vývojář karetní hry Magic: The Gathering, oslavil 30 let práce ve společnosti Wizards of the Coast. Při této příležitosti publikoval první část třídílného seriálu, ve kterém rozebírá 30 největších změn v designu hry od října 1995.
+Mark Rosewater, dlouholetý designér karetní hry Magic: The Gathering, oslavil 30. výročí své práce ve společnosti Wizards of the Coast. Při této příležitosti píše třídílnou sérii článků o 30 největších změnách v designu hry od října 1995.
 
-V první části se zaměřuje na dva klíčové milníky z roku 1996. Prvním je zavedení designu pro formát Limited v edici Mirage, kdy se poprvé při návrhu karet aktivně myslelo na draft a sealed formáty. Předchozí edice jako Alpha měly například pouze čtyři běžné bílé bytosti, z nichž jen jedna mohla způsobit více než 2 body poškození. Druhým milníkem bylo zavedení bloků - souborů edic navržených společně s provázanou mechanikou a příběhem.
+V první části se Rosewater zaměřuje na dva zásadní milníky z roku 1996. Prvním je zavedení designu pro formát Limited v edici Mirage, kdy se tvůrci poprvé aktivně zaměřili na herní režim s náhodnými kartami z boosterů. Před tím existovaly v sadách jako Alpha pouze čtyři běžné bílé bytosti, z nichž jen jedna mohla způsobit více než 2 body poškození. Mirage přinesl promyšlenější křivky bytostí, schopnosti létání a odstraňování karet.
 
-Jde o nostalgický pohled na historii populární karetní hry, který je primárně určen fanouškům Magic: The Gathering. Pro širší technologický kontext nemá článek relevanci.
+Druhým milníkem bylo zavedení bloků - propojených sad karet. Zatímco Alliances byl prodáván jako rozšíření Ice Age, ale nebyl tak navržen, Mirage byl od začátku designován společně s následující sadou Visions. Toto se stalo standardem pro další desetiletí vývoje hry.
 
 ---
 

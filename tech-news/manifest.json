@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-06T08:25:05.315620+00:00",
+  "generated": "2025-11-06T12:30:26.845946+00:00",
   "count": 200,
   "articles": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "title": "Microsoft spustil vlastní generátor obrázků MAI-Image-1",
-      "description": "Microsoft zpřístupnil svůj první interně vyvinutý AI generátor obrázků MAI-Image-1 v nástrojích Bing Image Creator a Copilot Audio Expressions. V EU zatím není dostupný.",
+      "description": "Microsoft uvedl svůj první interně vyvinutý AI generátor obrázků MAI-Image-1, který je dostupný v Bing Image Creator a Copilot Audio Expressions. V EU zatím není k dispozici.",
       "slug": "microsoft-ais-first-in-house-image-generator-mai-i",
       "publishedAt": "2025-11-04T21:48:09+00:00",
       "date": "2025-11-04 21:48:09",
@@ -41,8 +41,8 @@
       "people": []
     },
     {
-      "title": "iOS 26.1 přináší vylepšení ovládání Liquid Glass a řadu nových funkcí",
-      "description": "První velká aktualizace iOS 26 zahrnuje vylepšení živého překladu, zjednodušené ovládání gesty, nové vizuální nastavení a další funkce.",
+      "title": "iOS 26.1 přináší vylepšení rozhraní Liquid Glass a nové funkce",
+      "description": "Apple vydal aktualizaci iOS 26.1 s vylepšenou jazykovou podporou, novými gesty a vizuálními nastaveními pro rozhraní Liquid Glass.",
       "slug": "ios-261-update-offers-liquid-glass-controls-bevy-o",
       "publishedAt": "2025-11-04T21:45:00+00:00",
       "date": "2025-11-04 21:45:00",
@@ -81,8 +81,8 @@
       "people": []
     },
     {
-      "title": "Travis Pastrana představil nový Gymkhana vůz - upravené Subaru Brat s 9500 otáčkami",
-      "description": "Série Gymkhana pokračuje třináctým dílem s Travisem Pastranou za volantem extrémně upraveného Subaru Brat s výkonem 670 koní a aktivní aerodynamikou.",
+      "title": "Travis Pastrana představil nový Gymkhana vůz - Subaru Brat s 9500 otáčkami",
+      "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, aktivní aerodynamikou a karbonovým tělem.",
       "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
       "publishedAt": "2025-11-04T20:00:00+00:00",
       "date": "2025-11-04 20:00:00",
@@ -120,7 +120,7 @@
     },
     {
       "title": "Sora je nyní dostupná na Androidu v USA, Kanadě a dalších regionech",
-      "description": "AI generátor videí od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si zachovává všechny funkce včetně kontroverzní funkce Cameos pro tvorbu videí s vlastní podobiznou.",
+      "description": "Generátor videí s umělou inteligencí od OpenAI se rozšiřuje na platformu Android v sedmi zemích. Aplikace nabízí stejné funkce jako verze pro iOS, včetně kontroverzní funkce Cameos.",
       "slug": "sora-is-now-available-on-android-in-the-us-canada-",
       "publishedAt": "2025-11-04T19:35:51+00:00",
       "date": "2025-11-04 19:35:51",
@@ -243,7 +243,7 @@
     },
     {
       "title": "M2 vs. M5 Vision Pro: Porovnání více než 20 rozdílů",
-      "description": "Apple aktualizoval headset Vision Pro s čipem M5. Přehled všech rozdílů oproti původní verzi s čipem M2 ukazuje, že jde o inkrementální vylepšení, nikoli novou generaci.",
+      "description": "Apple aktualizoval headset Vision Pro čipem M5. Přinášíme kompletní srovnání s původní verzí s čipem M2 a analýzu všech změn.",
       "slug": "m2-vs-m5-vision-pro-20-differences-compared-macrum",
       "publishedAt": "2025-11-04T17:04:44+00:00",
       "date": "2025-11-04 17:04:44",
@@ -325,8 +325,8 @@
       "people": []
     },
     {
-      "title": "Samsung údajně očekává prodej 35 milionů kusů řady Galaxy S26 díky AI",
-      "description": "Podle korejských zdrojů Samsung plánuje prodat 36 milionů kusů řady Galaxy S26, což představuje nárůst oproti 22 milionům prodaných S25 v první polovině roku 2024.",
+      "title": "Samsung očekává prodej 35 milionů kusů řady Galaxy S26 díky AI",
+      "description": "Samsung podle interních odhadů plánuje prodat 36 milionů kusů řady Galaxy S26, což by představovalo nárůst oproti 22 milionům prodaných S25 v první polovině roku 2025.",
       "slug": "samsung-expects-the-galaxy-s26-series-to-sell-35-m",
       "publishedAt": "2025-11-04T16:09:00+00:00",
       "date": "2025-11-04 16:09:00",
@@ -431,7 +431,7 @@
     },
     {
       "title": "Vivo X300 Ultra údajně zamíří na globální trh, i když nepřekoná prodeje iPhonu či Galaxy",
-      "description": "Čínský výrobce Vivo plánuje uvést svůj fotovlajkový model X300 Ultra na globální trh, což je neobvyklé pro telefony této kategorie.",
+      "description": "Čínský výrobce Vivo by mohl poprvé uvést svůj vlajkový model X300 Ultra i mimo domácí trh, přestože jde zatím pouze o spekulace.",
       "slug": "vivo-x300-ultras-global-debut-is-great-even-though",
       "publishedAt": "2025-11-04T14:55:56+00:00",
       "date": "2025-11-04 14:55:56",
@@ -473,7 +473,7 @@
     },
     {
       "title": "Amazon ruší svůj největší projekt ze světa Pána prstenů",
-      "description": "Amazon Game Studios zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů. Jde o druhý neúspěšný pokus společnosti vytvořit hru z Tolkienova univerza.",
+      "description": "Amazon Game Studios oficiálně zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů napříč společností. Jde již o druhý neúspěšný pokus Amazonu vytvořit hru z Tolkienova světa.",
       "slug": "amazon-cancels-their-biggest-lord-of-the-rings-pro",
       "publishedAt": "2025-11-04T14:41:00+00:00",
       "date": "2025-11-04 14:41:00",
@@ -513,7 +513,7 @@
     },
     {
       "title": "Alexa+ přichází do aplikace Amazon Music",
-      "description": "Amazon zpřístupňuje svého vylepšeného hlasového asistenta Alexa+ v mobilní aplikaci Amazon Music. Funkce využívá AI pro přirozenější konverzaci o hudbě a je dostupná pro uživatele s předběžným přístupem.",
+      "description": "Amazon integruje svého vylepšeného asistenta Alexa+ do mobilní aplikace Amazon Music pro iOS a Android. Funkce je dostupná pro uživatele s předběžným přístupem.",
       "slug": "alexa-comes-to-the-amazon-music-app-techcrunch",
       "publishedAt": "2025-11-04T14:00:00+00:00",
       "date": "2025-11-04 14:00:00",
@@ -529,6 +529,27 @@
       "companies": [
         "Amazon",
         "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "MacBook Air 13\" s M3 čipem a 24GB RAM za 999 dolarů – o 300 dolarů méně než srovnatelný model s M4",
+      "description": "Předvánoční sleva na loňský MacBook Air s čipem M3 nabízí konfiguraci s 24GB RAM a 512GB SSD za 999 dolarů, což je o 500 dolarů méně než původní cena a o 200 dolarů méně než aktuální sleva na srovnatelný model s M4.",
+      "slug": "score-apples-13-inch-24gb-m3-macbook-air-at-500-of",
+      "publishedAt": "2025-11-04T13:19:00+00:00",
+      "date": "2025-11-04 13:19:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/02/M3-MacBook-Air-15-inch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/score-apples-13-inch-24gb-m3-macbook-air-at-500-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [
+        "Apple",
+        "Best Buy"
       ],
       "people": []
     },
@@ -614,8 +635,8 @@
       "people": []
     },
     {
-      "title": "Ford plánuje prodávat výkonnostní balíček 300T pro Maverick s výkonem 300 koní",
-      "description": "Ford představil na výstavě SEMA upravenou verzi pickupu Maverick s výkonem 300 koní a plánuje balíček 300T nabídnout zákazníkům v roce 2026.",
+      "title": "Ford plánuje prodej výkonnostního balíčku 300T pro Maverick s výkonem 300 koní",
+      "description": "Ford představil na výstavě SEMA upravený pickup Maverick s výkonem 300 koní a plánuje nabídnout podobný balíček 300T zákazníkům v roce 2026.",
       "slug": "ford-plans-to-sell-this-300-hp-maverick-street-tru",
       "publishedAt": "2025-11-04T11:00:00+00:00",
       "date": "2025-11-04 11:00:00",
@@ -872,7 +893,7 @@
     },
     {
       "title": "Starší termostaty Nest lze oživit pomocí komunitního projektu",
-      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které zařízení vrací k životu.",
+      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které jim vrací funkčnost.",
       "slug": "google-pulled-the-plug-on-nest-thermostats-but-you",
       "publishedAt": "2025-11-03T22:07:00+00:00",
       "date": "2025-11-03 22:07:00",
@@ -945,6 +966,27 @@
       },
       "companies": [
         "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD po zmatečném vydání ovladačů ujišťuje, že staré GPU jsou stále podporovány",
+      "description": "AMD po kritice zpětně ujistila uživatele, že grafické karty řady RX 5000 a 6000 budут nadále dostávat aktualizace, optimalizace her a opravy chyb.",
+      "slug": "after-confusing-driver-release-amd-says-old-gpus-a",
+      "publishedAt": "2025-11-03T20:21:36+00:00",
+      "date": "2025-11-03 20:21:36",
+      "importance": 3,
+      "category": "grafické karty",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg",
+      "url": "/tech-news/2025-11-03/after-confusing-driver-release-amd-says-old-gpus-a/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "AMD",
+        "Ars Technica"
       ],
       "people": []
     },
@@ -1357,12 +1399,12 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští předčasné Black Friday výprodeje s výraznými slevami na Apple produkty",
-      "description": "Americký maloobchodní řetězec Best Buy zahájil předčasné Black Friday výprodeje s nabídkou slev na produkty Apple, elektroniku a další zboží. Akce potrvá do 29. listopadu.",
+      "title": "Best Buy spouští předčasné Black Friday slevy s nabídkou produktů Apple",
+      "description": "Americký řetězec Best Buy zahájil předčasné Black Friday slevy, které potrvají do 9. listopadu. V nabídce jsou produkty Apple včetně iPadů a MacBooků se slevami až 200 dolarů.",
       "slug": "best-buy-reveals-black-friday-plans-with-sitewide-",
       "publishedAt": "2025-11-03T15:05:53+00:00",
       "date": "2025-11-03 15:05:53",
-      "importance": 3,
+      "importance": 2,
       "category": "e-commerce",
       "urlToImage": "https://images.macrumors.com/t/-aDjUl38v4J6LqydD6kyFUXeI5I=/2500x/article-new/2025/11/best-buy-early-black-friday.jpeg",
       "url": "/tech-news/2025-11-03/best-buy-reveals-black-friday-plans-with-sitewide-/",
@@ -3807,24 +3849,6 @@
       "people": []
     },
     {
-      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
-      "description": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, telling CNBC that “our intention is to integrate with more people over time.”",
-      "slug": "tim-cook-says-more-ais-are-coming-to-apple-intelli",
-      "publishedAt": "2025-10-30T21:32:44+00:00",
-      "date": "2025-10-30 21:32:44",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC01507.webp?quality=90&strip=all&crop=0%2C11.017233631299%2C100%2C77.965532737402&w=1200",
-      "url": "/tech-news/2025-10-30/tim-cook-says-more-ais-are-coming-to-apple-intelli/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "WhatsApp can now use passkeys to secure your backups - The Verge",
       "description": "WhatsApp is launching passkey-encrypted backups for iOS and Android that can protect stored messages using your face, fingerprint, or device screen lock code.",
       "slug": "whatsapp-can-now-use-passkeys-to-secure-your-backu",
@@ -3838,24 +3862,6 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "WhatsApp adds passkey protection to end-to-end encrypted backups - TechCrunch",
-      "description": "This means if you lose your device, you can use methods like fingerprint, face, or the screen lock code of your previous device to access WhatsApp's backup.",
-      "slug": "whatsapp-adds-passkey-protection-to-end-to-end-enc",
-      "publishedAt": "2025-10-30T13:00:00+00:00",
-      "date": "2025-10-30 13:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/English_WhatsApp_passkey-encrypted-backups-1.jpeg?resize=1200,675",
-      "url": "/tech-news/2025-10-30/whatsapp-adds-passkey-protection-to-end-to-end-enc/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
       },
       "companies": [],
       "people": []
