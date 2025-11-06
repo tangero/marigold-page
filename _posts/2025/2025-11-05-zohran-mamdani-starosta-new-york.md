@@ -19,7 +19,9 @@ title: Zohran Mamdani je nový starosta New Yorku a my ho neznáme ...
 thumbnail: https://www.marigold.cz/assets/zohran-mamdani.jpeg
 ---
 
-New York má nového starostu, což by nám mohlo být jedno, kdyby se jím nestal čtyřiatřicetiletý Zohran Mamdani. Podle dikce jména asi hned na první dobrou nepoznáte😇, zda je příslušníkem klanu Kenedyů, Bushů, Romeyů nebo Clintonových - ale nebudu vás napínat, nezapadá do žádné tradiční americké politické škatulky. V části českých konzervativních médií (jako Echo24) se okamžitě převzal Trumpovský příběh o Mandanim: je to muslimský terorista, komouš a zlo a zkáza.
+New York má nového starostu, což by nám mohlo být jedno, kdyby se jím nestal čtyřiatřicetiletý Zohran Mamdani. 
+
+Podle dikce jména asi hned na první dobrou nepoznáte😇, zda je příslušníkem klanu Kenedyů, Bushů, Romeyů nebo Clintonových - ale nebudu vás napínat, nezapadá do žádné tradiční americké politické škatulky. V části českých konzervativních médií (jako Echo24) se okamžitě převzal Trumpovský příběh o Mandanim: je to muslimský terorista, komouš a zlo a zkáza.
 
 Zohran Mamdami je typickým symbolem moderní politické Ameriky. Vystudoval africká studia na prestižní Bowdoin College, jeho otec je profesor politologie na Kolumbijské univerzitě. Pět let dělal aktivistickou práci v bytové politice, když pomáhal lidem, jimž hrozilo vystěhování a také pracoval na menších politických kampaních. V roce 2020 byl pak zvolen do newyorského státního shromáždění, kde hájil progresivní a sociálně orientované politiky.
 
