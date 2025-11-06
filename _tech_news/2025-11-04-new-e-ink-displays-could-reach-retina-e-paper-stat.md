@@ -5,9 +5,8 @@ companies:
 - Uppsala University
 - University of Gothenburg
 date: '2025-11-04 11:16:00'
-description: Vědci z Uppsala University a University of Gothenburg navrhli nový typ
-  antireflexní obrazovky s extrémní hustotou pixelů, která by mohla překonat současné
-  e-ink displeje.
+description: Výzkumníci ze švédských univerzit navrhli nový typ antireflexní obrazovky
+  s extrémní hustotou pixelů, která by mohla revolucionalizovat e-ink technologii.
 importance: 3
 layout: tech_news_article
 original_title: New e-ink displays could reach "retina e-paper" status with pixel
@@ -26,27 +25,29 @@ urlToImageBackup: https://www.techspot.com/images2/news/bigimage/2025/10/2025-10
 
 ## Souhrn
 
-Výzkumníci ze švédské Uppsala University a University of Gothenburg představili novou technologii e-ink displejů, která by mohla dosáhnout hustoty pixelů přes 25 000 PPI (pixelů na palec). Tato hodnota výrazně překonává současné e-ink displeje i běžné LCD a OLED obrazovky a přibližuje se teoretickému limitu lidského oka.
+Výzkumníci z univerzit v Uppsale a Göteborgu představili nový typ e-ink displeje, který by mohl dosáhnout hustoty pixelů přesahující 25 000 PPI (pixelů na palec). Tato technologie by mohla výrazně překonat současné e-ink displeje i běžné LCD a OLED obrazovky, přičemž zachovává výhody elektronického inkoustu jako nízkou spotřebu energie a čitelnost na přímém slunci.
 
 ## Klíčové body
 
-- Nová technologie využívá elektrochemický princip s nanočásticemi, které mění barvu při aplikaci elektrického napětí
-- Dosažená hustota pixelů přesahuje 25 000 PPI, což je výrazně více než u současných e-ink displejů (typicky 150-300 PPI)
-- Displeje si zachovávají klíčové vlastnosti e-ink technologie: nízkou spotřebu energie a čitelnost na přímém slunci
-- Technologie je zatím ve výzkumné fázi a do komerčního nasazení zbývá několik let
-- Výzkum byl publikován v odborném časopise a představuje potenciální průlom v oblasti elektronického papíru
+- Nová technologie dosahuje hustoty pixelů přes 25 000 PPI, což je výrazně více než u současných e-ink displejů (typicky 150-300 PPI)
+- Displeje zachovávají klíčové výhody e-ink technologie: nízkou spotřebu energie, antireflexní vlastnosti a čitelnost při denním světle
+- Výzkum pochází ze švédských univerzit v Uppsale a Göteborgu
+- Technologie by mohla dosáhnout statusu "retina e-paper", kde lidské oko není schopné rozeznat jednotlivé pixely
+- Řešení adresuje jeden z hlavních nedostatků současných e-ink displejů - omezenou rozlišovací schopnost
 
 ## Podrobnosti
 
-Současné e-ink displeje, které se používají především ve čtečkách elektronických knih jako Amazon Kindle, dosahují hustoty pixelů mezi 150 až 300 PPI. Pro srovnání, běžné LCD displeje v chytrých telefonech mají typicky 300-500 PPI, zatímco špičkové OLED panely dosahují až 600 PPI. Lidské oko přestává rozlišovat jednotlivé pixely přibližně při 300 PPI při běžné vzdálenosti čtení, proto se tato hodnota označuje jako "retina" rozlišení.
+Současné e-ink displeje, které se používají především v elektronických čtečkách jako Amazon Kindle, nabízejí typicky hustotu pixelů v rozmezí 150 až 300 PPI. Pro srovnání, displeje označované jako "retina" u smartphonů dosahují přibližně 300-450 PPI, což je hustota, při které lidské oko při běžné vzdálenosti sledování nedokáže rozlišit jednotlivé pixely. Navrhovaná technologie by tuto hodnotu výrazně překonala.
 
-Nová technologie ze Švédska funguje na principu elektrochemických reakcí s nanočásticemi, které mění svou barvu v závislosti na přiloženém napětí. Klíčovým rozdílem oproti současným e-ink displejům je miniaturizace těchto částic a způsob jejich uspořádání, což umožňuje vytvářet extrémně malé pixely. Výsledná hustota přes 25 000 PPI je teoreticky dostačující pro vytváření obrazu, který by lidské oko vnímalo jako naprosto hladký i při velmi blízké vzdálenosti.
+E-ink displeje fungují na principu elektronického inkoustu, kde malé částice pigmentu mění svou polohu v elektrickém poli. Tato technologie má několik zásadních výhod oproti LCD a OLED displejům: nevyžaduje podsvícení, což výrazně snižuje spotřebu energie, a odráží okolní světlo podobně jako papír, což zajišťuje výbornou čitelnost na přímém slunci bez odlesků.
 
-Výzkumníci zdůrazňují, že nová technologie si zachovává základní výhody e-ink displejů: minimální spotřebu energie (obraz zůstává viditelný i bez napájení), výbornou čitelnost na přímém slunci díky reflektivnímu principu a absenci modrého světla, které unavuje oči. Tyto vlastnosti dělají z e-ink technologie ideální řešení pro dlouhodobé čtení.
+Hlavním omezením současných e-ink displejů je právě nižší rozlišení a pomalejší obnovovací frekvence, což je činí nevhodnými pro aplikace vyžadující rychlé zobrazování pohyblivých obrazů. Výzkumníci ze Švédska navrhli nový přístup k antireflexním vrstvám, který umožňuje výrazně zvýšit hustotu pixelů při zachování základních vlastností e-ink technologie.
+
+Pokud by se tato technologie podařilo komercializovat, mohla by najít uplatnění nejen v čtečkách elektronických knih, ale také v chytrých hodinkách, signage řešeních nebo specializovaných zařízeních vyžadujících extrémně ostré zobrazení při minimální spotřebě energie.
 
 ## Proč je to důležité
 
-Pokud se technologie podaří dovést do komerční podoby, mohla by výrazně posunout možnosti elektronických čteček a dalších zařízení využívających e-ink displeje. Extrémně vysoká hustota pixelů by umožnila zobrazovat jemné detaily, komplexní grafiku a text s kvalitou blížící se tištěné knize. To by mohlo otevřít nové aplikace pro e-ink technologii v oblasti odborných publikací, technických výkresů nebo uměleckých reprodukcí. Současně by zachování nízké spotřeby energie a čitelnosti na slunci udrželo klíčové konkurenční výhody oproti LCD a OLED displejům. Výzkum je však zatím v rané fázi a praktické nasazení bude záviset na vyřešení výrobních a ekonomických otázek.
+Vývoj e-ink displejů s extrémní hustotou pixelů představuje potenciální průlom v oblasti zobrazovacích technologií. Zatímco LCD a OLED displeje dominují trhu díky své schopnosti zobrazovat barevný pohyblivý obraz, e-ink technologie má nezastupitelné místo v aplikacích, kde je prioritou nízká spotřeba energie a čitelnost při denním světle. Zvýšení rozlišení na úroveň překonávající lidské vnímání by mohlo otevřít nové možnosti využití této technologie v oblastech, kde dosud nebyla konkurenceschopná.
 
 ---
 

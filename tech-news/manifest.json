@@ -1,7 +1,83 @@
 {
-  "generated": "2025-11-06T01:01:21.508484+00:00",
+  "generated": "2025-11-06T04:27:39.068449+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Nový standard HDR10+ Advanced se pokusí vyřešit efekt mýdlové opery",
+      "description": "Samsung představil HDR10+ Advanced s funkcí Intelligent FRC, která má zlepšit vyhlazování pohybu a odstranit nežádoucí efekt mýdlové opery při sledování filmů.",
+      "slug": "new-hdr10-advanced-standard-will-try-to-fix-the-so",
+      "publishedAt": "2025-11-04T22:14:24+00:00",
+      "date": "2025-11-04 22:14:24",
+      "importance": 3,
+      "category": "zobrazovací technolo",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/mission-impossible-fallout-1152x648.jpg",
+      "url": "/tech-news/2025-11-04/new-hdr10-advanced-standard-will-try-to-fix-the-so/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft spustil vlastní generátor obrázků MAI-Image-1",
+      "description": "Microsoft zpřístupnil svůj první interně vyvinutý AI generátor obrázků MAI-Image-1 v nástrojích Bing Image Creator a Copilot Audio Expressions. V EU zatím není dostupný.",
+      "slug": "microsoft-ais-first-in-house-image-generator-mai-i",
+      "publishedAt": "2025-11-04T21:48:09+00:00",
+      "date": "2025-11-04 21:48:09",
+      "importance": 4,
+      "category": "ai generátory",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-04/microsoft-ais-first-in-house-image-generator-mai-i/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Magnetické nabíjecí stojany Nomad nyní podporují rychlejší nabíjení 25W",
+      "description": "Společnost Nomad aktualizovala své nabíjecí stojany Stand One a Stand One Max o podporu standardu Qi2.2, který umožňuje bezdrátové nabíjení výkonem až 25W.",
+      "slug": "nomads-magnetic-charging-stands-now-support-faster",
+      "publishedAt": "2025-11-04T21:42:13+00:00",
+      "date": "2025-11-04 21:42:13",
+      "importance": 3,
+      "category": "bezdrátové nabíjení",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/nomad1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "url": "/tech-news/2025-11-04/nomads-magnetic-charging-stands-now-support-faster/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Nomad"
+      ],
+      "people": []
+    },
+    {
+      "title": "Travis Pastrana představil nový Gymkhana vůz - upravený Subaru Brat s 9500 otáčkami",
+      "description": "Třináctá série Gymkhana přináší extrémně upravený Subaru Brat s výkonem 670 koní, karbonovým tělem a aktivní aerodynamikou.",
+      "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
+      "publishedAt": "2025-11-04T20:00:00+00:00",
+      "date": "2025-11-04 20:00:00",
+      "importance": 2,
+      "category": "motorsport",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/AknV1N/s1/gymkhana-subaru-brat-brataroo-9500-turbo.jpg",
+      "url": "/tech-news/2025-11-04/travis-pastranas-new-gymkhana-car-is-a-completely-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Motor1 "
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Chytré vánoční řetězy Govee v předsváteční slevě",
       "description": "Govee Christmas Lights 2 jsou nyní dostupné se slevou až 100 dolarů. Ceny začínají na 69,99 dolarů za 20metrovou verzi.",
@@ -43,8 +119,8 @@
       "people": []
     },
     {
-      "title": "iOS 26.2 přidává posuvník Liquid Glass pro přizpůsobení zamykací obrazovky",
-      "description": "Beta verze iOS 26.2 přináší vylepšený posuvník pro úpravu průhlednosti hodin na zamykací obrazovce iPhonu pomocí efektu Liquid Glass.",
+      "title": "iOS 26.2 přináší vylepšený posuvník Liquid Glass pro úpravu zamykací obrazovky",
+      "description": "Beta verze iOS 26.2 aktualizuje posuvník Liquid Glass, který umožňuje přizpůsobit vzhled hodin na zamykací obrazovce iPhonu s větší kontrolou nad průhledností.",
       "slug": "ios-262-adds-liquid-glass-slider-to-customize-your",
       "publishedAt": "2025-11-04T19:22:00+00:00",
       "date": "2025-11-04 19:22:00",
@@ -167,6 +243,27 @@
       "people": []
     },
     {
+      "title": "Google Pixel 10 v akci za 349 dolarů u operátora US Mobile",
+      "description": "Dva měsíce po uvedení na trh je Google Pixel 10 dostupný za 349 dolarů při podpisu ročního tarifu u operátora US Mobile, což představuje slevu 50 dolarů.",
+      "slug": "google-pixel-10-down-to-just-349-in-killer-us-mobi",
+      "publishedAt": "2025-11-04T16:57:00+00:00",
+      "date": "2025-11-04 16:57:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Yellow-Chair.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-04/google-pixel-10-down-to-just-349-in-killer-us-mobi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google",
+        "US Mobile"
+      ],
+      "people": []
+    },
+    {
       "title": "Detailní pohled na Galaxy Z TriFold odhaluje kompromis v podobě tlustších rámečků",
       "description": "Nové záběry Samsungu Galaxy Z TriFold ukazují, že telefon se třemi skládacími částmi má výrazně tlustší rámečky kolem displeje než současný Galaxy Z Fold 7.",
       "slug": "closer-look-at-galaxy-z-trifold-shows-that-samsung",
@@ -231,7 +328,7 @@
     },
     {
       "title": "WhatsApp spouští dlouho očekávanou aplikaci pro Apple Watch",
-      "description": "Meta konečně vydala nativní aplikaci WhatsApp pro Apple Watch, která umožňuje číst zprávy, nahrávat hlasové zprávy a přijímat notifikace hovorů přímo z chytrých hodinek.",
+      "description": "Meta konečně vydala nativní aplikaci WhatsApp pro Apple Watch s podporou čtení zpráv, hlasových nahrávek a notifikací hovorů.",
       "slug": "whatsapp-launches-long-awaited-apple-watch-app-tec",
       "publishedAt": "2025-11-04T15:00:00+00:00",
       "date": "2025-11-04 15:00:00",
@@ -273,6 +370,28 @@
       "people": []
     },
     {
+      "title": "Vivo X300 Ultra údajně míří na globální trh, prodejně ale neohrozí iPhone ani Galaxy",
+      "description": "Čínský výrobce Vivo plánuje uvést svůj fotomobilní vlajkový model X300 Ultra na mezinárodní trh, což je neobvyklé pro tuto kategorii zařízení.",
+      "slug": "vivo-x300-ultras-global-debut-is-great-even-though",
+      "publishedAt": "2025-11-04T14:55:56+00:00",
+      "date": "2025-11-04 14:55:56",
+      "importance": 2,
+      "category": "mobilní telefony",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175460-wide-two_1200/Vivo-X300-Ultras-global-debut-is-great-even-though-it-surely-wont-outsell-the-iPhone-or-the-Galaxy.jpg",
+      "url": "/tech-news/2025-11-04/vivo-x300-ultras-global-debut-is-great-even-though/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "Vivo",
+        "Apple",
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
       "title": "NVIDIA vydala ovladač GeForce Game Ready 581.80 s podporou DLSS 4",
       "description": "Nový ovladač přináší optimalizace pro Call of Duty: Black Ops 7 a další hry s technologií DLSS 4, včetně podpory pro Anno 117: Pax Romana.",
       "slug": "nvidia-geforce-game-ready-58180-driver-videocardzc",
@@ -289,6 +408,46 @@
       },
       "companies": [
         "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon ruší svůj největší projekt ze světa Pána prstenů",
+      "description": "Amazon zrušil vývoj MMORPG hry ze světa Pána prstenů v rámci rozsáhlých škrtů. Jde o druhý neúspěšný pokus studia vytvořit hru z Tolkienova univerza.",
+      "slug": "amazon-cancels-their-biggest-lord-of-the-rings-pro",
+      "publishedAt": "2025-11-04T14:41:00+00:00",
+      "date": "2025-11-04 14:41:00",
+      "importance": 3,
+      "category": "streamovací služby",
+      "urlToImage": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/the-lord-of-the-rings_-the-fellowship-of-the-ring-2001-2.jpg?w=1200&h=675&fit=crop",
+      "url": "/tech-news/2025-11-04/amazon-cancels-their-biggest-lord-of-the-rings-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Collider.com"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon integruje Alexa Plus do hudební aplikace",
+      "description": "Uživatelé Amazon Music s přístupem k beta verzi Alexa Plus mohou využívat AI asistenta pro pokročilá doporučení hudby a vyhledávání skladeb na základě nejasných informací.",
+      "slug": "amazon-is-building-alexa-plus-into-its-music-app-t",
+      "publishedAt": "2025-11-04T14:00:00+00:00",
+      "date": "2025-11-04 14:00:00",
+      "importance": 3,
+      "category": "hudební aplikace",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Amazon-Music-Alexa-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-04/amazon-is-building-alexa-plus-into-its-music-app-t/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Amazon"
       ],
       "people": []
     },
@@ -355,7 +514,7 @@
     },
     {
       "title": "Nové e-ink displeje by mohly dosáhnout hustoty přes 25 000 PPI",
-      "description": "Vědci z Uppsala University a University of Gothenburg navrhli nový typ antireflexní obrazovky s extrémní hustotou pixelů, která by mohla překonat současné e-ink displeje.",
+      "description": "Výzkumníci ze švédských univerzit navrhli nový typ antireflexní obrazovky s extrémní hustotou pixelů, která by mohla revolucionalizovat e-ink technologii.",
       "slug": "new-e-ink-displays-could-reach-retina-e-paper-stat",
       "publishedAt": "2025-11-04T11:16:00+00:00",
       "date": "2025-11-04 11:16:00",
@@ -372,6 +531,24 @@
         "Uppsala University",
         "University of Gothenburg"
       ],
+      "people": []
+    },
+    {
+      "title": "Ford plánuje prodávat výkonnostní balíček pro Maverick s výkonem 300 koní",
+      "description": "Ford představil na veletrhu SEMA upravený pick-up Maverick s balíčkem 300T a oznámil záměr nabídnout podobnou úpravu zákazníkům v roce 2026.",
+      "slug": "ford-plans-to-sell-this-300-hp-maverick-street-tru",
+      "publishedAt": "2025-11-04T11:00:00+00:00",
+      "date": "2025-11-04 11:00:00",
+      "importance": 3,
+      "category": "automobilový průmysl",
+      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2025/11/Ford-Maverick-300T-Hero-1.jpg?quality=85&w=1200",
+      "url": "/tech-news/2025-11-04/ford-plans-to-sell-this-300-hp-maverick-street-tru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Drive"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -614,8 +791,8 @@
       "people": []
     },
     {
-      "title": "Starší termostaty Nest lze oživit pomocí open-source projektu",
-      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil řešení, které jim vrací funkčnost prostřednictvím alternativní platformy.",
+      "title": "Starší termostaty Nest lze oživit pomocí komunitního projektu",
+      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které zařízení vrací k životu.",
       "slug": "google-pulled-the-plug-on-nest-thermostats-but-you",
       "publishedAt": "2025-11-03T22:07:00+00:00",
       "date": "2025-11-03 22:07:00",
@@ -653,7 +830,7 @@
     },
     {
       "title": "Apple může představit nové produkty v listopadu - historický přehled",
-      "description": "Analýza pravděpodobnosti listopadového představení nových produktů od Applu, včetně Apple TV 4K, HomePod mini 2 a AirTag 2, na základě historických dat.",
+      "description": "Analýza pravděpodobnosti listopadového představení nových produktů Apple TV, HomePod mini 2 a AirTag 2 na základě historických dat.",
       "slug": "apple-does-launch-new-products-in-november-heres-w",
       "publishedAt": "2025-11-03T20:39:00+00:00",
       "date": "2025-11-03 20:39:00",
@@ -672,8 +849,8 @@
       "people": []
     },
     {
-      "title": "AMD po kritice zachová plnou podporu ovladačů pro starší grafické karty Radeon",
-      "description": "AMD po vlně kritiky stáhlo oznámení o omezení podpory pro GPU s architekturami RDNA 1 a RDNA 2. Karty řady RX 5000 a 6000 budou nadále dostávat aktualizace pro nové hry.",
+      "title": "AMD po kritice vrací podporu ovladačů pro starší grafické karty Radeon",
+      "description": "AMD po vlně kritiky zrušilo plány na omezení podpory GPU s architekturami RDNA 1 a RDNA 2. Starší grafické karty budou nadále dostávat aktualizace a optimalizace.",
       "slug": "amd-says-that-its-not-pulling-driver-support-for-o",
       "publishedAt": "2025-11-03T20:21:36+00:00",
       "date": "2025-11-03 20:21:36",
@@ -3548,150 +3725,6 @@
       "people": []
     },
     {
-      "title": "Listen up! These top-selling Anker earbuds are 50% off before Black Friday - New York Post",
-      "description": "This deal is music to our ears!",
-      "slug": "listen-up-these-top-selling-anker-earbuds-are-50-o",
-      "publishedAt": "2025-10-30T21:25:00+00:00",
-      "date": "2025-10-30 21:25:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/game1.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2025-10-30/listen-up-these-top-selling-anker-earbuds-are-50-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "New court document reveals payment details between Jon Prosser and Michael Ramacciotti - 9to5Mac",
-      "description": "Following a couple of deadline extensions, Michael Ramacciotti’s lawyer sent in his answer to Apple’s complaint in the Jon Prosser case.",
-      "slug": "new-court-document-reveals-payment-details-between",
-      "publishedAt": "2025-10-30T20:44:00+00:00",
-      "date": "2025-10-30 20:44:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-30/new-court-document-reveals-payment-details-between/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
-      "description": "Cellebrite can apparently extract data from most Pixel phones, unless they’re running GrapheneOS.",
-      "slug": "leaker-reveals-which-pixels-are-vulnerable-to-cell",
-      "publishedAt": "2025-10-30T20:29:43+00:00",
-      "date": "2025-10-30 20:29:43",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
-      "url": "/tech-news/2025-10-30/leaker-reveals-which-pixels-are-vulnerable-to-cell/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "I Didn’t Expect to Like Nike’s Wildly Futuristic Robotic Shoes. Then I Tried Them - Gear Patrol",
-      "description": "Unlike a super shoe, Project Amplify isn't about making people quicker. But I'll be damned if it isn't fun to run fast.",
-      "slug": "i-didnt-expect-to-like-nikes-wildly-futuristic-rob",
-      "publishedAt": "2025-10-30T19:29:35+00:00",
-      "date": "2025-10-30 19:29:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/nike-project-amplify-gear-patrol-1_19e848.webp",
-      "url": "/tech-news/2025-10-30/i-didnt-expect-to-like-nikes-wildly-futuristic-rob/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gear Patrol"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "No More Game Optimizations for AMD Radeon RX 6000 and RX 5000, Still Part of Main Driver Branch - TechPowerUp",
-      "description": "In a rather shocking move, AMD has given the Radeon RX 6000 series and RX 5000 series GPUs a partial retirement by removing it from the regular monthly game optimization cycle. While the monthly driver updates will continue to support them, the game optimizat…",
-      "slug": "no-more-game-optimizations-for-amd-radeon-rx-6000-",
-      "publishedAt": "2025-10-30T19:02:28+00:00",
-      "date": "2025-10-30 19:02:28",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.techpowerup.com/img/LIDADUeU9LavJo9H.jpg",
-      "url": "/tech-news/2025-10-30/no-more-game-optimizations-for-amd-radeon-rx-6000-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "iOS 26 leak co-defendant says Jon Prosser paid him $650 - The Verge",
-      "description": "Michael Ramacciotti, who is being sued by Apple for allegedly stealing trade secrets, says Jon Prosser paid him $650 after he showed Prosser iOS 26 features.",
-      "slug": "ios-26-leak-co-defendant-says-jon-prosser-paid-him",
-      "publishedAt": "2025-10-30T18:58:22+00:00",
-      "date": "2025-10-30 18:58:22",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/videoframe_37296.png?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-      "url": "/tech-news/2025-10-30/ios-26-leak-co-defendant-says-jon-prosser-paid-him/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
-      "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's how it works.",
-      "slug": "openai-unveils-aardvark-a-gpt-5-powered-agent-for-",
-      "publishedAt": "2025-10-30T18:00:00+00:00",
-      "date": "2025-10-30 18:00:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/285b3135bc42402adf30867f110e2826c7d72cd5/2025/10/30/5b7f80f4-48e6-4662-9aa5-2845fda8dc18/aardvark-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-10-30/openai-unveils-aardvark-a-gpt-5-powered-agent-for-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Introducing Aardvark: OpenAI’s agentic security researcher - OpenAI",
-      "description": "Now in private beta: an AI agent that thinks like a security researcher and scales to meet the demands of modern software.",
-      "slug": "introducing-aardvark-openais-agentic-security-rese",
-      "publishedAt": "2025-10-30T17:55:05+00:00",
-      "date": "2025-10-30 17:55:05",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/2Ct6JXoKb3X1fU4EXhEb0Y/219805db3eb0f0eaa6cf4b41ff770097/Aardvark_SEO_Card_16x9.png?w=1600&h=900&fit=fill",
-      "url": "/tech-news/2025-10-30/introducing-aardvark-openais-agentic-security-rese/",
-      "source": {
-        "emoji": "🤖",
-        "id": null,
-        "name": "Openai.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "T-Mobile’s emergency payments system is going online-only - 9to5Google",
       "description": "Users who need to take advantage of T-Mobile’s payment arrangements in uncertain times will need to do it all in...",
       "slug": "t-mobiles-emergency-payments-system-is-going-onlin",
@@ -3777,24 +3810,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5google.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI adds reusable ‘characters’ and video stitching to Sora - The Verge",
-      "description": "OpenAI’s Sora app will now let you turn almost anything into a reusable avatar for its AI-generated videos.",
-      "slug": "openai-adds-reusable-characters-and-video-stitchin",
-      "publishedAt": "2025-10-30T12:20:45+00:00",
-      "date": "2025-10-30 12:20:45",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Sora-Character-Cameo.jpg?quality=90&strip=all&crop=0%2C8.2505867485106%2C100%2C83.498826502979&w=1200",
-      "url": "/tech-news/2025-10-30/openai-adds-reusable-characters-and-video-stitchin/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
       },
       "companies": [],
       "people": []

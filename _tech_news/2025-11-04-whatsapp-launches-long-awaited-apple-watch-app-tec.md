@@ -6,9 +6,8 @@ companies:
 - Apple
 - TechCrunch
 date: '2025-11-04 15:00:00'
-description: Meta konečně vydala nativní aplikaci WhatsApp pro Apple Watch, která
-  umožňuje číst zprávy, nahrávat hlasové zprávy a přijímat notifikace hovorů přímo
-  z chytrých hodinek.
+description: Meta konečně vydala nativní aplikaci WhatsApp pro Apple Watch s podporou
+  čtení zpráv, hlasových nahrávek a notifikací hovorů.
 importance: 3
 layout: tech_news_article
 original_title: WhatsApp launches long-awaited Apple Watch app - TechCrunch
@@ -26,31 +25,33 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/11/English_What
 
 ## Souhrn
 
-WhatsApp oznámil spuštění nativní aplikace pro Apple Watch, která poprvé umožňuje uživatelům číst celé zprávy, nahrávat a odesílat hlasové zprávy a přijímat notifikace hovorů přímo z chytrých hodinek. Aplikace vyžaduje Apple Watch Series 4 nebo novější s watchOS 10 a nabízí end-to-end šifrování stejně jako mobilní verze.
+WhatsApp oznámil spuštění nativní aplikace pro Apple Watch, která uživatelům poprvé umožňuje plnohodnotně pracovat se zprávami přímo z chytrých hodinek. Aplikace podporuje čtení celých zpráv, nahrávání a odesílání hlasových zpráv, notifikace hovorů a zobrazení mediálního obsahu.
 
 ## Klíčové body
 
-- Nativní aplikace WhatsApp pro Apple Watch po letech čekání konečně dostupná
-- Podpora čtení celých zpráv, nahrávání hlasových zpráv a notifikací hovorů
-- Vylepšené zobrazení historie konverzací a kvalitnější náhled obrázků a samolepek
-- Možnost reagovat na zprávy přímo z hodinek
-- Vyžaduje Apple Watch Series 4 nebo novější s watchOS 10
+- Nativní aplikace pro Apple Watch po letech čekání konečně dostupná
+- Podpora čtení zpráv, hlasových nahrávek, reakcí a historie konverzací
+- Vyžaduje Apple Watch Series 4 nebo novější s watchOS 10+
+- Zachování end-to-end šifrování i na hodinkách
+- Meta slibuje další funkce v budoucnu
 
 ## Podrobnosti
 
-Meta konečně vydala dlouho očekávanou aplikaci WhatsApp pro Apple Watch, která přináší podstatně rozšířenou funkcionalitu oproti dosavadním notifikacím. Uživatelé nyní mohou číst kompletní zprávy přímo na displeji hodinek bez nutnosti vytahovat iPhone z kapsy. Aplikace také umožňuje nahrávat a odesílat hlasové zprávy, což je jedna z nejžádanějších funkcí.
+Meta konečně vydala samostatnou aplikaci WhatsApp pro Apple Watch po letech, kdy uživatelé museli spoléhat pouze na základní notifikace. Nová aplikace představuje výrazný posun v použitelnosti messengeru na chytrých hodinkách.
 
-Mezi další novinky patří možnost reagovat na zprávy pomocí emoji, zobrazení delší historie konverzace na obrazovce a vylepšené zobrazení multimediálního obsahu včetně obrázků a samolepek. WhatsApp zdůrazňuje, že všechny zprávy a hovory zůstávají chráněny end-to-end šifrováním stejně jako v mobilní verzi.
+Uživatelé mohou přímo z hodinek číst celé zprávy včetně delší historie konverzace, což dříve nebylo možné. Aplikace umožňuje reagovat na zprávy pomocí emoji reakcí, nahrávat a odesílat hlasové zprávy a přijímat notifikace o příchozích hovorech. WhatsApp zdůrazňuje, že i na hodinkách zůstává zachováno end-to-end šifrování všech zpráv a hovorů.
 
-Aplikace je kompatibilní s Apple Watch Series 4 a novějšími modely, které běží na watchOS 10 nebo vyšší verzi. Společnost Meta slibuje, že v budoucnu přidá další funkce, aniž by specifikovala konkrétní plány.
+Vizuální stránka aplikace byla také vylepšena - obrázky a samolepky se zobrazují v lepší kvalitě než u běžných notifikací. Aplikace vyžaduje Apple Watch Series 4 nebo novější model s operačním systémem watchOS 10 nebo vyšší verzí.
 
-Spuštění aplikace pro Apple Watch nepřichází jako úplné překvapení - testování bylo zaznamenáno již minulý týden. Tato novinka zapadá do širší strategie WhatsApp rozšiřovat dostupnost své služby za hranice mobilních telefonů a počítačů. V květnu 2024 WhatsApp konečně uvedl dlouho očekávanou aplikaci pro iPad, která podporuje video a audio hovory až pro 32 účastníků, sdílení obrazovky a využití obou kamer. Před jejím spuštěním museli uživatelé iPadu používat webovou verzi v prohlížeči.
+Spuštění aplikace nepřichází zcela nečekaně, protože testování bylo zaznamenáno již minulý týden. Jde o další krok Meta v rozšiřování dostupnosti WhatsApp na různá zařízení - v květnu 2024 společnost spustila dlouho očekávanou aplikaci pro iPad s podporou videohovorů až pro 32 účastníků a sdílením obrazovky.
 
 ## Proč je to důležité
 
-Spuštění aplikace WhatsApp pro Apple Watch představuje významný krok v rozšiřování dostupnosti nejpoužívanější chatovací aplikace na světě. S více než dvěma miliardami aktivních uživatelů WhatsApp dlouhodobě zaostával za konkurencí v podpoře nositelné elektroniky - například Snapchat uvedl svou aplikaci pro Apple Watch již o několik měsíců dříve.
+Spuštění aplikace WhatsApp pro Apple Watch je významné zejména proto, že WhatsApp je jedním z nejpoužívanějších messengerů na světě s více než dvěma miliardami uživatelů. Absence plnohodnotné aplikace pro hodinky byla dlouhodobě kritizována, zejména když konkurenční služby jako Snapchat již své aplikace pro watchOS nabízejí.
 
-Pro uživatele to znamená pohodlnější způsob komunikace v situacích, kdy není praktické vytahovat telefon - při sportu, schůzkách nebo řízení. Absence nativní aplikace pro Apple Watch byla dlouhodobě kritizovaným nedostatkem služby, zejména když konkurenční aplikace jako iMessage nebo Messenger tuto funkcionalitu nabízely již roky. Rozšíření na další platformy také ukazuje, že Meta bere WhatsApp vážně jako klíčovou součást svého portfolia komunikačních služeb.
+Pro uživatele to znamená možnost rychle reagovat na zprávy bez nutnosti vytahovat telefon, což je užitečné při sportu, schůzkách nebo jiných situacích, kdy není telefon po ruce. Zachování end-to-end šifrování je důležité pro udržení bezpečnostních standardů, na které jsou uživatelé WhatsApp zvyklí.
+
+Meta tímto krokem dále posiluje ekosystém WhatsApp a snaží se udržet konkurenceschopnost vůči alternativním messengerům. Slibované další funkce naznačují, že aplikace bude průběžně vylepšována.
 
 ---
 
