@@ -1,7 +1,69 @@
 {
-  "generated": "2025-11-06T20:22:01.813057+00:00",
+  "generated": "2025-11-07T00:58:11.622326+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "MacBook Air s čipem M4 je před Black Friday levnější než kdy dřív",
+      "description": "Apple MacBook Air s čipem M4 nabízí výkonnou kombinaci výkonu a výdrže baterie. Amazon nyní nabízí slevu 250 dolarů na oba modely.",
+      "slug": "apples-slim-m4-macbook-air-is-cheaper-than-ever-ah",
+      "publishedAt": "2025-11-05T20:46:17+00:00",
+      "date": "2025-11-05 20:46:17",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/MacBook-Air-M4-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-05/apples-slim-m4-macbook-air-is-cheaper-than-ever-ah/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.2 vyjde v polovině prosince s novými funkcemi pro Podcasty a Připomínky",
+      "description": "Apple vydá iOS 26.2 pravděpodobně kolem 10.-15. prosince. Aktualizace přinese AI kapitoly v Podcastech, budíky v Připomínkách a další vylepšení.",
+      "slug": "ios-262-release-date-heres-when-new-iphone-feature",
+      "publishedAt": "2025-11-05T20:20:00+00:00",
+      "date": "2025-11-05 20:20:00",
+      "importance": 3,
+      "category": "mobilní systémy",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-05/ios-262-release-date-heres-when-new-iphone-feature/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple údajně plánuje použít vlastní verzi Google Gemini pro Apple Intelligence",
+      "description": "Podle zpráv Bloomberg má Apple uzavřít partnerství s Googlem na vlastní verzi modelu Gemini pro Siri, za což má platit přibližně miliardu dolarů ročně.",
+      "slug": "apple-is-planning-to-use-a-custom-version-of-googl",
+      "publishedAt": "2025-11-05T20:12:33+00:00",
+      "date": "2025-11-05 20:12:33",
+      "importance": 2,
+      "category": "ai asistenti",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-05/apple-is-planning-to-use-a-custom-version-of-googl/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Apple údajně jedná o platbě 1 miliardy dolarů ročně Googlu za AI model pro Siri",
       "description": "Podle nepotvrzených zdrojů plánuje Apple platit Google přibližně miliardu dolarů ročně za využití pokročilého AI modelu s 1,2 bilionu parametrů pro vylepšení hlasového asistenta Siri.",
@@ -28,8 +90,29 @@
       ]
     },
     {
+      "title": "Rodina telefonů Pixel 10 je na Amazonu zlevněná",
+      "description": "Amazon nabízí slevy na celou řadu telefonů Google Pixel 10, včetně základního modelu, verzí Pro a Pro XL i skládacího Pro Fold.",
+      "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
+      "publishedAt": "2025-11-05T19:06:00+00:00",
+      "date": "2025-11-05 19:06:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://media.wired.com/photos/690b9f2393120774bebe626f/191:100/w_1280,c_limit/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png",
+      "url": "/tech-news/2025-11-05/the-pixel-10-family-is-marked-down-on-amazon-wired/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Google",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
       "title": "Google vydal novou aplikaci Theme packs pro telefony Pixel",
-      "description": "Google zpřístupnil v obchodě Play Store novou aplikaci Theme packs, která umožňuje uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím.",
+      "description": "Google představil aplikaci Theme packs v obchodě Play Store, která umožňuje uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím pomocí tematických balíčků.",
       "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
       "publishedAt": "2025-11-05T18:31:00+00:00",
       "date": "2025-11-05 18:31:00",
@@ -48,8 +131,8 @@
       "people": []
     },
     {
-      "title": "AI Mode od Googlu přichází do Chrome pro Android a iOS, rozšiřuje autonomní rezervace",
-      "description": "Google rozšiřuje AI Mode do mobilních prohlížečů Chrome a přidává možnost rezervovat vstupenky na akce či termíny v salónech. Funkce se postupně zpřístupňuje ve 160 zemích.",
+      "title": "Google AI Mode přichází do Chrome pro Android a iOS, rozšiřuje autonomní rezervace",
+      "description": "Google rozšiřuje svůj AI Mode do mobilních prohlížečů Chrome a přidává možnost autonomního rezervování vstupenek a termínů u kosmetických služeb.",
       "slug": "google-ai-mode-comes-to-chrome-for-android-ios-exp",
       "publishedAt": "2025-11-05T17:15:00+00:00",
       "date": "2025-11-05 17:15:00",
@@ -68,8 +151,8 @@
       "people": []
     },
     {
-      "title": "Google chce postavit datová centra v kosmu pro AI výpočty",
-      "description": "Google oznámil projekt Suncatcher, který zkoumá možnost umístění satelitních konstelací s AI čipy do vesmíru. Podle inženýrů firmy již existují všechny potřebné technologie.",
+      "title": "Google chce vyřešit energetickou náročnost AI datovými centry na oběžné dráze",
+      "description": "Google představil Project Suncatcher, iniciativu zkoumající možnost umístění datových center s AI čipy do vesmíru. Podle inženýrů společnosti mají již všechny potřebné technologie.",
       "slug": "if-you-want-to-satiate-ais-hunger-for-power-google",
       "publishedAt": "2025-11-05T16:36:12+00:00",
       "date": "2025-11-05 16:36:12",
@@ -88,7 +171,7 @@
       "people": []
     },
     {
-      "title": "Nové levnější APU od AMD by mohly nahradit low-end grafické karty",
+      "title": "Nové levnější APU od AMD mohou ohrozit low-end grafické karty",
       "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové kategorii.",
       "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
       "publishedAt": "2025-11-05T16:16:16+00:00",
@@ -108,8 +191,8 @@
       "people": []
     },
     {
-      "title": "Jak vyčistit Windows 11 25H2 od reklam a umělé inteligence",
-      "description": "Ars Technica publikovala aktualizovaný průvodce pro odstranění nežádoucích funkcí, reklam a AI nástrojů z nejnovější verze Windows 11.",
+      "title": "Jak vyčistit Windows 11 25H2 od reklam a AI funkcí",
+      "description": "Ars Technica publikoval aktualizovaný průvodce pro odstranění nežádoucích funkcí, reklam a vynucených služeb Microsoftu z nové verze Windows 11 25H2.",
       "slug": "how-to-declutter-quiet-down-and-take-the-ai-out-of",
       "publishedAt": "2025-11-05T15:42:57+00:00",
       "date": "2025-11-05 15:42:57",
@@ -128,8 +211,8 @@
       "people": []
     },
     {
-      "title": "Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu a půjde do prodeje",
-      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového Mustangu.",
+      "title": "Ford Maverick 300T s turbem z Mustangu dosáhne 300 koní a půjde do prodeje",
+      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje příští rok nabídnout zákazníkům jako tuningový balíček.",
       "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
       "publishedAt": "2025-11-05T15:01:08+00:00",
       "date": "2025-11-05 15:01:08",
@@ -164,8 +247,8 @@
       "people": []
     },
     {
-      "title": "Stream Ring: Chytrý prsten pro nahrávání myšlenek šeptem",
-      "description": "Startup Sandbar představil AI chytrý prsten Stream Ring, který umožňuje nahrávat tiše vyslovené myšlenky pomocí mikrofonu. Zařízení přepisuje řeč do textu bez ukládání zvuku.",
+      "title": "Chytrý prsten Stream Ring zachytává pošeptané myšlenky pomocí AI",
+      "description": "Startup Sandbar představil chytrý prsten Stream Ring s mikrofonem, který zaznamenává tiše vyslovené myšlenky a převádí je na text pomocí AI. Firma získala 13 milionů dolarů financování.",
       "slug": "whisper-into-this-ai-powered-smart-ring-to-organiz",
       "publishedAt": "2025-11-05T11:00:00+00:00",
       "date": "2025-11-05 11:00:00",
@@ -3593,24 +3676,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk on data centers in orbit: “SpaceX will be doing this” - Ars Technica",
-      "description": "“We could see another transformation of what’s done in space.”…",
-      "slug": "elon-musk-on-data-centers-in-orbit-spacex-will-be-",
-      "publishedAt": "2025-10-31T16:40:56+00:00",
-      "date": "2025-10-31 16:40:56",
-      "importance": 2,
-      "category": "tech",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-comparison-1152x648.jpg",
-      "url": "/tech-news/2025-10-31/elon-musk-on-data-centers-in-orbit-spacex-will-be-/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack - The Hacker News",
       "description": "New Airstalk malware hijacks AirWatch APIs in stealth supply chain attack, targeting enterprise browsers.",
       "slug": "nation-state-hackers-deploy-new-airstalk-malware-i",
@@ -3624,24 +3689,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager - Ars Technica",
-      "description": "Bug affects Windows 11 24H2 and 25H2 users using the October update preview.",
-      "slug": "closing-windows-11s-task-manager-accidentally-open",
-      "publishedAt": "2025-10-31T16:06:33+00:00",
-      "date": "2025-10-31 16:06:33",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/taskmgr-1080x648.jpg",
-      "url": "/tech-news/2025-10-31/closing-windows-11s-task-manager-accidentally-open/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
       },
       "companies": [],
       "people": []
@@ -3827,24 +3874,6 @@
       "people": []
     },
     {
-      "title": "Daily Crossword: The Conspiracy Puzzle — October 31 - Vulture",
-      "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 28-Across, Three Letters: He played Robert in ‘The Da Vinci Code’",
-      "slug": "daily-crossword-the-conspiracy-puzzle-october-31-v",
-      "publishedAt": "2025-10-31T09:00:57+00:00",
-      "date": "2025-10-31 09:00:57",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/ff9/949/57ae88126560a3134101eb4d1be34c9ead-Crossword-10x10-feed-10-31-2025.1x.rsocial.w1200.jpg",
-      "url": "/tech-news/2025-10-31/daily-crossword-the-conspiracy-puzzle-october-31-v/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Vulture"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "This leaked OnePlus flagship looks like a better bet than the OnePlus 15 - Android Authority",
       "description": "OnePlus' next compact flagship has leaked, and it does not appear to repeat the same mistakes as the OnePlus 15.",
       "slug": "this-leaked-oneplus-flagship-looks-like-a-better-b",
@@ -3858,24 +3887,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google drops a surprise late-October 2025 update for Pixels - Android Police",
-      "description": "And it's all about performance improvements",
-      "slug": "google-drops-a-surprise-late-october-2025-update-f",
-      "publishedAt": "2025-10-31T03:41:00+00:00",
-      "date": "2025-10-31 03:41:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-xl-camera-visor-1.JPG?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-10-31/google-drops-a-surprise-late-october-2025-update-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
       },
       "companies": [],
       "people": []

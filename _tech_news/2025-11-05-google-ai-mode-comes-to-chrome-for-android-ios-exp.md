@@ -4,9 +4,8 @@ category: ai vyhledávání
 companies:
 - Google
 date: '2025-11-05 17:15:00'
-description: Google rozšiřuje AI Mode do mobilních prohlížečů Chrome a přidává možnost
-  rezervovat vstupenky na akce či termíny v salónech. Funkce se postupně zpřístupňuje
-  ve 160 zemích.
+description: Google rozšiřuje svůj AI Mode do mobilních prohlížečů Chrome a přidává
+  možnost autonomního rezervování vstupenek a termínů u kosmetických služeb.
 importance: 3
 layout: tech_news_article
 original_title: Google AI Mode comes to Chrome for Android & iOS, expands agentic
@@ -17,8 +16,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: AI Mode od Googlu přichází do Chrome pro Android a iOS, rozšiřuje autonomní
-  rezervace
+title: Google AI Mode přichází do Chrome pro Android a iOS, rozšiřuje autonomní rezervace
 url: http://9to5google.com/2025/11/05/ai-mode-chrome-agentic-expansion/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-AI-Mode-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-AI-Mode-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -26,29 +24,33 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google rozšiřuje svůj AI Mode, alternativní vyhledávací rozhraní založené na umělé inteligenci, do mobilních verzí prohlížeče Chrome pro Android a iOS. Zároveň přidává nové autonomní funkce pro rezervaci vstupenek na akce a termínů v salónech krásy a wellness centrech, které doplňují dříve oznámenou možnost rezervace stolů v restauracích.
+Google zpřístupňuje AI Mode, speciální režim vyhledávání s umělou inteligencí, v mobilních verzích prohlížeče Chrome pro Android a iOS. Zároveň rozšiřuje schopnosti autonomního jednání (agentic capabilities) o rezervace vstupenek na akce a objednávání termínů u kosmetických a wellness služeb.
 
 ## Klíčové body
 
-- AI Mode je nyní dostupný v Chrome pro Android a iOS prostřednictvím tlačítka na úvodní stránce
-- Rozšíření do 160 nových zemí a jazyků včetně hindštiny, indonéštiny, japonštiny, korejštiny a portugalštiny
-- Nové autonomní funkce umožňují rezervovat vstupenky na akce a termíny v salónech
-- Autonomní rezervace jsou nyní dostupné všem uživatelům s aktivovaným experimentem v Labs, nejen předplatitelům
-- Využívá technologii Project Mariner pro procházení webu v reálném čase
+- AI Mode se objevuje jako tlačítko přímo na úvodní stránce Chrome pro Android a iOS ve formě pilulky pod vyhledávacím polem
+- Dostupnost se rozšiřuje do 160 nových zemí a jazyků včetně hindštiny, indonéštiny, japonštiny, korejštiny a portugalštiny
+- Autonomní rezervace nyní pokrývají restaurace, vstupenky na akce a termíny u kosmetických služeb
+- Funkce je dostupná všem uživatelům, kteří aktivují experimentální režim "Agentic capabilities in AI Mode" v Labs
+- Předplatitelé AI Pro a Ultra mají vyšší limity využití
 
 ## Podrobnosti
 
-AI Mode představuje alternativní způsob vyhledávání, který místo tradičního seznamu odkazů nabízí konverzační rozhraní s umělou inteligencí. V mobilních prohlížečích Chrome se nyní zobrazuje jako tlačítko ve tvaru pilulky přímo pod vyhledávacím polem na úvodní stránce. Uživatelé se k němu dostanou také přes adresu google.com/aimode. Tlačítko je umístěno vedle další nové zkratky pro režim Incognito, obě jsou doplněny ikonami pro snadnější rozpoznání.
+AI Mode představuje alternativní rozhraní pro vyhledávání Google, které využívá pokročilé jazykové modely pro komplexnější dotazy. Po spuštění na desktopu dříve v letošním roce a nedávném přidání zkratky do adresního řádku (Omnibox) se nyní tato funkce dostává i do mobilních verzí prohlížeče Chrome.
 
-Nejvýznamnější novinkou je rozšíření autonomních schopností AI Mode. Systém nyní dokáže nejen vyhledávat informace, ale také aktivně provádět rezervace jménem uživatele. V srpnu Google představil možnost rezervovat stoly v restauracích - uživatel zadá počet osob, datum, čas, lokalitu a preferovaný typ kuchyně a AI Mode pomocí technologie Project Mariner prohledá web a najde vhodné možnosti.
+V mobilním prostředí se AI Mode zobrazuje jako výrazné tlačítko ve tvaru pilulky přímo pod vyhledávacím polem na úvodní stránce nové karty. Vedle něj se nachází podobné tlačítko pro režim Incognito, obě jsou doplněna ikonami pro snadnější rozpoznání.
 
-Od listopadu se přidávají dvě nové kategorie: rezervace vstupenek na kulturní a sportovní akce a objednávání termínů v salónech krásy a wellness centrech. Původně byly tyto pokročilé funkce dostupné pouze předplatitelům Google AI Ultra. Nyní je může využít kdokoli, kdo si v sekci Labs aktivuje experiment "Agentic capabilities in AI Mode", přičemž předplatitelé AI Pro a Ultra mají vyšší limity použití.
+Významným rozšířením je posílení autonomních schopností AI Mode. Systém nyní dokáže nejen vyhledávat informace, ale aktivně jednat jménem uživatele. V srpnu Google představil možnost rezervovat stoly v restauracích - uživatel specifikuje počet osob, datum, čas, lokalitu a preferovanou kuchyni a AI Mode pomocí technologie Project Mariner, která umožňuje živé procházení webových stránek, najde vhodné možnosti a provede rezervaci.
+
+Nově se přidávají dvě další kategorie: rezervace vstupenek na kulturní a sportovní akce a objednávání termínů u kosmetických salonů a wellness center. Tato funkce byla původně vyhrazena pouze pro předplatitele Google AI Ultra, ale nyní je dostupná všem uživatelům, kteří si aktivují experimentální funkci v sekci Labs. Předplatitelé placených verzí AI Pro a Ultra však získávají vyšší limity pro počet rezervací.
 
 ## Proč je to důležité
 
-Rozšíření AI Mode do mobilních prohlížečů a přidání autonomních funkcí ukazuje Googleovu strategii postupné integrace generativní AI přímo do základních produktů. Jde o přímou konkurenci ChatGPT a dalším konverzačním AI asistentům, přičemž Google využívá svou dominantní pozici ve vyhledávání a prohlížečích.
+Rozšíření AI Mode do mobilních prohlížečů a přidání autonomních schopností ukazuje směr, kterým se Google vydává v konkurenci s jinými AI asistenty. Zatímco ChatGPT a další chatboti se zaměřují především na konverzaci a generování obsahu, Google integruje AI přímo do vyhledávání a přidává praktické funkce pro každodenní úkoly.
 
-Autonomní rezervační funkce představují posun od pasivního poskytování informací k aktivnímu vykonávání úkolů. To odpovídá širšímu trendu v oboru směrem k "agentickým" AI systémům, které nejen odpovídají na dotazy, ale také jednají jménem uživatele. Zpřístupnění těchto funkcí širší uživatelské základně mimo předplatitele naznačuje, že Google testuje škálovatelnost a spolehlivost těchto systémů před jejich plným nasazením.
+Autonomní rezervace představují konkrétní užitečnou funkci, která může ušetřit čas při běžných činnostech. Jde o krok směrem k AI agentům, kteří nejen odpovídají na dotazy, ale aktivně vykonávají úkoly. Rozšíření do 160 zemí a podpora dalších jazyků naznačuje, že Google vnímá tuto funkci jako strategicky důležitou pro budoucnost vyhledávání.
+
+Zároveň je zajímavé, že Google zpřístupňuje tyto pokročilé funkce i bezplatným uživatelům, byť s omezeními. To může být taktika pro rychlejší získání zpětné vazby a dat pro další vylepšování systému.
 
 ---
 

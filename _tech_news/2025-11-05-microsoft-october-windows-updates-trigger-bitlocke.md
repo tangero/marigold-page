@@ -24,31 +24,31 @@ urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2024/12/16/Windo
 
 ## Souhrn
 
-Microsoft potvrdil, že říjnové bezpečnostní aktualizace Windows z roku 2025 způsobují na některých počítačích nečekaný přechod do režimu BitLocker recovery při restartu systému. Problém se týká především zařízení s procesory Intel podporujícími technologii Modern Standby, která umožňuje udržovat síťové připojení i v režimu nízké spotřeby.
+Microsoft potvrdil, že říjnové bezpečnostní aktualizace Windows z roku 2025 způsobují na některých počítačích nečekaný přechod do režimu BitLocker recovery. Problém se týká především zařízení s procesory Intel podporujícími technologii Modern Standby, přičemž uživatelé musí po instalaci aktualizací jednorázově zadat obnovovací klíč.
 
 ## Klíčové body
 
-- Aktualizace vydané 14. října 2025 a později způsobují spuštění BitLocker recovery obrazovky při restartu
-- Postižena jsou zařízení s procesory Intel podporujícími Modern Standby (dříve Connected Standby)
-- Problém se týká Windows 11 24H2 a 25H2 i Windows 10 22H2
-- Uživatelé musí jednorázově zadat obnovovací klíč BitLocker, poté systém funguje normálně
-- Microsoft nabízí řešení prostřednictvím Known Issue Rollback (KIR) pro firemní zákazníky
+- Aktualizace vydané 14. října 2025 a později způsobují problémy při restartu systému
+- Postižena jsou především zařízení Intel s podporou Modern Standby (dříve Connected Standby)
+- Problém se týká Windows 11 24H2 a 25H2 a Windows 10 22H2
+- Po jednorázovém zadání obnovovacího klíče systém funguje normálně
+- Microsoft nabízí řešení prostřednictvím Known Issue Rollback (KIR) pro IT administrátory
 
 ## Podrobnosti
 
-BitLocker je bezpečnostní funkce Windows, která šifruje úložné disky a chrání data před kráží. Systém Windows obvykle přechází do režimu BitLocker recovery po hardwarových změnách nebo aktualizacích Trusted Platform Module (TPM), aby znovu získal přístup k chráněným diskům.
+BitLocker je bezpečnostní funkce Windows, která šifruje úložné disky a chrání data před krádeží. Systém Windows obvykle přechází do režimu BitLocker recovery po hardwarových změnách nebo aktualizacích Trusted Platform Module (TPM), aby uživatel mohl znovu získat přístup k chráněným diskům.
 
-Podle servisního upozornění, které získal server BleepingComputer, Microsoft uvedl, že chyba primárně postihuje zařízení Intel s podporou Modern Standby. Tato technologie umožňuje počítači zůstat připojený k síti i v režimu nízké spotřeby energie, podobně jako u mobilních zařízení.
+Podle servisního upozornění, které získal server BleepingComputer, se chyba projevuje především na zařízeních Intel s podporou technologie Modern Standby. Tato funkce umožňuje počítači zůstat připojený k síti i v režimu nízké spotřeby energie, podobně jako u mobilních zařízení.
 
-Po instalaci aktualizací vydaných 14. října 2025 nebo později se některá zařízení při restartu nebo spuštění setkávají s problémy. Postižené počítače se spustí do obrazovky BitLocker recovery, která vyžaduje zadání obnovovacího klíče. Po jeho zadání a restartu zařízení funguje normálně bez dalších výzev BitLocker.
+Microsoft uvádí, že po instalaci aktualizací vydaných 14. října 2025 nebo později mohou některá zařízení narazit na problémy během restartu nebo spouštění systému. Postižené počítače se spustí do obrazovky BitLocker recovery, kde uživatel musí zadat obnovovací klíč. Po zadání klíče a restartu zařízení již systém funguje normálně bez dalších výzev k zadání BitLocker klíče.
 
-Pro firemní prostředí Microsoft nabízí zmírnění problému pomocí skupinové politiky distribuované přes Known Issue Rollback (KIR). Postižení zákazníci však musí kontaktovat podporu Microsoft Support for Business pro získání podrobností.
+IT administrátoři mohou problém zmírnit pomocí skupinové politiky distribuované prostřednictvím mechanismu Known Issue Rollback. Pro získání podrobností je však nutné kontaktovat podporu Microsoft Support for business.
 
 ## Proč je to důležité
 
-Tento incident není ojedinělý. Microsoft musel řešit podobný problém již v květnu 2025, kdy bezpečnostní aktualizace Windows 10 spouštěly BitLocker recovery po masivních hlášeních uživatelů. V srpnu 2024 se společnost potýkala s další známou chybou způsobující výzvy BitLocker recovery na Windows 10, 11 i Windows Server po instalaci červencových bezpečnostních aktualizací.
+Jde o opakující se problém, který Microsoft řeší již několikrát ročně. Společnost vydala nouzové aktualizace v květnu 2025 k řešení podobného problému s květnovými aktualizacemi Windows 10. V srpnu 2024 musel Microsoft řešit další známý problém způsobující výzvy BitLocker recovery po instalaci červencových bezpečnostních aktualizací.
 
-Opakující se problémy s BitLocker po bezpečnostních aktualizacích ukazují na systémový problém v testovacích procesech Microsoftu. Pro běžné uživatele to znamená potenciální komplikace při přístupu k počítači, zejména pokud nemají obnovovací klíč BitLocker snadno dostupný. Firemní prostředí jsou na tom lépe díky centralizované správě klíčů, ale i tak to představuje administrativní zátěž a možné výpadky produktivity.
+Pro běžné uživatele to znamená potenciální komplikace při přístupu k počítači, zejména pokud nemají obnovovací klíč BitLocker snadno dostupný. Klíč je obvykle uložen v účtu Microsoft nebo vytištěn při první aktivaci šifrování. Opakování tohoto problému naznačuje systémové potíže s testováním aktualizací před jejich vydáním, což může vést k prostojům v podnikových prostředích a frustraci koncových uživatelů.
 
 ---
 

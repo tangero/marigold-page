@@ -4,8 +4,8 @@ category: operační systémy
 companies:
 - Microsoft
 date: '2025-11-05 15:42:57'
-description: Ars Technica publikovala aktualizovaný průvodce pro odstranění nežádoucích
-  funkcí, reklam a AI nástrojů z nejnovější verze Windows 11.
+description: Ars Technica publikoval aktualizovaný průvodce pro odstranění nežádoucích
+  funkcí, reklam a vynucených služeb Microsoftu z nové verze Windows 11 25H2.
 importance: 3
 layout: tech_news_article
 original_title: How to declutter, quiet down, and take the AI out of Windows 11 25H2
@@ -16,7 +16,7 @@ source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: Jak vyčistit Windows 11 25H2 od reklam a umělé inteligence
+title: Jak vyčistit Windows 11 25H2 od reklam a AI funkcí
 url: https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-1152x648.jpg
 urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-1152x648.jpg
@@ -24,31 +24,29 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows
 
 ## Souhrn
 
-Ars Technica vydala aktualizovanou verzi svého průvodce pro vyčištění Windows 11, tentokrát zaměřenou na verzi 25H2 (build 26200.7019). Článek nabízí desítky konkrétních kroků, jak odstranit reklamy, omezit AI funkce a zbavit se vynuceného používání produktů Microsoftu, přičemž se drží pouze oficiálně podporovaných metod.
+Ars Technica vydal aktualizovaný průvodce pro čištění operačního systému Windows 11 verze 25H2, který pomáhá uživatelům zbavit se reklam, AI funkcí a vynucených služeb Microsoftu. Článek reaguje na postupné zavádění této aktualizace a rostoucí množství uživatelsky nepřátelských prvků v systému.
 
 ## Klíčové body
 
-- Windows 11 25H2 je relativně menší aktualizace oproti loňské verzi 24H2, která přinesla zásadní změny jádra systému
-- Průvodce se zaměřuje na oficiálně podporované metody čištění, nikoli na experimentální hacky jako projekt Tiny11
-- Microsoft pokračuje v agresivní strategii vkládání reklam a vynucování používání vlastních služeb
+- Windows 11 25H2 je menší aktualizace než loňská verze 24H2, primárně slouží k udržení harmonogramu bezpečnostních aktualizací
+- Průvodce se zaměřuje pouze na oficiálně podporované způsoby vypínání funkcí, ne na experimentální úpravy
+- Microsoft v průběhu roku přidává do Windows 11 další reklamy a vynucené služby i mezi velkými aktualizacemi
 - Aktualizace je relevantní zejména pro uživatele přecházející z Windows 10, kde Microsoft ukončuje podporu
-- Číslování verzí reflektuje rok vydání (25) a pololetí (H2), přestože Microsoft již nevydává dvě velké aktualizace ročně
+- Průvodce obsahuje desítky kroků pro vyčištění čisté instalace systému
 
 ## Podrobnosti
 
-Windows 11 verze 25H2 představuje pokračování kontinuálního modelu aktualizací Microsoftu. Na rozdíl od verze 24H2, která přinesla významné změny v jádru operačního systému a výrazná vylepšení výkonu pro ARM procesory, je 25H2 v podstatě stejná verze s přeznačeným číslem kvůli harmonogramu bezpečnostních aktualizací a technické podpory.
+Verze Windows 11 25H2 představuje relativně drobnou aktualizaci oproti loňské verzi 24H2. Označení "25" odkazuje na rok vydání, zatímco "H2" znamená druhou polovinu roku - pozůstatek z dob, kdy Microsoft vydával dvě velké aktualizace ročně. Verze 24H2 přinesla významné změny v jádru systému a výrazná vylepšení výkonu pro ARM verzi, zatímco 25H2 je v podstatě stejný systém s novým číslem verze.
 
-Průvodce od Ars Technica reaguje na rostoucí frustraci uživatelů s přístupem Microsoftu k Windows 11. Systém obsahuje stále více reklam, vynucuje používání služeb jako Microsoft Edge nebo OneDrive a integruje AI funkce, které ne všichni uživatelé chtějí. Autoři se vědomě vyhýbají experimentálním řešením jako je Tiny11 od NTDev, která odstraňují vestavěné komponenty systému a mohou způsobit neočekávané problémy.
+Průvodce od Ars Technica byl aktualizován pro build 26200.7019 a zaměřuje se na problémy, které Microsoft do Windows 11 průběžně přidává. Systém obsahuje stále více reklam, vynucuje používání služeb Microsoftu a zahrnuje AI funkce, které ne všichni uživatelé chtějí. Důležité je, že průvodce se drží pouze oficiálně podporovaných metod - nepoužívá experimentální skripty ani hacky, které by mohly způsobit nestabilitu systému.
 
-Průvodce je zaměřen na metody, které Microsoft oficiálně podporuje - vypínání funkcí přes nastavení, odinstalace aplikací a úpravy, které nenarušují stabilitu systému. Jde o praktický kompromis mezi čistým systémem a zachováním funkčnosti.
-
-Aktualizace je zvláště relevantní pro uživatele Windows 10, kteří čelí ukončení podpory a zvažují přechod na novější verzi. Ti se poprvé setkávají s výrazně odlišným přístupem Microsoftu k uživatelskému rozhraní a integraci služeb.
+Autor zmiňuje existenci projektů jako Tiny11 od NTDev, které jdou ještě dál a automatizují některé kroky, ale varuje, že odstraňování vestavěných komponent Windows může vést k neočekávaným problémům. Průvodce je tedy kompromisem mezi čistým systémem a stabilitou.
 
 ## Proč je to důležité
 
-Článek odráží širší trend v softwarovém průmyslu, kde výrobci operačních systémů stále agresivněji monetizují své produkty prostřednictvím reklam a vynuceného používání vlastních služeb. Windows 11 se stal symbolem tohoto přístupu, kdy i placený operační systém obsahuje reklamní prvky a tlačí uživatele k produktům Microsoftu.
+Článek odráží rostoucí frustraci uživatelů s přístupem Microsoftu k Windows 11. Zatímco dříve byl operační systém relativně neutrální platformou, Microsoft ho stále více využívá jako nástroj pro propagaci vlastních služeb a generování příjmů z reklamy. To je obzvláště problematické u placeného produktu, kde uživatelé očekávají čistý zážitek bez reklam.
 
-Pro běžné uživatele i IT profesionály je důležité mít k dispozici ověřené postupy, jak si systém přizpůsobit bez rizika nestability. Existence takových průvodců zároveň vytváří tlak na Microsoft, aby přehodnotil své strategie a dal uživatelům větší kontrolu nad jejich vlastními počítači.
+S blížícím se koncem podpory Windows 10 v roce 2025 bude mnoho uživatelů nuceno přejít na Windows 11, což činí tento průvodce aktuálním pro širší publikum. Existence takových průvodců také dokumentuje, jak daleko se Microsoft posunul od uživatelsky přátelského přístupu k agresivnější monetizaci operačního systému.
 
 ---
 
