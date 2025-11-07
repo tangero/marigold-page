@@ -1,15 +1,13 @@
 ---
 author: Marisa Aigen
-category: streamovací služby
+category: online služby
 companies:
 - Disney
 - Google
-- Movies Anywhere
-- Apple
 date: '2025-11-05 19:58:00'
-description: Probíhající spor mezi Disney a Google zasahuje i službu Movies Anywhere.
-  Google Play a YouTube přestávají synchronizovat digitální filmové nákupy, což narušuje
-  dosud fungující propojení knihoven napříč platformami.
+description: Pokračující spor mezi Disney a Google se nově dotýká služby Movies Anywhere,
+  která přestává synchronizovat digitální filmové nákupy s Google Play a YouTube,
+  což narušuje dosavadní interoperabilitu filmových knihoven uživatelů napříč platformami.
 importance: 3
 layout: tech_news_article
 original_title: Disney-YouTube TV feud extends to Movies Anywhere, as Google no longer
@@ -20,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: 'Spor Disney a Google dopadá na Movies Anywhere: Google Play a YouTube končí
+title: 'Spor Disney a Google zasahuje Movies Anywhere: Google Play a YouTube končí
   se synchronizací digitálních filmů'
 url: http://9to5google.com/2025/11/05/disney-youtube-tv-feud-extends-to-movies-anywhere-google-no-longer-syncs/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/movies-anywhere-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -28,26 +26,36 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 ---
 
 ## Souhrn
-Spor mezi Disney a Google, který vedl k odpojení disneyovských kanálů z YouTube TV, má další přímý dopad na digitální distribuci filmů. Služby Google Play a YouTube již nejsou zapojeny do platformy Movies Anywhere, což omezuje možnost automatické synchronizace digitálních nákupů napříč ekosystémy.
+Spor mezi Disney a Google, který odpojil kanály Disney (včetně ABC a ESPN) od YouTube TV, má další přímý dopad na digitální distribuci filmů. Služba Movies Anywhere nově ukončila účast Google Play a YouTube, takže nové digitální nákupy se již mezi těmito platformami a Movies Anywhere nesynchronizují. Existující knihovny zatím zůstávají dostupné, ale vzniká nejistota ohledně dlouhodobé dostupnosti a přenositelnosti zakoupeného obsahu.
 
 ## Klíčové body
-- Google Play a YouTube přestaly participovat na Movies Anywhere, platformě pro sjednocení digitálních filmových knihoven.
-- Movies Anywhere je vlastněna Disney a propojuje nákupy filmů z více obchodů (Amazon, Apple, atd.) do jedné knihovny.
-- Oznámení o ukončení podpory se časově kryje s odchodem Disney kanálů z YouTube TV kvůli licenčnímu sporu.
-- Stávající již synchronizované filmy zůstávají v Google knihovně, nové nákupy se však již nesynchronizují.
-- Změna zvyšuje roztříštěnost digitálních filmových knihoven a ukazuje rizika závislosti na uzavřených platformách.
+- Google Play a YouTube byly odstraněny jako propojené služby v Movies Anywhere.
+- Změna časově odpovídá vypnutí Disney kanálů na YouTube TV kvůli smluvnímu sporu.
+- Stávající již synchronizované filmy u uživatelů zůstávají, ale nové nákupy se nepřenášejí.
+- Movies Anywhere je vlastněno Disney a slouží k sjednocení digitálních filmových knihoven napříč platformami.
+- Situace ukazuje, jak licenční a distribuční konflikty přímo narušují interoperabilitu digitálního obsahu.
 
 ## Podrobnosti
-Movies Anywhere je americká služba, která umožňuje uživatelům spojit digitální filmové nákupy z různých prodejců (typicky Amazon Prime Video, Apple TV, Vudu a další) do jedné sjednocené knihovny. Uživatel si tak mohl koupit film na jedné platformě a přehrát ho na jiné, aniž by musel nakupovat opakovaně. Klíčovou hodnotou byla interoperabilita napříč ekosystémy, které si jinak konkurují.
+Movies Anywhere je americká služba vlastněná společností Disney, která umožňuje uživatelům propojit účty z různých platforem (například Amazon Prime Video, Apple TV, Vudu a další) a sjednotit digitálně zakoupené filmy do jedné knihovny. Uživatel tak běžně nakoupí film na jedné platformě a přehrát ho může i na jiných, pokud jsou do Movies Anywhere zapojené. Technicky jde o licenční a účtové propojení, nikoliv o fyzický přesun souborů.
 
-Podle stručného oznámení na webu Movies Anywhere Google Play a YouTube již nejsou mezi podporovanými partnery. Rozhodnutí časově odpovídá eskalaci sporu mezi Disney a Google, kdy Disney na konci října stáhl své kanály (ABC, ESPN a další) z YouTube TV kvůli nesouladu v podmínkách distribuce a licenčních poplatků. Movies Anywhere je vlastněna Disney, a krok tak pravděpodobně není technická náhoda, ale vyjednávací páka.
+Krátké oznámení na webu Movies Anywhere potvrzuje, že Google Play a YouTube již nejsou účastníky programu. Datum 31. října přesně koreluje s eskalací sporu mezi Disney a Google, kdy Disney odpojil své stanice (například ABC, ESPN a další kanály) z YouTube TV kvůli neuzavřené distribuční smlouvě. Současně byly zaznamenány některé chybějící tituly v katalozích Google Play, YouTube a Google TV, což naznačuje širší licenční napětí.
 
-Pro uživatele to má několik konkrétních důsledků. Pokud již měli účty Movies Anywhere a Google propojené, jejich stávající knihovna zůstává v Google Play / YouTube dostupná, alespoň prozatím. Nové nákupy se však přestávají obousměrně synchronizovat, takže uživatelé přicházejí o pohodlí centrální správy kolekce. To prakticky znamená návrat k fragmentaci: film koupený přes Movies Anywhere už se automaticky neobjeví v Google ekosystému a naopak. Z hlediska uživatelské zkušenosti jde o krok zpět, zejména pro ty, kteří investovali do rozsáhlých digitálních knihoven s očekáváním dlouhodobé přenositelnosti.
+Pro uživatele to znamená, že:
+- pokud měli v minulosti propojený účet Movies Anywhere s Google Play/YouTube, jejich stávající kolekce se aktuálně neztrácí,
+- nové nákupy filmů přes Google Play nebo YouTube se již do Movies Anywhere nepřenesou a naopak,
+- ekosystém digitálních práv (DRM) se dále fragmentuje a spolehlivost dlouhodobého vlastnictví digitálního obsahu se zhoršuje.
+
+Pro průmysl jde o signál, že interoperability služeb není technický problém, ale primárně nástroj vyjednávací síly mezi velkými studii a provozovateli platforem. Disney využívá kontrolu nad Movies Anywhere jako další páku ve sporu o distribuční podmínky.
 
 ## Proč je to důležité
-Tento krok ukazuje, jak snadno se interoperabilita a uživatelská práva u digitálního obsahu stávají kolaterální škodou obchodních sporů mezi velkými hráči. Uživatelé zde formálně „vlastní“ digitální filmy, ale prakticky závisí na licenčních dohodách platforem, které mohou být kdykoli změněny.
+Tento konflikt znovu ukazuje slabinu modelu „digitálního vlastnictví“ obsahu: uživatel ve skutečnosti nevlastní film, ale licenci vázanou na konkrétní platformu a smluvní vztahy, které se mohou kdykoli změnit. Když Disney jako vlastník Movies Anywhere a významný držitel práv začne strategicky omezovat integraci s Google, uživatelé okamžitě nesou dopady obchodního sporu, nad kterým nemají žádnou kontrolu.
 
-Pro streamovací a distribuční trh je to varovný signál. Ztráta podpory Google omezuje atraktivitu Movies Anywhere jako neutrálního propojujícího bodu a zároveň ukazuje rostoucí napětí mezi velkými mediálními domy a technologickými firmami o kontrolu nad distribucí a daty o uživatelích. Z pohledu strategického vývoje lze očekávat další uzavírání ekosystémů, vyšší tlak na exkluzivitu a větší nejistotu ohledně dlouhodobé dostupnosti digitálních nákupů. Pro koncové uživatele i profesionály v oboru je to argument pro větší důraz na transparentní podmínky, standardizaci a menší závislost na jednotlivých proprietárních platformách.
+Pro technologický ekosystém to znamená:
+- zvýšené riziko fragmentace digitálních knihoven a návrat k uzavřeným silo systémům,
+- oslabení důvěry v interoperabilní služby, které slibují jednotný přístup k zakoupenému obsahu,
+- posílení role licenčních jednání jako faktoru, který může ze dne na den změnit uživatelskou zkušenost, bez technické nutnosti.
+
+Pro poskytovatele online služeb je tato situace varováním: bez stabilních a transparentních licenčních rámců i technicky dobře navržené integrační služby ztrácejí hodnotu a vytvářejí právní i reputační rizika. Pro koncové uživatele je racionální strategií diverzifikace platforem a opatrnost při předpokladu, že zakoupený digitální obsah bude dlouhodobě univerzálně dostupný.
 
 ---
 
