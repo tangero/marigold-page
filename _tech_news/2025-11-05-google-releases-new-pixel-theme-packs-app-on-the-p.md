@@ -6,7 +6,7 @@ companies:
 date: '2025-11-05 18:31:00'
 description: Google představil aplikaci Theme packs v obchodě Play Store, která umožňuje
   uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím pomocí
-  tematických balíčků.
+  sezónních balíčků motivů.
 importance: 3
 layout: tech_news_article
 original_title: Google releases new Pixel ‘Theme packs’ app on the Play Store - 9to5Google
@@ -24,33 +24,31 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Google vydal novou aplikaci Theme packs pro telefony Pixel, která slibuje komplexní personalizaci zařízení jedním klepnutím. Aplikace je dostupná v obchodě Play Store pro telefony Pixel 6 a novější, zatím však není plně funkční. První tematický balíček bude věnován muzikálu Wicked.
+Google vydal novou aplikaci Theme packs pro telefony Pixel, která slibuje komplexní personalizaci zařízení jediným klepnutím. Aplikace je dostupná v obchodě Play Store pro telefony Pixel 6 a novější, zatím však není plně funkční. Prvním sezónním balíčkem motivů bude Wicked: For Good! s třemi stylovými variantami.
 
 ## Klíčové body
 
-- Aplikace Theme packs umožňuje změnit tapetu, ikony aplikací, zvuky, GIF obrázky a další prvky najednou
+- Aplikace Theme packs umožňuje změnit tapetu, ikony aplikací, zvuky, hodiny a další prvky systému najednou
 - Dostupná pro telefony Pixel 6 a novější modely
-- První sezónní balíček bude Wicked: For Good! se třemi styly (For Good, Glinda, Elphaba)
-- Aplikace byla vydána 4. listopadu 2025, ale zatím není plně funkční
-- Uživatelé budou moci vybrat, které prvky balíčku se aplikují
+- První motivy budou inspirované filmem Wicked se třemi variantami: For Good, Glinda a Elphaba
+- Aplikace byla zveřejněna 4. listopadu 2025, ale zatím není plně funkční
+- Uživatelé budou moci vybírat, které prvky motivu se aplikují
 
 ## Podrobnosti
 
-Nová aplikace Theme packs (com.google.android.apps.pixel.customizationbundle) představuje pokus Googlu zjednodušit personalizaci telefonů Pixel. Místo jednotlivého nastavování různých prvků uživatelského rozhraní aplikace nabízí předpřipravené tematické balíčky, které upraví celkový vzhled telefonu najednou.
+Nová aplikace Theme packs (identifikátor com.google.android.apps.pixel.customizationbundle) představuje centralizované řešení pro personalizaci telefonů Pixel. Místo individuálního nastavování jednotlivých prvků uživatelského rozhraní nabízí předpřipravené balíčky, které upravují celkový vzhled zařízení.
 
-Konkrétně aplikace umožňuje změnit tapetu, barevné schéma systému Android (Dynamic Color), ikony aplikací, vzhled hodin, zvuky vyzvánění, budíku a notifikací, GIF obrázky v klávesnici Gboard a další prvky. Uživatelé budou mít možnost před stažením balíčku náhled a následně si vybrat, které konkrétní prvky chtějí aplikovat.
+Konkrétně aplikace mění tapetu na ploše, barevné schéma systému využívající funkci Dynamic Color, ikony aplikací, vzhled hodin, zvuky pro vyzvánění, budík a upozornění, GIF obrázky v klávesnici Gboard a další prvky. Uživatelé si před stažením mohou prohlédnout náhled dostupných motivů a následně vybrat, které komponenty chtějí skutečně aplikovat.
 
-První tematický balíček je věnován filmovému muzikálu Wicked a nabízí tři různé styly podle hlavních postav. Ikona aplikace v obchodě Play Store zobrazuje barevný vzorek na fialovém pozadí.
+První sezónní balíček motivů je věnovaný filmu Wicked a nabízí tři stylové varianty odpovídající hlavním postavám a tématům snímku. Ikona aplikace v obchodě Play Store zobrazuje barevný vzorek na fialovém pozadí.
 
-Podle dřívějších úniků informací by měla být aplikace přístupná z nastavení Tapeta a styl, tato funkce však po instalaci zatím nefunguje. Google aplikaci vydal 4. listopadu 2025, ale termín plného spuštění není znám. Situace je komplikovaná tím, že Google nedávno vydal druhou bezpečnostní aktualizaci pro říjen 2025, což může ovlivnit harmonogram dalších aktualizací.
+Přestože byla aplikace oficiálně vydána 4. listopadu 2025, zatím není plně funkční. Podle dřívějších úniků by měla být přístupná z nastavení Tapeta a styl, ale po instalaci se v systému neobjevuje. Není jasné, kdy Google funkci skutečně aktivuje. Společnost v poslední době nedodržuje pravidelný harmonogram vydávání aktualizací v první pondělí měsíce, což potvrzuje i nedávné vydání druhé bezpečnostní záplaty pro říjen 2025.
 
 ## Proč je to důležité
 
-Aplikace Theme packs představuje další krok Googlu v diferenciaci telefonů Pixel od konkurence prostřednictvím softwarových funkcí. Zatímco hardwarově se telefony Pixel často pohybují v podobných parametrech jako konkurence, Google tradičně sází na unikátní softwarové funkce a čistý zážitek z Androidu.
+Aplikace Theme packs představuje pokus Googlu zjednodušit personalizaci systému Android a nabídnout uživatelům telefonů Pixel kurátorovaný zážitek podobný tomu, jaký poskytuje Apple s iOS. Jde o posun od tradičního přístupu Androidu, který dává uživatelům maximální svobodu, směrem k uživatelsky přívětivějšímu řešení.
 
-Tematické balíčky mohou být zajímavé zejména díky potenciálním partnerstvím s filmovými studii a dalšími značkami, jak ukazuje první balíček věnovaný muzikálu Wicked. Tento přístup připomíná strategie výrobců telefonů v Asii, kteří často nabízejí tematické úpravy systému ve spolupráci s populárními značkami.
-
-Z technického hlediska jde o relativně jednoduchou funkci, která však může zvýšit atraktivitu telefonů Pixel pro běžné uživatele, kteří ocení snadnou personalizaci bez nutnosti instalovat aplikace třetích stran nebo ručně upravovat jednotlivé prvky systému.
+Spolupráce s velkými filmovými studiemi na tematických balíčcích naznačuje, že Google plánuje využít tuto funkci jako marketingový nástroj a potenciální zdroj příjmů. Může to také znamenat nový způsob propagace filmů a dalšího obsahu přímo prostřednictvím vzhledu operačního systému.
 
 ---
 

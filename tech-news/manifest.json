@@ -1,10 +1,46 @@
 {
-  "generated": "2025-11-07T00:58:11.622326+00:00",
+  "generated": "2025-11-07T04:24:42.425390+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Vzácná forma syfilidy u staršího muže málem zmátla lékaře",
+      "description": "83letý muž tvrdil, že žije v monogamním manželství 50 let, ale diagnóza vzácné formy pohlavní nemoci vyvolává otázky o pravdivosti jeho tvrzení.",
+      "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
+      "publishedAt": "2025-11-05T23:29:42+00:00",
+      "date": "2025-11-05 23:29:42",
+      "importance": 2,
+      "category": "zdraví",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-2560x1440.jpg",
+      "url": "/tech-news/2025-11-05/rare-form-of-syphilis-in-married-elderly-man-nearl/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Moderní CD přehrávače s Bluetooth zažívají comeback",
+      "description": "Nová generace přenosných CD přehrávačů kombinuje retro technologii s moderními funkcemi jako Bluetooth konektivita a USB-C nabíjení.",
+      "slug": "tech-trend-alert-high-tech-bluetooth-cd-players-ar",
+      "publishedAt": "2025-11-05T22:11:13+00:00",
+      "date": "2025-11-05 22:11:13",
+      "importance": 3,
+      "category": "audio technika",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
+      "url": "/tech-news/2025-11-05/tech-trend-alert-high-tech-bluetooth-cd-players-ar/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "MacBook Air s čipem M4 je před Black Friday levnější než kdy dřív",
-      "description": "Apple MacBook Air s čipem M4 nabízí výkonnou kombinaci výkonu a výdrže baterie. Amazon nyní nabízí slevu 250 dolarů na oba modely.",
+      "description": "Apple MacBook Air s procesorem M4 je nyní na Amazonu o 250 dolarů levněji. Jde o historicky nejnižší cenu pro tento model s vylepšeným výkonem a 16GB RAM.",
       "slug": "apples-slim-m4-macbook-air-is-cheaper-than-ever-ah",
       "publishedAt": "2025-11-05T20:46:17+00:00",
       "date": "2025-11-05 20:46:17",
@@ -24,8 +60,8 @@
       "people": []
     },
     {
-      "title": "iOS 26.2 vyjde v polovině prosince s novými funkcemi pro Podcasty a Připomínky",
-      "description": "Apple vydá iOS 26.2 pravděpodobně kolem 10.-15. prosince. Aktualizace přinese AI kapitoly v Podcastech, budíky v Připomínkách a další vylepšení.",
+      "title": "iOS 26.2 vyjde v prosinci: Přehled nových funkcí pro iPhone",
+      "description": "Apple vydá iOS 26.2 pravděpodobně v polovině prosince. Aktualizace přinese AI kapitoly v podcastech, nové funkce připomínek a vylepšení Apple News.",
       "slug": "ios-262-release-date-heres-when-new-iphone-feature",
       "publishedAt": "2025-11-05T20:20:00+00:00",
       "date": "2025-11-05 20:20:00",
@@ -65,6 +101,27 @@
       "people": []
     },
     {
+      "title": "Spor Disney a Google zasáhl službu Movies Anywhere, nové nákupy filmů se přestaly synchronizovat",
+      "description": "Konflikt mezi Disneym a Googlem kvůli YouTube TV se rozšířil na platformu Movies Anywhere. Google Play a YouTube již nepodporují synchronizaci digitálních filmových knihoven.",
+      "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
+      "publishedAt": "2025-11-05T19:58:00+00:00",
+      "date": "2025-11-05 19:58:00",
+      "importance": 3,
+      "category": "streamovací služby",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/movies-anywhere-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-05/disney-youtube-tv-feud-extends-to-movies-anywhere-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google",
+        "Disney"
+      ],
+      "people": []
+    },
+    {
       "title": "Apple údajně jedná o platbě 1 miliardy dolarů ročně Googlu za AI model pro Siri",
       "description": "Podle nepotvrzených zdrojů plánuje Apple platit Google přibližně miliardu dolarů ročně za využití pokročilého AI modelu s 1,2 bilionu parametrů pro vylepšení hlasového asistenta Siri.",
       "slug": "apple-nears-deal-to-pay-google-roughly-1-billion-a",
@@ -90,8 +147,8 @@
       ]
     },
     {
-      "title": "Rodina telefonů Pixel 10 je na Amazonu zlevněná",
-      "description": "Amazon nabízí slevy na celou řadu telefonů Google Pixel 10, včetně základního modelu, verzí Pro a Pro XL i skládacího Pro Fold.",
+      "title": "Rodina Pixel 10 je na Amazonu se slevou",
+      "description": "Všechny varianty telefonů Pixel 10 jsou dočasně dostupné se slevou na Amazonu, včetně základního modelu, Pro verzí i skládacího Pro Fold.",
       "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
       "publishedAt": "2025-11-05T19:06:00+00:00",
       "date": "2025-11-05 19:06:00",
@@ -112,7 +169,7 @@
     },
     {
       "title": "Google vydal novou aplikaci Theme packs pro telefony Pixel",
-      "description": "Google představil aplikaci Theme packs v obchodě Play Store, která umožňuje uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím pomocí tematických balíčků.",
+      "description": "Google představil aplikaci Theme packs v obchodě Play Store, která umožňuje uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím pomocí sezónních balíčků motivů.",
       "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
       "publishedAt": "2025-11-05T18:31:00+00:00",
       "date": "2025-11-05 18:31:00",
@@ -131,8 +188,8 @@
       "people": []
     },
     {
-      "title": "Google AI Mode přichází do Chrome pro Android a iOS, rozšiřuje autonomní rezervace",
-      "description": "Google rozšiřuje svůj AI Mode do mobilních prohlížečů Chrome a přidává možnost autonomního rezervování vstupenek a termínů u kosmetických služeb.",
+      "title": "Google AI Mode přichází do Chrome pro Android a iOS, rozšiřuje automatické rezervace",
+      "description": "Nový vyhledávací režim AI Mode se rozšiřuje do mobilních prohlížečů Chrome a získává pokročilé agentní funkce pro rezervace restaurací, vstupenek a wellness služeb.",
       "slug": "google-ai-mode-comes-to-chrome-for-android-ios-exp",
       "publishedAt": "2025-11-05T17:15:00+00:00",
       "date": "2025-11-05 17:15:00",
@@ -147,6 +204,27 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chytrý prsten Stream Ring umožňuje nahrávat hlasové poznámky šeptem",
+      "description": "Bývalí zaměstnanci Meta představili AI prsten Stream Ring za 249 dolarů, který dokáže zaznamenávat šeptané poznámky a vytvářet z nich přepisy. Dodání je plánováno na léto 2026.",
+      "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
+      "publishedAt": "2025-11-05T16:55:55+00:00",
+      "date": "2025-11-05 16:55:55",
+      "importance": 3,
+      "category": "nositelná elektronik",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-05/this-ai-smart-ring-lets-you-record-voice-notes-wit/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Meta",
+        "The Verge"
       ],
       "people": []
     },
@@ -171,8 +249,44 @@
       "people": []
     },
     {
-      "title": "Nové levnější APU od AMD mohou ohrozit low-end grafické karty",
-      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové kategorii.",
+      "title": "Nový Dodge Charger Scat Pack je nejsilnější americký sedan pod 60 000 dolarů",
+      "description": "Dodge představil čtyřdveřový sedan Charger Scat Pack s výkonem 550 koní z přeplňovaného šestiválce a pohonem všech kol za cenu od 56 995 dolarů.",
+      "slug": "new-charger-sixpack-is-americas-most-powerful-seda",
+      "publishedAt": "2025-11-05T16:23:31+00:00",
+      "date": "2025-11-05 16:23:31",
+      "importance": 3,
+      "category": "automobily",
+      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/11/DG026_122CH-copy.jpg",
+      "url": "/tech-news/2025-11-05/new-charger-sixpack-is-americas-most-powerful-seda/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CarScoops"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "FHIBE: První eticky vytvořený dataset pro testování férovosti AI systémů",
+      "description": "Výzkumníci představili FHIBE, veřejně dostupný dataset lidských fotografií vytvořený s důrazem na souhlas, soukromí a diverzitu, který umožňuje testovat zkreslení v počítačovém vidění.",
+      "slug": "fair-human-centric-image-dataset-for-ethical-ai-be",
+      "publishedAt": "2025-11-05T16:22:08+00:00",
+      "date": "2025-11-05 16:22:08",
+      "importance": 4,
+      "category": "etická ai",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09716-2/MediaObjects/41586_2025_9716_Fig1_HTML.png",
+      "url": "/tech-news/2025-11-05/fair-human-centric-image-dataset-for-ethical-ai-be/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nové levnější APU od AMD mohou konkurovat low-end GPU",
+      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly nahradit samostatné nízké grafické karty.",
       "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
       "publishedAt": "2025-11-05T16:16:16+00:00",
       "date": "2025-11-05 16:16:16",
@@ -211,8 +325,28 @@
       "people": []
     },
     {
-      "title": "Ford Maverick 300T s turbem z Mustangu dosáhne 300 koní a půjde do prodeje",
-      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje příští rok nabídnout zákazníkům jako tuningový balíček.",
+      "title": "Google vydává nové zvuky pro Pixel 10, aktualizace se ale nemusí zobrazit",
+      "description": "Google začíná distribuovat aktualizaci aplikace Sounds 3.3 s novými vyzvánění, upozorněními a budíky pro telefony Pixel, zatím ale pouze pro řadu Pixel 10.",
+      "slug": "google-rolling-out-new-pixel-10-sounds-but-the-upd",
+      "publishedAt": "2025-11-05T15:05:00+00:00",
+      "date": "2025-11-05 15:05:00",
+      "importance": 2,
+      "category": "mobilní zařízení",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-05/google-rolling-out-new-pixel-10-sounds-but-the-upd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ford Maverick 300T Concept využívá turbo z Mustangu pro výkon 300 koní, firma plánuje prodej zákazníkům",
+      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní díky turbodmychadlu z Mustangu. Firma plánuje zahájit prodej této verze v roce 2026.",
       "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
       "publishedAt": "2025-11-05T15:01:08+00:00",
       "date": "2025-11-05 15:01:08",
@@ -226,6 +360,47 @@
         "name": "Jalopnik"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Motorola představuje další levný telefon se 7000mAh baterií a Androidem 16",
+      "description": "Moto G57 Power míří na evropský trh s výdrží na několik dní, 120Hz displejem a nejnovějším procesorem Snapdragon 6s Gen 4.",
+      "slug": "motorola-is-releasing-yet-another-low-cost-mid-ran",
+      "publishedAt": "2025-11-05T14:07:07+00:00",
+      "date": "2025-11-05 14:07:07",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175490-wide-two_1200/Motorola-is-releasing-yet-another-low-cost-mid-ranger-with-a-7000mAh-battery-and-Android-16.jpg",
+      "url": "/tech-news/2025-11-05/motorola-is-releasing-yet-another-low-cost-mid-ran/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "Motorola",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft potvrdil další chybu v aktualizaci Windows – uživatelům hrozí ztráta dat",
+      "description": "Říjnová aktualizace Windows způsobuje u některých počítačů nečekanou aktivaci BitLocker Recovery obrazovky. Bez obnovovacího klíče hrozí ztráta všech dat.",
+      "slug": "you-could-be-in-troublemicrosoft-confirms-new-wind",
+      "publishedAt": "2025-11-05T13:51:35+00:00",
+      "date": "2025-11-05 13:51:35",
+      "importance": 3,
+      "category": "aktualizace windows",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66326c977605f1e72ab87c8d/0x0.jpg?format=jpg&crop=1276,717,x1223,y811,safe&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-11-05/you-could-be-in-troublemicrosoft-confirms-new-wind/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Microsoft"
+      ],
       "people": []
     },
     {
@@ -3568,60 +3743,6 @@
       "people": []
     },
     {
-      "title": "iOS 26.1 Brings Back 2007 Feature in New Way - MacRumors",
-      "description": "The upcoming iOS 26.1 update includes a small but helpful change for iPhones, and it could prevent you from running late to something important.  ...",
-      "slug": "ios-261-brings-back-2007-feature-in-new-way-macrum",
-      "publishedAt": "2025-10-31T20:40:00+00:00",
-      "date": "2025-10-31 20:40:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/eWEIWALXdBnURstsWvQt_kFYs58=/2091x/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
-      "url": "/tech-news/2025-10-31/ios-261-brings-back-2007-feature-in-new-way-macrum/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "My top Apple Music upgrade in iOS 26 has a hidden feature I love - 9to5Mac",
-      "description": "Apple Music in iOS 26 is packed with new features, and I just discovered that one of my favorites—music pins—come with a hidden bonus perk.",
-      "slug": "my-top-apple-music-upgrade-in-ios-26-has-a-hidden-",
-      "publishedAt": "2025-10-31T20:33:00+00:00",
-      "date": "2025-10-31 20:33:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/my-top-apple-music-upgrade-in-ios-26-has-a-hidden-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google Pulls the Plug on Older Nest Thermostats - PCMag",
-      "description": "You can manually set the temperature, but it no longer connects to the Google Nest or Home apps.",
-      "slug": "google-pulls-the-plug-on-older-nest-thermostats-pc",
-      "publishedAt": "2025-10-31T19:13:09+00:00",
-      "date": "2025-10-31 19:13:09",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/019hsPI75cL32i29tDwIbN3-1.fit_lim.size_1200x630.v1761937740.jpg",
-      "url": "/tech-news/2025-10-31/google-pulls-the-plug-on-older-nest-thermostats-pc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once - The Verge",
       "description": "Microsoft is testing shared audio on Windows 11, allowing users to broadcast audio across two pairs of headphones, earbuds, speakers, or hearing aids.",
       "slug": "windows-11-tests-bluetooth-audio-sharing-that-conn",
@@ -3635,24 +3756,6 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI will let Sora users pay extra to make more AI videos - Mashable",
-      "description": "In case 30 free generations per day weren't enough.",
-      "slug": "openai-will-let-sora-users-pay-extra-to-make-more-",
-      "publishedAt": "2025-10-31T17:56:14+00:00",
-      "date": "2025-10-31 17:56:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/045zpvGGvBS3S64Y3meWLm2/hero-image.fill.size_1200x675.v1761931635.jpg",
-      "url": "/tech-news/2025-10-31/openai-will-let-sora-users-pay-extra-to-make-more-/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
       },
       "companies": [],
       "people": []
@@ -3676,42 +3779,6 @@
       "people": []
     },
     {
-      "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack - The Hacker News",
-      "description": "New Airstalk malware hijacks AirWatch APIs in stealth supply chain attack, targeting enterprise browsers.",
-      "slug": "nation-state-hackers-deploy-new-airstalk-malware-i",
-      "publishedAt": "2025-10-31T16:08:00+00:00",
-      "date": "2025-10-31 16:08:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKxzaqZgRJLRPcNqwG7WhPAKXXPkKpEOo3KCEyJxJAGr4jvJCJYu7f5_MKXFMBZEAYHyDeNoDbQMuA-f4OOSp74F9iEax0USQCQ0oyFWnJTn4IJc-wiXoxpiFociu-ToO04Wyjq6vry_PsdrCzezc2OvE_SD7esW9tFMPrgG2jpa1KfUoJcMPcVynngGI/s790-rw-e365/cyberattack.jpg",
-      "url": "/tech-news/2025-10-31/nation-state-hackers-deploy-new-airstalk-malware-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "iPhone Fold: Launch, Pricing, and What to Expect From Apple's Foldable - MacRumors",
-      "description": "Apple is expected to launch a new foldable iPhone next year, based on multiple rumors and credible sources. The long-awaited device has been rumored...",
-      "slug": "iphone-fold-launch-pricing-and-what-to-expect-from",
-      "publishedAt": "2025-10-31T15:52:58+00:00",
-      "date": "2025-10-31 15:52:58",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "url": "/tech-news/2025-10-31/iphone-fold-launch-pricing-and-what-to-expect-from/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tim Cook says Apple is open to M&A on the AI front - TechCrunch",
       "description": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
       "slug": "tim-cook-says-apple-is-open-to-ma-on-the-ai-front-",
@@ -3725,24 +3792,6 @@
         "emoji": "🚀",
         "id": "techcrunch",
         "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Next year’s AirPods lineup could be Apple’s biggest ever - 9to5Mac",
-      "description": "Apple just launched AirPods Pro 3, but another new AirPods model is rumored to arrive next year, expanding the lineup to be bigger than ever.",
-      "slug": "next-years-airpods-lineup-could-be-apples-biggest-",
-      "publishedAt": "2025-10-31T15:10:00+00:00",
-      "date": "2025-10-31 15:10:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/next-years-airpods-lineup-could-be-apples-biggest-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
       },
       "companies": [],
       "people": []
@@ -3856,24 +3905,6 @@
       "people": []
     },
     {
-      "title": "Google rolls out a surprise October update for Pixel users - Android Central",
-      "description": "Not the one you're waiting for, though",
-      "slug": "google-rolls-out-a-surprise-october-update-for-pix",
-      "publishedAt": "2025-10-31T10:04:47+00:00",
-      "date": "2025-10-31 10:04:47",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7VRynWNu5EaptSUgniwKqW-2560-80.jpg",
-      "url": "/tech-news/2025-10-31/google-rolls-out-a-surprise-october-update-for-pix/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Central"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "This leaked OnePlus flagship looks like a better bet than the OnePlus 15 - Android Authority",
       "description": "OnePlus' next compact flagship has leaked, and it does not appear to repeat the same mistakes as the OnePlus 15.",
       "slug": "this-leaked-oneplus-flagship-looks-like-a-better-b",
@@ -3905,24 +3936,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "New Google Pixel October 2025 update rolling out with ‘performance improvements’ - 9to5Google",
-      "description": "Google today released new October builds for the Pixel 7-10 series, with Verizon shedding some light on what this update brings.",
-      "slug": "new-google-pixel-october-2025-update-rolling-out-w",
-      "publishedAt": "2025-10-31T00:20:00+00:00",
-      "date": "2025-10-31 00:20:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-6-family-with-Pixel-10-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/new-google-pixel-october-2025-update-rolling-out-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
       },
       "companies": [],
       "people": []

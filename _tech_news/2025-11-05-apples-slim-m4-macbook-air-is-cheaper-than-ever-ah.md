@@ -5,8 +5,8 @@ companies:
 - Apple
 - Amazon
 date: '2025-11-05 20:46:17'
-description: Apple MacBook Air s čipem M4 nabízí výkonnou kombinaci výkonu a výdrže
-  baterie. Amazon nyní nabízí slevu 250 dolarů na oba modely.
+description: Apple MacBook Air s procesorem M4 je nyní na Amazonu o 250 dolarů levněji.
+  Jde o historicky nejnižší cenu pro tento model s vylepšeným výkonem a 16GB RAM.
 importance: 3
 layout: tech_news_article
 original_title: Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday
@@ -25,27 +25,31 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 
 ## Souhrn
 
-MacBook Air s čipem M4 je aktuálně dostupný s rekordní slevou 250 dolarů na Amazonu před Black Friday. Model s 13palcovou obrazovkou stojí 749,99 dolarů, zatímco 15palcová varianta je k dispozici za 949,99 dolarů. Jde o nejnižší ceny, za které byly tyto notebooky od svého uvedení k dostání.
+MacBook Air s čipem M4 je před Black Friday dostupný za historicky nejnižší cenu. 13palcový model stojí na Amazonu 750 dolarů (sleva 250 dolarů), 15palcový model pak 950 dolarů (také sleva 250 dolarů). Jde o výrazné zlevnění nejnovější generace populárního notebooku Apple.
 
 ## Klíčové body
 
-- 13palcový MacBook Air s M4 čipem je k dispozici za 749,99 dolarů (sleva 250 dolarů)
-- 15palcový model stojí 949,99 dolarů (rovněž sleva 250 dolarů)
-- Základní konfigurace obsahuje 16 GB RAM a 256 GB SSD úložiště
-- Notebook disponuje vylepšenou 12megapixelovou webkamerou Center Stage
-- Podporuje nejnovější macOS 26 a funkce Apple Intelligence
+- 13palcový MacBook Air s M4 za 750 dolarů (původně 999 dolarů)
+- 15palcový model za 950 dolarů (původně 1199 dolarů)
+- Základní konfigurace obsahuje 16GB RAM místo dřívějších 8GB
+- Vylepšená 12megapixelová webkamera Center Stage
+- Podpora macOS 26 a funkcí Apple Intelligence bez zpomalení
 
 ## Podrobnosti
 
-Nový MacBook Air s čipem M4 představuje výrazné vylepšení oproti předchozí generaci. Základní konfigurace nyní obsahuje dvojnásobnou kapacitu operační paměti - 16 GB RAM namísto dřívějších 8 GB. Tato změna je klíčová pro plynulý běh nejnovějšího systému macOS 26 a funkcí Apple Intelligence, které vyžadují větší množství paměti pro zpracování úloh založených na strojovém učení.
+Nejnovější generace MacBook Air přináší několik významných vylepšení oproti předchozím modelům. Procesor M4 nabízí vyšší výkon než předchůdce s čipem M3, přičemž zachovává výbornou výdrž baterie, která je charakteristická pro tuto řadu notebooků.
 
-Čip M4 přináší vyšší výpočetní výkon při zachování vynikající výdrže baterie, která je charakteristická pro řadu MacBook Air. Notebook je vybaven vylepšenou webkamerou s rozlišením 12 megapixelů a funkcí Center Stage, která automaticky sleduje uživatele během videohovorů a poskytuje širší zorné pole.
+Zásadní změnou je zdvojnásobení základní operační paměti na 16GB RAM. Toto navýšení není jen marketingovým tahem - umožňuje plynulý běh nejnovějšího operačního systému macOS 26 a především funkcí Apple Intelligence, které jsou náročnější na systémové prostředky. Uživatelé tak mohou využívat pokročilé funkce umělé inteligence bez obav ze zpomalení systému.
 
-Základní model s 13palcovou obrazovkou nabízí 256 GB SSD úložiště, což může být pro některé uživatele limitující. Pro náročnější použití je možné zvolit konfigurace s větší kapacitou, ty však nejsou součástí aktuální slevy. Notebook si zachovává charakteristický tenký a lehký design, který z něj dělá ideálního společníka pro práci na cestách.
+Dalším vylepšením je webkamera s rozlišením 12 megapixelů a technologií Center Stage, která automaticky sleduje uživatele během videohovorů a udržuje ho v záběru. Oproti předchozím modelům nabízí ostřejší obraz a širší zorné pole.
+
+Základní konfigurace obsahuje 256GB SSD úložiště, což může být pro některé uživatele limitující, zejména při práci s většími soubory nebo rozsáhlými knihovnami fotografií a videí. Pro běžné použití včetně kancelářské práce, prohlížení webu a streamování však kapacita postačuje.
 
 ## Proč je to důležité
 
-MacBook Air s čipem M4 představuje vstupní model do ekosystému Apple notebooků a aktuální sleva ho činí dostupnějším pro širší okruh uživatelů. Zdvojnásobení základní kapacity RAM na 16 GB je významný krok, který prodlužuje životnost zařízení a zajišťuje, že notebook zvládne náročnější úlohy i v budoucnu. Pro uživatele, kteří zvažují přechod z Windows nebo starších MacBooků, představuje tato nabídka zajímavou příležitost získat moderní hardware s dlouhodobou podporou za výrazně nižší cenu.
+MacBook Air patří dlouhodobě mezi nejprodávanější notebooky na trhu a často slouží jako referenční bod pro hodnocení konkurenčních zařízení. Historicky nejnižší cena činí tento model dostupnějším širšímu okruhu zákazníků, kteří dosud váhali kvůli vysoké pořizovací ceně Apple produktů.
+
+Navýšení základní RAM na 16GB je významný krok, který odráží rostoucí nároky moderního softwaru a zejména funkcí založených na umělé inteligenci. Apple tímto krokem fakticky uznává, že 8GB již není dostatečných pro komfortní práci s nejnovějšími technologiemi. Pro uživatele to znamená delší životnost zařízení, protože notebook bude lépe připraven na budoucí softwarové požadavky.
 
 ---
 
