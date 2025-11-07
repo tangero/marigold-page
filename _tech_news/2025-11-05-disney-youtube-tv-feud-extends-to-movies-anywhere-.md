@@ -5,9 +5,8 @@ companies:
 - Google
 - Disney
 date: '2025-11-05 19:58:00'
-description: Konflikt mezi Disneym a Googlem kvůli YouTube TV se rozšířil na platformu
-  Movies Anywhere. Google Play a YouTube již nepodporují synchronizaci digitálních
-  filmových knihoven.
+description: Konflikt mezi Disneym a Googlem se rozšířil na službu Movies Anywhere.
+  Google Play a YouTube již nesynchronizují digitální knihovny filmů napříč platformami.
 importance: 3
 layout: tech_news_article
 original_title: Disney-YouTube TV feud extends to Movies Anywhere, as Google no longer
@@ -18,8 +17,7 @@ source:
   emoji: 📰
   id: null
   name: 9to5google.com
-title: Spor Disney a Google zasáhl službu Movies Anywhere, nové nákupy filmů se přestaly
-  synchronizovat
+title: Spor Disney a Google zasáhl Movies Anywhere, nákupy filmů se přestaly synchronizovat
 url: http://9to5google.com/2025/11/05/disney-youtube-tv-feud-extends-to-movies-anywhere-google-no-longer-syncs/
 urlToImage: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/movies-anywhere-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/movies-anywhere-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
@@ -27,29 +25,33 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Spor mezi Disneym a Googlem, který začal stažením Disney kanálů z YouTube TV, má další oběť. Služba Movies Anywhere, která umožňuje synchronizaci digitálních filmových knihoven napříč platformami, přestala 31. října 2025 podporovat Google Play a YouTube. Nové nákupy filmů se tak mezi těmito službami již nesynchronizují.
+Spor mezi Disneym a Googlem, který začal stažením televizních kanálů z YouTube TV, zasáhl další službu. Google Play a YouTube od 31. října přestaly participovat v programu Movies Anywhere, který umožňuje synchronizaci digitálních filmových knihoven napříč různými platformami. Existující kolekce zatím zůstávají dostupné, ale nové nákupy se již nepřenášejí.
 
 ## Klíčové body
 
 - Google Play a YouTube ukončily účast v programu Movies Anywhere k 31. říjnu 2025
 - Změna přišla ve stejný den, kdy Disney stáhl své kanály (ABC, ESPN) z YouTube TV kvůli smluvnímu sporu
 - Movies Anywhere vlastní Disney, přestože služba zahrnuje i další studia jako Sony, Universal a Warner Bros
-- Existující synchronizované knihovny zatím zůstávají dostupné, ale nové nákupy se již nepřenášejí
-- Uživatelé mohou nadále používat Movies Anywhere s Amazon Prime Video a Apple TV
+- Stávající synchronizované knihovny zůstávají prozatím dostupné, nové nákupy se ale již nepřenášejí
+- Uživatelé mohou nadále používat synchronizaci s Amazon Prime Video a Apple TV
 
 ## Podrobnosti
 
-Movies Anywhere je služba, která umožňuje uživatelům synchronizovat digitální filmové knihovny zakoupené na různých platformách do jednoho místa. Pokud například zakoupíte film na Google Play, automaticky se objeví i ve vaší knihovně na Apple TV nebo Amazon Prime Video. Tato funkce je užitečná zejména pro lidi, kteří používají zařízení od různých výrobců a nechtějí být závislí na jednom ekosystému.
+Movies Anywhere je služba, která umožňuje uživatelům nakupovat digitální filmy na jedné platformě a sledovat je na jiných podporovaných službách. Pokud si například uživatel koupil film na Google Play, mohl jej automaticky sledovat i v aplikaci Apple TV nebo Amazon Prime Video, pokud měl účty propojené přes Movies Anywhere.
 
-Odstoupení Googlu ze služby Movies Anywhere není náhodné. Datum 31. října přesně odpovídá dni, kdy Disney stáhl své kanály z YouTube TV kvůli neshodám ohledně licenční smlouvy. Ačkoliv Movies Anywhere zahrnuje obsah od více studií, samotnou platformu vlastní právě Disney, což vysvětluje, proč se spor týkající se YouTube TV rozšířil i sem.
+Od 31. října však Google Play a YouTube z tohoto programu vystoupily. Datum není náhodné – přesně v tento den Disney stáhl své televizní kanály z YouTube TV kvůli neshodám ohledně licenčních podmínek. Ačkoliv Movies Anywhere zahrnuje filmy od více studií, samotnou službu vlastní právě Disney, což vysvětluje souvislost s probíhajícím sporem.
 
-Pro uživatele to znamená, že pokud si koupí film na Google Play nebo YouTube, tento nákup se již neobjeví v jejich knihovně Movies Anywhere ani na dalších propojených platformách. Existující synchronizované filmy zatím zůstávají dostupné, ale není jasné, jak dlouho tento stav potrvá. Redakce 9to5Google potvrdila, že nové nákupy se skutečně nepřenášejí mezi službami.
+Pro uživatele to znamená, že filmy zakoupené na Google Play po 31. říjnu se již neobjeví v jejich knihovnách na ostatních platformách propojených přes Movies Anywhere. Redakce 9to5Google potvrdila, že zatímco dříve synchronizované tituly zůstávají v knihovnách dostupné, nové nákupy se již nepřenášejí. Není jasné, zda jde o dočasné opatření nebo trvalou změnu.
+
+Uživatelé, kteří měli propojené účty, nyní v nastavení Movies Anywhere vidí pouze zbývající platformy jako Amazon Prime Video a Apple TV. Google Play a YouTube z možností synchronizace zmizely.
 
 ## Proč je to důležité
 
-Tento spor ilustruje křehkost digitálního vlastnictví obsahu a závislost uživatelů na dohodách mezi velkými technologickými a mediálními společnostmi. Movies Anywhere byla jednou z mála služeb, která se snažila překlenout rozdíly mezi konkurenčními ekosystémy a poskytnout uživatelům skutečnou flexibilitu při správě jejich digitálních knihoven.
+Tato situace ukazuje, jak mohou obchodní spory mezi velkými technologickými a mediálními společnostmi dopadat na koncové uživatele. Movies Anywhere byla jednou z mála služeb, která se snažila řešit fragmentaci digitálního obsahu a umožnit uživatelům větší svobodu při výběru platformy pro sledování zakoupeného obsahu.
 
-Odchod Googlu ze služby je varováním, že i zdánlivě stabilní mezioborové spolupráce mohou skončit kvůli obchodním sporům. Pro spotřebitele to znamená další fragmentaci trhu s digitálním obsahem a nutnost pečlivěji zvažovat, kde své filmy nakupují. Spor mezi Disneym a Googlem tak přesahuje původní problém s YouTube TV a začína ovlivňovat širší ekosystém digitální zábavy.
+Vystoupení Googlu z programu je další ukázkou toho, jak křehký je ekosystém digitálního obsahu a jak málo kontroly mají uživatelé nad filmy, které si "koupili". Jde o připomínku, že digitální nákupy jsou ve skutečnosti pouze licence k přístupu, které mohou být kdykoli omezeny obchodními rozhodnutími.
+
+Pro širší technologický průmysl jde o varování před nadměrnou závislostí na proprietárních ekosystémech a důležitost otevřených standardů pro správu digitálního obsahu.
 
 ---
 

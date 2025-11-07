@@ -5,8 +5,9 @@ companies:
 - Google
 - Amazon
 date: '2025-11-05 19:06:00'
-description: Všechny varianty telefonů Pixel 10 jsou dočasně dostupné se slevou na
-  Amazonu, včetně základního modelu, Pro verzí i skládacího Pro Fold.
+description: Na Amazonu jsou nyní dostupné všechny modely řady Pixel 10 se slevami
+  od 200 do 300 dolarů. Akce zahrnuje základní Pixel 10, modely Pro a Pro XL i skládací
+  verzi Pro Fold.
 importance: 3
 layout: tech_news_article
 original_title: The Pixel 10 Family Is Marked Down on Amazon - WIRED
@@ -16,7 +17,7 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: Rodina Pixel 10 je na Amazonu se slevou
+title: Rodina telefonů Pixel 10 se slevou na Amazonu
 url: https://www.wired.com/story/pixel-10-deal-1125/
 urlToImage: https://media.wired.com/photos/690b9f2393120774bebe626f/191:100/w_1280,c_limit/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png
 urlToImageBackup: https://media.wired.com/photos/690b9f2393120774bebe626f/191:100/w_1280,c_limit/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png
@@ -24,27 +25,27 @@ urlToImageBackup: https://media.wired.com/photos/690b9f2393120774bebe626f/191:10
 
 ## Souhrn
 
-Celá řada telefonů Google Pixel 10 je aktuálně dostupná se slevou na Amazonu. Slevy se pohybují od 200 do 300 dolarů v závislosti na modelu a zahrnují základní Pixel 10, verze Pro a Pro XL, i nedávno uvedený skládací Pixel 10 Pro Fold.
+Amazon nabízí slevy na celou řadu telefonů Google Pixel 10, které byly představeny nedávno. Zákazníci mohou ušetřit 200 až 300 dolarů v závislosti na zvoleném modelu, přičemž akce zahrnuje základní Pixel 10, výkonnější verze Pro a Pro XL i nedávno uvedený skládací Pixel 10 Pro Fold.
 
 ## Klíčové body
 
-- Základní Pixel 10 (128 GB a 256 GB) je levnější o 200 dolarů, cena klesá na 599 a 699 dolarů
+- Pixel 10 (základní model) je zlevněn o 200 dolarů, ceny začínají na 599 dolarech za 128GB verzi
 - Pixel 10 Pro má slevu 250 dolarů napříč všemi kapacitami úložiště
-- Pixel 10 Pro XL se slevou 300 dolarů, dostupnost se liší podle barvy a velikosti úložiště
-- Slevy na nejnovější generaci Pixelů jsou podle článku vzácné
-- Dostupnost některých barev a kapacit se liší, zejména u modelu s 1 TB úložištěm
+- Pixel 10 Pro XL nabízí nejvyšší slevu 300 dolarů při zachování stejných specifikací jako Pro model
+- Dostupnost jednotlivých barevných variant se liší podle kapacity úložiště
+- Slevy se vztahují na všechny barevné varianty, ale u vyšších kapacit může být výběr omezený
 
 ## Podrobnosti
 
-Základní model Pixel 10 představuje kompromisní řešení pro běžné uživatele Androidu. Oproti verzi Pro postrádá parní komoru pro chlazení a má menší senzor fotoaparátu. I přes tyto ústupky jde o solidní volbu pro běžné použití, zejména při snížené ceně. Náročnější uživatelé a mobilní hráči by však měli zvážit přechod na verzi Pro.
+Základní Pixel 10 je po slevě dostupný za 599 dolarů (128 GB) a 699 dolarů (256 GB) ve všech čtyřech barevných variantách. Tento model představuje kompromis mezi cenou a výkonem - oproti verzi Pro postrádá parní komoru pro chlazení a má menší snímač fotoaparátu. Maximální kapacita úložiště je omezena na 256 GB. Telefon je vhodný pro běžné uživatele Androidu, ale náročnější uživatelé a mobilní hráči by měli zvážit přechod na verzi Pro.
 
-Pixel 10 Pro nabízí oproti základnímu modelu displej s vyšším rozlišením, více operační paměti a kvalitnější fotoaparáty s většími senzory. Výhodou je také dostupnost vyšších kapacit úložiště, zatímco základní Pixel 10 končí na 256 GB. Verze Pro XL sdílí specifikace s modelem Pro, liší se pouze větší úhlopříčkou displeje.
+Pixel 10 Pro nabízí slevu 250 dolarů napříč všemi kapacitami úložiště, přičemž dostupnost barev se mění zejména u 1TB modelu. Hlavní rozdíly oproti základnímu modelu zahrnují displej s vyšším rozlišením, více operační paměti a větší a kvalitnější snímače fotoaparátů. Na rozdíl od základní verze je Pro model dostupný i ve vyšších kapacitách úložiště.
 
-Dostupnost jednotlivých variant se mění podle zvolené barvy a kapacity úložiště. Největší omezení se týká modelu s 1 TB úložištěm, kde je výběr barev limitovanější. Slevy platí na všech čtyřech dostupných barvách u základního modelu.
+Pixel 10 Pro XL sdílí specifikace s modelem Pro, ale nabízí větší displej a nejvyšší slevu 300 dolarů. I zde se dostupnost jednotlivých kombinací barev a kapacit úložiště liší.
 
 ## Proč je to důležité
 
-Slevy na nejnovější generaci telefonů Pixel jsou podle redakce WIRED neobvyklé, což činí tuto akci zajímavou pro zájemce o ekosystém Google. Jde o běžnou obchodní akci, která může přilákat uživatele váhající nad pořízením nového telefonu. Pro český trh má informace omezenou relevanci, protože se týká amerického Amazonu a ceny jsou uvedeny v dolarech. Slevy nicméně naznačují možný trend, který se může projevit i u evropských prodejců.
+Slevy na nejnovější generaci telefonů Pixel jsou podle redakce WIRED vzácné, což činí tuto akci zajímavou pro zájemce o prémiové Android telefony. Google Pixel představuje hlavní referenční platformu pro Android a nabízí nejrychlejší aktualizace systému. Cenové snížení o 200 až 300 dolarů činí tyto telefony konkurenceschopnějšími vůči produktům Apple a Samsungu v prémiové kategorii.
 
 ---
 

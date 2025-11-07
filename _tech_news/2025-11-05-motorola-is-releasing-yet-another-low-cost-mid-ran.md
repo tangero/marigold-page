@@ -6,7 +6,7 @@ companies:
 - Google
 date: '2025-11-05 14:07:07'
 description: Moto G57 Power míří na evropský trh s výdrží na několik dní, 120Hz displejem
-  a nejnovějším procesorem Snapdragon 6s Gen 4.
+  a nejnovějším čipsetem Snapdragon 6s Gen 4.
 importance: 3
 layout: tech_news_article
 original_title: Motorola is releasing yet another low-cost mid-ranger with a 7,000mAh
@@ -25,33 +25,30 @@ urlToImageBackup: https://m-cdn.phonearena.com/images/article/175490-wide-two_12
 
 ## Souhrn
 
-Motorola rozšiřuje svou nabídku cenově dostupných telefonů o model Moto G57 Power, který kombinuje mimořádně velkou baterii 7000mAh s moderními funkcemi včetně Androidu 16 a čerstvě představeného procesoru Snapdragon 6s Gen 4. Jde již o pátý telefon výrobce s baterií nad 6700mAh uvedený za posledních šest měsíců, což ukazuje jasnou strategii zaměřenou na výdrž.
+Motorola rozšiřuje svou nabídku cenově dostupných telefonů o model Moto G57 Power s mimořádně velkou baterií o kapacitě 7000mAh. Jde již o pátý telefon výrobce s baterií přesahující 6700mAh uvedený za posledních šest měsíců. Zařízení míří primárně na evropský trh a přichází s Androidem 16 a čipsetem Snapdragon 6s Gen 4, který Qualcomm představil teprve před dvěma týdny.
 
 ## Klíčové body
 
 - Baterie 7000mAh s podporou 30W rychlonabíjení TurboPower
-- Procesor Qualcomm Snapdragon 6s Gen 4 oznámený před dvěma týdny
 - 6,72palcový LCD displej s rozlišením 2400×1080 pixelů a obnovovací frekvencí 120Hz
-- 8GB RAM a 256GB úložiště, Android 16
-- Hlavní fotoaparát 50MP se senzorem Sony Lytia 600 a clonou f/1.8
+- Procesor Qualcomm Snapdragon 6s Gen 4, 8GB RAM a 256GB úložiště
+- Hlavní 50MP fotoaparát se senzorem Sony Lytia 600 a clonou f/1.8
+- Android 16 předinstalovaný z výroby
+- Odolnost IP64 a certifikace MIL-STD-810H
 
 ## Podrobnosti
 
-Moto G57 Power představuje zajímavou kombinaci výdrže a výkonu v cenově dostupné kategorii. Baterie s kapacitou 7000mAh by měla zajistit několikadenní provoz na jedno nabití, což ještě před rokem bylo v segmentu běžných telefonů nemyslitelné. Podpora 30W nabíjení TurboPower pak umožňuje relativně rychlé doplnění energie i u tak velké baterie.
+Moto G57 Power představuje zajímavou kombinaci výdrže a výkonu v cenově dostupné kategorii. Baterie o kapacitě 7000mAh by měla zajistit několikadenní provoz na jedno nabití, což je výrazně nad standardem současných smartphonů. Podpora 30W nabíjení TurboPower pak umožňuje relativně rychlé doplnění energie i přes velkou kapacitu.
 
-Výbava telefonu je pro střední třídu nadstandardní. Procesor Snapdragon 6s Gen 4 je natolik nový, že jej Qualcomm oznámil teprve před dvěma týdny, což ukazuje snahu Motoroly nabídnout aktuální technologie. Displej s obnovovací frekvencí 120Hz zajišťuje plynulé zobrazení, i když jde o LCD panel, nikoli OLED.
+Displej s úhlopříčkou 6,72 palce nabízíFullHD+ rozlišení a obnovovací frekvenci 120Hz, což zajišťuje plynulé zobrazení. Ochrana Corning Gorilla Glass 7i chrání před poškrábáním. Procesor Snapdragon 6s Gen 4 je nejnovějším přírůstkem do střední třídy od Qualcommu a měl by poskytovat dostatečný výkon pro běžné použití včetně 5G konektivity.
 
-Fotovýbava zahrnuje hlavní 50megapixelový senzor Sony Lytia 600 s technologií Quad Pixel, která slučuje čtyři pixely do jednoho pro lepší výkon při slabém světle. Sekundární 8megapixelový ultraširokoúhlý objektiv rozšiřuje možnosti fotografování. Přední kamera má také 8 megapixelů.
+Fotografická výbava zahrnuje hlavní 50MP senzor Sony Lytia 600 s technologií Quad Pixel, která slučuje čtyři pixely do jednoho pro lepší výkon při slabém osvětlení. Sekundární 8MP ultraširokoúhlý objektiv rozšiřuje možnosti fotografování. Telefon zachovává 3,5mm jack pro sluchátka a nabízí stereo reproduktory s podporou Dolby Atmos.
 
-Telefon nabízí kompletní konektivitu včetně 5G, NFC pro bezkontaktní platby, Wi-Fi ac a Bluetooth 5.1. Zachovává 3,5mm jack pro sluchátka a USB-C port. Stereo reproduktory podporují Dolby Atmos a Hi-Res Audio. Ochrana IP64 chrání před prachem a stříkající vodou, certifikace MIL-STD-810H pak potvrzuje odolnost proti nárazům. Displej kryje Corning Gorilla Glass 7i.
-
-Zařízení s rozměry 166,23×76,5×8,6 mm a hmotností 210 gramů je překvapivě kompaktní vzhledem k velikosti baterie. Zadní strana má povrch z veganské kůže a telefon bude dostupný ve třech barevných variantách podle palety Pantone.
+Zařízení je certifikováno podle vojenského standardu MIL-STD-810H pro odolnost vůči nárazům a má krytí IP64 proti vodě a prachu. Zadní strana je potažena veganskou kůží a telefon bude dostupný ve třech barevných variantách podle systému Pantone.
 
 ## Proč je to důležité
 
-Moto G57 Power ilustruje posun v prioritách výrobců telefonů střední třídy. Zatímco dříve se soustředili především na fotoaparáty a výkon, nyní se výdrž baterie stává klíčovým prodejním argumentem. Motorola tuto strategii razantně prosazuje s pěti modely s velkými bateriemi za půl roku.
-
-Pro evropské uživatele, kam telefon míří, jde o zajímavou alternativu k dražším modelům, která nabízí praktické funkce jako NFC platby, 5G konektivitu a moderní Android 16 bez nutnosti investovat do vlajkových lodí. Kombinace výdrže, aktuálního hardwaru a kompletní výbavy může oslovit uživatele hledající spolehlivý každodenní telefon.
+Motorola pokračuje v trendu výroby telefonů s extrémně velkými bateriemi, který se stává stále populárnějším zejména v segmentu cenově dostupných zařízení. Pět modelů s bateriemi nad 6700mAh za půl roku ukazuje, že výrobce identifikoval poptávku po dlouhé výdrži jako klíčový prodejní argument. Pro uživatele v Evropě, kde bude telefon dostupný, to znamená možnost získat zařízení s několikadenní výdrží bez nutnosti kompromisů v ostatních parametrech. Předinstalovaný Android 16 navíc zajišťuje aktuální softwarovou výbavu hned od začátku.
 
 ---
 

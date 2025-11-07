@@ -22,29 +22,31 @@ urlToImageBackup: https://www.carscoops.com/wp-content/uploads/2025/11/DG026_122
 
 ## Souhrn
 
-Dodge zahájil prodej nového sedanu Charger Scat Pack s twin-turbo šestiválcovým motorem Hurricane o výkonu 550 koní. Vůz zrychlí na 100 km/h za 3,9 sekundy a dosahuje maximální rychlosti 285 km/h, přičemž jeho základní cena činí 56 995 dolarů, což z něj dělá nejsilnější americký sedan v této cenové kategorii.
+Dodge zahájil prodej nového sedanu Charger Scat Pack s dvoulitrovým přeplňovaným řadovým šestiválcem Hurricane o výkonu 550 koní. Vůz s pohonem všech kol a možností přepnutí na zadní pohon startuje na ceně 56 995 dolarů a stává se tak nejsilnějším sedanem v USA pod hranicí 60 000 dolarů.
 
-## Klíčové hlavní body
+## Klíčové body
 
-- Twin-turbo šestiválcový motor Hurricane s výkonem 550 koní (410 kW) a točivým momentem 531 lb-ft (720 Nm)
-- Zrychlení 0-100 km/h za 3,9 sekundy, čtvrtmíle za 12,2 sekundy, maximální rychlost 285 km/h
+- Motor Hurricane twin-turbo řadový šestiválec s výkonem 550 koní (410 kW) a točivým momentem 531 lb-ft (720 Nm)
+- Zrychlení 0-60 mph za 3,9 sekundy, čtvrtmíle za 12,2 sekundy, maximální rychlost 177 mph (285 km/h)
+- Cena 56 995 dolarů plus 1 995 dolarů poplatek za dopravu, celkem 58 990 dolarů před daněmi
 - Standardní pohon všech kol s možností přepnutí do režimu pouze zadního pohonu
-- Cena od 56 995 dolarů (58 990 dolarů včetně poplatku za dopravu), o 2 000 dolarů více než dvoudveřová verze
-- Sériová výbava zahrnuje brzdy Brembo, aktivní výfukový systém, launch control a Line Lock
+- Zahájení výroby začátkem roku 2025
 
 ## Podrobnosti
 
-Nový Charger Scat Pack představuje návrat Dodge k tradičním spalovacím motorům po ne zcela úspěšném uvedení elektrické verze Charger Daytona. Místo elektrického pohonu dostává vůz twin-turbo šestiválcový motor Hurricane, který nabízí výkon 550 koní a točivý moment 720 Nm. Tyto parametry řadí sedan na první místo mezi nejsilnějšími americkými sedany v cenové kategorii pod 60 000 dolarů.
+Nový Charger Scat Pack představuje návrat Dodge k tradičním spalovacím motorům po komplikovaném uvedení elektrické verze Charger Daytona. Čtyřdveřový sedan je o 2 000 dolarů dražší než dvoudveřová verze, která stojí 54 995 dolarů.
 
-Vůz standardně disponuje pohonem všech kol, který však lze přepnout do režimu pouze zadního pohonu pro možnost driftování a burnoutů. Výkonnostní výbava zahrnuje brzdy Brembo, systém Line Lock pro zahřívání pneumatik před startem, launch control pro optimální zrychlení a dvourežimový aktivní výfukový systém, který má pomoci šestiválci znít co nejlépe.
+Vůz využívá motor Hurricane, což je přeplňovaný řadový šestiválec s dvojicí turbodmychadel. Tento agregát nahrazuje dříve používané osmiválce V8 a nabízí kombinaci vysokého výkonu s moderní technologií. Točivý moment 720 Nm je k dispozici v širokém rozsahu otáček, což zajišťuje silné zrychlení.
 
-Interiér nabízí 12,3palcový infotainment systém, karbonové a semiškové prvky výbavy a sedadla potažená kombinací kůže a semišku. Čtyřdveřová verze je o 2 000 dolarů dražší než dvoudveřové kupé, které vychází na 54 995 dolarů (56 990 dolarů s poplatkem za dopravu).
+Standardní výbava zahrnuje pohon všech kol, který lze podle potřeby přepnout do režimu pouze zadního pohonu pro driftování a burnouty. K výbavě patří brzdy Brembo, funkce Line Lock pro zahřátí pneumatik před startem, launch control pro optimální zrychlení a aktivní výfukový systém s dvojím režimem.
 
-Zahájení výroby je plánováno na začátek příštího roku. Dodge zároveň připravuje základní verzi R/T s výkonem 420 koní za cenu od 49 995 dolarů, ta však bude k dispozici až v průběhu roku 2025. Prozatím je možné objednávat pouze verzi Scat Pack.
+Interiér nabízí 12,3palcový infotainment systém, karbonové a semiškové prvky výbavy a sportovní sedadla potažená kombinací kůže a semišku. Dodge se snaží zachovat sportovní charakter vozu i v kabině.
+
+Verze R/T se základním výkonem 420 koní (313 kW) bude dostupná od příštího roku za cenu 49 995 dolarů. Zatím jsou objednávky otevřeny pouze pro výkonnější verzi Scat Pack.
 
 ## Proč je to důležité
 
-Charger Scat Pack ukazuje, že tradiční automobilky stále vidí prostor pro výkonné spalovací motory navzdory tlaku na elektrifikaci. Dodge reaguje na vlažné přijetí elektrické verze Daytona a nabízí zákazníkům to, co od značky očekávají - vysoký výkon za rozumnou cenu. Poměr výkonu a ceny činí z vozu zajímavou alternativu k dražším evropským sedanům, přičemž zachovává americkou tradici muscle cars v moderní podobě s pokročilými technologiemi jako je přeplňování a pohon všech kol.
+Charger Scat Pack ukazuje, že tradiční automobilky hledají cestu, jak udržet zájem o výkonné spalovací vozy i v době elektrifikace. Po neúspěšném uvedení elektrické verze Daytona Dodge vsadil na osvědčený koncept výkonného sedanu s moderním přeplňovaným motorem. Cena pod 60 000 dolarů činí z vozu zajímavou alternativu k výrazně dražším německým konkurentům. Jde o signál, že americký trh stále vyžaduje tradiční muscle cars, i když s modernější technologií než klasické V8.
 
 ---
 

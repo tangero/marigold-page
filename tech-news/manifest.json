@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-07T04:24:42.425390+00:00",
+  "generated": "2025-11-07T08:25:48.212016+00:00",
   "count": 200,
   "articles": [
     {
@@ -60,8 +60,29 @@
       "people": []
     },
     {
-      "title": "iOS 26.2 vyjde v prosinci: Přehled nových funkcí pro iPhone",
-      "description": "Apple vydá iOS 26.2 pravděpodobně v polovině prosince. Aktualizace přinese AI kapitoly v podcastech, nové funkce připomínek a vylepšení Apple News.",
+      "title": "Apple údajně jedná s Googlem o miliardové smlouvě na vylepšení Siri",
+      "description": "Podle zpráv Bloomberg má Apple zaplatit Googlu přibližně miliardu dolarů ročně za vlastní verzi modelu Gemini AI, která by měla dočasně pohánět přepracovanou Siri.",
+      "slug": "apple-nears-deal-to-pay-google-1b-annually-to-powe",
+      "publishedAt": "2025-11-05T20:37:47+00:00",
+      "date": "2025-11-05 20:37:47",
+      "importance": 2,
+      "category": "hlasové asistenty",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+      "url": "/tech-news/2025-11-05/apple-nears-deal-to-pay-google-1b-annually-to-powe/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.2 vyjde v polovině prosince s novými funkcemi pro Podcasty a Připomínky",
+      "description": "Apple vydá iOS 26.2 pravděpodobně kolem 10.-15. prosince. Aktualizace přinese AI-generované kapitoly v Podcastech, nové alarmy v Připomínkách a vylepšené hodnocení spánku.",
       "slug": "ios-262-release-date-heres-when-new-iphone-feature",
       "publishedAt": "2025-11-05T20:20:00+00:00",
       "date": "2025-11-05 20:20:00",
@@ -101,8 +122,8 @@
       "people": []
     },
     {
-      "title": "Spor Disney a Google zasáhl službu Movies Anywhere, nové nákupy filmů se přestaly synchronizovat",
-      "description": "Konflikt mezi Disneym a Googlem kvůli YouTube TV se rozšířil na platformu Movies Anywhere. Google Play a YouTube již nepodporují synchronizaci digitálních filmových knihoven.",
+      "title": "Spor Disney a Google zasáhl Movies Anywhere, nákupy filmů se přestaly synchronizovat",
+      "description": "Konflikt mezi Disneym a Googlem se rozšířil na službu Movies Anywhere. Google Play a YouTube již nesynchronizují digitální knihovny filmů napříč platformami.",
       "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
       "publishedAt": "2025-11-05T19:58:00+00:00",
       "date": "2025-11-05 19:58:00",
@@ -147,8 +168,8 @@
       ]
     },
     {
-      "title": "Rodina Pixel 10 je na Amazonu se slevou",
-      "description": "Všechny varianty telefonů Pixel 10 jsou dočasně dostupné se slevou na Amazonu, včetně základního modelu, Pro verzí i skládacího Pro Fold.",
+      "title": "Rodina telefonů Pixel 10 se slevou na Amazonu",
+      "description": "Na Amazonu jsou nyní dostupné všechny modely řady Pixel 10 se slevami od 200 do 300 dolarů. Akce zahrnuje základní Pixel 10, modely Pro a Pro XL i skládací verzi Pro Fold.",
       "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
       "publishedAt": "2025-11-05T19:06:00+00:00",
       "date": "2025-11-05 19:06:00",
@@ -169,7 +190,7 @@
     },
     {
       "title": "Google vydal novou aplikaci Theme packs pro telefony Pixel",
-      "description": "Google představil aplikaci Theme packs v obchodě Play Store, která umožňuje uživatelům telefonů Pixel personalizovat vzhled zařízení jedním klepnutím pomocí sezónních balíčků motivů.",
+      "description": "Google představil aplikaci Theme packs v Obchodě Play, která umožňuje uživatelům telefonů Pixel přizpůsobit vzhled zařízení jedním klepnutím pomocí sezónních balíčků motivů.",
       "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
       "publishedAt": "2025-11-05T18:31:00+00:00",
       "date": "2025-11-05 18:31:00",
@@ -184,6 +205,27 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "MacBook Air v Black Friday slevách s cenami od 749,99 dolarů",
+      "description": "Amazon spustil výrazné slevy na MacBook Air s čipem M4. Model s 13palcovou obrazovkou je k dispozici za historicky nejnižší cenu 749,99 dolarů.",
+      "slug": "macbook-air-black-friday-deals-arrive-with-new-low",
+      "publishedAt": "2025-11-05T17:42:11+00:00",
+      "date": "2025-11-05 17:42:11",
+      "importance": 3,
+      "category": "slevy elektroniky",
+      "urlToImage": "https://images.macrumors.com/t/SShyYqJ0JMxbdO8QPeKvPzoc-eU=/2500x/article-new/2025/11/m4-macbook-air-snowmen.jpeg",
+      "url": "/tech-news/2025-11-05/macbook-air-black-friday-deals-arrive-with-new-low/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Amazon"
       ],
       "people": []
     },
@@ -208,13 +250,33 @@
       "people": []
     },
     {
+      "title": "Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat",
+      "description": "Říjnové aktualizace Windows způsobují nečekaný požadavek na obnovovací klíč BitLocker. Uživatelé bez zálohy klíče riskují ztrátu všech dat na počítači.",
+      "slug": "bitlocker-recovery-bug-in-recent-windows-updates-c",
+      "publishedAt": "2025-11-05T16:57:00+00:00",
+      "date": "2025-11-05 16:57:00",
+      "importance": 4,
+      "category": "zabezpečení systému",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/preboot-pin.png?w=1024",
+      "url": "/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
       "title": "Chytrý prsten Stream Ring umožňuje nahrávat hlasové poznámky šeptem",
-      "description": "Bývalí zaměstnanci Meta představili AI prsten Stream Ring za 249 dolarů, který dokáže zaznamenávat šeptané poznámky a vytvářet z nich přepisy. Dodání je plánováno na léto 2026.",
+      "description": "Bývalí zaměstnanci Meta představili AI prsten Stream Ring za 249 dolarů, který nahrává a přepisuje šeptané poznámky a vytváří z nich strukturované záznamy.",
       "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
       "publishedAt": "2025-11-05T16:55:55+00:00",
       "date": "2025-11-05 16:55:55",
       "importance": 3,
-      "category": "nositelná elektronik",
+      "category": "chytré prsteny",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-05/this-ai-smart-ring-lets-you-record-voice-notes-wit/",
       "source": {
@@ -229,8 +291,8 @@
       "people": []
     },
     {
-      "title": "Google chce vyřešit energetickou náročnost AI datovými centry na oběžné dráze",
-      "description": "Google představil Project Suncatcher, iniciativu zkoumající možnost umístění datových center s AI čipy do vesmíru. Podle inženýrů společnosti mají již všechny potřebné technologie.",
+      "title": "Google chce postavit datová centra v orbitu pro uspokojení energetických nároků AI",
+      "description": "Google oznámil projekt Suncatcher, který zkoumá možnost vybudování konstelace satelitů s AI čipy v nízké oběžné dráze. Cílem je řešit rostoucí energetické nároky umělé inteligence.",
       "slug": "if-you-want-to-satiate-ais-hunger-for-power-google",
       "publishedAt": "2025-11-05T16:36:12+00:00",
       "date": "2025-11-05 16:36:12",
@@ -245,6 +307,26 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon Kanada spustila předčasné Black Friday slevy až 88 %",
+      "description": "Kanadská pobočka Amazonu zahájila předčasné Black Friday výprodeje s tisíci produkty se slevami až 88 %, včetně elektroniky, domácích potřeb a vánočních dekorací.",
+      "slug": "A-55-best-amazon-canada-early-black-friday-deals-y",
+      "publishedAt": "2025-11-05T16:34:08+00:00",
+      "date": "2025-11-05 16:34:08",
+      "importance": 1,
+      "category": "e-commerce slevy",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A13ERCyiYaQiDWWvkvrnyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/9da9c410-ba64-11f0-9dfd-ce661a600376",
+      "url": "/tech-news/2025-11-05/A-55-best-amazon-canada-early-black-friday-deals-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Apple"
       ],
       "people": []
     },
@@ -285,8 +367,8 @@
       "people": []
     },
     {
-      "title": "Nové levnější APU od AMD mohou konkurovat low-end GPU",
-      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly nahradit samostatné nízké grafické karty.",
+      "title": "Nové levnější APU od AMD by mohly nahradit základní grafické karty",
+      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové kategorii.",
       "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
       "publishedAt": "2025-11-05T16:16:16+00:00",
       "date": "2025-11-05 16:16:16",
@@ -325,28 +407,8 @@
       "people": []
     },
     {
-      "title": "Google vydává nové zvuky pro Pixel 10, aktualizace se ale nemusí zobrazit",
-      "description": "Google začíná distribuovat aktualizaci aplikace Sounds 3.3 s novými vyzvánění, upozorněními a budíky pro telefony Pixel, zatím ale pouze pro řadu Pixel 10.",
-      "slug": "google-rolling-out-new-pixel-10-sounds-but-the-upd",
-      "publishedAt": "2025-11-05T15:05:00+00:00",
-      "date": "2025-11-05 15:05:00",
-      "importance": 2,
-      "category": "mobilní zařízení",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-05/google-rolling-out-new-pixel-10-sounds-but-the-upd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ford Maverick 300T Concept využívá turbo z Mustangu pro výkon 300 koní, firma plánuje prodej zákazníkům",
-      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní díky turbodmychadlu z Mustangu. Firma plánuje zahájit prodej této verze v roce 2026.",
+      "title": "Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu a půjde do prodeje",
+      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového Mustangu.",
       "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
       "publishedAt": "2025-11-05T15:01:08+00:00",
       "date": "2025-11-05 15:01:08",
@@ -364,7 +426,7 @@
     },
     {
       "title": "Motorola představuje další levný telefon se 7000mAh baterií a Androidem 16",
-      "description": "Moto G57 Power míří na evropský trh s výdrží na několik dní, 120Hz displejem a nejnovějším procesorem Snapdragon 6s Gen 4.",
+      "description": "Moto G57 Power míří na evropský trh s výdrží na několik dní, 120Hz displejem a nejnovějším čipsetem Snapdragon 6s Gen 4.",
       "slug": "motorola-is-releasing-yet-another-low-cost-mid-ran",
       "publishedAt": "2025-11-05T14:07:07+00:00",
       "date": "2025-11-05 14:07:07",
@@ -3707,24 +3769,6 @@
       "people": []
     },
     {
-      "title": "Semiconductor startup to fly payloads on Falcon 9 boosters - SpaceNews",
-      "description": "A startup plans to test technology to produce semiconductors in space on a series of Falcon 9 launches using payloads attached to the rocket’s booster.",
-      "slug": "semiconductor-startup-to-fly-payloads-on-falcon-9-",
-      "publishedAt": "2025-10-31T23:15:01+00:00",
-      "date": "2025-10-31 23:15:01",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2021/05/50631642722_5f82f17757_k.jpg",
-      "url": "/tech-news/2025-10-31/semiconductor-startup-to-fly-payloads-on-falcon-9-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "This advanced ad-blocking app is only $19 for life - Mashable",
       "description": "Block annoying ads and protect your devices.",
       "slug": "this-advanced-ad-blocking-app-is-only-19-for-life-",
@@ -3756,24 +3800,6 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Rumor: iPhone 18 Pro to come in three all-new colors - 9to5Mac",
-      "description": "Unlike any ‘Pro’ iPhone before it, the iPhone 17 Pro is available in a bright cosmic orange color. This trend...",
-      "slug": "rumor-iphone-18-pro-to-come-in-three-all-new-color",
-      "publishedAt": "2025-10-31T16:54:56+00:00",
-      "date": "2025-10-31 16:54:56",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-18-pro-color-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/rumor-iphone-18-pro-to-come-in-three-all-new-color/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
       },
       "companies": [],
       "people": []
@@ -3882,24 +3908,6 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sora now lets you pay extra to make more AI videos - The Verge",
-      "description": "More monetization is on the way, including cuts to free AI video allowances.",
-      "slug": "sora-now-lets-you-pay-extra-to-make-more-ai-videos",
-      "publishedAt": "2025-10-31T11:16:01+00:00",
-      "date": "2025-10-31 11:16:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939746.jpg?quality=90&strip=all&crop=0%2C10.73009041629%2C100%2C78.53981916742&w=1200",
-      "url": "/tech-news/2025-10-31/sora-now-lets-you-pay-extra-to-make-more-ai-videos/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
       },
       "companies": [],
       "people": []

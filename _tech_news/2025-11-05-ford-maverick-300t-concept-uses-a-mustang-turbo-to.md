@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: automobilový průmysl
 date: '2025-11-05 15:01:08'
 description: Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300
-  koní díky turbodmychadlu z Mustangu. Firma plánuje zahájit prodej této verze v roce
-  2026.
+  koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového
+  Mustangu.
 importance: 3
 layout: tech_news_article
 original_title: Ford Maverick 300T Concept Uses A Mustang Turbo To Hit 300 HP, And
@@ -15,8 +15,8 @@ source:
   emoji: 📰
   id: null
   name: Jalopnik
-title: Ford Maverick 300T Concept využívá turbo z Mustangu pro výkon 300 koní, firma
-  plánuje prodej zákazníkům
+title: Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu
+  a půjde do prodeje
 url: https://www.jalopnik.com/2017892/ford-mavertick-300t-concept-sema/
 urlToImage: https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg
 urlToImageBackup: https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg
@@ -24,29 +24,29 @@ urlToImageBackup: https://www.jalopnik.com/img/gallery/ford-maverick-300t-concep
 
 ## Souhrn
 
-Ford představil na veletrhu SEMA 2025 koncept Maverick 300T, vylepšenou verzi svého kompaktního pickupu s výkonem 300 koní. Místo výměny motoru firma použila turbodmychadlo ze čtyřválcového Mustangu na stávajícím dvoulitrovém agregátu. Prodej zákazníkům má začít v průběhu roku 2026.
+Ford představil na veletrhu SEMA 2025 koncept pickupu Maverick 300T, který dosahuje výkonu 300 koní díky turbodmychadlu přejatému z čtyřválcového Mustangu. Na rozdíl od běžných konceptů plánuje automobilka tento vylepšený model skutečně uvést na trh v průběhu roku 2026.
 
 ## Klíčové body
 
-- Výkon zvýšen na 300 koní a 430 Nm točivého momentu (nárůst o 50 koní a 54 Nm)
-- Turbodmychadlo přeneseno z čtyřválcového Mustangu na dvoulitrový motor Mavericku
-- Instalován o 59 % větší mezichladič od firmy Mishimoto
+- Výkon zvýšen o 50 koní na 300 koní a točivý moment o 40 liber-stop na 317 liber-stop
+- Využívá turbodmychadlo z čtyřválcového Mustangu namontované na stávající 2.0litrový čtyřválec
+- Vylepšený chladicí systém s o 59 % větším mezichladičem od firmy Mishimoto
 - Plánovaný prodej zákazníkům od roku 2026
-- Manuální převodovka není k dispozici, protože Maverick ji nenabízí
+- Manuální převodovka není k dispozici, protože Maverick ji nenabízí ani v základní verzi
 
 ## Podrobnosti
 
-Ford Maverick se od svého uvedení stal prodejním úspěchem díky kombinaci kompaktních rozměrů, praktičnosti, nízké ceny a úspornosti. Pro modelový rok 2025 firma představila sportovní verzi Lobo, která však nepřinesla navýšení výkonu.
+Ford Maverick se od svého uvedení stal prodejním hitem díky kombinaci kompaktních rozměrů, praktičnosti, nízké ceny a úspornosti. Pro modelový rok 2025 Ford představil sportovní verzi Lobo, která však nepřinesla navýšení výkonu. Koncept 300T tuto mezeru vyplňuje.
 
-Koncept 300T řeší právě tento nedostatek. Základem zůstává přeplňovaný dvoulitrový čtyřválec, který však dostal turbodmychadlo z Mustangu. Výsledný výkon 300 koní a 430 Nm představuje výrazné zlepšení oproti standardním 250 koním a 376 Nm. Podle Fordu by měl být rozdíl ve výkonu dobře patrný při běžném používání.
+Základem zůstává přeplňovaný dvoulitrový čtyřválcový motor, který však dostal turbodmychadlo z čtyřválcového Mustangu. Tato úprava zvyšuje výkon z původních 250 na 300 koní a točivý moment z 277 na 317 liber-stop. Rozdíl by měl být podle Fordu dobře patrný při běžném používání.
 
-Upgradováno bylo i chlazení. Firma Mishimoto dodala mezichladič, který je o 59 % objemnější než sériový díl, což by mělo zajistit stabilní výkon i při vyšší zátěži. Tato úprava je klíčová pro udržení spolehlivosti při zvýšeném výkonu.
+Součástí úprav je také výrazně větší mezichladič od společnosti Mishimoto, který je o 59 procent objemnější než sériový díl. Lepší chlazení nasávaného vzduchu je klíčové pro stabilní výkon při vyšším zatížení motoru. Ford zatím nezveřejnil kompletní seznam všech technických úprav, ale naznačil, že koncept zahrnuje více než jen výměnu turbodmychadla.
 
-Ford zatím nespecifikoval přesné datum zahájení prodeje ani cenu balíčku úprav. Není jasné, zda půjde o tovární možnost objednatelnou přímo u dealerů, nebo o aftermarketový balíček dostupný přes Ford Performance.
+Maverick 300T zůstává vybaven automatickou převodovkou, protože manuál není u tohoto modelu dostupný v žádné verzi. Automobilka plánuje zahájit prodej této vylepšené verze v průběhu roku 2026, čímž se 300T stane jedním z mála konceptů ze SEMA, které skutečně dorazí k zákazníkům.
 
 ## Proč je to důležité
 
-Maverick 300T ukazuje, že Ford bere vážně poptávku po výkonnějších verzích svého kompaktního pickupu. Jde o zajímavý přístup – místo vývoje zcela nové verze firma využívá sdílení komponentů v rámci své nabídky. Tento koncept zapadá do širšího trendu automobilek nabízet tovární tuningové balíčky, které kombinují zvýšený výkon se zachováním záruky. Pro zákazníky to znamená možnost získat výkonnější vůz bez rizik spojených s úpravami třetích stran.
+Ford Maverick představuje úspěšný pokus o oživení segmentu kompaktních pickupů, který byl v USA dlouho opomíjen. Uvedení výkonnější verze 300T ukazuje, že automobilka reaguje na poptávku po sportovnějších variantách a zároveň testuje, jak daleko může posunout koncept dostupného pickupu. Skutečnost, že Ford plánuje koncept skutečně prodávat, naznačuje rostoucí zájem o aftermarketové úpravy přímo od výrobce, což může změnit přístup automobilek k nabídce výkonnostních verzí svých modelů.
 
 ---
 

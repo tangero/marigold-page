@@ -19,13 +19,13 @@ urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2
 urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-2560x1440.jpg
 ---
 
-Belgičtí lékaři řešili neobvyklý případ 83letého muže, který přišel s příznaky vzácné formy sekundární syfilidy, přestože tvrdil, že žije v monogamním manželství již 50 let a v posledních letech byl sexuálně neaktivní kvůli léčbě rakoviny.
+Belgičtí lékaři řešili neobvyklý případ 83letého muže, který přišel s těžkým svěděním a dalšími příznaky, které se nakonec ukázaly být vzácnou formou sekundární syfilidy. Pacient přitom tvrdil, že žije v monogamním manželství již 50 let a v posledních letech po léčbě rakoviny nebyl sexuálně aktivní.
 
-Případ začal, když muž přišel na pohotovost se silným svěděním. Měsíc předtím byl vyšetřován pro obrnu poloviny obličeje a zvýšené jaterní enzymy. Lékaři původně předpokládali virovou infekci, ale testy na HIV, Epstein-Barr, cytomegalovirus a hepatitidy A, B, C a E byly negativní. Obrna ustoupila po léčbě steroidy, ale abnormální jaterní hodnoty přetrvávaly.
+Případ začal měsíc před návštěvou pohotovosti, kdy muž vyhledal lékaře kvůli ochrnutí poloviny obličeje. Testy odhalily zvýšené jaterní enzymy, lékaři předpokládali virovou infekci, ale testy na HIV, Epstein-Barr, cytomegalovirus a hepatitidy A, B, C a E byly negativní. Ochrnutí ustoupilo po léčbě steroidy, abnormální jaterní testy však přetrvávaly.
 
-K původním příznakům se postupně přidala bolest kloubů v kolenou a kotnících, celková slabost, ztráta chuti k jídlu a otoky nohou, občas i obličeje, rukou a paží. Tato nespecifická kombinace příznaků mohla ukazovat na řadu možných příčin - od vedlejších účinků léků přes zánětlivá onemocnění až po autoimunitní poruchy.
+Při návštěvě pohotovosti se k původním příznakům přidaly bolesti kloubů v kolenou a kotnících, celková slabost, ztráta chuti k jídlu a otoky nohou, občas i obličeje, rukou a paží. Lékaři zvažovali různé možnosti včetně vedlejších účinků léků, zánětů, infekcí nebo autoimunitních onemocnění.
 
-Syfilida je pohlavně přenosné bakteriální onemocnění, které má čtyři stadia a bývá označována jako "mistr přestrojení" kvůli rozmanitosti příznaků. Sekundární stadium, které se u pacienta projevilo, je vzácnou formou této nemoci. Případ publikovaný v New England Journal of Medicine ukazuje diagnostický proces, který lékaři použili k určení správné diagnózy, ale stále nezodpověděl všechny otázky - především jak se muž nakazil, pokud skutečně žil v monogamním vztahu.
+Případ publikovaný v New England Journal of Medicine ukazuje, jak obtížná může být diagnostika syfilidy, která bývá označována jako "mistr přestrojení" kvůli rozmanitým příznakům. Diagnóza vzácné formy sekundární syfilidy u pacienta tvrdícího dlouhodobou monogamii vyvolává otázky ohledně pravdivosti jeho tvrzení o sexuální neaktivitě.
 
 ---
 
