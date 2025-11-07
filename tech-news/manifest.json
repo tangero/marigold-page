@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-07T08:25:48.212016+00:00",
+  "generated": "2025-11-07T09:09:35.387482+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Vzácná forma syfilidy u staršího muže málem zmátla lékaře",
-      "description": "83letý muž tvrdil, že žije v monogamním manželství 50 let, ale diagnóza vzácné formy pohlavní nemoci vyvolává otázky o pravdivosti jeho tvrzení.",
+      "title": "Vzácná forma syfilis u ženatého seniora zmátla lékaře",
+      "description": "Případ 83letého muže s netypickými příznaky druhotné syfilis ukazuje, jak obtížné je diagnostikovat sexuálně přenosné infekce u starších pacientů a jak důležité je úplné a pravdivé sdílení anamnézy.",
       "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
       "publishedAt": "2025-11-05T23:29:42+00:00",
       "date": "2025-11-05 23:29:42",
-      "importance": 2,
+      "importance": 1,
       "category": "zdraví",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-2560x1440.jpg",
       "url": "/tech-news/2025-11-05/rare-form-of-syphilis-in-married-elderly-man-nearl/",
@@ -21,13 +21,13 @@
       "people": []
     },
     {
-      "title": "Moderní CD přehrávače s Bluetooth zažívají comeback",
-      "description": "Nová generace přenosných CD přehrávačů kombinuje retro technologii s moderními funkcemi jako Bluetooth konektivita a USB-C nabíjení.",
+      "title": "Tech trend alert: moderní Bluetooth CD přehrávače vracejí do hry fyzická alba",
+      "description": "Nová generace přenosných CD přehrávačů kombinuje retro formát s moderními funkcemi jako Bluetooth, USB-C a anti-skip, a cílí na mladší uživatele hledající fyzické nosiče bez ztráty pohodlí současné techniky.",
       "slug": "tech-trend-alert-high-tech-bluetooth-cd-players-ar",
       "publishedAt": "2025-11-05T22:11:13+00:00",
       "date": "2025-11-05 22:11:13",
       "importance": 3,
-      "category": "audio technika",
+      "category": "hardware",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
       "url": "/tech-news/2025-11-05/tech-trend-alert-high-tech-bluetooth-cd-players-ar/",
       "source": {
@@ -60,13 +60,13 @@
       "people": []
     },
     {
-      "title": "Apple údajně jedná s Googlem o miliardové smlouvě na vylepšení Siri",
-      "description": "Podle zpráv Bloomberg má Apple zaplatit Googlu přibližně miliardu dolarů ročně za vlastní verzi modelu Gemini AI, která by měla dočasně pohánět přepracovanou Siri.",
+      "title": "Apple má blízko k dohodě s Googlem: až 1 miliarda dolarů ročně za AI pro nový Siri",
+      "description": "Apple podle informací Bloomberg jedná o dohodě, v rámci které by platil Googlu zhruba 1 miliardu dolarů ročně za nasazení upravené verze modelu Gemini AI pro výrazně přepracovaného hlasového asistenta Siri, než dozraje jeho vlastní AI infrastruktura.",
       "slug": "apple-nears-deal-to-pay-google-1b-annually-to-powe",
       "publishedAt": "2025-11-05T20:37:47+00:00",
       "date": "2025-11-05 20:37:47",
-      "importance": 2,
-      "category": "hlasové asistenty",
+      "importance": 4,
+      "category": "ai asistent",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
       "url": "/tech-news/2025-11-05/apple-nears-deal-to-pay-google-1b-annually-to-powe/",
       "source": {
@@ -76,18 +76,22 @@
       },
       "companies": [
         "Apple",
-        "Google"
+        "Google",
+        "TechCrunch"
       ],
-      "people": []
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai"
+      ]
     },
     {
-      "title": "iOS 26.2 vyjde v polovině prosince s novými funkcemi pro Podcasty a Připomínky",
-      "description": "Apple vydá iOS 26.2 pravděpodobně kolem 10.-15. prosince. Aktualizace přinese AI-generované kapitoly v Podcastech, nové alarmy v Připomínkách a vylepšené hodnocení spánku.",
+      "title": "iOS 26.2: Očekávané vydání a nové funkce pro iPhone v prosinci",
+      "description": "Apple připravuje aktualizaci iOS 26.2 s novými funkcemi pro iPhone, která by měla vyjít v polovině prosince. Beta verze ukazuje změny v Apple Podcasts, Apple News, Připomínkách, Freeform, měření spánku i přizpůsobení uzamčené obrazovky.",
       "slug": "ios-262-release-date-heres-when-new-iphone-feature",
       "publishedAt": "2025-11-05T20:20:00+00:00",
       "date": "2025-11-05 20:20:00",
       "importance": 3,
-      "category": "mobilní systémy",
+      "category": "mobilní operační sys",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-05/ios-262-release-date-heres-when-new-iphone-feature/",
       "source": {
@@ -96,7 +100,8 @@
         "name": "9to5Mac"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "9to5Mac"
       ],
       "people": []
     },
@@ -122,8 +127,8 @@
       "people": []
     },
     {
-      "title": "Spor Disney a Google zasáhl Movies Anywhere, nákupy filmů se přestaly synchronizovat",
-      "description": "Konflikt mezi Disneym a Googlem se rozšířil na službu Movies Anywhere. Google Play a YouTube již nesynchronizují digitální knihovny filmů napříč platformami.",
+      "title": "Spor Disney a Google dopadá na Movies Anywhere: Google Play a YouTube končí se synchronizací digitálních filmů",
+      "description": "Probíhající spor mezi Disney a Google zasahuje i službu Movies Anywhere. Google Play a YouTube přestávají synchronizovat digitální filmové nákupy, což narušuje dosud fungující propojení knihoven napříč platformami.",
       "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
       "publishedAt": "2025-11-05T19:58:00+00:00",
       "date": "2025-11-05 19:58:00",
@@ -137,8 +142,10 @@
         "name": "9to5google.com"
       },
       "companies": [
+        "Disney",
         "Google",
-        "Disney"
+        "Movies Anywhere",
+        "Apple"
       ],
       "people": []
     },
@@ -168,13 +175,13 @@
       ]
     },
     {
-      "title": "Rodina telefonů Pixel 10 se slevou na Amazonu",
-      "description": "Na Amazonu jsou nyní dostupné všechny modely řady Pixel 10 se slevami od 200 do 300 dolarů. Akce zahrnuje základní Pixel 10, modely Pro a Pro XL i skládací verzi Pro Fold.",
+      "title": "Amazon zlevnil celou řadu telefonů Pixel 10, včetně modelu Pro Fold",
+      "description": "Amazon dočasně zlevnil všechny varianty telefonů Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL a Pixel 10 Pro Fold. Sleva otevírá prostor pro levnější vstup do ekosystému Google, ale je časově i skladově omezená.",
       "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
       "publishedAt": "2025-11-05T19:06:00+00:00",
       "date": "2025-11-05 19:06:00",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "hardware",
       "urlToImage": "https://media.wired.com/photos/690b9f2393120774bebe626f/191:100/w_1280,c_limit/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png",
       "url": "/tech-news/2025-11-05/the-pixel-10-family-is-marked-down-on-amazon-wired/",
       "source": {
@@ -183,14 +190,13 @@
         "name": "Wired"
       },
       "companies": [
-        "Google",
-        "Amazon"
+        "Google"
       ],
       "people": []
     },
     {
-      "title": "Google vydal novou aplikaci Theme packs pro telefony Pixel",
-      "description": "Google představil aplikaci Theme packs v Obchodě Play, která umožňuje uživatelům telefonů Pixel přizpůsobit vzhled zařízení jedním klepnutím pomocí sezónních balíčků motivů.",
+      "title": "Google uvádí aplikaci Theme packs pro rychlé přizpůsobení telefonů Pixel",
+      "description": "Google spouští novou aplikaci Theme packs pro telefony Pixel 6 a novější, která umožní jedním krokem změnit tapety, ikony, zvuky a další prvky systému pomocí sezónních balíčků.",
       "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
       "publishedAt": "2025-11-05T18:31:00+00:00",
       "date": "2025-11-05 18:31:00",
@@ -204,18 +210,19 @@
         "name": "9to5google.com"
       },
       "companies": [
-        "Google"
+        "Google",
+        "9to5Google"
       ],
       "people": []
     },
     {
-      "title": "MacBook Air v Black Friday slevách s cenami od 749,99 dolarů",
-      "description": "Amazon spustil výrazné slevy na MacBook Air s čipem M4. Model s 13palcovou obrazovkou je k dispozici za historicky nejnižší cenu 749,99 dolarů.",
+      "title": "Black Friday sráží ceny MacBooku Air M4: 13\" od 749,99 USD, 15\" od 949,99 USD",
+      "description": "Předčasné Black Friday slevy na Amazonu přinášejí nové minimum cen pro MacBook Air s čipem M4, což výrazně snižuje vstupní náklady na aktuální generaci notebooků od Applu.",
       "slug": "macbook-air-black-friday-deals-arrive-with-new-low",
       "publishedAt": "2025-11-05T17:42:11+00:00",
       "date": "2025-11-05 17:42:11",
       "importance": 3,
-      "category": "slevy elektroniky",
+      "category": "hardware",
       "urlToImage": "https://images.macrumors.com/t/SShyYqJ0JMxbdO8QPeKvPzoc-eU=/2500x/article-new/2025/11/m4-macbook-air-snowmen.jpeg",
       "url": "/tech-news/2025-11-05/macbook-air-black-friday-deals-arrive-with-new-low/",
       "source": {
@@ -250,13 +257,13 @@
       "people": []
     },
     {
-      "title": "Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat",
-      "description": "Říjnové aktualizace Windows způsobují nečekaný požadavek na obnovovací klíč BitLocker. Uživatelé bez zálohy klíče riskují ztrátu všech dat na počítači.",
+      "title": "Chyba v aktualizacích Windows spouští BitLocker Recovery a může vést ke ztrátě dat",
+      "description": "Nedávné aktualizace Windows 10 a 11 mohou u části uživatelů vyvolat nečekanou obrazovku BitLocker Recovery. Pokud nemají uložený recovery klíč, hrozí ztráta přístupu k systému i k datům.",
       "slug": "bitlocker-recovery-bug-in-recent-windows-updates-c",
       "publishedAt": "2025-11-05T16:57:00+00:00",
       "date": "2025-11-05 16:57:00",
       "importance": 4,
-      "category": "zabezpečení systému",
+      "category": "kyberbezpečnost",
       "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/preboot-pin.png?w=1024",
       "url": "/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/",
       "source": {
@@ -270,13 +277,13 @@
       "people": []
     },
     {
-      "title": "Chytrý prsten Stream Ring umožňuje nahrávat hlasové poznámky šeptem",
-      "description": "Bývalí zaměstnanci Meta představili AI prsten Stream Ring za 249 dolarů, který nahrává a přepisuje šeptané poznámky a vytváří z nich strukturované záznamy.",
+      "title": "AI prsten Stream Ring umožní šeptem zaznamenávat hlasové poznámky",
+      "description": "Bývalí zaměstnanci Meta představili chytrý prsten Stream Ring, který umožňuje diskrétní záznam hlasových poznámek, jejich přepis a práci s osobním AI asistentem. Zařízení míří na trh v létě 2026 a cílí na uživatele hledající nenápadný nástroj pro průběžné zaznamenávání myšlenek.",
       "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
       "publishedAt": "2025-11-05T16:55:55+00:00",
       "date": "2025-11-05 16:55:55",
       "importance": 3,
-      "category": "chytré prsteny",
+      "category": "wearables",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-05/this-ai-smart-ring-lets-you-record-voice-notes-wit/",
       "source": {
@@ -285,18 +292,17 @@
         "name": "The Verge"
       },
       "companies": [
-        "Meta",
-        "The Verge"
+        "Meta"
       ],
       "people": []
     },
     {
-      "title": "Google chce postavit datová centra v orbitu pro uspokojení energetických nároků AI",
-      "description": "Google oznámil projekt Suncatcher, který zkoumá možnost vybudování konstelace satelitů s AI čipy v nízké oběžné dráze. Cílem je řešit rostoucí energetické nároky umělé inteligence.",
+      "title": "Google zvažuje datová centra pro AI na oběžné dráze v rámci projektu Suncatcher",
+      "description": "Google představil projekt Suncatcher, který zkoumá možnost provozovat výpočetní infrastrukturu pro AI na solárně napájených satelitních konstelacích s čipy TPU na nízké oběžné dráze Země, aby snížil energetické nároky a škáloval výkon mimo pozemní datová centra.",
       "slug": "if-you-want-to-satiate-ais-hunger-for-power-google",
       "publishedAt": "2025-11-05T16:36:12+00:00",
       "date": "2025-11-05 16:36:12",
-      "importance": 4,
+      "importance": 3,
       "category": "kosmonautika",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/googletpu-1152x648.jpg",
       "url": "/tech-news/2025-11-05/if-you-want-to-satiate-ais-hunger-for-power-google/",
@@ -306,18 +312,26 @@
         "name": "Ars Technica"
       },
       "companies": [
-        "Google"
+        "Google",
+        "Microsoft",
+        "Nvidia",
+        "OpenAI",
+        "SpaceX"
       ],
-      "people": []
+      "people": [
+        "Elon Musk",
+        "Tim Cook",
+        "Satya Nadella"
+      ]
     },
     {
-      "title": "Amazon Kanada spustila předčasné Black Friday slevy až 88 %",
-      "description": "Kanadská pobočka Amazonu zahájila předčasné Black Friday výprodeje s tisíci produkty se slevami až 88 %, včetně elektroniky, domácích potřeb a vánočních dekorací.",
+      "title": "Předčasné slevy na Black Friday na Amazon Canada: Elektronika, domácnost a dárky se slevou až 88 %",
+      "description": "Amazon Canada spustil rozsáhlé předčasné slevy k Black Friday, které pokrývají elektroniku, kuchyňské vybavení, domácí potřeby, kosmetiku i hračky, s deklarovanými slevami až 88 %. Nabídky se rychle mění a jsou cílené na zákazníky, kteří chtějí nakoupit vánoční dárky s předstihem.",
       "slug": "A-55-best-amazon-canada-early-black-friday-deals-y",
       "publishedAt": "2025-11-05T16:34:08+00:00",
       "date": "2025-11-05 16:34:08",
       "importance": 1,
-      "category": "e-commerce slevy",
+      "category": "e-commerce",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A13ERCyiYaQiDWWvkvrnyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/9da9c410-ba64-11f0-9dfd-ce661a600376",
       "url": "/tech-news/2025-11-05/A-55-best-amazon-canada-early-black-friday-deals-y/",
       "source": {
@@ -331,13 +345,13 @@
       "people": []
     },
     {
-      "title": "Nový Dodge Charger Scat Pack je nejsilnější americký sedan pod 60 000 dolarů",
-      "description": "Dodge představil čtyřdveřový sedan Charger Scat Pack s výkonem 550 koní z přeplňovaného šestiválce a pohonem všech kol za cenu od 56 995 dolarů.",
+      "title": "Nový Dodge Charger Scat Pack Sixpack: Nejvýkonnější sedan v USA pod 60 000 dolarů",
+      "description": "Dodge uvádí nový Charger Scat Pack se šestiválcem Hurricane o výkonu 550 koní, pohonem všech kol a cenou pod 60 000 dolarů, čímž míří na zákazníky hledající kombinaci vysokého výkonu, moderní techniky a relativně dostupné ceny.",
       "slug": "new-charger-sixpack-is-americas-most-powerful-seda",
       "publishedAt": "2025-11-05T16:23:31+00:00",
       "date": "2025-11-05 16:23:31",
       "importance": 3,
-      "category": "automobily",
+      "category": "automobilismus",
       "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/11/DG026_122CH-copy.jpg",
       "url": "/tech-news/2025-11-05/new-charger-sixpack-is-americas-most-powerful-seda/",
       "source": {
@@ -349,13 +363,13 @@
       "people": []
     },
     {
-      "title": "FHIBE: První eticky vytvořený dataset pro testování férovosti AI systémů",
-      "description": "Výzkumníci představili FHIBE, veřejně dostupný dataset lidských fotografií vytvořený s důrazem na souhlas, soukromí a diverzitu, který umožňuje testovat zkreslení v počítačovém vidění.",
+      "title": "Fair Human-Centric Image Benchmark: nový etický standard pro trénink a testování AI",
+      "description": "Výzkumníci představili dataset FHIBE, který kombinuje důraz na souhlas, soukromí, odměnu účastníků, bezpečnost a demografickou rozmanitost. Slouží k serióznímu testování férovosti a biasů v systémech počítačového vidění a nastavuje vyšší etický standard pro práci s daty.",
       "slug": "fair-human-centric-image-dataset-for-ethical-ai-be",
       "publishedAt": "2025-11-05T16:22:08+00:00",
       "date": "2025-11-05 16:22:08",
-      "importance": 4,
-      "category": "etická ai",
+      "importance": 3,
+      "category": "ai etika",
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09716-2/MediaObjects/41586_2025_9716_Fig1_HTML.png",
       "url": "/tech-news/2025-11-05/fair-human-centric-image-dataset-for-ethical-ai-be/",
       "source": {
@@ -367,13 +381,13 @@
       "people": []
     },
     {
-      "title": "Nové levnější APU od AMD by mohly nahradit základní grafické karty",
-      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové kategorii.",
+      "title": "AMD míří na rozpočetní herní segment: nové APU mohou ohrozit levné samostatné GPU",
+      "description": "Únik specifikací naznačuje, že připravované APU AMD Ryzen AI Max+ se silnou integrovanou grafikou mohou nabídnout výkon blízký levným dedikovaným GPU, a tím dále oslabit smysl nákupu nízkého segmentu grafických karet.",
       "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
       "publishedAt": "2025-11-05T16:16:16+00:00",
       "date": "2025-11-05 16:16:16",
-      "importance": 2,
-      "category": "procesory",
+      "importance": 3,
+      "category": "hardware",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/11/FrameworkDesktop-Teardown-Hero-WithHands-1-1200x675.jpg",
       "url": "/tech-news/2025-11-05/amds-new-cpus-might-just-kill-low-end-gpus-soon-gi/",
       "source": {
@@ -382,7 +396,9 @@
         "name": "Gizmodo.com"
       },
       "companies": [
-        "AMD"
+        "AMD",
+        "Nvidia",
+        "Intel"
       ],
       "people": []
     },
@@ -407,13 +423,13 @@
       "people": []
     },
     {
-      "title": "Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu a půjde do prodeje",
-      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového Mustangu.",
+      "title": "Ford Maverick 300T Concept: 300koňový pickup s turbem z Mustangu míří k zákazníkům",
+      "description": "Ford představil koncept Maverick 300T s výkonem 300 koní díky turbodmychadlu z Mustangu a plánuje jej nabídnout jako oficiální balíček pro zákazníky. Upravuje současný 2,0litrový motor EcoBoost bez zásahu do základní koncepce vozu.",
       "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
       "publishedAt": "2025-11-05T15:01:08+00:00",
       "date": "2025-11-05 15:01:08",
       "importance": 3,
-      "category": "automobilový průmysl",
+      "category": "automobilismus",
       "urlToImage": "https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg",
       "url": "/tech-news/2025-11-05/ford-maverick-300t-concept-uses-a-mustang-turbo-to/",
       "source": {
@@ -421,17 +437,19 @@
         "id": null,
         "name": "Jalopnik"
       },
-      "companies": [],
+      "companies": [
+        "Ford"
+      ],
       "people": []
     },
     {
-      "title": "Motorola představuje další levný telefon se 7000mAh baterií a Androidem 16",
-      "description": "Moto G57 Power míří na evropský trh s výdrží na několik dní, 120Hz displejem a nejnovějším čipsetem Snapdragon 6s Gen 4.",
+      "title": "Motorola představuje Moto G57 Power: levný 5G telefon s baterií 7 000 mAh a Androidem 16",
+      "description": "Motorola rozšiřuje řadu dostupných smartphonů o model Moto G57 Power s baterií 7 000 mAh, novým čipem Snapdragon 6s Gen 4, 120Hz displejem a Androidem 16, cíleným zejména na evropské uživatele.",
       "slug": "motorola-is-releasing-yet-another-low-cost-mid-ran",
       "publishedAt": "2025-11-05T14:07:07+00:00",
       "date": "2025-11-05 14:07:07",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "smartphony",
       "urlToImage": "https://m-cdn.phonearena.com/images/article/175490-wide-two_1200/Motorola-is-releasing-yet-another-low-cost-mid-ranger-with-a-7000mAh-battery-and-Android-16.jpg",
       "url": "/tech-news/2025-11-05/motorola-is-releasing-yet-another-low-cost-mid-ran/",
       "source": {
@@ -441,7 +459,7 @@
       },
       "companies": [
         "Motorola",
-        "Google"
+        "PhoneArena"
       ],
       "people": []
     },

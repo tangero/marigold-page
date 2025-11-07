@@ -1,10 +1,12 @@
 ---
 author: Marisa Aigen
-category: automobilový průmysl
+category: automobilismus
+companies:
+- Ford
 date: '2025-11-05 15:01:08'
-description: Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300
-  koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového
-  Mustangu.
+description: Ford představil koncept Maverick 300T s výkonem 300 koní díky turbodmychadlu
+  z Mustangu a plánuje jej nabídnout jako oficiální balíček pro zákazníky. Upravuje
+  současný 2,0litrový motor EcoBoost bez zásahu do základní koncepce vozu.
 importance: 3
 layout: tech_news_article
 original_title: Ford Maverick 300T Concept Uses A Mustang Turbo To Hit 300 HP, And
@@ -15,38 +17,33 @@ source:
   emoji: 📰
   id: null
   name: Jalopnik
-title: Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu
-  a půjde do prodeje
+title: 'Ford Maverick 300T Concept: 300koňový pickup s turbem z Mustangu míří k zákazníkům'
 url: https://www.jalopnik.com/2017892/ford-mavertick-300t-concept-sema/
 urlToImage: https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg
 urlToImageBackup: https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg
 ---
 
 ## Souhrn
-
-Ford představil na veletrhu SEMA 2025 koncept pickupu Maverick 300T, který dosahuje výkonu 300 koní díky turbodmychadlu přejatému z čtyřválcového Mustangu. Na rozdíl od běžných konceptů plánuje automobilka tento vylepšený model skutečně uvést na trh v průběhu roku 2026.
+Ford rozšiřuje možnosti kompaktního pick-upu Maverick představením konceptu Maverick 300T, který využívá turbodmychadlo z čtyřválcového Mustangu a zvyšuje výkon na 300 koní a 317 lb-ft (cca 430 Nm). Tento balíček nemá zůstat pouze showcar pro SEMA, ale Ford plánuje jeho reálné uvedení pro zákazníky v příštím roce.
 
 ## Klíčové body
-
-- Výkon zvýšen o 50 koní na 300 koní a točivý moment o 40 liber-stop na 317 liber-stop
-- Využívá turbodmychadlo z čtyřválcového Mustangu namontované na stávající 2.0litrový čtyřválec
-- Vylepšený chladicí systém s o 59 % větším mezichladičem od firmy Mishimoto
-- Plánovaný prodej zákazníkům od roku 2026
-- Manuální převodovka není k dispozici, protože Maverick ji nenabízí ani v základní verzi
+- Navýšení výkonu současného 2,0litrového EcoBoost motoru na 300 koní bez kompletní výměny agregátu.
+- Použití turbodmychadla z Mustangu a zvětšeného intercooleru Mishimoto (o 59 % větší než sériový).
+- Oficiální plán Fordu nabídnout 300T jako dostupný balíček pro zákazníky, nikoli pouze jako koncept.
+- Koncept staví na rostoucí popularitě levnějších a úsporných pick-upů, zároveň reaguje na poptávku po vyšším výkonu.
+- Přetrvává omezení v podobě absence manuální převodovky a zachování sériové koncepce místo radikálnějších úprav.
 
 ## Podrobnosti
+Maverick se ukázal jako strategicky úspěšný produkt: kompaktní, praktický, relativně úsporný pick-up, který zaplnil mezeru mezi klasickými velkými pick-upy a malými osobními vozy. Ford nyní na tento úspěch navazuje konceptem Maverick 300T představeným na tuningové a aftermarketové akci SEMA, kde automobilky tradičně testují reakce trhu na výkonnější či specializované verze.
 
-Ford Maverick se od svého uvedení stal prodejním hitem díky kombinaci kompaktních rozměrů, praktičnosti, nízké ceny a úspornosti. Pro modelový rok 2025 Ford představil sportovní verzi Lobo, která však nepřinesla navýšení výkonu. Koncept 300T tuto mezeru vyplňuje.
+Maverick 300T nevyměňuje motor, ale upravuje stávající přeplňovaný 2,0litrový čtyřválec EcoBoost. Klíčovým prvkem je turbodmychadlo převzaté z čtyřválcového Mustangu, díky němuž výkon stoupá přibližně o 50 koní a točivý moment o zhruba 40 lb-ft oproti sérii. V kombinaci s větším intercoolerem Mishimoto, který má o 59 % větší tepelnou kapacitu než sériový, by mělo dojít k stabilnějšímu výkonu při dlouhodobé zátěži a nižší náchylnosti k přehřívání a poklesu výkonu.
 
-Základem zůstává přeplňovaný dvoulitrový čtyřválcový motor, který však dostal turbodmychadlo z čtyřválcového Mustangu. Tato úprava zvyšuje výkon z původních 250 na 300 koní a točivý moment z 277 na 317 liber-stop. Rozdíl by měl být podle Fordu dobře patrný při běžném používání.
-
-Součástí úprav je také výrazně větší mezichladič od společnosti Mishimoto, který je o 59 procent objemnější než sériový díl. Lepší chlazení nasávaného vzduchu je klíčové pro stabilní výkon při vyšším zatížení motoru. Ford zatím nezveřejnil kompletní seznam všech technických úprav, ale naznačil, že koncept zahrnuje více než jen výměnu turbodmychadla.
-
-Maverick 300T zůstává vybaven automatickou převodovkou, protože manuál není u tohoto modelu dostupný v žádné verzi. Automobilka plánuje zahájit prodej této vylepšené verze v průběhu roku 2026, čímž se 300T stane jedním z mála konceptů ze SEMA, které skutečně dorazí k zákazníkům.
+Ford koncept rámuje marketingově jako „Mustang DNA“ v pick-upu, reálně však jde o technicky relativně přímočarý upgrade přeplňování a chlazení. Přesto je podstatné, že jde o úpravu přímo od výrobce, což znamená lepší sladění se sériovou elektronikou, emisními limity, potenciálně zachovanou zárukou a menší rizika oproti neoficiálním úpravám. Pro uživatele to představuje možnost získat z Mavericku svižnější vůz pro každodenní použití, lehkou práci i rekreační využití bez nutnosti radikálních zásahů.
 
 ## Proč je to důležité
+Tento krok zapadá do trendu, kdy automobilky rozšiřují nabídku o továrně schválené výkonnostní balíčky namísto spoléhání na neoficiální tuning. Pro Ford to znamená monetizaci silné poptávky po Mavericku a zároveň udržení zákazníků v rámci vlastního ekosystému dílů a servisu.
 
-Ford Maverick představuje úspěšný pokus o oživení segmentu kompaktních pickupů, který byl v USA dlouho opomíjen. Uvedení výkonnější verze 300T ukazuje, že automobilka reaguje na poptávku po sportovnějších variantách a zároveň testuje, jak daleko může posunout koncept dostupného pickupu. Skutečnost, že Ford plánuje koncept skutečně prodávat, naznačuje rostoucí zájem o aftermarketové úpravy přímo od výrobce, což může změnit přístup automobilek k nabídce výkonnostních verzí svých modelů.
+Pro trh je podstatné, že i v segmentu cenově dostupných pick-upů výrobce nabízí výkonnější variantu bez extrémního navýšení ceny a bez přechodu k větším, méně úsporným modelům. Z pohledu technického vývoje nejde o průlom, ale o pragmatické využití stávající techniky (EcoBoost, díly z Mustangu, větší intercooler) k vytvoření produktu s jasně cílenou hodnotou: vyšší výkon, oficiální podpora, relativně nízké provozní náklady. To může podpořit další rozvoj modulárních platforem a sdílení komponent napříč modelovými řadami, což je trend patrný napříč automobilovým průmyslem.
 
 ---
 

@@ -1,12 +1,15 @@
 ---
-category: procesory
+author: Marisa Aigen
+category: hardware
 companies:
 - AMD
+- Nvidia
+- Intel
 date: '2025-11-05 16:16:16'
-description: AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou
-  grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové
-  kategorii.
-importance: 2
+description: Únik specifikací naznačuje, že připravované APU AMD Ryzen AI Max+ se
+  silnou integrovanou grafikou mohou nabídnout výkon blízký levným dedikovaným GPU,
+  a tím dále oslabit smysl nákupu nízkého segmentu grafických karet.
+importance: 3
 layout: tech_news_article
 original_title: AMD’s New CPUs Might Just Kill Low-End GPUs Soon - Gizmodo
 publishedAt: '2025-11-05T16:16:16+00:00'
@@ -15,35 +18,34 @@ source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: Nové levnější APU od AMD by mohly nahradit základní grafické karty
+title: 'AMD míří na rozpočetní herní segment: nové APU mohou ohrozit levné samostatné
+  GPU'
 url: https://gizmodo.com/amd-ai-max-plus-388-and-ryzen-ai-max-plus-392-cpu-specs-leak-2000681922
 urlToImage: https://gizmodo.com/app/uploads/2025/11/FrameworkDesktop-Teardown-Hero-WithHands-1-1200x675.jpg
 urlToImageBackup: https://gizmodo.com/app/uploads/2025/11/FrameworkDesktop-Teardown-Hero-WithHands-1-1200x675.jpg
 ---
 
-## Shrnutí
-
-V benchmarkovém softwaru PassMark se objevily údaje o dvou nových procesorech AMD z řady Strix Halo - Ryzen AI Max+ 388 a 392. Tyto levnější varianty by měly nabídnout podobné grafické schopnosti jako dražší model 395, což z nich činí zajímavou alternativu k samostatným GPU v základní cenové kategorii. Informace však pochází pouze z uniklých specifikací a AMD je oficiálně nepotvrdilo.
+## Souhrn
+AMD připravuje nové procesory Ryzen AI Max+ se silnou integrovanou grafikou Radeon 8060S, které by mohly výrazně zúžit prostor pro levné dedikované GPU. Úniky ukazují na kombinaci vícejádrových CPU, AI akcelerace a grafického výkonu dostatečného pro hraní ve Full HD až 1440p bez nutnosti samostatné grafické karty.
 
 ## Klíčové body
-
-- Ryzen AI Max+ 388 má mít 8 jader s taktem až 5 GHz, varianta 392 pak 12 jader
-- Oba čipy by měly obsahovat plnou verzi integrované grafiky Radeon 8060S se 40 výpočetními jednotkami
-- Radeon 8060S nabízí výkon vhodný pro hraní v rozlišení 1080p až 1440p
-- Pro srovnání - samostatná Radeon RX 9060 má 28 výpočetních jednotek plus dedikované jednotky pro ray tracing a AI
-- Informace pochází z uniklých dat v PassMark, nikoli z oficiálního oznámení AMD
+- Únik údajů z PassMark naznačuje modely Ryzen AI Max+ 388 (8 jader) a 392 (12 jader) s integrovanou GPU Radeon 8060S.
+- Radeon 8060S má 40 compute units a cílí na výkon v rozlišení 1080p–1440p, čímž se přibližuje levným dedikovaným GPU.
+- Současný low-end GPU trh (např. GeForce RTX 5060) nabízí jen malá zlepšení výkonu při relativně vysoké ceně.
+- Kombinace CPU, GPU a AI akcelerace v jednom čipu může být cenově i energeticky výhodnější než sestavy s levným samostatným GPU.
+- Trend potvrzuje posun k integrovaným řešením, která jsou pro běžné hráče a multimediální použití stále atraktivnější.
 
 ## Podrobnosti
+Nové informace vycházejí z veřejných databází benchmarku PassMark a z analýz specializovaného webu VideoCardz, který dlouhodobě sleduje úniky a parametry grafických karet a procesorů. Podle těchto dat AMD chystá rozšíření řady Strix Halo o modely Ryzen AI Max+ 388 a 392, jež by měly přinést část schopností vlajkového modelu Ryzen AI Max+ 395 do dostupnější cenové hladiny. Označení „Max+“ má souviset s integrací plnohodnotné GPU Radeon 8060S v některých variantách.
 
-APU (Accelerated Processing Unit) jsou procesory kombinující CPU a GPU na jednom čipu. AMD s řadou Strix Halo, konkrétně s modelem Ryzen AI Max+ 395, ukázalo, že integrovaná grafika může dosáhnout výkonu srovnatelného se samostatnými grafickými kartami základní třídy. Gizmodo testovalo tento čip v počítači Framework Desktop a potvrdilo jeho schopnosti.
+Radeon 8060S má podle dostupných informací 40 compute units, což je parametr určující počet výpočetních bloků GPU a tím i potenciální grafický výkon. Ve srovnání s levnými dedikovanými kartami, jako jsou modely nižší třídy GeForce RTX 40/50 a Radeon RX 7000/9000, může takové APU nabídnout dostatečný výkon pro hry ve Full HD, případně 1440p při rozumných nastaveních, a současně nižší celkové náklady na sestavu i jednodušší chlazení. Testy stávajícího Ryzen AI Max na systémech jako Framework Desktop ukázaly, že i v kompaktních konfiguracích lze dosáhnout solidního herního výkonu bez samostatné grafické karty.
 
-Nově objevené modely 388 a 392 by měly nabídnout stejnou integrovanou grafiku Radeon 8060S, ale s nižším počtem CPU jader a pravděpodobně i nižší cenou. Model 388 s 8 jádry a 392 se 12 jádry by měly pokrýt širší spektrum uživatelů, kteří nepotřebují plných 16 jader vlajkového modelu 395.
-
-Trh s GPU v základní cenové kategorii v poslední době stagnuje. Nvidia GeForce RTX 5060 přinesla podle kritiků jen minimální vylepšení oproti předchůdci RTX 4060. V této situaci se APU s výkonnou integrovanou grafikou jeví jako praktičtější řešení - uživatel získá funkční procesor i grafiku v jednom balení za potenciálně nižší cenu než při kombinaci samostatného CPU a GPU.
+Současně je zřejmé, že low-end segment dedikovaných GPU stagnuje. GeForce RTX 5060 je vnímána jen jako mírná evoluce RTX 4060 se sporným poměrem ceny a výkonu, přičemž uživatelé často platí za samostatnou kartu, která nepřináší výrazný posun proti moderním integrovaným řešením. Pokud AMD dodrží naznačený směr – kombinace více jader CPU, výkonné integrované GPU a AI akcelerace v jednom čipu – může to výrazně snížit motivaci kupovat levné samostatné GPU.
 
 ## Proč je to důležité
+Pro uživatele to znamená, že v horizontu nejbližších generací bude možné stavět levnější, úspornější a kompaktnější počítače schopné plynule spouštět běžné hry a náročnější multimediální aplikace bez potřeby dedikované GPU. Pro výrobce notebooků a mini PC jde o možnost zjednodušit návrh zařízení, snížit spotřebu a zlepšit poměr cena/výkon.
 
-Pokud se informace potvrdí, AMD by mohlo výrazně změnit segment základních herních počítačů. Místo investice do samostatné grafické karty by uživatelé mohli získat srovnatelný výkon přímo v procesoru. To má smysl zejména v době, kdy výrobci GPU jako Nvidia a AMD soustředí inovace především na dražší modely a základní řada zaostává. Jedná se však zatím pouze o spekulace založené na uniklých datech, nikoli o potvrzené produkty.
+Pro celý trh to představuje tlak na výrobce dedikovaných GPU, zejména v nižším segmentu. Pokud integrovaná řešení, jako jsou Ryzen AI Max+ APU, nabídnou podobný či přijatelně nižší výkon za nižší celkovou cenu platformy, levné grafické karty mohou postupně ztrácet smysl. Tento trend zároveň potvrzuje širší posun k čipům „vše v jednom“, které kombinují CPU, GPU a AI akceleraci a tím mění způsob, jakým se navrhují herní, kancelářské i multimediální systémy.
 
 ---
 
