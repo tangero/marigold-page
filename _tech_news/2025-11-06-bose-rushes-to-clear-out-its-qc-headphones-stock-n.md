@@ -5,52 +5,53 @@ companies:
 - Bose
 - Sony
 - Apple
-- Gizmodo
 date: '2025-11-06 01:12:44'
-description: Bose snižuje cenu svých prémiových QuietComfort sluchátek z 349 na 199
-  dolarů, čímž nabízí plnohodnotné aktivní potlačení hluku a dlouhou výdrž baterie
-  levněji než základní modely konkurenčních značek. Tento krok může krátkodobě změnit
-  poměr cena/výkon v segmentu prémiových bezdrátových sluchátek.
+description: Bose snižuje cenu svých prémiových ANC sluchátek QuietComfort z 349 na
+  199 dolarů, čímž agresivně vyprodává skladové zásoby a vytváří cenový tlak na konkurenty
+  jako Sony a Apple.
 importance: 3
 layout: tech_news_article
 original_title: Bose Rushes to Clear Out Its QC Headphones Stock, Now Selling Them
   3x Cheaper Than Direct Rivals Sony and Apple - Gizmodo
+people:
+- Sony
+- Apple
+- Bose
 publishedAt: '2025-11-06T01:12:44+00:00'
 slug: bose-rushes-to-clear-out-its-qc-headphones-stock-n
 source:
   emoji: 📰
   id: null
   name: Gizmodo.com
-title: 'Bose agresivně zlevňuje QuietComfort: špičková ANC sluchátka výrazně pod cenou
-  Sony a Applu'
+title: Bose výrazně zlevňuje sluchátka QuietComfort, tlačí na konkurenci Sony a Apple
 url: https://gizmodo.com/bose-rushes-to-clear-out-its-qc-headphones-stock-now-selling-them-3x-cheaper-than-direct-rivals-sony-and-apple-2000682015
 urlToImage: https://gizmodo.com/app/uploads/2025/08/bose-headphones-1200x675.jpg
 urlToImageBackup: https://gizmodo.com/app/uploads/2025/08/bose-headphones-1200x675.jpg
 ---
 
 ## Souhrn
-Bose výrazně zlevňuje svá prémiová over-ear sluchátka QuietComfort s aktivním potlačením hluku (ANC) z původních 349 na 199 dolarů. Výrobce se zjevně snaží rychle vyprodat zásoby a krátkodobě nabízí parametry vyšší třídy za cenu, která podbíjí základní modely Sony a Applu.
+Bose výrazně zlevňuje svá bezdrátová sluchátka s aktivním potlačením hluku (ANC) QuietComfort z 349 na 199 dolarů, což představuje zhruba 43% slevu. Tento krok dostává model QuietComfort cenově pod základní modely konkurenčních značek a může krátkodobě narušit rovnováhu v segmentu prémiových sluchátek.
 
 ## Klíčové body
-- Snížení ceny z 349 USD na 199 USD (cca 43 % dolů), hluboko pod cenou srovnatelných modelů Sony a Apple.
-- Aktivní potlačení hluku kombinované s pasivní izolací přes uzavřenou over-ear konstrukci.
-- Režimy Quiet Mode (plné ANC) a Aware Mode (propustnost okolních zvuků) pro různé situace.
-- Výdrž baterie až 24 hodin, rychlé nabíjení přes USB-C (cca 15 minut → ~2,5 hodiny poslechu).
-- Cílené vyprodávání zásob naznačuje přípravu nové generace produktů a tlak na konkurenci v prémiovém segmentu.
+- Snížení ceny QuietComfort z 349 USD na 199 USD (cca 43 % dolů)
+- Prémiové funkce: aktivní potlačení hluku, 24hodinová výdrž, USB-C rychlé nabíjení, režimy Quiet/Aware
+- Vysoce pohodlné přes uši (over-ear) provedení s pasivní izolací
+- Cenová úroveň pod základními modely Apple a Sony, míří na masovější publikum
+- Indikace možné generační obměny produktové řady nebo agresivní cenové strategie Bose
 
 ## Podrobnosti
-Bose patří dlouhodobě mezi referenční značky v oblasti sluchátek s aktivním potlačením hluku. Řada QuietComfort je vnímána jako standard pro cestování, kancelář a dlouhodobé nošení, především díky kombinaci stabilního ANC, pohodlné konstrukce a konzervativního, předvídatelného zvukového ladění. Aktuální cenová úprava na 199 dolarů posouvá tento model do cenové úrovně, kde běžně dominují kompromisní nebo starší generace sluchátek, často s horší ergonomií, méně účinným ANC a kratší výdrží.
+Bose, dlouhodobě etablovaná značka v oblasti sluchátek s aktivním potlačením hluku, razantně zlevnila model QuietComfort. Tato sluchátka byla původně uváděna jako prémiová volba s cenou 349 dolarů, což je srovnatelné s modely jako Sony WH-1000XM série či Apple AirPods Max. Aktuální cena 199 dolarů posouvá QuietComfort do segmentu, kde se obvykle nacházejí spíše kompromisní modely bez špičkového ANC.
 
-Technicky jde o uzavřená over-ear sluchátka, která spojují pasivní izolaci (plné překrytí ucha, měkké náušníky vytvářející těsnící polštář) s vlastním ANC systémem Bose. Ten pomocí mikrofonů a digitálního zpracování signálu aktivně potlačuje hluk motorů, kancelářský šum či ruch v hromadné dopravě. Režim Quiet Mode zajišťuje maximální potlačení, zatímco Aware Mode propouští klíčové zvuky okolí, například hlášení na letišti nebo hlas osoby, která na uživatele mluví. To je praktické pro uživatele pracující v otevřených kancelářích, při cestování i v městském provozu.
+Technicky jde o uzavřená přes uši (over-ear) sluchátka s kombinací aktivního potlačení hluku (ANC) a pasivní izolace díky měkkým náušníkům, které vytvářejí těsnící efekt kolem ucha. Bose nabízí dva hlavní režimy: Quiet Mode pro maximální potlačení okolních zvuků a Aware Mode, kdy mikrofony propouštějí část prostředí, aby uživatel slyšel například hlášení na letišti nebo osoby v okolí. Tento přepínatelný přístup je dnes standardem, ale v této cenové hladině obvykle mívá horší implementaci.
 
-Výdrž až 24 hodin na jedno nabití je v současném prémiovém segmentu standard, ale v kombinaci s rychlým dobíjením přes USB-C (několik minut nabíjení pro několik hodin poslechu) snižuje praktická omezení při delších cestách. Konstrukce je navržena pro dlouhodobé nošení: polstrovaný hlavový most rovnoměrně rozkládá tlak a náušníky nepřitlačují uši, ale je obklopují. Tím se snižuje únava při několikahodinovém používání, což je důležité pro profesionály, kteří sluchátka používají při práci, i pro cestující na dálkových letech.
+Výdrž baterie kolem 24 hodin na jedno nabití je pro cestování, každodenní dojíždění i práci v otevřených kancelářích dostatečná. Rychlé nabíjení přes USB-C, kde přibližně 15 minut zajistí několik hodin poslechu, řeší praktický problém náhlého vybití. Konstrukce s polstrovaným mostem a nízkým přítlakem cílí na dlouhodobé pohodlí, což je důležité pro uživatele, kteří sluchátka používají hodiny denně, včetně práce na dálku a častého létání.
 
-Výrazné zlevnění naznačuje jednak potřebu vyčistit sklady před nástupem nové generace, jednak snahu bránit podíl na trhu proti Sony, Apple a nově i Sonos, kteří se snaží o vstup do vyšší třídy sluchátek. Pro uživatele to v krátkodobém horizontu představuje možnost získat etablovaný produkt s prověřeným ANC za cenu, za kterou obvykle dostanou kompromisy.
+Z hlediska zvuku Bose nadále sází na konzervativní, většinově líbivý profil, ne na audiofilské experimenty. Nastavitelný ekvalizér (EQ) umožňuje upravit charakter zvuku podle preferencí, což je praktické pro uživatele mezi hudbou, konferenčními hovory a filmovým obsahem. V kombinaci s výraznou slevou se QuietComfort stává racionální volbou pro uživatele, kteří nepotřebují ekosystém Apple nebo specifické funkce Sony, ale chtějí kvalitní ANC a pohodlí bez extrémní ceny.
 
 ## Proč je to důležité
-Tento krok je významný hlavně z pohledu trhu s prémiovými audio zařízeními. Bose tím agresivně snižuje bariéru vstupu do vyšší třídy a nutí konkurenty obhajovat vyšší cenu svých modelů skutečnými funkčními rozdíly, nikoli jen značkou. Uživatelé, kteří vybírají sluchátka pro práci v hlučném prostředí, cestování nebo dlouhodobé soustředění, nyní mají možnost získat plnohodnotné ANC řešení za podstatně nižší náklady.
+Agresivní zlevnění naznačuje dvě hlavní věci: buď se Bose připravuje na uvedení nové generace QuietComfort, nebo testuje strategii, kdy se prémiový hardware nabízí za střední cenu, aby se podpořil objem prodeje a udržel podíl na trhu. V segmentu, kde Apple a Sony drží vysoké ceny a opírají se o uzavřený ekosystém a značku, přináší Bose uživatelům technologicky vyspělou volbu za podstatně nižší cenu.
 
-Pro výrobce jde zároveň o signál blížící se produktové obměny: rychlé vyprodání stávajících QuietComfort modelů uvolní prostor pro novou generaci, pravděpodobně s vylepšeným ANC, integrací pokročilejších funkcí (například lepší vícebodové připojení, kvalitnější mikrofony pro hovory, hlubší software podporu) a možná i úzkou integrací se službami třetích stran. Pro trh to znamená zesílení cenového tlaku v segmentu, kde byly rozdíly mezi značkami dlouhodobě konzervativní a kde nyní uživatelé získávají lepší poměr cena/výkon.
+Pro koncové uživatele to znamená, že kvalitní ANC a pohodlná konstrukce přestávají být výsadou cenově nejvyšší třídy. Pro průmysl je to signál, že marže u prémiových sluchátek jsou pod tlakem a že zákazníci si začínají více všímat poměru cena/výkon místo značkové exkluzivity. Pokud podobnou cenovou politiku přijmou i další výrobci, může to vést k širší dostupnosti kvalitních sluchátek pro práci, cestování i dlouhodobé používání a k postupnému zmenšování rozdílu mezi „prémiovým“ a „mainstreamovým“ segmentem.
 
 ---
 
