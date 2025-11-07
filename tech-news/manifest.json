@@ -1,14 +1,109 @@
 {
-  "generated": "2025-11-07T08:25:48.212016+00:00",
+  "generated": "2025-11-07T12:31:06.747392+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Vzácná forma syfilidy u staršího muže málem zmátla lékaře",
-      "description": "83letý muž tvrdil, že žije v monogamním manželství 50 let, ale diagnóza vzácné formy pohlavní nemoci vyvolává otázky o pravdivosti jeho tvrzení.",
+      "title": "Ikea zlevňuje chytrou domácnost: nová řada zařízení s podporou Matter-over-Thread",
+      "description": "Ikea představila 21 cenově dostupných zařízení pro chytrou domácnost s podporou Matter-over-Thread, včetně žárovek, senzorů a ovladačů, a aktualizovala hub Dirigera na plnohodnotný Matter controller a Thread border router.",
+      "slug": "ikeas-new-low-cost-line-is-a-huge-win-for-matter-a",
+      "publishedAt": "2025-11-06T12:00:00+00:00",
+      "date": "2025-11-06 12:00:00",
+      "importance": 3,
+      "category": "chytrá domácnost",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/KAJPLATS-GU10-decorative-clear-glass.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+      "url": "/tech-news/2025-11-06/ikeas-new-low-cost-line-is-a-huge-win-for-matter-a/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Ikea",
+        "The Verge",
+        "Apple",
+        "Google",
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Naživo: Rozhovor s průkopníky umělé inteligence o dosažení lidské úrovně",
+      "description": "Přední odborníci na AI tvrdí, že současné systémy již v řadě úloh dosahují nebo překonávají úroveň lidské inteligence, což znovu otevírá debatu o hranici mezi praktickou automatizací a skutečnou obecnou inteligencí.",
+      "slug": "live-in-conversation-with-the-pioneers-of-artifici",
+      "publishedAt": "2025-11-06T08:42:23+00:00",
+      "date": "2025-11-06 08:42:23",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1214554f-c578-43bf-9a0f-3d875956cd68.jpg?source=next-barrier-page",
+      "url": "/tech-news/2025-11-06/live-in-conversation-with-the-pioneers-of-artifici/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Financial Times"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk",
+        "Tim Cook",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Canon EOS R6 Mark III přináší 32,5Mpx full-frame snímač, 7K video a rychlejší úložiště",
+      "description": "Canon představil full-frame bezzrcadlovku EOS R6 Mark III s novým 32,5Mpx snímačem, podporou záznamu až 7K RAW videa a přepracovaným duálním slotem včetně CFexpress Type B pro náročnější foto a video produkci.",
+      "slug": "canon-adds-a-32-megapixel-sensor-and-7k-video-to-t",
+      "publishedAt": "2025-11-06T06:00:00+00:00",
+      "date": "2025-11-06 06:00:00",
+      "importance": 3,
+      "category": "fototechnika",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/7084C018-r6-markiii-24-105stm-02_colorbg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-06/canon-adds-a-32-megapixel-sensor-and-7k-video-to-t/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Canon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bose agresivně zlevňuje QuietComfort: špičková ANC sluchátka výrazně pod cenou Sony a Applu",
+      "description": "Bose snižuje cenu svých prémiových QuietComfort sluchátek z 349 na 199 dolarů, čímž nabízí plnohodnotné aktivní potlačení hluku a dlouhou výdrž baterie levněji než základní modely konkurenčních značek. Tento krok může krátkodobě změnit poměr cena/výkon v segmentu prémiových bezdrátových sluchátek.",
+      "slug": "bose-rushes-to-clear-out-its-qc-headphones-stock-n",
+      "publishedAt": "2025-11-06T01:12:44+00:00",
+      "date": "2025-11-06 01:12:44",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/bose-headphones-1200x675.jpg",
+      "url": "/tech-news/2025-11-06/bose-rushes-to-clear-out-its-qc-headphones-stock-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Bose",
+        "Sony",
+        "Apple",
+        "Gizmodo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vzácná forma syfilis u 83letého muže zmátla belgické lékaře",
+      "description": "Případ 83letého muže s neobvyklým průběhem syfilis ukazuje, jak snadno může být toto onemocnění přehlédnuto, zvlášť pokud pacient neuvádí úplnou anamnézu.",
       "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
       "publishedAt": "2025-11-05T23:29:42+00:00",
       "date": "2025-11-05 23:29:42",
-      "importance": 2,
+      "importance": 1,
       "category": "zdraví",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-2560x1440.jpg",
       "url": "/tech-news/2025-11-05/rare-form-of-syphilis-in-married-elderly-man-nearl/",
@@ -21,13 +116,31 @@
       "people": []
     },
     {
-      "title": "Moderní CD přehrávače s Bluetooth zažívají comeback",
-      "description": "Nová generace přenosných CD přehrávačů kombinuje retro technologii s moderními funkcemi jako Bluetooth konektivita a USB-C nabíjení.",
+      "title": "Trend: Bluetooth CD přehrávače vracejí nostalgii mixkazet do dnešní doby",
+      "description": "Na trhu se objevuje nová generace přenosných CD přehrávačů, které kombinují retro design s moderními funkcemi jako Bluetooth a USB‑C, a cílí na mladší uživatele hledající hmatatelnější způsob poslechu hudby mimo streamovací služby.",
+      "slug": "trend-alert-high-tech-bluetooth-cd-players-make-me",
+      "publishedAt": "2025-11-05T22:11:13+00:00",
+      "date": "2025-11-05 22:11:13",
+      "importance": 1,
+      "category": "hardware",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
+      "url": "/tech-news/2025-11-05/trend-alert-high-tech-bluetooth-cd-players-make-me/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tech trend alert: moderní Bluetooth CD přehrávače vracejí do hry fyzická alba",
+      "description": "Nová generace přenosných CD přehrávačů kombinuje retro formát s moderními funkcemi jako Bluetooth, USB-C a anti-skip, a cílí na mladší uživatele hledající fyzické nosiče bez ztráty pohodlí současné techniky.",
       "slug": "tech-trend-alert-high-tech-bluetooth-cd-players-ar",
       "publishedAt": "2025-11-05T22:11:13+00:00",
       "date": "2025-11-05 22:11:13",
       "importance": 3,
-      "category": "audio technika",
+      "category": "hardware",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
       "url": "/tech-news/2025-11-05/tech-trend-alert-high-tech-bluetooth-cd-players-ar/",
       "source": {
@@ -36,6 +149,27 @@
         "name": "Mashable"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google připravuje Theme packs: jedním klepnutím kompletně změní vzhled Pixel telefonů",
+      "description": "Google uvádí novou aplikaci Theme packs pro telefony Pixel, která umožní v jednom kroku změnit tapetu, ikony, zvuky a další prvky systému, ale plná funkčnost bude záviset na nadcházející aktualizaci systému.",
+      "slug": "googles-new-pixel-theme-packs-are-nearly-ready-to-",
+      "publishedAt": "2025-11-05T21:50:25+00:00",
+      "date": "2025-11-05 21:50:25",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Theme-Packs-App-2-scaled.jpg",
+      "url": "/tech-news/2025-11-05/googles-new-pixel-theme-packs-are-nearly-ready-to-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Android Authority"
+      ],
       "people": []
     },
     {
@@ -60,13 +194,13 @@
       "people": []
     },
     {
-      "title": "Apple údajně jedná s Googlem o miliardové smlouvě na vylepšení Siri",
-      "description": "Podle zpráv Bloomberg má Apple zaplatit Googlu přibližně miliardu dolarů ročně za vlastní verzi modelu Gemini AI, která by měla dočasně pohánět přepracovanou Siri.",
+      "title": "Apple má blízko k dohodě s Googlem: až 1 miliarda dolarů ročně za AI pro nový Siri",
+      "description": "Apple podle informací Bloomberg jedná o dohodě, v rámci které by platil Googlu zhruba 1 miliardu dolarů ročně za nasazení upravené verze modelu Gemini AI pro výrazně přepracovaného hlasového asistenta Siri, než dozraje jeho vlastní AI infrastruktura.",
       "slug": "apple-nears-deal-to-pay-google-1b-annually-to-powe",
       "publishedAt": "2025-11-05T20:37:47+00:00",
       "date": "2025-11-05 20:37:47",
-      "importance": 2,
-      "category": "hlasové asistenty",
+      "importance": 4,
+      "category": "ai asistent",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
       "url": "/tech-news/2025-11-05/apple-nears-deal-to-pay-google-1b-annually-to-powe/",
       "source": {
@@ -76,13 +210,38 @@
       },
       "companies": [
         "Apple",
-        "Google"
+        "Google",
+        "TechCrunch"
+      ],
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "AMD Ryzen 5 7500X3D: Unikají parametry levnější 3D V-Cache varianty pro AM5",
+      "description": "Uniklé výsledky z Geekbench naznačují příchod procesoru AMD Ryzen 5 7500X3D se 6 jádry a technologií 3D V-Cache, taktovaného o 100 MHz níže než Ryzen 5 7600X3D. Jde o spekulativní informaci, která ukazuje snahu AMD rozšířit nabídku X3D modelů pro cenově dostupnější herní sestavy.",
+      "slug": "amd-ryzen-5-7500x3d-6-core-3d-v-cache-cpu-clocks-1",
+      "publishedAt": "2025-11-05T20:28:00+00:00",
+      "date": "2025-11-05 20:28:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/AMD-RYZEN-7500X3D-HERO.jpg",
+      "url": "/tech-news/2025-11-05/amd-ryzen-5-7500x3d-6-core-3d-v-cache-cpu-clocks-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "AMD",
+        "VideoCardz"
       ],
       "people": []
     },
     {
-      "title": "iOS 26.2 vyjde v polovině prosince s novými funkcemi pro Podcasty a Připomínky",
-      "description": "Apple vydá iOS 26.2 pravděpodobně kolem 10.-15. prosince. Aktualizace přinese AI-generované kapitoly v Podcastech, nové alarmy v Připomínkách a vylepšené hodnocení spánku.",
+      "title": "iOS 26.2 vyjde v polovině prosince: Jaké novinky pro iPhone přinese",
+      "description": "Apple připravuje vydání iOS 26.2 v polovině prosince jako další větší aktualizaci pro iPhone. Přináší úpravy rozhraní a několik praktických funkcí pro Podcasty, News, Připomínky, Freeform, sledování spánku, zamykací obrazovku i AirPods.",
       "slug": "ios-262-release-date-heres-when-new-iphone-feature",
       "publishedAt": "2025-11-05T20:20:00+00:00",
       "date": "2025-11-05 20:20:00",
@@ -96,7 +255,9 @@
         "name": "9to5Mac"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "Google",
+        "OpenAI"
       ],
       "people": []
     },
@@ -122,13 +283,13 @@
       "people": []
     },
     {
-      "title": "Spor Disney a Google zasáhl Movies Anywhere, nákupy filmů se přestaly synchronizovat",
-      "description": "Konflikt mezi Disneym a Googlem se rozšířil na službu Movies Anywhere. Google Play a YouTube již nesynchronizují digitální knihovny filmů napříč platformami.",
+      "title": "Spor Disney a Google zasahuje Movies Anywhere: Google Play a YouTube končí se synchronizací digitálních filmů",
+      "description": "Pokračující spor mezi Disney a Google se nově dotýká služby Movies Anywhere, která přestává synchronizovat digitální filmové nákupy s Google Play a YouTube, což narušuje dosavadní interoperabilitu filmových knihoven uživatelů napříč platformami.",
       "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
       "publishedAt": "2025-11-05T19:58:00+00:00",
       "date": "2025-11-05 19:58:00",
       "importance": 3,
-      "category": "streamovací služby",
+      "category": "online služby",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/movies-anywhere-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-05/disney-youtube-tv-feud-extends-to-movies-anywhere-/",
       "source": {
@@ -137,8 +298,8 @@
         "name": "9to5google.com"
       },
       "companies": [
-        "Google",
-        "Disney"
+        "Disney",
+        "Google"
       ],
       "people": []
     },
@@ -168,13 +329,13 @@
       ]
     },
     {
-      "title": "Rodina telefonů Pixel 10 se slevou na Amazonu",
-      "description": "Na Amazonu jsou nyní dostupné všechny modely řady Pixel 10 se slevami od 200 do 300 dolarů. Akce zahrnuje základní Pixel 10, modely Pro a Pro XL i skládací verzi Pro Fold.",
+      "title": "Amazon zlevňuje celou řadu telefonů Pixel 10 včetně Pixel 10 Pro XL a Pro Fold",
+      "description": "Amazon dočasně zlevnil všechny modely Pixel 10, včetně Pixel 10 Pro, Pixel 10 Pro XL a Pixel 10 Pro Fold, což z nich dělá výrazně atraktivnější volbu pro uživatele, kteří uvažují o přechodu na nový Android telefon.",
       "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
       "publishedAt": "2025-11-05T19:06:00+00:00",
       "date": "2025-11-05 19:06:00",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "hardware",
       "urlToImage": "https://media.wired.com/photos/690b9f2393120774bebe626f/191:100/w_1280,c_limit/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png",
       "url": "/tech-news/2025-11-05/the-pixel-10-family-is-marked-down-on-amazon-wired/",
       "source": {
@@ -184,13 +345,34 @@
       },
       "companies": [
         "Google",
-        "Amazon"
+        "Amazon",
+        "Apple"
       ],
       "people": []
     },
     {
-      "title": "Google vydal novou aplikaci Theme packs pro telefony Pixel",
-      "description": "Google představil aplikaci Theme packs v Obchodě Play, která umožňuje uživatelům telefonů Pixel přizpůsobit vzhled zařízení jedním klepnutím pomocí sezónních balíčků motivů.",
+      "title": "Subaru Brataroo 9500 Turbo: Radikální návrat modelu BRAT pro novou éru Gymkhana",
+      "description": "Subaru ve spolupráci s týmem Hoonigan a Vermont SportsCar představuje extrémně upravený speciál Brataroo 9500 Turbo inspirovaný historickým pick-upem BRAT pro další díl Gymkhana s Travisem Pastranou v Austrálii.",
+      "slug": "subarus-brat-makes-an-unexpected-return-and-its-ne",
+      "publishedAt": "2025-11-05T18:42:51+00:00",
+      "date": "2025-11-05 18:42:51",
+      "importance": 3,
+      "category": "auta",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/11/Subaru-Brateroo-7.jpg.webp",
+      "url": "/tech-news/2025-11-05/subarus-brat-makes-an-unexpected-return-and-its-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gear Patrol"
+      },
+      "companies": [],
+      "people": [
+        "Travis Pastrana"
+      ]
+    },
+    {
+      "title": "Google uvádí aplikaci Theme packs pro rychlé přizpůsobení telefonů Pixel",
+      "description": "Google spouští novou aplikaci Theme packs pro telefony Pixel 6 a novější, která umožní jedním krokem změnit tapety, ikony, zvuky a další prvky systému pomocí sezónních balíčků.",
       "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
       "publishedAt": "2025-11-05T18:31:00+00:00",
       "date": "2025-11-05 18:31:00",
@@ -204,18 +386,19 @@
         "name": "9to5google.com"
       },
       "companies": [
-        "Google"
+        "Google",
+        "9to5Google"
       ],
       "people": []
     },
     {
-      "title": "MacBook Air v Black Friday slevách s cenami od 749,99 dolarů",
-      "description": "Amazon spustil výrazné slevy na MacBook Air s čipem M4. Model s 13palcovou obrazovkou je k dispozici za historicky nejnižší cenu 749,99 dolarů.",
+      "title": "Black Friday snižuje cenu MacBooku Air M4: 13\" od 749,99 USD, 15\" od 949,99 USD",
+      "description": "Amazon spustil předčasné Black Friday slevy na nejnovější MacBook Air s čipem M4, které snižují cenu 13\" i 15\" modelů na historická minima a dělají z nich cenově agresivní vstup do ekosystému Apple.",
       "slug": "macbook-air-black-friday-deals-arrive-with-new-low",
       "publishedAt": "2025-11-05T17:42:11+00:00",
       "date": "2025-11-05 17:42:11",
       "importance": 3,
-      "category": "slevy elektroniky",
+      "category": "hardware",
       "urlToImage": "https://images.macrumors.com/t/SShyYqJ0JMxbdO8QPeKvPzoc-eU=/2500x/article-new/2025/11/m4-macbook-air-snowmen.jpeg",
       "url": "/tech-news/2025-11-05/macbook-air-black-friday-deals-arrive-with-new-low/",
       "source": {
@@ -250,13 +433,13 @@
       "people": []
     },
     {
-      "title": "Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat",
-      "description": "Říjnové aktualizace Windows způsobují nečekaný požadavek na obnovovací klíč BitLocker. Uživatelé bez zálohy klíče riskují ztrátu všech dat na počítači.",
+      "title": "Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC",
+      "description": "Nedávné aktualizace Windows 10 a 11 mohou na vybraných zařízeních nečekaně vyžadovat BitLocker recovery key; bez něj uživatel riskuje trvalou ztrátu dat. Microsoft problém potvrzuje a vydává opravu, komunikace však byla nedostatečná a hlavně směrem k firemním zákazníkům.",
       "slug": "bitlocker-recovery-bug-in-recent-windows-updates-c",
       "publishedAt": "2025-11-05T16:57:00+00:00",
       "date": "2025-11-05 16:57:00",
       "importance": 4,
-      "category": "zabezpečení systému",
+      "category": "kybernetická bezpečn",
       "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/preboot-pin.png?w=1024",
       "url": "/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/",
       "source": {
@@ -270,13 +453,13 @@
       "people": []
     },
     {
-      "title": "Chytrý prsten Stream Ring umožňuje nahrávat hlasové poznámky šeptem",
-      "description": "Bývalí zaměstnanci Meta představili AI prsten Stream Ring za 249 dolarů, který nahrává a přepisuje šeptané poznámky a vytváří z nich strukturované záznamy.",
+      "title": "AI prsten Stream Ring umožní šeptem zaznamenávat hlasové poznámky",
+      "description": "Bývalí zaměstnanci Meta představili chytrý prsten Stream Ring, který umožňuje diskrétní záznam hlasových poznámek, jejich přepis a práci s osobním AI asistentem. Zařízení míří na trh v létě 2026 a cílí na uživatele hledající nenápadný nástroj pro průběžné zaznamenávání myšlenek.",
       "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
       "publishedAt": "2025-11-05T16:55:55+00:00",
       "date": "2025-11-05 16:55:55",
       "importance": 3,
-      "category": "chytré prsteny",
+      "category": "wearables",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-05/this-ai-smart-ring-lets-you-record-voice-notes-wit/",
       "source": {
@@ -285,18 +468,17 @@
         "name": "The Verge"
       },
       "companies": [
-        "Meta",
-        "The Verge"
+        "Meta"
       ],
       "people": []
     },
     {
-      "title": "Google chce postavit datová centra v orbitu pro uspokojení energetických nároků AI",
-      "description": "Google oznámil projekt Suncatcher, který zkoumá možnost vybudování konstelace satelitů s AI čipy v nízké oběžné dráze. Cílem je řešit rostoucí energetické nároky umělé inteligence.",
+      "title": "Google zvažuje datová centra pro AI na oběžné dráze v rámci projektu Suncatcher",
+      "description": "Google spouští projekt Suncatcher, který má ověřit možnost provozovat AI výpočty v kosmu pomocí satelitních konstelací se specializovanými čipy TPU a optickým propojením, jako odpověď na rostoucí energetické nároky datových center.",
       "slug": "if-you-want-to-satiate-ais-hunger-for-power-google",
       "publishedAt": "2025-11-05T16:36:12+00:00",
       "date": "2025-11-05 16:36:12",
-      "importance": 4,
+      "importance": 3,
       "category": "kosmonautika",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/googletpu-1152x648.jpg",
       "url": "/tech-news/2025-11-05/if-you-want-to-satiate-ais-hunger-for-power-google/",
@@ -306,18 +488,26 @@
         "name": "Ars Technica"
       },
       "companies": [
-        "Google"
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Amazon",
+        "Nvidia"
       ],
-      "people": []
+      "people": [
+        "Elon Musk",
+        "Tim Cook",
+        "Satya Nadella"
+      ]
     },
     {
-      "title": "Amazon Kanada spustila předčasné Black Friday slevy až 88 %",
-      "description": "Kanadská pobočka Amazonu zahájila předčasné Black Friday výprodeje s tisíci produkty se slevami až 88 %, včetně elektroniky, domácích potřeb a vánočních dekorací.",
+      "title": "Předčasné slevy na Black Friday na Amazon Canada: Elektronika, domácnost a dárky se slevou až 88 %",
+      "description": "Amazon Canada spustil rozsáhlé předčasné slevy k Black Friday, které pokrývají elektroniku, kuchyňské vybavení, domácí potřeby, kosmetiku i hračky, s deklarovanými slevami až 88 %. Nabídky se rychle mění a jsou cílené na zákazníky, kteří chtějí nakoupit vánoční dárky s předstihem.",
       "slug": "A-55-best-amazon-canada-early-black-friday-deals-y",
       "publishedAt": "2025-11-05T16:34:08+00:00",
       "date": "2025-11-05 16:34:08",
       "importance": 1,
-      "category": "e-commerce slevy",
+      "category": "e-commerce",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A13ERCyiYaQiDWWvkvrnyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/9da9c410-ba64-11f0-9dfd-ce661a600376",
       "url": "/tech-news/2025-11-05/A-55-best-amazon-canada-early-black-friday-deals-y/",
       "source": {
@@ -331,8 +521,8 @@
       "people": []
     },
     {
-      "title": "Nový Dodge Charger Scat Pack je nejsilnější americký sedan pod 60 000 dolarů",
-      "description": "Dodge představil čtyřdveřový sedan Charger Scat Pack s výkonem 550 koní z přeplňovaného šestiválce a pohonem všech kol za cenu od 56 995 dolarů.",
+      "title": "Nový Dodge Charger Scat Pack: nejvýkonnější sedan v USA pod 60 000 dolarů",
+      "description": "Dodge představuje čtyřdveřový Charger Scat Pack s přeplňovaným řadovým šestiválcem o výkonu 550 koní, pohonem všech kol a cenou pod 60 000 dolarů, čímž cílí na návrat klasického „muscle“ charakteru v moderní technické konfiguraci.",
       "slug": "new-charger-sixpack-is-americas-most-powerful-seda",
       "publishedAt": "2025-11-05T16:23:31+00:00",
       "date": "2025-11-05 16:23:31",
@@ -349,13 +539,13 @@
       "people": []
     },
     {
-      "title": "FHIBE: První eticky vytvořený dataset pro testování férovosti AI systémů",
-      "description": "Výzkumníci představili FHIBE, veřejně dostupný dataset lidských fotografií vytvořený s důrazem na souhlas, soukromí a diverzitu, který umožňuje testovat zkreslení v počítačovém vidění.",
+      "title": "Fair Human-Centric Image Benchmark: etický obrazový dataset pro měření férovosti AI",
+      "description": "Výzkumníci představili FHIBE, nový otevřený obrazový dataset zaměřený na člověka, navržený podle přísných etických standardů pro souhlas, soukromí, odměnu, bezpečnost a diverzitu. Slouží jako referenční sada pro testování férovosti a biasu v AI systémech pro počítačové vidění.",
       "slug": "fair-human-centric-image-dataset-for-ethical-ai-be",
       "publishedAt": "2025-11-05T16:22:08+00:00",
       "date": "2025-11-05 16:22:08",
-      "importance": 4,
-      "category": "etická ai",
+      "importance": 3,
+      "category": "ai etika",
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09716-2/MediaObjects/41586_2025_9716_Fig1_HTML.png",
       "url": "/tech-news/2025-11-05/fair-human-centric-image-dataset-for-ethical-ai-be/",
       "source": {
@@ -367,13 +557,13 @@
       "people": []
     },
     {
-      "title": "Nové levnější APU od AMD by mohly nahradit základní grafické karty",
-      "description": "AMD údajně připravuje levnější varianty čipů Ryzen AI Max+ s integrovanou grafikou Radeon 8060S, které by mohly konkurovat samostatným GPU v nižší cenové kategorii.",
+      "title": "AMD míří na rozpočetní herní segment: nové APU mohou ohrozit levné samostatné GPU",
+      "description": "Únik specifikací naznačuje, že připravované APU AMD Ryzen AI Max+ se silnou integrovanou grafikou mohou nabídnout výkon blízký levným dedikovaným GPU, a tím dále oslabit smysl nákupu nízkého segmentu grafických karet.",
       "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
       "publishedAt": "2025-11-05T16:16:16+00:00",
       "date": "2025-11-05 16:16:16",
-      "importance": 2,
-      "category": "procesory",
+      "importance": 3,
+      "category": "hardware",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/11/FrameworkDesktop-Teardown-Hero-WithHands-1-1200x675.jpg",
       "url": "/tech-news/2025-11-05/amds-new-cpus-might-just-kill-low-end-gpus-soon-gi/",
       "source": {
@@ -382,7 +572,9 @@
         "name": "Gizmodo.com"
       },
       "companies": [
-        "AMD"
+        "AMD",
+        "Nvidia",
+        "Intel"
       ],
       "people": []
     },
@@ -407,13 +599,33 @@
       "people": []
     },
     {
-      "title": "Ford Maverick 300T Concept dosahuje 300 koní díky turbodmychadlu z Mustangu a půjde do prodeje",
-      "description": "Ford představil na veletrhu SEMA koncept Maverick 300T s výkonem 300 koní, který plánuje uvést na trh v roce 2026. Využívá turbodmychadlo z čtyřválcového Mustangu.",
+      "title": "Samsung údajně plánuje rozšířit headset Galaxy XR do Velké Británie, Kanady a vybraných zemí EU",
+      "description": "Samsung podle neoficiálních informací připravuje v roce 2026 rozšíření svého headsetu Galaxy XR s Android XR z USA a Koreje do Velké Británie, Německa, Francie a Kanady, přičemž seznam trhů ani termín zatím nejsou finální.",
+      "slug": "samsung-rumored-to-launch-galaxy-xr-in-uk-canada-a",
+      "publishedAt": "2025-11-05T15:40:00+00:00",
+      "date": "2025-11-05 15:40:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Galaxy-XR-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-05/samsung-rumored-to-launch-galaxy-xr-in-uk-canada-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ford Maverick 300T Concept: 300koňový koncept s turbem z Mustangu míří k zákazníkům",
+      "description": "Ford představil na SEMA koncept Maverick 300T s přeplňovaným dvoulitrem a turbem z Mustangu, výkonem 300 koní a plánem nabídnout tento paket zákazníkům jako továrně podporované řešení.",
       "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
       "publishedAt": "2025-11-05T15:01:08+00:00",
       "date": "2025-11-05 15:01:08",
       "importance": 3,
-      "category": "automobilový průmysl",
+      "category": "automobilismus",
       "urlToImage": "https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg",
       "url": "/tech-news/2025-11-05/ford-maverick-300t-concept-uses-a-mustang-turbo-to/",
       "source": {
@@ -425,13 +637,13 @@
       "people": []
     },
     {
-      "title": "Motorola představuje další levný telefon se 7000mAh baterií a Androidem 16",
-      "description": "Moto G57 Power míří na evropský trh s výdrží na několik dní, 120Hz displejem a nejnovějším čipsetem Snapdragon 6s Gen 4.",
+      "title": "Motorola představuje Moto G57 Power: levný 5G telefon s baterií 7 000 mAh a Androidem 16",
+      "description": "Motorola rozšiřuje řadu dostupných smartphonů o model Moto G57 Power s baterií 7 000 mAh, novým čipem Snapdragon 6s Gen 4, 120Hz displejem a Androidem 16, cíleným zejména na evropské uživatele.",
       "slug": "motorola-is-releasing-yet-another-low-cost-mid-ran",
       "publishedAt": "2025-11-05T14:07:07+00:00",
       "date": "2025-11-05 14:07:07",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "smartphony",
       "urlToImage": "https://m-cdn.phonearena.com/images/article/175490-wide-two_1200/Motorola-is-releasing-yet-another-low-cost-mid-ranger-with-a-7000mAh-battery-and-Android-16.jpg",
       "url": "/tech-news/2025-11-05/motorola-is-releasing-yet-another-low-cost-mid-ran/",
       "source": {
@@ -441,7 +653,7 @@
       },
       "companies": [
         "Motorola",
-        "Google"
+        "PhoneArena"
       ],
       "people": []
     },
@@ -3769,24 +3981,6 @@
       "people": []
     },
     {
-      "title": "This advanced ad-blocking app is only $19 for life - Mashable",
-      "description": "Block annoying ads and protect your devices.",
-      "slug": "this-advanced-ad-blocking-app-is-only-19-for-life-",
-      "publishedAt": "2025-10-31T23:03:09+00:00",
-      "date": "2025-10-31 23:03:09",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01M6AizGSSLdJpsSvrFVJdv/hero-image.fill.size_1200x675.v1761919033.jpg",
-      "url": "/tech-news/2025-10-31/this-advanced-ad-blocking-app-is-only-19-for-life-/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once - The Verge",
       "description": "Microsoft is testing shared audio on Windows 11, allowing users to broadcast audio across two pairs of headphones, earbuds, speakers, or hearing aids.",
       "slug": "windows-11-tests-bluetooth-audio-sharing-that-conn",
@@ -3800,150 +3994,6 @@
         "emoji": "⚡",
         "id": "the-verge",
         "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tim Cook says Apple is open to M&A on the AI front - TechCrunch",
-      "description": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
-      "slug": "tim-cook-says-apple-is-open-to-ma-on-the-ai-front-",
-      "publishedAt": "2025-10-31T15:17:12+00:00",
-      "date": "2025-10-31 15:17:12",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
-      "url": "/tech-news/2025-10-31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front-/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Where is the Trump phone? - The Verge",
-      "description": "T1 Phone 8002 (gold version) — a.k.a. the Trump phone — has missed three release dates in a row.",
-      "slug": "where-is-the-trump-phone-the-verge",
-      "publishedAt": "2025-10-31T14:36:53+00:00",
-      "date": "2025-10-31 14:36:53",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/t1-phone-trump.jpg?quality=90&strip=all&crop=0,1.7328436659964,100,78.534031413613",
-      "url": "/tech-news/2025-10-31/where-is-the-trump-phone-the-verge/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio - The Verge",
-      "description": "Creative revived its Sound Blaster brand for a new modular magnetic hub called the Re:Imagine that serves as mission control for your audio gear.",
-      "slug": "sound-blasters-modular-hub-is-a-reconfigurable-str",
-      "publishedAt": "2025-10-31T14:08:34+00:00",
-      "date": "2025-10-31 14:08:34",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/soundblaster3.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
-      "url": "/tech-news/2025-10-31/sound-blasters-modular-hub-is-a-reconfigurable-str/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tim Cook provides update on next-gen Siri development - 9to5Mac",
-      "description": "We’re still waiting on Apple to release its promised next-generation version of Siri. CEO Tim Cook says things are going well so far…",
-      "slug": "tim-cook-provides-update-on-next-gen-siri-developm",
-      "publishedAt": "2025-10-31T12:51:00+00:00",
-      "date": "2025-10-31 12:51:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/tim-cook-provides-update-on-next-gen-siri-developm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Too much social media gives AI chatbots ‘brain rot’ - Nature",
-      "description": "Large language models fed low-quality data skip steps in their reasoning process.",
-      "slug": "too-much-social-media-gives-ai-chatbots-brain-rot-",
-      "publishedAt": "2025-10-31T11:31:06+00:00",
-      "date": "2025-10-31 11:31:06",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03542-2/d41586-025-03542-2_51628252.jpg",
-      "url": "/tech-news/2025-10-31/too-much-social-media-gives-ai-chatbots-brain-rot-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica",
-      "description": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
-      "slug": "unexpectedly-a-deer-briefly-entered-the-family-roo",
-      "publishedAt": "2025-10-31T11:30:22+00:00",
-      "date": "2025-10-31 11:30:22",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-1152x648.jpg",
-      "url": "/tech-news/2025-10-31/unexpectedly-a-deer-briefly-entered-the-family-roo/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "This leaked OnePlus flagship looks like a better bet than the OnePlus 15 - Android Authority",
-      "description": "OnePlus' next compact flagship has leaked, and it does not appear to repeat the same mistakes as the OnePlus 15.",
-      "slug": "this-leaked-oneplus-flagship-looks-like-a-better-b",
-      "publishedAt": "2025-10-31T08:38:03+00:00",
-      "date": "2025-10-31 08:38:03",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/OnePlus-13s_1-scaled.jpg",
-      "url": "/tech-news/2025-10-31/this-leaked-oneplus-flagship-looks-like-a-better-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "WhatsApp now testing an Apple Watch companion app - 9to5Mac",
-      "description": "Meta has released a WhatsApp TestFlight build with a long-awaited feature for Apple Watch users. Here are the details.",
-      "slug": "whatsapp-now-testing-an-apple-watch-companion-app-",
-      "publishedAt": "2025-10-31T01:01:00+00:00",
-      "date": "2025-10-31 01:01:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/WhatsApp-security-concerns-see-app-banned-in-Congress-iMessage-recommended.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-10-31/whatsapp-now-testing-an-apple-watch-companion-app-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
       },
       "companies": [],
       "people": []

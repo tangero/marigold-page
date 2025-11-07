@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat | Marigold.cz - Sítě a Technologie</title>
+    <title>Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC | Marigold.cz - Sítě a Technologie</title>
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat" />
+<meta property="og:title" content="Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC" />
 <meta name="author" content="Marisa Aigen" />
 <meta property="og:locale" content="cs" />
-<meta name="description" content="Říjnové aktualizace Windows způsobují nečekaný požadavek na obnovovací klíč BitLocker. Uživatelé bez zálohy klíče riskují ztrátu všech dat na počítači." />
-<meta property="og:description" content="Říjnové aktualizace Windows způsobují nečekaný požadavek na obnovovací klíč BitLocker. Uživatelé bez zálohy klíče riskují ztrátu všech dat na počítači." />
+<meta name="description" content="Nedávné aktualizace Windows 10 a 11 mohou na vybraných zařízeních nečekaně vyžadovat BitLocker recovery key; bez něj uživatel riskuje trvalou ztrátu dat. Microsoft problém potvrzuje a vydává opravu, komunikace však byla nedostatečná a hlavně směrem k firemním zákazníkům." />
+<meta property="og:description" content="Nedávné aktualizace Windows 10 a 11 mohou na vybraných zařízeních nečekaně vyžadovat BitLocker recovery key; bez něj uživatel riskuje trvalou ztrátu dat. Microsoft problém potvrzuje a vydává opravu, komunikace však byla nedostatečná a hlavně směrem k firemním zákazníkům." />
 <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/" />
 <meta property="og:url" content="https://www.marigold.cz/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/" />
 <meta property="og:site_name" content="Marigold.cz" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-11-05T16:57:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat" />
+<meta property="twitter:title" content="Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Marisa Aigen"},"dateModified":"2025-11-05T16:57:00+00:00","datePublished":"2025-11-05T16:57:00+00:00","description":"Říjnové aktualizace Windows způsobují nečekaný požadavek na obnovovací klíč BitLocker. Uživatelé bez zálohy klíče riskují ztrátu všech dat na počítači.","headline":"Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/"},"url":"https://www.marigold.cz/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Marisa Aigen"},"dateModified":"2025-11-05T16:57:00+00:00","datePublished":"2025-11-05T16:57:00+00:00","description":"Nedávné aktualizace Windows 10 a 11 mohou na vybraných zařízeních nečekaně vyžadovat BitLocker recovery key; bez něj uživatel riskuje trvalou ztrátu dat. Microsoft problém potvrzuje a vydává opravu, komunikace však byla nedostatečná a hlavně směrem k firemním zákazníkům.","headline":"Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/"},"url":"https://www.marigold.cz/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -27,14 +27,15 @@
 
     
     <meta property="og:description" content="Souhrn
+Nedávné aktualizace Windows vydané po 14. říjnu způsobují, že část zařízení s Windows 10 (22H2) a Windows 11 (24H2 a 25H2) náhodně naběhne do obrazovky BitLocker Recovery a vyžaduje zadání recovery key. Pokud uživatel klíč nemá zálohovaný, ztrácí přístup k systému i datům. Microsoft problém uznal, vydává opravu, ale informace byly původně viditelné hlavně pro firemní zákazníky, což zvyšuje riziko pro běžné uživatele.
 
 " />
     
     <meta name="author" content="Marigold.cz" />
 
     
-    <meta property="og:title" content="Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat" />
-    <meta property="twitter:title" content="Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat" />
+    <meta property="og:title" content="Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC" />
+    <meta property="twitter:title" content="Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC" />
     
 
     
@@ -236,50 +237,51 @@
       </div>
     </div>
 
-    <h1 class="article-title">Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat</h1>
+    <h1 class="article-title">Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC</h1>
 
     <div class="article-meta">
       <time datetime="2025-11-05T16:57:00+00:00">05.11.2025 16:57</time>
-      <span class="category category-zabezpečení systému">zabezpečení systému</span>
+      <span class="category category-kybernetická bezpečn">kybernetická bezpečn</span>
     </div>
   </header>
 
   
   <div class="article-image">
-    <img src="https://www.pcworld.com/wp-content/uploads/2025/11/preboot-pin.png?w=1024" alt="Chyba v aktualizacích Windows vyžaduje klíč BitLocker, jinak hrozí ztráta dat" loading="lazy">
+    <img src="https://www.pcworld.com/wp-content/uploads/2025/11/preboot-pin.png?w=1024" alt="Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může zablokovat přístup k PC" loading="lazy">
   </div>
   
 
   <div class="article-content">
     <h2 id="souhrn">Souhrn</h2>
-
-<p>Microsoft čelí vážnému problému s aktualizacemi Windows vydanými od 14. října 2024, které u mnoha uživatelů vyvolávají nečekaný požadavek na zadání obnovovacího klíče BitLocker. Uživatelé, kteří tento klíč nemají zálohovaný, nemohou přistoupit ke svému počítači a hrozí jim ztráta všech dat. Problém postihuje zejména zařízení s procesory Intel podporujícími funkci Connected Standby.</p>
+<p>Nedávné aktualizace Windows vydané po 14. říjnu způsobují, že část zařízení s Windows 10 (22H2) a Windows 11 (24H2 a 25H2) náhodně naběhne do obrazovky BitLocker Recovery a vyžaduje zadání recovery key. Pokud uživatel klíč nemá zálohovaný, ztrácí přístup k systému i datům. Microsoft problém uznal, vydává opravu, ale informace byly původně viditelné hlavně pro firemní zákazníky, což zvyšuje riziko pro běžné uživatele.</p>
 
 <h2 id="klíčové-body">Klíčové body</h2>
-
 <ul>
-  <li>Chyba se týká Windows 11 verzí 25H2 a 24H2 a Windows 10 verze 22H2</li>
-  <li>Postižená zařízení se při startu zastaví na obrazovce BitLocker Recovery a vyžadují zadání obnovovacího klíče</li>
-  <li>Problém se primárně projevuje u počítačů s procesory Intel podporujícími Connected Standby</li>
-  <li>Microsoft informaci o problému zveřejnil pouze pro uživatele s licencemi Microsoft 365 Business nebo Windows 11 Enterprise</li>
-  <li>Oprava je již distribuována, firemní uživatelé ji mohou potřebovat nasadit manuálně</li>
+  <li>Chyba se objevuje po instalaci říjnových aktualizací Windows 10/11 a vyvolá jednorázové vyžádání BitLocker recovery key.</li>
+  <li>Nejvíce jsou zasažena zařízení s procesory Intel podporující funkci Connected Standby (trvalé připojení v úsporném režimu).</li>
+  <li>Bez recovery key může dojít k reálné ztrátě všech dat – BitLocker šifrování tu funguje správně, selhává proces aktualizace/bootu.</li>
+  <li>Oprava je již distribuována, ve firemním prostředí je ale často nutné její ruční nasazení.</li>
+  <li>Komunikace Microsoftu byla nedostatečná směrem k domácím uživatelům, přestože dopady jsou pro ně kritické.</li>
 </ul>
 
 <h2 id="podrobnosti">Podrobnosti</h2>
+<p>Podle informací z PCWorld a vyjádření Microsoftu se po instalaci vybraných aktualizací Windows vydaných po 14. říjnu objevuje scénář, kdy se systém při startu neočekávaně přepne do BitLocker Recovery. BitLocker je integrovaný nástroj pro šifrování disku ve Windows, který chrání data proti neoprávněnému přístupu. Při standardním provozu běží transparentně na pozadí a klíče jsou bezpečně uložené v TPM čipu nebo chráněny přihlašovacími údaji. Recovery key se používá pouze ve chvíli, kdy systém vyhodnotí změnu konfigurace jako rizikovou (například změna firmware, hardware, podezřelý bootovací řetězec).</p>
 
-<p>BitLocker je šifrovací technologie integrovaná do Windows, která chrání data na disku před neoprávněným přístupem. Při aktivaci vytváří obnovovací klíč - dlouhý číselný kód, který slouží jako záchranné řešení pro situace, kdy systém nemůže automaticky dešifrovat disk. Tento klíč je kritický právě v situacích, jako je aktuální problém.</p>
+<p>Aktuální chyba způsobí, že některá zařízení, zejména s procesory Intel a podporou Connected Standby (režim, kdy notebook zůstává připojený k síti i v nízké spotřebě), jsou po aktualizaci vyhodnocena tak, že je nutné ověření přes recovery key. Microsoft uvádí, že po jednorázovém zadání správného klíče se systém chová normálně a nevyžaduje další zásahy. Problém tedy není v samotném BitLocker šifrování, ale v interakci aktualizačního procesu, správy napájení a bezpečnostních kontrol při startu.</p>
 
-<p>Podle oficiálního prohlášení Microsoftu se chyba projevuje tak, že postižená zařízení při startu zobrazí obrazovku BitLocker Recovery místo běžného přihlášení do Windows. Uživatel musí zadat 48místný obnovovací klíč, aby mohl pokračovat. Po zadání klíče a restartu by měl počítač fungovat normálně bez dalších výzev.</p>
-
-<p>Zajímavostí je, že Microsoft informaci o problému zveřejnil pouze v administrátorském centru přístupném uživatelům s business a enterprise licencemi, což znamená, že běžní uživatelé Windows mohli být překvapeni bez předchozího varování. Problém se primárně týká zařízení s procesory Intel, která podporují funkci Connected Standby - technologii umožňující zařízení zůstat připojené k síti i v úsporném režimu, podobně jako u mobilních telefonů.</p>
-
-<p>Uživatelé, kteří nemají přístup ke svému obnovovacímu klíči, se ocitají v kritické situaci. Klíč může být uložen v Microsoft účtu, vytištěný na papíře, uložený v souboru nebo v případě firemních počítačů spravovaný IT oddělením prostřednictvím Active Directory. Bez tohoto klíče je přístup k zašifrovaným datům prakticky nemožný - což je sice důkazem účinnosti šifrování, ale v tomto případě nežádoucí vedlejší efekt softwarové chyby.</p>
+<p>Zásadní problém nastává u uživatelů, kteří recovery key nikdy vědomě neuložili nebo netuší, kde jej hledat. V mnoha případech je klíč při aktivaci BitLockeru automaticky uložen v Microsoft účtu, v Azure AD (u firemních zařízení) nebo v doménové infrastruktuře. Pokud ale klíč nelze dohledat, BitLocker funguje přesně podle návrhu: bez klíče k datům není přístup, což prakticky znamená jejich definitivní ztrátu. Microsoft již distribuuje opravu, ale administrační týmy ve firmách musí aktualizaci aktivně ověřit a nasadit. Kritizovat lze především to, že detailní upozornění bylo původně viditelné hlavně pro zákazníky s licencemi Microsoft 365 Business a Windows 11 Enterprise, zatímco domácí a menší uživatelé zůstali s vyšším rizikem.</p>
 
 <h2 id="proč-je-to-důležité">Proč je to důležité</h2>
+<p>Chyba ukazuje na strukturální problém kombinace povinných bezpečnostních mechanismů, automatizovaných aktualizací a omezené transparentnosti vůči uživatelům. BitLocker je správně navržený bezpečnostní nástroj, ale pokud aktualizace operačního systému nečekaně vyvolá recovery režim, fakticky se z bezpečnostní funkce stává potenciální příčina nedostupnosti dat.</p>
 
-<p>Tento incident ukazuje křehkost vztahu mezi bezpečností a použitelností v moderních operačních systémech. BitLocker je důležitá bezpečnostní funkce, která chrání citlivá data, ale její nečekané aktivování může způsobit větší škody než prospěch. Pro miliony uživatelů Windows, kteří pravděpodobně ani nevědí, že mají BitLocker aktivovaný (je ve výchozím nastavení zapnutý na mnoha zařízeních s Windows 11), představuje tento problém vážné riziko ztráty dat.</p>
+<p>Pro uživatele to znamená nutnost:</p>
+<ul>
+  <li>okamžitě ověřit, zda mají BitLocker recovery key bezpečně uložený (Microsoft účet, firemní portál, lokální export),</li>
+  <li>pečlivěji řídit proces aktualizací u kritických zařízení a před většími aktualizacemi provádět zálohy,</li>
+  <li>ve firmách zajistit centrální správu klíčů a ověřit, že oprava proti tomuto problému byla nasazena na všech dotčených strojích.</li>
+</ul>
 
-<p>Situace také zdůrazňuje důležitost pravidelného zálohování dat a ukládání obnovovacích klíčů na bezpečné místo. Microsoft sice distribuuje opravu, ale uživatelé, kteří již do problému narazili a nemají svůj klíč, čelí potenciální ztrátě všech dat. Pro firemní prostředí to může znamenat výpadky produktivity a nutnost nasazení opravy napříč celou organizací. Incident také vyvolává otázky ohledně testování aktualizací před jejich vydáním a komunikace kritických problémů směrem k běžným uživatelům.</p>
+<p>Pro celý ekosystém Windows je to další signál, že kvalita testování aktualizací na kombinaci bezpečnostních funkcí (BitLocker, Secure Boot, TPM) a specifických režimů napájení musí být výrazně vyšší. Incident zároveň připomíná, že šifrování bez řádného řízení klíčů je prakticky ekvivalentní plánované ztrátě dat.</p>
 
 <hr />
 
