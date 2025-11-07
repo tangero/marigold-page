@@ -1,11 +1,13 @@
 ---
-category: smartphony
+category: hardware
 companies:
 - Apple
+- MacRumors
 date: '2025-11-06 10:13:08'
-description: Podle úniku z čínského dodavatelského řetězce Apple zvažuje, že druhá
-  generace ultratenkého iPhone Air v roce 2026 dostane dva zadní fotoaparáty, přičemž
-  si zachová horizontální modul a důraz na tenké a lehké tělo.
+description: Podle úniku z čínského prostředí Apple testuje druhou generaci ultra
+  tenkého iPhone Air s dvojicí zadních fotoaparátů a zachovaným horizontálním modulem,
+  přičemž uvedení se očekává v roce 2026 po boku řady iPhone 18 a prvního skládacího
+  iPhonu.
 importance: 2
 layout: tech_news_article
 original_title: 2026 iPhone Air Could Feature Two Rear Cameras, Says Leaker - MacRumors
@@ -15,15 +17,16 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Únik naznačuje, že iPhone Air 2026 může dostat duální fotoaparát
+title: iPhone Air 2026 by mohl dostat dvě zadní kamery, naznačuje únik z dodavatelského
+  řetězce
 url: https://www.macrumors.com/2025/11/06/2026-iphone-air-dual-lens-camera/
 urlToImage: https://images.macrumors.com/t/q96ABw3mwSB9d0sFdjVeclpwDzI=/1600x/article-new/2025/11/iphone-air-camera.jpg
 urlToImageBackup: https://images.macrumors.com/t/q96ABw3mwSB9d0sFdjVeclpwDzI=/1600x/article-new/2025/11/iphone-air-camera.jpg
 ---
 
-Podle informací od čínského leaktora Digital Chat Station, který často čerpá z dodavatelského řetězce Applu, Apple testuje pro druhou generaci iPhone Air (plánovanou na druhou polovinu roku 2026) konfiguraci se dvěma zadními fotoaparáty. Vedle 48Mpx hlavního snímače by měl přibýt 48Mpx Fusion Ultra Wide, podobně jako u základního iPhonu 17. Na rozdíl od vertikálního uspořádání u iPhonu 17 má však iPhone Air údajně zachovat horizontální „plateau“ modulu fotoaparátu, což znamená výrazné přepracování vnitřního uspořádání, aby se do velmi tenkého těla vešla další optika spolu s ostatní elektronikou a baterií.
+Podle informací účtu Digital Chat Station z čínské sociální sítě Weibo, který dlouhodobě sleduje dodavatelský řetězec Applu, firma vyvíjí druhou generaci iPhone Air, jež by mohla přejít z jednoho na dva zadní fotoaparáty. Přidání 48MP Fusion Ultra Wide ke stávajícímu 48MP Fusion Main má výkonem přiblížit model základní řadě iPhone 17, ale zároveň zachovat horizontální „plateau“ modulu fotoaparátů, což bude vyžadovat zásah do vnitřního uspořádání zařízení. Prioritou má zůstat minimální tloušťka a nízká hmotnost.
 
-Únik navazuje na dosavadní strategii Applu tlačit iPhone Air jako ultratenkou variantu s menším důrazem na maximální výbavu a větším na design a hmotnost. Podle analytika Ming-Chi Kua se druhá generace iPhone Air očekává po boku iPhonu 18 Pro, iPhonu 18 Pro Max a prvního skládacího iPhonu, přičemž třetí generace iPhone Air s větším displejem je předběžně plánována na rok 2027. Tyto plány však nejsou jisté, protože první generace iPhone Air údajně nedosahuje mimo Čínu očekávaných prodejů. Informace je vhodné brát jako spekulativní: přestože Digital Chat Station má relativně slušnou historii přesných úniků (např. senzory u iPhone 15 nebo design panelu iPhone 12), nejde o oficiální potvrzení Applu.
+Podle analytika Ming-Čchi Kua se s druhou generací iPhone Air počítá v druhé polovině roku 2026 společně s iPhone 18 Pro, iPhone 18 Pro Max a prvním skládacím iPhonem. Plánuje se také třetí varianta iPhone Air s větším displejem v roce 2027. Slabší prodeje první generace mimo Čínu ale naznačují, že Apple může své portfolio ještě přehodnotit. Únik je založen na neoficiálních informacích a měl by být vnímán jako spekulativní, přesto Digital Chat Station v minulosti přesně předpověděl některé parametry řady iPhone 15 a design displeje iPhone 12. Pro uživatele to v tuto chvíli znamená pouze indikaci směru: Apple dál testuje tenčí designy a snaží se sladit požadavky na optiku, výdrž baterie a vnitřní prostor, ale žádné konkrétní změny či jisté funkce pro trh zatím potvrzeny nejsou.
 
 ---
 

@@ -1,7 +1,87 @@
 {
-  "generated": "2025-11-07T16:22:35.986338+00:00",
+  "generated": "2025-11-07T20:24:11.650157+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "100 nejlepších gadgetů a techniky roku 2025 podle čtenářů CNET",
+      "description": "Výběr 100 nejčastěji kupovaných zařízení roku 2025 ukazuje, jaké produkty skutečně uspěly u uživatelů – od sluchátek a AI gadgetů po robotické vysavače a notebooky.",
+      "slug": "A-100-best-gadgets-and-gear-of-2025-according-to-c",
+      "publishedAt": "2025-11-06T15:21:00+00:00",
+      "date": "2025-11-06 15:21:00",
+      "importance": 3,
+      "category": "spotřební elektronik",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d9b6189deee3dc7a1976d63ce78b71aaa7e6a421/hub/2025/11/05/6b81eceb-a543-4631-93e4-188896f5bdb8/6-top-100-readers-choice-early.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-06/A-100-best-gadgets-and-gear-of-2025-according-to-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "YouTube rozšiřuje AI ověřování věku na další uživatele",
+      "description": "YouTube zavádí další vlnu AI ověřování věku, která omezuje účty vyhodnocené jako nezletilé a vyžaduje dodatečné ověření identity pro přístup k obsahu pro dospělé.",
+      "slug": "youtube-rolls-out-ai-age-verification-to-a-new-wav",
+      "publishedAt": "2025-11-06T14:45:00+00:00",
+      "date": "2025-11-06 14:45:00",
+      "importance": 3,
+      "category": "ai verifikace",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/youtube-ai-age-YoungMrBlue-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-06/youtube-rolls-out-ai-age-verification-to-a-new-wav/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "YouTube",
+        "Google",
+        "9to5Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon výrazně zlevnil starší modely Apple Watch, ceny začínají na 159,99 dolaru",
+      "description": "Amazon spustil výrazné slevy na předchozí generace Apple Watch SE 2 a Apple Watch Series 10, které dosahují až 119 dolarů a představují nové cenové minimum. Jde o signál agresivní cenové politiky u nositelné elektroniky těsně před Black Friday 2025.",
+      "slug": "amazon-introduces-ultra-low-prices-on-previous-gen",
+      "publishedAt": "2025-11-06T14:24:28+00:00",
+      "date": "2025-11-06 14:24:28",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/0d0YdpQ94IssdfgwDOmuDOqh9nk=/2500x/article-new/2024/11/apple-watch-se-holiday.jpeg",
+      "url": "/tech-news/2025-11-06/amazon-introduces-ultra-low-prices-on-previous-gen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Amazon",
+        "Apple",
+        "MacRumors"
+      ],
+      "people": []
+    },
+    {
+      "title": "ARC Raiders: první velký patch, stabilní hráčská základna a rekordní hodnocení",
+      "description": "Kooperativní akční hra ARC Raiders od studia Embark přináší aktualizaci 1.1.0 zaměřenou na opravy chyb a drobné novinky, zatímco si udržuje přes 300 tisíc současně hrajících uživatelů a potvrzuje silný start nové značky v multiplayerovém segmentu.",
+      "slug": "arc-raiders-patch-notes-concurrent-players-and-rec",
+      "publishedAt": "2025-11-06T13:52:01+00:00",
+      "date": "2025-11-06 13:52:01",
+      "importance": 3,
+      "category": "herní průmysl",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6818c0705280577093358203/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-11-06/arc-raiders-patch-notes-concurrent-players-and-rec/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Apple v EU zruší automatické sdílení Wi‑Fi mezi iPhonem a Apple Watch v iOS 26.2",
       "description": "Apple v připravovaném iOS 26.2 pro uživatele v EU vypne automatickou synchronizaci Wi‑Fi sítí mezi iPhonem a Apple Watch, údajně kvůli požadavkům na interoperabilitu podle evropského nařízení Digital Markets Act.",
@@ -46,6 +126,28 @@
       "people": []
     },
     {
+      "title": "Huawei Mate 70 Air míří proti iPhone Air: tenčí design bez kompromisů u baterie a fotoaparátu",
+      "description": "Huawei představuje Mate 70 Air jako přímou odpověď na iPhone Air: štíhlý telefon se čtyřmi zadními fotoaparáty a výrazně větší baterií, který míří na uživatele hledající kombinaci designu a výdrže.",
+      "slug": "another-iphone-air-competitor-lands-the-huawei-mat",
+      "publishedAt": "2025-11-06T12:30:00+00:00",
+      "date": "2025-11-06 12:30:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Another-iPhone-Air-competitor-lands-%E2%80%93-the-Huawei-Mate-70-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-06/another-iphone-air-competitor-lands-the-huawei-mat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Huawei",
+        "Motorola"
+      ],
+      "people": []
+    },
+    {
       "title": "Ikea zlevňuje chytrou domácnost: nová řada zařízení s podporou Matter-over-Thread",
       "description": "Ikea představila 21 cenově dostupných zařízení pro chytrou domácnost s podporou Matter-over-Thread, včetně žárovek, senzorů a ovladačů, a aktualizovala hub Dirigera na plnohodnotný Matter controller a Thread border router.",
       "slug": "ikeas-new-low-cost-line-is-a-huge-win-for-matter-a",
@@ -70,13 +172,36 @@
       "people": []
     },
     {
-      "title": "Únik naznačuje, že iPhone Air 2026 může dostat duální fotoaparát",
-      "description": "Podle úniku z čínského dodavatelského řetězce Apple zvažuje, že druhá generace ultratenkého iPhone Air v roce 2026 dostane dva zadní fotoaparáty, přičemž si zachová horizontální modul a důraz na tenké a lehké tělo.",
+      "title": "Apple ostře kritizuje EU za digitální regulace, varuje před nárůstem podvodů a zneužívání",
+      "description": "Apple v dopise Evropské komisi tvrdí, že povinné otevření iOS konkurenci na základě evropských digitálních zákonů oslabuje bezpečnost a soukromí uživatelů a zvyšuje riziko podvodů. Spor se odehrává na pozadí napětí mezi USA a EU ohledně regulace velkých technologických firem.",
+      "slug": "apple-blasts-eu-over-digital-competition-laws-warn",
+      "publishedAt": "2025-11-06T11:00:20+00:00",
+      "date": "2025-11-06 11:00:20",
+      "importance": 3,
+      "category": "legislativa tech",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/27/b6d2ce56-c8c4-47d1-8f68-118186c02f1c/thumbnail/1200x630/b21fdf40da120196a841d7e360ba786e/gettyimages-2152534755.jpg",
+      "url": "/tech-news/2025-11-06/apple-blasts-eu-over-digital-competition-laws-warn/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook",
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "iPhone Air 2026 by mohl dostat dvě zadní kamery, naznačuje únik z dodavatelského řetězce",
+      "description": "Podle úniku z čínského prostředí Apple testuje druhou generaci ultra tenkého iPhone Air s dvojicí zadních fotoaparátů a zachovaným horizontálním modulem, přičemž uvedení se očekává v roce 2026 po boku řady iPhone 18 a prvního skládacího iPhonu.",
       "slug": "A-2026-iphone-air-could-feature-two-rear-cameras-s",
       "publishedAt": "2025-11-06T10:13:08+00:00",
       "date": "2025-11-06 10:13:08",
       "importance": 2,
-      "category": "smartphony",
+      "category": "hardware",
       "urlToImage": "https://images.macrumors.com/t/q96ABw3mwSB9d0sFdjVeclpwDzI=/1600x/article-new/2025/11/iphone-air-camera.jpg",
       "url": "/tech-news/2025-11-06/A-2026-iphone-air-could-feature-two-rear-cameras-s/",
       "source": {
@@ -85,7 +210,8 @@
         "name": "MacRumors"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "MacRumors"
       ],
       "people": []
     },
@@ -118,8 +244,52 @@
       ]
     },
     {
-      "title": "Canon představuje EOS R6 Mark III s 32,5Mpx snímačem a 7K videem",
-      "description": "Canon uvádí full-frame bezzrcadlovku EOS R6 Mark III s novým 32,5Mpx snímačem, 7K RAW videem a rychlým CFexpress Type B slotem jako univerzální nástroj pro fotografy i video tvůrce.",
+      "title": "Apple má platit Googlu 1 miliardu dolarů ročně za integraci Gemini do příští generace Siri",
+      "description": "Apple podle dostupných informací uzavírá s Googlem několikaletou dohodu v hodnotě zhruba 1 miliardy dolarů ročně na vývoj specializované verze modelu Gemini, která má zásadně změnit fungování Siri a posílit pozici Applu v AI závodu.",
+      "slug": "apple-is-paying-google-1bn-to-upgrade-siri-with-ge",
+      "publishedAt": "2025-11-06T08:36:36+00:00",
+      "date": "2025-11-06 08:36:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/03/iPhone-16e-new-siri-interface.jpg",
+      "url": "/tech-news/2025-11-06/apple-is-paying-google-1bn-to-upgrade-siri-with-ge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "Únik detailů fotoaparátů Galaxy S26 Ultra: kosmetické změny místo zásadního upgradu",
+      "description": "Nový únik naznačuje, že Samsung Galaxy S26 Ultra zachová většinu stávající fotovýbavy a přinese jen mírné úpravy, zatímco konkurence výrazně inovuje hardwarové senzory.",
+      "slug": "galaxy-s26-ultra-cameras-leak-were-you-really-expe",
+      "publishedAt": "2025-11-06T06:28:50+00:00",
+      "date": "2025-11-06 06:28:50",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S26-Ultra-CAD-render.jpg",
+      "url": "/tech-news/2025-11-06/galaxy-s26-ultra-cameras-leak-were-you-really-expe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Canon EOS R6 Mark III přináší 32,5Mpx snímač, 7K video a rychlejší úložiště",
+      "description": "Canon představil plnoformátový fotoaparát EOS R6 Mark III s novým 32,5Mpx snímačem, podporou 7K RAW videa, vylepšeným autofokusem a upravenou konfigurací paměťových karet včetně CFexpress Type B slotu. Model cílí na univerzální použití pro foto i video pod úrovní profesionální řady EOS R5.",
       "slug": "canon-adds-a-32-megapixel-sensor-and-7k-video-to-t",
       "publishedAt": "2025-11-06T06:00:00+00:00",
       "date": "2025-11-06 06:00:00",
@@ -138,13 +308,13 @@
       "people": []
     },
     {
-      "title": "Bose výrazně zlevňuje sluchátka QuietComfort, tlačí na konkurenci Sony a Apple",
-      "description": "Bose snižuje cenu svých prémiových ANC sluchátek QuietComfort z 349 na 199 dolarů, čímž agresivně vyprodává skladové zásoby a vytváří cenový tlak na konkurenty jako Sony a Apple.",
+      "title": "Bose výrazně zlevňuje QuietComfort, míří pod ceny sluchátek Apple a Sony",
+      "description": "Bose agresivně snižuje cenu svých prémiových QuietComfort sluchátek z 349 na 199 dolarů, aby vyčistil skladové zásoby. Tím se dostává pod cenovou úroveň základních modelů konkurentů Apple a Sony a zvyšuje tlak na celý trh prémiových sluchátek s aktivním potlačením hluku.",
       "slug": "bose-rushes-to-clear-out-its-qc-headphones-stock-n",
       "publishedAt": "2025-11-06T01:12:44+00:00",
       "date": "2025-11-06 01:12:44",
       "importance": 3,
-      "category": "hardware",
+      "category": "audio technika",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/08/bose-headphones-1200x675.jpg",
       "url": "/tech-news/2025-11-06/bose-rushes-to-clear-out-its-qc-headphones-stock-n/",
       "source": {
@@ -157,15 +327,11 @@
         "Sony",
         "Apple"
       ],
-      "people": [
-        "Sony",
-        "Apple",
-        "Bose"
-      ]
+      "people": []
     },
     {
-      "title": "Vzácná forma syfilis u 83letého muže zmátla lékaře",
-      "description": "Případ 83letého muže z Belgie s netypickými příznaky sekundární syfilis ukazuje, jak obtížné je tuto infekci diagnostikovat, pokud pacient neuvádí úplné informace o svém zdravotním a sexuálním chování.",
+      "title": "Vzácná forma syfilis u ženatého seniora zmátla lékaře",
+      "description": "Kazuistika 83letého muže z Belgie ukazuje, jak komplikovaná může být diagnostika syfilis, zejména pokud pacient neuvádí úplné informace o svém sexuálním životě.",
       "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
       "publishedAt": "2025-11-05T23:29:42+00:00",
       "date": "2025-11-05 23:29:42",
@@ -182,13 +348,13 @@
       "people": []
     },
     {
-      "title": "Trend alert: Bluetooth CD přehrávače spojují retro design s moderní technikou",
-      "description": "Nová generace přenosných CD přehrávačů kombinuje klasický formát disků s moderními funkcemi, jako je Bluetooth a nabíjení přes USB‑C, a cílí na mladší publikum hledající hmatatelný hudební zážitek bez notifikací a algoritmů.",
+      "title": "Trend alert: High-tech Bluetooth CD přehrávače vracejí nostalgii po éře mixtapů",
+      "description": "Nová generace přenosných CD přehrávačů kombinuje retro design s moderními funkcemi, jako je Bluetooth a USB-C, a míří na mladší uživatele hledající hmatatelný formát bez rušivých notifikací.",
       "slug": "trend-alert-high-tech-bluetooth-cd-players-make-me",
       "publishedAt": "2025-11-05T22:11:13+00:00",
       "date": "2025-11-05 22:11:13",
-      "importance": 2,
-      "category": "hardware",
+      "importance": 3,
+      "category": "audio technika",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
       "url": "/tech-news/2025-11-05/trend-alert-high-tech-bluetooth-cd-players-make-me/",
       "source": {
@@ -197,7 +363,11 @@
         "name": "Mashable"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "Spotify",
+        "Sony",
+        "Philips",
+        "Bose"
       ],
       "people": []
     },
@@ -241,12 +411,12 @@
       "people": []
     },
     {
-      "title": "MacBook Air s čipem M4 je před Black Friday levnější než kdy dřív",
-      "description": "Apple MacBook Air s procesorem M4 je nyní na Amazonu o 250 dolarů levněji. Jde o historicky nejnižší cenu pro tento model s vylepšeným výkonem a 16GB RAM.",
+      "title": "M4 MacBook Air před Black Friday výrazně zlevňuje a posouvá standard mobilních notebooků",
+      "description": "Apple před Black Friday zlevnil 13\" i 15\" MacBook Air s čipem M4 o 250 dolarů, čímž výrazně zvyšuje tlak na konkurenční ultrabooky s procesory Intel a AMD. Kombinace nižší ceny, vyššího výkonu, 16 GB RAM v základu a dlouhé výdrže mění poměr cena/výkon v prémiovém segmentu.",
       "slug": "apples-slim-m4-macbook-air-is-cheaper-than-ever-ah",
       "publishedAt": "2025-11-05T20:46:17+00:00",
       "date": "2025-11-05 20:46:17",
-      "importance": 3,
+      "importance": 4,
       "category": "hardware",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/MacBook-Air-M4-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-05/apples-slim-m4-macbook-air-is-cheaper-than-ever-ah/",
@@ -308,6 +478,24 @@
       "people": []
     },
     {
+      "title": "Nova Launcher se nečekaně vrací: druhá aktualizace během dvou týdnů vrací důvěru uživatelů",
+      "description": "Populární androidí launcher Nova Launcher po nejistém období získává druhou rychlou aktualizaci s opravami chyb a zlepšením stability, přestože původní vývojářský tým už na projektu oficiálně nepracuje.",
+      "slug": "nova-launcher-is-back-with-a-second-unexpected-upd",
+      "publishedAt": "2025-11-05T20:20:32+00:00",
+      "date": "2025-11-05 20:20:32",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/nova-launcher-play-store.jpg",
+      "url": "/tech-news/2025-11-05/nova-launcher-is-back-with-a-second-unexpected-upd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "iOS 26.2: Kdy přijde další velká aktualizace a jaké novinky přinese iPhonům",
       "description": "Apple připravuje vydání iOS 26.2 na polovinu prosince a testuje sadu nových funkcí pro Podcasty, News, Připomínky, Freeform, spánek i přizpůsobení zamykací obrazovky. Aktualizace navazuje na změny v iOS 26.1 a dále posiluje ekosystém iPhonu.",
       "slug": "ios-262-release-date-heres-when-new-iphone-feature",
@@ -350,8 +538,8 @@
       "people": []
     },
     {
-      "title": "Spor Disney a Google zasahuje Movies Anywhere: Google Play a YouTube končí se synchronizací digitálních filmů",
-      "description": "Probíhající spor mezi Disney a Google se rozšiřuje mimo YouTube TV i na službu Movies Anywhere. Google Play a YouTube již nesynchronizují nové nákupy filmů, což narušuje dosud klíčovou funkci jednotné digitální knihovny napříč platformami.",
+      "title": "Spory Disney a Google zasahují Movies Anywhere: Google ukončil synchronizaci digitálních filmů",
+      "description": "Probíhající spor mezi Disney a Google se rozšířil za hranice YouTube TV a nově dopadá i na Movies Anywhere. Google Play a YouTube přestávají podporovat synchronizaci digitálních nákupů filmů, což narušuje dosud klíčovou interoperabilitu filmových knihoven.",
       "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
       "publishedAt": "2025-11-05T19:58:00+00:00",
       "date": "2025-11-05 19:58:00",
@@ -366,10 +554,9 @@
       },
       "companies": [
         "Disney",
-        "YouTube",
         "Google",
         "Movies Anywhere",
-        "Apple"
+        "YouTube TV"
       ],
       "people": []
     },
@@ -397,6 +584,27 @@
         "Na základě poskytnutého textu (nadpisu a popisu) nejsou zmíněny žádné konkrétní osobnosti jménem. Text hovoří pouze o společnostech Apple Inc. a Alphabet Inc.'s Google",
         "nikoli o konkrétních lidech.\n\nžádné"
       ]
+    },
+    {
+      "title": "iOS 26.1 mění vypínání budíků na posuvník. Jak vrátit tlačítko „Stop“",
+      "description": "Aktualizace iOS 26.1 nahrazuje na zamykací obrazovce tlačítko „Stop“ pro budíky a časovače gestem „Posuňte pro zastavení“. Apple však přidal volitelné nastavení, které umožňuje původní tlačítko obnovit.",
+      "slug": "ios-261-makes-alarms-use-a-slider-heres-how-to-get",
+      "publishedAt": "2025-11-05T19:13:00+00:00",
+      "date": "2025-11-05 19:13:00",
+      "importance": 3,
+      "category": "ios",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26-1-alarms-slide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-05/ios-261-makes-alarms-use-a-slider-heres-how-to-get/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": []
     },
     {
       "title": "Slevy na kompletní řadu Pixel 10 na Amazonu: kdy má smysl koupit základní model a kdy jít do Pro",
@@ -439,8 +647,8 @@
       "people": []
     },
     {
-      "title": "Google uvádí aplikaci Theme packs pro rychlé přizpůsobení telefonů Pixel",
-      "description": "Google spouští novou aplikaci Theme packs pro telefony Pixel 6 a novější, která umožní jedním krokem změnit tapety, ikony, zvuky a další prvky systému pomocí sezónních balíčků.",
+      "title": "Google uvádí novou aplikaci Theme packs pro rychlé přizpůsobení telefonů Pixel",
+      "description": "Google vydal na Play Store aplikaci Theme packs pro telefony Pixel 6 a novější, která umožňuje jedním krokem změnit tapety, ikony, zvuky a další prvky uživatelského prostředí pomocí sezónních balíčků.",
       "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
       "publishedAt": "2025-11-05T18:31:00+00:00",
       "date": "2025-11-05 18:31:00",
@@ -522,8 +730,8 @@
       "people": []
     },
     {
-      "title": "Chyba v BitLockeru po říjnových aktualizacích Windows může znepřístupnit PC a vést ke ztrátě dat",
-      "description": "Nedávné aktualizace Windows 10 a 11 způsobují, že některá zařízení náhle vyžadují BitLocker recovery key. Uživatelé bez zálohovaného klíče riskují kompletní ztrátu dat.",
+      "title": "Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může vést ke ztrátě dat",
+      "description": "Nedávné aktualizace Windows způsobují u části uživatelů nečekané vyžádání BitLocker recovery klíče při startu systému. Pokud uživatel klíč nemá zálohovaný, hrozí mu ztráta přístupu k počítači i k veškerým datům.",
       "slug": "bitlocker-recovery-bug-in-recent-windows-updates-c",
       "publishedAt": "2025-11-05T16:57:00+00:00",
       "date": "2025-11-05 16:57:00",
@@ -542,8 +750,8 @@
       "people": []
     },
     {
-      "title": "AI prsten Stream Ring umožní šeptem zaznamenávat hlasové poznámky",
-      "description": "Bývalí zaměstnanci Meta představili chytrý prsten Stream Ring, který umožňuje diskrétní záznam hlasových poznámek, jejich přepis a práci s osobním AI asistentem. Zařízení míří na trh v létě 2026 a cílí na uživatele hledající nenápadný nástroj pro průběžné zaznamenávání myšlenek.",
+      "title": "AI prsten Stream Ring umožní šeptem pořizovat hlasové poznámky",
+      "description": "Bývalí zaměstnanci Meta představili chytrý prsten Stream Ring, který umožňuje diskrétní hlasové záznamy, automatický přepis a osobní AI asistenta napodobující hlas uživatele. Do USA má dorazit v létě 2026.",
       "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
       "publishedAt": "2025-11-05T16:55:55+00:00",
       "date": "2025-11-05 16:55:55",
@@ -610,8 +818,8 @@
       "people": []
     },
     {
-      "title": "Nový Dodge Charger Scat Pack SIXPACK: nejvýkonnější sedan v USA pod 60 000 dolarů",
-      "description": "Dodge uvádí nový Charger Scat Pack SIXPACK se šestiválcem Hurricane o výkonu 550 koní, pohonem všech kol a režimem pouze zadního náhonu, který se stává nejvýkonnějším sedanem na americkém trhu pod 60 000 dolarů.",
+      "title": "Nový Dodge Charger Scat Pack: Nejvýkonnější sedan v USA pod 60 000 dolarů",
+      "description": "Dodge uvádí nový Charger Scat Pack se šestiválcem Hurricane o výkonu 550 koní, pohonem všech kol a režimem pouze zadního náhonu, který se stává nejvýkonnějším sedanem v USA pod hranicí 60 000 dolarů.",
       "slug": "new-charger-sixpack-is-americas-most-powerful-seda",
       "publishedAt": "2025-11-05T16:23:31+00:00",
       "date": "2025-11-05 16:23:31",
@@ -3518,24 +3726,6 @@
       "people": []
     },
     {
-      "title": "Despite their unpopularity, iPhone crossbody straps aren’t as useless as they may seem - 9to5Mac",
-      "description": "With the launch of the iPhone 17 lineup this fall, Apple debuted a new accessory – the crossbody strap. It...",
-      "slug": "despite-their-unpopularity-iphone-crossbody-straps",
-      "publishedAt": "2025-11-01T18:56:00+00:00",
-      "date": "2025-11-01 18:56:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/crossbody-strap-iphone-air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-01/despite-their-unpopularity-iphone-crossbody-straps/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "New Google Pixel October 2025 update with ‘performance improvements’ rolls out [U] - 9to5Google",
       "description": "Google today released new October builds for the Pixel 7-10 series, with Verizon shedding some light on what this update brings.",
       "slug": "new-google-pixel-october-2025-update-with-performa",
@@ -3569,48 +3759,6 @@
         "name": "BGR"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "AMD přidává čtyři hry ze Steamu k herní konzoli Lenovo Legion Go 2",
-      "description": "AMD spustilo propagační akci exkluzivně pro síť Costco, která k herní konzoli Lenovo Legion Go 2 s procesorem Ryzen Z2 přidává balíček čtyř her ze Steamu.",
-      "slug": "amd-bundles-four-steam-games-with-lenovo-legion-go",
-      "publishedAt": "2025-11-01T16:48:00+00:00",
-      "date": "2025-11-01 16:48:00",
-      "importance": 3,
-      "category": "herní hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/LEGION-GO-AMD-GAME-BUNDLE.jpg",
-      "url": "/tech-news/2025-11-01/amd-bundles-four-steam-games-with-lenovo-legion-go/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "AMD",
-        "Lenovo",
-        "Valve"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ayaneo Phone potvrzen v teaseru s retro designem",
-      "description": "Společnost Ayaneo, známá svými herními handheldy, potvrdila vývoj svého prvního telefonu s fyzickými ovládacími prvky.",
-      "slug": "ayaneo-phone-confirmed-in-a-teaser-featuring-retro",
-      "publishedAt": "2025-11-01T16:43:17+00:00",
-      "date": "2025-11-01 16:43:17",
-      "importance": 2,
-      "category": "herní telefony",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "url": "/tech-news/2025-11-01/ayaneo-phone-confirmed-in-a-teaser-featuring-retro/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Ayaneo"
-      ],
       "people": []
     },
     {
@@ -3651,24 +3799,6 @@
       "companies": [
         "Apple"
       ],
-      "people": []
-    },
-    {
-      "title": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams - TechCrunch",
-      "description": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
-      "slug": "ai-researchers-embodied-an-llm-into-a-robot-and-it",
-      "publishedAt": "2025-11-01T15:00:00+00:00",
-      "date": "2025-11-01 15:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
-      "url": "/tech-news/2025-11-01/ai-researchers-embodied-an-llm-into-a-robot-and-it/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3713,24 +3843,6 @@
       "people": []
     },
     {
-      "title": "Don't Want to Pay to Store All Your Memories in the Cloud? Do This Instead - CNET",
-      "description": "There's an easy way to back up your photos and videos without relying on cloud subscription services.",
-      "slug": "dont-want-to-pay-to-store-all-your-memories-in-the",
-      "publishedAt": "2025-11-01T14:00:00+00:00",
-      "date": "2025-11-01 14:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/134aa5aff7d585b70ab688797710fe67be3f764b/hub/2025/09/29/ed96b29b-fc00-49af-907c-14bdd11d78a5/image-6.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-01/dont-want-to-pay-to-store-all-your-memories-in-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Google aktualizoval LED indikátory na reproduktorech Nest s asistentem Gemini",
       "description": "Chytré reproduktory Google Home Mini, Nest Mini a Nest Audio dostaly nové barevné LED indikátory po přechodu na hlasového asistenta Gemini for Home.",
       "slug": "nest-audio-mini-and-home-mini-get-updated-lights-w",
@@ -3769,24 +3881,6 @@
       "people": []
     },
     {
-      "title": "Apple Watch Ultra 3 Hits New Record Low Price of $699.99 ($99 Off) - MacRumors",
-      "description": "Apple Watch Ultra 3 has hit a new all-time low price on Amazon this weekend, available at $99 off select models. This includes the higher-end...",
-      "slug": "apple-watch-ultra-3-hits-new-record-low-price-of-6",
-      "publishedAt": "2025-11-01T13:18:16+00:00",
-      "date": "2025-11-01 13:18:16",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://images.macrumors.com/t/mXU2QtU7dBSqEi8e_eiJgwqpDMI=/2500x/article-new/2025/11/apple-watch-ultra-3-mint.jpeg",
-      "url": "/tech-news/2025-11-01/apple-watch-ultra-3-hits-new-record-low-price-of-6/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Top Stories: iOS 26.1 Imminent, iPhone 18 Rumors, and More - MacRumors",
       "description": "After a flurry of Apple releases in September in October, the calendar has now turned to November, but that doesn't necessarily mean Apple is...",
       "slug": "top-stories-ios-261-imminent-iphone-18-rumors-and-",
@@ -3800,60 +3894,6 @@
         "emoji": "📰",
         "id": null,
         "name": "MacRumors"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "‘ARC Raiders’ Has A Substantive 2025 Roadmap Already - Forbes",
-      "description": "Despite just coming out and there being only two months left in the year, Embark has a big ARC Raiders roadmap.",
-      "slug": "arc-raiders-has-a-substantive-2025-roadmap-already",
-      "publishedAt": "2025-11-01T12:47:45+00:00",
-      "date": "2025-11-01 12:47:45",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690600ca2bc4d5fb50409f77/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-11-01/arc-raiders-has-a-substantive-2025-roadmap-already/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Android Auto's best feature isn't navigation - Android Police",
-      "description": "It's about getting there safely",
-      "slug": "android-autos-best-feature-isnt-navigation-android",
-      "publishedAt": "2025-11-01T12:37:00+00:00",
-      "date": "2025-11-01 12:37:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/top-view-of-a-car-driving-over-the-android-auto-logo.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-01/android-autos-best-feature-isnt-navigation-android/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Honda Salesman Takes Chevy Trailblazer to Dealership. Then GM Refuses Coverage Because of How His Car Smells - Motor1.com",
-      "description": "In a viral video, a Honda salesman says he brought his Trailblazer to a Chevrolet dealership and was shocked by how his issue was handled.",
-      "slug": "honda-salesman-takes-chevy-trailblazer-to-dealersh",
-      "publishedAt": "2025-11-01T11:45:54+00:00",
-      "date": "2025-11-01 11:45:54",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/QebNo0/s1/chevrolet-trailblazer-to-the-dealership.-then-gm-refuses-coverage.jpg",
-      "url": "/tech-news/2025-11-01/honda-salesman-takes-chevy-trailblazer-to-dealersh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Motor1 "
       },
       "companies": [],
       "people": []
@@ -3998,24 +4038,6 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "First look at how Copilot will change Windows 11 taskbar search - Windows Latest",
-      "description": "Microsoft testing \"Ask Copilot\" in the Windows 11 taskbar, replacing Search with Copilot Vision, Voice, rolling out now in Build 26220.7051",
-      "slug": "first-look-at-how-copilot-will-change-windows-11-t",
-      "publishedAt": "2025-11-01T00:24:31+00:00",
-      "date": "2025-11-01 00:24:31",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2025/11/Ask-Copilot-in-the-taskbar-in-place-of-Windows-Search.jpg",
-      "url": "/tech-news/2025-11-01/first-look-at-how-copilot-will-change-windows-11-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WindowsLatest"
       },
       "companies": [],
       "people": []

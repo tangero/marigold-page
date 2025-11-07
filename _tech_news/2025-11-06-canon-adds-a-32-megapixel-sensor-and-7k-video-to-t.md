@@ -4,9 +4,10 @@ category: fototechnika
 companies:
 - Canon
 date: '2025-11-06 06:00:00'
-description: Canon uvádí full-frame bezzrcadlovku EOS R6 Mark III s novým 32,5Mpx
-  snímačem, 7K RAW videem a rychlým CFexpress Type B slotem jako univerzální nástroj
-  pro fotografy i video tvůrce.
+description: Canon představil plnoformátový fotoaparát EOS R6 Mark III s novým 32,5Mpx
+  snímačem, podporou 7K RAW videa, vylepšeným autofokusem a upravenou konfigurací
+  paměťových karet včetně CFexpress Type B slotu. Model cílí na univerzální použití
+  pro foto i video pod úrovní profesionální řady EOS R5.
 importance: 3
 layout: tech_news_article
 original_title: Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark
@@ -17,38 +18,35 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Canon představuje EOS R6 Mark III s 32,5Mpx snímačem a 7K videem
+title: Canon EOS R6 Mark III přináší 32,5Mpx snímač, 7K video a rychlejší úložiště
 url: https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/7084C018-r6-markiii-24-105stm-02_colorbg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/7084C018-r6-markiii-24-105stm-02_colorbg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
 ## Souhrn
-Canon oznámil EOS R6 Mark III, nový full-frame fotoaparát mířící na pokročilé amatéry a profesionály, kteří potřebují univerzální tělo pro fotografii i video. Novinka přináší 32,5Mpx snímač, až 7K / 60p RAW video, přepracované sloty na paměťové karty včetně CFexpress Type B a řadu funkčních úprav zaměřených na spolehlivější autofocus a praktičtější video workflow.
+Canon oznámil nový plnoformátový bezzrcadlový fotoaparát EOS R6 Mark III, který navazuje na předchozí R6, ale přidává 32,5Mpx snímač, 7K / 60p RAW video, rychlejší úložiště s CFexpress Type B a vylepšený systém automatického ostření. Přístroj míří na uživatele, kteří potřebují univerzální nástroj pro fotografii i video bez cenové a datové náročnosti top modelů typu EOS R5 Mark II.
 
 ## Klíčové body
-- Nový 32,5Mpx full-frame snímač jako posun z 24Mpx u předchozí generace.
-- 7K / 60p RAW a 4K / 120p video, včetně open gate záznamu pro flexibilní ořez.
-- Kombinace CFexpress Type B + SD UHS-II slotu pro rychlejší záznam a zálohování.
-- Vylepšený systém automatického ostření s možností registrace konkrétní tváře.
-- Nový objektiv RF 45mm f/1.2 STM jako doplněk pro portrét a hybridní tvorbu.
+- Nový 32,5Mpx plnoformátový snímač místo 24 Mpx u R6 Mark II
+- Podpora 7K / 60p RAW záznamu a 4K / 120p, včetně open gate režimu
+- Kombinace CFexpress Type B a SD UHS-II slotu pro vyšší rychlost a flexibilitu
+- Vylepšený autofokus s možností registrace konkrétní tváře
+- Plnohodnotný HDMI Type A konektor a tally lamp pro jistotu při natáčení videa
 
 ## Podrobnosti
-EOS R6 Mark III navazuje na koncepci předchozího modelu jako univerzální „pracovní“ tělo, ale řeší jeho hlavní slabiny. Klíčovou změnou je nový 32,5megapixelový full-frame snímač, který poskytuje vyšší rozlišení pro detailní práci, větší možnosti ořezu a současně zůstává pod 45Mpx hranicí modelu EOS R5 Mark II. Tím Canon cíleně pokrývá segment tvůrců, kteří požadují kvalitní obraz, ale nechtějí extrémní datový objem a cenu high-end těl.
+EOS R6 Mark III rozšiřuje produktovou řadu Canon R6 směrem k náročnějším uživatelům, kteří vyžadují vyšší rozlišení a pokročilejší video funkce, ale zároveň nechtějí přecházet do cenové hladiny profesionálních modelů. Nový 32,5megapixelový plnoformátový snímač znamená podstatný posun oproti 24 Mpx u předchůdce a lépe odpovídá požadavkům současných tvůrců na detail, možnost ořezu a univerzálnější použití v komerční i produkční praxi. Vyšší rozlišení je relevantní pro produktovou fotografii, svatby, reportáže i tvorbu obsahu pro sociální sítě, kde se často pracuje s výřezy a vertikálním formátem.
 
-Pro video je zásadní podpora až 7K / 60p RAW záznamu a 4K / 120p, včetně open gate režimu, kdy se využívá celý snímač a záznam lze následně přizpůsobit různým poměrům stran pro web, mobilní sítě nebo více formátů současně. Podpora Canon Log 2 a uživatelských obrazových profilů umožňuje lépe sladit barevné podání s profesionálními workflow a zjednodušuje gradování v postprodukci. To je relevantní pro menší produkce, dokumentární tvůrce i firemní video, které se snaží přiblížit kvalitě velkých studií bez investice do filmových kamer.
+Pro video Canon přidává záznam až 7K / 60p v RAW formátu a 4K / 120p, což umožňuje využít vyšší oversampling, flexibilitu v postprodukci a zpomalené záběry bez zásadních kompromisů v kvalitě. Open gate režim, tedy využití celé plochy snímače, je důležitý pro tvůrce, kteří připravují obsah pro více poměrů stran (16:9, 9:16, 1:1) a potřebují maximální prostor pro ořez. Podpora Canon Log 2 a uživatelských obrazových profilů umožňuje lepší sladění s profesionálními workflow, gradingem a vícekamerovými sestavami.
 
-Praktické změny pro natáčení zahrnují jasně viditelnou signalizaci záznamu (tally lamp), která snižuje riziko chyb při práci v týmu, a přechod z křehkého micro HDMI na plnohodnotný HDMI Type A, což je důležitý detail pro spolehlivé použití externích monitorů a rekordérů. Nová konfigurace dvou karet s jedním slotem CFexpress Type B řeší limity předchozích modelů při záznamu vysokých datových toků (7K RAW, vysoké snímkové frekvence), umožňuje současný backup a dává tvůrcům rozumnou flexibilitu mezi výkonem a cenou médií.
+Zásadní praktickou změnou je kombinace slotů CFexpress Type B a SD UHS-II. CFexpress umožňuje spolehlivý zápis datově náročného 7K RAW a vysokých snímkových frekvencí, zatímco SD zůstává kompromisem pro méně náročné scénáře a kompatibilitu. Přechod z micro HDMI na plnohodnotný HDMI Type A je technicky rozumný krok, který snižuje riziko poškození konektoru a výpadků signálu při použití externích rekordérů nebo náhledových monitorů.
 
-Vylepšený autofocus zahrnuje možnost registrovat konkrétní tvář, která pak dostává prioritu při ostření. Tato funkce je praktická pro natáčení rozhovorů, eventů nebo streamů, kde je nutné, aby fotoaparát konzistentně preferoval jednoho člověka i v náročných scénách. Tím Canon reaguje na reálné potřeby hybridních tvůrců a menších štábů, kteří často spoléhají na automatické ostření místo dedikovaného zaostřovače.
-
-Současně oznámený objektiv RF 45mm f/1.2 STM cílí na portrétní a lifestyle fotografii a video. Světelnost f/1.2 umožňuje práci v horších světelných podmínkách, výrazné oddělení objektu od pozadí a kreativní kontrolu hloubky ostrosti. Motor STM je tišší a vhodný pro video, ale je nutné ověřit reálnou rychlost a přesnost v kombinaci s novým tělem.
+Vylepšený autofokus s možností registrace konkrétní tváře řeší praktický problém při natáčení rozhovorů, reportáží či svateb, kde je potřeba konzistentně preferovat danou osobu. Pro videotvůrce je užitečný také tally lamp – jednoduchý, ale efektivní prvek, který jasně signalizuje, že kamera natáčí, což snižuje chybovost na place. Canon tím postupně přibližuje R6 Mark III profesionálním videokamerám, aniž by překročil cenový rámec univerzálního těla.
 
 ## Proč je to důležité
-EOS R6 Mark III ukazuje, jak Canon postupně konsoliduje RF ekosystém směrem k hybridním tvůrcům, kteří očekávají spolehlivý přístroj pro práci i obsah na platformy typu YouTube, sociální sítě a firemní video. Kombinace 32,5Mpx snímače, 7K RAW, open gate, Log 2 a CFexpress slotu posouvá „střední třídu“ blíže parametrům dříve vyhrazeným dražším modelům.
+EOS R6 Mark III potvrzuje trend, kdy výrobci fotoaparátů konsolidují segment "hybridních" těl: jedno zařízení má zvládnout kvalitní fotografii, vysoce detailní video a profesionální workflow bez nutnosti okamžité investice do high-end modelů. Canon tím reaguje na tlak konkurence, zejména od značek Sony a Nikon, které již podobně vybavené hybridní modely nabízejí.
 
-Z hlediska trhu nejde o průlomovou technologii, ale o pragmatickou evoluci: Canon se snaží minimalizovat kompromisy, které vedly část uživatelů ke konkurenci (Sony, Panasonic, Nikon), zejména v oblasti video funkcí a konektivity. Pro profesionály a pokročilé uživatele to znamená širší výběr v rámci RF systému bez nutnosti přejít na dražší modely, pro trh obecně pak pokračující tlak na to, aby i „mainstreamová“ těla nabízela funkce, které byly dříve považovány za specializované.
-
+Pro uživatele to znamená širší dostupnost funkcí, které byly dříve vyhrazeny dražším třídám: vysoké rozlišení, RAW video, open gate, rychlé karty a robustnější konektivita. V kontextu trhu s fototechnikou jde o evoluční krok, nikoli o zásadní technologický zlom, ale posiluje to trend, kdy se bezzrcadlovky nadále profilují jako hlavní nástroj pro profesionální i pokročilou tvorbu obsahu v éře streamingu, krátkých videí a vícepodnikového digitálního marketingu. Pro výrobce je zároveň klíčové, že takové modely mohou částečně bránit odlivu tvůrců k mobilním telefonům tím, že nabídnou jasně měřitelný technický náskok v kvalitě obrazu a flexibilitě.
 
 ---
 
