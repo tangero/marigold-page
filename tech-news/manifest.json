@@ -1,14 +1,153 @@
 {
-  "generated": "2025-11-08T16:21:41.734902+00:00",
+  "generated": "2025-11-08T20:21:06.474876+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Galaxy S26 se mohlo stát ikonou, Samsung ale zvolil předvídatelnost",
-      "description": "Samsung podle komentáře zůstává u konzervativní strategie řady Galaxy S26 s trojicí modelů a návratem čipů Exynos, místo aby představil výrazně odlišný Pro nebo Edge model a odstranil slabě profilovanou verzi Plus.",
+      "title": "Jak Elon Musk nakládá se svým majetkem",
+      "description": "Elon Musk, první člověk s majetkem přes 500 miliard dolarů, veřejně zdůrazňuje relativně skromný životní styl, zatímco investuje do nemovitostí, letectví, automobilů a velkých technologických projektů, včetně nákupu Twitteru.",
+      "slug": "what-does-elon-musk-do-with-all-his-money-bbc",
+      "publishedAt": "2025-11-07T17:29:23+00:00",
+      "date": "2025-11-07 17:29:23",
+      "importance": 2,
+      "category": "osobnosti tech",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg",
+      "url": "/tech-news/2025-11-07/what-does-elon-musk-do-with-all-his-money-bbc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX",
+        "OpenAI",
+        "Twitter",
+        "SolarCity"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nová Siri by mohla běžet na Google AI: praktický krok, ale s otázkami kolem nezávislosti a soukromí",
+      "description": "Apple údajně finalizuje dohodu s Google o využití jejich rozsáhlého AI modelu (1,2 bilionu parametrů) pro zásadní přepracování Siri. Tento krok může posílit schopnosti asistenta, ale otevírá otázky ohledně technologické závislosti a ochrany soukromí uživatelů.",
+      "slug": "new-siri-rumor-could-give-apple-and-users-exactly-",
+      "publishedAt": "2025-11-07T14:34:00+00:00",
+      "date": "2025-11-07 14:34:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/new-siri-rumor-could-give-apple-and-users-exactly-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "Chybná cena na webu Applu nabízela balení 4 AirTagů za 29 dolarů, objednávky byly zrušeny",
+      "description": "Na oficiálním webu Applu se krátkodobě objevila chybně uvedená cena, kdy čtyřbalení AirTagů stálo stejně jako jeden kus. Apple chybu rychle opravil a začal objednávky rušit.",
+      "slug": "apples-website-lists-airtag-4-pack-for-29-in-likel",
+      "publishedAt": "2025-11-07T14:21:00+00:00",
+      "date": "2025-11-07 14:21:00",
+      "importance": 1,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/screenshot-2025-11-07-at-09.20.13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/apples-website-lists-airtag-4-pack-for-29-in-likel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple zvažuje levný notebook s čipem z iPhonu: návrat konceptu iBook a boj o budoucnost webu",
+      "description": "Apple podle zpráv připravuje levný notebook s mobilním čipem, zatímco Amazon a Perplexity soupeří o to, kdo ovládne nákupní doporučování pomocí AI. Diskuse ukazuje, jak se mění strategie hardwaru, webu i způsobu, jakým uživatelé přistupují k informacím a e‑shopům.",
+      "slug": "bring-back-the-ibook-you-cowards-the-verge",
+      "publishedAt": "2025-11-07T14:10:27+00:00",
+      "date": "2025-11-07 14:10:27",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VRG_VST_1107_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-07/bring-back-the-ibook-you-cowards-the-verge/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "Perplexity",
+        "Microsoft",
+        "Google"
+      ],
+      "people": [
+        "Tim Cook",
+        "Jeff Bezos",
+        "Andy Jassy"
+      ]
+    },
+    {
+      "title": "Zneužitá VS Code rozšíření a falešné npm balíčky ukazují nový typ cíleného malwaru",
+      "description": "Útočníci publikovali škodlivé rozšíření pro VS Code s funkcemi ransomwaru a falešné balíčky v registru npm. Incident ukazuje, jak snadno lze zneužít důvěru v otevřený ekosystém vývojářských nástrojů a automatizované AI generování kódu.",
+      "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
+      "publishedAt": "2025-11-07T06:48:00+00:00",
+      "date": "2025-11-07 06:48:00",
+      "importance": 3,
+      "category": "kybernetika",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s790-rw-e365/vide-code-ransomware.jpg",
+      "url": "/tech-news/2025-11-07/vibe-coded-malicious-vs-code-extension-found-with-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gemini míří do Android Auto a postupně nahrazuje Google Assistant",
+      "description": "Google začal v omezeném testu zavádět AI asistenta Gemini do Android Auto, kde má postupně nahradit Google Assistant a rozšířit možnosti hlasového ovládání a integrace aplikací při řízení.",
+      "slug": "gemini-is-finally-hitting-the-road-with-android-au",
+      "publishedAt": "2025-11-07T05:51:00+00:00",
+      "date": "2025-11-07 05:51:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img20251030110106.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-07/gemini-is-finally-hitting-the-road-with-android-au/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Galaxy S26 zůstává předvídatelný: Samsung se vzdal odvážnější strategie s verzemi Pro a Edge",
+      "description": "Samsung podle dostupných informací zachová u řady Galaxy S26 tradiční trojici modelů S26, S26 Plus a S26 Ultra a neprosadí plánované varianty Pro a Edge. Rozhodnutí ukazuje, že firma volí konzervativní přístup místo snahy výrazně přepracovat standardní model a odstranit dlouhodobě problematickou pozici verze Plus.",
       "slug": "galaxy-s26-was-so-close-to-being-iconic-but-samsun",
       "publishedAt": "2025-11-07T02:01:44+00:00",
       "date": "2025-11-07 02:01:44",
-      "importance": 2,
+      "importance": 3,
       "category": "smartphony",
       "urlToImage": "https://m-cdn.phonearena.com/images/article/175541-wide-two_1200/Galaxy-S26-was-so-close-to-being-iconic-but-Samsung-chose-predictability.jpg",
       "url": "/tech-news/2025-11-07/galaxy-s26-was-so-close-to-being-iconic-but-samsun/",
@@ -25,8 +164,8 @@
       "people": []
     },
     {
-      "title": "IKEA uvádí 21 chytrých zařízení s podporou Matter a Apple HomeKit",
-      "description": "IKEA představila 21 nových chytrých produktů pro domácnost s podporou standardu Matter-over-Thread, včetně žárovek, senzorů a ovladačů, které budou fungovat s Apple HomeKit a aplikací Apple Domácnost a cílí na cenově dostupnou masovou adopci chytré domácnosti.",
+      "title": "IKEA uvádí 21 nových chytrých zařízení s podporou Matter a Apple Home",
+      "description": "IKEA představila 21 nových chytrých žárovek, senzorů, zásuvek a ovladačů s podporou standardu Matter-over-Thread, které budou fungovat s Apple HomeKit a dalšími platformami chytré domácnosti.",
       "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
       "publishedAt": "2025-11-07T00:08:24+00:00",
       "date": "2025-11-07 00:08:24",
@@ -66,13 +205,13 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští předčasné Black Friday slevy na elektroniku už od 3 dolarů",
-      "description": "Best Buy zahajuje rozsáhlé předčasné Black Friday slevy na tablety, notebooky, televize, domácí spotřebiče a další elektroniku, čímž vytváří cenový tlak v segmentu spotřební techniky a urychluje nákupní sezónu.",
+      "title": "Best Buy spustil předčasné Black Friday slevy na elektroniku od 3 dolarů",
+      "description": "Americký prodejce Best Buy zahájil v předstihu Black Friday promo akce s výraznými slevami na tablety, notebooky, televize, domácí spotřebiče a příslušenství. Akce ukazují agresivní cenovou strategii v segmentu spotřební elektroniky, ale jsou relevantní primárně pro americký trh.",
       "slug": "best-buy-just-dropped-tons-of-early-black-friday-d",
       "publishedAt": "2025-11-06T21:40:29+00:00",
       "date": "2025-11-06 21:40:29",
-      "importance": 3,
-      "category": "e‑commerce",
+      "importance": 2,
+      "category": "e-commerce",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/VoQ8YGbFgUK65Y69iXdKa5-2000-80.jpg",
       "url": "/tech-news/2025-11-06/best-buy-just-dropped-tons-of-early-black-friday-d/",
       "source": {
@@ -82,16 +221,16 @@
       },
       "companies": [
         "Apple",
-        "Amazon",
         "Google",
         "Microsoft",
-        "Samsung"
+        "Samsung",
+        "Sony"
       ],
       "people": []
     },
     {
-      "title": "WhatsApp začíná testovat propojení s jinými komunikačními aplikacemi v EU",
-      "description": "WhatsApp v beta verzi testuje možnost komunikovat s uživateli jiných chatovacích aplikací, zatím pouze v Evropské unii a v omezeném režimu. Funkce vzniká v reakci na požadavky regulace Digital Markets Act.",
+      "title": "WhatsApp testuje komunikaci s jinými chatovacími aplikacemi, zatím jen v EU",
+      "description": "WhatsApp v beta verzi umožňuje posílat zprávy uživatelům jiných komunikačních aplikací, což je přímá reakce na požadavky evropské legislativy Digital Markets Act. Funkce je aktuálně testována pouze v Evropské unii a odděluje konverzace z externích platforem od běžných chatů.",
       "slug": "whatsapp-finally-lets-you-message-people-on-other-",
       "publishedAt": "2025-11-06T20:23:00+00:00",
       "date": "2025-11-06 20:23:00",
@@ -107,9 +246,73 @@
       "companies": [
         "WhatsApp",
         "Meta",
-        "Google",
         "Apple",
-        "Microsoft"
+        "Google",
+        "Signal"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sdílení videí z YouTube v Google Zprávách se výrazně zlepší díky návratu přehrávače v plovoucím okně",
+      "description": "Google testuje návrat integrovaného přehrávače YouTube v režimu picture-in-picture v aplikaci Zprávy, což umožní sledovat videa přímo v konverzaci bez přepínání do samostatné aplikace.",
+      "slug": "sharing-youtube-clips-in-google-messages-may-be-ab",
+      "publishedAt": "2025-11-06T20:15:25+00:00",
+      "date": "2025-11-06 20:15:25",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/03/Google-Messages-logo-on-smartphone-laying-on-table-1.jpg",
+      "url": "/tech-news/2025-11-06/sharing-youtube-clips-in-google-messages-may-be-ab/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "YouTube",
+        "Android Authority"
+      ],
+      "people": []
+    },
+    {
+      "title": "GeForce RTX 5070 zlevňuje na 480 dolarů, Intel Arc B580 na 235 dolarů: 12GB GPU útočí před Black Friday",
+      "description": "Desktopové GPU GeForce RTX 5070 12GB a Intel Arc B580 12GB výrazně zlevňují v rámci předběžných slev Black Friday, čímž vytvářejí tlak na konkurenci v segmentu střední třídy.",
+      "slug": "geforce-rtx-5070-drops-to-record-low-480-arc-b580-",
+      "publishedAt": "2025-11-06T18:27:00+00:00",
+      "date": "2025-11-06 18:27:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/ARC-B580-RTX5070-DEAL-HERO.jpg",
+      "url": "/tech-news/2025-11-06/geforce-rtx-5070-drops-to-record-low-480-arc-b580-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple zpřístupnil veřejné bety iOS 26.2 a iPadOS 26.2 s novými funkcemi pro zamykací obrazovku, spánek a připomínky",
+      "description": "Apple vydal první veřejné bety iOS 26.2, iPadOS 26.2, tvOS 26.2 a watchOS 26.2. Aktualizace rozšiřují uživatelské funkce v oblasti uzamčené obrazovky, sledování spánku, připomínek, překladů a vybraných aplikací ekosystému.",
+      "slug": "apple-releases-first-ios-262-and-ipados-262-public",
+      "publishedAt": "2025-11-06T18:18:03+00:00",
+      "date": "2025-11-06 18:18:03",
+      "importance": 3,
+      "category": "mobilní systémy",
+      "urlToImage": "https://images.macrumors.com/t/TnRBQg6_KF5xtez0eVYDpx4-J7M=/2500x/article-new/2025/11/iOS-26.2-Glass-Feature.jpg",
+      "url": "/tech-news/2025-11-06/apple-releases-first-ios-262-and-ipados-262-public/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "MacRumors"
       ],
       "people": []
     },
@@ -134,8 +337,8 @@
       "people": []
     },
     {
-      "title": "Ruskému kosmodromu Vostočnyj odpojili elektřinu kvůli neplaceným účtům",
-      "description": "Výstavba klíčového ruského kosmodromu Vostočnyj čelí dalšímu problému: energetická společnost odpojila elektřinu v části areálu kvůli dluhu hlavního dodavatele PSO Kazan, což prohlubuje dlouhodobé potíže projektu spojené s korupcí a zpožděními.",
+      "title": "Ruskému kosmodromu Vostočný odpojili elektřinu kvůli neuhrazeným účtům",
+      "description": "Výstavba klíčového ruského kosmodromu Vostočný opět čelí problémům: dodavateli PSO Kazan byla kvůli dluhu přes půl milionu dolarů odpojena elektřina, což zvýrazňuje dlouhodobé selhávání projektu zatíženého korupcí, zpožděními a finanční nestabilitou.",
       "slug": "after-russian-spaceport-firm-fails-to-pay-bills-el",
       "publishedAt": "2025-11-06T17:53:35+00:00",
       "date": "2025-11-06 17:53:35",
@@ -152,8 +355,8 @@
       "people": []
     },
     {
-      "title": "Co se pokazilo mezi NASA a SpaceX? Znovuotevření lunárního kontraktu ukazuje limity Starship",
-      "description": "NASA kvůli zpožděním programu Starship znovu otevírá klíčový kontrakt na lunární lander pro misi Artemis III dalším konkurentům, včetně Blue Origin. Rozhodnutí odráží technická rizika, certifikační nároky a závislost programu návratu na Měsíc na jediné soukromé firmě.",
+      "title": "Co se pokazilo mezi NASA a SpaceX? Sporný vývoj lunárního landeru pro Artemis III",
+      "description": "NASA znovu otevírá kontrakt na lunární modul pro misi Artemis III kvůli zpožděním programu Starship od SpaceX, čímž vytváří prostor pro konkurenty, zejména Blue Origin.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
       "publishedAt": "2025-11-06T17:49:59+00:00",
       "date": "2025-11-06 17:49:59",
@@ -167,8 +370,8 @@
         "name": "The Conversation Africa"
       },
       "companies": [
-        "SpaceX",
-        "NASA"
+        "Nasa",
+        "SpaceX"
       ],
       "people": [
         "Elon Musk"
@@ -287,8 +490,8 @@
       "people": []
     },
     {
-      "title": "Amazon výrazně zlevňuje starší modely Apple Watch, ceny začínají na 159,99 USD",
-      "description": "Amazon spouští agresivní slevy na předchozí generace Apple Watch SE 2 a Series 10 s úsporami až 119 USD, což vytváří tlak na trh nositelné elektroniky a zvyšuje dostupnost ekosystému Apple.",
+      "title": "Amazon výrazně zlevňuje starší modely Apple Watch, ceny začínají na 159,99 dolaru",
+      "description": "Amazon spustil výrazné slevy na předchozí generace Apple Watch SE 2 a Apple Watch Series 10, s úsporami až 119 dolarů. Jde o cenově atraktivní nabídku pro uživatele, kteří chtějí vstoupit do ekosystému Apple Watch bez investice do nejnovějších modelů.",
       "slug": "amazon-introduces-ultra-low-prices-on-previous-gen",
       "publishedAt": "2025-11-06T14:24:28+00:00",
       "date": "2025-11-06 14:24:28",
@@ -327,13 +530,13 @@
       "people": []
     },
     {
-      "title": "Google Maps dostávají zásadní upgrade s Gemini: 4 nové AI funkce pro navigaci",
-      "description": "Google integruje svůj AI model Gemini přímo do Google Maps a přidává čtyři nové funkce zaměřené na hlasovou konverzaci, přesnější navigaci a interakci s okolím, které mění způsob používání aplikace při řízení i plánování tras.",
+      "title": "Google Maps získává významný upgrade s Gemini: 4 nové AI funkce pro navigaci",
+      "description": "Google integruje model Gemini přímo do Google Maps a přidává konverzační ovládání, vizuální asistenci a chytřejší navigační pokyny. Cílem je bezpečnější a efektivnější používání map během jízdy i při hledání míst v okolí.",
       "slug": "google-maps-just-got-a-big-gemini-upgrade-here-are",
       "publishedAt": "2025-11-06T13:14:37+00:00",
       "date": "2025-11-06 13:14:37",
-      "importance": 4,
-      "category": "ai asistenti",
+      "importance": 3,
+      "category": "ai",
       "urlToImage": "https://www.bgr.com/img/gallery/google-maps-just-got-a-big-gemini-upgrade-here-are-4-new-ai-features/l-intro-1762434534.jpg",
       "url": "/tech-news/2025-11-06/google-maps-just-got-a-big-gemini-upgrade-here-are/",
       "source": {
@@ -430,6 +633,30 @@
       "people": []
     },
     {
+      "title": "Navrhované změny Androidu nezachrání sideloading, ale otevřou trh aplikací konkurenci",
+      "description": "Google po urovnání sporu s Epic plánuje významné změny v distribuci aplikací na Androidu, které posílí konkurenci mezi obchody s aplikacemi, ale nezruší omezení sideloadingu ani nadcházející ověřování vývojářů.",
+      "slug": "googles-proposed-android-changes-wont-save-sideloa",
+      "publishedAt": "2025-11-06T12:32:53+00:00",
+      "date": "2025-11-06 12:32:53",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg",
+      "url": "/tech-news/2025-11-06/googles-proposed-android-changes-wont-save-sideloa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Meta",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
       "title": "Huawei Mate 70 Air míří proti iPhone Air: tenčí design bez kompromisů u baterie a fotoaparátu",
       "description": "Huawei představuje Mate 70 Air jako přímou odpověď na iPhone Air: štíhlý telefon se čtyřmi zadními fotoaparáty a výrazně větší baterií, který míří na uživatele hledající kombinaci designu a výdrže.",
       "slug": "another-iphone-air-competitor-lands-the-huawei-mat",
@@ -468,26 +695,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Navrhované změny v Androidu zvýhodní konkurenční obchody, ale nesundají omezení sideloadingu",
-      "description": "Google po urovnání sporu s Epicem chystá zásadní změny distribuce aplikací v Androidu, které posílí postavení alternativních obchodů. Otevírání ekosystému však neznamená, že sideloading či nezávislé katalogy jako F-Droid získají volnou cestu.",
-      "slug": "googles-proposed-android-changes-wont-save-sideloa",
-      "publishedAt": "2025-11-06T12:14:56+00:00",
-      "date": "2025-11-06 12:14:56",
-      "importance": 3,
-      "category": "android",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg",
-      "url": "/tech-news/2025-11-06/googles-proposed-android-changes-wont-save-sideloa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -3446,46 +3653,6 @@
       "people": []
     },
     {
-      "title": "Prohlížecí bot ChatGPT se vyhýbá odkazům na New York Times jako potkán po elektrošoku",
-      "description": "Agentic režim prohlížeče Atlas od OpenAI se systematicky vyhýbá webům médií, která žalují OpenAI, včetně New York Times. Jde o první dokumentovaný případ, kdy AI agent mění své chování kvůli právním sporům.",
-      "slug": "chatgpts-browser-bot-seems-to-avoid-new-york-times",
-      "publishedAt": "2025-11-02T22:49:40+00:00",
-      "date": "2025-11-02 22:49:40",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg",
-      "url": "/tech-news/2025-11-02/chatgpts-browser-bot-seems-to-avoid-new-york-times/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "AMD potvrzuje pokračující podporu her pro starší grafické karty RDNA1 a RDNA2",
-      "description": "AMD vydalo oficiální prohlášení, kterým uklidňuje uživatele grafických karet Radeon RX 5000 a 6000 série. Optimalizace her budou pokračovat i po vydání ovladače 25.10.2.",
-      "slug": "amd-releases-statement-confirming-rdna1-and-rdna2-",
-      "publishedAt": "2025-11-02T21:46:00+00:00",
-      "date": "2025-11-02 21:46:00",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/RADEON-6900XT-HERO.jpg",
-      "url": "/tech-news/2025-11-02/amd-releases-statement-confirming-rdna1-and-rdna2-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "AMD"
-      ],
-      "people": []
-    },
-    {
       "title": "Pět ikonických motocyklů Kawasaki z filmového plátna",
       "description": "Přehled motocyklů značky Kawasaki, které se objevily ve známých filmech a televizních seriálech.",
       "slug": "five-iconic-kawasaki-motorcycles-youll-recognize-f",
@@ -3499,24 +3666,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Jalopnik"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "12 aplikací pro Android, které tajně nahrávají konverzace. Bezpečnostní experti varují před malwarem VajraSpy",
-      "description": "Bezpečnostní firma ESET odhalila dvanáct aplikací pro Android obsahujících malware VajraSpy, který tajně nahrává hovory a krade osobní data. Útočníci láká oběti pomocí falešných romantických vztahů.",
-      "slug": "A-12-must-delete-android-apps-that-secretly-record",
-      "publishedAt": "2025-11-02T21:01:22+00:00",
-      "date": "2025-11-02 21:01:22",
-      "importance": 4,
-      "category": "mobilní bezpečnost",
-      "urlToImage": "https://carrollcountyobserver.com/wp-content/uploads/2025/10/12-Must-Delete-Android-Apps-That-Secretly-Record-Your-Conversations.jpg",
-      "url": "/tech-news/2025-11-02/A-12-must-delete-android-apps-that-secretly-record/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Carrollcountyobserver.com"
       },
       "companies": [],
       "people": []
@@ -3579,24 +3728,6 @@
       "companies": [
         "T-Mobile"
       ],
-      "people": []
-    },
-    {
-      "title": "Proč Caterpillar přestal vyrábět legendární motory pro nákladní automobily",
-      "description": "Rostoucí emisní normy EPA zvýšily náklady na vývoj motorů Caterpillar natolik, že firma v roce 2010 opustila segment nákladních automobilů.",
-      "slug": "caterpillar-used-to-build-legendary-truck-engines-",
-      "publishedAt": "2025-11-02T18:05:00+00:00",
-      "date": "2025-11-02 18:05:00",
-      "importance": 2,
-      "category": "nákladní automobily",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/caterpillar-used-to-build-legendary-truck-engines-heres-why-it-quit/l-intro-1761922166.jpg",
-      "url": "/tech-news/2025-11-02/caterpillar-used-to-build-legendary-truck-engines-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3708,24 +3839,6 @@
       "people": []
     },
     {
-      "title": "Luxusní nemovitost v Greenwichi za 25 milionů dolarů",
-      "description": "Nabídka historického sídla v Greenwichi kombinující architektonický styl Gilded Age s moderními prvky.",
-      "slug": "extraordinary-25-million-greenwich-estate-offers-g",
-      "publishedAt": "2025-11-02T13:57:36+00:00",
-      "date": "2025-11-02 13:57:36",
-      "importance": 1,
-      "category": "nemovitosti",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-02/extraordinary-25-million-greenwich-estate-offers-g/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Realtor.com News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tři měsíce s Alexa+: Které funkce stojí za předplatné a která zklamala",
       "description": "Praktické zkušenosti s placenou verzí hlasového asistenta Amazon Alexa po třech měsících používání ukazují výrazné zlepšení v konverzaci a ovládání chytré domácnosti, ale také limity.",
       "slug": "ive-been-using-alexa-for-3-months-here-are-my-5-fa",
@@ -3767,44 +3880,6 @@
       "people": [
         "Mark Gurman"
       ]
-    },
-    {
-      "title": "5 Android telefonů, kterým se v roce 2025 vyhnout (a co koupit místo nich)",
-      "description": "Přehled Android telefonů, které v roce 2025 nenabízejí dostatečnou hodnotu za cenu, a doporučení lepších alternativ ve stejné cenové kategorii.",
-      "slug": "A-5-android-phones-to-avoid-in-2025-and-what-to-bu",
-      "publishedAt": "2025-11-02T13:30:00+00:00",
-      "date": "2025-11-02 13:30:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-android-phones-to-avoid-in-2025-and-what-to-buy-instead/l-intro-1761641103.jpg",
-      "url": "/tech-news/2025-11-02/A-5-android-phones-to-avoid-in-2025-and-what-to-bu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple údajně zahájí 50. výročí s téměř 140miliardovým čtvrtletím",
-      "description": "Podle spekulací má Apple v letošním vánočním čtvrtletí dosáhnout tržeb blížících se 140 miliardám dolarů. Připravují se také nové OLED displeje pro MacBook Air a iPady.",
-      "slug": "apple-to-kick-off-50th-anniversary-with-nearly-140",
-      "publishedAt": "2025-11-02T13:00:11+00:00",
-      "date": "2025-11-02 13:00:11",
-      "importance": 2,
-      "category": "apple",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZApvAoMJSq8/v1/1200x800.jpg",
-      "url": "/tech-news/2025-11-02/apple-to-kick-off-50th-anniversary-with-nearly-140/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
     },
     {
       "title": "Luxusní kondominiumy v Miami lákají kupce na závodní simulátory Formule 1",
@@ -3984,26 +4059,6 @@
       "people": []
     },
     {
-      "title": "AMD Radeon RX 9070 XT konečně dosáhla doporučené ceny 599 dolarů v USA, osm měsíců po uvedení",
-      "description": "Grafická karta AMD Radeon RX 9070 XT se po osmi měsících od uvedení na trh konečně prodává za původně avizovanou doporučenou cenu 599 dolarů.",
-      "slug": "amd-radeon-rx-9070-xt-finally-reaches-599-msrp-in-",
-      "publishedAt": "2025-11-02T09:34:00+00:00",
-      "date": "2025-11-02 09:34:00",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/ASROCK-RX9070XT-600-USD.jpg",
-      "url": "/tech-news/2025-11-02/amd-radeon-rx-9070-xt-finally-reaches-599-msrp-in-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "AMD"
-      ],
-      "people": []
-    },
-    {
       "title": "Datum uvedení Samsung Galaxy S26 uniklo, spuštění se odkládá",
       "description": "Samsung údajně představí řadu Galaxy S26 až 25. února v San Franciscu, což znamená zpoždění oproti očekávání.",
       "slug": "the-samsung-galaxy-s26-launch-date-has-leaked-and-",
@@ -4062,24 +4117,6 @@
       "companies": [
         "Apple"
       ],
-      "people": []
-    },
-    {
-      "title": "YouTube denies AI was involved with odd removals of tech tutorials - Ars Technica",
-      "description": "YouTubers suspect AI is bizarrely removing popular video explainers.",
-      "slug": "youtube-denies-ai-was-involved-with-odd-removals-o",
-      "publishedAt": "2025-11-01T00:32:01+00:00",
-      "date": "2025-11-01 00:32:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg",
-      "url": "/tech-news/2025-11-01/youtube-denies-ai-was-involved-with-odd-removals-o/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
       "people": []
     }
   ]
