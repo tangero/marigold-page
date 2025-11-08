@@ -3,11 +3,11 @@ author: Marisa Aigen
 category: android
 companies:
 - Google
-- Apple
 date: '2025-11-06 12:14:56'
-description: Google v rámci urovnání sporu s Epic plánuje zásadní úpravy distribuce
-  aplikací v Androidu. Ty mají posílit roli alternativních obchodů, ale současně zavádějí
-  omezení, která mohou dlouhodobě oslabit klasický sideloading.
+description: Google po urovnání sporu s Epicem chystá zásadní změny distribuce aplikací
+  v Androidu, které posílí postavení alternativních obchodů. Otevírání ekosystému
+  však neznamená, že sideloading či nezávislé katalogy jako F-Droid získají volnou
+  cestu.
 importance: 3
 layout: tech_news_article
 original_title: Google's proposed Android changes won't save sideloading - Android
@@ -18,32 +18,34 @@ source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Navrhované změny Androidu nezachrání sideloading, ale posílí konkurenci obchodů
-  s aplikacemi
+title: Navrhované změny v Androidu zvýhodní konkurenční obchody, ale nesundají omezení
+  sideloadingu
 url: https://www.androidauthority.com/android-changes-third-party-app-stores-3613409/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg
 urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg
 ---
 
 ## Souhrn
-Google po dohodě s Epicem chystá pro Android 17 nový režim pro certifikované „Registered App Stores“ a další kroky, které mají formálně zlepšit konkurenci vůči Google Play. Zároveň ale trvá na zpřísnění verifikace vývojářů od roku 2026, což může výrazně omezit tradiční sideloading a nezávislé repozitáře jako F-Droid.
+Google po dohodě s Epicem plánuje v Androidu zavést koncept tzv. „Registered App Stores“, tedy certifikovaných alternativních obchodů s aplikacemi, které mají snazší a rovnocennější přístup k uživatelům vedle Google Play. Zároveň ale přijdou nová omezení pro instalaci aplikací od neověřených vývojářů, která udrží sideloading pod výraznější kontrolou.
 
 ## Klíčové body
-- Zavedení kategorie „Registered App Store“ s oficiální certifikací od Googlu.
-- Snížení tření při instalaci alternativních obchodů, ale žádné skutečné uvolnění sideloadingu.
-- Od září 2026 Android blokuje instalaci aplikací od neověřených vývojářů.
-- Potenciální ohrožení alternativních a komunitních obchodů, pokud nesplní podmínky Googlu.
-- Větší konkurence v rámci regulovaného ekosystému, nikoli plně otevřeného trhu.
+- Zavedení systému „Registered App Stores“ má technicky i procesně zjednodušit instalaci alternativních obchodů a jejich používání.
+- Google zachová centrální kontrolu pomocí certifikace, bezpečnostních požadavků a nových pravidel pro ověřování vývojářů.
+- Od září 2026 má Android blokovat instalaci aplikací od neověřených vývojářů, což může zásadně zasáhnout menší či komunitní projekty.
+- Změny mohou snížit závislost na Google Play a přinést lepší obchodní podmínky pro velké vývojáře, ale nezaručují skutečně otevřený sideloading.
+- Uživatelé získají více možností, ale za cenu složitějšího a více regulovaného ekosystému.
 
 ## Podrobnosti
-Google a Epic Games dosáhli předběžné dohody v dlouhotrvajícím sporu o distribuci aplikací a podmínky Google Play. V reakci na kritiku monopolního postavení připravuje Google pro Android 17 architekturu, která umožní třetím stranám provozovat tzv. Registered App Stores. Jde o alternativní obchody s aplikacemi, které Google certifikuje na základě technických a bezpečnostních kritérií. Uživatelé budou moci tyto obchody instalovat snadněji než doposud, s menším počtem bezpečnostních varování a omezení.
+Podstatou navrhovaných změn je vytvoření kategorie „Registered App Stores“, tedy třetích stran, které Google oficiálně certifikuje. Tyto obchody budou moci nabízet aplikace způsobem technicky srovnatelným s Google Play, například jednodušší aktualizace, méně rušivých bezpečnostních varování či hladší proces instalace. Cílem je formálně otevřít distribuci tak, aby velcí hráči jako Epic Games Store nebo další specializované obchody mohli fungovat jako plnohodnotná alternativa.
 
-Současně však Google zachovává a dále zpřísňuje kontrolu nad tím, kdo může aplikace distribuovat. Od září 2026 mají být všechny aplikace v Androidu vázány na ověřené vývojářské účty. Android zablokuje instalaci software od neověřených autorů bez ohledu na to, zda aplikace pochází z Google Play, z registrovaného obchodu třetí strany, nebo z přímého APK souboru. Tento model může zásadně omezit komunitní projekty, malé vývojáře a repozitáře typu F-Droid, pokud se nedokáží přizpůsobit formálním a případně finančně náročným požadavkům na verifikaci.
+Certifikace ale není formální drobnost. Google tím udržuje rozhodovací pravomoc nad tím, kdo získá privilegovaný přístup k uživatelům. Obchody budou muset splnit bezpečnostní požadavky, procesy ověřování aplikací a další podmínky, které Google zdůvodňuje ochranou uživatelů před malwarem a podvodnými aplikacemi. Prakticky to znamená, že jen subjekty s dostatečnými zdroji a právním zázemím si budou moci dovolit být registrovaným obchodem.
 
-Pro uživatele to znamená, že instalace velkých komerčních aplikací mimo Google Play bude pravděpodobně snazší a v některých případech levnější, protože alternativní obchody získají regulovaný přístup na stejné technické úrovni. Naopak přímé sideloadování APK, využívání neoficiálních repozitářů nebo experimentálních aplikací bude složitější a potenciálně znemožněné. Google se tím posouvá od otevřeného, ale rizikového modelu k uzavřenějšímu ekosystému s oficiálně povolenou konkurencí, avšak pod vlastními pravidly.
+Paralelně Google zavádí požadavek ověřených vývojářů. Od září 2026 má Android blokovat instalace aplikací od neověřených autorů bez ohledu na zdroj, což zásadně zasáhne ekosystém sideloadingu. Komunitní repozitáře jako F-Droid, které distribuují aplikace mimo klasický komerční rámec, mohou být tímto omezením oslabeny či donuceny přizpůsobit se pravidlům, jež preferují institucionální a komerční subjekty. Pro běžné uživatele se tím snižuje riziko útoků, ale také se omezuje možnost svobodně instalovat software mimo oficiálně schválené kanály.
 
 ## Proč je to důležité
-Navrhované změny formálně posilují konkurenci vůči Google Play, ale pouze v rámci struktur definovaných Googlem. Z hlediska bezpečnosti uživatelů může centralizovaná verifikace vývojářů snížit riziko malwaru, současně ale omezuje svobodu distribuce a experimentování, které bylo jedním z klíčových rozdílů Androidu oproti iOS. Pro vývojáře to znamená nutnost splnit další administrativní a technické podmínky, jinak ztratí přístup k uživatelům. Pro regulátory může Google argumentovat otevřenější soutěží, přestože faktická kontrola nad infrastrukturou distribuce zůstává v jeho rukou. Výsledek je hybrid: Android bude konkurenceschopnější ve smyslu více obchodů, ale méně otevřený pro neregulované sideloadování a truly open-source ekosystém.
+Navrhované změny představují kompromis mezi tlakem regulátorů, soudů a velkých vývojářů na větší otevřenost ekosystému a snahou Googlu zachovat kontrolu nad distribucí. Pro velké hráče to může znamenat lepší vyjednávací pozici, flexibilnější platební modely a menší závislost na Google Play. Pro uživatele to může přinést širší nabídku aplikací a potenciálně nižší ceny díky konkurenčním obchodům.
+
+Z hlediska otevřenosti platformy ale nejde o čisté vítězství. Systém Registered App Stores a povinné ověřování vývojářů posouvají Android směrem k regulovanému, licencovanému trhu, kde je alternativnost podmíněna souhlasem Googlu. Sideloading formálně zůstává, ale pro nezávislé projekty, open-source komunity a menší vývojáře se bariéry zvyšují. To je klíčový signál pro celý technologický sektor: i „otevřené“ mobilní platformy se přibližují modelu řízeného přístupu, kde bezpečnost a compliance postupně přebíjejí původní představu svobodné distribuce softwaru.
 
 ---
 

@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: automobilismus
 date: '2025-11-05 16:55:06'
-description: Dodge uvádí nový Charger Scat Pack se šestiválcem Hurricane o výkonu
-  550 koní, pohonem všech kol a cenou pod 60 000 dolarů, čímž cílí na zákazníky hledající
-  kombinaci vysokého výkonu a každodenní použitelnosti.
+description: Dodge uvádí Charger Scat Pack se šestiválcem Hurricane o výkonu 550 koní,
+  pohonem všech kol a cenou pod 60 000 dolarů, čímž míří na zákazníky hledající kombinaci
+  výkonu, dostupnosti a každodenní použitelnosti.
 importance: 3
 layout: tech_news_article
 original_title: New Charger SIXPACK Is America’s Most Powerful Sedan Under $60,000
@@ -22,26 +22,28 @@ urlToImageBackup: https://www.carscoops.com/wp-content/uploads/2025/11/DG026_122
 ---
 
 ## Souhrn
-Nový Dodge Charger Scat Pack přináší do segmentu dostupných výkonných sedanů přeplňovaný řadový šestiválec Hurricane s výkonem 550 koní, standardní pohon všech kol a možnost přepnutí na zadní náhon. S cenou od 56 995 dolarů (58 990 dolarů včetně poplatků) se stává nejvýkonnějším sedanem v USA pod hranicí 60 000 dolarů.
+Nový Dodge Charger Scat Pack se vrací k benzínovému pohonu a přináší přeplňovaný řadový šestiválec Hurricane s výkonem 550 koní, pohon všech kol a přepínatelný režim zadního náhonu. S cenou od 56 995 dolarů bez poplatků se stává nejvýkonnějším sedanem na americkém trhu pod hranicí 60 000 dolarů a představuje pragmatickou alternativu k elektrickému Charger Daytona.
 
 ## Klíčové body
-- Přeplňovaný řadový šestiválec Hurricane (twin-turbo) s výkonem 550 koní a 720 Nm
-- Zrychlení 0–60 mph za 3,9 s, maximální rychlost 177 mph, čtvrtmíle za 12,2 s
-- Standardní pohon všech kol s režimem čistě zadního náhonu pro sportovní jízdu
-- Výchozí cena sedanu 56 995 dolarů (+ 1 995 dolarů poplatek), nejvýkonnější sedan pod 60 000 dolarů na trhu USA
-- Výbava zahrnuje Brembo brzdy, Line Lock, launch control, aktivní výfuk a modernizovaný interiér
+- 3,0litrový twin-turbo řadový šestiválec Hurricane, 550 hp a 720 Nm.
+- Zrychlení 0–60 mph za 3,9 s, maximální rychlost 177 mph, čtvrtmíle za 12,2 s.
+- Standardní pohon všech kol s možností přepnutí na čistý RWD režim.
+- Cena od 56 995 dolarů (+ 1 995 dolarů poplatek), pod 60 000 dolarů celkem.
+- Výbava zahrnuje Brembo brzdy, Line Lock, launch control, aktivní výfuk a modernizovaný interiér.
 
 ## Podrobnosti
-Dodge po problematickém uvedení elektrického modelu Charger Daytona přichází s pragmatičtější odpovědí na preference amerických zákazníků: novým Chargerem Scat Pack s benzinovým šestiválcem Hurricane. Tento dvakrát přeplňovaný řadový šestiválec nahrazuje tradiční osmiválce HEMI, přičemž při menším objemu poskytuje srovnatelný nebo vyšší výkon a lepší efektivitu. V konfiguraci pro Scat Pack nabízí 550 koní (410 kW) a 720 Nm, což vozu umožňuje zrychlení z 0 na 60 mph za 3,9 sekundy a dosažení maximální rychlosti 177 mph.
+Dodge reaguje na rozpačité přijetí elektrického Charger Daytona uvedením nové spalovací verze Charger Scat Pack, která míří na jádro tradiční muscle car klientely. Pod kapotou je nový přeplňovaný řadový šestiválec Hurricane twin-turbo o výkonu 550 koní (410 kW) a točivém momentu 720 Nm. Tato jednotka navazuje na trend downsizingu a efektivnějšího přeplňovaného šestiválce místo atmosférických osmiválců, ale zároveň zachovává vysoký výkon a charakter orientovaný na dynamiku.
 
-Z hlediska techniky jde o kombinaci vysokého výkonu s každodenní použitelností. Standardní pohon všech kol zlepšuje trakci, stabilitu a využitelnost výkonu v reálném provozu. Režim čistě zadního náhonu umožňuje řidiči aktivovat tradičnější charakter muscle car, včetně přetáčivého chování a burnoutů. Součástí výbavy jsou výkonné brzdy Brembo, funkce Line Lock pro zahřátí zadních pneumatik, launch control pro konzistentní akceleraci a dvou režimový aktivní výfuk, který má zvýraznit charakter přeplňovaného šestiválce.
+Sedan zrychlí z 0 na 60 mph (96 km/h) za 3,9 sekundy, dosahuje maximální rychlosti 177 mph (285 km/h) a zvládne čtvrtmílovou trať za 12,2 sekundy. Standardem je pohon všech kol, který zlepšuje trakci a využitelný výkon v běžném provozu i za zhoršených podmínek. Klíčovým technickým prvkem je možnost přepnutí na čistý pohon zadních kol, který umožňuje klasické muscle car chování, včetně driftu a burnoutů. Tento přístup kombinuje požadavky na stabilitu a efektivitu s tím, co cílová skupina od Chargeru očekává.
 
-Interiér využívá 12,3" infotainment systém, sportovní sedadla s kombinací kůže a alcantary, a dekory z imitace karbonu a semiše. Cílem není pouze výkon, ale i přiblížení standardům moderních sportovně laděných sedanů, které kombinují výkon, komfort a digitální výbavu. Výroba má začít na začátku příštího roku. Základní varianta Charger R/T s výkonem 420 koní a cenou od 49 995 dolarů dorazí později, což naznačuje, že Dodge chce nejprve oslovit publikum orientované na výkon.
+Součástí výbavy jsou výkonné brzdy Brembo, systém Line Lock pro předehřátí pneumatik, launch control pro optimalizované starty a dvoumodový aktivní výfuk, který má maximalizovat zvukový projev motoru. Interiér nabízí 12,3" infotainment systém, kombinaci kůže a semiše, sportovní sedadla a dekor včetně karbonových prvků. Z hlediska digitální techniky jde o standard dnešního segmentu: infotainment slouží pro navigaci, konektivitu, multimédia a přizpůsobení jízdních režimů, ale nepřináší zásadní inovace typu pokročilých AI funkcí či autonomního řízení.
+
+Cena sedanu začíná na 56 995 dolarech bez poplatků (58 990 včetně destination fee), což jej činí nejvýkonnějším sedanem v USA pod hranicí 60 000 dolarů. Dvoudveřová varianta je levnější přibližně o 2 000 dolarů. Základní verze Charger R/T s výkonem 420 koní má přijít později a posunout nabídku směrem k dostupnějšímu sportovnímu vozu.
 
 ## Proč je to důležité
-Nový Charger Scat Pack ukazuje, jak tradiční americká značka upravuje strategii v době tlaku na elektrifikaci a emisní regulace, aniž by se okamžitě vzdala spalovacích motorů. Přechod z ikonických V8 na moderní twin-turbo řadový šestiválec je technicky významný krok, který kombinuje vyšší měrný výkon, potenciálně lepší spotřebu a nižší emise s parametry, které stále oslovují fanoušky muscle cars.
+Nový Charger Scat Pack je signálem, že ani tradiční americké značky nemohou ignorovat tlak na efektivnější motory, ale současně nechtějí zcela opustit spalovací výkonné vozy ve prospěch čistě elektrických modelů. Z pohledu trhu jde o pragmatický krok: Dodge cílí na zákazníky, kteří nejsou připraveni na plně elektrický muscle car, požadují vysoký výkon, ale zároveň akceptují modernější technické řešení než klasický V8.
 
-Pro automobilový trh jde o signál, že segment výkonných sedanů pod 60 000 dolarů není zcela vytlačen SUV a elektromobily. Dodge zároveň testuje, do jaké míry jsou zákazníci ochotni přijmout downsizing a přeplňování výměnou za objektivně velmi vysoký výkon. V širším kontextu to ilustruje přechodnou fázi automobilového průmyslu: výrobci hledají kompromis mezi legislativou, technologickým tlakem na elektrifikaci a stále existující poptávkou po výkonných, spalovacích vozech s výrazným charakterem.
+Pro automobilový průmysl to ukazuje, že přechod k elektromobilitě nebude lineární. Výrobci hledají kompromisní architektury (přeplňované šestiválce, kombinace AWD/RWD, sofistikovaná elektronika řízení výkonu), které rozšiřují využitelnost vozu a snižují reputační i provozní riziko spojené se spoléháním výhradně na EV. Z technického hlediska nejde o revoluci, ale o evoluční krok v kategorii sportovních sedanů: maximální výkon v dané cenové hladině, kombinovaný s lepší trakcí, digitální výbavou a orientací na každodenní provoz. Pro evropské prostředí slouží tento model jako indikátor, že silné spalovací vozy budou i nadále existovat v nižších objemových segmentech, než je čistě prémiový trh.
 
 ---
 

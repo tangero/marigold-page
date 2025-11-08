@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-08T08:22:05.680931+00:00",
+  "generated": "2025-11-08T12:28:06.052561+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "IKEA uvádí 21 chytrých žárovek, senzorů a ovladačů s podporou HomeKit a standardu Matter",
-      "description": "IKEA rozšiřuje svůj sortiment chytré domácnosti o 21 zařízení s podporou Matter-over-Thread, včetně žárovek, senzorů, zásuvek a ovladačů, které budou fungovat s Apple HomeKit a dalšími ekosystémy.",
+      "title": "IKEA uvádí 21 chytrých zařízení s podporou Matter a Apple HomeKit",
+      "description": "IKEA představila 21 nových chytrých produktů pro domácnost s podporou standardu Matter-over-Thread, včetně žárovek, senzorů a ovladačů, které budou fungovat s Apple HomeKit a aplikací Apple Domácnost a cílí na cenově dostupnou masovou adopci chytré domácnosti.",
       "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
       "publishedAt": "2025-11-07T00:08:24+00:00",
       "date": "2025-11-07 00:08:24",
@@ -24,8 +24,28 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští předčasné Black Friday slevy na elektroniku už od 3 dolarů",
-      "description": "Americký řetězec Best Buy zahájil v předstihu rozsáhlé Black Friday slevy na spotřební elektroniku, včetně tabletů od 49 dolarů, notebooků od 119 dolarů a velkoformátových 4K a OLED televizorů za výrazně snížené ceny.",
+      "title": "Google začíná nahrazovat Asistenta systémem Gemini v Android Auto",
+      "description": "Google tiše spouští nasazení AI asistenta Gemini do Android Auto, čímž zahajuje postupnou náhradu Google Asistenta ve vozech připojených k telefonům. První přístup mají podle hlášení uživatelů beta testeři.",
+      "slug": "goodbye-google-assistant-gemini-is-starting-to-rol",
+      "publishedAt": "2025-11-06T22:10:14+00:00",
+      "date": "2025-11-06 22:10:14",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024-Apps-List.jpg",
+      "url": "/tech-news/2025-11-06/goodbye-google-assistant-gemini-is-starting-to-rol/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Best Buy spouští předčasné slevy na Black Friday: tablety, notebooky a velké TV za výrazně nižší ceny",
+      "description": "Best Buy nabízí rozsáhlé předčasné slevy na spotřební elektroniku, včetně tabletů od 49 dolarů, notebooků od 119 dolarů a 75\" 4K TV od 359 dolarů, což signalizuje pokračující agresivní cenovou válku v maloobchodě před Black Friday.",
       "slug": "best-buy-just-dropped-tons-of-early-black-friday-d",
       "publishedAt": "2025-11-06T21:40:29+00:00",
       "date": "2025-11-06 21:40:29",
@@ -40,9 +60,9 @@
       },
       "companies": [
         "Apple",
-        "Samsung",
         "Google",
         "Microsoft",
+        "Samsung",
         "LG"
       ],
       "people": []
@@ -68,8 +88,8 @@
       "people": []
     },
     {
-      "title": "Ruský kosmodrom Vostočnyj čelí výpadku proudu kvůli nezaplaceným účtům za elektřinu",
-      "description": "Klíčový ruský projekt kosmodromu Vostočnyj se znovu potýká s finančními problémy a obviněními z korupce. Dodavatel PSO Kazan nezaplatil statisíce dolarů za elektřinu, což vedlo k odpojení části staveniště a hrozbě bankrotu.",
+      "title": "Nezaplacené účty za elektřinu zastavují rozvoj ruského kosmodromu Vostočnyj",
+      "description": "Klíčový dodavatel výstavby kosmodromu Vostočnyj PSO Kazan nezaplatil stovky tisíc dolarů za elektřinu, což vedlo k odpojení rozestavěných částí areálu. Případ prohlubuje dlouhodobé problémy projektu, spojené s korupcí, prodlevami a finanční nestabilitou ruského kosmického programu.",
       "slug": "after-russian-spaceport-firm-fails-to-pay-bills-el",
       "publishedAt": "2025-11-06T17:53:35+00:00",
       "date": "2025-11-06 17:53:35",
@@ -198,13 +218,13 @@
       "people": []
     },
     {
-      "title": "Amazon výrazně zlevňuje starší Apple Watch SE 2 a Series 10, ceny začínají na 159,99 USD",
-      "description": "Amazon dočasně nabídl výrazné slevy na předchozí generace Apple Watch SE 2 a Series 10 s úsporou až 119 USD, čímž tyto modely přibližuje širšímu okruhu uživatelů hledajících levnější vstup do ekosystému Apple.",
+      "title": "Amazon výrazně zlevňuje starší modely Apple Watch, ceny začínají na 159,99 USD",
+      "description": "Amazon spustil slevy na starší modely Apple Watch SE 2 a Apple Watch Series 10 s úsporou až 119 USD, čímž agresivně tlačí ceny nositelné elektroniky před Černým pátkem 2025.",
       "slug": "amazon-introduces-ultra-low-prices-on-previous-gen",
       "publishedAt": "2025-11-06T14:24:28+00:00",
       "date": "2025-11-06 14:24:28",
       "importance": 3,
-      "category": "wearables",
+      "category": "hardware",
       "urlToImage": "https://images.macrumors.com/t/0d0YdpQ94IssdfgwDOmuDOqh9nk=/2500x/article-new/2024/11/apple-watch-se-holiday.jpeg",
       "url": "/tech-news/2025-11-06/amazon-introduces-ultra-low-prices-on-previous-gen/",
       "source": {
@@ -220,8 +240,8 @@
       "people": []
     },
     {
-      "title": "ARC Raiders: první velký patch, stabilní hráčská základna a rekordní hodnocení",
-      "description": "Kooperativní akční hra ARC Raiders od studia Embark Studios zveřejnila patch 1.1.0 s opravami a menšími novinkami, současně však potvrzuje silná čísla současně hrajících hráčů a nadprůměrná uživatelská hodnocení.",
+      "title": "ARC Raiders: První velká záplata, stabilní hráčská základna a rekordní hodnocení",
+      "description": "Kooperativní akce ARC Raiders od studia Embark Studios vydává aktualizaci 1.1.0 zaměřenou na stabilitu a drobné novinky, zatímco si udržuje mimořádně silné počty současně hrajících hráčů a nadprůměrná hodnocení v prvním týdnu po vydání.",
       "slug": "arc-raiders-patch-notes-concurrent-players-and-rec",
       "publishedAt": "2025-11-06T13:52:01+00:00",
       "date": "2025-11-06 13:52:01",
@@ -238,12 +258,12 @@
       "people": []
     },
     {
-      "title": "Google Maps dostávají velký upgrade s Gemini: 4 nové AI funkce pro chytřejší navigaci",
-      "description": "Google integruje model Gemini přímo do Google Maps a přidává hlasové konverzace, lepší práci s okolními místy, orientaci podle viditelných orientačních bodů a další funkce zaměřené na plynulejší navigaci a plánování cest.",
+      "title": "Google Maps získávají významný Gemini upgrade: čtyři nové AI funkce pro navigaci",
+      "description": "Google integruje svůj model Gemini přímo do Google Maps a přidává hlasové konverzace, lepší práci s body zájmu a kontextové navigační pokyny. Cílem je proměnit Maps z pasivního navigátoru v aktivního AI spolujezdce.",
       "slug": "google-maps-just-got-a-big-gemini-upgrade-here-are",
       "publishedAt": "2025-11-06T13:14:37+00:00",
       "date": "2025-11-06 13:14:37",
-      "importance": 4,
+      "importance": 3,
       "category": "ai",
       "urlToImage": "https://www.bgr.com/img/gallery/google-maps-just-got-a-big-gemini-upgrade-here-are-4-new-ai-features/l-intro-1762434534.jpg",
       "url": "/tech-news/2025-11-06/google-maps-just-got-a-big-gemini-upgrade-here-are/",
@@ -259,7 +279,7 @@
     },
     {
       "title": "Inception získává 50 milionů dolarů na vývoj diffusion modelů pro kód a text",
-      "description": "Startup Inception vedený profesorem Stefanem Ermonem ze Stanfordu získal 50 milionů dolarů na vývoj diffusion modelů pro generování kódu a textu, které mají být rychlejší a levnější než současné auto-regresivní LLM.",
+      "description": "Startup Inception vedený profesorem Stefanem Ermonem získal 50 milionů dolarů na vývoj diffusion modelů optimalizovaných pro generování kódu a textu s nižší latencí a náklady než běžné auto-regresivní modely.",
       "slug": "inception-raises-50-million-to-build-diffusion-mod",
       "publishedAt": "2025-11-06T13:00:00+00:00",
       "date": "2025-11-06 13:00:00",
@@ -273,8 +293,7 @@
         "name": "TechCrunch"
       },
       "companies": [
-        "Inception",
-        "TechCrunch"
+        "Inception AI"
       ],
       "people": []
     },
@@ -364,8 +383,8 @@
       "people": []
     },
     {
-      "title": "Navrhované změny Androidu nezachrání sideloading, ale posílí konkurenci obchodů s aplikacemi",
-      "description": "Google v rámci urovnání sporu s Epic plánuje zásadní úpravy distribuce aplikací v Androidu. Ty mají posílit roli alternativních obchodů, ale současně zavádějí omezení, která mohou dlouhodobě oslabit klasický sideloading.",
+      "title": "Navrhované změny v Androidu zvýhodní konkurenční obchody, ale nesundají omezení sideloadingu",
+      "description": "Google po urovnání sporu s Epicem chystá zásadní změny distribuce aplikací v Androidu, které posílí postavení alternativních obchodů. Otevírání ekosystému však neznamená, že sideloading či nezávislé katalogy jako F-Droid získají volnou cestu.",
       "slug": "googles-proposed-android-changes-wont-save-sideloa",
       "publishedAt": "2025-11-06T12:14:56+00:00",
       "date": "2025-11-06 12:14:56",
@@ -379,8 +398,7 @@
         "name": "Android Authority"
       },
       "companies": [
-        "Google",
-        "Apple"
+        "Google"
       ],
       "people": []
     },
@@ -409,8 +427,8 @@
       "people": []
     },
     {
-      "title": "Druhá generace iPhone Air by mohla dostat dva fotoaparáty",
-      "description": "Podle úniku informací Apple testuje druhou generaci iPhone Air s dvojitým zadním fotoaparátem, aby vyřešil kritiku omezených fotografických možností první verze.",
+      "title": "Druhá generace iPhone Air může dostat duální fotoaparát",
+      "description": "Apple podle úniku údajně zvažuje druhou generaci iPhone Air s dvojitým zadním fotoaparátem, která by měla řešit hlavní slabinu první verze – omezené fotografické možnosti oproti modelům Pro.",
       "slug": "second-gen-iphone-air-may-get-two-cameras-9to5mac",
       "publishedAt": "2025-11-06T11:58:00+00:00",
       "date": "2025-11-06 11:58:00",
@@ -429,13 +447,13 @@
       "people": []
     },
     {
-      "title": "Apple ostře kritizuje EU kvůli digitálním regulacím a varuje před vyšším rizikem podvodů a zneužívání",
-      "description": "Apple ve veřejném dopise Evropské komisi tvrdí, že pravidla EU v oblasti digitální hospodářské soutěže a obsahu oslabují bezpečnost iOS a App Store, zvyšují riziko podvodů a nutí firmu otevírat platformu způsobem, který podle ní ohrožuje uživatele, zejména děti.",
+      "title": "Apple ostře kritizuje EU za digitální regulace, varuje před růstem podvodů a narušením bezpečnosti",
+      "description": "Apple v dopise Evropské komisi tvrdí, že pravidla EU pro digitální trhy a služby oslabují bezpečnost iOS a iPadOS a zvyšují riziko podvodů a zneužití, zatímco Brusel je obviňuje z brzdení konkurence a porušování nových regulací.",
       "slug": "apple-blasts-eu-over-digital-competition-laws-warn",
       "publishedAt": "2025-11-06T11:00:20+00:00",
       "date": "2025-11-06 11:00:20",
       "importance": 3,
-      "category": "regulace technologií",
+      "category": "regulace tech trhu",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/27/b6d2ce56-c8c4-47d1-8f68-118186c02f1c/thumbnail/1200x630/b21fdf40da120196a841d7e360ba786e/gettyimages-2152534755.jpg",
       "url": "/tech-news/2025-11-06/apple-blasts-eu-over-digital-competition-laws-warn/",
       "source": {
@@ -444,8 +462,7 @@
         "name": "CBS News"
       },
       "companies": [
-        "Apple",
-        "CBS News"
+        "Apple"
       ],
       "people": [
         "Tim Cook",
@@ -502,8 +519,8 @@
       ]
     },
     {
-      "title": "Apple má platit Googlu 1 miliardu dolarů ročně za integraci Gemini do nové generace Siri",
-      "description": "Apple podle informací Bloomberg a dalších zdrojů uzavírá dohodu s Googlem, v jejímž rámci má platit zhruba 1 miliardu dolarů ročně za specializovanou verzi modelu Gemini pro novou generaci asistenta Siri. Jde o zásadní posun v AI strategii Applu a neobvyklou závislost na technologii přímého konkurenta.",
+      "title": "Apple má zaplatit Googlu 1 miliardu dolarů ročně za nasazení Gemini do příští generace Siri",
+      "description": "Apple podle informací agentury Bloomberg plánuje platit Googlu přibližně 1 miliardu dolarů ročně za speciální verzi modelu Gemini, která má pohánět výrazně přepracovanou Siri a dohnat technologický náskok konkurence v oblasti konverzační AI.",
       "slug": "apple-is-paying-google-1bn-to-upgrade-siri-with-ge",
       "publishedAt": "2025-11-06T08:36:36+00:00",
       "date": "2025-11-06 08:36:36",
@@ -520,10 +537,7 @@
         "Apple",
         "Google"
       ],
-      "people": [
-        "Tim Cook",
-        "Sundar Pichai"
-      ]
+      "people": []
     },
     {
       "title": "Únik detailů fotoaparátů Galaxy S26 Ultra: kosmetické změny místo zásadního upgradu",
@@ -546,8 +560,8 @@
       "people": []
     },
     {
-      "title": "Canon EOS R6 Mark III: 32,5Mpx snímač, 7K video a rychlejší úložiště míří na univerzální použití",
-      "description": "Canon představil full-frame bezzrcadlovku EOS R6 Mark III se snímačem 32,5 Mpx, záznamem až 7K/60p RAW, vylepšeným autofokusem a novým uspořádáním paměťových karet s podporou CFexpress Type B.",
+      "title": "Canon EOS R6 Mark III přináší 32,5Mpx snímač, 7K video a rychlejší paměťové karty",
+      "description": "Canon představil bezzrcadlovku EOS R6 Mark III s novým 32,5Mpx full-frame snímačem, podporou 7K RAW videa a upraveným systémem paměťových karet, zaměřenou na univerzální použití pro fotografy i tvůrce videa.",
       "slug": "canon-adds-a-32-megapixel-sensor-and-7k-video-to-t",
       "publishedAt": "2025-11-06T06:00:00+00:00",
       "date": "2025-11-06 06:00:00",
@@ -590,8 +604,8 @@
       "people": []
     },
     {
-      "title": "Vzácná forma syfilis u ženatého seniora zmátla lékaře",
-      "description": "Případ 83letého muže s atypickými příznaky sekundární syfilis ukazuje, jak snadno může být toto onemocnění zaměněno za jiné diagnózy, zvlášť pokud pacient neuvádí úplnou anamnézu.",
+      "title": "Vzácná forma syfilis u ženatého seniora zpochybnila jistotu lékařů",
+      "description": "Kazuistika z Belgie popisuje 83letého muže s netypickými příznaky sekundární syfilis, která se maskovala jako jiné onemocnění a odhalila limity anamnézy založené na důvěře v deklarovanou monogamii.",
       "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
       "publishedAt": "2025-11-05T23:29:42+00:00",
       "date": "2025-11-05 23:29:42",
@@ -690,8 +704,8 @@
       "people": []
     },
     {
-      "title": "Apple M4 MacBook Air výrazně zlevňuje před Black Friday",
-      "description": "Apple výrazně snižuje cenu notebooků MacBook Air s čipem M4, což z nich dělá technologicky i ekonomicky atraktivní volbu pro uživatele hledající vysoký výkon, dlouhou výdrž baterie a podporu nových funkcí macOS a Apple Intelligence.",
+      "title": "Apple M4 MacBook Air výrazně zlevnil před Black Friday",
+      "description": "Nejnovější MacBook Air s čipem M4 dosáhl na Amazonu historicky nejnižší ceny, což z něj dělá cenově agresivní volbu v prémiovém segmentu notebooků s dlouhou výdrží baterie a dostatečným výkonem pro náročnější práci.",
       "slug": "apples-slim-m4-macbook-air-is-cheaper-than-ever-ah",
       "publishedAt": "2025-11-05T20:46:17+00:00",
       "date": "2025-11-05 20:46:17",
@@ -706,7 +720,8 @@
       },
       "companies": [
         "Apple",
-        "Amazon"
+        "Amazon",
+        "The Verge"
       ],
       "people": []
     },
@@ -1068,7 +1083,7 @@
     },
     {
       "title": "Nový Dodge Charger Scat Pack: Nejvýkonnější sedan v USA pod 60 000 dolarů",
-      "description": "Dodge uvádí nový Charger Scat Pack se šestiválcem Hurricane o výkonu 550 koní, pohonem všech kol a cenou pod 60 000 dolarů, čímž cílí na zákazníky hledající kombinaci vysokého výkonu a každodenní použitelnosti.",
+      "description": "Dodge uvádí Charger Scat Pack se šestiválcem Hurricane o výkonu 550 koní, pohonem všech kol a cenou pod 60 000 dolarů, čímž míří na zákazníky hledající kombinaci výkonu, dostupnosti a každodenní použitelnosti.",
       "slug": "new-charger-sixpack-is-americas-most-powerful-seda",
       "publishedAt": "2025-11-05T16:55:06+00:00",
       "date": "2025-11-05 16:55:06",
@@ -3975,24 +3990,6 @@
       "companies": [
         "Microsoft"
       ],
-      "people": []
-    },
-    {
-      "title": "These work-from-home gadgets and routines doubled my productivity - MakeUseOf",
-      "description": "I use these gadgets and routines to make my WFH setup more productive.",
-      "slug": "these-work-from-home-gadgets-and-routines-doubled-",
-      "publishedAt": "2025-11-01T20:00:00+00:00",
-      "date": "2025-11-01 20:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/l-desk-with-daul-monitor-mount-and-various-gadgets.jpeg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-01/these-work-from-home-gadgets-and-routines-doubled-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MakeUseOf"
-      },
-      "companies": [],
       "people": []
     },
     {
