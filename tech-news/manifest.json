@@ -1,15 +1,102 @@
 {
-  "generated": "2025-11-07T20:24:11.650157+00:00",
+  "generated": "2025-11-08T00:56:13.386868+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "100 nejlepších gadgetů a techniky roku 2025 podle čtenářů CNET",
-      "description": "Výběr 100 nejčastěji kupovaných zařízení roku 2025 ukazuje, jaké produkty skutečně uspěly u uživatelů – od sluchátek a AI gadgetů po robotické vysavače a notebooky.",
+      "title": "Apple vydává první veřejnou beta verzi iOS 26.2: přehled novinek",
+      "description": "Apple zpřístupnil první veřejnou beta verzi systému iOS 26.2, která přináší úpravy sledování spánku, AI funkce v Apple Podcasts, změny v aplikaci News, podporu živého překladu přes AirPods v EU, nové možnosti zamykací obrazovky a výraznější upozornění v Připomínkách.",
+      "slug": "apple-releases-first-ios-262-public-beta-heres-wha",
+      "publishedAt": "2025-11-06T18:17:00+00:00",
+      "date": "2025-11-06 18:17:00",
+      "importance": 3,
+      "category": "mobilní operační sys",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-06/apple-releases-first-ios-262-public-beta-heres-wha/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ruský kosmodrom Vostočnyj čelí výpadku elektřiny kvůli neplacení účtů",
+      "description": "Výstavba klíčového ruského kosmodromu Vostočnyj narazila na další problém: dodavatel PSO Kazan neplatil účty za elektřinu, což vedlo k odpojení části staveniště a hrozbě bankrotu. Případ znovu ukazuje dlouhodobé strukturální potíže ruského kosmického programu.",
+      "slug": "after-russian-spaceport-firm-fails-to-pay-bills-el",
+      "publishedAt": "2025-11-06T17:53:35+00:00",
+      "date": "2025-11-06 17:53:35",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1661794528-1024x648.jpg",
+      "url": "/tech-news/2025-11-06/after-russian-spaceport-firm-fails-to-pay-bills-el/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Huawei uvádí ultratenký Mate 70 Air jako levnější alternativu k iPhone Air",
+      "description": "Huawei představil model Mate 70 Air, ultratenký smartphone mířící přímo proti iPhone Air. Nabízí tloušťku 6,6 mm a cenu 4 199 jüanů (cca 590 USD), tedy výrazně méně než nový iPhone Air.",
+      "slug": "huawei-debuts-ultrathin-iphone-air-response-priced",
+      "publishedAt": "2025-11-06T17:23:32+00:00",
+      "date": "2025-11-06 17:23:32",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8hZ0rd6jovQ/v2/1200x800.jpg",
+      "url": "/tech-news/2025-11-06/huawei-debuts-ultrathin-iphone-air-response-priced/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [
+        "Huawei Technologies Co",
+        "Apple Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple údajně zaplatí Googlu 1 miliardu dolarů ročně za vlastní Gemini AI model pro Siri",
+      "description": "Apple podle informací Bloombergu uzavírá zásadní dohodu s Googlem: za 1 miliardu dolarů ročně má vzniknout vlastní verze Gemini AI modelu pro Siri, která poběží v privátní cloudové infrastruktuře Applu. Rozhodnutí údajně padlo i kvůli nižším nákladům oproti konkurenční firmě Anthropic.",
+      "slug": "apple-to-pay-google-1-billion-per-year-for-siris-c",
+      "publishedAt": "2025-11-06T17:01:00+00:00",
+      "date": "2025-11-06 17:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9e7ab5324aa098dc63705de1e6f8eadafbeb502e/hub/2024/06/07/feb2d189-8929-4b93-bd8b-90f17febb4c2/wwdc24-siri-v3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-06/apple-to-pay-google-1-billion-per-year-for-siris-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Anthropic"
+      ],
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "100 nejlepších gadgetů a zařízení roku 2025 podle čtenářů CNET",
+      "description": "Výběr 100 nejčastěji kupovaných technologických produktů roku 2025 podle čtenářů CNET ukazuje, jaké konkrétní gadgety lidé skutečně používají – od sluchátek přes vysavače až po notebooky.",
       "slug": "A-100-best-gadgets-and-gear-of-2025-according-to-c",
       "publishedAt": "2025-11-06T15:21:00+00:00",
       "date": "2025-11-06 15:21:00",
       "importance": 3,
-      "category": "spotřební elektronik",
+      "category": "gadgety",
       "urlToImage": "https://www.cnet.com/a/img/resize/d9b6189deee3dc7a1976d63ce78b71aaa7e6a421/hub/2025/11/05/6b81eceb-a543-4631-93e4-188896f5bdb8/6-top-100-readers-choice-early.png?auto=webp&fit=crop&height=675&width=1200",
       "url": "/tech-news/2025-11-06/A-100-best-gadgets-and-gear-of-2025-according-to-c/",
       "source": {
@@ -17,7 +104,13 @@
         "id": null,
         "name": "CNET"
       },
-      "companies": [],
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Tesla",
+        "SpaceX"
+      ],
       "people": []
     },
     {
@@ -43,8 +136,8 @@
       "people": []
     },
     {
-      "title": "Amazon výrazně zlevnil starší modely Apple Watch, ceny začínají na 159,99 dolaru",
-      "description": "Amazon spustil výrazné slevy na předchozí generace Apple Watch SE 2 a Apple Watch Series 10, které dosahují až 119 dolarů a představují nové cenové minimum. Jde o signál agresivní cenové politiky u nositelné elektroniky těsně před Black Friday 2025.",
+      "title": "Amazon výrazně zlevnil starší modely Apple Watch, ceny začínají na 159,99 USD",
+      "description": "Amazon spustil výrazné slevy na předchozí generace Apple Watch SE 2 a Apple Watch Series 10, které dosahují až 119 USD a představují historicky nejnižší ceny těchto modelů.",
       "slug": "amazon-introduces-ultra-low-prices-on-previous-gen",
       "publishedAt": "2025-11-06T14:24:28+00:00",
       "date": "2025-11-06 14:24:28",
@@ -65,8 +158,8 @@
       "people": []
     },
     {
-      "title": "ARC Raiders: první velký patch, stabilní hráčská základna a rekordní hodnocení",
-      "description": "Kooperativní akční hra ARC Raiders od studia Embark přináší aktualizaci 1.1.0 zaměřenou na opravy chyb a drobné novinky, zatímco si udržuje přes 300 tisíc současně hrajících uživatelů a potvrzuje silný start nové značky v multiplayerovém segmentu.",
+      "title": "ARC Raiders: první velký patch, stabilní hráčská základna a rekordní výsledky",
+      "description": "Kooperativní akce ARC Raiders od studia Embark získává první významnější aktualizaci zaměřenou na opravy chyb a drobný nový obsah, zároveň si udržuje mimořádně vysoký počet současně aktivních hráčů a potvrzuje silný nástup nové značky v konkurenčním multiplayerovém segmentu.",
       "slug": "arc-raiders-patch-notes-concurrent-players-and-rec",
       "publishedAt": "2025-11-06T13:52:01+00:00",
       "date": "2025-11-06 13:52:01",
@@ -148,13 +241,33 @@
       "people": []
     },
     {
-      "title": "Ikea zlevňuje chytrou domácnost: nová řada zařízení s podporou Matter-over-Thread",
-      "description": "Ikea představila 21 cenově dostupných zařízení pro chytrou domácnost s podporou Matter-over-Thread, včetně žárovek, senzorů a ovladačů, a aktualizovala hub Dirigera na plnohodnotný Matter controller a Thread border router.",
+      "title": "Exynos 2600 slibuje díky technologii Heat Pass Block až 30% nižší teploty než předchozí generace",
+      "description": "Samsung popisuje u čipsetu Exynos 2600 kombinaci 2nm GAA výrobního procesu a technologie Heat Pass Block, která má snížit provozní teploty až o 30 % a zlepšit dlouhodobý výkon CPU a GPU.",
+      "slug": "exynos-2600s-heat-pass-block-implementation-to-del",
+      "publishedAt": "2025-11-06T12:28:00+00:00",
+      "date": "2025-11-06 12:28:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Exynos-2600-6.jpg",
+      "url": "/tech-news/2025-11-06/exynos-2600s-heat-pass-block-implementation-to-del/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ikea zlevňuje chytrou domácnost: nová řada Matter-over-Thread zařízení",
+      "description": "Ikea uvádí 21 cenově dostupných zařízení pro chytrou domácnost s podporou standardu Matter a technologie Thread, čímž snižuje bariéru vstupu a omezuje závislost na proprietárních ekosystémech.",
       "slug": "ikeas-new-low-cost-line-is-a-huge-win-for-matter-a",
       "publishedAt": "2025-11-06T12:00:00+00:00",
       "date": "2025-11-06 12:00:00",
       "importance": 3,
-      "category": "chytrá domácnost",
+      "category": "smart domácnost",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/KAJPLATS-GU10-decorative-clear-glass.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
       "url": "/tech-news/2025-11-06/ikeas-new-low-cost-line-is-a-huge-win-for-matter-a/",
       "source": {
@@ -164,21 +277,41 @@
       },
       "companies": [
         "Ikea",
-        "The Verge",
         "Apple",
         "Google",
+        "Amazon",
         "Samsung"
       ],
       "people": []
     },
     {
-      "title": "Apple ostře kritizuje EU za digitální regulace, varuje před nárůstem podvodů a zneužívání",
-      "description": "Apple v dopise Evropské komisi tvrdí, že povinné otevření iOS konkurenci na základě evropských digitálních zákonů oslabuje bezpečnost a soukromí uživatelů a zvyšuje riziko podvodů. Spor se odehrává na pozadí napětí mezi USA a EU ohledně regulace velkých technologických firem.",
+      "title": "Druhá generace iPhone Air může dostat dva fotoaparáty",
+      "description": "Apple podle úniků zvažuje druhou generaci iPhone Air s dvojicí zadních fotoaparátů, což má řešit kritiku nedostatečných fotografických možností současného modelu.",
+      "slug": "second-gen-iphone-air-may-get-two-cameras-9to5mac",
+      "publishedAt": "2025-11-06T11:58:00+00:00",
+      "date": "2025-11-06 11:58:00",
+      "importance": 2,
+      "category": "smartphony",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Second-gen-iPhone-Air-may-get-two-cameras-instead-of-one.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-06/second-gen-iphone-air-may-get-two-cameras-9to5mac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple ostře kritizuje EU kvůli digitálním regulacím a varuje před vyšším rizikem podvodů a zneužití",
+      "description": "Apple ve veřejném dopise Evropské komisi tvrdí, že pravidla EU pro digitální trhy a služby oslabují bezpečnost iOS a iPadOS, zvyšují riziko podvodů a zasahují do jeho modelu App Store. Spor se odehrává na pozadí napětí mezi EU a USA, včetně hrozeb cel na evropské země kvůli technologickým regulacím.",
       "slug": "apple-blasts-eu-over-digital-competition-laws-warn",
       "publishedAt": "2025-11-06T11:00:20+00:00",
       "date": "2025-11-06 11:00:20",
       "importance": 3,
-      "category": "legislativa tech",
+      "category": "regulace technologií",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/27/b6d2ce56-c8c4-47d1-8f68-118186c02f1c/thumbnail/1200x630/b21fdf40da120196a841d7e360ba786e/gettyimages-2152534755.jpg",
       "url": "/tech-news/2025-11-06/apple-blasts-eu-over-digital-competition-laws-warn/",
       "source": {
@@ -190,7 +323,7 @@
         "Apple"
       ],
       "people": [
-        "Tim Cook",
+        "Apple",
         "Donald Trump"
       ]
     },
@@ -288,8 +421,8 @@
       "people": []
     },
     {
-      "title": "Canon EOS R6 Mark III přináší 32,5Mpx snímač, 7K video a rychlejší úložiště",
-      "description": "Canon představil plnoformátový fotoaparát EOS R6 Mark III s novým 32,5Mpx snímačem, podporou 7K RAW videa, vylepšeným autofokusem a upravenou konfigurací paměťových karet včetně CFexpress Type B slotu. Model cílí na univerzální použití pro foto i video pod úrovní profesionální řady EOS R5.",
+      "title": "Canon EOS R6 Mark III přináší 32,5Mpx senzor, 7K video a rychlejší úložiště",
+      "description": "Canon představuje plnoformátový bezzrcadlový fotoaparát EOS R6 Mark III s novým 32,5Mpx snímačem, záznamem až 7K RAW videa a upraveným systémem paměťových karet, cílený na pokročilé fotografy a tvůrce videa jako univerzální pracovní nástroj.",
       "slug": "canon-adds-a-32-megapixel-sensor-and-7k-video-to-t",
       "publishedAt": "2025-11-06T06:00:00+00:00",
       "date": "2025-11-06 06:00:00",
@@ -308,13 +441,13 @@
       "people": []
     },
     {
-      "title": "Bose výrazně zlevňuje QuietComfort, míří pod ceny sluchátek Apple a Sony",
-      "description": "Bose agresivně snižuje cenu svých prémiových QuietComfort sluchátek z 349 na 199 dolarů, aby vyčistil skladové zásoby. Tím se dostává pod cenovou úroveň základních modelů konkurentů Apple a Sony a zvyšuje tlak na celý trh prémiových sluchátek s aktivním potlačením hluku.",
+      "title": "Bose výrazně zlevňuje QuietComfort: špičková ANC sluchátka nyní levnější než základní modely Sony a Apple",
+      "description": "Bose agresivně snižuje cenu svých QuietComfort sluchátek z 349 na 199 dolarů, čímž z nich dělá výrazně levnější alternativu k modelům Apple a Sony při zachování plnohodnotního aktivního potlačení hluku a dlouhé výdrže baterie.",
       "slug": "bose-rushes-to-clear-out-its-qc-headphones-stock-n",
       "publishedAt": "2025-11-06T01:12:44+00:00",
       "date": "2025-11-06 01:12:44",
       "importance": 3,
-      "category": "audio technika",
+      "category": "hardware",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/08/bose-headphones-1200x675.jpg",
       "url": "/tech-news/2025-11-06/bose-rushes-to-clear-out-its-qc-headphones-stock-n/",
       "source": {
@@ -325,13 +458,15 @@
       "companies": [
         "Bose",
         "Sony",
-        "Apple"
+        "Apple",
+        "Google",
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "Vzácná forma syfilis u ženatého seniora zmátla lékaře",
-      "description": "Kazuistika 83letého muže z Belgie ukazuje, jak komplikovaná může být diagnostika syfilis, zejména pokud pacient neuvádí úplné informace o svém sexuálním životě.",
+      "title": "Vzácná forma syfilis u ženatého seniora komplikuje diagnostiku lékařům",
+      "description": "Klinický případ 83letého muže s atypickými projevy sekundární syfilis ukazuje, jak snadno mohou být pohlavně přenosné infekce přehlédnuty, zvláště pokud pacient neudává rizikové chování.",
       "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
       "publishedAt": "2025-11-05T23:29:42+00:00",
       "date": "2025-11-05 23:29:42",
@@ -348,13 +483,13 @@
       "people": []
     },
     {
-      "title": "Trend alert: High-tech Bluetooth CD přehrávače vracejí nostalgii po éře mixtapů",
-      "description": "Nová generace přenosných CD přehrávačů kombinuje retro design s moderními funkcemi, jako je Bluetooth a USB-C, a míří na mladší uživatele hledající hmatatelný formát bez rušivých notifikací.",
+      "title": "Trend návratu: moderní Bluetooth CD přehrávače cílí na nostalgii po éře mixovaných kazet",
+      "description": "Nová generace přenosných CD přehrávačů kombinuje retro design s funkcemi jako Bluetooth a nabíjení přes USB-C a míří na uživatele, kteří chtějí fyzická média bez ztráty moderního komfortu.",
       "slug": "trend-alert-high-tech-bluetooth-cd-players-make-me",
       "publishedAt": "2025-11-05T22:11:13+00:00",
       "date": "2025-11-05 22:11:13",
-      "importance": 3,
-      "category": "audio technika",
+      "importance": 1,
+      "category": "hardware",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
       "url": "/tech-news/2025-11-05/trend-alert-high-tech-bluetooth-cd-players-make-me/",
       "source": {
@@ -364,10 +499,7 @@
       },
       "companies": [
         "Apple",
-        "Spotify",
-        "Sony",
-        "Philips",
-        "Bose"
+        "Sony"
       ],
       "people": []
     },
@@ -411,8 +543,8 @@
       "people": []
     },
     {
-      "title": "M4 MacBook Air před Black Friday výrazně zlevňuje a posouvá standard mobilních notebooků",
-      "description": "Apple před Black Friday zlevnil 13\" i 15\" MacBook Air s čipem M4 o 250 dolarů, čímž výrazně zvyšuje tlak na konkurenční ultrabooky s procesory Intel a AMD. Kombinace nižší ceny, vyššího výkonu, 16 GB RAM v základu a dlouhé výdrže mění poměr cena/výkon v prémiovém segmentu.",
+      "title": "Apple M4 MacBook Air výrazně zlevňuje před Black Friday",
+      "description": "Apple M4 MacBook Air, aktuální generace ultramobilního notebooku s čipem M4 a 16GB RAM v základu, dosáhla na Amazonu nejnižší ceny dosud. Sleva ve výši 250 dolarů výrazně mění poměr cena/výkon v segmentu lehkých pracovních notebooků.",
       "slug": "apples-slim-m4-macbook-air-is-cheaper-than-ever-ah",
       "publishedAt": "2025-11-05T20:46:17+00:00",
       "date": "2025-11-05 20:46:17",
@@ -427,7 +559,8 @@
       },
       "companies": [
         "Apple",
-        "Amazon"
+        "Amazon",
+        "The Verge"
       ],
       "people": []
     },
@@ -538,8 +671,8 @@
       "people": []
     },
     {
-      "title": "Spory Disney a Google zasahují Movies Anywhere: Google ukončil synchronizaci digitálních filmů",
-      "description": "Probíhající spor mezi Disney a Google se rozšířil za hranice YouTube TV a nově dopadá i na Movies Anywhere. Google Play a YouTube přestávají podporovat synchronizaci digitálních nákupů filmů, což narušuje dosud klíčovou interoperabilitu filmových knihoven.",
+      "title": "Spor Disney a YouTube TV zasahuje Movies Anywhere: Google přestává synchronizovat digitální filmy",
+      "description": "Probíhající spor mezi Disney a Googlem už nezasahuje jen televizní kanály na YouTube TV, ale nově i platformu Movies Anywhere, kde Google Play a YouTube ukončily podporu synchronizace digitálních filmových nákupů.",
       "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
       "publishedAt": "2025-11-05T19:58:00+00:00",
       "date": "2025-11-05 19:58:00",
@@ -554,9 +687,9 @@
       },
       "companies": [
         "Disney",
+        "YouTube",
         "Google",
-        "Movies Anywhere",
-        "YouTube TV"
+        "Movies Anywhere"
       ],
       "people": []
     },
@@ -607,8 +740,8 @@
       "people": []
     },
     {
-      "title": "Slevy na kompletní řadu Pixel 10 na Amazonu: kdy má smysl koupit základní model a kdy jít do Pro",
-      "description": "Celá řada smartphonů Google Pixel 10, včetně Pixel 10 Pro a Pixel 10 Pro XL, je dočasně zlevněná na Amazonu. Nabídka přináší výrazné úspory zejména pro uživatele hledající lepší fotoaparát, displej a výkon za nižší cenu.",
+      "title": "Slevy na celou řadu telefonů Pixel 10 na Amazonu",
+      "description": "Amazon a vybraní prodejci zlevnili všechny modely Pixel 10, včetně Pixel 10 Pro a Pixel 10 Pro XL. Jde o výraznou cenovou úpravu u aktuální generace, která může ovlivnit volbu mezi běžnými androidovými vlajkovými telefony.",
       "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
       "publishedAt": "2025-11-05T19:06:00+00:00",
       "date": "2025-11-05 19:06:00",
@@ -622,9 +755,7 @@
         "name": "Wired"
       },
       "companies": [
-        "Google",
-        "Amazon",
-        "WIRED"
+        "Google"
       ],
       "people": []
     },
@@ -3782,26 +3913,6 @@
       "people": []
     },
     {
-      "title": "Proč si místo Apple Watch Ultra 3 koupím Series 11 a ušetřím tisíce",
-      "description": "Osobní úvaha autora, proč se rozhodl pro levnější model Series 11 místo vlajkové lodi Ultra 3.",
-      "slug": "i-was-ready-to-buy-an-apple-watch-ultra-3-heres-wh",
-      "publishedAt": "2025-11-01T15:00:00+00:00",
-      "date": "2025-11-01 15:00:00",
-      "importance": 2,
-      "category": "chytré hodinky",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vd8Tachg8Lo9BrXuJmSyzn-2289-80.jpg",
-      "url": "/tech-news/2025-11-01/i-was-ready-to-buy-an-apple-watch-ultra-3-heres-wh/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Linuxové jádro portováno do WebAssembly - demo běží přímo v prohlížeči",
       "description": "Open-source vývojář Joel Severin úspěšně portoval linuxové jádro do WebAssembly a zprovoznil ho v běžných webových prohlížečích, včetně funkčního shellu.",
       "slug": "linux-kernel-ported-to-webassembly-demo-lets-you-r",
@@ -3860,24 +3971,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching - CNN",
-      "description": "As NASA’s moon-landing plans with SpaceX hang in the balance, other bold ideas are quietly starting to take shape.",
-      "slug": "inside-nasas-scramble-to-find-a-backup-moon-plan-a",
-      "publishedAt": "2025-11-01T13:32:18+00:00",
-      "date": "2025-11-01 13:32:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/03-two-stage-lunar-lander-concept.JPG?c=16x9&q=w_800,c_fill",
-      "url": "/tech-news/2025-11-01/inside-nasas-scramble-to-find-a-backup-moon-plan-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3948,78 +4041,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Is your Pixel getting Google’s surprise update? Here’s every supported phone - Android Authority",
-      "description": "Seemingly out of nowhere, Google has surprised Pixel users with a second update in the same month. But is your Pixel getting it?",
-      "slug": "is-your-pixel-getting-googles-surprise-update-here",
-      "publishedAt": "2025-11-01T09:29:12+00:00",
-      "date": "2025-11-01 09:29:12",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-vs-pixel-9-pro-camera-comparison-hero-4-scaled.jpg",
-      "url": "/tech-news/2025-11-01/is-your-pixel-getting-googles-surprise-update-here/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys",
-      "description": "As part of its now live early Black Friday sale, Best Buy is offering a handful of Lenovo Android tablets...",
-      "slug": "lenovos-budget-friendly-2025-idea-tab-plus-android",
-      "publishedAt": "2025-11-01T08:03:00+00:00",
-      "date": "2025-11-01 08:03:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-01/lenovos-budget-friendly-2025-idea-tab-plus-android/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "I test TVs for a living and found 5 awesome 75-inch TV deals ahead of Black Friday - Tom's Guide",
-      "description": "Beat the holiday rush and save big on a budget-friendly TV",
-      "slug": "i-test-tvs-for-a-living-and-found-5-awesome-75-inc",
-      "publishedAt": "2025-11-01T05:48:10+00:00",
-      "date": "2025-11-01 05:48:10",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/erhedSLbsG3DfEutjhE38E-2000-80.jpg",
-      "url": "/tech-news/2025-11-01/i-test-tvs-for-a-living-and-found-5-awesome-75-inc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Houses without lounges are a reality for renters - BBC",
-      "description": "Nearly a third of homes advertised on a property sharing website had no living room.",
-      "slug": "houses-without-lounges-are-a-reality-for-renters-b",
-      "publishedAt": "2025-11-01T01:02:51+00:00",
-      "date": "2025-11-01 01:02:51",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce32/live/5b113cc0-b684-11f0-b2a1-6f537f66f9aa.jpg",
-      "url": "/tech-news/2025-11-01/houses-without-lounges-are-a-reality-for-renters-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
       },
       "companies": [],
       "people": []
