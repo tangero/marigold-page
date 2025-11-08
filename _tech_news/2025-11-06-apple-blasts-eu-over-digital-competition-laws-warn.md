@@ -1,55 +1,62 @@
 ---
 author: Marisa Aigen
-category: regulace tech trhu
+category: regulace technologií
 companies:
 - Apple
 date: '2025-11-06 11:00:20'
-description: Apple v dopise Evropské komisi tvrdí, že pravidla EU pro digitální trhy
-  a služby oslabují bezpečnost iOS a iPadOS a zvyšují riziko podvodů a zneužití, zatímco
-  Brusel je obviňuje z brzdení konkurence a porušování nových regulací.
+description: Apple v dopise Evropské komisi tvrdí, že pravidla EU na podporu konkurence
+  a regulaci online platforem oslabují bezpečnost iOS a iPadOS a zvyšují riziko podvodů,
+  škodlivého obsahu a narušení soukromí. Spor se stává součástí širšího geopolitického
+  tlaku mezi USA a EU ohledně regulace velkých technologických firem.
 importance: 3
 layout: tech_news_article
 original_title: Apple blasts EU over digital competition laws, warning they make "fraud
   and scams" more likely - CBS News
 people:
+- Apple
+- Elon Musk
 - Tim Cook
-- Donald Trump
 publishedAt: '2025-11-06T11:00:20+00:00'
 slug: apple-blasts-eu-over-digital-competition-laws-warn
 source:
   emoji: 📺
   id: cbs-news
   name: CBS News
-title: Apple ostře kritizuje EU za digitální regulace, varuje před růstem podvodů
-  a narušením bezpečnosti
+title: Apple ostře kritizuje EU kvůli digitálním regulacím, varuje před vyšším rizikem
+  podvodů a zneužití
 url: https://www.cbsnews.com/news/apple-blasts-europe-digital-competition-laws-fraud-and-scams/
 urlToImage: https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/27/b6d2ce56-c8c4-47d1-8f68-118186c02f1c/thumbnail/1200x630/b21fdf40da120196a841d7e360ba786e/gettyimages-2152534755.jpg
 urlToImageBackup: https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/27/b6d2ce56-c8c4-47d1-8f68-118186c02f1c/thumbnail/1200x630/b21fdf40da120196a841d7e360ba786e/gettyimages-2152534755.jpg
 ---
 
 ## Souhrn
-Apple v ostrém dopise Evropské komisi obvinil EU, že novými digitálními regulacemi oslabuje bezpečnost a soukromí uživatelů na iOS a iPadOS. Tvrdí, že povinné otevření ekosystému konkurenci podle Digital Markets Act (DMA) vedlo k vyššímu riziku podvodů, škodlivých aplikací a nevhodného obsahu, zatímco Evropská komise Apple viní z nedostatečného plnění povinností a omezování hospodářské soutěže.
+Apple v ostrém dopise Evropské komisi obviňuje Evropskou unii, že nová digitální regulace – zejména Digital Markets Act (DMA) a Digital Services Act (DSA) – nutí firmu otevřít svůj ekosystém způsobem, který zvyšuje riziko podvodů, škodlivého obsahu a slabší ochrany soukromí. Firma tvrdí, že vynucované změny oslabují bezpečnost iOS a iPadOS a zpochybňují možnost udržet vysoký standard ochrany uživatelů, zejména nezletilých.
 
 ## Klíčové body
-- Apple tvrdí, že regulace EU nutící jej otevřít platformu menším rivalům zvyšují riziko podvodů, pornografie a zneužití údajů.
-- EU uplatňuje Digital Services Act (DSA) a Digital Markets Act (DMA), které regulují obsah, reklamu a chování velkých platforem.
-- Apple dostal pokutu 500 milionů eur za údajné omezování vývojářů při směrování uživatelů mimo App Store a pokutu napadl.
-- Spor se prolíná s americkou politikou: Trumpova administrativa označuje kroky EU za diskriminační „lawfare“ vůči americkým technologickým firmám.
-- Konflikt ukazuje napětí mezi uzavřeným, kurátorovaným ekosystémem a regulatorním tlakem na interoperabilitu, konkurenci a transparentnost.
+- Apple tvrdí, že regulatorní zásahy EU vedou k oslabení bezpečnosti App Store a celého ekosystému iOS/iPadOS.
+- Firma obviňuje Evropskou komisi z „enforcement agenda“, která má podle ní fakticky narušovat bezpečnost a soukromí.
+- EU uplatňuje dva klíčové právní rámce: DSA (obsah, ochrana uživatelů) a DMA (podpora konkurence, regulace gatekeeperů).
+- Apple byl v dubnu pokutován částkou 500 milionů eur za údajné omezování vývojářů při informování o alternativních možnostech mimo App Store a pokutu napadl.
+- Spor je zasazen do širšího napětí mezi USA a EU, včetně hrozeb cel ze strany administrativy Donalda Trumpa kvůli „diskriminačním“ technologickým regulacím.
 
 ## Podrobnosti
-Evropská unie v posledních letech zásadně zpřísnila regulaci velkých online platforem prostřednictvím dvou klíčových norem. Digital Services Act (DSA) ukládá platformám povinnost efektivněji řešit nelegální obsah, transparentně nakládat s reklamou (zejména vůči nezletilým) a zavádět opatření na ochranu uživatelů. Digital Markets Act (DMA) je zaměřen na tzv. gatekeepery – největší technologické společnosti, které kontrolují přístup na digitální trhy – a nutí je k otevřenějším pravidlům pro konkurenty, včetně alternativních obchodů s aplikacemi, platebních systémů a možností směrování uživatelů mimo jejich vlastní kanály.
+Evropská unie v posledních letech zavedla dvě zásadní regulace: Digital Services Act (DSA), který se zaměřuje na odpovědnost online platforem za nelegální obsah, transparentní reklamu a ochranu nezletilých, a Digital Markets Act (DMA), který míří na tzv. gatekeepery a má omezit jejich schopnost uzavírat ekosystémy a znevýhodňovat konkurenci. Apple patří mezi hlavní cílové subjekty DMA.
 
-Apple dlouhodobě staví svou pozici na silně kontrolovaném ekosystému App Store, argumentuje ochranou uživatelů, kurátorstvím aplikací a omezením malwaru a podvodů. Podle DMA však nesmí bránit vývojářům v tom, aby uživatele informovali o levnějších nebo alternativních způsobech nákupu mimo App Store, a musí umožnit konkurenci v distribuci aplikací. Za omezování těchto možností dostal Apple pokutu 500 milionů eur, kterou napadl s tím, že opatření EU ohrožují bezpečnost a soukromí.
+DMA nutí Apple mimo jiné umožnit alternativní distribuční kanály k App Store, uvolnit některé restrikce pro vývojáře a omezit praktiky, které brání informovat uživatele o jiných způsobech nákupu aplikací či služeb. Apple v dopise tvrdí, že tyto zásahy narušují jeho bezpečnostní model, založený na centralizované kontrole aplikací, a tím zvyšují riziko finančních podvodů, šíření pornografického a škodlivého obsahu a oslabení ochrany soukromí.
 
-V novém dopise Evropské komisi Apple tvrdí, že nucené otevření systému podle DMA jde přímo proti bezpečnostním požadavkům a očekáváním uživatelů, zejména dětí. Naznačuje, že uvolnění pravidel pro distribuci aplikací usnadňuje šíření podvodných finančních služeb, pornografického obsahu a agresivního sledování uživatelů třetími stranami. Zároveň obviňuje Komisi z „agendy vymáhání“, která má podle Applu zpochybnit samotné principy ochrany soukromí v iOS a iPadOS.
+Evropská komise zároveň zkoumá, zda Apple v rámci DSA poskytuje dostatečnou ochranu nezletilých. Apple reaguje argumentem, že právě povinnosti z DMA mu komplikují možnost udržet vysokou míru bezpečnosti a jednotnou kontrolu nad ekosystémem. Jde tedy o přímý střet dvou principů: regulatorní otevřenosti a interoperabilit y na straně EU a bezpečnostního, uzavřeného modelu na straně Apple.
 
-Na pozadí probíhá politický konflikt mezi USA a EU. Představitelé bývalé Trumpovy administrativy označovali evropské regulace a pokuty za diskriminační útok na americké technologické firmy a hrozili odvetnými tarify. Tím se spor o bezpečnost a konkurenci v digitálním prostoru posouvá i do oblasti mezinárodního obchodu.
+Pro uživatele i vývojáře to znamená praktické změny. Uživatele čeká větší volba mezi oficiálním App Store a alternativními kanály, což může přinést levnější nebo inovativnější služby, ale také vyšší nároky na opatrnost a ověřování zdrojů aplikací. Vývojáři mohou získat lepší podmínky a nižší poplatky, ale budou se muset orientovat ve složitější regulatorní a technické krajině a potenciálně rozdílných implementacích pravidel v rámci EU.
 
 ## Proč je to důležité
-Tento spor ukazuje zásadní střet dvou přístupů: silně kontrolovaného ekosystému, který slibuje vyšší bezpečnost, a regulatorního tlaku na otevřenost, interoperabilitu a férovou soutěž. Pro uživatele to znamená potenciálně větší výběr aplikací a plateb, ale také vyšší nároky na vlastní obezřetnost při instalaci a používání služeb mimo tradiční kanály. Pro vývojáře může striktnější prosazování DMA otevřít prostor pro alternativní distribuční cesty a snížit závislost na App Store, ale za cenu složitějšího souladu s novými pravidly.
+Spor mezi Applem a EU je modelový konflikt mezi regulací tržní síly velkých technologických firem a udržením vysokých bezpečnostních standardů. Evropská unie prosazuje otevřenější, konkurenční prostředí a menší závislost na uzavřených platformách. Apple staví svou pozici na tvrzení, že bezpečnost, ochrana soukromí a kontrola obsahu jsou neoddělitelné od jeho uzavřeného ekosystému.
 
-Pro celý technologický průmysl v EU jde o test, zda lze prosadit regulaci velkých platforem, aniž by došlo k reálnému oslabení zabezpečení a uživatelské zkušenosti. Pokud se potvrdí, že otevřenější model lze provozovat bezpečně, posílí to pozici evropských regulátorů i jako vzoru pro další regiony. Pokud se naopak objeví výrazný nárůst incidentů a podvodů, získá Apple argumenty pro zpřísnění kontroly ekosystémů a omezení příliš ambiciózních regulatorních zásahů.
+Výsledek tohoto střetu bude určující pro:
+- podobu mobilních ekosystémů v EU (míra otevřenosti, alternativní obchody s aplikacemi, podmínky pro vývojáře),
+- vztahy mezi USA a EU v oblasti digitální politiky a obchodu,
+- budoucí regulaci dalších velkých platforem (Google, Meta, Microsoft), které sledují, jak daleko může EU zajít v zásazích do technických a obchodních modelů.
+
+Pro průmysl jde o signál, že regulatorní tlak na transparentnost, interoperabilitu a omezení dominantního postavení bude pokračovat, a firmy budou muset technické argumenty o bezpečnosti podpořit konkrétními daty a ověřitelnými metrikami, nikoli pouze obecnými tvrzeními.
 
 ---
 

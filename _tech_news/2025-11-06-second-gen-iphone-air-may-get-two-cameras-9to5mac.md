@@ -1,11 +1,12 @@
 ---
-category: smartphony
+category: hardware
 companies:
 - Apple
+- 9to5Mac
 date: '2025-11-06 11:58:00'
-description: Apple podle úniku údajně zvažuje druhou generaci iPhone Air s dvojitým
-  zadním fotoaparátem, která by měla řešit hlavní slabinu první verze – omezené fotografické
-  možnosti oproti modelům Pro.
+description: Apple podle úniku zvažuje druhou generaci iPhone Air s dvojicí fotoaparátů,
+  která by měla odstranit dosavadní zásadní slabinu tohoto modelu a přiblížit jej
+  schopnostem řady Pro.
 importance: 2
 layout: tech_news_article
 original_title: Second-gen iPhone Air may get two cameras - 9to5Mac
@@ -21,7 +22,7 @@ urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Sec
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Second-gen-iPhone-Air-may-get-two-cameras-instead-of-one.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Podle informací od leakerů s dosud poměrně spolehlivou historií Apple pracuje na druhé generaci iPhone Air, která by oproti první verzi měla dostat dva zadní fotoaparáty místo jednoho. Konkrétně se mluví o kombinaci hlavního a ultraširokoúhlého objektivu, což by odstranilo jednu z klíčových nevýhod současného iPhone Air vůči modelům Pro. Zpráva zmiňuje i vývojové označení „iPhone 18 Air“, ale je nepravděpodobné, že by Apple tento název skutečně použil. Aktuální prototyp má údajně 6,5" displej s vyšší obnovovací frekvencí a zachovává extrémně tenké tělo, založené na konceptu přesunu většiny elektroniky do modulu fotoaparátu. Tyto informace je však potřeba brát jako spekulativní – zařízení je ve fázi interního vývoje a Apple může podobné konfigurace kdykoli změnit nebo zcela zrušit. Přesto náznaky ukazují, že Apple hledá cestu, jak udělat z iPhone Air životaschopnější alternativu pro uživatele, kteří požadují kombinaci tenkého designu a alespoň základní všestrannosti fotoaparátu bez nutnosti přecházet na dražší řadu Pro.
+Apple podle informací leakerů testuje druhou generaci iPhone Air, tentokrát s dvojicí zadních fotoaparátů místo jednoho. První generace zaujala velmi tenkým tělem, přesunem většiny elektroniky do modulu fotoaparátu a celkovou ergonomií, ale pro řadu uživatelů byla kvůli jedinému objektivu kompromisem vůči modelům Pro. Nový návrh má k hlavnímu fotoaparátu přidat ultraširokoúhlý objektiv, což by odstranilo jednu z nejčastějších kritických připomínek a učinilo iPhone Air použitelnější pro náročnější fotografii a video. Zpráva pochází od leakera Digital Chat Station, který má solidní, ale ne neomylnou historii přesných předpovědí. Podle něj je zařízení ve fázi vývoje odpovídající modelu plánovanému na příští rok, mimo jiné s úhlopříčkou kolem 6,5 palce a tenkým profilem, který navazuje na současný trend Applu ztenšovat tělo přesunem komponent do vyvýšeného foto modulu. Zatím však jde o neoficiální informace bez potvrzení od Applu, nelze tedy brát parametry ani označení modelu jako konečné.
 
 ---
 

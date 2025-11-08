@@ -5,21 +5,24 @@ companies:
 - Apple
 - Google
 date: '2025-11-06 08:36:36'
-description: Apple podle informací agentury Bloomberg plánuje platit Googlu přibližně
-  1 miliardu dolarů ročně za speciální verzi modelu Gemini, která má pohánět výrazně
-  přepracovanou Siri a dohnat technologický náskok konkurence v oblasti konverzační
-  AI.
+description: Apple podle informací Bloombergu uzavírá dohodu, v rámci které bude Googlu
+  platit přibližně 1 miliardu dolarů ročně za specializovanou verzi modelu Gemini
+  pro novou generaci hlasového asistenta Siri. Jde o zásadní posun v AI strategii
+  Applu a neobvykle těsnou technologickou závislost na přímém konkurentovi.
 importance: 4
 layout: tech_news_article
 original_title: Apple is paying Google $1bn to upgrade Siri with... Gemini - Android
   Authority
+people:
+- Tim Cook
+- Sundar Pichai
 publishedAt: '2025-11-06T08:36:36+00:00'
 slug: apple-is-paying-google-1bn-to-upgrade-siri-with-ge
 source:
   emoji: 📰
   id: null
   name: Android Authority
-title: Apple má zaplatit Googlu 1 miliardu dolarů ročně za nasazení Gemini do příští
+title: Apple má platit Googlu 1 miliardu dolarů ročně za integraci Gemini do nové
   generace Siri
 url: https://www.androidauthority.com/apple-paying-google-billion-siri-gemini-3612708/
 urlToImage: https://www.androidauthority.com/wp-content/uploads/2025/03/iPhone-16e-new-siri-interface.jpg
@@ -27,38 +30,30 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/03/iP
 ---
 
 ## Souhrn
-Apple podle informací Marka Gurmana (Bloomberg) uzavírá s Googlem dohodu v hodnotě kolem 1 miliardy dolarů ročně na vývoj a provoz specializované verze AI modelu Gemini pro příští generaci Siri. Jde o zásadní posun v AI strategii Applu a nepřímé přiznání, že interní modely Applu aktuálně nedosahují úrovně nejpokročilejších řešení konkurence.
+Apple má podle zpráv uzavřít dohodu s Googlem, v jejímž rámci bude platit kolem 1 miliardy dolarů ročně za vývoj a provoz specializované varianty AI modelu Gemini pro příští generaci Siri. Tato verze má mít zhruba 1,2 bilionu parametrů a výrazně překonat interní model Applu, který v současnosti pohání Apple Intelligence.
 
 ## Klíčové body
-- Apple má Googlu platit přibližně 1 miliardu dolarů ročně za dedikovaný model Gemini integrovaný do Siri.
-- Použitý model má mít kolem 1,2 bilionu parametrů, výrazně více než současný 150miliardový model Apple Intelligence.
-- Nová Siri má nabídnout delší, přesnější a kontextovější odpovědi, lepší porozumění jazyku a složitějším dotazům.
-- Partnerství ukazuje limity současného interního AI výzkumu Applu a posiluje závislost dvou dominantních hráčů na sobě.
-- Technicky i regulatorně půjde o citlivý projekt: ochrana soukromí, data uživatelů a interoperabilita dvou velkých ekosystémů.
+- Apple má ročně platit Googlu přibližně 1 miliardu dolarů za dedikovaný model Gemini pro Siri.
+- Nasazený model má mít kolem 1,2 bilionu parametrů, oproti cca 150 miliardám u současného modelu Applu.
+- Cílem je zásadně zlepšit schopnosti Siri v porozumění jazyku, kontextu a kvalitě odpovědí.
+- Dohoda potvrzuje, že Apple není schopen v krátkém horizontu dodat srovnatelný model vlastními silami.
+- Partnerství zároveň posiluje závislost dvou dominantních hráčů na sobě v klíčové infrastruktuře AI.
 
 ## Podrobnosti
-Podle zveřejněných informací Apple sáhne po specializované variantě modelu Gemini od Googlu, která nebude totožná s veřejně dostupnými verzemi. Má jít o rozsáhlý model o velikosti přibližně 1,2 bilionu parametrů, tedy řádově větší, než je vlastní jazykový model Applu nasazený v rámci funkcí Apple Intelligence (cca 150 miliard parametrů). Vyšší počet parametrů typicky umožňuje lepší práci s kontextem, nuance jazyka, složitější instrukce i komplexní vícekrokové úlohy.
+Podle informací z prostředí Applu a Googlu, které přinesl novinář Mark Gurman (Bloomberg), se Apple rozhodl zásadně změnit strategii v oblasti AI asistentů. Namísto dalšího oddalování modernizace Siri má firma využít specializovanou variantu velkého jazykového modelu Gemini od Googlu. Gemini je rodina modelů vyvíjených Googlem pro generování a porozumění textu, obrázkům, kódu a dalším typům dat, nasazovaná v řadě služeb, včetně nástupce Google Assistant.
 
-Tento model má být integrován přímo do Siri a pravděpodobně i do dalších systémových funkcí iOS, iPadOS a macOS. Uživatelé by měli získat hlasového asistenta schopného:
-- vést souvislou konverzaci přes více dotazů,
-- přesněji chápat nejednoznačné požadavky,
-- generovat strukturované odpovědi (shrnutí, úkoly, návrhy),
-- lépe pracovat s obsahem v zařízení (e-maily, dokumenty, kalendář) při zachování deklarovaného důrazu Applu na soukromí.
+Apple má za přístup k této technologii a její přizpůsobení svému ekosystému platit přibližně 1 miliardu dolarů ročně. Klíčovým parametrem je velikost modelu: Apple údajně plánuje využít model s přibližně 1,2 bilionu parametrů, což je řádově více než jeho vlastní zhruba 150miliardový model používaný v Apple Intelligence. Vyšší počet parametrů typicky znamená širší znalostní bázi, lepší zachytávání jazykových nuancí a schopnost poskytovat komplexnější, přesnější a konzistentnější odpovědi.
 
-Zajímavý je i strategický kontext. Apple dlouhodobě prezentuje vlastní AI (Apple Intelligence) jako lokální, bezpečnější a integrovánou do hardwaru. Skutečnost, že sahá po infrastruktuře Googlu, ukazuje, že interní modely nestačí v rychlosti vývoje ani v kvalitě odpovědí oproti Gemini, ChatGPT či dalším špičkovým systémům. Současně to signalizuje, že Apple nechce ztratit pozici v segmentu AI asistentů, kde Google přeměnil Google Assistant na Gemini a Amazon výrazně přepracoval Alexa+.
+Nová Siri by díky tomu měla lépe chápat více kroků v dotazu, dlouhodobý kontext, přesněji interpretovat přirozený jazyk a lépe pracovat s informacemi v rámci ekosystému Applu. Prakticky to může znamenat schopnost spolehlivě plánovat úkoly napříč aplikacemi, analyzovat obsah v e-mailech, dokumentech či zprávách, generovat přehledy, pomáhat s produktivitou, ale i tvořit obsah na základě uživatelských instrukcí.
 
-Z technického pohledu se očekává hybridní architektura: menší modely běžící přímo na zařízení (on-device) pro jednodušší úlohy a offline scénáře, zatímco velký Gemini model poběží v cloudu Googlu pro komplexnější dotazy. Klíčovou otázkou bude, jak budou řešena uživatelská data: jaké informace se posílají na servery Googlu, jak jsou anonymizovány, kdo má přístup k logům a jak se to sladí s dlouhodobým marketingem Applu zaměřeným na ochranu soukromí.
+Zároveň však tento krok potvrzuje, že Apple v současnosti nedokázal vyvinout vlastní velký model srovnatelný s předními hráči. Firma měla podle předchozích informací jednat také s OpenAI (ChatGPT) a Anthropic (model Claude), ale volba padla na Google, pravděpodobně kvůli kombinaci technických parametrů, škálovatelnosti a dosavadního partnerství v oblasti vyhledávání.
 
 ## Proč je to důležité
-Tato dohoda má několik zásadních dopadů:
+Tato dohoda je významná z několika důvodů. Za prvé potvrzuje konsolidaci AI moci do rukou několika málo firem. Apple, který dlouhodobě stavěl image na uzavřeném ekosystému a vlastní kontrole technologií, nyní v klíčové oblasti hlasové a konverzační AI spoléhá na konkurenta, proti němuž soutěží v mobilním operačním systému, vyhledávání i cloudových službách.
 
-Zaprvé, jde o významný signál, že i technologický gigant velikosti Applu není schopen v krátkém čase postavit plnohodnotný model na úrovni nejlepších hráčů a raději platí miliardy za přístup k cizí technologii. To narušuje představu, že "velké firmy si vše vyvinou samy" a potvrzuje trend specializace a partnerství v AI ekosystému.
+Za druhé jde o přímý dopad na uživatele: pokud bude implementace kvalitní a dostatečně integrovaná s lokálním zpracováním dat, mohou získat výrazně použitelnější Siri, která přestane být slabým článkem iPhonu, iPadu a Macu. Na druhou stranu vyvolává otázky ohledně ochrany soukromí, datových toků mezi Apple a Google a regulace dominantních platforem.
 
-Zadruhé, pro uživatele zařízení Apple to může znamenat reálný kvalitativní skok v použitelnosti Siri, která dlouhodobě zaostávala za konkurencí. Pokud bude integrace provedena rozumně, mohou získat asistenta schopného řešit komplexní úkoly, plánování, práci s dokumenty, vyhledávání i multimediální obsah na úrovni současných špičkových chatbotů.
-
-Zatřetí, partnerství dvou dominantních hráčů – Applu a Googlu – bude pod drobnohledem regulátorů z hlediska hospodářské soutěže, koncentrace dat a moci nad AI infrastrukturou. Posiluje se závislost menších hráčů na infrastruktuře několika velkých poskytovatelů a omezuje se prostor pro alternativy.
-
-Nakonec jde i o signál trhu: investice v řádu miliard dolarů ročně do jednoho modelu potvrzuje, že špičková generativní AI není levná služba, ale kapitálově extrémně náročná infrastruktura. To ovlivní ceny, obchodní modely (předplatné, uzamčené ekosystémy) i tempo inovací v příštích letech.
+Za třetí to zvyšuje tlak na ostatní hráče. Microsoft a OpenAI již úzce spolupracují, Google tlačí Gemini napříč svým portfoliem, Amazon modernizuje Alexu. Partnerství Apple–Google v AI tak dále zvyšuje bariéry vstupu pro menší firmy a může urychlit regulaci v EU i USA v oblasti AI infrastruktury, interoperability a férové soutěže.
 
 ---
 
