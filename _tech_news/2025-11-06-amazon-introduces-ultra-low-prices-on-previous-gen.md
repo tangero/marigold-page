@@ -4,11 +4,10 @@ category: hardware
 companies:
 - Amazon
 - Apple
-- MacRumors
 date: '2025-11-06 14:24:28'
-description: Amazon spustil výrazné slevy na předchozí generace Apple Watch SE 2 a
-  Apple Watch Series 10, které dosahují až 119 USD a představují historicky nejnižší
-  ceny těchto modelů.
+description: Amazon spustil výrazné slevy na starší modely Apple Watch SE 2 a Apple
+  Watch Series 10, které dosahují až 119 dolarů, čímž vytváří cenový tlak v segmentu
+  chytrých hodinek střední třídy.
 importance: 3
 layout: tech_news_article
 original_title: Amazon Introduces Ultra Low Prices on Previous Gen Apple Watches,
@@ -19,33 +18,33 @@ source:
   emoji: 📰
   id: null
   name: MacRumors
-title: Amazon výrazně zlevnil starší modely Apple Watch, ceny začínají na 159,99 USD
+title: Amazon snižuje ceny starších Apple Watch na 159,99 dolarů
 url: https://www.macrumors.com/2025/11/06/amazon-low-prices-apple-watches/
 urlToImage: https://images.macrumors.com/t/0d0YdpQ94IssdfgwDOmuDOqh9nk=/2500x/article-new/2024/11/apple-watch-se-holiday.jpeg
 urlToImageBackup: https://images.macrumors.com/t/0d0YdpQ94IssdfgwDOmuDOqh9nk=/2500x/article-new/2024/11/apple-watch-se-holiday.jpeg
 ---
 
 ## Souhrn
-Amazon dočasně nabízí výrazně zlevněné předchozí generace chytrých hodinek Apple Watch SE 2 a Apple Watch Series 10, s cenami od 159,99 USD a slevami až 119 USD oproti původním částkám. Akce je součástí širšího předvánočního a Black Friday zlevňování techniky a ukazuje, jak Apple a partneři agresivněji pracují s cenou starších zařízení.
+Amazon výrazně zlevnil starší modely Apple Watch, konkrétně druhou generaci Apple Watch SE a Apple Watch Series 10, s cenami začínajícími na 159,99 USD. Tyto akce se časově překrývají s předvánočními slevami a Black Friday kampaněmi, což má dopad na vnímání hodnoty novějších modelů a konkurenční pozici ostatních výrobců chytrých hodinek.
 
 ## Klíčové body
-- Apple Watch SE 2 (40 mm GPS) za 159,99 USD a 44 mm GPS za 189,99 USD, sleva 89 USD, historicky nejnižší ceny.
-- Apple Watch Series 10 (42 mm GPS) za 279,99 USD a 46 mm GPS za 309,99 USD, sleva 119 USD.
-- Dostupnost více barevných variant u SE 2 (Midnight, Silver, Starlight), omezenější výběr u Series 10.
-- Nabídky jsou součástí širší Black Friday strategie a odrážejí tlak na zpřístupnění ekosystému Apple širšímu spektru uživatelů.
-- Přístup ukazuje na promyšlené vrstvení produktů: nejnovější modely za prémiovou cenu, starší generace jako „entry-level“ volba.
+- Apple Watch SE 2 (40 mm, GPS) za 159,99 USD a (44 mm, GPS) za 189,99 USD – sleva 89 USD, historicky nejnižší ceny.
+- Apple Watch Series 10 (42 mm, GPS) za 279,99 USD a (46 mm, GPS) za 309,99 USD – sleva 119 USD.
+- Dostupnost více barevných variant, omezeně podle modelu (Midnight, Silver, Starlight, Jet Black, Rose Gold, Silver).
+- Slevy jsou součástí širší Black Friday strategie Amazonu a partnerů, která agresivně zlevňuje předchozí generace zařízení.
+- Akce vytváří tlak na konkurenci v cenově citlivém segmentu a zvyšuje penetraci Apple Watch v nižších a středních cenových hladinách.
 
 ## Podrobnosti
-Aktuální slevy na Amazonu cílí na uživatele, kteří zvažují vstup do ekosystému Apple Watch bez nutnosti investovat do nejnovější generace. Apple Watch SE 2 v konfiguracích 40 mm GPS za 159,99 USD a 44 mm GPS za 189,99 USD představují významné zlevnění o 89 USD oproti původním cenám. Zákazníci mají na výběr základní barevné varianty Midnight, Silver a Starlight, což pokrývá nejběžnější preference. SE 2 jsou určeny především pro uživatele, kteří chtějí základní chytré funkce, notifikace, sledování kondice a základní zdravotní metriky bez pokročilých senzorů prémiových modelů.
+Amazon nabízí výrazné slevy na starší generace Apple Watch, které cílí na uživatele hledající kombinaci ekosystému Apple a nižší pořizovací ceny. Apple Watch SE 2, zaměřené na základní funkce chytrých hodinek bez pokročilejších zdravotních senzorů z nejvyšších modelů, začínají na 159,99 USD za 40mm verzi s GPS (sleva 89 USD oproti standardní ceně). Větší 44mm varianta s GPS vychází na 189,99 USD, rovněž se slevou 89 USD. Obě velikosti jsou dostupné v barvách Midnight, Silver a Starlight, což pokrývá hlavní preferované varianty většiny uživatelů.
 
-Apple Watch Series 10, jako starší generace výše postavené řady, jsou zlevněny agresivněji: 42 mm GPS model klesá z 399 USD na 279,99 USD, 46 mm GPS z 429 USD na 309,99 USD. Sleva 119 USD posouvá tyto hodinky do cenového pásma, kde začínají konkurovat nejen starším Apple Watch, ale i robustnější nabídce chytrých hodinek se systémem Wear OS a fitness náramků vyšší třídy. 42mm varianta je v této akci dostupná pouze v provedení Jet Black Aluminium, zatímco 46mm nabízí Jet Black, Rose Gold a Silver Aluminium.
+U Apple Watch Series 10, které patří do vyšší třídy s modernějším displejem, lepším výkonem a pokročilejšími zdravotními funkcemi (monitoring srdečního tepu, detekce pádu, širší integrace s fitness a zdravotními aplikacemi), nabízí Amazon 42mm verzi s GPS za 279,99 USD (z původních 399 USD) a 46mm verzi za 309,99 USD (z 429 USD). V případě 42mm modelu je v akci varianta Jet Black Aluminum, zatímco 46mm verze přidává možnosti Jet Black, Rose Gold a Silver Aluminum.
 
-Slevy jsou načasovány do předvánoční a Black Friday sezóny, kdy se zákazníci rozhodují o nákupu nositelné elektroniky jako doplňku k iPhonu nebo jako zařízení pro monitoring zdraví a pohybu. Pro uživatele, kteří nepotřebují nejnovější generaci senzorů nebo funkce orientované na profesionální sport a hlubší zdravotní diagnostiku, se tyto akce stávají racionální volbou. Současně jde o způsob, jak udržet starší modely v oběhu, posílit adopci služeb Apple (Fitness+, notifikace, Apple Pay na zápěstí) a rozšířit základnu uživatelů bez nutnosti slevovat nejnovější top modely.
+Tyto slevy jsou zasazeny do kontextu Black Friday a předvánočních kampaní, kde velcí prodejci používají starší generace zařízení k získání cenově orientovaných zákazníků do ekosystému. MacRumors funguje jako affiliate partner Amazonu, což znamená, že část provozu je financována z provizí za prokliky a nákupy – standardní model v technologickém mediálním prostoru, který ale může motivovat viditelnost konkrétních nabídek.
+
+Pro uživatele jde o příležitost, jak vstoupit do Apple ekosystému nositelné elektroniky bez nutnosti pořizovat nejnovější a nejdražší modely. Z hlediska funkčnosti stále pokrývají klíčové scénáře: notifikace, fitness tracking, základní zdravotní monitoring, integraci s iOS, použití pro bezkontaktní platby a běžné aplikace.
 
 ## Proč je to důležité
-Tato cenová strategie je důležitá z pohledu struktury trhu i uživatelského chování. Apple prostřednictvím partnerů, jako je Amazon, efektivněji segmentuje trh: nejnovější modely si drží prémiovou marži, zatímco starší generace se postupně posouvají do mainstreamu. To zvyšuje dostupnost nositelné elektroniky pro širší publikum a zpevňuje závislost uživatelů na ekosystému Apple.
-
-Pro konkurenci to znamená další tlak zejména v cenovém pásmu 150–320 USD, kde se pohybují kvalitnější hodinky od Garmin, Samsung či výrobců s Wear OS. Pro uživatele, kteří již vlastní iPhone, se díky těmto slevám stává Apple Watch de facto výchozí volbou. Z hlediska trhu nejde o technologický průlom, ale o praktický signál, jak velcí hráči využívají cenovou politiku a sezónní akce k upevnění pozice svých platforem a služeb.
+Výrazné zlevnění předchozích generací Apple Watch ze strany Amazonu signalizuje několik trendů: zaprvé, Apple i partneři agresivně využívají starší modely k rozšíření uživatelské základny, což posiluje uzamčení do ekosystému iOS a služeb. Zadruhé, tlak na cenu v segmentu chytrých hodinek komplikuje pozici výrobců s Androidem a menších značek, které musí konkurovat zařízeními s menší integrační hodnotou při podobné ceně. Zatřetí, postupná normalizace hlubokých slev u loňských modelů u velkých prodejců mění očekávání zákazníků – část uživatelů může systematicky odkládat nákup novinek a cílit na zlevněné generace, což ovlivňuje tempo adopce nejnovějších technologií. Pro české spotřebitele je důležité sledovat, zda obdobné cenové úrovně a strategie přenesou i lokální distributoři, případně zda se vyplatí nákup přes zahraniční platformy s ohledem na záruku, podporu a DPH.
 
 ---
 
