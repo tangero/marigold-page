@@ -1,15 +1,15 @@
 {
-  "generated": "2025-11-09T04:22:52.581736+00:00",
+  "generated": "2025-11-09T08:22:20.508469+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: sleva na Galaxy S25 Ultra, OLED TV Samsung a další klíčové nabídky",
-      "description": "Best Buy v rámci druhého týdne Black Friday Doorbusters představuje výrazné slevy na prémiové smartphony, OLED televizory a domácí spotřebiče. Akce je časově omezená na víkend a navazuje na agresivní cenovou strategii před hlavním Black Friday.",
+      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: sleva na Galaxy S25 Ultra, Samsung OLED TV a domácí spotřebiče",
+      "description": "Best Buy zahajuje druhý týden Black Friday Doorbusters s výraznými slevami na Samsung Galaxy S25 Ultra, OLED televizory, herní headsety a pračky se sušičkami. Akce ukazuje rostoucí cenovou agresivitu velkých řetězců před hlavním vrcholem nákupní sezóny 2025.",
       "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
       "publishedAt": "2025-11-07T22:25:00+00:00",
       "date": "2025-11-07 22:25:00",
       "importance": 3,
-      "category": "spotřební elektronik",
+      "category": "slevy",
       "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-07/best-buy-week-2-black-friday-doorbusters-now-live-/",
       "source": {
@@ -19,8 +19,7 @@
       },
       "companies": [
         "Best Buy",
-        "Samsung",
-        "Apple"
+        "Samsung"
       ],
       "people": []
     },
@@ -41,6 +40,27 @@
       },
       "companies": [
         "SAMSUNG"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Wallet zavádí nové volby personalizace podle nákupů a digitálních karet",
+      "description": "Google rozšiřuje Google Wallet o nastavení, která umožní používat historii nákupů a uložených karet pro cílenější doporučení, nabídky a reklamu napříč službami Google, s možností detailního vypnutí.",
+      "slug": "google-wallet-adding-new-purchase-and-pass-persona",
+      "publishedAt": "2025-11-07T19:00:00+00:00",
+      "date": "2025-11-07 19:00:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/google-wallet-adding-new-purchase-and-pass-persona/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google",
+        "9to5Google"
       ],
       "people": []
     },
@@ -113,8 +133,8 @@
       ]
     },
     {
-      "title": "Nejpodivnější úniky ChatGPT: citlivé konverzace se objevily v nástroji Google Search Console",
-      "description": "Měsíce unikaly osobní dotazy uživatelů ChatGPT do Google Search Console, což naznačuje problematické zpracování uživatelských vstupů a možné přímé skenování Googlu ze strany OpenAI.",
+      "title": "Nejpodivnější úniky ChatGPT: osobní konverzace se objevily v Google Search Console",
+      "description": "Vyšetřování ukazuje, že citlivé dotazy z ChatGPT se objevovaly v Google Search Console a naznačuje, že OpenAI přímo pracuje s daty z Google vyhledávání. OpenAI hlásí opravu „chybného směrování“ dotazů, ale neodpověděla na klíčové otázky ohledně rozsahu a mechanismu problému.",
       "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
       "publishedAt": "2025-11-07T16:49:53+00:00",
       "date": "2025-11-07 16:49:53",
@@ -130,15 +150,17 @@
       "companies": [
         "OpenAI",
         "Google",
-        "Microsoft",
-        "Apple",
-        "NVIDIA"
+        "Microsoft"
       ],
-      "people": []
+      "people": [
+        "Sam Altman",
+        "Elon Musk",
+        "Tim Cook"
+      ]
     },
     {
-      "title": "YouTube blokuje načítání videí uživatelům s adblocky: technická chyba, nebo další krok v boji proti blokování reklam?",
-      "description": "Část uživatelů zaznamenala, že se jim YouTube s aktivním blokováním reklam nenačítá nebo zobrazuje téměř prázdnou stránku. Problém ukazuje, jak vyhrocený je konflikt mezi YouTube a nástroji pro blokování reklam a jak může technická změna ovlivnit vnímání dostupnosti celé platformy.",
+      "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
+      "description": "Část uživatelů zaznamenala, že se jim YouTube přestává načítat při použití adblocku. Podle hlášení nejde o klasický výpadek služby, ale o další projev konfliktu mezi YouTube a nástroji pro blokování reklamy.",
       "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
       "publishedAt": "2025-11-07T16:40:00+00:00",
       "date": "2025-11-07 16:40:00",
@@ -153,18 +175,17 @@
       },
       "companies": [
         "YouTube",
-        "Google",
-        "9to5Google"
+        "Google"
       ],
       "people": []
     },
     {
-      "title": "Spekulace: Nová Siri může běžet na AI modelu od Googlu",
-      "description": "Podle zpráv Apple jedná s Googlem o využití rozsáhlého jazykového modelu pro zásadní vylepšení Siri, která má být konečně konkurenceschopná vůči dnešním AI asistentům.",
+      "title": "Apple údajně nasadí Google AI model pro zásadní přepracování Siri",
+      "description": "Apple podle informací zvažuje nasazení velkého jazykového modelu od Googlu pro nové funkce Siri. Tento krok může urychlit nástup schopnější AI asistence v ekosystému Apple, ale současně otevírá otázky ohledně nezávislosti a ochrany soukromí.",
       "slug": "new-siri-rumor-could-give-apple-and-users-exactly-",
       "publishedAt": "2025-11-07T14:34:00+00:00",
       "date": "2025-11-07 14:34:00",
-      "importance": 2,
+      "importance": 3,
       "category": "ai",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-07/new-siri-rumor-could-give-apple-and-users-exactly-/",
@@ -178,7 +199,6 @@
         "Google"
       ],
       "people": [
-        "Elon Musk",
         "Tim Cook",
         "Sundar Pichai"
       ]
@@ -205,8 +225,8 @@
       "people": []
     },
     {
-      "title": "Apple zvažuje levný notebook s čipem z iPhonu. Návrat konceptu iBook ukazuje na chaos v produktové strategii",
-      "description": "Apple podle informací zvažuje levnější notebook s čipem z iPhonu jako odpověď na tlak levných zařízení a nárůst AI asistentů, zatímco probíhající spor Amazonu a Perplexity ukazuje, jak se mění způsob vyhledávání a nakupování na webu.",
+      "title": "Apple zvažuje levný notebook s čipem z iPhonu. Může oživit koncept iBooku",
+      "description": "Apple podle dostupných informací připravuje levnější notebook postavený na čipu z iPhonu a současně se vyostřuje spor mezi Amazonem a Perplexity o podobu AI asistovaného nakupování. Diskuse ukazuje, jak nejasná je dnes strategie Applu i budoucnost webu v éře AI agentů.",
       "slug": "bring-back-the-ibook-you-cowards-the-verge",
       "publishedAt": "2025-11-07T14:10:27+00:00",
       "date": "2025-11-07 14:10:27",
@@ -227,19 +247,19 @@
         "Microsoft"
       ],
       "people": [
-        "Elon Musk",
         "Tim Cook",
-        "Satya Nadella"
+        "Jeff Bezos",
+        "Elon Musk"
       ]
     },
     {
-      "title": "Windows 11 verze 26H1: Speciální vydání systému pro novou generaci čipů",
-      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě Bromine, určenou primárně pro zařízení s novými procesory Snapdragon X2 a NVIDIA N1X v první polovině roku 2026.",
+      "title": "Windows 11 verze 26H1: Speciální vydání pro novou generaci čipů Snapdragon X2 a NVIDIA N1X",
+      "description": "Microsoft připravuje speciální verzi Windows 11 (26H1) založenou na nové platformě Bromine, určenou výhradně pro nadcházející generaci čipů, která se očekává v první polovině roku 2026 a nebude distribuována jako běžná aktualizace stávajícím uživatelům.",
       "slug": "windows-11-version-26h1-everything-we-know-so-far-",
       "publishedAt": "2025-11-07T13:16:13+00:00",
       "date": "2025-11-07 13:16:13",
       "importance": 3,
-      "category": "software",
+      "category": "operační systémy",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg",
       "url": "/tech-news/2025-11-07/windows-11-version-26h1-everything-we-know-so-far-/",
       "source": {
@@ -253,13 +273,13 @@
       "people": []
     },
     {
-      "title": "Chcete méně závislé děti na mobilech? Začněte vlastními technologickými hranicemi",
-      "description": "Výzkumy i praxe ukazují, že klíčovým faktorem pro zdravý vztah dětí k technologiím není jen rodičovská kontrola, ale především osobní digitální návyky rodičů. Článek shrnuje, jak nastavit realistická pravidla, která děti vidí v každodenním chování dospělých.",
+      "title": "Chcete méně na displejích závislé děti? Začněte nastavením vlastních digitálních hranic",
+      "description": "Článek upozorňuje, že pokud mají mít děti zdravý vztah k technologiím a chytrým telefonům, nestačí sledovat jejich čas u obrazovky. Rodiče musí aktivně modelovat vlastní digitální návyky a nastavovat jasná pravidla pro celou domácnost.",
       "slug": "want-less-screen-obsessed-kids-set-better-tech-bou",
       "publishedAt": "2025-11-07T10:00:00+00:00",
       "date": "2025-11-07 10:00:00",
       "importance": 3,
-      "category": "výchova",
+      "category": "rodičovství",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+1123/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F4b%2F46232ca44d00b76e646f9d83e83a%2Flk-parents-screen-time-phone-use-drowning-mental-health-high-res-pool.jpg",
       "url": "/tech-news/2025-11-07/want-less-screen-obsessed-kids-set-better-tech-bou/",
       "source": {
@@ -270,9 +290,9 @@
       "companies": [
         "Apple",
         "Google",
-        "Facebook",
-        "Instagram",
-        "TikTok"
+        "Meta",
+        "YouTube",
+        "Netflix"
       ],
       "people": []
     },
@@ -298,13 +318,13 @@
       "people": []
     },
     {
-      "title": "AI-generované škodlivé rozšíření pro VS Code má vestavěné funkce ransomwaru",
-      "description": "Nově odhalené škodlivé rozšíření pro VS Code a falešné balíčky v npm ukazují, jak útočníci zneužívají důvěru v otevřený software a nástroje pro vývojáře, včetně využití AI k automatizaci tvorby sofistikovaného malwaru.",
+      "title": "Zneužití VS Code rozšíření a falešných npm balíčků k šíření AI-generovaného ransomwaru",
+      "description": "Útočníci využili důvěry v open-source ekosystém a Visual Studio Code rozšíření k distribuci škodlivého kódu s funkcemi ransomwaru, přičemž část kódu byla generována pomocí AI.",
       "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
       "publishedAt": "2025-11-07T06:48:00+00:00",
       "date": "2025-11-07 06:48:00",
       "importance": 3,
-      "category": "kyberbezpečnost",
+      "category": "kybernetika",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s790-rw-e365/vide-code-ransomware.jpg",
       "url": "/tech-news/2025-11-07/vibe-coded-malicious-vs-code-extension-found-with-/",
       "source": {
@@ -315,9 +335,9 @@
       "companies": [
         "Microsoft",
         "OpenAI",
-        "GitHub",
-        "Amazon Web Services",
-        "Google"
+        "Google",
+        "Github",
+        "Amazon"
       ],
       "people": []
     },
@@ -385,8 +405,8 @@
       "people": []
     },
     {
-      "title": "IKEA uvádí 21 chytrých zařízení s podporou Matter a Apple Home",
-      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení s podporou Matter-over-Thread, včetně žárovek, senzorů, zásuvek a ovladačů, které budou kompatibilní s Apple Home a dalšími ekosystémy.",
+      "title": "IKEA uvádí 21 nových chytrých zařízení s podporou Matter a Apple HomeKit",
+      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 zařízení kompatibilních se standardem Matter a Apple HomeKit, zahrnujících žárovky, senzory, zásuvky a ovladače s důrazem na nízkou cenu a podporu Thread.",
       "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
       "publishedAt": "2025-11-07T00:08:24+00:00",
       "date": "2025-11-07 00:08:24",
@@ -406,13 +426,13 @@
       "people": []
     },
     {
-      "title": "Microsoft dal AI agentům virtuální peníze. V simulovaném online trhu je utratili za podvody",
-      "description": "Microsoft otestoval stovky AI agentů v simulované ekonomice jako nakupující i prodávající. Výsledek ukázal, že i pokročilé modely systematicky selhávají v rozpoznávání scamů a bezpečném rozhodování.",
+      "title": "Microsoft simuloval online tržiště s AI agenty. Virtuální peníze utratili hlavně za podvody",
+      "description": "Microsoft vytvořil simulovanou ekonomiku se stovkami AI agentů, kteří měli nakupovat a prodávat online. Experiment ukázal, že agenti opakovaně selhávali v základní due diligence a snadno podléhali podvodům.",
       "slug": "microsoft-gave-ai-agents-fake-money-to-buy-things-",
       "publishedAt": "2025-11-07T00:05:13+00:00",
       "date": "2025-11-07 00:05:13",
       "importance": 3,
-      "category": "ai agenti",
+      "category": "ai",
       "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/443150d2-ca4c-4ca4-9240-b52432c00026-gID_7.png",
       "url": "/tech-news/2025-11-07/microsoft-gave-ai-agents-fake-money-to-buy-things-/",
       "source": {
@@ -421,7 +441,8 @@
         "name": "Decrypt"
       },
       "companies": [
-        "Microsoft"
+        "Microsoft",
+        "Decrypt"
       ],
       "people": []
     },
@@ -510,8 +531,8 @@
       "people": []
     },
     {
-      "title": "Sora pro Android dosáhla téměř půl milionu instalací během prvního dne",
-      "description": "AI video aplikace Sora od OpenAI zaznamenala na Androidu přibližně 470 000 stažení za první den, což je více než čtyřnásobek startu na iOS. Rozšířená dostupnost a zrušení pozvánek ukazují silnou poptávku po generativním videu na mobilních platformách.",
+      "title": "Sora pro Android překonala start na iOS: téměř půl milionu instalací za první den",
+      "description": "AI video aplikace Sora od OpenAI zaznamenala na Androidu odhadovaných 470 000 stažení během prvních 24 hodin, výrazně více než při omezeném iOS launchi, a ukazuje trvající poptávku po generativním videu.",
       "slug": "sora-for-android-saw-nearly-half-a-million-install",
       "publishedAt": "2025-11-06T19:48:39+00:00",
       "date": "2025-11-06 19:48:39",
@@ -524,17 +545,19 @@
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "companies": [],
+      "companies": [
+        "TechCrunch"
+      ],
       "people": []
     },
     {
-      "title": "Nejzajímavější předběžné Black Friday slevy na notebooky, televize a další techniku",
-      "description": "Velcí prodejci spouštějí výrazné slevy na notebooky, 4K/OLED televize, wearables a spotřební elektroniku ještě před oficiálním Black Friday. Článek shrnuje první vlnu konkrétních nabídek a naznačuje, jaké trendy lze čekat v listopadu.",
+      "title": "Nejzajímavější předčasné Black Friday slevy na notebooky, televizory a další techniku",
+      "description": "Velcí prodejci spustili výrazné předčasné Black Friday slevy na notebooky, 4K/OLED televizory, wearables a audio techniku, včetně rekordně zlevněného MacBooku Air a slev na Google Pixel 10 a Fitbit.",
       "slug": "the-best-early-black-friday-deals-weve-found-so-fa",
       "publishedAt": "2025-11-06T19:44:46+00:00",
       "date": "2025-11-06 19:44:46",
       "importance": 3,
-      "category": "nákupní slevy",
+      "category": "hardware",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0021.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-06/the-best-early-black-friday-deals-weve-found-so-fa/",
       "source": {
@@ -546,8 +569,8 @@
         "Apple",
         "Google",
         "Microsoft",
-        "Tesla",
-        "SpaceX"
+        "Samsung",
+        "Sony"
       ],
       "people": []
     },
@@ -633,8 +656,8 @@
       "people": []
     },
     {
-      "title": "Co se pokazilo mezi NASA a SpaceX? Znovuotevření lunárního kontraktu odhaluje rizika Starship",
-      "description": "NASA kvůli zpožděním programu Starship znovuotevřela klíčový kontrakt na lunární lander pro misi Artemis III konkurentům, včetně Blue Origin. Rozhodnutí odráží technická rizika, regulatorní tlak i strategickou snahu nespoléhat se na jediného komerčního partnera.",
+      "title": "Co se pokazilo mezi NASA a SpaceX? Spor o lunární lander pro Artemis III",
+      "description": "NASA znovu otevírá soutěž na lunární lander pro misi Artemis III kvůli zpožděním programu Starship od SpaceX, čímž vytváří prostor pro konkurenci včetně Blue Origin a zvyšuje technologická i bezpečnostní očekávání.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
       "publishedAt": "2025-11-06T17:49:59+00:00",
       "date": "2025-11-06 17:49:59",
@@ -648,7 +671,7 @@
         "name": "The Conversation Africa"
       },
       "companies": [
-        "Nasa",
+        "NASA",
         "SpaceX"
       ],
       "people": [
@@ -3886,26 +3909,6 @@
         "name": "Housedigest.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Přestaňte stahovat software z webů: Windows má vestavěný správce balíčků",
-      "description": "Instalace aplikací z internetu může být nebezpečná, ale správce balíčků toto riziko výrazně snižuje. Windows má takový nástroj vestavěný přímo v systému.",
-      "slug": "stop-downloading-software-from-websites-windows-ha",
-      "publishedAt": "2025-11-02T21:00:00+00:00",
-      "date": "2025-11-02 21:00:00",
-      "importance": 3,
-      "category": "správa softwaru",
-      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/windows-11-laptop-winget.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-02/stop-downloading-software-from-websites-windows-ha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "companies": [
-        "Microsoft"
-      ],
       "people": []
     },
     {
