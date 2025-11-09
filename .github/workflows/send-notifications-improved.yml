@@ -1,0 +1,101 @@
+name: Send OneSignal Notifications (Improved)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**/*.md'
+      - '_vibecoding/**/*.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 10  # Zvýšeno z 2 na 10 pro spolehlivost
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml
+
+    - name: 🔐 Validate Secrets
+      run: |
+        echo "Kontroluji OneSignal secrets..."
+
+        if [ -z "$ONESIGNAL_REST_API_KEY" ]; then
+          echo "::error::❌ ONESIGNAL_REST_API_KEY není nastavený!"
+          echo "::error::Přidejte ho v Settings → Secrets and variables → Actions"
+          echo "::error::URL: https://github.com/${{ github.repository }}/settings/secrets/actions"
+          exit 1
+        fi
+
+        if [ -z "$ONESIGNAL_MARIGOLD_APP_ID" ]; then
+          echo "::error::❌ ONESIGNAL_MARIGOLD_APP_ID není nastavený!"
+          echo "::error::Přidejte ONESIGNAL_APP_ID secret s hodnotou: 00fc3def-70d1-4e7d-a081-984d5e738a75"
+          exit 1
+        fi
+
+        echo "✅ Všechny secrets jsou nastavené"
+        echo "API Key length: ${#ONESIGNAL_REST_API_KEY} chars"
+        echo "App ID: $ONESIGNAL_MARIGOLD_APP_ID"
+      env:
+        ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
+        ONESIGNAL_MARIGOLD_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+
+    - name: 📤 Send Notifications
+      env:
+        ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
+        ONESIGNAL_MARIGOLD_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+        ONESIGNAL_VIBECODING_APP_ID: 0c413930-f7f6-4d73-9438-36ec057acb7d
+      run: |
+        echo "🔔 Spouštím notifikační skript..."
+        python .github/scripts/send_notifications.py
+        EXIT_CODE=$?
+
+        if [ $EXIT_CODE -eq 0 ]; then
+          echo "✅ Notifikace úspěšně odeslány"
+        else
+          echo "::error::❌ Notifikační skript selhal s exit code: $EXIT_CODE"
+          exit $EXIT_CODE
+        fi
+
+    - name: 📊 Log Summary
+      if: always()
+      run: |
+        echo "=== GitHub Actions Summary ==="
+        echo "Commit: ${{ github.sha }}"
+        echo "Author: ${{ github.actor }}"
+        echo "Timestamp: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        echo "Workflow status: ${{ job.status }}"
+
+    - name: 🚨 Notify on Failure
+      if: failure()
+      run: |
+        echo "::error::========================================"
+        echo "::error::❌ WORKFLOW SELHAL!"
+        echo "::error::========================================"
+        echo "::error::"
+        echo "::error::Možné příčiny:"
+        echo "::error::1. Chybějící GitHub Secrets"
+        echo "::error::2. OneSignal API error"
+        echo "::error::3. Network timeout"
+        echo "::error::4. Python script error"
+        echo "::error::"
+        echo "::error::Jak opravit:"
+        echo "::error::1. Zkontrolujte logs výše"
+        echo "::error::2. Ověřte secrets v Settings → Secrets"
+        echo "::error::3. Zkuste poslat notifikaci manuálně:"
+        echo "::error::   python3 send_notification_now.py"
+        echo "::error::"
+        echo "::error::Podrobná analýza: NOTIFICATION_FAILURE_ANALYSIS.md"
+        echo "::error::========================================"
