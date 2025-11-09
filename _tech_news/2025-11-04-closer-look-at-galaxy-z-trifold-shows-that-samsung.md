@@ -5,8 +5,8 @@ companies:
 - Samsung
 - Google
 date: '2025-11-04 16:21:00'
-description: Nové záběry Samsungu Galaxy Z TriFold ukazují, že telefon se třemi skládacími
-  částmi má výrazně tlustší rámečky kolem displeje než současný Galaxy Z Fold 7.
+description: Nové záběry Samsungu Galaxy Z TriFold ukazují, že trojitě skládací telefon
+  má výrazně tlustší rámečky displeje než současný Galaxy Z Fold 7.
 importance: 3
 layout: tech_news_article
 original_title: Closer look at Galaxy Z TriFold shows that Samsung compromised with
@@ -25,30 +25,31 @@ urlToImageBackup: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/20
 
 ## Souhrn
 
-Samsung na konferenci APAC 2025 oficiálně potvrdil vývoj telefonu Galaxy Z TriFold se třemi skládacími částmi. Nové detailní záběry z videa stanice SBS News odhalují, že zařízení má výrazně tlustší rámečky kolem displeje než současný model Galaxy Z Fold 7, což představuje kompromis nutný pro konstrukci trojitě skládacího telefonu.
+Samsung na akci APAC 2025 představil svůj první trojitě skládací telefon Galaxy Z TriFold, který podle nových detailních záběrů disponuje výrazně tlustšími rámečky kolem displeje než současný Galaxy Z Fold 7. Kompromis v designu pravděpodobně souvisí s technickou náročností konstrukce zařízení, které se skládá dvakrát a přesto dosahuje tloušťky podobné současnému modelu.
 
 ## Klíčové body
 
-- Galaxy Z TriFold má v rozloženém stavu tloušťku podobnou Galaxy Z Fold 7 (přibližně 4,2 mm)
-- Ve složeném stavu dosahuje telefon tloušťky 12-15 mm, což je více než u standardního Fold 7
-- Rámečky kolem displeje jsou o 1-2 milimetry tlustší než u Galaxy Z Fold 7, a to jak u vnitřního, tak vnějšího displeje
-- Datum uvedení na trh zatím není známo
+- Galaxy Z TriFold má v rozloženém stavu tloušťku přibližně 4,2 mm, podobně jako Galaxy Z Fold 7
+- Ve složeném stavu dosahuje telefon tloušťky 12-15 mm, což je více než u současného modelu
+- Rámečky kolem vnitřního i vnějšího displeje jsou o 1-2 mm tlustší než u Galaxy Z Fold 7
+- Samsung zatím nepotvrdil datum uvedení na trh ani technické specifikace
+- Jedná se fakticky o zařízení první generace v kategorii trojitě skládacích telefonů
 
 ## Podrobnosti
 
-Galaxy Z TriFold představuje Samsungův pokus o vytvoření telefonu se třemi skládacími sekcemi, což přináší výrazně větší plochu displeje při rozložení. Video zveřejněné jihokorejskou stanicí SBS News poskytuje první detailní záběry zařízení, které bylo dosud vystaveno pouze za ochranným sklem.
+Video zveřejněné jihokorejskou stanicí SBS News poskytuje dosud nejdetailnější pohled na Galaxy Z TriFold, který Samsung vystavil za ochranným sklem. Záběry z různých úhlů odhalují konstrukční kompromisy, které museli inženýři učinit při vývoji tohoto neobvyklého zařízení.
 
-Nejviditelnějším kompromisem jsou tlustší rámečky kolem displeje. Zatímco Galaxy Z Fold 7 má minimalistické rámečky, TriFold přidává přibližně 1-2 milimetry navíc. To se může zdát jako malý rozdíl, ale u displejů je každý milimetr znatelný a ovlivňuje celkový dojem z designu. Tlustší rámečky se týkají jak vnitřního skládacího displeje, tak vnějšího.
+Nejviditelnějším ústupkem jsou tlustší rámečky kolem displeje. Zatímco Galaxy Z Fold 7 má velmi tenké rámečky, u modelu TriFold jsou o odhadem 1-2 milimetry širší jak na vnějším, tak na vnitřním displeji. Tento rozdíl může na první pohled působit marginálně, ale u displejů má každý milimetr význam pro celkový vizuální dojem a využitelnou plochu obrazovky.
 
-Z hlediska tloušťky zařízení Samsung dokázal udržet v rozloženém stavu podobné parametry jako u Galaxy Z Fold 7 – přibližně 4,2 mm. Ve složeném stavu je však TriFold výrazně tlustší, s odhadovanou tloušťkou 12-15 mm. To je logický důsledek třetího panelu a dalšího kloubu.
+V rozloženém stavu dosahuje Galaxy Z TriFold tloušťky přibližně 4,2 mm, což odpovídá současnému Galaxy Z Fold 7. To je pozoruhodný inženýrský výkon vzhledem k tomu, že zařízení obsahuje dva panty místo jednoho. Ve složeném stavu je však telefon výrazně tlustší - podle dřívějších zpráv se tloušťka pohybuje mezi 12-15 mm.
 
-Je třeba vzít v úvahu, že Galaxy Z TriFold je technicky zařízení první generace, i když Samsung má s ohybnými telefony bohaté zkušenosti. Konstrukce telefonu se třemi skládacími částmi přináší řadu technických výzev – od mechaniky kloubů přes distribuci tloušťky až po konstrukci displeje. Tlustší rámečky pravděpodobně souvisejí s potřebou zpevnit okraje displeje a zajistit dostatečnou ochranu při opakovaném skládání.
+Konstrukce trojitě skládacího telefonu představuje výrazně složitější technickou výzvu než u běžných skládacích telefonů. Displej musí vydržet dvojnásobné ohýbání, panty musí být synchronizované a celá konstrukce musí zůstat dostatečně tenká a lehká pro praktické používání. Tlustší rámečky pravděpodobně souvisí s potřebou dodatečného prostoru pro mechanické komponenty a ochranu displeje v místech ohybu.
 
 ## Proč je to důležité
 
-Galaxy Z TriFold představuje další evoluční krok v segmentu ohebných telefonů, který Samsung dominuje. Zatímco čínský výrobce Huawei již uvedl na trh svůj trojitě skládací Mate XT, Samsung se snaží nabídnout vlastní řešení s důrazem na odlišnou konstrukci a pravděpodobně i dostupnost na globálním trhu.
+Galaxy Z TriFold představuje Samsungův pokus udržet si vedoucí pozici na trhu skládacích telefonů, kde čelí rostoucí konkurenci zejména z Číny. Společnosti jako Huawei již představily vlastní trojitě skládací zařízení, což Samsung nutí k rychlejší inovaci.
 
-Kompromisy v podobě tlustších rámečků ukazují, že technologie trojitě skládacích telefonů ještě není zcela vyzrálá. Pro uživatele to znamená, že první generace těchto zařízení bude mít určité designové ústupky výměnou za větší plochu displeje. Otázkou zůstává, zda bude trh ochoten tyto kompromisy akceptovat a jaká bude cenová politika Samsungu pro toto prémiové zařízení.
+Kompromisy v designu ukazují, že technologie trojitě skládacích telefonů ještě není zcela zralá. Tlustší rámečky a větší tloušťka ve složeném stavu mohou ovlivnit přijetí zařízení uživateli, kteří očekávají podobnou eleganci jako u současných modelů. Samsung však má s vývojem skládacích telefonů bohaté zkušenosti a první generace TriFold může být základem pro budoucí vylepšení. Datum uvedení na trh ani cena zatím nebyly oznámeny.
 
 ---
 

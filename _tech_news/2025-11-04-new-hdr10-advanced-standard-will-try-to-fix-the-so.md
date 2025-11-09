@@ -3,7 +3,7 @@ author: Marisa Aigen
 category: zobrazovací technolo
 date: '2025-11-04 22:14:24'
 description: Samsung představil HDR10+ Advanced s funkcí Intelligent FRC, která má
-  zlepšit vyhlazování pohybu a odstranit nežádoucí efekt mýdlové opery při sledování
+  zlepšit vyhlazování pohybu a eliminovat nežádoucí efekt mýdlové opery při sledování
   filmů.
 importance: 3
 layout: tech_news_article
@@ -23,27 +23,27 @@ urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/11/mission
 
 ## Souhrn
 
-Samsung představil novou verzi HDR standardu nazvanou HDR10+ Advanced, která přináší šest nových funkcí včetně Intelligent FRC (frame rate conversion). Tato technologie má vyřešit dlouhodobý problém vyhlazování pohybu v televizorech, které často způsobuje nežádoucí efekt mýdlové opery, kdy filmy vypadají spíše jako levné televizní seriály.
+Samsung představil novou verzi HDR standardu nazvanou HDR10+ Advanced, která přináší šest nových funkcí včetně Intelligent FRC (frame rate conversion). Tato technologie má vyřešit dlouhodobý problém vyhlazování pohybu, které způsobuje tzv. efekt mýdlové opery - nežádoucí vizuální jev, kdy filmy natočené na 24 snímků za sekundu vypadají po zpracování televizí nepřirozeně.
 
 ## Klíčové body
 
 - HDR10+ Advanced zavádí funkci Intelligent FRC pro lepší kontrolu nad vyhlazováním pohybu
-- Současné vyhlazování pohybu (motion smoothing) vkládá umělé snímky mezi originální záběry, což mění vzhled filmů
-- Filmy natočené v 24 snímcích za sekundu (24p) se na 60Hz nebo 120Hz televizorech zobrazují s trhavým pohybem
-- Tvůrci obsahu včetně hollywoodských režisérů kritizují motion smoothing jako nežádoucí zásah do jejich uměleckého záměru
-- Nový standard má dát tvůrcům větší kontrolu nad tím, jak bude jejich obsah vypadat na koncových zařízeních
+- Současné vyhlazování pohybu (motion smoothing) vkládá umělé snímky mezi originální záběry, což vytváří efekt mýdlové opery
+- Podobnou funkcionalitu plánuje zavést také konkurenční standard Dolby Vision 2
+- Cílem je přiblížit zpracování pohybu původnímu záměru tvůrců obsahu
+- Standard čelí výzvě, zda dokáže změnit vnímání kontroverzní technologie vyhlazování
 
 ## Podrobnosti
 
-Vyhlazování pohybu je funkce dostupná prakticky ve všech moderních televizorech. Její princip spočívá v analýze jednotlivých snímků videa a vytváření dodatečných mezisnímků, které mají odpovídat obnovovací frekvenci televizoru. Například 60Hz televizor s aktivním vyhlazováním se pokusí odstranit trhavý pohyb z filmu natočeného v 24p tím, že vloží umělé snímky, aby video běželo, jako by bylo natočeno v 60p.
+Vyhlazování pohybu je funkce dostupná prakticky ve všech moderních televizorech. Její princip spočívá v analýze jednotlivých snímků videa a vytváření dodatečných mezisnímků, aby se frekvence záznamu přizpůsobila obnovovací frekvenci displeje. Například televize s frekvencí 60 Hz se pokusí odstranit trhání obrazu u filmu natočeného na 24 snímků za sekundu tím, že vloží umělé snímky a vytvoří dojem 60 snímků za sekundu.
 
-Pro některé diváky to vypadá normálně a může to zlepšit plynulost pohybu, zejména při panoramování nebo přibližování kamery. Jiní však vnímají výsledek jako nepřirozený - filmy a seriály vypadají spíše jako levné televizní pořady natočené na video kamery s vysokou snímkovou frekvencí místo filmových kamer. Tento jev se označuje jako efekt mýdlové opery.
+Pro některé diváky tento proces vypadá přirozeně a činí pohyb kamery plynulejším. Většina filmových nadšenců, domácích kinofilů a tvůrců obsahu však tuto technologii odmítá. Problém spočívá v tom, že filmy a seriály po zpracování vypadají spíše jako levné televizní pořady natočené na video kamery než jako filmové produkce. Tento jev dostal přezdívku "efekt mýdlové opery" podle charakteristického vzhledu denních televizních seriálů.
 
-Kritici, včetně významných hollywoodských tvůrců, argumentují, že vyhlazování pohybu vypadá nepřirozeně a odchyluje se od původního záměru tvůrce. Intelligent FRC v rámci HDR10+ Advanced má tento problém řešit tím, že poskytne tvůrcům obsahu větší kontrolu nad tím, jak bude jejich dílo zobrazeno. Podobný přístup slibuje i připravovaný standard Dolby Vision 2.
+Kritici včetně významných hollywoodských tvůrců argumentují, že vyhlazování pohybu vypadá nepřirozeně a odchyluje se od původního záměru režisérů a kameramanů. Intelligent FRC v rámci HDR10+ Advanced má tento problém řešit tím, že poskytne tvůrcům obsahu větší kontrolu nad tím, jak bude jejich dílo zpracováno na koncových zařízeních.
 
 ## Proč je to důležité
 
-Jde o pokus vyřešit dlouhodobý konflikt mezi technickými možnostmi moderních televizorů a uměleckým záměrem tvůrců obsahu. Vyhlazování pohybu je často aktivováno výchozím nastavením televizorů, což vede k tomu, že mnoho diváků sleduje filmy v podobě, kterou tvůrci nezamýšleli. Pokud se HDR10+ Advanced a Dolby Vision 2 skutečně prosadí, mohlo by to znamenat lepší sladění mezi technologickými možnostmi a kreativní vizí, přičemž konečné rozhodnutí by zůstalo v rukou těch, kdo obsah vytvářejí. Otázkou zůstává, zda se tyto standardy dokážou prosadit v praxi a zda je výrobci televizorů skutečně implementují.
+Jde o pokus vyřešit dlouhodobý konflikt mezi technologickými možnostmi televizorů a uměleckým záměrem filmařů. Vyhlazování pohybu je často ve výchozím nastavení televizorů zapnuto, což vede k frustraci diváků i tvůrců. Pokud HDR10+ Advanced a Dolby Vision 2 dokážou najít rovnováhu mezi technickým vylepšením a zachováním původního záměru, mohlo by to znamenat významný posun v kvalitě domácího sledování filmového obsahu. Otázkou zůstává, zda výrobci televizorů a poskytovatelé obsahu nové standardy skutečně implementují a zda dokážou přesvědčit skeptickou komunitu filmových nadšenců.
 
 ---
 

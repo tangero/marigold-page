@@ -6,7 +6,7 @@ companies:
 - Dolby
 date: '2025-11-04 18:36:19'
 description: Samsung ukázal simulovanou ukázku nového formátu dynamického HDR s šesti
-  funkcemi podobnými Dolby Vision 2. Technologie by měla dorazit na trh v roce 2026.
+  funkcemi podobnými Dolby Vision 2. Technologie by měla být představena na CES 2026.
 importance: 3
 layout: tech_news_article
 original_title: Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2
@@ -25,32 +25,33 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/choru
 
 ## Souhrn
 
-Samsung na tiskové akci představil simulovanou ukázku nového formátu HDR10 Plus Advanced, který má konkurovat nedávno odhalenému Dolby Vision 2. Nová technologie přináší šest pokročilých funkcí pro zlepšení obrazu a měla by se objevit na některých televizorech Samsung v roce 2026.
+Samsung na tiskové akci minulý týden předvedl simulovanou ukázku nového formátu dynamického HDR nazvaného HDR10 Plus Advanced, který má konkurovat nedávno odhalenému Dolby Vision 2. Technologie je stále ve vývoji a její oficiální představení se očekává na veletrhu CES 2026. Formát přináší šest pokročilých funkcí pro zlepšení obrazu na moderních televizorech.
 
 ## Klíčové body
 
-- HDR10 Plus Advanced nabídne šest funkcí podobných Dolby Vision 2
-- Podpora pro zvýšení jasu na televizorech s 4000-5000 nity
-- Adaptace obrazu podle žánru obsahu a okolního osvětlení
-- Vylepšené mapování tónů a přesnější kontrola barev
-- Amazon Prime Video již potvrdil podporu formátu
-- Očekávaná dostupnost na CES 2026
+- HDR10 Plus Advanced nabízí šest funkcí podobných Dolby Vision 2, včetně podpory pro televizory s jasem 4000-5000 nitů
+- Formát umožňuje adaptaci obrazu podle žánru obsahu, řízení vyhlazování pohybu a přizpůsobení okolnímu světlu
+- Zahrnuje vylepšené mapování tónů pro různé oblasti obrazovky a přesnější kontrolu barev
+- Amazon Prime Video již potvrdil podporu, ale Netflix a Disney přidali podporu původního HDR10 Plus teprve letos po sedmi letech
+- Technologie bude vyžadovat podporu ze strany streamovacích služeb pro plné využití všech funkcí
 
 ## Podrobnosti
 
-Nový formát HDR10 Plus Advanced přináší několik konkrétních vylepšení. Televize s podporou této technologie budou schopné plně využít jasové schopnosti moderních panelů dosahujících 4000-5000 nitů. Systém dokáže automaticky přizpůsobit obraz podle typu sledovaného obsahu - jinak zpracuje film, jinak sport nebo hry.
+HDR10 Plus Advanced představuje evoluci původního formátu HDR10 Plus, který Samsung uvedl v roce 2018. Nová verze reaguje na rostoucí možnosti moderních televizorů, které dosahují špičkového jasu 4000 až 5000 nitů, což je výrazně více než u běžných modelů z minulých let.
 
-Zajímavou funkcí je kontrola vyhlazování pohybu (motion smoothing), která umožní přesnější nastavení této často kontroverzní funkce. Pro hráče přináší formát vylepšení vizuálního výkonu streamovaných her. Systém také reaguje na okolní světelné podmínky a přizpůsobuje jim obraz.
+Mezi klíčové funkce patří inteligentní přizpůsobení obrazu konkrétním žánrům obsahu - televizor tak může automaticky optimalizovat nastavení pro filmy, sport nebo dokumenty. Systém také nabízí kontrolu nad úrovní vyhlazování pohybu, což ocení diváci, kteří preferují filmový vzhled bez umělého efektu "soap opera".
 
-Technicky pokročilé je vylepšené mapování tónů pro různé oblasti obrazovky, což umožňuje přesnější reprodukci jasných i tmavých scén současně. Formát také slibuje přesnější kontrolu barev oproti současnému HDR10 Plus.
+Zajímavou novinkou je vylepšení vizuálního výkonu při streamování her, což reflektuje rostoucí popularitu cloudového gamingu přes služby jako Xbox Cloud Gaming nebo GeForce Now. Adaptace na okolní světelné podmínky pak zajistí optimální obraz bez ohledu na to, zda sledujete televizi ve dne nebo v noci.
 
-Podpora ze strany streamovacích služeb je však klíčová. Zatímco Amazon Prime Video již potvrdil podporu, Netflix a Disney+ přidaly podporu původního HDR10 Plus teprve letos, přestože existuje od roku 2018. To naznačuje, že široká adopce HDR10 Plus Advanced může trvat několik let.
+Technické vylepšení spočívá také v pokročilejším mapování tónů pro různé oblasti obrazovky - systém tak může lépe zachovat detaily současně ve tmavých i světlých částech obrazu. Přesnější kontrola barev by měla přinést věrnější reprodukci odstínů.
+
+Podpora ze strany streamovacích služeb však zůstává otázkou. Zatímco Amazon Prime Video již podporu potvrdil, Netflix a Disney Plus přidali podporu původního HDR10 Plus teprve v roce 2025, přestože formát existuje od roku 2018. To naznačuje, že masové rozšíření HDR10 Plus Advanced může trvat několik let.
 
 ## Proč je to důležité
 
-HDR10 Plus Advanced představuje pokus Samsungu udržet si pozici v oblasti HDR technologií bez nutnosti platit licenční poplatky za Dolby Vision. Zatímco Dolby Vision je proprietární formát vyžadující certifikaci a poplatky, HDR10 Plus je otevřený standard, což jej činí atraktivnějším pro výrobce.
+HDR10 Plus Advanced představuje pokus Samsungu udržet si pozici v oblasti HDR technologií proti proprietárnímu formátu Dolby Vision od společnosti Dolby Laboratories. Zatímco Dolby Vision vyžaduje licenční poplatky, HDR10 Plus je otevřený standard, což jej činí atraktivnějším pro výrobce televizorů i poskytovatele obsahu z hlediska nákladů.
 
-Časování oznámení není náhodné - přichází krátce po odhalení Dolby Vision 2, což ukazuje na pokračující konkurenční boj v oblasti HDR standardů. Pro spotřebitele to znamená, že televize Samsung budou i nadále nabízet pokročilé HDR funkce bez podpory Dolby Vision, což je dlouhodobá strategie korejského výrobce.
+Pro spotřebitele to znamená potenciálně lepší kvalitu obrazu na budoucích televizorech Samsung, ale skutečný přínos bude záviset na tom, jak rychle streamovací služby nový formát adoptují. Historie původního HDR10 Plus ukazuje, že cesta k široké podpoře může být dlouhá.
 
 ---
 

@@ -284,7 +284,7 @@ Překlad:"""
                     'X-Title': 'Marigold Tech News Translation'
                 },
                 json={
-                    'model': 'deepseek/deepseek-chat-v3.1:free',
+                    'model': 'openrouter/polaris-alpha',
                     'messages': [{'role': 'user', 'content': prompt}],
                     'max_tokens': 200,
                     'temperature': 0.3

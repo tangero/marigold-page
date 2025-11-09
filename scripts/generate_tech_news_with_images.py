@@ -144,7 +144,7 @@ class TechNewsWithImagesGenerator:
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',  # Rychlý a levný model pro překlady
+                'model': 'openrouter/polaris-alpha',  # Rychlý a levný model pro překlady
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
@@ -211,7 +211,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'openrouter/polaris-alpha',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -276,7 +276,7 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'openrouter/polaris-alpha',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -345,7 +345,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'anthropic/claude-3-haiku',
+                'model': 'openrouter/polaris-alpha',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
