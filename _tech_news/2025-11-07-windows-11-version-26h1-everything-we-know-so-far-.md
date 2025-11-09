@@ -4,9 +4,10 @@ category: software
 companies:
 - Microsoft
 date: '2025-11-07 13:16:13'
-description: Microsoft připravuje plnohodnotnou verzi Windows 11 označenou jako 26H1,
-  založenou na platformě Bromine, určenou primárně pro zařízení s novými čipy Snapdragon
-  X2 a NVIDIA N1X v první polovině roku 2026.
+description: Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě
+  „Bromine“, určenou primárně pro zařízení s nadcházejícími čipy Snapdragon X2 a NVIDIA
+  N1X v první polovině roku 2026. Nepůjde o běžnou aktualizaci pro stávající počítače,
+  ale o systém optimalizovaný pro novou generaci hardwaru.
 importance: 3
 layout: tech_news_article
 original_title: 'Windows 11 version 26H1: Everything we know so far about Microsoft''s
@@ -17,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: 'Windows 11 verze 26H1: Speciální vydání pro novou generaci čipů Snapdragon
+title: 'Windows 11 verze 26H1: Speciální vydání pro další generaci čipů Snapdragon
   X2 a NVIDIA N1X'
 url: https://www.windowscentral.com/microsoft/windows-11/windows-11-version-26h1-faq
 urlToImage: https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg
@@ -25,28 +26,26 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-
 ---
 
 ## Souhrn
-Microsoft připravuje novou verzi Windows 11 označenou jako 26H1, která bude založena na novější platformě Bromine a zaměřena primárně na podporu nadcházející generace čipů, zejména Qualcomm Snapdragon X2 a NVIDIA N1X. Tato verze nebude distribuována jako běžná aktualizace pro současná PC, ale jako speciální build pro nová zařízení plánovaná na rok 2026.
+Microsoft pracuje na nové verzi Windows 11 označené jako 26H1, která bude založená na platformě "Bromine" a zaměřená na podporu nové generace čipů, zejména Qualcomm Snapdragon X2 a NVIDIA N1X. Tato verze nebude distribuována jako běžná funkční aktualizace pro stávající uživatele Windows 11, ale jako speciální edice předinstalovaná na nových zařízeních plánovaných pro první polovinu roku 2026.
 
 ## Klíčové body
-- Verze 26H1 bude stát na nové platformě Bromine, nepůjde jen o inkrementální update.
-- Cílí na podporu next-gen ARM a dalších platforem, zejména Snapdragon X2 a NVIDIA N1X.
-- Nebude vydána jako klasická feature update pro uživatele 24H2/25H2, ale přijde předinstalovaná na nových zařízeních.
-- Interní dokončení (RTM) Bromine se očekává kolem listopadu 2025, první zařízení mají dorazit v první polovině 2026.
-- Ukazuje posun Microsoftu k odděleným buildům pro specifický hardware místo jednotných velkých aktualizací pro všechny.
+- Windows 11 verze 26H1 je postavena na nové platformě "Bromine", odlišné od současného "Germanium" (24H2/25H2).
+- Cílí primárně na zařízení s čipy Snapdragon X2 a platformou NVIDIA N1X, které vyžadují nové systémové úpravy.
+- Vydání se očekává spolu s novými zařízeními v první polovině 2026, interní dokončení platformy okolo listopadu 2025.
+- Nebude nabízena jako klasická aktualizace pro stávající PC s Windows 11; jde o plnohodnotný nový build vázaný na konkrétní hardware.
+- Přístup naznačuje posun Microsoftu k těsnějšímu ladění Windows s konkrétními generacemi procesorů a akcelerátorů.
 
 ## Podrobnosti
-Verze Windows 11 26H1 představuje změnu v přístupu Microsoftu k velkým vydáním systému. Na rozdíl od verze 25H2, která staví na platformě Germanium stejně jako 24H2, je 26H1 založena na nové platformě Bromine. To z ní dělá plnohodnotný generační upgrade jádra systému a základních komponent, ne pouze kumulativní balík funkcí.
+Verze 26H1 představuje odklon od dosavadního modelu, kdy Microsoft vydává hlavní aktualizace Windows 11 typicky ve druhé polovině roku a umožňuje postupný upgrade většiny kompatibilních zařízení. Tentokrát Microsoft cílí na specifickou hardwarovou vlnu. Nová platforma "Bromine" má poskytnout funkce a optimalizace, které nejsou dostupné v současné větvi "Germanium" (využívané ve verzích 24H2 a 25H2), a které jsou nezbytné pro nové architektury CPU a akcelerátorů.
 
-Hlavním důvodem tohoto kroku je podpora nové generace čipů, zejména Qualcomm Snapdragon X2 a platforem NVIDIA N1X. Tyto platformy vyžadují změny na úrovni plánovače, správy výkonu, bezpečnostních mechanismů, akcelerace AI a integrace specializovaných NPU a GPU, které současná verze 25H2 nepokrývá. Windows 11 26H1 proto cílí zejména na zařízení, která budou uvedena na trh v roce 2026 a mají využít efektivnější provoz, delší výdrž na baterii a lepší výkon při AI úlohách a multimédiích.
+Qualcomm Snapdragon X2, nástupce Snapdragon X Elite, míří na výkonnější a efektivnější běh Windows na architektuře ARM se zaměřením na AI akceleraci, delší výdrž baterie a vyšší integrovaný výkon bez nutnosti samostatných GPU v běžných notebookech. Platforma NVIDIA N1X má podle dostupných informací přinést úzkou integraci výkonných GPU/AI akcelerátorů s Windows, což vyžaduje úpravy jádra, plánovače úloh, správy paměti, ovladačů a podpory nových instrukčních sad. Windows 11 26H1 proto nebude jen kosmetickým updatem, ale kompletním systémovým základem navrženým pro efektivní využití těchto čipů.
 
-Microsoft již potvrdil, že 26H1 nebude nabízena jako běžná funkční aktualizace pro existující uživatele Windows 11. To znamená, že majitelé aktuálních PC pravděpodobně zůstanou na větvi Germanium (24H2/25H2), případně obdrží pouze dílčí funkční updaty, ale plná Bromine platforma bude primárně svázána s novým hardwarem. Tento krok lze interpretovat jako snahu optimalizovat systém pro konkrétní architektury, zejména ARM, bez nutnosti držet zpětnou kompatibilitu pro širokou škálu starších zařízení.
-
-Pro výrobce hardware to vytváří jasnou dělící linii: nové stroje s next-gen SoC budou pozicovány jako výkonnější a energeticky úspornější „AI PC“ generace 2026, s odlišným systémovým základem než dnešní x86 notebooky a desktopy.
+Microsoft také potvrzuje, že tato verze nebude uvolněna jako běžná funkční aktualizace pro uživatele verze 25H2. Prakticky to znamená, že stávající PC, která nejsou vybavena novou generací čipů, zůstanou na "Germanium" větvi a dostanou standardní servisní aktualizace. 26H1 tak funguje jako cílený systém pro OEM výrobce, kteří uvedou na trh nové notebooky a zařízení optimalizovaná pro AI, nízkou spotřebu a novou generaci výpočetních akcelerátorů.
 
 ## Proč je to důležité
-Tento krok potvrzuje několik trendů. Zaprvé, Microsoft dál akceleruje přechod k ARM a specializovanému AI hardware, podobně jako Apple sjednotil macOS s vlastními čipy. Zadruhé, oddělení verzí podle hardwaru znamená fragmentaci Windows ekosystému: novější schopnosti budou dostupné primárně na nových zařízeních, zatímco stávající PC mohou být odsouvána na vedlejší kolej s omezenými inovacemi.
+Tento krok zapadá do širšího trendu, kdy se Windows stává více závislým na specifickém hardwaru a kdy optimalizace pro AI a specializované akcelerátory přestávají být doplňkem a stávají se základem platformy. Pro uživatele to znamená, že část inovací Windows bude dostupná pouze na nových zařízeních, podobně jako u mobilních platforem, kde některé funkce vyžadují konkrétní generaci čipů.
 
-Pro podniky a pokročilé uživatele to znamená nutnost zohlednit při plánování obnovy hardware nejen výkon a cenu, ale i to, na jaké platformě Windows bude zařízení reálně fungovat v letech 2026–2028. Pro výrobce čipů je 26H1 signálem, že Microsoft je ochoten ladit OS na míru konkrétním architekturám, což může urychlit konkurenci v oblasti ARM a AI akcelerace. Pro běžné uživatele je klíčové pochopit, že některé budoucí funkce Windows (zejména v oblasti AI, bezpečnosti a energetické efektivity) budou pravděpodobně exkluzivní pro novou generaci zařízení s Bromine/26H1 a neobjeví se zpětně na současných počítačích.
+Pro výrobce hardwaru a ekosystém je verze 26H1 signálem, že Microsoft bude agresivněji podporovat ARM architekturu a specializované AI akcelerátory, což může urychlit přechod k energeticky efektivnějším notebookům a pracovním stanicím. Pro podnikové IT to naopak znamená nutnost pečlivě plánovat obnovu zařízení: klíčové novinky v oblasti výkonu, bezpečnosti a AI integrace mohou být vázány na nové platformy typu Bromine a nebudou dostupné na starším x86 hardwaru pouze formou běžných aktualizací.
 
 ---
 

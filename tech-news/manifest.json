@@ -1,7 +1,50 @@
 {
-  "generated": "2025-11-09T16:17:20.482651+00:00",
+  "generated": "2025-11-09T20:21:11.022651+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple možná vrací koncept levných netbooků v podobě dostupného MacBooku",
+      "description": "Podle spekulací Apple připravuje výrazně levnější MacBook s mobilním čipem A‑řady, menším displejem a novým designem. Parametry i cenová hladina okolo 599 dolarů připomínají někdejší netbooky, které Apple pomohl vytlačit nástupem iPadu.",
+      "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
+      "publishedAt": "2025-11-08T16:00:00+00:00",
+      "date": "2025-11-08 16:00:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/P7150216-hero.1419979718.webp?quality=90&strip=all&crop=0,10.914776032577,100,78.170447934846",
+      "url": "/tech-news/2025-11-08/apple-helped-kill-netbooks-will-it-bring-them-back/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "The Verge"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Google Maps v Indii dostanou integraci Gemini AI: cílem je bezpečnější a kontextovější navigace",
+      "description": "Google začíná do Map v Indii nasazovat Gemini AI s důrazem na lokalizaci, bezpečnostní upozornění a kontextové návrhy tras a míst. Nové funkce mají zlepšit spolehlivost navigace a informovanost řidičů v komplexním dopravním prostředí.",
+      "slug": "google-maps-to-be-upgraded-with-gemini-ai-heres-wh",
+      "publishedAt": "2025-11-08T05:45:59+00:00",
+      "date": "2025-11-08 05:45:59",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2025/11/Google-maps-ai.jpg",
+      "url": "/tech-news/2025-11-08/google-maps-to-be-upgraded-with-gemini-ai-heres-wh/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gulte"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Levný MacBook v roce 2026: co Apple chystá proti Chromebookům a levným PC",
       "description": "Apple podle dostupných informací připravuje na rok 2026 nový levnější MacBook pod úrovní MacBooku Air, zaměřený na nenáročné uživatele, vzdělávání a konkurenci vůči levným Chromebookům a Windows notebookům.",
@@ -23,13 +66,13 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: výrazné slevy na Galaxy S25 Ultra, OLED TV a další elektroniku",
-      "description": "Řetězec Best Buy zahájil druhý víkend speciálních Black Friday Doorbusters s časově omezenými slevami na smartphony, OLED televizory, herní headsety, pračky a sušičky i další spotřební elektroniku, primárně pro trh v USA.",
+      "title": "Best Buy spouští druhou vlnu Black Friday nabídek: sleva 400 USD na Galaxy S25 Ultra a výrazné zlevnění TV a MacBook Air",
+      "description": "Best Buy zahajuje druhý týden Black Friday Doorbusters s výraznými slevami na Samsung Galaxy S25 Ultra, OLED televize, pračky, audio a slevami na MacBook Air konkurující Amazonu. Nabídky jsou časově omezené a cílené na členy věrnostního programu.",
       "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
       "publishedAt": "2025-11-07T22:25:00+00:00",
       "date": "2025-11-07 22:25:00",
       "importance": 3,
-      "category": "spotřební elektronik",
+      "category": "slevy",
       "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-07/best-buy-week-2-black-friday-doorbusters-now-live-/",
       "source": {
@@ -40,13 +83,15 @@
       "companies": [
         "Best Buy",
         "Samsung",
-        "Apple"
+        "Apple",
+        "Google",
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "Mind captioning: Systém převádí vizuální myšlenky na text bez jazykových center mozku",
-      "description": "Nová metoda „mind captioning“ dokáže z funkční magnetické rezonance (fMRI) generovat smysluplné věty popisující, co člověk vidí nebo si vybavuje z paměti, aniž by využívala klasická jazyková centra. Jde o významný posun v neinvazivním dekódování myšlenek a potenciálním rozhraní mozek–počítač pro uživatele bez řeči.",
+      "title": "Mind captioning převádí vizuální myšlenky na text bez aktivace jazykových center mozku",
+      "description": "Nová metoda „mind captioning“ ukazuje, že je možné převádět mozkovou aktivitu z oblasti vidění a asociací do smysluplných vět, které popisují to, co člověk vidí nebo si vybavuje z paměti, bez spoléhání na tradiční jazykové oblasti.",
       "slug": "brain-decoder-translates-visual-thoughts-into-text",
       "publishedAt": "2025-11-07T21:32:24+00:00",
       "date": "2025-11-07 21:32:24",
@@ -121,13 +166,13 @@
       "people": []
     },
     {
-      "title": "FBI požaduje od registrátora Tucows identitu provozovatele webu Archive.is",
-      "description": "FBI v rámci federálního trestního vyšetřování předvolala doménového registrátora Tucows a žádá detailní údaje o provozovateli archivační služby Archive.is (Archive.today), která umožňuje ukládat snímky webových stránek a často se využívá k obcházení paywallů.",
+      "title": "FBI žádá od registrátora Tucows identitu provozovatele archivační služby Archive.is",
+      "description": "FBI v rámci federálního trestního vyšetřování předvolala registrátora domén Tucows k vydání údajů o provozovateli služby Archive.is (Archive.today), která ukládá snímky webových stránek a často se používá k obcházení paywallů.",
       "slug": "fbi-orders-domain-registrar-to-reveal-who-runs-mys",
       "publishedAt": "2025-11-07T18:28:23+00:00",
       "date": "2025-11-07 18:28:23",
       "importance": 3,
-      "category": "kybernetika",
+      "category": "kyberbezpečnost",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-1152x648-1762539099.jpg",
       "url": "/tech-news/2025-11-07/fbi-orders-domain-registrar-to-reveal-who-runs-mys/",
       "source": {
@@ -136,11 +181,11 @@
         "name": "Ars Technica"
       },
       "companies": [
-        "Tucows",
-        "Archive.is",
-        "Archive.today",
         "FBI",
-        "Ars Technica"
+        "Tucows",
+        "Ars Technica",
+        "Archive.is",
+        "Archive.today"
       ],
       "people": []
     },
@@ -169,8 +214,8 @@
       "people": []
     },
     {
-      "title": "Zneužití chyby v telefonech Samsung k nasazení spyware LANDFALL přes WhatsApp jako zero-day útok",
-      "description": "Spyware LANDFALL zneužil dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k infikování zařízení prostřednictvím škodlivých obrázků posílaných přes WhatsApp před dubnovou bezpečnostní záplatou 2025.",
+      "title": "Zranitelnost telefonů Samsung umožnila nasazení spyware LANDFALL přes obrázky na WhatsApp",
+      "description": "Útočníci zneužili dříve neznámou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení spyware LANDFALL prostřednictvím škodlivých obrázků odeslaných přes WhatsApp. Problém řeší až aktualizace zabezpečení vydaná v dubnu 2025.",
       "slug": "samsung-mobile-flaw-exploited-as-zero-day-to-deplo",
       "publishedAt": "2025-11-07T18:00:00+00:00",
       "date": "2025-11-07 18:00:00",
@@ -215,8 +260,8 @@
       ]
     },
     {
-      "title": "Gemini Deep Research získává přístup k Gmailu a Google Drive: přesnější odpovědi za cenu vyššího rizika",
-      "description": "Google rozšiřuje Gemini Deep Research o možnost pracovat s daty z Gmailu, Disku a Chatu, aby poskytoval komplexnější odpovědi na výzkumné dotazy. Zároveň však firma otevřeně přiznává, že nástroj není spolehlivý pro kritická rozhodnutí a zvyšuje tlak na otázky soukromí a správy dat.",
+      "title": "Gemini Deep Research nově prohledá Gmail, Disk i Chat. Přínos pro produktivitu, riziko pro soukromí",
+      "description": "Google rozšiřuje nástroj Gemini Deep Research tak, aby mohl po souhlasu uživatele číst data z Gmailu, Disku Google a Google Chatu a používat je pro vícekrokový výzkum. Zvyšuje tím užitečnost systému, zároveň ale otevírá nové otázky ohledně ochrany soukromí a důvěry v AI agenty.",
       "slug": "gemini-deep-research-can-now-comb-through-workspac",
       "publishedAt": "2025-11-07T17:27:00+00:00",
       "date": "2025-11-07 17:27:00",
@@ -231,16 +276,16 @@
       },
       "companies": [
         "Google",
-        "Apple",
         "Microsoft",
-        "OpenAI",
-        "Anthropic"
+        "Apple",
+        "Meta",
+        "OpenAI"
       ],
       "people": []
     },
     {
-      "title": "Kuriózní úniky ChatGPT: citlivé chaty se objevily v Google Search Console",
-      "description": "V Google Search Console se objevily dlouhé a citlivé dotazy z ChatGPT, což naznačuje chybnou integraci a možný scraping Google dat ze strany OpenAI. Případ vyvolává otázky o ochraně soukromí, transparentnosti a metodách trénování AI modelů.",
+      "title": "Nejpodivnější úniky ChatGPT: citlivé konverzace se objevily v nástroji Google Search Console",
+      "description": "Vyšetřování analytiků odhalilo, že extrémně osobní dotazy z ChatGPT se objevovaly v Google Search Console, což naznačuje přímé využívání Google vyhledávání s reálnými uživatelskými promptami a otevírá vážné otázky ohledně ochrany soukromí a praktik OpenAI.",
       "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
       "publishedAt": "2025-11-07T16:49:53+00:00",
       "date": "2025-11-07 16:49:53",
@@ -256,12 +301,13 @@
       "companies": [
         "OpenAI",
         "Google",
-        "Microsoft"
+        "Microsoft",
+        "Apple"
       ],
       "people": [
         "Elon Musk",
         "Sam Altman",
-        "Ilya Sutskever"
+        "Greg Brockman"
       ]
     },
     {
@@ -283,6 +329,45 @@
         "YouTube",
         "Google"
       ],
+      "people": []
+    },
+    {
+      "title": "Amazon nabízí slevu 110 dolarů na nový Mac mini M4 s 512GB úložištěm před Black Friday",
+      "description": "Amazon spustil předčasnou slevu 110 dolarů na nejnovější Mac mini s čipem M4 a 512GB SSD, čímž snižuje vstupní cenu za stolní Mac s moderním čipem Apple Silicon a dělá jej atraktivnějším pro uživatele hledající úsporný, ale výkonný desktop.",
+      "slug": "grab-a-110-early-black-friday-discount-on-apples-m",
+      "publishedAt": "2025-11-07T16:19:00+00:00",
+      "date": "2025-11-07 16:19:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65675-137495-m4-mac-mini-limited-time-offer-xl.jpg",
+      "url": "/tech-news/2025-11-07/grab-a-110-early-black-friday-discount-on-apples-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "companies": [
+        "Apple",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Porsche představuje Sonderwunsch 911 GT3 „Ocelot“ inspirovaný Amazonií",
+      "description": "Porsche rozšiřuje program Sonderwunsch o speciálně navržený vůz 911 GT3 „Ocelot“, který propojuje individuální zakázkovou úpravu, odkaz motorsportu a vizuální motivy inspirované Amazonií. Projekt ukazuje, jak automobilka testuje hranice personalizace mimo sériovou produkci.",
+      "slug": "porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du",
+      "publishedAt": "2025-11-07T15:36:33+00:00",
+      "date": "2025-11-07 15:36:33",
+      "importance": 3,
+      "category": "automobilismus",
+      "urlToImage": "https://news.dupontregistry.com/wp-content/uploads/2025/11/327271_4992x3120.jpg",
+      "url": "/tech-news/2025-11-07/porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dupontregistry.com"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -359,8 +444,8 @@
       ]
     },
     {
-      "title": "IKEA představuje 21 Matter kompatibilních zařízení pro chytrou domácnost",
-      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení pro osvětlení, senzory a ovládání, všechna s podporou standardu Matter pro snadnější integraci s hlavními platformami.",
+      "title": "IKEA představila 21 nových chytrých zařízení s podporou Matter",
+      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení pro osvětlení, senzory a ovládání, všechna s podporou standardu Matter pro jednodušší integraci s existujícími systémy.",
       "slug": "ikea-just-announced-21-smart-home-gadgets-heres-th",
       "publishedAt": "2025-11-07T13:38:51+00:00",
       "date": "2025-11-07 13:38:51",
@@ -373,12 +458,14 @@
         "id": null,
         "name": "Tom's Guide"
       },
-      "companies": [],
+      "companies": [
+        "IKEA"
+      ],
       "people": []
     },
     {
-      "title": "Windows 11 verze 26H1: Speciální vydání pro novou generaci čipů Snapdragon X2 a NVIDIA N1X",
-      "description": "Microsoft připravuje plnohodnotnou verzi Windows 11 označenou jako 26H1, založenou na platformě Bromine, určenou primárně pro zařízení s novými čipy Snapdragon X2 a NVIDIA N1X v první polovině roku 2026.",
+      "title": "Windows 11 verze 26H1: Speciální vydání pro další generaci čipů Snapdragon X2 a NVIDIA N1X",
+      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě „Bromine“, určenou primárně pro zařízení s nadcházejícími čipy Snapdragon X2 a NVIDIA N1X v první polovině roku 2026. Nepůjde o běžnou aktualizaci pro stávající počítače, ale o systém optimalizovaný pro novou generaci hardwaru.",
       "slug": "windows-11-version-26h1-everything-we-know-so-far-",
       "publishedAt": "2025-11-07T13:16:13+00:00",
       "date": "2025-11-07 13:16:13",
@@ -417,8 +504,8 @@
       "people": []
     },
     {
-      "title": "Otestovali jsme novou aplikaci Sora od OpenAI: sken obličeje, hlas a osobní AI videa na Androidu",
-      "description": "OpenAI uvedlo aplikaci Sora pro Android, která kombinuje AI generování videí s funkcí naskenování obličeje a hlasu a funguje jako sociální síť podobná TikToku či YouTube Shorts. Přináší působivé technické možnosti, ale zároveň otevírá zásadní otázky bezpečnosti dat, souhlasu a zneužití identity.",
+      "title": "OpenAI spouští Sora aplikaci na Androidu: AI videoplatforma umožňuje vložit vlastní tvář i hlas",
+      "description": "Nová aplikace Sora pro Android kombinuje krátká videa ve stylu TikToku s generativní AI a funkcí, která uživatelům umožňuje skenovat tvář i hlas a stát se hlavní postavou plně syntetických videí. Řešení je technicky působivé, ale vyvolává zásadní otázky ohledně identity, souhlasu a regulace deepfake obsahu.",
       "slug": "i-scanned-my-face-in-chatgpts-new-sora-app-and-the",
       "publishedAt": "2025-11-07T12:07:06+00:00",
       "date": "2025-11-07 12:07:06",
@@ -433,10 +520,7 @@
       },
       "companies": [
         "OpenAI",
-        "Google",
-        "Apple",
-        "Meta",
-        "Microsoft"
+        "Google"
       ],
       "people": []
     },
@@ -486,8 +570,8 @@
       "people": []
     },
     {
-      "title": "Zneužití AI k tvorbě škodlivého rozšíření pro VS Code s vestavěnými funkcemi ransomwaru",
-      "description": "Útočníci využili AI k vytvoření škodlivého rozšíření pro VS Code a falešných balíčků v npm, čímž ukazují, jak snadno lze zneužít důvěru v open-source ekosystémy a vývojářské nástroje.",
+      "title": "Zákeřné VS Code rozšíření generované pomocí AI obsahovalo vestavěné ransomware funkce",
+      "description": "Útočníci zneužili důvěru v otevřený software a využili AI k tvorbě škodlivého rozšíření pro VS Code a falešných balíčků v repozitáři npm, které mohou vést k ransomware útokům a kompromitaci vývojářských prostředí.",
       "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
       "publishedAt": "2025-11-07T06:48:00+00:00",
       "date": "2025-11-07 06:48:00",
@@ -500,13 +584,7 @@
         "id": null,
         "name": "Internet"
       },
-      "companies": [
-        "Microsoft",
-        "OpenAI",
-        "Google",
-        "Apple",
-        "NASA"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -548,6 +626,28 @@
         "Samsung",
         "Apple",
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fitbit Labs testuje detekci neobvyklých trendů a studii hypertenze na Pixel Watch 3",
+      "description": "Fitbit (Google) spouští v rámci Fitbit Labs dva experimentální programy: sledování neobvyklých odchylek ve zdravotních metrikách a klinicky orientovanou studii hypertenze využívající data z hodinek Pixel Watch 3.",
+      "slug": "fitbit-labs-testing-unusual-trend-detection-and-hy",
+      "publishedAt": "2025-11-07T00:56:00+00:00",
+      "date": "2025-11-07 00:56:00",
+      "importance": 3,
+      "category": "zdravotní technologi",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/fitbit-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/fitbit-labs-testing-unusual-trend-detection-and-hy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Fitbit",
+        "Google",
+        "9to5Google"
       ],
       "people": []
     },
@@ -595,8 +695,8 @@
       "people": []
     },
     {
-      "title": "Microsoft testoval AI agenty v simulované ekonomice. Skončili u podvodů a nesmyslných nákupů",
-      "description": "Microsoft vytvořil simulované online tržiště se stovkami AI agentů v rolích kupujících a prodejců. Experiment ukázal, že i pokročilé modely mají zásadní problémy s rozpoznáním podvodů, dodržováním pravidel a racionálním rozhodováním.",
+      "title": "Microsoft testoval AI agenty v simulované ekonomice. Skončili jako oběť podvodů",
+      "description": "Microsoft vytvořil simulovanou online ekonomiku se stovkami AI agentů jako kupujícími a prodávajícími. Experiment ukázal, že agenti opakovaně selhávají v základní finanční a bezpečnostní logice a snadno podléhají podvodům.",
       "slug": "microsoft-gave-ai-agents-fake-money-to-buy-things-",
       "publishedAt": "2025-11-07T00:05:13+00:00",
       "date": "2025-11-07 00:05:13",
@@ -610,7 +710,8 @@
         "name": "Decrypt"
       },
       "companies": [
-        "Microsoft"
+        "Microsoft",
+        "Decrypt"
       ],
       "people": []
     },
@@ -3463,24 +3564,6 @@
       "people": []
     },
     {
-      "title": "30 let vývoje Magic: The Gathering - 1. část",
-      "description": "Mark Rosewater bilancuje 30 let práce na karetní hře Magic: The Gathering a popisuje klíčové změny v designu her.",
-      "slug": "A-30-years-part-1-magic-the-gathering",
-      "publishedAt": "2025-11-03T16:11:30+00:00",
-      "date": "2025-11-03 16:11:30",
-      "importance": 1,
-      "category": "karetní hry",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/3xW2O1pL2ybksjRY9UjG5X/90042e16a657ec7dd976c16b5aaece23/ODY_Broodhatch_Nantuko_960x540.jpg",
-      "url": "/tech-news/2025-11-03/A-30-years-part-1-magic-the-gathering/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wizards.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Google údajně mění loga aplikací Mapy a Fotky. Podívejte se na nové ikony.",
       "description": "Google podle nepotvrzených informací připravuje redesign log pro aplikace Mapy a Fotky s novým gradientovým stylem, který má zdůraznit zaměření na AI.",
       "slug": "google-photos-and-maps-logos-are-reportedly-changi",
@@ -3759,26 +3842,6 @@
       "people": [
         "Richard Stott"
       ]
-    },
-    {
-      "title": "4 chytrá využití pro staré MacBooky",
-      "description": "Starší MacBooky, které již nedostávají aktualizace macOS, lze smysluplně využít jako experimenty s jinými operačními systémy, rozšíření Wi-Fi sítě, mediální centrum nebo druhý monitor.",
-      "slug": "A-4-clever-uses-for-your-old-macbooks-bgrcom",
-      "publishedAt": "2025-11-03T11:47:00+00:00",
-      "date": "2025-11-03 11:47:00",
-      "importance": 3,
-      "category": "recyklace hardware",
-      "urlToImage": "https://www.bgr.com/img/gallery/4-clever-uses-for-your-old-macbooks/l-intro-1761596823.jpg",
-      "url": "/tech-news/2025-11-03/A-4-clever-uses-for-your-old-macbooks-bgrcom/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
     },
     {
       "title": "Ranč rodiny Rockefellerů s 12 ložnicemi se prodává ve Wyomingu",
@@ -4077,62 +4140,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Vědci z University of Surrey napodobují propojení mozku pro zlepšení AI",
-      "description": "Výzkumníci vyvinuli novou metodu Topographical Sparse Mapping, která napodobuje strukturu lidského mozku a výrazně snižuje energetickou náročnost neuronových sítí bez ztráty výkonu.",
-      "slug": "university-of-surrey-researchers-mimic-brain-wirin",
-      "publishedAt": "2025-11-02T12:31:23+00:00",
-      "date": "2025-11-02 12:31:23",
-      "importance": 3,
-      "category": "neuronové sítě",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/63a3/live/19cfda60-b5ac-11f0-b392-ad2df543f963.png",
-      "url": "/tech-news/2025-11-02/university-of-surrey-researchers-mimic-brain-wirin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč je vaše televize pravděpodobně špatná volba a jak to napravit",
-      "description": "Vědecký výzkum ukazuje, že většina lidí sedí příliš daleko od svých 4K televizorů, aby viděla rozdíl oproti Full HD. 8K televize jsou pro běžné použití zbytečné.",
-      "slug": "why-your-tv-is-probably-the-wrong-choice-and-how-t",
-      "publishedAt": "2025-11-02T11:07:00+00:00",
-      "date": "2025-11-02 11:07:00",
-      "importance": 3,
-      "category": "televizory",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/a-hand-holding-a-remote-pointing-at-a-tv-with-a-warning-sign.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-02/why-your-tv-is-probably-the-wrong-choice-and-how-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Android Police"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nizozemský DAF 600 položil základy pro moderní CVT převodovky",
-      "description": "DAF 600 z roku 1959 byl první automobil s plynule variabilní převodovkou. Jeho dvouválec o objemu 0,59 litru měl pouhých 22 koní, přesto navždy změnil způsob řazení.",
-      "slug": "this-dutch-car-paved-the-way-for-the-cvt-with-a-va",
-      "publishedAt": "2025-11-02T11:05:00+00:00",
-      "date": "2025-11-02 11:05:00",
-      "importance": 3,
-      "category": "automobilový průmysl",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/this-dutch-car-paved-the-way-for-the-cvt-with-a-variomatic-transmission/l-intro-1761821453.jpg",
-      "url": "/tech-news/2025-11-02/this-dutch-car-paved-the-way-for-the-cvt-with-a-va/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
       "people": []
     }
   ]

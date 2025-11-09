@@ -3,15 +3,15 @@ author: Marisa Aigen
 category: ai
 companies:
 - Google
-- Apple
 - Microsoft
+- Apple
+- Meta
 - OpenAI
-- Anthropic
 date: '2025-11-07 17:27:00'
-description: Google rozšiřuje Gemini Deep Research o možnost pracovat s daty z Gmailu,
-  Disku a Chatu, aby poskytoval komplexnější odpovědi na výzkumné dotazy. Zároveň
-  však firma otevřeně přiznává, že nástroj není spolehlivý pro kritická rozhodnutí
-  a zvyšuje tlak na otázky soukromí a správy dat.
+description: Google rozšiřuje nástroj Gemini Deep Research tak, aby mohl po souhlasu
+  uživatele číst data z Gmailu, Disku Google a Google Chatu a používat je pro vícekrokový
+  výzkum. Zvyšuje tím užitečnost systému, zároveň ale otevírá nové otázky ohledně
+  ochrany soukromí a důvěry v AI agenty.
 importance: 4
 layout: tech_news_article
 original_title: Gemini Deep Research can now comb through Workspace files - theregister.com
@@ -21,37 +21,36 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: 'Gemini Deep Research získává přístup k Gmailu a Google Drive: přesnější odpovědi
-  za cenu vyššího rizika'
+title: Gemini Deep Research nově prohledá Gmail, Disk i Chat. Přínos pro produktivitu,
+  riziko pro soukromí
 url: https://www.theregister.com/2025/11/07/gemini_deep_research_can_now/
 urlToImage: https://regmedia.co.uk/2022/08/25/research_shutterstock.jpg
 urlToImageBackup: https://regmedia.co.uk/2022/08/25/research_shutterstock.jpg
 ---
 
 ## Souhrn
-Google rozšiřuje nástroj Gemini Deep Research tak, aby mohl – s výslovným souhlasem uživatele – číst data z Gmailu, Google Drive (včetně Docs, Sheets, Slides a PDF) a Google Chat. Cílem je poskytovat kontextově přesnější a komplexnější odpovědi na složitější dotazy, podobně jako jiné "deep research" nástroje od OpenAI, Perplexity a dalších.
-Současně Google upozorňuje, že Gemini Deep Research není spolehlivým zdrojem pro zdravotní, finanční či právní rozhodování a jeho schopnosti nesmí být přeceňovány.
+Google rozšiřuje funkce Gemini Deep Research tak, aby nástroj mohl po explicitním povolení přistupovat k soukromým datům v Gmailu, Google Drive (Docs, Sheets, Slides, PDF) a Google Chatu. Cílem je zlepšit kvalitu vícekrokového „deep research“ nad osobními i firemními dokumenty, ale Google současně připouští, že na tyto AI agenty nelze spoléhat v oblastech zdraví, financí či kritických rozhodnutí.
 
 ## Klíčové body
-- Gemini Deep Research (postavený na Gemini 2.5 Pro) funguje jako více-krokový agent, který plánuje a provádí výzkum namísto jednorázové odpovědi.
-- Nově může při povolení uživatelem číst obsah Gmailu, souborů na Google Drive a komunikace v Google Chat a použít je jako kontext pro odpovědi.
-- Funkce přináší vyšší užitečnost, ale zároveň posiluje obavy ohledně soukromí, správy přístupových práv a možného zneužití dat.
-- Google se staví opatrně: výslovně varuje, že výstupy nemají být brány jako autoritativní pro kritické oblasti (zdraví, finance, právo).
-- Rozšíření zapadá do trendu "personalizovaných agentů", kteří kombinují webové zdroje s privátními daty uživatelů.
+- Gemini Deep Research používá Gemini 2.5 Pro jako autonomnějšího agenta, který plánuje a provádí vícekrokový výzkum místo jednorázové odpovědi.
+- Nově umí (po souhlasu) číst obsah Gmailu, souborů na Google Drive a komunikaci v Google Chatu a využít je jako kontext pro odpovědi.
+- Integrace zvyšuje praktickou použitelnost pro analýzu dlouhodobé interní komunikace, smluv, reportů či prezentací.
+- Model se řadí mezi rostoucí kategorii „deep research“ agentů, podobně jako nástroje od OpenAI, Perplexity či Claude od Anthropic.
+- Rozšířený přístup k datům znovu otevírá zásadní otázky ochrany soukromí, firemní bezpečnosti a důvěry v AI systémy velkých platforem.
 
 ## Podrobnosti
-Gemini Deep Research je verze modelu Gemini 2.5 Pro fungující jako tzv. agent: místo jednorázového generování textu si nejprve vytváří více-krokový plán, podle něj prochází zdroje a postupně skládá odpověď. Google tento přístup prezentuje jako nástroj pro komplexnější rešerše, například analýzu dokumentace, porovnání zdrojů nebo přípravu podkladů pro rozhodování.
+Gemini Deep Research je nadstavba nad modelem Gemini 2.5 Pro, která funguje jako agent: místo okamžité odpovědi na dotaz si vytváří vícekrokový plán, postupně sbírá zdroje, vyhodnocuje je a skládá syntézu. Tento přístup je určen pro komplexní úkoly, jako je analýza trhu, rešerše k projektům, srovnání dokumentů, dohledávání souvislostí v rozsáhlých datech nebo příprava podkladů pro rozhodování managementu.
 
-Nová funkce umožňuje, aby Deep Research – pokud mu to uživatel explicitně povolí – přistupoval k obsahu Gmailu, souborů v Google Drive (včetně Google Docs, Sheets, Slides a nahraných PDF) a konverzací v Google Chat. Prakticky to znamená, že při dotazu typu „Shrň všechny smlouvy s dodavateli za poslední rok a vyhodnoť rizika“ nebo „Najdi relevantní podklady k projektu X a navrhni další kroky“ může agent automaticky prohledat uživatelovy či firemní dokumenty a začlenit je do odpovědi.
+Nově Google umožňuje, aby tento agent po výslovném povolení procházel data v rámci Google Workspace: e-maily v Gmailu, soubory na Google Drive (včetně Dokumentů, Tabulek, Prezentací a PDF) a zprávy v Google Chatu. Praktický dopad je jasný: uživatel může zadat dotaz typu „Shrň všechny interní materiály k projektu X za poslední rok“, „Najdi konflikty mezi těmito smlouvami a interní směrnicí“, nebo „Připrav srovnání nabídek od dodavatelů v přílohách e-mailů“ – a agent má možnost tyto informace dohledat napříč uloženými daty.
 
-Tento přístup není izolovaný. Podobné propojení privátních dat a AI agentů nabízí například OpenAI (napojení na úložiště a nástroje), Perplexity (vyhledávací agent s kontextem) či Anthropic: model Claude má konektory pro Google Drive, Slack a další služby, včetně přístupu k lokálním souborům přes desktopovou aplikaci. Trend je jasný: hlavní hráči směřují k AI agentům, kteří mají přístup k osobním a firemním datům a dokážou nad nimi automatizovaně pracovat.
+Google v komunikaci zdůrazňuje, že přístup k souborům je řízen nastavením uživatele a organizace a že systém má limity: není určen k tomu, aby poskytoval závazné rady v citlivých oblastech jako zdravotnictví, osobní finance nebo právní rozhodování. To je nepřímé přiznání, že přes rostoucí „inteligenci“ a přístup k datům zůstává riziko halucinací, chybných interpretací a neúplných závěrů. Současně platí, že centralizace tolik osobních i firemních dat pod jednou AI vrstvou zvyšuje potenciální dopady chybné konfigurace oprávnění, vnitřních zneužití nebo bezpečnostních incidentů.
 
-S tím však rostou rizika. Rozšířený přístup k datům znamená složitější správu oprávnění, závislost na bezpečnostních politikách poskytovatele a vyšší dopad případné chyby nebo úniku. Google v komunikaci zdůrazňuje, že výstupy Deep Research nesmí být používány jako jediný zdroj pravdy v oblastech s vysokým dopadem, jako je zdravotnictví, finance nebo právo, což je implicitní přiznání limitů spolehlivosti modelu i rizika halucinací.
+V širším ekosystému nejde o izolovaný krok: OpenAI a Perplexity nabízejí nástroje pro hlubší rešerše nad webem a dokumenty, Anthropic (firma zaměřená na výzkum bezpečnější AI) integruje Claude s Google Drive, Slackem a lokálním souborovým systémem. Google tak nechce zaostat a využívá své výhody – přímý přístup k Workspace, kde už jsou citlivá data uživatelů.
 
 ## Proč je to důležité
-Integrace Gemini Deep Research s Gmailem, Drive a Chatem posouvá AI z role obecného textového asistenta k plnohodnotnému firemnímu a osobnímu agentovi, který má přístup k reálným interním datům a dokáže nad nimi provádět složitější analýzy a automatizovat část znalostní práce. Pro firmy to může znamenat rychlejší rešerše, efektivnější práci s dokumentací a centralizaci znalostí.
+Rozšíření Gemini Deep Research představuje další posun od „chatbota“ k agentním systémům pevně napojeným na reálná data uživatelů. Pro firmy a profesionály to znamená praktický nástroj pro automatizovanou rešerši, auditní přehledy, agregaci znalostí z e-mailů, dokumentů a chatu a rychlejší přípravu podkladů. Současně však roste závislost na infrastruktuře jedné korporace a vzniká složitější bezpečnostní profil: chyba v nastavení oprávnění, nedostatečná kontrola přístupu nebo nejasná smluvní pravidla zpracování dat mohou mít výrazně větší dopad.
 
-Současně to ale zásadně zvyšuje nároky na governance: jasné nastavení přístupových práv v Google Workspace, auditní logy, smluvní záruky, omezení pro citlivé obory a interní politiky, které definují, jaká data smí být AI agentům zpřístupněna. V širším ekosystému to potvrzuje směr, kdy velcí hráči (Google, OpenAI, Anthropic a další) soutěží nikoli jen kvalitou modelů, ale schopností bezpečně a přesvědčivě propojit AI s uživatelskými daty. Kdo dokáže nabídnout výkonné "deep research" agenty bez zásadních incidentů v oblasti soukromí a bezpečnosti, získá dlouhodobou strategickou výhodu. Pro uživatele a organizace je nyní klíčové, aby tuto novou funkcionalitu nasazovali uvážlivě a s důrazem na kontrolu nad daty.
+Z pohledu trhu AI je to další krok v závodu o „deep research“ agenty, kteří budou schopni samostatně plánovat, procházet firemní znalostní báze, kombinovat interní a veřejná data a generovat doporučení. Směřujeme k prostředí, kde klíčovou konkurenční výhodou nebude pouze kvalita modelu, ale hloubka integrace do ekosystému služeb a schopnost pracovat s citlivými daty při akceptovatelné míře rizika. Tato změna bude nutit organizace přehodnotit své strategie ochrany dat, řízení přístupu a vendor lock-in v oblasti AI nástrojů.
 
 ---
 

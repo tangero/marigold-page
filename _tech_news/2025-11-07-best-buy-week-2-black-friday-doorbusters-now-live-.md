@@ -1,14 +1,16 @@
 ---
 author: Marisa Aigen
-category: spotřební elektronik
+category: slevy
 companies:
 - Best Buy
 - Samsung
 - Apple
+- Google
+- Microsoft
 date: '2025-11-07 22:25:00'
-description: Řetězec Best Buy zahájil druhý víkend speciálních Black Friday Doorbusters
-  s časově omezenými slevami na smartphony, OLED televizory, herní headsety, pračky
-  a sušičky i další spotřební elektroniku, primárně pro trh v USA.
+description: Best Buy zahajuje druhý týden Black Friday Doorbusters s výraznými slevami
+  na Samsung Galaxy S25 Ultra, OLED televize, pračky, audio a slevami na MacBook Air
+  konkurující Amazonu. Nabídky jsou časově omezené a cílené na členy věrnostního programu.
 importance: 3
 layout: tech_news_article
 original_title: Best Buy Week 2 Black Friday Doorbusters now live! Galaxy S25 Ultra
@@ -19,46 +21,38 @@ source:
   emoji: 📰
   id: null
   name: 9to5Toys
-title: 'Best Buy spouští druhou vlnu Black Friday Doorbusters: výrazné slevy na Galaxy
-  S25 Ultra, OLED TV a další elektroniku'
+title: 'Best Buy spouští druhou vlnu Black Friday nabídek: sleva 400 USD na Galaxy
+  S25 Ultra a výrazné zlevnění TV a MacBook Air'
 url: http://9to5toys.com/2025/11/07/best-buy-week-2-black-friday-doorbusters-live/
 urlToImage: https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
 ## Souhrn
-Best Buy spustil druhý víkend Black Friday Doorbusters pro rok 2025 s omezenou sadou agresivních slev, které platí od pátku do neděle. Zahrnují mimo jiné zlevnění Samsung Galaxy S25 Ultra o 400 dolarů, 65" OLED 4K televizoru Samsung, herních headsetů Turtle Beach a setů pračka/sušička Samsung.
+Best Buy spustil druhý týden omezených Black Friday Doorbusters nabídek, které zahrnují výrazné slevy na klíčová spotřebitelská zařízení, zejména Samsung Galaxy S25 Ultra, OLED televize, pračky a sušičky Samsung a herní headsety. Pro uživatele a trh jde o ukázku agresivní cenové války v předvánoční sezóně, kde se Best Buy snaží držet krok s Amazonem a dalšími velkými hráči.
 
 ## Klíčové body
-- Best Buy nasazuje týdenní model Doorbusters: nové nabídky každý pátek, platnost do neděle.
-- Samsung Galaxy S25 Ultra je zlevněn o 400 USD, cíleně míří na prémiový segment smartphonů.
-- 65" Samsung S84F OLED 4K TV klesá na 899,99 USD (sleva 55 %), což tlačí ceny kvalitních OLED pod hranici 1 000 USD.
-- Sety pračka/sušička Samsung se slevou až 1 100 USD ukazují, že agresivní Black Friday strategie se rozšiřuje i na velké domácí spotřebiče.
-- Členové My Best Buy Plus/Total získávají dodatečné bonusové odměny, což posiluje uzamčení zákazníků v ekosystému řetězce.
+- Sleva 400 USD na Samsung Galaxy S25 Ultra v rámci časově omezené nabídky.
+- Sleva 55 % na 65" Samsung S84F OLED 4K TV, cena snížena na 899,99 USD.
+- Sleva až 1 100 USD na sety pračka/sušička Samsung, začínající kolem 900 USD.
+- Best Buy odměňuje členy My Best Buy Plus/Total bonusem 5 USD za každých 50 USD (limit 25 USD).
+- Část dřívějších slev (zejména MacBook Air s M4) je nyní cenově podstřelena konkurencí, zejména Amazonem.
 
 ## Podrobnosti
-Best Buy pro rok 2025 upravil strategii Black Friday. Místo dlouhých, překrývajících se promo období nasazuje zřetelně strukturované víkendové Doorbusters kampaně. Druhý týden přináší osm hlavních nabídek se silným zaměřením na prémiovou spotřební elektroniku a domácí techniku, přičemž klíčové produkty mají fungovat jako tahouni návštěvnosti i online objednávek.
+Druhý týden Black Friday Doorbusters u Best Buy potvrzuje trend, kdy velcí prodejci rozkládají slevové akce na celý měsíc místo jednoho dne. Best Buy aktualizuje Doorbusters každý pátek s platností do neděle, což má za cíl udržet pozornost zákazníků, řídit zásoby a rychle reagovat na cenovou politiku konkurence. 
 
-Nejvýraznějším prvkem je sleva 400 USD na Samsung Galaxy S25 Ultra, což je vlajkový smartphone s vysokým výkonem, pokročilými fotoaparáty a funkcemi pro AI zpracování obrazu a videa. Tato cenová úroveň cíleně oslabuje motivaci čekat na konkurenční akce jiných výrobců a operátorů a ukazuje, že velcí prodejci jsou ochotni výrazně komprimovat marže u top modelů, aby udrželi objemy prodeje.
+Mezi hlavní položky patří Samsung Galaxy S25 Ultra se slevou 400 USD. Jde o vlajkový smartphone s důrazem na mobilní fotografii, vysoký výpočetní výkon a integraci AI funkcí přímo v zařízení. Sleva tohoto rozsahu signalizuje záměr agresivně zvýšit podíl na trhu v segmentu prémiových telefonů a zároveň vytváří tlak na ostatní výrobce Android telefonů i Apple.
 
-Dále je v akci 65" Samsung S84F OLED 4K TV za 899,99 USD, tedy se slevou 55 %. To je signál pokračujícího tlaku na ceny OLED panelů a postupného posunu kvalitního 4K OLED z prémiového segmentu do vyššího mainstreamu. OLED technologie poskytuje lepší kontrast a věrnější barvy než běžné LCD a je klíčová pro filmový, herní a streamingový obsah ve 4K.
+Výrazná sleva na 65" Samsung S84F OLED 4K TV (55 % dolů na 899,99 USD) ukazuje pokračující zlevňování OLED technologií. OLED panely poskytují lepší kontrast a barvy než běžné LCD, což je relevantní pro uživatele streamovacích služeb, herní konzole a domácí kina. Podobně sleva až 1 100 USD na sety pračka/sušička Samsung reflektuje snahu prodejců přitáhnout zákazníky do ekosystému chytré domácnosti, kde jsou tato zařízení často propojena s mobilními aplikacemi a službami v cloudu.
 
-Herní headsety Turtle Beach Stealth Pro se slevou až 50 % cílí na hráče na konzolích i PC. U těchto zařízení je důraz na prostorový zvuk, bezdrátové připojení a nízkou latenci, tedy prvky důležité pro kompetitivní hraní i online komunikaci. Výrazné slevy zde spíše podporují loajalitu značky než technologický posun.
+Turtle Beach Stealth Pro headsety, zlevněné až o 50 %, cílí na segment hráčů a uživatelů využívajících hlasovou komunikaci a prostorový zvuk. To je relevantní zejména pro online hraní, vzdálenou práci a komunikaci přes VoIP platformy. Zmíněné produkty Miko (masážní zařízení a čističky vzduchu) ukazují doplnění nabídky o zařízení péče o zdraví a kvalitu prostředí, což je segment, který roste díky zájmu o domácí wellness a monitorování kvality vzduchu.
 
-Zásadní jsou také slevy až 1 100 USD na páry pračka/sušička Samsung. To ukazuje, že Black Friday se stabilně profiluje jako období obnovy domácích spotřebičů, ne jen drobné elektroniky. Pro výrobce jde o příležitost vyčistit skladové zásoby starších modelových řad a současně tlačit zákazníky do ekosystému chytré domácnosti (Wi‑Fi připojení, vzdálená kontrola, integrace s mobilními aplikacemi).
-
-Pro členy My Best Buy Plus a My Best Buy Total platí bonus 5 USD za každých 50 USD utracených za Doorbusters (max. 25 USD). Tento mechanismus není technologickou inovací, ale typickým nástrojem k posílení retence a sběru dat o nákupním chování.
+Program My Best Buy Plus a My Best Buy Total přidává bonusové odměny (5 USD za každých 50 USD utracených, maximálně 25 USD), čímž Best Buy podporuje uzamčení uživatelů ve vlastním věrnostním ekosystému. Současně však článek upozorňuje, že některé dříve propagované slevy na MacBook Air s čipem M4 (např. konfigurace 16 GB/256 GB za 750 USD) jsou aktuálně překonány nabídkami Amazonu a dalších prodejců. To potvrzuje vysoce dynamické cenové prostředí, kde koncový uživatel musí aktivně porovnávat nabídky napříč prodejci.
 
 ## Proč je to důležité
-Tyto Doorbusters nejsou průlomovou technologickou novinkou, ale ukazují několik trendů důležitých pro trh:
+Tyto Doorbusters nejsou technologický průlom, ale ukazují několik podstatných trendů. Zaprvé, velcí prodejci jako Best Buy využívají agresivní cenotvorbu na prémiové produkty (Galaxy S25 Ultra, OLED TV, MacBook Air), aby zvýšili obrat v prostředí stagnujících či jen mírně rostoucích trhů spotřební elektroniky. Zadruhé, posiluje se význam věrnostních programů a uzamčení zákazníků do konkrétního ekosystému služeb a slev, což má přímý dopad na konkurenční schopnost menších prodejců.
 
-Zaprvé, agresivní slevy na vlajkové smartphony a prémiové televizory naznačují tlak na marže v segmentu spotřební elektroniky, který se potýká s nasycením trhu a delšími cykly obměny zařízení. Pro výrobce to posiluje závislost na doprovodných službách, ekosystémech a software (cloudové služby, předplatné, servis), protože hardware se stále více komoditizuje.
-
-Zadruhé, rozložení Black Friday do týdenních vln a zvýhodnění členů věrnostních programů ukazuje, že velcí prodejci systematicky pracují s daty, personalizací a prediktivní analýzou poptávky. Nejde jen o marketing, ale o optimalizaci logistiky, řízení zásob a cenotvorby, kde se využívají interní analytické nástroje a často i AI algoritmy.
-
-Zatřetí, pokles cen kvalitních OLED televizorů a chytrých domácích spotřebičů podporuje další rozšíření vysoce kvalitního zobrazovacího hardware a propojených zařízení mezi běžnými uživateli. To vytváří širší základnu pro služby náročné na přenos dat (4K/8K streaming, cloud gaming) a chytré domácí platformy, což má dopady na poskytovatele obsahu, výrobce síťových zařízení i regulátory v oblasti energetiky a datové bezpečnosti.
-
-Pro českého uživatele je relevantní především trend: podobnou cenovou dynamiku a promyšlenější promo strategie lze očekávat i u evropských prodejců elektroniky, i když konkrétní slevy Best Buy platí jen pro USA.
+Zatřetí, agresivní slevy na zařízení s AI funkcemi, chytrou domácností a moderními displeji urychlují jejich masové rozšíření. To má dopad na vývoj aplikací, služeb a obsahu optimalizovaného pro vyšší výpočetní výkon, lepší obraz a propojení v rámci domácí sítě. Pro uživatele to znamená možnost výhodně nakoupit technologicky aktuální zařízení, ale zároveň nutnost pečlivě sledovat rozdíly mezi prodejci a nenechat se vést pouze marketingovým označením „Doorbuster“ bez reálného srovnání cen a parametrů.
 
 ---
 
