@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-09T12:27:11.556419+00:00",
+  "generated": "2025-11-09T16:17:20.482651+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Levný MacBook od Applu v roce 2026: co očekávat",
-      "description": "Apple podle dostupných informací chystá na rok 2026 nový cenově dostupný MacBook, který má být levnější než současný MacBook Air a cílit na uživatele hledající základní notebook pro běžnou práci, studium a online služby.",
+      "title": "Levný MacBook v roce 2026: co Apple chystá proti Chromebookům a levným PC",
+      "description": "Apple podle dostupných informací připravuje na rok 2026 nový levnější MacBook pod úrovní MacBooku Air, zaměřený na nenáročné uživatele, vzdělávání a konkurenci vůči levným Chromebookům a Windows notebookům.",
       "slug": "apples-cheap-macbook-what-to-expect-in-2026-macrum",
       "publishedAt": "2025-11-07T23:36:04+00:00",
       "date": "2025-11-07 23:36:04",
@@ -20,18 +20,16 @@
       "companies": [
         "Apple"
       ],
-      "people": [
-        "Tim Cook"
-      ]
+      "people": []
     },
     {
-      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: sleva 400 dolarů na Galaxy S25 Ultra a 1 100 dolarů na Samsung TV",
-      "description": "Best Buy zahájil druhý týden Black Friday Doorbusters kampaně s výraznými slevami na smartphony, OLED televizory, herní headsety a domácí spotřebiče, které potvrzují pokračující cenovou válku velkých prodejců elektroniky.",
+      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: výrazné slevy na Galaxy S25 Ultra, OLED TV a další elektroniku",
+      "description": "Řetězec Best Buy zahájil druhý víkend speciálních Black Friday Doorbusters s časově omezenými slevami na smartphony, OLED televizory, herní headsety, pračky a sušičky i další spotřební elektroniku, primárně pro trh v USA.",
       "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
       "publishedAt": "2025-11-07T22:25:00+00:00",
       "date": "2025-11-07 22:25:00",
       "importance": 3,
-      "category": "slevy",
+      "category": "spotřební elektronik",
       "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-07/best-buy-week-2-black-friday-doorbusters-now-live-/",
       "source": {
@@ -123,6 +121,30 @@
       "people": []
     },
     {
+      "title": "FBI požaduje od registrátora Tucows identitu provozovatele webu Archive.is",
+      "description": "FBI v rámci federálního trestního vyšetřování předvolala doménového registrátora Tucows a žádá detailní údaje o provozovateli archivační služby Archive.is (Archive.today), která umožňuje ukládat snímky webových stránek a často se využívá k obcházení paywallů.",
+      "slug": "fbi-orders-domain-registrar-to-reveal-who-runs-mys",
+      "publishedAt": "2025-11-07T18:28:23+00:00",
+      "date": "2025-11-07 18:28:23",
+      "importance": 3,
+      "category": "kybernetika",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-1152x648-1762539099.jpg",
+      "url": "/tech-news/2025-11-07/fbi-orders-domain-registrar-to-reveal-who-runs-mys/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "Tucows",
+        "Archive.is",
+        "Archive.today",
+        "FBI",
+        "Ars Technica"
+      ],
+      "people": []
+    },
+    {
       "title": "Best Buy spouští předčasné slevy na Black Friday: tablety od 49 dolarů, velké TV od 69 dolarů",
       "description": "Americký řetězec Best Buy odstartoval v předstihu slevy na Black Friday, které zahrnují levné tablety, notebooky, velkoformátové 4K a OLED televizory a spotřebiče. Nabídky jsou primárně relevantní pro americký trh, ale ukazují cenový tlak v segmentu spotřební elektroniky.",
       "slug": "best-buy-just-dropped-tons-of-early-black-friday-d",
@@ -147,13 +169,13 @@
       "people": []
     },
     {
-      "title": "Zneužitá zranitelnost Samsung Galaxy umožnila šíření spyware LANDFALL přes obrázky na WhatsApp",
-      "description": "Útočníci zneužili dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení pokročilého spyware LANDFALL prostřednictvím škodlivých obrázků posílaných přes WhatsApp. Incident ukazuje slabiny v zabezpečení komunikačních aplikací i fragmentaci aktualizací Androidu.",
+      "title": "Zneužití chyby v telefonech Samsung k nasazení spyware LANDFALL přes WhatsApp jako zero-day útok",
+      "description": "Spyware LANDFALL zneužil dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k infikování zařízení prostřednictvím škodlivých obrázků posílaných přes WhatsApp před dubnovou bezpečnostní záplatou 2025.",
       "slug": "samsung-mobile-flaw-exploited-as-zero-day-to-deplo",
       "publishedAt": "2025-11-07T18:00:00+00:00",
       "date": "2025-11-07 18:00:00",
       "importance": 4,
-      "category": "kybernetika",
+      "category": "kyberbezpečnost",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s790-rw-e365/mobile-exploit.jpg",
       "url": "/tech-news/2025-11-07/samsung-mobile-flaw-exploited-as-zero-day-to-deplo/",
       "source": {
@@ -193,8 +215,8 @@
       ]
     },
     {
-      "title": "Google rozšiřuje Gemini Deep Research: nástroj nyní prohledá Gmail, Disk i Chat",
-      "description": "Google umožňuje Gemini Deep Research přistupovat k datům v Gmailu, Google Drive a Google Chat, aby přesněji odpovídal na složité dotazy. Funkce zvyšuje užitečnost agentních AI systémů, zároveň ale vyvolává zásadní otázky ohledně soukromí a důvěry.",
+      "title": "Gemini Deep Research získává přístup k Gmailu a Google Drive: přesnější odpovědi za cenu vyššího rizika",
+      "description": "Google rozšiřuje Gemini Deep Research o možnost pracovat s daty z Gmailu, Disku a Chatu, aby poskytoval komplexnější odpovědi na výzkumné dotazy. Zároveň však firma otevřeně přiznává, že nástroj není spolehlivý pro kritická rozhodnutí a zvyšuje tlak na otázky soukromí a správy dat.",
       "slug": "gemini-deep-research-can-now-comb-through-workspac",
       "publishedAt": "2025-11-07T17:27:00+00:00",
       "date": "2025-11-07 17:27:00",
@@ -209,16 +231,16 @@
       },
       "companies": [
         "Google",
-        "OpenAI",
-        "Anthropic",
+        "Apple",
         "Microsoft",
-        "Apple"
+        "OpenAI",
+        "Anthropic"
       ],
       "people": []
     },
     {
-      "title": "Nejpodivnější úniky ChatGPT: Citlivé konverzace se objevily v nástroji Google Search Console",
-      "description": "Vyšetřování ukazuje, že osobní dotazy z ChatGPT končily v Google Search Console, což naznačuje možné přímé využití reálných uživatelských promptů při procházení webu a otevírá vážné otázky ohledně ochrany soukromí a datových praktik OpenAI.",
+      "title": "Kuriózní úniky ChatGPT: citlivé chaty se objevily v Google Search Console",
+      "description": "V Google Search Console se objevily dlouhé a citlivé dotazy z ChatGPT, což naznačuje chybnou integraci a možný scraping Google dat ze strany OpenAI. Případ vyvolává otázky o ochraně soukromí, transparentnosti a metodách trénování AI modelů.",
       "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
       "publishedAt": "2025-11-07T16:49:53+00:00",
       "date": "2025-11-07 16:49:53",
@@ -234,14 +256,12 @@
       "companies": [
         "OpenAI",
         "Google",
-        "Microsoft",
-        "Apple",
-        "Meta"
+        "Microsoft"
       ],
       "people": [
         "Elon Musk",
-        "Tim Cook",
-        "Satya Nadella"
+        "Sam Altman",
+        "Ilya Sutskever"
       ]
     },
     {
@@ -339,8 +359,26 @@
       ]
     },
     {
+      "title": "IKEA představuje 21 Matter kompatibilních zařízení pro chytrou domácnost",
+      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení pro osvětlení, senzory a ovládání, všechna s podporou standardu Matter pro snadnější integraci s hlavními platformami.",
+      "slug": "ikea-just-announced-21-smart-home-gadgets-heres-th",
+      "publishedAt": "2025-11-07T13:38:51+00:00",
+      "date": "2025-11-07 13:38:51",
+      "importance": 3,
+      "category": "chytrá domácnost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mREoaZ9fMDEG6rriGCEdS7-2000-80.jpg",
+      "url": "/tech-news/2025-11-07/ikea-just-announced-21-smart-home-gadgets-heres-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Windows 11 verze 26H1: Speciální vydání pro novou generaci čipů Snapdragon X2 a NVIDIA N1X",
-      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě Bromine, určenou výhradně pro zařízení s nadcházející generací čipů, zejména Snapdragon X2 a NVIDIA N1X, s uvedením očekávaným v první polovině roku 2026.",
+      "description": "Microsoft připravuje plnohodnotnou verzi Windows 11 označenou jako 26H1, založenou na platformě Bromine, určenou primárně pro zařízení s novými čipy Snapdragon X2 a NVIDIA N1X v první polovině roku 2026.",
       "slug": "windows-11-version-26h1-everything-we-know-so-far-",
       "publishedAt": "2025-11-07T13:16:13+00:00",
       "date": "2025-11-07 13:16:13",
@@ -354,6 +392,50 @@
         "name": "Windows Central"
       },
       "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "37 dárků pro lidi, kteří tvrdí, že „nic nechtějí“",
+      "description": "Výběr praktických a drobných dárků pro obdarované, kteří říkají, že nic nepotřebují – od organizérů na gauč přes domácí vychytávky až po komfortní a lifestyle produkty doporučené redaktory BuzzFeedu.",
+      "slug": "A-37-gifts-for-the-person-on-your-list-who-says-th",
+      "publishedAt": "2025-11-07T13:01:03+00:00",
+      "date": "2025-11-07 13:01:03",
+      "importance": 1,
+      "category": "e‑commerce",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/04/18/thumb/BQYFWzimp.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+      "url": "/tech-news/2025-11-07/A-37-gifts-for-the-person-on-your-list-who-says-th/",
+      "source": {
+        "emoji": "📰",
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Otestovali jsme novou aplikaci Sora od OpenAI: sken obličeje, hlas a osobní AI videa na Androidu",
+      "description": "OpenAI uvedlo aplikaci Sora pro Android, která kombinuje AI generování videí s funkcí naskenování obličeje a hlasu a funguje jako sociální síť podobná TikToku či YouTube Shorts. Přináší působivé technické možnosti, ale zároveň otevírá zásadní otázky bezpečnosti dat, souhlasu a zneužití identity.",
+      "slug": "i-scanned-my-face-in-chatgpts-new-sora-app-and-the",
+      "publishedAt": "2025-11-07T12:07:06+00:00",
+      "date": "2025-11-07 12:07:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/sora-splash-screen-logo-app-scaled.jpg",
+      "url": "/tech-news/2025-11-07/i-scanned-my-face-in-chatgpts-new-sora-app-and-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Apple",
+        "Meta",
         "Microsoft"
       ],
       "people": []
@@ -404,8 +486,8 @@
       "people": []
     },
     {
-      "title": "Zákeřné VS Code rozšíření generované pomocí AI obsahovalo vestavěné ransomware funkce",
-      "description": "Nedávno odhalené škodlivé rozšíření pro Visual Studio Code a falešné balíčky v npm ukazují, jak útočníci zneužívají důvěru v open-source ekosystém a automatizaci pomocí AI k distribuci ransomware a dalším útokům na vývojářská prostředí.",
+      "title": "Zneužití AI k tvorbě škodlivého rozšíření pro VS Code s vestavěnými funkcemi ransomwaru",
+      "description": "Útočníci využili AI k vytvoření škodlivého rozšíření pro VS Code a falešných balíčků v npm, čímž ukazují, jak snadno lze zneužít důvěru v open-source ekosystémy a vývojářské nástroje.",
       "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
       "publishedAt": "2025-11-07T06:48:00+00:00",
       "date": "2025-11-07 06:48:00",
@@ -421,9 +503,9 @@
       "companies": [
         "Microsoft",
         "OpenAI",
-        "Apple",
         "Google",
-        "IBM"
+        "Apple",
+        "NASA"
       ],
       "people": []
     },
@@ -513,13 +595,13 @@
       "people": []
     },
     {
-      "title": "Microsoft dal AI agentům falešné peníze. V simulované ekonomice je utratili za podvody",
-      "description": "Microsoft otestoval desítky AI agentů v simulované online ekonomice s cílem ověřit jejich schopnost samostatného rozhodování. Výsledek ukázal, že agenti opakovaně selhávali, nechali se snadno napálit podvody a nebyli schopni spolehlivě chránit prostředky ani plnit jednoduché úkoly.",
+      "title": "Microsoft testoval AI agenty v simulované ekonomice. Skončili u podvodů a nesmyslných nákupů",
+      "description": "Microsoft vytvořil simulované online tržiště se stovkami AI agentů v rolích kupujících a prodejců. Experiment ukázal, že i pokročilé modely mají zásadní problémy s rozpoznáním podvodů, dodržováním pravidel a racionálním rozhodováním.",
       "slug": "microsoft-gave-ai-agents-fake-money-to-buy-things-",
       "publishedAt": "2025-11-07T00:05:13+00:00",
       "date": "2025-11-07 00:05:13",
       "importance": 3,
-      "category": "ai",
+      "category": "ai agenti",
       "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/443150d2-ca4c-4ca4-9240-b52432c00026-gID_7.png",
       "url": "/tech-news/2025-11-07/microsoft-gave-ai-agents-fake-money-to-buy-things-/",
       "source": {
@@ -722,8 +804,8 @@
       "people": []
     },
     {
-      "title": "Ruskému kosmodromu Vostočnyj odpojili elektřinu kvůli neuhrazeným účtům",
-      "description": "Výstavba strategického ruského kosmodromu Vostočnyj se dál komplikuje: hlavní dodavatel PSO Kazan neplatil elektřinu, energetická společnost proto odpojila část staveniště a chystá insolvenční řízení. Případ dál odhaluje strukturální problémy, korupci a finanční nestabilitu ruského kosmického programu.",
+      "title": "Ruskému kosmodromu Vostočnyj odpojili elektřinu kvůli neplaceným účtům",
+      "description": "Hlavní dodavatel výstavby kosmodromu Vostočnyj, společnost PSO Kazan, neplatil účty za elektřinu, což vedlo k odpojení části areálu a hrozbě bankrotu. Případ dále odhaluje dlouhodobé finanční a korupční problémy klíčové ruské infrastruktury pro kosmické starty.",
       "slug": "after-russian-spaceport-firm-fails-to-pay-bills-el",
       "publishedAt": "2025-11-06T17:53:35+00:00",
       "date": "2025-11-06 17:53:35",
@@ -761,6 +843,26 @@
       "people": [
         "Elon Musk"
       ]
+    },
+    {
+      "title": "Affinity po zpřístupnění zdarma získala milion nových uživatelů za méně než týden",
+      "description": "Platforma Affinity, nyní vlastněná firmou Canva, přilákala po přechodu na bezplatný model během šesti dní více než milion nových uživatelů. Jde o výrazný zásah do trhu profesionálních grafických nástrojů a další tlak na dominanci Adobe.",
+      "slug": "affinity-added-1-million-users-in-less-than-a-week",
+      "publishedAt": "2025-11-06T17:48:40+00:00",
+      "date": "2025-11-06 17:48:40",
+      "importance": 3,
+      "category": "design software",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/11/Affinity-Added-1-Million-Users-in-Less-Than-a-Week.jpg",
+      "url": "/tech-news/2025-11-06/affinity-added-1-million-users-in-less-than-a-week/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "companies": [
+        "Canva"
+      ],
+      "people": []
     },
     {
       "title": "Samsung rozšiřuje dostupnost headsetu Galaxy XR do Evropy a Kanady v roce 2026",
@@ -3978,42 +4080,6 @@
       "people": []
     },
     {
-      "title": "Staromódní dveřní doplněk, který kdysi chránil domácnosti (a zda je stále k dostání)",
-      "description": "Door Club je vintage bezpečnostní systém pro dveře z 90. let, který měl zabránit vloupání. Dnes je stále dostupný ve vintage i moderních variantách.",
-      "slug": "the-old-fashioned-door-accessory-that-once-made-ho",
-      "publishedAt": "2025-11-02T23:30:00+00:00",
-      "date": "2025-11-02 23:30:00",
-      "importance": 1,
-      "category": "domácí bezpečnost",
-      "urlToImage": "https://www.housedigest.com/img/gallery/the-old-fashioned-door-accessory-that-once-made-homes-safer-if-its-still-available/l-intro-1761822609.jpg",
-      "url": "/tech-news/2025-11-02/the-old-fashioned-door-accessory-that-once-made-ho/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Housedigest.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Dokonalá aplikace pro nákupní seznamy neexistuje",
-      "description": "Hledání ideální aplikace pro plánování jídel a tvorbu nákupních seznamů se ukázalo být složitější, než se zdá. Žádné jednotné řešení neexistuje.",
-      "slug": "the-perfect-grocery-list-making-app-doesnt-exist-t",
-      "publishedAt": "2025-11-02T14:00:00+00:00",
-      "date": "2025-11-02 14:00:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258039_grocery_list_app_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-02/the-perfect-grocery-list-making-app-doesnt-exist-t/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Vědci z University of Surrey napodobují propojení mozku pro zlepšení AI",
       "description": "Výzkumníci vyvinuli novou metodu Topographical Sparse Mapping, která napodobuje strukturu lidského mozku a výrazně snižuje energetickou náročnost neuronových sítí bez ztráty výkonu.",
       "slug": "university-of-surrey-researchers-mimic-brain-wirin",
@@ -4029,27 +4095,6 @@
         "name": "BBC News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Funkce iPhonu, která náhodou pomohla autorovi lépe využívat Android",
-      "description": "Osobní zkušenost uživatele, který po přechodu na iPhone objevil skrytou funkci Androidu díky omezením iOS klávesnice.",
-      "slug": "the-infuriating-iphone-feature-that-accidentally-m",
-      "publishedAt": "2025-11-02T12:09:00+00:00",
-      "date": "2025-11-02 12:09:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/an-angry-android-mascot-peeks-over-an-iphone-keyboard.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-02/the-infuriating-iphone-feature-that-accidentally-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
       "people": []
     },
     {
@@ -4088,47 +4133,6 @@
         "name": "Jalopnik"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Datum uvedení Samsung Galaxy S26 uniklo, spuštění se odkládá",
-      "description": "Samsung údajně představí řadu Galaxy S26 až 25. února v San Franciscu, což znamená zpoždění oproti očekávání.",
-      "slug": "the-samsung-galaxy-s26-launch-date-has-leaked-and-",
-      "publishedAt": "2025-11-02T08:56:00+00:00",
-      "date": "2025-11-02 08:56:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/galaxy-s25-ultra-display-1.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-02/the-samsung-galaxy-s26-launch-date-has-leaked-and-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Samsung",
-        "Android Police"
-      ],
-      "people": []
-    },
-    {
-      "title": "15palcový MacBook Air M3 v akci za výrazně sníženou cenu",
-      "description": "Prodejci vyprodávají starší model MacBook Air s čipem M3, který je nyní dostupný s lepší výbavou za nižší cenu než základní verze nového modelu M4.",
-      "slug": "this-15-inch-macbook-air-deal-makes-upgrading-more",
-      "publishedAt": "2025-11-02T02:35:00+00:00",
-      "date": "2025-11-02 02:35:00",
-      "importance": 2,
-      "category": "notebooky",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/m3-macbook-air-battery-life.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-02/this-15-inch-macbook-air-deal-makes-upgrading-more/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
       "people": []
     }
   ]
