@@ -5,55 +5,63 @@ companies:
 - OpenAI
 - Google
 - Microsoft
+- Apple
+- Meta
 date: '2025-11-07 16:49:53'
-description: Vyšetřování ukazuje, že citlivé dotazy z ChatGPT se objevovaly v Google
-  Search Console a naznačuje, že OpenAI přímo pracuje s daty z Google vyhledávání.
-  OpenAI hlásí opravu „chybného směrování“ dotazů, ale neodpověděla na klíčové otázky
-  ohledně rozsahu a mechanismu problému.
+description: Vyšetřování ukazuje, že osobní dotazy z ChatGPT končily v Google Search
+  Console, což naznačuje možné přímé využití reálných uživatelských promptů při procházení
+  webu a otevírá vážné otázky ohledně ochrany soukromí a datových praktik OpenAI.
 importance: 4
 layout: tech_news_article
 original_title: 'Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics
   tool - Ars Technica'
 people:
-- Sam Altman
 - Elon Musk
 - Tim Cook
+- Satya Nadella
 publishedAt: '2025-11-07T16:49:53+00:00'
 slug: oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i
 source:
   emoji: 🔬
   id: ars-technica
   name: Ars Technica
-title: 'Nejpodivnější úniky ChatGPT: osobní konverzace se objevily v Google Search
-  Console'
+title: 'Nejpodivnější úniky ChatGPT: Citlivé konverzace se objevily v nástroji Google
+  Search Console'
 url: https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/
 urlToImage: https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg
 urlToImageBackup: https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg
 ---
 
 ## Souhrn
-Citlivé a osobní dotazy z ChatGPT se několik měsíců objevovaly v nástroji Google Search Console (GSC), který slouží správcům webů ke sledování návštěvnosti z vyhledávání. Analýza konzultantů naznačuje, že OpenAI využívala uživatelské dotazy v kombinaci s Google Search, což vyvolává závažné otázky ohledně ochrany soukromí a způsobu trénování i provozu velkých jazykových modelů.
+Vyšetřování analytiků odhalilo, že část citlivých konverzací z ChatGPT se objevovala v Google Search Console, nástroji pro sledování vyhledávacího provozu, kde nemají co dělat. Incident naznačuje, že OpenAI při procházení webu zřejmě využívala skutečné uživatelské prompty, což vyvolává zásadní otázky ohledně ochrany soukromí, nakládání s daty a transparentnosti AI platforem.
 
 ## Klíčové body
-- V GSC se od září začaly objevovat extrémně dlouhé dotazy obsahující celé pasáže z konverzací s ChatGPT.
-- Analytici Jason Packer (Quantable) a Slobodan Manić testováním dospěli k závěru, že jde o přímé využívání Google Search s reálnými uživatelskými promptami.
-- OpenAI přiznalo „chybu v routování malého množství dotazů“, tvrdí, že problém vyřešilo, ale odmítlo detailně vysvětlit příčinu a rozsah.
-- Incident zpochybňuje transparentnost OpenAI ohledně práce s uživatelskými daty a externími zdroji.
-- Pro provozovatele webů, firmy i regulátory jde o nový typ rizika: únik promptů a kontextu přes integrační a monitorovací nástroje.
+- Dlouhé a osobní dotazy z ChatGPT se začaly objevovat v Google Search Console od září.
+- Analytici Jason Packer (Quantable) a Slobodan Manić provedli testy, které naznačují přímé použití reálných promptů při procházení Google Search.
+- Zjištění jsou interpretována jako „první definitivní důkaz“, že OpenAI přímo využívá data z Google Search s reálnými uživatelskými vstupy.
+- OpenAI připustila „chybu v směrování dotazů“, tvrdí, že problém vyřešila, ale neposkytla detailní vysvětlení.
+- Událost posiluje tlak na regulaci a auditovatelnost AI služeb z hlediska soukromí a datových toků.
 
 ## Podrobnosti
-Podle zjištění analytika Jasona Packera, který vede konzultační firmu Quantable zaměřenou na webová data a analytiku, se v Google Search Console začaly u některých webů objevovat velmi neobvyklé dotazy. Místo typických krátkých frází z vyhledávání obsahovaly celé věty či odstavce, často přes 300 znaků, psané stylem jasně odpovídajícím promptům pro AI asistenta. Šlo například o žádosti o pomoc s partnerskými problémy, obchodní strategií nebo interní firemní agendou – obsah, který uživatelé typicky vnímají jako důvěrný.
+Podstatou zjištění je, že správci webů začali v Google Search Console (GSC) pozorovat nezvykle dlouhé dotazy, často přes 300 znaků, které neodpovídaly běžnému chování uživatelů vyhledávače. GSC standardně zobrazuje krátké vyhledávací dotazy, které lidé zadávají do Google, aby našli obsah na konkrétním webu. Nově se však objevovaly celé věty a komplexní zadání, jasně psaná jako prompty pro ChatGPT – včetně intimních dotazů o vztazích, interních firemních informací a obchodních strategií.
 
-Packer společně s konzultantem Slobodanem Manićem provedli sérii experimentů. Podle jejich závěrů se podezřelé dotazy chovaly konzistentně s tím, jako by OpenAI či jí využívaná infrastruktura odesílala části uživatelských promptů do Google Search. Cílem může být obohacení odpovědí aktuálními informacemi bez přímého přístupu k interním datům Google. Z technického hlediska jde o scénář, kdy služba AI používá externí vyhledávač jako backend, přičemž části uživatelského vstupu se dostanou do logů Google a následně do GSC daných webů.
+Na problém jako jeden z prvních upozornil Jason Packer, majitel analytické konzultační firmy Quantable, která se zaměřuje na měření a optimalizaci webové návštěvnosti. Ve spolupráci se specialistou na optimalizaci webu Slobodanem Manićem provedli sérii testů. Jejich závěr: úniky vypadají jako vedlejší efekt toho, že OpenAI při procházení webu a generování odpovědí používá skutečné uživatelské prompty, které následně končí jako součást dotazů směrovaných přes infrastrukturu související s Google Search.
 
-OpenAI na dotazy Ars Technica nereagovalo konkrétními technickými detaily. Společnost pouze přiznala existenci problému, popsala ho jako krátkodobou chybu v tom, jak byla „malá část vyhledávacích dotazů směrována“, a tvrdí, že již byla opravena. Nezaznělo však, jak přesně k routování došlo, kolik uživatelů bylo dotčeno, ani zda šlo o vedlejší efekt interních testů integrace s vyhledáváním, nebo součást běžného provozu.
+Podle jejich analýzy tak vznikl vzorec, který může představovat „první jednoznačný důkaz“, že OpenAI nejen trénuje a ladí modely na uživatelských vstupech, ale tyto vstupy mohou být v určitých případech přímo použity v automatizovaných dotazech vůči vyhledávačům. To má dva zásadní důsledky. Za prvé, jde o zjevné riziko pro soukromí – uživatelé očekávají, že jejich konverzace s ChatGPT zůstanou neveřejné a nebudou se objevovat v analytických nástrojích třetích stran. Za druhé, vyvolává to otázky ohledně férového přístupu k datům z vyhledávačů a možného obcházení omezení, která Google uplatňuje vůči externím subjektům.
 
-Provozovatelé webů, kteří úniky zaznamenali, tak získali neúmyslný přístup k cizím citlivým informacím. To vytváří právní i etické riziko, protože prompt může obsahovat osobní údaje, neveřejné obchodní informace nebo interní dokumenty, které uživatelé vkládají do AI nástrojů v domnění, že zůstávají v rámci jedné služby.
+OpenAI na dotazy redakce Ars Technica odpověděla pouze částečně. Firma potvrdila, že o incidentu ví, označila ho za „glitch“, tedy chybu v dočasném směrování malé části dotazů, a tvrdí, že problém byl vyřešen. Odmítla však detailně vysvětlit mechanismus, který k úniku vedl, ani nesdělila, jak velký objem dat byl dotčen a jaké konkrétní ochranné kroky byly zavedeny. Tento nedostatek transparentnosti je pro oblast AI služeb s citlivými daty zásadní problém.
 
 ## Proč je to důležité
-Tento incident odhaluje slabiny v tom, jak jsou nástroje AI integrovány s externími systémy a službami. Ukazuje, že i bez klasického „hacku“ může docházet k únikům promptů přes legitimní kanály, jako jsou vyhledávače nebo analytické nástroje. Pro firmy, které používají AI asistenty k zpracování interních dokumentů, právních materiálů nebo zákaznických dat, je to varování: bez jasně definovaných datových toků, smluvních garancí a technických omezení může být soukromý obsah neúmyslně vystaven třetím stranám.
+Incident zpochybňuje důvěru v to, jak velcí hráči v AI nakládají s uživatelskými daty. Uživatelé vkládají do ChatGPT a podobných nástrojů detailní osobní, pracovně-právní, zdravotní či obchodní informace v domnění, že jsou chráněny a používány pouze v anonymizované podobě pro zlepšování služeb.
 
-Pro OpenAI jde o reputační problém zdůrazňující nedostatečnou transparentnost ohledně využívání uživatelských dat a interakcí s ekosystémem Google. Pro regulátory v EU i jinde je to další argument pro přísnější požadavky na auditovatelnost systémů AI, logování datových toků a vynutitelné limity na to, co se smí dít s promptem po jeho odeslání. Pro celý sektor AI je to signál, že otázka soukromí a bezpečnosti uživatelských dotazů není detail implementace, ale klíčová vlastnost služby, která bude čím dál více ovlivňovat důvěru i obchodní využitelnost těchto technologií.
+Skutečnost, že takové prompty mohou skončit jako součást interních technických procesů směrem k jiným platformám, jako je Google Search, ukazuje na strukturální slabinu: nedostatečně jasně vymezené hranice mezi trénováním modelů, provozními procesy a ochranou soukromí. Pro průmysl to znamená rostoucí tlak na:
+
+- nezávislé audity datových praktik AI firem,
+- striktní režimy oddělení citlivých uživatelských vstupů od provozních nástrojů,
+- transparentnější smluvní podmínky, které jasně popíší, co se s daty děje,
+- regulatorní zásahy (zejména v EU), které budou vyžadovat prokazatelné minimalizování a kontrolu datových toků.
+
+Pro firmy využívající AI asistenty to je varování, že jakýkoli vklad citlivých dat do cloudových AI služeb musí být posuzován stejně přísně jako sdílení s externím dodavatelem: s právními, bezpečnostními a reputačními dopady v případě podobných úniků.
 
 ---
 

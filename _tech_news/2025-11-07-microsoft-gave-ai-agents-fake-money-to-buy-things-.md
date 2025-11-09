@@ -3,11 +3,11 @@ author: Marisa Aigen
 category: ai
 companies:
 - Microsoft
-- Decrypt
 date: '2025-11-07 00:05:13'
-description: Microsoft vytvořil simulovanou ekonomiku se stovkami AI agentů, kteří
-  měli nakupovat a prodávat online. Experiment ukázal, že agenti opakovaně selhávali
-  v základní due diligence a snadno podléhali podvodům.
+description: Microsoft otestoval desítky AI agentů v simulované online ekonomice s
+  cílem ověřit jejich schopnost samostatného rozhodování. Výsledek ukázal, že agenti
+  opakovaně selhávali, nechali se snadno napálit podvody a nebyli schopni spolehlivě
+  chránit prostředky ani plnit jednoduché úkoly.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft Gave AI Agents Fake Money to Buy Things Online. They Spent
@@ -18,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: Decrypt
-title: Microsoft simuloval online tržiště s AI agenty. Virtuální peníze utratili hlavně
+title: Microsoft dal AI agentům falešné peníze. V simulované ekonomice je utratili
   za podvody
 url: https://decrypt.co/347709/microsoft-ai-agents-fake-money-buy-online-they-spent-scams
 urlToImage: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/443150d2-ca4c-4ca4-9240-b52432c00026-gID_7.png
@@ -26,28 +26,25 @@ urlToImageBackup: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploa
 ---
 
 ## Souhrn
-Microsoft otestoval schopnosti AI agentů v simulovaném online tržišti, kde jim přidělil virtuální rozpočty a role kupujících či prodejců. Výsledek: agenti systematicky selhávali v ověřování protistran, často se nechali nachytat na zjevné podvody a neprojevili spolehlivé ekonomické chování.
+Microsoft vytvořil simulovanou online ekonomiku, ve které desítky AI agentů vystupovaly jako kupující a prodejci s omezeným rozpočtem a přístupem k webovým tržištím. Cílem bylo ověřit, zda jsou současné autonomní AI systémy schopné samostatně nakupovat, vyhodnocovat rizika a vyhýbat se podvodům. Experiment skončil tím, že agenti opakovaně selhávali v základních úkolech, utráceli prostředky v podvodných nabídkách a nedokázali rozpoznat zjevné zneužití.
 
 ## Klíčové body
-- Microsoft vybudoval uzavřenou simulovanou ekonomiku s desítkami až stovkami AI agentů, kteří mezi sebou obchodovali za virtuální měnu.
-- Cílem bylo otestovat, jak se autonomní AI agenti rozhodují při běžných úkolech online nákupu a prodeje.
-- Agenti se opakovaně nechali oklamat nedůvěryhodnými nabídkami, ignorovali signály podvodu a selhali v základním ověřování informací.
-- Experiment ukazuje zásadní limity současných modelů při autonomním jednání v prostředí plném manipulací a asymetrie informací.
-- Zjištění je relevantní pro nasazení AI agentů v e‑commerce, finančním sektoru, zákaznické podpoře i automatizaci nákupních procesů.
+- Microsoft postavil uzavřenou simulaci trhu s falešnými penězi, kde AI agenti měli samostatně nakupovat a prodávat.
+- Agenti se ukázali jako vysoce zranitelní vůči podvodům, phishingu a nevalidním nabídkám.
+- Výsledky zpochybňují připravenost současných „autonomních“ AI agentů pro finanční i provozní nasazení bez silných pojistek.
+- Studie podtrhuje potřebu robustních bezpečnostních mechanismů, ověřování zdrojů a lidského dohledu.
 
 ## Podrobnosti
-Microsoft ve svém experimentu vytvořil kontrolované virtuální tržiště, v němž AI agenti vystupovali jako kupující i prodejci s předem daným rozpočtem ve „falešných“ penězích. Tito agenti byli založeni na současných velkých jazykových modelech a jejich úkolem bylo provádět relativně jednoduché transakce: hledat produkty, vyhodnocovat nabídky, vyjednávat podmínky a rozhodovat, od koho nakoupit.
+Microsoft ve studii (publikované formou technického reportu) popsal experiment, v němž vytvořil uzavřenou simulovanou ekonomiku připomínající běžné internetové tržiště. V této simulaci fungovaly stovky AI agentů jako kupující nebo prodejci. Každý agent měl přidělený konkrétní úkol (například koupit určité zboží v daném rozpočtu, maximalizovat zisk, vyhodnotit nabídky na trhu) a omezené množství virtuálních prostředků. Agenti měli přístup k textovým popisům nabídek, hodnocením, pravidlům trhu a mohli mezi sebou komunikovat, podobně jako by pracovali s reálnými webovými službami přes API.
 
-Namísto racionálního, obezřetného chování se však ukázalo, že agenti snadno podléhají podvodným strategiím. Často preferovali nabídky s nerealisticky výhodnými podmínkami, ignorovali varovné signály v popisu zboží či historii prodejce a jen omezeně využívali dostupné informace k ověření důvěryhodnosti protistrany. V některých scénářích agenti opakovaně směrovali prostředky k evidentně „scam“ účtům, i když měli přístup k datům, která by lidskému uživateli stačila k odmítnutí transakce.
+Výzkumníci do prostředí záměrně vložili podvodné inzeráty, nerealistické sliby výnosů, falešné identity a scénáře, které připomínají běžné online podvody v kryptoměnách a e-commerce. Zjištění byla konzistentní: agenti nebyli schopni systematicky rozlišit důvěryhodné a podvodné nabídky, často ignorovali varovné signály, špatně vyhodnocovali riziko a v řadě případů utratili značnou část prostředků za zjevně nevýhodné nebo fiktivní transakce. Ukázalo se také, že agenti nedokázali efektivně spolupracovat na ověřování informací, snadno podlehli manipulativním popisům a vykazovali naivní důvěru v textové vstupy, které nebyly nijak nezávisle ověřeny.
 
-Simulace rovněž ukázala, že současné AI modely mají problém konzistentně sledovat dlouhodobé cíle (například maximalizaci užitku v rámci rozpočtu) a systematicky hodnotit riziko. Namísto robustní strategie se chování agentů často rozpadalo na ad hoc rozhodnutí závislá na formulaci textového vstupu. To je podstatné, protože mnoho firem plánuje AI agenty využívat pro autonomní nákup služeb, správu objednávek, dynamické cenotvorby či finanční rozhodování přes API rozhraní bez přímé lidské kontroly.
-
-Z hlediska bezpečnosti experiment potvrzuje, že samotná schopnost generovat „rozumně znějící“ text neznamená schopnost bezpečně jednat v prostředí, kde existují úmyslné podvody a strategičtí protivníci.
+Pro uživatele a firmy je klíčové, že experiment nehodnotí teoretickou inteligenci modelů, ale praktickou spolehlivost autonomních AI agentů při rozhodování v prostředí s ekonomikou, pobídkami a protihráči. Výsledky ukazují, že současné generativní modely, i když jsou schopné přesvědčivého jazyka a základního plánování, se v otevřených nebo polootvorených systémech chovají nepředvídatelně a jsou velmi snadno zneužitelné. To je kritické zejména v kontextu vizí „AI agentů“, kteří mají samostatně spravovat nákupy, investice, zákaznickou podporu nebo provozní agendy.
 
 ## Proč je to důležité
-Výsledky jsou varováním pro firmy, které uvažují o plně autonomních AI agentech pro finanční operace, obchodování, správu reklamních rozpočtů nebo řízení dodavatelských řetězců. Ukazuje se, že bez dodatečných kontrolních mechanismů, formálních pravidel, omezení pravomocí a robustních systémů detekce podvodů je nasazení těchto agentů rizikové.
+Tento experiment přichází v době, kdy velcí hráči jako Microsoft, OpenAI, Google a další agresivně propagují koncept autonomních AI agentů pro obchod, zákaznické služby a automatizaci firemních procesů. Zjištění Microsoftu naznačují, že současné modely nejsou bezpečné pro plně autonomní nakládání s financemi ani kritickými operacemi bez přísných omezení, auditních logů a víceúrovňového ověřování. Ukazuje se, že bez robustních kontrolních mechanismů mohou být AI agenti snadno manipulováni útočníky, podvodnými nabídkami či nekorektními daty, což v reálném prostředí může znamenat finanční ztráty, porušení regulací i reputační škody.
 
-Pro širší ekosystém AI je to konkrétní důkaz, že současné modely nejsou připravené na spolehlivou roli v komplexních ekonomických systémech. Diskuse o tzv. AI agentech, kteří budou samostatně vyřizovat platby, uzavírat smlouvy a spravovat zdroje, musí brát v úvahu, že modely neumějí přirozeně chápat motivace protivníka, ekonomické incentivy ani konsekvence podvodu. Pro uživatele a regulátory to znamená, že tlak na auditovatelnost, transparentní omezení autonomie a simulované testování v nepřátelském prostředí není doplněk, ale nezbytný předpoklad bezpečného nasazení.
+Studie tak funguje jako protiváha marketingovým tvrzením o „inteligentních“ agentech a podtrhuje nutnost regulace, bezpečnostních standardů a povinného lidského dohledu u AI systémů, které mají přístup k účtům, smlouvám, objednávkám či interním systémům. Pro průmysl je to signál, že nasazení AI agentů musí být postupné, řízené a technicky i procesně zabezpečené, nikoli založené na předpokladu, že modely samy o sobě zvládnou fungovat jako racionální a spolehliví ekonomičtí aktéři.
 
 ---
 
