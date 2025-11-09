@@ -1,7 +1,29 @@
 {
-  "generated": "2025-11-09T01:03:04.203702+00:00",
+  "generated": "2025-11-09T04:22:52.581736+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: sleva na Galaxy S25 Ultra, OLED TV Samsung a další klíčové nabídky",
+      "description": "Best Buy v rámci druhého týdne Black Friday Doorbusters představuje výrazné slevy na prémiové smartphony, OLED televizory a domácí spotřebiče. Akce je časově omezená na víkend a navazuje na agresivní cenovou strategii před hlavním Black Friday.",
+      "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
+      "publishedAt": "2025-11-07T22:25:00+00:00",
+      "date": "2025-11-07 22:25:00",
+      "importance": 3,
+      "category": "spotřební elektronik",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/best-buy-week-2-black-friday-doorbusters-now-live-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [
+        "Best Buy",
+        "Samsung",
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Samsung představí LPDDR6 paměti s přenosovou rychlostí 10,7 Gbps na CES 2026",
       "description": "Samsung na veletrhu CES 2026 ukáže první LPDDR6 DRAM čipy vyráběné 12nm technologií s rychlostí až 10,7 Gbps na pin, přičemž komerční nasazení plánuje v následujícím roce. Nové paměti cílí na mobilní zařízení, výkonné čipy pro AI a automobilový sektor.",
@@ -23,8 +45,8 @@
       "people": []
     },
     {
-      "title": "Neobvyklý městský komplex v jedné z nejfotografovanějších ulic New Yorku míří na trh za 30 milionů dolarů",
-      "description": "Na ikonické Staple Street v newyorské čtvrti Tribeca se na trh dostává vzácný dvoubudovový rezidenčně‑pracovní komplex filmaře Neila Burgera a architektky Diany Kellogg za 30 milionů dolarů. Historický objekt kombinuje městské bydlení, ateliér a kancelář ve velmi omezené a vyhledávané lokalitě.",
+      "title": "Unikátní obytný komplex na ikonické Staple Street v New Yorku míří na trh za 30 milionů dolarů",
+      "description": "Filmař Neil Burger a architektka Diana Kellogg prodávají své propojené městské sídlo v Tribecce, tvořené historickým měšťanským domem a studiem naproti přes uličku Staple Street, za zhruba 30 milionů dolarů.",
       "slug": "an-uncommon-compound-on-one-of-nycs-most-photograp",
       "publishedAt": "2025-11-07T18:59:00+00:00",
       "date": "2025-11-07 18:59:00",
@@ -65,12 +87,12 @@
       "people": []
     },
     {
-      "title": "Co dělá Elon Musk se svým majetkem?",
-      "description": "Miliardář Elon Musk deklaruje relativně střídmý osobní život, ale zároveň investuje do luxusních aut, soukromých tryskáčů a nákupu Twitteru, přičemž postupně prodal své rozsáhlé realitní portfolio.",
+      "title": "Jak Elon Musk utrácí své peníze",
+      "description": "Elon Musk, aktuálně nejbohatší člověk na světě, tvrdí, že navzdory svému majetku žije relativně skromně, zatímco významné prostředky směřuje do technologií, kosmických projektů a soukromých akvizic.",
       "slug": "what-does-elon-musk-do-with-all-his-money-bbc",
       "publishedAt": "2025-11-07T17:29:23+00:00",
       "date": "2025-11-07 17:29:23",
-      "importance": 2,
+      "importance": 1,
       "category": "byznys",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg",
       "url": "/tech-news/2025-11-07/what-does-elon-musk-do-with-all-his-money-bbc/",
@@ -80,23 +102,69 @@
         "name": "BBC News"
       },
       "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
         "Tesla",
-        "SpaceX"
+        "SpaceX",
+        "OpenAI",
+        "Apple",
+        "Google"
       ],
       "people": [
         "Elon Musk"
       ]
     },
     {
-      "title": "Nová Siri by mohla běžet na Google AI: praktický krok, ale s otázkami kolem nezávislosti a soukromí",
-      "description": "Apple údajně finalizuje dohodu s Google o využití jejich rozsáhlého AI modelu (1,2 bilionu parametrů) pro zásadní přepracování Siri. Tento krok může posílit schopnosti asistenta, ale otevírá otázky ohledně technologické závislosti a ochrany soukromí uživatelů.",
+      "title": "Nejpodivnější úniky ChatGPT: citlivé konverzace se objevily v nástroji Google Search Console",
+      "description": "Měsíce unikaly osobní dotazy uživatelů ChatGPT do Google Search Console, což naznačuje problematické zpracování uživatelských vstupů a možné přímé skenování Googlu ze strany OpenAI.",
+      "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
+      "publishedAt": "2025-11-07T16:49:53+00:00",
+      "date": "2025-11-07 16:49:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg",
+      "url": "/tech-news/2025-11-07/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Apple",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "YouTube blokuje načítání videí uživatelům s adblocky: technická chyba, nebo další krok v boji proti blokování reklam?",
+      "description": "Část uživatelů zaznamenala, že se jim YouTube s aktivním blokováním reklam nenačítá nebo zobrazuje téměř prázdnou stránku. Problém ukazuje, jak vyhrocený je konflikt mezi YouTube a nástroji pro blokování reklam a jak může technická změna ovlivnit vnímání dostupnosti celé platformy.",
+      "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
+      "publishedAt": "2025-11-07T16:40:00+00:00",
+      "date": "2025-11-07 16:40:00",
+      "importance": 3,
+      "category": "online reklama",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/youtube-suddenly-stopped-loading-for-some-users-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "YouTube",
+        "Google",
+        "9to5Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Spekulace: Nová Siri může běžet na AI modelu od Googlu",
+      "description": "Podle zpráv Apple jedná s Googlem o využití rozsáhlého jazykového modelu pro zásadní vylepšení Siri, která má být konečně konkurenceschopná vůči dnešním AI asistentům.",
       "slug": "new-siri-rumor-could-give-apple-and-users-exactly-",
       "publishedAt": "2025-11-07T14:34:00+00:00",
       "date": "2025-11-07 14:34:00",
-      "importance": 4,
+      "importance": 2,
       "category": "ai",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-07/new-siri-rumor-could-give-apple-and-users-exactly-/",
@@ -110,6 +178,7 @@
         "Google"
       ],
       "people": [
+        "Elon Musk",
         "Tim Cook",
         "Sundar Pichai"
       ]
@@ -136,8 +205,8 @@
       "people": []
     },
     {
-      "title": "Apple zvažuje levný notebook s čipem z iPhonu a otevírá otázky budoucnosti Maců",
-      "description": "Podcast The Vergecast rozebírá spekulace o levném Macu s čipem z iPhonu, návrat konceptu iBook, střet Amazonu a Perplexity kolem AI nákupních agentů a širší dopady na podobu webu a ekosystém osobní elektroniky.",
+      "title": "Apple zvažuje levný notebook s čipem z iPhonu. Návrat konceptu iBook ukazuje na chaos v produktové strategii",
+      "description": "Apple podle informací zvažuje levnější notebook s čipem z iPhonu jako odpověď na tlak levných zařízení a nárůst AI asistentů, zatímco probíhající spor Amazonu a Perplexity ukazuje, jak se mění způsob vyhledávání a nakupování na webu.",
       "slug": "bring-back-the-ibook-you-cowards-the-verge",
       "publishedAt": "2025-11-07T14:10:27+00:00",
       "date": "2025-11-07 14:10:27",
@@ -158,10 +227,54 @@
         "Microsoft"
       ],
       "people": [
-        "Tim Cook",
         "Elon Musk",
-        "Jeff Bezos"
+        "Tim Cook",
+        "Satya Nadella"
       ]
+    },
+    {
+      "title": "Windows 11 verze 26H1: Speciální vydání systému pro novou generaci čipů",
+      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě Bromine, určenou primárně pro zařízení s novými procesory Snapdragon X2 a NVIDIA N1X v první polovině roku 2026.",
+      "slug": "windows-11-version-26h1-everything-we-know-so-far-",
+      "publishedAt": "2025-11-07T13:16:13+00:00",
+      "date": "2025-11-07 13:16:13",
+      "importance": 3,
+      "category": "software",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg",
+      "url": "/tech-news/2025-11-07/windows-11-version-26h1-everything-we-know-so-far-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chcete méně závislé děti na mobilech? Začněte vlastními technologickými hranicemi",
+      "description": "Výzkumy i praxe ukazují, že klíčovým faktorem pro zdravý vztah dětí k technologiím není jen rodičovská kontrola, ale především osobní digitální návyky rodičů. Článek shrnuje, jak nastavit realistická pravidla, která děti vidí v každodenním chování dospělých.",
+      "slug": "want-less-screen-obsessed-kids-set-better-tech-bou",
+      "publishedAt": "2025-11-07T10:00:00+00:00",
+      "date": "2025-11-07 10:00:00",
+      "importance": 3,
+      "category": "výchova",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+1123/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F4b%2F46232ca44d00b76e646f9d83e83a%2Flk-parents-screen-time-phone-use-drowning-mental-health-high-res-pool.jpg",
+      "url": "/tech-news/2025-11-07/want-less-screen-obsessed-kids-set-better-tech-bou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "NPR"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Facebook",
+        "Instagram",
+        "TikTok"
+      ],
+      "people": []
     },
     {
       "title": "Nejasná budoucnost NVIDIA GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 pamětí",
@@ -185,13 +298,13 @@
       "people": []
     },
     {
-      "title": "Zákeřné VS Code rozšíření s AI generovaným kódem obsahovalo vestavěné ransomwarové funkce",
-      "description": "Odhalení škodlivého rozšíření pro VS Code a falešných balíčků v registru npm ukazuje, jak útočníci zneužívají důvěru v open-source ekosystém, automatizované nástroje a AI k šíření ransomwaru a krádeži dat.",
+      "title": "AI-generované škodlivé rozšíření pro VS Code má vestavěné funkce ransomwaru",
+      "description": "Nově odhalené škodlivé rozšíření pro VS Code a falešné balíčky v npm ukazují, jak útočníci zneužívají důvěru v otevřený software a nástroje pro vývojáře, včetně využití AI k automatizaci tvorby sofistikovaného malwaru.",
       "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
       "publishedAt": "2025-11-07T06:48:00+00:00",
       "date": "2025-11-07 06:48:00",
       "importance": 3,
-      "category": "kybernetika",
+      "category": "kyberbezpečnost",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s790-rw-e365/vide-code-ransomware.jpg",
       "url": "/tech-news/2025-11-07/vibe-coded-malicious-vs-code-extension-found-with-/",
       "source": {
@@ -200,7 +313,11 @@
         "name": "Internet"
       },
       "companies": [
-        "Microsoft"
+        "Microsoft",
+        "OpenAI",
+        "GitHub",
+        "Amazon Web Services",
+        "Google"
       ],
       "people": []
     },
@@ -268,8 +385,8 @@
       "people": []
     },
     {
-      "title": "IKEA představuje 21 chytrých produktů s podporou Matter a Apple Home",
-      "description": "IKEA rozšiřuje nabídku chytré domácnosti o 21 nových produktů s podporou Matter-over-Thread, kompatibilních s Apple HomeKit. Nové žárovky, senzory a ovladače mají zjednodušit integraci osvětlení, měření kvality vzduchu a automatizaci domácnosti napříč ekosystémy.",
+      "title": "IKEA uvádí 21 chytrých zařízení s podporou Matter a Apple Home",
+      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení s podporou Matter-over-Thread, včetně žárovek, senzorů, zásuvek a ovladačů, které budou kompatibilní s Apple Home a dalšími ekosystémy.",
       "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
       "publishedAt": "2025-11-07T00:08:24+00:00",
       "date": "2025-11-07 00:08:24",
@@ -284,8 +401,7 @@
       },
       "companies": [
         "IKEA",
-        "Apple",
-        "MacRumors"
+        "Apple"
       ],
       "people": []
     },
@@ -412,6 +528,30 @@
       "people": []
     },
     {
+      "title": "Nejzajímavější předběžné Black Friday slevy na notebooky, televize a další techniku",
+      "description": "Velcí prodejci spouštějí výrazné slevy na notebooky, 4K/OLED televize, wearables a spotřební elektroniku ještě před oficiálním Black Friday. Článek shrnuje první vlnu konkrétních nabídek a naznačuje, jaké trendy lze čekat v listopadu.",
+      "slug": "the-best-early-black-friday-deals-weve-found-so-fa",
+      "publishedAt": "2025-11-06T19:44:46+00:00",
+      "date": "2025-11-06 19:44:46",
+      "importance": 3,
+      "category": "nákupní slevy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0021.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-06/the-best-early-black-friday-deals-weve-found-so-fa/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
       "title": "GeForce RTX 5070 zlevňuje na 480 dolarů, Intel Arc B580 klesá na 235 dolarů: agresivní slevy 12GB GPU před Black Friday",
       "description": "NVIDIA a Intel zrychlují cenovou konkurenci před Black Friday: GeForce RTX 5070 12GB se propadá na 480 dolarů, zatímco Intel Arc B580 12GB se nabízí za 235 dolarů, což mění poměr cena/výkon ve střední třídě GPU.",
       "slug": "geforce-rtx-5070-drops-to-record-low-480-arc-b580-",
@@ -493,8 +633,8 @@
       "people": []
     },
     {
-      "title": "Co se pokazilo mezi NASA a SpaceX? Znovuotevření kontraktu na měsíční lander ukazuje limity Starship",
-      "description": "NASA kvůli zpožděním programu Starship znovu otevírá kontrakt na lunární lander pro misi Artemis III, což oslabuje dosud výsadní postavení SpaceX a vytváří prostor pro konkurenci typu Blue Origin.",
+      "title": "Co se pokazilo mezi NASA a SpaceX? Znovuotevření lunárního kontraktu odhaluje rizika Starship",
+      "description": "NASA kvůli zpožděním programu Starship znovuotevřela klíčový kontrakt na lunární lander pro misi Artemis III konkurentům, včetně Blue Origin. Rozhodnutí odráží technická rizika, regulatorní tlak i strategickou snahu nespoléhat se na jediného komerčního partnera.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
       "publishedAt": "2025-11-06T17:49:59+00:00",
       "date": "2025-11-06 17:49:59",
@@ -668,12 +808,12 @@
       "people": []
     },
     {
-      "title": "Google Maps získává významný upgrade s Gemini: 4 nové AI funkce pro navigaci",
-      "description": "Google integruje model Gemini přímo do Google Maps a přidává konverzační ovládání, vizuální asistenci a chytřejší navigační pokyny. Cílem je bezpečnější a efektivnější používání map během jízdy i při hledání míst v okolí.",
+      "title": "Google Maps dostávají velký upgrade s Gemini: 4 nové funkce s AI pro navigaci",
+      "description": "Google integruje model Gemini přímo do Google Maps a přidává hlasové konverzace, chytřejší hledání míst, lepší práci s kontextem trasy a navigaci podle viditelných orientačních bodů. Cílem je přeměnit Mapy na asistenta, který aktivně pomáhá během jízdy i plánování cest.",
       "slug": "google-maps-just-got-a-big-gemini-upgrade-here-are",
       "publishedAt": "2025-11-06T13:14:37+00:00",
       "date": "2025-11-06 13:14:37",
-      "importance": 3,
+      "importance": 4,
       "category": "ai",
       "urlToImage": "https://www.bgr.com/img/gallery/google-maps-just-got-a-big-gemini-upgrade-here-are-4-new-ai-features/l-intro-1762434534.jpg",
       "url": "/tech-news/2025-11-06/google-maps-just-got-a-big-gemini-upgrade-here-are/",
@@ -771,13 +911,13 @@
       "people": []
     },
     {
-      "title": "Navrhované změny Androidu nezachrání sideloading, ale otevřou trh aplikací konkurenci",
-      "description": "Google po urovnání sporu s Epic plánuje významné změny v distribuci aplikací na Androidu, které posílí konkurenci mezi obchody s aplikacemi, ale nezruší omezení sideloadingu ani nadcházející ověřování vývojářů.",
+      "title": "Navrhované změny Androidu od Googlu neposílí sideloading, ale otevřou prostor konkurenci obchodů s aplikacemi",
+      "description": "Google v rámci urovnání sporu s Epic plánuje zásadní úpravy Androidu, které mají zjednodušit instalaci certifikovaných alternativních obchodů s aplikacemi. Přesto však zpřísní ověřování vývojářů a zachová omezení sideloadingu, což může ohrozit menší a komunitní platformy.",
       "slug": "googles-proposed-android-changes-wont-save-sideloa",
       "publishedAt": "2025-11-06T12:32:53+00:00",
       "date": "2025-11-06 12:32:53",
       "importance": 3,
-      "category": "mobilní aplikace",
+      "category": "android",
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg",
       "url": "/tech-news/2025-11-06/googles-proposed-android-changes-wont-save-sideloa/",
       "source": {
@@ -786,11 +926,7 @@
         "name": "Android Authority"
       },
       "companies": [
-        "Google",
-        "Apple",
-        "Microsoft",
-        "Meta",
-        "Amazon"
+        "Google"
       ],
       "people": []
     },
@@ -3753,26 +3889,6 @@
       "people": []
     },
     {
-      "title": "Propagační nabídka Windows 11 Pro za sníženou cenu",
-      "description": "Mashable propaguje prodej licencí Windows 11 Pro za 9,97 dolaru místo běžných 199 dolarů.",
-      "slug": "make-your-dusty-old-pc-feel-brand-new-for-just-15-",
-      "publishedAt": "2025-11-02T23:12:46+00:00",
-      "date": "2025-11-02 23:12:46",
-      "importance": 1,
-      "category": "operační systémy",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01DgNZsVyHcjInSiLPPNB7D/hero-image.fill.size_1200x675.v1761920108.jpg",
-      "url": "/tech-news/2025-11-02/make-your-dusty-old-pc-feel-brand-new-for-just-15-/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Přestaňte stahovat software z webů: Windows má vestavěný správce balíčků",
       "description": "Instalace aplikací z internetu může být nebezpečná, ale správce balíčků toto riziko výrazně snižuje. Windows má takový nástroj vestavěný přímo v systému.",
       "slug": "stop-downloading-software-from-websites-windows-ha",
@@ -3854,52 +3970,6 @@
       "people": []
     },
     {
-      "title": "OnePlus 15 a Ace 6 debutují v Číně, Moto Edge 70 je oficiální - týdenní přehled",
-      "description": "OnePlus představil dlouho očekávané modely OnePlus 15 a Ace 6 s masivními bateriemi a 165Hz displeji. Motorola uvedla Edge 70 na globální trh a Nothing představilo první vstupní model Phone (3a) Lite.",
-      "slug": "oneplus-15-and-ace-6-debut-in-china-moto-edge-70-i",
-      "publishedAt": "2025-11-02T14:33:02+00:00",
-      "date": "2025-11-02 14:33:02",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/10/week-44-in-review/-952x498w6/gsmarena_001.jpg",
-      "url": "/tech-news/2025-11-02/oneplus-15-and-ace-6-debut-in-china-moto-edge-70-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "companies": [
-        "OnePlus",
-        "Xiaomi",
-        "Motorola"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nová verze Siri má využívat Google Gemini",
-      "description": "Podle Marka Gurmana z Bloombergu plánuje Apple v březnu 2026 představit přepracovanou Siri, která bude v pozadí využívat vlastní model založený na Google Gemini.",
-      "slug": "new-version-of-siri-to-lean-on-google-gemini-macru",
-      "publishedAt": "2025-11-02T14:06:07+00:00",
-      "date": "2025-11-02 14:06:07",
-      "importance": 2,
-      "category": "ai asistenti",
-      "urlToImage": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
-      "url": "/tech-news/2025-11-02/new-version-of-siri-to-lean-on-google-gemini-macru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Bloomberg"
-      ],
-      "people": [
-        "Mark Gurman"
-      ]
-    },
-    {
       "title": "Dokonalá aplikace pro nákupní seznamy neexistuje",
       "description": "Hledání ideální aplikace pro plánování jídel a tvorbu nákupních seznamů se ukázalo být složitější, než se zdá. Žádné jednotné řešení neexistuje.",
       "slug": "the-perfect-grocery-list-making-app-doesnt-exist-t",
@@ -3916,29 +3986,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Nový Apple TV a HomePod mini by mohly dorazit brzy, ale pravděpodobnost je nízká",
-      "description": "Apple údajně připravuje změny v prodejnách na 12. listopadu, ale nové produkty pravděpodobně nedorazí před koncem roku.",
-      "slug": "report-new-apple-tv-and-homepod-mini-could-launch-",
-      "publishedAt": "2025-11-02T13:36:00+00:00",
-      "date": "2025-11-02 13:36:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-02/report-new-apple-tv-and-homepod-mini-could-launch-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Bloomberg"
-      ],
-      "people": [
-        "Mark Gurman"
-      ]
     },
     {
       "title": "Luxusní kondominiumy v Miami lákají kupce na závodní simulátory Formule 1",
@@ -3998,24 +4045,6 @@
       "people": []
     },
     {
-      "title": "Fyzici vytvořili teploměr pro měření kvantovosti",
-      "description": "Anomální tok tepla, který zdánlivě porušuje druhý termodynamický zákon, umožňuje fyzikům detekovat kvantové provázání bez jeho zničení.",
-      "slug": "physicists-create-a-thermometer-for-measuring-quan",
-      "publishedAt": "2025-11-02T12:00:00+00:00",
-      "date": "2025-11-02 12:00:00",
-      "importance": 4,
-      "category": "kvantová fyzika",
-      "urlToImage": "https://media.wired.com/photos/68f0e670ac914813c3e7b315/191:100/w_1280,c_limit/Quantum-2nd-Law-cr-Daniel-Garcia-Lede.jpeg",
-      "url": "/tech-news/2025-11-02/physicists-create-a-thermometer-for-measuring-quan/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč je vaše televize pravděpodobně špatná volba a jak to napravit",
       "description": "Vědecký výzkum ukazuje, že většina lidí sedí příliš daleko od svých 4K televizorů, aby viděla rozdíl oproti Full HD. 8K televize jsou pro běžné použití zbytečné.",
       "slug": "why-your-tv-is-probably-the-wrong-choice-and-how-t",
@@ -4051,26 +4080,6 @@
         "name": "Jalopnik"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "MacBook Air z roku 2017 v prodeji za 180 dolarů",
-      "description": "Mashable nabízí renovovaný MacBook Air z roku 2017 za zlomek původní ceny. Jde o běžnou propagaci starého hardwaru.",
-      "slug": "score-a-macbook-air-for-less-than-200-mashable",
-      "publishedAt": "2025-11-02T10:00:00+00:00",
-      "date": "2025-11-02 10:00:00",
-      "importance": 1,
-      "category": "hardware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05q8AJ1wDYKuIAF2To4982F/hero-image.fill.size_1200x675.v1761919661.jpg",
-      "url": "/tech-news/2025-11-02/score-a-macbook-air-for-less-than-200-mashable/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Apple"
-      ],
       "people": []
     },
     {
