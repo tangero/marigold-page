@@ -1,15 +1,77 @@
 {
-  "generated": "2025-11-08T20:21:06.474876+00:00",
+  "generated": "2025-11-09T01:03:04.203702+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Jak Elon Musk nakládá se svým majetkem",
-      "description": "Elon Musk, první člověk s majetkem přes 500 miliard dolarů, veřejně zdůrazňuje relativně skromný životní styl, zatímco investuje do nemovitostí, letectví, automobilů a velkých technologických projektů, včetně nákupu Twitteru.",
+      "title": "Samsung představí LPDDR6 paměti s přenosovou rychlostí 10,7 Gbps na CES 2026",
+      "description": "Samsung na veletrhu CES 2026 ukáže první LPDDR6 DRAM čipy vyráběné 12nm technologií s rychlostí až 10,7 Gbps na pin, přičemž komerční nasazení plánuje v následujícím roce. Nové paměti cílí na mobilní zařízení, výkonné čipy pro AI a automobilový sektor.",
+      "slug": "samsung-confirms-lpddr6-memory-with-107-gbps-bandw",
+      "publishedAt": "2025-11-07T19:14:00+00:00",
+      "date": "2025-11-07 19:14:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/SAMSUNG-LPDDR6-HERO-2.jpg",
+      "url": "/tech-news/2025-11-07/samsung-confirms-lpddr6-memory-with-107-gbps-bandw/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "SAMSUNG"
+      ],
+      "people": []
+    },
+    {
+      "title": "Neobvyklý městský komplex v jedné z nejfotografovanějších ulic New Yorku míří na trh za 30 milionů dolarů",
+      "description": "Na ikonické Staple Street v newyorské čtvrti Tribeca se na trh dostává vzácný dvoubudovový rezidenčně‑pracovní komplex filmaře Neila Burgera a architektky Diany Kellogg za 30 milionů dolarů. Historický objekt kombinuje městské bydlení, ateliér a kancelář ve velmi omezené a vyhledávané lokalitě.",
+      "slug": "an-uncommon-compound-on-one-of-nycs-most-photograp",
+      "publishedAt": "2025-11-07T18:59:00+00:00",
+      "date": "2025-11-07 18:59:00",
+      "importance": 1,
+      "category": "nemovitosti",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/newspress-collage-2oy7er45t-1762542989450.jpg?quality=75&strip=all&1762525060&w=1200",
+      "url": "/tech-news/2025-11-07/an-uncommon-compound-on-one-of-nycs-most-photograp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Best Buy spouští předčasné slevy na Black Friday: tablety od 49 dolarů, velké TV od 69 dolarů",
+      "description": "Americký řetězec Best Buy odstartoval v předstihu slevy na Black Friday, které zahrnují levné tablety, notebooky, velkoformátové 4K a OLED televizory a spotřebiče. Nabídky jsou primárně relevantní pro americký trh, ale ukazují cenový tlak v segmentu spotřební elektroniky.",
+      "slug": "best-buy-just-dropped-tons-of-early-black-friday-d",
+      "publishedAt": "2025-11-07T18:26:20+00:00",
+      "date": "2025-11-07 18:26:20",
+      "importance": 1,
+      "category": "spotřební elektronik",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VoQ8YGbFgUK65Y69iXdKa5-2000-80.jpg",
+      "url": "/tech-news/2025-11-07/best-buy-just-dropped-tons-of-early-black-friday-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [
+        "Best Buy",
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co dělá Elon Musk se svým majetkem?",
+      "description": "Miliardář Elon Musk deklaruje relativně střídmý osobní život, ale zároveň investuje do luxusních aut, soukromých tryskáčů a nákupu Twitteru, přičemž postupně prodal své rozsáhlé realitní portfolio.",
       "slug": "what-does-elon-musk-do-with-all-his-money-bbc",
       "publishedAt": "2025-11-07T17:29:23+00:00",
       "date": "2025-11-07 17:29:23",
       "importance": 2,
-      "category": "osobnosti tech",
+      "category": "byznys",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg",
       "url": "/tech-news/2025-11-07/what-does-elon-musk-do-with-all-his-money-bbc/",
       "source": {
@@ -18,11 +80,11 @@
         "name": "BBC News"
       },
       "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
         "Tesla",
-        "SpaceX",
-        "OpenAI",
-        "Twitter",
-        "SolarCity"
+        "SpaceX"
       ],
       "people": [
         "Elon Musk"
@@ -53,8 +115,8 @@
       ]
     },
     {
-      "title": "Chybná cena na webu Applu nabízela balení 4 AirTagů za 29 dolarů, objednávky byly zrušeny",
-      "description": "Na oficiálním webu Applu se krátkodobě objevila chybně uvedená cena, kdy čtyřbalení AirTagů stálo stejně jako jeden kus. Apple chybu rychle opravil a začal objednávky rušit.",
+      "title": "Chybná cena na webu Applu nabídla balení 4 AirTagů za 29 dolarů, objednávky byly zrušeny",
+      "description": "Na oficiálním webu Applu se krátce objevila chyba, kdy bylo balení čtyř AirTagů naceněno na 29 dolarů místo standardních 99. Apple cenu rychle opravil a začal rušit chybně provedené objednávky.",
       "slug": "apples-website-lists-airtag-4-pack-for-29-in-likel",
       "publishedAt": "2025-11-07T14:21:00+00:00",
       "date": "2025-11-07 14:21:00",
@@ -74,8 +136,8 @@
       "people": []
     },
     {
-      "title": "Apple zvažuje levný notebook s čipem z iPhonu: návrat konceptu iBook a boj o budoucnost webu",
-      "description": "Apple podle zpráv připravuje levný notebook s mobilním čipem, zatímco Amazon a Perplexity soupeří o to, kdo ovládne nákupní doporučování pomocí AI. Diskuse ukazuje, jak se mění strategie hardwaru, webu i způsobu, jakým uživatelé přistupují k informacím a e‑shopům.",
+      "title": "Apple zvažuje levný notebook s čipem z iPhonu a otevírá otázky budoucnosti Maců",
+      "description": "Podcast The Vergecast rozebírá spekulace o levném Macu s čipem z iPhonu, návrat konceptu iBook, střet Amazonu a Perplexity kolem AI nákupních agentů a širší dopady na podobu webu a ekosystém osobní elektroniky.",
       "slug": "bring-back-the-ibook-you-cowards-the-verge",
       "publishedAt": "2025-11-07T14:10:27+00:00",
       "date": "2025-11-07 14:10:27",
@@ -92,18 +154,39 @@
         "Apple",
         "Amazon",
         "Perplexity",
-        "Microsoft",
-        "Google"
+        "Google",
+        "Microsoft"
       ],
       "people": [
         "Tim Cook",
-        "Jeff Bezos",
-        "Andy Jassy"
+        "Elon Musk",
+        "Jeff Bezos"
       ]
     },
     {
-      "title": "Zneužitá VS Code rozšíření a falešné npm balíčky ukazují nový typ cíleného malwaru",
-      "description": "Útočníci publikovali škodlivé rozšíření pro VS Code s funkcemi ransomwaru a falešné balíčky v registru npm. Incident ukazuje, jak snadno lze zneužít důvěru v otevřený ekosystém vývojářských nástrojů a automatizované AI generování kódu.",
+      "title": "Nejasná budoucnost NVIDIA GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 pamětí",
+      "description": "Podle neoficiálních informací údajně NVIDIA zrušila plánovanou řadu GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 paměťových modulů, které se zřejmě nedostanou včas na desktopový trh. Zpráva naznačuje, že výrobní kapacity a dostupnost nových typů pamětí mohou ovlivnit harmonogram nasazení nové generace GPU.",
+      "slug": "nvidia-geforce-rtx-50-super-refresh-faces-uncertai",
+      "publishedAt": "2025-11-07T07:48:00+00:00",
+      "date": "2025-11-07 07:48:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/09/GEFORCE-RTX-50-SUPER-HERO2.jpg",
+      "url": "/tech-news/2025-11-07/nvidia-geforce-rtx-50-super-refresh-faces-uncertai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "NVIDIA",
+        "VideoCardz"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zákeřné VS Code rozšíření s AI generovaným kódem obsahovalo vestavěné ransomwarové funkce",
+      "description": "Odhalení škodlivého rozšíření pro VS Code a falešných balíčků v registru npm ukazuje, jak útočníci zneužívají důvěru v open-source ekosystém, automatizované nástroje a AI k šíření ransomwaru a krádeži dat.",
       "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
       "publishedAt": "2025-11-07T06:48:00+00:00",
       "date": "2025-11-07 06:48:00",
@@ -122,8 +205,8 @@
       "people": []
     },
     {
-      "title": "Gemini míří do Android Auto a postupně nahrazuje Google Assistant",
-      "description": "Google začal v omezeném testu zavádět AI asistenta Gemini do Android Auto, kde má postupně nahradit Google Assistant a rozšířit možnosti hlasového ovládání a integrace aplikací při řízení.",
+      "title": "Gemini dorazí do Android Auto, zatím jen pro omezený okruh uživatelů",
+      "description": "Google začal omezeně nasazovat AI asistenta Gemini do Android Auto, kde má postupně nahradit Google Asistenta a nabídnout přesnější hlasové ovládání, integraci s aplikacemi a bezpečnější, stručnější interakce během řízení.",
       "slug": "gemini-is-finally-hitting-the-road-with-android-au",
       "publishedAt": "2025-11-07T05:51:00+00:00",
       "date": "2025-11-07 05:51:00",
@@ -164,8 +247,29 @@
       "people": []
     },
     {
-      "title": "IKEA uvádí 21 nových chytrých zařízení s podporou Matter a Apple Home",
-      "description": "IKEA představila 21 nových chytrých žárovek, senzorů, zásuvek a ovladačů s podporou standardu Matter-over-Thread, které budou fungovat s Apple HomeKit a dalšími platformami chytré domácnosti.",
+      "title": "Apple snižuje výkupní ceny za iPhony, iPady, Macy a Apple Watch napříč celou nabídkou",
+      "description": "Apple aktualizoval tabulku výkupních hodnot pro použitá zařízení. Maximální částky klesly v průměru zhruba o pětinu, některé modely ztratily desítky až přes sto dolarů na hodnotě a část starších MacBooků již není možné vykoupit vůbec.",
+      "slug": "apple-lowers-maximum-trade-in-values-across-its-en",
+      "publishedAt": "2025-11-07T00:32:00+00:00",
+      "date": "2025-11-07 00:32:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/iphone-7-plus-trade-in-value.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/apple-lowers-maximum-trade-in-values-across-its-en/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": []
+    },
+    {
+      "title": "IKEA představuje 21 chytrých produktů s podporou Matter a Apple Home",
+      "description": "IKEA rozšiřuje nabídku chytré domácnosti o 21 nových produktů s podporou Matter-over-Thread, kompatibilních s Apple HomeKit. Nové žárovky, senzory a ovladače mají zjednodušit integraci osvětlení, měření kvality vzduchu a automatizaci domácnosti napříč ekosystémy.",
       "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
       "publishedAt": "2025-11-07T00:08:24+00:00",
       "date": "2025-11-07 00:08:24",
@@ -180,7 +284,28 @@
       },
       "companies": [
         "IKEA",
-        "Apple"
+        "Apple",
+        "MacRumors"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft dal AI agentům virtuální peníze. V simulovaném online trhu je utratili za podvody",
+      "description": "Microsoft otestoval stovky AI agentů v simulované ekonomice jako nakupující i prodávající. Výsledek ukázal, že i pokročilé modely systematicky selhávají v rozpoznávání scamů a bezpečném rozhodování.",
+      "slug": "microsoft-gave-ai-agents-fake-money-to-buy-things-",
+      "publishedAt": "2025-11-07T00:05:13+00:00",
+      "date": "2025-11-07 00:05:13",
+      "importance": 3,
+      "category": "ai agenti",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/443150d2-ca4c-4ca4-9240-b52432c00026-gID_7.png",
+      "url": "/tech-news/2025-11-07/microsoft-gave-ai-agents-fake-money-to-buy-things-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Microsoft"
       ],
       "people": []
     },
@@ -205,27 +330,21 @@
       "people": []
     },
     {
-      "title": "Best Buy spustil předčasné Black Friday slevy na elektroniku od 3 dolarů",
-      "description": "Americký prodejce Best Buy zahájil v předstihu Black Friday promo akce s výraznými slevami na tablety, notebooky, televize, domácí spotřebiče a příslušenství. Akce ukazují agresivní cenovou strategii v segmentu spotřební elektroniky, ale jsou relevantní primárně pro americký trh.",
-      "slug": "best-buy-just-dropped-tons-of-early-black-friday-d",
-      "publishedAt": "2025-11-06T21:40:29+00:00",
-      "date": "2025-11-06 21:40:29",
-      "importance": 2,
-      "category": "e-commerce",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VoQ8YGbFgUK65Y69iXdKa5-2000-80.jpg",
-      "url": "/tech-news/2025-11-06/best-buy-just-dropped-tons-of-early-black-friday-d/",
+      "title": "Pár z Torrance přivítal vzácná identická trojčata",
+      "description": "Mladý pár z kalifornského Torrance místo očekávaného jednoho dítěte přivedl na svět vzácná identická trojčata, která vznikla přirozeně bez asistované reprodukce, a navzdory náročné péči zvažuje další děti.",
+      "slug": "torrance-couple-welcomes-rare-identical-triplets-a",
+      "publishedAt": "2025-11-06T20:26:06+00:00",
+      "date": "2025-11-06 20:26:06",
+      "importance": 1,
+      "category": "zdraví",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18113976_110425-kabc-4pm-scr-identical-triplets-2-vid.jpg?w=1600",
+      "url": "/tech-news/2025-11-06/torrance-couple-welcomes-rare-identical-triplets-a/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Tom's Guide"
+        "name": "KABC-TV"
       },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Samsung",
-        "Sony"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -275,8 +394,26 @@
       "people": []
     },
     {
-      "title": "GeForce RTX 5070 zlevňuje na 480 dolarů, Intel Arc B580 na 235 dolarů: 12GB GPU útočí před Black Friday",
-      "description": "Desktopové GPU GeForce RTX 5070 12GB a Intel Arc B580 12GB výrazně zlevňují v rámci předběžných slev Black Friday, čímž vytvářejí tlak na konkurenci v segmentu střední třídy.",
+      "title": "Sora pro Android dosáhla téměř půl milionu instalací během prvního dne",
+      "description": "AI video aplikace Sora od OpenAI zaznamenala na Androidu přibližně 470 000 stažení za první den, což je více než čtyřnásobek startu na iOS. Rozšířená dostupnost a zrušení pozvánek ukazují silnou poptávku po generativním videu na mobilních platformách.",
+      "slug": "sora-for-android-saw-nearly-half-a-million-install",
+      "publishedAt": "2025-11-06T19:48:39+00:00",
+      "date": "2025-11-06 19:48:39",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+      "url": "/tech-news/2025-11-06/sora-for-android-saw-nearly-half-a-million-install/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "GeForce RTX 5070 zlevňuje na 480 dolarů, Intel Arc B580 klesá na 235 dolarů: agresivní slevy 12GB GPU před Black Friday",
+      "description": "NVIDIA a Intel zrychlují cenovou konkurenci před Black Friday: GeForce RTX 5070 12GB se propadá na 480 dolarů, zatímco Intel Arc B580 12GB se nabízí za 235 dolarů, což mění poměr cena/výkon ve střední třídě GPU.",
       "slug": "geforce-rtx-5070-drops-to-record-low-480-arc-b580-",
       "publishedAt": "2025-11-06T18:27:00+00:00",
       "date": "2025-11-06 18:27:00",
@@ -291,7 +428,8 @@
       },
       "companies": [
         "NVIDIA",
-        "Intel"
+        "Intel",
+        "Newegg"
       ],
       "people": []
     },
@@ -337,8 +475,8 @@
       "people": []
     },
     {
-      "title": "Ruskému kosmodromu Vostočný odpojili elektřinu kvůli neuhrazeným účtům",
-      "description": "Výstavba klíčového ruského kosmodromu Vostočný opět čelí problémům: dodavateli PSO Kazan byla kvůli dluhu přes půl milionu dolarů odpojena elektřina, což zvýrazňuje dlouhodobé selhávání projektu zatíženého korupcí, zpožděními a finanční nestabilitou.",
+      "title": "Ruskému kosmodromu Vostočnyj odpojili elektřinu kvůli neuhrazeným účtům",
+      "description": "Výstavba strategického ruského kosmodromu Vostočnyj se dál komplikuje: hlavní dodavatel PSO Kazan neplatil elektřinu, energetická společnost proto odpojila část staveniště a chystá insolvenční řízení. Případ dál odhaluje strukturální problémy, korupci a finanční nestabilitu ruského kosmického programu.",
       "slug": "after-russian-spaceport-firm-fails-to-pay-bills-el",
       "publishedAt": "2025-11-06T17:53:35+00:00",
       "date": "2025-11-06 17:53:35",
@@ -355,8 +493,8 @@
       "people": []
     },
     {
-      "title": "Co se pokazilo mezi NASA a SpaceX? Sporný vývoj lunárního landeru pro Artemis III",
-      "description": "NASA znovu otevírá kontrakt na lunární modul pro misi Artemis III kvůli zpožděním programu Starship od SpaceX, čímž vytváří prostor pro konkurenty, zejména Blue Origin.",
+      "title": "Co se pokazilo mezi NASA a SpaceX? Znovuotevření kontraktu na měsíční lander ukazuje limity Starship",
+      "description": "NASA kvůli zpožděním programu Starship znovu otevírá kontrakt na lunární lander pro misi Artemis III, což oslabuje dosud výsadní postavení SpaceX a vytváří prostor pro konkurenci typu Blue Origin.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
       "publishedAt": "2025-11-06T17:49:59+00:00",
       "date": "2025-11-06 17:49:59",
@@ -3597,24 +3735,6 @@
       "people": []
     },
     {
-      "title": "Co ve skutečnosti znamená písmeno 'C' v označení USB-C",
-      "description": "Písmeno 'C' v USB-C označuje třetí typ USB konektoru po Type-A a Type-B, nikoli 'charging' nebo 'connectivity', jak se často mylně předpokládá.",
-      "slug": "heres-what-the-c-actually-means-on-a-usb-c-port-sl",
-      "publishedAt": "2025-11-02T23:45:00+00:00",
-      "date": "2025-11-02 23:45:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://www.slashgear.com/img/gallery/heres-what-the-c-actually-means-on-a-usb-c-port/l-intro-1761724161.jpg",
-      "url": "/tech-news/2025-11-02/heres-what-the-c-actually-means-on-a-usb-c-port-sl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Staromódní dveřní doplněk, který kdysi chránil domácnosti (a zda je stále k dostání)",
       "description": "Door Club je vintage bezpečnostní systém pro dveře z 90. let, který měl zabránit vloupání. Dnes je stále dostupný ve vintage i moderních variantách.",
       "slug": "the-old-fashioned-door-accessory-that-once-made-ho",
@@ -3650,24 +3770,6 @@
       "companies": [
         "Microsoft"
       ],
-      "people": []
-    },
-    {
-      "title": "Pět ikonických motocyklů Kawasaki z filmového plátna",
-      "description": "Přehled motocyklů značky Kawasaki, které se objevily ve známých filmech a televizních seriálech.",
-      "slug": "five-iconic-kawasaki-motorcycles-youll-recognize-f",
-      "publishedAt": "2025-11-02T21:25:00+00:00",
-      "date": "2025-11-02 21:25:00",
-      "importance": 1,
-      "category": "motocykly",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/five-iconic-kawasaki-motorcycles-youll-recognize-from-the-big-screen/l-intro-1761929432.jpg",
-      "url": "/tech-news/2025-11-02/five-iconic-kawasaki-motorcycles-youll-recognize-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3798,29 +3900,6 @@
       ]
     },
     {
-      "title": "Apple údajně spustí beta verzi iOS 26.2 již v úterý, den po vydání iOS 26.1",
-      "description": "Podle Marka Gurmana z Bloombergu by Apple mohl spustit první beta verzi iOS 26.2 již v úterý, bezprostředně po pondělním veřejném vydání iOS 26.1.",
-      "slug": "gurman-apple-launching-ios-262-beta-as-soon-as-tue",
-      "publishedAt": "2025-11-02T14:02:00+00:00",
-      "date": "2025-11-02 14:02:00",
-      "importance": 2,
-      "category": "mobilní systémy",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-02/gurman-apple-launching-ios-262-beta-as-soon-as-tue/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Bloomberg"
-      ],
-      "people": [
-        "Mark Gurman"
-      ]
-    },
-    {
       "title": "Dokonalá aplikace pro nákupní seznamy neexistuje",
       "description": "Hledání ideální aplikace pro plánování jídel a tvorbu nákupních seznamů se ukázalo být složitější, než se zdá. Žádné jednotné řešení neexistuje.",
       "slug": "the-perfect-grocery-list-making-app-doesnt-exist-t",
@@ -3836,26 +3915,6 @@
         "name": "The Verge"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tři měsíce s Alexa+: Které funkce stojí za předplatné a která zklamala",
-      "description": "Praktické zkušenosti s placenou verzí hlasového asistenta Amazon Alexa po třech měsících používání ukazují výrazné zlepšení v konverzaci a ovládání chytré domácnosti, ale také limity.",
-      "slug": "ive-been-using-alexa-for-3-months-here-are-my-5-fa",
-      "publishedAt": "2025-11-02T13:45:00+00:00",
-      "date": "2025-11-02 13:45:00",
-      "importance": 3,
-      "category": "hlasový asistent",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5HPtdn9dW3HTbLRdfTniZn-1344-80.png",
-      "url": "/tech-news/2025-11-02/ive-been-using-alexa-for-3-months-here-are-my-5-fa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [
-        "Amazon"
-      ],
       "people": []
     },
     {
@@ -3939,27 +3998,6 @@
       "people": []
     },
     {
-      "title": "Lenovo Yoga 9i 2-in-1 Aura Edition: Prémiový konvertibilní notebook s rekordní výdrží baterie",
-      "description": "Nový prémiový konvertibilní notebook od Lenovo nabízí OLED displej, výjimečnou výdrž baterie téměř 26 hodin a unikátní soundbar za cenu 1 400 dolarů.",
-      "slug": "lenovo-yoga-9i-2-in-1-aura-edition-review-near-per",
-      "publishedAt": "2025-11-02T12:00:06+00:00",
-      "date": "2025-11-02 12:00:06",
-      "importance": 3,
-      "category": "notebooky",
-      "urlToImage": "https://www.cnet.com/a/img/resize/1433050442d2b9cee61687982560a97381a39ba6/hub/2025/10/31/b04d19f5-75ce-4a79-ad07-d301ec660b75/img-3601.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-02/lenovo-yoga-9i-2-in-1-aura-edition-review-near-per/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Lenovo",
-        "CNET"
-      ],
-      "people": []
-    },
-    {
       "title": "Fyzici vytvořili teploměr pro měření kvantovosti",
       "description": "Anomální tok tepla, který zdánlivě porušuje druhý termodynamický zákon, umožňuje fyzikům detekovat kvantové provázání bez jeho zničení.",
       "slug": "physicists-create-a-thermometer-for-measuring-quan",
@@ -3976,29 +4014,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Chytré brýle Meta Ray-Ban Gen 2 jsou technicky zdařilé, ale vyvolávají nepříjemné pocity",
-      "description": "Meta představila druhou generaci chytrých brýlí Ray-Ban za 379 dolarů s vylepšeným fotoaparátem a delší výdrží, ale otázky soukromí a sledování zůstávají nevyřešené.",
-      "slug": "i-cant-help-feeling-like-a-creep-wearing-metas-new",
-      "publishedAt": "2025-11-02T11:30:00+00:00",
-      "date": "2025-11-02 11:30:00",
-      "importance": 3,
-      "category": "chytré brýle",
-      "urlToImage": "https://media.wired.com/photos/6906870d7b005df85cad76e5/191:100/w_1280,c_limit/Review-%20Ray-Ban%20Meta%20Gen%202.png",
-      "url": "/tech-news/2025-11-02/i-cant-help-feeling-like-a-creep-wearing-metas-new/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Nemám přístup k plnému textu článku",
-        "pouze k nadpisu a popisu. Na základě poskytnutých informací nemohu identifikovat žádné konkrétní jmenované osobnosti.\n\nžádné"
-      ]
     },
     {
       "title": "Proč je vaše televize pravděpodobně špatná volba a jak to napravit",
@@ -4076,26 +4091,6 @@
       "companies": [
         "Samsung",
         "Android Police"
-      ],
-      "people": []
-    },
-    {
-      "title": "Test sledování tepové frekvence AirPods Pro 3 proti Apple Watch Ultra 3",
-      "description": "Praktické srovnání nové funkce měření tepu v AirPods Pro 3 s Apple Watch Ultra 3 ukazuje, jak si vedou sluchátka v roli fitness zařízení.",
-      "slug": "i-measured-the-airpods-pro-3s-heart-rate-tracking-",
-      "publishedAt": "2025-11-02T05:01:38+00:00",
-      "date": "2025-11-02 05:01:38",
-      "importance": 3,
-      "category": "nositelná elektronik",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wt6eciubiB98pxzuMAwU5Q-2560-80.jpg",
-      "url": "/tech-news/2025-11-02/i-measured-the-airpods-pro-3s-heart-rate-tracking-/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Apple"
       ],
       "people": []
     },
