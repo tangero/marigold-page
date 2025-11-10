@@ -1,15 +1,15 @@
 {
-  "generated": "2025-11-09T20:21:11.022651+00:00",
+  "generated": "2025-11-10T01:03:48.421243+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Apple možná vrací koncept levných netbooků v podobě dostupného MacBooku",
-      "description": "Podle spekulací Apple připravuje výrazně levnější MacBook s mobilním čipem A‑řady, menším displejem a novým designem. Parametry i cenová hladina okolo 599 dolarů připomínají někdejší netbooky, které Apple pomohl vytlačit nástupem iPadu.",
+      "title": "Apple pomohl ukončit éru netbooků. Přivede je nyní zpět?",
+      "description": "Apple podle spekulací připravuje levný MacBook s mobilním čipem, který na papíře připomíná někdejší netbooky: menší, levnější a úspornější zařízení mířené na web, kancelář a vzdělávání.",
       "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
       "publishedAt": "2025-11-08T16:00:00+00:00",
       "date": "2025-11-08 16:00:00",
       "importance": 2,
-      "category": "hardware",
+      "category": "tech",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/P7150216-hero.1419979718.webp?quality=90&strip=all&crop=0,10.914776032577,100,78.170447934846",
       "url": "/tech-news/2025-11-08/apple-helped-kill-netbooks-will-it-bring-them-back/",
       "source": {
@@ -26,13 +26,53 @@
       ]
     },
     {
-      "title": "Google Maps v Indii dostanou integraci Gemini AI: cílem je bezpečnější a kontextovější navigace",
-      "description": "Google začíná do Map v Indii nasazovat Gemini AI s důrazem na lokalizaci, bezpečnostní upozornění a kontextové návrhy tras a míst. Nové funkce mají zlepšit spolehlivost navigace a informovanost řidičů v komplexním dopravním prostředí.",
+      "title": "Historické pobřežní sídlo ve Westchesteru je na prodej po pětileté rekonstrukci za 23 milionů dolarů",
+      "description": "Historická rezidence na pobřeží v oblasti Westchester v New Yorku vstupuje na trh po rozsáhlé pětileté renovaci s nabídkovou cenou 23 milionů dolarů. Nemovitost kombinuje původní architektonické prvky s modernizovaným vybavením, zaměřeným na luxusní bydlení.",
+      "slug": "historic-westchester-waterfront-mansion-hits-the-m",
+      "publishedAt": "2025-11-08T14:03:52+00:00",
+      "date": "2025-11-08 14:03:52",
+      "importance": 1,
+      "category": "nemovitosti",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-08/historic-westchester-waterfront-mansion-hits-the-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Realtor.com News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft chystá speciální Windows 11 26H1 pro platformy Snapdragon X2 a NVIDIA N1X",
+      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na platformě Bromine, určenou výhradně pro nové Arm počítače se Snapdragon X2 a NVIDIA N1X, plánovanou na první polovinu roku 2026. Cílem je optimalizace výkonu, spotřeby a AI funkcí pro další generaci mobilních a úsporných zařízení.",
+      "slug": "microsoft-reportedly-readies-windows-11-26h1-for-s",
+      "publishedAt": "2025-11-08T13:31:00+00:00",
+      "date": "2025-11-08 13:31:00",
+      "importance": 3,
+      "category": "software",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/WINDOWS-11-26H1-QUALCOMM-NVIDIA-HERO.jpg",
+      "url": "/tech-news/2025-11-08/microsoft-reportedly-readies-windows-11-26h1-for-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "Microsoft",
+        "Qualcomm",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Maps v Indii získají integraci Gemini AI pro bezpečnější a kontextovější navigaci",
+      "description": "Google rozšiřuje do Map v Indii systém Gemini AI, který má zlepšit bezpečnost, přesnost navigace a lokální přizpůsobení včetně podpory více jazyků a kontextových upozornění.",
       "slug": "google-maps-to-be-upgraded-with-gemini-ai-heres-wh",
       "publishedAt": "2025-11-08T05:45:59+00:00",
       "date": "2025-11-08 05:45:59",
       "importance": 3,
-      "category": "ai",
+      "category": "tech",
       "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2025/11/Google-maps-ai.jpg",
       "url": "/tech-news/2025-11-08/google-maps-to-be-upgraded-with-gemini-ai-heres-wh/",
       "source": {
@@ -42,6 +82,27 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Galaxy S27 Ultra může získat bezpečnější rozpoznávání obličeje podobné Face ID",
+      "description": "První úniky naznačují, že Samsung u modelu Galaxy S27 Ultra testuje novou technologii Polar ID, která využívá polarizované světlo a bezpečnější čipovou oblast pro ověřování obličeje, podobně jako Face ID u iPhonů.",
+      "slug": "galaxy-s27-ultra-may-finally-have-a-key-security-f",
+      "publishedAt": "2025-11-08T00:15:23+00:00",
+      "date": "2025-11-08 00:15:23",
+      "importance": 2,
+      "category": "tech",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175565-wide-two_1200/Galaxy-S27-Ultra-may-finally-have-a-key-security-feature-iPhones-have-had-for-years.jpg",
+      "url": "/tech-news/2025-11-08/galaxy-s27-ultra-may-finally-have-a-key-security-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "Samsung",
+        "Apple"
       ],
       "people": []
     },
@@ -66,8 +127,8 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští druhou vlnu Black Friday nabídek: sleva 400 USD na Galaxy S25 Ultra a výrazné zlevnění TV a MacBook Air",
-      "description": "Best Buy zahajuje druhý týden Black Friday Doorbusters s výraznými slevami na Samsung Galaxy S25 Ultra, OLED televize, pračky, audio a slevami na MacBook Air konkurující Amazonu. Nabídky jsou časově omezené a cílené na členy věrnostního programu.",
+      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: výrazné slevy na Galaxy S25 Ultra, OLED TV a domácí techniku",
+      "description": "Best Buy zahajuje druhý týden Black Friday Doorbusters s časově omezenými slevami na klíčovou spotřební elektroniku, včetně Galaxy S25 Ultra, Samsung OLED televizorů, herních headsetů a praček se sušičkami. Akce ukazuje, jak velcí prodejci stupňují cenovou agresivitu ještě před hlavním Black Friday víkendem.",
       "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
       "publishedAt": "2025-11-07T22:25:00+00:00",
       "date": "2025-11-07 22:25:00",
@@ -90,8 +151,8 @@
       "people": []
     },
     {
-      "title": "Mind captioning převádí vizuální myšlenky na text bez aktivace jazykových center mozku",
-      "description": "Nová metoda „mind captioning“ ukazuje, že je možné převádět mozkovou aktivitu z oblasti vidění a asociací do smysluplných vět, které popisují to, co člověk vidí nebo si vybavuje z paměti, bez spoléhání na tradiční jazykové oblasti.",
+      "title": "Dekodér mozku převádí vizuální myšlenky na text",
+      "description": "Nová metoda dekódování mozku zvaná mind captioning dokáže generovat přesné textové popisy toho, co člověk vidí nebo si vybavuje – aniž by se spoléhala na jazykový systém mozku.",
       "slug": "brain-decoder-translates-visual-thoughts-into-text",
       "publishedAt": "2025-11-07T21:32:24+00:00",
       "date": "2025-11-07 21:32:24",
@@ -214,13 +275,13 @@
       "people": []
     },
     {
-      "title": "Zranitelnost telefonů Samsung umožnila nasazení spyware LANDFALL přes obrázky na WhatsApp",
-      "description": "Útočníci zneužili dříve neznámou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení spyware LANDFALL prostřednictvím škodlivých obrázků odeslaných přes WhatsApp. Problém řeší až aktualizace zabezpečení vydaná v dubnu 2025.",
+      "title": "Zranitelnost telefonů Samsung umožnila nasazení spyware LANDFALL přes WhatsApp jako zero-day útok",
+      "description": "Útočníci zneužili dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení spyware LANDFALL prostřednictvím škodlivých obrázků ve WhatsApp před dubnovou bezpečnostní záplatou 2025.",
       "slug": "samsung-mobile-flaw-exploited-as-zero-day-to-deplo",
       "publishedAt": "2025-11-07T18:00:00+00:00",
       "date": "2025-11-07 18:00:00",
       "importance": 4,
-      "category": "kyberbezpečnost",
+      "category": "kybernetika",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s790-rw-e365/mobile-exploit.jpg",
       "url": "/tech-news/2025-11-07/samsung-mobile-flaw-exploited-as-zero-day-to-deplo/",
       "source": {
@@ -228,9 +289,7 @@
         "id": null,
         "name": "Internet"
       },
-      "companies": [
-        "Samsung"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -260,8 +319,8 @@
       ]
     },
     {
-      "title": "Gemini Deep Research nově prohledá Gmail, Disk i Chat. Přínos pro produktivitu, riziko pro soukromí",
-      "description": "Google rozšiřuje nástroj Gemini Deep Research tak, aby mohl po souhlasu uživatele číst data z Gmailu, Disku Google a Google Chatu a používat je pro vícekrokový výzkum. Zvyšuje tím užitečnost systému, zároveň ale otevírá nové otázky ohledně ochrany soukromí a důvěry v AI agenty.",
+      "title": "Gemini Deep Research získává přístup k datům z Gmailu a Google Drive",
+      "description": "Google rozšiřuje Gemini Deep Research o možnost analyzovat obsah Gmailu, Google Drive a Chatů v rámci Google Workspace, aby poskytoval kontextově přesnější odpovědi. Funkce však současně otevírá nové otázky ohledně ochrany soukromí, bezpečnosti a spolehlivosti výstupů.",
       "slug": "gemini-deep-research-can-now-comb-through-workspac",
       "publishedAt": "2025-11-07T17:27:00+00:00",
       "date": "2025-11-07 17:27:00",
@@ -277,19 +336,22 @@
       "companies": [
         "Google",
         "Microsoft",
+        "OpenAI",
         "Apple",
-        "Meta",
-        "OpenAI"
+        "Anthropic"
       ],
-      "people": []
+      "people": [
+        "Elon Musk",
+        "Sundar Pichai"
+      ]
     },
     {
-      "title": "Nejpodivnější úniky ChatGPT: citlivé konverzace se objevily v nástroji Google Search Console",
-      "description": "Vyšetřování analytiků odhalilo, že extrémně osobní dotazy z ChatGPT se objevovaly v Google Search Console, což naznačuje přímé využívání Google vyhledávání s reálnými uživatelskými promptami a otevírá vážné otázky ohledně ochrany soukromí a praktik OpenAI.",
+      "title": "ChatGPT úniky v Google Search Console naznačují přímé sbírání dat z vyhledávání",
+      "description": "Vyšetřování konzultantů odhalilo, že citlivé dotazy z ChatGPT se objevovaly v Google Search Console, což může potvrzovat, že OpenAI pracuje s reálnými uživatelskými prompty z Google a tím otevírá vážné otázky ochrany soukromí a transparentnosti.",
       "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
       "publishedAt": "2025-11-07T16:49:53+00:00",
       "date": "2025-11-07 16:49:53",
-      "importance": 4,
+      "importance": 3,
       "category": "ai",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg",
       "url": "/tech-news/2025-11-07/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i/",
@@ -299,16 +361,13 @@
         "name": "Ars Technica"
       },
       "companies": [
+        "ChatGPT",
         "OpenAI",
         "Google",
         "Microsoft",
         "Apple"
       ],
-      "people": [
-        "Elon Musk",
-        "Sam Altman",
-        "Greg Brockman"
-      ]
+      "people": []
     },
     {
       "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
@@ -332,8 +391,8 @@
       "people": []
     },
     {
-      "title": "Amazon nabízí slevu 110 dolarů na nový Mac mini M4 s 512GB úložištěm před Black Friday",
-      "description": "Amazon spustil předčasnou slevu 110 dolarů na nejnovější Mac mini s čipem M4 a 512GB SSD, čímž snižuje vstupní cenu za stolní Mac s moderním čipem Apple Silicon a dělá jej atraktivnějším pro uživatele hledající úsporný, ale výkonný desktop.",
+      "title": "Amazon zlevnil Mac mini s čipem M4 a 512GB úložištěm o 110 dolarů v rámci předběžných Black Friday slev",
+      "description": "Amazon nabízí nejnovější Mac mini s čipem Apple M4 a 512GB SSD s výraznou slevou 110 dolarů. Jde o jeden z prvních agresivnějších cenových impulsů u nové generace stolních Maců.",
       "slug": "grab-a-110-early-black-friday-discount-on-apples-m",
       "publishedAt": "2025-11-07T16:19:00+00:00",
       "date": "2025-11-07 16:19:00",
@@ -346,19 +405,40 @@
         "id": null,
         "name": "AppleInsider"
       },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI Sora zaplavuje sociální sítě násilnými videi generovanými AI",
+      "description": "Na platformách X a TikTok se objevují účty systematicky publikující AI generovaná videa znázorňující škrcení žen a dívek, což ukazuje selhání ochranných mechanismů generativních modelů a platforem při vymáhání vlastních zásad proti násilí.",
+      "slug": "openais-sora-2-floods-social-media-with-videos-of-",
+      "publishedAt": "2025-11-07T15:38:28+00:00",
+      "date": "2025-11-07 15:38:28",
+      "importance": 3,
+      "category": "ai etika",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/11/image4.png",
+      "url": "/tech-news/2025-11-07/openais-sora-2-floods-social-media-with-videos-of-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "404media.co"
+      },
       "companies": [
+        "OpenAI",
+        "TikTok",
         "Apple",
-        "Amazon"
+        "Google",
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "Porsche představuje Sonderwunsch 911 GT3 „Ocelot“ inspirovaný Amazonií",
-      "description": "Porsche rozšiřuje program Sonderwunsch o speciálně navržený vůz 911 GT3 „Ocelot“, který propojuje individuální zakázkovou úpravu, odkaz motorsportu a vizuální motivy inspirované Amazonií. Projekt ukazuje, jak automobilka testuje hranice personalizace mimo sériovou produkci.",
+      "title": "Porsche představilo unikátní 911 GT3 \"Ocelot\" z programu Sonderwunsch",
+      "description": "Porsche v rámci programu Sonderwunsch představuje jedinečný vůz 911 GT3 \"Ocelot\", který designem odkazuje na přírodu Amazonie a ukazuje možnosti hluboké individualizace pro zákazníky. Projekt zdůrazňuje image značky a její schopnost nabízet limitované zakázkové vozy mimo běžnou sériovou produkci.",
       "slug": "porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du",
       "publishedAt": "2025-11-07T15:36:33+00:00",
       "date": "2025-11-07 15:36:33",
-      "importance": 3,
+      "importance": 1,
       "category": "automobilismus",
       "urlToImage": "https://news.dupontregistry.com/wp-content/uploads/2025/11/327271_4992x3120.jpg",
       "url": "/tech-news/2025-11-07/porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du/",
@@ -393,6 +473,24 @@
         "Tim Cook",
         "Sundar Pichai"
       ]
+    },
+    {
+      "title": "Ice Universe vyvrací spekulace o fotoaparátu Samsung Galaxy S26 Ultra",
+      "description": "Dlouhodobý leakster Ice Universe zpochybnil nedávné úniky o zásadních změnách fotoaparátu Samsung Galaxy S26 Ultra a zveřejnil specifikace, které potvrzují spíše evoluční než revoluční přístup Samsungu.",
+      "slug": "samsung-galaxy-s26-ultras-camera-rumor-debunked-ic",
+      "publishedAt": "2025-11-07T14:28:40+00:00",
+      "date": "2025-11-07 14:28:40",
+      "importance": 2,
+      "category": "smartphony",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175562-wide-two_1200/Samsung-Galaxy-S26-Ultras-camera-rumor-debunked-Ice-Universe-sets-the-record-straight.jpg",
+      "url": "/tech-news/2025-11-07/samsung-galaxy-s26-ultras-camera-rumor-debunked-ic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [],
+      "people": []
     },
     {
       "title": "Chybná cena na webu Applu nabídla balení 4 AirTagů za 29 dolarů, objednávky byly zrušeny",
@@ -3297,27 +3395,6 @@
       "people": []
     },
     {
-      "title": "AMD po zmatečném vydání ovladačů ujišťuje, že staré GPU jsou stále podporovány",
-      "description": "AMD po kritice zpětně ujistila uživatele, že grafické karty řady RX 5000 a 6000 budут nadále dostávat aktualizace, optimalizace her a opravy chyb.",
-      "slug": "after-confusing-driver-release-amd-says-old-gpus-a",
-      "publishedAt": "2025-11-03T20:21:36+00:00",
-      "date": "2025-11-03 20:21:36",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg",
-      "url": "/tech-news/2025-11-03/after-confusing-driver-release-amd-says-old-gpus-a/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "AMD",
-        "Ars Technica"
-      ],
-      "people": []
-    },
-    {
       "title": "Apple spouští webovou verzi App Store",
       "description": "Apple představil nové webové rozhraní App Store na adrese apps.apple.com, které umožňuje procházet a vyhledávat aplikace pro všechna zařízení společnosti. Stahování aplikací přímo z webu ale není možné.",
       "slug": "apple-brings-its-app-store-to-the-web-the-verge",
@@ -3500,27 +3577,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Amazon Kanada spustil předčasné Black Friday slevy s až 88% slevami",
-      "description": "Amazon Kanada zahájil předčasné Black Friday výprodeje s tisíci produkty se slevami až 88 %, včetně elektroniky, domácích potřeb a vánočních dekorací.",
-      "slug": "amazon-canadas-early-black-friday-deals-are-here-5",
-      "publishedAt": "2025-11-03T17:23:06+00:00",
-      "date": "2025-11-03 17:23:06",
-      "importance": 1,
-      "category": "e-commerce",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c77178e0-b8d6-11f0-9d43-9f6a4308eca7",
-      "url": "/tech-news/2025-11-03/amazon-canadas-early-black-friday-deals-are-here-5/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Amazon",
-        "Apple"
-      ],
-      "people": []
     },
     {
       "title": "Chytré brýle Lenovo V1 patří mezi nejlehčí na trhu, ale chybí jim kamera",
@@ -3844,26 +3900,6 @@
       ]
     },
     {
-      "title": "Ranč rodiny Rockefellerů s 12 ložnicemi se prodává ve Wyomingu",
-      "description": "Rodinné sídlo rodiny Rockefellerů v Jackson Hole, které sloužilo jako vícegenerační útočiště, je na prodej.",
-      "slug": "a-12-bedroom-rockefeller-family-ranch-is-selling-i",
-      "publishedAt": "2025-11-03T11:29:00+00:00",
-      "date": "2025-11-03 11:29:00",
-      "importance": 1,
-      "category": "luxusní nemovitosti",
-      "urlToImage": "https://images.mansionglobal.com/im-26564558/social",
-      "url": "/tech-news/2025-11-03/a-12-bedroom-rockefeller-family-ranch-is-selling-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mansion Global"
-      },
-      "companies": [],
-      "people": [
-        "Jay Rockefeller"
-      ]
-    },
-    {
       "title": "Ash by Elegance vzdává další titul kvůli zdravotním problémům",
       "description": "Wrestlerka Ash by Elegance musela opět vzdát titul kvůli zdravotním komplikacím, tentokrát nejen v organizaci TNA.",
       "slug": "ash-by-elegance-vacates-another-title-amid-medical",
@@ -4078,48 +4114,6 @@
         "name": "Roadtrailrun.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "AMD slibuje pokračující podporu ovladačů pro GPU RDNA 1 a RDNA 2",
-      "description": "AMD potvrdilo, že bude nadále poskytovat aktualizace ovladačů pro starší grafické karty řady Radeon RX 5000 a RX 6000 založené na architekturách RDNA 1 a RDNA 2.",
-      "slug": "amd-promises-continued-driver-support-for-rdna-1-r",
-      "publishedAt": "2025-11-03T04:10:00+00:00",
-      "date": "2025-11-03 04:10:00",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/AMD-Radeon-RX-Graphics-_1-Custom-scaled.png",
-      "url": "/tech-news/2025-11-03/amd-promises-continued-driver-support-for-rdna-1-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "AMD"
-      ],
-      "people": []
-    },
-    {
-      "title": "Amazon výrazně snižuje cenu grafické karty Asus RTX 5070",
-      "description": "Asus GeForce RTX 5070 je na Amazonu dostupná za 584 dolarů, což představuje pokles z původních 739 dolarů a historicky nejnižší cenu této karty.",
-      "slug": "amazon-liquidates-rtx-5070-gpus-asus-model-at-new-",
-      "publishedAt": "2025-11-03T01:39:56+00:00",
-      "date": "2025-11-03 01:39:56",
-      "importance": 2,
-      "category": "grafické karty",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/rtx5070-geforce.jpg",
-      "url": "/tech-news/2025-11-03/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [
-        "Amazon",
-        "Asus",
-        "Nvidia"
-      ],
       "people": []
     },
     {
