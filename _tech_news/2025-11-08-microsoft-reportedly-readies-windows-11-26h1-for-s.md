@@ -6,9 +6,9 @@ companies:
 - Qualcomm
 - NVIDIA
 date: '2025-11-08 13:31:00'
-description: Microsoft údajně připravuje speciální verzi Windows 11 (26H1) založenou
-  na platformě Bromine, určenou výhradně pro příští generaci Arm počítačů se Snapdragon
-  X2 a čipy NVIDIA N1X, s uvedením v první polovině roku 2026.
+description: Microsoft údajně připravuje speciální vydání Windows 11 verze 26H1 (platforma
+  „Bromine“), určené výhradně pro příští generaci Arm notebooků se Snapdragon X2 a
+  novými procesory NVIDIA N1X, plánované na první polovinu roku 2026.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft reportedly readies Windows 11 26H1 for Snapdragon X2 and
@@ -26,25 +26,27 @@ urlToImageBackup: https://cdn.videocardz.com/1/2025/11/WINDOWS-11-26H1-QUALCOMM-
 ---
 
 ## Souhrn
-Microsoft podle dostupných informací pracuje na verzi Windows 11 26H1, která má být optimalizována pro nadcházející Arm platformy Snapdragon X2 od Qualcommu a N1X od NVIDIE. Tato verze, interně spojená s platformou Bromine, má být určena pouze pro nové Arm notebooky a stolní počítače plánované na první polovinu roku 2026.
+Microsoft podle dostupných informací připravuje verzi Windows 11 26H1, interně označovanou jako „Bromine“, cílenou specificky na příští generaci Arm platforem v čele se Snapdragon X2 a novými čipy NVIDIA N1X. Toto vydání má být dostupné pouze pro nové Arm zařízení v první polovině roku 2026 a naznačuje pokračující strategii Microsoftu agresivně optimalizovat Windows pro Arm ekosystém mimo tradiční x86 platformu.
 
 ## Klíčové body
-- Speciální vydání Windows 11 26H1 zaměřené na Arm zařízení, nikoli na stávající x86 počítače.
-- Optimalizace pro nové čipy Snapdragon X2 a NVIDIA N1X s důrazem na výkon, efektivitu a AI akceleraci.
-- Navázání na koncept "Copilot+ PC" a posun k hlubší integraci lokálně běžících AI funkcí.
-- Pravděpodobné oddělení funkcí a podpory mezi standardními instalacemi Windows 11 a verzí 26H1.
+- Windows 11 26H1 („Bromine“) má být exkluzivní pro nové Arm notebooky, nikoli standardní update pro stávající PC.
+- Cílí na platformy se Snapdragon X2 od Qualcommu a N1X procesory NVIDIA, pravděpodobně s důrazem na AI akceleraci a efektivitu.
+- Jde o pokračování strategie po současné generaci Copilot+ PC, s dalším posunem k nativnímu Arm ekosystému.
+- Očekává se hlubší integrace AI funkcí, optimalizace výkonu, výdrže a správy napájení.
+- Pro uživatele to může znamenat fragmentaci Windows prostředí mezi x86 a Arm-only funkcemi.
 
 ## Podrobnosti
-Podle úniků z prostředí Microsoftu a partnerských výrobců hardwaru se připravuje vydání Windows 11 26H1 jako cílený systém pro další generaci Arm počítačů. Základem má být interní platforma Bromine, která má nahradit současný přístup "jedna verze pro všechny" a umožnit agresivnější optimalizace pro konkrétní SoC a jejich NPU (Neural Processing Unit).
+Plánovaná verze Windows 11 26H1 má podle úniků stavět na interní platformě s kódovým označením „Bromine“ a být určena pouze pro novou generaci Arm zařízení. Primárně se zmiňují dvě hardwarové linie: Snapdragon X2 od Qualcommu, tedy nástupce dnešních čipů Snapdragon X Elite/X Plus pro notebooky, a NVIDIA N1X, což mají být nové procesory orientované na Arm s důrazem na AI a grafický výkon.
 
-Qualcomm Snapdragon X2 je nástupcem čipů Snapdragon X Elite/X Plus a míří na vyšší jednovláknový výkon, delší výdrž baterie a silnější NPU pro lokální AI výpočty, jako je generování textu, zpracování obrazu, překlady a multimediální analýza bez nutnosti cloudových služeb. NVIDIA N1X má být Arm platforma této firmy, která kombinuje CPU architekturu Arm s vlastní grafickou a AI akcelerací. NVIDIA, primárně známá svými GPU a AI akcelerátory pro datová centra, tím míří do segmentu osobních počítačů a pracovních stanic s důrazem na AI, grafiku a vývojové nástroje.
+Smyslem tohoto cíleného vydání má být těsnější integrace Windows s konkrétními čipsety, podobně jako to dělá Apple u macOS a M-series. To zahrnuje optimalizace plánovače úloh, řízení spotřeby, rychlejší probouzení ze spánku, lepší správu teplot a využití integrovaných NPU (Neural Processing Unit) pro lokální AI funkce. Windows 11 26H1 by mohl obsahovat i specifické ovladače a systémové komponenty, které nebudou dostupné pro starší zařízení nebo x86 architekturu.
 
-Windows 11 26H1 má těžit z těchto platforem tím, že nabídne lepší plánování úloh mezi CPU, GPU a NPU, rychlejší emulaci x86 aplikací a těsnější integraci AI funkcí přímo v systému. Lze očekávat preferenční podporu pro funkce typu Copilot, lokální přepis a shrnutí obsahu, pokročilé vyhledávání v dokumentech či adaptivní správu výkonu a spotřeby. Zároveň hrozí fragmentace: část nových funkcí může být dostupná pouze na těchto Arm zařízeních, zatímco uživatelé klasických x86 PC budou omezeni.
+Z pohledu uživatele to znamená, že budoucí Arm notebooky s Windows mohou nabídnout delší výdrž baterie, plynulejší běh aplikací optimalizovaných pro Arm, rychlejší AI zpracování (například lokální rozpoznávání řeči, překlady, generování textu a obrazu bez nutnosti cloudu) a potenciálně tišší, pasivně chlazené konstrukce. Současně ale vzniká riziko rozdílů ve funkcích mezi Arm a x86 verzemi Windows, složitějšího testování aplikací a nutnosti, aby vývojáři lépe podporovali nativní Arm buildy svých programů.
 
 ## Proč je to důležité
-Tento krok zapadá do širší strategie Microsoftu posunout Windows směrem k silnější integraci AI a energeticky efektivním zařízením, podobně jako Apple sjednotil hardware a software u vlastních Arm čipů. Pokud se Windows 11 26H1 skutečně zaměří výhradně na Arm platformy a vybrané čipy, může to urychlit tlak na výrobce aplikací, aby optimalizovali software pro Arm a využívali NPU.
+Tento krok zapadá do širší snahy Microsoftu přesunout Windows ekosystém směrem k energeticky efektivním, AI-orientovaným Arm platfomám a přiblížit se modelu, kde hardware a software jsou laděny společně. Pro Qualcomm a NVIDIA jde o příležitost stát se viditelnými pilíři nové generace Windows notebooků, ne pouze jako doplněk k x86 procesorům.
 
-Pro uživatele to znamená potenciálně tišší, úspornější a výkonnější notebooky s lepšími lokálními AI funkcemi, ale zároveň riziko komplikovanějšího ekosystému, kde ne všechna zařízení dostanou stejné schopnosti. Pro průmysl jde o další indikaci, že budoucí konkurenční boj se bude odehrávat kolem propojení operačního systému, specializovaného hardwaru pro AI a uzavřenějších optimalizovaných platforem. Kritické bude, zda Microsoft zvládne výkon, kompatibilitu a vývojářskou podporu lépe než v předchozích pokusech s Windows on Arm.
+Zároveň však exkluzivita funkcí pro vybrané Arm platformy vytváří tlak na Intel a AMD, které musí nabídnout srovnatelný výkon, AI kapacity i efektivitu, aby nedošlo k postupnému odlivu pozornosti vývojářů a výrobců notebooků. Pro podniky a profesionální uživatele to znamená nutnost sledovat kompatibilitu klíčových aplikací s Arm, plánovat přechodné období a počítat s tím, že Windows svět se může reálně rozštěpit na „plnohodnotný“ Arm segment a konzervativnější x86 základnu.
+
 
 ---
 

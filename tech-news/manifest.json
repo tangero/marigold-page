@@ -1,10 +1,58 @@
 {
-  "generated": "2025-11-10T08:26:22.530587+00:00",
+  "generated": "2025-11-10T12:32:22.347972+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Blue Origin nabízí NASA zrychlení návratu lidí na Měsíc",
-      "description": "Blue Origin deklaruje připravenost upravit svou lunární architekturu a urychlit přistání lidí na Měsíci v reakci na obavy, že současný plán Artemis III neumožní USA dohnat rostoucí náskok Číny.",
+      "title": "Investice do přenosné štítkovačky Nelko: praktický nástroj pro organizaci kanceláře",
+      "description": "Přenosná termální štítkovačka Nelko, ovládaná přes mobilní či desktopovou aplikaci, ukazuje, jak levné specializované zařízení může zrychlit organizaci kanceláře, skladů i domácího pracovního prostoru bez nutnosti inkoustu a složité instalace.",
+      "slug": "i-invested-in-a-portable-label-printer-and-its-alr",
+      "publishedAt": "2025-11-09T02:00:00+00:00",
+      "date": "2025-11-09 02:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/55e29ba804b8ebd1e1e44e44cfdfd0d2a763a8a9/2025/11/06/a4d06ade-85bc-4343-96ce-ca6f4c12fb81/img-0509.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-09/i-invested-in-a-portable-label-printer-and-its-alr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Nelko"
+      ],
+      "people": []
+    },
+    {
+      "title": "4 nové vestavěné aplikace v iOS 26 a iPadOS 26, které mění používání iPhonu a iPadu",
+      "description": "Apple v iOS 26 a iPadOS 26 nasazuje nové systémové aplikace a design „Liquid Glass“, čímž rozšiřuje funkce iPhonu a iPadu bez nutnosti instalace třetích stran a přibližuje iPad blíže plnohodnotnému počítači.",
+      "slug": "A-4-new-apps-released-with-ios-26-ipados-26-that-e",
+      "publishedAt": "2025-11-08T21:30:00+00:00",
+      "date": "2025-11-08 21:30:00",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.slashgear.com/img/gallery/4-new-apps-released-with-ios-26-ipados-26-that-everyone-should-know-about/l-intro-1762334103.jpg",
+      "url": "/tech-news/2025-11-08/A-4-new-apps-released-with-ios-26-ipados-26-that-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SlashGear"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "OpenAI",
+        "NASA"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Blue Origin chce urychlit návrat NASA na Měsíc, nabízí rychlejší lunární architekturu",
+      "description": "Blue Origin deklaruje připravenost zásadně urychlit program Artemis a nabídnout NASA upravenou architekturu lunárních landerů, aby USA snížily riziko, že je v pilotovaném návratu na Měsíc předběhne Čína.",
       "slug": "blue-origin-will-move-heaven-and-earth-to-help-nas",
       "publishedAt": "2025-11-08T21:27:42+00:00",
       "date": "2025-11-08 21:27:42",
@@ -20,15 +68,17 @@
       "companies": [
         "Blue Origin",
         "NASA",
-        "SpaceX",
-        "Lockheed Martin",
-        "Boeing"
+        "Ars Technica"
       ],
-      "people": []
+      "people": [
+        "Jeff Bezos",
+        "Dave Limp",
+        "Elon Musk"
+      ]
     },
     {
-      "title": "Apple pomohl ukončit éru netbooků. Přivede je nyní zpět?",
-      "description": "Apple podle spekulací připravuje levný MacBook s mobilním čipem, který na papíře připomíná někdejší netbooky. Text rozebírá, zda může Apple znovu definovat kategorii malých levných notebooků a současně se vyhnout chybám minulosti.",
+      "title": "Apple možná vrátí netbooky v podobě levného MacBooku",
+      "description": "Podle spekulací Apple připravuje levný, menší MacBook s čipem z iPhonu, který na papíře připomíná někdejší netbooky – malá úhlopříčka, nižší rozlišení, nízká cena a důraz na výdrž. Pokud se potvrdí, půjde o výrazný posun v cenové strategii firmy a potenciální tlak na trh levných notebooků a Chromebooků.",
       "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
       "publishedAt": "2025-11-08T16:00:00+00:00",
       "date": "2025-11-08 16:00:00",
@@ -48,8 +98,8 @@
       "people": []
     },
     {
-      "title": "5 Apple CarPlay widgetů, které stojí za instalaci pro praktičtější řízení",
-      "description": "iOS 26 rozšiřuje možnosti Apple CarPlay o widgety, které umožňují zobrazovat kalendář, připomínky, počasí a chytrou domácnost přímo na infotainment displeji a zefektivnit tak přípravu na cestu i průběh řízení.",
+      "title": "5 užitečných Apple CarPlay widgetů, které se vyplatí nastavit hned",
+      "description": "Apple rozšiřuje CarPlay o podporu widgetů, které přenášejí informace z iPhonu přímo na palubní displej. Výběr vhodných widgetů může zjednodušit plánování cesty, kontrolu počasí i správu chytré domácnosti bez rozptylování řidiče.",
       "slug": "A-5-apple-carplay-widgets-you-should-install-asap-",
       "publishedAt": "2025-11-08T15:45:00+00:00",
       "date": "2025-11-08 15:45:00",
@@ -68,8 +118,30 @@
       "people": []
     },
     {
-      "title": "8 opomíjených chytrých autogadgetů, které stojí za vyzkoušení",
-      "description": "Výběr nenápadných, ale praktických chytrých zařízení do auta, která přidávají bezpečnost, komfort i lepší kontrolu nad vozidlem – od GPS trackeru po doplňky pro každodenní provoz.",
+      "title": "První prémiový externí trackpad pro Windows: praktické zkušenosti s HyperSpace Trackpad Pro",
+      "description": "HyperSpace Trackpad Pro přináší uživatelům Windows to, co dosud chybělo – kvalitní externí multi-touch trackpad s haptickou odezvou, vysokou frekvencí snímání a detailní softwarovou konfigurací.",
+      "slug": "hands-on-with-hyperspace-trackpad-pro-the-first-pr",
+      "publishedAt": "2025-11-08T15:28:00+00:00",
+      "date": "2025-11-08 15:28:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Hyper-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-08/hands-on-with-hyperspace-trackpad-pro-the-first-pr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Hyper",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "8 nedoceněných chytrých gadgetů do auta, které stojí za vyzkoušení",
+      "description": "Výběr osmi méně známých chytrých zařízení do auta ukazuje, jak relativně levné gadgety rozšiřují bezpečnost, sledování vozidla, komfort cestování i zábavu bez nutnosti měnit celý vůz.",
       "slug": "A-8-underrated-smart-car-gadgets-you-need-to-try-b",
       "publishedAt": "2025-11-08T15:02:00+00:00",
       "date": "2025-11-08 15:02:00",
@@ -122,6 +194,55 @@
       "people": []
     },
     {
+      "title": "Pět důvodů, proč nový Kindle Scribe Colorsoft stojí za pozornost",
+      "description": "Amazon představuje Kindle Scribe Colorsoft, barevný čtečkový tablet s 11\" E Ink displejem, vylepšeným povrchem pro psaní a aktualizovaným softwarem pro produktivitu. Zaměřuje se na uživatele, kteří kombinují čtení, anotace a digitální poznámky v jednom zařízení.",
+      "slug": "A-5-reasons-why-the-next-kindle-scribe-has-my-full",
+      "publishedAt": "2025-11-08T14:03:28+00:00",
+      "date": "2025-11-08 14:03:28",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/kindle_scribe_color_2.jpg",
+      "url": "/tech-news/2025-11-08/A-5-reasons-why-the-next-kindle-scribe-has-my-full/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Amazon",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Top novinky: iOS 26.1, beta iOS 26.2, plány pro iPhone 18 a zásadní produktový rok 2026",
+      "description": "Apple vydal iOS 26.1 s praktickými úpravami používání systému a soukromí, spustil testování iOS 26.2 a podle úniků a analýz chystá v roce 2026 rozsáhlou obměnu produktové řady včetně iPhonu 18 a platformy pro chytrou domácnost.",
+      "slug": "top-stories-ios-261-released-ios-262-beta-iphone-1",
+      "publishedAt": "2025-11-08T14:00:00+00:00",
+      "date": "2025-11-08 14:00:00",
+      "importance": 4,
+      "category": "apple",
+      "urlToImage": "https://images.macrumors.com/t/tPczU0Ras5SPXEb5fTotZtiyBOE=/1600x/article-new/2025/11/top-stories-2025-11-08.jpg",
+      "url": "/tech-news/2025-11-08/top-stories-ios-261-released-ios-262-beta-iphone-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
       "title": "Tento skrytý složkový „odpad“ ve Windows vám může zabrat desítky GB místa",
       "description": "Článek upozorňuje na to, že složka Stažené soubory ve Windows se často léta nečistí a může zabírat desítky gigabajtů zbytečných dat. Uživatelé by měli pravidelně kontrolovat instalátory, přílohy a staré dokumenty, nebo zapnout funkci Storage Sense.",
       "slug": "this-windows-folder-on-my-computer-hoarded-80-gb-o",
@@ -142,12 +263,12 @@
       "people": []
     },
     {
-      "title": "Zakladatelé SF startupů na „etiketní škole“: Garry Tan kritizuje snahu o společenský lesk",
-      "description": "Třicítka mladých technologických zakladatelů v San Franciscu absolvovala seminář „Etiquette Finishing School“ investičního fondu Slow Ventures, kde se učili společenskému chování, oblékání a rituálům typu caviar bump. Akce vyvolala kritiku, mimo jiné od Garryho Tana, který ji vnímá jako odtržení startupové komunity od jejího tradičního zaměření na produkt a výkon.",
+      "title": "Sanfranští startupisté chodí na „etiketní školu“ a Garry Tan to ostře kritizuje",
+      "description": "V San Francisku vzniká trend „finishing schools“ pro technologické zakladatele, kde se učí etiketu, společenské chování a luxusní zvyky. Akce Slow Ventures ale vyvolala kritiku, včetně Garryho Tana z Y Combinator, jako symbol odtržení startupové elity od reality.",
       "slug": "sf-tech-founders-go-to-finishing-school-and-garry-",
       "publishedAt": "2025-11-08T14:00:00+00:00",
       "date": "2025-11-08 14:00:00",
-      "importance": 1,
+      "importance": 3,
       "category": "startupy",
       "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_2m7afv38ih6n1fup0q018bhs3u/-C100.00%25x78.71%25%2C0.00%25%2C1.61%25-FWEBP",
       "url": "/tech-news/2025-11-08/sf-tech-founders-go-to-finishing-school-and-garry-/",
@@ -160,6 +281,32 @@
         "Slow Ventures",
         "Y Combinator",
         "OpenAI",
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Garry Tan",
+        "Elon Musk",
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "5 klíčových nastavení, která byste měli změnit na své Sony TV pro lepší obraz",
+      "description": "Sony nabízí kvalitní obrazové procesory, ale výchozí tovární nastavení často výrazně snižují potenciál televize. Úpravou několika konkrétních voleb lze dosáhnout výrazně lepšího obrazu bez dalších nákladů.",
+      "slug": "change-these-5-settings-on-your-sony-tv-now-cnet",
+      "publishedAt": "2025-11-08T14:00:00+00:00",
+      "date": "2025-11-08 14:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b10e43fd30db9de19116b79425a81ece1016d1c6/hub/2025/11/07/c82f9bfe-826d-4778-a897-175ef564ff2f/pxl-20251031-190557122.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-08/change-these-5-settings-on-your-sony-tv-now-cnet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Sony",
         "Apple",
         "Google"
       ],
@@ -187,7 +334,7 @@
     },
     {
       "title": "Microsoft chystá Windows 11 26H1 pro platformy Snapdragon X2 a NVIDIA N1X",
-      "description": "Microsoft údajně připravuje speciální verzi Windows 11 (26H1) založenou na platformě Bromine, určenou výhradně pro příští generaci Arm počítačů se Snapdragon X2 a čipy NVIDIA N1X, s uvedením v první polovině roku 2026.",
+      "description": "Microsoft údajně připravuje speciální vydání Windows 11 verze 26H1 (platforma „Bromine“), určené výhradně pro příští generaci Arm notebooků se Snapdragon X2 a novými procesory NVIDIA N1X, plánované na první polovinu roku 2026.",
       "slug": "microsoft-reportedly-readies-windows-11-26h1-for-s",
       "publishedAt": "2025-11-08T13:31:00+00:00",
       "date": "2025-11-08 13:31:00",
@@ -208,8 +355,8 @@
       "people": []
     },
     {
-      "title": "Podceňované nastavení Pixelu, které řeší úzkost z výdrže baterie",
-      "description": "Funkce Adaptive Battery v telefonech Google Pixel využívá strojové učení k řízení spotřeby energie aplikací tak, aby prodloužila výdrž baterie a snížila potřebu powerbank či častého dobíjení.",
+      "title": "Podceňované nastavení Pixelu, které snižuje úzkost z baterie: Adaptive Battery v praxi",
+      "description": "Adaptive Battery v telefonech Google Pixel využívá strojové učení k řízení spotřeby energie podle chování uživatele a může výrazně omezit potřebu powerbank. Článek ukazuje, jak tato funkce funguje, proč jí uživatelé často nedůvěřují a jaké má praktické dopady.",
       "slug": "the-underrated-pixel-setting-that-fixed-my-phones-",
       "publishedAt": "2025-11-08T13:30:00+00:00",
       "date": "2025-11-08 13:30:00",
@@ -223,21 +370,18 @@
         "name": "Android Police"
       },
       "companies": [
-        "Google",
-        "Apple",
-        "OnePlus",
-        "Samsung"
+        "Google"
       ],
       "people": []
     },
     {
-      "title": "Android 16 zpřesňuje ochranu soukromí u přibližné polohy díky density-based coarse location",
-      "description": "Android 16 zavádí novou logiku práce s přibližnou polohou (density-based coarse location), která výrazně ztěžuje aplikacím možnost odhadnout přesnou polohu uživatelů v řídce osídlených oblastech.",
+      "title": "Android 16 zlepšuje ochranu soukromí díky přesnějšímu řízení \"přibližné\" polohy",
+      "description": "Android 16 zavádí funkci density-based coarse location, která výrazně snižuje riziko identifikace uživatelů z přibližné polohy, zejména v řídce osídlených oblastech.",
       "slug": "android-16-fixes-a-big-privacy-flaw-in-its-approxi",
       "publishedAt": "2025-11-08T13:05:27+00:00",
       "date": "2025-11-08 13:05:27",
       "importance": 3,
-      "category": "mobilní operační sys",
+      "category": "mobilní zařízení",
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-maps-my-maps-custom-map-example-2.jpg",
       "url": "/tech-news/2025-11-08/android-16-fixes-a-big-privacy-flaw-in-its-approxi/",
       "source": {
@@ -251,8 +395,8 @@
       "people": []
     },
     {
-      "title": "Přestaňte si jen povídat: 5 AI nástrojů, které nejsou další ChatGPT",
-      "description": "Článek upozorňuje na praktické AI nástroje, které nejdou cestou klasického chatbotu, ale řeší konkrétní úlohy – od přepisu schůzek po automatizované úpravy obsahu.",
+      "title": "Přestaňte si jen povídat: 5 AI nástrojů, které nejsou jen další ChatGPT",
+      "description": "Článek představuje pět praktických AI nástrojů, které jdou dál než klasické chatboty a zaměřují se na automatizaci konkrétních úkolů – od přepisu schůzek až po tvorbu videí.",
       "slug": "stop-chatting-start-doing-5-ai-tools-that-arent-ju",
       "publishedAt": "2025-11-08T12:53:05+00:00",
       "date": "2025-11-08 12:53:05",
@@ -267,10 +411,30 @@
       },
       "companies": [
         "OpenAI",
-        "Microsoft",
         "Google",
-        "Apple",
-        "Amazon"
+        "NVIDIA",
+        "Microsoft",
+        "Midjourney"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tato Android aplikace nahradila po deseti letech výchozí budík",
+      "description": "Autor po letech opustil předinstalovanou aplikaci Hodiny v Androidu a přešel na AMdroid, pokročilý budík s detailními profily, který lépe odpovídá nepravidelnému režimu a řeší limity standardního řešení.",
+      "slug": "this-android-app-replaced-a-decade-old-staple-andr",
+      "publishedAt": "2025-11-08T12:00:00+00:00",
+      "date": "2025-11-08 12:00:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/the-android-mascot-sleeping-in-a-bed-while-a-large-ringing-alarm-clock-beside-it.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-08/this-android-app-replaced-a-decade-old-staple-andr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
       ],
       "people": []
     },
@@ -299,8 +463,8 @@
       "people": []
     },
     {
-      "title": "Black Friday: výrazné slevy na QLED, OLED a Mini‑LED televize u hlavních značek",
-      "description": "Výrobci a velcí prodejci během Black Friday výrazně zlevňují QLED, OLED a Mini‑LED televize, často až o 50 %. Nabídky ukazují, jak rychle klesají ceny kvalitních panelů a jaké parametry lze dnes získat v nižších cenových hladinách.",
+      "title": "Black Friday slevy na QLED, OLED a Mini‑LED televizory: úspora až 50 % u vybraných modelů",
+      "description": "Výrazné Black Friday slevy na televizory u velkých prodejců, včetně prémiových OLED, QLED a Mini‑LED modelů, snižují vstupní cenu za kvalitní domácí kino a herní sestavy.",
       "slug": "black-friday-tv-deals-save-up-to-50-on-select-qled",
       "publishedAt": "2025-11-08T11:00:00+00:00",
       "date": "2025-11-08 11:00:00",
@@ -317,8 +481,8 @@
       "people": []
     },
     {
-      "title": "Amazon nabízí členům Prime přednostní přístup k cestovním slevám před Black Friday",
-      "description": "Amazon spouští předčasné Black Friday nabídky na cestovní vybavení exkluzivně pro členy Prime, včetně kufrů, elektroniky a oblečení se slevami až 87 procent.",
+      "title": "Amazon nabízí členům Prime přednostní přístup k cestovním slevám před Black Friday až o 87 % nižším",
+      "description": "Amazon spustil pro členy Prime předčasné Black Friday slevy na cestovní vybavení, včetně kufrů, oblečení, bezdrátových sluchátek a sledovacích zařízení, s výraznými slevami u známých značek.",
       "slug": "amazons-giving-prime-members-vip-access-to-its-bes",
       "publishedAt": "2025-11-08T11:00:00+00:00",
       "date": "2025-11-08 11:00:00",
@@ -334,6 +498,29 @@
       "companies": [
         "Amazon",
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejlepší přenosné elektrárny pro kempování v roce 2025: Anker, EcoFlow, Goal Zero a Jackery",
+      "description": "Test přenosných power station ukazuje, že moderní kempování se stále více spoléhá na stabilní, mobilní zdroje energie pro nabíjení elektroniky, osvětlení i vaření mimo civilizaci.",
+      "slug": "A-4-best-power-stations-for-camping-2025-compare-j",
+      "publishedAt": "2025-11-08T11:00:00+00:00",
+      "date": "2025-11-08 11:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://helios-i.mashable.com/imagery/roundups/03fSqNFBQAWadaomQAoJJvF/hero-image.fill.size_1200x675.v1762288775.jpg",
+      "url": "/tech-news/2025-11-08/A-4-best-power-stations-for-camping-2025-compare-j/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Jackery",
+        "Anker",
+        "Goal Zero",
+        "EcoFlow"
       ],
       "people": []
     },
@@ -3569,66 +3756,6 @@
       "people": []
     },
     {
-      "title": "Prodeje telefonů Google Pixel dosáhly rekordních hodnot",
-      "description": "Prodeje řady Pixel v USA vzrostly meziročně o 28 %, série Pixel 10 se stala nejrychleji rostoucí prémiovou značkou na trhu.",
-      "slug": "google-pixel-sales-continue-to-surge-as-the-brand-",
-      "publishedAt": "2025-11-03T23:32:00+00:00",
-      "date": "2025-11-03 23:32:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0516-1.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-03/google-pixel-sales-continue-to-surge-as-the-brand-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "iOS 26.1 přináší možnost upravit průhlednost Liquid Glass",
-      "description": "Apple vydal iOS 26.1 s novým přepínačem průhlednosti pro designový prvek Liquid Glass, rozšířenými jazykovými funkcemi a novými ovládacími prvky pro Apple Music a Fotoaparát.",
-      "slug": "ios-261-lets-you-tweak-liquid-glass-and-its-out-no",
-      "publishedAt": "2025-11-03T22:20:00+00:00",
-      "date": "2025-11-03 22:20:00",
-      "importance": 3,
-      "category": "mobilní systémy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_apple_frost_glass_iphone_f76e1d.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-03/ios-261-lets-you-tweak-liquid-glass-and-its-out-no/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Starší termostaty Nest lze oživit pomocí komunitního projektu",
-      "description": "Google ukončil podporu termostatů Nest první a druhé generace, ale vývojář vytvořil open-source řešení, které jim vrací funkčnost.",
-      "slug": "google-pulled-the-plug-on-nest-thermostats-but-you",
-      "publishedAt": "2025-11-03T22:07:00+00:00",
-      "date": "2025-11-03 22:07:00",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-nest-thermostat-4th-gen-review-on-the-wall.JPG?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-03/google-pulled-the-plug-on-nest-thermostats-but-you/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Manuální převodovka pro Corvette C8 se stává realističtější možností",
       "description": "Společnost Tremec představila šestistupňovou manuální převodovku, která má stejné rozměry jako osmistupňová dvouspojková převodovka používaná v Corvette C8.",
       "slug": "your-c8-corvette-manual-swap-dreams-just-got-far-c",
@@ -3745,26 +3872,6 @@
       "people": []
     },
     {
-      "title": "Google údajně mění loga aplikací Mapy a Fotky. Podívejte se na nové ikony.",
-      "description": "Google podle nepotvrzených informací připravuje redesign log pro aplikace Mapy a Fotky s novým gradientovým stylem, který má zdůraznit zaměření na AI.",
-      "slug": "google-photos-and-maps-logos-are-reportedly-changi",
-      "publishedAt": "2025-11-03T16:08:22+00:00",
-      "date": "2025-11-03 16:08:22",
-      "importance": 2,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00NS8fs8WIFum9w4XvCrZZb/hero-image.fill.size_1200x675.v1762184786.jpg",
-      "url": "/tech-news/2025-11-03/google-photos-and-maps-logos-are-reportedly-changi/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Fyzik diskutuje o Higgsově bosonu a jeho možném vlivu na osud vesmíru",
       "description": "Třináct let po objevu Higgsova bosonu se fyzici na konferenci na Brown University zabývají otevřenými otázkami o této částici a jejím možném vlivu na stabilitu vesmíru.",
       "slug": "physicist-discusses-the-higgs-boson-and-whether-it",
@@ -3844,26 +3951,6 @@
       "companies": [
         "LinkedIn",
         "Mosyle",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "iOS 27 údajně přinese zásadní aktualizace Apple Intelligence",
-      "description": "Podle zpráv Marka Gurmana z Bloombergu má iOS 27 obsahovat významné vylepšení umělé inteligence Apple Intelligence, přestože konkrétní detaily zatím chybí.",
-      "slug": "ios-27-will-have-major-updates-to-apple-intelligen",
-      "publishedAt": "2025-11-03T15:36:00+00:00",
-      "date": "2025-11-03 15:36:00",
-      "importance": 2,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/ios-27-will-have-major-updates-to-apple-intelligen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
         "Apple"
       ],
       "people": []
@@ -4003,26 +4090,6 @@
       "people": []
     },
     {
-      "title": "Google Photos a Mapy údajně dostanou nové ikony s přechodovými barvami",
-      "description": "Google pravděpodobně připravuje redesign ikon pro aplikace Fotky a Mapy, které by měly získat gradientový vzhled podobný nedávno aktualizované aplikaci Home.",
-      "slug": "google-photos-and-google-maps-will-soon-get-these-",
-      "publishedAt": "2025-11-03T08:39:19+00:00",
-      "date": "2025-11-03 08:39:19",
-      "importance": 2,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg",
-      "url": "/tech-news/2025-11-03/google-photos-and-google-maps-will-soon-get-these-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Logitech Alto Keys K98M přináší nadšencké funkce do mainstreamu",
       "description": "Nová mechanická klávesnice Logitech za 150 dolarů nabízí výměnné spínače a gasket mount konstrukci, funkce typické pro menší specializované značky.",
       "slug": "logitechs-latest-keyboard-dabbles-in-enthusiast-fe",
@@ -4063,28 +4130,6 @@
       "people": []
     },
     {
-      "title": "Google Wallet konečně řeší jeden ze svých nejotravnějších nedostatků",
-      "description": "Google Wallet získává funkci Express Transit Card, která umožní rychlejší platby v hromadné dopravě bez nutnosti odemykání telefonu.",
-      "slug": "google-wallet-is-finally-fixing-one-of-its-most-an",
-      "publishedAt": "2025-11-03T06:33:00+00:00",
-      "date": "2025-11-03 06:33:00",
-      "importance": 3,
-      "category": "mobilní platby",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/08/google-wallet-ap-2025-1.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-03/google-wallet-is-finally-fixing-one-of-its-most-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google",
-        "Apple",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "NASA vyfotila mrtvého robota na povrchu Marsu",
       "description": "Sonda Mars Reconnaissance Orbiter zachytila snímek přistávacího modulu InSight, který ukončil svou misi v roce 2022 a nyní pomalu mizí pod vrstvou marsiánského prachu.",
       "slug": "nasa-spacecraft-spots-dead-robot-lying-on-mars-sur",
@@ -4120,26 +4165,6 @@
         "name": "Roadtrailrun.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google Překladač přidává výběr mezi pokročilým a rychlým překladem",
-      "description": "Aplikace Google Translate dostává novou funkci výběru modelu s možnostmi \"Pokročilý\" a \"Rychlý\" překlad, která zatím není dostupná na Androidu.",
-      "slug": "google-translate-adding-model-picker-for-advanced-",
-      "publishedAt": "2025-11-03T00:31:00+00:00",
-      "date": "2025-11-03 00:31:00",
-      "importance": 3,
-      "category": "strojový překlad",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Translate-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/google-translate-adding-model-picker-for-advanced-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
       "people": []
     }
   ]
