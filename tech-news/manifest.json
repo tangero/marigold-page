@@ -1,10 +1,52 @@
 {
-  "generated": "2025-11-10T16:23:52.495641+00:00",
+  "generated": "2025-11-10T20:23:26.096425+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Linuxový kernel míří k povolení Microsoft C Extensions v celém build systému",
-      "description": "Vývojáři Linuxového jádra zvažují trvalé zapnutí přepínače -fms-extensions v kbuild, což by umožnilo používat Microsoft C Extensions při kompilaci kernelu s GCC i Clang a otevřelo cestu k úpravám stylu kódu i optimalizacím.",
+      "title": "Mechanik odhaluje výjimečnou historii vozu Ford Mustang GT 390 z roku 1968",
+      "description": "Příběh amerického mechanika, který při servisu Fordu Mustang GT 390 z roku 1968 zjistí, že jde o tentýž vůz, na kterém pracoval před desítkami let, ukazuje sběratelskou hodnotu ikonických muscle cars a sílu filmového odkazu modelu z filmu Bullitt.",
+      "slug": "mechanic-goes-to-work-on-1968-mustang-gt-390-4-spe",
+      "publishedAt": "2025-11-09T16:08:00+00:00",
+      "date": "2025-11-09 16:08:00",
+      "importance": 1,
+      "category": "automobily",
+      "urlToImage": "https://supercarblondie.com/wp-content/uploads/My-Dirty-Garage.webp",
+      "url": "/tech-news/2025-11-09/mechanic-goes-to-work-on-1968-mustang-gt-390-4-spe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Supercarblondie.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vánoční ozdoby pro hráče a fanoušky popkultury: retro konzole, filmové momenty a nerd kultura",
+      "description": "The Verge představuje výběr vánočních ozdob inspirovaných retro herními konzolemi, klasickými filmy a popkulturní nostalgií, které míří na hráče a fanoušky geek kultury.",
+      "slug": "deck-out-your-tree-with-ornaments-of-retro-console",
+      "publishedAt": "2025-11-09T15:00:00+00:00",
+      "date": "2025-11-09 15:00:00",
+      "importance": 1,
+      "category": "herní kultura",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hallmark_xbox1_22023c.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "url": "/tech-news/2025-11-09/deck-out-your-tree-with-ornaments-of-retro-console/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Sony",
+        "Nintendo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci",
+      "description": "Vývojáři Linuxového kernelu zvažují trvalé zapnutí přepínače -fms-extensions v GCC a Clang, což umožní použití vybraných rozšíření jazyka C z ekosystému Microsoftu a může ovlivnit styl, kompatibilitu a údržbu kernelového kódu.",
       "slug": "the-linux-kernel-looks-to-bite-the-bullet-in-enabl",
       "publishedAt": "2025-11-09T14:51:00+00:00",
       "date": "2025-11-09 14:51:00",
@@ -18,9 +60,35 @@
         "name": "Phoronix"
       },
       "companies": [
-        "Microsoft"
+        "Microsoft",
+        "GCC",
+        "LLVM",
+        "Clang"
       ],
       "people": []
+    },
+    {
+      "title": "Budoucnost služby Apple Fitness+ je nejistá, Apple provádí reorganizaci",
+      "description": "Apple přehodnocuje budoucnost služby Fitness+ kvůli slabému výkonu a vysokému odlivu uživatelů. Služba přechází pod nové vedení v rámci zdravotní divize a bude pod větším tlakem na výsledky.",
+      "slug": "future-of-apple-fitness-under-review-macrumors",
+      "publishedAt": "2025-11-09T13:30:03+00:00",
+      "date": "2025-11-09 13:30:03",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://images.macrumors.com/t/mV6vc3F44-WnRGfbja0kl_kX6js=/2500x/article-new/2020/11/Apple-fitness-plus-feature.jpg",
+      "url": "/tech-news/2025-11-09/future-of-apple-fitness-under-review-macrumors/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Bloomberg"
+      ],
+      "people": [
+        "Mark Gurman"
+      ]
     },
     {
       "title": "18 lidí, kterým se minulý týden vymstila jejich vlastní špatná rozhodnutí",
@@ -41,13 +109,37 @@
       "people": []
     },
     {
-      "title": "Ikea výrazně posiluje kontrolu nad chytrou domácností",
-      "description": "Ikea rozšiřuje nabídku chytré domácnosti o novou generaci zařízení a služeb, které mají ambici stát se centrálním prvkem běžných domácích instalací a konkurovat dražším ekosystémům velkých technologických firem.",
+      "title": "Apple chystá rozšířené satelitní funkce pro iPhone a jedná s Googlem o AI pro nového Siri",
+      "description": "Apple podle informací Bloombergu připravuje významné rozšíření satelitních funkcí pro iPhony a Apple Watch a současně jedná s Googlem o integraci modelu Gemini pro novou generaci asistenta Siri a další AI služby.",
+      "slug": "apple-plans-major-new-satellite-powered-features-f",
+      "publishedAt": "2025-11-09T13:00:12+00:00",
+      "date": "2025-11-09 13:00:12",
+      "importance": 4,
+      "category": "mobilní technologie",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i64MdEM0PLI4/v1/1200x800.jpg",
+      "url": "/tech-news/2025-11-09/apple-plans-major-new-satellite-powered-features-f/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "Ikea rozšiřuje vliv ve světě chytré domácnosti",
+      "description": "Ikea představuje novou generaci zařízení pro chytrou domácnost a potvrzuje ambici stát se centrálním hráčem v jednoduchém, dostupném a interoperabilním ovládání domácí techniky.",
       "slug": "ikea-just-took-over-your-smart-home-the-verge",
       "publishedAt": "2025-11-09T13:00:00+00:00",
       "date": "2025-11-09 13:00:00",
       "importance": 3,
-      "category": "smart home",
+      "category": "chytrá domácnost",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Installer-105.png?quality=90&strip=all&crop=0%2C10.789646653521%2C100%2C78.420706692958&w=1200",
       "url": "/tech-news/2025-11-09/ikea-just-took-over-your-smart-home-the-verge/",
       "source": {
@@ -65,8 +157,29 @@
       "people": []
     },
     {
-      "title": "12 klíčových aplikací pro méně zkušené uživatele Androidu: lepší použitelnost než předinstalované nástroje",
-      "description": "Článek Android Authority doporučuje sadu aplikací, které nahrazují nebo doplňují předinstalované nástroje v Androidu a usnadňují život méně technicky zdatným uživatelům, zejména díky vzdálené podpoře, jednodušším rozhraním a vyšší bezpečnosti.",
+      "title": "Levná karta AMD BC250 z těžby kryptoměn a PS5 APU rozbíhá GTA V i Cyberpunk 2077 za zhruba 120 dolarů",
+      "description": "Speciální karta AMD BC250, původně určená pro těžbu kryptoměn a vycházející z APU konzole PlayStation 5, byla úspěšně zprovozněna jako herní GPU a zvládá moderní hry jako GTA V a Cyberpunk 2077 při velmi nízké pořizovací ceně.",
+      "slug": "ex-mining-and-ps5-based-amd-bc250-board-runs-gta-v",
+      "publishedAt": "2025-11-09T12:15:00+00:00",
+      "date": "2025-11-09 12:15:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/AMD-BC250-PLAYSTATION5-APU-PC.jpg",
+      "url": "/tech-news/2025-11-09/ex-mining-and-ps5-based-amd-bc250-board-runs-gta-v/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "AMD",
+        "Sony"
+      ],
+      "people": []
+    },
+    {
+      "title": "12 aplikací, které by si měli nenároční uživatelé nainstalovat na Android místo předinstalovaných",
+      "description": "Výběr jednodušších a přehlednějších aplikací pro uživatele, kteří nejsou technicky zdatní, s důrazem na lepší ovladatelnost, podporu na dálku a vyšší bezpečnost než u běžných předinstalovaných řešení.",
       "slug": "A-12-apps-i-urge-non-techies-to-install-on-their-a",
       "publishedAt": "2025-11-09T12:12:36+00:00",
       "date": "2025-11-09 12:12:36",
@@ -82,20 +195,99 @@
       "companies": [
         "Google",
         "Microsoft",
-        "Apple",
+        "Samsung",
         "Meta",
-        "OpenAI"
+        "Mozilla"
       ],
       "people": []
     },
     {
-      "title": "Poslední den druhé vlny Black Friday ve Best Buy: Galaxy S25 Ultra se slevou 400 dolarů, OLED TV a další klíčové nabídky",
-      "description": "Best Buy uzavírá druhý víkend předběžných Black Friday akcí s výraznými slevami na špičkové smartphony, TV, herní příslušenství a domácí spotřebiče. Nabídky ukazují cenovou strategii pro klíčové značky těsně před hlavním nákupním vrcholem.",
+      "title": "Android 17 může zásadně změnit využití always-on displeje",
+      "description": "Připravovaný Android 17 podle náznaků z betaverzí Androidu 16 a Google Maps testuje režim „Min Mode“, který umožní aplikacím zobrazovat klíčové informace na always-on displeji. Cílí na praktičtější používání telefonu, nižší spotřebu baterie a bezpečnější interakci například při řízení.",
+      "slug": "this-android-17-could-be-the-best-feature-of-the-y",
+      "publishedAt": "2025-11-09T12:00:00+00:00",
+      "date": "2025-11-09 12:00:00",
+      "importance": 3,
+      "category": "android",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/hand-holding-a-phone-showing-a-minimalist-map-on-the-always-on-display-with-the-android-mascot-and-cinnamon-rolls-in-the-background.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/this-android-17-could-be-the-best-feature-of-the-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tísnivý netflixový thriller Fractured z nemocničního prostředí",
+      "description": "Psychologický thriller Fractured na Netflixu využívá klaustrofobní prostředí nemocnice k postupnému budování paranoie a nedůvěry v instituce zdravotní péče. Film sází na subjektivní perspektivu hlavní postavy a záměrně pracuje s nejistotou diváka.",
+      "slug": "this-eerie-netflix-thriller-made-me-never-want-to-",
+      "publishedAt": "2025-11-09T11:30:00+00:00",
+      "date": "2025-11-09 11:30:00",
+      "importance": 1,
+      "category": "streamovací služby",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ShL7ybnRJPJNGyguTcz8QE-2000-80.jpg",
+      "url": "/tech-news/2025-11-09/this-eerie-netflix-thriller-made-me-never-want-to-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak neoficiální Pixel Camera mění fotografování na Androidu",
+      "description": "Autor popisuje zkušenost se sideloadovanou aplikací Pixel Camera (GCam) na ne-Pixel telefonu, ukazuje výhody funkcí jako Photo Sphere a zároveň upozorňuje na rozdíly oproti výchozí fotoaplikaci výrobce.",
+      "slug": "i-changed-my-phones-camera-and-found-a-view-i-didn",
+      "publishedAt": "2025-11-09T11:00:00+00:00",
+      "date": "2025-11-09 11:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/smartphone-panorama-camera-design.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/i-changed-my-phones-camera-and-found-a-view-i-didn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung Galaxy S26 s čipem Exynos 2600 má přinést výrazně lepší fotoaparát a efektivnější zpracování obrazu",
+      "description": "Samsung podle úniků chystá čip Exynos 2600 pro řadu Galaxy S26 s kompletně přepracovaným ISP a NPU, který má nabídnout profesionální funkce fotoaparátu, vyšší energetickou efektivitu a konkurenceschopnost vůči Snapdragon variantám.",
+      "slug": "samsung-galaxy-s26-exynos-2600-expected-to-enable-",
+      "publishedAt": "2025-11-09T09:11:00+00:00",
+      "date": "2025-11-09 09:11:00",
+      "importance": 3,
+      "category": "smartphony",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S26-Exynos-2600-koennte-coole-Foto-und-Video-Features-ermoeglichen.jpg",
+      "url": "/tech-news/2025-11-09/samsung-galaxy-s26-exynos-2600-expected-to-enable-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "companies": [
+        "Samsung",
+        "Snapdragon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Poslední den týdenních Black Friday nabídek Best Buy: sleva na Galaxy S25 Ultra, OLED TV i domácí spotřebiče",
+      "description": "Best Buy uzavírá druhou vlnu Black Friday Doorbusters s výraznými slevami na Galaxy S25 Ultra, OLED televize Samsung, herní headsety a domácí spotřebiče. Nabídky jsou časově omezené na víkend a doplňují širší slevovou strategii řetězce pro rok 2025.",
       "slug": "last-day-best-buy-week-2-black-friday-doorbusters-",
       "publishedAt": "2025-11-09T08:01:00+00:00",
       "date": "2025-11-09 08:01:00",
       "importance": 3,
-      "category": "spotřební elektronik",
+      "category": "slevy",
       "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-09/last-day-best-buy-week-2-black-friday-doorbusters-/",
       "source": {
@@ -106,15 +298,15 @@
       "companies": [
         "Best Buy",
         "Samsung",
-        "Google",
         "Apple",
-        "Amazon"
+        "Sony",
+        "HP"
       ],
       "people": []
     },
     {
-      "title": "Levný zpevňující krém na krk a tělo zaujal zákazníky díky efektu proti vráskám",
-      "description": "Dermactin Crepe Be Gone Body Soufflé je hydratační krém za zhruba 14 dolarů, který podle uživatelských recenzí viditelně zpevňuje pokožku a zmírňuje vzhled „krůtího krku“ a krepaté kůže na těle.",
+      "title": "Levný zpevňující krém proti vrásčité pokožce získává pozitivní recenze",
+      "description": "Článek upozorňuje na tělový krém Dermactin Crepe Be Gone Body Soufflé za zhruba 14 dolarů, který podle uživatelských recenzí hydratuje, zpevňuje a opticky vyhlazuje vrásčitou a povolenou pokožku na krku a těle.",
       "slug": "this-14-firming-cream-tightens-up-skin-so-well-sho",
       "publishedAt": "2025-11-09T07:00:00+00:00",
       "date": "2025-11-09 07:00:00",
@@ -173,8 +365,8 @@
       "people": []
     },
     {
-      "title": "Blue Origin chce urychlit návrat NASA na Měsíc a nabízí rychlejší přistávací architekturu",
-      "description": "Blue Origin deklaruje připravenost výrazně zrychlit vývoj lunárních landerů pro misi Artemis a reaguje na obavy, že současný plán může umožnit Číně předehnat USA v návratu lidí na Měsíc.",
+      "title": "Blue Origin nabízí zrychlení návratu USA na Měsíc a upravuje architekturu lunárních landerů",
+      "description": "Blue Origin deklaruje připravenost urychlit program pilotovaného přistání NASA na Měsíci a představuje upravenou architekturu svých lunárních landerů jako alternativu k současným zpožděným plánům.",
       "slug": "blue-origin-will-move-heaven-and-earth-to-help-nas",
       "publishedAt": "2025-11-08T21:27:42+00:00",
       "date": "2025-11-08 21:27:42",
@@ -189,8 +381,31 @@
       },
       "companies": [
         "Blue Origin",
-        "NASA",
-        "Ars Technica"
+        "NASA"
+      ],
+      "people": [
+        "Dave Limp",
+        "Jeff Bezos",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Indie App Spotlight: Focii – minimalistická aplikace pro správu úkolů s časovači",
+      "description": "Focii je nezávislá iOS aplikace pro správu úkolů, která staví na maximálně jednoduchém rozhraní, kategorizaci, prioritách, časovačích a opakovaných úkolech, aby uživatelům usnadnila soustředěnou práci bez rušivých prvků.",
+      "slug": "indie-app-spotlight-focii-is-a-clutter-free-task-m",
+      "publishedAt": "2025-11-08T20:30:00+00:00",
+      "date": "2025-11-08 20:30:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Focii-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-08/indie-app-spotlight-focii-is-a-clutter-free-task-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
       ],
       "people": []
     },
@@ -216,7 +431,7 @@
     },
     {
       "title": "Předčasné Black Friday slevy na MacBook Pro M4 začínají na 1 299 dolarech",
-      "description": "Obchodníci v USA spouštějí výrazné slevy na nové MacBooky Pro s čipem M4 ještě před Black Friday, což signalizuje agresivní cenovou strategii u aktuální generace profesionálních notebooků Apple.",
+      "description": "Prodejci v USA spustili předčasné Black Friday akce na MacBook Pro s čipem M4, které snižují cenu vybraných konfigurací na 1 299 dolarů. Nabídky míří na rychlé vyprodání prvních sérií a naznačují agresivnější cenovou strategii u nejnovější generace MacBooků.",
       "slug": "early-black-friday-macbook-pro-m4-deals-start-at-j",
       "publishedAt": "2025-11-08T18:42:00+00:00",
       "date": "2025-11-08 18:42:00",
@@ -230,13 +445,14 @@
         "name": "AppleInsider"
       },
       "companies": [
+        "AppleInsider",
         "Apple"
       ],
       "people": []
     },
     {
-      "title": "Apple možná chystá levný MacBook připomínající éru netbooků",
-      "description": "Podle spekulací Apple zvažuje levný MacBook s mobilním čipem a jednodušší výbavou, který by mohl připomenout někdejší netbooky, ale současně ukázat, jak by dnes vypadal extrémně úsporný notebook v ekosystému Applu.",
+      "title": "Apple zvažuje levný MacBook připomínající netbooky",
+      "description": "Podle spekulací Apple připravuje levnější MacBook s mobilním čipem, menším displejem a novým designem, který na papíře připomíná někdejší netbooky, je však cílený na dnešní web-first a cloudové scénáře.",
       "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
       "publishedAt": "2025-11-08T16:00:00+00:00",
       "date": "2025-11-08 16:00:00",
@@ -251,7 +467,10 @@
       },
       "companies": [
         "Apple",
-        "The Verge"
+        "Google",
+        "Microsoft",
+        "Intel",
+        "Asus"
       ],
       "people": [
         "Tim Cook"
@@ -3931,45 +4150,6 @@
       "people": []
     },
     {
-      "title": "Pixel 10 zaznamenal v USA rekordní prodeje navzdory uvedení iPhonu 17",
-      "description": "Google hlásí 28% meziroční nárůst prodejů telefonů Pixel v září 2025 a dosáhl nového měsíčního prodejního rekordu. Podíl na prémiové kategorii nad 600 dolarů vzrostl na 6,1 %.",
-      "slug": "pixel-10-is-a-hit-in-the-us-with-googles-new-singl",
-      "publishedAt": "2025-11-03T19:30:00+00:00",
-      "date": "2025-11-03 19:30:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/pixel-10-is-a-hit-in-the-us-with-googles-new-singl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI prohlížeče dokážou obcházet placené zdi vydavatelů, ukazuje zpráva",
-      "description": "Prohlížeče s umělou inteligencí jako ChatGPT Atlas a Perplexity Comet dokážu obejít paywally některých vydavatelů a přistupovat k placeným článkům, což vytváří nový problém pro mediální průmysl.",
-      "slug": "some-ai-browsers-can-bypass-publisher-paywalls-rep",
-      "publishedAt": "2025-11-03T19:28:06+00:00",
-      "date": "2025-11-03 19:28:06",
-      "importance": 4,
-      "category": "ai prohlížeče",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0014koRIKb7bRFobP6KvuP5/hero-image.fill.size_1200x675.v1762191041.jpg",
-      "url": "/tech-news/2025-11-03/some-ai-browsers-can-bypass-publisher-paywalls-rep/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nové umělé svaly umožní humanoidním robotům zvednout 4000násobek vlastní hmotnosti",
       "description": "Výzkumníci vyvinuli miniaturní magnetické svaly, které kombinují vlastnosti měkkých robotů s výkonem kovových konstrukcí a dosahují mimořádného poměru síly k hmotnosti.",
       "slug": "this-new-artificial-muscle-could-let-humanoid-robo",
@@ -3983,126 +4163,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ZME Science"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Série Pixel 10 dostává výrazné slevy před Black Friday",
-      "description": "Google Store v USA nečekaně spustil rozsáhlé slevy na celou řadu Pixel 10, včemž zvýšených výkupních cen starších modelů.",
-      "slug": "pixel-10-series-gets-deep-discounts-boosted-trade-",
-      "publishedAt": "2025-11-03T16:41:00+00:00",
-      "date": "2025-11-03 16:41:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/pixel-10-series-gets-deep-discounts-boosted-trade-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fyzik diskutuje o Higgsově bosonu a jeho možném vlivu na osud vesmíru",
-      "description": "Třináct let po objevu Higgsova bosonu se fyzici na konferenci na Brown University zabývají otevřenými otázkami o této částici a jejím možném vlivu na stabilitu vesmíru.",
-      "slug": "physicist-discusses-the-higgs-boson-and-whether-it",
-      "publishedAt": "2025-11-03T15:57:04+00:00",
-      "date": "2025-11-03 15:57:04",
-      "importance": 3,
-      "category": "částicová fyzika",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/physicist-discusses-th.jpg",
-      "url": "/tech-news/2025-11-03/physicist-discusses-the-higgs-boson-and-whether-it/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple Watch SE 3 v rekordní slevě za 199 dolarů",
-      "description": "Model Apple Watch SE 3 s 40mm GPS je dostupný za historicky nejnižší cenu. Současně jsou v akci tablet Amazon Fire HD 10 a termostat Google Nest.",
-      "slug": "the-apple-watch-se-3-is-on-sale-for-a-record-low-p",
-      "publishedAt": "2025-11-03T15:45:00+00:00",
-      "date": "2025-11-03 15:45:00",
-      "importance": 3,
-      "category": "chytré hodinky",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Verge-Deals-Apple-Watch-SE-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-03/the-apple-watch-se-3-is-on-sale-for-a-record-low-p/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Amazon",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "LinkedIn začíná využívat příspěvky uživatelů k trénování AI modelů – jak se odhlásit",
-      "description": "Microsoft rozšiřuje využívání dat z LinkedInu pro trénování umělé inteligence do Evropy a dalších regionů. Uživatelé jsou automaticky zapojeni, ale mohou se odhlásit.",
-      "slug": "security-bite-linkedin-is-now-using-your-humble-po",
-      "publishedAt": "2025-11-03T15:36:00+00:00",
-      "date": "2025-11-03 15:36:00",
-      "importance": 3,
-      "category": "ochrana soukromí",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/greg-bulla-BaZjB1S18fI-unsplash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/security-bite-linkedin-is-now-using-your-humble-po/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "LinkedIn",
-        "Mosyle",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Startup plánuje těžit měsíční palivo v hodnotě 20 milionů dolarů za kilogram",
-      "description": "Společnost Interlune ze Seattlu chce do roku 2027 zahájit těžbu helia-3 na Měsíci, což by mohlo odstartovat bilionovou lunární ekonomiku.",
-      "slug": "startup-plans-to-mine-20-million-per-kilo-moon-fue",
-      "publishedAt": "2025-11-03T14:45:00+00:00",
-      "date": "2025-11-03 14:45:00",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/11/Startup-Plans-to-Mine-20-Million-Per-Kilo-Moon-Fuel-That-Could-Revolutionize-Energy-Forever-scaled.png",
-      "url": "/tech-news/2025-11-03/startup-plans-to-mine-20-million-per-kilo-moon-fue/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "companies": [
-        "Na základě poskytnutého textu (nadpisu a popisu) nelze identifikovat konkrétní název startupu ze Seattlu. Článek zmiňuje pouze \"Seattle startup\" bez uvedení jména firmy.\n\nžádné"
-      ],
-      "people": []
-    },
-    {
-      "title": "The Seance of Blake Manor jako alternativa k Blue Prince",
-      "description": "Osobní dojmy autora z detektivní hry The Seance of Blake Manor, která se pro něj stala návykovou alternativou k populární hře Blue Prince.",
-      "slug": "the-seance-of-blake-manor-is-my-blue-prince-afterm",
-      "publishedAt": "2025-11-03T14:36:00+00:00",
-      "date": "2025-11-03 14:36:00",
-      "importance": 2,
-      "category": "herní průmysl",
-      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/11/SOBM_KeyArt_3840x2160_NoLogo.png",
-      "url": "/tech-news/2025-11-03/the-seance-of-blake-manor-is-my-blue-prince-afterm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Aftermath.site"
       },
       "companies": [],
       "people": []
@@ -4123,44 +4183,6 @@
         "name": "Travel+Leisure"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Podivný případ mizejících captcha testů",
-      "description": "Tradiční captcha testy téměř zmizely z internetu a nahradily je buď neviditelné systémy, nebo bizarní výzvy s psy v kloboucích a posouvacími slipovými kalhotkami.",
-      "slug": "the-curious-case-of-the-bizarre-disappearing-captc",
-      "publishedAt": "2025-11-03T11:00:00+00:00",
-      "date": "2025-11-03 11:00:00",
-      "importance": 3,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://media.wired.com/photos/6903c6faa75196c45161d9e3/191:100/w_1280,c_limit/gear-captchas-476526929.jpg",
-      "url": "/tech-news/2025-11-03/the-curious-case-of-the-bizarre-disappearing-captc/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak rychle smazat všechny konverzace v ChatGPT — a proč to možná budete chtít udělat",
-      "description": "OpenAI umožňuje smazat celou historii ChatGPT konverzací několika kliknutími. Návod krok za krokem pro webové rozhraní i mobilní aplikace.",
-      "slug": "the-quick-way-to-delete-all-your-chatgpt-conversat",
-      "publishedAt": "2025-11-03T08:00:00+00:00",
-      "date": "2025-11-03 08:00:00",
-      "importance": 3,
-      "category": "ai nástroje",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dCnZty2hKNmDqjVrvUD2nN-2000-80.jpg",
-      "url": "/tech-news/2025-11-03/the-quick-way-to-delete-all-your-chatgpt-conversat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     }
   ]

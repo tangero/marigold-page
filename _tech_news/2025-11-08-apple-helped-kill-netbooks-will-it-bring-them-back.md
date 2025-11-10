@@ -2,11 +2,14 @@
 category: hardware
 companies:
 - Apple
-- The Verge
+- Google
+- Microsoft
+- Intel
+- Asus
 date: '2025-11-08 16:00:00'
-description: Podle spekulací Apple zvažuje levný MacBook s mobilním čipem a jednodušší
-  výbavou, který by mohl připomenout někdejší netbooky, ale současně ukázat, jak by
-  dnes vypadal extrémně úsporný notebook v ekosystému Applu.
+description: Podle spekulací Apple připravuje levnější MacBook s mobilním čipem, menším
+  displejem a novým designem, který na papíře připomíná někdejší netbooky, je však
+  cílený na dnešní web-first a cloudové scénáře.
 importance: 2
 layout: tech_news_article
 original_title: Apple helped kill netbooks. Will it bring them back? - The Verge
@@ -18,13 +21,19 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Apple možná chystá levný MacBook připomínající éru netbooků
+title: Apple zvažuje levný MacBook připomínající netbooky
 url: https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/P7150216-hero.1419979718.webp?quality=90&strip=all&crop=0,10.914776032577,100,78.170447934846
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/P7150216-hero.1419979718.webp?quality=90&strip=all&crop=0,10.914776032577,100,78.170447934846
 ---
 
-Podle neoficiálních informací Apple pracuje na výrazně levnějším MacBooku, údajně s cenou kolem 599 dolarů. Na rozdíl od současných MacBook Air a Pro by nešlo jen o zlevněnou verzi stávajícího modelu, ale o nové, menší zařízení s jednodušším displejem, omezenější výbavou a čipem původně navrženým pro iPhone (varianty A18 nebo A19). Tento koncept výrazně připomíná někdejší netbooky: malé, levné, úsporné notebooky z konce 2000s, které sázely na minimální výkon, dlouhou výdrž a základní práci ve webovém prohlížeči. Apple tehdy netbooky fakticky vytlačil iPadem, nyní však zvažuje produkt, který se jejich filozofii částečně přibližuje, ale v uzavřeném ekosystému macOS, App Store a vlastních ARM čipů. Pro uživatele by takový stroj mohl znamenat levnější vstup do světa Maců, vhodný pro školství, nenáročné kancelářské použití a práci převážně v cloudu. Současně však existuje riziko, že příliš osekaná konfigurace skončí podobně jako původní netbooky: omezený komfort, omezený výkon a frustrace při náročnějších scénářích, jako je vývoj, AI nástroje běžící lokálně nebo multimediální tvorba. Zatím jde ale pouze o spekulace bez oficiálního potvrzení, proto je nutné číst zprávy s opatrností a nevyvozovat definitivní závěry o strategii Applu.
+Podle neoficiálních informací Apple pracuje na levnějším MacBooku, který by zásadně snížil vstupní cenu do ekosystému macOS – hovoří se o částce okolo 599 dolarů. Zásadní rozdíl oproti současným MacBook Air a Pro má být v použité platformě: místo čipů řady M by měl notebook využívat procesor z iPhonů (pravděpodobně A18 nebo A19), menší a jednodušší displej s nižším rozlišením a „zcela nový“ hardwarový design optimalizovaný pro nízkou spotřebu.
+
+Koncepčně se tento přístup podobá netbookům z konce 2000s – tehdejší levné a kompaktní notebooky (například ASUS Eee PC) nabízely minimální výkon, důraz na mobilitu, dlouhou výdrž a nízkou cenu, často za cenu velmi omezeného komfortu při práci. Stejně jako netbooky má i spekulovaný levný MacBook stát na myšlence, že pro řadu scénářů stačí webový prohlížeč, cloudové služby, základní kancelářské nástroje a komunikace.
+
+Rozdíl je v tom, že dnešní mobilní čipy dosahují podstatně vyššího výkonu na watt než tehdejší nízkonapěťové procesory Intel, takže potenciální omezení by nebylo tak výrazné. Přesto je potřeba k těmto zprávám přistupovat opatrně: jde o spekulace bez oficiálního potvrzení, Apple může projekt kdykoliv upravit nebo ukončit. Pokud by se ale podobný produkt skutečně objevil, šlo by o tlak na výrobce levnějších notebooků s Windows i na Chromebooky, zejména ve vzdělávání a v rozpočtových segmentech, kde dnes Apple cenově prakticky nesoupeří.
+
+Pro uživatele by tento směr znamenal levnější vstup do světa macOS, ale také nutnost přijmout jasné kompromisy: omezený výkon pro náročné aplikace (video, vývoj, AI inference lokálně), pravděpodobně méně portů, horší zobrazovací panel a silnou závislost na optimalizaci software a služeb Applu. Z hlediska trhu by šlo spíše o evoluci myšlenky netbooku za současných technologických podmínek než o skutečný návrat stejné kategorie zařízení.
 
 ---
 
