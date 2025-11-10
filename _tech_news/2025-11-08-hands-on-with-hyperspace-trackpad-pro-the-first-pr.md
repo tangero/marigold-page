@@ -2,13 +2,13 @@
 author: Marisa Aigen
 category: hardware
 companies:
-- Apple
 - Hyper
+- Apple
 - Microsoft
 date: '2025-11-08 15:28:00'
-description: HyperSpace Trackpad Pro přináší uživatelům Windows to, co dosud chybělo
-  – kvalitní externí multi-touch trackpad s haptickou odezvou, vysokou frekvencí snímání
-  a detailní softwarovou konfigurací.
+description: HyperSpace Trackpad Pro cílí na uživatele Windows jako první prémiový
+  externí multi-touch trackpad s haptickou odezvou, vysokou obnovovací frekvencí a
+  konfigurovatelným softwarem Hydra.
 importance: 3
 layout: tech_news_article
 original_title: 'Hands-on with HyperSpace Trackpad Pro: The first premium offering
@@ -19,38 +19,35 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: 'První prémiový externí trackpad pro Windows: praktické zkušenosti s HyperSpace
-  Trackpad Pro'
+title: 'První prémiový externí trackpad pro Windows: HyperSpace Trackpad Pro'
 url: https://9to5mac.com/2025/11/08/hyperspace-trackpad-pro-hands-on-magic-trackpad-for-windows/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Hyper-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Hyper-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
 ## Souhrn
-HyperSpace Trackpad Pro je prémiový externí multi-touch trackpad navržený primárně pro uživatele Windows, který se snaží zaplnit mezeru na trhu obdobně jako Magic Trackpad u Macu. Nabízí kvalitní konstrukci, haptickou odezvu, vysokou odezvu vstupu a pokročilý konfigurační software Hydra.
+HyperSpace Trackpad Pro je první prémiový externí multi-touch trackpad cílený na uživatele Windows, který se snaží nabídnout obdobnou úroveň zpracování a funkcí jako Magic Trackpad od Applu. Zařízení kombinuje kovovo-skleněné provedení, haptickou odezvu, vysokou odezvu vstupu a doprovodnou aplikaci Hydra pro detailní konfiguraci gest a mapování funkcí.
 
 ## Klíčové body
-- Prémiový externí trackpad cílený na Windows uživatele, konstrukčně podobný Magic Trackpadu.
-- Skleněno-hliníkové tělo, jednotné klikání, piezoelektrická haptická odezva, polling rate 240 Hz.
-- Podpora víceprstových gest, plynulé dvouprsté scrollování a pinch-to-zoom bez viditelného trhání.
-- Cena 149,99 USD, tedy vyšší než Magic Trackpad od Applu (129 USD).
-- Doprovodná aplikace Hydra umožňuje detailní přizpůsobení gest a funkcí trackpadu.
+- Prémiové provedení: sklo, hliník, jednotný klik bez „diving board“ mechanismu.
+- Piezoelektrický haptický motor a 240 Hz polling rate pro rychlou a konzistentní odezvu.
+- Podpora více dotykových gest (scrollování dvěma prsty, pinch-to-zoom) bez znatelného trhání.
+- Cena 149,99 USD, vyšší než Apple Magic Trackpad (129 USD).
+- Software Hydra umožňuje rozsáhlé přizpůsobení gest, zkratek a pracovních postupů.
 
 ## Podrobnosti
-HyperSpace Trackpad Pro představuje první vážně míněný pokus nabídnout uživatelům Windows externí trackpad na úrovni, která je běžná v ekosystému Applu. Za produktem stojí společnost Hyper (Hyper by Sanho), která se dlouhodobě zaměřuje na příslušenství jako dokovací stanice, rozbočovače a nabíjecí řešení. Novinka vychází z osvědčeného konceptu: pevné hliníkové tělo, skleněný povrch, vyšší hmotnost zajišťující stabilitu na stole a chladný, přesný povrch pro gesta.
+HyperSpace Trackpad Pro představuje snahu přinést do ekosystému Windows kvalitní externí trackpad, který dosud na trhu prakticky chyběl. Z konstrukčního hlediska jde o zařízení se skleněnou dotykovou plochou a hliníkovým tělem, s vyšší hmotností a robustním zpracováním. Namísto tradičního mechanického „diving board“ kliku využívá jednotnou klikatelnou plochu v kombinaci s piezoelektrickým haptickým motorem, který simuluje kliknutí a má poskytnout konzistentní odezvu napříč celou plochou.
 
-Namísto staršího „diving board“ mechanismu používá Trackpad Pro jednotný klik po celé ploše doplněný piezoelektrickým haptickým motorem. Ten simuluje kliknutí podobně jako moderní trackpady u notebooků Apple – uživatel fyzicky nemačká mechanický kloub, ale dostává konzistentní hmatovou odezvu. To zvyšuje životnost a umožňuje přesnější a rovnoměrnou odezvu. Polling rate 240 Hz znamená rychlé snímání pohybu prstů, což je klíčové pro přesnou práci v grafických nástrojích, střihových aplikacích nebo při jemné manipulaci v CAD a 3D nástrojích, kde je zpoždění snadno patrné.
+Trackpad nabízí polling rate 240 Hz, což znamená častější snímání vstupu a plynulejší odezvu pohybu kurzoru i gest. V praxi to má snížit zpoždění a zlepšit přesnost, což je relevantní zejména pro uživatele zvyklé na kvalitní trackpady z prémiových notebooků. Podporována jsou standardní víceprstová gesta – scrollování dvěma prsty, pinch-to-zoom a další navigační gesta – s důrazem na plynulost a bez viditelného trhání, což je slabé místo mnoha levnějších periferií pro Windows.
 
-Podpora víceprstových gest zahrnuje standardy jako dvouprsté posouvání, pinch-to-zoom a pravděpodobně i další kombinace pro přepínání ploch, navigaci v oknech nebo ovládání multimédií. Zásadní přidanou hodnotou je aplikace Hydra. Ta slouží jako konfigurační nástroj, ve kterém lze gesta, zóny trackpadu a jednotlivé akce detailně mapovat na systémové funkce, klávesové zkratky, spuštění aplikací nebo specifické příkazy. Pro profesionály to znamená možnost vytvářet si vlastní workflow: například gesta pro timeline v editačních programech, rychlé přepínání nástrojů v grafice nebo makra pro opakované úlohy.
+Klíčovým prvkem je software Hydra, který slouží jako konfigurační nástroj pro trackpad. Uživatelé mohou upravovat gesta, přiřazovat jim klávesové zkratky, spouštění aplikací nebo specifické funkce pro tvůrčí nástroje (např. časová osa ve videu, zoom v grafických editorech, rychlé přepínání oken). Hydra tak umožňuje přizpůsobit ovládání pracovním postupům profesionálů, vývojářů či tvůrců obsahu a přeměnit trackpad z pouhé náhrady myši na produktivní nástroj.
 
-Z hlediska hardware se zařízení podle prvních dojmů blíží kvalitě Magic Trackpadu. Otázkou zůstává dlouhodobá spolehlivost, latence v různých konfiguracích Windows a stabilita ovladačů, což je tradiční slabší místo podobných periferií pro tento ekosystém. Cena 149,99 USD je nad úrovní přímého referenčního produktu Apple a může být překážkou pro běžné uživatele, ale u cílové skupiny – kreativců, vývojářů, uživatelů s více monitory a těch, kteří nesnesou průměrné touchpady na noteboocích – je obhajitelná, pokud software i ovladače doručí deklarovanou kvalitu.
+Cena 149,99 USD je nad úrovní Magic Trackpadu od Applu, což je z hlediska hodnoty diskutabilní, zejména pro uživatele, kteří dosud nepoužívali samostatný trackpad jako hlavní vstupní zařízení. Výrobce sází na kombinaci prémiového zpracování a softwarové flexibility, která tento rozdíl ospravedlní zejména u náročnějších uživatelů Windows.
 
 ## Proč je to důležité
-Externí prémiový trackpad pro Windows byl dlouhodobě chybějícím článkem. Pro trh to znamená několik věcí. Za prvé, uživatelé Windows, kteří preferují gesta a přesnější kurzorové ovládání než nabízí většina integrovaných touchpadů, dostávají konečně zařízení s ambicí konkurovat Applu nejen vzhledem, ale i funkcemi. To je relevantní zejména pro kreativní a profesionální segment, kde se kombinuje práce s perem, myší a gesty.
+Pro ekosystém Windows jde o zaplnění dlouhodobé mezery – kvalitní externí trackpady byly buď neexistující, nebo technologicky slabé. HyperSpace Trackpad Pro ukazuje, že se výrobci periferií začínají více zaměřovat na vstupní zařízení s vyšší přesností, haptikou a sofistikovaným softwarem, podobně jako v segmentu herních myší nebo profesionálních klávesnic.
 
-Za druhé, software Hydra naznačuje posun od pasivního „obecného“ vstupního zařízení k plně konfigurovatelnému nástroji. Pokud bude Hydra stabilní, nabídne integrace a možnost mapování složitějších sekvencí, může se z trackpadu stát produktivní nástroj podobně jako specializované klávesnice a ovladače pro audio/video produkci. Z hlediska ekosystému Windows to vytváří tlak na další výrobce periferií, aby přestali ignorovat kvalitní haptickou odezvu, vyšší polling rate a pokročilá gesta.
-
-Zároveň platí, že jde o úzce zaměřený produkt, nikoli průlom v měřítku celé IT infrastruktury. Důležitost spočívá v kultivaci uživatelského rozhraní a v přiblížení uživatelské zkušenosti Windows k tomu, co dlouhodobě nastavuje Apple u svých zařízení.
+Pro uživatele to znamená reálnou alternativu k myši i k často průměrným trackpadům v noteboocích s Windows, což může zvýšit ergonomii a efektivitu práce, zejména v kreativních a vývojářských workflows. Z hlediska trhu jde o signál, že se očekává větší náročnost uživatelů na kvalitu interakce se systémem, nikoli jen na výkon CPU nebo GPU. Pokud se HyperSpace Trackpad Pro prosadí, lze očekávat reakci dalších výrobců a postupný standard kvalitních multi-touch periferií i mimo ekosystém Applu.
 
 ---
 

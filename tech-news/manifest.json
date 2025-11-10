@@ -1,14 +1,142 @@
 {
-  "generated": "2025-11-10T12:32:22.347972+00:00",
+  "generated": "2025-11-10T16:23:52.495641+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Investice do přenosné štítkovačky Nelko: praktický nástroj pro organizaci kanceláře",
-      "description": "Přenosná termální štítkovačka Nelko, ovládaná přes mobilní či desktopovou aplikaci, ukazuje, jak levné specializované zařízení může zrychlit organizaci kanceláře, skladů i domácího pracovního prostoru bez nutnosti inkoustu a složité instalace.",
+      "title": "Linuxový kernel míří k povolení Microsoft C Extensions v celém build systému",
+      "description": "Vývojáři Linuxového jádra zvažují trvalé zapnutí přepínače -fms-extensions v kbuild, což by umožnilo používat Microsoft C Extensions při kompilaci kernelu s GCC i Clang a otevřelo cestu k úpravám stylu kódu i optimalizacím.",
+      "slug": "the-linux-kernel-looks-to-bite-the-bullet-in-enabl",
+      "publishedAt": "2025-11-09T14:51:00+00:00",
+      "date": "2025-11-09 14:51:00",
+      "importance": 3,
+      "category": "programování",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=ms_b",
+      "url": "/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Phoronix"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "18 lidí, kterým se minulý týden vymstila jejich vlastní špatná rozhodnutí",
+      "description": "Galerie drobných osobních selhání a nehod posbíraných z internetu ukazuje, jak nevinné nápady, nepozornost nebo lenost vedou k bizarním a někdy drahým následkům – od utopeného auta přes zničenou večeři až po zavřené klíče.",
+      "slug": "A-18-people-whose-lives-got-completely-and-totally",
+      "publishedAt": "2025-11-09T13:07:51+00:00",
+      "date": "2025-11-09 13:07:51",
+      "importance": 1,
+      "category": "zábava",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/09/13/thumb/JAkJDDzMc.jpg?crop=2500:1309;0,0%26downsize=1250:*",
+      "url": "/tech-news/2025-11-09/A-18-people-whose-lives-got-completely-and-totally/",
+      "source": {
+        "emoji": "📰",
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ikea výrazně posiluje kontrolu nad chytrou domácností",
+      "description": "Ikea rozšiřuje nabídku chytré domácnosti o novou generaci zařízení a služeb, které mají ambici stát se centrálním prvkem běžných domácích instalací a konkurovat dražším ekosystémům velkých technologických firem.",
+      "slug": "ikea-just-took-over-your-smart-home-the-verge",
+      "publishedAt": "2025-11-09T13:00:00+00:00",
+      "date": "2025-11-09 13:00:00",
+      "importance": 3,
+      "category": "smart home",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Installer-105.png?quality=90&strip=all&crop=0%2C10.789646653521%2C100%2C78.420706692958&w=1200",
+      "url": "/tech-news/2025-11-09/ikea-just-took-over-your-smart-home-the-verge/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Ikea",
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "12 klíčových aplikací pro méně zkušené uživatele Androidu: lepší použitelnost než předinstalované nástroje",
+      "description": "Článek Android Authority doporučuje sadu aplikací, které nahrazují nebo doplňují předinstalované nástroje v Androidu a usnadňují život méně technicky zdatným uživatelům, zejména díky vzdálené podpoře, jednodušším rozhraním a vyšší bezpečnosti.",
+      "slug": "A-12-apps-i-urge-non-techies-to-install-on-their-a",
+      "publishedAt": "2025-11-09T12:12:36+00:00",
+      "date": "2025-11-09 12:12:36",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/google-gboard-emoji-picker-new-july.jpg",
+      "url": "/tech-news/2025-11-09/A-12-apps-i-urge-non-techies-to-install-on-their-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Microsoft",
+        "Apple",
+        "Meta",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Poslední den druhé vlny Black Friday ve Best Buy: Galaxy S25 Ultra se slevou 400 dolarů, OLED TV a další klíčové nabídky",
+      "description": "Best Buy uzavírá druhý víkend předběžných Black Friday akcí s výraznými slevami na špičkové smartphony, TV, herní příslušenství a domácí spotřebiče. Nabídky ukazují cenovou strategii pro klíčové značky těsně před hlavním nákupním vrcholem.",
+      "slug": "last-day-best-buy-week-2-black-friday-doorbusters-",
+      "publishedAt": "2025-11-09T08:01:00+00:00",
+      "date": "2025-11-09 08:01:00",
+      "importance": 3,
+      "category": "spotřební elektronik",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-09/last-day-best-buy-week-2-black-friday-doorbusters-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [
+        "Best Buy",
+        "Samsung",
+        "Google",
+        "Apple",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Levný zpevňující krém na krk a tělo zaujal zákazníky díky efektu proti vráskám",
+      "description": "Dermactin Crepe Be Gone Body Soufflé je hydratační krém za zhruba 14 dolarů, který podle uživatelských recenzí viditelně zpevňuje pokožku a zmírňuje vzhled „krůtího krku“ a krepaté kůže na těle.",
+      "slug": "this-14-firming-cream-tightens-up-skin-so-well-sho",
+      "publishedAt": "2025-11-09T07:00:00+00:00",
+      "date": "2025-11-09 07:00:00",
+      "importance": 1,
+      "category": "kosmetika",
+      "urlToImage": "https://www.instyle.com/thmb/knmnTc2CjB08RzraM0JiLbYyK4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2042405345-soc-656c81610b724c6e910dd388b71ff980.jpg",
+      "url": "/tech-news/2025-11-09/this-14-firming-cream-tightens-up-skin-so-well-sho/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "InStyle"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Investice do přenosné tiskárny štítků se vyplácí v kanceláři",
+      "description": "Autor popisuje zkušenost s přenosnou tiskárnou štítků Nelko, která tiskne z mobilní aplikace nebo notebooku a zjednodušuje organizaci v kanceláři i domácí pracovně.",
       "slug": "i-invested-in-a-portable-label-printer-and-its-alr",
       "publishedAt": "2025-11-09T02:00:00+00:00",
       "date": "2025-11-09 02:00:00",
-      "importance": 3,
+      "importance": 1,
       "category": "hardware",
       "urlToImage": "https://www.zdnet.com/a/img/resize/55e29ba804b8ebd1e1e44e44cfdfd0d2a763a8a9/2025/11/06/a4d06ade-85bc-4343-96ce-ca6f4c12fb81/img-0509.jpg?auto=webp&fit=crop&height=675&width=1200",
       "url": "/tech-news/2025-11-09/i-invested-in-a-portable-label-printer-and-its-alr/",
@@ -20,17 +148,17 @@
       "companies": [
         "Apple",
         "Google",
-        "Nelko"
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "4 nové vestavěné aplikace v iOS 26 a iPadOS 26, které mění používání iPhonu a iPadu",
-      "description": "Apple v iOS 26 a iPadOS 26 nasazuje nové systémové aplikace a design „Liquid Glass“, čímž rozšiřuje funkce iPhonu a iPadu bez nutnosti instalace třetích stran a přibližuje iPad blíže plnohodnotnému počítači.",
+      "title": "4 nové systémové aplikace v iOS 26 a iPadOS 26, které zásadně rozšiřují možnosti iPhonu a iPadu",
+      "description": "Apple v iOS 26 a iPadOS 26 tiše přidává několik nových integrovaných aplikací, které rozšiřují funkčnost zařízení bez nutnosti instalovat software třetích stran a současně navazují na nový design „Liquid Glass“.",
       "slug": "A-4-new-apps-released-with-ios-26-ipados-26-that-e",
       "publishedAt": "2025-11-08T21:30:00+00:00",
       "date": "2025-11-08 21:30:00",
-      "importance": 4,
+      "importance": 3,
       "category": "mobilní aplikace",
       "urlToImage": "https://www.slashgear.com/img/gallery/4-new-apps-released-with-ios-26-ipados-26-that-everyone-should-know-about/l-intro-1762334103.jpg",
       "url": "/tech-news/2025-11-08/A-4-new-apps-released-with-ios-26-ipados-26-that-e/",
@@ -40,19 +168,13 @@
         "name": "SlashGear"
       },
       "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "OpenAI",
-        "NASA"
+        "Apple"
       ],
-      "people": [
-        "Tim Cook"
-      ]
+      "people": []
     },
     {
-      "title": "Blue Origin chce urychlit návrat NASA na Měsíc, nabízí rychlejší lunární architekturu",
-      "description": "Blue Origin deklaruje připravenost zásadně urychlit program Artemis a nabídnout NASA upravenou architekturu lunárních landerů, aby USA snížily riziko, že je v pilotovaném návratu na Měsíc předběhne Čína.",
+      "title": "Blue Origin chce urychlit návrat NASA na Měsíc a nabízí rychlejší přistávací architekturu",
+      "description": "Blue Origin deklaruje připravenost výrazně zrychlit vývoj lunárních landerů pro misi Artemis a reaguje na obavy, že současný plán může umožnit Číně předehnat USA v návratu lidí na Měsíc.",
       "slug": "blue-origin-will-move-heaven-and-earth-to-help-nas",
       "publishedAt": "2025-11-08T21:27:42+00:00",
       "date": "2025-11-08 21:27:42",
@@ -70,15 +192,51 @@
         "NASA",
         "Ars Technica"
       ],
-      "people": [
-        "Jeff Bezos",
-        "Dave Limp",
-        "Elon Musk"
-      ]
+      "people": []
     },
     {
-      "title": "Apple možná vrátí netbooky v podobě levného MacBooku",
-      "description": "Podle spekulací Apple připravuje levný, menší MacBook s čipem z iPhonu, který na papíře připomíná někdejší netbooky – malá úhlopříčka, nižší rozlišení, nízká cena a důraz na výdrž. Pokud se potvrdí, půjde o výrazný posun v cenové strategii firmy a potenciální tlak na trh levných notebooků a Chromebooků.",
+      "title": "Uniklý nákres Galaxy S26 naznačuje nový modul fotoaparátu, tenčí tělo a podporu Qi2",
+      "description": "Únik nákresu údajného Samsung Galaxy S26 ukazuje přepracovaný modul fotoaparátu, tenčí konstrukci a integraci magnetů pro standard Qi2, což naznačuje drobné, ale praktické změny oproti Galaxy S25.",
+      "slug": "leaked-galaxy-s26-sketch-points-to-three-semi-exci",
+      "publishedAt": "2025-11-08T19:26:52+00:00",
+      "date": "2025-11-08 19:26:52",
+      "importance": 2,
+      "category": "smartphony",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175568-wide-two_1200/Leaked-Galaxy-S26-sketch-points-to-three-semi-exciting-changes.jpg",
+      "url": "/tech-news/2025-11-08/leaked-galaxy-s26-sketch-points-to-three-semi-exci/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Předčasné Black Friday slevy na MacBook Pro M4 začínají na 1 299 dolarech",
+      "description": "Obchodníci v USA spouštějí výrazné slevy na nové MacBooky Pro s čipem M4 ještě před Black Friday, což signalizuje agresivní cenovou strategii u aktuální generace profesionálních notebooků Apple.",
+      "slug": "early-black-friday-macbook-pro-m4-deals-start-at-j",
+      "publishedAt": "2025-11-08T18:42:00+00:00",
+      "date": "2025-11-08 18:42:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65685-137504-macbook-pro-sale-1299-xl.jpg",
+      "url": "/tech-news/2025-11-08/early-black-friday-macbook-pro-m4-deals-start-at-j/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple možná chystá levný MacBook připomínající éru netbooků",
+      "description": "Podle spekulací Apple zvažuje levný MacBook s mobilním čipem a jednodušší výbavou, který by mohl připomenout někdejší netbooky, ale současně ukázat, jak by dnes vypadal extrémně úsporný notebook v ekosystému Applu.",
       "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
       "publishedAt": "2025-11-08T16:00:00+00:00",
       "date": "2025-11-08 16:00:00",
@@ -95,11 +253,13 @@
         "Apple",
         "The Verge"
       ],
-      "people": []
+      "people": [
+        "Tim Cook"
+      ]
     },
     {
-      "title": "5 užitečných Apple CarPlay widgetů, které se vyplatí nastavit hned",
-      "description": "Apple rozšiřuje CarPlay o podporu widgetů, které přenášejí informace z iPhonu přímo na palubní displej. Výběr vhodných widgetů může zjednodušit plánování cesty, kontrolu počasí i správu chytré domácnosti bez rozptylování řidiče.",
+      "title": "5 Apple CarPlay widgetů, které byste měli nastavit co nejdříve",
+      "description": "Nové widgety v Apple CarPlay rozšiřují možnosti přizpůsobení palubního displeje a umožňují rychlý přístup ke kalendáři, připomínkám, počasí, chytré domácnosti a dalším informacím bez nutnosti sahat po telefonu.",
       "slug": "A-5-apple-carplay-widgets-you-should-install-asap-",
       "publishedAt": "2025-11-08T15:45:00+00:00",
       "date": "2025-11-08 15:45:00",
@@ -118,8 +278,8 @@
       "people": []
     },
     {
-      "title": "První prémiový externí trackpad pro Windows: praktické zkušenosti s HyperSpace Trackpad Pro",
-      "description": "HyperSpace Trackpad Pro přináší uživatelům Windows to, co dosud chybělo – kvalitní externí multi-touch trackpad s haptickou odezvou, vysokou frekvencí snímání a detailní softwarovou konfigurací.",
+      "title": "První prémiový externí trackpad pro Windows: HyperSpace Trackpad Pro",
+      "description": "HyperSpace Trackpad Pro cílí na uživatele Windows jako první prémiový externí multi-touch trackpad s haptickou odezvou, vysokou obnovovací frekvencí a konfigurovatelným softwarem Hydra.",
       "slug": "hands-on-with-hyperspace-trackpad-pro-the-first-pr",
       "publishedAt": "2025-11-08T15:28:00+00:00",
       "date": "2025-11-08 15:28:00",
@@ -133,20 +293,20 @@
         "name": "9to5Mac"
       },
       "companies": [
-        "Apple",
         "Hyper",
+        "Apple",
         "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "8 nedoceněných chytrých gadgetů do auta, které stojí za vyzkoušení",
-      "description": "Výběr osmi méně známých chytrých zařízení do auta ukazuje, jak relativně levné gadgety rozšiřují bezpečnost, sledování vozidla, komfort cestování i zábavu bez nutnosti měnit celý vůz.",
+      "title": "8 opomíjených chytrých gadgetů, které promění vaše auto v praktičtější a bezpečnější vůz",
+      "description": "Výběr nenápadných chytrých zařízení pro auta ukazuje, jak drobná elektronika může zlepšit bezpečnost, sledování vozidla i komfort při každodenním dojíždění, bez nutnosti drahých vestavěných systémů.",
       "slug": "A-8-underrated-smart-car-gadgets-you-need-to-try-b",
       "publishedAt": "2025-11-08T15:02:00+00:00",
       "date": "2025-11-08 15:02:00",
       "importance": 3,
-      "category": "gadgety",
+      "category": "automobilové gadgety",
       "urlToImage": "https://www.bgr.com/img/gallery/8-underrated-smart-car-gadgets-you-need-to-try/l-intro-1761928453.jpg",
       "url": "/tech-news/2025-11-08/A-8-underrated-smart-car-gadgets-you-need-to-try-b/",
       "source": {
@@ -195,7 +355,7 @@
     },
     {
       "title": "Pět důvodů, proč nový Kindle Scribe Colorsoft stojí za pozornost",
-      "description": "Amazon představuje Kindle Scribe Colorsoft, barevný čtečkový tablet s 11\" E Ink displejem, vylepšeným povrchem pro psaní a aktualizovaným softwarem pro produktivitu. Zaměřuje se na uživatele, kteří kombinují čtení, anotace a digitální poznámky v jednom zařízení.",
+      "description": "Nový Kindle Scribe Colorsoft přináší barevný E Ink displej, vylepšený povrch pro psaní a další změny, které z něj dělají praktičtější nástroj pro čtení, anotace a produktivitu.",
       "slug": "A-5-reasons-why-the-next-kindle-scribe-has-my-full",
       "publishedAt": "2025-11-08T14:03:28+00:00",
       "date": "2025-11-08 14:03:28",
@@ -209,10 +369,7 @@
         "name": "Android Authority"
       },
       "companies": [
-        "Amazon",
-        "Apple",
-        "Google",
-        "Microsoft"
+        "Amazon"
       ],
       "people": []
     },
@@ -3831,27 +3988,6 @@
       "people": []
     },
     {
-      "title": "Chytré brýle Lenovo V1 patří mezi nejlehčí na trhu, ale chybí jim kamera",
-      "description": "Lenovo představilo chytré brýle V1 s micro LED displejem a hmotností pouhých 38 gramů, což je o 30 gramů méně než Meta Ray-Ban Display. Brýle však postrádají kameru.",
-      "slug": "lenovos-smart-glasses-are-among-the-lightest-you-c",
-      "publishedAt": "2025-11-03T17:15:42+00:00",
-      "date": "2025-11-03 17:15:42",
-      "importance": 3,
-      "category": "chytré brýle",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Lenovo-smart-glasses-1200x675.jpg",
-      "url": "/tech-news/2025-11-03/lenovos-smart-glasses-are-among-the-lightest-you-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Lenovo",
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "Série Pixel 10 dostává výrazné slevy před Black Friday",
       "description": "Google Store v USA nečekaně spustil rozsáhlé slevy na celou řadu Pixel 10, včemž zvýšených výkupních cen starších modelů.",
       "slug": "pixel-10-series-gets-deep-discounts-boosted-trade-",
@@ -3888,28 +4024,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Šéf AI divize Microsoftu varuje: Snaha o vědomou umělou inteligenci je ztráta času",
-      "description": "Mustafa Suleyman z Microsoftu považuje výzkum vědomé AI za absurdní. Tvrdí, že AI nikdy nemůže dosáhnout skutečného vědomí, protože jí chybí biologický základ pro emocionální zkušenost.",
-      "slug": "microsoft-ai-chief-warns-pursuing-machine-consciou",
-      "publishedAt": "2025-11-03T15:50:53+00:00",
-      "date": "2025-11-03 15:50:53",
-      "importance": 3,
-      "category": "ai vědomí",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/04/a9fa029527a6577ace70df231fe3087e.jpg",
-      "url": "/tech-news/2025-11-03/microsoft-ai-chief-warns-pursuing-machine-consciou/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Suleyman"
-      ]
     },
     {
       "title": "Apple Watch SE 3 v rekordní slevě za 199 dolarů",
@@ -3951,46 +4065,6 @@
       "companies": [
         "LinkedIn",
         "Mosyle",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft: Záplata kritické chyby WSUS vyřadila hotpatching na Windows Server 2025",
-      "description": "Mimořádná bezpečnostní aktualizace KB5070881, která opravuje aktivně zneužívanou zranitelnost ve Windows Server Update Service, způsobila výpadek funkce hotpatching na některých serverech Windows Server 2025.",
-      "slug": "microsoft-patch-for-wsus-flaw-disabled-windows-ser",
-      "publishedAt": "2025-11-03T15:22:12+00:00",
-      "date": "2025-11-03 15:22:12",
-      "importance": 4,
-      "category": "kybernetická bezpečn",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg",
-      "url": "/tech-news/2025-11-03/microsoft-patch-for-wsus-flaw-disabled-windows-ser/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "M5 Macy: Přehled nových modelů, které Apple údajně chystá",
-      "description": "Podle nových informací Apple v roce 2026 plánuje uvedení minimálně čtyř nových Mac počítačů s procesory M5, včetně MacBook Air, MacBook Pro, Mac mini a Mac Studio.",
-      "slug": "m5-macs-here-are-the-new-mac-models-reportedly-com",
-      "publishedAt": "2025-11-03T14:57:00+00:00",
-      "date": "2025-11-03 14:57:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_regular.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/m5-macs-here-are-the-new-mac-models-reportedly-com/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
         "Apple"
       ],
       "people": []
@@ -4070,46 +4144,6 @@
       "people": []
     },
     {
-      "title": "Microsoft potvrdil chybu: Správce úloh ve Windows 11 se po aktualizaci KB5067036 nedá ukončit",
-      "description": "Po instalaci říjnové volitelné aktualizace Windows 11 se Správce úloh nedá řádně ukončit a běží na pozadí v desítkách instancí, což způsobuje problémy s výkonem systému.",
-      "slug": "microsoft-windows-task-manager-wont-quit-after-kb5",
-      "publishedAt": "2025-11-03T10:12:47+00:00",
-      "date": "2025-11-03 10:12:47",
-      "importance": 3,
-      "category": "windows aktualizace",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/09/22/Windows-11.jpg",
-      "url": "/tech-news/2025-11-03/microsoft-windows-task-manager-wont-quit-after-kb5/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Logitech Alto Keys K98M přináší nadšencké funkce do mainstreamu",
-      "description": "Nová mechanická klávesnice Logitech za 150 dolarů nabízí výměnné spínače a gasket mount konstrukci, funkce typické pro menší specializované značky.",
-      "slug": "logitechs-latest-keyboard-dabbles-in-enthusiast-fe",
-      "publishedAt": "2025-11-03T08:01:00+00:00",
-      "date": "2025-11-03 08:01:00",
-      "importance": 3,
-      "category": "klávesnice",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258042_Logitech_Alto_Keys_K98M_keyboard_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-03/logitechs-latest-keyboard-dabbles-in-enthusiast-fe/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Logitech"
-      ],
-      "people": []
-    },
-    {
       "title": "Jak rychle smazat všechny konverzace v ChatGPT — a proč to možná budete chtít udělat",
       "description": "OpenAI umožňuje smazat celou historii ChatGPT konverzací několika kliknutími. Návod krok za krokem pro webové rozhraní i mobilní aplikace.",
       "slug": "the-quick-way-to-delete-all-your-chatgpt-conversat",
@@ -4127,44 +4161,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "NASA vyfotila mrtvého robota na povrchu Marsu",
-      "description": "Sonda Mars Reconnaissance Orbiter zachytila snímek přistávacího modulu InSight, který ukončil svou misi v roce 2022 a nyní pomalu mizí pod vrstvou marsiánského prachu.",
-      "slug": "nasa-spacecraft-spots-dead-robot-lying-on-mars-sur",
-      "publishedAt": "2025-11-03T06:19:00+00:00",
-      "date": "2025-11-03 06:19:00",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/InSight-lander-on-Mars.webp",
-      "url": "/tech-news/2025-11-03/nasa-spacecraft-spots-dead-robot-lying-on-mars-sur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Supercarblondie.com"
-      },
-      "companies": [
-        "NASA"
-      ],
-      "people": []
-    },
-    {
-      "title": "New Balance 1080 v15: Nová pěna a výrazné snížení hmotnosti",
-      "description": "Recenze běžecké boty New Balance 1080 v15, která přináší novou superkritickou pěnu Infinion a snížení hmotnosti o 39 gramů oproti předchozí verzi.",
-      "slug": "new-balance-1080-v15-multi-tester-review-super-fre",
-      "publishedAt": "2025-11-03T05:01:00+00:00",
-      "date": "2025-11-03 05:01:00",
-      "importance": 1,
-      "category": "běžecká obuv",
-      "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgFAOhMGqitXUpIX6pPgR78ODQFE-qOm8tk_m2aGhWttMLE3YBis4jYrf27w9gu_X-2t7-wAbW0P0ca5TWiPiCk4id-5TtNtPXYhJkcmHjPGN04dNm3FSP7K6BpF2FI4QPGlK8LbYQRgd1q9UV-8MLlTqnfQAjliLrUX2-6cBwcQrLMdaUBsWVGuQ=w1200-h630-p-k-no-nu",
-      "url": "/tech-news/2025-11-03/new-balance-1080-v15-multi-tester-review-super-fre/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Roadtrailrun.com"
-      },
-      "companies": [],
       "people": []
     }
   ]
