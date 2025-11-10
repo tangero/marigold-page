@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: hardware
 date: '2025-11-08 11:00:00'
-description: Velcí výrobci televizorů výrazně zlevňují QLED, OLED a Mini‑LED modely
-  v rámci Black Friday akcí, což otevírá prostor pro levnější přechod na kvalitnější
-  obraz a větší úhlopříčky.
+description: Výrobci a velcí prodejci během Black Friday výrazně zlevňují QLED, OLED
+  a Mini‑LED televize, často až o 50 %. Nabídky ukazují, jak rychle klesají ceny kvalitních
+  panelů a jaké parametry lze dnes získat v nižších cenových hladinách.
 importance: 3
 layout: tech_news_article
 original_title: Black Friday TV deals — save up to 50% on select QLED, OLED, and Mini-LED
@@ -15,36 +15,35 @@ source:
   emoji: 📰
   id: null
   name: Tom's Guide
-title: 'Black Friday slevy na televize: až 50 % dolů na vybrané QLED, OLED a Mini‑LED
-  modely v Best Buy'
+title: 'Black Friday: výrazné slevy na QLED, OLED a Mini‑LED televize u hlavních značek'
 url: https://www.tomsguide.com/tvs/black-friday-tv-deals-save-up-to-50-percent-on-select-qled-oled-and-mini-led-tvs
 urlToImage: https://cdn.mos.cms.futurecdn.net/kGLmQBVCkUqCGWYGKp4p3U-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/kGLmQBVCkUqCGWYGKp4p3U-2560-80.jpg
 ---
 
 ## Souhrn
-Black Friday přináší výrazné slevy na televizory včetně QLED, OLED a Mini‑LED modelů, zejména u prodejce Best Buy, kde ceny klesají až o přibližně 50 %. Článek shrnuje konkrétní nabídky od značek jako LG, Samsung, Hisense, TCL a Sony a ukazuje, že kvalitní 4K panel i větší úhlopříčky jsou nyní dostupnější pro běžné uživatele.
+Black Friday přináší výrazné zlevnění televizorů napříč klíčovými výrobci, včetně LG, Samsung, Sony, Hisense a TCL. Výběr ukazuje, že technologie jako OLED a Mini‑LED se přesouvají z prémiového segmentu do cenově dostupnějších tříd, často s cenami sníženými o desítky procent. Pro spotřebitele to znamená možnost upgradovat na moderní 4K panel s lepším kontrastem, vyšším jasem a herními funkcemi za podstatně nižší cenu než v předchozích letech.
 
 ## Klíčové body
-- Výrazné slevy na vybrané 4K QLED, OLED a Mini‑LED televize, zejména v segmentu 48–85".
-- Konkrétní nabídky zahrnují například LG B5 OLED za 699 USD, Hisense U6QF Mini‑LED za cca 587 USD a 75" TCL QM7K za 849 USD.
-- Akce cílí jak na vstupní 4K modely, tak na vyšší třídu s lepším podáním obrazu, vyšší obnovovací frekvencí a podporou HDR.
-- Best Buy se profiluje jako klíčový prodejní kanál pro televizory během Black Friday v USA.
-- Pro zákazníky jde o vhodný moment k upgradu z levných LCD panelů na kvalitnější technologie bez zásadního navýšení rozpočtu.
+- Zlevnění vybraných modelů až přibližně o 50 %, včetně OLED a velkoformátových úhlopříček.
+- OLED a Mini‑LED se stávají dostupnou volbou pro běžné uživatele, nejen prémiovým segmentem.
+- Konkurenční tlak mezi LG, Samsung, Sony, TCL a Hisense urychluje pokles cen a rozšiřování výbavy.
+- Vybrané modely kombinují vysokou obnovovací frekvenci (až 144 Hz), HDR, lokální stmívání a funkce pro hraní.
+- Akce odhalují, jak maloobchodníci (např. Best Buy v USA) používají Black Friday k agresivnímu vyprodávání starších řad a přechodu na nové generace panelů.
 
 ## Podrobnosti
-Slevové akce během Black Friday se letos výrazně soustředí na televize s pokročilými zobrazovacími technologiemi, které byly ještě před dvěma až třemi lety cenově mimo dosah průměrného uživatele. Klíčovým hráčem je americký prodejce Best Buy, který agresivně zlevňuje modely napříč portfoliem známých výrobců.
+Nabídky zahrnují široké rozpětí modelů od základních QLED až po prémiové OLED a Mini‑LED s velkými úhlopříčkami. Příkladem je LG B5 OLED (48") snížený z přibližně 1 299 USD na 699 USD, což z něj činí jeden z nejdostupnějších vstupů do OLED segmentu. OLED panely jsou vhodné pro uživatele, kteří preferují vysoký kontrast, přesné podání černé a sledování filmů v tlumeném světle. Pro hráče nabízí nízkou odezvu a podporu moderních herních funkcí přes HDMI 2.1.
 
-Mezi zajímavé příklady patří LG B5 OLED s úhlopříčkou 48" za 699 USD, což je vstup do OLED segmentu s výrazně lepším kontrastem a podáním černé oproti běžným LCD. Hisense, čínský výrobce elektroniky zaměřený na cenově dostupné televize a domácí spotřebiče, nabízí 65" U6QF Mini‑LED TV za přibližně 587 USD. Mini‑LED podsvícení umožňuje jemnější řízení lokálního stmívání, vyšší jas a lepší HDR než tradiční LED, což je vhodné pro světlé místnosti a filmový obsah.
+Hisense U6QF Mini‑LED (65") klesá zhruba z 999 USD na 587 USD. Hisense, čínský výrobce zaměřený na poměr cena/výkon, využívá Mini‑LED podsvícení a lokální stmívání ke zlepšení kontrastu a jasu oproti běžným LCD. Díky vysoké obnovovací frekvenci (až 144 Hz), podpoře HDR10+ a Dolby Vision se tento typ panelu hodí pro uživatele, kteří chtějí univerzální TV pro filmy, sport i hraní, bez příplatku za OLED.
 
-TCL, další významný hráč v segmentu dostupných televizorů, zlevňuje například QLED model Q6 55" na zhruba 279 USD, což je vhodná volba pro uživatele přecházející na 4K. Pro zájemce o velké úhlopříčky je zajímavý 75" TCL QM7K za 849 USD, který kombinuje vyšší jas, 4K rozlišení a moderní obrazové režimy pro hry i filmy. V akci jsou také vyšší modely od Samsungu (např. S84F, S85F, S90F OLED) a Sony (Bravia A95L), které cílí na náročnější uživatele vyžadující přesnou barevnost, kvalitní zpracování obrazu a lepší podporu herních funkcí jako vyšší obnovovací frekvence a nízká latence.
+TCL Q6 QLED (55") zlevněný na přibližně 279 USD míří na uživatele, kteří přecházejí z Full HD nebo levných základních modelů. QLED (quantum dot vrstva) zlepšuje barevné podání a jas, i když bez plné úrovně lokálního stmívání a obrazové kvality dražších modelů. U velkých úhlopříček se objevují výrazné slevy, např. TCL QM7K (75") nebo Samsung a LG modely v rozmezí 65–85", které se cenově posouvají z prémiové do vyšší střední třídy.
 
-Tyto akce ukazují pokračující tlak na snižování cen prémiových technologií. OLED a Mini‑LED přestávají být výsadou high-end segmentu a stávají se reálnou volbou pro domácí použití, včetně streamingu ve 4K (Netflix, Disney+, Prime Video), hraní na konzolích nové generace a sledování sportu ve vysoké kvalitě.
+Výrazně zlevněny jsou také OLED modely Samsung (S84F, S85F, S90F) a Sony Bravia A95L, které využívají moderní panely s širokým barevným rozsahem, vysokým jasem pro HDR a pokročilým zpracováním obrazu. Tyto modely jsou vhodné pro náročnější uživatele a domácí kino, zejména tam, kde se využívá obsah ve 4K HDR a herní konzole nové generace.
 
 ## Proč je to důležité
-Pro koncové uživatele znamená aktuální vlna slev možnost přeskočit nejlevnější, technologicky zastaralé LCD modely a pořídit si výrazně kvalitnější zobrazovač za podobnou nebo jen mírně vyšší cenu. To se projeví v lepším kontrastu, barevnosti, HDR a celkovém diváckém komfortu, zejména u 4K obsahu a her.
+Aktuální slevy potvrzují trend rychlého zlevňování pokročilých zobrazovacích technologií. OLED, QLED a Mini‑LED se tím stávají standardem, nikoliv výjimkou, což zvyšuje tlak na výrobce low-end LCD panelů a zmenšuje prostor pro nekvalitní zařízení. Pro koncové uživatele je zásadní, že za relativně nízkou cenu mohou získat televizi vhodnou pro 4K streaming, hraní na moderních konzolích, využití streamovacích platforem a dlouhodobější používání bez nutnosti rychlé obměny.
 
-Pro výrobce a prodejce jde o potvrzení trendu, kdy se prémiové technologie (OLED, QLED, Mini‑LED) stávají masovější komoditou a konkurenční boj se přesouvá z pouhé úhlopříčky na kvalitu obrazu, podporu moderních standardů a cenovou agresivitu. Tlak na snižování cen zároveň urychluje odsun nejlevnějších low-end panelů s podprůměrnou kvalitou, což dlouhodobě posune očekávaný standard domácího zobrazování výše.
+Pro průmysl to znamená, že marže u základních modelů dále klesají a diferenciace se přesouvá k softwaru (operační systémy chytrých televizí, integrace streamovacích služeb, herní režimy, podpora standardů jako Dolby Vision, HDR10+, eARC) a k energetické efektivitě. Pro technologické firmy i prodejce je Black Friday příležitostí k agresivnímu vyčištění skladů starších modelových řad, což urychluje nasazení novějších generací panelů a standardů v následujícím roce. Uživatelé by však měli vybírat podle konkrétních parametrů (typ panelu, podsvícení, frekvence, počet HDMI 2.1 portů, podpora HDR), nikoliv jen podle procentuální slevy, protože část nabídek cílí na marketingový efekt spíše než na reálnou hodnotu.
 
 ---
 

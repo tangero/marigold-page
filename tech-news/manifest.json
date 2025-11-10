@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-10T04:29:33.060640+00:00",
+  "generated": "2025-11-10T08:26:22.530587+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Blue Origin nabízí NASA zrychlení návratu lidí na Měsíc, připravuje upravenou architekturu landerů",
-      "description": "Blue Origin deklaruje připravenost výrazně urychlit vlastní měsíční program a nabízí NASA alternativní architekturu landerů, aby USA stihly pilotované přistání dříve, než se to podaří Číně.",
+      "title": "Blue Origin nabízí NASA zrychlení návratu lidí na Měsíc",
+      "description": "Blue Origin deklaruje připravenost upravit svou lunární architekturu a urychlit přistání lidí na Měsíci v reakci na obavy, že současný plán Artemis III neumožní USA dohnat rostoucí náskok Číny.",
       "slug": "blue-origin-will-move-heaven-and-earth-to-help-nas",
       "publishedAt": "2025-11-08T21:27:42+00:00",
       "date": "2025-11-08 21:27:42",
@@ -19,17 +19,16 @@
       },
       "companies": [
         "Blue Origin",
-        "NASA"
+        "NASA",
+        "SpaceX",
+        "Lockheed Martin",
+        "Boeing"
       ],
-      "people": [
-        "Elon Musk",
-        "Jeff Bezos",
-        "Tim Cook"
-      ]
+      "people": []
     },
     {
-      "title": "Apple možná chystá levný MacBook připomínající éru netbooků",
-      "description": "Podle spekulací Apple vyvíjí levný MacBook kolem 599 dolarů, založený na čipu z iPhonu, menším displeji a novém designu, což připomíná koncept netbooků z konce 2000s. Článek rozebírá paralely s minulostí i limity takového řešení.",
+      "title": "Apple pomohl ukončit éru netbooků. Přivede je nyní zpět?",
+      "description": "Apple podle spekulací připravuje levný MacBook s mobilním čipem, který na papíře připomíná někdejší netbooky. Text rozebírá, zda může Apple znovu definovat kategorii malých levných notebooků a současně se vyhnout chybám minulosti.",
       "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
       "publishedAt": "2025-11-08T16:00:00+00:00",
       "date": "2025-11-08 16:00:00",
@@ -49,8 +48,8 @@
       "people": []
     },
     {
-      "title": "5 widgetů pro Apple CarPlay, které byste měli nastavit co nejdříve",
-      "description": "Apple s iOS 26 rozšiřuje možnosti CarPlay o podporu widgetů, které umožňují zobrazovat kalendář, připomínky, počasí, chytrou domácnost a další informace přímo na infotainment displeji auta, bez nutnosti speciálních CarPlay verzí aplikací.",
+      "title": "5 Apple CarPlay widgetů, které stojí za instalaci pro praktičtější řízení",
+      "description": "iOS 26 rozšiřuje možnosti Apple CarPlay o widgety, které umožňují zobrazovat kalendář, připomínky, počasí a chytrou domácnost přímo na infotainment displeji a zefektivnit tak přípravu na cestu i průběh řízení.",
       "slug": "A-5-apple-carplay-widgets-you-should-install-asap-",
       "publishedAt": "2025-11-08T15:45:00+00:00",
       "date": "2025-11-08 15:45:00",
@@ -69,8 +68,26 @@
       "people": []
     },
     {
-      "title": "Polestar míří do Gran Turismo 7: potvrzeno pro aktualizaci Spec III",
-      "description": "Závodní série Gran Turismo 7 získá v prosincové aktualizaci Spec III značku Polestar, včetně vozu Polestar 5, což potvrzuje bližší propojení hry s realitou elektromobility a marketingovými aktivitami automobilky.",
+      "title": "8 opomíjených chytrých autogadgetů, které stojí za vyzkoušení",
+      "description": "Výběr nenápadných, ale praktických chytrých zařízení do auta, která přidávají bezpečnost, komfort i lepší kontrolu nad vozidlem – od GPS trackeru po doplňky pro každodenní provoz.",
+      "slug": "A-8-underrated-smart-car-gadgets-you-need-to-try-b",
+      "publishedAt": "2025-11-08T15:02:00+00:00",
+      "date": "2025-11-08 15:02:00",
+      "importance": 3,
+      "category": "gadgety",
+      "urlToImage": "https://www.bgr.com/img/gallery/8-underrated-smart-car-gadgets-you-need-to-try/l-intro-1761928453.jpg",
+      "url": "/tech-news/2025-11-08/A-8-underrated-smart-car-gadgets-you-need-to-try-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Polestar míří do Gran Turismo 7 v rámci aktualizace Spec III",
+      "description": "Elektrická značka Polestar vstupuje do Gran Turismo 7 v prosincové aktualizaci Spec III, potvrzena byla zejména přítomnost modelu Polestar 5. Jde o rozšíření portfolia elektrických vozů ve hře a prohloubení spolupráce mezi automobilkami a herním průmyslem.",
       "slug": "is-polestar-coming-to-gran-turismo-gtplanet",
       "publishedAt": "2025-11-08T14:20:10+00:00",
       "date": "2025-11-08 14:20:10",
@@ -105,13 +122,13 @@
       "people": []
     },
     {
-      "title": "Tato složka ve Windows může skrývat desítky GB zbytečných dat. Zkontrolujte si ji",
-      "description": "Složka Stažené soubory ve Windows se často mění v odpadní prostor plný instalaček, příloh a dočasných dat, které systém sám nemaže. Při dlouhodobém používání může bez povšimnutí zabrat desítky gigabajtů a zpomalovat počítač.",
+      "title": "Tento skrytý složkový „odpad“ ve Windows vám může zabrat desítky GB místa",
+      "description": "Článek upozorňuje na to, že složka Stažené soubory ve Windows se často léta nečistí a může zabírat desítky gigabajtů zbytečných dat. Uživatelé by měli pravidelně kontrolovat instalátory, přílohy a staré dokumenty, nebo zapnout funkci Storage Sense.",
       "slug": "this-windows-folder-on-my-computer-hoarded-80-gb-o",
       "publishedAt": "2025-11-08T14:00:00+00:00",
       "date": "2025-11-08 14:00:00",
-      "importance": 3,
-      "category": "windows",
+      "importance": 1,
+      "category": "software",
       "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/close-up-photo-of-a-monitor-showing-the-downloads-folder-open-on-windows-11-1.jpg?w=1600&h=900&fit=crop",
       "url": "/tech-news/2025-11-08/this-windows-folder-on-my-computer-hoarded-80-gb-o/",
       "source": {
@@ -125,8 +142,8 @@
       "people": []
     },
     {
-      "title": "Zakladatelé SF startupů na „finishing school“ etikety. Garry Tan kritizuje odtržení od reality",
-      "description": "V San Franciscu proběhl kurz „Etiquette Finishing School“ od fondu Slow Ventures, kde mladí zakladatelé startupů trénovali etiketu, oblékání a „caviar bump“, což vyvolalo kritiku jako symbol elitářství a odklonu od tradiční kultury technologických firem.",
+      "title": "Zakladatelé SF startupů na „etiketní škole“: Garry Tan kritizuje snahu o společenský lesk",
+      "description": "Třicítka mladých technologických zakladatelů v San Franciscu absolvovala seminář „Etiquette Finishing School“ investičního fondu Slow Ventures, kde se učili společenskému chování, oblékání a rituálům typu caviar bump. Akce vyvolala kritiku, mimo jiné od Garryho Tana, který ji vnímá jako odtržení startupové komunity od jejího tradičního zaměření na produkt a výkon.",
       "slug": "sf-tech-founders-go-to-finishing-school-and-garry-",
       "publishedAt": "2025-11-08T14:00:00+00:00",
       "date": "2025-11-08 14:00:00",
@@ -140,11 +157,13 @@
         "name": "Sfstandard.com"
       },
       "companies": [
-        "Slow Ventures"
+        "Slow Ventures",
+        "Y Combinator",
+        "OpenAI",
+        "Apple",
+        "Google"
       ],
-      "people": [
-        "Garry Tan"
-      ]
+      "people": []
     },
     {
       "title": "Samsung Galaxy S26 má být výrazně tenčí než S25, ale může to ovlivnit baterii",
@@ -168,12 +187,12 @@
     },
     {
       "title": "Microsoft chystá Windows 11 26H1 pro platformy Snapdragon X2 a NVIDIA N1X",
-      "description": "Microsoft připravuje speciální vydání Windows 11 26H1 založené na platformě Bromine, určené výhradně pro příští generaci Arm notebooků se Snapdragon X2 a novými čipy NVIDIA N1X, plánované na první polovinu roku 2026.",
+      "description": "Microsoft údajně připravuje speciální verzi Windows 11 (26H1) založenou na platformě Bromine, určenou výhradně pro příští generaci Arm počítačů se Snapdragon X2 a čipy NVIDIA N1X, s uvedením v první polovině roku 2026.",
       "slug": "microsoft-reportedly-readies-windows-11-26h1-for-s",
       "publishedAt": "2025-11-08T13:31:00+00:00",
       "date": "2025-11-08 13:31:00",
       "importance": 3,
-      "category": "hardware",
+      "category": "operační systémy",
       "urlToImage": "https://cdn.videocardz.com/1/2025/11/WINDOWS-11-26H1-QUALCOMM-NVIDIA-HERO.jpg",
       "url": "/tech-news/2025-11-08/microsoft-reportedly-readies-windows-11-26h1-for-s/",
       "source": {
@@ -189,8 +208,8 @@
       "people": []
     },
     {
-      "title": "Podceňované nastavení Pixelu, které snižuje úzkost z vybité baterie",
-      "description": "Článek ukazuje, jak funkce Adaptive Battery v telefonech Google Pixel prakticky mění správu spotřeby energie a může uživatelům výrazně omezit potřebu powerbank a neustálé kontroly stavu baterie.",
+      "title": "Podceňované nastavení Pixelu, které řeší úzkost z výdrže baterie",
+      "description": "Funkce Adaptive Battery v telefonech Google Pixel využívá strojové učení k řízení spotřeby energie aplikací tak, aby prodloužila výdrž baterie a snížila potřebu powerbank či častého dobíjení.",
       "slug": "the-underrated-pixel-setting-that-fixed-my-phones-",
       "publishedAt": "2025-11-08T13:30:00+00:00",
       "date": "2025-11-08 13:30:00",
@@ -204,18 +223,21 @@
         "name": "Android Police"
       },
       "companies": [
-        "Google"
+        "Google",
+        "Apple",
+        "OnePlus",
+        "Samsung"
       ],
       "people": []
     },
     {
-      "title": "Android 16 zpřesňuje ochranu soukromí u přibližné polohy, míří hlavně na zranitelné uživatele na venkově",
-      "description": "Android 16 zavádí funkci density-based coarse location, která upravuje přesnost přibližné polohy podle hustoty osídlení a brání aplikacím přesněji identifikovat uživatele v řídce obydlených oblastech.",
+      "title": "Android 16 zpřesňuje ochranu soukromí u přibližné polohy díky density-based coarse location",
+      "description": "Android 16 zavádí novou logiku práce s přibližnou polohou (density-based coarse location), která výrazně ztěžuje aplikacím možnost odhadnout přesnou polohu uživatelů v řídce osídlených oblastech.",
       "slug": "android-16-fixes-a-big-privacy-flaw-in-its-approxi",
       "publishedAt": "2025-11-08T13:05:27+00:00",
       "date": "2025-11-08 13:05:27",
       "importance": 3,
-      "category": "android",
+      "category": "mobilní operační sys",
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-maps-my-maps-custom-map-example-2.jpg",
       "url": "/tech-news/2025-11-08/android-16-fixes-a-big-privacy-flaw-in-its-approxi/",
       "source": {
@@ -230,7 +252,7 @@
     },
     {
       "title": "Přestaňte si jen povídat: 5 AI nástrojů, které nejsou další ChatGPT",
-      "description": "Článek upozorňuje na praktické AI nástroje zaměřené na konkrétní úkoly, jako je přepis schůzek či automatizace práce, které ukazují, že AI není jen o chatbotech.",
+      "description": "Článek upozorňuje na praktické AI nástroje, které nejdou cestou klasického chatbotu, ale řeší konkrétní úlohy – od přepisu schůzek po automatizované úpravy obsahu.",
       "slug": "stop-chatting-start-doing-5-ai-tools-that-arent-ju",
       "publishedAt": "2025-11-08T12:53:05+00:00",
       "date": "2025-11-08 12:53:05",
@@ -245,16 +267,40 @@
       },
       "companies": [
         "OpenAI",
-        "Google",
         "Microsoft",
-        "Adobe",
-        "Canva"
+        "Google",
+        "Apple",
+        "Amazon"
       ],
       "people": []
     },
     {
-      "title": "Black Friday slevy na televize: až 50 % dolů na vybrané QLED, OLED a Mini‑LED modely v Best Buy",
-      "description": "Velcí výrobci televizorů výrazně zlevňují QLED, OLED a Mini‑LED modely v rámci Black Friday akcí, což otevírá prostor pro levnější přechod na kvalitnější obraz a větší úhlopříčky.",
+      "title": "Týden v hardwaru: Fairphone vstupuje do USA se sluchátky, WhatsApp přichází na Apple Watch",
+      "description": "Evropský Fairphone rozšiřuje aktivity v USA opravitelnými sluchátky Fairbuds XL a zvažuje vstup s telefony, WhatsApp získává plnohodnotnou aplikaci pro Apple Watch a na trh míří nové modely od Motoroly, Canonu a Teenage Engineering.",
+      "slug": "gear-news-of-the-week-fairphone-lands-in-the-us-an",
+      "publishedAt": "2025-11-08T12:00:00+00:00",
+      "date": "2025-11-08 12:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://media.wired.com/photos/690e7ce86b6f3f4390249d68/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20Fairphone%20Lands%20in%20the%20US,%20and%20WhatsApp%20Is%20Finally%20on%20the%20Apple%20Watch.png",
+      "url": "/tech-news/2025-11-08/gear-news-of-the-week-fairphone-lands-in-the-us-an/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Fairphone",
+        "WhatsApp",
+        "Apple",
+        "Motorola",
+        "Canon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Black Friday: výrazné slevy na QLED, OLED a Mini‑LED televize u hlavních značek",
+      "description": "Výrobci a velcí prodejci během Black Friday výrazně zlevňují QLED, OLED a Mini‑LED televize, často až o 50 %. Nabídky ukazují, jak rychle klesají ceny kvalitních panelů a jaké parametry lze dnes získat v nižších cenových hladinách.",
       "slug": "black-friday-tv-deals-save-up-to-50-on-select-qled",
       "publishedAt": "2025-11-08T11:00:00+00:00",
       "date": "2025-11-08 11:00:00",
@@ -271,8 +317,29 @@
       "people": []
     },
     {
-      "title": "Co ukázal měsíc s projektorem Google TV v ložnici: prostor, návyky a limity",
-      "description": "Zkušenost s přenosným projektorem XGIMI Mogo 4 s Google TV v ložnici ukazuje, jak kombinace kompaktního hardwaru, integrovaných služeb a bateriového napájení mění způsob, jakým uživatelé sledují videoobsah v malých prostorech.",
+      "title": "Amazon nabízí členům Prime přednostní přístup k cestovním slevám před Black Friday",
+      "description": "Amazon spouští předčasné Black Friday nabídky na cestovní vybavení exkluzivně pro členy Prime, včetně kufrů, elektroniky a oblečení se slevami až 87 procent.",
+      "slug": "amazons-giving-prime-members-vip-access-to-its-bes",
+      "publishedAt": "2025-11-08T11:00:00+00:00",
+      "date": "2025-11-08 11:00:00",
+      "importance": 1,
+      "category": "e‑commerce",
+      "urlToImage": "https://www.travelandleisure.com/thmb/9Qih4lF749NSK9NhoffHOW6jIZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tl-amazon-early-black-friday-deals-tout-2738ea55586740498bba015ea29268bf.jpg",
+      "url": "/tech-news/2025-11-08/amazons-giving-prime-members-vip-access-to-its-bes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Travel+Leisure"
+      },
+      "companies": [
+        "Amazon",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co jsem zjistila po 30 dnech s projektorem Google TV v ložnici",
+      "description": "Recenze zkušenosti s přenosným projektorem XGIMI Mogo 4 s Google TV ukazuje, jak zásadně může pohodlí, bateriový provoz a flexibilita projekce změnit zvyky sledování obsahu v malých bytech.",
       "slug": "what-i-learned-after-using-a-google-tv-projector-i",
       "publishedAt": "2025-11-08T10:10:41+00:00",
       "date": "2025-11-08 10:10:41",
@@ -288,15 +355,13 @@
       "companies": [
         "Google",
         "XGIMI",
-        "Apple",
-        "Netflix",
-        "YouTube"
+        "Android Authority"
       ],
       "people": []
     },
     {
-      "title": "Google Maps v Indii získají integraci Gemini AI pro bezpečnější a kontextovější navigaci",
-      "description": "Google začleňuje Gemini AI do Map v Indii s cílem zlepšit bezpečnost, lokalizaci a kontextové informace o trasách, včetně varování před rizikovými úseky a lepší hlasové asistence.",
+      "title": "Google Maps v Indii získají integraci Gemini AI pro přesnější navigaci a bezpečnost",
+      "description": "Google nasazuje Gemini AI do Google Maps v Indii s důrazem na lokalizaci, bezpečnostní upozornění a kontextové informace o trase a okolí. Aktualizace má zlepšit relevanci navigace v náročných místních podmínkách a reagovat na kritiku po dřívějších incidentech.",
       "slug": "google-maps-to-be-upgraded-with-gemini-ai-heres-wh",
       "publishedAt": "2025-11-08T05:45:59+00:00",
       "date": "2025-11-08 05:45:59",
@@ -315,13 +380,13 @@
       "people": []
     },
     {
-      "title": "Galaxy S27 Ultra může získat bezpečnější rozpoznání obličeje podobné Apple Face ID",
-      "description": "První úniky naznačují, že Samsung u modelu Galaxy S27 Ultra testuje nový systém Polar ID využívající polarizované světlo a dedikovanou bezpečnostní oblast, který by mohl přinést výrazně spolehlivější odemykání obličejem.",
+      "title": "Galaxy S27 Ultra může získat pokročilé ověřování obličeje Polar ID",
+      "description": "První spekulace o Samsung Galaxy S27 Ultra naznačují nasazení nové technologie Polar ID, založené na polarizovaném světle, která má přinést bezpečnější a rychlejší rozpoznávání obličeje na úroveň konkurenčního Face ID od Applu.",
       "slug": "galaxy-s27-ultra-may-finally-have-a-key-security-f",
       "publishedAt": "2025-11-08T00:15:23+00:00",
       "date": "2025-11-08 00:15:23",
       "importance": 2,
-      "category": "smartphony",
+      "category": "mobilní telefony",
       "urlToImage": "https://m-cdn.phonearena.com/images/article/175565-wide-two_1200/Galaxy-S27-Ultra-may-finally-have-a-key-security-feature-iPhones-have-had-for-years.jpg",
       "url": "/tech-news/2025-11-08/galaxy-s27-ultra-may-finally-have-a-key-security-f/",
       "source": {
@@ -331,7 +396,8 @@
       },
       "companies": [
         "Samsung",
-        "Apple"
+        "Apple",
+        "Google"
       ],
       "people": []
     },
@@ -3638,29 +3704,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk navrhuje blokování slunečního záření pomocí satelitů",
-      "description": "Majitel SpaceX a největší satelitní společnosti na světě navrhuje použití konstelace satelitů pro řízení množství slunečního záření dopadajícího na Zemi jako řešení klimatické krize.",
-      "slug": "elon-musk-wants-to-block-out-the-sun-gizmodo",
-      "publishedAt": "2025-11-03T17:25:20+00:00",
-      "date": "2025-11-03 17:25:20",
-      "importance": 3,
-      "category": "klimatická krize",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Earth-and-Sun-1200x675.jpg",
-      "url": "/tech-news/2025-11-03/elon-musk-wants-to-block-out-the-sun-gizmodo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Na základě poskytnutého textu (nadpis a popis) nemohu identifikovat žádné konkrétní technologické firmy přímo zmíněné názvem. Text odkazuje na \"největší satelitní společnost na světě\" a jejího CEO Elona Muska",
-        "ale firma není explicitně pojmenována v poskytnutém úryvku.\n\nžádné"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Chytré brýle Lenovo V1 patří mezi nejlehčí na trhu, ale chybí jim kamera",
       "description": "Lenovo představilo chytré brýle V1 s micro LED displejem a hmotností pouhých 38 gramů, což je o 30 gramů méně než Meta Ray-Ban Display. Brýle však postrádají kameru.",
       "slug": "lenovos-smart-glasses-are-among-the-lightest-you-c",
@@ -3922,26 +3965,6 @@
       "people": []
     },
     {
-      "title": "Google zveřejnil seznam 100 nejhledanějších dárků pro rok 2025",
-      "description": "Vyhledávač Google publikoval žebříček nejpopulárnějších vánočních dárků na základě analýzy vyhledávacích dotazů uživatelů.",
-      "slug": "exclusive-inside-the-google-holiday-100-top-search",
-      "publishedAt": "2025-11-03T13:24:00+00:00",
-      "date": "2025-11-03 13:24:00",
-      "importance": 1,
-      "category": "nákupní trendy",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/google-top-100.png?w=1200",
-      "url": "/tech-news/2025-11-03/exclusive-inside-the-google-holiday-100-top-search/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Podivný případ mizejících captcha testů",
       "description": "Tradiční captcha testy téměř zmizely z internetu a nahradily je buď neviditelné systémy, nebo bizarní výzvy s psy v kloboucích a posouvacími slipovými kalhotkami.",
       "slug": "the-curious-case-of-the-bizarre-disappearing-captc",
@@ -4037,24 +4060,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Zahrádkáři varováni před houbami na trávníku — co s tím dělat",
-      "description": "Rady, jak se zbavit hub na trávníku, které mohou být nebezpečné pro domácí mazlíčky.",
-      "slug": "gardeners-warned-to-look-out-for-mushrooms-in-thei",
-      "publishedAt": "2025-11-03T07:00:00+00:00",
-      "date": "2025-11-03 07:00:00",
-      "importance": 1,
-      "category": "zahradnictví",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/e7SaJ8veHcGdSJ5UgVxHMW-2560-80.jpg",
-      "url": "/tech-news/2025-11-03/gardeners-warned-to-look-out-for-mushrooms-in-thei/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [],
       "people": []
     },
     {

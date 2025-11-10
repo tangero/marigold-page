@@ -1,12 +1,13 @@
 ---
-category: smartphony
+category: mobilní telefony
 companies:
 - Samsung
 - Apple
+- Google
 date: '2025-11-08 00:15:23'
-description: První úniky naznačují, že Samsung u modelu Galaxy S27 Ultra testuje nový
-  systém Polar ID využívající polarizované světlo a dedikovanou bezpečnostní oblast,
-  který by mohl přinést výrazně spolehlivější odemykání obličejem.
+description: První spekulace o Samsung Galaxy S27 Ultra naznačují nasazení nové technologie
+  Polar ID, založené na polarizovaném světle, která má přinést bezpečnější a rychlejší
+  rozpoznávání obličeje na úroveň konkurenčního Face ID od Applu.
 importance: 2
 layout: tech_news_article
 original_title: Galaxy S27 Ultra may finally have a key security feature iPhones have
@@ -17,18 +18,17 @@ source:
   emoji: 📰
   id: null
   name: PhoneArena
-title: Galaxy S27 Ultra může získat bezpečnější rozpoznání obličeje podobné Apple
-  Face ID
+title: Galaxy S27 Ultra může získat pokročilé ověřování obličeje Polar ID
 url: https://www.phonearena.com/news/galaxy-s27-ultra-may-finally-have-a-key-security-feature-iphones-have-had-for-years_id175565
 urlToImage: https://m-cdn.phonearena.com/images/article/175565-wide-two_1200/Galaxy-S27-Ultra-may-finally-have-a-key-security-feature-iPhones-have-had-for-years.jpg
 urlToImageBackup: https://m-cdn.phonearena.com/images/article/175565-wide-two_1200/Galaxy-S27-Ultra-may-finally-have-a-key-security-feature-iPhones-have-had-for-years.jpg
 ---
 
-Podle nejnovějších úniků testuje Samsung u připravovaného Galaxy S27 Ultra biometrický systém označovaný jako Polar ID v1.0, který má využívat tzv. polarizované světlo pro pokročilé ověřování obličeje. Tato technologie by měla spolupracovat s čelním senzorem ISOCELL Vizion a novou bezpečnostní enklávou v systému, podobně jako řešení Face ID u telefonů Apple, které kombinuje specializovaný hardware a oddělené zpracování citlivých dat.
+Podle úniku testovacího firmwaru pro Samsung Galaxy S27 Ultra pracuje výrobce na nové metodě biometrického ověřování nazvané Polar ID v1.0. Tato technologie má využívat "polarized-light authentication system", tedy ověřování pomocí polarizovaného světla, které dokáže lépe rozlišit skutečnou tvář od fotografie nebo videa na displeji. Modul má být navázán na čelní senzor ISOCELL Vizion a novou rutinu v zabezpečené části systému (secure enclave), což naznačuje ambici posunout se z úrovně současného, snadno oklamatelného odemykání obličejem u Samsung telefonů směrem k robustnějšímu řešení podobnému Face ID.
 
-Interní logy údajně popisují Polar ID jako „polarized-light authentication system“. To naznačuje, že by telefon neměl pouze běžně snímat obraz z kamery, ale analyzovat i změny světla odraženého od struktury obličeje. Výsledkem by měla být vyšší odolnost proti podvodným pokusům, například použití fotografie nebo videa majitele, což je slabina současného softwarového odemykání obličejem u řady androidových zařízení. Zmíněná latence kolem 180 ms by v praxi znamenala rychlé odemknutí, srovnatelné s dnešními nejrychlejšími biometrickými metodami.
+Podle zdroje by Polar ID měl nabízet dobu odemčení kolem 180 ms, což je z pohledu uživatele dostatečně rychlé pro každodenní použití bez znatelného zdržení. Klíčovým přínosem má být vyšší odolnost proti spoofingu, tedy proti pokusům obejít zámek pomocí fotografie, masky nebo projekce. To je zásadní pro bezpečné používání biometrie při ověřování plateb, přístupu k citlivým datům či firemním aplikacím. Pokud se informace potvrdí, Samsung by tím odstranil jednu z dlouhodobých slabin své špičkové řady, která se dosud opírala hlavně o čtečku otisků prstů v displeji a méně bezpečné 2D skenování obličeje.
 
-Je však potřeba zdůraznit, že jde o velmi rané informace založené na testovacím firmwaru a úniku od zdroje s nejednoznačnou historií. Samsung zatím neodhalil ani řadu Galaxy S26, takže jakékoliv detaily o Galaxy S27 Ultra jsou v této fázi spekulativní. Pokud se ale Polar ID potvrdí, půjde o posun směrem k robustnějšímu hardwarovému ověřování totožnosti na straně Android ekosystému. Uživatelům by to mohlo přinést bezpečnější přihlášení k bankovním aplikacím, službám státní správy či podnikových systémů bez spoléhání pouze na otisk prstu nebo méně spolehlivé 2D skenování obličeje. V tuto chvíli však článek nepřináší závazné informace, ale spíše naznačuje možný směr vývoje zabezpečení u budoucích vlajkových lodí Samsungu.
+Je však nutné zdůraznit, že jde o raný únik a neoficiální informace od zdroje s nejednoznačnou historií. Samsung dosud nic nepotvrdil a samotný Galaxy S27 Ultra je vzdálený několik generací – aktuálně se teprve čeká na představení řady Galaxy S26. Technologicky je ale zavedení pokročilejšího 3D či polarizačního skenování obličeje realistické: konkurence (zejména Apple) ukazuje, že spolehlivé a bezpečné ověřování obličejem se stalo standardem pro prémiové telefony. Pokud Samsung technologii skutečně dokončí a nasadí, lze očekávat, že se podobné systémy rozšíří i do dalších modelů a budou více využívány pro bezpečné přihlašování, digitální identitu a autorizaci finančních operací.
 
 ---
 
