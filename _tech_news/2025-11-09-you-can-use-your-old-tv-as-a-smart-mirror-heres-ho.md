@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: hardware
 date: '2025-11-09 15:17:00'
-description: Článek ukazuje praktický návod, jak z běžné staré televize vytvořit plně
-  funkční chytré zrcadlo s využitím minipočítače Raspberry Pi, dvoucestného zrcadla
-  a open-source softwaru MagicMirror.
+description: Návod ukazuje, jak starou funkční televizi využít jako displej pro smart
+  zrcadlo s Raspberry Pi a open-source softwarem MagicMirror místo jejího vyřazení.
 importance: 3
 layout: tech_news_article
 original_title: You Can Use Your Old TV As A Smart Mirror - Here's How - bgr.com
@@ -14,35 +13,37 @@ source:
   emoji: 📰
   id: null
   name: BGR
-title: Jak proměnit starou televizi v chytré zrcadlo pomocí Raspberry Pi a MagicMirror
+title: Jak proměnit starou televizi ve smart zrcadlo pomocí Raspberry Pi
 url: https://www.bgr.com/2014813/how-to-turn-old-tv-into-smart-mirror-raspberry-pi-guide/
 urlToImage: https://www.bgr.com/img/gallery/you-can-use-your-old-tv-as-a-smart-mirror-heres-how/l-intro-1761933800.jpg
 urlToImageBackup: https://www.bgr.com/img/gallery/you-can-use-your-old-tv-as-a-smart-mirror-heres-how/l-intro-1761933800.jpg
 ---
 
 ## Souhrn
-Článek popisuje, jak z již nepotřebné televize vytvořit chytré zrcadlo kombinující klasické zrcadlo s digitální nástěnkou. Projekt staví na minipočítači Raspberry Pi a open-source platformě MagicMirror, která umožňuje zobrazovat počasí, kalendář, zprávy a další informace přímo v odrazu.
+Článek popisuje praktický způsob, jak znovu využít starou televizi jako smart zrcadlo kombinující klasické zrcadlo s informačním panelem. Pomocí minipočítače Raspberry Pi, dvoucestného skla a softwaru MagicMirror lze vytvořit domácí zařízení zobrazující počasí, kalendář, zprávy či další data.
 
 ## Klíčové body
-- Využití staré funkční televize jako displeje za dvoucestným zrcadlem.
-- Použití Raspberry Pi jako řídicí jednotky celého systému.
-- Nasazení open-source softwaru MagicMirror pro modulární a přizpůsobitelné rozhraní.
-- Možnost rozšíření o další senzory a integrační moduly (např. domácí automatizace, chytrá domácnost).
-- Levnější a flexibilnější alternativa k hotovým komerčním chytrým zrcadlům.
+- Využití staré televize jako zobrazovací jednotky místo vyhazování či skladování.
+- Použití Raspberry Pi jako řídicí jednotky s nízkou spotřebou a dobrým ekosystémem.
+- Open-source software MagicMirror umožňuje modulární nastavení obsahu (počasí, kalendář, zprávy, systémy chytré domácnosti).
+- Dvoucestné zrcadlo (two-way mirror) umožňuje současně vidět svůj odraz i obraz z displeje.
+- Projekt je relativně dostupný pro pokročilejší domácí uživatele, ale má i technická omezení (bezpečnost, ergonomie, spotřeba).
 
 ## Podrobnosti
-Tento projekt je praktickým příkladem, jak prodloužit životní cyklus spotřební elektroniky a vyhnout se zbytečnému elektroodpadu. Základem je stará, ale plně funkční televize s HDMI vstupem, která poslouží jako zobrazovací panel umístěný za dvoucestným zrcadlem. Dvoucestné (polopropustné) sklo umožňuje, aby při zapnutém displeji byly viditelné informace, zatímco při tmavém pozadí funguje jako běžné zrcadlo.
+Základní koncept smart zrcadla spočívá v kombinaci dvoucestného zrcadla a displeje umístěného za ním. V tomto případě stará televize funguje jako zobrazovač, který za dvoucestným sklem promítá jednoduché rozhraní s vybranými informacemi. Uživatel tak při běžném pohledu do zrcadla vidí vlastní odraz i přehled dat, jako je aktuální počasí, čas, nadcházející události z kalendáře nebo titulky zpráv.
 
-Výpočetní část zajišťuje Raspberry Pi, tedy malý jednodeskový počítač vhodný pro úsporný nepřetržitý provoz. Doporučují se hotové startovací sady (například CanaKit či Vilros), které obvykle obsahují předinstalovaný Raspberry Pi OS, zdroj, HDMI kabel a pouzdro. Raspberry Pi se připojí k televizi přes HDMI a běží na něm software MagicMirror.
+Jako výpočetní jednotka se používá Raspberry Pi, tedy levný jednodeskový počítač s nízkou spotřebou, který je vhodný pro domácí projekty a běh nenáročných UI. Doporučují se hotové startovací sady (například CanaKit nebo Vilros), které obsahují microSD kartu s Raspberry Pi OS, napájecí adaptér, HDMI kabel a ochranný kryt. Tím se snižuje bariéra pro uživatele, kteří nechtějí řešit kompatibilitu jednotlivých komponent.
 
-MagicMirror je bezplatný open-source rámec pro tvorbu chytrých zrcadel. Slouží k zobrazování widgetů (modulů) jako je aktuální počasí, předpověď, kalendář, čas, zprávy, případně integrace chytré domácnosti. Systém je rozšiřitelný – komunita nabízí moduly pro zobrazení dopravních informací, stav IoT zařízení, bezpečnostních kamer, měření kvality ovzduší nebo ovládání přes hlasové asistenty. Konfigurace probíhá úpravou konfiguračního souboru, kde uživatel definuje, jaké moduly se mají zobrazovat a z jakých zdrojů se mají stahovat data.
+Klíčovým prvkem je dvoucestné sklo (two-way mirror). Na rozdíl od běžného zrcadla umožňuje z jedné strany částečně prosvítat světlu z displeje, takže světlé prvky uživatelského rozhraní jsou viditelné, zatímco tmavé pozadí zaniká a zůstává efekt zrcadla. Je důležité volit sklo o stejné nebo větší velikosti, než je aktivní plocha televize, a počítat s bezpečným uchycením.
 
-Fyzická konstrukce obvykle zahrnuje vytvoření rámu nebo boxu, ve kterém je televize uchycena přímo za dvoucestným zrcadlem. Je nutné zajistit uchycení, odvětrání a bezpečné vedení kabeláže. Výsledkem je nenápadný panel, který v klidovém stavu působí jako běžné zrcadlo v předsíni nebo koupelně, ale po aktivaci zobrazuje přehled relevantních informací.
+Software MagicMirror je open-source platforma speciálně navržená pro smart zrcadla. Umožňuje pomocí modulů zobrazovat různé informace (počasí, kalendáře Google, RSS zprávy, hodiny, integrace chytré domácnosti přes API atd.). Rozhraní je textové a kontrastní, optimalizované pro čitelnost na mírnou vzdálenost. Pro technicky zdatnější uživatele je možné vytvářet vlastní moduly nebo integrovat data z lokálních serverů, IoT zařízení či AI asistentů.
+
+Technicky jde o poměrně přímočarý projekt, ale vyžaduje minimální znalost Linuxu (nastavení Raspberry Pi OS), správné natočení a jas televize, skrytí kabeláže, bezpečnou montáž konstrukce a případné nastavení automatického spouštění MagicMirror po startu systému. Z pohledu energetické efektivity je nutné počítat s trvalou spotřebou televize a Pi, takže dává smysl přidat časovač, ovládání přes smart zásuvku nebo režimy úspory.
 
 ## Proč je to důležité
-Projekt ukazuje praktický trend směrem k udržitelnějšímu zacházení s elektronikou a k modulárnímu pojetí chytré domácnosti. Namísto nákupu drahého proprietárního chytrého zrcadla lze znovu využít existující hardware a stavět na otevřeném softwaru, který není svázán jedním ekosystémem nebo uzavřeným cloudem. Pro technicky orientované uživatele jde o srozumitelný vstup do světa DIY řešení, integrací IoT a automatizace domácnosti.
+Projekt ilustruje rostoucí trend domácího bastlení, recyklace a prodlužování životního cyklu spotřební elektroniky místo jejího rychlého nahrazování. Místo nákupu drahého komerčního smart zrcadla lze využít existující hardware a open-source software, což je ekonomicky i ekologicky racionálnější. Z technického pohledu jde o dobrý vstupní projekt pro uživatele, kteří chtějí pracovat s Raspberry Pi, integrací API, domácí automatizací a jednoduchými UI.
 
-Z hlediska průmyslu tento typ projektů podtrhuje význam open-source platforem, jako je MagicMirror, a minipočítačů typu Raspberry Pi, které umožňují vytvářet funkce běžně spojované s komerčními produkty za nižší náklady a s větší kontrolou nad daty. Zároveň ukazuje, že část „chytré domácnosti“ nemusí být vázána na velké značky a uzavřené cloudové služby, ale může vznikat z kombinace dostupných komponent, otevřeného kódu a lokálního zpracování dat.
+Pro průmysl spotřební elektroniky je tento typ návodů signálem, že uživatelé stále více hledají otevřená a upravitelná řešení, nikoli uzavřené systémy bez možnosti modifikace. Posiluje to poptávku po dokumentaci, otevřených standardech a lepší opravitelnosti zařízení. Pro výrobce smart home řešení je to ukázka, že jednoduché informační rozhraní integrované do běžných předmětů domácnosti má praktickou hodnotu, pokud zůstává modulární, čitelné a nenutí uživatele do proprietárních ekosystémů.
 
 ---
 

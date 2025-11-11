@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: hardware
 date: '2025-11-09 15:02:00'
-description: Přehled nejběžnějších chyb, kterých se uživatelé dopouštějí při stavbě
-  a konfiguraci nového PC – od špatného výběru komponent a umístění GPU/SSD až po
-  podcenění napájení, chlazení a softwarového nastavení.
+description: Článek rozebírá nejčastější chyby při stavbě a konfiguraci nového PC
+  – od nesprávného osazení GPU a SSD přes podcenění napájecího zdroje a chlazení až
+  po špatné nastavení systému, které omezuje výkon a stabilitu.
 importance: 3
 layout: tech_news_article
 original_title: 10 Common Mistakes People Make When Setting Up A New Computer - bgr.com
@@ -21,24 +21,26 @@ urlToImageBackup: https://www.bgr.com/img/gallery/10-common-mistakes-people-make
 ---
 
 ## Souhrn
-Článek upozorňuje na typické chyby, které se objevují při stavbě a prvotním nastavení nového stolního počítače, zejména u uživatelů skládajících PC poprvé podle internetových návodů. Nesprávné umístění GPU a SSD, nevhodná volba základní desky, zdroje a skříně, podcenění chlazení či špatná konfigurace systému mohou vést k nižšímu výkonu, nestabilitě i zkrácení životnosti komponent.
+Článek upozorňuje na hlavní chyby, kterých se uživatelé dopouštějí při stavbě a prvním nastavení nového počítače. Nejde jen o chyby, kvůli nimž PC vůbec nenaběhne, ale hlavně o nenápadná špatná rozhodnutí v oblasti hardwaru a konfigurace systému, která dlouhodobě snižují výkon, stabilitu a životnost sestavy.
 
 ## Klíčové body
-- Chybné osazení GPU a NVMe SSD do podřadných slotů snižuje výkon oproti specifikacím.
-- Podcenění kompatibility komponent (CPU, RAM, SSD, zdroj, skříň) vede k nestabilitě nebo nefunkční sestavě.
-- Nekvalitní nebo slabý zdroj ohrožuje stabilitu, účinnost i bezpečnost systému.
-- Špatně nastavené chlazení, kabeláž a airflow zvyšují teploty a omezují výkon.
-- Opomenutí aktualizací BIOSu, ovladačů a optimalizace systému sráží výkon nového hardwaru.
+- Nesprávné osazení GPU a SSD do slotů s omezenou propustností a nesoulad s podporovanými standardy.
+- Podcenění kompatibility komponent (deska, procesor, paměti, zdroj, skříň) a kvality napájecího zdroje.
+- Nevhodné umístění systémového disku a špatná práce s NVMe/M.2 (tepelný throttling, sdílené linky).
+- Chyby v kabeláži, chlazení a airflow, vedoucí k vyšším teplotám a nestabilitě.
+- Opomenutí aktualizací BIOS/UEFI, ovladačů a bezpečnostních nastavení, která omezují výkon a bezpečnost.
 
 ## Podrobnosti
-Rozšířený boom vlastních sestav, spolu s poklesem cen GPU po útlumu těžby kryptoměn a přesunu AI na specializované čipy, vede k tomu, že mnoho uživatelů staví první PC svépomocí. I když existuje velké množství návodů, řada chyb se v nich nezdůrazňuje, protože se bere jako samozřejmá. Typický problém je nesprávné využití rozhraní základní desky: uživatel osadí GPU do nižšího PCIe slotu místo primárního, nebo rychlý NVMe SSD do M.2 pozice napojené na čipset s omezenou šířkou pásma. Výsledkem je měřitelně nižší výkon oproti specifikacím.
+Typickou chybou je instalace grafické karty (GPU) do spodního PCIe slotu jen kvůli lepšímu přístupu ke kabelům, přestože základní deska poskytuje plnou šířku linek (x16, nejnovější generace PCIe) pouze v horním primárním slotu. Výsledkem je omezený výkon GPU, který je pro náročné hry, práci s videem nebo AI výpočty výrazně citelný. Podobně u NVMe SSD uživatelé často ignorují, že ne všechny M.2 sloty jsou stejné: některé jsou napojené na čipset s nižší propustností, sdílejí linky se SATA porty nebo mají horší chlazení. Instalace systémového disku do podřadného slotu vede k nižší rychlosti startu systému, delším načítacím časům a vyšším teplotám.
 
-Časté jsou také chyby v kompatibilitě: výběr CPU, který není podporován konkrétní revizí BIOSu, pamětí RAM mimo ověřený seznam (QVL), nebo poddimenzovaný zdroj, který nepočítá se špičkovým odběrem GPU. Nekvalitní zdroje s falešnými certifikacemi mohou při zátěži způsobit nestabilitu či poškození komponent. Špatně zvolená skříň s omezeným prostorem pro kabeláž, airflow a chladiče navíc komplikuje proudění vzduchu a zvyšuje teploty.
+Další problém je nekritický výběr napájecího zdroje. Uživatelé často sáhnou po levném modelu bez potřebných ochran a s nízkou účinností. To je rizikové zejména u výkonných GPU a více jádrových procesorů, kde nestabilní napětí může způsobovat pády systému, poškození komponent nebo snížení výkonu při zátěži. Často se také podceňuje kompatibilita – například použití pamětí mimo oficiální podporu základní desky, nekompatibilní chladič CPU kvůli patici nebo nedostatečný prostor ve skříni pro dlouhé GPU.
 
-Další problémy vznikají při nedbalé montáži: příliš mnoho nebo žádná teplovodivá pasta, zapomenuté distanční sloupky pod základní deskou, nevhodné dotažení chladiče či ignorování správného zapojení ventilátorů (přívod vzduchu vpředu/dole, odvod nahoře/vzadu). Na softwarové úrovni uživatelé často neaktualizují BIOS, firmware SSD a ovladače čipsetu a GPU, nepovolí XMP/EXPO profil RAM, nebo instalují systém na pomalejší disk místo na NVMe SSD. To vše degraduje výhody nového hardwaru.
+Článek dále upozorňuje na chyby v oblasti chlazení a proudění vzduchu. Uživatelé montují ventilátory bez ohledu na směr proudění, blokují nasávání kabeláží nebo volí skříně s omezeným přívodem vzduchu. To vede k vyšším teplotám CPU, GPU i SSD a následnému throttlingu, tedy automatickému snižování výkonu. Na softwarové úrovni se často opomíjí aktualizace BIOS/UEFI, instalace aktuálních ovladačů čipové sady a GPU a konfigurace režimů výkonu v systému. Bez toho může nový hardware běžet v konzervativním nastavení, které nevyužívá jeho potenciál.
 
 ## Proč je to důležité
-Sestavování vlastního PC už není doménou expertů, ale masové činnosti, přesto se opakují stejné technické chyby, které vedou k neefektivnímu využití investovaných prostředků. Nesprávné osazení GPU a SSD nebo nevhodný výběr zdroje a skříně znamená, že uživatel platí za výkon, který reálně nedostane, a zároveň zvyšuje riziko poruchy. Pro trh to znamená větší tlak na transparentní specifikace základních desek, zdrojů a skříní a na kvalitnější návody výrobců. Pro profesionály v IT je tento typ článků užitečný jako referenční kontrolní seznam pro minimalizaci reklamací a podpory: důsledné ověření kompatibility, správné umístění komponent, konfigurace BIOSu a systému a základní termální disciplína jsou levnější než následné řešení problémů. V prostředí, kde ceny GPU a moderních SSD zůstávají významnou investicí, je přesná implementace klíčová pro dosažení očekávaného výkonu a životnosti sestavy.
+Pro koncové uživatele i menší firmy, které si skládají pracovní stanice nebo herní počítače, znamenají tyto chyby přímou ztrátu výkonu, kratší životnost komponent a zvýšené riziko poruch. V době, kdy ceny GPU klesají a NVMe SSD jsou běžným standardem, je nesprávná instalace či konfigurace zbytečným omezením investice. Článek prakticky připomíná, že samotný nákup výkonných komponent nestačí – zásadní je respektovat dokumentaci základní desky, chápat rozložení PCIe linek, vybrat kvalitní napájecí zdroj, zajistit správné chlazení a věnovat pozornost aktualizacím firmware a ovladačů.
+
+V širším kontextu to ukazuje trvalý problém DIY segmentu: marketing zdůrazňuje parametry jako „PCIe 5.0“, „RGB“ a „gaming“, ale uživatelé často nerozumějí technickým detailům zapojení. Výsledkem jsou sestavy, které vypadají moderně, ale reálně běží pod svými možnostmi. Správná praxe při stavbě PC je proto stejně důležitá jako samotný výběr hardwaru.
 
 ---
 
