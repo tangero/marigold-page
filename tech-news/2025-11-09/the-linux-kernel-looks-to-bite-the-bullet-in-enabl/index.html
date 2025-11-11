@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci | Marigold.cz - Sítě a Technologie</title>
+    <title>Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci | Marigold.cz - Sítě a Technologie</title>
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci" />
+<meta property="og:title" content="Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci" />
 <meta name="author" content="Marisa Aigen" />
 <meta property="og:locale" content="cs" />
-<meta name="description" content="Vývojáři Linuxového kernelu zvažují trvalé zapnutí přepínače -fms-extensions v GCC a Clang, což umožní použití vybraných rozšíření jazyka C z ekosystému Microsoftu a může ovlivnit styl, kompatibilitu a údržbu kernelového kódu." />
-<meta property="og:description" content="Vývojáři Linuxového kernelu zvažují trvalé zapnutí přepínače -fms-extensions v GCC a Clang, což umožní použití vybraných rozšíření jazyka C z ekosystému Microsoftu a může ovlivnit styl, kompatibilitu a údržbu kernelového kódu." />
+<meta name="description" content="Vývojáři Linuxového kernelu zvažují plošné zapnutí volby -fms-extensions v GCC a Clang, což by umožnilo využití vybraných Microsoft C Extensions pro jednodušší práci se strukturami a potenciálně úsporu paměti." />
+<meta property="og:description" content="Vývojáři Linuxového kernelu zvažují plošné zapnutí volby -fms-extensions v GCC a Clang, což by umožnilo využití vybraných Microsoft C Extensions pro jednodušší práci se strukturami a potenciálně úsporu paměti." />
 <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/" />
 <meta property="og:url" content="https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/" />
 <meta property="og:site_name" content="Marigold.cz" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-11-09T14:51:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci" />
+<meta property="twitter:title" content="Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Marisa Aigen"},"dateModified":"2025-11-09T14:51:00+00:00","datePublished":"2025-11-09T14:51:00+00:00","description":"Vývojáři Linuxového kernelu zvažují trvalé zapnutí přepínače -fms-extensions v GCC a Clang, což umožní použití vybraných rozšíření jazyka C z ekosystému Microsoftu a může ovlivnit styl, kompatibilitu a údržbu kernelového kódu.","headline":"Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/"},"url":"https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Marisa Aigen"},"dateModified":"2025-11-09T14:51:00+00:00","datePublished":"2025-11-09T14:51:00+00:00","description":"Vývojáři Linuxového kernelu zvažují plošné zapnutí volby -fms-extensions v GCC a Clang, což by umožnilo využití vybraných Microsoft C Extensions pro jednodušší práci se strukturami a potenciálně úsporu paměti.","headline":"Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/"},"url":"https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -27,15 +27,15 @@
 
     
     <meta property="og:description" content="Souhrn
-Linuxový kernel se přibližuje rozhodnutí plošně povolit kompilátorový přepínač -fms-extensions v rámci svého build systému. Tento krok by umožnil využívat vybrané Microsoft C Extensions při kompilaci kernelu pomocí GCC i LLVM/Clang a otevřel prostor pro odlišný, potenciálně úspornější a čitelnější způsob práce se strukturami v jaderném kódu.
+Linuxový kernel směřuje k plošnému povolení přepínače -fms-extensions v rámci build systému, což umožní využití vybraných Microsoft C Extensions v GCC a LLVM/Clang. Změna je aktuálně v testovací větvi kbuild-next a pokud nebude vetována klíčovými maintainery nebo Linusem Torvaldsem, může se objevit v jádře Linuxu 6.19.
 
 " />
     
     <meta name="author" content="Marigold.cz" />
 
     
-    <meta property="og:title" content="Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci" />
-    <meta property="twitter:title" content="Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci" />
+    <meta property="og:title" content="Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci" />
+    <meta property="twitter:title" content="Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci" />
     
 
     
@@ -237,54 +237,50 @@ Linuxový kernel se přibližuje rozhodnutí plošně povolit kompilátorový p�
       </div>
     </div>
 
-    <h1 class="article-title">Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci</h1>
+    <h1 class="article-title">Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci</h1>
 
     <div class="article-meta">
       <time datetime="2025-11-09T14:51:00+00:00">09.11.2025 14:51</time>
-      <span class="category category-programování">programování</span>
+      <span class="category category-linux kernel">linux kernel</span>
     </div>
   </header>
 
   
   <div class="article-image">
-    <img src="https://www.phoronix.net/image.php?id=2025&image=ms_b" alt="Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci" loading="lazy">
+    <img src="https://www.phoronix.net/image.php?id=2025&image=ms_b" alt="Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci" loading="lazy">
   </div>
   
 
   <div class="article-content">
     <h2 id="souhrn">Souhrn</h2>
-<p>Linuxový kernel se přibližuje rozhodnutí plošně povolit kompilátorový přepínač <code class="language-plaintext highlighter-rouge">-fms-extensions</code> v rámci svého build systému. Tento krok by umožnil využívat vybrané Microsoft C Extensions při kompilaci kernelu pomocí GCC i LLVM/Clang a otevřel prostor pro odlišný, potenciálně úspornější a čitelnější způsob práce se strukturami v jaderném kódu.</p>
+<p>Linuxový kernel směřuje k plošnému povolení přepínače <code class="language-plaintext highlighter-rouge">-fms-extensions</code> v rámci build systému, což umožní využití vybraných Microsoft C Extensions v GCC a LLVM/Clang. Změna je aktuálně v testovací větvi kbuild-next a pokud nebude vetována klíčovými maintainery nebo Linusem Torvaldsem, může se objevit v jádře Linuxu 6.19.</p>
 
 <h2 id="klíčové-body">Klíčové body</h2>
 <ul>
-  <li>Větve <code class="language-plaintext highlighter-rouge">kbuild-next</code> nově obsahují dvě záplaty, které zapínají <code class="language-plaintext highlighter-rouge">-fms-extensions</code> globálně pro kompilaci kernelu.</li>
-  <li>Cílem je umožnit využití specifických konstrukcí Microsoft C, zejména anonymního vkládání strukturovaných typů (struct/union) s tagy.</li>
-  <li>Změna je pravděpodobně zamýšlena pro Linux 6.19, pokud nebudou zásadní námitky od klíčových vývojářů nebo Linuse Torvaldse.</li>
-  <li>Argumenty pro zahrnují „hezčí“ a kompaktnější kód, potenciální úsporu zásobníkové paměti a sjednocení chování mezi kompilátory.</li>
-  <li>Kritickou otázkou je dlouhodobý dopad na přenositelnost, závislost na ne-standardních rozšířeních a stabilitu ekosystému kernelu.</li>
+  <li>Návrh povolit <code class="language-plaintext highlighter-rouge">-fms-extensions</code> globálně pro kompilaci kernelu v GCC i Clang.</li>
+  <li>Hlavní motivací je možnost anonymního vkládání označených (tagged) struktur a unii do jiných struktur/unií.</li>
+  <li>Očekává se čitelnější a kompaktnější kód, v některých případech i úspora zásobníkové paměti.</li>
+  <li>Změna je po letech diskusí nově zařazena do kbuild-next, což zvyšuje šanci na skutečné nasazení.</li>
+  <li>Stále existuje prostor pro odmítnutí v rámci merge window, pokud se objeví silné technické námitky.</li>
 </ul>
 
 <h2 id="podrobnosti">Podrobnosti</h2>
-<p>Rozšíření Microsoft C Extensions, aktivovaná volbou <code class="language-plaintext highlighter-rouge">-fms-extensions</code>, umožňují kompilátorům jako GCC a LLVM/Clang podporovat určité nestandardní konstrukce jazyka C, původně zavedené v Microsoft Visual C/C++. Jde například o specifické způsoby práce se strukturovanými typy, uniemi či anonymními členy, které nejsou plně v souladu se standardem C, ale v praxi zjednodušují zápis některých datových struktur.</p>
+<p>Kbuild-next, testovací větev build systému Linuxového kernelu, aktuálně obsahuje dvojici patchů, které zapínají kompilátorový přepínač <code class="language-plaintext highlighter-rouge">-fms-extensions</code> pro všechny konfigurace. Tento přepínač v překladačích GCC a LLVM/Clang zpřístupňuje podmnožinu rozšíření jazyka C používaných původně kompilátorem Microsoft Visual C/C++. Pro Linuxové jádro je klíčová konkrétní vlastnost: možnost vkládat označenou strukturu nebo unii (tagged struct/union) anonymně do jiné struktury/union tak, aby její členy bylo možné přistupovat přímo, bez další úrovně zanoření.</p>
 
-<p>V kontextu Linuxového kernelu je hlavním praktickým přínosem možnost anonymně vkládat „označené“ (tagged) struktury a unie do jiných struktur bez nutnosti obalových členů. To vede k přímočařejšímu přístupu k polím těchto vnořených typů, což může zjednodušit definice komplexních datových struktur používaných v podsystémech kernelu, jako jsou plánovač, síťový stack, ovladače nebo subsystémy správy paměti.</p>
+<p>Dosud se vývoj kernelu těmto rozšířením záměrně vyhýbal a preferoval čistší, standardní C, i za cenu poněkud méně elegantního kódu. Návrhy na plošné povolení <code class="language-plaintext highlighter-rouge">-fms-extensions</code> se objevují řadu let, ale narážely na odpor kvůli obavám z rozbití kompatibility, zvýšení závislosti na nestandardních vlastnostech a komplikacím při údržbě. Aktuální krok – zařazení patchů do kbuild-next – naznačuje posun v postoji části komunity: Rasmus Villemoes a další argumentují, že v praxi existuje dost případů, kdy použití těchto rozšíření zjednoduší struktury, sníží duplicitní kód a v některých scénářích i šetří zásobníkovou paměť (stack space), což je relevantní zejména pro nízkoúrovňové subsystémy a omezená embedded prostředí.</p>
 
-<p>Historicky se návrhy na globální povolení <code class="language-plaintext highlighter-rouge">-fms-extensions</code> opakovaně objevovaly, ale končily na mailing listu s tím, že přínos není dostatečný vzhledem k přidání dalšího nestandardního prvku do build procesu. Tentokrát však návrh postoupil do větve <code class="language-plaintext highlighter-rouge">kbuild-next</code>, což je pracovní větev pro změny v build systému kernelu. To znamená, že pokud v následující fázi nepřijdou zásadní námitky, změna může být součástí vydání Linux 6.19.</p>
-
-<p>Rasmus Villemoes a další vývojáři argumentují, že jednotlivé případy, kde by <code class="language-plaintext highlighter-rouge">-fms-extensions</code> pomohly, byly dosud posuzovány izolovaně a vždy považovány za „ne dost důležité“ na přidání nového přepínače. Tento přístup ale vytváří takzvaný „chicken-and-egg“ problém: bez aktivovaného přepínače se vývojáři těmto konstrukcím vyhýbají, a tudíž se nikdy neukáže kumulativní přínos. Globální povolení má tento blok odstranit a umožnit postupnou evoluci kódu.</p>
-
-<p>Současně je nutné počítat s technickými riziky. Kernel je extrémně přenositelný projekt běžící na široké škále architektur a kompilátorů. Závislost na chování specifickém pro Microsoft C Extensions může zkomplikovat budoucí podporu alternativních nástrojových řetězců, zvýšit bariéru vstupu pro nové platformy a vystavit vývojáře jemným neslučitelným detailům mezi implementacemi kompilátorů. Proto lze očekávat detailní diskusi nad tím, které konkrétní prvky rozšíření budou v praxi využívány a jak omezit možnost jejich zneužití.</p>
+<p>Z technického pohledu nejde o přebírání celého proprietárního ekosystému Microsoftu, ale o pragmatické využití rozšíření, která jsou již implementována v hlavních open source kompilátorech. Rizikem zůstává potenciální uzamčení na specifické chování překladačů a ztížení statické analýzy, formálních verifikací či portování nástrojů, které očekávají čistě standardní C.</p>
 
 <h2 id="proč-je-to-důležité">Proč je to důležité</h2>
-<p>Tento krok je důležitý primárně pro vývojářský a systémový ekosystém kolem Linuxového kernelu, nikoli jako okamžitá změna pro koncové uživatele. Pokud dojde k trvalému přijetí <code class="language-plaintext highlighter-rouge">-fms-extensions</code>, kernelový kód se může postupně opřít o nestandardní vlastnosti jazyka C, což ovlivní:</p>
+<p>Případné přijetí tohoto kroku by znamenalo formální posun v filozofii vývoje Linuxového kernelu směrem k větší toleranci k nestandardním jazykovým prvkům, pokud přinášejí praktický užitek. Pro vývojáře kernelu to může znamenat:</p>
 
 <ul>
-  <li>Přenositelnost: kompilace kernelu bude ještě více vázána na konkrétní chování GCC a Clang s podporou Microsoft C Extensions. Alternativní či experimentální kompilátory mohou mít problém držet krok.</li>
-  <li>Údržbu kódu: jednodušší a kompaktnější datové struktury mohou zlepšit čitelnost pro zkušené vývojáře, ale zároveň zvýší komplexitu pro ty, kteří očekávají čistě standardní C.</li>
-  <li>Ekosystém nástrojů: nástroje pro analýzu kódu, formální verifikaci či statickou analýzu budou muset správně rozumět těmto rozšířením, aby nedocházelo k falešným chybám nebo přehlédnutí skutečných problémů.</li>
+  <li>čitelnější a strukturovanější datové typy, které lépe odrážejí skutečné hierarchie bez zbytečných obalů,</li>
+  <li>možnost úspory paměti a zjednodušení přístupu ke členům struktur v kritických částech kódu,</li>
+  <li>ale také nutnost pečlivěji hlídat, aby se nešířila závislost na méně podporovaných nebo problematických částech Microsoft C Extensions.</li>
 </ul>
 
-<p>Celkově nejde o průlomový milník, ale o významnější posun v filozofii vývoje kernelu: pragmatické přijetí nestandardních jazykových rozšíření výměnou za konkrétní vývojářské a technické výhody. Pro profesionály v oblasti systémového programování je to signál, že Linux kernel může být do budoucna méně puristický a více ochotný využívat rozšíření definovaná praxí, nikoli pouze standardem.</p>
+<p>V širším ekosystému je to signál, že jádro klíčového open source projektu je ochotné přijmout kompatibilitu s rozšířeními historicky spojenými s Microsoftem, pokud jsou dostupná v otevřených nástrojích jako GCC a Clang. To může usnadnit interoperabilitu s částmi kódu a hlavičkových souborů, které z těchto konstrukcí vycházejí, a současně otevírá debatu o hranici mezi pragmatismem a udržitelnou čistotou kódu v kritické infrastruktuře.</p>
 
 <hr />
 

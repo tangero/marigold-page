@@ -1,10 +1,134 @@
 {
-  "generated": "2025-11-10T20:23:26.096425+00:00",
+  "generated": "2025-11-11T04:25:47.006899+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Mechanik odhaluje výjimečnou historii vozu Ford Mustang GT 390 z roku 1968",
-      "description": "Příběh amerického mechanika, který při servisu Fordu Mustang GT 390 z roku 1968 zjistí, že jde o tentýž vůz, na kterém pracoval před desítkami let, ukazuje sběratelskou hodnotu ikonických muscle cars a sílu filmového odkazu modelu z filmu Bullitt.",
+      "title": "American Icon: Mustang Immersive Experience nabízí nostalgický, ale místy rozpačitý návrat k historii pony caru",
+      "description": "Nová instalace „American Icon: A Mustang Immersive Experience“ v Los Angeles kombinuje muzejní expozici s 4D projekcemi a snaží se poutavě připomenout kulturní odkaz Fordu Mustang od roku 1964.5 po současnost, i když místy sklouzává k laciné efektnosti.",
+      "slug": "american-icon-a-mustang-immersive-experience-is-an",
+      "publishedAt": "2025-11-09T23:25:00+00:00",
+      "date": "2025-11-09 23:25:00",
+      "importance": 1,
+      "category": "automobilismus",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/american-icon-a-mustang-immersive-experience-is-an-entertaining-occasionally-cringey-look-back-at-pony-car-history/l-intro-1762557499.jpg",
+      "url": "/tech-news/2025-11-09/american-icon-a-mustang-immersive-experience-is-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Budoucnost Apple Fitness+ je nejistá. Apple chystá reorganizaci služby",
+      "description": "Apple přehodnocuje strategii služby Fitness+ kvůli vysokému odchodu uživatelů a omezenému růstu příjmů. Platforma projde reorganizací pod vedením zdravotní divize, místo aby byla zrušena.",
+      "slug": "the-future-of-apple-fitness-is-under-review-amid-r",
+      "publishedAt": "2025-11-09T18:17:00+00:00",
+      "date": "2025-11-09 18:17:00",
+      "importance": 3,
+      "category": "apple",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Fitness-iPhone-17-Apple-Watch-FI-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-09/the-future-of-apple-fitness-is-under-review-amid-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Bloomberg"
+      ],
+      "people": [
+        "Mark Gurman"
+      ]
+    },
+    {
+      "title": "5 bezplatných a opomíjených aplikací pro Apple CarPlay, které stojí za vyzkoušení",
+      "description": "Apple CarPlay s iOS 26 získává nové uživatelské rozhraní a widgety, ale skutečnou přidanou hodnotu přináší méně známé bezplatné aplikace pro parkování, nabíjení elektromobilů a multimédia, které rozšiřují možnosti infotainmentu v autě.",
+      "slug": "A-5-free-apple-carplay-apps-for-iphone-youve-proba",
+      "publishedAt": "2025-11-09T17:17:00+00:00",
+      "date": "2025-11-09 17:17:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-free-apple-carplay-apps-for-iphone-youve-probably-never-heard-of/l-intro-1761830800.jpg",
+      "url": "/tech-news/2025-11-09/A-5-free-apple-carplay-apps-for-iphone-youve-proba/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nenápadná klávesová zkratka v Androidu, která zásadně zrychluje psaní: Správce schránky",
+      "description": "Autor upozorňuje na opomíjenou, ale praktickou funkci Androidu – pokročilý správce schránky v klávesnici, který ukládá více položek a výrazně usnadňuje každodenní práci oproti omezené schránce v iOS.",
+      "slug": "the-little-known-android-keyboard-shortcut-i-use-e",
+      "publishedAt": "2025-11-09T17:15:00+00:00",
+      "date": "2025-11-09 17:15:00",
+      "importance": 3,
+      "category": "android",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/illustration-of-the-google-gboard-and-multiple-clipboard-icons-floating-around-it.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/the-little-known-android-keyboard-shortcut-i-use-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak z levného mini PC udělat solidní herní stanici: praktický návod na cloudové hraní s NVIDIA GeForce NOW a Xbox Cloud Gaming",
+      "description": "Článek ukazuje, jak využít levné mini PC v kombinaci s cloudovými herními službami k hraní AAA titulů bez drahé herní sestavy. Zaměřuje se na konkrétní hardware, požadavky na připojení a limity takového řešení.",
+      "slug": "how-i-turned-a-cheap-mini-pc-into-a-aaa-gaming-mac",
+      "publishedAt": "2025-11-09T17:00:00+00:00",
+      "date": "2025-11-09 17:00:00",
+      "importance": 3,
+      "category": "herní hardware",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AmDThBYHdM25jsY2UjqXTV-2048-80.jpg",
+      "url": "/tech-news/2025-11-09/how-i-turned-a-cheap-mini-pc-into-a-aaa-gaming-mac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "NVIDIA",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gemini výrazně posiluje Google Home, ale trápí ho základní chyby",
+      "description": "Integrace Gemini do Google Home a Nest zařízení ukazuje praktickou vizi AI chytré domácnosti – přesnější vyhledávání v záznamech, kontextové přehledy a vizuální porozumění. Současně ale odhaluje zásadní slabiny: nespolehlivost, chybovou detekci a otázky důvěryhodnosti.",
+      "slug": "gemini-has-made-google-home-incredibly-smart-excep",
+      "publishedAt": "2025-11-09T17:00:00+00:00",
+      "date": "2025-11-09 17:00:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/google-home-gemini-ask-home-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-09/gemini-has-made-google-home-incredibly-smart-excep/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google",
+        "Apple",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mechanik objeví osobní historii ukrytou v Fordu Mustang GT 390 z roku 1968",
+      "description": "Mechanik při práci na klasickém Mustangu GT 390 z roku 1968 zjišťuje, že jde o vůz, na kterém sám pracoval před desítkami let, což z rutinní opravy dělá osobní setkání s automobilovou historií.",
       "slug": "mechanic-goes-to-work-on-1968-mustang-gt-390-4-spe",
       "publishedAt": "2025-11-09T16:08:00+00:00",
       "date": "2025-11-09 16:08:00",
@@ -21,8 +145,82 @@
       "people": []
     },
     {
-      "title": "Vánoční ozdoby pro hráče a fanoušky popkultury: retro konzole, filmové momenty a nerd kultura",
-      "description": "The Verge představuje výběr vánočních ozdob inspirovaných retro herními konzolemi, klasickými filmy a popkulturní nostalgií, které míří na hráče a fanoušky geek kultury.",
+      "title": "Bye week hodnocení Kansas City Chiefs: Patrick Mahomes potvrzuje status klíčového hráče",
+      "description": "Redakce Arrowhead Pride během volného týdne Kansas City Chiefs vyhodnotila dosavadní průběh sezóny a jednoznačně zvolila quarterbacka Patricka Mahomese jako týmového MVP navzdory kolísavému výkonu týmu.",
+      "slug": "chiefs-2025-bye-week-awards-who-wins-team-mvp-arro",
+      "publishedAt": "2025-11-09T16:00:31+00:00",
+      "date": "2025-11-09 16:00:31",
+      "importance": 1,
+      "category": "sportovní technologi",
+      "urlToImage": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2025/11/gettyimages-2240668562.jpg?quality=90&strip=all&crop=16.2%2C4.8000002929688%2C83.2%2C65.340318124182&w=1200",
+      "url": "/tech-news/2025-11-09/chiefs-2025-bye-week-awards-who-wins-team-mvp-arro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Arrowhead Pride"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak proměnit starou televizi v chytré zrcadlo pomocí Raspberry Pi a MagicMirror",
+      "description": "Článek ukazuje praktický návod, jak z běžné staré televize vytvořit plně funkční chytré zrcadlo s využitím minipočítače Raspberry Pi, dvoucestného zrcadla a open-source softwaru MagicMirror.",
+      "slug": "you-can-use-your-old-tv-as-a-smart-mirror-heres-ho",
+      "publishedAt": "2025-11-09T15:17:00+00:00",
+      "date": "2025-11-09 15:17:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://www.bgr.com/img/gallery/you-can-use-your-old-tv-as-a-smart-mirror-heres-how/l-intro-1761933800.jpg",
+      "url": "/tech-news/2025-11-09/you-can-use-your-old-tv-as-a-smart-mirror-heres-ho/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tři AI funkce v Microsoft Edge, které je vhodné zapnout hned teď",
+      "description": "Microsoft rozšiřuje prohlížeč Edge o tři AI funkce – Copilot Mode, Journeys a Actions – které zrychlují vyhledávání, usnadňují práci s obsahem a automatizují úkoly přímo v prohlížeči.",
+      "slug": "three-powerful-ai-features-in-microsoft-edge-you-s",
+      "publishedAt": "2025-11-09T15:03:00+00:00",
+      "date": "2025-11-09 15:03:00",
+      "importance": 3,
+      "category": "ai asistenti",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YG3KhSdVjBZDgPzVdmrviX-1677-80.jpg",
+      "url": "/tech-news/2025-11-09/three-powerful-ai-features-in-microsoft-edge-you-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "10 častých chyb při sestavování a prvním nastavení nového počítače",
+      "description": "Přehled nejběžnějších chyb, kterých se uživatelé dopouštějí při stavbě a konfiguraci nového PC – od špatného výběru komponent a umístění GPU/SSD až po podcenění napájení, chlazení a softwarového nastavení.",
+      "slug": "A-10-common-mistakes-people-make-when-setting-up-a",
+      "publishedAt": "2025-11-09T15:02:00+00:00",
+      "date": "2025-11-09 15:02:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://www.bgr.com/img/gallery/10-common-mistakes-people-make-when-setting-up-a-new-computer/l-intro-1762097964.jpg",
+      "url": "/tech-news/2025-11-09/A-10-common-mistakes-people-make-when-setting-up-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vánoční ozdoby pro hráče a fanoušky popkultury: retro konzole, filmové momenty a geek estetika",
+      "description": "The Verge vybírá vánoční ozdoby inspirované herní kulturou a popkulturou, od realistických miniatur retro konzolí po ikonické filmové a seriálové motivy. Nabídka cílí na nostalgii a personalizaci vánočních stromků pro fanoušky technologií a zábavního průmyslu.",
       "slug": "deck-out-your-tree-with-ornaments-of-retro-console",
       "publishedAt": "2025-11-09T15:00:00+00:00",
       "date": "2025-11-09 15:00:00",
@@ -36,22 +234,22 @@
         "name": "The Verge"
       },
       "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
+        "Nintendo",
+        "Sega",
         "Sony",
-        "Nintendo"
+        "Microsoft",
+        "Apple"
       ],
       "people": []
     },
     {
-      "title": "Linuxový kernel míří k povolení Microsoft C Extensions při kompilaci",
-      "description": "Vývojáři Linuxového kernelu zvažují trvalé zapnutí přepínače -fms-extensions v GCC a Clang, což umožní použití vybraných rozšíření jazyka C z ekosystému Microsoftu a může ovlivnit styl, kompatibilitu a údržbu kernelového kódu.",
+      "title": "Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci",
+      "description": "Vývojáři Linuxového kernelu zvažují plošné zapnutí volby -fms-extensions v GCC a Clang, což by umožnilo využití vybraných Microsoft C Extensions pro jednodušší práci se strukturami a potenciálně úsporu paměti.",
       "slug": "the-linux-kernel-looks-to-bite-the-bullet-in-enabl",
       "publishedAt": "2025-11-09T14:51:00+00:00",
       "date": "2025-11-09 14:51:00",
       "importance": 3,
-      "category": "programování",
+      "category": "linux kernel",
       "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=ms_b",
       "url": "/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/",
       "source": {
@@ -65,6 +263,71 @@
         "LLVM",
         "Clang"
       ],
+      "people": []
+    },
+    {
+      "title": "Zephyr opět láká na high-end GPU inspirovanou Radeon Vega VII se skrytým napájecím konektorem",
+      "description": "Menší výrobce Zephyr zveřejnil další náhled na svou chystanou high-end GPU s designem inspirovaným Radeon Vega VII a netradičně skrytým napájecím konektorem, zatím bez potvrzení, zda půjde o kartu s čipem AMD nebo Nvidia.",
+      "slug": "zephyr-again-teases-radeon-vega-vii-inspired-high-",
+      "publishedAt": "2025-11-09T14:19:39+00:00",
+      "date": "2025-11-09 14:19:39",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/ZEPHYR-VEGA-HERO.jpg",
+      "url": "/tech-news/2025-11-09/zephyr-again-teases-radeon-vega-vii-inspired-high-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "Zephyr",
+        "Radeon",
+        "GeForce",
+        "VideoCardz"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pět AI chatbotů plánovalo dovolenou. Vítězem nebyl ChatGPT",
+      "description": "Autor nechal pět AI chatbotů naplánovat čtyřdenní rodinný výlet do Black Hills a k Mount Rushmore. Test ukazuje praktické rozdíly mezi nástroji při reálném využití pro cestování.",
+      "slug": "i-used-5-ai-chatbots-to-plan-my-vacation-and-the-w",
+      "publishedAt": "2025-11-09T14:00:00+00:00",
+      "date": "2025-11-09 14:00:00",
+      "importance": 3,
+      "category": "ai asistenti",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/odrpFtPwhcHKz2XYgkgVTZ-2000-80.jpg",
+      "url": "/tech-news/2025-11-09/i-used-5-ai-chatbots-to-plan-my-vacation-and-the-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [
+        "ChatGPT",
+        "Google",
+        "Microsoft",
+        "Anthropic",
+        "Perplexity"
+      ],
+      "people": []
+    },
+    {
+      "title": "Process Explorer: zdarma dostupný nástroj, který přesně ukáže, proč je váš Windows pomalý",
+      "description": "Process Explorer z balíku Sysinternals od Microsoftu poskytuje výrazně podrobnější pohled na běžící procesy než Správce úloh a pomáhá odhalit skutečné příčiny zpomalení a nestability systému.",
+      "slug": "i-set-up-a-free-system-monitor-that-actually-tells",
+      "publishedAt": "2025-11-09T14:00:00+00:00",
+      "date": "2025-11-09 14:00:00",
+      "importance": 3,
+      "category": "software",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/monitoring-system-processes-with-process-explorer.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/i-set-up-a-free-system-monitor-that-actually-tells/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -133,13 +396,33 @@
       ]
     },
     {
-      "title": "Ikea rozšiřuje vliv ve světě chytré domácnosti",
-      "description": "Ikea představuje novou generaci zařízení pro chytrou domácnost a potvrzuje ambici stát se centrálním hráčem v jednoduchém, dostupném a interoperabilním ovládání domácí techniky.",
+      "title": "Vylepšené notifikace v One UI 8: nenápadná změna, která výrazně zpřehledňuje používání telefonu",
+      "description": "One UI 8 a připravované One UI 8.5 přinášejí cílené úpravy práce s notifikacemi, zejména lepší seskupování a vizuální strukturu, které snižují zahlcení upozorněními bez nutnosti je plošně vypínat.",
+      "slug": "the-one-ui-8-tweak-that-changed-how-i-use-my-phone",
+      "publishedAt": "2025-11-09T13:00:00+00:00",
+      "date": "2025-11-09 13:00:00",
+      "importance": 3,
+      "category": "android",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/oneui8-notifications-tweak.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/the-one-ui-8-tweak-that-changed-how-i-use-my-phone/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ikea výrazně rozšiřuje vliv v oblasti chytré domácnosti",
+      "description": "Ikea představuje novou generaci produktů pro chytrou domácnost a potvrzuje ambici stát se masovým standardem v tomto segmentu. Díky kombinaci dostupných zařízení, jednodušší integrace a podpory otevřených ekosystémů se výrazně mění konkurenční prostředí.",
       "slug": "ikea-just-took-over-your-smart-home-the-verge",
       "publishedAt": "2025-11-09T13:00:00+00:00",
       "date": "2025-11-09 13:00:00",
       "importance": 3,
-      "category": "chytrá domácnost",
+      "category": "smart domácnost",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Installer-105.png?quality=90&strip=all&crop=0%2C10.789646653521%2C100%2C78.420706692958&w=1200",
       "url": "/tech-news/2025-11-09/ikea-just-took-over-your-smart-home-the-verge/",
       "source": {
@@ -154,11 +437,35 @@
         "Microsoft",
         "Tesla"
       ],
+      "people": [
+        "Elon Musk",
+        "Tim Cook",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Focal Mu-so Hekla: Výkonný bezdrátový reproduktor a Dolby Atmos soundbar v jednom",
+      "description": "Focal představil Mu-so Hekla, prémiový bezdrátový reproduktor, který zároveň funguje jako Dolby Atmos soundbar. Cílí na náročné uživatele hledající kvalitní hudební poslech i domácí kino v jednom zařízení.",
+      "slug": "A-8-cool-new-gadgets-to-keep-on-your-radar-gear-pa",
+      "publishedAt": "2025-11-09T13:00:00+00:00",
+      "date": "2025-11-09 13:00:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/11/Focal-Mu-so-Hekla-lead.webp",
+      "url": "/tech-news/2025-11-09/A-8-cool-new-gadgets-to-keep-on-your-radar-gear-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gear Patrol"
+      },
+      "companies": [
+        "Apple"
+      ],
       "people": []
     },
     {
-      "title": "Levná karta AMD BC250 z těžby kryptoměn a PS5 APU rozbíhá GTA V i Cyberpunk 2077 za zhruba 120 dolarů",
-      "description": "Speciální karta AMD BC250, původně určená pro těžbu kryptoměn a vycházející z APU konzole PlayStation 5, byla úspěšně zprovozněna jako herní GPU a zvládá moderní hry jako GTA V a Cyberpunk 2077 při velmi nízké pořizovací ceně.",
+      "title": "Levná grafická karta AMD BC250 z těžby kryptoměn na bázi PS5 APU zvládá GTA V i Cyberpunk 2077",
+      "description": "Karta AMD BC250, původně určená pro těžbu kryptoměn a založená na upraveném APU z PlayStation 5, se objevuje na trhu kolem 120 dolarů a podle testů zvládá moderní hry i běh linuxové distribuce Bazzite.",
       "slug": "ex-mining-and-ps5-based-amd-bc250-board-runs-gta-v",
       "publishedAt": "2025-11-09T12:15:00+00:00",
       "date": "2025-11-09 12:15:00",
@@ -178,8 +485,8 @@
       "people": []
     },
     {
-      "title": "12 aplikací, které by si měli nenároční uživatelé nainstalovat na Android místo předinstalovaných",
-      "description": "Výběr jednodušších a přehlednějších aplikací pro uživatele, kteří nejsou technicky zdatní, s důrazem na lepší ovladatelnost, podporu na dálku a vyšší bezpečnost než u běžných předinstalovaných řešení.",
+      "title": "12 aplikací, které by si měli nenáročnější uživatelé nainstalovat na Android místo předinstalovaných",
+      "description": "Výběr aplikací, které zjednodušují používání telefonu pro běžné uživatele, zlepšují přístupnost, vzdálenou podporu, zabezpečení a každodenní úkoly oproti často složitým nebo omezeným předinstalovaným řešením.",
       "slug": "A-12-apps-i-urge-non-techies-to-install-on-their-a",
       "publishedAt": "2025-11-09T12:12:36+00:00",
       "date": "2025-11-09 12:12:36",
@@ -195,15 +502,15 @@
       "companies": [
         "Google",
         "Microsoft",
-        "Samsung",
+        "Apple",
         "Meta",
         "Mozilla"
       ],
       "people": []
     },
     {
-      "title": "Android 17 může zásadně změnit využití always-on displeje",
-      "description": "Připravovaný Android 17 podle náznaků z betaverzí Androidu 16 a Google Maps testuje režim „Min Mode“, který umožní aplikacím zobrazovat klíčové informace na always-on displeji. Cílí na praktičtější používání telefonu, nižší spotřebu baterie a bezpečnější interakci například při řízení.",
+      "title": "Android 17 chystá praktičtější always-on displej s režimem Min Mode",
+      "description": "Android 17 podle náznaků v beta verzích Androidu 16 a Google Maps zavádí režim Min Mode, který umožní aplikacím zobrazovat klíčové informace na always-on displeji a výrazně snížit spotřebu baterie, zejména při navigaci a dalších činnostech.",
       "slug": "this-android-17-could-be-the-best-feature-of-the-y",
       "publishedAt": "2025-11-09T12:00:00+00:00",
       "date": "2025-11-09 12:00:00",
@@ -222,8 +529,8 @@
       "people": []
     },
     {
-      "title": "Tísnivý netflixový thriller Fractured z nemocničního prostředí",
-      "description": "Psychologický thriller Fractured na Netflixu využívá klaustrofobní prostředí nemocnice k postupnému budování paranoie a nedůvěry v instituce zdravotní péče. Film sází na subjektivní perspektivu hlavní postavy a záměrně pracuje s nejistotou diváka.",
+      "title": "Tísnivý thriller Fractured na Netflixu: film, po kterém nebudete chtít do nemocnice",
+      "description": "Psychologický thriller Fractured na Netflixu využívá klaustrofobní prostředí nemocnice k budování paranoie a nejistoty, kdy se otec snaží zjistit, co se stalo s jeho ženou a dcerou po záhadném zmizení v nemocničním systému.",
       "slug": "this-eerie-netflix-thriller-made-me-never-want-to-",
       "publishedAt": "2025-11-09T11:30:00+00:00",
       "date": "2025-11-09 11:30:00",
@@ -236,17 +543,20 @@
         "id": null,
         "name": "Tom's Guide"
       },
-      "companies": [],
+      "companies": [
+        "Netflix",
+        "Tom's Guide"
+      ],
       "people": []
     },
     {
-      "title": "Jak neoficiální Pixel Camera mění fotografování na Androidu",
-      "description": "Autor popisuje zkušenost se sideloadovanou aplikací Pixel Camera (GCam) na ne-Pixel telefonu, ukazuje výhody funkcí jako Photo Sphere a zároveň upozorňuje na rozdíly oproti výchozí fotoaplikaci výrobce.",
+      "title": "Jak alternativní aplikace fotoaparátu mění mobilní fotografii: zkušenost s GCam a Photo Sphere",
+      "description": "Autor článku popisuje, jak instalace neoficiální portované aplikace Pixel Camera (GCam) na ne-Pixel telefon zásadně změnila jeho způsob focení díky funkcím jako Photo Sphere a rozšířeným softwarovým úpravám mimo standardní výbavu výrobce.",
       "slug": "i-changed-my-phones-camera-and-found-a-view-i-didn",
       "publishedAt": "2025-11-09T11:00:00+00:00",
       "date": "2025-11-09 11:00:00",
       "importance": 3,
-      "category": "hardware",
+      "category": "mobilní fotografie",
       "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/smartphone-panorama-camera-design.jpg?w=1600&h=900&fit=crop",
       "url": "/tech-news/2025-11-09/i-changed-my-phones-camera-and-found-a-view-i-didn/",
       "source": {
@@ -255,7 +565,9 @@
         "name": "Android Police"
       },
       "companies": [
-        "Google"
+        "Apple",
+        "Google",
+        "Samsung"
       ],
       "people": []
     },
@@ -3359,26 +3671,6 @@
       "people": []
     },
     {
-      "title": "Chytré vánoční řetězy Govee v předsváteční slevě",
-      "description": "Govee Christmas Lights 2 jsou nyní dostupné se slevou až 100 dolarů. Ceny začínají na 69,99 dolarů za 20metrovou verzi.",
-      "slug": "deck-your-house-in-govees-smart-string-lights-whic",
-      "publishedAt": "2025-11-04T20:00:00+00:00",
-      "date": "2025-11-04 20:00:00",
-      "importance": 2,
-      "category": "chytré osvětlení",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25772023/goveechristmas.jpg?quality=90&strip=all&crop=0%2C18.840116151172%2C100%2C79.369967882441&w=1200",
-      "url": "/tech-news/2025-11-04/deck-your-house-in-govees-smart-string-lights-whic/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Govee"
-      ],
-      "people": []
-    },
-    {
       "title": "Sora je nyní dostupná na Androidu v USA, Kanadě a dalších regionech",
       "description": "Generátor videí založený na umělé inteligenci od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si nese kontroverze ohledně deepfakes a autorských práv.",
       "slug": "sora-is-now-available-on-android-in-the-us-canada-",
@@ -3480,28 +3772,6 @@
       "people": []
     },
     {
-      "title": "Apple údajně připravuje levný notebook pro konkurenci Chromebookům",
-      "description": "Podle zdrojů Bloomberg vyvíjí Apple poprvé v historii cenově dostupný Mac zaměřený na studenty a běžné uživatele, který má konkurovat Chromebookům a levným Windows notebookům.",
-      "slug": "apple-prepares-to-enter-low-cost-laptop-market-for",
-      "publishedAt": "2025-11-04T17:08:02+00:00",
-      "date": "2025-11-04 17:08:02",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iatk.zJV13.A/v1/1200x800.jpg",
-      "url": "/tech-news/2025-11-04/apple-prepares-to-enter-low-cost-laptop-market-for/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "M2 vs. M5 Vision Pro: Porovnání více než 20 rozdílů",
       "description": "Apple aktualizoval headset Vision Pro čipem M5. Přinášíme kompletní srovnání s původní verzí s čipem M2 a analýzu všech změn.",
       "slug": "m2-vs-m5-vision-pro-20-differences-compared-macrum",
@@ -3564,27 +3834,6 @@
       "people": []
     },
     {
-      "title": "Detailní pohled na Galaxy Z TriFold odhaluje kompromis v podobě tlustších rámečků",
-      "description": "Nové záběry Samsungu Galaxy Z TriFold ukazují, že trojitě skládací telefon má výrazně tlustší rámečky displeje než současný Galaxy Z Fold 7.",
-      "slug": "closer-look-at-galaxy-z-trifold-shows-that-samsung",
-      "publishedAt": "2025-11-04T16:21:00+00:00",
-      "date": "2025-11-04 16:21:00",
-      "importance": 3,
-      "category": "skládací telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Galaxy-Z-TriFold-bezels-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/closer-look-at-galaxy-z-trifold-shows-that-samsung/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Samsung",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung očekává prodej 35 milionů kusů řady Galaxy S26 díky AI",
       "description": "Samsung plánuje prodat 36 milionů kusů řady Galaxy S26, což by představovalo nárůst oproti 22 milionům prodaných S25 v první polovině roku 2025.",
       "slug": "samsung-expects-the-galaxy-s26-series-to-sell-35-m",
@@ -3622,27 +3871,6 @@
       "companies": [
         "Google",
         "8BitDo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Best Buy spouští předčasné Black Friday slevy na elektroniku",
-      "description": "Americký prodejce elektroniky Best Buy zahájil předčasný Black Friday výprodeј s výraznými slevami na sluchátka, televize, notebooky a další techniku.",
-      "slug": "best-buys-early-black-friday-deals-start-saving-on",
-      "publishedAt": "2025-11-04T15:17:44+00:00",
-      "date": "2025-11-04 15:17:44",
-      "importance": 3,
-      "category": "slevy elektroniky",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/02TsKfwKJF7Rsm4jJ83pyUU-9.fit_lim.size_1200x630.v1762267092.png",
-      "url": "/tech-news/2025-11-04/best-buys-early-black-friday-deals-start-saving-on/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [
-        "Best Buy",
-        "PCMag"
       ],
       "people": []
     },
@@ -3732,67 +3960,6 @@
       "people": []
     },
     {
-      "title": "Amazon ruší svůj největší projekt ze světa Pána prstenů",
-      "description": "Amazon Game Studios definitivně zrušil vývoj MMORPG hry ze světa Pána prstenů. Jde o druhý neúspěšný pokus společnosti vytvořit hru z Tolkienova univerza.",
-      "slug": "amazon-cancels-their-biggest-lord-of-the-rings-pro",
-      "publishedAt": "2025-11-04T14:41:00+00:00",
-      "date": "2025-11-04 14:41:00",
-      "importance": 3,
-      "category": "streamovací služby",
-      "urlToImage": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/the-lord-of-the-rings_-the-fellowship-of-the-ring-2001-2.jpg?w=1200&h=675&fit=crop",
-      "url": "/tech-news/2025-11-04/amazon-cancels-their-biggest-lord-of-the-rings-pro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Collider.com"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Amazon integruje Alexa Plus do hudební aplikace",
-      "description": "Uživatelé Amazon Music s přístupem k beta verzi Alexa Plus mohou využívat AI asistenta pro pokročilá doporučení hudby a vyhledávání skladeb na základě nejasných informací.",
-      "slug": "amazon-is-building-alexa-plus-into-its-music-app-t",
-      "publishedAt": "2025-11-04T14:00:00+00:00",
-      "date": "2025-11-04 14:00:00",
-      "importance": 3,
-      "category": "hudební aplikace",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Amazon-Music-Alexa-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-04/amazon-is-building-alexa-plus-into-its-music-app-t/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Alexa+ přichází do aplikace Amazon Music",
-      "description": "Amazon integruje svého vylepšeného asistenta Alexa+ do mobilní aplikace Amazon Music pro iOS a Android. Funkce je dostupná pro uživatele s předběžným přístupem.",
-      "slug": "alexa-comes-to-the-amazon-music-app-techcrunch",
-      "publishedAt": "2025-11-04T14:00:00+00:00",
-      "date": "2025-11-04 14:00:00",
-      "importance": 3,
-      "category": "hudební služby",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/alexaplusmusic2.png?w=1164",
-      "url": "/tech-news/2025-11-04/alexa-comes-to-the-amazon-music-app-techcrunch/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Amazon",
-        "TechCrunch"
-      ],
-      "people": []
-    },
-    {
       "title": "Gemini Deep Research možná získá přístup k Disku a Gmailu (analýza APK)",
       "description": "Analýza kódu aplikace Google odhalila, že funkce Deep Research v Gemini by mohla umožnit prohledávání Gmailu, Google Disku a dalších služeb.",
       "slug": "gemini-deep-research-could-soon-get-drive-and-gmai",
@@ -3854,28 +4021,6 @@
       "people": []
     },
     {
-      "title": "Tři funkce Oppo Find X9 Pro, které by Apple měl okopírovat pro iPhone 18",
-      "description": "Komentář redaktora CNET poukazuje na oblasti, kde čínský Oppo Find X9 Pro předčí iPhone 17 Pro, zejména v kvalitě fotografií, nabíjení a designu.",
-      "slug": "apple-desperately-needs-to-copy-3-oppo-find-x9-pro",
-      "publishedAt": "2025-11-04T13:00:00+00:00",
-      "date": "2025-11-04 13:00:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.cnet.com/a/img/resize/47669c4f9440038b250a91e5b40835186cb66703/hub/2025/11/01/8381c1a6-a8a9-44d0-bdd1-e5fcb0e8ff0c/img-20251028-082318.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-04/apple-desperately-needs-to-copy-3-oppo-find-x9-pro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Apple",
-        "Oppo",
-        "CNET"
-      ],
-      "people": []
-    },
-    {
       "title": "Exkluzivní slevové nabídky na produkty Shark Beauty a BonBon",
       "description": "Americký portál TODAY.com nabízí slevové kódy na spotřební zboží včetně vlasových nástrojů a cukrovinek se slevami až 40 %.",
       "slug": "shop-exclusive-holiday-gifting-deals-on-shark-beau",
@@ -3915,24 +4060,6 @@
       "people": []
     },
     {
-      "title": "Ford plánuje prodávat 300koňový tuningový balíček pro Maverick s větším turbem",
-      "description": "Ford představil na výstavě SEMA upravený pickup Maverick s výkonem 300 koní a hodlá podobný balíček 300T nabídnout zákazníkům v roce 2026.",
-      "slug": "ford-plans-to-sell-this-300-hp-maverick-street-tru",
-      "publishedAt": "2025-11-04T11:00:00+00:00",
-      "date": "2025-11-04 11:00:00",
-      "importance": 3,
-      "category": "automobilový průmysl",
-      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2025/11/Ford-Maverick-300T-Hero-1.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-11-04/ford-plans-to-sell-this-300-hp-maverick-street-tru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Drive"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Snapdragon 8 Elite Gen 6 údajně dorazí ve dvou verzích, varianta Pro má dostat exkluzivní podporu LPDDR6",
       "description": "Nové spekulace naznačují, že Qualcomm připravuje čipset Snapdragon 8 Elite Gen 6 ve dvou variantách, přičemž verze Pro má nabídnout pokročilejší specifikace včetně podpory paměti LPDDR6.",
       "slug": "snapdragon-8-elite-gen-6-rumored-to-arrive-in-two-",
@@ -3949,26 +4076,6 @@
       },
       "companies": [
         "Qualcomm"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Messages získá funkci Remix postavenou na modelu Nano Banana",
-      "description": "Google přidává do aplikace Messages novou funkci Remix, která využívá model Nano Banana pro generování a úpravu obrázků přímo v konverzacích.",
-      "slug": "exclusive-heres-your-first-look-at-google-messages",
-      "publishedAt": "2025-11-04T08:36:21+00:00",
-      "date": "2025-11-04 08:36:21",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Gemini-Nano-Banana.jpg",
-      "url": "/tech-news/2025-11-04/exclusive-heres-your-first-look-at-google-messages/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -4072,26 +4179,6 @@
       "people": []
     },
     {
-      "title": "Apple vydal iOS 26.1, macOS 26.1 a další aktualizace s ovládáním průhlednosti Liquid Glass",
-      "description": "Apple zpřístupnil první významnou aktualizaci svých operačních systémů s novým číslováním verzí. Přináší vylepšené ovládání efektu Liquid Glass a návrat multitaskingu Slide Over na iPadu.",
-      "slug": "apple-releases-ios-261-macos-261-other-updates-wit",
-      "publishedAt": "2025-11-04T02:08:26+00:00",
-      "date": "2025-11-04 02:08:26",
-      "importance": 3,
-      "category": "mobilní systémy",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
-      "url": "/tech-news/2025-11-04/apple-releases-ios-261-macos-261-other-updates-wit/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung zveřejnil detaily listopadové bezpečnostní aktualizace pro rok 2025",
       "description": "Samsung publikoval informace o listopadové bezpečnostní záplatě pro zařízení Galaxy dříve než obvykle, po dokončení většiny nasazení One UI 8.0.",
       "slug": "samsung-monthly-updates-november-2025-security-pat",
@@ -4109,80 +4196,6 @@
       "companies": [
         "Samsung"
       ],
-      "people": []
-    },
-    {
-      "title": "Listopadová aktualizace Google System pro Android přináší vylepšení rodičovské kontroly a podporu CVV v autovyplňování",
-      "description": "Google vydal listopadovou aktualizaci systémových služeb pro Android, která zahrnuje vylepšení rodičovské kontroly, novou funkci ukládání CVV kódů v autovyplňování a další změny v Play services a dalších systémových komponentách.",
-      "slug": "whats-new-in-androids-november-2025-google-system-",
-      "publishedAt": "2025-11-03T23:35:00+00:00",
-      "date": "2025-11-03 23:35:00",
-      "importance": 3,
-      "category": "mobilní systémy",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-03/whats-new-in-androids-november-2025-google-system-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Manuální převodovka pro Corvette C8 se stává realističtější možností",
-      "description": "Společnost Tremec představila šestistupňovou manuální převodovku, která má stejné rozměry jako osmistupňová dvouspojková převodovka používaná v Corvette C8.",
-      "slug": "your-c8-corvette-manual-swap-dreams-just-got-far-c",
-      "publishedAt": "2025-11-03T20:45:32+00:00",
-      "date": "2025-11-03 20:45:32",
-      "importance": 3,
-      "category": "automobilový průmysl",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/chevrolet-corvette-C8_Stick_TS.jpg",
-      "url": "/tech-news/2025-11-03/your-c8-corvette-manual-swap-dreams-just-got-far-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nové umělé svaly umožní humanoidním robotům zvednout 4000násobek vlastní hmotnosti",
-      "description": "Výzkumníci vyvinuli miniaturní magnetické svaly, které kombinují vlastnosti měkkých robotů s výkonem kovových konstrukcí a dosahují mimořádného poměru síly k hmotnosti.",
-      "slug": "this-new-artificial-muscle-could-let-humanoid-robo",
-      "publishedAt": "2025-11-03T18:46:22+00:00",
-      "date": "2025-11-03 18:46:22",
-      "importance": 3,
-      "category": "robotika",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2025/11/andandand0017_a_strong_humanoid_robot_equipped_with_artificia_efece932-4576-4453-b6c9-5a9cf94518bc_1.png",
-      "url": "/tech-news/2025-11-03/this-new-artificial-muscle-could-let-humanoid-robo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZME Science"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Lyžařské středisko Big Sky v Montaně nabízí vyhřívané lanovky a výhledy na tři státy",
-      "description": "Big Sky Resort v Montaně disponuje 5 850 akry sjezdovek, luxusními hotely a pokročilou infrastrukturou lanovek. Pro sezónu 2025-2026 plánuje otevření nového resortu One&Only.",
-      "slug": "this-uncrowded-ski-resort-has-heated-lifts-and-a-s",
-      "publishedAt": "2025-11-03T14:00:00+00:00",
-      "date": "2025-11-03 14:00:00",
-      "importance": 1,
-      "category": "cestovní ruch",
-      "urlToImage": "https://www.travelandleisure.com/thmb/rzTQcJmDkTe0Ld9-6XwL_Wfjb5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-big-sky-montana-BIGSKYMM0325-3fd1c225b1d6476593f127680e773439.jpg",
-      "url": "/tech-news/2025-11-03/this-uncrowded-ski-resort-has-heated-lifts-and-a-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Travel+Leisure"
-      },
-      "companies": [],
       "people": []
     }
   ]
