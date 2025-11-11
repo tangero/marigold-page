@@ -14,7 +14,7 @@ summary_points:
 - Agent automaticky vybírá optimální model podle typu úkolu a na požádání jej lze změnit
 - Všechna volání API jsou fakturována přes Replit účet s transparentním přehledem nákladů
 - Platforma podporuje vytváření chatbotů, generátorů obrázků i aplikací pro zpracování audiovizuálního obsahu
-title: Replit zjednodušil práci s AI - přes 300 modelů bez API klíčů
+title: "Replit zjednodušil práci s AI - přes 300 modelů bez API klíčů"
 ---
 
 Replit představil funkci AI Integrations, která umožňuje vývojářům pracovat s více než třemi sty AI modely přímo z vývojového prostředí. Hlavní změna spočívá v odstranění nutnosti vytvářet vývojářské účty, spravovat API klíče a studovat dokumentaci jednotlivých poskytovatelů. Celý proces integrace AI funkcionality do aplikací se tím zjednodušuje na úroveň konverzace s agentem.
