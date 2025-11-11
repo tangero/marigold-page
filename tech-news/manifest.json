@@ -1,10 +1,230 @@
 {
-  "generated": "2025-11-11T12:30:02.829669+00:00",
+  "generated": "2025-11-11T16:23:02.445235+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Uživatelé PS Portal jsou aktivnější než ostatní: specializované handheld zařízení dominuje Remote Play pro PS5",
-      "description": "Data Sony ukazují, že handheld PS Portal se stal nejpoužívanějším zařízením pro Remote Play na PS5 a jeho uživatelé tráví se službou více času než majitelé jiných zařízení.",
+      "title": "Rozsáhlé zákazy karet mění kompetitivní formáty Magic: The Gathering",
+      "description": "Wizards of the Coast oznámili sérii zákazů klíčových karet napříč formáty Magic: The Gathering, která cílí na příliš silné kombinační balíky, rychlou akceleraci many a neinteraktivní strategie. Změny výrazně zasahují Standard, Legacy, Pauper a Brawl.",
+      "slug": "november-10th-banned-restricted-announcement-vivi-",
+      "publishedAt": "2025-11-10T16:09:27+00:00",
+      "date": "2025-11-10 16:09:27",
+      "importance": 1,
+      "category": "herní průmysl",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-10/november-10th-banned-restricted-announcement-vivi-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Draftsim.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "iOS 27: Apple chystá tři výrazné nové AI funkce včetně asistenta pro zdraví",
+      "description": "Apple podle nových informací připravuje pro iOS 27 tři klíčové AI novinky: vizuálně přepracovanou Siri, nástroj pro vyhledávání na webu založený na AI a službu Health+ s AI agentem pro správu zdraví.",
+      "slug": "ios-27-will-have-three-major-new-ai-features-per-r",
+      "publishedAt": "2025-11-10T14:54:00+00:00",
+      "date": "2025-11-10 14:54:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-10/ios-27-will-have-three-major-new-ai-features-per-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple rozšíří satelitní služby iPhonů o nové funkce a 5G NTN",
+      "description": "Apple podle zpráv připravuje rozšíření satelitních funkcí v iPhonech, včetně podpory 5G NTN standardu a zpřístupnění satelitního připojení pro vývojáře.",
+      "slug": "apple-plans-new-features-for-iphone-satellite-serv",
+      "publishedAt": "2025-11-10T14:04:31+00:00",
+      "date": "2025-11-10 14:04:31",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2167731078/image_2167731078.jpg?io=getty-c-w630",
+      "url": "/tech-news/2025-11-10/apple-plans-new-features-for-iphone-satellite-serv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple Watch SE 2 (44 mm) dočasně zlevněné na Amazonu o 32 %",
+      "description": "Apple Watch SE 2. generace (GPS, 44 mm) jsou na Amazonu k dispozici za 189,99 USD, což představuje slevu 32 % oproti původní ceně 279 USD. Nabídka je relevantní pro uživatele hledající levnější vstup do Apple ekosystému s důrazem na zdraví a bezpečnost.",
+      "slug": "best-apple-watch-se-2-deal-save-8901-at-amazon-mas",
+      "publishedAt": "2025-11-10T12:33:09+00:00",
+      "date": "2025-11-10 12:33:09",
+      "importance": 3,
+      "category": "wearables",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/075RzwMb1gp7lcRhhnVv7GQ/hero-image.fill.size_1200x675.v1762775170.jpg",
+      "url": "/tech-news/2025-11-10/best-apple-watch-se-2-deal-save-8901-at-amazon-mas/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "Mashable"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fanouškovský web CDRomance se vrací na scénu navzdory právnímu tlaku",
+      "description": "Po období útlumu a působení v utajení se web CDRomance, zaměřený na fan překlady a ROM hacky konzolových her, znovu veřejně otevírá. Návrat ukazuje napětí mezi komunitou kolem emulace a držiteli práv a zdůrazňuje význam dostupnosti archivovaných her.",
+      "slug": "is-coming-back-a-mistake-i-dont-know-fan-translati",
+      "publishedAt": "2025-11-10T12:30:00+00:00",
+      "date": "2025-11-10 12:30:00",
+      "importance": 3,
+      "category": "herní emulace",
+      "urlToImage": "https://images.timeextension.com/be5868b03c77a/large.jpg",
+      "url": "/tech-news/2025-11-10/is-coming-back-a-mistake-i-dont-know-fan-translati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Timeextension.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple chystá OLED displeje pouze pro výkonnější MacBook Pro s čipy M6 Pro a M6 Max",
+      "description": "Apple podle zprávy Marka Gurmana plánuje přejít u MacBooků Pro na OLED displeje pouze u vyšších modelů s čipy M6 Pro a M6 Max, zatímco základní 14\" varianta s čipem M6 zůstane u mini-LED. První OLED MacBooky Pro s dotykovou obrazovkou se očekávají koncem roku 2026 nebo začátkem 2027.",
+      "slug": "oled-display-coming-to-m6-promax-macbook-pro-not-b",
+      "publishedAt": "2025-11-10T10:54:11+00:00",
+      "date": "2025-11-10 10:54:11",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/LH0Owe-k8P3ox04pjjDnv2nIVwc=/2250x/article-new/2025/01/M6-MacBook-Pro-Feature-1.jpg",
+      "url": "/tech-news/2025-11-10/oled-display-coming-to-m6-promax-macbook-pro-not-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Malware GlassWorm objeven ve třech rozšířeních VS Code s tisíci instalací",
+      "description": "Do oficiálního katalogu rozšíření pro VS Code pronikla tři rozšíření obsahující malware GlassWorm, který se skrývá pomocí Unicode znaků a využívá blockchain k obnově své infrastruktury. Incident ukazuje slabiny v bezpečnostních kontrolách vývojářských nástrojů a ohrožuje vývojáře i firemní prostředí.",
+      "slug": "glassworm-malware-discovered-in-three-vs-code-exte",
+      "publishedAt": "2025-11-10T08:51:00+00:00",
+      "date": "2025-11-10 08:51:00",
+      "importance": 3,
+      "category": "kybernetika",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9KHcsG95CDCZyquDxpW0r7mwKqS02FDVPKQJBLIZO-Xgsak_Ckjpdc3QI4i0oIU0IH9uZXTLmFqVzhUPsouw4BHMzdVsBu26TIdddQNNTx0tHeXh4xWNaT6NWo_UnmwxqRqtaIYB22kbynOZyWCutb5wAYEnhuRVm5rmasUtSq8LE2PB-Q9daDiprSyK/s790-rw-e365/vscode.jpg",
+      "url": "/tech-news/2025-11-10/glassworm-malware-discovered-in-three-vs-code-exte/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Po deseti letech v zakouřeném bytě se GeForce 9800GT vrací k životu a spouští Crysis",
+      "description": "YouTuber Madness727 obnovil grafickou kartu Asus ROG Matrix GeForce 9800GT, která strávila zhruba dekádu v silně zakouřeném prostředí, a navzdory znečištění ji úspěšně uvedl do plně funkčního stavu.",
+      "slug": "after-ten-years-in-a-smoke-filled-room-this-geforc",
+      "publishedAt": "2025-11-10T08:45:00+00:00",
+      "date": "2025-11-10 08:45:00",
+      "importance": 1,
+      "category": "hardware",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/Image1.jpg",
+      "url": "/tech-news/2025-11-10/after-ten-years-in-a-smoke-filled-room-this-geforc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "Asus",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Polestar 5 míří do Gran Turismo 7: propojení virtuálních a reálných závodů s pomocí profesionálního pilota",
+      "description": "Elektrický sedan Polestar 5 bude v prosinci zdarma dostupný v Gran Turismo 7 na PS4 a PS5. Vývoj proběhl ve spolupráci s profesionálním závodníkem Igorem Fragou, aby se virtuální jízdní vlastnosti co nejvíce shodovaly s reálným vozem.",
+      "slug": "polestar-5-is-coming-to-gran-turismo-7-with-the-he",
+      "publishedAt": "2025-11-10T08:00:00+00:00",
+      "date": "2025-11-10 08:00:00",
+      "importance": 3,
+      "category": "herní průmysl",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/polestar-5-is-coming-to-gran-turismo-7-with-the-help-of-a-real-life-race-car-driver/l-intro-1762632098.jpg",
+      "url": "/tech-news/2025-11-10/polestar-5-is-coming-to-gran-turismo-7-with-the-he/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [
+        "Polestar"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lamborghini Temerario Super Trofeo: Zadní pohon, bez hybridu, zaměřeno na okruhy",
+      "description": "Lamborghini představilo závodní verzi Temerario Super Trofeo pro svůj jednoznačkový seriál, která opouští hybridní systém a pohon všech kol ve prospěch lehčí konstrukce, zadního pohonu a přeplňovaného osmiválce.",
+      "slug": "lamborghini-temerario-super-trofeo-goes-rwd-loses-",
+      "publishedAt": "2025-11-10T07:46:00+00:00",
+      "date": "2025-11-10 07:46:00",
+      "importance": 3,
+      "category": "automobilismus",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/koGeXQ/s1/2026-lamborghini-temerario-super-trofeo.jpg",
+      "url": "/tech-news/2025-11-10/lamborghini-temerario-super-trofeo-goes-rwd-loses-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Motor1 "
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ChatGPT vs Gemini: Který asistent skutečně zvyšuje produktivitu",
+      "description": "Srovnání dvou hlavních AI asistentů v reálném pracovním nasazení ukazuje zásadní rozdíly v plánování, psaní, integraci do nástrojů a praktické použitelnosti.",
+      "slug": "chatgpt-vs-gemini-i-tested-both-to-see-which-actua",
+      "publishedAt": "2025-11-10T06:30:00+00:00",
+      "date": "2025-11-10 06:30:00",
+      "importance": 3,
+      "category": "ai asistenti",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzJNQr5oLiC6yQa8XeUP2N-2000-80.jpg",
+      "url": "/tech-news/2025-11-10/chatgpt-vs-gemini-i-tested-both-to-see-which-actua/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Uživatelé PS Portal jsou aktivnější než ostatní: specializovaný handheld dominuje Remote Play na PS5",
+      "description": "Sony potvrzuje, že handheld PS Portal se stal nejpoužívanějším zařízením pro Remote Play na PS5 a vykazuje vyšší míru zapojení uživatelů než ostatní způsoby hraní na dálku.",
       "slug": "ps-portal-users-are-more-engaged-than-non-users-so",
       "publishedAt": "2025-11-10T06:00:00+00:00",
       "date": "2025-11-10 06:00:00",
@@ -23,8 +243,50 @@
       "people": []
     },
     {
+      "title": "Nenápadné, ale účinné: plank row jako komplexní cvik pro střed těla a horní část",
+      "description": "Plank row kombinuje prkno a přítah s jednoručkami, zapojuje střed těla, ramena, záda i paže a nabízí efektivní způsob, jak posílit více svalových skupin jedním pohybem.",
+      "slug": "a-trainer-says-this-is-the-most-underrated-move-fo",
+      "publishedAt": "2025-11-10T06:00:00+00:00",
+      "date": "2025-11-10 06:00:00",
+      "importance": 1,
+      "category": "zdraví",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JswzG3PSP2x4hEpGGn5VWi-2121-80.jpg",
+      "url": "/tech-news/2025-11-10/a-trainer-says-this-is-the-most-underrated-move-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Fitandwell.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft chystá autonomní AI agenty jako „samostatné uživatele“ ve firmách",
+      "description": "Microsoft testuje novou třídu AI agentů s vlastní identitou, přístupem k firemním systémům a schopností samostatně jednat v rámci Microsoft 365, což otevírá zásadní otázky bezpečnosti, licencování a řízení rizik.",
+      "slug": "microsoft-teases-agents-that-become-independent-us",
+      "publishedAt": "2025-11-10T02:31:00+00:00",
+      "date": "2025-11-10 02:31:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_editorial_only_teams_and_copilot.jpg",
+      "url": "/tech-news/2025-11-10/microsoft-teases-agents-that-become-independent-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Microsoft",
+        "OpenAI",
+        "Apple",
+        "Google",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
       "title": "14 užitečných technologických dárků do 50 dolarů",
-      "description": "Výběr cenově dostupných gadgetů, jako jsou Apple AirTag, ohřívač hrnku, chytrý reproduktor a další drobná zařízení, která usnadňují každodenní život bez vysokých nákladů.",
+      "description": "Článek představuje výběr levnějších, praktických gadgetů do 50 dolarů, jako jsou Apple AirTag, ohřívač hrnků, chytrý reproduktor Echo Pop či další drobná zařízení, která mají zjednodušit každodenní život a zlepšit komfort uživatelů.",
       "slug": "A-14-tech-gifts-under-50-that-are-actually-useful-",
       "publishedAt": "2025-11-10T00:00:17+00:00",
       "date": "2025-11-10 00:00:17",
@@ -37,13 +299,7 @@
         "id": null,
         "name": "HuffPost"
       },
-      "companies": [
-        "Amazon",
-        "Apple",
-        "Belkin",
-        "Dell",
-        "Google"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -65,8 +321,8 @@
       "people": []
     },
     {
-      "title": "Komentáře Aroldise Chapmana odhalují hlubší problém řízení Yankees pod Brianem Cashmanem",
-      "description": "Článek rozebírá výroky nadhazovače Aroldise Chapmana na adresu New York Yankees a ukazuje je jako symptom dlouhodobých chyb v rozhodování generálního manažera Briana Cashmana, který opakovaně investoval vysoké částky do problematického hráče navzdory výkonům i kontroverzím.",
+      "title": "Komentáře Aroldise Chapmana odhalují dlouhodobé problémy vedení Yankees",
+      "description": "Rozhovor s nadhazovačem Arodisem Chapmanem znovu otevřel kritiku vedení New York Yankees, zejména generálního manažera Briana Cashmana, za dlouhodobě chybná rozhodnutí při budování kádru a přehnané investice do hráče, u kterého se opakovaly výkonnostní i mimoherní problémy.",
       "slug": "aroldis-chapmans-yankees-comments-highlight-bigges",
       "publishedAt": "2025-11-09T22:58:00+00:00",
       "date": "2025-11-09 22:58:00",
@@ -3690,64 +3946,6 @@
       "people": []
     },
     {
-      "title": "Nový standard HDR10+ Advanced se pokusí vyřešit efekt mýdlové opery",
-      "description": "Samsung představil HDR10+ Advanced s funkcí Intelligent FRC, která má zlepšit vyhlazování pohybu a eliminovat nežádoucí efekt mýdlové opery při sledování filmů.",
-      "slug": "new-hdr10-advanced-standard-will-try-to-fix-the-so",
-      "publishedAt": "2025-11-04T22:14:24+00:00",
-      "date": "2025-11-04 22:14:24",
-      "importance": 3,
-      "category": "zobrazovací technolo",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/mission-impossible-fallout-1152x648.jpg",
-      "url": "/tech-news/2025-11-04/new-hdr10-advanced-standard-will-try-to-fix-the-so/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Microsoft spustil vlastní generátor obrázků MAI-Image-1",
-      "description": "Microsoft uvedl svůj první interně vyvinutý AI generátor obrázků MAI-Image-1, který je dostupný v Bing Image Creator a Copilot Audio Expressions. V EU zatím není k dispozici.",
-      "slug": "microsoft-ais-first-in-house-image-generator-mai-i",
-      "publishedAt": "2025-11-04T21:48:09+00:00",
-      "date": "2025-11-04 21:48:09",
-      "importance": 4,
-      "category": "ai generování obrazu",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-04/microsoft-ais-first-in-house-image-generator-mai-i/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Magnetické nabíjecí stojany Nomad nyní podporují rychlejší nabíjení 25W",
-      "description": "Společnost Nomad aktualizovala své nabíjecí stojany Stand One a Stand One Max o podporu standardu Qi2.2, který umožňuje bezdrátové nabíjení výkonem až 25W.",
-      "slug": "nomads-magnetic-charging-stands-now-support-faster",
-      "publishedAt": "2025-11-04T21:42:13+00:00",
-      "date": "2025-11-04 21:42:13",
-      "importance": 3,
-      "category": "bezdrátové nabíjení",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/nomad1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "url": "/tech-news/2025-11-04/nomads-magnetic-charging-stands-now-support-faster/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Nomad"
-      ],
-      "people": []
-    },
-    {
       "title": "Travis Pastrana představil nový Gymkhana vůz - Subaru Brat s 9500 otáčkami",
       "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, aktivní aerodynamikou a karoserií z uhlíkových vláken.",
       "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
@@ -3786,66 +3984,6 @@
       "people": []
     },
     {
-      "title": "iOS 26.2 přináší vylepšený posuvník Liquid Glass pro úpravu zamykací obrazovky",
-      "description": "Beta verze iOS 26.2 aktualizuje posuvník Liquid Glass, který umožňuje přizpůsobit vzhled hodin na zamykací obrazovce iPhonu s větší kontrolou nad průhledností.",
-      "slug": "ios-262-adds-liquid-glass-slider-to-customize-your",
-      "publishedAt": "2025-11-04T19:22:00+00:00",
-      "date": "2025-11-04 19:22:00",
-      "importance": 2,
-      "category": "mobilní systémy",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26-2-liquid-glass-clock-lock-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/ios-262-adds-liquid-glass-slider-to-customize-your/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "iOS 26.2 přináší tři vylepšení aplikace Apple Podcasts",
-      "description": "Apple aktualizuje svou aplikaci Podcasts o automatické generování kapitol, detekci zmíněných podcastů a přehlednější zobrazení odkazů z epizod.",
-      "slug": "ios-262-includes-three-helpful-upgrades-to-apple-p",
-      "publishedAt": "2025-11-04T18:50:00+00:00",
-      "date": "2025-11-04 18:50:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-podcasts-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/ios-262-includes-three-helpful-upgrades-to-apple-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "iOS 18.2 a watchOS 11.2 aktualizují rozsahy hodnocení spánku",
-      "description": "Apple upravil škálu hodnocení kvality spánku v nových verzích iOS a watchOS, čímž mění způsob vyhodnocování spánkových dat.",
-      "slug": "ios-262-and-watchos-262-update-sleep-score-ranges-",
-      "publishedAt": "2025-11-04T18:44:03+00:00",
-      "date": "2025-11-04 18:44:03",
-      "importance": 3,
-      "category": "mobilní operační sys",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-04/ios-262-and-watchos-262-update-sleep-score-ranges-/",
-      "source": {
-        "emoji": "📰",
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung představil HDR10 Plus Advanced jako odpověď na Dolby Vision 2",
       "description": "Samsung ukázal simulovanou ukázku nového formátu dynamického HDR s šesti funkcemi podobnými Dolby Vision 2. Technologie by měla být představena na CES 2026.",
       "slug": "samsung-previews-hdr10-plus-advanced-its-answer-to",
@@ -3863,46 +4001,6 @@
       "companies": [
         "Samsung",
         "Dolby"
-      ],
-      "people": []
-    },
-    {
-      "title": "M2 vs. M5 Vision Pro: Porovnání více než 20 rozdílů",
-      "description": "Apple aktualizoval headset Vision Pro čipem M5. Přinášíme kompletní srovnání s původní verzí s čipem M2 a analýzu všech změn.",
-      "slug": "m2-vs-m5-vision-pro-20-differences-compared-macrum",
-      "publishedAt": "2025-11-04T17:04:44+00:00",
-      "date": "2025-11-04 17:04:44",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/AWIbpR3c6hj_3eVOI_xw1a_xY4A=/1600x/article-new/2025/10/Vision-Pro-M5-Demo.jpg",
-      "url": "/tech-news/2025-11-04/m2-vs-m5-vision-pro-20-differences-compared-macrum/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung očekává prodej 35 milionů kusů řady Galaxy S26 díky AI",
-      "description": "Samsung plánuje prodat 36 milionů kusů řady Galaxy S26, což by představovalo nárůst oproti 22 milionům prodaných S25 v první polovině roku 2025.",
-      "slug": "samsung-expects-the-galaxy-s26-series-to-sell-35-m",
-      "publishedAt": "2025-11-04T16:09:00+00:00",
-      "date": "2025-11-04 16:09:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/samsung-expects-the-galaxy-s26-series-to-sell-35-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Samsung"
       ],
       "people": []
     },
@@ -3972,26 +4070,6 @@
       "people": []
     },
     {
-      "title": "NVIDIA vydala ovladač GeForce Game Ready 581.80 s podporou DLSS 4",
-      "description": "Nový ovladač přináší optimalizace pro Call of Duty: Black Ops 7 a další hry s technologií DLSS 4, včetně podpory pro Anno 117: Pax Romana.",
-      "slug": "nvidia-geforce-game-ready-58180-driver-videocardzc",
-      "publishedAt": "2025-11-04T14:47:00+00:00",
-      "date": "2025-11-04 14:47:00",
-      "importance": 3,
-      "category": "grafické karty",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/Geforce-581_80.jpg",
-      "url": "/tech-news/2025-11-04/nvidia-geforce-game-ready-58180-driver-videocardzc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
       "title": "MacBook Air 13\" s M3 čipem a 24GB RAM za 999 dolarů – o 300 dolarů levněji než srovnatelný model s M4",
       "description": "Prodejce B&H nabízí loňský MacBook Air s čipem M3, 24GB RAM a 512GB SSD za 999 dolarů, což je o 500 dolarů méně než původní cena a o 300 dolarů levněji než nový model s M4 čipem.",
       "slug": "score-apples-13-inch-24gb-m3-macbook-air-at-500-of",
@@ -4013,26 +4091,6 @@
       "people": []
     },
     {
-      "title": "Google Mapy získávají AI navigaci s kamerou v Android Automotive",
-      "description": "Google Mapy v systému Android Automotive využívají přední kameru vozidla a AI k analýze dopravních značek a jízdních pruhů pro pokročilé navigační pokyny v reálném čase.",
-      "slug": "new-google-maps-live-lane-guidance-uses-ai-camera-",
-      "publishedAt": "2025-11-04T13:00:00+00:00",
-      "date": "2025-11-04 13:00:00",
-      "importance": 3,
-      "category": "navigační systémy",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Google-Maps-Live-Lane-Guidance.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/new-google-maps-live-lane-guidance-uses-ai-camera-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Exkluzivní slevové nabídky na produkty Shark Beauty a BonBon",
       "description": "Americký portál TODAY.com nabízí slevové kódy na spotřební zboží včetně vlasových nástrojů a cukrovinek se slevami až 40 %.",
       "slug": "shop-exclusive-holiday-gifting-deals-on-shark-beau",
@@ -4048,27 +4106,6 @@
         "name": "TODAY"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nové e-ink displeje by mohly dosáhnout hustoty přes 25 000 PPI",
-      "description": "Výzkumníci ze švédských univerzit navrhli nový typ antireflexní obrazovky s extrémní hustotou pixelů, která by mohla revolucionalizovat e-ink technologii.",
-      "slug": "new-e-ink-displays-could-reach-retina-e-paper-stat",
-      "publishedAt": "2025-11-04T11:16:00+00:00",
-      "date": "2025-11-04 11:16:00",
-      "importance": 3,
-      "category": "displeje",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/10/2025-10-21-image-40.jpg",
-      "url": "/tech-news/2025-11-04/new-e-ink-displays-could-reach-retina-e-paper-stat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TechSpot"
-      },
-      "companies": [
-        "Uppsala University",
-        "University of Gothenburg"
-      ],
       "people": []
     },
     {
@@ -4128,47 +4165,6 @@
       },
       "companies": [
         "YouTube"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung Galaxy Z TriFold poprvé detailně ukázán – trojitě skládací telefon s impozantním designem",
-      "description": "Nové video odhaluje Samsung Galaxy Z TriFold zblízka, včetně tenkých stran podobných modelu Galaxy Z Fold 7 a pokročilého mechanismu s dvojitým závěsem.",
-      "slug": "samsung-galaxy-z-trifold-finally-seen-in-detail-an",
-      "publishedAt": "2025-11-04T02:28:39+00:00",
-      "date": "2025-11-04 02:28:39",
-      "importance": 3,
-      "category": "skládací telefony",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Samsung-Galaxy-Z-TriFold.jpg",
-      "url": "/tech-news/2025-11-04/samsung-galaxy-z-trifold-finally-seen-in-detail-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Exynos 2600 údajně dosahuje výkonu Apple M5 v benchmarcích",
-      "description": "Desetijádrový procesor Samsung vyrobený v 2nm procesu má podle uniklých výsledků Geekbench dosahovat impresivních hodnot, které konkurují čipům Apple M5.",
-      "slug": "its-hard-to-believe-but-the-exynos-2600-ap-reporte",
-      "publishedAt": "2025-11-04T02:25:30+00:00",
-      "date": "2025-11-04 02:25:30",
-      "importance": 2,
-      "category": "mobilní procesory",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175429-wide-two_1200/Its-hard-to-believe-but-the-Exynos-2600-AP-reportedly-benchmarks-at-Apple-M5-levels.jpg",
-      "url": "/tech-news/2025-11-04/its-hard-to-believe-but-the-exynos-2600-ap-reporte/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Apple",
-        "Samsung"
       ],
       "people": []
     },

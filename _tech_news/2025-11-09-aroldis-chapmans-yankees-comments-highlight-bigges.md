@@ -1,10 +1,10 @@
 ---
 category: sport
 date: '2025-11-09 22:58:00'
-description: Článek rozebírá výroky nadhazovače Aroldise Chapmana na adresu New York
-  Yankees a ukazuje je jako symptom dlouhodobých chyb v rozhodování generálního manažera
-  Briana Cashmana, který opakovaně investoval vysoké částky do problematického hráče
-  navzdory výkonům i kontroverzím.
+description: Rozhovor s nadhazovačem Arodisem Chapmanem znovu otevřel kritiku vedení
+  New York Yankees, zejména generálního manažera Briana Cashmana, za dlouhodobě chybná
+  rozhodnutí při budování kádru a přehnané investice do hráče, u kterého se opakovaly
+  výkonnostní i mimoherní problémy.
 importance: 1
 layout: tech_news_article
 original_title: Aroldis Chapman's Yankees comments highlight biggest Brian Cashman
@@ -15,20 +15,17 @@ source:
   emoji: 📰
   id: null
   name: Yanks Go Yard
-title: Komentáře Aroldise Chapmana odhalují hlubší problém řízení Yankees pod Brianem
-  Cashmanem
+title: Komentáře Aroldise Chapmana odhalují dlouhodobé problémy vedení Yankees
 url: https://yanksgoyard.com/aroldis-chapman-yankees-comments-highlight-biggest-brian-cashman-problem-of-all
 urlToImage: https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4162,h_2341/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/43/01k8m6rmk15z37y23j5y.jpg
 urlToImageBackup: https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4162,h_2341/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/43/01k8m6rmk15z37y23j5y.jpg
 ---
 
-Text se zaměřuje na to, jak komentáře Aroldise Chapmana po jeho odchodu z Yankees zdůrazňují strukturální problém v řízení klubu. Chapman, který v New Yorku postupně ztrácel formu, důvěru i disciplínu, veřejně naznačil, že se k němu organizace nechovala férově. Kritika ale míří opačným směrem: klub s ním dlouhodobě zacházel nadstandardně vzhledem k jeho výkonům i chování.
+Článek rozebírá, jak nedávné výroky Aroldise Chapmana o jeho působení v New York Yankees znovu zdůraznily dlouhodobý strukturální problém ve vedení klubu. Autor upozorňuje, že organizace investovala do closera přes 100 milionů dolarů navzdory opakovaným varovným signálům: disciplinárnímu postihu za porušení pravidel ligy v oblasti domácího násilí, kolísavé výkonnosti, nespolehlivosti v rozhodujících okamžicích a problematickému přístupu hráče k týmovým pravidlům. Chapmanův přístup v roce 2022, kdy v době vlastních špatných výkonů a zdravotních komplikací (infekce po tetování) podle autora očekával automatickou účast v sestavě pro play-off, je prezentován jako symbolický příklad selhání kultury odpovědnosti v klubu.
 
-Autor připomíná několik klíčových momentů: Yankees Chapmana získali, když byl po zásahu podle politiky MLB pro domácí násilí levnější, následně ho výhodně poslali do Chicaga Cubs, aby využili jejich tlak na zisk titulu, a přesto se rozhodli podepsat ho znovu za vysoké částky – dokonce dvakrát. To vše navzdory tomu, že Chapman v rozhodujících chvílích selhával, měl problémy s kontrolou nad nadhozy, zaznamenal pokles rychlosti a v roce 2022 si navíc zkomplikoval situaci absencí kvůli tetování a postojem k playoff sestavě.
+Text kritizuje Briana Cashmana za to, že nejprve "nakoupil levně" problémového hráče z Cincinnati Reds během jeho suspendace, následně ho v roce 2016 výhodně prodal do Chicago Cubs, ale poté se k němu znovu dvakrát vrátil s velmi vysokými kontrakty, a to i přes zjevné rizikové faktory a kontroverzní pověst. Autor zdůrazňuje, že Yankees dlouhodobě vsázejí na nesprávné typy hvězd, místo aby systematicky budovali vyvážený kádr a udržitelnou výkonnost, což přispívá k prodlužování jejich titulového půstu.
 
-Článek tvrdí, že nejde o izolovaný incident, ale o ukázku širšího problému: Brian Cashman dlouhodobě špatně vyhodnocuje, do kterých hvězd investovat. Preferuje jména s pověstí před aktuální výkonností, charakterem a dlouhodobou udržitelností, což přispělo k tomu, že Yankees uvízli v jednom z nejdelších období bez titulu ve své historii. Chapmanův následný výkonnostní obrat po odchodu z New Yorku navíc vyznívá pro Yankees trapně a podporuje narativ, že klub neumí efektivně pracovat s talenty ani s krizovými situacemi.
-
-Z technologického či byznysového pohledu nejde o průlomovou informaci, ale o případovou studii špatného rozhodování v prostředí datově orientovaného sportu. Ukazuje, jak ignorování dostupných metrik, rizik a reputačních faktorů vede k dlouhodobě neefektivní alokaci kapitálu a k oslabování konkurenceschopnosti organizace.
+Z technologického či datového hlediska text implicitně ukazuje selhání procesu rozhodování: ignorování historických dat o výkonu ve vypjatých situacích, zdravotních rizik a faktorů chování mimo hřiště. Pro profesionální sportovní organizace je to příklad, jak nedostatečně kritická práce s daty, metrikami a riziky vede k vysokým finančním nákladům bez odpovídající návratnosti. Pro českého čtenáře je podstatné, že jde o ilustraci obecného problému: preference velkého jména a krátkodobého PR před analytickým řízením, které je dnes v elitním sportu standardem.
 
 ---
 

@@ -4,9 +4,9 @@ category: herní průmysl
 companies:
 - Sony
 date: '2025-11-10 06:00:00'
-description: Data Sony ukazují, že handheld PS Portal se stal nejpoužívanějším zařízením
-  pro Remote Play na PS5 a jeho uživatelé tráví se službou více času než majitelé
-  jiných zařízení.
+description: Sony potvrzuje, že handheld PS Portal se stal nejpoužívanějším zařízením
+  pro Remote Play na PS5 a vykazuje vyšší míru zapojení uživatelů než ostatní způsoby
+  hraní na dálku.
 importance: 3
 layout: tech_news_article
 original_title: '''PS Portal Users Are More Engaged Than Non-Users'': Sony''s Hit
@@ -17,34 +17,36 @@ source:
   emoji: 📰
   id: null
   name: Push Square
-title: 'Uživatelé PS Portal jsou aktivnější než ostatní: specializované handheld zařízení
-  dominuje Remote Play pro PS5'
+title: 'Uživatelé PS Portal jsou aktivnější než ostatní: specializovaný handheld dominuje
+  Remote Play na PS5'
 url: https://www.pushsquare.com/news/2025/11/ps-portal-users-are-more-engaged-than-non-users-sonys-hit-handheld-outperforms-all-other-remote-play-methods
 urlToImage: https://images.pushsquare.com/aae87ea7ea514/large.jpg
 urlToImageBackup: https://images.pushsquare.com/aae87ea7ea514/large.jpg
 ---
 
 ## Souhrn
-Sony potvrzuje, že specializovaný handheld PS Portal se stal nejpoužívanějším zařízením pro Remote Play u majitelů konzole PS5 v USA a jeho uživatelé vykazují vyšší míru zapojení než ostatní hráči. Rozšíření o cloudové streamování pro předplatitele PS Plus Premium navíc mění PS Portal z doplňku ke konzoli na autonomní přístupový bod k celé knihovně her.
+Sony potvrzuje, že specializovaný handheld PS Portal se stal hlavní platformou pro Remote Play na PlayStation 5 a vykazuje vyšší míru zapojení uživatelů než ti, kteří zařízení nevlastní. Rozšíření o přímé cloudové streamování pro předplatitele PS Plus Premium navíc odpojuje PS Portal od nutnosti vlastnit konzoli PS5 a rozšiřuje jeho význam v rámci ekosystému PlayStation.
 
 ## Klíčové body
-- Přibližně 5 % majitelů PS5 v USA vlastní PS Portal, což je na periferní zařízení výrazně vysoká penetrace.
-- PS Portal je nyní nejčastěji používanou platformou pro PS5 Remote Play, před mobilními telefony, PC i konzolemi PS4/PS5.
-- Uživatelé PS Portal tráví se službou více času než ne-uživatelé, což potvrzuje praktické využití zařízení mimo marketingová očekávání.
-- Integrace cloudového streamování pro PS Plus Premium umožňuje hrát přes 2 800 her bez potřeby vlastního PS5.
-- Posun v uživatelském vnímání: z původního nezájmu většiny komunity k výraznému přijetí po uvedení na trh.
+- PS Portal je podle interních dat Sony nejpoužívanějším zařízením pro PS5 Remote Play.
+- Přibližně 5 % majitelů PS5 v USA vlastní PS Portal, což je výrazná penetrace u volitelného příslušenství.
+- Uživatelé PS Portal vykazují vyšší míru zapojení než ne-uživatelé, tedy hrají častěji a déle.
+- Podpora cloudového streamování přes PS Plus Premium umožňuje hraní cca 2 800 her bez nutnosti fyzické konzole.
+- Vnímání zařízení se výrazně posunulo: část publika, která byla původně nezajímána, se po vydání stala aktivní uživatelskou základnou.
 
 ## Podrobnosti
-PS Portal je specializovaný handheld od Sony určený primárně pro Remote Play, tedy vzdálené hraní her z konzole PS5 přes domácí síť nebo internet. Na rozdíl od mobilních telefonů či notebooků kombinuje displej se stejným rozvržením ovládacích prvků jako DualSense, což snižuje latenci ovládání a odstraňuje nutnost improvizovaných držáků a softwarových řešení třetích stran. Podle dat, která zveřejnil Takuro Fušimi, Senior Manager of Product Development ve společnosti Sony, se PS Portal stal nejčastěji používaným zařízením pro Remote Play a jeho majitelé jsou statisticky aktivnější než hráči, kteří PS Portal nevlastní. Zhruba 5 % majitelů PS5 v USA již zařízení používá, což je na relativně úzce zaměřený hardware nezanedbatelné číslo.
+PS Portal je dedikované zařízení Sony určené primárně pro funkci Remote Play, tedy vzdálené hraní her z konzole PS5 přes domácí síť nebo internet. Oproti mobilním telefonům, tabletům či notebookům integruje ovládací prvky DualSense přímo kolem displeje a nabízí optimalizovaný software pro stabilnější a jednodušší vzdálený přístup k hrám. Podle dat, která zveřejnil Takuro Fushimi, Senior Manager of Product Development v Sony, se PS Portal stal nejčastěji používaným nástrojem pro Remote Play, před mobilními zařízeními, PC i staršími konzolemi PS4 a PS5 využitými jako klient.
 
-Dále došlo k rozšíření funkčnosti o podporu cloudového streamování pro předplatitele PS Plus Premium. Tato funkce umožňuje hrát tisíce titulů přímo přes cloudovou infrastrukturu Sony bez nutnosti fyzicky vlastnit nebo zapínat PS5. Prakticky jde o to, že PS Portal funguje jako klient pro streamované hraní: obraz a vstupy jsou přenášeny skrze internet, podobně jako u služeb typu GeForce Now nebo Xbox Cloud Gaming, ale uzavřené v ekosystému PlayStation. Tím Sony testuje model, kde lokální konzole není nutnou podmínkou pro vstup do jejího herního ekosystému.
+Zajímavá jsou dvě související zjištění. Zaprvé, vlastní jej přibližně 5 % majitelů PS5 v USA, což je na relativně úzce zaměřené periferní zařízení solidní zásah. Zadruhé, uživatelé PS Portal jsou podle interních metrik „více angažovaní“ než ti, kteří toto zařízení nepoužívají, což typicky znamená vyšší frekvenci hraní, delší herní seance a častější využívání funkcí ekosystému PlayStation.
 
-Zajímavý je také posun komunity. Před uvedením zařízení v roce 2023 většina hlasujících v anketách deklarovala nulový zájem, zatímco aktuální průzkumy ukazují výrazné přijetí a pravidelné používání. To naznačuje, že reálné scénáře užití – hraní v jiné místnosti, sdílené domácnosti, omezený přístup k televizoru – jsou pro část uživatelů dostatečně hodnotné na to, aby investovali do jednoúčelového zařízení.
+Klíčovým posunem je rozšíření PS Portal o přímý přístup ke cloudovému streamování v rámci předplatného PS Plus Premium. Tato služba umožňuje streamovaní přibližně 2 800 her přímo ze serverové infrastruktury Sony bez nutnosti lokální konzole PS5. Prakticky tak mění PS Portal z doplňku k domácí konzoli na samostatné klientské zařízení pro cloudové hraní, využitelné například v domácnostech s omezeným přístupem k televizoru, při cestování v rámci stabilního připojení nebo jako druhý vstupní bod do ekosystému PlayStation.
+
+Zajímavý je i posun v uživatelském vnímání. Před vydáním v roce 2023 většina dotázaných uváděla nezájem o nákup PS Portal, avšak následné průzkumy ukazují výrazné přijetí a pravidelné používání. To potvrzuje, že reálné chování hráčů se často odchyluje od předběžného deklarovaného názoru, zejména u zařízení, která řeší konkrétní praktický problém – v tomto případě pohodlný přístup k hrám mimo hlavní obrazovku.
 
 ## Proč je to důležité
-Tato čísla potvrzují, že existuje udržitelný segment trhu pro specializovaný hardware zaměřený na streamované hraní, pokud je dobře integrován do uzavřeného ekosystému. Pro Sony je PS Portal signálem, že model „thin client + cloud/Remote Play“ představuje realistickou cestu k rozšíření dosahu PlayStation bez nutnosti okamžitého nahrazení lokální konzole. Ukazuje se, že uživatelé jsou ochotni používat dedikované zařízení, pokud nabízí stabilnější zkušenost než univerzální mobil či notebook.
+PS Portal ukazuje, že pro herní průmysl dává smysl investovat do specializovaných klientských zařízení pro streamované hraní, pokud nabízejí lepší uživatelský komfort než univerzální mobilní zařízení. Pro Sony jde o praktický test, jak daleko lze rozšířit ekosystém PlayStation mimo samotnou konzoli a jak ochotní jsou uživatelé přejít na model, kde hry běží buď vzdáleně na domácím PS5, nebo přímo v cloudu.
 
-Pro herní průmysl to znamená posun od čistě výkonnostního závodu konzolí k budování služeb a přístupových bodů. Remote Play a cloudové streamování snižují bariéry pro konzumaci obsahu a podporují delší herní seance, což má přímý dopad na monetizaci předplatného a mikrotransakcí. Zároveň se potvrzuje, že velcí hráči budou stále více experimentovat s kombinací lokálního výkonu, streamingu a specializovaných klientských zařízení, což může v delším horizontu ovlivnit, jak budou navrhovány hry, síťová infrastruktura i obchodní modely v oblasti interaktivní zábavy.
+Vyšší míra zapojení uživatelů PS Portal naznačuje, že dobře integrovaný hardware podporuje loajalitu a pravidelné používání služeb, což je strategicky významné ve chvíli, kdy se herní trh postupně posouvá směrem k předplatným a streamovaným modelům. Z pohledu hráčů jde sice o poměrně úzce profilovaný produkt, ale současně o signál, že velcí výrobci konzolí budou dál hledat cesty, jak zpřístupnit hry mimo tradiční „konzole pod televizí“ a otestovat, kde je hranice akceptovatelné kombinace ceny, komfortu a závislosti na kvalitním internetovém připojení.
 
 ---
 
