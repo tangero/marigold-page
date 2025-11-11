@@ -1,14 +1,14 @@
 ---
 author: Marisa Aigen
-category: apple
+category: zdraví
 companies:
 - Apple
 - Bloomberg
 date: '2025-11-09 18:17:00'
-description: Apple přehodnocuje strategii služby Fitness+ po letech minimálních inovací,
-  vysoké míry odchodů uživatelů a nízkého výnosového potenciálu. Divize nově spadá
-  pod vedení Sumbul Desai a Eddyho Cue, což zvyšuje tlak na výsledky i integraci do
-  širšího ekosystému služeb.
+description: Apple připravuje reorganizaci služby Apple Fitness+, která čelí vysokému
+  odlivu uživatelů a omezenému růstovému potenciálu. Platforma však nekončí; dostává
+  novou odpovědnou vedení a má lépe zapadnout do širší strategie zdravotních a fitness
+  služeb Applu.
 importance: 3
 layout: tech_news_article
 original_title: 'The future of Apple Fitness+ is ‘under review’ amid reorganization:
@@ -21,36 +21,35 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: Budoucnost Apple Fitness+ je pod drobnohledem. Apple provádí reorganizaci kvůli
-  slabému růstu
+title: Budoucnost Apple Fitness+ je nejistá. Apple chystá reorganizaci a tlak na výsledky
 url: https://9to5mac.com/2025/11/09/apple-fitness-under-review-amid-reorganization/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Fitness-iPhone-17-Apple-Watch-FI-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Fitness-iPhone-17-Apple-Watch-FI-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
 ## Souhrn
-Apple interně přehodnocuje budoucnost služby Apple Fitness+ a provádí organizační změny, jejichž cílem je zvýšit růst a snížit odchod uživatelů. Navzdory provozní nenáročnosti a loajální části uživatelů je Fitness+ považován za jedno z nejslabších digitálních předplatných Applu.
+Apple podle informací zpravodajce Marka Gurmana (Bloomberg) provádí přehodnocení strategie služby Apple Fitness+ a plánuje její reorganizaci. Důvodem jsou vysoký odchod předplatitelů, nízký příspěvek k příjmům a pomalý vývoj funkcí. Apple však službu zachovává, přesouvá ji pod vedení týmu zdravotnických aktivit a zvyšuje na ni tlak z pohledu výsledků i integrace do ekosystému.
 
 ## Klíčové body
-- Apple Fitness+ je podle informací zdroje pod strategickým přezkumem kvůli slabému růstu, vysokému churnu a omezenému výnosovému potenciálu.
-- Služba bude organizačně přesunuta pod Sumbul Desai, viceprezidentku pro oblast zdraví; celý zdravotnický segment nově reportuje šéfovi služeb Eddymu Cue.
-- Apple Fitness+ zůstává cenově beze změny od roku 2020 (9,99 USD/měsíc nebo 79,99 USD/rok), přičemž přidal jen několik menších funkcí (např. integraci se Strava a cvičení bez povinných Apple Watch).
-- Apple podle dostupných informací nechce službu ukončit kvůli relativně nízkým nákladům, roli v image zaměření na zdraví a existující komunitě uživatelů.
-- Reorganizace probíhá paralelně s širší strategií posílení fitness ekosystému přes iPhone, Apple Watch, AirPods a Beats.
+- Apple Fitness+ zůstává v nabídce, ale jeho strategie a směřování jsou oficiálně „pod revizí“.
+- Služba trpí vysokým odlivem uživatelů a omezeným růstovým potenciálem, přesto je relativně levná na provoz.
+- Vedení přebírá Sumbul Desai, viceprezidentka pro zdraví, která bude zodpovědná za hlubší provázání Fitness+ se zdravotními funkcemi.
+- Organizační změny souvisí s přesunem týmu Apple Health pod divizi služeb (Eddy Cue) po plánovaném odchodu COO Jeffa Williamse.
+- Apple rozšiřuje fitness funkce mimo Apple Watch, například možnost cvičení jen s iPhonem a měření tepu v nových sluchátkách.
 
 ## Podrobnosti
-Apple Fitness+ byl spuštěn v roce 2020 jako předplatná služba s vedenými cvičeními, integrovaná do Apple Watch a později iPhonu. Od té doby však nedošlo k zásadnímu rozšíření funkcí ani k výraznější revizi nabídky, navzdory tlaku konkurence typu Peloton, Nike Training Club nebo dalších fitness platforem, které agresivně pracují s personalizací, komunitními funkcemi a datovou analytikou.
+Apple Fitness+ byl spuštěn v roce 2020 jako předplacená služba pro vedené tréninky, původně silně svázaná s hodinkami Apple Watch. Od té doby se služba cenově téměř nehýbala (9,99 USD měsíčně nebo 79,99 USD ročně) a rozšíření funkcí bylo relativně omezené. Mezi významnější změny patří integrace se službou Strava a možnost službu používat bez nutnosti vlastnit Apple Watch. Přesto Gurman označuje Fitness+ za jednu z nejslabších digitálních nabídek Applu z hlediska růstu, retence a příjmů.
 
-Podle informací zpravodajského newsletteru Power On (Mark Gurman, Bloomberg) se Apple Fitness+ potýká především s vysokou mírou odhlašování (churn) a omezenými příležitostmi pro růst tržeb. To je u služby, která běží už několik let na stejné cenové hladině a bez výraznější diferenciace, poměrně očekávatelné. Zároveň však nejde o nákladově náročný projekt – obsah je natáčen interně, produkce je centralizovaná, a tedy levnější než škálované cloudové služby či náročné AI produkty.
+Hlavní problémy jsou dva: vysoký „churn“, tedy rychlý odchod uživatelů po prvních měsících, a omezený prostor pro další monetizaci, protože cílová skupina je relativně úzká. Apple však službu nechce zrušit. Důvodem je kombinace několika faktorů: existující loajální uživatelská základna, nízké náklady díky interní produkci obsahu a strategická role v rámci zdravotní a fitness pozice značky. Zrušení Fitness+ by šlo přímo proti dlouhodobému marketingu Applu jako firmy zaměřené na zdraví, prevenci a životní styl.
 
-V reakci na tyto slabiny Apple provádí organizační změny. Fitness+ přechází pod vedení Sumbul Desai, která vede zdravotnické aktivity Applu (Apple Health, zdravotní funkce Apple Watch, spolupráce s výzkumnými institucemi). Zároveň Desai i celý zdravotnický segment nově reportují pod senior viceprezidenta pro služby Eddyho Cue. Tím se Fitness+ ocitá přímo v centru byznysu digitálních služeb Applu, kde je tlak na monetizaci, retenci uživatelů a jasnou produktovou strategii vyšší než pod tradičnějším provozním řízením.
+V rámci reorganizace přechází zodpovědnost za Apple Fitness+ pod Sumbul Desai, viceprezidentku pro zdravotnictví, která se dlouhodobě podílí na vývoji zdravotních funkcí Apple Watch a aplikace Zdraví. Tím se Fitness+ více propojí se zdravotnickými aktivitami firmy a dostává se pod dohled Eddyho Cue, šéfa divize služeb, kam se přesouvá celý zdravotnický segment po plánovaném odchodu provozního ředitele Jeffa Williamse. Toto přeuspořádání má zvýšit tlak na obchodní výsledky, lepší integraci do balíčků služeb a efektivnější produktový vývoj.
 
-Apple paralelně rozšiřuje fitness funkce mimo samotné Fitness+. Umožnil například cvičení pouze s iPhonem bez nutnosti Apple Watch, čímž otevírá službu širšímu okruhu uživatelů. Novější generace AirPods Pro a Powerbeats Pro přidávají měření srdečního tepu a hlubší propojení s tréninkovými funkcemi, což vytváří technický základ pro přesnější sledování výkonu a případně personalizovanější doporučení. Tyto kroky naznačují, že Apple Fitness+ má být spíše uzel v širším ekosystému zdraví a fitness, než izolovaná video knihovna.
+Současně Apple rozšiřuje ekosystém fitness funkcí mimo hodinky. Přidal možnost spouštět řízené tréninky přímo na iPhonu bez Apple Watch a nové modely AirPods Pro 3 a Powerbeats Pro 2 podporují měření srdečního tepu, které lze využít při cvičení s Fitness+. Tím Apple testuje, zda snížení hardwarových bariér může zlepšit akvizici i udržení předplatitelů.
 
 ## Proč je to důležité
-Z hlediska uživatelů může reorganizace vést ke dvěma scénářům: buď ke stagnaci a následné marginalizaci Fitness+, nebo k posunu k inteligentnější službě, která lépe využije data z Apple Watch, iPhonu, sluchátek a dalších zařízení. Pokud Apple propojí zdravotnická data, tréninkové metriky a obsah Fitness+ do konzistentního systému s důrazem na prevenci, personalizaci a dlouhodobé sledování kondice, může se služba stát relevantnější a hodnotnější než současná knihovna videí.
+Reorganizace Apple Fitness+ ukazuje, že Apple se snaží najít udržitelný model pro digitální zdravotní a fitness služby, které mají strategický význam, ale zatím nedosahují očekávané výkonnosti. Pro uživatele to znamená, že služba pravděpodobně nezmizí, ale může projít změnami v podobě hlubší integrace se Zdravím, Apple Watch, AirPods a dalšími zařízeními, cílenějšího obsahu a možná i úprav cenových balíčků.
 
-Z pohledu odvětví jde o signál, že ani velký technologický hráč s masivním ekosystémem nemá garantovaný úspěch v předplatném pro digitální fitness, pokud službu aktivně nevyvíjí, neinovuje a neintegruje s dalšími produkty. Reorganizace pod Eddym Cue zvyšuje pravděpodobnost, že Apple začne Fitness+ řídit stejně tvrdě jako ostatní služby, jako je iCloud, Apple Music nebo Apple TV+. Pokud se Apple rozhodne více využít AI pro individualizaci tréninků či zdravotní doporučení, může to výrazně zvýšit tlak na konkurenci, ale zároveň otevřít otázky ohledně soukromí a způsobu využití zdravotních dat uživatelů.
+Z hlediska trhu je to signál, že ani velký ekosystém a silná značka automaticky nezaručují úspěch předplacených fitness platforem. Apple musí řešit stejné problémy jako menší hráči: motivaci k dlouhodobému používání, diferenciaci obsahu a efektivní využití dat o aktivitě a zdraví bez narušení soukromí. Výsledek této reorganizace bude určující pro to, zda se Apple posune blíže k pozici klíčového hráče v oblasti digitálního zdraví, nebo zůstane Fitness+ jen doplňkovou službou s omezeným dopadem.
 
 ---
 

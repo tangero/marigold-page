@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-11T08:24:45.817753+00:00",
+  "generated": "2025-11-11T12:30:02.829669+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "PS Portal předbíhá ostatní metody Remote Play a zvyšuje aktivitu hráčů",
-      "description": "Specializovaná konzole PS Portal se stala nejpoužívanějším zařízením pro PS5 Remote Play a její uživatelé vykazují vyšší herní aktivitu než majitelé PS5 bez tohoto příslušenství.",
+      "title": "Uživatelé PS Portal jsou aktivnější než ostatní: specializované handheld zařízení dominuje Remote Play pro PS5",
+      "description": "Data Sony ukazují, že handheld PS Portal se stal nejpoužívanějším zařízením pro Remote Play na PS5 a jeho uživatelé tráví se službou více času než majitelé jiných zařízení.",
       "slug": "ps-portal-users-are-more-engaged-than-non-users-so",
       "publishedAt": "2025-11-10T06:00:00+00:00",
       "date": "2025-11-10 06:00:00",
@@ -17,17 +17,43 @@
         "id": null,
         "name": "Push Square"
       },
-      "companies": [],
+      "companies": [
+        "Sony"
+      ],
       "people": []
     },
     {
-      "title": "„American Icon: A Mustang Immersive Experience“ nabízí zábavný, místy rozpačitý návrat k historii Mustangu",
-      "description": "Imerzivní výstava Fordu v Los Angeles kombinuje muzeální expozici, projekce a 4D zážitek, aby ukázala kulturní a technologický vývoj Mustangu od roku 1964.5 až po moderní GTD.",
+      "title": "14 užitečných technologických dárků do 50 dolarů",
+      "description": "Výběr cenově dostupných gadgetů, jako jsou Apple AirTag, ohřívač hrnku, chytrý reproduktor a další drobná zařízení, která usnadňují každodenní život bez vysokých nákladů.",
+      "slug": "A-14-tech-gifts-under-50-that-are-actually-useful-",
+      "publishedAt": "2025-11-10T00:00:17+00:00",
+      "date": "2025-11-10 00:00:17",
+      "importance": 1,
+      "category": "gadgety",
+      "urlToImage": "https://img.huffingtonpost.com/asset/690e41d115000099129c29de.jpg?cache=Wpoqzluvgj&ops=500_281%2Cscalefit_1200_630",
+      "url": "/tech-news/2025-11-10/A-14-tech-gifts-under-50-that-are-actually-useful-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "HuffPost"
+      },
+      "companies": [
+        "Amazon",
+        "Apple",
+        "Belkin",
+        "Dell",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "American Icon: Pohlcující Mustang zážitek jako nostalgický návrat k historii pony carů",
+      "description": "Ford v Los Angeles nabízí pohlcující výstavu \"American Icon: A Mustang Immersive Experience\", která kombinuje muzeální expozici, projekční místnosti a 4D projekce a připomíná vývoj Mustangu od roku 1964.5 až po současný Mustang GTD. Akce cílí hlavně na fanoušky značky, vytváří nostalgii a posiluje image Mustangu jako posledního tradičního amerického muscle caru, místy však působí lehce křečovitě marketingově.",
       "slug": "american-icon-a-mustang-immersive-experience-is-an",
       "publishedAt": "2025-11-09T23:25:00+00:00",
       "date": "2025-11-09 23:25:00",
       "importance": 1,
-      "category": "automobilismus",
+      "category": "automobily",
       "urlToImage": "https://www.jalopnik.com/img/gallery/american-icon-a-mustang-immersive-experience-is-an-entertaining-occasionally-cringey-look-back-at-pony-car-history/l-intro-1762557499.jpg",
       "url": "/tech-news/2025-11-09/american-icon-a-mustang-immersive-experience-is-an/",
       "source": {
@@ -39,8 +65,8 @@
       "people": []
     },
     {
-      "title": "Kritika rozhodnutí Yankees: případ Aroldise Chapmana odhaluje slabiny řízení týmu",
-      "description": "Článek rozebírá, jak způsob angažování a opakovaného podepisování nadhazovače Aroldise Chapmana New York Yankees odhaluje dlouhodobé problémy v rozhodování sportovního vedení klubu, zejména generálního manažera Briana Cashmana.",
+      "title": "Komentáře Aroldise Chapmana odhalují hlubší problém řízení Yankees pod Brianem Cashmanem",
+      "description": "Článek rozebírá výroky nadhazovače Aroldise Chapmana na adresu New York Yankees a ukazuje je jako symptom dlouhodobých chyb v rozhodování generálního manažera Briana Cashmana, který opakovaně investoval vysoké částky do problematického hráče navzdory výkonům i kontroverzím.",
       "slug": "aroldis-chapmans-yankees-comments-highlight-bigges",
       "publishedAt": "2025-11-09T22:58:00+00:00",
       "date": "2025-11-09 22:58:00",
@@ -57,13 +83,13 @@
       "people": []
     },
     {
-      "title": "Jak spolehlivé jsou Camara šesté generace podle J.D. Power",
-      "description": "Analýza údajů J.D. Power ukazuje, že Chevrolet Camaro šesté generace dosahuje nadprůměrné spolehlivosti, zejména u pozdějších ročníků, což z něj dělá relativně bezpečnou volbu na trhu ojetin.",
+      "title": "Jak spolehlivá je šestá generace Chevrolet Camaro podle J.D. Power",
+      "description": "Analýza výsledků J.D. Power ukazuje, že šestá generace Chevrolet Camaro má mimo prvních dvou ročníků velmi dobré hodnocení kvality a spolehlivosti, což z ní dělá relativně jistou volbu na trhu ojetin.",
       "slug": "how-reliable-are-6th-gen-camaros-heres-what-jd-pow",
       "publishedAt": "2025-11-09T21:25:00+00:00",
       "date": "2025-11-09 21:25:00",
       "importance": 2,
-      "category": "automobily",
+      "category": "auta",
       "urlToImage": "https://www.jalopnik.com/img/gallery/how-reliable-are-6th-gen-camaros-heres-what-jd-power-says/l-intro-1762452653.jpg",
       "url": "/tech-news/2025-11-09/how-reliable-are-6th-gen-camaros-heres-what-jd-pow/",
       "source": {
@@ -75,13 +101,13 @@
       "people": []
     },
     {
-      "title": "Budoucnost Apple Fitness+ je pod drobnohledem. Apple provádí reorganizaci kvůli slabému růstu",
-      "description": "Apple přehodnocuje strategii služby Fitness+ po letech minimálních inovací, vysoké míry odchodů uživatelů a nízkého výnosového potenciálu. Divize nově spadá pod vedení Sumbul Desai a Eddyho Cue, což zvyšuje tlak na výsledky i integraci do širšího ekosystému služeb.",
+      "title": "Budoucnost Apple Fitness+ je nejistá. Apple chystá reorganizaci a tlak na výsledky",
+      "description": "Apple připravuje reorganizaci služby Apple Fitness+, která čelí vysokému odlivu uživatelů a omezenému růstovému potenciálu. Platforma však nekončí; dostává novou odpovědnou vedení a má lépe zapadnout do širší strategie zdravotních a fitness služeb Applu.",
       "slug": "the-future-of-apple-fitness-is-under-review-amid-r",
       "publishedAt": "2025-11-09T18:17:00+00:00",
       "date": "2025-11-09 18:17:00",
       "importance": 3,
-      "category": "apple",
+      "category": "zdraví",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Fitness-iPhone-17-Apple-Watch-FI-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-09/the-future-of-apple-fitness-is-under-review-amid-r/",
       "source": {
@@ -98,8 +124,29 @@
       ]
     },
     {
-      "title": "5 bezplatných Apple CarPlay aplikací pro iPhone, o kterých jste pravděpodobně neslyšeli",
-      "description": "Apple CarPlay s novým rozhraním v iOS rozšiřuje možnosti infotainmentu v autě. Vedle známých aplikací se objevují méně známé bezplatné nástroje, které usnadňují parkování, vyhledávání nabíjecích stanic i správu multimédií.",
+      "title": "Nejlepší autentizační aplikace není od Googlu ani Microsoftu. Otevřený Aegis dává uživateli větší kontrolu",
+      "description": "Článek upozorňuje na rizika závislosti na cloudových autentizátorech od velkých firem a vysvětluje, proč open-source aplikace Aegis Authenticator nabízí transparentnější a bezpečnější způsob správy 2FA kódů.",
+      "slug": "the-best-authenticator-app-isnt-from-google-or-mic",
+      "publishedAt": "2025-11-09T18:00:00+00:00",
+      "date": "2025-11-09 18:00:00",
+      "importance": 3,
+      "category": "kybernetická bezpečn",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/aegis-2fa-app-login-screen-on-smartphone.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/the-best-authenticator-app-isnt-from-google-or-mic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "companies": [
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "5 bezplatných a opomíjených aplikací pro Apple CarPlay, které zlepší používání infotainmentu",
+      "description": "Vybrané méně známé bezplatné aplikace pro Apple CarPlay rozšiřují základní funkce o chytré parkování, pohodlnější navigaci a lepší práci s multimédii, a ukazují, jak se CarPlay mění v plnohodnotnou platformu pro automobilový infotainment.",
       "slug": "A-5-free-apple-carplay-apps-for-iphone-youve-proba",
       "publishedAt": "2025-11-09T17:17:00+00:00",
       "date": "2025-11-09 17:17:00",
@@ -113,20 +160,18 @@
         "name": "BGR"
       },
       "companies": [
-        "Apple",
-        "VLC",
-        "SpotHero"
+        "Apple"
       ],
       "people": []
     },
     {
-      "title": "Méně známá klávesová zkratka v Androidu, která výrazně zrychluje psaní: Správce schránky",
-      "description": "Článek upozorňuje na praktickou, ale často přehlíženou funkci Androidu – správce schránky v klávesnici, který umožňuje efektivnější práci s textem než standardní schránka v iOS.",
+      "title": "Nenápadná klávesová zkratka v Androidu, kterou se vyplatí používat každý den",
+      "description": "Článek upozorňuje na praktickou funkci Clipboard manageru v Androidu, která umožňuje efektivnější práci s vícero zkopírovanými položkami oproti omezenému schránkovému řešení v iOS.",
       "slug": "the-little-known-android-keyboard-shortcut-i-use-e",
       "publishedAt": "2025-11-09T17:15:00+00:00",
       "date": "2025-11-09 17:15:00",
       "importance": 3,
-      "category": "mobilní zařízení",
+      "category": "android",
       "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/illustration-of-the-google-gboard-and-multiple-clipboard-icons-floating-around-it.png?w=1600&h=900&fit=crop",
       "url": "/tech-news/2025-11-09/the-little-known-android-keyboard-shortcut-i-use-e/",
       "source": {
@@ -135,18 +180,20 @@
         "name": "Android Police"
       },
       "companies": [
-        "Google"
+        "Google",
+        "Apple",
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "Jak z levného mini PC udělat herní stroj: praktický návod na spolehlivé cloudové hraní s NVIDIA GeForce NOW a Xbox Cloud Gaming",
-      "description": "Cloudové hraní umožňuje proměnit levné mini PC v plnohodnotnou herní stanici pro AAA tituly bez drahé grafické karty. Článek ukazuje, jaký hardware a služby zvolit, jaké jsou limity a co to znamená pro levné domácí hraní.",
+      "title": "Jak z levného mini PC udělat stroj pro AAA hry: praktický návod na cloudové hraní s NVIDIA GeForce NOW a Xbox Cloud Gaming",
+      "description": "Článek ukazuje, jak pomocí levného mini PC, vhodných periferií a služeb jako NVIDIA GeForce NOW a Xbox Cloud Gaming získat plnohodnotné AAA hraní bez drahé herní sestavy.",
       "slug": "how-i-turned-a-cheap-mini-pc-into-a-aaa-gaming-mac",
       "publishedAt": "2025-11-09T17:00:00+00:00",
       "date": "2025-11-09 17:00:00",
       "importance": 3,
-      "category": "cloud gaming",
+      "category": "cloudové hraní",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/AmDThBYHdM25jsY2UjqXTV-2048-80.jpg",
       "url": "/tech-news/2025-11-09/how-i-turned-a-cheap-mini-pc-into-a-aaa-gaming-mac/",
       "source": {
@@ -156,9 +203,7 @@
       },
       "companies": [
         "NVIDIA",
-        "Microsoft",
-        "Apple",
-        "Google"
+        "Microsoft"
       ],
       "people": []
     },
@@ -185,6 +230,28 @@
       "people": []
     },
     {
+      "title": "YouTube se mění v TikTok. Krátká videa narušují jeho původní poslání",
+      "description": "YouTube agresivně prosazuje Shorts po vzoru TikToku a tím oslabuje svůj původní model založený na dlouhých videích, vyhledávání a udržitelném příjmu pro tvůrce.",
+      "slug": "youtube-wants-to-be-tiktok-and-its-bad-for-busines",
+      "publishedAt": "2025-11-09T16:15:00+00:00",
+      "date": "2025-11-09 16:15:00",
+      "importance": 3,
+      "category": "sociální sítě",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/youtube-play-button.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-09/youtube-wants-to-be-tiktok-and-its-bad-for-busines/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "YouTube",
+        "TikTok",
+        "Android Police"
+      ],
+      "people": []
+    },
+    {
       "title": "Mechanik objeví osobní historii ukrytou v Fordu Mustang GT 390 z roku 1968",
       "description": "Mechanik při práci na klasickém Mustangu GT 390 z roku 1968 zjišťuje, že jde o vůz, na kterém sám pracoval před desítkami let, což z rutinní opravy dělá osobní setkání s automobilovou historií.",
       "slug": "mechanic-goes-to-work-on-1968-mustang-gt-390-4-spe",
@@ -203,8 +270,8 @@
       "people": []
     },
     {
-      "title": "Ocenění Kansas City Chiefs v bye weeku: Patrick Mahomes jako týmové MVP",
-      "description": "Redakce Arrowhead Pride vybrala quarterbacka Patricka Mahomese jako týmové MVP Kansas City Chiefs po prvních devíti zápasech sezony 2025, a to navzdory kolísavým výkonům a průměrnému týmovému výsledku 5–4.",
+      "title": "Bye week ocenění Chiefs: Patrick Mahomes zvolen MVP týmu",
+      "description": "Patrick Mahomes byl redakcí Arrowhead Pride vyhlášen nejlepším hráčem Kansas City Chiefs v průběžné části sezóny, a to navzdory nevydařenému výkonu proti Buffalo Bills.",
       "slug": "chiefs-2025-bye-week-awards-who-wins-team-mvp-arro",
       "publishedAt": "2025-11-09T16:00:31+00:00",
       "date": "2025-11-09 16:00:31",
@@ -221,8 +288,8 @@
       "people": []
     },
     {
-      "title": "Jak proměnit starou televizi ve smart zrcadlo pomocí Raspberry Pi",
-      "description": "Návod ukazuje, jak starou funkční televizi využít jako displej pro smart zrcadlo s Raspberry Pi a open-source softwarem MagicMirror místo jejího vyřazení.",
+      "title": "Jak proměnit starou televizi v chytré zrcadlo pomocí Raspberry Pi a MagicMirror",
+      "description": "Článek ukazuje praktický postup, jak z běžné staré televize vytvořit chytré zrcadlo s využitím minipočítače Raspberry Pi, dvoucestného zrcadla a otevřeného softwaru MagicMirror.",
       "slug": "you-can-use-your-old-tv-as-a-smart-mirror-heres-ho",
       "publishedAt": "2025-11-09T15:17:00+00:00",
       "date": "2025-11-09 15:17:00",
@@ -235,7 +302,9 @@
         "id": null,
         "name": "BGR"
       },
-      "companies": [],
+      "companies": [
+        "Raspberry Pi"
+      ],
       "people": []
     },
     {
@@ -260,8 +329,8 @@
       "people": []
     },
     {
-      "title": "Tři klíčové AI funkce v Microsoft Edge, které byste měli zapnout hned teď",
-      "description": "Microsoft postupně integruje AI přímo do prohlížeče Edge. Funkce Copilot Mode, Journeys a Actions mají zrychlit práci s webem, zefektivnit vyhledávání, správu historie a automatizaci úkonů.",
+      "title": "Tři AI funkce v Microsoft Edge, které byste měli zapnout hned teď",
+      "description": "Microsoft posiluje prohlížeč Edge o integrované AI funkce Copilot Mode, Journeys a Actions, které zrychlují práci s webem, organizaci prohlížení a automatizaci úkolů.",
       "slug": "three-powerful-ai-features-in-microsoft-edge-you-s",
       "publishedAt": "2025-11-09T15:03:00+00:00",
       "date": "2025-11-09 15:03:00",
@@ -280,8 +349,8 @@
       "people": []
     },
     {
-      "title": "10 častých chyb při sestavování a prvním nastavení nového počítače",
-      "description": "Článek rozebírá nejčastější chyby při stavbě a konfiguraci nového PC – od nesprávného osazení GPU a SSD přes podcenění napájecího zdroje a chlazení až po špatné nastavení systému, které omezuje výkon a stabilitu.",
+      "title": "10 častých chyb při sestavování a prvotním nastavení nového počítače",
+      "description": "Přehled nejčastějších chyb, které uživatelé dělají při stavbě a nastavování nového PC – od špatného výběru slotů pro GPU a SSD až po podcenění chlazení, BIOSu a konfigurace systému, což vede ke ztrátě výkonu, nestabilitě a nižší životnosti komponent.",
       "slug": "A-10-common-mistakes-people-make-when-setting-up-a",
       "publishedAt": "2025-11-09T15:02:00+00:00",
       "date": "2025-11-09 15:02:00",
@@ -298,8 +367,8 @@
       "people": []
     },
     {
-      "title": "Ozdobte svůj vánoční stromek retro konzolemi a popkulturními motivy",
-      "description": "The Verge představuje kolekci vánočních ozdob inspirovaných herní a filmovou kulturou, včetně detailních replik retro konzolí a ikonických scén. Tyto ozdoby míří na nostalgii hráčů i fanoušků seriálů a filmů a fungují především jako stylizované dárky a sběratelské předměty.",
+      "title": "Vánoční ozdoby pro hráče a fanoušky popkultury: retro konzole, filmové momenty a nerd kultura",
+      "description": "The Verge představuje výběr vánočních ozdob inspirovaných retro herními konzolemi, filmovými scénami a popkulturou, které cílí na fanoušky herní a nerd kultury a využívají nostalgii jako hlavní prodejní prvek.",
       "slug": "deck-out-your-tree-with-ornaments-of-retro-console",
       "publishedAt": "2025-11-09T15:00:00+00:00",
       "date": "2025-11-09 15:00:00",
@@ -312,17 +381,12 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "NASA"
-      ],
+      "companies": [],
       "people": []
     },
     {
-      "title": "Linuxový kernel míří k plošnému povolení Microsoft C Extensions",
-      "description": "Vývojáři Linuxového kernelu zvažují plošné zapnutí kompilátorové volby -fms-extensions, která umožní využití vybraných rozšíření jazyka C z prostředí Microsoftu pro úsporu paměti a zjednodušení kódu.",
+      "title": "Linuxový kernel míří k povolení Microsoft C Extensions napříč kompilací",
+      "description": "Vývojáři Linuxového kernelu zvažují plošné zapnutí přepínače -fms-extensions pro GCC a Clang, což by umožnilo využít vybrané konstrukce z Microsoft C Extensions a zjednodušit část kódu jádra.",
       "slug": "the-linux-kernel-looks-to-bite-the-bullet-in-enabl",
       "publishedAt": "2025-11-09T14:51:00+00:00",
       "date": "2025-11-09 14:51:00",
@@ -336,10 +400,7 @@
         "name": "Phoronix"
       },
       "companies": [
-        "Microsoft",
-        "GCC",
-        "LLVM",
-        "Clang"
+        "Microsoft"
       ],
       "people": []
     },
@@ -3667,26 +3728,6 @@
       "people": []
     },
     {
-      "title": "iOS 26.1 přináší vylepšení rozhraní Liquid Glass a nové funkce",
-      "description": "Apple vydal aktualizaci iOS 26.1 s vylepšenou jazykovou podporou, novými gesty a vizuálními nastaveními pro rozhraní Liquid Glass.",
-      "slug": "ios-261-update-offers-liquid-glass-controls-bevy-o",
-      "publishedAt": "2025-11-04T21:45:00+00:00",
-      "date": "2025-11-04 21:45:00",
-      "importance": 1,
-      "category": "mobilní systémy",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/012JNU5R7KkQAa5OJLmuVr0-1.fit_lim.size_1200x630.v1762292546.jpg",
-      "url": "/tech-news/2025-11-04/ios-261-update-offers-liquid-glass-controls-bevy-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Magnetické nabíjecí stojany Nomad nyní podporují rychlejší nabíjení 25W",
       "description": "Společnost Nomad aktualizovala své nabíjecí stojany Stand One a Stand One Max o podporu standardu Qi2.2, který umožňuje bezdrátové nabíjení výkonem až 25W.",
       "slug": "nomads-magnetic-charging-stands-now-support-faster",
@@ -3862,27 +3903,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Celá řada Google Pixel 10 poprvé se slevou až 25 procent",
-      "description": "Google nabízí své telefony Pixel 10 včetně modelů Pro a Fold s rekordními slevami až 25 procent. Základní model stojí 599 dolarů místo původních 799 dolarů.",
-      "slug": "googles-entire-pixel-10-lineup-is-up-to-25-percent",
-      "publishedAt": "2025-11-04T16:04:43+00:00",
-      "date": "2025-11-04 16:04:43",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/pixel10leaddeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-04/googles-entire-pixel-10-lineup-is-up-to-25-percent/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Google",
-        "8BitDo"
       ],
       "people": []
     },
@@ -4089,24 +4109,6 @@
       "companies": [
         "Samsung"
       ],
-      "people": []
-    },
-    {
-      "title": "Affinity představil nový vizuální styl při přechodu na bezplatný model",
-      "description": "Společnost Affinity spustila rebrand současně s oznámením, že její tři aplikace pro grafický design budou nyní dostupné zdarma. Nová identita značky vznikla ve spolupráci s Canvou a designovým studiem Twist.",
-      "slug": "im-absolutely-loving-the-affinity-rebrand-creative",
-      "publishedAt": "2025-11-04T07:00:00+00:00",
-      "date": "2025-11-04 07:00:00",
-      "importance": 3,
-      "category": "grafický design",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hm2J6dgL2ZWV6UbE4e5iFK.gif",
-      "url": "/tech-news/2025-11-04/im-absolutely-loving-the-affinity-rebrand-creative/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Creative Bloq"
-      },
-      "companies": [],
       "people": []
     },
     {

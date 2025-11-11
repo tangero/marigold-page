@@ -3,13 +3,10 @@ author: Marisa Aigen
 category: programování
 companies:
 - Microsoft
-- GCC
-- LLVM
-- Clang
 date: '2025-11-09 14:51:00'
-description: Vývojáři Linuxového kernelu zvažují plošné zapnutí kompilátorové volby
-  -fms-extensions, která umožní využití vybraných rozšíření jazyka C z prostředí Microsoftu
-  pro úsporu paměti a zjednodušení kódu.
+description: Vývojáři Linuxového kernelu zvažují plošné zapnutí přepínače -fms-extensions
+  pro GCC a Clang, což by umožnilo využít vybrané konstrukce z Microsoft C Extensions
+  a zjednodušit část kódu jádra.
 importance: 3
 layout: tech_news_article
 original_title: The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft
@@ -20,38 +17,42 @@ source:
   emoji: 📰
   id: null
   name: Phoronix
-title: Linuxový kernel míří k plošnému povolení Microsoft C Extensions
+title: Linuxový kernel míří k povolení Microsoft C Extensions napříč kompilací
 url: https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext
 urlToImage: https://www.phoronix.net/image.php?id=2025&image=ms_b
 urlToImageBackup: https://www.phoronix.net/image.php?id=2025&image=ms_b
 ---
 
 ## Souhrn
-Linuxový kernel se přibližuje k plošnému povolení přepínače -fms-extensions při kompilaci pomocí GCC a LLVM/Clang. Tento krok by umožnil využití vybraných Microsoft C Extensions uvnitř kernelového kódu, zejména anonymních vnořených struktur a unií, a mohl by přinést čistší kód a lepší práci s pamětí.
+Linuxový kernel se připravuje na krok, který byl roky předmětem debat: plošné povolení přepínače `-fms-extensions` v systému sestavení (kbuild). Dva patche zařazené do větve `kbuild-next` mají umožnit použití vybraných Microsoft C Extensions při kompilaci jádra pomocí GCC i LLVM/Clang, primárně kvůli jednoduššímu a kompaktnějšímu zápisu některých datových struktur.
 
 ## Klíčové body
-- Dva patche v kbuild-next navrhují globální zapnutí volby -fms-extensions pro kompilaci kernelu.
-- Cílem je umožnit využití Microsoft C Extensions, zejména anonymních tagged struct/union uvnitř jiných struktur.
-- Změna je plánována pro okno slučování Linux 6.19, pokud nenarazí na odpor klíčových vývojářů včetně Linuse Torvaldse.
-- Dlouhodobě se diskutuje, zda přínosy „hezčího“ a efektivnějšího kódu vyváží závislost na dalším ne standardním kompilátorovém rozšíření.
+- Dva patche v `kbuild-next` navrhují globální zapnutí `-fms-extensions` pro kompilaci Linuxového kernelu.
+- Rozšíření cílí zejména na možnost anonymního vkládání označených `struct` a `union` do jiných struktur.
+- Změna se očekává pro merge okno Linux 6.19, pokud nebudou zásadní námitky od klíčových vývojářů včetně Linuse Torvaldse.
+- Historicky byly podobné návrhy odmítány kvůli obavám z dalšího ne-standardního chování kompilátoru.
+- Zastánci argumentují čitelnějším kódem, potenciální úsporou paměti a praktičtější prací s datovými strukturami.
 
 ## Podrobnosti
-V experimentální větvi kbuild-next, která slouží jako přípravná základna pro změny v build systému Linuxového kernelu, se objevily dva patche navrhující globální povolení přepínače -fms-extensions pro všechny podporované kompilátory, konkrétně GCC a LLVM/Clang. Tento přepínač aktivuje Microsoft C Extensions, tedy sadu nestandardních jazykových konstrukcí původně podporovaných překladačem Microsoft Visual C/C++ a používaných v části ekosystému Windows.
+Návrh vychází z dlouhodobé diskuse na mailing listu Linuxového kernelu o tom, zda je rozumné přidávat další ne zcela standardní rozšíření jazyka C do oficiálního build procesu. Přepínač `-fms-extensions`, podporovaný jak GCC, tak LLVM/Clang, aktivuje podmnožinu chování známého z Microsoft Visual C/C++ kompilátoru. V kontextu Linuxového kernelu nejde o přibližování se Windows API, ale o využití konkrétních syntaktických možností pro definici datových struktur.
 
-Pro Linuxový kernel je v popředí zájmu především možnost vkládat pojmenované struktury (tagged struct) nebo unie do jiných struktur/unií anonymně, což zjednodušuje rozvržení datových struktur a přístup k jejich členům. Prakticky to může vést k přehlednějšímu kódu, eliminaci obalovacích polí a v některých případech k úspoře zásobníkové paměti i lepšímu zarovnání dat.
+Klíčovým příkladem je možnost zahrnout „tagged“ `struct` nebo `union` anonymně do jiné struktury. Tím lze vytvářet vrstvené datové typy, kde se polím vnořených struktur přistupuje příměji, bez nutnosti vkládat další pojmenovanou úroveň. Výsledkem je kompaktnější, přehlednější kód a v některých případech lepší rozložení na zásobníku a v paměti. Návrh předložil mimo jiné Rasmus Villemoes, který zdůrazňuje, že jednotlivé dílčí případy sice vždy šlo obejít, ale kumulativně vzniká zbytečná zátěž v syntaxi a údržbě.
 
-Myšlenka plošného povolení -fms-extensions není nová; v minulosti byla opakovaně navržena, ale nikdy nezískala konsenzus na mailing listu kernelu. Argumenty proti zahrnovaly zejména odpor k dalším nestandardním rozšířením, obavy z horší přenositelnosti, potenciální komplikace pro alternativní build nástroje a nástroje pro statickou analýzu a riziko postupného pronikání těžko přenositelných idiomů do kritické části kódu. Aktuální zařazení patchů do kbuild-next však naznačuje, že část maintainers začíná akceptovat pragmatický přístup: rozšíření je už dnes široce podporováno hlavními kompilátory a může ulevit od opakujících se konstrukcí, které jsou sice „snad snesitelné“, ale v součtu komplikují údržbu.
+Dosud se podobné návrhy nedařilo prosadit, protože přidání dalšího globálního přepínače znamená:
+- potenciální riziko vzniku kódu využívajícího méně zřejmé Microsoft-specifické konstrukce,
+- komplikace pro alternativní toolchainy nebo statickou analýzu, které počítají se striktně standardním C,
+- nutnost pečlivě hlídat kompatibilitu napříč architekturami a konfiguracemi jádra.
 
-Pokud změna projde do Linuxu 6.19, vývojáři kernelu získají oficiálně podporovaný prostor pro využití vybraných Microsoft C konstrukcí, což může ovlivnit styl psaní subsystémů, ovladačů i architekturně specifického kódu.
+Zařazení patchů do `kbuild-next` však ukazuje, že část maintainerské komunity je ochotná „kousnout do kyselého jablka“ a akceptovat omezené ne-standardní rozšíření výměnou za dlouhodobé zjednodušení kódu. Finální rozhodnutí pravděpodobně padne během merge okna pro Linux 6.19, kde se ukáže, zda proti změně vystoupí klíčové osobnosti vývoje kernelu.
 
 ## Proč je to důležité
-Tento krok je významný především pro vývojáře a maintainer y Linuxového kernelu, nikoliv přímo pro běžné koncové uživatele. Odráží posun od striktního purismu jazyka C k pragmatickému využívání rozšíření, pokud jsou stabilně podporována vícero kompilátory. Plošné povolení -fms-extensions může:
+Tento krok není mediálně efektní, ale má praktický význam pro celý ekosystém okolo Linuxového kernelu:
 
-- zjednodušit datové struktury v nízkoúrovňovém kódu a tím usnadnit jeho čitelnost a údržbu,
-- přinést drobné optimalizace v práci s pamětí, což je důležité v jádře, ovladačích a na embedded platformách,
-- zároveň ale zvýšit závislost na specifických kompilátorových vlastnostech, což může zkomplikovat práci alternativním nástrojům, formálním verifikačním metodám a menším projektům, které se snaží kernel analyzovat nebo překládat jinými prostředky.
+Zaprvé, ovlivňuje standardy psaní kódu jádra a tím i tisíce vývojářů, kteří vytvářejí ovladače, subsystémy a out-of-tree moduly. Povolení Microsoft C Extensions otevírá dveře k využívání nových idiomů v kódu, ale zároveň zvyšuje nároky na disciplínu: je nutné držet se jen těch částí rozšíření, které jsou srozumitelné, dobře dokumentované a podporované všemi relevantními kompilátory.
 
-Celkově jde o technicky zajímavý signál: Linuxový kernel je ochoten systematicky využít rozšíření historicky spojená s Microsoftím ekosystémem, pokud to přinese reálné benefity v kvalitě kódu, a současně si bude muset pohlídat, aby se tento krok nevymkl kontrole a neomezil dlouhodobou udržitelnost a přenositelnost projektu.
+Zadruhé, změna zasahuje do oblasti přenositelnosti a nástrojové podpory. Nástroje pro statickou analýzu, formální verifikaci a alternativní build systémy musí spolehlivě pracovat s kódem, který využívá `-fms-extensions`. Pokud se ekosystém přizpůsobí, může to vést k robustnější infrastruktuře, ale přechodné období může odhalit skryté chyby a nekonzistence.
+
+Zatřetí, jde o signál ohledně pragmatismu vývoje Linuxového kernelu: preferuje se praktičnost a údržovatelnost před ideologicky čistým držením se standardu C. To může do budoucna ovlivnit i další rozhodnutí, například ohledně podpory nových jazykových vlastností v C, rozšíření pro bezpečnější paměťové modely nebo integraci Rustu a dalších jazyků v kritických částech systému.
 
 ---
 
