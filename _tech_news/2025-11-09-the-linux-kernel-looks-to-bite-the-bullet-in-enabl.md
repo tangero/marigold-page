@@ -7,11 +7,9 @@ companies:
 - LLVM
 - Clang
 date: '2025-11-09 14:51:00'
-description: Do vývojové větve kbuild-next zamířily záplaty, které vynucují kompilaci
-  Linux kernelu s volbou -fms-extensions pro GCC i LLVM/Clang. Tento krok má umožnit
-  využití vybraných konstrukcí Microsoft C Extensions, zjednodušit práci se strukturami
-  a potenciálně optimalizovat paměťové nároky, ale současně otevírá debatu o standardizaci
-  a dlouhodobé údržbě kódu.
+description: Vývojáři Linuxového kernelu zvažují plošné zapnutí volby -fms-extensions
+  v GCC a Clang, což by umožnilo využití vybraných Microsoft C Extensions pro jednodušší
+  práci se strukturami a potenciálně úsporu paměti.
 importance: 3
 layout: tech_news_article
 original_title: The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft
@@ -22,33 +20,37 @@ source:
   emoji: 📰
   id: null
   name: Phoronix
-title: Linux kernel míří k plošnému povolení Microsoft C Extensions při kompilaci
+title: Linuxový kernel míří k plošnému povolení Microsoft C Extensions při kompilaci
 url: https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext
 urlToImage: https://www.phoronix.net/image.php?id=2025&image=ms_b
 urlToImageBackup: https://www.phoronix.net/image.php?id=2025&image=ms_b
 ---
 
 ## Souhrn
-Linux kernel se připravuje na plošné povolení Microsoft C Extensions pomocí kompilátorské volby `-fms-extensions` v rámci všech podporovaných překladačů (GCC, LLVM/Clang). Změna je aktuálně v kbuild-next a míří do merge okna pro Linux 6.19, čímž se otevírá cesta k využití některých nestandardních konstrukcí známých z prostředí Microsoft Visual C.
+Linuxový kernel směřuje k plošnému povolení přepínače `-fms-extensions` v rámci build systému, což umožní využití vybraných Microsoft C Extensions v GCC a LLVM/Clang. Změna je aktuálně v testovací větvi kbuild-next a pokud nebude vetována klíčovými maintainery nebo Linusem Torvaldsem, může se objevit v jádře Linuxu 6.19.
 
 ## Klíčové body
-- Záplaty v kbuild-next povolují `-fms-extensions` pro celý Linux kernel build.
-- Hlavní motivací je možnost používat anonymní vkládání „tagged“ struct/union a psát kompaktnější kód.
-- Předchozí pokusy o zavedení této volby opakovaně narazily na odpor na mailing listu.
-- Rozhodnutí se očekává v rámci merge okna pro Linux 6.19, klíčové slovo budou námitky hlavních maintainerů a Linuse Torvaldse.
-- Krok vyvolává otázky ohledně závislosti na nestandardním chování kompilátorů a udržitelnosti kódu.
+- Návrh povolit `-fms-extensions` globálně pro kompilaci kernelu v GCC i Clang.
+- Hlavní motivací je možnost anonymního vkládání označených (tagged) struktur a unii do jiných struktur/unií.
+- Očekává se čitelnější a kompaktnější kód, v některých případech i úspora zásobníkové paměti.
+- Změna je po letech diskusí nově zařazena do kbuild-next, což zvyšuje šanci na skutečné nasazení.
+- Stále existuje prostor pro odmítnutí v rámci merge window, pokud se objeví silné technické námitky.
 
 ## Podrobnosti
-Zveřejněné záplaty v rámci kbuild-next modifikují systém kompilace Linux kernelu tak, aby se globálně používala volba `-fms-extensions`. Tato volba v GCC i LLVM/Clang umožňuje podporu vybraných nestandardních konstrukcí jazyka C, které původně vycházejí z Microsoft Visual C. V praxi jde zejména o flexibilnější práci se strukturami a uniemi, například anonymní vkládání označených (tagged) struktur a unií do jiných struktur bez nutnosti mezivrstvy, což může zpřehlednit kód a mírně zlepšit rozložení dat v paměti.
+Kbuild-next, testovací větev build systému Linuxového kernelu, aktuálně obsahuje dvojici patchů, které zapínají kompilátorový přepínač `-fms-extensions` pro všechny konfigurace. Tento přepínač v překladačích GCC a LLVM/Clang zpřístupňuje podmnožinu rozšíření jazyka C používaných původně kompilátorem Microsoft Visual C/C++. Pro Linuxové jádro je klíčová konkrétní vlastnost: možnost vkládat označenou strukturu nebo unii (tagged struct/union) anonymně do jiné struktury/union tak, aby její členy bylo možné přistupovat přímo, bez další úrovně zanoření.
 
-Rasmus Villemoes a další vývojáři argumentují, že sjednocené povolení `-fms-extensions` odstraní opakované „workaroundy“, které jsou sice funkční, ale méně čitelné a někdy vedou k horšímu využití zásobníku či paměti. Dosavadní přístup byl konzervativní: pro každý konkrétní případ se volilo raději standardní C, než přidání další globální kompilátorské volby. To však vytvářelo typickou situaci „slepice a vejce“ – bez povolení rozšíření se jejich přínos neprokáže, a bez prokázaného přínosu se rozšíření nepovolí.
+Dosud se vývoj kernelu těmto rozšířením záměrně vyhýbal a preferoval čistší, standardní C, i za cenu poněkud méně elegantního kódu. Návrhy na plošné povolení `-fms-extensions` se objevují řadu let, ale narážely na odpor kvůli obavám z rozbití kompatibility, zvýšení závislosti na nestandardních vlastnostech a komplikacím při údržbě. Aktuální krok – zařazení patchů do kbuild-next – naznačuje posun v postoji části komunity: Rasmus Villemoes a další argumentují, že v praxi existuje dost případů, kdy použití těchto rozšíření zjednoduší struktury, sníží duplicitní kód a v některých scénářích i šetří zásobníkovou paměť (stack space), což je relevantní zejména pro nízkoúrovňové subsystémy a omezená embedded prostředí.
 
-Zařazení do kbuild-next znamená, že změna je brána vážně a je technicky připravená pro širší testování. Rozhodující bude, zda hlavní maintainerská část komunity nebude považovat závislost na Microsoft C Extensions za riziko pro přenositelnost, čistotu kódu a možnost budoucího využití alternativních kompilátorů či nástrojů pro analýzu kódu. Pokud projde, stane se `-fms-extensions` de facto součástí oficiálního build prostředí Linux kernelu.
+Z technického pohledu nejde o přebírání celého proprietárního ekosystému Microsoftu, ale o pragmatické využití rozšíření, která jsou již implementována v hlavních open source kompilátorech. Rizikem zůstává potenciální uzamčení na specifické chování překladačů a ztížení statické analýzy, formálních verifikací či portování nástrojů, které očekávají čistě standardní C.
 
 ## Proč je to důležité
-Plošné povolení Microsoft C Extensions v Linux kernelu je signál posunu v přístupu ke kompilátorům a jazykovým rozšířením. Na jedné straně může přinést praktičtější a úspornější zápis některých datových struktur, potenciálně lepší využití paměti a vyšší expresivitu pro maintainery subsystémů, kteří dnes musí kód ohýbat podle striktního standardu. Na straně druhé vytváří závislost na konkrétním nestandardním chování, které musí dlouhodobě konzistentně podporovat GCC i LLVM/Clang.
+Případné přijetí tohoto kroku by znamenalo formální posun v filozofii vývoje Linuxového kernelu směrem k větší toleranci k nestandardním jazykovým prvkům, pokud přinášejí praktický užitek. Pro vývojáře kernelu to může znamenat:
 
-Pro průmysl a firmy, které udržují vlastní patche proti kernelu (například výrobci čipů, síťových karet nebo bezpečnostních modulů), to znamená nutnost přehodnotit build prostředí a nástroje pro statickou analýzu. Vzniká také otázka kompatibility s alternativními či specializovanými kompilátory, které `-fms-extensions` nepodporují nebo implementují jen částečně. Rozhodnutí proto není jen estetické; jde o technický kompromis mezi čistotou standardu a praktickými požadavky na vývoj rozsáhlého, dlouhodobě udržovaného systému, jakým Linux kernel je.
+- čitelnější a strukturovanější datové typy, které lépe odrážejí skutečné hierarchie bez zbytečných obalů,
+- možnost úspory paměti a zjednodušení přístupu ke členům struktur v kritických částech kódu,
+- ale také nutnost pečlivěji hlídat, aby se nešířila závislost na méně podporovaných nebo problematických částech Microsoft C Extensions.
+
+V širším ekosystému je to signál, že jádro klíčového open source projektu je ochotné přijmout kompatibilitu s rozšířeními historicky spojenými s Microsoftem, pokud jsou dostupná v otevřených nástrojích jako GCC a Clang. To může usnadnit interoperabilitu s částmi kódu a hlavičkových souborů, které z těchto konstrukcí vycházejí, a současně otevírá debatu o hranici mezi pragmatismem a udržitelnou čistotou kódu v kritické infrastruktuře.
 
 ---
 
