@@ -1,24 +1,33 @@
 ---
-author: Patrick Zandl
 audio: true
+audio_generated: '2025-11-11T10:26:05.740794'
+audio_url: https://www.marigold.cz/audio/2025-11-05-zohran-mamdani-starosta-new-york.mp3
+author: Patrick Zandl
 categories:
 - politika
 - USA
 - New York
 - progresivismus
 layout: post
-post_excerpt: Zohran Mamdani, čtyřiatřicetiletý progresivní politik, se stal novým starostou New Yorku. Jeho vítězství symbolizuje frustrace voličů s establishmentem i limity amerického federalismu.
+post_excerpt: Zohran Mamdani, čtyřiatřicetiletý progresivní politik, se stal novým
+  starostou New Yorku. Jeho vítězství symbolizuje frustrace voličů s establishmentem
+  i limity amerického federalismu.
 summary_points:
-- Zohran Mamdani, 34letý progresivní politik s aktivistickou minulostí, vyhrál primárky a stal se starostou New Yorku
-- Porazil Andrewa Cuoma poměrem 56:44, čímž zaplnil vakuum po korupčním skandálu Erica Adamse
-- Reprezentuje novou generaci přistěhovalců a menšin, které americký systém tradičně nezastupuje dostatečně
-- Prosazuje evropský model sociální politiky zaměřený na regulaci bydlení, bezplatnou dopravu a sociální služby
-- Starosta New Yorku má ale velmi omezenou moc, všechny zásadní rozhodnutí musí schválit stát New York
-- Jeho úspěch bude záviset na schopnosti vyjednávat a budovat koalice navzdory strukturálním překážkám
-title: Zohran Mamdani je nový starosta New Yorku a my ho neznáme ...
+- Zohran Mamdani, 34letý progresivní politik s aktivistickou minulostí, vyhrál primárky
+  a stal se starostou New Yorku
+- Porazil Andrewa Cuoma poměrem 56:44, čímž zaplnil vakuum po korupčním skandálu Erica
+  Adamse
+- Reprezentuje novou generaci přistěhovalců a menšin, které americký systém tradičně
+  nezastupuje dostatečně
+- Prosazuje evropský model sociální politiky zaměřený na regulaci bydlení, bezplatnou
+  dopravu a sociální služby
+- Starosta New Yorku má ale velmi omezenou moc, všechny zásadní rozhodnutí musí schválit
+  stát New York
+- Jeho úspěch bude záviset na schopnosti vyjednávat a budovat koalice navzdory strukturálním
+  překážkám
 thumbnail: https://www.marigold.cz/assets/zohran-mamdani.jpeg
+title: Zohran Mamdani je nový starosta New Yorku a my ho neznáme ...
 ---
-
 New York má nového starostu, což by nám mohlo být jedno, kdyby se jím nestal čtyřiatřicetiletý Zohran Mamdani. 
 
 Podle dikce jména asi hned na první dobrou nepoznáte😇, zda je příslušníkem klanu Kenedyů, Bushů, Romneyů nebo Clintonových - ale nebudu vás napínat, nezapadá do žádné tradiční americké politické škatulky. V části českých konzervativních médií (jako Echo24) se okamžitě převzal Trumpovský příběh o Mandanim: je to muslimský terorista, komouš a zlo a zkáza.
