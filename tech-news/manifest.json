@@ -1,7 +1,108 @@
 {
-  "generated": "2025-11-11T16:23:02.445235+00:00",
+  "generated": "2025-11-11T20:21:05.331891+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple odkládá další generaci iPhonu Air kvůli slabým prodejům prvního modelu",
+      "description": "Apple podle zdrojů z dodavatelského řetězce a vývoje odkládá uvedení příští generace iPhonu Air, svého nejtenčího telefonu, protože první verze zařízení nenaplnila prodejní očekávání. Zpoždění naznačuje opatrnější strategii firmy v segmentu prémiových, designově vyhraněných modelů.",
+      "slug": "apple-delays-release-of-next-iphone-air-amid-weak-",
+      "publishedAt": "2025-11-10T19:10:00+00:00",
+      "date": "2025-11-10 19:10:00",
+      "importance": 3,
+      "category": "smartphony",
+      "urlToImage": "https://tii.imgix.net/production/articles/16047/dd2e9d3a-e6fa-4520-855a-10cb02a45996.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "url": "/tech-news/2025-11-10/apple-delays-release-of-next-iphone-air-amid-weak-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Information"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple potvrzuje vydání iOS 26.2: klíčová aktualizace pro iPhone přichází v prosinci",
+      "description": "Apple neobvykle předem naznačuje termín vydání iOS 26.2, který má přinést nové funkce včetně rozšíření Live Translation na AirPods v EU a podporu pro široké portfolio iPhonů od řady 11 po 17.",
+      "slug": "apple-ios-262-major-new-iphone-update-release-conf",
+      "publishedAt": "2025-11-10T19:00:00+00:00",
+      "date": "2025-11-10 19:00:00",
+      "importance": 4,
+      "category": "ios",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-10/apple-ios-262-major-new-iphone-update-release-conf/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "BikeYoke Shifty 2: Mechanický upgrade řazení pro přesnější a tišší chod",
+      "description": "Shifty 2 od BikeYoke je mechanický tuningový kit pro přehazovačky SRAM T-Type, který pomocí přepracované vodicí kladky a bušingu zlepšuje přesnost, snižuje tření a omezuje vůli v systému řazení.",
+      "slug": "the-bikeyoke-shifty-2-is-a-mechanical-transmission",
+      "publishedAt": "2025-11-10T17:39:22+00:00",
+      "date": "2025-11-10 17:39:22",
+      "importance": 3,
+      "category": "cyklistická technolo",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb29005862/p4pb29005862.jpg",
+      "url": "/tech-news/2025-11-10/the-bikeyoke-shifty-2-is-a-mechanical-transmission/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Pinkbike.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s novým modulem fotoaparátu",
+      "description": "Nové rendery naznačují, že Samsung nakonec uvede Galaxy S26 Plus místo dříve spekulovaného modelu Edge. Hlavní změnou je upravený ostrov fotoaparátu, zatímco zbytek konstrukce zůstává blízký předchozí generaci.",
+      "slug": "samsung-galaxy-s26-plus-reappears-in-renders-with-",
+      "publishedAt": "2025-11-10T16:42:01+00:00",
+      "date": "2025-11-10 16:42:01",
+      "importance": 2,
+      "category": "smartphony",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "url": "/tech-news/2025-11-10/samsung-galaxy-s26-plus-reappears-in-renders-with-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "PS6 se přiblíží PC: Sony plánuje otevřenější architekturu a AI technologie od AMD",
+      "description": "Další generace PlayStation má opustit silně proprietární hardware a více se přiblížit PC architektuře s důrazem na AI akceleraci, upscaling a efektivnější GPU, což může změnit způsob vývoje her i význam exkluzivit.",
+      "slug": "sorry-sony-fans-the-ps6-may-be-even-more-pc-than-c",
+      "publishedAt": "2025-11-10T16:18:22+00:00",
+      "date": "2025-11-10 16:18:22",
+      "importance": 3,
+      "category": "herní konzole",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/PlayStation-5-Slim-Versus-PlayStation-5-Original-Spider-MAn-1200x675.jpg",
+      "url": "/tech-news/2025-11-10/sorry-sony-fans-the-ps6-may-be-even-more-pc-than-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Sony",
+        "Microsoft"
+      ],
+      "people": []
+    },
     {
       "title": "Rozsáhlé zákazy karet mění kompetitivní formáty Magic: The Gathering",
       "description": "Wizards of the Coast oznámili sérii zákazů klíčových karet napříč formáty Magic: The Gathering, která cílí na příliš silné kombinační balíky, rychlou akceleraci many a neinteraktivní strategie. Změny výrazně zasahují Standard, Legacy, Pauper a Brawl.",
@@ -21,8 +122,95 @@
       "people": []
     },
     {
-      "title": "iOS 27: Apple chystá tři výrazné nové AI funkce včetně asistenta pro zdraví",
-      "description": "Apple podle nových informací připravuje pro iOS 27 tři klíčové AI novinky: vizuálně přepracovanou Siri, nástroj pro vyhledávání na webu založený na AI a službu Health+ s AI agentem pro správu zdraví.",
+      "title": "36 absurdních screenshotů, které jsou pořád stejně hloupé a pořád stejně směšné",
+      "description": "Výběr virálních a záměrně hloupých screenshotů z Instagramu, Redditu, TikToku a dalších sítí ukazuje, jak jednoduše funguje vizuální humor a memová kultura na internetu.",
+      "slug": "A-36-ridiculously-stupid-screenshots-that-get-funn",
+      "publishedAt": "2025-11-10T16:09:24+00:00",
+      "date": "2025-11-10 16:09:24",
+      "importance": 1,
+      "category": "zábava",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/10/16/thumb/5nDbxYrqT.jpg?crop=2500:1309;0,0%26downsize=1250:*",
+      "url": "/tech-news/2025-11-10/A-36-ridiculously-stupid-screenshots-that-get-funn/",
+      "source": {
+        "emoji": "📰",
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Načasování uvedení Mac mini a Mac Studio s čipem M5 odhaleno v novém reportu",
+      "description": "Apple podle nových informací plánuje uvést stolní počítače Mac mini a Mac Studio s čipy M5 zhruba v polovině příštího roku, odděleně od dřívějšího spuštění MacBooků s M5. Neobvyklé načasování vyvolává otázky ohledně produktové strategie Applu.",
+      "slug": "m5-mac-mini-and-mac-studio-launch-timing-revealed-",
+      "publishedAt": "2025-11-10T15:47:00+00:00",
+      "date": "2025-11-10 15:47:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/mac-studio-mini-m5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-10/m5-mac-mini-and-mac-studio-launch-timing-revealed-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Aby stroje dokazovaly matematiku, musíme z ní udělat logickou hádanku",
+      "description": "Marijn Heule využívá metodu SAT k převodu složitých matematických problémů na logické úlohy podobné sudoku a ukazuje, jak kombinace symbolických metod a moderní AI může řešit důkazy mimo dosah člověka.",
+      "slug": "to-have-machines-make-math-proofs-turn-them-into-a",
+      "publishedAt": "2025-11-10T15:29:38+00:00",
+      "date": "2025-11-10 15:29:38",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Marijn-Heule-QA-cr-Luis-Camacho-Social.jpg",
+      "url": "/tech-news/2025-11-10/to-have-machines-make-math-proofs-turn-them-into-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "companies": [],
+      "people": [
+        "Marijn Heule"
+      ]
+    },
+    {
+      "title": "Windows 11 26H1 míří jen na nové procesory. Běžní uživatelé zůstanou na 25H2",
+      "description": "Microsoft chystá speciální vydání Windows 11 26H1 zaměřené výhradně na podporu nové generace procesorů, pravděpodobně Snapdragon X2, zatímco hlavní novinky zůstanou ve verzi 25H2 a následném 26H2.",
+      "slug": "windows-11-26h1-is-coming-for-new-processors-only-",
+      "publishedAt": "2025-11-10T15:18:00+00:00",
+      "date": "2025-11-10 15:18:00",
+      "importance": 3,
+      "category": "windows",
+      "urlToImage": "https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg",
+      "url": "/tech-news/2025-11-10/windows-11-26h1-is-coming-for-new-processors-only-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 27 má přinést tři zásadní AI funkce: nový Siri, chytré vyhledávání a zdravotního asistenta",
+      "description": "Podle Marka Gurmana Apple v iOS 27 plánuje výrazné rozšíření Apple Intelligence: vizuálně přepracovaného asistenta Siri, AI nástroj pro vyhledávání na webu a novou službu Health+ s AI agentem pro správu zdraví uživatelů.",
       "slug": "ios-27-will-have-three-major-new-ai-features-per-r",
       "publishedAt": "2025-11-10T14:54:00+00:00",
       "date": "2025-11-10 14:54:00",
@@ -37,13 +225,13 @@
       },
       "companies": [
         "Apple",
-        "9to5Mac"
+        "OpenAI"
       ],
       "people": []
     },
     {
-      "title": "Apple rozšíří satelitní služby iPhonů o nové funkce a 5G NTN",
-      "description": "Apple podle zpráv připravuje rozšíření satelitních funkcí v iPhonech, včetně podpory 5G NTN standardu a zpřístupnění satelitního připojení pro vývojáře.",
+      "title": "Apple rozšiřuje satelitní služby pro iPhony a otevírá je vývojářům",
+      "description": "Apple podle zprávy plánuje rozšířit satelitní funkce iPhonů, zavést podporu 5G Non-Terrestrial Networks (NTN) a zpřístupnit satelitní konektivitu vývojářům třetích stran pro nové typy aplikací.",
       "slug": "apple-plans-new-features-for-iphone-satellite-serv",
       "publishedAt": "2025-11-10T14:04:31+00:00",
       "date": "2025-11-10 14:04:31",
@@ -62,13 +250,77 @@
       "people": []
     },
     {
-      "title": "Apple Watch SE 2 (44 mm) dočasně zlevněné na Amazonu o 32 %",
-      "description": "Apple Watch SE 2. generace (GPS, 44 mm) jsou na Amazonu k dispozici za 189,99 USD, což představuje slevu 32 % oproti původní ceně 279 USD. Nabídka je relevantní pro uživatele hledající levnější vstup do Apple ekosystému s důrazem na zdraví a bezpečnost.",
+      "title": "ViVeTool: Jak odemknout skryté funkce Windows 10 a 11",
+      "description": "Nástroj ViVeTool umožňuje uživatelům aktivovat skryté funkce ve Windows 10 a 11 ještě před jejich oficiálním zpřístupněním, a to pomocí stejných interních přepínačů (feature flags), které využívá Microsoft.",
+      "slug": "vivetool-unlock-windows-features-microsoft-doesnt-",
+      "publishedAt": "2025-11-10T14:00:00+00:00",
+      "date": "2025-11-10 14:00:00",
+      "importance": 3,
+      "category": "windows",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Windows-11-logo-on-soft-blue-white-background.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-11-10/vivetool-unlock-windows-features-microsoft-doesnt-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Je tento zachovalý Chevrolet Camaro R/S z roku 1977 za 13 500 dolarů výhodná koupě?",
+      "description": "Článek rozebírá nabídku na klasický Chevrolet Camaro R/S z roku 1977 jako dochovaný „survivor“ vůz s původním vzhledem a diskutuje, zda je požadovaná cena 13 500 dolarů přiměřená vzhledem k jeho stavu, historii a postavení na trhu.",
+      "slug": "at-13500-is-this-1977-chevy-camaro-rs-a-survivor-s",
+      "publishedAt": "2025-11-10T13:25:00+00:00",
+      "date": "2025-11-10 13:25:00",
+      "importance": 1,
+      "category": "automobily",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/at-13500-is-this-1977-chevy-camaro-rs-a-survivor-steal/l-intro-1762549916.jpg",
+      "url": "/tech-news/2025-11-10/at-13500-is-this-1977-chevy-camaro-rs-a-survivor-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google varuje před rizikovými VPN v souvislosti s plošnými blokacemi pornografie",
+      "description": "Rostoucí legislativní tlak na blokaci pornografických webů a povinné ověřování věku vede k masivnímu nárůstu používání VPN, na což Google reaguje varováním před falešnými a škodlivými VPN aplikacemi a možnými budoucími omezeními samotných VPN služeb.",
+      "slug": "porn-bangoogle-issues-new-warning-for-all-smartpho",
+      "publishedAt": "2025-11-10T12:45:00+00:00",
+      "date": "2025-11-10 12:45:00",
+      "importance": 3,
+      "category": "bezpečnost internetu",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f42444852e296b796bf05b7/0x0.jpg?format=jpg&crop=3317,1865,x529,y408,safe&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-11-10/porn-bangoogle-issues-new-warning-for-all-smartpho/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Google",
+        "Apple",
+        "Meta",
+        "TikTok",
+        "OnlyFans"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Apple Watch SE (2. generace) ve výrazné slevě na Amazonu před Black Friday",
+      "description": "Apple Watch SE 2 (GPS, 44mm) jsou na Amazonu dočasně zlevněny z 279 na 189,99 dolarů, což představuje přibližně 32% slevu. Nabídka se týká více barevných variant a cílí na uživatele hledající dostupnější vstup do ekosystému Apple.",
       "slug": "best-apple-watch-se-2-deal-save-8901-at-amazon-mas",
       "publishedAt": "2025-11-10T12:33:09+00:00",
       "date": "2025-11-10 12:33:09",
       "importance": 3,
-      "category": "wearables",
+      "category": "hardware",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/075RzwMb1gp7lcRhhnVv7GQ/hero-image.fill.size_1200x675.v1762775170.jpg",
       "url": "/tech-news/2025-11-10/best-apple-watch-se-2-deal-save-8901-at-amazon-mas/",
       "source": {
@@ -97,6 +349,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Timeextension.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nový AI framework dokáže přímo z dat odhalovat rovnice pro fyziku vesmíru",
+      "description": "Tým z Tsinghua University, Peking University a dalších čínských institucí vyvinul framework PhyE2E, který pomocí AI automatizovaně odvozuje symbolické fyzikální rovnice z neupravených měření, a to s využitím jazykových modelů, fyzikálních priorů a cíleného prohledávání.",
+      "slug": "new-ai-framework-can-uncover-space-physics-equatio",
+      "publishedAt": "2025-11-10T12:00:01+00:00",
+      "date": "2025-11-10 12:00:01",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-framework-can-u.jpg",
+      "url": "/tech-news/2025-11-10/new-ai-framework-can-uncover-space-physics-equatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Phys.Org"
       },
       "companies": [],
       "people": []
@@ -3659,26 +3929,6 @@
       "people": []
     },
     {
-      "title": "Předčasné slevy na Black Friday na Amazon Canada: Elektronika, domácnost a dárky se slevou až 88 %",
-      "description": "Amazon Canada spustil rozsáhlé předčasné slevy k Black Friday, které pokrývají elektroniku, kuchyňské vybavení, domácí potřeby, kosmetiku i hračky, s deklarovanými slevami až 88 %. Nabídky se rychle mění a jsou cílené na zákazníky, kteří chtějí nakoupit vánoční dárky s předstihem.",
-      "slug": "A-55-best-amazon-canada-early-black-friday-deals-y",
-      "publishedAt": "2025-11-05T16:34:08+00:00",
-      "date": "2025-11-05 16:34:08",
-      "importance": 1,
-      "category": "e-commerce",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A13ERCyiYaQiDWWvkvrnyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/9da9c410-ba64-11f0-9dfd-ce661a600376",
-      "url": "/tech-news/2025-11-05/A-55-best-amazon-canada-early-black-friday-deals-y/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Fair Human-Centric Image Benchmark: nový etický dataset pro hodnocení fairness v AI",
       "description": "Výzkumníci představili dataset FHIBE (Fair Human-Centric Image Benchmark), který je navržen tak, aby umožnil etické, transparentní a detailní testování předsudků v počítačovém vidění, zejména u systémů pracujících s lidskými obrazy.",
       "slug": "fair-human-centric-image-dataset-for-ethical-ai-be",
@@ -3942,249 +4192,6 @@
       "companies": [
         "Google",
         "Android Police"
-      ],
-      "people": []
-    },
-    {
-      "title": "Travis Pastrana představil nový Gymkhana vůz - Subaru Brat s 9500 otáčkami",
-      "description": "Třináctá série Gymkhana přináší speciálně upravený Subaru Brat s výkonem 670 koní, aktivní aerodynamikou a karoserií z uhlíkových vláken.",
-      "slug": "travis-pastranas-new-gymkhana-car-is-a-completely-",
-      "publishedAt": "2025-11-04T20:00:00+00:00",
-      "date": "2025-11-04 20:00:00",
-      "importance": 2,
-      "category": "motorsport",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/AknV1N/s1/gymkhana-subaru-brat-brataroo-9500-turbo.jpg",
-      "url": "/tech-news/2025-11-04/travis-pastranas-new-gymkhana-car-is-a-completely-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Motor1 "
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sora je nyní dostupná na Androidu v USA, Kanadě a dalších regionech",
-      "description": "Generátor videí založený na umělé inteligenci od OpenAI expanduje z iOS na Android v sedmi zemích. Aplikace si nese kontroverze ohledně deepfakes a autorských práv.",
-      "slug": "sora-is-now-available-on-android-in-the-us-canada-",
-      "publishedAt": "2025-11-04T19:35:51+00:00",
-      "date": "2025-11-04 19:35:51",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-      "url": "/tech-news/2025-11-04/sora-is-now-available-on-android-in-the-us-canada-/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung představil HDR10 Plus Advanced jako odpověď na Dolby Vision 2",
-      "description": "Samsung ukázal simulovanou ukázku nového formátu dynamického HDR s šesti funkcemi podobnými Dolby Vision 2. Technologie by měla být představena na CES 2026.",
-      "slug": "samsung-previews-hdr10-plus-advanced-its-answer-to",
-      "publishedAt": "2025-11-04T18:36:19+00:00",
-      "date": "2025-11-04 18:36:19",
-      "importance": 3,
-      "category": "televizory",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23123060/HDR10_GAMING_Standard_main2.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
-      "url": "/tech-news/2025-11-04/samsung-previews-hdr10-plus-advanced-its-answer-to/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Samsung",
-        "Dolby"
-      ],
-      "people": []
-    },
-    {
-      "title": "WhatsApp spouští dlouho očekávanou aplikaci pro Apple Watch",
-      "description": "Meta konečně vydala nativní aplikaci WhatsApp pro Apple Watch s podporou čtení zpráv, hlasových nahrávek a notifikací hovorů.",
-      "slug": "whatsapp-launches-long-awaited-apple-watch-app-tec",
-      "publishedAt": "2025-11-04T15:00:00+00:00",
-      "date": "2025-11-04 15:00:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/English_WhatsApp-apple-watch-2.png?resize=1200,675",
-      "url": "/tech-news/2025-11-04/whatsapp-launches-long-awaited-apple-watch-app-tec/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "WhatsApp",
-        "Apple",
-        "TechCrunch"
-      ],
-      "people": []
-    },
-    {
-      "title": "WhatsApp spouští aplikaci pro Apple Watch s řadou nových funkcí",
-      "description": "Meta vydala plnohodnotnou aplikaci WhatsApp pro Apple Watch s podporou hlasových zpráv, historie konverzací a lepšího zobrazení médií. Aplikace vyžaduje watchOS 10 a Apple Watch Series 4 nebo novější.",
-      "slug": "whatsapp-launches-apple-watch-app-packed-with-new-",
-      "publishedAt": "2025-11-04T15:00:00+00:00",
-      "date": "2025-11-04 15:00:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-apple-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/whatsapp-launches-apple-watch-app-packed-with-new-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "WhatsApp",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vivo X300 Ultra údajně zamíří na globální trh, i když nepřekoná prodeje iPhonu či Galaxy",
-      "description": "Čínský výrobce Vivo by mohl poprvé uvést svůj vlajkový model X300 Ultra i mimo domácí trh, přestože jde zatím pouze o spekulace.",
-      "slug": "vivo-x300-ultras-global-debut-is-great-even-though",
-      "publishedAt": "2025-11-04T14:55:56+00:00",
-      "date": "2025-11-04 14:55:56",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175460-wide-two_1200/Vivo-X300-Ultras-global-debut-is-great-even-though-it-surely-wont-outsell-the-iPhone-or-the-Galaxy.jpg",
-      "url": "/tech-news/2025-11-04/vivo-x300-ultras-global-debut-is-great-even-though/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Vivo",
-        "Apple",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "MacBook Air 13\" s M3 čipem a 24GB RAM za 999 dolarů – o 300 dolarů levněji než srovnatelný model s M4",
-      "description": "Prodejce B&H nabízí loňský MacBook Air s čipem M3, 24GB RAM a 512GB SSD za 999 dolarů, což je o 500 dolarů méně než původní cena a o 300 dolarů levněji než nový model s M4 čipem.",
-      "slug": "score-apples-13-inch-24gb-m3-macbook-air-at-500-of",
-      "publishedAt": "2025-11-04T13:19:00+00:00",
-      "date": "2025-11-04 13:19:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/02/M3-MacBook-Air-15-inch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-04/score-apples-13-inch-24gb-m3-macbook-air-at-500-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "companies": [
-        "Apple",
-        "Best Buy"
-      ],
-      "people": []
-    },
-    {
-      "title": "Exkluzivní slevové nabídky na produkty Shark Beauty a BonBon",
-      "description": "Americký portál TODAY.com nabízí slevové kódy na spotřební zboží včetně vlasových nástrojů a cukrovinek se slevami až 40 %.",
-      "slug": "shop-exclusive-holiday-gifting-deals-on-shark-beau",
-      "publishedAt": "2025-11-04T12:55:00+00:00",
-      "date": "2025-11-04 12:55:00",
-      "importance": 1,
-      "category": "e-commerce",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-10/251020-target-bf-chassie-post-oo-main-c96a0b.jpg",
-      "url": "/tech-news/2025-11-04/shop-exclusive-holiday-gifting-deals-on-shark-beau/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TODAY"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 6 údajně dorazí ve dvou verzích, varianta Pro má dostat exkluzivní podporu LPDDR6",
-      "description": "Nové spekulace naznačují, že Qualcomm připravuje čipset Snapdragon 8 Elite Gen 6 ve dvou variantách, přičemž verze Pro má nabídnout pokročilejší specifikace včetně podpory paměti LPDDR6.",
-      "slug": "snapdragon-8-elite-gen-6-rumored-to-arrive-in-two-",
-      "publishedAt": "2025-11-04T08:42:00+00:00",
-      "date": "2025-11-04 08:42:00",
-      "importance": 2,
-      "category": "mobilní procesory",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Snapdragon-8-Elite-Gen-6.jpg",
-      "url": "/tech-news/2025-11-04/snapdragon-8-elite-gen-6-rumored-to-arrive-in-two-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Qualcomm"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung čelí obtížnému rozhodnutí ohledně Galaxy S26",
-      "description": "Série Galaxy S26 má být představena v únoru v San Francisku, ale kolem zařízení se objevují spekulace o kontroverzních rozhodnutích výrobce.",
-      "slug": "samsungs-difficult-galaxy-s26-decision-probably-wo",
-      "publishedAt": "2025-11-04T08:12:00+00:00",
-      "date": "2025-11-04 08:12:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Ultra-Samsung-apps-1200x675.jpg",
-      "url": "/tech-news/2025-11-04/samsungs-difficult-galaxy-s26-decision-probably-wo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "YouTube zrušil účet technologického tvůrce s 350 tisíci odběrateli kvůli chybě AI",
-      "description": "Technologický YouTuber Enderman přišel o účet s více než 350 tisíci odběrateli poté, co ho automatizovaný systém YouTube nesprávně spojil s kanálem porušujícím autorská práva.",
-      "slug": "tech-youtuber-irate-as-ai-wrongfully-terminates-ac",
-      "publishedAt": "2025-11-04T03:59:08+00:00",
-      "date": "2025-11-04 03:59:08",
-      "importance": 3,
-      "category": "sociální média",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/04/YouTube-AI-termination.jpg",
-      "url": "/tech-news/2025-11-04/tech-youtuber-irate-as-ai-wrongfully-terminates-ac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dexerto"
-      },
-      "companies": [
-        "YouTube"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung zveřejnil detaily listopadové bezpečnostní aktualizace pro rok 2025",
-      "description": "Samsung publikoval informace o listopadové bezpečnostní záplatě pro zařízení Galaxy dříve než obvykle, po dokončení většiny nasazení One UI 8.0.",
-      "slug": "samsung-monthly-updates-november-2025-security-pat",
-      "publishedAt": "2025-11-04T00:18:00+00:00",
-      "date": "2025-11-04 00:18:00",
-      "importance": 3,
-      "category": "bezpečnostní aktuali",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/06/Galaxy-A55-seamless-software-updates.jpg",
-      "url": "/tech-news/2025-11-04/samsung-monthly-updates-november-2025-security-pat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung"
       ],
       "people": []
     }
