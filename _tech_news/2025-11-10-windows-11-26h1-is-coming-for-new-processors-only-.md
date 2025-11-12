@@ -1,12 +1,13 @@
 ---
 author: Marisa Aigen
-category: windows 11
+category: operační systémy
 companies:
 - Microsoft
 date: '2025-11-10 15:18:00'
-description: Microsoft chystá verzi Windows 11 26H1 zaměřenou primárně na podporu
-  nových procesorů, zejména příští generace čipů Qualcomm Snapdragon; hlavní novinky
-  pro většinu uživatelů zůstanou ve verzi 25H2 a plánovaném 26H2.
+description: Microsoft chystá verzi Windows 11 26H1, která nebude běžným funkčním
+  updatem, ale cíleným vydáním pro nové typy procesorů, pravděpodobně nadcházející
+  generaci čipů Qualcomm Snapdragon. Pro většinu uživatelů zůstává hlavní větví 25H2
+  a následná 26H2.
 importance: 3
 layout: tech_news_article
 original_title: Windows 11 26H1 is coming ... for new processors only - theregister.com
@@ -16,35 +17,35 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Windows 11 26H1 míří na nový hardware, běžným uživatelům přinese minimum změn
+title: Windows 11 26H1 míří na trh jen pro nové procesory
 url: https://www.theregister.com/2025/11/10/microsoft_breaks_new_ground_with/
 urlToImage: https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg
 urlToImageBackup: https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg
 ---
 
 ## Souhrn
-Microsoft potvrdil přípravu verze Windows 11 26H1, která nebude klasickou uživatelskou aktualizací, ale cíleným vydáním zaměřeným na podporu konkrétních nových procesorů. Běžní uživatelé by většinu novinek měli nadále očekávat v hlavních vydáních 25H2 a plánovaném 26H2.
+Microsoft potvrdil přípravu verze Windows 11 26H1, která je určena primárně pro podporu specifických procesorů a nepřináší běžným uživatelům nové funkce. Jde o technickou aktualizaci zaměřenou na nové platformy, zatímco hlavním směrem vývoje funkcí zůstává 25H2 a plánovaná 26H2.
 
 ## Klíčové body
-- Windows 11 26H1 je primárně technická aktualizace pro podporu "specific silicon", pravděpodobně nové generace čipů Qualcomm Snapdragon.
-- Build 28000 v kanálu Canary zavádí novou číselnou řadu, oddělenou od 26xxx/27xxx v Dev a Beta.
-- 26H1 nebude plnohodnotnou funkční aktualizací k 25H2; hlavní funkce zůstávají v ročním H2 cyklu.
-- Nové funkce se budou testovat v Dev a Beta kanálech, zatímco Canary se soustředí na změny platformy.
-- Microsoft tím signalizuje snahu vyhnout se návratu k problematickému modelu dvou velkých vydání ročně.
+- Windows 11 26H1 je zaměřená na podporu konkrétního nového hardwaru, nikoli na funkční novinky pro širokou veřejnost.
+- Build 28000 v kanálu Canary naznačuje nový cyklus verzování oddělený od Dev a Beta (27xxx a 26xxx).
+- Pravděpodobným cílem jsou nové čipy Qualcomm Snapdragon X2 Elite a Elite Extreme plánované pro zařízení v první polovině roku 2026.
+- Microsoft deklaruje, že 25H2 zůstává primárním místem pro nové funkce a nadále drží roční cyklus velkých aktualizací.
+- Rozhodnutí má omezit chaos a problémy spojené s dřívějšími dvěma velkými aktualizacemi ročně, známými z éry Windows 10.
 
 ## Podrobnosti
-Microsoft v rámci programu Windows Insider zpřístupnil build 28000 v Canary kanálu a potvrdil, že označení 26H1 představuje zvláštní vydání Windows 11 zaměřené na úpravy platformy pro konkrétní typy nového hardwaru. Nejpravděpodobnějším cílem jsou chystané čipy Qualcomm Snapdragon X2 Elite a X2 Elite Extreme, určené pro zařízení s Windows v roce 2026. Tyto čipy navazují na předchozí generaci ARM procesorů zaměřených na výkonnost při nízké spotřebě a integraci AI akcelerace.
+Windows 11 verze 26H1 není standardní funkční vydání, ale cílená platformní aktualizace určená pro integraci a optimalizaci nového hardwaru. Microsoft výslovně uvádí, že nejde o „feature update“ pro 25H2. Prakticky to znamená, že pro běžné podnikové i domácí uživatele se nic zásadního nemění: jejich hlavní verzí zůstává 25H2 a následný velký balík novinek se očekává až v 26H2.
 
-Podle Microsoftu 26H1 není funkční aktualizací k verzi 25H2 a nepočítá se s tím, že by přinesla zásadní změny rozhraní nebo nové uživatelské funkce. Slouží primárně jako infrastrukturní vrstva: úpravy jádra systému, power managementu, ovladačů, plánovače úloh a podpory SoC, aby nová zařízení mohla být uvedena na trh s optimalizovaným Windows bez destabilizace existující základny.
+Build 26H1 vstupuje nejprve do Windows Insider Canary, což je kanál určený pro nejčasnější testování hlubokých systémových změn. Nové číslování buildů (28000) odděluje tento směr vývoje od běžných Dev (27xxx) a Beta (26xxx) větví. To je signál, že Microsoft chce striktněji rozlišovat mezi experimentálními platformními úpravami a běžnými uživatelsky orientovanými aktualizacemi.
 
-Pro koncové uživatele a firmy to znamená, že většina počítačů zůstane na 25H2, případně následném 26H2, kde se očekává pokračování ročního modelu velkých vydání v druhé polovině roku. Nové funkce, změny uživatelského rozhraní a rozšíření v oblasti bezpečnosti, správy či AI integrace budou nadále testovány v Dev a Beta kanálech, zatímco Canary se stává prostorem pro nízkoúrovňové změny s vyšším rizikem nestability.
+Nejpravděpodobnějším důvodem existence 26H1 je integrace nové generace procesorů Qualcomm Snapdragon X2 Elite a Elite Extreme. Qualcomm, výrobce mobilních a ARM čipů, oznámil tyto platformy jako pokračování dosavadní řady pro notebooky se zaměřením na vyšší výkon, efektivitu a akceleraci AI úloh přímo na zařízení. Vydání prvních zařízení se očekává v první polovině roku 2026. Microsoft tak potřebuje včas zajistit plnou podporu: optimalizaci jádra OS pro ARM, správu napájení, ovladače, kompatibilitu aplikací a integraci akcelerátorů pro AI a multimédia.
 
-Tento přístup je reakcí na dřívější problémy Windows 10, kdy agresivní tempo dvou velkých aktualizací ročně vedlo k závažným chybám včetně ztráty dat. Microsoft se nyní snaží formálně oddělit hardwarově orientované úpravy od uživatelských funkcí tak, aby výrobci čipů a zařízení měli včasnou podporu, aniž by se destabilizovalo produkční prostředí.
+Pro IT oddělení to znamená, že 26H1 bude relevantní hlavně při plánování nových podnikových zařízení s ARM procesory. Pro současný desktopový ekosystém x86 se tím nic zásadního nemění, upgrade na 26H1 nebude cílen jako masový distribučný balík.
 
 ## Proč je to důležité
-Rozdělení na 26H1 jako hardwarově cílené vydání a 26H2 jako hlavní uživatelskou aktualizaci ukazuje, jak Microsoft ladí rovnováhu mezi potřebami ekosystému výrobců čipů a požadavky podnikových zákazníků na stabilitu. Pro průmysl to znamená: rychlejší oficiální podporu nových generací ARM a dalších platforem bez nutnosti riskovat neotestované funkce na produkčních strojích.
+Tento krok ukazuje, že Microsoft se snaží oddělit hardware-specifické změny od hlavního uživatelského cyklu a vyhnout se opakování problémů, které vznikaly při dvou velkých vydáních ročně u Windows 10, včetně nekvalitního testování a kritických chyb. Zároveň je to další potvrzení strategického tlaku na ARM platformy a úzké spolupráce s Qualcommem v oblasti notebooků a zařízení s nízkou spotřebou a integrovanou AI akcelerací.
 
-Pro firmy je pozitivní, že Microsoft explicitně potvrzuje pokračování ročního cyklu hlavních aktualizací a omezuje riziko návratu k neefektivnímu režimu častých velkých změn. Zároveň je zřejmé, že Windows 11 se dále posouvá směrem k optimalizaci pro energeticky úsporné a AI-orientované procesory, což bude v následujících letech určovat parametry firemních notebooků, tenkých klientů a zařízení pro práci s náročnější AI zátěží. Tento krok není průlomový, ale je důležitý pro architekturu a predikovatelnost vývoje Windows i plánování nákupů hardwaru.
+Pro výrobce zařízení je 26H1 signálem, že Microsoft poskytne oficiální, stabilní základ pro nové generace čipů ještě před hlavní funkcionalitou v 26H2. Pro podniky a profesionální uživatele je důležité, že funkční stabilita a roční kadence zůstávají, a hardware-specifické experimenty se přesouvají do izolovanějších větví systému. V širším kontextu to potvrzuje trend, kdy se Windows stává více modulární platformou, kde se podpora nového hardwaru a AI schopností může vyvíjet odděleně od běžných uživatelských funkcí.
 
 ---
 

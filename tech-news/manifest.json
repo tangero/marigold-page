@@ -1,10 +1,30 @@
 {
-  "generated": "2025-11-12T04:24:11.184993+00:00",
+  "generated": "2025-11-12T08:24:20.886783+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Výzkumníci oddělili v AI sítích paměťové a logické dráhy",
-      "description": "Nová studie startupu Goodfire.ai ukazuje, že schopnost modelů AI přesně reprodukovat tréninková data je oddělitelná od jejich logického a aritmetického uvažování, což otevírá cestu k cílenému omezování memorování bez ztráty užitečných schopností.",
+      "title": "Slabší prodeje údajně odkládají další generaci iPhone Air",
+      "description": "Podle zprávy The Information má Apple kvůli slabším prodejům prvního iPhone Air odložit uvedení druhé generace z původně plánovaného podzimu 2026 na jaro 2027.",
+      "slug": "weak-sales-delay-next-iphone-air-model-report-clai",
+      "publishedAt": "2025-11-11T03:20:29+00:00",
+      "date": "2025-11-11 03:20:29",
+      "importance": 2,
+      "category": "smartphony",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DRXGGB1FEmC9VU9nc7szm/hero-image.fill.size_1200x675.v1762830550.jpg",
+      "url": "/tech-news/2025-11-11/weak-sales-delay-next-iphone-air-model-report-clai/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výzkumníci oddělili v AI sítích paměťové a logické schopnosti",
+      "description": "Nový výzkum startupu Goodfire.ai ukazuje, že v jazykových modelech existují oddělené neuronové dráhy pro zapamatování textu a pro obecné uvažování, což umožňuje cíleně omezit memorování bez zásadního dopadu na schopnost řešit úlohy.",
       "slug": "researchers-isolate-memorization-from-reasoning-in",
       "publishedAt": "2025-11-10T23:06:42+00:00",
       "date": "2025-11-10 23:06:42",
@@ -17,12 +37,18 @@
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "companies": [],
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "DeepMind",
+        "Google",
+        "Microsoft"
+      ],
       "people": []
     },
     {
-      "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady pro uživatele Maců",
-      "description": "Pět let po přechodu od Intel procesorů ukazuje srovnání čipů M1 až M5 výrazný nárůst výkonu CPU, GPU, AI a efektivity, který potvrzuje dlouhodobou strategii Applu pro plně integrovaný hardware a software v Macích.",
+      "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady na trh počítačů",
+      "description": "Apple po pěti letech shrnuje vývoj vlastních čipů od M1 po M5, ukazuje násobný nárůst výkonu CPU, GPU a AI a potvrzuje definitivní odklon od architektury Intel v Macích.",
       "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
       "publishedAt": "2025-11-10T21:08:04+00:00",
       "date": "2025-11-10 21:08:04",
@@ -37,19 +63,18 @@
       },
       "companies": [
         "Apple",
-        "Intel"
+        "Intel",
+        "Microsoft"
       ],
-      "people": [
-        "Tim Cook"
-      ]
+      "people": []
     },
     {
-      "title": "Google postupně nahrazuje Google Assistant na chytrých zařízeních Gemini Home, rollout provází problémy",
-      "description": "Google nasazuje nový hlasový asistent Gemini na chytré reproduktory a displeje Google Home a Nest. Přechod je pomalý a nejasný, objevují se problémy s porozuměním příkazům i ovládáním chytré domácnosti.",
+      "title": "Google postupně nahrazuje Google Assistant novým Gemini Home, reakce uživatelů jsou smíšené",
+      "description": "Google začal na chytrých reproduktorech a displejích Google Home nasazovat asistenta Gemini jako výchozí hlasové rozhraní, ale první uživatelé hlásí problémy se spolehlivostí a ovládáním chytré domácnosti.",
       "slug": "google-says-its-confusing-gemini-home-rollout-is-g",
       "publishedAt": "2025-11-10T20:02:57+00:00",
       "date": "2025-11-10 20:02:57",
-      "importance": 4,
+      "importance": 3,
       "category": "ai",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
       "url": "/tech-news/2025-11-10/google-says-its-confusing-gemini-home-rollout-is-g/",
@@ -60,13 +85,14 @@
       },
       "companies": [
         "Google",
-        "The Verge"
+        "Google Assistant",
+        "Gemini Home"
       ],
       "people": []
     },
     {
-      "title": "CISA nařizuje povinnou záplatu kritické Samsung zero-day zneužívané spywarem LandFall",
-      "description": "Americká CISA nařídila federálním úřadům okamžitě opravit kritickou zranitelnost v telefonech Samsung, která byla aktivně zneužívána ke skrytému nasazení spyware LandFall přes WhatsApp. Útok umožňuje vzdálené spuštění kódu a rozsáhlé sledování uživatelů včetně přístupu k hovorům, zprávám, poloze a souborům.",
+      "title": "CISA nařizuje americkým úřadům záplatovat zranitelnost Samsungu zneužívanou spywarovým útokem LandFall",
+      "description": "Americká agentura CISA zařadila kritickou zranitelnost v telefonech Samsung (CVE-2025-21042) mezi aktivně zneužívané chyby a nařídila federálním úřadům okamžitou aktualizaci, protože slouží k tichému nasazení spywaru LandFall přes WhatsApp.",
       "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
       "publishedAt": "2025-11-10T20:00:34+00:00",
       "date": "2025-11-10 20:00:34",
@@ -82,7 +108,9 @@
       "companies": [
         "CISA",
         "Samsung",
-        "WhatsApp"
+        "WhatsApp",
+        "Google",
+        "Microsoft"
       ],
       "people": []
     },
@@ -107,8 +135,8 @@
       "people": []
     },
     {
-      "title": "Apple potvrzuje vydání iOS 26.2: přináší nové funkce a širší podporu pro iPhone",
-      "description": "Apple neobvykle dopředu potvrzuje prosincové vydání aktualizace iOS 26.2, která má nabídnout nové funkce, včetně rozšíření Live Translation na AirPods v EU, a podporu pro modely iPhone 11 až iPhone 17.",
+      "title": "Apple potvrzuje vydání iOS 26.2 v prosinci: nové funkce a podpora pro iPhone 11 až iPhone 17",
+      "description": "Apple neobvykle předem naznačil termín vydání iOS 26.2, které dorazí v prosinci a přinese nové funkce pro širokou řadu zařízení od iPhone 11 po iPhone 17, včetně rozšíření Live Translation na AirPods v EU.",
       "slug": "apple-ios-262-major-new-iphone-update-release-conf",
       "publishedAt": "2025-11-10T19:00:00+00:00",
       "date": "2025-11-10 19:00:00",
@@ -122,7 +150,9 @@
         "name": "Forbes"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "Google",
+        "Microsoft"
       ],
       "people": [
         "Tim Cook"
@@ -167,8 +197,8 @@
       "people": []
     },
     {
-      "title": "Mac mini s čipem M4: levná a výkonná alternativa k Windows mini PC",
-      "description": "Nový Mac mini s čipem M4 zpochybňuje smysl většiny Windows mini PC: při ceně kolem 499 dolarů nabízí výrazně vyšší výkon, efektivitu a integrované AI funkce v kompaktním stolním provedení.",
+      "title": "Mac mini s čipem M4 cenově útočí na Windows mini PC a nabízí vyšší výkon",
+      "description": "Aktualizovaný Mac mini s čipem M4, 10jádrovým CPU, 10jádrovým GPU a 16 GB jednotné paměti se v akční ceně výrazně staví proti Windows mini PC a ukazuje limity x86 platforem v kompaktním desktopu.",
       "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
       "publishedAt": "2025-11-10T17:15:22+00:00",
       "date": "2025-11-10 17:15:22",
@@ -189,7 +219,7 @@
     },
     {
       "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s novým modulem fotoaparátu",
-      "description": "Nové rendery naznačují, že dříve údajně zrušený Samsung Galaxy S26 Plus nakonec dorazí s upraveným modulem fotoaparátu a tradičnějším zařazením v řadě S26 místo plánovaného modelu Edge.",
+      "description": "Úniky renderů naznačují, že Samsung Galaxy S26 Plus nakonec dorazí na trh s upraveným modulem fotoaparátu a zachováním tradičního portfolia, místo dříve spekulovaného modelu Edge.",
       "slug": "samsung-galaxy-s26-plus-reappears-in-renders-with-",
       "publishedAt": "2025-11-10T16:42:01+00:00",
       "date": "2025-11-10 16:42:01",
@@ -314,8 +344,8 @@
       ]
     },
     {
-      "title": "Aby stroje dokazovaly matematiku, musíme z ní udělat logickou hádanku",
-      "description": "Výzkumník Marijn Heule převádí komplexní matematické problémy do podoby SAT úloh podobných sudoku, které řeší specializované algoritmy. Tento přístup otevírá cestu k důkazům mimo dosah lidské intuice a k propojení symbolických metod s moderní AI.",
+      "title": "Jak proměnit matematiku v logickou hádanku: stroje jako autoři důkazů",
+      "description": "Výzkumník Marijn Heule ukazuje, jak převádět složité matematické problémy do podoby SAT úloh podobných sudoku, které lze řešit výpočetně. V kombinaci se současnými AI modely může tento přístup posunout automatizované dokazování za hranice lidských schopností.",
       "slug": "to-have-machines-make-math-proofs-turn-them-into-a",
       "publishedAt": "2025-11-10T15:29:38+00:00",
       "date": "2025-11-10 15:29:38",
@@ -334,13 +364,13 @@
       ]
     },
     {
-      "title": "Windows 11 26H1 míří na nový hardware, běžným uživatelům přinese minimum změn",
-      "description": "Microsoft chystá verzi Windows 11 26H1 zaměřenou primárně na podporu nových procesorů, zejména příští generace čipů Qualcomm Snapdragon; hlavní novinky pro většinu uživatelů zůstanou ve verzi 25H2 a plánovaném 26H2.",
+      "title": "Windows 11 26H1 míří na trh jen pro nové procesory",
+      "description": "Microsoft chystá verzi Windows 11 26H1, která nebude běžným funkčním updatem, ale cíleným vydáním pro nové typy procesorů, pravděpodobně nadcházející generaci čipů Qualcomm Snapdragon. Pro většinu uživatelů zůstává hlavní větví 25H2 a následná 26H2.",
       "slug": "windows-11-26h1-is-coming-for-new-processors-only-",
       "publishedAt": "2025-11-10T15:18:00+00:00",
       "date": "2025-11-10 15:18:00",
       "importance": 3,
-      "category": "windows 11",
+      "category": "operační systémy",
       "urlToImage": "https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg",
       "url": "/tech-news/2025-11-10/windows-11-26h1-is-coming-for-new-processors-only-/",
       "source": {
@@ -375,8 +405,8 @@
       "people": []
     },
     {
-      "title": "Apple rozšíří satelitní služby v iPhone: nové funkce, 5G NTN a přístup pro vývojáře",
-      "description": "Apple plánuje rozšířit satelitní funkce iPhonů o nové typy komunikace, podporu 5G NTN a otevření rozhraní pro vývojáře, což může z iPhonu udělat běžně využitelný komunikační nástroj mimo dosah mobilních sítí.",
+      "title": "Apple rozšíří satelitní funkce iPhonů o nové služby a podporu 5G NTN",
+      "description": "Apple podle zpráv připravuje rozšíření satelitních služeb v iPhonech, včetně podpory 5G NTN a otevření rozhraní pro vývojáře, což může změnit způsob nouzové komunikace i běžných datových služeb v oblastech bez pokrytí.",
       "slug": "apple-plans-new-features-for-iphone-satellite-serv",
       "publishedAt": "2025-11-10T14:04:31+00:00",
       "date": "2025-11-10 14:04:31",
@@ -392,9 +422,7 @@
       "companies": [
         "Apple"
       ],
-      "people": [
-        "Tim Cook"
-      ]
+      "people": []
     },
     {
       "title": "ViVeTool: Jak odemknout skryté funkce ve Windows 10 a 11",
@@ -501,8 +529,8 @@
       "people": []
     },
     {
-      "title": "Nový AI framework dokáže z neupravených dat odhalovat rovnice vesmírné fyziky",
-      "description": "Tým z Tsinghua University, Peking University a dalších institucí představil framework PhyE2E, který pomocí AI automaticky odvozuje fyzikální zákony a rovnice z neupravených měření v oblasti vesmírné fyziky.",
+      "title": "Nový AI framework automaticky odhaluje fyzikální rovnice z kosmických dat",
+      "description": "Výzkumníci z Tsinghua University a Peking University představili framework PhyE2E, který kombinuje generativní modely, symbolickou regresi a fyzikální omezení k automatickému odvozování fyzikálních rovnic přímo z dat vesmírných měření.",
       "slug": "new-ai-framework-can-uncover-space-physics-equatio",
       "publishedAt": "2025-11-10T12:00:01+00:00",
       "date": "2025-11-10 12:00:01",
@@ -514,6 +542,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Phys.Org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Přečetla jsem si soukromé zprávy zaměstnanců. Bylo to horší, než jsem čekala",
+      "description": "Manažerka malého obchodního týmu získá přístup k účtu bývalého zaměstnance a zjistí, že on a její současná podřízená ji v soukromých zprávách dlouhodobě ponižovali. Řeší dilema mezi profesionálním odstupem, osobním zraňujícím zážitkem a otázkou, zda situaci otevřeně řešit.",
+      "slug": "help-i-read-my-employees-private-messages-it-was-w",
+      "publishedAt": "2025-11-10T11:00:00+00:00",
+      "date": "2025-11-10 11:00:00",
+      "importance": 1,
+      "category": "práce",
+      "urlToImage": "https://compote.slate.com/images/0d5dc64d-5c10-46f8-bbb3-fb8fa718f500.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "url": "/tech-news/2025-11-10/help-i-read-my-employees-private-messages-it-was-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slate Magazine"
       },
       "companies": [],
       "people": []
@@ -3701,30 +3747,6 @@
       "people": []
     },
     {
-      "title": "Spor Disney a YouTube TV zasahuje Movies Anywhere: Google přestává synchronizovat digitální filmy",
-      "description": "Probíhající spor mezi Disney a Googlem nezasahuje jen lineární kanály na YouTube TV, ale nově i službu Movies Anywhere, kde Google Play a YouTube přestaly podporovat synchronizaci digitálních filmových nákupů.",
-      "slug": "disney-youtube-tv-feud-extends-to-movies-anywhere-",
-      "publishedAt": "2025-11-05T19:58:00+00:00",
-      "date": "2025-11-05 19:58:00",
-      "importance": 3,
-      "category": "streamovací služby",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/movies-anywhere-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/disney-youtube-tv-feud-extends-to-movies-anywhere-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Disney",
-        "YouTube",
-        "Google",
-        "Movies Anywhere",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Google integruje Gemini do Map: chytrější navigace a asistované vyhledávání na cestách",
       "description": "Google rozšiřuje AI model Gemini do aplikace Mapy na Androidu a iOS a přidává navigaci podle orientačních bodů, proaktivní dopravní upozornění a pokročilé vyhledávání podniků a restaurací.",
       "slug": "google-maps-major-gemini-update-makes-hitting-the-",
@@ -3939,30 +3961,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fair Human-Centric Image Benchmark: nový etický dataset pro hodnocení fairness v AI",
-      "description": "Výzkumníci představili dataset FHIBE (Fair Human-Centric Image Benchmark), který je navržen tak, aby umožnil etické, transparentní a detailní testování předsudků v počítačovém vidění, zejména u systémů pracujících s lidskými obrazy.",
-      "slug": "fair-human-centric-image-dataset-for-ethical-ai-be",
-      "publishedAt": "2025-11-05T16:22:08+00:00",
-      "date": "2025-11-05 16:22:08",
-      "importance": 3,
-      "category": "ai etika",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09716-2/MediaObjects/41586_2025_9716_Fig1_HTML.png",
-      "url": "/tech-news/2025-11-05/fair-human-centric-image-dataset-for-ethical-ai-be/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [
-        "OpenAI",
-        "Google",
-        "Microsoft",
-        "Meta",
-        "Amazon"
       ],
       "people": []
     },
