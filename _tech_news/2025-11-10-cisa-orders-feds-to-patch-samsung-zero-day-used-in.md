@@ -5,13 +5,11 @@ companies:
 - CISA
 - Samsung
 - WhatsApp
-- Google
-- Apple
 date: '2025-11-10 20:00:34'
-description: Americká agentura CISA zařadila kritickou zranitelnost v telefonech Samsung
-  (CVE-2025-21042) mezi aktivně zneužívané chyby a nařídila federálním úřadům urychlenou
-  instalaci opravy poté, co byla využita ke špehování přes WhatsApp pomocí spywaru
-  LandFall.
+description: Americká CISA zařadila kritickou zranitelnost CVE-2025-21042 v zařízeních
+  Samsung mezi aktivně zneužívané chyby a nařídila federálním úřadům okamžitě instalovat
+  aktualizace, protože exploit umožňuje vzdálené nasazení špionážního spyware LandFall
+  přes WhatsApp.
 importance: 4
 layout: tech_news_article
 original_title: CISA orders feds to patch Samsung zero-day used in spyware attacks
@@ -22,40 +20,40 @@ source:
   emoji: 📰
   id: null
   name: BleepingComputer
-title: CISA nařizuje federálním úřadům okamžitě opravit zero-day zranitelnost Samsung
-  využívanou spywarem LandFall
+title: CISA nařizuje urychlené záplatování kritické zero-day zranitelnosti Samsungu
+  zneužívané špionážním spywarem
 url: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/
 urlToImage: https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg
 urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg
 ---
 
 ## Souhrn
-Americká agentura CISA (Cybersecurity and Infrastructure Security Agency) nařídila federálním civilním úřadům neodkladně opravit kritickou zero-day zranitelnost v telefonech Samsung, označenou jako CVE-2025-21042. Tato chyba byla aktivně zneužívána ke vzdálené instalaci spywaru LandFall přes škodlivé DNG obrázky ve WhatsApp a umožňovala útočníkům plný přístup k datům uživatele.
+Americká agentura CISA nařídila federálním institucím bezodkladně opravit kritickou zero-day zranitelnost CVE-2025-21042 v telefonech Samsung, která byla využívána k nasazení spyware LandFall přes škodlivé DNG obrázky zasílané přes WhatsApp. Útok umožňoval vzdálené spuštění kódu, skryté sledování uživatele a získání rozsáhlého množství citlivých dat z kompromitovaných zařízení.
 
 ## Klíčové body
-- Kritická zranitelnost CVE-2025-21042 v knihovně libimagecodec.quram.so umožňuje vzdálené spuštění kódu na zařízeních se systémem Android 13 a novějším.
-- Chyba byla využívána minimálně od července 2024 ke špehovacím kampaním prostřednictvím spywaru LandFall doručovaného přes WhatsApp.
-- Cílila na vybrané modely Samsung Galaxy S22, S23, S24, Z Fold 4 a Z Flip 4, především v regionech Blízkého východu a severní Afriky.
-- CISA zařadila CVE-2025-21042 na seznam Known Exploited Vulnerabilities a nařídila federálním úřadům povinnou aktualizaci.
-- Analýza naznačuje podobnosti s komerčním špehovacím ekosystémem (NSO Group, Variston, Cytrox, Quadream), ale LandFall zatím nelze spolehlivě přiřadit konkrétnímu aktérovi.
+- Kritická zranitelnost CVE-2025-21042 v knihovně libimagecodec.quram.so umožňuje vzdálené spuštění kódu na zařízeních Samsung s Androidem 13 a novějšími.
+- Chyba byla zneužívána minimálně od července 2024 k doručování spyware LandFall přes škodlivé DNG obrázky v aplikaci WhatsApp.
+- LandFall umožňuje přístup k historii prohlížení, fotografiím, kontaktům, SMS, hovorům, souborům, poloze a nahrávání zvuku.
+- CISA zařadila CVE-2025-21042 na seznam Known Exploited Vulnerabilities a nařídila federálním úřadům rychlou aplikaci záplat.
+- Indikace naznačují možnou vazbu na státem sponzorované nebo komerční špionážní aktéry, ale bez jednoznačného přiřazení.
 
 ## Podrobnosti
-Podstatou incidentu je chyba typu out-of-bounds write v knihovně libimagecodec.quram.so, kterou Samsung používá pro zpracování obrázků. Útočník ji mohl zneužít k vzdálenému spuštění škodlivého kódu na zranitelných telefonech s Androidem 13 a vyšším. Praktická exploatace probíhala přes WhatsApp: oběť obdržela speciálně upravený DNG obrázek, jehož zpracování spustilo řetězec útoku vedoucí k instalaci spywaru LandFall bez nutnosti zásahu uživatele.
+Zranitelnost CVE-2025-21042 je out-of-bounds write chyba v knihovně libimagecodec.quram.so, kterou Samsung používá pro zpracování obrázků ve svých telefonech. Tento typ chyby umožňuje útočníkovi zapisovat data mimo vyhrazenou paměť a tím získat možnost spustit vlastní kód na cílovém zařízení. V praxi to znamená, že útočník může připravit speciálně upravený obrázek, jehož pouhé zpracování systémem vede ke kompromitaci zařízení.
 
-LandFall je sofistikovaný špehovací software, který po úspěšné instalaci umožňuje přístup k historii prohlížení, fotkám, kontaktům, SMS, seznamu hovorů, souborům a geolokačním datům. Umí také nahrávat hovory a okolní zvuk, což z něj dělá nástroj pro dlouhodobé sledování konkrétních cílů. Analýza bezpečnostního týmu Unit 42 společnosti Palo Alto Networks (specializuje se na síťovou bezpečnost, detekci hrozeb a analýzu malwaru) ukazuje, že kampaně mířily zejména na uživatele v Iráku, Íránu, Turecku a Maroku.
+Podle analýzy bezpečnostního týmu Unit 42 (Palo Alto Networks, společnost specializující se na síťovou a cloudovou bezpečnost) byla zranitelnost aktivně využívána nejpozději od července 2024. Útočníci doručovali škodlivé DNG obrázky přes WhatsApp, který sloužil jako vektor pro vzdálené spuštění kódu bez nutnosti komplexní interakce ze strany uživatele. Po úspěšném zneužití byl instalován dosud neznámý spyware LandFall.
 
-Infrastruktura řídicích serverů LandFall (C2 domény, registrační vzorce) sdílí znaky známé z operací Stealth Falcon, dříve spojovaných se Spojenými arabskými emiráty. Zároveň pojmenování komponent, jako "Bridge Head" pro načítací modul, odpovídá zvyklostem komerčních poskytovatelů spywaru typu NSO Group či Cytrox. Vyšetřovatelé však zatím nemají dostatek důkazů pro jednoznačné přiřazení.
+Spyware LandFall je navržen pro systematické sledování uživatele. Umožňuje přístup k historii prohlížení, fotografiím, kontaktům, SMS zprávám, záznamům hovorů, uloženým souborům a k přesné poloze zařízení. Dokáže také nahrávat hovory a okolní zvuk, což z něj dělá plnohodnotný nástroj pro politickou, průmyslovou i osobní špionáž. Unit 42 identifikoval cíle zejména v Iráku, Íránu, Turecku a Maroku.
 
-Samsung vydal opravu již v dubnu 2025 na základě hlášení bezpečnostních týmů Meta a WhatsApp. Skutečnost, že zranitelnost byla v praxi aktivně zneužívána s výrazným časovým předstihem, vedla CISA k zařazení CVE-2025-21042 do katalogu Known Exploited Vulnerabilities. Pro federální agentury tak vzniká povinnost chybu v definovaném termínu odstranit, jinak riskují regulatorní i bezpečnostní dopady.
+Infrastruktura řídicích serverů (C2) a způsob registrace domén mají podobnosti s dřívějšími operacemi Stealth Falcon, kampaně spojované s aktéry ze Spojených arabských emirátů. Zároveň použití názvu "Bridge Head" pro komponentu loaderu kopíruje pojmenování běžné u komerčních spyware platforem jako NSO Group, Variston, Cytrox a Quadream. Přesto analytici zatím LandFall jednoznačně nepřiřadili ke konkrétní firmě či státnímu aktérovi.
+
+Samsung zranitelnost opravil již v dubnu po upozornění od bezpečnostních týmů Meta a WhatsApp. Problém je, že velká část uživatelů a institucí aktualizace neaplikovala nebo používá zařízení s opožděnou distribucí bezpečnostních záplat. Zařazení CVE-2025-21042 do katalogu Known Exploited Vulnerabilities ze strany CISA znamená, že federální úřady mají povinnost chybu v definovaném termínu odstranit a potvrdit shodu.
 
 ## Proč je to důležité
-Incident potvrzuje několik dlouhodobých trendů.
+Tento případ ukazuje několik zásadních trendů v bezpečnosti mobilních zařízení. Za prvé, útočníci nadále úspěšně zneužívají chyby v multimediálním zpracování, kde i běžný obsah, jako je obrázek, může sloužit jako nosič pro vzdálené spuštění kódu. Za druhé, WhatsApp a další komunikační aplikace jsou zneužívány jako důvěryhodné kanály pro doručení exploitů, což snižuje šanci na podezření ze strany uživatelů.
 
-Za prvé, komunikační platformy jako WhatsApp zůstávají atraktivním vektorem útoků, a to i přes šifrování obsahu. Útočníci se soustředí na zneužití implementačních chyb v mobilních zařízeních a multimediálních knihovnách, kde stačí zpracování škodlivého souboru. To je relevantní nejen pro státní správu USA, ale i pro evropské instituce a kritickou infrastrukturu, které běžně používají zařízení Samsung.
+Pro státní instituce a podniky to potvrzuje, že mobilní zařízení je nutné považovat za plnohodnotný kritický endpoint, nikoli jen doplněk k počítačům. V praxi to znamená důsledně prosazovat pravidelnou instalaci bezpečnostních aktualizací, používat MDM systémy pro řízení verzí firmware, omezovat instalaci neověřených aplikací a monitorovat indikátory kompromitace i na mobilní platformě.
 
-Za druhé, charakteristika LandFall naznačuje, že jsme stále v prostředí, kde se komerční spyware a státem podporované operace prolínají. Útočné nástroje se profesionalizují, ale zůstávají pod radarem, dokud nejsou odhaleny dlouhodobou technickou analýzou. Pro organizace to znamená nutnost důsledného patch managementu, kontroly dodavatelského řetězce mobilních zařízení a využívání nástrojů pro detekci anomálního chování na úrovni koncových bodů.
-
-Za třetí, zásah CISA ukazuje, že zranitelnosti v běžně používaných telefonech velkých značek mají přímý dopad na národní bezpečnost. Evropské státy by měly podobně systematicky sledovat katalogy aktivně zneužívaných zranitelností a zavádět povinné lhůty pro aktualizace u státních institucí i provozovatelů kritických služeb. Pro běžné uživatele je tento případ dalším potvrzením, že odkládání aktualizací u mobilních zařízení vytváří prostor pro vysoce cílené špehovací kampaně.
+Pro běžné uživatele zařízení Samsung je klíčové zkontrolovat, zda mají nainstalované bezpečnostní aktualizace z dubna 2025 nebo novější, a neignorovat aktualizace systému. Incident také znovu otevírá otázku regulace a kontroly komerčních spyware nástrojů a státem podporovaných špionážních operací, které zneužívají slabiny v masově rozšířených zařízeních a aplikacích.
 
 ---
 

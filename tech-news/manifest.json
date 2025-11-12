@@ -1,7 +1,48 @@
 {
-  "generated": "2025-11-12T16:25:52.103137+00:00",
+  "generated": "2025-11-12T20:21:05.665823+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "iOS 26.2 dorazí v prosinci: 8 novinek zaměřených na uživatele a služby",
+      "description": "Apple příští měsíc vydá iOS 26.2 s osmi konkrétními úpravami včetně nového „Liquid Glass“ nastavení zamykací obrazovky, offline textů v Apple Music, změn hodnocení spánku, alarmů v Připomínkách a vylepšení aplikace Podcasty.",
+      "slug": "ios-262-available-next-month-with-these-8-new-feat",
+      "publishedAt": "2025-11-11T17:48:15+00:00",
+      "date": "2025-11-11 17:48:15",
+      "importance": 3,
+      "category": "ios",
+      "urlToImage": "https://images.macrumors.com/t/TnRBQg6_KF5xtez0eVYDpx4-J7M=/2500x/article-new/2025/11/iOS-26.2-Glass-Feature.jpg",
+      "url": "/tech-news/2025-11-11/ios-262-available-next-month-with-these-8-new-feat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Photos umožní uživatelům iPhonů upravovat fotky pomocí textových a hlasových instrukcí",
+      "description": "Google rozšiřuje do aplikace Google Photos na iOS konverzační úpravy fotografií, přesnější editaci obličejů a nové AI nástroje včetně integrace modelu Nano Banana.",
+      "slug": "google-photos-lets-iphone-users-edit-images-by-des",
+      "publishedAt": "2025-11-11T17:00:00+00:00",
+      "date": "2025-11-11 17:00:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200",
+      "url": "/tech-news/2025-11-11/google-photos-lets-iphone-users-edit-images-by-des/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "LG G5 OLED: nový standard pro jas a barvy díky technologii Primary RGB Tandem",
       "description": "LG G5 OLED TV zavádí nový typ panelu Primary RGB Tandem, který výrazně zvyšuje jas a barevnou přesnost oproti předchozí generaci a posiluje pozici LG v konkurenci se Samsung a Sony.",
@@ -23,8 +64,29 @@
       "people": []
     },
     {
-      "title": "iPhone 18 může přinést nezvykle omezenou a rozdělenou modelovou řadu",
-      "description": "Z dostupných spekulací vyplývá, že Apple zvažuje zásadní přeorganizování řady iPhone 18, včetně odkladu základního modelu a iPhone Air 2 a uvedení ohebném iPhone Fold.",
+      "title": "Qualcomm připravuje čipy Snapdragon X Elite pro Android PC",
+      "description": "Qualcomm podle nových zjištění připravuje čipy Snapdragon X Elite, dosud používané ve Windows zařízeních s architekturou ARM, pro nasazení v budoucích počítačích s Androidem. To otevírá cestu k výkonným Android PC s plnohodnotným desktopovým prostředím.",
+      "slug": "snapdragon-x-elite-chips-from-windows-laptops-are-",
+      "publishedAt": "2025-11-11T15:50:00+00:00",
+      "date": "2025-11-11 15:50:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Snapdragon-Elite-X-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-11/snapdragon-x-elite-chips-from-windows-laptops-are-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Qualcomm",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "iPhone 18 může zásadně změnit podzimní nabídku Applu",
+      "description": "Úniky naznačují, že Apple v roce 2026 výrazně přeuspořádá řadu iPhonů: zpoždění modelu iPhone Air 2, přesun základního iPhone 18 na jaro 2027 a možný vstup skládacího iPhone Fold by mohly vést k neobvykle úzké podzimní nabídce zaměřené na dražší modely.",
       "slug": "next-years-iphone-18-lineup-sounds-like-a-major-ov",
       "publishedAt": "2025-11-11T15:11:00+00:00",
       "date": "2025-11-11 15:11:00",
@@ -41,6 +103,44 @@
         "Apple",
         "9to5Mac"
       ],
+      "people": []
+    },
+    {
+      "title": "Poškození klíčové antény NASA Deep Space Network zvyšuje tlak na komunikaci s hlubokým vesmírem",
+      "description": "Jedna z hlavních 70metrových antén Deep Space Network v kalifornském komplexu Goldstone je od září mimo provoz po mechanickém incidentu, což omezuje komunikační kapacity NASA pro sondy v hlubokém vesmíru.",
+      "slug": "key-antenna-in-nasas-deep-space-network-damaged-sp",
+      "publishedAt": "2025-11-11T13:12:48+00:00",
+      "date": "2025-11-11 13:12:48",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2025/11/dss14.jpeg",
+      "url": "/tech-news/2025-11-11/key-antenna-in-nasas-deep-space-network-damaged-sp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": []
+    },
+    {
+      "title": "10 ověřených dárků pro mámy z Amazonu od 7 dolarů",
+      "description": "Článek shrnuje výběr deseti praktických a ověřených dárků pro mámy z nabídky Amazonu, od levného cestovního pouzdra na šperky po kosmetiku, zimní oblečení a obuv.",
+      "slug": "people-always-ask-me-what-to-gift-momshere-are-10-",
+      "publishedAt": "2025-11-11T11:00:00+00:00",
+      "date": "2025-11-11 11:00:00",
+      "importance": 1,
+      "category": "e-commerce",
+      "urlToImage": "https://www.instyle.com/thmb/U3JMw4EhlzixzSUrALAtOwlgBgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/111025-mom-gifts-soc-4a337b96462f457fa8d64cdf59d93016.jpg",
+      "url": "/tech-news/2025-11-11/people-always-ask-me-what-to-gift-momshere-are-10-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "InStyle"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -62,8 +162,8 @@
       "people": []
     },
     {
-      "title": "Google Play nově upozorní na aplikace s nadměrnou spotřebou baterie",
-      "description": "Google zavádí do Google Play Store systém varování pro aplikace s nadměrnou spotřebou energie a omezuje jejich zobrazování, což má pomoci uživatelům lépe chránit výdrž baterie bez nutnosti manuálního nastavování.",
+      "title": "Google Play začne upozorňovat na aplikace s nadměrnou spotřebou baterie",
+      "description": "Google zavádí do Obchodu Play systém varování u aplikací, které nadměrně vybíjejí baterii. Od roku 2026 to ovlivní nejen viditelnost těchto aplikací, ale i rozhodování uživatelů při instalaci.",
       "slug": "the-google-play-stores-new-tweak-makes-your-phones",
       "publishedAt": "2025-11-11T05:40:00+00:00",
       "date": "2025-11-11 05:40:00",
@@ -103,8 +203,8 @@
       "people": []
     },
     {
-      "title": "Slabší prodeje údajně oddálí uvedení druhé generace iPhone Air",
-      "description": "Podle zdrojů The Information Apple kvůli slabším prodejům současného iPhone Air zvažuje posun uvedení druhé generace z původně plánovaného podzimu 2026 na jaro 2027. Zpoždění má souviset s nejistotou kolem poptávky po ultratenkém modelu a sladěním s plánovanou řadou iPhone 18.",
+      "title": "Slabší prodeje údajně posouvají další model iPhone Air až na rok 2027",
+      "description": "Podle zdrojů serveru The Information Apple zvažuje posun vydání druhé generace iPhone Air z původně plánovaného podzimu 2026 na jaro 2027 kvůli slabším prodejům aktuálního ultra tenkého modelu.",
       "slug": "weak-sales-delay-next-iphone-air-model-report-clai",
       "publishedAt": "2025-11-11T03:20:29+00:00",
       "date": "2025-11-11 03:20:29",
@@ -118,6 +218,31 @@
         "name": "Mashable"
       },
       "companies": [
+        "Apple",
+        "LG",
+        "Samsung",
+        "Microsoft",
+        "AT&T"
+      ],
+      "people": []
+    },
+    {
+      "title": "Siri nyní dokáže spouštět rutiny Samsung SmartThings, zjednodušuje se soužití iOS a Android domácností",
+      "description": "Samsung rozšiřuje SmartThings o podporu Siri Shortcuts, takže uživatelé mohou ovládat své chytré domácí rutiny hlasem přes Siri na iPhonu a Apple Watch. Novinka usnadňuje provoz domácností s kombinací zařízení Apple a Samsung.",
+      "slug": "you-can-now-ask-siri-to-run-your-samsung-smartthin",
+      "publishedAt": "2025-11-11T01:20:00+00:00",
+      "date": "2025-11-11 01:20:00",
+      "importance": 3,
+      "category": "smart home",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/samsung-smartthings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-11/you-can-now-ask-siri-to-run-your-samsung-smartthin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Samsung",
         "Apple"
       ],
       "people": []
@@ -244,6 +369,31 @@
       "people": []
     },
     {
+      "title": "Apple údajně skrývá, že příští Siri poběží částečně na Google Gemini",
+      "description": "Podle informací Bloomberg má Apple pro interní použití přejmenovat model Google Gemini na „AFM v10“, aby minimalizoval viditelnost partnerství při nasazení nové generace Siri.",
+      "slug": "apple-reportedly-doesnt-want-you-to-know-siri-will",
+      "publishedAt": "2025-11-10T21:40:01+00:00",
+      "date": "2025-11-10 21:40:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/iPhone-17-Pro-siri-glow.jpg",
+      "url": "/tech-news/2025-11-10/apple-reportedly-doesnt-want-you-to-know-siri-will/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Tim Cook",
+        "Sundar Pichai",
+        "Sam Altman"
+      ]
+    },
+    {
       "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady pro uživatele",
       "description": "Apple po pěti letech shrnuje vývoj vlastních čipů od M1 po M5. Nová generace přináší násobné zvýšení výkonu CPU, GPU a AI, efektivnější výrobu a posiluje strategii uzavřeného ekosystému, která má přímý dopad na uživatele, vývojáře i konkurenci.",
       "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
@@ -287,8 +437,8 @@
       "people": []
     },
     {
-      "title": "CISA nařizuje federálním úřadům okamžitě opravit zero-day zranitelnost Samsung využívanou spywarem LandFall",
-      "description": "Americká agentura CISA zařadila kritickou zranitelnost v telefonech Samsung (CVE-2025-21042) mezi aktivně zneužívané chyby a nařídila federálním úřadům urychlenou instalaci opravy poté, co byla využita ke špehování přes WhatsApp pomocí spywaru LandFall.",
+      "title": "CISA nařizuje urychlené záplatování kritické zero-day zranitelnosti Samsungu zneužívané špionážním spywarem",
+      "description": "Americká CISA zařadila kritickou zranitelnost CVE-2025-21042 v zařízeních Samsung mezi aktivně zneužívané chyby a nařídila federálním úřadům okamžitě instalovat aktualizace, protože exploit umožňuje vzdálené nasazení špionážního spyware LandFall přes WhatsApp.",
       "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
       "publishedAt": "2025-11-10T20:00:34+00:00",
       "date": "2025-11-10 20:00:34",
@@ -304,9 +454,7 @@
       "companies": [
         "CISA",
         "Samsung",
-        "WhatsApp",
-        "Google",
-        "Apple"
+        "WhatsApp"
       ],
       "people": []
     },
@@ -327,6 +475,30 @@
       },
       "companies": [
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejzajímavější předčasné Black Friday slevy na produkty Apple v roce 2025",
+      "description": "Předčasné Black Friday akce na Apple produkty přinášejí výrazné slevy zejména u AirPods 4, MacBook Air s čipem M4, nových iPadů a hodinek Apple Watch, především díky agresivní cenové politice Amazonu a následným reakcím dalších velkých prodejců.",
+      "slug": "A-35-of-the-best-early-black-friday-apple-deals-in",
+      "publishedAt": "2025-11-10T19:02:46+00:00",
+      "date": "2025-11-10 19:02:46",
+      "importance": 3,
+      "category": "apple nabídky",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/014Jb77aJBMaJR4tkMMFiHK/hero-image.fill.size_1200x675.v1762796692.png",
+      "url": "/tech-news/2025-11-10/A-35-of-the-best-early-black-friday-apple-deals-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "Best Buy",
+        "Walmart",
+        "Target"
       ],
       "people": []
     },
@@ -3914,24 +4086,6 @@
       "people": []
     },
     {
-      "title": "Vzácná forma syfilis u ženatého seniora zpochybnila jistotu lékařů",
-      "description": "Kazuistika z Belgie popisuje 83letého muže s netypickými příznaky sekundární syfilis, která se maskovala jako jiné onemocnění a odhalila limity anamnézy založené na důvěře v deklarovanou monogamii.",
-      "slug": "rare-form-of-syphilis-in-married-elderly-man-nearl",
-      "publishedAt": "2025-11-05T23:29:42+00:00",
-      "date": "2025-11-05 23:29:42",
-      "importance": 1,
-      "category": "zdraví",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2157231571-2560x1440.jpg",
-      "url": "/tech-news/2025-11-05/rare-form-of-syphilis-in-married-elderly-man-nearl/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Trend návratu: moderní Bluetooth CD přehrávače cílí na nostalgii po éře mixovaných kazet",
       "description": "Nová generace přenosných CD přehrávačů kombinuje retro design s funkcemi jako Bluetooth a nabíjení přes USB-C a míří na uživatele, kteří chtějí fyzická média bez ztráty moderního komfortu.",
       "slug": "trend-alert-high-tech-bluetooth-cd-players-make-me",
@@ -3953,120 +4107,6 @@
       "people": []
     },
     {
-      "title": "Tech trend alert: moderní Bluetooth CD přehrávače vracejí do hry fyzická alba",
-      "description": "Nová generace přenosných CD přehrávačů kombinuje retro formát s moderními funkcemi jako Bluetooth, USB-C a anti-skip, a cílí na mladší uživatele hledající fyzické nosiče bez ztráty pohodlí současné techniky.",
-      "slug": "tech-trend-alert-high-tech-bluetooth-cd-players-ar",
-      "publishedAt": "2025-11-05T22:11:13+00:00",
-      "date": "2025-11-05 22:11:13",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
-      "url": "/tech-news/2025-11-05/tech-trend-alert-high-tech-bluetooth-cd-players-ar/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "T-Mobile zpřístupňuje satelitní nouzové zprávy zdarma i pro uživatele jiných operátorů",
-      "description": "T-Mobile rozšiřuje svou satelitní komunikaci v USA tak, aby umožnila odesílání textových zpráv na tísňovou linku 911 přes satelit zdarma, a to i uživatelům jiných mobilních operátorů s kompatibilními telefony.",
-      "slug": "t-mobile-is-giving-away-its-new-satellite-feature-",
-      "publishedAt": "2025-11-05T22:03:00+00:00",
-      "date": "2025-11-05 22:03:00",
-      "importance": 3,
-      "category": "mobilní sítě",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/untitled-design-3.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-05/t-mobile-is-giving-away-its-new-satellite-feature-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "T-Mobile"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Nova Launcher se nečekaně vrací: druhá aktualizace během dvou týdnů vrací důvěru uživatelů",
-      "description": "Populární androidí launcher Nova Launcher po nejistém období získává druhou rychlou aktualizaci s opravami chyb a zlepšením stability, přestože původní vývojářský tým už na projektu oficiálně nepracuje.",
-      "slug": "nova-launcher-is-back-with-a-second-unexpected-upd",
-      "publishedAt": "2025-11-05T20:20:32+00:00",
-      "date": "2025-11-05 20:20:32",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/nova-launcher-play-store.jpg",
-      "url": "/tech-news/2025-11-05/nova-launcher-is-back-with-a-second-unexpected-upd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon zlevnil kompletní řadu Google Pixel 10, včetně Pixel 10 Pro Fold",
-      "description": "Amazon dočasně nabízí výrazné slevy na všechny modely smartphonů Google Pixel 10, včetně variant Pro, Pro XL a skládacího Pixel 10 Pro Fold, což z nich dělá zajímavější volbu pro uživatele hledající špičkový Android telefon za nižší cenu.",
-      "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
-      "publishedAt": "2025-11-05T19:06:00+00:00",
-      "date": "2025-11-05 19:06:00",
-      "importance": 3,
-      "category": "smartphony",
-      "urlToImage": "https://media.wired.com/photos/690b9f2393120774bebe626f/191:100/w_1280,c_limit/The%20Pixel%2010%20Family%20Is%20Marked%20Down%20on%20Amazon.png",
-      "url": "/tech-news/2025-11-05/the-pixel-10-family-is-marked-down-on-amazon-wired/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Subaru BRAT se vrací v extrémní verzi Brataroo 9500 Turbo pro nový Gymkhana projekt",
-      "description": "Subaru ve spolupráci s Hoonigan a Travisem Pastranou představuje radikálně upravený vůz Brataroo 9500 Turbo inspirovaný klasickým pick-upem Subaru BRAT pro nový díl Gymkhana natáčený v Austrálii.",
-      "slug": "subarus-brat-makes-an-unexpected-return-and-its-ne",
-      "publishedAt": "2025-11-05T18:42:51+00:00",
-      "date": "2025-11-05 18:42:51",
-      "importance": 1,
-      "category": "auta",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/11/Subaru-Brateroo-7.jpg.webp",
-      "url": "/tech-news/2025-11-05/subarus-brat-makes-an-unexpected-return-and-its-ne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gear Patrol"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI prsten Stream Ring umožní šeptem pořizovat hlasové poznámky",
-      "description": "Bývalí zaměstnanci Meta představili chytrý prsten Stream Ring, který umožňuje diskrétní hlasové záznamy, automatický přepis a osobní AI asistenta napodobující hlas uživatele. Do USA má dorazit v létě 2026.",
-      "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
-      "publishedAt": "2025-11-05T16:55:55+00:00",
-      "date": "2025-11-05 16:55:55",
-      "importance": 3,
-      "category": "wearables",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-05/this-ai-smart-ring-lets-you-record-voice-notes-wit/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "Virální „domov důchodců“ na TikToku je kompletně generovaný pomocí AI, uživatelé se cítí podvedeni",
       "description": "Populární účet @basincreekretirement, který ukazuje „obyvatele“ domova důchodců v vtipných halloweenských kostýmech, se ukázal být plně generovaný pomocí AI. Případ otevírá debatu o transparentnosti, etice a důvěře v tvůrce obsahu na sociálních sítích.",
       "slug": "tiktok-users-crushed-after-finding-out-viral-retir",
@@ -4083,27 +4123,6 @@
       },
       "companies": [
         "TikTok"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung údajně rozšíří headset Galaxy XR do Velké Británie, Kanady a vybraných zemí EU",
-      "description": "Samsung podle neoficiálních informací plánuje v roce 2026 rozšířit dostupnost svého headsetu Galaxy XR mimo USA a Jižní Koreu do Velké Británie, Německa, Francie a Kanady, s možným přidáním dalších trhů.",
-      "slug": "samsung-rumored-to-launch-galaxy-xr-in-uk-canada-a",
-      "publishedAt": "2025-11-05T15:40:00+00:00",
-      "date": "2025-11-05 15:40:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Galaxy-XR-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/samsung-rumored-to-launch-galaxy-xr-in-uk-canada-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Samsung",
-        "Google"
       ],
       "people": []
     },
