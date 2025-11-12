@@ -1,15 +1,56 @@
 {
-  "generated": "2025-11-12T12:32:37.793986+00:00",
+  "generated": "2025-11-12T16:25:52.103137+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Praktický průvodce přípravou na akci Pokémon GO Wild Area 2025 Global",
-      "description": "Článek přináší doporučení, jak se efektivně připravit na víkendovou akci Pokémon GO Wild Area 2025 Global (15.–16. listopadu), aby hráči lépe využili herní čas, předměty a bonusy. Zaměřuje se na správu inventáře, plánování lovu Pokémonů, týmovou spolupráci a technickou připravenost mobilních zařízení.",
+      "title": "LG G5 OLED: nový standard pro jas a barvy díky technologii Primary RGB Tandem",
+      "description": "LG G5 OLED TV zavádí nový typ panelu Primary RGB Tandem, který výrazně zvyšuje jas a barevnou přesnost oproti předchozí generaci a posiluje pozici LG v konkurenci se Samsung a Sony.",
+      "slug": "the-lg-g5-oled-tv-sets-a-new-performance-standard-",
+      "publishedAt": "2025-11-11T16:00:00+00:00",
+      "date": "2025-11-11 16:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-11/the-lg-g5-oled-tv-sets-a-new-performance-standard-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "LG"
+      ],
+      "people": []
+    },
+    {
+      "title": "iPhone 18 může přinést nezvykle omezenou a rozdělenou modelovou řadu",
+      "description": "Z dostupných spekulací vyplývá, že Apple zvažuje zásadní přeorganizování řady iPhone 18, včetně odkladu základního modelu a iPhone Air 2 a uvedení ohebném iPhone Fold.",
+      "slug": "next-years-iphone-18-lineup-sounds-like-a-major-ov",
+      "publishedAt": "2025-11-11T15:11:00+00:00",
+      "date": "2025-11-11 15:11:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-11/next-years-iphone-18-lineup-sounds-like-a-major-ov/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "9to5Mac"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pokémon GO Wild Area 2025: Praktický průvodce přípravou na globální event",
+      "description": "Přehledný průvodce přípravou na globální akci Pokémon GO Wild Area 2025 (15.–16. listopadu), zaměřený na efektivní využití času, předmětů a herních mechanik pro zkušené i příležitostné hráče.",
       "slug": "pokémon-go-wild-area-2025-global-preparation-guide",
       "publishedAt": "2025-11-11T09:41:11+00:00",
       "date": "2025-11-11 09:41:11",
-      "importance": 2,
-      "category": "mobilní hry",
+      "importance": 3,
+      "category": "herní průmysl",
       "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/08/GOWA2025_Global_Blog_1920x1080_sku.jpeg",
       "url": "/tech-news/2025-11-11/pokémon-go-wild-area-2025-global-preparation-guide/",
       "source": {
@@ -18,6 +59,26 @@
         "name": "Pokemon GO Hub"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Play nově upozorní na aplikace s nadměrnou spotřebou baterie",
+      "description": "Google zavádí do Google Play Store systém varování pro aplikace s nadměrnou spotřebou energie a omezuje jejich zobrazování, což má pomoci uživatelům lépe chránit výdrž baterie bez nutnosti manuálního nastavování.",
+      "slug": "the-google-play-stores-new-tweak-makes-your-phones",
+      "publishedAt": "2025-11-11T05:40:00+00:00",
+      "date": "2025-11-11 05:40:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1863.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-11/the-google-play-stores-new-tweak-makes-your-phones/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
       "people": []
     },
     {
@@ -42,12 +103,12 @@
       "people": []
     },
     {
-      "title": "Slabší prodeje údajně odsouvají další generaci iPhone Air až na rok 2027",
-      "description": "Podle zprávy serveru The Information Apple kvůli slabším prodejům prvního iPhone Air odkládá druhou generaci z původně plánovaného podzimu 2026 na jaro 2027, kdy mají dorazit také modely iPhone 18 a 18E.",
+      "title": "Slabší prodeje údajně oddálí uvedení druhé generace iPhone Air",
+      "description": "Podle zdrojů The Information Apple kvůli slabším prodejům současného iPhone Air zvažuje posun uvedení druhé generace z původně plánovaného podzimu 2026 na jaro 2027. Zpoždění má souviset s nejistotou kolem poptávky po ultratenkém modelu a sladěním s plánovanou řadou iPhone 18.",
       "slug": "weak-sales-delay-next-iphone-air-model-report-clai",
       "publishedAt": "2025-11-11T03:20:29+00:00",
       "date": "2025-11-11 03:20:29",
-      "importance": 3,
+      "importance": 2,
       "category": "hardware",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DRXGGB1FEmC9VU9nc7szm/hero-image.fill.size_1200x675.v1762830550.jpg",
       "url": "/tech-news/2025-11-11/weak-sales-delay-next-iphone-air-model-report-clai/",
@@ -62,13 +123,13 @@
       "people": []
     },
     {
-      "title": "Únik ukazuje schopnosti Nano Banana 2 v práci s textem a opravě nekvalitních obrázků",
-      "description": "Nové uniklé ukázky naznačují, že model Nano Banana 2 zvládá věrné vykreslení textu, remasterování nekvalitních snímků a řešení komplexních vizuálních úloh, ale zatím jde pouze o neoficiální a neověřený náhled.",
+      "title": "Exkluzivně: Uniklé ukázky Nano Banana 2 naznačují výrazný posun v generování a úpravě obrázků",
+      "description": "Únik ukázek modelu Nano Banana 2 naznačuje schopnost výrazně vylepšovat nekvalitní snímky, přesně vykreslovat text a řešit složitější vizuální úlohy, což cílí na profesionální použití v designu, médiích a automatizovaných obsahových tocích.",
       "slug": "exclusive-new-leaked-image-samples-by-nano-banana-",
       "publishedAt": "2025-11-11T00:31:59+00:00",
       "date": "2025-11-11 00:31:59",
-      "importance": 2,
-      "category": "ai",
+      "importance": 3,
+      "category": "ai modely",
       "urlToImage": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/google-gemini-25-pro_b2sc-1.jpg",
       "url": "/tech-news/2025-11-11/exclusive-new-leaked-image-samples-by-nano-banana-/",
       "source": {
@@ -77,13 +138,34 @@
         "name": "Testingcatalog.com"
       },
       "companies": [
+        "Nano Banana",
         "Media.ai"
       ],
       "people": []
     },
     {
-      "title": "HomePod mini míří k ukončení prodeje, nástupce je pravděpodobně na cestě",
-      "description": "Omezená dostupnost HomePodu mini u velkých prodejců a označení „discontinued“ u klíčového partnera B&H naznačují, že Apple chystá aktualizovanou verzi svého levnějšího chytrého reproduktoru.",
+      "title": "Aktualizace Google Play umožní snadné vzdálené odinstalování aplikací z jiných zařízení",
+      "description": "Nová verze Google Play Store (v48.8) přináší možnost vzdáleně odinstalovat aplikace z dalších zařízení přímo z detailu aplikace, bez nutnosti mít tato zařízení fyzicky u sebe.",
+      "slug": "google-play-store-update-makes-it-super-easy-to-un",
+      "publishedAt": "2025-11-10T23:46:38+00:00",
+      "date": "2025-11-10 23:46:38",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/11/Google-Play-Uninstall-Button-1-1200x628-cropped.jpg",
+      "url": "/tech-news/2025-11-10/google-play-store-update-makes-it-super-easy-to-un/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Droid Life"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indikace obnovení HomePod mini: americký prodejce B&H jej označil za ukončený",
+      "description": "Signály z distribuce naznačují blížící se aktualizaci HomePod mini. Klíčový prodejce B&H hlásí ukončení prodeje a zásoby u dalších obchodníků se tenčí, což podporuje spekulace o novém modelu s vylepšeným čipem, konektivitou a integrací funkcí Apple Intelligence.",
       "slug": "homepod-mini-refresh-looking-more-likely-as-bh-lis",
       "publishedAt": "2025-11-10T23:37:00+00:00",
       "date": "2025-11-10 23:37:00",
@@ -123,8 +205,8 @@
       "people": []
     },
     {
-      "title": "Výzkumníci oddělili v AI sítích paměťové a logické mechanismy",
-      "description": "Nová studie startupu Goodfire.ai ukazuje, že memorování tréninkových dat a logické uvažování v jazykových modelech probíhají ve výrazně oddělených neurálních drahách. Odstranění paměťových komponent výrazně sníží schopnost přesné citace, aniž by zásadně ovlivnilo schopnost řešit úlohy.",
+      "title": "Výzkum naznačuje oddělené dráhy pro memorování a uvažování v AI modelech",
+      "description": "Nová studie startupu Goodfire.ai ukazuje, že velké jazykové modely mají zřetelně oddělené neuronové komponenty pro doslovné memorování tréninkových dat a pro logické uvažování, což otevírá cestu k přesnějšímu řízení chování AI.",
       "slug": "researchers-isolate-memorization-from-reasoning-in",
       "publishedAt": "2025-11-10T23:06:42+00:00",
       "date": "2025-11-10 23:06:42",
@@ -141,8 +223,29 @@
       "people": []
     },
     {
-      "title": "Pět let Apple Silicon: srovnání výkonu od M1 po M5 a dopady na trh počítačů",
-      "description": "Pět let po uvedení čipu M1 ukazuje Apple s M5 dramatický posun ve výkonu CPU, GPU, AI a energetické efektivitě, který dále upevňuje jeho odstup od klasických x86 notebooků a mění očekávání od mobilních pracovních stanic.",
+      "title": "Siri Shortcuts nově ovládají rutiny Samsung SmartThings",
+      "description": "Samsung rozšiřuje SmartThings o podporu Siri Shortcuts, takže uživatelé iPhonů, iPadů, Apple Watch a HomePodů mohou hlasem spouštět rutiny a ovládat zařízení chytré domácnosti napojené na platformu SmartThings.",
+      "slug": "siri-shortcuts-now-works-with-samsung-smartthings-",
+      "publishedAt": "2025-11-10T22:49:43+00:00",
+      "date": "2025-11-10 22:49:43",
+      "importance": 3,
+      "category": "smart domácnost",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_220504_STK123_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-10/siri-shortcuts-now-works-with-samsung-smartthings-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Samsung",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady pro uživatele",
+      "description": "Apple po pěti letech shrnuje vývoj vlastních čipů od M1 po M5. Nová generace přináší násobné zvýšení výkonu CPU, GPU a AI, efektivnější výrobu a posiluje strategii uzavřeného ekosystému, která má přímý dopad na uživatele, vývojáře i konkurenci.",
       "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
       "publishedAt": "2025-11-10T21:08:04+00:00",
       "date": "2025-11-10 21:08:04",
@@ -159,10 +262,7 @@
         "Apple",
         "Intel"
       ],
-      "people": [
-        "Tim Cook",
-        "Craig Federighi"
-      ]
+      "people": []
     },
     {
       "title": "Google postupně nahrazuje Google Assistant novým Gemini Home, reakce uživatelů jsou smíšené",
@@ -187,8 +287,8 @@
       "people": []
     },
     {
-      "title": "CISA nařídila federálním úřadům opravit zranitelnost Samsungu zneužívanou spywarem LandFall",
-      "description": "Americká CISA přikázala federálním agenturám okamžitě aktualizovat zařízení Samsung kvůli kritické zranitelnosti CVE-2025-21042, kterou útočníci využívají k nasazení spywaru LandFall přes škodlivé obrázky ve WhatsApp. Útok umožňuje vzdálené spuštění kódu a rozsáhlé sledování uživatelů bez jejich interakce.",
+      "title": "CISA nařizuje federálním úřadům okamžitě opravit zero-day zranitelnost Samsung využívanou spywarem LandFall",
+      "description": "Americká agentura CISA zařadila kritickou zranitelnost v telefonech Samsung (CVE-2025-21042) mezi aktivně zneužívané chyby a nařídila federálním úřadům urychlenou instalaci opravy poté, co byla využita ke špehování přes WhatsApp pomocí spywaru LandFall.",
       "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
       "publishedAt": "2025-11-10T20:00:34+00:00",
       "date": "2025-11-10 20:00:34",
@@ -204,7 +304,9 @@
       "companies": [
         "CISA",
         "Samsung",
-        "WhatsApp"
+        "WhatsApp",
+        "Google",
+        "Apple"
       ],
       "people": []
     },
@@ -252,7 +354,7 @@
     },
     {
       "title": "Apple AirPods 4 zlevnily na historické minimum 85 dolarů",
-      "description": "Apple výrazně zlevnil základní AirPods 4 na 84,99 dolaru, což je dosud nejnižší cena. Nabízejí lepší zvuk, kvalitnější hovory a odolnější konstrukci než předchozí generace.",
+      "description": "Apple AirPods 4, nejnovější základní bezdrátová sluchátka Applu, klesla u vybraných prodejců na 84,99 USD, což je dosud nejnižší cena. Nabízejí lepší zvuk, kvalitnější hovory a odolnější konstrukci než předchozí generace.",
       "slug": "apples-airpods-4-just-hit-their-lowest-price-yet-a",
       "publishedAt": "2025-11-10T18:47:53+00:00",
       "date": "2025-11-10 18:47:53",
@@ -312,8 +414,8 @@
       "people": []
     },
     {
-      "title": "Mac mini s čipem M4 tlačí Windows mini PC do defenzivy díky výkonu i ceně",
-      "description": "Nový Mac mini s čipem M4 kombinuje 10jádrové CPU, 10jádrové GPU a 16 GB jednotné paměti za agresivní cenu, čímž představuje pro většinu Windows mini PC technologicky i ekonomicky výhodnější volbu.",
+      "title": "Mac mini s čipem M4 za sníženou cenu zpochybňuje smysl levných Windows mini PC",
+      "description": "Nový Mac mini s čipem M4, 10jádrovým CPU, 10jádrovým GPU a 16 GB unified memory se v akční ceně kolem 499 dolarů stává agresivní alternativou k Windows mini PC a ukazuje rozdíl v efektivitě ARM architektury oproti x86.",
       "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
       "publishedAt": "2025-11-10T17:15:22+00:00",
       "date": "2025-11-10 17:15:22",
@@ -327,8 +429,27 @@
         "name": "Kotaku"
       },
       "companies": [
-        "Apple",
-        "Kotaku"
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "M3 iPad Air vs. M5 iPad Pro: Jaký model dává skutečně smysl pro náročné uživatele",
+      "description": "Apple aktualizoval řadu iPad Air s čipem M3 a současně posílil odlišení iPad Pro s čipem M5, OLED displejem a vyšší pamětí. Rozdíly mezi modely jsou nyní zásadní pro uživatele, kteří tablet využívají pro práci, tvorbu obsahu a náročné aplikace.",
+      "slug": "m3-ipad-air-vs-m5-ipad-pro-buyers-guide-all-differ",
+      "publishedAt": "2025-11-10T17:01:17+00:00",
+      "date": "2025-11-10 17:01:17",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/p9s-nnk2GVhsXedfykv8gW3Dpic=/2500x/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
+      "url": "/tech-news/2025-11-10/m3-ipad-air-vs-m5-ipad-pro-buyers-guide-all-differ/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
       ],
       "people": []
     },
@@ -3890,48 +4011,6 @@
       "people": []
     },
     {
-      "title": "iOS 26.2: Kdy přijde další velká aktualizace a jaké novinky přinese iPhonům",
-      "description": "Apple připravuje vydání iOS 26.2 na polovinu prosince a testuje sadu nových funkcí pro Podcasty, News, Připomínky, Freeform, spánek i přizpůsobení zamykací obrazovky. Aktualizace navazuje na změny v iOS 26.1 a dále posiluje ekosystém iPhonu.",
-      "slug": "ios-262-release-date-heres-when-new-iphone-feature",
-      "publishedAt": "2025-11-05T20:20:00+00:00",
-      "date": "2025-11-05 20:20:00",
-      "importance": 3,
-      "category": "mobilní operační sys",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/ios-262-release-date-heres-when-new-iphone-feature/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "9to5Mac"
-      ],
-      "people": []
-    },
-    {
-      "title": "iOS 26.1 mění vypínání budíků na posuvník. Jak vrátit tlačítko „Stop“",
-      "description": "Aktualizace iOS 26.1 nahrazuje na zamykací obrazovce tlačítko „Stop“ pro budíky a časovače gestem „Posuňte pro zastavení“. Apple však přidal volitelné nastavení, které umožňuje původní tlačítko obnovit.",
-      "slug": "ios-261-makes-alarms-use-a-slider-heres-how-to-get",
-      "publishedAt": "2025-11-05T19:13:00+00:00",
-      "date": "2025-11-05 19:13:00",
-      "importance": 3,
-      "category": "ios",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26-1-alarms-slide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/ios-261-makes-alarms-use-a-slider-heres-how-to-get/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "9to5Mac"
-      ],
-      "people": []
-    },
-    {
       "title": "Amazon zlevnil kompletní řadu Google Pixel 10, včetně Pixel 10 Pro Fold",
       "description": "Amazon dočasně nabízí výrazné slevy na všechny modely smartphonů Google Pixel 10, včetně variant Pro, Pro XL a skládacího Pixel 10 Pro Fold, což z nich dělá zajímavější volbu pro uživatele hledající špičkový Android telefon za nižší cenu.",
       "slug": "the-pixel-10-family-is-marked-down-on-amazon-wired",
@@ -3968,27 +4047,6 @@
       "people": []
     },
     {
-      "title": "Black Friday snižuje ceny MacBooku Air M4: 13″ od 749,99 USD, 15″ od 949,99 USD",
-      "description": "Amazon před Black Friday výrazně zlevnil nové MacBooky Air s čipem M4, 13palcový model začíná na 749,99 USD a 15palcový na 949,99 USD, což jsou dosud nejnižší ceny. Sleva se týká také vybraných konfigurací s 512GB úložištěm.",
-      "slug": "macbook-air-black-friday-deals-arrive-with-new-low",
-      "publishedAt": "2025-11-05T17:42:11+00:00",
-      "date": "2025-11-05 17:42:11",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/SShyYqJ0JMxbdO8QPeKvPzoc-eU=/2500x/article-new/2025/11/m4-macbook-air-snowmen.jpeg",
-      "url": "/tech-news/2025-11-05/macbook-air-black-friday-deals-arrive-with-new-low/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "AI prsten Stream Ring umožní šeptem pořizovat hlasové poznámky",
       "description": "Bývalí zaměstnanci Meta představili chytrý prsten Stream Ring, který umožňuje diskrétní hlasové záznamy, automatický přepis a osobní AI asistenta napodobující hlas uživatele. Do USA má dorazit v létě 2026.",
       "slug": "this-ai-smart-ring-lets-you-record-voice-notes-wit",
@@ -4006,24 +4064,6 @@
       "companies": [
         "Meta"
       ],
-      "people": []
-    },
-    {
-      "title": "Nový Dodge Charger Scat Pack: Nejvýkonnější sedan v USA pod 60 000 dolarů",
-      "description": "Dodge uvádí Charger Scat Pack se šestiválcem Hurricane o výkonu 550 koní, pohonem všech kol a cenou pod 60 000 dolarů, čímž míří na zákazníky hledající kombinaci výkonu, dostupnosti a každodenní použitelnosti.",
-      "slug": "new-charger-sixpack-is-americas-most-powerful-seda",
-      "publishedAt": "2025-11-05T16:55:06+00:00",
-      "date": "2025-11-05 16:55:06",
-      "importance": 3,
-      "category": "automobilismus",
-      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/11/DG026_122CH-copy.jpg",
-      "url": "/tech-news/2025-11-05/new-charger-sixpack-is-americas-most-powerful-seda/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CarScoops"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -4064,27 +4104,6 @@
       "companies": [
         "Samsung",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Motorola představuje Moto G57 Power: levný 5G telefon s baterií 7 000 mAh a Androidem 16",
-      "description": "Motorola rozšiřuje řadu dostupných smartphonů o model Moto G57 Power s baterií 7 000 mAh, novým čipem Snapdragon 6s Gen 4, 120Hz displejem a Androidem 16, cíleným zejména na evropské uživatele.",
-      "slug": "motorola-is-releasing-yet-another-low-cost-mid-ran",
-      "publishedAt": "2025-11-05T14:07:07+00:00",
-      "date": "2025-11-05 14:07:07",
-      "importance": 3,
-      "category": "smartphony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175490-wide-two_1200/Motorola-is-releasing-yet-another-low-cost-mid-ranger-with-a-7000mAh-battery-and-Android-16.jpg",
-      "url": "/tech-news/2025-11-05/motorola-is-releasing-yet-another-low-cost-mid-ran/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Motorola",
-        "PhoneArena"
       ],
       "people": []
     },
@@ -4143,26 +4162,6 @@
       },
       "companies": [
         "Sandbar"
-      ],
-      "people": []
-    },
-    {
-      "title": "Říjnové aktualizace Windows spouštějí BitLocker recovery",
-      "description": "Microsoft varuje, že říjnové bezpečnostní aktualizace Windows způsobují na některých systémech spuštění režimu BitLocker recovery, který vyžaduje zadání obnovovacího klíče.",
-      "slug": "microsoft-october-windows-updates-trigger-bitlocke",
-      "publishedAt": "2025-11-05T08:56:22+00:00",
-      "date": "2025-11-05 08:56:22",
-      "importance": 3,
-      "category": "bezpečnostní aktuali",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/12/16/Windows.jpg",
-      "url": "/tech-news/2025-11-05/microsoft-october-windows-updates-trigger-bitlocke/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     },
