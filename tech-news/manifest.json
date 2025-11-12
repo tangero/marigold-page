@@ -1,15 +1,54 @@
 {
-  "generated": "2025-11-12T08:24:20.886783+00:00",
+  "generated": "2025-11-12T12:32:37.793986+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Slabší prodeje údajně odkládají další generaci iPhone Air",
-      "description": "Podle zprávy The Information má Apple kvůli slabším prodejům prvního iPhone Air odložit uvedení druhé generace z původně plánovaného podzimu 2026 na jaro 2027.",
+      "title": "Praktický průvodce přípravou na akci Pokémon GO Wild Area 2025 Global",
+      "description": "Článek přináší doporučení, jak se efektivně připravit na víkendovou akci Pokémon GO Wild Area 2025 Global (15.–16. listopadu), aby hráči lépe využili herní čas, předměty a bonusy. Zaměřuje se na správu inventáře, plánování lovu Pokémonů, týmovou spolupráci a technickou připravenost mobilních zařízení.",
+      "slug": "pokémon-go-wild-area-2025-global-preparation-guide",
+      "publishedAt": "2025-11-11T09:41:11+00:00",
+      "date": "2025-11-11 09:41:11",
+      "importance": 2,
+      "category": "mobilní hry",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/08/GOWA2025_Global_Blog_1920x1080_sku.jpeg",
+      "url": "/tech-news/2025-11-11/pokémon-go-wild-area-2025-global-preparation-guide/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Listopadová aktualizace pro Pixel unikla díky Verizonu: bezpečnostní záplaty a opravy chyb na cestě",
+      "description": "Operátor Verizon předčasně zveřejnil podrobnosti listopadové aktualizace pro telefony Google Pixel. Update přináší bezpečnostní záplaty, optimalizace výkonu, zlepšení výdrže baterie a opravy chyb pro vybrané modely včetně Pixel 9, 8, 8a a Fold.",
+      "slug": "november-pixel-update-isnt-here-yet-but-verizon-ju",
+      "publishedAt": "2025-11-11T05:39:38+00:00",
+      "date": "2025-11-11 05:39:38",
+      "importance": 3,
+      "category": "android",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/google-pixel-update-screen-android-16-scaled.jpg",
+      "url": "/tech-news/2025-11-11/november-pixel-update-isnt-here-yet-but-verizon-ju/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Verizon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Slabší prodeje údajně odsouvají další generaci iPhone Air až na rok 2027",
+      "description": "Podle zprávy serveru The Information Apple kvůli slabším prodejům prvního iPhone Air odkládá druhou generaci z původně plánovaného podzimu 2026 na jaro 2027, kdy mají dorazit také modely iPhone 18 a 18E.",
       "slug": "weak-sales-delay-next-iphone-air-model-report-clai",
       "publishedAt": "2025-11-11T03:20:29+00:00",
       "date": "2025-11-11 03:20:29",
-      "importance": 2,
-      "category": "smartphony",
+      "importance": 3,
+      "category": "hardware",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DRXGGB1FEmC9VU9nc7szm/hero-image.fill.size_1200x675.v1762830550.jpg",
       "url": "/tech-news/2025-11-11/weak-sales-delay-next-iphone-air-model-report-clai/",
       "source": {
@@ -23,8 +62,69 @@
       "people": []
     },
     {
-      "title": "Výzkumníci oddělili v AI sítích paměťové a logické schopnosti",
-      "description": "Nový výzkum startupu Goodfire.ai ukazuje, že v jazykových modelech existují oddělené neuronové dráhy pro zapamatování textu a pro obecné uvažování, což umožňuje cíleně omezit memorování bez zásadního dopadu na schopnost řešit úlohy.",
+      "title": "Únik ukazuje schopnosti Nano Banana 2 v práci s textem a opravě nekvalitních obrázků",
+      "description": "Nové uniklé ukázky naznačují, že model Nano Banana 2 zvládá věrné vykreslení textu, remasterování nekvalitních snímků a řešení komplexních vizuálních úloh, ale zatím jde pouze o neoficiální a neověřený náhled.",
+      "slug": "exclusive-new-leaked-image-samples-by-nano-banana-",
+      "publishedAt": "2025-11-11T00:31:59+00:00",
+      "date": "2025-11-11 00:31:59",
+      "importance": 2,
+      "category": "ai",
+      "urlToImage": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/google-gemini-25-pro_b2sc-1.jpg",
+      "url": "/tech-news/2025-11-11/exclusive-new-leaked-image-samples-by-nano-banana-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Testingcatalog.com"
+      },
+      "companies": [
+        "Media.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "HomePod mini míří k ukončení prodeje, nástupce je pravděpodobně na cestě",
+      "description": "Omezená dostupnost HomePodu mini u velkých prodejců a označení „discontinued“ u klíčového partnera B&H naznačují, že Apple chystá aktualizovanou verzi svého levnějšího chytrého reproduktoru.",
+      "slug": "homepod-mini-refresh-looking-more-likely-as-bh-lis",
+      "publishedAt": "2025-11-10T23:37:00+00:00",
+      "date": "2025-11-10 23:37:00",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-10/homepod-mini-refresh-looking-more-likely-as-bh-lis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "B&H"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Play začne varovat před aplikacemi s nadměrnou spotřebou baterie",
+      "description": "Google zavádí nový metriky pro sledování nadměrných „partial wake locks“ v Android aplikacích. Aplikace, které výrazně zatěžují baterii na pozadí, budou hůře viditelné v obchodě Play a mohou dostat varovné označení pro uživatele.",
+      "slug": "google-play-will-soon-warn-about-apps-that-cause-e",
+      "publishedAt": "2025-11-10T23:29:00+00:00",
+      "date": "2025-11-10 23:29:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-battery-widget-changes-in-Android-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-10/google-play-will-soon-warn-about-apps-that-cause-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výzkumníci oddělili v AI sítích paměťové a logické mechanismy",
+      "description": "Nová studie startupu Goodfire.ai ukazuje, že memorování tréninkových dat a logické uvažování v jazykových modelech probíhají ve výrazně oddělených neurálních drahách. Odstranění paměťových komponent výrazně sníží schopnost přesné citace, aniž by zásadně ovlivnilo schopnost řešit úlohy.",
       "slug": "researchers-isolate-memorization-from-reasoning-in",
       "publishedAt": "2025-11-10T23:06:42+00:00",
       "date": "2025-11-10 23:06:42",
@@ -37,22 +137,16 @@
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "DeepMind",
-        "Google",
-        "Microsoft"
-      ],
+      "companies": [],
       "people": []
     },
     {
-      "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady na trh počítačů",
-      "description": "Apple po pěti letech shrnuje vývoj vlastních čipů od M1 po M5, ukazuje násobný nárůst výkonu CPU, GPU a AI a potvrzuje definitivní odklon od architektury Intel v Macích.",
+      "title": "Pět let Apple Silicon: srovnání výkonu od M1 po M5 a dopady na trh počítačů",
+      "description": "Pět let po uvedení čipu M1 ukazuje Apple s M5 dramatický posun ve výkonu CPU, GPU, AI a energetické efektivitě, který dále upevňuje jeho odstup od klasických x86 notebooků a mění očekávání od mobilních pracovních stanic.",
       "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
       "publishedAt": "2025-11-10T21:08:04+00:00",
       "date": "2025-11-10 21:08:04",
-      "importance": 3,
+      "importance": 4,
       "category": "hardware",
       "urlToImage": "https://images.macrumors.com/t/tF1olB3pkzfl6m7zNg9Ywn-x_XA=/1920x/article-new/2020/11/m1-chip-slide.jpg",
       "url": "/tech-news/2025-11-10/five-years-of-apple-silicon-m1-to-m5-performance-c/",
@@ -63,10 +157,12 @@
       },
       "companies": [
         "Apple",
-        "Intel",
-        "Microsoft"
+        "Intel"
       ],
-      "people": []
+      "people": [
+        "Tim Cook",
+        "Craig Federighi"
+      ]
     },
     {
       "title": "Google postupně nahrazuje Google Assistant novým Gemini Home, reakce uživatelů jsou smíšené",
@@ -91,8 +187,8 @@
       "people": []
     },
     {
-      "title": "CISA nařizuje americkým úřadům záplatovat zranitelnost Samsungu zneužívanou spywarovým útokem LandFall",
-      "description": "Americká agentura CISA zařadila kritickou zranitelnost v telefonech Samsung (CVE-2025-21042) mezi aktivně zneužívané chyby a nařídila federálním úřadům okamžitou aktualizaci, protože slouží k tichému nasazení spywaru LandFall přes WhatsApp.",
+      "title": "CISA nařídila federálním úřadům opravit zranitelnost Samsungu zneužívanou spywarem LandFall",
+      "description": "Americká CISA přikázala federálním agenturám okamžitě aktualizovat zařízení Samsung kvůli kritické zranitelnosti CVE-2025-21042, kterou útočníci využívají k nasazení spywaru LandFall přes škodlivé obrázky ve WhatsApp. Útok umožňuje vzdálené spuštění kódu a rozsáhlé sledování uživatelů bez jejich interakce.",
       "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
       "publishedAt": "2025-11-10T20:00:34+00:00",
       "date": "2025-11-10 20:00:34",
@@ -108,9 +204,7 @@
       "companies": [
         "CISA",
         "Samsung",
-        "WhatsApp",
-        "Google",
-        "Microsoft"
+        "WhatsApp"
       ],
       "people": []
     },
@@ -135,8 +229,8 @@
       "people": []
     },
     {
-      "title": "Apple potvrzuje vydání iOS 26.2 v prosinci: nové funkce a podpora pro iPhone 11 až iPhone 17",
-      "description": "Apple neobvykle předem naznačil termín vydání iOS 26.2, které dorazí v prosinci a přinese nové funkce pro širokou řadu zařízení od iPhone 11 po iPhone 17, včetně rozšíření Live Translation na AirPods v EU.",
+      "title": "Apple potvrdil vydání iOS 26.2 v prosinci: zásadní novinky pro iPhone 11 až iPhone 17",
+      "description": "Apple neobvykle dopředu potvrzuje vydání iOS 26.2 na prosinec a naznačuje nové funkce, včetně rozšíření Live Translation na AirPods v EU. Aktualizace cílí na širokou škálu zařízení od iPhonu 11 po iPhone 17 a ukazuje, jak Apple plánuje postupný rozvoj služeb místo velkých jednorázových změn.",
       "slug": "apple-ios-262-major-new-iphone-update-release-conf",
       "publishedAt": "2025-11-10T19:00:00+00:00",
       "date": "2025-11-10 19:00:00",
@@ -150,9 +244,7 @@
         "name": "Forbes"
       },
       "companies": [
-        "Apple",
-        "Google",
-        "Microsoft"
+        "Apple"
       ],
       "people": [
         "Tim Cook"
@@ -197,8 +289,31 @@
       "people": []
     },
     {
-      "title": "Mac mini s čipem M4 cenově útočí na Windows mini PC a nabízí vyšší výkon",
-      "description": "Aktualizovaný Mac mini s čipem M4, 10jádrovým CPU, 10jádrovým GPU a 16 GB jednotné paměti se v akční ceně výrazně staví proti Windows mini PC a ukazuje limity x86 platforem v kompaktním desktopu.",
+      "title": "Android 16 míří na více zařízení OnePlus a Oppo: stabilní aktualizace se rozšiřují",
+      "description": "Oppo a OnePlus zahájily širší nasazení Androidu 16 na vybrané telefony a tablety, část zařízení dostává stabilní aktualizaci globálně, část zatím pouze v Indii.",
+      "slug": "android-16-is-rolling-out-to-a-bunch-of-oneplus-an",
+      "publishedAt": "2025-11-10T17:25:00+00:00",
+      "date": "2025-11-10 17:25:00",
+      "importance": 3,
+      "category": "android",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/oppo-find-n5-oneplus-open-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-10/android-16-is-rolling-out-to-a-bunch-of-oneplus-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Android",
+        "Oppo",
+        "OnePlus",
+        "9to5Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mac mini s čipem M4 tlačí Windows mini PC do defenzivy díky výkonu i ceně",
+      "description": "Nový Mac mini s čipem M4 kombinuje 10jádrové CPU, 10jádrové GPU a 16 GB jednotné paměti za agresivní cenu, čímž představuje pro většinu Windows mini PC technologicky i ekonomicky výhodnější volbu.",
       "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
       "publishedAt": "2025-11-10T17:15:22+00:00",
       "date": "2025-11-10 17:15:22",
@@ -218,13 +333,37 @@
       "people": []
     },
     {
-      "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s novým modulem fotoaparátu",
-      "description": "Úniky renderů naznačují, že Samsung Galaxy S26 Plus nakonec dorazí na trh s upraveným modulem fotoaparátu a zachováním tradičního portfolia, místo dříve spekulovaného modelu Edge.",
+      "title": "Black Friday nabídky: AirPods 4 za 85 dolarů, slevy až 699 dolarů na M4 Max MacBook Pro a zlevněné 240W USB‑C příslušenství",
+      "description": "Předvánoční Black Friday akce u velkých prodejců výrazně zlevňují aktuální produkty Applu včetně AirPods 4, MacBook Air s čipem M4, MacBook Pro s M4 Max a 240W USB‑C kabelů, což zvyšuje dostupnost nového hardwaru pro širší okruh uživatelů.",
+      "slug": "deals-airpods-4-hit-85-all-time-low-m4-max-macbook",
+      "publishedAt": "2025-11-10T16:45:00+00:00",
+      "date": "2025-11-10 16:45:00",
+      "importance": 3,
+      "category": "apple nabídky",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-deals-AirPods-4-MacBook-Bose.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-10/deals-airpods-4-hit-85-all-time-low-m4-max-macbook/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Best Buy",
+        "Target",
+        "Amazon",
+        "9to5Mac"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s přepracovaným modulem fotoaparátu",
+      "description": "Nové rendery údajného Samsungu Galaxy S26 Plus naznačují zachování tradičního designu řady S s mírně přepracovaným modulem fotoaparátu a měnícím se složením modelové řady, kde se role Edge a Plus opět přeskupují.",
       "slug": "samsung-galaxy-s26-plus-reappears-in-renders-with-",
       "publishedAt": "2025-11-10T16:42:01+00:00",
       "date": "2025-11-10 16:42:01",
       "importance": 2,
-      "category": "smartphony",
+      "category": "hardware",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
       "url": "/tech-news/2025-11-10/samsung-galaxy-s26-plus-reappears-in-renders-with-/",
       "source": {
@@ -261,6 +400,30 @@
       ]
     },
     {
+      "title": "Univerzita v Texasu zdvojnásobuje kapacitu AI výpočetního centra a míří mezi nejvýkonnější akademické AI clustery",
+      "description": "Center for Generative AI na University of Texas at Austin zdvojnásobuje svou kapacitu na více než 1 000 GPU, což umožní trénink velkých modelů od základu, rychlejší výzkum v oblasti biomedicíny, zpracování obrazu a jazyka a posílí nezávislý open-source výzkum mimo infrastrukturu velkých technologických firem.",
+      "slug": "ut-doubles-size-of-one-of-worlds-most-powerful-ai-",
+      "publishedAt": "2025-11-10T16:31:37+00:00",
+      "date": "2025-11-10 16:31:37",
+      "importance": 3,
+      "category": "ai hardware",
+      "urlToImage": "https://news.utexas.edu/wp-content/uploads/2025/11/deep-protiens.png",
+      "url": "/tech-news/2025-11-10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Utexas.edu"
+      },
+      "companies": [
+        "NVIDIA",
+        "Microsoft",
+        "Dell Technologies",
+        "OpenAI",
+        "Advanced Micro Devices"
+      ],
+      "people": []
+    },
+    {
       "title": "PS6 se přiblíží PC: otevřenější architektura, AI a konec exkluzivity v tradičním smyslu",
       "description": "Sony podle vyjádření Marka Cernyho směřuje u příští generace PlayStation k architektuře blízké PC, úzké integraci s AMD a rozsáhlejšímu využití AI, což může změnit podobu herních exkluzivit i vývoj víceplatforemních titulů.",
       "slug": "sorry-sony-fans-the-ps6-may-be-even-more-pc-than-c",
@@ -281,6 +444,28 @@
         "Apple",
         "Google",
         "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Neberte iPad v Apple Store: Amazon zlevnil 11\" iPad s čipem A16 na minimum",
+      "description": "Amazon snížil cenu základního 11\" iPadu (Wi‑Fi, 128 GB, čip A16) na 299 dolarů, zatímco Apple drží oficiální cenu 349 dolarů. Nabídka výrazně zvyšuje poměr výkon/cena a tlačí na cenovou politiku Applu i konkurenci v segmentu tabletů.",
+      "slug": "dont-buy-your-ipad-at-an-apple-store-amazon-just-d",
+      "publishedAt": "2025-11-10T16:15:45+00:00",
+      "date": "2025-11-10 16:15:45",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/10/ipad-11-a16.jpg",
+      "url": "/tech-news/2025-11-10/dont-buy-your-ipad-at-an-apple-store-amazon-just-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Kotaku"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "Kotaku"
       ],
       "people": []
     },
@@ -344,8 +529,8 @@
       ]
     },
     {
-      "title": "Jak proměnit matematiku v logickou hádanku: stroje jako autoři důkazů",
-      "description": "Výzkumník Marijn Heule ukazuje, jak převádět složité matematické problémy do podoby SAT úloh podobných sudoku, které lze řešit výpočetně. V kombinaci se současnými AI modely může tento přístup posunout automatizované dokazování za hranice lidských schopností.",
+      "title": "Aby stroje vytvářely matematické důkazy, proměňte je v puzzle",
+      "description": "Marijn Heule převádí matematická tvrzení na něco jako sudoku hádanky a pak je nechává řešit počítače. Jeho důkazy byly označeny za „odporné“, ale překračují možnosti jakéhokoli člověka.",
       "slug": "to-have-machines-make-math-proofs-turn-them-into-a",
       "publishedAt": "2025-11-10T15:29:38+00:00",
       "date": "2025-11-10 15:29:38",
@@ -364,13 +549,13 @@
       ]
     },
     {
-      "title": "Windows 11 26H1 míří na trh jen pro nové procesory",
-      "description": "Microsoft chystá verzi Windows 11 26H1, která nebude běžným funkčním updatem, ale cíleným vydáním pro nové typy procesorů, pravděpodobně nadcházející generaci čipů Qualcomm Snapdragon. Pro většinu uživatelů zůstává hlavní větví 25H2 a následná 26H2.",
+      "title": "Windows 11 26H1 míří jen na nové procesory, běžní uživatelé zůstávají na 25H2",
+      "description": "Microsoft potvrdil verzi Windows 11 26H1, která přináší hlavně změny pro podporu nových čipů, pravděpodobně Qualcomm Snapdragon X2, zatímco klíčové funkce zůstávají ve verzi 25H2.",
       "slug": "windows-11-26h1-is-coming-for-new-processors-only-",
       "publishedAt": "2025-11-10T15:18:00+00:00",
       "date": "2025-11-10 15:18:00",
       "importance": 3,
-      "category": "operační systémy",
+      "category": "software",
       "urlToImage": "https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg",
       "url": "/tech-news/2025-11-10/windows-11-26h1-is-coming-for-new-processors-only-/",
       "source": {
@@ -3687,27 +3872,6 @@
       ]
     },
     {
-      "title": "Nové Theme packs pro Google Pixel: personalizace telefonu jedním klepnutím",
-      "description": "Google připravuje aplikaci Theme packs pro telefony Pixel, která umožní jedním klepnutím změnit tapety, ikony, zvuky a další prvky prostředí. První balíčky budou sezónní motivy inspirované filmem Wicked: For Good! a budou vyžadovat dodatečnou aktualizaci systému.",
-      "slug": "googles-new-pixel-theme-packs-are-nearly-ready-to-",
-      "publishedAt": "2025-11-05T21:50:25+00:00",
-      "date": "2025-11-05 21:50:25",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Theme-Packs-App-2-scaled.jpg",
-      "url": "/tech-news/2025-11-05/googles-new-pixel-theme-packs-are-nearly-ready-to-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google",
-        "Android Authority"
-      ],
-      "people": []
-    },
-    {
       "title": "Nova Launcher se nečekaně vrací: druhá aktualizace během dvou týdnů vrací důvěru uživatelů",
       "description": "Populární androidí launcher Nova Launcher po nejistém období získává druhou rychlou aktualizaci s opravami chyb a zlepšením stability, přestože původní vývojářský tým už na projektu oficiálně nepracuje.",
       "slug": "nova-launcher-is-back-with-a-second-unexpected-upd",
@@ -3743,26 +3907,6 @@
       "companies": [
         "Apple",
         "9to5Mac"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google integruje Gemini do Map: chytrější navigace a asistované vyhledávání na cestách",
-      "description": "Google rozšiřuje AI model Gemini do aplikace Mapy na Androidu a iOS a přidává navigaci podle orientačních bodů, proaktivní dopravní upozornění a pokročilé vyhledávání podniků a restaurací.",
-      "slug": "google-maps-major-gemini-update-makes-hitting-the-",
-      "publishedAt": "2025-11-05T19:55:00+00:00",
-      "date": "2025-11-05 19:55:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uNahv82c4BJbWTAar4bxL7-2560-80.jpg",
-      "url": "/tech-news/2025-11-05/google-maps-major-gemini-update-makes-hitting-the-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Central"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -3824,27 +3968,6 @@
       "people": []
     },
     {
-      "title": "Google uvádí novou aplikaci Theme packs pro rychlé přizpůsobení telefonů Pixel",
-      "description": "Google vydal na Play Store aplikaci Theme packs pro telefony Pixel 6 a novější, která umožňuje jedním krokem změnit tapety, ikony, zvuky a další prvky uživatelského prostředí pomocí sezónních balíčků.",
-      "slug": "google-releases-new-pixel-theme-packs-app-on-the-p",
-      "publishedAt": "2025-11-05T18:31:00+00:00",
-      "date": "2025-11-05 18:31:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Pixel-Theme-packs-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/google-releases-new-pixel-theme-packs-app-on-the-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google",
-        "9to5Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Black Friday snižuje ceny MacBooku Air M4: 13″ od 749,99 USD, 15″ od 949,99 USD",
       "description": "Amazon před Black Friday výrazně zlevnil nové MacBooky Air s čipem M4, 13palcový model začíná na 749,99 USD a 15palcový na 949,99 USD, což jsou dosud nejnižší ceny. Sleva se týká také vybraných konfigurací s 512GB úložištěm.",
       "slug": "macbook-air-black-friday-deals-arrive-with-new-low",
@@ -3862,47 +3985,6 @@
       "companies": [
         "Apple",
         "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Gemini Deep Research získává přístup k Gmailu a Google Drive pro hlubší analýzu dat",
-      "description": "Google rozšiřuje funkci Gemini Deep Research o přímý přístup k datům z Gmailu, Google Drive a Google Chat, což umožňuje automatizovanou analýzu interních dokumentů, e-mailů a konverzací v kombinaci s daty z webu.",
-      "slug": "gemini-deep-research-can-tap-into-your-gmail-and-g",
-      "publishedAt": "2025-11-05T17:25:00+00:00",
-      "date": "2025-11-05 17:25:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Gemini-Deep-Research-Drive.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/gemini-deep-research-can-tap-into-your-gmail-and-g/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google",
-        "9to5Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google AI Mode přichází do Chrome pro Android a iOS, rozšiřuje automatické rezervace",
-      "description": "Nový vyhledávací režim AI Mode se rozšiřuje do mobilních prohlížečů Chrome a získává pokročilé agentní funkce pro rezervace restaurací, vstupenek a wellness služeb.",
-      "slug": "google-ai-mode-comes-to-chrome-for-android-ios-exp",
-      "publishedAt": "2025-11-05T17:15:00+00:00",
-      "date": "2025-11-05 17:15:00",
-      "importance": 3,
-      "category": "ai vyhledávání",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-AI-Mode-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-05/google-ai-mode-comes-to-chrome-for-android-ios-exp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -3945,26 +4027,6 @@
       "people": []
     },
     {
-      "title": "Google zkoumá datová centra pro AI na oběžné dráze v rámci projektu Suncatcher",
-      "description": "Google představil projekt Suncatcher, který zkoumá možnost provozovat AI výpočty v solárně napájených satelitních konstelacích na nízké oběžné dráze, vybavených čipy TPU a optickými komunikačními linkami.",
-      "slug": "if-you-want-to-satiate-ais-hunger-for-power-google",
-      "publishedAt": "2025-11-05T16:36:12+00:00",
-      "date": "2025-11-05 16:36:12",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/googletpu-1152x648.jpg",
-      "url": "/tech-news/2025-11-05/if-you-want-to-satiate-ais-hunger-for-power-google/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Virální „domov důchodců“ na TikToku je kompletně generovaný pomocí AI, uživatelé se cítí podvedeni",
       "description": "Populární účet @basincreekretirement, který ukazuje „obyvatele“ domova důchodců v vtipných halloweenských kostýmech, se ukázal být plně generovaný pomocí AI. Případ otevírá debatu o transparentnosti, etice a důvěře v tvůrce obsahu na sociálních sítích.",
       "slug": "tiktok-users-crushed-after-finding-out-viral-retir",
@@ -3981,26 +4043,6 @@
       },
       "companies": [
         "TikTok"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak vyčistit Windows 11 25H2 od reklam a AI funkcí",
-      "description": "Ars Technica publikoval aktualizovaný průvodce pro odstranění nežádoucích funkcí, reklam a vynucených služeb Microsoftu z nové verze Windows 11 25H2.",
-      "slug": "how-to-declutter-quiet-down-and-take-the-ai-out-of",
-      "publishedAt": "2025-11-05T15:42:57+00:00",
-      "date": "2025-11-05 15:42:57",
-      "importance": 3,
-      "category": "operační systémy",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-1152x648.jpg",
-      "url": "/tech-news/2025-11-05/how-to-declutter-quiet-down-and-take-the-ai-out-of/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     },
@@ -4023,24 +4065,6 @@
         "Samsung",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Ford Maverick 300T Concept: 300koňový koncept s turbem z Mustangu míří k zákazníkům",
-      "description": "Ford představil na SEMA koncept Maverick 300T s přeplňovaným dvoulitrem a turbem z Mustangu, výkonem 300 koní a plánem nabídnout tento paket zákazníkům jako továrně podporované řešení.",
-      "slug": "ford-maverick-300t-concept-uses-a-mustang-turbo-to",
-      "publishedAt": "2025-11-05T15:01:08+00:00",
-      "date": "2025-11-05 15:01:08",
-      "importance": 3,
-      "category": "automobilismus",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/ford-maverick-300t-concept-uses-a-mustang-turbo-to-hit-300-hp-and-ford-plans-to-sell-it-to-customers/l-intro-1762354657.jpg",
-      "url": "/tech-news/2025-11-05/ford-maverick-300t-concept-uses-a-mustang-turbo-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -4119,28 +4143,6 @@
       },
       "companies": [
         "Sandbar"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalí zaměstnanci Mety představili Sandbar, chytrý prsten pro hlasové poznámky a ovládání hudby",
-      "description": "Startup Sandbar od bývalých vývojářů Meta uvádí prsten Stream, který slouží jako hlasové rozhraní pro zaznamenávání myšlenek, interakci s AI asistentem a ovládání médií.",
-      "slug": "former-meta-employees-launch-sandbar-a-smart-ring-",
-      "publishedAt": "2025-11-05T11:00:00+00:00",
-      "date": "2025-11-05 11:00:00",
-      "importance": 3,
-      "category": "nositelná elektronik",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
-      "url": "/tech-news/2025-11-05/former-meta-employees-launch-sandbar-a-smart-ring-/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Meta",
-        "Sandbar",
-        "TechCrunch"
       ],
       "people": []
     },
