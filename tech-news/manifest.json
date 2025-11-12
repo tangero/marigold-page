@@ -1,10 +1,33 @@
 {
-  "generated": "2025-11-11T20:21:05.331891+00:00",
+  "generated": "2025-11-12T00:59:56.404744+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Apple odkládá další generaci iPhonu Air kvůli slabým prodejům prvního modelu",
-      "description": "Apple podle zdrojů z dodavatelského řetězce a vývoje odkládá uvedení příští generace iPhonu Air, svého nejtenčího telefonu, protože první verze zařízení nenaplnila prodejní očekávání. Zpoždění naznačuje opatrnější strategii firmy v segmentu prémiových, designově vyhraněných modelů.",
+      "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady pro uživatele Maců",
+      "description": "Apple po pěti letech uzavírá éru přechodu z Intel procesorů na vlastní čipy Apple Silicon a ukazuje, jak se výkon od M1 k M5 násobně zvýšil v oblasti CPU, GPU, AI i multimédií.",
+      "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
+      "publishedAt": "2025-11-10T21:08:04+00:00",
+      "date": "2025-11-10 21:08:04",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/tF1olB3pkzfl6m7zNg9Ywn-x_XA=/1920x/article-new/2020/11/m1-chip-slide.jpg",
+      "url": "/tech-news/2025-11-10/five-years-of-apple-silicon-m1-to-m5-performance-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Apple odkládá vydání dalšího iPhone Air kvůli slabým prodejům prvního modelu",
+      "description": "Apple podle zdrojů z interního vývoje odkládá příští generaci iPhone Air, nejtenčího modelu ve svém portfoliu, protože první verze zaostala za prodejními očekáváními. Zpoždění naznačuje korekci strategie kolem tenkých prémiových telefonů a opatrnější přístup k experimentálním produktovým řadám.",
       "slug": "apple-delays-release-of-next-iphone-air-amid-weak-",
       "publishedAt": "2025-11-10T19:10:00+00:00",
       "date": "2025-11-10 19:10:00",
@@ -45,13 +68,34 @@
       ]
     },
     {
-      "title": "BikeYoke Shifty 2: Mechanický upgrade řazení pro přesnější a tišší chod",
-      "description": "Shifty 2 od BikeYoke je mechanický tuningový kit pro přehazovačky SRAM T-Type, který pomocí přepracované vodicí kladky a bušingu zlepšuje přesnost, snižuje tření a omezuje vůli v systému řazení.",
+      "title": "Apple AirPods 4 dosáhly nejnižší ceny: bezdrátová sluchátka klesla na 85 dolarů",
+      "description": "Apple zlevnil základní AirPods 4 na 84,99 dolaru, což je dosud nejnižší cena. Nový model přináší lepší zvuk, kvalitnější hovory a odolnější konstrukci než předchůdci.",
+      "slug": "apples-airpods-4-just-hit-their-lowest-price-yet-a",
+      "publishedAt": "2025-11-10T18:47:53+00:00",
+      "date": "2025-11-10 18:47:53",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-10/apples-airpods-4-just-hit-their-lowest-price-yet-a/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple",
+        "The Verge"
+      ],
+      "people": []
+    },
+    {
+      "title": "BikeYoke Shifty 2: Mechanický tuning pro přesnější řazení u teleskopických sedlovek",
+      "description": "BikeYoke Shifty 2 je druhá generace mechanického adaptéru, který optimalizuje vedení lanka mezi páčkou řazení a teleskopickou sedlovkou, s cílem snížit tření, zvýšit spolehlivost a zlepšit ergonomii ovládání pro náročné cyklisty.",
       "slug": "the-bikeyoke-shifty-2-is-a-mechanical-transmission",
       "publishedAt": "2025-11-10T17:39:22+00:00",
       "date": "2025-11-10 17:39:22",
       "importance": 3,
-      "category": "cyklistická technolo",
+      "category": "cyklistika",
       "urlToImage": "https://ep1.pinkbike.org/p4pb29005862/p4pb29005862.jpg",
       "url": "/tech-news/2025-11-10/the-bikeyoke-shifty-2-is-a-mechanical-transmission/",
       "source": {
@@ -63,13 +107,13 @@
       "people": []
     },
     {
-      "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s novým modulem fotoaparátu",
-      "description": "Nové rendery naznačují, že Samsung nakonec uvede Galaxy S26 Plus místo dříve spekulovaného modelu Edge. Hlavní změnou je upravený ostrov fotoaparátu, zatímco zbytek konstrukce zůstává blízký předchozí generaci.",
+      "title": "Únik renderů ukazuje návrat Samsungu Galaxy S26 Plus s novým modulem fotoaparátu",
+      "description": "Nové rendery založené na únicích specifikací naznačují, že Samsung Galaxy S26 Plus nakonec nahradí dříve zmiňovaný model Edge a přijde s upraveným modulem fotoaparátu, jinak však zachová konzervativní design i rozměry.",
       "slug": "samsung-galaxy-s26-plus-reappears-in-renders-with-",
       "publishedAt": "2025-11-10T16:42:01+00:00",
       "date": "2025-11-10 16:42:01",
       "importance": 2,
-      "category": "smartphony",
+      "category": "hardware",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
       "url": "/tech-news/2025-11-10/samsung-galaxy-s26-plus-reappears-in-renders-with-/",
       "source": {
@@ -83,13 +127,36 @@
       "people": []
     },
     {
-      "title": "PS6 se přiblíží PC: Sony plánuje otevřenější architekturu a AI technologie od AMD",
-      "description": "Další generace PlayStation má opustit silně proprietární hardware a více se přiblížit PC architektuře s důrazem na AI akceleraci, upscaling a efektivnější GPU, což může změnit způsob vývoje her i význam exkluzivit.",
+      "title": "Apple údajně zvažuje odstranění Dynamic Island a přechod na poddisplejovou kameru",
+      "description": "Podle neoficiálních úniků by Apple mohl u výročního iPhonu v roce 2027 skrýt přední kameru pod displej a nabídnout zcela celoplošný design bez výřezů, což však zatím zůstává spekulací.",
+      "slug": "rumor-suggests-apple-could-kill-dynamic-island-wit",
+      "publishedAt": "2025-11-10T16:36:02+00:00",
+      "date": "2025-11-10 16:36:02",
+      "importance": 2,
+      "category": "smartphony",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01Cx09qjiQhFOYma7uOUOc7/hero-image.fill.size_1200x675.v1762791050.png",
+      "url": "/tech-news/2025-11-10/rumor-suggests-apple-could-kill-dynamic-island-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "Apple",
+        "Mashable"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "PS6 se přiblíží PC: otevřenější architektura, AI a konec exkluzivity v tradičním smyslu",
+      "description": "Sony podle vyjádření Marka Cernyho směřuje u příští generace PlayStation k architektuře blízké PC, úzké integraci s AMD a rozsáhlejšímu využití AI, což může změnit podobu herních exkluzivit i vývoj víceplatforemních titulů.",
       "slug": "sorry-sony-fans-the-ps6-may-be-even-more-pc-than-c",
       "publishedAt": "2025-11-10T16:18:22+00:00",
       "date": "2025-11-10 16:18:22",
       "importance": 3,
-      "category": "herní konzole",
+      "category": "herní průmysl",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/PlayStation-5-Slim-Versus-PlayStation-5-Original-Spider-MAn-1200x675.jpg",
       "url": "/tech-news/2025-11-10/sorry-sony-fans-the-ps6-may-be-even-more-pc-than-c/",
       "source": {
@@ -99,7 +166,10 @@
       },
       "companies": [
         "Sony",
-        "Microsoft"
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Nvidia"
       ],
       "people": []
     },
@@ -122,8 +192,8 @@
       "people": []
     },
     {
-      "title": "36 absurdních screenshotů, které jsou pořád stejně hloupé a pořád stejně směšné",
-      "description": "Výběr virálních a záměrně hloupých screenshotů z Instagramu, Redditu, TikToku a dalších sítí ukazuje, jak jednoduše funguje vizuální humor a memová kultura na internetu.",
+      "title": "36 absurdních screenshotů, které jsou pořád stejně hloupé a zábavné",
+      "description": "Výběr virálních screenshotů z Instagramu, Redditu, X a dalších platforem ukazuje směs internetového humoru založeného na bizarních situacích, chybách a přestřelené kreativitě. Obsah je čistě zábavní, bez technologické či společenské přidané hodnoty.",
       "slug": "A-36-ridiculously-stupid-screenshots-that-get-funn",
       "publishedAt": "2025-11-10T16:09:24+00:00",
       "date": "2025-11-10 16:09:24",
@@ -136,13 +206,7 @@
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Tesla",
-        "SpaceX"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -169,8 +233,8 @@
       ]
     },
     {
-      "title": "Aby stroje dokazovaly matematiku, musíme z ní udělat logickou hádanku",
-      "description": "Marijn Heule využívá metodu SAT k převodu složitých matematických problémů na logické úlohy podobné sudoku a ukazuje, jak kombinace symbolických metod a moderní AI může řešit důkazy mimo dosah člověka.",
+      "title": "Jak proměnit matematické důkazy v logickou hádanku: počítače jako nový nástroj pro čistou matematiku",
+      "description": "Marijn Heule využívá metodu SAT k převodu složitých matematických problémů na strukturované logické hádanky, které lze řešit výpočetně. Spolu s nástupem velkých jazykových modelů se rýsuje nový směr, jak automatizovat důkazy tvrzení mimo dosah člověka.",
       "slug": "to-have-machines-make-math-proofs-turn-them-into-a",
       "publishedAt": "2025-11-10T15:29:38+00:00",
       "date": "2025-11-10 15:29:38",
@@ -189,13 +253,13 @@
       ]
     },
     {
-      "title": "Windows 11 26H1 míří jen na nové procesory. Běžní uživatelé zůstanou na 25H2",
-      "description": "Microsoft chystá speciální vydání Windows 11 26H1 zaměřené výhradně na podporu nové generace procesorů, pravděpodobně Snapdragon X2, zatímco hlavní novinky zůstanou ve verzi 25H2 a následném 26H2.",
+      "title": "Windows 11 26H1 míří jen na nové procesory, běžným uživatelům zůstane skrytý",
+      "description": "Microsoft připravuje verzi Windows 11 26H1 zaměřenou pouze na podporu nových čipů, pravděpodobně Snapdragon X2, zatímco hlavní funkční novinky zůstanou ve verzi 25H2 a pozdější 26H2.",
       "slug": "windows-11-26h1-is-coming-for-new-processors-only-",
       "publishedAt": "2025-11-10T15:18:00+00:00",
       "date": "2025-11-10 15:18:00",
       "importance": 3,
-      "category": "windows",
+      "category": "operační systémy",
       "urlToImage": "https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg",
       "url": "/tech-news/2025-11-10/windows-11-26h1-is-coming-for-new-processors-only-/",
       "source": {
@@ -209,12 +273,12 @@
       "people": []
     },
     {
-      "title": "iOS 27 má přinést tři zásadní AI funkce: nový Siri, chytré vyhledávání a zdravotního asistenta",
-      "description": "Podle Marka Gurmana Apple v iOS 27 plánuje výrazné rozšíření Apple Intelligence: vizuálně přepracovaného asistenta Siri, AI nástroj pro vyhledávání na webu a novou službu Health+ s AI agentem pro správu zdraví uživatelů.",
+      "title": "iOS 27 přinese tři zásadní AI novinky: nový Siri, vyhledávání a zdravotního asistenta",
+      "description": "Apple podle nových informací připravuje pro iOS 27 tři výrazné AI funkce: vizuálně přepracovaného asistenta Siri, nový AI nástroj pro webové vyhledávání a Health+ službu s AI agentem pro správu zdraví uživatelů.",
       "slug": "ios-27-will-have-three-major-new-ai-features-per-r",
       "publishedAt": "2025-11-10T14:54:00+00:00",
       "date": "2025-11-10 14:54:00",
-      "importance": 3,
+      "importance": 4,
       "category": "ai",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-10/ios-27-will-have-three-major-new-ai-features-per-r/",
@@ -230,8 +294,8 @@
       "people": []
     },
     {
-      "title": "Apple rozšiřuje satelitní služby pro iPhony a otevírá je vývojářům",
-      "description": "Apple podle zprávy plánuje rozšířit satelitní funkce iPhonů, zavést podporu 5G Non-Terrestrial Networks (NTN) a zpřístupnit satelitní konektivitu vývojářům třetích stran pro nové typy aplikací.",
+      "title": "Apple rozšíří satelitní služby iPhonů o nové funkce a podporu 5G NTN",
+      "description": "Apple podle dostupných informací plánuje rozšířit satelitní funkce iPhonů, integrovat podporu 5G NTN (non-terrestrial networks) a otevřít část satelitních možností vývojářům pro nové typy aplikací a služeb.",
       "slug": "apple-plans-new-features-for-iphone-satellite-serv",
       "publishedAt": "2025-11-10T14:04:31+00:00",
       "date": "2025-11-10 14:04:31",
@@ -247,7 +311,9 @@
       "companies": [
         "Apple"
       ],
-      "people": []
+      "people": [
+        "Tim Cook"
+      ]
     },
     {
       "title": "ViVeTool: Jak odemknout skryté funkce Windows 10 a 11",
@@ -314,8 +380,8 @@
       ]
     },
     {
-      "title": "Apple Watch SE (2. generace) ve výrazné slevě na Amazonu před Black Friday",
-      "description": "Apple Watch SE 2 (GPS, 44mm) jsou na Amazonu dočasně zlevněny z 279 na 189,99 dolarů, což představuje přibližně 32% slevu. Nabídka se týká více barevných variant a cílí na uživatele hledající dostupnější vstup do ekosystému Apple.",
+      "title": "Apple Watch SE (2. generace) výrazně zlevnil na Amazonu před Black Friday",
+      "description": "Chytré hodinky Apple Watch SE 2 (GPS, 44 mm) jsou na Amazonu k dispozici s přibližně 32% slevou, což z nich dělá cenově dostupnější vstup do ekosystému Apple před hlavní vlnou slev Black Friday.",
       "slug": "best-apple-watch-se-2-deal-save-8901-at-amazon-mas",
       "publishedAt": "2025-11-10T12:33:09+00:00",
       "date": "2025-11-10 12:33:09",
@@ -354,8 +420,8 @@
       "people": []
     },
     {
-      "title": "Nový AI framework dokáže přímo z dat odhalovat rovnice pro fyziku vesmíru",
-      "description": "Tým z Tsinghua University, Peking University a dalších čínských institucí vyvinul framework PhyE2E, který pomocí AI automatizovaně odvozuje symbolické fyzikální rovnice z neupravených měření, a to s využitím jazykových modelů, fyzikálních priorů a cíleného prohledávání.",
+      "title": "Nový AI framework automaticky odhaluje fyzikální rovnice z neupravených dat",
+      "description": "Tým z Tsinghua University a Peking University představil framework PhyE2E, který kombinuje generativní AI, symbolickou regresi a fyzikální znalosti k automatickému odvozování fyzikálních zákonů z neupravených dat, s důrazem na aplikace ve fyzice kosmického prostoru.",
       "slug": "new-ai-framework-can-uncover-space-physics-equatio",
       "publishedAt": "2025-11-10T12:00:01+00:00",
       "date": "2025-11-10 12:00:01",
@@ -412,8 +478,8 @@
       "people": []
     },
     {
-      "title": "Po deseti letech v zakouřeném bytě se GeForce 9800GT vrací k životu a spouští Crysis",
-      "description": "YouTuber Madness727 obnovil grafickou kartu Asus ROG Matrix GeForce 9800GT, která strávila zhruba dekádu v silně zakouřeném prostředí, a navzdory znečištění ji úspěšně uvedl do plně funkčního stavu.",
+      "title": "Zachráněná GeForce 9800GT po deseti letech v zakouřeném prostředí znovu běží a zvládá Crysis",
+      "description": "YouTuber Madness727 z kanálu Overclocked Madness obnovil grafickou kartu Asus ROG Matrix GeForce 9800GT, která strávila zhruba deset let v silně zakouřeném prostředí. Po kompletním rozebrání, vyčištění, přepastování a kontrole komponent se kartu podařilo uvést do plně funkčního stavu a spustit na ní i náročnou hru Crysis.",
       "slug": "after-ten-years-in-a-smoke-filled-room-this-geforc",
       "publishedAt": "2025-11-10T08:45:00+00:00",
       "date": "2025-11-10 08:45:00",
@@ -3561,27 +3627,6 @@
       ]
     },
     {
-      "title": "AMD Ryzen 5 7500X3D: Unikají parametry levnější 3D V-Cache varianty pro AM5",
-      "description": "Uniklé výsledky z Geekbench naznačují příchod procesoru AMD Ryzen 5 7500X3D se 6 jádry a technologií 3D V-Cache, taktovaného o 100 MHz níže než Ryzen 5 7600X3D. Jde o spekulativní informaci, která ukazuje snahu AMD rozšířit nabídku X3D modelů pro cenově dostupnější herní sestavy.",
-      "slug": "amd-ryzen-5-7500x3d-6-core-3d-v-cache-cpu-clocks-1",
-      "publishedAt": "2025-11-05T20:28:00+00:00",
-      "date": "2025-11-05 20:28:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/AMD-RYZEN-7500X3D-HERO.jpg",
-      "url": "/tech-news/2025-11-05/amd-ryzen-5-7500x3d-6-core-3d-v-cache-cpu-clocks-1/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "AMD",
-        "VideoCardz"
-      ],
-      "people": []
-    },
-    {
       "title": "Nova Launcher se nečekaně vrací: druhá aktualizace během dvou týdnů vrací důvěru uživatelů",
       "description": "Populární androidí launcher Nova Launcher po nejistém období získává druhou rychlou aktualizaci s opravami chyb a zlepšením stability, přestože původní vývojářský tým už na projektu oficiálně nepracuje.",
       "slug": "nova-launcher-is-back-with-a-second-unexpected-upd",
@@ -3617,27 +3662,6 @@
       "companies": [
         "Apple",
         "9to5Mac"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple údajně plánuje použít vlastní verzi Google Gemini pro Apple Intelligence",
-      "description": "Podle zpráv Bloomberg má Apple uzavřít partnerství s Googlem na vlastní verzi modelu Gemini pro Siri, za což má platit přibližně miliardu dolarů ročně.",
-      "slug": "apple-is-planning-to-use-a-custom-version-of-googl",
-      "publishedAt": "2025-11-05T20:12:33+00:00",
-      "date": "2025-11-05 20:12:33",
-      "importance": 2,
-      "category": "ai asistenti",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-05/apple-is-planning-to-use-a-custom-version-of-googl/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     },
@@ -3949,28 +3973,6 @@
         "Microsoft",
         "Meta",
         "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "AMD míří na rozpočetní herní segment: nové APU mohou ohrozit levné samostatné GPU",
-      "description": "Únik specifikací naznačuje, že připravované APU AMD Ryzen AI Max+ se silnou integrovanou grafikou mohou nabídnout výkon blízký levným dedikovaným GPU, a tím dále oslabit smysl nákupu nízkého segmentu grafických karet.",
-      "slug": "amds-new-cpus-might-just-kill-low-end-gpus-soon-gi",
-      "publishedAt": "2025-11-05T16:16:16+00:00",
-      "date": "2025-11-05 16:16:16",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/FrameworkDesktop-Teardown-Hero-WithHands-1-1200x675.jpg",
-      "url": "/tech-news/2025-11-05/amds-new-cpus-might-just-kill-low-end-gpus-soon-gi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "AMD",
-        "Nvidia",
-        "Intel"
       ],
       "people": []
     },
