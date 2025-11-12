@@ -1,11 +1,11 @@
 ---
-category: hardware
+category: smartphony
 companies:
 - Samsung
 date: '2025-11-10 16:42:01'
-description: Nové rendery založené na únicích specifikací naznačují, že Samsung Galaxy
-  S26 Plus nakonec nahradí dříve zmiňovaný model Edge a přijde s upraveným modulem
-  fotoaparátu, jinak však zachová konzervativní design i rozměry.
+description: Nové rendery naznačují, že dříve údajně zrušený Samsung Galaxy S26 Plus
+  nakonec dorazí s upraveným modulem fotoaparátu a tradičnějším zařazením v řadě S26
+  místo plánovaného modelu Edge.
 importance: 2
 layout: tech_news_article
 original_title: Samsung Galaxy S26 Plus reappears in renders with a new camera island
@@ -16,17 +16,15 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: Únik renderů ukazuje návrat Samsungu Galaxy S26 Plus s novým modulem fotoaparátu
+title: Samsung Galaxy S26 Plus se vrací v únicích renderů s novým modulem fotoaparátu
 url: https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200
 ---
 
-Úniky naznačují, že původně odepisovaný Samsung Galaxy S26 Plus nakonec dorazí na trh a nahradí dříve spekulovaný model S26 Edge. Nové rendery od známého leakera OnLeaks, zveřejněné serverem Android Headlines, ukazují zařízení s velmi podobnou siluetou jako u Galaxy S25 Plus, ale s přepracovaným ostrovem fotoaparátu umístěným přímo pod trojitým modulem. Na rozdíl od dříve diskutovaného „full-width“ řešení pro S26 Edge zde Samsung údajně volí menší, zvýšený blok, který designově ladí s dřívějšími návrhy pro S26 Ultra.
+Úniky nových renderů naznačují, že Samsung Galaxy S26 Plus nakonec nebude zrušen, jak se dříve spekulovalo, ale naopak se vrací do plánované sestavy vlajkových modelů pro příští rok. Podle informací od známého leakera OnLeaks, zveřejněných serverem Android Headlines, má jít o telefon, který vzhledově naváže na současnou generaci, ale přinese upravený modul fotoaparátu. Hlavní změnou je malý zvýšený „ostrov“ pod trojicí zadních fotoaparátů, který se odlišuje od dříve uniklých konceptů pro údajný model S26 Edge i od plochého uspořádání u S25 Plus.
 
-Podle dostupných informací má být Galaxy S26 Plus přibližně 7,35 mm silný, tedy podobně jako S25 Plus a výrazně tlustší než plánovaný, ale patrně zrušený S25 Edge s tloušťkou kolem 5,8 mm. To naznačuje, že Samsung se odklání od experimentu s extrémně tenkým zařízením a vrací se k konzervativnějšímu konstrukčnímu přístupu, který je ověřený z hlediska baterie, chlazení i celkové odolnosti. Konfigurace objektivů zůstává podle renderů trojitá, bez radikální změny rozmístění, takže zásadní skok ve fotografických schopnostech z těchto materiálů nevyplývá.
-
-Celá produktová řada Galaxy S26 působí podle uniklých informací chaoticky: původní scénář počítal s Ultra, Edge a menším Pro, nyní se však zdá, že Samsung se vrací k tradiční sestavě se standardním S26 a S26 Plus a osud modelů Edge a Pro je nejistý. Aktuální informace jsou navíc neoficiální a založené na únicích, takže nelze vyloučit další úpravy designu či line-upu. Pro uživatele to v této fázi znamená jediné: očekávat tradičněji pojatý „střední“ vlajkový model s menšími evolučními změnami, zejména v oblasti vzhledu modulu fotoaparátu, místo zásadního redesignu nebo extrémně tenkého zařízení. Z hlediska trhu jde spíše o signál, že Samsung preferuje srozumitelnou a méně rizikovou produktovou strategii před agresivními experimenty.
+Renderované rozměry kolem 7,35 mm ukazují, že S26 Plus nebude extrémně tenký přístroj typu Edge, ale spíše standardní robustnější vlajkový model, což může znamenat konzervativnější přístup k baterii, chlazení a výdrži. Situace kolem celé řady S26 působí nejednotně: původně se očekávaly modely Ultra, Edge a menší Pro, nyní to však vypadá na návrat ke klasickému rozdělení s verzemi S26, S26 Plus a S26 Ultra. Únik je založen na neoficiálních informacích a renderech podle specifikací, takže některé prvky designu, včetně barevných variant, nejsou potvrzené a mohou se změnit. Pro uživatele to zatím znamená jediné: Samsung zřejmě nehodlá opustit středně velký model Plus, který tradičně cílí na ty, kteří chtějí vlajkovou výbavu bez extrémní velikosti Ultra varianty. V tuto chvíli však chybí potvrzené údaje o konkrétních hardwarových parametrech, fotoaparátech či nových softwarových funkcích, takže je důležité brát tyto informace jako spekulativní a vyčkat na oficiální oznámení.
 
 ---
 

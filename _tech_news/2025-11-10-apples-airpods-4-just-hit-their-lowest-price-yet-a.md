@@ -3,11 +3,10 @@ author: Marisa Aigen
 category: hardware
 companies:
 - Apple
-- The Verge
 date: '2025-11-10 18:47:53'
-description: Apple zlevnil základní AirPods 4 na 84,99 dolaru, což je dosud nejnižší
-  cena. Nový model přináší lepší zvuk, kvalitnější hovory a odolnější konstrukci než
-  předchůdci.
+description: Apple výrazně zlevnil základní AirPods 4 na 84,99 dolaru, což je dosud
+  nejnižší cena. Nabízejí lepší zvuk, kvalitnější hovory a odolnější konstrukci než
+  předchozí generace.
 importance: 3
 layout: tech_news_article
 original_title: Apple’s AirPods 4 just hit their lowest price yet at $85 - The Verge
@@ -17,35 +16,31 @@ source:
   emoji: ⚡
   id: the-verge
   name: The Verge
-title: 'Apple AirPods 4 dosáhly nejnižší ceny: bezdrátová sluchátka klesla na 85 dolarů'
+title: Apple AirPods 4 zlevnily na historické minimum 85 dolarů
 url: https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---
 
 ## Souhrn
-Apple AirPods 4 se aktuálně prodávají za 84,99 USD, což je jejich dosud nejnižší cena, dostupná u velkých prodejců jako Amazon, Best Buy a Walmart. Nabízejí zlepšený zvuk, lepší kvalitu hovorů, vyšší odolnost a hlubší integraci s ekosystémem Apple, čímž posilují pozici značky v segmentu dostupnějších bezdrátových sluchátek.
+Apple AirPods 4 se aktuálně prodávají za 84,99 USD, tedy zhruba o 44 USD méně než oficiální cena, u velkých prodejců jako Amazon, Best Buy a Walmart. Jde o historicky nejnižší cenu této základní řady sluchátek, která přináší znatelné zlepšení kvality zvuku, hovorů a odolnosti.
 
 ## Klíčové body
-- Nová minimální cena 84,99 USD, sleva přibližně 44 USD oproti oficiální ceně.
-- Zlepšená kvalita zvuku s výraznějším basem oproti předchozím základním AirPods.
-- Vylepšené hovory díky Voice Isolation technologii převzaté z řady Pro.
-- Vyšší odolnost IP54 proti prachu a vodě pro každodenní a sportovní použití.
-- Možnost dražší varianty s active noise cancellation (ANC) a bezdrátovým nabíjením.
+- Cena AirPods 4 klesla na 84,99 USD, což je nové minimum a zhruba 34% sleva.
+- Oproti předchozím základním AirPods přinášejí lepší zvuk, výraznější basy a vylepšenou kvalitu hovorů.
+- Implementují technologii Voice Isolation známou z modelů Pro pro čistější přenos hlasu.
+- Nabízejí vyšší odolnost (IP54) proti vodě a prachu a nové ovládání pomocí pohybů hlavy.
+- Za příplatek přibývá varianta s aktivním potlačením hluku (ANC) a bezdrátovým nabíjením.
 
 ## Podrobnosti
-AirPods 4 představují evoluci základní řady bezdrátových sluchátek Apple a jejich agresivní zlevnění na 84,99 USD je signálem, že firma aktivně cílí na masový trh pod hranicí 100 dolarů. Oproti předchozí generaci přinášejí zřetelně lepší zvukové podání, zejména v oblasti basů, což řeší dlouhodobou kritiku slabšího nízkofrekvenčního projevu u starších modelů. To má praktický dopad především u hudby s výraznou rytmikou, filmů a her, kde je vnímatelnější hloubka a celkově plnější charakter.
+Aktuální sleva na AirPods 4 staví produkt do pozice jednoho z nejzajímavějších bezdrátových sluchátek pod hranicí 100 USD pro uživatele v ekosystému Apple. Ve srovnání s předchozí základní generací AirPods se Apple zaměřil na několik konkrétních oblastí: především na zvuk, hovory, ergonomii a odolnost. Zlepšený zvukový profil se projeví zejména v plnějším podání basů a celkově vyváženějším projevu, což řeší dlouhodobou kritiku příliš tenkého zvuku starších modelů. Uživatelé, kteří sluchátka využívají pro telefonní hovory nebo videokonference, těží z Voice Isolation, tedy algoritmického potlačení okolního hluku při přenosu hlasu. Tato funkce je praktická v hlučném prostředí, například v kancelářích typu open space nebo při cestování.
 
-Pro uživatele, kteří často telefonují, je klíčovým vylepšením použití Voice Isolation technologie, známé z AirPods Pro. Tato funkce pracuje s mikrofony a zpracováním signálu tak, aby potlačila okolní hluk a zvýraznila hlas volajícího. Výsledkem je srozumitelnější hovor v hlučném prostředí (městská doprava, kancelář, venkovní ruch), což je relevantní jak pro běžné uživatele, tak pro pracovní komunikaci. Nové ovládání pomocí pohybů hlavy (například přijmutí hovoru nebo odmítnutí oznámení) je typickou ukázkou postupné integrace gest a senzorů do každodenního ovládání zařízení. Technicky jde o další krok v testování přirozenějšího uživatelského rozhraní, které nespoléhá pouze na dotyk nebo hlas.
+Konstrukční úpravy směřují k pohodlnějšímu usazení v uchu a současně k lepší odolnosti. Certifikace IP54 znamená ochranu proti prachu a stříkající vodě, což je relevantní pro každodenní použití, sport i do městského prostředí. Nové ovládání gesty hlavou, které využívá senzory v sluchátkách, umožňuje přijímat hovory nebo odmítat upozornění bez nutnosti dotyku telefonu nebo samotných sluchátek. Tato funkce je praktická, ale současně otevírá otázky přesnosti rozpoznávání a dlouhodobého uživatelského komfortu, které je vhodné hodnotit v reálném provozu.
 
-Odolnost IP54 znamená lepší ochranu proti prachu a stříkající vodě, což je podstatné pro uživatele při sportu, cestování nebo každodenním nošení. V kombinaci s hlubokou integrací do iOS (rychlé párování, automatické přepínání mezi zařízeními Apple, využití lokalizačních funkcí) představují AirPods 4 produkt, který posiluje uzavřený ekosystém Apple: kdo používá iPhone, iPad nebo Mac, má výraznou motivaci zůstat v rámci stejné platformy i u audio zařízení.
-
-Vedle základní varianty je k dispozici dražší verze s active noise cancellation (ANC) a bezdrátovým nabíjecím pouzdrem. ANC je vhodné pro cestování a práci v hlučném prostředí, protože aktivně potlačuje okolní hluk pomocí fázového rušení. Rozdělení modelů podle funkcí umožňuje Applu oslovit jak cenově citlivé zákazníky, tak uživatele hledající pokročilejší funkce, aniž by výrazně kanibalizoval řadu Pro.
+Za příplatek Apple nabízí variantu AirPods 4 s aktivním potlačením hluku (ANC) a bezdrátovým nabíjením pouzdra. ANC je klíčové pro uživatele cestující hromadnou dopravou, pracující v hlučném prostředí nebo sledující obsah v letadle. Přesto základní model bez ANC zůstává cílený na uživatele, kteří preferují nižší cenu, těsnější integraci s iOS a macOS, automatické přepínání mezi zařízeními a standardní funkce ekosystému Apple.
 
 ## Proč je to důležité
-Zlevnění AirPods 4 na historické minimum není jen marketingová akce před vrcholem nákupní sezóny, ale také signál strategického tlaku na konkurenci v segmentu levnějších TWS sluchátek. Apple využívá svou silnou pozici v ekosystému a kombinuje ji s funkcemi, které byly dříve vyhrazené dražším modelům (Voice Isolation, robustnější konstrukce, gesta), aby zvýšil bariéru odchodu k jiným značkám.
-
-Pro trh to znamená komplikovanější situaci pro výrobce, kteří se snaží konkurovat zejména cenou a papírovými parametry. Pro uživatele v ekosystému Apple je ale aktuální nabídka racionální volbou: za cenu pod 100 dolarů získají sluchátka, která jsou dostatečně kvalitní pro běžné použití, použitelná pro hovory i práci na cestách a těsně provázaná se softwarem a službami Apple. Z hlediska vývoje trhu jde o další krok k tomu, aby se "základní" bezdrátová sluchátka stala standardem, nikoli prémiovým doplňkem.
+Snížení ceny AirPods 4 na historické minimum naznačuje agresivnější cenovou strategii Apple v segmentu základních bezdrátových sluchátek, zejména v období před Black Friday. Tímto krokem Apple posiluje uzamčení uživatelů ve vlastním ekosystému: levnější vstup do světa Apple audio znamená, že méně uživatelů bude hledat alternativy od konkurence jako Samsung, Sony či menších značek. Technologie Voice Isolation a gesta hlavou ukazují, jak Apple postupně standardizuje dříve „prémiové“ funkce i v levnějších produktech, čímž vytváří tlak na ostatní výrobce, aby zvyšovali kvalitu základních modelů. Pro koncové uživatele jde o pragmatickou aktualizaci: za nižší cenu získávají funkčně dospělý produkt, který je dostatečný pro běžné každodenní použití, ale bez zbytečného příplatku za plnohodnotné ANC a další prémiové funkce. Pro trh to potvrzuje trend, kdy se pokročilé funkce postupně přesouvají do nižších cenových kategorií a zvyšují standard očekávané kvality.
 
 ---
 

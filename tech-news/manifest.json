@@ -1,10 +1,28 @@
 {
-  "generated": "2025-11-12T00:59:56.404744+00:00",
+  "generated": "2025-11-12T04:24:11.184993+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Výzkumníci oddělili v AI sítích paměťové a logické dráhy",
+      "description": "Nová studie startupu Goodfire.ai ukazuje, že schopnost modelů AI přesně reprodukovat tréninková data je oddělitelná od jejich logického a aritmetického uvažování, což otevírá cestu k cílenému omezování memorování bez ztráty užitečných schopností.",
+      "slug": "researchers-isolate-memorization-from-reasoning-in",
+      "publishedAt": "2025-11-10T23:06:42+00:00",
+      "date": "2025-11-10 23:06:42",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
+      "url": "/tech-news/2025-11-10/researchers-isolate-memorization-from-reasoning-in/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady pro uživatele Maců",
-      "description": "Apple po pěti letech uzavírá éru přechodu z Intel procesorů na vlastní čipy Apple Silicon a ukazuje, jak se výkon od M1 k M5 násobně zvýšil v oblasti CPU, GPU, AI i multimédií.",
+      "description": "Pět let po přechodu od Intel procesorů ukazuje srovnání čipů M1 až M5 výrazný nárůst výkonu CPU, GPU, AI a efektivity, který potvrzuje dlouhodobou strategii Applu pro plně integrovaný hardware a software v Macích.",
       "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
       "publishedAt": "2025-11-10T21:08:04+00:00",
       "date": "2025-11-10 21:08:04",
@@ -26,13 +44,56 @@
       ]
     },
     {
-      "title": "Apple odkládá vydání dalšího iPhone Air kvůli slabým prodejům prvního modelu",
-      "description": "Apple podle zdrojů z interního vývoje odkládá příští generaci iPhone Air, nejtenčího modelu ve svém portfoliu, protože první verze zaostala za prodejními očekáváními. Zpoždění naznačuje korekci strategie kolem tenkých prémiových telefonů a opatrnější přístup k experimentálním produktovým řadám.",
+      "title": "Google postupně nahrazuje Google Assistant na chytrých zařízeních Gemini Home, rollout provází problémy",
+      "description": "Google nasazuje nový hlasový asistent Gemini na chytré reproduktory a displeje Google Home a Nest. Přechod je pomalý a nejasný, objevují se problémy s porozuměním příkazům i ovládáním chytré domácnosti.",
+      "slug": "google-says-its-confusing-gemini-home-rollout-is-g",
+      "publishedAt": "2025-11-10T20:02:57+00:00",
+      "date": "2025-11-10 20:02:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
+      "url": "/tech-news/2025-11-10/google-says-its-confusing-gemini-home-rollout-is-g/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google",
+        "The Verge"
+      ],
+      "people": []
+    },
+    {
+      "title": "CISA nařizuje povinnou záplatu kritické Samsung zero-day zneužívané spywarem LandFall",
+      "description": "Americká CISA nařídila federálním úřadům okamžitě opravit kritickou zranitelnost v telefonech Samsung, která byla aktivně zneužívána ke skrytému nasazení spyware LandFall přes WhatsApp. Útok umožňuje vzdálené spuštění kódu a rozsáhlé sledování uživatelů včetně přístupu k hovorům, zprávám, poloze a souborům.",
+      "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
+      "publishedAt": "2025-11-10T20:00:34+00:00",
+      "date": "2025-11-10 20:00:34",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
+      "url": "/tech-news/2025-11-10/cisa-orders-feds-to-patch-samsung-zero-day-used-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "CISA",
+        "Samsung",
+        "WhatsApp"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple odkládá další generaci iPhone Air kvůli slabým prodejům prvního modelu",
+      "description": "Apple podle zdrojů z dodavatelského řetězce odkládá uvedení příští verze iPhone Air, nejtenčího telefonu ve své nabídce, kvůli slabším než očekávaným prodejům prvního modelu. Firma přehodnocuje produktovou strategii i výrobní plánování v segmentu prémiových tenkých telefonů.",
       "slug": "apple-delays-release-of-next-iphone-air-amid-weak-",
       "publishedAt": "2025-11-10T19:10:00+00:00",
       "date": "2025-11-10 19:10:00",
       "importance": 3,
-      "category": "smartphony",
+      "category": "hardware",
       "urlToImage": "https://tii.imgix.net/production/articles/16047/dd2e9d3a-e6fa-4520-855a-10cb02a45996.png?fm=jpg&auto=compress&w=1200&frame=0",
       "url": "/tech-news/2025-11-10/apple-delays-release-of-next-iphone-air-amid-weak-/",
       "source": {
@@ -46,13 +107,13 @@
       "people": []
     },
     {
-      "title": "Apple potvrzuje vydání iOS 26.2: klíčová aktualizace pro iPhone přichází v prosinci",
-      "description": "Apple neobvykle předem naznačuje termín vydání iOS 26.2, který má přinést nové funkce včetně rozšíření Live Translation na AirPods v EU a podporu pro široké portfolio iPhonů od řady 11 po 17.",
+      "title": "Apple potvrzuje vydání iOS 26.2: přináší nové funkce a širší podporu pro iPhone",
+      "description": "Apple neobvykle dopředu potvrzuje prosincové vydání aktualizace iOS 26.2, která má nabídnout nové funkce, včetně rozšíření Live Translation na AirPods v EU, a podporu pro modely iPhone 11 až iPhone 17.",
       "slug": "apple-ios-262-major-new-iphone-update-release-conf",
       "publishedAt": "2025-11-10T19:00:00+00:00",
       "date": "2025-11-10 19:00:00",
       "importance": 4,
-      "category": "ios",
+      "category": "mobilní operační sys",
       "urlToImage": null,
       "url": "/tech-news/2025-11-10/apple-ios-262-major-new-iphone-update-release-conf/",
       "source": {
@@ -68,8 +129,8 @@
       ]
     },
     {
-      "title": "Apple AirPods 4 dosáhly nejnižší ceny: bezdrátová sluchátka klesla na 85 dolarů",
-      "description": "Apple zlevnil základní AirPods 4 na 84,99 dolaru, což je dosud nejnižší cena. Nový model přináší lepší zvuk, kvalitnější hovory a odolnější konstrukci než předchůdci.",
+      "title": "Apple AirPods 4 zlevnily na historické minimum 85 dolarů",
+      "description": "Apple výrazně zlevnil základní AirPods 4 na 84,99 dolaru, což je dosud nejnižší cena. Nabízejí lepší zvuk, kvalitnější hovory a odolnější konstrukci než předchozí generace.",
       "slug": "apples-airpods-4-just-hit-their-lowest-price-yet-a",
       "publishedAt": "2025-11-10T18:47:53+00:00",
       "date": "2025-11-10 18:47:53",
@@ -83,8 +144,7 @@
         "name": "The Verge"
       },
       "companies": [
-        "Apple",
-        "The Verge"
+        "Apple"
       ],
       "people": []
     },
@@ -107,13 +167,34 @@
       "people": []
     },
     {
-      "title": "Únik renderů ukazuje návrat Samsungu Galaxy S26 Plus s novým modulem fotoaparátu",
-      "description": "Nové rendery založené na únicích specifikací naznačují, že Samsung Galaxy S26 Plus nakonec nahradí dříve zmiňovaný model Edge a přijde s upraveným modulem fotoaparátu, jinak však zachová konzervativní design i rozměry.",
+      "title": "Mac mini s čipem M4: levná a výkonná alternativa k Windows mini PC",
+      "description": "Nový Mac mini s čipem M4 zpochybňuje smysl většiny Windows mini PC: při ceně kolem 499 dolarů nabízí výrazně vyšší výkon, efektivitu a integrované AI funkce v kompaktním stolním provedení.",
+      "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
+      "publishedAt": "2025-11-10T17:15:22+00:00",
+      "date": "2025-11-10 17:15:22",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/10/mac-mini-m4.jpg",
+      "url": "/tech-news/2025-11-10/dont-bother-with-windows-mini-pcs-apples-mac-mini-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Kotaku"
+      },
+      "companies": [
+        "Apple",
+        "Kotaku"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s novým modulem fotoaparátu",
+      "description": "Nové rendery naznačují, že dříve údajně zrušený Samsung Galaxy S26 Plus nakonec dorazí s upraveným modulem fotoaparátu a tradičnějším zařazením v řadě S26 místo plánovaného modelu Edge.",
       "slug": "samsung-galaxy-s26-plus-reappears-in-renders-with-",
       "publishedAt": "2025-11-10T16:42:01+00:00",
       "date": "2025-11-10 16:42:01",
       "importance": 2,
-      "category": "hardware",
+      "category": "smartphony",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
       "url": "/tech-news/2025-11-10/samsung-galaxy-s26-plus-reappears-in-renders-with-/",
       "source": {
@@ -233,8 +314,8 @@
       ]
     },
     {
-      "title": "Jak proměnit matematické důkazy v logickou hádanku: počítače jako nový nástroj pro čistou matematiku",
-      "description": "Marijn Heule využívá metodu SAT k převodu složitých matematických problémů na strukturované logické hádanky, které lze řešit výpočetně. Spolu s nástupem velkých jazykových modelů se rýsuje nový směr, jak automatizovat důkazy tvrzení mimo dosah člověka.",
+      "title": "Aby stroje dokazovaly matematiku, musíme z ní udělat logickou hádanku",
+      "description": "Výzkumník Marijn Heule převádí komplexní matematické problémy do podoby SAT úloh podobných sudoku, které řeší specializované algoritmy. Tento přístup otevírá cestu k důkazům mimo dosah lidské intuice a k propojení symbolických metod s moderní AI.",
       "slug": "to-have-machines-make-math-proofs-turn-them-into-a",
       "publishedAt": "2025-11-10T15:29:38+00:00",
       "date": "2025-11-10 15:29:38",
@@ -253,13 +334,13 @@
       ]
     },
     {
-      "title": "Windows 11 26H1 míří jen na nové procesory, běžným uživatelům zůstane skrytý",
-      "description": "Microsoft připravuje verzi Windows 11 26H1 zaměřenou pouze na podporu nových čipů, pravděpodobně Snapdragon X2, zatímco hlavní funkční novinky zůstanou ve verzi 25H2 a pozdější 26H2.",
+      "title": "Windows 11 26H1 míří na nový hardware, běžným uživatelům přinese minimum změn",
+      "description": "Microsoft chystá verzi Windows 11 26H1 zaměřenou primárně na podporu nových procesorů, zejména příští generace čipů Qualcomm Snapdragon; hlavní novinky pro většinu uživatelů zůstanou ve verzi 25H2 a plánovaném 26H2.",
       "slug": "windows-11-26h1-is-coming-for-new-processors-only-",
       "publishedAt": "2025-11-10T15:18:00+00:00",
       "date": "2025-11-10 15:18:00",
       "importance": 3,
-      "category": "operační systémy",
+      "category": "windows 11",
       "urlToImage": "https://regmedia.co.uk/2020/11/27/shutterstock_not_keen_to_look.jpg",
       "url": "/tech-news/2025-11-10/windows-11-26h1-is-coming-for-new-processors-only-/",
       "source": {
@@ -294,8 +375,8 @@
       "people": []
     },
     {
-      "title": "Apple rozšíří satelitní služby iPhonů o nové funkce a podporu 5G NTN",
-      "description": "Apple podle dostupných informací plánuje rozšířit satelitní funkce iPhonů, integrovat podporu 5G NTN (non-terrestrial networks) a otevřít část satelitních možností vývojářům pro nové typy aplikací a služeb.",
+      "title": "Apple rozšíří satelitní služby v iPhone: nové funkce, 5G NTN a přístup pro vývojáře",
+      "description": "Apple plánuje rozšířit satelitní funkce iPhonů o nové typy komunikace, podporu 5G NTN a otevření rozhraní pro vývojáře, což může z iPhonu udělat běžně využitelný komunikační nástroj mimo dosah mobilních sítí.",
       "slug": "apple-plans-new-features-for-iphone-satellite-serv",
       "publishedAt": "2025-11-10T14:04:31+00:00",
       "date": "2025-11-10 14:04:31",
@@ -316,8 +397,8 @@
       ]
     },
     {
-      "title": "ViVeTool: Jak odemknout skryté funkce Windows 10 a 11",
-      "description": "Nástroj ViVeTool umožňuje uživatelům aktivovat skryté funkce ve Windows 10 a 11 ještě před jejich oficiálním zpřístupněním, a to pomocí stejných interních přepínačů (feature flags), které využívá Microsoft.",
+      "title": "ViVeTool: Jak odemknout skryté funkce ve Windows 10 a 11",
+      "description": "Nástroj ViVeTool umožňuje uživatelům aktivovat experimentální a skryté funkce ve Windows 10 a 11, které Microsoft standardně zpřístupňuje jen omezenému okruhu uživatelů. Přináší tak možnost testovat nové prvky systému dříve, ale zároveň vyžaduje opatrnost kvůli zásahům do interních mechanismů systému.",
       "slug": "vivetool-unlock-windows-features-microsoft-doesnt-",
       "publishedAt": "2025-11-10T14:00:00+00:00",
       "date": "2025-11-10 14:00:00",
@@ -420,8 +501,8 @@
       "people": []
     },
     {
-      "title": "Nový AI framework automaticky odhaluje fyzikální rovnice z neupravených dat",
-      "description": "Tým z Tsinghua University a Peking University představil framework PhyE2E, který kombinuje generativní AI, symbolickou regresi a fyzikální znalosti k automatickému odvozování fyzikálních zákonů z neupravených dat, s důrazem na aplikace ve fyzice kosmického prostoru.",
+      "title": "Nový AI framework dokáže z neupravených dat odhalovat rovnice vesmírné fyziky",
+      "description": "Tým z Tsinghua University, Peking University a dalších institucí představil framework PhyE2E, který pomocí AI automaticky odvozuje fyzikální zákony a rovnice z neupravených měření v oblasti vesmírné fyziky.",
       "slug": "new-ai-framework-can-uncover-space-physics-equatio",
       "publishedAt": "2025-11-10T12:00:01+00:00",
       "date": "2025-11-10 12:00:01",
@@ -3581,52 +3662,6 @@
       "people": []
     },
     {
-      "title": "M4 MacBook Air před Black Friday výrazně zlevňuje a posouvá standard pro tenké notebooky",
-      "description": "Apple výrazně zlevnil nové MacBooky Air s čipem M4 – 13\" model na zhruba 750 USD a 15\" na 950 USD – což vytváří silný tlak na konkurenci v segmentu lehkých notebooků a mění poměr ceny a výkonu v prémiové třídě.",
-      "slug": "apples-slim-m4-macbook-air-is-cheaper-than-ever-ah",
-      "publishedAt": "2025-11-05T20:46:17+00:00",
-      "date": "2025-11-05 20:46:17",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/MacBook-Air-M4-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-05/apples-slim-m4-macbook-air-is-cheaper-than-ever-ah/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple má blízko k dohodě s Googlem: až 1 miliarda dolarů ročně za AI pro nový Siri",
-      "description": "Apple podle informací Bloomberg jedná o dohodě, v rámci které by platil Googlu zhruba 1 miliardu dolarů ročně za nasazení upravené verze modelu Gemini AI pro výrazně přepracovaného hlasového asistenta Siri, než dozraje jeho vlastní AI infrastruktura.",
-      "slug": "apple-nears-deal-to-pay-google-1b-annually-to-powe",
-      "publishedAt": "2025-11-05T20:37:47+00:00",
-      "date": "2025-11-05 20:37:47",
-      "importance": 4,
-      "category": "ai asistent",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-      "url": "/tech-news/2025-11-05/apple-nears-deal-to-pay-google-1b-annually-to-powe/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "TechCrunch"
-      ],
-      "people": [
-        "Tim Cook",
-        "Sundar Pichai"
-      ]
-    },
-    {
       "title": "Nova Launcher se nečekaně vrací: druhá aktualizace během dvou týdnů vrací důvěru uživatelů",
       "description": "Populární androidí launcher Nova Launcher po nejistém období získává druhou rychlou aktualizaci s opravami chyb a zlepšením stability, přestože původní vývojářský tým už na projektu oficiálně nepracuje.",
       "slug": "nova-launcher-is-back-with-a-second-unexpected-upd",
@@ -3708,31 +3743,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Apple údajně jedná o platbě 1 miliardy dolarů ročně Googlu za AI model pro Siri",
-      "description": "Podle nepotvrzených zdrojů plánuje Apple platit Google přibližně miliardu dolarů ročně za využití pokročilého AI modelu s 1,2 bilionu parametrů pro vylepšení hlasového asistenta Siri.",
-      "slug": "apple-nears-deal-to-pay-google-roughly-1-billion-a",
-      "publishedAt": "2025-11-05T19:34:49+00:00",
-      "date": "2025-11-05 19:34:49",
-      "importance": 2,
-      "category": "ai asistenti",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii.c38pePXg4/v1/1200x800.jpg",
-      "url": "/tech-news/2025-11-05/apple-nears-deal-to-pay-google-roughly-1-billion-a/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Alphabet"
-      ],
-      "people": [
-        "Na základě poskytnutého textu (nadpisu a popisu) nejsou zmíněny žádné konkrétní osobnosti jménem. Text hovoří pouze o společnostech Apple Inc. a Alphabet Inc.'s Google",
-        "nikoli o konkrétních lidech.\n\nžádné"
-      ]
     },
     {
       "title": "iOS 26.1 mění vypínání budíků na posuvník. Jak vrátit tlačítko „Stop“",
@@ -3871,26 +3881,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Chyba v aktualizacích Windows vyvolává BitLocker Recovery a může vést ke ztrátě dat",
-      "description": "Nedávné aktualizace Windows způsobují u části uživatelů nečekané vyžádání BitLocker recovery klíče při startu systému. Pokud uživatel klíč nemá zálohovaný, hrozí mu ztráta přístupu k počítači i k veškerým datům.",
-      "slug": "bitlocker-recovery-bug-in-recent-windows-updates-c",
-      "publishedAt": "2025-11-05T16:57:00+00:00",
-      "date": "2025-11-05 16:57:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/preboot-pin.png?w=1024",
-      "url": "/tech-news/2025-11-05/bitlocker-recovery-bug-in-recent-windows-updates-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     },
