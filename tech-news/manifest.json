@@ -1,10 +1,10 @@
 {
-  "generated": "2025-11-13T04:24:20.791497+00:00",
+  "generated": "2025-11-13T08:23:09.558299+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Google představuje Private AI Compute: cloudové zpracování dat má být stejně bezpečné jako lokální",
-      "description": "Google zavádí systém Private AI Compute, který umožňuje zašifrované zpracování dat v cloudu na specializované infrastruktuře s cílem nabídnout výkon pokročilých modelů Gemini při úrovni ochrany blízké lokálnímu výpočtu.",
+      "title": "Google představuje cloudové „Private AI Compute“: slibuje bezpečnost na úrovni lokálního zpracování",
+      "description": "Google zavádí systém Private AI Compute, který umožňuje zařízením bezpečně využívat výkonné cloudové AI modely přes šifrované prostředí s hardwarově oddělenou pamětí. Tvrdí, že ochrana dat je srovnatelná s lokálním zpracováním na zařízení.",
       "slug": "google-says-new-cloud-based-private-ai-compute-is-",
       "publishedAt": "2025-11-11T21:34:10+00:00",
       "date": "2025-11-11 21:34:10",
@@ -18,19 +18,18 @@
         "name": "Ars Technica"
       },
       "companies": [
-        "Google",
-        "Apple"
+        "Google"
       ],
       "people": []
     },
     {
-      "title": "Nejlepší Black Friday nabídky Apple: výrazné slevy na AirPods, MacBooky, Apple Watch a další",
-      "description": "Výrazné slevy na vybrané produkty Apple na Amazonu, včetně Apple Watch Series 10, Mac mini M4, AirTagů a MacBooků, otevírají prostor k levnějšímu nákupu ekosystému Apple před koncem roku.",
+      "title": "Nejlepší Black Friday slevy na produkty Apple: AirPods, MacBooky, Apple Watch a příslušenství",
+      "description": "Výrazné slevy na vybrané produkty Apple na Amazonu ukazují, že Black Friday je letos vhodný okamžik pro nákup sluchátek, hodinek, iPadů i MacBooků, přestože nejde o technologickou novinku, ale cenovou optimalizaci zavedeného ekosystému.",
       "slug": "best-black-friday-apple-deals-live-save-big-on-air",
       "publishedAt": "2025-11-11T20:53:01+00:00",
       "date": "2025-11-11 20:53:01",
       "importance": 3,
-      "category": "apple nabídky",
+      "category": "spotřební elektronik",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg",
       "url": "/tech-news/2025-11-11/best-black-friday-apple-deals-live-save-big-on-air/",
       "source": {
@@ -44,12 +43,12 @@
       "people": []
     },
     {
-      "title": "Apple představil pletené crossbody pouzdro na iPhone za až 230 dolarů a vyvolal kritiku ceny",
-      "description": "Apple uvedl limitované pletené pouzdro iPhone Pocket vytvořené ve spolupráci se značkou Issey Miyake, jehož cena až 230 dolarů vyvolala odpor části uživatelů a srovnání s levnými iPod Socks z roku 2004.",
+      "title": "Apple představuje pletené pouzdro na iPhone za až 230 dolarů, cena vyvolává kritiku",
+      "description": "Apple uvedl limitované pletené crossbody pouzdro na iPhone vytvořené ve spolupráci se značkou Issey Miyake, jehož cena 150–230 dolarů vyvolala kritiku a srovnání s levnými iPod Socks z roku 2004.",
       "slug": "apple-confounds-some-fans-with-230-knit-iphone-cro",
       "publishedAt": "2025-11-11T20:06:07+00:00",
       "date": "2025-11-11 20:06:07",
-      "importance": 3,
+      "importance": 2,
       "category": "hardware",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691396ecac9631849e6c2278/0x0.jpg?format=jpg&crop=4075,2292,x387,y192,safe&height=900&width=1600&fit=bounds",
       "url": "/tech-news/2025-11-11/apple-confounds-some-fans-with-230-knit-iphone-cro/",
@@ -62,7 +61,9 @@
         "Apple",
         "Forbes"
       ],
-      "people": []
+      "people": [
+        "Tim Cook"
+      ]
     },
     {
       "title": "Google zavádí Private AI Compute: Magic Cue na Pixel 10 získává přesnější a rychlejší návrhy díky cloudové AI",
@@ -85,8 +86,8 @@
       "people": []
     },
     {
-      "title": "Google přidává úsporný režim Map, AI remixování fotek a chytřejší notifikace pro Pixel",
-      "description": "Google v listopadovém Pixel Dropu rozšiřuje schopnosti telefonů Pixel o nový úsporný režim pro Mapy, AI úpravy fotografií v Messages a přehlednější notifikace, čímž posiluje integraci AI přímo v systému a aplikacích.",
+      "title": "Google Pixel přináší úsporný režim Map, AI úpravy fotek a chytřejší notifikace",
+      "description": "Listopadový Pixel Drop přidává do telefonů Pixel nový úsporný režim pro Google Maps, AI remixování fotografií, rozšířenou detekci podvodů a souhrny notifikací, čímž posiluje praktické nasazení AI v každodenním používání mobilů.",
       "slug": "google-pixel-update-adds-battery-saving-maps-mode-",
       "publishedAt": "2025-11-11T19:00:00+00:00",
       "date": "2025-11-11 19:00:00",
@@ -105,13 +106,13 @@
       "people": []
     },
     {
-      "title": "Microsoft v rámci listopadových záplat 2025 opravuje 63 zranitelností a jednu aktivně zneužívanou zero-day chybu",
-      "description": "Listopadové záplaty Microsoftu řeší 63 bezpečnostních chyb ve Windows a souvisejících produktech, včetně jedné aktivně zneužívané zero-day zranitelnosti v jádře systému, a přinášejí první vlnu rozšířených bezpečnostních aktualizací (ESU) pro Windows 10.",
+      "title": "Microsoft v listopadu 2025 opravuje 63 zranitelností včetně aktivně zneužívané zero-day chyby",
+      "description": "Listopadový Patch Tuesday od Microsoftu přináší opravy 63 zranitelností včetně jedné aktivně zneužívané zero-day chyby v jádře Windows a čtyř kritických problémů. Firmy i jednotlivci musí záplaty nasadit rychle, zejména na stále používaných instalacích Windows 10.",
       "slug": "microsoft-november-2025-patch-tuesday-fixes-1-zero",
       "publishedAt": "2025-11-11T18:45:29+00:00",
       "date": "2025-11-11 18:45:29",
       "importance": 3,
-      "category": "kybernetická bezpečn",
+      "category": "kyberbezpečnost",
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
       "url": "/tech-news/2025-11-11/microsoft-november-2025-patch-tuesday-fixes-1-zero/",
       "source": {
@@ -120,18 +121,19 @@
         "name": "BleepingComputer"
       },
       "companies": [
-        "Microsoft"
+        "Microsoft",
+        "BleepingComputer"
       ],
       "people": []
     },
     {
-      "title": "Slevy na Apple Watch Series 11 z titanu a další modely před Black Friday",
-      "description": "Amazon výrazně zlevnil titanový Apple Watch Series 11 a nabízí širší spektrum slev na další modely včetně Ultra 3 a SE, což naznačuje agresivnější cenovou strategii Apple zařízení před Black Friday.",
+      "title": "Apple Watch Series 11 z titanu zlevňují na Amazonu o 120 dolarů, přidávají se další modely",
+      "description": "Amazon nabízí výraznou slevu 120 dolarů na 46mm Apple Watch Series 11 v titanovém provedení s mobilním připojením a slevy i na řadu dalších modelů včetně Ultra 3 a SE. Jde o součást raných Black Friday akcí, které naznačují agresivnější cenovou politiku u aktuálních i starších generací hodinek Apple.",
       "slug": "apple-watch-series-11-titanium-model-gets-big-120-",
       "publishedAt": "2025-11-11T18:03:01+00:00",
       "date": "2025-11-11 18:03:01",
       "importance": 3,
-      "category": "wearables",
+      "category": "hardware",
       "urlToImage": "https://images.macrumors.com/t/sTyYBwwog3gSheqFhOsxAfAfD0g=/2500x/article-new/2025/11/apple-watch-series-11-red-snow.jpeg",
       "url": "/tech-news/2025-11-11/apple-watch-series-11-titanium-model-gets-big-120-/",
       "source": {
@@ -212,8 +214,8 @@
       "people": []
     },
     {
-      "title": "FFmpeg vyzývá Google: Financujte nás, nebo přestaňte posílat chyby",
-      "description": "Spor mezi vývojáři FFmpeg a Google znovu otevírá otázku, jak mají velké technologické firmy spravedlivě podporovat otevřený software, na kterém staví své produkty a bezpečnost.",
+      "title": "FFmpeg vyzývá Google: financujte nás, nebo přestaňte hlásit chyby",
+      "description": "Konflikt mezi projektem FFmpeg a Google znovu otevírá otázku, kdo má platit za údržbu kritické open source infrastruktury, kterou velké firmy masivně využívají.",
       "slug": "ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-",
       "publishedAt": "2025-11-11T16:31:16+00:00",
       "date": "2025-11-11 16:31:16",
@@ -227,6 +229,7 @@
         "name": "Thenewstack.io"
       },
       "companies": [
+        "FFmpeg",
         "Google"
       ],
       "people": []
@@ -295,8 +298,8 @@
       "people": []
     },
     {
-      "title": "SanDisk představuje extrémně kompaktní 1TB USB‑C „plug-and-stay“ SSD",
-      "description": "SanDisk uvádí miniaturní USB‑C flash disk Extreme Fit s kapacitou až 1 TB, určený k trvalému zapojení v notebooku. Nabízí vysokou kapacitu v těle velikosti bezdrátového donglu, ale za cenu omezené přenosové rychlosti a s přetrvávajícími pochybnostmi o spolehlivosti značky.",
+      "title": "SanDisk uvádí extrémně malý 1TB USB‑C \"plug-and-stay\" disk Extreme Fit",
+      "description": "SanDisk představil kompaktní USB‑C jednotku Extreme Fit s kapacitou až 1 TB, navrženou pro trvalé připojení k notebooku. Nabízí pohodlné rozšíření úložiště, ale s omezeným výkonem a s doznívající nedůvěrou po předchozích problémech SanDisk SSD.",
       "slug": "sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tin",
       "publishedAt": "2025-11-11T15:09:02+00:00",
       "date": "2025-11-11 15:09:02",
@@ -642,6 +645,50 @@
       "people": []
     },
     {
+      "title": "OnePlus mění strategii: od „flagship killera“ k dospělému mainstreamu",
+      "description": "OnePlus u nové generace (např. OnePlus 15) opouští charakteristické prvky jako zakřivený displej, masivní kamerový modul či okázalý design a posouvá se směrem k umírněnému, robustnějšímu a pro masový trh čitelnějšímu přístupu.",
+      "slug": "everyone-says-oneplus-lost-its-way-but-i-say-it-fi",
+      "publishedAt": "2025-11-10T20:46:47+00:00",
+      "date": "2025-11-10 20:46:47",
+      "importance": 3,
+      "category": "smartphony",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175607-wide-two_1200/Everyone-says-OnePlus-lost-its-way-but-I-say-it-finally-found-it.jpg",
+      "url": "/tech-news/2025-11-10/everyone-says-oneplus-lost-its-way-but-i-say-it-fi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "OnePlus",
+        "Google",
+        "Apple",
+        "Samsung",
+        "Oppo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft po 35 letech ukončí Publisher. Uživatelé musí migrovat na jiné nástroje",
+      "description": "Microsoft oznámil ukončení podpory aplikace Publisher k 1. říjnu 2026. Uživatelé mají omezený čas převést své dokumenty do jiných formátů nebo přejít na alternativní software.",
+      "slug": "microsoft-discontinued-one-of-its-oldest-office-ap",
+      "publishedAt": "2025-11-10T20:17:00+00:00",
+      "date": "2025-11-10 20:17:00",
+      "importance": 3,
+      "category": "software",
+      "urlToImage": "https://www.bgr.com/img/gallery/microsoft-discontinued-one-of-its-oldest-office-apps-after-35-years/l-intro-1762797506.jpg",
+      "url": "/tech-news/2025-11-10/microsoft-discontinued-one-of-its-oldest-office-ap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
       "title": "Google postupně nahrazuje Google Assistant novým Gemini Home, reakce uživatelů jsou smíšené",
       "description": "Google začal na chytrých reproduktorech a displejích Google Home nasazovat asistenta Gemini jako výchozí hlasové rozhraní, ale první uživatelé hlásí problémy se spolehlivostí a ovládáním chytré domácnosti.",
       "slug": "google-says-its-confusing-gemini-home-rollout-is-g",
@@ -813,8 +860,8 @@
       "people": []
     },
     {
-      "title": "Windows mini PC nedávají smysl? Mac mini s čipem M4 tlačí cenu dolů a výkonem je překonává",
-      "description": "Nová nabídka Macu mini s čipem M4 za 499 dolarů vyostřuje konkurenci v segmentu mini PC. Apple kombinuje vysoký výkon, úspornost a unified memory tak, že většina windowsových mini počítačů vypadá jako kompromis.",
+      "title": "Mac mini s čipem M4 za agresivní cenu zpochybňuje smysl levných Windows mini PC",
+      "description": "Aktuální sleva na Mac mini s čipem M4 ukazuje, že při ceně kolem 499 dolarů nabízí vyšší výkon, efektivitu a integrované funkce než většina srovnatelných Windows mini PC, což mění poměr cena/výkon v segmentu kompaktních desktopů.",
       "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
       "publishedAt": "2025-11-10T17:15:22+00:00",
       "date": "2025-11-10 17:15:22",
@@ -1022,6 +1069,24 @@
         "emoji": "📰",
         "id": "buzzfeed",
         "name": "Buzzfeed"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč byl High Tide znovu zakázán ve formátu Pauper",
+      "description": "Pauper Format Panel po zkušebním obnovení znovu zakazuje kartu High Tide ve formátu Pauper, protože se ukázala jako příliš silný a těžko interaktivní kombinační prvek.",
+      "slug": "explanation-of-the-pauper-high-tide-ban-for-novemb",
+      "publishedAt": "2025-11-10T16:03:14+00:00",
+      "date": "2025-11-10 16:03:14",
+      "importance": 1,
+      "category": "herní průmysl",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg",
+      "url": "/tech-news/2025-11-10/explanation-of-the-pauper-high-tide-ban-for-novemb/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wizards.com"
       },
       "companies": [],
       "people": []
@@ -3982,28 +4047,6 @@
       "people": []
     },
     {
-      "title": "Huawei Mate 70 Air míří proti iPhone Air: tenčí design bez kompromisů u baterie a fotoaparátu",
-      "description": "Huawei představuje Mate 70 Air jako přímou odpověď na iPhone Air: štíhlý telefon se čtyřmi zadními fotoaparáty a výrazně větší baterií, který míří na uživatele hledající kombinaci designu a výdrže.",
-      "slug": "another-iphone-air-competitor-lands-the-huawei-mat",
-      "publishedAt": "2025-11-06T12:30:00+00:00",
-      "date": "2025-11-06 12:30:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Another-iPhone-Air-competitor-lands-%E2%80%93-the-Huawei-Mate-70-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-06/another-iphone-air-competitor-lands-the-huawei-mat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Huawei",
-        "Motorola"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung slibuje u Exynosu 2600 až 30% nižší teploty díky nové technologii Heat Pass Block",
       "description": "Samsung představil podrobnosti o technologii Heat Pass Block a výrobním procesu 2nm GAA u čipu Exynos 2600, které mají zlepšit odvod tepla a umožnit vyšší a stabilnější výkon oproti předchozí generaci Exynos SoC.",
       "slug": "exynos-2600s-heat-pass-block-implementation-to-del",
@@ -4069,30 +4112,6 @@
       "people": []
     },
     {
-      "title": "Apple ostře kritizuje EU kvůli digitálním regulacím, varuje před vyšším rizikem podvodů a zneužití",
-      "description": "Apple v dopise Evropské komisi tvrdí, že pravidla EU na podporu konkurence a regulaci online platforem oslabují bezpečnost iOS a iPadOS a zvyšují riziko podvodů, škodlivého obsahu a narušení soukromí. Spor se stává součástí širšího geopolitického tlaku mezi USA a EU ohledně regulace velkých technologických firem.",
-      "slug": "apple-blasts-eu-over-digital-competition-laws-warn",
-      "publishedAt": "2025-11-06T11:00:20+00:00",
-      "date": "2025-11-06 11:00:20",
-      "importance": 3,
-      "category": "regulace technologií",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/27/b6d2ce56-c8c4-47d1-8f68-118186c02f1c/thumbnail/1200x630/b21fdf40da120196a841d7e360ba786e/gettyimages-2152534755.jpg",
-      "url": "/tech-news/2025-11-06/apple-blasts-eu-over-digital-competition-laws-warn/",
-      "source": {
-        "emoji": "📺",
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": [
-        "Apple",
-        "Elon Musk",
-        "Tim Cook"
-      ]
-    },
-    {
       "title": "Naživo: rozhovor s průkopníky umělé inteligence o nástupu systémů na úrovni člověka",
       "description": "Přední osobnosti AI tvrdí, že systémy již v klíčových oblastech dosahují či překonávají lidskou úroveň, což znovu otevírá debatu o superinteligenci, regulaci a bezpečném nasazení těchto technologií.",
       "slug": "live-in-conversation-with-the-pioneers-of-artifici",
@@ -4118,30 +4137,6 @@
         "Elon Musk",
         "Tim Cook",
         "Satya Nadella"
-      ]
-    },
-    {
-      "title": "Apple má platit Googlu 1 miliardu dolarů ročně za integraci Gemini do nové generace Siri",
-      "description": "Apple podle informací Bloombergu uzavírá dohodu, v rámci které bude Googlu platit přibližně 1 miliardu dolarů ročně za specializovanou verzi modelu Gemini pro novou generaci hlasového asistenta Siri. Jde o zásadní posun v AI strategii Applu a neobvykle těsnou technologickou závislost na přímém konkurentovi.",
-      "slug": "apple-is-paying-google-1bn-to-upgrade-siri-with-ge",
-      "publishedAt": "2025-11-06T08:36:36+00:00",
-      "date": "2025-11-06 08:36:36",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/03/iPhone-16e-new-siri-interface.jpg",
-      "url": "/tech-news/2025-11-06/apple-is-paying-google-1bn-to-upgrade-siri-with-ge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Tim Cook",
-        "Sundar Pichai"
       ]
     },
     {
