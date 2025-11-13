@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
-category: ai
+category: ai fotografie
 companies:
 - Google
 - Apple
 date: '2025-11-11 17:00:00'
-description: Google rozšiřuje do aplikace Google Photos na iOS konverzační úpravy
-  fotografií, přesnější editaci obličejů a nové AI nástroje včetně integrace modelu
-  Nano Banana.
+description: Google rozšiřuje AI funkci „Help me edit“ v aplikaci Google Photos na
+  iOS, zlepšuje úpravy obličejů pomocí rozpoznávání známých tváří a integruje model
+  Nano Banana pro kreativní transformace snímků.
 importance: 3
 layout: tech_news_article
 original_title: Google Photos lets iPhone users edit images by describing changes
@@ -19,36 +19,35 @@ source:
   id: the-verge
   name: The Verge
 title: Google Photos umožní uživatelům iPhonů upravovat fotky pomocí textových a hlasových
-  instrukcí
+  pokynů
 url: https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200
 ---
 
 ## Souhrn
-Google zavádí do aplikace Google Photos na iOS funkci "Help me edit", která umožňuje upravovat fotografie pomocí textových nebo hlasových pokynů. Aktualizace zároveň přináší přesnější úpravy obličejů na základě uživatelských fotogalerií a integraci AI modelu Nano Banana pro kreativní transformace snímků.
+Google rozšiřuje v aplikaci Google Photos funkci konverzačních úprav fotografií na iOS, takže uživatelé iPhonů mohou zadávat úpravy pomocí textu nebo hlasu. Aktualizace zahrnuje přesnější úpravy obličejů, nové kreativní AI nástroje postavené na modelu Nano Banana a přepracované uživatelské rozhraní editoru.
 
 ## Klíčové body
-- Konverzační úpravy "Help me edit" nově dostupné pro iOS uživatele v USA.
-- Přesnější úpravy obličejů díky využití soukromých skupin tváří v galerii.
-- Integrace AI modelu Nano Banana pro převod fotek do stylů jako malba, mozaika či ilustrace.
-- Přepracované uživatelské rozhraní editoru s jednoduššími gesty a rychlými návrhy úprav.
-- Nové tlačítko "Ask" s rozhraním podobným chatbotu pro vyvolání AI nástrojů.
+- Funkce „Help me edit“ nově dostupná pro iOS, úpravy fotografií na základě textového či hlasového zadání.
+- Přesnější úpravy obličejů díky využití referenčních snímků z uživatelských skupin obličejů.
+- Integrace AI modelu Nano Banana pro stylizaci fotografií do podob maleb, mozaik a ilustrací.
+- Přepracované rozhraní editoru Google Photos s gesty a návrhy úprav na jedno klepnutí.
+- Nové tlačítko „Ask“ s rozhraním podobným chatbotu pro interaktivní práci s fotkami.
 
 ## Podrobnosti
-Aktualizace Google Photos rozšiřuje funkci "Help me edit" i na iPhony, po předchozí dostupnosti na telefonech Pixel a dalších Android zařízeních. Uživatel může explicitně zadat, jak má být fotografie upravena – například ztmavit pozadí, zvýraznit subjekt, odstranit rušivé objekty nebo upravit barvy – buď napsáním instrukce, nebo hlasovým příkazem. Systém AI pak provede sérii konkrétních úprav bez nutnosti manuální práce s jednotlivými posuvníky a nástroji. Cílem je zjednodušit práci méně zkušeným uživatelům, ale zároveň nabídnout rychlejší workflow i těm pokročilejším.
+Google postupně zpřístupňuje na iOS funkci „Help me edit“, která umožňuje uživatelům popsat požadovanou úpravu fotografií přirozeným jazykem, místo ručního nastavování jednotlivých parametrů. Uživatel může například zadat „zjasni obličej, rozmaž pozadí a odstraň odlesky“ a systém automaticky provede kombinaci odpovídajících kroků. Stejný princip funguje i hlasem, což zjednodušuje používání na telefonu a otevírá cestu méně technicky zdatným uživatelům.
 
-Součástí aktualizace je i přesnější práce s obličeji. Google Photos nově využívá uživatelské soukromé skupiny tváří (face groups), aby se úpravy týkající se obličejů lépe shodovaly s tím, jak daná osoba skutečně vypadá na jiných fotografiích. Funkce umožní například realističtější odstranění brýlí, otevření zavřených očí nebo mírnou korekci výrazu směrem k úsměvu, aniž by výsledkem byl nepřirozený či cizí vzhled. To je technicky nenápadná, ale významná změna: model neaplikuje pouze generické filtry, ale opírá se o existující vizuální data konkrétní osoby.
+Důležitým prvkem aktualizace je práce s obličejem. Google Photos nově využívá existující soukromé skupiny obličejů v galerii (face groups) jako referenci. Při úpravách, jako je odstranění brýlí, otevření zavřených očí nebo doplnění přirozeně vypadajícího úsměvu, se AI opírá o reálné snímky stejné osoby. Cílem je, aby výsledná podoba více odpovídala skutečnému vzhledu, a nikoli generickému „AI obličeji“. Tato funkce ovšem současně otevírá otázky ochrany soukromí a rizika manipulace s podobou lidí, zejména pokud půjde o výraznější zásahy do mimiky.
 
-Integrace AI modelu Nano Banana přidává kreativu: uživatelé mohou převádět snímky do vizuálních stylů jako digitální malba, mozaika, ilustrace nebo grafický plakát. Prakticky jde o generativní AI nástroj uvnitř Google Photos, určený pro tvorbu sdílitelných vizuálů bez nutnosti samostatných specializovaných editorů.
+Integrace modelu Nano Banana (interní AI model Google optimalizovaný pro generativní a transformační úlohy přímo na zařízení) přináší nové kreativní režimy. Uživatelé mohou z existujících fotek vytvářet stylizované verze ve formě maleb, ilustrací nebo mozaik bez nutnosti exportu do jiné aplikace. To je praktické pro tvorbu obsahu na sociální sítě či marketingové vizuály přímo z telefonu.
 
-Přepracované rozhraní editoru zjednodušuje přístup k úpravám pomocí gest a jedním klepnutím aplikovaných návrhů. Nové tlačítko "Ask" zpřístupňuje funkce formou dotazovacího okna podobného chatbotu, kde lze kombinovaně žádat o úpravy fotek, doporučení nebo vysvětlení možností nástrojů.
+Přepracované editorové rozhraní na iOS má přehlednější ovládání, používá gesta a návrhy úprav na jedno klepnutí, takže tradiční ruční editace zůstávají dostupné vedle AI funkcí. Nově přidané tlačítko „Ask“ zpřístupňuje rozhraní podobné chatbotu, kde se uživatel může ptát na možnosti úprav konkrétních fotek nebo žádat kombinované zásahy bez nutnosti složitého hledání nástrojů.
 
 ## Proč je to důležité
-Rozšíření konverzačních AI úprav na iOS je dalším krokem v trendu, kdy se editace obrazu přesouvá od ručního nastavování parametrů k zadávání záměru v přirozeném jazyce. Google tím posiluje Google Photos jako samostatnou AI platformu nad rámec prostého úložiště fotografií a přímo konkuruje jednodušším mobilním editorům i integrovaným nástrojům Applu.
+Rozšíření konverzačních AI úprav Google Photos na iOS ukazuje posun od klasických editorů k asistentům, kteří chápou záměr uživatele a překládají jej do konkrétních operací. Pro Apple ekosystém to znamená, že klíčová AI funkcionalita Googlu přestává být výsadou Pixel a vybraných Android zařízení, což zvyšuje tlak na vlastní nástroje Applu v oblasti inteligentní úpravy fotek.
 
-Využití osobních galerií k přesnějším úpravám obličejů zároveň otevírá otázky ochrany soukromí a transparentnosti: byť Google mluví o použití soukromých skupin tváří, uživatelé by měli mít jasnou kontrolu nad tím, zda chtějí, aby jejich biometrická podoba sloužila jako referenční vzor pro AI úpravy. Integrace modelu Nano Banana ukazuje, že Google bude generativní AI vkládat přímo do masově používaných spotřebitelských aplikací místo samostatných experimentálních nástrojů, což urychlí normalizaci AI asistovaných úprav snímků a posune očekávání uživatelů, co je „běžná“ editace fotografie.
-
+Přesnější úpravy obličejů založené na referenčních datech otevírají Google Photos cestu k personalizovaným, ale potenciálně citlivým zásahům do identity uživatelů. Tyto nástroje zároveň snižují bariéru pro tvorbu „příliš dokonalých“ portrétů, což může mít dopady na vnímání autenticity fotografií i na šíření manipulovaného obsahu. Integrace modelu Nano Banana a rozhraní „Ask“ naznačuje, že Google systematicky směřuje ke komplexnímu vizuálnímu asistentovi, který kombinuje archivaci, vyhledávání, generativní AI a automatizovanou editaci v jednom prostředí. Pro celý průmysl je to signál, že AI řízené, konverzační uživatelské rozhraní se stává standardem i u masových spotřebitelských služeb, nikoli jen specializovaných AI editorů.
 
 ---
 

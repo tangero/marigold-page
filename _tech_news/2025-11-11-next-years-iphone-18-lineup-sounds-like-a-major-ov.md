@@ -2,12 +2,10 @@
 category: hardware
 companies:
 - Apple
-- 9to5Mac
 date: '2025-11-11 15:11:00'
-description: 'Úniky naznačují, že Apple v roce 2026 výrazně přeuspořádá řadu iPhonů:
-  zpoždění modelu iPhone Air 2, přesun základního iPhone 18 na jaro 2027 a možný vstup
-  skládacího iPhone Fold by mohly vést k neobvykle úzké podzimní nabídce zaměřené
-  na dražší modely.'
+description: Podle uniklých informací Apple zvažuje výraznou změnu podzimní řady iPhonů
+  18, včetně netypického složení modelů a posunutí základního modelu až na jaro 2027,
+  což naznačuje hledání nové strategie v segmentaci trhu.
 importance: 2
 layout: tech_news_article
 original_title: Next year’s iPhone 18 lineup sounds like a major overhaul for Apple
@@ -18,17 +16,13 @@ source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: iPhone 18 může zásadně změnit podzimní nabídku Applu
+title: iPhone 18 může zásadně změnit strukturu nabídky Applu
 url: https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Podle informací z The Information a 9to5Mac se Apple připravuje na netypickou podobu iPhone 18 řady, která ale zatím stojí převážně na neoficiálních únicích. Klíčovým bodem je údajné zpoždění iPhone Air 2, které má být způsobeno snahou Applu integrovat druhý zadní fotoaparát. Původně plánovaná podzimní premiéra v roce 2026 se podle těchto zpráv přesouvá až na jaro 2027.
-
-Současně se objevují informace, že Apple zvažuje oddělení základního modelu iPhone 18 od hlavní podzimní vlny a jeho uvedení také až na jaře 2027. To by znamenalo, že podzimní řadu 2026 by tvořily pouze tři modely: iPhone 18 Pro, iPhone 18 Pro Max a potenciální skládací iPhone Fold. Taková strategie by poprvé po letech ponechala hlavní podzimní keynote bez klasického základního modelu, což by posílilo důraz na dražší zařízení a technologicky náročnější segment.
-
-Pokud by se tyto informace potvrdily, šlo by o posun v produktové taktice Applu směrem k výraznější segmentaci trhu: prémiové modely a případný iPhone Fold jako hlavní podzimní nosič marže, cenově dostupnější či „lehčí“ varianty odsunuté mimo hlavní sezónu. Pro uživatele by to mohlo znamenat složitější orientaci v cyklech vydání a větší tlak na nákup dražších modelů v období, kdy většina lidí tradičně upgraduje. Zatím však jde o spekulace bez oficiálního potvrzení, které je nutné brát s rezervou.
+Podle zpráv The Information, na které odkazuje 9to5Mac, Apple připravuje pro generaci iPhone 18 výrazně nestandardní produktovou strategii, která se odchyluje od dlouhodobě stabilního čtyřmodelového portfolia. Původní plán počítal s tím, že na podzim 2026 dorazí čtyři modely: iPhone Air 2, iPhone 18 Pro, iPhone 18 Pro Max a skládací iPhone Fold, zatímco základní iPhone 18 měl být přesunut až na jaro 2027. Změna nastala ve chvíli, kdy měl být iPhone Air 2 podle informací odložen – údajně kvůli slabším prodejům první generace iPhone Air a snaze Applu doplnit druhý zadní fotoaparát. To ale rozbíjí plánovanou strukturu a otevírá možnost, že podzimní řada 2026 by se mohla smrsknout jen na tři modely: iPhone 18 Pro, iPhone 18 Pro Max a iPhone Fold, bez klasického „základního“ iPhonu. Pokud Apple skutečně ponechá základní iPhone 18 až na jaro 2027, půjde o nezvyklý krok s potenciálním dopadem na očekávání uživatelů i pozici v cenově citlivějších segmentech. Místo jednoznačného rozložení modelů podle velikosti a funkcí tak Apple experimentuje s větším rozlišením produktových řad, agresivnější segmentací a posunem některých modelů mimo tradiční podzimní cyklus. Vzhledem k tomu, že všechny informace vycházejí z neveřejných zdrojů a Apple je nepotvrzuje, jde v tuto chvíli o spekulativní výhled. Důležitý je však signál: Apple zjevně hledá způsob, jak odlišit prémiové modely (Pro, Fold) od střední třídy (Air, základní model) nejen výbavou, ale i načasováním uvedení, což může změnit rytmus obnovy zařízení pro koncové uživatele i logistiku operátorů a resellerů. Zda tato strategie povede k jasnějšímu nebo naopak chaotičtějšímu portfoliu, zůstává otevřené.
 
 ---
 

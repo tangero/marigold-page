@@ -1,10 +1,95 @@
 {
-  "generated": "2025-11-12T20:21:05.665823+00:00",
+  "generated": "2025-11-13T01:01:51.956937+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "iOS 26.2 dorazí v prosinci: 8 novinek zaměřených na uživatele a služby",
-      "description": "Apple příští měsíc vydá iOS 26.2 s osmi konkrétními úpravami včetně nového „Liquid Glass“ nastavení zamykací obrazovky, offline textů v Apple Music, změn hodnocení spánku, alarmů v Připomínkách a vylepšení aplikace Podcasty.",
+      "title": "Google zavádí Private AI Compute: Magic Cue na Pixel 10 získává přesnější a rychlejší návrhy díky cloudové AI",
+      "description": "Google u Pixelu 10 propojuje lokální zpracování dat s novou cloudovou platformou Private AI Compute, která má zajistit výkonnější AI funkce, včetně Magic Cue, při zachování důrazu na soukromí uživatelů.",
+      "slug": "google-makes-pixel-10-magic-cue-more-timely-with-c",
+      "publishedAt": "2025-11-11T19:01:00+00:00",
+      "date": "2025-11-11 19:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Private-AI-Compute-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-11/google-makes-pixel-10-magic-cue-more-timely-with-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google přidává úsporný režim Map, AI remixování fotek a chytřejší notifikace pro Pixel",
+      "description": "Google v listopadovém Pixel Dropu rozšiřuje schopnosti telefonů Pixel o nový úsporný režim pro Mapy, AI úpravy fotografií v Messages a přehlednější notifikace, čímž posiluje integraci AI přímo v systému a aplikacích.",
+      "slug": "google-pixel-update-adds-battery-saving-maps-mode-",
+      "publishedAt": "2025-11-11T19:00:00+00:00",
+      "date": "2025-11-11 19:00:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
+      "url": "/tech-news/2025-11-11/google-pixel-update-adds-battery-saving-maps-mode-/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Listopadové záplaty Microsoftu opravují 63 zranitelností a jednu aktivně zneužívanou zero-day chybu",
+      "description": "Microsoft v rámci listopadového Patch Tuesday 2025 vydal bezpečnostní aktualizace řešící 63 zranitelností, včetně jedné aktivně zneužívané zero-day chyby v jádře Windows, a upozorňuje na nutnost řešit podporu a zabezpečení Windows 10.",
+      "slug": "microsoft-november-2025-patch-tuesday-fixes-1-zero",
+      "publishedAt": "2025-11-11T18:45:29+00:00",
+      "date": "2025-11-11 18:45:29",
+      "importance": 3,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+      "url": "/tech-news/2025-11-11/microsoft-november-2025-patch-tuesday-fixes-1-zero/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "Microsoft",
+        "BleepingComputer"
+      ],
+      "people": []
+    },
+    {
+      "title": "Threads cílí na podcastery novými funkcemi a chce být hlavním místem pro diskuse o pořadech",
+      "description": "Meta rozšiřuje Threads o zvýrazněné odkazy na podcasty ve feedu a dedikované místo pro podcast v profilu, aby přitáhla podcastery a soustředila diskuse o pořadech na jednu platformu.",
+      "slug": "threads-targets-podcasters-with-new-features-aimin",
+      "publishedAt": "2025-11-11T18:00:00+00:00",
+      "date": "2025-11-11 18:00:00",
+      "importance": 3,
+      "category": "sociální sítě",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Threads_Podcasts.png?resize=1200,835",
+      "url": "/tech-news/2025-11-11/threads-targets-podcasters-with-new-features-aimin/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Threads",
+        "Meta",
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.2 dorazí v prosinci: 8 praktických novinek pro uživatele iPhonu",
+      "description": "Apple v prosinci plánuje vydání iOS 26.2, které přináší úpravy vzhledu zamykací obrazovky, offline texty v Apple Music, změny ve vyhodnocování spánku, nové možnosti upozornění v Připomínkách a vylepšení aplikace Podcasty.",
       "slug": "ios-262-available-next-month-with-these-8-new-feat",
       "publishedAt": "2025-11-11T17:48:15+00:00",
       "date": "2025-11-11 17:48:15",
@@ -23,13 +108,13 @@
       "people": []
     },
     {
-      "title": "Google Photos umožní uživatelům iPhonů upravovat fotky pomocí textových a hlasových instrukcí",
-      "description": "Google rozšiřuje do aplikace Google Photos na iOS konverzační úpravy fotografií, přesnější editaci obličejů a nové AI nástroje včetně integrace modelu Nano Banana.",
+      "title": "Google Photos umožní uživatelům iPhonů upravovat fotky pomocí textových a hlasových pokynů",
+      "description": "Google rozšiřuje AI funkci „Help me edit“ v aplikaci Google Photos na iOS, zlepšuje úpravy obličejů pomocí rozpoznávání známých tváří a integruje model Nano Banana pro kreativní transformace snímků.",
       "slug": "google-photos-lets-iphone-users-edit-images-by-des",
       "publishedAt": "2025-11-11T17:00:00+00:00",
       "date": "2025-11-11 17:00:00",
       "importance": 3,
-      "category": "ai",
+      "category": "ai fotografie",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200",
       "url": "/tech-news/2025-11-11/google-photos-lets-iphone-users-edit-images-by-des/",
       "source": {
@@ -42,6 +127,30 @@
         "Apple"
       ],
       "people": []
+    },
+    {
+      "title": "FFmpeg vyzývá Google: Financujte nás, nebo přestaňte posílat chyby",
+      "description": "Spor mezi vývojáři FFmpeg a bezpečnostním týmem Google znovu otevírá otázku, kdo má platit za údržbu klíčových open source projektů, na nichž závisí velcí technologičtí hráči.",
+      "slug": "ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-",
+      "publishedAt": "2025-11-11T16:31:16+00:00",
+      "date": "2025-11-11 16:31:16",
+      "importance": 3,
+      "category": "open source",
+      "urlToImage": "https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash.jpg",
+      "url": "/tech-news/2025-11-11/ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thenewstack.io"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Elon Musk",
+        "Tim Cook",
+        "Satya Nadella"
+      ]
     },
     {
       "title": "LG G5 OLED: nový standard pro jas a barvy díky technologii Primary RGB Tandem",
@@ -65,7 +174,7 @@
     },
     {
       "title": "Qualcomm připravuje čipy Snapdragon X Elite pro Android PC",
-      "description": "Qualcomm podle nových zjištění připravuje čipy Snapdragon X Elite, dosud používané ve Windows zařízeních s architekturou ARM, pro nasazení v budoucích počítačích s Androidem. To otevírá cestu k výkonným Android PC s plnohodnotným desktopovým prostředím.",
+      "description": "Qualcomm podle nových nálezů integruje čipy Snapdragon X Elite, dosud používané ve Windows zařízeních, do Android 16, což otevírá cestu k prvním plnohodnotným Android PC s vysokým výkonem.",
       "slug": "snapdragon-x-elite-chips-from-windows-laptops-are-",
       "publishedAt": "2025-11-11T15:50:00+00:00",
       "date": "2025-11-11 15:50:00",
@@ -80,13 +189,15 @@
       },
       "companies": [
         "Qualcomm",
-        "Google"
+        "Google",
+        "Microsoft",
+        "Apple"
       ],
       "people": []
     },
     {
-      "title": "iPhone 18 může zásadně změnit podzimní nabídku Applu",
-      "description": "Úniky naznačují, že Apple v roce 2026 výrazně přeuspořádá řadu iPhonů: zpoždění modelu iPhone Air 2, přesun základního iPhone 18 na jaro 2027 a možný vstup skládacího iPhone Fold by mohly vést k neobvykle úzké podzimní nabídce zaměřené na dražší modely.",
+      "title": "iPhone 18 může zásadně změnit strukturu nabídky Applu",
+      "description": "Podle uniklých informací Apple zvažuje výraznou změnu podzimní řady iPhonů 18, včetně netypického složení modelů a posunutí základního modelu až na jaro 2027, což naznačuje hledání nové strategie v segmentaci trhu.",
       "slug": "next-years-iphone-18-lineup-sounds-like-a-major-ov",
       "publishedAt": "2025-11-11T15:11:00+00:00",
       "date": "2025-11-11 15:11:00",
@@ -100,14 +211,33 @@
         "name": "9to5Mac"
       },
       "companies": [
-        "Apple",
-        "9to5Mac"
+        "Apple"
       ],
       "people": []
     },
     {
-      "title": "Poškození klíčové antény NASA Deep Space Network zvyšuje tlak na komunikaci s hlubokým vesmírem",
-      "description": "Jedna z hlavních 70metrových antén Deep Space Network v kalifornském komplexu Goldstone je od září mimo provoz po mechanickém incidentu, což omezuje komunikační kapacity NASA pro sondy v hlubokém vesmíru.",
+      "title": "SanDisk uvádí extrémně malý 1TB ‚plug-and-stay‘ USB-C disk Extreme Fit",
+      "description": "SanDisk představil miniaturní 1TB USB-C disk Extreme Fit navržený k trvalému připojení k notebooku, který však přináší kompromisy v rychlosti i otázky důvěry kvůli předchozím problémům firmy s portable SSD.",
+      "slug": "sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tin",
+      "publishedAt": "2025-11-11T15:09:02+00:00",
+      "date": "2025-11-11 15:09:02",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/11/sandisk-extreme-fit-3.jpg",
+      "url": "/tech-news/2025-11-11/sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "companies": [
+        "SanDisk"
+      ],
+      "people": []
+    },
+    {
+      "title": "Klíčová anténa NASA v Deep Space Network poškozena, síť je pod tlakem",
+      "description": "Jedna z hlavních 70m antén NASA v Deep Space Network v Goldstone je od poloviny září mimo provoz po mechanickém incidentu, což dále zatěžuje kapacity pro komunikaci s meziplanetárními sondami.",
       "slug": "key-antenna-in-nasas-deep-space-network-damaged-sp",
       "publishedAt": "2025-11-11T13:12:48+00:00",
       "date": "2025-11-11 13:12:48",
@@ -162,8 +292,8 @@
       "people": []
     },
     {
-      "title": "Google Play začne upozorňovat na aplikace s nadměrnou spotřebou baterie",
-      "description": "Google zavádí do Obchodu Play systém varování u aplikací, které nadměrně vybíjejí baterii. Od roku 2026 to ovlivní nejen viditelnost těchto aplikací, ale i rozhodování uživatelů při instalaci.",
+      "title": "Google Play začne označovat aplikace s nadměrnou spotřebou baterie",
+      "description": "Google od března 2026 zavede v obchodě Play Store varování u aplikací, které nadměrně vybíjejí baterii. Uživatelé tak snadněji poznají problematické aplikace, zatímco vývojáři budou nuceni lépe optimalizovat spotřebu energie.",
       "slug": "the-google-play-stores-new-tweak-makes-your-phones",
       "publishedAt": "2025-11-11T05:40:00+00:00",
       "date": "2025-11-11 05:40:00",
@@ -177,7 +307,8 @@
         "name": "Android Police"
       },
       "companies": [
-        "Google"
+        "Google",
+        "Android Police"
       ],
       "people": []
     },
@@ -203,13 +334,13 @@
       "people": []
     },
     {
-      "title": "Slabší prodeje údajně posouvají další model iPhone Air až na rok 2027",
-      "description": "Podle zdrojů serveru The Information Apple zvažuje posun vydání druhé generace iPhone Air z původně plánovaného podzimu 2026 na jaro 2027 kvůli slabším prodejům aktuálního ultra tenkého modelu.",
+      "title": "Slabší prodeje údajně oddalují uvedení další generace iPhone Air",
+      "description": "Podle zdrojů serveru The Information Apple kvůli nižším než očekávaným prodejům iPhone Air zvažuje odklad druhé generace z původně plánovaného podzimu 2026 na jaro 2027, kdy by se novinka měla spojit s uvedením řady iPhone 18.",
       "slug": "weak-sales-delay-next-iphone-air-model-report-clai",
       "publishedAt": "2025-11-11T03:20:29+00:00",
       "date": "2025-11-11 03:20:29",
       "importance": 2,
-      "category": "hardware",
+      "category": "smartphony",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DRXGGB1FEmC9VU9nc7szm/hero-image.fill.size_1200x675.v1762830550.jpg",
       "url": "/tech-news/2025-11-11/weak-sales-delay-next-iphone-air-model-report-clai/",
       "source": {
@@ -218,22 +349,18 @@
         "name": "Mashable"
       },
       "companies": [
-        "Apple",
-        "LG",
-        "Samsung",
-        "Microsoft",
-        "AT&T"
+        "Apple"
       ],
       "people": []
     },
     {
-      "title": "Siri nyní dokáže spouštět rutiny Samsung SmartThings, zjednodušuje se soužití iOS a Android domácností",
-      "description": "Samsung rozšiřuje SmartThings o podporu Siri Shortcuts, takže uživatelé mohou ovládat své chytré domácí rutiny hlasem přes Siri na iPhonu a Apple Watch. Novinka usnadňuje provoz domácností s kombinací zařízení Apple a Samsung.",
+      "title": "Siri nově umí spouštět rutiny Samsung SmartThings, usnadní život v „smíšených“ domácnostech",
+      "description": "Samsung propojuje SmartThings Routines se Siri Shortcuts, takže uživatelé mohou ovládat chytrou domácnost přes Apple zařízení a hlasové příkazy Siri. Aktualizace míří na domácnosti kombinující ekosystémy Apple a Samsung a zlepšuje interoperabilitu bez nutnosti přecházet na jednoho dodavatele.",
       "slug": "you-can-now-ask-siri-to-run-your-samsung-smartthin",
       "publishedAt": "2025-11-11T01:20:00+00:00",
       "date": "2025-11-11 01:20:00",
       "importance": 3,
-      "category": "smart home",
+      "category": "chytrá domácnost",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/samsung-smartthings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-11/you-can-now-ask-siri-to-run-your-samsung-smartthin/",
       "source": {
@@ -369,6 +496,27 @@
       "people": []
     },
     {
+      "title": "HomePod mini mizí z nabídky některých prodejců. Naznačuje to blížící se novou verzi",
+      "description": "Americký prodejce B&H a další velcí partneři Apple uvádějí HomePod mini jako ukončený nebo nedostupný, což posiluje spekulace o blížícím se uvedení nové generace chytrého reproduktoru.",
+      "slug": "bh-lists-homepod-mini-as-discontinued-amid-refresh",
+      "publishedAt": "2025-11-10T22:35:17+00:00",
+      "date": "2025-11-10 22:35:17",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/HRg8XLwJ8f6W_X6YZBHMPTQuisA=/2500x/article-new/2022/08/yellow-homepod-mini-image.jpg",
+      "url": "/tech-news/2025-11-10/bh-lists-homepod-mini-as-discontinued-amid-refresh/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "B&H"
+      ],
+      "people": []
+    },
+    {
       "title": "Apple údajně skrývá, že příští Siri poběží částečně na Google Gemini",
       "description": "Podle informací Bloomberg má Apple pro interní použití přejmenovat model Google Gemini na „AFM v10“, aby minimalizoval viditelnost partnerství při nasazení nové generace Siri.",
       "slug": "apple-reportedly-doesnt-want-you-to-know-siri-will",
@@ -437,8 +585,8 @@
       "people": []
     },
     {
-      "title": "CISA nařizuje urychlené záplatování kritické zero-day zranitelnosti Samsungu zneužívané špionážním spywarem",
-      "description": "Americká CISA zařadila kritickou zranitelnost CVE-2025-21042 v zařízeních Samsung mezi aktivně zneužívané chyby a nařídila federálním úřadům okamžitě instalovat aktualizace, protože exploit umožňuje vzdálené nasazení špionážního spyware LandFall přes WhatsApp.",
+      "title": "CISA nařizuje urgentní záplatu kritické zranitelnosti Samsungu zneužívané spywarem LandFall",
+      "description": "Americká CISA nařídila federálním úřadům okamžitě opravit kritickou zranitelnost v zařízeních Samsung, která byla zneužívána jako zero-day k instalaci spyware LandFall přes WhatsApp. Útok cílil na moderní modely Galaxy a umožňoval rozsáhlé sledování uživatelů.",
       "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
       "publishedAt": "2025-11-10T20:00:34+00:00",
       "date": "2025-11-10 20:00:34",
@@ -3629,30 +3777,6 @@
       ]
     },
     {
-      "title": "100 nejlepších gadgetů a zařízení roku 2025 podle čtenářů CNET",
-      "description": "Výběr 100 nejčastěji kupovaných technologických produktů roku 2025 podle čtenářů CNET ukazuje, jaké konkrétní gadgety lidé skutečně používají – od sluchátek přes vysavače až po notebooky.",
-      "slug": "A-100-best-gadgets-and-gear-of-2025-according-to-c",
-      "publishedAt": "2025-11-06T15:21:00+00:00",
-      "date": "2025-11-06 15:21:00",
-      "importance": 3,
-      "category": "gadgety",
-      "urlToImage": "https://www.cnet.com/a/img/resize/d9b6189deee3dc7a1976d63ce78b71aaa7e6a421/hub/2025/11/05/6b81eceb-a543-4631-93e4-188896f5bdb8/6-top-100-readers-choice-early.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-06/A-100-best-gadgets-and-gear-of-2025-according-to-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
       "title": "YouTube rozšiřuje ověřování věku pomocí AI na další uživatele",
       "description": "YouTube nasazuje druhou vlnu ověřování věku pomocí AI, která omezuje účty považované za nezletilé a nutí uživatele k dodatečné verifikaci pomocí dokladu, selfie analýzy nebo platební karty.",
       "slug": "youtube-rolls-out-ai-age-verification-to-a-new-wav",
@@ -4082,126 +4206,6 @@
         "Apple",
         "Google",
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trend návratu: moderní Bluetooth CD přehrávače cílí na nostalgii po éře mixovaných kazet",
-      "description": "Nová generace přenosných CD přehrávačů kombinuje retro design s funkcemi jako Bluetooth a nabíjení přes USB-C a míří na uživatele, kteří chtějí fyzická média bez ztráty moderního komfortu.",
-      "slug": "trend-alert-high-tech-bluetooth-cd-players-make-me",
-      "publishedAt": "2025-11-05T22:11:13+00:00",
-      "date": "2025-11-05 22:11:13",
-      "importance": 1,
-      "category": "hardware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/030peY6KgjU89vUoA7KnIce/hero-image.fill.size_1200x675.v1762377869.jpg",
-      "url": "/tech-news/2025-11-05/trend-alert-high-tech-bluetooth-cd-players-make-me/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Apple",
-        "Sony"
-      ],
-      "people": []
-    },
-    {
-      "title": "Virální „domov důchodců“ na TikToku je kompletně generovaný pomocí AI, uživatelé se cítí podvedeni",
-      "description": "Populární účet @basincreekretirement, který ukazuje „obyvatele“ domova důchodců v vtipných halloweenských kostýmech, se ukázal být plně generovaný pomocí AI. Případ otevírá debatu o transparentnosti, etice a důvěře v tvůrce obsahu na sociálních sítích.",
-      "slug": "tiktok-users-crushed-after-finding-out-viral-retir",
-      "publishedAt": "2025-11-05T15:49:50+00:00",
-      "date": "2025-11-05 15:49:50",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rpv6cu05.Prq_hrcLzHSfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/b7786523f6fd7e22016d3c63aea184c6",
-      "url": "/tech-news/2025-11-05/tiktok-users-crushed-after-finding-out-viral-retir/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PEOPLE"
-      },
-      "companies": [
-        "TikTok"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft potvrdil další chybu v aktualizaci Windows – uživatelům hrozí ztráta dat",
-      "description": "Říjnová aktualizace Windows způsobuje u některých počítačů nečekanou aktivaci BitLocker Recovery obrazovky. Bez obnovovacího klíče hrozí ztráta všech dat.",
-      "slug": "you-could-be-in-troublemicrosoft-confirms-new-wind",
-      "publishedAt": "2025-11-05T13:51:35+00:00",
-      "date": "2025-11-05 13:51:35",
-      "importance": 3,
-      "category": "aktualizace windows",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66326c977605f1e72ab87c8d/0x0.jpg?format=jpg&crop=1276,717,x1223,y811,safe&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-11-05/you-could-be-in-troublemicrosoft-confirms-new-wind/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fairphone vstupuje na americký trh s opravitelnými produkty",
-      "description": "Nizozemská firma Fairphone, známá svými snadno opravitelnými telefony, oficiálně vstoupila na americký trh. Zatím nabízí sluchátka, ale chystá i uvedení smartphonu.",
-      "slug": "this-refreshingly-innovative-smartphone-brand-has-",
-      "publishedAt": "2025-11-05T12:52:31+00:00",
-      "date": "2025-11-05 12:52:31",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/Fairphone-Gen-6-Moment-Key.jpg",
-      "url": "/tech-news/2025-11-05/this-refreshingly-innovative-smartphone-brand-has-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chytrý prsten Stream Ring zachytává pošeptané myšlenky pomocí AI",
-      "description": "Startup Sandbar představil chytrý prsten Stream Ring s mikrofonem, který zaznamenává tiše vyslovené myšlenky a převádí je na text pomocí AI. Firma získala 13 milionů dolarů financování.",
-      "slug": "whisper-into-this-ai-powered-smart-ring-to-organiz",
-      "publishedAt": "2025-11-05T11:00:00+00:00",
-      "date": "2025-11-05 11:00:00",
-      "importance": 3,
-      "category": "chytré prsteny",
-      "urlToImage": "https://media.wired.com/photos/690ac75e0688aae134b0cb56/191:100/w_1280,c_limit/Sandbar%20Stream%20Smart%20Ring%20SOURCE%20Julian%20Chokkattu(2).jpg",
-      "url": "/tech-news/2025-11-05/whisper-into-this-ai-powered-smart-ring-to-organiz/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Sandbar"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Pixel 10 Pro dostává výrazné slevy před Black Friday",
-      "description": "Celá řada telefonů Pixel 10 je nyní dostupná se slevami až 300 dolarů. Nejvyšší model Pixel 10 Pro XL s 6,8palcovým displejem a čipem Tensor G5 lze pořídit za 899 dolarů místo původních 1199 dolarů.",
-      "slug": "unreal-pixel-10-pro-discounts-are-now-live-ahead-o",
-      "publishedAt": "2025-11-05T00:14:00+00:00",
-      "date": "2025-11-05 00:14:00",
-      "importance": 3,
-      "category": "mobilní telefony",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/you-re-missing-something-with-the-pixel-10-8-48-screenshot.png?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-05/unreal-pixel-10-pro-discounts-are-now-live-ahead-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google",
-        "Android Police"
       ],
       "people": []
     }
