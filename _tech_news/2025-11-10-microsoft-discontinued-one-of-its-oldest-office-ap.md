@@ -5,8 +5,8 @@ companies:
 - Microsoft
 date: '2025-11-10 20:17:00'
 description: Microsoft oznámil ukončení podpory aplikace Publisher k 1. říjnu 2026.
-  Uživatelé mají omezený čas převést své dokumenty do jiných formátů nebo přejít na
-  alternativní software.
+  Uživatelé musí převést své soubory do jiných formátů, což zapadá do širší strategie
+  firmy soustředit se na cloud, AI a hlavní produkty Microsoft 365.
 importance: 3
 layout: tech_news_article
 original_title: Microsoft Discontinued One Of Its Oldest Office Apps After 35 Years
@@ -17,33 +17,34 @@ source:
   emoji: 📰
   id: null
   name: BGR
-title: Microsoft po 35 letech ukončí Publisher. Uživatelé musí migrovat na jiné nástroje
+title: Microsoft ukončí po 35 letech aplikaci Publisher. Uživatelé mají rok na migraci
+  dat
 url: https://www.bgr.com/2022223/why-microsoft-discontinued-publisher-windows-app/
 urlToImage: https://www.bgr.com/img/gallery/microsoft-discontinued-one-of-its-oldest-office-apps-after-35-years/l-intro-1762797506.jpg
 urlToImageBackup: https://www.bgr.com/img/gallery/microsoft-discontinued-one-of-its-oldest-office-apps-after-35-years/l-intro-1762797506.jpg
 ---
 
 ## Souhrn
-Microsoft ukončí po více než 35 letech jednu ze svých nejstarších kancelářských aplikací, Microsoft Publisher. Podpora skončí 1. října 2026 a uživatelé jsou vyzváni k migraci projektů do jiných formátů a nástrojů.
+Microsoft po 35 letech ukončuje desktopovou publikační aplikaci Publisher. Podpora skončí 1. října 2026 a uživatelé mají omezený čas převést existující projekty do jiných formátů, zejména PDF nebo Word. Rozhodnutí zapadá do celkové restrukturalizace produktové řady Microsoftu směrem k cloudovým a AI nástrojům.
 
 ## Klíčové body
-- Ukončení podpory Microsoft Publisheru k 1. říjnu 2026.
-- Doporučení převést existující .pub soubory do PDF, Wordu nebo jiných formátů.
-- Microsoft nabízí návody a PowerShell skript pro hromadnou migraci.
-- Rozhodnutí zapadá do širší strategie Microsoftu: důraz na AI, cloud a předplatné Microsoft 365.
-- Uživatelé DTP a malých firem budou nuceni přejít na alternativní řešení.
+- Ukončení podpory Microsoft Publisher k 1. 10. 2026
+- Výzva pro uživatele k migraci dat do PDF, Word či jiných nástrojů
+- Publisher byl historicky určen pro nenáročnou sazbu letáků, vizitek, newsletterů a menších tiskovin
+- Rozhodnutí odráží přesun Microsoftu k integraci funkcí do hlavních produktů a k AI službám
+- Na trhu existuje řada alternativ pro DTP a lehkou grafiku, včetně online řešení
 
 ## Podrobnosti
-Microsoft Publisher, uvedený v roce 1991 a později součást balíku Office 97 Small Business Edition, byl navržen jako jednodušší nástroj pro sazbu a tvorbu propagačních materiálů. Umožňoval navrhovat letáky, brožury, vizitky, zpravodaje či jednoduché časopisy bez nutnosti používat profesionální DTP software typu QuarkXPress nebo Adobe InDesign. Postupem času získal Publisher podporu pro webovou publikaci, export do PDF a základní prvky cloudové spolupráce.
+Microsoft na své oficiální stránce životního cyklu produktů potvrdil, že aplikace Microsoft Publisher skončí 1. října 2026. Do té doby bude nadále funkční, následně však přestane dostávat bezpečnostní aktualizace i technickou podporu. Firma explicitně doporučuje uživatelům převést všechny soubory .pub do jiných formátů. Jako hlavní možnosti uvádí export do PDF pro finální distribuci dokumentů a do formátu Word pro další úpravy obsahu. Microsoft poskytuje detailní návody včetně skriptu v PowerShell pro hromadnou konverzi, což je prakticky nezbytné pro firmy a instituce, které mají stovky starších šablon a materiálů.
 
-Microsoft nyní oficiálně oznámil, že podpora Publisheru skončí 1. října 2026. To znamená konec bezpečnostních aktualizací, technické podpory i formálního místa v ekosystému Microsoft 365. Firma uživatelům výslovně doporučuje převést všechny .pub dokumenty do jiných formátů, typicky do PDF pro distribuci nebo do Wordu, případně do jiných DTP nástrojů. K usnadnění přechodu Microsoft zveřejnil návody a také PowerShell skript, který umožňuje hromadnou konverzi souborů, což je zásadní pro firmy a organizace, které mají dlouhodobé archivy založené na Publisheru.
+Publisher byl uveden v roce 1991 a od Office 97 Small Business Edition sloužil jako dostupný nástroj pro drobný DTP (desktop publishing). Umožňoval jednoduše skládat brožury, katalogy, newslettery, obálky, vizitky či plakáty z předpřipravených šablon bez nutnosti ovládat profesionální nástroje typu Adobe InDesign nebo historický PageMaker. Postupem času přibyla podpora webových stránek, exportu do PDF a základní spolupráce přes cloud, nikdy však nešlo o plnohodnotný profesionální nástroj. S rozšířením Microsoft 365, integrací šablon do Wordu, PowerPointu a webových nástrojů a nástupem online platforem pro grafiku se význam Publisheru dlouhodobě snižoval.
 
-Rozhodnutí přichází v době, kdy Microsoft agresivně přesouvá vývojové zdroje do oblastí jako AI funkce v Microsoft 365, nástroje pro tvorbu obsahu v prohlížeči, integrace generativní AI (Copilot) a posilování cloudových služeb. Publisher neodpovídá této strategii: má úzké využití, slabou integraci do moderních pracovních postupů a dlouhodobě stagnující vývoj. V praxi ho navíc vytlačily webové editory, šablonové nástroje typu Canva a profesionální DTP software.
+Uživatelé dnes mohou přejít na několik typů alternativ. Pro nenáročnou grafiku a marketingové materiály se používají online služby jako Canva (tvorba letáků, vizuálů pro sociální sítě, prezentací) či nástroje v rámci Microsoft Designer. Pro profesionálnější sazbu zůstává standardem Adobe InDesign nebo Affinity Publisher, které umožňují komplexní práci s tiskovinami, katalogy a časopisy. Část základních scénářů (letáky, jednoduché newslettery) lze pokrýt přímo v Microsoft Word nebo PowerPoint s využitím šablon Microsoft 365.
 
 ## Proč je to důležité
-Ukončení Publisheru není jen kosmetická změna v produktové řadě. Firmy, školy, úřady a malé organizace, které desítky let používaly Publisher pro tiskoviny či formuláře, musí aktivně řešit migraci. To zahrnuje revizi procesů, převedení šablon, kontrolu typografie a kompatibility s tiskem. Opomenutí může vést ke ztrátě dat nebo problémům při pozdějším otevírání archivních dokumentů.
+Ukončení Publisheru je signálem, že Microsoft dále konsoliduje portfolio a soustředí vývoj i obchodní model na produkty s vyšší přidanou hodnotou, zejména cloudové služby a AI funkce integrované v Microsoft 365. Pro firmy, školy, úřady i malé podniky, které Publisher používaly dlouhodobě jako nenápadný, ale klíčový nástroj pro interní tiskoviny, to znamená nutnost aktivního plánování migrace. Ignorování termínu povede nejen k problémům s kompatibilitou, ale i k bezpečnostním rizikům.
 
-Z pohledu technologického ekosystému jde o další krok v trendu, kdy velcí dodavatelé opouštějí specializované desktopové aplikace a soustředí se na centralizované, cloudové a AI-orientované platformy. Tím zvyšují závislost uživatelů na uzavřených ekosystémech a předplatných, ale zároveň vytvářejí prostor pro nezávislé alternativy v oblasti DTP a nástrojů pro návrh tiskovin. Rozhodnutí Microsoftu je proto signálem, že méně používané legacy nástroje nebudou mít v nové strategii místo, a uživatelé by neměli předpokládat neomezenou životnost žádného software bez aktivního vývoje.
+Z hlediska trhu jde o další krok k centralizaci publikačních funkcí do komplexních ekosystémů velkých poskytovatelů a k posílení online platforem. Microsoft tím dává jasně najevo, že nebude udržovat specializované nástroje s omezenou uživatelskou základnou, pokud nepasují do strategie AI a předplatného. Pro uživatele je to praktický test, jak zvládají životní cyklus softwaru: mít pod kontrolou formáty, migraci dat a závislost na jednom dodavateli.
 
 ---
 

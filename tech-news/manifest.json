@@ -1,15 +1,15 @@
 {
-  "generated": "2025-11-13T08:23:09.558299+00:00",
+  "generated": "2025-11-13T12:29:50.284243+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Google představuje cloudové „Private AI Compute“: slibuje bezpečnost na úrovni lokálního zpracování",
-      "description": "Google zavádí systém Private AI Compute, který umožňuje zařízením bezpečně využívat výkonné cloudové AI modely přes šifrované prostředí s hardwarově oddělenou pamětí. Tvrdí, že ochrana dat je srovnatelná s lokálním zpracováním na zařízení.",
+      "title": "Google zavádí „Private AI Compute“: bezpečnější cloudové zpracování dat pro velké AI modely",
+      "description": "Google představil Private AI Compute, systém pro bezpečné cloudové zpracování AI úloh s využitím vlastních čipů a Trusted Execution Environment, který má nabídnout úroveň ochrany srovnatelnou s lokálním zpracováním na zařízení.",
       "slug": "google-says-new-cloud-based-private-ai-compute-is-",
       "publishedAt": "2025-11-11T21:34:10+00:00",
       "date": "2025-11-11 21:34:10",
       "importance": 4,
-      "category": "ai bezpečnost",
+      "category": "tech",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg",
       "url": "/tech-news/2025-11-11/google-says-new-cloud-based-private-ai-compute-is-/",
       "source": {
@@ -18,18 +18,19 @@
         "name": "Ars Technica"
       },
       "companies": [
-        "Google"
+        "Google",
+        "Ars Technica"
       ],
       "people": []
     },
     {
-      "title": "Nejlepší Black Friday slevy na produkty Apple: AirPods, MacBooky, Apple Watch a příslušenství",
-      "description": "Výrazné slevy na vybrané produkty Apple na Amazonu ukazují, že Black Friday je letos vhodný okamžik pro nákup sluchátek, hodinek, iPadů i MacBooků, přestože nejde o technologickou novinku, ale cenovou optimalizaci zavedeného ekosystému.",
+      "title": "Black Friday slevy na produkty Apple: AirPods, MacBooky, Apple Watch a příslušenství",
+      "description": "Výrazné Black Friday slevy na zařízení Apple, včetně AirPods, Apple Watch, MacBooků, iPadů a AirTagů, zlevňují aktuální generace produktů na atraktivnější cenovou úroveň.",
       "slug": "best-black-friday-apple-deals-live-save-big-on-air",
       "publishedAt": "2025-11-11T20:53:01+00:00",
       "date": "2025-11-11 20:53:01",
       "importance": 3,
-      "category": "spotřební elektronik",
+      "category": "hardware",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg",
       "url": "/tech-news/2025-11-11/best-black-friday-apple-deals-live-save-big-on-air/",
       "source": {
@@ -86,13 +87,13 @@
       "people": []
     },
     {
-      "title": "Google Pixel přináší úsporný režim Map, AI úpravy fotek a chytřejší notifikace",
-      "description": "Listopadový Pixel Drop přidává do telefonů Pixel nový úsporný režim pro Google Maps, AI remixování fotografií, rozšířenou detekci podvodů a souhrny notifikací, čímž posiluje praktické nasazení AI v každodenním používání mobilů.",
+      "title": "Listopadová aktualizace Google Pixel přináší úsporný režim pro Mapy, AI úpravy fotek a chytřejší notifikace",
+      "description": "Google vydává listopadový Pixel Drop s novými funkcemi pro telefony Pixel, včetně úsporného režimu v Google Maps, AI shrnutí notifikací, detekce podvodů a kreativních AI úprav fotografií.",
       "slug": "google-pixel-update-adds-battery-saving-maps-mode-",
       "publishedAt": "2025-11-11T19:00:00+00:00",
       "date": "2025-11-11 19:00:00",
       "importance": 3,
-      "category": "mobilní aplikace",
+      "category": "mobilní telefony",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
       "url": "/tech-news/2025-11-11/google-pixel-update-adds-battery-saving-maps-mode-/",
       "source": {
@@ -106,13 +107,13 @@
       "people": []
     },
     {
-      "title": "Microsoft v listopadu 2025 opravuje 63 zranitelností včetně aktivně zneužívané zero-day chyby",
-      "description": "Listopadový Patch Tuesday od Microsoftu přináší opravy 63 zranitelností včetně jedné aktivně zneužívané zero-day chyby v jádře Windows a čtyř kritických problémů. Firmy i jednotlivci musí záplaty nasadit rychle, zejména na stále používaných instalacích Windows 10.",
+      "title": "Microsoft v listopadu 2025 opravuje 63 zranitelností včetně aktivně zneužívaného zero-day ve Windows",
+      "description": "Listopadová sada záplat Microsoftu (Patch Tuesday) přináší opravy 63 zranitelností napříč produkty, včetně aktivně zneužívaného zero-day ve Windows Kernel, čtyř chyb hodnocených jako kritické a prvního balíčku rozšířené podpory pro Windows 10.",
       "slug": "microsoft-november-2025-patch-tuesday-fixes-1-zero",
       "publishedAt": "2025-11-11T18:45:29+00:00",
       "date": "2025-11-11 18:45:29",
-      "importance": 3,
-      "category": "kyberbezpečnost",
+      "importance": 4,
+      "category": "kybernetika",
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
       "url": "/tech-news/2025-11-11/microsoft-november-2025-patch-tuesday-fixes-1-zero/",
       "source": {
@@ -121,14 +122,33 @@
         "name": "BleepingComputer"
       },
       "companies": [
-        "Microsoft",
-        "BleepingComputer"
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "Apple Watch Series 11 z titanu zlevňují na Amazonu o 120 dolarů, přidávají se další modely",
-      "description": "Amazon nabízí výraznou slevu 120 dolarů na 46mm Apple Watch Series 11 v titanovém provedení s mobilním připojením a slevy i na řadu dalších modelů včetně Ultra 3 a SE. Jde o součást raných Black Friday akcí, které naznačují agresivnější cenovou politiku u aktuálních i starších generací hodinek Apple.",
+      "title": "Listopadová aktualizace Windows 11 přináší nový Start, vylepšenou ikonu baterie a opravu Task Manageru",
+      "description": "Listopadová aktualizace Windows 11 (KB5068861, build 26200.7121) zavádí výrazně upravené Start menu, novou podobu ikony baterie na hlavním panelu a opravuje chybu Task Manageru, která zbytečně zatěžovala systém.",
+      "slug": "windows-11s-november-patch-tuesday-update-brings-n",
+      "publishedAt": "2025-11-11T18:11:56+00:00",
+      "date": "2025-11-11 18:11:56",
+      "importance": 3,
+      "category": "software",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/R9fj76rTfHoxg4GXCp3UzU-2560-80.jpg",
+      "url": "/tech-news/2025-11-11/windows-11s-november-patch-tuesday-update-brings-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple Watch Series 11 z titanu zlevňují na Amazonu o 120 dolarů, objevují se první významné slevy před Black Friday",
+      "description": "Amazon nabízí 46mm mobilní verzi Apple Watch Series 11 s titanovým pouzdrem a řemínkem Milanese Loop se slevou 120 dolarů. Současně se objevují výrazné slevy napříč modely Apple Watch v rámci předběžných nabídek k Black Friday.",
       "slug": "apple-watch-series-11-titanium-model-gets-big-120-",
       "publishedAt": "2025-11-11T18:03:01+00:00",
       "date": "2025-11-11 18:03:01",
@@ -214,8 +234,8 @@
       "people": []
     },
     {
-      "title": "FFmpeg vyzývá Google: financujte nás, nebo přestaňte hlásit chyby",
-      "description": "Konflikt mezi projektem FFmpeg a Google znovu otevírá otázku, kdo má platit za údržbu kritické open source infrastruktury, kterou velké firmy masivně využívají.",
+      "title": "FFmpeg tlačí na Google: financujte nás, nebo omezte hlášení chyb",
+      "description": "Konflikt mezi vývojáři FFmpeg a bezpečnostním týmem Google znovu otevírá otázku, kdo má platit za údržbu kritických open source projektů, na nichž jsou závislé velké technologické firmy.",
       "slug": "ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-",
       "publishedAt": "2025-11-11T16:31:16+00:00",
       "date": "2025-11-11 16:31:16",
@@ -230,7 +250,8 @@
       },
       "companies": [
         "FFmpeg",
-        "Google"
+        "Google",
+        "The New Stack"
       ],
       "people": []
     },
@@ -298,8 +319,8 @@
       "people": []
     },
     {
-      "title": "SanDisk uvádí extrémně malý 1TB USB‑C \"plug-and-stay\" disk Extreme Fit",
-      "description": "SanDisk představil kompaktní USB‑C jednotku Extreme Fit s kapacitou až 1 TB, navrženou pro trvalé připojení k notebooku. Nabízí pohodlné rozšíření úložiště, ale s omezeným výkonem a s doznívající nedůvěrou po předchozích problémech SanDisk SSD.",
+      "title": "SanDisk uvádí extrémně malý 1TB USB‑C SSD „plug-and-stay“",
+      "description": "SanDisk představil miniaturní USB‑C disk Extreme Fit s kapacitou až 1 TB, navržený pro trvalé připojení k notebookům. Nabízí vysokou hustotu úložiště, ale omezený výkon a nese reputační zátěž předchozích problémů SanDisku.",
       "slug": "sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tin",
       "publishedAt": "2025-11-11T15:09:02+00:00",
       "date": "2025-11-11 15:09:02",
@@ -313,7 +334,8 @@
         "name": "PetaPixel"
       },
       "companies": [
-        "SanDisk"
+        "SanDisk",
+        "PetaPixel"
       ],
       "people": []
     },
@@ -645,8 +667,8 @@
       "people": []
     },
     {
-      "title": "OnePlus mění strategii: od „flagship killera“ k dospělému mainstreamu",
-      "description": "OnePlus u nové generace (např. OnePlus 15) opouští charakteristické prvky jako zakřivený displej, masivní kamerový modul či okázalý design a posouvá se směrem k umírněnému, robustnějšímu a pro masový trh čitelnějšímu přístupu.",
+      "title": "OnePlus mění identitu: od „flagship killer“ k uhlazenému mainstreamu",
+      "description": "OnePlus cíleně opouští image rebelského výrobce a přechází k umírněnému, praktičtějšímu designu a mainstreamové strategii, aby mohl konkurovat Samsungu, Googlu a Applu.",
       "slug": "everyone-says-oneplus-lost-its-way-but-i-say-it-fi",
       "publishedAt": "2025-11-10T20:46:47+00:00",
       "date": "2025-11-10 20:46:47",
@@ -661,16 +683,16 @@
       },
       "companies": [
         "OnePlus",
-        "Google",
+        "Oppo",
         "Apple",
-        "Samsung",
-        "Oppo"
+        "Google",
+        "Samsung"
       ],
       "people": []
     },
     {
-      "title": "Microsoft po 35 letech ukončí Publisher. Uživatelé musí migrovat na jiné nástroje",
-      "description": "Microsoft oznámil ukončení podpory aplikace Publisher k 1. říjnu 2026. Uživatelé mají omezený čas převést své dokumenty do jiných formátů nebo přejít na alternativní software.",
+      "title": "Microsoft ukončí po 35 letech aplikaci Publisher. Uživatelé mají rok na migraci dat",
+      "description": "Microsoft oznámil ukončení podpory aplikace Publisher k 1. říjnu 2026. Uživatelé musí převést své soubory do jiných formátů, což zapadá do širší strategie firmy soustředit se na cloud, AI a hlavní produkty Microsoft 365.",
       "slug": "microsoft-discontinued-one-of-its-oldest-office-ap",
       "publishedAt": "2025-11-10T20:17:00+00:00",
       "date": "2025-11-10 20:17:00",
@@ -860,8 +882,8 @@
       "people": []
     },
     {
-      "title": "Mac mini s čipem M4 za agresivní cenu zpochybňuje smysl levných Windows mini PC",
-      "description": "Aktuální sleva na Mac mini s čipem M4 ukazuje, že při ceně kolem 499 dolarů nabízí vyšší výkon, efektivitu a integrované funkce než většina srovnatelných Windows mini PC, což mění poměr cena/výkon v segmentu kompaktních desktopů.",
+      "title": "Zapomeňte na Windows mini PC: Mac mini s čipem M4 nabízí vyšší výkon za agresivní cenu",
+      "description": "Nejnovější Mac mini s čipem M4, 10jádrovým CPU, 10jádrovým GPU a 16GB unified memory se v aktuální slevě dostává na cenu, za kterou výrazně překonává většinu Windows mini PC jak výkonem, tak efektivitou.",
       "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
       "publishedAt": "2025-11-10T17:15:22+00:00",
       "date": "2025-11-10 17:15:22",
@@ -875,8 +897,7 @@
         "name": "Kotaku"
       },
       "companies": [
-        "Apple",
-        "Kotaku"
+        "Apple"
       ],
       "people": []
     },
@@ -1074,8 +1095,8 @@
       "people": []
     },
     {
-      "title": "Proč byl High Tide znovu zakázán ve formátu Pauper",
-      "description": "Pauper Format Panel po zkušebním obnovení znovu zakazuje kartu High Tide ve formátu Pauper, protože se ukázala jako příliš silný a těžko interaktivní kombinační prvek.",
+      "title": "Vysvětlení banu High Tide v Pauper formátu od 10. listopadu 2025",
+      "description": "Článek vysvětluje, proč byl v karetní hře Magic: The Gathering znovu zakázán kouzelný okamžik High Tide v Pauper formátu s platností od 10. listopadu 2025.",
       "slug": "explanation-of-the-pauper-high-tide-ban-for-novemb",
       "publishedAt": "2025-11-10T16:03:14+00:00",
       "date": "2025-11-10 16:03:14",
@@ -3750,27 +3771,6 @@
         "NVIDIA",
         "Intel",
         "Newegg"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple zpřístupnil veřejné bety iOS 26.2 a iPadOS 26.2 s novými funkcemi pro zamykací obrazovku, spánek a připomínky",
-      "description": "Apple vydal první veřejné bety iOS 26.2, iPadOS 26.2, tvOS 26.2 a watchOS 26.2. Aktualizace rozšiřují uživatelské funkce v oblasti uzamčené obrazovky, sledování spánku, připomínek, překladů a vybraných aplikací ekosystému.",
-      "slug": "apple-releases-first-ios-262-and-ipados-262-public",
-      "publishedAt": "2025-11-06T18:18:03+00:00",
-      "date": "2025-11-06 18:18:03",
-      "importance": 3,
-      "category": "mobilní systémy",
-      "urlToImage": "https://images.macrumors.com/t/TnRBQg6_KF5xtez0eVYDpx4-J7M=/2500x/article-new/2025/11/iOS-26.2-Glass-Feature.jpg",
-      "url": "/tech-news/2025-11-06/apple-releases-first-ios-262-and-ipados-262-public/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "MacRumors"
       ],
       "people": []
     },
