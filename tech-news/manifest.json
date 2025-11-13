@@ -1,15 +1,141 @@
 {
-  "generated": "2025-11-13T16:23:33.112175+00:00",
+  "generated": "2025-11-13T20:16:37.674710+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Samsung Movingstyle: 27\" přenosný dotykový displej s tříhodinovou výdrží na baterii",
-      "description": "Samsung představil Movingstyle, 27palcový přenosný dotykový QHD displej s integrovanou baterií na zhruba tři hodiny provozu, stojanem na kolečkách a možností použít zařízení jako velký tablet pro video, prezentace i cloudové hraní.",
+      "title": "The Best Tech Gifts of 2025 - Gizmodo",
+      "description": "Discover the Best Tech Gifts of 2025, from smart gadgets to must-have devices. Find cool holiday gift ideas and be the perfect Santa!",
+      "slug": "the-best-tech-gifts-of-2025-gizmodo",
+      "publishedAt": "2025-11-12T17:02:00+00:00",
+      "date": "2025-11-12 17:02:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1200x675.jpg",
+      "url": "/tech-news/2025-11-12/the-best-tech-gifts-of-2025-gizmodo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Review: New Framework Laptop 16 takes a fresh stab at the upgradeable laptop GPU - Ars Technica",
+      "description": "New components make it more useful and powerful but no less odd.",
+      "slug": "review-new-framework-laptop-16-takes-a-fresh-stab-",
+      "publishedAt": "2025-11-12T16:00:39+00:00",
+      "date": "2025-11-12 16:00:39",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_1624-1152x648.jpeg",
+      "url": "/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab-/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SpongeBob: Patty Pursuit 2 launches December 4 on Apple Arcade - Apple",
+      "description": "SpongeBob Patty Pursuit 2, the follow-up to one of Apple Arcade’s biggest hits, launches on December 4.",
+      "slug": "spongebob-patty-pursuit-2-launches-december-4-on-a",
+      "publishedAt": "2025-11-12T15:02:20+00:00",
+      "date": "2025-11-12 15:02:20",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.apple.com/newsroom/images/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/tile/Apple-Arcade-SpongeBob-Patty-Pursuit-2-preview-lp.jpg.og.jpg?202511121630",
+      "url": "/tech-news/2025-11-12/spongebob-patty-pursuit-2-launches-december-4-on-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Apple Newsroom"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "5 things I love about Amazon’s new Echo Shows — and 3 things I don’t - The Verge",
+      "description": "﻿Amazon’s Echo Show 8 and Echo Show 11 launch this week, here are my first impressions",
+      "slug": "A-5-things-i-love-about-amazons-new-echo-shows-and",
+      "publishedAt": "2025-11-12T15:00:22+00:00",
+      "date": "2025-11-12 15:00:22",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/8A0A4503.jpeg?quality=90&strip=all&crop=0%2C10.729540724334%2C100%2C78.540918551332&w=1200",
+      "url": "/tech-news/2025-11-12/A-5-things-i-love-about-amazons-new-echo-shows-and/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "iPhone 18 Pro Max will be thicker and heavier than ever, says leaker - 9to5Mac",
+      "description": "A new leak says the iPhone 18 Pro Max will get even thicker and heavier than iPhone 17 Pro Max, potentially giving users even more battery.",
+      "slug": "iphone-18-pro-max-will-be-thicker-and-heavier-than",
+      "publishedAt": "2025-11-12T14:26:00+00:00",
+      "date": "2025-11-12 14:26:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-17-pro-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-12/iphone-18-pro-max-will-be-thicker-and-heavier-than/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google relaunches Cameyo to entice businesses from Windows to ChromeOS - The Verge",
+      "description": "After acquiring Cameyo last year, Google has relaunched the virtualization service to make it easier for Windows-based organizations to migrate over to ChromeOS.",
+      "slug": "google-relaunches-cameyo-to-entice-businesses-from",
+      "publishedAt": "2025-11-12T14:00:00+00:00",
+      "date": "2025-11-12 14:00:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Cameyo-example-Google.jpg?quality=90&strip=all&crop=0,10.87801482212,100,78.24397035576",
+      "url": "/tech-news/2025-11-12/google-relaunches-cameyo-to-entice-businesses-from/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product - TechCrunch",
+      "description": "Marble is different from competitors like Odyssey, Decart, and Google's Genie because creates persistent, downloadable 3D environments rather than generating worlds on-the-fly as you explore.",
+      "slug": "fei-fei-lis-world-labs-speeds-up-the-world-model-r",
+      "publishedAt": "2025-11-12T13:44:01+00:00",
+      "date": "2025-11-12 13:44:01",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/world-labs-mushroom-prompt.png?resize=1200,675",
+      "url": "/tech-news/2025-11-12/fei-fei-lis-world-labs-speeds-up-the-world-model-r/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung’s new 27-inch portable display has a three-hour battery life - The Verge",
+      "description": "The Movingstyle is a 27-inch touchscreen display that features a three hour battery life and can be carried like a giant tablet.",
       "slug": "samsungs-new-27-inch-portable-display-has-a-three-",
       "publishedAt": "2025-11-12T12:44:52+00:00",
       "date": "2025-11-12 12:44:52",
-      "importance": 3,
-      "category": "hardware",
+      "importance": 4,
+      "category": "tech",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-Movingstyle-display.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "url": "/tech-news/2025-11-12/samsungs-new-27-inch-portable-display-has-a-three-/",
       "source": {
@@ -17,19 +143,35 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "companies": [
-        "Samsung"
-      ],
+      "companies": [],
       "people": []
     },
     {
-      "title": "Microsoft opravuje 63 bezpečnostních chyb, včetně zneužívané zero-day zranitelnosti v jádře Windows",
-      "description": "Microsoft vydal balík oprav řešící 63 zranitelností, včetně aktivně zneužívané zero-day chyby v jádře Windows a kritické vzdáleně zneužitelné chyby, což má přímý dopad na bezpečnost firemních i domácích systémů.",
+      "title": "Apple and Issey Miyake create expandable \"extra pocket\" to hold your iPhone - Dezeen",
+      "description": "Issey Miyake has teamed up with Apple to launch the iPhone Pocket, a wearable smartphone carrier that stretches much like the fashion brand's pleated clothing to hold more everyday items.",
+      "slug": "apple-and-issey-miyake-create-expandable-extra-poc",
+      "publishedAt": "2025-11-12T11:25:00+00:00",
+      "date": "2025-11-12 11:25:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static.dezeen.com/uploads/2025/11/hero-issey-miyake-apple-iphone-pocket_dezeen_2364_col_0.jpg",
+      "url": "/tech-news/2025-11-12/apple-and-issey-miyake-create-expandable-extra-poc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dezeen"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
+      "description": "Microsoft fixes 63 flaws, including an exploited Windows Kernel zero-day and a critical RCE bug.",
       "slug": "microsoft-fixes-63-security-flaws-including-a-wind",
       "publishedAt": "2025-11-12T10:21:00+00:00",
       "date": "2025-11-12 10:21:00",
       "importance": 4,
-      "category": "kyberbezpečnost",
+      "category": "tech",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s790-rw-e365/windows-update.jpg",
       "url": "/tech-news/2025-11-12/microsoft-fixes-63-security-flaws-including-a-wind/",
       "source": {
@@ -37,19 +179,35 @@
         "id": null,
         "name": "Internet"
       },
-      "companies": [
-        "Microsoft"
-      ],
+      "companies": [],
       "people": []
     },
     {
-      "title": "Nejlepší listopadové slevy na MacBooky: ceny začínají na 599 dolarech",
-      "description": "Aktuální slevy na MacBooky s čipy Apple Silicon stlačily cenu základních modelů až na 599 dolarů. V kombinaci s ukončením podpory většiny Intel Maců v macOS Tahoe jde o pragmatický okamžik k přechodu na novější hardware.",
+      "title": "Google Launches 'Private AI Compute' — Secure AI Processing with On-Device-Level Privacy - The Hacker News",
+      "description": "Google’s Private AI Compute blends Gemini’s cloud power with encrypted, zero-access privacy protections.",
+      "slug": "google-launches-private-ai-compute-secure-ai-proce",
+      "publishedAt": "2025-11-12T08:35:00+00:00",
+      "date": "2025-11-12 08:35:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7u0YyGlwQEZFWpce5m9bHa4DibuFf1-votoLyZ6m1wkceOdtkkpGLrjkM9tyYHVQJVZSz5KQvJ9FxxCcr7KFlWm_d9DKdDx84iYRRp7J7rQHYRlAMdhF65AYDLZT_T-FWmwdXzULM-r1oHGTPENO8-oluI3HcVTXYUG3Pu-0m4IEhC0M6PLYVxgt_JWaQ/s2600/google-ai.gif",
+      "url": "/tech-news/2025-11-12/google-launches-private-ai-compute-secure-ai-proce/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "These are the best new MacBook deals in November: starting at $599 - 9to5Mac",
+      "description": "In the Apple Silicon era, MacBooks have become more affordable than ever – with brand new models starting as low...",
       "slug": "these-are-the-best-new-macbook-deals-in-november-s",
       "publishedAt": "2025-11-12T03:27:00+00:00",
       "date": "2025-11-12 03:27:00",
-      "importance": 3,
-      "category": "hardware",
+      "importance": 4,
+      "category": "tech",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Untitled-design21-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-12/these-are-the-best-new-macbook-deals-in-november-s/",
       "source": {
@@ -57,19 +215,17 @@
         "id": null,
         "name": "9to5Mac"
       },
-      "companies": [
-        "Apple"
-      ],
+      "companies": [],
       "people": []
     },
     {
-      "title": "Samsung Galaxy S26 Ultra má podle úniku výrazně zrychlit bezdrátové nabíjení",
-      "description": "Podle zprávy korejského ET News má Samsung Galaxy S26 Ultra přinést 25W bezdrátové nabíjení, zatímco modely S26 a S26 Plus mají nabídnout 20W. Jde o největší posun v bezdrátovém nabíjení u vlajkových telefonů Samsung od řady S20 a snahu dorovnat konkurenci včetně iPhonu.",
+      "title": "Samsung Galaxy S26 Ultra key specs just leaked — and the biggest charging upgrade in 6 years - Tom's Guide",
+      "description": "Catching up to the iPhone 17",
       "slug": "samsung-galaxy-s26-ultra-key-specs-just-leaked-and",
       "publishedAt": "2025-11-11T22:49:07+00:00",
       "date": "2025-11-11 22:49:07",
-      "importance": 2,
-      "category": "hardware",
+      "importance": 3,
+      "category": "tech",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/QKoB7hQUcCFhBpDK7zgcrP-2000-80.jpg",
       "url": "/tech-news/2025-11-11/samsung-galaxy-s26-ultra-key-specs-just-leaked-and/",
       "source": {
@@ -77,10 +233,7 @@
         "id": null,
         "name": "Tom's Guide"
       },
-      "companies": [
-        "Samsung",
-        "Apple"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -127,13 +280,13 @@
       "people": []
     },
     {
-      "title": "Nejzajímavější Black Friday slevy na Apple: AirPods, MacBooky, Apple Watch a příslušenství",
-      "description": "Výrazné Black Friday slevy na produkty Apple snižují vstupní cenu do ekosystému značky a umožňují výhodnější nákup MacBooků, iPadů, Apple Watch, AirPods i AirTagů, zejména přes velké e‑shopy a operátory.",
+      "title": "Best Black Friday Apple deals live — save big on AirPods, MacBooks, Apple Watch and more - Tom's Guide",
+      "description": "I’ve found the best Black Friday Apple deals starting from just $24",
       "slug": "best-black-friday-apple-deals-live-save-big-on-air",
       "publishedAt": "2025-11-11T20:53:01+00:00",
       "date": "2025-11-11 20:53:01",
       "importance": 3,
-      "category": "hardware",
+      "category": "tech",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg",
       "url": "/tech-news/2025-11-11/best-black-friday-apple-deals-live-save-big-on-air/",
       "source": {
@@ -141,10 +294,7 @@
         "id": null,
         "name": "Tom's Guide"
       },
-      "companies": [
-        "Apple",
-        "Tom's Guide"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -169,6 +319,24 @@
       "people": [
         "Tim Cook"
       ]
+    },
+    {
+      "title": "Apple Invites makes it easier to avoid surprise guests at events - 9to5Mac",
+      "description": "Apple Invites was updated today with an option that allows guests to specify the number of adults and children they’re bringing to an event.",
+      "slug": "apple-invites-makes-it-easier-to-avoid-surprise-gu",
+      "publishedAt": "2025-11-11T19:59:00+00:00",
+      "date": "2025-11-11 19:59:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-invites-app_eeb53b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-11/apple-invites-makes-it-easier-to-avoid-surprise-gu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
     },
     {
       "title": "Budoucí Android PC mohou využít výkonný čip Snapdragon X Elite",
@@ -272,13 +440,13 @@
       "people": []
     },
     {
-      "title": "Slevy na Apple Watch Series 11 z titanu a další modely před Black Friday",
-      "description": "Amazon nabízí 46mm Apple Watch Series 11 Cellular v titanovém provedení se slevou 120 dolarů, spolu s výrazně zlevněnými modely Apple Watch SE, Series 10 a Ultra 3. Jde o první výraznější cenové korekce nové generace hodinek před Black Friday 2025.",
+      "title": "Apple Watch Series 11 Titanium Model Gets Big $120 Discount on Amazon, Plus More Watch Deals - macrumors.com",
+      "description": "Amazon today has a steep discount on the 46mm cellular Apple Watch Series 11 with the Natural Titanium Case and Natural Milanese Loop. You can get...",
       "slug": "apple-watch-series-11-titanium-model-gets-big-120-",
       "publishedAt": "2025-11-11T18:03:01+00:00",
       "date": "2025-11-11 18:03:01",
-      "importance": 3,
-      "category": "hardware",
+      "importance": 2,
+      "category": "tech",
       "urlToImage": "https://images.macrumors.com/t/sTyYBwwog3gSheqFhOsxAfAfD0g=/2500x/article-new/2025/11/apple-watch-series-11-red-snow.jpeg",
       "url": "/tech-news/2025-11-11/apple-watch-series-11-titanium-model-gets-big-120-/",
       "source": {
@@ -286,11 +454,7 @@
         "id": null,
         "name": "MacRumors"
       },
-      "companies": [
-        "Apple",
-        "Amazon",
-        "MacRumors"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -338,13 +502,13 @@
       "people": []
     },
     {
-      "title": "Google Photos umožní uživatelům iPhonů upravovat fotky pomocí textových a hlasových pokynů",
-      "description": "Google rozšiřuje AI funkci „Help me edit“ v aplikaci Google Photos na iOS, zlepšuje úpravy obličejů pomocí rozpoznávání známých tváří a integruje model Nano Banana pro kreativní transformace snímků.",
+      "title": "Google Photos lets iPhone users edit images by describing changes - The Verge",
+      "description": "Google is rolling out several AI updates to Google Photos, including iOS support for conversational edits, more accurate facial editing, and new AI tools.",
       "slug": "google-photos-lets-iphone-users-edit-images-by-des",
       "publishedAt": "2025-11-11T17:00:00+00:00",
       "date": "2025-11-11 17:00:00",
-      "importance": 3,
-      "category": "ai fotografie",
+      "importance": 4,
+      "category": "tech",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200",
       "url": "/tech-news/2025-11-11/google-photos-lets-iphone-users-edit-images-by-des/",
       "source": {
@@ -352,10 +516,7 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "companies": [
-        "Google",
-        "Apple"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -380,13 +541,13 @@
       "people": []
     },
     {
-      "title": "FFmpeg k Googlu: Financujte nás, nebo přestaňte posílat chyby",
-      "description": "Diskuse kolem projektu FFmpeg znovu otevírá otázku, kdo platí náklady na údržbu kritických open source komponent, které velké technologické firmy masivně využívají, ale často je přímo nefinancují.",
+      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs - The New Stack",
+      "description": "A lively discussion about open source, security, and who pays the bills has erupted on Twitter.",
       "slug": "ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-",
       "publishedAt": "2025-11-11T16:31:16+00:00",
       "date": "2025-11-11 16:31:16",
-      "importance": 3,
-      "category": "open source",
+      "importance": 4,
+      "category": "tech",
       "urlToImage": "https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash.jpg",
       "url": "/tech-news/2025-11-11/ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-/",
       "source": {
@@ -394,9 +555,7 @@
         "id": null,
         "name": "Thenewstack.io"
       },
-      "companies": [
-        "Google"
-      ],
+      "companies": [],
       "people": []
     },
     {
@@ -3772,26 +3931,6 @@
       "people": []
     },
     {
-      "title": "Konec Google Asistenta v autech: Gemini začíná nahrazovat Assistant v Android Auto",
-      "description": "Google začal tiše nasazovat AI asistenta Gemini do Android Auto, kde postupně nahrazuje Google Assistant, zatím primárně u beta testerů. Jde o klíčový krok v integraci pokročilých jazykových modelů přímo do automobilového ekosystému.",
-      "slug": "goodbye-google-assistant-gemini-is-starting-to-rol",
-      "publishedAt": "2025-11-06T22:10:14+00:00",
-      "date": "2025-11-06 22:10:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024-Apps-List.jpg",
-      "url": "/tech-news/2025-11-06/goodbye-google-assistant-gemini-is-starting-to-rol/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Pár z Torrance přivítal vzácná identická trojčata",
       "description": "Mladý pár z kalifornského Torrance místo očekávaného jednoho dítěte přivedl na svět vzácná identická trojčata, která vznikla přirozeně bez asistované reprodukce, a navzdory náročné péči zvažuje další děti.",
       "slug": "torrance-couple-welcomes-rare-identical-triplets-a",
@@ -3898,28 +4037,6 @@
       "people": []
     },
     {
-      "title": "GeForce RTX 5070 zlevňuje na 480 dolarů, Intel Arc B580 klesá na 235 dolarů: agresivní slevy 12GB GPU před Black Friday",
-      "description": "NVIDIA a Intel zrychlují cenovou konkurenci před Black Friday: GeForce RTX 5070 12GB se propadá na 480 dolarů, zatímco Intel Arc B580 12GB se nabízí za 235 dolarů, což mění poměr cena/výkon ve střední třídě GPU.",
-      "slug": "geforce-rtx-5070-drops-to-record-low-480-arc-b580-",
-      "publishedAt": "2025-11-06T18:27:00+00:00",
-      "date": "2025-11-06 18:27:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/ARC-B580-RTX5070-DEAL-HERO.jpg",
-      "url": "/tech-news/2025-11-06/geforce-rtx-5070-drops-to-record-low-480-arc-b580-/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "NVIDIA",
-        "Intel",
-        "Newegg"
-      ],
-      "people": []
-    },
-    {
       "title": "Co se pokazilo mezi NASA a SpaceX? Agentura znovu otevírá kontrakt na lunární přistávací modul",
       "description": "NASA kvůli zpožděním programu Starship znovu otevírá soutěž na lunární přistávací modul pro misi Artemis III, což oslabuje dosud exkluzivní pozici SpaceX a vytváří prostor pro konkurenty, zejména Blue Origin.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
@@ -3941,47 +4058,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Samsung rozšiřuje dostupnost headsetu Galaxy XR do Evropy a Kanady v roce 2026",
-      "description": "Samsung plánuje uvést svůj mixed reality headset Galaxy XR po USA a Jižní Koreji také v Kanadě, Francii, Německu a Spojeném království v roce 2026. Firma volí postupné uvedení místo globálního startu a cílí na pozici mezi Meta Quest a Apple Vision Pro.",
-      "slug": "heres-where-the-samsung-galaxy-xr-is-launching-nex",
-      "publishedAt": "2025-11-06T17:47:27+00:00",
-      "date": "2025-11-06 17:47:27",
-      "importance": 3,
-      "category": "smartphony",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04DRzNOzi7ZOcnQRHD2bIps/hero-image.fill.size_1200x675.v1762451245.jpg",
-      "url": "/tech-news/2025-11-06/heres-where-the-samsung-galaxy-xr-is-launching-nex/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Huawei uvádí ultratenký Mate 70 Air jako levnější alternativu k iPhone Air",
-      "description": "Huawei představil model Mate 70 Air, ultratenký smartphone mířící přímo proti iPhone Air. Nabízí tloušťku 6,6 mm a cenu 4 199 jüanů (cca 590 USD), tedy výrazně méně než nový iPhone Air.",
-      "slug": "huawei-debuts-ultrathin-iphone-air-response-priced",
-      "publishedAt": "2025-11-06T17:23:32+00:00",
-      "date": "2025-11-06 17:23:32",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8hZ0rd6jovQ/v2/1200x800.jpg",
-      "url": "/tech-news/2025-11-06/huawei-debuts-ultrathin-iphone-air-response-priced/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Huawei Technologies Co",
-        "Apple Inc"
-      ],
-      "people": []
     },
     {
       "title": "YouTube rozšiřuje ověřování věku pomocí AI na další uživatele",
@@ -4006,46 +4082,6 @@
       "people": []
     },
     {
-      "title": "Google Maps dostávají velký upgrade s Gemini: 4 nové funkce s AI pro navigaci",
-      "description": "Google integruje model Gemini přímo do Google Maps a přidává hlasové konverzace, chytřejší hledání míst, lepší práci s kontextem trasy a navigaci podle viditelných orientačních bodů. Cílem je přeměnit Mapy na asistenta, který aktivně pomáhá během jízdy i plánování cest.",
-      "slug": "google-maps-just-got-a-big-gemini-upgrade-here-are",
-      "publishedAt": "2025-11-06T13:14:37+00:00",
-      "date": "2025-11-06 13:14:37",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.bgr.com/img/gallery/google-maps-just-got-a-big-gemini-upgrade-here-are-4-new-ai-features/l-intro-1762434534.jpg",
-      "url": "/tech-news/2025-11-06/google-maps-just-got-a-big-gemini-upgrade-here-are/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Inception získává 50 milionů dolarů na vývoj diffusion modelů pro kód a text",
-      "description": "Startup Inception vedený profesorem Stefanem Ermonem získal 50 milionů dolarů na vývoj diffusion modelů optimalizovaných pro generování kódu a textu s nižší latencí a náklady než běžné auto-regresivní modely.",
-      "slug": "inception-raises-50-million-to-build-diffusion-mod",
-      "publishedAt": "2025-11-06T13:00:00+00:00",
-      "date": "2025-11-06 13:00:00",
-      "importance": 3,
-      "category": "ai startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/IMG_1981-1.jpg?resize=1200,900",
-      "url": "/tech-news/2025-11-06/inception-raises-50-million-to-build-diffusion-mod/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Inception AI"
-      ],
-      "people": []
-    },
-    {
       "title": "Říjnová aktualizace Windows 10 a 11 nutí část uživatelů do BitLocker recovery",
       "description": "Říjnový bezpečnostní balíček pro Windows 10 a Windows 11 u části zařízení neočekávaně aktivuje BitLocker recovery obrazovku a vyžaduje obnovovací klíč, což blokuje přístup k systému a odhaluje slabá místa v řízení šifrování disků a správě aktualizací.",
       "slug": "windows-10-and-11-update-is-pushing-some-users-int",
@@ -4062,72 +4098,6 @@
       },
       "companies": [
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Huawei Mate 70 Air: extrémně tenký telefon s nečekaně velkou baterií",
-      "description": "Huawei představuje Mate 70 Air, tenký 6,6mm smartphone s velkou 6 500mAh baterií, 7\" displejem a trojitým fotoaparátem. Zařízení míří na uživatele, kteří chtějí kombinaci štíhlého těla a vysoké výdrže, zatím pouze na čínském trhu.",
-      "slug": "huawei-mate-70-air-is-a-little-thick-for-a-thin-ph",
-      "publishedAt": "2025-11-06T12:35:00+00:00",
-      "date": "2025-11-06 12:35:00",
-      "importance": 3,
-      "category": "smartphony",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/huawei-mate-70-air-hero.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "url": "/tech-news/2025-11-06/huawei-mate-70-air-is-a-little-thick-for-a-thin-ph/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Huawei",
-        "Apple",
-        "Qualcomm"
-      ],
-      "people": []
-    },
-    {
-      "title": "Navrhované změny Androidu od Googlu neposílí sideloading, ale otevřou prostor konkurenci obchodů s aplikacemi",
-      "description": "Google v rámci urovnání sporu s Epic plánuje zásadní úpravy Androidu, které mají zjednodušit instalaci certifikovaných alternativních obchodů s aplikacemi. Přesto však zpřísní ověřování vývojářů a zachová omezení sideloadingu, což může ohrozit menší a komunitní platformy.",
-      "slug": "googles-proposed-android-changes-wont-save-sideloa",
-      "publishedAt": "2025-11-06T12:32:53+00:00",
-      "date": "2025-11-06 12:32:53",
-      "importance": 3,
-      "category": "android",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg",
-      "url": "/tech-news/2025-11-06/googles-proposed-android-changes-wont-save-sideloa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ikea zlevňuje chytrou domácnost: nová řada Matter-over-Thread zařízení pro každou platformu",
-      "description": "Ikea představila 21 cenově dostupných zařízení pro chytrou domácnost s podporou standardu Matter-over-Thread, včetně žárovek, senzorů a ovladačů, která mají fungovat napříč ekosystémy bez nutnosti uzavření v jednom proprietárním řešení.",
-      "slug": "ikeas-new-low-cost-line-is-a-huge-win-for-matter-a",
-      "publishedAt": "2025-11-06T12:00:00+00:00",
-      "date": "2025-11-06 12:00:00",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/KAJPLATS-GU10-decorative-clear-glass.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-      "url": "/tech-news/2025-11-06/ikeas-new-low-cost-line-is-a-huge-win-for-matter-a/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Ikea",
-        "The Verge",
-        "Apple",
-        "Google",
-        "Amazon"
       ],
       "people": []
     },
@@ -4179,26 +4149,6 @@
         "Tim Cook",
         "Satya Nadella"
       ]
-    },
-    {
-      "title": "Únik detailů fotoaparátů Galaxy S26 Ultra: kosmetické změny místo zásadního upgradu",
-      "description": "Nový únik naznačuje, že Samsung Galaxy S26 Ultra zachová většinu stávající fotovýbavy a přinese jen mírné úpravy, zatímco konkurence výrazně inovuje hardwarové senzory.",
-      "slug": "galaxy-s26-ultra-cameras-leak-were-you-really-expe",
-      "publishedAt": "2025-11-06T06:28:50+00:00",
-      "date": "2025-11-06 06:28:50",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S26-Ultra-CAD-render.jpg",
-      "url": "/tech-news/2025-11-06/galaxy-s26-ultra-cameras-leak-were-you-really-expe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
     }
   ]
 }
