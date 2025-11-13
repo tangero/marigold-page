@@ -1,7 +1,69 @@
 {
-  "generated": "2025-11-13T01:01:51.956937+00:00",
+  "generated": "2025-11-13T04:24:20.791497+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google představuje Private AI Compute: cloudové zpracování dat má být stejně bezpečné jako lokální",
+      "description": "Google zavádí systém Private AI Compute, který umožňuje zašifrované zpracování dat v cloudu na specializované infrastruktuře s cílem nabídnout výkon pokročilých modelů Gemini při úrovni ochrany blízké lokálnímu výpočtu.",
+      "slug": "google-says-new-cloud-based-private-ai-compute-is-",
+      "publishedAt": "2025-11-11T21:34:10+00:00",
+      "date": "2025-11-11 21:34:10",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg",
+      "url": "/tech-news/2025-11-11/google-says-new-cloud-based-private-ai-compute-is-/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejlepší Black Friday nabídky Apple: výrazné slevy na AirPods, MacBooky, Apple Watch a další",
+      "description": "Výrazné slevy na vybrané produkty Apple na Amazonu, včetně Apple Watch Series 10, Mac mini M4, AirTagů a MacBooků, otevírají prostor k levnějšímu nákupu ekosystému Apple před koncem roku.",
+      "slug": "best-black-friday-apple-deals-live-save-big-on-air",
+      "publishedAt": "2025-11-11T20:53:01+00:00",
+      "date": "2025-11-11 20:53:01",
+      "importance": 3,
+      "category": "apple nabídky",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg",
+      "url": "/tech-news/2025-11-11/best-black-friday-apple-deals-live-save-big-on-air/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple představil pletené crossbody pouzdro na iPhone za až 230 dolarů a vyvolal kritiku ceny",
+      "description": "Apple uvedl limitované pletené pouzdro iPhone Pocket vytvořené ve spolupráci se značkou Issey Miyake, jehož cena až 230 dolarů vyvolala odpor části uživatelů a srovnání s levnými iPod Socks z roku 2004.",
+      "slug": "apple-confounds-some-fans-with-230-knit-iphone-cro",
+      "publishedAt": "2025-11-11T20:06:07+00:00",
+      "date": "2025-11-11 20:06:07",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691396ecac9631849e6c2278/0x0.jpg?format=jpg&crop=4075,2292,x387,y192,safe&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-11-11/apple-confounds-some-fans-with-230-knit-iphone-cro/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Apple",
+        "Forbes"
+      ],
+      "people": []
+    },
     {
       "title": "Google zavádí Private AI Compute: Magic Cue na Pixel 10 získává přesnější a rychlejší návrhy díky cloudové AI",
       "description": "Google u Pixelu 10 propojuje lokální zpracování dat s novou cloudovou platformou Private AI Compute, která má zajistit výkonnější AI funkce, včetně Magic Cue, při zachování důrazu na soukromí uživatelů.",
@@ -43,13 +105,13 @@
       "people": []
     },
     {
-      "title": "Listopadové záplaty Microsoftu opravují 63 zranitelností a jednu aktivně zneužívanou zero-day chybu",
-      "description": "Microsoft v rámci listopadového Patch Tuesday 2025 vydal bezpečnostní aktualizace řešící 63 zranitelností, včetně jedné aktivně zneužívané zero-day chyby v jádře Windows, a upozorňuje na nutnost řešit podporu a zabezpečení Windows 10.",
+      "title": "Microsoft v rámci listopadových záplat 2025 opravuje 63 zranitelností a jednu aktivně zneužívanou zero-day chybu",
+      "description": "Listopadové záplaty Microsoftu řeší 63 bezpečnostních chyb ve Windows a souvisejících produktech, včetně jedné aktivně zneužívané zero-day zranitelnosti v jádře systému, a přinášejí první vlnu rozšířených bezpečnostních aktualizací (ESU) pro Windows 10.",
       "slug": "microsoft-november-2025-patch-tuesday-fixes-1-zero",
       "publishedAt": "2025-11-11T18:45:29+00:00",
       "date": "2025-11-11 18:45:29",
       "importance": 3,
-      "category": "kyberbezpečnost",
+      "category": "kybernetická bezpečn",
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
       "url": "/tech-news/2025-11-11/microsoft-november-2025-patch-tuesday-fixes-1-zero/",
       "source": {
@@ -58,14 +120,35 @@
         "name": "BleepingComputer"
       },
       "companies": [
-        "Microsoft",
-        "BleepingComputer"
+        "Microsoft"
       ],
       "people": []
     },
     {
-      "title": "Threads cílí na podcastery novými funkcemi a chce být hlavním místem pro diskuse o pořadech",
-      "description": "Meta rozšiřuje Threads o zvýrazněné odkazy na podcasty ve feedu a dedikované místo pro podcast v profilu, aby přitáhla podcastery a soustředila diskuse o pořadech na jednu platformu.",
+      "title": "Slevy na Apple Watch Series 11 z titanu a další modely před Black Friday",
+      "description": "Amazon výrazně zlevnil titanový Apple Watch Series 11 a nabízí širší spektrum slev na další modely včetně Ultra 3 a SE, což naznačuje agresivnější cenovou strategii Apple zařízení před Black Friday.",
+      "slug": "apple-watch-series-11-titanium-model-gets-big-120-",
+      "publishedAt": "2025-11-11T18:03:01+00:00",
+      "date": "2025-11-11 18:03:01",
+      "importance": 3,
+      "category": "wearables",
+      "urlToImage": "https://images.macrumors.com/t/sTyYBwwog3gSheqFhOsxAfAfD0g=/2500x/article-new/2025/11/apple-watch-series-11-red-snow.jpeg",
+      "url": "/tech-news/2025-11-11/apple-watch-series-11-titanium-model-gets-big-120-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "MacRumors"
+      ],
+      "people": []
+    },
+    {
+      "title": "Threads cílí na podcastery novými funkcemi a chce být centrem diskusí o pořadech",
+      "description": "Meta rozšiřuje Threads o nové funkce pro podcastery, včetně výrazných odkazů na podcasty v profilu i ve feedu, a snaží se z něj udělat hlavní místo pro diskuse o pořadech.",
       "slug": "threads-targets-podcasters-with-new-features-aimin",
       "publishedAt": "2025-11-11T18:00:00+00:00",
       "date": "2025-11-11 18:00:00",
@@ -82,8 +165,8 @@
         "Threads",
         "Meta",
         "Apple",
-        "Google",
-        "Microsoft"
+        "Spotify",
+        "YouTube"
       ],
       "people": []
     },
@@ -130,7 +213,7 @@
     },
     {
       "title": "FFmpeg vyzývá Google: Financujte nás, nebo přestaňte posílat chyby",
-      "description": "Spor mezi vývojáři FFmpeg a bezpečnostním týmem Google znovu otevírá otázku, kdo má platit za údržbu klíčových open source projektů, na nichž závisí velcí technologičtí hráči.",
+      "description": "Spor mezi vývojáři FFmpeg a Google znovu otevírá otázku, jak mají velké technologické firmy spravedlivě podporovat otevřený software, na kterém staví své produkty a bezpečnost.",
       "slug": "ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-",
       "publishedAt": "2025-11-11T16:31:16+00:00",
       "date": "2025-11-11 16:31:16",
@@ -146,11 +229,7 @@
       "companies": [
         "Google"
       ],
-      "people": [
-        "Elon Musk",
-        "Tim Cook",
-        "Satya Nadella"
-      ]
+      "people": []
     },
     {
       "title": "LG G5 OLED: nový standard pro jas a barvy díky technologii Primary RGB Tandem",
@@ -196,8 +275,8 @@
       "people": []
     },
     {
-      "title": "iPhone 18 může zásadně změnit strukturu nabídky Applu",
-      "description": "Podle uniklých informací Apple zvažuje výraznou změnu podzimní řady iPhonů 18, včetně netypického složení modelů a posunutí základního modelu až na jaro 2027, což naznačuje hledání nové strategie v segmentaci trhu.",
+      "title": "iPhone 18 může zásadně změnit strukturu nabídky Apple",
+      "description": "Úniky naznačují, že plánovaná řada iPhone 18 na rok 2026 by mohla představovat netypickou a riskantní změnu v produktové strategii Apple, včetně zdržení iPhone Air 2 a přesunu základního modelu iPhone 18.",
       "slug": "next-years-iphone-18-lineup-sounds-like-a-major-ov",
       "publishedAt": "2025-11-11T15:11:00+00:00",
       "date": "2025-11-11 15:11:00",
@@ -216,8 +295,8 @@
       "people": []
     },
     {
-      "title": "SanDisk uvádí extrémně malý 1TB ‚plug-and-stay‘ USB-C disk Extreme Fit",
-      "description": "SanDisk představil miniaturní 1TB USB-C disk Extreme Fit navržený k trvalému připojení k notebooku, který však přináší kompromisy v rychlosti i otázky důvěry kvůli předchozím problémům firmy s portable SSD.",
+      "title": "SanDisk představuje extrémně kompaktní 1TB USB‑C „plug-and-stay“ SSD",
+      "description": "SanDisk uvádí miniaturní USB‑C flash disk Extreme Fit s kapacitou až 1 TB, určený k trvalému zapojení v notebooku. Nabízí vysokou kapacitu v těle velikosti bezdrátového donglu, ale za cenu omezené přenosové rychlosti a s přetrvávajícími pochybnostmi o spolehlivosti značky.",
       "slug": "sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tin",
       "publishedAt": "2025-11-11T15:09:02+00:00",
       "date": "2025-11-11 15:09:02",
@@ -734,8 +813,8 @@
       "people": []
     },
     {
-      "title": "Mac mini s čipem M4 za sníženou cenu zpochybňuje smysl levných Windows mini PC",
-      "description": "Nový Mac mini s čipem M4, 10jádrovým CPU, 10jádrovým GPU a 16 GB unified memory se v akční ceně kolem 499 dolarů stává agresivní alternativou k Windows mini PC a ukazuje rozdíl v efektivitě ARM architektury oproti x86.",
+      "title": "Windows mini PC nedávají smysl? Mac mini s čipem M4 tlačí cenu dolů a výkonem je překonává",
+      "description": "Nová nabídka Macu mini s čipem M4 za 499 dolarů vyostřuje konkurenci v segmentu mini PC. Apple kombinuje vysoký výkon, úspornost a unified memory tak, že většina windowsových mini počítačů vypadá jako kompromis.",
       "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
       "publishedAt": "2025-11-10T17:15:22+00:00",
       "date": "2025-11-10 17:15:22",
@@ -749,7 +828,8 @@
         "name": "Kotaku"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "Kotaku"
       ],
       "people": []
     },
@@ -911,14 +991,14 @@
       "people": []
     },
     {
-      "title": "Rozsáhlé zákazy karet mění kompetitivní formáty Magic: The Gathering",
-      "description": "Wizards of the Coast oznámili sérii zákazů klíčových karet napříč formáty Magic: The Gathering, která cílí na příliš silné kombinační balíky, rychlou akceleraci many a neinteraktivní strategie. Změny výrazně zasahují Standard, Legacy, Pauper a Brawl.",
+      "title": "Výrazné zákazy karet mění podobu formátů ve hře Magic: The Gathering",
+      "description": "Aktuální oznámení o zákazu a omezení karet od Wizards of the Coast přináší rozsáhlé změny v několika formátech Magic: The Gathering, včetně Standardu, Legacy, Pioneeru a Brawlu.",
       "slug": "november-10th-banned-restricted-announcement-vivi-",
       "publishedAt": "2025-11-10T16:09:27+00:00",
       "date": "2025-11-10 16:09:27",
       "importance": 1,
       "category": "herní průmysl",
-      "urlToImage": null,
+      "urlToImage": "https://draftsim.com/wp-content/uploads/2025/11/Vivi-Ornitier-illustrated-by-Ryanroro.png",
       "url": "/tech-news/2025-11-10/november-10th-banned-restricted-announcement-vivi-/",
       "source": {
         "emoji": "📰",
@@ -3650,24 +3730,6 @@
       "people": []
     },
     {
-      "title": "Ruskému kosmodromu Vostočnyj odpojili elektřinu kvůli neplaceným účtům",
-      "description": "Hlavní dodavatel výstavby kosmodromu Vostočnyj, společnost PSO Kazan, neplatil účty za elektřinu, což vedlo k odpojení části areálu a hrozbě bankrotu. Případ dále odhaluje dlouhodobé finanční a korupční problémy klíčové ruské infrastruktury pro kosmické starty.",
-      "slug": "after-russian-spaceport-firm-fails-to-pay-bills-el",
-      "publishedAt": "2025-11-06T17:53:35+00:00",
-      "date": "2025-11-06 17:53:35",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1661794528-1024x648.jpg",
-      "url": "/tech-news/2025-11-06/after-russian-spaceport-firm-fails-to-pay-bills-el/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Co se pokazilo mezi NASA a SpaceX? Agentura znovu otevírá kontrakt na lunární přistávací modul",
       "description": "NASA kvůli zpožděním programu Starship znovu otevírá soutěž na lunární přistávací modul pro misi Artemis III, což oslabuje dosud exkluzivní pozici SpaceX a vytváří prostor pro konkurenty, zejména Blue Origin.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
@@ -3689,26 +3751,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Affinity po zpřístupnění zdarma získala milion nových uživatelů za méně než týden",
-      "description": "Platforma Affinity, nyní vlastněná firmou Canva, přilákala po přechodu na bezplatný model během šesti dní více než milion nových uživatelů. Jde o výrazný zásah do trhu profesionálních grafických nástrojů a další tlak na dominanci Adobe.",
-      "slug": "affinity-added-1-million-users-in-less-than-a-week",
-      "publishedAt": "2025-11-06T17:48:40+00:00",
-      "date": "2025-11-06 17:48:40",
-      "importance": 3,
-      "category": "design software",
-      "urlToImage": "https://petapixel.com/assets/uploads/2025/11/Affinity-Added-1-Million-Users-in-Less-Than-a-Week.jpg",
-      "url": "/tech-news/2025-11-06/affinity-added-1-million-users-in-less-than-a-week/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PetaPixel"
-      },
-      "companies": [
-        "Canva"
-      ],
-      "people": []
     },
     {
       "title": "Samsung rozšiřuje dostupnost headsetu Galaxy XR do Evropy a Kanady v roce 2026",
@@ -3795,28 +3837,6 @@
         "YouTube",
         "Google",
         "9to5Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Amazon výrazně zlevňuje starší modely Apple Watch, ceny začínají na 159,99 dolaru",
-      "description": "Amazon spustil výrazné slevy na předchozí generace Apple Watch SE 2 a Apple Watch Series 10, s úsporami až 119 dolarů. Jde o cenově atraktivní nabídku pro uživatele, kteří chtějí vstoupit do ekosystému Apple Watch bez investice do nejnovějších modelů.",
-      "slug": "amazon-introduces-ultra-low-prices-on-previous-gen",
-      "publishedAt": "2025-11-06T14:24:28+00:00",
-      "date": "2025-11-06 14:24:28",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/0d0YdpQ94IssdfgwDOmuDOqh9nk=/2500x/article-new/2024/11/apple-watch-se-holiday.jpeg",
-      "url": "/tech-news/2025-11-06/amazon-introduces-ultra-low-prices-on-previous-gen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Amazon",
-        "Apple",
-        "MacRumors"
       ],
       "people": []
     },
@@ -4071,27 +4091,6 @@
         "Elon Musk",
         "Tim Cook"
       ]
-    },
-    {
-      "title": "iPhone Air 2026 by mohl dostat dvě zadní kamery, naznačuje únik z dodavatelského řetězce",
-      "description": "Podle úniku z čínského prostředí Apple testuje druhou generaci ultra tenkého iPhone Air s dvojicí zadních fotoaparátů a zachovaným horizontálním modulem, přičemž uvedení se očekává v roce 2026 po boku řady iPhone 18 a prvního skládacího iPhonu.",
-      "slug": "A-2026-iphone-air-could-feature-two-rear-cameras-s",
-      "publishedAt": "2025-11-06T10:13:08+00:00",
-      "date": "2025-11-06 10:13:08",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/q96ABw3mwSB9d0sFdjVeclpwDzI=/1600x/article-new/2025/11/iphone-air-camera.jpg",
-      "url": "/tech-news/2025-11-06/A-2026-iphone-air-could-feature-two-rear-cameras-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "MacRumors"
-      ],
-      "people": []
     },
     {
       "title": "Naživo: rozhovor s průkopníky umělé inteligence o nástupu systémů na úrovni člověka",

@@ -1,10 +1,9 @@
 ---
 category: herní průmysl
 date: '2025-11-10 16:09:27'
-description: 'Wizards of the Coast oznámili sérii zákazů klíčových karet napříč formáty
-  Magic: The Gathering, která cílí na příliš silné kombinační balíky, rychlou akceleraci
-  many a neinteraktivní strategie. Změny výrazně zasahují Standard, Legacy, Pauper
-  a Brawl.'
+description: 'Aktuální oznámení o zákazu a omezení karet od Wizards of the Coast přináší
+  rozsáhlé změny v několika formátech Magic: The Gathering, včetně Standardu, Legacy,
+  Pioneeru a Brawlu.'
 importance: 1
 layout: tech_news_article
 original_title: 'November 10th Banned & Restricted Announcement: VIVI FINALLY GONE
@@ -15,15 +14,17 @@ source:
   emoji: 📰
   id: null
   name: Draftsim.com
-title: 'Rozsáhlé zákazy karet mění kompetitivní formáty Magic: The Gathering'
+title: 'Výrazné zákazy karet mění podobu formátů ve hře Magic: The Gathering'
 url: https://draftsim.com/november-10th-banned-and-restricted/
+urlToImage: https://draftsim.com/wp-content/uploads/2025/11/Vivi-Ornitier-illustrated-by-Ryanroro.png
+urlToImageBackup: https://draftsim.com/wp-content/uploads/2025/11/Vivi-Ornitier-illustrated-by-Ryanroro.png
 ---
 
-Wizards of the Coast oznámili novou sadu zákazů karet, která zásadně přetváří metagame napříč několika formáty Magic: The Gathering. Klíčovým bodem je zákaz karty Vivi Ornitier ve Standardu, která dlouhodobě dominovala díky kombinaci generování many, postupného škálování a možnosti řetězit herní akce do téměř neinteraktivních komb. Spolu s ní jsou ve Standardu zakázány i Proft's Eidetic Memory a Screaming Nemesis, které zvyšovaly konzistenci těchto strategií.
+Wizards of the Coast oznámili sérii zákazů karet, které zásadně upravují kompetitivní prostředí hry Magic: The Gathering, ale nemají přímý dopad na širší technologický či herní průmysl mimo tuto specifickou komunitu. Klíčovou změnou je zákaz karty Vivi Ornitier ve Standardu, která dlouhodobě dominovala formátu díky snadno zneužitelnému generování many a rychlé tvorbě komb, často ve spojení s kartami jako Proft's Eidetic Memory. Spolu s ní byl ve Standardu zakázán i Proft's Eidetic Memory a Screaming Nemesis, což má omezit extrémně výkonné balíčky schopné generovat neúměrné množství herních akcí v krátkém čase.
 
-Mimo Standard dochází k úpravám také v dalších formátech. V Pioneeru je zakázán Heartfire Hero, v Legacy končí Entomb a Nadu, Winged Wisdom, což míří na příliš rychlé a spolehlivé kombinační balíky. V Pauperu je opět zakázán High Tide, který dlouhodobě umožňoval extrémně efektivní generování many a dlouhé, obtížně přerušitelné tahy. Brawl přichází o Strip Mine, Mana Drain, Chrome Mox a Ancient Tomb, tedy o klíčové zdroje rychlé many a resource denial, které narušovaly zamýšlené tempo a přístupnost formátu.
+Další zásahy se týkají formátu Pioneer, kde byl zakázán Heartfire Hero, a formátu Legacy, kde zákaz zasáhl Entomb a Nadu, Winged Wisdom. Tyto kroky míří na příliš konzistentní a rychlé strategie, které omezovaly rozmanitost metagame. V Pauperu se opětovného zákazu dočkala karta High Tide. Výrazné změny nastaly i v Brawlu, kde byly zakázány karty Strip Mine, Mana Drain, Chrome Mox a Ancient Tomb, tedy zdroje „rychlé many“ a silné kontroly, které narušovaly tempo a balanc casual-kompetitivního hraní.
 
-Z pohledu herního průmyslu jde o standardní, i když výraznější zásah do digitálně i fyzicky hrané karetní hry, nikoli o technologickou inovaci. Rozhodnutí je motivováno snahou obnovit rozmanitost formátů, snížit vstupní bariéru pro nové hráče a omezit strategie, které vedly k neinteraktivnímu průběhu partií. Pro hráče to znamená nutnost přestavět část balíků a pro online platformy úpravy algoritmů pro matchmaking, metagame analýzu a doporučovací systémy, ale technologicky nejde o zásadní novinku.
+Z technologického a průmyslového hlediska jde o standardní údržbu live produktu: úpravu pravidel na základě dat z turnajů, online platforem a ekonomiky digitálních karet. Oznámení ilustruje, jak hluboká datová analytika a průběžné balancování obsahu slouží k udržení dlouhodobé životaschopnosti hry jako služby (game-as-a-service). Pro hráče znamenají tyto změny nutnost přizpůsobit balíčky, přehodnotit investice do konkrétních karet a sledovat, jak se nově otevřený prostor v metagame zaplní jinými strategiemi.
 
 ---
 

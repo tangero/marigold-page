@@ -4,9 +4,10 @@ category: hardware
 companies:
 - SanDisk
 date: '2025-11-11 15:09:02'
-description: SanDisk představil miniaturní 1TB USB-C disk Extreme Fit navržený k trvalému
-  připojení k notebooku, který však přináší kompromisy v rychlosti i otázky důvěry
-  kvůli předchozím problémům firmy s portable SSD.
+description: SanDisk uvádí miniaturní USB‑C flash disk Extreme Fit s kapacitou až
+  1 TB, určený k trvalému zapojení v notebooku. Nabízí vysokou kapacitu v těle velikosti
+  bezdrátového donglu, ale za cenu omezené přenosové rychlosti a s přetrvávajícími
+  pochybnostmi o spolehlivosti značky.
 importance: 3
 layout: tech_news_article
 original_title: SanDisk’s New ‘Plug-and-Stay’ 1TB SSD Is Absurdly Tiny - PetaPixel
@@ -16,35 +17,33 @@ source:
   emoji: 📰
   id: null
   name: PetaPixel
-title: SanDisk uvádí extrémně malý 1TB ‚plug-and-stay‘ USB-C disk Extreme Fit
+title: SanDisk představuje extrémně kompaktní 1TB USB‑C „plug-and-stay“ SSD
 url: https://petapixel.com/2025/11/11/sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tiny/
 urlToImage: https://petapixel.com/assets/uploads/2025/11/sandisk-extreme-fit-3.jpg
 urlToImageBackup: https://petapixel.com/assets/uploads/2025/11/sandisk-extreme-fit-3.jpg
 ---
 
 ## Souhrn
-SanDisk uvedl nový USB-C disk Extreme Fit s kapacitou až 1 TB, který je navržen jako „plug-and-stay“ úložiště trvale ponechané v notebooku. Za extrémně malý rozměr však uživatelé platí omezeným výkonem a nelze ignorovat reputační problémy SanDisku spojené s předchozí generací portable SSD disků.
+SanDisk uvedl nový flash disk Extreme Fit USB‑C s kapacitou až 1 TB, který cílí na „plug-and-stay“ použití – tedy trvalé ponechání v notebooku či jiném zařízení díky velmi malým rozměrům. Zařízení kombinuje vysokou kapacitu v mimořádně kompaktním provedení, ale nenabízí špičkovou rychlost a je zatíženo nedávnou pošramocenou reputací SanDisku u přenosných SSD.
 
 ## Klíčové body
-- 1TB USB-C flash disk Extreme Fit je dosud nejmenší a nejvyšší kapacitní USB-C flash disk SanDisku.
-- Konstrukce „plug-and-stay“ umožňuje dlouhodobé ponechání v USB-C portu notebooku díky hmotnosti 3 g a délce pod 2 cm.
-- Použití rozhraní USB 3.2 Gen 1 omezuje rychlost čtení/zápisu na max. zhruba 400 MB/s, což není vhodné pro náročné pracovní workflow, například střih videa.
-- Produkt přichází krátce po závažných problémech s portable SSD SanDisk/Western Digital, které vedly ke ztrátám dat a podlomené důvěře v značku.
-- Cílí především na uživatele hledající nenápadné rozšíření kapacity notebooku či cestovní úložiště, nikoli na profesionální tvůrce obsahu.
+- Až 1 TB v extrémně malém těle (cca 18,5 × 13,7 × 16 mm, hmotnost 3 g)
+- USB‑C rozhraní, technologie USB 3.2 Gen 1, rychlost až 400 MB/s (kromě 64GB varianty)
+- Koncept „plug-and-stay“: vhodné pro trvalé zapojení v notebooku nebo mini PC
+- Kompatibilita s Windows a macOS, ale designově neladí s profesionálnější estetikou
+- Přetrvávající pochybnosti o spolehlivosti SanDisku po předchozích problémech s portable SSD
 
 ## Podrobnosti
-SanDisk Extreme Fit je navržen jako trvale připojené rozšíření interního úložiště notebooků s USB-C. Tělo disku má přibližné rozměry 18,5 × 13,7 × 16 mm a hmotnost kolem 3 gramů, což jej velikostí přibližuje bezdrátovým USB přijímačům pro myši. SanDisk jej pozicuje jako řešení typu „zasunout a nechat být“, tedy médium, které uživatel neodpojuje, ale vnímá je podobně jako rozšířený interní disk.
+SanDisk Extreme Fit USB‑C je navržen jako skladné rozšíření interního úložiště pro uživatele, kteří potřebují více místa bez nutnosti nosit externí SSD nebo velké flash disky. S rozměry přibližně na úrovni bezdrátového USB přijímače pro myš a hmotností 3 gramy lze jednotku nechat trvale připojenou k notebooku, dokovacímu stanovišti či domácímu mediálnímu centru. To je praktické zejména pro ultrabooky s omezenou kapacitou interního SSD a pro uživatele, kteří často pracují offline s rozsáhlejšími daty (fotografie, videa, projekty, zálohy).
 
-Technicky jde o USB flash disk využívající rozhraní USB 3.2 Gen 1, které umožňuje teoretickou rychlost až 5 Gb/s. SanDisk uvádí praktické rychlosti do 400 MB/s u většiny kapacit. To je použitelné pro přesun fotografií, dokumentů a běžných video souborů, případně jako knihovna dat, ale nedostačuje jako primární pracovní disk pro střih 4K/8K videa, náročné databáze nebo virtualizaci. Nejmenší varianta s kapacitou 64 GB je ještě pomalejší, což dále ukazuje, že produkt není mířen na profesionální segment.
+Technicky jde o kompromis mezi velikostí, kapacitou a výkonem. Disk využívá USB 3.2 Gen 1, přičemž deklarovaná rychlost až 400 MB/s je výrazně nižší než u moderních externích NVMe SSD, ale postačuje pro běžný přesun souborů, multimediální knihovny nebo offline archivy. Tato rychlost není vhodná pro náročnější scénáře jako střih 4K/6K videa přímo z disku nebo provoz náročných databází. Extreme Fit je tedy vhodnější jako rozšířené úložiště než jako pracovní disk pro intenzivní I/O zátěž.
 
-Kompaktní konstrukce zároveň znamená horší podmínky pro chlazení. U takto malých zařízení lze očekávat thermal throttling při delším sekvenčním zápisu, což v praxi sníží rychlost při kopírování velkých objemů dat. Z hlediska bezpečnosti a spolehlivosti je nutné brát v úvahu nedávné problémy SanDisku (Western Digital) s portable SSD řady Extreme, kde docházelo k náhlým výpadkům a ztrátám dat. Přestože jde o odlišnou produktovou řadu, reputační zátěž zůstává a uživatelé by měli přistupovat k zařízení s důslednou zálohovací strategií.
-
-Z pohledu použití dává Extreme Fit smysl pro: dlouhodobé rozšíření úložiště ultrabooků, cestovní přenos menších projektů, offline knihovny médií nebo jako nenápadné úložiště pro zálohy méně kritických dat. Není to náhrada za profesionální portable SSD ani řešení pro intenzivní průmyslové nasazení.
+Důležitým kontextem je nedávná reputační zátěž SanDisku (společnost vlastněná Western Digital), kdy část jejich portable SSD trpěla závažnými problémy se spolehlivostí a ztrátou dat. I když tento produkt spadá do jiné kategorie, je na místě opatrnost, zejména pro profesionály. U kritických dat je rozumné kombinovat podobné mini disky pouze jako sekundární úložiště a mít nezávislé zálohy.
 
 ## Proč je to důležité
-Produkt ukazuje aktuální trend v oblasti osobního úložiště: maximalizace kapacity při minimálních rozměrech a snaha přiblížit externí médium komfortu interního disku. Pro běžné uživatele to znamená jednoduchou možnost navýšit kapacitu notebooku bez nutnosti zásahu do hardware. Pro profesionály a firmy je však zásadní správně číst marketing: Extreme Fit je praktické doplňkové úložiště, nikoli nástroj pro kritické pracovní workflow.
+Extreme Fit ukazuje trend směrem k nenápadnému, polotrvalému rozšiřování kapacity koncových zařízení – zejména notebooků, kde výrobci často šetří na velikosti interního SSD a limitují možnosti upgradu. Tento typ zařízení je zajímavý pro uživatele, kteří potřebují více místa bez viditelného „převislého“ hardware a bez nošení externích disků.
 
-V širším kontextu jde také o test důvěry v SanDisk po sérii problémů s portable SSD. Pokud se nový produkt ukáže jako spolehlivý, může částečně zlepšit vnímání značky. Z hlediska průmyslu je to připomenutí, že miniaturizace má jasné limity v oblasti výkonu a chlazení a nemůže plnohodnotně nahradit robustní externí SSD u náročných scénářů, jako je profesionální tvorba obsahu, vývoj, AI workloady nebo práce s velkými datovými sety.
+Z hlediska trhu nejde o průlom v rychlosti nebo technologii, ale o praktickou formu nasazení existujícího NAND úložiště v extrémně kompaktním balení. Pro profesionální použití v IT, foto/video nebo vývoji je produkt relevantní pouze jako doplňkové úložiště, nikoli jako primární pracovní médium. Dlouhodobě bude rozhodující, zda SanDisk dokáže konsistentně prokázat spolehlivost a obnovit důvěru po předchozích problémech s portable SSD. Bez toho zůstane Extreme Fit spíše zajímavým, ale opatrně přijímaným řešením.
 
 ---
 
