@@ -1,15 +1,117 @@
 {
-  "generated": "2025-11-13T12:29:50.284243+00:00",
+  "generated": "2025-11-13T16:23:33.112175+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Google zavádí „Private AI Compute“: bezpečnější cloudové zpracování dat pro velké AI modely",
-      "description": "Google představil Private AI Compute, systém pro bezpečné cloudové zpracování AI úloh s využitím vlastních čipů a Trusted Execution Environment, který má nabídnout úroveň ochrany srovnatelnou s lokálním zpracováním na zařízení.",
+      "title": "Samsung Movingstyle: 27\" přenosný dotykový displej s tříhodinovou výdrží na baterii",
+      "description": "Samsung představil Movingstyle, 27palcový přenosný dotykový QHD displej s integrovanou baterií na zhruba tři hodiny provozu, stojanem na kolečkách a možností použít zařízení jako velký tablet pro video, prezentace i cloudové hraní.",
+      "slug": "samsungs-new-27-inch-portable-display-has-a-three-",
+      "publishedAt": "2025-11-12T12:44:52+00:00",
+      "date": "2025-11-12 12:44:52",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-Movingstyle-display.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-12/samsungs-new-27-inch-portable-display-has-a-three-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft opravuje 63 bezpečnostních chyb, včetně zneužívané zero-day zranitelnosti v jádře Windows",
+      "description": "Microsoft vydal balík oprav řešící 63 zranitelností, včetně aktivně zneužívané zero-day chyby v jádře Windows a kritické vzdáleně zneužitelné chyby, což má přímý dopad na bezpečnost firemních i domácích systémů.",
+      "slug": "microsoft-fixes-63-security-flaws-including-a-wind",
+      "publishedAt": "2025-11-12T10:21:00+00:00",
+      "date": "2025-11-12 10:21:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s790-rw-e365/windows-update.jpg",
+      "url": "/tech-news/2025-11-12/microsoft-fixes-63-security-flaws-including-a-wind/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejlepší listopadové slevy na MacBooky: ceny začínají na 599 dolarech",
+      "description": "Aktuální slevy na MacBooky s čipy Apple Silicon stlačily cenu základních modelů až na 599 dolarů. V kombinaci s ukončením podpory většiny Intel Maců v macOS Tahoe jde o pragmatický okamžik k přechodu na novější hardware.",
+      "slug": "these-are-the-best-new-macbook-deals-in-november-s",
+      "publishedAt": "2025-11-12T03:27:00+00:00",
+      "date": "2025-11-12 03:27:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Untitled-design21-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-12/these-are-the-best-new-macbook-deals-in-november-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra má podle úniku výrazně zrychlit bezdrátové nabíjení",
+      "description": "Podle zprávy korejského ET News má Samsung Galaxy S26 Ultra přinést 25W bezdrátové nabíjení, zatímco modely S26 a S26 Plus mají nabídnout 20W. Jde o největší posun v bezdrátovém nabíjení u vlajkových telefonů Samsung od řady S20 a snahu dorovnat konkurenci včetně iPhonu.",
+      "slug": "samsung-galaxy-s26-ultra-key-specs-just-leaked-and",
+      "publishedAt": "2025-11-11T22:49:07+00:00",
+      "date": "2025-11-11 22:49:07",
+      "importance": 2,
+      "category": "hardware",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QKoB7hQUcCFhBpDK7zgcrP-2000-80.jpg",
+      "url": "/tech-news/2025-11-11/samsung-galaxy-s26-ultra-key-specs-just-leaked-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "companies": [
+        "Samsung",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nový úsporný režim Google Map je (zatím) exkluzivní pro Pixel 10",
+      "description": "Google zavádí úsporný režim v Google Mapách, který snižuje spotřebu baterie během navigace. Funkce je aktuálně dostupná pouze na telefonech Pixel 10 a zatím není jasné, kdy dorazí na další zařízení.",
+      "slug": "the-biggest-google-maps-feature-in-years-is-exclus",
+      "publishedAt": "2025-11-11T22:34:00+00:00",
+      "date": "2025-11-11 22:34:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/google-maps-phone-road.JPG?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-11/the-biggest-google-maps-feature-in-years-is-exclus/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google",
+        "Android Police"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google představuje cloudové „Private AI Compute“: bezpečnost na úrovni lokálního zpracování?",
+      "description": "Google zavádí Private AI Compute, zabezpečené cloudové prostředí pro AI výpočty, které má díky hardwarově chráněnému provozu nabídnout stejnou úroveň soukromí jako lokální zpracování na zařízení a současně zpřístupnit výkonnější modely Gemini.",
       "slug": "google-says-new-cloud-based-private-ai-compute-is-",
       "publishedAt": "2025-11-11T21:34:10+00:00",
       "date": "2025-11-11 21:34:10",
       "importance": 4,
-      "category": "tech",
+      "category": "ai bezpečnost",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg",
       "url": "/tech-news/2025-11-11/google-says-new-cloud-based-private-ai-compute-is-/",
       "source": {
@@ -19,13 +121,14 @@
       },
       "companies": [
         "Google",
-        "Ars Technica"
+        "Apple",
+        "OpenAI"
       ],
       "people": []
     },
     {
-      "title": "Black Friday slevy na produkty Apple: AirPods, MacBooky, Apple Watch a příslušenství",
-      "description": "Výrazné Black Friday slevy na zařízení Apple, včetně AirPods, Apple Watch, MacBooků, iPadů a AirTagů, zlevňují aktuální generace produktů na atraktivnější cenovou úroveň.",
+      "title": "Nejzajímavější Black Friday slevy na Apple: AirPods, MacBooky, Apple Watch a příslušenství",
+      "description": "Výrazné Black Friday slevy na produkty Apple snižují vstupní cenu do ekosystému značky a umožňují výhodnější nákup MacBooků, iPadů, Apple Watch, AirPods i AirTagů, zejména přes velké e‑shopy a operátory.",
       "slug": "best-black-friday-apple-deals-live-save-big-on-air",
       "publishedAt": "2025-11-11T20:53:01+00:00",
       "date": "2025-11-11 20:53:01",
@@ -39,7 +142,8 @@
         "name": "Tom's Guide"
       },
       "companies": [
-        "Apple"
+        "Apple",
+        "Tom's Guide"
       ],
       "people": []
     },
@@ -67,6 +171,27 @@
       ]
     },
     {
+      "title": "Budoucí Android PC mohou využít výkonný čip Snapdragon X Elite",
+      "description": "Google a Qualcomm podle nových zjištění připravují Android PC postavené na čipech Snapdragon X Elite, které dnes pohánějí ARM notebooky s Windows. Naznačuje to propojení v kódu Androidu 16 a směřování k hlubší integraci Androidu a ChromeOS.",
+      "slug": "upcoming-android-pcs-could-be-powered-by-the-impre",
+      "publishedAt": "2025-11-11T19:33:25+00:00",
+      "date": "2025-11-11 19:33:25",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2025/11/AndoridPCsSnapdragonXElite.jpg",
+      "url": "/tech-news/2025-11-11/upcoming-android-pcs-could-be-powered-by-the-impre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Chrome Unboxed"
+      },
+      "companies": [
+        "Google",
+        "Qualcomm"
+      ],
+      "people": []
+    },
+    {
       "title": "Google zavádí Private AI Compute: Magic Cue na Pixel 10 získává přesnější a rychlejší návrhy díky cloudové AI",
       "description": "Google u Pixelu 10 propojuje lokální zpracování dat s novou cloudovou platformou Private AI Compute, která má zajistit výkonnější AI funkce, včetně Magic Cue, při zachování důrazu na soukromí uživatelů.",
       "slug": "google-makes-pixel-10-magic-cue-more-timely-with-c",
@@ -87,13 +212,13 @@
       "people": []
     },
     {
-      "title": "Listopadová aktualizace Google Pixel přináší úsporný režim pro Mapy, AI úpravy fotek a chytřejší notifikace",
-      "description": "Google vydává listopadový Pixel Drop s novými funkcemi pro telefony Pixel, včetně úsporného režimu v Google Maps, AI shrnutí notifikací, detekce podvodů a kreativních AI úprav fotografií.",
+      "title": "Aktualizace Google Pixel přináší úsporný režim v Mapách, AI úpravy fotek a chytřejší notifikace",
+      "description": "Google vydává listopadovou aktualizaci Pixel Drop, která přidává úsporný režim pro Google Mapy, shrnutí notifikací, AI remixování fotografií a rozšířenou detekci podvodů v hovorech i zprávách pro vybrané trhy.",
       "slug": "google-pixel-update-adds-battery-saving-maps-mode-",
       "publishedAt": "2025-11-11T19:00:00+00:00",
       "date": "2025-11-11 19:00:00",
       "importance": 3,
-      "category": "mobilní telefony",
+      "category": "mobilní aplikace",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
       "url": "/tech-news/2025-11-11/google-pixel-update-adds-battery-saving-maps-mode-/",
       "source": {
@@ -147,8 +272,8 @@
       "people": []
     },
     {
-      "title": "Apple Watch Series 11 z titanu zlevňují na Amazonu o 120 dolarů, objevují se první významné slevy před Black Friday",
-      "description": "Amazon nabízí 46mm mobilní verzi Apple Watch Series 11 s titanovým pouzdrem a řemínkem Milanese Loop se slevou 120 dolarů. Současně se objevují výrazné slevy napříč modely Apple Watch v rámci předběžných nabídek k Black Friday.",
+      "title": "Slevy na Apple Watch Series 11 z titanu a další modely před Black Friday",
+      "description": "Amazon nabízí 46mm Apple Watch Series 11 Cellular v titanovém provedení se slevou 120 dolarů, spolu s výrazně zlevněnými modely Apple Watch SE, Series 10 a Ultra 3. Jde o první výraznější cenové korekce nové generace hodinek před Black Friday 2025.",
       "slug": "apple-watch-series-11-titanium-model-gets-big-120-",
       "publishedAt": "2025-11-11T18:03:01+00:00",
       "date": "2025-11-11 18:03:01",
@@ -234,8 +359,29 @@
       "people": []
     },
     {
-      "title": "FFmpeg tlačí na Google: financujte nás, nebo omezte hlášení chyb",
-      "description": "Konflikt mezi vývojáři FFmpeg a bezpečnostním týmem Google znovu otevírá otázku, kdo má platit za údržbu kritických open source projektů, na nichž jsou závislé velké technologické firmy.",
+      "title": "Google Photos rozšiřuje AI úpravy snímků a vyhledávání do více než 100 zemí",
+      "description": "Google výrazně posiluje roli AI v Google Photos: přidává pokročilé úpravy osob a objektů, AI šablony pro tvorbu nových snímků, tlačítko Ask pro dotazy a příkazy v přirozeném jazyce a rozšiřuje AI vyhledávání na desítky dalších trhů.",
+      "slug": "google-photos-adds-new-ai-features-for-editing-exp",
+      "publishedAt": "2025-11-11T17:00:00+00:00",
+      "date": "2025-11-11 17:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Nov-AI-Photos.jpg?resize=1200,677",
+      "url": "/tech-news/2025-11-11/google-photos-adds-new-ai-features-for-editing-exp/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Google",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "FFmpeg k Googlu: Financujte nás, nebo přestaňte posílat chyby",
+      "description": "Diskuse kolem projektu FFmpeg znovu otevírá otázku, kdo platí náklady na údržbu kritických open source komponent, které velké technologické firmy masivně využívají, ale často je přímo nefinancují.",
       "slug": "ffmpeg-to-google-fund-us-or-stop-sending-bugs-the-",
       "publishedAt": "2025-11-11T16:31:16+00:00",
       "date": "2025-11-11 16:31:16",
@@ -249,9 +395,7 @@
         "name": "Thenewstack.io"
       },
       "companies": [
-        "FFmpeg",
-        "Google",
-        "The New Stack"
+        "Google"
       ],
       "people": []
     },
@@ -299,13 +443,13 @@
       "people": []
     },
     {
-      "title": "iPhone 18 může zásadně změnit strukturu nabídky Apple",
-      "description": "Úniky naznačují, že plánovaná řada iPhone 18 na rok 2026 by mohla představovat netypickou a riskantní změnu v produktové strategii Apple, včetně zdržení iPhone Air 2 a přesunu základního modelu iPhone 18.",
+      "title": "iPhone 18 může zásadně změnit strukturu nabídky Applu",
+      "description": "Nastíněné změny v plánované řadě iPhone 18 naznačují odklon Applu od tradičního modelového portfolia, včetně možného přesunu základního modelu mimo hlavní podzimní uvedení a zvýraznění prémiových zařízení.",
       "slug": "next-years-iphone-18-lineup-sounds-like-a-major-ov",
       "publishedAt": "2025-11-11T15:11:00+00:00",
       "date": "2025-11-11 15:11:00",
       "importance": 2,
-      "category": "hardware",
+      "category": "smartphony",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "url": "/tech-news/2025-11-11/next-years-iphone-18-lineup-sounds-like-a-major-ov/",
       "source": {
@@ -316,11 +460,13 @@
       "companies": [
         "Apple"
       ],
-      "people": []
+      "people": [
+        "Tim Cook"
+      ]
     },
     {
-      "title": "SanDisk uvádí extrémně malý 1TB USB‑C SSD „plug-and-stay“",
-      "description": "SanDisk představil miniaturní USB‑C disk Extreme Fit s kapacitou až 1 TB, navržený pro trvalé připojení k notebookům. Nabízí vysokou hustotu úložiště, ale omezený výkon a nese reputační zátěž předchozích problémů SanDisku.",
+      "title": "SanDisk představuje extrémně malý 1TB USB-C „plug-and-stay“ disk",
+      "description": "SanDisk uvádí na trh kompaktní USB-C flash disk Extreme Fit s kapacitou až 1 TB, určený k trvalému zapojení v notebooku, ale s omezeným výkonem a zátěží předchozích problémů s spolehlivostí.",
       "slug": "sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tin",
       "publishedAt": "2025-11-11T15:09:02+00:00",
       "date": "2025-11-11 15:09:02",
@@ -334,8 +480,7 @@
         "name": "PetaPixel"
       },
       "companies": [
-        "SanDisk",
-        "PetaPixel"
+        "SanDisk"
       ],
       "people": []
     },
@@ -3775,26 +3920,6 @@
       "people": []
     },
     {
-      "title": "Apple vydává první veřejnou beta verzi iOS 26.2: změny ve sledování spánku, AI v Podcasts a další novinky",
-      "description": "Apple zpřístupnil první veřejnou beta verzi iOS 26.2, která přináší úpravy hodnocení spánku, využití AI v aplikaci Podcasts, vylepšení Apple News, podporu Live Translation pro AirPods v EU, nové možnosti zamykací obrazovky a výraznější upozornění v Připomínkách.",
-      "slug": "apple-releases-first-ios-262-public-beta-heres-wha",
-      "publishedAt": "2025-11-06T18:17:00+00:00",
-      "date": "2025-11-06 18:17:00",
-      "importance": 4,
-      "category": "software",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-06/apple-releases-first-ios-262-public-beta-heres-wha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Co se pokazilo mezi NASA a SpaceX? Agentura znovu otevírá kontrakt na lunární přistávací modul",
       "description": "NASA kvůli zpožděním programu Starship znovu otevírá soutěž na lunární přistávací modul pro misi Artemis III, což oslabuje dosud exkluzivní pozici SpaceX a vytváří prostor pro konkurenty, zejména Blue Origin.",
       "slug": "whats-gone-wrong-between-nasa-and-elon-musks-space",
@@ -3859,31 +3984,6 @@
       "people": []
     },
     {
-      "title": "Apple údajně zaplatí Googlu 1 miliardu dolarů ročně za vlastní Gemini AI model pro Siri",
-      "description": "Apple podle informací Bloombergu uzavírá zásadní dohodu s Googlem: za 1 miliardu dolarů ročně má vzniknout vlastní verze Gemini AI modelu pro Siri, která poběží v privátní cloudové infrastruktuře Applu. Rozhodnutí údajně padlo i kvůli nižším nákladům oproti konkurenční firmě Anthropic.",
-      "slug": "apple-to-pay-google-1-billion-per-year-for-siris-c",
-      "publishedAt": "2025-11-06T17:01:00+00:00",
-      "date": "2025-11-06 17:01:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9e7ab5324aa098dc63705de1e6f8eadafbeb502e/hub/2024/06/07/feb2d189-8929-4b93-bd8b-90f17febb4c2/wwdc24-siri-v3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-06/apple-to-pay-google-1-billion-per-year-for-siris-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Anthropic"
-      ],
-      "people": [
-        "Tim Cook",
-        "Sundar Pichai"
-      ]
-    },
-    {
       "title": "YouTube rozšiřuje ověřování věku pomocí AI na další uživatele",
       "description": "YouTube nasazuje druhou vlnu ověřování věku pomocí AI, která omezuje účty považované za nezletilé a nutí uživatele k dodatečné verifikaci pomocí dokladu, selfie analýzy nebo platební karty.",
       "slug": "youtube-rolls-out-ai-age-verification-to-a-new-wav",
@@ -3903,24 +4003,6 @@
         "Google",
         "9to5Google"
       ],
-      "people": []
-    },
-    {
-      "title": "ARC Raiders: První velká záplata, stabilní hráčská základna a rekordní hodnocení",
-      "description": "Kooperativní akce ARC Raiders od studia Embark Studios vydává aktualizaci 1.1.0 zaměřenou na stabilitu a drobné novinky, zatímco si udržuje mimořádně silné počty současně hrajících hráčů a nadprůměrná hodnocení v prvním týdnu po vydání.",
-      "slug": "arc-raiders-patch-notes-concurrent-players-and-rec",
-      "publishedAt": "2025-11-06T13:52:01+00:00",
-      "date": "2025-11-06 13:52:01",
-      "importance": 3,
-      "category": "herní průmysl",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6818c0705280577093358203/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-11-06/arc-raiders-patch-notes-concurrent-players-and-rec/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3984,27 +4066,6 @@
       "people": []
     },
     {
-      "title": "Apple v EU zruší automatické sdílení Wi‑Fi mezi iPhonem a Apple Watch v iOS 26.2",
-      "description": "Apple v připravovaném iOS 26.2 pro uživatele v EU vypne automatickou synchronizaci Wi‑Fi sítí mezi iPhonem a Apple Watch, údajně kvůli požadavkům na interoperabilitu podle evropského nařízení Digital Markets Act.",
-      "slug": "apple-to-remove-iphone-apple-watch-wi-fi-sync-in-e",
-      "publishedAt": "2025-11-06T12:37:50+00:00",
-      "date": "2025-11-06 12:37:50",
-      "importance": 3,
-      "category": "mobilní zařízení",
-      "urlToImage": "https://images.macrumors.com/t/TtPj2xxf4n4UrjjO8NzqjPTFyEI=/1641x/article-new/2020/09/apple-watch-se-3-always-on.jpg",
-      "url": "/tech-news/2025-11-06/apple-to-remove-iphone-apple-watch-wi-fi-sync-in-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "MacRumors"
-      ],
-      "people": []
-    },
-    {
       "title": "Huawei Mate 70 Air: extrémně tenký telefon s nečekaně velkou baterií",
       "description": "Huawei představuje Mate 70 Air, tenký 6,6mm smartphone s velkou 6 500mAh baterií, 7\" displejem a trojitým fotoaparátem. Zařízení míří na uživatele, kteří chtějí kombinaci štíhlého těla a vysoké výdrže, zatím pouze na čínském trhu.",
       "slug": "huawei-mate-70-air-is-a-little-thick-for-a-thin-ph",
@@ -4043,26 +4104,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung slibuje u Exynosu 2600 až 30% nižší teploty díky nové technologii Heat Pass Block",
-      "description": "Samsung představil podrobnosti o technologii Heat Pass Block a výrobním procesu 2nm GAA u čipu Exynos 2600, které mají zlepšit odvod tepla a umožnit vyšší a stabilnější výkon oproti předchozí generaci Exynos SoC.",
-      "slug": "exynos-2600s-heat-pass-block-implementation-to-del",
-      "publishedAt": "2025-11-06T12:28:00+00:00",
-      "date": "2025-11-06 12:28:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Exynos-2600-6.jpg",
-      "url": "/tech-news/2025-11-06/exynos-2600s-heat-pass-block-implementation-to-del/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Samsung"
       ],
       "people": []
     },
@@ -4156,50 +4197,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Canon EOS R6 Mark III přináší 32,5Mpx snímač, 7K video a rychlejší paměťové karty",
-      "description": "Canon představil bezzrcadlovku EOS R6 Mark III s novým 32,5Mpx full-frame snímačem, podporou 7K RAW videa a upraveným systémem paměťových karet, zaměřenou na univerzální použití pro fotografy i tvůrce videa.",
-      "slug": "canon-adds-a-32-megapixel-sensor-and-7k-video-to-t",
-      "publishedAt": "2025-11-06T06:00:00+00:00",
-      "date": "2025-11-06 06:00:00",
-      "importance": 3,
-      "category": "fototechnika",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/7084C018-r6-markiii-24-105stm-02_colorbg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-06/canon-adds-a-32-megapixel-sensor-and-7k-video-to-t/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Canon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bose výrazně zlevňuje QuietComfort: špičková ANC sluchátka nyní levnější než základní modely Sony a Apple",
-      "description": "Bose agresivně snižuje cenu svých QuietComfort sluchátek z 349 na 199 dolarů, čímž z nich dělá výrazně levnější alternativu k modelům Apple a Sony při zachování plnohodnotního aktivního potlačení hluku a dlouhé výdrže baterie.",
-      "slug": "bose-rushes-to-clear-out-its-qc-headphones-stock-n",
-      "publishedAt": "2025-11-06T01:12:44+00:00",
-      "date": "2025-11-06 01:12:44",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/bose-headphones-1200x675.jpg",
-      "url": "/tech-news/2025-11-06/bose-rushes-to-clear-out-its-qc-headphones-stock-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Bose",
-        "Sony",
-        "Apple",
-        "Google",
-        "Microsoft"
       ],
       "people": []
     }

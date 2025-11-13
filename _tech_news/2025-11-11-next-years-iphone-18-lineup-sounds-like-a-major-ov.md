@@ -1,28 +1,34 @@
 ---
-category: hardware
+category: smartphony
 companies:
 - Apple
 date: '2025-11-11 15:11:00'
-description: Úniky naznačují, že plánovaná řada iPhone 18 na rok 2026 by mohla představovat
-  netypickou a riskantní změnu v produktové strategii Apple, včetně zdržení iPhone
-  Air 2 a přesunu základního modelu iPhone 18.
+description: Nastíněné změny v plánované řadě iPhone 18 naznačují odklon Applu od
+  tradičního modelového portfolia, včetně možného přesunu základního modelu mimo hlavní
+  podzimní uvedení a zvýraznění prémiových zařízení.
 importance: 2
 layout: tech_news_article
 original_title: Next year’s iPhone 18 lineup sounds like a major overhaul for Apple
   - 9to5Mac
+people:
+- Tim Cook
 publishedAt: '2025-11-11T15:11:00+00:00'
 slug: next-years-iphone-18-lineup-sounds-like-a-major-ov
 source:
   emoji: 📰
   id: null
   name: 9to5Mac
-title: iPhone 18 může zásadně změnit strukturu nabídky Apple
+title: iPhone 18 může zásadně změnit strukturu nabídky Applu
 url: https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/
 urlToImage: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---
 
-Apple podle zpráv The Information zvažuje výraznou úpravu sestavy iPhonů plánovaných na rok 2026, ale aktuálně jde pouze o neoficiální a proměnlivé informace. Klíčovým prvkem je zdržení modelu iPhone Air 2, způsobené snahou přidat druhý zadní fotoaparát, což zpochybňuje původní plán uvést na podzim 2026 čtyři modely: iPhone Air 2, iPhone 18 Pro, iPhone 18 Pro Max a iPhone Fold. Zdroje nyní naznačují, že iPhone Air 2 by se mohl posunout až na jaro 2027. Současně se spekuluje, že základní model iPhone 18 nebude na podzim 2026 k dispozici a dorazí také až na jaře 2027. Pokud by se tento scénář potvrdil, zůstala by na podzimní keynote pouze trojice dražších zařízení: iPhone 18 Pro, iPhone 18 Pro Max a skládací iPhone Fold. To by znamenalo neobvykle úzkou a silně prémiově orientovanou nabídku, která by mohla komplikovat orientaci běžných uživatelů a oslabit prodej dostupnějších modelů v hlavní sezóně. Z hlediska trhu by taková strategie zvýšila tlak na Apple, aby si udržel prodeje starších generací jako cenově dostupnější alternativu, a zároveň by posílila význam skládacího modelu jako technologické výkladní skříně. Vzhledem k tomu, že jde o neoficiální informace založené na únikách a interních plánech, které se u Apple často mění, je nutné brát tyto scénáře jako spekulativní. Přesto ukazují na to, že Apple pravděpodobně testuje agresivnější produktovou segmentaci, vyšší diferenciaci výbavy napříč modely a posun základních modelů mimo tradiční podzimní cyklus, což by mělo přímý dopad na nákupní chování uživatelů i strategie operátorů a prodejců.
+Podle informací serveru 9to5Mac, který čerpá z reportů The Information, Apple zvažuje výrazně nestandardní skladbu řady iPhone 18 v roce 2026. Klíčovým problémem je údajné odložení modelu iPhone Air 2, který měl původně navázat na nově zavedený iPhone Air a rozšířit nabídku mezi základní a Pro modely. Zpoždění má souviset s rozhodnutím Applu přidat druhý zadní fotoaparát, což zvyšuje komplexitu vývoje a podle uniklých informací posouvá uvedení až na jaro 2027. 
+
+Tento posun narušuje dříve naznačený plán, podle kterého měla podzimní řada 2026 zahrnovat čtyři modely: iPhone Air 2, iPhone 18 Pro, iPhone 18 Pro Max a nový iPhone Fold. Základní iPhone 18 měl být údajně přesunut na jarní uvedení roku 2027, což by znamenalo, že v klíčové podzimní sezóně by Apple nabízel pouze tři vysoce prémiové modely. Pokud by Apple tento plán nezměnil, vznikla by nezvyklá situace, kdy by běžný uživatel bez zájmu o skládací zařízení nebo nejdražší řadu Pro neměl k dispozici nový „hlavní“ iPhone v tradičním termínu. 
+
+Z informací však vyplývá, že tato konfigurace je stále nejistá a jde o spekulativní scénář založený na interních plánech a změnách harmonogramu. Pro trh by takové rozhodnutí znamenalo posílení prémiového segmentu a testování ochoty zákazníků akceptovat vyšší vstupní cenu za nové modely. Pro uživatele by to mohlo vést k delšímu životnímu cyklu základních iPhonů a většímu tlaku na nákup starších generací namísto zcela nové základní řady. Z pohledu konkurence by šlo o příležitost nabídnout aktuální mainstreamová zařízení v době, kdy Apple potenciálně oslabí svou přítomnost v této cenové kategorii.
 
 ---
 
