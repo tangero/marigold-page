@@ -1,0 +1,94 @@
+{
+  "status": "CRITICAL",
+  "timestamp": "2025-11-14T12:31:09.664119+00:00",
+  "checks": {
+    "freshness": {
+      "status": "WARNING",
+      "newest_age_hours": 37.61,
+      "articles_24h": 0,
+      "articles_1h": 0
+    },
+    "language": {
+      "status": "CRITICAL",
+      "czech_ratio": 0.52,
+      "sample_size": 100,
+      "english_articles_sample": [
+        {
+          "file": "2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md",
+          "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eig",
+          "score": 0.18
+        },
+        {
+          "file": "2025-11-12-breaking-google-is-partially-walking-back-its-new-.md",
+          "title": "Breaking: Google is partially walking back its new",
+          "score": 0.18
+        },
+        {
+          "file": "2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md",
+          "title": "Here’s how to photograph the northern lights light",
+          "score": 0.18
+        },
+        {
+          "file": "2025-11-12-samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g.md",
+          "title": "Samsung Galaxy Z Flip8 to be thinner and lighter -",
+          "score": 0.18
+        },
+        {
+          "file": "2025-11-12-microsoft-releases-update-fixing-update-for-update.md",
+          "title": "Microsoft releases update-fixing update for update",
+          "score": 0.18
+        }
+      ]
+    },
+    "content_quality": {
+      "status": "OK",
+      "avg_length": 2508.0,
+      "median_length": 3394.0
+    },
+    "generation_trend": {
+      "status": "OK",
+      "trend": "nedostatek dat",
+      "hourly_distribution": {}
+    },
+    "front_matter": {
+      "status": "OK",
+      "error_rate": 0.0,
+      "invalid_count": 0,
+      "most_common_missing_fields": {},
+      "sample_invalid_articles": []
+    }
+  },
+  "metrics": {
+    "total_articles": 3039,
+    "articles_24h": 0,
+    "articles_1h": 0,
+    "newest_article_age_hours": 37.61,
+    "czech_articles": 52,
+    "english_articles": 48,
+    "czech_ratio": 0.52,
+    "avg_content_length": 2508.0,
+    "median_content_length": 3394.0,
+    "articles_with_images_pct": 100.0,
+    "articles_with_category_pct": 100.0,
+    "front_matter_error_rate": 0.0
+  },
+  "alerts": [
+    {
+      "level": "WARNING",
+      "message": "Nejnovější článek je starý 37.6h (threshold: 6h)"
+    },
+    {
+      "level": "WARNING",
+      "message": "Pouze 0 článků za 24h (minimum: 10)"
+    },
+    {
+      "level": "INFO",
+      "message": "Pouze 0 článků za poslední hodinu"
+    },
+    {
+      "level": "CRITICAL",
+      "message": "Pouze 52.0% článků v češtině! (minimum: 85.0%)"
+    }
+  ],
+  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 52.0% | Alerty: 4"
+}

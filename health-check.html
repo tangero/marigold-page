@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /health-check/
+---
+{% assign health_data = site.data.tech_news_health %}
+{
+  "status": "{{ health_data.status | default: 'UNKNOWN' }}",
+  "timestamp": "{{ health_data.timestamp | default: 'N/A' }}",
+  "summary": "{{ health_data.summary | default: 'No health data available' }}",
+  "metrics": {
+    "total_articles": {{ health_data.metrics.total_articles | default: 0 }},
+    "articles_24h": {{ health_data.metrics.articles_24h | default: 0 }},
+    "articles_1h": {{ health_data.metrics.articles_1h | default: 0 }},
+    "newest_article_age_hours": {{ health_data.metrics.newest_article_age_hours | default: 999 }},
+    "czech_ratio": {{ health_data.metrics.czech_ratio | default: 0 }},
+    "avg_content_length": {{ health_data.metrics.avg_content_length | default: 0 }}
+  },
+  "checks": {
+    "freshness": {
+      "status": "{{ health_data.checks.freshness.status | default: 'UNKNOWN' }}"
+    },
+    "language": {
+      "status": "{{ health_data.checks.language.status | default: 'UNKNOWN' }}",
+      "czech_ratio": {{ health_data.checks.language.czech_ratio | default: 0 }}
+    },
+    "content_quality": {
+      "status": "{{ health_data.checks.content_quality.status | default: 'UNKNOWN' }}"
+    }
+  },
+  "alerts": [
+    {% for alert in health_data.alerts %}
+    {
+      "level": "{{ alert.level }}",
+      "message": "{{ alert.message | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

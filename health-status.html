@@ -1,0 +1,172 @@
+---
+layout: default
+title: Tech News Health Status
+permalink: /health-status/
+---
+{% assign health_data = site.data.tech_news_health %}
+
+<div class="container" style="max-width: 1200px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+
+  <h1 style="margin-bottom: 2rem;">🏥 Tech News Health Status</h1>
+
+  <!-- Overall Status -->
+  <div style="padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; {% if health_data.status == 'OK' %}background: #d4edda; border: 2px solid #28a745;{% elsif health_data.status == 'WARNING' %}background: #fff3cd; border: 2px solid #ffc107;{% else %}background: #f8d7da; border: 2px solid #dc3545;{% endif %}">
+    <h2 style="margin-top: 0;">
+      Status: <strong>{{ health_data.status | default: 'UNKNOWN' }}</strong>
+    </h2>
+    <p style="margin: 0.5rem 0;">
+      <strong>Poslední kontrola:</strong> {{ health_data.timestamp | date: "%d.%m.%Y %H:%M" }}
+    </p>
+    <p style="margin: 0.5rem 0;">
+      <strong>Summary:</strong> {{ health_data.summary | default: 'N/A' }}
+    </p>
+  </div>
+
+  <!-- Alerts -->
+  {% if health_data.alerts.size > 0 %}
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>🚨 Alerty ({{ health_data.alerts.size }})</h2>
+    <ul style="list-style: none; padding: 0;">
+      {% for alert in health_data.alerts %}
+      <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; {% if alert.level == 'CRITICAL' %}background: #f8d7da; border-left: 4px solid #dc3545;{% elsif alert.level == 'WARNING' %}background: #fff3cd; border-left: 4px solid #ffc107;{% else %}background: #d1ecf1; border-left: 4px solid #17a2b8;{% endif %}">
+        <strong>[{{ alert.level }}]</strong> {{ alert.message }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- Key Metrics -->
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>📊 Klíčové Metriky</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Celkem článků</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #007bff;">
+          {{ health_data.metrics.total_articles | default: 0 }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Články za 24h</div>
+        <div style="font-size: 2rem; font-weight: bold; color: {% if health_data.metrics.articles_24h >= 10 %}#28a745{% elsif health_data.metrics.articles_24h >= 5 %}#ffc107{% else %}#dc3545{% endif %};">
+          {{ health_data.metrics.articles_24h | default: 0 }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Články za 1h</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #17a2b8;">
+          {{ health_data.metrics.articles_1h | default: 0 }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Stáří nejnovějšího (h)</div>
+        <div style="font-size: 2rem; font-weight: bold; color: {% if health_data.metrics.newest_article_age_hours <= 6 %}#28a745{% elsif health_data.metrics.newest_article_age_hours <= 12 %}#ffc107{% else %}#dc3545{% endif %};">
+          {{ health_data.metrics.newest_article_age_hours | default: 'N/A' }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Poměr češtiny</div>
+        <div style="font-size: 2rem; font-weight: bold; color: {% if health_data.metrics.czech_ratio >= 0.85 %}#28a745{% elsif health_data.metrics.czech_ratio >= 0.7 %}#ffc107{% else %}#dc3545{% endif %};">
+          {{ health_data.metrics.czech_ratio | times: 100 | round: 1 }}%
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Průměrná délka obsahu</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #6c757d;">
+          {{ health_data.metrics.avg_content_length | default: 0 | round: 0 }}
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Detailed Checks -->
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>🔍 Detailní Kontroly</h2>
+
+    <!-- Freshness Check -->
+    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+      <h3 style="margin-top: 0;">
+        🕐 Čerstvost článků:
+        <span style="{% if health_data.checks.freshness.status == 'OK' %}color: #28a745;{% elsif health_data.checks.freshness.status == 'WARNING' %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
+          {{ health_data.checks.freshness.status | default: 'UNKNOWN' }}
+        </span>
+      </h3>
+      <ul>
+        <li>Stáří nejnovějšího: {{ health_data.checks.freshness.newest_age_hours | default: 'N/A' }} hodin</li>
+        <li>Články za 24h: {{ health_data.checks.freshness.articles_24h | default: 0 }}</li>
+        <li>Články za 1h: {{ health_data.checks.freshness.articles_1h | default: 0 }}</li>
+      </ul>
+    </div>
+
+    <!-- Language Check -->
+    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+      <h3 style="margin-top: 0;">
+        🇨🇿 Jazyková kvalita:
+        <span style="{% if health_data.checks.language.status == 'OK' %}color: #28a745;{% elsif health_data.checks.language.status == 'WARNING' %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
+          {{ health_data.checks.language.status | default: 'UNKNOWN' }}
+        </span>
+      </h3>
+      <ul>
+        <li>Poměr češtiny: {{ health_data.checks.language.czech_ratio | times: 100 | round: 1 }}%</li>
+        <li>Analyzováno článků: {{ health_data.checks.language.sample_size | default: 0 }}</li>
+      </ul>
+      {% if health_data.checks.language.english_articles_sample.size > 0 %}
+      <details>
+        <summary style="cursor: pointer; color: #007bff;">Ukázka anglických článků ({{ health_data.checks.language.english_articles_sample.size }})</summary>
+        <ul style="margin-top: 0.5rem;">
+          {% for article in health_data.checks.language.english_articles_sample %}
+          <li><code>{{ article.file }}</code> - skóre: {{ article.score }}</li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endif %}
+    </div>
+
+    <!-- Content Quality Check -->
+    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+      <h3 style="margin-top: 0;">
+        📝 Kvalita obsahu:
+        <span style="{% if health_data.checks.content_quality.status == 'OK' %}color: #28a745;{% elsif health_data.checks.content_quality.status == 'WARNING' %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
+          {{ health_data.checks.content_quality.status | default: 'UNKNOWN' }}
+        </span>
+      </h3>
+      <ul>
+        <li>Průměrná délka: {{ health_data.checks.content_quality.avg_length | default: 0 }} znaků</li>
+        <li>Medián délky: {{ health_data.checks.content_quality.median_length | default: 0 }} znaků</li>
+      </ul>
+    </div>
+
+    <!-- Front Matter Check -->
+    <div style="margin-bottom: 1.5rem;">
+      <h3 style="margin-top: 0;">
+        🔍 Validita front matter:
+        <span style="{% if health_data.checks.front_matter.status == 'OK' %}color: #28a745;{% elsif health_data.checks.front_matter.status == 'WARNING' %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
+          {{ health_data.checks.front_matter.status | default: 'UNKNOWN' }}
+        </span>
+      </h3>
+      <ul>
+        <li>Chybovost: {{ health_data.checks.front_matter.error_rate | times: 100 | round: 1 }}%</li>
+        <li>Nevalidních článků: {{ health_data.checks.front_matter.invalid_count | default: 0 }}</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- Raw JSON Data -->
+  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+    <summary style="cursor: pointer; font-weight: bold;">📋 Raw JSON Data</summary>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{{ health_data | jsonify }}</code></pre>
+  </details>
+
+  <p style="margin-top: 2rem; text-align: center; color: #6c757d;">
+    <small>Health check běží automaticky při každém build.</small>
+  </p>
+
+</div>

@@ -47,6 +47,10 @@ jobs:
       run: |
         python scripts/generate_tech_news_manifest.py
 
+    - name: Run health check
+      run: |
+        python scripts/tech_news_health_check.py --output _data/tech_news_health.json
+
     - name: Check for changes
       id: git-check
       run: |
@@ -66,5 +70,6 @@ jobs:
         git add _tech_news/
         git add tech-news/
         git add assets/tech-news/ || true
+        git add _data/tech_news_health.json || true
         git commit -m "🤖 Aktualizace technologických zpráv $(date '+%Y-%m-%d %H:%M')"
         git push
