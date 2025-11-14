@@ -1,7 +1,61 @@
 {
-  "generated": "2025-11-13T20:16:37.674710+00:00",
+  "generated": "2025-11-14T00:54:10.493444+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Samsung Galaxy Z Flip8 to be thinner and lighter - GSMArena.com news - GSMArena.com",
+      "description": "This year Samsung made the Fold easier to handle, and next year it will do the same for the Flip, apparently. Samsung is expected to launch the Galaxy Z...",
+      "slug": "samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g",
+      "publishedAt": "2025-11-12T21:31:02+00:00",
+      "date": "2025-11-12 21:31:02",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/11/samsung-galaxy-z-flip8-thinner-lighter/-952x498w6/gsmarena_000.jpg",
+      "url": "/tech-news/2025-11-12/samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI says the brand-new GPT-5.1 is ‘warmer’ and has more ‘personality’ options - The Verge",
+      "description": "You can now toggle between Default, Professional, Friendly, Candid, Quirky, Efficient, Nerdy, and Cynical.",
+      "slug": "openai-says-the-brand-new-gpt-51-is-warmer-and-has",
+      "publishedAt": "2025-11-12T19:00:00+00:00",
+      "date": "2025-11-12 19:00:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Personality-Presets.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "url": "/tech-news/2025-11-12/openai-says-the-brand-new-gpt-51-is-warmer-and-has/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online - BBC",
+      "description": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear.",
+      "slug": "A-230-for-a-cut-up-sock-apples-new-iphone-pocket-r",
+      "publishedAt": "2025-11-12T17:47:37+00:00",
+      "date": "2025-11-12 17:47:37",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/309c/live/ca13b720-bfde-11f0-bbea-2df62eb90585.jpg",
+      "url": "/tech-news/2025-11-12/A-230-for-a-cut-up-sock-apples-new-iphone-pocket-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "The Best Tech Gifts of 2025 - Gizmodo",
       "description": "Discover the Best Tech Gifts of 2025, from smart gadgets to must-have devices. Find cool holiday gift ideas and be the perfect Santa!",
@@ -3973,28 +4027,6 @@
       "people": []
     },
     {
-      "title": "Sdílení videí z YouTube v Google Zprávách se výrazně zlepší díky návratu přehrávače v plovoucím okně",
-      "description": "Google testuje návrat integrovaného přehrávače YouTube v režimu picture-in-picture v aplikaci Zprávy, což umožní sledovat videa přímo v konverzaci bez přepínání do samostatné aplikace.",
-      "slug": "sharing-youtube-clips-in-google-messages-may-be-ab",
-      "publishedAt": "2025-11-06T20:15:25+00:00",
-      "date": "2025-11-06 20:15:25",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/03/Google-Messages-logo-on-smartphone-laying-on-table-1.jpg",
-      "url": "/tech-news/2025-11-06/sharing-youtube-clips-in-google-messages-may-be-ab/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google",
-        "YouTube",
-        "Android Authority"
-      ],
-      "people": []
-    },
-    {
       "title": "Sora pro Android překonala během prvního dne téměř půl milionu instalací",
       "description": "Video aplikace Sora od OpenAI zaznamenala na Androidu přibližně 470 000 stažení během prvního dne, více než čtyřnásobek oproti omezenému spuštění na iOS. Rozšířená dostupnost bez pozvánek naznačuje silnou poptávku po generativním AI videu na mobilních zařízeních.",
       "slug": "sora-for-android-saw-nearly-half-a-million-install",
@@ -4100,55 +4132,6 @@
         "Microsoft"
       ],
       "people": []
-    },
-    {
-      "title": "Druhá generace iPhone Air může dostat duální fotoaparát",
-      "description": "Apple podle úniku zvažuje druhou generaci iPhone Air s dvojicí fotoaparátů, která by měla odstranit dosavadní zásadní slabinu tohoto modelu a přiblížit jej schopnostem řady Pro.",
-      "slug": "second-gen-iphone-air-may-get-two-cameras-9to5mac",
-      "publishedAt": "2025-11-06T11:58:00+00:00",
-      "date": "2025-11-06 11:58:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Second-gen-iPhone-Air-may-get-two-cameras-instead-of-one.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-06/second-gen-iphone-air-may-get-two-cameras-9to5mac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "9to5Mac"
-      ],
-      "people": []
-    },
-    {
-      "title": "Naživo: rozhovor s průkopníky umělé inteligence o nástupu systémů na úrovni člověka",
-      "description": "Přední osobnosti AI tvrdí, že systémy již v klíčových oblastech dosahují či překonávají lidskou úroveň, což znovu otevírá debatu o superinteligenci, regulaci a bezpečném nasazení těchto technologií.",
-      "slug": "live-in-conversation-with-the-pioneers-of-artifici",
-      "publishedAt": "2025-11-06T08:42:23+00:00",
-      "date": "2025-11-06 08:42:23",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1214554f-c578-43bf-9a0f-3d875956cd68.jpg?source=next-barrier-page",
-      "url": "/tech-news/2025-11-06/live-in-conversation-with-the-pioneers-of-artifici/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Financial Times"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk",
-        "Tim Cook",
-        "Satya Nadella"
-      ]
     }
   ]
 }
