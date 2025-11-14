@@ -1,7 +1,25 @@
 {
-  "generated": "2025-11-14T00:54:10.493444+00:00",
+  "generated": "2025-11-14T04:18:20.648357+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica",
+      "description": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
+      "slug": "openai-walks-a-tricky-tightrope-with-gpt-51s-eight",
+      "publishedAt": "2025-11-12T22:54:47+00:00",
+      "date": "2025-11-12 22:54:47",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg",
+      "url": "/tech-news/2025-11-12/openai-walks-a-tricky-tightrope-with-gpt-51s-eight/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Samsung Galaxy Z Flip8 to be thinner and lighter - GSMArena.com news - GSMArena.com",
       "description": "This year Samsung made the Fold easier to handle, and next year it will do the same for the Flip, apparently. Samsung is expected to launch the Galaxy Z...",
@@ -16,6 +34,24 @@
         "emoji": "📰",
         "id": null,
         "name": "GSMArena.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft releases update-fixing update for update-eligible Windows 10 PCs - Ars Technica",
+      "description": "A bug was keeping Windows 10 PCs from enrolling in Microsoft’s ESU program.",
+      "slug": "microsoft-releases-update-fixing-update-for-update",
+      "publishedAt": "2025-11-12T20:38:01+00:00",
+      "date": "2025-11-12 20:38:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/win10-new-1152x648.jpg",
+      "url": "/tech-news/2025-11-12/microsoft-releases-update-fixing-update-for-update/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
       "companies": [],
       "people": []
@@ -88,6 +124,24 @@
         "emoji": "🔬",
         "id": "ars-technica",
         "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Even Realities G2 smart glasses bring a ‘spatial’ display and R1 controller ring - 9to5Google",
+      "description": "As competitors begin to flood the smart glasses market, Even Realities has unveiled the second addition to its lineup –...",
+      "slug": "even-realities-g2-smart-glasses-bring-a-spatial-di",
+      "publishedAt": "2025-11-12T15:56:00+00:00",
+      "date": "2025-11-12 15:56:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Even-G2-and-R1-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-12/even-realities-g2-smart-glasses-bring-a-spatial-di/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
       },
       "companies": [],
       "people": []
@@ -3985,24 +4039,6 @@
       "people": []
     },
     {
-      "title": "Pár z Torrance přivítal vzácná identická trojčata",
-      "description": "Mladý pár z kalifornského Torrance místo očekávaného jednoho dítěte přivedl na svět vzácná identická trojčata, která vznikla přirozeně bez asistované reprodukce, a navzdory náročné péči zvažuje další děti.",
-      "slug": "torrance-couple-welcomes-rare-identical-triplets-a",
-      "publishedAt": "2025-11-06T20:26:06+00:00",
-      "date": "2025-11-06 20:26:06",
-      "importance": 1,
-      "category": "zdraví",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18113976_110425-kabc-4pm-scr-identical-triplets-2-vid.jpg?w=1600",
-      "url": "/tech-news/2025-11-06/torrance-couple-welcomes-rare-identical-triplets-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "WhatsApp testuje komunikaci s jinými chatovacími aplikacemi, zatím jen v EU",
       "description": "WhatsApp v beta verzi umožňuje posílat zprávy uživatelům jiných komunikačních aplikací, což je přímá reakce na požadavky evropské legislativy Digital Markets Act. Funkce je aktuálně testována pouze v Evropské unii a odděluje konverzace z externích platforem od běžných chatů.",
       "slug": "whatsapp-finally-lets-you-message-people-on-other-",
@@ -4023,48 +4059,6 @@
         "Apple",
         "Google",
         "Signal"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sora pro Android překonala během prvního dne téměř půl milionu instalací",
-      "description": "Video aplikace Sora od OpenAI zaznamenala na Androidu přibližně 470 000 stažení během prvního dne, více než čtyřnásobek oproti omezenému spuštění na iOS. Rozšířená dostupnost bez pozvánek naznačuje silnou poptávku po generativním AI videu na mobilních zařízeních.",
-      "slug": "sora-for-android-saw-nearly-half-a-million-install",
-      "publishedAt": "2025-11-06T19:48:39+00:00",
-      "date": "2025-11-06 19:48:39",
-      "importance": 4,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-      "url": "/tech-news/2025-11-06/sora-for-android-saw-nearly-half-a-million-install/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejzajímavější předčasné Black Friday slevy na notebooky, televizory a další techniku",
-      "description": "Velcí prodejci spustili výrazné předčasné Black Friday slevy na notebooky, 4K/OLED televizory, wearables a audio techniku, včetně rekordně zlevněného MacBooku Air a slev na Google Pixel 10 a Fitbit.",
-      "slug": "the-best-early-black-friday-deals-weve-found-so-fa",
-      "publishedAt": "2025-11-06T19:44:46+00:00",
-      "date": "2025-11-06 19:44:46",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0021.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-06/the-best-early-black-friday-deals-weve-found-so-fa/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Samsung",
-        "Sony"
       ],
       "people": []
     },
