@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tech News Health Status | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Tech News Health Status" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/health-status/" />
+<meta property="og:url" content="https://www.marigold.cz/health-status/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tech News Health Status" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Tech News Health Status","url":"https://www.marigold.cz/health-status/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Tech News Health Status" />
+    <meta property="twitter:title" content="Tech News Health Status" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz
+
+<div class="/>
+<meta property="twitter:image" content="https://www.marigold.cz
+
+<div class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/health-status/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          
+
+<div class="container" style="max-width: 1200px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+
+  <h1 style="margin-bottom: 2rem;">🏥 Tech News Health Status</h1>
+
+  <!-- Overall Status -->
+  <div style="padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; background: #f8d7da; border: 2px solid #dc3545;">
+    <h2 style="margin-top: 0;">
+      Status: <strong>CRITICAL</strong>
+    </h2>
+    <p style="margin: 0.5rem 0;">
+      <strong>Poslední kontrola:</strong> 14.11.2025 12:31
+    </p>
+    <p style="margin: 0.5rem 0;">
+      <strong>Summary:</strong> Status: CRITICAL | Články 24h: 0 | Čeština: 52.0% | Alerty: 4
+    </p>
+  </div>
+
+  <!-- Alerts -->
+  
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>🚨 Alerty (4)</h2>
+    <ul style="list-style: none; padding: 0;">
+      
+      <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #fff3cd; border-left: 4px solid #ffc107;">
+        <strong>[WARNING]</strong> Nejnovější článek je starý 37.6h (threshold: 6h)
+      </li>
+      
+      <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #fff3cd; border-left: 4px solid #ffc107;">
+        <strong>[WARNING]</strong> Pouze 0 článků za 24h (minimum: 10)
+      </li>
+      
+      <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #d1ecf1; border-left: 4px solid #17a2b8;">
+        <strong>[INFO]</strong> Pouze 0 článků za poslední hodinu
+      </li>
+      
+      <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #f8d7da; border-left: 4px solid #dc3545;">
+        <strong>[CRITICAL]</strong> Pouze 52.0% článků v češtině! (minimum: 85.0%)
+      </li>
+      
+    </ul>
+  </div>
+  
+
+  <!-- Key Metrics -->
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>📊 Klíčové Metriky</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Celkem článků</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #007bff;">
+          3039
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Články za 24h</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">
+          0
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Články za 1h</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #17a2b8;">
+          0
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Stáří nejnovějšího (h)</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">
+          37.61
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Poměr češtiny</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">
+          52.0%
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Průměrná délka obsahu</div>
+        <div style="font-size: 2rem; font-weight: bold; color: #6c757d;">
+          2508
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Detailed Checks -->
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>🔍 Detailní Kontroly</h2>
+
+    <!-- Freshness Check -->
+    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+      <h3 style="margin-top: 0;">
+        🕐 Čerstvost článků:
+        <span style="color: #ffc107;">
+          WARNING
+        </span>
+      </h3>
+      <ul>
+        <li>Stáří nejnovějšího: 37.61 hodin</li>
+        <li>Články za 24h: 0</li>
+        <li>Články za 1h: 0</li>
+      </ul>
+    </div>
+
+    <!-- Language Check -->
+    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+      <h3 style="margin-top: 0;">
+        🇨🇿 Jazyková kvalita:
+        <span style="color: #dc3545;">
+          CRITICAL
+        </span>
+      </h3>
+      <ul>
+        <li>Poměr češtiny: 52.0%</li>
+        <li>Analyzováno článků: 100</li>
+      </ul>
+      
+      <details>
+        <summary style="cursor: pointer; color: #007bff;">Ukázka anglických článků (5)</summary>
+        <ul style="margin-top: 0.5rem;">
+          
+          <li><code>2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md</code> - skóre: 0.18</li>
+          
+          <li><code>2025-11-12-breaking-google-is-partially-walking-back-its-new-.md</code> - skóre: 0.18</li>
+          
+          <li><code>2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md</code> - skóre: 0.18</li>
+          
+          <li><code>2025-11-12-samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g.md</code> - skóre: 0.18</li>
+          
+          <li><code>2025-11-12-microsoft-releases-update-fixing-update-for-update.md</code> - skóre: 0.18</li>
+          
+        </ul>
+      </details>
+      
+    </div>
+
+    <!-- Content Quality Check -->
+    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+      <h3 style="margin-top: 0;">
+        📝 Kvalita obsahu:
+        <span style="color: #28a745;">
+          OK
+        </span>
+      </h3>
+      <ul>
+        <li>Průměrná délka: 2508.0 znaků</li>
+        <li>Medián délky: 3394.0 znaků</li>
+      </ul>
+    </div>
+
+    <!-- Front Matter Check -->
+    <div style="margin-bottom: 1.5rem;">
+      <h3 style="margin-top: 0;">
+        🔍 Validita front matter:
+        <span style="color: #28a745;">
+          OK
+        </span>
+      </h3>
+      <ul>
+        <li>Chybovost: 0.0%</li>
+        <li>Nevalidních článků: 0</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- Raw JSON Data -->
+  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+    <summary style="cursor: pointer; font-weight: bold;">📋 Raw JSON Data</summary>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"status":"CRITICAL","timestamp":"2025-11-14T12:31:09.664119+00:00","checks":{"freshness":{"status":"WARNING","newest_age_hours":37.61,"articles_24h":0,"articles_1h":0},"language":{"status":"CRITICAL","czech_ratio":0.52,"sample_size":100,"english_articles_sample":[{"file":"2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md","title":"OpenAI walks a tricky tightrope with GPT-5.1’s eig","score":0.18},{"file":"2025-11-12-breaking-google-is-partially-walking-back-its-new-.md","title":"Breaking: Google is partially walking back its new","score":0.18},{"file":"2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md","title":"Here’s how to photograph the northern lights light","score":0.18},{"file":"2025-11-12-samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g.md","title":"Samsung Galaxy Z Flip8 to be thinner and lighter -","score":0.18},{"file":"2025-11-12-microsoft-releases-update-fixing-update-for-update.md","title":"Microsoft releases update-fixing update for update","score":0.18}]},"content_quality":{"status":"OK","avg_length":2508.0,"median_length":3394.0},"generation_trend":{"status":"OK","trend":"nedostatek dat","hourly_distribution":{}},"front_matter":{"status":"OK","error_rate":0.0,"invalid_count":0,"most_common_missing_fields":{},"sample_invalid_articles":[]}},"metrics":{"total_articles":3039,"articles_24h":0,"articles_1h":0,"newest_article_age_hours":37.61,"czech_articles":52,"english_articles":48,"czech_ratio":0.52,"avg_content_length":2508.0,"median_content_length":3394.0,"articles_with_images_pct":100.0,"articles_with_category_pct":100.0,"front_matter_error_rate":0.0},"alerts":[{"level":"WARNING","message":"Nejnovější článek je starý 37.6h (threshold: 6h)"},{"level":"WARNING","message":"Pouze 0 článků za 24h (minimum: 10)"},{"level":"INFO","message":"Pouze 0 článků za poslední hodinu"},{"level":"CRITICAL","message":"Pouze 52.0% článků v češtině! (minimum: 85.0%)"}],"summary":"Status: CRITICAL | Články 24h: 0 | Čeština: 52.0% | Alerty: 4"}</code></pre>
+  </details>
+
+  <p style="margin-top: 2rem; text-align: center; color: #6c757d;">
+    <small>Health check běží automaticky při každém build.</small>
+  </p>
+
+</div>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Health Check System - Quick Start Guide | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Health Check System - Quick Start Guide" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/docs/HEALTH_CHECK_QUICKSTART/" />
+<meta property="og:url" content="https://www.marigold.cz/docs/HEALTH_CHECK_QUICKSTART/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Health Check System - Quick Start Guide" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Health Check System - Quick Start Guide","url":"https://www.marigold.cz/docs/HEALTH_CHECK_QUICKSTART/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Health Check System - Quick Start Guide" />
+    <meta property="twitter:title" content="Health Check System - Quick Start Guide" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/docs/HEALTH_CHECK_QUICKSTART/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Health Check System - Quick Start Guide</h1>
+
+  <div class="entry">
+    <h1 id="health-check-system---quick-start-guide">Health Check System - Quick Start Guide</h1>
+
+<p>Rychlý průvodce pro nastavení a použití Tech News Health Check systému.</p>
+
+<h2 id="-5-minute-setup">🚀 5-Minute Setup</h2>
+
+<h3 id="1-ověřit-že-systém-funguje-lokálně">1. Ověřit, že systém funguje lokálně</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> /Users/patrickzandl/GitHub/marigold-page
+
+<span class="c"># Spustit health check</span>
+python3 scripts/tech_news_health_check.py
+
+<span class="c"># Měli byste vidět výstup typu:</span>
+<span class="c"># ============================================================</span>
+<span class="c"># TECH NEWS HEALTH CHECK: OK/WARNING/CRITICAL</span>
+<span class="c"># ============================================================</span>
+<span class="c"># Status: OK | Články 24h: 15 | Čeština: 92.3%</span>
+</code></pre></div></div>
+
+<h3 id="2-zkontrolovat-vygenerovaný-json">2. Zkontrolovat vygenerovaný JSON</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat </span>_data/tech_news_health.json | jq <span class="s1">'.'</span>
+</code></pre></div></div>
+
+<p>Měli byste vidět strukturu:</p>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OK"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"timestamp"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2025-11-14T..."</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"metrics"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="err">...</span><span class="w"> </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"checks"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="err">...</span><span class="w"> </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"alerts"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="err">...</span><span class="w"> </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="3-build-a-test-jekyll">3. Build a test Jekyll</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># Test JSON endpoint</span>
+<span class="nb">cat </span>_site/health-check/index.html | jq <span class="s1">'.status'</span>
+
+<span class="c"># Test HTML dashboard</span>
+open _site/health-status/index.html
+</code></pre></div></div>
+
+<h3 id="4-deploy-na-github">4. Deploy na GitHub</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add scripts/tech_news_health_check.py
+git add health-check.html
+git add health-status.html
+git add _data/tech_news_health.json
+git add .github/workflows/tech-news.yml
+git add tests/test_health_check.py
+git add docs/
+
+git commit <span class="nt">-m</span> <span class="s2">"Add tech-news health check system"</span>
+git push
+</code></pre></div></div>
+
+<h3 id="5-nastavit-uptimerobot-5-minut">5. Nastavit Uptimerobot (5 minut)</h3>
+
+<ol>
+  <li>
+    <p><strong>Přihlásit se do Uptimerobot:</strong> https://uptimerobot.com/</p>
+  </li>
+  <li><strong>Vytvořit Primary Monitor:</strong>
+    <ul>
+      <li>Kliknout “Add New Monitor”</li>
+      <li>Monitor Type: <code class="language-plaintext highlighter-rouge">HTTP(s)</code></li>
+      <li>Friendly Name: <code class="language-plaintext highlighter-rouge">Marigold Tech News - Health Check</code></li>
+      <li>URL: <code class="language-plaintext highlighter-rouge">https://marigold.cz/health-check/</code></li>
+      <li>Monitoring Interval: <code class="language-plaintext highlighter-rouge">5 minutes</code></li>
+      <li>Scroll dolů na “Advanced Settings”</li>
+      <li>Enable “Keyword monitoring”</li>
+      <li>Keyword Type: <code class="language-plaintext highlighter-rouge">Keyword Exists</code></li>
+      <li>Keyword: <code class="language-plaintext highlighter-rouge">"status": "OK"</code></li>
+      <li>Alert Contacts: Přidat svůj email</li>
+      <li>Create Monitor</li>
+    </ul>
+  </li>
+  <li><strong>Test Monitor:</strong>
+    <ul>
+      <li>Počkat 5 minut na první check</li>
+      <li>Zkontrolovat, že status je “Up” (zelený)</li>
+      <li>Pokud je “Down”, zkontrolovat keyword matching</li>
+    </ul>
+  </li>
+  <li><strong>Optional: Vytvořit Language Monitor:</strong>
+    <ul>
+      <li>Add New Monitor</li>
+      <li>Monitor Type: <code class="language-plaintext highlighter-rouge">HTTP(s)</code></li>
+      <li>Friendly Name: <code class="language-plaintext highlighter-rouge">Marigold Tech News - Language Check</code></li>
+      <li>URL: <code class="language-plaintext highlighter-rouge">https://marigold.cz/health-check/</code></li>
+      <li>Interval: <code class="language-plaintext highlighter-rouge">5 minutes</code></li>
+      <li>Keyword Type: <code class="language-plaintext highlighter-rouge">Keyword NOT Exists</code></li>
+      <li>Keyword: <code class="language-plaintext highlighter-rouge">"status": "CRITICAL"</code></li>
+      <li>Create Monitor</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Hotovo! 🎉</strong> Systém nyní automaticky monitoruje tech-news zdraví.</p>
+
+<hr />
+
+<h2 id="-denní-použití">📊 Denní Použití</h2>
+
+<h3 id="zkontrolovat-zdraví-systému">Zkontrolovat zdraví systému</h3>
+
+<p><strong>Rychlá kontrola (30 sekund):</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Otevřít health status dashboard</span>
+open https://marigold.cz/health-status/
+</code></pre></div></div>
+
+<p><strong>Programmatický check:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># JSON endpoint</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.status'</span>
+
+<span class="c"># Pokud vrátí "OK" → vše v pořádku</span>
+<span class="c"># Pokud vrátí "WARNING" → drobné problémy</span>
+<span class="c"># Pokud vrátí "CRITICAL" → vyžaduje pozornost</span>
+</code></pre></div></div>
+
+<h3 id="při-obdržení-alertu-z-uptimerobot">Při obdržení alertu z Uptimerobot</h3>
+
+<p><strong>Krok 1: Diagnóza (2 minuty)</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Otevřít health status</span>
+open https://marigold.cz/health-status/
+
+<span class="c"># 2. Zkontrolovat sekci "Alerty"</span>
+<span class="c"># Přečíst si, jaké konkrétní problémy byly detekovány</span>
+
+<span class="c"># 3. Zkontrolovat metriky</span>
+<span class="c"># - Články 24h: Mělo by být ≥ 10</span>
+<span class="c"># - Poměr češtiny: Mělo by být ≥ 85%</span>
+<span class="c"># - Stáří nejnovějšího: Mělo by být ≤ 6h</span>
+</code></pre></div></div>
+
+<p><strong>Krok 2: Zkontrolovat GitHub Actions (1 minuta)</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zkontrolovat poslední workflow run</span>
+gh run list <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml <span class="nt">--limit</span> 5
+
+<span class="c"># Pokud poslední run selhal:</span>
+gh run view <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml
+
+<span class="c"># Zkontrolovat logy</span>
+gh run view <span class="nt">--log</span>
+</code></pre></div></div>
+
+<p><strong>Krok 3: Běžné problémy a řešení</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Alert</th>
+      <th>Možná příčina</th>
+      <th>Řešení</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>“Pouze X% článků v češtině”</td>
+      <td>LLM API selhání</td>
+      <td>Zkontrolovat OPENROUTER_API_KEY, zkontrolovat LLM API status</td>
+    </tr>
+    <tr>
+      <td>“Nejnovější článek starý Xh”</td>
+      <td>GitHub Actions nesběhl</td>
+      <td>Zkontrolovat workflow schedule, manuálně spustit workflow</td>
+    </tr>
+    <tr>
+      <td>“Pouze X článků za 24h”</td>
+      <td>NewsAPI problém</td>
+      <td>Zkontrolovat NEWS_API_KEY, zkontrolovat NewsAPI quota</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Krok 4: Manuální fix (pokud nutné)</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Manuálně spustit tech-news generování</span>
+<span class="nb">cd</span> /Users/patrickzandl/GitHub/marigold-page
+
+<span class="c"># S produkčními credentials</span>
+<span class="nb">export </span><span class="nv">NEWS_API_KEY</span><span class="o">=</span><span class="s2">"..."</span>
+<span class="nb">export </span><span class="nv">OPENROUTER_API_KEY</span><span class="o">=</span><span class="s2">"..."</span>
+
+python3 scripts/generate_tech_news_newsapi.py
+
+<span class="c"># Spustit health check</span>
+python3 scripts/tech_news_health_check.py
+
+<span class="c"># Pokud nyní OK, commit a push</span>
+git add _tech_news/ _data/tech_news_health.json
+git commit <span class="nt">-m</span> <span class="s2">"Manual tech-news update after fixing issue"</span>
+git push
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="-testing">🧪 Testing</h2>
+
+<h3 id="otestovat-lokální-změny">Otestovat lokální změny</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Spustit unit tests</span>
+python3 <span class="nt">-m</span> pytest tests/test_health_check.py <span class="nt">-v</span>
+
+<span class="c"># 2. Spustit health check na produkčních datech</span>
+python3 scripts/tech_news_health_check.py
+
+<span class="c"># 3. Build Jekyll a zkontrolovat endpoints</span>
+bundle <span class="nb">exec </span>jekyll build
+<span class="nb">cat </span>_site/health-check/index.html | jq <span class="s1">'.'</span>
+open _site/health-status/index.html
+</code></pre></div></div>
+
+<h3 id="simulovat-failure-scénáře">Simulovat failure scénáře</h3>
+
+<p><strong>Scénář: Nízký poměr češtiny</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Dočasně upravit threshold v scripts/tech_news_health_check.py</span>
+<span class="c"># Řádek cca 30:</span>
+THRESHOLDS <span class="o">=</span> <span class="o">{</span>
+    <span class="s1">'min_czech_ratio'</span>: 1.0,  <span class="c"># Změnit z 0.85 na 1.0</span>
+<span class="o">}</span>
+
+<span class="c"># Spustit</span>
+python3 scripts/tech_news_health_check.py
+
+<span class="c"># Měli byste vidět CRITICAL alert</span>
+<span class="c"># Vrátit změnu zpět po testu!</span>
+</code></pre></div></div>
+
+<p><strong>Scénář: Starý obsah</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Změnit threshold</span>
+THRESHOLDS <span class="o">=</span> <span class="o">{</span>
+    <span class="s1">'max_age_hours'</span>: 0.1,  <span class="c"># Velmi krátký čas</span>
+<span class="o">}</span>
+
+<span class="c"># Spustit a ověřit WARNING alert</span>
+python3 scripts/tech_news_health_check.py
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="-customization">🔧 Customization</h2>
+
+<h3 id="upravit-thresholdy">Upravit thresholdy</h3>
+
+<p>Editovat <code class="language-plaintext highlighter-rouge">scripts/tech_news_health_check.py</code>, sekce <code class="language-plaintext highlighter-rouge">THRESHOLDS</code>:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">THRESHOLDS</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">'min_articles_24h'</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>      <span class="c1"># Změnit podle potřeby
+</span>    <span class="s">'min_articles_1h'</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+    <span class="s">'max_age_hours'</span><span class="p">:</span> <span class="mi">6</span><span class="p">,</span>          <span class="c1"># Zvýšit pokud příliš mnoho false positives
+</span>    <span class="s">'min_czech_ratio'</span><span class="p">:</span> <span class="mf">0.85</span><span class="p">,</span>     <span class="c1"># Zvýšit pro přísnější kontrolu
+</span>    <span class="s">'min_avg_content_length'</span><span class="p">:</span> <span class="mi">300</span><span class="p">,</span>
+    <span class="s">'max_error_rate'</span><span class="p">:</span> <span class="mf">0.10</span><span class="p">,</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>Po změně:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Test</span>
+python3 scripts/tech_news_health_check.py
+
+<span class="c"># Commit</span>
+git add scripts/tech_news_health_check.py
+git commit <span class="nt">-m</span> <span class="s2">"Adjust health check thresholds"</span>
+git push
+</code></pre></div></div>
+
+<h3 id="přidat-nová-česká-slova-pro-detekci">Přidat nová česká slova pro detekci</h3>
+
+<p>Editovat <code class="language-plaintext highlighter-rouge">scripts/tech_news_health_check.py</code>, sekce <code class="language-plaintext highlighter-rouge">CZECH_WORDS</code>:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">CZECH_WORDS</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">'který'</span><span class="p">,</span> <span class="s">'která'</span><span class="p">,</span> <span class="s">'které'</span><span class="p">,</span>
+    <span class="c1"># ... existing words ...
+</span>    <span class="s">'smartphone'</span><span class="p">,</span>  <span class="c1"># Přidat nové
+</span>    <span class="s">'tablet'</span><span class="p">,</span>
+    <span class="c1"># atd.
+</span><span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="upravit-uptimerobot-alert-email">Upravit Uptimerobot alert email</h3>
+
+<p>V Uptimerobot dashboardu:</p>
+<ol>
+  <li>My Settings → Alert Contacts</li>
+  <li>Edit svůj email contact</li>
+  <li>Customize alert message template</li>
+  <li>Save</li>
+</ol>
+
+<hr />
+
+<h2 id="-mobile-monitoring-optional">📱 Mobile Monitoring (Optional)</h2>
+
+<h3 id="uptimerobot-mobile-app">Uptimerobot Mobile App</h3>
+
+<ol>
+  <li>Stáhnout Uptimerobot app (iOS/Android)</li>
+  <li>Přihlásit se stejným účtem</li>
+  <li>Enable push notifications</li>
+  <li>Nyní dostáváte alerts i na mobil</li>
+</ol>
+
+<h3 id="status-page-widget">Status Page Widget</h3>
+
+<p>Vytvořit public status page v Uptimerobot:</p>
+<ol>
+  <li>Public Status Pages → Add New</li>
+  <li>Vybrat tech-news monitors</li>
+  <li>Customize design</li>
+  <li>Publish</li>
+  <li>Sdílet URL s týmem</li>
+</ol>
+
+<hr />
+
+<h2 id="-troubleshooting-faq">🆘 Troubleshooting FAQ</h2>
+
+<h3 id="q-health-check-hlásí-critical-ale-vše-vypadá-ok">Q: Health check hlásí CRITICAL ale vše vypadá OK?</h3>
+
+<p><strong>A:</strong> Zkontrolovat:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Je deployed nejnovější verze?</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.timestamp'</span>
+
+<span class="c"># 2. Je timestamp aktuální? (měl by být &lt; 4h starý)</span>
+<span class="c"># Pokud ne, Jekyll build selhal nebo deployment trvá</span>
+
+<span class="c"># 3. Zkontrolovat GitHub Pages build</span>
+gh workflow view pages-build-deployment
+</code></pre></div></div>
+
+<h3 id="q-uptimerobot-posílá-příliš-mnoho-false-positive-alertů">Q: Uptimerobot posílá příliš mnoho false positive alertů?</h3>
+
+<p><strong>A:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat threshold values v health check scriptu</span>
+<span class="nb">grep</span> <span class="nt">-A</span> 6 <span class="s2">"THRESHOLDS = {"</span> scripts/tech_news_health_check.py
+
+<span class="c"># 2. Zvážit adjustaci thresholdů (viz Customization)</span>
+
+<span class="c"># 3. Nebo zvýšit Uptimerobot "consecutive failures" threshold</span>
+<span class="c"># v Uptimerobot → Edit Monitor → Alert when down for: 3 checks (15 min)</span>
+</code></pre></div></div>
+
+<h3 id="q-health-check-script-selhává-s-chybou">Q: Health check script selhává s chybou?</h3>
+
+<p><strong>A:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat Python dependencies</span>
+pip3 <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
+
+<span class="c"># Nebo manuálně:</span>
+pip3 <span class="nb">install </span>pyyaml requests beautifulsoup4 python-dateutil
+
+<span class="c"># 2. Spustit s debug output</span>
+python3 scripts/tech_news_health_check.py 2&gt;&amp;1 | <span class="nb">tee </span>debug.log
+
+<span class="c"># 3. Zkontrolovat Python verzi (měla by být 3.9+)</span>
+python3 <span class="nt">--version</span>
+</code></pre></div></div>
+
+<h3 id="q-json-endpoint-vrací-404">Q: JSON endpoint vrací 404?</h3>
+
+<p><strong>A:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat že health-check.html existuje v root</span>
+<span class="nb">ls</span> <span class="nt">-la</span> health-check.html
+
+<span class="c"># 2. Rebuild Jekyll</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># 3. Zkontrolovat že je v _site/</span>
+<span class="nb">ls</span> <span class="nt">-la</span> _site/health-check/
+
+<span class="c"># 4. Deploy</span>
+git add health-check.html
+git commit <span class="nt">-m</span> <span class="s2">"Add health check endpoint"</span>
+git push
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="-další-dokumentace">📚 Další Dokumentace</h2>
+
+<ul>
+  <li><strong>Kompletní systémová dokumentace:</strong> <code class="language-plaintext highlighter-rouge">docs/HEALTH_CHECK_SYSTEM.md</code></li>
+  <li><strong>Uptimerobot detailní setup:</strong> <code class="language-plaintext highlighter-rouge">docs/UPTIMEROBOT_SETUP.md</code></li>
+  <li><strong>Test suite:</strong> <code class="language-plaintext highlighter-rouge">tests/test_health_check.py</code></li>
+</ul>
+
+<h2 id="-next-steps">🎯 Next Steps</h2>
+
+<ol>
+  <li>✅ Nastavit Uptimerobot monitoring (5 min)</li>
+  <li>✅ Přidat svůj email jako alert contact</li>
+  <li>✅ Test alert flow (send test alert v Uptimerobot)</li>
+  <li>⏰ Naplánovat weekly review (15 min každý týden)</li>
+  <li>📊 Po 2 týdnech: Review metrics a adjust thresholdy</li>
+</ol>
+
+<hr />
+
+<p><strong>Potřebujete pomoc?</strong></p>
+<ul>
+  <li>Zkontrolovat full docs: <code class="language-plaintext highlighter-rouge">docs/HEALTH_CHECK_SYSTEM.md</code></li>
+  <li>GitHub Issues: https://github.com/username/marigold-page/issues</li>
+  <li>Email: váš@email.cz</li>
+</ul>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

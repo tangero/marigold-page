@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Uptimerobot Health Check Setup Guide | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Uptimerobot Health Check Setup Guide" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/docs/UPTIMEROBOT_SETUP/" />
+<meta property="og:url" content="https://www.marigold.cz/docs/UPTIMEROBOT_SETUP/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Uptimerobot Health Check Setup Guide" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Uptimerobot Health Check Setup Guide","url":"https://www.marigold.cz/docs/UPTIMEROBOT_SETUP/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Uptimerobot Health Check Setup Guide" />
+    <meta property="twitter:title" content="Uptimerobot Health Check Setup Guide" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/docs/UPTIMEROBOT_SETUP/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Uptimerobot Health Check Setup Guide</h1>
+
+  <div class="entry">
+    <h1 id="uptimerobot-health-check-setup-guide">Uptimerobot Health Check Setup Guide</h1>
+
+<p>Komplexní návod pro konfiguraci Uptimerobot monitoringu tech-news generování na Marigold.cz.</p>
+
+<h2 id="přehled-architektury">Přehled Architektury</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌─────────────────────────────────────────┐
+│  Uptimerobot Cloud Service              │
+│  - Monitor 1: JSON Health Endpoint      │
+│  - Monitor 2: HTML Status Page          │
+│  - Monitor 3: Language Check (Keyword)  │
+└────────────────┬────────────────────────┘
+                 │ HTTP(S) Polling každých 5 min
+                 ▼
+┌─────────────────────────────────────────┐
+│  https://marigold.cz/health-check/      │
+│  - JSON endpoint s metrics              │
+└────────────────┬────────────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────────────┐
+│  _data/tech_news_health.json            │
+│  - Generováno při každém build          │
+│  - Obsahuje výsledky všech checks       │
+└─────────────────────────────────────────┘
+</code></pre></div></div>
+
+<h2 id="uptimerobot-monitor-konfigurace">Uptimerobot Monitor Konfigurace</h2>
+
+<h3 id="monitor-1-primary-health-check-httpjson">Monitor 1: Primary Health Check (HTTP/JSON)</h3>
+
+<p><strong>Účel:</strong> Primární monitoring dostupnosti a základních metrik</p>
+
+<p><strong>Konfigurace:</strong></p>
+<ul>
+  <li><strong>Monitor Type:</strong> HTTP(s)</li>
+  <li><strong>Friendly Name:</strong> <code class="language-plaintext highlighter-rouge">Marigold Tech News - Health Check</code></li>
+  <li><strong>URL:</strong> <code class="language-plaintext highlighter-rouge">https://marigold.cz/health-check/</code></li>
+  <li><strong>Monitoring Interval:</strong> 5 minutes</li>
+  <li><strong>Monitor Timeout:</strong> 30 seconds</li>
+</ul>
+
+<p><strong>Keyword Monitoring:</strong></p>
+<ul>
+  <li><strong>Type:</strong> Keyword Exists</li>
+  <li><strong>Keywords:</strong> <code class="language-plaintext highlighter-rouge">"status": "OK"</code></li>
+  <li><strong>Description:</strong> Kontroluje, že celkový status je OK</li>
+</ul>
+
+<p><strong>Alert Contacts:</strong></p>
+<ul>
+  <li>Email: váš@email.cz</li>
+  <li>Threshold: Alert if down for 2 checks (10 minut)</li>
+</ul>
+
+<p><strong>Advanced Settings:</strong></p>
+<ul>
+  <li>HTTP Method: GET</li>
+  <li>Custom HTTP Headers: None required</li>
+  <li>Expected Status Code: 200</li>
+</ul>
+
+<hr />
+
+<h3 id="monitor-2-czech-language-ratio-check-keyword">Monitor 2: Czech Language Ratio Check (Keyword)</h3>
+
+<p><strong>Účel:</strong> Detekce poklesu poměru českých článků (hlavní indikátor selhání překladu)</p>
+
+<p><strong>Konfigurace:</strong></p>
+<ul>
+  <li><strong>Monitor Type:</strong> HTTP(s) - Keyword</li>
+  <li><strong>Friendly Name:</strong> <code class="language-plaintext highlighter-rouge">Marigold Tech News - Czech Language Check</code></li>
+  <li><strong>URL:</strong> <code class="language-plaintext highlighter-rouge">https://marigold.cz/health-check/</code></li>
+  <li><strong>Monitoring Interval:</strong> 5 minutes</li>
+</ul>
+
+<p><strong>Keyword Monitoring:</strong></p>
+<ul>
+  <li><strong>Type:</strong> Keyword Exists</li>
+  <li><strong>Primary Keyword:</strong> <code class="language-plaintext highlighter-rouge">"czech_ratio": 0.</code></li>
+  <li><strong>Description:</strong> Detekuje přítomnost czech_ratio pole</li>
+</ul>
+
+<p><strong>Alert Threshold Logic:</strong></p>
+
+<p>Pro detekci nízkého poměru češtiny použijte <strong>Regex Monitoring</strong> (pokud podporováno):</p>
+<ul>
+  <li><strong>Regex Pattern:</strong> <code class="language-plaintext highlighter-rouge">"czech_ratio":\s*0\.[0-8]</code></li>
+  <li><strong>Alert When:</strong> Pattern matches (hodnota &lt; 0.9)</li>
+</ul>
+
+<p><strong>Alternative approach (bez regex):</strong></p>
+<ul>
+  <li>Kombinovat s Monitor 1, který kontroluje <code class="language-plaintext highlighter-rouge">"status": "WARNING"</code> nebo <code class="language-plaintext highlighter-rouge">"status": "CRITICAL"</code></li>
+</ul>
+
+<hr />
+
+<h3 id="monitor-3-article-freshness-check">Monitor 3: Article Freshness Check</h3>
+
+<p><strong>Účel:</strong> Detekce stagnace generování článků</p>
+
+<p><strong>Konfigurace:</strong></p>
+<ul>
+  <li><strong>Monitor Type:</strong> HTTP(s) - Keyword</li>
+  <li><strong>Friendly Name:</strong> <code class="language-plaintext highlighter-rouge">Marigold Tech News - Freshness Check</code></li>
+  <li><strong>URL:</strong> <code class="language-plaintext highlighter-rouge">https://marigold.cz/health-check/</code></li>
+  <li><strong>Monitoring Interval:</strong> 15 minutes</li>
+</ul>
+
+<p><strong>Keyword Monitoring:</strong></p>
+<ul>
+  <li><strong>Type:</strong> Keyword NOT Exists</li>
+  <li><strong>Keyword:</strong> <code class="language-plaintext highlighter-rouge">"newest_article_age_hours": 99</code></li>
+  <li><strong>Description:</strong> Alert pokud je nejnovější článek starší než očekávané maximum</li>
+</ul>
+
+<p><strong>Alert Logic:</strong></p>
+<ul>
+  <li>Alert if keyword matches for 2 consecutive checks (30 minut)</li>
+</ul>
+
+<hr />
+
+<h3 id="monitor-4-human-readable-status-page-optional">Monitor 4: Human-Readable Status Page (Optional)</h3>
+
+<p><strong>Účel:</strong> Sekundární monitoring s vizuální kontrolou</p>
+
+<p><strong>Konfigurace:</strong></p>
+<ul>
+  <li><strong>Monitor Type:</strong> HTTP(s)</li>
+  <li><strong>Friendly Name:</strong> <code class="language-plaintext highlighter-rouge">Marigold Tech News - Status Page</code></li>
+  <li><strong>URL:</strong> <code class="language-plaintext highlighter-rouge">https://marigold.cz/health-status/</code></li>
+  <li><strong>Monitoring Interval:</strong> 10 minutes</li>
+</ul>
+
+<p><strong>Keyword Monitoring:</strong></p>
+<ul>
+  <li><strong>Type:</strong> Keyword Exists</li>
+  <li><strong>Keyword:</strong> <code class="language-plaintext highlighter-rouge">Status: &lt;strong&gt;OK&lt;/strong&gt;</code></li>
+  <li><strong>Description:</strong> Kontrola že status page zobrazuje OK</li>
+</ul>
+
+<hr />
+
+<h2 id="alert-contact-konfigurace">Alert Contact Konfigurace</h2>
+
+<h3 id="email-alert">Email Alert</h3>
+
+<p><strong>Doporučené nastavení:</strong></p>
+<ul>
+  <li><strong>Alert When:</strong>
+    <ul>
+      <li>Monitor goes DOWN</li>
+      <li>Monitor goes UP (recovery notification)</li>
+    </ul>
+  </li>
+  <li><strong>Threshold:</strong> 2 consecutive failures (10 minut pro 5min interval)</li>
+  <li><strong>Email Template:</strong></li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Monitor: 
+Status: 
+URL: 
+Reason: 
+Time: 
+
+Check status: https://marigold.cz/health-status/
+</code></pre></div></div>
+
+<h3 id="webhook-alert-optional---pro-slackdiscord">Webhook Alert (Optional - pro Slack/Discord)</h3>
+
+<p><strong>Pro integraci se Slackem:</strong></p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"🚨 Tech News Health Alert"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"blocks"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"section"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"mrkdwn"</span><span class="p">,</span><span class="w">
+        </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"**</span><span class="se">\n</span><span class="s2">Status: ``"</span><span class="w">
+      </span><span class="p">}</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"section"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"fields"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+          </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"mrkdwn"</span><span class="p">,</span><span class="w">
+          </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"*URL:*</span><span class="se">\n</span><span class="s2">"</span><span class="w">
+        </span><span class="p">},</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+          </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"mrkdwn"</span><span class="p">,</span><span class="w">
+          </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"*Time:*</span><span class="se">\n</span><span class="s2">"</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+      </span><span class="p">]</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"actions"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"elements"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+          </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"button"</span><span class="p">,</span><span class="w">
+          </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+            </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"plain_text"</span><span class="p">,</span><span class="w">
+            </span><span class="nl">"text"</span><span class="p">:</span><span class="w"> </span><span class="s2">"View Status"</span><span class="w">
+          </span><span class="p">},</span><span class="w">
+          </span><span class="nl">"url"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://marigold.cz/health-status/"</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+      </span><span class="p">]</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<hr />
+
+<h2 id="testování-konfigurace">Testování Konfigurace</h2>
+
+<h3 id="manuální-test-před-deploy">Manuální Test Před Deploy</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Spustit health check lokálně</span>
+<span class="nb">cd</span> /path/to/marigold-page
+python scripts/tech_news_health_check.py <span class="nt">--output</span> _data/tech_news_health.json
+
+<span class="c"># 2. Build Jekyll s novými daty</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># 3. Zkontrolovat vygenerovaný JSON</span>
+<span class="nb">cat </span>_site/health-check/index.html
+
+<span class="c"># 4. Zkontrolovat HTML status stránku</span>
+open _site/health-status/index.html
+</code></pre></div></div>
+
+<h3 id="simulace-failure-scénářů">Simulace Failure Scénářů</h3>
+
+<p><strong>Scénář 1: Nízký poměr češtiny (LLM selhání)</strong></p>
+
+<p>Dočasně upravit threshold v <code class="language-plaintext highlighter-rouge">tech_news_health_check.py</code>:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">THRESHOLDS</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">'min_czech_ratio'</span><span class="p">:</span> <span class="mf">1.0</span><span class="p">,</span>  <span class="c1"># Nerealisticky vysoký threshold
+</span><span class="p">}</span>
+</code></pre></div></div>
+
+<p>Spustit check a ověřit, že vytvoří CRITICAL alert.</p>
+
+<p><strong>Scénář 2: Starý obsah (generování stagnuje)</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">THRESHOLDS</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">'max_age_hours'</span><span class="p">:</span> <span class="mf">0.1</span><span class="p">,</span>  <span class="c1"># Velmi krátký čas
+</span><span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>Scénář 3: Nedostatek článků</strong></p>
+
+<p>Dočasně přesunout soubory z <code class="language-plaintext highlighter-rouge">_tech_news/</code> a spustit check.</p>
+
+<hr />
+
+<h2 id="uptimerobot-dashboard-setup">Uptimerobot Dashboard Setup</h2>
+
+<h3 id="public-status-page-doporučeno">Public Status Page (Doporučeno)</h3>
+
+<p><strong>Účel:</strong> Transparentní zobrazení uptime pro uživatele</p>
+
+<p><strong>Konfigurace:</strong></p>
+<ol>
+  <li>V Uptimerobot dashboardu: <code class="language-plaintext highlighter-rouge">Public Status Pages</code> → <code class="language-plaintext highlighter-rouge">Add New</code></li>
+  <li><strong>Custom Domain:</strong> <code class="language-plaintext highlighter-rouge">status.marigold.cz</code> (pokud chcete vlastní doménu)</li>
+  <li><strong>Monitored Services:</strong> Vybrat všechny Tech News monitors</li>
+  <li><strong>Design:</strong>
+    <ul>
+      <li>Logo: Marigold.cz logo</li>
+      <li>Theme: Light nebo Dark</li>
+      <li>Show uptime percentages: YES</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="threshold-tuning-guide">Threshold Tuning Guide</h2>
+
+<h3 id="doporučené-thresholdy-pro-produkci">Doporučené Thresholdy pro Produkci</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">THRESHOLDS</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="c1"># Články - závisí na frekvenci generování
+</span>    <span class="s">'min_articles_24h'</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span>     <span class="c1"># 10+ článků denně (cca 2-3/4h run)
+</span>    <span class="s">'min_articles_1h'</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>       <span class="c1"># Alespoň 1 článek v poslední hodině
+</span>
+    <span class="c1"># Čerstvost - závisí na GitHub Actions schedule
+</span>    <span class="s">'max_age_hours'</span><span class="p">:</span> <span class="mi">6</span><span class="p">,</span>         <span class="c1"># Max 6h stáří (1.5x interval 4h cron)
+</span>
+    <span class="c1"># Jazyk - kritický indikátor
+</span>    <span class="s">'min_czech_ratio'</span><span class="p">:</span> <span class="mf">0.85</span><span class="p">,</span>    <span class="c1"># Min 85% českých článků (15% tolerance)
+</span>
+    <span class="c1"># Kvalita obsahu
+</span>    <span class="s">'min_avg_content_length'</span><span class="p">:</span> <span class="mi">300</span><span class="p">,</span>  <span class="c1"># Min 300 znaků průměrně
+</span>    <span class="s">'max_error_rate'</span><span class="p">:</span> <span class="mf">0.10</span><span class="p">,</span>     <span class="c1"># Max 10% chyb ve front matter
+</span><span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="alert-sensitivity-matrix">Alert Sensitivity Matrix</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Threshold</th>
+      <th>Conservative</th>
+      <th>Balanced</th>
+      <th>Aggressive</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">min_articles_24h</code></td>
+      <td>5</td>
+      <td>10</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">max_age_hours</code></td>
+      <td>12</td>
+      <td>6</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">min_czech_ratio</code></td>
+      <td>0.70</td>
+      <td>0.85</td>
+      <td>0.95</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">max_error_rate</code></td>
+      <td>0.20</td>
+      <td>0.10</td>
+      <td>0.05</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Doporučení:</strong> Začít s <strong>Balanced</strong> a adjustovat na základě false positive/negative rate.</p>
+
+<hr />
+
+<h2 id="troubleshooting">Troubleshooting</h2>
+
+<h3 id="false-positive-alert-i-když-vše-funguje">False Positive: Alert i když vše funguje</h3>
+
+<p><strong>Možné příčiny:</strong></p>
+<ol>
+  <li>Jekyll build selhal → endpoint vrací starý JSON</li>
+  <li>Uptimerobot cache → Force refresh</li>
+  <li>Threshold příliš přísný → Adjustovat</li>
+</ol>
+
+<p><strong>Debug kroky:</strong></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zkontrolovat aktuální JSON na live site</span>
+curl https://marigold.cz/health-check/ | jq <span class="nb">.</span>
+
+<span class="c"># Zkontrolovat poslední build</span>
+gh run list <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml <span class="nt">--limit</span> 5
+
+<span class="c"># Zkontrolovat lokální health data</span>
+<span class="nb">cat </span>_data/tech_news_health.json | jq <span class="nb">.</span>
+</code></pre></div></div>
+
+<h3 id="false-negative-žádný-alert-i-když-je-problém">False Negative: Žádný alert i když je problém</h3>
+
+<p><strong>Možné příčiny:</strong></p>
+<ol>
+  <li>Keyword match je příliš benevolentní</li>
+  <li>Uptimerobot interval příliš dlouhý</li>
+  <li>Alert threshold příliš vysoký</li>
+</ol>
+
+<p><strong>Řešení:</strong></p>
+<ul>
+  <li>Použít kombinaci multiple keywords (AND logic)</li>
+  <li>Snížit interval na 5 minut</li>
+  <li>Snížit consecutive failures threshold na 2</li>
+</ul>
+
+<hr />
+
+<h2 id="maintenance--monitoring-best-practices">Maintenance &amp; Monitoring Best Practices</h2>
+
+<h3 id="pravidelné-kontroly-weekly">Pravidelné Kontroly (Weekly)</h3>
+
+<ol>
+  <li><strong>Review Alert History</strong>
+    <ul>
+      <li>Zkontrolovat Uptimerobot alert log</li>
+      <li>Identifikovat false positives</li>
+      <li>Adjustovat thresholdy pokud nutné</li>
+    </ul>
+  </li>
+  <li><strong>Validate Metrics Trends</strong>
+    <ul>
+      <li>Otevřít <code class="language-plaintext highlighter-rouge">/health-status/</code> a zkontrolovat trendy</li>
+      <li>Zkontrolovat <code class="language-plaintext highlighter-rouge">czech_ratio</code> stabilitu</li>
+      <li>Analyzovat <code class="language-plaintext highlighter-rouge">articles_24h</code> průměr</li>
+    </ul>
+  </li>
+  <li><strong>Test Alert Flow</strong>
+    <ul>
+      <li>Manuálně spustit test alert (Uptimerobot UI)</li>
+      <li>Ověřit, že notifikace přicházejí správně</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="monthly-review">Monthly Review</h3>
+
+<ol>
+  <li>Analyze false positive/negative rate</li>
+  <li>Review threshold effectiveness</li>
+  <li>Update documentation s findings</li>
+  <li>Consider adding new checks based on issues</li>
+</ol>
+
+<hr />
+
+<h2 id="integrace-s-dalšími-systémy">Integrace s Dalšími Systémy</h2>
+
+<h3 id="github-actions-integration">GitHub Actions Integration</h3>
+
+<p><strong>Alert on Workflow Failure:</strong></p>
+
+<p>Přidat do <code class="language-plaintext highlighter-rouge">.github/workflows/tech-news.yml</code>:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Check health status after generation</span>
+  <span class="na">run</span><span class="pi">:</span> <span class="pi">|</span>
+    <span class="s">python scripts/tech_news_health_check.py</span>
+
+    <span class="s">if [ $? -eq 2 ]; then</span>
+      <span class="s">echo "::error::Health check CRITICAL"</span>
+      <span class="s">exit 1</span>
+    <span class="s">elif [ $? -eq 1 ]; then</span>
+      <span class="s">echo "::warning::Health check WARNING"</span>
+    <span class="s">fi</span>
+</code></pre></div></div>
+
+<h3 id="slack-webhook-advanced">Slack Webhook (Advanced)</h3>
+
+<p><strong>Python skript pro posting do Slacku při CRITICAL:</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">requests</span>
+
+<span class="k">def</span> <span class="nf">send_slack_alert</span><span class="p">(</span><span class="n">health_results</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">health_results</span><span class="p">[</span><span class="s">'status'</span><span class="p">]</span> <span class="o">==</span> <span class="s">'CRITICAL'</span><span class="p">:</span>
+        <span class="n">webhook_url</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">'SLACK_WEBHOOK_URL'</span><span class="p">)</span>
+        <span class="n">payload</span> <span class="o">=</span> <span class="p">{</span>
+            <span class="s">'text'</span><span class="p">:</span> <span class="sa">f</span><span class="s">"🚨 Tech News Health: </span><span class="si">{</span><span class="n">health_results</span><span class="p">[</span><span class="s">'status'</span><span class="p">]</span><span class="si">}</span><span class="s">"</span><span class="p">,</span>
+            <span class="s">'blocks'</span><span class="p">:</span> <span class="p">[</span>
+                <span class="p">{</span>
+                    <span class="s">'type'</span><span class="p">:</span> <span class="s">'section'</span><span class="p">,</span>
+                    <span class="s">'text'</span><span class="p">:</span> <span class="p">{</span>
+                        <span class="s">'type'</span><span class="p">:</span> <span class="s">'mrkdwn'</span><span class="p">,</span>
+                        <span class="s">'text'</span><span class="p">:</span> <span class="sa">f</span><span class="s">"*Status:* `</span><span class="si">{</span><span class="n">health_results</span><span class="p">[</span><span class="s">'status'</span><span class="p">]</span><span class="si">}</span><span class="s">`</span><span class="se">\n</span><span class="s">*Summary:* </span><span class="si">{</span><span class="n">health_results</span><span class="p">[</span><span class="s">'summary'</span><span class="p">]</span><span class="si">}</span><span class="s">"</span>
+                    <span class="p">}</span>
+                <span class="p">}</span>
+            <span class="p">]</span>
+        <span class="p">}</span>
+        <span class="n">requests</span><span class="p">.</span><span class="n">post</span><span class="p">(</span><span class="n">webhook_url</span><span class="p">,</span> <span class="n">json</span><span class="o">=</span><span class="n">payload</span><span class="p">)</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="cheat-sheet---rychlá-reference">Cheat Sheet - Rychlá Reference</h2>
+
+<h3 id="uptimerobot-quick-config">Uptimerobot Quick Config</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Monitor 1 (Primary):
+  URL: https://marigold.cz/health-check/
+  Keyword: "status": "OK"
+  Interval: 5 min
+  Alert: 2 consecutive failures
+
+Monitor 2 (Language):
+  URL: https://marigold.cz/health-check/
+  Keyword NOT: "status": "CRITICAL"
+  Interval: 5 min
+  Alert: 2 consecutive failures
+
+Monitor 3 (Freshness):
+  URL: https://marigold.cz/health-check/
+  Keyword: "articles_24h":
+  Interval: 15 min
+  Alert: Immediate
+</code></pre></div></div>
+
+<h3 id="important-urls">Important URLs</h3>
+
+<ul>
+  <li><strong>JSON Endpoint:</strong> https://marigold.cz/health-check/</li>
+  <li><strong>HTML Status:</strong> https://marigold.cz/health-status/</li>
+  <li><strong>GitHub Workflow:</strong> https://github.com/username/marigold-page/actions/workflows/tech-news.yml</li>
+</ul>
+
+<h3 id="emergency-contacts">Emergency Contacts</h3>
+
+<ul>
+  <li><strong>Primary:</strong> váš@email.cz</li>
+  <li><strong>Secondary:</strong> backup@email.cz</li>
+  <li><strong>Slack:</strong> #tech-news-alerts</li>
+</ul>
+
+<hr />
+
+<h2 id="changelog">Changelog</h2>
+
+<ul>
+  <li><strong>2025-11-14:</strong> Initial setup documentation created</li>
+  <li><strong>YYYY-MM-DD:</strong> (přidat updates při změnách)</li>
+</ul>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

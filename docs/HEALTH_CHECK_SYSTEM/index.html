@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tech News Health Check System - Kompletní Dokumentace | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Tech News Health Check System - Kompletní Dokumentace" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/docs/HEALTH_CHECK_SYSTEM/" />
+<meta property="og:url" content="https://www.marigold.cz/docs/HEALTH_CHECK_SYSTEM/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tech News Health Check System - Kompletní Dokumentace" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Tech News Health Check System - Kompletní Dokumentace","url":"https://www.marigold.cz/docs/HEALTH_CHECK_SYSTEM/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Tech News Health Check System - Kompletní Dokumentace" />
+    <meta property="twitter:title" content="Tech News Health Check System - Kompletní Dokumentace" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/docs/HEALTH_CHECK_SYSTEM/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Tech News Health Check System - Kompletní Dokumentace</h1>
+
+  <div class="entry">
+    <h1 id="tech-news-health-check-system---kompletní-dokumentace">Tech News Health Check System - Kompletní Dokumentace</h1>
+
+<h2 id="přehled">Přehled</h2>
+
+<p>Robustní health monitoring systém pro automatické generování tech-news článků na Marigold.cz. Systém detekuje problémy s generováním, překladem a kvalitou obsahu a poskytuje real-time monitoring přes Uptimerobot.</p>
+
+<h2 id="architektura">Architektura</h2>
+
+<h3 id="high-level-overview">High-Level Overview</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌─────────────────────────────────────────────────────────────┐
+│  GitHub Actions (každé 4h)                                  │
+│  ├─ Fetch tech news (NewsAPI)                               │
+│  ├─ Translate to Czech (LLM)                                │
+│  ├─ Generate articles → _tech_news/*.md                     │
+│  ├─ Run health check → _data/tech_news_health.json          │
+│  └─ Jekyll build + deploy                                   │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│  Live Website (GitHub Pages)                                │
+│  ├─ /health-check/        (JSON endpoint)                   │
+│  └─ /health-status/       (HTML dashboard)                  │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│  Uptimerobot (External Monitor)                             │
+│  ├─ Primary Health Check (keyword: "status": "OK")          │
+│  ├─ Language Check (czech_ratio monitoring)                 │
+│  ├─ Freshness Check (article age monitoring)                │
+│  └─ Alerts → Email / Slack / Webhook                        │
+└─────────────────────────────────────────────────────────────┘
+</code></pre></div></div>
+
+<h3 id="datový-tok">Datový tok</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_tech_news/*.md
+    ↓
+[Health Check Script]
+    ↓
+_data/tech_news_health.json
+    ↓
+[Jekyll Build]
+    ↓
+/health-check/ (JSON)
+/health-status/ (HTML)
+    ↓
+[Uptimerobot Polling]
+    ↓
+[Alerts při problému]
+</code></pre></div></div>
+
+<h2 id="komponenty-systému">Komponenty Systému</h2>
+
+<h3 id="1-health-check-script-scriptstech_news_health_checkpy">1. Health Check Script (<code class="language-plaintext highlighter-rouge">scripts/tech_news_health_check.py</code>)</h3>
+
+<p><strong>Funkce:</strong></p>
+<ul>
+  <li>Analyzuje všechny články v <code class="language-plaintext highlighter-rouge">_tech_news/</code></li>
+  <li>Detekuje jazyk (čeština vs angličtina)</li>
+  <li>Kontroluje čerstvost obsahu</li>
+  <li>Validuje front matter</li>
+  <li>Vypočítává kvalitativní metriky</li>
+  <li>Generuje JSON report s výsledky</li>
+</ul>
+
+<p><strong>Klíčové kontroly:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Check</th>
+      <th>Co kontroluje</th>
+      <th>Threshold</th>
+      <th>Alert Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Freshness</strong></td>
+      <td>Stáří nejnovějšího článku</td>
+      <td>Max 6h</td>
+      <td>WARNING</td>
+    </tr>
+    <tr>
+      <td><strong>Article Count</strong></td>
+      <td>Počet článků za 24h</td>
+      <td>Min 10</td>
+      <td>WARNING</td>
+    </tr>
+    <tr>
+      <td><strong>Language Ratio</strong></td>
+      <td>Poměr českých článků</td>
+      <td>Min 85%</td>
+      <td>CRITICAL</td>
+    </tr>
+    <tr>
+      <td><strong>Content Length</strong></td>
+      <td>Průměrná délka obsahu</td>
+      <td>Min 300 znaků</td>
+      <td>WARNING</td>
+    </tr>
+    <tr>
+      <td><strong>Front Matter</strong></td>
+      <td>Validita YAML metadat</td>
+      <td>Max 10% error rate</td>
+      <td>WARNING</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Použití:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Základní spuštění</span>
+python scripts/tech_news_health_check.py
+
+<span class="c"># S vlastním výstupním souborem</span>
+python scripts/tech_news_health_check.py <span class="nt">--output</span> _data/health.json
+
+<span class="c"># S vlastním adresářem tech-news</span>
+python scripts/tech_news_health_check.py <span class="nt">--tech-news-dir</span> /path/to/articles
+
+<span class="c"># Exit codes:</span>
+<span class="c">#   0 = OK (všechny checks prošly)</span>
+<span class="c">#   1 = WARNING (některé checks mají varování)</span>
+<span class="c">#   2 = CRITICAL (kritický problém detekován)</span>
+</code></pre></div></div>
+
+<h3 id="2-json-health-endpoint-health-check">2. JSON Health Endpoint (<code class="language-plaintext highlighter-rouge">/health-check/</code>)</h3>
+
+<p><strong>Účel:</strong> Machine-readable endpoint pro Uptimerobot a API monitoring</p>
+
+<p><strong>Formát výstupu:</strong></p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OK"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"timestamp"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2025-11-14T13:30:00+00:00"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"summary"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Status: OK | Články 24h: 15 | Čeština: 92.3%"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"metrics"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"total_articles"</span><span class="p">:</span><span class="w"> </span><span class="mi">3041</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"articles_24h"</span><span class="p">:</span><span class="w"> </span><span class="mi">15</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"articles_1h"</span><span class="p">:</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"newest_article_age_hours"</span><span class="p">:</span><span class="w"> </span><span class="mf">2.5</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"czech_ratio"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.923</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"avg_content_length"</span><span class="p">:</span><span class="w"> </span><span class="mi">856</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"median_content_length"</span><span class="p">:</span><span class="w"> </span><span class="mi">742</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"articles_with_images_pct"</span><span class="p">:</span><span class="w"> </span><span class="mf">95.2</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"articles_with_category_pct"</span><span class="p">:</span><span class="w"> </span><span class="mf">98.7</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"front_matter_error_rate"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.03</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"checks"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"freshness"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OK"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"newest_age_hours"</span><span class="p">:</span><span class="w"> </span><span class="mf">2.5</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"articles_24h"</span><span class="p">:</span><span class="w"> </span><span class="mi">15</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"articles_1h"</span><span class="p">:</span><span class="w"> </span><span class="mi">2</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"language"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OK"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"czech_ratio"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.923</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"sample_size"</span><span class="p">:</span><span class="w"> </span><span class="mi">100</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"english_articles_sample"</span><span class="p">:</span><span class="w"> </span><span class="p">[]</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"content_quality"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OK"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"avg_length"</span><span class="p">:</span><span class="w"> </span><span class="mi">856</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"median_length"</span><span class="p">:</span><span class="w"> </span><span class="mi">742</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"front_matter"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OK"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"error_rate"</span><span class="p">:</span><span class="w"> </span><span class="mf">0.03</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"invalid_count"</span><span class="p">:</span><span class="w"> </span><span class="mi">3</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"alerts"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"level"</span><span class="p">:</span><span class="w"> </span><span class="s2">"INFO"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"message"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Pouze 2 článků za poslední hodinu"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><strong>Status hodnoty:</strong></p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">OK</code> - Vše funguje správně</li>
+  <li><code class="language-plaintext highlighter-rouge">WARNING</code> - Drobné problémy, není nutná okamžitá akce</li>
+  <li><code class="language-plaintext highlighter-rouge">CRITICAL</code> - Vážný problém vyžadující pozornost</li>
+</ul>
+
+<h3 id="3-html-status-dashboard-health-status">3. HTML Status Dashboard (<code class="language-plaintext highlighter-rouge">/health-status/</code>)</h3>
+
+<p><strong>Účel:</strong> Human-readable dashboard pro debugging a monitoring</p>
+
+<p><strong>Funkce:</strong></p>
+<ul>
+  <li>Vizualizace všech metrik s barevným kódováním</li>
+  <li>Detail jednotlivých checks</li>
+  <li>Seznam aktivních alertů</li>
+  <li>Ukázka problémových článků</li>
+  <li>Raw JSON data pro debugging</li>
+</ul>
+
+<p><strong>Přístup:</strong> https://marigold.cz/health-status/</p>
+
+<h3 id="4-uptimerobot-monitoring">4. Uptimerobot Monitoring</h3>
+
+<p>Kompletní setup instrukce: viz <code class="language-plaintext highlighter-rouge">docs/UPTIMEROBOT_SETUP.md</code></p>
+
+<p><strong>Základní konfigurace:</strong></p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">Primary Monitor</span><span class="pi">:</span>
+  <span class="na">Name</span><span class="pi">:</span> <span class="s">Marigold Tech News - Health Check</span>
+  <span class="na">Type</span><span class="pi">:</span> <span class="s">HTTP(s) - Keyword</span>
+  <span class="na">URL</span><span class="pi">:</span> <span class="s">https://marigold.cz/health-check/</span>
+  <span class="na">Interval</span><span class="pi">:</span> <span class="s">5 minutes</span>
+  <span class="na">Keyword</span><span class="pi">:</span> <span class="s1">'</span><span class="s">"status":</span><span class="nv"> </span><span class="s">"OK"'</span>
+  <span class="na">Alert</span><span class="pi">:</span> <span class="s">2 consecutive failures (10 min)</span>
+
+<span class="na">Language Monitor</span><span class="pi">:</span>
+  <span class="na">Name</span><span class="pi">:</span> <span class="s">Marigold Tech News - Czech Language</span>
+  <span class="na">Type</span><span class="pi">:</span> <span class="s">HTTP(s) - Keyword</span>
+  <span class="na">URL</span><span class="pi">:</span> <span class="s">https://marigold.cz/health-check/</span>
+  <span class="na">Interval</span><span class="pi">:</span> <span class="s">5 minutes</span>
+  <span class="na">Keyword NOT</span><span class="pi">:</span> <span class="s1">'</span><span class="s">"status":</span><span class="nv"> </span><span class="s">"CRITICAL"'</span>
+  <span class="na">Alert</span><span class="pi">:</span> <span class="s">Immediate</span>
+
+<span class="na">Freshness Monitor</span><span class="pi">:</span>
+  <span class="na">Name</span><span class="pi">:</span> <span class="s">Marigold Tech News - Freshness</span>
+  <span class="na">Type</span><span class="pi">:</span> <span class="s">HTTP(s) - Keyword</span>
+  <span class="na">URL</span><span class="pi">:</span> <span class="s">https://marigold.cz/health-check/</span>
+  <span class="na">Interval</span><span class="pi">:</span> <span class="s">15 minutes</span>
+  <span class="na">Keyword</span><span class="pi">:</span> <span class="s1">'</span><span class="s">"articles_24h":'</span>
+  <span class="na">Alert</span><span class="pi">:</span> <span class="s">2 consecutive failures</span>
+</code></pre></div></div>
+
+<h2 id="detekce-jazykových-problémů">Detekce Jazykových Problémů</h2>
+
+<h3 id="jak-funguje-language-detection">Jak funguje Language Detection</h3>
+
+<p>Systém používá <strong>dual-score approach</strong> pro maximální přesnost:</p>
+
+<ol>
+  <li><strong>Czech Character Score (30% váha)</strong>
+    <ul>
+      <li>Detekuje české znaky: áčďéěíňóřšťúůýž</li>
+      <li>Skóre: počet českých znaků / 10 (max 1.0)</li>
+    </ul>
+  </li>
+  <li><strong>Czech Word Score (70% váha)</strong>
+    <ul>
+      <li>Detekuje česká klíčová slova z předem definované sady</li>
+      <li>Slova jako: který, společnost, podle, během, pouze, atd.</li>
+      <li>Skóre: počet českých slov / 5 (max 1.0)</li>
+    </ul>
+  </li>
+  <li><strong>Kombinované skóre</strong>
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">final_score</span> <span class="o">=</span> <span class="p">(</span><span class="n">char_score</span> <span class="o">*</span> <span class="mf">0.3</span><span class="p">)</span> <span class="o">+</span> <span class="p">(</span><span class="n">word_score</span> <span class="o">*</span> <span class="mf">0.7</span><span class="p">)</span>
+<span class="c1"># 0.0 = angličtina
+# 0.5 = neutrální / nelze rozhodnout
+# 1.0 = čeština
+</span></code></pre></div>    </div>
+  </li>
+  <li><strong>Classification threshold</strong>
+    <ul>
+      <li>score &gt; 0.5 → čeština</li>
+      <li>score ≤ 0.5 → angličtina</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="testované-scénáře">Testované scénáře</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Text</th>
+      <th>Detekce</th>
+      <th>Skóre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>“Společnost Google představila novou funkci”</td>
+      <td>✅ Čeština</td>
+      <td>0.85+</td>
+    </tr>
+    <tr>
+      <td>“Google announces new feature”</td>
+      <td>✅ Angličtina</td>
+      <td>0.15-</td>
+    </tr>
+    <tr>
+      <td>“Google představuje new feature”</td>
+      <td>⚠️ Smíšený</td>
+      <td>0.4-0.6</td>
+    </tr>
+    <tr>
+      <td>“123 456 789”</td>
+      <td>✅ Angličtina</td>
+      <td>0.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="failure-scénáře">Failure Scénáře</h3>
+
+<p><strong>Scénář 1: LLM API nedostupné</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Symptom: Články zůstanou v angličtině
+Detekce: czech_ratio &lt; 0.85
+Alert: CRITICAL
+Response:
+  1. Zkontrolovat OPENROUTER_API_KEY
+  2. Zkontrolovat LLM API status
+  3. Zkontrolovat error logy v GitHub Actions
+</code></pre></div></div>
+
+<p><strong>Scénář 2: Částečné selhání překladu</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Symptom: Některé články v angličtině, některé v češtině
+Detekce: 0.70 &lt; czech_ratio &lt; 0.85
+Alert: WARNING
+Response:
+  1. Zkontrolovat LLM cost limits
+  2. Zkontrolovat rate limiting
+  3. Review sample anglických článků v /health-status/
+</code></pre></div></div>
+
+<p><strong>Scénář 3: Translation quality degradation</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Symptom: Přeloženo, ale špatná kvalita
+Detekce: czech_ratio OK, ale avg_content_length nízká
+Alert: WARNING (content_quality)
+Response:
+  1. Zkontrolovat LLM model parametry
+  2. Review prompt template
+  3. Zkontrolovat input data quality
+</code></pre></div></div>
+
+<h2 id="failure-detection--alerting">Failure Detection &amp; Alerting</h2>
+
+<h3 id="detection-matrix">Detection Matrix</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Problém</th>
+      <th>Detekce</th>
+      <th>Threshold</th>
+      <th>Alert Level</th>
+      <th>Response Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Generování selhalo</td>
+      <td>articles_24h &lt; 10</td>
+      <td>&lt; 10</td>
+      <td>WARNING</td>
+      <td>24h</td>
+    </tr>
+    <tr>
+      <td>Překlad nefunguje</td>
+      <td>czech_ratio &lt; 0.85</td>
+      <td>&lt; 85%</td>
+      <td>CRITICAL</td>
+      <td>Immediate</td>
+    </tr>
+    <tr>
+      <td>Stará data</td>
+      <td>newest_age &gt; 6h</td>
+      <td>&gt; 6h</td>
+      <td>WARNING</td>
+      <td>12h</td>
+    </tr>
+    <tr>
+      <td>Front matter error</td>
+      <td>error_rate &gt; 0.10</td>
+      <td>&gt; 10%</td>
+      <td>WARNING</td>
+      <td>24h</td>
+    </tr>
+    <tr>
+      <td>Krátký obsah</td>
+      <td>avg_length &lt; 300</td>
+      <td>&lt; 300 char</td>
+      <td>WARNING</td>
+      <td>24h</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="alert-flow">Alert Flow</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Problem Detected
+    ↓
+Health Check creates alert
+    ↓
+Jekyll build includes alert in JSON
+    ↓
+Uptimerobot detects status change
+    ↓
+Uptimerobot sends notification
+    ↓
+Email / Slack / Webhook
+    ↓
+Manual investigation via /health-status/
+</code></pre></div></div>
+
+<h3 id="threshold-tuning-strategy">Threshold Tuning Strategy</h3>
+
+<p><strong>Phase 1: Observation (první 2 týdny)</strong></p>
+<ul>
+  <li>Nastavit benevolentní thresholdy</li>
+  <li>Sledovat metriky bez alertů</li>
+  <li>Identifikovat normální rozsah hodnot</li>
+</ul>
+
+<p><strong>Phase 2: Calibration (týden 3-4)</strong></p>
+<ul>
+  <li>Analyzovat nasbíraná data</li>
+  <li>Adjustovat thresholdy na P95 hodnoty</li>
+  <li>Test alert flow</li>
+</ul>
+
+<p><strong>Phase 3: Production (ongoing)</strong></p>
+<ul>
+  <li>Monitor false positive/negative rate</li>
+  <li>Monthly review a adjustace</li>
+  <li>Document všechny změny</li>
+</ul>
+
+<h2 id="testing-strategy">Testing Strategy</h2>
+
+<h3 id="unit-tests">Unit Tests</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Spustit všechny testy</span>
+<span class="nb">cd</span> /Users/patrickzandl/GitHub/marigold-page
+python <span class="nt">-m</span> pytest tests/test_health_check.py <span class="nt">-v</span>
+
+<span class="c"># Spustit konkrétní test class</span>
+python <span class="nt">-m</span> pytest tests/test_health_check.py::TestLanguageDetection <span class="nt">-v</span>
+
+<span class="c"># Test coverage</span>
+python <span class="nt">-m</span> pytest tests/test_health_check.py <span class="nt">--cov</span><span class="o">=</span>scripts/tech_news_health_check
+</code></pre></div></div>
+
+<p><strong>Test Coverage:</strong></p>
+<ul>
+  <li>✅ Language detection (czech, english, mixed, edge cases)</li>
+  <li>✅ Article parsing (valid, invalid YAML, missing front matter)</li>
+  <li>✅ Date parsing (multiple formats)</li>
+  <li>✅ Freshness checks (OK, WARNING scenarios)</li>
+  <li>✅ Language quality checks (all czech, too much english)</li>
+  <li>✅ Content quality metrics</li>
+  <li>✅ Front matter validation</li>
+  <li>✅ Overall status calculation</li>
+  <li>✅ Alert generation</li>
+  <li>✅ JSON output</li>
+  <li>✅ Edge cases (empty dir, nonexistent path, large content)</li>
+</ul>
+
+<h3 id="integration-tests">Integration Tests</h3>
+
+<p><strong>Manual Test Procedure:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Lokální health check</span>
+python scripts/tech_news_health_check.py <span class="nt">--output</span> _data/tech_news_health.json
+
+<span class="c"># 2. Zkontrolovat výstup</span>
+<span class="nb">cat </span>_data/tech_news_health.json | jq <span class="nb">.</span>
+
+<span class="c"># 3. Build Jekyll</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># 4. Test JSON endpoint</span>
+<span class="nb">cat </span>_site/health-check/index.html | jq <span class="nb">.</span>
+
+<span class="c"># 5. Test HTML dashboard (otevřít v browseru)</span>
+open _site/health-status/index.html
+
+<span class="c"># 6. Simulate failure (dočasně změnit threshold)</span>
+<span class="c"># Editovat tech_news_health_check.py:</span>
+<span class="c">#   'min_czech_ratio': 1.0  # Nerealisticky vysoký</span>
+<span class="c"># Re-run a ověřit CRITICAL status</span>
+</code></pre></div></div>
+
+<h3 id="failure-simulation-tests">Failure Simulation Tests</h3>
+
+<p><strong>Test 1: LLM Translation Failure</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Dočasně disable OPENROUTER_API_KEY v workflow</span>
+<span class="c"># nebo nastavit na invalid value</span>
+<span class="c"># → Očekávání: CRITICAL alert, czech_ratio &lt; 0.85</span>
+</code></pre></div></div>
+
+<p><strong>Test 2: NewsAPI Failure</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Dočasně disable NEWS_API_KEY</span>
+<span class="c"># → Očekávání: CRITICAL alert, articles_24h = 0</span>
+</code></pre></div></div>
+
+<p><strong>Test 3: Stale Content</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Dočasně disable GitHub Actions schedule</span>
+<span class="c"># Počkat 7+ hodin</span>
+<span class="c"># → Očekávání: WARNING alert, newest_age_hours &gt; 6</span>
+</code></pre></div></div>
+
+<h2 id="monitoring-best-practices">Monitoring Best Practices</h2>
+
+<h3 id="daily-checks-automated">Daily Checks (Automated)</h3>
+
+<ul>
+  <li>✅ Uptimerobot emails pro CRITICAL alerts</li>
+  <li>✅ Auto-generated health data při každém build</li>
+  <li>✅ GitHub Actions workflow status notifications</li>
+</ul>
+
+<h3 id="weekly-review-manual---15-min">Weekly Review (Manual - 15 min)</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat Uptimerobot dashboard</span>
+<span class="c"># https://uptimerobot.com/dashboard</span>
+
+<span class="c"># 2. Review /health-status/ trendy</span>
+<span class="c"># https://marigold.cz/health-status/</span>
+
+<span class="c"># 3. Zkontrolovat GitHub Actions success rate</span>
+gh run list <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml <span class="nt">--limit</span> 50 | <span class="nb">grep</span> <span class="nt">-c</span> <span class="s2">"completed.*success"</span>
+
+<span class="c"># 4. Review alert history</span>
+<span class="c"># Zkontrolovat email inbox pro uptimerobot alerts</span>
+
+<span class="c"># 5. Check LLM costs (optional)</span>
+python scripts/generate_llm_cost_report.py <span class="nt">--summary-only</span>
+</code></pre></div></div>
+
+<h3 id="monthly-deep-dive-manual---1-hour">Monthly Deep Dive (Manual - 1 hour)</h3>
+
+<ol>
+  <li><strong>Metrics Analysis</strong>
+    <ul>
+      <li>Download month’s health data</li>
+      <li>Plot czech_ratio, articles_24h, avg_content_length trends</li>
+      <li>Identify anomalies or degradation patterns</li>
+    </ul>
+  </li>
+  <li><strong>Threshold Review</strong>
+    <ul>
+      <li>Analyze false positive/negative rate</li>
+      <li>Adjust thresholds if needed</li>
+      <li>Document changes in changelog</li>
+    </ul>
+  </li>
+  <li><strong>Test Coverage</strong>
+    <ul>
+      <li>Run full test suite</li>
+      <li>Add new tests for discovered edge cases</li>
+      <li>Update documentation</li>
+    </ul>
+  </li>
+  <li><strong>Incident Post-Mortems</strong>
+    <ul>
+      <li>Review všechny CRITICAL incidents</li>
+      <li>Root cause analysis</li>
+      <li>Preventive measures</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="troubleshooting-guide">Troubleshooting Guide</h2>
+
+<h3 id="problem-false-positive---alert-ale-vše-funguje">Problem: False Positive - Alert ale vše funguje</h3>
+
+<p><strong>Debug kroky:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat live JSON</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="nb">.</span>
+
+<span class="c"># 2. Zkontrolovat lokální health data</span>
+<span class="nb">cat </span>_data/tech_news_health.json | jq <span class="nb">.</span>
+
+<span class="c"># 3. Porovnat timestamp</span>
+<span class="c"># Pokud se liší → Jekyll build selhal nebo není deployed</span>
+
+<span class="c"># 4. Zkontrolovat poslední GitHub Actions run</span>
+gh run view <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml
+
+<span class="c"># 5. Zkontrolovat deployment status</span>
+gh workflow view pages-build-deployment
+</code></pre></div></div>
+
+<p><strong>Possible causes:</strong></p>
+<ul>
+  <li>Uptimerobot cache (rare)</li>
+  <li>Jekyll build failure → starý JSON deployed</li>
+  <li>Threshold příliš přísný</li>
+  <li>Network glitch (transient)</li>
+</ul>
+
+<h3 id="problem-false-negative---žádný-alert-ale-problém-existuje">Problem: False Negative - Žádný alert ale problém existuje</h3>
+
+<p><strong>Debug kroky:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat /health-status/ vizuálně</span>
+open https://marigold.cz/health-status/
+
+<span class="c"># 2. Zkontrolovat alerts array v JSON</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.alerts'</span>
+
+<span class="c"># 3. Zkontrolovat uptimerobot keyword configuration</span>
+<span class="c"># Je keyword matching správně nastavený?</span>
+
+<span class="c"># 4. Manual threshold test</span>
+python scripts/tech_news_health_check.py
+<span class="c"># Zkontrolovat console output pro expected alerts</span>
+</code></pre></div></div>
+
+<p><strong>Possible causes:</strong></p>
+<ul>
+  <li>Uptimerobot keyword příliš benevolentní</li>
+  <li>Threshold příliš tolerantní</li>
+  <li>Uptimerobot interval příliš dlouhý</li>
+  <li>Alert contact not configured</li>
+</ul>
+
+<h3 id="problem-články-v-angličtině-ale-žádný-alert">Problem: Články v angličtině ale žádný alert</h3>
+
+<p><strong>Diagnóza:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat czech_ratio metric</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.metrics.czech_ratio'</span>
+
+<span class="c"># 2. Zkontrolovat sample anglických článků</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.checks.language.english_articles_sample'</span>
+
+<span class="c"># 3. Manual language detection test</span>
+python3 <span class="o">&lt;&lt;</span> <span class="no">EOF</span><span class="sh">
+import sys
+sys.path.insert(0, 'scripts')
+from tech_news_health_check import TechNewsHealthCheck
+
+checker = TechNewsHealthCheck()
+score = checker._detect_language("Your test article text here")
+print(f"Language score: {score}")
+print(f"Classification: {'Czech' if score &gt; 0.5 else 'English'}")
+</span><span class="no">EOF
+</span></code></pre></div></div>
+
+<p><strong>Možné příčiny:</strong></p>
+<ol>
+  <li><strong>Language detection false negative</strong>
+    <ul>
+      <li>Text obsahuje některá česká slova → skóre &gt; 0.5</li>
+      <li>Řešení: Adjustovat CZECH_WORDS slovník nebo thresholdy</li>
+    </ul>
+  </li>
+  <li><strong>Threshold příliš nízký</strong>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">min_czech_ratio</code> = 0.85 ale actual = 0.87 (většinou angličtina)</li>
+      <li>Řešení: Zvýšit threshold na 0.95</li>
+    </ul>
+  </li>
+  <li><strong>Sample size příliš malý</strong>
+    <ul>
+      <li>Kontroluje se max 100 článků, anglické jsou starší</li>
+      <li>Řešení: Zvýšit sample size nebo kontrolovat nejnovější pouze</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="problem-health-check-script-selhává">Problem: Health check script selhává</h3>
+
+<p><strong>Debug kroky:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Spustit s verbose logging</span>
+python scripts/tech_news_health_check.py 2&gt;&amp;1 | <span class="nb">tee </span>health_check.log
+
+<span class="c"># 2. Zkontrolovat Python dependencies</span>
+pip list | <span class="nb">grep</span> <span class="nt">-E</span> <span class="s1">'yaml|requests|beautifulsoup4|python-dateutil'</span>
+
+<span class="c"># 3. Zkontrolovat _tech_news directory permissions</span>
+<span class="nb">ls</span> <span class="nt">-la</span> _tech_news/ | <span class="nb">head</span>
+
+<span class="c"># 4. Test s minimal dataset</span>
+<span class="nb">mkdir</span> /tmp/test_tech_news
+<span class="nb">cp </span>_tech_news/2025-11-<span class="k">*</span>.md /tmp/test_tech_news/
+python scripts/tech_news_health_check.py <span class="nt">--tech-news-dir</span> /tmp/test_tech_news
+
+<span class="c"># 5. Spustit unit tests</span>
+python <span class="nt">-m</span> pytest tests/test_health_check.py <span class="nt">-v</span>
+</code></pre></div></div>
+
+<h2 id="maintenance--updates">Maintenance &amp; Updates</h2>
+
+<h3 id="when-to-update-thresholds">When to Update Thresholds</h3>
+
+<p><strong>Indicators for threshold adjustments:</strong></p>
+
+<ol>
+  <li><strong>Too many false positives (&gt; 2/week)</strong>
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Loosen thresholds
+</span><span class="s">'min_articles_24h'</span><span class="p">:</span> <span class="mi">10</span> <span class="err">→</span> <span class="mi">8</span>
+<span class="s">'max_age_hours'</span><span class="p">:</span> <span class="mi">6</span> <span class="err">→</span> <span class="mi">8</span>
+<span class="s">'min_czech_ratio'</span><span class="p">:</span> <span class="mf">0.85</span> <span class="err">→</span> <span class="mf">0.80</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>False negatives (missed real issues)</strong>
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Tighten thresholds
+</span><span class="s">'min_czech_ratio'</span><span class="p">:</span> <span class="mf">0.85</span> <span class="err">→</span> <span class="mf">0.90</span>
+<span class="s">'max_age_hours'</span><span class="p">:</span> <span class="mi">6</span> <span class="err">→</span> <span class="mi">4</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Seasonal patterns (weekends, holidays)</strong>
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Consider time-based thresholds
+</span><span class="k">if</span> <span class="n">is_weekend</span><span class="p">():</span>
+    <span class="s">'min_articles_24h'</span><span class="p">:</span> <span class="mi">5</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="s">'min_articles_24h'</span><span class="p">:</span> <span class="mi">10</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h3 id="when-to-add-new-checks">When to Add New Checks</h3>
+
+<p><strong>Indicators:</strong></p>
+
+<ol>
+  <li><strong>Recurring manual investigations</strong>
+    <ul>
+      <li>Pokud opakovaně manuálně kontrolujete stejnou věc</li>
+      <li>→ Automatizovat to jako nový check</li>
+    </ul>
+  </li>
+  <li><strong>New failure mode discovered</strong>
+    <ul>
+      <li>Incident post-mortem odhalil nový problém</li>
+      <li>→ Přidat check který by to detekoval</li>
+    </ul>
+  </li>
+  <li><strong>Quality regression</strong>
+    <ul>
+      <li>Kvalita obsahu klesá ale existing checks to nedetekují</li>
+      <li>→ Přidat nové quality metrics</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Example - přidání nového check:</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># V tech_news_health_check.py
+</span>
+<span class="k">def</span> <span class="nf">_check_duplicate_articles</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">articles</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="n">Dict</span><span class="p">]):</span>
+    <span class="s">"""Kontrola duplicitních článků"""</span>
+    <span class="n">logger</span><span class="p">.</span><span class="n">info</span><span class="p">(</span><span class="s">"🔍 Kontroluji duplicity..."</span><span class="p">)</span>
+
+    <span class="n">seen_urls</span> <span class="o">=</span> <span class="nb">set</span><span class="p">()</span>
+    <span class="n">duplicates</span> <span class="o">=</span> <span class="p">[]</span>
+
+    <span class="k">for</span> <span class="n">article</span> <span class="ow">in</span> <span class="n">articles</span><span class="p">:</span>
+        <span class="n">url</span> <span class="o">=</span> <span class="n">article</span><span class="p">[</span><span class="s">'front_matter'</span><span class="p">].</span><span class="n">get</span><span class="p">(</span><span class="s">'url'</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">url</span> <span class="ow">in</span> <span class="n">seen_urls</span><span class="p">:</span>
+            <span class="n">duplicates</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+        <span class="n">seen_urls</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+
+    <span class="n">duplicate_rate</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">duplicates</span><span class="p">)</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">articles</span><span class="p">)</span> <span class="k">if</span> <span class="n">articles</span> <span class="k">else</span> <span class="mi">0</span>
+
+    <span class="bp">self</span><span class="p">.</span><span class="n">results</span><span class="p">[</span><span class="s">'metrics'</span><span class="p">][</span><span class="s">'duplicate_rate'</span><span class="p">]</span> <span class="o">=</span> <span class="nb">round</span><span class="p">(</span><span class="n">duplicate_rate</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+    <span class="bp">self</span><span class="p">.</span><span class="n">results</span><span class="p">[</span><span class="s">'checks'</span><span class="p">][</span><span class="s">'duplicates'</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="s">'status'</span><span class="p">:</span> <span class="s">'CRITICAL'</span> <span class="k">if</span> <span class="n">duplicate_rate</span> <span class="o">&gt;</span> <span class="mf">0.05</span> <span class="k">else</span> <span class="s">'OK'</span><span class="p">,</span>
+        <span class="s">'duplicate_count'</span><span class="p">:</span> <span class="nb">len</span><span class="p">(</span><span class="n">duplicates</span><span class="p">),</span>
+        <span class="s">'duplicate_rate'</span><span class="p">:</span> <span class="nb">round</span><span class="p">(</span><span class="n">duplicate_rate</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+    <span class="p">}</span>
+
+    <span class="k">if</span> <span class="n">duplicate_rate</span> <span class="o">&gt;</span> <span class="mf">0.05</span><span class="p">:</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">_add_critical_alert</span><span class="p">(</span>
+            <span class="sa">f</span><span class="s">"Duplicitní články: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">duplicates</span><span class="p">)</span><span class="si">}</span><span class="s"> (</span><span class="si">{</span><span class="n">duplicate_rate</span><span class="o">*</span><span class="mi">100</span><span class="si">:</span><span class="p">.</span><span class="mi">1</span><span class="n">f</span><span class="si">}</span><span class="s">%)"</span>
+        <span class="p">)</span>
+
+<span class="c1"># Přidat do run_all_checks():
+</span><span class="k">def</span> <span class="nf">run_all_checks</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="c1"># ... existing checks ...
+</span>    <span class="bp">self</span><span class="p">.</span><span class="n">_check_duplicate_articles</span><span class="p">(</span><span class="n">articles</span><span class="p">)</span>
+    <span class="c1"># ...
+</span></code></pre></div></div>
+
+<h3 id="version-control--changelog">Version Control &amp; Changelog</h3>
+
+<p><strong>Důležité změny dokumentovat v:</strong></p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">docs/HEALTH_CHECK_SYSTEM.md</code> (tento soubor)</li>
+  <li>Git commit messages</li>
+  <li>GitHub releases/tags pro major updates</li>
+</ul>
+
+<p><strong>Changelog format:</strong></p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gu">## 2025-11-14 - Initial Release</span>
+<span class="p">-</span> ✨ Implementován základní health check systém
+<span class="p">-</span> ✅ Language detection (czech vs english)
+<span class="p">-</span> ✅ Freshness monitoring
+<span class="p">-</span> ✅ Content quality checks
+<span class="p">-</span> ✅ Front matter validation
+<span class="p">-</span> 📊 Uptimerobot integration
+
+<span class="gu">## 2025-11-XX - Update (example)</span>
+<span class="p">-</span> 🔧 Adjusted min_czech_ratio threshold: 0.85 → 0.90
+<span class="p">-</span> ✨ Added duplicate article detection
+<span class="p">-</span> 🐛 Fixed date parsing for timezone edge cases
+<span class="p">-</span> 📝 Updated Uptimerobot setup documentation
+</code></pre></div></div>
+
+<h2 id="odkazy-a-reference">Odkazy a Reference</h2>
+
+<h3 id="dokumentace">Dokumentace</h3>
+<ul>
+  <li><strong>Tento soubor:</strong> Kompletní systémová dokumentace</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">docs/UPTIMEROBOT_SETUP.md</code>:</strong> Detailní Uptimerobot konfigurace</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">CLAUDE.md</code>:</strong> Projekt-wide development guidelines</li>
+</ul>
+
+<h3 id="scripts">Scripts</h3>
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">scripts/tech_news_health_check.py</code>:</strong> Main health check script</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">tests/test_health_check.py</code>:</strong> Comprehensive test suite</li>
+</ul>
+
+<h3 id="endpoints">Endpoints</h3>
+<ul>
+  <li><strong>JSON:</strong> https://marigold.cz/health-check/</li>
+  <li><strong>HTML:</strong> https://marigold.cz/health-status/</li>
+</ul>
+
+<h3 id="external-services">External Services</h3>
+<ul>
+  <li><strong>Uptimerobot:</strong> https://uptimerobot.com/</li>
+  <li><strong>GitHub Actions:</strong> https://github.com/username/marigold-page/actions</li>
+  <li><strong>OpenRouter (LLM):</strong> https://openrouter.ai/</li>
+</ul>
+
+<h3 id="support">Support</h3>
+<ul>
+  <li><strong>Issues:</strong> GitHub Issues</li>
+  <li><strong>Email:</strong> váš@email.cz</li>
+</ul>
+
+<hr />
+
+<p><strong>Last Updated:</strong> 2025-11-14
+<strong>Version:</strong> 1.0.0
+<strong>Maintainer:</strong> Patrick Zandl</p>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

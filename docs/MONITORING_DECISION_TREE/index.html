@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Health Check Monitoring - Decision Tree | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Health Check Monitoring - Decision Tree" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/docs/MONITORING_DECISION_TREE/" />
+<meta property="og:url" content="https://www.marigold.cz/docs/MONITORING_DECISION_TREE/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Health Check Monitoring - Decision Tree" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Health Check Monitoring - Decision Tree","url":"https://www.marigold.cz/docs/MONITORING_DECISION_TREE/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Health Check Monitoring - Decision Tree" />
+    <meta property="twitter:title" content="Health Check Monitoring - Decision Tree" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/docs/MONITORING_DECISION_TREE/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Health Check Monitoring - Decision Tree</h1>
+
+  <div class="entry">
+    <h1 id="health-check-monitoring---decision-tree">Health Check Monitoring - Decision Tree</h1>
+
+<p>Rozhodovací strom pro diagnostiku a řešení problémů detekovaných health check systémem.</p>
+
+<h2 id="alert-decision-flow">Alert Decision Flow</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌─────────────────────────────────────┐
+│  Přijat Uptimerobot Alert          │
+└───────────────┬─────────────────────┘
+                │
+                ▼
+┌─────────────────────────────────────┐
+│  Otevřít /health-status/            │
+└───────────────┬─────────────────────┘
+                │
+                ▼
+        ┌───────┴───────┐
+        │  Status?      │
+        └───┬───────┬───┘
+            │       │
+     CRITICAL    WARNING/OK
+            │       │
+            ▼       ▼
+    ┌───────────┐  ┌──────────────┐
+    │  URGENTNÍ │  │  False       │
+    │  Akce     │  │  Positive?   │
+    └───────────┘  └──────────────┘
+</code></pre></div></div>
+
+<h2 id="critical-alert-flow">Critical Alert Flow</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Status: CRITICAL
+    ↓
+┌───────────────────────────────────────────────┐
+│  Zkontrolovat Alert Messages                 │
+└───────┬───────────────────────────────────────┘
+        │
+        ▼
+   ┌────┴────┐
+   │  Typ?   │
+   └─┬─────┬─┘
+     │     │
+     ▼     ▼
+  Language  Articles
+   Alert    Alert
+     │        │
+     ▼        ▼
+┌─────────────────────────┐  ┌──────────────────────────┐
+│ "Pouze X% článků        │  │ "Pouze X článků          │
+│  v češtině"             │  │  za 24h"                 │
+└────────┬────────────────┘  └────────┬─────────────────┘
+         │                             │
+         ▼                             ▼
+┌─────────────────────────┐  ┌──────────────────────────┐
+│ LLM Translation Failed  │  │ NewsAPI / Generation     │
+│                         │  │ Failed                   │
+│ Actions:                │  │                          │
+│ 1. Check OPENROUTER_KEY │  │ Actions:                 │
+│ 2. Check LLM API status │  │ 1. Check NEWS_API_KEY    │
+│ 3. Review GitHub logs   │  │ 2. Check GitHub Actions  │
+│ 4. Manual re-run if OK  │  │ 3. Manual trigger        │
+└─────────────────────────┘  └──────────────────────────┘
+</code></pre></div></div>
+
+<h2 id="warning-alert-flow">Warning Alert Flow</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Status: WARNING
+    ↓
+┌──────────────────────────────────┐
+│  Zkontrolovat Severity           │
+└────────┬─────────────────────────┘
+         │
+    ┌────┴────┐
+    │  Trend? │
+    └─┬─────┬─┘
+      │     │
+   Zhoršuje  Stable/Zlepšuje
+      │     │
+      ▼     ▼
+┌──────────────┐  ┌─────────────────┐
+│ Eskalovat    │  │ Monitor only    │
+│ na CRITICAL  │  │ Review týdně    │
+└──────────────┘  └─────────────────┘
+</code></pre></div></div>
+
+<h2 id="language-quality-decision-tree">Language Quality Decision Tree</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Czech Ratio &lt; 85%?
+    │
+    ▼
+┌────────────────────────────────────────┐
+│  Zkontrolovat English Articles Sample  │
+└───────┬────────────────────────────────┘
+        │
+   ┌────┴────┐
+   │ Pattern?│
+   └─┬─────┬─┘
+     │     │
+     ▼     ▼
+  All New  Random Mix
+  Articles
+     │        │
+     ▼        ▼
+┌─────────────────────┐  ┌──────────────────────┐
+│ Recent LLM Failure  │  │ Ongoing Partial      │
+│                     │  │ Failure              │
+│ Cause:              │  │                      │
+│ - API outage        │  │ Causes:              │
+│ - API key expired   │  │ - Rate limiting      │
+│ - Quota exceeded    │  │ - Cost limits        │
+│                     │  │ - Model degradation  │
+│ Fix:                │  │                      │
+│ 1. Check API status │  │ Fix:                 │
+│ 2. Verify API key   │  │ 1. Check quotas      │
+│ 3. Re-run workflow  │  │ 2. Check rate limits │
+│                     │  │ 3. Review LLM config │
+└─────────────────────┘  └──────────────────────┘
+</code></pre></div></div>
+
+<h2 id="freshness-problem-decision-tree">Freshness Problem Decision Tree</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Newest Article &gt; 6h old?
+    │
+    ▼
+┌──────────────────────────────────┐
+│  Zkontrolovat GitHub Actions     │
+└───────┬──────────────────────────┘
+        │
+   ┌────┴────┐
+   │ Status? │
+   └─┬─────┬─┘
+     │     │
+  Success  Failed
+     │        │
+     ▼        ▼
+┌────────────────────┐  ┌──────────────────────┐
+│ Schedule Problem   │  │ Workflow Failure     │
+│                    │  │                      │
+│ Možné příčiny:     │  │ Možné příčiny:       │
+│ - Cron disabled    │  │ - API keys invalid   │
+│ - Repo archived    │  │ - Dependencies error │
+│ - Workflow paused  │  │ - Syntax error       │
+│                    │  │ - Network timeout    │
+│ Fix:               │  │                      │
+│ 1. Check .yml      │  │ Fix:                 │
+│ 2. Manual trigger  │  │ 1. Review logs       │
+│ 3. Re-enable cron  │  │ 2. Fix error         │
+│                    │  │ 3. Re-run            │
+└────────────────────┘  └──────────────────────┘
+</code></pre></div></div>
+
+<h2 id="content-quality-decision-tree">Content Quality Decision Tree</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Avg Content Length &lt; 300?
+    │
+    ▼
+┌──────────────────────────────────┐
+│  Zkontrolovat Sample Articles    │
+└───────┬──────────────────────────┘
+        │
+   ┌────┴────┐
+   │ Pattern?│
+   └─┬─────┬─┘
+     │     │
+     ▼     ▼
+  All Short  Random
+  Content
+     │        │
+     ▼        ▼
+┌──────────────────────┐  ┌─────────────────────┐
+│ LLM Prompt Issue     │  │ Source Quality      │
+│                      │  │ Problem             │
+│ Možné příčiny:       │  │                     │
+│ - Prompt truncated   │  │ Možné příčiny:      │
+│ - Max tokens low     │  │ - NewsAPI sources   │
+│ - Model changed      │  │ - Snippet-only      │
+│                      │  │ - Paywall content   │
+│ Fix:                 │  │                     │
+│ 1. Review prompt     │  │ Fix:                │
+│ 2. Check token limit │  │ 1. Review sources   │
+│ 3. Test LLM params   │  │ 2. Adjust filters   │
+└──────────────────────┘  └─────────────────────┘
+</code></pre></div></div>
+
+<h2 id="response-time-matrix">Response Time Matrix</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Alert Level</th>
+      <th>Response Time</th>
+      <th>Escalation</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CRITICAL</strong></td>
+      <td>Immediate</td>
+      <td>1 hour</td>
+      <td>Requires manual intervention</td>
+    </tr>
+    <tr>
+      <td><strong>WARNING - Trend down</strong></td>
+      <td>4 hours</td>
+      <td>24 hours</td>
+      <td>Monitor closely</td>
+    </tr>
+    <tr>
+      <td><strong>WARNING - Stable</strong></td>
+      <td>24 hours</td>
+      <td>1 week</td>
+      <td>Review at weekly check</td>
+    </tr>
+    <tr>
+      <td><strong>INFO</strong></td>
+      <td>Next weekly review</td>
+      <td>N/A</td>
+      <td>Informational only</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="diagnostic-command-cheat-sheet">Diagnostic Command Cheat Sheet</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Quick Status Check</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.status, .summary'</span>
+
+<span class="c"># Full Health Data</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.'</span>
+
+<span class="c"># Check Specific Metric</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.metrics.czech_ratio'</span>
+
+<span class="c"># List All Alerts</span>
+curl <span class="nt">-s</span> https://marigold.cz/health-check/ | jq <span class="s1">'.alerts[]'</span>
+
+<span class="c"># GitHub Actions Status</span>
+gh run list <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml <span class="nt">--limit</span> 5
+
+<span class="c"># View Latest Run</span>
+gh run view <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml
+
+<span class="c"># View Logs of Latest Run</span>
+gh run view <span class="nt">--log</span> <span class="nt">--workflow</span><span class="o">=</span>tech-news.yml
+
+<span class="c"># Manual Trigger Workflow</span>
+gh workflow run tech-news.yml
+
+<span class="c"># Local Health Check</span>
+python3 scripts/tech_news_health_check.py
+
+<span class="c"># Test Specific Article Language</span>
+python3 <span class="o">&lt;&lt;</span> <span class="sh">'</span><span class="no">EOF</span><span class="sh">'
+import sys
+sys.path.insert(0, 'scripts')
+from tech_news_health_check import TechNewsHealthCheck
+checker = TechNewsHealthCheck()
+text = open('_tech_news/2025-11-14-example.md').read()
+score = checker._detect_language(text)
+print(f"Language score: {score} ({'Czech' if score &gt; 0.5 else 'English'})")
+</span><span class="no">EOF
+</span></code></pre></div></div>
+
+<h2 id="false-positive-handling">False Positive Handling</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>False Positive Alert
+    ↓
+┌──────────────────────────────────┐
+│  Verify Against /health-status/  │
+└───────┬──────────────────────────┘
+        │
+   ┌────┴────┐
+   │ Real    │
+   │ Problem?│
+   └─┬─────┬─┘
+     │     │
+    YES   NO
+     │     │
+     ▼     ▼
+┌───────────────┐  ┌──────────────────────┐
+│ Not False     │  │ True False Positive  │
+│ Positive      │  │                      │
+│               │  │ Možné příčiny:       │
+│ Follow        │  │ - Uptimerobot cache  │
+│ normal        │  │ - Stale data         │
+│ decision      │  │ - Threshold too      │
+│ tree          │  │   strict             │
+│               │  │                      │
+│               │  │ Actions:             │
+│               │  │ 1. Note in log       │
+│               │  │ 2. Consider adjust   │
+│               │  │    threshold         │
+│               │  │ 3. Wait for next     │
+│               │  │    check (5 min)     │
+└───────────────┘  └──────────────────────┘
+</code></pre></div></div>
+
+<h2 id="escalation-path">Escalation Path</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌─────────────────────┐
+│  CRITICAL Alert     │
+│  (Immediate)        │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│  Initial Response   │
+│  (&lt; 15 min)         │
+│  - Acknowledge      │
+│  - Quick diagnosis  │
+└──────────┬──────────┘
+           │
+           ▼
+   ┌───────┴────────┐
+   │  Can Fix       │
+   │  Quickly?      │
+   └───┬────────┬───┘
+       │        │
+      YES      NO
+       │        │
+       ▼        ▼
+┌──────────┐  ┌─────────────────┐
+│ Fix &amp;    │  │ Escalate to     │
+│ Verify   │  │ Team Lead       │
+│          │  │                 │
+│ &lt; 1 hour │  │ If unresolved   │
+│          │  │ after 2 hours → │
+│          │  │ Emergency       │
+│          │  │ manual run      │
+└──────────┘  └─────────────────┘
+</code></pre></div></div>
+
+<h2 id="priority-matrix">Priority Matrix</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Current</th>
+      <th>Threshold</th>
+      <th>Severity</th>
+      <th>Priority</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Czech Ratio</td>
+      <td>&lt; 50%</td>
+      <td>85%</td>
+      <td>CRITICAL</td>
+      <td>P0 (Immediate)</td>
+    </tr>
+    <tr>
+      <td>Czech Ratio</td>
+      <td>50-70%</td>
+      <td>85%</td>
+      <td>CRITICAL</td>
+      <td>P1 (&lt; 4h)</td>
+    </tr>
+    <tr>
+      <td>Czech Ratio</td>
+      <td>70-85%</td>
+      <td>85%</td>
+      <td>WARNING</td>
+      <td>P2 (&lt; 24h)</td>
+    </tr>
+    <tr>
+      <td>Articles 24h</td>
+      <td>0</td>
+      <td>10</td>
+      <td>CRITICAL</td>
+      <td>P0 (Immediate)</td>
+    </tr>
+    <tr>
+      <td>Articles 24h</td>
+      <td>1-5</td>
+      <td>10</td>
+      <td>WARNING</td>
+      <td>P1 (&lt; 4h)</td>
+    </tr>
+    <tr>
+      <td>Articles 24h</td>
+      <td>5-10</td>
+      <td>10</td>
+      <td>WARNING</td>
+      <td>P2 (&lt; 24h)</td>
+    </tr>
+    <tr>
+      <td>Newest Age</td>
+      <td>&gt; 24h</td>
+      <td>6h</td>
+      <td>CRITICAL</td>
+      <td>P1 (&lt; 4h)</td>
+    </tr>
+    <tr>
+      <td>Newest Age</td>
+      <td>12-24h</td>
+      <td>6h</td>
+      <td>WARNING</td>
+      <td>P2 (&lt; 24h)</td>
+    </tr>
+    <tr>
+      <td>Newest Age</td>
+      <td>6-12h</td>
+      <td>6h</td>
+      <td>WARNING</td>
+      <td>P3 (Monitor)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="preventive-actions">Preventive Actions</h2>
+
+<h3 id="daily-automated">Daily (Automated)</h3>
+<ul>
+  <li>✅ Uptimerobot monitoring running</li>
+  <li>✅ GitHub Actions scheduled runs</li>
+  <li>✅ Auto-generation of health data</li>
+</ul>
+
+<h3 id="weekly-15-min-manual">Weekly (15 min manual)</h3>
+<ul>
+  <li>Review health trends in <code class="language-plaintext highlighter-rouge">/health-status/</code></li>
+  <li>Check false positive/negative rate</li>
+  <li>Verify alert email delivery</li>
+  <li>Quick test of manual workflow trigger</li>
+</ul>
+
+<h3 id="monthly-1-hour-manual">Monthly (1 hour manual)</h3>
+<ul>
+  <li>Deep analysis of all metrics</li>
+  <li>Review and adjust thresholds</li>
+  <li>Update documentation</li>
+  <li>Post-mortem any incidents</li>
+  <li>Test disaster recovery procedure</li>
+</ul>
+
+<h3 id="quarterly-2-hours-manual">Quarterly (2 hours manual)</h3>
+<ul>
+  <li>Full system audit</li>
+  <li>Test all failure scenarios</li>
+  <li>Review and update alerting strategy</li>
+  <li>Team training on procedures</li>
+  <li>Backup and disaster recovery drill</li>
+</ul>
+
+<hr />
+
+<p><strong>Tips:</strong></p>
+<ul>
+  <li>🔍 Always verify against <code class="language-plaintext highlighter-rouge">/health-status/</code> before acting</li>
+  <li>📊 Check trends, not just single data points</li>
+  <li>⏱️ Consider time of day (weekends, holidays have lower traffic)</li>
+  <li>📝 Document all incidents for future threshold tuning</li>
+  <li>🧪 Test fixes in local environment before deploying</li>
+</ul>
+
+<p><strong>Quick Access:</strong></p>
+<ul>
+  <li>📊 Dashboard: https://marigold.cz/health-status/</li>
+  <li>🔧 Uptimerobot: https://uptimerobot.com/dashboard</li>
+  <li>🤖 GitHub Actions: https://github.com/username/marigold-page/actions</li>
+</ul>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
