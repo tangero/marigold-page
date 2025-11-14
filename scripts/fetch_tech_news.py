@@ -284,7 +284,7 @@ Překlad:"""
                     'X-Title': 'Marigold Tech News Translation'
                 },
                 json={
-                    'model': 'openrouter/polaris-alpha',
+                    'model': 'qwen/qwen3-max',
                     'messages': [{'role': 'user', 'content': prompt}],
                     'max_tokens': 200,
                     'temperature': 0.3

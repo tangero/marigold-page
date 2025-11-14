@@ -276,7 +276,7 @@ Vrať odpověď jako JSON array s překlady a vyhodnocením."""
                     "Content-Type": "application/json"
                 },
                 json={
-                    "model": "openrouter/polaris-alpha",
+                    "model": "qwen/qwen3-max",
                     "messages": [
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": user_prompt}
