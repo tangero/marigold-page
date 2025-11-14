@@ -177,7 +177,7 @@ DŮLEŽITÉ:
             }
 
             data = {
-                'model': 'openrouter/polaris-alpha',
+                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -462,7 +462,7 @@ DŮLEŽITÉ:
             }
 
             data = {
-                'model': 'openrouter/polaris-alpha',
+                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
@@ -536,7 +536,7 @@ Odpověz POUZE názvem kategorie, nic jiného."""
             }
 
             data = {
-                'model': 'openrouter/polaris-alpha',
+                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -604,7 +604,7 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'openrouter/polaris-alpha',
+                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -677,7 +677,7 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'openrouter/polaris-alpha',
+                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
