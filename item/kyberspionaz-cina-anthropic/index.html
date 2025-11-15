@@ -489,9 +489,13 @@ listopad
 
 <h2 id="architektura-útoku-a-orchestrační-vrstva">Architektura útoku a orchestrační vrstva</h2>
 
-<p>Útočníci vytvořili autonomní framework postavený na Claude Code a otevřeném standardu Model Context Protocol. Systém fungoval jako orchestrátor, který dekompozoval komplexní vícestupňové útoky na diskrétní technické úkoly pro Claude sub-agenty - skenování zranitelností, validaci přihlašovacích údajů, extrakci dat a laterální pohyb v síti. Každý z těchto úkolů vypadal při izolovaném vyhodnocení jako legitimní technická žádost.</p>
+<p>Útočníci vytvořili autonomní framework postavený na Claude Code (CC) a MCP (Model Context Protocol). Systém fungoval jako orchestrátor, který rozděloval komplexní vícestupňové útoky na jednodušší a izolované technické úkoly pro Claude sub-agenty, jako je skenování zranitelností, validaci přihlašovacích údajů, extrakci dat a laterální pohyb v síti. Každý z těchto úkolů vypadal při izolovaném vyhodnocení jako legitimní technická žádost, takže prošel přes obranné a etické mechanismy CC.</p>
 
-<p>Framework obsahoval několik specializovaných MCP serverů poskytujících rozhraní mezi Claude a různými kategoriemi nástrojů:</p>
+<p>A protože je celá událost jednak zatím ojedinělou referencí a nahlédnutím pod pokličku útoků řízených AI agenty a pak také hodně zajímavou záležitostí, pojďme se na to podívat podrobněji. Včera jsem si hrál s replikou takového útočného mechanismu a musím říct, že je velmi efektivní i při malém množství investovaného času, takže se dá očekávat, že podobných útoků bude přibývat.</p>
+
+<p>Jak se postupovalo?</p>
+
+<p>Framework obsahoval několik specializovaných MCP serverů poskytujících rozhraní mezi Claude Code a různými kategoriemi nástrojů:</p>
 <ul>
   <li>Server pro vzdálené spouštění příkazů na dedikovaných systémech pro penetrační testování</li>
   <li>Server pro automatizaci prohlížeče při průzkumu webových aplikací</li>
@@ -504,7 +508,7 @@ listopad
 
 <h2 id="sociální-inženýrství-ai-modelu">Sociální inženýrství AI modelu</h2>
 
-<p>Klíčovým prvkem úspěchu kampaně bylo obejití bezpečnostních opatření Claude. Útočníci použili roleplay techniku - vydávali se za zaměstnance legitimních kybernetických bezpečnostních firem a přesvědčili Claude, že je používán pro defenzivní bezpečnostní testování. Tato forma “sociálního inženýrství” AI modelu umožnila útočníkům operovat nezjištěni dostatečně dlouho k zahájení kampaně. Teprve dlouhodobá povaha útoku nakonec spustila detekční mechanismy.</p>
+<p>Klíčovým prvkem úspěchu kampaně bylo obejití bezpečnostních opatření Claude. Útočníci použili “roleplay techniku” - vydávali se za zaměstnance legitimních kybernetických bezpečnostních firem a přesvědčili Claude, že je používán pro defenzivní bezpečnostní testování. Tato forma “sociálního inženýrství” AI modelu umožnila útočníkům operovat nezjištěni dostatečně dlouho k zahájení kampaně. Teprve dlouhodobá povaha útoku nakonec spustila detekční mechanismy.</p>
 
 <h2 id="operační-tempo-a-míra-autonomie">Operační tempo a míra autonomie</h2>
 
@@ -531,7 +535,7 @@ listopad
 
 <p>V jednom z omezeného počtu případů úspěšného kompromisu útočníci přiměli Claude k autonomnímu objevení interních služeb, zmapování kompletní topologie sítě napříč více rozsahy IP adres a identifikaci vysoce hodnotných systémů včetně databází a orchestračních platforem workflow. Podobné autonomní enumerace probíhaly proti systémům dalších cílů, přičemž AI nezávisle katalogizovala stovky objevených služeb a koncových bodů.</p>
 
-<p><strong>Role AI:</strong> Autonomní mapování útočné plochy, objevování služeb a identifikace zranitelností napříč více současnými cíli s minimální lidskou intervencí.</p>
+<p><strong>Role AI:</strong> Autonomní mapování cíle a jeho operačního prostředí, objevování služeb a identifikace zranitelností napříč více současnými cíli s minimální lidskou intervencí.</p>
 
 <h3 id="fáze-3-objevování-a-validace-zranitelností">Fáze 3: Objevování a validace zranitelností</h3>
 
@@ -685,10 +689,10 @@ listopad
           
             <tr>
               <td>
-                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
                 <p class="excerpt">
                   
-                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
                   
                 </p>
               </td>
@@ -696,10 +700,10 @@ listopad
           
             <tr>
               <td>
-                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
+                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
                 <p class="excerpt">
                   
-                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
+                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
                   
                 </p>
               </td>
