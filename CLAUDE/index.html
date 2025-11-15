@@ -209,122 +209,664 @@
   <div class="entry">
     <h1 id="claudemd---agent-guide-for-marigoldcz">CLAUDE.md - Agent Guide for Marigold.cz</h1>
 
-<h2 id="commands">Commands</h2>
+<blockquote>
+  <p><strong>Komplexní průvodce pro práci s projektem Marigold.cz</strong>
+Verze: 2.0 | Poslední aktualizace: 2025-11-15</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-obsah">📋 Obsah</h2>
+
+<ol>
+  <li><a href="#projekt-overview">Projekt Overview</a></li>
+  <li><a href="#struktura-projektu">Struktura Projektu</a></li>
+  <li><a href="#rozdíl-_posts-vs-_tech_news">Rozdíl: _posts vs _tech_news</a></li>
+  <li><a href="#build-commands">Build Commands</a></li>
+  <li><a href="#tech-news-systém">Tech-News Systém</a></li>
+  <li><a href="#audio-content">Audio Content</a></li>
+  <li><a href="#changelogmd---povinné">CHANGELOG.md - POVINNÉ</a></li>
+  <li><a href="#coding-conventions">Coding Conventions</a></li>
+  <li><a href="#deployment">Deployment</a></li>
+</ol>
+
+<hr />
+
+<h2 id="projekt-overview">Projekt Overview</h2>
+
+<p><strong>Marigold.cz</strong> je Jekyll-based web zaměřený na technologie, AI a mobilní sítě. Kombinuje:</p>
 <ul>
-  <li>Development: <code class="language-plaintext highlighter-rouge">jekyll serve --livereload</code> (spouští Jekyll server s automatickým obnovením)</li>
-  <li>Build: <code class="language-plaintext highlighter-rouge">jekyll build</code> (produkce) nebo <code class="language-plaintext highlighter-rouge">jekyll build --drafts</code> (vývoj)</li>
-  <li>Test: <code class="language-plaintext highlighter-rouge">pytest</code> nebo <code class="language-plaintext highlighter-rouge">python -m unittest discover</code></li>
-  <li>Test single file: <code class="language-plaintext highlighter-rouge">pytest tests/path/to/test.py</code> nebo <code class="language-plaintext highlighter-rouge">python -m unittest tests.path.to.test</code></li>
-  <li>Code style: <code class="language-plaintext highlighter-rouge">black .</code> (formátování Python kódu) a <code class="language-plaintext highlighter-rouge">pylint</code> (statická analýza kódu)</li>
+  <li>📝 <strong>Ruční blog posty</strong> - dlouhodobé, editované články (_posts)</li>
+  <li>📰 <strong>Automatické tech-news</strong> - denně generované zprávy z NewsAPI (_tech_news)</li>
+  <li>🤖 <strong>AI kolekce</strong> - specializovaný obsah o umělé inteligenci (_ai)</li>
+  <li>📱 <strong>Mobilní sítě</strong> - články o telekomunikacích (_mobilnisite)</li>
+  <li>🖼️ <strong>Obrazy</strong> - vizuální galerie (_obrazy)</li>
 </ul>
 
-<h2 id="python-code-conventions">Python Code Conventions</h2>
-<ul>
-  <li><strong>Python</strong>: Dodržujte PEP 8, používejte Black formátování, správné typové anotace (<code class="language-plaintext highlighter-rouge">str</code>, <code class="language-plaintext highlighter-rouge">int</code>, <code class="language-plaintext highlighter-rouge">List[str]</code>, atd.)</li>
-  <li><strong>Moduly</strong>: Používejte typované funkce, dokumentujte pomocí docstringů s návratovými typy</li>
-  <li><strong>Třídy</strong>: Používejte dataclasses pro datové struktury, @property pro gettery</li>
-  <li><strong>API</strong>: Preferujte FastAPI pro REST API, Pydantic pro validaci dat</li>
-  <li><strong>Asynchronní kód</strong>: Využívejte async/await vzory pro I/O operace, nikoli threading</li>
-  <li><strong>Importy</strong>: Organizujte importy s isort, standardní knihovny první, třetí strany druhé, vlastní moduly třetí</li>
-</ul>
-
-<h2 id="jekyll-patterns">Jekyll Patterns</h2>
-<ul>
-  <li>Používejte Liquid šablonování konzistentně, vždy s mezerami: <code class="language-plaintext highlighter-rouge">nikoliv</code></li>
-  <li>Preferujte kolekce před jednotlivými stránkami pro související obsah</li>
-  <li>Používejte front matter důsledně pro metadata stránek</li>
-  <li>Struktura _layouts, _includes a _data adresářů by měla být logicky organizovaná</li>
-  <li>CSS implementujte přes Sass (.scss soubory) v _sass adresáři</li>
-  <li>Využívejte Jekyll pluginy pouze pokud jsou podporovány GitHub Pages</li>
-</ul>
-
-<h2 id="yaml-conventions">YAML Conventions</h2>
-<ul>
-  <li>Používejte 2 mezery pro odsazení, nikoli tabulátory</li>
-  <li>Složité datové struktury umisťujte do samostatných souborů v _data adresáři</li>
-  <li>Používejte pomlčku a mezeru <code class="language-plaintext highlighter-rouge">- item</code> pro položky seznamu, ne samotnou pomlčku</li>
-  <li>Dlouhé řetězce zapisujte pomocí blokového stylu <code class="language-plaintext highlighter-rouge">|</code> pro zachování nových řádků</li>
-  <li>Používejte explicitní YAML typy kde je to potřeba (např. !!str, !!int)</li>
-  <li>Vyhněte se používání speciálních znaků v klíčích, používejte snake_case</li>
-  <li>Komentáře začínejte znakem # a mezerou: <code class="language-plaintext highlighter-rouge"># Komentář</code></li>
-</ul>
-
-<h2 id="python-best-practices">Python Best Practices</h2>
-<ul>
-  <li>Preferujte generátory a iterátory před vytváření velkých seznamů v paměti</li>
-  <li>Používejte kontextové manažery (<code class="language-plaintext highlighter-rouge">with</code> statement) pro správu zdrojů</li>
-  <li>Implementujte logování místo print() pro debugování</li>
-  <li>Používejte virtuální prostředí (venv nebo poetry) pro správu závislostí</li>
-  <li>Testujte kód pomocí pytest s alespoň 80% pokrytím</li>
-  <li>Zpracovávejte výjimky specificky, ne <code class="language-plaintext highlighter-rouge">except Exception:</code></li>
-  <li>Pro webové aplikace implementujte správné CORS a bezpečnostní hlavičky</li>
-</ul>
-
-<h2 id="build-commands">Build Commands</h2>
-<ul>
-  <li><code class="language-plaintext highlighter-rouge">bundle install</code> - Install dependencies</li>
-  <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> - Run local development server</li>
-  <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll build</code> - Build site for production</li>
-  <li><code class="language-plaintext highlighter-rouge">python generate_summaries.py</code> - Generate summaries for posts (requires DEEPSEEK_API_KEY)</li>
-</ul>
-
-<h2 id="llm-cost-monitoring">LLM Cost Monitoring</h2>
-<p>Pro sledování nákladů za OpenRouter API volání:</p>
+<h3 id="klíčové-technologie">Klíčové Technologie</h3>
 
 <ul>
-  <li><strong>Cost Tracker</strong>: <code class="language-plaintext highlighter-rouge">scripts/llm_cost_tracker.py</code> - automaticky loguje všechna API volání
-    <ul>
-      <li>Ukládá data do SQLite databáze: <code class="language-plaintext highlighter-rouge">_data/llm_costs.db</code></li>
-      <li>Sleduje tokeny, ceny, časy odpovědí a chyby</li>
-      <li>Integrováno do <code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code></li>
-    </ul>
-  </li>
-  <li><strong>Reporting</strong>: <code class="language-plaintext highlighter-rouge">python3 scripts/generate_llm_cost_report.py</code>
-    <ul>
-      <li><code class="language-plaintext highlighter-rouge">--summary-only</code> - Jen konzolový výpis statistik</li>
-      <li><code class="language-plaintext highlighter-rouge">--output FILE</code> - Název výstupního Markdown souboru</li>
-      <li><code class="language-plaintext highlighter-rouge">--db PATH</code> - Vlastní cesta k databázi</li>
-      <li>Generuje přehledy: denní, týdenní, měsíční</li>
-      <li>Výstup: <code class="language-plaintext highlighter-rouge">_data/llm_costs_report.md</code></li>
-    </ul>
-  </li>
+  <li><strong>Jekyll 3.10.0</strong> - Static site generator</li>
+  <li><strong>Python 3.11+</strong> - Skripty pro automatizaci</li>
+  <li><strong>OpenRouter API</strong> - LLM překlady (qwen/qwen3-max)</li>
+  <li><strong>NewsAPI</strong> - Zdroj tech-news</li>
+  <li><strong>GitHub Actions</strong> - CI/CD automatizace</li>
+  <li><strong>GitHub Pages</strong> - Hosting</li>
 </ul>
 
-<p>Příklady použití:</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zobrazit summary v konzoli</span>
-python3 scripts/generate_llm_cost_report.py <span class="nt">--summary-only</span>
+<hr />
 
-<span class="c"># Vygenerovat plný Markdown report</span>
-python3 scripts/generate_llm_cost_report.py
+<h2 id="struktura-projektu">Struktura Projektu</h2>
 
-<span class="c"># Vlastní výstupní soubor</span>
-python3 scripts/generate_llm_cost_report.py <span class="nt">--output</span> costs_<span class="si">$(</span><span class="nb">date</span> +%Y%m<span class="si">)</span>.md
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>marigold-page/
+├── _posts/              # 📝 Ruční blog posty (hlavní obsah)
+├── _tech_news/          # 📰 Automatické tech-news články (3000+ souborů)
+├── _ai/                 # 🤖 AI kolekce
+├── _mobilnisite/        # 📱 Mobilní sítě kolekce
+├── _obrazy/             # 🖼️ Obrazy kolekce
+├── _pages/              # 📄 Statické stránky
+├── _layouts/            # 🎨 Jekyll layouts
+├── _includes/           # 🧩 Reusable components
+├── _data/               # 💾 Data files (YAML, JSON)
+├── _sass/               # 🎨 SCSS styles
+├── scripts/             # 🐍 Python automatizační skripty
+│   ├── generate_tech_news_newsapi.py      # Hlavní tech-news generátor
+│   ├── llm_cost_tracker.py                # LLM cost monitoring
+│   ├── tech_news_health_check.py          # Health check systém
+│   └── ...
+├── tests/               # 🧪 Test suite
+├── docs/                # 📚 Dokumentace
+├── .github/workflows/   # ⚙️ GitHub Actions
+├── CHANGELOG.md         # 📋 Change log (POVINNÝ!)
+└── CLAUDE.md            # 📖 Tento soubor
 </code></pre></div></div>
 
-<h2 id="project-structure">Project Structure</h2>
+<hr />
+
+<h2 id="rozdíl-_posts-vs-_tech_news">Rozdíl: _posts vs _tech_news</h2>
+
+<h3 id="-_posts---ruční-blog-posty">📝 <code class="language-plaintext highlighter-rouge">_posts/</code> - Ruční Blog Posty</h3>
+
+<p><strong>Účel</strong>: Dlouhodobý, pečlivě editovaný obsah, který vytvářejí lidé.</p>
+
+<p><strong>Charakteristika</strong>:</p>
 <ul>
-  <li><code class="language-plaintext highlighter-rouge">_posts/</code> - Blog posts (format: YYYY-MM-DD-title.md)</li>
-  <li><code class="language-plaintext highlighter-rouge">_ai/</code>, <code class="language-plaintext highlighter-rouge">_mobilnisite/</code>, <code class="language-plaintext highlighter-rouge">_obrazy/</code> - Collection content</li>
-  <li><code class="language-plaintext highlighter-rouge">_pages/</code> - Static pages</li>
-  <li><code class="language-plaintext highlighter-rouge">assets/</code>, <code class="language-plaintext highlighter-rouge">images/</code> - Media files</li>
+  <li>✍️ Ručně psané nebo AI-asistované</li>
+  <li>📅 Nižší frekvence (týdny/měsíce)</li>
+  <li>🎯 Hloubková analýza, tutoriály, názory</li>
+  <li>🔧 Vyžaduje manuální edit a schválení</li>
+  <li>📝 Markdown formát s bohatým front matter</li>
 </ul>
 
-<h2 id="style-guidelines">Style Guidelines</h2>
+<p><strong>Formát souboru</strong>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_posts/YYYY-MM-DD-title.md
+</code></pre></div></div>
+
+<p><strong>Front Matter Příklad</strong>:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Jak</span><span class="nv"> </span><span class="s">funguje</span><span class="nv"> </span><span class="s">5G</span><span class="nv"> </span><span class="s">standalone"</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2025-11-15 14:30:00</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">mobilnisite</span><span class="pi">,</span> <span class="nv">technologie</span><span class="pi">]</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">5G</span><span class="pi">,</span> <span class="nv">telekomunikace</span><span class="pi">]</span>
+<span class="na">author</span><span class="pi">:</span> <span class="s">Patrick Zandl</span>
+<span class="na">summary_points</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">Standalone 5G nepotřebuje 4G infrastrukturu</span>
+  <span class="pi">-</span> <span class="s">Nižší latence než NSA varianta</span>
+  <span class="pi">-</span> <span class="s">Vyšší náklady na deployment</span>
+<span class="na">image</span><span class="pi">:</span> <span class="s">/images/5g-standalone.jpg</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong>Permalink</strong>: <code class="language-plaintext highlighter-rouge">/item/:title/</code></p>
+
+<p><strong>Kdy použít</strong>:</p>
 <ul>
-  <li><strong>Markdown</strong>: Use GitHub Flavored Markdown</li>
-  <li><strong>Frontmatter</strong>: Include title, summary_points, categories as needed</li>
-  <li><strong>Image paths</strong>: Use absolute paths from root (e.g., <code class="language-plaintext highlighter-rouge">/images/example.jpg</code>)</li>
-  <li><strong>Code blocks</strong>: Use triple backticks with language specified</li>
-  <li><strong>Czech language</strong>: Primary content language is Czech</li>
-  <li><strong>Error handling</strong>: Use try/except blocks with specific error messages in Python code</li>
+  <li>Tutoriály a návody</li>
+  <li>Hloubkové analýzy</li>
+  <li>Názorové články</li>
+  <li>Recenze produktů</li>
+  <li>Dlouhodobě relevantní obsah</li>
 </ul>
 
-<h2 id="content-formatting">Content Formatting</h2>
+<hr />
+
+<h3 id="-_tech_news---automatické-tech-news">📰 <code class="language-plaintext highlighter-rouge">_tech_news/</code> - Automatické Tech-News</h3>
+
+<p><strong>Účel</strong>: Aktuální technologické zprávy, automaticky stahované, překládané a publikované.</p>
+
+<p><strong>Charakteristika</strong>:</p>
 <ul>
-  <li>Keep paragraphs concise and focused</li>
-  <li>Use proper hierarchical heading structure (h2, h3, etc.)</li>
-  <li>Maintain consistent voice throughout content</li>
+  <li>🤖 Plně automatizované (NewsAPI → LLM překlad → Jekyll)</li>
+  <li>⚡ Vysoká frekvence (každé 4 hodiny via GitHub Actions)</li>
+  <li>🌍 Přeloženo z angličtiny do češtiny</li>
+  <li>📊 Hodnocení důležitosti (1-5 hvězdiček)</li>
+  <li>🔄 Krátkodobě relevantní (dny/týdny)</li>
 </ul>
+
+<p><strong>Formát souboru</strong>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_tech_news/YYYY-MM-DD-slug.md
+</code></pre></div></div>
+
+<p><strong>Front Matter Příklad</strong>:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">tech_news_article</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Apple</span><span class="nv"> </span><span class="s">představil</span><span class="nv"> </span><span class="s">iPhone</span><span class="nv"> </span><span class="s">17</span><span class="nv"> </span><span class="s">Pro"</span>
+<span class="na">original_title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Apple</span><span class="nv"> </span><span class="s">Announces</span><span class="nv"> </span><span class="s">iPhone</span><span class="nv"> </span><span class="s">17</span><span class="nv"> </span><span class="s">Pro"</span>
+<span class="na">slug</span><span class="pi">:</span> <span class="s">apple-predstavil-iphone-17-pro</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Apple</span><span class="nv"> </span><span class="s">dnes</span><span class="nv"> </span><span class="s">oficiálně</span><span class="nv"> </span><span class="s">odhalil</span><span class="nv"> </span><span class="s">iPhone</span><span class="nv"> </span><span class="s">17</span><span class="nv"> </span><span class="s">Pro..."</span>
+<span class="na">publishedAt</span><span class="pi">:</span> <span class="s1">'</span><span class="s">2025-11-15T14:30:00+00:00'</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s1">'</span><span class="s">2025-11-15</span><span class="nv"> </span><span class="s">14:30:00'</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s">https://techcrunch.com/...</span>
+<span class="na">category</span><span class="pi">:</span> <span class="s">hardware</span>
+<span class="na">importance</span><span class="pi">:</span> <span class="m">4</span>
+<span class="na">source</span><span class="pi">:</span>
+  <span class="na">emoji</span><span class="pi">:</span> <span class="s">🚀</span>
+  <span class="na">name</span><span class="pi">:</span> <span class="s">TechCrunch</span>
+<span class="na">companies</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">Apple</span>
+<span class="na">urlToImage</span><span class="pi">:</span> <span class="s">https://...</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong>Permalink</strong>: <code class="language-plaintext highlighter-rouge">/tech-news/:year-:month-:day/:slug/</code></p>
+
+<p><strong>Generování</strong>:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Automaticky (GitHub Actions každé 4h)</span>
+python scripts/generate_tech_news_newsapi.py
+
+<span class="c"># Manuálně</span>
+python scripts/generate_tech_news_newsapi.py
+</code></pre></div></div>
+
+<p><strong>Kdy použít</strong>:</p>
+<ul>
+  <li>NIKDY ručně - je to automatický systém!</li>
+  <li>Nedotýkejte se souborů v <code class="language-plaintext highlighter-rouge">_tech_news/</code> ručně</li>
+  <li>Pro manuální tech články použijte <code class="language-plaintext highlighter-rouge">_posts/</code></li>
+</ul>
+
+<hr />
+
+<h3 id="-rozhodovací-strom">🎯 Rozhodovací Strom</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Chci přidat článek
+    │
+    ├─&gt; Je to časově citlivá zpráva o technologiích?
+    │       │
+    │       ├─&gt; ANO → Nechte to na automatizaci (_tech_news)
+    │       └─&gt; NE  → Pokračuj níže
+    │
+    └─&gt; Je to hloubková analýza/tutoriál/názor?
+            │
+            ├─&gt; ANO → _posts/ (ruční článek)
+            └─&gt; NE  → Zvažte, zda je to vůbec potřeba
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="build-commands">Build Commands</h2>
+
+<h3 id="vývoj">Vývoj</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Spustit lokální server s live reload</span>
+bundle <span class="nb">exec </span>jekyll serve <span class="nt">--livereload</span>
+
+<span class="c"># Spustit s draft posty</span>
+bundle <span class="nb">exec </span>jekyll serve <span class="nt">--drafts</span>
+
+<span class="c"># Build bez serveru</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># Build s drafty</span>
+bundle <span class="nb">exec </span>jekyll build <span class="nt">--drafts</span>
+</code></pre></div></div>
+
+<h3 id="tech-news-generování">Tech-News Generování</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Vygenerovat tech-news (vyžaduje NEWS_API_KEY a OPENROUTER_API_KEY)</span>
+python3 scripts/generate_tech_news_newsapi.py
+
+<span class="c"># Health check</span>
+python3 scripts/tech_news_health_check.py <span class="nt">--output</span> _data/tech_news_health.json
+
+<span class="c"># LLM cost report</span>
+python3 scripts/generate_llm_cost_report.py <span class="nt">--summary-only</span>
+</code></pre></div></div>
+
+<h3 id="testování">Testování</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Všechny testy</span>
+pytest
+
+<span class="c"># Konkrétní test soubor</span>
+pytest tests/test_health_check.py
+
+<span class="c"># S coverage</span>
+pytest <span class="nt">--cov</span><span class="o">=</span>scripts tests/
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="tech-news-systém">Tech-News Systém</h2>
+
+<h3 id="architektura">Architektura</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>NewsAPI → Python Script → LLM Translation (qwen/qwen3-max) → Jekyll Collection → GitHub Pages
+</code></pre></div></div>
+
+<h3 id="komponenty">Komponenty</h3>
+
+<ol>
+  <li><strong>Generator</strong>: <code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code>
+    <ul>
+      <li>Stahuje články z NewsAPI</li>
+      <li>Překládá do češtiny pomocí OpenRouter/qwen3-max</li>
+      <li>Detekuje důležitost (1-5)</li>
+      <li>Vytváří markdown soubory v <code class="language-plaintext highlighter-rouge">_tech_news/</code></li>
+    </ul>
+  </li>
+  <li><strong>Health Check</strong>: <code class="language-plaintext highlighter-rouge">scripts/tech_news_health_check.py</code>
+    <ul>
+      <li>Kontroluje čerstvost článků</li>
+      <li>Detekuje % článků v češtině</li>
+      <li>Validuje kvalitu obsahu</li>
+      <li>Generuje <code class="language-plaintext highlighter-rouge">_data/tech_news_health.json</code></li>
+    </ul>
+  </li>
+  <li><strong>Cost Tracker</strong>: <code class="language-plaintext highlighter-rouge">scripts/llm_cost_tracker.py</code>
+    <ul>
+      <li>Sleduje LLM API volání</li>
+      <li>Ukládá do <code class="language-plaintext highlighter-rouge">_data/llm_costs.db</code></li>
+      <li>Generuje reporty</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="layouts">Layouts</h3>
+
+<ul>
+  <li><strong>tech_news_article.html</strong> - Jednotlivé články (<code class="language-plaintext highlighter-rouge">/tech-news/YYYY-MM-DD/slug/</code>)</li>
+  <li><strong>tech_news_day.html</strong> - Denní přehledy (<code class="language-plaintext highlighter-rouge">/tech-news/YYYY-MM-DD/</code>)</li>
+  <li><strong>tech-news.html</strong> - Hlavní stránka (<code class="language-plaintext highlighter-rouge">/tech-news/</code>)</li>
+  <li><strong>tech-news-archiv.html</strong> - Archiv (<code class="language-plaintext highlighter-rouge">/tech-news/archiv/</code>)</li>
+</ul>
+
+<h3 id="monitoring">Monitoring</h3>
+
+<p><strong>Uptimerobot Setup</strong>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Type: HTTP(s) - Keyword
+URL: https://marigold.cz/health-check/
+Keyword: "status": "OK"
+Interval: 5 minutes
+Alert: Keyword NOT found for 2 consecutive checks
+</code></pre></div></div>
+
+<p><strong>Dokumentace</strong>: <code class="language-plaintext highlighter-rouge">docs/UPTIMEROBOT_SETUP.md</code></p>
+
+<hr />
+
+<h2 id="audio-content">Audio Content</h2>
+
+<h3 id="generování-audio">Generování Audio</h3>
+
+<p><strong>POZNÁMKA</strong>: Audio generování není aktuálně implementováno.</p>
+
+<p><strong>Plánovaná funkcionalita</strong>:</p>
+<ul>
+  <li>TTS (Text-to-Speech) pro články v <code class="language-plaintext highlighter-rouge">_posts/</code></li>
+  <li>Použití: OpenAI TTS API nebo ElevenLabs</li>
+  <li>Formát: MP3, uložené v <code class="language-plaintext highlighter-rouge">assets/audio/</code></li>
+  <li>Front matter: <code class="language-plaintext highlighter-rouge">audio_url: /assets/audio/2025-11-15-article.mp3</code></li>
+</ul>
+
+<p><strong>Implementace (TODO)</strong>:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Budoucí skript</span>
+python scripts/generate_audio.py <span class="nt">--post</span> _posts/2025-11-15-article.md
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="changelogmd---povinné">CHANGELOG.md - POVINNÉ</h2>
+
+<h3 id="-kritické-pravidlo">🚨 KRITICKÉ PRAVIDLO</h3>
+
+<p><strong>PO KAŽDÉM COMMITU DO GITHUBU MUSÍTE AKTUALIZOVAT <code class="language-plaintext highlighter-rouge">CHANGELOG.md</code>!</strong></p>
+
+<h3 id="formát">Formát</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gh"># Changelog</span>
+
+Všechny významné změny v projektu jsou dokumentovány v tomto souboru.
+
+Formát vychází z <span class="p">[</span><span class="nv">Keep a Changelog</span><span class="p">](</span><span class="sx">https://keepachangelog.com/cs/1.0.0/</span><span class="p">)</span>,
+a projekt dodržuje <span class="p">[</span><span class="nv">Semantic Versioning</span><span class="p">](</span><span class="sx">https://semver.org/lang/cs/</span><span class="p">)</span>.
+
+<span class="gu">## [Unreleased]</span>
+
+<span class="gu">### Added</span>
+<span class="p">-</span> (čekající změny před příštím release)
+
+<span class="gu">## [X.Y.Z] - YYYY-MM-DD</span>
+
+<span class="gu">### Added</span>
+<span class="p">-</span> Nové funkce a vlastnosti
+
+<span class="gu">### Changed</span>
+<span class="p">-</span> Změny v existující funkcionalitě
+
+<span class="gu">### Deprecated</span>
+<span class="p">-</span> Brzy odstraněné funkce
+
+<span class="gu">### Removed</span>
+<span class="p">-</span> Nyní odstraněné funkce
+
+<span class="gu">### Fixed</span>
+<span class="p">-</span> Opravy bugů
+
+<span class="gu">### Security</span>
+<span class="p">-</span> Bezpečnostní záplaty
+</code></pre></div></div>
+
+<h3 id="verzování-semantic-versioning">Verzování (Semantic Versioning)</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>MAJOR.MINOR.PATCH  (např. 2.1.3)
+</code></pre></div></div>
+
+<ul>
+  <li><strong>MAJOR</strong> (X.0.0): Breaking changes, zásadní přepisy
+    <ul>
+      <li>Změna struktury projektu</li>
+      <li>Odstranění starých features</li>
+      <li>Nekompatibilní API změny</li>
+    </ul>
+  </li>
+  <li><strong>MINOR</strong> (x.Y.0): Nové funkce, zpětně kompatibilní
+    <ul>
+      <li>Nový tech-news health check systém</li>
+      <li>Nový layout nebo kolekce</li>
+      <li>Nové skripty</li>
+    </ul>
+  </li>
+  <li><strong>PATCH</strong> (x.y.Z): Bugfixy, drobné změny
+    <ul>
+      <li>Oprava permalinků</li>
+      <li>CSS tweaky</li>
+      <li>Dokumentace update</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="příklad-workflow">Příklad Workflow</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Provedení změn</span>
+git add _layouts/tech_news_day.html
+git add _pages/tech-news-archiv.html
+
+<span class="c"># 2. PŘED COMMITEM - Aktualizovat CHANGELOG.md</span>
+<span class="c"># Přidat pod ## [Unreleased] sekci:</span>
+
+<span class="c">### Fixed</span>
+- Opraveny permalinky v tech_news_day layoutu - články nyní vedou na interní stránky
+- Vytvořena archivní stránka /tech-news/archiv/ s přehledem po měsících
+
+<span class="c"># 3. Commit s odkazem na CHANGELOG</span>
+git commit <span class="nt">-m</span> <span class="s2">"Fix: Tech-news permalinky a archiv
+
+- Opraveny odkazy v tech_news_day.html na interní permalinky
+- Vytvořena archivní stránka /tech-news/archiv/
+- Detaily v CHANGELOG.md"</span>
+
+<span class="c"># 4. Push</span>
+git push
+
+<span class="c"># 5. Při vytváření release - přesunout [Unreleased] do [X.Y.Z]</span>
+</code></pre></div></div>
+
+<h3 id="ukázkový-changelogmd-entry">Ukázkový CHANGELOG.md Entry</h3>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gu">## [Unreleased]</span>
+
+<span class="gu">### Added</span>
+<span class="p">-</span> Archivní stránka <span class="sb">`/tech-news/archiv/`</span> s přehledem článků po měsících a dnech
+<span class="p">-</span> Health check systém pro monitoring tech-news generování
+
+<span class="gu">### Fixed</span>
+<span class="p">-</span> Permalinky v <span class="sb">`tech_news_day.html`</span> - články nyní vedou na <span class="sb">`/tech-news/YYYY-MM-DD/slug/`</span> místo externích URL
+<span class="p">-</span> Model pro tech-news aktualizován z <span class="sb">`openrouter/polaris-alpha`</span> na <span class="sb">`qwen/qwen3-max`</span>
+
+<span class="gu">### Changed</span>
+<span class="p">-</span> GitHub Actions workflow - health check je nyní non-blocking (|| true)
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="coding-conventions">Coding Conventions</h2>
+
+<h3 id="python-pep-8--black">Python (PEP 8 + Black)</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># ✅ SPRÁVNĚ
+</span><span class="k">def</span> <span class="nf">generate_tech_news</span><span class="p">(</span><span class="n">api_key</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">output_dir</span><span class="p">:</span> <span class="n">Path</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">bool</span><span class="p">:</span>
+    <span class="s">"""
+    Generuje tech-news články z NewsAPI.
+
+    Args:
+        api_key: NewsAPI klíč
+        output_dir: Výstupní adresář pro markdown soubory
+
+    Returns:
+        True pokud úspěšné, jinak False
+    """</span>
+    <span class="n">logger</span><span class="p">.</span><span class="n">info</span><span class="p">(</span><span class="sa">f</span><span class="s">"🚀 Spouštím generování do </span><span class="si">{</span><span class="n">output_dir</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">articles</span> <span class="o">=</span> <span class="n">fetch_articles</span><span class="p">(</span><span class="n">api_key</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">process_articles</span><span class="p">(</span><span class="n">articles</span><span class="p">,</span> <span class="n">output_dir</span><span class="p">)</span>
+    <span class="k">except</span> <span class="nb">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+        <span class="n">logger</span><span class="p">.</span><span class="n">error</span><span class="p">(</span><span class="sa">f</span><span class="s">"❌ Chyba: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="bp">False</span>
+
+<span class="c1"># ❌ ŠPATNĚ
+</span><span class="k">def</span> <span class="nf">gen</span><span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">o</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"Starting..."</span><span class="p">)</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">a</span><span class="o">=</span><span class="n">fetch</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">proc</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">o</span><span class="p">)</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">"Error"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="bp">False</span>
+</code></pre></div></div>
+
+<p><strong>Pravidla</strong>:</p>
+<ul>
+  <li>Type hints pro všechny funkce</li>
+  <li>Docstrings (Google style)</li>
+  <li>Logging místo print()</li>
+  <li>Specifické exception handling</li>
+  <li>Black formátování (<code class="language-plaintext highlighter-rouge">black .</code>)</li>
+  <li>Meaningful variable names</li>
+</ul>
+
+<h3 id="jekyllliquid">Jekyll/Liquid</h3>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+</code></pre></div></div>
+
+<h3 id="yaml-front-matter">YAML Front Matter</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># ✅ SPRÁVNĚ</span>
+<span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Článek</span><span class="nv"> </span><span class="s">s</span><span class="nv"> </span><span class="s">uvozovkami"</span>
+<span class="na">date</span><span class="pi">:</span> <span class="s">2025-11-15 14:30:00</span>
+<span class="na">categories</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">technologie</span>
+  <span class="pi">-</span> <span class="s">ai</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">5g</span><span class="pi">,</span> <span class="nv">mobilní sítě</span><span class="pi">]</span>
+<span class="na">summary_points</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">První bod se všemi detaily</span>
+  <span class="pi">-</span> <span class="s">Druhý bod také podrobný</span>
+<span class="nn">---</span>
+
+<span class="c1"># ❌ ŠPATNĚ</span>
+<span class="nn">---</span>
+<span class="s">layout:post</span>
+<span class="s">title:Článek bez uvozovek</span>
+<span class="s">date:2025-11-15</span>
+<span class="s">categories:[technologie,ai]</span>
+<span class="s">tags:5g,mobilní sítě</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="deployment">Deployment</h2>
+
+<h3 id="github-pages">GitHub Pages</h3>
+
+<p><strong>Automatický deployment</strong>:</p>
+<ol>
+  <li>Push do <code class="language-plaintext highlighter-rouge">main</code> větve</li>
+  <li>GitHub Actions build Jekyll</li>
+  <li>Deploy do GitHub Pages</li>
+  <li>Dostupné na <code class="language-plaintext highlighter-rouge">https://www.marigold.cz</code></li>
+</ol>
+
+<h3 id="github-actions-workflows">GitHub Actions Workflows</h3>
+
+<p><strong><code class="language-plaintext highlighter-rouge">.github/workflows/tech-news.yml</code></strong>:</p>
+<ul>
+  <li>Trigger: Každé 4 hodiny + manual</li>
+  <li>Kroky:
+    <ol>
+      <li>Checkout repo</li>
+      <li>Install Python dependencies</li>
+      <li>Generate tech-news (<code class="language-plaintext highlighter-rouge">generate_tech_news_newsapi.py</code>)</li>
+      <li>Optimize images</li>
+      <li>Generate manifest</li>
+      <li>Health check (non-blocking)</li>
+      <li>Commit změny</li>
+      <li>Push do <code class="language-plaintext highlighter-rouge">main</code></li>
+    </ol>
+  </li>
+</ul>
+
+<h3 id="environment-variables-secrets">Environment Variables (Secrets)</h3>
+
+<p>Nastavené v GitHub repo settings:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>NEWS_API_KEY=sk-...           # NewsAPI klíč
+OPENROUTER_API_KEY=sk-...     # OpenRouter API pro LLM
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="quick-reference">Quick Reference</h2>
+
+<h3 id="časté-úkoly">Časté úkoly</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Nový blog post</span>
+<span class="nb">touch </span>_posts/<span class="si">$(</span><span class="nb">date</span> +%Y-%m-%d<span class="si">)</span><span class="nt">-title</span>.md
+
+<span class="c"># Lokální development</span>
+bundle <span class="nb">exec </span>jekyll serve <span class="nt">--livereload</span>
+
+<span class="c"># Vygenerovat tech-news</span>
+python3 scripts/generate_tech_news_newsapi.py
+
+<span class="c"># Health check</span>
+python3 scripts/tech_news_health_check.py <span class="nt">--output</span> _data/tech_news_health.json
+
+<span class="c"># LLM cost report</span>
+python3 scripts/generate_llm_cost_report.py <span class="nt">--summary-only</span>
+
+<span class="c"># Před commitem</span>
+<span class="c"># 1. Aktualizovat CHANGELOG.md</span>
+<span class="c"># 2. git add, commit, push</span>
+</code></pre></div></div>
+
+<h3 id="důležité-soubory">Důležité soubory</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_config.yml                              # Jekyll konfigurace
+CHANGELOG.md                             # Change log (POVINNÝ!)
+CLAUDE.md                                # Tento soubor
+_data/tech_news_sources.yaml            # Tech-news zdroje
+_data/tech_news_health.json              # Health status
+scripts/generate_tech_news_newsapi.py    # Tech-news generátor
+scripts/tech_news_health_check.py        # Health monitoring
+</code></pre></div></div>
+
+<h3 id="užitečné-odkazy">Užitečné odkazy</h3>
+
+<ul>
+  <li><strong>Živý web</strong>: https://www.marigold.cz</li>
+  <li><strong>Health status</strong>: https://www.marigold.cz/health-status/</li>
+  <li><strong>Health JSON</strong>: https://www.marigold.cz/health-check/</li>
+  <li><strong>Tech-news</strong>: https://www.marigold.cz/tech-news/</li>
+  <li><strong>Archiv</strong>: https://www.marigold.cz/tech-news/archiv/</li>
+</ul>
+
+<hr />
+
+<h2 id="troubleshooting">Troubleshooting</h2>
+
+<h3 id="tech-news-negeneruje-články">Tech-News negeneruje články</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Zkontrolovat API klíče</span>
+<span class="nb">echo</span> <span class="nv">$NEWS_API_KEY</span>
+<span class="nb">echo</span> <span class="nv">$OPENROUTER_API_KEY</span>
+
+<span class="c"># 2. Zkontrolovat health status</span>
+python3 scripts/tech_news_health_check.py <span class="nt">--output</span> _data/tech_news_health.json
+
+<span class="c"># 3. Zkontrolovat logy</span>
+<span class="nb">tail</span> <span class="nt">-f</span> _data/llm_costs.db
+</code></pre></div></div>
+
+<h3 id="jekyll-build-fails">Jekyll build fails</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Vyčistit cache</span>
+<span class="nb">rm</span> <span class="nt">-rf</span> _site .jekyll-cache
+
+<span class="c"># Reinstall dependencies</span>
+bundle <span class="nb">install</span>
+
+<span class="c"># Build s verbose</span>
+bundle <span class="nb">exec </span>jekyll build <span class="nt">--verbose</span> <span class="nt">--trace</span>
+</code></pre></div></div>
+
+<h3 id="permalinky-nefungují">Permalinky nefungují</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zkontrolovat _config.yml collections</span>
+<span class="nb">grep</span> <span class="nt">-A10</span> <span class="s2">"collections:"</span> _config.yml
+
+<span class="c"># Rebuild site</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># Zkontrolovat _site adresář</span>
+<span class="nb">ls</span> <span class="nt">-la</span> _site/tech-news/2025-11-15/
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="historie-verzí">Historie Verzí</h2>
+
+<ul>
+  <li><strong>2.0</strong> (2025-11-15): Přidán CHANGELOG requirement, audio info, rozšířená dokumentace</li>
+  <li><strong>1.0</strong> (2025-08-25): Initial verze</li>
+</ul>
+
+<hr />
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Konec dokumentace</strong></td>
+      <td>Pro dotazy: Aktualizujte CHANGELOG.md! 📋</td>
+    </tr>
+  </tbody>
+</table>
 
   </div>
 </article>
