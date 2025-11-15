@@ -1,7 +1,129 @@
 {
-  "generated": "2025-11-14T08:18:26.351243+00:00",
+  "generated": "2025-11-15T07:26:38.124375+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple spouští program pro miniaplikace a snižuje poplatky App Store na 15 %",
+      "description": "Apple představil nový program pro vývojáře miniaplikací, které běží uvnitř jiných aplikací, a snížil svůj standardní poplatek z 30 % na 15 %.",
+      "slug": "apple-launches-mini-apps-partner-program-halves-ap",
+      "publishedAt": "2025-11-14T00:16:36+00:00",
+      "date": "2025-11-14 00:16:36",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/apple-app-store-mini-apps-partner-program_8e328b.jpg?w=457",
+      "url": "/tech-news/2025-11-14/apple-launches-mini-apps-partner-program-halves-ap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Firefox přidává AI okno, uživatelé chtějí spíš AI zeď",
+      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox, která má umožnit interakci s asistentem umělé inteligence přímo během prohlížení webu. Komunita uživatelů však reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
+      "slug": "firefox-adds-ai-window-users-want-ai-wall-to-keep-",
+      "publishedAt": "2025-11-13T21:08:00+00:00",
+      "date": "2025-11-13 21:08:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg",
+      "url": "/tech-news/2025-11-13/firefox-adds-ai-window-users-want-ai-wall-to-keep-/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Mozilla",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "iOS 26.2 přidává nové nastavení pro CarPlay",
+      "description": "iOS 26 rozšířil funkci připnutých konverzací v aplikaci Zprávy i na CarPlay, nyní si uživatelé mohou zvolit, zda ji chtějí používat nebo ne.",
+      "slug": "ios-262-adds-new-carplay-setting-macrumors",
+      "publishedAt": "2025-11-13T14:48:21+00:00",
+      "date": "2025-11-13 14:48:21",
+      "importance": 3,
+      "category": "carplay",
+      "urlToImage": "https://images.macrumors.com/t/hMegQeZkHLO8aLxTcOQKOuWz5VY=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Dark.jpg",
+      "url": "/tech-news/2025-11-13/ios-262-adds-new-carplay-setting-macrumors/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "OnePlus 15 se v USA prodávat bude – jen ne hned",
+      "description": "OnePlus chystá prodej svého nejnovějšího vlajkového telefonu v USA, ale kvůli vládnímu shutdownu stále čeká na konečné schválení FCC.",
+      "slug": "the-oneplus-15-will-go-on-sale-in-the-us-sometime-",
+      "publishedAt": "2025-11-13T14:30:00+00:00",
+      "date": "2025-11-13 14:30:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0004.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "url": "/tech-news/2025-11-13/the-oneplus-15-will-go-on-sale-in-the-us-sometime-/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "OnePlus",
+        "FCC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google rozšiřuje AI nakupování: konverzační vyhledávání, autonomní pokladna a AI, která volá do obchodů",
+      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, autonomního procesu pokladny a nástroje, který zjišťuje dostupnost zboží v místních obchodech prostřednictvím telefonátu.",
+      "slug": "google-augments-ai-shopping-with-conversational-se",
+      "publishedAt": "2025-11-13T14:00:00+00:00",
+      "date": "2025-11-13 14:00:00",
+      "importance": 3,
+      "category": "ai nakupování",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/google-search-app-ios.jpg?resize=1200,644",
+      "url": "/tech-news/2025-11-13/google-augments-ai-shopping-with-conversational-se/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Messages konečně získává dlouho očekávanou funkci zmínek ve skupinových chatovacích konverzacích",
+      "description": "Aplikace Google Messages se chystá přidat podporu pro zmínky pomocí symbolu @ ve skupinových RCS chatovacích konverzacích, což je základní funkce, která doposud chyběla.",
+      "slug": "google-messages-is-gaining-this-long-overdue-group",
+      "publishedAt": "2025-11-13T08:29:00+00:00",
+      "date": "2025-11-13 08:29:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/01/google-messages-samsung-hero-jpg.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-13/google-messages-is-gaining-this-long-overdue-group/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica",
       "description": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
@@ -3371,26 +3493,6 @@
       "people": []
     },
     {
-      "title": "Levný MacBook v roce 2026: co Apple chystá proti Chromebookům a levným PC",
-      "description": "Apple podle dostupných informací připravuje na rok 2026 nový levnější MacBook pod úrovní MacBooku Air, zaměřený na nenáročné uživatele, vzdělávání a konkurenci vůči levným Chromebookům a Windows notebookům.",
-      "slug": "apples-cheap-macbook-what-to-expect-in-2026-macrum",
-      "publishedAt": "2025-11-07T23:36:04+00:00",
-      "date": "2025-11-07 23:36:04",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/i_G5IjfwuOjeHvRLFUncTt27s6o=/2026x/article-new/2025/07/A18-Pro-MacBook-Thumb.jpg",
-      "url": "/tech-news/2025-11-07/apples-cheap-macbook-what-to-expect-in-2026-macrum/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: sleva na Galaxy S25 Ultra a nabídky na Samsung TV a MacBook Air",
       "description": "Best Buy zahajuje druhý týden Black Friday Doorbusters s omezenými víkendovými slevami na klíčovou spotřební elektroniku včetně Galaxy S25 Ultra, OLED televizorů Samsung, herních headsetů a domácích spotřebičů, přičemž část nabídek je cenově podstřelována konkurencí jako Amazon.",
       "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
@@ -3467,24 +3569,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Unikátní obytný komplex na ikonické Staple Street v New Yorku míří na trh za 30 milionů dolarů",
-      "description": "Filmař Neil Burger a architektka Diana Kellogg prodávají své propojené městské sídlo v Tribecce, tvořené historickým měšťanským domem a studiem naproti přes uličku Staple Street, za zhruba 30 milionů dolarů.",
-      "slug": "an-uncommon-compound-on-one-of-nycs-most-photograp",
-      "publishedAt": "2025-11-07T18:59:00+00:00",
-      "date": "2025-11-07 18:59:00",
-      "importance": 1,
-      "category": "nemovitosti",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/newspress-collage-2oy7er45t-1762542989450.jpg?quality=75&strip=all&1762525060&w=1200",
-      "url": "/tech-news/2025-11-07/an-uncommon-compound-on-one-of-nycs-most-photograp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3843,26 +3927,6 @@
       "people": []
     },
     {
-      "title": "37 dárků pro lidi, kteří tvrdí, že „nic nechtějí“",
-      "description": "Výběr praktických a drobných dárků pro obdarované, kteří říkají, že nic nepotřebují – od organizérů na gauč přes domácí vychytávky až po komfortní a lifestyle produkty doporučené redaktory BuzzFeedu.",
-      "slug": "A-37-gifts-for-the-person-on-your-list-who-says-th",
-      "publishedAt": "2025-11-07T13:01:03+00:00",
-      "date": "2025-11-07 13:01:03",
-      "importance": 1,
-      "category": "e‑commerce",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/04/18/thumb/BQYFWzimp.jpg?crop=2999:1570;0,0%26downsize=1250:*",
-      "url": "/tech-news/2025-11-07/A-37-gifts-for-the-person-on-your-list-who-says-th/",
-      "source": {
-        "emoji": "📰",
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI spouští Sora aplikaci na Androidu: AI videoplatforma umožňuje vložit vlastní tvář i hlas",
       "description": "Nová aplikace Sora pro Android kombinuje krátká videa ve stylu TikToku s generativní AI a funkcí, která uživatelům umožňuje skenovat tvář i hlas a stát se hlavní postavou plně syntetických videí. Řešení je technicky působivé, ale vyvolává zásadní otázky ohledně identity, souhlasu a regulace deepfake obsahu.",
       "slug": "i-scanned-my-face-in-chatgpts-new-sora-app-and-the",
@@ -4011,27 +4075,6 @@
       "people": []
     },
     {
-      "title": "Apple snižuje výkupní ceny za iPhony, iPady, Macy a Apple Watch napříč celou nabídkou",
-      "description": "Apple aktualizoval tabulku výkupních hodnot pro použitá zařízení. Maximální částky klesly v průměru zhruba o pětinu, některé modely ztratily desítky až přes sto dolarů na hodnotě a část starších MacBooků již není možné vykoupit vůbec.",
-      "slug": "apple-lowers-maximum-trade-in-values-across-its-en",
-      "publishedAt": "2025-11-07T00:32:00+00:00",
-      "date": "2025-11-07 00:32:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/iphone-7-plus-trade-in-value.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/apple-lowers-maximum-trade-in-values-across-its-en/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "9to5Mac"
-      ],
-      "people": []
-    },
-    {
       "title": "IKEA představuje 21 chytrých zařízení s podporou Matter a Apple Home",
       "description": "IKEA uvede 21 nových produktů chytré domácnosti s podporou standardu Matter a Apple Home, včetně žárovek, senzorů, zásuvek a ovladačů, zaměřených na cenově dostupnou a interoperabilní chytrou domácnost.",
       "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
@@ -4071,48 +4114,6 @@
       "companies": [
         "Microsoft",
         "Decrypt"
-      ],
-      "people": []
-    },
-    {
-      "title": "YouTube rozšiřuje ověřování věku pomocí AI na další uživatele",
-      "description": "YouTube nasazuje druhou vlnu ověřování věku pomocí AI, která omezuje účty považované za nezletilé a nutí uživatele k dodatečné verifikaci pomocí dokladu, selfie analýzy nebo platební karty.",
-      "slug": "youtube-rolls-out-ai-age-verification-to-a-new-wav",
-      "publishedAt": "2025-11-06T14:45:00+00:00",
-      "date": "2025-11-06 14:45:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/youtube-ai-age-YoungMrBlue-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-06/youtube-rolls-out-ai-age-verification-to-a-new-wav/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "YouTube",
-        "Google",
-        "9to5Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Říjnová aktualizace Windows 10 a 11 nutí část uživatelů do BitLocker recovery",
-      "description": "Říjnový bezpečnostní balíček pro Windows 10 a Windows 11 u části zařízení neočekávaně aktivuje BitLocker recovery obrazovku a vyžaduje obnovovací klíč, což blokuje přístup k systému a odhaluje slabá místa v řízení šifrování disků a správě aktualizací.",
-      "slug": "windows-10-and-11-update-is-pushing-some-users-int",
-      "publishedAt": "2025-11-06T12:47:00+00:00",
-      "date": "2025-11-06 12:47:00",
-      "importance": 4,
-      "category": "bezpečnost",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/05/2024-05-08-image-12.jpg",
-      "url": "/tech-news/2025-11-06/windows-10-and-11-update-is-pushing-some-users-int/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TechSpot"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     }
