@@ -16,6 +16,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Rozsáhlá dokumentace pro health check systém (5 guidů v `docs/`)
 - Kompletní CLAUDE.md dokumentace s pokyny pro _posts vs _tech_news
 - Povinnost aktualizovat CHANGELOG.md po každém commitu
+- Archiv odkaz v headeru `/tech-news/` stránky - viditelný hned při načtení
 
 ### Fixed
 - Permalinky v `_layouts/tech_news_day.html` - články nyní vedou na interní stránky `/tech-news/YYYY-MM-DD/slug/` místo externích URL
@@ -25,10 +26,18 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - `scripts/generate_tech_news_with_images.py` (4 místa)
   - `scripts/fetch_tech_news_batch.py` (1 místo)
   - `scripts/fetch_tech_news.py` (1 místo)
+- URL v tech-news manifestu - odstraněn trailing dash ze slugu (`scripts/generate_tech_news_manifest.py`)
+  - Před: `/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab-/` (404)
+  - Po: `/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab/` (200)
 
 ### Changed
 - GitHub Actions workflow `.github/workflows/tech-news.yml` - health check je nyní non-blocking (`|| true`)
 - Health check přidán jako automatický krok do tech-news workflow
+- UI/UX redesign úvodní stránky `/tech-news/` - kompaktnější layout, archiv v headeru
+  - Odstraněn redundantní "18 nejnovějších článků" box (úspora ~120px)
+  - Zkrácený popis s přímým odkazem na archiv
+  - Zjednodušené filtry (odstranění filtru "Kritická" importance)
+  - Kompaktní badge s počtem článků místo celého navigation boxu
 
 ---
 

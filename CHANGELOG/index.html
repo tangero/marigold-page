@@ -226,6 +226,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
   <li>Rozsáhlá dokumentace pro health check systém (5 guidů v <code class="language-plaintext highlighter-rouge">docs/</code>)</li>
   <li>Kompletní CLAUDE.md dokumentace s pokyny pro _posts vs _tech_news</li>
   <li>Povinnost aktualizovat CHANGELOG.md po každém commitu</li>
+  <li>Archiv odkaz v headeru <code class="language-plaintext highlighter-rouge">/tech-news/</code> stránky - viditelný hned při načtení</li>
 </ul>
 
 <h3 id="fixed">Fixed</h3>
@@ -240,12 +241,26 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
       <li><code class="language-plaintext highlighter-rouge">scripts/fetch_tech_news.py</code> (1 místo)</li>
     </ul>
   </li>
+  <li>URL v tech-news manifestu - odstraněn trailing dash ze slugu (<code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_manifest.py</code>)
+    <ul>
+      <li>Před: <code class="language-plaintext highlighter-rouge">/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab-/</code> (404)</li>
+      <li>Po: <code class="language-plaintext highlighter-rouge">/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab/</code> (200)</li>
+    </ul>
+  </li>
 </ul>
 
 <h3 id="changed">Changed</h3>
 <ul>
   <li>GitHub Actions workflow <code class="language-plaintext highlighter-rouge">.github/workflows/tech-news.yml</code> - health check je nyní non-blocking (<code class="language-plaintext highlighter-rouge">|| true</code>)</li>
   <li>Health check přidán jako automatický krok do tech-news workflow</li>
+  <li>UI/UX redesign úvodní stránky <code class="language-plaintext highlighter-rouge">/tech-news/</code> - kompaktnější layout, archiv v headeru
+    <ul>
+      <li>Odstraněn redundantní “18 nejnovějších článků” box (úspora ~120px)</li>
+      <li>Zkrácený popis s přímým odkazem na archiv</li>
+      <li>Zjednodušené filtry (odstranění filtru “Kritická” importance)</li>
+      <li>Kompaktní badge s počtem článků místo celého navigation boxu</li>
+    </ul>
+  </li>
 </ul>
 
 <hr />

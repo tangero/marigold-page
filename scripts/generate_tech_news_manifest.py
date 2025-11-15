@@ -85,6 +85,8 @@ def generate_manifest(limit=200):
             if date_match:
                 date_str = date_match.group(1)
                 slug = front_matter.get('slug', article_file.stem)
+                # Odstranit trailing dash ze slugu (Jekyll to dělá automaticky)
+                slug = slug.rstrip('-')
                 article_url = f"/tech-news/{date_str}/{slug}/"
             else:
                 print(f"⚠️  Nelze určit URL pro: {article_file.name}", file=sys.stderr)
