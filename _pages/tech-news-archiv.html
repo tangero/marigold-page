@@ -1,0 +1,311 @@
+---
+layout: default
+title: Archiv Technologických Zpráv
+description: Kompletní archiv všech technologických zpráv seřazených po měsících a dnech
+permalink: /tech-news/archiv/
+---
+
+<div class="archive-container">
+  <header class="archive-header">
+    <h1>📚 Archiv Technologických Zpráv</h1>
+    <p class="archive-description">{{ page.description }}</p>
+    <div class="archive-stats">
+      <span class="stat">📊 Celkem <strong>{{ site.tech_news | size }}</strong> článků</span>
+    </div>
+  </header>
+
+  <!-- Archiv seskupený po měsících -->
+  <div class="archive-content">
+    {% assign articles_by_month = site.tech_news | group_by_exp: "article", "article.date | date: '%Y-%m'" | sort: "name" | reverse %}
+
+    {% for month_group in articles_by_month %}
+      {% assign month_date = month_group.name | append: '-01' | date: '%B %Y' %}
+      {% assign articles_count = month_group.items | size %}
+
+      <section class="month-section">
+        <h2 class="month-header">
+          <span class="month-name">{{ month_group.name | date: '%B %Y' }}</span>
+          <span class="month-count">{{ articles_count }} článků</span>
+        </h2>
+
+        <!-- Články seskupené po dnech -->
+        {% assign articles_by_day = month_group.items | group_by_exp: "article", "article.date | date: '%Y-%m-%d'" | sort: "name" | reverse %}
+
+        {% for day_group in articles_by_day %}
+          <div class="day-section">
+            <h3 class="day-header">
+              {{ day_group.name | date: '%d. %B %Y' }}
+              <span class="day-count">({{ day_group.items | size }})</span>
+            </h3>
+
+            <ul class="articles-list">
+              {% assign sorted_articles = day_group.items | sort: 'publishedAt' | reverse %}
+              {% for article in sorted_articles %}
+                <li class="article-item">
+                  <div class="article-meta-compact">
+                    <span class="article-source">{{ article.source.emoji }} {{ article.source.name }}</span>
+                    <time class="article-time">{{ article.publishedAt | date: '%H:%M' }}</time>
+                    <span class="importance-badge importance-{{ article.importance | default: 3 }}">
+                      {% assign stars = article.importance | default: 3 %}
+                      {% for i in (1..stars) %}★{% endfor %}
+                    </span>
+                  </div>
+
+                  <a href="{{ article.url }}" class="article-title-link">
+                    {{ article.title }}
+                  </a>
+
+                  {% if article.category %}
+                    <span class="article-category">{{ article.category }}</span>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endfor %}
+      </section>
+    {% endfor %}
+  </div>
+
+  <!-- Navigace zpět -->
+  <div class="archive-footer">
+    <a href="/tech-news/" class="back-link">← Zpět na Tech News</a>
+  </div>
+</div>
+
+<style>
+.archive-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.archive-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.archive-header h1 {
+  color: #2d3748;
+  margin-bottom: 0.75rem;
+  font-size: 2.5rem;
+}
+
+.archive-description {
+  color: #718096;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.archive-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.stat {
+  background: #f7fafc;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  color: #4a5568;
+  font-size: 1rem;
+}
+
+.stat strong {
+  color: #3182ce;
+  font-size: 1.2rem;
+}
+
+/* Měsíční sekce */
+.month-section {
+  margin-bottom: 3rem;
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.month-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #3182ce;
+  color: #2d3748;
+}
+
+.month-name {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.month-count {
+  font-size: 1rem;
+  color: #718096;
+  font-weight: 500;
+  background: #ebf8ff;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+}
+
+/* Denní sekce */
+.day-section {
+  margin-bottom: 2rem;
+}
+
+.day-header {
+  color: #4a5568;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  padding-left: 0.5rem;
+  border-left: 4px solid #cbd5e0;
+}
+
+.day-count {
+  font-size: 0.9rem;
+  color: #a0aec0;
+  font-weight: 400;
+}
+
+/* Seznam článků */
+.articles-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.article-item {
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  background: #f7fafc;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  border-left: 3px solid transparent;
+}
+
+.article-item:hover {
+  background: #ebf8ff;
+  border-left-color: #3182ce;
+  transform: translateX(4px);
+}
+
+.article-meta-compact {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.article-source {
+  color: #3182ce;
+  font-weight: 600;
+}
+
+.article-time {
+  color: #a0aec0;
+}
+
+.importance-badge {
+  margin-left: auto;
+  color: #fbbf24;
+  font-size: 0.9rem;
+}
+
+.importance-badge.importance-5 { color: #dc2626; }
+.importance-badge.importance-4 { color: #ea580c; }
+.importance-badge.importance-3 { color: #fbbf24; }
+.importance-badge.importance-2 { color: #a0aec0; }
+.importance-badge.importance-1 { color: #d1d5db; }
+
+.article-title-link {
+  color: #2d3748;
+  text-decoration: none;
+  font-size: 1rem;
+  line-height: 1.5;
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.article-title-link:hover {
+  color: #3182ce;
+  text-decoration: underline;
+}
+
+.article-category {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  background: #e2e8f0;
+  color: #4a5568;
+  font-size: 0.75rem;
+  border-radius: 12px;
+  font-weight: 500;
+  text-transform: lowercase;
+}
+
+/* Footer */
+.archive-footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e2e8f0;
+}
+
+.back-link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #3182ce;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.back-link:hover {
+  background: #2c5282;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.4);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .archive-container {
+    padding: 1rem;
+  }
+
+  .archive-header h1 {
+    font-size: 2rem;
+  }
+
+  .archive-stats {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .month-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .month-name {
+    font-size: 1.5rem;
+  }
+
+  .day-header {
+    font-size: 1.1rem;
+  }
+
+  .article-meta-compact {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+}
+</style>
