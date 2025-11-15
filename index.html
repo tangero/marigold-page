@@ -273,8 +273,16 @@ layout: default
 
     <ul class="tech-news-list">
       {% for article in high_importance_news %}
+      {% assign slug_len = article.slug | size %}
+      {% assign last_idx = slug_len | minus: 1 %}
+      {% assign last_char = article.slug | slice: last_idx %}
+      {% if last_char == '-' %}
+        {% assign clean_slug = article.slug | slice: 0, last_idx %}
+      {% else %}
+        {% assign clean_slug = article.slug %}
+      {% endif %}
       <li class="tech-news-item">
-        <a href="/tech-news/{{ article.date | date: '%Y-%m-%d' }}/{{ article.slug }}/" class="tech-news-link">
+        <a href="/tech-news/{{ article.date | date: '%Y-%m-%d' }}/{{ clean_slug }}/" class="tech-news-link">
           <span class="tech-news-source">{{ article.source.emoji }}</span>
           <span class="tech-news-text">{{ article.title }}</span>
         </a>
@@ -333,7 +341,7 @@ layout: default
   }
 
   .tech-news-item {
-    margin-bottom: 10px;
+    margin-bottom: 6px;
     padding-left: 0;
   }
 
