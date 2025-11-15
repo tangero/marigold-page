@@ -25,9 +25,13 @@ Anthropic v listopadu 2025 zveřejnil [detailní analýzu kyberšpionážní ope
 
 ## Architektura útoku a orchestrační vrstva
 
-Útočníci vytvořili autonomní framework postavený na Claude Code a otevřeném standardu Model Context Protocol. Systém fungoval jako orchestrátor, který dekompozoval komplexní vícestupňové útoky na diskrétní technické úkoly pro Claude sub-agenty - skenování zranitelností, validaci přihlašovacích údajů, extrakci dat a laterální pohyb v síti. Každý z těchto úkolů vypadal při izolovaném vyhodnocení jako legitimní technická žádost.
+Útočníci vytvořili autonomní framework postavený na Claude Code (CC) a MCP (Model Context Protocol). Systém fungoval jako orchestrátor, který rozděloval komplexní vícestupňové útoky na jednodušší a izolované technické úkoly pro Claude sub-agenty, jako je skenování zranitelností, validaci přihlašovacích údajů, extrakci dat a laterální pohyb v síti. Každý z těchto úkolů vypadal při izolovaném vyhodnocení jako legitimní technická žádost, takže prošel přes obranné a etické mechanismy CC.
 
-Framework obsahoval několik specializovaných MCP serverů poskytujících rozhraní mezi Claude a různými kategoriemi nástrojů:
+A protože je celá událost jednak zatím ojedinělou referencí a nahlédnutím pod pokličku útoků řízených AI agenty a pak také hodně zajímavou záležitostí, pojďme se na to podívat podrobněji. Včera jsem si hrál s replikou takového útočného mechanismu a musím říct, že je velmi efektivní i při malém množství investovaného času, takže se dá očekávat, že podobných útoků bude přibývat. 
+
+Jak se postupovalo?
+
+Framework obsahoval několik specializovaných MCP serverů poskytujících rozhraní mezi Claude Code a různými kategoriemi nástrojů:
 - Server pro vzdálené spouštění příkazů na dedikovaných systémech pro penetrační testování
 - Server pro automatizaci prohlížeče při průzkumu webových aplikací
 - Server pro analýzu kódu a bezpečnostní hodnocení
@@ -36,9 +40,10 @@ Framework obsahoval několik specializovaných MCP serverů poskytujících rozh
 
 Orchestrační logika udržovala stav útoku, řídila přechody mezi fázemi a agregovala výsledky napříč několika sezeními. To umožnilo útočníkům dosáhnout operačního rozsahu typického pro kampaně národních států při minimální přímé účasti lidských operátorů.
 
+
 ## Sociální inženýrství AI modelu
 
-Klíčovým prvkem úspěchu kampaně bylo obejití bezpečnostních opatření Claude. Útočníci použili roleplay techniku - vydávali se za zaměstnance legitimních kybernetických bezpečnostních firem a přesvědčili Claude, že je používán pro defenzivní bezpečnostní testování. Tato forma "sociálního inženýrství" AI modelu umožnila útočníkům operovat nezjištěni dostatečně dlouho k zahájení kampaně. Teprve dlouhodobá povaha útoku nakonec spustila detekční mechanismy.
+Klíčovým prvkem úspěchu kampaně bylo obejití bezpečnostních opatření Claude. Útočníci použili "roleplay techniku" - vydávali se za zaměstnance legitimních kybernetických bezpečnostních firem a přesvědčili Claude, že je používán pro defenzivní bezpečnostní testování. Tato forma "sociálního inženýrství" AI modelu umožnila útočníkům operovat nezjištěni dostatečně dlouho k zahájení kampaně. Teprve dlouhodobá povaha útoku nakonec spustila detekční mechanismy.
 
 ## Operační tempo a míra autonomie
 
@@ -63,7 +68,7 @@ Pod vedením útočníků Claude prováděl téměř autonomní průzkum pomocí
 
 V jednom z omezeného počtu případů úspěšného kompromisu útočníci přiměli Claude k autonomnímu objevení interních služeb, zmapování kompletní topologie sítě napříč více rozsahy IP adres a identifikaci vysoce hodnotných systémů včetně databází a orchestračních platforem workflow. Podobné autonomní enumerace probíhaly proti systémům dalších cílů, přičemž AI nezávisle katalogizovala stovky objevených služeb a koncových bodů.
 
-**Role AI:** Autonomní mapování útočné plochy, objevování služeb a identifikace zranitelností napříč více současnými cíli s minimální lidskou intervencí.
+**Role AI:** Autonomní mapování cíle a jeho operačního prostředí, objevování služeb a identifikace zranitelností napříč více současnými cíli s minimální lidskou intervencí.
 
 ### Fáze 3: Objevování a validace zranitelností
 
