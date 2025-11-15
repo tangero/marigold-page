@@ -1,94 +1,637 @@
 # CLAUDE.md - Agent Guide for Marigold.cz
 
-## Commands
-- Development: `jekyll serve --livereload` (spouští Jekyll server s automatickým obnovením)
-- Build: `jekyll build` (produkce) nebo `jekyll build --drafts` (vývoj)
-- Test: `pytest` nebo `python -m unittest discover`
-- Test single file: `pytest tests/path/to/test.py` nebo `python -m unittest tests.path.to.test`
-- Code style: `black .` (formátování Python kódu) a `pylint` (statická analýza kódu)
+> **Komplexní průvodce pro práci s projektem Marigold.cz**
+> Verze: 2.0 | Poslední aktualizace: 2025-11-15
 
-## Python Code Conventions
-- **Python**: Dodržujte PEP 8, používejte Black formátování, správné typové anotace (`str`, `int`, `List[str]`, atd.)
-- **Moduly**: Používejte typované funkce, dokumentujte pomocí docstringů s návratovými typy
-- **Třídy**: Používejte dataclasses pro datové struktury, @property pro gettery
-- **API**: Preferujte FastAPI pro REST API, Pydantic pro validaci dat
-- **Asynchronní kód**: Využívejte async/await vzory pro I/O operace, nikoli threading
-- **Importy**: Organizujte importy s isort, standardní knihovny první, třetí strany druhé, vlastní moduly třetí
+---
 
-## Jekyll Patterns
-- Používejte Liquid šablonování konzistentně, vždy s mezerami: `{{ variable }}` nikoliv `{{variable}}`
-- Preferujte kolekce před jednotlivými stránkami pro související obsah
-- Používejte front matter důsledně pro metadata stránek
-- Struktura _layouts, _includes a _data adresářů by měla být logicky organizovaná
-- CSS implementujte přes Sass (.scss soubory) v _sass adresáři
-- Využívejte Jekyll pluginy pouze pokud jsou podporovány GitHub Pages
+## 📋 Obsah
 
-## YAML Conventions
-- Používejte 2 mezery pro odsazení, nikoli tabulátory
-- Složité datové struktury umisťujte do samostatných souborů v _data adresáři
-- Používejte pomlčku a mezeru `- item` pro položky seznamu, ne samotnou pomlčku
-- Dlouhé řetězce zapisujte pomocí blokového stylu `|` pro zachování nových řádků
-- Používejte explicitní YAML typy kde je to potřeba (např. !!str, !!int)
-- Vyhněte se používání speciálních znaků v klíčích, používejte snake_case
-- Komentáře začínejte znakem # a mezerou: `# Komentář`
+1. [Projekt Overview](#projekt-overview)
+2. [Struktura Projektu](#struktura-projektu)
+3. [Rozdíl: _posts vs _tech_news](#rozdíl-_posts-vs-_tech_news)
+4. [Build Commands](#build-commands)
+5. [Tech-News Systém](#tech-news-systém)
+6. [Audio Content](#audio-content)
+7. [CHANGELOG.md - POVINNÉ](#changelogmd---povinné)
+8. [Coding Conventions](#coding-conventions)
+9. [Deployment](#deployment)
 
-## Python Best Practices
-- Preferujte generátory a iterátory před vytváření velkých seznamů v paměti
-- Používejte kontextové manažery (`with` statement) pro správu zdrojů
-- Implementujte logování místo print() pro debugování
-- Používejte virtuální prostředí (venv nebo poetry) pro správu závislostí
-- Testujte kód pomocí pytest s alespoň 80% pokrytím
-- Zpracovávejte výjimky specificky, ne `except Exception:`
-- Pro webové aplikace implementujte správné CORS a bezpečnostní hlavičky
+---
 
-## Build Commands
-- `bundle install` - Install dependencies
-- `bundle exec jekyll serve` - Run local development server
-- `bundle exec jekyll build` - Build site for production
-- `python generate_summaries.py` - Generate summaries for posts (requires DEEPSEEK_API_KEY)
+## Projekt Overview
 
-## LLM Cost Monitoring
-Pro sledování nákladů za OpenRouter API volání:
+**Marigold.cz** je Jekyll-based web zaměřený na technologie, AI a mobilní sítě. Kombinuje:
+- 📝 **Ruční blog posty** - dlouhodobé, editované články (_posts)
+- 📰 **Automatické tech-news** - denně generované zprávy z NewsAPI (_tech_news)
+- 🤖 **AI kolekce** - specializovaný obsah o umělé inteligenci (_ai)
+- 📱 **Mobilní sítě** - články o telekomunikacích (_mobilnisite)
+- 🖼️ **Obrazy** - vizuální galerie (_obrazy)
 
-- **Cost Tracker**: `scripts/llm_cost_tracker.py` - automaticky loguje všechna API volání
-  - Ukládá data do SQLite databáze: `_data/llm_costs.db`
-  - Sleduje tokeny, ceny, časy odpovědí a chyby
-  - Integrováno do `scripts/generate_tech_news_newsapi.py`
+### Klíčové Technologie
 
-- **Reporting**: `python3 scripts/generate_llm_cost_report.py`
-  - `--summary-only` - Jen konzolový výpis statistik
-  - `--output FILE` - Název výstupního Markdown souboru
-  - `--db PATH` - Vlastní cesta k databázi
-  - Generuje přehledy: denní, týdenní, měsíční
-  - Výstup: `_data/llm_costs_report.md`
+- **Jekyll 3.10.0** - Static site generator
+- **Python 3.11+** - Skripty pro automatizaci
+- **OpenRouter API** - LLM překlady (qwen/qwen3-max)
+- **NewsAPI** - Zdroj tech-news
+- **GitHub Actions** - CI/CD automatizace
+- **GitHub Pages** - Hosting
 
-Příklady použití:
-```bash
-# Zobrazit summary v konzoli
-python3 scripts/generate_llm_cost_report.py --summary-only
+---
 
-# Vygenerovat plný Markdown report
-python3 scripts/generate_llm_cost_report.py
+## Struktura Projektu
 
-# Vlastní výstupní soubor
-python3 scripts/generate_llm_cost_report.py --output costs_$(date +%Y%m).md
+```
+marigold-page/
+├── _posts/              # 📝 Ruční blog posty (hlavní obsah)
+├── _tech_news/          # 📰 Automatické tech-news články (3000+ souborů)
+├── _ai/                 # 🤖 AI kolekce
+├── _mobilnisite/        # 📱 Mobilní sítě kolekce
+├── _obrazy/             # 🖼️ Obrazy kolekce
+├── _pages/              # 📄 Statické stránky
+├── _layouts/            # 🎨 Jekyll layouts
+├── _includes/           # 🧩 Reusable components
+├── _data/               # 💾 Data files (YAML, JSON)
+├── _sass/               # 🎨 SCSS styles
+├── scripts/             # 🐍 Python automatizační skripty
+│   ├── generate_tech_news_newsapi.py      # Hlavní tech-news generátor
+│   ├── llm_cost_tracker.py                # LLM cost monitoring
+│   ├── tech_news_health_check.py          # Health check systém
+│   └── ...
+├── tests/               # 🧪 Test suite
+├── docs/                # 📚 Dokumentace
+├── .github/workflows/   # ⚙️ GitHub Actions
+├── CHANGELOG.md         # 📋 Change log (POVINNÝ!)
+└── CLAUDE.md            # 📖 Tento soubor
 ```
 
-## Project Structure
-- `_posts/` - Blog posts (format: YYYY-MM-DD-title.md)
-- `_ai/`, `_mobilnisite/`, `_obrazy/` - Collection content
-- `_pages/` - Static pages
-- `assets/`, `images/` - Media files
+---
 
-## Style Guidelines
-- **Markdown**: Use GitHub Flavored Markdown
-- **Frontmatter**: Include title, summary_points, categories as needed
-- **Image paths**: Use absolute paths from root (e.g., `/images/example.jpg`)
-- **Code blocks**: Use triple backticks with language specified
-- **Czech language**: Primary content language is Czech
-- **Error handling**: Use try/except blocks with specific error messages in Python code
+## Rozdíl: _posts vs _tech_news
 
-## Content Formatting
-- Keep paragraphs concise and focused
-- Use proper hierarchical heading structure (h2, h3, etc.)
-- Maintain consistent voice throughout content
+### 📝 `_posts/` - Ruční Blog Posty
+
+**Účel**: Dlouhodobý, pečlivě editovaný obsah, který vytvářejí lidé.
+
+**Charakteristika**:
+- ✍️ Ručně psané nebo AI-asistované
+- 📅 Nižší frekvence (týdny/měsíce)
+- 🎯 Hloubková analýza, tutoriály, názory
+- 🔧 Vyžaduje manuální edit a schválení
+- 📝 Markdown formát s bohatým front matter
+
+**Formát souboru**:
+```
+_posts/YYYY-MM-DD-title.md
+```
+
+**Front Matter Příklad**:
+```yaml
+---
+layout: post
+title: "Jak funguje 5G standalone"
+date: 2025-11-15 14:30:00
+categories: [mobilnisite, technologie]
+tags: [5G, telekomunikace]
+author: Patrick Zandl
+summary_points:
+  - Standalone 5G nepotřebuje 4G infrastrukturu
+  - Nižší latence než NSA varianta
+  - Vyšší náklady na deployment
+image: /images/5g-standalone.jpg
+---
+```
+
+**Permalink**: `/item/:title/`
+
+**Kdy použít**:
+- Tutoriály a návody
+- Hloubkové analýzy
+- Názorové články
+- Recenze produktů
+- Dlouhodobě relevantní obsah
+
+---
+
+### 📰 `_tech_news/` - Automatické Tech-News
+
+**Účel**: Aktuální technologické zprávy, automaticky stahované, překládané a publikované.
+
+**Charakteristika**:
+- 🤖 Plně automatizované (NewsAPI → LLM překlad → Jekyll)
+- ⚡ Vysoká frekvence (každé 4 hodiny via GitHub Actions)
+- 🌍 Přeloženo z angličtiny do češtiny
+- 📊 Hodnocení důležitosti (1-5 hvězdiček)
+- 🔄 Krátkodobě relevantní (dny/týdny)
+
+**Formát souboru**:
+```
+_tech_news/YYYY-MM-DD-slug.md
+```
+
+**Front Matter Příklad**:
+```yaml
+---
+layout: tech_news_article
+title: "Apple představil iPhone 17 Pro"
+original_title: "Apple Announces iPhone 17 Pro"
+slug: apple-predstavil-iphone-17-pro
+description: "Apple dnes oficiálně odhalil iPhone 17 Pro..."
+publishedAt: '2025-11-15T14:30:00+00:00'
+date: '2025-11-15 14:30:00'
+url: https://techcrunch.com/...
+category: hardware
+importance: 4
+source:
+  emoji: 🚀
+  name: TechCrunch
+companies:
+  - Apple
+urlToImage: https://...
+---
+```
+
+**Permalink**: `/tech-news/:year-:month-:day/:slug/`
+
+**Generování**:
+```bash
+# Automaticky (GitHub Actions každé 4h)
+python scripts/generate_tech_news_newsapi.py
+
+# Manuálně
+python scripts/generate_tech_news_newsapi.py
+```
+
+**Kdy použít**:
+- NIKDY ručně - je to automatický systém!
+- Nedotýkejte se souborů v `_tech_news/` ručně
+- Pro manuální tech články použijte `_posts/`
+
+---
+
+### 🎯 Rozhodovací Strom
+
+```
+Chci přidat článek
+    │
+    ├─> Je to časově citlivá zpráva o technologiích?
+    │       │
+    │       ├─> ANO → Nechte to na automatizaci (_tech_news)
+    │       └─> NE  → Pokračuj níže
+    │
+    └─> Je to hloubková analýza/tutoriál/názor?
+            │
+            ├─> ANO → _posts/ (ruční článek)
+            └─> NE  → Zvažte, zda je to vůbec potřeba
+```
+
+---
+
+## Build Commands
+
+### Vývoj
+
+```bash
+# Spustit lokální server s live reload
+bundle exec jekyll serve --livereload
+
+# Spustit s draft posty
+bundle exec jekyll serve --drafts
+
+# Build bez serveru
+bundle exec jekyll build
+
+# Build s drafty
+bundle exec jekyll build --drafts
+```
+
+### Tech-News Generování
+
+```bash
+# Vygenerovat tech-news (vyžaduje NEWS_API_KEY a OPENROUTER_API_KEY)
+python3 scripts/generate_tech_news_newsapi.py
+
+# Health check
+python3 scripts/tech_news_health_check.py --output _data/tech_news_health.json
+
+# LLM cost report
+python3 scripts/generate_llm_cost_report.py --summary-only
+```
+
+### Testování
+
+```bash
+# Všechny testy
+pytest
+
+# Konkrétní test soubor
+pytest tests/test_health_check.py
+
+# S coverage
+pytest --cov=scripts tests/
+```
+
+---
+
+## Tech-News Systém
+
+### Architektura
+
+```
+NewsAPI → Python Script → LLM Translation (qwen/qwen3-max) → Jekyll Collection → GitHub Pages
+```
+
+### Komponenty
+
+1. **Generator**: `scripts/generate_tech_news_newsapi.py`
+   - Stahuje články z NewsAPI
+   - Překládá do češtiny pomocí OpenRouter/qwen3-max
+   - Detekuje důležitost (1-5)
+   - Vytváří markdown soubory v `_tech_news/`
+
+2. **Health Check**: `scripts/tech_news_health_check.py`
+   - Kontroluje čerstvost článků
+   - Detekuje % článků v češtině
+   - Validuje kvalitu obsahu
+   - Generuje `_data/tech_news_health.json`
+
+3. **Cost Tracker**: `scripts/llm_cost_tracker.py`
+   - Sleduje LLM API volání
+   - Ukládá do `_data/llm_costs.db`
+   - Generuje reporty
+
+### Layouts
+
+- **tech_news_article.html** - Jednotlivé články (`/tech-news/YYYY-MM-DD/slug/`)
+- **tech_news_day.html** - Denní přehledy (`/tech-news/YYYY-MM-DD/`)
+- **tech-news.html** - Hlavní stránka (`/tech-news/`)
+- **tech-news-archiv.html** - Archiv (`/tech-news/archiv/`)
+
+### Monitoring
+
+**Uptimerobot Setup**:
+```
+Type: HTTP(s) - Keyword
+URL: https://marigold.cz/health-check/
+Keyword: "status": "OK"
+Interval: 5 minutes
+Alert: Keyword NOT found for 2 consecutive checks
+```
+
+**Dokumentace**: `docs/UPTIMEROBOT_SETUP.md`
+
+---
+
+## Audio Content
+
+### Generování Audio
+
+**POZNÁMKA**: Audio generování není aktuálně implementováno.
+
+**Plánovaná funkcionalita**:
+- TTS (Text-to-Speech) pro články v `_posts/`
+- Použití: OpenAI TTS API nebo ElevenLabs
+- Formát: MP3, uložené v `assets/audio/`
+- Front matter: `audio_url: /assets/audio/2025-11-15-article.mp3`
+
+**Implementace (TODO)**:
+```bash
+# Budoucí skript
+python scripts/generate_audio.py --post _posts/2025-11-15-article.md
+```
+
+---
+
+## CHANGELOG.md - POVINNÉ
+
+### 🚨 KRITICKÉ PRAVIDLO
+
+**PO KAŽDÉM COMMITU DO GITHUBU MUSÍTE AKTUALIZOVAT `CHANGELOG.md`!**
+
+### Formát
+
+```markdown
+# Changelog
+
+Všechny významné změny v projektu jsou dokumentovány v tomto souboru.
+
+Formát vychází z [Keep a Changelog](https://keepachangelog.com/cs/1.0.0/),
+a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
+
+## [Unreleased]
+
+### Added
+- (čekající změny před příštím release)
+
+## [X.Y.Z] - YYYY-MM-DD
+
+### Added
+- Nové funkce a vlastnosti
+
+### Changed
+- Změny v existující funkcionalitě
+
+### Deprecated
+- Brzy odstraněné funkce
+
+### Removed
+- Nyní odstraněné funkce
+
+### Fixed
+- Opravy bugů
+
+### Security
+- Bezpečnostní záplaty
+```
+
+### Verzování (Semantic Versioning)
+
+```
+MAJOR.MINOR.PATCH  (např. 2.1.3)
+```
+
+- **MAJOR** (X.0.0): Breaking changes, zásadní přepisy
+  - Změna struktury projektu
+  - Odstranění starých features
+  - Nekompatibilní API změny
+
+- **MINOR** (x.Y.0): Nové funkce, zpětně kompatibilní
+  - Nový tech-news health check systém
+  - Nový layout nebo kolekce
+  - Nové skripty
+
+- **PATCH** (x.y.Z): Bugfixy, drobné změny
+  - Oprava permalinků
+  - CSS tweaky
+  - Dokumentace update
+
+### Příklad Workflow
+
+```bash
+# 1. Provedení změn
+git add _layouts/tech_news_day.html
+git add _pages/tech-news-archiv.html
+
+# 2. PŘED COMMITEM - Aktualizovat CHANGELOG.md
+# Přidat pod ## [Unreleased] sekci:
+
+### Fixed
+- Opraveny permalinky v tech_news_day layoutu - články nyní vedou na interní stránky
+- Vytvořena archivní stránka /tech-news/archiv/ s přehledem po měsících
+
+# 3. Commit s odkazem na CHANGELOG
+git commit -m "Fix: Tech-news permalinky a archiv
+
+- Opraveny odkazy v tech_news_day.html na interní permalinky
+- Vytvořena archivní stránka /tech-news/archiv/
+- Detaily v CHANGELOG.md"
+
+# 4. Push
+git push
+
+# 5. Při vytváření release - přesunout [Unreleased] do [X.Y.Z]
+```
+
+### Ukázkový CHANGELOG.md Entry
+
+```markdown
+## [Unreleased]
+
+### Added
+- Archivní stránka `/tech-news/archiv/` s přehledem článků po měsících a dnech
+- Health check systém pro monitoring tech-news generování
+
+### Fixed
+- Permalinky v `tech_news_day.html` - články nyní vedou na `/tech-news/YYYY-MM-DD/slug/` místo externích URL
+- Model pro tech-news aktualizován z `openrouter/polaris-alpha` na `qwen/qwen3-max`
+
+### Changed
+- GitHub Actions workflow - health check je nyní non-blocking (|| true)
+```
+
+---
+
+## Coding Conventions
+
+### Python (PEP 8 + Black)
+
+```python
+# ✅ SPRÁVNĚ
+def generate_tech_news(api_key: str, output_dir: Path) -> bool:
+    """
+    Generuje tech-news články z NewsAPI.
+
+    Args:
+        api_key: NewsAPI klíč
+        output_dir: Výstupní adresář pro markdown soubory
+
+    Returns:
+        True pokud úspěšné, jinak False
+    """
+    logger.info(f"🚀 Spouštím generování do {output_dir}")
+
+    try:
+        articles = fetch_articles(api_key)
+        return process_articles(articles, output_dir)
+    except Exception as e:
+        logger.error(f"❌ Chyba: {e}")
+        return False
+
+# ❌ ŠPATNĚ
+def gen(k,o):
+    print("Starting...")
+    try:
+        a=fetch(k)
+        return proc(a,o)
+    except:
+        print("Error")
+        return False
+```
+
+**Pravidla**:
+- Type hints pro všechny funkce
+- Docstrings (Google style)
+- Logging místo print()
+- Specifické exception handling
+- Black formátování (`black .`)
+- Meaningful variable names
+
+### Jekyll/Liquid
+
+```liquid
+{%- comment -%}
+✅ SPRÁVNĚ - mezery kolem proměnných
+{%- endcomment -%}
+{{ article.title }}
+{{ article.date | date: '%Y-%m-%d' }}
+
+{%- comment -%}
+❌ ŠPATNĚ - bez mezer
+{%- endcomment -%}
+{{article.title}}
+{{article.date|date:'%Y-%m-%d'}}
+```
+
+### YAML Front Matter
+
+```yaml
+# ✅ SPRÁVNĚ
+---
+layout: post
+title: "Článek s uvozovkami"
+date: 2025-11-15 14:30:00
+categories:
+  - technologie
+  - ai
+tags: [5g, mobilní sítě]
+summary_points:
+  - První bod se všemi detaily
+  - Druhý bod také podrobný
+---
+
+# ❌ ŠPATNĚ
+---
+layout:post
+title:Článek bez uvozovek
+date:2025-11-15
+categories:[technologie,ai]
+tags:5g,mobilní sítě
+---
+```
+
+---
+
+## Deployment
+
+### GitHub Pages
+
+**Automatický deployment**:
+1. Push do `main` větve
+2. GitHub Actions build Jekyll
+3. Deploy do GitHub Pages
+4. Dostupné na `https://www.marigold.cz`
+
+### GitHub Actions Workflows
+
+**`.github/workflows/tech-news.yml`**:
+- Trigger: Každé 4 hodiny + manual
+- Kroky:
+  1. Checkout repo
+  2. Install Python dependencies
+  3. Generate tech-news (`generate_tech_news_newsapi.py`)
+  4. Optimize images
+  5. Generate manifest
+  6. Health check (non-blocking)
+  7. Commit změny
+  8. Push do `main`
+
+### Environment Variables (Secrets)
+
+Nastavené v GitHub repo settings:
+
+```
+NEWS_API_KEY=sk-...           # NewsAPI klíč
+OPENROUTER_API_KEY=sk-...     # OpenRouter API pro LLM
+```
+
+---
+
+## Quick Reference
+
+### Časté úkoly
+
+```bash
+# Nový blog post
+touch _posts/$(date +%Y-%m-%d)-title.md
+
+# Lokální development
+bundle exec jekyll serve --livereload
+
+# Vygenerovat tech-news
+python3 scripts/generate_tech_news_newsapi.py
+
+# Health check
+python3 scripts/tech_news_health_check.py --output _data/tech_news_health.json
+
+# LLM cost report
+python3 scripts/generate_llm_cost_report.py --summary-only
+
+# Před commitem
+# 1. Aktualizovat CHANGELOG.md
+# 2. git add, commit, push
+```
+
+### Důležité soubory
+
+```
+_config.yml                              # Jekyll konfigurace
+CHANGELOG.md                             # Change log (POVINNÝ!)
+CLAUDE.md                                # Tento soubor
+_data/tech_news_sources.yaml            # Tech-news zdroje
+_data/tech_news_health.json              # Health status
+scripts/generate_tech_news_newsapi.py    # Tech-news generátor
+scripts/tech_news_health_check.py        # Health monitoring
+```
+
+### Užitečné odkazy
+
+- **Živý web**: https://www.marigold.cz
+- **Health status**: https://www.marigold.cz/health-status/
+- **Health JSON**: https://www.marigold.cz/health-check/
+- **Tech-news**: https://www.marigold.cz/tech-news/
+- **Archiv**: https://www.marigold.cz/tech-news/archiv/
+
+---
+
+## Troubleshooting
+
+### Tech-News negeneruje články
+
+```bash
+# 1. Zkontrolovat API klíče
+echo $NEWS_API_KEY
+echo $OPENROUTER_API_KEY
+
+# 2. Zkontrolovat health status
+python3 scripts/tech_news_health_check.py --output _data/tech_news_health.json
+
+# 3. Zkontrolovat logy
+tail -f _data/llm_costs.db
+```
+
+### Jekyll build fails
+
+```bash
+# Vyčistit cache
+rm -rf _site .jekyll-cache
+
+# Reinstall dependencies
+bundle install
+
+# Build s verbose
+bundle exec jekyll build --verbose --trace
+```
+
+### Permalinky nefungují
+
+```bash
+# Zkontrolovat _config.yml collections
+grep -A10 "collections:" _config.yml
+
+# Rebuild site
+bundle exec jekyll build
+
+# Zkontrolovat _site adresář
+ls -la _site/tech-news/2025-11-15/
+```
+
+---
+
+## Historie Verzí
+
+- **2.0** (2025-11-15): Přidán CHANGELOG requirement, audio info, rozšířená dokumentace
+- **1.0** (2025-08-25): Initial verze
+
+---
+
+**Konec dokumentace** | Pro dotazy: Aktualizujte CHANGELOG.md! 📋
