@@ -12,6 +12,7 @@ import logging
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from llm_cost_tracker import LLMCostTracker, track_llm_call
+from processing_logger import ProcessingLogger
 
 # Načíst .env soubor
 load_dotenv()
@@ -363,7 +364,7 @@ DŮLEŽITÉ:
 
         return '📰'  # Default
 
-    def create_jekyll_article(self, article, article_index):
+    def create_jekyll_article(self, article, article_index, proc_logger=None):
         """Vytvoří Jekyll článek s optimalizovaným front matter"""
 
         # Vytvořit slug z titulku
@@ -404,6 +405,22 @@ DŮLEŽITÉ:
         czech_description = analysis['czech_description']
         importance = analysis['importance']
         enhanced_content = analysis['enhanced_content']
+
+        # Log processing pokud máme logger
+        if proc_logger:
+            proc_logger.log_article_processing(slug, {
+                'llm_used': True,
+                'importance': importance,
+                'has_czech': bool(czech_title),
+                'enhanced_length': len(enhanced_content)
+            })
+
+        # Přeskočit články s nízkou důležitostí (< 3)
+        if importance < 3:
+            if proc_logger:
+                proc_logger.log_article_skip('low_importance', article['title'], {'importance': importance})
+            logger.info(f"⏭️ Přeskakuji článek s nízkou důležitostí ({importance}): {article['title'][:50]}")
+            return None
 
         # Detekce firem a osobností (zachováme pro metadata)
         companies = self.detect_companies(article['title'], article.get('description', ''))
@@ -457,6 +474,19 @@ DŮLEŽITÉ:
             f.write(content)
 
         logger.info(f"✅ Vytvořen: {filename}")
+
+        # Log uložení článku
+        if proc_logger:
+            proc_logger.log_article_save({
+                'title': czech_title,
+                'importance': importance,
+                'category': category,
+                'has_czech': bool(czech_title),
+                'has_image': bool(article.get('urlToImage')),
+                'enhanced_content': bool(enhanced_content),
+                'filepath': str(filepath)
+            })
+
         return filepath
 
     def create_slug(self, title):
@@ -980,14 +1010,31 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         """Hlavní funkce pro generování tech-news z NewsAPI"""
         logger.info("🚀 Spouští se generování tech-news z NewsAPI")
 
+        # Inicializace Processing Logger
+        proc_logger = ProcessingLogger()
+        proc_logger.log_phase_start('fetch')
+
         # Získat články z NewsAPI
+        import time
+        fetch_start = time.time()
         articles = self.fetch_newsapi_articles()
+        fetch_time = int((time.time() - fetch_start) * 1000)
+
+        # Log API metrics
+        proc_logger.log_api_fetch(
+            articles_count=len(articles) if articles else 0,
+            response_time_ms=fetch_time
+        )
+        proc_logger.log_phase_end('fetch')
 
         if not articles:
             logger.error("❌ Žádné články nenalezeny z NewsAPI")
+            proc_logger.log_error('api_fetch', 'Žádné články nenalezeny z NewsAPI')
+            proc_logger.finalize_and_save()
             return False
 
         logger.info(f"📰 Zpracovávám {len(articles)} článků...")
+        proc_logger.log_phase_start('process')
 
         # Chytré smazání duplicitů
         self.clean_duplicates(articles)
@@ -1000,11 +1047,13 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 # Přeskočit články bez obsahu
                 if not article.get('title'):
                     logger.warning(f"⏭️ Přeskakuji článek {i} - chybí titulek")
+                    proc_logger.log_article_skip('no_title', 'Článek bez titulku')
                     continue
 
                 # Přeskočit články o hrách, sportu a zábavě
                 if self.should_skip_article(article['title'], article.get('description', '')):
                     logger.info(f"🚫 Přeskakuji nerelevantní článek {i}: {article['title'][:50]}...")
+                    proc_logger.log_article_skip('content_filter', article['title'])
                     skipped_count += 1
                     continue
 
@@ -1017,16 +1066,22 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                     logger.warning("🖼️ Obrázek chybí")
 
                 # Vytvoření Jekyll souboru
-                self.create_jekyll_article(article, processed_count + 1)
-                processed_count += 1
+                result = self.create_jekyll_article(article, processed_count + 1, proc_logger)
+                if result:
+                    processed_count += 1
 
             except Exception as e:
                 logger.error(f"❌ Chyba při zpracování článku {i}: {e}")
+                proc_logger.log_error('article_processing', str(e), {'article_index': i})
                 continue
 
         logger.info(f"✅ Úspěšně zpracováno {processed_count} článků")
         if skipped_count > 0:
             logger.info(f"🚫 Přeskočeno {skipped_count} nerelevantních článků (hry, sport, zábava)")
+
+        # Finalizace logování
+        proc_logger.log_phase_end('process')
+        proc_logger.finalize_and_save()
 
         # POZNÁMKA: Index stránka se již nevytváří - používáme _pages/tech-news-new.html s JSON manifestem
         # self.create_index_page(processed_count)

@@ -63,8 +63,10 @@
 <!-- og-image source: extracted from content -->
 <meta property="og:image" content="https://www.marigold.cz
 
+
 <div class="/>
 <meta property="twitter:image" content="https://www.marigold.cz
+
 
 <div class="/>
 <meta property="og:image:width" content="1200"/>
@@ -208,9 +210,10 @@
         <div id="main" role="main" class="container">
           
 
-<div class="container" style="max-width: 1200px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
 
-  <h1 style="margin-bottom: 2rem;">🏥 Tech News Health Status</h1>
+<div class="container" style="max-width: 1400px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+
+  <h1 style="margin-bottom: 2rem;">🏥 Tech News Health & Pipeline Status</h1>
 
   <!-- Overall Status -->
   <div style="padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; background: #f8d7da; border: 2px solid #dc3545;">
@@ -218,12 +221,147 @@
       Status: <strong>CRITICAL</strong>
     </h2>
     <p style="margin: 0.5rem 0;">
-      <strong>Poslední kontrola:</strong> 15.11.2025 16:23
+      <strong>Poslední kontrola:</strong> 15.11.2025 18:12
     </p>
     <p style="margin: 0.5rem 0;">
-      <strong>Summary:</strong> Status: CRITICAL | Články 24h: 0 | Čeština: 57.0% | Alerty: 4
+      <strong>Summary:</strong> Status: CRITICAL | Články 24h: 0 | Čeština: 58.0% | Alerty: 4
     </p>
   </div>
+
+  <!-- Dashboard Stats - 30 Days Overview -->
+  
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>📈 30denní přehled (30 dní)</h2>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">Celkem článků</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          0
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          Denní průměr: 0
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">LLM náklady</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          $0.0
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          Celkem za období
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">API dotazy</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          0
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          Sessions: 0
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">Přeskočeno</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          0
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Pipeline Funnel -->
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>🔄 Processing Pipeline (30 dní)</h2>
+    <div style="margin-top: 1rem;">
+      
+      
+      
+      
+
+      <div style="margin-bottom: 1.5rem;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+          <span>📥 API Fetch</span>
+          <strong>1</strong>
+        </div>
+        <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
+          <div style="background: #007bff; height: 100%; width: 100%;"></div>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 1.5rem;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+          <span>⏭️ Přeskočeno (filtry)</span>
+          <strong>0</strong>
+        </div>
+        
+        <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
+          <div style="background: #ffc107; height: 100%; width: 0.0%;"></div>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 0;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+          <span>💾 Uloženo</span>
+          <strong>0 (0.0%)</strong>
+        </div>
+        <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
+          <div style="background: #28a745; height: 100%; width: 0.0%;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Daily Chart -->
+  
+
+  <!-- Performance Metrics -->
+  
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>⚡ Performance Metriky</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 1rem;">
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #007bff;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Průměrný čas session</div>
+        <div style="font-size: 1.75rem; font-weight: bold; color: #007bff;">
+          0.0s
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #17a2b8;">
+        <div style="font-size: 0.875rem; color: #6c757d;">API Response Time</div>
+        <div style="font-size: 1.75rem; font-weight: bold; color: #17a2b8;">
+          0.0ms
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #28a745;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Tokens per Article</div>
+        <div style="font-size: 1.75rem; font-weight: bold; color: #28a745;">
+          0.0
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #dc3545;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Error Rate</div>
+        
+        <div style="font-size: 1.75rem; font-weight: bold; color: #dc3545;">
+          0.0%
+        </div>
+      </div>
+
+    </div>
+  </div>
+  
+  
 
   <!-- Alerts -->
   
@@ -232,7 +370,7 @@
     <ul style="list-style: none; padding: 0;">
       
       <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #fff3cd; border-left: 4px solid #ffc107;">
-        <strong>[WARNING]</strong> Nejnovější článek je starý 28.6h (threshold: 6h)
+        <strong>[WARNING]</strong> Nejnovější článek je starý 27.2h (threshold: 6h)
       </li>
       
       <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #fff3cd; border-left: 4px solid #ffc107;">
@@ -244,22 +382,22 @@
       </li>
       
       <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #f8d7da; border-left: 4px solid #dc3545;">
-        <strong>[CRITICAL]</strong> Pouze 57.0% článků v češtině! (minimum: 85.0%)
+        <strong>[CRITICAL]</strong> Pouze 58.0% článků v češtině! (minimum: 85.0%)
       </li>
       
     </ul>
   </div>
   
 
-  <!-- Key Metrics -->
+  <!-- Current Metrics -->
   <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h2>📊 Klíčové Metriky</h2>
+    <h2>📊 Aktuální Metriky</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
         <div style="font-size: 0.875rem; color: #6c757d;">Celkem článků</div>
         <div style="font-size: 2rem; font-weight: bold; color: #007bff;">
-          3056
+          3058
         </div>
       </div>
 
@@ -271,30 +409,16 @@
       </div>
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
-        <div style="font-size: 0.875rem; color: #6c757d;">Články za 1h</div>
-        <div style="font-size: 2rem; font-weight: bold; color: #17a2b8;">
-          0
-        </div>
-      </div>
-
-      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
         <div style="font-size: 0.875rem; color: #6c757d;">Stáří nejnovějšího (h)</div>
         <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">
-          28.58
+          27.21
         </div>
       </div>
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
         <div style="font-size: 0.875rem; color: #6c757d;">Poměr češtiny</div>
         <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">
-          57.0%
-        </div>
-      </div>
-
-      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
-        <div style="font-size: 0.875rem; color: #6c757d;">Průměrná délka obsahu</div>
-        <div style="font-size: 2rem; font-weight: bold; color: #6c757d;">
-          2391
+          58.0%
         </div>
       </div>
 
@@ -314,7 +438,7 @@
         </span>
       </h3>
       <ul>
-        <li>Stáří nejnovějšího: 28.58 hodin</li>
+        <li>Stáří nejnovějšího: 27.21 hodin</li>
         <li>Články za 24h: 0</li>
         <li>Články za 1h: 0</li>
       </ul>
@@ -329,31 +453,13 @@
         </span>
       </h3>
       <ul>
-        <li>Poměr češtiny: 57.0%</li>
+        <li>Poměr češtiny: 58.0%</li>
         <li>Analyzováno článků: 100</li>
       </ul>
-      
-      <details>
-        <summary style="cursor: pointer; color: #007bff;">Ukázka anglických článků (5)</summary>
-        <ul style="margin-top: 0.5rem;">
-          
-          <li><code>2025-11-14-latest-google-home-app-update-brings-faster-contro.md</code> - skóre: 0.44</li>
-          
-          <li><code>2025-11-13-oneplus-15-vs-oneplus-13-sample-photos-comparison-.md</code> - skóre: 0.44</li>
-          
-          <li><code>2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md</code> - skóre: 0.18</li>
-          
-          <li><code>2025-11-12-breaking-google-is-partially-walking-back-its-new-.md</code> - skóre: 0.18</li>
-          
-          <li><code>2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md</code> - skóre: 0.18</li>
-          
-        </ul>
-      </details>
-      
     </div>
 
     <!-- Content Quality Check -->
-    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+    <div style="margin-bottom: 1.5rem;">
       <h3 style="margin-top: 0;">
         📝 Kvalita obsahu:
         <span style="color: #28a745;">
@@ -361,35 +467,28 @@
         </span>
       </h3>
       <ul>
-        <li>Průměrná délka: 2391.0 znaků</li>
-        <li>Medián délky: 2540.0 znaků</li>
-      </ul>
-    </div>
-
-    <!-- Front Matter Check -->
-    <div style="margin-bottom: 1.5rem;">
-      <h3 style="margin-top: 0;">
-        🔍 Validita front matter:
-        <span style="color: #28a745;">
-          OK
-        </span>
-      </h3>
-      <ul>
-        <li>Chybovost: 0.0%</li>
-        <li>Nevalidních článků: 0</li>
+        <li>Průměrná délka: 2345.0 znaků</li>
+        <li>Medián délky: 2504.0 znaků</li>
       </ul>
     </div>
 
   </div>
 
   <!-- Raw JSON Data -->
-  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
-    <summary style="cursor: pointer; font-weight: bold;">📋 Raw JSON Data</summary>
-    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"status":"CRITICAL","timestamp":"2025-11-15T16:23:23.528707+00:00","checks":{"freshness":{"status":"WARNING","newest_age_hours":28.58,"articles_24h":0,"articles_1h":0},"language":{"status":"CRITICAL","czech_ratio":0.57,"sample_size":100,"english_articles_sample":[{"file":"2025-11-14-latest-google-home-app-update-brings-faster-contro.md","title":"Nejnovější aktualizace aplikace Google Home přináš","score":0.44},{"file":"2025-11-13-oneplus-15-vs-oneplus-13-sample-photos-comparison-.md","title":"OnePlus 15 vs OnePlus 13: Srovnání fotografií – ja","score":0.44},{"file":"2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md","title":"OpenAI walks a tricky tightrope with GPT-5.1’s eig","score":0.18},{"file":"2025-11-12-breaking-google-is-partially-walking-back-its-new-.md","title":"Breaking: Google is partially walking back its new","score":0.18},{"file":"2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md","title":"Here’s how to photograph the northern lights light","score":0.18}]},"content_quality":{"status":"OK","avg_length":2391.0,"median_length":2540.0},"generation_trend":{"status":"OK","trend":"nedostatek dat","hourly_distribution":{}},"front_matter":{"status":"OK","error_rate":0.0,"invalid_count":0,"most_common_missing_fields":{},"sample_invalid_articles":[]}},"metrics":{"total_articles":3056,"articles_24h":0,"articles_1h":0,"newest_article_age_hours":28.58,"czech_articles":57,"english_articles":43,"czech_ratio":0.57,"avg_content_length":2391.0,"median_content_length":2540.0,"articles_with_images_pct":100.0,"articles_with_category_pct":100.0,"front_matter_error_rate":0.0},"alerts":[{"level":"WARNING","message":"Nejnovější článek je starý 28.6h (threshold: 6h)"},{"level":"WARNING","message":"Pouze 0 článků za 24h (minimum: 10)"},{"level":"INFO","message":"Pouze 0 článků za poslední hodinu"},{"level":"CRITICAL","message":"Pouze 57.0% článků v češtině! (minimum: 85.0%)"}],"summary":"Status: CRITICAL | Články 24h: 0 | Čeština: 57.0% | Alerty: 4"}</code></pre>
+  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+    <summary style="cursor: pointer; font-weight: bold;">📋 Health Check Raw Data</summary>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"status":"CRITICAL","timestamp":"2025-11-15T18:12:52.796060+00:00","checks":{"freshness":{"status":"WARNING","newest_age_hours":27.21,"articles_24h":0,"articles_1h":0},"language":{"status":"CRITICAL","czech_ratio":0.58,"sample_size":100,"english_articles_sample":[{"file":"2025-11-13-oneplus-15-vs-oneplus-13-sample-photos-comparison-.md","title":"OnePlus 15 vs OnePlus 13: Srovnání fotografií – ja","score":0.44},{"file":"2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md","title":"OpenAI walks a tricky tightrope with GPT-5.1’s eig","score":0.18},{"file":"2025-11-12-breaking-google-is-partially-walking-back-its-new-.md","title":"Breaking: Google is partially walking back its new","score":0.18},{"file":"2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md","title":"Here’s how to photograph the northern lights light","score":0.18},{"file":"2025-11-12-samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g.md","title":"Samsung Galaxy Z Flip8 to be thinner and lighter -","score":0.18}]},"content_quality":{"status":"OK","avg_length":2345.0,"median_length":2504.0},"generation_trend":{"status":"OK","trend":"nedostatek dat","hourly_distribution":{}},"front_matter":{"status":"OK","error_rate":0.0,"invalid_count":0,"most_common_missing_fields":{},"sample_invalid_articles":[]}},"metrics":{"total_articles":3058,"articles_24h":0,"articles_1h":0,"newest_article_age_hours":27.21,"czech_articles":58,"english_articles":42,"czech_ratio":0.58,"avg_content_length":2345.0,"median_content_length":2504.0,"articles_with_images_pct":100.0,"articles_with_category_pct":100.0,"front_matter_error_rate":0.0},"alerts":[{"level":"WARNING","message":"Nejnovější článek je starý 27.2h (threshold: 6h)"},{"level":"WARNING","message":"Pouze 0 článků za 24h (minimum: 10)"},{"level":"INFO","message":"Pouze 0 článků za poslední hodinu"},{"level":"CRITICAL","message":"Pouze 58.0% článků v češtině! (minimum: 85.0%)"}],"summary":"Status: CRITICAL | Články 24h: 0 | Čeština: 58.0% | Alerty: 4"}</code></pre>
   </details>
 
+  
+  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+    <summary style="cursor: pointer; font-weight: bold;">📋 Dashboard Raw Data</summary>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"generated_at":"2025-11-15T18:18:55.689145+00:00","period_days":30,"current_status":{"health":"UNKNOWN","last_run":null,"last_run_status":"unknown","articles_today":0,"active_alerts":[]},"daily_series":[],"aggregates":{"total_articles":0,"total_cost":0.0,"avg_daily_articles":0,"most_common_skip_reason":null},"performance_metrics":{"avg_session_duration":0.0,"avg_api_response_time":0.0,"avg_tokens_per_article":0.0,"error_rate":0.0}}</code></pre>
+  </details>
+  
+
   <p style="margin-top: 2rem; text-align: center; color: #6c757d;">
-    <small>Health check běží automaticky při každém build.</small>
+    <small>Health check běží automaticky při každém build. Dashboard data se generují denně.</small>
   </p>
 
 </div>

@@ -233,6 +233,17 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
       <li>Použití dvoustupňového filtru: <code class="language-plaintext highlighter-rouge">slice: 0, 5</code> + <code class="language-plaintext highlighter-rouge">limit: 5</code> v for loop pro garantovaný limit</li>
     </ul>
   </li>
+  <li><strong>Kompletní monitoring a logging systém pro tech-news pipeline:</strong>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">ProcessingLogger</code> třída (<code class="language-plaintext highlighter-rouge">scripts/processing_logger.py</code>) - sleduje celý processing pipeline</li>
+      <li>SQLite databáze (<code class="language-plaintext highlighter-rouge">_data/tech_news_metrics.db</code>) - ukládá processing sessions, hourly a daily metriky</li>
+      <li>JSON Lines logy (<code class="language-plaintext highlighter-rouge">_data/processing_logs/*.jsonl</code>) - append-only logy pro každý den</li>
+      <li>Dashboard data generátor (<code class="language-plaintext highlighter-rouge">scripts/generate_dashboard_data.py</code>) - agreguje 30denní statistiky</li>
+      <li>Rozšířený <code class="language-plaintext highlighter-rouge">/health-status/</code> dashboard s grafy, pipeline funnelem a performance metrikami</li>
+      <li>Sledování: API fetch → LLM processing → Save pipeline s důvody přeskočení článků</li>
+      <li>Metriky: počty článků, LLM náklady, tokeny, časy zpracování, error rate, skip reasons</li>
+    </ul>
+  </li>
 </ul>
 
 <h3 id="fixed">Fixed</h3>
