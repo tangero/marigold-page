@@ -262,7 +262,7 @@ layout: default
   </style>
 
   <!-- Tech News Section -->
-  {% assign high_importance_news = site.tech_news | where_exp: "article", "article.importance >= 3" | sort: 'publishedAt' | reverse | limit: 5 %}
+  {% assign high_importance_news = site.tech_news | where_exp: "article", "article.importance >= 4" | sort: 'publishedAt' | reverse | limit: 5 %}
 
   {% if high_importance_news.size > 0 %}
   <div id="tech-news-brief">
