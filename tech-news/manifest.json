@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-15T08:19:36.786439+00:00",
+  "generated": "2025-11-15T12:26:11.421637+00:00",
   "count": 200,
   "articles": [
     {
@@ -23,8 +23,29 @@
       "people": []
     },
     {
-      "title": "Firefox přidává AI okno, uživatelé chtějí spíš AI zeď",
-      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox, která má umožnit interakci s asistentem umělé inteligence přímo během prohlížení webu. Komunita uživatelů však reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
+      "title": "OnePlus 15 vs OnePlus 13: Srovnání fotografií – jak se změnila kvalita bez Hasselbladu?",
+      "description": "OnePlus ukončil spolupráci s Hasselbladem a představil vlastní obrazový engine DetailMax. Jak se tato změna projevila na kvalitě fotografií v porovnání s předchozí generací?",
+      "slug": "oneplus-15-vs-oneplus-13-sample-photos-comparison-",
+      "publishedAt": "2025-11-13T23:00:40+00:00",
+      "date": "2025-11-13 23:00:40",
+      "importance": 3,
+      "category": "fotoaparáty",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/175623-wide-two_1200/OnePlus-15-vs-OnePlus-13-Sample-Photos-Comparison.jpg",
+      "url": "/tech-news/2025-11-13/oneplus-15-vs-oneplus-13-sample-photos-comparison/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "OnePlus",
+        "Hasselblad"
+      ],
+      "people": []
+    },
+    {
+      "title": "Firefox přidává AI okno, uživatelé chtějí spíš zeď proti umělé inteligenci",
+      "description": "Mozilla představila plánovanou funkci AI Window – nový režim prohlížení s integrovaným asistentem umělé inteligence. Uživatelé reagují kriticky a požadují možnost jednoduše vypnout veškeré AI funkce.",
       "slug": "firefox-adds-ai-window-users-want-ai-wall-to-keep-",
       "publishedAt": "2025-11-13T21:08:00+00:00",
       "date": "2025-11-13 21:08:00",
@@ -44,8 +65,51 @@
       "people": []
     },
     {
+      "title": "Apple sníží provizi pro vývojáře miniaplikací na 15 procent",
+      "description": "Apple spustil nový program pro vývojáře miniaplikací, který snižuje provizi z prodejů v rámci aplikací z běžných 30 procent na 15 procent.",
+      "slug": "apple-will-take-a-mini-commission-from-mini-app-de",
+      "publishedAt": "2025-11-13T19:58:25+00:00",
+      "date": "2025-11-13 19:58:25",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-13/apple-will-take-a-mini-commission-from-mini-app-de/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje složitý online výzkum, a rozšiřuje podporu pro další typy souborů.",
+      "slug": "googles-notebooklm-adds-deep-research-tool-support",
+      "publishedAt": "2025-11-13T17:00:00+00:00",
+      "date": "2025-11-13 17:00:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2199793091.jpg?w=1024",
+      "url": "/tech-news/2025-11-13/googles-notebooklm-adds-deep-research-tool-support/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Google",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
       "title": "iOS 26.2 přidává nové nastavení pro CarPlay",
-      "description": "iOS 26 rozšířil funkci připnutých konverzací v aplikaci Zprávy i na CarPlay, nyní si uživatelé mohou zvolit, zda ji chtějí používat nebo ne.",
+      "description": "iOS 26 rozšířil funkci připnutých konverzací v aplikaci Zprávy i do CarPlay, nyní však uživatelé mohou tuto možnost vypnout.",
       "slug": "ios-262-adds-new-carplay-setting-macrumors",
       "publishedAt": "2025-11-13T14:48:21+00:00",
       "date": "2025-11-13 14:48:21",
@@ -85,8 +149,8 @@
       "people": []
     },
     {
-      "title": "Google rozšiřuje AI nakupování: konverzační vyhledávání, autonomní pokladna a AI, která volá do obchodů",
-      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, autonomního procesu pokladny a nástroje, který zjišťuje dostupnost zboží v místních obchodech prostřednictvím telefonátu.",
+      "title": "Google rozšiřuje AI nakupování o konverzační vyhledávání, agenskou pokladnu a AI, která volá do obchodů",
+      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, pokročilého porovnávání produktů a nástroje, který zjišťuje dostupnost zboží v místních obchodech.",
       "slug": "google-augments-ai-shopping-with-conversational-se",
       "publishedAt": "2025-11-13T14:00:00+00:00",
       "date": "2025-11-13 14:00:00",
@@ -3493,27 +3557,6 @@
       "people": []
     },
     {
-      "title": "Best Buy spouští druhou vlnu Black Friday Doorbusters: sleva na Galaxy S25 Ultra a nabídky na Samsung TV a MacBook Air",
-      "description": "Best Buy zahajuje druhý týden Black Friday Doorbusters s omezenými víkendovými slevami na klíčovou spotřební elektroniku včetně Galaxy S25 Ultra, OLED televizorů Samsung, herních headsetů a domácích spotřebičů, přičemž část nabídek je cenově podstřelována konkurencí jako Amazon.",
-      "slug": "best-buy-week-2-black-friday-doorbusters-now-live-",
-      "publishedAt": "2025-11-07T22:25:00+00:00",
-      "date": "2025-11-07 22:25:00",
-      "importance": 3,
-      "category": "slevy",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-week-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/best-buy-week-2-black-friday-doorbusters-now-live/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "companies": [
-        "Best Buy",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "Dekodér mozku převádí vizuální myšlenky na text",
       "description": "Nová metoda dekódování mozku zvaná mind captioning dokáže generovat přesné textové popisy toho, co člověk vidí nebo si vybavuje – aniž by se spoléhala na jazykový systém mozku.",
       "slug": "brain-decoder-translates-visual-thoughts-into-text",
@@ -3592,30 +3635,6 @@
         "Ars Technica",
         "Archive.is",
         "Archive.today"
-      ],
-      "people": []
-    },
-    {
-      "title": "Best Buy spouští předčasné slevy na Black Friday: tablety od 49 dolarů, velké TV od 69 dolarů",
-      "description": "Americký řetězec Best Buy odstartoval v předstihu slevy na Black Friday, které zahrnují levné tablety, notebooky, velkoformátové 4K a OLED televizory a spotřebiče. Nabídky jsou primárně relevantní pro americký trh, ale ukazují cenový tlak v segmentu spotřební elektroniky.",
-      "slug": "best-buy-just-dropped-tons-of-early-black-friday-d",
-      "publishedAt": "2025-11-07T18:26:20+00:00",
-      "date": "2025-11-07 18:26:20",
-      "importance": 1,
-      "category": "spotřební elektronik",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VoQ8YGbFgUK65Y69iXdKa5-2000-80.jpg",
-      "url": "/tech-news/2025-11-07/best-buy-just-dropped-tons-of-early-black-friday-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [
-        "Best Buy",
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Amazon"
       ],
       "people": []
     },
@@ -3835,27 +3854,6 @@
         "name": "PhoneArena"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chybná cena na webu Applu nabídla balení 4 AirTagů za 29 dolarů, objednávky byly zrušeny",
-      "description": "Na oficiálním webu Applu se krátce objevila chyba, kdy bylo balení čtyř AirTagů naceněno na 29 dolarů místo standardních 99. Apple cenu rychle opravil a začal rušit chybně provedené objednávky.",
-      "slug": "apples-website-lists-airtag-4-pack-for-29-in-likel",
-      "publishedAt": "2025-11-07T14:21:00+00:00",
-      "date": "2025-11-07 14:21:00",
-      "importance": 1,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/screenshot-2025-11-07-at-09.20.13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/apples-website-lists-airtag-4-pack-for-29-in-likel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "9to5Mac"
-      ],
       "people": []
     },
     {
