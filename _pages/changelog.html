@@ -1,3 +1,12 @@
+---
+layout: page
+title: Historie změn
+permalink: /changelog/
+---
+
+<div class="changelog-container">
+  <div class="changelog-content">
+    {% capture changelog_content %}
 # Changelog
 
 Všechny významné změny v projektu Marigold.cz jsou dokumentovány v tomto souboru.
@@ -77,3 +86,102 @@ Formát: `MAJOR.MINOR.PATCH`
 ---
 
 **Aktualizováno**: 2025-11-15
+    {% endcapture %}
+
+    {{ changelog_content | markdownify }}
+  </div>
+</div>
+
+<style>
+.changelog-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.changelog-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.changelog-content h1 {
+  color: #2d3748;
+  border-bottom: 3px solid #3182ce;
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.changelog-content h2 {
+  color: #3182ce;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+}
+
+.changelog-content h3 {
+  color: #4a5568;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.changelog-content ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.changelog-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.changelog-content code {
+  background: #f7fafc;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: #e53e3e;
+}
+
+.changelog-content pre {
+  background: #2d3748;
+  color: #e2e8f0;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.changelog-content pre code {
+  background: transparent;
+  color: #e2e8f0;
+  padding: 0;
+}
+
+.changelog-content a {
+  color: #3182ce;
+  text-decoration: none;
+}
+
+.changelog-content a:hover {
+  text-decoration: underline;
+}
+
+.changelog-content hr {
+  border: none;
+  border-top: 2px solid #e2e8f0;
+  margin: 2rem 0;
+}
+
+@media (max-width: 768px) {
+  .changelog-container {
+    padding: 1rem 0.5rem;
+  }
+
+  .changelog-content {
+    padding: 1.5rem 1rem;
+  }
+}
+</style>
