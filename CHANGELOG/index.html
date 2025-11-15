@@ -228,7 +228,11 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
   <li>Povinnost aktualizovat CHANGELOG.md po každém commitu</li>
   <li>Archiv odkaz v headeru <code class="language-plaintext highlighter-rouge">/tech-news/</code> stránky - viditelný hned při načtení</li>
   <li>HTML verze CHANGELOGu dostupná na <code class="language-plaintext highlighter-rouge">/changelog/</code> s odkazem v patičce webu</li>
-  <li>Sekce “Tech News” na titulní stránce - zobrazuje maximálně 5 nejnovějších článků s vysokou důležitostí (importance &gt;= 4)</li>
+  <li>Sekce “Tech News” na titulní stránce - zobrazuje striktně 5 nejnovějších článků s vysokou důležitostí (importance &gt;= 4)
+    <ul>
+      <li>Použití dvoustupňového filtru: <code class="language-plaintext highlighter-rouge">slice: 0, 5</code> + <code class="language-plaintext highlighter-rouge">limit: 5</code> v for loop pro garantovaný limit</li>
+    </ul>
+  </li>
 </ul>
 
 <h3 id="fixed">Fixed</h3>
