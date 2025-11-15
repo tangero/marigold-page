@@ -130,7 +130,7 @@ layout: default
 
         <div class="tech-news-content">
           <h2 class="tech-news-title">
-            <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+            <a href="/tech-news/{{ article.date | date: '%Y-%m-%d' }}/{{ article.slug }}/">{{ article.title }}</a>
           </h2>
 
           <p class="tech-news-description">{{ article.description }}</p>
