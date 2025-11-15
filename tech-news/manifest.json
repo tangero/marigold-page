@@ -1,7 +1,91 @@
 {
-  "generated": "2025-11-15T12:26:11.421637+00:00",
+  "generated": "2025-11-15T16:23:23.426829+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google připravuje pro Android funkci podobnou NameDropu – první pohled na výměnu kontaktů gestem",
+      "description": "Google vyvíjí pro Android novou funkci nazývanou „Gesture Exchange“ nebo „Contact Exchange“, která umožní sdílení kontaktů pomocí gesta a technologie NFC, podobně jako Apple NameDrop.",
+      "slug": "exclusive-googles-take-on-namedrop-could-be-coming",
+      "publishedAt": "2025-11-14T11:48:40+00:00",
+      "date": "2025-11-14 11:48:40",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/06/Apple-WWDC-2023-name-drop-3.jpg",
+      "url": "/tech-news/2025-11-14/exclusive-googles-take-on-namedrop-could-be-coming/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "WhatsApp spouští integraci s jinými chatovacími aplikacemi v Evropě",
+      "description": "Meta zavádí podporu pro komunikaci mezi WhatsAppem a jinými šifrovanými chatovacími službami v souladu s Digitálním tržním aktem EU. Prvními partnery budou BirdyChat a Haiket.",
+      "slug": "whatsapp-is-launching-third-party-chat-integration",
+      "publishedAt": "2025-11-14T10:41:35+00:00",
+      "date": "2025-11-14 10:41:35",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK110_whats_app_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-14/whatsapp-is-launching-third-party-chat-integration/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Meta",
+        "BirdyChat",
+        "Haiket"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zapomeňte na Samsung S25 Ultra: Tento vlajkový model od OnePlusu překonává androidího giganta v klíčových ohledech",
+      "description": "Recenze porovnává nový OnePlus 15 s očekávaným Samsungem S25 Ultra a ukazuje, kde čínský výrobce nabízí lepší zážitek – navzdory pozdnímu uvedení na trh.",
+      "slug": "forget-samsung-s25-ultra-this-oneplus-flagship-bea",
+      "publishedAt": "2025-11-14T10:00:00+00:00",
+      "date": "2025-11-14 10:00:00",
+      "importance": 3,
+      "category": "mobilní telefony",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/97fbe327db7e5be66895d789b3bcdd5f7905748e/2025/11/13/70cec1c4-a8c0-4c2f-9017-c7f5ae58889c/dsc08556.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-14/forget-samsung-s25-ultra-this-oneplus-flagship-bea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "OnePlus",
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejnovější aktualizace aplikace Google Home přináší rychlejší ovládání a ponořivé rozhraní",
+      "description": "Aktualizace Google Home na verzi 4.3 zryšuje ovládání zařízení a umožňuje offline funkčnost pro zařízení kompatibilní se standardem Matter.",
+      "slug": "latest-google-home-app-update-brings-faster-contro",
+      "publishedAt": "2025-11-14T04:43:00+00:00",
+      "date": "2025-11-14 04:43:00",
+      "importance": 3,
+      "category": "chytré domácnosti",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/google-home-smart-devices.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-14/latest-google-home-app-update-brings-faster-contro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Apple spouští program pro miniaplikace a snižuje poplatky App Store na 15 %",
       "description": "Apple představil nový program pro vývojáře miniaplikací, které běží uvnitř jiných aplikací, a snížil svůj standardní poplatek z 30 % na 15 %.",
@@ -19,6 +103,26 @@
       },
       "companies": [
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "DJI představila mini dron Neo 2 před možným zákazem ve Spojených státech",
+      "description": "Společnost DJI uvedla na trh nový mini dron Neo 2 s funkcí sledování uživatele, ale v USA jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu svých produktů.",
+      "slug": "dji-launches-neo-2-mini-drone-ahead-of-potential-u",
+      "publishedAt": "2025-11-13T23:21:00+00:00",
+      "date": "2025-11-13 23:21:00",
+      "importance": 3,
+      "category": "drony",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00f6F3GqaeT5KBBF3rdq0TT/hero-image.fill.size_1200x675.v1763050292.jpg",
+      "url": "/tech-news/2025-11-13/dji-launches-neo-2-mini-drone-ahead-of-potential-u/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "DJI"
       ],
       "people": []
     },
@@ -44,13 +148,13 @@
       "people": []
     },
     {
-      "title": "Firefox přidává AI okno, uživatelé chtějí spíš zeď proti umělé inteligenci",
-      "description": "Mozilla představila plánovanou funkci AI Window – nový režim prohlížení s integrovaným asistentem umělé inteligence. Uživatelé reagují kriticky a požadují možnost jednoduše vypnout veškeré AI funkce.",
+      "title": "Firefox přidává AI okno, uživatelé chtějí spíš AI zeď",
+      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox, která vyvolala vlnu kritiky ze strany komunity. Společnost argumentuje, že se jedná o plně volitelnou funkci, ale uživatelé požadují jednoduchý způsob, jak všechny AI funkce vypnout.",
       "slug": "firefox-adds-ai-window-users-want-ai-wall-to-keep-",
       "publishedAt": "2025-11-13T21:08:00+00:00",
       "date": "2025-11-13 21:08:00",
       "importance": 3,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg",
       "url": "/tech-news/2025-11-13/firefox-adds-ai-window-users-want-ai-wall-to-keep/",
       "source": {
@@ -88,7 +192,7 @@
     },
     {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
-      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje složitý online výzkum, a rozšiřuje podporu pro další typy souborů.",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje složité online výzkumy, a rozšiřuje podporu pro další typy souborů.",
       "slug": "googles-notebooklm-adds-deep-research-tool-support",
       "publishedAt": "2025-11-13T17:00:00+00:00",
       "date": "2025-11-13 17:00:00",
@@ -105,6 +209,45 @@
         "Google",
         "TechCrunch"
       ],
+      "people": []
+    },
+    {
+      "title": "AMD spouští první funkci FSR Redstone v Call of Duty: Black Ops 7, ale pouze pro grafiky RX 9000",
+      "description": "AMD představila první komerční implementaci své připravované technologie FSR Redstone ve hře Call of Duty: Black Ops 7. Nová funkce je však dostupná výhradně pro uživatele grafických karet řady RX 9000.",
+      "slug": "amd-launches-first-feature-from-fsr-redstone-with-",
+      "publishedAt": "2025-11-13T16:13:00+00:00",
+      "date": "2025-11-13 16:13:00",
+      "importance": 3,
+      "category": "herní technologie",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/FSR-REDSTONE-HERO-COD.jpg",
+      "url": "/tech-news/2025-11-13/amd-launches-first-feature-from-fsr-redstone-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "companies": [
+        "AMD",
+        "Activision"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hledáte obří Mini LED televizi za rozumnou cenu? Tato Black Friday sleva je pro vás",
+      "description": "Model TCL C7K s úhlopříčkou 85 palců je nyní v prodeji za 1349 liber, což je o 850 liber méně než původní cena.",
+      "slug": "looking-for-a-super-sized-mini-led-that-wont-cost-",
+      "publishedAt": "2025-11-13T14:52:27+00:00",
+      "date": "2025-11-13 14:52:27",
+      "importance": 3,
+      "category": "televize",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xhLkFKYyyte3ZNAQhp5BvV-1920-80.jpg",
+      "url": "/tech-news/2025-11-13/looking-for-a-super-sized-mini-led-that-wont-cost/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "What Hi-Fi? US"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -149,8 +292,8 @@
       "people": []
     },
     {
-      "title": "Google rozšiřuje AI nakupování o konverzační vyhledávání, agenskou pokladnu a AI, která volá do obchodů",
-      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, pokročilého porovnávání produktů a nástroje, který zjišťuje dostupnost zboží v místních obchodech.",
+      "title": "Google rozšiřuje AI nakupování o konverzační vyhledávání, autonomní pokladnu a AI, která volá do obchodů",
+      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, autonomního procesu pokladny a nástroje, který zjišťuje dostupnost zboží v místních obchodech prostřednictvím telefonátu.",
       "slug": "google-augments-ai-shopping-with-conversational-se",
       "publishedAt": "2025-11-13T14:00:00+00:00",
       "date": "2025-11-13 14:00:00",
@@ -166,6 +309,24 @@
       "companies": [
         "Google"
       ],
+      "people": []
+    },
+    {
+      "title": "Nový týden událostí v GTA Online: První náznaky DLC s vilami",
+      "description": "Rockstar Games spustil speciální týden událostí v GTA Online (13.–19. listopadu), který přináší první herní náznaky na nadcházející DLC zaměřené na luxusní vily a nové mise.",
+      "slug": "new-gta-online-event-week-mansions-teasers-are-her",
+      "publishedAt": "2025-11-13T10:00:52+00:00",
+      "date": "2025-11-13 10:00:52",
+      "importance": 3,
+      "category": "herní průmysl",
+      "urlToImage": "https://rockstarintel.com/wp-content/uploads/2025/11/10a81091be45743321b60cbb69e73a0905609c77-scaled.jpg",
+      "url": "/tech-news/2025-11-13/new-gta-online-event-week-mansions-teasers-are-her/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rockstarintel.com"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -3557,24 +3718,6 @@
       "people": []
     },
     {
-      "title": "Dekodér mozku převádí vizuální myšlenky na text",
-      "description": "Nová metoda dekódování mozku zvaná mind captioning dokáže generovat přesné textové popisy toho, co člověk vidí nebo si vybavuje – aniž by se spoléhala na jazykový systém mozku.",
-      "slug": "brain-decoder-translates-visual-thoughts-into-text",
-      "publishedAt": "2025-11-07T21:32:24+00:00",
-      "date": "2025-11-07 21:32:24",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://neurosciencenews.com/files/2025/11/AI-thought-text-neurotech.jpg",
-      "url": "/tech-news/2025-11-07/brain-decoder-translates-visual-thoughts-into-text/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Neurosciencenews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Samsung představí LPDDR6 paměti s přenosovou rychlostí 10,7 Gbps na CES 2026",
       "description": "Samsung na veletrhu CES 2026 ukáže první LPDDR6 DRAM čipy vyráběné 12nm technologií s rychlostí až 10,7 Gbps na pin, přičemž komerční nasazení plánuje v následujícím roce. Nové paměti cílí na mobilní zařízení, výkonné čipy pro AI a automobilový sektor.",
       "slug": "samsung-confirms-lpddr6-memory-with-107-gbps-bandw",
@@ -3591,50 +3734,6 @@
       },
       "companies": [
         "SAMSUNG"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Wallet zavádí personalizaci podle nákupů a digitálních pasů",
-      "description": "Google přidává do aplikace Wallet nové volby personalizace, které využijí historii plateb a uložených pasů k cílenějším doporučením a reklamě, s možností detailního vypnutí.",
-      "slug": "google-wallet-adding-new-purchase-and-pass-persona",
-      "publishedAt": "2025-11-07T19:00:00+00:00",
-      "date": "2025-11-07 19:00:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/google-wallet-adding-new-purchase-and-pass-persona/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "FBI žádá od registrátora Tucows identitu provozovatele archivační služby Archive.is",
-      "description": "FBI v rámci federálního trestního vyšetřování předvolala registrátora domén Tucows k vydání údajů o provozovateli služby Archive.is (Archive.today), která ukládá snímky webových stránek a často se používá k obcházení paywallů.",
-      "slug": "fbi-orders-domain-registrar-to-reveal-who-runs-mys",
-      "publishedAt": "2025-11-07T18:28:23+00:00",
-      "date": "2025-11-07 18:28:23",
-      "importance": 3,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-1152x648-1762539099.jpg",
-      "url": "/tech-news/2025-11-07/fbi-orders-domain-registrar-to-reveal-who-runs-mys/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "FBI",
-        "Tucows",
-        "Ars Technica",
-        "Archive.is",
-        "Archive.today"
       ],
       "people": []
     },
@@ -3680,33 +3779,6 @@
       ],
       "people": [
         "Elon Musk"
-      ]
-    },
-    {
-      "title": "Gemini Deep Research získává přístup k datům z Gmailu a Google Drive",
-      "description": "Google rozšiřuje Gemini Deep Research o možnost analyzovat obsah Gmailu, Google Drive a Chatů v rámci Google Workspace, aby poskytoval kontextově přesnější odpovědi. Funkce však současně otevírá nové otázky ohledně ochrany soukromí, bezpečnosti a spolehlivosti výstupů.",
-      "slug": "gemini-deep-research-can-now-comb-through-workspac",
-      "publishedAt": "2025-11-07T17:27:00+00:00",
-      "date": "2025-11-07 17:27:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://regmedia.co.uk/2022/08/25/research_shutterstock.jpg",
-      "url": "/tech-news/2025-11-07/gemini-deep-research-can-now-comb-through-workspac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Google",
-        "Microsoft",
-        "OpenAI",
-        "Apple",
-        "Anthropic"
-      ],
-      "people": [
-        "Elon Musk",
-        "Sundar Pichai"
       ]
     },
     {
@@ -3857,34 +3929,6 @@
       "people": []
     },
     {
-      "title": "Apple zvažuje levný notebook s čipem z iPhonu. Může oživit koncept iBooku",
-      "description": "Apple podle dostupných informací připravuje levnější notebook postavený na čipu z iPhonu a současně se vyostřuje spor mezi Amazonem a Perplexity o podobu AI asistovaného nakupování. Diskuse ukazuje, jak nejasná je dnes strategie Applu i budoucnost webu v éře AI agentů.",
-      "slug": "bring-back-the-ibook-you-cowards-the-verge",
-      "publishedAt": "2025-11-07T14:10:27+00:00",
-      "date": "2025-11-07 14:10:27",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VRG_VST_1107_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-07/bring-back-the-ibook-you-cowards-the-verge/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Amazon",
-        "Perplexity",
-        "Google",
-        "Microsoft"
-      ],
-      "people": [
-        "Tim Cook",
-        "Jeff Bezos",
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "IKEA představila 21 nových chytrých zařízení s podporou Matter",
       "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení pro osvětlení, senzory a ovládání, všechna s podporou standardu Matter pro jednodušší integraci s existujícími systémy.",
       "slug": "ikea-just-announced-21-smart-home-gadgets-heres-th",
@@ -4006,70 +4050,6 @@
         "name": "Internet"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini dorazí do Android Auto, zatím jen pro omezený okruh uživatelů",
-      "description": "Google začal omezeně nasazovat AI asistenta Gemini do Android Auto, kde má postupně nahradit Google Asistenta a nabídnout přesnější hlasové ovládání, integraci s aplikacemi a bezpečnější, stručnější interakce během řízení.",
-      "slug": "gemini-is-finally-hitting-the-road-with-android-au",
-      "publishedAt": "2025-11-07T05:51:00+00:00",
-      "date": "2025-11-07 05:51:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img20251030110106.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-07/gemini-is-finally-hitting-the-road-with-android-au/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Galaxy S26 zůstává předvídatelný: Samsung se vzdal odvážnější strategie s verzemi Pro a Edge",
-      "description": "Samsung podle dostupných informací zachová u řady Galaxy S26 tradiční trojici modelů S26, S26 Plus a S26 Ultra a neprosadí plánované varianty Pro a Edge. Rozhodnutí ukazuje, že firma volí konzervativní přístup místo snahy výrazně přepracovat standardní model a odstranit dlouhodobě problematickou pozici verze Plus.",
-      "slug": "galaxy-s26-was-so-close-to-being-iconic-but-samsun",
-      "publishedAt": "2025-11-07T02:01:44+00:00",
-      "date": "2025-11-07 02:01:44",
-      "importance": 3,
-      "category": "smartphony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175541-wide-two_1200/Galaxy-S26-was-so-close-to-being-iconic-but-Samsung-chose-predictability.jpg",
-      "url": "/tech-news/2025-11-07/galaxy-s26-was-so-close-to-being-iconic-but-samsun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Samsung",
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fitbit Labs testuje detekci neobvyklých trendů a studii hypertenze na Pixel Watch 3",
-      "description": "Fitbit (Google) spouští v rámci Fitbit Labs dva experimentální programy: sledování neobvyklých odchylek ve zdravotních metrikách a klinicky orientovanou studii hypertenze využívající data z hodinek Pixel Watch 3.",
-      "slug": "fitbit-labs-testing-unusual-trend-detection-and-hy",
-      "publishedAt": "2025-11-07T00:56:00+00:00",
-      "date": "2025-11-07 00:56:00",
-      "importance": 3,
-      "category": "zdravotní technologi",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/fitbit-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/fitbit-labs-testing-unusual-trend-detection-and-hy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Fitbit",
-        "Google",
-        "9to5Google"
-      ],
       "people": []
     },
     {
