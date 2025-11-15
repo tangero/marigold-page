@@ -18,7 +18,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Povinnost aktualizovat CHANGELOG.md po každém commitu
 - Archiv odkaz v headeru `/tech-news/` stránky - viditelný hned při načtení
 - HTML verze CHANGELOGu dostupná na `/changelog/` s odkazem v patičce webu
-- Sekce "Tech News" na titulní stránce - zobrazuje 5 nejnovějších článků s vysokou důležitostí (importance >= 4)
+- Sekce "Tech News" na titulní stránce - zobrazuje 5 nejnovějších článků se střední a vysokou důležitostí (importance >= 3)
 
 ### Fixed
 - Permalinky v `_layouts/tech_news_day.html` - články nyní vedou na interní stránky `/tech-news/YYYY-MM-DD/slug/` místo externích URL
