@@ -32,6 +32,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests python-dateutil pytz feedparser beautifulsoup4 pyyaml python-dotenv Pillow
 
+    - name: Initialize metrics database
+      run: |
+        python scripts/init_metrics_db.py || true
+
     - name: Fetch and translate tech news (NewsAPI)
       env:
         NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
@@ -50,6 +54,10 @@ jobs:
     - name: Run health check
       run: |
         python scripts/tech_news_health_check.py --output _data/tech_news_health.json || true
+
+    - name: Generate dashboard data
+      run: |
+        python scripts/generate_dashboard_data.py --days 30 --output _data/tech_news_dashboard.json || true
 
     - name: Check for changes
       id: git-check
@@ -71,5 +79,8 @@ jobs:
         git add tech-news/
         git add assets/tech-news/ || true
         git add _data/tech_news_health.json || true
+        git add _data/tech_news_dashboard.json || true
+        git add _data/tech_news_metrics.db || true
+        git add _data/processing_logs/ || true
         git commit -m "🤖 Aktualizace technologických zpráv $(date '+%Y-%m-%d %H:%M')"
         git push

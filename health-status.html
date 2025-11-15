@@ -4,10 +4,11 @@ title: Tech News Health Status
 permalink: /health-status/
 ---
 {% assign health_data = site.data.tech_news_health %}
+{% assign dashboard = site.data.tech_news_dashboard %}
 
-<div class="container" style="max-width: 1200px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+<div class="container" style="max-width: 1400px; margin: 2rem auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
 
-  <h1 style="margin-bottom: 2rem;">🏥 Tech News Health Status</h1>
+  <h1 style="margin-bottom: 2rem;">🏥 Tech News Health & Pipeline Status</h1>
 
   <!-- Overall Status -->
   <div style="padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; {% if health_data.status == 'OK' %}background: #d4edda; border: 2px solid #28a745;{% elsif health_data.status == 'WARNING' %}background: #fff3cd; border: 2px solid #ffc107;{% else %}background: #f8d7da; border: 2px solid #dc3545;{% endif %}">
@@ -21,6 +22,178 @@ permalink: /health-status/
       <strong>Summary:</strong> {{ health_data.summary | default: 'N/A' }}
     </p>
   </div>
+
+  <!-- Dashboard Stats - 30 Days Overview -->
+  {% if dashboard %}
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>📈 30denní přehled ({{ dashboard.period_days | default: 30 }} dní)</h2>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">Celkem článků</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          {{ dashboard.aggregates.total_articles | default: 0 }}
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          Denní průměr: {{ dashboard.aggregates.avg_daily_articles | default: 0 }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">LLM náklady</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          ${{ dashboard.aggregates.total_cost | default: 0 }}
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          Celkem za období
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">API dotazy</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          {{ dashboard.aggregates.total_fetched | default: 0 }}
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          Sessions: {{ dashboard.aggregates.total_sessions | default: 0 }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 8px; color: white;">
+        <div style="font-size: 0.875rem; opacity: 0.9;">Přeskočeno</div>
+        <div style="font-size: 2.5rem; font-weight: bold;">
+          {{ dashboard.aggregates.total_skipped | default: 0 }}
+        </div>
+        <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
+          {% if dashboard.aggregates.most_common_skip_reason %}
+          Hlavně: {{ dashboard.aggregates.most_common_skip_reason.reason }}
+          {% endif %}
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Pipeline Funnel -->
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>🔄 Processing Pipeline (30 dní)</h2>
+    <div style="margin-top: 1rem;">
+      {% assign total_fetched = dashboard.aggregates.total_fetched | default: 1 %}
+      {% assign total_saved = dashboard.aggregates.total_articles | default: 0 %}
+      {% assign total_skipped = dashboard.aggregates.total_skipped | default: 0 %}
+      {% assign save_rate = total_saved | times: 100.0 | divided_by: total_fetched %}
+
+      <div style="margin-bottom: 1.5rem;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+          <span>📥 API Fetch</span>
+          <strong>{{ total_fetched }}</strong>
+        </div>
+        <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
+          <div style="background: #007bff; height: 100%; width: 100%;"></div>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 1.5rem;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+          <span>⏭️ Přeskočeno (filtry)</span>
+          <strong>{{ total_skipped }}</strong>
+        </div>
+        {% assign skip_percent = total_skipped | times: 100.0 | divided_by: total_fetched %}
+        <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
+          <div style="background: #ffc107; height: 100%; width: {{ skip_percent }}%;"></div>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 0;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+          <span>💾 Uloženo</span>
+          <strong>{{ total_saved }} ({{ save_rate | round: 1 }}%)</strong>
+        </div>
+        <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
+          <div style="background: #28a745; height: 100%; width: {{ save_rate }}%;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Daily Chart -->
+  {% if dashboard.daily_series.size > 0 %}
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>📊 Denní statistiky (posledních 14 dní)</h2>
+    <div style="overflow-x: auto;">
+      <table style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
+        <thead>
+          <tr style="background: #f8f9fa; border-bottom: 2px solid #dee2e6;">
+            <th style="padding: 0.75rem; text-align: left;">Datum</th>
+            <th style="padding: 0.75rem; text-align: right;">Fetched</th>
+            <th style="padding: 0.75rem; text-align: right;">Saved</th>
+            <th style="padding: 0.75rem; text-align: right;">Skipped</th>
+            <th style="padding: 0.75rem; text-align: right;">Cost</th>
+            <th style="padding: 0.75rem; text-align: right;">Success</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for day in dashboard.daily_series limit: 14 %}
+          <tr style="border-bottom: 1px solid #dee2e6;">
+            <td style="padding: 0.75rem;">{{ day.date }}</td>
+            <td style="padding: 0.75rem; text-align: right;">{{ day.articles_fetched }}</td>
+            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">{{ day.articles_saved }}</td>
+            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">{{ day.articles_skipped }}</td>
+            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">${{ day.llm_cost }}</td>
+            <td style="padding: 0.75rem; text-align: right;">
+              {% assign success_pct = day.success_rate | times: 100 %}
+              <span style="{% if success_pct >= 90 %}color: #28a745;{% elsif success_pct >= 70 %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
+                {{ success_pct | round: 0 }}%
+              </span>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Performance Metrics -->
+  {% if dashboard.performance_metrics %}
+  <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h2>⚡ Performance Metriky</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 1rem;">
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #007bff;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Průměrný čas session</div>
+        <div style="font-size: 1.75rem; font-weight: bold; color: #007bff;">
+          {{ dashboard.performance_metrics.avg_session_duration | default: 0 }}s
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #17a2b8;">
+        <div style="font-size: 0.875rem; color: #6c757d;">API Response Time</div>
+        <div style="font-size: 1.75rem; font-weight: bold; color: #17a2b8;">
+          {{ dashboard.performance_metrics.avg_api_response_time | default: 0 }}ms
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #28a745;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Tokens per Article</div>
+        <div style="font-size: 1.75rem; font-weight: bold; color: #28a745;">
+          {{ dashboard.performance_metrics.avg_tokens_per_article | default: 0 }}
+        </div>
+      </div>
+
+      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #dc3545;">
+        <div style="font-size: 0.875rem; color: #6c757d;">Error Rate</div>
+        {% assign error_pct = dashboard.performance_metrics.error_rate | times: 100 %}
+        <div style="font-size: 1.75rem; font-weight: bold; color: #dc3545;">
+          {{ error_pct | round: 2 }}%
+        </div>
+      </div>
+
+    </div>
+  </div>
+  {% endif %}
+  {% endif %}
 
   <!-- Alerts -->
   {% if health_data.alerts.size > 0 %}
@@ -36,9 +209,9 @@ permalink: /health-status/
   </div>
   {% endif %}
 
-  <!-- Key Metrics -->
+  <!-- Current Metrics -->
   <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h2>📊 Klíčové Metriky</h2>
+    <h2>📊 Aktuální Metriky</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
@@ -56,13 +229,6 @@ permalink: /health-status/
       </div>
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
-        <div style="font-size: 0.875rem; color: #6c757d;">Články za 1h</div>
-        <div style="font-size: 2rem; font-weight: bold; color: #17a2b8;">
-          {{ health_data.metrics.articles_1h | default: 0 }}
-        </div>
-      </div>
-
-      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
         <div style="font-size: 0.875rem; color: #6c757d;">Stáří nejnovějšího (h)</div>
         <div style="font-size: 2rem; font-weight: bold; color: {% if health_data.metrics.newest_article_age_hours <= 6 %}#28a745{% elsif health_data.metrics.newest_article_age_hours <= 12 %}#ffc107{% else %}#dc3545{% endif %};">
           {{ health_data.metrics.newest_article_age_hours | default: 'N/A' }}
@@ -73,13 +239,6 @@ permalink: /health-status/
         <div style="font-size: 0.875rem; color: #6c757d;">Poměr češtiny</div>
         <div style="font-size: 2rem; font-weight: bold; color: {% if health_data.metrics.czech_ratio >= 0.85 %}#28a745{% elsif health_data.metrics.czech_ratio >= 0.7 %}#ffc107{% else %}#dc3545{% endif %};">
           {{ health_data.metrics.czech_ratio | times: 100 | round: 1 }}%
-        </div>
-      </div>
-
-      <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
-        <div style="font-size: 0.875rem; color: #6c757d;">Průměrná délka obsahu</div>
-        <div style="font-size: 2rem; font-weight: bold; color: #6c757d;">
-          {{ health_data.metrics.avg_content_length | default: 0 | round: 0 }}
         </div>
       </div>
 
@@ -117,20 +276,10 @@ permalink: /health-status/
         <li>Poměr češtiny: {{ health_data.checks.language.czech_ratio | times: 100 | round: 1 }}%</li>
         <li>Analyzováno článků: {{ health_data.checks.language.sample_size | default: 0 }}</li>
       </ul>
-      {% if health_data.checks.language.english_articles_sample.size > 0 %}
-      <details>
-        <summary style="cursor: pointer; color: #007bff;">Ukázka anglických článků ({{ health_data.checks.language.english_articles_sample.size }})</summary>
-        <ul style="margin-top: 0.5rem;">
-          {% for article in health_data.checks.language.english_articles_sample %}
-          <li><code>{{ article.file }}</code> - skóre: {{ article.score }}</li>
-          {% endfor %}
-        </ul>
-      </details>
-      {% endif %}
     </div>
 
     <!-- Content Quality Check -->
-    <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #dee2e6;">
+    <div style="margin-bottom: 1.5rem;">
       <h3 style="margin-top: 0;">
         📝 Kvalita obsahu:
         <span style="{% if health_data.checks.content_quality.status == 'OK' %}color: #28a745;{% elsif health_data.checks.content_quality.status == 'WARNING' %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
@@ -143,30 +292,23 @@ permalink: /health-status/
       </ul>
     </div>
 
-    <!-- Front Matter Check -->
-    <div style="margin-bottom: 1.5rem;">
-      <h3 style="margin-top: 0;">
-        🔍 Validita front matter:
-        <span style="{% if health_data.checks.front_matter.status == 'OK' %}color: #28a745;{% elsif health_data.checks.front_matter.status == 'WARNING' %}color: #ffc107;{% else %}color: #dc3545;{% endif %}">
-          {{ health_data.checks.front_matter.status | default: 'UNKNOWN' }}
-        </span>
-      </h3>
-      <ul>
-        <li>Chybovost: {{ health_data.checks.front_matter.error_rate | times: 100 | round: 1 }}%</li>
-        <li>Nevalidních článků: {{ health_data.checks.front_matter.invalid_count | default: 0 }}</li>
-      </ul>
-    </div>
-
   </div>
 
   <!-- Raw JSON Data -->
-  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
-    <summary style="cursor: pointer; font-weight: bold;">📋 Raw JSON Data</summary>
+  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+    <summary style="cursor: pointer; font-weight: bold;">📋 Health Check Raw Data</summary>
     <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{{ health_data | jsonify }}</code></pre>
   </details>
 
+  {% if dashboard %}
+  <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+    <summary style="cursor: pointer; font-weight: bold;">📋 Dashboard Raw Data</summary>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{{ dashboard | jsonify }}</code></pre>
+  </details>
+  {% endif %}
+
   <p style="margin-top: 2rem; text-align: center; color: #6c757d;">
-    <small>Health check běží automaticky při každém build.</small>
+    <small>Health check běží automaticky při každém build. Dashboard data se generují denně.</small>
   </p>
 
 </div>

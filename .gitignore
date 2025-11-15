@@ -38,3 +38,6 @@ keyword_manager.rb
 /chatterbox_env
 _audio/2025-05-25-microsoft-build-2025.mp3
 .DS_Store
+*.backup
+*-shm
+*-wal

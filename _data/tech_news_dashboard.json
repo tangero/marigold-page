@@ -1,0 +1,24 @@
+{
+  "generated_at": "2025-11-15T18:18:55.689145+00:00",
+  "period_days": 30,
+  "current_status": {
+    "health": "UNKNOWN",
+    "last_run": null,
+    "last_run_status": "unknown",
+    "articles_today": 0,
+    "active_alerts": []
+  },
+  "daily_series": [],
+  "aggregates": {
+    "total_articles": 0,
+    "total_cost": 0.0,
+    "avg_daily_articles": 0,
+    "most_common_skip_reason": null
+  },
+  "performance_metrics": {
+    "avg_session_duration": 0.0,
+    "avg_api_response_time": 0.0,
+    "avg_tokens_per_article": 0.0,
+    "error_rate": 0.0
+  }
+}

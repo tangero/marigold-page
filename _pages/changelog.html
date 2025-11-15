@@ -27,6 +27,16 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Povinnost aktualizovat CHANGELOG.md po každém commitu
 - Archiv odkaz v headeru `/tech-news/` stránky - viditelný hned při načtení
 - HTML verze CHANGELOGu dostupná na `/changelog/` s odkazem v patičce webu
+- Sekce "Tech News" na titulní stránce - zobrazuje striktně 5 nejnovějších článků s vysokou důležitostí (importance >= 4)
+  - Použití dvoustupňového filtru: `slice: 0, 5` + `limit: 5` v for loop pro garantovaný limit
+- **Kompletní monitoring a logging systém pro tech-news pipeline:**
+  - `ProcessingLogger` třída (`scripts/processing_logger.py`) - sleduje celý processing pipeline
+  - SQLite databáze (`_data/tech_news_metrics.db`) - ukládá processing sessions, hourly a daily metriky
+  - JSON Lines logy (`_data/processing_logs/*.jsonl`) - append-only logy pro každý den
+  - Dashboard data generátor (`scripts/generate_dashboard_data.py`) - agreguje 30denní statistiky
+  - Rozšířený `/health-status/` dashboard s grafy, pipeline funnelem a performance metrikami
+  - Sledování: API fetch → LLM processing → Save pipeline s důvody přeskočení článků
+  - Metriky: počty článků, LLM náklady, tokeny, časy zpracování, error rate, skip reasons
 
 ### Fixed
 - Permalinky v `_layouts/tech_news_day.html` - články nyní vedou na interní stránky `/tech-news/YYYY-MM-DD/slug/` místo externích URL
