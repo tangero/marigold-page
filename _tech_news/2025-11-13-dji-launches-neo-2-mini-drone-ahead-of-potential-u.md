@@ -4,9 +4,9 @@ category: drony
 companies:
 - DJI
 date: '2025-11-13 23:21:00'
-description: Čínský výrobce dron DJI uvedl na trh novou mini dronu Neo 2 s funkcí
-  sledování uživatele, 4K videem a interní pamětí, ale zatím není oficiálně dostupná
-  ve Spojených státech kvůli hrozícímu zákazu.
+description: Čínský výrobce dronů DJI uvedl na trh nový model Neo 2 s funkcí sledování
+  uživatele, ale v USA jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu
+  svých produktů.
 importance: 3
 layout: tech_news_article
 original_title: DJI launches Neo 2 mini drone ahead of potential U.S. ban (updated)
@@ -17,29 +17,29 @@ source:
   emoji: 📰
   id: mashable
   name: Mashable
-title: DJI představila mini dronu Neo 2 těsně před možným zákazem ve Spojených státech
+title: DJI představila mini dron Neo 2 těsně před možným zákazem ve Spojených státech
 url: https://mashable.com/article/dji-neo-2-launch-price-specs-us-availability
 urlToImage: https://helios-i.mashable.com/imagery/articles/00f6F3GqaeT5KBBF3rdq0TT/hero-image.fill.size_1200x675.v1763050292.jpg
 urlToImageBackup: https://helios-i.mashable.com/imagery/articles/00f6F3GqaeT5KBBF3rdq0TT/hero-image.fill.size_1200x675.v1763050292.jpg
 ---
 
 ## Souhrn
-Společnost DJI, největší světový výrobce komerčních dron, představila novou mini dronu Neo 2 určenou pro spotřebitele. Zařízení nabízí 4K video při až 100 snímcích za sekundu, 19 minut letu a 49 GB interní paměti. Přestože je dron k dispozici v mnoha zemích, včetně Kanady, není oficiálně dostupný ve Spojených státech kvůli politickému tlaku a hrozícímu federálnímu zákazu čínských dronových technologií.
+Společnost DJI, největší světový výrobce spotřebitelských dronů, představila nový model Neo 2 – kompaktní dron s funkcí automatického sledování uživatele. Přestože je zařízení dostupné v mnoha zemích, včetně Kanady, oficiálně se neobjeví na americkém trhu kvůli politickému tlaku a hrozícímu federálnímu zákazu čínských dronů.
 
 ## Klíčové body
-- DJI Neo 2 je nástupcem populárního modelu Neo s vylepšenými funkcemi pro sledování uživatele.
-- Nabízí 4K video při 100 fps, 19 minut letového času a 49 GB interní paměti.
-- Oficiálně není dostupná ve Spojených státech kvůli hrozícímu zákazu DJI produktů.
-- V USA lze najít pouze přes neoficiální prodejce, což zvyšuje riziko podvodů a absence záruky.
-- DJI potvrdila, že Neo 2 nebude distribuována přes oficiální kanály v USA.
+- DJI Neo 2 nabízí natáčení ve 4K rozlišení až 100 snímků za sekundu
+- Disponuje 19 minutami letového času a 49 GB interní pamětí
+- Je určen pro začátečníky i nadšence do outdoorových aktivit
+- Oficiálně není dostupný ve Spojených státech kvůli hrozícímu zákazu DJI produktů
+- V USA lze najít pouze přes třetí strany, avšak s rostoucími obtížemi
 
 ## Podrobnosti
-Dron Neo 2 je navržen jako jednoduché řešení pro začátečníky i nadšence, kteří chtějí zachytit pohyblivé záběry během cestování, sportu nebo rodinných akcí. Funkce „follow-me“ umožňuje dronu autonomně sledovat uživatele pomocí vestavěných senzorů a algoritmů pro rozpoznávání objektů. Interní paměť 49 GB eliminuje nutnost používat externí microSD kartu, což zjednodušuje provoz, ale omezuje flexibilitu uživatelů. Letový čas 19 minut je v rámci kategorie mini dron průměrný, nicméně nižší než u některých konkurenčních modelů.
+Dron DJI Neo 2 je nástupcem populárního modelu Neo a zaměřuje se na snadné ovládání a automatické sledování uživatele – funkci, která umožňuje dronu samostatně sledovat pohyb osoby a natáčet ji během sportovních aktivit, cestování nebo rodinných výletů. Technické parametry zahrnují 4K kameru s rychlostí záznamu až 100 fps, což umožňuje kvalitní zpomalené záběry, a 49 GB interní úložiště, které eliminuje nutnost používat paměťové karty. Letová doba činí 19 minut, což je standard pro mini drony této třídy.
 
-Kontextem celé situace je rostoucí napětí mezi USA a Čínou v oblasti technologií. Federální úřady USA už několik let varují před bezpečnostními riziky spojenými s DJI drony, zejména kvůli možnému přenosu citlivých dat do Číny. V roce 2024 Kongres schválil zákon, který zakazuje federálním agenturám používat DJI drony, a nyní se připravuje širší zákaz pro spotřebitele. DJI tvrdí, že její zařízení neodesílají data bez souhlasu uživatele, ale důvěra ze strany amerických regulátorů klesá.
+Zatímco je Neo 2 již k dispozici například na Amazonu v Kanadě za 309 dolarů, američtí zákazníci jej na oficiálních stránkách DJI ani na americkém Amazonu nenajdou. Společnost potvrdila, že model nebude oficiálně distribuován ve Spojených státech, což souvisí s rostoucím tlakem americké vlády na omezení čínských technologií kvůli obavám z kybernetické bezpečnosti a sběru dat. DJI již dříve čelila omezením při dovozu svých produktů do USA, což postupně snižuje dostupnost jejích zařízení i přes nezávislé prodejce.
 
 ## Proč je to důležité
-Tento případ ilustruje, jak geopolitické napětí přímo ovlivňuje dostupnost spotřební technologie. Zatímco uživatelé mimo USA mohou využívat nejnovější DJI inovace, američtí spotřebitelé jsou postupně ořezáváni od přístupu k vedoucím dronovým technologiím. To může posílit konkurenci ze strany amerických výrobců, jako je Skydio, ale zároveň omezí volbu pro běžné uživatele. Pro DJI znamená tento vývoj nutnost diverzifikovat trhy a urychlit lokální výrobu mimo Čínu, aby udržela globální přítomnost.
+Tento krok DJI ilustruje rostoucí geopolitické napětí mezi USA a Čínou v oblasti technologií, zejména v segmentu dronů, kde DJI dominuje globálnímu trhu s podílem přes 70 %. Omezení přístupu amerických spotřebitelů k nejnovějším modelům může podpořit konkurenci ze strany lokálních výrobců, jako je Skydio, ale zároveň omezí volbu pro uživatele hledající vyvážený poměr ceny a výkonu. Pro DJI znamená situace nutnost přizpůsobit svou globální distribuční strategii a možná i přesunout výrobu mimo Čínu, aby udržela přístup k klíčovým trhům.
 
 ---
 

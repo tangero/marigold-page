@@ -5,9 +5,9 @@ companies:
 - AMD
 - Activision
 date: '2025-11-13 16:13:00'
-description: 'AMD zavedla první část svého připravovaného upscalingového řešení FSR
-  Redstone do hry Call of Duty: Black Ops 7, avšak v omezeném rozsahu a výhradně pro
-  nejnovější grafické karty řady RX 9000.'
+description: 'AMD představila první implementaci svého připravovaného upscalingového
+  řešení FSR Redstone ve hře Call of Duty: Black Ops 7. Funkce je však zatím dostupná
+  výhradně pro nejnovější grafické karty řady RX 9000.'
 importance: 3
 layout: tech_news_article
 original_title: AMD launches first feature from FSR Redstone with Call of Duty Black
@@ -26,20 +26,20 @@ urlToImageBackup: https://cdn.videocardz.com/1/2025/11/FSR-REDSTONE-HERO-COD.jpg
 ---
 
 ## Souhrn
-AMD zavedla první implementaci svého připravovaného upscalingového řešení FSR Redstone do hry Call of Duty: Black Ops 7. Tato funkce je však dostupná pouze pro uživatele grafických karet řady Radeon RX 9000 a zatím nepředstavuje plnou verzi technologie.
+AMD zavedla první komerční funkci ze svého připravovaného upscalingového řešení FSR Redstone ve hře Call of Duty: Black Ops 7. Tato implementace je však omezena výhradně na grafické karty řady RX 9000, což naznačuje fázi testování nebo technické závislosti na specifickém hardwaru.
 
 ## Klíčové body
-- První veřejná implementace FSR Redstone se objevila v Call of Duty: Black Ops 7.
-- Funkce je omezena výhradně na GPU řady AMD Radeon RX 9000.
-- Spolupráce mezi AMD a Activision umožnila integraci technologie do hry.
-- Nejde o plnou verzi FSR Redstone, ale pouze o první část budoucího řešení.
-- AMD zatím nepořádá tiskovou akci ani oficiální oznámení.
+- První veřejná implementace FSR Redstone se objevila ve hře Call of Duty: Black Ops 7.
+- Funkce je dostupná pouze pro uživatele grafických karet AMD RX 9000 (např. RX 9070, RX 9070 XT).
+- Spolupráce mezi AMD a Activision umožnila integraci technologie přímo do herního engine.
+- FSR Redstone je nástupcem stávající technologie FSR 3 a má přinést výrazně lepší kvalitu obrazu a nižší latenci.
+- Zatím nebylo oznámeno, kdy bude technologie rozšířena na starší GPU nebo konkurenční platformy.
 
 ## Podrobnosti
-AMD pokračuje ve vývoji svého upscalingového řešení FidelityFX Super Resolution (FSR) a nyní představila první část nové generace označované jako „Redstone“. Tato technologie má nahradit stávající FSR 3 a přinést výrazně lepší kvalitu obrazu při zachování vysokého výkonu. První implementace se objevila v hře Call of Duty: Black Ops 7, která je vyvíjena společností Treyarch a vydávána Activisionem. Integrace však není univerzální – funguje pouze na nejnovějších grafikách AMD řady RX 9000, což naznačuje, že využívá hardwarové funkce specifické pro architekturu RDNA 3.5 nebo novější. Zatím nejsou k dispozici podrobnosti o tom, zda jde o hybridní řešení kombinující AI a klasické algoritmy, nebo zda Redstone závisí na nových instrukcích nebo akcelerátorech v GPU. AMD zatím neposkytla oficiální dokumentaci ani benchmarky, což komplikuje hodnocení skutečného přínosu technologie.
+FSR (FidelityFX Super Resolution) je technologie od AMD umožňující zvýšení výkonu her pomocí upscalingu – tedy vykreslení snímku v nižším rozlišení a následného zvětšení na cílové rozlišení displeje s co nejmenší ztrátou kvality. Redstone je kódový název pro příští generaci této technologie, která má využívat pokročilejší algoritmy založené na strojovém učení a lepší integraci s herními enginy. První nasazení v Call of Duty: Black Ops 7 naznačuje, že AMD spolupracuje s vývojáři na úrovni engine, což může vést k efektivnějšímu využití hardwarových schopností nových GPU. Omezení pouze na řadu RX 9000 může souviset s využitím nových hardwarových jednotek pro AI akceleraci (např. nové XDNA architektury) nebo s optimalizací pro specifické instrukční sady. Pro hráče to znamená, že plné využití nové technologie bude vyžadovat nejnovější hardware, což může ovlivnit rozhodování při nákupu grafické karty.
 
 ## Proč je to důležité
-Tento krok ukazuje, že AMD aktivně připravuje nástupce FSR 3, který bude konkurovat řešením jako NVIDIA DLSS 4 nebo Intel XeSS. Omezení na RX 9000 však naznačuje, že Redstone bude pravděpodobně vyžadovat specializovaný hardware, což může ovlivnit šíření technologie mezi hráči. V dlouhodobém horizontu může být Redstone klíčový pro udržení konkurenceschopnosti AMD v oblasti AI-accelerovaného upscalingu, zejména pokud bude integrován s budoucími funkcemi jako například generativním doplňováním snímků nebo dynamickým upscalingem na úrovni scény. Pro hráče s novými kartami to může znamenat lepší výkon při zachování vysoké kvality obrazu, ale širší dopad závisí na budoucí podpoře v dalších hrách a na dostupnosti hardwaru.
+Tento krok ukazuje, že AMD pokračuje v rozvoji konkurenční alternativy k technologiím jako NVIDIA DLSS nebo Intel XeSS. Zatímco DLSS využívá specializované tensor jádra v GPU NVIDIA, AMD se snaží dosáhnout podobných výsledků pomocí univerzálnějších řešení, která by měla být škálovatelná i na starší hardware. Pokud však Redstone zůstane dlouhodobě vázán na nejnovější GPU, může to oslabit její atraktivitu pro širší hráčskou základnu. Zároveň to signalizuje, že AMD klade důraz na spolupráci s velkými herními vydavateli, aby zajistila co nejrychlejší adopci svých technologií. V dlouhodobém horizontu může úspěch FSR Redstone ovlivnit rovnováhu sil mezi jednotlivými výrobci GPU, zejména v oblasti AI akcelerovaného vykreslování.
 
 ---
 

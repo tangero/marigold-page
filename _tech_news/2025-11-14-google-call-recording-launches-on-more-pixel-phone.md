@@ -4,9 +4,8 @@ category: mobilní technologie
 companies:
 - Google
 date: '2025-11-14 14:48:36'
-description: Google začal šířeji nasazovat funkci nahrávání telefonátů v aplikaci
-  Telefon na starších telefonech Pixel 6 a novějších, které nepodporují pokročilé
-  AI funkce jako Call Notes.
+description: Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na
+  starší modely Pixelů, které nepodporují pokročilé AI funkce jako Call Notes.
 importance: 3
 layout: tech_news_article
 original_title: Google Call Recording launches on more Pixel phones - The Verge
@@ -23,22 +22,22 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 ---
 
 ## Souhrn
-Google rozšiřuje dostupnost funkce nahrávání hovorů v aplikaci Telefon na starší modely chytrých telefonů Pixel, konkrétně od řady Pixel 6 výše. Tato funkce je určena pro zařízení, která nepodporují novější AI funkcionalitu Call Notes dostupnou pouze na Pixelu 9 a 10.
+Google rozšiřuje dostupnost funkce nahrávání hovorů v aplikaci Telefon na starší modely Pixelů, konkrétně od Pixelu 6 výše. Tato funkce je určena pro zařízení, která nepodporují pokročilou AI funkci Call Notes dostupnou pouze na Pixelu 9 a novějších.
 
 ## Klíčové body
-- Funkce nahrávání hovorů je nyní dostupná na telefonech Pixel 6 a novějších.
-- Na rozdíl od Call Notes (které využívají AI model Gemini Nano pro automatické přepisy a shrnutí hovorů) pouze nahrává zvuk do lokálního souboru.
-- Uživatelé mohou nastavit automatické nahrávání pro konkrétní kontakty nebo neznámá čísla.
-- Nahrávky lze automaticky mazat po 7, 14 nebo 30 dnech, nebo je uchovávat trvale.
-- Funkce vyžaduje aktualizaci aplikace Telefon a nejnovější „Pixel Drop“ z listopadu 2025.
+- Funkce nahrávání hovorů je nyní dostupná na Pixelu 6 a novějších, pokud nejsou vybaveny AI funkcí Call Notes.
+- Nahrávání lze spustit ručně nebo automaticky pro určité kontakty či neznámá čísla.
+- Nahrávky se ukládají lokálně na zařízení a lze je nastavit k automatickému smazání po 7, 14 nebo 30 dnech.
+- Na rozdíl od Call Notes neobsahuje tato funkce automatický přepis ani shrnutí hovoru – to je třeba řešit externě.
+- K aktivaci je třeba aktualizovat aplikaci Telefon od Googlu a nainstalovat nejnovější „Pixel Drop“ aktualizaci z listopadu 2025.
 
 ## Podrobnosti
-Funkce nahrávání hovorů, kterou Google poprvé oznámil v září 2025, je nyní šířeji dostupná na telefonech Pixel 6, 7 a 8 (včetně Pro verzí). Na těchto zařízeních není k dispozici pokročilá funkce Call Notes, která využívá lokální AI model Gemini Nano k automatickému přepisu hovorů a generování shrnutí s klíčovými body a „dalšími kroky“. Místo toho uživatelé starších modelů mohou pouze nahrávat hovory jako zvukové soubory uložené lokálně v zařízení. Tyto soubory je nutné přepisovat ručně nebo pomocí externích nástrojů. 
+Funkce nahrávání hovorů, kterou Google původně oznámil v září 2025, nyní začíná být šířeji dostupná na starších modelech Pixelů, konkrétně od Pixelu 6 výše. Tato funkce je určena pro zařízení, která nemají hardwarovou podporu pro běh lokálního AI modelu Gemini Nano, který je nezbytný pro pokročilou funkci Call Notes. Call Notes, dostupná pouze na Pixelu 9 a 10, využívá AI k automatickému přepisu hovorů a generování shrnutí s klíčovými body a „dalšími kroky“.
 
-Nahrávání lze spustit ručně na začátku hovoru nebo nastavit automatické spuštění pro určité kontakty či všechna čísla mimo adresář. Google také zavádí možnost automatického mazání nahrávek po předem definované době – 7, 14 nebo 30 dní – což odpovídá požadavkům na ochranu soukromí a úsporu úložiště. Po aktivaci funkce je nutné stáhnout doprovodné zvukové soubory, které informují druhou stranu o probíhajícím nahrávání, což je důležité z hlediska právní shody s místními předpisy.
+Naopak základní nahrávání hovorů, které Google nyní rozšiřuje, pouze vytváří zvukové soubory uložené lokálně v zařízení. Uživatelé je musí přepisovat ručně nebo pomocí jiných aplikací. Funkce se aktivuje v nastavení aplikace Telefon v sekci „Asistent hovorů“ → „Nahrávání hovorů“. Uživatelé mohou nastavit automatické nahrávání pro konkrétní kontakty nebo pro všechny hovory od neznámých čísel. Součástí funkce je také možnost automatického mazání nahrávek po předem definované době.
 
 ## Proč je to důležité
-Tento krok ukazuje, jak Google diferencuje své produkty podle hardwarových schopností: nejnovější modely získávají AI funkcionalitu běžící lokálně (on-device AI), zatímco starší zařízení dostávají základní, ale stále užitečnou funkci nahrávání. Zároveň to odráží širší trend v mobilním průmyslu – postupné zavádění AI funkcí jako exkluzivního prvek nejnovější generace zařízení. Pro uživatele to znamená, že i bez nejnovějšího hardwaru si mohou uchovávat důležité hovory, byť bez pohodlí automatického přepisu a analýzy, které nabízí Call Notes.
+Tento krok ukazuje, jak Google diferencuje své produkty podle hardwarových schopností – pokročilé AI funkce jsou vyhrazeny nejnovějším modelům, zatímco starší zařízení dostávají základní, ale stále užitečné nástroje. Z hlediska uživatelského komfortu jde o praktické rozšíření, zejména v zemích, kde je nahrávání hovorů legální a běžné (např. pro dokumentaci obchodních jednání). Zároveň to odráží širší trend v mobilním průmyslu: postupné zavádění AI funkcí vyžadujících specializovaný hardware, což vytváří tlak na častější obměnu zařízení.
 
 ---
 

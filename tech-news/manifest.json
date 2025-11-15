@@ -1,28 +1,10 @@
 {
-  "generated": "2025-11-15T18:36:57.073016+00:00",
+  "generated": "2025-11-15T18:51:19.107716+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Muscle car s turbem: Proč nový Dodge Charger Sixpack překvapí i fanoušky V8",
-      "description": "Nový Dodge Charger Scat Pack 2026 opouští tradiční Hemi V8 ve prospěch šestiválcového motoru Hurricane. I když to mnozí označují za „woke“ krok, výsledek nabízí výkon, jízdní pohodu i klasickou muscle car zábavu.",
-      "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
-      "publishedAt": "2025-11-14T15:00:00+00:00",
-      "date": "2025-11-14 15:00:00",
-      "importance": 3,
-      "category": "automobily",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/2026-dodge-charger-sixpacks-muscle-car-silliness-will-help-you-forgive-its-woke-engine/l-intro-1763103553.jpg",
-      "url": "/tech-news/2025-11-14/A-2026-dodge-charger-sixpacks-muscle-car-silliness/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Google rozšiřuje funkci nahrávání hovorů na starší modely Pixelů",
-      "description": "Google začal šířeji nasazovat funkci nahrávání telefonátů v aplikaci Telefon na starších telefonech Pixel 6 a novějších, které nepodporují pokročilé AI funkce jako Call Notes.",
+      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely Pixelů, které nepodporují pokročilé AI funkce jako Call Notes.",
       "slug": "google-call-recording-launches-on-more-pixel-phone",
       "publishedAt": "2025-11-14T14:48:36+00:00",
       "date": "2025-11-14 14:48:36",
@@ -41,8 +23,8 @@
       "people": []
     },
     {
-      "title": "Google připravuje pro Android funkci podobnou NameDropu – první pohled na „Gesture Exchange“",
-      "description": "Google vyvíjí novou funkci pro sdílení kontaktů pomocí gesta a NFC, která by měla konkurovat Apple NameDropu na iOS.",
+      "title": "Google pracuje na vlastní verzi NameDropu pro Android",
+      "description": "Google vyvíjí novou funkci pro sdílení kontaktů pomocí gesta a technologie NFC, která by měla konkurovat Apple NameDropu.",
       "slug": "exclusive-googles-take-on-namedrop-could-be-coming",
       "publishedAt": "2025-11-14T11:48:40+00:00",
       "date": "2025-11-14 11:48:40",
@@ -84,8 +66,8 @@
       "people": []
     },
     {
-      "title": "Nejnovější aktualizace aplikace Google Home přináší rychlejší ovládání a poutavé rozhraní",
-      "description": "Zařízení kompatibilní se standardem Matter nyní fungují rychleji a i bez připojení k internetu.",
+      "title": "Nejnovější aktualizace aplikace Google Home přináší rychlejší ovládání a ponořivé rozhraní",
+      "description": "Aplikace Google Home ve verzi 4.3 zryšuje ovládání chytrých zařízení a přidává offline podporu pro zařízení kompatibilní s protokolem Matter.",
       "slug": "latest-google-home-app-update-brings-faster-contro",
       "publishedAt": "2025-11-14T04:43:00+00:00",
       "date": "2025-11-14 04:43:00",
@@ -124,8 +106,8 @@
       "people": []
     },
     {
-      "title": "DJI představila mini dronu Neo 2 těsně před možným zákazem ve Spojených státech",
-      "description": "Čínský výrobce dron DJI uvedl na trh novou mini dronu Neo 2 s funkcí sledování uživatele, 4K videem a interní pamětí, ale zatím není oficiálně dostupná ve Spojených státech kvůli hrozícímu zákazu.",
+      "title": "DJI představila mini dron Neo 2 těsně před možným zákazem ve Spojených státech",
+      "description": "Čínský výrobce dronů DJI uvedl na trh nový model Neo 2 s funkcí sledování uživatele, ale v USA jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu svých produktů.",
       "slug": "dji-launches-neo-2-mini-drone-ahead-of-potential-u",
       "publishedAt": "2025-11-13T23:21:00+00:00",
       "date": "2025-11-13 23:21:00",
@@ -166,12 +148,12 @@
     },
     {
       "title": "Firefox přidává AI okno, uživatelé chtějí spíš AI zeď",
-      "description": "Mozilla představila plánovanou funkci AI Window – nový režim prohlížení s integrovaným asistentem. Komunita reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
+      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox, která má uživatelům umožnit komunikaci s asistentem přímo během prohlížení webu. Komunita reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
       "slug": "firefox-adds-ai-window-users-want-ai-wall-to-keep-",
       "publishedAt": "2025-11-13T21:08:00+00:00",
       "date": "2025-11-13 21:08:00",
       "importance": 3,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg",
       "url": "/tech-news/2025-11-13/firefox-adds-ai-window-users-want-ai-wall-to-keep/",
       "source": {
@@ -181,9 +163,9 @@
       },
       "companies": [
         "Mozilla",
+        "OpenAI",
         "Google",
-        "Microsoft",
-        "OpenAI"
+        "Microsoft"
       ],
       "people": []
     },
@@ -211,7 +193,7 @@
     },
     {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
-      "description": "Služba NotebookLM od Googlu přidává novou funkci „Deep Research“, která automatizuje komplexní online výzkum, a rozšiřuje podporu pro další typy souborů.",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj pro automatizovaný výzkum a rozšiřuje podporu souborových formátů.",
       "slug": "googles-notebooklm-adds-deep-research-tool-support",
       "publishedAt": "2025-11-13T17:00:00+00:00",
       "date": "2025-11-13 17:00:00",
@@ -232,7 +214,7 @@
     },
     {
       "title": "AMD spustila první funkci FSR Redstone v Call of Duty: Black Ops 7, ale pouze pro grafiky RX 9000",
-      "description": "AMD zavedla první část svého připravovaného upscalingového řešení FSR Redstone do hry Call of Duty: Black Ops 7, avšak v omezeném rozsahu a výhradně pro nejnovější grafické karty řady RX 9000.",
+      "description": "AMD představila první implementaci svého připravovaného upscalingového řešení FSR Redstone ve hře Call of Duty: Black Ops 7. Funkce je však zatím dostupná výhradně pro nejnovější grafické karty řady RX 9000.",
       "slug": "amd-launches-first-feature-from-fsr-redstone-with-",
       "publishedAt": "2025-11-13T16:13:00+00:00",
       "date": "2025-11-13 16:13:00",
@@ -293,8 +275,8 @@
       "people": []
     },
     {
-      "title": "Google rozšiřuje AI nákupy: konverzační vyhledávání, autonomní pokladna a AI, která volá do obchodů",
-      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, pokročilého vyhledávání v aplikaci Gemini a nástroje, který zjišťuje dostupnost zboží v místních obchodech pomocí telefonátu.",
+      "title": "Google rozšiřuje AI nakupování: konverzační vyhledávání, autonomní pokladna a AI, která volá do obchodů",
+      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, pokladny řízené agentem a nástroje, který zjišťuje dostupnost zboží v místních obchodech pomocí telefonátu.",
       "slug": "google-augments-ai-shopping-with-conversational-se",
       "publishedAt": "2025-11-13T14:00:00+00:00",
       "date": "2025-11-13 14:00:00",
@@ -3735,6 +3717,26 @@
       },
       "companies": [
         "SAMSUNG"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Wallet zavádí personalizaci podle nákupů a digitálních pasů",
+      "description": "Google přidává do aplikace Wallet nové volby personalizace, které využijí historii plateb a uložených pasů k cílenějším doporučením a reklamě, s možností detailního vypnutí.",
+      "slug": "google-wallet-adding-new-purchase-and-pass-persona",
+      "publishedAt": "2025-11-07T19:00:00+00:00",
+      "date": "2025-11-07 19:00:00",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-07/google-wallet-adding-new-purchase-and-pass-persona/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
       ],
       "people": []
     },
