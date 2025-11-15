@@ -262,7 +262,9 @@ layout: default
   </style>
 
   <!-- Tech News Section -->
-  {% assign high_importance_news = site.tech_news | where_exp: "article", "article.importance >= 4" | sort: 'publishedAt' | reverse | limit: 5 %}
+  {% assign filtered_tech_news = site.tech_news | where_exp: "article", "article.importance >= 4" %}
+  {% assign sorted_tech_news = filtered_tech_news | sort: 'publishedAt' | reverse %}
+  {% assign high_importance_news = sorted_tech_news | slice: 0, 5 %}
 
   {% if high_importance_news.size > 0 %}
   <div id="tech-news-brief">
@@ -272,7 +274,7 @@ layout: default
     </div>
 
     <ul class="tech-news-list">
-      {% for article in high_importance_news %}
+      {% for article in high_importance_news limit: 5 %}
       {% assign slug_len = article.slug | size %}
       {% assign last_idx = slug_len | minus: 1 %}
       {% assign last_char = article.slug | slice: last_idx %}
