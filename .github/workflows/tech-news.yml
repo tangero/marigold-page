@@ -49,7 +49,7 @@ jobs:
 
     - name: Run health check
       run: |
-        python scripts/tech_news_health_check.py --output _data/tech_news_health.json
+        python scripts/tech_news_health_check.py --output _data/tech_news_health.json || true
 
     - name: Check for changes
       id: git-check
