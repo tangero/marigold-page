@@ -122,11 +122,43 @@ KATEGORIE: {category}
 {article_context}
 
 ÚKOL 1 - DŮLEŽITOST (1-5):
-5 = Průlomové (AGI, kvantové počítače, akvizice $1B+, bezpečnostní krize, shutdown velkých služeb)
-4 = Velmi důležité (nové produkty Apple/Google/Microsoft/Meta/OpenAI, významná partnerství, IPO, funding $100M+)
-3 = Zajímavé (běžné novinky, updaty, zajímavé technologie, novinky od známých firem)
-2 = Spekulace (rumors, leaky, "možná", "údajně", "sources say")
-1 = Nedůležité (triviální novinky, clickbait)
+
+IMPORTANCE 5 (Průlomové):
+- Zásadní průlomy v AI (AGI pokrok, nové schopnosti LLM, bezpečnostní objevy v AI)
+- Kvantové počítače (quantum advantage, praktické aplikace)
+- Robotika (humanoidní roboti, průlomová autonomie, Boston Dynamics pokroky)
+- Fúzní energie, průlomové baterie
+- Akvizice $1B+, významné fúze technologických gigantů
+- Bezpečnostní krize (zero-day exploity, velké hacky)
+- Shutdown velkých služeb
+
+IMPORTANCE 4 (Velmi důležité):
+- Nové produkty: Apple (zásadní jako iPhone/Mac), OpenAI, Google AI, Tesla, SpaceX, Meta AI
+- AI modely: nové verze GPT, Claude, Gemini, Llama, významné AI updaty
+- Autonomní vozidla: pokrok Tesla FSD, Waymo, robotaxi
+- Brain-computer interface (Neuralink a podobné)
+- Sam Altman, Elon Musk (POUZE tech novinky, NE lifestyle/osobní věci)
+- Významná partnerství v AI/tech, IPO tech firem, funding $100M+
+
+IMPORTANCE 3 (Zajímavé):
+- Běžné tech novinky od velkých firem (Google, Microsoft, Meta, Amazon)
+- Software updaty s novými funkcemi (NE rutinní Android/Windows updaty)
+- Vědecký výzkum bez průlomu
+- Novinky z tech konferencí
+- Startupové produkty se zajímavou technologií
+
+IMPORTANCE 2 (Nízká priorita):
+- Čínské telefony: OnePlus, Xiaomi, Huawei, Oppo, Vivo, Realme (běžné modely)
+- Android/Windows rutinní updaty (security patches, minor versions)
+- Spekulace a leaky (rumors, "možná", "údajně", "sources say")
+- Gadgety a recenze spotřební elektroniky
+- Gaming novinky (konzole, hry)
+
+IMPORTANCE 1 (Nedůležité):
+- Clickbait titulky, lifestyle tech celebrit
+- Triviální produkty (obaly na telefony, powerbanky)
+- Slevové akce a marketing
+- Influencer tech content
 
 ÚKOL 2 - ČESKÝ OBSAH:
 - Pokud důležitost ≥ 3: Vytvoř strukturovaný článek (400-600 slov)
@@ -819,22 +851,89 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         return False
 
     def detect_importance(self, title, description, category):
-        """Detekuje důležitost článku"""
+        """Detekuje důležitost článku na základě klíčových slov a kontextu"""
         text = f"{title} {description}".lower()
 
-        # Vysoká důležitost
-        if any(word in text for word in ['breakthrough', 'major', 'billion', 'acquisition', 'merge']):
-            return 5
+        # IMPORTANCE 1 - Nedůležité (musí být první, aby přeskočilo clickbait)
+        clickbait_keywords = [
+            'you won\'t believe', 'shocking', 'amazing deal', 'on sale',
+            'discount', 'best price', 'cheap', 'lifestyle', 'celebrity',
+            'influencer', 'phone case', 'power bank', 'accessory review'
+        ]
+        if any(keyword in text for keyword in clickbait_keywords):
+            return 1
 
-        # Střední-vysoká důležitost
-        if any(word in text for word in ['new', 'launches', 'announces', 'first', 'partnership']):
-            return 4
+        # IMPORTANCE 2 - Nízká priorita
+        # Čínské telefony
+        chinese_brands = ['oneplus', 'xiaomi', 'huawei', 'oppo', 'vivo', 'realme']
+        if any(brand in text for brand in chinese_brands):
+            # Ale ne pokud je to o AI/průlomu
+            if not any(word in text for word in ['ai', 'breakthrough', 'quantum', 'fusion']):
+                return 2
 
-        # Nízká důležitost
-        if any(word in text for word in ['rumors', 'might', 'reportedly', 'could']):
+        # Rutinní updaty
+        routine_updates = [
+            'security patch', 'minor update', 'bug fix', 'android update',
+            'windows update', 'patch tuesday'
+        ]
+        if any(keyword in text for keyword in routine_updates):
             return 2
 
-        return 3  # Default
+        # Spekulace a leaky
+        speculation = ['rumor', 'reportedly', 'might', 'could', 'sources say', 'leak', 'allegedly']
+        if any(keyword in text for keyword in speculation):
+            return 2
+
+        # Gaming a gadgety
+        low_priority = ['gaming console', 'video game', 'game review', 'gadget review']
+        if any(keyword in text for keyword in low_priority):
+            return 2
+
+        # IMPORTANCE 5 - Průlomové
+        breakthrough_keywords = [
+            'agi', 'artificial general intelligence', 'quantum advantage', 'quantum computer',
+            'fusion energy', 'breakthrough battery', 'billion acquisition', 'billion deal',
+            'zero-day', 'major hack', 'data breach', 'service shutdown', 'major outage'
+        ]
+        if any(keyword in text for keyword in breakthrough_keywords):
+            return 5
+
+        # IMPORTANCE 4 - Velmi důležité
+        # High-priority companies
+        high_priority_companies = [
+            'openai', 'tesla', 'spacex', 'neuralink', 'anthropic'
+        ]
+        if any(company in text for company in high_priority_companies):
+            return 4
+
+        # Apple - pouze zásadní produkty
+        if 'apple' in text and any(product in text for product in ['iphone', 'macbook', 'imac', 'vision pro']):
+            return 4
+
+        # AI modely
+        ai_models = ['gpt-', 'gpt4', 'gpt5', 'claude', 'gemini', 'llama']
+        if any(model in text for model in ai_models):
+            return 4
+
+        # Tech prominenti (pouze tech kontext)
+        if ('sam altman' in text or 'elon musk' in text) and not any(word in text for word in ['lifestyle', 'personal', 'birthday']):
+            return 4
+
+        # Autonomní vozidla
+        autonomous_keywords = ['fsd', 'full self-driving', 'robotaxi', 'waymo', 'autonomous vehicle']
+        if any(keyword in text for keyword in autonomous_keywords):
+            return 4
+
+        # Významné AI/tech události
+        major_tech = [
+            'ai breakthrough', 'new ai model', 'major partnership', 'ipo',
+            'funding round', '100 million'
+        ]
+        if any(keyword in text for keyword in major_tech):
+            return 4
+
+        # IMPORTANCE 3 - Default pro tech novinky
+        return 3
 
     def clean_duplicates(self, new_articles):
         """Smaže pouze články s duplicitním slug, zachová archiv"""

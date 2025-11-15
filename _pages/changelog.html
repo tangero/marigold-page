@@ -41,6 +41,11 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Po: `/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab/` (200)
 
 ### Changed
+- **Přepracován systém hodnocení důležitosti článků (importance 1-5)** v `scripts/generate_tech_news_newsapi.py`:
+  - **LLM prompt** - rozšířena kritéria s jasným zaměřením na AI, robotiku, Apple, Tesla, Elon Musk, Sam Altman (importance 4-5)
+  - **Nízká priorita** (2) pro čínské telefony (OnePlus, Xiaomi, Huawei), rutinní Android/Windows updaty, spekulace
+  - **Fallback funkce** `detect_importance()` - přidáno keyword-based hodnocení s 80+ klíčovými slovy
+  - Cíl: lepší využití celé škály 1-5 (dříve 85% článků mělo importance 3-4)
 - GitHub Actions workflow `.github/workflows/tech-news.yml` - health check je nyní non-blocking (`|| true`)
 - Health check přidán jako automatický krok do tech-news workflow
 - UI/UX redesign úvodní stránky `/tech-news/` - kompaktnější layout, archiv v headeru
@@ -48,6 +53,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Zkrácený popis s přímým odkazem na archiv
   - Zjednodušené filtry (odstranění filtru "Kritická" importance)
   - Kompaktní badge s počtem článků místo celého navigation boxu
+- Tech News sekce na titulní stránce - zmenšeny mezery mezi články (10px → 6px)
 
 ---
 
