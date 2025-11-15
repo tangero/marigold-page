@@ -5,10 +5,9 @@ companies:
 - Mozilla
 - OpenAI
 date: '2025-11-13 21:08:00'
-description: Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox,
-  která vyvolala vlnu kritiky ze strany komunity. Společnost argumentuje, že se jedná
-  o plně volitelnou funkci, ale uživatelé požadují jednoduchý způsob, jak všechny
-  AI funkce vypnout.
+description: Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox
+  – nový režim pro interakci s asistenty na bázi umělé inteligence. Komunita uživatelů
+  reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.
 importance: 3
 layout: tech_news_article
 original_title: Firefox adds AI Window, users want AI wall to keep it out - theregister.com
@@ -25,22 +24,22 @@ urlToImageBackup: https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg
 ---
 
 ## Souhrn
-Mozilla plánuje do prohlížeče Firefox přidat nový režim nazvaný AI Window – třetí typ okna vedle standardního a anonymního režimu. Funkce má umožnit uživatelům komunikovat s AI asistentem přímo během prohlížení webu. Projekt ještě není spuštěn, ale už nyní vyvolává silnou kritiku ze strany komunity, která požaduje možnost snadného vypnutí všech AI funkcí.
+Mozilla plánuje do prohlížeče Firefox přidat nový režim nazvaný AI Window – třetí typ okna vedle standardního a anonymního režimu. Tato funkce má umožnit uživatelům komunikovat s AI asistentem přímo během prohlížení webu. Zatím se jedná pouze o koncept, který bude vyvíjen veřejně, ale uživatelé reagují silnou kritikou a požadují možnost úplného vypnutí AI funkcí.
 
 ## Klíčové body
-- AI Window bude plně volitelný režim pro interakci s AI asistentem přímo v prohlížeči.
+- AI Window bude zcela volitelný režim pro interakci s AI asistentem přímo v prohlížeči.
 - Mozilla zdůrazňuje uživatelskou kontrolu a možnost funkci kdykoli vypnout.
-- Komunita Firefoxu reaguje kriticky a požaduje jednoduché a centrální vypínače pro všechny AI funkce.
-- Projekt bude vyvíjen otevřeně, zatím jde pouze o placeholder v kódu.
-- Vedení Mozilly hájí integraci AI jako nevyhnutelný trend, kterému nelze uniknout.
+- Komunita uživatelů Firefoxu kritizuje Mozilla za sledování trendů místo řešení skutečných potřeb uživatelů.
+- Uživatelé požadují jednoduché a přehledné nastavení pro vypnutí veškerých AI funkcí.
+- Projekt bude vyvíjen otevřeně, zatím však nebyl spuštěn.
 
 ## Podrobnosti
-AI Window je nový koncept prohlížeče Firefox, který představil Ajit Varma, viceprezident pro řízení produktu. Tento režim má sloužit jako „inteligentní a uživatelem řízený prostor“, kde bude možné komunikovat s AI asistentem a získávat pomoc při prohlížení webu – například shrnovat obsah stránek, překládat text nebo generovat návrhy. Mozilla zdůrazňuje, že funkce bude plně volitelná a nebude nijak narušovat soukromí uživatelů, pokud ji neaktivují.
+Mozilla, organizace stojící za prohlížečem Firefox, oznámila plán na zavedení nového typu okna nazvaného AI Window. Tento režim má sloužit jako „inteligentní a uživatelem řízený prostor“, kde bude možné komunikovat s AI asistentem a získávat pomoc při prohlížení webu. Podle Ajita Varmy, viceprezidenta a šéfa produktového managementu Firefoxu, bude funkce zcela volitelná a uživatelé budou mít plnou kontrolu nad jejím používáním. Varma dříve působil v Meta a Google, kde jsou rozhodnutí o funkcích často centralizovaná a méně ovlivnitelná komunitou.
 
-Přestože AI Window zatím nebyl spuštěn a existuje pouze jako plánovaný vývojový prostor, reakce komunity na platformě Mozilla Connect byly rychlé a převážně negativní. Uživatelé kritizují Mozillu za sledování „nejhloupějších technologických trendů“ namísto zaměření na základní vylepšení prohlížeče. Mnozí požadují jednoduché a přehledné nastavení, které umožní vypnout všechny AI související funkce najednou – bez nutnosti prohledávat skrytá nastavení typu about:config.
+Přestože AI Window zatím nebylo spuštěno – jde pouze o placeholder pro budoucí vývoj – uživatelé na fóru Mozilla Connect vyjádřili silný odpor. První komentáře kritizují Mozillu za „sprintování za nejhloupějšími technologickými trendy“ a požadují možnost jednoduše vypnout veškeré AI funkce jedním přepínačem, bez nutnosti prohledávání pokročilých nastavení jako je about:config. Někteří uživatelé dokonce používají výrazy jako „AI odpad“ a vyzývají k odstranění těchto funkcí.
 
 ## Proč je to důležité
-Tento krok od Mozilly odráží širší tlak na technologické firmy, aby integrovaly AI do svých produktů, i když uživatelé nejsou přesvědčeni o jejich užitku. Zatímco společnosti jako Google, Microsoft nebo Meta AI implementují často bez možnosti odmítnutí, Mozilla se snaží zdůraznit svou filozofii uživatelské kontroly. Nicméně i „dobrovolná“ AI může být vnímána jako nepříjemný tlak, zejména uživateli, kteří AI považují za zbytečnou nebo nebezpečnou. Rozpor mezi firemní strategií a očekáváním komunity ukazuje, jak citlivé je téma AI v současné době – a jak důležité je poskytnout skutečně transparentní a jednoduché možnosti odmítnutí.
+Tento krok Mozilly ilustruje širší tlak na technologické firmy, aby integrovaly AI do svých produktů, i když uživatelé nejsou přesvědčeni o jejich užitku. Zatímco společnosti jako Google nebo Microsoft AI funkce nasazují agresivně, Mozilla se snaží zachovat svůj obraz jako ochránce soukromí a uživatelské kontroly. Nicméně i přes sliby o volitelnosti a transparentnosti se setkává s nedůvěrou ze strany své jádrové komunity. Pokud Mozilla nezvládne vyvážit inovace s respektem k uživatelským preferencím, riskuje ztrátu důvěry mezi těmi, kdo ji považují za alternativu k dominantním prohlížečům.
 
 ---
 

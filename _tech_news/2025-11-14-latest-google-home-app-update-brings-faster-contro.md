@@ -4,8 +4,9 @@ category: chytré domácnosti
 companies:
 - Google
 date: '2025-11-14 04:43:00'
-description: Aktualizace Google Home na verzi 4.3 zryšuje ovládání zařízení a umožňuje
-  offline funkčnost pro zařízení kompatibilní se standardem Matter.
+description: Aktualizace Google Home verze 4.3 zlepšuje ovládání chytrých zařízení,
+  přidává offline podporu pro Matter zařízení a modernizuje uživatelské rozhraní na
+  Androidu.
 importance: 3
 layout: tech_news_article
 original_title: Latest Google Home app update brings faster controls and an immersive
@@ -24,24 +25,24 @@ urlToImageBackup: https://static0.anpoimages.com/wordpress/wp-content/uploads/20
 ---
 
 ## Souhrn
-Aktualizace aplikace Google Home na verzi 4.3 přináší výrazně rychlejší ovládání světel, zásuvek a vypínačů, podporu offline ovládání pro zařízení kompatibilní se standardem Matter a modernizované uživatelské rozhraní na zařízeních s Androidem 15 a novějším. Součástí je také vylepšený editor automatizací a AI generované popisky záznamů z kamer.
+Aktualizace aplikace Google Home na verzi 4.3 přináší výrazně rychlejší ovládání chytrých zařízení, podporu offline funkčnosti pro kompatibilní Matter zařízení a moderní ponořivé uživatelské rozhraní na zařízeních s Androidem 15 a novějším. Novinky zahrnují také vylepšené automatizace a AI generované popisy z kamer.
 
 ## Klíčové body
-- Offline ovládání Matter zařízení (světla, zásuvky, vypínače) bez nutnosti připojení k internetu
-- Dvoukrát rychlejší odezva ovládacích prvků
-- Nový edge-to-edge design na Androidu 15+
-- Vylepšený editor automatizací pro režimy Domů a Venku
-- AI popisky záznamů z kamer s možností uživatelské zpětné vazby
+- Matter zařízení (osvětlení, zásuvky, spínače) nyní fungují i bez internetového připojení
+- Odpovědní doba ovládání se zrychlila až dvakrát
+- Nové ponořivé rozhraní na Androidu 15+
+- Automatizace „Doma/Venku“ byly převedeny na nový editor s pokročilými možnostmi
+- AI popisy z kamer podporované modelem Gemini s možností uživatelské zpětné vazby
 
 ## Podrobnosti
-Verze 4.3 aplikace Google Home zavádí řadu praktických vylepšení zaměřených na stabilitu, rychlost a uživatelský komfort. Nejvýznamnější změnou je podpora offline ovládání zařízení certifikovaných podle otevřeného standardu Matter. Díky tomu uživatelé mohou ovládat světla, zásuvky a vypínače i při výpadku internetového připojení, což zvyšuje spolehlivost celého systému chytré domácnosti. Podle Googlu se odezva těchto funkcí zrychlila až dvakrát.
+Verze 4.3 aplikace Google Home přináší praktická vylepšení zaměřená na spolehlivost a rychlost. Hlavním přínosem je offline podpora pro Matter zařízení – standard pro interoperabilitu chytrých domácností. Díky tomu uživatelé mohou ovládat světla, zásuvky a spínače i při výpadku internetu, což zvyšuje odolnost celého systému. Podle Google se tím zároveň zrychlila odezva ovládání až dvakrát.
 
-Na zařízeních s Androidem 15 a novějším aplikace využívá edge-to-edge rozvržení, kdy se obsah rozšiřuje pod stavový a navigační panel, což vytváří ponořivější vizuální zážitek. Automatizace typu „Domů“ a „Venku“ nyní využívají nový editor, který umožňuje definovat složitější podmínky a akce, i když způsob jejich spouštění zůstává nezměněn.
+Na vizuální stránce aplikace přechází na „edge-to-edge“ design, který využívá celou obrazovku včetně oblastí pod navigačním a stavovým pruhem – tato změna se projevuje pouze na zařízeních s Androidem 15 nebo novějším. Automatizace typu „Doma/Venku“ nyní využívají nový editor, který umožňuje definovat složitější podmínky a akce, i když způsob jejich spouštění zůstává nezměněn.
 
-Součástí aktualizace je také integrace AI modelu Gemini, který generuje textové popisky kamerových záznamů. Aplikace nyní zobrazuje uživatelům možnost hodnocení těchto popisků (palcovým nahoru/dolů), čímž se zpřesňuje detekce známých tváří. Mezi další vylepšení patří oprava pádu při nastavování zařízení a další drobné opravy chyb.
+Dále aplikace integruje AI popisy nahrávek z kamer pomocí modelu Gemini. Uživatelé vidí pod těmito popisy kartu pro zpětnou vazbu a možnost hodnocení pomocí palce nahoru/dolů, což má zlepšovat detekci známých tváří v budoucnu. Mezi další změny patří oprava pádu při nastavování zařízení a další drobná vylepšení stability.
 
 ## Proč je to důležité
-Tato aktualizace posiluje důvěru uživatelů ve spolehlivost ekosystému Google Home, zejména díky offline podpoře standardu Matter, který se stává klíčovým prvkem interoperability v chytrých domácnostech. Zrychlení odezvy a vylepšení uživatelského rozhraní přispívají k lepší každodenní použitelnosti. Integrace AI do analýzy kamerových záznamů ukazuje, jak Google postupně nasazuje modely jako Gemini do praktických domácích scénářů – i když s možností uživatelské korekce, což je důležité pro omezení chyb generativního AI.
+Tato aktualizace posiluje spolehlivost ekosystému Google Home, zejména díky offline podpoře Matter zařízení – což je klíčový krok směrem k robustnějším a méně cloud-závislým chytrým domácnostem. Zároveň ukazuje, jak Google postupně integruje AI (Gemini) do běžných funkcí, jako jsou popisy kamerových nahrávek, a zároveň bere v potaz potřebu uživatelské zpětné vazby pro trénování modelů. I když se nejedná o revoluční změnu, jde o významný krok v rámci běžného vývoje softwaru pro chytré domácnosti.
 
 ---
 

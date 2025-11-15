@@ -6,7 +6,7 @@ companies:
 - TechCrunch
 date: '2025-11-13 17:00:00'
 description: Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který
-  automatizuje složité online výzkumy, a rozšiřuje podporu pro další typy souborů.
+  automatizuje komplexní online výzkum, a rozšiřuje podporu pro další typy souborů.
 importance: 3
 layout: tech_news_article
 original_title: Google’s NotebookLM adds ‘Deep Research’ tool, support for more file
@@ -25,22 +25,22 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-
 ---
 
 ## Souhrn
-Google aktualizuje svou AI asistenci pro poznámky a výzkum NotebookLM o novou funkci „Deep Research“, která automatizuje komplexní online výzkumy, a zároveň rozšiřuje podporu pro další formáty souborů, včetně Google Sheets, PDF z Drive a dokumentů Microsoft Word.
+Google aktualizuje svou AI asistentskou službu NotebookLM o novou funkci „Deep Research“, která automatizuje komplexní online výzkum a generuje zdroji podložené přehledy. Současně rozšiřuje podporu pro další formáty souborů, včetně Google Sheets, dokumentů z Google Drive a Microsoft Word.
 
 ## Klíčové body
-- Nová funkce „Deep Research“ vytváří podrobné, zdroji podložené výzkumné reporty na základě uživatelské otázky.
+- Nová funkce „Deep Research“ vytváří výzkumné plány, prohledává web a generuje podrobné, zdroji podložené zprávy.
 - Uživatelé mohou volit mezi „Deep Research“ pro detailní analýzu a „Fast Research“ pro rychlé odpovědi.
-- NotebookLM nyní podporuje nahrávání Google Sheets, PDF z Drive, dokumentů Word a odkazů na soubory v Drive.
-- Funkce běží na pozadí, takže uživatel může během výzkumu pokračovat v práci s poznámkami.
-- Aktualizace bude dostupná všem uživatelům do týdne.
+- NotebookLM nyní podporuje nahrávání Google Sheets, PDF z Drive, Word dokumentů a přidávání souborů z Drive pomocí URL.
+- Funkce běží na pozadí, takže uživatel může během výzkumu pokračovat v práci v poznámkovém bloku.
+- Aktualizace bude dostupná všem uživatelům do jednoho týdne.
 
 ## Podrobnosti
-NotebookLM je AI nástroj od Googlu určený k organizaci poznámek a podpoře výzkumné práce. Nová funkce „Deep Research“ funguje jako virtuální výzkumný asistent: na základě uživatelské otázky vytvoří výzkumný plán, prohledá web a po několika minutách doručí strukturovaný report s odkazy na zdroje. Tento report lze přímo vložit do poznámkového sešitu. Uživatelé mohou během provádění výzkumu pokračovat v přidávání dalších zdrojů nebo úpravách poznámek, což zvyšuje kontinuitu pracovního postupu.
+NotebookLM je AI nástroj od Googlu určený pro vytváření poznámek a podporu výzkumu na základě uživatelem poskytnutých zdrojů. Nová funkce „Deep Research“ rozšiřuje jeho schopnosti o aktivní prohledávání webu. Uživatel zadá otázku, systém vytvoří výzkumný plán, navštíví relevantní weby a po několika minutách doručí strukturovanou zprávu s citacemi a odkazy. Tuto zprávu lze přímo vložit do poznámkového bloku. Během provádění výzkumu může uživatel pokračovat v přidávání dalších zdrojů nebo úpravách poznámek – proces běží asynchronně na pozadí.
 
-Kromě toho Google rozšířil podporu pro vstupní formáty. Díky integraci s Google Drive lze nyní nahrávat tabulky z Google Sheets, dokumenty Word a PDF přímo z Drive, nebo vkládat více souborů najednou pomocí URL. To umožňuje například generovat shrnutí dat z tabulek nebo rychle analyzovat více dokumentů najednou. Tato rozšíření posilují NotebookLM jako nástroj pro akademickou i profesionální práci, kde je potřeba rychle zpracovávat různorodé zdroje.
+Rozšíření podpory souborových formátů umožňuje importovat tabulkové dokumenty (Google Sheets), textové soubory (Word, PDF) a přidávat soubory z Google Drive pomocí URL. To usnadňuje práci s daty z různých zdrojů – například generování souhrnů z tabulek nebo rychlé vkládání více dokumentů najednou. NotebookLM tak posiluje svou roli jako centralizovaného pracovního prostředí pro výzkumníky, studenty i profesionály, kteří potřebují rychle zpracovávat a organizovat informace z různých formátů.
 
 ## Proč je to důležité
-Tato aktualizace posouvá NotebookLM blíže k nástrojům jako Perplexity nebo Microsoft Copilot, které se specializují na zdroji podložené odpovědi. Zatímco „Deep Research“ není revoluční funkcí, představuje významný krok v automatizaci výzkumné práce – zejména pro studenty, analytiky nebo výzkumníky, kteří potřebují rychle získat přehled o komplexním tématu. Zároveň ukazuje, že Google systematicky rozšiřuje své AI nástroje pro produktivitu, nikoli jen pro spotřebitele. V kontextu rostoucí konkurence v oblasti AI asistentů je tato aktualizace logickým posunem, který posiluje užitečnost NotebookLM v reálných pracovních scénářích.
+Tato aktualizace posouvá NotebookLM blíže k nástrojům jako Perplexity nebo Consensus, které se specializují na zdroji podložené odpovědi. Zatímco mnoho AI asistentů generuje obecné odpovědi, Deep Research klade důraz na transparentnost a citování zdrojů – což je klíčové pro akademické i profesionální využití. Rozšíření podpory souborů zároveň snižuje bariéru pro integraci NotebookLM do běžných pracovních postupů, zejména v organizacích využívajících ekosystém Google Workspace. I když se nejedná o průlomovou změnu v AI, jde o významný krok v praktickém využití velkých jazykových modelů pro každodenní výzkumnou činnost.
 
 ---
 

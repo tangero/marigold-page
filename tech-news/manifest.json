@@ -1,10 +1,48 @@
 {
-  "generated": "2025-11-15T16:23:23.426829+00:00",
+  "generated": "2025-11-15T18:12:52.692537+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Google připravuje pro Android funkci podobnou NameDropu – první pohled na výměnu kontaktů gestem",
-      "description": "Google vyvíjí pro Android novou funkci nazývanou „Gesture Exchange“ nebo „Contact Exchange“, která umožní sdílení kontaktů pomocí gesta a technologie NFC, podobně jako Apple NameDrop.",
+      "title": "Muscle car s turbodmychadly: 2026 Dodge Charger Sixpack nahrazuje V8 šestiválcem",
+      "description": "Nový Dodge Charger Scat Pack 2026 modelového roku opouští tradiční Hemi V8 motor ve prospěch šestiválcového motoru Hurricane s dvojím turbodmychadlem. I když to mnozí považují za odchod od „klasického“ muscle car ducha, auto nabízí výkon, jízdní pohodu i zábavu.",
+      "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
+      "publishedAt": "2025-11-14T15:00:00+00:00",
+      "date": "2025-11-14 15:00:00",
+      "importance": 3,
+      "category": "automobily",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/2026-dodge-charger-sixpacks-muscle-car-silliness-will-help-you-forgive-its-woke-engine/l-intro-1763103553.jpg",
+      "url": "/tech-news/2025-11-14/A-2026-dodge-charger-sixpacks-muscle-car-silliness/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google rozšiřuje funkci nahrávání hovorů na starší modely Pixelů",
+      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely chytrých telefonů Pixel, které nepodporují pokročilé AI funkce jako Call Notes.",
+      "slug": "google-call-recording-launches-on-more-pixel-phone",
+      "publishedAt": "2025-11-14T14:48:36+00:00",
+      "date": "2025-11-14 14:48:36",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/pixel8.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "url": "/tech-news/2025-11-14/google-call-recording-launches-on-more-pixel-phone/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google pracuje na vlastní verzi NameDropu pro Android",
+      "description": "Google vyvíjí funkci nazvanou „Gesture Exchange“ nebo „Contact Exchange“, která umožní sdílení kontaktů mezi zařízeními s Androidem pomocí gesta a technologie NFC – obdobu Apple NameDropu.",
       "slug": "exclusive-googles-take-on-namedrop-could-be-coming",
       "publishedAt": "2025-11-14T11:48:40+00:00",
       "date": "2025-11-14 11:48:40",
@@ -47,11 +85,11 @@
     },
     {
       "title": "Zapomeňte na Samsung S25 Ultra: Tento vlajkový model od OnePlusu překonává androidího giganta v klíčových ohledech",
-      "description": "Recenze porovnává nový OnePlus 15 s očekávaným Samsungem S25 Ultra a ukazuje, kde čínský výrobce nabízí lepší zážitek – navzdory pozdnímu uvedení na trh.",
+      "description": "Recenze porovnává OnePlus 15 a Samsung S25 Ultra na základě týdenního testování v reálných podmínkách. Autor tvrdí, že OnePlus 15 přesvědčuje v několika praktických aspektech, i když jde o model vydaný pozdě v roce.",
       "slug": "forget-samsung-s25-ultra-this-oneplus-flagship-bea",
       "publishedAt": "2025-11-14T10:00:00+00:00",
       "date": "2025-11-14 10:00:00",
-      "importance": 3,
+      "importance": 2,
       "category": "mobilní telefony",
       "urlToImage": "https://www.zdnet.com/a/img/resize/97fbe327db7e5be66895d789b3bcdd5f7905748e/2025/11/13/70cec1c4-a8c0-4c2f-9017-c7f5ae58889c/dsc08556.jpg?auto=webp&fit=crop&height=675&width=1200",
       "url": "/tech-news/2025-11-14/forget-samsung-s25-ultra-this-oneplus-flagship-bea/",
@@ -68,7 +106,7 @@
     },
     {
       "title": "Nejnovější aktualizace aplikace Google Home přináší rychlejší ovládání a ponořivé rozhraní",
-      "description": "Aktualizace Google Home na verzi 4.3 zryšuje ovládání zařízení a umožňuje offline funkčnost pro zařízení kompatibilní se standardem Matter.",
+      "description": "Aktualizace Google Home verze 4.3 zlepšuje ovládání chytrých zařízení, přidává offline podporu pro Matter zařízení a modernizuje uživatelské rozhraní na Androidu.",
       "slug": "latest-google-home-app-update-brings-faster-contro",
       "publishedAt": "2025-11-14T04:43:00+00:00",
       "date": "2025-11-14 04:43:00",
@@ -107,8 +145,8 @@
       "people": []
     },
     {
-      "title": "DJI představila mini dron Neo 2 před možným zákazem ve Spojených státech",
-      "description": "Společnost DJI uvedla na trh nový mini dron Neo 2 s funkcí sledování uživatele, ale v USA jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu svých produktů.",
+      "title": "DJI spustila mini dron Neo 2 před možným zákazem ve Spojených státech",
+      "description": "Čínský výrobce dronů DJI představil nový model Neo 2 s funkcí sledování uživatele, který však nebude oficiálně dostupný na americkém trhu kvůli hrozícímu zákazu.",
       "slug": "dji-launches-neo-2-mini-drone-ahead-of-potential-u",
       "publishedAt": "2025-11-13T23:21:00+00:00",
       "date": "2025-11-13 23:21:00",
@@ -149,7 +187,7 @@
     },
     {
       "title": "Firefox přidává AI okno, uživatelé chtějí spíš AI zeď",
-      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox, která vyvolala vlnu kritiky ze strany komunity. Společnost argumentuje, že se jedná o plně volitelnou funkci, ale uživatelé požadují jednoduchý způsob, jak všechny AI funkce vypnout.",
+      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox – nový režim pro interakci s asistenty na bázi umělé inteligence. Komunita uživatelů reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
       "slug": "firefox-adds-ai-window-users-want-ai-wall-to-keep-",
       "publishedAt": "2025-11-13T21:08:00+00:00",
       "date": "2025-11-13 21:08:00",
@@ -192,7 +230,7 @@
     },
     {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
-      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje složité online výzkumy, a rozšiřuje podporu pro další typy souborů.",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje komplexní online výzkum, a rozšiřuje podporu pro další typy souborů.",
       "slug": "googles-notebooklm-adds-deep-research-tool-support",
       "publishedAt": "2025-11-13T17:00:00+00:00",
       "date": "2025-11-13 17:00:00",
@@ -212,8 +250,8 @@
       "people": []
     },
     {
-      "title": "AMD spouští první funkci FSR Redstone v Call of Duty: Black Ops 7, ale pouze pro grafiky RX 9000",
-      "description": "AMD představila první komerční implementaci své připravované technologie FSR Redstone ve hře Call of Duty: Black Ops 7. Nová funkce je však dostupná výhradně pro uživatele grafických karet řady RX 9000.",
+      "title": "AMD spustila první funkci FSR Redstone v Call of Duty: Black Ops 7, ale pouze pro grafiky RX 9000",
+      "description": "AMD představila první část svého připravovaného upgradu technologie FSR s kódovým označením Redstone v hře Call of Duty: Black Ops 7. Nová funkce je však dostupná výhradně pro nejnovější grafické karty řady RX 9000.",
       "slug": "amd-launches-first-feature-from-fsr-redstone-with-",
       "publishedAt": "2025-11-13T16:13:00+00:00",
       "date": "2025-11-13 16:13:00",
@@ -238,7 +276,7 @@
       "slug": "looking-for-a-super-sized-mini-led-that-wont-cost-",
       "publishedAt": "2025-11-13T14:52:27+00:00",
       "date": "2025-11-13 14:52:27",
-      "importance": 3,
+      "importance": 2,
       "category": "televize",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/xhLkFKYyyte3ZNAQhp5BvV-1920-80.jpg",
       "url": "/tech-news/2025-11-13/looking-for-a-super-sized-mini-led-that-wont-cost/",
@@ -293,7 +331,7 @@
     },
     {
       "title": "Google rozšiřuje AI nakupování o konverzační vyhledávání, autonomní pokladnu a AI, která volá do obchodů",
-      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, autonomního procesu pokladny a nástroje, který zjišťuje dostupnost zboží v místních obchodech prostřednictvím telefonátu.",
+      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, agentic checkout a nástroje, který zjišťuje dostupnost zboží v místních obchodech prostřednictvím telefonátů.",
       "slug": "google-augments-ai-shopping-with-conversational-se",
       "publishedAt": "2025-11-13T14:00:00+00:00",
       "date": "2025-11-13 14:00:00",
@@ -3827,24 +3865,6 @@
       "people": []
     },
     {
-      "title": "Amazon zlevnil Mac mini s čipem M4 a 512GB úložištěm o 110 dolarů v rámci předběžných Black Friday slev",
-      "description": "Amazon nabízí nejnovější Mac mini s čipem Apple M4 a 512GB SSD s výraznou slevou 110 dolarů. Jde o jeden z prvních agresivnějších cenových impulsů u nové generace stolních Maců.",
-      "slug": "grab-a-110-early-black-friday-discount-on-apples-m",
-      "publishedAt": "2025-11-07T16:19:00+00:00",
-      "date": "2025-11-07 16:19:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65675-137495-m4-mac-mini-limited-time-offer-xl.jpg",
-      "url": "/tech-news/2025-11-07/grab-a-110-early-black-friday-discount-on-apples-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "OpenAI Sora zaplavuje sociální sítě násilnými videi generovanými AI",
       "description": "Na platformách X a TikTok se objevují účty systematicky publikující AI generovaná videa znázorňující škrcení žen a dívek, což ukazuje selhání ochranných mechanismů generativních modelů a platforem při vymáhání vlastních zásad proti násilí.",
       "slug": "openais-sora-2-floods-social-media-with-videos-of-",
@@ -3965,27 +3985,6 @@
       },
       "companies": [
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI spouští Sora aplikaci na Androidu: AI videoplatforma umožňuje vložit vlastní tvář i hlas",
-      "description": "Nová aplikace Sora pro Android kombinuje krátká videa ve stylu TikToku s generativní AI a funkcí, která uživatelům umožňuje skenovat tvář i hlas a stát se hlavní postavou plně syntetických videí. Řešení je technicky působivé, ale vyvolává zásadní otázky ohledně identity, souhlasu a regulace deepfake obsahu.",
-      "slug": "i-scanned-my-face-in-chatgpts-new-sora-app-and-the",
-      "publishedAt": "2025-11-07T12:07:06+00:00",
-      "date": "2025-11-07 12:07:06",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/sora-splash-screen-logo-app-scaled.jpg",
-      "url": "/tech-news/2025-11-07/i-scanned-my-face-in-chatgpts-new-sora-app-and-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
       ],
       "people": []
     },
