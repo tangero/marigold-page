@@ -31,6 +31,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - URL v tech-news manifestu - odstraněn trailing dash ze slugu (`scripts/generate_tech_news_manifest.py`)
   - Před: `/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab-/` (404)
   - Po: `/tech-news/2025-11-12/review-new-framework-laptop-16-takes-a-fresh-stab/` (200)
+- Trailing dash v URL na titulní stránce (Tech News sekce) - odstranění trailing dashe ze slugu v `index.html`
 
 ### Changed
 - GitHub Actions workflow `.github/workflows/tech-news.yml` - health check je nyní non-blocking (`|| true`)
@@ -40,6 +41,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Zkrácený popis s přímým odkazem na archiv
   - Zjednodušené filtry (odstranění filtru "Kritická" importance)
   - Kompaktní badge s počtem článků místo celého navigation boxu
+- Tech News sekce na titulní stránce - zmenšeny mezery mezi články (10px → 6px)
 
 ---
 
