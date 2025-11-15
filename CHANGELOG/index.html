@@ -258,6 +258,14 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="changed">Changed</h3>
 <ul>
+  <li><strong>Přepracován systém hodnocení důležitosti článků (importance 1-5)</strong> v <code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code>:
+    <ul>
+      <li><strong>LLM prompt</strong> - rozšířena kritéria s jasným zaměřením na AI, robotiku, Apple, Tesla, Elon Musk, Sam Altman (importance 4-5)</li>
+      <li><strong>Nízká priorita</strong> (2) pro čínské telefony (OnePlus, Xiaomi, Huawei), rutinní Android/Windows updaty, spekulace</li>
+      <li><strong>Fallback funkce</strong> <code class="language-plaintext highlighter-rouge">detect_importance()</code> - přidáno keyword-based hodnocení s 80+ klíčovými slovy</li>
+      <li>Cíl: lepší využití celé škály 1-5 (dříve 85% článků mělo importance 3-4)</li>
+    </ul>
+  </li>
   <li>GitHub Actions workflow <code class="language-plaintext highlighter-rouge">.github/workflows/tech-news.yml</code> - health check je nyní non-blocking (<code class="language-plaintext highlighter-rouge">|| true</code>)</li>
   <li>Health check přidán jako automatický krok do tech-news workflow</li>
   <li>UI/UX redesign úvodní stránky <code class="language-plaintext highlighter-rouge">/tech-news/</code> - kompaktnější layout, archiv v headeru

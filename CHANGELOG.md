@@ -35,6 +35,11 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Trailing dash v URL na titulní stránce (Tech News sekce) - odstranění trailing dashe ze slugu v `index.html`
 
 ### Changed
+- **Přepracován systém hodnocení důležitosti článků (importance 1-5)** v `scripts/generate_tech_news_newsapi.py`:
+  - **LLM prompt** - rozšířena kritéria s jasným zaměřením na AI, robotiku, Apple, Tesla, Elon Musk, Sam Altman (importance 4-5)
+  - **Nízká priorita** (2) pro čínské telefony (OnePlus, Xiaomi, Huawei), rutinní Android/Windows updaty, spekulace
+  - **Fallback funkce** `detect_importance()` - přidáno keyword-based hodnocení s 80+ klíčovými slovy
+  - Cíl: lepší využití celé škály 1-5 (dříve 85% článků mělo importance 3-4)
 - GitHub Actions workflow `.github/workflows/tech-news.yml` - health check je nyní non-blocking (`|| true`)
 - Health check přidán jako automatický krok do tech-news workflow
 - UI/UX redesign úvodní stránky `/tech-news/` - kompaktnější layout, archiv v headeru
