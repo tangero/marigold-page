@@ -8,15 +8,12 @@ permalink: /tech-news/
 <div class="tech-news-container">
   <header class="tech-news-header">
     <h1 align="center">{{ page.title }}</h1>
-    <p class="tech-news-description">{{ page.description }}</p>
+    <p class="tech-news-description">Nejnovější zprávy ze světa technologií <span class="header-separator">•</span> <a href="/tech-news/archiv/" class="archive-link-header">Archiv</a></p>
   </header>
 
   <!-- Filtry -->
   <div class="tech-news-filters">
-    <button class="filter-btn active" data-filter="all" data-type="category">🌟 Vše</button>
-
-    <div class="filter-separator">Důležitost:</div>
-    <button class="filter-btn" data-filter="5" data-type="importance">🔥 Kritická</button>
+    <button class="filter-btn active" data-filter="all" data-type="category">⭐ Vše</button>
     <button class="filter-btn" data-filter="4" data-type="importance">⚡ Vysoká</button>
     <button class="filter-btn" data-filter="3" data-type="importance">📢 Střední</button>
   </div>
@@ -31,17 +28,9 @@ permalink: /tech-news/
     <p>❌ Chyba při načítání zpráv. Zkuste to prosím později.</p>
   </div>
 
-  <!-- Navigace dnů -->
-  <div id="date-navigation" class="date-navigation" style="display: none;">
-    <div class="date-selector">
-      <div class="current-date">
-        <span class="current-date-display">18 nejnovějších článků</span>
-      </div>
-    </div>
-
-    <div class="date-info">
-      <span id="articles-count" class="articles-count">0 článků</span>
-    </div>
+  <!-- Počet článků -->
+  <div id="articles-count-bar" class="articles-count-bar" style="display: none;">
+    <span id="articles-count" class="articles-count">0 článků</span>
   </div>
 
   <!-- Grid článků -->
@@ -57,9 +46,9 @@ permalink: /tech-news/
     <p class="load-more-info">Zobrazeno <span id="shown-count">0</span> z <span id="total-count">0</span> článků</p>
   </div>
 
-  <!-- Odkaz na archiv -->
+  <!-- Odkaz na archiv (zobrazí se když jsou načteny všechny články) -->
   <div id="archive-link" class="archive-info" style="display: none;">
-    <p>🗂️ Starší články najdete v <a href="/tech-news/2025-10-31/">denních archivech</a></p>
+    <p>🗂️ Starší články najdete v <a href="/tech-news/archiv/">archivech</a></p>
   </div>
 </div>
 
@@ -92,9 +81,9 @@ async function loadTechNews() {
     // Zobrazit články
     renderArticles(filteredArticles);
 
-    // Skrýt loading, zobrazit navigaci
+    // Skrýt loading, zobrazit počítadlo článků
     document.getElementById('loading-state').style.display = 'none';
-    document.getElementById('date-navigation').style.display = 'block';
+    document.getElementById('articles-count-bar').style.display = 'block';
 
     // Aktualizovat počítadlo
     document.getElementById('articles-count').textContent = `${filteredArticles.length} článků`;
@@ -356,12 +345,18 @@ function updateFilterCounts(buttons, cards) {
       return;
     }
 
-    const count = Array.from(cards).filter(card =>
-      card.dataset.importance === btn.dataset.filter
-    ).length;
+    // Pro filtr podle důležitosti
+    if (btn.dataset.type === 'importance') {
+      const filterValue = btn.dataset.filter;
+      const count = Array.from(cards).filter(card =>
+        card.dataset.importance === filterValue
+      ).length;
 
-    btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
-    btn.style.display = count > 0 ? 'inline-block' : 'none';
+      btn.textContent = `${btn.textContent.split(' (')[0]} (${count})`;
+
+      // Skrýt tlačítko pokud není žádný článek s touto důležitostí
+      btn.style.display = count > 0 ? 'inline-block' : 'none';
+    }
   });
 }
 
@@ -426,58 +421,6 @@ if (document.readyState === 'loading') {
   color: #dc2626;
 }
 
-.date-navigation {
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
-  padding: 1rem;
-  margin-bottom: 2rem;
-  max-width: 1600px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.date-selector {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-  margin-bottom: 0.5rem;
-}
-
-.current-date {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  background: white;
-  padding: 0.5rem 1rem;
-  border-radius: 8px;
-  border: 1px solid #e2e8f0;
-  min-width: 200px;
-  justify-content: center;
-}
-
-.current-date-display {
-  font-weight: 600;
-  color: #2d3748;
-  font-size: 1.1rem;
-}
-
-.date-info {
-  text-align: center;
-  color: #718096;
-  font-size: 0.9rem;
-  font-weight: 500;
-}
-
-.articles-count {
-  background: #ebf8ff;
-  color: #3182ce;
-  padding: 0.25rem 0.75rem;
-  border-radius: 15px;
-  font-weight: 600;
-}
-
 .tech-news-container {
   width: 100vw;
   position: relative;
@@ -503,7 +446,25 @@ if (document.readyState === 'loading') {
 
 .tech-news-description {
   color: #718096;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  margin-top: -0.5rem;
+}
+
+.header-separator {
+  color: #cbd5e0;
+  margin: 0 0.5rem;
+}
+
+.archive-link-header {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.archive-link-header:hover {
+  color: #2c5282;
+  text-decoration: underline;
 }
 
 .tech-news-filters {
@@ -511,8 +472,8 @@ if (document.readyState === 'loading') {
   flex-wrap: wrap;
   gap: 0.5rem;
   justify-content: center;
-  margin-bottom: 2rem;
-  padding: 1rem 2rem;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 1rem;
   background: #f7fafc;
   border-radius: 12px;
   max-width: 1600px;
@@ -545,13 +506,23 @@ if (document.readyState === 'loading') {
   box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
 }
 
-.filter-separator {
+/* Počet článků bar - nový kompaktní design */
+.articles-count-bar {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.articles-count {
+  background: #ebf8ff;
+  color: #3182ce;
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
   font-weight: 600;
-  color: #4a5568;
-  margin: 0.5rem 0 0.25rem;
   font-size: 0.9rem;
-  flex-basis: 100%;
-  text-align: left;
+  display: inline-block;
 }
 
 .tech-news-grid {
@@ -775,6 +746,19 @@ if (document.readyState === 'loading') {
 
   .tech-news-header h1 {
     font-size: 2rem;
+  }
+
+  .tech-news-description {
+    font-size: 0.9rem;
+  }
+
+  .tech-news-filters {
+    padding: 0.5rem;
+  }
+
+  .filter-btn {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.8rem;
   }
 }
 
