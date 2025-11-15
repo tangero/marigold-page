@@ -1,7 +1,46 @@
 {
-  "generated": "2025-11-15T18:51:19.107716+00:00",
+  "generated": "2025-11-15T20:19:59.549759+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Samsung údajně zrušil původní plány pro Galaxy S26 po představení iPhone 17",
+      "description": "Samsung prý přehodnotil design a specifikace svého nejmenšího vlajkového modelu Galaxy S26 kvůli konkurenčnímu tlaku ze strany nového iPhone 17.",
+      "slug": "samsung-reportedly-scrapped-its-original-galaxy-s2",
+      "publishedAt": "2025-11-14T17:05:00+00:00",
+      "date": "2025-11-14 17:05:00",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Pro-AH-exclus-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-14/samsung-reportedly-scrapped-its-original-galaxy-s2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Samsung",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Muscle car s turbem: 2026 Dodge Charger Sixpack kompenzuje ztrátu V8 zábavou",
+      "description": "Nový Dodge Charger Scat Pack 2026 využívá šestiválcový motor Hurricane místo klasického Hemi V8, ale zachovává ducha amerického muscle caru díky výkonu, jízdním vlastnostem a retro stylu.",
+      "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
+      "publishedAt": "2025-11-14T15:00:00+00:00",
+      "date": "2025-11-14 15:00:00",
+      "importance": 3,
+      "category": "automobily",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/2026-dodge-charger-sixpacks-muscle-car-silliness-will-help-you-forgive-its-woke-engine/l-intro-1763103553.jpg",
+      "url": "/tech-news/2025-11-14/A-2026-dodge-charger-sixpacks-muscle-car-silliness/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Google rozšiřuje funkci nahrávání hovorů na starší modely Pixelů",
       "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely Pixelů, které nepodporují pokročilé AI funkce jako Call Notes.",
@@ -66,6 +105,26 @@
       "people": []
     },
     {
+      "title": "Google konečně přidává nativní nahrávání hovorů do starších modelů Pixel",
+      "description": "Po letech čekání začíná Google postupně zavádět funkci nahrávání telefonátů i do starších modelů Pixel, od verze Pixel 6 (2021) výše.",
+      "slug": "your-google-pixel-can-finally-record-calls-android",
+      "publishedAt": "2025-11-14T09:16:00+00:00",
+      "date": "2025-11-14 09:16:00",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/google-phone-app-material-3-expressive-call-voicemail.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-14/your-google-pixel-can-finally-record-calls-android/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
       "title": "Nejnovější aktualizace aplikace Google Home přináší rychlejší ovládání a ponořivé rozhraní",
       "description": "Aplikace Google Home ve verzi 4.3 zryšuje ovládání chytrých zařízení a přidává offline podporu pro zařízení kompatibilní s protokolem Matter.",
       "slug": "latest-google-home-app-update-brings-faster-contro",
@@ -107,7 +166,7 @@
     },
     {
       "title": "DJI představila mini dron Neo 2 těsně před možným zákazem ve Spojených státech",
-      "description": "Čínský výrobce dronů DJI uvedl na trh nový model Neo 2 s funkcí sledování uživatele, ale v USA jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu svých produktů.",
+      "description": "Čínský výrobce dronů DJI uvedl na trh nový model Neo 2 s funkcí sledování uživatele, ale ve Spojených státech jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu svých produktů.",
       "slug": "dji-launches-neo-2-mini-drone-ahead-of-potential-u",
       "publishedAt": "2025-11-13T23:21:00+00:00",
       "date": "2025-11-13 23:21:00",
@@ -190,6 +249,26 @@
       "people": [
         "Tim Cook"
       ]
+    },
+    {
+      "title": "Android 17 připravuje nový výběr kontaktů pro ochranu soukromí",
+      "description": "Android 17 zavádí systémový nástroj pro výběr kontaktů, který umožní sdílet s aplikacemi pouze konkrétní kontakty místo celého adresáře.",
+      "slug": "android-17-is-building-a-new-contacts-picker-to-ke",
+      "publishedAt": "2025-11-13T18:59:46+00:00",
+      "date": "2025-11-13 18:59:46",
+      "importance": 3,
+      "category": "soukromí kontaktů",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/04/Google-Contacts-app-logo-1.jpg",
+      "url": "/tech-news/2025-11-13/android-17-is-building-a-new-contacts-picker-to-ke/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
     },
     {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
@@ -3721,26 +3800,6 @@
       "people": []
     },
     {
-      "title": "Google Wallet zavádí personalizaci podle nákupů a digitálních pasů",
-      "description": "Google přidává do aplikace Wallet nové volby personalizace, které využijí historii plateb a uložených pasů k cílenějším doporučením a reklamě, s možností detailního vypnutí.",
-      "slug": "google-wallet-adding-new-purchase-and-pass-persona",
-      "publishedAt": "2025-11-07T19:00:00+00:00",
-      "date": "2025-11-07 19:00:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/google-wallet-adding-new-purchase-and-pass-persona/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Zranitelnost telefonů Samsung umožnila nasazení spyware LANDFALL přes WhatsApp jako zero-day útok",
       "description": "Útočníci zneužili dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení spyware LANDFALL prostřednictvím škodlivých obrázků ve WhatsApp před dubnovou bezpečnostní záplatou 2025.",
       "slug": "samsung-mobile-flaw-exploited-as-zero-day-to-deplo",
@@ -3827,24 +3886,6 @@
         "YouTube",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Amazon zlevnil Mac mini s čipem M4 a 512GB úložištěm o 110 dolarů v rámci předběžných Black Friday slev",
-      "description": "Amazon nabízí nejnovější Mac mini s čipem Apple M4 a 512GB SSD s výraznou slevou 110 dolarů. Jde o jeden z prvních agresivnějších cenových impulsů u nové generace stolních Maců.",
-      "slug": "grab-a-110-early-black-friday-discount-on-apples-m",
-      "publishedAt": "2025-11-07T16:19:00+00:00",
-      "date": "2025-11-07 16:19:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65675-137495-m4-mac-mini-limited-time-offer-xl.jpg",
-      "url": "/tech-news/2025-11-07/grab-a-110-early-black-friday-discount-on-apples-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3972,27 +4013,6 @@
       "people": []
     },
     {
-      "title": "OpenAI spouští Sora aplikaci na Androidu: AI videoplatforma umožňuje vložit vlastní tvář i hlas",
-      "description": "Nová aplikace Sora pro Android kombinuje krátká videa ve stylu TikToku s generativní AI a funkcí, která uživatelům umožňuje skenovat tvář i hlas a stát se hlavní postavou plně syntetických videí. Řešení je technicky působivé, ale vyvolává zásadní otázky ohledně identity, souhlasu a regulace deepfake obsahu.",
-      "slug": "i-scanned-my-face-in-chatgpts-new-sora-app-and-the",
-      "publishedAt": "2025-11-07T12:07:06+00:00",
-      "date": "2025-11-07 12:07:06",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/sora-splash-screen-logo-app-scaled.jpg",
-      "url": "/tech-news/2025-11-07/i-scanned-my-face-in-chatgpts-new-sora-app-and-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Chcete méně na displejích závislé děti? Začněte nastavením vlastních digitálních hranic",
       "description": "Článek ukazuje, že klíč k zdravému vztahu dětí k technologiím není jen v omezení jejich času na obrazovce, ale hlavně v tom, jak digitální návyky modelují samotní rodiče.",
       "slug": "want-less-screen-obsessed-kids-set-better-tech-bou",
@@ -4053,28 +4073,6 @@
         "name": "Internet"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "IKEA představuje 21 chytrých zařízení s podporou Matter a Apple Home",
-      "description": "IKEA uvede 21 nových produktů chytré domácnosti s podporou standardu Matter a Apple Home, včetně žárovek, senzorů, zásuvek a ovladačů, zaměřených na cenově dostupnou a interoperabilní chytrou domácnost.",
-      "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
-      "publishedAt": "2025-11-07T00:08:24+00:00",
-      "date": "2025-11-07 00:08:24",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://images.macrumors.com/t/AlCTVTfIGxDZ2ZG1LIy-IZi_WrA=/2000x/article-new/2025/11/ikea-smart-home-devices.jpg",
-      "url": "/tech-news/2025-11-07/ikea-debuts-21-homekit-compatible-smart-bulbs-sens/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "IKEA",
-        "Apple",
-        "Matter"
-      ],
       "people": []
     },
     {

@@ -1,18 +1,23 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-15T18:51:19.272298+00:00",
+  "timestamp": "2025-11-15T20:19:59.651525+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 28.05,
+      "newest_age_hours": 27.25,
       "articles_24h": 0,
       "articles_1h": 0
     },
     "language": {
       "status": "CRITICAL",
-      "czech_ratio": 0.58,
+      "czech_ratio": 0.57,
       "sample_size": 100,
       "english_articles_sample": [
+        {
+          "file": "2025-11-14-samsung-reportedly-scrapped-its-original-galaxy-s2.md",
+          "title": "Samsung údajně zrušil původní plány pro Galaxy S26",
+          "score": 0.3
+        },
         {
           "file": "2025-11-13-oneplus-15-vs-oneplus-13-sample-photos-comparison-.md",
           "title": "OnePlus 15 vs OnePlus 13: Srovnání fotografií – ja",
@@ -32,18 +37,13 @@
           "file": "2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md",
           "title": "Here’s how to photograph the northern lights light",
           "score": 0.18
-        },
-        {
-          "file": "2025-11-12-samsung-galaxy-z-flip8-to-be-thinner-and-lighter-g.md",
-          "title": "Samsung Galaxy Z Flip8 to be thinner and lighter -",
-          "score": 0.18
         }
       ]
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2406.0,
-      "median_length": 2542.0
+      "avg_length": 2354.0,
+      "median_length": 2471.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,15 +59,15 @@
     }
   },
   "metrics": {
-    "total_articles": 3055,
+    "total_articles": 3059,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 28.05,
-    "czech_articles": 58,
-    "english_articles": 42,
-    "czech_ratio": 0.58,
-    "avg_content_length": 2406.0,
-    "median_content_length": 2542.0,
+    "newest_article_age_hours": 27.25,
+    "czech_articles": 57,
+    "english_articles": 43,
+    "czech_ratio": 0.57,
+    "avg_content_length": 2354.0,
+    "median_content_length": 2471.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 28.0h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 27.2h (threshold: 6h)"
     },
     {
       "level": "WARNING",
@@ -87,8 +87,8 @@
     },
     {
       "level": "CRITICAL",
-      "message": "Pouze 58.0% článků v češtině! (minimum: 85.0%)"
+      "message": "Pouze 57.0% článků v češtině! (minimum: 85.0%)"
     }
   ],
-  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 58.0% | Alerty: 4"
+  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 57.0% | Alerty: 4"
 }
