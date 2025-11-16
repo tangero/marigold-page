@@ -1,7 +1,25 @@
 {
-  "generated": "2025-11-16T04:25:21.601498+00:00",
+  "generated": "2025-11-16T08:22:09.131777+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a Porsche 911 GT3 RS na okruhu",
+      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozidla byly vybavena stejnými pneumatikami a řízeny jedním pilotem, aby byly minimalizovány proměnné.",
+      "slug": "watch-savagegeese-put-the-corvette-zr1-and-mustang",
+      "publishedAt": "2025-11-14T18:52:34+00:00",
+      "date": "2025-11-14 18:52:34",
+      "importance": 3,
+      "category": "automobily",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/watch-savagegeese-put-the-corvette-zr1-and-mustang-gtd-up-against-the-porsche-911-gt3-rs/l-intro-1763146288.jpg",
+      "url": "/tech-news/2025-11-14/watch-savagegeese-put-the-corvette-zr1-and-mustang/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Samsung údajně zrušil původní plány pro Galaxy S26 po představení iPhone 17",
       "description": "Samsung prý přehodnotil design a specifikace svého nejmenšího vlajkového modelu Galaxy S26 kvůli konkurenčnímu tlaku ze strany nového iPhone 17.",
@@ -43,7 +61,7 @@
     },
     {
       "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
-      "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
+      "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplaty.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
       "date": "2025-11-14 14:58:04",
@@ -63,7 +81,7 @@
     },
     {
       "title": "Google rozšiřuje funkci nahrávání hovorů na starší modely Pixelů",
-      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely chytrých telefonů Pixel, které nepodporují pokročilé AI funkce jako Call Notes.",
+      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů v aplikaci Telefon na starších modelech Pixelů, které nepodporují pokročilé AI funkce jako Call Notes.",
       "slug": "google-call-recording-launches-on-more-pixel-phone",
       "publishedAt": "2025-11-14T14:48:36+00:00",
       "date": "2025-11-14 14:48:36",
@@ -333,7 +351,7 @@
     },
     {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
-      "description": "Služba NotebookLM od Googlu přidává nový nástroj pro automatizovaný výzkum a rozšiřuje podporu souborových formátů.",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje složité online výzkumy, a rozšiřuje podporu pro další typy souborů.",
       "slug": "googles-notebooklm-adds-deep-research-tool-support",
       "publishedAt": "2025-11-13T17:00:00+00:00",
       "date": "2025-11-13 17:00:00",
@@ -3964,30 +3982,6 @@
       "companies": [
         "YouTube",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI Sora zaplavuje sociální sítě násilnými videi generovanými AI",
-      "description": "Na platformách X a TikTok se objevují účty systematicky publikující AI generovaná videa znázorňující škrcení žen a dívek, což ukazuje selhání ochranných mechanismů generativních modelů a platforem při vymáhání vlastních zásad proti násilí.",
-      "slug": "openais-sora-2-floods-social-media-with-videos-of-",
-      "publishedAt": "2025-11-07T15:38:28+00:00",
-      "date": "2025-11-07 15:38:28",
-      "importance": 3,
-      "category": "ai etika",
-      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/11/image4.png",
-      "url": "/tech-news/2025-11-07/openais-sora-2-floods-social-media-with-videos-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "404media.co"
-      },
-      "companies": [
-        "OpenAI",
-        "TikTok",
-        "Apple",
-        "Google",
-        "Microsoft"
       ],
       "people": []
     },

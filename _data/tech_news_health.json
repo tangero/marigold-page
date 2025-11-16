@@ -1,10 +1,10 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-16T04:25:21.739737+00:00",
+  "timestamp": "2025-11-16T08:22:09.302010+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 35.34,
+      "newest_age_hours": 37.49,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -13,6 +13,11 @@
       "czech_ratio": 0.57,
       "sample_size": 100,
       "english_articles_sample": [
+        {
+          "file": "2025-11-14-watch-savagegeese-put-the-corvette-zr1-and-mustang.md",
+          "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a ",
+          "score": 0.3
+        },
         {
           "file": "2025-11-14-samsung-reportedly-scrapped-its-original-galaxy-s2.md",
           "title": "Samsung údajně zrušil původní plány pro Galaxy S26",
@@ -32,17 +37,12 @@
           "file": "2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md",
           "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eig",
           "score": 0.18
-        },
-        {
-          "file": "2025-11-12-breaking-google-is-partially-walking-back-its-new-.md",
-          "title": "Breaking: Google is partially walking back its new",
-          "score": 0.18
         }
       ]
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2402.0,
+      "avg_length": 2386.0,
       "median_length": 2524.0
     },
     "generation_trend": {
@@ -59,14 +59,14 @@
     }
   },
   "metrics": {
-    "total_articles": 3064,
+    "total_articles": 3065,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 35.34,
+    "newest_article_age_hours": 37.49,
     "czech_articles": 57,
     "english_articles": 43,
     "czech_ratio": 0.57,
-    "avg_content_length": 2402.0,
+    "avg_content_length": 2386.0,
     "median_content_length": 2524.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 35.3h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 37.5h (threshold: 6h)"
     },
     {
       "level": "WARNING",

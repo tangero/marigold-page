@@ -4,8 +4,8 @@ category: mobilní technologie
 companies:
 - Google
 date: '2025-11-14 14:48:36'
-description: Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na
-  starší modely chytrých telefonů Pixel, které nepodporují pokročilé AI funkce jako
+description: Google začal šířeji nasazovat funkci nahrávání telefonních hovorů v aplikaci
+  Telefon na starších modelech Pixelů, které nepodporují pokročilé AI funkce jako
   Call Notes.
 importance: 3
 layout: tech_news_article
@@ -23,20 +23,22 @@ urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2025/
 ---
 
 ## Souhrn
-Google rozšiřuje dostupnost funkce nahrávání hovorů v aplikaci Telefon na starší modely chytrých telefonů Pixel, konkrétně od Pixelu 6 výše. Tato funkce je určena pro zařízení, která nemají hardwarovou podporu pro pokročilé AI funkce jako Call Notes dostupné v nejnovějších modelech Pixel 9 a 10.
+Google rozšiřuje dostupnost funkce nahrávání hovorů v aplikaci Telefon na zařízeních Pixel 6 a novějších, které nemají podporu pro AI funkcionalitu Call Notes dostupnou na Pixelu 9 a 10. Funkce umožňuje uživatelům manuálně nebo automaticky nahrávat hovory a ukládat je lokálně na zařízení.
 
 ## Klíčové body
-- Funkce nahrávání hovorů je nyní dostupná na telefonech Pixel 6 a novějších.
-- Na rozdíl od Call Notes (které využívají AI model Gemini Nano pro automatické přepisy a shrnutí hovorů) pouze nahrává zvuk jako audio soubor.
+- Funkce nahrávání hovorů je nyní dostupná na Pixelu 6 a novějších modelech.
+- Na rozdíl od Call Notes (které využívají AI model Gemini Nano pro automatické přepisy a souhrny hovorů) nahrávání hovorů pouze vytváří zvukové soubory.
 - Uživatelé mohou nastavit automatické nahrávání pro konkrétní kontakty nebo neznámá čísla.
 - Nahrávky lze automaticky mazat po 7, 14 nebo 30 dnech, nebo je uchovávat trvale.
-- Funkce vyžaduje aktualizaci aplikace Telefon od Googlu a nejnovější systémový update Pixel Drop z listopadu 2025.
+- Funkce vyžaduje aktualizaci aplikace Telefon a nejnovější systémový balíček Pixel Drop z listopadu 2025.
 
 ## Podrobnosti
-Funkce nahrávání hovorů, kterou Google poprvé oznámil v září 2025, nyní dosahuje širšího okruhu uživatelů starších modelů Pixel. Na rozdíl od Call Notes – funkce dostupné pouze na Pixelu 9 a 10, která využívá lokální AI model Gemini Nano k vytváření přepisů a shrnutí klíčových bodů hovoru – nahrávání hovorů funguje jako jednoduchý nástroj pro ukládání zvuku. Uživatelé musí nahrávky přepisovat ručně pomocí jiných aplikací nebo služeb. Funkce se aktivuje v nastavení aplikace Telefon pod položkou Asistent hovorů → Nahrávání hovorů. Lze ji nastavit tak, aby se spouštěla automaticky pro určité kontakty nebo pro všechny hovory od neznámých čísel. Nahrávky jsou ukládány lokálně na zařízení a nejsou odesílány na servery Googlu. Tato funkce je užitečná zejména pro uživatele, kteří potřebují dokumentovat důležité telefonáty, například v obchodní komunikaci nebo při řešení zákaznických dotazů.
+Funkce nahrávání hovorů, kterou Google původně oznámil v září 2025, nyní dosahuje širšího okruhu uživatelů starších modelů Pixelů. Je určena pro zařízení, která nemají dostatečný výpočetní výkon pro provoz AI funkce Call Notes – tedy pro Pixel 6, 7 a 8 (včetně Pro verzí). Call Notes, dostupné pouze na Pixelu 9 a 10, využívá lokální AI model Gemini Nano k přepisu hovorů a generování souhrnů s klíčovými body a „dalšími kroky“. Naopak nahrávání hovorů je technologicky jednodušší: vytváří pouze zvukové soubory uložené v zařízení, které uživatel musí případně přepisovat ručně nebo pomocí externích nástrojů.
+
+Nastavení funkce se nachází v aplikaci Telefon v sekci Nastavení > Pomoc při hovoru > Nahrávání hovorů. Uživatelé mohou zvolit, zda budou nahrávat všechny hovory, pouze od určitých kontaktů nebo od neznámých čísel. Z hlediska ochrany soukromí systém automaticky přehraje hlasové upozornění na začátku hovoru, že je nahráván – což je v souladu s legislativou v mnoha zemích, včetně České republiky, kde je pro legální nahrávání potřeba souhlas všech účastníků.
 
 ## Proč je to důležité
-Rozšíření funkce nahrávání hovorů na starší modely ukazuje Googlovu snahu poskytnout užitečné nástroje i uživatelům, kteří si nemohou dovolit nejnovější zařízení. Zároveň to odhaluje rozdělení mezi „AI-first“ funkcemi vyhrazenými pro špičková zařízení a základními nástroji dostupnými širšímu publiku. V kontextu rostoucího využití AI v mobilních zařízeních je tato diferenciace důležitá – ukazuje, jak velké technologické firmy vytvářejí dvouúrovňový ekosystém, kde pokročilé funkce zůstávají exkluzivní pro nejnovější hardware.
+Tento krok ukazuje, jak Google diferencuje své služby podle hardwarových schopností zařízení. Zatímco nejnovější modely získávají pokročilé AI funkce běžící lokálně, starší modely dostávají stále užitečné, ale méně náročné nástroje. Tím Google prodlužuje životnost starších zařízení a zároveň podporuje upgrade na nejnovější generace. Pro uživatele je to praktická funkce, zejména v profesním prostředí, kde je potřeba dokumentovat telefonáty – avšak bez automatického přepisu zůstává její využití omezenější než u plnohodnotných AI nástrojů.
 
 ---
 
