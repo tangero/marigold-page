@@ -1,15 +1,15 @@
 {
-  "generated": "2025-11-16T08:22:09.131777+00:00",
+  "generated": "2025-11-16T12:30:01.067959+00:00",
   "count": 200,
   "articles": [
     {
       "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a Porsche 911 GT3 RS na okruhu",
-      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozidla byly vybavena stejnými pneumatikami a řízeny jedním pilotem, aby byly minimalizovány proměnné.",
+      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozy byly vybaveny stejnými pneumatikami a řízeny jedním pilotem, aby byly podmínky co nejvíce standardizované.",
       "slug": "watch-savagegeese-put-the-corvette-zr1-and-mustang",
       "publishedAt": "2025-11-14T18:52:34+00:00",
       "date": "2025-11-14 18:52:34",
       "importance": 3,
-      "category": "automobily",
+      "category": "autosport",
       "urlToImage": "https://www.jalopnik.com/img/gallery/watch-savagegeese-put-the-corvette-zr1-and-mustang-gtd-up-against-the-porsche-911-gt3-rs/l-intro-1763146288.jpg",
       "url": "/tech-news/2025-11-14/watch-savagegeese-put-the-corvette-zr1-and-mustang/",
       "source": {
@@ -42,6 +42,26 @@
       "people": []
     },
     {
+      "title": "Recenze Pixelu 10 Pro Fold: Google vsází na odolnost skládacích telefonů",
+      "description": "Google zlepšil odolnost Pixelu 10 Pro Fold díky těsnějšímu pantu, certifikaci IP68, větší baterii a jasnějšímu displeji, ale jeho fotoaparát zaostává za běžným Pixel 10 Pro, což zpochybňuje označení „Pro“.",
+      "slug": "pixel-10-pro-fold-review-googles-bet-to-make-folda",
+      "publishedAt": "2025-11-14T15:13:22+00:00",
+      "date": "2025-11-14 15:13:22",
+      "importance": 3,
+      "category": "foldable telefony",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Pixel-fold-feat.jpg?resize=1200,675",
+      "url": "/tech-news/2025-11-14/pixel-10-pro-fold-review-googles-bet-to-make-folda/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
       "title": "Muscle car s turbem: 2026 Dodge Charger Sixpack kompenzuje ztrátu V8 zábavou",
       "description": "Nový Dodge Charger Scat Pack 2026 využívá šestiválcový motor Hurricane místo klasického Hemi V8, ale zachovává ducha amerického muscle caru díky výkonu, jízdním vlastnostem a retro stylu.",
       "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
@@ -60,8 +80,8 @@
       "people": []
     },
     {
-      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
-      "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplaty.",
+      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 i Server",
+      "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
       "date": "2025-11-14 14:58:04",
@@ -3983,24 +4003,6 @@
         "YouTube",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Porsche představilo unikátní 911 GT3 \"Ocelot\" z programu Sonderwunsch",
-      "description": "Porsche v rámci programu Sonderwunsch představuje jedinečný vůz 911 GT3 \"Ocelot\", který designem odkazuje na přírodu Amazonie a ukazuje možnosti hluboké individualizace pro zákazníky. Projekt zdůrazňuje image značky a její schopnost nabízet limitované zakázkové vozy mimo běžnou sériovou produkci.",
-      "slug": "porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du",
-      "publishedAt": "2025-11-07T15:36:33+00:00",
-      "date": "2025-11-07 15:36:33",
-      "importance": 1,
-      "category": "automobilismus",
-      "urlToImage": "https://news.dupontregistry.com/wp-content/uploads/2025/11/327271_4992x3120.jpg",
-      "url": "/tech-news/2025-11-07/porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dupontregistry.com"
-      },
-      "companies": [],
       "people": []
     },
     {
