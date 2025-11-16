@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-16T01:04:00.489653+00:00",
+  "generated": "2025-11-16T04:25:21.601498+00:00",
   "count": 200,
   "articles": [
     {
@@ -39,6 +39,26 @@
         "name": "Jalopnik"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
+      "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
+      "slug": "critical-microsoft-alert-update-windows-10-11-and-",
+      "publishedAt": "2025-11-14T14:58:04+00:00",
+      "date": "2025-11-14 14:58:04",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-14/critical-microsoft-alert-update-windows-10-11-and/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Microsoft"
+      ],
       "people": []
     },
     {
@@ -222,6 +242,27 @@
       "companies": [
         "OnePlus",
         "Hasselblad"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple zpřísňuje pravidla pro sdílení osobních dat s externí AI",
+      "description": "Apple aktualizoval pravidla App Store a vyžaduje, aby aplikace před sdílením osobních dat s externí umělou inteligencí získaly výslovný souhlas uživatele a jasně uvedly, s kým data sdílejí.",
+      "slug": "apples-new-app-review-guidelines-clamp-down-on-app",
+      "publishedAt": "2025-11-13T21:14:35+00:00",
+      "date": "2025-11-13 21:14:35",
+      "importance": 3,
+      "category": "soukromí dat",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+      "url": "/tech-news/2025-11-13/apples-new-app-review-guidelines-clamp-down-on-app/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Apple",
+        "OpenAI"
       ],
       "people": []
     },
@@ -3906,30 +3947,6 @@
       ]
     },
     {
-      "title": "ChatGPT úniky v Google Search Console naznačují přímé sbírání dat z vyhledávání",
-      "description": "Vyšetřování konzultantů odhalilo, že citlivé dotazy z ChatGPT se objevovaly v Google Search Console, což může potvrzovat, že OpenAI pracuje s reálnými uživatelskými prompty z Google a tím otevírá vážné otázky ochrany soukromí a transparentnosti.",
-      "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
-      "publishedAt": "2025-11-07T16:49:53+00:00",
-      "date": "2025-11-07 16:49:53",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg",
-      "url": "/tech-news/2025-11-07/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "ChatGPT",
-        "OpenAI",
-        "Google",
-        "Microsoft",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
       "description": "Část uživatelů zaznamenala, že se jim YouTube přestává načítat při použití adblocku. Podle hlášení nejde o klasický výpadek služby, ale o další projev konfliktu mezi YouTube a nástroji pro blokování reklamy.",
       "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
@@ -4051,27 +4068,6 @@
         "Microsoft",
         "Tesla",
         "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nejasná budoucnost NVIDIA GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 pamětí",
-      "description": "Podle neoficiálních informací údajně NVIDIA zrušila plánovanou řadu GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 paměťových modulů, které se zřejmě nedostanou včas na desktopový trh. Zpráva naznačuje, že výrobní kapacity a dostupnost nových typů pamětí mohou ovlivnit harmonogram nasazení nové generace GPU.",
-      "slug": "nvidia-geforce-rtx-50-super-refresh-faces-uncertai",
-      "publishedAt": "2025-11-07T07:48:00+00:00",
-      "date": "2025-11-07 07:48:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/09/GEFORCE-RTX-50-SUPER-HERO2.jpg",
-      "url": "/tech-news/2025-11-07/nvidia-geforce-rtx-50-super-refresh-faces-uncertai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "NVIDIA",
-        "VideoCardz"
       ],
       "people": []
     },
