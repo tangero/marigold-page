@@ -1,10 +1,31 @@
 {
-  "generated": "2025-11-15T18:12:52.692537+00:00",
+  "generated": "2025-11-16T04:25:21.601498+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Muscle car s turbodmychadly: 2026 Dodge Charger Sixpack nahrazuje V8 šestiválcem",
-      "description": "Nový Dodge Charger Scat Pack 2026 modelového roku opouští tradiční Hemi V8 motor ve prospěch šestiválcového motoru Hurricane s dvojím turbodmychadlem. I když to mnozí považují za odchod od „klasického“ muscle car ducha, auto nabízí výkon, jízdní pohodu i zábavu.",
+      "title": "Samsung údajně zrušil původní plány pro Galaxy S26 po představení iPhone 17",
+      "description": "Samsung prý přehodnotil design a specifikace svého nejmenšího vlajkového modelu Galaxy S26 kvůli konkurenčnímu tlaku ze strany nového iPhone 17.",
+      "slug": "samsung-reportedly-scrapped-its-original-galaxy-s2",
+      "publishedAt": "2025-11-14T17:05:00+00:00",
+      "date": "2025-11-14 17:05:00",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Pro-AH-exclus-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-14/samsung-reportedly-scrapped-its-original-galaxy-s2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Samsung",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Muscle car s turbem: 2026 Dodge Charger Sixpack kompenzuje ztrátu V8 zábavou",
+      "description": "Nový Dodge Charger Scat Pack 2026 využívá šestiválcový motor Hurricane místo klasického Hemi V8, ale zachovává ducha amerického muscle caru díky výkonu, jízdním vlastnostem a retro stylu.",
       "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
       "publishedAt": "2025-11-14T15:00:00+00:00",
       "date": "2025-11-14 15:00:00",
@@ -18,6 +39,26 @@
         "name": "Jalopnik"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
+      "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
+      "slug": "critical-microsoft-alert-update-windows-10-11-and-",
+      "publishedAt": "2025-11-14T14:58:04+00:00",
+      "date": "2025-11-14 14:58:04",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-14/critical-microsoft-alert-update-windows-10-11-and/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Microsoft"
+      ],
       "people": []
     },
     {
@@ -42,7 +83,7 @@
     },
     {
       "title": "Google pracuje na vlastní verzi NameDropu pro Android",
-      "description": "Google vyvíjí funkci nazvanou „Gesture Exchange“ nebo „Contact Exchange“, která umožní sdílení kontaktů mezi zařízeními s Androidem pomocí gesta a technologie NFC – obdobu Apple NameDropu.",
+      "description": "Google vyvíjí novou funkci pro sdílení kontaktů pomocí gesta a technologie NFC, která by měla konkurovat Apple NameDropu.",
       "slug": "exclusive-googles-take-on-namedrop-could-be-coming",
       "publishedAt": "2025-11-14T11:48:40+00:00",
       "date": "2025-11-14 11:48:40",
@@ -58,6 +99,26 @@
       "companies": [
         "Google",
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT spouští pilotní skupinové chaty v Japonsku, Novém Zélandu, Jižní Koreji a na Tchaj-wanu",
+      "description": "OpenAI zahajuje testování skupinových chatů v ChatGPT jako první krok k vytvoření sdíleného uživatelského zážitku. Soukromé konverzace i osobní paměť zůstávají plně soukromé.",
+      "slug": "chatgpt-launches-pilot-group-chats-across-japan-ne",
+      "publishedAt": "2025-11-14T10:58:08+00:00",
+      "date": "2025-11-14 10:58:08",
+      "importance": 3,
+      "category": "skupinové chaty",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/ChatGPT-Groupchat-pilot-launch.png?w=995",
+      "url": "/tech-news/2025-11-14/chatgpt-launches-pilot-group-chats-across-japan-ne/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI"
       ],
       "people": []
     },
@@ -84,29 +145,28 @@
       "people": []
     },
     {
-      "title": "Zapomeňte na Samsung S25 Ultra: Tento vlajkový model od OnePlusu překonává androidího giganta v klíčových ohledech",
-      "description": "Recenze porovnává OnePlus 15 a Samsung S25 Ultra na základě týdenního testování v reálných podmínkách. Autor tvrdí, že OnePlus 15 přesvědčuje v několika praktických aspektech, i když jde o model vydaný pozdě v roce.",
-      "slug": "forget-samsung-s25-ultra-this-oneplus-flagship-bea",
-      "publishedAt": "2025-11-14T10:00:00+00:00",
-      "date": "2025-11-14 10:00:00",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/97fbe327db7e5be66895d789b3bcdd5f7905748e/2025/11/13/70cec1c4-a8c0-4c2f-9017-c7f5ae58889c/dsc08556.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-14/forget-samsung-s25-ultra-this-oneplus-flagship-bea/",
+      "title": "Google konečně přidává nativní nahrávání hovorů do starších modelů Pixel",
+      "description": "Po letech čekání začíná Google postupně zavádět funkci nahrávání telefonátů i do starších modelů Pixel, od verze Pixel 6 (2021) výše.",
+      "slug": "your-google-pixel-can-finally-record-calls-android",
+      "publishedAt": "2025-11-14T09:16:00+00:00",
+      "date": "2025-11-14 09:16:00",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/google-phone-app-material-3-expressive-call-voicemail.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-14/your-google-pixel-can-finally-record-calls-android/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "ZDNet"
+        "name": "Android Police"
       },
       "companies": [
-        "OnePlus",
-        "Samsung"
+        "Google"
       ],
       "people": []
     },
     {
       "title": "Nejnovější aktualizace aplikace Google Home přináší rychlejší ovládání a ponořivé rozhraní",
-      "description": "Aktualizace Google Home verze 4.3 zlepšuje ovládání chytrých zařízení, přidává offline podporu pro Matter zařízení a modernizuje uživatelské rozhraní na Androidu.",
+      "description": "Aplikace Google Home ve verzi 4.3 zryšuje ovládání chytrých zařízení a přidává offline podporu pro zařízení kompatibilní s protokolem Matter.",
       "slug": "latest-google-home-app-update-brings-faster-contro",
       "publishedAt": "2025-11-14T04:43:00+00:00",
       "date": "2025-11-14 04:43:00",
@@ -145,8 +205,8 @@
       "people": []
     },
     {
-      "title": "DJI spustila mini dron Neo 2 před možným zákazem ve Spojených státech",
-      "description": "Čínský výrobce dronů DJI představil nový model Neo 2 s funkcí sledování uživatele, který však nebude oficiálně dostupný na americkém trhu kvůli hrozícímu zákazu.",
+      "title": "DJI představila mini dron Neo 2 těsně před možným zákazem ve Spojených státech",
+      "description": "Čínský výrobce dronů DJI uvedl na trh nový model Neo 2 s funkcí sledování uživatele, ale ve Spojených státech jej zatím neplánuje oficiálně prodávat kvůli hrozícímu zákazu svých produktů.",
       "slug": "dji-launches-neo-2-mini-drone-ahead-of-potential-u",
       "publishedAt": "2025-11-13T23:21:00+00:00",
       "date": "2025-11-13 23:21:00",
@@ -186,13 +246,34 @@
       "people": []
     },
     {
+      "title": "Apple zpřísňuje pravidla pro sdílení osobních dat s externí AI",
+      "description": "Apple aktualizoval pravidla App Store a vyžaduje, aby aplikace před sdílením osobních dat s externí umělou inteligencí získaly výslovný souhlas uživatele a jasně uvedly, s kým data sdílejí.",
+      "slug": "apples-new-app-review-guidelines-clamp-down-on-app",
+      "publishedAt": "2025-11-13T21:14:35+00:00",
+      "date": "2025-11-13 21:14:35",
+      "importance": 3,
+      "category": "soukromí dat",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+      "url": "/tech-news/2025-11-13/apples-new-app-review-guidelines-clamp-down-on-app/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Apple",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
       "title": "Firefox přidává AI okno, uživatelé chtějí spíš AI zeď",
-      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox – nový režim pro interakci s asistenty na bázi umělé inteligence. Komunita uživatelů reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
+      "description": "Mozilla představila plánovanou funkci AI Window v prohlížeči Firefox, která má uživatelům umožnit komunikaci s asistentem přímo během prohlížení webu. Komunita reaguje kriticky a žádá možnost jednoduše vypnout veškeré AI funkce.",
       "slug": "firefox-adds-ai-window-users-want-ai-wall-to-keep-",
       "publishedAt": "2025-11-13T21:08:00+00:00",
       "date": "2025-11-13 21:08:00",
       "importance": 3,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg",
       "url": "/tech-news/2025-11-13/firefox-adds-ai-window-users-want-ai-wall-to-keep/",
       "source": {
@@ -202,7 +283,9 @@
       },
       "companies": [
         "Mozilla",
-        "OpenAI"
+        "OpenAI",
+        "Google",
+        "Microsoft"
       ],
       "people": []
     },
@@ -229,8 +312,28 @@
       ]
     },
     {
+      "title": "Android 17 připravuje nový výběr kontaktů pro lepší ochranu soukromí",
+      "description": "Android 17 zavádí systémový nástroj pro výběr kontaktů, který umožní sdílet s aplikacemi pouze konkrétní kontakty místo celého adresáře.",
+      "slug": "android-17-is-building-a-new-contacts-picker-to-ke",
+      "publishedAt": "2025-11-13T18:59:46+00:00",
+      "date": "2025-11-13 18:59:46",
+      "importance": 3,
+      "category": "soukromí kontaktů",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/04/Google-Contacts-app-logo-1.jpg",
+      "url": "/tech-news/2025-11-13/android-17-is-building-a-new-contacts-picker-to-ke/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
-      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje komplexní online výzkum, a rozšiřuje podporu pro další typy souborů.",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj pro automatizovaný výzkum a rozšiřuje podporu souborových formátů.",
       "slug": "googles-notebooklm-adds-deep-research-tool-support",
       "publishedAt": "2025-11-13T17:00:00+00:00",
       "date": "2025-11-13 17:00:00",
@@ -251,7 +354,7 @@
     },
     {
       "title": "AMD spustila první funkci FSR Redstone v Call of Duty: Black Ops 7, ale pouze pro grafiky RX 9000",
-      "description": "AMD představila první část svého připravovaného upgradu technologie FSR s kódovým označením Redstone v hře Call of Duty: Black Ops 7. Nová funkce je však dostupná výhradně pro nejnovější grafické karty řady RX 9000.",
+      "description": "AMD představila první implementaci svého připravovaného upscalingového řešení FSR Redstone ve hře Call of Duty: Black Ops 7. Funkce je však zatím dostupná výhradně pro nejnovější grafické karty řady RX 9000.",
       "slug": "amd-launches-first-feature-from-fsr-redstone-with-",
       "publishedAt": "2025-11-13T16:13:00+00:00",
       "date": "2025-11-13 16:13:00",
@@ -268,24 +371,6 @@
         "AMD",
         "Activision"
       ],
-      "people": []
-    },
-    {
-      "title": "Hledáte obří Mini LED televizi za rozumnou cenu? Tato Black Friday sleva je pro vás",
-      "description": "Model TCL C7K s úhlopříčkou 85 palců je nyní v prodeji za 1349 liber, což je o 850 liber méně než původní cena.",
-      "slug": "looking-for-a-super-sized-mini-led-that-wont-cost-",
-      "publishedAt": "2025-11-13T14:52:27+00:00",
-      "date": "2025-11-13 14:52:27",
-      "importance": 2,
-      "category": "televize",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xhLkFKYyyte3ZNAQhp5BvV-1920-80.jpg",
-      "url": "/tech-news/2025-11-13/looking-for-a-super-sized-mini-led-that-wont-cost/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "What Hi-Fi? US"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -330,8 +415,30 @@
       "people": []
     },
     {
-      "title": "Google rozšiřuje AI nakupování o konverzační vyhledávání, autonomní pokladnu a AI, která volá do obchodů",
-      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, agentic checkout a nástroje, který zjišťuje dostupnost zboží v místních obchodech prostřednictvím telefonátů.",
+      "title": "Windows stále vítězí: Lenovo upozorňuje na vážné problémy s kompatibilitou aplikací u Android PC",
+      "description": "Lenovo detailně popisuje omezení nadcházejících počítačů s Androidem, zejména problémy s kompatibilitou aplikací a chybějícími funkcemi desktopového prostředí.",
+      "slug": "windows-still-wins-lenovo-cites-android-pcs-major-",
+      "publishedAt": "2025-11-13T14:18:54+00:00",
+      "date": "2025-11-13 14:18:54",
+      "importance": 3,
+      "category": "operační systémy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QHaskpMraWQHfcgzdHgCRB-1280-80.jpg",
+      "url": "/tech-news/2025-11-13/windows-still-wins-lenovo-cites-android-pcs-major/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Lenovo",
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google rozšiřuje AI nakupování: konverzační vyhledávání, autonomní pokladna a AI, která volá do obchodů",
+      "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, pokladny řízené agentem a nástroje, který zjišťuje dostupnost zboží v místních obchodech pomocí telefonátu.",
       "slug": "google-augments-ai-shopping-with-conversational-se",
       "publishedAt": "2025-11-13T14:00:00+00:00",
       "date": "2025-11-13 14:00:00",
@@ -346,6 +453,26 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "DJI Neo 2 selfie dron se spouští globálně, ale ne v USA",
+      "description": "Nový selfie dron DJI Neo 2 přináší vylepšené vyhýbání překážkám, gestové ovládání a delší dolet, ale nebude dostupný na americkém trhu.",
+      "slug": "djis-neo-2-selfie-drone-launches-globally-but-not-",
+      "publishedAt": "2025-11-13T12:00:00+00:00",
+      "date": "2025-11-13 12:00:00",
+      "importance": 3,
+      "category": "drony",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/dji_neo2_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+      "url": "/tech-news/2025-11-13/djis-neo-2-selfie-drone-launches-globally-but-not/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "DJI"
       ],
       "people": []
     },
@@ -3820,30 +3947,6 @@
       ]
     },
     {
-      "title": "ChatGPT úniky v Google Search Console naznačují přímé sbírání dat z vyhledávání",
-      "description": "Vyšetřování konzultantů odhalilo, že citlivé dotazy z ChatGPT se objevovaly v Google Search Console, což může potvrzovat, že OpenAI pracuje s reálnými uživatelskými prompty z Google a tím otevírá vážné otázky ochrany soukromí a transparentnosti.",
-      "slug": "oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i",
-      "publishedAt": "2025-11-07T16:49:53+00:00",
-      "date": "2025-11-07 16:49:53",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg",
-      "url": "/tech-news/2025-11-07/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-i/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "ChatGPT",
-        "OpenAI",
-        "Google",
-        "Microsoft",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
       "description": "Část uživatelů zaznamenala, že se jim YouTube přestává načítat při použití adblocku. Podle hlášení nejde o klasický výpadek služby, ale o další projev konfliktu mezi YouTube a nástroji pro blokování reklamy.",
       "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
@@ -3907,30 +4010,6 @@
       "people": []
     },
     {
-      "title": "Apple údajně nasadí Google AI model pro zásadní přepracování Siri",
-      "description": "Apple podle informací zvažuje nasazení velkého jazykového modelu od Googlu pro nové funkce Siri. Tento krok může urychlit nástup schopnější AI asistence v ekosystému Apple, ale současně otevírá otázky ohledně nezávislosti a ochrany soukromí.",
-      "slug": "new-siri-rumor-could-give-apple-and-users-exactly-",
-      "publishedAt": "2025-11-07T14:34:00+00:00",
-      "date": "2025-11-07 14:34:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/new-siri-rumor-could-give-apple-and-users-exactly/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Tim Cook",
-        "Sundar Pichai"
-      ]
-    },
-    {
       "title": "Ice Universe vyvrací spekulace o fotoaparátu Samsung Galaxy S26 Ultra",
       "description": "Dlouhodobý leakster Ice Universe zpochybnil nedávné úniky o zásadních změnách fotoaparátu Samsung Galaxy S26 Ultra a zveřejnil specifikace, které potvrzují spíše evoluční než revoluční přístup Samsungu.",
       "slug": "samsung-galaxy-s26-ultras-camera-rumor-debunked-ic",
@@ -3946,26 +4025,6 @@
         "name": "PhoneArena"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "IKEA představila 21 nových chytrých zařízení s podporou Matter",
-      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení pro osvětlení, senzory a ovládání, všechna s podporou standardu Matter pro jednodušší integraci s existujícími systémy.",
-      "slug": "ikea-just-announced-21-smart-home-gadgets-heres-th",
-      "publishedAt": "2025-11-07T13:38:51+00:00",
-      "date": "2025-11-07 13:38:51",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mREoaZ9fMDEG6rriGCEdS7-2000-80.jpg",
-      "url": "/tech-news/2025-11-07/ikea-just-announced-21-smart-home-gadgets-heres-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [
-        "IKEA"
-      ],
       "people": []
     },
     {
@@ -4013,27 +4072,6 @@
       "people": []
     },
     {
-      "title": "Nejasná budoucnost NVIDIA GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 pamětí",
-      "description": "Podle neoficiálních informací údajně NVIDIA zrušila plánovanou řadu GeForce RTX 50 SUPER kvůli nedostatku 3GB GDDR7 paměťových modulů, které se zřejmě nedostanou včas na desktopový trh. Zpráva naznačuje, že výrobní kapacity a dostupnost nových typů pamětí mohou ovlivnit harmonogram nasazení nové generace GPU.",
-      "slug": "nvidia-geforce-rtx-50-super-refresh-faces-uncertai",
-      "publishedAt": "2025-11-07T07:48:00+00:00",
-      "date": "2025-11-07 07:48:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/09/GEFORCE-RTX-50-SUPER-HERO2.jpg",
-      "url": "/tech-news/2025-11-07/nvidia-geforce-rtx-50-super-refresh-faces-uncertai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "NVIDIA",
-        "VideoCardz"
-      ],
-      "people": []
-    },
-    {
       "title": "Zákeřné VS Code rozšíření generované pomocí AI obsahovalo vestavěné ransomware funkce",
       "description": "Útočníci zneužili důvěru v otevřený software a využili AI k tvorbě škodlivého rozšíření pro VS Code a falešných balíčků v repozitáři npm, které mohou vést k ransomware útokům a kompromitaci vývojářských prostředí.",
       "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
@@ -4049,49 +4087,6 @@
         "name": "Internet"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "IKEA představuje 21 chytrých zařízení s podporou Matter a Apple Home",
-      "description": "IKEA uvede 21 nových produktů chytré domácnosti s podporou standardu Matter a Apple Home, včetně žárovek, senzorů, zásuvek a ovladačů, zaměřených na cenově dostupnou a interoperabilní chytrou domácnost.",
-      "slug": "ikea-debuts-21-homekit-compatible-smart-bulbs-sens",
-      "publishedAt": "2025-11-07T00:08:24+00:00",
-      "date": "2025-11-07 00:08:24",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://images.macrumors.com/t/AlCTVTfIGxDZ2ZG1LIy-IZi_WrA=/2000x/article-new/2025/11/ikea-smart-home-devices.jpg",
-      "url": "/tech-news/2025-11-07/ikea-debuts-21-homekit-compatible-smart-bulbs-sens/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "IKEA",
-        "Apple",
-        "Matter"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft testoval AI agenty v simulované ekonomice. Skončili jako oběť podvodů",
-      "description": "Microsoft vytvořil simulovanou online ekonomiku se stovkami AI agentů jako kupujícími a prodávajícími. Experiment ukázal, že agenti opakovaně selhávají v základní finanční a bezpečnostní logice a snadno podléhají podvodům.",
-      "slug": "microsoft-gave-ai-agents-fake-money-to-buy-things-",
-      "publishedAt": "2025-11-07T00:05:13+00:00",
-      "date": "2025-11-07 00:05:13",
-      "importance": 3,
-      "category": "ai agenti",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/443150d2-ca4c-4ca4-9240-b52432c00026-gID_7.png",
-      "url": "/tech-news/2025-11-07/microsoft-gave-ai-agents-fake-money-to-buy-things/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Microsoft",
-        "Decrypt"
-      ],
       "people": []
     }
   ]

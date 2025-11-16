@@ -35,6 +35,12 @@ MODEL_PRICING = {
         "input": 15.0,
         "output": 75.0
     },
+    "qwen/qwen3-max": {
+        "input": 1.20,   # $1.20 per 1M input tokens (≤128K context)
+        "output": 6.0    # $6.00 per 1M output tokens (≤128K context)
+        # Note: >128K context má vyšší ceny: input $3, output $15
+        # Naše použití je typicky <128K, takže používáme nižší tier
+    },
     # Přidat další modely podle potřeby
 }
 
