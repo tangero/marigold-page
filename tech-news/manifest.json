@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-15T20:19:59.549759+00:00",
+  "generated": "2025-11-16T01:04:00.489653+00:00",
   "count": 200,
   "articles": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "title": "Google rozšiřuje funkci nahrávání hovorů na starší modely Pixelů",
-      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely Pixelů, které nepodporují pokročilé AI funkce jako Call Notes.",
+      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely chytrých telefonů Pixel, které nepodporují pokročilé AI funkce jako Call Notes.",
       "slug": "google-call-recording-launches-on-more-pixel-phone",
       "publishedAt": "2025-11-14T14:48:36+00:00",
       "date": "2025-11-14 14:48:36",
@@ -79,6 +79,26 @@
       "companies": [
         "Google",
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT spouští pilotní skupinové chaty v Japonsku, Novém Zélandu, Jižní Koreji a na Tchaj-wanu",
+      "description": "OpenAI zahajuje testování skupinových chatů v ChatGPT jako první krok k vytvoření sdíleného uživatelského zážitku. Soukromé konverzace i osobní paměť zůstávají plně soukromé.",
+      "slug": "chatgpt-launches-pilot-group-chats-across-japan-ne",
+      "publishedAt": "2025-11-14T10:58:08+00:00",
+      "date": "2025-11-14 10:58:08",
+      "importance": 3,
+      "category": "skupinové chaty",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/ChatGPT-Groupchat-pilot-launch.png?w=995",
+      "url": "/tech-news/2025-11-14/chatgpt-launches-pilot-group-chats-across-japan-ne/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI"
       ],
       "people": []
     },
@@ -251,7 +271,7 @@
       ]
     },
     {
-      "title": "Android 17 připravuje nový výběr kontaktů pro ochranu soukromí",
+      "title": "Android 17 připravuje nový výběr kontaktů pro lepší ochranu soukromí",
       "description": "Android 17 zavádí systémový nástroj pro výběr kontaktů, který umožní sdílet s aplikacemi pouze konkrétní kontakty místo celého adresáře.",
       "slug": "android-17-is-building-a-new-contacts-picker-to-ke",
       "publishedAt": "2025-11-13T18:59:46+00:00",
@@ -354,6 +374,28 @@
       "people": []
     },
     {
+      "title": "Windows stále vítězí: Lenovo upozorňuje na vážné problémy s kompatibilitou aplikací u Android PC",
+      "description": "Lenovo detailně popisuje omezení nadcházejících počítačů s Androidem, zejména problémy s kompatibilitou aplikací a chybějícími funkcemi desktopového prostředí.",
+      "slug": "windows-still-wins-lenovo-cites-android-pcs-major-",
+      "publishedAt": "2025-11-13T14:18:54+00:00",
+      "date": "2025-11-13 14:18:54",
+      "importance": 3,
+      "category": "operační systémy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QHaskpMraWQHfcgzdHgCRB-1280-80.jpg",
+      "url": "/tech-news/2025-11-13/windows-still-wins-lenovo-cites-android-pcs-major/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Lenovo",
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
       "title": "Google rozšiřuje AI nakupování: konverzační vyhledávání, autonomní pokladna a AI, která volá do obchodů",
       "description": "Google před vánoční sezonou spouští nové funkce pro AI podporované nakupování, včetně konverzačního vyhledávání, pokladny řízené agentem a nástroje, který zjišťuje dostupnost zboží v místních obchodech pomocí telefonátu.",
       "slug": "google-augments-ai-shopping-with-conversational-se",
@@ -370,6 +412,26 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "DJI Neo 2 selfie dron se spouští globálně, ale ne v USA",
+      "description": "Nový selfie dron DJI Neo 2 přináší vylepšené vyhýbání překážkám, gestové ovládání a delší dolet, ale nebude dostupný na americkém trhu.",
+      "slug": "djis-neo-2-selfie-drone-launches-globally-but-not-",
+      "publishedAt": "2025-11-13T12:00:00+00:00",
+      "date": "2025-11-13 12:00:00",
+      "importance": 3,
+      "category": "drony",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/dji_neo2_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+      "url": "/tech-news/2025-11-13/djis-neo-2-selfie-drone-launches-globally-but-not/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "DJI"
       ],
       "people": []
     },
@@ -3931,30 +3993,6 @@
       "people": []
     },
     {
-      "title": "Apple údajně nasadí Google AI model pro zásadní přepracování Siri",
-      "description": "Apple podle informací zvažuje nasazení velkého jazykového modelu od Googlu pro nové funkce Siri. Tento krok může urychlit nástup schopnější AI asistence v ekosystému Apple, ale současně otevírá otázky ohledně nezávislosti a ochrany soukromí.",
-      "slug": "new-siri-rumor-could-give-apple-and-users-exactly-",
-      "publishedAt": "2025-11-07T14:34:00+00:00",
-      "date": "2025-11-07 14:34:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/new-siri-rumor-could-give-apple-and-users-exactly/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Tim Cook",
-        "Sundar Pichai"
-      ]
-    },
-    {
       "title": "Ice Universe vyvrací spekulace o fotoaparátu Samsung Galaxy S26 Ultra",
       "description": "Dlouhodobý leakster Ice Universe zpochybnil nedávné úniky o zásadních změnách fotoaparátu Samsung Galaxy S26 Ultra a zveřejnil specifikace, které potvrzují spíše evoluční než revoluční přístup Samsungu.",
       "slug": "samsung-galaxy-s26-ultras-camera-rumor-debunked-ic",
@@ -3970,26 +4008,6 @@
         "name": "PhoneArena"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "IKEA představila 21 nových chytrých zařízení s podporou Matter",
-      "description": "IKEA rozšiřuje svou nabídku chytré domácnosti o 21 nových zařízení pro osvětlení, senzory a ovládání, všechna s podporou standardu Matter pro jednodušší integraci s existujícími systémy.",
-      "slug": "ikea-just-announced-21-smart-home-gadgets-heres-th",
-      "publishedAt": "2025-11-07T13:38:51+00:00",
-      "date": "2025-11-07 13:38:51",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mREoaZ9fMDEG6rriGCEdS7-2000-80.jpg",
-      "url": "/tech-news/2025-11-07/ikea-just-announced-21-smart-home-gadgets-heres-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [
-        "IKEA"
-      ],
       "people": []
     },
     {
@@ -4073,27 +4091,6 @@
         "name": "Internet"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Microsoft testoval AI agenty v simulované ekonomice. Skončili jako oběť podvodů",
-      "description": "Microsoft vytvořil simulovanou online ekonomiku se stovkami AI agentů jako kupujícími a prodávajícími. Experiment ukázal, že agenti opakovaně selhávají v základní finanční a bezpečnostní logice a snadno podléhají podvodům.",
-      "slug": "microsoft-gave-ai-agents-fake-money-to-buy-things-",
-      "publishedAt": "2025-11-07T00:05:13+00:00",
-      "date": "2025-11-07 00:05:13",
-      "importance": 3,
-      "category": "ai agenti",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/443150d2-ca4c-4ca4-9240-b52432c00026-gID_7.png",
-      "url": "/tech-news/2025-11-07/microsoft-gave-ai-agents-fake-money-to-buy-things/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Microsoft",
-        "Decrypt"
-      ],
       "people": []
     }
   ]

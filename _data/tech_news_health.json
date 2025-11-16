@@ -1,10 +1,10 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-15T20:19:59.651525+00:00",
+  "timestamp": "2025-11-16T01:04:00.615148+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 27.25,
+      "newest_age_hours": 31.98,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,6 +16,11 @@
         {
           "file": "2025-11-14-samsung-reportedly-scrapped-its-original-galaxy-s2.md",
           "title": "Samsung údajně zrušil původní plány pro Galaxy S26",
+          "score": 0.3
+        },
+        {
+          "file": "2025-11-14-chatgpt-launches-pilot-group-chats-across-japan-ne.md",
+          "title": "ChatGPT spouští pilotní skupinové chaty v Japonsku",
           "score": 0.3
         },
         {
@@ -32,18 +37,13 @@
           "file": "2025-11-12-breaking-google-is-partially-walking-back-its-new-.md",
           "title": "Breaking: Google is partially walking back its new",
           "score": 0.18
-        },
-        {
-          "file": "2025-11-12-heres-how-to-photograph-the-northern-lights-lighti.md",
-          "title": "Here’s how to photograph the northern lights light",
-          "score": 0.18
         }
       ]
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2354.0,
-      "median_length": 2471.0
+      "avg_length": 2373.0,
+      "median_length": 2490.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,15 +59,15 @@
     }
   },
   "metrics": {
-    "total_articles": 3059,
+    "total_articles": 3062,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 27.25,
+    "newest_article_age_hours": 31.98,
     "czech_articles": 57,
     "english_articles": 43,
     "czech_ratio": 0.57,
-    "avg_content_length": 2354.0,
-    "median_content_length": 2471.0,
+    "avg_content_length": 2373.0,
+    "median_content_length": 2490.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 27.2h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 32.0h (threshold: 6h)"
     },
     {
       "level": "WARNING",
