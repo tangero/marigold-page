@@ -1,15 +1,54 @@
 {
-  "generated": "2025-11-16T12:30:01.067959+00:00",
+  "generated": "2025-11-16T16:22:06.659577+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Frameworkův „frankenstein“ notebook se vrací s výkonnější grafikou a stále stejnými problémy",
+      "description": "Notebook Framework Laptop 16 pro rok 2025 konečně získal výkonnější, uživatelem vyměnitelnou grafiku Nvidia RTX 5070, ale jiné aspekty zařízení zůstávají problematické.",
+      "slug": "frameworks-franken-laptop-is-back-with-big-chip-up",
+      "publishedAt": "2025-11-15T14:00:00+00:00",
+      "date": "2025-11-15 14:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258105_Framework_Laptop_16_2025_ADiBenedetto_0034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-15/frameworks-franken-laptop-is-back-with-big-chip-up/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Framework",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Wyomingské dinosauří „mumie“ odhalují nový pohled na kachnonosé druhy",
+      "description": "Výjimečně zachované fosilie z jednoho naleziště ve Wyomingu poskytují nejpřesnější obraz vzhledu Edmontosaura annectens.",
+      "slug": "wyoming-dinosaur-mummies-give-us-a-new-view-of-duc",
+      "publishedAt": "2025-11-15T12:00:59+00:00",
+      "date": "2025-11-15 12:00:59",
+      "importance": 3,
+      "category": "paleontologie",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-1152x648.jpg",
+      "url": "/tech-news/2025-11-15/wyoming-dinosaur-mummies-give-us-a-new-view-of-duc/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a Porsche 911 GT3 RS na okruhu",
-      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozy byly vybaveny stejnými pneumatikami a řízeny jedním pilotem, aby byly podmínky co nejvíce standardizované.",
+      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozidla byly vybavena stejnými pneumatikami a řízena jedním pilotem, aby byly výsledky co nejobjektivnější.",
       "slug": "watch-savagegeese-put-the-corvette-zr1-and-mustang",
       "publishedAt": "2025-11-14T18:52:34+00:00",
       "date": "2025-11-14 18:52:34",
       "importance": 3,
-      "category": "autosport",
+      "category": "automobily",
       "urlToImage": "https://www.jalopnik.com/img/gallery/watch-savagegeese-put-the-corvette-zr1-and-mustang-gtd-up-against-the-porsche-911-gt3-rs/l-intro-1763146288.jpg",
       "url": "/tech-news/2025-11-14/watch-savagegeese-put-the-corvette-zr1-and-mustang/",
       "source": {
@@ -80,7 +119,7 @@
       "people": []
     },
     {
-      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 i Server",
+      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
       "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
@@ -366,6 +405,27 @@
       },
       "companies": [
         "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google NotebookLM nyní podporuje 'hluboký výzkum' pomocí Gemini",
+      "description": "Google rozšiřuje svůj nástroj pro výzkum NotebookLM o funkci Deep Research z modelu Gemini a přidává podporu pro další typy souborů.",
+      "slug": "googles-notebooklm-will-now-do-deep-research-the-v",
+      "publishedAt": "2025-11-13T17:00:00+00:00",
+      "date": "2025-11-13 17:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-13/googles-notebooklm-will-now-do-deep-research-the-v/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google",
+        "Gemini"
       ],
       "people": []
     },
@@ -3921,44 +3981,6 @@
       "people": []
     },
     {
-      "title": "Samsung představí LPDDR6 paměti s přenosovou rychlostí 10,7 Gbps na CES 2026",
-      "description": "Samsung na veletrhu CES 2026 ukáže první LPDDR6 DRAM čipy vyráběné 12nm technologií s rychlostí až 10,7 Gbps na pin, přičemž komerční nasazení plánuje v následujícím roce. Nové paměti cílí na mobilní zařízení, výkonné čipy pro AI a automobilový sektor.",
-      "slug": "samsung-confirms-lpddr6-memory-with-107-gbps-bandw",
-      "publishedAt": "2025-11-07T19:14:00+00:00",
-      "date": "2025-11-07 19:14:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/SAMSUNG-LPDDR6-HERO-2.jpg",
-      "url": "/tech-news/2025-11-07/samsung-confirms-lpddr6-memory-with-107-gbps-bandw/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "SAMSUNG"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zranitelnost telefonů Samsung umožnila nasazení spyware LANDFALL přes WhatsApp jako zero-day útok",
-      "description": "Útočníci zneužili dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení spyware LANDFALL prostřednictvím škodlivých obrázků ve WhatsApp před dubnovou bezpečnostní záplatou 2025.",
-      "slug": "samsung-mobile-flaw-exploited-as-zero-day-to-deplo",
-      "publishedAt": "2025-11-07T18:00:00+00:00",
-      "date": "2025-11-07 18:00:00",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s790-rw-e365/mobile-exploit.jpg",
-      "url": "/tech-news/2025-11-07/samsung-mobile-flaw-exploited-as-zero-day-to-deplo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Jak Elon Musk utrácí své peníze",
       "description": "Elon Musk, aktuálně nejbohatší člověk na světě, tvrdí, že navzdory svému majetku žije relativně skromně, zatímco významné prostředky směřuje do technologií, kosmických projektů a soukromých akvizic.",
       "slug": "what-does-elon-musk-do-with-all-his-money-bbc",
@@ -4003,24 +4025,6 @@
         "YouTube",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Ice Universe vyvrací spekulace o fotoaparátu Samsung Galaxy S26 Ultra",
-      "description": "Dlouhodobý leakster Ice Universe zpochybnil nedávné úniky o zásadních změnách fotoaparátu Samsung Galaxy S26 Ultra a zveřejnil specifikace, které potvrzují spíše evoluční než revoluční přístup Samsungu.",
-      "slug": "samsung-galaxy-s26-ultras-camera-rumor-debunked-ic",
-      "publishedAt": "2025-11-07T14:28:40+00:00",
-      "date": "2025-11-07 14:28:40",
-      "importance": 2,
-      "category": "smartphony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175562-wide-two_1200/Samsung-Galaxy-S26-Ultras-camera-rumor-debunked-Ice-Universe-sets-the-record-straight.jpg",
-      "url": "/tech-news/2025-11-07/samsung-galaxy-s26-ultras-camera-rumor-debunked-ic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [],
       "people": []
     },
     {
