@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-16T16:22:06.659577+00:00",
+  "generated": "2025-11-16T20:21:19.379655+00:00",
   "count": 200,
   "articles": [
     {
@@ -24,8 +24,8 @@
       "people": []
     },
     {
-      "title": "Wyomingské dinosauří „mumie“ odhalují nový pohled na kachnonosé druhy",
-      "description": "Výjimečně zachované fosilie z jednoho naleziště ve Wyomingu poskytují nejpřesnější obraz vzhledu Edmontosaura annectens.",
+      "title": "Wyomingské dinosauří „mumie“ odhalují nový pohled na kachnozobého dinosaura",
+      "description": "Výjimečně zachované fosilie z jediné lokality ve Wyomingu poskytují nejpřesnější obraz vzhledu druhu Edmontosaurus annectens.",
       "slug": "wyoming-dinosaur-mummies-give-us-a-new-view-of-duc",
       "publishedAt": "2025-11-15T12:00:59+00:00",
       "date": "2025-11-15 12:00:59",
@@ -42,13 +42,54 @@
       "people": []
     },
     {
+      "title": "Google vydá Nano Banana Pro poháněné modelem Gemini 3 Pro už příští týden",
+      "description": "Google plánuje příští týden spustit novou verzi svého nástroje pro generování obrazového obsahu Nano Banana Pro spolu s modelem Gemini 3 Pro, který přinese vylepšené schopnosti tvorby obrázků a videí.",
+      "slug": "google-to-release-nano-banana-pro-powered-by-gemin",
+      "publishedAt": "2025-11-15T09:22:01+00:00",
+      "date": "2025-11-15 09:22:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/Robot-Google-Vids-11-15-2025_09_22_AM.jpg",
+      "url": "/tech-news/2025-11-15/google-to-release-nano-banana-pro-powered-by-gemin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Testingcatalog.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Android 17 usnadní používání alternativních obchodů s aplikacemi",
+      "description": "V rámci smíru s Epicem zavádí Google v Androidu 17 podporu pro „Registrované obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných uživatelských bariér.",
+      "slug": "heres-a-look-at-how-android-17-will-make-alternati",
+      "publishedAt": "2025-11-14T20:11:07+00:00",
+      "date": "2025-11-14 20:11:07",
+      "importance": 3,
+      "category": "mobilní operační sys",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-the-Epic-Games-Store-on-Android-hero-image-scaled.jpg",
+      "url": "/tech-news/2025-11-14/heres-a-look-at-how-android-17-will-make-alternati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Epic"
+      ],
+      "people": []
+    },
+    {
       "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a Porsche 911 GT3 RS na okruhu",
-      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozidla byly vybavena stejnými pneumatikami a řízena jedním pilotem, aby byly výsledky co nejobjektivnější.",
+      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozy byly vybaveny identickými pneumatikami a řízeny jedním pilotem, aby byly minimalizovány proměnné.",
       "slug": "watch-savagegeese-put-the-corvette-zr1-and-mustang",
       "publishedAt": "2025-11-14T18:52:34+00:00",
       "date": "2025-11-14 18:52:34",
       "importance": 3,
-      "category": "automobily",
+      "category": "automobilové testy",
       "urlToImage": "https://www.jalopnik.com/img/gallery/watch-savagegeese-put-the-corvette-zr1-and-mustang-gtd-up-against-the-porsche-911-gt3-rs/l-intro-1763146288.jpg",
       "url": "/tech-news/2025-11-14/watch-savagegeese-put-the-corvette-zr1-and-mustang/",
       "source": {
@@ -77,6 +118,27 @@
       "companies": [
         "Samsung",
         "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "WhatsApp v Evropě brzy umožní chatování s uživateli jiných aplikací",
+      "description": "Uživatelé v Evropě, kteří si zapnou tuto funkci, budou moci posílat zprávy, obrázky, hlasové zprávy, videa i soubory uživatelům jiných komunikačních aplikací.",
+      "slug": "whatsapp-to-launch-third-party-chat-integration-in",
+      "publishedAt": "2025-11-14T15:32:50+00:00",
+      "date": "2025-11-14 15:32:50",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+      "url": "/tech-news/2025-11-14/whatsapp-to-launch-third-party-chat-integration-in/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "WhatsApp",
+        "TechCrunch"
       ],
       "people": []
     },
@@ -119,7 +181,7 @@
       "people": []
     },
     {
-      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
+      "title": "Kritické varování od Microsoftu — okamžitě aktualizujte Windows 10, 11 a Server",
       "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
@@ -3981,32 +4043,6 @@
       "people": []
     },
     {
-      "title": "Jak Elon Musk utrácí své peníze",
-      "description": "Elon Musk, aktuálně nejbohatší člověk na světě, tvrdí, že navzdory svému majetku žije relativně skromně, zatímco významné prostředky směřuje do technologií, kosmických projektů a soukromých akvizic.",
-      "slug": "what-does-elon-musk-do-with-all-his-money-bbc",
-      "publishedAt": "2025-11-07T17:29:23+00:00",
-      "date": "2025-11-07 17:29:23",
-      "importance": 1,
-      "category": "byznys",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg",
-      "url": "/tech-news/2025-11-07/what-does-elon-musk-do-with-all-his-money-bbc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX",
-        "OpenAI",
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
       "description": "Část uživatelů zaznamenala, že se jim YouTube přestává načítat při použití adblocku. Podle hlášení nejde o klasický výpadek služby, ale o další projev konfliktu mezi YouTube a nástroji pro blokování reklamy.",
       "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
@@ -4045,48 +4081,6 @@
       "companies": [
         "Microsoft"
       ],
-      "people": []
-    },
-    {
-      "title": "Chcete méně na displejích závislé děti? Začněte nastavením vlastních digitálních hranic",
-      "description": "Článek ukazuje, že klíč k zdravému vztahu dětí k technologiím není jen v omezení jejich času na obrazovce, ale hlavně v tom, jak digitální návyky modelují samotní rodiče.",
-      "slug": "want-less-screen-obsessed-kids-set-better-tech-bou",
-      "publishedAt": "2025-11-07T10:00:00+00:00",
-      "date": "2025-11-07 10:00:00",
-      "importance": 3,
-      "category": "digitální rodičovstv",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+1123/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F4b%2F46232ca44d00b76e646f9d83e83a%2Flk-parents-screen-time-phone-use-drowning-mental-health-high-res-pool.jpg",
-      "url": "/tech-news/2025-11-07/want-less-screen-obsessed-kids-set-better-tech-bou/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "NPR"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zákeřné VS Code rozšíření generované pomocí AI obsahovalo vestavěné ransomware funkce",
-      "description": "Útočníci zneužili důvěru v otevřený software a využili AI k tvorbě škodlivého rozšíření pro VS Code a falešných balíčků v repozitáři npm, které mohou vést k ransomware útokům a kompromitaci vývojářských prostředí.",
-      "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
-      "publishedAt": "2025-11-07T06:48:00+00:00",
-      "date": "2025-11-07 06:48:00",
-      "importance": 3,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s790-rw-e365/vide-code-ransomware.jpg",
-      "url": "/tech-news/2025-11-07/vibe-coded-malicious-vs-code-extension-found-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
       "people": []
     }
   ]

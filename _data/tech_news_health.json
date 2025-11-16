@@ -1,16 +1,16 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-16T16:22:06.788570+00:00",
+  "timestamp": "2025-11-16T20:21:19.503531+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 26.37,
+      "newest_age_hours": 30.36,
       "articles_24h": 0,
       "articles_1h": 0
     },
     "language": {
       "status": "CRITICAL",
-      "czech_ratio": 0.57,
+      "czech_ratio": 0.58,
       "sample_size": 100,
       "english_articles_sample": [
         {
@@ -24,6 +24,11 @@
           "score": 0.3
         },
         {
+          "file": "2025-11-14-critical-microsoft-alert-update-windows-10-11-and-.md",
+          "title": "Kritické varování od Microsoftu — okamžitě aktuali",
+          "score": 0.44
+        },
+        {
           "file": "2025-11-14-chatgpt-launches-pilot-group-chats-across-japan-ne.md",
           "title": "ChatGPT spouští pilotní skupinové chaty v Japonsku",
           "score": 0.3
@@ -32,18 +37,13 @@
           "file": "2025-11-13-oneplus-15-vs-oneplus-13-sample-photos-comparison-.md",
           "title": "OnePlus 15 vs OnePlus 13: Srovnání fotografií – ja",
           "score": 0.44
-        },
-        {
-          "file": "2025-11-12-openai-walks-a-tricky-tightrope-with-gpt-51s-eight.md",
-          "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eig",
-          "score": 0.18
         }
       ]
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2374.0,
-      "median_length": 2524.0
+      "avg_length": 2325.0,
+      "median_length": 2510.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,15 +59,15 @@
     }
   },
   "metrics": {
-    "total_articles": 3069,
+    "total_articles": 3072,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 26.37,
-    "czech_articles": 57,
-    "english_articles": 43,
-    "czech_ratio": 0.57,
-    "avg_content_length": 2374.0,
-    "median_content_length": 2524.0,
+    "newest_article_age_hours": 30.36,
+    "czech_articles": 58,
+    "english_articles": 42,
+    "czech_ratio": 0.58,
+    "avg_content_length": 2325.0,
+    "median_content_length": 2510.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 26.4h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 30.4h (threshold: 6h)"
     },
     {
       "level": "WARNING",
@@ -87,8 +87,8 @@
     },
     {
       "level": "CRITICAL",
-      "message": "Pouze 57.0% článků v češtině! (minimum: 85.0%)"
+      "message": "Pouze 58.0% článků v češtině! (minimum: 85.0%)"
     }
   ],
-  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 57.0% | Alerty: 4"
+  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 58.0% | Alerty: 4"
 }
