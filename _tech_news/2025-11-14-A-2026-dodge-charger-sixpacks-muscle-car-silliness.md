@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: automobily
 date: '2025-11-14 15:00:00'
-description: Nový Dodge Charger Scat Pack z roku 2026 využívá šestiválcový motor Hurricane
-  místo klasického Hemi V8, což vyvolává kontroverzi, ale zároveň přináší výkonnost
-  a jízdní zábavu typickou pro muscle car.
+description: Dodge představil novou generaci Chargeru se šestiválcovým motorem Hurricane
+  místo klasického V8 Hemi. I když to mnozí označují za „woke“ krok, výsledek nabízí
+  výkon, jízdní radost a komfort, které konkuruje tradičním muscle carům.
 importance: 3
 layout: tech_news_article
 original_title: 2026 Dodge Charger Sixpack's Muscle Car Silliness Will Help You Forgive
@@ -15,28 +15,29 @@ source:
   emoji: 📰
   id: null
   name: Jalopnik
-title: Muscle carová absurdita nového Dodge Charger Sixpack z roku 2026 zmírňuje jeho
-  „woke“ motor
+title: 'Muscle car s turbem: Proč nový Dodge Charger Sixpack překvapí i tradiční fanoušky'
 url: https://www.jalopnik.com/2026284/2026-dodge-charger-sixpack-hurricane-ice-engine-first-drive-review/
 urlToImage: https://www.jalopnik.com/img/gallery/2026-dodge-charger-sixpacks-muscle-car-silliness-will-help-you-forgive-its-woke-engine/l-intro-1763103553.jpg
 urlToImageBackup: https://www.jalopnik.com/img/gallery/2026-dodge-charger-sixpacks-muscle-car-silliness-will-help-you-forgive-its-woke-engine/l-intro-1763103553.jpg
 ---
 
 ## Souhrn
-Dodge představil novou generaci Chargeru Scat Pack pro rok 2026, která opouští tradiční osmiválcový Hemi motor ve prospěch šestiválcového twin-turbo motoru Hurricane o objemu 3,0 litru. I když tento krok vyvolává kritiku mezi puristy, nový model nabízí výkonnost, pohodlí a jízdní dynamiku, které překvapivě naplňují očekávání fanoušků muscle carů.
+Dodge pro rok 2026 představil novou generaci Chargeru Scat Pack s twin-turbo šestiválcovým motorem Hurricane o objemu 3,0 litru, který nahrazuje legendární V8 Hemi. I když tento krok vyvolal kritiku mezi puristy, první jízdní dojmy ukazují, že auto nabízí výkon, jízdní dynamiku a komfort na úrovni tradičních muscle carů.
 
 ## Klíčové body
-- Dodge Charger Scat Pack 2026 používá 3,0litrový twin-turbo šestiválec Hurricane místo klasického Hemi V8.
-- Model vznikl jako reakce na slabý prodej elektrické verze Charger Daytona.
-- Nový motor poskytuje výkonnost srovnatelnou s osmiválcem, ale s lepší účinností a nižší hmotností.
-- Vůz zachovává typickou „silly“ (absurdní) jízdní zábavu, která je pro muscle car charakteristická.
-- Dodge urychlil uvedení Sixpacku na trh, aby stabilizoval prodeje v rámci modelové řady Charger.
+- Dodge opouští V8 Hemi ve prospěch 3,0litrového twin-turbo šestiválce Hurricane.
+- Nový motor poskytuje výkon srovnatelný s klasickými osmiválci, ale s lepší palivovou účinností.
+- Charger Scat Pack 2026 se zaměřuje na jízdní radost, komfort a „silly“ muscle car charakter.
+- Slabé prodeje elektrického Chargeru Daytona vedly k urychlení uvedení Sixpacku na trh.
+- Model je klíčový pro obnovení ziskovosti Dodge v segmentu výkonných vozů.
 
 ## Podrobnosti
-Dodge Charger osmé generace přichází s významnou technickou změnou: místo legendárního Hemi V8, který stále používají modely jako Ram 1500, Durango nebo Jeep Wrangler, využívá nový twin-turbo šestiválec Hurricane. Tento motor, vyvinutý společností Stellantis, má objem 3,0 litru a je navržen tak, aby poskytoval vysoký točivý moment a výkon při nižší spotřebě paliva a menší hmotnosti než osmiválec. Recenze z první jízdy na trati Tail of the Dragon v Tennessee ukazují, že vůz kompenzuje chybějící charakteristický zvuk V8 výbornou dynamikou, pohodlným interiérem a překvapivě jemným chováním na silnici. Dodge zároveň reaguje na neúspěch elektrického Charger Daytona, jehož prodeje v prvních třech čtvrtletích roku 2025 dosáhly pouze 2 776 kusů. V důsledku toho byl zrušen plánovaný model Daytona R/T i high-end verze SRT Daytona Banshee, zatímco výroba Sixpacku byla urychlena.
+Dodge Charger Scat Pack 2026 přichází s motorem Hurricane – 3,0litrovým řadovým šestiválcem s dvojím turbodmychadlem, který Stellantis (mateřská společnost Dodgu) vyvíjí jako univerzální náhradu za starší osmiválce. Tento motor je již nasazen v modelech jako Jeep Grand Cherokee a Ram 1500, kde kombinuje výkon přes 400 koňských sil s relativně nízkou spotřebou. V Chargeru Scat Pack je výkon doladěn pro agresivnější jízdu, přičemž auto zachovává typický „bláznivý“ charakter amerických muscle carů – přehnané zvuky výfuku, rychlé akcelerace a stylizovaný interiér plný retro prvků.
+
+Zároveň Dodge reaguje na neúspěch svého elektrického modelu Charger Daytona, jehož prodeje v prvních třech čtvrtletích 2025 dosáhly pouze 2 776 kusů. V důsledku toho byl zrušen plánovaný výkonný model SRT Daytona Banshee a uvedení Sixpacku bylo urychleno, aby pomohl stabilizovat prodeje a zisky značky. Charger Scat Pack tak představuje strategický kompromis mezi moderními emisními požadavky a očekáváním tradičních zákazníků.
 
 ## Proč je to důležité
-Tento krok ukazuje, jak tradiční výrobci muscle carů reagují na tlak regulací a tržní poptávky po účinnějších pohonných jednotkách, aniž by zcela obětovali zážitek z jízdy. Přechod na šestiválec místo V8 je pragmatickým řešením, které zachovává výkon, ale zároveň snižuje emise a náklady. Pro průmysl je to příklad adaptace klasického segmentu bez přechodu na plně elektrický pohon, což může inspirovat i jiné značky v boji o udržení relevance v éře dekarbonizace.
+Tento krok ukazuje, jak tradiční automobilky hledají rovnováhu mezi udržitelností a loajalitou ke kořenům. Zatímco plně elektrické modely zatím nezískávají očekávanou odezvu, hybridní řešení s výkonnými spalovacími motory mohou být přechodovou strategií. Pro Dodge je Sixpack klíčový nejen pro udržení image „muscle car brandu“, ale i pro finanční stabilitu v době, kdy se trh rychle mění.
 
 ---
 
