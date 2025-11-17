@@ -1,10 +1,10 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-16T20:21:19.503531+00:00",
+  "timestamp": "2025-11-17T01:03:41.803669+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 30.36,
+      "newest_age_hours": 35.06,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -14,6 +14,11 @@
       "sample_size": 100,
       "english_articles_sample": [
         {
+          "file": "2025-11-15-comparing-the-2026-phone-lineups-from-apple-samsun.md",
+          "title": "Srovnání nabídky chytrých telefonů v roce 2026 od ",
+          "score": 0.44
+        },
+        {
           "file": "2025-11-14-watch-savagegeese-put-the-corvette-zr1-and-mustang.md",
           "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a ",
           "score": 0.3
@@ -22,11 +27,6 @@
           "file": "2025-11-14-samsung-reportedly-scrapped-its-original-galaxy-s2.md",
           "title": "Samsung údajně zrušil původní plány pro Galaxy S26",
           "score": 0.3
-        },
-        {
-          "file": "2025-11-14-critical-microsoft-alert-update-windows-10-11-and-.md",
-          "title": "Kritické varování od Microsoftu — okamžitě aktuali",
-          "score": 0.44
         },
         {
           "file": "2025-11-14-chatgpt-launches-pilot-group-chats-across-japan-ne.md",
@@ -42,8 +42,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2325.0,
-      "median_length": 2510.0
+      "avg_length": 2287.0,
+      "median_length": 2516.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,15 +59,15 @@
     }
   },
   "metrics": {
-    "total_articles": 3072,
+    "total_articles": 3075,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 30.36,
+    "newest_article_age_hours": 35.06,
     "czech_articles": 58,
     "english_articles": 42,
     "czech_ratio": 0.58,
-    "avg_content_length": 2325.0,
-    "median_content_length": 2510.0,
+    "avg_content_length": 2287.0,
+    "median_content_length": 2516.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 30.4h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 35.1h (threshold: 6h)"
     },
     {
       "level": "WARNING",

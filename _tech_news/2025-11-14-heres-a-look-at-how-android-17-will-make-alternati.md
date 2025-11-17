@@ -6,8 +6,8 @@ companies:
 - Epic
 date: '2025-11-14 20:11:07'
 description: V rámci smíru s Epicem zavádí Google v Androidu 17 podporu pro „Registrované
-  obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných uživatelských
-  bariér.
+  obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných varování
+  a překážek.
 importance: 3
 layout: tech_news_article
 original_title: Here's a look at how Android 17 will make alternative app stores easier
@@ -25,22 +25,20 @@ urlToImageBackup: https://www.androidauthority.com/wp-content/uploads/2025/11/Si
 ---
 
 ## Souhrn
-Google v rámci právního smíru s Epic Games zavádí v Androidu 17 nový mechanismus pro alternativní obchody s aplikacemi. Tyto „Registrované obchody s aplikacemi“ budou moci instalovat své aplikace přes jednotné instalační okno bez opakovaných varování nebo technických překážek od výrobců zařízení.
+Google v rámci právního smíru s firmou Epic Games zavádí v Androidu 17 nový mechanismus pro alternativní obchody s aplikacemi. Tyto „Registrované obchody s aplikacemi“ budou moci využívat jednotné instalační rozhraní, které zjednoduší instalaci a odstraní zbytečné varovné obrazovky od výrobců zařízení.
 
 ## Klíčové body
-- Android 17 zavádí kategorii „Registrované obchody s aplikacemi“, které Google certifikuje jako důvěryhodné.
-- Certifikované obchody budou využívat tzv. „single store install screen“ – jednotné instalační okno s neutrálním popisem a jasným uvedením oprávnění.
-- Výrobci zařízení (OEM) nesmějí přidávat vlastní varovné obrazovky nebo jiné bariéry bránící instalaci těchto obchodů.
-- Epic se zavazuje, že svůj Epic Games Store nebude distribuovat přes Google Play Store.
-- Smír ukončuje dlouhodobý právní spor mezi Epicem a Googlem o monopol na distribuci aplikací v Android ekosystému.
+- Google zavádí v Androidu 17 podporu pro „Registrované obchody s aplikacemi“.
+- Tyto obchody musí být certifikovány Googlem jako legitimní platformy pro distribuci aplikací.
+- Instalace bude probíhat přes jednotnou obrazovku s neutrálním popisem a jasným uvedením požadovaných oprávnění.
+- Výrobci zařízení nesmějí přidávat další varování nebo překážky pro instalaci těchto obchodů.
+- Epic se zavazuje, že svůj Game Store nebude distribuovat přes Google Play.
 
 ## Podrobnosti
-Nová funkce v Androidu 17 reaguje na tlak regulátorů i soudních sporů ohledně otevřenosti mobilního ekosystému. „Registrované obchody s aplikacemi“ budou muset splnit určité bezpečnostní a provozní kritéria, aby získaly od Googlu certifikaci. Po splnění těchto podmínek získají přístup k novému instalačnímu rozhraní, které uživatelům jednoduše vysvětlí, co daný obchod dělá – zejména že vyžaduje oprávnění k instalaci dalších aplikací. Tento přístup má nahradit dosavadní matoucí a často odstrašující varování systému Android, která mnohdy bránila uživatelům v instalaci alternativních obchodů, jako je například Samsung Galaxy Store nebo Amazon Appstore.
-
-Důležité je, že soudní dokumenty explicitně zakazují výrobcům zařízení (např. Samsung, Xiaomi) přidávat vlastní překážky – například extra potvrzovací obrazovky nebo technické blokace – které by znemožňovaly nebo komplikovaly instalaci těchto certifikovaných obchodů. Tím se Google snaží zajistit jednotný a předvídatelný zážitek pro uživatele napříč různými zařízeními.
+Nová funkce „Registered App Stores“ je přímým důsledkem soudního sporu mezi Epicem a Googlem o monopolní postavení Google Play na platformě Android. V rámci dohody se Google zavázal změnit nejen své licenční smlouvy s výrobci zařízení (OEM), ale i samotný operační systém Android. Certifikované alternativní obchody budou moci požádat o speciální status, který jim umožní využívat nové „jednotné instalační rozhraní“. Toto rozhraní nahradí dosavadní řetězec varovných hlášek a manuálních kroků potřebných k povolení instalace z neznámých zdrojů. Uživatelé uvidí jedinou obrazovku s neutrálním popisem obchodu a přehledem požadovaných oprávnění – například schopnost instalovat další aplikace. Dohoda také zakazuje výrobcům zařízení přidávat vlastní bariéry, které by instalaci alternativních obchodů komplikovaly nebo odrazovaly.
 
 ## Proč je to důležité
-Tato změna představuje významný posun v politice Googlu ohledně kontroly nad distribucí aplikací v Androidu. I když nejde o plnou otevřenost platformy, jak ji požadují někteří kritici, znamená to praktické uvolnění trhu pro alternativní distributory. Pro uživatele to znamená větší volbu a snazší přístup k aplikacím mimo Google Play Store, zatímco pro vývojáře to otevírá nové kanály distribuce bez nutnosti placení 15–30% provize Googlu. V širším kontextu jde o reakci na rostoucí tlak antimonopolních úřadů po celém světě, zejména v EU a USA, které vyžadují větší konkurenceschopnost digitálních trhů.
+Tato změna představuje významný posun směrem k otevřenějšímu ekosystému Androidu, ačkoli stále pod pevnou kontrolou Googlu. Zatímco uživatelé získají větší svobodu při výběru zdrojů aplikací, Google si ponechává roli „brány“ prostřednictvím certifikace. To může omezit skutečnou konkurenceschopnost menších nebo nezávislých obchodů, které nebudou schopny splnit Googlem stanovené požadavky. Nicméně v porovnání s dosavadním stavem, kdy instalace alternativních obchodů vyžadovala manuální povolení „neznámých zdrojů“ a často vedla k matoucím varováním, jde o výrazné zjednodušení. Z hlediska regulace a antimonopolních opatření je tento krok reakcí na rostoucí tlak ze strany regulátorů i konkurenčních firem na otevření mobilních platforem.
 
 ---
 

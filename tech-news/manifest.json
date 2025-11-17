@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-16T20:21:19.379655+00:00",
+  "generated": "2025-11-17T01:03:41.678753+00:00",
   "count": 200,
   "articles": [
     {
@@ -24,6 +24,28 @@
       "people": []
     },
     {
+      "title": "Srovnání nabídky chytrých telefonů v roce 2026 od Applu, Samsungu, Googlu a dalších",
+      "description": "Rok 2026 se chystá být jedním z nejvýznamnějších let pro uvedení nových chytrých telefonů. Čekají nás nejen pravidelné aktualizace, ale i potenciální příchod skládacích iPhonů a tri-fold zařízení od Samsungu.",
+      "slug": "comparing-the-2026-phone-lineups-from-apple-samsun",
+      "publishedAt": "2025-11-15T13:01:00+00:00",
+      "date": "2025-11-15 13:01:00",
+      "importance": 3,
+      "category": "chytré telefony",
+      "urlToImage": "https://www.cnet.com/a/img/resize/defe5998328c4ae781aac5d9f9d62fa9097b2981/hub/2025/11/13/035c2607-1dde-4df2-9bda-6f34337ecfc2/p1008229-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-15/comparing-the-2026-phone-lineups-from-apple-samsun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple",
+        "Samsung",
+        "Google"
+      ],
+      "people": []
+    },
+    {
       "title": "Wyomingské dinosauří „mumie“ odhalují nový pohled na kachnozobého dinosaura",
       "description": "Výjimečně zachované fosilie z jediné lokality ve Wyomingu poskytují nejpřesnější obraz vzhledu druhu Edmontosaurus annectens.",
       "slug": "wyoming-dinosaur-mummies-give-us-a-new-view-of-duc",
@@ -42,8 +64,29 @@
       "people": []
     },
     {
-      "title": "Google vydá Nano Banana Pro poháněné modelem Gemini 3 Pro už příští týden",
-      "description": "Google plánuje příští týden spustit novou verzi svého nástroje pro generování obrazového obsahu Nano Banana Pro spolu s modelem Gemini 3 Pro, který přinese vylepšené schopnosti tvorby obrázků a videí.",
+      "title": "Meta otevírá pop-up obchody, aby zvýšila zájem o své AI brýle",
+      "description": "Společnost Meta spustila dočasné obchody v New Yorku, Los Angeles a Las Vegas, kde zákazníci mohou vyzkoušet AI brýle Ray-Ban a pořídit si selfie u kávových stánků a zrcadel.",
+      "slug": "meta-opens-pop-up-stores-to-build-buzz-for-its-ai-",
+      "publishedAt": "2025-11-15T12:00:00+00:00",
+      "date": "2025-11-15 12:00:00",
+      "importance": 3,
+      "category": "ai brýle",
+      "urlToImage": "https://images.wsj.net/im-57844409/social",
+      "url": "/tech-news/2025-11-15/meta-opens-pop-up-stores-to-build-buzz-for-its-ai/",
+      "source": {
+        "emoji": "📈",
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "companies": [
+        "Meta",
+        "Ray-Ban"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google příští týden vydá Nano Banana Pro poháněný modelem Gemini 3 Pro",
+      "description": "Google plánuje příští týden spustit novou verzi svého nástroje pro generování obrázků Nano Banana Pro spolu s modelem Gemini 3 Pro, který přinese vylepšené schopnosti tvorby vizuálů.",
       "slug": "google-to-release-nano-banana-pro-powered-by-gemin",
       "publishedAt": "2025-11-15T09:22:01+00:00",
       "date": "2025-11-15 09:22:01",
@@ -62,8 +105,28 @@
       "people": []
     },
     {
+      "title": "Galaxy Z TriFold dosáhl klíčového milníku před uvedením na trh v USA",
+      "description": "Samsungův první třikrát skládací smartphone – zařízení, které lze dvakrát složit a rozložit – se blíží k oficiálnímu uvedení. Po nedávném náznaku na akci se objevily informace, že Samsung plně odhalí Galaxy Z TriFold 5. prosince.",
+      "slug": "galaxy-z-trifold-hits-a-key-milestone-ahead-of-us-",
+      "publishedAt": "2025-11-15T03:24:00+00:00",
+      "date": "2025-11-15 03:24:00",
+      "importance": 3,
+      "category": "mobilní zařízení",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/11/Samsung-Galaxy-Z-TriFold-Foldable-DIsplay-Bezel-Size-1200x675.jpg",
+      "url": "/tech-news/2025-11-15/galaxy-z-trifold-hits-a-key-milestone-ahead-of-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
       "title": "Android 17 usnadní používání alternativních obchodů s aplikacemi",
-      "description": "V rámci smíru s Epicem zavádí Google v Androidu 17 podporu pro „Registrované obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných uživatelských bariér.",
+      "description": "V rámci smíru s Epicem zavádí Google v Androidu 17 podporu pro „Registrované obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných varování a překážek.",
       "slug": "heres-a-look-at-how-android-17-will-make-alternati",
       "publishedAt": "2025-11-14T20:11:07+00:00",
       "date": "2025-11-14 20:11:07",
@@ -163,8 +226,8 @@
       "people": []
     },
     {
-      "title": "Muscle car s turbem: 2026 Dodge Charger Sixpack kompenzuje ztrátu V8 zábavou",
-      "description": "Nový Dodge Charger Scat Pack 2026 využívá šestiválcový motor Hurricane místo klasického Hemi V8, ale zachovává ducha amerického muscle caru díky výkonu, jízdním vlastnostem a retro stylu.",
+      "title": "Muscle carová absurdita nového Dodge Charger Sixpack z roku 2026 zmírňuje jeho „woke“ motor",
+      "description": "Nový Dodge Charger Scat Pack z roku 2026 využívá šestiválcový motor Hurricane místo klasického Hemi V8, což vyvolává kontroverzi, ale zároveň přináší výkonnost a jízdní zábavu typickou pro muscle car.",
       "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
       "publishedAt": "2025-11-14T15:00:00+00:00",
       "date": "2025-11-14 15:00:00",
@@ -181,7 +244,7 @@
       "people": []
     },
     {
-      "title": "Kritické varování od Microsoftu — okamžitě aktualizujte Windows 10, 11 a Server",
+      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
       "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
@@ -3956,29 +4019,6 @@
       "people": []
     },
     {
-      "title": "Nejlepší přenosné elektrárny pro kempování v roce 2025: Anker, EcoFlow, Goal Zero a Jackery",
-      "description": "Test přenosných power station ukazuje, že moderní kempování se stále více spoléhá na stabilní, mobilní zdroje energie pro nabíjení elektroniky, osvětlení i vaření mimo civilizaci.",
-      "slug": "A-4-best-power-stations-for-camping-2025-compare-j",
-      "publishedAt": "2025-11-08T11:00:00+00:00",
-      "date": "2025-11-08 11:00:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/roundups/03fSqNFBQAWadaomQAoJJvF/hero-image.fill.size_1200x675.v1762288775.jpg",
-      "url": "/tech-news/2025-11-08/A-4-best-power-stations-for-camping-2025-compare-j/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Jackery",
-        "Anker",
-        "Goal Zero",
-        "EcoFlow"
-      ],
-      "people": []
-    },
-    {
       "title": "Co jsem zjistila po 30 dnech s projektorem Google TV v ložnici",
       "description": "Recenze zkušenosti s přenosným projektorem XGIMI Mogo 4 s Google TV ukazuje, jak zásadně může pohodlí, bateriový provoz a flexibilita projekce změnit zvyky sledování obsahu v malých bytech.",
       "slug": "what-i-learned-after-using-a-google-tv-projector-i",
@@ -4039,47 +4079,6 @@
         "Samsung",
         "Apple",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
-      "description": "Část uživatelů zaznamenala, že se jim YouTube přestává načítat při použití adblocku. Podle hlášení nejde o klasický výpadek služby, ale o další projev konfliktu mezi YouTube a nástroji pro blokování reklamy.",
-      "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
-      "publishedAt": "2025-11-07T16:40:00+00:00",
-      "date": "2025-11-07 16:40:00",
-      "importance": 3,
-      "category": "online reklama",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/youtube-suddenly-stopped-loading-for-some-users-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "YouTube",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Windows 11 verze 26H1: Speciální vydání pro další generaci čipů Snapdragon X2 a NVIDIA N1X",
-      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě „Bromine“, určenou primárně pro zařízení s nadcházejícími čipy Snapdragon X2 a NVIDIA N1X v první polovině roku 2026. Nepůjde o běžnou aktualizaci pro stávající počítače, ale o systém optimalizovaný pro novou generaci hardwaru.",
-      "slug": "windows-11-version-26h1-everything-we-know-so-far-",
-      "publishedAt": "2025-11-07T13:16:13+00:00",
-      "date": "2025-11-07 13:16:13",
-      "importance": 3,
-      "category": "software",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg",
-      "url": "/tech-news/2025-11-07/windows-11-version-26h1-everything-we-know-so-far/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     }
