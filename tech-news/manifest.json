@@ -1,7 +1,30 @@
 {
-  "generated": "2025-11-17T08:28:27.606082+00:00",
+  "generated": "2025-11-17T12:35:36.939281+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Vedoucí Windows reaguje na kritiku: „Víme, že máme hodně práce“",
+      "description": "Pavan Davuluri, šéf Windows v Microsoftu, přiznává problémy s aktuálním stavem Windows 11 a slibuje zlepšení pro vývojáře i pokročilé uživatele.",
+      "slug": "windows-president-addresses-current-state-of-windo",
+      "publishedAt": "2025-11-15T23:50:25+00:00",
+      "date": "2025-11-15 23:50:25",
+      "importance": 3,
+      "category": "operační systémy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7kZUkvTX3qs2LE52ZBteaN-2560-80.jpg",
+      "url": "/tech-news/2025-11-15/windows-president-addresses-current-state-of-windo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Pavan Davuluri",
+        "Satya Nadella"
+      ]
+    },
     {
       "title": "Frameworkův „frankenstein“ notebook se vrací s výkonnější grafikou a stále stejnými problémy",
       "description": "Notebook Framework Laptop 16 pro rok 2025 konečně získal výkonnější, uživatelem vyměnitelnou grafiku Nvidia RTX 5070, ale jiné aspekty zařízení zůstávají problematické.",
@@ -20,6 +43,26 @@
       "companies": [
         "Framework",
         "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "NotebookLM získává funkci Deep Research a podporu více formátů souborů",
+      "description": "Google výrazně rozšířil schopnosti svého AI nástroje NotebookLM o automatické prohledávání webu a lepší kompatibilitu se soubory.",
+      "slug": "notebooklm-update-makes-source-hunting-faster-and-",
+      "publishedAt": "2025-11-15T13:12:00+00:00",
+      "date": "2025-11-15 13:12:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7hdadu3ou4FF7KWC6TXV2i-2560-80.jpg",
+      "url": "/tech-news/2025-11-15/notebooklm-update-makes-source-hunting-faster-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [
+        "Google"
       ],
       "people": []
     },
@@ -64,8 +107,8 @@
       "people": []
     },
     {
-      "title": "Meta otevírá pop-up obchody, aby zvýšila zájem o své AI brýle",
-      "description": "Společnost Meta spustila dočasné prodejny v New Yorku, Los Angeles a Las Vegas, kde zákazníci mohou vyzkoušet Ray-Ban brýle s umělou inteligencí a pořídit si selfie u plnohodnotných zrcadel.",
+      "title": "Meta otevírá pop-up prodejny, aby podpořila zájem o své AI brýle",
+      "description": "Společnost Meta spustila dočasné prodejny v New Yorku, Los Angeles a Las Vegas, kde zákazníci mohou vyzkoušet AI brýle Ray-Ban Meta a pořídit si selfie u kávových stánků a zrcadel.",
       "slug": "meta-opens-pop-up-stores-to-build-buzz-for-its-ai-",
       "publishedAt": "2025-11-15T12:00:00+00:00",
       "date": "2025-11-15 12:00:00",
@@ -85,7 +128,7 @@
       "people": []
     },
     {
-      "title": "Google příští týden vydá Nano Banana Pro poháněný modelem Gemini 3 Pro",
+      "title": "Google vydá Nano Banana Pro poháněný modelem Gemini 3 Pro už příští týden",
       "description": "Google plánuje příští týden spustit novou verzi svého nástroje pro generování obrázků Nano Banana Pro spolu s modelem Gemini 3 Pro, který přinese vylepšené schopnosti tvorby vizuálů.",
       "slug": "google-to-release-nano-banana-pro-powered-by-gemin",
       "publishedAt": "2025-11-15T09:22:01+00:00",
@@ -102,6 +145,24 @@
       "companies": [
         "Google"
       ],
+      "people": []
+    },
+    {
+      "title": "Může technologie vyřešit krizi velikostí v módním průmyslu?",
+      "description": "BBC zkoumá, zda umělá inteligence (AI) může pomoci lidem, kteří mají potíže s nekonzistentním šitím oblečení.",
+      "slug": "can-technology-fix-fashions-sizing-crisis-bbc",
+      "publishedAt": "2025-11-15T04:03:27+00:00",
+      "date": "2025-11-15 04:03:27",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c22/live/d34583d0-c08f-11f0-924c-87dcfe4462ba.jpg",
+      "url": "/tech-news/2025-11-15/can-technology-fix-fashions-sizing-crisis-bbc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -126,7 +187,7 @@
     },
     {
       "title": "Android 17 usnadní používání alternativních obchodů s aplikacemi",
-      "description": "V rámci vyrovnání soudního sporu s Epicem zavádí Google v Androidu 17 podporu pro „Registrované obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných uživatelských bariér.",
+      "description": "V rámci vyrovnání sporu s Epicem zavádí Google v Androidu 17 podporu pro „Registrované obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných varovných obrazovek.",
       "slug": "heres-a-look-at-how-android-17-will-make-alternati",
       "publishedAt": "2025-11-14T20:11:07+00:00",
       "date": "2025-11-14 20:11:07",
@@ -244,7 +305,7 @@
       "people": []
     },
     {
-      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
+      "title": "Kritické varování od Microsoftu — okamžitě aktualizujte Windows 10, 11 a Server",
       "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
@@ -3486,26 +3547,6 @@
       "people": []
     },
     {
-      "title": "4 nové systémové aplikace v iOS 26 a iPadOS 26, které zásadně rozšiřují možnosti iPhonu a iPadu",
-      "description": "Apple v iOS 26 a iPadOS 26 tiše přidává několik nových integrovaných aplikací, které rozšiřují funkčnost zařízení bez nutnosti instalovat software třetích stran a současně navazují na nový design „Liquid Glass“.",
-      "slug": "A-4-new-apps-released-with-ios-26-ipados-26-that-e",
-      "publishedAt": "2025-11-08T21:30:00+00:00",
-      "date": "2025-11-08 21:30:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.slashgear.com/img/gallery/4-new-apps-released-with-ios-26-ipados-26-that-everyone-should-know-about/l-intro-1762334103.jpg",
-      "url": "/tech-news/2025-11-08/A-4-new-apps-released-with-ios-26-ipados-26-that-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Blue Origin nabízí zrychlení návratu USA na Měsíc a upravuje architekturu lunárních landerů",
       "description": "Blue Origin deklaruje připravenost urychlit program pilotovaného přistání NASA na Měsíci a představuje upravenou architekturu svých lunárních landerů jako alternativu k současným zpožděným plánům.",
       "slug": "blue-origin-will-move-heaven-and-earth-to-help-nas",
@@ -3618,26 +3659,6 @@
       ]
     },
     {
-      "title": "5 Apple CarPlay widgetů, které byste měli nastavit co nejdříve",
-      "description": "Nové widgety v Apple CarPlay rozšiřují možnosti přizpůsobení palubního displeje a umožňují rychlý přístup ke kalendáři, připomínkám, počasí, chytré domácnosti a dalším informacím bez nutnosti sahat po telefonu.",
-      "slug": "A-5-apple-carplay-widgets-you-should-install-asap-",
-      "publishedAt": "2025-11-08T15:45:00+00:00",
-      "date": "2025-11-08 15:45:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-apple-carplay-widgets-you-should-install-asap/l-intro-1762193024.jpg",
-      "url": "/tech-news/2025-11-08/A-5-apple-carplay-widgets-you-should-install-asap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "První prémiový externí trackpad pro Windows: HyperSpace Trackpad Pro",
       "description": "HyperSpace Trackpad Pro cílí na uživatele Windows jako první prémiový externí multi-touch trackpad s haptickou odezvou, vysokou obnovovací frekvencí a konfigurovatelným softwarem Hydra.",
       "slug": "hands-on-with-hyperspace-trackpad-pro-the-first-pr",
@@ -3711,26 +3732,6 @@
         "name": "Realtor.com News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Pět důvodů, proč nový Kindle Scribe Colorsoft stojí za pozornost",
-      "description": "Nový Kindle Scribe Colorsoft přináší barevný E Ink displej, vylepšený povrch pro psaní a další změny, které z něj dělají praktičtější nástroj pro čtení, anotace a produktivitu.",
-      "slug": "A-5-reasons-why-the-next-kindle-scribe-has-my-full",
-      "publishedAt": "2025-11-08T14:03:28+00:00",
-      "date": "2025-11-08 14:03:28",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/kindle_scribe_color_2.jpg",
-      "url": "/tech-news/2025-11-08/A-5-reasons-why-the-next-kindle-scribe-has-my-full/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Amazon"
-      ],
       "people": []
     },
     {

@@ -1,10 +1,10 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-17T08:28:27.730942+00:00",
+  "timestamp": "2025-11-17T12:35:37.034428+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 42.47,
+      "newest_age_hours": 36.75,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -13,6 +13,11 @@
       "czech_ratio": 0.57,
       "sample_size": 100,
       "english_articles_sample": [
+        {
+          "file": "2025-11-15-windows-president-addresses-current-state-of-windo.md",
+          "title": "Vedoucí Windows reaguje na kritiku: „Víme, že máme",
+          "score": 0.3
+        },
         {
           "file": "2025-11-15-comparing-the-2026-phone-lineups-from-apple-samsun.md",
           "title": "Srovnání nabídky chytrých telefonů v roce 2026 od ",
@@ -29,11 +34,6 @@
           "score": 0.3
         },
         {
-          "file": "2025-11-14-critical-microsoft-alert-update-windows-10-11-and-.md",
-          "title": "Kritické varování od Microsoftu – okamžitě aktuali",
-          "score": 0.44
-        },
-        {
           "file": "2025-11-14-chatgpt-launches-pilot-group-chats-across-japan-ne.md",
           "title": "ChatGPT spouští pilotní skupinové chaty v Japonsku",
           "score": 0.3
@@ -42,8 +42,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2287.0,
-      "median_length": 2499.0
+      "avg_length": 2250.0,
+      "median_length": 2486.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,15 +59,15 @@
     }
   },
   "metrics": {
-    "total_articles": 3075,
+    "total_articles": 3078,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 42.47,
+    "newest_article_age_hours": 36.75,
     "czech_articles": 57,
     "english_articles": 43,
     "czech_ratio": 0.57,
-    "avg_content_length": 2287.0,
-    "median_content_length": 2499.0,
+    "avg_content_length": 2250.0,
+    "median_content_length": 2486.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 42.5h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 36.8h (threshold: 6h)"
     },
     {
       "level": "WARNING",
