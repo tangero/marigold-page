@@ -1,0 +1,319 @@
+{
+  "timestamp": "2025-11-17T14:34:13.387118+00:00",
+  "version": "1.0",
+  "sections": {
+    "rejection_analysis": {
+      "last_24h": {
+        "total_rejected": 132,
+        "breakdown": {
+          "content_filter": 101,
+          "low_importance": 31
+        },
+        "samples": [
+          {
+            "reason": "content_filter",
+            "title": "Escape From Tarkov players slam Steam launch: \"It is not a game. It is a cosmic punishment\" - Euroga",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Disaster Back - Push Squar",
+            "details": null
+          },
+          {
+            "reason": "low_importance",
+            "title": "OnePlus 15 Suffers From Overheating After Running 3DMark Wild Life Extreme For Just A Few Minutes, F",
+            "details": {
+              "importance": 2
+            }
+          },
+          {
+            "reason": "content_filter",
+            "title": "A mild symptom was bothering a young dad. He had Stage IV lung cancer. - CBS News",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "The Steam Machine feels like the TV gaming PC I’ve always wanted - The Verge",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Escape From Tarkov players slam Steam launch: \"It is not a game. It is a cosmic punishment\" - Euroga",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "This MacBook Air Is Only $195 Until November 16 - PCMag",
+            "details": null
+          },
+          {
+            "reason": "low_importance",
+            "title": "Saturday Pre-orders – Seize a Battleforce in time for Christmas - Warhammer Community",
+            "details": {
+              "importance": 2
+            }
+          },
+          {
+            "reason": "content_filter",
+            "title": "Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Disaster Back - Push Squar",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDN",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kot",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "New round of Nintendo Switch backwards compatibility fixes live on Switch 2 - Nintendo Everything",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Multiple Switch Games Get Switch 2 Compatibility Fixes - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDN",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kot",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
+            "details": null
+          }
+        ]
+      },
+      "last_7d": {
+        "total_rejected": 317,
+        "breakdown": {
+          "content_filter": 242,
+          "low_importance": 75
+        },
+        "samples": [
+          {
+            "reason": "content_filter",
+            "title": "Escape From Tarkov players slam Steam launch: \"It is not a game. It is a cosmic punishment\" - Euroga",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Disaster Back - Push Squar",
+            "details": null
+          },
+          {
+            "reason": "low_importance",
+            "title": "OnePlus 15 Suffers From Overheating After Running 3DMark Wild Life Extreme For Just A Few Minutes, F",
+            "details": {
+              "importance": 2
+            }
+          },
+          {
+            "reason": "content_filter",
+            "title": "A mild symptom was bothering a young dad. He had Stage IV lung cancer. - CBS News",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "The Steam Machine feels like the TV gaming PC I’ve always wanted - The Verge",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Escape From Tarkov players slam Steam launch: \"It is not a game. It is a cosmic punishment\" - Euroga",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "This MacBook Air Is Only $195 Until November 16 - PCMag",
+            "details": null
+          },
+          {
+            "reason": "low_importance",
+            "title": "Saturday Pre-orders – Seize a Battleforce in time for Christmas - Warhammer Community",
+            "details": {
+              "importance": 2
+            }
+          },
+          {
+            "reason": "content_filter",
+            "title": "Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Disaster Back - Push Squar",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDN",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kot",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "New round of Nintendo Switch backwards compatibility fixes live on Switch 2 - Nintendo Everything",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Multiple Switch Games Get Switch 2 Compatibility Fixes - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDN",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kot",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "details": null
+          },
+          {
+            "reason": "content_filter",
+            "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
+            "details": null
+          }
+        ]
+      }
+    },
+    "llm_costs": {
+      "today": {
+        "total_calls": 0,
+        "total_tokens": 0,
+        "total_cost_usd": 0,
+        "avg_cost_per_call": 0
+      },
+      "yesterday": {
+        "total_calls": 0,
+        "total_tokens": 0,
+        "total_cost_usd": 0,
+        "avg_cost_per_call": 0
+      },
+      "last_7d": {
+        "total_calls": 0,
+        "total_tokens": 0,
+        "total_cost_usd": 0,
+        "avg_cost_per_call": 0
+      },
+      "last_30d": {
+        "total_calls": 1,
+        "total_tokens": 1500,
+        "total_cost_usd": 0.0105,
+        "avg_cost_per_call": 0.0105
+      },
+      "by_operation": {}
+    },
+    "freshness_check": {
+      "status": "WARNING",
+      "latest_article_age_hours": 62.57,
+      "articles_in_last_4h": 0,
+      "alert": "Latest article is 62.6h old (>24h); No articles in last 4h"
+    },
+    "success_rate_trend": {
+      "current_rate": 15.92356687898089,
+      "trend": "declining",
+      "history": [
+        {
+          "day": "2025-11-15",
+          "fetched": 64,
+          "saved": 22,
+          "success_rate_pct": 34.4
+        },
+        {
+          "day": "2025-11-16",
+          "fetched": 169,
+          "saved": 26,
+          "success_rate_pct": 15.4
+        },
+        {
+          "day": "2025-11-17",
+          "fetched": 157,
+          "saved": 25,
+          "success_rate_pct": 15.9
+        }
+      ]
+    },
+    "importance_distribution": {
+      "distribution": {
+        "1": 0,
+        "2": 0,
+        "3": 59,
+        "4": 5,
+        "5": 9
+      },
+      "total_articles": 73,
+      "avg_importance": 3.32,
+      "most_common": 3
+    },
+    "recommendations": [
+      {
+        "severity": "high",
+        "category": "filtering",
+        "issue": "Velmi nízká úspěšnost: 15.9%",
+        "recommendation": "Přehodnotit importance threshold (< 3) nebo content filters. Možná jsou příliš agresivní.",
+        "action": "Review filters in generate_tech_news_newsapi.py"
+      },
+      {
+        "severity": "medium",
+        "category": "filtering",
+        "issue": "77% článků filtrováno jako hry/sport/zábava",
+        "recommendation": "Zvážit použití jiného NewsAPI query (místo category=technology) nebo přidat více zdrojů.",
+        "action": "Review NewsAPI sources or use /v2/everything with custom query"
+      }
+    ]
+  }
+}
