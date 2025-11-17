@@ -37,10 +37,35 @@ class TechNewsHealthCheck:
     # Jazykové znaky pro detekci češtiny
     CZECH_CHARS = set('áčďéěíňóřšťúůýž')
     CZECH_WORDS = {
-        'který', 'která', 'které', 'když', 'také', 'více', 'může', 'měl', 'byla',
-        'podle', 'během', 'pouze', 'možné', 'další', 'nový', 'nová', 'nové',
-        'společnost', 'pomocí', 'prostřednictvím', 'díky', 'oproti', 'například',
-        'především', 'totiž', 'však', 'přesto', 'zatím', 'nyní', 'již'
+        # Zájmena a spojky
+        'který', 'která', 'které', 'když', 'kde', 'kam', 'odkud', 'jak', 'proč',
+        'kdo', 'co', 'jaký', 'jaká', 'jakým', 'jež', 'jenž', 'což',
+
+        # Časté příslovce a částice
+        'také', 'více', 'pouze', 'především', 'totiž', 'však', 'přesto',
+        'zatím', 'nyní', 'již', 'ještě', 'stále', 'ani', 'nebo', 'ale', 'proto',
+
+        # Předložky
+        'podle', 'během', 'pomocí', 'prostřednictvím', 'díky', 'oproti', 'místo',
+        'kromě', 'kolem', 'okolo', 'mezi', 'přes', 'před', 'vedle', 'uvnitř',
+
+        # Slovesa
+        'může', 'měl', 'měla', 'mělo', 'byla', 'byly', 'byl', 'budou', 'bude',
+        'jsou', 'jsem', 'mají', 'máme', 'mít', 'umožňuje', 'nabízí', 'představuje',
+
+        # Přídavná jména
+        'možné', 'další', 'nový', 'nová', 'nové', 'nových', 'hlavní', 'první',
+        'druhý', 'třetí', 'velký', 'velká', 'malý', 'dobrý', 'špatný', 'lepší',
+
+        # Podstatná jména
+        'společnost', 'firma', 'uživatel', 'systém', 'funkce', 'aplikace',
+        'služba', 'technologie', 'zařízení', 'produkt', 'článek', 'informace',
+
+        # Příklady a vysvětlení
+        'například', 'tedy', 'tzn', 'resp', 'apod', 'atd', 'mimo', 'včetně',
+
+        # České tech termíny
+        'počítač', 'software', 'databáze', 'síť', 'internet', 'webová', 'mobilní'
     }
 
     # Povinná pole ve front matter
@@ -294,25 +319,37 @@ class TechNewsHealthCheck:
         """
         Detekuje jazyk textu a vrátí skóre 0-1
         0 = angličtina, 1 = čeština, 0.5 = nelze rozhodnout
+
+        ZLEPŠENÝ algoritmus: snížené thresholdy pro spolehlivější detekci
         """
         if not text:
             return 0.5
 
         text_lower = text.lower()
 
-        # Počítat české znaky
+        # Počítat české znaky (háčky a čárky)
         czech_char_count = sum(1 for char in text_lower if char in self.CZECH_CHARS)
+
+        # Pokud je hodně českých znaků, je to určitě čeština
+        if czech_char_count >= 20:  # 20+ českých znaků = téměř jistě čeština
+            return 1.0
 
         # Počítat české slova
         words = re.findall(r'\b\w+\b', text_lower)
         czech_word_count = sum(1 for word in words if word in self.CZECH_WORDS)
 
-        # Kombinované skóre
-        char_score = min(czech_char_count / 10, 1.0)  # 10+ českých znaků = plný bod
-        word_score = min(czech_word_count / 5, 1.0)   # 5+ českých slov = plný bod
+        # Pokud je hodně českých slov, je to čeština
+        if czech_word_count >= 8:  # 8+ českých slov = téměř jistě čeština
+            return 1.0
 
-        # Vážený průměr (slova mají větší váhu)
-        return (char_score * 0.3 + word_score * 0.7)
+        # Kombinované skóre s nižšími thresholdy
+        char_score = min(czech_char_count / 5, 1.0)  # SNÍŽENO: 5+ českých znaků = plný bod (dříve 10)
+        word_score = min(czech_word_count / 3, 1.0)  # SNÍŽENO: 3+ českých slov = plný bod (dříve 5)
+
+        # Vážený průměr (slova mají větší váhu, ale znaky také důležité)
+        final_score = (char_score * 0.4 + word_score * 0.6)
+
+        return final_score
 
     def _check_content_quality(self, articles: List[Dict]):
         """Kontrola kvality obsahu článků"""
