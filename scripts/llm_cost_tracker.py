@@ -223,11 +223,21 @@ class LLMCostTracker:
         self.conn.commit()
         call_id = cursor.lastrowid
 
-        if status == 'success' and estimated_cost:
-            logger.info(
-                f"API call logged: {operation} | {total_tokens} tokens | "
-                f"${estimated_cost:.6f} | Article: {article_slug or 'N/A'}"
-            )
+        # Enhanced logging - VŽDY logovat, i když chybí cost data
+        if status == 'success':
+            if estimated_cost:
+                logger.info(
+                    f"💰 API call logged: {operation} | {total_tokens} tokens | "
+                    f"${estimated_cost:.6f} | Article: {article_slug or 'N/A'}"
+                )
+            else:
+                logger.warning(
+                    f"⚠️ API call logged WITHOUT cost: {operation} | "
+                    f"prompt={prompt_tokens}, completion={completion_tokens} | "
+                    f"Article: {article_slug or 'N/A'}"
+                )
+        else:
+            logger.error(f"❌ API call FAILED: {operation} | Error: {error_message}")
 
         return call_id
 
@@ -404,6 +414,27 @@ def track_llm_call(
 
         prompt_tokens = usage.get('prompt_tokens')
         completion_tokens = usage.get('completion_tokens')
+
+        # DEBUG: Log pokud chybí usage data
+        if not usage:
+            logger.warning(f"⚠️ LLM response nemá 'usage' klíč! Response keys: {list(response_json.keys())}")
+            logger.debug(f"📝 Response preview: {str(response_json)[:200]}...")
+
+            # FALLBACK: Approximate tokens pokud chybí usage
+            # Použít heuristiku: ~4 znaky = 1 token (průměr pro anglický text)
+            if 'choices' in response_json and response_json['choices']:
+                content = response_json['choices'][0].get('message', {}).get('content', '')
+                approx_completion_tokens = len(content) // 4
+
+                # Prompt tokens aproximace z request
+                prompt_text = str(data.get('messages', []))
+                approx_prompt_tokens = len(prompt_text) // 4
+
+                logger.info(f"💡 Fallback approximation: ~{approx_prompt_tokens} prompt + ~{approx_completion_tokens} completion tokens")
+                prompt_tokens = approx_prompt_tokens
+                completion_tokens = approx_completion_tokens
+        else:
+            logger.debug(f"✅ LLM usage: {prompt_tokens} prompt + {completion_tokens} completion = {prompt_tokens + completion_tokens if prompt_tokens and completion_tokens else 'N/A'} total tokens")
 
         # Zaloguj úspěšné volání
         tracker.log_call(
