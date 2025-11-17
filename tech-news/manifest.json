@@ -1,7 +1,567 @@
 {
-  "generated": "2025-11-16T04:25:21.601498+00:00",
+  "generated": "2025-11-17T16:32:23.947125+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Bloomberg: Toto se skutečně děje s iPhonem Air 2",
+      "description": "Zprávy o odložení iPhonu Air 2 vyvolaly zmatek, ale nové informace od Marka Gurmana objasňují plány Applu.",
+      "slug": "bloomberg-heres-whats-actually-going-on-with-the-i",
+      "publishedAt": "2025-11-16T14:15:00+00:00",
+      "date": "2025-11-16 14:15:00",
+      "importance": 3,
+      "category": "mobilní technologie",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-Air0001-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-16/bloomberg-heres-whats-actually-going-on-with-the-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "The Information"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple připravuje největší přehodnocení iPhonu: méně závislosti na podzimním představení",
+      "description": "Apple plánuje zásadní změny ve vývoji iPhonu – jak ve funkcích, tak v harmonogramu vydávání. Zároveň odložil Mac Pro a Tesla konečně přidává podporu CarPlay.",
+      "slug": "apples-iphone-overhaul-will-reduce-its-reliance-on",
+      "publishedAt": "2025-11-16T13:00:41+00:00",
+      "date": "2025-11-16 13:00:41",
+      "importance": 4,
+      "category": "mobilní technologie",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUjcUL3IB2c/v1/1200x800.jpg",
+      "url": "/tech-news/2025-11-16/apples-iphone-overhaul-will-reduce-its-reliance-on/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [
+        "Apple",
+        "Tesla"
+      ],
+      "people": [
+        "Tim Cook",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Postavil jsem chytrou domácnost na Google – a postupně se rozpadla",
+      "description": "V roce 2019 vypadala Google Home jako ideální základ pro chytrou domácnost, ale s časem se ukázalo, že závislost na jednom ekosystému je riskantní.",
+      "slug": "i-built-my-smart-home-with-google-heres-how-it-fel",
+      "publishedAt": "2025-11-16T12:39:23+00:00",
+      "date": "2025-11-16 12:39:23",
+      "importance": 3,
+      "category": "chytrá domácnost",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg",
+      "url": "/tech-news/2025-11-16/i-built-my-smart-home-with-google-heres-how-it-fel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Používejte Google Gemini a ChatGPT k organizaci života pomocí naplánovaných akcí",
+      "description": "Nejnovější funkce velkých AI chatbotů umožňují uživatelům naplánovat opakující se úkoly, které boty vykonají automaticky v zadaný čas.",
+      "slug": "use-google-gemini-and-chatgpt-to-organize-your-lif",
+      "publishedAt": "2025-11-16T11:30:00+00:00",
+      "date": "2025-11-16 11:30:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.wired.com/photos/691767db0aab2f501ca92d9c/191:100/w_1280,c_limit/gear-ai-organize-2149928167.jpg",
+      "url": "/tech-news/2025-11-16/use-google-gemini-and-chatgpt-to-organize-your-lif/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vzdal jsem se Alexa a přestavěl svůj chytrý dům",
+      "description": "Pokud trávíte více času opravováním chytré domácnosti než jejím využíváním, možná je čas přestat spoléhat na cloudová řešení. Tady je jak na to.",
+      "slug": "i-ditched-alexa-and-upgraded-my-smart-home-wired",
+      "publishedAt": "2025-11-16T11:00:00+00:00",
+      "date": "2025-11-16 11:00:00",
+      "importance": 3,
+      "category": "chytrá domácnost",
+      "urlToImage": "https://media.wired.com/photos/68eea1da349ab5eed52e0cfd/191:100/w_1280,c_limit/GettyImages-1435683662.jpg",
+      "url": "/tech-news/2025-11-16/i-ditched-alexa-and-upgraded-my-smart-home-wired/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Amazon",
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Už mě unavují „zdarma“ aplikace, které mě nutí platit",
+      "description": "Stále více mobilních aplikací označovaných jako zdarma záměrně zhoršuje svou bezplatnou verzi, aby uživatele přiměly k nákupu placeného předplatného.",
+      "slug": "im-tired-of-free-apps-that-are-just-trying-to-bull",
+      "publishedAt": "2025-11-16T10:57:09+00:00",
+      "date": "2025-11-16 10:57:09",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/capcut-on-the-google-play-store-scaled.jpg",
+      "url": "/tech-news/2025-11-16/im-tired-of-free-apps-that-are-just-trying-to-bull/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nová platforma nabízí celoživotní přístup k ChatGPT, Gemini a dalším AI modelům za 75 dolarů",
+      "description": "Služba 1min.AI umožňuje jednorázovým nákupem získat trvalý přístup k více než desítce populárních AI modelů včetně GPT-4o, Claude a Gemini Pro.",
+      "slug": "a-new-ai-platform-is-giving-lifetime-access-to-cha",
+      "publishedAt": "2025-11-16T10:00:00+00:00",
+      "date": "2025-11-16 10:00:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03RIjAHOznQ8QVK3bdodFMM/hero-image.fill.size_1200x675.v1763132132.jpg",
+      "url": "/tech-news/2025-11-16/a-new-ai-platform-is-giving-lifetime-access-to-cha/",
+      "source": {
+        "emoji": "📰",
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Recenze Affinity by Canva: zdarma je kouzelné číslo",
+      "description": "Canva zakoupila Serif a nyní nabízí profesionální grafický software Affinity zdarma. Software zůstává stejně kvalitní jako dříve, ale bez poplatku.",
+      "slug": "affinity-by-canva-review-free-is-the-magic-number-",
+      "publishedAt": "2025-11-16T08:00:00+00:00",
+      "date": "2025-11-16 08:00:00",
+      "importance": 3,
+      "category": "grafický software",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/R7waCvpzztbhyeSL5UJ57m-2560-80.jpg",
+      "url": "/tech-news/2025-11-16/affinity-by-canva-review-free-is-the-magic-number/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Creative Bloq"
+      },
+      "companies": [
+        "Canva",
+        "Serif"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejrychlejší (68k) Macintosh už nemusí být Amiga",
+      "description": "Komunita nadšenců pro retro počítače dosáhla historického milníku: poprvé v historii byl Macintosh s procesorem Motorola 68060 úspěšně rozjedán. Tím padá dlouholeté tvrzení fanoušků Amigy a Atari, že jejich systémy byly rychlejší než Macintosh.",
+      "slug": "the-fastest-68k-macintosh-might-not-be-an-amiga-an",
+      "publishedAt": "2025-11-16T06:00:00+00:00",
+      "date": "2025-11-16 06:00:00",
+      "importance": 3,
+      "category": "retro hardware",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/Mac68060-e1763156374360.jpg",
+      "url": "/tech-news/2025-11-16/the-fastest-68k-macintosh-might-not-be-an-amiga-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hackaday"
+      },
+      "companies": [
+        "Apple",
+        "Amiga",
+        "Atari"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lukeův Landspeeder byl postaven na podvozku zapomenutého britského tříkolky",
+      "description": "Lukeův ikonický Landspeeder z prvního Star Wars byl ve skutečnosti vytvořen na bázi britského tříkolového auta Reliant Bond Bug, které zrychlilo z 0 na 100 km/h za 23,7 sekundy.",
+      "slug": "luke-skywalkers-landspeeder-was-built-on-the-chass",
+      "publishedAt": "2025-11-16T00:05:00+00:00",
+      "date": "2025-11-16 00:05:00",
+      "importance": 3,
+      "category": "automobily",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/luke-skywalkers-landspeeder-was-built-on-the-chassis-of-an-obscure-british-three-wheeled-car/l-intro-1762881132.jpg",
+      "url": "/tech-news/2025-11-16/luke-skywalkers-landspeeder-was-built-on-the-chass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vedoucí Windows reaguje na kritiku: „Víme, že máme hodně práce“",
+      "description": "Pavan Davuluri, šéf Windows v Microsoftu, přiznává problémy s aktuálním stavem Windows 11 a slibuje zlepšení pro vývojáře i pokročilé uživatele.",
+      "slug": "windows-president-addresses-current-state-of-windo",
+      "publishedAt": "2025-11-15T23:50:25+00:00",
+      "date": "2025-11-15 23:50:25",
+      "importance": 3,
+      "category": "operační systémy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7kZUkvTX3qs2LE52ZBteaN-2560-80.jpg",
+      "url": "/tech-news/2025-11-15/windows-president-addresses-current-state-of-windo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Pavan Davuluri",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Apple ztrácí jednoho z nejvyšších manažerů: Jeff Williams oficiálně odešel do důchodu",
+      "description": "Jeff Williams, dlouholetý šéf operací a klíčová postava vývoje Apple Watch a zdravotních technologií, ukončil po více než 25 letech kariéru v Apple.",
+      "slug": "apple-loses-a-top-executive-as-jeff-williams-offic",
+      "publishedAt": "2025-11-15T21:31:43+00:00",
+      "date": "2025-11-15 21:31:43",
+      "importance": 3,
+      "category": "vedení firem",
+      "urlToImage": "https://images.macrumors.com/t/DDF87YE7Fzc45HwvkUTrnPg6YBI=/1960x/article-new/2025/11/Apple-Event-Jeff-Williams.jpg",
+      "url": "/tech-news/2025-11-15/apple-loses-a-top-executive-as-jeff-williams-offic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Jeff Williams",
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Stačila jedna zdarma aplikace, aby Windows 11 opět zazářily",
+      "description": "Zdarma dostupný nástroj Winaero Tweaker řeší dlouhodobé nedostatky systému Windows 11, jako je omezené kontextové menu, reklamy nebo nechtěné aktualizace.",
+      "slug": "it-took-one-free-app-to-make-windows-11-great-agai",
+      "publishedAt": "2025-11-15T20:00:00+00:00",
+      "date": "2025-11-15 20:00:00",
+      "importance": 3,
+      "category": "software",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/winaero-tweaker-on-windows-11-laptop.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-15/it-took-one-free-app-to-make-windows-11-great-agai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Spuštění vlastního lokálního open-source AI modelu je snadné – tady je jak na to",
+      "description": "Lokální AI modely zajišťují soukromí a žádné měsíční poplatky, díky čemuž můžete provozovat výkonné modely zcela offline. Tady je návod, jak začít.",
+      "slug": "running-your-own-local-open-source-ai-model-is-eas",
+      "publishedAt": "2025-11-15T17:01:02+00:00",
+      "date": "2025-11-15 17:01:02",
+      "importance": 3,
+      "category": "místní ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png",
+      "url": "/tech-news/2025-11-15/running-your-own-local-open-source-ai-model-is-eas/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "OpenAI",
+        "Meta",
+        "Hugging Face",
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Roadmapa iPadů na rok 2026: Kdy očekávat jednotlivé modely",
+      "description": "Apple nedávno představil nový iPad Pro s čipem M5, což naznačuje směr vývoje celé řady tabletů v roce 2026. Čekají nás aktualizace iPadu Air, základního iPadu i iPadu mini.",
+      "slug": "A-2026-ipad-roadmap-heres-when-to-expect-every-upc",
+      "publishedAt": "2025-11-15T15:02:00+00:00",
+      "date": "2025-11-15 15:02:00",
+      "importance": 3,
+      "category": "tablety",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/ipad-lineup-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-15/A-2026-ipad-roadmap-heres-when-to-expect-every-upc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Oficiální poznámky k vydání Tesly 2025.44 – aktualizace softwaru",
+      "description": "Softwarová aktualizace Tesly 2025.44 přináší drobné vylepšení a aktualizaci funkce Dashcam. Vánoční funkce zatím nejsou součástí tohoto vydání.",
+      "slug": "A-202544-official-tesla-release-notes-software-upd",
+      "publishedAt": "2025-11-15T14:00:52+00:00",
+      "date": "2025-11-15 14:00:52",
+      "importance": 3,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.notateslaapp.com/images/tesla-car-updates/2025.26/2025.26-dashcam-update.png",
+      "url": "/tech-news/2025-11-15/A-202544-official-tesla-release-notes-software-upd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notateslaapp.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Frameworkův „frankenstein“ notebook se vrací s výkonnější grafikou a stále stejnými problémy",
+      "description": "Notebook Framework Laptop 16 pro rok 2025 konečně získal výkonnější, uživatelem vyměnitelnou grafiku Nvidia RTX 5070, ale jiné aspekty zařízení zůstávají problematické.",
+      "slug": "frameworks-franken-laptop-is-back-with-big-chip-up",
+      "publishedAt": "2025-11-15T14:00:00+00:00",
+      "date": "2025-11-15 14:00:00",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258105_Framework_Laptop_16_2025_ADiBenedetto_0034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-15/frameworks-franken-laptop-is-back-with-big-chip-up/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Framework",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Androidova posedlost Applem se obrací proti uživatelům",
+      "description": "Výrobci Android zařízení opouštějí klíčové principy platformy – jako výměnné baterie, rozšiřitelná paměť a jack pro sluchátka – ve snaze napodobovat Apple, což vede ke zdražení a omezení uživatelské svobody.",
+      "slug": "androids-obsession-with-apples-playbook-is-backfir",
+      "publishedAt": "2025-11-15T13:30:00+00:00",
+      "date": "2025-11-15 13:30:00",
+      "importance": 3,
+      "category": "mobilní operační sys",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/illustration-of-the-android-mascot-holding-a-magnifying-glass-looking-at-two-iphones-surrounded-by-red-warning-icons.png?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-15/androids-obsession-with-apples-playbook-is-backfir/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "NotebookLM získává funkci Deep Research a podporu více formátů souborů",
+      "description": "Google výrazně rozšířil schopnosti svého AI nástroje NotebookLM o automatické prohledávání webu a lepší kompatibilitu se soubory.",
+      "slug": "notebooklm-update-makes-source-hunting-faster-and-",
+      "publishedAt": "2025-11-15T13:12:00+00:00",
+      "date": "2025-11-15 13:12:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7hdadu3ou4FF7KWC6TXV2i-2560-80.jpg",
+      "url": "/tech-news/2025-11-15/notebooklm-update-makes-source-hunting-faster-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Srovnání nabídky chytrých telefonů v roce 2026 od Applu, Samsungu, Googlu a dalších",
+      "description": "Rok 2026 se chystá být jedním z nejvýznamnějších let pro uvedení nových chytrých telefonů. Čekají nás nejen pravidelné aktualizace, ale i potenciální příchod skládacích iPhonů a tri-fold zařízení od Samsungu.",
+      "slug": "comparing-the-2026-phone-lineups-from-apple-samsun",
+      "publishedAt": "2025-11-15T13:01:00+00:00",
+      "date": "2025-11-15 13:01:00",
+      "importance": 3,
+      "category": "chytré telefony",
+      "urlToImage": "https://www.cnet.com/a/img/resize/defe5998328c4ae781aac5d9f9d62fa9097b2981/hub/2025/11/13/035c2607-1dde-4df2-9bda-6f34337ecfc2/p1008229-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-15/comparing-the-2026-phone-lineups-from-apple-samsun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple",
+        "Samsung",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Wyomingské dinosauří „mumie“ odhalují nový pohled na kachnozobého dinosaura",
+      "description": "Výjimečně zachované fosilie z jediné lokality ve Wyomingu poskytují nejpřesnější obraz vzhledu druhu Edmontosaurus annectens.",
+      "slug": "wyoming-dinosaur-mummies-give-us-a-new-view-of-duc",
+      "publishedAt": "2025-11-15T12:00:59+00:00",
+      "date": "2025-11-15 12:00:59",
+      "importance": 3,
+      "category": "paleontologie",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-1152x648.jpg",
+      "url": "/tech-news/2025-11-15/wyoming-dinosaur-mummies-give-us-a-new-view-of-duc/",
+      "source": {
+        "emoji": "🔬",
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Meta otevírá pop-up prodejny, aby podpořila zájem o své AI brýle",
+      "description": "Společnost Meta spustila dočasné prodejny v New Yorku, Los Angeles a Las Vegas, kde zákazníci mohou vyzkoušet AI brýle Ray-Ban Meta a pořídit si selfie u kávových stánků a zrcadel.",
+      "slug": "meta-opens-pop-up-stores-to-build-buzz-for-its-ai-",
+      "publishedAt": "2025-11-15T12:00:00+00:00",
+      "date": "2025-11-15 12:00:00",
+      "importance": 3,
+      "category": "ai brýle",
+      "urlToImage": "https://images.wsj.net/im-57844409/social",
+      "url": "/tech-news/2025-11-15/meta-opens-pop-up-stores-to-build-buzz-for-its-ai/",
+      "source": {
+        "emoji": "📈",
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "companies": [
+        "Meta",
+        "Ray-Ban"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google vydá Nano Banana Pro poháněný modelem Gemini 3 Pro už příští týden",
+      "description": "Google plánuje příští týden spustit novou verzi svého nástroje pro generování obrázků Nano Banana Pro spolu s modelem Gemini 3 Pro, který přinese vylepšené schopnosti tvorby vizuálů.",
+      "slug": "google-to-release-nano-banana-pro-powered-by-gemin",
+      "publishedAt": "2025-11-15T09:22:01+00:00",
+      "date": "2025-11-15 09:22:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/Robot-Google-Vids-11-15-2025_09_22_AM.jpg",
+      "url": "/tech-news/2025-11-15/google-to-release-nano-banana-pro-powered-by-gemin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Testingcatalog.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Může technologie vyřešit krizi velikostí v módním průmyslu?",
+      "description": "BBC zkoumá, zda umělá inteligence (AI) může pomoci lidem, kteří mají potíže s nekonzistentním šitím oblečení.",
+      "slug": "can-technology-fix-fashions-sizing-crisis-bbc",
+      "publishedAt": "2025-11-15T04:03:27+00:00",
+      "date": "2025-11-15 04:03:27",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c22/live/d34583d0-c08f-11f0-924c-87dcfe4462ba.jpg",
+      "url": "/tech-news/2025-11-15/can-technology-fix-fashions-sizing-crisis-bbc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Galaxy Z TriFold dosáhl klíčového milníku před uvedením na trh v USA",
+      "description": "Samsungův první tříkladný chytrý telefon, který lze dvakrát složit a rozložit, se blíží k oficiálnímu uvedení. Podle zpráv má být plně představen 5. prosince.",
+      "slug": "galaxy-z-trifold-hits-a-key-milestone-ahead-of-us-",
+      "publishedAt": "2025-11-15T03:24:00+00:00",
+      "date": "2025-11-15 03:24:00",
+      "importance": 3,
+      "category": "mobilní zařízení",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/11/Samsung-Galaxy-Z-TriFold-Foldable-DIsplay-Bezel-Size-1200x675.jpg",
+      "url": "/tech-news/2025-11-15/galaxy-z-trifold-hits-a-key-milestone-ahead-of-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Android 17 usnadní používání alternativních obchodů s aplikacemi",
+      "description": "V rámci vyrovnání sporu s Epicem zavádí Google v Androidu 17 podporu pro „Registrované obchody s aplikacemi“, které budou moci instalovat aplikace bez zbytečných varovných obrazovek.",
+      "slug": "heres-a-look-at-how-android-17-will-make-alternati",
+      "publishedAt": "2025-11-14T20:11:07+00:00",
+      "date": "2025-11-14 20:11:07",
+      "importance": 3,
+      "category": "mobilní operační sys",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-the-Epic-Games-Store-on-Android-hero-image-scaled.jpg",
+      "url": "/tech-news/2025-11-14/heres-a-look-at-how-android-17-will-make-alternati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Authority"
+      },
+      "companies": [
+        "Google",
+        "Epic"
+      ],
+      "people": []
+    },
+    {
+      "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a Porsche 911 GT3 RS na okruhu",
+      "description": "Tým SavageGeese podrobně otestoval tři výkonné kupé na okruhu Autobahn Country Club, přičemž všechny vozy byly vybaveny identickými pneumatikami a řízeny jedním pilotem, aby byly minimalizovány proměnné.",
+      "slug": "watch-savagegeese-put-the-corvette-zr1-and-mustang",
+      "publishedAt": "2025-11-14T18:52:34+00:00",
+      "date": "2025-11-14 18:52:34",
+      "importance": 3,
+      "category": "automobilové testy",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/watch-savagegeese-put-the-corvette-zr1-and-mustang-gtd-up-against-the-porsche-911-gt3-rs/l-intro-1763146288.jpg",
+      "url": "/tech-news/2025-11-14/watch-savagegeese-put-the-corvette-zr1-and-mustang/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Samsung údajně zrušil původní plány pro Galaxy S26 po představení iPhone 17",
       "description": "Samsung prý přehodnotil design a specifikace svého nejmenšího vlajkového modelu Galaxy S26 kvůli konkurenčnímu tlaku ze strany nového iPhone 17.",
@@ -24,8 +584,49 @@
       "people": []
     },
     {
-      "title": "Muscle car s turbem: 2026 Dodge Charger Sixpack kompenzuje ztrátu V8 zábavou",
-      "description": "Nový Dodge Charger Scat Pack 2026 využívá šestiválcový motor Hurricane místo klasického Hemi V8, ale zachovává ducha amerického muscle caru díky výkonu, jízdním vlastnostem a retro stylu.",
+      "title": "WhatsApp v Evropě brzy umožní chatování s uživateli jiných aplikací",
+      "description": "Uživatelé v Evropě, kteří si zapnou tuto funkci, budou moci posílat zprávy, obrázky, hlasové zprávy, videa i soubory uživatelům jiných komunikačních aplikací.",
+      "slug": "whatsapp-to-launch-third-party-chat-integration-in",
+      "publishedAt": "2025-11-14T15:32:50+00:00",
+      "date": "2025-11-14 15:32:50",
+      "importance": 3,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+      "url": "/tech-news/2025-11-14/whatsapp-to-launch-third-party-chat-integration-in/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "WhatsApp",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "Recenze Pixelu 10 Pro Fold: Google vsází na odolnost skládacích telefonů",
+      "description": "Google zlepšil odolnost Pixelu 10 Pro Fold díky těsnějšímu pantu, certifikaci IP68, větší baterii a jasnějšímu displeji, ale jeho fotoaparát zaostává za běžným Pixel 10 Pro, což zpochybňuje označení „Pro“.",
+      "slug": "pixel-10-pro-fold-review-googles-bet-to-make-folda",
+      "publishedAt": "2025-11-14T15:13:22+00:00",
+      "date": "2025-11-14 15:13:22",
+      "importance": 3,
+      "category": "foldable telefony",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Pixel-fold-feat.jpg?resize=1200,675",
+      "url": "/tech-news/2025-11-14/pixel-10-pro-fold-review-googles-bet-to-make-folda/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Muscle car s turbodmychadly: Nový Dodge Charger Sixpack nahrazuje V8 šestiválcem",
+      "description": "Dodge představuje novou generaci Chargeru se šestiválcovým motorem Hurricane místo klasického Hemi V8. I když se jedná o odchylku od tradičních muscle car, nový model nabízí výkon, pohodlí i zábavu za volantem.",
       "slug": "A-2026-dodge-charger-sixpacks-muscle-car-silliness",
       "publishedAt": "2025-11-14T15:00:00+00:00",
       "date": "2025-11-14 15:00:00",
@@ -42,7 +643,7 @@
       "people": []
     },
     {
-      "title": "Kritické varování od Microsoftu – okamžitě aktualizujte Windows 10, 11 a Server",
+      "title": "Kritické varování od Microsoftu — okamžitě aktualizujte Windows 10, 11 a Server",
       "description": "Microsoft potvrdil aktivně zneužívanou zero-day zranitelnost v jádru Windows, která umožňuje útočníkům získat systémová oprávnění. Uživatelé musí co nejdříve nainstalovat bezpečnostní záplatu.",
       "slug": "critical-microsoft-alert-update-windows-10-11-and-",
       "publishedAt": "2025-11-14T14:58:04+00:00",
@@ -63,7 +664,7 @@
     },
     {
       "title": "Google rozšiřuje funkci nahrávání hovorů na starší modely Pixelů",
-      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů na starší modely chytrých telefonů Pixel, které nepodporují pokročilé AI funkce jako Call Notes.",
+      "description": "Google začal šířeji nasazovat funkci nahrávání telefonních hovorů v aplikaci Telefon na starších modelech Pixelů, které nepodporují pokročilé AI funkce jako Call Notes.",
       "slug": "google-call-recording-launches-on-more-pixel-phone",
       "publishedAt": "2025-11-14T14:48:36+00:00",
       "date": "2025-11-14 14:48:36",
@@ -332,8 +933,29 @@
       "people": []
     },
     {
+      "title": "Google NotebookLM nyní podporuje 'hluboký výzkum' pomocí Gemini",
+      "description": "Google rozšiřuje svůj nástroj pro výzkum NotebookLM o funkci Deep Research z modelu Gemini a přidává podporu pro další typy souborů.",
+      "slug": "googles-notebooklm-will-now-do-deep-research-the-v",
+      "publishedAt": "2025-11-13T17:00:00+00:00",
+      "date": "2025-11-13 17:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-13/googles-notebooklm-will-now-do-deep-research-the-v/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google",
+        "Gemini"
+      ],
+      "people": []
+    },
+    {
       "title": "Google NotebookLM získává nástroj „Deep Research“ a podporu dalších formátů souborů",
-      "description": "Služba NotebookLM od Googlu přidává nový nástroj pro automatizovaný výzkum a rozšiřuje podporu souborových formátů.",
+      "description": "Služba NotebookLM od Googlu přidává nový nástroj „Deep Research“, který automatizuje složité online výzkumy, a rozšiřuje podporu pro další typy souborů.",
       "slug": "googles-notebooklm-adds-deep-research-tool-support",
       "publishedAt": "2025-11-13T17:00:00+00:00",
       "date": "2025-11-13 17:00:00",
@@ -3263,254 +3885,6 @@
       "people": []
     },
     {
-      "title": "4 nové systémové aplikace v iOS 26 a iPadOS 26, které zásadně rozšiřují možnosti iPhonu a iPadu",
-      "description": "Apple v iOS 26 a iPadOS 26 tiše přidává několik nových integrovaných aplikací, které rozšiřují funkčnost zařízení bez nutnosti instalovat software třetích stran a současně navazují na nový design „Liquid Glass“.",
-      "slug": "A-4-new-apps-released-with-ios-26-ipados-26-that-e",
-      "publishedAt": "2025-11-08T21:30:00+00:00",
-      "date": "2025-11-08 21:30:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.slashgear.com/img/gallery/4-new-apps-released-with-ios-26-ipados-26-that-everyone-should-know-about/l-intro-1762334103.jpg",
-      "url": "/tech-news/2025-11-08/A-4-new-apps-released-with-ios-26-ipados-26-that-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Blue Origin nabízí zrychlení návratu USA na Měsíc a upravuje architekturu lunárních landerů",
-      "description": "Blue Origin deklaruje připravenost urychlit program pilotovaného přistání NASA na Měsíci a představuje upravenou architekturu svých lunárních landerů jako alternativu k současným zpožděným plánům.",
-      "slug": "blue-origin-will-move-heaven-and-earth-to-help-nas",
-      "publishedAt": "2025-11-08T21:27:42+00:00",
-      "date": "2025-11-08 21:27:42",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-1152x648.jpg",
-      "url": "/tech-news/2025-11-08/blue-origin-will-move-heaven-and-earth-to-help-nas/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [
-        "Blue Origin",
-        "NASA"
-      ],
-      "people": [
-        "Dave Limp",
-        "Jeff Bezos",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Indie App Spotlight: Focii – minimalistická aplikace pro správu úkolů s časovači",
-      "description": "Focii je nezávislá iOS aplikace pro správu úkolů, která staví na maximálně jednoduchém rozhraní, kategorizaci, prioritách, časovačích a opakovaných úkolech, aby uživatelům usnadnila soustředěnou práci bez rušivých prvků.",
-      "slug": "indie-app-spotlight-focii-is-a-clutter-free-task-m",
-      "publishedAt": "2025-11-08T20:30:00+00:00",
-      "date": "2025-11-08 20:30:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Focii-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-08/indie-app-spotlight-focii-is-a-clutter-free-task-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uniklý nákres Galaxy S26 naznačuje nový modul fotoaparátu, tenčí tělo a podporu Qi2",
-      "description": "Únik nákresu údajného Samsung Galaxy S26 ukazuje přepracovaný modul fotoaparátu, tenčí konstrukci a integraci magnetů pro standard Qi2, což naznačuje drobné, ale praktické změny oproti Galaxy S25.",
-      "slug": "leaked-galaxy-s26-sketch-points-to-three-semi-exci",
-      "publishedAt": "2025-11-08T19:26:52+00:00",
-      "date": "2025-11-08 19:26:52",
-      "importance": 2,
-      "category": "smartphony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175568-wide-two_1200/Leaked-Galaxy-S26-sketch-points-to-three-semi-exciting-changes.jpg",
-      "url": "/tech-news/2025-11-08/leaked-galaxy-s26-sketch-points-to-three-semi-exci/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Předčasné Black Friday slevy na MacBook Pro M4 začínají na 1 299 dolarech",
-      "description": "Prodejci v USA spustili předčasné Black Friday akce na MacBook Pro s čipem M4, které snižují cenu vybraných konfigurací na 1 299 dolarů. Nabídky míří na rychlé vyprodání prvních sérií a naznačují agresivnější cenovou strategii u nejnovější generace MacBooků.",
-      "slug": "early-black-friday-macbook-pro-m4-deals-start-at-j",
-      "publishedAt": "2025-11-08T18:42:00+00:00",
-      "date": "2025-11-08 18:42:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65685-137504-macbook-pro-sale-1299-xl.jpg",
-      "url": "/tech-news/2025-11-08/early-black-friday-macbook-pro-m4-deals-start-at-j/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "companies": [
-        "AppleInsider",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple zvažuje levný MacBook připomínající netbooky",
-      "description": "Podle spekulací Apple připravuje levnější MacBook s mobilním čipem, menším displejem a novým designem, který na papíře připomíná někdejší netbooky, je však cílený na dnešní web-first a cloudové scénáře.",
-      "slug": "apple-helped-kill-netbooks-will-it-bring-them-back",
-      "publishedAt": "2025-11-08T16:00:00+00:00",
-      "date": "2025-11-08 16:00:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/P7150216-hero.1419979718.webp?quality=90&strip=all&crop=0,10.914776032577,100,78.170447934846",
-      "url": "/tech-news/2025-11-08/apple-helped-kill-netbooks-will-it-bring-them-back/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Intel",
-        "Asus"
-      ],
-      "people": [
-        "Tim Cook"
-      ]
-    },
-    {
-      "title": "5 Apple CarPlay widgetů, které byste měli nastavit co nejdříve",
-      "description": "Nové widgety v Apple CarPlay rozšiřují možnosti přizpůsobení palubního displeje a umožňují rychlý přístup ke kalendáři, připomínkám, počasí, chytré domácnosti a dalším informacím bez nutnosti sahat po telefonu.",
-      "slug": "A-5-apple-carplay-widgets-you-should-install-asap-",
-      "publishedAt": "2025-11-08T15:45:00+00:00",
-      "date": "2025-11-08 15:45:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-apple-carplay-widgets-you-should-install-asap/l-intro-1762193024.jpg",
-      "url": "/tech-news/2025-11-08/A-5-apple-carplay-widgets-you-should-install-asap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "První prémiový externí trackpad pro Windows: HyperSpace Trackpad Pro",
-      "description": "HyperSpace Trackpad Pro cílí na uživatele Windows jako první prémiový externí multi-touch trackpad s haptickou odezvou, vysokou obnovovací frekvencí a konfigurovatelným softwarem Hydra.",
-      "slug": "hands-on-with-hyperspace-trackpad-pro-the-first-pr",
-      "publishedAt": "2025-11-08T15:28:00+00:00",
-      "date": "2025-11-08 15:28:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Hyper-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-08/hands-on-with-hyperspace-trackpad-pro-the-first-pr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Hyper",
-        "Apple",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "8 opomíjených chytrých gadgetů, které promění vaše auto v praktičtější a bezpečnější vůz",
-      "description": "Výběr nenápadných chytrých zařízení pro auta ukazuje, jak drobná elektronika může zlepšit bezpečnost, sledování vozidla i komfort při každodenním dojíždění, bez nutnosti drahých vestavěných systémů.",
-      "slug": "A-8-underrated-smart-car-gadgets-you-need-to-try-b",
-      "publishedAt": "2025-11-08T15:02:00+00:00",
-      "date": "2025-11-08 15:02:00",
-      "importance": 3,
-      "category": "automobilové gadgety",
-      "urlToImage": "https://www.bgr.com/img/gallery/8-underrated-smart-car-gadgets-you-need-to-try/l-intro-1761928453.jpg",
-      "url": "/tech-news/2025-11-08/A-8-underrated-smart-car-gadgets-you-need-to-try-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Polestar míří do Gran Turismo 7 v rámci aktualizace Spec III",
-      "description": "Elektrická značka Polestar vstupuje do Gran Turismo 7 v prosincové aktualizaci Spec III, potvrzena byla zejména přítomnost modelu Polestar 5. Jde o rozšíření portfolia elektrických vozů ve hře a prohloubení spolupráce mezi automobilkami a herním průmyslem.",
-      "slug": "is-polestar-coming-to-gran-turismo-gtplanet",
-      "publishedAt": "2025-11-08T14:20:10+00:00",
-      "date": "2025-11-08 14:20:10",
-      "importance": 3,
-      "category": "herní průmysl",
-      "urlToImage": "https://www.gtplanet.net/wp-content/uploads/2025/11/image-15.jpg",
-      "url": "/tech-news/2025-11-08/is-polestar-coming-to-gran-turismo-gtplanet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GTPlanet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Historické pobřežní sídlo ve Westchesteru je na prodej po pětileté rekonstrukci za 23 milionů dolarů",
-      "description": "Historická rezidence na pobřeží v oblasti Westchester v New Yorku vstupuje na trh po rozsáhlé pětileté renovaci s nabídkovou cenou 23 milionů dolarů. Nemovitost kombinuje původní architektonické prvky s modernizovaným vybavením, zaměřeným na luxusní bydlení.",
-      "slug": "historic-westchester-waterfront-mansion-hits-the-m",
-      "publishedAt": "2025-11-08T14:03:52+00:00",
-      "date": "2025-11-08 14:03:52",
-      "importance": 1,
-      "category": "nemovitosti",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-08/historic-westchester-waterfront-mansion-hits-the-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Realtor.com News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Pět důvodů, proč nový Kindle Scribe Colorsoft stojí za pozornost",
-      "description": "Nový Kindle Scribe Colorsoft přináší barevný E Ink displej, vylepšený povrch pro psaní a další změny, které z něj dělají praktičtější nástroj pro čtení, anotace a produktivitu.",
-      "slug": "A-5-reasons-why-the-next-kindle-scribe-has-my-full",
-      "publishedAt": "2025-11-08T14:03:28+00:00",
-      "date": "2025-11-08 14:03:28",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/kindle_scribe_color_2.jpg",
-      "url": "/tech-news/2025-11-08/A-5-reasons-why-the-next-kindle-scribe-has-my-full/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "Top novinky: iOS 26.1, beta iOS 26.2, plány pro iPhone 18 a zásadní produktový rok 2026",
       "description": "Apple vydal iOS 26.1 s praktickými úpravami používání systému a soukromí, spustil testování iOS 26.2 a podle úniků a analýz chystá v roce 2026 rozsáhlou obměnu produktové řady včetně iPhonu 18 a platformy pro chytrou domácnost.",
       "slug": "top-stories-ios-261-released-ios-262-beta-iphone-1",
@@ -3585,28 +3959,6 @@
       ]
     },
     {
-      "title": "5 klíčových nastavení, která byste měli změnit na své Sony TV pro lepší obraz",
-      "description": "Sony nabízí kvalitní obrazové procesory, ale výchozí tovární nastavení často výrazně snižují potenciál televize. Úpravou několika konkrétních voleb lze dosáhnout výrazně lepšího obrazu bez dalších nákladů.",
-      "slug": "change-these-5-settings-on-your-sony-tv-now-cnet",
-      "publishedAt": "2025-11-08T14:00:00+00:00",
-      "date": "2025-11-08 14:00:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b10e43fd30db9de19116b79425a81ece1016d1c6/hub/2025/11/07/c82f9bfe-826d-4778-a897-175ef564ff2f/pxl-20251031-190557122.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-08/change-these-5-settings-on-your-sony-tv-now-cnet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Sony",
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung Galaxy S26 má být výrazně tenčí než S25, ale může to ovlivnit baterii",
       "description": "Podle úniku od známého tipera Ice Universe má být základní model Samsung Galaxy S26 tenký jen 6,9 mm oproti 7,2 mm u Galaxy S25, což vyvolává otázky kolem kapacity baterie a konstrukce.",
       "slug": "samsung-galaxy-s26-is-going-to-be-noticeably-slimm",
@@ -3669,26 +4021,6 @@
       "people": []
     },
     {
-      "title": "Android 16 zlepšuje ochranu soukromí díky přesnějšímu řízení \"přibližné\" polohy",
-      "description": "Android 16 zavádí funkci density-based coarse location, která výrazně snižuje riziko identifikace uživatelů z přibližné polohy, zejména v řídce osídlených oblastech.",
-      "slug": "android-16-fixes-a-big-privacy-flaw-in-its-approxi",
-      "publishedAt": "2025-11-08T13:05:27+00:00",
-      "date": "2025-11-08 13:05:27",
-      "importance": 3,
-      "category": "mobilní zařízení",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-maps-my-maps-custom-map-example-2.jpg",
-      "url": "/tech-news/2025-11-08/android-16-fixes-a-big-privacy-flaw-in-its-approxi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Přestaňte si jen povídat: 5 AI nástrojů, které nejsou jen další ChatGPT",
       "description": "Článek představuje pět praktických AI nástrojů, které jdou dál než klasické chatboty a zaměřují se na automatizaci konkrétních úkolů – od přepisu schůzek až po tvorbu videí.",
       "slug": "stop-chatting-start-doing-5-ai-tools-that-arent-ju",
@@ -3733,92 +4065,6 @@
       "people": []
     },
     {
-      "title": "Týden v hardwaru: Fairphone vstupuje do USA se sluchátky, WhatsApp přichází na Apple Watch",
-      "description": "Evropský Fairphone rozšiřuje aktivity v USA opravitelnými sluchátky Fairbuds XL a zvažuje vstup s telefony, WhatsApp získává plnohodnotnou aplikaci pro Apple Watch a na trh míří nové modely od Motoroly, Canonu a Teenage Engineering.",
-      "slug": "gear-news-of-the-week-fairphone-lands-in-the-us-an",
-      "publishedAt": "2025-11-08T12:00:00+00:00",
-      "date": "2025-11-08 12:00:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://media.wired.com/photos/690e7ce86b6f3f4390249d68/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20Fairphone%20Lands%20in%20the%20US,%20and%20WhatsApp%20Is%20Finally%20on%20the%20Apple%20Watch.png",
-      "url": "/tech-news/2025-11-08/gear-news-of-the-week-fairphone-lands-in-the-us-an/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Fairphone",
-        "WhatsApp",
-        "Apple",
-        "Motorola",
-        "Canon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Black Friday slevy na QLED, OLED a Mini‑LED televizory: úspora až 50 % u vybraných modelů",
-      "description": "Výrazné Black Friday slevy na televizory u velkých prodejců, včetně prémiových OLED, QLED a Mini‑LED modelů, snižují vstupní cenu za kvalitní domácí kino a herní sestavy.",
-      "slug": "black-friday-tv-deals-save-up-to-50-on-select-qled",
-      "publishedAt": "2025-11-08T11:00:00+00:00",
-      "date": "2025-11-08 11:00:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kGLmQBVCkUqCGWYGKp4p3U-2560-80.jpg",
-      "url": "/tech-news/2025-11-08/black-friday-tv-deals-save-up-to-50-on-select-qled/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon nabízí členům Prime přednostní přístup k cestovním slevám před Black Friday až o 87 % nižším",
-      "description": "Amazon spustil pro členy Prime předčasné Black Friday slevy na cestovní vybavení, včetně kufrů, oblečení, bezdrátových sluchátek a sledovacích zařízení, s výraznými slevami u známých značek.",
-      "slug": "amazons-giving-prime-members-vip-access-to-its-bes",
-      "publishedAt": "2025-11-08T11:00:00+00:00",
-      "date": "2025-11-08 11:00:00",
-      "importance": 1,
-      "category": "e‑commerce",
-      "urlToImage": "https://www.travelandleisure.com/thmb/9Qih4lF749NSK9NhoffHOW6jIZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tl-amazon-early-black-friday-deals-tout-2738ea55586740498bba015ea29268bf.jpg",
-      "url": "/tech-news/2025-11-08/amazons-giving-prime-members-vip-access-to-its-bes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Travel+Leisure"
-      },
-      "companies": [
-        "Amazon",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nejlepší přenosné elektrárny pro kempování v roce 2025: Anker, EcoFlow, Goal Zero a Jackery",
-      "description": "Test přenosných power station ukazuje, že moderní kempování se stále více spoléhá na stabilní, mobilní zdroje energie pro nabíjení elektroniky, osvětlení i vaření mimo civilizaci.",
-      "slug": "A-4-best-power-stations-for-camping-2025-compare-j",
-      "publishedAt": "2025-11-08T11:00:00+00:00",
-      "date": "2025-11-08 11:00:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/roundups/03fSqNFBQAWadaomQAoJJvF/hero-image.fill.size_1200x675.v1762288775.jpg",
-      "url": "/tech-news/2025-11-08/A-4-best-power-stations-for-camping-2025-compare-j/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Jackery",
-        "Anker",
-        "Goal Zero",
-        "EcoFlow"
-      ],
-      "people": []
-    },
-    {
       "title": "Co jsem zjistila po 30 dnech s projektorem Google TV v ložnici",
       "description": "Recenze zkušenosti s přenosným projektorem XGIMI Mogo 4 s Google TV ukazuje, jak zásadně může pohodlí, bateriový provoz a flexibilita projekce změnit zvyky sledování obsahu v malých bytech.",
       "slug": "what-i-learned-after-using-a-google-tv-projector-i",
@@ -3838,255 +4084,6 @@
         "XGIMI",
         "Android Authority"
       ],
-      "people": []
-    },
-    {
-      "title": "Google Maps v Indii získají integraci Gemini AI pro přesnější navigaci a bezpečnost",
-      "description": "Google nasazuje Gemini AI do Google Maps v Indii s důrazem na lokalizaci, bezpečnostní upozornění a kontextové informace o trase a okolí. Aktualizace má zlepšit relevanci navigace v náročných místních podmínkách a reagovat na kritiku po dřívějších incidentech.",
-      "slug": "google-maps-to-be-upgraded-with-gemini-ai-heres-wh",
-      "publishedAt": "2025-11-08T05:45:59+00:00",
-      "date": "2025-11-08 05:45:59",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2025/11/Google-maps-ai.jpg",
-      "url": "/tech-news/2025-11-08/google-maps-to-be-upgraded-with-gemini-ai-heres-wh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gulte"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Galaxy S27 Ultra může získat pokročilé ověřování obličeje Polar ID",
-      "description": "První spekulace o Samsung Galaxy S27 Ultra naznačují nasazení nové technologie Polar ID, založené na polarizovaném světle, která má přinést bezpečnější a rychlejší rozpoznávání obličeje na úroveň konkurenčního Face ID od Applu.",
-      "slug": "galaxy-s27-ultra-may-finally-have-a-key-security-f",
-      "publishedAt": "2025-11-08T00:15:23+00:00",
-      "date": "2025-11-08 00:15:23",
-      "importance": 2,
-      "category": "mobilní telefony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175565-wide-two_1200/Galaxy-S27-Ultra-may-finally-have-a-key-security-feature-iPhones-have-had-for-years.jpg",
-      "url": "/tech-news/2025-11-08/galaxy-s27-ultra-may-finally-have-a-key-security-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "Samsung",
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung představí LPDDR6 paměti s přenosovou rychlostí 10,7 Gbps na CES 2026",
-      "description": "Samsung na veletrhu CES 2026 ukáže první LPDDR6 DRAM čipy vyráběné 12nm technologií s rychlostí až 10,7 Gbps na pin, přičemž komerční nasazení plánuje v následujícím roce. Nové paměti cílí na mobilní zařízení, výkonné čipy pro AI a automobilový sektor.",
-      "slug": "samsung-confirms-lpddr6-memory-with-107-gbps-bandw",
-      "publishedAt": "2025-11-07T19:14:00+00:00",
-      "date": "2025-11-07 19:14:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/SAMSUNG-LPDDR6-HERO-2.jpg",
-      "url": "/tech-news/2025-11-07/samsung-confirms-lpddr6-memory-with-107-gbps-bandw/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "companies": [
-        "SAMSUNG"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zranitelnost telefonů Samsung umožnila nasazení spyware LANDFALL přes WhatsApp jako zero-day útok",
-      "description": "Útočníci zneužili dosud neopravenou zranitelnost (CVE-2025-21042) v telefonech Samsung Galaxy k nasazení spyware LANDFALL prostřednictvím škodlivých obrázků ve WhatsApp před dubnovou bezpečnostní záplatou 2025.",
-      "slug": "samsung-mobile-flaw-exploited-as-zero-day-to-deplo",
-      "publishedAt": "2025-11-07T18:00:00+00:00",
-      "date": "2025-11-07 18:00:00",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s790-rw-e365/mobile-exploit.jpg",
-      "url": "/tech-news/2025-11-07/samsung-mobile-flaw-exploited-as-zero-day-to-deplo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak Elon Musk utrácí své peníze",
-      "description": "Elon Musk, aktuálně nejbohatší člověk na světě, tvrdí, že navzdory svému majetku žije relativně skromně, zatímco významné prostředky směřuje do technologií, kosmických projektů a soukromých akvizic.",
-      "slug": "what-does-elon-musk-do-with-all-his-money-bbc",
-      "publishedAt": "2025-11-07T17:29:23+00:00",
-      "date": "2025-11-07 17:29:23",
-      "importance": 1,
-      "category": "byznys",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg",
-      "url": "/tech-news/2025-11-07/what-does-elon-musk-do-with-all-his-money-bbc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX",
-        "OpenAI",
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "YouTube blokuje načítání uživatelům s adblockem: problém, nebo další tlak na sledování reklam?",
-      "description": "Část uživatelů zaznamenala, že se jim YouTube přestává načítat při použití adblocku. Podle hlášení nejde o klasický výpadek služby, ale o další projev konfliktu mezi YouTube a nástroji pro blokování reklamy.",
-      "slug": "youtube-suddenly-stopped-loading-for-some-users-wi",
-      "publishedAt": "2025-11-07T16:40:00+00:00",
-      "date": "2025-11-07 16:40:00",
-      "importance": 3,
-      "category": "online reklama",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-07/youtube-suddenly-stopped-loading-for-some-users-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "YouTube",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI Sora zaplavuje sociální sítě násilnými videi generovanými AI",
-      "description": "Na platformách X a TikTok se objevují účty systematicky publikující AI generovaná videa znázorňující škrcení žen a dívek, což ukazuje selhání ochranných mechanismů generativních modelů a platforem při vymáhání vlastních zásad proti násilí.",
-      "slug": "openais-sora-2-floods-social-media-with-videos-of-",
-      "publishedAt": "2025-11-07T15:38:28+00:00",
-      "date": "2025-11-07 15:38:28",
-      "importance": 3,
-      "category": "ai etika",
-      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/11/image4.png",
-      "url": "/tech-news/2025-11-07/openais-sora-2-floods-social-media-with-videos-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "404media.co"
-      },
-      "companies": [
-        "OpenAI",
-        "TikTok",
-        "Apple",
-        "Google",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Porsche představilo unikátní 911 GT3 \"Ocelot\" z programu Sonderwunsch",
-      "description": "Porsche v rámci programu Sonderwunsch představuje jedinečný vůz 911 GT3 \"Ocelot\", který designem odkazuje na přírodu Amazonie a ukazuje možnosti hluboké individualizace pro zákazníky. Projekt zdůrazňuje image značky a její schopnost nabízet limitované zakázkové vozy mimo běžnou sériovou produkci.",
-      "slug": "porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du",
-      "publishedAt": "2025-11-07T15:36:33+00:00",
-      "date": "2025-11-07 15:36:33",
-      "importance": 1,
-      "category": "automobilismus",
-      "urlToImage": "https://news.dupontregistry.com/wp-content/uploads/2025/11/327271_4992x3120.jpg",
-      "url": "/tech-news/2025-11-07/porsche-reveals-new-sonderwunsch-911-gt3-ocelot-du/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dupontregistry.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ice Universe vyvrací spekulace o fotoaparátu Samsung Galaxy S26 Ultra",
-      "description": "Dlouhodobý leakster Ice Universe zpochybnil nedávné úniky o zásadních změnách fotoaparátu Samsung Galaxy S26 Ultra a zveřejnil specifikace, které potvrzují spíše evoluční než revoluční přístup Samsungu.",
-      "slug": "samsung-galaxy-s26-ultras-camera-rumor-debunked-ic",
-      "publishedAt": "2025-11-07T14:28:40+00:00",
-      "date": "2025-11-07 14:28:40",
-      "importance": 2,
-      "category": "smartphony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175562-wide-two_1200/Samsung-Galaxy-S26-Ultras-camera-rumor-debunked-Ice-Universe-sets-the-record-straight.jpg",
-      "url": "/tech-news/2025-11-07/samsung-galaxy-s26-ultras-camera-rumor-debunked-ic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Windows 11 verze 26H1: Speciální vydání pro další generaci čipů Snapdragon X2 a NVIDIA N1X",
-      "description": "Microsoft připravuje verzi Windows 11 26H1 založenou na nové platformě „Bromine“, určenou primárně pro zařízení s nadcházejícími čipy Snapdragon X2 a NVIDIA N1X v první polovině roku 2026. Nepůjde o běžnou aktualizaci pro stávající počítače, ale o systém optimalizovaný pro novou generaci hardwaru.",
-      "slug": "windows-11-version-26h1-everything-we-know-so-far-",
-      "publishedAt": "2025-11-07T13:16:13+00:00",
-      "date": "2025-11-07 13:16:13",
-      "importance": 3,
-      "category": "software",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg",
-      "url": "/tech-news/2025-11-07/windows-11-version-26h1-everything-we-know-so-far/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Chcete méně na displejích závislé děti? Začněte nastavením vlastních digitálních hranic",
-      "description": "Článek ukazuje, že klíč k zdravému vztahu dětí k technologiím není jen v omezení jejich času na obrazovce, ale hlavně v tom, jak digitální návyky modelují samotní rodiče.",
-      "slug": "want-less-screen-obsessed-kids-set-better-tech-bou",
-      "publishedAt": "2025-11-07T10:00:00+00:00",
-      "date": "2025-11-07 10:00:00",
-      "importance": 3,
-      "category": "digitální rodičovstv",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+1123/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F4b%2F46232ca44d00b76e646f9d83e83a%2Flk-parents-screen-time-phone-use-drowning-mental-health-high-res-pool.jpg",
-      "url": "/tech-news/2025-11-07/want-less-screen-obsessed-kids-set-better-tech-bou/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "NPR"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zákeřné VS Code rozšíření generované pomocí AI obsahovalo vestavěné ransomware funkce",
-      "description": "Útočníci zneužili důvěru v otevřený software a využili AI k tvorbě škodlivého rozšíření pro VS Code a falešných balíčků v repozitáři npm, které mohou vést k ransomware útokům a kompromitaci vývojářských prostředí.",
-      "slug": "vibe-coded-malicious-vs-code-extension-found-with-",
-      "publishedAt": "2025-11-07T06:48:00+00:00",
-      "date": "2025-11-07 06:48:00",
-      "importance": 3,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s790-rw-e365/vide-code-ransomware.jpg",
-      "url": "/tech-news/2025-11-07/vibe-coded-malicious-vs-code-extension-found-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
       "people": []
     }
   ]

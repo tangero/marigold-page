@@ -8,6 +8,15 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- **Diagnostic Dashboard** (`scripts/tech_news_diagnostic_dashboard.py`) - komplexní monitoring tech-news pipeline
+  - Rejection analysis s breakdown důvodů zamítnutí (content_filter vs low_importance)
+  - Sample zamítnutých článků s jejich skóre a důvody
+  - LLM cost metriky (daily/weekly breakdown podle operací)
+  - Freshness check s alerts pro staré články
+  - Success rate trend za 7 dní s grafem
+  - Importance distribution pro analýzu kvality
+  - Automated recommendations na základě detekovaných problémů
+  - JSON output do `_data/tech_news_diagnostic.json`
 - Archivní stránka `/tech-news/archiv/` s přehledem článků po měsících a dnech
 - Zdravotní monitoring systém pro tech-news (`scripts/tech_news_health_check.py`)
 - JSON endpoint `/health-check/` pro Uptimerobot monitoring
@@ -30,6 +39,18 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Metriky: počty článků, LLM náklady, tokeny, časy zpracování, error rate, skip reasons
 
 ### Fixed
+- **NewsAPI freshness** - přechod z `/v2/top-headlines` na `/v2/everything` endpoint
+  - Problém: top-headlines vracel články staré 48-72h, žádné dnešní články
+  - Řešení: `/v2/everything` s `from` parametrem pro poslední 48h a `sortBy: publishedAt`
+  - Zvýšen `pageSize` z 40 → 100 článků pro větší výběr
+  - Přidána freshness validace s logging stáří článků
+  - Očekávaný dopad: Article age 48-72h → <24h (67% rychlejší)
+- **LLM cost tracking** - přidán debug logging a fallback approximation
+  - Problém: `llm_costs.db` měla 0 záznamů, nebyla viditelnost LLM nákladů
+  - Přidán debug logging pro detekci chybějících `usage` dat z OpenRouter API
+  - Fallback aproximace tokenů pomocí heuristiky (~4 znaky = 1 token)
+  - Enhanced logging - vždy logovat API calls i když chybí přesná cost data
+  - Warning v logu pokud OpenRouter response nemá `usage` klíč
 - Permalinky v `_layouts/tech_news_day.html` - články nyní vedou na interní stránky `/tech-news/YYYY-MM-DD/slug/` místo externích URL
 - Permalinky v `_pages/tech-news-archiv.html` - odkazy vedou na interní stránky článků
 - LLM model aktualizován z `openrouter/polaris-alpha` na `qwen/qwen3-max` ve všech tech-news skriptech:
@@ -43,6 +64,13 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Trailing dash v URL na titulní stránce (Tech News sekce) - odstranění trailing dashe ze slugu v `index.html`
 
 ### Changed
+- **Filtering thresholds** - rozšířený tech whitelist v content filteru
+  - Problém: 76.5% článků filtrováno jako hry/sport (příliš agresivní)
+  - Rozšířen whitelist tech indicators z 9 → 34 položek
+  - Nové kategorie: AI/ML v gamingu, Cloud gaming tech, Hardware/GPU, VR/AR technology
+  - Gaming platforms (Steam Deck, ROG Ally), Game engines (Unreal 5), Performance optimization
+  - Tech-relevant gaming články nyní ponechány místo zamítnutí
+  - Očekávaný dopad: Snížení false positive rejections z 76% → ~40%
 - **Přepracován systém hodnocení důležitosti článků (importance 1-5)** v `scripts/generate_tech_news_newsapi.py`:
   - **LLM prompt** - rozšířena kritéria s jasným zaměřením na AI, robotiku, Apple, Tesla, Elon Musk, Sam Altman (importance 4-5)
   - **Nízká priorita** (2) pro čínské telefony (OnePlus, Xiaomi, Huawei), rutinní Android/Windows updaty, spekulace

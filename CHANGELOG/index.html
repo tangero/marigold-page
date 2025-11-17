@@ -218,6 +218,18 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="added">Added</h3>
 <ul>
+  <li><strong>Diagnostic Dashboard</strong> (<code class="language-plaintext highlighter-rouge">scripts/tech_news_diagnostic_dashboard.py</code>) - komplexní monitoring tech-news pipeline
+    <ul>
+      <li>Rejection analysis s breakdown důvodů zamítnutí (content_filter vs low_importance)</li>
+      <li>Sample zamítnutých článků s jejich skóre a důvody</li>
+      <li>LLM cost metriky (daily/weekly breakdown podle operací)</li>
+      <li>Freshness check s alerts pro staré články</li>
+      <li>Success rate trend za 7 dní s grafem</li>
+      <li>Importance distribution pro analýzu kvality</li>
+      <li>Automated recommendations na základě detekovaných problémů</li>
+      <li>JSON output do <code class="language-plaintext highlighter-rouge">_data/tech_news_diagnostic.json</code></li>
+    </ul>
+  </li>
   <li>Archivní stránka <code class="language-plaintext highlighter-rouge">/tech-news/archiv/</code> s přehledem článků po měsících a dnech</li>
   <li>Zdravotní monitoring systém pro tech-news (<code class="language-plaintext highlighter-rouge">scripts/tech_news_health_check.py</code>)</li>
   <li>JSON endpoint <code class="language-plaintext highlighter-rouge">/health-check/</code> pro Uptimerobot monitoring</li>
@@ -248,6 +260,24 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="fixed">Fixed</h3>
 <ul>
+  <li><strong>NewsAPI freshness</strong> - přechod z <code class="language-plaintext highlighter-rouge">/v2/top-headlines</code> na <code class="language-plaintext highlighter-rouge">/v2/everything</code> endpoint
+    <ul>
+      <li>Problém: top-headlines vracel články staré 48-72h, žádné dnešní články</li>
+      <li>Řešení: <code class="language-plaintext highlighter-rouge">/v2/everything</code> s <code class="language-plaintext highlighter-rouge">from</code> parametrem pro poslední 48h a <code class="language-plaintext highlighter-rouge">sortBy: publishedAt</code></li>
+      <li>Zvýšen <code class="language-plaintext highlighter-rouge">pageSize</code> z 40 → 100 článků pro větší výběr</li>
+      <li>Přidána freshness validace s logging stáří článků</li>
+      <li>Očekávaný dopad: Article age 48-72h → &lt;24h (67% rychlejší)</li>
+    </ul>
+  </li>
+  <li><strong>LLM cost tracking</strong> - přidán debug logging a fallback approximation
+    <ul>
+      <li>Problém: <code class="language-plaintext highlighter-rouge">llm_costs.db</code> měla 0 záznamů, nebyla viditelnost LLM nákladů</li>
+      <li>Přidán debug logging pro detekci chybějících <code class="language-plaintext highlighter-rouge">usage</code> dat z OpenRouter API</li>
+      <li>Fallback aproximace tokenů pomocí heuristiky (~4 znaky = 1 token)</li>
+      <li>Enhanced logging - vždy logovat API calls i když chybí přesná cost data</li>
+      <li>Warning v logu pokud OpenRouter response nemá <code class="language-plaintext highlighter-rouge">usage</code> klíč</li>
+    </ul>
+  </li>
   <li>Permalinky v <code class="language-plaintext highlighter-rouge">_layouts/tech_news_day.html</code> - články nyní vedou na interní stránky <code class="language-plaintext highlighter-rouge">/tech-news/YYYY-MM-DD/slug/</code> místo externích URL</li>
   <li>Permalinky v <code class="language-plaintext highlighter-rouge">_pages/tech-news-archiv.html</code> - odkazy vedou na interní stránky článků</li>
   <li>LLM model aktualizován z <code class="language-plaintext highlighter-rouge">openrouter/polaris-alpha</code> na <code class="language-plaintext highlighter-rouge">qwen/qwen3-max</code> ve všech tech-news skriptech:
@@ -269,6 +299,16 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="changed">Changed</h3>
 <ul>
+  <li><strong>Filtering thresholds</strong> - rozšířený tech whitelist v content filteru
+    <ul>
+      <li>Problém: 76.5% článků filtrováno jako hry/sport (příliš agresivní)</li>
+      <li>Rozšířen whitelist tech indicators z 9 → 34 položek</li>
+      <li>Nové kategorie: AI/ML v gamingu, Cloud gaming tech, Hardware/GPU, VR/AR technology</li>
+      <li>Gaming platforms (Steam Deck, ROG Ally), Game engines (Unreal 5), Performance optimization</li>
+      <li>Tech-relevant gaming články nyní ponechány místo zamítnutí</li>
+      <li>Očekávaný dopad: Snížení false positive rejections z 76% → ~40%</li>
+    </ul>
+  </li>
   <li><strong>Přepracován systém hodnocení důležitosti článků (importance 1-5)</strong> v <code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code>:
     <ul>
       <li><strong>LLM prompt</strong> - rozšířena kritéria s jasným zaměřením na AI, robotiku, Apple, Tesla, Elon Musk, Sam Altman (importance 4-5)</li>

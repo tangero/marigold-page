@@ -1,0 +1,1480 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tech News Testing Strategy &amp; Diagnostic Report | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Tech News Testing Strategy &amp; Diagnostic Report" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/docs/TECH_NEWS_TESTING_STRATEGY/" />
+<meta property="og:url" content="https://www.marigold.cz/docs/TECH_NEWS_TESTING_STRATEGY/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tech News Testing Strategy &amp; Diagnostic Report" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Tech News Testing Strategy &amp; Diagnostic Report","url":"https://www.marigold.cz/docs/TECH_NEWS_TESTING_STRATEGY/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Tech News Testing Strategy &amp; Diagnostic Report" />
+    <meta property="twitter:title" content="Tech News Testing Strategy &amp; Diagnostic Report" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/docs/TECH_NEWS_TESTING_STRATEGY/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Tech News Testing Strategy &amp; Diagnostic Report</h1>
+
+  <div class="entry">
+    <h1 id="tech-news-testing-strategy--diagnostic-report">Tech News Testing Strategy &amp; Diagnostic Report</h1>
+
+<p><strong>Datum:</strong> 2025-11-17
+<strong>Autor:</strong> Test Engineer Agent
+<strong>Status:</strong> Production Analysis &amp; Recommendations</p>
+
+<hr />
+
+<h2 id="executive-summary">Executive Summary</h2>
+
+<p>Provedl jsem kompletní analýzu tech-news systému na Marigold.cz a identifikoval kritické problémy:</p>
+
+<h3 id="zjištěné-problémy-critical">Zjištěné Problémy (CRITICAL)</h3>
+
+<ol>
+  <li><strong>NewsAPI vrací staré články</strong> - Všechny fetch dnes (4 runy) stáhly články pouze z 15-16.11 (před 2-3 dny)</li>
+  <li><strong>Agresivní filtrování</strong> - 60% článků filtrováno jako games/sport, 22.5% jako low importance → pouze 17.5% success rate</li>
+  <li><strong>LLM cost tracking nefunguje</strong> - <code class="language-plaintext highlighter-rouge">llm_costs.db</code> má 0 záznamů dnes, přestože běželo 16+ LLM calls</li>
+  <li><strong>Health-status chybí informace</strong> - Není vidět breakdown zamítnutí, sample articles, LLM náklady</li>
+</ol>
+
+<h3 id="vytvořené-deliverables">Vytvořené Deliverables</h3>
+
+<p>✅ <strong>Test Suite:</strong> <code class="language-plaintext highlighter-rouge">/tests/test_tech_news_validation.py</code> (600+ řádků comprehensive tests)
+✅ <strong>Diagnostic Dashboard:</strong> <code class="language-plaintext highlighter-rouge">/scripts/tech_news_diagnostic_dashboard.py</code> (monitoring &amp; analytics)
+✅ <strong>NewsAPI Fix:</strong> <code class="language-plaintext highlighter-rouge">/scripts/fix_newsapi_freshness.py</code> (řešení stáří článků)
+✅ <strong>Documentation:</strong> Tento dokument</p>
+
+<hr />
+
+<h2 id="1-testovací-strategie">1. Testovací Strategie</h2>
+
+<h3 id="11-test-pyramid-architecture">1.1 Test Pyramid Architecture</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>        /\
+       /  \  E2E Tests (5%)
+      /----\  Integration Tests (15%)
+     /------\  Unit Tests (80%)
+    /--------\
+</code></pre></div></div>
+
+<h4 id="unit-tests-80">Unit Tests (80%)</h4>
+<ul>
+  <li><strong>Importance scoring validation</strong> - Edge cases pro importance 1-5</li>
+  <li><strong>Content filtering accuracy</strong> - False positives/negatives detection</li>
+  <li><strong>LLM cost calculation</strong> - Price model validation</li>
+  <li><strong>Date parsing</strong> - Freshness validation logic</li>
+</ul>
+
+<h4 id="integration-tests-15">Integration Tests (15%)</h4>
+<ul>
+  <li><strong>Processing pipeline flow</strong> - API → LLM → Storage</li>
+  <li><strong>Database integrity</strong> - SQLite writes, indexes, queries</li>
+  <li><strong>Logger integration</strong> - ProcessingLogger → metrics tracking</li>
+</ul>
+
+<h4 id="e2e-tests-5">E2E Tests (5%)</h4>
+<ul>
+  <li><strong>Full pipeline run</strong> - NewsAPI fetch → GitHub commit</li>
+  <li><strong>Health check monitoring</strong> - Alert thresholds validation</li>
+  <li><strong>Dashboard rendering</strong> - JSON data → HTML visualization</li>
+</ul>
+
+<h3 id="12-test-coverage-targets">1.2 Test Coverage Targets</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Current</th>
+      <th>Target</th>
+      <th>Priority</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Importance scoring</td>
+      <td>0%</td>
+      <td>90%</td>
+      <td>HIGH</td>
+    </tr>
+    <tr>
+      <td>Content filtering</td>
+      <td>0%</td>
+      <td>85%</td>
+      <td>HIGH</td>
+    </tr>
+    <tr>
+      <td>LLM cost tracking</td>
+      <td>0%</td>
+      <td>95%</td>
+      <td>CRITICAL</td>
+    </tr>
+    <tr>
+      <td>Health checks</td>
+      <td>40%</td>
+      <td>90%</td>
+      <td>MEDIUM</td>
+    </tr>
+    <tr>
+      <td>Processing logger</td>
+      <td>50%</td>
+      <td>85%</td>
+      <td>MEDIUM</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="13-test-suite-overview">1.3 Test Suite Overview</h3>
+
+<p>Soubor: <code class="language-plaintext highlighter-rouge">/tests/test_tech_news_validation.py</code></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">TestImportanceScoring</span><span class="p">:</span>
+    <span class="s">"""Validates importance 1-5 scoring accuracy"""</span>
+    <span class="o">-</span> <span class="n">test_importance_5_breakthrough_ai</span><span class="p">()</span>  <span class="c1"># AGI, quantum, major security
+</span>    <span class="o">-</span> <span class="n">test_importance_4_openai_release</span><span class="p">()</span>   <span class="c1"># GPT releases, Tesla FSD
+</span>    <span class="o">-</span> <span class="n">test_importance_3_standard_tech_news</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_importance_2_chinese_phone</span><span class="p">()</span>    <span class="c1"># OnePlus, Xiaomi
+</span>    <span class="o">-</span> <span class="n">test_importance_1_clickbait</span><span class="p">()</span>        <span class="c1"># Marketing, deals
+</span>    <span class="c1"># + 12 more edge cases
+</span>
+<span class="k">class</span> <span class="nc">TestContentFiltering</span><span class="p">:</span>
+    <span class="s">"""Validates content filter accuracy"""</span>
+    <span class="o">-</span> <span class="n">test_filter_gaming_console</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_filter_video_game_review</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_filter_sports_news</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_allow_ai_in_gaming_technology</span><span class="p">()</span>  <span class="c1"># Should NOT filter
+</span>    <span class="o">-</span> <span class="n">test_allow_gpu_for_gaming</span><span class="p">()</span>           <span class="c1"># Should NOT filter
+</span>    <span class="c1"># + 8 more scenarios
+</span>
+<span class="k">class</span> <span class="nc">TestLLMCostTracking</span><span class="p">:</span>
+    <span class="s">"""Validates LLM cost tracking integrity"""</span>
+    <span class="o">-</span> <span class="n">test_cost_calculation_claude_sonnet</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_cost_calculation_qwen3_max</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_log_call_stores_data</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_daily_summary_aggregation</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_track_llm_call_wrapper_integration</span><span class="p">()</span>
+
+<span class="k">class</span> <span class="nc">TestNewsAPIFreshness</span><span class="p">:</span>
+    <span class="s">"""Validates article freshness detection"""</span>
+    <span class="o">-</span> <span class="n">test_detect_stale_articles</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_newsapi_date_parameter_suggestion</span><span class="p">()</span>
+
+<span class="k">class</span> <span class="nc">TestHealthCheckThresholds</span><span class="p">:</span>
+    <span class="s">"""Validates health check alert thresholds"""</span>
+    <span class="o">-</span> <span class="n">test_critical_alert_no_articles_24h</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_warning_alert_low_czech_ratio</span><span class="p">()</span>
+
+<span class="k">class</span> <span class="nc">TestProcessingLoggerIntegration</span><span class="p">:</span>
+    <span class="s">"""Validates processing logger data flow"""</span>
+    <span class="o">-</span> <span class="n">test_processing_logger_tracks_llm_tokens</span><span class="p">()</span>
+    <span class="o">-</span> <span class="n">test_filtering_breakdown_accuracy</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><strong>Spuštění testů:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Všechny testy</span>
+pytest tests/test_tech_news_validation.py <span class="nt">-v</span>
+
+<span class="c"># Pouze unit testy (rychlé)</span>
+pytest tests/test_tech_news_validation.py <span class="nt">-v</span> <span class="nt">-m</span> unit
+
+<span class="c"># Pouze integration testy</span>
+pytest tests/test_tech_news_validation.py <span class="nt">-v</span> <span class="nt">-m</span> integration
+
+<span class="c"># S coverage reportem</span>
+pytest tests/test_tech_news_validation.py <span class="nt">--cov</span><span class="o">=</span>scripts <span class="nt">--cov-report</span><span class="o">=</span>html
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="2-diagnostic-dashboard">2. Diagnostic Dashboard</h2>
+
+<h3 id="21-features">2.1 Features</h3>
+
+<p>Soubor: <code class="language-plaintext highlighter-rouge">/scripts/tech_news_diagnostic_dashboard.py</code></p>
+
+<p><strong>Generuje:</strong></p>
+<ol>
+  <li><strong>Rejection Analysis</strong> - Breakdown důvodů zamítnutí (content_filter vs low_importance)</li>
+  <li><strong>Sample Rejected Articles</strong> - Top 20 zamítnutých článků s důvody</li>
+  <li><strong>LLM Cost Metrics</strong> - Daily/weekly breakdown podle operací</li>
+  <li><strong>Freshness Check</strong> - Detekce stáří článků, alert pokud &gt; 6h</li>
+  <li><strong>Success Rate Trend</strong> - 7denní trend saved/fetched ratio</li>
+  <li><strong>Importance Distribution</strong> - Histogram importance 1-5</li>
+  <li><strong>Recommendations</strong> - Automatická doporučení na základě analýzy</li>
+</ol>
+
+<p><strong>Použití:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Vygenerovat diagnostic report</span>
+python3 scripts/tech_news_diagnostic_dashboard.py <span class="nt">--output</span> _data/tech_news_diagnostic.json
+
+<span class="c"># Pouze summary do konzole</span>
+python3 scripts/tech_news_diagnostic_dashboard.py <span class="nt">--summary-only</span>
+</code></pre></div></div>
+
+<p><strong>Output:</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>TECH NEWS DIAGNOSTIC DASHBOARD
+======================================================================
+
+🕐 FRESHNESS: WARNING
+  Latest article age: 48.3h
+  Articles in last 4h: 0
+  ⚠️ Alert: Latest article is 48.3h old (&gt;6h); No articles in last 4h
+
+📊 SUCCESS RATE: 17.5% (trend: declining)
+
+⏭️ REJECTIONS (24h): 33 total
+  content_filter: 24 (72.7%)
+  low_importance: 9 (27.3%)
+
+  Sample rejected articles:
+    [content_filter] Multiple Switch Games Get Switch 2 Compatibility Fixes...
+    [content_filter] OnePlus 15 vs. Samsung Galaxy S25 Ultra...
+    [low_importance] Apple Watch Series 10 Gets Massive $150 Discounts... (importance: 2)
+
+💰 LLM COSTS:
+  Today: $0.0000 (0 calls, 0 tokens)  &lt;-- PROBLÉM!
+  Last 7d: $0.0000 (0 calls)
+
+  By operation (7d):
+    (no data)
+
+⭐ IMPORTANCE DISTRIBUTION (7d):
+  5: 1 (4.0%)
+  4: 1 (4.0%)
+  3: 23 (92.0%)
+  Average: 3.0
+
+🔧 RECOMMENDATIONS: 3
+
+  [CRITICAL] freshness
+    Issue: Latest article is 48.3h old (&gt;24h); No articles in last 4h
+    Fix: Použít NewsAPI /v2/everything s parametrem "from" pro poslední 24h.
+         Přidat "sortBy=publishedAt".
+    Action: Update fetch_newsapi_articles() to use /v2/everything with from parameter
+
+  [HIGH] monitoring
+    Issue: LLM cost tracking nefunguje - $0 náklady při aktivních voláních
+    Fix: Ověřit, že track_llm_call() wrapper správně extrahuje usage data
+         z OpenRouter response.
+    Action: Debug llm_cost_tracker.py and track_llm_call() function
+
+  [MEDIUM] filtering
+    Issue: 73% článků filtrováno jako hry/sport/zábava
+    Fix: Zvážit použití jiného NewsAPI query (místo category=technology)
+         nebo přidat více zdrojů.
+    Action: Review NewsAPI sources or use /v2/everything with custom query
+
+======================================================================
+</code></pre></div></div>
+
+<h3 id="22-integration-do-health-status">2.2 Integration do Health-Status</h3>
+
+<p>Dashboard je dostupný jako JSON endpoint:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://marigold.cz/_data/tech_news_diagnostic.json
+</code></pre></div></div>
+
+<p>Rozšířená health-status stránka (<code class="language-plaintext highlighter-rouge">/health-status/</code>) zobrazuje:</p>
+<ul>
+  <li>Overall status badge</li>
+  <li>Key metrics (24h)</li>
+  <li>Rejection breakdown s grafem</li>
+  <li>Sample zamítnutých článků</li>
+  <li>LLM cost metriky</li>
+  <li>Freshness alerts</li>
+  <li>Success rate trend graf</li>
+  <li>Importance distribution histogram</li>
+  <li>Recommendations panel</li>
+</ul>
+
+<hr />
+
+<h2 id="3-newsapi-freshness-fix">3. NewsAPI Freshness Fix</h2>
+
+<h3 id="31-problém">3.1 Problém</h3>
+
+<p><strong>Současný stav:</strong></p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">url</span> <span class="o">=</span> <span class="s">"https://newsapi.org/v2/top-headlines"</span>
+<span class="n">params</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">'category'</span><span class="p">:</span> <span class="s">'technology'</span><span class="p">,</span>
+    <span class="s">'apiKey'</span><span class="p">:</span> <span class="bp">self</span><span class="p">.</span><span class="n">news_api_key</span><span class="p">,</span>
+    <span class="s">'pageSize'</span><span class="p">:</span> <span class="mi">40</span><span class="p">,</span>
+    <span class="s">'language'</span><span class="p">:</span> <span class="s">'en'</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>Výsledek:</strong> Články staré 48-72h (z 15-16.11 místo 17.11)</p>
+
+<h3 id="32-řešení">3.2 Řešení</h3>
+
+<p>Soubor: <code class="language-plaintext highlighter-rouge">/scripts/fix_newsapi_freshness.py</code></p>
+
+<p><strong>Navržený fix:</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># OPTION 1: /v2/everything s time range
+</span><span class="n">url</span> <span class="o">=</span> <span class="s">"https://newsapi.org/v2/everything"</span>
+<span class="n">params</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="s">'q'</span><span class="p">:</span> <span class="s">'(AI OR OpenAI OR Tesla OR Apple OR Google) AND technology'</span><span class="p">,</span>
+    <span class="s">'from'</span><span class="p">:</span> <span class="p">(</span><span class="n">datetime</span><span class="p">.</span><span class="n">now</span><span class="p">(</span><span class="n">timezone</span><span class="p">.</span><span class="n">utc</span><span class="p">)</span> <span class="o">-</span> <span class="n">timedelta</span><span class="p">(</span><span class="n">hours</span><span class="o">=</span><span class="mi">24</span><span class="p">)).</span><span class="n">isoformat</span><span class="p">(),</span>
+    <span class="s">'to'</span><span class="p">:</span> <span class="n">datetime</span><span class="p">.</span><span class="n">now</span><span class="p">(</span><span class="n">timezone</span><span class="p">.</span><span class="n">utc</span><span class="p">).</span><span class="n">isoformat</span><span class="p">(),</span>
+    <span class="s">'language'</span><span class="p">:</span> <span class="s">'en'</span><span class="p">,</span>
+    <span class="s">'sortBy'</span><span class="p">:</span> <span class="s">'publishedAt'</span><span class="p">,</span>  <span class="c1"># KLÍČOVÉ!
+</span>    <span class="s">'pageSize'</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>
+    <span class="s">'apiKey'</span><span class="p">:</span> <span class="bp">self</span><span class="p">.</span><span class="n">news_api_key</span><span class="p">,</span>
+    <span class="s">'domains'</span><span class="p">:</span> <span class="s">'techcrunch.com,theverge.com,arstechnica.com,wired.com'</span>  <span class="c1"># Optional quality filter
+</span><span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>NEBO:</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># OPTION 2: Hybrid approach
+</span><span class="k">def</span> <span class="nf">fetch_newsapi_articles_hybrid</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="c1"># 1. Zkusit top-headlines
+</span>    <span class="n">articles</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">_fetch_top_headlines</span><span class="p">()</span>
+
+    <span class="c1"># 2. Zkontrolovat freshness nejnovějšího článku
+</span>    <span class="k">if</span> <span class="n">articles</span><span class="p">:</span>
+        <span class="n">newest_age</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">_calculate_newest_age</span><span class="p">(</span><span class="n">articles</span><span class="p">)</span>
+
+        <span class="c1"># 3. Pokud &gt; 6h, použít /v2/everything jako fallback
+</span>        <span class="k">if</span> <span class="n">newest_age</span> <span class="o">&gt;</span> <span class="mi">6</span><span class="p">:</span>
+            <span class="n">logger</span><span class="p">.</span><span class="n">warning</span><span class="p">(</span><span class="sa">f</span><span class="s">"Top-headlines stale (</span><span class="si">{</span><span class="n">newest_age</span><span class="si">:</span><span class="p">.</span><span class="mi">1</span><span class="n">f</span><span class="si">}</span><span class="s">h), using /everything"</span><span class="p">)</span>
+            <span class="n">articles</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">_fetch_everything</span><span class="p">(</span><span class="n">hours_back</span><span class="o">=</span><span class="mi">24</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">articles</span>
+</code></pre></div></div>
+
+<h3 id="33-implementace">3.3 Implementace</h3>
+
+<p><strong>Quick fix (5 minut):</strong></p>
+
+<ol>
+  <li>Otevřít <code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code></li>
+  <li>Najít metodu <code class="language-plaintext highlighter-rouge">fetch_newsapi_articles()</code> (řádek ~287)</li>
+  <li>Změnit:</li>
+</ol>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">fetch_newsapi_articles</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="s">"""Stáhne články z NewsAPI"""</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="bp">self</span><span class="p">.</span><span class="n">news_api_key</span><span class="p">:</span>
+        <span class="n">logger</span><span class="p">.</span><span class="n">error</span><span class="p">(</span><span class="s">"❌ NEWS_API_KEY není nastaven!"</span><span class="p">)</span>
+        <span class="k">return</span> <span class="p">[]</span>
+
+    <span class="c1"># ZMĚNA: Použít /v2/everything místo /v2/top-headlines
+</span>    <span class="n">url</span> <span class="o">=</span> <span class="s">"https://newsapi.org/v2/everything"</span>
+
+    <span class="c1"># ZMĚNA: Přidat time range a sortBy
+</span>    <span class="n">now</span> <span class="o">=</span> <span class="n">datetime</span><span class="p">.</span><span class="n">now</span><span class="p">(</span><span class="n">timezone</span><span class="p">.</span><span class="n">utc</span><span class="p">)</span>
+    <span class="n">from_time</span> <span class="o">=</span> <span class="n">now</span> <span class="o">-</span> <span class="n">timedelta</span><span class="p">(</span><span class="n">hours</span><span class="o">=</span><span class="mi">24</span><span class="p">)</span>
+
+    <span class="n">params</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="s">'q'</span><span class="p">:</span> <span class="s">'(AI OR "artificial intelligence" OR OpenAI OR Tesla OR SpaceX OR Apple OR Google OR Microsoft) AND technology'</span><span class="p">,</span>
+        <span class="s">'from'</span><span class="p">:</span> <span class="n">from_time</span><span class="p">.</span><span class="n">isoformat</span><span class="p">(),</span>
+        <span class="s">'to'</span><span class="p">:</span> <span class="n">now</span><span class="p">.</span><span class="n">isoformat</span><span class="p">(),</span>
+        <span class="s">'language'</span><span class="p">:</span> <span class="s">'en'</span><span class="p">,</span>
+        <span class="s">'sortBy'</span><span class="p">:</span> <span class="s">'publishedAt'</span><span class="p">,</span>  <span class="c1"># NOVÉ!
+</span>        <span class="s">'pageSize'</span><span class="p">:</span> <span class="mi">100</span><span class="p">,</span>  <span class="c1"># Zvýšit na 100
+</span>        <span class="s">'apiKey'</span><span class="p">:</span> <span class="bp">self</span><span class="p">.</span><span class="n">news_api_key</span>
+    <span class="p">}</span>
+
+    <span class="c1"># ... zbytek kódu stejný ...
+</span></code></pre></div></div>
+
+<p><strong>Testing:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Otestovat new fetch locally</span>
+python3 scripts/fix_newsapi_freshness.py
+
+<span class="c"># Mělo by zobrazit:</span>
+<span class="c"># Fetched X articles</span>
+<span class="c"># Freshness stats:</span>
+<span class="c">#   Newest: 0.5h</span>
+<span class="c">#   Oldest: 23.8h</span>
+<span class="c">#   Average: 12.3h</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="4-llm-cost-tracking-fix">4. LLM Cost Tracking Fix</h2>
+
+<h3 id="41-problém">4.1 Problém</h3>
+
+<p><strong>Současný stav:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>sqlite3 _data/llm_costs.db <span class="s2">"SELECT COUNT(*) FROM api_calls WHERE date(timestamp) = '2025-11-17'"</span>
+0  <span class="c"># &lt;-- ŽÁDNÉ ZÁZNAMY!</span>
+</code></pre></div></div>
+
+<p>Přitom:</p>
+<ul>
+  <li>ProcessingLogger ukazuje <code class="language-plaintext highlighter-rouge">llm_processed: 16</code></li>
+  <li>Processing logs obsahují <code class="language-plaintext highlighter-rouge">total_llm_tokens: 0</code>, <code class="language-plaintext highlighter-rouge">total_llm_cost_usd: 0.0</code></li>
+</ul>
+
+<p><strong>Root cause:</strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">track_llm_call()</code> wrapper v <code class="language-plaintext highlighter-rouge">llm_cost_tracker.py</code> správně extrahuje usage data z response:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">usage</span> <span class="o">=</span> <span class="n">response_json</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'usage'</span><span class="p">,</span> <span class="p">{})</span>
+<span class="n">prompt_tokens</span> <span class="o">=</span> <span class="n">usage</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'prompt_tokens'</span><span class="p">)</span>
+<span class="n">completion_tokens</span> <span class="o">=</span> <span class="n">usage</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'completion_tokens'</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>ALE OpenRouter response možná <strong>nemá</strong> <code class="language-plaintext highlighter-rouge">usage</code> klíč v response!</p>
+
+<h3 id="42-debugging">4.2 Debugging</h3>
+
+<p><strong>Přidat debug logging do <code class="language-plaintext highlighter-rouge">llm_cost_tracker.py</code>:</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">track_llm_call</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="p">,</span> <span class="n">data</span><span class="p">,</span> <span class="n">operation</span><span class="p">,</span> <span class="p">...):</span>
+    <span class="c1"># ... existing code ...
+</span>
+    <span class="n">response_json</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">json</span><span class="p">()</span>
+
+    <span class="c1"># DEBUG: Logovat celý response
+</span>    <span class="n">logger</span><span class="p">.</span><span class="n">debug</span><span class="p">(</span><span class="sa">f</span><span class="s">"OpenRouter response keys: </span><span class="si">{</span><span class="n">response_json</span><span class="p">.</span><span class="n">keys</span><span class="p">()</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+    <span class="n">logger</span><span class="p">.</span><span class="n">debug</span><span class="p">(</span><span class="sa">f</span><span class="s">"OpenRouter response: </span><span class="si">{</span><span class="n">json</span><span class="p">.</span><span class="n">dumps</span><span class="p">(</span><span class="n">response_json</span><span class="p">,</span> <span class="n">indent</span><span class="o">=</span><span class="mi">2</span><span class="p">)[</span><span class="si">:</span><span class="mi">500</span><span class="p">]</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+
+    <span class="n">usage</span> <span class="o">=</span> <span class="n">response_json</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'usage'</span><span class="p">,</span> <span class="p">{})</span>
+
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">usage</span><span class="p">:</span>
+        <span class="n">logger</span><span class="p">.</span><span class="n">warning</span><span class="p">(</span><span class="sa">f</span><span class="s">"⚠️ No 'usage' in OpenRouter response! Keys: </span><span class="si">{</span><span class="n">response_json</span><span class="p">.</span><span class="n">keys</span><span class="p">()</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+
+    <span class="n">prompt_tokens</span> <span class="o">=</span> <span class="n">usage</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'prompt_tokens'</span><span class="p">)</span>
+    <span class="n">completion_tokens</span> <span class="o">=</span> <span class="n">usage</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'completion_tokens'</span><span class="p">)</span>
+
+    <span class="c1"># ... rest of code ...
+</span></code></pre></div></div>
+
+<p><strong>Možné příčiny:</strong></p>
+
+<ol>
+  <li><strong>OpenRouter response nemá <code class="language-plaintext highlighter-rouge">usage</code> klíč</strong>
+    <ul>
+      <li>Řešení: Parsovat z jiného místa v response</li>
+      <li>Nebo použít aproximaci podle model pricing</li>
+    </ul>
+  </li>
+  <li><strong><code class="language-plaintext highlighter-rouge">track_llm_call()</code> není volán správně</strong>
+    <ul>
+      <li>Řešení: Ověřit všechna volání v <code class="language-plaintext highlighter-rouge">generate_tech_news_newsapi.py</code></li>
+    </ul>
+  </li>
+  <li><strong>Databáze write selhává</strong>
+    <ul>
+      <li>Řešení: Přidat try/except s detailním logováním</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="43-recommended-fix">4.3 Recommended Fix</h3>
+
+<p><strong>Fallback cost estimation:</strong></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">track_llm_call</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="p">,</span> <span class="n">data</span><span class="p">,</span> <span class="n">operation</span><span class="p">,</span> <span class="p">...):</span>
+    <span class="c1"># ... existing code ...
+</span>
+    <span class="n">response_json</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">json</span><span class="p">()</span>
+    <span class="n">usage</span> <span class="o">=</span> <span class="n">response_json</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'usage'</span><span class="p">,</span> <span class="p">{})</span>
+
+    <span class="k">if</span> <span class="n">usage</span> <span class="ow">and</span> <span class="n">usage</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'prompt_tokens'</span><span class="p">):</span>
+        <span class="c1"># Preferovat skutečná usage data
+</span>        <span class="n">prompt_tokens</span> <span class="o">=</span> <span class="n">usage</span><span class="p">[</span><span class="s">'prompt_tokens'</span><span class="p">]</span>
+        <span class="n">completion_tokens</span> <span class="o">=</span> <span class="n">usage</span><span class="p">[</span><span class="s">'completion_tokens'</span><span class="p">]</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="c1"># FALLBACK: Aproximovat podle input/output délky
+</span>        <span class="n">logger</span><span class="p">.</span><span class="n">warning</span><span class="p">(</span><span class="s">"⚠️ No usage data, using approximation"</span><span class="p">)</span>
+
+        <span class="n">prompt_text</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">data</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'messages'</span><span class="p">,</span> <span class="p">[]))</span>
+        <span class="n">response_text</span> <span class="o">=</span> <span class="n">response_json</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">'choices'</span><span class="p">,</span> <span class="p">[{}])[</span><span class="mi">0</span><span class="p">].</span><span class="n">get</span><span class="p">(</span><span class="s">'message'</span><span class="p">,</span> <span class="p">{}).</span><span class="n">get</span><span class="p">(</span><span class="s">'content'</span><span class="p">,</span> <span class="s">''</span><span class="p">)</span>
+
+        <span class="c1"># Rough approximation: 4 chars ≈ 1 token
+</span>        <span class="n">prompt_tokens</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">prompt_text</span><span class="p">)</span> <span class="o">//</span> <span class="mi">4</span>
+        <span class="n">completion_tokens</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">response_text</span><span class="p">)</span> <span class="o">//</span> <span class="mi">4</span>
+
+        <span class="n">logger</span><span class="p">.</span><span class="n">info</span><span class="p">(</span><span class="sa">f</span><span class="s">"Approximated tokens: prompt=</span><span class="si">{</span><span class="n">prompt_tokens</span><span class="si">}</span><span class="s">, completion=</span><span class="si">{</span><span class="n">completion_tokens</span><span class="si">}</span><span class="s">"</span><span class="p">)</span>
+
+    <span class="c1"># ... rest of code ...
+</span></code></pre></div></div>
+
+<hr />
+
+<h2 id="5-recommended-actions-priority-order">5. Recommended Actions (Priority Order)</h2>
+
+<h3 id="critical-do-24h">CRITICAL (Do 24h)</h3>
+
+<ol>
+  <li>✅ <strong>Fix NewsAPI freshness</strong>
+    <ul>
+      <li>Implementovat <code class="language-plaintext highlighter-rouge">/v2/everything</code> s <code class="language-plaintext highlighter-rouge">from</code> parametrem</li>
+      <li>Deploy a testovat jeden run</li>
+      <li>Očekáváno: Články &lt; 4h staré</li>
+    </ul>
+  </li>
+  <li>✅ <strong>Debug LLM cost tracking</strong>
+    <ul>
+      <li>Přidat debug logging do <code class="language-plaintext highlighter-rouge">track_llm_call()</code></li>
+      <li>Spustit jeden test run</li>
+      <li>Ověřit, že usage data jsou v response</li>
+      <li>Implementovat fallback approximation pokud ne</li>
+    </ul>
+  </li>
+  <li>✅ <strong>Deploy diagnostic dashboard</strong>
+    <ul>
+      <li>Generate <code class="language-plaintext highlighter-rouge">tech_news_diagnostic.json</code></li>
+      <li>Přidat do GitHub Actions workflow</li>
+      <li>Verify na <code class="language-plaintext highlighter-rouge">/health-status/</code></li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="high-do-3-dní">HIGH (Do 3 dní)</h3>
+
+<ol>
+  <li><strong>Run test suite</strong>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">pytest tests/test_tech_news_validation.py -v</code></li>
+      <li>Fix failing tests</li>
+      <li>Achieve 80%+ coverage</li>
+    </ul>
+  </li>
+  <li><strong>Review filtering thresholds</strong>
+    <ul>
+      <li>72.7% content_filter je příliš agresivní</li>
+      <li>Zvážit relaxovat gaming filter pro tech context</li>
+      <li>Přidat whitelist pro “AI in gaming”, “GPU”, “cloud gaming”</li>
+    </ul>
+  </li>
+  <li><strong>Optimize importance scoring</strong>
+    <ul>
+      <li>92% importance 3 je monotónní</li>
+      <li>Revidovat importance 4 kritéria (možná příliš přísné)</li>
+      <li>Přidat více importance 5 keywords</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="medium-do-týdne">MEDIUM (Do týdne)</h3>
+
+<ol>
+  <li><strong>Setup Uptimerobot monitoring</strong>
+    <ul>
+      <li>Monitor <code class="language-plaintext highlighter-rouge">/health-check/</code> endpoint</li>
+      <li>Alert pokud <code class="language-plaintext highlighter-rouge">status != "OK"</code></li>
+      <li>Alert pokud <code class="language-plaintext highlighter-rouge">articles_24h &lt; 10</code></li>
+    </ul>
+  </li>
+  <li><strong>Create health-status dashboard auto-refresh</strong>
+    <ul>
+      <li>JavaScript auto-reload každých 5 minut</li>
+      <li>WebSocket real-time updates (optional)</li>
+    </ul>
+  </li>
+  <li><strong>Document testing process</strong>
+    <ul>
+      <li>Update <code class="language-plaintext highlighter-rouge">CLAUDE.md</code> s testing guidelines</li>
+      <li>Create <code class="language-plaintext highlighter-rouge">TESTING.md</code> pro QA workflow</li>
+      <li>Add GitHub PR checklist s test requirements</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="low-nice-to-have">LOW (Nice to have)</h3>
+
+<ol>
+  <li><strong>Performance testing</strong>
+    <ul>
+      <li>Benchmark LLM API response times</li>
+      <li>Optimize database queries</li>
+      <li>Cache frequently accessed data</li>
+    </ul>
+  </li>
+  <li><strong>E2E monitoring</strong>
+    <ul>
+      <li>Synthetics testing celého pipeline</li>
+      <li>Alerting na každý krok</li>
+      <li>Automated rollback při failures</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="6-test-execution-plan">6. Test Execution Plan</h2>
+
+<h3 id="61-cicd-integration">6.1 CI/CD Integration</h3>
+
+<p><strong><code class="language-plaintext highlighter-rouge">.github/workflows/tech-news-tests.yml</code>:</strong></p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">name</span><span class="pi">:</span> <span class="s">Tech News Tests</span>
+
+<span class="na">on</span><span class="pi">:</span>
+  <span class="na">push</span><span class="pi">:</span>
+    <span class="na">branches</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">main</span><span class="pi">,</span> <span class="nv">develop</span><span class="pi">]</span>
+  <span class="na">pull_request</span><span class="pi">:</span>
+    <span class="na">branches</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">main</span><span class="pi">]</span>
+  <span class="na">schedule</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">cron</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0</span><span class="nv"> </span><span class="s">*/6</span><span class="nv"> </span><span class="s">*</span><span class="nv"> </span><span class="s">*</span><span class="nv"> </span><span class="s">*'</span>  <span class="c1"># Every 6 hours</span>
+
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">test</span><span class="pi">:</span>
+    <span class="na">runs-on</span><span class="pi">:</span> <span class="s">ubuntu-latest</span>
+
+    <span class="na">steps</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/checkout@v4</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Set up Python</span>
+      <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/setup-python@v4</span>
+      <span class="na">with</span><span class="pi">:</span>
+        <span class="na">python-version</span><span class="pi">:</span> <span class="s1">'</span><span class="s">3.11'</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Install dependencies</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="pi">|</span>
+        <span class="s">pip install -r requirements.txt</span>
+        <span class="s">pip install pytest pytest-cov pytest-mock</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Run unit tests</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="s">pytest tests/test_tech_news_validation.py -v -m unit</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Run integration tests</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="s">pytest tests/test_tech_news_validation.py -v -m integration</span>
+      <span class="na">env</span><span class="pi">:</span>
+        <span class="na">NEWS_API_KEY</span><span class="pi">:</span> <span class="s">$</span>
+        <span class="na">OPENROUTER_API_KEY</span><span class="pi">:</span> <span class="s">$</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Generate coverage report</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="s">pytest tests/ --cov=scripts --cov-report=xml</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Upload coverage to Codecov</span>
+      <span class="na">uses</span><span class="pi">:</span> <span class="s">codecov/codecov-action@v3</span>
+      <span class="na">with</span><span class="pi">:</span>
+        <span class="na">file</span><span class="pi">:</span> <span class="s">./coverage.xml</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Generate diagnostic report</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="s">python3 scripts/tech_news_diagnostic_dashboard.py --output _data/tech_news_diagnostic.json</span>
+
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Commit diagnostic report</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="pi">|</span>
+        <span class="s">git config --local user.email "action@github.com"</span>
+        <span class="s">git config --local user.name "GitHub Action"</span>
+        <span class="s">git add _data/tech_news_diagnostic.json</span>
+        <span class="s">git commit -m "🤖 Update diagnostic report" || echo "No changes"</span>
+        <span class="s">git push || echo "No changes to push"</span>
+</code></pre></div></div>
+
+<h3 id="62-pre-commit-hooks">6.2 Pre-commit Hooks</h3>
+
+<p><strong><code class="language-plaintext highlighter-rouge">.pre-commit-config.yaml</code>:</strong></p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">repos</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">repo</span><span class="pi">:</span> <span class="s">local</span>
+    <span class="na">hooks</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">id</span><span class="pi">:</span> <span class="s">tech-news-tests</span>
+        <span class="na">name</span><span class="pi">:</span> <span class="s">Tech News Unit Tests</span>
+        <span class="na">entry</span><span class="pi">:</span> <span class="s">pytest tests/test_tech_news_validation.py -v -m unit</span>
+        <span class="na">language</span><span class="pi">:</span> <span class="s">system</span>
+        <span class="na">pass_filenames</span><span class="pi">:</span> <span class="no">false</span>
+        <span class="na">always_run</span><span class="pi">:</span> <span class="no">false</span>
+        <span class="na">files</span><span class="pi">:</span> <span class="s">^(scripts/|tests/)</span>
+
+      <span class="pi">-</span> <span class="na">id</span><span class="pi">:</span> <span class="s">importance-scoring-validation</span>
+        <span class="na">name</span><span class="pi">:</span> <span class="s">Validate Importance Scoring</span>
+        <span class="na">entry</span><span class="pi">:</span> <span class="s">python3 -c "from tests.test_tech_news_validation import TestImportanceScoring; TestImportanceScoring().test_importance_5_breakthrough_ai()"</span>
+        <span class="na">language</span><span class="pi">:</span> <span class="s">system</span>
+        <span class="na">pass_filenames</span><span class="pi">:</span> <span class="no">false</span>
+        <span class="na">files</span><span class="pi">:</span> <span class="s">^scripts/generate_tech_news_newsapi\.py$</span>
+</code></pre></div></div>
+
+<h3 id="63-manual-testing-checklist">6.3 Manual Testing Checklist</h3>
+
+<p><strong>Pre-deployment checklist:</strong></p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">-</span> [ ] All unit tests pass
+<span class="p">-</span> [ ] All integration tests pass
+<span class="p">-</span> [ ] Importance scoring validates correctly (sample 10 articles)
+<span class="p">-</span> [ ] Content filter accuracy &gt; 95% (manual review of 20 samples)
+<span class="p">-</span> [ ] LLM cost tracking records data to DB
+<span class="p">-</span> [ ] Health check runs without errors
+<span class="p">-</span> [ ] Diagnostic dashboard generates valid JSON
+<span class="p">-</span> [ ] NewsAPI returns fresh articles (&lt; 4h)
+<span class="p">-</span> [ ] Success rate &gt; 15% (saved/fetched)
+<span class="p">-</span> [ ] No CRITICAL alerts in health-status
+</code></pre></div></div>
+
+<p><strong>Post-deployment validation:</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Check health status</span>
+curl https://marigold.cz/health-check/ | jq <span class="s1">'.status'</span>
+<span class="c"># Expected: "OK"</span>
+
+<span class="c"># 2. Verify freshness</span>
+curl https://marigold.cz/health-check/ | jq <span class="s1">'.metrics.newest_article_age_hours'</span>
+<span class="c"># Expected: &lt; 4.0</span>
+
+<span class="c"># 3. Check LLM costs</span>
+sqlite3 _data/llm_costs.db <span class="s2">"SELECT COUNT(*), SUM(total_tokens), SUM(estimated_cost_usd) FROM api_calls WHERE date(timestamp) = date('now')"</span>
+<span class="c"># Expected: Non-zero values</span>
+
+<span class="c"># 4. Verify diagnostic dashboard</span>
+curl https://marigold.cz/_data/tech_news_diagnostic.json | jq <span class="s1">'.sections.recommendations | length'</span>
+<span class="c"># Expected: &lt; 3 recommendations</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="7-monitoring--alerting">7. Monitoring &amp; Alerting</h2>
+
+<h3 id="71-uptimerobot-configuration">7.1 Uptimerobot Configuration</h3>
+
+<p><strong>Monitor 1: Health Check</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Type: HTTP(s) - Keyword
+URL: https://marigold.cz/health-check/
+Keyword: "status": "OK"
+Interval: 5 minutes
+Alert: Keyword NOT found for 2 consecutive checks
+Notification: Email + Slack
+</code></pre></div></div>
+
+<p><strong>Monitor 2: Article Freshness</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Type: HTTP(s) - Keyword
+URL: https://marigold.cz/health-check/
+Keyword: "articles_24h": [1-9]
+Interval: 15 minutes
+Alert: Keyword NOT found (0 articles)
+Notification: Email
+</code></pre></div></div>
+
+<p><strong>Monitor 3: Success Rate</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Type: HTTP(s) - Custom Script
+URL: https://marigold.cz/_data/tech_news_diagnostic.json
+Script: Check if success_rate_trend.current_rate &gt; 10
+Interval: 1 hour
+Alert: Rate &lt; 10%
+Notification: Slack
+</code></pre></div></div>
+
+<h3 id="72-alert-escalation-matrix">7.2 Alert Escalation Matrix</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Severity</th>
+      <th>Condition</th>
+      <th>Response Time</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P0 (CRITICAL)</td>
+      <td>status = CRITICAL</td>
+      <td>15 min</td>
+      <td>Immediate investigation, rollback if needed</td>
+    </tr>
+    <tr>
+      <td>P1 (HIGH)</td>
+      <td>articles_24h = 0</td>
+      <td>1 hour</td>
+      <td>Check NewsAPI, verify GitHub Actions</td>
+    </tr>
+    <tr>
+      <td>P2 (MEDIUM)</td>
+      <td>success_rate &lt; 10%</td>
+      <td>4 hours</td>
+      <td>Review filters, adjust thresholds</td>
+    </tr>
+    <tr>
+      <td>P3 (LOW)</td>
+      <td>czech_ratio &lt; 85%</td>
+      <td>24 hours</td>
+      <td>Check LLM translations</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="73-incident-response-playbook">7.3 Incident Response Playbook</h3>
+
+<p><strong>Scenario 1: Zero Articles Published</strong></p>
+
+<ol>
+  <li>Check GitHub Actions logs: <code class="language-plaintext highlighter-rouge">https://github.com/USER/zastupitelstvo/actions</code></li>
+  <li>Verify NewsAPI status: <code class="language-plaintext highlighter-rouge">curl https://newsapi.org/v2/top-headlines?apiKey=XXX&amp;category=technology</code></li>
+  <li>Check OpenRouter API: <code class="language-plaintext highlighter-rouge">curl -H "Authorization: Bearer XXX" https://openrouter.ai/api/v1/models</code></li>
+  <li>Review processing logs: <code class="language-plaintext highlighter-rouge">tail -100 _data/processing_logs/$(date +%Y-%m-%d).jsonl</code></li>
+  <li>Manual trigger: <code class="language-plaintext highlighter-rouge">python3 scripts/generate_tech_news_newsapi.py</code></li>
+</ol>
+
+<p><strong>Scenario 2: LLM Costs = $0</strong></p>
+
+<ol>
+  <li>Check <code class="language-plaintext highlighter-rouge">llm_costs.db</code>: <code class="language-plaintext highlighter-rouge">sqlite3 _data/llm_costs.db "SELECT * FROM api_calls ORDER BY timestamp DESC LIMIT 10"</code></li>
+  <li>Review OpenRouter response format: Enable debug logging</li>
+  <li>Verify <code class="language-plaintext highlighter-rouge">track_llm_call()</code> is called: Add breakpoint/print statement</li>
+  <li>Fallback to approximation if needed</li>
+</ol>
+
+<p><strong>Scenario 3: All Articles Filtered</strong></p>
+
+<ol>
+  <li>Check content_filter ratio: <code class="language-plaintext highlighter-rouge">python3 scripts/tech_news_diagnostic_dashboard.py --summary-only</code></li>
+  <li>Review sample rejected: Identify false positives</li>
+  <li>Adjust filters in <code class="language-plaintext highlighter-rouge">should_skip_article()</code></li>
+  <li>Test with: <code class="language-plaintext highlighter-rouge">pytest tests/test_tech_news_validation.py::TestContentFiltering -v</code></li>
+</ol>
+
+<hr />
+
+<h2 id="8-metrics--kpis">8. Metrics &amp; KPIs</h2>
+
+<h3 id="81-pipeline-health-metrics">8.1 Pipeline Health Metrics</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Current</th>
+      <th>Target</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Articles fetched/day</td>
+      <td>156 (4×39)</td>
+      <td>150+</td>
+      <td>✅ OK</td>
+    </tr>
+    <tr>
+      <td>Success rate (saved/fetched)</td>
+      <td>17.5%</td>
+      <td>&gt;20%</td>
+      <td>⚠️ LOW</td>
+    </tr>
+    <tr>
+      <td>Article freshness (avg age)</td>
+      <td>48.3h</td>
+      <td>&lt;4h</td>
+      <td>🚨 CRITICAL</td>
+    </tr>
+    <tr>
+      <td>Czech translation ratio</td>
+      <td>100%</td>
+      <td>&gt;95%</td>
+      <td>✅ OK</td>
+    </tr>
+    <tr>
+      <td>LLM cost/article</td>
+      <td>$0.00</td>
+      <td>&lt;$0.05</td>
+      <td>🚨 BROKEN</td>
+    </tr>
+    <tr>
+      <td>Processing time</td>
+      <td>598s (10min)</td>
+      <td>&lt;600s</td>
+      <td>✅ OK</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="82-quality-metrics">8.2 Quality Metrics</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Current</th>
+      <th>Target</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Importance distribution (3+)</td>
+      <td>96%</td>
+      <td>&gt;80%</td>
+      <td>✅ OK</td>
+    </tr>
+    <tr>
+      <td>Content filter accuracy</td>
+      <td>72.7%</td>
+      <td>&lt;50%</td>
+      <td>⚠️ AGGRESSIVE</td>
+    </tr>
+    <tr>
+      <td>False positive rate</td>
+      <td>Unknown</td>
+      <td>&lt;10%</td>
+      <td>⚠️ NEEDS TEST</td>
+    </tr>
+    <tr>
+      <td>Front matter error rate</td>
+      <td>0%</td>
+      <td>&lt;5%</td>
+      <td>✅ OK</td>
+    </tr>
+    <tr>
+      <td>Health check uptime</td>
+      <td>Unknown</td>
+      <td>&gt;99%</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="83-business-metrics">8.3 Business Metrics</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Current</th>
+      <th>Target</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Daily tech news volume</td>
+      <td>25</td>
+      <td>30+</td>
+      <td>Increase by fixing filters</td>
+    </tr>
+    <tr>
+      <td>High-importance articles (4-5)</td>
+      <td>1-2/day</td>
+      <td>5+/day</td>
+      <td>Improve scoring</td>
+    </tr>
+    <tr>
+      <td>LLM cost/month</td>
+      <td>$0 (broken)</td>
+      <td>&lt;$50</td>
+      <td>Need to fix tracking</td>
+    </tr>
+    <tr>
+      <td>Reader engagement</td>
+      <td>Unknown</td>
+      <td>Track</td>
+      <td>Add analytics</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="9-future-improvements">9. Future Improvements</h2>
+
+<h3 id="91-short-term-1-3-měsíce">9.1 Short-term (1-3 měsíce)</h3>
+
+<ol>
+  <li><strong>Multi-source aggregation</strong>
+    <ul>
+      <li>Přidat RSS feeds z top tech sites</li>
+      <li>Scrape HackerNews, Reddit r/technology</li>
+      <li>Deduplikace napříč zdroji</li>
+    </ul>
+  </li>
+  <li><strong>Smarter importance scoring</strong>
+    <ul>
+      <li>ML model trained on historical data</li>
+      <li>User engagement feedback loop</li>
+      <li>A/B testing různých kritérií</li>
+    </ul>
+  </li>
+  <li><strong>Enhanced LLM pipeline</strong>
+    <ul>
+      <li>Prompt optimization pro kratší tokeny</li>
+      <li>Batch processing pro cost savings</li>
+      <li>Cache frequently translated terms</li>
+    </ul>
+  </li>
+  <li><strong>Real-time monitoring dashboard</strong>
+    <ul>
+      <li>WebSocket updates místo 5min refresh</li>
+      <li>Interactive charts (Chart.js)</li>
+      <li>Historical trend analysis</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="92-long-term-3-6-měsíců">9.2 Long-term (3-6 měsíců)</h3>
+
+<ol>
+  <li><strong>Recommendation engine</strong>
+    <ul>
+      <li>Personalizace podle user preferences</li>
+      <li>“Related articles” suggestions</li>
+      <li>Topic clustering</li>
+    </ul>
+  </li>
+  <li><strong>Quality scoring</strong>
+    <ul>
+      <li>Automatic quality assessment</li>
+      <li>Plagiarism detection</li>
+      <li>Fact-checking integration</li>
+    </ul>
+  </li>
+  <li><strong>Performance optimization</strong>
+    <ul>
+      <li>CDN for images</li>
+      <li>Progressive web app (PWA)</li>
+      <li>Service worker caching</li>
+    </ul>
+  </li>
+  <li><strong>Advanced analytics</strong>
+    <ul>
+      <li>Reader behavior tracking</li>
+      <li>Article performance metrics</li>
+      <li>Content gap analysis</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="10-conclusion">10. Conclusion</h2>
+
+<h3 id="101-summary-of-deliverables">10.1 Summary of Deliverables</h3>
+
+<p>✅ <strong>Comprehensive test suite</strong> - 600+ lines, 30+ test cases covering:</p>
+<ul>
+  <li>Importance scoring (1-5 validation)</li>
+  <li>Content filtering (false positives/negatives)</li>
+  <li>LLM cost tracking (integration tests)</li>
+  <li>NewsAPI freshness (detection &amp; fix)</li>
+  <li>Health check thresholds (alerts)</li>
+</ul>
+
+<p>✅ <strong>Diagnostic dashboard</strong> - Real-time monitoring of:</p>
+<ul>
+  <li>Rejection breakdown (content_filter vs low_importance)</li>
+  <li>Sample rejected articles</li>
+  <li>LLM cost metrics (daily/weekly/by operation)</li>
+  <li>Freshness alerts</li>
+  <li>Success rate trends</li>
+  <li>Automated recommendations</li>
+</ul>
+
+<p>✅ <strong>NewsAPI freshness fix</strong> - Implemented solutions:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">/v2/everything</code> with <code class="language-plaintext highlighter-rouge">from</code> parameter</li>
+  <li>Hybrid approach (top-headlines with fallback)</li>
+  <li>Freshness validation logic</li>
+</ul>
+
+<p>✅ <strong>Documentation</strong> - Complete testing strategy including:</p>
+<ul>
+  <li>Test pyramid architecture</li>
+  <li>CI/CD integration guides</li>
+  <li>Monitoring &amp; alerting setup</li>
+  <li>Incident response playbooks</li>
+  <li>Metrics &amp; KPIs tracking</li>
+</ul>
+
+<h3 id="102-immediate-next-steps">10.2 Immediate Next Steps</h3>
+
+<ol>
+  <li><strong>Deploy NewsAPI fix</strong> (5 min)
+    <ul>
+      <li>Update <code class="language-plaintext highlighter-rouge">fetch_newsapi_articles()</code> to use <code class="language-plaintext highlighter-rouge">/v2/everything</code></li>
+      <li>Test locally: <code class="language-plaintext highlighter-rouge">python3 scripts/fix_newsapi_freshness.py</code></li>
+      <li>Commit &amp; push</li>
+    </ul>
+  </li>
+  <li><strong>Debug LLM cost tracking</strong> (30 min)
+    <ul>
+      <li>Add debug logging to <code class="language-plaintext highlighter-rouge">track_llm_call()</code></li>
+      <li>Run one processing session</li>
+      <li>Verify usage data extraction</li>
+    </ul>
+  </li>
+  <li><strong>Generate diagnostic report</strong> (2 min)
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">python3 scripts/tech_news_diagnostic_dashboard.py</code></li>
+      <li>Review recommendations</li>
+      <li>Deploy to <code class="language-plaintext highlighter-rouge">/_data/tech_news_diagnostic.json</code></li>
+    </ul>
+  </li>
+  <li><strong>Run test suite</strong> (10 min)
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">pytest tests/test_tech_news_validation.py -v</code></li>
+      <li>Fix any failing tests</li>
+      <li>Achieve 80%+ coverage</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="103-expected-impact">10.3 Expected Impact</h3>
+
+<p>Po implementaci navržených fixů:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Before</th>
+      <th>After</th>
+      <th>Improvement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Article freshness</td>
+      <td>48.3h</td>
+      <td>&lt;4h</td>
+      <td><strong>92% faster</strong></td>
+    </tr>
+    <tr>
+      <td>Success rate</td>
+      <td>17.5%</td>
+      <td>&gt;25%</td>
+      <td><strong>43% increase</strong></td>
+    </tr>
+    <tr>
+      <td>LLM cost visibility</td>
+      <td>$0 (broken)</td>
+      <td>Accurate tracking</td>
+      <td><strong>100% visibility</strong></td>
+    </tr>
+    <tr>
+      <td>Monitoring coverage</td>
+      <td>40%</td>
+      <td>90%</td>
+      <td><strong>50% improvement</strong></td>
+    </tr>
+    <tr>
+      <td>Test coverage</td>
+      <td>0%</td>
+      <td>80%+</td>
+      <td><strong>Full coverage</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="104-risk-mitigation">10.4 Risk Mitigation</h3>
+
+<p><strong>Identified Risks:</strong></p>
+
+<ol>
+  <li><strong>NewsAPI rate limits</strong> - Mitigace: Cache responses, use multiple sources</li>
+  <li><strong>LLM API downtime</strong> - Mitigace: Fallback to simple translation, queue system</li>
+  <li><strong>Filter over-tuning</strong> - Mitigace: A/B testing, gradual rollout</li>
+  <li><strong>Cost overruns</strong> - Mitigace: Daily budget limits, cost alerts</li>
+</ol>
+
+<p><strong>Rollback Plan:</strong></p>
+
+<p>If new changes cause issues:</p>
+<ol>
+  <li>Revert to previous <code class="language-plaintext highlighter-rouge">fetch_newsapi_articles()</code> implementation</li>
+  <li>Disable diagnostic dashboard generation</li>
+  <li>Monitor for 24h</li>
+  <li>Investigate root cause</li>
+  <li>Gradual re-deployment with fixes</li>
+</ol>
+
+<hr />
+
+<h2 id="appendix-a-file-locations">Appendix A: File Locations</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>zastupitelstvo/
+├── tests/
+│   └── test_tech_news_validation.py          # Comprehensive test suite
+├── scripts/
+│   ├── generate_tech_news_newsapi.py          # Main generator (TO BE MODIFIED)
+│   ├── tech_news_diagnostic_dashboard.py     # Diagnostic monitoring
+│   ├── fix_newsapi_freshness.py               # NewsAPI fix implementation
+│   ├── processing_logger.py                   # Session logging
+│   ├── llm_cost_tracker.py                    # LLM cost tracking (TO BE DEBUGGED)
+│   └── tech_news_health_check.py              # Health monitoring
+├── _data/
+│   ├── tech_news_health.json                  # Health check output
+│   ├── tech_news_diagnostic.json              # Diagnostic dashboard output
+│   ├── tech_news_metrics.db                   # Processing sessions DB
+│   ├── llm_costs.db                           # LLM costs DB
+│   └── processing_logs/YYYY-MM-DD.jsonl       # Daily processing logs
+├── docs/
+│   └── TECH_NEWS_TESTING_STRATEGY.md          # This document
+└── health-status.html                          # Health dashboard page
+</code></pre></div></div>
+
+<h2 id="appendix-b-quick-reference-commands">Appendix B: Quick Reference Commands</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Testing</span>
+pytest tests/test_tech_news_validation.py <span class="nt">-v</span>                    <span class="c"># All tests</span>
+pytest tests/test_tech_news_validation.py <span class="nt">-v</span> <span class="nt">-m</span> unit            <span class="c"># Unit tests only</span>
+pytest tests/test_tech_news_validation.py <span class="nt">--cov</span><span class="o">=</span>scripts         <span class="c"># With coverage</span>
+
+<span class="c"># Diagnostic</span>
+python3 scripts/tech_news_diagnostic_dashboard.py <span class="nt">--summary-only</span>  <span class="c"># Console summary</span>
+python3 scripts/tech_news_diagnostic_dashboard.py                 <span class="c"># Generate JSON</span>
+
+<span class="c"># NewsAPI freshness</span>
+python3 scripts/fix_newsapi_freshness.py                        <span class="c"># Test new fetch</span>
+
+<span class="c"># Database inspection</span>
+sqlite3 _data/llm_costs.db <span class="s2">"SELECT * FROM api_calls ORDER BY timestamp DESC LIMIT 10"</span>
+sqlite3 _data/tech_news_metrics.db <span class="s2">"SELECT * FROM processing_sessions ORDER BY timestamp DESC LIMIT 5"</span>
+
+<span class="c"># Processing logs</span>
+<span class="nb">tail</span> <span class="nt">-100</span> _data/processing_logs/<span class="si">$(</span><span class="nb">date</span> +%Y-%m-%d<span class="si">)</span>.jsonl | jq <span class="nb">.</span>
+
+<span class="c"># Health check</span>
+curl https://marigold.cz/health-check/ | jq <span class="nb">.</span>
+</code></pre></div></div>
+
+<hr />
+
+<p><strong>Document Version:</strong> 1.0
+<strong>Last Updated:</strong> 2025-11-17
+<strong>Next Review:</strong> 2025-11-24</p>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+<a href="/changelog/" class="changelog-link" title="Historie změn projektu">📋 Changelog</a>
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> | <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem-Stará Boleslav</a> | <a href="https://skola.prolnuto.cz/">Letní škola AI</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
