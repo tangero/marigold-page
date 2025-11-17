@@ -1,49 +1,49 @@
 {
   "status": "CRITICAL",
-  "timestamp": "2025-11-17T12:35:37.034428+00:00",
+  "timestamp": "2025-11-17T16:32:24.044792+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 36.75,
+      "newest_age_hours": 26.29,
       "articles_24h": 0,
       "articles_1h": 0
     },
     "language": {
       "status": "CRITICAL",
-      "czech_ratio": 0.57,
+      "czech_ratio": 0.59,
       "sample_size": 100,
       "english_articles_sample": [
         {
-          "file": "2025-11-15-windows-president-addresses-current-state-of-windo.md",
-          "title": "Vedoucí Windows reaguje na kritiku: „Víme, že máme",
-          "score": 0.3
-        },
-        {
-          "file": "2025-11-15-comparing-the-2026-phone-lineups-from-apple-samsun.md",
-          "title": "Srovnání nabídky chytrých telefonů v roce 2026 od ",
+          "file": "2025-11-16-i-built-my-smart-home-with-google-heres-how-it-fel.md",
+          "title": "Postavil jsem chytrou domácnost na Google – a post",
           "score": 0.44
         },
         {
-          "file": "2025-11-14-watch-savagegeese-put-the-corvette-zr1-and-mustang.md",
-          "title": "SavageGeese porovnali Corvette ZR1, Mustang GTD a ",
+          "file": "2025-11-16-i-ditched-alexa-and-upgraded-my-smart-home-wired.md",
+          "title": "Vzdal jsem se Alexa a přestavěl svůj chytrý dům",
+          "score": 0.44
+        },
+        {
+          "file": "2025-11-16-the-fastest-68k-macintosh-might-not-be-an-amiga-an.md",
+          "title": "Nejrychlejší (68k) Macintosh už nemusí být Amiga",
           "score": 0.3
         },
         {
-          "file": "2025-11-14-samsung-reportedly-scrapped-its-original-galaxy-s2.md",
-          "title": "Samsung údajně zrušil původní plány pro Galaxy S26",
-          "score": 0.3
+          "file": "2025-11-16-luke-skywalkers-landspeeder-was-built-on-the-chass.md",
+          "title": "Lukeův Landspeeder byl postaven na podvozku zapome",
+          "score": 0.44
         },
         {
-          "file": "2025-11-14-chatgpt-launches-pilot-group-chats-across-japan-ne.md",
-          "title": "ChatGPT spouští pilotní skupinové chaty v Japonsku",
+          "file": "2025-11-15-windows-president-addresses-current-state-of-windo.md",
+          "title": "Vedoucí Windows reaguje na kritiku: „Víme, že máme",
           "score": 0.3
         }
       ]
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2250.0,
-      "median_length": 2486.0
+      "avg_length": 2062.0,
+      "median_length": 2416.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,15 +59,15 @@
     }
   },
   "metrics": {
-    "total_articles": 3078,
+    "total_articles": 3094,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 36.75,
-    "czech_articles": 57,
-    "english_articles": 43,
-    "czech_ratio": 0.57,
-    "avg_content_length": 2250.0,
-    "median_content_length": 2486.0,
+    "newest_article_age_hours": 26.29,
+    "czech_articles": 59,
+    "english_articles": 41,
+    "czech_ratio": 0.59,
+    "avg_content_length": 2062.0,
+    "median_content_length": 2416.0,
     "articles_with_images_pct": 100.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
@@ -75,7 +75,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 36.8h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 26.3h (threshold: 6h)"
     },
     {
       "level": "WARNING",
@@ -87,8 +87,8 @@
     },
     {
       "level": "CRITICAL",
-      "message": "Pouze 57.0% článků v češtině! (minimum: 85.0%)"
+      "message": "Pouze 59.0% článků v češtině! (minimum: 85.0%)"
     }
   ],
-  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 57.0% | Alerty: 4"
+  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 59.0% | Alerty: 4"
 }
