@@ -6,7 +6,7 @@ import json
 import os
 import re
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import logging
 from dotenv import load_dotenv
@@ -279,21 +279,30 @@ DŮLEŽITÉ:
         }
 
     def fetch_newsapi_articles(self):
-        """Stáhne články z NewsAPI"""
+        """Stáhne články z NewsAPI s důrazem na freshness"""
         if not self.news_api_key:
             logger.error("❌ NEWS_API_KEY není nastaven!")
             return []
 
-        url = "https://newsapi.org/v2/top-headlines"
+        # FIX: Použít /v2/everything místo /v2/top-headlines pro čerstvější články
+        # top-headlines má delay 48-72h, everything má real-time články
+        url = "https://newsapi.org/v2/everything"
+
+        # Časové okno: poslední 48h (kompromis mezi freshness a kvantitou)
+        from_time = (datetime.now(timezone.utc) - timedelta(hours=48)).isoformat()
+
         params = {
-            'category': 'technology',
+            # Tech-focused query: kombinace klíčových slov pro relevantní články
+            'q': '(AI OR "artificial intelligence" OR OpenAI OR Tesla OR SpaceX OR Google OR Apple OR Microsoft OR Meta OR Amazon OR "machine learning" OR robotics OR "quantum computing" OR startup) AND technology',
             'apiKey': self.news_api_key,
-            'pageSize': 40,  # Max 40 článků
+            'from': from_time,  # KRITICKÉ: pouze články z posledních 48h
+            'sortBy': 'publishedAt',  # KRITICKÉ: sort podle freshness, ne popularity
+            'pageSize': 100,  # /everything podporuje více článků než top-headlines
             'language': 'en'
         }
 
         try:
-            logger.info("📡 Stahuji články z NewsAPI...")
+            logger.info(f"📡 Stahuji články z NewsAPI (/v2/everything, from: {from_time})...")
             response = requests.get(url, params=params, timeout=30)
 
             if response.status_code == 200:
@@ -304,12 +313,34 @@ DŮLEŽITÉ:
 
                     # Vyčistit a připravit články
                     processed_articles = []
+                    fresh_count = 0
+                    old_count = 0
+
                     for article in articles:
                         # Přeskočit články bez podstatných dat
                         if not article.get('title') or article['title'] == '[Removed]':
                             continue
                         if not article.get('url'):
                             continue
+
+                        # Validace freshness - logovat stáří článků
+                        pub_at = article.get('publishedAt')
+                        if pub_at:
+                            try:
+                                if pub_at.endswith('Z'):
+                                    pub_date = datetime.fromisoformat(pub_at.replace('Z', '+00:00'))
+                                else:
+                                    pub_date = datetime.fromisoformat(pub_at)
+
+                                age_hours = (datetime.now(timezone.utc) - pub_date).total_seconds() / 3600
+
+                                if age_hours < 24:
+                                    fresh_count += 1
+                                elif age_hours > 48:
+                                    old_count += 1
+                                    logger.debug(f"⏰ Starý článek ({age_hours:.1f}h): {article['title'][:50]}...")
+                            except:
+                                pass
 
                         # Připravit zdroj
                         source_info = {
@@ -329,6 +360,11 @@ DŮLEŽITÉ:
                         }
 
                         processed_articles.append(processed_article)
+
+                    # Log freshness statistics
+                    logger.info(f"📊 Freshness: {fresh_count} článků <24h, {old_count} článků >48h")
+                    if fresh_count == 0 and len(processed_articles) > 0:
+                        logger.warning("⚠️ Žádné čerstvé články (<24h)! Možný problém s NewsAPI freshness.")
 
                     return processed_articles
                 else:
