@@ -1,49 +1,23 @@
 {
-  "status": "CRITICAL",
-  "timestamp": "2025-11-17T16:32:24.044792+00:00",
+  "status": "WARNING",
+  "timestamp": "2025-11-17T21:07:25.544278+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 26.29,
+      "newest_age_hours": 25.33,
       "articles_24h": 0,
       "articles_1h": 0
     },
     "language": {
-      "status": "CRITICAL",
-      "czech_ratio": 0.59,
+      "status": "OK",
+      "czech_ratio": 1.0,
       "sample_size": 100,
-      "english_articles_sample": [
-        {
-          "file": "2025-11-16-i-built-my-smart-home-with-google-heres-how-it-fel.md",
-          "title": "Postavil jsem chytrou domácnost na Google – a post",
-          "score": 0.44
-        },
-        {
-          "file": "2025-11-16-i-ditched-alexa-and-upgraded-my-smart-home-wired.md",
-          "title": "Vzdal jsem se Alexa a přestavěl svůj chytrý dům",
-          "score": 0.44
-        },
-        {
-          "file": "2025-11-16-the-fastest-68k-macintosh-might-not-be-an-amiga-an.md",
-          "title": "Nejrychlejší (68k) Macintosh už nemusí být Amiga",
-          "score": 0.3
-        },
-        {
-          "file": "2025-11-16-luke-skywalkers-landspeeder-was-built-on-the-chass.md",
-          "title": "Lukeův Landspeeder byl postaven na podvozku zapome",
-          "score": 0.44
-        },
-        {
-          "file": "2025-11-15-windows-president-addresses-current-state-of-windo.md",
-          "title": "Vedoucí Windows reaguje na kritiku: „Víme, že máme",
-          "score": 0.3
-        }
-      ]
+      "english_articles_sample": []
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 2062.0,
-      "median_length": 2416.0
+      "avg_length": 2449.0,
+      "median_length": 2446.0
     },
     "generation_trend": {
       "status": "OK",
@@ -59,23 +33,23 @@
     }
   },
   "metrics": {
-    "total_articles": 3094,
+    "total_articles": 3149,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 26.29,
-    "czech_articles": 59,
-    "english_articles": 41,
-    "czech_ratio": 0.59,
-    "avg_content_length": 2062.0,
-    "median_content_length": 2416.0,
-    "articles_with_images_pct": 100.0,
+    "newest_article_age_hours": 25.33,
+    "czech_articles": 100,
+    "english_articles": 0,
+    "czech_ratio": 1.0,
+    "avg_content_length": 2449.0,
+    "median_content_length": 2446.0,
+    "articles_with_images_pct": 98.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 26.3h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 25.3h (threshold: 6h)"
     },
     {
       "level": "WARNING",
@@ -84,11 +58,7 @@
     {
       "level": "INFO",
       "message": "Pouze 0 článků za poslední hodinu"
-    },
-    {
-      "level": "CRITICAL",
-      "message": "Pouze 59.0% článků v češtině! (minimum: 85.0%)"
     }
   ],
-  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 59.0% | Alerty: 4"
+  "summary": "Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3"
 }

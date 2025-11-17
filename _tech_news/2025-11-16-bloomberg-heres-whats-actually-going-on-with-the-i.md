@@ -1,17 +1,16 @@
 ---
 author: Marisa Aigen
-category: mobilní technologie
+category: mobilní zařízení
 companies:
 - Apple
 - The Information
-date: '2025-11-16 14:15:00'
-description: Zprávy o odložení iPhonu Air 2 vyvolaly zmatek, ale nové informace od
-  Marka Gurmana objasňují plány Applu.
+date: '2025-11-16 14:15:51'
+description: Zprávy o iPhonu Air 2 se v posledních dnech rozcházely – nejprve se mluvilo
+  o nekonečném odložení, poté o šestiměsíčním zpoždění. Nyní Bloomberg přináší jasno.
 importance: 3
 layout: tech_news_article
-original_title: 'Bloomberg: Here’s what’s actually going on with the iPhone Air 2
-  - 9to5Mac'
-publishedAt: '2025-11-16T14:15:00+00:00'
+original_title: 'Bloomberg: Here’s what’s actually going on with the iPhone Air 2'
+publishedAt: '2025-11-16T14:15:51+00:00'
 slug: bloomberg-heres-whats-actually-going-on-with-the-i
 source:
   emoji: 📰
@@ -24,21 +23,21 @@ urlToImageBackup: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/
 ---
 
 ## Souhrn
-Apple údajně nepřipravoval iPhone Air 2 na uvedení v roce 2026, jak se dříve spekulovalo, a jeho vývoj se zaměřuje spíše na nový 2nm čip než na přidání druhého fotoaparátu. Bloombergův reportéra Mark Gurman tak vyvrací předchozí zprávy o odložení modelu kvůli nízkým prodejům.
+Apple pravděpodobně nikdy neplánoval vydání iPhonu Air 2 na podzim 2026, ačkoli některé zprávy naznačovaly opak. Podle reportéra Bloomsbergu Marka Gurmana se společnost zaměřuje na vývoj nového 2nm čipu, nikoli na přidání druhého fotoaparátu.
 
 ## Klíčové body
-- iPhone Air 2 nebyl v posledních měsících plánován na uvedení v roce 2026.
-- Hlavní inovací bude přechod na 2nm procesor A20 od TSMC, nikoli změny v designu nebo fotoaparátech.
-- Přidání druhého fotoaparátu je technicky možné, ale Gurman považuje tento krok za nepravděpodobný kvůli omezenému prostoru a nízké poptávce.
-- Původní očekávání Applu bylo, že iPhone Air bude tvořit 6–8 % prodejů nových iPhonů.
+- iPhone Air 2 nebyl v posledních měsících cíleně plánován na podzim 2026.
+- Hlavní inovací bude přechod na 2nm procesor A20 od TSMC, který výrazně zlepší výdrž baterie.
+- Přidání druhého fotoaparátu je technicky možné, ale Gurman to považuje za nepravděpodobné kvůli omezenému prostoru a nízké poptávce po modelu.
+- Původní očekávání počítalo s tím, že iPhone Air bude tvořit 6–8 % prodejů nových iPhonů.
 
 ## Podrobnosti
-Podle Marka Gurmana z Bloombergu Apple v posledních měsících vůbec neplánoval uvedení iPhonu Air 2 na podzim 2026, což zpochybňuje dřívější zprávy o „odložení“ tohoto modelu. Místo toho se vývoj soustředí na integraci nového čipu A20, který bude vyráběn pomocí druhé generace 2nm technologie (N2) od TSMC. Tento pokrok by měl přinést výrazné zlepšení výdrže baterie, což je pro tenká a lehká zařízení jako iPhone Air klíčové.
+Zprávy o osudu iPhonu Air 2 se v posledních dnech výrazně lišily. Nejprve server The Information uvedl, že Apple model nekonečně odložil kvůli slabým prodejním výsledkům. Následující den jiný zdroj tvrdil, že se jedná pouze o šestiměsíční zpoždění s cílem spustit zařízení na jaře 2027. Bloomberg nyní uvádí, že Apple v posledních měsících vůbec nepočítal s vydáním Air 2 v roce 2026, což zpochybňuje původní verzi o „odložení kvůli prodejům“.
 
-Zprávy o možném přidání druhého fotoaparátu – konkrétně ultra širokoúhlého – Gurman považuje za nepravděpodobné. Důvodem je fyzické omezení „desky“ na zadní straně telefonu, která je již plná senzorů, a nízká uživatelská poptávka po tomto typu fotoaparátu. Jediným scénářem, kdy by k tomu mohlo dojít, je případné převzetí designu z budoucího skládacího iPhonu, který by mohl mít duální kamerový systém.
+Hlavním technologickým posunem má být nový čip A20, vyrobený na druhé generaci 2nm procesu (N2) u TSMC. Tento krok by měl přinést výrazné zlepšení energetické efektivity a tím i delší výdrž baterie – klíčový parametr pro uživatele levnějších modelů. Naopak spekulace o přidání ultrawide fotoaparátu Gurman považuje za málo pravděpodobné. Podle něj je zadní část telefonu již dostatečně zaplněna a přidání dalšího senzoru by vyžadovalo nákladnou redesignovou práci pro model s nízkým prodejním objemem.
 
 ## Proč je to důležité
-Tento vývoj ukazuje, že Apple upřednostňuje výkonnostní a energetické inovace před rozšiřováním hardwarových funkcí u nižších modelů řady. Zároveň to odhaluje realistický pohled na tržní úspěšnost iPhonu Air, který zjevně není klíčovým produktem pro celkové prodeje. Pro uživatele to znamená, že případný iPhone Air 2 bude spíše evoluční než revoluční – s lepší výdrží, ale bez výrazných změn v kameře nebo designu. V širším kontextu to také potvrzuje trend, kdy i u premium výrobců roste důraz na efektivitu čipů díky pokročilým výrobním procesům jako je 2nm technologie.
+Tento případ ukazuje, jak Apple strategicky přistupuje k rozvoji svého portfolia. Místo rozšiřování hardwarových funkcí v nižší cenové třídě se společnost zaměřuje na efektivitu čipů – což je klíčový trend v celém mobilním průmyslu. Zároveň to odhaluje limity expanze do střední třídy: pokud model nedosahuje očekávaných prodejů, Apple raději investuje do základních technologií než do kosmetických vylepšení. Pro uživatele to znamená, že i levnější iPhony budou mít v budoucnu lepší výdrž, ale ne nutně pokročilejší fotoaparáty.
 
 ---
 
