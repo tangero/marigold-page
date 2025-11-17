@@ -897,15 +897,40 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
         # Spočítat shody
         matches = sum(1 for keyword in all_skip_keywords if keyword in text)
 
-        # Agresivnější detekce - stačí 1 shoda
+        # Detekce s whitelistem - stačí 1 shoda, ale kontrolovat tech kontext
         if matches > 0:
-            # Extra kontrola - některá slova mohou být falešně pozitivní
-            # Pokud je to o technologii (ne o samotné hře), nepřeskakovat
+            # ROZŠÍŘENÝ whitelist - tech-relevantní gaming/VR/hardware články PONECHAT
             tech_indicators = [
-                'ai in gaming', 'machine learning', 'artificial intelligence',
-                'cloud gaming technology', 'game streaming technology',
-                'graphics card', 'gpu', 'processor', 'chip',
-                'nvidia', 'amd', 'intel' # pokud není přímo o herním hardware
+                # AI & ML v gamingu
+                'ai in gaming', 'ai-powered', 'machine learning', 'artificial intelligence',
+                'neural network', 'deep learning', 'procedural generation',
+
+                # Cloud gaming & streaming tech
+                'cloud gaming', 'game streaming', 'streaming technology', 'remote gaming',
+                'geforce now', 'xcloud', 'playstation plus cloud',
+
+                # Hardware & GPU
+                'graphics card', 'gpu', 'graphics processing', 'ray tracing', 'dlss',
+                'rtx', 'radeon', 'processor', 'chip', 'semiconductor',
+                'nvidia', 'amd', 'intel', 'arm', 'qualcomm',
+
+                # VR/AR technology (ne VR hry)
+                'virtual reality technology', 'augmented reality', 'mixed reality',
+                'vr headset', 'ar glasses', 'spatial computing', 'meta quest pro',
+
+                # Gaming platforms jako tech
+                'steam deck', 'steam machine', 'gaming pc', 'handheld gaming pc',
+                'rog ally', 'lenovo legion go',
+
+                # Game engines jako dev tools
+                'unreal engine 5', 'unity 6', 'game development', 'rendering engine',
+
+                # Cross-platform tech
+                'cross-platform', 'multi-platform', 'platform support',
+
+                # Performance & optimization
+                'performance optimization', 'frame rate', 'latency reduction',
+                'anti-cheat technology', 'matchmaking algorithm'
             ]
 
             has_tech_context = any(indicator in text for indicator in tech_indicators)
@@ -913,6 +938,8 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             if not has_tech_context:
                 logger.debug(f"🚫 Přeskakuji článek (nalezeno {matches} klíčových slov pro přeskočení): {title[:50]}...")
                 return True
+            else:
+                logger.debug(f"✅ Ponechávám tech-gaming článek: {title[:50]}... (tech context: detected)")
 
         return False
 
