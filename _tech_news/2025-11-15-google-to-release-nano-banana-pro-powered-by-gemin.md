@@ -4,9 +4,9 @@ category: ai
 companies:
 - Google
 date: '2025-11-15 09:22:01'
-description: Google připravuje spuštění nové verze svého nástroje pro generování obrazového
-  obsahu Nano Banana Pro spolu s modelem Gemini 3 Pro. Novinka přinese vylepšené možnosti
-  tvorby obrázků a vizuálů, zejména pro profesionální tvůrce.
+description: Google plánuje příští týden spustit novou verzi svého nástroje pro generování
+  obrázků Nano Banana Pro spolu s modelem Gemini 3 Pro, který přinese vylepšené schopnosti
+  tvorby vizuálů.
 importance: 4
 layout: tech_news_article
 original_title: Google to release Nano Banana Pro powered by Gemini 3 Pro next week
@@ -17,29 +17,27 @@ source:
   emoji: 📰
   id: null
   name: Testingcatalog.com
-title: Google vydá Nano Banana Pro poháněný modelem Gemini 3 Pro už příští týden
+title: Google příští týden vydá Nano Banana Pro poháněný modelem Gemini 3 Pro
 url: https://www.testingcatalog.com/google-to-release-nano-banana-pro-powered-by-gemini-3-pro-next-week/
 urlToImage: https://www.testingcatalog.com/content/images/size/w1200/2025/11/Robot-Google-Vids-11-15-2025_09_22_AM.jpg
 urlToImageBackup: https://www.testingcatalog.com/content/images/size/w1200/2025/11/Robot-Google-Vids-11-15-2025_09_22_AM.jpg
 ---
 
 ## Souhrn
-Google plánuje na týden od 22. listopadu 2025 spustit novou verzi svého nástroje pro generování obrazového obsahu, který nyní nese označení Nano Banana Pro. Tento nástroj bude využívat pokročilý jazykový model Gemini 3 Pro a přinese výrazně lepší kvalitu a rozlišení generovaných obrázků. Informace o novince se objevily v ukrytém promo materiálu v aplikaci Google Vids.
+Google připravuje oficiální zahájení nové verze svého nástroje pro generování obrázků nazvaného Nano Banana Pro, který bude využívat pokročilý jazykový model Gemini 3 Pro. Uvedení je plánováno na týden od 22. listopadu 2025 a přinese výrazně lepší kvalitu a rozlišení generovaných vizuálů, zejména pro profesionální tvůrce obsahu.
 
 ## Klíčové body
 - Nano Banana Pro bude poháněn modelem Gemini 3 Pro, nikoli lehčí verzí Flash.
-- Novinka se zaměřuje na profesionální tvůrce a firmy vyžadující vysokou kvalitu generovaného obsahu.
-- Funkce bude integrována do stávajících Google produktů jako Vids, Slides a návrhářské aplikace.
-- Spuštění je naplánováno na týden od 22. listopadu 2025.
-- Google pokračuje ve strategii synchronního nasazení nových AI modelů napříč svým ekosystémem.
+- Novinka se objeví v aplikacích jako Google Vids, Slides a nástrojích pro návrh.
+- Zaměřuje se na profesionální uživatele a firmy vyžadující produkční kvalitu generovaných obrázků.
+- Skrytý promo materiál v Google Vids potvrzuje zaměření na rychlé vytváření vizuálů pro videa.
+- Spuštění je v souladu s Googleovou strategií synchronního nasazení AI funkcí napříč ekosystémem.
 
 ## Podrobnosti
-Podle interních nápověd a skrytých odkazů v aplikaci Google Vids bude Nano Banana Pro umožňovat „rychlé generování krásných obrázků a vizuálů pro vaše video“. Tento popis naznačuje, že nástroj bude primárně sloužit k tvorbě doplňkového obrazového materiálu pro videoobsah – například titulky, ilustrace, pozadí nebo animované prvky. Označení „Pro“ naznačuje, že se nejedná o drobnou aktualizaci, ale o významný technologický posun oproti předchozí verzi Nano Banana, která využívala méně výkonný model.
-
-Z hlediska architektury je pravděpodobné, že Gemini 3 Pro přináší vylepšené multimodální schopnosti – tedy lepší porozumění a generování obsahu kombinujícího text, obraz a video. To odpovídá Googleově dlouhodobé strategii poskytovat „produkční“ nástroje pro tvorbu obsahu přímo v rámci svých produktů, bez nutnosti přecházet na externí platformy. Pro uživatele to znamená vyšší efektivitu a lepší integraci do pracovních postupů, zejména v oblasti marketingu, vzdělávání nebo interní komunikace.
+Podle dostupných informací a skrytých náznaků v interních materiálech Googleu, konkrétně v aplikaci Google Vids, bude nová verze Nano Banana Pro schopna rychle generovat „krásné obrázky a vizuály“ přímo pro videoobsah. Tento posun od původního Nano Banana směrem k „Pro“ označení naznačuje, že jde o výrazný technologický skok, nikoli pouze inkrementální aktualizaci. Zatímco původní verze využívala lehčí model Gemini Flash, nová verze bude využívat plnohodnotný model Gemini 3 Pro, což přinese vyšší rozlišení, lepší sémantickou přesnost a větší kontrolu nad výstupem. Tato změna je v souladu s Googleovou dlouhodobou snahou integrovat AI přímo do produktivity a kreativních nástrojů, jako jsou Slides, Vids nebo Design. Pro uživatele to znamená možnost vytvářet profesionálně vypadající grafiku bez nutnosti specializovaných dovedností nebo externích nástrojů.
 
 ## Proč je to důležité
-Tento krok posiluje Googleovu pozici v rychle rostoucím trhu kreativní AI, kde konkuruje především nástrojům od OpenAI (DALL·E 3), Adobe (Firefly) a Meta. Zaměření na „Pro“ verzi naznačuje, že Google cílí na firemní zákazníky a profesionální tvůrce, kteří vyžadují spolehlivost, vysoké rozlišení a možnosti přizpůsobení. Pokud se spekulace o vysokém rozlišení potvrdí, může to ovlivnit rozhodování firem při výběru AI nástrojů pro tvorbu vizuálního obsahu. Současně to ukazuje, že Google systematicky rozšiřuje své AI schopnosti napříč celým ekosystémem – od vyhledávání až po tvorbu prezentací a videí.
+Tento krok posiluje Googleovu pozici v rychle rostoucím trhu kreativní AI, kde konkuruje především nástrojům jako Midjourney, Adobe Firefly nebo DALL·E 3 od OpenAI. Zaměření na „produkční kvalitu“ naznačuje, že Google cílí na firemní zákazníky a profesionální tvůrce, kteří potřebují spolehlivé a škálovatelné řešení přímo v rámci svého pracovního prostředí. Zároveň to ukazuje, že Google systematicky rozšiřuje své AI schopnosti napříč celým ekosystémem, což může vést k větší integraci a závislosti uživatelů na jeho platformách. V kontextu širšího AI závodu mezi technologickými giganty je tento krok dalším důkazem, že boj o dominanci v generativní AI se přesouvá z čistě technických benchmarků do praktického nasazení v reálných pracovních postupech.
 
 ---
 
