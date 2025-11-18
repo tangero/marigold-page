@@ -2,8 +2,8 @@
 author: Marisa Aigen
 category: venture capital
 date: '2025-11-16 18:26:41'
-description: Irský trh rizikového kapitálu zaznamenal mírné zotavení ve třetím čtvrtletí,
-  avšak financování startupů v raných fázích zůstává pod tlakem.
+description: Mezinárodní důvěra investorů se po oznámení tzv. 'Dne osvobození' částečně
+  obnovila, avšak financování startupů v raných stádiích v Irsku stále klesá.
 importance: 3
 layout: tech_news_article
 original_title: Venture capital recovers in third quarter but early deals falter
@@ -21,22 +21,22 @@ urlToImageBackup: https://www.irishtimes.com/resizer/v2/RCHPOINF4BFKRGHJNMRKOR2U
 ---
 
 ## Souhrn
-Ve třetím čtvrtletí 2024 vzrostly investice rizikového kapitálu do irských technologických firem o 8 %, což signalizuje částečné zotavení po propadu v předchozím období. Nicméně celkové financování za prvních devět měsíců kleslo meziročně o 10 % a investice do raných fází – zejména seed kola – pokračují v úpadku.
+Ve třetím čtvrtletí 2024 vzrostly investice rizikového kapitálu do irských technologických firem o 8 %, což naznačuje částečné zotavení trhu po propadu v předchozím období. Nicméně celkové financování za prvních devět měsíců kleslo meziročně o 10 % a investice do raných fází – zejména seed kola – pokračují v úpadku.
 
 ## Klíčové body
 - Ve třetím čtvrtletí bylo do irských malých a středních podniků investováno 207,9 milionu eur.
-- Zahraniční investoři zvýšili své přísliby více než dvojnásobně oproti druhému čtvrtletí.
-- Seed investice meziročně klesly o 30 % (na 23,4 milionu eur) a o 31 % za prvních devět měsíců.
+- Zahraniční investice se meziročně více než zdvojnásobily oproti druhému čtvrtletí (146,7 milionu eur vs. 69,5 milionu eur).
+- Seed investice za prvních devět měsíců klesly meziročně o 31 % na 23,4 milionu eur.
 - Celkové financování za prvních devět měsíců dosáhlo 853,4 milionu eur, což je méně než 945,3 milionu eur v roce 2023.
-- Propad v druhém čtvrtletí byl spojen s oznámením amerických cel „Liberation Day“ v dubnu 2024.
+- Trh stále čelí nedostatku kapitálu pro nejranější fáze vývoje startupů.
 
 ## Podrobnosti
-Podle průzkumu Venture Pulse, který publikuje Irská asociace rizikového kapitálu (IVCA) ve spolupráci s právní firmou William Fry, se trh rizikového kapitálu v Irsku ve třetím čtvrtletí částečně stabilizoval. Po „dismálním“ druhém čtvrtletí, kdy investice klesly na nejnižší úroveň za posledních deset let, se objem financování zvýšil na 207,9 milionu eur. Hlavním hybatelem byl návrat zahraničních investorů, jejichž přísliby vzrostly z 69,5 milionu eur na 146,7 milionu eur.
+Podle průzkumu Venture Pulse, který zveřejnila Irská asociace rizikového kapitálu (IVCA) ve spolupráci s právní firmou William Fry, se irský trh rizikového kapitálu ve třetím čtvrtletí částečně zotavil po „mizerném“ druhém čtvrtletí, kdy klesl objem financování na nejnižší úroveň za posledních deset let. Tento pokles byl způsoben oznámením amerických celních opatření známých jako „Liberation Day“ v dubnu 2024, které otřáslo důvěrou mezinárodních investorů. Nyní se však zahraniční investoři pomalu vrací – jejich přímé investice se mezi druhým a třetím čtvrtletím více než zdvojnásobily.
 
-Přesto trh stále čelí významným mezerám, zejména v segmentu raného financování. Seed kola – klíčová pro vznik nových technologických startupů – pokračují v meziročním poklesu. Tento trend může dlouhodobě ohrozit inovační potenciál irského ekosystému, protože právě rané fáze jsou základem pro budoucí růst a konkurenceschopnost. IVCA také upozorňuje, že vládní program Enterprise Ireland Seed and Venture Capital Scheme, určený k podpoře těchto mezer, dosud nebyl plně nasazen.
+Přesto zůstává trh pro rané fáze vývoje startupů problematický. Seed kola (investice do nejranějších fází) za prvních devět měsíců klesla o třetinu, a to i přes vládní program Enterprise Ireland, který má v rozpočtu 250 milionů eur na podporu seed a venture kapitálu. Tento nedostatek kapitálu v raných stádiích může ohrozit budoucí růst inovací a konkurenceschopnost irského technologického sektoru.
 
 ## Proč je to důležité
-I když se irský trh rizikového kapitálu zotavuje, pokračující pokles investic do raných fází odhaluje strukturální problém – nedostatek kapitálu pro nejmladší firmy. Tento jev není omezen jen na Irsko, ale odráží širší globální trend opatrnosti investorů po období makroekonomické nestability a geopolitického napětí. Pro technologický sektor to znamená, že i v relativně stabilních jurisdikcích může být obtížné získat počáteční financování, což může vést ke snížení počtu nových startupů a zpomalení inovací. Pro Evropu jako celek je tento vývoj varováním, že bez cílené podpory raného financování hrozí další ztráta konkurenceschopnosti vůči USA a Asii.
+I když se obecná investiční nálada zlepšuje, přetrvávající nedostatek financí pro rané fáze ukazuje na strukturální problém v ekosystému rizikového kapitálu. Bez dostatečného seed financování mohou inovativní nápady zůstat neuskutečněny a Irsko může ztratit konkurenční výhodu v evropském technologickém prostředí. Tento trend je relevantní i pro české startupy, které často závisí na mezinárodním kapitálu a sledují vývoj v klíčových evropských technologických centrech jako je Irsko.
 
 ---
 

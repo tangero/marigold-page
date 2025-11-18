@@ -1,9 +1,10 @@
 ---
 author: Marisa Aigen
-category: týmová správa
+category: škálování týmů
 date: '2025-11-16 18:51:13'
-description: Průvodce osvědčenými postupy pro efektivní škálování distribuovaných
-  produktových týmů podle zkušeností firem jako Stripe, Notion nebo Linear.
+description: Průvodce osvědčenými postupy pro škálování distribuovaných produktových
+  týmů od firem jako Stripe, Notion nebo Linear. Obsahuje struktury a strategie pro
+  řízení růstu.
 importance: 3
 layout: tech_news_article
 original_title: How to Scale Distributed Product Teams from 10 to 100
@@ -20,19 +21,21 @@ urlToImageBackup: https://intelligentfuturetech.com/logo-intelligentfuturetech.p
 ---
 
 ## Souhrn
-Škálování distribuovaného produktového týmu od deseti na stovku členů vyžaduje systematický přístup a včasné zavádění nových struktur. Zkušenosti firem jako Stripe, Notion nebo Linear ukazují, že úspěšné společnosti přemýšlejí o systémech pro další fázi růstu již v současné etapě.
+Škálování distribuovaného produktového týmu od deseti na stovku členů vyžaduje zásadní změnu přístupu k organizaci, komunikaci a rozhodování. Zkušenosti firem jako Stripe, Notion nebo Linear ukazují, že úspěšný růst závisí na včasném zavádění nových struktur ještě předtím, než staré přestanou fungovat.
 
 ## Klíčové body
-- Úspěšné škálování vyžaduje vědomé opouštění osvědčených postupů, které fungovaly v menším měřítku.
-- Mezi 10 a 30 lidmi je nutné zavést první formální organizační strukturu – tzv. squady (malé autonomní týmy).
-- Každý squad by měl mít jasně definovanou odpovědnost (např. růst, jádro produktu, platforma, data) a zahrnovat různé role: product managera, engineering leada, vývojáře, designéra a QA.
-- Pro efektivní rozhodování je klíčové zavést rámec jako RAPID, který určuje, kdo doporučuje, schvaluje, provádí, poskytuje vstup a rozhoduje.
+- Úspěšné škálování vyžaduje předstihové plánování: systémy pro 30 lidí je třeba navrhovat už při 15 členech.
+- Přechod z jednoho týmu na autonomní „squad“ strukturu (5–8 lidí) s jasným vlastnictvím produktových oblastí.
+- Zavedení formálních rozhodovacích rámců (např. RAPID) pro transparentní a efektivní rozhodování.
+- Každý squad zahrnuje produktového manažera, vedoucího vývojáře, inženýry, designéra a QA.
 
 ## Podrobnosti
-Při růstu distribuovaného týmu od 10 na 30 lidí přestává fungovat model, kdy každý ví o všem. V této fázi je nezbytné zavést první formální strukturu – tzv. squady. Každý squad (5–8 lidí) se specializuje na konkrétní oblast: například Growth Squad řeší onboarding a aktivaci uživatelů, Core Product Squad se stará o hlavní funkcionalitu produktu, Platform Squad buduje infrastrukturu a API, a Data Squad spravuje analytiku a datové potrubí. Důležité je, aby každý squad obsahoval plnou sadu kompetencí – product managera, engineering leada, vývojáře, designéra a testera – a mohl autonomně rozhodovat o své doméně. Pro koordinaci mezi squady je pak klíčové zavést rozhodovací rámec jako RAPID. Například při prioritizaci funkcí product manager doporučuje, engineering lead souhlasí, designér poskytuje vstup a finální rozhodnutí činí product lead nebo CPO. Tento přístup minimalizuje zbytečné schůzky a zrychluje vývoj.
+V počáteční fázi (10 lidí) je běžné, že všichni znají všechny aspekty produktu a komunikace probíhá neformálně. U 30 členů už to není udržitelné. Klíčovým krokem je proto zavedení tzv. squad struktury – malých, autonomních týmů zaměřených na konkrétní část produktu nebo zákaznické cesty. Například Growth Squad se stará o onboarding a aktivaci uživatelů, Core Product Squad o hlavní funkcionalitu, Platform Squad o infrastrukturu a API, a Data Squad o analytiku a datové potrubí. Každý squad má jasně definované role a odpovědnosti, což minimalizuje závislosti mezi týmy.
+
+Stejně důležité je formalizovat rozhodovací procesy. Rámec RAPID (Recommend, Agree, Perform, Input, Decide) pomáhá určit, kdo má při jakém typu rozhodnutí jakou roli. Například při prioritizaci funkcí produktoví manažeři navrhují, vedoucí vývojáři souhlasí, designéři poskytují vstupy a finální rozhodnutí činí produktový ředitel. Tento přístup snižuje nejistotu a zrychluje vývoj.
 
 ## Proč je to důležité
-V době, kdy stále více technologických firem pracuje v plně distribuovaném režimu, je schopnost škálovat bez ztráty agility kritickou kompetencí. Články tohoto typu poskytují praktické návody založené na reálných zkušenostech, nikoli na teoretických modelech. Pro české startupy i zavedené firmy může být tento přístup inspirací pro přechod z chaotického růstu k udržitelnému škálování – zejména v oblastech, kde je nedostatek lokálního talentu a týmy jsou nutně distribuované.
+V době, kdy stále více technologických firem pracuje v plně distribuovaném režimu, je schopnost efektivně škálovat týmy klíčovým konkurenčním faktorem. Bez předem definovaných struktur a procesů dochází k komunikačním zácpám, duplikacím práce a zpomalení inovací. Osobitě pro české startupy, které často cílí na globální trhy, může tato metodika představovat cestu, jak růst bez ztráty agility a kvality produktu.
 
 ---
 

@@ -7,9 +7,8 @@ companies:
 - OpenAI
 date: '2025-11-16 18:13:45'
 description: Microsoft spustil druhé datové centrum Fairwater v Atlantě, které společně
-  s prvním v Wisconsinu tvoří nejvýkonnější AI infrastrukturu na světě s celkovým
-  výkonem přes 2 GW. Cílem je desetinásobně zvýšit kapacitu AI trénování každých 18–24
-  měsíců.
+  s prvním v Wisconsinu tvoří nejvýkonnější AI infrastrukturu na světě s celkovou
+  kapacitou přes 2 GW.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft Has Largest Multi-site AI Data Center at 2 Gigawatts
@@ -23,29 +22,28 @@ source:
   emoji: 📰
   id: next-big-future
   name: Next Big Future
-title: Microsoft provozuje největší víceobjektové AI datové centrum o výkonu 2 gigawatty
+title: Microsoft provozuje největší víceobjektové AI datové centrum s kapacitou 2
+  gigawatty
 url: https://www.nextbigfuture.com/2025/11/microsoft-has-largest-multi-site-ai-data-center-at-2-gigawatts.html
 urlToImage: https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-16-at-9.50.56-AM.jpg
 urlToImageBackup: https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-16-at-9.50.56-AM.jpg
 ---
 
 ## Souhrn
-Microsoft spustil druhé datové centrum Fairwater v Atlantě, které společně s prvním v Wisconsinu tvoří nejvýkonnější AI infrastrukturu na světě s celkovým výkonem přes 2 gigawatty. Cílem společnosti je každých 18–24 měsíců desetinásobně zvýšit kapacitu pro trénování AI modelů.
+Microsoft otevřel druhé datové centrum své nové řady Fairwater v Atlantě, které spolu s prvním centrem ve Wisconsinu tvoří největší a nejvýkonnější víceobjektovou AI infrastrukturu na světě. Celková elektrická kapacita přesahuje 2 gigawatty a slouží k podpoře ambiciózního cíle desetinásobného zvýšení výpočetní kapacity pro trénování AI každých 18–24 měsíců.
 
 ## Klíčové body
-- Datová centra Fairwater jsou navržena specificky pro AI workloads a využívají uzavřený kapalinový chladicí systém.
-- Každé centrum obsahuje stovky tisíc GPU NVIDIA GB200 a GB300.
-- Centra jsou propojena vyhrazenou optickou sítí (AI Wide Area Network) pro nízkolatentní komunikaci.
-- Celková kapacita přesahuje 2 GW, což je více než jakékoli jiné AI datové centrum dnes.
-- Microsoft připravuje infrastrukturu pro budoucí vývoj obecné umělé inteligence (AGI).
+- Microsoft plánuje zvyšovat výpočetní kapacitu pro AI trénování desetinásobně každé 1,5–2 roky.
+- Datová centra Fairwater využívají stovky tisíc GPU NVIDIA GB200 a GB300.
+- Celková instalovaná kapacita obou Fairwater lokalit přesahuje 2 GW.
+- Centra jsou propojena专用ním AI Wide Area Network (AI WAN) pomocí optických vláken.
+- Architektura zahrnuje dvoupatrové budovy s GPU a jednopatrové pro CPU a úložiště dat.
 
 ## Podrobnosti
-Datové centrum Fairwater 2 v Atlantě je druhým zařízením v rámci nové generace AI-specializovaných center Microsoftu. První bylo postaveno ve Wisconsinu. Oba objekty jsou propojeny vyhrazenou optickou sítí, která umožňuje efektivní distribuci AI workloads mezi lokalitami. Každé centrum má dvoupatrovou konstrukci, kde jsou racky s GPU propojeny jak vertikálně, tak horizontálně, což maximalizuje propustnost a minimalizuje latenci. Vedle každého GPU budovy stojí jednopatrová budova určená pro CPU založené zpracování a úložiště dat.
-
-Podle odhadů analytické společnosti Epoch AI, která využila stavební povolenky a veřejné informace, každé centrum Fairwater hostí stovky tisíc nejnovějších NVIDIA akcelerátorů GB200 a GB300. Ty jsou klíčové pro trénování velkých jazykových modelů (LLM) a dalších pokročilých AI systémů. Microsoft počítá s tím, že výkon čipů bude nadále růst 2–4násobně každý rok, což spolu s rozšiřováním kapacity datových center umožní dosáhnout cíle 10× zvýšení AI trénovací kapacity každých 18–24 měsíců.
+Fairwater 2 v Atlantě je druhým datovým centrem této nové generace, které Microsoft navrhl specificky pro náročné úlohy umělé inteligence. Každá lokalita obsahuje několik budov: dvoupatrové objekty plné racků s GPU NVIDIA GB200 a GB300, doplněné jednopatrovými budovami určenými pro CPU a datové úložiště. Výpočetní kapacita jediné budovy překračuje výkon jakéhokoli jiného současného AI datového centra. Infrastruktura využívá uzavřený kapalinový chladicí systém, což zvyšuje energetickou účinnost a umožňuje hustší uspořádání výpočetních jednotek. Mezi Fairwaterem v Atlantě a Wisconsinem běží专用ní AI WAN síť s vlastními optickými vlákny, což minimalizuje latenci a maximalizuje propustnost pro distribuované trénování velkých jazykových modelů. Odhady založené na stavebních povolenkách a informacích od Microsoftu naznačují, že celková výpočetní kapacita bude postupně rozšiřována s dokončováním dalších budov.
 
 ## Proč je to důležité
-Tento krok ukazuje, že Microsoft systematicky buduje hardwarovou základnu pro další generaci AI, včetně možného přechodu k obecné umělé inteligenci (AGI). Masivní investice do specializované infrastruktury dávají Microsoftu výraznou výhodu před konkurencí, zejména v kontextu rostoucí poptávky po výpočetním výkonu pro trénování a nasazení AI modelů. Propojení více center do jedné sítě také představuje nový standard pro škálovatelnost a odolnost AI systémů na průmyslové úrovni.
+Tento krok ukazuje, jak Microsoft systematicky buduje infrastrukturu pro podporu pokročilé umělé inteligence, včetně potenciální cesty k AGI (obecné umělé inteligenci). Desetinásobný růst výpočetní kapacity každé dva roky představuje výzvu i pro největší technologické firmy, ale Microsoft kombinuje hardwarový pokrok (2–4násobné zlepšení čipů) s masivním škálováním infrastruktury. Tím posiluje svou konkurenceschopnost vůči Google, Amazonu a OpenAI, zároveň vytváří základnu pro budoucí AI služby, které budou vyžadovat exponenciálně vyšší výpočetní výkon. Pro průmysl to znamená akceleraci vývoje LLM, multimodálních modelů a dalších AI aplikací, které budou stále více závislé na centralizované, specializované infrastruktuře.
 
 ---
 

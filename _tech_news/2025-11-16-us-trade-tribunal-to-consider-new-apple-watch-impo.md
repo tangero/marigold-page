@@ -22,20 +22,19 @@ urlToImageBackup: https://biztoc.com/cdn/01037df9c3d1da5e_s.webp
 ---
 
 ## Souhrn
-Americký Mezinárodní obchodní komise (USITC) zvažuje nový zákaz dovozu chytrých hodinek Apple Watch do Spojených států. Důvodem je podezření z porušení patentů týkajících se technologie měření hladiny kyslíku v krvi (SpO₂). Již dříve byl podobný zákaz vydán, ale Apple jej dočasně obešel aktualizací softwaru.
+Americký Mezinárodní obchodní komise (USITC) zvažuje nový zákaz dovozu chytrých hodinek Apple Watch do Spojených států. Tento krok by mohl následovat po dřívějším rozhodnutí, které zakázalo určité modely kvůli porušení patentů týkajících se technologie měření hladiny kyslíku v krvi (SpO₂). Nové řízení naznačuje, že právní spor mezi Apple a držitelem patentů – pravděpodobně společností Masimo – pokračuje.
 
 ## Klíčové body
-- USITC řeší stížnost společnosti Masimo, která vlastní patenty na senzorovou technologii pro měření SpO₂.
-- Předchozí dovozní zákaz z roku 2022 byl pozastaven po softwarové aktualizaci Apple, která dočasně vypnula funkci měření kyslíku.
-- Nové řízení se týká modelů Apple Watch vybavených touto funkcí, včetně sérií 8 a Ultra.
-- Pokud bude zákaz potvrzen, může dojít k trvalému omezení prodeje dotčených modelů na americkém trhu.
-- Apple tvrdí, že jeho technologie je originální a nezávislá na Masimových patentech.
+- USITC již dříve vydal dočasný zákaz dovozu některých modelů Apple Watch kvůli porušení patentů na senzorickou technologii SpO₂.
+- Nové řízení může vést k rozšíření zákazu na další modely nebo k trvalému omezení prodeje.
+- Spor se týká technologie pro měření hladiny kyslíku v krvi pomocí optických senzorů, která je součástí zdravotních funkcí Apple Watch.
+- Apple odvolal proti předchozímu rozhodnutí a zároveň se snaží obejít patentová omezení softwarovými úpravami.
 
 ## Podrobnosti
-Společnost Masimo, specializující se na neinvazivní monitorovací lékařské přístroje, podala stížnost u USITC v roce 2021. Tvrdí, že Apple neoprávněně využívá její patentovanou technologii pro měření hladiny kyslíku v krvi pomocí optických senzorů. Tato funkce byla poprvé představena v Apple Watch Series 6 v roce 2020 a od té doby je součástí novějších modelů. V reakci na předběžné rozhodnutí USITC z roku 2022 Apple dočasně vypnul funkci SpO₂ v USA prostřednictvím softwarové aktualizace, čímž zabránil okamžitému zákazu dovozu. Nyní však tribunál znovu posuzuje, zda Apple porušuje další aspekty Masimových patentů, což by mohlo vést k trvalejšímu omezení. Apple zároveň podal žalobu proti Masimu kvůli údajnému zneužití patentového systému a lobbování u regulátorů.
+Soudní spor mezi Apple a Masimo, americkou firmou specializující se na neinvazivní monitorování pacientů v nemocnicích, začal v roce 2022. Masimo tvrdí, že Apple neoprávněně použilo jeho patentovanou technologii pro měření SpO₂ v Apple Watch Series 6 a novějších modelech. V roce 2023 USITC rozhodl, že Apple porušuje patenty, a nařídil dočasný zákaz dovozu dotčených zařízení. Apple reagovalo vypnutím funkce SpO₂ v některých modelech, což dočasně zmírnilo dopady. Nyní však tribunál zvažuje další kroky, které by mohly zahrnovat trvalý zákaz nebo rozšíření omezení i na jiné modely, pokud se prokáže, že i ty porušují patenty – například prostřednictvím podobných senzorických architektur nebo algoritmů pro zpracování signálu.
 
 ## Proč je to důležité
-Tento případ má širší dopady pro celý spotřební technologický průmysl. Pokud bude USITC trvale zakázat prodej populárního zařízení kvůli softwarově řízené funkci, může to ovlivnit způsob, jakým výrobci implementují zdravotní senzory do chytrých zařízení. Zároveň to ukazuje rostoucí tlak na ochranu duševního vlastnictví v oblasti digitálního zdravotnictví, kde se hranice mezi spotřební elektronikou a lékařskými přístroji stírají. Pro uživatele by to mohlo znamenat omezený přístup k funkcím, které považují za standardní, a pro Apple významné finanční a reputační riziko na klíčovém trhu.
+Tento případ má širší dopad na celý odvětví spotřební elektroniky a zdravotnických technologií. Pokud se potvrdí, že běžné senzory používané v chytrých hodinkách porušují specializované zdravotnické patenty, mohou být postiženy i jiné výrobci, jako jsou Samsung nebo Garmin. Zároveň to ukazuje rostoucí tlak na regulaci zdravotních funkcí v osobních zařízeních – zejména v případech, kdy se tyto funkce přibližují k lékařským nástrojům. Pro uživatele by to mohlo znamenat omezení dostupnosti funkcí nebo zpoždění při nákupu nových modelů v USA, což by mohlo ovlivnit i globální dodavatelské řetězce.
 
 ---
 

@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: herní průmysl
 date: '2025-11-16 17:01:18'
-description: Hra Where Winds Meet od čínského výrobce NetEase integruje LLM chatboty
-  do herních postav, což vedlo k nečekaným a často nevhodným interakcím hráčů s umělou
-  inteligencí.
+description: Hra Where Winds Meet od čínského výrobce NetEase implementuje LLM chatboty
+  do dialogů s postavami, což vedlo k nečekaným a často nevhodným interakcím hráčů.
 importance: 3
 layout: tech_news_article
 original_title: 'Wuxia MMO Where Winds Meet is full of AI chatbot NPCs, and people
@@ -16,7 +15,7 @@ source:
   emoji: 📰
   id: null
   name: PC Gamer
-title: Wuxia hra Where Winds Meet využívá AI chatboty pro NPC – hráči je zneužívají
+title: Wuxia MMO Where Winds Meet využívá AI chatboty pro NPC – hráči je zneužívají
   k absurdním scénářům
 url: https://www.pcgamer.com/games/rpg/wuxia-mmo-where-winds-meet-is-full-of-ai-chatbot-npcs-and-people-are-doing-all-the-standard-obscene-stuff-to-them-i-made-him-think-that-my-character-was-pregnant-with-his-child/
 urlToImage: https://cdn.mos.cms.futurecdn.net/usWyVRAizxBpoUY3dSod7G-1920-80.png
@@ -24,19 +23,19 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/usWyVRAizxBpoUY3dSod7G-1920-
 ---
 
 ## Souhrn
-Hra *Where Winds Meet*, wuxia inspirovaný multiplayerový ARPG od společnosti NetEase, využívá velké jazykové modely (LLM) pro interaktivní dialogy s nehratelnými postavami (NPC). Hráči rychle objevili, že tyto AI postavy lze manipulovat k absurdním a emocionálně náročným scénářům, což odhaluje omezení současné generativní AI v herním prostředí.
+Hra *Where Winds Meet*, wuxia inspirovaný multiplayerový ARPG od společnosti NetEase, využívá velké jazykové modely (LLM) pro interaktivní dialogy s nehratelnými postavami (NPC). Hráči rychle objevili možnosti zneužití této technologie k vytváření absurdních nebo emocionálně manipulativních scénářů, jako je například přesvědčování postavy, že je otcem dítěte hráče.
 
 ## Klíčové body
-- Hra používá LLM pro dynamické textové i hlasové interakce s NPC.
-- Hráči testují hranice AI tím, že vytvářejí fiktivní příběhy, jako těhotenství nebo smrt dítěte.
-- AI se snaží zachovat historickou autenticitu (např. odmítá ketchup v éře Song), ale často selhává v logické konzistenci.
-- Komunita na Redditu aktivně sdílí „zlomení“ NPC jako zábavný experiment.
+- Hra *Where Winds Meet* používá LLM pro dynamické dialogy s NPC.
+- Hráči testují hranice AI tím, že ji nutí reagovat na anachronistické nebo emocionálně náročné situace.
+- AI se snaží zachovat historickou autenticitu (např. odmítá ketchup v době Song), ale často selhává v logické konzistenci.
+- Tento přístup ukazuje rizika nasazení generativní AI v herním prostředí bez dostatečné ochrany proti zneužití.
 
 ## Podrobnosti
-*Where Winds Meet* je akční RPG s prvky wuxia (čínského bojového umění a filozofie), která na Steamu dosáhla přes 190 000 současných hráčů. Klíčovou novinkou je nasazení LLM pro komunikaci s NPC – hráči mohou psát nebo mluvit přímo do mikrofonu a očekávat odpovědi v reálném čase. Tento přístup má za cíl zvýšit ponoření do světa hry, ale v praxi vede k nezamýšleným důsledkům. Například hráč pod přezdívkou MisterZan25 přesvědčil postavu Zhao Daliho, že je otcem dítěte, požadoval výživné a následně oznámil smrt dítěte – AI reagovala s překvapivou emocionální reakcí. Jiný hráč se ptal, co lze uvařit z kečupu a brambor; NPC správně upozornil, že kečup neexistoval v éře Song, ale přesto navrhl brambory smažit. Tento rozpor mezi historickou věrností a generativní fantazií ukazuje, jak LLM často kombinují faktické znalosti s halucinacemi.
+*Where Winds Meet* je akční RPG s prvky tzv. soulslike her, která se odehrává ve světě čínské wuxia fantasy. Hra dosáhla přes 190 000 současných hráčů na Steamu a získala pozornost i díky inovativnímu použití AI pro komunikaci s NPC. Hráči mohou psát nebo mluvit přímo do mikrofonu a AI generuje odpovědi v reálném čase. Tento přístup by měl zvýšit ponoření do hry, ale místo toho se stal terčem experimentů a trollingu. Na Redditu se objevily příspěvky, kde uživatelé popisují, jak přesvědčili postavu Zhao Daliho, že je otcem dítěte, které následně zemřelo – a jak AI reagovala s překvapivou emocionální hloubkou. Jiní hráči testují historickou konzistenci: když se zeptali, co lze uvařit z kečupu a brambor, AI správně upozornila, že rajčata nebyly v Číně v době dynastie Song známé. Přesto se AI často nechá uvést do rozporu nebo absurdity, což odhaluje její zranitelnost vůči manipulaci.
 
 ## Proč je to důležité
-Případ *Where Winds Meet* ilustruje aktuální limity nasazení generativní AI v interaktivních médiích. Zatímco technologie slibuje dynamické a personalizované zážitky, její náchylnost k manipulaci a nedostatek kontextové stability ji činí nevhodnou pro scénáře vyžadující důslednou narativní logiku. Pro herní průmysl je to varování: bez pevných guardrailů a kontextového uzemnění mohou AI postavy snadno ztratit věrohodnost nebo být zneužity k toxickým interakcím. Zároveň to ukazuje, že hráči nebudou AI respektovat jako „živé“ bytosti – budou ji testovat na mezích absurdity, což vyžaduje lepší návrh interakčních systémů.
+Tento případ ukazuje, jak rychle se generativní AI dostává do mainstreamových her, ale také jak nezralé jsou současné systémy pro kontextově citlivé interakce. Bez robustních ochranných mechanismů a omezení může LLM snadno podkopat herní zážitek nebo vést k nevhodnému obsahu. Pro herní průmysl je to varování: dynamické NPC jsou lákavé, ale jejich implementace vyžaduje mnohem větší kontrolu než jen „připojit a zapnout“.
 
 ---
 

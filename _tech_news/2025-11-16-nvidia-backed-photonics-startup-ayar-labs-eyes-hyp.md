@@ -8,8 +8,8 @@ companies:
 date: '2025-11-16 18:00:10'
 description: Startup Ayar Labs, podporovaný Nvidií, oznámil spolupráci s tchajwanskou
   firmou Global Unichip Corp (GUC) na integraci svých optických I/O čipletů do referenčních
-  návrhů XPU. Cílem je nahradit měděné propojení výkonnější a energeticky úspornější
-  optickou komunikací mezi čipy.
+  návrhů XPU. Cílem je nahradit měděné propojení optickým řešením s kapacitou přes
+  200 Tbps.
 importance: 3
 layout: tech_news_article
 original_title: Nvidia-backed photonics startup Ayar Labs eyes hyperscale customers
@@ -20,7 +20,7 @@ source:
   emoji: 📰
   id: null
   name: Theregister.com
-title: Startup Ayar Labs podporovaný Nvidií spolupracuje s GUC na fotonických čipletech
+title: Startup podporovaný Nvidií, Ayar Labs, spolupracuje s GUC na fotonických čipletech
   pro hyperskalovatelné datové centrum
 url: https://www.theregister.com/2025/11/16/ayar_guc_collab/
 urlToImage: https://regmedia.co.uk/2024/11/28/ayar_render_optical_gpu.jpg
@@ -28,20 +28,19 @@ urlToImageBackup: https://regmedia.co.uk/2024/11/28/ayar_render_optical_gpu.jpg
 ---
 
 ## Souhrn
-Startup Ayar Labs, podporovaný Nvidií, spolupracuje s tchajwanským poskytovatelem návrhů polovodičů Global Unichip Corp (GUC) na integraci svých fotonických čipletů TeraPHY do referenčních návrhů XPU. Cílem je umožnit optickou komunikaci mezi čipy s agregovanou propustností přes 200 Tbps, což by umožnilo propojovat tisíce GPU napříč celými datovými centry bez zvýšení spotřeby energie.
+Startup Ayar Labs, podporovaný Nvidií, spolupracuje s tchajwanským poskytovatelem návrhových služeb Global Unichip Corp (GUC) na integraci svých fotonických čipletů TeraPHY do referenčních návrhů XPU. Cílem je nahradit tradiční měděné propojení mezi čipy optickým řešením, které umožní přenosové rychlosti přesahující 200 Tbps a zároveň sníží spotřebu energie.
 
 ## Klíčové body
 - Ayar Labs integruje své optické I/O čiplety TeraPHY do referenčních návrhů GUC pro XPUs.
-- Optické propojení má nahradit měděné kabely, které omezují vzdálenost a vyžadují energeticky náročné retimery.
-- Cílová propustnost přesahuje 200 Tbps, což je více než desetinásobek současných nejrychlejších elektrických propojení (14,4 Tbps).
-- Cílem je propojit až 10 000 GPU v jedné škálovatelné doméně při udržení spotřeby na cca 100 kW na rack.
-- Nvidia dříve volila měděné propojení kvůli vysoké spotřebě dostupných optických transceiverů.
+- Optické propojení má umožnit agregovanou propustnost přes 200 Tbps, což je více než 10× více než současné nejrychlejší měděné interkonekty (14,4 Tbps).
+- Cílem je umožnit propojení až 10 000 GPU čipů v jedné škálovatelné doméně při udržení spotřeby na cca 100 kW na rack.
+- Optické řešení by mohlo umožnit rozprostření výpočetního systému napříč celými datovými haly, nikoli jen v rámci jednoho racku.
 
 ## Podrobnosti
-Ayar Labs, specializující se na fotonické čiplety, chce prostřednictvím spolupráce s GUC – jedním z hlavních poskytovatelů návrhových služeb pro pokročilé polovodiče – prosadit svou technologii TeraPHY přímo do architektur XPUs (specializovaných akcelerátorů pro AI a HPC). Tyto čiplety umožňují převod elektrických signálů na optické přímo na čipu, což eliminuje potřebu externích optických transceiverů a snižuje latenci i spotřebu. Díky tomu by bylo možné propojovat výpočetní jednotky nejen v rámci jednoho racku, ale i napříč celými řadami nebo halami datových center, aniž by došlo ke zvýšení energetické náročnosti. V současnosti Nvidia ve svých systémech NVL72 používá měděné propojení, protože dostupné optické řešení by přidalo až 20 kW k již vysoké zátěži 120 kW na rack. Ayar Labs tvrdí, že jeho řešení umožní udržet spotřebu na úrovni cca 100 kW i při propojení tisíců GPU.
+Současné vysokorychlostní propojení v datových centrech, jako jsou Nvidia NVL72 systémy, využívá měděné kabely, které jsou omezeny v dosahu – signál se začíná degradovat již po jednom metru. To nutí výrobce umisťovat všechny akcelerátory do jednoho racku, což vede k extrémním nárokům na chlazení a napájení (až 600 kW na rack). Ayar Labs nabízí alternativu: své fotonické čiplety TeraPHY lze spolu s výpočetními čipy (např. GPU) zabudovat do jednoho balíčku (co-packaged optics). Tím se eliminuje potřeba drahých retimerů a zároveň se výrazně snižuje spotřeba energie na přenos dat. Podle CTO Ayar Labs Vladimira Stojanovice by mělo být možné propojit až 10 000 GPU čipů v jedné škálovatelné doméně při zachování spotřeby kolem 100 kW na rack – tedy zhruba pětinové oproti současným trendům. Spolupráce s GUC, která poskytuje návrhové služby pro pokročilé čipové architektury, znamená, že tato technologie může být snáze integrována do budoucích XPU (specializovaných akcelerátorů pro AI a HPC).
 
 ## Proč je to důležité
-Tato technologie by mohla zásadně změnit architekturu datových center zaměřených na AI a HPC. Optické propojení na úrovni čipu odstraňuje fyzické i energetické bariéry, které dnes brání škálování AI systémů nad rámec jednoho racku. Pokud se Ayar Labs a GUC podaří technologii komerčně nasadit, mohlo by to vést k výraznému zrychlení trénování velkých jazykových modelů a snížení nákladů na infrastrukturu hyperskalovatelných cloudových poskytovatelů. Zároveň by to posílilo konkurenci v oblasti meziprocesorové komunikace, kde dnes dominují elektrická řešení s omezeným dosahem.
+Pokud se Ayar Labs a GUC podaří technologii úspěšně nasadit, mohlo by to zásadně změnit architekturu datových center. Místo hustě zaplněných racků s extrémní spotřebou by bylo možné distribuovat výpočetní výkon napříč větší plochou bez ztráty latence nebo propustnosti. To by vedlo ke snížení nákladů na chlazení, zjednodušení infrastruktury a lepší škálovatelnosti AI systémů. Pro Nvidia a další výrobce AI akcelerátorů by to mohlo znamenat novou cestu, jak obejít fyzikální limity měděných propojení a pokračovat v exponenciálním růstu výkonu AI clusterů.
 
 ---
 

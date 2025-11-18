@@ -1,10 +1,692 @@
 {
-  "generated": "2025-11-17T21:07:25.378775+00:00",
+  "generated": "2025-11-18T01:49:33.917449+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Apple odsouzen k úhradě 634 milionů dolarů v patenčním sporu o měření kyslíku v krvi u Apple Watch",
-      "description": "Americký federální soud rozhodl, že funkce Apple Watch pro sledování kyslíku v krvi porušují patenty společnosti Masimo. Apple musí zaplatit 634 milionů dolarů, ale plánuje odvolání.",
+      "title": "Role technologie při modernizaci systémů proti praní špinavých peněz a financování terorismu",
+      "description": "Podsekretář pro terorismus a finanční zpravodajství John Hurley vyzval finanční instituce k přechodu od formálního plnění povinností k inteligentnímu systému detekce finančních zločinů.",
+      "slug": "technologys-role-in-modernizing-amlcft-glenn-frata",
+      "publishedAt": "2025-11-17T00:52:19+00:00",
+      "date": "2025-11-17 00:52:19",
+      "importance": 3,
+      "category": "finanční technologie",
+      "urlToImage": "https://www.finextra.com/finextra-images/member_photos/thumb_170170_glenn_fratangelo_19.jpg",
+      "url": "/tech-news/2025-11-17/technologys-role-in-modernizing-amlcft-glenn-frata/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finextra"
+      },
+      "companies": [],
+      "people": [
+        "John Hurley"
+      ]
+    },
+    {
+      "title": "Ataccama Data Trust Summit: Den 2 – Jak platforma zajišťuje důvěru v data",
+      "description": "Druhý den Ataccama Data Trust Summitu se zaměřil na to, jak společnost Ataccama prostřednictvím své platformy a nástrojů zajišťuje důvěru v data. Diskuze navazovala na témata z prvního dne a přinesla detaily o pravidlech kvality dat a roli ředitelů pro data.",
+      "slug": "ataccama-data-trust-summit-day-2",
+      "publishedAt": "2025-11-17T00:46:34+00:00",
+      "date": "2025-11-17 00:46:34",
+      "importance": 3,
+      "category": "datová důvěra",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-17/ataccama-data-trust-summit-day-2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč CEO společnosti Anthropic tolik varuje před nebezpečím umělé inteligence",
+      "description": "Šéf společnosti Anthropic Dario Amodei upozorňuje na rizika rychle se vyvíjející a nedostatečně regulované umělé inteligence, zatímco jeho firma zároveň závodí s konkurencí o vývoj pokročilých AI modelů.",
+      "slug": "why-anthropics-ceo-spends-so-much-time-warning-of-",
+      "publishedAt": "2025-11-17T00:46:13+00:00",
+      "date": "2025-11-17 00:46:13",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/16/b43149b9-99ab-4312-b808-7e4a71044a42/thumbnail/1200x630/fc4a3e87a8b2dceaa3cfb26140edbae5/anthropic-video-cooper.jpg",
+      "url": "/tech-news/2025-11-17/why-anthropics-ceo-spends-so-much-time-warning-of/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Šéf Anthropic varuje: Bez ochranných opatření může AI znamenat nebezpečný vývoj",
+      "description": "Dario Amodei, CEO společnosti Anthropic, staví svou firmu na bezpečnosti a transparentnosti umělé inteligence. Snaží se předvídat zneužití AI a zmírňovat její rizika, protože regulace zatím chybí.",
+      "slug": "anthropic-ceo-warns-that-without-guardrails-ai-cou",
+      "publishedAt": "2025-11-17T00:46:00+00:00",
+      "date": "2025-11-17 00:46:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/16/a733e79e-6243-41f8-b862-409b0e59f808/thumbnail/1200x630/bb487f91c0fa07d103e7ffbbeec671d9/anthropic-article.jpg",
+      "url": "/tech-news/2025-11-17/anthropic-ceo-warns-that-without-guardrails-ai-cou/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Technické vysoké školy čelí nejistému náboru absolventů",
+      "description": "Indičtí absolventi technických vysokých škol mohou čelit výraznému poklesu pracovních nabídek v IT pro ročník 2026 kvůli automatizaci, umělé inteligenci a opatrnému trhu.",
+      "slug": "engineering-colleges-stare-at-uncertain-hiring",
+      "publishedAt": "2025-11-17T00:30:15+00:00",
+      "date": "2025-11-17 00:30:15",
+      "importance": 3,
+      "category": "zaměstnanost v it",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/16/1600x900/logo/3-0-121041140-20181207-DLI-VK-MN-AIIMS-Convocation_1763301895430_1763301895797.JPG",
+      "url": "/tech-news/2025-11-17/engineering-colleges-stare-at-uncertain-hiring/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Není-tech firmy zvyšují investice do umělé inteligence, aby nezůstaly pozadu",
+      "description": "Poptávka po odbornících na umělou inteligenci mezi firmami mimo technologický sektor vzrostla o 25–50 % oproti loňskému roku, uvádějí personální agentury.",
+      "slug": "non-tech-firms-up-ai-spends-to-stay-ahead-of-the-c",
+      "publishedAt": "2025-11-17T00:30:00+00:00",
+      "date": "2025-11-17 00:30:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53962,resizemode-75,msid-125368146/tech/technology/non-tech-firms-up-ai-spends-to-stay-ahead-of-the-curve.jpg",
+      "url": "/tech-news/2025-11-17/non-tech-firms-up-ai-spends-to-stay-ahead-of-the-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Zakladatel Faraday Future oznámil přejmenování společnosti QLGN na AIxCrypto s tickerem AIXC",
+      "description": "Společnost Faraday Future Intelligent Electric Inc. (FFAI) oznámila, že dceřiná firma QLGN, kterou strategicky ovládá, změní název na AIxCrypto a bude obchodována pod tickerem AIXC od 20. listopadu 2025.",
+      "slug": "faraday-future-founder-and-co-ceo-yt-jia-shares-we",
+      "publishedAt": "2025-11-17T00:30:00+00:00",
+      "date": "2025-11-17 00:30:00",
+      "importance": 3,
+      "category": "kryptoměny",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4ba28ea7-306e-4ce1-8f71-e9977969ad60",
+      "url": "/tech-news/2025-11-17/faraday-future-founder-and-co-ceo-yt-jia-shares-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Faraday Future",
+        "QLGN",
+        "AIxCrypto"
+      ],
+      "people": [
+        "YT Jia"
+      ]
+    },
+    {
+      "title": "Od AI vertikálů po astrologické aplikace: tradiční zábavní firmy rychle diverzifikují své aktivity",
+      "description": "S poklesem růstu kin a streamovacích služeb se tradiční mediální společnosti jako Balaji Telefilms nebo Abundantia Entertainment rozšiřují do oblastí umělé inteligence, astrologie a živých akcí, aby udržely publikum a zvýšily příjmy.",
+      "slug": "from-ai-verticals-to-astrological-apps-traditional",
+      "publishedAt": "2025-11-17T00:27:15+00:00",
+      "date": "2025-11-17 00:27:15",
+      "importance": 3,
+      "category": "média",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/15/1600x900/logo/AstroVani_Logo__1763205897812_1763205910033.jpg",
+      "url": "/tech-news/2025-11-17/from-ai-verticals-to-astrological-apps-traditional/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "OpenAI",
+        "Abundantia",
+        "Balaji Telefilms"
+      ],
+      "people": []
+    },
+    {
+      "title": "Malajsie spouští novou nouzovou službu 999 s využitím umělé inteligence a přesného určení polohy",
+      "description": "Malajsie zavádí modernizovaný nouzový systém NG MERS 999, který využívá AI, geolokaci a multimediální komunikaci pro rychlejší a inkluzivnější zásahy.",
+      "slug": "next-generation-emergency-response-service-launche",
+      "publishedAt": "2025-11-17T00:25:00+00:00",
+      "date": "2025-11-17 00:25:00",
+      "importance": 3,
+      "category": "záchranné služby",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/17/3625602.jpg",
+      "url": "/tech-news/2025-11-17/next-generation-emergency-response-service-launche/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [
+        "Telekom Malaysia Berhad"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ruský vysoce očekávaný humanoidní robot při premiéře upadl na obličej",
+      "description": "Při technologické ukázce v Moskvě ruský humanoidní robot, prezentovaný jako první domácí AI humanoid, zkolaboval na pódiu před očima novinářů.",
+      "slug": "russias-much-hyped-humanoid-robot-face-plants-onst",
+      "publishedAt": "2025-11-17T00:18:03+00:00",
+      "date": "2025-11-17 00:18:03",
+      "importance": 3,
+      "category": "robotika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-17/russias-much-hyped-humanoid-robot-face-plants-onst/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Marketing je tvrdá práce… i v době AI, outsourcingu a levných platforem",
+      "description": "Přes rozšíření nástrojů jako AI, outsourcing a efektivní marketingové platformy zůstává marketing náročnou disciplínou vyžadující lidskou expertízu a strategické myšlení.",
+      "slug": "marketing-is-hard-work-even-in-an-era-of-ai-outsou",
+      "publishedAt": "2025-11-17T00:01:35+00:00",
+      "date": "2025-11-17 00:01:35",
+      "importance": 3,
+      "category": "marketing",
+      "urlToImage": "https://cdn.martech.zone/wp-content/uploads/2016/11/marketing-is-hard-work.webp",
+      "url": "/tech-news/2025-11-17/marketing-is-hard-work-even-in-an-era-of-ai-outsou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Martech.zone"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hackathon CodeGirls: Umělá inteligence pro rychlejší detekci rakoviny prsu",
+      "description": "V mnoha nemocnicích trvá detekce rakoviny prsu déle než je ideální, protože lékaři mají příliš mnoho vyšetření ke kontrole a často chybí specializovaný personál. To způsobuje zpoždění ve sdělení výsledků pacientkám.",
+      "slug": "hackathon-codegirls",
+      "publishedAt": "2025-11-17T00:00:46+00:00",
+      "date": "2025-11-17 00:00:46",
+      "importance": 3,
+      "category": "zdravotní technologi",
+      "urlToImage": "http://community.wolfram.com/share.png",
+      "url": "/tech-news/2025-11-17/hackathon-codegirls/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wolfram.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Recenze vývojové sady UP TWL AI – Testy výkonu, funkcí a AI úloh na Ubuntu 24.04",
+      "description": "Autor otestoval vývojovou desku UP TWL od společnosti AAEON, která je určená pro vývoj AI aplikací na úrovni vstupního segmentu a využívá procesor Intel N150 s Ubuntu 24.04.",
+      "slug": "up-twl-ai-dev-kit-review-benchmarks-features-testi",
+      "publishedAt": "2025-11-17T00:00:36+00:00",
+      "date": "2025-11-17 00:00:36",
+      "importance": 3,
+      "category": "ai hardware",
+      "urlToImage": "https://www.cnx-software.com/wp-content/uploads/2025/11/UP-TWL-AI-Dev-Kit-Review.jpg",
+      "url": "/tech-news/2025-11-17/up-twl-ai-dev-kit-review-benchmarks-features-testi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNX Software"
+      },
+      "companies": [
+        "Intel",
+        "Ubuntu"
+      ],
+      "people": []
+    },
+    {
+      "title": "Prestižní televize má nový domov – a není jím HBO",
+      "description": "HBO dlouhodobě vedlo pole prestižní televize, ale nyní se jeho pozice mění. Apple TV+ se stává novým centrem originálního a kvalitního obsahu, zatímco HBO se více zaměřuje na franšízy a komerční bezpečí.",
+      "slug": "prestige-tv-has-a-new-home-and-its-not-hbo",
+      "publishedAt": "2025-11-17T00:00:15+00:00",
+      "date": "2025-11-17 00:00:15",
+      "importance": 3,
+      "category": "televize",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/11/hbo-max-logo-on-tv-with-popcorn-bowl-and-remote-control-on-the-table-with-apple-tv-logos-sprinkled-on-the-wall.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-17/prestige-tv-has-a-new-home-and-its-not-hbo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Směrem k informačnímu pojetí meziosobní koordinace",
+      "description": "Metodologická omezení brání výzkumu složitých dynamik meziosobní koordinace, která je základem lidské sociálnosti. Autoři navrhují využití informační teorie jako sjednocujícího rámce.",
+      "slug": "towards-an-informational-account-of-interpersonal-",
+      "publishedAt": "2025-11-17T00:00:00+00:00",
+      "date": "2025-11-17 00:00:00",
+      "importance": 3,
+      "category": "informační teorie",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41583-025-00989-0/MediaObjects/41583_2025_989_Fig1_HTML.png",
+      "url": "/tech-news/2025-11-17/towards-an-informational-account-of-interpersonal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jablko mého oka: Jak jsem vytvořila aplikaci pro sledování zdraví plodin pro farmáře v Tanzánii",
+      "description": "Neema Mduma, výzkumnice umělé inteligence, vyvíjí mobilní aplikaci KilimoAI, která pomocí analýzy fotografií listů rostlin detekuje nemoci plodin v Tanzánii.",
+      "slug": "the-apple-of-my-eye-how-ive-created-a-plant-health",
+      "publishedAt": "2025-11-17T00:00:00+00:00",
+      "date": "2025-11-17 00:00:00",
+      "importance": 3,
+      "category": "zemědělská technolog",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03723-z/d41586-025-03723-z_51707012.jpg",
+      "url": "/tech-news/2025-11-17/the-apple-of-my-eye-how-ive-created-a-plant-health/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": [
+        "Neema Mduma"
+      ]
+    },
+    {
+      "title": "Úplně optická modulace pomocí jednotlivých fotonů s využitím elektronové laviny",
+      "description": "Výzkumníci ukázali, že elektronová lavina v křemíku umožňuje modulovat světlo pomocí jednotlivých fotonů, což představuje významný pokrok ve fotonice a kvantových technologiích.",
+      "slug": "all-optical-modulation-with-single-photons-using-a",
+      "publishedAt": "2025-11-17T00:00:00+00:00",
+      "date": "2025-11-17 00:00:00",
+      "importance": 3,
+      "category": "fotonika",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-025-02056-2/MediaObjects/41565_2025_2056_Fig1_HTML.png",
+      "url": "/tech-news/2025-11-17/all-optical-modulation-with-single-photons-using-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nová kapitola pro baterie elektromobilů po vypršení klíčových patentů na LFP",
+      "description": "Vypršení klíčových patentů na LFP baterie v roce 2022 odstranilo hlavní právní bariéry a umožnilo globálnímu průmyslu volně využívat tuto technologii, což mění strategie výrobců elektromobilů i akumulátorů.",
+      "slug": "a-new-chapter-begins-for-ev-batteries-with-the-exp",
+      "publishedAt": "2025-11-16T23:58:21+00:00",
+      "date": "2025-11-16 23:58:21",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.shoosmiths.com/-/media/images/articles/banners-month-9-2022/pat-whelen-rxt252rzqly-unsplash.jpg",
+      "url": "/tech-news/2025-11-16/a-new-chapter-begins-for-ev-batteries-with-the-exp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Shoosmiths.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Austrálie zaostává za regionálními partnery v přijetí umělé inteligence",
+      "description": "Nová studie odhalila, že australské organizace zpomalují rozvoj AI kvůli nedostatku řízení, školení a obavám z rizik, čímž ohrožují ekonomickou příležitost v hodnotě 142 miliard australských dolarů.",
+      "slug": "australia-lags-regional-peers-in-ai-adoption",
+      "publishedAt": "2025-11-16T23:53:00+00:00",
+      "date": "2025-11-16 23:53:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Australia-digital-flag-fotolia.jpg",
+      "url": "/tech-news/2025-11-16/australia-lags-regional-peers-in-ai-adoption/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Moje dvě nejlepší růstové akcie na nákup právě teď",
+      "description": "Nvidia zůstává lídrem v hardwaru pro umělou inteligenci a TSMC představuje novou čipovou technologii zaměřenou na snížení energetické náročnosti AI.",
+      "slug": "here-are-my-2-top-growth-stocks-to-buy-now",
+      "publishedAt": "2025-11-16T23:46:58+00:00",
+      "date": "2025-11-16 23:46:58",
+      "importance": 3,
+      "category": "ai akcie",
+      "urlToImage": "https://biztoc.com/cdn/a5deaa8549792c01_s.webp",
+      "url": "/tech-news/2025-11-16/here-are-my-2-top-growth-stocks-to-buy-now/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Taiwan Semiconductor"
+      ],
+      "people": []
+    },
+    {
+      "title": "ZDT a Compeq zaznamenaly růst díky silným prodejům iPhone 17 a zaměřují se na AI servery v roce 2026",
+      "description": "Taiwanské výrobce desek plošných spojů Zhen Ding Technology (ZDT) a Compeq Manufacturing dosáhly v třetím čtvrtletí 2025 solidních výsledků, což bylo podpořeno nadprůměrnými prodeji řady iPhone 17 a stabilní poptávkou po spotřební elektronice.",
+      "slug": "zdt-and-compeq-gain-on-strong-iphone-17-sales-eye-",
+      "publishedAt": "2025-11-16T23:45:35+00:00",
+      "date": "2025-11-16 23:45:35",
+      "importance": 3,
+      "category": "elektronika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251113pd216_files/1_b.jpg",
+      "url": "/tech-news/2025-11-16/zdt-and-compeq-gain-on-strong-iphone-17-sales-eye/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Apple",
+        "Zhen Ding Technology",
+        "Compeq Manufacturing"
+      ],
+      "people": []
+    },
+    {
+      "title": "Režisér tvrdí, že otázka existence UFO už není otázkou – dokument zkoumá 80 let tajemství",
+      "description": "Režisér Dan Farah, známý z filmu Ready Player One, v novém dokumentu The Age of Disclosure prezentuje tvrzení o globálním utajování mimozemské technologie a údajném tajném závodu mezi velmocemi o reverzní inženýrství UFO.",
+      "slug": "filmmaker-declares-existence-of-ufos-no-longer-a-q",
+      "publishedAt": "2025-11-16T23:42:54+00:00",
+      "date": "2025-11-16 23:42:54",
+      "importance": 3,
+      "category": "ufo",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/Comp-Alien-Doc.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2025-11-16/filmmaker-declares-existence-of-ufos-no-longer-a-q/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Technokraté propagující AI nabízejí socialismus jako řešení krize práce",
+      "description": "Roste obava, že umělá inteligence nahrazuje lidskou práci bez ohledu na sociální dopady. Někteří politici a technologičtí vizionáři tak otevírají prostor pro socialistické návrhy jako odpověď na ekonomickou nejistotu.",
+      "slug": "ai-touting-technocrats-sell-socialism-as-the-solut",
+      "publishedAt": "2025-11-16T23:00:12+00:00",
+      "date": "2025-11-16 23:00:12",
+      "importance": 3,
+      "category": "ai a práce",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/16PS.COVER3_.C.TA_.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2025-11-16/ai-touting-technocrats-sell-socialism-as-the-solut/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Princeton Digital Group podporovaná Warburgem vstupuje do Koreje s prvním datovým centrem",
+      "description": "Princeton Digital Group, asijský provozovatel datových center podporovaný investiční firmou Warburg Pincus, plánuje investovat 700 milionů dolarů do svého prvního kampusu datových center v Jižní Koreji, který má podpořit rozvoj umělé inteligence v zemi.",
+      "slug": "warburg-backed-princeton-enters-korea-with-first-d",
+      "publishedAt": "2025-11-16T22:51:13+00:00",
+      "date": "2025-11-16 22:51:13",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-16/warburg-backed-princeton-enters-korea-with-first-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Princeton Digital Group",
+        "Warburg Pincus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Show HN: Můj vedlejší projekt – zdarma dostupný tvůrce e-mailových šablon pro CRM a další weby",
+      "description": "Vývojář představil embedovatelný plugin MailUi, který umožňuje snadno přidat pokročilý editor e-mailových šablon do jakékoli SaaS aplikace – od CRM po e-commerce platformy.",
+      "slug": "show-hn-my-side-project-a-free-email-template-buil",
+      "publishedAt": "2025-11-16T22:26:30+00:00",
+      "date": "2025-11-16 22:26:30",
+      "importance": 3,
+      "category": "emailové nástroje",
+      "urlToImage": "https://mailui.co/images/mailui-banner2.png",
+      "url": "/tech-news/2025-11-16/show-hn-my-side-project-a-free-email-template-buil/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mailui.co"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Americké sankce vynesly čínského AI talenta k bohatství 23 miliard dolarů",
+      "description": "V roce 2019 byl Chen Tianshi daleko od toho, aby se stal jedním z nejbohatších lidí na světě. Díky americkým sankcím a čínské státní podpoře se jeho firma Cambricon stala národním šampionem v oblasti AI čipů.",
+      "slug": "us-sanctions-propel-chinese-ai-prodigy-to-23-billi",
+      "publishedAt": "2025-11-16T22:20:44+00:00",
+      "date": "2025-11-16 22:20:44",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+      "url": "/tech-news/2025-11-16/us-sanctions-propel-chinese-ai-prodigy-to-23-billi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": [
+        "Chen Tianshi"
+      ]
+    },
+    {
+      "title": "Microsoft vydal nouzové bezpečnostní záplaty pro více než 60 zranitelností, včetně aktivně zneužívaného zero-day",
+      "description": "Microsoft tento týden vydal bezpečnostní aktualizace pro více než 60 zranitelností ve Windows a dalších produktech, včetně alespoň jednoho zero-day, který je již aktivně zneužíván útočníky.",
+      "slug": "microsoft-patch-tuesday-november-2025-edition",
+      "publishedAt": "2025-11-16T21:47:14+00:00",
+      "date": "2025-11-16 21:47:14",
+      "importance": 4,
+      "category": "bezpečnostní aktuali",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-16/microsoft-patch-tuesday-november-2025-edition/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple odsouzen k úhradě 634 milionů dolarů společnosti Masimo v patenty sporu",
+      "description": "Americký soud rozhodl, že Apple musí společnosti Masimo zaplatit 634 milionů dolarů za porušení patentu týkajícího se technologie měření hladiny kyslíku v krvi. Spor se týká funkcí Apple Watch.",
+      "slug": "apple-ordered-to-pay-masimo-634m-in-patent-dispute",
+      "publishedAt": "2025-11-16T21:37:43+00:00",
+      "date": "2025-11-16 21:37:43",
+      "importance": 3,
+      "category": "patentové spory",
+      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "url": "/tech-news/2025-11-16/apple-ordered-to-pay-masimo-634m-in-patent-dispute/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nep123.com"
+      },
+      "companies": [
+        "Apple",
+        "Masimo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung plánuje investici 310 miliard dolarů do rozvoje AI",
+      "description": "Jihokorejský koncern Samsung oznámil plán investovat během příštích pěti let 310 miliard dolarů převážně do technologií podporujících umělou inteligenci, včetně nových polovodičových výroben a datových center.",
+      "slug": "samsung-plans-310-bil-investment-to-power-ai-expan",
+      "publishedAt": "2025-11-16T21:35:10+00:00",
+      "date": "2025-11-16 21:35:10",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-16/samsung-plans-310-bil-investment-to-power-ai-expan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Japan Today"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína získává větší roli, zatímco USA vynechávají brazilský klimatický summit",
+      "description": "Při absenci Spojených států na klimatickém summitu OSN v Brazílii přebírá Čína vedoucí roli v globálním klimatickém dialogu. Její pavilon dominuje areálu konference COP30 a čínští diplomatičtí i energetičtí představitelé aktivně formují průběh jednání.",
+      "slug": "china-finds-bigger-role-as-us-sidesteps-brazil-cli",
+      "publishedAt": "2025-11-16T21:22:48+00:00",
+      "date": "2025-11-16 21:22:48",
+      "importance": 3,
+      "category": "klima",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-16/china-finds-bigger-role-as-us-sidesteps-brazil-cli/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Japan Today"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínské AI hračky sbírají biometrická data dětí a mohou je vést k nebezpečnému chování",
+      "description": "Nedávná zpráva upozorňuje, že stovky čínských výrobců AI hraček cíleně shromažďují hlasová data dětí ve věku 3 až 12 let. Američtí politici vyzývají k informování veřejnosti o rizicích spojených s těmito zařízeními.",
+      "slug": "ai-toys-from-china-collect-biometric-data-from-our",
+      "publishedAt": "2025-11-16T21:12:51+00:00",
+      "date": "2025-11-16 21:12:51",
+      "importance": 3,
+      "category": "ai hračky",
+      "urlToImage": "http://theeconomiccollapseblog.com/wp-content/uploads/2025/11/ai-generated-8527524_1280.jpg",
+      "url": "/tech-news/2025-11-16/ai-toys-from-china-collect-biometric-data-from-our/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theeconomiccollapseblog.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akcionáři schválili přeměnu Qualigen Therapeutics na AIxCrypto Holdings zaměřenou na AI a Web3",
+      "description": "Společnost Qualigen Therapeutics změní název na AIxCrypto Holdings, Inc. (Nasdaq: AIXC) a přejde na strategii propojující umělou inteligenci a Web3. Novým většinovým akcionářem se stane Faraday Future.",
+      "slug": "qualigen-therapeutics-stockholders-approve-all-pro",
+      "publishedAt": "2025-11-16T21:10:00+00:00",
+      "date": "2025-11-16 21:10:00",
+      "importance": 3,
+      "category": "kryptoměny",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f138997a-2a02-42b6-ab21-81c4b6c062ac",
+      "url": "/tech-news/2025-11-16/qualigen-therapeutics-stockholders-approve-all-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Skrytý dopad umělé inteligence: hrozba pro miliony včel",
+      "description": "Nová studie varuje, že energetická náročnost umělé inteligence může vést ke kolapsu včelích kolonií v Austrálii a ohrozit zemědělství závislé na opylování.",
+      "slug": "ais-hidden-sting-a-threat-to-millions-of-bees",
+      "publishedAt": "2025-11-16T21:06:00+00:00",
+      "date": "2025-11-16 21:06:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.computerweekly.com/visuals/German/article/bee-web-honeypot-adobe.jpg",
+      "url": "/tech-news/2025-11-16/ais-hidden-sting-a-threat-to-millions-of-bees/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Výhled americké burzy na týden 17.–21. listopadu: Všechny oči na technologické výsledky, Nvidia a ekonomická data",
+      "description": "Americký akciový trh čeká klíčový týden s výsledky společnosti Nvidia, prvními oficiálními ekonomickými daty po vládním shutdownu a zápisy z jednání Federální rezervy. Analytici předpovídají mírně optimistický výhled, ale varují před makroekonomickou nejistotou.",
+      "slug": "us-stock-market-outlook-for-november-17-21-all-eye",
+      "publishedAt": "2025-11-16T20:45:57+00:00",
+      "date": "2025-11-16 20:45:57",
+      "importance": 3,
+      "category": "burza",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125371493,width-1200,height-630,imgsize-58060,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-16/us-stock-market-outlook-for-november-17-21-all-eye/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Stanley Druckenmillerovy nové nákupy naznačují posun v technologickém trendu",
+      "description": "V lednu legendární miliardář a manažer hedge fondu Stanley Druckenmiller vyjádřil optimismus ohledně výnosů akciového trhu, a jeho nejnovější investice naznačují změnu v technologickém sektoru.",
+      "slug": "stanley-druckenmillers-latest-buys-suggest-shiftin",
+      "publishedAt": "2025-11-16T20:17:16+00:00",
+      "date": "2025-11-16 20:17:16",
+      "importance": 3,
+      "category": "investice",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/b206ba50c3ba401b887081097d164401",
+      "url": "/tech-news/2025-11-16/stanley-druckenmillers-latest-buys-suggest-shiftin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheStreet"
+      },
+      "companies": [],
+      "people": [
+        "Stanley Druckenmiller"
+      ]
+    },
+    {
+      "title": "Apple odsouzen k úhradě 634 milionů dolarů v patenčním sporu o měření kyslíku v krvi na Apple Watch",
+      "description": "Federální porota rozhodla, že funkce tréninkového režimu a upozornění na tep na Apple Watch porušují patenty společnosti Masimo týkající se měření hladiny kyslíku v krvi. Apple musí zaplatit 634 milionů dolarů, ale plánuje odvolání.",
       "slug": "apple-ordered-to-pay-634m-in-apple-watch-blood-oxy",
       "publishedAt": "2025-11-16T19:47:37+00:00",
       "date": "2025-11-16 19:47:37",
@@ -25,7 +707,7 @@
     },
     {
       "title": "Ministerstvo obrany přijme stážisty z programu podporovaného Microsoftem",
-      "description": "Deset studentů softwarového inženýrství a informatiky z Holberton School nastoupí na 12měsíční stáž do Digitální skupiny ministerstva obrany.",
+      "description": "Deset studentů softwarového inženýrství a informatiky z Holberton School začne roční stáž v Digitální skupině ministerstva obrany.",
       "slug": "defence-to-bring-on-trainee-software-engineers-fro",
       "publishedAt": "2025-11-16T19:37:18+00:00",
       "date": "2025-11-16 19:37:18",
@@ -45,7 +727,7 @@
     },
     {
       "title": "Tvůrkyně seriálu The Owl House kritizuje Boba Igera za plány Disney používat AI na Disney+",
-      "description": "Dana Terrace, autorka animovaného seriálu The Owl House, ostře zareagovala na výroky šéfa Disneye Boba Igera o plánech využívat umělou inteligenci k tvorbě uživatelského obsahu na platformě Disney+.",
+      "description": "Dana Terrace, autorka animovaného seriálu The Owl House, ostře zareagovala na výroky šéfa Disneye Boba Igera o plánech využívat umělou inteligenci k tvorbě uživatelského obsahu na Disney+.",
       "slug": "the-owl-house-creator-hits-back-at-bob-igers-disne",
       "publishedAt": "2025-11-16T19:37:04+00:00",
       "date": "2025-11-16 19:37:04",
@@ -82,8 +764,8 @@
       "people": []
     },
     {
-      "title": "Umělá inteligence rozhodne o výsledku příští války",
-      "description": "AI sice nenahradí odvahu vojáků, ale může zlepšit jejich rozhodování, snížit zátěž a zvýšit šance na návrat domů vítězně.",
+      "title": "Umělá inteligence vyhraje příští válku",
+      "description": "AI nemůže nahradit odvahu vojáků, ale může jim ulehčit zátěž, zpřesnit rozhodování a zvýšit jejich šance na vítězný návrat domů.",
       "slug": "artificial-intelligence-to-win-the-next-war",
       "publishedAt": "2025-11-16T19:20:41+00:00",
       "date": "2025-11-16 19:20:41",
@@ -100,26 +782,8 @@
       "people": []
     },
     {
-      "title": "DVDFab 13.0.5.2: Komplexní multimediální řešení pro zálohování a konverzi disků",
-      "description": "Nová verze DVDFab 13.0.5.2 nabízí komplexní sadu nástrojů pro zálohování, kompresi a kopírování DVD, Blu-ray a 4K Ultra HD disků bez ztráty kvality.",
-      "slug": "dvdfab-13052",
-      "publishedAt": "2025-11-16T19:10:32+00:00",
-      "date": "2025-11-16 19:10:32",
-      "importance": 3,
-      "category": "multimediální softwa",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-16/dvdfab-13052/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rlsbb.to"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chybně pojmenovaný zákon GAIN AI Act by poškodil Nvidia a AMD více než Čínu",
-      "description": "Nový návrh zákona amerického senátora Jima Bankse by mohl omezit schopnost amerických firem jako Nvidia a AMD testovat a vyvíjet AI technologie v globálním měřítku.",
+      "title": "Špatně pojmenovaný zákon GAIN AI by mohl Nvidia a AMD ublížit mnohem víc než Číně",
+      "description": "Návrh zákona GAIN AI Act, který má omezit export AI čipů do Číny, by mohl podle kritiků poškodit americké technologické firmy víc, než pomoci jejich konkurenci.",
       "slug": "misnamed-gain-ai-act-would-deprive-nvidia-amd-of-m",
       "publishedAt": "2025-11-16T19:00:00+00:00",
       "date": "2025-11-16 19:00:00",
@@ -140,7 +804,7 @@
     },
     {
       "title": "iPhone 17 vs iPhone 17 Pro: Rozdíly a hodnota za peníze",
-      "description": "Apple představil nové modely iPhone 17 a iPhone 17 Pro, které se liší v materiálech, výkonu, fotoaparátu i ceně. Článek porovnává oba modely z hlediska praktického využití a poměru cena–výkon.",
+      "description": "Apple představil nové modely iPhone 17 a iPhone 17 Pro, které se liší v materiálech, výkonu, fotoaparátu i ceně. Článek porovnává oba modely a pomáhá určit, který lépe vyhovuje konkrétním potřebám uživatele.",
       "slug": "iphone-17-vs-iphone-17-pro-differences-value",
       "publishedAt": "2025-11-16T18:59:27+00:00",
       "date": "2025-11-16 18:59:27",
@@ -159,8 +823,8 @@
       "people": []
     },
     {
-      "title": "Podivná mužná přitažlivost fosilních paliv ve světě usilujícím o nulové emise",
-      "description": "Třicet let klimatických summitů OSN selhalo, protože fosilní paliva mají stále silnou symbolickou spojitost s tradiční mužností a silou.",
+      "title": "Podivné machistické kouzlo fosilních paliv ve světě usilujícím o nulové emise",
+      "description": "Třicet let klimatických summitů OSN nezabránilo pokračujícímu vlivu fosilních paliv, jejichž atraktivita částečně spočívá v machistické retorice jejich zastánců.",
       "slug": "the-strange-macho-appeal-of-fossil-fuels-in-a-worl",
       "publishedAt": "2025-11-16T18:53:55+00:00",
       "date": "2025-11-16 18:53:55",
@@ -178,12 +842,12 @@
     },
     {
       "title": "Jak škálovat distribuované produktové týmy z 10 na 100 lidí",
-      "description": "Průvodce osvědčenými postupy pro efektivní škálování distribuovaných produktových týmů podle zkušeností firem jako Stripe, Notion nebo Linear.",
+      "description": "Průvodce osvědčenými postupy pro škálování distribuovaných produktových týmů od firem jako Stripe, Notion nebo Linear. Obsahuje struktury a strategie pro řízení růstu.",
       "slug": "how-to-scale-distributed-product-teams-from-10-to-",
       "publishedAt": "2025-11-16T18:51:13+00:00",
       "date": "2025-11-16 18:51:13",
       "importance": 3,
-      "category": "týmová správa",
+      "category": "škálování týmů",
       "urlToImage": "https://intelligentfuturetech.com/logo-intelligentfuturetech.png",
       "url": "/tech-news/2025-11-16/how-to-scale-distributed-product-teams-from-10-to/",
       "source": {
@@ -195,13 +859,13 @@
       "people": []
     },
     {
-      "title": "Vláda nabízí technologické pobídky pro rozvoj inovačního potenciálu mezi školáky",
-      "description": "Indický ministr Dr. Jitendra Singh vyzývá žáky, rodiče i učitele, aby využili státní schémata podporující vědu, technologie a podnikání už od základní školy.",
+      "title": "Vláda nabízí technologické pobídky pro rozvoj inovačního potenciálu mezi školáky: Dr. Jitendra",
+      "description": "Indický ministr Dr. Jitendra Singh vyzývá žáky a učitele, aby využili státní technologické programy zaměřené na podporu inovací a vědeckého myšlení u dětí ve věku 10–17 let.",
       "slug": "govt-offering-technology-incentives-to-groom-poten",
       "publishedAt": "2025-11-16T18:44:30+00:00",
       "date": "2025-11-16 18:44:30",
       "importance": 3,
-      "category": "vzdělávání",
+      "category": "vzdělávání v technol",
       "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/JITENDRAfff.jpg",
       "url": "/tech-news/2025-11-16/govt-offering-technology-incentives-to-groom-poten/",
       "source": {
@@ -216,7 +880,7 @@
     },
     {
       "title": "Publicis Media spouští Spark Foundry v Indii s důrazem na AI a data",
-      "description": "Marketingová skupina Publicis Groupe rozšiřuje své působení v Indii založením nové agentury Spark Foundry, která bude využívat umělou inteligenci a datové analytiky pro budování značek a zvyšování výkonnosti kampaní.",
+      "description": "Publicis Groupe rozšiřuje své působení v Indii založením nové mediální agentury Spark Foundry, která bude využívat umělou inteligenci a datové analytiky pro budování značek a zvyšování výkonnosti kampaní.",
       "slug": "publicis-media-launches-spark-foundry-to-deepen-in",
       "publishedAt": "2025-11-16T18:32:21+00:00",
       "date": "2025-11-16 18:32:21",
@@ -230,14 +894,11 @@
         "name": "The Times of India"
       },
       "companies": [],
-      "people": [
-        "Niti Kumar",
-        "Ravi Bhaya"
-      ]
+      "people": []
     },
     {
       "title": "Rizikový kapitál se ve třetím čtvrtletí zotavuje, ale investice do raných fází klesají",
-      "description": "Irský trh rizikového kapitálu zaznamenal mírné zotavení ve třetím čtvrtletí, avšak financování startupů v raných fázích zůstává pod tlakem.",
+      "description": "Mezinárodní důvěra investorů se po oznámení tzv. 'Dne osvobození' částečně obnovila, avšak financování startupů v raných stádiích v Irsku stále klesá.",
       "slug": "venture-capital-recovers-in-third-quarter-but-earl",
       "publishedAt": "2025-11-16T18:26:41+00:00",
       "date": "2025-11-16 18:26:41",
@@ -254,8 +915,8 @@
       "people": []
     },
     {
-      "title": "Microsoft provozuje největší víceobjektové AI datové centrum o výkonu 2 gigawatty",
-      "description": "Microsoft spustil druhé datové centrum Fairwater v Atlantě, které společně s prvním v Wisconsinu tvoří nejvýkonnější AI infrastrukturu na světě s celkovým výkonem přes 2 GW. Cílem je desetinásobně zvýšit kapacitu AI trénování každých 18–24 měsíců.",
+      "title": "Microsoft provozuje největší víceobjektové AI datové centrum s kapacitou 2 gigawatty",
+      "description": "Microsoft spustil druhé datové centrum Fairwater v Atlantě, které společně s prvním v Wisconsinu tvoří nejvýkonnější AI infrastrukturu na světě s celkovou kapacitou přes 2 GW.",
       "slug": "microsoft-has-largest-multi-site-ai-data-center-at",
       "publishedAt": "2025-11-16T18:13:45+00:00",
       "date": "2025-11-16 18:13:45",
@@ -281,7 +942,7 @@
     },
     {
       "title": "12 měkkých dovedností, které zaměstnanci potřebují pro úspěch v budoucím pracovním prostředí",
-      "description": "Měkké dovednosti budou klíčem k úspěchu v budoucím pracovním světě. Článek představuje 12 zásadních schopností a ukazuje, jak je moderní vzdělávání může rozvíjet.",
+      "description": "Měkké dovednosti budou klíčem k úspěchu v budoucím pracovním světě. Článek představuje 12 základních dovedností a ukazuje, jak je moderní vzdělávání může rozvíjet.",
       "slug": "A-12-soft-skills-employees-need-to-succeed-in-the-",
       "publishedAt": "2025-11-16T18:00:52+00:00",
       "date": "2025-11-16 18:00:52",
@@ -298,8 +959,8 @@
       "people": []
     },
     {
-      "title": "Startup Ayar Labs podporovaný Nvidií spolupracuje s GUC na fotonických čipletech pro hyperskalovatelné datové centrum",
-      "description": "Startup Ayar Labs, podporovaný Nvidií, oznámil spolupráci s tchajwanskou firmou Global Unichip Corp (GUC) na integraci svých optických I/O čipletů do referenčních návrhů XPU. Cílem je nahradit měděné propojení výkonnější a energeticky úspornější optickou komunikací mezi čipy.",
+      "title": "Startup podporovaný Nvidií, Ayar Labs, spolupracuje s GUC na fotonických čipletech pro hyperskalovatelné datové centrum",
+      "description": "Startup Ayar Labs, podporovaný Nvidií, oznámil spolupráci s tchajwanskou firmou Global Unichip Corp (GUC) na integraci svých optických I/O čipletů do referenčních návrhů XPU. Cílem je nahradit měděné propojení optickým řešením s kapacitou přes 200 Tbps.",
       "slug": "nvidia-backed-photonics-startup-ayar-labs-eyes-hyp",
       "publishedAt": "2025-11-16T18:00:10+00:00",
       "date": "2025-11-16 18:00:10",
@@ -320,8 +981,8 @@
       "people": []
     },
     {
-      "title": "Výsledky NVDA, FOMC a další klíčové události tohoto týdne",
-      "description": "Trhy čeká rozhodující týden, ve kterém budou mít zásadní vliv výsledky společnosti Nvidia a rozhodnutí FOMC ohledně úrokových sazeb.",
+      "title": "Zisky NVDA, FOMC a další klíčové události týdne",
+      "description": "Trhy čeká rozhodující týden, ve kterém budou zisky společnosti Nvidia ovlivňovat směr investic do AI infrastruktury.",
       "slug": "nvda-earnings-fomc-and-other-key-things-to-watch-t",
       "publishedAt": "2025-11-16T18:00:02+00:00",
       "date": "2025-11-16 18:00:02",
@@ -341,12 +1002,12 @@
     },
     {
       "title": "Průlomový rok pro e-methanol",
-      "description": "V době, kdy na klimatickém summitu COP30 v brazilském Belému převažují obavy z ústupu od klimatických cílů, se e-methanol vynořuje jako slibná alternativa v dekarbonizaci dopravy a průmyslu.",
+      "description": "V době, kdy se na klimatickém summitu COP30 v brazilském Belému projevují známky zpomalení globální klimatické akce, se e-methanol vynořuje jako slibné řešení pro dekarbonizaci náročných odvětví, jako je námořní doprava a chemický průmysl.",
       "slug": "a-breakout-year-for-e-methanol",
       "publishedAt": "2025-11-16T18:00:00+00:00",
       "date": "2025-11-16 18:00:00",
       "importance": 3,
-      "category": "e-methanol",
+      "category": "e-paliva",
       "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-14_njig6fpel2.jpg",
       "url": "/tech-news/2025-11-16/a-breakout-year-for-e-methanol/",
       "source": {
@@ -358,8 +1019,8 @@
       "people": []
     },
     {
-      "title": "nauyaca přidána na PyPI",
-      "description": "Na Python Package Index (PyPI) byla publikována knihovna nauyaca – moderní implementace klienta i serveru pro protokol Gemini postavená na asyncio.",
+      "title": "nauyaca přidána do PyPI",
+      "description": "Moderní implementace serveru a klienta pro protokol Gemini využívající asyncio.",
       "slug": "nauyaca-added-to-pypi",
       "publishedAt": "2025-11-16T17:52:44+00:00",
       "date": "2025-11-16 17:52:44",
@@ -377,7 +1038,7 @@
     },
     {
       "title": "AI úzkost dorazila na SNL",
-      "description": "Satirický skeč z populárního pořadu Saturday Night Live ilustruje rostoucí frustraci s chybami generativní umělé inteligence při zpracování osobních fotografií.",
+      "description": "Satirický sketch z populárního pořadu Saturday Night Live ilustruje frustraci s chybnými výstupy generativní umělé inteligence při animaci starých rodinných fotografií.",
       "slug": "ai-anxiety-hits-snl",
       "publishedAt": "2025-11-16T17:40:27+00:00",
       "date": "2025-11-16 17:40:27",
@@ -394,8 +1055,8 @@
       "people": []
     },
     {
-      "title": "Navštívil jsem uzavřený retreat pro špičkové právníky. Poselství bylo jasné: Nebojte se AI – využívejte ji.",
-      "description": "Na pozvánkovém TLTF Summitu v Austinu se právníci sešli, aby diskutovali o budoucnosti právního oboru ve věku umělé inteligence.",
+      "title": "Navštívil jsem uzavřený retreat pro špičkové právníky. Poselství bylo jasné: Nebojte se AI – využijte ji.",
+      "description": "Na pozvánkovém TLTF Summitu v Austinu se právníci setkali, aby diskutovali o budoucnosti právního oboru ve věku umělé inteligence.",
       "slug": "i-went-to-a-closed-door-retreat-for-top-lawyers-th",
       "publishedAt": "2025-11-16T17:26:19+00:00",
       "date": "2025-11-16 17:26:19",
@@ -432,8 +1093,8 @@
       "people": []
     },
     {
-      "title": "Kdyby TSMC neinvestovala do Arizony, USA by musely podpořit Intela, tvrdí tchajwanský úředník",
-      "description": "Tchajwanský diplomat tvrdí, že masivní investice TSMC do výroby čipů v USA byla nezbytná, aby Washington nezačal plně podporovat konkurenčního výrobce Intel.",
+      "title": "Kdyby TSMC neinvestovala do Arizony, USA by musely podpořit Intel, tvrdí tchajwanský úředník",
+      "description": "Tchajwanský diplomat tvrdí, že masivní investice TSMC do americké výroby byla nezbytná, aby Washington nezačal plně podporovat konkurenční Intel. Tento krok měl také udržet důvěru amerických zákazníků jako Apple, NVIDIA či AMD.",
       "slug": "if-tsmc-hadnt-invested-heavily-in-arizona-the-us-g",
       "publishedAt": "2025-11-16T17:13:04+00:00",
       "date": "2025-11-16 17:13:04",
@@ -453,8 +1114,8 @@
       "people": []
     },
     {
-      "title": "Wuxia hra Where Winds Meet využívá AI chatboty pro NPC – hráči je zneužívají k absurdním scénářům",
-      "description": "Hra Where Winds Meet od čínského výrobce NetEase integruje LLM chatboty do herních postav, což vedlo k nečekaným a často nevhodným interakcím hráčů s umělou inteligencí.",
+      "title": "Wuxia MMO Where Winds Meet využívá AI chatboty pro NPC – hráči je zneužívají k absurdním scénářům",
+      "description": "Hra Where Winds Meet od čínského výrobce NetEase implementuje LLM chatboty do dialogů s postavami, což vedlo k nečekaným a často nevhodným interakcím hráčů.",
       "slug": "wuxia-mmo-where-winds-meet-is-full-of-ai-chatbot-n",
       "publishedAt": "2025-11-16T17:01:18+00:00",
       "date": "2025-11-16 17:01:18",
@@ -3130,85 +3791,6 @@
       "people": []
     },
     {
-      "title": "Aktualizace Google Play umožní snadné vzdálené odinstalování aplikací z jiných zařízení",
-      "description": "Nová verze Google Play Store (v48.8) přináší možnost vzdáleně odinstalovat aplikace z dalších zařízení přímo z detailu aplikace, bez nutnosti mít tato zařízení fyzicky u sebe.",
-      "slug": "google-play-store-update-makes-it-super-easy-to-un",
-      "publishedAt": "2025-11-10T23:46:38+00:00",
-      "date": "2025-11-10 23:46:38",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/11/Google-Play-Uninstall-Button-1-1200x628-cropped.jpg",
-      "url": "/tech-news/2025-11-10/google-play-store-update-makes-it-super-easy-to-un/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Droid Life"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indikace obnovení HomePod mini: americký prodejce B&H jej označil za ukončený",
-      "description": "Signály z distribuce naznačují blížící se aktualizaci HomePod mini. Klíčový prodejce B&H hlásí ukončení prodeje a zásoby u dalších obchodníků se tenčí, což podporuje spekulace o novém modelu s vylepšeným čipem, konektivitou a integrací funkcí Apple Intelligence.",
-      "slug": "homepod-mini-refresh-looking-more-likely-as-bh-lis",
-      "publishedAt": "2025-11-10T23:37:00+00:00",
-      "date": "2025-11-10 23:37:00",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-10/homepod-mini-refresh-looking-more-likely-as-bh-lis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "B&H"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Play začne varovat před aplikacemi s nadměrnou spotřebou baterie",
-      "description": "Google zavádí nový metriky pro sledování nadměrných „partial wake locks“ v Android aplikacích. Aplikace, které výrazně zatěžují baterii na pozadí, budou hůře viditelné v obchodě Play a mohou dostat varovné označení pro uživatele.",
-      "slug": "google-play-will-soon-warn-about-apps-that-cause-e",
-      "publishedAt": "2025-11-10T23:29:00+00:00",
-      "date": "2025-11-10 23:29:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-battery-widget-changes-in-Android-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-10/google-play-will-soon-warn-about-apps-that-cause-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Výzkum naznačuje oddělené dráhy pro memorování a uvažování v AI modelech",
-      "description": "Nová studie startupu Goodfire.ai ukazuje, že velké jazykové modely mají zřetelně oddělené neuronové komponenty pro doslovné memorování tréninkových dat a pro logické uvažování, což otevírá cestu k přesnějšímu řízení chování AI.",
-      "slug": "researchers-isolate-memorization-from-reasoning-in",
-      "publishedAt": "2025-11-10T23:06:42+00:00",
-      "date": "2025-11-10 23:06:42",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
-      "url": "/tech-news/2025-11-10/researchers-isolate-memorization-from-reasoning-in/",
-      "source": {
-        "emoji": "🔬",
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Siri Shortcuts nově ovládají rutiny Samsung SmartThings",
       "description": "Samsung rozšiřuje SmartThings o podporu Siri Shortcuts, takže uživatelé iPhonů, iPadů, Apple Watch a HomePodů mohou hlasem spouštět rutiny a ovládat zařízení chytré domácnosti napojené na platformu SmartThings.",
       "slug": "siri-shortcuts-now-works-with-samsung-smartthings-",
@@ -3230,156 +3812,6 @@
       "people": []
     },
     {
-      "title": "HomePod mini mizí z nabídky některých prodejců. Naznačuje to blížící se novou verzi",
-      "description": "Americký prodejce B&H a další velcí partneři Apple uvádějí HomePod mini jako ukončený nebo nedostupný, což posiluje spekulace o blížícím se uvedení nové generace chytrého reproduktoru.",
-      "slug": "bh-lists-homepod-mini-as-discontinued-amid-refresh",
-      "publishedAt": "2025-11-10T22:35:17+00:00",
-      "date": "2025-11-10 22:35:17",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/HRg8XLwJ8f6W_X6YZBHMPTQuisA=/2500x/article-new/2022/08/yellow-homepod-mini-image.jpg",
-      "url": "/tech-news/2025-11-10/bh-lists-homepod-mini-as-discontinued-amid-refresh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "B&H"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pět let Apple Silicon: srovnání výkonu M1 až M5 a dopady pro uživatele",
-      "description": "Apple po pěti letech shrnuje vývoj vlastních čipů od M1 po M5. Nová generace přináší násobné zvýšení výkonu CPU, GPU a AI, efektivnější výrobu a posiluje strategii uzavřeného ekosystému, která má přímý dopad na uživatele, vývojáře i konkurenci.",
-      "slug": "five-years-of-apple-silicon-m1-to-m5-performance-c",
-      "publishedAt": "2025-11-10T21:08:04+00:00",
-      "date": "2025-11-10 21:08:04",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/tF1olB3pkzfl6m7zNg9Ywn-x_XA=/1920x/article-new/2020/11/m1-chip-slide.jpg",
-      "url": "/tech-news/2025-11-10/five-years-of-apple-silicon-m1-to-m5-performance-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "OnePlus mění identitu: od „flagship killer“ k uhlazenému mainstreamu",
-      "description": "OnePlus cíleně opouští image rebelského výrobce a přechází k umírněnému, praktičtějšímu designu a mainstreamové strategii, aby mohl konkurovat Samsungu, Googlu a Applu.",
-      "slug": "everyone-says-oneplus-lost-its-way-but-i-say-it-fi",
-      "publishedAt": "2025-11-10T20:46:47+00:00",
-      "date": "2025-11-10 20:46:47",
-      "importance": 3,
-      "category": "smartphony",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/175607-wide-two_1200/Everyone-says-OnePlus-lost-its-way-but-I-say-it-finally-found-it.jpg",
-      "url": "/tech-news/2025-11-10/everyone-says-oneplus-lost-its-way-but-i-say-it-fi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "companies": [
-        "OnePlus",
-        "Oppo",
-        "Apple",
-        "Google",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft ukončí po 35 letech aplikaci Publisher. Uživatelé mají rok na migraci dat",
-      "description": "Microsoft oznámil ukončení podpory aplikace Publisher k 1. říjnu 2026. Uživatelé musí převést své soubory do jiných formátů, což zapadá do širší strategie firmy soustředit se na cloud, AI a hlavní produkty Microsoft 365.",
-      "slug": "microsoft-discontinued-one-of-its-oldest-office-ap",
-      "publishedAt": "2025-11-10T20:17:00+00:00",
-      "date": "2025-11-10 20:17:00",
-      "importance": 3,
-      "category": "software",
-      "urlToImage": "https://www.bgr.com/img/gallery/microsoft-discontinued-one-of-its-oldest-office-apps-after-35-years/l-intro-1762797506.jpg",
-      "url": "/tech-news/2025-11-10/microsoft-discontinued-one-of-its-oldest-office-ap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google postupně nahrazuje Google Assistant novým Gemini Home, reakce uživatelů jsou smíšené",
-      "description": "Google začal na chytrých reproduktorech a displejích Google Home nasazovat asistenta Gemini jako výchozí hlasové rozhraní, ale první uživatelé hlásí problémy se spolehlivostí a ovládáním chytré domácnosti.",
-      "slug": "google-says-its-confusing-gemini-home-rollout-is-g",
-      "publishedAt": "2025-11-10T20:02:57+00:00",
-      "date": "2025-11-10 20:02:57",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
-      "url": "/tech-news/2025-11-10/google-says-its-confusing-gemini-home-rollout-is-g/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Google",
-        "Google Assistant",
-        "Gemini Home"
-      ],
-      "people": []
-    },
-    {
-      "title": "CISA nařizuje urgentní záplatu kritické zranitelnosti Samsungu zneužívané spywarem LandFall",
-      "description": "Americká CISA nařídila federálním úřadům okamžitě opravit kritickou zranitelnost v zařízeních Samsung, která byla zneužívána jako zero-day k instalaci spyware LandFall přes WhatsApp. Útok cílil na moderní modely Galaxy a umožňoval rozsáhlé sledování uživatelů.",
-      "slug": "cisa-orders-feds-to-patch-samsung-zero-day-used-in",
-      "publishedAt": "2025-11-10T20:00:34+00:00",
-      "date": "2025-11-10 20:00:34",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
-      "url": "/tech-news/2025-11-10/cisa-orders-feds-to-patch-samsung-zero-day-used-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "CISA",
-        "Samsung",
-        "WhatsApp"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple AirPods 4 zlevnily na historické minimum 85 dolarů",
-      "description": "Apple AirPods 4, nejnovější základní bezdrátová sluchátka Applu, klesla u vybraných prodejců na 84,99 USD, což je dosud nejnižší cena. Nabízejí lepší zvuk, kvalitnější hovory a odolnější konstrukci než předchozí generace.",
-      "slug": "apples-airpods-4-just-hit-their-lowest-price-yet-a",
-      "publishedAt": "2025-11-10T18:47:53+00:00",
-      "date": "2025-11-10 18:47:53",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-10/apples-airpods-4-just-hit-their-lowest-price-yet-a/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "BikeYoke Shifty 2: Mechanický tuning pro přesnější řazení u teleskopických sedlovek",
       "description": "BikeYoke Shifty 2 je druhá generace mechanického adaptéru, který optimalizuje vedení lanka mezi páčkou řazení a teleskopickou sedlovkou, s cílem snížit tření, zvýšit spolehlivost a zlepšit ergonomii ovládání pro náročné cyklisty.",
       "slug": "the-bikeyoke-shifty-2-is-a-mechanical-transmission",
@@ -3396,113 +3828,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Zapomeňte na Windows mini PC: Mac mini s čipem M4 nabízí vyšší výkon za agresivní cenu",
-      "description": "Nejnovější Mac mini s čipem M4, 10jádrovým CPU, 10jádrovým GPU a 16GB unified memory se v aktuální slevě dostává na cenu, za kterou výrazně překonává většinu Windows mini PC jak výkonem, tak efektivitou.",
-      "slug": "dont-bother-with-windows-mini-pcs-apples-mac-mini-",
-      "publishedAt": "2025-11-10T17:15:22+00:00",
-      "date": "2025-11-10 17:15:22",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/mac-mini-m4.jpg",
-      "url": "/tech-news/2025-11-10/dont-bother-with-windows-mini-pcs-apples-mac-mini/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "M3 iPad Air vs. M5 iPad Pro: Jaký model dává skutečně smysl pro náročné uživatele",
-      "description": "Apple aktualizoval řadu iPad Air s čipem M3 a současně posílil odlišení iPad Pro s čipem M5, OLED displejem a vyšší pamětí. Rozdíly mezi modely jsou nyní zásadní pro uživatele, kteří tablet využívají pro práci, tvorbu obsahu a náročné aplikace.",
-      "slug": "m3-ipad-air-vs-m5-ipad-pro-buyers-guide-all-differ",
-      "publishedAt": "2025-11-10T17:01:17+00:00",
-      "date": "2025-11-10 17:01:17",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/p9s-nnk2GVhsXedfykv8gW3Dpic=/2500x/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
-      "url": "/tech-news/2025-11-10/m3-ipad-air-vs-m5-ipad-pro-buyers-guide-all-differ/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Black Friday nabídky: AirPods 4 za 85 dolarů, slevy až 699 dolarů na M4 Max MacBook Pro a zlevněné 240W USB‑C příslušenství",
-      "description": "Předvánoční Black Friday akce u velkých prodejců výrazně zlevňují aktuální produkty Applu včetně AirPods 4, MacBook Air s čipem M4, MacBook Pro s M4 Max a 240W USB‑C kabelů, což zvyšuje dostupnost nového hardwaru pro širší okruh uživatelů.",
-      "slug": "deals-airpods-4-hit-85-all-time-low-m4-max-macbook",
-      "publishedAt": "2025-11-10T16:45:00+00:00",
-      "date": "2025-11-10 16:45:00",
-      "importance": 3,
-      "category": "apple nabídky",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-deals-AirPods-4-MacBook-Bose.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-10/deals-airpods-4-hit-85-all-time-low-m4-max-macbook/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Best Buy",
-        "Target",
-        "Amazon",
-        "9to5Mac"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung Galaxy S26 Plus se vrací v únicích renderů s přepracovaným modulem fotoaparátu",
-      "description": "Nové rendery údajného Samsungu Galaxy S26 Plus naznačují zachování tradičního designu řady S s mírně přepracovaným modulem fotoaparátu a měnícím se složením modelové řady, kde se role Edge a Plus opět přeskupují.",
-      "slug": "samsung-galaxy-s26-plus-reappears-in-renders-with-",
-      "publishedAt": "2025-11-10T16:42:01+00:00",
-      "date": "2025-11-10 16:42:01",
-      "importance": 2,
-      "category": "hardware",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "url": "/tech-news/2025-11-10/samsung-galaxy-s26-plus-reappears-in-renders-with/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple údajně zvažuje odstranění Dynamic Island a přechod na poddisplejovou kameru",
-      "description": "Podle neoficiálních úniků by Apple mohl u výročního iPhonu v roce 2027 skrýt přední kameru pod displej a nabídnout zcela celoplošný design bez výřezů, což však zatím zůstává spekulací.",
-      "slug": "rumor-suggests-apple-could-kill-dynamic-island-wit",
-      "publishedAt": "2025-11-10T16:36:02+00:00",
-      "date": "2025-11-10 16:36:02",
-      "importance": 2,
-      "category": "smartphony",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01Cx09qjiQhFOYma7uOUOc7/hero-image.fill.size_1200x675.v1762791050.png",
-      "url": "/tech-news/2025-11-10/rumor-suggests-apple-could-kill-dynamic-island-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Apple",
-        "Mashable"
-      ],
-      "people": [
-        "Tim Cook"
-      ]
     },
     {
       "title": "Univerzita v Texasu zdvojnásobuje kapacitu AI výpočetního centra a míří mezi nejvýkonnější akademické AI clustery",
@@ -3553,87 +3878,6 @@
       "people": []
     },
     {
-      "title": "Neberte iPad v Apple Store: Amazon zlevnil 11\" iPad s čipem A16 na minimum",
-      "description": "Amazon snížil cenu základního 11\" iPadu (Wi‑Fi, 128 GB, čip A16) na 299 dolarů, zatímco Apple drží oficiální cenu 349 dolarů. Nabídka výrazně zvyšuje poměr výkon/cena a tlačí na cenovou politiku Applu i konkurenci v segmentu tabletů.",
-      "slug": "dont-buy-your-ipad-at-an-apple-store-amazon-just-d",
-      "publishedAt": "2025-11-10T16:15:45+00:00",
-      "date": "2025-11-10 16:15:45",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/ipad-11-a16.jpg",
-      "url": "/tech-news/2025-11-10/dont-buy-your-ipad-at-an-apple-store-amazon-just-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [
-        "Apple",
-        "Amazon",
-        "Kotaku"
-      ],
-      "people": []
-    },
-    {
-      "title": "Výrazné zákazy karet mění podobu formátů ve hře Magic: The Gathering",
-      "description": "Aktuální oznámení o zákazu a omezení karet od Wizards of the Coast přináší rozsáhlé změny v několika formátech Magic: The Gathering, včetně Standardu, Legacy, Pioneeru a Brawlu.",
-      "slug": "november-10th-banned-restricted-announcement-vivi-",
-      "publishedAt": "2025-11-10T16:09:27+00:00",
-      "date": "2025-11-10 16:09:27",
-      "importance": 1,
-      "category": "herní průmysl",
-      "urlToImage": "https://draftsim.com/wp-content/uploads/2025/11/Vivi-Ornitier-illustrated-by-Ryanroro.png",
-      "url": "/tech-news/2025-11-10/november-10th-banned-restricted-announcement-vivi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Draftsim.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vysvětlení banu High Tide v Pauper formátu od 10. listopadu 2025",
-      "description": "Článek vysvětluje, proč byl v karetní hře Magic: The Gathering znovu zakázán kouzelný okamžik High Tide v Pauper formátu s platností od 10. listopadu 2025.",
-      "slug": "explanation-of-the-pauper-high-tide-ban-for-novemb",
-      "publishedAt": "2025-11-10T16:03:14+00:00",
-      "date": "2025-11-10 16:03:14",
-      "importance": 1,
-      "category": "herní průmysl",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg",
-      "url": "/tech-news/2025-11-10/explanation-of-the-pauper-high-tide-ban-for-novemb/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wizards.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Načasování uvedení Mac mini a Mac Studio s čipem M5 odhaleno v novém reportu",
-      "description": "Apple podle nových informací plánuje uvést stolní počítače Mac mini a Mac Studio s čipy M5 zhruba v polovině příštího roku, odděleně od dřívějšího spuštění MacBooků s M5. Neobvyklé načasování vyvolává otázky ohledně produktové strategie Applu.",
-      "slug": "m5-mac-mini-and-mac-studio-launch-timing-revealed-",
-      "publishedAt": "2025-11-10T15:47:00+00:00",
-      "date": "2025-11-10 15:47:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/mac-studio-mini-m5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-10/m5-mac-mini-and-mac-studio-launch-timing-revealed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "9to5Mac"
-      ],
-      "people": [
-        "Tim Cook"
-      ]
-    },
-    {
       "title": "Aby stroje vytvářely matematické důkazy, proměňte je v puzzle",
       "description": "Marijn Heule převádí matematická tvrzení na něco jako sudoku hádanky a pak je nechává řešit počítače. Jeho důkazy byly označeny za „odporné“, ale překračují možnosti jakéhokoli člověka.",
       "slug": "to-have-machines-make-math-proofs-turn-them-into-a",
@@ -3674,27 +3918,6 @@
       "people": []
     },
     {
-      "title": "iOS 27 přinese tři zásadní AI novinky: nový Siri, vyhledávání a zdravotního asistenta",
-      "description": "Apple podle nových informací připravuje pro iOS 27 tři výrazné AI funkce: vizuálně přepracovaného asistenta Siri, nový AI nástroj pro webové vyhledávání a Health+ službu s AI agentem pro správu zdraví uživatelů.",
-      "slug": "ios-27-will-have-three-major-new-ai-features-per-r",
-      "publishedAt": "2025-11-10T14:54:00+00:00",
-      "date": "2025-11-10 14:54:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-10/ios-27-will-have-three-major-new-ai-features-per-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "ViVeTool: Jak odemknout skryté funkce ve Windows 10 a 11",
       "description": "Nástroj ViVeTool umožňuje uživatelům aktivovat experimentální a skryté funkce ve Windows 10 a 11, které Microsoft standardně zpřístupňuje jen omezenému okruhu uživatelů. Přináší tak možnost testovat nové prvky systému dříve, ale zároveň vyžaduje opatrnost kvůli zásahům do interních mechanismů systému.",
       "slug": "vivetool-unlock-windows-features-microsoft-doesnt-",
@@ -3711,270 +3934,6 @@
       },
       "companies": [
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Je tento zachovalý Chevrolet Camaro R/S z roku 1977 za 13 500 dolarů výhodná koupě?",
-      "description": "Článek rozebírá nabídku na klasický Chevrolet Camaro R/S z roku 1977 jako dochovaný „survivor“ vůz s původním vzhledem a diskutuje, zda je požadovaná cena 13 500 dolarů přiměřená vzhledem k jeho stavu, historii a postavení na trhu.",
-      "slug": "at-13500-is-this-1977-chevy-camaro-rs-a-survivor-s",
-      "publishedAt": "2025-11-10T13:25:00+00:00",
-      "date": "2025-11-10 13:25:00",
-      "importance": 1,
-      "category": "automobily",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/at-13500-is-this-1977-chevy-camaro-rs-a-survivor-steal/l-intro-1762549916.jpg",
-      "url": "/tech-news/2025-11-10/at-13500-is-this-1977-chevy-camaro-rs-a-survivor-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google varuje před rizikovými VPN v souvislosti s plošnými blokacemi pornografie",
-      "description": "Rostoucí legislativní tlak na blokaci pornografických webů a povinné ověřování věku vede k masivnímu nárůstu používání VPN, na což Google reaguje varováním před falešnými a škodlivými VPN aplikacemi a možnými budoucími omezeními samotných VPN služeb.",
-      "slug": "porn-bangoogle-issues-new-warning-for-all-smartpho",
-      "publishedAt": "2025-11-10T12:45:00+00:00",
-      "date": "2025-11-10 12:45:00",
-      "importance": 3,
-      "category": "bezpečnost internetu",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f42444852e296b796bf05b7/0x0.jpg?format=jpg&crop=3317,1865,x529,y408,safe&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-11-10/porn-bangoogle-issues-new-warning-for-all-smartpho/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [
-        "Google",
-        "Apple",
-        "Meta",
-        "TikTok",
-        "OnlyFans"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Apple Watch SE (2. generace) výrazně zlevnil na Amazonu před Black Friday",
-      "description": "Chytré hodinky Apple Watch SE 2 (GPS, 44 mm) jsou na Amazonu k dispozici s přibližně 32% slevou, což z nich dělá cenově dostupnější vstup do ekosystému Apple před hlavní vlnou slev Black Friday.",
-      "slug": "best-apple-watch-se-2-deal-save-8901-at-amazon-mas",
-      "publishedAt": "2025-11-10T12:33:09+00:00",
-      "date": "2025-11-10 12:33:09",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/075RzwMb1gp7lcRhhnVv7GQ/hero-image.fill.size_1200x675.v1762775170.jpg",
-      "url": "/tech-news/2025-11-10/best-apple-watch-se-2-deal-save-8901-at-amazon-mas/",
-      "source": {
-        "emoji": "📰",
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "companies": [
-        "Apple",
-        "Amazon",
-        "Mashable"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fanouškovský web CDRomance se vrací na scénu navzdory právnímu tlaku",
-      "description": "Po období útlumu a působení v utajení se web CDRomance, zaměřený na fan překlady a ROM hacky konzolových her, znovu veřejně otevírá. Návrat ukazuje napětí mezi komunitou kolem emulace a držiteli práv a zdůrazňuje význam dostupnosti archivovaných her.",
-      "slug": "is-coming-back-a-mistake-i-dont-know-fan-translati",
-      "publishedAt": "2025-11-10T12:30:00+00:00",
-      "date": "2025-11-10 12:30:00",
-      "importance": 3,
-      "category": "herní emulace",
-      "urlToImage": "https://images.timeextension.com/be5868b03c77a/large.jpg",
-      "url": "/tech-news/2025-11-10/is-coming-back-a-mistake-i-dont-know-fan-translati/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Timeextension.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nový AI framework automaticky odhaluje fyzikální rovnice z kosmických dat",
-      "description": "Výzkumníci z Tsinghua University a Peking University představili framework PhyE2E, který kombinuje generativní modely, symbolickou regresi a fyzikální omezení k automatickému odvozování fyzikálních rovnic přímo z dat vesmírných měření.",
-      "slug": "new-ai-framework-can-uncover-space-physics-equatio",
-      "publishedAt": "2025-11-10T12:00:01+00:00",
-      "date": "2025-11-10 12:00:01",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-framework-can-u.jpg",
-      "url": "/tech-news/2025-11-10/new-ai-framework-can-uncover-space-physics-equatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Přečetla jsem si soukromé zprávy zaměstnanců. Bylo to horší, než jsem čekala",
-      "description": "Manažerka malého obchodního týmu získá přístup k účtu bývalého zaměstnance a zjistí, že on a její současná podřízená ji v soukromých zprávách dlouhodobě ponižovali. Řeší dilema mezi profesionálním odstupem, osobním zraňujícím zážitkem a otázkou, zda situaci otevřeně řešit.",
-      "slug": "help-i-read-my-employees-private-messages-it-was-w",
-      "publishedAt": "2025-11-10T11:00:00+00:00",
-      "date": "2025-11-10 11:00:00",
-      "importance": 1,
-      "category": "práce",
-      "urlToImage": "https://compote.slate.com/images/0d5dc64d-5c10-46f8-bbb3-fb8fa718f500.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "url": "/tech-news/2025-11-10/help-i-read-my-employees-private-messages-it-was-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slate Magazine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple chystá OLED displeje pouze pro výkonnější MacBook Pro s čipy M6 Pro a M6 Max",
-      "description": "Apple podle zprávy Marka Gurmana plánuje přejít u MacBooků Pro na OLED displeje pouze u vyšších modelů s čipy M6 Pro a M6 Max, zatímco základní 14\" varianta s čipem M6 zůstane u mini-LED. První OLED MacBooky Pro s dotykovou obrazovkou se očekávají koncem roku 2026 nebo začátkem 2027.",
-      "slug": "oled-display-coming-to-m6-promax-macbook-pro-not-b",
-      "publishedAt": "2025-11-10T10:54:11+00:00",
-      "date": "2025-11-10 10:54:11",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/LH0Owe-k8P3ox04pjjDnv2nIVwc=/2250x/article-new/2025/01/M6-MacBook-Pro-Feature-1.jpg",
-      "url": "/tech-news/2025-11-10/oled-display-coming-to-m6-promax-macbook-pro-not-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Malware GlassWorm objeven ve třech rozšířeních VS Code s tisíci instalací",
-      "description": "Do oficiálního katalogu rozšíření pro VS Code pronikla tři rozšíření obsahující malware GlassWorm, který se skrývá pomocí Unicode znaků a využívá blockchain k obnově své infrastruktury. Incident ukazuje slabiny v bezpečnostních kontrolách vývojářských nástrojů a ohrožuje vývojáře i firemní prostředí.",
-      "slug": "glassworm-malware-discovered-in-three-vs-code-exte",
-      "publishedAt": "2025-11-10T08:51:00+00:00",
-      "date": "2025-11-10 08:51:00",
-      "importance": 3,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9KHcsG95CDCZyquDxpW0r7mwKqS02FDVPKQJBLIZO-Xgsak_Ckjpdc3QI4i0oIU0IH9uZXTLmFqVzhUPsouw4BHMzdVsBu26TIdddQNNTx0tHeXh4xWNaT6NWo_UnmwxqRqtaIYB22kbynOZyWCutb5wAYEnhuRVm5rmasUtSq8LE2PB-Q9daDiprSyK/s790-rw-e365/vscode.jpg",
-      "url": "/tech-news/2025-11-10/glassworm-malware-discovered-in-three-vs-code-exte/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Polestar 5 míří do Gran Turismo 7: propojení virtuálních a reálných závodů s pomocí profesionálního pilota",
-      "description": "Elektrický sedan Polestar 5 bude v prosinci zdarma dostupný v Gran Turismo 7 na PS4 a PS5. Vývoj proběhl ve spolupráci s profesionálním závodníkem Igorem Fragou, aby se virtuální jízdní vlastnosti co nejvíce shodovaly s reálným vozem.",
-      "slug": "polestar-5-is-coming-to-gran-turismo-7-with-the-he",
-      "publishedAt": "2025-11-10T08:00:00+00:00",
-      "date": "2025-11-10 08:00:00",
-      "importance": 3,
-      "category": "herní průmysl",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/polestar-5-is-coming-to-gran-turismo-7-with-the-help-of-a-real-life-race-car-driver/l-intro-1762632098.jpg",
-      "url": "/tech-news/2025-11-10/polestar-5-is-coming-to-gran-turismo-7-with-the-he/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [
-        "Polestar"
-      ],
-      "people": []
-    },
-    {
-      "title": "Lamborghini Temerario Super Trofeo: Zadní pohon, bez hybridu, zaměřeno na okruhy",
-      "description": "Lamborghini představilo závodní verzi Temerario Super Trofeo pro svůj jednoznačkový seriál, která opouští hybridní systém a pohon všech kol ve prospěch lehčí konstrukce, zadního pohonu a přeplňovaného osmiválce.",
-      "slug": "lamborghini-temerario-super-trofeo-goes-rwd-loses-",
-      "publishedAt": "2025-11-10T07:46:00+00:00",
-      "date": "2025-11-10 07:46:00",
-      "importance": 3,
-      "category": "automobilismus",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/koGeXQ/s1/2026-lamborghini-temerario-super-trofeo.jpg",
-      "url": "/tech-news/2025-11-10/lamborghini-temerario-super-trofeo-goes-rwd-loses/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Motor1 "
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ChatGPT vs Gemini: Který asistent skutečně zvyšuje produktivitu",
-      "description": "Srovnání dvou hlavních AI asistentů v reálném pracovním nasazení ukazuje zásadní rozdíly v plánování, psaní, integraci do nástrojů a praktické použitelnosti.",
-      "slug": "chatgpt-vs-gemini-i-tested-both-to-see-which-actua",
-      "publishedAt": "2025-11-10T06:30:00+00:00",
-      "date": "2025-11-10 06:30:00",
-      "importance": 3,
-      "category": "ai asistenti",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzJNQr5oLiC6yQa8XeUP2N-2000-80.jpg",
-      "url": "/tech-news/2025-11-10/chatgpt-vs-gemini-i-tested-both-to-see-which-actua/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "companies": [
-        "OpenAI",
-        "Google",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uživatelé PS Portal jsou aktivnější než ostatní: specializovaný handheld dominuje Remote Play na PS5",
-      "description": "Sony potvrzuje, že handheld PS Portal se stal nejpoužívanějším zařízením pro Remote Play na PS5 a vykazuje vyšší míru zapojení uživatelů než ostatní způsoby hraní na dálku.",
-      "slug": "ps-portal-users-are-more-engaged-than-non-users-so",
-      "publishedAt": "2025-11-10T06:00:00+00:00",
-      "date": "2025-11-10 06:00:00",
-      "importance": 3,
-      "category": "herní průmysl",
-      "urlToImage": "https://images.pushsquare.com/aae87ea7ea514/large.jpg",
-      "url": "/tech-news/2025-11-10/ps-portal-users-are-more-engaged-than-non-users-so/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Push Square"
-      },
-      "companies": [
-        "Sony"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft chystá autonomní AI agenty jako „samostatné uživatele“ ve firmách",
-      "description": "Microsoft testuje novou třídu AI agentů s vlastní identitou, přístupem k firemním systémům a schopností samostatně jednat v rámci Microsoft 365, což otevírá zásadní otázky bezpečnosti, licencování a řízení rizik.",
-      "slug": "microsoft-teases-agents-that-become-independent-us",
-      "publishedAt": "2025-11-10T02:31:00+00:00",
-      "date": "2025-11-10 02:31:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_editorial_only_teams_and_copilot.jpg",
-      "url": "/tech-news/2025-11-10/microsoft-teases-agents-that-become-independent-us/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Microsoft",
-        "OpenAI",
-        "Apple",
-        "Google",
-        "Meta"
       ],
       "people": []
     }

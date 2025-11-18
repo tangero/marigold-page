@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: vzdělávání
+category: vzdělávání v technol
 date: '2025-11-16 18:44:30'
-description: Indický ministr Dr. Jitendra Singh vyzývá žáky, rodiče i učitele, aby
-  využili státní schémata podporující vědu, technologie a podnikání už od základní
-  školy.
+description: Indický ministr Dr. Jitendra Singh vyzývá žáky a učitele, aby využili
+  státní technologické programy zaměřené na podporu inovací a vědeckého myšlení u
+  dětí ve věku 10–17 let.
 importance: 3
 layout: tech_news_article
 original_title: 'Govt offering technology incentives to groom potential among school
@@ -17,30 +17,29 @@ source:
   emoji: 📰
   id: null
   name: Statetimes.in
-title: Vláda nabízí technologické pobídky pro rozvoj inovačního potenciálu mezi školáky
+title: 'Vláda nabízí technologické pobídky pro rozvoj inovačního potenciálu mezi školáky:
+  Dr. Jitendra'
 url: https://statetimes.in/govt-offering-technology-incentives-to-groom-potential-among-school-children-dr-jitendra/
 urlToImage: https://statetimes.in/wp-content/uploads/2025/11/JITENDRAfff.jpg
 urlToImageBackup: https://statetimes.in/wp-content/uploads/2025/11/JITENDRAfff.jpg
 ---
 
 ## Souhrn
-Indická vláda prostřednictvím Ministerstva vědy a technologií zavádí řadu schémat určených k podpoře inovačního myšlení a zájmu o STEM (věda, technologie, inženýrství a matematika) mezi dětmi ve věku 10 až 22 let. Ministr Dr. Jitendra Singh při inauguraci nové Kendriya Vidyalaya v Kathue zdůraznil důležitost včasného rozpoznání talentu a jeho podpory prostřednictvím finančních i mentorských programů.
+Indická vláda prostřednictvím Ministerstva vědy a technologií rozšiřuje podporu pro mladé inovátory. Ministr Dr. Jitendra Singh představil několik státních schémat, jako je INSPIRE-MANAK a Vigyan Jyoti, které cíleně podporují děti ve věku 10–17 let i studenty vyšších ročníků s cílem rozvíjet jejich zájem o vědu, technologie a podnikání v raném věku.
 
 ## Klíčové body
-- Program INSPIRE-MANAK poskytuje 10 000 rupií na podporu inovačních nápadů dětí ve věku 10–17 let.
-- Stipendium INSPIRE (SHE) je určeno pro vynikající studenty ve věku 17–22 let a zahrnuje roční podporu 60 000 rupií včetně 20 000 rupií na mentoring.
-- Schéma Vigyan Jyoti cíleně podporuje dívky ze tříd IX až XII v jejich cestě ke kariéře ve vědě a technologiích.
-- Cílem je vytvořit systém včasného odhalování a rozvoje technologického potenciálu už na úrovni základního vzdělávání.
+- Program INSPIRE-MANAK poskytuje 10 000 rupií na podporu inovačních nápadů dětí 10–17 let.
+- INSPIRE Scholarship (SHE) podporuje talentované studenty 17–22 let částkou 60 000 rupií ročně včetně 20 000 rupií na mentoring.
+- Schéma Vigyan Jyoti se zaměřuje na dívky ve třídách IX–XII a podporuje jejich kariéru ve STEM oborech.
+- Cílem je včasná identifikace talentů a jejich směřování do vědeckého a technologického sektoru.
 
 ## Podrobnosti
-Ministr Dr. Jitendra Singh při svém projevu v Kathue uvedl, že vláda premiéra Narendry Modího systematicky investuje do vzdělávacích a výzkumných iniciativ zaměřených na mladé generace. Program INSPIRE-MANAK (Million Minds Augmenting National Aspirations and Knowledge) je navržen tak, aby podporoval kreativitu a řešení reálných problémů u dětí ve věku 10–17 let. Vybraní žáci získávají finanční prostředky na realizaci svých nápadů a zároveň vstupují do národní sítě talentovaných mladých inovátorů.
+Na inauguraci nové školy Kendriya Vidyalaya v Ramkotu (okres Kathua) vyzval ministr Dr. Jitendra Singh rodiče, učitele i žáky, aby aktivně využívali státní technologické programy. Nejvýraznějším z nich je INSPIRE-MANAK (Innovation in Science Pursuit for Inspired Research – Million Minds Augmenting National Aspirations and Knowledge), který finančně podporuje originální inovační nápady dětí ve věku 10–17 let částkou 10 000 rupií na projekt. Tento program má za cíl nejen podpořit kreativitu, ale také vytvořit základnu pro budoucí start-upy a vědecké kariéry.
 
-Pro starší studenty (17–22 let) je určeno stipendium INSPIRE Scholarship for Higher Education (SHE), které má motivovat k volbě kariéry v základním výzkumu a přírodních vědách. Roční částka 60 000 rupií zahrnuje i grant na mentorské aktivity, což posiluje vazbu mezi akademickou sférou a mladými vědci.
-
-Zvláštní pozornost je věnována dívkám prostřednictvím programu Vigyan Jyoti, který poskytuje mentoring, přístup ke kurzu a podporu při přípravě na vysokoškolské studium ve vědeckých oborech. Tento program reaguje na dlouhodobý genderový nerovnováhu v STEM oborech v Indii.
+Pro starší studenty (17–22 let) je určeno stipendium INSPIRE Scholarship (SHE – Scheme for Higher Education), které poskytuje 60 000 rupií ročně, z toho 20 000 rupií jako grant na mentoring. Tento nástroj má motivovat studenty k volbě kariéry v základním výzkumu a přírodních vědách. Zvláštní pozornost věnuje vláda dívkám prostřednictvím programu Vigyan Jyoti, který poskytuje individuální podporu, mentoring a přípravu na vysokoškolské studium v oblastech STEM (věda, technologie, inženýrství, matematika). Program je součástí širšího úsilí premiéra Narendry Modího o zvýšení zastoupení žen ve vědeckých oborech.
 
 ## Proč je to důležité
-Tyto iniciativy nejsou pouze sociálními programy, ale strategickými investicemi do budoucí technologické suverenity země. V kontextu globálního zápolení o AI, kvantové výpočty a pokročilé materiály je schopnost včas identifikovat a rozvíjet technologické talenty klíčová. Indická vláda tak sleduje podobný přístup jako Čína nebo USA, kde se vzdělávací systémy postupně přizpůsobují potřebám 21. století. Z hlediska AI a technologického rozvoje je zásadní, aby země neztrácela potenciální inženýry, vědce a zakladatele startupů už v raném věku kvůli nedostatku podpory nebo orientace.
+Tyto iniciativy nejsou technologickým průlomem samy o sobě, ale představují strategický krok k budování lidského kapitálu v oblasti vědy a technologií. V kontextu globálního nedostatku kvalifikovaných pracovníků v STEM oborech a rostoucího významu AI, kvantových technologií a biotechnologií je včasná orientace mladých lidí na tyto oblasti klíčová. Programy jako INSPIRE-MANAK nebo Vigyan Jyoti mohou v dlouhodobém horizontu přispět k rozvoji inovačního ekosystému v Indii a zvýšit konkurenceschopnost země v globálním technologickém zápolení.
 
 ---
 
