@@ -17,28 +17,30 @@ source:
   emoji: 📰
   id: null
   name: Docomo.ne.jp
-title: NTT DOCOMO úspěšně otestovala venkovní demonstraci AI řízeného bezdrátového
-  rozhraní směrem k 6G
+title: NTT DOCOMO úspěšně otestovala venkovní použití AI řízeného bezdrátového rozhraní
+  pro 6G
 url: https://www.docomo.ne.jp/english/info/media_center/pr/2025/1117_00.html
 urlToImage: https://www.docomo.ne.jp/english/images/common/nttdocomo.gif
 urlToImageBackup: https://www.docomo.ne.jp/english/images/common/nttdocomo.gif
 ---
 
 ## Souhrn
-NTT DOCOMO společně se svými partnery úspěšně provedla první venkovní demonstraci AI řízeného bezdrátového rozhraní určeného pro budoucí sítě 6G. V reálných podmínkách se podařilo zdvojnásobit přenosovou rychlost oproti tradičním, ne-AI řešením.
+NTT DOCOMO společně se svými partnery úspěšně provedla první venkovní demonstraci AI řízeného bezdrátového rozhraní pro 6G, při které se podařilo zdvojnásobit přenosovou rychlost oproti tradičním technologiím. Zkoušky proběhly v reálných venkovních podmínkách v japonském městě Yokosuka.
 
 ## Klíčové body
 - Jde o první venkovní zkoušku AI řízeného bezdrátového rozhraní pro 6G na světě.
-- Spolupracovaly na ní NTT DOCOMO, NTT, Nokia Bell Labs a jihokorejský operátor SK Telecom.
+- Přenosová rychlost (throughput) se zvýšila až o 100 % oproti ne-AI řešením za stejných podmínek.
 - Technologie „AI-AI“ optimalizuje modulaci i demodulaci na základě aktuálních rádiových podmínek.
-- Přenosová rychlost (throughput) se zvýšila až o 100 % oproti konvenčním metodám.
-- Zkoušky proběhly ve třech různých venkovních prostředích v Jokosuce, Japonsko.
+- Testy proběhly ve třech různých venkovních prostředích s různými překážkami a pohybem zařízení.
+- Spolupracovaly na tom NTT, Nokia Bell Labs a jihokorejský operátor SK Telecom.
 
 ## Podrobnosti
-V rámci demonstrace byla technologie „AI-AI“ nasazena v reálných venkovních podmínkách, kde se rádiové prostředí mění vlivem počasí, teploty, překážek nebo pohybu zařízení. Na rozdíl od dřívějších testů v laboratorních či vnitřních prostředích se nyní ověřovalo, zda AI dokáže udržet vysokou výkonnost i v dynamicky se měnícím venkovním prostředí. Výsledky ukázaly, že AI dokáže v reálném čase upravovat parametry modulace a demodulace na vysílači i přijímači, čímž zajišťuje stabilnější a rychlejší spojení. Testy proběhly ve třech různých scénářích: s pevným i pohyblivým terminálem a za přítomnosti různých fyzických překážek, což odpovídá běžným podmínkám v městském či příměstském prostředí.
+V rámci příprav na budoucí standard 6G vyvinuli odborníci z NTT DOCOMO společně s NTT, Nokia Bell Labs a SK Telecom technologii označovanou jako „AI-AI“. Tato metoda využívá umělou inteligenci na obou stranách bezdrátové komunikace – jak na straně vysílače, tak přijímače – k dynamické optimalizaci modulačních a demodulačních schémat v reálném čase. Cílem je kompenzovat nestabilitu způsobenou měnícími se rádiovými podmínkami, které jsou venku mnohem proměnlivější než uvnitř budov kvůli počasí, teplotě, pohybu uživatelů nebo fyzickým překážkám.
+
+Předchozí testy proběhly pouze v laboratorních nebo vnitřních prostředích. Nové venkovní zkoušky v Yokosuce potvrdily, že technologie udržuje výkonnost i v náročných reálných podmínkách. Vyhodnocení probíhalo ve třech scénářích: s pevným i pohyblivým terminálem a s různým množstvím překážek mezi vysílačem a přijímačem. Výsledky ukázaly, že AI-AI technologie dokáže stabilně zdvojnásobit přenosovou rychlost oproti klasickým metodám, což je významný krok směrem k praktickému nasazení 6G sítí.
 
 ## Proč je to důležité
-Tento pokrok představuje významný krok směrem k praktickému nasazení 6G sítí, které budou vyžadovat extrémní spolehlivost a kapacitu. Využití AI přímo v bezdrátovém rozhraní umožňuje adaptivní reakci na změny prostředí bez nutnosti zásahu ze strany sítě nebo uživatele. To je klíčové pro aplikace jako autonomní vozidla, průmyslový IoT nebo rozšířená realita (AR/VR), kde kolísání kvality spojení může mít zásadní dopad. Spolupráce mezi japonskými, evropskými a jihokorejskými technologickými subjekty navíc ukazuje na globální konsorciální přístup k vývoji 6G standardů, což může urychlit jejich komerční zavedení po roce 2030.
+Tento pokrok ukazuje, že AI může hrát klíčovou roli již na fyzické vrstvě mobilních sítí, nikoli jen v aplikačních nebo síťových vrstvách. Zdvojnásobení throughputu bez nutnosti zvyšovat šířku pásma nebo výkon vysílačů má potenciál výrazně snížit náklady a energetickou náročnost budoucích sítí. Zároveň to otevírá cestu k robustnějším a adaptabilnějším komunikačním systémům, které budou zásadní pro nasazení autonomních vozidel, průmyslového IoT nebo rozšířené reality. Spolupráce mezi japonskými, evropskými a jihokorejskými firmami také naznačuje globální konsorciální přístup k vývoji 6G, což může vést ke sjednocenějšímu standardu v porovnání s fragmentovaným ekosystémem 5G.
 
 ---
 

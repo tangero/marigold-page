@@ -5,8 +5,8 @@ companies:
 - Dnsys
 - Kojima Productions
 date: '2025-11-17 03:42:04'
-description: 'Společnost Dnsys ve spolupráci s Kojima Productions vydává speciální
-  edici svého exoskeletonu Z1 inspirovanou postavou Sama Portera z hry Death Stranding
+description: 'Společnost Dnsys spolupracuje s Kojima Productions na vydání speciální
+  edice svého nositelného exoskeletonu Z1, který vychází z designu z hry Death Stranding
   2: On The Beach.'
 importance: 3
 layout: tech_news_article
@@ -17,27 +17,27 @@ source:
   emoji: 📰
   id: null
   name: Bleeding Cool News
-title: Dnsys představuje exoskeleton inspirovaný hrou Death Stranding
+title: Dnsys vydává exoskeleton inspirovaný hrou Death Stranding
 url: https://bleedingcool.com/games/dnsys-partners-releases-new-death-stranding-exoskeleton/
 urlToImage: https://bleedingcool.com/wp-content/uploads/2025/11/Dnsys-Death-Stranding-Exoskeleton.jpg
 urlToImageBackup: https://bleedingcool.com/wp-content/uploads/2025/11/Dnsys-Death-Stranding-Exoskeleton.jpg
 ---
 
 ## Souhrn
-Společnost Dnsys spustila speciální edici svého nositelného exoskeletonu Z1, který vznikl ve spolupráci s Kojima Productions. Zařízení, inspirované postavou Sama Portera z nadcházející hry Death Stranding 2: On The Beach, bude k dispozici od 2. prosince 2025 a kombinuje funkční asistivní technologii s estetikou sci-fi z videohry.
+Společnost Dnsys představila speciální edici svého nositelného exoskeletonu Z1 inspirovanou hrou Death Stranding 2: On The Beach. Zařízení, které původně sloužilo k podpoře chůze a turistiky, nyní získalo vizuální i funkční prvky z herního světa, včetně charakteristických světel a futuristického designu.
 
 ## Klíčové body
-- Exoskeleton Z1 Death Stranding poskytuje 50% inteligentní podporu dolních končetin a snižuje zátěž kol až o 200 %.
-- Design vychází z vojenského exoskeletonu nositele Sama Portera v Death Stranding 2.
-- Zařízení disponuje viditelnými LED indikátory stavu baterie podle herní předlohy.
-- Původně byl Z1 vyvíjen jako asistivní pomůcka pro chůzi a turistiku, nyní přibyla herně inspirovaná edice.
-- Spolupráce mezi Dnsys a Kojima Productions propojuje herní svět s reálnou nositelnou technologií.
+- Exoskeleton Z1 Death Stranding Edition bude k dispozici od 2. prosince 2025.
+- Nabízí 50% inteligentní podporu dolních končetin a snižuje zátěž kol až o 200 %.
+- Design převzatý z exoskeletonu postavy Sama Portera z Death Stranding 2.
+- Vizuální prvky zahrnují indikátory stavu baterie ve formě světel.
+- Spolupráce mezi Dnsys a Kojima Productions propojuje herní estetiku s reálnou asistivní technologií.
 
 ## Podrobnosti
-Dnsys je jihokorejská společnost specializující se na vývoj nositelných robotických systémů pro podporu mobility. Její exoskeleton Z1 je určen pro uživatele, kteří potřebují asistenci při chůzi nebo náročném terénu – například senioři, osoby po úrazech nebo horolezci. Nová edice Death Stranding přidává k funkčnímu jádru vizuální prvky známé z hry: černý futuristický design, modulární konstrukci a LED pásky signalizující stav baterie, což přímo odkazuje na herní reprezentaci exoskeletonu. Technicky zůstává zachována klíčová funkce – inteligentní asistence dolních končetin, která snižuje biomechanické zatížení kloubů až o 200 %, což může prodloužit dobu pohybu bez únavy. Společnost uvádí, že edice Death Stranding neznamená změnu výkonu, ale cílí na fanoušky hry i technologické nadšence, kteří ocení propojení fikce a reálného inženýrství.
+Dnsys je jihokorejská společnost specializující se na vývoj nositelných robotických systémů pro podporu pohybu. Její exoskeleton Z1 je určen především osobám s omezenou pohyblivostí nebo turistům, kteří potřebují pomoc při překonávání náročného terénu. Nová edice vznikla ve spolupráci s Kojima Productions, tvůrci populární videohry Death Stranding 2: On The Beach, kde hrdina Sam Porter používá podobný exoskeleton k přežití v extrémním prostředí. Speciální verze Z1 přebírá nejen vizuální styl – včetně charakteristických světelných indikátorů – ale také symbolizuje propojení fikce s reálnou technologií. Zařízení využívá senzory a algoritmy pro detekci pohybu a poskytuje aktivní podporu svalům, což snižuje zátěž kloubů a zvyšuje výdrž uživatele. Baterie vydrží až několik hodin provozu, v závislosti na intenzitě použití.
 
 ## Proč je to důležité
-Tato spolupráce ilustruje rostoucí trend propojování herní kultury s reálnými technologiemi, zejména v oblasti nositelné robotiky. I když nejde o průlom v technologii samotné, ukazuje, jak populární média mohou zvýšit povědomí o asistivních zařízeních a normalizovat jejich používání mimo klinické prostředí. Pro průmysl nositelné robotiky je to příležitost rozšířit trh i mezi mladší demografii, která by jinak exoskeletony nevnímala jako relevantní technologii. Zároveň to otevírá cestu k dalším licenčním edicím, které by mohly podpořit inovace v designu i ergonomii.
+Tato spolupráce ukazuje rostoucí trend propojování herní kultury s reálnými technologiemi, zejména v oblasti nositelné robotiky. I když se nejedná o průlomovou technologii, představuje zajímavý příklad, jak populární média mohou zvýšit povědomí o asistivních zařízeních a přilákat širší veřejnost k jejich využití. Pro Dnsys jde o marketingovou příležitost, pro hráče pak o možnost vlastnit funkční kus „herního světa“. V širším kontextu to také odráží snahu technologických firem využívat kulturu k normalizaci robotických pomůcek v každodenním životě.
 
 ---
 
