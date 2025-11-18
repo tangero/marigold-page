@@ -5,11 +5,11 @@ companies:
 - Princeton Digital Group
 - Warburg Pincus
 date: '2025-11-16 22:51:13'
-description: Princeton Digital Group, asijský provozovatel datových center podporovaný
-  investiční firmou Warburg Pincus, plánuje investovat 700 milionů dolarů do svého
-  prvního kampusu datových center v Jižní Koreji, který má podpořit rozvoj umělé inteligence
+description: Princeton Digital Group, provozovatel datových center v Asii podporovaný
+  investiční skupinou Warburg Pincus, plánuje investovat 700 milionů dolarů do svého
+  prvního kampusu v Jižní Koreji, který bude sloužit k podpoře rozvoje umělé inteligence
   v zemi.
-importance: 4
+importance: 3
 layout: tech_news_article
 original_title: Warburg-Backed Princeton Enters Korea With First Data Center
 publishedAt: '2025-11-16T22:51:13+00:00'
@@ -24,19 +24,20 @@ url: https://financialpost.com/pmn/business-pmn/warburg-backed-princeton-enters-
 ---
 
 ## Souhrn
-Princeton Digital Group (PDG), provozovatel datových center v Asii podporovaný investiční firmou Warburg Pincus, oznámil plán investovat 700 milionů dolarů do svého prvního datového kampusu v Jižní Koreji. Cílem je podpořit rychle rostoucí poptávku po výpočetní kapacitě pro vývoj umělé inteligence (AI) v regionu.
+Princeton Digital Group (PDG), asijský provozovatel datových center podporovaný investiční firmou Warburg Pincus, oznámil plán na výstavbu svého prvního datového centra v Jižní Koreji. Projekt v Inčchonu bude mít počáteční kapacitu 48 megawattů a má být rozšířen na celkových 500 megawattů napříč několika lokalitami. První fáze by měla být uvedena do provozu na začátku roku 2028.
 
 ## Klíčové body
-- První fáze projektu v Inčchonu bude mít kapacitu 48 MW a má být rozšířena na celkových 500 MW na několika lokalitách.
-- Výstavba začne ještě tento měsíc, provoz by měl být spuštěn na začátku roku 2028.
-- PDG plánuje do konce desetiletí investovat do Jižní Koreje celkem 6 miliard dolarů.
-- Celkově zamýšlí společnost do roku 2029 zvýšit svou globální kapacitu z 1,3 GW na více než 4 GW, což vyžaduje investice ve výši 25 miliard dolarů.
+- PDG investuje 700 milionů dolarů do prvního korejského datového centra v Inčchonu.
+- Cílová kapacita projektu je 500 MW, počáteční fáze bude mít 48 MW.
+- Datové centrum bude sloužit především pro rozvoj AI a splňování požadavků na datovou suverenitu.
+- PDG plánuje do konce desetiletí investovat celkem 6 miliard dolarů do Jižní Koreje.
+- Společnost zároveň plánuje rozšířit svou globální kapacitu na více než 4 gigawatty do pěti let.
 
 ## Podrobnosti
-Princeton Digital Group je specializovaným provozovatelem datových center se zaměřením na asijský trh, kde poskytuje infrastrukturu pro cloudové služby, AI a podniková řešení. Nový kampus v Inčchonu, přístavním městě nedaleko Soulu, bude sloužit jako strategický uzel pro korejské firmy i mezinárodní technologické společnosti, které chtějí využívat lokální výpočetní prostředky kvůli požadavkům na suverenitu dat a nízké latenci. Jižní Korea se aktivně snaží vyvinout vlastní velké jazykové modely (LLM) a podporovat AI v podnikovém sektoru, což vyžaduje masivní výpočetní kapacity, zejména na GPU. PDG již zabezpečila dodávky elektrické energie pro první fázi projektu, což je klíčový krok v zemi s omezenou energetickou kapacitou pro datová centra. Tento krok také odpovídá širšímu trendu v Asii, kde země jako Japonsko, Indie a Jižní Korea zvyšují investice do digitální infrastruktury, aby nezůstaly pozadu za Spojenými státy, kde technologické giganty plánují vynaložit stovky miliard dolarů na rozvoj datových center.
+Princeton Digital Group, specializující se na provoz datových center v Asii, získala zajištěný přívod elektrické energie pro svůj nový kampus v Inčchonu a výstavba má začít ještě tento měsíc. Cílem projektu je podpořit růst umělé inteligence v Jižní Koreji, kde vláda i soukromý sektor aktivně pracují na vývoji vlastních velkých jazykových modelů (LLM) a infrastruktury pro AI. Jižní Korea se snaží držet krok s USA a jejich technologickými giganty, které investují stovky miliard dolarů do datových center po celém světě. PDG plánuje do konce desetiletí investovat do korejského trhu celkem 6 miliard dolarů, což odpovídá významnému podílu z její celkové investiční strategie ve výši 25 miliard dolarů zaměřené na rozšíření kapacity z 1,3 GW na více než 4 GW do roku 2029.
 
 ## Proč je to důležité
-Vstup PDG do Jižní Koreje signalizuje rostoucí strategický význam Asie v globální AI soutěži. Lokální datová centra nejen snižují latenci pro AI aplikace, ale také umožňují dodržování přísnějších zákonů o ochraně dat. Investice ve výši miliard dolarů ukazují, že infrastruktura pro AI se stává klíčovým hospodářským faktorem, podobně jako ropné rafinerie v minulém století. Pro korejský průmysl to znamená lepší přístup k škálovatelné výpočetní síle, což může urychlit vývoj domácích AI řešení v oblastech jako zdravotnictví, výroba nebo finanční služby.
+Rozvoj lokální infrastruktury pro AI je klíčový pro splnění požadavků na datovou suverenitu, což je stále častější požadavek asijských zemí. Jižní Korea se snaží snížit závislost na zahraničních cloudových poskytovatelích a zároveň podpořit domácí AI startupy i velké korporace. Výstavba datových center s vysokou energetickou kapacitou je nezbytná pro trénování a provoz náročných AI modelů, které vyžadují tisíce GPU a stabilní přívod energie. Tento krok PDG tak posiluje konkurenceschopnost korejského AI ekosystému v globálním měřítku.
 
 ---
 

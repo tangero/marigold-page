@@ -4,9 +4,9 @@ category: bezpečnostní aktuali
 companies:
 - Microsoft
 date: '2025-11-16 21:47:14'
-description: Microsoft tento týden vydal bezpečnostní aktualizace pro více než 60
-  zranitelností ve Windows a dalších produktech, včetně alespoň jednoho zero-day,
-  který je již aktivně zneužíván útočníky.
+description: Microsoft v listopadu 2025 vydal bezpečnostní aktualizace pro více než
+  60 zranitelností, včetně aktivně zneužívaného zero-dayu CVE-2025-62215 a kritických
+  chyb v grafické knihovně GDI+ a aplikaci Office.
 importance: 4
 layout: tech_news_article
 original_title: Microsoft Patch Tuesday, November 2025 Edition
@@ -16,29 +16,30 @@ source:
   emoji: 📰
   id: null
   name: Krebs on Security
-title: Microsoft vydal nouzové bezpečnostní záplaty pro více než 60 zranitelností,
-  včetně aktivně zneužívaného zero-day
+title: Microsoft vydal nouzové bezpečnostní záplaty – řeší aktivně zneužívaný zero-day
+  a kritické chyby v GDI+ a Office
 url: https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/
 ---
 
 ## Souhrn
-Microsoft vydal v rámci listopadového Patch Tuesday 2025 bezpečnostní záplaty pro více než 60 zranitelností napříč svým ekosystémem, včetně alespoň jednoho zero-day (CVE-2025-62215), který je již aktivně zneužíván. Mezi opravenými produkty patří Windows, Office, SharePoint, SQL Server, Visual Studio, GitHub Copilot a Azure Monitor Agent.
+Microsoft vydal v rámci listopadového Patch Tuesday bezpečnostní aktualizace pro více než 60 zranitelností napříč svými produkty, včetně Windows, Office, SharePointu, SQL Serveru a dalších. Mezi nimi je alespoň jeden zero-day (CVE-2025-62215), který je již aktivně zneužíván, a kritická chyba v grafické knihovně GDI+ (CVE-2025-60274) s hodnocením CVSS 9,8.
 
 ## Klíčové body
-- Zero-day CVE-2025-62215 je chyba poškození paměti ve Windows, která vyžaduje předchozí přístup útočníka k zařízení.
-- Kritická zranitelnost CVE-2025-60274 v grafické knihovně GDI+ ohrožuje širokou škálu aplikací, včetně Office a webových serverů.
-- Další kritická chyba CVE-2025-62199 v Microsoft Office umožňuje vzdálené spuštění kódu.
-- Microsoft opravil také chybu bránící některým uživatelům Windows 10 využít prodlouženou podporu zabezpečení.
+- Zero-day CVE-2025-62215 je zneužíván v reálných útocích, ale vyžaduje předchozí přístup k zařízení.
+- Kritická chyba CVE-2025-60274 v GDI+ ohrožuje tisíce aplikací, včetně Office a webových serverů zpracovávajících obrázky.
+- Další vážná zranitelnost CVE-2025-62199 v Office umožňuje vzdálené spuštění kódu bez zvláštní interakce uživatele.
+- Microsoft opravil také chybu bránící některým uživatelům Windows 10 využít prodlouženou podporu.
+- Mezi zranitelné produkty patří i GitHub Copilot a Azure Monitor Agent.
 
 ## Podrobnosti
-Nejvážnější zranitelností měsíce je CVE-2025-62215 – chyba poškození paměti (memory corruption) v jádru Windows. I když ji Microsoft klasifikuje jako „důležitou“ (Important) a ne „kritickou“ (Critical), je již aktivně zneužívána. Podle Johanna Ullricha ze SANS Technology Institute se jedná o součást složitějšího řetězce útoků, ale její zneužití je relativně jednoduché díky existenci podobných dřívějších chyb.
+Nejvážnější hrozba měsíce pochází z grafické knihovny GDI+ (Graphics Device Interface Plus), která je součástí Windows a slouží ke zpracování 2D grafiky. Chyba CVE-2025-60274 umožňuje vzdálené spuštění kódu a má skóre CVSS 9,8 z 10. Tato knihovna je používána nejen Microsoft Office, ale i bezpočtem webových aplikací a serverů, které zpracovávají obrázky – například při nahrávání avatarů nebo náhledů. Bezpečnostní expert Ben McCarthy z firmy Immersive (specializující se na kybernetickou bezpečnost firemních sítí) varuje, že i přes Microsoftovo hodnocení „Exploitation Less Likely“ je riziko extrémně vysoké kvůli rozsahu použití GDI+.
 
-Zvláštní pozornost si zaslouží CVE-2025-60274 – kritická zranitelnost v knihovně GDI+ (Graphics Device Interface Plus), která je používána tisíci aplikacemi, včetně Microsoft Office a serverů zpracovávajících obrázky. Bezpečnostní expert Ben McCarthy z firmy Immersive (specializující se na kybernetickou bezpečnost firemních sítí) varuje, že i přes Microsoftovo hodnocení „Exploitation Less Likely“ představuje tato chyba s CVSS skóre 9,8 extrémní riziko kvůli univerzálnímu nasazení GDI+.
+Druhá závažná chyba, CVE-2025-62199 v Office, umožňuje útočníkovi spustit libovolný kód na cílovém systému s nízkou složitostí a bez potřeby zvláštních oprávnění. Podle Alexe Vovka, CEO společnosti Action1 (poskytovatele cloudového řešení pro správu a zabezpečení zařízení), jde o prioritní riziko pro podniky.
 
-Další vážná chyba, CVE-2025-62199 v Microsoft Office, umožňuje vzdálené spuštění kódu bez potřeby zvýšených oprávnění. Alex Vovk, CEO společnosti Action1 (poskytovatel cloudového řešení pro správu a zabezpečení zařízení), zdůrazňuje, že tato zranitelnost je nízké složitosti a proto prioritní pro opravu.
+Zero-day CVE-2025-62215 je klasifikován jako „Important“, nikoli „Critical“, protože útočník potřebuje mít již nějaký přístup k systému – typicky jako součást pokročilého útočného řetězce. Přesto jej SANS Technology Institute označuje za potenciálně jednoduchý k využití díky podobnosti s dřívějšími chybami.
 
 ## Proč je to důležité
-Tento měsíční balík záplat přesahuje běžný rámec rutinních bezpečnostních aktualizací. Přítomnost aktivně zneužívaného zero-day a kritických chyb v univerzálně používaných komponentách jako GDI+ či Office zvyšuje riziko masivních útoků, zejména proti podnikovým sítím. Rychlá aplikace záplat je nezbytná, protože tyto chyby mohou být využity k přetrvávání v systému, exfiltrace dat nebo nasazení ransomwaru. Vzhledem k tomu, že zranitelnosti postihují i Windows 10 – stále široce používaný operační systém – je třeba zajistit, že i starší systémy jsou aktualizovány, což Microsoft usnadnil opravou chyby bránící některým uživatelům využít prodlouženou bezpečnostní podporu.
+Tento měsíc přináší neobvykle vysokou koncentraci kritických zranitelností v jádru Windows a klíčových aplikacích. GDI+ je zastaralá, ale stále široce používaná komponenta – její zranitelnost může vést k masivním útokům na firemní i veřejné weby. Zároveň ukazuje, že i „méně kritické“ zero-day chyby mohou být využity v kombinaci s jinými technikami pro přetrvávání v systému. Pro správce IT a bezpečnostní týmy je nutné co nejdříve nasadit aktualizace, zejména na serverech zpracovávajících uživatelské soubory a v prostředích s Office.
 
 ---
 

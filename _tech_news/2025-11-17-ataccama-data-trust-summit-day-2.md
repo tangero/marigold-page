@@ -1,11 +1,10 @@
 ---
 author: Marisa Aigen
-category: datová důvěra
+category: datová správa
 date: '2025-11-17 00:46:34'
-description: Druhý den Ataccama Data Trust Summitu se zaměřil na to, jak společnost
-  Ataccama prostřednictvím své platformy a nástrojů zajišťuje důvěru v data. Diskuze
-  navazovala na témata z prvního dne a přinesla detaily o pravidlech kvality dat a
-  roli ředitelů pro data.
+description: Druhý den Ataccama Data Trust Summitu se zaměřil na způsoby, jak platforma
+  Ataccama zajišťuje důvěryhodnost dat prostřednictvím pravidel kvality dat, AI a
+  cloudové infrastruktury.
 importance: 3
 layout: tech_news_article
 original_title: 'Ataccama Data Trust Summit: Day 2'
@@ -15,27 +14,29 @@ source:
   emoji: 📰
   id: null
   name: ComputerWeekly.com
-title: 'Ataccama Data Trust Summit: Den 2 – Jak platforma zajišťuje důvěru v data'
+title: 'Ataccama Data Trust Summit: Den 2'
 url: https://www.computerweekly.com/blog/CW-Developer-Network/Ataccama-Data-Trust-Summit-Day-2
 ---
 
 ## Souhrn
-Na druhý den Ataccama Data Trust Summitu se přední představitelé společnosti Ataccama věnovali technickým i strategickým aspektům zajištění důvěryhodnosti dat. Klíčovým tématem bylo, jak platforma Ataccama umožňuje definovat, testovat a spravovat pravidla kvality dat, včetně integrace AI pro generování popisů pravidel. Současně byla zdůrazněna rostoucí role ředitelů pro data (CDO) jako klíčových agentů změny v organizacích.
+Na druhém dni Ataccama Data Trust Summitu se diskutovalo o tom, jak platforma Ataccama vytváří a ověřuje pravidla pro kvalitu dat, včetně použití umělé inteligence pro generování testovacích dat a popisů pravidel. Hlavní přednášející zdůraznili posun směrem k demokratizaci datové analýzy pro tzv. „občanské analytiky“ a rostoucí roli cloudové infrastruktury.
 
 ## Klíčové body
-- Pravidla kvality dat v Ataccamě mají strukturu podobnou IF–THEN a využívají Ataccama Query Language (SQL).
-- Testování pravidel probíhá s uměle generovanými daty, například pomocí OpenAI.
-- Platforma automaticky generuje popisky pravidel pomocí AI, vždy s upozorněním, že text vyžaduje lidskou kontrolu.
-- Ředitelé pro data jsou označováni za „skutečné změnové agenty“ v dnešním podnikovém prostředí.
-- Data jsou stále častěji spravována „polotechnickými“ uživateli (tzv. citizen scientists), což snižuje závislost na znalosti SQL.
+- Ataccama používá vlastní dotazovací jazyk založený na SQL pro definici pravidel kvality dat.
+- AI generuje testovací data i textové popisy pravidel, vždy s upozorněním, že obsah vyžaduje lidskou kontrolu.
+- Platforma umožňuje ne-SQL uživatelům pracovat s daty díky vyšším úrovním abstrakce.
+- Data jsou stále častěji decentralizovaná a spravovaná v cloudu, což zvyšuje požadavky na důvěryhodnost a sledovatelnost.
+- Ředitelé dat (CDO) jsou považováni za klíčové aktéry transformace podnikového datového prostředí.
 
 ## Podrobnosti
-Corey Keyser, šéf AI v Atacce, připomenul základní principy datových pravidel. Typickým příkladem je validace formátu telefonního čísla v USA (3-3-4 číslice), která vyžaduje definici vstupů, parametrů a logiky. Tato pravidla jsou implementována v Ataccama Query Language, což je SQL-based jazyk. Pro ověření funkčnosti se generují testovací data – například pomocí OpenAI – a systém ověřuje, zda neplatné vstupy jsou správně identifikovány jako chybné. Platforma také obsahuje tzv. Description Box, kde AI automaticky vytváří anglický popis účelu pravidla, vždy s upozorněním, že obsah je AI-generovaný a vyžaduje lidské schválení.
+Ataccama, česká společnost specializující se na řešení pro správu dat a data governance, na druhém dni svého summitu představila technické detaily své platformy zaměřené na zajištění důvěryhodnosti dat. Corey Keyser, vedoucí týmu pro umělou inteligenci, vysvětlil, že pravidla kvality dat – například validace formátu amerického telefonního čísla (3-3-4) – jsou definována pomocí struktury „IF–THEN“ v Ataccama Query Language, což je dialekt SQL. Tyto pravidla jsou následně testovány na uměle generovaných datech, které vytváří OpenAI, aby bylo možné ověřit, zda systém správně identifikuje chybné záznamy.
 
-Jay Limburn, šéf produktu Ataccamy, zdůraznil transformaci datové kultury v organizacích. Dnes už data nejsou uzavřena v centralizovaných datových centrech, ale jsou distribuována v cloudu a přístupná i neodborníkům. Díky abstrakci nad technickými detaily (např. SQL) mohou „polotechničtí“ uživatelé – tzv. citizen scientists – aktivně přispívat ke správě a analýze dat. Tento posun však zvyšuje požadavky na důvěryhodnost, sledovatelnost a transparentnost datových procesů.
+Platforma také obsahuje tzv. Description Box, kde AI automaticky generuje popis účelu daného pravidla v angličtině. Tento text je vždy opatřen varováním, že byl vytvořen umělou inteligencí a vyžaduje lidské schválení. Tento přístup ukazuje, že Ataccama nezavádí AI jako náhradu lidského úsudku, ale jako nástroj pro zrychlení rutinních úkolů.
+
+Jay Limburn, ředitel produktu, zdůraznil, že dnešní datové prostředí je decentralizované a cloudové. Uživatelé nemusí znát SQL, protože moderní nástroje skrývají technickou složitost za intuitivními rozhraními. Tento trend umožňuje tzv. „občanským analytikům“ – zaměstnancům bez hlubokých technických znalostí – aktivně pracovat s daty. Nicméně právě tato demokratizace zvyšuje požadavky na transparentnost a sledovatelnost datových procesů.
 
 ## Proč je to důležité
-Tento přístup odráží širší trend v oblasti data managementu: přechod od centralizované správy dat k demokratizaci datového přístupu. Zároveň však klade vyšší nároky na nástroje, které musí zajišťovat kvalitu a důvěru bez nutnosti hlubokých technických znalostí. Ataccama tím reaguje na rostoucí tlak firem na využití dat jako strategického aktiva, zatímco regulace (např. GDPR, DORA) vyžadují vyšší transparentnost a auditovatelnost datových procesů. Platforma tak slouží jako most mezi technickou robustností a obchodní použitelností.
+Tento vývoj odráží širší trend v oblasti data governance: místo centralizované kontroly se data stávají přístupnější, ale zároveň je nutné zajistit jejich kvalitu a důvěryhodnost. Ataccama tím reaguje na rostoucí tlak regulátorů i firem na transparentní a auditovatelné datové systémy. Zvláště v oblasti financí, zdravotnictví nebo compliance je schopnost automaticky definovat, testovat a dokumentovat pravidla kvality dat klíčová pro snížení rizik a zvýšení efektivity. Platforma tak představuje praktický nástroj pro implementaci principů „data trust“ v reálném provozu.
 
 ---
 

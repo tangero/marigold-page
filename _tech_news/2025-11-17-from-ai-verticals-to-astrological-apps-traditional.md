@@ -3,12 +3,10 @@ author: Marisa Aigen
 category: média
 companies:
 - OpenAI
-- Abundantia
-- Balaji Telefilms
 date: '2025-11-17 00:27:15'
-description: S poklesem růstu kin a streamovacích služeb se tradiční mediální společnosti
-  jako Balaji Telefilms nebo Abundantia Entertainment rozšiřují do oblastí umělé inteligence,
-  astrologie a živých akcí, aby udržely publikum a zvýšily příjmy.
+description: V reakci na zpomalení růstu kin a streamovacích služeb se tradiční mediální
+  společnosti jako Balaji Telefilms a Abundantia Entertainment rozšiřují do oblastí
+  umělé inteligence, astrologie a živých akcí.
 importance: 3
 layout: tech_news_article
 original_title: From AI verticals to astrological apps, traditional entertainment
@@ -27,23 +25,23 @@ urlToImageBackup: https://www.livemint.com/lm-img/img/2025/11/15/1600x900/logo/A
 ---
 
 ## Souhrn
-Tradiční zábavní společnosti čelí stagnaci růstu v kinové distribuci i na streamovacích platformách a reagují diverzifikací svých aktivit. Firmy jako Balaji Telefilms a Abundantia Entertainment nyní investují do umělé inteligence, mobilních aplikací zaměřených na astrologii a rodinnou zábavu, nebo do živých fanouškovských akcí.
+Tradiční zábavní společnosti v Indii reagují na stagnaci kinového trhu a omezení rozpočtů streamovacích platforem diverzifikací svých aktivit. Firma Balaji Telefilms spustila astrologickou aplikaci AstroVani a rodinnou zábavní platformu Kutingg, zatímco Abundantia Entertainment zahájila divizi Abundantia aiON zaměřenou na tvorbu obsahu pomocí umělé inteligence.
 
 ## Klíčové body
-- Balaji Telefilms spustila dvě nové aplikace: AstroVani (astrologie) a Kutingg (rodinná zábava s krátkými formáty).
-- Abundantia Entertainment založila divizi Abundantia aiON pro tvorbu obsahu generovaného umělou inteligencí.
-- Další hráči, jako Saregama nebo Banijay Asia, vstupují do živých akcí a spoluprací s tvůrci obsahu.
-- Odvětví reaguje na pokles tržeb z tradičních médií a rostoucí poptávku po interaktivním a mobilním obsahu.
+- Balaji Telefilms spustila dvě nové digitální platformy: AstroVani (astrologie) a Kutingg (krátké formáty pro mobilní uživatele).
+- Abundantia Entertainment, známá z filmů jako Baby nebo Airlift, založila divizi Abundantia aiON pro AI-generovaný obsah.
+- Další hráči, jako Saregama a Banijay Asia, vstupují do živých akcí a spoluprací s tvůrci obsahu.
+- Odvětví reaguje na pokles růstu tradičních médií a rostoucí poptávku po interaktivním a mobilním obsahu.
 
 ## Podrobnosti
-Indické mediální společnosti, dlouhodobě zaměřené na filmy, televizi a OTT obsah, nyní hledají nové způsoby, jak udržet pozornost publika a generovat příjmy. Balaji Telefilms, známá zejména z televizních seriálů a filmů, spustila aplikaci AstroVani, která nabízí personalizované astrologické služby, a Kutingg – platformu s krátkými videi, fikcí i ne-fikcí obsahem optimalizovaným pro mobilní zařízení. Tento krok odpovídá globálnímu trendu směrem k „vertical contentu“, tedy svisle orientovanému obsahu určenému pro chytré telefony.
+Balaji Telefilms, jedna z největších indických producentských společností známá zejména televizními seriály a filmy, nyní rozšiřuje své portfolio o digitální služby. Aplikace AstroVani nabízí personalizované astrologické služby, což odpovídá trvalé popularitě astrologie v indickém kulturním kontextu. Druhá aplikace, Kutingg, se zaměřuje na rodinné publikum a poskytuje směs fikce, ne-fikce a krátkých videí optimalizovaných pro svislé zobrazení na mobilech – formát známý z TikToku nebo Instagramu Reels.
 
-Abundantia Entertainment, producentka filmů jako Baby nebo Airlift, založila novou divizi Abundantia aiON, která se specializuje na vývoj a produkci příběhů vytvářených pomocí AI. Zatím nebyly zveřejněny technické detaily, ale jde o další příklad využití generativní AI v kreativním průmyslu – podobně jako v případě experimentů s AI scénáři nebo postprodukčními nástroji u jiných producentů.
+Abundantia Entertainment, producent známých filmů jako Baby nebo Toilet – Ek Prem Katha, zahájila v listopadu 2025 novou divizi Abundantia aiON. Tato jednotka se specializuje na vývoj a produkci příběhů generovaných pomocí AI. Zatím nebyly zveřejněny technické detaily, ale jde o reakci na rostoucí využití AI v kreativním průmyslu – od generování scénářů po postprodukci.
 
-Zároveň Saregama, tradiční hudební vydavatelství, rozšiřuje svou působnost do živých akcí, zatímco Banijay Asia (producent Bigg Boss a MTV Roadies) spolupracuje s Collective Artists Network na vývoji IP a obsahu řízeného tvůrci. Tyto kroky ukazují, že mediální firmy nejen hledají nové formáty, ale i nové modely spolupráce a distribuce.
+Současně Saregama, tradiční hudební label, investuje do živých akcí, zatímco Banijay Asia (producent reality show jako Bigg Boss) spolupracuje s Collective Artists Network na vytváření obsahu řízeného tvůrci. Tyto kroky ukazují, že mediální firmy hledají nové zdroje příjmů mimo tradiční reklamu a licenční poplatky.
 
 ## Proč je to důležité
-Tento posun od tradičního obsahu k hybridním modelům – kombinujícím AI, interaktivitu, osobní zážitky a mobilní formáty – odráží širší transformaci mediálního průmyslu. Zatímco dlouhodobý obsah ztrácí na atraktivitě, zejména u mladších generací, společnosti musí rychle adaptovat své strategie. Využití AI pro tvorbu obsahu může snížit náklady a zrychlit produkci, ale zároveň vyvolává otázky ohledně autorských práv a kvality. Astrologické a rodinné aplikace pak ukazují, že mediální firmy cílí na nišové, ale vysoce zapojené skupiny uživatelů, které jsou ochotny platit za personalizovaný obsah. Tento trend bude pravděpodobně pokračovat i mimo Indii, zejména v regionech s vysokou mobilní penetrací a rychle rostoucím trhem krátkých videí.
+Tento trend diverzifikace odráží širší globální posun v mediálním průmyslu: tradiční modely založené na lineární televizi nebo dlouhých formátech na OTT platformách již nejsou postačující. Firmy nyní sázejí na mikroformáty, personalizaci a interaktivitu – oblasti, kde AI a mobilní technologie hrají klíčovou roli. Zároveň ukazují, že AI není jen nástrojem pro optimalizaci výroby, ale i pro vytváření nových typů obsahu a zážitků. Tento posun může vést k přehodnocení celého kreativního řetězce – od nápadu po distribuci – a otevírá prostor pro hybridní modely kombinující lidskou kreativitu s AI asistencí.
 
 ---
 

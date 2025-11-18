@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: finanční technologie
 date: '2025-11-17 00:52:19'
 description: Podsekretář pro terorismus a finanční zpravodajství John Hurley vyzval
-  finanční instituce k přechodu od formálního plnění povinností k inteligentnímu systému
-  detekce finančních zločinů.
+  finanční instituce k přechodu od formální shody ke skutečnému zpravodajskému systému
+  v oblasti AML/CFT.
 importance: 3
 layout: tech_news_article
 original_title: Technology’s Role in Modernizing AML/CFT (Glenn Fratangelo)
@@ -24,21 +24,21 @@ urlToImageBackup: https://www.finextra.com/finextra-images/member_photos/thumb_1
 ---
 
 ## Souhrn
-Podsekretář pro terorismus a finanční zpravodajství John Hurley vyzval finanční sektor k zásadní reformě systémů AML/CFT (proti praní špinavých peněz a financování terorismu). Namísto generování objemné, ale málo užitečné reportovací zátěže by měly instituce využívat technologii k vytváření skutečně použitelné zpravodajské hodnoty pro orgány činné v trestním řízení.
+Podsekretář pro terorismus a finanční zpravodajství John Hurley vystoupil s výzvou k modernizaci systémů proti praní špinavých peněz (AML) a financování terorismu (CFT). Namísto současného zaměření na objemové hlášení podezřelých transakcí navrhuje přesun k inteligentnímu, výsledkově orientovanému přístupu podpořenému technologiemi.
 
 ## Klíčové body
-- Stávající systém podle zákona Bank Secrecy Act (BSA) produkuje více „šumu“ než užitečných informací.
-- Regulační rámec se nevyvíjí dostatečně rychle v porovnání s rostoucí složitostí finančních zločinů.
-- Přílišná administrativní zátěž brání vyšetřovatelům v efektivním odhalování trestné činnosti.
-- Hurley podporuje inovace, měření efektivity a orientaci na výsledky, nikoli na objem reportů.
+- Současný systém AML/CFT podle zákona Bank Secrecy Act (BSA) generuje více „šumu“ než užitečných informací pro vyšetřovatele.
+- Přílišná byrokracie a složitost (např. 170stránkové pokyny k vyplnění SAR) zatěžují compliance týmy.
+- Regulace neustíhá za tempem vývoje finanční kriminality, která zahrnuje kyberútoky, obcházení sankcí i obchod s lidmi.
+- Hurley podporuje inovace a měření efektivity místo splnění formálních požadavků.
 
 ## Podrobnosti
-Současný regulační rámec AML/CFT, založený především na povinném podávání podezřelých transakčních hlášení (SAR) a hlášení o hotovostních transakcích (CTR), trpí značnou neefektivitou. Instrukce pro vyplnění jednoho SAR přesahují 170 stran, což vede k chybám a obrovskému časovému nákladu zaměstnanců. Navíc jsou finanční instituce často nuceny dokumentovat i rozhodnutí *neoznamovat* podezřelou aktivitu – i když to žádný předpis nevyžaduje. Tím se ztrácí čas, který by mohl být věnován skutečnému vyšetřování.
+Současný regulační rámec, založený na zákonu BSA z roku 1970, vyžaduje od finančních institucí podávání podezřelých transakčních hlášení (SAR) a hlášení o hotovostních transakcích (CTR). Tyto mechanismy však vedou k masivnímu objemu dat, z nichž většina nemá význam pro vyšetřování. Například pokyny k vyplnění SAR čítají přes 170 stran, což zvyšuje riziko chyb a spotřebovává čas pracovníků, kteří by se mohli věnovat skutečné analýze hrozeb. Navíc instituce často dokumentují i rozhodnutí *nehlásit* podezřelou aktivitu – i když to žádný předpis nevyžaduje – což dále zvyšuje administrativní zátěž.
 
-Zároveň se spektrum hrozeb rozšiřuje: od obchodu s lidmi a drogami po sofistikované formy obcházení sankcí a kybernetické útoky. Regulace však stále vychází z modelu z 70. let minulého století. Hurley proto navrhuje přesun od „compliance jako rutinní povinnosti“ k „inteligentnímu systému detekce“, kde technologie – zejména AI a pokročilá analytika dat – hrají klíčovou roli. Cílem je snížit objem hlášení a zvýšit jejich kvalitu a relevantnost pro vyšetřovatele.
+Hurleyův návrh představuje posun od „compliance jako rutiny“ k „compliance jako inteligenci“. To znamená využití pokročilých nástrojů jako AI a strojové učení k detekci skutečně relevantních vzorů chování, snížení falešných poplachů a zvýšení kvality dat pro orgány činné v trestním řízení. Podobný přístup již testují některé fintech firmy, například Sardine, která se specializuje na prevenci finančního podvodu pomocí analýzy transakčních dat v reálném čase.
 
 ## Proč je to důležité
-Tato iniciativa má potenciál zásadně změnit fungování finančního dohledu ve Spojených státech i globálně. Pokud se podaří propojit regulační požadavky s moderními technologiemi, mohou být systémy AML/CFT efektivnější, levnější a lépe zaměřené na skutečné hrozby. Pro technologické firmy, zejména ty působící v oblasti regtech a AI pro finanční sektor (např. Sardine, kde působí autor článku Glenn Fratangelo), to otevírá prostor pro inovace v detekci anomálií, analýze transakčních vzorců a automatizaci rozhodovacích procesů. Zároveň to však vyžaduje pečlivé řešení otázek transparentnosti, odpovědnosti a ochrany osobních údajů.
+Modernizace AML/CFT není jen otázkou efektivity bank – jde o bezpečnostní prioritu. Pokud systém selhává při odhalování skutečných hrozeb (např. financování terorismu nebo obchodu s lidmi), ztrácí smysl. Technologické řešení může snížit náklady institucí, zvýšit přesnost detekce a uvolnit lidské zdroje pro složitější analýzy. Tento posun také otevírá prostor pro inovace v oblasti regtech (regulatory technology), kde AI a data-driven přístupy mohou nahradit manuální a pravidlově založené procesy.
 
 ---
 

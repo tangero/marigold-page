@@ -3,12 +3,12 @@ author: Marisa Aigen
 category: kryptoměny
 companies:
 - Faraday Future
-- QLGN
 - AIxCrypto
+- QLGN
 date: '2025-11-17 00:30:00'
 description: Společnost Faraday Future Intelligent Electric Inc. (FFAI) oznámila,
-  že dceřiná firma QLGN, kterou strategicky ovládá, změní název na AIxCrypto a bude
-  obchodována pod tickerem AIXC od 20. listopadu 2025.
+  že dceřiná firma QLGN, ve které FFAI drží většinový podíl, bude od 20. listopadu
+  2025 obchodována pod novým názvem AIxCrypto a tickerem AIXC.
 importance: 3
 layout: tech_news_article
 original_title: 'Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update:
@@ -30,21 +30,21 @@ urlToImageBackup: https://ml.globenewswire.com/Resource/Download/4ba28ea7-306e-4
 ---
 
 ## Souhrn
-Faraday Future Intelligent Electric Inc. (FFAI) oznámila, že společnost QLGN, ve které FFAI drží většinový podíl, změní své jméno na AIxCrypto a bude od 20. listopadu 2025 obchodována na burze pod tickerem AIXC. Součástí změny bude i oficiální představení nové strategie a složení představenstva na burze Nasdaq.
+Faraday Future Intelligent Electric Inc. (FFAI) oznámila, že společnost QLGN, ve které FFAI drží většinový podíl, změní svůj název na AIxCrypto a bude od 20. listopadu 2025 obchodována na burze pod tickerem AIXC. Tento krok je součástí strategie vytvoření tzv. „Dual Flywheel“ struktury se dvěma veřejně obchodovanými společnostmi.
 
 ## Klíčové body
-- FFAI získává většinový podíl (55 % přímo, 63 % včetně spojených stran) v QLGN.
-- QLGN bude od 20. listopadu 2025 fungovat pod novým názvem AIxCrypto a tickerem AIXC.
-- Společnost plánuje slavnostní představení nové strategie na burze Nasdaq.
-- Faraday Future současně rozšiřuje nabídku svých elektromobilů FF a FX s kompatibilitou s Tesla Superchargery.
+- FFAI získává přímý podíl cca 55 % v QLGN, celkově až 63 % včetně spojených stran.
+- QLGN bude od 20. listopadu 2025 obchodována jako AIxCrypto pod tickerem AIXC.
+- Přejmenování bude slavnostně uvedeno na burze Nasdaq spolu s oznámením nového složení představenstva.
+- Faraday Future zároveň připravuje účast na Los Angeles Auto Show s vozidly FF a FX vybavenými NACS porty pro přístup k síti Tesla Supercharger.
 
 ## Podrobnosti
-V rámci týdenního investoru aktualizoval zakladatel a spolupředseda Faraday Future, YT Jia, že společnost QLGN, ve které FFAI nyní drží většinový podíl, získá novou identitu jako AIxCrypto. Tato změna je součástí širší strategie vytvoření tzv. „Dual Flywheel“ struktury – dvou navzájem propojených veřejně obchodovaných společností, z nichž jedna (FFAI) se zaměřuje na elektromobilitu a druhá (AIxCrypto) na kryptoměny a AI. FFAI bude mít v AIxCrypto většinu hlasů i míst v představenstvu. Změna názvu a tickeru (z QLGN na AIXC) vstoupí v platnost 20. listopadu 2025, kdy bude na burze Nasdaq uspořádána oficiální akce s představením nového vedení a obchodní strategie.
+Dne 12. listopadu 2025 schválili akcionáři QLGN řadu návrhů, které umožnily společnosti Faraday Future Intelligent Electric Inc. (FFAI) získat kontrolu nad touto firmou. FFAI nyní drží přímý podíl přibližně 55 %, a pokud se započítají i podíly zakladatele YT Jii a Jerryho Wanga, celkové vlastnictví dosahuje 63 %. FFAI také získává většinu míst v představenstvu QLGN. Nově přejmenovaná společnost AIxCrypto bude oficiálně představena 20. listopadu 2025 na burze Nasdaq, kde se zároveň zveřejní kompletní složení jejího představenstva.
 
-Zároveň Faraday Future oznámila, že její modely FF a FX budou v Severní Americe vybaveny konektory NACS, což jim umožní využívat síť více než 28 000 Tesla Superchargerů. Společnost se také zúčastní Los Angeles Auto Show, kde představí svůj první inteligentní MPV s pokročilým AI asistentem (First Class EAI-MPV).
+Tento krok je prezentován jako dokončení tzv. „Dual Flywheel“ strategie – struktury, ve které FFAI a AIxCrypto vzájemně posilují své pozice na trhu. Zatímco FFAI se zaměřuje na elektromobilitu a inteligentní dopravní ekosystémy, AIxCrypto bude pravděpodobně působit v oblasti kryptoměn a AI, jak napovídá její název. Zároveň Faraday Future pokračuje ve vývoji svých vozidel: modely FF a FX budou v Severní Americe vybaveny NACS (North American Charging Standard) porty, což jim umožní využívat síť více než 28 000 Tesla Superchargerů. Společnost se také připravuje na prezentaci svého prvního inteligentního MPV vozidla na Los Angeles Auto Show.
 
 ## Proč je to důležité
-Tento krok ukazuje snahu Faraday Future diverzifikovat své podnikání mimo elektromobilitu směrem k digitálním aktivům a umělé inteligenci – oblastem s vysokým rizikem i potenciálem. Přejmenování QLGN na AIxCrypto a propojení s FFAI může přilákat investory z kryptosféry, ale zároveň zvyšuje komplexnost firemní struktury a riziko reputačních dopadů, zejména vzhledem k nejistému regulačnímu prostředí kryptoměn. Pro trh s elektromobily je významnější kompatibilita s Tesla nabíjecí sítí, která zlepšuje uživatelskou zkušenost a konkurenceschopnost vozů FF.
+Přesun Faraday Future do sféry kryptoměn a AI prostřednictvím AIxCrypto může signalizovat širší diverzifikaci jejího podnikání mimo tradiční elektromobilitu. Vzhledem k historickým finančním potížím společnosti jde pravděpodobně o snahu přilákat nové investory z oblasti blockchainu a umělé inteligence. Nicméně absence konkrétních informací o obchodním modelu AIxCrypto nebo jejích technologických schopnostech zatím brání v hodnocení reálného dopadu této změny. Pro trh s kryptoměnami je vstup známého, byť problematického hráče z automobilového průmyslu potenciálně zajímavý, ale vyžaduje opatrnost kvůli riziku spekulativního přístupu.
 
 ---
 

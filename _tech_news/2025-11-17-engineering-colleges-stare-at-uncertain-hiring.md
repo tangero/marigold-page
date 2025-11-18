@@ -21,19 +21,21 @@ urlToImageBackup: https://www.livemint.com/lm-img/img/2025/11/16/1600x900/logo/3
 ---
 
 ## Souhrn
-Indičtí absolventi technických vysokých škol z ročníku 2026 se mohou potýkat s výrazným poklesem pracovních nabídek v IT sektoru. Hlavní příčiny zahrnují rozsáhlou automatizaci, nasazení AI a opatrný přístup firem k náboru. Tento trend znamená třetí rok po sobě s poklesem kampusového náboru u velkých IT firem.
+Indičtí absolventi technických vysokých škol z ročníku 2026 se mohou potýkat s výrazným poklesem pracovních nabídek v oblasti IT, zejména od velkých domácích poskytovatelů IT služeb. Hlavními důvody jsou rozsáhlá automatizace, nasazení AI a obecně opatrné podmínky na trhu.
 
 ## Klíčové body
-- Velké indické IT firmy jako Tata Consultancy Services, Infosys a HCL Technologies plánují snížit nábor absolventů z kampusů.
-- Zaměstnavatelé upřednostňují uchazeče se specializovanými dovednostmi v oblastech AI, cloudových technologií a datové analytiky.
-- Tradiční dovednosti jako klasické kódování a vývoj aplikací již nestačí k získání práce v IT outsourcingových firmách.
-- Automatizace a více zdrojů IT služeb vedou k menší potřebě náboru velkého množství juniorů.
+- Pro IT firmy jde o třetí rok po sobě s poklesem náboru přímo z kampusů.
+- Společnosti jako Tata Consultancy Services, Infosys a HCL Technologies upřednostňují uchazeče se specializovanými dovednostmi v AI, cloudových technologiích a analýze dat.
+- Tradiční dovednosti jako kódování a vývoj aplikací již nestačí k získání práce u IT outsourcerů.
+- Automatizace a více dodavatelů na jeden projekt snižují potřebu náboru velkého množství juniorních vývojářů.
 
 ## Podrobnosti
-Podle alespoň pěti koordinátorů kariérních center na nejlepších indických technických univerzitách se IT firmy zaměřují méně na masový nábor absolventů a více na cílený výběr kandidátů s pokročilými schopnostmi. Například TCS, Infosys a HCL Technologies – tři největší indické poskytovatelé IT služeb – v posledních letech systematicky snižují počet nově najatých absolventů. Důvodem je rostoucí využití AI nástrojů pro automatizaci rutinních programátorských úkolů, což snižuje poptávku po základních vývojářských kapacitách. Zároveň firmy čelí nejistotě na globálních trzích, což je vede k opatrnějšímu plánování náboru. Absolventi tak musí prokázat schopnosti nad rámec tradičního výukového plánu – například zkušenosti s práci s LLM (large language models), cloudovými platformami jako AWS nebo Azure, nebo schopnost analyzovat data pomocí nástrojů jako Python, SQL či Power BI.
+V Indii, která každoročně vypouští na trh práce přes 1,3 milionu absolventů technických vysokých škol, se situace v IT sektoru výrazně mění. Podle vedoucích kariérních center pěti předních univerzit se IT firmy zaměřují méně na masový nábor juniorních sil a více na kandidáty s hlubokými znalostmi v oblastech jako umělá inteligence (AI), cloud computing a data analytics. Tento trend pokračuje již třetím rokem a odráží širší posun v globálním IT průmyslu: místo rozsáhlých týmů programátorů provádějících rutinní vývojové úkoly nyní firmy potřebují menší, ale vysoce specializované týmy schopné pracovat s moderními technologiemi.
+
+Automatizace a AI nástroje navíc nahrazují část práce, kterou dříve plnili začínající vývojáři – například generování jednoduchého kódu, testování nebo správa infrastruktury. Zároveň firmy často využívají více dodavatelů najednou, což snižuje potřebu dlouhodobého náboru vlastních juniorních sil. To znamená, že absolventi musí doložit nejen technické schopnosti, ale i schopnost pracovat s pokročilými nástroji a platformami, jako jsou cloudové služby (např. AWS, Azure), frameworky pro strojové učení (např. TensorFlow, PyTorch) nebo nástroje pro zpracování velkých dat.
 
 ## Proč je to důležité
-Tento posun od masového k selektivnímu náboru signalizuje strukturální změnu v IT trhu. Tradiční model, kdy indické technické vysoké školy dodávaly tisíce absolventů do outsourcingových firem, již není udržitelný. Absolventi musí investovat do specializace již během studia, jinak riskují nezaměstnanost nebo přechod do méně prosperujících odvětví. Pro celosvětový IT sektor to znamená, že tlak na kvalitu a specializaci talentů poroste – a to nejen v Indii, ale i v jiných zemích s podobným modelem vzdělávání a náboru.
+Tento posun má dalekosáhlé dopady nejen pro indický vzdělávací systém, ale i pro globální IT trh práce. Indické technické vysoké školy budou muset přehodnotit své osnovy a více se zaměřit na praktické dovednosti v rychle se vyvíjejících oblastech. Zároveň to ukazuje, že tradiční model „kódování jako vstupenky do IT“ již není udržitelný. Pro firmy to znamená efektivnější nábor, ale také vyšší tlak na kvalitu vzdělávání a přípravu absolventů. V kontextu globálního rozvoje AI a automatizace jde o varovný signál pro všechny země s masovým výstupem IT absolventů – bez specializace a adaptability bude konkurenceschopnost na trhu práce rychle klesat.
 
 ---
 

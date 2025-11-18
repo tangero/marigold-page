@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: televize
 date: '2025-11-17 00:00:15'
-description: HBO dlouhodobě vedlo pole prestižní televize, ale nyní se jeho pozice
-  mění. Apple TV+ se stává novým centrem originálního a kvalitního obsahu, zatímco
-  HBO se více zaměřuje na franšízy a komerční bezpečí.
+description: HBO, kdysi lídr kvalitního televizního obsahu, ztrácí svou dominantní
+  pozici ve prospěch Apple TV+, která investuje do originálního a nezávislého obsahu.
 importance: 3
 layout: tech_news_article
 original_title: Prestige TV has a new home, and it’s not HBO
@@ -21,22 +20,20 @@ urlToImageBackup: https://static0.makeuseofimages.com/wordpress/wp-content/uploa
 ---
 
 ## Souhrn
-HBO, které dříve definovalo standardy prestižní televize sériemi jako *The Sopranos* nebo *The Wire*, ztrácí svou dominantní pozici. Apple TV+ se díky masivním investicím a sázce na originální, nezávislé projekty stává novým domovem kvalitního obsahu. HBO naopak stále častěji sáhne po franšízách a spinoffech, což odznamenává zásadní posun v jeho strategii.
+HBO, dlouhodobě považovaná za domov nejlepších televizních pořadů, ztrácí svou prestiž ve prospěch Apple TV+. Zatímco HBO se stále více zaměřuje na franšízy a spin-offy, Apple investuje do originálního, nezávislého obsahu, který připomíná zlatou éru HBO.
 
 ## Klíčové body
-- HBO opouští tradici nezávislých seriálů ve prospěch franšízových projektů jako *House of the Dragon* nebo *The Last of Us*.
-- Apple TV+ investuje miliardy dolarů do originálního obsahu a přitahuje špičkové tvůrce.
-- Fúze Warner Bros. a Discovery v roce 2022 posílila tlak na využívání stávajícího IP (intellectual property) místo rizikových originálů.
-- HBO dříve odmítalo spinoffy; dnes je tato praxe běžná.
-- Apple TV+ se stává kreativním centrem, jakým HBO bývalo v éře před *Game of Thrones*.
+- HBO se posunula od originálních pořadů k franšízovým spin-offům jako House of the Dragon nebo The Last of Us.
+- Apple TV+ využívá své finanční zdroje k financování náročných a originálních seriálů.
+- Fúze Warner Bros. s Discovery v roce 2022 podpořila strategii zaměřenou na velké IP (intellectual property).
+- HBO dříve odmítala spin-offy a preferovala samostatné pořady jako The Sopranos nebo The Wire.
+- Apple TV+ se stává novým centrem kreativního televizního obsahu.
 
 ## Podrobnosti
-HBO kdysi prosazovalo filozofii „to není televize, je to HBO“ – sériový obsah měl být hluboký, originální a nezávislý na jiných médiích. Dnes však většina jeho hlavních titulů pochází z již existujících franšíz: *House of the Dragon* je prequel *Hry o trůny*, *The Last of Us* vychází z populární videohry a *Peacemaker* je součástí DC Universe. Tento trend začal s obrovským komerčním úspěchem *Hry o trůny*, který přesvědčil vedení HBO, že bezpečnější cesta vede přes rozšiřování známých světů. Po fúzi Warner Bros. s Discovery v roce 2022 CEO David Zaslav explicitně podporoval využívání stávajícího IP pro maximalizaci zisku a snížení rizika.
-
-Naopak Apple TV+, které vstoupilo na trh v roce 2019, systematicky investuje do autorských projektů – například *Severance* od Dana Ericksona nebo *The Morning Show* s Reou Witherspoonovou. Platforma si získala uznání za odvahu a kvalitu, i když její obsahová knihovna zůstává menší než u konkurence. Apple má však finanční zálohy, které mu umožňují dlouhodobě sázet na kvalitu místo kvantity.
+HBO kdysi definovala standard pro tzv. „prestižní televizi“ – pořady jako The Sopranos, The Wire nebo Veep byly známé svou hloubkou, originalitou a odvahou. Tyto seriály nebyly založeny na stávajících franšízách, ale vznikaly jako samostatné příběhy. Dnes se však HBO zaměřuje převážně na rozšiřování stávajících světů: House of the Dragon je prequel k Game of Thrones, The Last of Us vychází z populární videohry a Peacemaker je součástí DC Universe. Tento posun začal po obrovském úspěchu Game of Thrones, který přiměl vedení HBO k přehodnocení strategie. Po fúzi Warner Bros. s Discovery v roce 2022 a nástupu CEO Davida Zaslava se tlak na využití stávajících IP ještě zvýšil. Naopak Apple TV+, která nemá historické zatížení, využívá své obrovské finanční rezervy k financování originálních projektů od uznávaných tvůrců, čímž vytváří obsah, který připomíná HBO v její nejsilnější éře.
 
 ## Proč je to důležité
-Tento posun odrazuje širší trend v mediálním průmyslu: streamovací služby se více zaměřují na franšízy s předem vytvořenou fanbase, protože snižují riziko selhání. HBO, které kdysi inspirovalo celý průmysl k vyšším standardům, nyní následuje strategii Disney+ nebo Netflixu. Ztráta originálního přístupu může dlouhodobě oslabit jeho kreativní vliv. Naopak Apple TV+ ukazuje, že i nováček může převzít roli kultivátoru kvalitního obsahu – pokud má dostatek kapitálu a vůle ignorovat krátkodobé tlaky trhu.
+Tento posun od originálního obsahu ke komerčním franšízám odráží širší trend v mediálním průmyslu, kde velké korporace upřednostňují bezpečné sázky s existující fanbase před rizikovými, ale potenciálně inovativními projekty. Pro diváky to znamená méně diverzity v obsahu a více opakujících se univerzí. Na druhou stranu Apple TV+ může v této mezeře nabídnout alternativu pro ty, kteří hledají kvalitní, nezávislý obsah – podobně jako HBO před dvaceti lety.
 
 ---
 
