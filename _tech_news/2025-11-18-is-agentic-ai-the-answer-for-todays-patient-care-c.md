@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: zdravotnická ai
 date: '2025-11-18 00:18:13'
 description: Nemocnice čelí rostoucímu tlaku na personál a kapacity, a proto se stále
-  více obrací k AI nástrojům, které zlehčují administrativu a podporují klinické týmy.
-  Jedním z příkladů je platforma ThinkAndor® od společnosti Andor Health.
+  častěji obrací k AI nástrojům, které mají zjednodušit dokumentaci a podpořit klinické
+  týmy.
 importance: 3
 layout: tech_news_article
 original_title: Is Agentic AI the answer for today’s patient- care crisis in healthcare?
@@ -14,27 +14,27 @@ source:
   emoji: 📰
   id: null
   name: Digital Journal
-title: Je agenční AI řešením současné krize v péči o pacienty?
+title: Je agenská AI řešením současné krize v péči o pacienty?
 url: https://www.digitaljournal.com/tech-science/is-agentic-ai-the-answer-for-todays-patient-care-crisis-in-healthcare/article
 urlToImage: https://www.digitaljournal.com/wp-content/uploads/2025/11/TechTO-2-47.png
 urlToImageBackup: https://www.digitaljournal.com/wp-content/uploads/2025/11/TechTO-2-47.png
 ---
 
 ## Souhrn
-V reakci na rostoucí krizi v zdravotnictví – zahrnující nedostatek personálu, vyčerpání lékařů a sester a rostoucí poptávku po péči – se nemocnice v USA začínají obracet k agenční umělé inteligenci (agentic AI). Tato technologie má za cíl ne nahradit lidský personál, ale rozšířit jeho kapacity prostřednictvím automatizace dokumentace a koordinace péče. Klíčovým příkladem je platforma ThinkAndor® od společnosti Andor Health, která byla představena na Think AI Conference ve spolupráci s Microsoftem.
+V reakci na rostoucí krizi v zdravotnictví – zahrnující nedostatek personálu, vyčerpání lékařů a sester a zvýšenou poptávku po péči – se nemocnice v USA začínají obracet k agenské AI jako k nástroji pro udržení provozu. Společnosti jako Andor Health a Microsoft prezentují řešení, která mají snížit administrativní zátěž zdravotnického personálu a zlepšit koordinaci péče.
 
 ## Klíčové body
-- Nemocnice čelí strukturální krizi: nedostatek sester, vyčerpání personálu, rostoucí složitost péče.
-- Agentic AI je vnímána jako doplňkový nástroj, nikoli náhrada za klinický personál.
-- Platforma ThinkAndor® od Andor Health automatizuje dokumentaci pomocí hlasového vstupu a analýzy elektronických zdravotních záznamů.
-- Cílem je snížit administrativní zátěž sester a zlepšit kontinuitu monitorování pacientů.
-- Společnost Andor Health spolupracuje s Microsoftem a zdravotnickými sítěmi jako Sentara Health.
+- Nemocnice čelí strukturální krizi: nedostatek sester, vyčerpání personálu, rostoucí počet pacientů.
+- AI se nyní vnímá spíše jako doplněk než náhrada klinické práce.
+- Platforma ThinkAndor® od společnosti Andor Health umožňuje hlasovou dokumentaci a extrakci dat z elektronických zdravotních záznamů.
+- Cílem je udržet kontinuitu péče i při omezených lidských zdrojích.
+- Řešení je testováno v reálném provozu, například ve spolupráci s nemocniční sítí Sentara Health.
 
 ## Podrobnosti
-Společnost Andor Health, řízená Rajem Toletim, vyvíjí AI řešení zaměřená na podporu sesterstva. Její platforma ThinkAndor® využívá přirozený jazyk a hlasové rozhraní k automatickému zaznamenávání klinických poznámek a extrakci dat z elektronických zdravotních záznamů (EHR). Tím snižuje čas strávený administrativou, což je jednou z hlavních příčin vyhoření zdravotnického personálu. Platforma je nasazována v rámci tzv. virtuálních sesterských programů, kde AI asistuje při sledování pacientů mezi návštěvami personálu a upozorňuje na změny stavu. V pilotním nasazení u Sentara Health došlo k měřitelnému snížení administrativní zátěže a zlepšení toku informací mezi odděleními. Microsoft podporuje tuto iniciativu jako součást své strategie AI for Health.
+Společnost Andor Health, řízená Rajem Toletim, vyvíjí platformu ThinkAndor®, která využívá AI k podpoře sester a lékařů při běžných administrativních úkonech. Systém dokáže v reálném čase převádět hlasové poznámky do strukturovaných zdravotních záznamů a automaticky vyčítat relevantní informace z elektronických zdravotních kart. Tím se snižuje čas strávený vyplňováním formulářů a zvyšuje se čas pro přímou péči o pacienta. Platforma je navržena jako „virtuální sestra“, která nezasahuje do klinického rozhodování, ale zajišťuje plynulost komunikace a dokumentace mezi týmy. V rámci Think AI Conference byly prezentovány první výsledky spolupráce s nemocniční sítí Sentara Health, kde se podařilo snížit administrativní zátěž a zlepšit sledování pacientů.
 
 ## Proč je to důležité
-Tento přístup reprezentuje posun v chápání AI v medicíně – od náhrady lidské práce k rozšíření lidských schopností. Pokud se podaří ověřit škálovatelnost a bezpečnost takových systémů, mohou být klíčovým nástrojem pro udržitelnost zdravotnického systému v době demografického stárnutí a nedostatku pracovních sil. Zároveň však vyvstávají otázky týkající se ochrany dat, klinické odpovědnosti a integrace do stávajících klinických workflow. Agentic AI v tomto kontextu není „samostatným agentem“, ale spíše inteligentním asistentem s jasně vymezenou rolí v týmové péči.
+Tento přístup odráží širší posun v chápání AI v medicíně: místo ambicí nahradit člověka se zaměřuje na rozšíření jeho schopností. V kontextu globálního nedostatku zdravotnického personálu mohou takové nástroje hrát klíčovou roli při udržení kvality péče. Zároveň však vyvstávají otázky týkající se bezpečnosti dat, spolehlivosti AI a etiky jejího nasazení. Pokud se podobné systémy osvědčí, mohou se stát standardní součástí nemocniční infrastruktury – ne jako autonomní „lékaři“, ale jako inteligentní asistenti pro lidské týmy.
 
 ---
 

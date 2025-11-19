@@ -1,6 +1,6 @@
 ---
 author: Marisa Aigen
-category: hdp alternativy
+category: hospodářství
 date: '2025-11-18 00:00:00'
 description: Svět potřebuje přejít k měření blahobytu místo ekonomického růstu. Tento
   článek popisuje, jak k tomu může dojít.
@@ -20,22 +20,24 @@ urlToImageBackup: https://media.nature.com/lw1200/magazine-assets/d41586-025-037
 ---
 
 ## Souhrn
-Hrubý domácí produkt (HDP) nikdy nebyl určen jako ukazatel společenského blahobytu, ale přesto se stal hlavním měřítkem úspěchu národů. V současné době však jeho omezení — jako ignorování nerovnosti, neplacené práce nebo ekologických dopadů — brání efektivnímu řešení globálních výzev. Roste tlak na přijetí alternativních metrik, které zohledňují ekonomické, sociální i environmentální dimenze prosperity.
+Hrubý domácí produkt (HDP) nebyl nikdy určen jako ukazatel společenského blahobytu, přesto se stal dominantním měřítkem úspěchu zemí. V současné době však selhává při zachycování nerovnosti, ekologických dopadů nebo neplacené práce. Některé země, jako Bhútán, Nový Zéland nebo Wales, už experimentují s alternativními ukazateli, a OSN podporuje vývoj komplexnějších metrik do roku 2030.
 
 ## Klíčové body
-- HDP měří pouze tržní transakce a nezohledňuje nerovnost, neplacenou práci ani ekologické náklady.
-- Od poloviny 20. století se zhoršují limity růstu kvůli klimatickým změnám, sociální fragmentaci a nerovnosti.
-- OSN jmenovala v květnu expertní skupinu pro vývoj metrik „mimo HDP“ s cílem dosáhnout jejich globálního zavedení do roku 2030.
-- Země jako Bhútán, Nový Zéland, Skotsko a Wales již experimentují s alternativními indexy blahobytu.
-- Cíl 19 v rámci SDG17 výslovně vyzývá vlády k přijetí metrik nad rámec HDP.
+- HDP měří pouze tržní transakce a ignoruje sociální i environmentální aspekty.
+- Od poloviny 20. století se růst HDP přestal rovnat růstu kvality života.
+- OSN jmenovala expertní skupinu pro vývoj metrik mimo HDP.
+- Cíl udratelného rozvoje SDG17 požaduje přijetí alternativních ukazatelů do roku 2030.
+- Několik zemí již zavádí vlastní systémy měření blahobytu.
 
 ## Podrobnosti
-HDP vznikl jako nástroj pro sledování ekonomické produkce během druhé světové války a v následujících desetiletích se stal dominantním indikátorem národního úspěchu. Avšak jeho schopnost odrážet skutečný blahobyt občanů je dnes značně omezená. Například nezahrnuje domácí práci, dobrovolnictví ani degradaci přírodních zdrojů. V éře antropocénu, kdy lidská činnost překračuje planetární hranice, je třeba metriky, které odrážejí udržitelnost a kvalitu života, nikoli jen objem spotřeby.
+HDP vznikl jako nástroj pro sledování ekonomické aktivity během druhé světové války a v poválečném období plně sloužil svému účelu — měřil produkci a spotřebu. V současné době však tento ukazatel nezohledňuje například neplacenou domácí práci, dobrovolnictví, rozložení příjmů nebo degradaci životního prostředí. Zároveň se od 50. let minulého století, označovaných jako začátek antropocénu, projevují limity planety a rostoucí sociální nerovnosti, které HDP nezachycuje.
 
-V květnu 2024 jmenoval generální tajemník OSN António Guterres Vysokou expertní skupinu, jejímž úkolem je navrhnout systém indikátorů, které budou vyváženě zohledňovat ekonomické, sociální a environmentální aspekty. Tento krok navazuje na Cíle udržitelného rozvoje z roku 2015, konkrétně na cíl 19 v rámci SDG17, který výslovně požaduje zavedení metrik „mimo HDP“ do roku 2030. Přesto pokrok zůstává pomalý — institucionální a politické struktury jsou stále pevně ukotveny v paradigmatu růstu HDP.
+V květnu 2023 jmenoval generální tajemník OSN António Guterres vysokoškolskou expertní skupinu, jejímž cílem je vyvinout komplexní metriky, které budou zahrnovat ekonomické, sociální i environmentální dimenze blahobytu. Tento krok navazuje na cíl 19 v rámci SDG17, který vyzývá vlády k přijetí metrik mimo HDP do roku 2030. Přesto pokrok zůstává pomalý, protože ekonomické a politické systémy jsou hluboce zakotveny v logice růstu HDP.
+
+Země jako Bhútán (s indexem hrubého národního štěstí), Nový Zéland (Wellbeing Budget), Skotsko a Wales už implementují alternativní přístupy. Tyto iniciativy se snaží lépe zachytit kvalitu života, zdraví, vzdělání a udržitelnost.
 
 ## Proč je to důležité
-Přechod k alternativním metrikám blahobytu není jen akademickou otázkou, ale nutností pro efektivní řízení klimatické krize, sociální nerovnosti a technologické transformace. Bez přesného měření toho, co skutečně zlepšuje lidský život a chrání planetu, bude obtížné formulovat smysluplnou politiku. Země jako Bhútán s indexem hrubého národního štěstí nebo Nový Zéland s rozpočtem zaměřeným na blaho ukazují, že jiný přístup je možný — a nezbytný.
+Přechod od HDP k komplexnějším ukazatelům blahobytu je klíčový pro budoucí politiky zaměřené na udržitelnost, spravedlnost a reálnou kvalitu života. V době, kdy AI a automatizace mění trh práce a klimatická krize vyžaduje radikální přehodnocení hospodářských priorit, je neudržitelné dál měřit úspěch pouze růstem tržní produkce. Tento posun může vést k lepší alokaci veřejných zdrojů, větší transparentnosti a politikám, které skutečně slouží občanům, nikoli jen makroekonomickým ukazatelům.
 
 ---
 

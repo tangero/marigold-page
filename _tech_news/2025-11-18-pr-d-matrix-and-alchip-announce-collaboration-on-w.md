@@ -6,8 +6,8 @@ companies:
 - Alchip
 date: '2025-11-18 00:33:06'
 description: Společnosti d-Matrix a Alchip vyvíjejí první akcelerátor pro AI inferenci
-  v datových centrech postavený na 3D DRAM, který slibuje až desetinásobné zrychlení
-  oproti řešením s HBM4.
+  v datových centrech postavený na 3D DRAM technologii, který slibuje až desetinásobné
+  zrychlení oproti řešením založeným na HBM4.
 importance: 4
 layout: tech_news_article
 original_title: (PR) d-Matrix and Alchip Announce Collaboration on World's First 3D
@@ -25,20 +25,20 @@ urlToImageBackup: https://www.techpowerup.com/img/SW1Uu8IAUYsT7EnD.jpg
 ---
 
 ## Souhrn
-Společnosti d-Matrix a Alchip oznámily společný vývoj prvního akcelerátoru pro AI inferenci v datových centrech, který využívá 3D-stacked DRAM. Cílem je odstranit výkonnostní i nákladové bariéry současných AI infrastruktur a umožnit efektivnější zpracování generativních a agentic AI úloh.
+Společnosti d-Matrix a Alchip oznámily společný vývoj prvního akcelerátoru pro AI inferenci v datových centrech využívajícího 3D-stacked DRAM. Toto řešení má odstranit výkonnostní i cenové limity současných architektur a poskytnout až 10× vyšší rychlost inferencí než systémy postavené na HBM4 pamětech.
 
 ## Klíčové body
-- Vzniká první komerční akcelerátor pro AI inferenci založený na 3D DRAM.
+- Jedná se o první komerční 3D DRAM řešení pro AI inferenci v datových centrech.
 - Technologie 3DIMC (3D In-Memory Compute) je již ověřena na testovacím čipu Pavehawk.
-- Nový akcelerátor Raptor, nástupce Corsairu, bude podporovat až 10× vyšší rychlost inferencí než řešení s HBM4.
-- Spolupráce kombinuje architekturu d-Matrix s ASIC know-how společnosti Alchip.
-- Cílem je zvýšit energetickou efektivitu a snížit náklady na škálování AI.
+- Komerční debut proběhne na akcelerátoru d-Matrix Raptor, nástupci modelu Corsair.
+- Spolupráce kombinuje ASIC know-how Alchipu s architekturou digitálního výpočtu v paměti od d-Matrix.
+- Cílem je zefektivnit inferenci pro generativní i agentic AI modely.
 
 ## Podrobnosti
-Společnost d-Matrix, specializující se na efektivní inferenci generativní AI v datových centrech, spolupracuje s tchajwanskou firmou Alchip, která se zabývá návrhem specializovaných čipů (ASIC) pro AI infrastrukturu. Společně vyvíjejí technologii 3DIMC (3D In-Memory Compute), která integruje výpočet přímo do 3D-stacked DRAM paměti. Tento přístup eliminuje klasický „paměťový bottleneck“, kdy je přenos dat mezi procesorem a pamětí hlavním omezením výkonu. Technologie byla již úspěšně otestována na testovacím čipu Pavehawk a bude komerčně nasazena v akcelerátoru Raptor – nástupci dříve představeného Corsairu. Podle očekávání by měl Raptor dosahovat až desetinásobného zrychlení inferencí oproti současným řešením využívajícím HBM4 (High Bandwidth Memory 4). Tento pokrok je klíčový pro nasazení náročných generativních modelů a tzv. agentic AI, které vyžadují rychlé a opakované inferenční cykly.
+Společnost d-Matrix, specializující se na efektivní inferenci generativní AI v datových centrech, a Alchip, lídr v návrhu specializovaných ASIC čipů pro AI infrastrukturu, společně vyvíjejí revoluční architekturu založenou na 3D-stacked DRAM. Klíčovou součástí je technologie 3DIMC (3D In-Memory Compute), která umožňuje provádět výpočty přímo uvnitř paměťového čipu, čímž se výrazně snižuje latence a spotřeba energie. Tato technologie byla již úspěšně ověřena na testovacím čipu Pavehawk ve vlastních laboratořích d-Matrix. Komerčně se objeví na nadcházejícím akcelerátoru Raptor, který nahradí stávající model Corsair. Podle očekávání by měl Raptor dosahovat až desetinásobného zrychlení inferencí oproti současným řešením využívajícím HBM4 paměti. Tento pokrok je zásadní pro nasazení náročných generativních a agentic AI modelů, které vyžadují extrémně rychlý přístup k datům a výpočetním jednotkám.
 
 ## Proč je to důležité
-Tento krok představuje významný posun v architektuře AI akcelerátorů. Zatímco většina současných řešení (např. od NVIDIA nebo AMD) stále spoléhá na oddělené jednotky pro výpočet a paměť, d-Matrix a Alchip přinášejí integraci na fyzické úrovni. To nejen zvyšuje rychlost, ale také snižuje spotřebu energie a celkové náklady – klíčové faktory pro škálování AI v datových centrech. V kontextu rostoucí poptávky po efektivní inferenci, zejména u autonomních agentů a real-time generativních systémů, může tato technologie posunout konkurenční rovnováhu ve prospěch nových hráčů na trhu AI čipů.
+Tato spolupráce řeší jednu z největších překážek škálovatelnosti AI – tzv. „memory wall“, tedy propast mezi rychlostí procesoru a pomalejším přístupem k paměti. Zavedení 3D DRAM s výpočetními funkcemi přímo v paměti může výrazně snížit náklady na provoz AI systémů a zároveň zvýšit jejich energetickou účinnost. V kontextu exponenciálního růstu nároků generativní AI a agentic systémů představuje tento krok klíčový posun směrem k udržitelné a ekonomicky životaschopné AI infrastruktuře. Pro průmysl to znamená možnost nasazovat složitější modely v reálném čase bez nutnosti obrovských investic do paměťové a výpočetní kapacity.
 
 ---
 

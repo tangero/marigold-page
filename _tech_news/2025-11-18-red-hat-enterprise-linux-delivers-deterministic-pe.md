@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: průmyslové sítě
+category: průmyslová automatiz
 companies:
 - Red Hat
 date: '2025-11-18 00:00:00'
-description: V průmyslovém prostředí je předvídatelnost a přesná synchronizace kritická.
-  Red Hat Enterprise Linux nyní demonstruje schopnost poskytovat deterministický výkon
-  potřebný pro časově citlivé sítě (TSN) na úrovni operačního systému.
+description: Red Hat potvrdil, že jeho operační systém Red Hat Enterprise Linux (RHEL)
+  poskytuje deterministický výkon nezbytný pro průmyslové aplikace využívající časově
+  citlivé sítě (TSN).
 importance: 3
 layout: tech_news_article
 original_title: Red Hat Enterprise Linux delivers deterministic performance for time-sensitive
@@ -25,21 +25,20 @@ urlToImageBackup: https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-s
 ---
 
 ## Souhrn
-Red Hat Enterprise Linux (RHEL) prokázal schopnost zajistit deterministický výkon na úrovni operačního systému, což je nezbytné pro časově citlivé sítě (Time-Sensitive Networking, TSN) v průmyslových aplikacích. Společně s Intelem byla provedena technická validace, která potvrzuje, že RHEL a Red Hat Device Edge splňují nároky na přesnost a spolehlivost v reálném čase.
+Red Hat Enterprise Linux (RHEL) nyní oficiálně podporuje deterministický výkon potřebný pro časově citlivé sítě (Time-Sensitive Networking, TSN), což je klíčové pro průmyslovou automatizaci. Společně s Intelem byla provedena technická validace, která prokázala schopnost RHELu zajistit předvídatelné zpracování síťových paketů i za zátěže.
 
 ## Klíčové body
-- Deterministický výkon je zajištěn pomocí real-time jádra v RHEL.
-- Systém minimalizuje jitter způsobený přerušeními, výměnou paměti nebo náročnými aplikacemi (např. AI nebo video).
-- Validace byla provedena ve spolupráci s Intelem a zaměřena na průmyslové scénáře jako řízení pohybu nebo kritické procesní smyčky.
-- Red Hat Device Edge poskytuje jednotnou platformu pro edge zařízení v OT/IT prostředí.
+- RHEL využívá real-time kernel s deterministickým plánovačem pro zajištění předvídatelného výkonu.
+- Systém řeší problémy jako hardwarové přerušení, výměna mezipaměti a zátěž aplikacemi (např. AI nebo video).
+- Validace byla provedena ve spolupráci s Intelem na reálném průmyslovém scénáři.
+- Red Hat Device Edge rozšiřuje možnosti nasazení na periferii sítě (edge computing).
+- Determinismus je zajištěn nejen na úrovni sítě, ale i na úrovni operačního systému.
 
 ## Podrobnosti
-Časově citlivé sítě (TSN) jsou rozšířením standardu Ethernet, které zavádí determinismus a zaručený čas doručení paketů – klíčové pro průmyslovou automatizaci, kde zpoždění nebo kolísání (jitter) mohou způsobit selhání celého procesu. Avšak samotná síťová infrastruktura nestačí: operační systém na koncových zařízeních musí být schopen vytvářet a odesílat pakety s přesně definovaným časováním. Běžné operační systémy, včetně standardních distribucí Linuxu, nejsou pro tento úkol vhodné kvůli nepředvídatelnému chování plánovače úloh, zpracování přerušení nebo konkurence o systémové zdroje.
-
-Red Hat řeší tento problém nasazením real-time jádra v RHEL, které používá deterministický plánovač, striktní řízení přerušení a minimalizaci kontextových přepínání. To umožňuje prioritním úlohám (např. řídicím algoritmům) běžet v pevně daných časových rámcích. Validace s Intelem ukázala, že RHEL dokáže udržet jitter na úrovni mikrosekund, což je v souladu s požadavky průmyslových standardů jako IEC 61158 nebo IEEE 802.1Qbv. Platforma Red Hat Device Edge navíc umožňuje správu edge zařízení v rámci jednotného operačního modelu, což usnadňuje integraci OT a IT systémů.
+Časově citlivé sítě (TSN) jsou rozšířením standardu Ethernet, které zavádí záruky na doručení dat v přesně definovaném časovém okně – nezbytné pro průmyslové řídicí systémy, robotiku nebo pohybové řízení. Avšak samotná síť nestačí: pokud operační systém na koncovém zařízení (např. průmyslovém počítači nebo edge gateway) nezvládá předvídatelně zpracovávat a odesílat pakety, celý TSN řetězec selže. Red Hat proto nasadil real-time kernel, který minimalizuje latenci a jitter tím, že upřednostňuje kritické úlohy před běžnými procesy. Systém řídí zpracování přerušení, zamykání zdrojů a přepínání kontextu tak, aby vysokoprioritní úlohy běžely v pevně daných časových mezích. Validace s Intelem ukázala, že RHEL dokáže udržet deterministické chování i při běhu náročných aplikací, jako je AI inference nebo správa videa – běžné scénáře v moderních továrnách.
 
 ## Proč je to důležité
-Tento krok posiluje pozici open-source řešení v průmyslové automatizaci, kde dosud dominovaly proprietární real-time systémy. Schopnost spoléhat se na standardizovaný, bezpečný a podporovaný operační systém jako RHEL snižuje náklady na vývoj a údržbu průmyslových edge zařízení. Zároveň umožňuje integraci moderních technologií – jako je AI pro prediktivní údržbu – bez ohrožení časové přesnosti kritických úloh. V kontextu růstu průmyslového IoT a konvergence OT/IT sítí je tato schopnost klíčová pro budoucí architektury průmyslových podniků.
+Tento krok umožňuje průmyslovým firmám využívat otevřený, standardizovaný operační systém místo proprietárních řešení. Red Hat tím posiluje konvergenci IT (informační technologie) a OT (operační technologie), což je dlouhodobý cíl digitalizace výroby. Deterministický Linux na periferii sítě také usnadňuje integraci AI a pokročilé analýzy dat přímo v továrně, bez nutnosti odesílat data do cloudu. Pro průmysl to znamená vyšší flexibilitu, snížení nákladů na licencování a lepší dlouhodobou udržitelnost systémů.
 
 ---
 

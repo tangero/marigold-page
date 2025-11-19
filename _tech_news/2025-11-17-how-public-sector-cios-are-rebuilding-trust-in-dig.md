@@ -2,7 +2,7 @@
 author: Marisa Aigen
 category: digitální vláda
 date: '2025-11-17 23:28:14'
-description: Kanadský veřejný sektor zjišťuje, že rychlost a rozsah digitálních služeb
+description: Kanadská veřejná správa zjišťuje, že rychlost a rozsah digitálních služeb
   nemají význam, pokud občané nedůvěřují systémům, které je poskytují.
 importance: 3
 layout: tech_news_article
@@ -13,28 +13,29 @@ source:
   emoji: 📰
   id: null
   name: Digital Journal
-title: Jak ředitelé informačních technologií ve veřejném sektoru obnovují důvěru v
-  digitální vládu
+title: Jak ředitelé IT veřejné správy obnovují důvěru v digitální vládu
 url: https://www.digitaljournal.com/business/how-public-sector-cios-are-rebuilding-trust-in-digital-government/article
 urlToImage: https://www.digitaljournal.com/wp-content/uploads/2025/11/Photo-by-Getty-Images-on-Unsplash-Plus.png
 urlToImageBackup: https://www.digitaljournal.com/wp-content/uploads/2025/11/Photo-by-Getty-Images-on-Unsplash-Plus.png
 ---
 
 ## Souhrn
-Kanadské digitální služby veřejné správy dosáhly vysoké úrovně dostupnosti, ale spokojenost občanů zůstává nízká. Podle Adobe Digital Government Index 2025 je pouze 35 % občanů spokojeno s online službami svých provincií. Klíčovým problémem je nedostatek důvěry, kterou nelze vyřešit jen technickými vylepšeními.
+Kanadská digitální vláda čelí rostoucímu rozporu mezi rozšířením online služeb a klesající spokojeností občanů. Přestože většina obyvatel už komunikuje s úřady přes internet, jen 35 % je spokojeno s kvalitou těchto služeb. Klíčovým problémem je nedostatek důvěry, kterou technologie sama o sobě nezaručí.
 
 ## Klíčové body
-- Pouze 35 % Kanadčanů je spokojeno s digitálními službami veřejné správy.
-- Slabé stránky: rychlost na mobilních zařízeních, personalizace a celkový zákaznický zážitek (CX).
-- 77 % občanů již komunikovalo s vládou online, ale spokojenost klesá.
-- Důvěra vyžaduje transparentnost, bezpečnost a pocit, že systém „vidí“ uživatele.
-- CIO veřejného sektoru zdůrazňují, že technologie sama o sobě nestačí – musí být doprovázena lidským přístupem.
+- Jen 35 % Kanadčanů je spokojeno s online službami provinciálních úřadů.
+- Největší nedostatky jsou v rychlosti mobilních stránek, personalizaci a celkovém uživatelském zážitku (CX).
+- 77 % občanů už někdy využilo digitální služby státu, ale spokojenost klesá.
+- Důvěra vyžaduje transparentnost, bezpečnost a pocit, že systém „vidí“ uživatele jako jedince.
+- Ředitelé IT (CIO) zdůrazňují, že technologie musí sloužit lidským potřebám, ne jen zrychlovat procesy.
 
 ## Podrobnosti
-Kanadské provincie dosáhly vysokých výsledků v oblastech jako přístupnost, čitelnost a jazykový překlad, což odpovídá základním požadavkům na digitální služby. Avšak v oblastech, které přímo ovlivňují uživatelskou spokojenost – jako je rychlost na mobilních zařízeních, personalizace obsahu a celkový zákaznický zážitek – zaostávají. Tento rozpor je tím závažnější, že stále více služeb, od zdravotních záznamů po daňová přiznání, je nyní plně digitalizováno. Zpráva Canada’s Digital Ambition 2024–25 ukazuje, že i přes rostoucí využívání online služeb (60 % občanů v posledním roce) klesá jejich spokojenost. Scott McKenna, CIO zdravotnictví v Novém Skotsku a držitel ceny CanadianCIO Award 2025 pro veřejný sektor, zdůrazňuje, že občané chtějí mít jistotu, že jejich data jsou bezpečná, soukromá a že digitální systémy vlády jsou spolehlivé. Bez těchto prvků se důvěra veřejných institucí postupně eroduje.
+Podle Adobe Digital Government Index 2025 dosahují kanadské provincie nejlepších výsledků v přístupnosti, čitelnosti a jazykovém překladu, avšak zaostávají v oblastech, které přímo ovlivňují uživatelský zážitek: rychlost mobilních rozhraní, schopnost přizpůsobit obsah konkrétnímu uživateli a celková intuitivnost. Tyto nedostatky jsou zásadní, protože právě na nich závisí, zda občané budou mít pocit, že digitální služby jsou pro ně skutečně užitečné a bezpečné.
+
+Scott McKenna, CIO zdravotnictví v Novém Skotsku a držitel ceny CanadianCIO Award 2025 pro veřejný sektor, zdůrazňuje, že občané chtějí mít přístup ke svým údajům, ale zároveň očekávají, že systémy budou zabezpečené, soukromé a důvěryhodné. V době, kdy digitální rozhraní stávají „hlavním vchodem“ do veřejné správy, rozhoduje design těchto rozhraní o tom, zda lidé cítí, že jsou respektováni a podporováni.
 
 ## Proč je to důležité
-Tento případ ilustruje globální výzvu: digitalizace veřejné správy není jen o technologii, ale o vztahu mezi státem a občanem. I v zemích s vyspělou IT infrastrukturou, jako je Kanada, může chybějící důvěra způsobit odpor vůči digitálním službám. Pro Českou republiku i další země EU to znamená, že investice do AI, cloudových řešení nebo API integrací musí jít ruku v ruce s transparentní komunikací, ochranou dat a uživatelsky přívětivým designem. Jinak hrozí, že i technologicky pokročilé systémy zůstanou nevyužité nebo budou vnímány jako hrozba, nikoli jako nástroj pro lepší služby.
+Tento posun od technologické efektivity k lidské důvěryhodnosti má globální dopad. Ukazuje, že úspěch digitální transformace veřejné správy nelze měřit jen počtem online služeb nebo objemem zpracovaných dat, ale především mírou důvěry občanů. Pro Českou republiku i další země EU, které intenzivně rozvíjejí eGovernment, je kanadská zkušenost varováním: bez kvalitního uživatelského zážitku a transparentních bezpečnostních standardů hrozí, že i technologicky pokročilé systémy ztratí legitimitu v očích veřejnosti.
 
 ---
 

@@ -6,7 +6,7 @@ companies:
 - Thinking Machines Lab
 date: '2025-11-18 00:45:01'
 description: Podle zdrojů z The Information vyjednává společnost Thinking Machines
-  Lab, kterou spoluzaložila bývalá šéftechnoložka OpenAI Mira Murati, s potenciálními
+  Lab, kterou spoluzaložila bývalá ředitelka technologií OpenAI Mira Murati, s potenciálními
   investory o získání kolem 5 miliard dolarů při cílové tržní hodnotě nejméně 50 miliard
   dolarů.
 importance: 4
@@ -22,7 +22,7 @@ source:
   emoji: 📰
   id: null
   name: Techmeme.com
-title: Mira Muratiho laboratoř Thinking Machines vyjednává o získání 5 miliard dolarů
+title: Mira Muratiho startup Thinking Machines Lab vyjednává o získání 5 miliard dolarů
   při cílové hodnotě alespoň 50 miliard dolarů
 url: https://www.techmeme.com/251117/p38
 urlToImage: http://www.techmeme.com/img/techmeme_sq328.png
@@ -30,20 +30,21 @@ urlToImageBackup: http://www.techmeme.com/img/techmeme_sq328.png
 ---
 
 ## Souhrn
-Thinking Machines Lab, startup založený bývalou šéftechnoložkou OpenAI Mirou Murati, vyjednává o získání investic ve výši přibližně 5 miliard dolarů. Cílová tržní hodnota společnosti by měla dosáhnout alespoň 50 miliard dolarů, což by z ní učinilo jednoho z nejhodnotnějších AI startupů na světě.
+Thinking Machines Lab, startup založený bývalou CTO OpenAI Mirou Murati, vyjednává o získání přibližně 5 miliard dolarů od investorů při cílové tržní hodnotě alespoň 50 miliard dolarů. Informaci zveřejnil server The Information s odvoláním na anonymní zdroje.
 
 ## Klíčové body
-- Společnost Thinking Machines Lab byla založena Mirou Murati po jejím odchodu z OpenAI v roce 2024.
-- Vyjednává se o investici ve výši cca 5 miliard dolarů.
-- Cílová tržní hodnota přesahuje 50 miliard dolarů.
-- Zatím nejsou známy konkrétní detaily o technologii nebo produktech společnosti.
-- Informace pocházejí ze zdrojů citovaných serverem The Information.
+- Startup Thinking Machines Lab byl založen Mira Murati po jejím odchodu z OpenAI.
+- Cílem společnosti je pravděpodobně vývoj pokročilých AI systémů, možná včetně cesty k AGI (obecné umělé inteligenci).
+- Vyjednávání o financování probíhají na úrovni, která je typická pro nejvýznamnější AI startupy posledních let.
+- Cílová hodnota 50 miliard dolarů by zařadila společnost mezi nejvýznamnější hráče v sektoru AI.
 
 ## Podrobnosti
-Mira Murati, která hrála klíčovou roli při vývoji modelů GPT-3 a GPT-4 v OpenAI, opustila společnost v polovině roku 2024. Krátce poté založila vlastní laboratoř Thinking Machines Lab, jejíž název odkazuje na klasickou knihu o umělé inteligenci od Marvina Minskeho. Zatím nebyly zveřejněny technické detaily o zaměření společnosti, ale vzhledem k Muratiinu pozadí lze očekávat zaměření na pokročilé velké jazykové modely (LLM), bezpečnost AI nebo architekturu generativních systémů. Vyjednávání o 5 miliardách dolarů naznačuje, že společnost plánuje rozsáhlou expanzi výzkumu, nábor špičkových AI výzkumníků a možná i výstavbu vlastních výpočetních kapacit – což je v současné době klíčovým faktorem konkurenceschopnosti v oblasti AI. Taková investice by také umožnila konkurovat nejen OpenAI, ale i dalším hráčům jako Anthropic, Google DeepMind nebo Meta AI.
+Mira Murati, která v letech 2022–2024 působila jako ředitelka technologií (CTO) v OpenAI, odešla z firmy v roce 2024 a krátce nato založila vlastní společnost Thinking Machines Lab. Název odkazuje na historický koncept „myšlenkových strojů“ a naznačuje ambice v oblasti pokročilé umělé inteligence. Podle zdrojů serveru The Information nyní společnost vyjednává o získání kolem 5 miliard dolarů od institucionálních investorů, přičemž požaduje tržní hodnotu nejméně 50 miliard dolarů. Taková suma by odpovídala hodnotě OpenAI v roce 2023 a předčila by mnoho zavedených technologických firem.
+
+Kontext této zprávy je důležitý: od roku 2022 dochází k masivnímu přísunu kapitálu do AI sektoru, kdy velké investory lákají sliby transformace průmyslu, vědy i každodenního života pomocí LLM (large language models) a dalších AI technologií. Murati má silné reference – vedla vývoj modelů jako GPT-4 a multimodální systémy v OpenAI – a její nový podnik je proto sledován s velkým zájmem. Zatím nejsou známy konkrétní produkty nebo technologie, které Thinking Machines Lab vyvíjí, ale ambice naznačují zaměření na dlouhodobě udržitelné a bezpečné formy pokročilé AI.
 
 ## Proč je to důležité
-Tato zpráva signalizuje další vlnu konsolidace a konkurence v oblasti pokročilé umělé inteligence. Pokud se transakce uskuteční, Thinking Machines Lab se stane jedním z nejlépe financovaných AI startupů v historii, což by mohlo výrazně ovlivnit směr vývoje LLM a strategie celého odvětví. Zároveň to ukazuje, že trh stále věří v potenciál nezávislých AI laboratoří, i přes rostoucí dominance velkých technologických firem. Pro uživatele a průmysl by to mohlo znamenat nové nástroje pro generování textu, kódu nebo multimediálního obsahu, případně inovace v oblasti interpretovatelnosti a bezpečnosti AI systémů.
+Financování této velikosti by umožnilo Thinking Machines Lab konkurovat nejen OpenAI, ale i dalším AI gigantům jako Anthropic, Google DeepMind nebo Meta AI. Vzhledem k Muratiině zkušenostem s řízením technologického vývoje a bezpečnostních protokolů v OpenAI by mohla její nová společnost hrát klíčovou roli v etickém a bezpečném směřování AI vývoje. Zároveň by úspěch startupu posílil pozici bývalých OpenAI zaměstnanců jako klíčových hráčů v globálním AI závodu. Pro investory i technologický sektor je tato zpráva signálem, že „druhá vlna“ AI startupů – vedená lidmi s přímou zkušeností z první linie vývoje – právě začíná.
 
 ---
 
