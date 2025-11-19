@@ -1,23 +1,23 @@
 
 {
-  "status": "CRITICAL",
-  "timestamp": "2025-11-17T16:32:24.044792+00:00",
-  "summary": "Status: CRITICAL | Články 24h: 0 | Čeština: 59.0% | Alerty: 4",
+  "status": "WARNING",
+  "timestamp": "2025-11-19T20:18:33.334720+00:00",
+  "summary": "Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3",
   "metrics": {
-    "total_articles": 3094,
+    "total_articles": 3681,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 26.29,
-    "czech_ratio": 0.59,
-    "avg_content_length": 2062.0
+    "newest_article_age_hours": 24.08,
+    "czech_ratio": 1.0,
+    "avg_content_length": 1399.0
   },
   "checks": {
     "freshness": {
       "status": "WARNING"
     },
     "language": {
-      "status": "CRITICAL",
-      "czech_ratio": 0.59
+      "status": "OK",
+      "czech_ratio": 1.0
     },
     "content_quality": {
       "status": "OK"
@@ -27,7 +27,7 @@
     
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 26.3h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.1h (threshold: 6h)"
     },
     
     {
@@ -38,11 +38,6 @@
     {
       "level": "INFO",
       "message": "Pouze 0 článků za poslední hodinu"
-    },
-    
-    {
-      "level": "CRITICAL",
-      "message": "Pouze 59.0% článků v češtině! (minimum: 85.0%)"
     }
     
   ]

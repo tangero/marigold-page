@@ -100,7 +100,8 @@ class NewsAPITechNewsGenerator:
                 'importance': 3,
                 'czech_title': title,
                 'czech_description': description,
-                'enhanced_content': description
+                'enhanced_content': description,
+                'usage': {'tokens': 0, 'cost': 0.0, 'prompt_tokens': 0, 'completion_tokens': 0}
             }
 
         try:
@@ -246,13 +247,37 @@ DŮLEŽITÉ:
                         analysis = json.loads(content)
 
                         importance = analysis.get('importance', 3)
-                        logger.info(f"✅ LLM analýza: důležitost={importance}, délka obsahu={len(analysis.get('enhanced_content', ''))} znaků")
+
+                        # Extrahovat usage data pro cost tracking
+                        llm_tokens = 0
+                        llm_cost = 0.0
+                        prompt_tokens = 0
+                        completion_tokens = 0
+
+                        if usage:
+                            prompt_tokens = usage.get('prompt_tokens', 0)
+                            completion_tokens = usage.get('completion_tokens', 0)
+                            llm_tokens = prompt_tokens + completion_tokens
+                            if self.cost_tracker:
+                                llm_cost = self.cost_tracker.calculate_cost(
+                                    'qwen/qwen3-max',
+                                    prompt_tokens,
+                                    completion_tokens
+                                )
+
+                        logger.info(f"✅ LLM analýza: důležitost={importance}, délka obsahu={len(analysis.get('enhanced_content', ''))} znaků, tokens={llm_tokens}, cost=${llm_cost:.4f}")
 
                         return {
                             'importance': importance,
                             'czech_title': analysis.get('czech_title', title),
                             'czech_description': analysis.get('czech_description', description),
-                            'enhanced_content': analysis.get('enhanced_content', description)
+                            'enhanced_content': analysis.get('enhanced_content', description),
+                            'usage': {
+                                'tokens': llm_tokens,
+                                'cost': llm_cost,
+                                'prompt_tokens': prompt_tokens,
+                                'completion_tokens': completion_tokens
+                            }
                         }
                     except json.JSONDecodeError as e:
                         logger.warning(f"⚠️ Chyba parsování JSON z LLM: {e}")
@@ -262,7 +287,8 @@ DŮLEŽITÉ:
                             'importance': self.detect_importance(title, description, category),
                             'czech_title': self.translate_title(title),
                             'czech_description': self.translate_description(description),
-                            'enhanced_content': self.translate_description(description)
+                            'enhanced_content': self.translate_description(description),
+                            'usage': {'tokens': 0, 'cost': 0.0, 'prompt_tokens': 0, 'completion_tokens': 0}
                         }
             else:
                 logger.warning(f"⚠️ LLM API selhalo (HTTP {response.status_code})")
@@ -275,7 +301,8 @@ DŮLEŽITÉ:
             'importance': self.detect_importance(title, description, category),
             'czech_title': self.translate_title(title),
             'czech_description': self.translate_description(description),
-            'enhanced_content': self.translate_description(description)
+            'enhanced_content': self.translate_description(description),
+            'usage': {'tokens': 0, 'cost': 0.0, 'prompt_tokens': 0, 'completion_tokens': 0}
         }
 
     def fetch_newsapi_articles(self):
@@ -441,6 +468,7 @@ DŮLEŽITÉ:
         czech_description = analysis['czech_description']
         importance = analysis['importance']
         enhanced_content = analysis['enhanced_content']
+        analysis_usage = analysis.get('usage', {})
 
         # Log processing pokud máme logger
         if proc_logger:
@@ -448,7 +476,11 @@ DŮLEŽITÉ:
                 'llm_used': True,
                 'importance': importance,
                 'has_czech': bool(czech_title),
-                'enhanced_length': len(enhanced_content)
+                'enhanced_length': len(enhanced_content),
+                'tokens': analysis_usage.get('tokens', 0),
+                'cost': analysis_usage.get('cost', 0.0),
+                'prompt_tokens': analysis_usage.get('prompt_tokens', 0),
+                'completion_tokens': analysis_usage.get('completion_tokens', 0)
             })
 
         # Přeskočit články s nízkou důležitostí (< 3)
