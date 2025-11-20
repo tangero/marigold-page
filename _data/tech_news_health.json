@@ -1,6 +1,6 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-20T12:26:28.478943+00:00",
+  "timestamp": "2025-11-20T16:20:13.555441+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 368.0,
-      "median_length": 382.0
+      "avg_length": 372.0,
+      "median_length": 390.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,46 +26,25 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.03,
-      "invalid_count": 3,
-      "most_common_missing_fields": {
-        "description": 3
-      },
-      "sample_invalid_articles": [
-        {
-          "file": "2025-11-19-ftc-v-meta-tiktoks-rise-undermined-the-ftcs-antitr.md",
-          "errors": [
-            "chybí description"
-          ]
-        },
-        {
-          "file": "2025-11-19-metas-win-over-the-us-ftc-may-mean-meta-google-mic.md",
-          "errors": [
-            "chybí description"
-          ]
-        },
-        {
-          "file": "2025-11-19-as-tsmc-readies-its-10b-germany-plant-for-2027-its.md",
-          "errors": [
-            "chybí description"
-          ]
-        }
-      ]
+      "error_rate": 0.0,
+      "invalid_count": 0,
+      "most_common_missing_fields": {},
+      "sample_invalid_articles": []
     }
   },
   "metrics": {
-    "total_articles": 3914,
+    "total_articles": 3984,
     "articles_24h": 0,
     "articles_1h": 0,
     "newest_article_age_hours": 24.08,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 368.0,
-    "median_content_length": 382.0,
-    "articles_with_images_pct": 95.0,
+    "avg_content_length": 372.0,
+    "median_content_length": 390.0,
+    "articles_with_images_pct": 99.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.03
+    "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
