@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-21T08:20:43.915365+00:00",
+  "timestamp": "2025-11-21T12:24:30.698968+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.13,
+      "newest_age_hours": 24.05,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 376.0,
-      "median_length": 395.0
+      "avg_length": 378.0,
+      "median_length": 386.0
     },
     "generation_trend": {
       "status": "OK",
@@ -33,7 +33,7 @@
       },
       "sample_invalid_articles": [
         {
-          "file": "2025-11-20-metas-victory-opens-the-way-for-silicon-valley-to-.md",
+          "file": "2025-11-20-the-us-doe-accelerates-its-approach-to-equipping-n.md",
           "errors": [
             "chybí description"
           ]
@@ -42,16 +42,16 @@
     }
   },
   "metrics": {
-    "total_articles": 4222,
+    "total_articles": 4278,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.13,
+    "newest_article_age_hours": 24.05,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 376.0,
-    "median_content_length": 395.0,
-    "articles_with_images_pct": 96.0,
+    "avg_content_length": 378.0,
+    "median_content_length": 386.0,
+    "articles_with_images_pct": 89.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.01
   },
