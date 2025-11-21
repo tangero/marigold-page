@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-21T16:18:01.738775+00:00",
+  "timestamp": "2025-11-21T20:17:41.881246+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.05,
+      "newest_age_hours": 24.08,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 362.0,
-      "median_length": 366.0
+      "avg_length": 359,
+      "median_length": 390.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,20 +26,14 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.02,
-      "invalid_count": 2,
+      "error_rate": 0.01,
+      "invalid_count": 1,
       "most_common_missing_fields": {
-        "description": 2
+        "description": 1
       },
       "sample_invalid_articles": [
         {
-          "file": "2025-11-20-brian-bex-exelbierd-if-youre-wearing-more-than-one.md",
-          "errors": [
-            "chybí description"
-          ]
-        },
-        {
-          "file": "2025-11-20-the-us-doe-accelerates-its-approach-to-equipping-n.md",
+          "file": "2025-11-20-wall-street-cheers-bullish-nvidia-report-ai-stock-.md",
           "errors": [
             "chybí description"
           ]
@@ -48,23 +42,23 @@
     }
   },
   "metrics": {
-    "total_articles": 4340,
+    "total_articles": 4405,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.05,
+    "newest_article_age_hours": 24.08,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 362.0,
-    "median_content_length": 366.0,
-    "articles_with_images_pct": 96.0,
+    "avg_content_length": 359,
+    "median_content_length": 390.0,
+    "articles_with_images_pct": 97.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.02
+    "front_matter_error_rate": 0.01
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.1h (threshold: 6h)"
     },
     {
       "level": "WARNING",
