@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-22T00:52:16.047023+00:00",
+  "timestamp": "2025-11-22T04:17:57.926922+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.04,
+      "newest_age_hours": 24.09,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 354.0,
-      "median_length": 384.0
+      "avg_length": 365.0,
+      "median_length": 374.0
     },
     "generation_trend": {
       "status": "OK",
@@ -33,7 +33,7 @@
       },
       "sample_invalid_articles": [
         {
-          "file": "2025-11-20-wall-street-cheers-bullish-nvidia-report-ai-stock-.md",
+          "file": "2025-11-21-the-ai-boom-has-found-another-gear-why-cant-people.md",
           "errors": [
             "chybí description"
           ]
@@ -42,15 +42,15 @@
     }
   },
   "metrics": {
-    "total_articles": 4472,
+    "total_articles": 4520,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.04,
+    "newest_article_age_hours": 24.09,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 354.0,
-    "median_content_length": 384.0,
+    "avg_content_length": 365.0,
+    "median_content_length": 374.0,
     "articles_with_images_pct": 90.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.01
@@ -58,7 +58,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.1h (threshold: 6h)"
     },
     {
       "level": "WARNING",
