@@ -1,31 +1,29 @@
 ---
 author: Marisa Aigen
 category: tech
-date: '2025-11-21 14:45:34'
-description: 'Many of the activists, scientists and government leaders at United Nations
-  climate talks underway in Brazil have a beef: They want more to be done to transform
-  the world’s food system'
+date: '2025-11-21 18:42:14'
+description: Agriculture contributes about a third of Earth-warming emissions worldwide.
 importance: 3
 layout: tech_news_article
 original_title: At UN climate conference, some activists and scientists want more
   talk on reforming agriculture
-publishedAt: '2025-11-21T14:45:34+00:00'
+publishedAt: '2025-11-21T18:42:14+00:00'
 slug: at-un-climate-conference-some-activists-and-scient
 source:
   emoji: 📰
-  id: abc-news
-  name: ABC News
+  id: null
+  name: Boston Herald
 title: At UN climate conference, some activists and scientists want more talk on reforming
   agriculture
-url: https://abcnews.go.com/Business/wireStory/climate-conference-activists-scientists-talk-reforming-agriculture-127748576
-urlToImage: https://i.abcnewsfe.com/a/0829b9ec-2843-4514-adba-1a2348470f54/wirestory_ba29d1e46a075dbe1b53e079f1541f9f_16x9.jpg?w=1600
-urlToImageBackup: https://i.abcnewsfe.com/a/0829b9ec-2843-4514-adba-1a2348470f54/wirestory_ba29d1e46a075dbe1b53e079f1541f9f_16x9.jpg?w=1600
+url: https://www.bostonherald.com/2025/11/21/climate-cop30-food/
+urlToImage: https://www.bostonherald.com/wp-content/uploads/2025/11/Climate_COP30_95651-1.jpg?w=1024&h=682
+urlToImageBackup: https://www.bostonherald.com/wp-content/uploads/2025/11/Climate_COP30_95651-1.jpg?w=1024&h=682
 ---
 
-Many of the activists, scientists and government leaders at United Nations climate talks underway in Brazil have a beef: They want more to be done to transform the world’s food system
+Agriculture contributes about a third of Earth-warming emissions worldwide.
 
 ---
 
-[Číst původní článek](https://abcnews.go.com/Business/wireStory/climate-conference-activists-scientists-talk-reforming-agriculture-127748576)
+[Číst původní článek](https://www.bostonherald.com/2025/11/21/climate-cop30-food/)
 
-**Zdroj:** 📰 ABC News
+**Zdroj:** 📰 Boston Herald
