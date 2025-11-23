@@ -1,7 +1,655 @@
 {
-  "generated": "2025-11-23T12:22:38.440923+00:00",
+  "generated": "2025-11-23T16:16:39.277124+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Elon Musk's Vision of the Future: Work Is 'Optional,' Money Is Irrelevant as AI and Robots Take Over Everything",
+      "description": "Elon Musk shared his vision of the future at the U.S.-Saudi Investment Forum in Washington, DC this week. According to the tech tycoon, work will be optional and money will lose all meaning as AI-powered robots take over every aspect of the economy over the n…",
+      "slug": "elon-musks-vision-of-the-future-work-is-optional-m",
+      "publishedAt": "2025-11-22T16:13:43+00:00",
+      "date": "2025-11-22 16:13:43",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://media.breitbart.com/media/2025/11/Elon-Musk-talking-about-how-work-and-money-will-go-away-640x335.jpg",
+      "url": "/tech-news/2025-11-22/elon-musks-vision-of-the-future-work-is-optional-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "6 Democratic Governors Have Linked Arms With the GOP to Push Fossil Fuels",
+      "description": "A bipartisan group of 13 governors urges Congress to “reform” energy permitting. It’s a terrible idea.",
+      "slug": "A-6-democratic-governors-have-linked-arms-with-the",
+      "publishedAt": "2025-11-22T16:12:00+00:00",
+      "date": "2025-11-22 16:12:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://truthout.org/app/uploads/2025/11/GettyImages-2182673498-1536x1024.jpg",
+      "url": "/tech-news/2025-11-22/A-6-democratic-governors-have-linked-arms-with-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Truthout"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Driven: 2026 Rolls-Royce Spectre EV",
+      "description": "In the auto industry, some brands say covering the seats in leather makes a car luxurious. Some have created an upscale division they call “luxury.” Then there is the Rolls-Royce Spectre. After driving this grand EV, it is clear what luxury is, and then what …",
+      "slug": "driven-2026-rolls-royce-spectre-ev",
+      "publishedAt": "2025-11-22T16:10:00+00:00",
+      "date": "2025-11-22 16:10:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://theawesomer.com/photos/2025/11/rolls_royce_spectre_ev_review_1.jpg",
+      "url": "/tech-news/2025-11-22/driven-2026-rolls-royce-spectre-ev/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theawesomer.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The medium is the mob",
+      "description": "Lane Brown has published a long essay on what he calls his “theory of dumb,” which is an attempt to explain why everybody is apparently getting stupider. This is — sort of — hyperbole, but he does point to a number of intriguing studies from the last few year…",
+      "slug": "the-medium-is-the-mob",
+      "publishedAt": "2025-11-22T16:00:04+00:00",
+      "date": "2025-11-22 16:00:04",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/11/DUMB-articleLarge.webp",
+      "url": "/tech-news/2025-11-22/the-medium-is-the-mob/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Lawyersgunsmoneyblog.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "VTAR builds elevator talent",
+      "description": "THE elevator industry is an important component of Malaysia's construction and service sectors. Read full story",
+      "slug": "vtar-builds-elevator-talent",
+      "publishedAt": "2025-11-22T16:00:00+00:00",
+      "date": "2025-11-22 16:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/23/3635249.jpeg",
+      "url": "/tech-news/2025-11-22/vtar-builds-elevator-talent/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Labubu futures and AI frenzy show capitalism’s weird new frontiers – Liam Dann",
+      "description": "OPINION: Nvidia's latest result had market-watchers holding their breath.",
+      "slug": "labubu-futures-and-ai-frenzy-show-capitalisms-weir",
+      "publishedAt": "2025-11-22T16:00:00+00:00",
+      "date": "2025-11-22 16:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/S4A5LO74CBH4THV5NLGXZNNMPA.jpg?auth=8b745a09ee3c6c4cc763723a9ec14118a747e8c84622f02d6b4b4d2a2f4eb5d1&width=1200&height=675&quality=70&smart=true",
+      "url": "/tech-news/2025-11-22/labubu-futures-and-ai-frenzy-show-capitalisms-weir/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How To Add Aria Attributes To Modules In Divi 5",
+      "description": "Every website owner wants an accessible website, but it often takes work and some research. While the average user can navigate a website without supporting technologies, many people, including potential customers and fans, rely on an unseen layer of your web…",
+      "slug": "how-to-add-aria-attributes-to-modules-in-divi-5",
+      "publishedAt": "2025-11-22T16:00:00+00:00",
+      "date": "2025-11-22 16:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.elegantthemes.com/blog/wp-content/uploads/2025/11/divi-5-aria-attributes-to-modules-ft-img-4-min.jpg",
+      "url": "/tech-news/2025-11-22/how-to-add-aria-attributes-to-modules-in-divi-5/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Elegantthemes.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Benchmarking the region’s best",
+      "description": "MALAYSIA is cited as a model of internationalisation and system coordination, having nearly achieved its target of 250,000 international students by 2025. Read full story",
+      "slug": "benchmarking-the-regions-best",
+      "publishedAt": "2025-11-22T16:00:00+00:00",
+      "date": "2025-11-22 16:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "url": "/tech-news/2025-11-22/benchmarking-the-regions-best/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Forget 8 Glasses: Here’s How Much Water You Actually Need Daily",
+      "description": "Stay hydrated this winter. A registered dietitian advises us on how much water you really need.",
+      "slug": "forget-8-glasses-heres-how-much-water-you-actually",
+      "publishedAt": "2025-11-22T15:45:00+00:00",
+      "date": "2025-11-22 15:45:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a5dd7335fa020373c724d0168749ca32b38c8f45/hub/2024/09/03/da42b5f2-3bc0-4d70-b49f-2c7c28dab53f/person-drinking-water.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-22/forget-8-glasses-heres-how-much-water-you-actually/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Increase Your Practice’s Revenue: Proven Medical Billing Marketing Strategies for 2024",
+      "description": "Increase Your Practice’s Revenue: Proven Medical Billing Marketing Strategies for 2024medicalbillingcodingcourses.net",
+      "slug": "increase-your-practices-revenue-proven-medical-bil",
+      "publishedAt": "2025-11-22T15:35:42+00:00",
+      "date": "2025-11-22 15:35:42",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://medicalbillingcodingcourses.net/wp-content/uploads/2024/06/medical_billing_coding_courses_0034.jpg",
+      "url": "/tech-news/2025-11-22/increase-your-practices-revenue-proven-medical-bil/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Medicalbillingcodingcourses.net"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Sons of Trump’s Commerce Secretary Are Making Money in the Data Center Biz",
+      "description": "AI is good for politics and good for business too.",
+      "slug": "the-sons-of-trumps-commerce-secretary-are-making-m",
+      "publishedAt": "2025-11-22T15:30:49+00:00",
+      "date": "2025-11-22 15:30:49",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Howard-Lutnick-feb-10-2025-1200x675.jpg",
+      "url": "/tech-news/2025-11-22/the-sons-of-trumps-commerce-secretary-are-making-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Most Entertaining Moments from Grok's Praise of Elon Musk on X",
+      "description": "By\n Opheli Garcia Lawler\n Published: November 22nd, 2025",
+      "slug": "the-most-entertaining-moments-from-groks-praise-of",
+      "publishedAt": "2025-11-22T15:30:00+00:00",
+      "date": "2025-11-22 15:30:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/4/4/1/1413441.jpg",
+      "url": "/tech-news/2025-11-22/the-most-entertaining-moments-from-groks-praise-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cracked.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
+      "description": "The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technology (IT) sector between 2024 and 2025 while staying undetected for extended periods of time.\n\"In the period fr…",
+      "slug": "china-linked-apt31-launches-stealthy-cyberattacks-",
+      "publishedAt": "2025-11-22T15:19:00+00:00",
+      "date": "2025-11-22 15:19:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ApbbGy1VeM3uMCY8dVuTIzKS2QJ1wsy4n57G1cLRnEfWcZ2UIsRx8AhTUv8lqBkZb3CQPhalZOTRXo1E8A8LR8EHjecR51E7dgfDI_mHhTYmYulkhNmv82ET56xgGl3qaT7so9t02M3e1JB9pxi_0HCX9cRYUP7qPn9wAg9Yv3JBDj8zpY7bPRuO41rc/s790-rw-e365/russia.jpg",
+      "url": "/tech-news/2025-11-22/china-linked-apt31-launches-stealthy-cyberattacks/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Twitter’s TOS Formation Upheld–Taddeo-Waite v. X",
+      "description": "TL;DR: a court upheld X’s TOS formation. This is not a new or surprising result, especially against a pro se plaintiff. * * * The plaintiff claims that Twitter failed to remove a post about his young daughter. He sued...\nThe post Twitter’s TOS Formation Uphel…",
+      "slug": "twitters-tos-formation-upheldtaddeo-waite-v-x",
+      "publishedAt": "2025-11-22T15:14:29+00:00",
+      "date": "2025-11-22 15:14:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://blog.ericgoldman.org/wp-content/uploads/2025/11/X-tos-formation.jpg",
+      "url": "/tech-news/2025-11-22/twitters-tos-formation-upheldtaddeo-waite-v-x/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ericgoldman.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Watch out: Bitcoin isn’t what you think it is",
+      "description": "If you want to see a scary bitcoin chart, check this out.",
+      "slug": "watch-out-bitcoin-isnt-what-you-think-it-is",
+      "publishedAt": "2025-11-22T15:14:00+00:00",
+      "date": "2025-11-22 15:14:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/s5fl9T7Bii_17qGcTAfhbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/ee913c34cb432cd1a8f4a2914b80e213",
+      "url": "/tech-news/2025-11-22/watch-out-bitcoin-isnt-what-you-think-it-is/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Op Sindoor was trusted orchestra where every musician played synergistic role: Army chief",
+      "description": "Army Chief Gen Upendra Dwivedi described Operation Sindoor as a \"trusted orchestra\" where Indian armed forces destroyed nine terrorist targets in 22 minutes. The operation, lasting 88 hours, showcased foresight and the convergence of intelligence, precision, …",
+      "slug": "op-sindoor-was-trusted-orchestra-where-every-music",
+      "publishedAt": "2025-11-22T15:13:48+00:00",
+      "date": "2025-11-22 15:13:48",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125507382,width-1200,height-630,imgsize-21842,overlay-etdefence/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/op-sindoor-was-trusted-orchestra-where-every-music/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IIT Guwahati hosts symposium on underwater welding, offshore repair and additive manufacturing",
+      "description": "A blend of scientific inquiry and national ambition set the tone at IIT Guwahati on Saturday as the institute’s Technology Innovation Hub (TIH) hosted a symposium on underwater welding, offshore repair and additive manufacturing. The day-long event brought to…",
+      "slug": "iit-guwahati-hosts-symposium-on-underwater-welding",
+      "publishedAt": "2025-11-22T15:10:04+00:00",
+      "date": "2025-11-22 15:10:04",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.syllad.com/wp-content/uploads/2025/11/Sarbananda-Sonowal-1.jpg",
+      "url": "/tech-news/2025-11-22/iit-guwahati-hosts-symposium-on-underwater-welding/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Syllad.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Health education interventions across Thailand, the Philippines, and Japan: a multisite comparison in varying socio-environmental and policy contexts",
+      "description": "This quasi-experimental pre-post study evaluated the health effects of multisite health education interventions implemented in Thailand, the Philippines, and Japan. Standardized programs, based on a shared health education framework, were delivered for 6 to 1…",
+      "slug": "health-education-interventions-across-thailand-the",
+      "publishedAt": "2025-11-22T15:08:33+00:00",
+      "date": "2025-11-22 15:08:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.springernature.com/full/springer-static/cover-hires/journal/12889",
+      "url": "/tech-news/2025-11-22/health-education-interventions-across-thailand-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biomedcentral.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "New wearable device lets you touch fabric online, read braille, and more",
+      "description": "VoxeLite can help you literally feel websites.\nThe post New wearable device lets you touch fabric online, read braille, and more appeared first on Popular Science.",
+      "slug": "new-wearable-device-lets-you-touch-fabric-online-r",
+      "publishedAt": "2025-11-22T15:07:00+00:00",
+      "date": "2025-11-22 15:07:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/11/finger-werable-smartphone.png?quality=85&w=1200",
+      "url": "/tech-news/2025-11-22/new-wearable-device-lets-you-touch-fabric-online-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Popular Science"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Build Low-Code Autonomous AI Agent Systems Course for Engineers and Developers Launched - Interview Kickstart Adds Live Projects And Agentic AI Workflows",
+      "description": "SANTA CLARA, CA, Nov.  22, 2025  (GLOBE NEWSWIRE) -- SANTA CLARA, CA - November 22, 2025 -  -    Interview Kickstart, a U.S.-based provider of...",
+      "slug": "build-low-code-autonomous-ai-agent-systems-course-",
+      "publishedAt": "2025-11-22T15:03:00+00:00",
+      "date": "2025-11-22 15:03:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-22/build-low-code-autonomous-ai-agent-systems-course/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pilot announces new WACOM styluses for 2026",
+      "description": "Pilot is going to release some new WACOM pens in 2026, including the Dr. Grip Digital 2 and Digital Rotation.\nThe post Pilot announces new WACOM styluses for 2026 first appeared on Good e-Reader.",
+      "slug": "pilot-announces-new-wacom-styluses-for-2026",
+      "publishedAt": "2025-11-22T15:00:25+00:00",
+      "date": "2025-11-22 15:00:25",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.goodereader.com/blog/uploads/images/2025/11/22094933/U2m7gFlQ-copy.jpg",
+      "url": "/tech-news/2025-11-22/pilot-announces-new-wacom-styluses-for-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Goodereader"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI in QA: how to use Generative AI in testing without creating technical debt",
+      "description": "One-shot autonomous testing tools are going wrong: developing a human-driven approach to AI in QA.",
+      "slug": "ai-in-qa-how-to-use-generative-ai-in-testing-witho",
+      "publishedAt": "2025-11-22T15:00:00+00:00",
+      "date": "2025-11-22 15:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pJjsnhgKdD782c5SBEneTW-970-80.jpg",
+      "url": "/tech-news/2025-11-22/ai-in-qa-how-to-use-generative-ai-in-testing-witho/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Seniors Who Love Their Tech Tend to Have Less Dementia",
+      "description": "New research suggests that older adults who regularly use digital technology—think smartphones, computers, and the internet—have a lower risk of cognitive decline. A meta-analysis of 57 studies published in Nature Human Behaviour found that people over 50 who…",
+      "slug": "seniors-who-love-their-tech-tend-to-have-less-deme",
+      "publishedAt": "2025-11-22T14:50:00+00:00",
+      "date": "2025-11-22 14:50:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1647837-12-20251122085224.jpeg",
+      "url": "/tech-news/2025-11-22/seniors-who-love-their-tech-tend-to-have-less-deme/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Intel CEO dismisses concerns about new hire bringing TSMC’s tech",
+      "description": "Intel chief executive officer Lip-Bu Tan dismissed reports about a new hire taking trade secrets from Taiwan Semiconductor Manufacturing Co. to his company, saying the US chipmaker respects other firms’ intellectual property.",
+      "slug": "intel-ceo-dismisses-concerns-about-new-hire-bringi",
+      "publishedAt": "2025-11-22T14:39:08+00:00",
+      "date": "2025-11-22 14:39:08",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-562016,resizemode-75,msid-125506992/tech/technology/intel-ceo-dismisses-concerns-about-new-hire-bringing-tsmcs-tech.jpg",
+      "url": "/tech-news/2025-11-22/intel-ceo-dismisses-concerns-about-new-hire-bringi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "DOCTOR STRANGE Star Benedict Cumberbatch Says He's \"Depressed\" By AI; Talks Playing Heroes And Villains",
+      "description": "Doctor Strange star Benedict Cumberbatch has opened up on why he's \"depressed\" by the increased usage of AI in the film industry, and weighs in on the differences between playing a hero and villain...",
+      "slug": "doctor-strange-star-benedict-cumberbatch-says-hes-",
+      "publishedAt": "2025-11-22T14:33:00+00:00",
+      "date": "2025-11-22 14:33:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://comicbookmovie.com/images/articles/banners/doctor-strange-star-benedict-cumberbatch-says-hes-depressed-by-ai-talks-playing-heroes-and-villains-ab225043.jpg",
+      "url": "/tech-news/2025-11-22/doctor-strange-star-benedict-cumberbatch-says-hes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CBM (Comic Book Movie)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple CarPlay 2025: The Features You Didn’t Know Existed",
+      "description": "Apple CarPlay transforms your car’s infotainment system into a seamless extension of your iPhone, offering enhanced navigation, communication, and entertainment while keeping safety at the forefront. Whether you’re a first-time user or looking to optimize its…",
+      "slug": "apple-carplay-2025-the-features-you-didnt-know-exi",
+      "publishedAt": "2025-11-22T14:00:27+00:00",
+      "date": "2025-11-22 14:00:27",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/apple-carplay-dashboard-customization_optimized.jpg",
+      "url": "/tech-news/2025-11-22/apple-carplay-2025-the-features-you-didnt-know-exi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple @ Work: Even in enterprise competition, the smartest companies know when to partner",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+      "slug": "apple-work-even-in-enterprise-competition-the-smar",
+      "publishedAt": "2025-11-22T14:00:00+00:00",
+      "date": "2025-11-22 14:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/Apple-at-Work-Liquid-Glass-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-22/apple-work-even-in-enterprise-competition-the-smar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IPO market's red-hot year has been cooled by the shutdown and more caution among investors",
+      "description": "A strong year for initial public offerings on Wall Street has fizzled out due to the government shutdown and a cautious turn by investors",
+      "slug": "ipo-markets-red-hot-year-has-been-cooled-by-the-sh",
+      "publishedAt": "2025-11-22T13:33:50+00:00",
+      "date": "2025-11-22 13:33:50",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i.abcnewsfe.com/a/20f69ec8-50f7-48f5-b688-5b7f4486f300/wirestory_90ca60b95a6a36bb5cfaf6f11b44e4c9_16x9.jpg?w=1600",
+      "url": "/tech-news/2025-11-22/ipo-markets-red-hot-year-has-been-cooled-by-the-sh/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tesla driver dies after fiery crash in Arizona suburb",
+      "description": "Fatal collision raises renewed safety concerns A Tesla driver lost their life Tuesday evening after the electric vehicle crashed at an intersection in Buckeye, Arizona and erupted in flames, according to Fox10 Phoenix. The tragic incident occurred shortly aft…",
+      "slug": "tesla-driver-dies-after-fiery-crash-in-arizona-sub",
+      "publishedAt": "2025-11-22T13:18:20+00:00",
+      "date": "2025-11-22 13:18:20",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2567319759-scaled.jpg",
+      "url": "/tech-news/2025-11-22/tesla-driver-dies-after-fiery-crash-in-arizona-sub/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "UAE announces $1 billion initiative to expand AI in Africa",
+      "description": "By Nellie Peyton JOHANNESBURG (Reuters) -The United Arab Emirates said on Saturday it will invest $1 billion to expand AI infrastructure and AI-enabled...",
+      "slug": "uae-announces-1-billion-initiative-to-expand-ai-in",
+      "publishedAt": "2025-11-22T13:18:06+00:00",
+      "date": "2025-11-22 13:18:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "url": "/tech-news/2025-11-22/uae-announces-1-billion-initiative-to-expand-ai-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Please, Parents: Don't Buy Your Kids Toys With AI Chatbots in Them",
+      "description": "Commentary: AI-powered toys are weird and creepy. Why do we even need them?",
+      "slug": "please-parents-dont-buy-your-kids-toys-with-ai-cha",
+      "publishedAt": "2025-11-22T13:00:34+00:00",
+      "date": "2025-11-22 13:00:34",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e0e65351aa7116f710ff5a8be41bd3bc3d77451a/hub/2025/11/19/d94f2628-68a6-457a-953a-4baaf5f59fd1/gettyimages-2238303088.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-22/please-parents-dont-buy-your-kids-toys-with-ai-cha/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "This week in AI: Brushing off new bubble warnings, Google’s AI comeback and Nvidia’s China threat",
+      "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia’s blowout earnings failed to steady the market. Deirdre Bosa has the story.",
+      "slug": "this-week-in-ai-brushing-off-new-bubble-warnings-g",
+      "publishedAt": "2025-11-22T13:00:01+00:00",
+      "date": "2025-11-22 13:00:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108230121-1763752515282-deirdre1_new.png?v=1763752929&w=1920&h=1080",
+      "url": "/tech-news/2025-11-22/this-week-in-ai-brushing-off-new-bubble-warnings-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The agentic internet is coming – and businesses need to be ready",
+      "description": "Autonomous AI agents are changing how people and businesses interact online. Is your organization ready?",
+      "slug": "the-agentic-internet-is-coming-and-businesses-need",
+      "publishedAt": "2025-11-22T13:00:00+00:00",
+      "date": "2025-11-22 13:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-970-80.jpg",
+      "url": "/tech-news/2025-11-22/the-agentic-internet-is-coming-and-businesses-need/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Alberta government eyes AI to write legislation for 1st time",
+      "description": "The Alberta government is considering using AI technology to write a law for the first time, eyeing a forthcoming piece of whisky legislation as its test case.",
+      "slug": "alberta-government-eyes-ai-to-write-legislation-fo",
+      "publishedAt": "2025-11-22T13:00:00+00:00",
+      "date": "2025-11-22 13:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.cbc.ca/ais/cb52b35d-a017-402e-b0ec-735a6b296694,1763774035586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C3500%2C1968%29%3BResize%3D620",
+      "url": "/tech-news/2025-11-22/alberta-government-eyes-ai-to-write-legislation-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Will U.S economy, S&P 500 collapse if AI gold rush stops?",
+      "description": "Seven companies, including Amazon, Microsoft and Alphabet, the parent company of Google, now make up well over a third of the value of the S&P 500 index. Just one of the so-called Magnificent Seven, Nvidia, which makes the chips that power many of the most ad…",
+      "slug": "will-us-economy-sp-500-collapse-if-ai-gold-rush-st",
+      "publishedAt": "2025-11-22T12:37:52+00:00",
+      "date": "2025-11-22 12:37:52",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125505608,width-1200,height-630,imgsize-47216,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/will-us-economy-sp-500-collapse-if-ai-gold-rush-st/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Quirky indie phone is a modular Nokia/iPod hybrid, and proof there's still some fun in mobile tech",
+      "description": "I found a modular feature phone with a unique removable keyboard",
+      "slug": "quirky-indie-phone-is-a-modular-nokiaipod-hybrid-a",
+      "publishedAt": "2025-11-22T12:30:10+00:00",
+      "date": "2025-11-22 12:30:10",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/sidephone-sp-01-hand.jpg?w=1200&h=675&fit=crop",
+      "url": "/tech-news/2025-11-22/quirky-indie-phone-is-a-modular-nokiaipod-hybrid-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Police"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Distributed Quantum Computing",
       "description": "Unleashing the Networked Future of Human Potential LAST UPDATED: November 21, 2025 at 5:49 PM GUEST POST from Art Inteligencia For years, quantum computing has occupied the realm of scientific curiosity and theoretical promise. The captivating vision of a sin…",
@@ -1641,24 +2289,6 @@
       "people": []
     },
     {
-      "title": "Qatar pumping tens of billions into universities to help Muslim Brotherhood weaken US, ‘destroy democracy’",
-      "description": "\"This is the tip of the iceberg.\"",
-      "slug": "qatar-pumping-tens-of-billions-into-universities-t",
-      "publishedAt": "2025-11-21T23:19:27+00:00",
-      "date": "2025-11-21 23:19:27",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/115979213.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2025-11-21/qatar-pumping-tens-of-billions-into-universities-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Weird science: The unexpected breakthroughs coming your way soon",
       "description": "What are the exciting, if somewhat weird, events and research areas occurring in science right now?\nThe post Weird science: The unexpected breakthroughs coming your way soon appeared first on Digital Journal.",
       "slug": "weird-science-the-unexpected-breakthroughs-coming-",
@@ -1672,42 +2302,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Digital Journal"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Neuralink's First Patient May Get a Dual Implant Upgrade",
-      "description": "The second implant would be in Noland Arbaugh's spinal cord, and aims to help him walk again.\nNeuralink's first patient, Noland Arbaugh, is \"fired up\" about the possibility of a second implant, this one aimed at helping him walk again.\"I can’t overstate how f…",
-      "slug": "neuralinks-first-patient-may-get-a-dual-implant-up",
-      "publishedAt": "2025-11-21T21:55:42+00:00",
-      "date": "2025-11-21 21:55:42",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/n/neuralinks/neuralinks-first-patient-may-get-a-dual-implant-upgrade_zdjx.1200.jpg",
-      "url": "/tech-news/2025-11-21/neuralinks-first-patient-may-get-a-dual-implant-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Remember Trump's 300% Tariffs on Foreign-Made Chips? Don't Hold Your Breath",
-      "description": "Trump suggested he'd impose the sky-high tariffs in August or September. But US officials are privately telling industry insiders not to expect them anytime soon, Reuters reports.\nIn August, President Trump threatened to impose tariffs as high as 300% on fore…",
-      "slug": "remember-trumps-300-tariffs-on-foreign-made-chips-",
-      "publishedAt": "2025-11-21T21:47:49+00:00",
-      "date": "2025-11-21 21:47:49",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/r/remember-t/remember-trumps-300-tariffs-on-foreign-made-chips-dont-hold_3718.1200.jpg",
-      "url": "/tech-news/2025-11-21/remember-trumps-300-tariffs-on-foreign-made-chips/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
       },
       "companies": [],
       "people": []
@@ -1857,42 +2451,6 @@
       "people": []
     },
     {
-      "title": "Neighbors outraged as LA airport becomes ground zero for AI-driven flying taxis",
-      "description": "Archer Aviation acquires Hawthorne Airport for $126M to launch LA air taxi network ahead of 2028 Olympics, featuring AI-powered eVTOL operations and next-gen aviation tech.",
-      "slug": "neighbors-outraged-as-la-airport-becomes-ground-ze",
-      "publishedAt": "2025-11-21T20:30:29+00:00",
-      "date": "2025-11-21 20:30:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/2-la-airport-becomes-new-air-taxi-and-ai-test-hub.jpg",
-      "url": "/tech-news/2025-11-21/neighbors-outraged-as-la-airport-becomes-ground-ze/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "NTT brings Large Action Model to “market”",
-      "description": "NTT, Inc. used its recent NTT R&D Forum in Tokyo to detail a new AI technology called the Large Action Model (LAM). What is a LAM? The is an AI model that predicts customers' intent based on ...",
-      "slug": "ntt-brings-large-action-model-to-market",
-      "publishedAt": "2025-11-21T20:23:18+00:00",
-      "date": "2025-11-21 20:23:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-21/ntt-brings-large-action-model-to-market/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Teens who spoke with Pope Leo XIV reflect on the conversation",
       "description": "Teens Mia Smothers, Ezequiel Ponce, Micah Alcisto, Elise Wing, and Chris Pantelakis, and moderator Katie McGrady, right, take a “selfie” with Pope Leo XIV during a live digital encounter at Lucas Oil Stadium on Nov. 21, 2025. / Credit: Photo courtesy of Katie…",
       "slug": "teens-who-spoke-with-pope-leo-xiv-reflect-on-the-c",
@@ -1911,24 +2469,6 @@
       "people": []
     },
     {
-      "title": "Nuremberg Trials Transcripts, American Literary Canons, Google Maps, More: Friday Afternoon ResearchBuzz, November 21, 2025",
-      "description": "NEW RESOURCES Harvard Law Today: Harvard Law School Library releases first complete set of digitized Nuremberg Trials records. “Beginning today, the Harvard Law School Library is making available online the first complete, […]",
-      "slug": "nuremberg-trials-transcripts-american-literary-can",
-      "publishedAt": "2025-11-21T19:59:03+00:00",
-      "date": "2025-11-21 19:59:03",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-      "url": "/tech-news/2025-11-21/nuremberg-trials-transcripts-american-literary-can/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Researchbuzz.me"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Supermicro Expands Air-Cooled Solutions and Unveils New AI Factory Clusters",
       "description": "Supermicro announced the latest addition to the AMD-based Instinct MI350 series GPU-optimized solutions. The updates are expected to deliver greater performance, maximum scalability, and power efficiency. Supermicro has designed this new system for organizati…",
       "slug": "supermicro-expands-air-cooled-solutions-and-unveil",
@@ -1942,24 +2482,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Storagereview.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "People prefer digital banks over crypto wallets: Can a 9% return on holdings change reality?",
-      "description": "Digital wallets won the payments war. By mid-2025, around 65% of US adults used them, accounting for 39% of e-commerce and 16% of in-store transactions. Apple Pay and PayPal are boring infrastructure now, the default way millions move money without thinking a…",
-      "slug": "people-prefer-digital-banks-over-crypto-wallets-ca",
-      "publishedAt": "2025-11-21T19:30:27+00:00",
-      "date": "2025-11-21 19:30:27",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/aave-wallet.jpg",
-      "url": "/tech-news/2025-11-21/people-prefer-digital-banks-over-crypto-wallets-ca/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CryptoSlate"
       },
       "companies": [],
       "people": []
@@ -2037,42 +2559,6 @@
       "people": []
     },
     {
-      "title": "Right now is the perfect moment for Apple fans to try a Galaxy foldable",
-      "description": "We all know that Apple fans are some of the most loyal in the mobile industry. It's just the way it is, and if you are an Apple user, I'm not going to try to tell you that you're wrong. However, I will try to make a case on why you may want to join […]\nThe po…",
-      "slug": "right-now-is-the-perfect-moment-for-apple-fans-to-",
-      "publishedAt": "2025-11-21T18:44:21+00:00",
-      "date": "2025-11-21 18:44:21",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-review-design-1-1200x675.jpg",
-      "url": "/tech-news/2025-11-21/right-now-is-the-perfect-moment-for-apple-fans-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Putting principles into practice: an ethical approach to GenAI",
-      "description": "Rosemarie McIlwhan, et al., \n#ALTC Blog, \nNov 21, 2025\n\n\n \n \r\nThe whole concept of ethics and AI continues to dominate discussion, so much so that when someone complains about \"shaky foundations of just accepting the 'tech bros magic and misdirection'\" I begi…",
-      "slug": "putting-principles-into-practice-an-ethical-approa",
-      "publishedAt": "2025-11-21T18:37:00+00:00",
-      "date": "2025-11-21 18:37:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/altc.alt.ac.uk/blog/wp-content/uploads/sites/1112/2025/08/TEMPLATE-DO-NOT-EDIT-THIS-PAGE-14.png?fit=734%2C550&ssl=1",
-      "url": "/tech-news/2025-11-21/putting-principles-into-practice-an-ethical-approa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Alt.ac.uk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Show HN: EES, the Epstein Email Search System",
       "description": "I sort of made this as a joke, but it has an interesting, high-performance client-side architecture. You can see Claude’s take on the architecture here:https://x.com/doodlestein/status/1991766330656358737?s=46\n\nComments URL: https://news.ycombinator.com/item?…",
       "slug": "show-hn-ees-the-epstein-email-search-system",
@@ -2104,24 +2590,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Rolling Out"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Real Funds Mobile Casinos 2025",
-      "description": "The 10 Greatest Casino Apps That Pay Real Cash In The Us 2025 Content Mobile Casino Apps Versus Playing On Your Computer How Do I Actually Download Casino Apps? ... Read More →\nThe post Real Funds Mobile Casinos 2025 appeared first on Line25.com.\nReal Funds M…",
-      "slug": "real-funds-mobile-casinos-2025",
-      "publishedAt": "2025-11-21T18:04:18+00:00",
-      "date": "2025-11-21 18:04:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-21/real-funds-mobile-casinos-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Line25.com"
       },
       "companies": [],
       "people": []
@@ -2163,24 +2631,6 @@
       "people": []
     },
     {
-      "title": "Revolutionizing Learning And Development With No-Code And Agentic AI: 10 Real-World Use Cases",
-      "description": "Discover 10 real-world use cases where no-code platforms and agentic AI revolutionize corporate learning, automation, and workforce development.\nThis post was first published on eLearning Industry.",
-      "slug": "revolutionizing-learning-and-development-with-no-c",
-      "publishedAt": "2025-11-21T18:00:18+00:00",
-      "date": "2025-11-21 18:00:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/11/Shutterstock_2656252403.jpg",
-      "url": "/tech-news/2025-11-21/revolutionizing-learning-and-development-with-no-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Elearningindustry.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "You can now ask the Gemini app if an image was made by AI, thanks to Google’s SynthID tool",
       "description": "Google has made it easier for Gemini to spot fake AI images, but does it work for all pictures?",
       "slug": "you-can-now-ask-the-gemini-app-if-an-image-was-mad",
@@ -2194,96 +2644,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "PortraitPro: 50% OFF + an EXCLUSIVE EXTRA 20% OFF code DPS1025",
-      "description": "The post PortraitPro: 50% OFF + an EXCLUSIVE EXTRA 20% OFF code DPS1025 appeared first on Digital Photography School. It was authored by Sime.\nPortraitPro: 50% OFF + an EXCLUSIVE EXTRA 20% OFF code DPS1025 Get your time back with PortraitPro 24! We understand…",
-      "slug": "portraitpro-50-off-an-exclusive-extra-20-off-code-",
-      "publishedAt": "2025-11-21T18:00:00+00:00",
-      "date": "2025-11-21 18:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2025/11/c210ef57-9621-310c-8e4b-bb0b2520c253.jpeg?fit=630%2C388&ssl=1",
-      "url": "/tech-news/2025-11-21/portraitpro-50-off-an-exclusive-extra-20-off-code/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital-photography-school.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Plug Power Announces Special Meeting of Stockholders and Filing of Preliminary Proxy Statement",
-      "description": "SLINGERLANDS, N.Y., Nov. 21, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG) (the “Company” or “Plug”), a global leader in comprehensive hydrogen solutions for the hydrogen economy, will hold a Special Meeting of Stockholders (the “Special Meeting”) o…",
-      "slug": "plug-power-announces-special-meeting-of-stockholde",
-      "publishedAt": "2025-11-21T18:00:00+00:00",
-      "date": "2025-11-21 18:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fca44a9a-2cd2-4474-8fa6-9fa45a133088",
-      "url": "/tech-news/2025-11-21/plug-power-announces-special-meeting-of-stockholde/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Palantir stock sinks as Michael Burry turns bearish and CEO Alex Karp plans $95M share sale — Is PLTR about to collapse?",
-      "description": "Palantir stock dropped sharply as CEO Alex Karp moved to sell 585,000 shares worth nearly $95 million under a 10b5-1 plan. Shares have swung widely, falling as much as 25% this week. The pressure intensified after Michael Burry disclosed bearish put options c…",
-      "slug": "palantir-stock-sinks-as-michael-burry-turns-bearis",
-      "publishedAt": "2025-11-21T17:56:58+00:00",
-      "date": "2025-11-21 17:56:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125488517,width-1200,height-630,imgsize-67980,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-21/palantir-stock-sinks-as-michael-burry-turns-bearis/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia's Stellar Quarter Fails to Quell Bears as AI Valuation Fears Deepen on Wall Street",
-      "description": "The chipmaker’s blockbuster earnings offered a brief reprieve, but a rapid reversal in trading cemented investor worries about the sustainability of the AI boom.",
-      "slug": "nvidias-stellar-quarter-fails-to-quell-bears-as-ai",
-      "publishedAt": "2025-11-21T17:54:18+00:00",
-      "date": "2025-11-21 17:54:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png",
-      "url": "/tech-news/2025-11-21/nvidias-stellar-quarter-fails-to-quell-bears-as-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Rivian CEO’s $4.6B Pay Plan Mirrors Elon Musk’s—But Tesla’s Playbook Is Hard to Repeat",
-      "description": "For Scaringe’s new pay package to vest, Rivian must meet production, profitability and stock-price milestones that look increasingly daunting in today’s tougher EV climate.",
-      "slug": "rivian-ceos-46b-pay-plan-mirrors-elon-musksbut-tes",
-      "publishedAt": "2025-11-21T17:52:07+00:00",
-      "date": "2025-11-21 17:52:07",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/11/GettyImages-2059192530.jpg?quality=80",
-      "url": "/tech-news/2025-11-21/rivian-ceos-46b-pay-plan-mirrors-elon-musksbut-tes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Observer"
       },
       "companies": [],
       "people": []
@@ -2338,24 +2698,6 @@
         "emoji": "📰",
         "id": null,
         "name": "TheStranger.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "NAVEE ST3 Pro, loaded with power and comfort, 20% off for Black Friday [Sponsored]",
-      "description": "Looking for a smarter, cooler, and genuinely more comfortable way to commute this winter? The NAVEE ST3 Pro Damping Arm™ Suspension City E-scooter has officially entered the chat — and for Black Friday, it’s dropping to an unmissable low price. If you’ve been…",
-      "slug": "navee-st3-pro-loaded-with-power-and-comfort-20-off",
-      "publishedAt": "2025-11-21T17:03:04+00:00",
-      "date": "2025-11-21 17:03:04",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/NAVEE-main.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-21/navee-st3-pro-loaded-with-power-and-comfort-20-off/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
       },
       "companies": [],
       "people": []
@@ -2487,24 +2829,6 @@
       "people": []
     },
     {
-      "title": "Roborock’s Qrevo CurvX made me a believer in robot vacuums",
-      "description": "I tried Roborock's Qrevo CurvX and learned that I really don't need my old vacuum... or my trusty mop.",
-      "slug": "roborocks-qrevo-curvx-made-me-a-believer-in-robot-",
-      "publishedAt": "2025-11-21T15:32:50+00:00",
-      "date": "2025-11-21 15:32:50",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Roborock-Qrevo-CurvX-18.jpg",
-      "url": "/tech-news/2025-11-21/roborocks-qrevo-curvx-made-me-a-believer-in-robot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Authority"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Panther stalks: Intel’s Panther Lake CPUs set to take off in Oregon, company reveals, and cutting-edge 18A process is on track",
       "description": "There's good news and band news for Intel's Panther Lake and 18A. Bad news is that its yields are likely still very low. Good news is that their improvement are on the industry-standard yield ramp pace, which means that Intel is on track to hit industry-stand…",
       "slug": "the-panther-stalks-intels-panther-lake-cpus-set-to",
@@ -2518,24 +2842,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Tom's Hardware UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia CEO says AI will actually make everyone a lot busier: ‘Everybody’s jobs will be different’",
-      "description": "“I would say that there's every evidence that we will be more productive and yet still be busier because we have so many ideas,” Jensen Huang said.",
-      "slug": "nvidia-ceo-says-ai-will-actually-make-everyone-a-l",
-      "publishedAt": "2025-11-21T15:14:16+00:00",
-      "date": "2025-11-21 15:14:16",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246892118_d7711b-e1763737009721.jpg?resize=1200,600",
-      "url": "/tech-news/2025-11-21/nvidia-ceo-says-ai-will-actually-make-everyone-a-l/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
       },
       "companies": [],
       "people": []
@@ -2631,24 +2937,6 @@
       "people": []
     },
     {
-      "title": "Quantum computers need classical computing to be truly useful",
-      "description": "Conventional computing devices will play a crucial role in turning quantum computers into tools with real-world application",
-      "slug": "quantum-computers-need-classical-computing-to-be-t",
-      "publishedAt": "2025-11-21T12:00:52+00:00",
-      "date": "2025-11-21 12:00:52",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/11/20192811/SEI_275060584.jpg",
-      "url": "/tech-news/2025-11-21/quantum-computers-need-classical-computing-to-be-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "new-scientist",
-        "name": "New Scientist"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The CX Business Case the C-Suite Actually Buys",
       "description": "To earn executive buy-in, CX leaders must tie experience metrics to business outcomes, proving how customer satisfaction drives revenue, efficiency and ROI.\nContinue reading...",
       "slug": "the-cx-business-case-the-c-suite-actually-buys",
@@ -2662,42 +2950,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CMSWire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)",
-      "description": "Backed by YC and founded by two Princeton Ph.D’s, Roundtable provides frictionless, continual verification for our clients’ platforms. We ensure Proof of Human, tracking and stopping bots and fraud in real time to safeguard the integrity of online insights, t…",
-      "slug": "roundtable-yc-s23-is-hiring-two-sales-development-",
-      "publishedAt": "2025-11-21T12:00:02+00:00",
-      "date": "2025-11-21 12:00:02",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://bookface-images.s3.amazonaws.com/logos/f09f6eed9e553cbeda38b27263134de09d206c95.png?1684490631",
-      "url": "/tech-news/2025-11-21/roundtable-yc-s23-is-hiring-two-sales-development/",
-      "source": {
-        "emoji": "📰",
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Polar Power Inc. Receives Purchase Order for Mobile Electric Vehicle Fast Chargers to Address the Growing Need for Emergency Roadside Assistance",
-      "description": "Gardena, CA, Nov. 21, 2025 (GLOBE NEWSWIRE) -- Polar Power Inc. (“Polar Power” or the “Company”) (NASDAQ: POLA) announced today that it has received an initial purchase order for fifty (50) next-generation model EVMC30K EV mobile chargers (“EVMC30K Chargers”)…",
-      "slug": "polar-power-inc-receives-purchase-order-for-mobile",
-      "publishedAt": "2025-11-21T12:00:00+00:00",
-      "date": "2025-11-21 12:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/edd42c7f-20af-4a8a-ac7b-e8139ca1da2f",
-      "url": "/tech-news/2025-11-21/polar-power-inc-receives-purchase-order-for-mobile/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -2811,24 +3063,6 @@
       "people": []
     },
     {
-      "title": "Notice: AIRR Compute Opportunity: AI for Science",
-      "description": "This opportunity for AI for Science Priority Research Call for Compute is open to researchers with AI-focused project proposals.",
-      "slug": "notice-airr-compute-opportunity-ai-for-science",
-      "publishedAt": "2025-11-21T11:11:29+00:00",
-      "date": "2025-11-21 11:11:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2025-11-21/notice-airr-compute-opportunity-ai-for-science/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "U.S. Healthcare Staffing and Scheduling Software Market Size to Surpass USD 5.68 Billion by 2034",
       "description": "According to Nova One Advisor, the U.S. healthcare staffing and scheduling software market size is calculated at USD 2.07 billion in 2025 and is expected to surpass around USD 5.68 billion by 2034, growing at a compound annual growth rate (CAGR) of 11.88% ove…",
       "slug": "us-healthcare-staffing-and-scheduling-software-mar",
@@ -2842,42 +3076,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Parenthood Has Made Me Detest Robots",
-      "description": "You can’t throw a pacifier in American discourse without hitting someone talking about how having kids changed them. From Pete Buttigieg to Sarah Palin to the legions of guys who had daughters and realized sexual harassment is bad, many people apparently rece…",
-      "slug": "parenthood-has-made-me-detest-robots",
-      "publishedAt": "2025-11-21T11:00:00+00:00",
-      "date": "2025-11-21 11:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.newrepublic.com/7fb0d97b37c176a7663abbdcb9552c004605b861.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "url": "/tech-news/2025-11-21/parenthood-has-made-me-detest-robots/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The New Republic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Oral-B Pro 3 3900 Electric Toothbrush Twin Pack & 3 Replacement Brushes $112.06 @ Amazon AU via Germany",
-      "description": "From website: Deep cleansing and healthier gums thanks to 3D technology and 360° visual pressure control For cleaning that inspires - removes bacteria and up to 100% more plaque than a manual …",
-      "slug": "oral-b-pro-3-3900-electric-toothbrush-twin-pack-3-",
-      "publishedAt": "2025-11-21T10:59:48+00:00",
-      "date": "2025-11-21 10:59:48",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://files.ozbargain.com.au/n/83/935183l.jpg?h=8739ed04",
-      "url": "/tech-news/2025-11-21/oral-b-pro-3-3900-electric-toothbrush-twin-pack-3/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ozbargain.com.au"
       },
       "companies": [],
       "people": []
@@ -2914,24 +3112,6 @@
         "emoji": "📰",
         "id": null,
         "name": "PetaPixel"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI Teams Up With Foxconn To Design And Manufacture AI Hardware In The US",
-      "description": "In a bid to strengthen the artificial intelligence (AI) infrastructure in the United States, OpenAI has partnered with the Taiwanese electronics giant Foxconn Technology Group, also known as Hon Hai Precision Industry Co., Ltd (OTC:HNHAF). \nUS Push for AI Har…",
-      "slug": "openai-teams-up-with-foxconn-to-design-and-manufac",
-      "publishedAt": "2025-11-21T10:31:06+00:00",
-      "date": "2025-11-21 10:31:06",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/92f361a28213e2e1_s.webp",
-      "url": "/tech-news/2025-11-21/openai-teams-up-with-foxconn-to-design-and-manufac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
       },
       "companies": [],
       "people": []
@@ -3099,42 +3279,6 @@
       "people": []
     },
     {
-      "title": "Proton, MARii to develop National Automotive Test Centre (NATC); Shah Alam track, Tg Malim lab pledged",
-      "description": "Malaysia will soon have a National Automotive Test Centre (NATC), if things go to plan. At last week’s 2025 Global Automotive and Technology Expo closing ceremony, Proton and the Malaysia Automotive Robotics & IoT Institute […]\nThe post Proton, MARii to devel…",
-      "slug": "proton-marii-to-develop-national-automotive-test-c",
-      "publishedAt": "2025-11-21T03:19:56+00:00",
-      "date": "2025-11-21 03:19:56",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://paultan.org/image/2025/11/MARii-Proton-NATC-Strategic-Collaboration-1200x822.jpg",
-      "url": "/tech-news/2025-11-21/proton-marii-to-develop-national-automotive-test-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Paul Tan's Automotive News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "One Tech Tip: Do's and don'ts of using AI to help with schoolwork",
-      "description": "The rise of ChatGPT and other AI systems has transformed education, changing how students learn and study",
-      "slug": "one-tech-tip-dos-and-donts-of-using-ai-to-help-wit",
-      "publishedAt": "2025-11-21T03:16:01+00:00",
-      "date": "2025-11-21 03:16:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2MBUOKEKEQ3BLF3GBCTFRDNT6Y.jpg?auth=7ab2f5ba96a08de03ee657a9cf9906de9c927f8e326cfe8c493f2d6e70be6009&width=1200&height=630&smart=true",
-      "url": "/tech-news/2025-11-21/one-tech-tip-dos-and-donts-of-using-ai-to-help-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WHIO"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Future of Consulting: How AI is Creating a New Frontier of Data-Driven Decision Making",
       "description": "Artificial intelligence is revolutionizing consulting in India. Consultants are leveraging AI for faster data analysis and deeper insights. Clients expect enhanced productivity and quality from AI-powered consulting services. This shift demands new skills and…",
       "slug": "the-future-of-consulting-how-ai-is-creating-a-new-",
@@ -3166,24 +3310,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Samsung.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Profluent Bio raises $106M from Jeff Bezos and others to accelerate protein design with AI",
-      "description": "Jeff Bezos has had quite a hectic week, having just concluded his third venture capital investment in a promising artificial intelligence startup. This time, the recipient of Bezos’s largesse is a company called Profluent Bio Inc., which said today it has rai…",
-      "slug": "profluent-bio-raises-106m-from-jeff-bezos-and-othe",
-      "publishedAt": "2025-11-21T02:35:08+00:00",
-      "date": "2025-11-21 02:35:08",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Screenshot-from-2025-11-21-09-34-42.png",
-      "url": "/tech-news/2025-11-21/profluent-bio-raises-106m-from-jeff-bezos-and-othe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
       },
       "companies": [],
       "people": []
@@ -3297,24 +3423,6 @@
       "people": []
     },
     {
-      "title": "[Podcast] Make Your Brand Famous with Dan Cushing and Diego Borgo",
-      "description": "Jacob and Matt sit down with Thumbcorp’s co-founders Dan Cushing and Diego Borgo to unpack what brand fame really looks like in the worlds of blockchain, Web3 and frontier technology.",
-      "slug": "podcast-make-your-brand-famous-with-dan-cushing-an",
-      "publishedAt": "2025-11-21T01:45:26+00:00",
-      "date": "2025-11-21 01:45:26",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://justcreative.com/wp-content/uploads/2025/11/cushing-borgo-8.png",
-      "url": "/tech-news/2025-11-21/podcast-make-your-brand-famous-with-dan-cushing-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Justcreative.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Wall Street indexes down after sharp reversal, tech leads decline",
       "description": "Indian markets saw a sharp fall on Thursday. Early gains in Wall Street stocks reversed as technology shares declined. Nvidia's earnings and U.S. jobs data influenced investor sentiment. The unemployment rate rose, increasing chances of a Federal Reserve rate…",
       "slug": "wall-street-indexes-down-after-sharp-reversal-tech",
@@ -3369,24 +3477,6 @@
       "people": []
     },
     {
-      "title": "Real Madrid Apple Immersive Documentary Coming In 2026",
-      "description": "An Apple Immersive Video documentary about Real Madrid is coming next year, \"with a level of access that fans have never experienced before\".",
-      "slug": "real-madrid-apple-immersive-documentary-coming-in-",
-      "publishedAt": "2025-11-21T01:21:56+00:00",
-      "date": "2025-11-21 01:21:56",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/11/Blackmagic-URSA-Cine-Immersive-1.jpg",
-      "url": "/tech-news/2025-11-21/real-madrid-apple-immersive-documentary-coming-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "UploadVR"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "What to know about Trump's draft proposal to curtail state AI regulations",
       "description": "President Donald Trump is considering pressuring states to stop regulating artificial intelligence",
       "slug": "what-to-know-about-trumps-draft-proposal-to-curtai",
@@ -3418,24 +3508,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Cracked.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "NovaBridge’s Visara Subsidiary Appoints Distinguished Ophthalmology Leaders as Chief Medical Officer and Scientific Advisory Board Chair to Drive VIS-101 Forward",
-      "description": "ROCKVILLE, Md., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NovaBridge Biosciences (Nasdaq: NBP) (NovaBridge or the Company) a global biotechnology platform company committed to accelerating access to innovative medicines, today announced that its subsidiary Visara, In…",
-      "slug": "novabridges-visara-subsidiary-appoints-distinguish",
-      "publishedAt": "2025-11-21T01:00:00+00:00",
-      "date": "2025-11-21 01:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0ea9f005-c7f7-4272-a3ac-cbf4ea4aef15",
-      "url": "/tech-news/2025-11-21/novabridges-visara-subsidiary-appoints-distinguish/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -3513,24 +3585,6 @@
       "people": []
     },
     {
-      "title": "‘Pixar: The Early Days’ — Never-Before-Seen 1996 Interview With Steve Jobs",
-      "description": "A never-before-seen 1996 interview",
-      "slug": "pixar-the-early-days-never-before-seen-1996-interv",
-      "publishedAt": "2025-11-21T00:21:40+00:00",
-      "date": "2025-11-21 00:21:40",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://res.cloudinary.com/dkpjmxbwo/image/upload/c_fill,h_630,w_1200/f_auto/q_auto:eco/v1/Share%20Images/Pixar_Early_Days_iambjv?_a=DATAdthKZAA0",
-      "url": "/tech-news/2025-11-21/pixar-the-early-days-never-before-seen-1996-interv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Stevejobsarchive.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Earliest Days of The Atlantic Online",
       "description": "The year 1995 was full of flash art and wild optimism about the internet.",
       "slug": "the-earliest-days-of-the-atlantic-online",
@@ -3544,60 +3598,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The Atlantic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia's upbeat forecast soothes fears of AI stock market bubble",
-      "description": "Nvidia projected strong revenue exceeding analyst expectations, countering AI bubble concerns. The company anticipates a significant revenue surge in upcoming quarters, signaling sustained demand for its AI chips. This positive outlook boosted Nvidia's stock …",
-      "slug": "nvidias-upbeat-forecast-soothes-fears-of-ai-stock-",
-      "publishedAt": "2025-11-21T00:03:37+00:00",
-      "date": "2025-11-21 00:03:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125474626,width-1200,height-630,imgsize-794732,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-11-21/nvidias-upbeat-forecast-soothes-fears-of-ai-stock/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Research on vehicle trajectory planning algorithm integrating spatiotemporal constraints and adaptive curvature",
-      "description": "The trajectory planning method based on the Frenet coordinate transformation effectively reduces computational complexity and enhances planning accuracy. However, in complex road scenarios involving multiple intelligent agents, the singular Frenet coordinate …",
-      "slug": "research-on-vehicle-trajectory-planning-algorithm-",
-      "publishedAt": "2025-11-21T00:00:00+00:00",
-      "date": "2025-11-21 00:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-21/research-on-vehicle-trajectory-planning-algorithm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Progress in quantum structured light",
-      "description": "This Review provides an overview of the progress in quantum structured light, both as single and entangled photon states, with an emphasis on prospective applications in quantum information science such as quantum communication and quantum imaging.",
-      "slug": "progress-in-quantum-structured-light",
-      "publishedAt": "2025-11-21T00:00:00+00:00",
-      "date": "2025-11-21 00:00:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-025-01795-x/MediaObjects/41566_2025_1795_Fig1_HTML.png",
-      "url": "/tech-news/2025-11-21/progress-in-quantum-structured-light/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []
