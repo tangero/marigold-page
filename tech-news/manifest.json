@@ -1,7 +1,295 @@
 {
-  "generated": "2025-11-23T01:02:45.193518+00:00",
+  "generated": "2025-11-23T04:30:10.548461+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "The Hour of the Predator: Exposing this era that facilitates relationships between modern ‘Borgias’",
+      "description": "Fat-ego political leaders prove susceptible to Big Tech’s seductive charms",
+      "slug": "the-hour-of-the-predator-exposing-this-era-that-fa",
+      "publishedAt": "2025-11-22T04:06:00+00:00",
+      "date": "2025-11-22 04:06:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/IBDFBMN6JVALHIXA2ZHQJJKRXM.jpg?smart=true&auth=b86b131b01312de4b046d105d55d7d27637a3e926879b2f8103ebfdeaa1ab1cc&width=1200&height=630",
+      "url": "/tech-news/2025-11-22/the-hour-of-the-predator-exposing-this-era-that-fa/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bubble Trouble: AI rally shows cracks as investors question risks",
+      "description": "Recent stock market swings reveal potential cracks in the artificial intelligence rally. High valuations in AI stocks are causing concern about a speculative bubble. Investors are watching for signs of a pullback. Comparisons are being made to past market man…",
+      "slug": "bubble-trouble-ai-rally-shows-cracks-as-investors-",
+      "publishedAt": "2025-11-22T03:54:54+00:00",
+      "date": "2025-11-22 03:54:54",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125498899,width-1200,height-630,imgsize-120674,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/bubble-trouble-ai-rally-shows-cracks-as-investors/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jitters over AI spending set to grow as US tech giants flood bond market",
+      "description": "Big tech firms are borrowing heavily to fund AI data centers. This surge in debt issuance is raising concerns about the bond market's capacity. While companies remain lightly leveraged now, the need for capital is shifting from cash to public bonds. Projectio…",
+      "slug": "jitters-over-ai-spending-set-to-grow-as-us-tech-gi",
+      "publishedAt": "2025-11-22T03:50:34+00:00",
+      "date": "2025-11-22 03:50:34",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125498858,width-1200,height-630,imgsize-24174,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/jitters-over-ai-spending-set-to-grow-as-us-tech-gi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "PM Modi Meets Naspers Chairman, CEO In Johannesburg; Discusses Expanding India's Digital Ecosystem",
+      "description": "Prime Minister Narendra Modi on Friday held a meeting with Naspers chairman and CEO on the sidelines of the G20 Leaders’ Summit and discussed expanding investments in India’s digital ecosystem.",
+      "slug": "pm-modi-meets-naspers-chairman-ceo-in-johannesburg",
+      "publishedAt": "2025-11-22T03:18:22+00:00",
+      "date": "2025-11-22 03:18:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-10-14%2F347henz4%2Fnarendra-modi-bjp.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-11-22/pm-modi-meets-naspers-chairman-ceo-in-johannesburg/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The PGA Tour's newest winner is a certified gear degenerate | Tour Report",
+      "description": "In this week's Tour Report, take a dive into to Adam Schenk's gear world, plus the latest on new drivers and more from the RSM Classic.",
+      "slug": "the-pga-tours-newest-winner-is-a-certified-gear-de",
+      "publishedAt": "2025-11-22T02:59:21+00:00",
+      "date": "2025-11-22 02:59:21",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j.EET667D5YzqiT2y6b0Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/golf_articles_613/71119b134529d5fe37c370c193c2300b",
+      "url": "/tech-news/2025-11-22/the-pga-tours-newest-winner-is-a-certified-gear-de/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Golf.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Musk’s last grift",
+      "description": "The US is one big grift these days: the Trump Administration, traditional and social media, corporations, crypto, financial markets are all selling some kind of spurious promise. It’s hard to pick the most egregious example. But for me, it’s hard to go past T…",
+      "slug": "musks-last-grift",
+      "publishedAt": "2025-11-22T02:58:35+00:00",
+      "date": "2025-11-22 02:58:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-22/musks-last-grift/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crookedtimber.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Government Secrecy Prevails Over Gold Transparency",
+      "description": "A Credible Audit of U.S. Bullion Holdings Remains Elusive When it comes to U.S. gold reserves, secrecy prevails over transparency. Attempts to authorize a comprehensive, independent audit of the nation’s gold reserves have proven elusive and futile for decade…",
+      "slug": "government-secrecy-prevails-over-gold-transparency",
+      "publishedAt": "2025-11-22T02:46:01+00:00",
+      "date": "2025-11-22 02:46:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-22/government-secrecy-prevails-over-gold-transparency/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Solaris Is Winning the Wrong Race in Europe’s Zero-Emission Bus Market",
+      "description": "Solaris is the largest supplier of hydrogen buses in Europe, but it holds that position inside a segment that is steadily losing momentum. Europe registered only a few hundred hydrogen buses in 2024, while battery electric buses reached almost 8,000 units. Ch…",
+      "slug": "solaris-is-winning-the-wrong-race-in-europes-zero-",
+      "publishedAt": "2025-11-22T02:42:16+00:00",
+      "date": "2025-11-22 02:42:16",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-21-2025-04_42_34-PM-800x445.png",
+      "url": "/tech-news/2025-11-22/solaris-is-winning-the-wrong-race-in-europes-zero/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Who are Netra Mandena and Vamsi Gadiraju? Inside the star-studded Udaipur wedding attended by Jennifer Lopez, Trump Jr and Justin Bieber",
+      "description": "Netra Mandena, daughter of US-based billionaire Rama Raju Mantena, is marrying tech co-founder Vamsi Gadiraju in a lavish Udaipur wedding. The high-profile star-studded wedding will be attended by Jennifer Lopez, Trump Jr and Justin Bieber and has taken the s…",
+      "slug": "who-are-netra-mandena-and-vamsi-gadiraju-inside-th",
+      "publishedAt": "2025-11-22T02:41:18+00:00",
+      "date": "2025-11-22 02:41:18",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125498238,width-1200,height-630,imgsize-1309877,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/who-are-netra-mandena-and-vamsi-gadiraju-inside-th/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Wall Street indexes jump as rate cut bets increase but suffer losses for week",
+      "description": "Indian markets surged Friday as traders anticipated a Federal Reserve interest rate cut next month, boosting sentiment. Despite weekly losses amid tech valuation worries, Nvidia saw a jump on potential China sales. Fed officials offered mixed signals on rate …",
+      "slug": "wall-street-indexes-jump-as-rate-cut-bets-increase",
+      "publishedAt": "2025-11-22T02:26:35+00:00",
+      "date": "2025-11-22 02:26:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125498128,width-1200,height-630,imgsize-245814,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/wall-street-indexes-jump-as-rate-cut-bets-increase/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The best products we tested in 2025: ZDNET's picks for phones, laptops, TVs, and more",
+      "description": "After a year of testing the best hardware and software products that brands have to offer, here's our list of 2025 winners.",
+      "slug": "the-best-products-we-tested-in-2025-zdnets-picks-f",
+      "publishedAt": "2025-11-22T02:23:00+00:00",
+      "date": "2025-11-22 02:23:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4de3fd313ab74002483c4874f392b6ce737e31b0/2025/11/22/f0aeaae4-0fc0-4abe-b631-aa16fc23e337/zdnet-best-of-2025-bright.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-22/the-best-products-we-tested-in-2025-zdnets-picks-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Valuation jitters in AI stocks drag Indian indices; volatility index spikes",
+      "description": "Indian stock markets saw a dip on Friday, following global trends. Concerns over technology stock valuations and potential US interest rate hikes impacted investor sentiment. Despite a cautious mood, analysts suggest the Nifty may soon reach new highs. Foreig…",
+      "slug": "valuation-jitters-in-ai-stocks-drag-indian-indices",
+      "publishedAt": "2025-11-22T01:58:47+00:00",
+      "date": "2025-11-22 01:58:47",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125497871,width-1200,height-630,imgsize-380200,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-22/valuation-jitters-in-ai-stocks-drag-indian-indices/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proposed peace plan for Ukraine leaves country in a delicate position between US and Russia",
+      "description": "An American proposal to end the war in Ukraine puts the country in a delicate diplomatic position — caught between placating its most important ally, the United States, and not capitulating to Russia, its much larger neighbor that launched a full-scale invasi…",
+      "slug": "proposed-peace-plan-for-ukraine-leaves-country-in-",
+      "publishedAt": "2025-11-22T01:45:45+00:00",
+      "date": "2025-11-22 01:45:45",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-22/proposed-peace-plan-for-ukraine-leaves-country-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Japan Today"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Being rude to AI? Your anger at chatbots comes with a hidden cost for everyone",
+      "description": "Here’s why you should think twice before you chat aggressively with an AI assistant.",
+      "slug": "being-rude-to-ai-your-anger-at-chatbots-comes-with",
+      "publishedAt": "2025-11-22T01:30:15+00:00",
+      "date": "2025-11-22 01:30:15",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/21/1600x900/logo/pexels-photo-3777572_1763704351915_1763704368962.jpeg",
+      "url": "/tech-news/2025-11-22/being-rude-to-ai-your-anger-at-chatbots-comes-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tesla FSD 14.2 is Great and FSD 14.3 Will Complete Readiness for Unsupervised Robotaxi",
+      "description": "TESLA FSD v14.2 is the smoothest, least hesitant, most confident version yet — a meaningful step toward unsupervised. It handles emergency vehicles well, hand gestures, it is smooth and does not have braking problems. It is judged good enough for unsupervised…",
+      "slug": "tesla-fsd-142-is-great-and-fsd-143-will-complete-r",
+      "publishedAt": "2025-11-22T01:21:50+00:00",
+      "date": "2025-11-22 01:21:50",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-21-at-5.04.35-PM.jpg",
+      "url": "/tech-news/2025-11-22/tesla-fsd-142-is-great-and-fsd-143-will-complete-r/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sweden offers Canada a chance to revive its near-dead defence aerospace industry",
+      "description": "Building Saab’s Gripen fighter jet and GlobalEye surveillance plane in Canada would create thousands of jobs – and infuriate Trump",
+      "slug": "sweden-offers-canada-a-chance-to-revive-its-near-d",
+      "publishedAt": "2025-11-22T01:18:54+00:00",
+      "date": "2025-11-22 01:18:54",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/YJWTL6G4YBBXRGP6WMAC6NRMT4.JPG?auth=9d9f8b34f54f1c1185814bd5ef468d1109489389f204541b8f3f9e72a4a0d0ac&width=1200&height=800&quality=80&smart=true",
+      "url": "/tech-news/2025-11-22/sweden-offers-canada-a-chance-to-revive-its-near-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "From Steve Bannon to Elizabeth Warren, backlash erupts over push to block states from regulating AI",
       "description": "New efforts this week in Washington to effectively ban individual states from governing artificial intelligence have provoked bipartisan backlash.",
@@ -412,6 +700,24 @@
         "emoji": "📰",
         "id": null,
         "name": "WWD"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq bounce but end turbulent week with sharp losses",
+      "description": "Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-bounce-but-en",
+      "publishedAt": "2025-11-21T21:05:32+00:00",
+      "date": "2025-11-21 21:05:32",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Zk7Zl0452fPWsD39P9OVlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/627bb6b0-a92e-11f0-9ddf-780113b6af78",
+      "url": "/tech-news/2025-11-21/stock-market-today-dow-sp-500-nasdaq-bounce-but-en/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
@@ -957,24 +1263,6 @@
       "people": []
     },
     {
-      "title": "Future Garmin Fenix smartwatches tipped to launch combining Solar charging and AMOLED displays",
-      "description": "To date, Garmin Fenix smartwatches can offer solar charging or AMOLED displays. A new patent filing has led sources to speculate that Garmin will soon be capable of combining both technologies into one future Fenix smartwatch, though.",
-      "slug": "future-garmin-fenix-smartwatches-tipped-to-launch-",
-      "publishedAt": "2025-11-21T18:09:00+00:00",
-      "date": "2025-11-21 18:09:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/garmin-patent-solar-amoled-kv.jpg",
-      "url": "/tech-news/2025-11-21/future-garmin-fenix-smartwatches-tipped-to-launch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Real Funds Mobile Casinos 2025",
       "description": "The 10 Greatest Casino Apps That Pay Real Cash In The Us 2025 Content Mobile Casino Apps Versus Playing On Your Computer How Do I Actually Download Casino Apps? ... Read More →\nThe post Real Funds Mobile Casinos 2025 appeared first on Line25.com.\nReal Funds M…",
       "slug": "real-funds-mobile-casinos-2025",
@@ -1425,24 +1713,6 @@
       "people": []
     },
     {
-      "title": "Gift Packaging Market Size, Segments Data, Value Chain & Trade Analysis 2025-2034",
-      "description": "According to industry findings by Towards Packaging, the global gift packaging market will expand at a CAGR of 4.79% from 2025 to 2034, rising from USD 29.01 billion in 2025 to USD 44.20 billion by 2034. According to industry findings by Towards Packaging, th…",
-      "slug": "gift-packaging-market-size-segments-data-value-cha",
-      "publishedAt": "2025-11-21T16:00:00+00:00",
-      "date": "2025-11-21 16:00:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "url": "/tech-news/2025-11-21/gift-packaging-market-size-segments-data-value-cha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The 12 best social media planners for your brand",
       "description": "It’s a Monday morning, and your team is ready to post. But half the ideas live in a doc, images sit in a drive Read more...\nThe post The 12 best social media planners for your brand appeared first on Sprout Social.",
       "slug": "the-12-best-social-media-planners-for-your-brand",
@@ -1461,42 +1731,6 @@
       "people": []
     },
     {
-      "title": "Getting Business Value from AI: Map the Solution to the Business (Alastair Gill)",
-      "description": "In this series of articles, we are looking at ways to try and ensure that AI projects result in busi...",
-      "slug": "getting-business-value-from-ai-map-the-solution-to",
-      "publishedAt": "2025-11-21T15:52:24+00:00",
-      "date": "2025-11-21 15:52:24",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.finextra.com/finextra-images/member_photos/thumb_160730_alastair_gill_1.jpg",
-      "url": "/tech-news/2025-11-21/getting-business-value-from-ai-map-the-solution-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Finextra"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini can now tell you whether that image is real or AI-generated",
-      "description": "But there's a catch",
-      "slug": "gemini-can-now-tell-you-whether-that-image-is-real",
-      "publishedAt": "2025-11-21T15:51:09+00:00",
-      "date": "2025-11-21 15:51:09",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/gemini-ai-image-detection.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-21/gemini-can-now-tell-you-whether-that-image-is-real/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Indonesia, Australia to boost global governance before G20 Summit",
       "description": "Indonesia and Australia have agreed to strengthen rules-based global governance and support an open multilateral trading system to secure global supply ...",
       "slug": "indonesia-australia-to-boost-global-governance-bef",
@@ -1510,24 +1744,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Antaranews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini 3 Launch Reinforces Alphabet (GOOGL)’s AI Edge, Says KeyBanc",
-      "description": "Alphabet Inc. (NASDAQ:GOOGL) is one of the AI Stocks Making Moves on Wall Street. On November 19, KeyBanc maintained its Overweight rating on the stock with ...",
-      "slug": "gemini-3-launch-reinforces-alphabet-googls-ai-edge",
-      "publishedAt": "2025-11-21T15:44:12+00:00",
-      "date": "2025-11-21 15:44:12",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DAytqpJ37WPkT1O3cj4krg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ddded06c9301164bc21c334085fab02f",
-      "url": "/tech-news/2025-11-21/gemini-3-launch-reinforces-alphabet-googls-ai-edge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
@@ -1659,24 +1875,6 @@
       "people": []
     },
     {
-      "title": "From Reach to ROI, Proof Is Now TV?s Most Valuable Metric",
-      "description": "Television has always been the most powerful storytelling medium, but for decades, it was also one of the hardest to measure. Brands knew TV drove awareness, yet they struggled to prove its impact on actual sales. As streaming reshapes how audiences watch vid…",
-      "slug": "from-reach-to-roi-proof-is-now-tvs-most-valuable-m",
-      "publishedAt": "2025-11-21T15:20:52+00:00",
-      "date": "2025-11-21 15:20:52",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/135433-OTT-Quality-Control-1200-ORG.jpg",
-      "url": "/tech-news/2025-11-21/from-reach-to-roi-proof-is-now-tvs-most-valuable-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Streamingmedia.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Healthcare ETFs to Buy as Big Pharma Rapidly Integrates AI",
       "description": "LLY's expanding AI alliances highlight how pharma-tech partnerships are transforming healthcare and lifting key sector ETFs like XLV.",
       "slug": "healthcare-etfs-to-buy-as-big-pharma-rapidly-integ",
@@ -1744,24 +1942,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Git for Vibe Coders",
-      "description": "Simple Git, zero overwhelm, just enough to stop Claude from accidently deleting your code and database.",
-      "slug": "git-for-vibe-coders",
-      "publishedAt": "2025-11-21T15:00:59+00:00",
-      "date": "2025-11-21 15:00:59",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/awan_git_vibe_coders_1.png",
-      "url": "/tech-news/2025-11-21/git-for-vibe-coders/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kdnuggets.com"
       },
       "companies": [],
       "people": []
@@ -1888,24 +2068,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Www.ssp.sh"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini AI Is Coming to Millions of Cars to Be Your Chatty Road Trip Companion",
-      "description": "Please remember to keep your eyes on the road while you engage with the new Android Auto capabilities.",
-      "slug": "gemini-ai-is-coming-to-millions-of-cars-to-be-your",
-      "publishedAt": "2025-11-21T14:28:49+00:00",
-      "date": "2025-11-21 14:28:49",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/24abb28b9780f09260b812ba44dea1e4575b3eed/hub/2025/11/20/0145bc71-8445-40f2-a51a-ffeecdc76dfa/androidauto.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-21/gemini-ai-is-coming-to-millions-of-cars-to-be-your/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
       },
       "companies": [],
       "people": []
@@ -2145,42 +2307,6 @@
       "people": []
     },
     {
-      "title": "Geisinger Health, Nuance reach $5M settlement over data breach",
-      "description": "Geisinger Health and Microsoft-owned Nuance Communications reached a proposed $5 million settlement tied to a 2023 insider data breach.",
-      "slug": "geisinger-health-nuance-reach-5m-settlement-over-d",
-      "publishedAt": "2025-11-21T11:42:00+00:00",
-      "date": "2025-11-21 11:42:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health security_g1674494233.jpg",
-      "url": "/tech-news/2025-11-21/geisinger-health-nuance-reach-5m-settlement-over-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jitters over AI spending set to grow as US tech giants flood bond market ​",
-      "description": "Big tech firms are turning aggressively to the debt markets in their race to build AI-ready data centers, a shift for Silicon Valley firms that typically relied on cash to fund their investments.",
-      "slug": "jitters-over-ai-spending-set-to-grow-as-us-tech-gi",
-      "publishedAt": "2025-11-21T11:37:03+00:00",
-      "date": "2025-11-21 11:37:03",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53962,resizemode-75,msid-125485452/tech/artificial-intelligence/jitters-over-ai-spending-set-to-grow-as-us-tech-giants-flood-bond-market-.jpg",
-      "url": "/tech-news/2025-11-21/jitters-over-ai-spending-set-to-grow-as-us-tech-gi/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Ministry asks Apple Academy to support local MSMEs marketing",
       "description": "Deputy Minister of Trade Dyah Roro Esti Widya Putri asked the Apple Developer Academy Bali to collaborate in optimizing the country&#39;s micro, small, and ...",
       "slug": "ministry-asks-apple-academy-to-support-local-msmes",
@@ -2325,24 +2451,6 @@
       "people": []
     },
     {
-      "title": "Gemini 3 Pro Inside Nano Banana Pro Makes Text in Images Easy",
-      "description": "What if the future of creativity wasn’t just about human imagination but a seamless partnership between human vision and AI precision? Enter the Nano Banana Pro, a new innovation powered by the Gemini 3 Pro model, that’s turning the world of image generation …",
-      "slug": "gemini-3-pro-inside-nano-banana-pro-makes-text-in-",
-      "publishedAt": "2025-11-21T11:13:48+00:00",
-      "date": "2025-11-21 11:13:48",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/nano-banana-pro-ai-image-generation-4k_optimized.jpg",
-      "url": "/tech-news/2025-11-21/gemini-3-pro-inside-nano-banana-pro-makes-text-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Best New Watches Unveiled at Dubai Watch Week",
       "description": "More than 20 unforgettable timepieces made their debut at the 10th anniversary of Dubai Watch Week, emphasizing the importance of this fair.\nThe post The Best New Watches Unveiled at Dubai Watch Week appeared first on Haute Time.",
       "slug": "the-best-new-watches-unveiled-at-dubai-watch-week",
@@ -2428,24 +2536,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The New Republic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "From Shark Tank reject to AI powerhouse: Ring founder Jamie Siminoff is reinventing home security",
-      "description": "\"This isn't just technology for technology's sake,\" Siminoff told NYNext.",
-      "slug": "from-shark-tank-reject-to-ai-powerhouse-ring-found",
-      "publishedAt": "2025-11-21T11:00:00+00:00",
-      "date": "2025-11-21 11:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/jamie-siminoff-founder-ring-author-115251963.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2025-11-21/from-shark-tank-reject-to-ai-powerhouse-ring-found/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
       },
       "companies": [],
       "people": []
@@ -2680,24 +2770,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Foxconn-Nvidia to build local AI compute center for SMEs",
-      "description": "Foxconn, through its subsidiary Fortunebay Technology, plans to launch a 27-megawatt AI data center in the second half of 2026, deploying Nvidia GB300 AI servers to establish artificial intelligence as the company's second major growth trajectory, according t…",
-      "slug": "foxconn-nvidia-to-build-local-ai-compute-center-fo",
-      "publishedAt": "2025-11-21T04:12:48+00:00",
-      "date": "2025-11-21 04:12:48",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251121pd239_files/1_b.jpg",
-      "url": "/tech-news/2025-11-21/foxconn-nvidia-to-build-local-ai-compute-center-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
       },
       "companies": [],
       "people": []
@@ -3081,24 +3153,6 @@
       "people": []
     },
     {
-      "title": "Global Security Leader Arun Kumar Elengovan Delivers Influential Keynote on Secrets Management at SCIS 2025",
-      "description": "International Business Times presents this report as part of its continuing coverage of global technology leadership and emerging directions in sustainable computing, intelligent systems and cybersecurity.",
-      "slug": "global-security-leader-arun-kumar-elengovan-delive",
-      "publishedAt": "2025-11-21T01:48:07+00:00",
-      "date": "2025-11-21 01:48:07",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d.ibtimes.com/en/full/4634673/arun-kumar-elengovan.jpg",
-      "url": "/tech-news/2025-11-21/global-security-leader-arun-kumar-elengovan-delive/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "[Podcast] Make Your Brand Famous with Dan Cushing and Diego Borgo",
       "description": "Jacob and Matt sit down with Thumbcorp’s co-founders Dan Cushing and Diego Borgo to unpack what brand fame really looks like in the worlds of blockchain, Web3 and frontier technology.",
       "slug": "podcast-make-your-brand-famous-with-dan-cushing-an",
@@ -3148,24 +3202,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Foxconn to spend up to $3 billion a year on AI, chair sees China EV shakeout",
-      "description": "Foxconn plans to invest up to three billion dollars each year in artificial intelligence. The world's largest electronics maker anticipates a significant consolidation in China's electric vehicle sector soon. Foxconn is also in discussions with the Japanese g…",
-      "slug": "foxconn-to-spend-up-to-3-billion-a-year-on-ai-chai",
-      "publishedAt": "2025-11-21T01:41:52+00:00",
-      "date": "2025-11-21 01:41:52",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125475127,width-1200,height-630,imgsize-87754,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-21/foxconn-to-spend-up-to-3-billion-a-year-on-ai-chai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
       },
       "companies": [],
       "people": []
@@ -3333,24 +3369,6 @@
       "people": []
     },
     {
-      "title": "Genspark raises $275M in funding for its AI productivity suite",
-      "description": "Genspark, a startup with a suite of artificial intelligence automation tools for knowledge workers, today announced that it has raised $275 million in funding. The Series C round gives the company a post-money valuation of $1.25 billion. It was led by early S…",
-      "slug": "genspark-raises-275m-in-funding-for-its-ai-product",
-      "publishedAt": "2025-11-21T00:41:58+00:00",
-      "date": "2025-11-21 00:41:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/unsplash2.png",
-      "url": "/tech-news/2025-11-21/genspark-raises-275m-in-funding-for-its-ai-product/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Trai faces tough call before spectrum auction amid operators' rift over usage, costs, new frequencies",
       "description": "Trai faces challenges regarding the upcoming spectrum auction, with Big Tech and telecom companies in disagreement over the use and pricing of radio spectrum. Key issues include when to auction the 6 GHz band, price reductions, and spectrum caps.",
       "slug": "trai-faces-tough-call-before-spectrum-auction-amid",
@@ -3364,24 +3382,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Free AI isn’t innovation, it’s unchecked exposure",
-      "description": "By launching free AI in India, OpenAI, Google, and Perplexity are using the country as a stress test for modern AI systems",
-      "slug": "free-ai-isnt-innovation-its-unchecked-exposure",
-      "publishedAt": "2025-11-21T00:30:00+00:00",
-      "date": "2025-11-21 00:30:00",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/39hglo/article70304383.ece/alternates/LANDSCAPE_1200/BL21_Think_AI_brain.jpg",
-      "url": "/tech-news/2025-11-21/free-ai-isnt-innovation-its-unchecked-exposure/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
       },
       "companies": [],
       "people": []
