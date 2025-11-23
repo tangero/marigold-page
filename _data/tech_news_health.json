@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-23T08:18:21.466507+00:00",
+  "timestamp": "2025-11-23T12:22:38.529527+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.31,
+      "newest_age_hours": 24.38,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 369.0,
-      "median_length": 382.0
+      "avg_length": 355.0,
+      "median_length": 372.0
     },
     "generation_trend": {
       "status": "OK",
@@ -33,6 +33,12 @@
       },
       "sample_invalid_articles": [
         {
+          "file": "2025-11-22-why-cant-people-shake-their-ai-worries.md",
+          "errors": [
+            "chybí description"
+          ]
+        },
+        {
           "file": "2025-11-22-investors-are-acting-like-the-openai-bubble-is-pop.md",
           "errors": [
             "chybí description"
@@ -43,34 +49,28 @@
           "errors": [
             "chybí description"
           ]
-        },
-        {
-          "file": "2025-11-21-a-us-judge-is-expected-to-rule-next-year-on-breaki.md",
-          "errors": [
-            "chybí description"
-          ]
         }
       ]
     }
   },
   "metrics": {
-    "total_articles": 4794,
+    "total_articles": 4827,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.31,
+    "newest_article_age_hours": 24.38,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 369.0,
-    "median_content_length": 382.0,
-    "articles_with_images_pct": 92.0,
+    "avg_content_length": 355.0,
+    "median_content_length": 372.0,
+    "articles_with_images_pct": 91.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.03
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.3h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.4h (threshold: 6h)"
     },
     {
       "level": "WARNING",
