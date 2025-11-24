@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-24T12:26:56.637592+00:00",
+  "timestamp": "2025-11-24T16:17:14.808219+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.27,
+      "newest_age_hours": 24.04,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 364.0,
-      "median_length": 383.0
+      "avg_length": 358.0,
+      "median_length": 380.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,12 +26,18 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.01,
-      "invalid_count": 1,
+      "error_rate": 0.02,
+      "invalid_count": 2,
       "most_common_missing_fields": {
-        "description": 1
+        "description": 2
       },
       "sample_invalid_articles": [
+        {
+          "file": "2025-11-23-what-openai-did-when-chatgpt-users-lost-touch-with.md",
+          "errors": [
+            "chybí description"
+          ]
+        },
         {
           "file": "2025-11-23-the-fate-of-googles-ad-tech-monopoly-is-now-in-a-j.md",
           "errors": [
@@ -42,23 +48,23 @@
     }
   },
   "metrics": {
-    "total_articles": 4989,
+    "total_articles": 5028,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.27,
+    "newest_article_age_hours": 24.04,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 364.0,
-    "median_content_length": 383.0,
-    "articles_with_images_pct": 94.0,
+    "avg_content_length": 358.0,
+    "median_content_length": 380.0,
+    "articles_with_images_pct": 97.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.01
+    "front_matter_error_rate": 0.02
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.3h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
     },
     {
       "level": "WARNING",
