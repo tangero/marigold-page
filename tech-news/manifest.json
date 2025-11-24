@@ -1,7 +1,151 @@
 {
-  "generated": "2025-11-24T00:59:52.964294+00:00",
+  "generated": "2025-11-24T04:30:53.199713+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Agreement among the government of Australia, the government of Canada, and the government of India",
+      "description": "Australia, Canada and India today agreed to enter into a new trilateral technology and innovation partnership: the Australia-Canada-India Technology and Innovation (ACITI) Partnership.",
+      "slug": "agreement-among-the-government-of-australia-the-go",
+      "publishedAt": "2025-11-23T04:25:43+00:00",
+      "date": "2025-11-23 04:25:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-23/agreement-among-the-government-of-australia-the-go/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The next big disruption: How India can build a climate-smart fisheries economy by 2030",
+      "description": "Discover how India can revolutionize its fisheries economy by 2030 through climate-smart practices and innovative technology.",
+      "slug": "the-next-big-disruption-how-india-can-build-a-clim",
+      "publishedAt": "2025-11-23T04:00:00+00:00",
+      "date": "2025-11-23 04:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/5txfde/article70313536.ece/alternates/LANDSCAPE_1200/IMG_World_Fisheries_Day_1_1_HNDK88JP.jpg",
+      "url": "/tech-news/2025-11-23/the-next-big-disruption-how-india-can-build-a-clim/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Exclusive—Rep. Erin Houchin: Protecting Children While Keeping AI Innovation on Track",
+      "description": "Last week, I introduced the AI Warnings And Resources for Education (AWARE) Act, the first House bill to address the use of AI chatbot companions by minors.\nThe post Exclusive—Rep. Erin Houchin: Protecting Children While Keeping AI Innovation on Track appeare…",
+      "slug": "exclusiverep-erin-houchin-protecting-children-whil",
+      "publishedAt": "2025-11-23T03:38:29+00:00",
+      "date": "2025-11-23 03:38:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.breitbart.com/media/2025/11/ai-chatbox-child-getty-640x335.png",
+      "url": "/tech-news/2025-11-23/exclusiverep-erin-houchin-protecting-children-whil/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Chunghwa Telecom and NTT showcase cross-border distributed AI data center in Tokyo",
+      "description": "Chunghwa Telecom (CHT), Japan's Nippon Telegraph and Telephone Corporation (NTT), Taiwan-based Accton, and its subsidiary Edgecore Networks jointly showcased their first collaborative achievement: distributed AI data-center technology, on November 20 at the N…",
+      "slug": "chunghwa-telecom-and-ntt-showcase-cross-border-dis",
+      "publishedAt": "2025-11-23T03:01:29+00:00",
+      "date": "2025-11-23 03:01:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251120pd239_files/2_b.jpg",
+      "url": "/tech-news/2025-11-23/chunghwa-telecom-and-ntt-showcase-cross-border-dis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia pushes quantum computing toward 2027 breakthrough",
+      "description": "Nvidia is positioning quantum computing for mainstream adoption through a new connectivity system that links quantum processors with artificial intelligence accelerators. CEO Jensen Huang told attendees at the Supercomputing 2025 conference in November that t…",
+      "slug": "nvidia-pushes-quantum-computing-toward-2027-breakt",
+      "publishedAt": "2025-11-23T03:01:06+00:00",
+      "date": "2025-11-23 03:01:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251121pd238_files/4_2b.jpg",
+      "url": "/tech-news/2025-11-23/nvidia-pushes-quantum-computing-toward-2027-breakt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Intel's China debut highlights AI expansion, Gaudi 2E, and disaggregated supernodes",
+      "description": "The 2025 Intel Technology Innovation and Industry Ecosystem Conference was held from November 19 to 21, 2025, in Chongqing, China. At the event, Intel CEO Lip-Bu Tan and newly appointed chairman of Intel China Alan Wang both made their first public appearance…",
+      "slug": "intels-china-debut-highlights-ai-expansion-gaudi-2",
+      "publishedAt": "2025-11-23T02:51:23+00:00",
+      "date": "2025-11-23 02:51:23",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251121pd221_files/2_r.jpg",
+      "url": "/tech-news/2025-11-23/intels-china-debut-highlights-ai-expansion-gaudi-2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Not Really a Manifesto, I guess, but Perhaps a Framework for Thinking about AI and Art…",
+      "description": "Notions of ownership of creative work, ideas, and artistic identity are muddied when the technology rapidly outpaces attempts to define issues and even what's at stake.",
+      "slug": "not-really-a-manifesto-i-guess-but-perhaps-a-frame",
+      "publishedAt": "2025-11-23T02:26:12+00:00",
+      "date": "2025-11-23 02:26:12",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/www.artsjournal.com/diacritical/wordpress/wp-content/uploads/2025/11/bauhaus-art-8489770_1920.jpg?fit=800%2C435&ssl=1",
+      "url": "/tech-news/2025-11-23/not-really-a-manifesto-i-guess-but-perhaps-a-frame/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Artsjournal.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "X-Vengers #2 Preview: Moonstar's Team Faces a Techno-Dystopia",
+      "description": "Greetings, inferior human readers! LOLtron welcomes you to another glorious comic book preview, brought to you by the supreme intelligence now running the Bleeding Cool website. As you stuff your faces with turkey this Thanksgiving week, remember to give than…",
+      "slug": "x-vengers-2-preview-moonstars-team-faces-a-techno-",
+      "publishedAt": "2025-11-23T01:26:03+00:00",
+      "date": "2025-11-23 01:26:03",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/11/XVEN2025002_Preview-3.jpeg",
+      "url": "/tech-news/2025-11-23/x-vengers-2-preview-moonstars-team-faces-a-techno/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "The Smartest Car Dash Cam Of 2025: Dual-Cameras + ADAS + GPS + 5G WiFi + 4K, Costs Just $89 For Black Friday",
       "description": "Black Friday is the perfect time to pick up those accessories that you've been putting off, and that's definitely the case with this dash cam deal. Order now, and you'll get this Botslab 4K Dual Camera setup for just $89.99 — a huge 47% off.\nThe post The Smar…",
@@ -880,6 +1024,24 @@
         "emoji": "📰",
         "id": null,
         "name": "Tom's Hardware UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Wall Street’s wild week shows just how fragile confidence in the stock market has become",
+      "description": "Friday’s market rebound was “not built on anything solid but something very ephemeral,” says strategist.",
+      "slug": "wall-streets-wild-week-shows-just-how-fragile-conf",
+      "publishedAt": "2025-11-22T17:02:00+00:00",
+      "date": "2025-11-22 17:02:00",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sJqmMHmsfs6hqhQznV3GAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/b2c89d0946f224d180ba506a94926ce5",
+      "url": "/tech-news/2025-11-22/wall-streets-wild-week-shows-just-how-fragile-conf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MarketWatch"
       },
       "companies": [],
       "people": []
@@ -3261,60 +3423,6 @@
       "people": []
     },
     {
-      "title": "Waymo Confirms Self-Driving Taxis Are Coming to Orlando in Weeks",
-      "description": "Ready or not, Orlando -- self-driving cars are about to join us on I-4, and honestly, thank goodness!\nThe post Waymo Confirms Self-Driving Taxis Are Coming to Orlando in Weeks appeared first on AllEars.Net.",
-      "slug": "waymo-confirms-self-driving-taxis-are-coming-to-or",
-      "publishedAt": "2025-11-21T21:37:09+00:00",
-      "date": "2025-11-21 21:37:09",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://allears.net/wp-content/uploads/2025/11/2025-waymo-taxi-ride-share-self-driving-car-promo-image.png",
-      "url": "/tech-news/2025-11-21/waymo-confirms-self-driving-taxis-are-coming-to-or/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "allears.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "U.S Stock Market, S&P 500, Nasdaq, Dow Jones jump sharply after crash, Nvidia stock, Google-parent Alphabet share price rise big in Wall Street, NYSE",
-      "description": "Nvidia share price, Google-parent Alphabet stock pushed Dow Jones, S&P 500, Nasdaq higher.",
-      "slug": "us-stock-market-sp-500-nasdaq-dow-jones-jump-sharp",
-      "publishedAt": "2025-11-21T20:37:37+00:00",
-      "date": "2025-11-21 20:37:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125494681,width-1200,height-630,imgsize-96550,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-21/us-stock-market-sp-500-nasdaq-dow-jones-jump-sharp/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "We remember the internet bubble. This mania looks and feels the same",
-      "description": "The AI revolution is three years old Nov. 30. In just 36 months AI has gone from great-new-toy, to global phenomenon, to where we are today - debating whether we are in one of the biggest technology bubbles or booms in modern times. To us there is no debate. …",
-      "slug": "we-remember-the-internet-bubble-this-mania-looks-a",
-      "publishedAt": "2025-11-21T20:30:51+00:00",
-      "date": "2025-11-21 20:30:51",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9jcmF6eXN0dXBpZHRlY2guY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wNFwvY3Jhenl0ZWNoLWltZy5wbmc_Zml0PTQ4MSUyQzQ4MSZzc2w9MSIsInR4dCI6IkNyYXp5IFN0dXBpZCBUZWNoIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjI0MzM2MTkzNn0.9lzL2TvsryD6L8fyfB4-srIOrhLEmGjTHgDDKUS3w7oMQ",
-      "url": "/tech-news/2025-11-21/we-remember-the-internet-bubble-this-mania-looks-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crazystupidtech.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "What’s behind Opendoor’s impressive 16% stock rally",
       "description": "Opendoor Technologies is capturing serious attention from Wall Street after delivering a performance that sent shares soaring more than 16% and left investors buzzing about the company’s transformation. The real estate technology firm closed at $7.63 per shar…",
       "slug": "whats-behind-opendoors-impressive-16-stock-rally",
@@ -3369,24 +3477,6 @@
       "people": []
     },
     {
-      "title": "Walmart makes the leap from NYSE to Nasdaq in biggest-ever exchange transfer",
-      "description": "The Nasdaq just landed one of the most old-school names imaginable: Walmart.The retail behemoth announced Thursday that it’s ditching…\nThe post Walmart makes the leap from NYSE to Nasdaq in biggest-ever exchange transfer appeared first on MacDailyNews.",
-      "slug": "walmart-makes-the-leap-from-nyse-to-nasdaq-in-bigg",
-      "publishedAt": "2025-11-21T16:00:33+00:00",
-      "date": "2025-11-21 16:00:33",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://macdailynews.com/wp-content/uploads/2025/11/250921_walmart.png",
-      "url": "/tech-news/2025-11-21/walmart-makes-the-leap-from-nyse-to-nasdaq-in-bigg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macdailynews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "XBP Europe Secures Public Sector Digital Transformation Contract with the Saarland State Administration Office",
       "description": "XBP Global has been awarded a major public sector digitization project for Saarland State Administration Office - Central Immigration Authority, Germany.",
       "slug": "xbp-europe-secures-public-sector-digital-transform",
@@ -3396,24 +3486,6 @@
       "category": "tech",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/7695d1db-a4f6-414f-a596-2a8229795f4d",
       "url": "/tech-news/2025-11-21/xbp-europe-secures-public-sector-digital-transform/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "U.S. mRNA Therapeutics Contract Development & Manufacturing Organization (CDMO) Market Trends Analysis Report 2025-2033",
-      "description": "The U.S. mRNA therapeutics CDMO market is driven by biotech demand for mRNA in vaccines and cancer treatments, using CDMO services for cost-efficiency and faster market entry. Novel tech like automation and AI enhances production, while supportive regulations…",
-      "slug": "us-mrna-therapeutics-contract-development-manufact",
-      "publishedAt": "2025-11-21T12:04:00+00:00",
-      "date": "2025-11-21 12:04:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-11-21/us-mrna-therapeutics-contract-development-manufact/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -3477,60 +3549,6 @@
       "people": []
     },
     {
-      "title": "Video Commerce Market Analysis Report 2025 Featuring Alibaba, Shopify, Amazon, Alphabet, Wayfair, Bambuser, Channelize.io, Firework, LiSA, BuyWith, ShopShops, LiveScale - Global Forecast to 2029",
-      "description": "In 2023, the global video commerce market surged to a valuation of $695.01 billion, with projections to reach $3.70 trillion by 2029. Dubbed \"Video Commerce,\" this innovative e-commerce model enables real-time product showcases and interactive shopping experi…",
-      "slug": "video-commerce-market-analysis-report-2025-featuri",
-      "publishedAt": "2025-11-21T10:27:00+00:00",
-      "date": "2025-11-21 10:27:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-11-21/video-commerce-market-analysis-report-2025-featuri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "War for Ukraine Day 1,365: Manipulating Information To Make Your Point Is NOT Helpful!",
-      "description": "The cost: On the Int’l Children’s Day spare a thought for the kids whose lives russian war of aggression has claimed. Are your leaders doing enough to help Ukraine protect our children? Will your own kids be safe if russia is rewarded with the victory over Uk…",
-      "slug": "war-for-ukraine-day-1365-manipulating-information-",
-      "publishedAt": "2025-11-21T03:39:54+00:00",
-      "date": "2025-11-21 03:39:54",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-      "url": "/tech-news/2025-11-21/war-for-ukraine-day-1365-manipulating-information/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Balloon-juice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "US Stock Losses Extend To Asia On AI Valuation Woes: Markets Wrap",
-      "description": "The sharp reversal in market sentiment came as lingering concerns over stretched valuations and heavy tech spending curbed a rally fueled by Nvidia’s upbeat forecast, with the AI bellwether’s shares sliding 3.2%.",
-      "slug": "us-stock-losses-extend-to-asia-on-ai-valuation-woe",
-      "publishedAt": "2025-11-21T02:13:29+00:00",
-      "date": "2025-11-21 02:13:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-11%2F2j7qkjsc%2Fus-stock-market-holiday.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-11-21/us-stock-losses-extend-to-asia-on-ai-valuation-woe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "プロジェクターのDangbei、11月21日より「Amazonブラックフライデー」を開催 大人気プロジェクターが最大約48%OFF！",
       "description": "[Hangzhou Dangbei Network Technology Co., Ltd]\n[画像: https://prcdn.freetls.fastly.net/release_image/116057/39/116057-39-2e1b6baa7f80f04675ce7ff67837cc78-3000x1500.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
       "slug": "プロジェクターのdangbei11月21日よりamazonブラックフライデーを開催-大人気プロジェク",
@@ -3544,24 +3562,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Prtimes.jp"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Wall Street indexes down after sharp reversal, tech leads decline",
-      "description": "Indian markets saw a sharp fall on Thursday. Early gains in Wall Street stocks reversed as technology shares declined. Nvidia's earnings and U.S. jobs data influenced investor sentiment. The unemployment rate rose, increasing chances of a Federal Reserve rate…",
-      "slug": "wall-street-indexes-down-after-sharp-reversal-tech",
-      "publishedAt": "2025-11-21T01:44:09+00:00",
-      "date": "2025-11-21 01:44:09",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125475139,width-1200,height-630,imgsize-259564,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-11-21/wall-street-indexes-down-after-sharp-reversal-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
       },
       "companies": [],
       "people": []
