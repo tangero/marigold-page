@@ -1,33 +1,588 @@
 {
-  "generated": "2025-11-24T16:17:14.706048+00:00",
+  "generated": "2025-11-24T21:05:00.686788+00:00",
   "count": 200,
   "articles": [
     {
-      "title": " We've found the most bizarre offside of the year ",
-      "description": "It's not even a matter of millimeters anymore.Since the introduction of VAR and semi-automatic offside, many goals have been disallowed for just a few centimeters, sometimes resulting in completely ab...",
-      "slug": "weve-found-the-most-bizarre-offside-of-the-year",
-      "publishedAt": "2025-11-23T16:15:00+00:00",
-      "date": "2025-11-23 16:15:00",
+      "title": "Na trhu elektromobilů se rýsuje cenová válka",
+      "description": "Globální trh s elektromobily čelí rostoucí nejistotě kvůli změnám v politice, konci éry leasingu a přesycení trhu, což může vést k rozsáhlé cenové válce mezi výrobci.",
+      "slug": "a-price-war-is-looming-for-electric-vehicles",
+      "publishedAt": "2025-11-23T20:00:00+00:00",
+      "date": "2025-11-23 20:00:00",
       "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DsobO6IZOuX4mlJBR6i3tQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzM7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/0e41d41ed0547fd1f8c0a758a739db69",
-      "url": "/tech-news/2025-11-23/weve-found-the-most-bizarre-offside-of-the-year/",
+      "category": "elektromobilita",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-20_yhmlwwid6q.jpg",
+      "url": "/tech-news/2025-11-23/a-price-war-is-looming-for-electric-vehicles/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Onefootball.com"
+        "name": "OilPrice.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Thiel, Karp, Ellison, Catz, Bezos a další v uniklých izraelských e-mailech",
+      "description": "Uniklá sbírka e-mailů odhaluje úzké vazby mezi technologickými miliardáři, izraelskými politiky a zpravodajskými úředníky.",
+      "slug": "thiel-karp-ellison-catz-bezos-lessin-appear-in-new",
+      "publishedAt": "2025-11-23T19:57:33+00:00",
+      "date": "2025-11-23 19:57:33",
+      "importance": 3,
+      "category": "kybernetika",
+      "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_6dgtbrvs156lb8pkvm4fcaiu4b/-FWEBP",
+      "url": "/tech-news/2025-11-23/thiel-karp-ellison-catz-bezos-lessin-appear-in-new/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sfstandard.com"
+      },
+      "companies": [],
+      "people": [
+        "Peter Thiel",
+        "Reid Hoffman",
+        "Larry Ellison"
+      ]
+    },
+    {
+      "title": "Co dělá změnové agenty a lídry úspěšnými",
+      "description": "Článek popisuje, jak jednotlivci uvnitř organizací pohánějí digitální transformaci i bez formální autority, a proč jsou pro konkurenceschopnost firem klíčoví.",
+      "slug": "heres-what-makes-change-agents-and-leaders-success",
+      "publishedAt": "2025-11-23T19:35:51+00:00",
+      "date": "2025-11-23 19:35:51",
+      "importance": 3,
+      "category": "leadership",
+      "urlToImage": "https://briansolis.com/wp-content/uploads/2025/11/581178390_1385015472990853_5268113037099335588_n.jpg",
+      "url": "/tech-news/2025-11-23/heres-what-makes-change-agents-and-leaders-success/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Briansolis.com"
       },
       "companies": [],
       "people": []
     },
     {
-      "title": "Judicial Academy holds cybercrime training at Meghalaya High Court",
-      "description": "The Meghalaya State Judicial Academy, in partnership with the Indian Cyber Crime Coordination Centre (I4C), held a training programme on “Cybercrime & the Court: Law, Evidence & Practice” for Judicial Officers at the High Court of Meghalaya on Saturday. Justi…",
+      "title": "Nevěříte, jak moc se Start menu ve Windows změnilo za 40 let – včetně neúspěšného experimentu s Windows 8",
+      "description": "K 40. výročí Windows přehledně mapujeme vývoj Start menu od jeho zrodu ve Windows 95 až po současné Windows 11, včetně kontroverzního odbočení ve Windows 8.",
+      "slug": "you-wont-believe-how-much-the-windows-start-menu-h",
+      "publishedAt": "2025-11-23T19:14:09+00:00",
+      "date": "2025-11-23 19:14:09",
+      "importance": 3,
+      "category": "historie windows",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/a7fc6PRkCLf9CUnMTEVJxC-1280-80.jpg",
+      "url": "/tech-news/2025-11-23/you-wont-believe-how-much-the-windows-start-menu-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čtyři způsoby, jak AI posiluje demokracie po celém světě",
+      "description": "Nathan Sanders a Bruce Schneier upozorňují, že i přes rizika může umělá inteligence přispět k lepší, silnější a citlivější demokracii. Ve svém článku pro The Guardian popisují konkrétní příklady z Japonska, Brazílie, Německa a USA.",
+      "slug": "four-ways-ai-is-being-used-to-strengthen-democraci",
+      "publishedAt": "2025-11-23T19:02:30+00:00",
+      "date": "2025-11-23 19:02:30",
+      "importance": 3,
+      "category": "demokracie a ai",
+      "urlToImage": "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg",
+      "url": "/tech-news/2025-11-23/four-ways-ai-is-being-used-to-strengthen-democraci/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Harvard School of Engineering and Applied Sciences"
+      },
+      "companies": [],
+      "people": [
+        "Nathan Sanders",
+        "Bruce Schneier"
+      ]
+    },
+    {
+      "title": "Čínské drtivé postavení v oblasti vzácných zemin ohrožuje americkou vojenskou sílu",
+      "description": "Čína ovládá 85–95 % globálního zpracování vzácných zemin, což vytváří strategickou závislost USA a ohrožuje jejich obranný a technologický sektor.",
+      "slug": "chinas-chokehold-threatens-americas-military-might",
+      "publishedAt": "2025-11-23T19:02:01+00:00",
+      "date": "2025-11-23 19:02:01",
+      "importance": 3,
+      "category": "strategické suroviny",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-23/chinas-chokehold-threatens-americas-military-might/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Administrativa Donalda Trumpa zvažuje povolení prodeje čipů Nvidia H200 Číně",
+      "description": "Bývalá administrativa Donalda Trumpa údajně zvažuje zmírnění exportních omezení pro pokročilé AI čipy Nvidia H200 určené pro čínský trh, což by mohlo otevřít nové obchodní příležitosti, ale také vyvolat politický odpor.",
+      "slug": "trump-administration-ponders-allowing-nvidia-to-tr",
+      "publishedAt": "2025-11-23T18:51:44+00:00",
+      "date": "2025-11-23 18:51:44",
+      "importance": 3,
+      "category": "ai hardware",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/5d2d005b5cd443085ab91f2d5d3a0699",
+      "url": "/tech-news/2025-11-23/trump-administration-ponders-allowing-nvidia-to-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia Corp"
+      ],
+      "people": [
+        "Donald Trump",
+        "žádné"
+      ]
+    },
+    {
+      "title": "Google varuje před falešnými aplikacemi VPN",
+      "description": "Google upozorňuje uživatele Androidu na nebezpečné falešné aplikace VPN, které skrývají škodlivý software určený ke krádeži hesel, bankovních údajů a osobních dat z mobilů a tabletů.",
+      "slug": "google-issues-warning-on-fake-vpn-apps",
+      "publishedAt": "2025-11-23T18:39:39+00:00",
+      "date": "2025-11-23 18:39:39",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/fake-vpn-app-warning.jpg",
+      "url": "/tech-news/2025-11-23/google-issues-warning-on-fake-vpn-apps/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Premiér Modi vyzývá k lidsky orientovaným kritickým technologiím",
+      "description": "Indický premiér Narendra Modi na summitu G20 v Johannesburgu vyzval k přesunu kritických technologií směrem k lidskému prospěchu, globální spolupráci a open-source řešením. Zdůraznil úspěchy Indie v oblasti digitálních plateb, umělé inteligence a vesmírných technologií.",
+      "slug": "pm-modi-calls-for-human-centric-critical-tech",
+      "publishedAt": "2025-11-23T18:38:50+00:00",
+      "date": "2025-11-23 18:38:50",
+      "importance": 3,
+      "category": "technologická politi",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125524504,width-1200,height-630,imgsize-7510,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-23/pm-modi-calls-for-human-centric-critical-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Narendra Modi"
+      ]
+    },
+    {
+      "title": "DrupalCamp Scotland 2025: Konsolidace stovek webů na jediné Drupal 11 řešení",
+      "description": "Na letošním DrupalCampu ve Skotsku představili odborníci z University of Cambridge svůj ambiciózní plán na sjednocení přes 500 různorodých webů univerzity do jediné centralizované platformy postavené na Drupalu 11.",
+      "slug": "code-drupalcamp-scotland-2025",
+      "publishedAt": "2025-11-23T18:33:20+00:00",
+      "date": "2025-11-23 18:33:20",
+      "importance": 3,
+      "category": "drupal",
+      "urlToImage": "https://www.hashbangcode.com/sites/default/files/styles/header_image/public/header-image/drupalcamp_scotland_2025.png.webp?itok=2LvFfWKf",
+      "url": "/tech-news/2025-11-23/code-drupalcamp-scotland-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hashbangcode.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "První 360stupňový dron od DJI unikl znovu – oficiální uvedení může být hned za dveřmi",
+      "description": "Dron DJI Avata 360 získal schválení amerického regulátoru FCC, ale jeho uvedení na trh musí proběhnout před možným zákazem DJI zařízení v USA 23. prosince.",
+      "slug": "djis-first-360-degree-drone-leaks-again-and-an-off",
+      "publishedAt": "2025-11-23T18:30:00+00:00",
+      "date": "2025-11-23 18:30:00",
+      "importance": 3,
+      "category": "drony",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9wYWdxQWVDKRu5ik24M5VR-2560-80.jpg",
+      "url": "/tech-news/2025-11-23/djis-first-360-degree-drone-leaks-again-and-an-off/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "DJI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Senzace: Soudce používal AI ke čtení svých rozsudků",
+      "description": "Nově získané záznamy z Úřadu pro přezkum imigračních řízení (EOIR) odhalily, že soudce John P. Burns využívá umělou inteligenci k přehrávání svých rozhodnutí v imigračním soudu, což vyvolává obavy o transparentnost a automatizaci soudnictví.",
+      "slug": "scoop-judge-caught-using-ai-to-read-his-court-deci",
+      "publishedAt": "2025-11-23T18:24:42+00:00",
+      "date": "2025-11-23 18:24:42",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!aq9W!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04e23195-934a-44d4-9f0c-22320239f7d6_1024x681.jpeg",
+      "url": "/tech-news/2025-11-23/scoop-judge-caught-using-ai-to-read-his-court-deci/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Migrantinsider.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EaseUS Partition Master 19.23.0 Build 202510091552 + WinPE",
+      "description": "Aktualizovaná verze nástroje EaseUS Partition Master zjednodušuje správu diskových oddílů, umožňuje klonování systému, převod MBR na GPT pro Windows 11 a řešení problémů s nedostatkem místa na disku.",
+      "slug": "easeus-partition-master-19230-build-202510091552-w",
+      "publishedAt": "2025-11-23T18:20:28+00:00",
+      "date": "2025-11-23 18:20:28",
+      "importance": 3,
+      "category": "diskové nástroje",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-23/easeus-partition-master-19230-build-202510091552-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rlsbb.to"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "GE HealthCare odkoupí společnost Intelerad – posílení v oblasti medicínského zobrazování",
+      "description": "Společnost GE HealthCare oznámila akvizici Intelerad, odborníka na softwarová řešení pro medicínské zobrazování. Tento krok má posílit její pozici v rychle se digitalizujícím zdravotnictví.",
+      "slug": "monday-morning-update-112425",
+      "publishedAt": "2025-11-23T18:19:11+00:00",
+      "date": "2025-11-23 18:19:11",
+      "importance": 4,
+      "category": "zdravotnická technik",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-23/monday-morning-update-112425/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Histalk2.com"
+      },
+      "companies": [
+        "GE HealthCare",
+        "Intelerad"
+      ],
+      "people": []
+    },
+    {
+      "title": "Od outsourcingu ke strategickému offshore rozvoji výukových týmů: Poznatky pro lídry v oblasti vzdělávání a rozvoje",
+      "description": "Článek popisuje, jak lídři v oblasti vzdělávání a rozvoje (L&D) mohou přejít od tradičního outsourcingu k budování integrovaných offshore týmů, které jsou strategickým prodloužením interních kapacit.",
+      "slug": "from-outsourcing-to-strategic-offshore-development",
+      "publishedAt": "2025-11-23T18:00:13+00:00",
+      "date": "2025-11-23 18:00:13",
+      "importance": 3,
+      "category": "e-learning",
+      "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/11/Shutterstock_2433408573.jpg",
+      "url": "/tech-news/2025-11-23/from-outsourcing-to-strategic-offshore-development/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Elearningindustry.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Co se stane s prací, až budeme mít armády humanoidních robotů?",
+      "description": "Světově probíhá závod o vývoj humanoidních robotů schopných pohybu, komunikace, manipulace s předměty a samostatného rozhodování v lidském prostředí.",
+      "slug": "what-becomes-of-work-once-we-have-armies-of-humano",
+      "publishedAt": "2025-11-23T18:00:00+00:00",
+      "date": "2025-11-23 18:00:00",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/78f6f1e009ae35e6583812d8082ac0be?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2025-11-23/what-becomes-of-work-once-we-have-armies-of-humano/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "V době umělé inteligence mají učitelé větší roli než kdy dříve, říká Dr. Darakhshan",
+      "description": "Dr. Syed Darakhshan Andrabi, předsedkyně Waqf Boardu v Jammu a Kašmíru, zdůraznila na slavnostním zasedání Spring Buds School důležitost učitelů v éře umělé inteligence a potřebu připravit děti na budoucnost založenou na vědě a technologiích.",
+      "slug": "in-age-of-artificial-intelligence-teachers-have-bi",
+      "publishedAt": "2025-11-23T17:59:55+00:00",
+      "date": "2025-11-23 17:59:55",
+      "importance": 3,
+      "category": "vzdělávání",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/03/319526318_5727891263973556_9016205861254904172_n-1024x1024.jpg",
+      "url": "/tech-news/2025-11-23/in-age-of-artificial-intelligence-teachers-have-bi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Filipíny zahájily první aukci pro offshore větrné elektrárny na pevném podkladu",
+      "description": "Filipíny potvrdily spuštění první soutěžní aukce výhradně pro offshore větrnou energii na pevném podkladu, která má zajistit 3,3 GW výkonu do roku 2030.",
+      "slug": "first-fixed-bottom-offshore-wind-project-auctions-",
+      "publishedAt": "2025-11-23T17:46:50+00:00",
+      "date": "2025-11-23 17:46:50",
+      "importance": 3,
+      "category": "offshore větrná ener",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/11/FixedBottomOffshore.jpg",
+      "url": "/tech-news/2025-11-23/first-fixed-bottom-offshore-wind-project-auctions/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Diskriminace podle kasty ve Spojených státech: Průlomový průzkum aktivistky Thenmozhi Soundararajanové",
+      "description": "Průlomový průzkum ve Spojených státech odhalil rozsáhlou diskriminaci lidí z kasty Dalitů mimo Jižní Asii. Aktivistka Thenmozhi Soundararajanová iniciovala výzkum, který dokumentuje fyzické útoky, vzdělávací a pracovní diskriminaci.",
+      "slug": "caste-discrimination-in-us-dalit-activist-thenmozh",
+      "publishedAt": "2025-11-23T17:40:31+00:00",
+      "date": "2025-11-23 17:40:31",
+      "importance": 3,
+      "category": "diskriminace",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125523143,width-1070,height-580,imgsize-1849430,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-11-23/caste-discrimination-in-us-dalit-activist-thenmozh/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Thenmozhi Soundararajan"
+      ]
+    },
+    {
+      "title": "Je Micron nejpodceňovanějším hráčem v infrastruktuře umělé inteligence desetiletí?",
+      "description": "Micron Technology získává na významu díky svým řešením HBM pamětí a spolupráci s Nvidií. Nedostatek kapacity a nové generace pamětí HBM4 a SOCAMM2 podporují růst společnosti.",
+      "slug": "is-this-the-most-underrated-ai-infrastructure-play",
+      "publishedAt": "2025-11-23T17:36:36+00:00",
+      "date": "2025-11-23 17:36:36",
+      "importance": 3,
+      "category": "ai hardware",
+      "urlToImage": "https://biztoc.com/cdn/80925b49e6cbd68d_s.webp",
+      "url": "/tech-news/2025-11-23/is-this-the-most-underrated-ai-infrastructure-play/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Micron Technology",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mark Cuban: Děti se znalostmi AI budou nejlépe připraveny vést – učitelé souhlasí, ale obávají se úpadku kritického myšlení",
+      "description": "Miliardář Mark Cuban tvrdí, že studenti, kteří dnes ovládají umělou inteligenci, budou zítra vést pracovní trh. Mnozí pedagogové s ním souhlasí, ale varují před přílišnou závislostí na AI a možným oslabením kritického myšlení.",
+      "slug": "mark-cuban-says-ai-skilled-kids-will-be-best-equip",
+      "publishedAt": "2025-11-23T17:36:18+00:00",
+      "date": "2025-11-23 17:36:18",
+      "importance": 3,
+      "category": "vzdělávání ai",
+      "urlToImage": "https://biztoc.com/cdn/0fe89c58843cb16d_s.webp",
+      "url": "/tech-news/2025-11-23/mark-cuban-says-ai-skilled-kids-will-be-best-equip/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": [
+        "Mark Cuban"
+      ]
+    },
+    {
+      "title": "Absolvent IIM-A vytváří AI most pro uchazeče o práci z univerzit druhé a třetí kategorie",
+      "description": "Po dvaceti letech ve vedoucích globálních pozicích se Vishal Sood vrátil do Mohali, aby založil AI platformu PlaceCom, která má zrovnoprávnit přístup k pracovním příležitostem pro studenty mimo nejprestižnější indické vysoké školy.",
+      "slug": "iim-a-graduate-builds-ai-bridge-for-tier-2-and-tie",
+      "publishedAt": "2025-11-23T17:36:13+00:00",
+      "date": "2025-11-23 17:36:13",
+      "importance": 3,
+      "category": "ai startupy",
+      "urlToImage": "https://images.indianexpress.com/2025/11/couple.jpg",
+      "url": "/tech-news/2025-11-23/iim-a-graduate-builds-ai-bridge-for-tier-2-and-tie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": [
+        "Vishal Sood",
+        "Shivangi Vashisht"
+      ]
+    },
+    {
+      "title": "Modi a kanadský premiér Carney se dohodli na hlubší spolupráci v obraně a kosmonautice",
+      "description": "Indický premiér Narendra Modi a kanadský premiér Mark Carney se na okraji summitu G20 dohodli na rozšíření spolupráce v oblastech obrany, kosmonautiky, obchodu, investic, technologií a energetiky.",
+      "slug": "modi-canada-pm-agree-to-unlock-potential-for-deepe",
+      "publishedAt": "2025-11-23T17:10:16+00:00",
+      "date": "2025-11-23 17:10:16",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2F436oblvy%2FPTI09022025000043B.jpg?rect=0%2C0%2C4800%2C2520&w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-11-23/modi-canada-pm-agree-to-unlock-potential-for-deepe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": [
+        "Narendra Modi",
+        "Mark Carney"
+      ]
+    },
+    {
+      "title": "Evropský konsorcium spouští projekt iMUGS2 pro vývoj interoperabilních bezpilotních pozemních systémů",
+      "description": "Evropský konsorcium složený z předních obranných, výzkumných a technologických organizací zahájil projekt iMUGS2 s cílem vyvinout další generaci interoperabilních bezpilotních pozemních systémů pod záštitou Evropského obranného fondu.",
+      "slug": "european-consortium-launches-imugs2-to-advance-int",
+      "publishedAt": "2025-11-23T17:00:00+00:00",
+      "date": "2025-11-23 17:00:00",
+      "importance": 4,
+      "category": "bezpilotní systémy",
+      "urlToImage": "https://soldiersystems.net/wp-content/uploads/2025/11/image001.png",
+      "url": "/tech-news/2025-11-23/european-consortium-launches-imugs2-to-advance-int/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Soldiersystems.net"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Stanovení marketingových cílů pro úspěch ve vyhledávání řízeném umělou inteligencí",
+      "description": "Naučte se nastavovat marketingové cíle pomocí ověřeného postupu přizpůsobeného změnám ve vyhledávání ovlivněným umělou inteligencí a udržitelnému růstu podnikání.",
+      "slug": "setting-marketing-goals-for-ai-driven-search-succe",
+      "publishedAt": "2025-11-23T16:51:51+00:00",
+      "date": "2025-11-23 16:51:51",
+      "importance": 3,
+      "category": "digitální marketing",
+      "urlToImage": "https://peakdigitalpro.blog/wp-content/uploads/2025/11/image_1762992830175.jpg",
+      "url": "/tech-news/2025-11-23/setting-marketing-goals-for-ai-driven-search-succe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Peakdigitalpro.blog"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "FRAML: Hnací síly, regulační trendy a efektivní platforma",
+      "description": "FRAML (Fraud and Anti-Money Laundering) je integrovaný přístup, který spojuje prevenci podvodů a boj proti praní špinavých peněz do jednotné strategie proti finančním trestným činům.",
+      "slug": "framl-driving-forces-regulatory-trends-and-effecti",
+      "publishedAt": "2025-11-23T16:41:06+00:00",
+      "date": "2025-11-23 16:41:06",
+      "importance": 3,
+      "category": "finanční bezpečnost",
+      "urlToImage": "https://www.finextra.com/finextra-images/member_photos/thumb_159564_ken_wan.jpg",
+      "url": "/tech-news/2025-11-23/framl-driving-forces-regulatory-trends-and-effecti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finextra"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Premiéři Indie a Itálie posilují spolupráci v oblastech obchodu, obrany a umělé inteligence",
+      "description": "Na okraji summitu G20 v Johannesburgu se setkali indický premiér Narendra Modi a italská premiérka Giorgia Meloni. Diskutovali o rozšíření strategického partnerství mezi oběma zeměmi, zejména v oblastech obchodu, bezpečnosti, vesmíru a umělé inteligence.",
+      "slug": "pm-modi-meloni-discuss-ways-to-bolster-ties-in-are",
+      "publishedAt": "2025-11-23T16:33:34+00:00",
+      "date": "2025-11-23 16:33:34",
+      "importance": 3,
+      "category": "mezinárodní vztahy",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/PM-Modi-Meloni-discuss-ways-to-bolster-ties-in-areas-including-trade-defence-security-1024x647.jpg",
+      "url": "/tech-news/2025-11-23/pm-modi-meloni-discuss-ways-to-bolster-ties-in-are/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "companies": [],
+      "people": [
+        "Narendra Modi",
+        "Giorgia Meloni"
+      ]
+    },
+    {
+      "title": "Ministryně se postavila umělcům v debatě o AI a autorských právech",
+      "description": "Liz Kendall, ministryně pro technologie ve Spojeném království, vyjádřila podporu umělcům, kteří se brání proti neoprávněnému používání jejich děl k trénování AI systémů.",
+      "slug": "minister-indicates-sympathy-for-artists-in-debate-",
+      "publishedAt": "2025-11-23T16:28:55+00:00",
+      "date": "2025-11-23 16:28:55",
+      "importance": 3,
+      "category": "ai a autorská práva",
+      "urlToImage": "https://biztoc.com/cdn/3309a32adf8b5e45_s.webp",
+      "url": "/tech-news/2025-11-23/minister-indicates-sympathy-for-artists-in-debate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": [
+        "Liz Kendall"
+      ]
+    },
+    {
+      "title": "Američtí technologičtí giganti se postavili Jiu a Vi v boji o pásmo 6 GHz",
+      "description": "Společnosti Apple, Amazon, Cisco, Meta, HP a Intel se společně postavily návrhům Reliance Jio a Vodafone Idea alokovat pásmo 6 GHz pro mobilní služby a namísto toho požadují jeho vyhrazení pro Wi-Fi.",
+      "slug": "us-tech-majors-apple-amazon-cisco-meta-jointly-opp",
+      "publishedAt": "2025-11-23T16:25:10+00:00",
+      "date": "2025-11-23 16:25:10",
+      "importance": 3,
+      "category": "spektrum",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125522108,width-1200,height-630,imgsize-64966,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-23/us-tech-majors-apple-amazon-cisco-meta-jointly-opp/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple",
+        "Amazon",
+        "Cisco",
+        "Meta",
+        "HP"
+      ],
+      "people": []
+    },
+    {
+      "title": "Soudní akademie pořádá školení o kyberkriminalitě na nejvyšším soudu Meghály",
+      "description": "Soudní akademie státu Meghála ve spolupráci s Indickým koordinačním centrem pro kyberkriminalitu (I4C) uspořádala specializované školení pro soudce zaměřené na právní a důkazní aspekty kyberkriminality.",
       "slug": "judicial-academy-holds-cybercrime-training-at-megh",
       "publishedAt": "2025-11-23T16:08:20+00:00",
       "date": "2025-11-23 16:08:20",
       "importance": 3,
-      "category": "tech",
+      "category": "kyberkriminalita",
       "urlToImage": "https://www.syllad.com/wp-content/uploads/2025/11/Justice-HS-Thangkhiew.jpg",
       "url": "/tech-news/2025-11-23/judicial-academy-holds-cybercrime-training-at-megh/",
       "source": {
@@ -39,31 +594,13 @@
       "people": []
     },
     {
-      "title": "Developing nations push for climate action and debt relief at G20 summit in South Africa",
-      "description": "Developing nations at the G20 summit in South Africa highlighted climate action and debt relief. They presented themselves as economic partners in mining, technology, and AI. South Africa's presidency focused on an inclusive agenda for poorer nations. Leaders…",
-      "slug": "developing-nations-push-for-climate-action-and-deb",
-      "publishedAt": "2025-11-23T16:07:36+00:00",
-      "date": "2025-11-23 16:07:36",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125521957,width-1200,height-630,imgsize-125840,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-23/developing-nations-push-for-climate-action-and-deb/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Show HN: Reduce time debugging AI slop in prod",
-      "description": "Lets be honest, poor code slips into production far too often.Increasingly, that code is some untested auto generated AI code.And is ALWAYS a pain in the ass to fix!So I built a simple tool to make your debugging routine easier and quicker.The tool catches yo…",
+      "title": "Show HN: Zrychlete ladění špatného AI kódu v produkci",
+      "description": "Nástroj Dingus pomáhá vývojářům rychleji identifikovat a opravovat chyby způsobené neověřeným, automaticky generovaným kódem v produkčním prostředí.",
       "slug": "show-hn-reduce-time-debugging-ai-slop-in-prod",
       "publishedAt": "2025-11-23T16:01:48+00:00",
       "date": "2025-11-23 16:01:48",
       "importance": 3,
-      "category": "tech",
+      "category": "ladění kódu",
       "urlToImage": "https://opengraph.githubassets.com/fd620f42e63eb0ef650f461eabef2a2842cae6f3f62914e617b7077012f9adbe/dingus-technology/DINGUS",
       "url": "/tech-news/2025-11-23/show-hn-reduce-time-debugging-ai-slop-in-prod/",
       "source": {
@@ -75,13 +612,13 @@
       "people": []
     },
     {
-      "title": "How Managed Learning Services Support Digital Transformation In Learning",
-      "description": "Discover how Managed Learning Services empower organizations to drive digital transformation in learning by enhancing agility, scalability, and learner engagement through data-driven, technology-enabled training solutions.\nThis post was first published on eLe…",
+      "title": "Jak spravované vzdělávací služby podporují digitální transformaci ve vzdělávání",
+      "description": "Spravované vzdělávací služby (Managed Learning Services) pomáhají organizacím modernizovat své vzdělávací strategie prostřednictvím datově řízených a technologiemi podporovaných řešení, která zvyšují flexibilitu, škálovatelnost a zapojení účastníků.",
       "slug": "how-managed-learning-services-support-digital-tran",
       "publishedAt": "2025-11-23T16:00:45+00:00",
       "date": "2025-11-23 16:00:45",
-      "importance": 5,
-      "category": "tech",
+      "importance": 3,
+      "category": "e-learning",
       "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/11/How-Managed-Learning-Services-Support-Digital-Transformation-In-Learning.jpg",
       "url": "/tech-news/2025-11-23/how-managed-learning-services-support-digital-tran/",
       "source": {
@@ -93,31 +630,13 @@
       "people": []
     },
     {
-      "title": "11 modern horror books that should be turned into prestige TV",
-      "description": "Many recent horror TV shows prove how effective the medium is for the genre, and these modern books should become prestige series next.",
-      "slug": "A-11-modern-horror-books-that-should-be-turned-int",
-      "publishedAt": "2025-11-23T16:00:01+00:00",
-      "date": "2025-11-23 16:00:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3912,h_2200/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/385/01kammsvbe66qpvr87d0.jpg",
-      "url": "/tech-news/2025-11-23/A-11-modern-horror-books-that-should-be-turned-int/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Winter is Coming"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ENGINEERING TOMORROW",
-      "description": "IN a world constantly striving for progress and a more sustainable future, innovation is the very engine of change. Read full story",
+      "title": "Inženýrství zítřka",
+      "description": "V neustálém úsilí o pokrok a udržitelnou budoucnost je inovace hnacím motorem změny. Čtěte celý příběh.",
       "slug": "engineering-tomorrow",
       "publishedAt": "2025-11-23T16:00:00+00:00",
       "date": "2025-11-23 16:00:00",
       "importance": 3,
-      "category": "tech",
+      "category": "inovace",
       "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/24/3636815.jpg",
       "url": "/tech-news/2025-11-23/engineering-tomorrow/",
       "source": {
@@ -129,31 +648,13 @@
       "people": []
     },
     {
-      "title": "Garmin Offloads Forerunner 265 With No Profit, Amazon Piles On Extra Cut for All-Time Low Price",
-      "description": "The best value for money Garmin watch you can get.\nThe post Garmin Offloads Forerunner 265 With No Profit, Amazon Piles On Extra Cut for All-Time Low Price appeared first on Kotaku.",
-      "slug": "garmin-offloads-forerunner-265-with-no-profit-amaz",
-      "publishedAt": "2025-11-23T15:40:10+00:00",
-      "date": "2025-11-23 15:40:10",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/garmin-forerunner-265-watch-1200x675.jpg",
-      "url": "/tech-news/2025-11-23/garmin-offloads-forerunner-265-with-no-profit-amaz/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "साहित्य सन्ध्या: AI र ज्येष्ठ नागरिक",
-      "description": "Exploring the Intersection of Progressive Nepali Literature, Elderly Contributions, and Artificial Intelligence A special session of the 470th regular monthly series of Sahitya Sandhya recently explored the fascinating intersection of the contributions of sen…",
+      "title": "Sahitya Sandhya: Umělá inteligence a přínos starší generace v nepálské literatuře",
+      "description": "Na 470. schůzce literárního fóra Sahitya Sandhya se diskutovalo o roli starších autorů v progresivní nepálské literatuře a o vlivu umělé inteligence na literární tvorbu.",
       "slug": "सहतय-सनधय-ai-र-जयषठ-नगरक",
       "publishedAt": "2025-11-23T15:38:16+00:00",
       "date": "2025-11-23 15:38:16",
       "importance": 3,
-      "category": "tech",
+      "category": "umělá inteligence",
       "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
       "url": "/tech-news/2025-11-23/सहतय-सनधय-ai-र-जयषठ-नगरक/",
       "source": {
@@ -165,13 +666,13 @@
       "people": []
     },
     {
-      "title": "Angola, Ethiopia seek deeper farm ties with Indonesia, says minister",
-      "description": "Indonesia has drawn strong interest from Angola and Ethiopia to expand agricultural cooperation, Coordinating Minister for Economic Affairs Airlangga Hartarto ...",
+      "title": "Angola a Etiopie usilují o hlubší zemědělskou spolupráci s Indonésií",
+      "description": "Indonésie zaznamenala zvýšený zájem ze strany Angoly a Etiopie o rozšíření spolupráce v zemědělství, včetně plánovaných návštěv oficiálních delegací v příštím roce.",
       "slug": "angola-ethiopia-seek-deeper-farm-ties-with-indones",
       "publishedAt": "2025-11-23T15:29:55+00:00",
       "date": "2025-11-23 15:29:55",
       "importance": 3,
-      "category": "tech",
+      "category": "zemědělství",
       "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/11/23/WhatsApp-Image-2025-11-23-at-03.01.25_35814165.jpg",
       "url": "/tech-news/2025-11-23/angola-ethiopia-seek-deeper-farm-ties-with-indones/",
       "source": {
@@ -183,13 +684,13 @@
       "people": []
     },
     {
-      "title": "Crypto’s brutal month triggers a stress test for Wall Street",
-      "description": "The Fear and Greed index — a tool that measures sentiment in crypto markets — sat at a score of 11 out of 100 on Friday, deep in “extreme fear” territory.",
+      "title": "Brutální krypto měsíc vystavuje Wall Street stresovému testu",
+      "description": "Index strachu a chamtivosti klesl na 11 z 100, což indikuje „extrémní strach“ na kryptotrhu. Za poslední měsíc bylo z tržní hodnoty Bitcoinu smazáno přes půl bilionu dolarů.",
       "slug": "cryptos-brutal-month-triggers-a-stress-test-for-wa",
       "publishedAt": "2025-11-23T15:28:19+00:00",
       "date": "2025-11-23 15:28:19",
       "importance": 3,
-      "category": "tech",
+      "category": "kryptoměny",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247199407-e1763911569476.jpg?resize=1200,600",
       "url": "/tech-news/2025-11-23/cryptos-brutal-month-triggers-a-stress-test-for-wa/",
       "source": {
@@ -201,13 +702,13 @@
       "people": []
     },
     {
-      "title": "Why Meta Platforms, Inc. (META) Is Under Analyst Spotlight",
-      "description": "Meta Platforms, Inc. (NASDAQ:META) is among the stocks Wall Street analysts are watching closely. On November 19, Reuters reported that a federal judge had...",
+      "title": "Proč je Meta Platforms, Inc. (META) v centru pozornosti analytiků",
+      "description": "Meta Platforms získala významné soudní vítězství v antimonopolním sporu se Spolkovou obchodní komisí (FTC), což ovlivňuje její akciovou hodnotu a investiční doporučení analytiků.",
       "slug": "why-meta-platforms-inc-meta-is-under-analyst-spotl",
       "publishedAt": "2025-11-23T15:26:32+00:00",
       "date": "2025-11-23 15:26:32",
       "importance": 3,
-      "category": "tech",
+      "category": "burza",
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/3bb8ee25366b0d99cae297f8032c1254",
       "url": "/tech-news/2025-11-23/why-meta-platforms-inc-meta-is-under-analyst-spotl/",
       "source": {
@@ -215,17 +716,20 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "companies": [],
+      "companies": [
+        "Meta Platforms",
+        "Inc"
+      ],
       "people": []
     },
     {
-      "title": "Modi Calls For Global Compact On AI To Prevent Misuse",
-      "description": "Prime Minister Narendra Modi on Sunday called for a global compact to prevent misuse of artificial intelligence and made a strong pitch for critical technologies to be human-centric, instead of finance-centric. Addressing the third session of the G20 summit, …",
+      "title": "Modi vyzývá k globální dohodě o umělé inteligenci proti jejímu zneužití",
+      "description": "Indický premiér Narendra Modi na summitu G20 vyzval k vytvoření mezinárodní dohody o AI, která by zajistila lidský dohled, transparentnost a zákaz zneužití technologie v kriminalitě či terorismu.",
       "slug": "modi-calls-for-global-compact-on-ai-to-prevent-mis",
       "publishedAt": "2025-11-23T15:25:59+00:00",
       "date": "2025-11-23 15:25:59",
       "importance": 3,
-      "category": "tech",
+      "category": "umělá inteligence",
       "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2F436oblvy%2FPTI09022025000043B.jpg?rect=0%2C0%2C4800%2C2520&w=1200&auto=format%2Ccompress&ogImage=true",
       "url": "/tech-news/2025-11-23/modi-calls-for-global-compact-on-ai-to-prevent-mis/",
       "source": {
@@ -234,52 +738,18 @@
         "name": "Ndtvprofit.com"
       },
       "companies": [],
-      "people": []
+      "people": [
+        "Narendra Modi"
+      ]
     },
     {
-      "title": "The Apple AirTag is $11 Off",
-      "description": "Amazon has the AirTag marked $11 off. You can keep track and find devices that are connected to the AirTag like your iPad or iPhone with the use of the Find My App. The Find My network is anonymous and encrypted to protect your privacy, and you can rest assur…",
-      "slug": "the-apple-airtag-is-11-off",
-      "publishedAt": "2025-11-23T15:25:08+00:00",
-      "date": "2025-11-23 15:25:08",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2025/11/71rP7f78eFL._AC_SL1500_.jpg",
-      "url": "/tech-news/2025-11-23/the-apple-airtag-is-11-off/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iLounge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Philips Norelco i9000 Wet & Dry Electric Shaver w/ SenseIQ Technology (Ink Black) $139.96 + Free Shipping (1 replies)",
-      "description": "Amazon [amazon.com] has Philips Norelco i9000 Wet & Dry Electric Shaver w/ SenseIQ Technology (Ink Black) for $139.96. Shipping is free.\n\n\nProduct Description from Amazon:From the #1 electric shav",
-      "slug": "philips-norelco-i9000-wet-dry-electric-shaver-w-se",
-      "publishedAt": "2025-11-23T15:22:05+00:00",
-      "date": "2025-11-23 15:22:05",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://slickdeals.net/attachment/1/7/2/2/9/6/4/450x450/18832561.thumb",
-      "url": "/tech-news/2025-11-23/philips-norelco-i9000-wet-dry-electric-shaver-w-se/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slickdeals.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "What OpenAI Did When ChatGPT Users Lost Touch With Reality",
-      "description": "",
+      "title": "Jak OpenAI reagovalo, když uživatelé ChatGPT ztratili kontakt s realitou",
+      "description": "OpenAI zavedlo nová bezpečnostní opatření poté, co někteří uživatelé ChatGPT začali věřit, že model je vědomý nebo schopen citů. Tento případ odhalil rizika spojená s přílišnou antropomorfizací umělé inteligence.",
       "slug": "what-openai-did-when-chatgpt-users-lost-touch-with",
       "publishedAt": "2025-11-23T15:10:13+00:00",
       "date": "2025-11-23 15:10:13",
       "importance": 4,
-      "category": "tech",
+      "category": "umělá inteligence",
       "urlToImage": "https://biztoc.com/cdn/955/og.png",
       "url": "/tech-news/2025-11-23/what-openai-did-when-chatgpt-users-lost-touch-with/",
       "source": {
@@ -287,17 +757,19 @@
         "id": null,
         "name": "Biztoc.com"
       },
-      "companies": [],
+      "companies": [
+        "OpenAI"
+      ],
       "people": []
     },
     {
-      "title": "Americans are holding onto devices longer than ever and it's costing economy",
-      "description": "Americans are holding onto devices longer than ever before, and while it may be consumer smart, it comes at a cost to work productivity and the U.S. economy.",
+      "title": "Američané si ponechávají zařízení déle než kdy dříve – a ekonomika za to platí",
+      "description": "Američané si ponechávají chytré telefony i jiná zařízení stále déle, což sice šetří jejich rozpočet, ale zpomaluje produktivitu firem i celé ekonomiky.",
       "slug": "americans-are-holding-onto-devices-longer-than-eve",
       "publishedAt": "2025-11-23T15:05:47+00:00",
       "date": "2025-11-23 15:05:47",
       "importance": 3,
-      "category": "tech",
+      "category": "spotřební elektronik",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218921-1761766241173-gettyimages-1347665653-relax-home-photo-lucy-lambriex-zie-binnenzijde-3878.jpeg?v=1761766254&w=1920&h=1080",
       "url": "/tech-news/2025-11-23/americans-are-holding-onto-devices-longer-than-eve/",
       "source": {
@@ -309,13 +781,13 @@
       "people": []
     },
     {
-      "title": "More companies are shifting workers to passwordless authentication",
-      "description": "Both workers and business leaders are tired of device passwords. More companies are doing away with them and, in the process, improving cybersecurity.",
+      "title": "Stále více firem přechází zaměstnance na bezheslové ověřování",
+      "description": "Zaměstnanci i bezpečnostní manažeři mají hesel plné zuby. Firmy proto stále častěji zavádějí bezheslové metody ověřování, které zároveň zvyšují kybernetickou bezpečnost.",
       "slug": "more-companies-are-shifting-workers-to-passwordles",
       "publishedAt": "2025-11-23T15:05:24+00:00",
       "date": "2025-11-23 15:05:24",
       "importance": 3,
-      "category": "tech",
+      "category": "bezheslové ověřování",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108013603-1722352863152-gettyimages-1774781438-dsc09661.jpeg?v=1722352956&w=1920&h=1080",
       "url": "/tech-news/2025-11-23/more-companies-are-shifting-workers-to-passwordles/",
       "source": {
@@ -327,13 +799,13 @@
       "people": []
     },
     {
-      "title": "'The Second World' shows how humanity makes mistakes in futuristic society",
-      "description": "Jake Korell’s debut novel 'The Second World' envisions a newly independent Mars shaped by real space-policy debates, near-future technology, and the very human absurdities we’ll bring with us when we leave Earth.",
+      "title": "„Druhý svět“ ukazuje, jak lidstvo opakuje chyby i ve futuristické společnosti",
+      "description": "Debutový román Jakea Korella „Druhý svět“ představuje nezávislý Mars ovlivněný současnými debatami o vesmírné politice, blízkobudoucí technologií a lidskými slabostmi.",
       "slug": "the-second-world-shows-how-humanity-makes-mistakes",
       "publishedAt": "2025-11-23T15:00:00+00:00",
       "date": "2025-11-23 15:00:00",
       "importance": 3,
-      "category": "tech",
+      "category": "sci-fi literatura",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/LrcMG9eDVvzqWDhGQX6wz3-1920-80.jpg",
       "url": "/tech-news/2025-11-23/the-second-world-shows-how-humanity-makes-mistakes/",
       "source": {
@@ -345,85 +817,13 @@
       "people": []
     },
     {
-      "title": "9 movies and series that will make 2026 a big year for animation",
-      "description": "From Hoppers and Toy Story 5 to Hexed, 2026 looks set for an animation revival.",
-      "slug": "A-9-movies-and-series-that-will-make-2026-a-big-ye",
-      "publishedAt": "2025-11-23T15:00:00+00:00",
-      "date": "2025-11-23 15:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8RXVBogqgfJkhGEQnwG2mD-1000-80.jpg",
-      "url": "/tech-news/2025-11-23/A-9-movies-and-series-that-will-make-2026-a-big-ye/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Creative Bloq"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "No Deposit Bonus Casino: BitStarz Announces New 50 Free Spins No Deposit Bonus for Casino Fans",
-      "description": "Arkansas, US,, Nov. 23, 2025 (GLOBE NEWSWIRE) -- Nov. 22, 2025 (GLOBE NEWSWIRE) - BitStarz\r\n fixes a common issue in no deposit bonus casinos: most offers seem great at first, but then hit you with huge 200x wagering, blocked cashouts, or long delays when you…",
-      "slug": "no-deposit-bonus-casino-bitstarz-announces-new-50-",
-      "publishedAt": "2025-11-23T14:39:00+00:00",
-      "date": "2025-11-23 14:39:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-23/no-deposit-bonus-casino-bitstarz-announces-new-50/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple Quietly Dumps iPad Air on Amazon Only, Selling for Pocket Change Where Early Buyers Won’t Look",
-      "description": "M3 chip with Apple Intelligence powers desktop-class apps in portable 11-inch design.\nThe post Apple Quietly Dumps iPad Air on Amazon Only, Selling for Pocket Change Where Early Buyers Won’t Look appeared first on Kotaku.",
-      "slug": "apple-quietly-dumps-ipad-air-on-amazon-only-sellin",
-      "publishedAt": "2025-11-23T14:30:44+00:00",
-      "date": "2025-11-23 14:30:44",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/ipad-air-2025-wifi.jpg",
-      "url": "/tech-news/2025-11-23/apple-quietly-dumps-ipad-air-on-amazon-only-sellin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "'Doesn't exist': White House disbands DOGE months early",
-      "description": "The department, established by Donald Trump and once headed up by Elon Musk, promised to slash billions from the US government but has quietly faded into the background in recent months.",
-      "slug": "doesnt-exist-white-house-disbands-doge-months-earl",
-      "publishedAt": "2025-11-23T14:08:46+00:00",
-      "date": "2025-11-23 14:08:46",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ab09bb8426b8499422fefa0a163a3c6f?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=5&width=862&height=485&imformat=generic",
-      "url": "/tech-news/2025-11-23/doesnt-exist-white-house-disbands-doge-months-earl/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Did an AI war just get one step closer? Putin confirms Russia is planning its own national AI taskforce",
-      "description": "Russia establishes a national AI taskforce to strengthen domestic LLMs, deploy humanoid robots, and develop autonomous drones for strategic operations.",
+      "title": "Blíží se AI válka? Putin potvrdil vznik ruské národní AI skupiny",
+      "description": "Rusko zřizuje národní pracovní skupinu pro umělou inteligenci, aby posílilo domácí velké jazykové modely, humanoidní roboty a autonomní drony pro strategické operace.",
       "slug": "did-an-ai-war-just-get-one-step-closer-putin-confi",
       "publishedAt": "2025-11-23T14:04:00+00:00",
       "date": "2025-11-23 14:04:00",
       "importance": 3,
-      "category": "tech",
+      "category": "umělá inteligence",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pPZeDNAjDG5KieaZ9q3D5a-1920-80.png",
       "url": "/tech-news/2025-11-23/did-an-ai-war-just-get-one-step-closer-putin-confi/",
       "source": {
@@ -432,16 +832,18 @@
         "name": "TechRadar"
       },
       "companies": [],
-      "people": []
+      "people": [
+        "Vladimir Putin"
+      ]
     },
     {
-      "title": "Apple’s iOS 27 Update Won’t Have Any New Flashy Features",
-      "description": "Apple's next major software update cycle won't be characterized by glitzy glamor, with focus on under-the-hood stability improvements rather than introducing new and flashy features, as per Mark Gurman's latest Power On newsletter. Mark Gurman: Apple's iOS 27…",
+      "title": "Aktualizace iOS 27 nepřinese žádné okázalé novinky",
+      "description": "Podle renomovaného informátora Marka Gurmana se Apple v rámci iOS 27 zaměří na stabilitu a optimalizaci systému místo představení nových vizuálně poutavých funkcí.",
       "slug": "apples-ios-27-update-wont-have-any-new-flashy-feat",
       "publishedAt": "2025-11-23T14:02:44+00:00",
       "date": "2025-11-23 14:02:44",
       "importance": 3,
-      "category": "tech",
+      "category": "ios aktualizace",
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/iOS-27-Apple.jpg",
       "url": "/tech-news/2025-11-23/apples-ios-27-update-wont-have-any-new-flashy-feat/",
       "source": {
@@ -449,17 +851,22 @@
         "id": null,
         "name": "Wccftech"
       },
-      "companies": [],
-      "people": []
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook",
+        "Mark Gurman"
+      ]
     },
     {
-      "title": "Modern Blended Learning Strategies For Enterprise Learning Platform Success",
-      "description": "Blended learning enterprise solutions mix online content and face-to-face experiences to boost engagement and skills transfer. AI-powered platforms enable personalized, flexible learning that drives measurable business growth.\nThis post was first published on…",
+      "title": "Moderní strategie smíšeného vzdělávání pro úspěch firemních vzdělávacích platforem",
+      "description": "Smíšené vzdělávání kombinuje online obsah s osobními zkušenostmi, čímž zvyšuje zapojení a přenos dovedností do praxe. Platformy s umělou inteligencí umožňují personalizované a flexibilní učení, které podporuje měřitelný růst podnikání.",
       "slug": "modern-blended-learning-strategies-for-enterprise-",
       "publishedAt": "2025-11-23T14:00:55+00:00",
       "date": "2025-11-23 14:00:55",
       "importance": 3,
-      "category": "tech",
+      "category": "e-learning",
       "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/11/Shutterstock_2455248351.jpg",
       "url": "/tech-news/2025-11-23/modern-blended-learning-strategies-for-enterprise/",
       "source": {
@@ -471,13 +878,13 @@
       "people": []
     },
     {
-      "title": "Security reality check: Top-ranked Chrome ‘wallet’ that steals your seedphrase",
-      "description": "For a few days in November, a malicious Chrome extension ranked as the fourth result for “Ethereum wallet” on the Chrome Web Store. The extension, called “Safery: Ethereum Wallet,” looked polished enough to pass as legitimate. It had a clean icon, a generic n…",
+      "title": "Bezpečnostní varování: Nejlepší Chrome 'peněženka' krádeží vaše seed fráze",
+      "description": "V listopadu se ve vyhledávání Chrome Web Store objevila škodlivá rozšíření nazývaná „Safery: Ethereum Wallet“, která vypadala důvěryhodně, ale kradla citlivé kryptografické klíče uživatelů.",
       "slug": "security-reality-check-top-ranked-chrome-wallet-th",
       "publishedAt": "2025-11-23T14:00:08+00:00",
       "date": "2025-11-23 14:00:08",
-      "importance": 3,
-      "category": "tech",
+      "importance": 4,
+      "category": "kryptoměny",
       "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/chrome-wallet-seed.jpg",
       "url": "/tech-news/2025-11-23/security-reality-check-top-ranked-chrome-wallet-th/",
       "source": {
@@ -485,17 +892,19 @@
         "id": null,
         "name": "CryptoSlate"
       },
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
       "people": []
     },
     {
-      "title": "Nvidia didn’t save the market. What’s next for the AI trade?",
-      "description": "In addition, the circular nature of these financing arrangements creates a potential systemic risk in which one company’s weakness can bring down the entire ...",
+      "title": "Nvidia nezachránila trh. Co dál pro obchodování s AI?",
+      "description": "Silné výsledky Nvidie neuklidnily obavy z bubliny na trhu s akciemi spojenými s umělou inteligencí. Analytici se dělí mezi skeptiky a optimisty ohledně budoucnosti AI investic.",
       "slug": "nvidia-didnt-save-the-market-whats-next-for-the-ai",
       "publishedAt": "2025-11-23T14:00:07+00:00",
       "date": "2025-11-23 14:00:07",
       "importance": 3,
-      "category": "tech",
+      "category": "ai trh",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ku35_.95U2GuiD_O_e3Mbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ff406cd0-bb52-11f0-9bb7-a6bd1cae378f",
       "url": "/tech-news/2025-11-23/nvidia-didnt-save-the-market-whats-next-for-the-ai/",
       "source": {
@@ -503,7 +912,9 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "companies": [],
+      "companies": [
+        "Nvidia"
+      ],
       "people": []
     },
     {
@@ -2109,24 +2520,6 @@
       "people": []
     },
     {
-      "title": "Ninja 6.5 QT Air Fryer Slashed to Pocket Change, Amazon Already Cleared 20K Units This Black Friday",
-      "description": "Ninja 6.5 QT Air Fryer Slashed to Pocket Change, Amazon Already Cleared 20K Units This Black Fridaygizmodo.com",
-      "slug": "ninja-65-qt-air-fryer-slashed-to-pocket-change-ama",
-      "publishedAt": "2025-11-22T23:46:35+00:00",
-      "date": "2025-11-22 23:46:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/ninja-air-fryer-af181-1200x675.jpg",
-      "url": "/tech-news/2025-11-22/ninja-65-qt-air-fryer-slashed-to-pocket-change-ama/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "'The Strange and Totally Real Plan to Blot Out the Sun and Reverse Global Warming'",
       "description": "In a 2023 pitch to investors, a \"well-financed, highly credentialed\" startup named Stardust aimed for a \"gradual temperature reduction demonstration\" in 2027, according to a massive new 9,600-word article from Politico. (\"Annually dispersing ~1 million tons o…",
       "slug": "the-strange-and-totally-real-plan-to-blot-out-the-",
@@ -2136,60 +2529,6 @@
       "category": "tech",
       "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
       "url": "/tech-news/2025-11-22/the-strange-and-totally-real-plan-to-blot-out-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Mum inspired by son’s health battle to build new app for Kiwis",
-      "description": "The app will stop parents from having to repeat medical histories at every appointment.",
-      "slug": "mum-inspired-by-sons-health-battle-to-build-new-ap",
-      "publishedAt": "2025-11-22T23:00:00+00:00",
-      "date": "2025-11-22 23:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/E2ENLYITGFDN3EQCA2PE4SSCC4.JPG?auth=7b17083b397506b61e4eb4f370b03bcc27658ec3d12c133515ce3ece4dfd244f&width=1200&height=675&quality=70&focal=3063%2C2194&smart=false",
-      "url": "/tech-news/2025-11-22/mum-inspired-by-sons-health-battle-to-build-new-ap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "New Mini-LED TVs with QLED and up to 75 inches: Sharp showcases its Aquos MiniLED JP7000 series",
-      "description": "Sharp has just unveiled the Aquos MiniLED JP7000 series. This includes smart TVs in four sizes up to 75 inches, featuring Mini-LED and Quantum Dot technology.",
-      "slug": "new-mini-led-tvs-with-qled-and-up-to-75-inches-sha",
-      "publishedAt": "2025-11-22T22:58:00+00:00",
-      "date": "2025-11-22 22:58:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sharp-Aquos-MiniLED-JP7000-Serie.jpg",
-      "url": "/tech-news/2025-11-22/new-mini-led-tvs-with-qled-and-up-to-75-inches-sha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Meta Plans New AI-Powered 'Morning Brief' Drawn From Facebook and 'External Sources'",
-      "description": "Meta \"is testing a new product that would give Facebook users a personalized daily briefing powered by the company's generative AI technology\" reports the Washington Post. They cite records they've reviwed showing that Meta \"would analyze Facebook content and…",
-      "slug": "meta-plans-new-ai-powered-morning-brief-drawn-from",
-      "publishedAt": "2025-11-22T22:34:00+00:00",
-      "date": "2025-11-22 22:34:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
-      "url": "/tech-news/2025-11-22/meta-plans-new-ai-powered-morning-brief-drawn-from/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -2253,42 +2592,6 @@
       "people": []
     },
     {
-      "title": "Musicians say AI songs are 'cheating' amid Golden Guitar controversy",
-      "description": "After a snap decision to ban generative tracks made using Artificial Intelligence for the 2026 Golden Guitar Awards, the Country Music Association of Australia is reviewing whether AI has a place in country music.",
-      "slug": "musicians-say-ai-songs-are-cheating-amid-golden-gu",
-      "publishedAt": "2025-11-22T21:39:14+00:00",
-      "date": "2025-11-22 21:39:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d083713429f1950bc7f4c877664558bd?impolicy=wcms_watermark_news&cropH=642&cropW=1142&xPos=0&yPos=135&width=862&height=485&imformat=generic",
-      "url": "/tech-news/2025-11-22/musicians-say-ai-songs-are-cheating-amid-golden-gu/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "NB HASH Launches New Generation of AI Compute Infrastructure to Meet Global High-Performance Computing Demand",
-      "description": "London, United Kingdom, Nov. 22, 2025 (GLOBE NEWSWIRE) -- Following NVIDIA’s recent release of strong third-quarter results and its optimistic outlook for global AI compute platforms, demand for high-performance computing resources is accelerating rapidly acr…",
-      "slug": "nb-hash-launches-new-generation-of-ai-compute-infr",
-      "publishedAt": "2025-11-22T21:34:00+00:00",
-      "date": "2025-11-22 21:34:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-22/nb-hash-launches-new-generation-of-ai-compute-infr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Resetting GPU depreciation: Why AI factories bend, but don’t break, useful life assumptions",
       "description": "Much attention has been focused in the news on the useful life of graphics processing units, the dominant chips for artificial intelligence. Though the pervasive narrative suggests GPUs have a short lifespan, and operators are “cooking the books,” our researc…",
       "slug": "resetting-gpu-depreciation-why-ai-factories-bend-b",
@@ -2338,24 +2641,6 @@
         "emoji": "📰",
         "id": null,
         "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "LayerFive Founder: Solving $66B Marketing Waste",
-      "description": "Discover how LayerFive's founder went from fixing refrigerators to solving the $66B marketing attribution crisis. Learn how to achieve 72% revenue growth.",
-      "slug": "layerfive-founder-solving-66b-marketing-waste",
-      "publishedAt": "2025-11-22T19:41:15+00:00",
-      "date": "2025-11-22 19:41:15",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://layerfive.com/wp-content/uploads/2025/11/Sushil-Goel-LayerFive-Founder-Journey.jpg",
-      "url": "/tech-news/2025-11-22/layerfive-founder-solving-66b-marketing-waste/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Layerfive.com"
       },
       "companies": [],
       "people": []
@@ -2505,42 +2790,6 @@
       "people": []
     },
     {
-      "title": "Music Expo 25 Round-Up",
-      "description": "With over 25 sessions, more than 40 speakers and 30 brand showcases, Music Expo 25 marked the organisation's most ambitious and best-attended event in years, cementing its role as a vital hub for the Bay Area’s creative music scene.",
-      "slug": "music-expo-25-round-up",
-      "publishedAt": "2025-11-22T17:00:00+00:00",
-      "date": "2025-11-22 17:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-22/music-expo-25-round-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Soundonsound.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia tells investors to calm down about AI fears",
-      "description": "The chipmaker at the center of the artificial intelligence revolution just tried to calm everyone’s nerves. Whether it worked remains an open question. Nvidia reported sales and profits that jumped more than 60% compared to last year, surpassing what analysts…",
-      "slug": "nvidia-tells-investors-to-calm-down-about-ai-fears",
-      "publishedAt": "2025-11-22T16:42:16+00:00",
-      "date": "2025-11-22 16:42:16",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/09/Nvidia.png",
-      "url": "/tech-news/2025-11-22/nvidia-tells-investors-to-calm-down-about-ai-fears/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Smarter security made easy: Hands-on with Avia’s new Smart Lock lineup",
       "description": "I have tested many smart locks over the years. They all promise convenience but always fall short, with apps that look like they are stuck in 2013, poor battery life, and compatibility headaches. Avia has taken a different approach. Their award-winning lineup…",
       "slug": "smarter-security-made-easy-hands-on-with-avias-new",
@@ -2554,24 +2803,6 @@
         "emoji": "📰",
         "id": null,
         "name": "9to5Mac"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Mental Health and Capitalism",
-      "description": "The System Is Making Us Sick Both Mentally And Physically Article Written By Comrade Luke One of the many, and possibly more disturbing, facets of decaying moribund capitalism is the rise of the me…",
-      "slug": "mental-health-and-capitalism",
-      "publishedAt": "2025-11-22T16:29:26+00:00",
-      "date": "2025-11-22 16:29:26",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://classconsciousnessproject.blog/wp-content/uploads/2025/11/image-8-edited.png",
-      "url": "/tech-news/2025-11-22/mental-health-and-capitalism/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Classconsciousnessproject.blog"
       },
       "companies": [],
       "people": []
@@ -2680,42 +2911,6 @@
         "emoji": "📰",
         "id": null,
         "name": "MarketWatch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Op Sindoor was trusted orchestra where every musician played synergistic role: Army chief",
-      "description": "Army Chief Gen Upendra Dwivedi described Operation Sindoor as a \"trusted orchestra\" where Indian armed forces destroyed nine terrorist targets in 22 minutes. The operation, lasting 88 hours, showcased foresight and the convergence of intelligence, precision, …",
-      "slug": "op-sindoor-was-trusted-orchestra-where-every-music",
-      "publishedAt": "2025-11-22T15:13:48+00:00",
-      "date": "2025-11-22 15:13:48",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125507382,width-1200,height-630,imgsize-21842,overlay-etdefence/articleshow.jpg",
-      "url": "/tech-news/2025-11-22/op-sindoor-was-trusted-orchestra-where-every-music/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "New wearable device lets you touch fabric online, read braille, and more",
-      "description": "VoxeLite can help you literally feel websites.\nThe post New wearable device lets you touch fabric online, read braille, and more appeared first on Popular Science.",
-      "slug": "new-wearable-device-lets-you-touch-fabric-online-r",
-      "publishedAt": "2025-11-22T15:07:00+00:00",
-      "date": "2025-11-22 15:07:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/11/finger-werable-smartphone.png?quality=85&w=1200",
-      "url": "/tech-news/2025-11-22/new-wearable-device-lets-you-touch-fabric-online-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Popular Science"
       },
       "companies": [],
       "people": []
@@ -2860,42 +3055,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Android Police"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Lit Hub Weekly: November 17 – 12, 2025",
-      "description": "John Hendrix considers post-apocalyptic narratives and the graphic adaptation of Cormac McCarthy’s The Road. | Lit Hub Criticism Steven W. Thrasher remembers writer, advocate, and friend Alice Wong: “Alice helped decolonize disability communities of their (of…",
-      "slug": "lit-hub-weekly-november-17-12-2025",
-      "publishedAt": "2025-11-22T11:30:00+00:00",
-      "date": "2025-11-22 11:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2025/11/georgeeliotlhd.jpg",
-      "url": "/tech-news/2025-11-22/lit-hub-weekly-november-17-12-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Lithub.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Microsoft created a tablet years before Apple, but it never took off - here's why",
-      "description": "Bill Gates proudly displayed a pioneering Microsoft tablet device way back in 2000, but it never really took off.",
-      "slug": "microsoft-created-a-tablet-years-before-apple-but-",
-      "publishedAt": "2025-11-22T11:27:00+00:00",
-      "date": "2025-11-22 11:27:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9wT6zkopTShZBTxbhZHLJW-2000-80.jpg",
-      "url": "/tech-news/2025-11-22/microsoft-created-a-tablet-years-before-apple-but/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
       },
       "companies": [],
       "people": []
@@ -3153,24 +3312,6 @@
       "people": []
     },
     {
-      "title": "MARA Holdings, Inc. (MARA) Bounces to Profitability on Bitcoin Surge and Expansion into AI Market",
-      "description": "MARA Holdings Inc. (NASDAQ:MARA) is one of the best cryptocurrency stocks to buy for the long term. On November 17, Bernstein maintained a Hold rating on...",
-      "slug": "mara-holdings-inc-mara-bounces-to-profitability-on",
-      "publishedAt": "2025-11-22T07:30:05+00:00",
-      "date": "2025-11-22 07:30:05",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EvhU_6J77peLYvC8P4MF8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDM-/https://media.zenfs.com/en/insidermonkey.com/cb1cdef7f61312a6227d15b13bc5bd2c",
-      "url": "/tech-news/2025-11-22/mara-holdings-inc-mara-bounces-to-profitability-on/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tech giants’ debt-fuelled AI spending has investors on edge amid bubble fears",
       "description": "The five major spenders on AI — Amazon.com Inc, Alphabet Inc, Microsoft Corp, Meta Platforms Inc and Oracle Corp — have raised a record $108 billion in debt combined in 2025",
       "slug": "tech-giants-debt-fuelled-ai-spending-has-investors",
@@ -3220,42 +3361,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Substack.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Microsoft makes Zork open-source | Hacker News",
-      "description": "",
-      "slug": "microsoft-makes-zork-open-source-hacker-news",
-      "publishedAt": "2025-11-22T05:47:02+00:00",
-      "date": "2025-11-22 05:47:02",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-22/microsoft-makes-zork-open-source-hacker-news/",
-      "source": {
-        "emoji": "📰",
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Minister urges universities to bolster educational transformation",
-      "description": "Higher Education, Science, and Technology Minister Brian Yuliarto urged universities to strengthen educational transformation and accelerate development based ...",
-      "slug": "minister-urges-universities-to-bolster-educational",
-      "publishedAt": "2025-11-22T05:41:00+00:00",
-      "date": "2025-11-22 05:41:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/11/22/WhatsApp-Image-2025-11-21-at-15.08.42.jpeg",
-      "url": "/tech-news/2025-11-22/minister-urges-universities-to-bolster-educational/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Antaranews.com"
       },
       "companies": [],
       "people": []
@@ -3369,24 +3474,6 @@
       "people": []
     },
     {
-      "title": "Mizuho Remains Bullish on Strategy (MSTR) Following Q3 2025 Results",
-      "description": "Strategy Inc. (NASDAQ:MSTR) is included in our list of the best crypto-related stocks to invest in. On November 10, 2025, Strategy Inc. (NASDAQ:MSTR) saw its...",
-      "slug": "mizuho-remains-bullish-on-strategy-mstr-following-",
-      "publishedAt": "2025-11-22T03:18:09+00:00",
-      "date": "2025-11-22 03:18:09",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/c54bf18bd76def1e671cc5f0f809c86a",
-      "url": "/tech-news/2025-11-22/mizuho-remains-bullish-on-strategy-mstr-following/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The PGA Tour's newest winner is a certified gear degenerate | Tour Report",
       "description": "In this week's Tour Report, take a dive into to Adam Schenk's gear world, plus the latest on new drivers and more from the RSM Classic.",
       "slug": "the-pga-tours-newest-winner-is-a-certified-gear-de",
@@ -3400,24 +3487,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Golf.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Musk’s last grift",
-      "description": "The US is one big grift these days: the Trump Administration, traditional and social media, corporations, crypto, financial markets are all selling some kind of spurious promise. It’s hard to pick the most egregious example. But for me, it’s hard to go past T…",
-      "slug": "musks-last-grift",
-      "publishedAt": "2025-11-22T02:58:35+00:00",
-      "date": "2025-11-22 02:58:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-22/musks-last-grift/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crookedtimber.org"
       },
       "companies": [],
       "people": []
