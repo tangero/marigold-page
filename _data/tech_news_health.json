@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-23T20:16:58.071520+00:00",
+  "timestamp": "2025-11-24T00:59:53.097156+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.26,
+      "newest_age_hours": 24.87,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 345.0,
-      "median_length": 366.0
+      "avg_length": 355.0,
+      "median_length": 376.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,39 +26,30 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.01,
-      "invalid_count": 1,
-      "most_common_missing_fields": {
-        "description": 1
-      },
-      "sample_invalid_articles": [
-        {
-          "file": "2025-11-22-why-cant-people-shake-their-ai-worries.md",
-          "errors": [
-            "chybí description"
-          ]
-        }
-      ]
+      "error_rate": 0.0,
+      "invalid_count": 0,
+      "most_common_missing_fields": {},
+      "sample_invalid_articles": []
     }
   },
   "metrics": {
-    "total_articles": 4890,
+    "total_articles": 4915,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.26,
+    "newest_article_age_hours": 24.87,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 345.0,
-    "median_content_length": 366.0,
-    "articles_with_images_pct": 95.0,
+    "avg_content_length": 355.0,
+    "median_content_length": 376.0,
+    "articles_with_images_pct": 93.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.01
+    "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.3h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.9h (threshold: 6h)"
     },
     {
       "level": "WARNING",
