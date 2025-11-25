@@ -16,29 +16,27 @@ source:
   emoji: 📰
   id: null
   name: Thurrott.com
-title: 'Paulovy deníky o Pixelu 10: Více magie Pixelsnapu ⭐'
+title: 'Paulovy deníky Pixelu 10: Více magie Pixelsnapu ⭐'
 url: https://www.thurrott.com/mobile/android/google-pixel/329999/pauls-pixel-10-diaries-more-pixelsnap-magic
 urlToImage: https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/pixelsnap-hero2.jpg
 urlToImageBackup: https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/pixelsnap-hero2.jpg
 ---
 
 ## Souhrn
-Google představil na telefonech Pixel 10 sérii technologii Pixelsnap, což je jeho označení pro bezdrátové nabíjení podle standardu Qi2 s magnetickým zarovnáním. Novější verze Qi2.2 zvyšuje maximální výkon na 25 W, ale pouze vybrané modely Pixel 10 podporují tuto rychlejší variantu.
+Google představil na řadě Pixel 10 technologii Pixelsnap – svou verzi bezdrátového nabíjení podle standardu Qi2. Tento systém využívá magnetické přichycení podobné Applímu MagSafe a nabízí rychlejší bezdrátové nabíjení, zejména u modelů Pixel 10 Pro a Pro XL, které podporují nový standard Qi2.2 s výkonem až 25 W.
 
 ## Klíčové body
-- Pixelsnap je Googlova implementace standardu Qi2, který zavádí magnetické zarovnání podobné Applímu MagSafe.
-- Standard Qi2.2 umožňuje bezdrátové nabíjení až 25 W, oproti 15 W u původního Qi2.
-- Pouze modely Pixel 10 Pro a Pixel 10 Pro XL podporují Qi2.2; základní Pixel 10 a Pixel 10 Pro Fold nabíjejí bezdrátově maximálně 15 W.
-- Rychlé bezdrátové nabíjení vyžaduje kompatibilní telefon i nabíječku – obě musí podporovat Qi2.2.
-- Širší přijetí standardu Qi2 mezi výrobci (např. Samsung v roce 2026) by mohlo výrazně posílit ekosystém.
+- Pixelsnap je Googlem pojmenovaná implementace standardu Qi2 pro bezdrátové nabíjení s magnetickým přichycením.
+- Standard Qi2.2 zvyšuje maximální výkon bezdrátového nabíjení z 15 W na 25 W.
+- Pouze modely Pixel 10 Pro a Pro XL podporují Qi2.2; základní Pixel 10 a Pixel 10 Pro Fold nabíjejí bezdrátově maximálně 15 W.
+- Plné využití rychlého nabíjení vyžaduje kompatibilní nabíječku i telefon.
+- Širší přijetí Qi2.2 mimo ekosystém Apple by mohlo posílit konkurenceschopnost Android zařízení.
 
 ## Podrobnosti
-Pixelsnap není novou technologií, ale spíše Googlovým marketingovým označením pro podporu standardu Qi2, který přebírá magnetický profil (Magnetic Power Profile, MPP) původně vyvinutý Applim pro MagSafe. Tento profil zajišťuje přesné přichycení telefonu k nabíječce pomocí vestavěných magnetů, což zvyšuje efektivitu přenosu energie a stabilitu při nabíjení. Standard Qi2.2, který následuje krátce po Qi2, zdvojnásobuje maximální výkon z 15 W na 25 W. To je stále méně než u kabelového nabíjení – Pixel 10 Pro a Pro XL podporují až 45 W přes USB-C – ale pro mnoho uživatelů je výhodou pohodlí bezdrátového řešení.
-
-Je však důležité si uvědomit, že ne všechny modely Pixel 10 sérii podporují Qi2.2. Základní Pixel 10 a skládací Pixel 10 Pro Fold jsou omezeny na 15 W bezdrátově a 30 W přes kabel. Navíc trh s Qi2.2 nabíječkami je stále v počátcích, takže uživatelé musí pečlivě kontrolovat kompatibilitu při nákupu periferií. Pro uživatele mimo ekosystém Apple to přesto představuje významný krok vpřed, protože umožňuje využívat širší škálu magnetických držáků, stojanů nebo selfie-tyčí bez nutnosti držet se jednoho výrobce.
+Pixelsnap je Googlem zavedený marketingový názek pro bezdrátové nabíjení podle standardu Qi2, který zahrnuje tzv. Magnetic Power Profile (MPP) – technologii původně vyvinutou Applim pro MagSafe. Tato funkce umožňuje přesné magnetické přichycení telefonu k nabíječce, což zvyšuje efektivitu přenosu energie a zároveň usnadňuje použití doplňků, jako jsou stojany nebo selfie-tyče. Nový standard Qi2.2 dále zvyšuje maximální výkon bezdrátového nabíjení na 25 W, což je téměř dvojnásobek oproti předchozímu Qi2 (15 W). Nicméně tuto rychlost podporují pouze vyšší modely řady Pixel 10 – konkrétně Pixel 10 Pro a Pro XL. Základní model Pixel 10 i skládací Pixel 10 Pro Fold jsou omezeny na 15 W bezdrátově a 30 W přes USB-C. Navíc trh s Qi2.2 kompatibilními nabíječkami je stále omezený, což komplikuje plné využití této technologie. Uživatelé tak musí pečlivě kontrolovat kompatibilitu jak telefonu, tak periferního zařízení.
 
 ## Proč je to důležité
-Rozšíření standardu Qi2 mimo Apple ekosystém je strategickým posunem směrem ke sjednocení bezdrátového nabíjení v celém průmyslu. Pokud se k němu připojí i další velcí výrobci, jako je Samsung (dle zatím nepotvrzených informací možná až v roce 2026), může se Qi2 stát univerzálním řešením pro mobilní zařízení. Pro uživatele to znamená větší volbu příslušenství a lepší kompatibilitu mezi různými značkami. Pro Google je Pixelsnap součástí snahy posílit ekosystém kolem Pixelů a konkurovat Appli nejen výkonem, ale i pohodlným používáním.
+Rozšíření standardu Qi2 a jeho aktualizace Qi2.2 mimo Applův ekosystém je strategickým krokem pro ekosystém Android. Pokud se k němu připojí i další výrobci, jako je Samsung (dle zpráv možná až v roce 2026), může se magnetické bezdrátové nabíjení stát univerzálním prvkem pro širokou škálu zařízení. Pro uživatele to znamená větší pohodlí a kompatibilitu mezi různými značkami, aniž by byli vázáni na proprietární řešení jednoho výrobce. Pro Google je Pixelsnap součástí snahy posílit hodnotu vlastního hardwarového ekosystému a přilákat uživatele, kteří hledají alternativu k Applu, ale nechtějí obětovat moderní funkce.
 
 ---
 

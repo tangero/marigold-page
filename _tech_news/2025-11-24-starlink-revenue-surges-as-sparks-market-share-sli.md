@@ -6,8 +6,8 @@ companies:
 - Spark
 date: '2025-11-24 04:07:30'
 description: Podíl telekomunikační společnosti Spark na tržbách v Novém Zélandu klesl
-  na 21,17 % oproti loňským 28,87 %. Mezitím Starlink, satelitní poskytovatel internetu
-  od SpaceX, zaznamenal výrazný růst, zejména na venkově.
+  na 21,17 % oproti loňským 28,87 %. Současně Starlink zaznamenal výrazný růst, zejména
+  na venkově.
 importance: 3
 layout: tech_news_article
 original_title: Starlink revenue surges as Spark’s market share slips in Commerce
@@ -26,20 +26,24 @@ urlToImageBackup: https://www.nzherald.co.nz/resizer/v2/LA6MAA3XIZA53JP3AEC7VUXU
 ---
 
 ## Souhrn
-Podle nejnovější zprávy novozélandské Commerce Commission ztrácí tradiční telekomunikační operátor Spark podíl na trhu, zatímco satelitní internetová služba Starlink od společnosti SpaceX zaznamenává výrazný růst. Starlink nyní pokrývá 19 % venkovského trhu a poprvé překročil hranici 100 milionů novozélandských dolarů v příjmech.
+Podle nejnovější zprávy novozélandské Commerce Commission ztrácí tradiční telekomunikační operátor Spark tržní podíl, zatímco satelitní poskytovatel internetu Starlink zaznamenává prudký růst. Starlink nyní generuje více než 73 milionů dolarů z telekomunikačních služeb v Novém Zélandu a obsluhuje 19 % venkovského trhu.
 
 ## Klíčové body
-- Podíl Sparku na tržbách z telekomunikací klesl z 28,87 % na 21,17 % za poslední rok.
+- Tržní podíl Sparku klesl z 28,87 % na 21,17 % za poslední rok.
 - Starlink má nyní 58 000 zákazníků v Novém Zélandu, což je nárůst o 57 % oproti předchozímu roku.
-- Starlink generoval v roce 2024 příjmy ve výši 73,79 milionu NZD z telekomunikačních služeb.
-- Služba pokrývá 19 % venkovského trhu a 2 % celkového trhu s internetem.
-- Novozélandská vláda uvažuje o navýšení Telecommunications Development Levy na 50 milionů NZD ročně pro rozvoj venkovské infrastruktury.
+- Starlink pokryl 19 % venkovského trhu a 2 % celkového telekomunikačního trhu.
+- SpaceX (mateřská společnost Starlinku) překročila práh 10 milionů dolarů pro placení Telecommunications Development Levy.
+- Noví hráči, jako jsou energetické společnosti nabízející balíčky služeb (např. Mercury), také získávají na tržním podílu.
 
 ## Podrobnosti
-Zpráva Commerce Commission, která sleduje tržní podíly telekomunikačních poskytovatelů v Novém Zélandu, ukazuje výrazný posun ve prospěch nových hráčů. Spark, dříve dominantní poskytovatel, nyní čelí konkurenci nejen od energetických společností jako Mercury, které nabízejí balíčky služeb spojující energii a internet, ale i od globálních satelitních operátorů. Starlink, který vstoupil na novozélandský trh v roce 2021, využívá síť satelitů na nízké oběžné dráze (LEO – low-Earth orbit) a poskytuje širokopásmové připojení prostřednictvím antény instalované u zákazníka. V roce 2024 dosáhl příjmů 73,79 milionu NZD, což jej poprvé přiblížilo k prahové hodnotě 100 milionů NZD pro povinnost placení Telecommunications Development Levy – poplatku určeného na rozvoj neziskové telekomunikační infrastruktury, jako je venkovský internet nebo vylepšení tísňové linky 111.
+Starlink, satelitní internetová služba provozovaná společností SpaceX, vstoupila na novozélandský trh v roce 2021 a od té doby zaznamenává výrazný růst. Podle červnové zprávy Commerce Commission vzrostl počet jejích zákazníků z 37 000 na 58 000 během jednoho roku. Tento nárůst odpovídá 19% podílu na venkovském trhu s připojením k internetu, což je významný posun v oblasti, kde tradiční pevné připojení často chybí nebo je neekonomické. Celkově Starlink nyní reprezentuje 2 % tržeb celého telekomunikačního sektoru v zemi.
+
+Současně tradiční operátor Spark, dříve dominantní hráč, ztrácí podíl na trhu – z 28,87 % v předchozím roce na 21,17 % nyní. Tento trend pokračuje již pět let a je podle regulátoru ovlivněn vstupem nových poskytovatelů, zejména energetických firem jako Mercury, které nabízejí kombinované balíčky energie a internetu. Tyto balíčky odpovídají rostoucí preferenci spotřebitelů po integrovaných službách.
+
+Starlink také poprvé překročil práh 10 milionů dolarů pro placení Telecommunications Development Levy – poplatku používaného na financování neziskových telekomunikačních projektů, jako je rozšíření optiky na venkov nebo modernizace tísňové linky 111.
 
 ## Proč je to důležité
-Růst Starlinku signalizuje změnu v dynamice trhu s internetovými službami, zejména v oblastech s nedostatečnou kabelovou infrastrukturou. Tento trend může podnítit investice do alternativních technologií, jako jsou satelitní nebo bezdrátové sítě, a zároveň oslabit postavení tradičních operátorů. Pro uživatele na venkově to znamená větší výběr a možná i lepší ceny a kvalitu služby. Z hlediska politiky a regulace je však klíčové, zda noví hráči jako Starlink budou plně zapojeni do financování veřejné infrastruktury, což je otázkou budoucích úprav zákona o telekomunikacích.
+Růst Starlinku ukazuje, že LEO (low-Earth orbit) satelitní technologie se stává konkurenceschopnou alternativou k tradičním pevným i mobilním sítím, zejména v geograficky náročných oblastech. Tento trend může podnítit podobné posuny i v jiných zemích s rozsáhlým venkovem, jako je Austrálie, Kanada nebo části Evropy. Pro tradiční operátory jako Spark to znamená nutnost přizpůsobit se nové konkurenci nejen z řad jiných telco, ale i zcela odlišných odvětví. Zároveň to otevírá prostor pro inovace v modelu poskytování služeb – například balíčkování internetu s energií nebo využití satelitní infrastruktury pro zálohování nebo doplnění pozemních sítí.
 
 ---
 

@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: elektromobilita
 date: '2025-11-24 04:19:26'
-description: Na autosalonu v Kantonu byl představen iCaur V27, velký SUV s rozšířeným
-  elektromobilním pohonem (REEV), který kombinuje vzhled klasického Toyoty Land Cruisera
-  s moderní hybridní technologií a dojezdem 200 km v režimu čistě elektrické jízdy.
+description: Na autosalonu v Kantonu byl představen iCaur V27, velký SUV s vzhledem
+  inspirovaným Toyotou Land Cruiser 70. Jedná se o plug-in hybrid s rozsahem 200 km
+  v čistě elektrickém režimu a celkovým dojezdem přes 1 200 km.
 importance: 3
 layout: tech_news_article
 original_title: iCaur V27 debuts in Guangzhou – 5-seat D-segment REEV SUV with Land
@@ -15,28 +15,32 @@ source:
   emoji: 📰
   id: null
   name: Paul Tan's Automotive News
-title: iCaur V27 debutoval v Kantonu – pětimístný SUV s hybridním pohonem, vzhledem
-  inspirovaný Land Cruiserem a dojezdem 200 km v elektrorežimu
+title: iCaur V27 debutoval v Kantonu – pětimístný SUV ve stylu Land Cruisera s dosahem
+  200 km v elektrorežimu
 url: https://paultan.org/2025/11/24/icaur-v27-debuts-in-guangzhou-5-seat-d-segment-reev-suv-with-land-cruiser-styling-200-km-ev-range/
 urlToImage: https://paultan.org/image/2025/11/2025-Auto-Guangzhou-iCaur-V27-Ext-1-1200x800.jpg
 urlToImageBackup: https://paultan.org/image/2025/11/2025-Auto-Guangzhou-iCaur-V27-Ext-1-1200x800.jpg
 ---
 
 ## Souhrn
-Na autosalonu v Kantonu (Auto Guangzhou) debutoval model iCaur V27 – pětimístný SUV ve D-segmentu s rozšířeným elektromobilním pohonem (REEV). Vůz kombinuje retro design inspirovaný Toyotou Land Cruiser 70 s moderní hybridní technologií a nabízí čistě elektrický dojezd 200 km podle čínského cyklu CLTC.
+Na autosalonu v Kantonu (Auto Guangzhou) debutoval čínský SUV iCaur V27, který kombinuje retro design inspirovaný Toyotou Land Cruiser 70 s moderní plug-in hybridní technologií. Vůz nabízí čistě elektrický dojezd 200 km podle čínského cyklu CLTC a celkový dojezd přes 1 200 km.
 
 ## Klíčové body
-- Vůz je vybaven 1,5litrovým turbobenzínovým motorem (142 PS) jako generátorem pro elektromobily
-- Elektrický pohon zajišťují jeden nebo dva elektromotory s výkonem až 455 PS
-- Čistě elektrický dojezd činí 200 km, celkový dojezd přesahuje 1 200 km
-- Rozměry: 5 055 mm délky, 1 976 mm šířky, 1 894 mm výšky, rozvor 2 900 mm
-- Design odkazuje na Land Cruiser 70, ale vůz má unibody karoserii a není určen pro náročný terén
+- Vůz patří do D-segmentu, měří 5 055 mm na délku a je určen pro pět cestujících.
+- Pohání jej 1,5litrový turbo benzinový motor (142 PS) jako rozšiřovač dojezdu a elektrické motory s výkonem až 455 PS.
+- Nabízí se ve verzích s pohonem zadní nebo všech kol.
+- Design záměrně odkazuje na klasický Land Cruiser 70, ale technicky jde o unibody SUV bez uzávěrek diferenciálů.
+- Baterie o kapacitě 34,3 kWh zajišťuje 200 km čistě elektrického dojezdu.
 
 ## Podrobnosti
-iCaur V27 je druhým modelem značky iCaur (lokálně uváděné jako iCar) v Číně po modelu V23. Na rozdíl od čistě elektrických verzí jde o REEV – vozidlo s rozšířeným elektrickým dojezdem, kde spalovací motor slouží výhradně jako generátor pro dobíjení baterie. Podle údajů z čínského ministerstva průmyslu a informatiky (MIIT) pohání V27 1,5litrový turbobenzínový motor o výkonu 142 PS. Elektrický pohon zajišťuje buď jeden motor pro pohon zadní nápravy, nebo dva motory pro pohon všech kol s celkovým výkonem až 455 PS, což umožňuje zrychlení z 0 na 100 km/h za cca 5 sekund. Baterie o kapacitě 34,3 kWh poskytuje čistě elektrický dojezd 200 km podle CLTC cyklu. Vůz měří téměř 5,1 metru na délku, což jej činí konkurentem velkých SUV jako je Land Cruiser 300. Design s hranatými čarami, kulatými světly a vnějším rezervním kolem evokuje klasický Land Cruiser 70, ale jeho unibody konstrukce a absence uzávěrek diferenciálů limitují jeho terénní schopnosti na lehký offroad.
+iCaur V27 je druhým modelem značky iCaur (lokálně uváděné jako iCar) na čínském trhu po modelu V23. Jeho design přímo odkazuje na legendární Toyota Land Cruiser 70 – s hranatými reflektory, výraznými blatníky a vnějším náhradním kolem. Rozměry vozu (5 055 × 1 976 × 1 894 mm, rozvor 2 900 mm) jej řadí mezi největší SUV v nabídce čínských značek a téměř dosahuje rozměrů plnohodnotného Land Cruiseru 300.
+
+Na rozdíl od čistě elektrických modelů značky používá V27 technologii REEV (Range Extended Electric Vehicle), tedy elektromobil s benzinovým generátorem. Podle údajů čínského ministerstva průmyslu a informatiky (MIIT) pohání vůz 1,5litrový turbo motor o výkonu 142 PS, který dobíjí baterii, zatímco trakci zajišťují elektrické motory – buď jeden na zadní nápravě, nebo dva pro pohon všech kol. Celkový výkon dosahuje 455 PS, což umožňuje zrychlení z 0 na 100 km/h za cca 5 sekund.
+
+Přestože vůz vypadá jako terénní, jeho unibody konstrukce a absence uzávěrek diferenciálů jej limitují na lehký offroad. Pro běžného uživatele to znamená, že V27 je spíše rodinným SUV s retro estetikou než skutečným terénním vozidlem.
 
 ## Proč je to důležité
-Vývoj hybridních SUV s retro designem odráží trend čínských výrobců cílit na spotřebitele hledající kombinaci nostalgie a moderní technologie. iCaur, jakožto subznačka Chery, tak rozšiřuje své portfolio o model s vysokým dojezdem a praktickým hybridním řešením, které eliminuje obavy z nedostatku dobíjecí infrastruktury. Tento přístup může ovlivnit i jiné výrobce v Asii i Evropě, kteří hledají kompromis mezi elektromobilitou a spolehlivostí spalovacích motorů.
+iCaur V27 ukazuje, jak čínští výrobci využívají nostalgický design k odlišení svých modelů na přelidněném trhu elektrických SUV. Zároveň demonstruje trend kombinace dlouhého elektrického dojezdu s rozšiřovačem pro eliminaci obav z nedostatku dobíjecí infrastruktury. Tento přístup může být atraktivní zejména v regionech s omezenou sítí nabíječek, ačkoliv technologicky jde o kompromis mezi čistě elektrickými a klasickými vozidly.
 
 ---
 

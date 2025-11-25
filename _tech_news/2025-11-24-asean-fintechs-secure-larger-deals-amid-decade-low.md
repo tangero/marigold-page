@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: fintech
 date: '2025-11-24 03:57:25'
 description: Fintechový sektor v regionu ASEAN zaznamenal v roce 2025 nejnižší objem
-  investic od roku 2016, přesto se průměrná velikost jednotlivých transakcí výrazně
-  zvýšila, zejména u zralých společností ve fázi pozdního růstu.
+  investic od roku 2016, přesto dozrálé společnosti získávají výrazně větší jednotlivé
+  investice.
 importance: 3
 layout: tech_news_article
 original_title: 'ASEAN FinTechs secure larger deals amid decade-low funding: FinTech
@@ -23,20 +23,20 @@ urlToImageBackup: https://cdn.antaranews.com/cache/1200x800/2025/11/24/uob.jpg
 ---
 
 ## Souhrn
-Fintechový sektor v regionu ASEAN prochází v roce 2025 obdobím konsolidace: celkové financování kleslo o 36 % na 835 milionů USD a počet transakcí se propadl o 60 % oproti minulému roku. Přesto průměrná velikost jednotlivých investic vzrostla o 42 %, což ukazuje posun investorů směrem k zralým, ziskovým a škálovatelným společnostem.
+Fintechový sektor v regionu ASEAN prochází v roce 2025 obdobím útlumu: celkové financování kleslo o 36 % na 835 milionů USD a počet uzavřených investičních dohod se propadl o 60 % na pouhých 53 transakcí. Přesto průměrná velikost jednotlivé investice vzrostla o 42 % na 21,4 milionu USD, což ukazuje posun investorů směrem k dozrálým a ziskovým společnostem.
 
 ## Klíčové body
-- Celkové financování v prvních třech čtvrtletích 2025 (9M25) dosáhlo 835 milionů USD – nejnižší hodnoty od roku 2016.
-- Počet investičních transakcí klesl na 53, což je pokles o 60 % meziročně.
-- Průměrná velikost transakce vzrostla na 21,4 milionu USD (+42 % yoy).
-- Zralé fintechové společnosti získaly 67 % veškerého financování v regionu.
-- Tři „mega transakce“ o celkové hodnotě téměř 450 milionů USD ovlivnily průměr pro pozdní fáze vývoje.
+- Celkové financování v prvních třech čtvrtletích 2025 (9M25) dosáhlo nejnižší úrovně od roku 2016.
+- Počet investičních dohod klesl o 60 % meziročně.
+- Průměrná velikost jednotlivé investice vzrostla na 21,4 milionu USD.
+- Dozrálé fintechové společnosti (late-stage) získaly 67 % celkového financování.
+- Tři „mega investice“ o celkové hodnotě téměř 450 milionů USD ovlivnily průměr.
 
 ## Podrobnosti
-Podle zprávy *FinTech in ASEAN 2025: Navigating the New Realities*, kterou společně vydaly UOB, PwC Singapore a Singapore FinTech Association (SFA), se investorští aktéři v reakci na makroekonomickou nejistotu a tržní volatilitu zaměřují na společnosti s prokázanou udržitelností a schopností generovat zisky. Zatímco v minulých letech převládaly investice do raných fází s cílem rychlého růstu, nyní dominují transakce ve fázi Series C a dále. Průměrná investice do společností v pozdní fázi dosáhla 112 milionů USD – nárůst o 40 % meziročně. Singapur si udržel postavení hlavního fintechového centra v regionu, což potvrzuje jeho roli jako klíčového uzlu pro kapitál, regulaci i inovace. Mezi šesti největšími ekonomikami ASEAN (Singapur, Indonésie, Thajsko, Malajsie, Filipíny, Vietnam) se snížila jak aktivita investorů, tak počet nových startupů hledajících kapitál.
+Podle zprávy *FinTech in ASEAN 2025: Navigating the New Realities*, kterou společně vydaly banka UOB, PwC Singapore a Singapore FinTech Association (SFA), se investoři v reakci na makroekonomickou nejistotu a tržní volatilitu zaměřují na společnosti s prokázanou udržitelností, ziskovostí a škálovatelností. Zatímco v minulých letech převládaly investice do raných fází s důrazem na růst, nyní dominují transakce ve fázi late-stage. Tyto společnosti získaly v 9M25 67 % celkového financování – nárůst o 24 procentních bodů meziročně. Průměrná investice do late-stage společností dosáhla 112 milionů USD, což je meziroční nárůst o 40 %. Tento trend je výsledkem tří výjimečně velkých transakcí („mega deals“) s celkovým objemem téměř 450 milionů USD. Singapur si udržel postavení hlavního fintechového centra regionu, což potvrzuje jeho roli jako klíčového uzlu pro investice a inovace v jihovýchodní Asii.
 
 ## Proč je to důležité
-Tento posun od „růst za každou cenu“ k udržitelnosti a ziskovosti odráží globální trend v tech sektoru, který se projevuje i v Evropě i USA. Pro region ASEAN to znamená konsolidaci trhu, kdy slabší hráči mizí a silné platformy získávají větší podíl na trhu i kapitálu. Pro uživatele a podniky to může znamenat stabilnější, lépe regulované a bezpečnější fintechové služby, ale také menší diverzitu a inovační tlak. Pro české investory a startupy může být tento vývoj inspirací k přehodnocení strategie financování a důrazu na tržní udržitelnost před expanzí.
+Tento posun v investičním chování signalizuje zralost celého regionálního fintechového ekosystému. Investorům již nestačí pouze růstové metriky – požadují reálnou ekonomickou udržitelnost. Pro startupy to znamená větší tlak na efektivitu a cestu k zisku, nikoli jen na expanzi. Pro region ASEAN to může vést ke konsolidaci trhu a posílení dominantních hráčů, což má dlouhodobé dopady na konkurenceschopnost a inovační dynamiku. Zároveň to ukazuje, že i v době globálního útlumu technologického financování existuje prostor pro kvalitní projekty s jasným obchodním modelem.
 
 ---
 
