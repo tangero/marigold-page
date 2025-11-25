@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: umělá inteligence
 date: '2025-11-23 18:24:42'
 description: Nově získané záznamy z Úřadu pro přezkum imigračních řízení (EOIR) odhalily,
-  že soudce John P. Burns využívá umělou inteligenci k přehrávání svých rozhodnutí
-  v imigračním soudu, což vyvolává obavy o transparentnost a automatizaci soudnictví.
+  že soudce John P. Burns využívá umělou inteligenci k předčítání svých rozhodnutí
+  v imigračním soudu, což vyvolává obavy o průhlednost a automatizaci soudního systému.
 importance: 3
 layout: tech_news_article
 original_title: 'Scoop: Judge Caught Using AI to Read His Court Decisions'
@@ -14,27 +14,26 @@ source:
   emoji: 📰
   id: null
   name: Migrantinsider.com
-title: 'Senzace: Soudce používal AI ke čtení svých rozsudků'
+title: 'Senzace: Soudce používal AI ke čtení svých soudních rozhodnutí'
 url: https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read
 urlToImage: https://substackcdn.com/image/fetch/$s_!aq9W!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04e23195-934a-44d4-9f0c-22320239f7d6_1024x681.jpeg
 urlToImageBackup: https://substackcdn.com/image/fetch/$s_!aq9W!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04e23195-934a-44d4-9f0c-22320239f7d6_1024x681.jpeg
 ---
 
 ## Souhrn
-Imigrační soudce John P. Burns v newyorském Broadway Immigration Court používá softwarové nástroje s umělou inteligencí k převodu svých písemných rozsudků do hlasové podoby. Tato praxe, odhalená na základě interních záznamů Úřadu pro přezkum imigračních řízení (EOIR), probíhá bez povinného oznámení účastníkům řízení a využívá mezeru v aktuální politice používání AI v soudnictví.
+Imigrační soudce John P. Burns v newyorském Broadway Immigration Court používá software s umělou inteligencí k převodu psaných rozhodnutí na mluvený projev. Tato praxe, odhalená na základě interních záznamů Úřadu pro přezkum imigračních řízení (EOIR), vyvolává otázky ohledně průhlednosti, odpovědnosti a etiky nasazení AI v soudních procesech.
 
 ## Klíčové body
-- Soudce Burns pravidelně používá text-to-speech software k přehrávání svých rozhodnutí od začátku roku 2025.
-- Interní směrnice EOIR (Policy Memorandum 25‑40) nezakazuje použití generativní AI ani nevyžaduje její odhalení v soudních řízeních.
-- Neexistuje jasné rozlišení mezi použitím AI pro čtení rozhodnutí a jejím použitím pro jejich tvorbu.
+- Soudce Burns pravděpodobně používá text-to-speech (TTS) software k předčítání svých rozhodnutí.
+- Vnitřní směrnice EOIR z srpna 2025 (Policy Memorandum 25‑40) nezakazuje použití generativní AI ani nevyžaduje její odhalení.
 - Burns je považován za jednoho z nejpřísnějších imigračních soudců v USA.
-- Praxe probíhá v prostředí, kde imigrační soudy trpí chronickým přeplněním a nedostatkem personálu.
+- Praxe probíhá bez povinného informování účastníků řízení o použití AI.
 
 ## Podrobnosti
-Podle dokumentů získaných médiem Migrant Insider používá soudce Burns tzv. „voice rendering“ software – pravděpodobně pokročilý text-to-speech systém – k přehrávání svých písemných rozhodnutí během slyšení. Jeho asistenti potvrdili, že tato metoda je v jeho soudní síni běžná od letošního začátku. Zatím není jasné, zda AI pomáhá i při samotné tvorbě rozsudků, nebo jen při jejich hlasovém předčítání. Interní směrnice EOIR z srpna 2025 (Policy Memorandum 25‑40) sice uznává možnost použití generativní AI, ale nezavádí žádné povinnosti ohledně transparentnosti ani kontroly. Tím vzniká prostor pro individuální interpretaci a nejednotnou praxi mezi soudci. Vzhledem k tomu, že imigrační soudy v USA nejsou součástí nezávislého soudního systému, ale spadají pod ministerstvo spravedlnosti, je jejich fungování často kritizováno za politizované rozhodování a nedostatek procesních záruk.
+Podle záznamů získaných médiem Migrant Insider začal soudce Burns v průběhu roku 2025 používat tzv. „voice rendering“ software – pravděpodobně pokročilý text-to-speech systém – k předčítání svých psaných rozhodnutí v soudní síni. Zatím není jasné, zda AI používá i ke generování obsahu rozhodnutí, nebo jen k jejich hlasovému převodu. Vnitřní směrnice EOIR č. 25‑40 zveřejněná v srpnu 2025 sice uznává možnost použití generativní AI v imigračních soudních řízeních, ale nezavádí žádné povinné požadavky na transparentnost ani standardy pro její nasazení. Tím vzniká právní šedá zóna, kterou Burns využívá jako jeden z prvních soudců. Jeho asistenti potvrdili, že hlasový software je nyní běžnou součástí jeho rozhodovací praxe. Burns je známý svým přísným přístupem k žadatelům o azyl – jeho míra zamítnutí žádostí přesahuje průměr USA.
 
 ## Proč je to důležité
-Tento případ odhaluje rizika spojená s nekontrolovanou automatizací veřejných institucí, zejména v citlivých oblastech jako je soudnictví. Přestože použití text-to-speech technologie samo o sobě nemusí být problematické, absence povinného oznámení a možnost rozšíření AI na samotnou tvorbu rozhodnutí ohrožují principy spravedlivého procesu. Navíc v kontextu přeplněných imigračních soudů může tlak na efektivitu vést k nahrazení lidského úsudku algoritmickými zkratkami. Tento případ může sloužit jako varovný signál pro další jurisdikce, aby stanovily jasné hranice pro nasazení AI v právním prostředí.
+Tento případ ilustruje rizika neřízeného nasazování AI v citlivých oblastech veřejné správy, zejména v soudnictví, kde důvěra, průhlednost a lidský soudní úsudek hrají klíčovou roli. Absence povinného odhalení použití AI může podkopat důvěru účastníků řízení a ztížit odvolání nebo přezkum rozhodnutí. Zároveň to ukazuje, jak rychle se AI stává součástí institucionálních procesů bez dostatečné regulace. V kontextu globálního trendu automatizace veřejných služeb je tento případ varováním, že bez jasných pravidel může AI vést ke ztrátě lidské dimenze v rozhodování o osudech jednotlivců.
 
 ---
 

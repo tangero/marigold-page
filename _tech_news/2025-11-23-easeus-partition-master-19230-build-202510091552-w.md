@@ -4,9 +4,8 @@ category: diskové nástroje
 companies:
 - Microsoft
 date: '2025-11-23 18:20:28'
-description: Aktualizovaná verze nástroje EaseUS Partition Master zjednodušuje správu
-  diskových oddílů, umožňuje klonování systému, převod MBR na GPT pro Windows 11 a
-  řešení problémů s nedostatkem místa na disku.
+description: Nástroj pro správu diskových oddílů umožňující rozšiřování, klonování
+  a konverzi disků bez přeinstalace systému Windows.
 importance: 3
 layout: tech_news_article
 original_title: EaseUS Partition Master 19.23.0 Build 202510091552 + WinPE
@@ -21,24 +20,22 @@ url: https://post.rlsbb.to/easeus-partition-master-19-23-0-build-202510091552-wi
 ---
 
 ## Souhrn
-Společnost EaseUS vydala novou verzi svého diskového nástroje Partition Master (19.23.0, build 202510091552), která přináší vylepšené funkce pro správu diskových oddílů, klonování systému a přípravu počítačů na upgrade na Windows 11. Nástroj nyní zahrnuje podporu WinPE pro obnovu systému i v případě, že operační systém nenaběhne.
+Společnost EaseUS, známá svými nástroji pro správu úložiště a zálohování dat, vydala novou verzi softwaru Partition Master 19.23.0. Tato verze přináší aktualizovanou podporu pro migraci operačního systému na SSD, konverzi diskových tabulek z MBR na GPT a řešení problémů s nedostatkem místa na disku – vše bez nutnosti přeinstalovat Windows.
 
 ## Klíčové body
-- Možnost rozšíření oddílu bez restartu systému za využití nealokovaného místa
-- Klonování celého systému nebo jednotlivých oddílů pro přechod na nový SSD či HDD
-- Převod systémového disku z MBR na GPT – nutný krok pro instalaci Windows 11
-- Vytvoření bootovacího média (USB/CD/DVD) pomocí WinPE pro opravu systému mimo běžného prostředí Windows
-- Reset hesla lokálního i doménového účtu Windows při ztrátě přístupu
+- Možnost rozšířit nebo sloučit oddíly bez restartu systému
+- Klonování celého systému nebo jednotlivých oddílů na nový disk
+- Konverze systémového disku z MBR na GPT pro kompatibilitu s Windows 11
+- Vytvoření zaveditelného média pomocí WinPE pro opravu nefunkčního systému
+- Nástroje pro obnovení přístupu k systému včetně resetování hesla
 
 ## Podrobnosti
-EaseUS Partition Master je specializovaný software pro správu diskových oddílů, určený především pokročilým uživatelům i IT profesionálům. Nová verze zavádí tzv. „AI smart space adjustment“ – jednoklikovou optimalizaci místa na disku, která automaticky navrhne přerozdělení oddílů. Tato funkce však není založena na skutečné AI, ale na heuristických algoritmech pro analýzu využití disku. Užitečná je zejména pro uživatele, kteří čelí varování „málo místa na disku C“, a chtějí oddíl rozšířit bez ztráty dat.
+EaseUS Partition Master je specializovaný software určený pro pokročilou správu diskových oddílů v prostředí Windows. Verze 19.23.0 přidává podporu pro „jednoklikovou“ optimalizaci volného místa na disku pomocí AI, což v praxi znamená automatické navržení změn velikosti oddílů na základě aktuálního využití. Uživatelé mohou snadno přenést celý operační systém na nový SSD disk, což zlepšuje výkon počítače bez nutnosti ruční reinstalace aplikací a nastavení. Software také řeší běžný problém s plným systémovým oddílem (C:), kdy umožňuje přidělit volné místo z jiných oddílů nebo nerozděleného prostoru bez vypnutí systému.
 
-Klonování systému umožňuje přesun operačního systému i aplikací na nový disk – například při výměně HDD za SSD – bez nutnosti reinstalace Windows. Nástroj také řeší kompatibilitu se systémem Windows 11, který vyžaduje GPT tabulku oddílů na systémovém disku. Převod z MBR na GPT je v Partition Masteru zjednodušen, ale stále vyžaduje zálohu dat, protože operace může vést ke ztrátě informací při chybě.
-
-Součástí balíčku je technologie WinPE (Windows Preinstallation Environment), která umožňuje vytvořit bootovací médium pro opravu poškozeného systému, obnovu dat z nefunkčního disku nebo reset hesla. Tato funkce je obzvláště cenná pro správce sítí nebo servisní techniky.
+Zásadní funkcí je integrace technologie WinPE (Windows Preinstallation Environment), která umožňuje vytvořit zaveditelné USB nebo DVD. Toto médium lze použít k opravě počítače, který se již nespustí do Windows – například pro obnovení poškozeného zaváděcího sektoru, resetování zapomenutého hesla nebo záchranné zkopírování dat z nefunkčního disku. EaseUS tak poskytuje komplexní řešení pro správu úložiště i pro krizové situace.
 
 ## Proč je to důležité
-I když se nejedná o průlomovou technologii, aktualizace EaseUS Partition Masteru řeší reálné problémy běžných i pokročilých uživatelů – zejména v kontextu migrace na Windows 11 a modernizace úložišť. V době, kdy SSD disky jsou stále dostupnější, je schopnost bezpečně přenést systém bez reinstalace klíčová pro udržení produktivity. Nástroj tak doplňuje ekosystém utilit pro správu Windows, které Microsoft sám neposkytuje v dostatečném rozsahu.
+I když se nejedná o průlomovou technologii, aktualizace Partition Masteru řeší reálné potíže běžných i pokročilých uživatelů – zejména v kontextu přechodu na Windows 11, který vyžaduje GPT tabulku a TPM 2.0. Nástroj zjednodušuje jinak technicky náročné úkony jako migrace systému nebo oprava zavádění, což snižuje závislost na profesionální podpoře. V širším měřítku takové nástroje podporují udržitelnost hardwaru – uživatelé mohou prodloužit životnost starších počítačů modernizací úložiště bez nutnosti koupě nového zařízení.
 
 ---
 

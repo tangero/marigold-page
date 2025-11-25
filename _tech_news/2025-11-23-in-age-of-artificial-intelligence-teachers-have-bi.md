@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: vzdělávání
 date: '2025-11-23 17:59:55'
 description: Dr. Syed Darakhshan Andrabi, předsedkyně Waqf Boardu v Jammu a Kašmíru,
-  zdůraznila na slavnostním zasedání Spring Buds School důležitost učitelů v éře umělé
-  inteligence a potřebu připravit děti na budoucnost založenou na vědě a technologiích.
+  vyzvala učitele, aby aktivně formovali myšlení dětí v éře umělé inteligence a připravovali
+  je na budoucnost založenou na vědě a technologiích.
 importance: 3
 layout: tech_news_article
 original_title: 'In age of artificial intelligence, teachers have bigger roles to
@@ -22,24 +22,19 @@ urlToImageBackup: https://statetimes.in/wp-content/uploads/2023/03/319526318_572
 ---
 
 ## Souhrn
-Na slavnostním zasedání Spring Buds School v Ompora Budgam vystoupila Dr. Syed Darakhshan Andrabi s projevem, ve kterém zdůraznila, že v době rozvoje umělé inteligence (AI) mají učitelé klíčovou roli při rozvíjení kritického myšlení a globální připravenosti dětí. Upozornila na nutnost vytvářet podnětné vzdělávací prostředí zaměřené na vědu a technologie.
+Na výročním slavnostním shromáždění Spring Buds School v Ompoře (okres Budgam, Jammu a Kašmír) vystoupila Dr. Syed Darakhshan Andrabi s projevem, ve kterém zdůraznila klíčovou roli učitelů v éře umělé inteligence. Podle ní musí vzdělávací systém připravit děti na svět, kde dominují věda, technologie a globální občanství.
 
 ## Klíčové body
-- Učitelé hrají v éře AI zásadní roli při rozšiřování myšlenkových horizontů dětí.
-- Vzdělávací instituce musí vytvářet podmínky pro rozvoj vědeckého a technologického myšlení.
-- Budoucnost patří vědě a technologiím – nová generace se musí stát jejich lídry.
-- Inkluzivita je klíčovým principem moderního vzdělávání.
-- Škola prezentovala vědecké a kulturní výstavy vytvořené studenty.
+- Učitelé mají v době rozvoje AI zásadní roli při rozvíjení kritického myšlení a kreativity u dětí.
+- Vzdělávací instituce musí vytvářet podnětné prostředí pro rozvoj technologické gramotnosti.
+- Budoucnost patří vědě a technologiím – nová generace se musí stát jejich tvůrci, nikoli pouze spotřebiteli.
+- Inkluzivita a rovný přístup ke vzdělání jsou nezbytné pro konkurenceschopnost v globálním měřítku.
 
 ## Podrobnosti
-Dr. Syed Darakhshan Andrabi, předsedkyně Waqf Boardu v Jammu a Kašmíru, vystoupila jako hlavní host na letošním ročním slavnostním zasedání Spring Buds School. Během svého projevu před studenty, učiteli, rodiči i zástupci veřejné správy uvedla, že současná doba je obdobím intenzivního rozvoje vědy, technologií a umělé inteligence. V tomto kontextu podle ní učitelé neztrácejí na významu – naopak, jejich role se posiluje, protože AI sice zpracovává informace, ale lidský učitel formuje myšlení, etiku a schopnost aplikovat poznatky v reálném světě.
-
-Zdůraznila, že vzdělávací systém musí být orientován na přípravu dětí na globální soutěž ve vědeckých a technologických oborech. To zahrnuje nejen osvojení technických dovedností, ale také rozvoj kreativity, kritického myšlení a schopnosti spolupráce. Dr. Andrabi také zmínila, že inkluzivita – tedy zapojení všech dětí bez ohledu na pohlaví, sociální postavení či geografickou polohu – je nezbytným předpokladem pro budoucí rozvoj.
-
-Součástí akce byla i návštěva studentských výstav vědy a poznání, které demonstrovaly praktické dovednosti žáků a jejich schopnost aplikovat teoretické znalosti.
+Dr. Darakhshan Andrabi, předsedkyně Waqf Boardu v Jammu a Kašmíru, vystoupila jako hlavní host na akci Spring Buds School, kde ocenila výkony žáků v akademických i mimoškolních aktivitách. Během svého projevu před shromážděním rodičů, učitelů, úředníků a veřejnosti uvedla, že současná doba vyžaduje přehodnocení role vzdělávání. Zatímco AI nabízí nástroje pro automatizaci a zpracování informací, lidský učitel zůstává nezbytný pro formování etického, kritického a tvořivého myšlení. Důraz kladla na nutnost rozšiřovat myšlenkové obzory dětí, aby se staly „globálními občany“ schopnými přispívat k technologickému pokroku, nikoli jen ho pasivně spotřebovávat. Zároveň zdůraznila, že inkluzivita – tedy rovný přístup ke kvalitnímu vzdělání pro všechny děti bez ohledu na pohlaví, socioekonomické postavení či geografickou polohu – je klíčová pro to, aby region nezůstal pozadu v globální technologické soutěži.
 
 ## Proč je to důležité
-I když se nejedná o technologický průlom, projev Dr. Andrabi odráží širší globální diskusi o roli vzdělávání v éře AI. Zatímco technologie rychle naplňují pracovní trh, vzdělávací systémy často zaostávají v přípravě studentů na nové požadavky. Tento přístup – kdy se zdůrazňuje lidský faktor učitele jako protiváhu k algoritmům – je klíčový pro udržitelný rozvoj společnosti. V kontextu rozvojových regionů, jako je Kašmír, může taková vize přispět k vyšší digitální i vědecké gramotnosti nové generace.
+Tento projev odráží širší globální diskusi o roli lidského vzdělávání v době, kdy AI modely jako GPT, Gemini nebo Llama nabývají schopností, které dříve vyžadovaly lidskou inteligenci. Zatímco technologie mohou zefektivnit výuku, nemohou nahradit pedagoga jako průvodce v rozvoji charakteru, etiky a schopnosti řešit neznámé problémy. Dr. Darakhshanova výzva je významná zejména pro regiony s omezeným přístupem k digitálním technologiím, kde hrozí riziko digitální propasti. Její stanovisko podporuje koncepci „human-centrické AI“, kde technologie slouží jako nástroj, nikoli jako cíl vzdělávání.
 
 ---
 

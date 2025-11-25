@@ -3,14 +3,13 @@ author: Marisa Aigen
 category: diskriminace
 date: '2025-11-23 17:40:31'
 description: Průlomový průzkum ve Spojených státech odhalil rozsáhlou diskriminaci
-  lidí z kasty Dalitů mimo Jižní Asii. Aktivistka Thenmozhi Soundararajanová iniciovala
-  výzkum, který dokumentuje fyzické útoky, vzdělávací a pracovní diskriminaci.
+  podle kasty mezi příslušníky skupiny Dalitů, což vyvrací názor, že se tento problém
+  omezuje pouze na jižní Asii. Aktivistka Thenmozhi Soundararajanová iniciovala výzkum,
+  který dokumentuje fyzické útoky, vzdělávací a pracovní diskriminaci.
 importance: 3
 layout: tech_news_article
 original_title: 'Caste Discrimination in US: Dalit Activist Thenmozhi Soundararajan''s
   Groundbreaking Survey and Advocacy'
-people:
-- Thenmozhi Soundararajan
 publishedAt: '2025-11-23T17:40:31+00:00'
 slug: caste-discrimination-in-us-dalit-activist-thenmozh
 source:
@@ -25,20 +24,20 @@ urlToImageBackup: https://static.toiimg.com/thumb/msid-125523143,width-1070,heig
 ---
 
 ## Souhrn
-Průzkum provedený organizací Equality Labs ve Spojených státech odhalil, že diskriminace podle kastovního systému není omezena na Jižní Asii, ale je přítomna i v americké společnosti. Aktivistka Thenmozhi Soundararajanová, spoluzakladatelka této organizace, dokumentovala systematické projevy útlaku vůči Dalitům v oblastech vzdělání, zaměstnání i každodenního života.
+Průzkum provedený v USA odhalil, že diskriminace podle kasty postihuje významnou část příslušníků skupiny Dalitů i mimo Indii. Aktivistka Thenmozhi Soundararajanová, spoluzakladatelka organizace Equality Labs, iniciovala první celonárodní šetření na toto téma, jehož výsledky odporují běžnému přesvědčení, že kastovní systém neexistuje v západních zemích.
 
 ## Klíčové body
 - Jeden ze čtyř Dalitů ve Spojených státech zažil fyzický nebo slovní útok.
-- Třetina respondentů hlásila diskriminaci ve vzdělávacím prostředí.
-- Dvě třetiny Dalitů čelily zaujatosti na pracovišti.
-- Více než polovina žije ve strachu z „odhalení“ své kastovní příslušnosti.
-- Soundararajanová prosazuje „debrahminizaci“ technologií, aby se zabránilo digitálnímu apartheidu.
+- Třetina respondentů uvedla diskriminaci ve vzdělávání, dvě třetiny pak pracovní nevýhody.
+- Více než polovina žije ve strachu z odhalení své kastovní příslušnosti.
+- Výsledky průzkumu podpořily legislativní snahy proti kastovní diskriminaci, zejména v Kalifornii.
+- Soundararajanová vyzývá k „debrahminizaci“ technologií, aby se zabránilo vzniku digitální apartheidu.
 
 ## Podrobnosti
-V roce 2015 spustila Thenmozhi Soundararajanová první celonárodní průzkum zaměřený na kastovní diskriminaci ve Spojených státech. Výsledky odhalily, že kastovní hierarchie přetrvávají i v diaspoře, přestože mnozí příslušníci vyšších kast tento problém popírají. Organizace Equality Labs, kterou Soundararajanová spoluzaložila, se zabývá občanskými právy Dalitů a bojuje proti strukturální nerovnosti. Její práce přispěla k legislativním iniciativám v Kalifornii, které mají za cíl zakázat diskriminaci na základě kasty. Soundararajanová dále upozorňuje na rizika v oblasti technologií: algoritmy a digitální platformy mohou reprodukovat kastovní předsudky, pokud nejsou navrženy s ohledem na rozmanitost a spravedlnost. Proto požaduje „debrahminizaci“ technologií – proces, při němž se odstraňují dominantní kastovní perspektivy z návrhu softwaru, AI modelů a digitálních služeb.
+V roce 2015 Thenmozhi Soundararajanová, aktivistka a spoluzakladatelka organizace Equality Labs – občanskoprávní skupiny zaměřené na práva Dalitů – iniciovala první celonárodní průzkum kastovní diskriminace ve Spojených státech. Výsledky byly překvapivé i pro odbornou veřejnost: 25 % Dalitů uvedlo, že bylo vystaveno fyzickému či slovnímu útoku, 33 % zaznamenalo diskriminaci ve vzdělávacích institucích a 66 % čelilo nerovnému zacházení v zaměstnání. Přes 50 % respondentů uvedlo, že se bojí odhalit svou kastovní identitu kvůli možným důsledkům. Tyto zjištění přicházejí v době, kdy mnozí příslušníci vyšších kast z jižní Asie tvrdí, že kastovní systém v západním kontextu „neexistuje“ nebo „není relevantní“. Průzkum však jasně ukazuje opak – že kastovní hierarchie se přenášejí i do technologických center jako Silicon Valley, kde působí tisíce profesionálů z jižní Asie. Soundararajanová nyní vyzývá k přehodnocení technologických systémů, zejména AI a algoritmů, které mohou reprodukovat nebo zhoršovat existující sociální nerovnosti.
 
 ## Proč je to důležité
-Tento průzkum poprvé kvantifikoval rozsah kastovní diskriminace mimo tradiční geografický kontext, což má důsledky pro politiku, technologický průmysl i veřejné vědomí. V době, kdy AI a algoritmy rozhodují o přístupu k zaměstnání, vzdělání či úvěrům, je nezbytné zajistit, aby nezakotvily historické nerovnosti v digitální podobě. Soundararajanová tak otevírá důležitou debatu o etice technologií a zodpovědnosti vývojářů v globálním kontextu.
+Tento průzkum má významné dopady pro technologický sektor, zejména v oblasti etiky AI a spravedlivého návrhu softwaru. Pokud technologické firmy ignorují sociální kontext svých zaměstnanců a uživatelů, riskují reprodukci diskriminačních struktur i v digitálním prostředí. Soundararajanová varuje před „digitálním apartheidem“, kdy by algoritmy mohly nevědomky posilovat kastovní předsudky – například při náboru, hodnocení kreditního rizika nebo moderaci obsahu. Její výzva k „debrahminizaci“ technologií znamená nutnost zapojit do vývoje softwaru i ty, kteří historicky byli vyloučeni z technologického diskurzu.
 
 ---
 

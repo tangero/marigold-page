@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
-category: zdravotnická technik
+category: zdravotnické technol
 companies:
 - GE HealthCare
 - Intelerad
 date: '2025-11-23 18:19:11'
-description: Společnost GE HealthCare oznámila akvizici Intelerad, odborníka na softwarová
-  řešení pro medicínské zobrazování. Tento krok má posílit její pozici v rychle se
-  digitalizujícím zdravotnictví.
+description: Společnost GE HealthCare oznámila akvizici Intelerad, odborníka na platformy
+  pro správu a analýzu medicínského zobrazování. Tento krok posiluje její pozici v
+  rychle se digitalizujícím zdravotnictví.
 importance: 4
 layout: tech_news_article
 original_title: Monday Morning Update 11/24/25
@@ -17,26 +17,28 @@ source:
   emoji: 📰
   id: null
   name: Histalk2.com
-title: GE HealthCare odkoupí společnost Intelerad – posílení v oblasti medicínského
+title: GE HealthCare přebírá společnost Intelerad – posílení v oblasti medicínského
   zobrazování
 url: https://histalk2.com/2025/11/23/monday-morning-update-11-24-25/
 ---
 
 ## Souhrn
-GE HealthCare, jedna z největších firem v oblasti zdravotnické techniky, oznámila plán na akvizici kanadské společnosti Intelerad Medical Systems. Intelerad se specializuje na pokročilé softwarové platformy pro správu a analýzu medicínských obrazových dat, jako jsou rentgeny, CT a MRI. Tato akvizice podtrhuje strategický posun GE HealthCare směrem k integraci AI a cloudových technologií do diagnostických pracovních postupů.
+GE HealthCare, jedna z největších firem v oblasti zdravotnických technologií, oznámila plán na akvizici společnosti Intelerad Medical Systems. Intelerad se specializuje na cloudové platformy pro správu, ukládání a analýzu medicínských obrazových dat (PACS – Picture Archiving and Communication System). Tato akvizice posiluje schopnosti GE HealthCare v oblasti AI podporované diagnostiky a integrace dat z různých zobrazovacích modalit.
 
 ## Klíčové body
-- GE HealthCare plánuje akvizici Intelerad za nezveřejněnou částku, odhadovanou v řádu stovek milionů dolarů.
-- Intelerad poskytuje Enterprise Imaging Platform, která centralizuje a optimalizuje zpracování obrazových dat napříč nemocnicemi.
-- Společnost má zákazníky ve více než 45 zemích a spravuje více než 1,2 miliardy obrazových studií ročně.
-- Tato akvizice doplňuje dřívější nákup společnosti Caption Health, zaměřené na AI pro ultrazvukovou diagnostiku.
-- Cílem je vytvořit komplexní ekosystém pro radiologii založený na AI, cloudové infrastruktuře a interoperabilitě.
+- GE HealthCare přebírá Intelerad Medical Systems, vedoucího poskytovatele cloudových řešení pro medicínské zobrazování.
+- Intelerad provozuje jednu z největších globálních sítí pro správu obrazových dat, s více než 2 000 klinikami a nemocnicemi po celém světě.
+- Akvizice podporuje strategii GE HealthCare v oblasti Enterprise Imaging a AI-driven diagnostiky.
+- Transakce je oceněna na více než 1 miliardu dolarů, což ji řadí mezi významné akvizice v sektoru zdravotnických technologií.
+- Cílem je vytvořit jednotnou, škálovatelnou platformu pro integraci dat z různých zdrojů (CT, MRI, rentgen, ultrazvuk) a jejich analýzu pomocí AI.
 
 ## Podrobnosti
-Intelerad Medical Systems, založená v roce 1999, vyvinula platformu Enterprise Imaging, která umožňuje zdravotnickým zařízením ukládat, sdílet a analyzovat obrazová data z různých zdrojů – od radiologie až po patologii. Platforma podporuje standardy jako DICOM a HL7 a integruje se s elektronickými zdravotními záznamy (EHR). Díky cloudové architektuře umožňuje i vzdálenou spolupráci mezi odborníky a rychlejší diagnostiku. Pro GE HealthCare, která tradičně vyrábí zobrazovací přístroje (CT, MRI, ultrazvuk), představuje Intelerad klíčový krok k transformaci z výrobce hardwaru na poskytovatele integrovaných softwarově-hardware řešení. V posledních letech GE HealthCare intenzivně investuje do AI – například její platforma Edison integruje strojové učení přímo do zobrazovacích systémů pro automatickou detekci patologií.
+Intelerad, založená v roce 1999 a sídlící v Montrealu, vyvinula platformu, která umožňuje zdravotnickým zařízením centralizovaně spravovat obrazová data z různých zobrazovacích systémů. Její řešení jsou postavena na cloudové infrastruktuře a podporují standardy jako DICOM a HL7, což usnadňuje interoperabilitu mezi různými systémy. Platforma také integruje nástroje pro spolupráci radiologů a podporu klinických pracovních postupů.
+
+GE HealthCare v posledních letech intenzivně investuje do digitalizace a AI. V roce 2023 spustila například Edison AI Platform, která umožňuje vývoj a nasazení AI modelů přímo do klinických pracovních postupů. Akvizice Inteleradu poskytne GE HealthCare přístup k rozsáhlé datové základně a zavedené infrastruktuře, která může sloužit jako páteř pro budoucí AI aplikace – například detekci nádorů na CT snímcích nebo kvantifikaci kardiovaskulárních rizik z MRI.
 
 ## Proč je to důležité
-Tato akvizice odráží širší trend v zdravotnictví: přechod od izolovaných diagnostických nástrojů k propojeným, datově řízeným ekosystémům. S rostoucím objemem obrazových dat – odhaduje se, že do roku 2025 bude každá nemocnice generovat petabajty obrazových dat ročně – je kritické mít efektivní systémy pro jejich správu a analýzu. Integrované řešení GE HealthCare s využitím AI může zkrátit dobu diagnostiky, snížit zátěž radiologů a zlepšit přesnost vyšetření. Zároveň to posiluje konkurenční postavení GE HealthCare vůči jiným hráčům, jako jsou Siemens Healthineers nebo Philips, které rovněž expandují do softwarové a AI domény.
+Tato akvizice odráží širší trend v zdravotnictví: konsolidaci datových ekosystémů a integraci AI do klinické praxe. Vzhledem k rostoucímu objemu obrazových dat – odhaduje se, že každý pacient generuje až terabajty dat během života – je efektivní správa a analýza těchto dat klíčová. GE HealthCare tímto krokem nejen posiluje svou konkurenceschopnost vůči jiným hráčům, jako jsou Siemens Healthineers nebo Philips, ale také urychluje adopci AI v diagnostice. Pro nemocnice to může znamenat nižší náklady na IT infrastrukturu, lepší přístup k datům a zrychlení diagnostických procesů.
 
 ---
 

@@ -14,29 +14,29 @@ source:
   emoji: 📰
   id: null
   name: CleanTechnica
-title: Filipíny zahájily první aukci pro offshore větrné elektrárny na pevném podkladu
+title: Filipíny zahájily první aukci pro offshore větrnou elektrárnu na pevném podkladu
 url: https://cleantechnica.com/2025/11/23/first-fixed-bottom-offshore-wind-project-auctions-in-the-philippines-secured/
 urlToImage: https://cleantechnica.com/wp-content/uploads/2025/11/FixedBottomOffshore.jpg
 urlToImageBackup: https://cleantechnica.com/wp-content/uploads/2025/11/FixedBottomOffshore.jpg
 ---
 
 ## Souhrn
-Filipíny zahájily první aukci v rámci programu Green Energy Auction Program Round 5 (GEA-5), která je výhradně zaměřena na offshore větrné elektrárny na pevném podkladu s cílovým výkonem 3,3 gigawattu do let 2028–2030. Tento krok znamená přechod z fáze průzkumu do komerčního nasazení a posiluje postavení země v rámci čisté energetické transformace v Asii.
+Filipíny spustily první aukci Green Energy Auction Program Round 5 (GEA-5), zaměřenou výhradně na offshore větrné elektrárny na pevném podkladu s cílem zajistit 3,3 gigawattu výkonu do let 2028–2030. Tento krok znamená přechod z fáze průzkumu do komerční realizace a posiluje postavení země v rámci čisté energetické transformace v Asii.
 
 ## Klíčové body
 - GEA-5 je první filipínská aukce výhradně pro offshore větrnou energii na pevném podkladu.
-- Cílový instalovaný výkon činí 3,3 GW, dodávka plánována mezi lety 2028 a 2030.
-- Program podporuje cíle energetické politiky vlády prezidenta Marca.
-- Dříve udělené Wind Energy Service Contracts umožnily průzkum desítek gigawattů potenciálu.
-- Preferovaná technologie pevného podkladu je považována za komerčně zralou.
+- Cílem je zajistit 3,3 GW výkonu s provozem mezi lety 2028 a 2030.
+- Projekt podporuje energetické cíle vlády prezidenta Marca.
+- V minulosti již byly uděleny desítky průzkumných smluv, například společnostem BlueFloat Energy a Alternergy.
+- Technologie na pevném podkladu byla zvolena pro její zralost a komerční připravenost.
 
 ## Podrobnosti
-Ministerstvo energetiky Filipín (DoE) potvrdilo, že aukce GEA-5 probíhá podle plánu a její výsledky budou zveřejněny ještě v tomto roce. Jedná se o první soutěžní proces v zemi, který se zaměřuje výhradně na offshore větrnou energii s technologií pevného podkladu (fixed-bottom), tedy na mělkých mořských oblastech, kde lze turbíny přímo ukotvit ke dnu. Tento přístup je v současnosti technologicky zralý a komerčně osvědčený, na rozdíl od plovoucích řešení (floating offshore), která jsou stále ve fázi vývoje a testování.
+Filipínské ministerstvo energetiky (DoE) potvrdilo, že aukce GEA-5 probíhá podle plánu a bude uzavřena ještě v roce 2025. Na rozdíl od předchozích kol, která zahrnovala různé obnovitelné zdroje, je GEA-5 specializovaná výhradně na offshore větrnou energii s pevným zakotvením. Tento typ technologie je vhodný pro mělké pobřežní oblasti, kde lze turbíny instalovat přímo na mořské dno – na rozdíl od plovoucích systémů, které jsou náročnější a dražší.
 
-V minulých letech DoE udělilo desítky tzv. Wind Energy Service Contracts společnostem jako BlueFloat Energy (španělský vývojář specializující se na offshore větrnou energii) a Alternergy (filipínská energetická společnost zaměřená na obnovitelné zdroje). Tyto smlouvy umožnily průzkum mořských oblastí s celkovým potenciálem dosahujícím desítek gigawattů. Nyní se země posouvá ke komerční fázi, kdy jsou klíčové dlouhodobé smlouvy o odběru elektřiny (offtake agreements) a ekonomická udržitelnost projektů.
+V posledních letech DoE udělilo desítky tzv. Wind Energy Service Contracts, které umožňují společnostem jako BlueFloat Energy (španělský vývojář specializující se na offshore větrnou energii) nebo Alternergy (filipínský energetický subjekt) provádět průzkum mořských oblastí. Tyto smlouvy pokrývají desítky gigawattů potenciálu, ale až GEA-5 představuje první krok k dlouhodobým dodávkovým smlouvám a komerčnímu provozu.
 
 ## Proč je to důležité
-Tento krok ukazuje, že Filipíny vážně přistupují ke svému cíli diverzifikace energetického mixu a snižování závislosti na fosilních palivech. V rámci Asie se jedná o relativně pozdní, ale strategicky významný vstup do offshore větrné energetiky. Úspěch GEA-5 může přilákat zahraniční investory a technologické partnery, což by urychlilo výstavbu infrastruktury a snížilo náklady. Zároveň poskytuje referenční model pro další ostrovní a pobřežní země v regionu, které mají podobný geografický potenciál, ale dosud nemají zavedený regulační rámec pro offshore větrnou energii.
+Tento krok signalizuje, že Filipíny se připravují stát se významným hráčem v oblasti offshore větrné energie v Asii. Zatímco země jako Vietnam nebo Japonsko již mají v provozu pilotní projekty, Filipíny teprve vstupují do fáze komerčního nasazení. Úspěch GEA-5 by mohl podpořit investice do místní infrastruktury, vytvořit pracovní místa a snížit závislost na fosilních palivech. Zároveň ukazuje, že země volí technologicky zralá řešení, která minimalizují rizika a zajišťují spolehlivost dodávek – což je klíčové pro rozvoj obnovitelných zdrojů v regionech s omezenou energetickou stabilitou.
 
 ---
 

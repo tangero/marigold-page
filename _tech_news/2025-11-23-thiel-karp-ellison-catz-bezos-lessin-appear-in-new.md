@@ -2,8 +2,8 @@
 author: Marisa Aigen
 category: kybernetika
 date: '2025-11-23 19:57:33'
-description: Uniklá sbírka e-mailů odhaluje úzké vazby mezi technologickými miliardáři,
-  izraelskými politiky a zpravodajskými úředníky.
+description: Uniklé e-maily odhalují úzké vazby mezi technologickými miliardáři, izraelskými
+  politiky a zpravodajskými úředníky.
 importance: 3
 layout: tech_news_article
 original_title: Thiel, Karp, Ellison, Catz, Bezos, Lessin appear in newly leaked Israel
@@ -25,22 +25,23 @@ urlToImageBackup: https://assets.sfstandard.com/image/994911177489/image_6dgtbrv
 ---
 
 ## Souhrn
-Uniklá sbírka e-mailů získaná iránsky spojenou hackerskou skupinou Handala odhaluje těsné spojení mezi předními osobnostmi technologického průmyslu – včetně Petera Thiela, Jeffa Bezose a Larryho Ellise – a izraelskými politiky a diplomaty. Dokumenty ukazují snahy o navázání profesních i osobních kontaktů, včetně nabídek poradenských rolí v bezpečnostních a datových firmách.
+Uniklé e-maily získané iránsky propojenou hackerskou skupinou Handala odhalují rozsáhlé spojení mezi předními osobnostmi technologického průmyslu – včetně Petera Thiela, Jeffa Bezose, Larryho Ellise, Safry Catzové a dalších – a izraelskými politiky a diplomaty. Dokumenty ukazují snahu o navázání strategických vztahů mezi Silicon Valley a izraelským bezpečnostním a politickým establishmentem již od roku 2014.
 
 ## Klíčové body
-- Peter Thiel byl v roce 2014 předmětem zájmu izraelského premiéra Ehuda Baraka a velvyslance Rona Prosora.
-- Ron Prosor se snažil získat poradenskou roli ve firmě Palantir, kterou Thiel spoluzaložil.
-- Jeffrey Epstein figuruje jako spojka mezi technologickou elitou a izraelskými politiky.
-- E-maily byly uniknuty skupinou Handala a publikovány neziskovkou Distributed Denial of Secrets.
-- Komunikace probíhala v období, kdy Silicon Valley intenzivně spolupracoval na vývoji vojenských a bezpečnostních technologií.
+- Jeffrey Epstein se snažil propojit Petera Thiela s bývalým izraelským premiérem Ehudem Barakem.
+- Ron Prosor, tehdejší izraelský velvyslanec u OSN, opakovaně kontaktoval Thiela s cílem získat poradenskou roli v Palantiru.
+- E-maily byly uneseny hackerskou skupinou Handala a zveřejněny neziskovou organizací Distributed Denial of Secrets.
+- Komunikace odhaluje „otáčivé dveře“ mezi technologickým sektorem, politikou a zpravodajskými službami.
 
 ## Podrobnosti
-V dubnu 2014 poslal Jeffrey Epstein, tehdy již veřejně kritizovaný za obvinění ze sexuálního zneužívání nezletilých, e-mail bývalému izraelskému premiérovi Ehudovi Barakovi s nabídkou setkání s Peterem Thielem. Barak odpověděl s evidentním zájmem, i když s překlepem ve jméně („Peter Thiell“). V témže roce izraelský velvyslanec u OSN Ron Prosor poslal Thielovi alespoň šest e-mailů, v nichž se snažil domluvit neformální setkání mimo kancelář a naznačoval zájem o poradenskou roli v Palantiru – firmě specializující se na pokročilou analýzu dat pro bezpečnostní a vládní sektory.
+V dubnu 2014 Jeffrey Epstein, tehdy již veřejně kritizovaný za obvinění ze sexuálního zneužívání nezletilých, napsal Ehudu Barakovi, že má možnost se setkat s Peterem Thielem v New Yorku. Barak odpověděl s velkým zájmem, přestože Thielovo jméno překlepem napsal jako „Thiell“. Thiel je spoluzakladatelem Palantiru, firmy specializující se na pokročilou analýzu dat pro bezpečnostní a zpravodajské účely, a dlouhodobě podporuje projekty s vazbou na národní bezpečnost.
 
-E-maily byly získány hackerskou skupinou Handala, která má údajně vazby na Irán, a následně zveřejněny organizací Distributed Denial of Secrets. Zdroje naznačují, že tyto kontakty nebyly izolované, ale součástí širšího trendu, kdy technologické firmy – zejména ty zaměřené na AI, big data a kybernetickou bezpečnost – hledaly strategické spojenectví s izraelským bezpečnostním a politickým establishmentem. Palantir například dlouhodobě spolupracuje s americkými i izraelskými bezpečnostními složkami.
+Téhož roku Ron Prosor, tehdejší izraelský velvyslanec u OSN, poslal Thielovi alespoň šest e-mailů, ve kterých navrhoval neformální setkání mimo kancelář, pravděpodobně s cílem získat poradenskou pozici v Palantiru. Palantir je známý svými kontrakty s americkými i izraelskými bezpečnostními institucemi a jeho technologie jsou využívány pro sledování hrozeb, analýzu teroristických sítí a logistiku vojenských operací.
+
+Zdroje e-mailů – hackerská skupina Handala a organizace Distributed Denial of Secrets – jsou kontroverzní, což vyžaduje opatrnost při interpretaci. Nicméně dokumenty korespondují s dříve známými vazbami mezi izraelským bezpečnostním aparátem a technologickými firmami z USA.
 
 ## Proč je to důležité
-Tato uniklá korespondence ilustruje rostoucí prolínání mezi technologickým průmyslem, geopolitikou a zpravodajskými strukturami. Pro českého čtenáře je důležité si uvědomit, že firmy jako Palantir nebo Thielovy investice do AI a bezpečnostních technologií mají přímý dopad na globální bezpečnostní architekturu – včetně evropského kontextu. Zároveň to odhaluje, jak osobní sítě a neformální kontakty mezi miliardáři a politiky mohou ovlivňovat směřování technologického vývoje, zejména v citlivých oblastech jako je AI pro vojenské využití nebo prediktivní bezpečnostní analýzy.
+Tato korespondence poskytuje vzácný pohled na propojení mezi technologickým kapitálem, geopolitikou a zpravodajskými operacemi. Ukazuje, jak firmy jako Palantir nebo Amazon (Bezos) nejsou jen komerční subjekty, ale aktivní hráči v mezinárodní bezpečnostní architektuře. Pro technologický sektor to znamená rostoucí závislost na státních zakázkách a zároveň zvýšené riziko reputačních krizí v důsledku politických afér. Pro uživatele a veřejnost je důležité chápat, že technologie vyvíjené v Silicon Valley často slouží nejen spotřebitelům, ale i státním bezpečnostním strukturám s globálním dosahem.
 
 ---
 

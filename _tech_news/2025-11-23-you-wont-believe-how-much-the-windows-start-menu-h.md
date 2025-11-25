@@ -4,9 +4,8 @@ category: historie windows
 companies:
 - Microsoft
 date: '2025-11-23 19:14:09'
-description: K 40. výročí Windows přehledně mapujeme vývoj Start menu od jeho zrodu
-  ve Windows 95 až po současné Windows 11, včetně kontroverzního odbočení ve Windows
-  8.
+description: K 40. výročí Windows se díváme na vývoj Start menu od jeho zrodu ve Windows
+  95 až po současné Windows 11, včetně neúspěšného experimentu s Windows 8.
 importance: 3
 layout: tech_news_article
 original_title: You won't believe how much the Windows Start Menu has changed in 40
@@ -17,31 +16,32 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: Nevěříte, jak moc se Start menu ve Windows změnilo za 40 let – včetně neúspěšného
-  experimentu s Windows 8
+title: Nevěříte, jak moc se Start menu ve Windows změnilo za 40 let – včetně kontroverzního
+  odboče v Windows 8
 url: https://www.windowscentral.com/microsoft/windows/you-wont-believe-how-much-the-windows-start-menu-has-changed-in-40-years
 urlToImage: https://cdn.mos.cms.futurecdn.net/a7fc6PRkCLf9CUnMTEVJxC-1280-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/a7fc6PRkCLf9CUnMTEVJxC-1280-80.jpg
 ---
 
 ## Souhrn
-Start menu, jedna z nejznámějších součástí operačního systému Windows, se za třicet let své existence zásadně proměnilo – od jednoduchého hierarchického seznamu ve Windows 95 po hybridní nástroj s dlaždicemi a klasickými položkami ve Windows 10 a 11. Největší odbočka přišla s Windows 8, které Start menu zcela odstranily ve prospěch dotykově orientovaného rozhraní.
+Start menu, jedna z nejznámějších součástí operačního systému Windows, se za třicet let své existence zásadně proměnilo – od jednoduchého hierarchického seznamu ve Windows 95 po hybridní nástroj s živými dlaždicemi a moderním designem ve Windows 11. Klíčovým mezníkem byl neúspěšný pokus o jeho odstranění ve Windows 8.
 
 ## Klíčové body
-- Start menu bylo poprvé představeno ve Windows 95 jako náhrada za Program Manager z Windows 3.1.
-- Windows 8 zcela odstranily Start menu a nahradily ho Start Screen s živými dlaždicemi, což vyvolalo silnou negativní reakci uživatelů.
-- Windows 10 obnovily klasické menu, ale s integrací moderních dlaždic a vylepšenou přizpůsobitelností.
-- Windows 11 dále zjednodušily design, odstranily skupiny aplikací a přidaly centrové uspořádání.
+- Start menu bylo poprvé představeno ve Windows 95 jako náhrada za Program Manager.
+- Windows 8 zcela odstranily klasické Start menu ve prospěch dotykově orientovaného Start Screenu, což vyvolalo silnou negativní reakci uživatelů.
+- Windows 10 obnovily tradiční podobu menu, ale s integrací živých dlaždic z Windows 8.
+- Windows 11 přinesly minimalistický design s vycentrovaným rozložením a odstraněním některých možností přizpůsobení.
+- Start menu zůstává ústředním prvkem pro spouštění aplikací, přístup ke konfiguraci systému a organizaci pracovního prostředí.
 
 ## Podrobnosti
-Start menu debutovalo 24. srpna 1995 spolu s Windows 95 jako centrální prvek uživatelského rozhraní. Nahradilo dosavadní Program Manager – nástroj, který fungoval jako jednoduchý seznam spustitelných souborů bez hierarchie nebo vyhledávání. Nové menu umožňovalo přístup k programům, dokumentům, nastavení systému a vypnutí počítače v jednom přehledném panelu. Spolu s ním se objevil i panel úloh (taskbar), který se stal trvalou součástí Windows.
+Start menu debutovalo 24. srpna 1995 spolu s Windows 95 jako reakce na nepřehledný Program Manager z Windows 3.1, který fungoval jako jednoduchý seznam spustitelných souborů bez hierarchie nebo logické struktury. Nové menu nabízelo intuitivní přístup k programům, dokumentům a systémovým nastavením a zároveň zavedlo i hlavní panel (taskbar), který se stal nedílnou součástí uživatelského rozhraní.
 
-Vývoj pokračoval v Windows XP a Vista, kde menu získalo vizuálně bohatší vzhled a vyhledávací pole. Windows 7 dále zlepšily přístupnost a rychlost. Skutečný zlom přišel v roce 2012 s Windows 8, které Start menu zcela odstranily ve snaze podpořit dotyková zařízení. Místo něj se objevila celoobrazovková „Start Screen“ s živými dlaždicemi – koncept, který byl kritizován zejména uživateli desktopových počítačů. Microsoft reagoval na kritiku již v roce 2013 s Windows 8.1, které částečně obnovily funkčnost klasického menu.
+Během následujících verzí – Windows 98, ME, XP a Vista – se menu postupně rozšiřovalo o vyhledávání, rychlé spouštění a dynamické prvky. Skutečným zlomem byl vývoj ve Windows 8 (2012), kde Microsoft odstranil klasické Start menu ve prospěch celoobrazovkového Start Screenu s živými dlaždicemi, zamýšleného primárně pro dotyková zařízení. Tento krok však vedl k masivní kritice ze strany desktopových uživatelů, kteří považovali změnu za nepraktickou a matoucí.
 
-Windows 10 (2015) přinesly kompromis: klasické menu s levým sloupcem aplikací a pravou částí s přizpůsobitelnými dlaždicemi. Tento přístup byl široce uznán jako nejvyváženější. Windows 11 (2021) pak menu dále zjednodušily – odstranily skupiny aplikací, přesunuly ikony do středu a omezily možnosti přizpůsobení.
+Ve Windows 8.1 Microsoft částečně ustoupil a umožnil návrat na plochu po spuštění, ale plnohodnotné Start menu se vrátilo až s Windows 10 v roce 2015. Tato verze kombinovala klasickou levou část s hierarchickým seznamem aplikací a pravou část s přizpůsobitelnými živými dlaždicemi. Windows 11 (2021) pak menu zjednodušily, odstranily živé dlaždice a zavedly vycentrované rozložení, což opět vyvolalo debatu o omezení přizpůsobitelnosti.
 
 ## Proč je to důležité
-Vývoj Start menu odráží širší trendy v uživatelském rozhraní: přechod od desktopového k dotykovému ovládání, snahu o jednotné prostředí napříč zařízeními a rostoucí důraz na personalizaci. Zároveň ukazuje, jak i technologické giganty jako Microsoft mohou selhat při interpretaci potřeb uživatelů – jak dokázal neúspěch Windows 8. Pro běžné uživatele zůstává Start menu klíčovým nástrojem pro spouštění aplikací a správu systému, a jeho stabilita a intuitivnost mají přímý dopad na produktivitu a zkušenost s OS.
+Vývoj Start menu odráží širší trendy v interakci člověka s počítačem – od klávesnice a myši přes dotyková rozhraní až po hybridní přístupy. Jeho historie ukazuje, jak i zdánlivě malé prvky uživatelského rozhraní mohou mít zásadní dopad na přijetí celého operačního systému. Zároveň dokumentuje, že i technologické giganty jako Microsoft mohou podlehnout přehnanému zaměření na nové trendy na úkor zavedených a osvědčených uživatelských návyků.
 
 ---
 

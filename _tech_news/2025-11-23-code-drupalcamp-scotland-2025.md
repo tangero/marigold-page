@@ -21,20 +21,20 @@ urlToImageBackup: https://www.hashbangcode.com/sites/default/files/styles/header
 ---
 
 ## Souhrn
-Na konferenci DrupalCamp Scotland 2025, která se konala 7. listopadu na University of Edinburgh, představili Paul McCrodden a Laura Waldoch z University of Cambridge svůj projekt konsolidace více než 500 nezávislých webových stránek univerzity do jednotného systému založeného na Drupalu 11. Cílem je nahradit zastaralou infrastrukturu postavenou na Drupalu 7, která již nedokáže splňovat požadavky na bezpečnost, údržbu a jednotnou správu.
+Na DrupalCampu Scotland 2025, který se konal 7. listopadu na University of Edinburgh, představili Paul McCrodden a Laura Waldoch z University of Cambridge svůj projekt konsolidace více než 500 webových stránek univerzity do jednotné platformy založené na Drupalu 11. Cílem je nahradit zastaralou a nekonzistentní infrastrukturu postavenou na Drupalu 7, který již dosáhl konce životnosti.
 
 ## Klíčové body
-- University of Cambridge provozuje přes 500 různorodých webů na zastaralém Drupalu 7.
-- Nová centralizovaná platforma využívá Drupal 11 a vlastní install profile.
-- Tým analyzoval požadavky všech webů a vytvořil modulární řešení s postupným rozšiřováním funkcí.
-- Migrace, aktualizace i testování jsou plně automatizované.
-- Cílem je zvýšit bezpečnost, snížit náklady na údržbu a zajistit jednotný vizuální i technický standard.
+- University of Cambridge provozuje přes 500 nezávislých webů, mnohé z nich na zastaralém Drupalu 7.
+- Nová centralizovaná platforma bude postavena na Drupalu 11 s vlastním install profilem.
+- Tým využívá automatizaci pro migrace, aktualizace i testování.
+- Architektura je navržena modulárně – začíná jednoduchými stránkami a postupně přidává funkce.
+- Cílem je zvýšit bezpečnost, snížit údržbu a zajistit jednotný vizuální i technický standard.
 
 ## Podrobnosti
-Současná situace na University of Cambridge je typickým příkladem problémů, které řeší mnoho velkých organizací: decentralizovaná správa webů vedla k fragmentaci, kdy každý fakultní nebo výzkumný tým provozuje vlastní web často na různých verzích Drupalu, s různými moduly a bez centrální kontroly. Drupal 7, na kterém mnoho těchto stránek stále běží, dosáhl konce životnosti (end of life) a již nepřijímá bezpečnostní aktualizace. Tým z Cambridge proto vyvinul nový install profile pro Drupal 11, který poskytuje základní sadu funkcí pro jednoduché stránky a umožňuje postupné přidávání pokročilejších komponent podle potřeb konkrétního webu. Klíčovým prvkem celého projektu je automatizace: veškeré migrace, testování a nasazení jsou řízeny skripty, což eliminuje manuální práci při správě stovek webů. Tento přístup nejen zrychluje proces, ale také minimalizuje riziko lidské chyby.
+Současná situace na University of Cambridge je typickým příkladem „webového anarchismu“ – desítky fakult, ústavů a projektů provozují vlastní weby s různými šablonami, funkcemi a úrovněmi bezpečnosti, často na zastaralém Drupalu 7. Tento systém je nyní neudržitelný, protože Drupal 7 již nepodporuje bezpečnostní aktualizace. McCrodden a Waldoch proto vyvíjejí centralizovanou platformu postavenou na Drupalu 11, která bude schopna pokrýt potřeby různorodých uživatelů prostřednictvím jednoho, ale flexibilního install profilu. Klíčovým prvkem je modulární přístup: základní verze poskytuje pouze statické stránky, další funkce (např. formuláře, kalendáře, multijazyčnost) se přidávají podle potřeby jednotlivých týmů. Pro zvládnutí rozsahu projektu – přes 500 webů – tým intenzivně využívá automatizaci. Migrace obsahu, nasazení aktualizací i testování jsou plně automatizované, což výrazně snižuje manuální zásahy a riziko chyb.
 
 ## Proč je to důležité
-Tento projekt je významným příkladem toho, jak velké instituce řeší technologickou dlužnost a fragmentaci webových systémů. Přechod na moderní verzi Drupalu v kombinaci s centralizovanou správou a automatizací může sloužit jako vzor pro další univerzity, státní instituce nebo korporace s podobnou infrastrukturou. Zároveň ukazuje, že i open-source CMS jako Drupal jsou schopny řešit komplexní enterprise potřeby, pokud jsou správně architektovány a podpořeny robustním DevOps přístupem.
+Tento případ ukazuje, jak velké organizace řeší problém fragmentace webových systémů. Centralizace na moderní verzi Drupalu nejen zvyšuje bezpečnost a snižuje náklady na údržbu, ale také umožňuje lepší správu obsahu a jednotný uživatelský zážitek. Zároveň jde o jeden z prvních známých nasazení Drupalu 11 v produkčním prostředí na takovém měřítku, což může sloužit jako referenční model pro jiné univerzity nebo státní instituce čelící podobným výzvám.
 
 ---
 

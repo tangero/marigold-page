@@ -3,7 +3,7 @@ author: Marisa Aigen
 category: robotika
 date: '2025-11-23 18:00:00'
 description: Světově probíhá závod o vývoj humanoidních robotů schopných pohybu, komunikace,
-  manipulace s předměty a samostatného rozhodování v lidském prostředí.
+  manipulace a samostatného fungování v lidském prostředí.
 importance: 4
 layout: tech_news_article
 original_title: What becomes of work once we have armies of humanoid robots?
@@ -20,19 +20,21 @@ urlToImageBackup: https://live-production.wcms.abc-cdn.net.au/78f6f1e009ae35e658
 ---
 
 ## Souhrn
-Humanoidní roboti představují první reálnou cestu, jak nahradit lidskou práci stroji v běžném prostředí. Jejich masové nasazení by mohlo zásadně převrátit ekonomiku a trh práce, protože podniky budou moci vlastnit „pracovní sílu“ místo jejího zaměstnávání.
+Vývoj humanoidních robotů představuje zásadní ekonomickou hrozbu i příležitost: poprvé v historii se kapitál může osvobodit od závislosti na lidské práci. Tento trend je poháněn globálním závodem firem jako Tesla, Figure AI, Apptronik nebo Boston Dynamics, které vyvíjejí roboty schopné chodit, mluvit, uvažovat a vykonávat fyzickou práci v běžném prostředí.
 
 ## Klíčové body
-- Humanoidní roboti jsou navrženi tak, aby fungovali v prostředí určeném pro lidi – chodili, mluvili, zvedali a manipulovali s předměty.
-- Vývoj těchto robotů je poháněn globální soutěží mezi technologickými firmami, včetně Tesla, Figure AI, Apptronik a dalších.
-- Ekonomický dopad by mohl připomínat historické přechody, jako byla průmyslová revoluce, ale s mnohem rychlejším tempem.
-- Růst AI bubliny může být paradoxně užitečný – poskytuje kapitál pro vývoj technologií, které přežijí i po prasknutí bubliny.
+- Humanoidní roboti umožňují firmám vlastnit „pracovní sílu“ místo jejího zaměstnávání.
+- Současná investiční bublina v AI může vést k trvalému technologickému pokroku, i když se zhroutí.
+- Ekonomické dopady nahrazení lidské práce roboty by mohly být hlubší než u jakékoli předchozí technologie.
+- Vývoj robotů směřuje k autonomním systémům schopným plnit široké spektrum úkolů v průmyslu i domácnosti.
 
 ## Podrobnosti
-V současné době se více než desítka firem po celém světě intenzivně věnuje vývoji humanoidních robotů. Tyto stroje nejsou jen pokročilými průmyslovými manipulátory, ale systémy schopnými operovat v nezvládnutelném, dynamickém prostředí – tedy tam, kde dnes pracují lidé. Například roboti od společnosti Figure AI (podporované OpenAI a Microsoftem) nebo Tesla Optimus jsou navrženy tak, aby mohly plnit úkoly v logistice, výrobě nebo domácnosti. Díky pokročilým LLM (large language models) a senzorické fúzi dokáží reagovat na slovní pokyny, plánovat akce a učit se z interakcí. Tento trend směřuje k situaci, kdy podniky nebudou muset platit mzdy, sociální pojištění ani řešit pracovní podmínky – roboti budou „vlastněni“, nikoli „zaměstnáváni“. To otevírá otázky ohledně budoucnosti zaměstnanosti, daní a sociálního modelu založeného na práci.
+Humanoidní roboti již nejsou sci-fi, ale reálným cílem desítek firem po celém světě. Například Tesla pracuje na svém Optimus robotu, který má být schopen vykonávat opakující se úkoly ve výrobních halách i domácnostech. Společnost Figure AI, podporovaná investory jako Jeff Bezos nebo Microsoft, představila robota schopného komunikovat pomocí multimodálního AI modelu a manipulovat s předměty v reálném čase. Boston Dynamics, známá svými pokroky v robotické lokomoční a rovnováze, nyní integruje AI pro lepší interakci s prostředím.
+
+Tyto systémy nejsou jen mechanickými nástroji – kombinují pokročilé senzory, LLM (large language models) a plánovací algoritmy, což jim umožňuje reagovat na neznámé situace. Ekonomicky to znamená, že firmy mohou nahradit stálé náklady na mzdy jednorázovou investicí do robotické jednotky. Tento posun by mohl radikálně přetvořit trh práce, zejména v sektorech jako logistika, výroba nebo péče o seniory.
 
 ## Proč je to důležité
-Humanoidní robotika není jen dalším gadgetem – jde o potenciální přelom v ekonomickém modelu kapitalismu. Pokud se podaří dosáhnout dostatečné spolehlivosti a nízkých nákladů na výrobu, může dojít k masové substituci lidské práce v sektorech jako je výroba, doprava, zdravotnictví nebo služby. To by mohlo vést k obrovskému přebytku pracovní síly, ale zároveň k novým formám hodnoty a přerozdělení bohatství. V kontextu AI bubliny je důležité si uvědomit, že i když mnohé investice selžou, infrastruktura, modely a hardware, které vzniknou, budou mít trvalý dopad – podobně jako internet po prasknutí dot-com bubliny.
+Humanoidní robotika představuje největší hrozbu pro tradiční model zaměstnanosti od průmyslové revoluce. Na rozdíl od specializovaných průmyslových robotů, humanoidi jsou navrženi tak, aby fungovali v prostředí vytvořeném pro lidi – což znamená, že mohou převzít téměř jakoukoli manuální práci. Pokud se tato technologie rozšíří, může vést k masivnímu přebytku pracovní síly, ale zároveň k dramatickému růstu produktivity. Otázkou zůstává, jak společnost rozdělí vzniklý ekonomický přebytek – a zda bude mít většina lidí stále přístup k prostředkům obživy.
 
 ---
 
