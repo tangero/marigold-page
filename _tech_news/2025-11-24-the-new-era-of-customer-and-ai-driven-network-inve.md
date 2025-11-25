@@ -3,8 +3,9 @@ author: Marisa Aigen
 category: telekomunikace
 date: '2025-11-24 00:00:00'
 description: Poskytovatelé telekomunikačních služeb hledají způsoby, jak maximalizovat
-  návratnost investic do 5G infrastruktury. Nový přístup využívá data od uživatelů
-  a AI k lepšímu rozhodování o rozvoji sítí.
+  návratnost investic do 5G sítí. Nový přístup využívá data od uživatelů a AI k efektivnějšímu
+  plánování infrastruktury, zejména v místech s vysokými výkyvy poptávky jako stadiony
+  či turistické lokality.
 importance: 3
 layout: tech_news_article
 original_title: The new era of customer and AI-driven network investment
@@ -21,20 +22,20 @@ urlToImageBackup: https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-s
 ---
 
 ## Souhrn
-Telekomunikační operátoři čelí tlaku na efektivní využití miliardových investic do 5G sítí, zejména v místech s vysokými a proměnlivými nároky na kapacitu, jako jsou stadiony nebo turistické lokality. Nový přístup, nazývaný „sítě řízené zákazníky a AI“, využívá data shromážděná přímo ze zařízení uživatelů k optimalizaci rozhodování o infrastruktuře.
+Telekomunikační operátoři čelí tlaku na efektivní využití miliardových investic do 5G sítí. Nový přístup, nazývaný „sítě řízené zákazníky a umělou inteligencí“, využívá data shromážděná přímo ze zařízení uživatelů k lepšímu pochopení skutečného využití sítě a k optimalizaci rozhodování o infrastruktuře.
 
 ## Klíčové body
-- Platforma vzniká v rámci projektu TM Forum Catalyst za účasti Red Hatu a dalších průmyslových partnerů.
-- Využívá princip DePIN (decentralized physical infrastructure networks), kdy uživatelská zařízení fungují jako senzory sítě.
+- Platforma vzniká v rámci projektu TM Forum Catalyst s podílem společností jako Red Hat.
+- Využívá princip DePIN (decentralized physical infrastructure networks), kde uživatelská zařízení slouží jako senzory sítě.
 - Data o kvalitě zážitku (QoE) a rádiových metrikách jsou shromažďována s výslovným souhlasem uživatele.
-- Uživatelé mohou být za poskytnutí dat odměňováni.
-- Cílem je snížit náklady na plánování sítě a zvýšit její reaktivitu na skutečný provoz.
+- Uživatelé mohou být za poskytnutí dat odměňováni, což podporuje zapojení.
+- Cílem je snížit náklady na plánování sítě a zvýšit její reakci na reálnou poptávku.
 
 ## Podrobnosti
-Projekt vzniká pod záštitou TM Forum, globální asociace zaměřené na digitalizaci telekomunikačního průmyslu prostřednictvím spolupráce, standardů a inovací. Platforma kombinuje tzv. crowdsourced data – tedy informace shromážděné z mnoha uživatelských zařízení – s pokročilou analytikou a AI. Na zařízeních uživatelů běží lehká aplikace, která sbírá metriky jako síla signálu, latence nebo kvalita streamovaného obsahu. Tyto údaje jsou anonymizovány a použity k vytvoření detailní „mapy“ výkonu sítě v reálném čase. Tento přístup umožňuje operátorům lépe identifikovat „šedivé zóny“ nebo přetížené oblasti bez nutnosti nasazovat drahé měřicí systémy. DePIN model navíc zavádí ekonomickou motivaci pro uživatele – například formou kreditů nebo slev – což může zvýšit účast ve sběru dat.
+Projekt vzniká pod záštitou TM Forum – globální asociace, která podporuje digitalizaci telekomunikačního průmyslu prostřednictvím spolupráce, otevřených standardů a inovačních programů jako Catalyst. Platforma kombinuje tzv. crowdsourced data (data shromážděná od uživatelů) s pokročilou analytikou a AI. Na uživatelských zařízeních běží lehká aplikace, která – po získání souhlasu – sbírá metriky týkající se kvality zážitku (např. latence, rychlost, stabilita připojení) a rádiového prostředí (signál, interferenční úroveň). Tyto informace vytvářejí detailní a levný obraz skutečného výkonu sítě, což umožňuje operátorům lépe rozhodovat o umístění antén, kapacitě nebo údržbě. Přístup DePIN posouvá rozhodování blíže ke skutečným potřebám uživatelů, místo aby se opíralo pouze o odhady nebo historická data. Red Hat a další partneři přitom staví řešení na otevřené digitální architektuře a API, což usnadňuje integraci do stávajících systémů operátorů.
 
 ## Proč je to důležité
-Tento model představuje posun od tradičního, top-down plánování sítí k datově řízenému přístupu založenému na reálném chování uživatelů. Pro průmysl to znamená možnost výrazně snížit náklady na rozšiřování 5G infrastruktury a zároveň zlepšit uživatelský zážitek. V kontextu AI jde o praktické využití strojového učení pro optimalizaci fyzické infrastruktury, nikoli jen pro software nebo obsah. Přístup může být v budoucnu rozšířen i na další oblasti, jako je plánování optických sítí nebo správa energetické náročnosti mobilních sítí.
+Tento přístup může výrazně zvýšit efektivitu investic do 5G, zejména v dynamických prostředích jako koncerty, sportovní akce nebo turistická centra, kde tradiční plánování selhává. Zároveň posiluje uživatelskou zkušenost tím, že síť reaguje na reálné potřeby, nikoli na modely. V širším kontextu jde o další krok k tzv. „experience-driven networks“, kde je kvalita služby měřena z pohledu koncového uživatele, nikoli jen technickými parametry sítě. Pokud se osvědčí, může se stát standardem pro budoucí výstavbu mobilních sítí včetně 6G.
 
 ---
 

@@ -2,8 +2,9 @@
 author: Marisa Aigen
 category: umělá inteligence
 date: '2025-11-23 20:58:04'
-description: Pojem „agentic AI“ se rychle šíří v technologickém průmyslu, ale jeho
-  význam je nejasný. Označuje systémy, které mají působit autonomněji než dnešní chatboty.
+description: Termín „agentic AI“ se rychle šíří v technologickém průmyslu, ale jeho
+  význam zůstává často nejasný. Oproti běžným chatbotům mají agenty autonomně plánovat,
+  jednat a učit se.
 importance: 3
 layout: tech_news_article
 original_title: What does 'agentic' AI mean? Tech's newest buzzword is a mix of marketing
@@ -22,21 +23,21 @@ urlToImageBackup: https://vam-image.imds-cdn.com/cc/07/cc0738569b9e6309eebca8d0e
 ---
 
 ## Souhrn
-Pojem „agentic AI“ se stal populárním označením pro umělou inteligenci, která má překročit limity dnešních generativních chatbotů a působit autonomně – plánovat, jednat a učit se bez trvalého dohledu uživatele. Nová studie MIT a Boston Consulting Group tento koncept popisuje jako „novou třídu systémů“, ale v praxi zůstává hranice mezi agenty a pokročilými chatboty rozmazaná.
+Pojem „agentic AI“ označuje novou třídu umělé inteligence, která má překročit pasivní povahu dnešních generativních modelů a autonomně vykonávat vícekrokové úkoly. Podle nedávné studie MIT a Boston Consulting Groupu se jedná o systémy schopné plánovat, jednat a učit se bez neustálého lidského dohledu.
 
 ## Klíčové body
-- Agentic AI má být schopná autonomního plánování, jednání a učení.
-- Na rozdíl od chatbotů (např. ChatGPT), které pouze reagují na dotazy, by agenty měly provádět vícekrokové úkoly samostatně.
-- Termín „agentic“ není standardizovaný a často slouží jako marketingový nástroj.
-- Podle MIT a BCG se agenty chovají jako „autonomní kolegové“ schopní adaptace během provádění úkolů.
+- Agentic AI se odlišuje od chatbotů tím, že nečeká na instrukce, ale aktivně jedná.
+- Definice termínu je nejednotná a často zneužívána pro marketingové účely.
+- Podle výzkumu MIT a BCG jde o „autonomní týmové kolegy“, nikoli jen nástroje.
+- Zatím neexistuje standardizovaná technická specifikace, co agentic AI musí splňovat.
 
 ## Podrobnosti
-Současné generativní modely, jako je ChatGPT, jsou založeny na predikci dalšího slova v textu na základě rozsáhlého trénovacího korpusu. I když dokáží generovat text, kód nebo obrázky, jejich činnost je reaktivní – vyžadují explicitní instrukce a nemohou samostatně spouštět akce mimo rozhraní chatu. Agentic AI by měla tuto mezeru překlenout: například rezervovat letenku, analyzovat e-maily, navrhnout investiční strategii a provést ji přes API bankovního systému – vše bez dalšího zásahu uživatele.
+Současné chatboty, jako je původní ChatGPT, jsou založeny na velkých jazykových modelech (LLM), které v podstatě dokončují věty na základě trénovacích dat. Mohou psát texty, generovat kód nebo odpovídat na otázky, ale nemohou samostatně spustit proces, jako je například rezervace letenky nebo optimalizace firemního workflow. Agentic AI by měla tuto mezeru překlenout – mít schopnost rozdělit cíl na podúkoly, volat externí API, analyzovat výsledky a případně upravit plán. Například agent by mohl zjistit nejlepší let, zkontrolovat dostupnost hotelu, vyjednat slevu a potvrdit rezervaci – vše bez dalšího zásahu uživatele.
 
-Výzkumná zpráva MIT Sloan Management Review a BCG, založená na průzkumu více než 2 000 manažerů, popisuje agenty jako systémy, které „nejsou jen nástroji k ovládání, ale autonomními spolupracovníky“. Nicméně v praxi mnoho dnešních „agentů“ stále vyžaduje lidský dohled, zejména kvůli rizikům chybného rozhodování nebo bezpečnostním otázkám. Například OpenAI, Google nebo Meta experimentují s agentními architekturami, ale jejich nasazení je zatím omezené na testovací prostředí nebo interní nástroje.
+V praxi však většina dnešních „agentů“ stále vyžaduje pevně definované rámce a často selhává při nečekaných situacích. Navíc absence jednotné definice vede k tomu, že firmy označují jako „agentic“ i jednoduché automatizace nebo rozšířené chatboty s omezenou schopností volat funkce. Merriam-Webster už termín „agentic“ sleduje jako trend, ale do slovníku jej zatím nezařadil.
 
 ## Proč je to důležité
-Přechod od pasivních asistentů k aktivním agentům by mohl zásadně změnit způsob, jakým lidé a firmy využívají AI – od automatizace administrativy po dynamické řízení výrobních procesů. Nicméně absence jasné definice a standardů vede k záměně a přehnaným slibům. Pro uživatele je proto klíčové rozlišovat mezi skutečnou autonomií a sofistikovaným dialogovým rozhraním. Vývoj agentic AI tak zůstává slibným směrem, ale jeho praktický dopad bude záviset na řešení technických, etických i regulačních výzev.
+Přechod od pasivních asistentů k aktivním agentům by mohl zásadně změnit způsob, jakým lidé a firmy pracují s technologiemi. Pokud by agentic systémy skutečně zvládly spolehlivě vykonávat komplexní úkoly, otevřelo by to cestu k výraznému zvýšení produktivity, ale také k novým bezpečnostním a etickým rizikům – například nekontrolovanému rozhodování nebo zneužití autonomních procesů. Proto je klíčové rozlišovat mezi skutečným technologickým pokrokem a marketingovým šumem.
 
 ---
 

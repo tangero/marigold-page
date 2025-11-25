@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: akademický výzkum
 date: '2025-11-23 20:59:01'
-description: Pět největších akademických nakladatelství zvyšuje zisky díky masivnímu
-  nárůstu počtu publikovaných článků, což podkopává kvalitu recenzního procesu a vědecké
-  důvěryhodnosti.
+description: Pět největších akademických nakladatelství zvyšuje zisky masivním zvyšováním
+  počtu publikovaných článků, což podkopává kvalitu recenzního procesu a vědecké důvěryhodnosti.
 importance: 3
 layout: tech_news_article
 original_title: '‘These conversations were very hostile’: ‘Research’ now threatened
@@ -15,27 +14,30 @@ source:
   emoji: 📰
   id: null
   name: Wnd.com
-title: '„Tyto konverzace byly velmi nepřátelské“: Výzkum ohrožen lavinou článků spěšně
-  zveřejněných v akademických časopisech'
+title: '„Tyto konverzace byly velmi nepřátelské“: Výzkum ohrožen lavinou akademických
+  článků tlačených do tisku'
 url: https://www.wnd.com/2025/11/these-conversations-were-very-hostile-research-now-threatened/
 urlToImage: https://www.wnd.com/wp-content/uploads/2025/11/angry-anger-birds-yelling-screaming-shouting-intimidation-unsplash.jpg
 urlToImageBackup: https://www.wnd.com/wp-content/uploads/2025/11/angry-anger-birds-yelling-screaming-shouting-intimidation-unsplash.jpg
 ---
 
 ## Souhrn
-Akademický výzkum čelí krizi důvěryhodnosti kvůli tlaku velkých nakladatelství na zvyšování objemu publikací. Redakce prestižního časopisu *Philosophy & Public Affairs* rezignovala hromadně, když nakladatel Wiley požadoval třikrát vyšší produkci článků za velmi krátkou dobu. Tento případ odhaluje širší problém: „Big Five“ akademických nakladatelů (Wiley, Elsevier, Springer Nature, Taylor & Francis a SAGE) maximalizují zisky rozšiřováním počtu časopisů a speciálních edic, často na úkor kvality.
+Prestižní akademické časopisy čelí tlaku od velkých nakladatelství, aby zvyšovaly objem publikací, což vede k ústupu od kvalitního recenzního procesu. V extrémním případě časopisu *Philosophy & Public Affairs* došlo k hromadné rezignaci celého redakčního týmu, který odmítl kompromitovat standardy výzkumu.
 
 ## Klíčové body
-- Nakladatel Wiley požadoval od časopisu *Philosophy & Public Affairs* publikovat 35 článků během 60 dnů, což je nárůst o 150 % oproti běžnému ročnímu objemu.
-- Celá redakční rada vedená profesorkou Annou Stilzovou z University of California, Berkeley, rezignovala, aby nekompromitovala recenzní standardy.
-- „Big Five“ nakladatelé dosahují vysokých zisků díky masivnímu nárůstu publikací, podporovanému tlakem „publish or perish“ a globálním rozvojem výzkumu, zejména v Číně.
-- Rychlé zveřejňování článků bez důkladné recenze ohrožuje vědeckou integritu a reprodukovatelnost výsledků.
+- Nakladatelství Wiley požadovalo od časopisu 35 článků během 60 dnů, což je více než dvojnásobek roční produkce.
+- Redakce vedená Annou Stilzovou z University of California, Berkeley, radikálně odmítla tlak a rezignovala.
+- „Big Five“ akademických nakladatelství (včetně Wiley) dosahují vysokých zisků díky masivnímu růstu počtu publikovaných prací.
+- Globální tlak „publish or perish“ a nárůst výzkumu, zejména z Číny, podporují tento trend.
+- Krize ohrožuje důvěryhodnost vědeckého publikování a kvalitu akademického výzkumu.
 
 ## Podrobnosti
-Původně publikoval časopis *Philosophy & Public Affairs* pouze 14 článků ročně, což odpovídalo jeho zaměření na kvalitativně vysoce náročná témata ve filozofii a veřejném životě. Když Wiley požadoval třikrát vyšší produkci za dva měsíce, redakce odmítla kompromitovat svůj recenzní proces. Profesorka Stilzová popsala jednání s nakladatelem jako „velmi nepřátelská“ a uvedla, že Wiley jí vyhrožoval zánikem časopisu, pokud nepřistoupí na požadavky. Tento případ není osamocený – v posledních letech se objevují stále častěji konflikty mezi akademickými komunitami a komerčními nakladateli. „Big Five“ využívají model, kdy univerzity platí za přístup k článkům, které samy vytvářejí a recenzují, zatímco nakladatelé inkasují marže přesahující 30 %. Tento systém podporuje kvantitu před kvalitou a vede k inflaci publikačních výstupů, zejména v zemích s výkonnostními metrikami založenými na počtu publikací.
+Časopis *Philosophy & Public Affairs*, který tradičně publikoval kolem 14 pečlivě recenzovaných článků ročně, se ocitl v konfliktu se svým nakladatelem Wiley. Tento mezinárodní vydavatel akademické literatury požadoval dramatické zvýšení produkce – až 35 článků během dvou měsíců. Anna Stilzová, tehdejší šéfredaktorka, popsala jednání s Wiley jako „velmi nepřátelská“ a uvedla, že odmítla obětovat kvalitu ve prospěch kvantity. V důsledku toho rezignovala celá redakce i poradní rada.
+
+Tento případ ilustruje širší krizi v akademickém publikování. Pět dominantních nakladatelství – označovaných jako „Big Five“ – využívá tlaku akademiků publikovat (tzv. „publish or perish“), aby zvyšovala počet článků a zisk. Spolu s nárůstem výzkumné produkce, zejména z Číny, která se stala světovým lídrem v počtu publikací, dochází k explozivnímu růstu časopisů, speciálních edic a „predátorských“ publikací s minimální recenzí.
 
 ## Proč je to důležité
-Kvalita vědeckého výzkumu závisí na důvěryhodnosti recenzního procesu. Pokud jsou články spěšně zveřejňovány bez důkladné kontroly, roste riziko chybných nebo neopakovatelných výsledků – problém, který už dříve postihl například oblasti jako psychologie nebo biomedicína. Krize v akademickém nakladatelství tak přímo ovlivňuje spolehlivost vědeckých poznatků, na kterých jsou založeny technologické inovace, politiky i veřejné rozhodování. Bez reformy modelu publikování hrozí, že věda ztratí svou autoritu a efektivitu.
+Tento trend podkopává základní principy vědecké integrity. Pokud jsou články publikovány bez důkladné recenze, snižuje se jejich spolehlivost a zvyšuje se riziko šíření chybných nebo neopakovatelných výsledků. Pro výzkumnou komunitu to znamená obtíže při filtrování relevantních informací a růst nedůvěry ve vědecké závěry. Pro technologický sektor, který často čerpá z akademického výzkumu (např. v oblasti AI, materiálové vědy nebo kvantových technologií), může tento jev vést ke zpoždění inovací nebo k investicím do nevalidních konceptů.
 
 ---
 

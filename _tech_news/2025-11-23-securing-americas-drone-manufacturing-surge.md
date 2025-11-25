@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: kybernetika
 date: '2025-11-23 21:08:22'
-description: V době, kdy protivníci mohou zneužít neviditelné propojení mezi IT, operační
-  technologií (OT) a umělou inteligencí, je zabezpečení těchto rozhraní stejně kritické
-  jako pancéřování nebo konstrukce dronu samotného.
+description: V době, kdy protivníci mohou zneužít neviditelné spojnice mezi IT, OT
+  a AI, je zabezpečení těchto rozhraní stejně kritické jako pancéřování nebo konstrukce
+  dronu samotného.
 importance: 4
 layout: tech_news_article
 original_title: Securing America’s drone manufacturing surge
@@ -21,20 +21,20 @@ urlToImageBackup: https://www.wnd.com/wp-content/uploads/2025/07/drones-surveill
 ---
 
 ## Souhrn
-USA zahajují historicky největší rozšíření domácí výroby malých bezpilotních letadel (UAS) prostřednictvím programu SkyFoundry, který má vyrábět až 10 000 dronů měsíčně během 2–3 let a nakonec až milion ročně. Současně s tím však roste riziko kybernetických útoků na operační technologie (OT), které řídí výrobní linky.
+USA zahajují historicky nejrychlejší rozvoj domácí výroby dronů prostřednictvím programu SkyFoundry, který má do dvou až tří let dosáhnout kapacity 10 000 malých bezpilotních letadel (UAS) měsíčně a nakonec až milionu ročně. Tento průlom však přináší zvýšená rizika v oblasti kybernetické bezpečnosti operačních technologií (OT), které řídí výrobní linky.
 
 ## Klíčové body
-- Program SkyFoundry zahájen jako pilotní projekt v říjnu 2025 s cílem masivně zvýšit výrobu UAS.
+- Program SkyFoundry zrychluje výrobu UAS na bezprecedentní úroveň s cílem 1 milion dronů ročně.
 - Výroba bude založena na digitálně propojených továrnách s využitím PLC, robotů a senzorů.
-- Propojení OT systémů s IT infrastrukturou vytváří nové zranitelnosti – útok může mít fyzické důsledky.
-- Úprava konfigurace dronu na výrobní lince (např. změna nosnosti nebo aerodynamiky) může být výsledkem cíleného kybernetického zásahu.
-- Ministerstvo obrany USA řeší nedostatečnou odolnost OT proti moderním hrozbám.
+- Propojení IT a OT systémů výrazně rozšiřuje útočnou plochu pro kybernetické hrozby.
+- Útok na OT může vést ke změnám v konstrukci dronů, což má potenciální kinetické důsledky v boji.
+- Ministerstvo obrany USA musí zavést nové standardy kybernetické odolnosti pro průmyslové systémy.
 
 ## Podrobnosti
-Program SkyFoundry představuje strategický posun v obranné výrobě: místo tradičních dodavatelských řetězců se USA snaží vytvořit rychle škálovatelnou, digitálně řízenou výrobní síť. Ta využívá pokročilé automatizované systémy, jako jsou programovatelné logické řadiče (PLC), průmyslové roboty a senzory pro aditivní výrobu. Tyto komponenty jsou čím dál více propojeny s IT sítěmi a AI, což umožňuje rychlé iterace návrhů podle zkušeností z bojových zón – například z Ukrajiny nebo Blízkého východu. Avšak právě tato integrace rozšiřuje tzv. útočnou plochu (attack surface). Například kompromitovaný PLC může v tichosti měnit toleranci součástek dronu, což vede k postupné degradaci výkonnosti nebo dokonce k selhání za provozu. Vzhledem k plánovanému objemu výroby by takový útok mohl ovlivnit tisíce jednotek bez okamžitého odhalení.
+Program SkyFoundry, zahájený jako pilotní projekt v říjnu 2025, představuje strategickou odpověď na rychle se měnící charakter moderních konfliktů, kde hrají klíčovou roli levné a masově nasaditelné bezpilotní systémy. Výroba bude probíhat v několika amerických zařízeních, včetně specializovaného inovačního centra, které bude rychle adaptovat konstrukce dronů na základě zkušeností z bojových operací. Tento přístup však vyžaduje hlubokou integraci IT (informační technologie), OT (operační technologie) a AI, což vytváří nové zranitelnosti. Například napadení programovatelného logického řadiče (PLC) může způsobit drobné, ale kritické odchylky ve výrobě – jako změna tvaru trupu nebo nesprávné nastavení zbraňového systému Mjolnir. V automatizovaném prostředí s vysokým objemem výroby by takové chyby mohly uniknout kontrole a vést k selhání v poli.
 
 ## Proč je to důležité
-Tento případ ilustruje klíčový paradox digitální transformace průmyslu: čím víc automatizujeme a propojujeme fyzické i digitální systémy, tím více se kybernetické hrozby proměňují v hrozby fyzické. Pro obranný sektor to znamená, že bezpečnost OT už není vedlejší otázkou, ale základním požadavkem pro schopnost nasazovat technologii v reálném konfliktu. Zároveň to ukazuje, že budoucí kybernetická odolnost bude vyžadovat integraci bezpečnostních opatření přímo do návrhu výrobních systémů – nikoli jako dodatečnou vrstvu.
+Tento posun ukazuje, že kybernetická bezpečnost už není jen otázkou ochrany dat, ale i fyzické integrity vojenského vybavení. Propojení průmyslových systémů s AI a cloudovými platformami zvyšuje efektivitu, ale zároveň vytváří cíle pro sofistikované státní aktéry. Pokud USA nezavádějí robustní standardy pro OT bezpečnost – včetně izolace sítí, průběžného monitorování a hardwarového ověřování – mohou být jejich výrobní kapacity zneužity k sabotáži zevnitř. Tento případ má širší implikace i pro civilní průmysl, kde se podobné trendy objevují v automobilovém, leteckém i energetickém sektoru.
 
 ---
 

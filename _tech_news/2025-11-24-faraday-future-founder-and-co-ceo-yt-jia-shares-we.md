@@ -6,8 +6,8 @@ companies:
 - Tesla
 date: '2025-11-24 00:34:00'
 description: Společnost Faraday Future dokončila strategickou restrukturalizaci svého
-  podnikání a připravuje dodávky komponent pro nový model FX Super One. Vozidla budou
-  představena na autosalonu v Los Angeles.
+  podnikání a připravuje dodávky komponent pro svůj nový model FX Super One. Vozidla
+  budou prezentována na autosalonu v Los Angeles.
 importance: 3
 layout: tech_news_article
 original_title: 'Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update:
@@ -31,21 +31,21 @@ urlToImageBackup: https://ml.globenewswire.com/Resource/Download/4ba28ea7-306e-4
 ---
 
 ## Souhrn
-Společnost Faraday Future (FF) oznámila dokončení své nové firemní struktury označované jako „Dual Flywheel, Dual Bridge, and Dual Listed-Company“, která propojuje její burzovně kotovanou entitu FFAI s nově převzatou společností AIxCrypto (AIXC). Současně by měla příští týden dorazit první várka komponent pro model FX Super One do přístavu Long Beach, kde bude vozidlo také prezentováno na autosalonu v Los Angeles.
+Společnost Faraday Future (FF) oznámila dokončení své nové korporátní struktury označované jako „Dual Flywheel, Dual Bridge, and Dual Listed-Company“, která propojuje její burzovně kotovanou entitu FFAI s nově převzatou společností AIxCrypto (AIXC). Současně by měla příští týden dorazit první várka komponent pro model FX Super One do přístavu Long Beach.
 
 ## Klíčové body
-- Faraday Future dokončila akvizici a integrovala AIxCrypto Holdings jako svou dceřinou společnost.
-- Byla zavedena nová firemní struktura „Dual Flywheel, Dual Bridge, Dual Listed-Company“ mezi FFAI a AIXC.
-- První komponenty pro FX Super One dorazí do Long Beach 30. listopadu 2025.
-- FF 91 2.0 a FX Super One budou k dispozici pro testovací jízdy na LA Auto Show.
+- FF dokončila akvizici AIxCrypto a vytvořila dvojitou burzovní strukturu mezi FFAI a AIXC.
+- Strategie „dvojitého setrvačníku“ má propojit elektrickou mobilitu (EAI) s kryptoměnovým/Web3 sektorem.
+- První komponenty pro nový model FX Super One budou příští týden vyloženy v Long Beach.
+- FF 91 2.0 a FX Super One budou prezentovány na autosalonu v Los Angeles s možností testovacích jízd.
 
 ## Podrobnosti
-Faraday Future, kalifornská společnost působící v oblasti inteligentní elektromobility, oznámila, že 12. listopadu 2025 se stala většinovým akcionářem společnosti AIxCrypto Holdings (ticker AIXC). Tím dokončila tzv. „dvojitý setrvačník“ – strategický rámec, který má propojit její jádrový elektromobily (EAI – Electric AI) s kryptoměnovým a Web3 segmentem. Cílem je vytvořit synergii mezi tradičním automotive sektorem a digitálními technologiemi založenými na blockchainu a umělé inteligenci.
+Faraday Future, kalifornská společnost zaměřená na inteligentní elektromobilitu, oznámila 23. listopadu 2025 dokončení strategické restrukturalizace svého podnikání. Zakladatel a spolupředseda YT Jia uvedl, že společnost nyní plně ovládá AIxCrypto Holdings, Inc., jejíž akcie jsou kotované na burze pod tickerem AIXC. Tím vznikla dvojitá burzovní struktura, kdy FF působí jak prostřednictvím FFAI (zaměřené na elektromobilitu a AI), tak AIXC (zaměřené na Web3 a kryptoměny). Cílem je vytvořit synergii mezi „EAI flywheel“ (elektrická mobilita + umělá inteligence) a „Crypto flywheel“ (blockchain, tokenizace, decentralizované služby).
 
-Zakladatel a spolupředseda FF, YT Jia, uvedl, že tato struktura umožní „vzájemné posilování“ obou firem a přinese „transformační Web3 hodnotu do Web2 ekosystému“. FF také potvrdila, že první kompletní sady komponent pro svůj nový model FX Super One dorazí příští týden do přístavu Long Beach. Tento model spolu s upgradovaným FF 91 2.0 bude představen na autosalonu v Los Angeles, kde návštěvníci budou moci absolvovat testovací jízdy a provádět předobjednávky.
+Zároveň FF oznámila, že první kompletní sady komponent pro nový model FX Super One dorazí příští týden do přístavu Long Beach. Tento krok naznačuje pokročilou fázi vývoje vozidla, které bude spolu s upgradovaným FF 91 2.0 prezentováno na autosalonu v Los Angeles. Návštěvníci budou moci absolvovat testovací jízdy a zadat předobjednávky.
 
 ## Proč je to důležité
-Tato novinka je zajímavá zejména z hlediska firemní strategie a snahy o diverzifikaci. Zatímco Faraday Future dosud bojovala s finančními a výrobními výzvami, její přesun do Web3 a kryptoměn může být pokusem o obnovení důvěry investorů a přístup k novým zdrojům kapitálu. Nicméně propojení elektromobility s kryptoměnami zatím nemá jasný praktický užitek pro koncové uživatele a může být vnímáno spíše jako marketingový tah než technologický průlom. Přesto může tato struktura poskytnout FF větší flexibilitu při získávání financí a rozšiřování ekosystému – pokud se jí podaří skutečně integrovat oba „setrvačníky“ do uceleného obchodního modelu.
+Tato novinka je zajímavá zejména z hlediska korporátní strategie. FF se snaží diverzifikovat své obchodní modely a využít růstový potenciál Web3 technologií, což je neobvyklý přístup mezi výrobci elektromobilů. Pokud se propojení EAI a kryptoměnového ekosystému podaří efektivně implementovat, mohlo by vést k inovacím v oblasti tokenizovaných mobility služeb, decentralizovaného financování vozidel nebo AI-driven personalizace uživatelského zážitku. Nicméně zatím chybí konkrétní technické detaily o tom, jak přesně budou oba „setrvačníky“ fungovat společně. FF zůstává jednou ze čtyř nových amerických EV značek, ale její dlouhodobá udržitelnost bude záviset na schopnosti převést tyto strategické koncepty do reálné produkce a tržního prodeje.
 
 ---
 

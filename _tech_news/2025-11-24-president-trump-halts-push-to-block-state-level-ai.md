@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: ai regulace
 date: '2025-11-24 00:17:47'
-description: Bílý dům dočasně odložil výkonný rozkaz, který by měl bránit jednotlivým
-  státům USA v regulaci umělé inteligence prostřednictvím žalob a omezení federálního
-  financování.
+description: Bílý dům pozastavil přípravu výkonného nařízení, které by mělo bránit
+  jednotlivým státům USA v regulaci umělé inteligence prostřednictvím žalob a omezení
+  federálního financování.
 importance: 3
 layout: tech_news_article
 original_title: President Trump Halts Push to Block State-Level AI Regulations
@@ -21,19 +21,20 @@ urlToImageBackup: https://www.pymnts.com/wp-content/uploads/2025/11/White-House-
 ---
 
 ## Souhrn
-Prezident Donald Trump pozastavil plán na vydání výkonného nařízení, které by aktivně bránilo jednotlivým americkým státům v regulaci umělé inteligence (AI). Původní návrh počítal s vytvořením speciálního právního týmu zaměřeného na napadení státních zákonů a s možností omezit federální dotace.
+Prezident Donald Trump pozastavil plán na vydání výkonného nařízení, které by aktivně bránilo jednotlivým americkým státům v regulaci umělé inteligence. Původní návrh počítal s vytvořením speciálního právního týmu, jehož úkolem by bylo napadat státní zákony o AI jako neústavní nebo v rozporu s federálními předpisy.
 
 ## Klíčové body
-- Bílý dům dočasně odložil výkonný rozkaz zaměřený proti státním regulacím AI.
-- Návrh počítal s vytvořením „AI Litigation Task Force“ pod vedením ministryně spravedlnosti Pam Bondi.
-- Cílem bylo prosadit jednotný federální standard místo „patchworku“ různých státních pravidel.
-- Technologické firmy, včetně Meta, aktivně lobují proti přísnějším státním zákonům.
+- Bílý dům pozastavil přípravu výkonného nařízení zaměřeného proti státním regulacím AI.
+- Návrh počítal s vytvořením „AI Litigation Task Force“ pod vedením ministerky spravedlnosti Pam Bondi.
+- Cílem bylo bránit technologické firmy před různorodými státními zákony, které podle nich brzdí inovace.
+- Trump dříve na sociální síti Truth Social vyzýval k jednotné federální regulaci místo „patchworku“ státních pravidel.
+- Technologický průmysl, včetně Meta, aktivně lobbuje proti přísnějším státním zákonům o AI.
 
 ## Podrobnosti
-Podle zpravodajské agentury Reuters byl návrh výkonného nařízení zaměřen na právní napadení státních regulací AI s odvoláním na ústavní argumenty – zejména na to, že státní zákony neoprávněně zasahují do mezistátního obchodu nebo jsou v rozporu s existujícími federálními předpisy. Návrh dokumentu, který Reuters získala, předpokládal, že ministerstvo spravedlnosti vytvoří speciální právní tým, jehož jedinou úlohou by bylo napadat státní zákony omezující vývoj nebo nasazení AI systémů. Tento krok byl motivován tlakem ze strany technologického průmyslu, který považuje rozporuplné státní regulace za překážku inovací. Například společnost Meta v září založila politický výbor (super PAC) s názvem American Technology Excellence Project, jehož cílem je podporovat volbu politiků přátelských k technologiím a AI na státní úrovni.
+Podle zpravodajské agentury Reuters bylo výkonné nařízení, které mělo být podepsáno prezidentem Trumpem, dočasně odloženo. Dokument, který Reuters citoval, popisoval plán vytvořit speciální právní jednotku při ministerstvu spravedlnosti, jejímž jediným úkolem by bylo napadat státní zákony o umělé inteligenci. Argumentace měla být založena na ústavních důvodech – například že státní regulace nezákonně zasahují do mezistátního obchodu nebo jsou v rozporu s existujícími federálními předpisy. Tento krok by měl podpořit technologické firmy, které tvrdí, že rozporuplné regulace v jednotlivých státech komplikují vývoj a nasazení AI systémů. Například společnost Meta v září založila politický výbor (super PAC) s názvem American Technology Excellence Project, jehož cílem je podporovat volbu politiků přátelských k technologiím a AI na státní úrovni.
 
 ## Proč je to důležité
-Tento vývoj ukazuje rostoucí napětí mezi federální vládou a jednotlivými státy v otázkách regulace AI. Zatímco federální úroveň usiluje o jednotný rámec, který by usnadnil provoz globálních technologických firem, státy jako Kalifornie nebo New York zvažují přísnější pravidla pro ochranu spotřebitelů a zamezení zneužití AI. Pozastavení tohoto nařízení dává prostor pro širší politickou a veřejnou diskusi o tom, jaký model regulace AI je nejvhodnější – centralizovaný nebo decentralizovaný. Pro české čtenáře je tato situace relevantní, protože EU právě schvaluje vlastní AI Act, který bude mít podobný cíl jako federální regulace v USA: vytvořit jednotný právní rámec pro celý trh.
+Tento posun ukazuje rostoucí tlak ze strany technologického průmyslu na centralizaci regulace AI na federální úrovni. Zatímco jednotná regulace by mohla zjednodušit právní prostředí pro globální firmy, může také oslabit schopnost jednotlivých států reagovat na lokální etické nebo bezpečnostní rizika spojené s AI. V kontextu globálního závodu o AI – kde Evropská unie už schválila AI Act a Čína zavádí vlastní rámce – je otázkou, zda absence jednotné americké strategie nebo její přílišná průmyslová zaměřenost nepřivede USA do defenzivy v oblasti etické a bezpečné regulace umělé inteligence.
 
 ---
 

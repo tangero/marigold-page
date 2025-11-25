@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: internet
 date: '2025-11-24 00:00:00'
-description: Tim Berners-Lee v nové knize kritizuje centralizaci internetu a nárůst
-  zneužívání uživatelských dat, přičemž navrhuje návrat k původním decentralizovaným
-  ideálům webu.
+description: Tim Berners-Lee v nové knize vyzývá k návratu k decentralizovanému internetu
+  a lepší ochraně soukromí, ale jeho výzva postrádá inspirativní sílu.
 importance: 3
 layout: tech_news_article
 original_title: The Internet is broken and the inventor of the World Wide Web wants
@@ -24,20 +23,19 @@ urlToImageBackup: https://media.nature.com/lw1200/magazine-assets/d41586-025-038
 ---
 
 ## Souhrn
-Tim Berners-Lee, tvůrce World Wide Webu, v nové knize *This Is for Everyone* (2025) varuje, že současný internet se odchýlil od svých původních ideálů otevřenosti a decentralizace. Namísto toho je dnes ovládán několika málo technologickými giganty, které maximalizují zisk na úkor soukromí a pohody uživatelů.
+Tim Berners-Lee, tvůrce World Wide Webu, ve své nadcházející knize *This Is for Everyone* (2025) kritizuje současný stav internetu, který podle něj zradil své původní ideály otevřenosti a decentralizace. Navrhuje technologické i sociální řešení, jak „opravit internet“, avšak jeho argumentace působí spíše jako technokratická kronika než jako výzva k akci.
 
 ## Klíčové body
-- Internet se stal centralizovaným nástrojem pro zisk, nikoli otevřenou platformou pro všechny.
-- Berners-Lee navrhuje technické standardy, které by zabránily opakování chyb sociálních sítí v éře AI.
-- Cílem je navrhnout sociální média, která „maximalizují radost“ uživatelů, nikoli rozkol.
-- Kniha je spíše osobní retrospektivou než revolučním manifestem.
-- Berners-Lee spolupracoval na knize s autorem Stephenem Wittem.
+- Internet se podle Berners-Lee vzdálil svým zakladatelským principům kvůli ziskově orientovaným platformám.
+- Navrhuje přestavbu sociálních sítí tak, aby maximalizovaly „radost uživatele“ místo polarizace.
+- Upozorňuje na rizika AI a zdůrazňuje potřebu technických standardů, které zabrání opakování chyb minulosti.
+- Kniha, napsaná ve spolupráci se spisovatelem Stephenem Wittem, má formu osobního podání spíše než analytické studie.
 
 ## Podrobnosti
-Berners-Lee ve své knize podrobně popisuje vznik webu v CERNu a jeho původní vizi: globální, decentralizovanou síť, kde každý má stejný přístup k informacím a kontrolu nad svými daty. Podle něj tento ideál selhal kvůli nástupu firem jako Facebook, Google nebo Twitter, které vytvořily uzavřené ekosystémy založené na sledování uživatelů a prodeji jejich dat. V reakci na to Berners-Lee prosazuje nové technické standardy, které by omezily možnosti zneužití dat v budoucích aplikacích – zejména v kontextu rychle se rozvíjející AI. Například navrhuje, aby algoritmy sociálních sítí nebyly optimalizovány na zvýšení zapojení za každou cenu, ale na podporu kvalitní komunikace a pohody uživatele. Kritici však poukazují, že jeho návrhy postrádají konkrétní implementační plán a spoléhají příliš na dobrovolnou spolupráci firem, které aktuální systém výhodně využívají.
+Berners-Lee v knize podrobně popisuje svou cestu od vynálezu WWW v CERNu až po současné obavy z centralizace digitálního prostoru. Podle něj dnešní internet ovládají několik málo technologických gigantů, jejichž algoritmy optimalizují pro zisk, nikoli pro veřejný prospěch. Jako řešení navrhuje technologické standardy, které by umožnily uživatelům větší kontrolu nad svými daty a podporovaly interoperabilitu mezi službami. Zvláštní pozornost věnuje i budoucímu vývoji AI, kde varuje před opakováním chyb sociálních médií – například šířením dezinformací nebo manipulací s pozorností. Nicméně jeho návrhy postrádají konkrétní implementační plán nebo politickou strategii. Kniha působí spíše jako osobní reflexe než jako program pro změnu, což omezuje její dopad na širší veřejnost i odbornou komunitu.
 
 ## Proč je to důležité
-Berners-Leeova kritika odráží širší obavy o budoucnost digitálního prostoru – zejména v souvislosti s AI, která může tyto problémy výrazně zhoršit. I když jeho návrhy nejsou technicky detailní, mají význam jako morální apel od osoby, která internet vlastně vytvořila. Jeho hlas připomíná, že technologie nemusí být nevyhnutelně centralizovaná a ziskově orientovaná – a že alternativy jsou stále možné, pokud bude existovat politická i technologická vůle k jejich prosazení.
+I když Berners-Lee nenabízí revoluční řešení, jeho hlas má symbolickou váhu. Jako zakladatel webu upozorňuje na strukturální problémy digitální infrastruktury, které se stávají stále naléhavějšími – zejména v éře AI a rostoucího tlaku na regulaci technologických firem. Jeho výzva k decentralizaci rezonuje s iniciativami jako Solid nebo ActivityPub, které se snaží postavit alternativní, uživatelem řízené platformy. Ačkoli jeho kniha nemusí inspirovat masové hnutí, přispívá k důležité debatě o budoucnosti internetu jako veřejného statku.
 
 ---
 
