@@ -4,7 +4,7 @@ category: autonomní řízení
 companies:
 - Tesla
 date: '2025-11-25 02:48:43'
-description: Po letech spekulací a slibů, že jiné automobilky budou licencovat systém
+description: Po letech tvrzení, že konkurenční automobily budou licencovat systém
   Full Self-Driving od Tesly, Elon Musk nyní přiznal, že zájem o něj neexistuje.
 importance: 3
 layout: tech_news_article
@@ -25,19 +25,19 @@ urlToImageBackup: https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/
 ---
 
 ## Souhrn
-Elon Musk přiznal, že žádný jiný výrobce automobilů nechce licencovat technologii Full Self-Driving (FSD) od společnosti Tesla. Tímto přiznáním končí dlouhodobé spekulace o tom, že Tesla se stane dodavatelem softwaru pro autonomní řízení pro celý automobilový průmysl.
+Elon Musk přiznal, že žádný jiný výrobce automobilů nechce licencovat technologii Full Self-Driving (FSD) od Tesly, ačkoli dříve opakovaně tvrdil, že se jedná o nevyhnutelný krok pro přežití tradičních automobilovek. Tento přiznání znamená významný posun v jeho dlouhodobé strategii prezentovat Teslu jako vedoucího poskytovatele softwaru pro autonomní řízení.
 
 ## Klíčové body
-- Musk již od roku 2021 tvrdil, že probíhají „předběžné diskuze“ o licencování FSD s jinými výrobci.
-- V dubnu 2024 prohlásil, že Tesla jedná s „jedním velkým výrobcem“ a že dohoda je pravděpodobná – ta se však neuskutečnila.
-- CEO Fordu Jim Farley veřejně odmítl FSD a uvedl, že konkurenční systém Waymo je lepší.
-- Musk nyní tvrdí, že automobilky požadují „nerealizovatelné podmínky“ a že „nechtějí FSD“.
+- Musk již v roce 2021 tvrdil, že probíhají „předběžné diskuze“ o licencování FSD s jinými výrobci.
+- V roce 2024 prohlásil, že Tesla jedná s jedním velkým výrobcem a že dohoda je pravděpodobná – ta se však neuskutečnila.
+- CEO Fordu Jim Farley veřejně odmítl FSD a uvedl, že systém Waymo je lepší.
+- Musk nyní tvrdí, že konkurence požadovala „neuskutečnitelné podmínky“ a že „nechtějí FSD“.
 
 ## Podrobnosti
-Tesla dlouhodobě prezentovala svůj systém Full Self-Driving (FSD) jako technologickou převahu, která by mohla definovat budoucnost mobility. Elon Musk opakovaně tvrdil, že tradiční automobilky budou nuceny licencovat FSD, pokud nechtějí zůstat pozadu. V roce 2021 zmínil „předběžné diskuze“ s konkurencí a v červnu 2023 dokonce napsal na X (dříve Twitter), že Tesla je „ochotna licencovat Autopilot/FSD“. Největší očekávání vzniklo v dubnu 2024, kdy Musk oznámil, že probíhají jednání s „jedním velkým výrobcem“ a že dohoda je „pravděpodobná“. Nyní je však jasné, že k žádné spolupráci nedošlo. Pravděpodobně šlo o Ford, jehož CEO Jim Farley veřejně uvedl, že Waymo – autonomní systém od Alphabetu – je technologicky lepší než FSD. Musk nyní tvrdí, že automobilky požadují podmínky, které Tesla nemůže splnit, a že „nechtějí FSD“. Tento posun naznačuje, že Tesla selhala v přesvědčování konkurence o kvalitě svého softwaru pro autonomní řízení.
+Elon Musk dlouhodobě prezentoval Teslu nejen jako výrobce elektromobilů, ale jako AI a robotickou společnost, jejíž hlavním produktem je autonomní vozidlo. Klíčovou součástí této strategie bylo přesvědčení, že konkurenční automobilky budou nuceny licencovat FSD, protože samy nedokážou vyvinout konkurenceschopný systém autonomního řízení. V průběhu let opakovaně naznačoval, že k takovým dohodám dochází – například v červnu 2023 napsal na X (dříve Twitter), že Tesla je „ochotna licencovat Autopilot/FSD nebo jiné technologie“ konkurenci. Největší optimismus vyvolal v dubnu 2024, kdy prohlásil, že jednání s jedním „velkým výrobcem“ pokročila a že dohoda je pravděpodobná. Nyní je však jasné, že k žádné spolupráci nedošlo. Pravděpodobně šlo o Ford, jehož CEO Jim Farley veřejně uvedl, že upřednostňuje technologii Waymo – společnosti Alphabet zaměřené na autonomní řízení – a že FSD považuje za méně vyspělý systém. Musk nyní tvrdí, že konkurence požadovala podmínky, které Tesla nemohla akceptovat, a že „nechtějí FSD“.
 
 ## Proč je to důležité
-Tato zpráva podkopává dlouhodobou strategii Tesly, která chtěla být vnímána nejen jako výrobce elektromobilů, ale jako lídr v oblasti AI a robotiky. Pokud by se FSD stal standardem pro celý průmysl, mohla by Tesla generovat významné příjmy z licencí. Nyní je však zřejmé, že konkurence spoléhá na jiné řešení – například Waymo nebo vlastní vývoj. Pro uživatele to znamená, že FSD zůstává uzavřenou technologií pouze pro vozy Tesla, bez širšího vlivu na trh autonomních vozidel. Pro průmysl je to signál, že Tesla nemá v oblasti autonomního řízení takovou technologickou převahu, jakou dlouhodobě prezentovala.
+Tento vývoj podkopává dlouhodobý marketingový a investiční příběh Tesly, který stavěl na představě, že FSD se stane univerzální platformou pro autonomní dopravu. Pokud ani jediný výrobce neuznává FSD jako konkurenceschopný systém, zpochybňuje to nejen technologickou vyspělost řešení, ale i budoucí zdroje příjmů z licencí, na které Tesla počítala. Zároveň to ukazuje, že konkurence preferuje buď vlastní vývoj (např. GM s Cruise), nebo partnerství s jinými specializovanými firmami jako Waymo. Pro uživatele to znamená, že FSD zůstává uzavřenou technologií pouze pro vozidla Tesly, bez širšího vlivu na trh autonomních vozidel.
 
 ---
 

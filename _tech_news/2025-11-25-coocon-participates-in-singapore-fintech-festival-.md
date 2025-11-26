@@ -25,20 +25,20 @@ urlToImageBackup: https://cdn.antaranews.com/cache/1200x800/2020/03/23/Logo-Busi
 ---
 
 ## Souhrn
-Jihokorejská technologická společnost COOCON představila na Singapurském fintech festivalu 2025 (SFF) svou novou globální platební službu, která umožňuje zahraničním návštěvníkům Koreje provádět platby a výběry v korunách prostřednictvím QR kódů bez nutnosti mít místní bankovní účet. Služba využívá rozsáhlou korejskou platební infrastrukturu a integruje stabilní mince pro snížení měnového rizika.
+Jihokorejská technologická společnost COOCON představila na Singapurském fintech festivalu 2025 (SFF) svou novou globální platební službu, která umožňuje zahraničním návštěvníkům Koreje provádět platby a výběry v místní měně prostřednictvím QR kódů bez nutnosti mít korejský bankovní účet. Služba využívá rozsáhlou domácí infrastrukturu a integruje stabilní mince (stablecoin) do platebního ekosystému.
 
 ## Klíčové body
 - COOCON umožňuje zahraničním platebním poskytovatelům přístup na korejský trh bez nutnosti budovat vlastní infrastrukturu.
-- Uživatelé mohou platit skenováním QR kódu v místních aplikacích a vybírat KRW z více než 40 000 bankomatů.
-- Služba je postavena na největší korejské platební síti: 2 miliony QR obchodníků, 100 000 franšíz a 40 000 bankomatů.
-- COOCON rozvíjí ekosystém kombinující globální platby, lokální platby a platformu stabilních mincí.
-- Cílem je snížit měnové riziko a zjednodušit platební proces pro cizince v Koreji.
+- Uživatelé mohou platit skenováním QR kódu v lokální platební aplikaci a vybírat korejské wony z více než 40 000 bankomatů.
+- Služba eliminuje potřebu fyzické výměny měny a snižuje riziko kurzových ztrát.
+- COOCON plánuje rozšířit ekosystém o globální a lokální platební systémy a platformu pro stablecoin.
+- Společnost využívá největší korejskou platební infrastrukturu: 2 miliony QR obchodníků, 100 000 franšíz a 40 000 bankomatů.
 
 ## Podrobnosti
-COOCON, jehož CEO je Kim Jong-hyun a který je kotovaný na KOSDAQ pod kódem 294570, se specializuje na obchodní datové platformy a nyní rozšiřuje své aktivity do oblasti mezinárodních plateb. Na SFF 2025, který se konal 12.–14. listopadu v Singapurském výstavišti, představila společnost řešení, které propojuje zahraniční platební aplikace s korejským trhem. Cizinci tak mohou platit v restauracích, kavárnách, módních obchodech či kosmetických salonech pouhým naskenováním QR kódu ve své domácí platební aplikaci. Navíc mohou okamžitě vybírat korejské wony z více než 40 000 bankomatů po celé zemi. Tento přístup eliminuje potřebu fyzické výměny měny nebo zřízení místního účtu, což je významné zjednodušení pro turisty i krátkodobé návštěvníky. COOCON využívá nejrozsáhlejší platební infrastrukturu v Jižní Koreji, která zahrnuje přes dva miliony mobilních QR obchodníků a stovky tisíc provozoven známých řetězců. Společnost plánuje dále rozvíjet tzv. „next-generation global payment distribution network“, který propojuje globální platby (global pay), lokální platby (local pay) a platformu stabilních mincí (stablecoin platform). Tento ekosystém má sloužit jako most mezi mezinárodními platebními systémy a korejským trhem.
+COOCON, jehož CEO je Kim Jong-hyun a je kotovaná na KOSDAQ pod kódem 294570, se specializuje na datové platformy pro podnikání. Na SFF 2025, který se konal 12.–14. listopadu v Singapurském výstavišti, představila společnost řešení zaměřené na turisty a zahraniční návštěvníky Jižní Koreje. Služba funguje tak, že zahraniční platební aplikace (např. Alipay, GrabPay nebo jiné regionální fintech aplikace) mohou skrze API COOCONu připojit své uživatele k korejské platební síti. Uživatelé pak mohou platit v restauracích, kavárnách, módních obchodech či kosmetických salonech pouhým naskenováním QR kódu, aniž by museli řešit kurzové rozdíly nebo otevírat místní bankovní účet. Výběr hotovosti je možný z více než 40 000 bankomatů po celé zemi. COOCON tím vytváří most mezi globálními platebními systémy a lokální infrastrukturou, což je významné zejména v zemi, kde platební karty západních poskytovatelů nejsou všude akceptovány.
 
 ## Proč je to důležité
-Tento krok COOCONu představuje významný posun v mezinárodní interoperabilitě platebních systémů, zejména v Asii, kde se stále častěji objevují národní QR platební řešení. Integrace stabilních mincí naznačuje snahu o snížení měnové volatility a zrychlení mezinárodních transakcí. Pro zahraniční platební poskytovatele je to příležitost vstoupit na vysoce digitalizovaný korejský trh bez vysokých vstupních nákladů. Pro uživatele znamená větší pohodlí a nižší transakční náklady. V širším kontextu jde o další příklad trendu „embedded finance“, kdy platební funkce jsou integrovány přímo do cizích aplikací bez nutnosti přepínání mezi službami.
+Tento krok COOCONu reaguje na rostoucí poptávku po bezproblémových platebních řešeních pro cestovatele a podporuje rozvoj interoperability mezi různými platebními systémy. Integrace stablecoinu naznačuje přípravu na budoucí fázi digitálních měn, kde by mohly hrát roli i regulované kryptoměny. V kontextu globálního fintech se jedná o zajímavý příklad lokálního hráče, který využívá domácí infrastrukturu k vytvoření mezinárodního rozhraní – strategie, která může inspirovat i jiné trhy s podobnými omezeními v přijímání zahraničních plateb.
 
 ---
 

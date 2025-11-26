@@ -5,9 +5,8 @@ companies:
 - ASE Technology Holding
 date: '2025-11-25 03:22:56'
 description: Společnost ASE Technology Holding oznámila investici přes 133 milionů
-  dolarů do nové továrny v Taoyuanu a zahájení výstavby první fáze výrobního areálu
-  v Kaohsiungu na Tchaj-wanu, aby splnila rostoucí poptávku po pokročilém obalování
-  AI čipů.
+  dolarů do nových výrobních kapacit na Tchaj-wanu, aby splnila rostoucí poptávku
+  po pokročilém obalování AI čipů.
 importance: 3
 layout: tech_news_article
 original_title: ASE commits US$133 million to new Taiwan packaging plants to meet
@@ -26,19 +25,21 @@ urlToImageBackup: https://img.digitimes.com/newsshow/20251125pd200_files/2_2b.jp
 ---
 
 ## Souhrn
-Společnost ASE Technology Holding, největší světový poskytovatel služeb obalování a testování polovodičů, oznámila investici ve výši 133,67 milionu dolarů (přes 4,2 miliardy tchajwanských dolarů) do nových výrobních kapacit na Tchaj-wanu. Cílem je zvýšit kapacity pro pokročilé obalovací technologie, které jsou klíčové pro výrobu AI čipů.
+Společnost ASE Technology Holding, největší světový poskytovatel služeb pokročilého obalování polovodičů, oznámila investici ve výši 133,67 milionu dolarů (přes 4,2 miliardy tchajwanských dolarů) do nových výrobních kapacit na Tchaj-wanu. Cílem je zvýšit kapacity pro obalování AI čipů, které vyžadují vysoce specializované technologie jako 2,5D a 3D integraci čipů.
 
 ## Klíčové body
-- ASE získává novou továrnu v okrese Zhongli v Taoyuanu.
-- Současně zahajuje první fázi výstavby nového závodu v průmyslové zóně Nanzih v Kaohsiungu.
-- Investice reaguje na prudce rostoucí poptávku po pokročilém obalování (advanced packaging) pro AI a HPC čipy.
-- ASE je klíčovým dodavatelem pro výrobce jako Nvidia, AMD a další lídry v oblasti AI.
+- ASE získává továrnu v okrese Zhongli v městě Taoyuan a zahajuje první fázi výstavby nového závodu v průmyslové zóně Nanzih v Kaohsiungu.
+- Investice reaguje na rostoucí poptávku po pokročilém obalování čipů pro AI a HPC (high-performance computing) aplikace.
+- ASE je klíčovým partnerem pro výrobce jako AMD, NVIDIA a další, kteří vyvíjejí AI akcelerátory a datové centrumové procesory.
+- Obalování čipů (packaging) je kritickou fází výroby, která umožňuje propojování více čipů do jednoho modulu s vysokou propustností a nízkou spotřebou.
 
 ## Podrobnosti
-Obalování čipů (chip packaging) je kritickým krokem v polovodičovém řetězci, zejména u AI čipů, kde se vyžaduje vysoká propustnost, nízká latence a efektivní chlazení. Pokročilé technologie jako 2,5D a 3D stacking, fan-out wafer-level packaging (FOWLP) nebo chiplets umožňují integrovat více výpočetních jednotek na menším prostoru s lepší energetickou účinností. ASE, jako lídr v této oblasti, nyní rozšiřuje své kapacity, aby splnila požadavky svých zákazníků, kteří urychlují vývoj AI akcelerátorů a datových center. Nové továrny budou zaměřeny právě na tyto pokročilé procesy. Tchaj-wan zůstává globálním epicentrem polovodičového průmyslu, a ASE tímto krokem posiluje svou roli v rámci tchajwanského „AI supply chain“.
+ASE Technology Holding, součást skupiny ASE Group, je lídrem v oblasti OSAT (outsourced semiconductor assembly and test). V posledních letech se zaměřuje na pokročilé technologie obalování, jako je Fan-Out Wafer Level Packaging (FOWLP), 2,5D/3D stacking a chipletová architektura, které jsou nezbytné pro moderní AI čipy. Tyto technologie umožňují integrovat více specializovaných čipů (např. GPU, HBM paměti, I/O čipy) do jednoho kompaktního balíčku s minimální latencí a maximální energetickou efektivitou.
+
+Nové kapacity v Taoyuanu a Kaohsiungu budou zaměřeny právě na tyto pokročilé procesy. Kaohsiung se stává strategickým centrem pro polovodičový průmysl na jihu Tchaj-wanu, kde vláda podporuje rozvoj high-tech výroby mimo hlavní průmyslové oblasti kolem Hsin-čchu. ASE již dříve oznámila plány na rozšíření v Malajsii, což ukazuje na globální strategii diverzifikace výroby.
 
 ## Proč je to důležité
-Rozšiřování kapacit pro advanced packaging je strategickou odpovědí na strukturální posun v návrhu čipů – místo zmenšování tranzistorů (scaling) se nyní výrobci spoléhají na inovace v obalování. Tento trend je zásadní pro další vývoj AI, protože umožňuje kombinovat různé typy čipů (např. GPU, HBM paměti, I/O čipy) do jednoho modulu s vysokou propustností. ASE tímto investičním krokem nejen posiluje svou konkurenceschopnost vůči jiným OSAT firmám (Outsourced Semiconductor Assembly and Test), ale také podporuje celosvětovou stabilitu dodávek AI čipů v době, kdy geopolitické napětí a omezení exportu technologií do Číny mění dynamiku globálního polovodičového řetězce.
+Růst AI trhu, zejména generativní AI a velkých jazykových modelů (LLM), vytváří bezprecedentní poptávku po výkonných a efektivních čipech. Tyto čipy nelze vyrábět pouze pokročilými lithografickými procesy – klíčovou roli hraje i jejich fyzická integrace. Pokročilé obalování umožňuje dosáhnout výkonu, který by jinak vyžadoval dražší a technologicky náročnější výrobní uzly (např. 2nm). ASE tím posiluje svou roli v globálním řetězci AI hardwaru a konkuruje jiným hráčům jako jsou TSMC (s její technologií CoWoS) nebo Samsung. Pro uživatele a firmy to znamená rychlejší dostupnost AI akcelerátorů a nižší náklady na výpočetní kapacitu v datových centrech.
 
 ---
 
