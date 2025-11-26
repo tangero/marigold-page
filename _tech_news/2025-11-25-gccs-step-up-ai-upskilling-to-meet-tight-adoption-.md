@@ -5,9 +5,9 @@ companies:
 - ANSR
 - žádné
 date: '2025-11-25 00:31:00'
-description: Více než 70 % Globálních kapacitních center (GCC) v Indii nyní řídí globální
-  AI strategie svých mateřských společností, včetně vývoje modelů, kybernetické bezpečnosti
-  a integrace AI do produktů a procesů.
+description: Podle poradenské společnosti ANSR má více než 70 % Globálních kapacitních
+  center (GCC) v Indii na starosti globální AI agendu svých mateřských společností,
+  včetně vývoje modelů, platformového inženýrství a integrace AI do produktů a procesů.
 importance: 3
 layout: tech_news_article
 original_title: GCCs step up AI upskilling to meet tight adoption deadlines
@@ -17,29 +17,27 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: GCC zrychlují vzdělávání ve strojovém učení kvůli těsným termínům zavádění
-  AI
+title: GCC zrychlují vnitřní školení v oblasti AI kvůli těsným termínům nasazení
 url: https://economictimes.indiatimes.com/tech/technology/gccs-step-up-ai-upskilling-to-meet-tight-adoption-deadlines/articleshow/125546171.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-82332,resizemode-75,msid-125546171/tech/technology/gccs-step-up-ai-upskilling-to-meet-tight-adoption-deadlines.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-82332,resizemode-75,msid-125546171/tech/technology/gccs-step-up-ai-upskilling-to-meet-tight-adoption-deadlines.jpg
 ---
 
 ## Souhrn
-Globální kapacitní centra (GCC) v Indii se stávají klíčovými hráči v globální AI transformaci. Místo náboru externích odborníků se zaměřují na interní překvalifikaci zaměstnanců, protože trh trpí nedostatkem specializovaných AI talentů a rychle se měnícími požadavky na dovednosti.
+Globální kapacitní centra (GCC) v Indii stále častěji investují do interního školení zaměstnanců v oblasti umělé inteligence místo náboru externích specialistů. Důvodem je nedostatek kvalifikovaného personálu, rychle se měnící požadavky na dovednosti a tlak na rychlé nasazení AI řešení.
 
 ## Klíčové body
-- Více než 70 % indických GCC nyní řídí globální AI mandát svých společností.
-- Interní překvalifikace pokrývá až 45 % nových AI/ML rolí v zralých centrech.
+- Více než 70 % indických GCC nyní řídí globální AI agendu svých společností.
+- Interní přesuny do AI/ML rolí vzrostly z 15 % v loňském roce na 30–45 % letos.
+- Podle TeamLease Digital tvoří interní mobilita 27 % obsazení AI rolí v GCC.
 - Do roku 2027 bude téměř 40 % současných technologických dovedností částečně zastaralých kvůli „fúzi dovedností“ a integraci AI.
-- Společnosti preferují interní přesuny, protože stávající inženýři lépe splňují hybridní požadavky než externí kandidáti.
+- GCC vytvářejí interně multidisciplinární pozice, protože stávající inženýři lépe splňují hybridní požadavky než externí kandidáti.
 
 ## Podrobnosti
-Podle poradenské společnosti ANSR nyní více než 70 % Globálních kapacitních center (GCC) v Indii převzalo odpovědnost za globální AI strategie svých mateřských firem. Tyto aktivity zahrnují vývoj AI modelů, inženýrství platform, analýzu podvodů, kybernetickou bezpečnost a integraci AI do firemních procesů i produktů. Místo náboru nových odborníků se GCC zaměřují na interní překvalifikaci – podle společnosti TeamLease Digital, specializující se na digitální pracovní sílu, interní mobilita nyní pokrývá 27 % AI rolí. U zralých center tento podíl podle Bharatiya Converge vzrostl z 15 % v loňském roce na 30–45 % letos, díky systematickým programům rozvoje kompetencí.
-
-Hlavním důvodem je rychlá obměna požadovaných dovedností. Roop Kaistha z personální společnosti AMS upozorňuje, že do roku 2027 bude téměř 40 % současných technologických dovedností částečně neaktuálních – ne kvůli ztrátě pracovních míst, ale kvůli fúzi tradičních a AI-orientovaných schopností. Stávající inženýři často lépe zvládají tyto hybridní role než nově najatí specialisté, což podporuje trend interního přesunu.
+Globální kapacitní centra (GCC), která původně sloužila jako nákladově efektivní základny pro IT a back-office operace, se v Indii transformují na strategická jádra pro vývoj a nasazení AI. Poradenská firma ANSR uvádí, že více než 70 % těchto center nyní řídí celosvětovou AI agendu svých mateřských společností – od vývoje modelů a platformového inženýrství po kybernetickou bezpečnost a analýzu podvodů. Místo náboru nových odborníků se firmy zaměřují na překvalifikaci stávajících zaměstnanců. Data společnosti TeamLease Digital ukazují, že interní mobilita pokrývá 27 % obsazení AI rolí. U zralých GCC se podíl interních přesunů do AI/ML pozic meziročně zdvojnásobil až na 30–45 %, což je důsledek strukturovaných vzdělávacích programů, nikoli ad-hoc školení. Roop Kaistha z personální agentury AMS upozorňuje, že do roku 2027 bude téměř 40 % dnešních technologických dovedností částečně zastaralých – ne kvůli ztrátě pracovních míst, ale kvůli integraci AI do stávajících rolí a vzniku hybridních kompetencí.
 
 ## Proč je to důležité
-Tento posun ukazuje, že AI transformace již není jen záležitostí výzkumných laboratoří nebo startupů, ale integrovanou součástí globálních firemních strategií. Indická GCC se stávají centry AI inovací, což má dopad na globální distribuci technologických kapacit. Zároveň to odhaluje rostoucí tlak na rychlou adaptaci pracovní síly – tradiční modely vzdělávání nestačí, a firmy musí budovat vlastní systémy celoživotního učení. Pro české firmy to znamená, že konkurenceschopnost v AI bude záviset nejen na technologii, ale i na schopnosti interně překvalifikovat týmy.
+Tento trend signalizuje zásadní posun v globálním rozdělení práce v oblasti AI. Indická GCC se mění z periferních jednotek na centra inovací, což má dopad na globální konkurenceschopnost firem a geopolitické rozmístění technologických kapacit. Pro průmysl to znamená, že budoucnost AI neleží jen v náboru „hvězdných“ odborníků, ale v systémové překvalifikaci stávajících týmů – což je udržitelnější a rychlejší cesta k škálovatelnému nasazení AI.
 
 ---
 

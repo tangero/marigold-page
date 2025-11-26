@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: terahertzová spektro
 date: '2025-11-25 00:00:00'
-description: Výzkumníci představili nový měřicí systém pro terahertzové pásmo s rekordním
-  rozsahem frekvencí a vysokým spektrálním rozlišením, což otevírá cestu pro pokročilé
-  aplikace v metrologii, bezpečnostní kontrole a astronomii.
+description: Výzkumníci představili nový terahertzový spektrální analyzátor s rekordním
+  frekvenčním rozsahem a vysokým rozlišením, vhodný pro metrologii, nedestruktivní
+  testování a identifikaci materiálů.
 importance: 3
 layout: tech_news_article
 original_title: Terahertz photonic heterodyne spectral analysis with (sub-) kHz resolution
@@ -15,25 +15,26 @@ source:
   emoji: 📰
   id: null
   name: Nature.com
-title: Terahertzová fotonická heterodynová spektrální analýza s rozlišením (pod) kHz
+title: Terahertzová fotonická heterodyní spektrální analýza s rozlišením (pod) kHz
   a krytím 6,5 THz
 url: https://www.nature.com/articles/s41467-025-66457-6
 ---
 
 ## Souhrn
-Výzkumníci vyvinuli ultraširokopásmový fotonický přijímač pro terahertzové frekvence, který dosahuje spektrálního rozlišení na úrovni kilohertzů a pokrývá frekvenční pásmo až 6,5 THz. Systém je vhodný jak pro heterodynovou, tak homodynovou detekci a překonává stávající elektronické spektrální analyzátory v rozsahu frekvencí a nákladech.
+Vědci vyvinuli terahertzový spektrální analyzátor s nejširším dosud dosaženým frekvenčním rozsahem až 6,5 THz a spektrálním rozlišením na úrovni kilohertzů. Systém využívá fotonické technologie a umožňuje jak heterodyní, tak homodyní detekci při pokojové teplotě, což jej činí levnějším a praktičtějším než stávající elektronické řešení.
 
 ## Klíčové body
-- Systém pokrývá frekvenční pásmo od méně než 100 GHz až po 6,5 THz, včetně oblasti nad 1,5 THz, která je komerčně těžko dostupná.
-- Dosahuje spektrálního rozlišení na úrovni (pod) kHz a šumu kolem několika aW/Hz při pokojové teplotě.
-- Je kompatibilní s frekvenčními hřebeny (optical frequency combs) a umožňuje metrologicky přesná měření díky synchronizaci s GPS.
-- Nabízí nejširší dosud publikované spojité frekvenční pokrytí pro terahertzové spektrální analyzátory.
+- Frekvenční pokrytí od 100 GHz do 6,5 THz, včetně oblasti nad 1,5 THz, kde působí kvantové kaskádové lasery
+- Spektrální rozlišení na úrovni (pod) kHz při šumu kolem několika aW/Hz
+- Systém je založen na fotonickém přijímači a lze jej synchronizovat s GPS pro návaznost na SI jednotky
+- Umožňuje rychlé nedestruktivní testování, astronomickou spektroskopii i frekvenčně modulovaný RADAR
+- Nabízí lepší poměr ceny a výkonu než současné elektronické spektrální analyzátory
 
 ## Podrobnosti
-Terahertzové pásmo (0,1–10 THz) je dlouhodobě považováno za „terahertzovou mezeru“, protože tradiční elektronické i optické metody měření zde dosahují limitů. Nový systém využívá fotonické přístupy – konkrétně dvojici laserů a fotodetektor – k generování a analýze terahertzových signálů. Díky tomu je možné měřit spektrální čistotu zdrojů, identifikovat nežádoucí frekvenční komponenty a analyzovat materiály podle jejich „otisku“ v terahertzovém spektru. Systém je navíc schopen pracovat při pokojové teplotě, což snižuje náklady a zjednodušuje nasazení oproti kryogenním řešením. Díky propojení s GPS lze měření trasovat k mezinárodnímu systému jednotek (SI), což je klíčové pro metrologické aplikace. Výzkum byl proveden na Technické univerzitě v Darmstadtu.
+Terahertzové frekvence (0,1–10 THz) jsou klíčové pro řadu aplikací, včetně bezdrátové komunikace nové generace, bezpečnostního skenování, analýzy farmaceutických látek a detekce skrytých defektů v materiálech. Dosavadní elektronické spektrální analyzátory v této oblasti trpí omezeným frekvenčním rozsahem, vysokými náklady a často vyžadují chlazení. Nový systém využívá fotonický přístup – konkrétně kombinaci režimově uzamčených laserů a fotonických hřebenů – což umožňuje kontinuální pokrytí celého pásma až do 6,5 THz při zachování vysokého rozlišení. Díky synchronizaci s GPS je možné měření návazně kalibrovat na mezinárodní jednotkový systém (SI), což je zásadní pro metrologické aplikace. Systém pracuje při pokojové teplotě a dosahuje šumového dna na úrovni jednotek atowattů na hertz (aW/Hz), což je konkurenceschopné vůči chlazeným elektronickým řešením.
 
 ## Proč je to důležité
-Tento pokrok umožňuje praktické využití terahertzového pásma v řadě oblastí: od rychlého nezničujícího testování materiálů v průmyslu, přes bezpečnostní skenování látek (např. výbušnin nebo drog), až po vysokorozlišovací astronomická měření. Zvláště významné je pokrytí frekvencí nad 1,5 THz, kde pracují pokročilé zdroje jako kvantové kaskádové lasery, ale chyběly dostupné analyzátory. Nový systém tak uzavírá mezeru mezi vývojem zdrojů a možností jejich charakterizace, což urychlí vývoj celého ekosystému terahertzových technologií.
+Tento výzkum překonává dosavadní bariéry v terahertzové spektroskopii, zejména v oblasti nad 1,5 THz, kde komerční přístroje téměř neexistují. Umožňuje tak praktické využití pokročilých zdrojů, jako jsou kvantové kaskádové lasery, pro reálné aplikace v průmyslu i vědě. Díky širokému frekvenčnímu pásmu a vysokému rozlišení lze nyní provádět rychlé a přesné analýzy materiálů bez jejich poškození, což má potenciál v lékařství, leteckém průmyslu i bezpečnostních technologiích. Fotonický přístup také otevírá cestu k levnějším a kompaktnějším terahertzovým systémům v budoucnu.
 
 ---
 

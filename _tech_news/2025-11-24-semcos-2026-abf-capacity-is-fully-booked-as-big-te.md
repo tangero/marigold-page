@@ -8,9 +8,9 @@ companies:
 - Amazon Web Services
 - Broadcom
 date: '2025-11-24 23:27:45'
-description: Jihokorejský výrobce Samsung Electro-Mechanics (Semco) uzavřel smlouvy
-  na dodávky ABF substrátů s velkými technologickými firmami, včetně Applu, Googlu,
-  Tesly a dalších, a tím si na rok 2026 zabezpečil téměř plnou výrobní kapacitu.
+description: Samsung Electro-Mechanics (Semco) uzavřel smlouvy na dodávky ABF substrátů
+  s významnými technologickými společnostmi, včetně Applu, Googlu, Tesly a dalších,
+  a tím téměř vyčerpal svou výrobní kapacitu pro rok 2026.
 importance: 3
 layout: tech_news_article
 original_title: Semco’s 2026 ABF capacity is fully booked as Big Tech snaps up supply
@@ -20,29 +20,27 @@ source:
   emoji: 📰
   id: null
   name: Digitimes
-title: Semco má kapacitu ABF substrátů na rok 2026 téměř vyprodanou – Big Tech zajišťuje
-  dodávky
+title: Semco má výrobní kapacitu ABF substrátů na rok 2026 téměř vyprodanou – velké
+  technologické firmy zabezpečily dodávky
 url: https://www.digitimes.com/news/a20251124PD204/semco-capacity-2026-abf-substrate-demand.html
 urlToImage: https://img.digitimes.com/newsshow/20251124pd204_files/2_b.jpg
 urlToImageBackup: https://img.digitimes.com/newsshow/20251124pd204_files/2_b.jpg
 ---
 
 ## Souhrn
-Samsung Electro-Mechanics (Semco), dceřiná společnost Samsung Group specializující se na elektronické komponenty, uzavřel dlouhodobé smlouvy na dodávky ABF (Ajinomoto Build-up Film) substrátů s řadou technologických gigantů, včetně Alphabetu (mateřské společnosti Google), Tesly, Applu, Amazon Web Services a Broadcomu. Výsledkem je, že jeho výrobní kapacita pro rok 2026 je téměř zcela obsazena.
+Samsung Electro-Mechanics (Semco), dceřiná společnost Samsungu specializující se na elektronické komponenty, zabezpečil dodávky ABF (Ajinomoto Build-up Film) substrátů pro rok 2026 s řadou technologických gigantů, včetně Applu, Alphabetu (mateřské společnosti Google), Tesly, Amazon Web Services a Broadcomu. Tímto krokem je jeho výrobní kapacita na příští rok téměř zcela obsazena.
 
 ## Klíčové body
-- Semco je jedním z mála světových výrobců ABF substrátů, klíčové komponenty pro pokročilé čipy používané v AI a datových centrech.
-- Poptávka po ABF substrátech roste kvůli expanzi AI infrastruktury a potřebě výkonnějších procesorů.
-- Mezi zákazníky patří nejen tradiční hráči v oblasti čipů (Broadcom), ale i cloudové a automobilové firmy (AWS, Tesla).
-- Nedostatek ABF substrátů je dlouhodobým hrdlem v globálním polovodičovém řetězci.
+- Semco je jedním z klíčových světových výrobců ABF substrátů, které jsou nezbytné pro pokročilé čipy používané v AI, datových centrech a high-end spotřební elektronice.
+- Mezi zákazníky patří největší technologické firmy světa, což ukazuje na rostoucí poptávku po výkonných a energeticky úsporných čipech.
+- Nedostatek ABF substrátů je dlouhodobým omezením v polovodičovém řetězci, protože jejich výroba je technologicky náročná a kapacity se rozšiřují pomalu.
+- Tento trend podtrhuje strategický význam substrátové technologie v současné fázi rozvoje AI a cloudové infrastruktury.
 
 ## Podrobnosti
-ABF substráty jsou speciální nosné desky, na které se montují pokročilé čipy, zejména high-end GPU a AI akcelerátory. Jsou nezbytné pro výrobu čipů s vysokou hustotou propojení a výkonem, které vyžadují datová centra, autonomní vozidla a AI systémy. Semco je jedním z mála výrobců schopných tyto substráty vyrábět v komerčním měřítku – konkurenci tvoří především japonská firma Shinko a taiwanská Unimicron.
-
-Růst poptávky po AI čipech, zejména od firem jako Nvidia, AMD a custom řešení od Googlu (TPU) či Amazonu, vytváří tlak na celý dodavatelský řetězec. ABF substráty jsou jednou z nejužších láhví – jejich výroba je náročná, kapacita se rozšiřuje pomalu a investice do nových linek trvají roky. Proto si velké firmy zajišťují dodávky dopředu, často s předplacením nebo dlouhodobými smlouvami.
+ABF substráty jsou speciální izolační materiály používané v pokročilých polovodičových obalech (packaging), zejména u čipů s vysokou hustotou pinů, jako jsou GPU, AI akcelerátory nebo procesory pro datová centra. Tyto substráty umožňují efektivní přenos signálu a chlazení čipů, což je kritické pro výkon a spolehlivost moderních systémů. Výroba ABF substrátů je ovládána jen několika málo firmami – kromě Semca se jedná především o japonskou společnost Shinko a IBIDEN. Kvůli dlouhému cyklu výstavby nových výrobních linek a vysokým nárokům na čistotu a přesnost je kapacita těchto substrátů trvale omezená. Velké technologické firmy proto zabezpečují dodávky na roky dopředu, aby zajistily kontinuitu výroby svých čipů a serverů. Tento krok Semca ukazuje, že poptávka po AI hardwaru a cloudové infrastruktuře zůstává vysoká i v roce 2026, což má dalekosáhlé dopady na celý polovodičový ekosystém.
 
 ## Proč je to důležité
-Tato zpráva ilustruje, jak kritické jsou i „neviditelné“ komponenty v ekosystému AI a polovodičů. Zatímco veřejnost sleduje nové modely GPU nebo LLM, skutečným omezením může být nedostatek substrátů, chemikálií nebo specializovaných nástrojů. Skutečnost, že i Tesla nebo AWS investují do zajištění těchto materiálů, ukazuje, jak strategicky důležité se staly i pro nečipové firmy. Tento trend také podporuje snahy o diverzifikaci výroby mimo Japonsko a Korea – například v USA nebo EU – ale v krátkodobém horizontu zůstává trh vysoce koncentrovaný a citlivý na přerušení dodávek.
+Zabezpečení ABF kapacit na dva roky dopředu signalizuje, že velké technologické firmy plánují masivní rozšiřování AI a cloudových služeb. Nedostatek substrátů může být úzkým hrdlem pro menší hráče, kteří nemají finanční ani vyjednávací sílu k získání prioritních dodávek. Tento trend také posiluje geopolitickou dimenzi polovodičového průmyslu, kde nejen výroba čipů, ale i jejich obalování a substráty se stávají strategickými zdroji. Pro uživatele to znamená, že výkonné AI modely a cloudové služby budou i nadále vyžadovat obrovské investice do hardwarové infrastruktury, která je stále více centralizována u několika klíčových hráčů.
 
 ---
 

@@ -5,9 +5,8 @@ companies:
 - Zoom Communications Inc
 date: '2025-11-24 22:59:58'
 description: Akcie společnosti Zoom Communications vzrostly téměř o 4 % po zveřejnění
-  lepších než očekávaných výsledků za třetí čtvrtletí fiskálního roku 2026, kdy firma
-  zaznamenala růst tržeb i zisku díky silnému výkonu v podnikovém segmentu a rozšíření
-  AI funkcí.
+  lepších než očekávaných výsledků za třetí čtvrtletí fiskálního roku 2026. Růst poháněly
+  zejména firemní tržby a zvýšená adopce umělé inteligence.
 importance: 3
 layout: tech_news_article
 original_title: Zoom tops estimates with stronger enterprise sales and higher AI adoption
@@ -17,28 +16,29 @@ source:
   emoji: 📰
   id: null
   name: SiliconANGLE News
-title: Zoom překonal očekávání díky růstu prodejů podnikům a většímu využití umělé
-  inteligence
+title: Zoom překonal očekávání díky růstu firemních prodejů a širšímu nasazení AI
 url: https://siliconangle.com/2025/11/24/zoom-tops-estimates-stronger-enterprise-sales-higher-ai-adoption/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/zoom.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/zoom.png
 ---
 
 ## Souhrn
-Společnost Zoom Communications ohlásila lepší než očekávané finanční výsledky za třetí čtvrtletí fiskálního roku 2026, které skončilo 31. října 2025. Tržby i zisk překonaly analytické odhady, což podpořilo růst akcií o téměř 4 %. Hlavními hybateli výsledků byly vyšší prodeje podnikovým zákazníkům a rostoucí využití umělé inteligence v platformě Zoom.
+Společnost Zoom Communications ohlásila lepší než očekávané finanční výsledky za třetí čtvrtletí fiskálního roku 2026, které skončilo 31. října 2025. Růst tržeb i zisku byl podpořen silným výkonem ve firemním segmentu a zvýšenou adopcí AI funkcí, zejména nové verze Zoom AI Companion 3.0.
 
 ## Klíčové body
-- Tržby dosáhly 1,23 miliardy USD, což je meziroční nárůst o 4,4 %.
-- Upravený zisk na akcii činil 1,52 USD, oproti očekávaným 1,44 USD.
-- Podnikové tržby vzrostly o 6,1 % na 741,4 milionu USD.
-- Počet zákazníků s ročním příjmem pro Zoom přesahujícím 100 000 USD vzrostl o 9 % na 4 353.
-- Společnost v září spustila Zoom AI Companion 3.0 a nového asistenta Zoomie pro hybridní schůzky.
+- Tržby dosáhly 1,23 miliardy dolarů, což je meziroční růst o 4,4 %.
+- Firemní tržby vzrostly o 6,1 % na 741,4 milionu dolarů.
+- Počet firemních zákazníků s ročními tržbami nad 100 000 dolarů vzrostl o 9 % na 4 353.
+- Společnost představila Zoom AI Companion 3.0 s vlastními AI agenty, low-code platformou a realistickými avatary.
+- Na konferenci Zoomtopia byl značný důraz kladen na generativní a agentic AI.
 
 ## Podrobnosti
-Zoom zaznamenal stabilní růst v podnikovém segmentu, což je pro firmu klíčové v době, kdy osobní spotřebitelské použití platformy ustupuje. Podnikové tržby tvoří více než 60 % celkových příjmů a jejich meziroční růst o 6,1 % ukazuje, že Zoom si udržuje konkurenceschopnost v prostředí, kde Microsoft Teams a Google Meet posilují své pozice. Zásadní roli hraje integrace umělé inteligence: v září 2025 společnost uvedla verzi Zoom AI Companion 3.0, která přináší vlastní AI agenty, nástroj pro tvorbu agenty bez hlubokých programovacích znalostí (low-code builder) a realistické AI avatary. Na konferenci Zoomtopia pak firma představila asistenta Zoomie určeného pro fyzické i hybridní schůzky – ten umožňuje hlasové ovládání, generuje návrhy na přípravu setkání a zobrazuje se jako fotorealistický avatar. Další novinkou je funkce „Ask AI Companion“ ve webových seminářích, která umožňuje účastníkům klást otázky AI během přenosu.
+Zoom hlásí upravený zisk na akcii 1,52 dolaru, což je výrazně více než analytický odhad 1,44 dolaru. Operativní zisk dosáhl 507 milionů dolarů oproti 457,8 milionu v předchozím roce, a provozní cash flow vzrostl na 629,3 milionu dolarů. Klíčovým ukazatelem zdraví firemního segmentu je růst počtu velkých zákazníků – těch, kteří společnosti přinášejí více než 100 000 dolarů ročně, přibylo o 9 %.
+
+Technologický posun společnosti směřuje k integraci agentic AI do svých produktů. Zoom AI Companion 3.0, spuštěný v září 2025, umožňuje uživatelům vytvářet vlastní AI agenty prostřednictvím low-code platformy a využívat fotorealistické avatary pro prezentace nebo virtuální schůzky. Dále byl představen asistent Zoomie určený pro hybridní pracovní prostředí – ovládá se hlasem, nabízí návrhy na přípravu schůzek a dokáže reprezentovat uživatele v místnosti prostřednictvím avatara. Nově také webové semináře obsahují funkci „Ask AI Companion“, která umožňuje účastníkům pokládat dotazy AI během přenosu.
 
 ## Proč je to důležité
-Zoom se snaží přesunout od image „pandemické“ komunikační platformy k modernímu podnikovému nástroji s hlubokou integrací AI. Tento posun je strategicky nezbytný, protože konkurence v oblasti kolaboračních nástrojů je intenzivní a zákazníci vyžadují více než jen videohovory – chtějí inteligentní asistenci, automatizaci a personalizaci. Úspěšné nasazení AI funkcí může Zoomu pomoci udržet si loajální podnikovou zákaznickou základnu a zvýšit průměrný příjem na uživatele. Zároveň ukazuje, jak i středně velké technologické firmy aktivně využívají agentic AI a generativní modely k diferenciaci svých produktů.
+Zoom se snaží překonat období poklesu po pandemii tím, že se posouvá od běžného videohovorového nástroje k platformě pro inteligentní spolupráci. Integrace agentic AI a vlastních asistentů odpovídá širšímu průmyslovému trendu, kdy komunikační nástroje (např. Microsoft Teams, Google Meet) zavádějí AI funkce pro zvýšení produktivity. Pokud se Zoom podaří udržet tempa růstu firemních tržeb a efektivně nasadit své AI řešení, může získat trvalou konkurenční výhodu v prostředí, kde uživatelé vyžadují více než jen spolehlivé připojení – chtějí inteligentní asistenci a automatizaci pracovních postupů.
 
 ---
 

@@ -5,10 +5,9 @@ companies:
 - Google
 - Accel
 date: '2025-11-25 00:30:00'
-description: Americký rizikový fond Accel a Google spustily společný program pro podporu
-  raných fází indických startupů zaměřených na umělou inteligenci. Vybrané firmy získají
-  nejen kapitál, ale také přístup k pokročilým nástrojům jako Google Cloud, modely
-  Gemini a odbornou podporu od DeepMindu.
+description: Venture kapitál Accel a Google spustily společný program pro rané indické
+  AI startupy, který zahrnuje až 2 miliony dolarů investic a přístup k pokročilým
+  nástrojům jako Google Cloud, Gemini a DeepMind.
 importance: 4
 layout: tech_news_article
 original_title: Accel partners with Google to back Indian AI startups with $2 million
@@ -19,27 +18,28 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: Accel a Google společně investují 2 miliony dolarů do indických AI startupů
+title: Accel spolupracuje s Googlem na podpoře indických AI startupů s investicí 2
+  miliony dolarů
 url: https://economictimes.indiatimes.com/tech/startups/accel-partners-with-google-to-back-indian-ai-startups-with-2-million-co-investment/articleshow/125548474.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-26100,resizemode-75,msid-125548474/tech/startups/accel-partners-with-google-to-back-indian-ai-startups-with-2-million-co-investment.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-26100,resizemode-75,msid-125548474/tech/startups/accel-partners-with-google-to-back-indian-ai-startups-with-2-million-co-investment.jpg
 ---
 
 ## Souhrn
-Accel a Google spustily v rámci programu Accel Atoms 2026 AI Cohort, který bude společně financovat indické startupy v oblasti umělé inteligence. Celkem 2 miliony dolarů – po milionu od každé strany – půjde na podporu raných fází vývoje, přičemž program zahrnuje i technologickou a mentorskou podporu.
+Venture kapitálová společnost Accel a Google spustily společný program 2026 AI Cohort v rámci Accelova Atoms programu, který bude podporovat rané indické startupy zaměřené na umělou inteligenci. Společně plánují investovat až 2 miliony dolarů a poskytnout vybraným firmám přístup k technologickým zdrojům Googlu včetně Google Cloud, modelů Gemini a expertízy DeepMind.
 
 ## Klíčové body
-- Společná investice ve výši až 2 milionů dolarů (1 milion od Accelu, 1 milion od Googlu)
-- Cílem jsou indické AI startupy i zakladatelé z diaspor, kteří cílí na indický i globální trh
-- Vybrané firmy získají přístup k Google Cloud, modelům Gemini (včetně připravované verze Gemini 3) a technické podpoře DeepMindu
-- Jedná se o první globální spolupráci Google AI Futures Fund s externím investorem
-- Program Accel Atoms již podpořil 40 firem, které následně získaly přes 300 milionů dolarů v dalších kolech financování
+- Accel a Google společně investují až 2 miliony dolarů do raných indických AI startupů.
+- Program je součástí Accelova Atoms programu, který se nyní specializuje výhradně na AI.
+- Vybrané startupy získají nejen kapitál, ale i přístup k Google Cloud, modelům Gemini (včetně budoucí verze Gemini 3) a technické podpoře od DeepMind.
+- Podpora se vztahuje i na zakladatele z indické diaspory, kteří cílí na indický i globální trh.
+- Jde o první globální spolupráci Google AI Futures Fund tohoto typu.
 
 ## Podrobnosti
-Program Accel Atoms, který původně podporoval startupy napříč odvětvími, se od svého založení před čtyřmi lety specializuje výhradně na umělou inteligenci. V rámci nového 2026 AI Cohortu budou vybrané firmy získávat nejen kapitál, ale i klíčové technologické zdroje: přístup k výpočetním kapacitám Google Cloud, pokročilým velkým jazykovým modelům Gemini a přímou technickou podporu od týmů DeepMindu – výzkumné divize Googlu specializující se na pokročilé formy AI. Jonathan Silber z DeepMindu zdůraznil, že jde o kombinaci „kapitálu a výpočetního výkonu“ spolu s odbornou pomocí jak technických, tak obchodních expertů. Prayank Swaroop z Accelu uvedl, že cílem je poskytnout zakladatelům „kompletní sadu zdrojů“ pro globální škálování od samého počátku. Program také explicitně podporuje zakladatele indického původu žijící v zahraničí, kteří vyvíjejí řešení pro indický i mezinárodní trh.
+Program 2026 AI Cohort je pokračováním Accelova čtyřletého Atoms programu, který původně podporoval startupy napříč odvětvími, ale nyní se plně zaměřuje na umělou inteligenci. Během své existence Atoms podpořil 40 společností, které následně získaly více než 300 milionů dolarů v dalších kolech financování. V rámci nové spolupráce Accel investuje až 1 milion dolarů a Google stejnou částku shodně doplní. Kromě finančních prostředků získají startupy přístup k výpočetním kapacitám Google Cloud, pokročilým AI modelům Gemini a technickému poradenství od týmů Google DeepMind i Accel. Jonathan Silber z Google DeepMind zdůraznil, že klíčovou výhodou je kombinace kapitálu, výpočetního výkonu a přímé podpory odborníků. Startupy tak získají možnost testovat a integrovat nejnovější AI technologie, včetně předběžného přístupu k modelu Gemini 3.
 
 ## Proč je to důležité
-Tato spolupráce je významná nejen pro indický startupový ekosystém, ale i pro globální rozvoj AI. Google tím poprvé nasazuje svůj AI Futures Fund mimo vlastní struktury a spolupracuje s externím investorem – což může být předzvěstí širší strategie podpory lokálních AI ekosystémů po celém světě. Pro startupy je přístup k modelům jako Gemini 3 (očekávaný nástupce stávajících verzí) a technické podpoře DeepMindu výjimečnou výhodou, která může zásadně urychlit vývoj a snížit bariéry vstupu do náročného AI prostředí. V kontextu globálního závodu o AI dominanci tak tento krok posiluje Indii jako významné technologické centrum.
+Tato iniciativa posiluje Indii jako rychle rostoucí centrum AI inovací a zároveň ukazuje, jak velké technologické firmy strategicky investují do lokálních ekosystémů. Pro startupy je kritické mít přístup nejen k penězům, ale i k špičkovým AI nástrojům a know-how, což zvyšuje jejich šanci na globální konkurenceschopnost. Pro Google jde o první takový krok svého AI Futures Fundu mimo USA, což naznačuje širší strategii pronikání na rozvíjející se trhy prostřednictvím partnerství s lokálními hráči. Pro globální AI scénu to znamená další zrychlení inovací z regionů mimo tradiční technologická centra jako Silicon Valley.
 
 ---
 

@@ -1,13 +1,12 @@
 ---
 author: Marisa Aigen
-category: mini pc
+category: mini počítače
 companies:
-- Intel
 - GMKtec
+- Intel
 date: '2025-11-24 23:34:00'
-description: Nový mini počítač GMKtec EVO-T2 nabídne výrazně vyšší výkon, až 128 GB
-  paměti LPDDR5X a AI výkon až 180 TOPS, což jej činí atraktivním pro mobilní pracovní
-  stanice a firemní nasazení.
+description: Nový mini počítač GMKtec EVO-T2 přináší výrazné vylepšení v oblasti paměti,
+  úložiště a výkonu pro umělou inteligenci díky novému procesoru Intel Panther Lake.
 importance: 3
 layout: tech_news_article
 original_title: GMKtec's next mini PC will be the first to feature Intel Panther Lake
@@ -18,27 +17,30 @@ source:
   emoji: 📰
   id: techradar
   name: TechRadar
-title: GMKtec představuje první mini počítač s procesorem Intel Panther Lake
+title: GMKtec představil mini počítač EVO-T2 s procesorem Intel Panther Lake a výkonnou
+  AI
 url: https://www.techradar.com/pro/gmktecs-next-mini-pc-will-be-the-first-to-feature-intel-panther-lake-and-some-other-seriously-impressive-specs
 urlToImage: https://cdn.mos.cms.futurecdn.net/yGe5pKUd7TaPsZmj53nvy6-1920-80.png
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/yGe5pKUd7TaPsZmj53nvy6-1920-80.png
 ---
 
 ## Souhrn
-GMKtec představil svůj nový mini počítač EVO-T2, který bude prvním zařízením na trhu s procesorem Intel Panther Lake. Systém nabízí výrazné zvýšení výkonu, zejména v oblasti AI, díky až 180 TOPS výkonu, podpoře až 128 GB rychlé paměti LPDDR5X a dvěma slotům pro SSD disky s celkovou kapacitou až 16 TB.
+GMKtec představil svůj nejnovější mini počítač EVO-T2, který jako první na trhu využívá procesorovou platformu Intel Panther Lake. Zařízení nabízí až 128 GB rychlé paměti LPDDR5X, dvě sloty pro SSD s celkovou kapacitou až 16 TB a výpočetní výkon pro umělou inteligenci až 180 TOPS.
 
 ## Klíčové body
-- První mini počítač s procesorem Intel Panther Lake (Core Ultra 300H)
-- AI výkon až 180 TOPS
-- Až 128 GB paměti LPDDR5X s frekvencí 10 677 MT/s
+- První mini počítač s procesorem Intel Panther Lake (Core Ultra 300H série)
+- Až 128 GB LPDDR5X paměti s frekvencí 10 677 MT/s
 - Dva sloty pro SSD (PCIe 5.0 a PCIe 4.0), celkem až 16 TB úložiště
-- Konfigurovatelný TDP až 80 W pro vyšší výkon při zátěži
+- AI výkon až 180 TOPS, kompatibilní se softwarovým stackem Intel AI PC
+- Navržen pro profesionální pracovní stanice a mobilní podnikové nasazení
 
 ## Podrobnosti
-GMKtec, čínský výrobce specializující se na kompaktní počítače pro profesionální i spotřebitelské trhy, představil EVO-T2 na Intelově konferenci Technology Innovation and Industry Ecology 2025. Procesor „Panther Lake H 12Xe3“ patří do řady Core Ultra 300H a obsahuje 12 jader grafické jednotky Xe3, což odpovídá integrované GPU Arc B390. Tato architektura je navržena pro náročné úlohy včetně strojového učení a multimediálního zpracování. Paměťový subsystém podporuje až 128 GB LPDDR5X s extrémně vysokou propustností, což je dvojnásobek kapacity předchozího modelu EVO-T1. Úložiště je řešeno dvěma M.2 sloty – jeden PCIe 5.0 a druhý PCIe 4.0 – což umožňuje flexibilní konfiguraci pro rychlé i kapacitní disky. Systém bude pravděpodobně předinstalován s Intelovým AI PC software stackem, což usnadní nasazení lokálních AI modelů, jako jsou asistenty pro zpracování textu, obrazu nebo hlasu.
+GMKtec, čínský výrobce specializující se na kompaktní výkonné počítače, představil EVO-T2 na Intelově konferenci Technology Innovation and Industry Ecology 2025. Nový model nahrazuje předchozí EVO-T1 a přináší výrazný skok v hardwarových specifikacích. Procesor „Panther Lake H 12Xe3“ z řady Core Ultra 300H je mobilní čip s konfigurovatelným TDP až 80 W a integrovaným grafickým jádrem s 12 Xe3 jednotkami – pravděpodobně odpovídající iGPU Arc B390. Tento krok umožňuje výrazně lepší výkon nejen v běžných úlohách, ale i v náročných AI workloadech, jako je lokální inferenční zpracování modelů nebo multimediální analýza.
+
+Paměťový subsystém s až 128 GB LPDDR5X je klíčový pro práci s velkými datovými sadami a virtuálními prostředími, zatímco dvojice SSD slotů (jeden PCIe 5.0, druhý PCIe 4.0) zajišťuje rychlý přístup k datům i flexibilitu při rozšiřování. S ohledem na cílové nasazení v podnikovém sektoru a mobilních pracovních stanicích je EVO-T2 vybaven také rozhraními pro periferie – třemi USB-A porty, jedním USB-C a audio jackem.
 
 ## Proč je to důležité
-Mini počítače jako EVO-T2 ukazují, jak se hranice mezi notebooky a stolními systémy rozmazávají – zejména v oblasti AI výpočtů. Intelova strategie „AI PC“ získává konkrétní hardwarovou podporu, a GMKtec tím posouvá miniaturizaci výkonných pracovních stanic. Pro firmy to znamená možnost nasadit lokální AI bez nutnosti cloudu, což zvyšuje bezpečnost a snižuje latenci. Zároveň však zůstává otázkou, jak efektivně bude chlazení zvládat TDP až 80 W v tak kompaktním tělese – předchozí modely GMKtecu v tomto ohledu obstály, ale Panther Lake je výrazně náročnější.
+Mini počítače jako EVO-T2 ukazují, jak se hranice mezi notebooky a stolními systémy rozmazávají – zejména v kontextu AI workloads, které dříve vyžadovaly specializovaný hardware. Intelův AI PC software stack, který bude pravděpodobně předinstalován, umožňuje vývojářům a firmám využívat lokální AI bez nutnosti cloudových služeb, což zvyšuje soukromí i latenci. GMKtec tím posiluje svou pozici na trhu výkonných, ale kompaktních systémů pro profesionální uživatele, kteří potřebují výkon bez kompromisů s rozměry.
 
 ---
 

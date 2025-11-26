@@ -3,10 +3,9 @@ author: Marisa Aigen
 category: ai vzdělávání
 companies:
 - Red Hat
-- OpenAI
 date: '2025-11-25 00:00:00'
-description: Článek upozorňuje, že i přes rychlý rozvoj AI asistentů zůstává strukturované
-  školení a certifikace klíčové pro efektivní využití těchto nástrojů v praxi.
+description: Článek upozorňuje, že i přes rychlý rozvoj AI nástrojů zůstává strukturované
+  odborné školení klíčové pro efektivní využití umělé inteligence v IT praxi.
 importance: 3
 layout: tech_news_article
 original_title: 'Beyond the bot: How Red Hat Training makes you a better IT professional'
@@ -23,19 +22,19 @@ urlToImageBackup: https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-s
 ---
 
 ## Souhrn
-I když AI asistenti dokážou během sekund navrhnout řešení produkčních problémů, jejich efektivní využití stále vyžaduje hluboké technické porozumění. Red Hat zdůrazňuje, že kombinace certifikovaného školení a AI nástrojů vytváří nejsilnější profil IT profesionála.
+I když AI asistenti dokážou během sekund navrhnout řešení produkční chyby, samotná existence těchto nástrojů neznamená, že odborné školení ztrácí na významu. Naopak – Red Hat zdůrazňuje, že úspěšní IT profesionálové kombinují AI s ověřenými znalostmi získanými formálním vzděláváním.
 
 ## Klíčové body
-- AI asistenti zrychlují rutinní úkoly, jako je hledání syntaxe nebo generování kódu, ale ne nahrazují odborné znalosti.
-- Red Hat Training poskytuje ověřené a strukturované znalosti, které umožňují správně formulovat dotazy pro AI a interpretovat její výstupy.
-- Nejlepší výsledky přináší hybridní přístup: AI jako škálovatelný pomocník, školení jako základ autoritativní odbornosti.
-- AI efektivně podporuje rychlé experimentování a překlad kódu mezi programovacími jazyky.
+- AI nástroje zrychlují rutinní úkoly, ale vyžadují hluboké porozumění systému pro správné zadání dotazu.
+- Red Hat Training poskytuje validované a praxí ověřené znalosti, které AI nemůže nahradit.
+- Optimální přístup spočívá v hybridním využití AI jako doplňku k odborné způsobilosti, nikoli jako její náhradě.
+- AI exceluje v rychlém vyhledávání syntaxe, generování kódu nebo překladu mezi programovacími jazyky.
 
 ## Podrobnosti
-AI nástroje, zejména velké jazykové modely (LLM), se stávají běžnou součástí každodenní práce vývojářů a správců systémů. Umí například okamžitě poskytnout správnou syntaxi pro příkaz v Ansible playbooku nebo navrhnout boilerplate kód pro novou mikroslužbu. Nicméně jejich užitečnost závisí na schopnosti uživatele přesně identifikovat problém, formulovat relevantní dotaz a kriticky zhodnotit navržené řešení. Bez pevného základu v operačních systémech, síťování nebo automatizaci (např. pomocí Red Hat Ansible Automation Platform) může AI vést k chybným nebo nebezpečným doporučením. Red Hat, společnost specializující se na open-source enterprise řešení a distribuci Linuxu (Red Hat Enterprise Linux), proto prosazuje, že formální školení a certifikace (např. Red Hat Certified Engineer) neztrácejí na významu – naopak se stávají nezbytným komplementem k AI. Školení nejen rozšiřují technické schopnosti, ale také učí profesionály, kdy AI vůbec nasadit a jak ji integrovat do bezpečných a udržitelných pracovních postupů.
+AI asistenti, zejména velké jazykové modely (LLM), skutečně transformují každodenní práci IT specialistů. Umí například okamžitě vygenerovat správnou syntaxi pro Ansible playbook, navrhnout alternativní příkazy v příkazovém řádku nebo převést funkci z Pythonu do Go. Tyto schopnosti ušetří čas při ladění skriptů nebo při integraci starších komponent do moderních systémů. Avšak efektivita těchto nástrojů závisí na schopnosti uživatele přesně formulovat požadavek a interpretovat výsledek v kontextu konkrétní infrastruktury. Bez pevného základu v operačních systémech, síťování nebo správě kontejnerů může AI poskytnout technicky správnou, ale prakticky nevhodnou radu. Red Hat, jako dodavatel open-source řešení pro podnikové prostředí (zejména distribuce Red Hat Enterprise Linux a platformy OpenShift), proto trvá na tom, že jeho certifikovaná školení – jako Red Hat Certified Engineer (RHCE) – poskytují právě ten kontext, který AI chybí. Školení nejen učí technické dovednosti, ale také schopnost diagnostikovat problémy, které AI neumí identifikovat bez lidského zadání.
 
 ## Proč je to důležité
-V době, kdy AI slibuje „demokratizaci“ programování, je riziko povrchního pochopení technologií větší než kdy dříve. Článek připomíná, že AI není náhrada za odbornost, ale nástroj, jehož síla se plně projeví až v rukou kvalifikovaného uživatele. Pro průmysl to znamená, že investice do lidského kapitálu – konkrétně do certifikovaného vzdělávání – zůstávají klíčové i v éře umělé inteligence. Hybridní přístup, který kombinuje rychlost AI s hloubkou lidské expertízy, je nejbezpečnější cestou k udržitelné inovaci v IT.
+V éře, kdy se AI stává běžnou součástí vývojářských nástrojů, hrozí iluze, že „všechno lze vyřešit dotazem“. Tento článek připomíná, že AI je nástroj, nikoli náhrada za odbornost. Pro průmysl to znamená, že investice do lidského kapitálu – konkrétně do certifikovaného vzdělávání – zůstává klíčová. Bez ní hrozí, že AI bude používána neefektivně nebo dokonce nebezpečně, zejména v kritických produkčních prostředích.
 
 ---
 

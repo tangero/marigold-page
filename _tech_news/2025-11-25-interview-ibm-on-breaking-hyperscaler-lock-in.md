@@ -6,8 +6,8 @@ companies:
 - LinuxOne
 date: '2025-11-25 00:41:00'
 description: Hans Dekkers, generální ředitel IBM pro Asii a Tichomoří, vysvětluje,
-  proč podniky v regionu přehodnocují svou závislost na veřejném cloudu, jak se mainframe
-  vracejí prostřednictvím LinuxOne a jak IBM využívá vlastní AI nástroje ke snížení
+  proč podniky v regionu přehodnocují svou závislost na veřejném cloudu, znovuoživení
+  mainframů prostřednictvím LinuxOne a jak IBM využívá vlastní AI nástroje ke snížení
   interních nákladů.
 importance: 3
 layout: tech_news_article
@@ -20,30 +20,29 @@ source:
   emoji: 📰
   id: null
   name: ComputerWeekly.com
-title: 'Rozhovor: IBM o překonávání závislosti na hyperskalerech'
+title: 'Rozhovor: IBM o uvolnění závislosti na hyperskalerech'
 url: https://www.computerweekly.com/news/366634387/Interview-IBM-on-breaking-hyperscaler-lock-in
 urlToImage: https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/IT-systems-development-fotolia.jpg
 urlToImageBackup: https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/IT-systems-development-fotolia.jpg
 ---
 
 ## Souhrn
-IBM se pozicionuje jako neutrální hráč v multicloudovém prostředí, kde podniky v Asii a Tichomoří hledají cesty, jak snížit závislost na hyperskalerech jako AWS, Microsoft Azure nebo Google Cloud. Klíčovým nástrojem je open-source platforma Red Hat, která umožňuje přenositelnost aplikací mezi různými cloudy i lokálními servery.
+IBM se pozicionuje jako neutrální hráč v multicloudovém prostředí, který pomáhá podnikům v Asii a Tichomoří uniknout závislosti na hyperskalerech jako AWS, Microsoft nebo Google. Společnost klade důraz na otevřenou hybridní cloudovou infrastrukturu založenou na Red Hatu a specializovanou AI.
 
 ## Klíčové body
-- CIO v regionu APAC čelí pěti základním výzvám: heterogenní IT infrastruktura, nevyužitá data, nedostatek automatizace, nedostatek odborníků a rostoucí bezpečnostní rizika.
-- IBM nepostupuje jako konkurent hyperscalerů, ale jako „propojovací tkáň“ mezi cloudy díky Red Hat OpenShift.
-- Společnost využívá vlastní AI nástroje (tzv. „client-zero“ přístup) k ověření efektivity svých řešení interně před nasazením u zákazníků.
-- Mainframe technologie se obnovují prostřednictvím LinuxOne, který nabízí vysokou bezpečnost a efektivitu pro citlivá data.
+- Podniky v APAC regionu čelí rostoucímu tlaku kvůli geografickým rizikům a zákonům o suverenitě dat.
+- IBM nepostupuje jako konkurent hyperskalerů, ale jako „propojovací tkáň“ mezi různými cloudovými a lokálními prostředími.
+- Red Hat OpenShift umožňuje přenositelnost aplikací mezi různými cloudy a on-premise infrastrukturou.
+- IBM využívá vlastní AI nástroje (tzv. „client-zero“ přístup) k internímu snížení nákladů a ověření užitné hodnoty AI.
+- Mainframová platforma LinuxOne znovu získává na významu díky bezpečnosti a efektivitě zpracování dat.
 
 ## Podrobnosti
-Hans Dekkers, generální ředitel IBM pro Asii a Tichomoří, upozorňuje, že rostoucí geopolitické napětí a zákony o suverenitě dat nutí podniky přehodnocovat svou strategii cloudu. Místo jednoho veřejného poskytovatele volí hybridní model, který kombinuje lokální infrastrukturu s více cloudy. IBM tuto potřebu řeší přes Red Hat OpenShift – platformu založenou na Kubernetes, která umožňuje spouštět kontejnerizované aplikace kdekoli bez nutnosti přepisovat kód. Dekkers porovnává Red Hat s krevními skupinami: „Pokud nejsou kompatibilní, nelze přenášet.“
+Podle Hansa Dekkerse, generálního ředitele IBM pro Asii a Tichomoří, čelí ředitelé informačních technologií pěti základním výzvám: heterogenitě IT prostředí (kombinace lokálních a cloudových systémů), nevyužitému potenciálu dat, nedostatku automatizace, nedostatku odborníků na nové technologie a následnému zvýšení bezpečnostních rizik. IBM na tyto výzvy reaguje hybridním cloudovým přístupem postaveným na Red Hat OpenShift – platformě, která umožňuje spouštět kontejnerizované aplikace kdekoli bez nutnosti přepisování kódu. Dekkers porovnává Red Hat s krevními skupinami: „Pokud máte kompatibilní krevní skupinu, můžete přežít transfuzi – stejně tak Red Hat umožňuje přenositelnost mezi různými cloudy.“
 
-Zároveň IBM obnovuje zájem o mainframe technologii prostřednictvím systému LinuxOne, který umožňuje spouštět Linux workloady na vysoce bezpečném a energeticky efektivním hardwaru. Tento přístup je atraktivní pro banky a státní instituce, které zpracovávají citlivá data a potřebují splnit přísné regulační požadavky.
-
-Interně IBM využívá své AI nástroje – například Watsonx – k automatizaci IT operací a snížení nákladů. Tento „client-zero“ přístup slouží jako důkaz konceptu pro zákazníky, že investice do AI přináší reálné úspory.
+Společnost se dále zaměřuje na specializovanou AI, nikoli na obecné modely. Interně používá vlastní AI nástroje (např. Watsonx) k optimalizaci provozu – tento „client-zero“ přístup slouží jako důkaz reálné návratnosti investic do AI. Zároveň IBM obnovuje zájem o mainframovou platformu LinuxOne, která nabízí vysokou bezpečnost, energetickou efektivitu a schopnost zpracovávat citlivá data v souladu s lokálními zákony o suverenitě dat.
 
 ## Proč je to důležité
-Trend odchod od monolitních cloudových řešení směrem k otevřené hybridní architektuře odráží širší posun v IT strategii firem. IBM tímto přístupem nabízí alternativu k dominanci hyperscalerů a zároveň řeší reálné problémy: řízení nákladů, dodržování regulací a bezpečnost dat. V kontextu rostoucí fragmentace globálního cloudu je schopnost přenášet workloady mezi prostředími klíčová pro budoucí odolnost podniků.
+Tento posun odjistí podniky od monopolních závislostí na hyperskalerech a posílí jejich schopnost reagovat na geopolitické a regulační změny. IBM tím nabízí realistickou alternativu pro organizace, které potřebují flexibilitu, bezpečnost a kontrolu nad daty – zejména v regionech s přísnými datovými zákony, jako je Čína, Indie nebo Austrálie. V kontextu rostoucí fragmentace globálního cloudu je IBM jednou z mála firem, která má jak technologickou základnu (Red Hat, LinuxOne), tak strategickou neutralitu.
 
 ---
 
