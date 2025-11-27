@@ -1,7 +1,1033 @@
 {
-  "generated": "2025-11-27T08:32:05.054868+00:00",
+  "generated": "2025-11-27T12:25:57.777026+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "ZOOM Won't Be Worth $23.5B Today If Not For A Long-Distance Love Affair",
+      "description": "Zoom founder Eric Yuan created a platform for seamless visual connection, bridging distances for users everywhere.",
+      "slug": "zoom-wont-be-worth-235b-today-if-not-for-a-long-di",
+      "publishedAt": "2025-11-26T12:23:40+00:00",
+      "date": "2025-11-26 12:23:40",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d.ibtimes.com/en/full/4635279/zoom-video-conferencing.png",
+      "url": "/tech-news/2025-11-26/zoom-wont-be-worth-235b-today-if-not-for-a-long-di/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Foldable Phones Review 2025: The Best Foldable Models Leading Smartphone Trends",
+      "description": "Foldable phones are evolving in 2025. Explore the best foldable 2025 models, key features, and smartphone trends that make folding devices practical and exciting.",
+      "slug": "foldable-phones-review-2025-the-best-foldable-mode",
+      "publishedAt": "2025-11-26T12:23:23+00:00",
+      "date": "2025-11-26 12:23:23",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d.ibtimes.com/en/full/4635280/foldable-smartphone.jpg",
+      "url": "/tech-news/2025-11-26/foldable-phones-review-2025-the-best-foldable-mode/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Meta Glasses Privacy: Can You Trust Wearable Tech with Your Data?",
+      "description": "Explore critical Meta Glasses privacy issues, wearable tech security risks, and how data protection by Meta impacts user safety in smart glasses technology today.",
+      "slug": "meta-glasses-privacy-can-you-trust-wearable-tech-w",
+      "publishedAt": "2025-11-26T12:23:07+00:00",
+      "date": "2025-11-26 12:23:07",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d.ibtimes.com/en/full/4635281/meta-glasses.png",
+      "url": "/tech-news/2025-11-26/meta-glasses-privacy-can-you-trust-wearable-tech-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Australia will enforce a social media ban for children under 16 despite a court challenge",
+      "description": "The Australian government says children under 16 will be banned from social media next month as scheduled despite a legal challenge",
+      "slug": "australia-will-enforce-a-social-media-ban-for-chil",
+      "publishedAt": "2025-11-26T12:22:00+00:00",
+      "date": "2025-11-26 12:22:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.abcnewsfe.com/a/cb5ce663-cd8a-4ddd-94e3-1d09d0198929/wirestory_5c85493f58c2869505431f101af17f35_16x9.jpg?w=1600",
+      "url": "/tech-news/2025-11-26/australia-will-enforce-a-social-media-ban-for-chil/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google’s Nano Banana Pro AI Model Further Erodes Trust in Photos",
+      "description": "Google has released a more advanced version of its Nano Banana AI image model, and it is becoming increasingly difficult to spot the difference between real and AI-generated photos.\n[Read More]",
+      "slug": "googles-nano-banana-pro-ai-model-further-erodes-tr",
+      "publishedAt": "2025-11-26T12:21:23+00:00",
+      "date": "2025-11-26 12:21:23",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/11/Migrant-Mother-AI.jpg",
+      "url": "/tech-news/2025-11-26/googles-nano-banana-pro-ai-model-further-erodes-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk Says Grok's 1481 ELO 'Not Bad For Now' As xAI Pushes For Top Spot",
+      "description": "Elon Musk's xAI is aggressively challenging for the AI top spot, backed by Grok's reported 1481 ELO and Musk's prediction of first place by January.",
+      "slug": "elon-musk-says-groks-1481-elo-not-bad-for-now-as-x",
+      "publishedAt": "2025-11-26T12:19:21+00:00",
+      "date": "2025-11-26 12:19:21",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://d.ibtimes.com/en/full/4635298/elon-musk.jpg",
+      "url": "/tech-news/2025-11-26/elon-musk-says-groks-1481-elo-not-bad-for-now-as-x/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Best Logo Design Software in 2026: Top 10 Tools Redefining How Brands Are Built",
+      "description": "What should you look for in logo design software for 2026? Creative work shifted faster in the last three years than in the decade before it. Logo designers feel this shift more than most. Artificial intelligence reshapes ideation. Cloud tools make collaborat…",
+      "slug": "the-best-logo-design-software-in-2026-top-10-tools",
+      "publishedAt": "2025-11-26T12:14:03+00:00",
+      "date": "2025-11-26 12:14:03",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://weandthecolor-21f52.kxcdn.com/wp-content/uploads/2025/11/Best-logo-design-software-in-2026.webp",
+      "url": "/tech-news/2025-11-26/the-best-logo-design-software-in-2026-top-10-tools/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Weandthecolor.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The best dash cam 2025: we've tested the finest car cameras for every budget",
+      "description": "From tiny yet powerful single channel units to smart multi-cam setups, we've rounded up the best dash cams you can buy today",
+      "slug": "the-best-dash-cam-2025-weve-tested-the-finest-car-",
+      "publishedAt": "2025-11-26T12:11:02+00:00",
+      "date": "2025-11-26 12:11:02",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eDXzJagK8GhbmMmtnzFeNV-2000-80.jpg",
+      "url": "/tech-news/2025-11-26/the-best-dash-cam-2025-weve-tested-the-finest-car/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Onton raises $7.5M to expand its AI-powered shopping site beyond furniture | TechCrunch",
+      "description": "Onton, which change its name from Deft, is giving users an infinite canvas with AI-powered image generation to nudge them towards making quicker purchase decisions",
+      "slug": "onton-raises-75m-to-expand-its-ai-powered-shopping",
+      "publishedAt": "2025-11-26T12:02:19+00:00",
+      "date": "2025-11-26 12:02:19",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Multimodal-text-and-image-search-with-Onton.jpeg?resize=1200,675",
+      "url": "/tech-news/2025-11-26/onton-raises-75m-to-expand-its-ai-powered-shopping/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI Excellence Awards 2026: Most Effective Implementation Of AI For Talent Development And Management",
+      "description": "The companies honored in this year's awards are redefining what AI for talent development and management can achieve. From smarter skills mapping to predictive talent insights and personalized growth paths, these innovators are transforming how organizations …",
+      "slug": "ai-excellence-awards-2026-most-effective-implement",
+      "publishedAt": "2025-11-26T12:00:41+00:00",
+      "date": "2025-11-26 12:00:41",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/11/AI-Excellence-Awards-2026-Most-Effective-Implementation-of-AI-for-Talent-Development-Management-social-share-image.png",
+      "url": "/tech-news/2025-11-26/ai-excellence-awards-2026-most-effective-implement/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Elearningindustry.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "What Global CMOs Want in 2026: Strategic Priorities and Agency Expectations",
+      "description": "805 international marketing leaders reveal how AI is reshaping the future of brand-building in the CMO Barometer from Serviceplan Group, University of St. Gallen, and Heidrick & Struggles 805 international marketing leaders reveal how AI is reshaping the futu…",
+      "slug": "what-global-cmos-want-in-2026-strategic-priorities",
+      "publishedAt": "2025-11-26T12:00:00+00:00",
+      "date": "2025-11-26 12:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/3385ac95-ff6c-4c49-b1df-bae57d04c41f",
+      "url": "/tech-news/2025-11-26/what-global-cmos-want-in-2026-strategic-priorities/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Transistor Outline (TO) Package Market Size to Hit USD 6.02 Billion by 2033 | Research by SNS Insider",
+      "description": "The size of the U.S. transistor outline (TO) package market is expected to expand at a CAGR of 4.86% from 2026 to 2033, reaching USD 1.22 billion. The growing need for high-power and thermally efficient semiconductor components in consumer electronics, indust…",
+      "slug": "transistor-outline-to-package-market-size-to-hit-u",
+      "publishedAt": "2025-11-26T12:00:00+00:00",
+      "date": "2025-11-26 12:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "url": "/tech-news/2025-11-26/transistor-outline-to-package-market-size-to-hit-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Leveraging the Power of Play to Innovate!",
+      "description": "GUEST POST from Janet Sernack One of my most potent memories from my career in organizational learning and development was the power of play as an effective adult learning method during a “Money and You” workshop with Robert Kiyosaki, the author of Rich Dad, …",
+      "slug": "leveraging-the-power-of-play-to-innovate",
+      "publishedAt": "2025-11-26T12:00:00+00:00",
+      "date": "2025-11-26 12:00:00",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/leveraging-the-power-of-play-to-innovate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bradenkelley.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Altus Group Announces Commencement of Substantial Issuer Bid",
+      "description": "TORONTO, Nov. 26, 2025 (GLOBE NEWSWIRE) -- Altus Group Limited (“Altus Group” or the “Company”) (TSX: AIF), a leading provider of commercial real estate (“CRE”) intelligence, today announced the commencement of the previously announced substantial issuer bid …",
+      "slug": "altus-group-announces-commencement-of-substantial-",
+      "publishedAt": "2025-11-26T12:00:00+00:00",
+      "date": "2025-11-26 12:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/bb172c21-6851-46a6-9502-9f0e1fe518e5",
+      "url": "/tech-news/2025-11-26/altus-group-announces-commencement-of-substantial/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Notice: Research on cyber security in supplier management and procurement",
+      "description": "The government is carrying out research on cyber security in supplier management and procurement.",
+      "slug": "notice-research-on-cyber-security-in-supplier-mana",
+      "publishedAt": "2025-11-26T11:54:01+00:00",
+      "date": "2025-11-26 11:54:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "url": "/tech-news/2025-11-26/notice-research-on-cyber-security-in-supplier-mana/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Robots take centre stage at Singapore ‘Olympiad’",
+      "description": "The World Robot Olympiad opened in Singapore on Wednesday with hundreds of international students, some as young as eight, set to compete using automatons to solve real-world problems. The annual competition, which began in 2004 in Singapore and was held in T…",
+      "slug": "robots-take-centre-stage-at-singapore-olympiad",
+      "publishedAt": "2025-11-26T11:52:49+00:00",
+      "date": "2025-11-26 11:52:49",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/11/a302792ff53d3b33f6b8699a6e94be4829f06714.jpg",
+      "url": "/tech-news/2025-11-26/robots-take-centre-stage-at-singapore-olympiad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "UP NEET PG counselling 2025 round 1 seat allotment result released at upneet.gov.in: Check direct link here",
+      "description": "The UP NEET PG counselling 2025 seat allotment result for the first round has been released by the DGME, Uttar Pradesh. Candidates can check their status on upneet.gov.in and must download allotment letters by November 29, 2025. Reporting to colleges with req…",
+      "slug": "up-neet-pg-counselling-2025-round-1-seat-allotment",
+      "publishedAt": "2025-11-26T11:50:37+00:00",
+      "date": "2025-11-26 11:50:37",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125589057,width-1070,height-580,imgsize-18464,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-11-26/up-neet-pg-counselling-2025-round-1-seat-allotment/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ET AI Awards 2025: Nominate now for the AI for MedTech & Healthcare Innovation category",
+      "description": "The ET AI Awards 2025 MedTech & Healthcare Innovation category honours large healthcare and life sciences organisations that have deployed artificial intelligence to transform diagnostics, patient care, drug discovery, and clinical decision-making at scale. T…",
+      "slug": "et-ai-awards-2025-nominate-now-for-the-ai-for-medt",
+      "publishedAt": "2025-11-26T11:47:40+00:00",
+      "date": "2025-11-26 11:47:40",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-23928,resizemode-75,msid-125588948/tech/artificial-intelligence/et-ai-awards-2025-nominate-now-for-the-ai-for-medtech-healthcare-innovation-category.jpg",
+      "url": "/tech-news/2025-11-26/et-ai-awards-2025-nominate-now-for-the-ai-for-medt/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The exascale offensive: America's race to rule AI HPC",
+      "description": "From nuclear weapons testing to climate modeling, nine new machines will give the US unprecedented computing firepower Feature  A silent arms race is accelerating in the world's most advanced laboratories. While headlines focus on chatbots and consumer AI, th…",
+      "slug": "the-exascale-offensive-americas-race-to-rule-ai-hp",
+      "publishedAt": "2025-11-26T11:45:13+00:00",
+      "date": "2025-11-26 11:45:13",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://regmedia.co.uk/2022/09/21/shutterstock_us_china_tech_trade_war.jpg",
+      "url": "/tech-news/2025-11-26/the-exascale-offensive-americas-race-to-rule-ai-hp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Meru Pravinya 2025: 480 Young Innovators Reimagine the Future with AI & Robotics",
+      "description": "Education News: Meru International School successfully hosted Meru Pravinya 2025, the flagship Entrepreneurship Ideathon under the M-CLAP (Meru Career, Leadership &am.",
+      "slug": "meru-pravinya-2025-480-young-innovators-reimagine-",
+      "publishedAt": "2025-11-26T11:41:21+00:00",
+      "date": "2025-11-26 11:41:21",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125588222,width-1070,height-580,imgsize-149222,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-11-26/meru-pravinya-2025-480-young-innovators-reimagine/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "US Data Center Construction Industry Report 2025: Market to Grow Rapidly Through 2030, Driven by Cloud Expansion, Digital Transformation, and Demand for Scalable, Energy-Efficient Infrastructure",
+      "description": "The United States Data Center Construction Market is projected to surge from $17.01 billion in 2024 to $28.95 billion by 2033, growing at a CAGR of 6.09%. This growth is driven by cloud computing, digital transformation, and the rising demand for scalable, en…",
+      "slug": "us-data-center-construction-industry-report-2025-m",
+      "publishedAt": "2025-11-26T11:41:00+00:00",
+      "date": "2025-11-26 11:41:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2025-11-26/us-data-center-construction-industry-report-2025-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ET AI Awards 2025: Nominate now for the AI for Supply Chain & Manufacturing Excellence category",
+      "description": "The ET AI Awards 2025 Supply Chain & Manufacturing Excellence category celebrates large enterprises that have harnessed artificial intelligence to transform predictive maintenance, demand forecasting and the optimisation of complex global supply chains. Here’…",
+      "slug": "et-ai-awards-2025-nominate-now-for-the-ai-for-supp",
+      "publishedAt": "2025-11-26T11:39:33+00:00",
+      "date": "2025-11-26 11:39:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-411664,resizemode-75,msid-125588564/tech/artificial-intelligence/et-ai-awards-2025-nominate-now-for-the-ai-for-supply-chain-manufacturing-excellence-category.jpg",
+      "url": "/tech-news/2025-11-26/et-ai-awards-2025-nominate-now-for-the-ai-for-supp/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The best student laptops in 2025: our top tested choices for college and school",
+      "description": "Whatever level of education you're at, Black Friday is the perfect time of year to pick up one of the best student laptops.",
+      "slug": "the-best-student-laptops-in-2025-our-top-tested-ch",
+      "publishedAt": "2025-11-26T11:35:16+00:00",
+      "date": "2025-11-26 11:35:16",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zB9VC2PrTvEhSGvWg3XyRD-1920-80.jpg",
+      "url": "/tech-news/2025-11-26/the-best-student-laptops-in-2025-our-top-tested-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I’ve Got Nothing for You When It Comes To Target (TGT), Says Jim Cramer",
+      "description": "We recently published 11 Stocks Jim Cramer Shared His Insights On. Target Corporation (NYSE:TGT) is one of the stocks Jim Cramer discussed. While Cramer has ...",
+      "slug": "ive-got-nothing-for-you-when-it-comes-to-target-tg",
+      "publishedAt": "2025-11-26T11:31:39+00:00",
+      "date": "2025-11-26 11:31:39",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/78be652c7149489f8fd0b4a63238f5d4",
+      "url": "/tech-news/2025-11-26/ive-got-nothing-for-you-when-it-comes-to-target-tg/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Your Customers Aren’t Quiet—They’ve Given Up on Your Surveys",
+      "description": "Customers stopped believing you’re listening. Survey fatigue is now one of CX’s biggest blind spots. Here’s how to fix it.\nContinue reading...",
+      "slug": "your-customers-arent-quiettheyve-given-up-on-your-",
+      "publishedAt": "2025-11-26T11:30:42+00:00",
+      "date": "2025-11-26 11:30:42",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cmswire.com/-/media/675bc2bb2d7f4c8f8976771de71eb3bf.ashx",
+      "url": "/tech-news/2025-11-26/your-customers-arent-quiettheyve-given-up-on-your/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CMSWire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "[FREE EBOOKS] Unlocking Data with Generative AI and RAG, Linux & Four More Best Selling Titles",
+      "description": "Hello fellow geeks, Fresh offers await you on our Information Technology Research Library, please have a look! Unlocking Data with Generative AI and RAG: Enhance generative AI systems by integrating internal data with large language models using RAG ($31.99 V…",
+      "slug": "free-ebooks-unlocking-data-with-generative-ai-and-",
+      "publishedAt": "2025-11-26T11:30:30+00:00",
+      "date": "2025-11-26 11:30:30",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/12/jcg-logo.jpg",
+      "url": "/tech-news/2025-11-26/free-ebooks-unlocking-data-with-generative-ai-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Javacodegeeks.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "What Warner Music’s settlement with Suno says about the AI bubble",
+      "description": "Instead of rolling up their sleeves and preparing for a long slug fest, music labels are curiously keen to work with startups offering consumers tools to create AI-generated music.",
+      "slug": "what-warner-musics-settlement-with-suno-says-about",
+      "publishedAt": "2025-11-26T11:29:09+00:00",
+      "date": "2025-11-26 11:29:09",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2226561451-1-e1764115647488.jpg?resize=1200,600",
+      "url": "/tech-news/2025-11-26/what-warner-musics-settlement-with-suno-says-about/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The future of treasury in 2026: A new tech mandate for finance leaders",
+      "description": "Treasury professionals face a pivotal year of transformation.",
+      "slug": "the-future-of-treasury-in-2026-a-new-tech-mandate-",
+      "publishedAt": "2025-11-26T11:28:07+00:00",
+      "date": "2025-11-26 11:28:07",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2227007358-e1764110124924.jpg?resize=1200,600",
+      "url": "/tech-news/2025-11-26/the-future-of-treasury-in-2026-a-new-tech-mandate/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Yeh Rishta Kya Kehlata Hai's Rohit Purohit on the intensifying drama in the show: It all begins when Vidya slaps Kajal",
+      "description": "Yeh Rishta Kya Kehlata Hai features intense family drama. Vidya confronts Kajal over a contract, leading to a house division. Abhira and Armaan face separation due to family conflicts. They plan to surprise each other on their anniversary but are kept apart. …",
+      "slug": "yeh-rishta-kya-kehlata-hais-rohit-purohit-on-the-i",
+      "publishedAt": "2025-11-26T11:27:23+00:00",
+      "date": "2025-11-26 11:27:23",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125588403,width-1070,height-580,imgsize-53300,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-11-26/yeh-rishta-kya-kehlata-hais-rohit-purohit-on-the-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ET AI Awards 2025: Nominate now for the AI for Banking & Financial Services Transformation category",
+      "description": "The ET AI Awards 2025 Banking & Financial Services Transformation category celebrates large banks and financial institutions that have deployed artificial intelligence to redefine operations, strengthen security and elevate customer experience at an instituti…",
+      "slug": "et-ai-awards-2025-nominate-now-for-the-ai-for-bank",
+      "publishedAt": "2025-11-26T11:26:42+00:00",
+      "date": "2025-11-26 11:26:42",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2833342,resizemode-75,msid-125588216/tech/artificial-intelligence/et-ai-awards-2025-nominate-now-for-the-ai-for-banking-financial-services-transformation-category.jpg",
+      "url": "/tech-news/2025-11-26/et-ai-awards-2025-nominate-now-for-the-ai-for-bank/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I’ve Discovered 95+ Early Black Friday Deals From Sony, LG, Roku and More. Grab Them Before Everyone Else Catches On",
+      "description": "Black Friday deals are stacking up fast, and these picks offer some of the strongest savings so far.",
+      "slug": "ive-discovered-95-early-black-friday-deals-from-so",
+      "publishedAt": "2025-11-26T11:22:00+00:00",
+      "date": "2025-11-26 11:22:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/be66bac68c9c7705a9de70c2cef327c87feaa09b/hub/2025/10/31/b2d47c67-9295-4b8c-a7e3-0e88c1d8ad00/1-black-friday-deal-early.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-26/ive-discovered-95-early-black-friday-deals-from-so/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EUV laser-maker Trumpf explores quantum computing to improve laser tech",
+      "description": "Can quantum computing help with simulating quantum mechanics?",
+      "slug": "euv-laser-maker-trumpf-explores-quantum-computing-",
+      "publishedAt": "2025-11-26T11:15:03+00:00",
+      "date": "2025-11-26 11:15:03",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "url": "/tech-news/2025-11-26/euv-laser-maker-trumpf-explores-quantum-computing/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "PFAS Waste Management Market Size, Share & Trends Analysis Report 2025- 2034",
+      "description": "According to Towards Chemical and Materials Consulting, the global PFAS waste management market is projected to grow from USD 2.23 billion in 2025 to USD 3.72 billion by 2034, growing at a CAGR of 5.84% from 2025 to 2034. According to Towards Chemical and Mat…",
+      "slug": "pfas-waste-management-market-size-share-trends-ana",
+      "publishedAt": "2025-11-26T11:15:00+00:00",
+      "date": "2025-11-26 11:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2025-11-26/pfas-waste-management-market-size-share-trends-ana/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Customer-Specific AI Applications Power the Next Wave of Business Transformation",
+      "description": "Enterprises are moving beyond generic AI to customer-specific applications that drive precision, efficiency, and real-world transformation.",
+      "slug": "customer-specific-ai-applications-power-the-next-w",
+      "publishedAt": "2025-11-26T11:15:00+00:00",
+      "date": "2025-11-26 11:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/02/13/298483_GettyImages-1393749446_medium_F.jpg",
+      "url": "/tech-news/2025-11-26/customer-specific-ai-applications-power-the-next-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sap.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Disseqt AI, HCLTech and Microsoft for agentic finance",
+      "description": "Lean agentic enterprise platform Disseqt AI today announced that it is collaborating with HCLTech and Microsoft to guide banks and other financial services institutions with Agentic AI adoption.",
+      "slug": "disseqt-ai-hcltech-and-microsoft-for-agentic-finan",
+      "publishedAt": "2025-11-26T11:11:00+00:00",
+      "date": "2025-11-26 11:11:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.finextra.com/about/finextra-logo.png",
+      "url": "/tech-news/2025-11-26/disseqt-ai-hcltech-and-microsoft-for-agentic-finan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finextra"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nanocellulose Market Size to Worth USD 6.44 Billion by 2035",
+      "description": "According to Towards Chemical and Materials Consulting, the global nanocellulose market size is calculated at USD 766.09 million in 2025 and is expected to be worth around USD 6,447.32 million by 2035, growing at a compound annual growth rate (CAGR) of 23.74%…",
+      "slug": "nanocellulose-market-size-to-worth-usd-644-billion",
+      "publishedAt": "2025-11-26T11:04:00+00:00",
+      "date": "2025-11-26 11:04:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2025-11-26/nanocellulose-market-size-to-worth-usd-644-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "HSBC sees S&P 500 hitting 7,500 by end of 2026 with 'more to come' in the AI trade",
+      "description": "HSBC sees the S&P 500 climbing to 7,500 by the end of 2026, even as a K-shaped economy reflects a challenged consumer.",
+      "slug": "hsbc-sees-sp-500-hitting-7500-by-end-of-2026-with-",
+      "publishedAt": "2025-11-26T11:00:58+00:00",
+      "date": "2025-11-26 11:00:58",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fFrokF0xDlWNeZlBUOG1ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/123f59b0-1d31-11f0-ae66-3288a0623a35",
+      "url": "/tech-news/2025-11-26/hsbc-sees-sp-500-hitting-7500-by-end-of-2026-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Toyota's plan for contact center AI deployment",
+      "description": "Toyota wants to enable its contact center agents to provide better service, not eliminate their jobs. How AI figures in.",
+      "slug": "toyotas-plan-for-contact-center-ai-deployment",
+      "publishedAt": "2025-11-26T11:00:00+00:00",
+      "date": "2025-11-26 11:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/chatbot_g1273438441.jpg",
+      "url": "/tech-news/2025-11-26/toyotas-plan-for-contact-center-ai-deployment/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Scilex Holding Company Announces Closing of Previously Announced Second Tranche Investment in Datavault AI Inc., Completing Its Two-Tranche Equity Financing in Datavault AI Inc.",
+      "description": "PALO ALTO, Calif., Nov. 26, 2025 (GLOBE NEWSWIRE) -- Scilex Holding Company (“Scilex” or the “Company”) (Nasdaq: SCLX), an innovative revenue-generating company focused on acquiring, developing and commercializing non-opioid pain management products for the t…",
+      "slug": "scilex-holding-company-announces-closing-of-previo",
+      "publishedAt": "2025-11-26T11:00:00+00:00",
+      "date": "2025-11-26 11:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e2f985bf-0880-4d05-8838-90a69c888cf9",
+      "url": "/tech-news/2025-11-26/scilex-holding-company-announces-closing-of-previo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Podcast: How to Use Apache Spark to Craft a Multi-Year Data Regression Testing and Simulations Framework",
+      "description": "Vivek Yadav, an engineering manager from Stripe, shares his experience in building a testing system based on multi-year worth of data. He shares insights into why Apache Spark was the choice for creating such a system and how it fits in the \"traditional\" engi…",
+      "slug": "podcast-how-to-use-apache-spark-to-craft-a-multi-y",
+      "publishedAt": "2025-11-26T11:00:00+00:00",
+      "date": "2025-11-26 11:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://res.infoq.com/podcasts/data-regression-testing-simulations-framework/en/card_header_image/vivek-yadav-twitter-card-1763552066844.jpg",
+      "url": "/tech-news/2025-11-26/podcast-how-to-use-apache-spark-to-craft-a-multi-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk Had Grok Rewrite Wikipedia. It Calls Hitler “The Führer.”",
+      "description": "The anti-woke Wikipedia alternative aims to create a parallel version of the truth for the right wing.\nThe post Elon Musk Had Grok Rewrite Wikipedia. It Calls Hitler “The Führer.” appeared first on The Intercept.",
+      "slug": "elon-musk-had-grok-rewrite-wikipedia-it-calls-hitl",
+      "publishedAt": "2025-11-26T11:00:00+00:00",
+      "date": "2025-11-26 11:00:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/11/GettyImages-2243501579-e1764102895488.jpg?fit=6000%2C3000&w=1200&h=800",
+      "url": "/tech-news/2025-11-26/elon-musk-had-grok-rewrite-wikipedia-it-calls-hitl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Intercept"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Datavault AI Announces Closing of the Second Tranche of Scilex Holding Company’s Previously Announced Equity Financing",
+      "description": "Second tranche closing of approximately 1,237.6 Bitcoin follows approval by Datavault AI’s stockholders at annual meeting.Scilex Holding Company......",
+      "slug": "datavault-ai-announces-closing-of-the-second-tranc",
+      "publishedAt": "2025-11-26T11:00:00+00:00",
+      "date": "2025-11-26 11:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/12e53b1e-96b6-498a-bd26-0cd0cc0c1d4c",
+      "url": "/tech-news/2025-11-26/datavault-ai-announces-closing-of-the-second-tranc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI-enabled ed tech vendors fail to disclose capabilities and safeguards, report finds",
+      "description": "Hannah Quay-de la Vallee, senior technologist at the Center for Democracy and Technology, coauthored a recent report that recommends more transparency on what artificial intelligence education technologies can and cannot do.",
+      "slug": "ai-enabled-ed-tech-vendors-fail-to-disclose-capabi",
+      "publishedAt": "2025-11-26T11:00:00+00:00",
+      "date": "2025-11-26 11:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.apmcdn.org/bb952cf45f50c422c6c8b1b54fe466f03fc8f335/widescreen/e56d6c-20251125-ai-education-2000.jpg",
+      "url": "/tech-news/2025-11-26/ai-enabled-ed-tech-vendors-fail-to-disclose-capabi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Marketplace.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "‘This Isn’t a Bubble’: Raymond James Says Load Up on These 2 Tech Stocks",
+      "description": "The famous dot.com bubble burst 25 years ago, but its memory lives on, casting a shadow over the current bull market. Today’s bull is also fueled by tech...",
+      "slug": "this-isnt-a-bubble-raymond-james-says-load-up-on-t",
+      "publishedAt": "2025-11-26T10:58:30+00:00",
+      "date": "2025-11-26 10:58:30",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/tipranks_452/9cf7917012c6d466476b519b09ea6c1b",
+      "url": "/tech-news/2025-11-26/this-isnt-a-bubble-raymond-james-says-load-up-on-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Budget 2025: £300m extra for NHS IT and a £1.8bn budget for digital ID cards",
+      "description": "The Autumn Budget contained little by the way of new policies in digital and technology, but handed out some cash to help progress in digitising public services and to support growing tech businesses",
+      "slug": "budget-2025-300m-extra-for-nhs-it-and-a-18bn-budge",
+      "publishedAt": "2025-11-26T10:58:00+00:00",
+      "date": "2025-11-26 10:58:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/London-Westminster-Houses-of-Parliament-exflow-adobe.jpg",
+      "url": "/tech-news/2025-11-26/budget-2025-300m-extra-for-nhs-it-and-a-18bn-budge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Comnica selects DIDWW to power its global contact center services",
+      "description": "DUBLIN, Ireland, Nov. 26, 2025 (GLOBE NEWSWIRE) -- DIDWW\r\n, a global telecom operator specializing in virtual phone numbers and two-way SIP trunking services, has announced a strategic partnership with Comnica\r\n, a leading provider of cloud contact center sol…",
+      "slug": "comnica-selects-didww-to-power-its-global-contact-",
+      "publishedAt": "2025-11-26T10:57:00+00:00",
+      "date": "2025-11-26 10:57:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/7f56deca-2ac6-4aff-9a74-f7b056e3258c",
+      "url": "/tech-news/2025-11-26/comnica-selects-didww-to-power-its-global-contact/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "(PR) Minisforum Unveils New G1 Pro Mini Gaming PC With Ryzen 9 8945HX and GeForce RTX 5060",
+      "description": "MINISFORUM, an innovator in AI computing technology, today unveiled the G1 Pro, a game-changer for mini PC power users everywhere. Designed for today's demanding gamers, creators, and professionals, the G1 Pro redefines what's possible in small-form-factor co…",
+      "slug": "pr-minisforum-unveils-new-g1-pro-mini-gaming-pc-wi",
+      "publishedAt": "2025-11-26T10:53:34+00:00",
+      "date": "2025-11-26 10:53:34",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/6uDxxfx3zvfXvptT.jpg",
+      "url": "/tech-news/2025-11-26/pr-minisforum-unveils-new-g1-pro-mini-gaming-pc-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Seagate HAMR Prototype Achieves 6.9 TB Per Platter for 55 TB HDDs",
+      "description": "During a conference about a month ago in Japan, Seagate has disclosed a massive milestone for heat-assisted magnetic recording (HAMR) technology—a prototype platter capable of storing roughly 6.9 TB of data. The company presented stated it has already run sim…",
+      "slug": "seagate-hamr-prototype-achieves-69-tb-per-platter-",
+      "publishedAt": "2025-11-26T10:45:41+00:00",
+      "date": "2025-11-26 10:45:41",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/VlCHcCL7jjntwRP0.jpg",
+      "url": "/tech-news/2025-11-26/seagate-hamr-prototype-achieves-69-tb-per-platter/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Claude Opus 4.5 Pricing & Performance : Anthropic’s Most Efficient Model",
+      "description": "What if the future of artificial intelligence wasn’t just about being smarter but also about being leaner, faster, and more accessible? Enter Claude Opus 4.5, Anthropic’s latest contribution to the AI landscape, which promises to redefine what’s possible in e…",
+      "slug": "claude-opus-45-pricing-performance-anthropics-most",
+      "publishedAt": "2025-11-26T10:43:00+00:00",
+      "date": "2025-11-26 10:43:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/google-tpus-anthropic-opus_optimized.jpg",
+      "url": "/tech-news/2025-11-26/claude-opus-45-pricing-performance-anthropics-most/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Alphabet has stormed the gates of the stock market's AI trade",
+      "description": "Google parent Alphabet has had a stellar couple of weeks after rolling out Gemini 3, and with Berkshire Hathaway disclosing a big stake.",
+      "slug": "alphabet-has-stormed-the-gates-of-the-stock-market",
+      "publishedAt": "2025-11-26T10:40:01+00:00",
+      "date": "2025-11-26 10:40:01",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i.insider.com/6926441489026fbb4d0e706c?width=1024&format=jpeg",
+      "url": "/tech-news/2025-11-26/alphabet-has-stormed-the-gates-of-the-stock-market/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Switzerland’s Amina Bank and Crypto Finance complete payments pilot on Google ledger",
+      "description": "AMINA Bank AG (\"AMINA\") and Crypto Finance Group, together with other banking partners, have successfully completed a landmark pilot program demonstrating how distributed ledger technology (DLT) can modernise cross-border, cross-currency, and point-of-sale us…",
+      "slug": "switzerlands-amina-bank-and-crypto-finance-complet",
+      "publishedAt": "2025-11-26T10:34:00+00:00",
+      "date": "2025-11-26 10:34:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.finextra.com/about/finextra-logo.png",
+      "url": "/tech-news/2025-11-26/switzerlands-amina-bank-and-crypto-finance-complet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finextra"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "United States Footwear Market Forecast and Company Analysis Report 2025-2033 Featuring Nike, Adidas, New Balance, Asics, LVMH, Fila, The Bata Corp, VF",
+      "description": "The U.S. Footwear Market is set to soar, projected to jump from $105.54 billion in 2024 to $139.03 billion by 2033, growing at a CAGR of 3.11%. This growth is driven by rising interest in athletic footwear, brand partnerships, and sustainability standards. Se…",
+      "slug": "united-states-footwear-market-forecast-and-company",
+      "publishedAt": "2025-11-26T10:33:00+00:00",
+      "date": "2025-11-26 10:33:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2025-11-26/united-states-footwear-market-forecast-and-company/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "PayMe HK wallet from HSBC migrates entire infrastructure to Amazn Wbe Services",
+      "description": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that PayMe by HSBC, Hong Kong’s homegrown mobile wallet, has successfully migrated its entire platform to AWS.",
+      "slug": "payme-hk-wallet-from-hsbc-migrates-entire-infrastr",
+      "publishedAt": "2025-11-26T10:25:00+00:00",
+      "date": "2025-11-26 10:25:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.finextra.com/about/finextra-logo.png",
+      "url": "/tech-news/2025-11-26/payme-hk-wallet-from-hsbc-migrates-entire-infrastr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finextra"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Taking flight: Pennsylvania Guard expands drone usage",
+      "description": "In a small aircraft hangar on the east end of the post, a makeshift obstacle course has been built primarily from leftover construction material such as wood and PVC pipes.",
+      "slug": "taking-flight-pennsylvania-guard-expands-drone-usa",
+      "publishedAt": "2025-11-26T10:22:57+00:00",
+      "date": "2025-11-26 10:22:57",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/taking-flight-pennsylvania-guard-expands-drone-usa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rt Hon Luke Pollard MP, Minister for Defence Readiness and Industry, Speech for Long War Conference",
+      "description": "Defence Minister, Luke Pollard MP delivers a speech at RUSI on long warfighting readiness.",
+      "slug": "rt-hon-luke-pollard-mp-minister-for-defence-readin",
+      "publishedAt": "2025-11-26T10:22:22+00:00",
+      "date": "2025-11-26 10:22:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/rt-hon-luke-pollard-mp-minister-for-defence-readin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "India is entering a golden era of defence innovation; Our young entrepreneurs are helping the nation become a builder, creator & leader: Raksha Mantri at Swavlamban 2025",
+      "description": "\"India is entering a golden era of defence innovation, and its foundation is being laid by our innovators & young entrepreneurs who are integrating economic strength, strategic thinking and technological advancements,\" said Raksha Mantri Shri Rajnath Singh wh…",
+      "slug": "india-is-entering-a-golden-era-of-defence-innovati",
+      "publishedAt": "2025-11-26T10:22:22+00:00",
+      "date": "2025-11-26 10:22:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/india-is-entering-a-golden-era-of-defence-innovati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Global players must tap the potential of India's vibrant shipbuilding industry to co-develop next-gen maritime capabilities & create a secure future: Raksha Mantri at Samudra Utkarsh",
+      "description": "Raksha Mantri Shri Rajnath Singh has urged international partners to tap the potential of India's vibrant shipbuilding industry and co-develop next-generation maritime capabilities, thereby creating sustainable technologies and resilient supply chains while s…",
+      "slug": "global-players-must-tap-the-potential-of-indias-vi",
+      "publishedAt": "2025-11-26T10:22:22+00:00",
+      "date": "2025-11-26 10:22:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/global-players-must-tap-the-potential-of-indias-vi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Nano Banana Pro : Nails Consistent Characters From Prompt to 2K Perfection",
       "description": "Co kdyby budoucnost vizuálního vyprávění nešlo jen o kreativitu, ale o přesnost, přizpůsobivost a bezproblémové provedení? Představujeme Nano Banana Pro – nový AI nástroj, který předefinuje způsob tvorby filmových příběhů a vizuálů s vysokým dopadem. Představte si…",
@@ -2201,45 +3227,6 @@
       "people": []
     },
     {
-      "title": "Burzy pokračují ve třetím dni růstu na pozadí spekulací o snížení úrokových sazeb a soupeření Google s Nvidia v oblasti AI čipů",
-      "description": "Indexy S&P 500, Nasdaq a Dow Jones třetí den za sebou rostou, protože investoři očekávají snížení úrokových sazeb Federální rezervou v prosinci. Zároveň se zvyšuje pozornost věnovaná potenciálnímu vstupu Alphabetu (mateřské společnosti Google) na trh AI čipů.",
-      "slug": "sp-500-nasdaq-and-dow-rally-for-third-day-as-fed-r",
-      "publishedAt": "2025-11-25T23:56:56+00:00",
-      "date": "2025-11-25 23:56:56",
-      "importance": 3,
-      "category": "burzy",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125576766,width-1200,height-630,imgsize-385324,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-25/sp-500-nasdaq-and-dow-rally-for-third-day-as-fed-r/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dlouhý a zábavný seznam věcí, které bychom mohli dělat s neomezenou čistou energií",
-      "description": "Článek popisuje, jak by neomezená, levná a čistá energie mohla transformovat každodenní život – od bydlení a dopravy po recyklaci a potravinářství.",
-      "slug": "the-long-fun-list-of-things-we-could-do-with-unlim",
-      "publishedAt": "2025-11-25T23:39:38+00:00",
-      "date": "2025-11-25 23:39:38",
-      "importance": 3,
-      "category": "energie",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/LucyJones_Umair_Vox.jpg?quality=90&strip=all&crop=0%2C5.0586768821404%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-11-25/the-long-fun-list-of-things-we-could-do-with-unlim/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Vox"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Co se děje… s Kyivstarem a Starlinkem, Vodacem a Google Cloudem, NTT Docomo a Nokií",
       "description": "Ukrajinský operátor Kyivstar spustil službu přímé komunikace zařízení se satelity Starlink, Vodacom využije Google Cloud pro AI a analýzu dat a NTT Docomo nasazuje Nokií vyvinutý systém pro správu sítě.",
       "slug": "whats-up-with-kyivstar-starlink-vodacom-google-clo",
@@ -2283,24 +3270,6 @@
       "people": []
     },
     {
-      "title": "Scala Days 2025: Shrnutí konference a dostupnost záznamů přednášek",
-      "description": "Konference Scala Days 2025 se uskutečnila v Lausanne a oslavila 15 let existence. Všechny přednášky jsou nyní k dispozici na YouTube.",
-      "slug": "scala-days-2025-conference-highlights-and-talk-rec",
-      "publishedAt": "2025-11-25T23:00:00+00:00",
-      "date": "2025-11-25 23:00:00",
-      "importance": 3,
-      "category": "programování",
-      "urlToImage": "https://www.scala-lang.org/resources/img/scala-spiral-3d-2-toned-down.png",
-      "url": "/tech-news/2025-11-25/scala-days-2025-conference-highlights-and-talk-rec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Scala-lang.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Akcie Workday klesly, i když společnost překonala očekávání výsledků",
       "description": "Akcie společnosti Workday klesly více než o 5 % v rámci pozdního obchodování, přestože software pro lidské zdroje a finance vykázal lepší než očekávané tržby a zisky za třetí čtvrtletí fiskálního roku 2026.",
       "slug": "workday-falls-in-late-trading-as-growth-outlook-fa",
@@ -2318,122 +3287,6 @@
       "companies": [
         "Workday"
       ],
-      "people": []
-    },
-    {
-      "title": "Trénování vlastního modelu počítačového vidění pro detekci vad pomocí Amazon SageMaker",
-      "description": "Amazon ukončuje službu Lookout for Vision a doporučuje zákazníkům přechod na SageMaker AI s využitím předtrénovaných modelů z AWS Marketplace pro detekci vad ve výrobních procesech.",
-      "slug": "train-custom-computer-vision-defect-detection-mode",
-      "publishedAt": "2025-11-25T22:44:22+00:00",
-      "date": "2025-11-25 22:44:22",
-      "importance": 3,
-      "category": "počítačové vidění",
-      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/10/image-6-2-775x630.jpeg",
-      "url": "/tech-news/2025-11-25/train-custom-computer-vision-defect-detection-mode/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Amazon.com"
-      },
-      "companies": [
-        "Amazon",
-        "AWS"
-      ],
-      "people": []
-    },
-    {
-      "title": "Přestaňte zadávat hesla do náhodných webových stránek (ano, vážně – jste to vy)",
-      "description": "Bezpečnostní tým watchTowr odhalil další masivní únik citlivých přihlašovacích údajů a tajných klíčů způsobený neuváženým sdílením na veřejných webech.",
-      "slug": "stop-putting-your-passwords-into-random-websites-y",
-      "publishedAt": "2025-11-25T21:26:14+00:00",
-      "date": "2025-11-25 21:26:14",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://labs.watchtowr.com/content/images/size/w1200/2025/11/1920--1080",
-      "url": "/tech-news/2025-11-25/stop-putting-your-passwords-into-random-websites-y/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Watchtowr.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "S&P 500 roste na očekávání snížení úrokových sazeb, Alphabet vzdoruje nadvládě Nvidie v AI",
-      "description": "Americké akcie posílily, protože obchodníci zvýšili sázky na snížení úrokových sazeb v prosinci a Alphabet Inc. začal ohrožovat postavení Nvidie jako lídra v oblasti umělé inteligence.",
-      "slug": "sp-500-rises-on-rate-cut-hopes-alphabet-challengin",
-      "publishedAt": "2025-11-25T20:14:00+00:00",
-      "date": "2025-11-25 20:14:00",
-      "importance": 3,
-      "category": "burza ai",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/776406358.jpg",
-      "url": "/tech-news/2025-11-25/sp-500-rises-on-rate-cut-hopes-alphabet-challengin/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Alphabet Inc",
-        "Nvidia Corp"
-      ],
-      "people": []
-    },
-    {
-      "title": "Armáda přenáší protidronové experimenty z Evropy do Indo-Pacifiku",
-      "description": "V listopadu proběhlo společné cvičení s Polskem a Rumunskem a protidronová soutěž v Německu, jejichž cílem je nasadit efektivnější a levnější systémy proti dronám.",
-      "slug": "the-army-is-taking-counter-drone-experimentation-f",
-      "publishedAt": "2025-11-25T20:13:59+00:00",
-      "date": "2025-11-25 20:13:59",
-      "importance": 4,
-      "category": "protidronová technol",
-      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2025/11/25/9402510/open-graph.jpg",
-      "url": "/tech-news/2025-11-25/the-army-is-taking-counter-drone-experimentation-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Defense One"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kasino Stockman’s nasadí podnikovou platformu Quick Custom Intelligence",
-      "description": "Kasino Stockman’s v Nevadě uzavřelo strategické partnerství s firmou Quick Custom Intelligence (QCI) na využití její AI řízené analytické platformy pro zlepšení zákaznické zkušenosti a optimalizaci provozu.",
-      "slug": "stockmans-casino-selects-quick-custom-intelligence",
-      "publishedAt": "2025-11-25T19:50:00+00:00",
-      "date": "2025-11-25 19:50:00",
-      "importance": 3,
-      "category": "herní průmysl",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/8e34ffde-2b41-4182-b7cc-17cdcc7afa1b",
-      "url": "/tech-news/2025-11-25/stockmans-casino-selects-quick-custom-intelligence/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Quick Custom Intelligence"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tradiční PR agentury ztrácejí půdu pod nohama, Baden Bower mění pravidla hry výsledky",
-      "description": "Baden Bower, PR agentura se sídlem v New Yorku, zavádí model zaručeného zveřejnění v médiích a dosahuje 30 milionů dolarů ročních příjmů bez tradičních měsíčních smluv.",
-      "slug": "traditional-pr-agencies-lose-ground-as-baden-bower",
-      "publishedAt": "2025-11-25T19:43:46+00:00",
-      "date": "2025-11-25 19:43:46",
-      "importance": 3,
-      "category": "public relations",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/11/image1-e1764099623126.png",
-      "url": "/tech-news/2025-11-25/traditional-pr-agencies-lose-ground-as-baden-bower/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -2476,24 +3329,6 @@
       "people": []
     },
     {
-      "title": "Reset: Hollywoodský průvodce prasknutím AI bubliny",
-      "description": "Kdo je nejvíce ohrožen, až se spekulativní nadšení pro AI obrátí a trh upraví ceny?",
-      "slug": "the-reset-your-hollywood-guide-to-an-ai-bubble-bur",
-      "publishedAt": "2025-11-25T19:00:00+00:00",
-      "date": "2025-11-25 19:00:00",
-      "importance": 3,
-      "category": "ai burza",
-      "urlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/11/GettyImages-2183146598.jpg?fit=2291%2C1309&quality=89&ssl=1",
-      "url": "/tech-news/2025-11-25/the-reset-your-hollywood-guide-to-an-ai-bubble-bur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TheWrap"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Úřad pro patenty USA chce znemožnit boj proti špatným patentům. Máte do 2. prosince, abyste se ozvali",
       "description": "Americký úřad pro patenty a ochranné známky (USPTO) plánuje změnit pravidla pro zrušování neoprávněných patentů, což by mohlo znovu otevřít dveře patentovým trollům.",
       "slug": "uspto-wants-to-make-bad-patents-unchallengeable-yo",
@@ -2512,63 +3347,6 @@
       "people": []
     },
     {
-      "title": "TSMCův 2nm proces může přinést jen omezené zisky – ale pomůže udržet ceny chytrých telefonů",
-      "description": "Nová zpráva naznačuje, že TSMCův 2nm výrobní proces nebude přinášet tak výrazné zlepšení výkonu a spotřeby, jak se očekávalo, což však může zabránit výraznému zdražení chytrých telefonů v roce 2026.",
-      "slug": "tsmcs-2nm-process-may-deliver-limited-gainsbut-cou",
-      "publishedAt": "2025-11-25T18:49:36+00:00",
-      "date": "2025-11-25 18:49:36",
-      "importance": 3,
-      "category": "polovodiče",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/07/tsmc.jpg",
-      "url": "/tech-news/2025-11-25/tsmcs-2nm-process-may-deliver-limited-gainsbut-cou/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [
-        "TSMC",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cesta k izraelské strategické soběstačnosti v obraně",
-      "description": "Pokud Izrael skutečně usiluje o vojenskou soběstačnost, bude muset ministerstvo obrany přehodnotit priority svých zbrojních projektů.",
-      "slug": "the-path-to-strategic-self-sufficiency-for-israel",
-      "publishedAt": "2025-11-25T18:39:54+00:00",
-      "date": "2025-11-25 18:39:54",
-      "importance": 3,
-      "category": "obrana",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1127989.jpg",
-      "url": "/tech-news/2025-11-25/the-path-to-strategic-self-sufficiency-for-israel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Britská vláda dává umělou inteligenci do centra své ekonomické strategie",
-      "description": "Britská vláda oznámila rozsáhlý balíček investic do umělé inteligence v hodnotě miliard liber, který má podpořit regionální rozvoj, výzkum a vývoj domácích čipů pro AI.",
-      "slug": "uk-puts-ai-at-center-of-its-economic-growth-strate",
-      "publishedAt": "2025-11-25T18:21:45+00:00",
-      "date": "2025-11-25 18:21:45",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/12/UK-tech.jpg",
-      "url": "/tech-news/2025-11-25/uk-puts-ai-at-center-of-its-economic-growth-strate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "GraniteShares rozšiřuje řadu YieldBOOST™ o dva nové ETF fondy zaměřené na lídry kvantového počítání: RGYY a QBY",
       "description": "Společnost GraniteShares spustila dva nové ETF fondy – RGYY a QBY – které generují příjem pro investory prostřednictvím prodeje opcí na pákové fondy sledující akcie společností Rigetti Computing a D-Wave Quantum.",
       "slug": "updated-graniteshares-expands-yieldboost-lineup-wi",
@@ -2582,120 +3360,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Optimalizované herní profily v ROG Xbox Ally prodlouží výdrž baterie",
-      "description": "Microsoft spolu s ASUSem představily nové výchozí herní profily pro handheld PC ROG Xbox Ally, které dynamicky řídí výkon GPU podle cílového snímkového kmitočtu a tím šetří baterii.",
-      "slug": "rog-xbox-allys-tuned-performance-profiles-will-ext",
-      "publishedAt": "2025-11-25T18:04:51+00:00",
-      "date": "2025-11-25 18:04:51",
-      "importance": 3,
-      "category": "herní hardware",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Xbox-ROG-Ally-profile.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-11-25/rog-xbox-allys-tuned-performance-profiles-will-ext/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
-        "Microsoft",
-        "ROG"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ministr obrany Luke Pollard vyzývá k přípravě na dlouhodobé válečné scénáře",
-      "description": "Britský ministr obrany Luke Pollard vystoupil na konferenci RUSI s projevem o nutnosti transformovat obranný sektor pro zajištění připravenosti na dlouhodobé konflikty.",
-      "slug": "rt-hon-luke-pollard-mp-minister-for-defence-readin",
-      "publishedAt": "2025-11-25T18:00:44+00:00",
-      "date": "2025-11-25 18:00:44",
-      "importance": 3,
-      "category": "obrana",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2025-11-25/rt-hon-luke-pollard-mp-minister-for-defence-readin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Trumpova administrativa spustila plán na globální nadvládu v oblasti umělé inteligence – co by mohlo jít špatně?",
-      "description": "Bílý dům za vlády Donalda Trumpa představil tzv. Genesis Mission – iniciativu na vytvoření státní AI platformy řízené Ministerstvem energetiky. Cílem je posílit postavení USA v globálním závodu o umělou inteligenci, zejména vůči Číně.",
-      "slug": "the-trump-administration-just-launched-its-own-pla",
-      "publishedAt": "2025-11-25T17:56:25+00:00",
-      "date": "2025-11-25 17:56:25",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zfGVGZSpcn279LmPz2EVHQ-1920-80.jpg",
-      "url": "/tech-news/2025-11-25/the-trump-administration-just-launched-its-own-pla/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Standards + Excelerate Copilots od Standards Core jsou nyní dostupné v Microsoft Marketplace",
-      "description": "Společnost Standards Core zpřístupnila své AI asistenty pro Microsoft Word a Excel v Microsoft Marketplace. Nástroje jsou určeny pro technické a právní profesionály a využívají multi-modelovou architekturu pro kontrolu shody dokumentů s normami.",
-      "slug": "standards-excelerate-copilots-from-standards-core-",
-      "publishedAt": "2025-11-25T17:49:00+00:00",
-      "date": "2025-11-25 17:49:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/9cc89938-a792-4396-a296-03ee86fddca1",
-      "url": "/tech-news/2025-11-25/standards-excelerate-copilots-from-standards-core/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Standards Core",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Taiwan investuje 3,2 miliardy dolarů do plánu 'AI ostrov' – hrozí energetické i geopolitické rizika",
-      "description": "Taiwan schválil více než 100 miliard tchajwanských dolarů (cca 3,2 miliardy USD) na rozsáhlý národní plán AI infrastruktury s cílem stát se globálním lídrem v oblasti AI výpočetního výkonu a hardwaru do roku 2040.",
-      "slug": "taiwans-32-billion-plan-for-ai-island-with-data-ce",
-      "publishedAt": "2025-11-25T17:33:23+00:00",
-      "date": "2025-11-25 17:33:23",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4eMzRgBVXoJZwebCsLFzfC-1920-80.jpg",
-      "url": "/tech-news/2025-11-25/taiwans-32-billion-plan-for-ai-island-with-data-ce/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Transformujte vzdělávání pomocí skutečně komplexního vzdělávacího ekosystému",
-      "description": "Zjistěte, jak jednotný komplexní vzdělávací ekosystém může změnit firemní vzdělávání a zvýšit výkonnost organizace.",
-      "slug": "transform-learning-with-a-truly-end-to-end-learnin",
-      "publishedAt": "2025-11-25T16:00:06+00:00",
-      "date": "2025-11-25 16:00:06",
-      "importance": 3,
-      "category": "e-learning",
-      "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/11/Transform-Learning-With-A-Truly-End-To-End-Learning-Ecosystem.jpg",
-      "url": "/tech-news/2025-11-25/transform-learning-with-a-truly-end-to-end-learnin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Elearningindustry.com"
       },
       "companies": [],
       "people": []
@@ -2741,24 +3405,6 @@
       "people": []
     },
     {
-      "title": "EFF, jakou potřebujeme nyní",
-      "description": "Článek připomíná historický případ neoprávněného sledování internetového provozu NSA ve spolupráci s AT&T a zdůrazňuje nutnost obnovy a posílení mise Electronic Frontier Foundation v oblasti digitálních občanských svobod.",
-      "slug": "the-eff-we-need-now",
-      "publishedAt": "2025-11-25T15:50:56+00:00",
-      "date": "2025-11-25 15:50:56",
-      "importance": 3,
-      "category": "digitální svobody",
-      "urlToImage": "https://werd.io/content/images/2025/11/54284161640_1bac07b78e.jpg",
-      "url": "/tech-news/2025-11-25/the-eff-we-need-now/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Werd.io"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Americké burzy dnes: Dow roste, S&P 500 a Nasdaq klesají – Alphabet stoupá a Nvidia padá kvůli zprávám o AI čipech od Google pro Meta",
       "description": "Americké burzy ukázaly smíšený vývoj: Dow vzrostl o 0,6 %, zatímco Nasdaq klesl o 0,3 %. Nvidia ztratila přes 4 % po zprávách, že Meta plánuje nakupovat AI čipy od Google, zatímco Alphabet naopak posílil.",
       "slug": "us-stock-market-today-why-the-dow-is-up-but-sp-500",
@@ -2781,24 +3427,6 @@
       "people": []
     },
     {
-      "title": "Thajský operátor True dosáhl úrovně 4 autonomní sítě",
-      "description": "Thajský telekomunikační operátor True Corp. získal certifikaci TM Forum pro úroveň 4 autonomní sítě ve dvou klíčových procesech – zajištění kvality jednotlivých služeb a optimalizaci energetické účinnosti mobilní sítě.",
-      "slug": "thai-telco-true-boasts-level-4-automation",
-      "publishedAt": "2025-11-25T15:38:22+00:00",
-      "date": "2025-11-25 15:38:22",
-      "importance": 3,
-      "category": "sítě",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/true-tm-forum-automation-source-true-corp-21407.jpeg?w=1200",
-      "url": "/tech-news/2025-11-25/thai-telco-true-boasts-level-4-automation/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Bílý dům spouští misi Genesis pro urychlení vývoje umělé inteligence s využitím federálních dat",
       "description": "Mise Genesis zavádí novou experimentální platformu pro umělou inteligenci, která propojuje federální agentury s vládními daty a cílí na vývoj pokročilých AI modelů a vědeckých aplikací.",
       "slug": "white-house-launches-genesis-mission-to-spur-ai-wi",
@@ -2812,24 +3440,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nextgov"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Technokraté versus lidský duch: „Nebezpečí není v tom, že AI bude lidská, ale že lidé budou strojoví“",
-      "description": "Umělá inteligence již ovlivňuje, co můžeme říkat na sociálních sítích, co můžeme zkoumat v medicíně a dokonce, co můžeme nakupovat prostřednictvím digitálních měn.",
-      "slug": "the-technocrats-vs-the-human-spirit-the-danger-is-",
-      "publishedAt": "2025-11-25T15:25:31+00:00",
-      "date": "2025-11-25 15:25:31",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/07/artificial-intelligence.jpeg",
-      "url": "/tech-news/2025-11-25/the-technocrats-vs-the-human-spirit-the-danger-is/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalresearch.ca"
       },
       "companies": [],
       "people": []
@@ -2853,183 +3463,6 @@
       "people": []
     },
     {
-      "title": "Využijte tyto tři podhodnocené akcie, než si je Wall Street všimne",
-      "description": "Analýza tří technologických společností – PayPal, Pinterest a Micron Technology – které podle analytiků nabízejí výjimečný poměr růstu k ceně (PEG) a mohou být atraktivní pro investory.",
-      "slug": "steal-these-3-dirt-cheap-gems-before-wall-street-w",
-      "publishedAt": "2025-11-25T15:00:52+00:00",
-      "date": "2025-11-25 15:00:52",
-      "importance": 3,
-      "category": "akcie",
-      "urlToImage": "https://biztoc.com/cdn/a08aa4943d46e7e0_s.webp",
-      "url": "/tech-news/2025-11-25/steal-these-3-dirt-cheap-gems-before-wall-street-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "PayPal",
-        "Pinterest",
-        "Micron Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Budoucnost růstu na Shopify leží v personalizaci a udržení zákazníků řízených umělou inteligencí",
-      "description": "V dnešním přeplněném e-commerce prostředí už získávání nových zákazníků nestačí. Shopify obchody se musí zaměřit na udržení stávajících zákazníků pomocí AI, která předvídá jejich potřeby a chování.",
-      "slug": "the-future-of-shopify-growth-lies-in-ai-driven-per",
-      "publishedAt": "2025-11-25T15:00:11+00:00",
-      "date": "2025-11-25 15:00:11",
-      "importance": 3,
-      "category": "e-commerce",
-      "urlToImage": "https://socialnomics.net/wp-content/uploads/2025/11/Future-of-Shopify-Growth-Lies-in-AI-Driven-Personalization-and-Retention.jpeg",
-      "url": "/tech-news/2025-11-25/the-future-of-shopify-growth-lies-in-ai-driven-per/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Socialnomics.net"
-      },
-      "companies": [
-        "Shopify",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Největší frustrace B2B kupujících při spolupráci s dodavateli",
-      "description": "Průzkum mezi 350 B2B kupujícími odhalil hlavní zdroje jejich nespokojenosti s dodavateli a oblasti, ve kterých dodavatelé nejčastěji nepochopí potřeby klientů.",
-      "slug": "the-top-frustrations-b2b-buyers-have-with-vendors",
-      "publishedAt": "2025-11-25T15:00:00+00:00",
-      "date": "2025-11-25 15:00:00",
-      "importance": 3,
-      "category": "b2b marketing",
-      "urlToImage": "https://i.marketingprofs.com/assets/images/articles/lg/251125-chart-lg.jpg",
-      "url": "/tech-news/2025-11-25/the-top-frustrations-b2b-buyers-have-with-vendors/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MarketingProfs.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Trh služeb SOCaaS dosáhne do roku 2032 hodnoty 15,61 miliardy dolarů",
-      "description": "Trh služeb Security Operations Center as a Service (SOCaaS) rychle roste díky rostoucím kybernetickým hrozbám a poptávce po nepřetržitém monitorování hrozeb. Pouze v USA má trh mezi lety 2024 a 2032 vzrůst z 1,78 miliardy na 3,15 miliardy dolarů.",
-      "slug": "soc-as-a-service-socaas-market-to-reach-usd-1561-b",
-      "publishedAt": "2025-11-25T15:00:00+00:00",
-      "date": "2025-11-25 15:00:00",
-      "importance": 3,
-      "category": "kybernetika",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-11-25/soc-as-a-service-socaas-market-to-reach-usd-1561-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "TSMC podává žalobu kvůli odchodu klíčového manažera k Intelu",
-      "description": "Taiwanský výrobce čipů TSMC zahájil soudní spor proti bývalému špičkovému manažerovi, který přešel k americkému konkurentovi Intelu. Spor se týká možného porušení smluvních závazků a ochrany obchodních tajemství.",
-      "slug": "tsmc-unleashes-serious-lawsuit-over-intel-defectio",
-      "publishedAt": "2025-11-25T14:52:12+00:00",
-      "date": "2025-11-25 14:52:12",
-      "importance": 4,
-      "category": "semiconduktory",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2562329797-scaled.jpg",
-      "url": "/tech-news/2025-11-25/tsmc-unleashes-serious-lawsuit-over-intel-defectio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "TSMC",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nejlepší kancelářské balíky pro malé a střední firmy na Linuxu: Nextcloud Office a OnlyOffice",
-      "description": "Hledáte alternativu k Microsoft 365 nebo Google Workspace? Tyto dvě open-source kancelářské sady běží na Linuxu a lze je provozovat lokálně i v cloudu.",
-      "slug": "the-best-linux-based-smb-office-suites-nextcloud-o",
-      "publishedAt": "2025-11-25T14:49:11+00:00",
-      "date": "2025-11-25 14:49:11",
-      "importance": 3,
-      "category": "kancelářské balíky",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/24ea152dc6dc03a7b35cd53eaccb5f851eea0974/2025/11/25/fa1006ed-fd56-4b4d-bb3a-99ff0f2f7410/gettyimages-1358476152.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-25/the-best-linux-based-smb-office-suites-nextcloud-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Microsoft",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tamil Nadu a Kerala spolupracují na rozvoji startupů, turistiky a digitální správy",
-      "description": "Indické státy Tamil Nadu a Kerala se dohodly na spolupráci v oblastech jako modrá ekonomika, startupy, turistika a digitální správa veřejné správy.",
-      "slug": "tamil-nadu-kerala-to-collaborate-to-develop-touris",
-      "publishedAt": "2025-11-25T14:48:03+00:00",
-      "date": "2025-11-25 14:48:03",
-      "importance": 3,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98542,resizemode-75,msid-125567468/tech/startups/tamil-nadu-kerala-to-collaborate-to-develop-tourism-startup-other-sectors.jpg",
-      "url": "/tech-news/2025-11-25/tamil-nadu-kerala-to-collaborate-to-develop-touris/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "RealPage uzavřel dohodu s ministerstvem spravedlnosti USA a musí ukončit algoritmy umožňující koluzi při stanovování nájemného",
-      "description": "Společnost RealPage se dohodla s ministerstvem spravedlnosti USA na ukončení softwarových praktik, které umožňovaly pronajímatelům tajně koordinovat nájemní ceny.",
-      "slug": "realpage-reaches-settlement-with-doj-must-stop-alg",
-      "publishedAt": "2025-11-25T12:22:41+00:00",
-      "date": "2025-11-25 12:22:41",
-      "importance": 4,
-      "category": "algoritmické ceny",
-      "urlToImage": "https://d.ibtimes.com/en/full/4635089/realpage-reaches-settlement-doj-must-stop-algorithms-that-enabled.png",
-      "url": "/tech-news/2025-11-25/realpage-reaches-settlement-with-doj-must-stop-alg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "RealPage"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tento robot je jedlý – včetně baterie",
-      "description": "Vědci z EPFL vyvinuli prvního plně jedlého robota, jehož všechny součásti – včetně pohonu a baterie – lze bezpečně sníst. Robot je vyroben z potravinářských materiálů jako želatina a vosk a dokonce existují i jeho ochucené verze, například s příchutí granátového sirupu.",
-      "slug": "this-robot-is-edible-including-the-battery",
-      "publishedAt": "2025-11-25T12:01:00+00:00",
-      "date": "2025-11-25 12:01:00",
-      "importance": 3,
-      "category": "jedlé roboty",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/robot_edible_battery.jpg",
-      "url": "/tech-news/2025-11-25/this-robot-is-edible-including-the-battery/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč venkovské Wisconsin brzdí boom datových center pro AI: „Koně jsou plaší“",
       "description": "Technologické giganty čelí rostoucímu odporu místních komunit při výběru lokalit pro výstavbu rozsáhlých datových center určených pro umělou inteligenci.",
       "slug": "why-rural-wisconsin-is-blocking-the-ai-data-center",
@@ -3045,30 +3478,6 @@
         "name": "CNBC"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tři roky AI šílenství: Jak ChatGPT přehodnotil akciový trh",
-      "description": "Před třemi lety OpenAI spustila ChatGPT, čímž spustila na Wall Street masivní zájem o umělou inteligenci. Od té doby se struktura amerického akciového trhu výrazně změnila.",
-      "slug": "three-years-of-ai-mania-how-chatgpt-reordered-the-",
-      "publishedAt": "2025-11-25T11:53:58+00:00",
-      "date": "2025-11-25 11:53:58",
-      "importance": 4,
-      "category": "ai trhy",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/big-tech-stocks-make-up-growing-share-of-sp-500.jpg",
-      "url": "/tech-news/2025-11-25/three-years-of-ai-mania-how-chatgpt-reordered-the/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "OpenAI",
-        "Apple",
-        "Google",
-        "Microsoft",
-        "Tesla"
-      ],
       "people": []
     },
     {
@@ -3093,24 +3502,6 @@
       "people": []
     },
     {
-      "title": "Revolut dokončil prodej akcií a dosáhl hodnoty 75 miliard dolarů",
-      "description": "Revolut oznámil dokončení sekundárního prodeje akcií, který mu zajistil ohodnocení ve výši 75 miliard dolarů. Transakci vedly investiční firmy Coatue, Greenoaks, Dragoneer a Fidelity Management & Research Company.",
-      "slug": "revolut-completes-share-sale-achieves-75bn-in-valu",
-      "publishedAt": "2025-11-25T11:35:23+00:00",
-      "date": "2025-11-25 11:35:23",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zpArDsS6LiiYhKuWRHxVpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzg-/https://media.zenfs.com/en/retail_banker_international_407/b4cfd47f8c02ad05c2951764f42edb23",
-      "url": "/tech-news/2025-11-25/revolut-completes-share-sale-achieves-75bn-in-valu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Retailbankerinternational.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Veeva Summit Europe: budoucnosti odolná AI posílí komerční operace ve farmacii",
       "description": "Na 13. ročníku Veeva Commercial Summit Europe odborníci diskutovali o využití umělé inteligence ve farmaceutickém průmyslu a zdůraznili nutnost kvalitních dat a dlouhodobé udržitelnosti AI řešení.",
       "slug": "veeva-summit-europe-future-proofed-ai-set-to-bolst",
@@ -3127,62 +3518,6 @@
       },
       "companies": [
         "Veeva"
-      ],
-      "people": []
-    },
-    {
-      "title": "Daňoví experti doporučují reformu podpory inovací v UK",
-      "description": "Daňoví specialisté z globální společnosti Ryan navrhují změny v daňové politice Spojeného království, aby lépe podporovala inovace prostřednictvím odložení daní místo přímých dotací.",
-      "slug": "ryan-specialists-urge-tax-overhaul-to-boost-innova",
-      "publishedAt": "2025-11-25T11:18:09+00:00",
-      "date": "2025-11-25 11:18:09",
-      "importance": 3,
-      "category": "daňová politika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fPK9gFqa127Pe_1iEWwIHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/international_accounting_bulletin_542/27705b5ae6997d7601bf9ab46b8b20de",
-      "url": "/tech-news/2025-11-25/ryan-specialists-urge-tax-overhaul-to-boost-innova/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internationalaccountingbulletin.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Technologie mění zemědělství v atraktivní kariéru pro mladé pracovníky",
-      "description": "Údržba půdy a monitorování plodin na amerických farmách se stále častěji provádí pomocí umělé inteligence místo manuální práce.",
-      "slug": "technology-turns-farming-into-a-career-young-worke",
-      "publishedAt": "2025-11-25T11:09:08+00:00",
-      "date": "2025-11-25 11:09:08",
-      "importance": 3,
-      "category": "zemědělství",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-11-25/technology-turns-farming-into-a-career-young-worke/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Taiwanský výrobce polovodičů zvyšuje kapacity 2nm čipů kvůli nárůstu poptávky po AI",
-      "description": "Společnost Taiwan Semiconductor Manufacturing Co. (TSMC) rozšiřuje počet svých výrobních linek pro 2nanometrové čipy z původních sedmi na deset, aby splnila rostoucí poptávku po výkonných polovodičích pro umělou inteligenci.",
-      "slug": "taiwan-semiconductor-doubles-down-on-2nm-chips-as-",
-      "publishedAt": "2025-11-25T11:09:05+00:00",
-      "date": "2025-11-25 11:09:05",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://biztoc.com/cdn/430da9ea2e524c88_s.webp",
-      "url": "/tech-news/2025-11-25/taiwan-semiconductor-doubles-down-on-2nm-chips-as/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Taiwan Semiconductor Manufacturing Co. Ltd"
       ],
       "people": []
     },
@@ -3227,29 +3562,6 @@
       "people": []
     },
     {
-      "title": "Sutton Group přebírá Homicity a jmenuje nového viceprezidenta pro technologie",
-      "description": "Kanadská realitní značka Sutton Group oznámila akvizici technologické firmy Homicity a jmenovala jejího zakladatele Jamieho Bladeše do funkce viceprezidenta pro technologie.",
-      "slug": "sutton-group-announces-acquisition-of-homicity-and",
-      "publishedAt": "2025-11-25T11:00:00+00:00",
-      "date": "2025-11-25 11:00:00",
-      "importance": 3,
-      "category": "akvizice",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/8160dc01-9fb4-4e87-80c5-93ad660f38e1",
-      "url": "/tech-news/2025-11-25/sutton-group-announces-acquisition-of-homicity-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Homicity",
-        "Sutton Group"
-      ],
-      "people": [
-        "Jami Blades"
-      ]
-    },
-    {
       "title": "Co agentic commerce znamená pro výkonné ředitele a nákupy ve firmách",
       "description": "Agentic commerce, jako je nákup přes ChatGPT, může zjednodušit nákup firemních produktů. Je však třeba vyřešit otázky infrastruktury, bezpečnosti a schvalovacích procesů.",
       "slug": "what-agentic-commerce-means-for-cxos-and-b2b-buyin",
@@ -3266,67 +3578,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Konečný nákupní průvodce iPadem 2025: Který je pro vás ten pravý?",
-      "description": "Výběr správného iPadu může být složitý kvůli rozsáhlé nabídce modelů a různým funkcím. Článek pomáhá pochopit rozdíly mezi jednotlivými verzemi a zvolit tu nejvhodnější pro vaše potřeby.",
-      "slug": "the-ultimate-ipad-buying-guide-2025-which-one-is-a",
-      "publishedAt": "2025-11-25T10:30:03+00:00",
-      "date": "2025-11-25 10:30:03",
-      "importance": 3,
-      "category": "tablety",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/choosing-the-right-ipad-guide_optimized.jpg",
-      "url": "/tech-news/2025-11-25/the-ultimate-ipad-buying-guide-2025-which-one-is-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Británie plánuje nákup cloudových služeb za 250 milionů liber pro rozvoj výzkumu umělé inteligence",
-      "description": "Britská vláda chystá zakázku v hodnotě až 250 milionů liber na cloudové kapacity, které propojí komerční infrastrukturu s národními superpočítači a podpoří výzkum AI.",
-      "slug": "uk-lines-up-250m-cloud-procurement-to-feed-its-gro",
-      "publishedAt": "2025-11-25T10:28:07+00:00",
-      "date": "2025-11-25 10:28:07",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://regmedia.co.uk/2016/09/22/cambridge_bikes_photo_mk_jones_via_shutterstock.jpg",
-      "url": "/tech-news/2025-11-25/uk-lines-up-250m-cloud-procurement-to-feed-its-gro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie ke sledování v úterý: Alphabet, Nvidia, Alibaba, Zoom",
-      "description": "Alphabet zaznamenal růst po zprávách o potenciální miliardové objednávce AI čipů od Meta Platforms. Mezitím Alibaba hlásí silný růst cloudového příjmu díky poptávce po AI službách, zatímco akcie Nvidie klesly spolu s ostatními čipovými společnostmi.",
-      "slug": "stocks-to-watch-tuesday-alphabet-nvidia-alibaba-zo",
-      "publishedAt": "2025-11-25T10:22:53+00:00",
-      "date": "2025-11-25 10:22:53",
-      "importance": 3,
-      "category": "burza",
-      "urlToImage": "https://images.wsj.net/im-92168878/social",
-      "url": "/tech-news/2025-11-25/stocks-to-watch-tuesday-alphabet-nvidia-alibaba-zo/",
-      "source": {
-        "emoji": "📈",
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "companies": [
-        "Alphabet",
-        "Meta Platforms",
-        "Google",
-        "Nvidia"
       ],
       "people": []
     },
@@ -3351,83 +3602,6 @@
       "people": []
     },
     {
-      "title": "Transformace finančního marketingu v éře umělé inteligence",
-      "description": "Finanční marketing se v důsledku pokročilé umělé inteligence mění – investoři využívají nástroje jako Bloomberg pro automatické shromažďování a shrnování zpráv.",
-      "slug": "transforming-financial-marketing-in-the-era-of-ai-",
-      "publishedAt": "2025-11-25T07:55:45+00:00",
-      "date": "2025-11-25 07:55:45",
-      "importance": 3,
-      "category": "fintech",
-      "urlToImage": "https://fintechbits.net/wp-content/uploads/2025/11/Redefining-Financial-Marketing-in-the-Age-of-AI.jpg",
-      "url": "/tech-news/2025-11-25/transforming-financial-marketing-in-the-era-of-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fintechbits.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "TicNote AI Recorder v Black Friday slevě: od 99,99 USD",
-      "description": "Během letošního Black Friday je k dispozici sleva na TicNote AI Recorder – kompaktní zařízení pro automatický přepis, překlad a strukturování hlasových záznamů.",
-      "slug": "ticnote-ai-recorder-black-friday-offer-now-startin",
-      "publishedAt": "2025-11-25T07:16:06+00:00",
-      "date": "2025-11-25 07:16:06",
-      "importance": 3,
-      "category": "ai hardware",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/11/TicNote-featured-image.jpg",
-      "url": "/tech-news/2025-11-25/ticnote-ai-recorder-black-friday-offer-now-startin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Hitachi Energy odmítá další investice do švédského startupu Stegra",
-      "description": "Dodavatel elektrického zařízení Hitachi Energy, který se v roce 2022 zapojil do zeleného ocelářského projektu švédského startupu Stegra, nyní vyloučil další finanční podporu.",
-      "slug": "stegra-shareholder-hitachi-energy-rules-out-new-ca",
-      "publishedAt": "2025-11-25T07:13:18+00:00",
-      "date": "2025-11-25 07:13:18",
-      "importance": 3,
-      "category": "startupy",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/stegra-shareholder-hitachi-energy-rules-out-new-ca/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Hitachi Energy Ltd",
-        "Stegra AB"
-      ],
-      "people": []
-    },
-    {
-      "title": "Shekhar Kapur varuje: AI způsobí pád tradičních filmových studií",
-      "description": "Oceněný režisér Shekhar Kapur na filmovém trhu WAVES Film Bazaar upozornil, že umělá inteligence zásadně naruší hierarchie v zábavním průmyslu a ohrozí existenci velkých korporací založených na vysokých vstupních bariérách.",
-      "slug": "shekhar-kapur-warns-studios-face-collapse-as-ai-de",
-      "publishedAt": "2025-11-25T07:12:52+00:00",
-      "date": "2025-11-25 07:12:52",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://variety.com/wp-content/uploads/2023/06/Shekhar-Kapur1.jpg?w=1000&h=563&crop=1",
-      "url": "/tech-news/2025-11-25/shekhar-kapur-warns-studios-face-collapse-as-ai-de/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Variety"
-      },
-      "companies": [],
-      "people": [
-        "Shekhar Kapur"
-      ]
-    },
-    {
       "title": "Co je mise Genesis? Vše, co potřebujete vědět o Trumpově novém projektu v oblasti umělé inteligence",
       "description": "Bývalý americký prezident Donald Trump podepsal výkonný rozkaz k zahájení federálního programu „Genesis Mission“, jehož cílem je urychlit inovace pomocí umělé inteligence a využít státní výzkumné kapacity a datové zdroje.",
       "slug": "what-is-genesis-mission-all-you-need-to-know-about",
@@ -3445,26 +3619,6 @@
       "companies": [],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Útoky, kterým padají všichni (a jak se jich zbavit)",
-      "description": "Mediální pozornost se soustředí na spektakulární kyberútoky, ale většina skutečných bezpečnostních incidentů vychází z běžných a opakovaně známých chyb – jako jsou ukradená hesla, phishing nebo neaktualizované systémy.",
-      "slug": "the-breaches-everyone-gets-hit-by-and-how-to-stop-",
-      "publishedAt": "2025-11-25T06:00:54+00:00",
-      "date": "2025-11-25 06:00:54",
-      "importance": 3,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/11/21100627/the-mundane-breaches-everyone-gets-hit-by-and-how-to-stop-them-1500-x-844-px-2.png",
-      "url": "/tech-news/2025-11-25/the-breaches-everyone-gets-hit-by-and-how-to-stop/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Help Net Security"
-      },
-      "companies": [],
-      "people": [
-        "Ross Haleliuk"
       ]
     },
     {
@@ -3491,42 +3645,6 @@
       ]
     },
     {
-      "title": "Tichá invaze: Nezastavitelný nástup AI hraček",
-      "description": "Skupina odborníků na dětskou bezpečnost varuje rodiče před AI hračkami, které mohou vážně ohrozit psychický a emocionální vývoj dětí a narušit jejich schopnost budovat skutečné vztahy.",
-      "slug": "silent-invasion-the-unchecked-rise-of-ai-toys",
-      "publishedAt": "2025-11-25T06:00:00+00:00",
-      "date": "2025-11-25 06:00:00",
-      "importance": 3,
-      "category": "ai hračky",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/11/Robot-Android-Cyborg-Waiter-.jpg",
-      "url": "/tech-news/2025-11-25/silent-invasion-the-unchecked-rise-of-ai-toys/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Otázky kolem podnikových LLM, které byste si měli klást",
-      "description": "Velké jazykové modely (LLM) se nacházejí v klíčovém bodě svého vývoje: průlomy zpomalují, roste skepse ohledně cesty k obecné umělé inteligenci a zároveň se objevují obavy z přehnaného nadšení pro AI infrastrukturu. Přesto mají LLM potenciál výrazně ovlivnit podnikový software.",
-      "slug": "the-enterprise-llm-questions-you-should-be-asking-",
-      "publishedAt": "2025-11-25T05:47:01+00:00",
-      "date": "2025-11-25 05:47:01",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.constellationr.com/sites/default/files/styles/metatag/public/uploads/Screenshot%202025-11-18%20160044.png?itok=zB-0Be57",
-      "url": "/tech-news/2025-11-25/the-enterprise-llm-questions-you-should-be-asking/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Constellationr.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Wall Street varuje před novým rizikem v akciích AI: Proč vítězství Googlu může být důvodem k obavám",
       "description": "Investoři sledují, jak úspěch Googlu v oblasti umělé inteligence, zejména s modelem Gemini, může narušit dominantní postavení jiných firem, jako je Nvidia.",
       "slug": "wall-street-weighs-new-ai-stock-fear-why-google-wi",
@@ -3547,26 +3665,6 @@
         "Apple",
         "Tesla",
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Humanoidní robot UBTECH Walker S2 vstupuje do sériové výroby – objednávky přesahují 800 milionů jüanů",
-      "description": "Čínská společnost UBTECH zahájila sériovou výrobu a dodávky první várky průmyslových humanoidních robotů Walker S2, které budou nasazeny v automobilovém průmyslu, chytrých továrnách a logistických centrech.",
-      "slug": "ubtech-humanoid-robot-walker-s2-begins-mass-produc",
-      "publishedAt": "2025-11-25T05:04:57+00:00",
-      "date": "2025-11-25 05:04:57",
-      "importance": 4,
-      "category": "humanoidní roboti",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/11/25/photo3.jpg",
-      "url": "/tech-news/2025-11-25/ubtech-humanoid-robot-walker-s2-begins-mass-produc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "companies": [
-        "UBTECH"
       ],
       "people": []
     },
@@ -3633,103 +3731,6 @@
       ]
     },
     {
-      "title": "Výkonnostní marketing řízený SaaS pro zahraniční značky vstupující na čínský trh",
-      "description": "Zahraniční značky čelí při vstupu na čínský trh komplexním výzvám. SaaS platformy nabízejí nástroje pro automatizaci, personalizaci a monitorování kampaní, které zvyšují efektivitu marketingu.",
-      "slug": "saas-driven-performance-marketing-for-overseas-bra",
-      "publishedAt": "2025-11-25T04:11:21+00:00",
-      "date": "2025-11-25 04:11:21",
-      "importance": 3,
-      "category": "marketing saas",
-      "urlToImage": "https://i0.wp.com/pltfrm.com.cn/wp-content/uploads/2023/07/943037AB-331D-4C91-A367-6DC84D9E085E_1_201_a.jpeg?fit=644%2C644&ssl=1",
-      "url": "/tech-news/2025-11-25/saas-driven-performance-marketing-for-overseas-bra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Pltfrm.com.cn"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Role malajsko-čínské inovace v oblasti zeleného chytrého řetězce dodávek",
-      "description": "Během návštěvy čínského prezidenta Si Ťin-pchinga v Malajsii 16. dubna 2025 podepsaly obě země memorandum o porozumění zaměřené na rozšíření spolupráce v obchodě se službami a průmyslových odvětvích, včetně zelené logistiky.",
-      "slug": "the-role-of-malaysiachina-green-smart-supply-chain",
-      "publishedAt": "2025-11-25T02:42:00+00:00",
-      "date": "2025-11-25 02:42:00",
-      "importance": 3,
-      "category": "zelená logistika",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/25/3638717.jpg",
-      "url": "/tech-news/2025-11-25/the-role-of-malaysiachina-green-smart-supply-chain/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": [
-        "Xi Jinping",
-        "žádné"
-      ]
-    },
-    {
-      "title": "Image to STL: Nástroj s umělou inteligencí pro převod obrázků na 3D tisknutelné modely",
-      "description": "Image to STL je online nástroj využívající AI k automatickému převodu 2D obrázků (JPG, PNG) na 3D tisknutelné soubory ve formátu STL bez nutnosti znalostí 3D modelování.",
-      "slug": "show-hn-image-to-stl-free-ai-powered-image-to-3d-p",
-      "publishedAt": "2025-11-25T02:09:29+00:00",
-      "date": "2025-11-25 02:09:29",
-      "importance": 3,
-      "category": "3d tisk",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/show-hn-image-to-stl-free-ai-powered-image-to-3d-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Imagetostl.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "„Předobrazem je Flint“: Boom datových center v Oregonu zhoršuje krizi s pitnou vodou",
-      "description": "Datová centra společnosti Amazon postavená na farmářských pozemcích ve východním Oregonu zhoršují problém znečištění podzemní vody dusičnany, které jsou spojovány s rakovinou a potraty.",
-      "slug": "the-precedent-is-flint-how-oregons-data-center-boo",
-      "publishedAt": "2025-11-25T01:00:00+00:00",
-      "date": "2025-11-25 01:00:00",
-      "importance": 3,
-      "category": "datacentra",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/11/AP25234035673015.jpg?w=1600&h=900&crop=1",
-      "url": "/tech-news/2025-11-25/the-precedent-is-flint-how-oregons-data-center-boo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Burzy reagují na růst akcií Alphabetu a dalších firem v oblasti umělé inteligence",
-      "description": "Americké burzovní indexy ukončily obchodování v pondělí 24. listopadu 2025 růstem, který byl podpořen výkonností akcií Alphabetu a dalších firem zaměřených na AI. Futures na hlavní indexy následně v noci mírně stoupaly.",
-      "slug": "sp-500-nasdaq-and-dow-futures-see-slight-change-af",
-      "publishedAt": "2025-11-25T00:55:09+00:00",
-      "date": "2025-11-25 00:55:09",
-      "importance": 3,
-      "category": "burza",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125553045,width-1200,height-630,imgsize-180750,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-25/sp-500-nasdaq-and-dow-futures-see-slight-change-af/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
       "title": "Proč Accel a Google pátrají po indických zakladatelích AI startupů",
       "description": "Venture kapitál Accel spolupracuje s Google AI Futures Fund na investicích až 2 miliony dolarů do indických AI startupů v rámci akcelerátoru Atoms. Zaměřují se na oblasti kódování, produktivity, kreativity a zábavy.",
       "slug": "why-accel-and-google-are-chasing-indias-newest-ai-",
@@ -3748,78 +3749,6 @@
         "Accel",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Sam Thursfield: Aktuální stav – 23. listopadu 2025",
-      "description": "Autor popisuje cestu vlakem do Madridu a komentuje rozdíly v železniční infrastruktuře mezi Španělskem a Francií, přičemž zmíní i účast na konferenci Digital Resilience Forum zaměřené na bezpečnost systémů.",
-      "slug": "sam-thursfield-status-update-23rd-november-2025",
-      "publishedAt": "2025-11-25T00:03:44+00:00",
-      "date": "2025-11-25 00:03:44",
-      "importance": 3,
-      "category": "bezpečnost systémů",
-      "urlToImage": "http://img.youtube.com/vi/QvjBkwYYx_Y/0.jpg",
-      "url": "/tech-news/2025-11-25/sam-thursfield-status-update-23rd-november-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wordpress.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tato kombinace AI by mohla otevřít cestu k lidské úrovni inteligence",
-      "description": "Spojení klasických logických systémů se současnými neuronovými sítěmi je jedním z nejvýznamnějších směrů vývoje umělé inteligence.",
-      "slug": "this-ai-combo-could-unlock-human-level-intelligenc",
-      "publishedAt": "2025-11-25T00:00:00+00:00",
-      "date": "2025-11-25 00:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03856-1/d41586-025-03856-1_51751374.jpg",
-      "url": "/tech-news/2025-11-25/this-ai-combo-could-unlock-human-level-intelligenc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Možnosti rozšíření výroby udržitelných leteckých paliv pro splnění globálních a evropských cílů",
-      "description": "Výroba udržitelných leteckých paliv (SAF) značně zaostává za plánovanými kapacitami. K roku 2024 bylo realizováno pouze 24 % oznámené kapacity a více než 40 % plánů na rok 2030 hrozí zpožděním.",
-      "slug": "the-potential-scale-up-of-sustainable-aviation-fue",
-      "publishedAt": "2025-11-25T00:00:00+00:00",
-      "date": "2025-11-25 00:00:00",
-      "importance": 3,
-      "category": "udržitelná letecká p",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/the-potential-scale-up-of-sustainable-aviation-fue/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Terahertzová fotonická heterodyní spektrální analýza s rozlišením (pod) kHz a krytím 6,5 THz",
-      "description": "Výzkumníci představili nový terahertzový spektrální analyzátor s rekordním frekvenčním rozsahem a vysokým rozlišením, vhodný pro metrologii, nedestruktivní testování a identifikaci materiálů.",
-      "slug": "terahertz-photonic-heterodyne-spectral-analysis-wi",
-      "publishedAt": "2025-11-25T00:00:00+00:00",
-      "date": "2025-11-25 00:00:00",
-      "importance": 3,
-      "category": "terahertzová spektro",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/terahertz-photonic-heterodyne-spectral-analysis-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
       "people": []
     }
   ]
