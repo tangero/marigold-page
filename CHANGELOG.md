@@ -8,6 +8,13 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- **Seznam.cz Discussion System** - nativní diskuzní systém místo commentbox.io
+  - Nahrazen commentbox.io systém za Seznam.cz diskuze (service-name: `marigoldcz`)
+  - Přidány include soubory: `szn-discussion.html`, `szn-discussion-meta.html`, `szn-discussion-jsonld.html`
+  - Meta tag `szn:permalink` pro propojení s Homepage Seznamu
+  - JSON-LD strukturovaná data s `discussionUrl` pro SEO
+  - Diskuze aktivní v layoutech: `post.html` a `tech_news_article.html`
+  - Obrazy kolekce nadále bez diskuzí (stejně jako předtím)
 - **Diagnostic Dashboard** (`scripts/tech_news_diagnostic_dashboard.py`) - komplexní monitoring tech-news pipeline
   - Rejection analysis s breakdown důvodů zamítnutí (content_filter vs low_importance)
   - Sample zamítnutých článků s jejich skóre a důvody

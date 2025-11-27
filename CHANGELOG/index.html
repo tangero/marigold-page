@@ -73,6 +73,8 @@
     
 
 
+    
+
     <link rel="stylesheet" type="text/css" href="/assets/style.css" />
     <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
     <link rel="canonical" href="https://www.marigold.cz/CHANGELOG/" />
@@ -173,6 +175,9 @@
 </script>
 
 
+    <!-- Seznam.cz Discussion System -->
+    <script type="text/javascript" src="https://d21-a.sdn.cz/d_21/sl/3/loader.js"></script>
+
     <script type="text/javascript">
       window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
       heap.load("2219710997");
@@ -218,6 +223,16 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="added">Added</h3>
 <ul>
+  <li><strong>Seznam.cz Discussion System</strong> - nativní diskuzní systém místo commentbox.io
+    <ul>
+      <li>Nahrazen commentbox.io systém za Seznam.cz diskuze (service-name: <code class="language-plaintext highlighter-rouge">marigoldcz</code>)</li>
+      <li>Přidány include soubory: <code class="language-plaintext highlighter-rouge">szn-discussion.html</code>, <code class="language-plaintext highlighter-rouge">szn-discussion-meta.html</code>, <code class="language-plaintext highlighter-rouge">szn-discussion-jsonld.html</code></li>
+      <li>Meta tag <code class="language-plaintext highlighter-rouge">szn:permalink</code> pro propojení s Homepage Seznamu</li>
+      <li>JSON-LD strukturovaná data s <code class="language-plaintext highlighter-rouge">discussionUrl</code> pro SEO</li>
+      <li>Diskuze aktivní v layoutech: <code class="language-plaintext highlighter-rouge">post.html</code> a <code class="language-plaintext highlighter-rouge">tech_news_article.html</code></li>
+      <li>Obrazy kolekce nadále bez diskuzí (stejně jako předtím)</li>
+    </ul>
+  </li>
   <li><strong>Diagnostic Dashboard</strong> (<code class="language-plaintext highlighter-rouge">scripts/tech_news_diagnostic_dashboard.py</code>) - komplexní monitoring tech-news pipeline
     <ul>
       <li>Rejection analysis s breakdown důvodů zamítnutí (content_filter vs low_importance)</li>
