@@ -24,19 +24,22 @@ urlToImageBackup: https://d.ibtimes.com/en/full/4635238/amazon-leo.png
 ---
 
 ## Souhrn
-Amazon oficiálně přejmenoval svůj satelitní internetový projekt Kuiper na Amazon Leo a zahájil testování pro firemní zákazníky. Tímto krokem přímo vyzývá SpaceX Starlink, který aktuálně dominuje trhu s více než 7 000 aktivními satelity v nízké oběžné dráze a přes 5 miliony uživateli.
+Amazon oficiálně přejmenoval svůj satelitní internetový projekt Kuiper na Amazon Leo a zahájil testování pro firemní zákazníky. Tímto krokem přímo vyzývá SpaceX Starlink, který aktuálně dominuje trhu s více než 7 000 aktivními satelity a přes pěti miliony uživateli.
 
 ## Klíčové body
 - Amazon Leo (dříve Project Kuiper) spustil enterprise preview program pro testování satelitního připojení.
-- SpaceX v současnosti provozuje cca 7 050 satelitů, což představuje dvě třetiny všech aktivních satelitů na oběžné dráze.
-- Amazon dosud vypustil přes 150 satelitů a plánuje celkem 3 236 satelitů na výšku 590–630 km.
-- Nová anténa Amazon Leo Ultra je určena pro podniky v odlehlých oblastech a využívá fázovanou anténní matici a vlastní čipovou architekturu.
+- SpaceX provozuje zhruba dvě třetiny všech aktivních satelitů na nízké oběžné dráze (LEO).
+- Amazon plánuje nasadit 3 236 satelitů do výšky 590–630 km.
+- První testovací anténa Amazon Leo Ultra je určena pro podniky v odlehlých oblastech.
+- Amazon dosud vypustil pouze cca 150 satelitů, zatímco Starlink jich má v provozu přes 7 000.
 
 ## Podrobnosti
-Amazon Leo bude fungovat v nízké oběžné dráze (Low Earth Orbit, LEO), což umožňuje nižší latenci a vyšší rychlost připojení ve srovnání s tradičními geostacionárními satelity. Název „Leo“ odkazuje právě na tuto oblast vesmíru do 1 200 mil (cca 1 930 km) nad Zemí. I když je Amazon v současnosti výrazně pozadu – SpaceX vypouští satelity od roku 2019 a dnes má na oběžné dráze více než 11 000 satelitů celkem – společnost investuje 10 miliard dolarů do celého ekosystému. Výška dráhy Amazonových satelitů (590–630 km) je mírně vyšší než u Starlinku, což může ovlivnit latenci i pokrytí. Pro podniky je klíčová nová anténa Amazon Leo Ultra, která slibuje bezpečné a spolehlivé připojení v odlehlých oblastech – například pro těžební firmy, logistiku nebo humanitární mise. Anténa využívá fázovanou anténní matici (phased array), která umožňuje elektronické zaměření signálu bez mechanického pohybu, a vlastní čipovou architekturu pro optimalizaci výkonu.
+Amazon Leo je nový název pro dříve označovaný Project Kuiper – ambiciózní iniciativu zaměřenou na poskytování širokopásmového internetu prostřednictvím satelitní sítě na nízké oběžné dráze (Low Earth Orbit, LEO). Název „Leo“ přímo odkazuje na tuto oblast vesmíru, která se nachází do 1 200 km nad Zemí. Společnost v pondělí spustila tzv. enterprise preview program, který umožňuje firmám testovat konektivitu pomocí nové antény Amazon Leo Ultra. Ta využívá fázovanou anténní soustavu a vlastní čipovou architekturu pro zajištění stabilního a bezpečného připojení v odlehlých nebo infrastrukturně nedostatečně vybavených oblastech.
+
+Na rozdíl od SpaceX, který od roku 2019 vypustil více než 7 000 satelitů a má globální zákaznickou základnu přesahující 5 milionů uživatelů, je Amazon stále v rané fázi nasazení. Od dubna 2025 vypustil pouze kolem 150 satelitů, a to i pomocí raket SpaceX – ironické spojenectví v rámci konkurenčního boje. Přesto Amazon investuje do projektu 10 miliard dolarů a plánuje postupně nasadit celkem 3 236 satelitů do výšky mezi 590 a 630 km, což je mírně výše než většina satelitů Starlinku.
 
 ## Proč je to důležité
-Vstup Amazonu do trhu satelitního internetu přináší větší konkurenci, což může vést ke snížení cen a zlepšení kvality služeb. Zatímco SpaceX má značný náskok, Amazonova finanční síla a infrastruktura (včetně využití vlastních datových center a cloudové platformy AWS) mu dávají reálnou šanci na dlouhodobý úspěch. Tento boj o globální připojení má strategický význam nejen pro komerční sektor, ale i pro státní a bezpečnostní aplikace, zejména v oblastech bez pevné infrastruktury.
+Tento krok signalizuje, že Amazon nezůstává pasivním pozorovatelem v rychle rostoucím trhu satelitního internetu. I když je výrazně pozadu za SpaceX, jeho vstup do firemního segmentu může podpořit konkurenci, snížit ceny a zlepšit dostupnost spojení v regionech s nedostatečnou pozemní infrastrukturou. Pro průmysl, logistiku, těžební společnosti nebo humanitární organizace může být Amazon Leo alternativou k dosud dominantnímu Starlinku. V dlouhodobém horizontu může rozšíření počtu hráčů na trhu vést ke stabilnější a odolnější globální satelitní infrastruktuře.
 
 ---
 

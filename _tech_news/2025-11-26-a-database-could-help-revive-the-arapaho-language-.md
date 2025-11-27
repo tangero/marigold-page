@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: jazykové technologie
 date: '2025-11-26 00:17:57'
-description: Mnoho domorodých jazyků Severní Ameriky má dnes jen několik posledních
-  rodilých mluvčích, mezi nimi i arapahský jazyk s méně než stovkou mluvčích starších
-  70 let.
+description: Mnoho domorodých jazyků Severní Ameriky má dnes jen několik málo rodilých
+  mluvčích, často starších 70 let. Jazyk Arapahů je jedním z nich.
 importance: 3
 layout: tech_news_article
 original_title: A database could help revive the Arapaho language before its last
@@ -15,27 +14,28 @@ source:
   emoji: 📰
   id: null
   name: The Conversation Africa
-title: Databáze by mohla pomoci oživit jazyk Arapahů, než zmizí poslední mluvčí
+title: Databáze by mohla pomoci oživit jazyk Arapahů dříve, než zmizí poslední mluvčí
 url: https://theconversation.com/a-database-could-help-revive-the-arapaho-language-before-its-last-speakers-are-gone-269592
 urlToImage: https://images.theconversation.com/files/704635/original/file-20251125-56-97hdz3.jpg?ixlib=rb-4.1.0&rect=0%2C168%2C5155%2C2577&q=45&auto=format&w=1356&h=668&fit=crop
 urlToImageBackup: https://images.theconversation.com/files/704635/original/file-20251125-56-97hdz3.jpg?ixlib=rb-4.1.0&rect=0%2C168%2C5155%2C2577&q=45&auto=format&w=1356&h=668&fit=crop
 ---
 
 ## Souhrn
-Lingvista Andrew Cowell z University of Colorado Boulder pracuje na projektu, který kombinuje desítky let dokumentace arapahského jazyka s moderními technologiemi, aby zabránil jeho vymizení. Dnes už zbývá méně než 100 rodilých mluvčích, všichni starší 70 let.
+Lingvista Andrew Cowell z University of Colorado Boulder pracuje na projektu, který kombinuje desítky let dokumentace jazyka Arapahů s moderními technologiemi, aby zabránil jeho vymizení. Dnes už zbývá méně než 100 rodilých mluvčích, všichni starší 70 let.
 
 ## Klíčové body
-- Arapahský jazyk má méně než 100 rodilých mluvčích, všichni jsou starší 70 let.
-- Projekt využívá rozsáhlou jazykovou dokumentaci a nové technologické nástroje pro výuku a revitalizaci jazyka.
+- Jazyk Arapahů má méně než 100 rodilých mluvčích, všichni jsou starší 70 let.
+- Projekt využívá rozsáhlou jazykovou dokumentaci a nové technologické nástroje k podpoře revitalizace.
 - Cowell spolupracuje s kmeny Northern Arapaho a Southern Cheyenne and Arapaho.
-- Cílem je vytvořit přístupnou digitální databázi a výukové nástroje pro komunitu i širší veřejnost.
-- Projekt je financován National Science Foundation a dalšími institucemi zaměřenými na dokumentaci ohrožených jazyků.
+- Cílem je vytvořit přístupnou databázi a výukové nástroje pro nové generace mluvčích.
 
 ## Podrobnosti
-Andrew Cowell, profesor lingvistiky, začal pracovat na arapahském jazyce krátce po svém příchodu do Colorada v roce 1995. V roce 1999 navštívil rezervaci Wind River v Wyomingu, kde tehdy žily stovky mluvčích. Od té doby počet drasticky klesl – dnes už jich je méně než 100 a všichni jsou v pokročilém věku. Cowell spolu s komunitou věří, že jazyk lze zachránit. Jeho tým shromažďuje nahrávky rozhovorů, slovní zásoby, gramatické struktury a příběhy od posledních mluvčích a digitalizuje je do strukturované databáze. Tato databáze bude sloužit jako základ pro výukové aplikace, interaktivní kurzy a nástroje pro automatické zpracování jazyka (NLP), které by mohly podporovat výuku mladší generace. Projekt zahrnuje i spolupráci s členy kmenů, kteří poskytují kulturní kontext a ověřují přesnost dat.
+Andrew Cowell, profesor lingvistiky, se jazykem Arapahů zabývá od konce 90. let. Po příchodu do Colorada v roce 1995 se rozhodl seznámit se s domorodým jazykem regionu. V roce 1999 navštívil rezervaci Wind River v Wyomingu, kde tehdy žily stovky mluvčích. Dnes je jejich počet pod hranicí 100 a všichni jsou velmi staří. Tento pokles je důsledkem historické asimilační politiky USA, která potlačovala domorodé jazyky po více než století.
+
+Cowell nyní vede projekt, který integruje rozsáhlé audiovizuální archivy, slovníky a gramatické analýzy do digitální platformy. Cílem je vytvořit nástroje pro výuku jazyka, včetně interaktivních aplikací, hlasových modelů a databází přístupných komunitě. Projekt je financován Národní vědeckou nadací (NSF) a dalšími organizacemi zaměřenými na dokumentaci ohrožených jazyků.
 
 ## Proč je to důležité
-Tento přístup ukazuje, jak lze jazykové technologie využít nejen pro komerční jazyky, ale i pro zachování kulturního dědictví ohrožených komunit. Vzhledem k tomu, že většina NLP nástrojů je trénována na dominantních jazycích (angličtina, čínština, španělština), projekty jako tento otevírají cestu k inkluzivnějšímu vývoji AI. Zároveň demonstrují, že technologie mohou hrát klíčovou roli v antropologickém a kulturním výzkumu, pokud jsou integrovány s respektem k původním komunitám a jejich vědomostem.
+Tento přístup ukazuje, jak lze jazykové technologie využít nejen pro komerční účely (např. strojový překlad nebo rozpoznávání řeči), ale i pro kulturní a sociální zachování. V kontextu AI a zpracování přirozeného jazyka (NLP) jde o vzácný příklad aplikace těchto technologií pro jazyky s extrémně omezenými daty. Projekt může sloužit jako model pro revitalizaci dalších ohrožených jazyků po celém světě, kde digitální nástroje doplňují tradiční metody výuky a přenosu jazyka mezi generacemi.
 
 ---
 

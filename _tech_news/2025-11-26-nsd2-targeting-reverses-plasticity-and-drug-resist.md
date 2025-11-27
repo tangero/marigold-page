@@ -3,8 +3,8 @@ author: Marisa Aigen
 category: onkologie
 date: '2025-11-26 00:00:00'
 description: Inhibice histonové metyltransferázy NSD2 a androgenového receptoru v
-  preklinických modelech dokáže obrátit buněčnou plasticitu, potlačit růst nádoru
-  a obnovit citlivost na léčbu u několika podtypů kastrací rezistentní rakoviny prostaty.
+  preklinických modelech dokáže obrátit liniovou plasticitu, potlačit růst nádoru
+  a navrátit citlivost na léčbu u několika podtypů kastrací rezistentní rakoviny prostaty.
 importance: 3
 layout: tech_news_article
 original_title: NSD2 targeting reverses plasticity and drug resistance in prostate
@@ -22,20 +22,19 @@ urlToImageBackup: https://media.springernature.com/m685/springer-static/image/ar
 ---
 
 ## Souhrn
-Výzkumníci identifikovali, že cílená inhibice enzymu NSD2 – histonové metyltransferázy – dokáže v preklinických modelech obrátit buněčnou plasticitu u agresivních forem rakoviny prostaty. Tento přístup obnovuje citlivost nádorových buněk na léčbu inhibitory androgenového receptoru, jako je enzalutamid, a zároveň potlačuje růst nádoru včetně jeho nejodolnějších podtypů.
+Výzkum ukazuje, že cílená inhibice enzymu NSD2, který modifikuje histony, dokáže obrátit agresivní fenotyp kastrací rezistentní rakoviny prostaty (CRPC) zpět na méně agresivní adenokarcinom. Tento přístup obnovuje účinnost léčby inhibitory androgenového receptoru, jako je enzalutamid, a navozuje buněčnou smrt v preklinických modelech včetně lidských orgánoidů a xenotransplantátů.
 
 ## Klíčové body
-- NSD2 je enzym podílející se na epigenetické regulaci genů spojených s neuroendokrinní diferenciací nádorů prostaty.
-- Zvýšená hladina NSD2 v neuroendokrinní formě kastrací rezistentní rakoviny prostaty (CRPC-NE) koreluje s horší prognózou.
-- CRISPRová inaktivace NSD2 v organoidech převádí agresivní CRPC-NE zpět na méně agresivní adenokarcinomový fenotyp.
-- Farmakologická inhibice NSD2 obnovuje účinnost enzalutamidu a synergicky potlačuje růst nádoru v lidských organoidech i v myších xenograftech.
-- Kombinované cílení NSD2 a androgenového receptoru nabízí novou terapeutickou strategii pro dosud neléčitelné formy rakoviny prostaty.
+- NSD2 je histonová metyltransferáza, jejíž zvýšená exprese koreluje s horší prognózou u pacientů s neuroendokrinním podtypem CRPC (CRPC-NE).
+- Genetická nebo farmakologická inhibice NSD2 vede k obnovení adenokarcinomového fenotypu a znovuaktivaci programu androgenového receptoru.
+- Kombinace inhibitoru NSD2 s enzalutamidem synergicky potlačuje růst nádoru a zvyšuje apoptózu v orgánoidech odvozených od pacientů.
+- Výsledky naznačují možnost nové terapeutické strategie pro léčbu dosud nezvládnutelných forem CRPC.
 
 ## Podrobnosti
-V pokročilých stádiích rakoviny prostaty často dochází k tzv. buněčné plasticitě – schopnosti nádorových buněk měnit svůj fenotyp a unikat cílené terapii. Tento proces je často řízen epigenetickými mechanismy, které mění expresi genů bez změny DNA sekvence. U kastrací rezistentní rakoviny prostaty (CRPC) vede plasticita k přeměně adenokarcinomu na agresivní neuroendokrinní podtyp (CRPC-NE), který neodpovídá na standardní léčbu inhibitory androgenového receptoru. Výzkum ukazuje, že enzym NSD2, který katalyzuje dimethylaci histonu H3 na pozici K36 (H3K36me2), reguluje enhancery genů podílejících se na neuroendokrinní diferenciaci. Inhibice NSD2 – buď geneticky pomocí CRISPRu nebo farmakologicky pomocí nové malé molekuly – vede k návratu nádorových buněk k původnímu adenokarcinomovému stavu, obnovuje expresi androgenového receptoru a citlivost na enzalutamid. Tento efekt byl prokázán jak v organoidech odvozených od geneticky upravených myší, tak v lidských organoidech získaných od pacientů s různými podtypy CRPC.
+Liniová plasticita – schopnost nádorových buněk měnit svůj fenotyp – je klíčovým mechanismem rezistence u CRPC. Tento proces často vede k přeměně adenokarcinomu na agresivní neuroendokrinní variantu (CRPC-NE), která neodpovídá na standardní terapii zaměřenou na androgenový receptor (AR). Výzkumníci identifikovali enzym NSD2 jako centrální regulátor této plasticity prostřednictvím dimetylizace histonu H3 na pozici K36 (H3K36me2), což ovlivňuje enhancery genů spojených s neuroendokrinní diferenciací. V orgánoidech z geneticky upravených myší i lidských vzorků CRPC-NE vedlo CRISPRem zprostředkované vypnutí NSD2 k návratu k adenokarcinomovému stavu a obnovení exprese AR. Farmakologická inhibice NSD2 pomocí prvního malé molekuly této třídy potvrdila tyto efekty in vitro i in vivo. Kombinace s enzalutamidem výrazně zvýšila účinnost léčby.
 
 ## Proč je to důležité
-Tento objev představuje jeden z mála příkladů, kdy je epigeneticky řízená plasticita nádoru reverzibilní. Kombinovaná terapie zaměřená na NSD2 a androgenový receptor by mohla poskytnout novou možnost léčby pro pacienty s agresivními, dosud neléčitelnými formami rakoviny prostaty. I když se jedná o preklinický výzkum, otevírá cestu k vývoji první třídy léčiv cílících NSD2, což by mohlo mít širší dopad i v jiných typech nádorů s podobnými epigenetickými mechanismy.
+Tento objev otevírá cestu k nové třídě epigenetických terapií pro agresivní formy rakoviny prostaty, které dnes nemají účinnou léčbu. Zatímco většina epigenetických změn je považována za trvalé, tento výzkum ukazuje, že některé jsou reverzibilní – což má širší implikace i pro jiné typy nádorů. Pokud se farmakologické inhibitory NSD2 osvědčí v klinických studiích, mohou se stát součástí kombinované terapie, která by zpomalila nebo dokonce zvrátila progresi CRPC.
 
 ---
 

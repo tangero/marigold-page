@@ -1,9 +1,9 @@
 ---
 author: Marisa Aigen
-category: věda
+category: věda a technologie
 date: '2025-11-26 00:00:00'
-description: Další generace čínských vědců a technologů bude mít rozhodující vliv
-  na příští desetiletí.
+description: Další generace čínských vědců a technologů bude mít zásadní vliv na příští
+  desetiletí.
 importance: 3
 layout: tech_news_article
 original_title: Why the world must wake up to China’s science leadership
@@ -20,20 +20,20 @@ urlToImageBackup: https://media.nature.com/lw1200/magazine-assets/d41586-025-038
 ---
 
 ## Souhrn
-Čína se v posledních letech stala klíčovým hráčem v oblasti výzkumu a vývoje, avšak mnoho zemí stále podceňuje rozsah jejího technologického vzestupu. Pekingské plány na posílení vědecké a technologické soběstačnosti mají dalekosáhlé důsledky pro globální inovační soutěž.
+Čína se v posledních letech stala klíčovým hráčem v oblasti výzkumu a vývoje, přičemž její investice do vědy a technologií prudce rostou. Přesto mnoho západních zemí stále podceňuje rozsah a rychlost čínského technologického vzestupu.
 
 ## Klíčové body
-- Čína zvýšila investice do výzkumu a vývoje téměř šestinásobně mezi lety 2007 a 2023.
-- Komunistická strana Číny prohlásila inovace za „základní hnací sílu“ pro dalších pět let.
-- Země systematicky snižuje závislost na zahraničních technologiích, zejména na amerických.
-- Čína disponuje rozsáhlou základnou vědeckého potenciálu – v roce 2020 vydala 3,6 milionu absolventů STEM oborů.
+- Čína plánuje do roku 2030 dosáhnout vysoké míry technologické soběstačnosti.
+- Mezi lety 2007 a 2023 se čínské výdaje na výzkum a vývoj téměř zšestinásobily.
+- Čína ročně vypouští desítky tisíc kvalifikovaných vědců a inženýrů.
 - Čínští vědci čím dál častěji vedou mezinárodní výzkumné projekty.
+- Politické rozhodnutí o „inovaci jako základní hnací síle“ má konkrétní rozpočtovou podporu.
 
 ## Podrobnosti
-V říjnu 2023 oznámila Komunistická strana Číny strategický posun směrem k „kvalitnímu rozvoji“ s důrazem na technologickou soběstačnost. Tento krok reaguje na dlouhodobou zranitelnost způsobenou závislostí na západních technologiích, zejména v oblastech jako polovodiče, softwarové nástroje a pokročilé výrobní procesy. Od roku 2007 Čína výrazně zvýšila výdaje na výzkum a vývoj – podle dat z Nature v roce 2023 dosáhly téměř úrovně Spojených států a předstihly celou Evropskou unii. Tento růst není jen politickým prohlášením, ale doprovázen konkrétními investicemi do vědecké infrastruktury, vzdělávání a mezinárodní spolupráce. Čína již dnes vede řadu společných projektů s vědci z USA, Evropy i Spojeného království, zejména v oblastech jako materiálový výzkum, biotechnologie a umělá inteligence. Zároveň vzdělávací systém produkuje rekordní počet absolventů technických a přírodovědných oborů, což poskytuje stabilní základnu pro budoucí inovace.
+V říjnu 2023 čínská vláda oznámila strategický posun směrem k „vysoce kvalitnímu rozvoji“ s důrazem na technologickou soběstačnost. Tento krok reaguje na dlouhodobé závislosti na západních technologiích, zejména v oblastech jako polovodiče, pokročilé materiály a softwarové nástroje. Od roku 2007 Čína výrazně zvýšila investice do R&D – v roce 2023 dosáhly téměř 3 % HDP, což je na úrovni Spojených států a výrazně předstihuje Evropskou unii. Kromě finančních prostředků disponuje Čína i rozsáhlou lidskou základnou: v roce 2020 vydala více než 3,6 milionu absolventů STEM oborů, což je nejvyšší počet na světě. Čínští vědci se stávají běžnými partnery v mezinárodních projektech, včetně spolupráce s univerzitami v USA, Velké Británii a Německu. Tento trend je podporován i státními programy jako „Made in China 2025“ nebo „Dual Circulation“, které cíleně podporují domácí inovace.
 
 ## Proč je to důležité
-Podcenění čínského vědeckého potenciálu může vést k strategickým chybám v západní technologické a bezpečnostní politice. Pokud Čína dosáhne větší autonomie v klíčových technologiích, může to změnit rovnováhu sil v globálním inovačním ekosystému. Pro evropské i americké firmy a instituce to znamená nutnost přizpůsobit se nové realitě, kde Čína není jen výrobní základnou, ale rovnocenným – a často i konkurenčním – partnerem ve výzkumu. Tento posun má potenciál ovlivnit směr vývoje AI, kvantových technologií i biotechnologií v příštích desetiletích.
+Podcenění čínského vědeckého a technologického potenciálu může vést k strategickým chybám na západní straně, zejména v oblastech jako umělá inteligence, kvantové výpočty nebo biotechnologie. Čína už není jen „výrobní dílnou světa“, ale stává se centrem inovací. Pro evropské i americké firmy a výzkumné instituce to znamená nutnost přehodnotit spolupráci, konkurenci i bezpečnostní rizika. Vědecká spolupráce s Čínou může přinést pokrok, ale zároveň vyžaduje jasná pravidla pro ochranu duševního vlastnictví a kritických technologií.
 
 ---
 

@@ -4,9 +4,9 @@ category: polovodiče
 companies:
 - Pure Storage
 date: '2025-11-26 00:30:00'
-description: Řetězce dodávek polovodičů čelí týdenní nejistotě způsobené obchodními
-  clami a politickými změnami, což komplikuje plánování technologickým firmám při
-  rostoucí poptávce po AI, uvedl Charles Giancarlo, CEO společnosti Pure Storage.
+description: Řetězce dodávek polovodičů čelí týdenní nejistotě kvůli výkyvům celních
+  sazeb, což zhoršuje situaci firem zápasících s rostoucím požadavkem na AI infrastrukturu,
+  uvedl Charles Giancarlo, CEO společnosti Pure Storage.
 importance: 3
 layout: tech_news_article
 original_title: 'ET in the Valley: Semicon supply chains are in constant flux on tariffs,
@@ -27,20 +27,22 @@ urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-6576
 ---
 
 ## Souhrn
-Řetězce dodávek polovodičů jsou vystaveny neustálým výkyvům kvůli měnícím se celním opatřením a geopolitické nejistotě, což vytváří „týdenní nejistotu“ pro technologické firmy. Charles Giancarlo, generální ředitel společnosti Pure Storage, upozorňuje, že tato nestabilita urychluje strategii „China plus one“ a otevírá příležitosti pro výrobu v Indii.
+Řetězce dodávek polovodičů jsou vystaveny neustálé nejistotě kvůli měnícím se celním politikám, což komplikuje plánování pro technologické firmy, které již narážejí na limity kapacit kvůli rostoucí poptávce po AI. Charles Giancarlo, generální ředitel společnosti Pure Storage, upozornil na tuto „týdenní nejistotu“ a zároveň zdůraznil příležitosti pro alternativní výrobní lokality, zejména Indii.
 
 ## Klíčové body
-- Nestabilita v řetězcích dodávek polovodičů je způsobena častými změnami celních sazeb a obchodní politiky.
-- Strategie „China plus one“ se stává běžnou reakcí firem na rizika spojená s přílišnou závislostí na Číně.
-- Pure Storage zkoumá možnosti výroby ve Indii, kde už Apple významně investuje.
+- Neustálé změny celních sazeb vytvářejí krátkodobou nejistotu pro výrobce technologií.
+- Strategie „China plus one“ se urychluje – firmy diverzifikují výrobu mimo Čínu.
+- Indie se stává atraktivní alternativou díky investicím velkých hráčů jako Apple.
+- Pure Storage zvažuje výrobu ve Indii a využívá logistickou infrastrukturu vytvořenou jinými firmami.
 - Společnost nedávno uzavřela významnou smlouvu s Meta Platforms, což zvýšilo její tržní hodnotu na 25 miliard dolarů.
-- Giancarlo odmítá srovnání s „Nvidia momentem“, ale zdůrazňuje, že Pure Storage podporuje modernizaci cloudové infrastruktury.
 
 ## Podrobnosti
-Charles Giancarlo, šéf společnosti Pure Storage – firmy specializující se na úložiště dat založená na flash pamětech – v rozhovoru pro Economic Times popsal aktuální výzvy v globálních dodavatelských řetězcích. Tyto řetězce jsou pod tlakem nejen kvůli rostoucí poptávce po AI infrastruktuře, ale i kvůli častým změnám obchodních pravidel mezi USA, Čínou a dalšími ekonomikami. Výsledkem je, že firmy nemohou plánovat na delší dobu dopředu. Tato situace podle Giancarla urychluje přechod k diverzifikaci výroby mimo Čínu – tzv. strategii „China plus one“. Indii považuje za jednoho z nejslibnějších kandidátů na nové výrobní centrum, zejména díky investicím velkých hráčů jako je Apple. Tyto první kroky vytvářejí logistickou a regulační infrastrukturu, kterou mohou využít i menší firmy jako Pure Storage. Společnost se specializuje na flash úložiště, které je rychlejší, energeticky úspornější a kompaktnější než tradiční úložiště s rotačními disky, a je proto klíčové pro moderní datacentra a AI workloady.
+Charles Giancarlo, šéf Pure Storage – firmy specializující se na flashové úložiště pro datová centra – v rozhovoru pro Economic Times uvedl, že technologický průmysl čelí „týdenní nejistotě“ kvůli neustálým změnám obchodních politik a celních sazeb, zejména mezi USA a Čínou. Tato volatilita zhoršuje již tak napjatou situaci způsobenou explozivním růstem poptávky po AI infrastruktuře, která vyžaduje výkonné a energeticky úsporné úložné systémy. Pure Storage, která používá flashovou technologii místo tradičních mechanických disků, se tak stává klíčovým hráčem v moderních datových centrech.
+
+Giancarlo zdůraznil, že právě tato nejistota urychluje přechod na strategii „China plus one“, kdy firmy udržují výrobu v Číně, ale zároveň rozšiřují kapacity jinde. Indie se podle něj stává jednou z nejslibnějších alternativ, zejména díky krokům firem jako Apple, které tam investují do výroby. Tyto první kroky vytvářejí logistickou a dodavatelskou infrastrukturu, kterou mohou využít i menší firmy jako Pure Storage. Společnost již aktivně zkoumá možnosti lokální výroby.
 
 ## Proč je to důležité
-Tato zpráva odráží širší trend v globálním technologickém průmyslu: přesouvání výroby z Číny do jiných zemí kvůli geopolitickému napětí a obchodním rizikům. Pro Českou republiku a Evropu to znamená, že konkurence o investice do lokální výroby polovodičů a datové infrastruktury se zvyšuje – nejen s USA a Čínou, ale i s Indií. Zároveň ukazuje, jak AI poptávka mění požadavky na úložiště dat, což má dopad na celý ekosystém cloudových služeb a datacenter.
+Tento posun má širší dopady na globální technologický ekosystém. Diverzifikace výroby snižuje závislost na jediném regionu a zvyšuje odolnost řetězců dodávek. Zároveň otevírá nové trhy pro země jako Indie, které se snaží stát se součástí high-tech výroby. Pro uživatele a podniky to znamená potenciálně stabilnější dodávky hardwaru a nižší riziko cenových šoků způsobených obchodními konflikty. V kontextu AI boomu je spolehlivá a škálovatelná úložná infrastruktura klíčová – a Pure Storage s její flashovou technologií nabízí řešení, které je rychlejší, úspornější a kompaktnější než tradiční disky.
 
 ---
 

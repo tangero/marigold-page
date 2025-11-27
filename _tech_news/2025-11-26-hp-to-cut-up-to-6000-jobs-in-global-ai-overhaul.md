@@ -4,9 +4,9 @@ category: umělá inteligence
 companies:
 - HP
 date: '2025-11-26 00:50:23'
-description: Společnost HP oznámila rozsáhlý restrukturalizační plán, který zahrnuje
-  propuštění 4 000 až 6 000 zaměstnanců po celém světě. Cílem je přesunout zdroje
-  do oblasti umělé inteligence (AI) a zvýšit efektivitu i inovace.
+description: Společnost HP oznámila rozsáhlý restrukturalizační plán, při němž sníží
+  svou globální pracovní sílu o 4 000 až 6 000 zaměstnanců, aby se více zaměřila na
+  integraci umělé inteligence do svých operací a produktů.
 importance: 3
 layout: tech_news_article
 original_title: HP to cut up to 6,000 jobs in global AI overhaul
@@ -16,30 +16,30 @@ source:
   emoji: 📰
   id: null
   name: The Straits Times
-title: HP propustí až 6 000 zaměstnanců v rámci globální transformace směrem k umělé
-  inteligenci
+title: HP propustí až 6 000 zaměstnanců v rámci globální transformace zaměřené na
+  umělou inteligenci
 url: https://www.straitstimes.com/business/companies-markets/hp-to-cut-up-to-6000-jobs-in-global-ai-overhaul
 urlToImage: https://cassette.sphdigital.com.sg/image/straitstimes/c315d3e3fbdae47acea68ad1d9394acba2b0082b43b5ac146f2e7c30a200d41e
 urlToImageBackup: https://cassette.sphdigital.com.sg/image/straitstimes/c315d3e3fbdae47acea68ad1d9394acba2b0082b43b5ac146f2e7c30a200d41e
 ---
 
 ## Souhrn
-Společnost HP, známá výrobou počítačů a tiskáren, oznámila 25. listopadu 2025 plán na propuštění 4 000 až 6 000 zaměstnanců, což představuje přibližně 10 % její globální pracovní síly. Tento krok je součástí strategického přesunu zaměřeného na integraci umělé inteligence do svých produktů a provozu.
+HP, výrobce počítačů a tiskáren, oznámil plán na propuštění až 6 000 zaměstnanců, což představuje zhruba 10 % jeho globální pracovní síly. Krok je součástí strategického přesunu směrem k umělé inteligenci (AI), která má zvýšit efektivitu, inovace a spokojenost zákazníků.
 
 ## Klíčové body
-- HP plánuje ušetřit ročně až 1 miliardu USD do konce fiskálního roku 2028 díky AI.
-- Propuštění postihne především role v oblasti zákaznické podpory, zadávání dat a některé programátorské pozice.
-- Společnost zvažuje zdražení počítačů a spolupráci s novými dodavateli kvůli nákladům na AI infrastrukturu.
-- HP nepotvrdila, zda se propouštění dotkne i její pobočky v Singapuru.
-- Tento krok odráží širší trend mezi technologickými giganty, jako jsou Google, Microsoft a Amazon.
+- HP plánuje snížit počet zaměstnanců o 4 000 až 6 000 do konce fiskálního roku 2028.
+- Cílem je dosáhnout ročních úspor ve výši 1 miliardy dolarů díky AI.
+- Propouštění postihují i tradiční role v oblasti zákaznické podpory, zadávání dat a některých programátorských pozic.
+- HP zatím nekomentovala dopady na pobočku ve Singapuru.
+- Tento krok odráží širší trend mezi technologickými giganty jako Google, Microsoft nebo Amazon.
 
 ## Podrobnosti
-HP reaguje na dlouhodobý pokles poptávky po osobních počítačích a tiskárnách tím, že přesouvá investice do oblasti AI. Podle výkonného ředitele Enriqua Loresa společnost plánuje zvýšit ceny svých počítačů, aby kompenzovala rostoucí náklady na AI výpočetní prostředky, jako jsou specializované GPU a cloudové služby. Zároveň hledá nové dodavatele, kteří by mohli nabídnout efektivnější řešení pro AI workloads.
+HP reaguje na dlouhodobý pokles poptávky po osobních počítačích a tiskárnách tím, že přesouvá zdroje do oblasti AI. Podle CEO Enriqua Loresa společnost plánuje zvýšit ceny počítačů a spolupracovat s novými dodavateli, aby kompenzovala náklady spojené s AI výpočty. V posledním čtvrtletí dosáhla HP zisku 795 milionů dolarů, což je mírný pokles oproti 906 milionům dolarů v předchozím roce, přestože tržby vzrostly o 4,2 %.
 
-Propouštění se zaměří na pozice, které lze automatizovat pomocí AI – například rutinní zákaznická podpora, manuální zadávání dat nebo jednoduché programovací úkoly. Tento přístup kopíruje strategii jiných velkých technologických firem, které v posledních dvou letech podobně restrukturalizovaly své týmy ve prospěch AI vývoje. HP v posledním čtvrtletí vykázala zisk 795 milionů USD, což je pokles oproti 906 milionům USD v předchozím roce, přestože tržby mírně vzrostly o 4,2 %.
+Propouštění jsou zaměřena zejména na opakující se a manuální úlohy, které lze automatizovat pomocí AI – například zákaznická podpora, moderování obsahu nebo zadávání dat. Tento přístup kopíruje strategie jiných velkých technologických firem, které v posledních dvou letech rovněž redukovaly pracovní sílu ve prospěch AI investic. HP očekává, že díky této transformaci dosáhne významných provozních úspor a zároveň posílí svou konkurenceschopnost v rychle se měnícím trhu spotřební elektroniky.
 
 ## Proč je to důležité
-Tento krok ukazuje, jak AI přestává být jen doplňkovou technologií a stává se jádrem firemní strategie i nástrojem pro snižování nákladů. Zatímco některé firmy AI využívají primárně pro nové produkty, HP ji nasazuje jako nástroj pro interní efektivitu – což může vést k vlně podobných opatření i v jiných odvětvích. Pro uživatele to může znamenat změny v kvalitě podpory nebo nové funkce v HP zařízeních, které budou využívat lokální nebo cloudovou AI pro zlepšení uživatelského zážitku. Z hlediska trhu je však třeba kriticky posuzovat, zda takové úspory skutečně povedou k udržitelné inovaci, nebo pouze ke krátkodobému zvýšení ziskovosti na úkor zaměstnanecké stability.
+Tento krok ukazuje, jak AI přestává být jen doplňkovou technologií a stává se jádrem firemních strategií i při rozhodování o lidských zdrojích. Propouštění v HP jsou dalším příkladem toho, jak AI mění trh práce – nejen v softwarovém sektoru, ale i v tradičních hardwarových firmách. Pro uživatele to může znamenat změny v kvalitě podpory nebo nové funkce v zařízeních HP, které budou využívat AI pro lepší výkon nebo spotřebu energie. Pro průmysl je to signál, že i „klasické“ technologické firmy musí rychle adaptovat své modely, jinak riskují ztrátu relevance.
 
 ---
 
