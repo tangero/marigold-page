@@ -1,7 +1,835 @@
 {
-  "generated": "2025-11-26T21:04:46.844322+00:00",
+  "generated": "2025-11-27T01:58:41.468719+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "HP propustí až 6 000 zaměstnanců v rámci globální transformace směrem k umělé inteligenci",
+      "description": "Společnost HP oznámila rozsáhlý restrukturalizační plán, který zahrnuje propuštění 4 000 až 6 000 zaměstnanců po celém světě. Cílem je přesunout zdroje do oblasti umělé inteligence (AI) a zvýšit efektivitu i inovace.",
+      "slug": "hp-to-cut-up-to-6000-jobs-in-global-ai-overhaul",
+      "publishedAt": "2025-11-26T00:50:23+00:00",
+      "date": "2025-11-26 00:50:23",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/c315d3e3fbdae47acea68ad1d9394acba2b0082b43b5ac146f2e7c30a200d41e",
+      "url": "/tech-news/2025-11-26/hp-to-cut-up-to-6000-jobs-in-global-ai-overhaul/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "HP"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie je jádrem AI strategie německého gigantu SAP, říká CTO",
+      "description": "Německá softwarová společnost SAP plánuje do konce roku vyvinout 400 použitelných scénářů pro AI agenty, přičemž centrum vývoje se nachází v indickém Bengaluru.",
+      "slug": "india-at-the-centre-of-german-giant-saps-ai-strate",
+      "publishedAt": "2025-11-26T00:30:00+00:00",
+      "date": "2025-11-26 00:30:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-60926,resizemode-75,msid-125571148/tech/technology/india-at-the-centre-of-german-giant-saps-ai-strategy-says-cto.jpg",
+      "url": "/tech-news/2025-11-26/india-at-the-centre-of-german-giant-saps-ai-strate/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SAP"
+      ],
+      "people": []
+    },
+    {
+      "title": "ET v Silicon Valley: Řetězce dodávek polovodičů jsou v neustálém pohybu kvůli clům a politickým výkyvům, říká CEO Pure Storage",
+      "description": "Řetězce dodávek polovodičů čelí týdenní nejistotě způsobené obchodními clami a politickými změnami, což komplikuje plánování technologickým firmám při rostoucí poptávce po AI, uvedl Charles Giancarlo, CEO společnosti Pure Storage.",
+      "slug": "et-in-the-valley-semicon-supply-chains-are-in-cons",
+      "publishedAt": "2025-11-26T00:30:00+00:00",
+      "date": "2025-11-26 00:30:00",
+      "importance": 3,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65768,resizemode-75,msid-125569693/tech/technology/et-in-the-valley-semicon-supply-chains-are-in-constant-flux-on-tariffs-policy-swings-pure-storage-ceo.jpg",
+      "url": "/tech-news/2025-11-26/et-in-the-valley-semicon-supply-chains-are-in-cons/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Pure Storage"
+      ],
+      "people": [
+        "Charles Giancarlo"
+      ]
+    },
+    {
+      "title": "Databáze by mohla pomoci oživit jazyk Arapahů, než zmizí poslední mluvčí",
+      "description": "Mnoho domorodých jazyků Severní Ameriky má dnes jen několik posledních rodilých mluvčích, mezi nimi i arapahský jazyk s méně než stovkou mluvčích starších 70 let.",
+      "slug": "a-database-could-help-revive-the-arapaho-language-",
+      "publishedAt": "2025-11-26T00:17:57+00:00",
+      "date": "2025-11-26 00:17:57",
+      "importance": 3,
+      "category": "jazykové technologie",
+      "urlToImage": "https://images.theconversation.com/files/704635/original/file-20251125-56-97hdz3.jpg?ixlib=rb-4.1.0&rect=0%2C168%2C5155%2C2577&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2025-11-26/a-database-could-help-revive-the-arapaho-language/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon Leo vstupuje do boje o satelitní internet proti SpaceX Starlink",
+      "description": "Amazon přejmenoval svůj satelitní projekt Kuiper na Amazon Leo a spustil testování pro podniky, čímž eskaluje konkurenci se SpaceX Starlink, který ovládá dvě třetiny trhu.",
+      "slug": "amazon-leo-declares-war-on-spacexs-two-thirds-sate",
+      "publishedAt": "2025-11-26T00:10:01+00:00",
+      "date": "2025-11-26 00:10:01",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://d.ibtimes.com/en/full/4635238/amazon-leo.png",
+      "url": "/tech-news/2025-11-26/amazon-leo-declares-war-on-spacexs-two-thirds-sate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "Amazon",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak umělá inteligence mění vysokoškolské vzdělávání pro studenty i pedagogy",
+      "description": "Současný ročník absolventů je prvním, který prožil téměř celé studium v éře generativní umělé inteligence. Tato technologie, schopná vytvářet texty a obrázky, stále více zasahuje do akademického prostředí.",
+      "slug": "how-artificial-intelligence-is-reshaping-college-f",
+      "publishedAt": "2025-11-26T00:03:13+00:00",
+      "date": "2025-11-26 00:03:13",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://biztoc.com/cdn/6c014d78c38e8acc_s.webp",
+      "url": "/tech-news/2025-11-26/how-artificial-intelligence-is-reshaping-college-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč svět musí uznat vědecké vedení Číny",
+      "description": "Další generace čínských vědců a technologů bude mít rozhodující vliv na příští desetiletí.",
+      "slug": "why-the-world-must-wake-up-to-chinas-science-leade",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "věda",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03853-4/d41586-025-03853-4_51711006.jpg",
+      "url": "/tech-news/2025-11-26/why-the-world-must-wake-up-to-chinas-science-leade/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Trumpova AI 'Genesis mise': jaká jsou rizika a příležitosti?",
+      "description": "Americké národní laboratoře mají rozšířit přístup ke svým datovým sadám, aby urychlily výzkum v rámci federální AI platformy. Otázkou zůstává, kdo z toho bude mít největší užitek.",
+      "slug": "trumps-ai-genesis-mission-what-are-the-risks-and-o",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03890-z/d41586-025-03890-z_51762456.jpg",
+      "url": "/tech-news/2025-11-26/trumps-ai-genesis-mission-what-are-the-risks-and-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Metoda dálkového snímání pro hodnocení stárnutí asfaltových vozovek v rozsáhlém měřítku s automatickým generováním vzorků a hlubokým učením",
+      "description": "Výzkumníci vyvinuli nový rámec kombinující dálkové snímání, automatické generování dat a hluboké učení pro efektivní hodnocení stárnutí asfaltových vozovek na velkých územích.",
+      "slug": "the-remote-sensing-method-for-large-scale-asphalt-",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "dálniční infrastrukt",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/the-remote-sensing-method-for-large-scale-asphalt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fotonická cesta ke kvantové převaze",
+      "description": "Kvantové technologie se blíží praktickým aplikacím v oblasti výpočetnictví, senzoriky a zabezpečené komunikace, přičemž fotonika hraje klíčovou roli v jejich škálovatelnosti a propojování.",
+      "slug": "the-photonic-path-to-quantum-advantage",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 4,
+      "category": "kvantové technologie",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02441-1/MediaObjects/41563_2025_2441_Figa_HTML.png",
+      "url": "/tech-news/2025-11-26/the-photonic-path-to-quantum-advantage/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Mechanický převod založený na smyčkovém uzlu pro robotiku a chirurgii",
+      "description": "Nový mechanický převodový mechanismus využívající topologii smyčkového uzlu umožňuje přesné řízení síly bez elektroniky, což má využití v minimálně invazivní chirurgii a šňůrově řízené robotice.",
+      "slug": "slipknot-gauged-mechanical-transmission-and-roboti",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "robotika",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09673-w/MediaObjects/41586_2025_9673_Fig1_HTML.png",
+      "url": "/tech-news/2025-11-26/slipknot-gauged-mechanical-transmission-and-roboti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Obnova arzenálu demokracie",
+      "description": "Historické zkušenosti ukazují, že schopnost USA odrazovat protivníky závisí méně na jednotlivých technologiích a více na celkové odolnosti a schopnosti rychle nasadit vojenské kapacity v širokém měřítku.",
+      "slug": "rebuilding-the-arsenal-of-democracy",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "geopolitika",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2025-08/The%20Arsenal%20of%20Democracy.jpg?h=016e03c8&itok=nPIUKwn0",
+      "url": "/tech-news/2025-11-26/rebuilding-the-arsenal-of-democracy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uvolňování doxorubicinu řízené pH a stabilita v nanokapslích na bázi chitosanu a Eudragitu",
+      "description": "Studie odhaluje molekulární mechanismus, jakým nanokapsle z chitosanu a Eudragitu uvolňují lék doxorubicin v kyselém prostředí nádorové tkáně, zatímco v krevním oběhu zůstávají stabilní.",
+      "slug": "ph-stimuli-responsive-doxorubicin-release-and-stab",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "nanomedicína",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/ph-stimuli-responsive-doxorubicin-release-and-stab/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Výzkum účinnosti polymerového zatlačování s xanthánovou gumou pro zvýšení těžby ropy pomocí modelů strojového učení",
+      "description": "Vědecká studie zkoumá využití xanthánové gumy v procesu zvýšené těžby ropy (EOR) a navrhuje modely strojového učení pro rychlé hodnocení jeho efektivity.",
+      "slug": "performance-investigation-of-xanthan-gum-polymer-f",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "těžba ropy",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/performance-investigation-of-xanthan-gum-polymer-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Cílení NSD2 obrací plasticitu a lékovou rezistenci u rakoviny prostaty",
+      "description": "Inhibice histonové metyltransferázy NSD2 a androgenového receptoru v preklinických modelech dokáže obrátit buněčnou plasticitu, potlačit růst nádoru a obnovit citlivost na léčbu u několika podtypů kastrací rezistentní rakoviny prostaty.",
+      "slug": "nsd2-targeting-reverses-plasticity-and-drug-resist",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "onkologie",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09727-z/MediaObjects/41586_2025_9727_Fig1_HTML.png",
+      "url": "/tech-news/2025-11-26/nsd2-targeting-reverses-plasticity-and-drug-resist/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak vzdělávací instituce a Red Hat Academy formují příští generaci IT lídrů",
+      "description": "Technologie je základem moderního podnikání a klíčem k kariérnímu růstu. Zatímco studenti hledají dovednosti, které podporují inovace a vedení, právě vzdělavatelé umožňují jejich transformaci do praxe.",
+      "slug": "how-educators-and-red-hat-academy-help-shape-the-n",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "vzdělávání it",
+      "urlToImage": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+      "url": "/tech-news/2025-11-26/how-educators-and-red-hat-academy-help-shape-the-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Redhat.com"
+      },
+      "companies": [
+        "Red Hat"
+      ],
+      "people": []
+    },
+    {
+      "title": "Integrace dielektrik s vysokou permitivitou na 2D polovodiče pro trojrozměrné komplementární logické obvody",
+      "description": "Výzkumníci vyvinuli novou metodu integrace dielektrika HfO₂ na dvourozměrné polovodiče MoS₂ a WSe₂ pomocí van der Waalsovského přenosu a plazmové oxidace, což umožňuje výrobu energeticky úsporných 3D logických obvodů.",
+      "slug": "high-κ-dielectric-van-der-waals-integration-on-2d-",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "2d elektronika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/high-κ-dielectric-van-der-waals-integration-on-2d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pohlavní rozdíly a rasová zaujatost ve výběru partnerů odhalené strojovým učením",
+      "description": "Výzkum publikovaný v časopise Scientific Reports využil strojové učení k analýze dat ze speed datingů a odhalil vliv pohlaví a rasy na vzájemný zájem účastníků.",
+      "slug": "gender-effects-and-racial-biases-in-mate-selection",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "ai a společnost",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/gender-effects-and-racial-biases-in-mate-selection/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ferroelektrické tranzistory pro nízkospotřební NAND flash paměť",
+      "description": "Výzkumníci vyvinuli ultranízkospotřební ferroelektrické tranzistory (FeFET), které umožňují efektivnější provoz NAND flash pamětí a zároveň zachovávají schopnost ukládat více bitů na jednu buňku.",
+      "slug": "ferroelectric-transistors-for-low-power-nand-flash",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "paměťové technologie",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09793-3/MediaObjects/41586_2025_9793_Fig1_HTML.png",
+      "url": "/tech-news/2025-11-26/ferroelectric-transistors-for-low-power-nand-flash/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Klasifikace plevelů spojených s virem INSV v okrese Monterey pomocí deep learningu a RGB obrazové sady",
+      "description": "Vědci vyvinuli první specializovanou datovou sadu RGB snímků plevelů spojených s virem INSV v kalifornském okrese Monterey a použili ji k trénování modelů hlubokého učení pro přesnou identifikaci těchto rostlin.",
+      "slug": "deep-learning-classification-of-insv-associated-we",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "počítačové vidění",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/deep-learning-classification-of-insv-associated-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Inženýr umělé inteligence se zabezpečovacím prověřením",
+      "description": "Hledá se zkušený inženýr umělé inteligence s bezpečnostní prověrkou pro práci na národní bezpečnosti v Annapolis Junction, Maryland.",
+      "slug": "ai-engineer-with-security-clearance",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i0.wp.com/nlppeople.com/wp-content/uploads/2025/11/ClearanceJobs.png?fit=1200%2C1200&ssl=1",
+      "url": "/tech-news/2025-11-26/ai-engineer-with-security-clearance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nlppeople.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Komplexní kinetický model pro katalýzu ternárního komplexu",
+      "description": "Výzkumníci představili nový kinetický rámec pro popis katalýzy ternárního komplexu (TEC), která je klíčová pro řadu biologických procesů i moderních léčiv, včetně PROTACů a bispecifických protilátek.",
+      "slug": "a-comprehensive-kinetic-model-for-ternary-complex-",
+      "publishedAt": "2025-11-26T00:00:00+00:00",
+      "date": "2025-11-26 00:00:00",
+      "importance": 3,
+      "category": "biokatalýza",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-26/a-comprehensive-kinetic-model-for-ternary-complex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Burzy třetí den v řadě rostou na vlně očekávání snížení úrokových sazeb a zájmu o AI čipy od Googlu",
+      "description": "Indexy S&P 500, Nasdaq a Dow Jones třetí den za sebou zaznamenaly růst, přičemž trhy reagují na rostoucí pravděpodobnost snížení úrokových sazeb Federální rezervou v prosinci a na spekulace o AI čipech společnosti Alphabet.",
+      "slug": "sp-500-nasdaq-and-dow-rally-for-third-day-as-fed-r",
+      "publishedAt": "2025-11-25T23:56:56+00:00",
+      "date": "2025-11-25 23:56:56",
+      "importance": 3,
+      "category": "burzy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125576766,width-1200,height-630,imgsize-385324,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-25/sp-500-nasdaq-and-dow-rally-for-third-day-as-fed-r/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Harmonic AI získala 120 milionů dolarů při ocenění 1,45 miliardy dolarů na rozvoj matematického uvažování",
+      "description": "Startup Harmonic AI, specializující se na formální matematické uvažování pomocí umělé inteligence, získal 120 milionů dolarů při ocenění 1,45 miliardy dolarů. Cílem je urychlit vývoj modelu schopného bezchybného matematického odvozování.",
+      "slug": "harmonic-ai-raises-120m-at-145b-valuation-to-advan",
+      "publishedAt": "2025-11-25T23:49:42+00:00",
+      "date": "2025-11-25 23:49:42",
+      "importance": 4,
+      "category": "matematická ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/harmonicai.png",
+      "url": "/tech-news/2025-11-25/harmonic-ai-raises-120m-at-145b-valuation-to-advan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Harmonic AI Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dlouhý a zábavný seznam věcí, které bychom mohli dělat s neomezenou čistou energií",
+      "description": "Článek popisuje, jak by neomezená, levná a čistá energie mohla transformovat každodenní život – od bydlení a dopravy po recyklaci a potravinářství.",
+      "slug": "the-long-fun-list-of-things-we-could-do-with-unlim",
+      "publishedAt": "2025-11-25T23:39:38+00:00",
+      "date": "2025-11-25 23:39:38",
+      "importance": 3,
+      "category": "energie",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/LucyJones_Umair_Vox.jpg?quality=90&strip=all&crop=0%2C5.0586768821404%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-11-25/the-long-fun-list-of-things-we-could-do-with-unlim/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Vox"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nové obrazové recepty pod dohledem společnosti RED přicházejí 10. prosince",
+      "description": "Společnost Nikon oznámila, že 10. prosince zveřejní nové obrazové recepty (Imaging Recipes) vyvinuté ve spolupráci se společností RED. Ty mají sloučit technologie obou firem pro výraznější vizuální styl.",
+      "slug": "new-red-supervised-nikon-imaging-recipes-coming-on",
+      "publishedAt": "2025-11-25T23:36:53+00:00",
+      "date": "2025-11-25 23:36:53",
+      "importance": 3,
+      "category": "fotoaparáty",
+      "urlToImage": "https://nikonrumors.com/wp-content/uploads/2025/11/New-RED-supervised-Imaging-Recipes-coming-on-December-10th-20205-1.png",
+      "url": "/tech-news/2025-11-25/new-red-supervised-nikon-imaging-recipes-coming-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikonrumors.com"
+      },
+      "companies": [
+        "Nikon",
+        "RED"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak umělá inteligence mění vysokoškolské vzdělávání pro studenty i pedagogy",
+      "description": "Současný ročník absolventů je prvním, který prožil téměř celou vysokoškolskou kariéru v éře generativní umělé inteligence. Její rychlý vývoj způsobuje zásadní změny v akademickém prostředí.",
+      "slug": "how-artificial-intelligence-is-reshaping-college-f",
+      "publishedAt": "2025-11-25T23:35:20+00:00",
+      "date": "2025-11-25 23:35:20",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/RethinkingCollege-2-1024x576.jpg",
+      "url": "/tech-news/2025-11-25/how-artificial-intelligence-is-reshaping-college-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PBS"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Co se děje… s Kyivstarem a Starlinkem, Vodacem a Google Cloudem, NTT Docomo a Nokií",
+      "description": "Ukrajinský operátor Kyivstar spustil službu přímé komunikace zařízení se satelity Starlink, Vodacom využije Google Cloud pro AI a analýzu dat a NTT Docomo nasazuje Nokií vyvinutý systém pro správu sítě.",
+      "slug": "whats-up-with-kyivstar-starlink-vodacom-google-clo",
+      "publishedAt": "2025-11-25T23:24:23+00:00",
+      "date": "2025-11-25 23:24:23",
+      "importance": 3,
+      "category": "telekomunikace",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/kyivstar-starlink-ven-21418.jpeg?w=1200",
+      "url": "/tech-news/2025-11-25/whats-up-with-kyivstar-starlink-vodacom-google-clo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "Starlink",
+        "Google Cloud",
+        "Nokia"
+      ],
+      "people": [
+        "Elon Musk",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Akcie Nvidie klesly po zprávě, že Meta může nakupovat AI čipy od Googlu",
+      "description": "Akcie společnosti Nvidia dnes klesly o 2,6 % poté, co média informovala, že Meta plánuje nakupovat specializované AI čipy TPU od Googlu. Smlouva by mohla mít hodnotu v řádu miliard dolarů.",
+      "slug": "nvidia-shares-drop-on-report-meta-may-buy-tpus-fro",
+      "publishedAt": "2025-11-25T23:16:30+00:00",
+      "date": "2025-11-25 23:16:30",
+      "importance": 3,
+      "category": "ai hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Ironwood.png",
+      "url": "/tech-news/2025-11-25/nvidia-shares-drop-on-report-meta-may-buy-tpus-fro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia Corp",
+        "Meta",
+        "Google LLC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vyhlídky na investice do počítačového vybavení",
+      "description": "Výdaje na počítačové vybavení, zejména v souvislosti s AI, významně přispívají k růstu HDP. Článek analyzuje, zda bude tento trend pokračovat vzhledem k nedávným vývojům na trzích.",
+      "slug": "prospects-for-computer-equipment-investment",
+      "publishedAt": "2025-11-25T23:09:48+00:00",
+      "date": "2025-11-25 23:09:48",
+      "importance": 3,
+      "category": "hardware",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-25/prospects-for-computer-equipment-investment/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Econbrowser.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "HP propustí až 6000 zaměstnanců kvůli přesunu na umělou inteligenci",
+      "description": "Technologický gigant HP plánuje snížit počet zaměstnanců o 10 % a zaměřit se na AI, což by mělo do roku 2028 přinést roční úspory ve výši jedné miliardy dolarů.",
+      "slug": "hp-to-cut-up-to-6000-jobs-as-it-shifts-focus-to-ar",
+      "publishedAt": "2025-11-25T23:07:14+00:00",
+      "date": "2025-11-25 23:07:14",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/47NGVRWZVVHUJBEQZ7NLAFA5A4.jpg?auth=817822a16dec966598d45c23913a63dced8637499848b5d0192f21d23b858289&width=1200&height=675&quality=70&focal=213%2C314&smart=false",
+      "url": "/tech-news/2025-11-25/hp-to-cut-up-to-6000-jobs-as-it-shifts-focus-to-ar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "HP"
+      ],
+      "people": []
+    },
+    {
+      "title": "HP plánuje propustit až 6 000 zaměstnanců kvůli nasazení umělé inteligence",
+      "description": "Společnost HP oznámila, že do konce fiskálního roku 2028 sníží svůj globální počet zaměstnanců o 4 000 až 6 000 osob, aby urychlila integraci AI a dosáhla ročních úspor ve výši přibližně 1 miliardy dolarů.",
+      "slug": "hp-to-cut-up-to-6000-jobs-due-to-ai-adoption",
+      "publishedAt": "2025-11-25T23:05:58+00:00",
+      "date": "2025-11-25 23:05:58",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://img2.thejournal.ie/article/6885793/river/?height=400&version=6885801",
+      "url": "/tech-news/2025-11-25/hp-to-cut-up-to-6000-jobs-due-to-ai-adoption/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "companies": [
+        "HP"
+      ],
+      "people": []
+    },
+    {
+      "title": "Volkswagen spustil v Číně první plně vybavené vývojové centrum výhradně pro elektromobily",
+      "description": "Německý automobilový koncern Volkswagen otevřel v čínském Hefei nové vývojové a testovací centrum zaměřené výhradně na elektromobily. Jde o první plně integrované vývojové zařízení Volkswagenu mimo Německo.",
+      "slug": "volkswagen-ev-only-full-development-center-launche",
+      "publishedAt": "2025-11-25T23:01:33+00:00",
+      "date": "2025-11-25 23:01:33",
+      "importance": 3,
+      "category": "elektromobilita",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/11/VW-China-testing-center.jpg",
+      "url": "/tech-news/2025-11-25/volkswagen-ev-only-full-development-center-launche/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Scala Days 2025: Shrnutí konference a dostupnost záznamů přednášek",
+      "description": "Konference Scala Days 2025 se uskutečnila v Lausanne a oslavila 15 let existence. Všechny přednášky jsou nyní k dispozici na YouTube.",
+      "slug": "scala-days-2025-conference-highlights-and-talk-rec",
+      "publishedAt": "2025-11-25T23:00:00+00:00",
+      "date": "2025-11-25 23:00:00",
+      "importance": 3,
+      "category": "programování",
+      "urlToImage": "https://www.scala-lang.org/resources/img/scala-spiral-3d-2-toned-down.png",
+      "url": "/tech-news/2025-11-25/scala-days-2025-conference-highlights-and-talk-rec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Scala-lang.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak AI agenti mění strategii obsahového marketingu",
+      "description": "Autonomní AI agenti přestávají být jen nástroji pro generování textu a stávají se strategickými systémy, které samostatně řídí celé obsahové ekosystémy. Značky, které je využívají, získávají výraznou konkurenční výhodu.",
+      "slug": "how-ai-agents-are-transforming-content-marketing-s",
+      "publishedAt": "2025-11-25T22:59:04+00:00",
+      "date": "2025-11-25 22:59:04",
+      "importance": 4,
+      "category": "ai marketing",
+      "urlToImage": "https://cdn.prod.website-files.com/681e593f75ac7df140b5efda/6926046d39cfb23b42bd64ed_Glitch%20Portrait%20Art.png",
+      "url": "/tech-news/2025-11-25/how-ai-agents-are-transforming-content-marketing-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Postdigitalist.xyz"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IIT Kharagpur spouští iniciativu Impact RISE pro společenskou transformaci",
+      "description": "Indický technologický institut IIT Kharagpur představil iniciativu Impact RISE, jejímž cílem je využít vědu, inženýrství a technologie k měřitelné a inkluzivní společenské změně.",
+      "slug": "iit-kharagpur-unveils-impact-rise-initiative-for-s",
+      "publishedAt": "2025-11-25T22:58:58+00:00",
+      "date": "2025-11-25 22:58:58",
+      "importance": 3,
+      "category": "společenská inovace",
+      "urlToImage": "https://images.indianexpress.com/2025/11/iit-kharagpur-1-1_20251125225722.jpg",
+      "url": "/tech-news/2025-11-25/iit-kharagpur-unveils-impact-rise-initiative-for-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": [
+        "Suman Chakraborty"
+      ]
+    },
+    {
+      "title": "Akcie Workday klesly, i když společnost překonala očekávání výsledků",
+      "description": "Akcie společnosti Workday klesly více než o 5 % v rámci pozdního obchodování, přestože software pro lidské zdroje a finance vykázal lepší než očekávané tržby a zisky za třetí čtvrtletí fiskálního roku 2026.",
+      "slug": "workday-falls-in-late-trading-as-growth-outlook-fa",
+      "publishedAt": "2025-11-25T22:51:48+00:00",
+      "date": "2025-11-25 22:51:48",
+      "importance": 3,
+      "category": "softwarové akcie",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/workday.png",
+      "url": "/tech-news/2025-11-25/workday-falls-in-late-trading-as-growth-outlook-fa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Workday"
+      ],
+      "people": []
+    },
+    {
+      "title": "Soudce v New Yorku nařídil OpenAI předat komunikaci s právníky o smazání databází s pirátskými knihami",
+      "description": "Soudce ve federálním soudu v New Yorku rozhodl, že OpenAI musí předat vnitřní komunikaci s právníky týkající se smazání dvou rozsáhlých databází knih, které byly údajně použity k trénování ChatGPT. Tento krok je součástí rozsáhlé kolektivní žaloby na porušení autorských práv.",
+      "slug": "nyc-judge-openai-must-turn-over-communication-with",
+      "publishedAt": "2025-11-25T22:50:14+00:00",
+      "date": "2025-11-25 22:50:14",
+      "importance": 4,
+      "category": "právo ai",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/shutterstock_2598044543.jpg?w=1024&h=682",
+      "url": "/tech-news/2025-11-25/nyc-judge-openai-must-turn-over-communication-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "HP propustí tisíce zaměstnanců kvůli nasazení umělé inteligence",
+      "description": "Výrobce počítačů a tiskáren HP oznámil rozsáhlý restrukturalizační plán, který povede k propuštění zhruba 10 % globálního personálu. Důvodem je přesun firemních zdrojů směrem k umělé inteligenci (AI) za účelem zvýšení efektivity.",
+      "slug": "hp-to-cut-thousands-of-jobs-due-to-ai-adoption",
+      "publishedAt": "2025-11-25T22:48:18+00:00",
+      "date": "2025-11-25 22:48:18",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.rte.ie/images/002388bc-1600.jpg",
+      "url": "/tech-news/2025-11-25/hp-to-cut-thousands-of-jobs-due-to-ai-adoption/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "HP"
+      ],
+      "people": []
+    },
+    {
+      "title": "Investoři jsou optimistickí vůči čínskému sektoru umělé inteligence",
+      "description": "Navzdory obavám z technologické bubliny na Wall Street roste zájem investorů o čínské firmy působící v oblasti umělé inteligence. Akcie Alibaby stouply po silném výkazu její cloudové divize a pozornost získává i čínský výrobce AI čipů Moore Threads.",
+      "slug": "investors-bullish-on-chinas-ai-sector",
+      "publishedAt": "2025-11-25T22:45:32+00:00",
+      "date": "2025-11-25 22:45:32",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://biztoc.com/cdn/190ff551649d2913_s.webp",
+      "url": "/tech-news/2025-11-25/investors-bullish-on-chinas-ai-sector/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Alibaba",
+        "Moore Threads Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trénování vlastního modelu počítačového vidění pro detekci vad pomocí Amazon SageMaker",
+      "description": "Amazon ukončuje službu Lookout for Vision a doporučuje zákazníkům přechod na SageMaker AI s využitím předtrénovaných modelů z AWS Marketplace pro detekci vad ve výrobních procesech.",
+      "slug": "train-custom-computer-vision-defect-detection-mode",
+      "publishedAt": "2025-11-25T22:44:22+00:00",
+      "date": "2025-11-25 22:44:22",
+      "importance": 3,
+      "category": "počítačové vidění",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/10/image-6-2-775x630.jpeg",
+      "url": "/tech-news/2025-11-25/train-custom-computer-vision-defect-detection-mode/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "companies": [
+        "Amazon",
+        "AWS"
+      ],
+      "people": []
+    },
+    {
+      "title": "Přestaňte zadávat hesla do náhodných webových stránek (ano, vážně – jste to vy)",
+      "description": "Bezpečnostní tým watchTowr odhalil další masivní únik citlivých přihlašovacích údajů a tajných klíčů způsobený neuváženým sdílením na veřejných webech.",
+      "slug": "stop-putting-your-passwords-into-random-websites-y",
+      "publishedAt": "2025-11-25T21:26:14+00:00",
+      "date": "2025-11-25 21:26:14",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://labs.watchtowr.com/content/images/size/w1200/2025/11/1920--1080",
+      "url": "/tech-news/2025-11-25/stop-putting-your-passwords-into-random-websites-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Watchtowr.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Klarna spustila první stabilní minci KlarnaUSD na blockchainu Tempo",
+      "description": "Švédská fintechová společnost Klarna představila svou první stabilní minci KlarnaUSD, která bude fungovat na novém platebním blockchainu Tempo, vyvinutém společnostmi Stripe a Paradigm.",
+      "slug": "klarna-debuts-first-stablecoin-klarnausd-on-tempo-",
+      "publishedAt": "2025-11-25T21:18:50+00:00",
+      "date": "2025-11-25 21:18:50",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/klarna-klarnausd-stablecoin-tempo-stripe-paradigm-blockchain-crypto-cryptocurrency.jpeg?w=457",
+      "url": "/tech-news/2025-11-25/klarna-debuts-first-stablecoin-klarnausd-on-tempo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Klarna",
+        "Stripe",
+        "Paradigm"
+      ],
+      "people": []
+    },
     {
       "title": "S&P 500 roste na očekávání snížení úrokových sazeb, Alphabet vzdoruje nadvládě Nvidie v AI",
       "description": "Americké akcie posílily, protože obchodníci zvýšili sázky na snížení úrokových sazeb v prosinci a Alphabet Inc. začal ohrožovat postavení Nvidie jako lídra v oblasti umělé inteligence.",
@@ -124,24 +952,6 @@
         "Elon Musk",
         "Tim Cook"
       ]
-    },
-    {
-      "title": "Emoce jsou skrytou architekturou inteligence – ovlivňují systémy víc než data",
-      "description": "Emoční síly, jako důvěra, strach nebo úžas, často pohybují společenskými a ekonomickými systémy dříve, než se projeví v datech. Přesto je současná technologie považuje za šum.",
-      "slug": "emotion-is-the-hidden-architecture-of-intelligence",
-      "publishedAt": "2025-11-25T19:46:48+00:00",
-      "date": "2025-11-25 19:46:48",
-      "importance": 3,
-      "category": "emoční inteligence",
-      "urlToImage": "https://d.ibtimes.com/en/full/4635211/anais-daly.png",
-      "url": "/tech-news/2025-11-25/emotion-is-the-hidden-architecture-of-intelligence/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Tradiční PR agentury ztrácejí půdu pod nohama, Baden Bower mění pravidla hry výsledky",
@@ -299,24 +1109,6 @@
       "people": []
     },
     {
-      "title": "Desítky státních zástupců vyzývají Kongres, aby nebránil státním zákonům o umělé inteligenci",
-      "description": "Republikánští i demokratičtí generální prokurátoři ze 35 států a Washingtonu D.C. vyzvali Kongres, aby nezakazoval státní regulaci umělé inteligence, protože absence pravidel by mohla mít závažné důsledky.",
-      "slug": "dozens-of-state-attorneys-general-urge-us-congress",
-      "publishedAt": "2025-11-25T19:10:26+00:00",
-      "date": "2025-11-25 19:10:26",
-      "importance": 3,
-      "category": "ai regulace",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--nejCplLt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-25T191545Z_2_LYNXMPELAO138_RTROPTP_3_USA-CONGRESS-AI-STATES.JPG?itok=ybpRtLFJ",
-      "url": "/tech-news/2025-11-25/dozens-of-state-attorneys-general-urge-us-congress/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nezbytné chyby: Pomluva způsobená halucinacemi v AI modely uvažování",
       "description": "Nový článek v Journal of Free Speech Law analyzuje právní a společenské důsledky halucinací v pokročilých jazykových modelech, které mohou šířit nepravdivé informace s potenciálem pomluvy.",
       "slug": "journal-of-free-speech-law-inevitable-errors-defam",
@@ -330,24 +1122,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Reason"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Exkluzivně: Uvnitř nejtechnologičtějšího světelného průvodu Disneyho",
-      "description": "Technologický portál TechRadar získal exkluzivní pohled za kulisy nového nočního průvodu Disney Starlight: Dream the Night Away v Magic Kingdom, který kombinuje pokročilou světelnou techniku, bezdrátové řízení a desítky tisíc LED diod na deseti plovácích.",
-      "slug": "exclusive-inside-disneys-most-high-tech-light-para",
-      "publishedAt": "2025-11-25T19:00:08+00:00",
-      "date": "2025-11-25 19:00:08",
-      "importance": 3,
-      "category": "zábavní technologie",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Lw48zN3d4c5Nv2GSeKtkDW-2000-80.jpg",
-      "url": "/tech-news/2025-11-25/exclusive-inside-disneys-most-high-tech-light-para/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
       },
       "companies": [],
       "people": []
@@ -485,26 +1259,6 @@
       "people": []
     },
     {
-      "title": "Google Nest i po vypnutí chytrých funkcí stále posílá data o domácnosti",
-      "description": "I po ukončení podpory první a druhé generace termostatů Nest Learning Thermostat pokračují zařízení v tichém odesílání senzorických dat na servery společnosti Google, což vyvolává vážné obavy ohledně soukromí uživatelů.",
-      "slug": "google-nest-still-sends-data-after-remote-control-",
-      "publishedAt": "2025-11-25T18:23:47+00:00",
-      "date": "2025-11-25 18:23:47",
-      "importance": 3,
-      "category": "soukromí dat",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/3-google-nest-still-sends-data-after-remote-control-cutoff.jpg",
-      "url": "/tech-news/2025-11-25/google-nest-still-sends-data-after-remote-control/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Britská vláda dává umělou inteligenci do centra své ekonomické strategie",
       "description": "Britská vláda oznámila rozsáhlý balíček investic do umělé inteligence v hodnotě miliard liber, který má podpořit regionální rozvoj, výzkum a vývoj domácích čipů pro AI.",
       "slug": "uk-puts-ai-at-center-of-its-economic-growth-strate",
@@ -520,48 +1274,6 @@
         "name": "pymnts.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Evropská achillova pata: jak vzácné zeminy vystavují EU riziku ekonomického vydírání ze strany Číny",
-      "description": "Evropa potřebuje vzácné zeminy pro výrobu klíčových technologií, ale Čína ovládá až 90 % jejich globálního zásobování.",
-      "slug": "europes-achilles-heel-how-rare-earths-leave-the-eu",
-      "publishedAt": "2025-11-25T18:18:26+00:00",
-      "date": "2025-11-25 18:18:26",
-      "importance": 3,
-      "category": "strategické suroviny",
-      "urlToImage": "https://images.theconversation.com/files/703269/original/file-20251118-56-2uqii4.jpeg?ixlib=rb-4.1.0&rect=0%2C833%2C6015%2C3007&q=45&auto=format&w=1356&h=668&fit=crop",
-      "url": "/tech-news/2025-11-25/europes-achilles-heel-how-rare-earths-leave-the-eu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google, dosud spící gigant v globálním závodu o umělou inteligenci, je nyní 'plně vzhůru', říkají analytici",
-      "description": "Alphabet se blíží tržní kapitalizaci 4 bilionů dolarů. Dokáže porazit konkurenty jako Nvidia, Microsoft, OpenAI a Amazon?",
-      "slug": "google-the-sleeping-giant-in-the-global-ai-race-is",
-      "publishedAt": "2025-11-25T18:14:52+00:00",
-      "date": "2025-11-25 18:14:52",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/no1125google.jpg",
-      "url": "/tech-news/2025-11-25/google-the-sleeping-giant-in-the-global-ai-race-is/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Google",
-        "Alphabet",
-        "Nvidia",
-        "Microsoft",
-        "OpenAI"
-      ],
       "people": []
     },
     {
@@ -795,24 +1507,6 @@
       "people": []
     },
     {
-      "title": "FBI zasahuje po rozštěpení Cardana jedinou transakcí: Ponaučení pro klienty Ethereum a Solany",
-      "description": "21. listopadu došlo na hlavní síti Cardano k rozštěpení blockchainu způsobenému chybnou transakcí delegování stake, která aktivovala latentní chybu v novější verzi uzlového softwaru. Síť byla rozdělena na více než 14 hodin.",
-      "slug": "fbi-called-as-cardano-split-in-two-by-a-single-tra",
-      "publishedAt": "2025-11-25T16:05:28+00:00",
-      "date": "2025-11-25 16:05:28",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/cardano-split.jpg",
-      "url": "/tech-news/2025-11-25/fbi-called-as-cardano-split-in-two-by-a-single-tra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CryptoSlate"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Předpověď: Tato společnost bude největší na světě do konce roku 2026",
       "description": "Alphabet (mateřská společnost Google) zaznamenává silný růst díky investicím do umělé inteligence a nedávné podpoře od Berkshire Hathaway. Analytici spekulují, že by mohla předstihnout Microsoft a stát se největší firmou světa do roku 2026.",
       "slug": "prediction-this-will-be-the-largest-company-by-the",
@@ -913,24 +1607,6 @@
       "people": []
     },
     {
-      "title": "Právní kancelář Wohl & Fruchter zkoumá spravedlivost navrhovaného prodeje Green Dot Corporation",
-      "description": "Právní kancelář Wohl & Fruchter LLP vyšetřuje, zda je plánovaná akvizice Green Dot Corporation spravedlivá pro akcionáře, kteří by měli obdržet 8,11 USD v hotovosti a 0,2215 akcie nové bankovní holdingové společnosti.",
-      "slug": "gdot-alert-monsey-firm-of-wohl-fruchter-investigat",
-      "publishedAt": "2025-11-25T15:53:00+00:00",
-      "date": "2025-11-25 15:53:00",
-      "importance": 3,
-      "category": "fúze a akvizice",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/gdot-alert-monsey-firm-of-wohl-fruchter-investigat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "EFF, jakou potřebujeme nyní",
       "description": "Článek připomíná historický případ neoprávněného sledování internetového provozu NSA ve spolupráci s AT&T a zdůrazňuje nutnost obnovy a posílení mise Electronic Frontier Foundation v oblasti digitálních občanských svobod.",
       "slug": "the-eff-we-need-now",
@@ -946,26 +1622,6 @@
         "name": "Werd.io"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "David’s Bridal zavádí Sezzle: BNPL služba pro svatební nákupy",
-      "description": "Svatební módní řetězec David’s Bridal začal ve všech svých prodejnách nabízet službu „kup teď, plať později“ (BNPL) od poskytovatele Sezzle. Cílem je usnadnit nákup svatebních šatů a doplňků v době rostoucích cen a zkracujících se plánovacích lhůt.",
-      "slug": "davids-bridal-taps-sezzle-to-bring-bnpl-to-the-wed",
-      "publishedAt": "2025-11-25T15:50:51+00:00",
-      "date": "2025-11-25 15:50:51",
-      "importance": 3,
-      "category": "bnpl služby",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/01/Davids-Bridal.jpg",
-      "url": "/tech-news/2025-11-25/davids-bridal-taps-sezzle-to-bring-bnpl-to-the-wed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Sezzle"
-      ],
       "people": []
     },
     {
@@ -1008,44 +1664,6 @@
         "Nvidia",
         "Meta"
       ],
-      "people": []
-    },
-    {
-      "title": "Google, dosud spící obr v globálním závodu o AI, je nyní 'plně vzhůru'",
-      "description": "Nejnovější multimodelový systém Google Gemini 3 získal okamžité uznání za pokročilé schopnosti v logickém uvažování, programování i řešení specializovaných úkolů, kde jiné chatboty selhávají.",
-      "slug": "google-the-sleeping-giant-in-global-ai-race-now-fu",
-      "publishedAt": "2025-11-25T15:42:15+00:00",
-      "date": "2025-11-25 15:42:15",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YRxIi5jOm8UVu2Zod0.MUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/bloomberg_holding_pen_162/865a35100ebede5e7fd4e26e839a729d",
-      "url": "/tech-news/2025-11-25/google-the-sleeping-giant-in-global-ai-race-now-fu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Německý trh chytrých praček dosáhne hodnoty 694,12 milionu dolarů do roku 2030",
-      "description": "Německý trh chytrých praček roste díky poptávce po energeticky úsporných, připojených domácích spotřebičích a podpoře udržitelnosti. Hlavními hráči jsou Bosch, Miele a Siemens.",
-      "slug": "germany-69412-mn-smart-washing-machine-market-tren",
-      "publishedAt": "2025-11-25T15:40:00+00:00",
-      "date": "2025-11-25 15:40:00",
-      "importance": 3,
-      "category": "chytré domácnosti",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-11-25/germany-69412-mn-smart-washing-machine-market-tren/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -1145,51 +1763,6 @@
       },
       "companies": [
         "Huawei",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Republikánský poslanec: USA musí uzavřít kritickou mezeru v exportu AI čipů využívanou Čínou",
-      "description": "Republikánský zástupce varuje, že Čína využívá mezeru v amerických exportních pravidlech k získávání pokročilých AI čipů, jako jsou Nvidia Blackwell, a vyzývá k jejímu okamžitému uzavření.",
-      "slug": "gop-rep-the-us-must-close-critical-ai-chip-export-",
-      "publishedAt": "2025-11-25T15:31:31+00:00",
-      "date": "2025-11-25 15:31:31",
-      "importance": 3,
-      "category": "ai čipy",
-      "urlToImage": "https://biztoc.com/cdn/a183561d962507bf_s.webp",
-      "url": "/tech-news/2025-11-25/gop-rep-the-us-must-close-critical-ai-chip-export/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Elon Musk",
-        "Tim Cook"
-      ]
-    },
-    {
-      "title": "Googleův nový „Aluminium OS“ má nahradit ChromeOS",
-      "description": "Google pracuje na novém operačním systému s kódovým názvem „Aluminium OS“, který spojí Android a ChromeOS a bude určen pro širokou škálu zařízení – od chytrých telefonů po počítače a XR headsety.",
-      "slug": "googles-new-aluminium-os-is-officially-coming-to-s",
-      "publishedAt": "2025-11-25T15:30:28+00:00",
-      "date": "2025-11-25 15:30:28",
-      "importance": 3,
-      "category": "operační systémy",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Google-headquarters-logo-Googleplex-1.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-11-25/googles-new-aluminium-os-is-officially-coming-to-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
-        "Google",
         "Apple"
       ],
       "people": []
@@ -1330,26 +1903,6 @@
       "people": []
     },
     {
-      "title": "Skládací iPhone představí tři průlomové funkce",
-      "description": "První skládací iPhone od Applu by měl být představen na podzim 2026 spolu s modelem iPhone 18 Pro a přinese tři výrazné technologické novinky.",
-      "slug": "foldable-iphone-to-debut-these-three-breakthrough-",
-      "publishedAt": "2025-11-25T15:09:00+00:00",
-      "date": "2025-11-25 15:09:00",
-      "importance": 3,
-      "category": "foldable telefony",
-      "urlToImage": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "url": "/tech-news/2025-11-25/foldable-iphone-to-debut-these-three-breakthrough/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Nový zákon proti podvodům s AI má trestat deepfaky federálních úředníků",
       "description": "Návrh zákona AI Fraud Deterrence Act aktualizuje trestní ustanovení pro podvody s využitím umělé inteligence a zavádí tresty za deepfake imitace federálních úředníků.",
       "slug": "new-ai-fraud-bill-will-seek-to-criminalize-deepfak",
@@ -1432,49 +1985,6 @@
       "people": []
     },
     {
-      "title": "Nasazení AI analytika za pár minut: Propojení libovolného LLM s libovolným datovým zdrojem pomocí Bag of Words",
-      "description": "Nástroj Bag of Words umožňuje rychle propojit libovolný velký jazykový model (LLM) s SQL databází a získávat důvěryhodné analytické odpovědi přirozeným jazykem.",
-      "slug": "deploy-an-ai-analyst-in-minutes-connect-any-llm-to",
-      "publishedAt": "2025-11-25T15:00:51+00:00",
-      "date": "2025-11-25 15:00:51",
-      "importance": 3,
-      "category": "ai analýza",
-      "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/kdn-bag-of-words-app-feature.jpeg",
-      "url": "/tech-news/2025-11-25/deploy-an-ai-analyst-in-minutes-connect-any-llm-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kdnuggets.com"
-      },
-      "companies": [
-        "Bag of Words",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Korporátní moc: Od armád a děl k umělé inteligenci",
-      "description": "Článek analyzuje historický vývoj korporací jako klíčových institucí moderní společnosti – od obchodních společností 17. století až po dnešní technologické giganty ovládající AI.",
-      "slug": "corporate-power-from-armies-and-cannons-to-ai",
-      "publishedAt": "2025-11-25T15:00:29+00:00",
-      "date": "2025-11-25 15:00:29",
-      "importance": 3,
-      "category": "podnikání",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2025/11/Ai-11.jpg",
-      "url": "/tech-news/2025-11-25/corporate-power-from-armies-and-cannons-to-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "companies": [],
-      "people": [
-        "Peter Drucker",
-        "Elon Musk",
-        "Tim Cook"
-      ]
-    },
-    {
       "title": "Jak styl přesvědčování umělé inteligence napodobuje lidi",
       "description": "Profesor Ethan Mollick zkoumá, jak AI reaguje na lidské techniky přesvědčování a zda je možné obejít její bezpečnostní omezení.",
       "slug": "how-ais-persuasion-style-mirrors-humans-ethan-moll",
@@ -1513,24 +2023,6 @@
         "Shopify",
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Digitálně posílená péče o vzácná onemocnění v Evropě",
-      "description": "Digitální inovace založené na umělé inteligenci a datech mohou zásadně zlepšit diagnostiku a léčbu vzácných onemocnění v Evropě. K jejich úspěšnému nasazení je však nutná spolupráce mezi politiky, průmyslem a pacientskými komunitami.",
-      "slug": "enabling-digitally-enhanced-care-for-rare-diseases",
-      "publishedAt": "2025-11-25T15:00:03+00:00",
-      "date": "2025-11-25 15:00:03",
-      "importance": 3,
-      "category": "digitální zdravotnic",
-      "urlToImage": "https://www.euractiv.com/content/uploads/sites/2/2025/11/Chiesi-Euractiv.png",
-      "url": "/tech-news/2025-11-25/enabling-digitally-enhanced-care-for-rare-diseases/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -1605,42 +2097,6 @@
       "companies": [
         "Ostorlab"
       ],
-      "people": []
-    },
-    {
-      "title": "Diane Pernet o filmu, kultuře a 17. ročníku ASVOFF",
-      "description": "Festival A Shaded View on Fashion Film (ASVOFF) se vrátil ke svému 17. ročníku pod vedením zakladatelky Diane Pernet, která i nadále prosazuje módní film jako významné umělecké a společenské médium.",
-      "slug": "diane-pernet-on-cinema-culture-and-asvoffs-17th-ed",
-      "publishedAt": "2025-11-25T14:54:03+00:00",
-      "date": "2025-11-25 14:54:03",
-      "importance": 3,
-      "category": "móda a film",
-      "urlToImage": "https://fuckingyoung.es/wp-content/uploads/2025/11/Diane-Pernet-by-Fabrizzio-del-rincon-portrait.jpg",
-      "url": "/tech-news/2025-11-25/diane-pernet-on-cinema-culture-and-asvoffs-17th-ed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fuckingyoung.es"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "E-commerce marketingové benchmarky: Metriky pro rok 2025, které potřebujete znát",
-      "description": "Překračujete své marketingové rozpočty? Porovnejte svou strategii s aktuálními benchmarky pro e-commerce z roku 2025 a získejte data o nákladech na získání zákazníka (CAC) a návratnosti investic do reklamy (ROAS).",
-      "slug": "ecommerce-marketing-benchmarks-2025-metrics-you-ne",
-      "publishedAt": "2025-11-25T14:52:19+00:00",
-      "date": "2025-11-25 14:52:19",
-      "importance": 3,
-      "category": "e-commerce marketing",
-      "urlToImage": "https://www.webfx.com/wp-content/uploads/2025/11/112515_ecommerce_marketing_benchmarks.png",
-      "url": "/tech-news/2025-11-25/ecommerce-marketing-benchmarks-2025-metrics-you-ne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Webfx.com"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -1747,27 +2203,6 @@
       "people": []
     },
     {
-      "title": "Mateřská společnost Google Alphabet investovala 100 milionů dolarů do startupu Celero: Řešení propustnostních úzkých míst v AI datových centrech",
-      "description": "Startup Celero Communications získal celkem 140 milionů dolarů na vývoj čipových řešení, která odstraňují propustnostní omezení v datových centrech pro umělou inteligenci. V čele investičního kola stojí CapitalG, růstový fond společnosti Alphabet.",
-      "slug": "google-parent-alphabet-drops-100-million-on-celero",
-      "publishedAt": "2025-11-25T14:46:09+00:00",
-      "date": "2025-11-25 14:46:09",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/fec30ec2b61c305bfd49dc96630e30c2",
-      "url": "/tech-news/2025-11-25/google-parent-alphabet-drops-100-million-on-celero/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Alphabet",
-        "Celero Communications"
-      ],
-      "people": []
-    },
-    {
       "title": "RealPage uzavřel dohodu s ministerstvem spravedlnosti USA a musí ukončit algoritmy umožňující koluzi při stanovování nájemného",
       "description": "Společnost RealPage se dohodla s ministerstvem spravedlnosti USA na ukončení softwarových praktik, které umožňovaly pronajímatelům tajně koordinovat nájemní ceny.",
       "slug": "realpage-reaches-settlement-with-doj-must-stop-alg",
@@ -1828,26 +2263,6 @@
       "people": []
     },
     {
-      "title": "Vytvářejte poutavé infografiky pomocí Google NotebookLM",
-      "description": "Google NotebookLM nyní umožňuje uživatelům převádět textový obsah z poznámek na vizuálně atraktivní infografiky. Nástroj cílí na zjednodušení datové prezentace pro široké spektrum uživatelů.",
-      "slug": "create-beautiful-infographics-using-googles-notebo",
-      "publishedAt": "2025-11-25T12:12:44+00:00",
-      "date": "2025-11-25 12:12:44",
-      "importance": 3,
-      "category": "infografika",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/notebooklm-4k-download-high-resolution_optimized.jpg",
-      "url": "/tech-news/2025-11-25/create-beautiful-infographics-using-googles-notebo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Akcie Nvidie propadly: Meta zvažuje použití Google AI čipů – hrozí „Godzilla vs. Kong“ v odvětví AI čipů",
       "description": "Akcie Nvidie výrazně poklesly poté, co se objevily zprávy, že Meta Platforms zvažuje nákup nebo pronájem Google TPU čipů pro svá datacentra. Tento krok by mohl zásadně narušit dosavadní dominanci Nvidie na trhu AI akcelerátorů.",
       "slug": "nvidia-share-price-nvda-stock-crash-in-pre-market-",
@@ -1885,27 +2300,6 @@
         "name": "Yahoo Entertainment"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Denodo označen jako lídr v hodnocení IDC MarketScape pro platformy datové integrace",
-      "description": "Společnost Denodo, specializující se na správu dat, byla zařazena mezi lídry v nejnovějším hodnocení IDC MarketScape pro globální platformy datové integrace za rok 2025.",
-      "slug": "denodo-named-as-a-leader-in-idc-marketscape-for-da",
-      "publishedAt": "2025-11-25T12:04:40+00:00",
-      "date": "2025-11-25 12:04:40",
-      "importance": 3,
-      "category": "datová integrace",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/denodo-named-as-a-leader-in-idc-marketscape-for-da/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Denodo",
-        "IDC"
-      ],
       "people": []
     },
     {
@@ -2245,28 +2639,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk tvrdí, že Tesla bude vyrábět více AI čipů než všichni ostatní dohromady",
-      "description": "Elon Musk oznámil, že Tesla má připravený nový AI5 čip a plánuje vyrábět AI čipy ve větším objemu než všichni konkurenti dohromady – což vyvolává pochybnosti vzhledem k současnému postavení firem jako Nvidia či AMD.",
-      "slug": "elon-musk-claims-he-will-build-chips-at-higher-vol",
-      "publishedAt": "2025-11-25T11:01:00+00:00",
-      "date": "2025-11-25 11:01:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eysRBSGSUBKcxGLFqLuqcn-1280-80.jpg",
-      "url": "/tech-news/2025-11-25/elon-musk-claims-he-will-build-chips-at-higher-vol/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Máte elektromobil? Některé modely dokážou napájet celý dům při výpadku proudu – tady je jak",
       "description": "Stále více majitelů elektromobilů využívá technologii vehicle-to-home (V2H), která umožňuje využít akumulátor vozu jako záložní zdroj energie pro domácnost.",
       "slug": "got-an-ev-some-can-power-your-whole-house-in-a-out",
@@ -2403,24 +2775,6 @@
       "people": []
     },
     {
-      "title": "Cre8 Enterprise Limited rozšiřuje programátorský tým pro vývoj AI podporované platformy pro řízení projektů",
-      "description": "Hongkongská společnost Cre8 Enterprise Limited, poskytovatel integrovaných finančních tiskových služeb, rozšiřuje svůj vývojářský tým, aby vytvořila interní platformu pro řízení projektů s využitím umělé inteligence.",
-      "slug": "cre8-enterprise-limited-expands-its-programming-te",
-      "publishedAt": "2025-11-25T10:51:00+00:00",
-      "date": "2025-11-25 10:51:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/cre8-enterprise-limited-expands-its-programming-te/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nárůst kybernetických hrozeb vede britské poslance k návrhu zákona o ekonomické bezpečnosti",
       "description": "Britští poslanci vyzývají vládu k zavedení nového právního rámce pro ekonomickou bezpečnost kvůli rostoucím kybernetickým a hybridním hrozbám.",
       "slug": "mounting-cyber-threats-prompt-calls-for-economic-s",
@@ -2434,24 +2788,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Infosecurity Magazine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Globální investice do e-commerce startupů klesly na nejnižší úroveň od začátku 20. let, zatímco americké vánoční nákupy v roce 2025 mohou překonat rekord",
-      "description": "V roce 2021 dosáhly investice do e-commerce startupů vrcholu přes 94 miliard dolarů, ale v roce 2025 klesly na pouhých 7,3 miliardy. Zároveň se očekává, že americké vánoční nákupy poprvé překročí hranici 1 bilionu dolarů.",
-      "slug": "global-e-commerce-startup-funding-hits-2020s-low-w",
-      "publishedAt": "2025-11-25T10:42:29+00:00",
-      "date": "2025-11-25 10:42:29",
-      "importance": 3,
-      "category": "e-commerce",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2186767800-e1733007718120.jpg?resize=1200,600",
-      "url": "/tech-news/2025-11-25/global-e-commerce-startup-funding-hits-2020s-low-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
       },
       "companies": [],
       "people": []
@@ -2474,24 +2810,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Krypto VC financování v Q3 vzrostlo na 4,65 miliardy dolarů – druhý nejvyšší objem od pádu FTX",
-      "description": "Ve třetím čtvrtletí vzrostlo rizikové financování v kryptoměnovém sektoru na 4,65 miliardy dolarů, což je druhý nejvyšší objem od kolapsu burzy FTX v listopadu 2022.",
-      "slug": "crypto-vc-funding-surges-to-465b-in-q3-second-high",
-      "publishedAt": "2025-11-25T10:38:46+00:00",
-      "date": "2025-11-25 10:38:46",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://media.zenfs.com/en/cryptonews_us_711/53bc86a955a0cf1dbbcfb14b333dc358",
-      "url": "/tech-news/2025-11-25/crypto-vc-funding-surges-to-465b-in-q3-second-high/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cryptonews"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -2672,24 +2990,6 @@
       "people": []
     },
     {
-      "title": "Foxconn představil ambice na celém technologickém řetězci na Hon Hai Tech Day",
-      "description": "Na dvoudenní akci Hon Hai Tech Day představila společnost Foxconn rozsáhlé inovace v oblastech umělé inteligence, elektromobility, pokročilé výroby a hardwaru pro datová centra, což potvrzuje její snahu přesunout se za rámec tradiční elektronické výroby.",
-      "slug": "foxconn-showcases-full-stack-tech-ambitions-at-hon",
-      "publishedAt": "2025-11-25T08:09:31+00:00",
-      "date": "2025-11-25 08:09:31",
-      "importance": 3,
-      "category": "technologický průmys",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251124pd237_files/2_2b.jpg",
-      "url": "/tech-news/2025-11-25/foxconn-showcases-full-stack-tech-ambitions-at-hon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Odemkněte inovace: Jak prodejci i kupující využívají AI k lepším svátkům",
       "description": "Nástroje umělé inteligence od eBay pomáhají prodejcům rychleji vytvářet inzeráty, spravovat zprávy a zvyšovat viditelnost, zatímco kupujícím poskytují personalizované vyhledávání, ověřené produkty a bezpečnější nákupní zážitek během sváteční sezóny.",
       "slug": "unwrap-innovation-how-sellers-and-buyers-use-ai-to",
@@ -2766,27 +3066,6 @@
         "Google",
         "Advantest",
         "Tokyo Electron"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google a Accel spouštějí program Atoms AI Cohort 2026 pro podporu raných AI startupů v Indii",
-      "description": "Společnosti Accel a Google prostřednictvím svého AI Futures Fundu spouštějí program Atoms AI Cohort 2026, který má poskytnout indickým zakladatelům AI startupů přístup k nejnovějším modelům jako Gemini a DeepMind a až 2 miliony dolarů financování.",
-      "slug": "google-teams-up-with-accel-to-launch-atoms-ai-coho",
-      "publishedAt": "2025-11-25T07:39:01+00:00",
-      "date": "2025-11-25 07:39:01",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/25/1600x900/NEWZEALAND-POLITICS-TECHNOLOGY-0_1728033670350_1764055931087.JPG",
-      "url": "/tech-news/2025-11-25/google-teams-up-with-accel-to-launch-atoms-ai-coho/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Google",
-        "Accel"
       ],
       "people": []
     },
@@ -2927,24 +3206,6 @@
       "people": []
     },
     {
-      "title": "Indický průmysl datových center požaduje rychlejší schválení a zjednodušení přístupu k veřejné infrastruktuře",
-      "description": "Indický průmysl datových center vyzývá ministerstvo elektroniky a informačních technologií (MeitY), aby stanovilo jasné lhůty pro schvalování projektů a zjednodušilo přístup k veřejné infrastruktuře pro pokládku kabeláže a elektrického vedení. Odvětví také žádá podporu pro datová centra specializovaná na AI, která mají mnohem vyšší nároky na energii a chlazení.",
-      "slug": "data-centre-industry-wants-quick-row-sanction-guar",
-      "publishedAt": "2025-11-25T07:00:15+00:00",
-      "date": "2025-11-25 07:00:15",
-      "importance": 3,
-      "category": "datová centra",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-138048,resizemode-75,msid-125558286/tech/technology/data-centre-industry-wants-quick-row-sanction-guarantees.jpg",
-      "url": "/tech-news/2025-11-25/data-centre-industry-wants-quick-row-sanction-guar/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Trh domácích kin poroste na 23,52 miliardy dolarů do roku 2033, růst pohání inteligentní a bezdrátové zvukové systémy",
       "description": "Globální trh domácích kin dosáhne do roku 2033 hodnoty 23,52 miliardy dolarů při ročním růstu 8,90 %. Hlavními hybateli jsou spotřebitelská poptávka po chytrých a bezdrátových audio systémech a integrace s technologiemi chytré domácnosti.",
       "slug": "home-theatre-market-size-to-grow-usd-2352-billion-",
@@ -2960,26 +3221,6 @@
         "name": "GlobeNewswire"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Emirates Group spolupracuje s OpenAI na podnikové transformaci pomocí umělé inteligence",
-      "description": "Emirates nasadí ChatGPT Enterprise a zřídí Centrum excelence pro umělou inteligenci, aby urychlil digitalizaci provozu, zákaznické zkušenosti a budoucí letecké mobility.",
-      "slug": "emirates-group-partners-with-openai-to-accelerate-",
-      "publishedAt": "2025-11-25T07:00:00+00:00",
-      "date": "2025-11-25 07:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/aircraft-landing-plane-travel-adobe.jpeg",
-      "url": "/tech-news/2025-11-25/emirates-group-partners-with-openai-to-accelerate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     },
     {
@@ -3072,26 +3313,6 @@
         "name": "Insurance Journal"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Krypto VC investice dosáhly v Q3 4,6 miliardy dolarů – druhý nejlepší kvartál od pádu FTX",
-      "description": "V třetím čtvrtletí 2025 bylo do kryptoměnových startupů investováno 4,65 miliardy dolarů, přičemž polovinu částky tvořilo pouze sedm velkých transakcí, včetně miliardového financování fintech firmy Revolut.",
-      "slug": "crypto-vc-activity-hits-46b-in-q3-second-best-quar",
-      "publishedAt": "2025-11-25T06:03:39+00:00",
-      "date": "2025-11-25 06:03:39",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-01/0194743a-4ba8-7d12-9387-aa39dc4c8e77",
-      "url": "/tech-news/2025-11-25/crypto-vc-activity-hits-46b-in-q3-second-best-quar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "companies": [
-        "Revolut"
-      ],
       "people": []
     },
     {
@@ -3272,24 +3493,6 @@
       ]
     },
     {
-      "title": "Výsledky COP30 pro stavební průmysl: Od udržitelného chlazení po závazky v oblasti klimatické adaptace",
-      "description": "Na závěrečný den COP30 v brazilském Belému byly představeny klíčové závazky týkající se udržitelného stavebnictví, chlazení a klimatické adaptace budov.",
-      "slug": "cop30-outcomes-for-the-built-environment-from-sust",
-      "publishedAt": "2025-11-25T05:30:00+00:00",
-      "date": "2025-11-25 05:30:00",
-      "importance": 3,
-      "category": "klimatické technolog",
-      "urlToImage": "https://images.adsttc.com/media/images/6924/bba1/2924/2910/7b84/5770/large_jpg/cop-30_1.jpg?1764015031",
-      "url": "/tech-news/2025-11-25/cop30-outcomes-for-the-built-environment-from-sust/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ArchDaily"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Humanoidní robot UBTECH Walker S2 vstupuje do sériové výroby – objednávky přesahují 800 milionů jüanů",
       "description": "Čínská společnost UBTECH zahájila sériovou výrobu a dodávky první várky průmyslových humanoidních robotů Walker S2, které budou nasazeny v automobilovém průmyslu, chytrých továrnách a logistických centrech.",
       "slug": "ubtech-humanoid-robot-walker-s2-begins-mass-produc",
@@ -3407,24 +3610,6 @@
       ]
     },
     {
-      "title": "Neopomíjejte skrytou sílu pohánějící další éru AI: Datová centra deformují americkou energetickou síť",
-      "description": "Růst počtu datových center pro umělou inteligenci v USA zatěžuje elektrickou síť a způsobuje problémy s kvalitou dodávky elektřiny pro domácnosti.",
-      "slug": "dont-overlook-the-hidden-force-powering-the-next-e",
-      "publishedAt": "2025-11-25T04:45:24+00:00",
-      "date": "2025-11-25 04:45:24",
-      "importance": 3,
-      "category": "energetika ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/dont-overlook-the-hidden-force-powering-the-next-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "XAI Grok 4.1 a Grok 4.2 by mohly předstihnout Google Gemini 3 Pro v žebříčku AI modelů",
       "description": "Model Grok 4.1 od společnosti XAI (založené Elonem Muskiem) se blíží výkonu Google Gemini 3 Pro podle žebříčku lmarena. Rozdíl v ELO skóre je nyní pouze 14 bodů, a připravuje se významná aktualizace Grok 4.2 na konci roku 2025.",
       "slug": "xai-grok-41-and-grok-42-could-pass-google-gemini-3",
@@ -3466,28 +3651,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk přiznal, že žádný výrobce aut nechce licencovat Tesla FSD",
-      "description": "Po letech tvrzení, že konkurenční automobily budou licencovat systém Full Self-Driving od Tesly, Elon Musk nyní přiznal, že zájem o něj neexistuje.",
-      "slug": "elon-musk-admits-other-automakers-dont-want-to-lic",
-      "publishedAt": "2025-11-25T02:48:43+00:00",
-      "date": "2025-11-25 02:48:43",
-      "importance": 3,
-      "category": "autonomní řízení",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/fred5648_Elon_Musk_looking_embarassed_in_front_of_a_judge_in_co_b7fa0a6e-6a38-4ff2-a553-f67e3f7a132a.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-25/elon-musk-admits-other-automakers-dont-want-to-lic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Role malajsko-čínské inovace v oblasti zeleného chytrého řetězce dodávek",
       "description": "Během návštěvy čínského prezidenta Si Ťin-pchinga v Malajsii 16. dubna 2025 podepsaly obě země memorandum o porozumění zaměřené na rozšíření spolupráce v obchodě se službami a průmyslových odvětvích, včetně zelené logistiky.",
       "slug": "the-role-of-malaysiachina-green-smart-supply-chain",
@@ -3507,24 +3670,6 @@
         "Xi Jinping",
         "žádné"
       ]
-    },
-    {
-      "title": "【EVIDENCE AWARDS 2025】Oceněny inovativní projekty založené na důkazech: od testování syfilidy po reformu rakovinných screeningů",
-      "description": "Na druhém ročníku ceny EVIDENCE AWARDS 2025 byly oceněny projekty, které využívají vědecké důkazy k řešení reálných problémů ve zdravotnictví a veřejné správě.",
-      "slug": "evidence-awards-2025社会を動かすエビデンスの最前線が集結梅毒検査ナッジ医療ドラッ",
-      "publishedAt": "2025-11-25T02:13:54+00:00",
-      "date": "2025-11-25 02:13:54",
-      "importance": 3,
-      "category": "zdravotnictví",
-      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/144147/6/144147-6-165cb45f70ad252e4c5257b3b24332ab-520x473.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "url": "/tech-news/2025-11-25/evidence-awards-2025社会を動かすエビデンスの最前線が集結梅毒検査ナッジ医療ドラッ/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Prtimes.jp"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Image to STL: Nástroj s umělou inteligencí pro převod obrázků na 3D tisknutelné modely",
@@ -3567,27 +3712,6 @@
       ]
     },
     {
-      "title": "Finanční AI startup Model ML získal 75 milionů dolarů",
-      "description": "Startup Model ML, který vyvíjí softwarové nástroje na bázi umělé inteligence pro investiční profesionály, získal v rámci série A financování 75 milionů dolarů. Vedoucím investorem byla investiční banka FT Partners.",
-      "slug": "financial-ai-startup-model-ml-nabs-75m-investment",
-      "publishedAt": "2025-11-25T01:12:27+00:00",
-      "date": "2025-11-25 01:12:27",
-      "importance": 3,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Model-ML.png",
-      "url": "/tech-news/2025-11-25/financial-ai-startup-model-ml-nabs-75m-investment/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Model ML Inc",
-        "FT Partners"
-      ],
-      "people": []
-    },
-    {
       "title": "Kate McAfoose získala dvě zlaté ceny Stevie® za inovace v robotice a technologické vedení",
       "description": "Kate McAfoose, prezidentka společnosti Chang Robotics a spoluzakladatelka Curabotics, získala dvě zlaté ceny Stevie® za rok 2025 v kategoriích technologické inovace a ženské vedení.",
       "slug": "kate-mcafoose-pe-president-of-chang-robotics-and-c",
@@ -3609,27 +3733,6 @@
       "people": [
         "Kate McAfoose"
       ]
-    },
-    {
-      "title": "Google a Accel společně hledají indické AI startupy s průlomovým potenciálem",
-      "description": "Google a rizikový kapitál Accel spustili společný program, který bude investovat až 2 miliony dolarů do raných indických AI startupů.",
-      "slug": "google-teams-up-with-accel-to-hunt-for-indias-next",
-      "publishedAt": "2025-11-25T01:02:10+00:00",
-      "date": "2025-11-25 01:02:10",
-      "importance": 3,
-      "category": "startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/google-india.jpg?resize=1200,800",
-      "url": "/tech-news/2025-11-25/google-teams-up-with-accel-to-hunt-for-indias-next/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Google",
-        "Accel"
-      ],
-      "people": []
     },
     {
       "title": "„Předobrazem je Flint“: Boom datových center v Oregonu zhoršuje krizi s pitnou vodou",
@@ -3672,27 +3775,6 @@
       "people": []
     },
     {
-      "title": "„Nebezpečné“: Steve Bannon vede uvnitř MAGA rozkol ohledně Trumpovy politiky umělé inteligence",
-      "description": "Bývalý šéfstratég Donalda Trumpa Steve Bannon otevřeně kritizuje jeho nadšení pro umělou inteligenci, čímž vyvolává napětí mezi přívrženci hnutí MAGA.",
-      "slug": "dangerous-steve-bannon-leads-maga-civil-war-on-tru",
-      "publishedAt": "2025-11-25T00:53:49+00:00",
-      "date": "2025-11-25 00:53:49",
-      "importance": 3,
-      "category": "ai politika",
-      "urlToImage": "https://www.rawstory.com/media-library/steve-bannon-gage-skidmore.jpg?id=54017920&width=1200&height=600&coordinates=0%2C560%2C0%2C560",
-      "url": "/tech-news/2025-11-25/dangerous-steve-bannon-leads-maga-civil-war-on-tru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Raw Story"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump",
-        "Steve Bannon"
-      ]
-    },
-    {
       "title": "Rozhovor: IBM o uvolnění závislosti na hyperskalerech",
       "description": "Hans Dekkers, generální ředitel IBM pro Asii a Tichomoří, vysvětluje, proč podniky v regionu přehodnocují svou závislost na veřejném cloudu, znovuoživení mainframů prostřednictvím LinuxOne a jak IBM využívá vlastní AI nástroje ke snížení interních nákladů.",
       "slug": "interview-ibm-on-breaking-hyperscaler-lock-in",
@@ -3716,48 +3798,6 @@
       ]
     },
     {
-      "title": "Google a Accel společně podpoří indické AI startupy",
-      "description": "Google a americká riziková kapitálová společnost Accel spustily partnerství zaměřené na financování alespoň deseti raných indických startupů zabývajících se umělou inteligencí.",
-      "slug": "google-accel-partner-to-back-indian-ai-startups",
-      "publishedAt": "2025-11-25T00:32:03+00:00",
-      "date": "2025-11-25 00:32:03",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--nVVh73wy--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-25T003203Z_1_LYNXMPELAO00S_RTROPTP_3_AUSTRALIA-SECURITY-GOOGLE-POWER.JPG?itok=oAhgUK-7",
-      "url": "/tech-news/2025-11-25/google-accel-partner-to-back-indian-ai-startups/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Google",
-        "Accel"
-      ],
-      "people": []
-    },
-    {
-      "title": "GCC zrychlují vnitřní školení v oblasti AI kvůli těsným termínům nasazení",
-      "description": "Podle poradenské společnosti ANSR má více než 70 % Globálních kapacitních center (GCC) v Indii na starosti globální AI agendu svých mateřských společností, včetně vývoje modelů, platformového inženýrství a integrace AI do produktů a procesů.",
-      "slug": "gccs-step-up-ai-upskilling-to-meet-tight-adoption-",
-      "publishedAt": "2025-11-25T00:31:00+00:00",
-      "date": "2025-11-25 00:31:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-82332,resizemode-75,msid-125546171/tech/technology/gccs-step-up-ai-upskilling-to-meet-tight-adoption-deadlines.jpg",
-      "url": "/tech-news/2025-11-25/gccs-step-up-ai-upskilling-to-meet-tight-adoption/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "ANSR",
-        "žádné"
-      ],
-      "people": []
-    },
-    {
       "title": "Proč Accel a Google pátrají po indických zakladatelích AI startupů",
       "description": "Venture kapitál Accel spolupracuje s Google AI Futures Fund na investicích až 2 miliony dolarů do indických AI startupů v rámci akcelerátoru Atoms. Zaměřují se na oblasti kódování, produktivity, kreativity a zábavy.",
       "slug": "why-accel-and-google-are-chasing-indias-newest-ai-",
@@ -3776,24 +3816,6 @@
         "Accel",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Pravidla DPDP nabízejí „liberální“ lhůtu pro plně digitální soulad",
-      "description": "Indické ministerstvo elektroniky a informačních technologií (MeitY) stanovilo 18měsíční lhůtu pro splnění nových pravidel ochrany digitálních osobních údajů, která zároveň reagují na vývoj regulací umělé inteligence.",
-      "slug": "dpdp-rules-offer-liberal-compliance-window-with-a-",
-      "publishedAt": "2025-11-25T00:30:00+00:00",
-      "date": "2025-11-25 00:30:00",
-      "importance": 3,
-      "category": "ochrana dat",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/4hcls7/article70318058.ece/alternates/LANDSCAPE_1200/IMG_skrishnan_1_2_1_N0E2E23L.jpg",
-      "url": "/tech-news/2025-11-25/dpdp-rules-offer-liberal-compliance-window-with-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3882,45 +3904,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Rust-lang.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google a Accel Atoms spolupracují na podpoře indických AI startupů",
-      "description": "Google prostřednictvím svého AI Futures Fundu a indický akcelerátor Accel Atoms spustily nový program pro podporu raných AI startupů v Indii. Účastníci získají financování, přístup k pokročilým AI modelům jako Gemini, Imagen a Veo a odborné poradenství.",
-      "slug": "google-and-accel-atoms-partner-to-accelerate-india",
-      "publishedAt": "2025-11-25T00:00:00+00:00",
-      "date": "2025-11-25 00:00:00",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2025-11-25/google-and-accel-atoms-partner-to-accelerate-india/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [
-        "Google",
-        "Accel Atoms"
-      ],
-      "people": []
-    },
-    {
-      "title": "Možnosti predikce rovnováhy u dětí pomocí akcelerometru a strojového učení",
-      "description": "Výzkum zkoumá, zda lze pomocí akcelerometrických dat a modelů strojového učení předpovědět výsledky klinických testů rovnováhy u dětí ve věku 6–12 let.",
-      "slug": "feasibility-of-accelerometer-based-prediction-of-p",
-      "publishedAt": "2025-11-25T00:00:00+00:00",
-      "date": "2025-11-25 00:00:00",
-      "importance": 3,
-      "category": "zdravotní technologi",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-25/feasibility-of-accelerometer-based-prediction-of-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []
