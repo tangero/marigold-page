@@ -53,7 +53,28 @@ layout: default
   </footer>
 </article>
 
+<!-- Diskuze pro tech-news články -->
+<div class="article-discussion">
+  {% include szn-discussion.html %}
+</div>
+
 <style>
+.article-discussion {
+  max-width: 800px;
+  margin: 3rem auto 2rem;
+  padding: 2rem;
+  border-top: 2px solid #e5e7eb;
+  background: white;
+  border-radius: 12px;
+}
+
+@media (max-width: 640px) {
+  .article-discussion {
+    margin: 2rem 1rem 1rem;
+    padding: 1.5rem;
+  }
+}
+
 .tech-news-article {
   max-width: 800px;
   margin: 2rem auto;

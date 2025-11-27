@@ -1,0 +1,25 @@
+<!-- Seznam.cz Discussion Widget -->
+<div id="discussion"></div>
+
+<script>
+window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
+    const instance = SZN.Discussion.create(
+        "marigoldcz",  // Service name
+        "discussion",   // Element ID
+        {
+            linksInNewTab: true,
+            allowScroll: true,
+            blockSizeReduction: false
+        }
+    );
+
+    // Load discussion s canonical stringem (permalink článku)
+    instance.loadDiscussion(
+        "{{ page.url }}",  // Canonical string (permalink)
+        {
+            title: "{{ page.title | escape }}",
+            url: "{{ site.url }}{{ page.url }}"
+        }
+    );
+});
+</script>

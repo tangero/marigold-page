@@ -349,9 +349,7 @@ layout: default
 
   {% if page.url contains '/obrazy/' %}
   {% else %}
-  <div class="commentbox"></div>
-  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-  <script>commentBox('5677112761516032-proj')</script>
+    {% include szn-discussion.html %}
   {% endif %}
 
   <!-- Tady začíná odkazování na featured články -->
