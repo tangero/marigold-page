@@ -15,7 +15,7 @@ window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
 
     // Load discussion s canonical stringem (permalink článku)
     instance.loadDiscussion(
-        "{{ page.url }}",  // Canonical string (permalink)
+        "{{ site.url }}{{ page.url }}",  // Canonical string (plná URL)
         {
             title: "{{ page.title | escape }}",
             url: "{{ site.url }}{{ page.url }}"

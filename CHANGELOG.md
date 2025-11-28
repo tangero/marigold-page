@@ -46,6 +46,11 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Metriky: počty článků, LLM náklady, tokeny, časy zpracování, error rate, skip reasons
 
 ### Fixed
+- **Seznam Diskuze API errors (401/404)** - oprava canonical string formátu
+  - Problém: widget používal relativní cestu místo plné URL v canonical stringu
+  - Způsobovalo chyby "Api Error" při pokusu o odeslání komentáře
+  - Řešení: změna z `{{ page.url }}` na `{{ site.url }}{{ page.url }}` v `szn-discussion.html` a `szn-discussion-meta.html`
+  - Canonical string nyní: `https://www.marigold.cz/item/...` místo `/item/...`
 - **NewsAPI freshness** - přechod z `/v2/top-headlines` na `/v2/everything` endpoint
   - Problém: top-headlines vracel články staré 48-72h, žádné dnešní články
   - Řešení: `/v2/everything` s `from` parametrem pro poslední 48h a `sortBy: publishedAt`
