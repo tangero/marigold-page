@@ -275,6 +275,14 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="fixed">Fixed</h3>
 <ul>
+  <li><strong>Seznam Diskuze API errors (401/404)</strong> - oprava canonical string formátu
+    <ul>
+      <li>Problém: widget používal relativní cestu místo plné URL v canonical stringu</li>
+      <li>Způsobovalo chyby “Api Error” při pokusu o odeslání komentáře</li>
+      <li>Řešení: změna z <code class="language-plaintext highlighter-rouge">/CHANGELOG/</code> na <code class="language-plaintext highlighter-rouge">https://www.marigold.cz/CHANGELOG/</code> v <code class="language-plaintext highlighter-rouge">szn-discussion.html</code> a <code class="language-plaintext highlighter-rouge">szn-discussion-meta.html</code></li>
+      <li>Canonical string nyní: <code class="language-plaintext highlighter-rouge">https://www.marigold.cz/item/...</code> místo <code class="language-plaintext highlighter-rouge">/item/...</code></li>
+    </ul>
+  </li>
   <li><strong>NewsAPI freshness</strong> - přechod z <code class="language-plaintext highlighter-rouge">/v2/top-headlines</code> na <code class="language-plaintext highlighter-rouge">/v2/everything</code> endpoint
     <ul>
       <li>Problém: top-headlines vracel články staré 48-72h, žádné dnešní články</li>
