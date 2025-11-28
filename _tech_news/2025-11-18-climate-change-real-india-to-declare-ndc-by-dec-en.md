@@ -1,49 +1,45 @@
 ---
 author: Marisa Aigen
 category: klimatické změny
-date: '2025-11-18 01:28:50'
-description: Indie plánuje do prosince předložit aktualizované národní klimatické
-  cíle (NDC) pro období do roku 2035. Ministr životního prostředí Bhupender Yadav
-  vyzval rozvinuté země, aby dosáhly cíle netto nula dříve než plánují, a zdůraznil
-  indický závazek k dosažení neutrality emisí do roku 2070.
+date: '2025-11-18 04:52:50'
+description: Indický ministr životního prostředí Bhupender Yadav na klimatickém summitu
+  COP30 potvrdil, že Indie do prosince představí revidovaný národní příspěvek (NDC)
+  pro rok 2035 a vyzval rozvinuté země k dřívějšímu dosažení cíle netto nula.
 importance: 3
 layout: tech_news_article
 original_title: 'Climate change real, India to declare NDC by Dec: Environment Minister
   Yadav at UN COP30'
-people:
-- Bhupender Yadav
-publishedAt: '2025-11-18T01:28:50+00:00'
+publishedAt: '2025-11-18T04:52:50+00:00'
 slug: climate-change-real-india-to-declare-ndc-by-dec-en
 source:
   emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: 'Klimatické změny jsou reálné, Indie představí aktualizované klimatické cíle
-  do prosince: ministr Yadav na COP30'
-url: https://economictimes.indiatimes.com/news/india/climate-change-real-india-to-declare-ndc-by-dec-environment-minister-yadav-at-un-cop30/articleshow/125398983.cms
-urlToImage: https://img.etimg.com/thumb/msid-125398983,width-1200,height-630,imgsize-29788,overlay-economictimes/articleshow.jpg
-urlToImageBackup: https://img.etimg.com/thumb/msid-125398983,width-1200,height-630,imgsize-29788,overlay-economictimes/articleshow.jpg
+  id: null
+  name: BusinessLine
+title: Klimatické změny jsou reálné, Indie představí aktualizovaný NDC do prosince,
+  řekl ministr Yadav na COP30
+url: https://www.thehindubusinessline.com/news/climate-change-real-india-to-declare-ndc-by-dec-environment-minister-yadav-at-un-cop30/article70293212.ece
+urlToImage: https://bl-i.thgim.com/public/incoming/77jctk/article70293275.ece/alternates/LANDSCAPE_1200/444239763.jpg
+urlToImageBackup: https://bl-i.thgim.com/public/incoming/77jctk/article70293275.ece/alternates/LANDSCAPE_1200/444239763.jpg
 ---
 
 ## Souhrn
-Indie potvrdila, že do prosince 2024 předloží aktualizované národní klimatické cíle (NDC) pro období do roku 2035. Ministr životního prostředí Bhupender Yadav na klimatické konferenci COP30 vyzval rozvinuté země, aby urychlily plnění svých závazků k dosažení cíle netto nula a dodaly slíbené klimatické financování.
+Indický ministr životního prostředí Bhupender Yadav na summitu OSN o klimatických změnách COP30 v Bélém (Brazílie) potvrdil, že Indie do prosince 2025 předloží aktualizovaný Národní stanovený příspěvek (NDC) pro období do roku 2035. Zároveň vyzval rozvinuté země, aby dosáhly cíle netto nula dříve než podle současných plánů a plnily své finanční závazky podle Pařížské dohody.
 
 ## Klíčové body
-- Indie předloží revidované NDC do prosince 2024 spolu s prvním dvouletým zprávou o transparentnosti.
-- Ministr Yadav vyzval rozvinuté země k dřívějšímu dosažení cíle netto nula a k plnění závazků podle článku 9.1 Pařížské dohody.
-- Indie posiluje svůj přístup k dekarbonizaci prostřednictvím nových iniciativ, jako jsou Jaderná mise a Mise zeleného vodíku.
-- Důraz byl kladen na nutnost dostupného, cenově přijatelného a neomezeného přístupu k technologiím pro klimatickou transformaci.
+- Indie představí revidovaný NDC do prosince 2025.
+- Ministr zdůraznil, že klimatické změny jsou „reálné a bezprostřední“.
+- Vyzval rozvinuté země k dřívějšímu dosažení cíle netto nula a k poskytnutí klimatického financování v řádu bilionů dolarů.
+- Na okrajovém programu COP30 oznámil mezinárodní projekty zaměřené na využití průmyslových vedlejších produktů.
+- Důraz na globální partnerství pro urychlení průmyslové transformace.
 
 ## Podrobnosti
-Na summitu COP30 v Brazílii ministr Bhupender Yadav zdůraznil, že klimatické změny jsou „reálné a bezprostřední“ a že jejich hlavní příčinou jsou neudržitelné modely hospodářského růstu. Indie, která se zavázala k dosažení neutrality emisí do roku 2070, nyní připravuje revidované národní příspěvky (NDC), které budou platit do roku 2035. Tyto dokumenty jsou klíčovým nástrojem Pařížské klimatické dohody a definují, jak jednotlivé země plánují snižovat emise skleníkových plynů a přizpůsobovat se dopadům klimatických změn.
-
-Yadav rovněž uvedl, že Indie spouští dvě strategické iniciativy – Jadernou misi a Misi zeleného vodíku – které mají urychlit přechod na nízkouhlíkovou ekonomiku. Zároveň požadoval, aby rozvinuté země dodaly „nové, dodatečné a výhodné“ klimatické financování v řádu bilionů dolarů. Důraz byl kladen i na odstranění bariér spojených s duševním vlastnictvím, které brání rozvojovým zemím v přístupu k čistým technologiím.
+Během vystoupení v rámci vysoké úrovně COP30 ministr Yadav uvedl, že klimatická krize je důsledkem neudržitelných modelů růstu a spotřeby. Indická vláda se připravuje předložit novou verzi svého Národního stanoveného příspěvku (NDC), který stanoví cíle snižování emisí skleníkových plynů do roku 2035. Tento krok je v souladu s pravidelným přezkoumáváním podle Pařížské dohody. Yadav zároveň zdůraznil, že rozvinuté země nesou historickou odpovědnost za emise a musí plnit své závazky podle článku 9.1 Pařížské dohody, což zahrnuje poskytování „nového, dodatečného a výhodného“ klimatického financování. Odhadovaná potřeba činí biliony dolarů. V rámci vedlejšího programu COP30 ministr oznámil spolupráci na mezinárodních projektech, jejichž cílem je vytvářet hodnotu z průmyslových vedlejších produktů – například recyklací odpadu nebo využitím popílku z energetiky. Tyto iniciativy mají podpořit cirkulární ekonomiku a snížit závislost na primárních surovinách.
 
 ## Proč je to důležité
-Indie je třetím největším emitentem skleníkových plynů na světě, a její klimatické závazky mají globální dopad. Aktualizace NDC poskytne jasnější pohled na to, jak země plánuje snižovat emise v průmyslu, energetice a dopravě. Zároveň odráží rostoucí tlak na rozvinuté země, aby splnily své historické závazky v oblasti financování a technologické podpory. Tento postoj podtrhuje rozdíly mezi globálním Severem a Jihem v klimatické politice a zdůrazňuje nutnost spravedlivého přechodu, který nezatíží rozvojové ekonomiky nepřiměřeně.
+Indie je třetím největším emitentem skleníkových plynů na světě, a její klimatické cíle mají globální dopad. Aktualizace NDC poskytne jasnější obraz toho, jak země plánuje přispět k omezení globálního oteplování pod 1,5 °C. Zároveň indická výzva k větší odpovědnosti rozvinutých zemí odráží dlouhodobé napětí mezi globálním severem a jihem ohledně spravedlivého přechodu. Projekty zaměřené na využití průmyslových vedlejších produktů mohou sloužit jako model pro rozvojové země, jak snižovat emise bez ohrožení hospodářského růstu.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/news/india/climate-change-real-india-to-declare-ndc-by-dec-environment-minister-yadav-at-un-cop30/articleshow/125398983.cms)
+[Číst původní článek](https://www.thehindubusinessline.com/news/climate-change-real-india-to-declare-ndc-by-dec-environment-minister-yadav-at-un-cop30/article70293212.ece)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 📰 BusinessLine

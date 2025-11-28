@@ -328,7 +328,10 @@ layout: default
   </div>
 
       <!-- Místo pro widget -->
-  <div class="posts">
+
+      {% include szn-discussion.html %}
+
+      <div class="posts">
     <h3>Jak se vám líbí tento článek?</h3>
 
     <div id="feedback-widget"></div>
@@ -343,16 +346,6 @@ layout: default
     ></script>
 </div>
 
-<!-- Místo pro widget nejčtenější články -->
-<script src="//widgets.clicky.com/poppy/?site_id=101451859&sitekey=5e093ea9431d06c7b572df6b51eda89f&width=500&height=500&date=last-28-days&type=pages&limit=10&title=Nej%C4%8Dten%C4%9Bj%C5%A1%C3%AD%20%C4%8Dl%C3%A1nky&hide_title=0&hide_branding=1" type="text/javascript"></script>
-<!-- Konec widget nejčtenější články -->
-
-  {% if page.url contains '/obrazy/' %}
-  {% else %}
-  <div class="commentbox"></div>
-  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-  <script>commentBox('5677112761516032-proj')</script>
-  {% endif %}
 
   <!-- Tady začíná odkazování na featured články -->
   {% assign featured_posts = site.posts | where: "featured", true | where_exp: "post", "post.url != page.url" %}

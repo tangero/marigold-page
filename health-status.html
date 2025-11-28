@@ -31,7 +31,10 @@ permalink: /health-status/
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
 
       <div style="padding: 1rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
-        <div style="font-size: 0.875rem; opacity: 0.9;">Celkem článků</div>
+        <div style="font-size: 0.875rem; opacity: 0.9;">
+          Nově vygenerováno (30 dní)
+          <span style="font-size: 0.7rem; opacity: 0.7;" title="Skutečně nově vygenerované články za posledních 30 dní">ℹ️</span>
+        </div>
         <div style="font-size: 2.5rem; font-weight: bold;">
           {{ dashboard.aggregates.total_articles | default: 0 }}
         </div>
@@ -198,7 +201,14 @@ permalink: /health-status/
   <!-- Alerts -->
   {% if health_data.alerts.size > 0 %}
   <div style="background: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h2>🚨 Alerty ({{ health_data.alerts.size }})</h2>
+    <h2>🚨 Alerty ({{ health_data.alerts.size }})
+      {% assign critical_count = health_data.alerts | where: "level", "CRITICAL" | size %}
+      {% assign warning_count = health_data.alerts | where: "level", "WARNING" | size %}
+      {% assign info_count = health_data.alerts | where: "level", "INFO" | size %}
+      <small style="font-size: 0.75rem; font-weight: normal; opacity: 0.7;">
+        (🔴{{ critical_count }} CRITICAL, 🟡{{ warning_count }} WARNING, ℹ️{{ info_count }} INFO)
+      </small>
+    </h2>
     <ul style="list-style: none; padding: 0;">
       {% for alert in health_data.alerts %}
       <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; {% if alert.level == 'CRITICAL' %}background: #f8d7da; border-left: 4px solid #dc3545;{% elsif alert.level == 'WARNING' %}background: #fff3cd; border-left: 4px solid #ffc107;{% else %}background: #d1ecf1; border-left: 4px solid #17a2b8;{% endif %}">
@@ -215,16 +225,28 @@ permalink: /health-status/
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
-        <div style="font-size: 0.875rem; color: #6c757d;">Celkem článků</div>
+        <div style="font-size: 0.875rem; color: #6c757d;">
+          Celkem článků
+          <span style="font-size: 0.75rem; opacity: 0.8;" title="Všechny .md soubory v _tech_news/">ℹ️</span>
+        </div>
         <div style="font-size: 2rem; font-weight: bold; color: #007bff;">
           {{ health_data.metrics.total_articles | default: 0 }}
+        </div>
+        <div style="font-size: 0.7rem; color: #6c757d; margin-top: 0.25rem;">
+          (celá databáze)
         </div>
       </div>
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
-        <div style="font-size: 0.875rem; color: #6c757d;">Články za 24h</div>
+        <div style="font-size: 0.875rem; color: #6c757d;">
+          Články za 24h
+          <span style="font-size: 0.75rem; opacity: 0.8;" title="Články s publishedAt datem z posledních 24 hodin">ℹ️</span>
+        </div>
         <div style="font-size: 2rem; font-weight: bold; color: {% if health_data.metrics.articles_24h >= 10 %}#28a745{% elsif health_data.metrics.articles_24h >= 5 %}#ffc107{% else %}#dc3545{% endif %};">
           {{ health_data.metrics.articles_24h | default: 0 }}
+        </div>
+        <div style="font-size: 0.7rem; color: #6c757d; margin-top: 0.25rem;">
+          (podle publishedAt)
         </div>
       </div>
 
