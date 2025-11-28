@@ -1,7 +1,421 @@
 {
-  "generated": "2025-11-28T00:53:34.250969+00:00",
+  "generated": "2025-11-28T04:20:26.575606+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Meet the Irish tech watching over the insects that feed the world",
+      "description": "Polliknow’s non-invasive AI and solar-powered sensors are intended to help landowners track biodiversity at scale",
+      "slug": "meet-the-irish-tech-watching-over-the-insects-that",
+      "publishedAt": "2025-11-27T04:15:00+00:00",
+      "date": "2025-11-27 04:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/AECC5T3E4ZEAVDUD3E6STAFXM4.jpg?smart=true&auth=400f848e0084ed6e5a522974d804f12f31eb1aeb72cd01d5c5e41a197b8ed354&width=1200&height=630",
+      "url": "/tech-news/2025-11-27/meet-the-irish-tech-watching-over-the-insects-that/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "“Movies Are Millennial Gray Now”: Video About Why Modern Movies Look Ugly Goes Viral",
+      "description": "Modern movies looking strangely flat while older films still shine isn’t your imagination—it’s a real trend with real causes. A viral breakdown comparing past and present films shows how everything from lighting to basic styling has gradually slipped, making …",
+      "slug": "movies-are-millennial-gray-now-video-about-why-mod",
+      "publishedAt": "2025-11-27T04:00:45+00:00",
+      "date": "2025-11-27 04:00:45",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/11/why-movies-look-bad-now-sassygrilledcheese-fb.png",
+      "url": "/tech-news/2025-11-27/movies-are-millennial-gray-now-video-about-why-mod/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Even Realities G2 smartglasses are bundled with the ring in this Black Friday deal",
+      "description": "Customers who buy the Even Realities G2 smartglasses will receive the Even R1 Smart Ring and additional accessories for 50% off.",
+      "slug": "the-even-realities-g2-smartglasses-are-bundled-wit",
+      "publishedAt": "2025-11-27T03:47:00+00:00",
+      "date": "2025-11-27 03:47:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9e6321f9beaa28efb1055af7cc3e72a70e35b2db/2025/11/12/9ea463cb-cc0f-43ca-8df6-1edbcb577e75/hiner-even-realities-g2-r1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-27/the-even-realities-g2-smartglasses-are-bundled-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EIT launches ambitious ‘water knowledge community’ at EIT Awards",
+      "description": "Europe’s standout innovators and entrepreneurial talents were honoured at the 2025 EIT Innovation Awards in Budapest",
+      "slug": "eit-launches-ambitious-water-knowledge-community-a",
+      "publishedAt": "2025-11-27T03:44:26+00:00",
+      "date": "2025-11-27 03:44:26",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.euractiv.com/content/uploads/sites/2/2025/11/EIT-Awards-Winners.jpg",
+      "url": "/tech-news/2025-11-27/eit-launches-ambitious-water-knowledge-community-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "What the Amish can teach us about tech",
+      "description": "Like them we should ask: ‘What is this tool for and what does it make us become?’ As new technology, AI and the internet take over 21st-century life, I suggest looking to the Amish for guidance. Far from being the Luddites most folk assume, the Amish undertak…",
+      "slug": "what-the-amish-can-teach-us-about-tech",
+      "publishedAt": "2025-11-27T03:31:54+00:00",
+      "date": "2025-11-27 03:31:54",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-27/what-the-amish-can-teach-us-about-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon is selling a $300 Asus laptop for just $180 during its Black Friday sale",
+      "description": "\"Setup is super easy, and it runs incredibly fast.\"",
+      "slug": "amazon-is-selling-a-300-asus-laptop-for-just-180-d",
+      "publishedAt": "2025-11-27T03:30:00+00:00",
+      "date": "2025-11-27 03:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_ecomm_249/948e03d936ce5136b743352a14a1d843",
+      "url": "/tech-news/2025-11-27/amazon-is-selling-a-300-asus-laptop-for-just-180-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheStreet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Foxconn's AI infrastructure play: from chips to data centers",
+      "description": "Following two days of presentations at Hon Hai Tech Day (HHTD25), analysts and industry observers focused on one clear theme: Foxconn's sweeping vertical-integration strategy. From AI servers and factories to electric vehicles, smart manufacturing and smart-c…",
+      "slug": "foxconns-ai-infrastructure-play-from-chips-to-data",
+      "publishedAt": "2025-11-27T03:25:49+00:00",
+      "date": "2025-11-27 03:25:49",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251125pd224_files/2_b.jpg",
+      "url": "/tech-news/2025-11-27/foxconns-ai-infrastructure-play-from-chips-to-data/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "US Fed sees low AI bubble risk, warns of economic shifts",
+      "description": "The current surge in artificial intelligence (AI) presents opportunities for innovation and productivity that significantly differ from previous technology booms, according to recent statements by Federal Reserve Vice Chair Philip Jefferson. Unlike the specul…",
+      "slug": "us-fed-sees-low-ai-bubble-risk-warns-of-economic-s",
+      "publishedAt": "2025-11-27T03:18:25+00:00",
+      "date": "2025-11-27 03:18:25",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251126pd200_files/1_b.jpg",
+      "url": "/tech-news/2025-11-27/us-fed-sees-low-ai-bubble-risk-warns-of-economic-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Top EU official accuses US of ‘blackmail’ in trade talks",
+      "description": "Renewed U.S. pressure for the EU to recalibrate its digital rules is unacceptable, says Teresa Ribera.",
+      "slug": "top-eu-official-accuses-us-of-blackmail-in-trade-t",
+      "publishedAt": "2025-11-27T03:10:00+00:00",
+      "date": "2025-11-27 03:10:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/11/26/13474934-scaled.jpg",
+      "url": "/tech-news/2025-11-27/top-eu-official-accuses-us-of-blackmail-in-trade-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "QBE backs leadership and startup culture to deliver transformation",
+      "description": "\"Many of us will be digitally transforming for the rest of our careers.\"",
+      "slug": "qbe-backs-leadership-and-startup-culture-to-delive",
+      "publishedAt": "2025-11-27T03:09:59+00:00",
+      "date": "2025-11-27 03:09:59",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.nextmedia.com.au/News/20251127015338_QBE.png",
+      "url": "/tech-news/2025-11-27/qbe-backs-leadership-and-startup-culture-to-delive/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EU moves to ban social media for under 16s who don’t have parents’ consent",
+      "description": "The European Parliament today adopted a proposal calling to ban social media for teenagers under the age of 16 as lawmakers weigh up the effects of addictive technologies on young people’s mental health. The resolution was passed by a majority of Members of t…",
+      "slug": "eu-moves-to-ban-social-media-for-under-16s-who-don",
+      "publishedAt": "2025-11-27T02:49:26+00:00",
+      "date": "2025-11-27 02:49:26",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/guillaume-perigois-0NRkVddA2fw-unsplash-1.jpg",
+      "url": "/tech-news/2025-11-27/eu-moves-to-ban-social-media-for-under-16s-who-don/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EU moves to ban social media for kids under 16 who don’t have parents’ consent",
+      "description": "The European Parliament today adopted a proposal calling to ban social media for teenagers under the age of 16 as lawmakers weigh up the effects of addictive technologies on young people’s mental health. The resolution was passed by a majority of Members of t…",
+      "slug": "eu-moves-to-ban-social-media-for-kids-under-16-who",
+      "publishedAt": "2025-11-27T02:49:26+00:00",
+      "date": "2025-11-27 02:49:26",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/guillaume-perigois-0NRkVddA2fw-unsplash-1.jpg",
+      "url": "/tech-news/2025-11-27/eu-moves-to-ban-social-media-for-kids-under-16-who/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Missing Since 17 Years, How AI Helped Woman Reunite With Family",
+      "description": "A missing girl report filed over a decade ago, combined with facial recognition and advanced AI technology, has helped reunite a young Pakistani woman with her family after 17 years. Kiran, who uses only one name, lost her way and forgot her home address in I…",
+      "slug": "missing-since-17-years-how-ai-helped-woman-reunite",
+      "publishedAt": "2025-11-27T02:39:06+00:00",
+      "date": "2025-11-27 02:39:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-01-16%2F326ngwf0%2FAI-New.jpg?rect=0%2C147%2C2706%2C1421&w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-11-27/missing-since-17-years-how-ai-helped-woman-reunite/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Data Center Outsourcing Market to Reach USD 219.3 Billion by 2032, Owing to Rising Demand for Scalable, Cost-Efficient IT Infrastructure | SNS Insider",
+      "description": "The data center outsourcing market is growing as enterprises shift toward scalable cloud-based infrastructure, cost-efficient operations, and advanced managed services, supported by strong U.S. momentum increasing from USD 44.8 billion in 2024 to USD 68.0 bil…",
+      "slug": "data-center-outsourcing-market-to-reach-usd-2193-b",
+      "publishedAt": "2025-11-27T02:30:00+00:00",
+      "date": "2025-11-27 02:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "url": "/tech-news/2025-11-27/data-center-outsourcing-market-to-reach-usd-2193-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia rebuts critics in memo to analysts amid pushback campaign",
+      "description": "SAN FRANCISCO :Nvidia, the world's most valuable company, has gone on the defensive against skeptics of its $4.5 trillion valuation, down from a historic $5 trillion, by waging an information campaign on Wall Street and social media. Last week, the company is…",
+      "slug": "nvidia-rebuts-critics-in-memo-to-analysts-amid-pus",
+      "publishedAt": "2025-11-27T02:06:03+00:00",
+      "date": "2025-11-27 02:06:03",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--3onmAgqG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-27T020603Z_1_LYNXMPELAQ027_RTROPTP_3_NVIDIA-RESULTS.JPG?itok=YTcABQRG",
+      "url": "/tech-news/2025-11-27/nvidia-rebuts-critics-in-memo-to-analysts-amid-pus/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Marshall's boldest soundbar yet is the company's first to tempt me away from Sonos",
+      "description": "The Marshall Heston 60 and Sub 200 aren't your average soundbar and subwoofer, but how do they compare to industry veterans?",
+      "slug": "marshalls-boldest-soundbar-yet-is-the-companys-fir",
+      "publishedAt": "2025-11-27T02:00:29+00:00",
+      "date": "2025-11-27 02:00:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/724e600d624eb02fbfe2c9cdfdde5be2467b25c2/2025/11/21/91249e6f-b44f-4f15-a481-2a05046b3d73/heston60-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-27/marshalls-boldest-soundbar-yet-is-the-companys-fir/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ARBOR Technology's Three Innovative AI Products Win Taiwan Excellence Awards",
+      "description": "TAIPEI, Nov. 27, 2025 /PRNewswire/ -- The 34th Taiwan Excellence Awards ceremony took place in Taipei today, where ARBOR Technology was recognized for its outstanding innovation with three flagship AI industrial computers: FPC-5211, IEC-3714, and IEC-G510. Vi…",
+      "slug": "arbor-technologys-three-innovative-ai-products-win",
+      "publishedAt": "2025-11-27T02:00:00+00:00",
+      "date": "2025-11-27 02:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-27/arbor-technologys-three-innovative-ai-products-win/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Viettel Cyber Security Receives Frost & Sullivan's 2025 Vietnamese Cybersecurity Services Market Leadership Recognition for Excellence in Customer Success and Strategic Execution",
+      "description": "Recognized for its end-to-end innovation, operational efficiency, and commitment to customer-centric cybersecurity services SAN ANTONIO, Nov. 27, 2025 /PRNewswire/ -- Frost & Sullivan is pleased to announce that Viettel Cyber Security (VCS) has been awarded t…",
+      "slug": "viettel-cyber-security-receives-frost-sullivans-20",
+      "publishedAt": "2025-11-27T01:30:00+00:00",
+      "date": "2025-11-27 01:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-27/viettel-cyber-security-receives-frost-sullivans-20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "MiTAC Computing Technology Corp.MiTAC Computing社、Redington Limitedと新たな販売代理店契約を締結",
+      "description": "台北、2025年11月26日/PRNewswire/ -- AI、HPC、高エネルギー効率サーバー・ソリューションの世界的リーダーであり、MiTAC Holdings Corporation（TSE:3706）の子会社であるMiTAC Computing Technology Corporation http://www.mitaccomputing.com/, は、 Redington Limited https://redingtongroup.com/との...",
+      "slug": "mitac-computing-technology-corpmitac-computing社red",
+      "publishedAt": "2025-11-27T01:14:00+00:00",
+      "date": "2025-11-27 01:14:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "url": "/tech-news/2025-11-27/mitac-computing-technology-corpmitac-computing社red/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I’ve reviewed dozens of wireless earbuds, and this is my go-to pair",
+      "description": "I have reviewed dozens of wireless earbuds in the past year, dozens more through my career, and these are the ones I always go back to.",
+      "slug": "ive-reviewed-dozens-of-wireless-earbuds-and-this-i",
+      "publishedAt": "2025-11-27T01:00:15+00:00",
+      "date": "2025-11-27 01:00:15",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/technics-eat-az100-feature-1.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2025-11-27/ive-reviewed-dozens-of-wireless-earbuds-and-this-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SNS INSIDER PVT. LTD.急速な自動化とAIの統合により、世界のサービスロボット市場は2032年までに1,468.2億米ドルに達する見込み",
+      "description": "The service robotics market continues to grow at a strong pace as industries around the world accelerate the adoption of intelligent robotic systems to improve operational efficiency and alleviate labor shortages. According to the latest market valuation, the…",
+      "slug": "sns-insider-pvt-ltd急速な自動化とaiの統合により世界のサービスロボット市場は20",
+      "publishedAt": "2025-11-27T01:00:00+00:00",
+      "date": "2025-11-27 01:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "url": "/tech-news/2025-11-27/sns-insider-pvt-ltd急速な自動化とaiの統合により世界のサービスロボット市場は20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Cutting-Edge Space Tech Uncovers Major Lithium Target in Quebec",
+      "description": "Australian space company Fleet Space has used a satellite-enabled exploration platform to uncover a large lithium deposit in Quebec, demonstrating how these space vehicles can be used to expedite and streamline the mineral exploration process. According to Fl…",
+      "slug": "cutting-edge-space-tech-uncovers-major-lithium-tar",
+      "publishedAt": "2025-11-27T01:00:00+00:00",
+      "date": "2025-11-27 01:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-26_43aedd0hkj.jpg",
+      "url": "/tech-news/2025-11-27/cutting-edge-space-tech-uncovers-major-lithium-tar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How CBRE powers unified property management search and digital assistant using Amazon Bedrock",
+      "description": "In this post, CBRE and AWS demonstrate how they transformed property management by building a unified search and digital assistant using Amazon Bedrock, enabling professionals to access millions of documents and multiple databases through natural language que…",
+      "slug": "how-cbre-powers-unified-property-management-search",
+      "publishedAt": "2025-11-27T00:56:27+00:00",
+      "date": "2025-11-27 00:56:27",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-19072-arch-2-1260x606.png",
+      "url": "/tech-news/2025-11-27/how-cbre-powers-unified-property-management-search/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Brands And The Business Of Emotion",
       "description": "An exploration of how brands build loyalty by responding to human emotion. It covers customer experience, attentive listening, and balancing AI with human awareness.",
@@ -363,24 +777,6 @@
       "people": []
     },
     {
-      "title": "Jensen Huang Tells All NVIDIA Staff: 'Use AI For Every Task' — And Insists Jobs Will Stay",
-      "description": "Nvidia CEO Jensen Huang has issued a strict mandate to all employees: 'Use AI for every task.' Despite industry-wide job anxiety, Huang insists this wholesale adoption is tied to growth, not downsizing.",
-      "slug": "jensen-huang-tells-all-nvidia-staff-use-ai-for-eve",
-      "publishedAt": "2025-11-26T23:09:27+00:00",
-      "date": "2025-11-26 23:09:27",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d.ibtimes.com/en/full/4635442/nvidia.jpg",
-      "url": "/tech-news/2025-11-26/jensen-huang-tells-all-nvidia-staff-use-ai-for-eve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nathanael Andrews",
       "description": "Read all of the posts by Nathanael Andrews on Techdirt",
       "slug": "nathanael-andrews",
@@ -615,24 +1011,6 @@
       "people": []
     },
     {
-      "title": "I've worn most 2025 AI smart glasses (including Meta Ray-Bans) - and these are the most comfortable",
-      "description": "The most powerful aspect of the new Even Realities glasses may be their limitations.",
-      "slug": "ive-worn-most-2025-ai-smart-glasses-including-meta",
-      "publishedAt": "2025-11-26T21:19:00+00:00",
-      "date": "2025-11-26 21:19:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b3c9ad532b9a8a3799b1e4b7cef45a4a27db015e/2025/11/26/e39a0e52-d51c-4c6d-a567-7503702e804a/even-g2-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-26/ive-worn-most-2025-ai-smart-glasses-including-meta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nutanix to Present at Upcoming Investor Conference",
       "description": "Nutanix announced that its management will present at Barclays 23rd Annual Global Technology Conference on Thursday, December 11, 2025 at 11:35 AM PST.......",
       "slug": "nutanix-to-present-at-upcoming-investor-conference",
@@ -759,24 +1137,6 @@
       "people": []
     },
     {
-      "title": "JustiGuide wants to use AI to help people navigate the U.S. immigration system  | TechCrunch",
-      "description": "The startup uses AI to help immigrants understand the system, connect with lawyers, and reduce associated costs.",
-      "slug": "justiguide-wants-to-use-ai-to-help-people-navigate",
-      "publishedAt": "2025-11-26T20:32:56+00:00",
-      "date": "2025-11-26 20:32:56",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-992930218.jpg?resize=1200,800",
-      "url": "/tech-news/2025-11-26/justiguide-wants-to-use-ai-to-help-people-navigate/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Upwind Recognized in ISMG's 2025 CNAPP Market Guide, Placed in Top-Right Quadrant",
       "description": "ISMG's Apollo AI engine highlights Upwind's runtime-first architecture and strong market presence SAN FRANCISCO, Nov. 26, 2025 /PRNewswire/ -- Upwind, the next generation runtime-first cloud security platform, announced its inclusion in the newly released Inf…",
       "slug": "upwind-recognized-in-ismgs-2025-cnapp-market-guide",
@@ -898,24 +1258,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Judge’s note on immigration agents using AI raises accuracy and privacy concerns",
-      "description": "A federal judge called out an immigration enforcement agent for using artificial intelligence to write the narrative of a use-of-force report.",
-      "slug": "judges-note-on-immigration-agents-using-ai-raises-",
-      "publishedAt": "2025-11-26T19:43:39+00:00",
-      "date": "2025-11-26 19:43:39",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/immigrationcrackdown-1-1024x683.jpg",
-      "url": "/tech-news/2025-11-26/judges-note-on-immigration-agents-using-ai-raises/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PBS"
       },
       "companies": [],
       "people": []
@@ -1227,24 +1569,6 @@
       "people": []
     },
     {
-      "title": "Managed Network Services (MNS): A Global Market Overview to 2030 Featuring Detailed Analysis of 40+ Industry Players",
-      "description": "The MNS market offers growth opportunities as enterprises transition to agile, scalable solutions for hybrid work, cloud adoption, and compliance. Key areas include SD-WAN, SASE, NaaS models, and AI/ML integration. North America leads, while Asia-Pacific show…",
-      "slug": "managed-network-services-mns-a-global-market-overv",
-      "publishedAt": "2025-11-26T17:21:00+00:00",
-      "date": "2025-11-26 17:21:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-11-26/managed-network-services-mns-a-global-market-overv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "(PR) Lexar Launches Industry's First AI Storage Core Cards with Hot-Swap Design",
       "description": "As AI computing moves rapidly from the cloud to the edge, devices such as AI PCs, intelligent vehicles, and robotics face mounting storage challenges: real-time multimodal data throughput, extreme random I/O workloads, environmental reliability requirements, …",
       "slug": "pr-lexar-launches-industrys-first-ai-storage-core-",
@@ -1258,24 +1582,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Techpowerup.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Luminar Neo 1.25.1.15981",
-      "description": "Description: AI-driven creative image editor. A creative image editor to bring your ideas to life. Have you ever wanted to achieve more with your images? Luminar Neo is an innovative image editor powered by AI technologies of the future that simplifies comple…",
-      "slug": "luminar-neo-125115981",
-      "publishedAt": "2025-11-26T16:13:44+00:00",
-      "date": "2025-11-26 16:13:44",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-26/luminar-neo-125115981/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rlsbb.to"
       },
       "companies": [],
       "people": []
@@ -1348,24 +1654,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CryptoSlate"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Meet Open Knowledge’s Digital Public Goods",
-      "description": "The Open Knowledge Foundation is the proud creator and one of the maintainers of two officially recognised digital public goods (DPGs): CKAN and Open Data Editor (ODE).\nThe post Meet Open Knowledge’s Digital Public Goods first appeared on Open Knowledge Blog.",
-      "slug": "meet-open-knowledges-digital-public-goods",
-      "publishedAt": "2025-11-26T16:01:15+00:00",
-      "date": "2025-11-26 16:01:15",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://blog.okfn.org/wp-content/uploads/2025/11/CKAN-ODE-DPGs-thumb.png",
-      "url": "/tech-news/2025-11-26/meet-open-knowledges-digital-public-goods/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Okfn.org"
       },
       "companies": [],
       "people": []
@@ -1749,24 +2037,6 @@
       "people": []
     },
     {
-      "title": "Justice dept. requires Realpage end sharing competitively sensitive information",
-      "description": "The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against RealPage Inc. as part of its ongoing enforcement against algorithmic coordination, information sharing, and other anticompetitive practi…",
-      "slug": "justice-dept-requires-realpage-end-sharing-competi",
-      "publishedAt": "2025-11-26T14:46:05+00:00",
-      "date": "2025-11-26 14:46:05",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
-      "url": "/tech-news/2025-11-26/justice-dept-requires-realpage-end-sharing-competi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Justice.gov"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Saudi Arabia’s Push For AI Remains A Challenge",
       "description": "Saudi Arabia, which currently lags behind AI field leaders China and the U.S., aims to become a major player in the global AI and data infrastructure race.",
       "slug": "saudi-arabias-push-for-ai-remains-a-challenge",
@@ -1812,24 +2082,6 @@
       "category": "tech",
       "urlToImage": "https://d.ibtimes.com/en/full/4635279/zoom-video-conferencing.png",
       "url": "/tech-news/2025-11-26/zoom-wont-be-worth-235b-today-if-not-for-a-long-di/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Meta Glasses Privacy: Can You Trust Wearable Tech with Your Data?",
-      "description": "Explore critical Meta Glasses privacy issues, wearable tech security risks, and how data protection by Meta impacts user safety in smart glasses technology today.",
-      "slug": "meta-glasses-privacy-can-you-trust-wearable-tech-w",
-      "publishedAt": "2025-11-26T12:23:07+00:00",
-      "date": "2025-11-26 12:23:07",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d.ibtimes.com/en/full/4635281/meta-glasses.png",
-      "url": "/tech-news/2025-11-26/meta-glasses-privacy-can-you-trust-wearable-tech-w/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -1929,24 +2181,6 @@
       "people": []
     },
     {
-      "title": "Leveraging the Power of Play to Innovate!",
-      "description": "GUEST POST from Janet Sernack One of my most potent memories from my career in organizational learning and development was the power of play as an effective adult learning method during a “Money and You” workshop with Robert Kiyosaki, the author of Rich Dad, …",
-      "slug": "leveraging-the-power-of-play-to-innovate",
-      "publishedAt": "2025-11-26T12:00:00+00:00",
-      "date": "2025-11-26 12:00:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-26/leveraging-the-power-of-play-to-innovate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bradenkelley.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Notice: Research on cyber security in supplier management and procurement",
       "description": "The government is carrying out research on cyber security in supplier management and procurement.",
       "slug": "notice-research-on-cyber-security-in-supplier-mana",
@@ -2019,24 +2253,6 @@
       "people": []
     },
     {
-      "title": "Meru Pravinya 2025: 480 Young Innovators Reimagine the Future with AI & Robotics",
-      "description": "Education News: Meru International School successfully hosted Meru Pravinya 2025, the flagship Entrepreneurship Ideathon under the M-CLAP (Meru Career, Leadership &am.",
-      "slug": "meru-pravinya-2025-480-young-innovators-reimagine-",
-      "publishedAt": "2025-11-26T11:41:21+00:00",
-      "date": "2025-11-26 11:41:21",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-125588222,width-1070,height-580,imgsize-149222,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "url": "/tech-news/2025-11-26/meru-pravinya-2025-480-young-innovators-reimagine/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "US Data Center Construction Industry Report 2025: Market to Grow Rapidly Through 2030, Driven by Cloud Expansion, Digital Transformation, and Demand for Scalable, Energy-Efficient Infrastructure",
       "description": "The United States Data Center Construction Market is projected to surge from $17.01 billion in 2024 to $28.95 billion by 2033, growing at a CAGR of 6.09%. This growth is driven by cloud computing, digital transformation, and the rising demand for scalable, en…",
       "slug": "us-data-center-construction-industry-report-2025-m",
@@ -2068,24 +2284,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "I’ve Got Nothing for You When It Comes To Target (TGT), Says Jim Cramer",
-      "description": "We recently published 11 Stocks Jim Cramer Shared His Insights On. Target Corporation (NYSE:TGT) is one of the stocks Jim Cramer discussed. While Cramer has ...",
-      "slug": "ive-got-nothing-for-you-when-it-comes-to-target-tg",
-      "publishedAt": "2025-11-26T11:31:39+00:00",
-      "date": "2025-11-26 11:31:39",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/78be652c7149489f8fd0b4a63238f5d4",
-      "url": "/tech-news/2025-11-26/ive-got-nothing-for-you-when-it-comes-to-target-tg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
@@ -2454,63 +2652,6 @@
       "people": []
     },
     {
-      "title": "Poslechněte si: Jak jedna komunitní vysoká škola využívá nástroje s umělou inteligencí pro analýzu dat",
-      "description": "Poslechněte si: Jak jedna komunitní vysoká škola využívá nástroje s umělou inteligencí pro analýzu dat\n\nAshley Mowreader  \nStředa, 26. 11. 2025, 03:00\n\nRubrika Voices of Student Success od Inside Higher Ed diskutuje o tom, jak lze umělou inteligenci využít ke zlepšení prediktivní analýzy a získání vhledu do…",
-      "slug": "listen-how-one-community-college-is-embracing-ai-p",
-      "publishedAt": "2025-11-26T08:00:00+00:00",
-      "date": "2025-11-26 08:00:00",
-      "importance": 3,
-      "category": "ai ve vzdělávání",
-      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-11/d8f9d09b-9d72-4b54-b168-f8c91d413fd1.jpeg?itok=2R1lUKGk",
-      "url": "/tech-news/2025-11-26/listen-how-one-community-college-is-embracing-ai-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Inside Higher Ed"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Minisforum G1 Pro Gaming PC je tenčí než PS5 Pro a přesto obsahuje 16jádrový Ryzen 9 8945HX, GPU NVIDIA RTX 5060 a až 300W chlazení",
-      "description": "Minisforum představil svůj nový herní počítač G1 Pro s tenkým designem a výkonným hardwarem. Minisforum G1 Pro nabízí štíhlou estetiku, výkonný hardware a globální cenovku 1430 USD.",
-      "slug": "minisforum-g1-pro-gaming-pc-is-slimmer-than-a-ps5-",
-      "publishedAt": "2025-11-26T07:50:06+00:00",
-      "date": "2025-11-26 07:50:06",
-      "importance": 3,
-      "category": "herní hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/G1-Pro-Unleash-the-Power-for-Gamer-and-Creator.jpg",
-      "url": "/tech-news/2025-11-26/minisforum-g1-pro-gaming-pc-is-slimmer-than-a-ps5/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Lincah získává Orderfaz pro posílení infrastruktury sociálního e-commerce v jihovýchodní Asii",
-      "description": "Integrací technologie a ekosystému prodejců společnosti Orderfaz posouvá Lincah svou misi budovat jednotnější, škálovatelnější a regionálně připravenou infrastrukturu, která posiluje sociální prodejce a urychluje rozvoj creator-commerce ekonomiky v regionu.",
-      "slug": "lincah-acquires-orderfaz-to-strengthen-southeast-a",
-      "publishedAt": "2025-11-26T07:45:52+00:00",
-      "date": "2025-11-26 07:45:52",
-      "importance": 3,
-      "category": "e-commerce",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/xbv590/article70324663.ece/alternates/LANDSCAPE_1200/Lincah_Acquires_Orderfaz_to_Strengthen_Southeast_Asia_s_Social_Commerce_Infrastructure.jpg",
-      "url": "/tech-news/2025-11-26/lincah-acquires-orderfaz-to-strengthen-southeast-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Lincah",
-        "Orderfaz"
-      ],
-      "people": []
-    },
-    {
       "title": "Warner uzavřel právní spor se společností zabývající se AI hudbou a spustil společný podnik",
       "description": "Hudební vydavatelství spolupracuje s technologickým start-upem Suno po vyrovnání soudního sporu s touto společností.",
       "slug": "warner-settles-lawsuit-with-ai-music-firm-and-laun",
@@ -2570,24 +2711,6 @@
       "people": []
     },
     {
-      "title": "Kovant wants to become the nerve center of enterprise agentic AI operations after pre-seed funding",
-      "description": "Swedish agentic operations startup Kovant, officially known as Kovan AB, today is launching its platform globally after closing on $1.5 million in a pre-seed funding round led by J12 Ventures. The round also saw participation from Ampli, Green Ventures and a …",
-      "slug": "kovant-wants-to-become-the-nerve-center-of-enterpr",
-      "publishedAt": "2025-11-26T07:00:43+00:00",
-      "date": "2025-11-26 07:00:43",
-      "importance": 4,
-      "category": "agentic ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Screenshot-from-2025-11-25-10-36-30.png",
-      "url": "/tech-news/2025-11-26/kovant-wants-to-become-the-nerve-center-of-enterpr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Uber rolls out driverless robotaxis in Abu Dhabi",
       "description": "Uber's launch in the United Arab Emirates capital represents its fourth market offering fully autonomous vehicle service.",
       "slug": "uber-rolls-out-driverless-robotaxis-in-abu-dhabi",
@@ -2605,24 +2728,6 @@
       "companies": [
         "Uber"
       ],
-      "people": []
-    },
-    {
-      "title": "Mirana Toys bags ₹57.5-crore in Series A funding led by Arkam Ventures",
-      "description": "Toy-tech start-up Mirana Toys, has bagged ₹57.5 crore in Series A funding led by Arkam Ventures, with participation from Accel, Info Edge, and Riverwalk Holdings.",
-      "slug": "mirana-toys-bags-575-crore-in-series-a-funding-led",
-      "publishedAt": "2025-11-26T06:53:32+00:00",
-      "date": "2025-11-26 06:53:32",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/9f8k0b/article70321162.ece/alternates/LANDSCAPE_1200/PO23_Money_bag.jpg",
-      "url": "/tech-news/2025-11-26/mirana-toys-bags-575-crore-in-series-a-funding-led/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -2842,24 +2947,6 @@
       "people": []
     },
     {
-      "title": "‘Kids are quite conformist nowadays’: Teachers on Irish children and Irish education",
-      "description": "Three teachers reflect on their experience of Ireland’s past and present and their hopes for the future",
-      "slug": "kids-are-quite-conformist-nowadays-teachers-on-iri",
-      "publishedAt": "2025-11-26T06:00:00+00:00",
-      "date": "2025-11-26 06:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/5QQHOCPGX5HPVN53WBUGR6WB4Y.jpg?smart=true&auth=46a7727641882fe7c0e1b15d6102422440dce23729d73741e9d741030a9e8104&width=1200&height=630",
-      "url": "/tech-news/2025-11-26/kids-are-quite-conformist-nowadays-teachers-on-iri/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Letter — Stop Hacklore!",
       "description": "",
       "slug": "the-letter-stop-hacklore",
@@ -2968,24 +3055,6 @@
       "people": []
     },
     {
-      "title": "Major border security restructuring and upgrade underway, Dewan Rakyat told",
-      "description": "KUALA LUMPUR: Malaysia is tightening security checks at all entry points through a major restructuring of enforcement agencies, upgraded scanning equipment, wider use of artificial intelligence (AI) and stricter screening of frontline officers. Read full story",
-      "slug": "major-border-security-restructuring-and-upgrade-un",
-      "publishedAt": "2025-11-26T04:47:00+00:00",
-      "date": "2025-11-26 04:47:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/26/3640952.jpg",
-      "url": "/tech-news/2025-11-26/major-border-security-restructuring-and-upgrade-un/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Modern Luxury: The Evolution of a Sector, Its Market, and Its Habits",
       "description": "In recent years, the concept of luxury has undergone a radical transformation. Luxury is no longer something you own; it’s no longer defined by price, exclusivity, or brand affiliation. Luxury is now experienced. It moves seamlessly between heritage and conte…",
       "slug": "modern-luxury-the-evolution-of-a-sector-its-market",
@@ -2999,24 +3068,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Brandingmag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "James Bond to Batman: Oscar Winner Chris Corbould Breaks Down the Art of Practical Spectacle at International Film Festival of India",
-      "description": "At the International Film Festival of India, Oscar-winning special effects supervisor Chris Corbould pulled back the curtain on four decades of big-screen engineering — from tank chases and truck flips to collapsing houses and controlled explosions — insistin…",
-      "slug": "james-bond-to-batman-oscar-winner-chris-corbould-b",
-      "publishedAt": "2025-11-26T04:15:18+00:00",
-      "date": "2025-11-26 04:15:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/11/Ravi-Kottarakka-Chris-Courbould.jpg?w=1000&h=563&crop=1",
-      "url": "/tech-news/2025-11-26/james-bond-to-batman-oscar-winner-chris-corbould-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Variety"
       },
       "companies": [],
       "people": []
@@ -3130,24 +3181,6 @@
       "people": []
     },
     {
-      "title": "Micron to expand advanced DRAM development at Hiroshima site",
-      "description": "Micron Technology announced plans to expand its DRAM memory development at its Hiroshima facility, with significant backing from the Japanese government. This move aims to boost output for high-performance and AI chip applications, according to Nikkei.",
-      "slug": "micron-to-expand-advanced-dram-development-at-hiro",
-      "publishedAt": "2025-11-26T03:49:07+00:00",
-      "date": "2025-11-26 03:49:07",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251126vl207_files/2_2b.jpg",
-      "url": "/tech-news/2025-11-26/micron-to-expand-advanced-dram-development-at-hiro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "RM150mil in smart tech investments approved, Dewan Rakyat told",
       "description": "KUALA LUMPUR: About RM150mil in smart technology and automation investments has been approved under the Industry4WRD fund as part of Malaysia's push to accelerate industrial transformation, says Investment, Trade and Industry Minister Tengku Datuk Seri Zafrul…",
       "slug": "rm150mil-in-smart-tech-investments-approved-dewan-",
@@ -3207,29 +3240,6 @@
       ],
       "people": [
         "Tony Chen"
-      ]
-    },
-    {
-      "title": "Vedení společností FF a FX se zúčastnilo summitu v Ras Al Khaimah, první dodávka FX Super One pro Andrés Iniestu v Dubaji 27. listopadu",
-      "description": "Společnosti Faraday Future a Faraday X představily své plány na rozvoj ekosystému elektrické mobility v Blízkém východě a oznámily první dodávku vozidla FX Super One fotbalové hvězdě Andrésovi Iniestovi.",
-      "slug": "leaders-from-ff-and-fx-attend-the-ras-al-khaimah-i",
-      "publishedAt": "2025-11-26T02:36:00+00:00",
-      "date": "2025-11-26 02:36:00",
-      "importance": 3,
-      "category": "elektromobilita",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4ba28ea7-306e-4ce1-8f71-e9977969ad60",
-      "url": "/tech-news/2025-11-26/leaders-from-ff-and-fx-attend-the-ras-al-khaimah-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Faraday Future",
-        "FX"
-      ],
-      "people": [
-        "Andrés Iniesta"
       ]
     },
     {
@@ -3365,26 +3375,6 @@
         "name": "GlobeNewswire"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "LightSpeed Photonics získal 6,5 milionu dolarů na vývoj optických propojení pro AI a HPC",
-      "description": "Hyderabadský startup LightSpeed Photonics získal 6,5 milionu dolarů v rámci předserie A na vývoj energeticky úsporných a kompaktních optických propojení pro datová centra zaměřená na umělou inteligenci a vysokovýkonné výpočty.",
-      "slug": "lightspeed-photonics-raises-65-million",
-      "publishedAt": "2025-11-26T01:59:48+00:00",
-      "date": "2025-11-26 01:59:48",
-      "importance": 3,
-      "category": "startupy",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/srcrjp/article70283296.ece/alternates/LANDSCAPE_1200/IMG_bl22_Startups_2_1_USE1AE41.jpg",
-      "url": "/tech-news/2025-11-26/lightspeed-photonics-raises-65-million/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "LightSpeed Photonics"
-      ],
       "people": []
     },
     {
