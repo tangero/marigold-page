@@ -16,7 +16,7 @@ title: "⚒️ Opravdu AI nahrazuje juniorní pracovníky?"
 thumbnail: https://www.marigold.cz/assets/ai-junior-graf.jpg
 ---
 
-Velmi důležitá data a  graf přinesl článek [Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555&utm_source=chatgpt.com) od autorů Guy Lichtingera a Seyed Mahdi Hosseiniho z Harvardu, který vyšel začátkem září.
+Velmi důležitá data a  graf přinesl článek [Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555) od autorů Guy Lichtingera a Seyed Mahdi Hosseiniho z Harvardu, který vyšel začátkem září.
 
 [Graf](/assets/ai-junior-graf.jpg)
 _Graf překreslil The Economist…_
