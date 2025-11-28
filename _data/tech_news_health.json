@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-28T04:20:26.670311+00:00",
+  "timestamp": "2025-11-28T08:21:05.614889+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.09,
+      "newest_age_hours": 24.13,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 356.0,
-      "median_length": 364.0
+      "avg_length": 351.0,
+      "median_length": 358.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,25 +26,34 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.0,
-      "invalid_count": 0,
-      "most_common_missing_fields": {},
-      "sample_invalid_articles": []
+      "error_rate": 0.01,
+      "invalid_count": 1,
+      "most_common_missing_fields": {
+        "description": 1
+      },
+      "sample_invalid_articles": [
+        {
+          "file": "2025-11-27-micron-technology-stock-is-mu-outperforming-the-te.md",
+          "errors": [
+            "chybí description"
+          ]
+        }
+      ]
     }
   },
   "metrics": {
-    "total_articles": 6025,
+    "total_articles": 6071,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.09,
+    "newest_article_age_hours": 24.13,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 356.0,
-    "median_content_length": 364.0,
-    "articles_with_images_pct": 93.0,
+    "avg_content_length": 351.0,
+    "median_content_length": 358.0,
+    "articles_with_images_pct": 92.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.0
+    "front_matter_error_rate": 0.01
   },
   "alerts": [
     {
