@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-29T16:17:05.233531+00:00",
+  "timestamp": "2025-11-29T20:17:09.454060+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.03,
+      "newest_age_hours": 24.1,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 367.0,
-      "median_length": 376.0
+      "avg_length": 355.0,
+      "median_length": 352.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,39 +26,30 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.01,
-      "invalid_count": 1,
-      "most_common_missing_fields": {
-        "description": 1
-      },
-      "sample_invalid_articles": [
-        {
-          "file": "2025-11-28-how-is-amphenols-stock-performance-compared-to-oth.md",
-          "errors": [
-            "chybí description"
-          ]
-        }
-      ]
+      "error_rate": 0.0,
+      "invalid_count": 0,
+      "most_common_missing_fields": {},
+      "sample_invalid_articles": []
     }
   },
   "metrics": {
-    "total_articles": 6478,
+    "total_articles": 6538,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.03,
+    "newest_article_age_hours": 24.1,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 367.0,
-    "median_content_length": 376.0,
-    "articles_with_images_pct": 100.0,
+    "avg_content_length": 355.0,
+    "median_content_length": 352.0,
+    "articles_with_images_pct": 96.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.01
+    "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.1h (threshold: 6h)"
     },
     {
       "level": "WARNING",
