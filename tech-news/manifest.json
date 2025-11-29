@@ -1,7 +1,1015 @@
 {
-  "generated": "2025-11-29T12:23:51.566284+00:00",
+  "generated": "2025-11-29T16:17:05.108748+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Researchers Hack DeepSeek to Speak Freely About Tiananmen Square",
+      "description": "It's far more efficient when not being bogged down by all that censorship.\nThe post Researchers Hack DeepSeek to Speak Freely About Tiananmen Square appeared first on Futurism.",
+      "slug": "researchers-hack-deepseek-to-speak-freely-about-ti",
+      "publishedAt": "2025-11-28T16:15:00+00:00",
+      "date": "2025-11-28 16:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/hack-deepseek-censorship-tiananmen-square.jpg?quality=85&w=1200",
+      "url": "/tech-news/2025-11-28/researchers-hack-deepseek-to-speak-freely-about-ti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nikhil Kamath hints at Elon Musk appearance on his podcast",
+      "description": "The cofounder of stock brokerage firm Zerodha, this year, interacted with some of the biggest names in Indian and global business, including Microsoft founder Bill Gates, YouTube chief executive Neal Mohan, Netflix co-CEO Ted Sarandos, Infosys' Nandan Nilekan…",
+      "slug": "nikhil-kamath-hints-at-elon-musk-appearance-on-his",
+      "publishedAt": "2025-11-28T16:09:38+00:00",
+      "date": "2025-11-28 16:09:38",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-40610,resizemode-75,msid-125641881/tech/technology/nikhil-kamath-teases-elon-musk-appearance-on-his-podcast.jpg",
+      "url": "/tech-news/2025-11-28/nikhil-kamath-hints-at-elon-musk-appearance-on-his/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "This budget Asus laptop with a Ryzen CPU and 16GB RAM is over 50% off",
+      "description": "If you’ve been waiting for an unbeatable deal on a budget laptop this Black Friday, here it is. Right now, you can get a new Asus 16-inch laptop, complete with the latest Ryzen processor and 16GB of RAM, for just $349.99 at Best Buy. That’s $400 off the retai…",
+      "slug": "this-budget-asus-laptop-with-a-ryzen-cpu-and-16gb-",
+      "publishedAt": "2025-11-28T16:06:29+00:00",
+      "date": "2025-11-28 16:06:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/image_4ce778-1.png?w=1024",
+      "url": "/tech-news/2025-11-28/this-budget-asus-laptop-with-a-ryzen-cpu-and-16gb/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Europe Behavioral Health Market Size to Capture USD 63.23 Billion by 2034",
+      "description": "The Europe behavioral health market size was valued at USD 34.67 billion in 2024 and is predicted to hit around USD 63.23 billion by 2034, rising at a 6.19% CAGR, a study published by Towards Healthcare a sister firm of Precedence Research. The Europe behavio…",
+      "slug": "europe-behavioral-health-market-size-to-capture-us",
+      "publishedAt": "2025-11-28T16:00:00+00:00",
+      "date": "2025-11-28 16:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2025-11-28/europe-behavioral-health-market-size-to-capture-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Stock market ends November on high note despite outage",
+      "description": "US stock markets are finishing the week on a positive note as investors conclude both the final trading day of November and the shortened Black Friday session. Trading wrapped at 1 p.m. Eastern Time rather than the standard 4 p.m. close, a concession to the o…",
+      "slug": "stock-market-ends-november-on-high-note-despite-ou",
+      "publishedAt": "2025-11-28T15:58:11+00:00",
+      "date": "2025-11-28 15:58:11",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2586077655-scaled.jpg",
+      "url": "/tech-news/2025-11-28/stock-market-ends-november-on-high-note-despite-ou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uh-oh, accounting concerns circle the AI boom",
+      "description": "As investors start to care about returns from all the spending on artificial intelligence, accounting is becoming a big topic of concern. In his Breaking Analysis this week, Dave Vellante makes the case that GPUs have plenty of legs, quelling most concerns th…",
+      "slug": "uh-oh-accounting-concerns-circle-the-ai-boom",
+      "publishedAt": "2025-11-28T15:53:47+00:00",
+      "date": "2025-11-28 15:53:47",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/accountants-ai-1.png",
+      "url": "/tech-news/2025-11-28/uh-oh-accounting-concerns-circle-the-ai-boom/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Can Dutch universities do without Microsoft?",
+      "description": "Can Dutch higher education part ways with Microsoft? The sector is trying to break free, and alternatives are being explored here and there. At the same time, more and more tasks are being completed by Microsoft tools.",
+      "slug": "can-dutch-universities-do-without-microsoft",
+      "publishedAt": "2025-11-28T15:53:39+00:00",
+      "date": "2025-11-28 15:53:39",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://dub.uu.nl/sites/default/files/styles/large/public/media/images/Microsoft%203%20foto%20Pixabay.jpg?itok=Xz27J1q6",
+      "url": "/tech-news/2025-11-28/can-dutch-universities-do-without-microsoft/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dub.uu.nl"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Shark FlexStyle Is 43% Off For Black Friday — The Lowest It’s Ever Been",
+      "description": "Shark Beauty’s FlexStyle multi-styler has quickly become one of the most popular hair tools in the market, positioning itself as a serious rival to higher-priced hair devices such as Dyson. And now, it’s on. sale for an unbeatable $199 for Black Friday — a 43…",
+      "slug": "the-shark-flexstyle-is-43-off-for-black-friday-the",
+      "publishedAt": "2025-11-28T15:52:13+00:00",
+      "date": "2025-11-28 15:52:13",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/11/shark-flexstyle-black-friday-deal.png?w=1000&h=563&crop=1",
+      "url": "/tech-news/2025-11-28/the-shark-flexstyle-is-43-off-for-black-friday-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Variety"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akume urges Africa to embrace emerging technologies for sustainable energy",
+      "description": "SGF George Akume urges Africa to adopt emerging technologies for sustainable energy, warning the continent must not be sidelined in the global shift.\n\nRead More: https://punchng.com/akume-urges-africa-to-embrace-emerging-technologies-for-sustainable-energy/",
+      "slug": "akume-urges-africa-to-embrace-emerging-technologie",
+      "publishedAt": "2025-11-28T15:51:59+00:00",
+      "date": "2025-11-28 15:51:59",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/06/16171903/n.jpeg",
+      "url": "/tech-news/2025-11-28/akume-urges-africa-to-embrace-emerging-technologie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Brighten the holidays with buy one get one free Christmas lights",
+      "description": "Need some holiday string lights? How about permanent outdoor lights? And maybe some festive indoor curtain lights? You can get them all in Govee’s Christmas holiday bundle, and it’s selling for 25 percent off—unless you’re in the BOGO know, that is. \r\n\n\n\n\nHer…",
+      "slug": "brighten-the-holidays-with-buy-one-get-one-free-ch",
+      "publishedAt": "2025-11-28T15:49:52+00:00",
+      "date": "2025-11-28 15:49:52",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Govee-Christmas-Lights-Set.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-11-28/brighten-the-holidays-with-buy-one-get-one-free-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I Don't Leave Home Without This Anker Charger, and It's Almost Half Off for Black Friday",
+      "description": "I snap the Anker 622 MagGo to the back of my iPhone and never worry about my battery.",
+      "slug": "i-dont-leave-home-without-this-anker-charger-and-i",
+      "publishedAt": "2025-11-28T15:49:00+00:00",
+      "date": "2025-11-28 15:49:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/cf5a8920a178da1a540f1ee93ddcb2838a7fff93/hub/2025/11/21/47fbe39a-f99a-4b71-b4c9-914980d501b2/anker-622-mag.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-28/i-dont-leave-home-without-this-anker-charger-and-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung’s 2025 Galaxy Buds 3 FE hit $110 Black Friday Amazon all-time low, or Pro set at $120 off",
+      "description": "While we are still tracking a major $120 Black Friday price drop on Samsung Galaxy Buds 3 Pro, we are ready to feature a new Amazon all-time low landing on the more affordable 2025 model Galaxy Buds 3 FE. Alongside the bonus 2-year warranty Amazon ships them …",
+      "slug": "samsungs-2025-galaxy-buds-3-fe-hit-110-black-frida",
+      "publishedAt": "2025-11-28T15:45:47+00:00",
+      "date": "2025-11-28 15:45:47",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Samsung-2025-Galaxy-Buds-3-FE-Black-Friday-Amazon-a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-28/samsungs-2025-galaxy-buds-3-fe-hit-110-black-frida/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "It's Time For Big Savings On Smartwatches and Fitness Trackers With These Black Friday Deals From Apple, Garmin, Samsung, and More",
+      "description": "Pick up an Apple Watch SE (2nd Gen) for just $129, a Fitbit for less than $70, and more.\nAmong the many Black Friday deals, we're seeing price slashes on top wearables from Apple, Garmin, Fitbit, Samsung, and more. Whether you're looking for expansive fitness…",
+      "slug": "its-time-for-big-savings-on-smartwatches-and-fitne",
+      "publishedAt": "2025-11-28T15:41:38+00:00",
+      "date": "2025-11-28 15:41:38",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/i/its-time-f/its-time-for-big-savings-on-smartwatches-and-fitness-tracker_m2kd.1200.jpg",
+      "url": "/tech-news/2025-11-28/its-time-for-big-savings-on-smartwatches-and-fitne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "U.S. stocks lift on the last day of November as Wall Street eagerly awaits the results of Black Friday",
+      "description": "Wall Street is operating on an abbreviated schedule Friday after being closed for the Thanksgiving holiday.",
+      "slug": "us-stocks-lift-on-the-last-day-of-november-as-wall",
+      "publishedAt": "2025-11-28T15:38:31+00:00",
+      "date": "2025-11-28 15:38:31",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/AP25328573825392-e1764344076888.jpg?resize=1200,600",
+      "url": "/tech-news/2025-11-28/us-stocks-lift-on-the-last-day-of-november-as-wall/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Medical Membranes Market worth $6.66 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "description": "DELRAY BEACH, Fla., Nov. 28, 2025 /PRNewswire/ -- The report \"Medical Membranes Market by Material (PSU, PES, PVDF, PTFE, PP, PAN, PA, Modified Acrylics), Process Technology (Ultrafiltration, Microfiltration, Nanofiltration), Application (Pharmaceutical Filtr…",
+      "slug": "medical-membranes-market-worth-666-billion-by-2030",
+      "publishedAt": "2025-11-28T15:30:00+00:00",
+      "date": "2025-11-28 15:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-28/medical-membranes-market-worth-666-billion-by-2030/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Feds launch AI register showing how the tech is being used in federal departments",
+      "description": "Treasury Board President Shafqat Ali announced Friday morning the federal government has launched its first public AI register that outlines how artificial intelligence is being used or tested within federal departments.",
+      "slug": "feds-launch-ai-register-showing-how-the-tech-is-be",
+      "publishedAt": "2025-11-28T15:30:00+00:00",
+      "date": "2025-11-28 15:30:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.cbc.ca/ais/f5801467-5821-4524-bcf4-fb187bf6aa32,1764272392671/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C117%2C8640%2C4860%29%3BResize%3D620",
+      "url": "/tech-news/2025-11-28/feds-launch-ai-register-showing-how-the-tech-is-be/",
+      "source": {
+        "emoji": "📰",
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "What Alphabet’s CEO Just Said Should Get Quantum Computing Investors Very Excited",
+      "description": "Quick Read\n \n \n Alphabet (GOOG, GOOGL) CEO Sundar Pichai compared quantum computing now to artificial intelligence five years ago before its explosive growth. \n \n IonQ (IONQ) achieved 99.99% fidelity with its trapped-ion technology and saw third-quarter reven…",
+      "slug": "what-alphabets-ceo-just-said-should-get-quantum-co",
+      "publishedAt": "2025-11-28T15:29:20+00:00",
+      "date": "2025-11-28 15:29:20",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/c54c3db6c18fc272_s.webp",
+      "url": "/tech-news/2025-11-28/what-alphabets-ceo-just-said-should-get-quantum-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Unexpected Therapy I Found on My Phone",
+      "description": "“Sometimes you will never know the value of a moment until it becomes a memory.” ~Dr. Seuss\nThe notification pops up on my phone: “Jason, we made a new memory reel for you.” I pause whatever I’m doing, probably something stressful involving deadlines or dishe…",
+      "slug": "the-unexpected-therapy-i-found-on-my-phone",
+      "publishedAt": "2025-11-28T15:26:35+00:00",
+      "date": "2025-11-28 15:26:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.tinybuddha.com/wp-content/uploads/2025/11/Therapy-in-phone-1024x683.png",
+      "url": "/tech-news/2025-11-28/the-unexpected-therapy-i-found-on-my-phone/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tinybuddha.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "America's most-used password in 2025 revealed",
+      "description": "Cybersecurity research shows weak passwords remain a major threat, with simple patterns and number sequences putting millions of accounts at risk.",
+      "slug": "americas-most-used-password-in-2025-revealed",
+      "publishedAt": "2025-11-28T15:18:08+00:00",
+      "date": "2025-11-28 15:18:08",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/man-works-on-laptop-computer.jpg",
+      "url": "/tech-news/2025-11-28/americas-most-used-password-in-2025-revealed/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "US stocks rise on last trading day of November",
+      "description": "Wall Street is operating on an abbreviated schedule Friday after being closed for the Thanksgiving holiday.",
+      "slug": "us-stocks-rise-on-last-trading-day-of-november",
+      "publishedAt": "2025-11-28T15:16:32+00:00",
+      "date": "2025-11-28 15:16:32",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/Financial_Markets_Wall_Street_25392.jpg?w=1024&h=682",
+      "url": "/tech-news/2025-11-28/us-stocks-rise-on-last-trading-day-of-november/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pions Takes 'Big Step on Path Toward AEI'",
+      "description": "Pions, previously named eDrilling, announced that it was 'taking another big step on the path toward Artificial Engineering Intelligence (AEI)'.",
+      "slug": "pions-takes-big-step-on-path-toward-aei",
+      "publishedAt": "2025-11-28T15:14:41+00:00",
+      "date": "2025-11-28 15:14:41",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Pions-Takes-Big-Step-on-Path-Toward-AEI-182409-1200x628.png",
+      "url": "/tech-news/2025-11-28/pions-takes-big-step-on-path-toward-aei/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rigzone"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "TV ad: NESCAFÉ Blend & Brew: Always Here For You",
+      "description": "Leo Thailand’s latest campaign, ‘Always Here for You’, delivers a heartwarming reminder of the irreplaceable comfort of human connection in a world increasingly captivated by technology. Created for NESCAFÉ Blend & Brew, the film highlights the simple, ground…",
+      "slug": "tv-ad-nescafé-blend-brew-always-here-for-you",
+      "publishedAt": "2025-11-28T15:13:50+00:00",
+      "date": "2025-11-28 15:13:50",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bestads-files.b-cdn.net/thumbs/0400281e21.jpg",
+      "url": "/tech-news/2025-11-28/tv-ad-nescafé-blend-brew-always-here-for-you/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bestadsontv.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Supply chain cyberattacks are becoming unmanageable - and UK businesses are paying the price",
+      "description": "In an era of global interdependence, supply chain threats have become one of the most pressing risks to business continuity.",
+      "slug": "supply-chain-cyberattacks-are-becoming-unmanageabl",
+      "publishedAt": "2025-11-28T15:11:12+00:00",
+      "date": "2025-11-28 15:11:12",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pNvZnS4EQCoYBG2inqCq5L-970-80.jpg",
+      "url": "/tech-news/2025-11-28/supply-chain-cyberattacks-are-becoming-unmanageabl/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "“Blows My Mind” – A Redditor Just Traded His Apple iPhone Air For An iPhone 14 Pro Max, Pockets $500 And Has Zero Regrets",
+      "description": "Buyer's remorse appears to be a perennial reality for the relatively few who chose to buy the new Apple iPhone Air, exacerbated by tons of negative coverage and the accompanying personal anecdotes that are now increasingly populating the disparate social medi…",
+      "slug": "blows-my-mind-a-redditor-just-traded-his-apple-iph",
+      "publishedAt": "2025-11-28T15:10:10+00:00",
+      "date": "2025-11-28 15:10:10",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/iPhone-Air-1.jpg",
+      "url": "/tech-news/2025-11-28/blows-my-mind-a-redditor-just-traded-his-apple-iph/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Evaluating Apple Against Peers In Technology Hardware, Storage & Peripherals Industry",
+      "description": "In today's rapidly changing and highly competitive business world, it is vital for investors and industry enthusiasts to carefully assess companies. In this article, we will perform a comprehensive industry comparison, evaluating Apple (NASDAQ:AAPL) against i…",
+      "slug": "evaluating-apple-against-peers-in-technology-hardw",
+      "publishedAt": "2025-11-28T15:06:55+00:00",
+      "date": "2025-11-28 15:06:55",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/14fe25cba83bb712_s.webp",
+      "url": "/tech-news/2025-11-28/evaluating-apple-against-peers-in-technology-hardw/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The race to regulate AI has sparked a federal vs state showdown | TechCrunch",
+      "description": "The fight over AI regulation isn't about the technology -- it's about whether Washington or the states get to set the rules, and what happens to consumers caught in between.",
+      "slug": "the-race-to-regulate-ai-has-sparked-a-federal-vs-s",
+      "publishedAt": "2025-11-28T15:02:20+00:00",
+      "date": "2025-11-28 15:02:20",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-848691518.jpg?resize=1200,800",
+      "url": "/tech-news/2025-11-28/the-race-to-regulate-ai-has-sparked-a-federal-vs-s/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The warehouse real estate sector is seeing a rebalance. Here's what to watch for",
+      "description": "After a pandemic-driven surge and subsequent pullback, warehouse real estate supply and demand is finally starting to come into balance.",
+      "slug": "the-warehouse-real-estate-sector-is-seeing-a-rebal",
+      "publishedAt": "2025-11-28T15:02:19+00:00",
+      "date": "2025-11-28 15:02:19",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108229936-1763736970903-gettyimages-2210819537-887.jpeg?v=1764190034&w=1920&h=1080",
+      "url": "/tech-news/2025-11-28/the-warehouse-real-estate-sector-is-seeing-a-rebal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Automatic Number Plate Recognition (ANPR) Systems Market Intelligence Report 2025-2030 - Intelligent Transportation and Smart Parking Drive ANPR Adoption Amidst Safety and Efficiency Demand",
+      "description": "The main market opportunities for the ANPR system include enhanced traffic law enforcement and road safety, demand for intelligent transportation systems, and smart parking solutions. Advancements in AI and ML improve accuracy, and drones expand ANPR implemen…",
+      "slug": "automatic-number-plate-recognition-anpr-systems-ma",
+      "publishedAt": "2025-11-28T15:01:00+00:00",
+      "date": "2025-11-28 15:01:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2025-11-28/automatic-number-plate-recognition-anpr-systems-ma/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Getting Started with the Claude Agent SDK",
+      "description": "Set up, build, and test agentic apps with Claude Code, powered by your locally installed Claude CLI and Claude Code subscription.",
+      "slug": "getting-started-with-the-claude-agent-sdk",
+      "publishedAt": "2025-11-28T15:00:42+00:00",
+      "date": "2025-11-28 15:00:42",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/awan_getting_started_claude_agent_sdk_2.png",
+      "url": "/tech-news/2025-11-28/getting-started-with-the-claude-agent-sdk/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Kdnuggets.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Selected Articles: Save Human Beings From the Abuse of Neurotechnologies",
+      "description": "Save Human Beings From the Abuse of Neurotechnologies\nBy Mojmir Babacek, November 27, 2025\nThe United Nations and the European Union warned against the possible abuse of neurotechnologies and artificial intelligence to control human behavior, but did not ackn…",
+      "slug": "selected-articles-save-human-beings-from-the-abuse",
+      "publishedAt": "2025-11-28T15:00:08+00:00",
+      "date": "2025-11-28 15:00:08",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/11/B_A_China_Taiwan_Japan.jpg",
+      "url": "/tech-news/2025-11-28/selected-articles-save-human-beings-from-the-abuse/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Deepak Chopra's new AI companion puts decades of wisdom 'in your pocket,' he says",
+      "description": "Deepak Chopra's new AI bot was modeled on decades of writings, research and lectures. \"I fed it all into my AI,\" he says.",
+      "slug": "deepak-chopras-new-ai-companion-puts-decades-of-wi",
+      "publishedAt": "2025-11-28T15:00:01+00:00",
+      "date": "2025-11-28 15:00:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108231070-1764004518791-gettyimages-2157982348-canneslions_240617_153740_rbord_vwhu7p7p.jpeg?v=1764004572&w=1920&h=1080",
+      "url": "/tech-news/2025-11-28/deepak-chopras-new-ai-companion-puts-decades-of-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Lead Optimization Services in Drug Discovery Market to Reach USD 10.26 Billion by 2034, Driven by Rising R&D Activity",
+      "description": "The global lead optimization services in drug discovery market size was valued at USD 4.26 billion in 2024 and is predicted to hit around USD 10.26 billion by 2034, rising at a 9.23% CAGR, a study published by Towards Healthcare a sister firm of Precedence Re…",
+      "slug": "lead-optimization-services-in-drug-discovery-marke",
+      "publishedAt": "2025-11-28T15:00:00+00:00",
+      "date": "2025-11-28 15:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2025-11-28/lead-optimization-services-in-drug-discovery-marke/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Army’s digital warfare shift deepens with AI Handbook, EKAM and PRAKSHEPAN",
+      "description": "Defence Minister Rajnath Singh flagged off a big AI leap at the Chanakya Defence Dialogue 2025 by launching several key digitisation initiatives",
+      "slug": "armys-digital-warfare-shift-deepens-with-ai-handbo",
+      "publishedAt": "2025-11-28T14:59:42+00:00",
+      "date": "2025-11-28 14:59:42",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/q1nkyk/article70335683.ece/alternates/LANDSCAPE_1200/20251128051L.jpg",
+      "url": "/tech-news/2025-11-28/armys-digital-warfare-shift-deepens-with-ai-handbo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "HarperCollins India to publish Navya Naveli Nanda & Samyak Chakrabarty’s new book The Map: A playbook to navigate the new world",
+      "description": "HarperCollins India to publish Navya Naveli Nanda & Samyak Chakrabarty’s new book The Map: A playbook to navigate the new world",
+      "slug": "harpercollins-india-to-publish-navya-naveli-nanda-",
+      "publishedAt": "2025-11-28T14:59:33+00:00",
+      "date": "2025-11-28 14:59:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/co4pip/article70334768.ece/alternates/LANDSCAPE_1200/Navya_Naveli_Nanda.jpg",
+      "url": "/tech-news/2025-11-28/harpercollins-india-to-publish-navya-naveli-nanda/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "What’s up with… Vodafone, Telecom Italia, mobile network security",
+      "description": "Vodafone fast-tracks its ‘enhanced-power’ initiativeTelecom Italia highlights smart infrastructure gainsGSMA berates state of mobile security regulations",
+      "slug": "whats-up-with-vodafone-telecom-italia-mobile-netwo",
+      "publishedAt": "2025-11-28T14:58:08+00:00",
+      "date": "2025-11-28 14:58:08",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/vodafone-source-ours-20703.jpeg?w=1200",
+      "url": "/tech-news/2025-11-28/whats-up-with-vodafone-telecom-italia-mobile-netwo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pixel 10 AirDrop Fix Revealed Despite October Update Chaos",
+      "description": "When software updates go sideways, it's never fun—and that's exactly what Pixel 10 owners experienced with the October 2025 update. But here's what makes this situation interesting: while Google was fixing widespread app crashes behind the scenes, they were a…",
+      "slug": "pixel-10-airdrop-fix-revealed-despite-october-upda",
+      "publishedAt": "2025-11-28T14:57:18+00:00",
+      "date": "2025-11-28 14:57:18",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://assets.content.technologyadvice.com/photo_1585679027421_873de822d8bd_652d4544ea.webp",
+      "url": "/tech-news/2025-11-28/pixel-10-airdrop-fix-revealed-despite-october-upda/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gadgethacks.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "S&P 500 Set to Extend Climb as CME Trading Resumes: Markets Wrap",
+      "description": "The S&P 500 was on course to extend its biggest weekly advance since June after a technical outage at the Chicago Mercantile Exchange disrupted premarket trading.",
+      "slug": "sp-500-set-to-extend-climb-as-cme-trading-resumes-",
+      "publishedAt": "2025-11-28T14:53:43+00:00",
+      "date": "2025-11-28 14:53:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/swaps-traders-are-pricing-fed-cut-in-december.jpg",
+      "url": "/tech-news/2025-11-28/sp-500-set-to-extend-climb-as-cme-trading-resumes/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google pledges N3bn to boost Nigeria’s national AI strategy",
+      "description": "Google.org has pledged N3bn to support Nigeria’s AI strategy, focusing on advanced AI training and digital safety to boost the nation’s digital economy.\n\nRead More: https://punchng.com/google-pledges-n3bn-to-boost-nigerias-national-ai-strategy/",
+      "slug": "google-pledges-n3bn-to-boost-nigerias-national-ai-",
+      "publishedAt": "2025-11-28T14:52:03+00:00",
+      "date": "2025-11-28 14:52:03",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/08/05030544/google-1200x630.webp",
+      "url": "/tech-news/2025-11-28/google-pledges-n3bn-to-boost-nigerias-national-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Intel stock surges while facing 3 major challenges today",
+      "description": "Intel shares are trading higher on Black Friday as Wall Street balances competing forces: aggressive buying by some of the world’s largest investors, growing demand for AI-powered personal computers, and a serious legal dispute that touches on national securi…",
+      "slug": "intel-stock-surges-while-facing-3-major-challenges",
+      "publishedAt": "2025-11-28T14:44:21+00:00",
+      "date": "2025-11-28 14:44:21",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2498219711-scaled.jpg",
+      "url": "/tech-news/2025-11-28/intel-stock-surges-while-facing-3-major-challenges/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pongbot Five-Star Ping Pong Paddle $30.99 (with Applied $20 Coupon, Normally $59.99) + Delivery ($0 with Prime) @ Amazon AU",
+      "description": "Not sure how good it is, but the reviews look alright so I ordered one. The Black Friday deal brings it to $50.99 and then you can apply the $20 coupon that brings the price down to $30.99 at …",
+      "slug": "pongbot-five-star-ping-pong-paddle-3099-with-appli",
+      "publishedAt": "2025-11-28T14:42:55+00:00",
+      "date": "2025-11-28 14:42:55",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://files.ozbargain.com.au/n/76/937276l.jpg?h=d8c0dd9f",
+      "url": "/tech-news/2025-11-28/pongbot-five-star-ping-pong-paddle-3099-with-appli/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ozbargain.com.au"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Managing AI Risk and Rewards in Fintech (Stanley Epstein)",
+      "description": "As fintechs race to deploy AI for personalization, credit decisions, fraud detection, and automation...",
+      "slug": "managing-ai-risk-and-rewards-in-fintech-stanley-ep",
+      "publishedAt": "2025-11-28T14:38:03+00:00",
+      "date": "2025-11-28 14:38:03",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://www.finextra.com/finextra-images/member_photos/thumb_29167_stanley_epstein.jpg",
+      "url": "/tech-news/2025-11-28/managing-ai-risk-and-rewards-in-fintech-stanley-ep/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finextra"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ASP Isotopes Announces Endowment of New Photonics Chair at Wits University to Advance Photonics Research",
+      "description": "WASHINGTON, Nov. 28, 2025 (GLOBE NEWSWIRE) -- ASP Isotopes Inc. (NASDAQ:) (“ASP Isotopes” or the “Company”), an advanced materials company focused on developing technologies and processes for the production of isotopes for multiple industries, today announced…",
+      "slug": "asp-isotopes-announces-endowment-of-new-photonics-",
+      "publishedAt": "2025-11-28T14:37:00+00:00",
+      "date": "2025-11-28 14:37:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ae36ec1e-ca52-4326-b922-6ccaab89d475",
+      "url": "/tech-news/2025-11-28/asp-isotopes-announces-endowment-of-new-photonics/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Netflix target cut, Five Below target raised: Wall Street's top analyst calls",
+      "description": "Netflix target cut, Five Below target raised: Wall Street's top analyst calls",
+      "slug": "netflix-target-cut-five-below-target-raised-wall-s",
+      "publishedAt": "2025-11-28T14:33:24+00:00",
+      "date": "2025-11-28 14:33:24",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec",
+      "url": "/tech-news/2025-11-28/netflix-target-cut-five-below-target-raised-wall-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Big dreams for Palestinian teens at Singapore robot fest",
+      "description": "Palestinian student Razan Shawar has travelled for 24 hours to showcase her team’s AI-powered invention at World Robot Olympiad in Singapore, telling AFP innovation — not war — should be why people hear about her country. The 15-year-old high school student f…",
+      "slug": "big-dreams-for-palestinian-teens-at-singapore-robo",
+      "publishedAt": "2025-11-28T14:17:49+00:00",
+      "date": "2025-11-28 14:17:49",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/11/d6c0ee3407469216a7dc7165d513fead546bc2c6.jpg",
+      "url": "/tech-news/2025-11-28/big-dreams-for-palestinian-teens-at-singapore-robo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "(PR) HighPoint Unveils the MCIO-PCIEX16-G5 Bridge Card",
+      "description": "HighPoint Technologies, Inc., a global leader in PCIe Gen 5 storage and connectivity innovation, proudly announces the launch of the MCIO-PCIEX16-G5 Bridge Card—a high-performance expansion component that enhances the flexibility and scalability of HighPoint'…",
+      "slug": "pr-highpoint-unveils-the-mcio-pciex16-g5-bridge-ca",
+      "publishedAt": "2025-11-28T14:17:39+00:00",
+      "date": "2025-11-28 14:17:39",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/TvWQLra9ABy4GPZL.jpg",
+      "url": "/tech-news/2025-11-28/pr-highpoint-unveils-the-mcio-pciex16-g5-bridge-ca/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "(PR) ASUS Hardware Powers Taiwan's NCHC AI Supercomputer, Ranked #29 on TOP500",
+      "description": "ASUS has announced that, in collaboration with the National Center for High-performance Computing (NCHC) to build the new AI supercomputer, the facility is now officially in operation. It features a dual-compute architecture that includes the cluster and the …",
+      "slug": "pr-asus-hardware-powers-taiwans-nchc-ai-supercompu",
+      "publishedAt": "2025-11-28T14:15:18+00:00",
+      "date": "2025-11-28 14:15:18",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/5HAjhi53pE7WVOmD.jpg",
+      "url": "/tech-news/2025-11-28/pr-asus-hardware-powers-taiwans-nchc-ai-supercompu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tech Stocks Rally Premarket; CME Reopens Futures Markets After Outage",
+      "description": "U.S. stocks looked set for modest gains Friday, as futures trading restarted after a CME Group outage lasting more than 10 hours.",
+      "slug": "tech-stocks-rally-premarket-cme-reopens-futures-ma",
+      "publishedAt": "2025-11-28T14:15:00+00:00",
+      "date": "2025-11-28 14:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i.J5IaWtam8gBiYGL8CbWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/772c14a7216f132a09604b63c167adce",
+      "url": "/tech-news/2025-11-28/tech-stocks-rally-premarket-cme-reopens-futures-ma/",
+      "source": {
+        "emoji": "📈",
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "NurExone Biologic Inc. Announces Third Quarter 2025 Financial Results and Provides Corporate Update",
+      "description": "TORONTO and HAIFA, Israel, Nov. 28, 2025 (GLOBE NEWSWIRE) -- NurExone Biologic Inc. (TSXV: NRX) (OTCQB: NRXBF) (FSE: J90) (“NurExone” or the “Company”), a preclinical-stage biotechnology company pioneering exosome-based therapies for central nervous system in…",
+      "slug": "nurexone-biologic-inc-announces-third-quarter-2025",
+      "publishedAt": "2025-11-28T14:15:00+00:00",
+      "date": "2025-11-28 14:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1514c671-cc84-4bcb-82d7-b834fce40882",
+      "url": "/tech-news/2025-11-28/nurexone-biologic-inc-announces-third-quarter-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Beyond the scroll: how visual search is redefining the future of retail",
+      "description": "For generations, beautiful visuals have been at the heart of shopping, and our research at Pinterest shows Gen Z looks at shopping as self-expression.",
+      "slug": "beyond-the-scroll-how-visual-search-is-redefining-",
+      "publishedAt": "2025-11-28T14:10:00+00:00",
+      "date": "2025-11-28 14:10:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/cecile-van-steenberge.png?resize=1200,600",
+      "url": "/tech-news/2025-11-28/beyond-the-scroll-how-visual-search-is-redefining/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Meesho IPO opens Dec 3; company eyes AI investment, user growth post-listing",
+      "description": "The offer comprises a fresh issue of ₹4,250 crore and an offer for sale of up to 10.55 crore shares by existing shareholders",
+      "slug": "meesho-ipo-opens-dec-3-company-eyes-ai-investment-",
+      "publishedAt": "2025-11-28T14:09:46+00:00",
+      "date": "2025-11-28 14:09:46",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3x8fen/article70335394.ece/alternates/LANDSCAPE_1200/2025-11-28T091143Z_1041889080_RC2L5IAI60LN_RTRMADP_3_MEESHO-IPO.JPG",
+      "url": "/tech-news/2025-11-28/meesho-ipo-opens-dec-3-company-eyes-ai-investment/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Matthew Stone, the Artist Taking Painting into the Digital Realm",
+      "description": "As his extraordinary new show opens in New York, Matthew Stone talks about working with FKA Twigs, and the possibilities of painting",
+      "slug": "matthew-stone-the-artist-taking-painting-into-the-",
+      "publishedAt": "2025-11-28T14:09:00+00:00",
+      "date": "2025-11-28 14:09:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images-prod.anothermag.com/894/89-97-894-596/azure/another-prod/460/7/467391.jpg",
+      "url": "/tech-news/2025-11-28/matthew-stone-the-artist-taking-painting-into-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "AnOther Magazine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How Is Arista Networks' Stock Performance Compared to Other Technology Stocks?",
+      "description": "Due to Arista Networks’s outperformance relative to its peers over the past year, Wall Street analysts maintain a strongly optimistic outlook on its...",
+      "slug": "how-is-arista-networks-stock-performance-compared-",
+      "publishedAt": "2025-11-28T14:05:55+00:00",
+      "date": "2025-11-28 14:05:55",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/barchart_com_477/7a335e3cb7531d602adbaadf3d496dbe",
+      "url": "/tech-news/2025-11-28/how-is-arista-networks-stock-performance-compared/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The end of apps? Imagining software’s agentic future",
+      "description": "It’s 8:45 on a Tuesday morning in 2029, and you’re running late for your first call. You haven’t logged into your customer relationship management system in months. You don’t need to. Your digital sales agent has already triaged the overnight leads, selected …",
+      "slug": "the-end-of-apps-imagining-softwares-agentic-future",
+      "publishedAt": "2025-11-28T14:00:19+00:00",
+      "date": "2025-11-28 14:00:19",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Software-composed-of-agents.jpg",
+      "url": "/tech-news/2025-11-28/the-end-of-apps-imagining-softwares-agentic-future/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Innovative Drug CRO Market to Soar USD 96.06 Billion by 2035, Expanding at 5.44% CAGR",
+      "description": "The global innovative drug CRO market size is valued at USD 56.56 billion in 2025 and is predicted to hit around USD 96.06 billion by 2035, rising at a 5.44% CAGR, a study published by Towards Healthcare a sister firm of Precedence Research. The global innova…",
+      "slug": "innovative-drug-cro-market-to-soar-usd-9606-billio",
+      "publishedAt": "2025-11-28T14:00:00+00:00",
+      "date": "2025-11-28 14:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2025-11-28/innovative-drug-cro-market-to-soar-usd-9606-billio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Cell Therapy Packaging Market Trends and Companies Data 2025-35",
+      "description": "Based on insights from Towards Packaging, the global cell therapy packaging market will likely grow from USD 419.57 million in 2025 to around USD 1274.31 million by 2034, expanding at a CAGR of 11.75% over the 2025-2034 period. Based on insights from Towards …",
+      "slug": "cell-therapy-packaging-market-trends-and-companies",
+      "publishedAt": "2025-11-28T14:00:00+00:00",
+      "date": "2025-11-28 14:00:00",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2025-11-28/cell-therapy-packaging-market-trends-and-companies/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bring Joy to Every Corner of the Home this Black Friday with Nework MoveMate AI 27\" Portable TV",
+      "description": "Experience the freedom of entertainment and connectivity that moves with the flow of your home life Experience the freedom of entertainment and connectivity that moves with the flow of your home life",
+      "slug": "bring-joy-to-every-corner-of-the-home-this-black-f",
+      "publishedAt": "2025-11-28T14:00:00+00:00",
+      "date": "2025-11-28 14:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f951f97d-1142-4c44-9d22-64ab1b1b58bc",
+      "url": "/tech-news/2025-11-28/bring-joy-to-every-corner-of-the-home-this-black-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Five years on, Google DeepMind’s AlphaFold shows why science may be AI’s killer app",
       "description": "In five years since AlphaFold's debut, it has transformed basic biochemical research. But its long-term effect on drug discovery remains unclear.",
@@ -2199,24 +3207,6 @@
       "people": []
     },
     {
-      "title": "2025 Mercedes-Benz S580e in Malaysia – full gallery of updated luxury PHEV sedan with 60 kW DC, RM739k",
-      "description": "The W223 Mercedes-Benz S580e was updated in Malaysia in September, and here we bring you a comprehensive gallery of the luxury PHEV sedan that’s yours for RM738,888, OTR before insurance. Still locally-assembled (CKD), the updated […]\nThe post 2025 Mercedes-B…",
-      "slug": "A-2025-mercedes-benz-s580e-in-malaysia-full-galler",
-      "publishedAt": "2025-11-28T02:45:36+00:00",
-      "date": "2025-11-28 02:45:36",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://paultan.org/image/2025/11/2025-Mercedes-Benz-S580e-Malaysia-Ext-2-1200x801.jpg",
-      "url": "/tech-news/2025-11-28/A-2025-mercedes-benz-s580e-in-malaysia-full-galler/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Paul Tan's Automotive News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Black Friday Robot Vacuum Deals: Dreame’s Flagship Models Drop By Up To 60%",
       "description": "Black Friday Robot Vacuum Deals: Dreame’s Flagship Models Drop By Up To 60%There is a big difference between a floor that looks clean and a floor that is clean. Dreame’s Black Friday sale leans into that gap,...",
       "slug": "black-friday-robot-vacuum-deals-dreames-flagship-m",
@@ -2392,24 +3382,6 @@
         "emoji": "📰",
         "id": null,
         "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "140 Pack Of Glad ForceFlex Gain Original Scent 13 Gallon Tall Kitchen Trash Bags For $12.49-$13.96 And More Household Essential Black Friday Deals From Amazon!",
-      "description": "140 Pack Of Glad ForceFlex Gain Original Scent 13 Gallon Tall Kitchen Trash Bags For $12.49-$13.96 Shipped From Amazon Shop the full Household Essentials Black Friday Sale from Amazon here! This was selling for $22.48 yesterday and is now the lowest price eve…",
-      "slug": "A-140-pack-of-glad-forceflex-gain-original-scent-1",
-      "publishedAt": "2025-11-28T00:41:15+00:00",
-      "date": "2025-11-28 00:41:15",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.dansdeals.com/wp-content/uploads/2025/11/27193841/gladforceflextallkitchentrashbags13gallongainoriginal140count.jpg",
-      "url": "/tech-news/2025-11-28/A-140-pack-of-glad-forceflex-gain-original-scent-1/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dansdeals.com"
       },
       "companies": [],
       "people": []
@@ -2626,978 +3598,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Wealth advisors are zeroing in on 4 'promising' safe growth sectors. Why investors are paying attention",
-      "description": "Do these sectors already have a place in your portfolio?",
-      "slug": "wealth-advisors-are-zeroing-in-on-4-promising-safe",
-      "publishedAt": "2025-11-27T23:00:00+00:00",
-      "date": "2025-11-27 23:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_327/d5b7f8a6b0b355af3815ac97c3af6f10",
-      "url": "/tech-news/2025-11-27/wealth-advisors-are-zeroing-in-on-4-promising-safe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "What is going on with the economy?",
-      "description": "'To some insiders, it looks less like a revolution and more like a house of cards'",
-      "slug": "what-is-going-on-with-the-economy",
-      "publishedAt": "2025-11-27T22:36:58+00:00",
-      "date": "2025-11-27 22:36:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2020/04/roller-coaster-tracks-fair-carnival-stock-market-stocks-dow-wall-street-pixabay-1.jpg",
-      "url": "/tech-news/2025-11-27/what-is-going-on-with-the-economy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "TikTok’s AI Transparency Push",
-      "description": "TikTok Enhances User Experience with New AI Content Controls and Transparency Tools TikTok is rolling out a series of updates focused on improving how users understand, identify, and manage AI-generated content on the platform. The company recognizes the pote…",
-      "slug": "tiktoks-ai-transparency-push",
-      "publishedAt": "2025-11-27T21:20:26+00:00",
-      "date": "2025-11-27 21:20:26",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "url": "/tech-news/2025-11-27/tiktoks-ai-transparency-push/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nep123.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Uber CEO Dara Khosrowshahi Says The App Will Offer High-Paying AI Gigs To Drivers And PhDs, Calling It 'A Platform For Work'",
-      "description": "Uber Technologies Inc. (NYSE:UBER) is turning its app into more than a ride or delivery tool — it's becoming a gateway to high-paying AI jobs. Uber CEO Dara ...",
-      "slug": "uber-ceo-dara-khosrowshahi-says-the-app-will-offer",
-      "publishedAt": "2025-11-27T21:01:45+00:00",
-      "date": "2025-11-27 21:01:45",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/db57ac43e4c06f7c7f8053b3a54a0f16",
-      "url": "/tech-news/2025-11-27/uber-ceo-dara-khosrowshahi-says-the-app-will-offer/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The big impact of small interactions",
-      "description": "A stranger holding the door open for you. A friendly wave from a neighbor. An angry driver cuts you off. The new book \"The Social Biome\" reveals how 'everyday communication connects and shapes us.'",
-      "slug": "the-big-impact-of-small-interactions",
-      "publishedAt": "2025-11-27T21:00:00+00:00",
-      "date": "2025-11-27 21:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2025/10/Black_Friday_Shopping_23328827390307-1-1000x625.jpg",
-      "url": "/tech-news/2025-11-27/the-big-impact-of-small-interactions/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WBUR"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "These Ray-Ban Meta Smart Sunglesses Are 20% Off During The Black Friday Sales",
-      "description": "Everyone is talking about smart glasses these days, and you can pick up a pair of your own for just $262.99 right now. The Meta Ray-Ban Meta (Gen 1) smart glasses would previously sell for around $329, but you can get a pair for just $262.99 today.\nThe post T…",
-      "slug": "these-ray-ban-meta-smart-sunglesses-are-20-off-dur",
-      "publishedAt": "2025-11-27T20:11:49+00:00",
-      "date": "2025-11-27 20:11:49",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2025/11/Meta-ray-ban-glasses-1.jpg",
-      "url": "/tech-news/2025-11-27/these-ray-ban-meta-smart-sunglesses-are-20-off-dur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "redmondpie.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "WaterWipes founder Edward McCloskey chosen as EY Entrepreneur of the Year",
-      "description": "Founder of Co Louth-based WaterWipes founder also took the International award on the night",
-      "slug": "waterwipes-founder-edward-mccloskey-chosen-as-ey-e",
-      "publishedAt": "2025-11-27T20:03:14+00:00",
-      "date": "2025-11-27 20:03:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/UOATTRBS7NFLLJDNQK42ER3MUI.jfif?smart=true&auth=60ecbcba091d70a93462cd8c8fa94148c1c7bc2777b67f177b04bfe2d65c670f&width=1200&height=630",
-      "url": "/tech-news/2025-11-27/waterwipes-founder-edward-mccloskey-chosen-as-ey-e/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "This Humanoid Robot Just Scored A Guinness World Record",
-      "description": "Several companies are developing humanoid robots to accomplish mechanical tasks. One such robot from Shanghai-based AgiBot just set a Guinness World Record.",
-      "slug": "this-humanoid-robot-just-scored-a-guinness-world-r",
-      "publishedAt": "2025-11-27T19:45:00+00:00",
-      "date": "2025-11-27 19:45:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ndy5eFjdCUvd1wx4xSpRTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/slash_gear_112/fdb69655c980c9f84c43dfc198f7d54b",
-      "url": "/tech-news/2025-11-27/this-humanoid-robot-just-scored-a-guinness-world-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The SINGLE BIGGEST Disney Deal Happening On Amazon Today",
-      "description": "We did it. We found the single BIGGEST Disney deal happening during Amazon's Black Friday sale!",
-      "slug": "the-single-biggest-disney-deal-happening-on-amazon",
-      "publishedAt": "2025-11-27T19:30:36+00:00",
-      "date": "2025-11-27 19:30:36",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/11/amazon-munchling-winnie-the-pooh-large-lemon-shaved-ice-600x600.jpg",
-      "url": "/tech-news/2025-11-27/the-single-biggest-disney-deal-happening-on-amazon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "disneyfoodblog.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Todd Dean: Why the Economy Feels Tight Even When Markets Look Strong, The Real Story Behind the Velocity of Money",
-      "description": "Money movement reveals who is spending, who is holding back and how the financial behaviors of individuals and institutions shape the everyday economy.",
-      "slug": "todd-dean-why-the-economy-feels-tight-even-when-ma",
-      "publishedAt": "2025-11-27T17:37:29+00:00",
-      "date": "2025-11-27 17:37:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d.ibtimes.com/en/full/4635535/todd-dean.jpg",
-      "url": "/tech-news/2025-11-27/todd-dean-why-the-economy-feels-tight-even-when-ma/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Upgrade your Sonos home theater at up to $220 off this Black Friday with deals on Arc Ultra Soundbar, subs, more",
-      "description": "Update 11/27: The standard Sonos Arc Smart Soundbar with Dolby Atmos in white is $399 shipped, down from $599 today at Best Buy. The rest of Black Friday offers at Amazon are still live below.\n\n\n\nAs part of its now live Black Friday Week sale event, Amazon is…",
-      "slug": "upgrade-your-sonos-home-theater-at-up-to-220-off-t",
-      "publishedAt": "2025-11-27T17:36:00+00:00",
-      "date": "2025-11-27 17:36:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/02/Sonos-Arc-Ultra-Soundbar-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-27/upgrade-your-sonos-home-theater-at-up-to-220-off-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Wonky Reason The US Can't Have Fewer Than 11 Aircraft Carriers In Its Fleet",
-      "description": "The United States has 11 aircraft carriers in its fleet and it's for a very specific reason. Here's why that is, and how it compares to the world.",
-      "slug": "the-wonky-reason-the-us-cant-have-fewer-than-11-ai",
-      "publishedAt": "2025-11-27T17:15:00+00:00",
-      "date": "2025-11-27 17:15:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GUzfOqm.yiYG4JHVJ_hr4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/slash_gear_112/e63afaf6831feb92930e2ee683b8cbc2",
-      "url": "/tech-news/2025-11-27/the-wonky-reason-the-us-cant-have-fewer-than-11-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "These are the best deals available for tech on Black Friday in Canada",
-      "description": "As Black Friday shopping kicks off, now is the best time to upgrade your tech or get ahead of your holiday shopping.This year's Black Friday sale features some pretty great deals from popular brands like Bose, Dyson, and Garmin. For wearable tech, Garmin's Sm…",
-      "slug": "these-are-the-best-deals-available-for-tech-on-bla",
-      "publishedAt": "2025-11-27T17:14:14+00:00",
-      "date": "2025-11-27 17:14:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://blogto-production2-baselayer-display.blogto.com/articles/20251127-black-friday-tech-deals.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
-      "url": "/tech-news/2025-11-27/these-are-the-best-deals-available-for-tech-on-bla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Daily Hive"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "These Jobs Are Most at Risk of Being Replaced by AI",
-      "description": "Both advocates and sceptics agree that artificial intelligence is poised to drastically alter the structure of the American workforce, as the advancing technology becomes capable of replacing an ever-growing range of roles currently performed by humans.\nAccor…",
-      "slug": "these-jobs-are-most-at-risk-of-being-replaced-by-a",
-      "publishedAt": "2025-11-27T17:11:50+00:00",
-      "date": "2025-11-27 17:11:50",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/0d1a26ac041ff0de_s.webp",
-      "url": "/tech-news/2025-11-27/these-jobs-are-most-at-risk-of-being-replaced-by-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "XBULL Exchange Launches Next-Generation Smart Execution Engine to Enhance Institutional-Grade Trading Performance",
-      "description": "XBULL Exchange announced the launch of its next-generation intelligent execution engine, designed to provide intelligent decision-making systems for users and institutional partners worldwide. XBULL Exchange announced the launch of its next-generation intelli…",
-      "slug": "xbull-exchange-launches-next-generation-smart-exec",
-      "publishedAt": "2025-11-27T17:00:00+00:00",
-      "date": "2025-11-27 17:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3a87c5b7-9d78-48e0-b2ee-10bb83f63e73",
-      "url": "/tech-news/2025-11-27/xbull-exchange-launches-next-generation-smart-exec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The best Canon camera for 2025: Canon's finest DSLR, mirrorless and compact cameras",
-      "description": "Trying to find the best Canon camera for you? We've ranked our favorite models in 2025 for all types of shooting situation and budget.",
-      "slug": "the-best-canon-camera-for-2025-canons-finest-dslr-",
-      "publishedAt": "2025-11-27T16:28:52+00:00",
-      "date": "2025-11-27 16:28:52",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9umYQVECEjhwcPqXD6p9q3-2000-80.jpg",
-      "url": "/tech-news/2025-11-27/the-best-canon-camera-for-2025-canons-finest-dslr/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The easy set and forget ASX share portfolio I'd build today",
-      "description": "It is easier than you think to build a winning portfolio.\nThe post The easy set and forget ASX share portfolio I'd build today appeared first on The Motley Fool Australia.",
-      "slug": "the-easy-set-and-forget-asx-share-portfolio-id-bui",
-      "publishedAt": "2025-11-27T16:13:00+00:00",
-      "date": "2025-11-27 16:13:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2024/01/two-colleagues-1200x675.jpg",
-      "url": "/tech-news/2025-11-27/the-easy-set-and-forget-asx-share-portfolio-id-bui/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Motley Fool Australia"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The best Oura Ring Black Friday deals: Our favorite smart ring is an extremely rare $150 off right now",
-      "description": "The Oura Ring 4 earns our highest recommendation for buyers looking for a smart ring. It's down to an all-time low price for Black Friday.",
-      "slug": "the-best-oura-ring-black-friday-deals-our-favorite",
-      "publishedAt": "2025-11-27T15:49:29+00:00",
-      "date": "2025-11-27 15:49:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/6920e01dabd5e944effb4bc4?width=1200&format=jpeg",
-      "url": "/tech-news/2025-11-27/the-best-oura-ring-black-friday-deals-our-favorite/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Valetax Delivers an Award-Winning Showcase at Jeddah Fintech Week 2025",
-      "description": "Jeddah, Saudi Arabia, Nov. 27, 2025 (GLOBE NEWSWIRE) -- Valetax \r\nmarked a major milestone with a powerful presence at Jeddah Fintech Week 2025\r\n, held on 16 and 17 November at the Jeddah Hilton Hotel. As the Official Sponsor, the company delivered an impactf…",
-      "slug": "valetax-delivers-an-award-winning-showcase-at-jedd",
-      "publishedAt": "2025-11-27T15:38:00+00:00",
-      "date": "2025-11-27 15:38:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b785a769-cfa5-402f-8263-26012bc8c634",
-      "url": "/tech-news/2025-11-27/valetax-delivers-an-award-winning-showcase-at-jedd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Only 3 Ways to Actually Make Money in B2B AI (And Why “AI-Enhanced” Doesn’t Count Anymore)",
-      "description": "Most B2B companies claiming to be “AI-powered” aren’t seeing growth accelerate. Not because their technology doesn’t work, but because they’re playing the wrong game entirely. The Framework: Three Paths to AI Revenue Path 1: Attach to Compute Infrastructure P…",
-      "slug": "the-only-3-ways-to-actually-make-money-in-b2b-ai-a",
-      "publishedAt": "2025-11-27T15:10:37+00:00",
-      "date": "2025-11-27 15:10:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2025/11/2typesai2-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
-      "url": "/tech-news/2025-11-27/the-only-3-ways-to-actually-make-money-in-b2b-ai-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Saastr.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Trump Issues EO to Launch DOE Led Genesis Mission",
-      "description": "'Throughout history, from the Manhattan Project to the Apollo mission, our nation's brightest minds and industries have answered the call when their nation needed them', U.S. Energy Secretary Chris Wright said.",
-      "slug": "trump-issues-eo-to-launch-doe-led-genesis-mission",
-      "publishedAt": "2025-11-27T15:10:03+00:00",
-      "date": "2025-11-27 15:10:03",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.rigzone.com/images/news/articles/Trump-Issues-EO-to-Launch-DOE-Led-Genesis-Mission-182401-1200x628.png",
-      "url": "/tech-news/2025-11-27/trump-issues-eo-to-launch-doe-led-genesis-mission/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rigzone"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The best camera for photography 2025: we've tested stellar snappers for every budget",
-      "description": "Our guide to the best camera for photography will help you find the right digital camera for you in 2025, whatever your budget.",
-      "slug": "the-best-camera-for-photography-2025-weve-tested-s",
-      "publishedAt": "2025-11-27T14:59:18+00:00",
-      "date": "2025-11-27 14:59:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QmY5fRUXJEtnzhTgXLSY5A-1920-80.jpg",
-      "url": "/tech-news/2025-11-27/the-best-camera-for-photography-2025-weve-tested-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The line and the stream. — Ethan Marcotte",
-      "description": "I’ve come to realize that statements about the future aren’t predictions: they’re more like spells. When someone describes something to you as the future, they’re sharing a heartfelt belief that this something will be part of whatever comes next. “Artificial …",
-      "slug": "the-line-and-the-stream-ethan-marcotte",
-      "publishedAt": "2025-11-27T14:38:18+00:00",
-      "date": "2025-11-27 14:38:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ethanmarcotte.com/opengraph/the-line-and-the-stream-c371045a6b54c58ab1a8fa00a1f338c4.png",
-      "url": "/tech-news/2025-11-27/the-line-and-the-stream-ethan-marcotte/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ethanmarcotte.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "This Robot Vacuum Handles All My Obstacles and Pets, and It's 50% Off Right Now",
-      "description": "The Dreame X50 Ultra conquered chairs and stairs where many others have failed. It's a whopping $800 off for Black Friday.",
-      "slug": "this-robot-vacuum-handles-all-my-obstacles-and-pet",
-      "publishedAt": "2025-11-27T14:35:35+00:00",
-      "date": "2025-11-27 14:35:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c499546e7d2d6f2c8a5fa991be08e0635b40442a/hub/2025/11/21/15e0855c-e2c6-49fb-a434-6bf7744c2b2d/dreame-x50-ultra-robot-vacuum-lab-winner-cnet-promosection.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-27/this-robot-vacuum-handles-all-my-obstacles-and-pet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "This devious botnet tried a trial run during the recent AWS outage - so when will it be back?",
-      "description": "Another child of Mirai was spotted in the wild - but this one flashed only briefly.",
-      "slug": "this-devious-botnet-tried-a-trial-run-during-the-r",
-      "publishedAt": "2025-11-27T14:27:00+00:00",
-      "date": "2025-11-27 14:27:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD-2121-80.jpg",
-      "url": "/tech-news/2025-11-27/this-devious-botnet-tried-a-trial-run-during-the-r/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "What China will dominate next",
-      "description": "ThOSE WHO worry about how to cope with China’s leadership in technology—and there are plenty of them—think hard about electric vehicles (EVs), solar panels and open-source artificial intelligence. For such people, we have some bad news. This week we report ho…",
-      "slug": "what-china-will-dominate-next",
-      "publishedAt": "2025-11-27T12:22:07+00:00",
-      "date": "2025-11-27 12:22:07",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/1b30278123eb45c6_s.webp",
-      "url": "/tech-news/2025-11-27/what-china-will-dominate-next/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Reasons Customers May Refuse to Speak with AI",
-      "description": "GUEST POST from Shep Hyken If you want to anger your customers, make them do something they don’t want to do. Up to 66% of U.S. customers say that when it comes to getting help, resolving an issue or making a complaint, they only want to speak to a live perso…",
-      "slug": "the-reasons-customers-may-refuse-to-speak-with-ai",
-      "publishedAt": "2025-11-27T12:00:00+00:00",
-      "date": "2025-11-27 12:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-27/the-reasons-customers-may-refuse-to-speak-with-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bradenkelley.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "'The bubble is ahead of us': hedge fund exec says investors still don't get how big AI is",
-      "description": "Bridgewater's Greg Jensen says the AI race is driving a global scramble for resources and distorting markets in ways investors aren't pricing in.",
-      "slug": "the-bubble-is-ahead-of-us-hedge-fund-exec-says-inv",
-      "publishedAt": "2025-11-27T11:48:16+00:00",
-      "date": "2025-11-27 11:48:16",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/692827bc89026fbb4d0e8de4?width=1200&format=jpeg",
-      "url": "/tech-news/2025-11-27/the-bubble-is-ahead-of-us-hedge-fund-exec-says-inv/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "This is the top destination for Black Friday and Cyber Monday shoppers",
-      "description": "Shoppers are expected to spend almost £14 billion across the sales weekend",
-      "slug": "this-is-the-top-destination-for-black-friday-and-c",
-      "publishedAt": "2025-11-27T11:29:07+00:00",
-      "date": "2025-11-27 11:29:07",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static.the-independent.com/2024/11/28/08/iStock-1661657038.jpg?width=1200&height=800&crop=1200:800",
-      "url": "/tech-news/2025-11-27/this-is-the-top-destination-for-black-friday-and-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "UBS remains bullish on Chinese tech but warns of big market swings in 2026",
-      "description": "UBS has warned of greater market volatility next year, citing risks ranging from weaker-than-expected artificial intelligence revenue to geopolitical tensions, but the Swiss investment bank remains bullish about Chinese technology shares and gold.\nUBS identif…",
-      "slug": "ubs-remains-bullish-on-chinese-tech-but-warns-of-b",
-      "publishedAt": "2025-11-27T11:26:37+00:00",
-      "date": "2025-11-27 11:26:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/8c794f29b0c3aabe_s.webp",
-      "url": "/tech-news/2025-11-27/ubs-remains-bullish-on-chinese-tech-but-warns-of-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "These Musicians Turn Obsolete Tape Decks Into Living Instruments",
-      "description": "These Musicians Turn Obsolete Tape Decks Into Living InstrumentsThere’s something wonderfully defiant about watching three musicians hunched over dusty reel-to-reel tape recorders, coaxing haunting melodies from technology most people consider obsolete. The J…",
-      "slug": "these-musicians-turn-obsolete-tape-decks-into-livi",
-      "publishedAt": "2025-11-27T11:07:16+00:00",
-      "date": "2025-11-27 11:07:16",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/11/these-musicians-turn-obsolete-tape-decks-into-living-instruments/magnetic-punk-01.jpg",
-      "url": "/tech-news/2025-11-27/these-musicians-turn-obsolete-tape-decks-into-livi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "UFO documentary pulls back curtain on ‘psychological operation’ after decades of government cover-up: expert",
-      "description": "UFO documentary 'The Age of Disclosure' reveals decades of government secrecy about UAP sightings, featuring interviews with 34 senior officials.",
-      "slug": "ufo-documentary-pulls-back-curtain-on-psychologica",
-      "publishedAt": "2025-11-27T11:00:01+00:00",
-      "date": "2025-11-27 11:00:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/ufo-alien-space-mystery_01.jpg",
-      "url": "/tech-news/2025-11-27/ufo-documentary-pulls-back-curtain-on-psychologica/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Top 10 countries offering the highest salaries in 2025",
-      "description": "Money has long been described as the force that makes the world go round.",
-      "slug": "top-10-countries-offering-the-highest-salaries-in-",
-      "publishedAt": "2025-11-27T10:39:16+00:00",
-      "date": "2025-11-27 10:39:16",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.ghanaweb.com/imagelib/pics/264/26404729.jpg",
-      "url": "/tech-news/2025-11-27/top-10-countries-offering-the-highest-salaries-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GhanaWeb"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Will Technology Save Us From a Nuclear Attack?",
-      "description": "Ashley Gate, William D. Hartung\n\n\n\nSo far, the Golden Dome seems more like a marketing concept designed to enrich arms contractors and burnish Trump’s image rather than a carefully thought-out defense program.\r\n\n\r\n\n\nThe post Will Technology Save Us From a Nuc…",
-      "slug": "will-technology-save-us-from-a-nuclear-attack",
-      "publishedAt": "2025-11-27T10:00:00+00:00",
-      "date": "2025-11-27 10:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2024/02/nucleartest-150KB_cc_img.jpg",
-      "url": "/tech-news/2025-11-27/will-technology-save-us-from-a-nuclear-attack/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "US-based Tesla wins as HC grants interim injunction, bars Indian firm from using trademark",
-      "description": "The Delhi High Court has issued an interim order. US-based Tesla Inc received this injunction against Indian company Tesla Power India. Tesla Power India is now prohibited from using 'Tesla Power' or 'Tesla Power USA' trademarks. This includes manufacturing e…",
-      "slug": "us-based-tesla-wins-as-hc-grants-interim-injunctio",
-      "publishedAt": "2025-11-27T09:43:02+00:00",
-      "date": "2025-11-27 09:43:02",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125610805,width-1200,height-630,imgsize-61966,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-27/us-based-tesla-wins-as-hc-grants-interim-injunctio/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "UBS remains bullish on Chinese tech shares and gold but warns of big market swings in 2026",
-      "description": "UBS has warned of greater market volatility next year, citing risks ranging from weaker-than-expected artificial intelligence revenue to geopolitical...",
-      "slug": "ubs-remains-bullish-on-chinese-tech-shares-and-gol",
-      "publishedAt": "2025-11-27T09:30:00+00:00",
-      "date": "2025-11-27 09:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/south_china_morning_post_us_228/b7dc42bd38d83522c93a02c95e0a6565",
-      "url": "/tech-news/2025-11-27/ubs-remains-bullish-on-chinese-tech-shares-and-gol/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Woman Learned That Her Best Friend’s Study Methods Involve Using AI, So She Reacted Negatively Due To Past Experiences With Misdiagnoses",
-      "description": "Some people don’t trust technology because they see it as a shortcut, not a tool.",
-      "slug": "woman-learned-that-her-best-friends-study-methods-",
-      "publishedAt": "2025-11-27T09:24:40+00:00",
-      "date": "2025-11-27 09:24:40",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Twisted-Sifter-1789.jpg",
-      "url": "/tech-news/2025-11-27/woman-learned-that-her-best-friends-study-methods/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Today in Sweden: A roundup of the latest news on Thursday",
-      "description": "Gender pay gap sees no change since 2019, snus-use has exploded due to 'white' snus and Telia to improve coverage in rural areas. Here's Sweden's news on Thursday.",
-      "slug": "today-in-sweden-a-roundup-of-the-latest-news-on-th",
-      "publishedAt": "2025-11-27T07:22:37+00:00",
-      "date": "2025-11-27 07:22:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/11/watermarks-logo-sdliwzdw7HFQXU.jpg@webp",
-      "url": "/tech-news/2025-11-27/today-in-sweden-a-roundup-of-the-latest-news-on-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Local Sweden"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Data Mesh: Rethinking Centralized Analytics",
-      "description": "For decades, organizations have relied on centralized data warehouses and lakes to manage their analytics. A single team collects data from across the business, transforms it, and serves it to users. This model worked when data volumes were manageable and use…",
-      "slug": "the-data-mesh-rethinking-centralized-analytics",
-      "publishedAt": "2025-11-27T07:21:00+00:00",
-      "date": "2025-11-27 07:21:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/software-development-2-logo.jpg",
-      "url": "/tech-news/2025-11-27/the-data-mesh-rethinking-centralized-analytics/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Javacodegeeks.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Global Icons of Impact 2025 Honours Visionary Leaders Driving Global Transformation",
-      "description": "Global Icons of Impact 2025: The Enterprise World Unveils Elite 25 Visionary Leaders Driving AI, Digital Transformation, and Sustainable Innovation. Global Icons of Impact 2025: The Enterprise World Unveils Elite 25 Visionary Leaders Driving AI, Digital Trans…",
-      "slug": "the-global-icons-of-impact-2025-honours-visionary-",
-      "publishedAt": "2025-11-27T07:15:00+00:00",
-      "date": "2025-11-27 07:15:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0fa5c832-3504-4d07-aab8-d5f313d66240",
-      "url": "/tech-news/2025-11-27/the-global-icons-of-impact-2025-honours-visionary/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Top 10 IT companies in India in 2025: Narayana Murthy’s firm ranks in the top 5 with over Rs 6 lakh crore market cap",
-      "description": "Top 10 IT companies in India in 2025 by market capitalisation: Tata Consultancy Services (TCS) stands at the top as the biggest IT company in India in terms of market capitalisation.",
-      "slug": "top-10-it-companies-in-india-in-2025-narayana-murt",
-      "publishedAt": "2025-11-27T07:13:38+00:00",
-      "date": "2025-11-27 07:13:38",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.indianexpress.com/2025/11/Indian-IT-companies.jpg",
-      "url": "/tech-news/2025-11-27/top-10-it-companies-in-india-in-2025-narayana-murt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Irreversible Shift: Why Your Distribution Model Must Be AI-Native by 2030",
-      "description": "The advent of Agentic AI is not just another technology trend; it is a seismic event forcing an API-first distribution mandate in the travel and hospitality industry. Based on decades of experience in the vendor and operator ecosystem, I believe the commercia…",
-      "slug": "the-irreversible-shift-why-your-distribution-model",
-      "publishedAt": "2025-11-27T07:07:00+00:00",
-      "date": "2025-11-27 07:07:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.hospitalitynet.org/picture/153098384.jpg?t=1554537228",
-      "url": "/tech-news/2025-11-27/the-irreversible-shift-why-your-distribution-model/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hospitality Net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Why have so many people stopped posting on social media?",
-      "description": "Time spent on social media platforms peaked in 2022 and has since gone into steady decline, especially among teens and twentysomethings",
-      "slug": "why-have-so-many-people-stopped-posting-on-social-",
-      "publishedAt": "2025-11-27T07:02:01+00:00",
-      "date": "2025-11-27 07:02:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.rte.ie/images/002389ed-1600.jpg",
-      "url": "/tech-news/2025-11-27/why-have-so-many-people-stopped-posting-on-social/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The future will be explained to you in Palo Alto | TechCrunch",
-      "description": "On Wednesday evening at PlayGround Global in Palo Alto, some very smart people who are building things you don't understand yet will explain what's",
-      "slug": "the-future-will-be-explained-to-you-in-palo-alto-t",
-      "publishedAt": "2025-11-27T06:09:40+00:00",
-      "date": "2025-11-27 06:09:40",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-949560762.jpg?resize=1200,718",
-      "url": "/tech-news/2025-11-27/the-future-will-be-explained-to-you-in-palo-alto-t/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "'Youth power reaching new heights': PM Modi unveils Skyroot’s Infinity Campus",
-      "description": "Prime Minister Modi launched Skyroot's new facility in Hyderabad.  He also revealed the Vikram-I rocket. This rocket can send satellites into space. The new campus is large and will help build rockets. India's youth are achieving great things in space technol…",
-      "slug": "youth-power-reaching-new-heights-pm-modi-unveils-s",
-      "publishedAt": "2025-11-27T05:51:30+00:00",
-      "date": "2025-11-27 05:51:30",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125606097,width-1200,height-630,imgsize-52980,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-27/youth-power-reaching-new-heights-pm-modi-unveils-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Math of Why You Can't Focus at Work | Off by One",
-      "description": "Interruptions, recovery time, and task size: three numbers that determine if you'll get real work done. Interactive visualizations show the math behind bad days.",
-      "slug": "the-math-of-why-you-cant-focus-at-work-off-by-one",
-      "publishedAt": "2025-11-27T05:47:02+00:00",
-      "date": "2025-11-27 05:47:02",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://justoffbyone.com/_astro/og-image.LLmVOvlt.png",
-      "url": "/tech-news/2025-11-27/the-math-of-why-you-cant-focus-at-work-off-by-one/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Justoffbyone.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Why Google may become the new AI king, with chips to rival Nvidia’s",
-      "description": "For as long as Nvidia has dominated the market for artificial intelligence chips, customers have made clear they’d like to see more competition. It now turns out one of the most formidable alternatives may have been hiding in plain sight.",
-      "slug": "why-google-may-become-the-new-ai-king-with-chips-t",
-      "publishedAt": "2025-11-27T05:30:00+00:00",
-      "date": "2025-11-27 05:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://focus.independent.ie/thumbor/_Q1Ddny63VnEkYLUy0IuH4HG07w=/689x282:3060x1861/629x0/prod-mh-ireland/a0d511ab-bda9-4d97-89d3-892e25330819/419947ca-6e9f-4704-867b-cc65bab3577a/GettyImages_2238638181.jpg",
-      "url": "/tech-news/2025-11-27/why-google-may-become-the-new-ai-king-with-chips-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "VIOMI Launches Major Black Friday Deals: It's Smart Water Purifiers Become the Top Choice for Long-Term Family Health Investment",
-      "description": "Foshan, China, Nov. 26, 2025 (GLOBE NEWSWIRE) -- As American consumers pay closer attention to household drinking water safety, more families are now looking for solutions that are more reliable, cost-effective, and environmentally friendly than bottled water…",
-      "slug": "viomi-launches-major-black-friday-deals-its-smart-",
-      "publishedAt": "2025-11-27T04:48:00+00:00",
-      "date": "2025-11-27 04:48:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-27/viomi-launches-major-black-friday-deals-its-smart/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The Even Realities G2 smartglasses are bundled with the ring in this Black Friday deal",
-      "description": "Customers who buy the Even Realities G2 smartglasses will receive the Even R1 Smart Ring and additional accessories for 50% off.",
-      "slug": "the-even-realities-g2-smartglasses-are-bundled-wit",
-      "publishedAt": "2025-11-27T03:47:00+00:00",
-      "date": "2025-11-27 03:47:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9e6321f9beaa28efb1055af7cc3e72a70e35b2db/2025/11/12/9ea463cb-cc0f-43ca-8df6-1edbcb577e75/hiner-even-realities-g2-r1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-27/the-even-realities-g2-smartglasses-are-bundled-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "What the Amish can teach us about tech",
-      "description": "Like them we should ask: ‘What is this tool for and what does it make us become?’ As new technology, AI and the internet take over 21st-century life, I suggest looking to the Amish for guidance. Far from being the Luddites most folk assume, the Amish undertak…",
-      "slug": "what-the-amish-can-teach-us-about-tech",
-      "publishedAt": "2025-11-27T03:31:54+00:00",
-      "date": "2025-11-27 03:31:54",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-27/what-the-amish-can-teach-us-about-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "US Fed sees low AI bubble risk, warns of economic shifts",
-      "description": "The current surge in artificial intelligence (AI) presents opportunities for innovation and productivity that significantly differ from previous technology booms, according to recent statements by Federal Reserve Vice Chair Philip Jefferson. Unlike the specul…",
-      "slug": "us-fed-sees-low-ai-bubble-risk-warns-of-economic-s",
-      "publishedAt": "2025-11-27T03:18:25+00:00",
-      "date": "2025-11-27 03:18:25",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251126pd200_files/1_b.jpg",
-      "url": "/tech-news/2025-11-27/us-fed-sees-low-ai-bubble-risk-warns-of-economic-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Top EU official accuses US of ‘blackmail’ in trade talks",
-      "description": "Renewed U.S. pressure for the EU to recalibrate its digital rules is unacceptable, says Teresa Ribera.",
-      "slug": "top-eu-official-accuses-us-of-blackmail-in-trade-t",
-      "publishedAt": "2025-11-27T03:10:00+00:00",
-      "date": "2025-11-27 03:10:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/11/26/13474934-scaled.jpg",
-      "url": "/tech-news/2025-11-27/top-eu-official-accuses-us-of-blackmail-in-trade-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Viettel Cyber Security Receives Frost & Sullivan's 2025 Vietnamese Cybersecurity Services Market Leadership Recognition for Excellence in Customer Success and Strategic Execution",
-      "description": "Recognized for its end-to-end innovation, operational efficiency, and commitment to customer-centric cybersecurity services SAN ANTONIO, Nov. 27, 2025 /PRNewswire/ -- Frost & Sullivan is pleased to announce that Viettel Cyber Security (VCS) has been awarded t…",
-      "slug": "viettel-cyber-security-receives-frost-sullivans-20",
-      "publishedAt": "2025-11-27T01:30:00+00:00",
-      "date": "2025-11-27 01:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-27/viettel-cyber-security-receives-frost-sullivans-20/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zipline's US deliveries have risen 15% every week in 2025: CEO",
-      "description": "Zipline (ZIPL.PVT) co-founder and CEO Keller Cliffton sits down with Josh Lipton to discuss the delivery drone operator's growth since its first flight in...",
-      "slug": "ziplines-us-deliveries-have-risen-15-every-week-in",
-      "publishedAt": "2025-11-27T00:00:00+00:00",
-      "date": "2025-11-27 00:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_bE06c4Vl11AC_KUI2ODwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/cabc7c20-cb14-11f0-8fef-ffc6c32372ba",
-      "url": "/tech-news/2025-11-27/ziplines-us-deliveries-have-risen-15-every-week-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
