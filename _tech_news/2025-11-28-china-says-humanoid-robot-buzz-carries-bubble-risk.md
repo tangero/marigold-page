@@ -1,7 +1,7 @@
 ---
 author: Marisa Aigen
 category: tech
-date: '2025-11-28 03:02:32'
+date: '2025-11-28 21:31:56'
 description: More than 150 Chinese companies are making humanoid robots but a market
   bubble risks forming in the rapidly growing futuristic industry, a Beijing official
   has warned. Government support and strong supply chains are helping Chinese firms
@@ -9,22 +9,20 @@ description: More than 150 Chinese companies are making humanoid robots but a ma
 importance: 3
 layout: tech_news_article
 original_title: China says humanoid robot buzz carries bubble risk
-publishedAt: '2025-11-28T03:02:32+00:00'
+publishedAt: '2025-11-28T21:31:56+00:00'
 slug: china-says-humanoid-robot-buzz-carries-bubble-risk
 source:
   emoji: 📰
   id: null
-  name: Digital Journal
+  name: Japan Today
 title: China says humanoid robot buzz carries bubble risk
-url: https://www.digitaljournal.com/world/china-says-humanoid-robot-buzz-carries-bubble-risk/article
-urlToImage: https://www.digitaljournal.com/wp-content/uploads/2025/11/c2d02e82a08008868f155fa9d914ec33b55092ba.jpg
-urlToImageBackup: https://www.digitaljournal.com/wp-content/uploads/2025/11/c2d02e82a08008868f155fa9d914ec33b55092ba.jpg
+url: https://japantoday.com/category/tech/china-says-humanoid-robot-buzz-carries-bubble-risk
 ---
 
 More than 150 Chinese companies are making humanoid robots but a market bubble risks forming in the rapidly growing futuristic industry, a Beijing official has warned. Government support and strong supply chains are helping Chinese firms push ahead in the rac…
 
 ---
 
-[Číst původní článek](https://www.digitaljournal.com/world/china-says-humanoid-robot-buzz-carries-bubble-risk/article)
+[Číst původní článek](https://japantoday.com/category/tech/china-says-humanoid-robot-buzz-carries-bubble-risk)
 
-**Zdroj:** 📰 Digital Journal
+**Zdroj:** 📰 Japan Today
