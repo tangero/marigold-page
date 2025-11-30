@@ -1,7 +1,313 @@
 {
-  "generated": "2025-11-30T01:02:27.245786+00:00",
+  "generated": "2025-11-30T04:31:19.225949+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Don’t Burn Anyone at the Stake Today: an enjoyable if uneven read on our technology-driven information crisis",
+      "description": "Naomi Alderman’s casual tone is such a contrast to the more incisive narrative voice in her fiction that this book doesn’t feel as if it was written by the same person",
+      "slug": "dont-burn-anyone-at-the-stake-today-an-enjoyable-i",
+      "publishedAt": "2025-11-29T04:26:00+00:00",
+      "date": "2025-11-29 04:26:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/3J6A6U6YQ5DSPNHD4N64M6V7ME.jpg?smart=true&auth=f134afc45e81f15f95cd8f8de3880cc8b5373887c184ddd8c952b193a524672c&width=1200&height=630",
+      "url": "/tech-news/2025-11-29/dont-burn-anyone-at-the-stake-today-an-enjoyable-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "cohortrag-engine added to PyPI",
+      "description": "The Production-Ready Open Source RAG for Education",
+      "slug": "cohortrag-engine-added-to-pypi",
+      "publishedAt": "2025-11-29T04:11:25+00:00",
+      "date": "2025-11-29 04:11:25",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "url": "/tech-news/2025-11-29/cohortrag-engine-added-to-pypi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Pypi.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Wall Street Week Ahead: Investors on watch for AI, economic updates as US stocks steady",
+      "description": "Indian markets are watching for AI profitability signals and economic health indicators. Stocks rebounded, buoyed by expected December Fed rate cuts. However, AI stock volatility, particularly in Nvidia and Alphabet, keeps investors cautious. Upcoming economi…",
+      "slug": "wall-street-week-ahead-investors-on-watch-for-ai-e",
+      "publishedAt": "2025-11-29T03:48:52+00:00",
+      "date": "2025-11-29 03:48:52",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125650589,width-1200,height-630,imgsize-29998,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-29/wall-street-week-ahead-investors-on-watch-for-ai-e/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "New Study: Artificial Intelligence Can Already Do 11.7% of U.S. Work",
+      "description": "A new labor market analysis from Massachusetts Institute of Technology suggests that artificial intelligence is no longer a future threat to jobs. It is already capable of performing tasks tied to 11.7 percent of total U.S. wages. That represents as much as $…",
+      "slug": "new-study-artificial-intelligence-can-already-do-1",
+      "publishedAt": "2025-11-29T03:44:39+00:00",
+      "date": "2025-11-29 03:44:39",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-29/new-study-artificial-intelligence-can-already-do-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I Know We’re in an AI Bubble Because Nobody Wants Me ",
+      "description": "I first got into deep learning in 2012, when AlexNet came out. I was CTO of Jetpac, a startup that aimed to provide information about bars, hotels, and restaurants by analyzing public photos, for example finding hipster (and Turk) friendly cafes. The results …",
+      "slug": "i-know-were-in-an-ai-bubble-because-nobody-wants-m",
+      "publishedAt": "2025-11-29T03:34:33+00:00",
+      "date": "2025-11-29 03:34:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://secure.gravatar.com/blavatar/a924aa92ac9016bfe9c773a9e47ccf2fb84df9216b8ca936e25899edc1019dd1?s=200&ts=1764390309",
+      "url": "/tech-news/2025-11-29/i-know-were-in-an-ai-bubble-because-nobody-wants-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Petewarden.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fleet Management Software Market worth $5.23 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+      "description": "DELRAY BEACH, Fla., Nov. 28, 2025 /PRNewswire/ -- The Fleet Management Software Market is expected to reach USD USD 1.58 billion in 2025 to USD 5.23 billion by 2032, registering a CAGR of 18.7%. according to a new report by MarketsandMarkets™. Momentum is bui…",
+      "slug": "fleet-management-software-market-worth-523-billion",
+      "publishedAt": "2025-11-29T03:15:00+00:00",
+      "date": "2025-11-29 03:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-29/fleet-management-software-market-worth-523-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Correcting \"articulation\" errors in piano performance using software",
+      "description": "There were an older era of \"analog\" audio recordings, produced in the old \"waveform\", analog audio computer application program, \"Audacity\". They were functionally supported by a \"metronome\", a \"click track\" or a \"rhythm track\". With a lot of concentration an…",
+      "slug": "correcting-articulation-errors-in-piano-performanc",
+      "publishedAt": "2025-11-29T02:45:55+00:00",
+      "date": "2025-11-29 02:45:55",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-29/correcting-articulation-errors-in-piano-performanc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The World’s Smallest Self-Emptying Robot Vacuum Just Hit $191 for Black Friday",
+      "description": "The World’s Smallest Self-Emptying Robot Vacuum Just Hit $191 for Black FridayMost people think of smart home technology in terms of basics like plugs and lightbulbs, but the real innovation is often found in devices that...",
+      "slug": "the-worlds-smallest-self-emptying-robot-vacuum-jus",
+      "publishedAt": "2025-11-29T02:45:19+00:00",
+      "date": "2025-11-29 02:45:19",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/11/draft-switchbot-bf/Switchbot_Black_Friday_AI_Art.jpg",
+      "url": "/tech-news/2025-11-29/the-worlds-smallest-self-emptying-robot-vacuum-jus/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I can't stop talking about the Ninja Creami Swirl - and it's at an all-time low price",
+      "description": "This version of the popular Ninja Creami ice cream maker lets you dispense your own soft serve, and makes an excellent Christmas gift.",
+      "slug": "i-cant-stop-talking-about-the-ninja-creami-swirl-a",
+      "publishedAt": "2025-11-29T02:43:29+00:00",
+      "date": "2025-11-29 02:43:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/56fb5334e179e2121f3e67e13b71ab769e1c36f7/2025/11/24/be8c7665-322e-48f0-8d9e-71c12837eaa9/untitled-design-75.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-29/i-cant-stop-talking-about-the-ninja-creami-swirl-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vaudeville-TENOKE",
+      "description": "Release Description:Vaudeville uses advanced AI technology to create dialogues in real-time. You can interact with the city's intriguing inhabitants using natural language, either by typing or talking into the microphone. Every conversation, every interaction…",
+      "slug": "vaudeville-tenoke",
+      "publishedAt": "2025-11-29T02:39:58+00:00",
+      "date": "2025-11-29 02:39:58",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-29/vaudeville-tenoke/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rlsbb.to"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "$150 Million AI Lobbying War Fuels The Fight Over Preemption",
+      "description": "The $150 million AI lobbying war is reshaping U.S. tech policy as coalitions clash over federal preemption, state authority and the future of AI regulation.",
+      "slug": "A-150-million-ai-lobbying-war-fuels-the-fight-over",
+      "publishedAt": "2025-11-29T02:27:42+00:00",
+      "date": "2025-11-29 02:27:42",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69296b6af72de3e7d5ecd3d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-11-29/A-150-million-ai-lobbying-war-fuels-the-fight-over/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Are OLED TVs finally affordable enough this Black Friday? With prices starting under $550, this is the time to finally get your dream TV",
+      "description": "OLED TVs are highly desirable for a lot of reasons, but is this Black Friday the time to consider one? Here's what you need to know.",
+      "slug": "are-oled-tvs-finally-affordable-enough-this-black-",
+      "publishedAt": "2025-11-29T02:06:23+00:00",
+      "date": "2025-11-29 02:06:23",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4JSSuxfse2sTGSzbnF7Rxc-1600-80.jpg",
+      "url": "/tech-news/2025-11-29/are-oled-tvs-finally-affordable-enough-this-black/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bending Spoons to acquire AOL following $2.8B debt financing [Italian Company Bought AOL]",
+      "description": "Bending Spoons to acquire AOL following $2.8B debt financing Oct 30, 2025 Acquisition positions historic brand for its next phase of growth MILAN--(BUSINESS WIRE)--Technology company Bending Spoons today announced that it has entered into a definitive agreeme…",
+      "slug": "bending-spoons-to-acquire-aol-following-28b-debt-f",
+      "publishedAt": "2025-11-29T02:04:14+00:00",
+      "date": "2025-11-29 02:04:14",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-29/bending-spoons-to-acquire-aol-following-28b-debt-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI shopping bots pose new challenge to Amazon’s market lead",
+      "description": "Emerging AI shopping bots are beginning to disrupt Amazon's e-commerce dominance by offering consumers personalized shopping experiences and price comparisons. These bots leverage advanced algorithms to streamline the purchasing process, potentially shifting …",
+      "slug": "ai-shopping-bots-pose-new-challenge-to-amazons-mar",
+      "publishedAt": "2025-11-29T01:57:32+00:00",
+      "date": "2025-11-29 01:57:32",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2025-11-29/ai-shopping-bots-pose-new-challenge-to-amazons-mar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Top tech and startup stories this week",
+      "description": "Welcome to a new edition of ETtech Unwrapped — our weekend newsletter packed with the most important stories this week. Let's take a look.",
+      "slug": "top-tech-and-startup-stories-this-week",
+      "publishedAt": "2025-11-29T01:34:19+00:00",
+      "date": "2025-11-29 01:34:19",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125649613,width-1070,height-580,imgsize-1534634,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2025-11-29/top-tech-and-startup-stories-this-week/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Gemini 3 is doing such a good job of being human that it’s unsettling",
+      "description": "Stressed? Impatient? Thinking? Gemini knows, and wants to come along for the ride",
+      "slug": "gemini-3-is-doing-such-a-good-job-of-being-human-t",
+      "publishedAt": "2025-11-29T01:30:01+00:00",
+      "date": "2025-11-29 01:30:01",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/25/1600x900/logo/TECH-AI-ALPHABET-0_1764072739008_1764072747521.JPG",
+      "url": "/tech-news/2025-11-29/gemini-3-is-doing-such-a-good-job-of-being-human-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bigger than COVID? The graph that explains why AI is going to be so huge",
+      "description": "Artificial intelligence is getting very good, very fast. Whether it's music, text, code or imagery, the time when it was reliably possible to tell the difference between AI and human outputs is disappearing at an alarming rate.",
+      "slug": "bigger-than-covid-the-graph-that-explains-why-ai-i",
+      "publishedAt": "2025-11-29T01:24:00+00:00",
+      "date": "2025-11-29 01:24:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://e3.365dm.com/25/11/1600x900/skynews-manthorpe-ai_7095050.png?20251129030236",
+      "url": "/tech-news/2025-11-29/bigger-than-covid-the-graph-that-explains-why-ai-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sky.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Taking Flight: Pennsylvania Guard Expands Drone Usage",
       "description": "FORT INDIANTOWN GAP, Pa. – In a small aircraft hangar on the east end of the post, a makeshift obstacle course has been built primarily from leftover construction material such as wood and PVC pipes. This isn’t an obstacle course for Soldiers to test their fi…",
@@ -165,24 +471,6 @@
       "people": []
     },
     {
-      "title": "Google drops EU antitrust complaint against Microsoft amid cloud probe",
-      "description": "Google LLC has dropped an antitrust complaint that it filed in the European Union last year over Microsoft Corp.’s business practices. The search giant announced the move today. The development comes a few days after the European Commission, the EU’s executiv…",
-      "slug": "google-drops-eu-antitrust-complaint-against-micros",
-      "publishedAt": "2025-11-28T23:27:46+00:00",
-      "date": "2025-11-28 23:27:46",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/IMG_3819-800x533-1-2.jpg",
-      "url": "/tech-news/2025-11-28/google-drops-eu-antitrust-complaint-against-micros/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance",
       "description": "Streamline your AWS infrastructure development with AI-powered documentation search, validation, and troubleshooting Introduction Today, we’re excited to introduce the AWS Infrastructure-as-Code (IaC) MCP Server, a new tool that bridges the gap between AI ass…",
       "slug": "introducing-the-aws-infrastructure-as-code-mcp-ser",
@@ -327,6 +615,24 @@
       "people": []
     },
     {
+      "title": "Power On: Applied Digital’s First AI Data Center Goes Live",
+      "description": "Applied Digital's stock rallied after energizing its AI campus, validating its strategy to secure multi-billion dollar contracts from power-hungry...",
+      "slug": "power-on-applied-digitals-first-ai-data-center-goe",
+      "publishedAt": "2025-11-28T21:11:00+00:00",
+      "date": "2025-11-28 21:11:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/marketbeat_955/4b3ce7fd4ecd340c7f9085b962a51550",
+      "url": "/tech-news/2025-11-28/power-on-applied-digitals-first-ai-data-center-goe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MarketBeat"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Why the US can no longer impose its ‘values’ on Saudi Arabia",
       "description": "Washington increasingly has to negotiate from a position not of absolute dominance, but of relative advantage Read Full Article at RT.com",
       "slug": "why-the-us-can-no-longer-impose-its-values-on-saud",
@@ -340,6 +646,24 @@
         "emoji": "📰",
         "id": "rt",
         "name": "RT"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Regulations Can Create The Monopolies They’re Meant To Prevent",
+      "description": "In this article, The Dispatch examines how regulatory compliance costs affect market competition across various industries.",
+      "slug": "regulations-can-create-the-monopolies-theyre-meant",
+      "publishedAt": "2025-11-28T21:00:00+00:00",
+      "date": "2025-11-28 21:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/black_enterprise_497/076d273d0163b6dad4a614ecfe08f574",
+      "url": "/tech-news/2025-11-28/regulations-can-create-the-monopolies-theyre-meant/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
@@ -723,24 +1047,6 @@
       "people": []
     },
     {
-      "title": "From the Editor’s Desk: No Synthesizers! ⭐",
-      "description": "We can learn everything we need to know about AI and the workplace by studying Queen's 1970s stance on synthesizers.\nThe post From the Editor’s Desk: No Synthesizers! ⭐ appeared first on Thurrott.com.",
-      "slug": "from-the-editors-desk-no-synthesizers",
-      "publishedAt": "2025-11-28T18:15:18+00:00",
-      "date": "2025-11-28 18:15:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/11/no-synths.jpg",
-      "url": "/tech-news/2025-11-28/from-the-editors-desk-no-synthesizers/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thurrott.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Supermicro JumpStart Review: A Week With an NVIDIA HGX B200",
       "description": "We spent a week testing an HGX B200 through Supermicro JumpStart to see how remote bare-metal access speeds AI platform decisions. Supermicro’s JumpStart program takes a very different approach to hardware evaluation. Instead of a short, scripted demo in a sh…",
       "slug": "supermicro-jumpstart-review-a-week-with-an-nvidia-",
@@ -754,24 +1060,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Storagereview.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Fox News AI Newsletter: How to stop AI from scanning your email",
-      "description": "The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.",
-      "slug": "fox-news-ai-newsletter-how-to-stop-ai-from-scannin",
-      "publishedAt": "2025-11-28T18:03:05+00:00",
-      "date": "2025-11-28 18:03:05",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/3-is-it-safe-to-unsubscribe-from-spam-you-didnt-sign-up-for.jpg",
-      "url": "/tech-news/2025-11-28/fox-news-ai-newsletter-how-to-stop-ai-from-scannin/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
       },
       "companies": [],
       "people": []
@@ -921,42 +1209,6 @@
       "people": []
     },
     {
-      "title": "Global Geothermal Investment Enters New High-Growth Era",
-      "description": "Global geothermal investment is entering a period of accelerated growth, with capital expenditure (capex) expected to climb about 20% annually through 2030, according to Rystad Energy’s latest geothermal economics model. This momentum comes as geothermal ener…",
-      "slug": "global-geothermal-investment-enters-new-high-growt",
-      "publishedAt": "2025-11-28T17:00:00+00:00",
-      "date": "2025-11-28 17:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-28_cjxhzvksnt.jpg",
-      "url": "/tech-news/2025-11-28/global-geothermal-investment-enters-new-high-growt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gauge Emerging Large-Cap Leadership With This Stock Market Screen",
-      "description": "Stock market leadership continues to broaden. Take a look at airline stocks, which were among the top gainers during Wednesday's pre-Thanksgiving rally, while money continued to flow out of large-cap technology names like Meta Platforms (META) and Oracle (ORC…",
-      "slug": "gauge-emerging-large-cap-leadership-with-this-stoc",
-      "publishedAt": "2025-11-28T16:58:09+00:00",
-      "date": "2025-11-28 16:58:09",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/06269537245a79c0_s.webp",
-      "url": "/tech-news/2025-11-28/gauge-emerging-large-cap-leadership-with-this-stoc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Trade Desk (TTD) Down More Than 14% Since Q3 Earnings, Here’s Why",
       "description": "The Trade Desk, Inc. (NASDAQ:TTD) is one of the Under-the-Radar Stocks to Buy with Massive Upside Heading into 2026. The Trade Desk, Inc. (NASDAQ:TTD) has...",
       "slug": "trade-desk-ttd-down-more-than-14-since-q3-earnings",
@@ -1060,42 +1312,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Techreport.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Forget $4,000 Apple VR Headset, Meta Quest 3S Drops to All-Time Low With 50K Units Sold on Amazon",
-      "description": "This is the best value for money VR headset on the market.\nThe post Forget $4,000 Apple VR Headset, Meta Quest 3S Drops to All-Time Low With 50K Units Sold on Amazon appeared first on Kotaku.",
-      "slug": "forget-4000-apple-vr-headset-meta-quest-3s-drops-t",
-      "publishedAt": "2025-11-28T16:35:53+00:00",
-      "date": "2025-11-28 16:35:53",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/meta-quest-3s-128.jpg",
-      "url": "/tech-news/2025-11-28/forget-4000-apple-vr-headset-meta-quest-3s-drops-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Global-e to Participate in UBS and Raymond James Investor Conferences in December 2025",
-      "description": "PETACH TIKVAH, Israel, Nov. 28, 2025 (GLOBE NEWSWIRE) -- Global-e\r\n (Nasdaq: GLBE), the platform powering global direct-to-consumer e-commerce, today announced that it will participate in the following conferences in December 2025:",
-      "slug": "global-e-to-participate-in-ubs-and-raymond-james-i",
-      "publishedAt": "2025-11-28T16:30:00+00:00",
-      "date": "2025-11-28 16:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/92952a2a-00ff-44cf-8c8c-d13300b285f2",
-      "url": "/tech-news/2025-11-28/global-e-to-participate-in-ubs-and-raymond-james-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -1515,24 +1731,6 @@
       "people": []
     },
     {
-      "title": "Getting Started with the Claude Agent SDK",
-      "description": "Set up, build, and test agentic apps with Claude Code, powered by your locally installed Claude CLI and Claude Code subscription.",
-      "slug": "getting-started-with-the-claude-agent-sdk",
-      "publishedAt": "2025-11-28T15:00:42+00:00",
-      "date": "2025-11-28 15:00:42",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/awan_getting_started_claude_agent_sdk_2.png",
-      "url": "/tech-news/2025-11-28/getting-started-with-the-claude-agent-sdk/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kdnuggets.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Selected Articles: Save Human Beings From the Abuse of Neurotechnologies",
       "description": "Save Human Beings From the Abuse of Neurotechnologies\nBy Mojmir Babacek, November 27, 2025\nThe United Nations and the European Union warned against the possible abuse of neurotechnologies and artificial intelligence to control human behavior, but did not ackn…",
       "slug": "selected-articles-save-human-beings-from-the-abuse",
@@ -1636,24 +1834,6 @@
         "emoji": "📰",
         "id": "financial-post",
         "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google pledges N3bn to boost Nigeria’s national AI strategy",
-      "description": "Google.org has pledged N3bn to support Nigeria’s AI strategy, focusing on advanced AI training and digital safety to boost the nation’s digital economy.\n\nRead More: https://punchng.com/google-pledges-n3bn-to-boost-nigerias-national-ai-strategy/",
-      "slug": "google-pledges-n3bn-to-boost-nigerias-national-ai-",
-      "publishedAt": "2025-11-28T14:52:03+00:00",
-      "date": "2025-11-28 14:52:03",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/08/05030544/google-1200x630.webp",
-      "url": "/tech-news/2025-11-28/google-pledges-n3bn-to-boost-nigerias-national-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
       },
       "companies": [],
       "people": []
@@ -1888,24 +2068,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Five years on, Google DeepMind’s AlphaFold shows why science may be AI’s killer app",
-      "description": "In five years since AlphaFold's debut, it has transformed basic biochemical research. But its long-term effect on drug discovery remains unclear.",
-      "slug": "five-years-on-google-deepminds-alphafold-shows-why",
-      "publishedAt": "2025-11-28T12:15:31+00:00",
-      "date": "2025-11-28 12:15:31",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2176921835-e1764328068614.jpg?resize=1200,600",
-      "url": "/tech-news/2025-11-28/five-years-on-google-deepminds-alphafold-shows-why/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
       },
       "companies": [],
       "people": []
@@ -2158,24 +2320,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Futures and Treasuries markets on CME black out overnight, after a glitch at an all-important data centre",
-      "description": "\"BrokerTec EU markets are open and trading. All other CME Group markets remain halted due to a data center cooling issue at CyrusOne,\" CME told Fortune.",
-      "slug": "futures-and-treasuries-markets-on-cme-black-out-ov",
-      "publishedAt": "2025-11-28T11:11:27+00:00",
-      "date": "2025-11-28 11:11:27",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247199406-e1764327422287.jpg?resize=1200,600",
-      "url": "/tech-news/2025-11-28/futures-and-treasuries-markets-on-cme-black-out-ov/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
       },
       "companies": [],
       "people": []
@@ -2577,24 +2721,6 @@
       "people": []
     },
     {
-      "title": "“Frappe” and Nikos…(only for frappes), Pierre submits his candidacy for the Eurogroup today, the blue lamb chops, MPs in despair (because of Zoe), Malvestio’s tricks with the Hellenic Exchanges",
-      "description": "The U.S. moves toward deregulation for banks—panic in Europe\nThe post “Frappe” and Nikos…(only for frappes), Pierre submits his candidacy for the Eurogroup today, the blue lamb chops, MPs in despair (because of Zoe), Malvestio’s tricks with the Hellenic Excha…",
-      "slug": "frappe-and-nikosonly-for-frappes-pierre-submits-hi",
-      "publishedAt": "2025-11-28T08:04:19+00:00",
-      "date": "2025-11-28 08:04:19",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png",
-      "url": "/tech-news/2025-11-28/frappe-and-nikosonly-for-frappes-pierre-submits-hi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Japan's BIH and Beijing Hoshikawa to mass-produce semi-solid batteries for BAIC hybrids in 2026",
       "description": "Japanese startup BIH and Chinese automotive battery firm Beijing Hoshikawa New Energy Battery Technology announced on November 26, 2025, the successful implementation of semi-solid lithium-ion battery technology in the mass production of batteries for hybrid …",
       "slug": "japans-bih-and-beijing-hoshikawa-to-mass-produce-s",
@@ -2631,24 +2757,6 @@
       "people": []
     },
     {
-      "title": "From Airwraps to vacuums, Dyson’s Black Friday deals will blow you away",
-      "description": "We're all heart-eyes right now.",
-      "slug": "from-airwraps-to-vacuums-dysons-black-friday-deals",
-      "publishedAt": "2025-11-28T08:00:00+00:00",
-      "date": "2025-11-28 08:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/dyson2.png?w=1200",
-      "url": "/tech-news/2025-11-28/from-airwraps-to-vacuums-dysons-black-friday-deals/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "(PR) SK Hynix Showcases Advanced AI Memory From HBM4 to Next-Gen Storage at SC25",
       "description": "SK hynix showcased advanced memory technologies for the era of AI and high-performance computing (HPC) at Supercomputing 2025 (SC25), held in St. Louis, the U.S., from November 16-21. Held annually since 1988, SC is the world's largest global HPC conference. …",
       "slug": "pr-sk-hynix-showcases-advanced-ai-memory-from-hbm4",
@@ -2680,24 +2788,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The Local Germany"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Funds, credits and investments of over €2.5 billion in Defense in the coming years",
-      "description": "From SAFE, the EIB, but also from non-allocated resources of the Recovery and Resilience Facility and the NSRF, the €2.5 billion for the next 4–5 years\nThe post Funds, credits and investments of over €2.5 billion in Defense in the coming years appeared first …",
-      "slug": "funds-credits-and-investments-of-over-25-billion-i",
-      "publishedAt": "2025-11-28T07:33:35+00:00",
-      "date": "2025-11-28 07:33:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/11/amyna-233-1280x852-1.jpg",
-      "url": "/tech-news/2025-11-28/funds-credits-and-investments-of-over-25-billion-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Protothema.gr"
       },
       "companies": [],
       "people": []
@@ -2860,24 +2950,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Globalsecurity.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "GMKtec M3 Ultra “Intel Core i7-12700H” Mini PC Review – Palm-Sized Productivity Station Starting at $299",
-      "description": "GMKtec has been making Mini PCs for years now. They are based in the technology hub of Shenzhen, China, have maintained strategic partnerships with AMD, Intel & Microsoft, and currently offer a wide array of solutions, from entry-level to enthusiast-grade des…",
-      "slug": "gmktec-m3-ultra-intel-core-i7-12700h-mini-pc-revie",
-      "publishedAt": "2025-11-28T05:55:39+00:00",
-      "date": "2025-11-28 05:55:39",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/DSC_0169-Custom.jpg",
-      "url": "/tech-news/2025-11-28/gmktec-m3-ultra-intel-core-i7-12700h-mini-pc-revie/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
       },
       "companies": [],
       "people": []
@@ -3099,24 +3171,6 @@
       "people": []
     },
     {
-      "title": "Geofencing Market Set for Strong Growth to USD 15.97 Billion by 2033, Driven by Expanding Location-Based Marketing and IoT Adoption | Research by SNS Insider",
-      "description": "The Geofencing Market is advancing rapidly as improvements in GPS, mobile, and IoT technologies boost adoption for marketing, asset tracking, and security, with the U.S. segment rising from USD 0.88 billion in 2025E toward USD 4.09 billion by 2033 as enterpri…",
-      "slug": "geofencing-market-set-for-strong-growth-to-usd-159",
-      "publishedAt": "2025-11-28T04:40:00+00:00",
-      "date": "2025-11-28 04:40:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-11-28/geofencing-market-set-for-strong-growth-to-usd-159/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Conversation does news differently",
       "description": "Our readers help us take the path less travelled.",
       "slug": "the-conversation-does-news-differently",
@@ -3184,42 +3238,6 @@
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Geriatric Care Services Market is expected to generate a revenue of USD 2.03 Billion by 2032, Globally, at 7.98% CAGR: Verified Market Research®",
-      "description": "The Geriatric Care Services Market is driven by the rapid rise in the aging population, increased prevalence of chronic diseases, and growing demand for cost-efficient home healthcare solutions. However, staffing shortages, high operational costs, and limited…",
-      "slug": "geriatric-care-services-market-is-expected-to-gene",
-      "publishedAt": "2025-11-28T03:50:00+00:00",
-      "date": "2025-11-28 03:50:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/707830b6-cf87-43db-be66-c125971e42be",
-      "url": "/tech-news/2025-11-28/geriatric-care-services-market-is-expected-to-gene/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gigastorage advances AI cooling, CGM medical devices, and green energy",
-      "description": "At its investor conference on November 27, 2025, Gigastorage Corporation shared details regarding its strategic shift from its early photovoltaic (PV) business toward AI computing, cooling, and personal health micro-sensing. In the HPC and AI fields, Gigastor…",
-      "slug": "gigastorage-advances-ai-cooling-cgm-medical-device",
-      "publishedAt": "2025-11-28T03:47:57+00:00",
-      "date": "2025-11-28 03:47:57",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251128pd222_files/1_b.jpg",
-      "url": "/tech-news/2025-11-28/gigastorage-advances-ai-cooling-cgm-medical-device/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
       },
       "companies": [],
       "people": []
@@ -3418,24 +3436,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google CEO says vibe coding has made software development 'so much more enjoyable' and 'exciting again'",
-      "description": "Google CEO Sundar Pichai said vibe coding is making software development more accessible to non-technical workers — and creating more excitement.",
-      "slug": "google-ceo-says-vibe-coding-has-made-software-deve",
-      "publishedAt": "2025-11-28T01:16:42+00:00",
-      "date": "2025-11-28 01:16:42",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/6928e45089026fbb4d0e9341?width=1200&format=jpeg",
-      "url": "/tech-news/2025-11-28/google-ceo-says-vibe-coding-has-made-software-deve/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
       },
       "companies": [],
       "people": []
