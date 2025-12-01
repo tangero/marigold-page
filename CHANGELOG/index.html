@@ -221,6 +221,19 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h2 id="unreleased">[Unreleased]</h2>
 
+<h3 id="changed">Changed</h3>
+<ul>
+  <li><strong>LLM model pro tech-news změněn z <code class="language-plaintext highlighter-rouge">qwen/qwen3-max</code> na <code class="language-plaintext highlighter-rouge">x-ai/grok-4.1-fast:free</code></strong> (<code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code>)
+    <ul>
+      <li>Nový primární model: <code class="language-plaintext highlighter-rouge">x-ai/grok-4.1-fast:free</code> (bezplatný)</li>
+      <li>Automatický fallback na <code class="language-plaintext highlighter-rouge">anthropic/claude-haiku-4.5</code> při selhání (HTTP 402, 429, 503)</li>
+      <li>Nová helper metoda <code class="language-plaintext highlighter-rouge">_call_llm_with_fallback()</code> s retry logikou</li>
+      <li>Logging aktuálně použitého modelu na konci běhu</li>
+      <li>Konfigurace modelů centralizována do class konstant <code class="language-plaintext highlighter-rouge">PRIMARY_MODEL</code> a <code class="language-plaintext highlighter-rouge">FALLBACK_MODEL</code></li>
+    </ul>
+  </li>
+</ul>
+
 <h3 id="added">Added</h3>
 <ul>
   <li><strong>Seznam.cz Discussion System</strong> - nativní diskuzní systém místo commentbox.io
@@ -320,7 +333,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
   <li>Trailing dash v URL na titulní stránce (Tech News sekce) - odstranění trailing dashe ze slugu v <code class="language-plaintext highlighter-rouge">index.html</code></li>
 </ul>
 
-<h3 id="changed">Changed</h3>
+<h3 id="changed-1">Changed</h3>
 <ul>
   <li><strong>Filtering thresholds</strong> - rozšířený tech whitelist v content filteru
     <ul>
@@ -366,7 +379,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
   <li>GitHub Actions CI/CD</li>
 </ul>
 
-<h3 id="changed-1">Changed</h3>
+<h3 id="changed-2">Changed</h3>
 <ul>
   <li>Initial release</li>
 </ul>
