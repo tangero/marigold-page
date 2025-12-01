@@ -504,7 +504,7 @@ prosinec
   <div class="entry">
     <p>Před technologicky dávnou dobou jsem napsal článek o tom, k čemu lze použít jednotlivé konkrétní LLM. Modelů AI je totiž celá řada a každý je vhodný na něco jiného. I docela “přehledný” Anthropic má hned tři modely, které se liší buďto cenou, nebo rychlostí, jakou vám vyčerpají přidělenou kapacitu - to podle toho, zda platíte za dotaz nebo paušální poplatek. A i s ohledem k na kvalitu odpovědí je rozumné zamyslet se nad tím, který model použít.</p>
 
-<p><strong>Aktualizace:</strong> čtvrt hodiny po vydání článku vydal DeepSeek novou verzi 3.2 a její výsledky jsem do článku zapracoval…</p>
+<p><strong>Aktualizace:</strong> čtvrt hodiny po vydání článku vydal DeepSeek novou verzi 3.2 a její výsledky jsem do článku zapracoval… Zároveň Grok vydal novou verzi 4.1 a její výsledky je také vhodné zapracovat.</p>
 
 <p>Dobrým vodítkem jsou nám testy, já budu nyní vycházet z <a href="https://htihle.github.io/weirdml.html">V2 WeirdML</a> a čerstvě uniklých benchmarků matematických olympiád. Tyto testy totiž netestují jen “znalost Pythonu”, ale simuluje reálnou práci ML inženýra či matematika. A právě v momentě, kdy jsem dopisoval tento text, se objevila nová data, která situaci dramaticky mění.</p>
 
@@ -534,6 +534,9 @@ prosinec
   <li>
     <p><strong>Specializace Anthropicu:</strong> Claude už nesoutěží hrubou silou, ale “lidskostí” a spolehlivostí agentů. <strong>Claude Code</strong> je nejlepší software pro autonomní vývoj.</p>
   </li>
+  <li>
+    <p><strong>Potenciální skokan: Grok 4.1 (Fast &amp; Reasoning)</strong>. Novinka týdne. xAI uvedla model, který má 2 miliony tokenů kontextu (stejně jako Gemini) a schopnost Reasoning (přemýšlení), přičemž cena je stanovena na $0.20 za milion tokenů. To zní velmi lákavě pro sumarizaci a agenty, ale model zatím nemáme dlouhodobě ověřený.</p>
+  </li>
 </ol>
 
 <p>Nyní si pojďme vyhodnotit situaci na poli modelů trochu podrobněji.</p>
@@ -559,6 +562,60 @@ prosinec
 <p><strong>Závěrem:</strong> pokud používáte předplatné Google, máte v rámci něho dostupné Gemini 3 Pro a výrazně doporučuji se jím začít zabývat. Zatím tu není tolik integrací a také podpora projektů a GEMů je slabší, než v případě OpenAI, ale dá se to překlenout a očekávám, že tu Google zapracuje. A kromě “síly” modelu a jeho uvažování je velkou výhodou multimodalita.</p>
 
 <p>Google Gemini se tak definitivně stalo skokanem roku v obecné inteligenci.</p>
+
+<p>Zde je aktualizovaná verze článku. Upravil jsem pasáže týkající se modelu Grok 4.1 tak, aby vyznění odpovídalo realitě – tedy že jde o velmi čerstvou a cenově atraktivní novinku, kterou je však potřeba teprve důkladně prověřit v praxi, nikoliv o prověřený standard.</p>
+
+<p>Zároveň jsem text prošel a odstranil superlativy, aby odpovídal vašemu požadavku na střízlivější tón.</p>
+
+<p>author: Patrick Zandl categories:</p>
+
+<p>AI</p>
+
+<p>LLM layout: post summary_points:</p>
+
+<p>Shrnutí aktuální situace na trhu LLM pro prosinec 2025: Souboj o ceny a kontext</p>
+
+<p>NOVINKA: Grok 4.1 přichází s 2M kontextem a “Reasoning” schopnostmi za velmi nízkou cenu – stojí za vyzkoušení</p>
+
+<p>ANALÝZA: DeepSeek-V3.2 “Speciale” ukazuje vysoký výkon v matematice, ale s vyšší spotřebou tokenů</p>
+
+<p>Porovnání hlavních modelů: Kdy dává smysl Gemini 3 Pro a kdy zkusit Grok?</p>
+
+<p>Cenové strategie: Anthropic a OpenAI čelí tlaku levnější konkurence</p>
+
+<p>Praktické rady pro vývojáře: Jak efektivně kombinovat modely</p>
+
+<p>Upozornění na limity tarifů a proč je dobré nové modely nejprve otestovat post_excerpt: Trh s AI se rychle mění. Zatímco Čína sází na výkon v matematice, xAI přichází s agresivní cenovou politikou. Grok 4.1 nabízí parametry drahých modelů velmi levně. Je to ale použitelná alternativa? title: “Jak vybrat vhodné LLM: Souboj o kontext a cenu (Prosinec 2025)” thumbnail:</p>
+
+<p>Před časem jsem napsal článek o možnostech využití jednotlivých LLM. Situace se ale vyvíjí a to, co platilo dříve, se mění. Právě když se zdálo, že Google s modelem Gemini 3 Pro obsadil pozici pro náročné úlohy a Čína nabízí řešení pro matematiku, přišla xAI s modelem Grok 4.1, který výrazně míchá kartami v oblasti ceny.</p>
+
+<p>Dobrým vodítkem jsou testy, vycházím z V2 WeirdML, benchmarků matematických olympiád a nových ceníků xAI. Ukazuje se, že rovnice “levný model = méně schopný model” nemusí platit vždy, ačkoliv u novinek je na místě opatrnost.</p>
+
+<p>Proč řešit cenu tokenů? Protože rozdíly jsou značné. Zatímco u jednoho modelu zaplatíte za analýzu knihy desítky dolarů, u jiného to může být zlomek této částky s výsledkem, který stojí za porovnání.</p>
+
+<p>A o čem bude řeč? {:toc}</p>
+
+<p>Stav trhu LLM (Prosinec 2025) - Executive Summary
+Univerzální volba: Gemini 3 Pro si drží pozici v oblasti obecné inteligence. Nabízí dobré pochopení kontextu, multimodalitu a logiku. Pokud hledáte stabilitu a cena není hlavním kritériem, jde o rozumnou volbu.</p>
+
+<p>Specialista na vědu: DeepSeek-V3.2 “Speciale”. Čínský model, který v matematice a kódu dosahuje výsledků srovnatelných s Googlem či OpenAI. Je náročný na spotřebu tokenů, což se může projevit na rychlosti, ale pro specifické výpočty je velmi výkonný.</p>
+
+<p>Potenciální skokan: Grok 4.1 (Fast &amp; Reasoning). Novinka týdne. xAI uvedla model, který má 2 miliony tokenů kontext (stejně jako Gemini) a schopnost Reasoning (přemýšlení), přičemž cena je stanovena na $0.20 za milion tokenů. To zní velmi lákavě pro sumarizaci a agenty, ale model zatím nemáme dlouhodobě ověřený.</p>
+
+<p>Pozice OpenAI: GPT-5.1 je nákladnější a v některých benchmarcích ztrácí. OpenAI těží ze setrvačnosti a modelu o4-mini, který však v Grokovi získává cenově agresivního konkurenta.</p>
+
+<h2 id="grok-41-slibná-novinka-za-20-centů">Grok 4.1: Slibná novinka za 20 centů</h2>
+<p>Elonova xAI <a href="https://docs.x.ai/docs/models/grok-4-1-fast-non-reasoning">vydala ceník pro řadu Grok 4.1</a>, který představuje výzvu pro konkurenci v oblasti zpracování velkých dat.</p>
+
+<p>Podívejme se na parametry modelu grok-4-1-fast-reasoning:</p>
+
+<ul>
+  <li>Kontext: 2 000 000 tokenů. To umožňuje nahrát rozsáhlou dokumentaci nebo databáze. Tím se papírově vyrovnává Gemini 1.5/2.5 Pro.</li>
+  <li>Schopnosti: Má v názvu “Reasoning”. Měl by tedy disponovat schopností řetězení myšlenek (Chain of Thought).</li>
+  <li>Cena: $0.20 za 1M vstupních tokenů / $0.50 za 1M výstupních.</li>
+</ul>
+
+<p>Co to znamená? Oproti staršímu modelu grok-4-0709, který stál $3.00 za vstup, je nová verze výrazně dostupnější a nabízí větší kontext. Jde o zajímavou alternativu k modelům jako Gemini Flash nebo Claude Haiku. Pokud potřebujete analyzovat rozsáhlé PDF, Grok se jeví jako ekonomicky velmi efektivní řešení, které stojí za vyzkoušení. Praktickou zkušenost s ním ale zatím nemám.</p>
 
 <h2 id="čínský-drak-deepseek-zase-zvyšuje-tlak">Čínský drak: DeepSeek zase zvyšuje tlak</h2>
 
@@ -588,37 +645,24 @@ prosinec
   </li>
 </ol>
 
-<h2 id="a-co-zuckerberg-a-musk">A co Zuckerberg a Musk?</h2>
-
-<h3 id="grok-xai-šampion-levné-efektivity">Grok (xAI): “Šampion levné efektivity”</h3>
-
-<p>Elonova xAI našla svou nikou. Není to SOTA, ale je to “best value”.</p>
-
-<ul>
-  <li>
-    <p><strong>💎 Skrytý poklad: Grok 4 Fast</strong> <code class="language-plaintext highlighter-rouge">**grok-4-fast**</code></p>
-  </li>
-  <li>
-    <p><strong>Výkon:</strong> Přesnost <strong>0.429</strong>.</p>
-  </li>
-  <li>
-    <p><strong>Cena:</strong> <strong>$0.013</strong> za běh!</p>
-  </li>
-  <li>
-    <p><strong>Interpretace:</strong> Grok-4-fast je jedním z nejlepších modelů v poměru cena/výkon pro masové zpracování dat. Je 7× levnější než Claude Haiku a nabízí ekvivalentní přesnost pro běžné úkoly.</p>
-  </li>
-  <li>
-    <p><strong>Use-case:</strong> Pokud potřebujete zpracovávat terabajty dat, Grok-4-fast je nejlepší “low-cost” volba.</p>
-  </li>
-</ul>
-
-<h3 id="llama-meta-a-mistral-pád-králů">LLAMA (Meta) a Mistral: Pád králů?</h3>
+<h2 id="llama-meta-a-mistral-pád-králů">LLAMA (Meta) a Mistral: Pád králů?</h2>
 
 <p>Mark Zuckerberg v AI stále zaostává. <strong>Llama v oblasti reasoningu ztratila kontakt se špičkou.</strong> Model <code class="language-plaintext highlighter-rouge">llama-4-maverick</code> má přesnost pouze <strong>0.245</strong>. Oproti Gemini 3 Pro (0.699) je to pravěk. Mistral je na tom podobně. V aktuálním dravém trhu pro ně z čistě pragmatického hlediska ROI neexistuje obhajitelný use-case.</p>
 
 <h2 id="jaký-model-použít-na-jaký-typ-úloh">Jaký model použít na jaký typ úloh?</h2>
 
 <p>Níže uvádím aktualizovaná doporučení pro klíčové oblasti, zohledňující nástup DeepSeeku:</p>
+
+<h3 id="sumarizace-a-analýza-rozsáhlých-dokumentů-rag">Sumarizace a Analýza rozsáhlých dokumentů (RAG)</h3>
+
+<ul>
+  <li>
+    <p><strong>Zajímavá alternativa: Grok 4.1 Fast Reasoning.</strong> S kontextem 2M tokenů a cenou $0.20 jde o ekonomicky atraktivní volbu. Doporučuji jej vyzkoušet na interních dokumentech, zda jeho výstupy odpovídají vašim požadavkům.</p>
+  </li>
+  <li>
+    <p><strong>Ověřená kvalita: Gemini 2.5 Flash / Pro.</strong> Pokud potřebujete mít jistotu, že modelu neunikne detail v dlouhém textu, Gemini zatím vykazuje stabilnější výsledky.</p>
+  </li>
+</ul>
 
 <h3 id="1-překlad-z-angličtiny-do-češtiny">1. Překlad z angličtiny do češtiny</h3>
 
@@ -653,6 +697,10 @@ Pro práci s multimodálními daty (PDF grafy + Excel) je Gemini stále nejbezpe
     <p><strong>Hardcore Math &amp; Logic: DeepSeek-V3.2 Speciale.</strong>
 Pokud potřebujete čistou matematiku, statistiku nebo složité výpočty a nevadí vám, že si model chvíli “zapřemýšlí” (a sežere hodně tokenů), DeepSeek je nyní přesnější než Gemini.</p>
   </li>
+  <li>
+    <p><strong>K vyzkoušení: Grok 4.1 Fast Reasoning.</strong> 
+Díky deklarovaným “Reasoning” schopnostem by měl zvládat strukturu (JSON) lépe než starší modely. Je vhodné jej nasadit paralelně a ověřit přesnost na datech.</p>
+  </li>
 </ul>
 
 <h3 id="4-sestavení-horoskopu-a-kreativa">4. Sestavení horoskopu a kreativa</h3>
@@ -684,8 +732,8 @@ Pro náročné algoritmické úlohy je DeepSeek Speciale (CodeForces 2701) novou
 <p>Pokud chcete maximalizovat efektivitu, doporučuji <strong>hybridní přístup</strong>. Registrujte se na <a href="https://www.openrouter.ai">OpenRouter.ai</a> a vybírejte si model podle úkolu:</p>
 
 <ol>
-  <li><strong>Výchozí model:</strong> <strong>Claude 4.5 Haiku</strong> (texty, chat).</li>
-  <li><strong>Data mining / Objem:</strong> <strong>Grok-4-fast</strong> (nejlevnější dělník).</li>
+  <li><strong>Výchozí model:</strong> <strong>Claude 4.5 Haiku</strong> (texty, chat) nebo po otestování <strong>Grok 4.1 Fast Reasoning</strong>. Zkuste jej nasadit na objemové úlohy. Pokud se osvědčí, ušetříte významné prostředky ($0.20/1M).</li>
+  <li><strong>Komunikace a Styl: Claude 4.5 Haiku</strong>. Pro texty, kde záleží na formě.</li>
   <li><strong>Matematika / Hardcore Kód:</strong> <strong>DeepSeek-V3.2 Speciale</strong> (když potřebujete hrubou sílu a genialitu).</li>
   <li><strong>Kritický byznys kontext:</strong> <strong>Gemini 3 Pro</strong> (všeobecná inteligence).</li>
 </ol>
@@ -756,10 +804,10 @@ window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
                   
                 </p>
               </td>
@@ -767,10 +815,10 @@ window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
           
             <tr>
               <td>
-                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
+                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
                 <p class="excerpt">
                   
-                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
+                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
                   
                 </p>
               </td>
