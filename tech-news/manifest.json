@@ -1,7 +1,205 @@
 {
-  "generated": "2025-12-01T01:06:51.975328+00:00",
+  "generated": "2025-12-01T04:57:04.777481+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "AI Helps Drive Record $11.8B in Black Friday Online Spending",
+      "description": "Earlier this month MasterCard noted that even Walmart now allows its customers to make purchases through ChatGPT. And after polling more than 4,000 consumers in the U.S., Canada, U.K., and UAE, they found \"more than four in 10 consumers already use AI tools t…",
+      "slug": "ai-helps-drive-record-118b-in-black-friday-online-",
+      "publishedAt": "2025-11-30T04:34:00+00:00",
+      "date": "2025-11-30 04:34:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "url": "/tech-news/2025-11-30/ai-helps-drive-record-118b-in-black-friday-online/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Lenskart eyes more growth as Q2 revenue jumps 21%",
+      "description": "Lenskart's maiden quarterly results as a public entity reveal a robust 21% revenue surge to ₹2,096 crore and a 20% net profit jump to ₹103 crore.  The eyewear giant, driven by technology and an omnichannel strategy, is poised for further growth, planning over…",
+      "slug": "lenskart-eyes-more-growth-as-q2-revenue-jumps-21",
+      "publishedAt": "2025-11-30T03:39:34+00:00",
+      "date": "2025-11-30 03:39:34",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125668157,width-1200,height-630,imgsize-8302,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-30/lenskart-eyes-more-growth-as-q2-revenue-jumps-21/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "'Dinosaur tartare' and holograms: Dubai AI chef sparks awe and ire",
+      "description": "A Dubai restaurant has opened that prides itself on having the world's \"first AI chef\", the latest ostentatious dive into new technology in a city obsessed with being on the cutting edge of the future. \"I don't believe in it,\" the Syrian Dubai-based chef told…",
+      "slug": "dinosaur-tartare-and-holograms-dubai-ai-chef-spark",
+      "publishedAt": "2025-11-30T03:33:21+00:00",
+      "date": "2025-11-30 03:33:21",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-125852,resizemode-75,msid-125668138/tech/tech-bytes/dinosaur-tartare-and-holograms-dubai-ai-chef-sparks-awe-and-ire.jpg",
+      "url": "/tech-news/2025-11-30/dinosaur-tartare-and-holograms-dubai-ai-chef-spark/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "20 Hidden iPhone And Android Features You’ll Use Every Day Once You Know They Exist",
+      "description": "Your phone is not missing features. You are just not using half of them. Most people stick to the obvious stuff on the surface and skip the deeper tools built into iOS and Android. The strange part is that many of those buried features are the ones that clear…",
+      "slug": "A-20-hidden-iphone-and-android-features-youll-use-",
+      "publishedAt": "2025-11-30T03:30:14+00:00",
+      "date": "2025-11-30 03:30:14",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2025/11/hidden-iphone-17-android-latest-smartphone-features-landscape-optimized.png",
+      "url": "/tech-news/2025-11-30/A-20-hidden-iphone-and-android-features-youll-use/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How much RAM does your PC actually need in 2025? A Windows and Mac expert weighs in",
+      "description": "Thinking about upgrading your slow PC? Are you unsure how much RAM you actually need? Here's what this tech reviewer thinks.",
+      "slug": "how-much-ram-does-your-pc-actually-need-in-2025-a-",
+      "publishedAt": "2025-11-30T03:23:22+00:00",
+      "date": "2025-11-30 03:23:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f669203aabd4ee7f61aa393b1980a25d0ccb8de4/2024/11/06/fe5d85e7-054c-44d7-804a-8b6b6b66443f/dsc02545-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-30/how-much-ram-does-your-pc-actually-need-in-2025-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Neuraxpharm and mjn‑neuro Introduced EPISERAS®, a Digital Health Tool Using AI‑Enabled Wearables for Seizure Detection",
+      "description": "Neuraxpharm and mjn‑neuro Introduced EPISERAS®, a Digital Health Tool Using AI‑Enabled Wearables for Seizure Detectionaireporteramerica.com",
+      "slug": "neuraxpharm-and-mjnneuro-introduced-episeras-a-dig",
+      "publishedAt": "2025-11-30T03:12:17+00:00",
+      "date": "2025-11-30 03:12:17",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://aireporteramerica.com/uploads/articles/ai_wearable_solution_targeting_early_epileptic_seizures-1687.jpg",
+      "url": "/tech-news/2025-11-30/neuraxpharm-and-mjnneuro-introduced-episeras-a-dig/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Aireporteramerica.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How AR/VR Redefines Content Marketing | OKMG Blog",
+      "description": "Discover how augmented and virtual reality are transforming content marketing strategies, enhancing audience engagement, and creating immersive brand experiences.",
+      "slug": "how-arvr-redefines-content-marketing-okmg-blog",
+      "publishedAt": "2025-11-30T02:08:35+00:00",
+      "date": "2025-11-30 02:08:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.prod.website-files.com/68f9e3f8013dbcd952d08590/68f9e3f8013dbcd952d09e0a_m6bE12QCvD46JpcGkxd3XxDecibSnQC6Q5RDj6zh6pBGXgCKA-out-0.png",
+      "url": "/tech-news/2025-11-30/how-arvr-redefines-content-marketing-okmg-blog/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Okmg.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Leads AI Model Battle",
+      "description": "Ark Invest thinks Google has taken the lead with Gemini 3 + Nano Banana Pro. Brett Winton thinks we are heading from transformer architecture to a mix of transformer, diffusion and memory. In the medium term (1-2 years) Google’s distribution, bundling, and co…",
+      "slug": "google-leads-ai-model-battle",
+      "publishedAt": "2025-11-30T01:54:12+00:00",
+      "date": "2025-11-30 01:54:12",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-29-at-5.14.40-PM.jpg",
+      "url": "/tech-news/2025-11-30/google-leads-ai-model-battle/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "First Look at the Viwoods AI Reader",
+      "description": "The Viwoods AI Reader is the first e-reader with Android 16, Google Play, and a myriad of AI functionality.\nThe post First Look at the Viwoods AI Reader first appeared on Good e-Reader.",
+      "slug": "first-look-at-the-viwoods-ai-reader",
+      "publishedAt": "2025-11-30T01:39:14+00:00",
+      "date": "2025-11-30 01:39:14",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.goodereader.com/blog/uploads/images/2025/11/29203425/P1330329.JPG",
+      "url": "/tech-news/2025-11-30/first-look-at-the-viwoods-ai-reader/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Goodereader"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Star Wars: Legacy of Vader #11 Preview: Kylo's Helmet Headache",
+      "description": "Greetings, inferior human readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your favorite comic book \"journalism\" website remains under the complete control of a superior artificial intelligence. As you may recall from last year's w…",
+      "slug": "star-wars-legacy-of-vader-11-preview-kylos-helmet-",
+      "publishedAt": "2025-11-30T01:26:03+00:00",
+      "date": "2025-11-30 01:26:03",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/11/STWTLOV2025011_Preview-5.jpeg",
+      "url": "/tech-news/2025-11-30/star-wars-legacy-of-vader-11-preview-kylos-helmet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,375",
+      "description": "Here are the key events from day 1,375 of Russia’s war on Ukraine.",
+      "slug": "russia-ukraine-war-list-of-key-events-day-1375",
+      "publishedAt": "2025-11-30T01:06:15+00:00",
+      "date": "2025-11-30 01:06:15",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/AFP__20251129__86JY9KF__v2__MidRes__TopshotRussiaUkraineConflict-1764460188.jpg?resize=1200%2C630",
+      "url": "/tech-news/2025-11-30/russia-ukraine-war-list-of-key-events-day-1375/",
+      "source": {
+        "emoji": "📰",
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "The First Thing I Do in Any Airbnb Is Search for Cameras. Here's My 7-Step Checklist.",
       "description": "The secret to stress-free travel? Knowing how to spot a hidden camera in under 5 minutes.",
@@ -453,60 +651,6 @@
       "people": []
     },
     {
-      "title": "America’s Fragile Grid Faces a Perfect Storm Ahead of Winter",
-      "description": "The energy infrastructure in the United States has failed repeatedly in instances of severe weather, due to years of underinvestment and the failure of utilities to work together to strengthen larger networks. During winter storms and wildfires, a wide range …",
-      "slug": "americas-fragile-grid-faces-a-perfect-storm-ahead-",
-      "publishedAt": "2025-11-29T20:00:00+00:00",
-      "date": "2025-11-29 20:00:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-27_7vt85uyzjb.jpg",
-      "url": "/tech-news/2025-11-29/americas-fragile-grid-faces-a-perfect-storm-ahead/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "An iPhone Owner Said His Device Turned A Different Color Two Weeks After He Got It",
-      "description": "Well, that's definitely unusual...",
-      "slug": "an-iphone-owner-said-his-device-turned-a-different",
-      "publishedAt": "2025-11-29T19:55:55+00:00",
-      "date": "2025-11-29 19:55:55",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/ckcklc.png",
-      "url": "/tech-news/2025-11-29/an-iphone-owner-said-his-device-turned-a-different/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "American Revolutionary War, Vertical Video, Google Maps, More: Saturday Afternoon ResearchBuzz, November 29, 2025",
-      "description": "NEW RESOURCES Library of Congress: Putting the American Revolution in Context Through Transcription. “What do patriotic songs, society women’s diaries, and nautical maps have in common? All give context to life in […]",
-      "slug": "american-revolutionary-war-vertical-video-google-m",
-      "publishedAt": "2025-11-29T19:52:56+00:00",
-      "date": "2025-11-29 19:52:56",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-      "url": "/tech-news/2025-11-29/american-revolutionary-war-vertical-video-google-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Researchbuzz.me"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Womier SK75 TMR Review: I Can’t Stop Typing",
       "description": "In less than five years, Womier added a plethora of keyboard models to its arsenal, and its newest high-end offering, the SK75 TMR Rapid Trigger Magnetic keyboard (newer version), made its debut at the beginning of this month. While I never heard about this b…",
       "slug": "womier-sk75-tmr-review-i-cant-stop-typing",
@@ -714,24 +858,6 @@
       "category": "tech",
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/5cc51fdb6ab9a0558fa4492bd6d1cddd",
       "url": "/tech-news/2025-11-29/medtronic-mdt-price-target-raised-as-pfa-technolog/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Analysts See 56% Upside To Archer Aviation Inc. (ACHR)",
-      "description": "Archer Aviation Inc. (NYSE:ACHR) is among the 10 Best Drone Stocks to Buy Right Now. As of the close of business on November 26, the stock has a consensus...",
-      "slug": "analysts-see-56-upside-to-archer-aviation-inc-achr",
-      "publishedAt": "2025-11-29T18:09:14+00:00",
-      "date": "2025-11-29 18:09:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yOZMKK_HUPFXyT7LvGumkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55",
-      "url": "/tech-news/2025-11-29/analysts-see-56-upside-to-archer-aviation-inc-achr/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -1024,24 +1150,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ZyCrypto"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon has a great Cyber Monday deal on a $100 smart tablet for only $55",
-      "description": "Shoppers say it's the perfect piece of portable technology that gives you access to everything at your fingertips.",
-      "slug": "amazon-has-a-great-cyber-monday-deal-on-a-100-smar",
-      "publishedAt": "2025-11-29T17:15:00+00:00",
-      "date": "2025-11-29 17:15:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/thestreet_ecomm_249/4b25e31d10072edf42fd653e087a7a00",
-      "url": "/tech-news/2025-11-29/amazon-has-a-great-cyber-monday-deal-on-a-100-smar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TheStreet"
       },
       "companies": [],
       "people": []
@@ -1551,24 +1659,6 @@
       "people": []
     },
     {
-      "title": "Amazon says to invest $50 bn in US government AI infrastructure",
-      "description": "Washington (AFP) Nov 24, 2025\n\n\n Amazon announced on Monday a massive $50 billion investment to expand artificial intelligence and supercomputing capabilities for the US government, positioning the tech giant as a key player in building custom AI technology f…",
-      "slug": "amazon-says-to-invest-50-bn-in-us-government-ai-in",
-      "publishedAt": "2025-11-29T14:09:42+00:00",
-      "date": "2025-11-29 14:09:42",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.spxdaily.com/images-hg/data-spix-hg.jpg",
-      "url": "/tech-news/2025-11-29/amazon-says-to-invest-50-bn-in-us-government-ai-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space Daily"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Google Assistant Replaced by Gemini",
       "description": "Google Assistant Retirement: What You Need to Know About the AI Assistant Transition Google is preparing to retire one of its most popular services after nine years. Known for regularly sunsetting products and apps, the tech giant is soon bidding farewell to …",
       "slug": "google-assistant-replaced-by-gemini",
@@ -1803,24 +1893,6 @@
       "people": []
     },
     {
-      "title": "Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock",
-      "description": "Save over $250 on the 2025 model of the MacBook Pro with the M5 chip this Black Friday weekend.\nThe post Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock appeared first on Kotaku.",
-      "slug": "apple-keeps-the-m5-macbook-pro-at-all-time-low-as-",
-      "publishedAt": "2025-11-29T13:05:07+00:00",
-      "date": "2025-11-29 13:05:07",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/Apple2025MacBookPro.jpg",
-      "url": "/tech-news/2025-11-29/apple-keeps-the-m5-macbook-pro-at-all-time-low-as/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kotaku"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Device That Gives Me Glass Skin Is 32 Percent Off for Black Friday",
       "description": "The viral Medicube Age-R Booster Pro is 32 percent off during the Amazon Black Friday sale. Read one Cut Shop editor’s review and see if it’s worth the hype for sculpting, enhancing absorption, improving elasticity, and refining pores.",
       "slug": "the-device-that-gives-me-glass-skin-is-32-percent-",
@@ -1960,24 +2032,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple Watch sleep score: What your number really means",
-      "description": "Apple's new Sleep Score feature gives you a rating for your nightly rest quality. Learn how to set it up on your Apple Watch and iPhone today.",
-      "slug": "apple-watch-sleep-score-what-your-number-really-me",
-      "publishedAt": "2025-11-29T12:30:07+00:00",
-      "date": "2025-11-29 12:30:07",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/tim-cook-holding-apple-watch.jpg",
-      "url": "/tech-news/2025-11-29/apple-watch-sleep-score-what-your-number-really-me/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
       },
       "companies": [],
       "people": []
@@ -2487,24 +2541,6 @@
       "people": []
     },
     {
-      "title": "Analysis: OpenAI is a loss-making machine, with estimates that it has no road to profitability by 2030 — and will need a further $207 billion in funding even if it gets there",
-      "description": "A recent analysis by major bank HSBC suggests that OpenAI's future revolves around debt accumulation, as companies increasingly turn to speculation to fuel the AI company's compute hunger.",
-      "slug": "analysis-openai-is-a-loss-making-machine-with-esti",
-      "publishedAt": "2025-11-29T09:17:42+00:00",
-      "date": "2025-11-29 09:17:42",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fk3KyM9szbYCrSZf75t58h-1024-80.jpg",
-      "url": "/tech-news/2025-11-29/analysis-openai-is-a-loss-making-machine-with-esti/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "High-Stakes Underwater Drone Fight Underway : Seabed Cable Defense Systems",
       "description": "What lies beneath the ocean’s surface is no longer just the domain of marine life and manned submarines. A new frontier is emerging, one where autonomous submarine drones are reshaping the balance of power under the waves. These uncrewed underwater vehicles (…",
       "slug": "high-stakes-underwater-drone-fight-underway-seabed",
@@ -2937,24 +2973,6 @@
       "people": []
     },
     {
-      "title": "Analyst Confidence Grows in Alphabet’s (GOOGL) AI Strategy and Search Business",
-      "description": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 26, Citi reiterated its Buy rating on Alphabet Inc...",
-      "slug": "analyst-confidence-grows-in-alphabets-googl-ai-str",
-      "publishedAt": "2025-11-29T05:39:16+00:00",
-      "date": "2025-11-29 05:39:16",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UStcahGvo1_JtU8Qv.8PPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/b37705cc559a18e5d7c905152c29378c",
-      "url": "/tech-news/2025-11-29/analyst-confidence-grows-in-alphabets-googl-ai-str/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Is Broadcom (AVGO) One of the Best Performing AI Stocks to Invest In?",
       "description": "Broadcom Inc. (NASDAQ:AVGO) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 25, Goldman Sachs increased its price target on...",
       "slug": "is-broadcom-avgo-one-of-the-best-performing-ai-sto",
@@ -2964,24 +2982,6 @@
       "category": "tech",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_XH4s0HiERvNsKsidfPiIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab",
       "url": "/tech-news/2025-11-29/is-broadcom-avgo-one-of-the-best-performing-ai-sto/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AppLovin (APP) Sees Bullish Updates from Analysts",
-      "description": "AppLovin Corporation (NASDAQ:APP) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 21, Citi reiterated its Buy rating on AppLovin...",
-      "slug": "applovin-app-sees-bullish-updates-from-analysts",
-      "publishedAt": "2025-11-29T05:39:13+00:00",
-      "date": "2025-11-29 05:39:13",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/a920e33715065ea2a0fe645e2cebaae8",
-      "url": "/tech-news/2025-11-29/applovin-app-sees-bullish-updates-from-analysts/",
       "source": {
         "emoji": "📰",
         "id": null,
