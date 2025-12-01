@@ -1,7 +1,439 @@
 {
-  "generated": "2025-11-30T20:16:58.627272+00:00",
+  "generated": "2025-12-01T01:06:51.975328+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "The First Thing I Do in Any Airbnb Is Search for Cameras. Here's My 7-Step Checklist.",
+      "description": "The secret to stress-free travel? Knowing how to spot a hidden camera in under 5 minutes.",
+      "slug": "the-first-thing-i-do-in-any-airbnb-is-search-for-c",
+      "publishedAt": "2025-11-30T01:00:37+00:00",
+      "date": "2025-11-30 01:00:37",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a675f4ffd2fb2ddfd3c7c78c53e58ced1d3f8102/hub/2025/11/07/9c5fc35f-e546-4f80-a8ae-3dd4bfcd4472/gettyimages-1268232864.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-11-30/the-first-thing-i-do-in-any-airbnb-is-search-for-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "New class of soft materials process logic using beams of light",
+      "description": "Los Angeles CA (SPX) Nov 21, 2025 -\n\nResearchers from McMaster University and the University of Pittsburgh have created the first functionally complete NAND gate in a soft material using beams of visible light. Published in Nature Communications, the work est…",
+      "slug": "new-class-of-soft-materials-process-logic-using-be",
+      "publishedAt": "2025-11-30T00:43:01+00:00",
+      "date": "2025-11-30 00:43:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.spxdaily.com/images-hg/nand-materials-that-compute-hg.jpg",
+      "url": "/tech-news/2025-11-30/new-class-of-soft-materials-process-logic-using-be/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Johns Hopkins team breaks through quantum noise",
+      "description": "Laurel, MD (SPX) Nov 24, 2025 -\n\nResearchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have achieved a breakthrough in quantum noise characterization in quantum systems - a key step …",
+      "slug": "johns-hopkins-team-breaks-through-quantum-noise",
+      "publishedAt": "2025-11-30T00:43:01+00:00",
+      "date": "2025-11-30 00:43:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.spxdaily.com/images-hg/broadband-off-resonance-measurement-quantum-radiation-pressure-noise-audio-band-frequencies-gravitational-wave-detectors-hg.jpg",
+      "url": "/tech-news/2025-11-30/johns-hopkins-team-breaks-through-quantum-noise/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Japan's Rapidus plans second cutting-edge chip plant: reports",
+      "description": "Tokyo (AFP) Nov 26, 2025 -\n\n Japanese chipmaker Rapidus plans to start building a second factory to produce cutting-edge semiconductors in a race with Taiwanese industry leader TSMC, local media reports said.\n\nRapidus, a government-backed joint venture involv…",
+      "slug": "japans-rapidus-plans-second-cutting-edge-chip-plan",
+      "publishedAt": "2025-11-30T00:43:01+00:00",
+      "date": "2025-11-30 00:43:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.spxdaily.com/images-hg/chip-tech-spix-hg.jpg",
+      "url": "/tech-news/2025-11-30/japans-rapidus-plans-second-cutting-edge-chip-plan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Adaptive photonic circuits enable quantum neural network breakthroughs",
+      "description": "Los Angeles CA (SPX) Nov 26, 2025 -\n\nResearchers have shown that light-based quantum processors can be made to function more like neural networks by employing a straightforward adaptive method. Their latest study describes a controlled process, called adaptiv…",
+      "slug": "adaptive-photonic-circuits-enable-quantum-neural-n",
+      "publishedAt": "2025-11-30T00:43:01+00:00",
+      "date": "2025-11-30 00:43:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.spxdaily.com/images-hg/quantum-convolutional-neural-network-qcnn-photonic-quantum-hg.jpg",
+      "url": "/tech-news/2025-11-30/adaptive-photonic-circuits-enable-quantum-neural-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft New Zealand sees strong revenue growth – turnover now double its 2021 level",
+      "description": "The threat of a digital services tax has melted away.",
+      "slug": "microsoft-new-zealand-sees-strong-revenue-growth-t",
+      "publishedAt": "2025-11-30T00:42:59+00:00",
+      "date": "2025-11-30 00:42:59",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/TSER3374NNHSNHIPJTKRXHE26E.jpg?auth=f486ebde5187d99c6f28859d0023f0b2b247cb48785e2ad1eb6ea74216fadd16&width=1200&height=675&quality=70&smart=true",
+      "url": "/tech-news/2025-11-30/microsoft-new-zealand-sees-strong-revenue-growth-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Russia’s Only Manned Space Launch Facility is Severely Damaged",
+      "description": "Russia’s only operating manned launch site for Soyuz and Progress has been severely damaged after an accident with a Soyuz MS-28 on November 27 at Baikonur. The mobile service cabin fell into the fire protection channel by several meters, deforming the servic…",
+      "slug": "russias-only-manned-space-launch-facility-is-sever",
+      "publishedAt": "2025-11-30T00:30:29+00:00",
+      "date": "2025-11-30 00:30:29",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-29-at-4.24.33-PM.jpg",
+      "url": "/tech-news/2025-11-30/russias-only-manned-space-launch-facility-is-sever/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple Has iPad 11 Leftovers From Black Friday, Goes Even Deeper With New Record Low This Cyber Monday",
+      "description": "Apple Has iPad 11 Leftovers From Black Friday, Goes Even Deeper With New Record Low This Cyber Mondaygizmodo.com",
+      "slug": "apple-has-ipad-11-leftovers-from-black-friday-goes",
+      "publishedAt": "2025-11-30T00:26:15+00:00",
+      "date": "2025-11-30 00:26:15",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/ipad-11-inch-1200x675.jpg",
+      "url": "/tech-news/2025-11-30/apple-has-ipad-11-leftovers-from-black-friday-goes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Beijing space lab targets orbital data centers for AI era",
+      "description": "Tokyo, Japan (SPX) Nov 28, 2025 -\n\nAn institute in Beijing plans to launch its first high-computing-power experimental satellites by late 2025 or early 2026 as part of a wider effort to move intensive data processing into orbit while easing pressure on power …",
+      "slug": "beijing-space-lab-targets-orbital-data-centers-for",
+      "publishedAt": "2025-11-30T00:14:24+00:00",
+      "date": "2025-11-30 00:14:24",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.spxdaily.com/images-hg/broadband-communication-satellites-galaxyspace-china-hg.jpg",
+      "url": "/tech-news/2025-11-30/beijing-space-lab-targets-orbital-data-centers-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft AI",
+      "description": "Microsoft AI, or MAI, is a global team of humanists working to design technology that amplifies human potential and makes life meaningfully better. Grounded in warmth, trust, and humanity, we envision a world where AI deepens our understanding of one another …",
+      "slug": "microsoft-ai",
+      "publishedAt": "2025-11-30T00:00:00+00:00",
+      "date": "2025-11-30 00:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://assets.awwwards.com/awards/submissions/2025/10/690274cdd9149267915489.png",
+      "url": "/tech-news/2025-11-30/microsoft-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Awwwards.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Smartest Technology ETF to Buy With $100 Right Now",
+      "description": "Key Points\n-\nThe Vanguard Information Technology ETF is well diversified and can be purchased through many brokerages for $100 or less.\n-\nTechnology is driving the growth of the stock market and is likely to benefit as artificial intelligence continues to evo…",
+      "slug": "the-smartest-technology-etf-to-buy-with-100-right-",
+      "publishedAt": "2025-11-29T23:49:44+00:00",
+      "date": "2025-11-29 23:49:44",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/59319f6c6867e4f1_s.webp",
+      "url": "/tech-news/2025-11-29/the-smartest-technology-etf-to-buy-with-100-right/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SLC-37 Cape Canaveral Florida Environmental Approval for 76 Starship Launches",
+      "description": "On November 20, 2025, the U.S. Air Force certified the final Environmental Impact Statement (EIS) for up to 76 Starship-Super Heavy launches, landings, and engine tests each year at Space Launch Complex-37. This will be re-developed and provide extra SpaceX o…",
+      "slug": "slc-37-cape-canaveral-florida-environmental-approv",
+      "publishedAt": "2025-11-29T23:26:41+00:00",
+      "date": "2025-11-29 23:26:41",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/canaveralstarship.jpg",
+      "url": "/tech-news/2025-11-29/slc-37-cape-canaveral-florida-environmental-approv/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Leading schools like CEOs",
+      "description": "When a company underperforms, its chief executive officer (CEO) is expected to pivot, innovate, and steer the organisation back on course. Yet in education, the role of a school leader is often seen through a narrower lens. Read full story",
+      "slug": "leading-schools-like-ceos",
+      "publishedAt": "2025-11-29T23:00:00+00:00",
+      "date": "2025-11-29 23:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/30/3647260.jpeg",
+      "url": "/tech-news/2025-11-29/leading-schools-like-ceos/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "‘Doctors must challenge AI’",
+      "description": "WITH artificial intelligence (AI) being applied in medical schools, students need to be taught to be sceptical and responsible users of these tools, emphasises Dr Manraj Singh Cheema (pic). Read full story",
+      "slug": "doctors-must-challenge-ai",
+      "publishedAt": "2025-11-29T23:00:00+00:00",
+      "date": "2025-11-29 23:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/30/3647238.jpg",
+      "url": "/tech-news/2025-11-29/doctors-must-challenge-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tim Cook loves the Galaxy S25: Comedic AI clip goes viral",
+      "description": "Tim Cook as a Samsung fanboy? A viral clip shows the Apple CEO with a Samsung Galaxy S25 Ultra, mocking \"BugOS\". While a deepfake, the short video is nevertheless generating widespread laughs and amazement at ever-improving AI technology.",
+      "slug": "tim-cook-loves-the-galaxy-s25-comedic-ai-clip-goes",
+      "publishedAt": "2025-11-29T22:43:00+00:00",
+      "date": "2025-11-29 22:43:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple_CEO_Tim_Cook_loves_Samsung_Galaxy_S25_AI_FAKE_on_X_T.jpg",
+      "url": "/tech-news/2025-11-29/tim-cook-loves-the-galaxy-s25-comedic-ai-clip-goes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday",
+      "description": "Custom GPU with AI upscaling and advanced ray tracing delivers true 4K gaming.\nThe post PS5 Sold Out After Black Friday Chaos, Amazon Now Offers PS5 Pro at Record Low This Cyber Monday appeared first on Kotaku.",
+      "slug": "ps5-sold-out-after-black-friday-chaos-amazon-now-o",
+      "publishedAt": "2025-11-29T22:35:12+00:00",
+      "date": "2025-11-29 22:35:12",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/11/playstation-5-pro.jpg",
+      "url": "/tech-news/2025-11-29/ps5-sold-out-after-black-friday-chaos-amazon-now-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Kotaku"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The 7 Chrome Extensions That Elite Professionals Use To Work Twice As Fast",
+      "description": "Elite professionals are ruthless about one thing: time. They shave seconds off every routine because those seconds stack. They know exactly which clicks matter and which ones are just noise. They avoid rewriting the same sentence twice and they never sit arou…",
+      "slug": "the-7-chrome-extensions-that-elite-professionals-u",
+      "publishedAt": "2025-11-29T22:15:00+00:00",
+      "date": "2025-11-29 22:15:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2025/11/chrome-extensions-colorful-productivity-interface-landscape-optimized.png",
+      "url": "/tech-news/2025-11-29/the-7-chrome-extensions-that-elite-professionals-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Is the Arctic Sea the Key to Ending the Ukraine War?",
+      "description": "In a recent article, a professor at the Naval Academy argues that “Trump can leverage the Arctic to end the Ukraine war.” It’s clear that Trump was excited by the possibilities the article raised in ending the war.  Written by Lyle J. Goldstein, a research pr…",
+      "slug": "is-the-arctic-sea-the-key-to-ending-the-ukraine-wa",
+      "publishedAt": "2025-11-29T22:00:00+00:00",
+      "date": "2025-11-29 22:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-11-28_c6ul25giwa.jpg",
+      "url": "/tech-news/2025-11-29/is-the-arctic-sea-the-key-to-ending-the-ukraine-wa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "This Smart Perch Weighs Birds Without Ever Touching Them",
+      "description": "This Smart Perch Weighs Birds Without Ever Touching ThemPicture this: you’re a wildlife rescuer trying to nurse an injured falcon back to health. Every few days, you need to catch the bird, restrain...",
+      "slug": "this-smart-perch-weighs-birds-without-ever-touchin",
+      "publishedAt": "2025-11-29T21:45:50+00:00",
+      "date": "2025-11-29 21:45:50",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/11/this-smart-perch-weighs-birds-without-ever-touching-them/perchcare-00.jpg",
+      "url": "/tech-news/2025-11-29/this-smart-perch-weighs-birds-without-ever-touchin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Black Friday may be over, but Best Buy is STILL carving $100 off our favorite wireless earbuds",
+      "description": "Beyond just sounding great in general, the Sony WF-1000XM5 earbuds also have a range of premium-level audio features.",
+      "slug": "black-friday-may-be-over-but-best-buy-is-still-car",
+      "publishedAt": "2025-11-29T21:38:24+00:00",
+      "date": "2025-11-29 21:38:24",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pmqavWiHfonmgFHCFvmgFL-2560-80.jpg",
+      "url": "/tech-news/2025-11-29/black-friday-may-be-over-but-best-buy-is-still-car/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung's Black Friday Weekend Deals Are Still Cutting Prices on Tablets, Monitors, Phones, and More",
+      "description": "Everybody celebrates Black Friday weekend, and if you've got electronics shopping to do, we've pulled out the best offers on top-rated Samsung products\nThis Black Friday weekend, it can be smart to go brand-by-brand to find the deals that move you. We've spen…",
+      "slug": "samsungs-black-friday-weekend-deals-are-still-cutt",
+      "publishedAt": "2025-11-29T21:14:58+00:00",
+      "date": "2025-11-29 21:14:58",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/samsungs-b/samsungs-black-friday-weekend-deals-are-still-cutting-prices_vr9n.1200.jpg",
+      "url": "/tech-news/2025-11-29/samsungs-black-friday-weekend-deals-are-still-cutt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Student-led symposium discusses generative AI",
+      "description": "The University of Utah hosted the Inaugural Student-led AI Symposium at the Marriott Library on Friday, Nov. 21. In collaboration with Digital Learning Technologies (DLT), students pioneered the event to provide industry and university professionals insight i…",
+      "slug": "student-led-symposium-discusses-generative-ai",
+      "publishedAt": "2025-11-29T20:57:35+00:00",
+      "date": "2025-11-29 20:57:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://dailyutahchronicle.com/wp-content/uploads/2025/11/Panelists-1.jpg",
+      "url": "/tech-news/2025-11-29/student-led-symposium-discusses-generative-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dailyutahchronicle.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Show HN:I built FREE infinite name generator and domain finder for side projects",
+      "description": "Create stunning, professional logos in seconds with Proicon. Our AI-powered logo maker helps businesses of all sizes design memorable brand identities.",
+      "slug": "show-hni-built-free-infinite-name-generator-and-do",
+      "publishedAt": "2025-11-29T20:55:06+00:00",
+      "date": "2025-11-29 20:55:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-29/show-hni-built-free-infinite-name-generator-and-do/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Proicon.ai"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "This Week’s Awesome Tech Stories From Around the Web (Through November 29)",
+      "description": "Every week, we scour the web for important, insightful, and fascinating stories in science and technology.\nThe post This Week’s Awesome Tech Stories From Around the Web (Through November 29) appeared first on SingularityHub.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2025-11-29T20:29:19+00:00",
+      "date": "2025-11-29 20:29:19",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://singularityhub.com/uploads/2025/11/architectural-lines-colorful-window.jpeg?auto=webp",
+      "url": "/tech-news/2025-11-29/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "GoPro HERO13 Black Ultra Wide Edition Sees 23% Price Drop Before Cyber Monday",
       "description": "If you’ve been waiting for a strong action-camera deal before the Cyber Monday rush gets wild, this is it. The GoPro HERO13 Black Ultra Wide Edition is now $369.99, down from its regular price of $479.99. That’s $110 saving on GoPro’s specialized flagship mod…",
@@ -309,24 +741,6 @@
       "people": []
     },
     {
-      "title": "Accenture (ACN) Expands Palantir Capabilities With RANGR Data Acquisition and New AI Investments",
-      "description": "Accenture Plc. (NYSE:ACN) ranks among the best slow growth stocks to invest in. On November 20, Accenture Plc. (NYSE:ACN) acquired RANGR Data, a Palantir...",
-      "slug": "accenture-acn-expands-palantir-capabilities-with-r",
-      "publishedAt": "2025-11-29T18:09:12+00:00",
-      "date": "2025-11-29 18:09:12",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/6a6c801ef2980509270218d45c953c39",
-      "url": "/tech-news/2025-11-29/accenture-acn-expands-palantir-capabilities-with-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "UBS Reaffirms Buy Rating on Abbott Laboratories (ABT) Amid Exact Sciences Acquisition",
       "description": "Abbott Laboratories (NYSE:ABT) ranks among the best slow growth stocks to invest in. UBS reaffirmed its Buy rating and $158 price target for Abbott...",
       "slug": "ubs-reaffirms-buy-rating-on-abbott-laboratories-ab",
@@ -412,24 +826,6 @@
         "emoji": "📰",
         "id": "google-news",
         "name": "Google News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "2 Quantum Computing Stocks That Caught Warren Buffett's Attention -- Should They Catch Yours?",
-      "description": "Key Points\n-\nBuffett has managed to consistently beat the market without investing heavily in the technology sector.\n-\nTwo leading artificial intelligence (AI) stocks Berkshire does own, however, are Alphabet and Amazon.\n-\nBoth are investing in quantum comput…",
-      "slug": "A-2-quantum-computing-stocks-that-caught-warren-bu",
-      "publishedAt": "2025-11-29T18:04:58+00:00",
-      "date": "2025-11-29 18:04:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/2904874533d2a464_s.webp",
-      "url": "/tech-news/2025-11-29/A-2-quantum-computing-stocks-that-caught-warren-bu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
       },
       "companies": [],
       "people": []
@@ -705,24 +1101,6 @@
       "people": []
     },
     {
-      "title": "10 AI Tools That Feel Like Magic (And Will Save You Hours Every Week)",
-      "description": "Some AI tools sit outside the spotlight even though they save more time than the usual headliners. They work quietly in the background, solving problems that most people assume still require manual effort. These tools rarely trend on social media. They rarely…",
-      "slug": "A-10-ai-tools-that-feel-like-magic-and-will-save-y",
-      "publishedAt": "2025-11-29T16:50:55+00:00",
-      "date": "2025-11-29 16:50:55",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://bitrebels.com/wp-content/uploads/2025/11/ai_neural_processor_glowing_chip_circuit_board_ultra_realistic-optimized.png",
-      "url": "/tech-news/2025-11-29/A-10-ai-tools-that-feel-like-magic-and-will-save-y/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitrebels.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "I'm a Digital Nomad and These Are the 6 VPN Rules I Swear By",
       "description": "Two cybersecurity professionals shared their top six tips for frequent travelers or digital nomads, like me, to safely protect client data and personal privacy while working as a digital nomad.",
       "slug": "im-a-digital-nomad-and-these-are-the-6-vpn-rules-i",
@@ -772,24 +1150,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Ieee.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "5 Smart Fabrics Using Tech Innovations To Transform Sleep, Safety, and Home Comfort",
-      "description": "5 Smart Fabrics Using Tech Innovations To Transform Sleep, Safety, and Home ComfortIs fabric just for covering furniture and beds, or can it do more? For centuries, cotton, silk, and wool were seen as static materials. Now,...",
-      "slug": "A-5-smart-fabrics-using-tech-innovations-to-transf",
-      "publishedAt": "2025-11-29T16:20:19+00:00",
-      "date": "2025-11-29 16:20:19",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/11/5-smart-fabrics-using-tech-innovations-to-transform-sleep-safety-and-home-comfort/Smart-Fabric_Tech-Innovation_18.jpg",
-      "url": "/tech-news/2025-11-29/A-5-smart-fabrics-using-tech-innovations-to-transf/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yanko Design"
       },
       "companies": [],
       "people": []
@@ -939,24 +1299,6 @@
       "people": []
     },
     {
-      "title": "Amazon Creates Anime English Dub With A.I. (And Fans Aren’t Happy)",
-      "description": "Amazon\nThe anime industry hasn’t been thrilled with the implementation of artificial intelligence in many cases, with fans especially routinely sharing their disdain for the technology. With organisations being created in Japan to help fight against the misus…",
-      "slug": "amazon-creates-anime-english-dub-with-ai-and-fans-",
-      "publishedAt": "2025-11-29T15:55:59+00:00",
-      "date": "2025-11-29 15:55:59",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/11/Amazon.jpg?resize=2000,1125",
-      "url": "/tech-news/2025-11-29/amazon-creates-anime-english-dub-with-ai-and-fans/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Scientists just teleported information using light",
       "description": "Quantum communication is edging closer to reality thanks to a breakthrough in teleporting information between photons from different quantum dots—one of the biggest challenges in building a quantum internet. By creating nearly identical semiconductor-based ph…",
       "slug": "scientists-just-teleported-information-using-light",
@@ -988,24 +1330,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Boston Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "15 Best Black Friday TV Deals (2025)",
-      "description": "Here are the best deals on screens from Hisense, TCL, Samsung, Sony, and more this shopping holiday.",
-      "slug": "A-15-best-black-friday-tv-deals-2025",
-      "publishedAt": "2025-11-29T15:03:07+00:00",
-      "date": "2025-11-29 15:03:07",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png",
-      "url": "/tech-news/2025-11-29/A-15-best-black-friday-tv-deals-2025/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
       },
       "companies": [],
       "people": []
@@ -1173,24 +1497,6 @@
       "people": []
     },
     {
-      "title": "155 Best Black Friday Deals 2025: We've Tested Every Item and Tracked Every Price",
-      "description": "Our Reviews team has scoured the entire internet to find the best Black Friday deals on gear we've tested and approved.",
-      "slug": "A-155-best-black-friday-deals-2025-weve-tested-eve",
-      "publishedAt": "2025-11-29T14:28:36+00:00",
-      "date": "2025-11-29 14:28:36",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.wired.com/photos/69276529097f2a0eaceef112/191:100/w_1280,c_limit/wired_absolutebest.jpg",
-      "url": "/tech-news/2025-11-29/A-155-best-black-friday-deals-2025-weve-tested-eve/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "It's Always the Process, Stupid",
       "description": "Article URL: https://its.promp.td/its-always-the-process-stupid/\nComments URL: https://news.ycombinator.com/item?id=46087737\nPoints: 9\n# Comments: 1",
       "slug": "its-always-the-process-stupid",
@@ -1263,24 +1569,6 @@
       "people": []
     },
     {
-      "title": "3 years of AI Mania: How ChatGPT reordered the stock market",
-      "description": "Bets that the tech will reshape society have minted new market leaders, made an already concentrated S&P 500 Index even more top heavy, and left companies and industries considered at risk of being replaced by AI struggling to keep pace",
-      "slug": "A-3-years-of-ai-mania-how-chatgpt-reordered-the-st",
-      "publishedAt": "2025-11-29T14:04:54+00:00",
-      "date": "2025-11-29 14:04:54",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/7b4yub/article70333311.ece/alternates/LANDSCAPE_1200/IMG_Financial_Analysts_a_2_1_TPCTV9P1.jpg",
-      "url": "/tech-news/2025-11-29/A-3-years-of-ai-mania-how-chatgpt-reordered-the-st/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Google Assistant Replaced by Gemini",
       "description": "Google Assistant Retirement: What You Need to Know About the AI Assistant Transition Google is preparing to retire one of its most popular services after nine years. Known for regularly sunsetting products and apps, the tech giant is soon bidding farewell to …",
       "slug": "google-assistant-replaced-by-gemini",
@@ -1294,24 +1582,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nep123.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI fuels a new wave of political lies",
-      "description": "Across races from Georgia to New York, deepfakes are steering political narratives and voter perception",
-      "slug": "ai-fuels-a-new-wave-of-political-lies",
-      "publishedAt": "2025-11-29T14:00:45+00:00",
-      "date": "2025-11-29 14:00:45",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/11/Politics-AI-2214959014.jpg",
-      "url": "/tech-news/2025-11-29/ai-fuels-a-new-wave-of-political-lies/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Salon"
       },
       "companies": [],
       "people": []
@@ -1857,24 +2127,6 @@
       "people": []
     },
     {
-      "title": "10 Weekend Reads",
-      "description": "The weekend is here! Pour yourself a mug of Danish Blend coffee, grab a seat outside, and get ready for our longer-form weekend reads: • The 25 most powerful ideas of the 21st century (so far), picked by the world’s top thinkers: We asked the world’s foremost…",
-      "slug": "A-10-weekend-reads",
-      "publishedAt": "2025-11-29T11:30:04+00:00",
-      "date": "2025-11-29 11:30:04",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/streamflation.png",
-      "url": "/tech-news/2025-11-29/A-10-weekend-reads/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ritholtz.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "“There's no such as 100% - we just try and raise the bar” - we hear what it takes to help secure the world’s largest PC maker from the man in charge of Lenovo’s AI and security",
       "description": "How do you go about helping secure the world’s largest PC maker? We speak to Lenovo Chief Security and AI Officer Doug Fisher to find out.",
       "slug": "theres-no-such-as-100-we-just-try-and-raise-the-ba",
@@ -1906,24 +2158,6 @@
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon (AMZN) Stock Gets Boost as AWS Growth Accelerates and AI Demand Surges",
-      "description": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Making Headlines on Wall Street. On November 25, TD Cowen analyst John Blackledge reiterated a Buy...",
-      "slug": "amazon-amzn-stock-gets-boost-as-aws-growth-acceler",
-      "publishedAt": "2025-11-29T11:19:27+00:00",
-      "date": "2025-11-29 11:19:27",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W7b6WAdM7xl_oBYUDwozEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTQ-/https://media.zenfs.com/en/insidermonkey.com/dcace922a82413d4b76c27520b28dd85",
-      "url": "/tech-news/2025-11-29/amazon-amzn-stock-gets-boost-as-aws-growth-acceler/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
@@ -2014,24 +2248,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Alibaba’s (BABA) Latest Results Highlight Powerful Cloud Momentum and Solid E-Commerce Gains",
-      "description": "Alibaba Group Holding Limited (NYSE:BABA) is one of the AI Stocks Making Headlines on Wall Street. On November 26, Benchmark reiterated its Buy rating on the...",
-      "slug": "alibabas-baba-latest-results-highlight-powerful-cl",
-      "publishedAt": "2025-11-29T10:52:55+00:00",
-      "date": "2025-11-29 10:52:55",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g8xIYs.ekKy3I9ZWpsQ0fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/916ad430b04c4c3e9fab96515705109e",
-      "url": "/tech-news/2025-11-29/alibabas-baba-latest-results-highlight-powerful-cl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []
@@ -2217,24 +2433,6 @@
       "people": []
     },
     {
-      "title": "Accelerating AI Force Integration and Dissemination to Build a Smart, Advanced, and Strong Military",
-      "description": "Defense Minister Ahn Gyu-back delivers opening remarks at the 2025 Defense AI Implementation Review Meeting at the Ministry of National Defense in Yongsan-gu, Seoul, on Nov. 18.",
-      "slug": "accelerating-ai-force-integration-and-disseminatio",
-      "publishedAt": "2025-11-29T09:31:46+00:00",
-      "date": "2025-11-29 09:31:46",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/accelerating-ai-force-integration-and-disseminatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Work in progress: Hong Kong reaps the fruits of fintech seeds sown nearly 10 years ago",
       "description": "When Alvin Kwock, co-founder of digital insurer OneDegree, took part in the inaugural Hong Kong FinTech Week in November 2016, it was held at a venue...",
       "slug": "work-in-progress-hong-kong-reaps-the-fruits-of-fin",
@@ -2248,24 +2446,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Aerospace companies set to get more capital market support as reusable rockets make headway",
-      "description": "Six Chinese commercial aerospace companies had their IPO counseling and filing accepted by local securities regulatory bureaus from June 18 to November 27, the Securities Daily reported on Friday, amid faster growth in China's commercial aerospace sector and …",
-      "slug": "aerospace-companies-set-to-get-more-capital-market",
-      "publishedAt": "2025-11-29T09:26:16+00:00",
-      "date": "2025-11-29 09:26:16",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/aerospace-companies-set-to-get-more-capital-market/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
       },
       "companies": [],
       "people": []
@@ -2829,24 +3009,6 @@
       "people": []
     },
     {
-      "title": "Alibaba (BABA) Invests in AI Chatbot for Consumers",
-      "description": "Alibaba Group Holding Limited (NYSE:BABA) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 18, Reuters reported that Alibaba Group...",
-      "slug": "alibaba-baba-invests-in-ai-chatbot-for-consumers",
-      "publishedAt": "2025-11-29T05:39:08+00:00",
-      "date": "2025-11-29 05:39:08",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ymI1Mc5l_oFjMIiMvetwSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/0eb924017ca7a116df823ff8f9cb32af",
-      "url": "/tech-news/2025-11-29/alibaba-baba-invests-in-ai-chatbot-for-consumers/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Micron Technology (MU) Price Targets Raised by Analysts",
       "description": "Micron Technology, Inc. (NASDAQ:MU) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 24, Morgan Stanley reiterated its Buy rating on...",
       "slug": "micron-technology-mu-price-targets-raised-by-analy",
@@ -3225,24 +3387,6 @@
       "people": []
     },
     {
-      "title": "$150 Million AI Lobbying War Fuels The Fight Over Preemption",
-      "description": "The $150 million AI lobbying war is reshaping U.S. tech policy as coalitions clash over federal preemption, state authority and the future of AI regulation.",
-      "slug": "A-150-million-ai-lobbying-war-fuels-the-fight-over",
-      "publishedAt": "2025-11-29T02:27:42+00:00",
-      "date": "2025-11-29 02:27:42",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69296b6af72de3e7d5ecd3d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-11-29/A-150-million-ai-lobbying-war-fuels-the-fight-over/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Are OLED TVs finally affordable enough this Black Friday? With prices starting under $550, this is the time to finally get your dream TV",
       "description": "OLED TVs are highly desirable for a lot of reasons, but is this Black Friday the time to consider one? Here's what you need to know.",
       "slug": "are-oled-tvs-finally-affordable-enough-this-black-",
@@ -3274,24 +3418,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI shopping bots pose new challenge to Amazon’s market lead",
-      "description": "Emerging AI shopping bots are beginning to disrupt Amazon's e-commerce dominance by offering consumers personalized shopping experiences and price comparisons. These bots leverage advanced algorithms to streamline the purchasing process, potentially shifting …",
-      "slug": "ai-shopping-bots-pose-new-challenge-to-amazons-mar",
-      "publishedAt": "2025-11-29T01:57:32+00:00",
-      "date": "2025-11-29 01:57:32",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
-      "url": "/tech-news/2025-11-29/ai-shopping-bots-pose-new-challenge-to-amazons-mar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nextbigwhat.com"
       },
       "companies": [],
       "people": []
@@ -3387,42 +3513,6 @@
       "people": []
     },
     {
-      "title": "A profile of Paulina Borsook, as her 2000 book Cyberselfish, warning about Silicon Valley's love for “techno-libertarianism”, finds a resurgence in interest",
-      "description": "",
-      "slug": "a-profile-of-paulina-borsook-as-her-2000-book-cybe",
-      "publishedAt": "2025-11-29T00:23:45+00:00",
-      "date": "2025-11-29 00:23:45",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-11-29/a-profile-of-paulina-borsook-as-her-2000-book-cybe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon Goes 50% Off on Its Own eero 6+ Mesh WiFi, 3-Pack System for 4,500 Sq Ft Now at Zero Margin",
-      "description": "Amazon Goes 50% Off on Its Own eero 6+ Mesh WiFi, 3-Pack System for 4,500 Sq Ft Now at Zero Margingizmodo.com",
-      "slug": "amazon-goes-50-off-on-its-own-eero-6-mesh-wifi-3-p",
-      "publishedAt": "2025-11-29T00:15:43+00:00",
-      "date": "2025-11-29 00:15:43",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/eero3pack-1200x675.jpg",
-      "url": "/tech-news/2025-11-29/amazon-goes-50-off-on-its-own-eero-6-mesh-wifi-3-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Microsoft Goes Zero-Profit on Surface Laptop (1TB SSD, X Elite, 15″), Now $700 Off in Black Friday’s Final Hours",
       "description": "This touchscreen laptop with a Snapdragon processor has great AI performance and a long battery life.\nThe post Microsoft Goes Zero-Profit on Surface Laptop (1TB SSD, X Elite, 15″), Now $700 Off in Black Friday’s Final Hours appeared first on Kotaku.",
       "slug": "microsoft-goes-zero-profit-on-surface-laptop-1tb-s",
@@ -3508,96 +3598,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Why the US can no longer impose its ‘values’ on Saudi Arabia",
-      "description": "Washington increasingly has to negotiate from a position not of absolute dominance, but of relative advantage Read Full Article at RT.com",
-      "slug": "why-the-us-can-no-longer-impose-its-values-on-saud",
-      "publishedAt": "2025-11-28T21:10:15+00:00",
-      "date": "2025-11-28 21:10:15",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2025.11/article/6929af0e2030271e16724ba5.jpg",
-      "url": "/tech-news/2025-11-28/why-the-us-can-no-longer-impose-its-values-on-saud/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zero to Mastery: [November 2025] Python Monthly Newsletter ",
-      "description": "Andrei Neagoie's must-read monthly Python Newsletter read by 15,000+ Pythonistas. Get up-to-date with the top Python news from last month.",
-      "slug": "zero-to-mastery-november-2025-python-monthly-newsl",
-      "publishedAt": "2025-11-28T16:43:51+00:00",
-      "date": "2025-11-28 16:43:51",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.ctfassets.net/aq13lwl6616q/6QISfE5q85w790libGuFID/08b80cc5303ddf99e9ff8b3e5cbd480c/Python_Monthly.png",
-      "url": "/tech-news/2025-11-28/zero-to-mastery-november-2025-python-monthly-newsl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Zerotomastery.io"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Why this Black Friday is the smartest time to buy a Dreame vacuum",
-      "description": "This is the time to save big.",
-      "slug": "why-this-black-friday-is-the-smartest-time-to-buy-",
-      "publishedAt": "2025-11-28T11:15:00+00:00",
-      "date": "2025-11-28 11:15:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/dreame.png?w=1200",
-      "url": "/tech-news/2025-11-28/why-this-black-friday-is-the-smartest-time-to-buy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Will AI Be Governed — or Will It Govern Us?",
-      "description": "In July 2025, the Senate voted 99-1 to preserve state authority over AI regulation — but Washington’s push for centralized control hasn’t stopped. As Congress debates AI laws and schools quietly test AI-driven “emotional monit...",
-      "slug": "will-ai-be-governed-or-will-it-govern-us",
-      "publishedAt": "2025-11-28T05:00:00+00:00",
-      "date": "2025-11-28 05:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.americanthinker.com/imported/2023-11/250078_800.jpeg",
-      "url": "/tech-news/2025-11-28/will-ai-be-governed-or-will-it-govern-us/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Americanthinker.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Why the Samsung Galaxy S25 Ultra at its Black Friday price is basically unbeatable",
-      "description": "The slim design, enhanced processor, and Galaxy AI features make this year's Ultra flagship the best one yet. Right now, it's $400 off for Black Friday.",
-      "slug": "why-the-samsung-galaxy-s25-ultra-at-its-black-frid",
-      "publishedAt": "2025-11-28T02:58:00+00:00",
-      "date": "2025-11-28 02:58:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0c5194b2397142ec91463890fa04ba6b156d59f0/2025/04/04/38aac0c2-a5ac-4e4a-94c9-96bf7e8908d3/dsc05222.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-28/why-the-samsung-galaxy-s25-ultra-at-its-black-frid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
       },
       "companies": [],
       "people": []
