@@ -24,6 +24,13 @@ logger = logging.getLogger(__name__)
 class NewsAPITechNewsGenerator:
     """Generátor tech-news z NewsAPI s překlady a detekcí"""
 
+    # Konfigurace LLM modelů s automatickým fallback
+    PRIMARY_MODEL = 'x-ai/grok-4.1-fast:free'
+    FALLBACK_MODEL = 'anthropic/claude-haiku-4.5'
+
+    # Chybové kódy indikující potřebu fallbacku
+    FALLBACK_ERROR_CODES = {402, 429, 503}  # Payment required, rate limit, service unavailable
+
     def __init__(self):
         self.output_dir = Path('_tech_news')
         self.output_dir.mkdir(exist_ok=True)
@@ -31,10 +38,72 @@ class NewsAPITechNewsGenerator:
         self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY', '')
         self.translation_enabled = self.openrouter_api_key and self.openrouter_api_key != 'skip'
 
+        # Aktuální model - začínáme s primárním, automaticky přepne na fallback při chybě
+        self.current_model = self.PRIMARY_MODEL
+        self._fallback_activated = False
+
         # Inicializovat LLM cost tracker
         self.cost_tracker = LLMCostTracker() if self.translation_enabled else None
         if self.cost_tracker:
             logger.info("💰 LLM Cost Tracker aktivován")
+        logger.info(f"🤖 Primární LLM model: {self.PRIMARY_MODEL}")
+        logger.info(f"🔄 Fallback model: {self.FALLBACK_MODEL}")
+
+    def _call_llm_with_fallback(self, data, headers, operation, article_title, timeout=30):
+        """
+        Volá LLM API s automatickým fallback na záložní model při selhání.
+
+        Args:
+            data: Request data (bez 'model' klíče - bude doplněn)
+            headers: HTTP headers
+            operation: Název operace pro logging
+            article_title: Titulek článku pro logging
+            timeout: Timeout v sekundách
+
+        Returns:
+            Tuple (response, usage) nebo (None, None) při selhání
+        """
+        url = 'https://openrouter.ai/api/v1/chat/completions'
+
+        # Zkusit aktuální model
+        data['model'] = self.current_model
+        response, usage = track_llm_call(
+            url=url,
+            headers=headers,
+            data=data,
+            operation=operation,
+            article_slug=None,
+            article_title=article_title[:100] if article_title else None,
+            timeout=timeout,
+            tracker=self.cost_tracker
+        )
+
+        # Kontrola, zda potřebujeme fallback
+        if response and response.status_code in self.FALLBACK_ERROR_CODES:
+            if not self._fallback_activated:
+                logger.warning(f"⚠️ Model {self.current_model} vrátil HTTP {response.status_code}")
+                logger.info(f"🔄 Přepínám na fallback model: {self.FALLBACK_MODEL}")
+                self.current_model = self.FALLBACK_MODEL
+                self._fallback_activated = True
+
+                # Zkusit znovu s fallback modelem
+                data['model'] = self.current_model
+                response, usage = track_llm_call(
+                    url=url,
+                    headers=headers,
+                    data=data,
+                    operation=operation,
+                    article_slug=None,
+                    article_title=article_title[:100] if article_title else None,
+                    timeout=timeout,
+                    tracker=self.cost_tracker
+                )
+
+        return response, usage
+
+    def get_current_model(self):
+        """Vrátí aktuálně používaný model."""
+        return self.current_model
 
     def fetch_article_content(self, url, max_length=2000):
         """Stáhne a parsuje plný text článku z URL"""
@@ -211,7 +280,6 @@ DŮLEŽITÉ:
             }
 
             data = {
-                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -219,18 +287,15 @@ DŮLEŽITÉ:
                 'temperature': 0.3
             }
 
-            logger.debug(f"🤖 Volám LLM pro analýzu článku: {title[:50]}...")
+            logger.debug(f"🤖 Volám LLM ({self.current_model}) pro analýzu článku: {title[:50]}...")
 
-            # API volání s cost trackingem
-            response, usage = track_llm_call(
-                url='https://openrouter.ai/api/v1/chat/completions',
-                headers=headers,
+            # API volání s fallback podporou
+            response, usage = self._call_llm_with_fallback(
                 data=data,
+                headers=headers,
                 operation='analyze_and_enhance',
-                article_slug=None,  # Slug není v tomto bodě dostupný
-                article_title=title[:100],  # Omezit délku
-                timeout=30,
-                tracker=self.cost_tracker
+                article_title=title,
+                timeout=30
             )
 
             if response and response.status_code == 200:
@@ -260,7 +325,7 @@ DŮLEŽITÉ:
                             llm_tokens = prompt_tokens + completion_tokens
                             if self.cost_tracker:
                                 llm_cost = self.cost_tracker.calculate_cost(
-                                    'qwen/qwen3-max',
+                                    self.current_model,
                                     prompt_tokens,
                                     completion_tokens
                                 )
@@ -592,7 +657,6 @@ DŮLEŽITÉ:
             }
 
             data = {
-                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'system', 'content': system_prompt},
                     {'role': 'user', 'content': text}
@@ -601,16 +665,13 @@ DŮLEŽITÉ:
                 'temperature': 0.3
             }
 
-            # API volání s cost trackingem
-            response, usage = track_llm_call(
-                url='https://openrouter.ai/api/v1/chat/completions',
-                headers=headers,
+            # API volání s fallback podporou
+            response, usage = self._call_llm_with_fallback(
                 data=data,
+                headers=headers,
                 operation=f'translate_{text_type}',
-                article_slug=None,
-                article_title=text[:50],  # Náhled textu
-                timeout=10,
-                tracker=self.cost_tracker
+                article_title=text[:50],
+                timeout=10
             )
 
             if response and response.status_code == 200:
@@ -666,7 +727,6 @@ Odpověz POUZE názvem kategorie, nic jiného."""
             }
 
             data = {
-                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -674,16 +734,13 @@ Odpověz POUZE názvem kategorie, nic jiného."""
                 'temperature': 0.1
             }
 
-            # API volání s cost trackingem
-            response, usage = track_llm_call(
-                url='https://openrouter.ai/api/v1/chat/completions',
-                headers=headers,
+            # API volání s fallback podporou
+            response, usage = self._call_llm_with_fallback(
                 data=data,
+                headers=headers,
                 operation='detect_category',
-                article_slug=None,
-                article_title=title[:100],
-                timeout=10,
-                tracker=self.cost_tracker
+                article_title=title,
+                timeout=10
             )
 
             if response and response.status_code == 200:
@@ -734,7 +791,6 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -742,16 +798,13 @@ Pokud nejsou žádné významné firmy, odpověz "žádné"."""
                 'temperature': 0.1
             }
 
-            # API volání s cost trackingem
-            response, usage = track_llm_call(
-                url='https://openrouter.ai/api/v1/chat/completions',
-                headers=headers,
+            # API volání s fallback podporou
+            response, usage = self._call_llm_with_fallback(
                 data=data,
+                headers=headers,
                 operation='detect_companies',
-                article_slug=None,
-                article_title=title[:100],
-                timeout=10,
-                tracker=self.cost_tracker
+                article_title=title,
+                timeout=10
             )
 
             if response and response.status_code == 200:
@@ -807,7 +860,6 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
             }
 
             data = {
-                'model': 'qwen/qwen3-max',
                 'messages': [
                     {'role': 'user', 'content': prompt}
                 ],
@@ -815,16 +867,13 @@ Pokud nejsou žádné významné osobnosti, odpověz "žádné"."""
                 'temperature': 0.1
             }
 
-            # API volání s cost trackingem
-            response, usage = track_llm_call(
-                url='https://openrouter.ai/api/v1/chat/completions',
-                headers=headers,
+            # API volání s fallback podporou
+            response, usage = self._call_llm_with_fallback(
                 data=data,
+                headers=headers,
                 operation='detect_people',
-                article_slug=None,
-                article_title=title[:100],
-                timeout=10,
-                tracker=self.cost_tracker
+                article_title=title,
+                timeout=10
             )
 
             if response and response.status_code == 200:
@@ -1307,6 +1356,9 @@ def main():
         # Generovat denní archivní stránky
         generator.generate_daily_pages()
         logger.info("🎉 Generování tech-news z NewsAPI dokončeno")
+        logger.info(f"🤖 Použitý model: {generator.get_current_model()}")
+        if generator._fallback_activated:
+            logger.info("⚠️ Během běhu byl aktivován fallback model")
 
         # Zobrazit LLM cost statistiky
         if generator.cost_tracker:
