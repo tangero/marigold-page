@@ -7,6 +7,14 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Changed
+- **LLM model pro tech-news změněn z `qwen/qwen3-max` na `x-ai/grok-4.1-fast:free`** (`scripts/generate_tech_news_newsapi.py`)
+  - Nový primární model: `x-ai/grok-4.1-fast:free` (bezplatný)
+  - Automatický fallback na `anthropic/claude-haiku-4.5` při selhání (HTTP 402, 429, 503)
+  - Nová helper metoda `_call_llm_with_fallback()` s retry logikou
+  - Logging aktuálně použitého modelu na konci běhu
+  - Konfigurace modelů centralizována do class konstant `PRIMARY_MODEL` a `FALLBACK_MODEL`
+
 ### Added
 - **Seznam.cz Discussion System** - nativní diskuzní systém místo commentbox.io
   - Nahrazen commentbox.io systém za Seznam.cz diskuze (service-name: `marigoldcz`)
