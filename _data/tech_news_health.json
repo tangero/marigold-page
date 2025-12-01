@@ -1,6 +1,6 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-11-28T16:25:13.982648+00:00",
+  "timestamp": "2025-12-01T08:23:02.171778+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 380.0,
-      "median_length": 381.0
+      "avg_length": 357.0,
+      "median_length": 376.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,25 +26,34 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.0,
-      "invalid_count": 0,
-      "most_common_missing_fields": {},
-      "sample_invalid_articles": []
+      "error_rate": 0.01,
+      "invalid_count": 1,
+      "most_common_missing_fields": {
+        "description": 1
+      },
+      "sample_invalid_articles": [
+        {
+          "file": "2025-11-29-saturday-night-genealogy-fun-your-six-word-memoirs.md",
+          "errors": [
+            "chybí description"
+          ]
+        }
+      ]
     }
   },
   "metrics": {
-    "total_articles": 6198,
+    "total_articles": 6814,
     "articles_24h": 0,
     "articles_1h": 0,
     "newest_article_age_hours": 24.04,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 380.0,
-    "median_content_length": 381.0,
-    "articles_with_images_pct": 98.0,
+    "avg_content_length": 357.0,
+    "median_content_length": 376.0,
+    "articles_with_images_pct": 93.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.0
+    "front_matter_error_rate": 0.01
   },
   "alerts": [
     {
