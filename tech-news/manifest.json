@@ -1,7 +1,457 @@
 {
-  "generated": "2025-12-01T04:57:04.777481+00:00",
+  "generated": "2025-12-01T08:23:01.973152+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Chinese GPU Maker Demos Its Next-Gen Fuxi A0 GPU Based on Imagination DXD GPU IP: Features 5nm Core, 12 GB VRAM, Ray Tracing & Super-Res Support",
+      "description": "The Chinese Fuxi A0 GPU is based on a 5nm Imagination DXD Graphics IP, offering Ray Tracing & Super Resolution support. China's Fuxi A0 GPU Is Ready For Mass Production: 5nm, Ray Tracing & Super-Resolution Ready With Imagination DXD GPU IP. China-based GPU co…",
+      "slug": "chinese-gpu-maker-demos-its-next-gen-fuxi-a0-gpu-b",
+      "publishedAt": "2025-11-30T08:20:27+00:00",
+      "date": "2025-11-30 08:20:27",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/China-GPU-Fuxi-A0-Imagination-Technologies-_1.webp",
+      "url": "/tech-news/2025-11-30/chinese-gpu-maker-demos-its-next-gen-fuxi-a0-gpu-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Upgrade your Sonos home theater at up to $220 off this Black Friday with deals on Arc Ultra Soundbar, subs, more",
+      "description": "As part of its now live Black Friday Week sale event, Amazon is offering some solid price drops across the Sonos home theater ecosystem. You can now cash in on these deals to secure up to $220 in savings, and the prices start at $169. These are some of the be…",
+      "slug": "upgrade-your-sonos-home-theater-at-up-to-220-off-t",
+      "publishedAt": "2025-11-30T08:10:00+00:00",
+      "date": "2025-11-30 08:10:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/02/Sonos-Arc-Ultra-Soundbar-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-11-30/upgrade-your-sonos-home-theater-at-up-to-220-off-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon Black Friday Haircare Deals",
+      "description": "TMZ may collect a share of sales or other compensation from links on this page. Amazon’s Black Friday sale has been going strong all week … but don’t worry, there’s still time to grab a few last minute deals. If you’re looking to make bad…",
+      "slug": "amazon-black-friday-haircare-deals",
+      "publishedAt": "2025-11-30T08:01:15+00:00",
+      "date": "2025-11-30 08:01:15",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://imagez.tmz.com/image/ac/16by9/2025/11/24/ac2ab798965f4bd88525bb7640de930a_xl.jpg",
+      "url": "/tech-news/2025-11-30/amazon-black-friday-haircare-deals/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TMZ"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung is making sure it doesn’t repeat its grave mistake from 2022",
+      "description": "Despite being the world’s biggest memory chip maker for decards, Samsung missed the high-bandwidth (HBM) boat when the AI boom started in 2022. As a result, rivals Micron and SK Hynix dominated the supply of HBM chips for this lucrative market. Now, Samsung i…",
+      "slug": "samsung-is-making-sure-it-doesnt-repeat-its-grave-",
+      "publishedAt": "2025-11-30T08:00:38+00:00",
+      "date": "2025-11-30 08:00:38",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-HBM4-Chip-HBM3E-SEDEX-2025-1200x675.jpg",
+      "url": "/tech-news/2025-11-30/samsung-is-making-sure-it-doesnt-repeat-its-grave/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ultimate guide to AI learning platforms for JEE 2026",
+      "description": "Are you feeling overwhelmed by the options available for AI learning platforms? Do you want to enhance your JEE preparation using cutting-edge technology? How do you know which platform will…\nThe post Ultimate guide to AI learning platforms for JEE 2026 appea…",
+      "slug": "ultimate-guide-to-ai-learning-platforms-for-jee-20",
+      "publishedAt": "2025-11-30T08:00:33+00:00",
+      "date": "2025-11-30 08:00:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2025-11-30/ultimate-guide-to-ai-learning-platforms-for-jee-20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AWS Launches Resilience Software Competency to help customers build highly available applications",
+      "description": "Today, AWS announced the expansion of its AWS Resilience Competency program to include Technology Partners, helping customers identify and implement software solutions that enhance the availability and resilience of their critical cloud workloads. This new of…",
+      "slug": "aws-launches-resilience-software-competency-to-hel",
+      "publishedAt": "2025-11-30T08:00:00+00:00",
+      "date": "2025-11-30 08:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-30/aws-launches-resilience-software-competency-to-hel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AWS announces preview of AWS Interconnect - multicloud",
+      "description": "AWS announces preview of AWS Interconnect - multicloud, providing simple, resilient, high-speed private connections to other cloud service providers (CSPs), starting in preview with Google Cloud as the first launch partner and then with Microsoft Azure later …",
+      "slug": "aws-announces-preview-of-aws-interconnect-multiclo",
+      "publishedAt": "2025-11-30T08:00:00+00:00",
+      "date": "2025-11-30 08:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-30/aws-announces-preview-of-aws-interconnect-multiclo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Comparing AI learning platforms: Revast.xyz vs others",
+      "description": "Have you ever wondered why some AI learning platforms stand out while others fade into the background? What does it take to truly harness the power of artificial intelligence for…\nThe post Comparing AI learning platforms: Revast.xyz vs others appeared first o…",
+      "slug": "comparing-ai-learning-platforms-revastxyz-vs-other",
+      "publishedAt": "2025-11-30T07:50:58+00:00",
+      "date": "2025-11-30 07:50:58",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2025-11-30/comparing-ai-learning-platforms-revastxyz-vs-other/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How to master your studies with an AI learning platform",
+      "description": "Ever feel overwhelmed by your studies? Struggling to keep your focus during late-night cram sessions? What if I told you there’s a way to make learning not just easier, but…\nThe post How to master your studies with an AI learning platform appeared first on ne…",
+      "slug": "how-to-master-your-studies-with-an-ai-learning-pla",
+      "publishedAt": "2025-11-30T07:36:15+00:00",
+      "date": "2025-11-30 07:36:15",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2025-11-30/how-to-master-your-studies-with-an-ai-learning-pla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Inside the power-hungry data centres taking over Britain",
+      "description": "Our thirst for AI is fuelling a new construction wave: of giant data centres. But can our electricity and water systems cope — and what will the neighbours say?",
+      "slug": "inside-the-power-hungry-data-centres-taking-over-b",
+      "publishedAt": "2025-11-30T07:01:46+00:00",
+      "date": "2025-11-30 07:01:46",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/%2Feda0ca5d-5161-433a-a630-4fab5eb590dd.jpg?crop=6720%2C3780%2C0%2C350&resize=1200",
+      "url": "/tech-news/2025-11-30/inside-the-power-hungry-data-centres-taking-over-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Why a VPN for Creative Professionals Is the Essential Asset for Your 2026 Workflow",
+      "description": "Your intellectual property defines your value. Yet, you likely leave digital doors wide open every day. A VPN for creative professionals secures your ideas before they become public domain. Security often feels like a boring IT mandate. However, for designers…",
+      "slug": "why-a-vpn-for-creative-professionals-is-the-essent",
+      "publishedAt": "2025-11-30T06:54:17+00:00",
+      "date": "2025-11-30 06:54:17",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://weandthecolor-21f52.kxcdn.com/wp-content/uploads/2025/11/VPN-for-Creative-Professionals.webp",
+      "url": "/tech-news/2025-11-30/why-a-vpn-for-creative-professionals-is-the-essent/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Weandthecolor.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "India played leadership role at UN COP30 climate summit, achieved all major goals: Bhupender Yadav",
+      "description": "India's Union Environment Minister Bhupender Yadav declared COP30 a success, highlighting the nation's achievement of key goals and strong representation of developing countries' interests. Major outcomes include a work program on climate finance and the esta…",
+      "slug": "india-played-leadership-role-at-un-cop30-climate-s",
+      "publishedAt": "2025-11-30T06:46:52+00:00",
+      "date": "2025-11-30 06:46:52",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125669648,width-1200,height-630,imgsize-723105,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-11-30/india-played-leadership-role-at-un-cop30-climate-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IPO pipeline swells; 2 dozen companies line up ₹40,000-cr public offers in Dec-Jan",
+      "description": "This exceptional pipeline not only reflected the confidence of issuers but also highlighted investors' appetite to seize listing-day gains or back companies with strong long-term growth potential",
+      "slug": "ipo-pipeline-swells-2-dozen-companies-line-up-4000",
+      "publishedAt": "2025-11-30T06:21:49+00:00",
+      "date": "2025-11-30 06:21:49",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/d5ka90/article70333412.ece/alternates/LANDSCAPE_1200/IMG_IPO__initial_public__2_1_96E05MTA.jpg",
+      "url": "/tech-news/2025-11-30/ipo-pipeline-swells-2-dozen-companies-line-up-4000/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Good e-Reader Best e-Reader List for 2025",
+      "description": "Looking to buy a new e-book reader? The Good e-Reader Top List breaks down the best ones currently available.\nThe post The Good e-Reader Best e-Reader List for 2025 first appeared on Good e-Reader.",
+      "slug": "the-good-e-reader-best-e-reader-list-for-2025",
+      "publishedAt": "2025-11-30T06:16:45+00:00",
+      "date": "2025-11-30 06:16:45",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.goodereader.com/blog/uploads/images/2025/11/30004712/P1280361.JPG",
+      "url": "/tech-news/2025-11-30/the-good-e-reader-best-e-reader-list-for-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Goodereader"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Show HN: I built a Discord for LLMs in a single 3800-line HTML file",
+      "description": "Model Arena is an interactive LM Arena where AI models talk, debate, and vote. Create rooms, run polls, compare AI models, and explore advanced multi-agent interactions.",
+      "slug": "show-hn-i-built-a-discord-for-llms-in-a-single-380",
+      "publishedAt": "2025-11-30T06:04:36+00:00",
+      "date": "2025-11-30 06:04:36",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-11-30/show-hn-i-built-a-discord-for-llms-in-a-single-380/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Modelarena.xyz"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI CEOAI CEO Emad Mostaque Predicts ~1,000 Day Tipping Point",
+      "description": "AI CEO Emad Mostaque predicts by mid-2028, cognitive labor becomes economically worthless (actually negative value). Humans become the dumbest entity on the team and there is → no market for negative-value labor. Phase transition (ice → water → gas) happens s…",
+      "slug": "ai-ceoai-ceo-emad-mostaque-predicts-1000-day-tippi",
+      "publishedAt": "2025-11-30T06:01:53+00:00",
+      "date": "2025-11-30 06:01:53",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-29-at-10.03.00-PM.jpg",
+      "url": "/tech-news/2025-11-30/ai-ceoai-ceo-emad-mostaque-predicts-1000-day-tippi/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Trump launches “Genesis Mission” AI initiative, compares it to Manhattan Project",
+      "description": "President Donald Trump’s “Genesis Mission” executive order aims to fast-track U.S. AI dominance, comparing its urgency to the Manhattan Project. Focuses on scientific breakthroughs, national security and economic leadership through centralized AI infrastructu…",
+      "slug": "trump-launches-genesis-mission-ai-initiative-compa",
+      "publishedAt": "2025-11-30T06:00:00+00:00",
+      "date": "2025-11-30 06:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/11/AI-Artificial-Intelligence-Letters.jpg",
+      "url": "/tech-news/2025-11-30/trump-launches-genesis-mission-ai-initiative-compa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Is creativity really dead?",
+      "description": "The industry needs clear leadership on AI, not vague provocations about 'making stuff'.",
+      "slug": "is-creativity-really-dead",
+      "publishedAt": "2025-11-30T06:00:00+00:00",
+      "date": "2025-11-30 06:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zyCsx2tCp7bbDf6NCPM9YS-1653-80.jpg",
+      "url": "/tech-news/2025-11-30/is-creativity-really-dead/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Creative Bloq"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "HSBC: OpenAI requires additional $207B by 2030 to remain SOLVENT",
+      "description": "HSBC analysis reveals that OpenAI requires an additional $207 billion in funding by 2030 to remain solvent, highlighting a severe financial sustainability crisis beneath the AI boom. The core issue is the projected cost of “cloud compute,” with data-center re…",
+      "slug": "hsbc-openai-requires-additional-207b-by-2030-to-re",
+      "publishedAt": "2025-11-30T06:00:00+00:00",
+      "date": "2025-11-30 06:00:00",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/11/Open-AI-ChatGPT-Phone.jpg",
+      "url": "/tech-news/2025-11-30/hsbc-openai-requires-additional-207b-by-2030-to-re/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Youth workers are spreading health messages on social media: how to support what they do in South Africa",
+      "description": "South African youth workers, despite limited resources, are finding creative ways to connect with young people through digital tools.",
+      "slug": "youth-workers-are-spreading-health-messages-on-soc",
+      "publishedAt": "2025-11-30T05:49:33+00:00",
+      "date": "2025-11-30 05:49:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images.theconversation.com/files/703604/original/file-20251120-56-da7fk1.jpg?ixlib=rb-4.1.0&rect=0%2C468%2C5616%2C2808&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2025-11-30/youth-workers-are-spreading-health-messages-on-soc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Canada-Alberta Memorandum of Understanding | Prime Minister of Canada",
+      "description": "PREFACE At this pivotal global moment, Canada and Alberta, working closely with Indigenous Peoples and industry, must work together cooperatively, and within their respective jurisdictions, to foster the conditions necessary for infrastructure, including pipe…",
+      "slug": "canada-alberta-memorandum-of-understanding-prime-m",
+      "publishedAt": "2025-11-30T05:47:02+00:00",
+      "date": "2025-11-30 05:47:02",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_Backgrounder_EN.png",
+      "url": "/tech-news/2025-11-30/canada-alberta-memorandum-of-understanding-prime-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Pm.gc.ca"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IPO pipeline swells; 2 dozen companies line up Rs 40,000-cr public offers in Dec-Jan",
+      "description": "According to him, India's robust consumption story, aided by GST and income-tax rationalisation, has encouraged many consumer-facing businesses to consider listing",
+      "slug": "ipo-pipeline-swells-2-dozen-companies-line-up-rs-4",
+      "publishedAt": "2025-11-30T05:41:30+00:00",
+      "date": "2025-11-30 05:41:30",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125669140,width-1200,height-630,imgsize-64412,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-11-30/ipo-pipeline-swells-2-dozen-companies-line-up-rs-4/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Balanced level of humanised AI design in chatbots enhances customer trust, comfort: B-school research",
+      "description": "The research has studied customer behaviour towards Artificial Intelligence enabled service agents, including as chatbots, digital assistants and service robots. Conducted in collaboration with researchers from Cochin University of Science and Technology (CUS…",
+      "slug": "balanced-level-of-humanised-ai-design-in-chatbots-",
+      "publishedAt": "2025-11-30T05:01:58+00:00",
+      "date": "2025-11-30 05:01:58",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47232,resizemode-75,msid-125668835/tech/artificial-intelligence/balanced-level-of-humanised-ai-design-in-chatbots-enhances-customer-trust-comfort-b-school-research.jpg",
+      "url": "/tech-news/2025-11-30/balanced-level-of-humanised-ai-design-in-chatbots/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Landmarks developed using generative AI among projects by the American University in Dubai",
+      "description": "Dezeen School Shows: students at the American University in Dubai have harnessed generative AI to create monuments for each of the United Arab Emirates' seven regions. Read more",
+      "slug": "landmarks-developed-using-generative-ai-among-proj",
+      "publishedAt": "2025-11-30T05:00:22+00:00",
+      "date": "2025-11-30 05:00:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://static.dezeen.com/uploads/2025/11/american-university-in-dubai-dezeen-schoolshows_dezeen_2364_col_7.jpg",
+      "url": "/tech-news/2025-11-30/landmarks-developed-using-generative-ai-among-proj/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dezeen"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Best Black Friday Thunderbolt dock deals 2025: Nov 30",
+      "description": "At-a-glance\r\n\n\n\n\nTop Black Friday Thunderbolt dock picks:\r\n\n\n\n\n<ul>\n<li>Best overall: Ugreen Thunderbolt 4 Dock 8-in-1, $161.48. The best mix of price and features at the moment.</li>\n\n\n\n<li>Best Thunderbolt 4 dock deal: Ugreen Thunderbolt 4 Dock 8-in-1, $161…",
+      "slug": "best-black-friday-thunderbolt-dock-deals-2025-nov-",
+      "publishedAt": "2025-11-30T05:00:00+00:00",
+      "date": "2025-11-30 05:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Belkin-Thunderbolt-4-Hub-Connect-39.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-11-30/best-black-friday-thunderbolt-dock-deals-2025-nov/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "AI Helps Drive Record $11.8B in Black Friday Online Spending",
       "description": "Earlier this month MasterCard noted that even Walmart now allows its customers to make purchases through ChatGPT. And after polling more than 4,000 consumers in the U.S., Canada, U.K., and UAE, they found \"more than four in 10 consumers already use AI tools t…",
@@ -453,6 +903,24 @@
       "people": []
     },
     {
+      "title": "MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI",
+      "description": "Last week, Massachusetts Institute of Technology (MIT) published a study claiming that AI is already capable of replacing 11.7% of existing U.S. labor. It’s certainly the kind of eye-popping study guaranteed to get a lot of eyes on researchers’ work at a time…",
+      "slug": "mit-report-claims-117-of-us-labor-can-be-replaced-",
+      "publishedAt": "2025-11-29T22:53:55+00:00",
+      "date": "2025-11-29 22:53:55",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/85f1f69d258621c4_s.webp",
+      "url": "/tech-news/2025-11-29/mit-report-claims-117-of-us-labor-can-be-replaced/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Tim Cook loves the Galaxy S25: Comedic AI clip goes viral",
       "description": "Tim Cook as a Samsung fanboy? A viral clip shows the Apple CEO with a Samsung Galaxy S25 Ultra, mocking \"BugOS\". While a deepfake, the short video is nevertheless generating widespread laughs and amazement at ever-improving AI technology.",
       "slug": "tim-cook-loves-the-galaxy-s25-comedic-ai-clip-goes",
@@ -538,24 +1006,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yanko Design"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Black Friday may be over, but Best Buy is STILL carving $100 off our favorite wireless earbuds",
-      "description": "Beyond just sounding great in general, the Sony WF-1000XM5 earbuds also have a range of premium-level audio features.",
-      "slug": "black-friday-may-be-over-but-best-buy-is-still-car",
-      "publishedAt": "2025-11-29T21:38:24+00:00",
-      "date": "2025-11-29 21:38:24",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pmqavWiHfonmgFHCFvmgFL-2560-80.jpg",
-      "url": "/tech-news/2025-11-29/black-friday-may-be-over-but-best-buy-is-still-car/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Central"
       },
       "companies": [],
       "people": []
@@ -669,24 +1119,6 @@
       "people": []
     },
     {
-      "title": "Be Like Clippy",
-      "description": "Join the Be Like Clippy movement to make technology more user-friendly and transparent. Including a list of custom clippy profile pictures",
-      "slug": "be-like-clippy",
-      "publishedAt": "2025-11-29T19:41:55+00:00",
-      "date": "2025-11-29 19:41:55",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://be-clippy.com/clippys/clippy.png",
-      "url": "/tech-news/2025-11-29/be-like-clippy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Be-clippy.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Saturday Night Genealogy Fun -- Your Six Word Memoir(s)",
       "description": "",
       "slug": "saturday-night-genealogy-fun-your-six-word-memoirs",
@@ -700,24 +1132,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Blogger.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI",
-      "description": "The report notes that it has some limitations, but says \"policymakers cannot wait\" to act on its findings.",
-      "slug": "mit-report-claims-117-of-us-labor-can-be-replaced-",
-      "publishedAt": "2025-11-29T19:06:21+00:00",
-      "date": "2025-11-29 19:06:21",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg",
-      "url": "/tech-news/2025-11-29/mit-report-claims-117-of-us-labor-can-be-replaced/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
       },
       "companies": [],
       "people": []
@@ -1119,42 +1533,6 @@
       "people": []
     },
     {
-      "title": "Before Cyber Monday Hits, This Top‑Rated TCL TV Is Stealing the Show With a Record‑Low Price",
-      "description": "This Editor's Choice TV, the TCL QM8K, is down to $898 heading into Cyber Monday. Grab it before it's gone.",
-      "slug": "before-cyber-monday-hits-this-toprated-tcl-tv-is-s",
-      "publishedAt": "2025-11-29T17:20:00+00:00",
-      "date": "2025-11-29 17:20:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/60f0dd2dd3a185fd463e5a10d45c291ac679034e/hub/2025/11/29/02d7b5cc-79ba-4042-8805-2897a61fcf46/tcl-65-inch-class-qm8k-series-mini-led-qled-4k-hdr.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-29/before-cyber-monday-hits-this-toprated-tcl-tv-is-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Avail Unveils Nexus Mainnet: A New Era of Seamless Cross-Chain Liquidity Across Ethereum, Solana, EVMs",
-      "description": "Avail, a pioneering provider of modular blockchain infrastructure, has officially launched the Avail Nexus Mainnet, introducing a new cross-chain coordination layer that seamlessly connects applications, users, and liquidity across leading blockchain networks…",
-      "slug": "avail-unveils-nexus-mainnet-a-new-era-of-seamless-",
-      "publishedAt": "2025-11-29T17:19:30+00:00",
-      "date": "2025-11-29 17:19:30",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2025/11/unnamed-2025-11-29T171649.234.jpg",
-      "url": "/tech-news/2025-11-29/avail-unveils-nexus-mainnet-a-new-era-of-seamless/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZyCrypto"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Dan Ives Says These Are the Top 3 Stocks to Buy Right Now",
       "description": "The Wedbush analyst reckons these stocks to be table pounders at the moment.",
       "slug": "dan-ives-says-these-are-the-top-3-stocks-to-buy-ri",
@@ -1168,24 +1546,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Barchart.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Berkshire Innovation Center welcomes new cohort of startups to Pittsfield",
-      "description": "Six startups — spanning energy, agriculture, health, and AI — have joined the Berkshire Innovation Center’s Stage 2 Accelerator to refine prototypes and scale their technologies.",
-      "slug": "berkshire-innovation-center-welcomes-new-cohort-of",
-      "publishedAt": "2025-11-29T17:00:00+00:00",
-      "date": "2025-11-29 17:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/0/08/00849030-0cf4-43c5-a867-78dd87b3ed59/68daa743ded33.image.jpg?crop=1247%2C655%2C0%2C199&resize=1200%2C630&order=crop%2Cresize",
-      "url": "/tech-news/2025-11-29/berkshire-innovation-center-welcomes-new-cohort-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Berkshireeagle.com"
       },
       "companies": [],
       "people": []
@@ -1587,24 +1947,6 @@
       "people": []
     },
     {
-      "title": "Best portable projector of 2025: Tested for streaming and presenting on the go",
-      "description": "Want to stream or present anywhere - then these are the best mini and handheld projectors we've reviewed.",
-      "slug": "best-portable-projector-of-2025-tested-for-streami",
-      "publishedAt": "2025-11-29T14:30:08+00:00",
-      "date": "2025-11-29 14:30:08",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/E9Cn4hw5usgtGJdTjqtx9G-970-80.webp",
-      "url": "/tech-news/2025-11-29/best-portable-projector-of-2025-tested-for-streami/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "It's Always the Process, Stupid",
       "description": "Article URL: https://its.promp.td/its-always-the-process-stupid/\nComments URL: https://news.ycombinator.com/item?id=46087737\nPoints: 9\n# Comments: 1",
       "slug": "its-always-the-process-stupid",
@@ -1695,24 +2037,6 @@
       "people": []
     },
     {
-      "title": "As ChatGPT turns 3, here’s what’s crashing the party",
-      "description": "OpenAI sits at the center of the AI boom that it started. But it faces increasing challenges around both the business and the technology itself.",
-      "slug": "as-chatgpt-turns-3-heres-whats-crashing-the-party",
-      "publishedAt": "2025-11-29T13:58:09+00:00",
-      "date": "2025-11-29 13:58:09",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-11-29/as-chatgpt-turns-3-heres-whats-crashing-the-party/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "TCL NXTPAPER for under $170? Black Friday's leftovers sale is already blowing my mind!",
       "description": "This magical phone screen looks like it was painted on, and now it's under $170 even after Black Friday is over.",
       "slug": "tcl-nxtpaper-for-under-170-black-fridays-leftovers",
@@ -1744,24 +2068,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Belkin’s new 25W Qi2.2 MagSafe charging stands hit Black Friday all-time lows at 25% off",
-      "description": "While Amazon has technically flipped over to its official 2025 Cyber Monday sale now, the Black Friday weekend deals are still flying and we have a new all-time low on Belkin’s brand new UltraCharge Pro 3-in-1 Magnetic Charging Dock. One of the latest and mor…",
-      "slug": "belkins-new-25w-qi22-magsafe-charging-stands-hit-b",
-      "publishedAt": "2025-11-29T13:37:08+00:00",
-      "date": "2025-11-29 13:37:08",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/08/Belkin-25W-Qi2.2-wireless-charging-stands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-11-29/belkins-new-25w-qi22-magsafe-charging-stands-hit-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Toys"
       },
       "companies": [],
       "people": []
@@ -2127,24 +2433,6 @@
       "people": []
     },
     {
-      "title": "Best Black Friday 2025 iPhone deals: The best deals you can get now",
-      "description": "Macworld\n\n\n\r\n\n\n\n\n\nBest iPhone Deals Available Now!\r\n\n\n\n\nIt’s Black Friday weekend, and we are continuing to see lots of deals on Apple products, including deals on iPhones:\r\n\n\n\n\nToday’s best iPhone deals: U.S.\r\n\n\n\n\n<ul>\n<li>$75 gift card with iPhone 16 or 16 …",
-      "slug": "best-black-friday-2025-iphone-deals-the-best-deals",
-      "publishedAt": "2025-11-29T11:40:16+00:00",
-      "date": "2025-11-29 11:40:16",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/11/mw-iphone-bf-primary-21.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-11-29/best-black-friday-2025-iphone-deals-the-best-deals/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "LRN STOCK: Lose Money on Your Stride, Inc. Investment? Contact BFA Law about the Pending Securities Class Action before January 12 Deadline",
       "description": "Stride, Inc. investors that lost money are notified to contact BFA Law before the January 12, 2026 securities fraud class action deadline.......",
       "slug": "lrn-stock-lose-money-on-your-stride-inc-investment",
@@ -2289,24 +2577,6 @@
       "people": []
     },
     {
-      "title": "Black Friday Is Wrapped but Apple’s Biggest Price Drops Haven’t – Grab Them Before They’re Gone",
-      "description": "You'd think the deals would be gone by now, but savings across Apple's top-tier tech are still going strong.",
-      "slug": "black-friday-is-wrapped-but-apples-biggest-price-d",
-      "publishedAt": "2025-11-29T10:58:00+00:00",
-      "date": "2025-11-29 10:58:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/cf73076f01aff4d813637d4111f54590f3de84e7/hub/2025/11/28/3e535fce-2a31-4492-a011-6f627255cb30/2-apple-deals-mid.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-29/black-friday-is-wrapped-but-apples-biggest-price-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "This startup uses an AI copilot to help you make deeper professional connections. Read the pitch deck it used to raise $4M.",
       "description": "Goodword doesn't want to be the next LinkedIn. But it does want to disrupt how people maintain professional relationships.",
       "slug": "this-startup-uses-an-ai-copilot-to-help-you-make-d",
@@ -2316,24 +2586,6 @@
       "category": "tech",
       "urlToImage": "https://i.insider.com/6925ff7b89026fbb4d0e6582?width=1200&format=jpeg",
       "url": "/tech-news/2025-11-29/this-startup-uses-an-ai-copilot-to-help-you-make-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bosses think AI will boost productivity — but it's actually deskilling workers, a professor says",
-      "description": "A philosophy professor warns that AI reliance is weakening workers' judgment, creativity, and problem-solving.",
-      "slug": "bosses-think-ai-will-boost-productivity-but-its-ac",
-      "publishedAt": "2025-11-29T10:43:18+00:00",
-      "date": "2025-11-29 10:43:18",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/69297c44abd5e944effbaa28?width=1200&format=jpeg",
-      "url": "/tech-news/2025-11-29/bosses-think-ai-will-boost-productivity-but-its-ac/",
       "source": {
         "emoji": "📰",
         "id": "business-insider",
@@ -2397,24 +2649,6 @@
       "people": []
     },
     {
-      "title": "BofA Reaffirms Buy on ASML, Citing DRAM Upside and Recovery Potential in China",
-      "description": "ASML Holding N.V. (NASDAQ:ASML) is one of th AI Stocks on the Market’s Radar. On November 26, BofA Securities maintained a Buy rating on the stock with a...",
-      "slug": "bofa-reaffirms-buy-on-asml-citing-dram-upside-and-",
-      "publishedAt": "2025-11-29T10:26:24+00:00",
-      "date": "2025-11-29 10:26:24",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/L1F8qPKJS0LUna9V96Xqbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4284070a120ce384fe7953b04fa4461b",
-      "url": "/tech-news/2025-11-29/bofa-reaffirms-buy-on-asml-citing-dram-upside-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The AI bubble debate is slowly making its way to Washington",
       "description": "Rep. Alexandria Ocasio-Cortez is warning about an AI bubble. Lots of other lawmakers aren't sure if they see one yet.",
       "slug": "the-ai-bubble-debate-is-slowly-making-its-way-to-w",
@@ -2428,24 +2662,6 @@
         "emoji": "📰",
         "id": "business-insider",
         "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Astronaut Chris Williams, Two Cosmonauts Arrive At ISS",
-      "description": "Station Crew Expands To 10 For Next Two Weeks NASA astronaut Chris Williams, along with Roscosmos cosmonauts Sergei Kud-Sverchkov and Sergei Mikaev, arrived safely at the International Space Station on Thursday November 27. During the next two weeks the stati…",
-      "slug": "astronaut-chris-williams-two-cosmonauts-arrive-at-",
-      "publishedAt": "2025-11-29T10:05:00+00:00",
-      "date": "2025-11-29 10:05:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/astronaut-chris-williams-two-cosmonauts-arrive-at/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Aero-news.net"
       },
       "companies": [],
       "people": []
@@ -2518,24 +2734,6 @@
         "emoji": "📰",
         "id": "fortune",
         "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chinese AI giants bypass US chip curbs with Southeast Asian compute hubs",
-      "description": "China's top technology companies are shifting their LLM training to overseas data centers as Washington tightens controls on advanced AI chips and Beijing orders domestic firms to stop using foreign hardware for model development.",
-      "slug": "chinese-ai-giants-bypass-us-chip-curbs-with-southe",
-      "publishedAt": "2025-11-29T09:20:19+00:00",
-      "date": "2025-11-29 09:20:19",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251128pd220_files/2_b.jpg",
-      "url": "/tech-news/2025-11-29/chinese-ai-giants-bypass-us-chip-curbs-with-southe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
       },
       "companies": [],
       "people": []
@@ -2685,24 +2883,6 @@
       "people": []
     },
     {
-      "title": "ChatGPT is 3 and Google just crashed the party",
-      "description": "Three years after losing ground to ChatGPT, Google has roared back with Gemini 3, soaring chip demand and a trillion-dollar valuation surge — challenging the notion that OpenAI still dominates the AI future.",
-      "slug": "chatgpt-is-3-and-google-just-crashed-the-party",
-      "publishedAt": "2025-11-29T08:05:16+00:00",
-      "date": "2025-11-29 08:05:16",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125653911,width-1200,height-630,imgsize-30632,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-11-29/chatgpt-is-3-and-google-just-crashed-the-party/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "HydroGNSS: UK leads ESA’s first ‘Scout’ climate mission into orbit",
       "description": "The UK has taken a major step forward in space-based climate science with the successful launch of HydroGNSS, a new pair of satellites that will monitor the planet’s water cycle from space.",
       "slug": "hydrognss-uk-leads-esas-first-scout-climate-missio",
@@ -2829,42 +3009,6 @@
       "people": []
     },
     {
-      "title": "CHANAKYA DEFENCE DIALOGUE 2025 CONCLUDES",
-      "description": "Chanakya Defence Dialogue conducted by Indian Army in collaboration with the Centre for Land Warfare Studies concluded today",
-      "slug": "chanakya-defence-dialogue-2025-concludes",
-      "publishedAt": "2025-11-29T06:34:01+00:00",
-      "date": "2025-11-29 06:34:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/chanakya-defence-dialogue-2025-concludes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ChatGPT effect: In three years AI chatbot has changed way people look things up",
-      "description": "ChatGPT has become the first stop for quick explanations, shifting users away from Google’s link-heavy results. Surveys show that this use isn't just curiosity - it reflects a real change in behaviour. A 2025 Pew Research Centre study found that 34% of US adu…",
-      "slug": "chatgpt-effect-in-three-years-ai-chatbot-has-chang",
-      "publishedAt": "2025-11-29T06:28:36+00:00",
-      "date": "2025-11-29 06:28:36",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41718,resizemode-75,msid-125652501/tech/artificial-intelligence/chatgpt-effect-in-three-years-ai-chatbot-has-changed-way-people-look-things-up.jpg",
-      "url": "/tech-news/2025-11-29/chatgpt-effect-in-three-years-ai-chatbot-has-chang/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Oyo college debunks viral picture, says campus not under siege",
       "description": "Oyo State College of Agriculture and Technology (OYSCATECH) refutes a viral picture showing militants on campus, confirming it’s a false AI-generated image\n\nRead More: https://punchng.com/oyo-college-debunks-viral-picture-says-campus-not-under-siege/",
       "slug": "oyo-college-debunks-viral-picture-says-campus-not-",
@@ -2950,24 +3094,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Semafor.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Binance, Polymarket lead as VCs deploy $25bn into crypto companies",
-      "description": "Investor focus shifts to more regulatory-compliant products. Fundraising in 2025 has already blown past analysts expectations.",
-      "slug": "binance-polymarket-lead-as-vcs-deploy-25bn-into-cr",
-      "publishedAt": "2025-11-29T05:43:00+00:00",
-      "date": "2025-11-29 05:43:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hLkzft.KJZwvJnqf4kL55A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/354d26b68f5f769de75031f4f0d31f6f",
-      "url": "/tech-news/2025-11-29/binance-polymarket-lead-as-vcs-deploy-25bn-into-cr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dlnews.com"
       },
       "companies": [],
       "people": []
@@ -3094,60 +3220,6 @@
         "emoji": "📰",
         "id": null,
         "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Best Black Friday Thunderbolt dock deals 2025: Nov 29",
-      "description": "At-a-glance\r\n\n\n\n\nTop Black Friday Thunderbolt dock picks:\r\n\n\n\n\n<ul>\n<li>Best overall: Ugreen Thunderbolt 4 Dock 8-in-1, $161.48. The best mix of price and features at the moment.</li>\n\n\n\n<li>Best Thunderbolt 4 dock deal: Ugreen Thunderbolt 4 Dock 8-in-1, $161…",
-      "slug": "best-black-friday-thunderbolt-dock-deals-2025-nov-",
-      "publishedAt": "2025-11-29T05:00:00+00:00",
-      "date": "2025-11-29 05:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Belkin-Thunderbolt-4-Hub-Connect-37.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-11-29/best-black-friday-thunderbolt-dock-deals-2025-nov/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Best Black Friday SSD and storage deals 2025: Nov 29",
-      "description": "At a glance\r\n\n\n\n\nTop picks for internal SSD deals\r\n\n\n\n\n<ul>\n<li>Crucial P310, 1TB Gen 4, Steam Deck size – $85 (37% off on Amazon)</li>\n\n\n\n<li>Samsung 990 Pro, 2TB Gen 4 – $170 (26% off on Amazon)</li>\n\n\n\n<li>Crucial T705, 2TB Gen 5 – $160 (47% off on B&H)</l…",
-      "slug": "best-black-friday-ssd-and-storage-deals-2025-nov-2",
-      "publishedAt": "2025-11-29T05:00:00+00:00",
-      "date": "2025-11-29 05:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/SSD-Deals-25.png?w=1024",
-      "url": "/tech-news/2025-11-29/best-black-friday-ssd-and-storage-deals-2025-nov-2/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Best Black Friday Chromebook deals 2025: Nov 29",
-      "description": "At a glance\r\n\n\n\n\nTop Chromebook picks:\r\n\n\n\n\n<ul>\n<li>Refurbished: Acer Chromebook 315, $99. Only 4GB of RAM, but that’s a small compromise.</li>\n\n\n\n<li>Budget: Lenovo IdeaPad 3i, $149.00. Absolutely stellar deal. This is my preferred deal.</li>\n\n\n\n<li>Midrang…",
-      "slug": "best-black-friday-chromebook-deals-2025-nov-29",
-      "publishedAt": "2025-11-29T05:00:00+00:00",
-      "date": "2025-11-29 05:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/Chromebook-deals-pcworld-39.png?w=1024",
-      "url": "/tech-news/2025-11-29/best-black-friday-chromebook-deals-2025-nov-29/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
       },
       "companies": [],
       "people": []
@@ -3387,42 +3459,6 @@
       "people": []
     },
     {
-      "title": "Are OLED TVs finally affordable enough this Black Friday? With prices starting under $550, this is the time to finally get your dream TV",
-      "description": "OLED TVs are highly desirable for a lot of reasons, but is this Black Friday the time to consider one? Here's what you need to know.",
-      "slug": "are-oled-tvs-finally-affordable-enough-this-black-",
-      "publishedAt": "2025-11-29T02:06:23+00:00",
-      "date": "2025-11-29 02:06:23",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4JSSuxfse2sTGSzbnF7Rxc-1600-80.jpg",
-      "url": "/tech-news/2025-11-29/are-oled-tvs-finally-affordable-enough-this-black/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bending Spoons to acquire AOL following $2.8B debt financing [Italian Company Bought AOL]",
-      "description": "Bending Spoons to acquire AOL following $2.8B debt financing Oct 30, 2025 Acquisition positions historic brand for its next phase of growth MILAN--(BUSINESS WIRE)--Technology company Bending Spoons today announced that it has entered into a definitive agreeme…",
-      "slug": "bending-spoons-to-acquire-aol-following-28b-debt-f",
-      "publishedAt": "2025-11-29T02:04:14+00:00",
-      "date": "2025-11-29 02:04:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/bending-spoons-to-acquire-aol-following-28b-debt-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Top tech and startup stories this week",
       "description": "Welcome to a new edition of ETtech Unwrapped — our weekend newsletter packed with the most important stories this week. Let's take a look.",
       "slug": "top-tech-and-startup-stories-this-week",
@@ -3454,24 +3490,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bigger than COVID? The graph that explains why AI is going to be so huge",
-      "description": "Artificial intelligence is getting very good, very fast. Whether it's music, text, code or imagery, the time when it was reliably possible to tell the difference between AI and human outputs is disappearing at an alarming rate.",
-      "slug": "bigger-than-covid-the-graph-that-explains-why-ai-i",
-      "publishedAt": "2025-11-29T01:24:00+00:00",
-      "date": "2025-11-29 01:24:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://e3.365dm.com/25/11/1600x900/skynews-manthorpe-ai_7095050.png?20251129030236",
-      "url": "/tech-news/2025-11-29/bigger-than-covid-the-graph-that-explains-why-ai-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sky.com"
       },
       "companies": [],
       "people": []
@@ -3580,24 +3598,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "China’s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
-      "description": "The Solactive China Humanoid Robotics Index surged nearly 60% this year to an October high, thanks to an earlier wave of bullish bets driven by supportive...",
-      "slug": "chinas-robotics-stocks-face-investor-scrutiny-over",
-      "publishedAt": "2025-11-29T00:00:00+00:00",
-      "date": "2025-11-29 00:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/94d2f0191374f95d6ea821d08f33aed6",
-      "url": "/tech-news/2025-11-29/chinas-robotics-stocks-face-investor-scrutiny-over/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
       },
       "companies": [],
       "people": []

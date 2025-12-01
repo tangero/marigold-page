@@ -1,29 +1,31 @@
 ---
 author: Marisa Aigen
 category: tech
-date: '2025-11-29 19:06:21'
-description: The report notes that it has some limitations, but says "policymakers
-  cannot wait" to act on its findings.
+date: '2025-11-29 22:53:55'
+description: Last week, Massachusetts Institute of Technology (MIT) published a study
+  claiming that AI is already capable of replacing 11.7% of existing U.S. labor. It’s
+  certainly the kind of eye-popping study guaranteed to get a lot of eyes on researchers’
+  work at a time…
 importance: 3
 layout: tech_news_article
 original_title: MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing
   AI
-publishedAt: '2025-11-29T19:06:21+00:00'
+publishedAt: '2025-11-29T22:53:55+00:00'
 slug: mit-report-claims-117-of-us-labor-can-be-replaced-
 source:
   emoji: 📰
   id: null
-  name: Gizmodo.com
+  name: Biztoc.com
 title: MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI
-url: https://gizmodo.com/replacement-study-mit-2000692601
-urlToImage: https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg
-urlToImageBackup: https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg
+url: https://biztoc.com/x/85f1f69d258621c4
+urlToImage: https://biztoc.com/cdn/85f1f69d258621c4_s.webp
+urlToImageBackup: https://biztoc.com/cdn/85f1f69d258621c4_s.webp
 ---
 
-The report notes that it has some limitations, but says "policymakers cannot wait" to act on its findings.
+Last week, Massachusetts Institute of Technology (MIT) published a study claiming that AI is already capable of replacing 11.7% of existing U.S. labor. It’s certainly the kind of eye-popping study guaranteed to get a lot of eyes on researchers’ work at a time…
 
 ---
 
-[Číst původní článek](https://gizmodo.com/replacement-study-mit-2000692601)
+[Číst původní článek](https://biztoc.com/x/85f1f69d258621c4)
 
-**Zdroj:** 📰 Gizmodo.com
+**Zdroj:** 📰 Biztoc.com
