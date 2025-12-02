@@ -23,7 +23,7 @@ Před technologicky dávnou dobou jsem napsal článek o tom, k čemu lze použ�
 
 Dobrým vodítkem jsou nám testy, já budu nyní vycházet z [V2 WeirdML](https://htihle.github.io/weirdml.html) a čerstvě uniklých benchmarků matematických olympiád. Tyto testy totiž netestují jen "znalost Pythonu", ale simuluje reálnou práci ML inženýra či matematika. A právě v momentě, kdy jsem dopisoval tento text, se objevila nová data, která situaci dramaticky mění.
 
-> **Proč se zajímat o cenu modelu, když platíte paušál?** Protože on to tak docela paušál není. U LLM buďto platíte za počty zpracovaných tokenů (při přístupu přes API, tedy zejména programátoři) nebo dosstanete v rámci paušálu jen určitý počet odpovědí za den, týden atd. Dražší modely pochopitelně dávají méně odpovědí. Pro jednu konverzaci za den to bývá jedno, ale při rutinním užívání narazíte snadno na limity svých tarifů a o ceně modelu se vyplatí přemýšlet. 
+> **Proč se zajímat o cenu modelu, když platíte paušál?** Protože on to tak docela paušál není. U LLM buďto platíte za počty zpracovaných tokenů (při přístupu přes API, tedy zejména programátoři) nebo dostanete v rámci paušálu jen určitý počet odpovědí za den, týden atd. Dražší modely pochopitelně dávají méně odpovědí v průběhu jednoho dne či týdne. Pro jednu konverzaci za den to bývá jedno, ale při rutinním užívání narazíte snadno na limity svých tarifů a o ceně modelu se vyplatí přemýšlet. 
 
 **A o čem bude řeč?**
 
