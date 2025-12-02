@@ -1,14 +1,13 @@
 ---
 author: Marisa Aigen
-category: ai nákupy
+category: ai nakupování
 companies:
 - Amazon
 - Google
 date: '2025-12-01 04:00:45'
-description: Ačkoli nákupy poháněné AI jsou v rané fázi, nákupní asistenti a agenti
-  od Walmartu, Amazonu a Google překonávají chatboti z minulých svátků. Nejnovější
-  verze poskytují personalizovaná doporučení produktů, sledují ceny a umožňují objednávání
-  přes volné konverzace s uživateli.
+description: Ačkoli nákupy poháněné umělou inteligencí jsou v rané fázi, nákupní asistenti
+  a agenti od Walmartu, Amazonu a Google překonávají starší chatboti. Nabízejí personalizovaná
+  doporučení produktů, sledování cen a objednávání přes volné konverzace s uživateli.
 importance: 3
 layout: tech_news_article
 original_title: AI-assisted shopping is the talk of the holiday shopping season
@@ -18,32 +17,33 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: Nákupy s asistencí umělé inteligence patří k hlavním tématům sváteční nákupní
-  sezóny
+title: Nákupování s asistencí AI je horkým tématem svátkové nákupní sezóny
 url: https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season/articleshow/125684752.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-83230,resizemode-75,msid-125684752/tech/artificial-intelligence/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-83230,resizemode-75,msid-125684752/tech/artificial-intelligence/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season.jpg
 ---
 
 ## Souhrn
-Velké maloobchodní řetězce jako Walmart, Amazon a Google zavádějí aktualizované nástroje na bázi umělé inteligence pro usnadnění nákupů během svátkové sezóny. Tyto AI asistenti nabízejí personalizovaná doporučení produktů, sledování cenových změn a dokonce autonomní objednávání prostřednictvím přirozených konverzací. Mezi nejvíce diskutovanými patří Googleův AI agent, který volá do místních obchodů, aby ověřil dostupnost zboží.
+Velké maloobchodní řetězce jako Walmart, Amazon a Google zavádějí aktualizované AI nástroje pro svátkové nákupy, které usnadňují výběr dárků a zvyšují podíl online prodejů. Tyto asistenti poskytují personalizovaná doporučení, sledují ceny a umožňují objednávání prostřednictvím přirozených konverzací. Podle odhadu společnosti Salesforce ovlivní AI letos 73 miliard dolarů, tedy 22 procent globálních svátkových prodejů.
 
 ## Klíčové body
-- Amazonův Rufus: generativní AI asistent pro personalizovaná doporučení a objednávání na základě konverzace.
-- Google AI agent: autonomní volání do obchodů pro kontrolu skladových zásob.
-- Odhad Salesforce: AI ovlivní 73 miliard dolarů globálních prodejů v období od úterý před Dnem díkůvzdání do pondělí po svátcích, což je nárůst z 60 miliard minulý rok.
-- Rozšíření funkcí ChatGPT a Google Gemini pro nákupní rady.
-- Zaměření na snadnější výběr dárků a zvýšení podílu online prodejů.
+- Amazon Rufus: generativní AI asistent pro personalizovaná doporučení produktů a objednávání na základě konverzace.
+- Google AI agent: nově zaváděný nástroj, který dokáže volat do místních obchodů a ověřit dostupnost zboží.
+- Funkce: sledování cen, personalizovaná doporučení a autonomní objednávání.
+- Odhad Salesforce: vliv AI na 73 miliard dolarů prodejů od úterý před Děkujícím dnem do pondělí po svátcích, oproti 60 miliardám loni.
+- Omezení: dopad letos zůstane relativně malý, protože ne všechny e-shopy tyto nástroje integrují.
 
 ## Podrobnosti
-Velké firmy v maloobchodu a technologickém sektoru reagují na rostoucí poptávku po personalizovaných nákupních zkušenostech zaváděním pokročilých AI nástrojů. Amazon spustil Rufus, generativní AI asistenta, který analyzuje chování uživatele na platformě a navrhuje produkty na základě volných dotazů, jako je „Najdi dárky pro dítě, které miluje sci-fi“. Rufus nejen doporučuje, ale také sleduje ceny a může přímo zahájit objednávku, což překonává omezené skriptované chatboti z předchozích let. Walmart naopak integruje podobné funkce do své aplikace, kde AI porovnává ceny napříč obchody a upozorňuje na slevy.
+Článek popisuje, jak se majoritní maloobchodníci připravují na svátkovou sezónu zaváděním pokročilých AI nástrojů, které překonávají jednoduché chatboti z předchozích let. Amazon spustil Rufus, generativní AI asistenta založeného na velkých jazykových modelech, který analyzuje požadavky uživatele v reálném čase a navrhuje produkty na základě kontextu, jako je typ dárku nebo rozpočet. Rufus je integrován přímo do mobilní aplikace Amazonu a umožňuje nejen doporučení, ale i sledování kolísání cen a dokončení objednávek bez nutnosti procházet menu.
 
-Google tento měsíc představil AI agenta, který na příkaz uživatele volá do místních prodejen a ptá se na dostupnost konkrétního produktu, například hračky nebo elektroniky. Tento agent funguje jako rozšíření Google Gemini a umožňuje kombinaci online vyhledávání s offline ověřením. Salesforce, softwarová společnost specializující se na CRM systémy pro maloobchod, odhaduje, že AI ovlivní 22 procent globálních prodejů v klíčovém týdnu kolem Dne díkůvzdání – celkem 73 miliard dolarů. Tento údaj zahrnuje vše od jednoduchých dotazů v ChatGPT po integrované doporučení na webech maloobchodníků.
+Google tento měsíc představil AI agenta, který jde ještě dál: na příkaz uživatele zavolá do lokálních fyzických obchodů a zeptá se na skladovou dostupnost konkrétního produktu. Tento nástroj funguje v rámci Google Gemini a rozšiřuje možnosti hlasového vyhledávání o reálné interakce se světem mimo digitální prostor. Walmart a další řetězce aktualizují své chatboti podobnými funkcemi, včetně personalizovaných seznamů dárků generovaných na základě minulých nákupů.
 
-Přesto tyto systémy zůstávají v rané fázi: ne každá nákupní platforma je má implementovanou a autonomní objednávání je omezeno na jednoduché případy. AI agenti jako Rufus nebo Googleův volající agent spoléhají na velké jazykové modely (LLM), které generují odpovědi z trénovacích dat, ale mohou trpět chybami v interpretaci složitých požadavků nebo biasem v doporučeních založených na prodejích.
+Tyto inovace navazují na širší updaty AI platforem, jako jsou OpenAI ChatGPT a Google Gemini, které nyní podporují shoppingové dotazy s integrací dat z e-shopů. Salesforce, softwarová firma specializující se na CRM systémy pro maloobchod, odhaduje vliv na 73 miliard dolarů v období od Black Friday po Cyber Monday. Tato čísla zahrnují vše od jednoduchých dotazů v ChatGPT po AI-generovaná doporučení na webech maloobchodníků. Nicméně dopad zůstane omezený, protože ne každá platforma má tyto funkce plně nasazeny a uživatelé stále upřednostňují tradiční vyhledávání.
+
+Jako expert na AI vidím zde pokrok v konverzačních agentech, ale stále jde o skriptované interakce s omezenou autonomií. Rufus a podobné nástroje využívají fine-tuning velkých jazykových modelů na retailových datech, což zlepšuje relevanci, ale rizika jako halucinace nebo chybné objednávky přetrvávají.
 
 ## Proč je to důležité
-Tyto vývoje signalizují posun od pasivních chatbotů k aktivním AI agentům v retailu, což může zvýšit konverzní míru o desítky procent díky personalizaci a automatizaci. Pro uživatele znamená méně času stráveného hledáním a lepší přehled o cenách, ale zároveň rizika jako únik osobních dat z konverzací nebo manipulativní doporučení zaměřená na maximalizaci zisku. V širším kontextu posilují dominanci gigantů jako Amazon a Google v e-commerce, kde AI integrace může urychlit konsolidaci trhu. Dlouhodobě to otevírá cestu pro plně autonomní nákupy, ale vyžaduje lepší regulace soukromí a transparentnosti algoritmů, aby se zabránilo zneužití.
+Tyto nástroje signalizují posun k agentickým AI systémům, které nejen odpovídají, ale aktivně jednají – od volání do obchodů po autonomní nákupy. Pro uživatele znamená to rychlejší a personalizovanější zkušenost, zejména při hledání dárků, kde tradiční vyhledávače selhávají. Pro průmysl to posiluje konkurenci mezi Big Tech firmami v e-commerce, kde Amazon a Google bojují o data uživatelů. V širším kontextu to urychluje adopci AI v retailu, což může vést k 20–30procentnímu nárůstu konverzí, ale zároveň zvyšuje potřebu regulací ochrany dat a transparentnosti algoritmů. Letosní omezený dopad naznačuje, že plný potenciál se projeví až za 1–2 roky s lepší integrací.
 
 ---
 

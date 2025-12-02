@@ -1,15 +1,630 @@
 {
-  "generated": "2025-12-02T06:17:58.368616+00:00",
+  "generated": "2025-12-02T10:26:35.014763+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Podcast Nikhila Kamatha s Elonem Muskem: Nejbohatší muž světa předpovídá velkou změnu v práci a AI, tvrdí, že práce a peníze brzy ztratí význam",
-      "description": "Elon Musk v podcastu s Nikhilem Kamathem předpověděl, že díky rychlému pokroku v umělé inteligenci a robotice se práce stane volitelnou jako koníček do 10–20 let. Dodal, že i peníze mohou v budoucnosti ztratit relevanci.",
+      "title": "Používejte Google Antigravity pro rychlejší plánování, tvorbu a testování: Nástroje pro týmy a více projektů",
+      "description": "Platforma Google Antigravity kombinuje automatizaci, spolupráci a kreativitu pro webový vývoj a řízení projektů. Umožňuje developérům a týmům efektivněji zpracovávat design, koordinaci úkolů a výzkum díky AI nástrojům jako Nano Banana nebo Agents Manager.",
+      "slug": "use-google-antigravity-to-plan-build-test-faster-t",
+      "publishedAt": "2025-12-01T08:13:01+00:00",
+      "date": "2025-12-01 08:13:01",
+      "importance": 3,
+      "category": "webový vývoj",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/anti-gravity-site-testing-recordings_optimized.jpg",
+      "url": "/tech-news/2025-12-01/use-google-antigravity-to-plan-build-test-faster-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bude váš další chirurg robot?",
+      "description": "Soutěšení generativní AI a chirurgické robotiky pravděpodobně zásadně změní způsob provádění operací a převráti tradiční lékařskou hierarchii.",
+      "slug": "will-your-next-surgeon-be-a-robot",
+      "publishedAt": "2025-12-01T08:00:00+00:00",
+      "date": "2025-12-01 08:00:00",
+      "importance": 3,
+      "category": "robotická chirurgie",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/692c9d8d32b0b1928582d050/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-12-01/will-your-next-surgeon-be-a-robot/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Deset let starý nápad na chlazení se vrací, protože AI servery přehřívají",
+      "description": "Rostoucí spotřeba energie v AI akcelerátorech nutí výrobce čipů hledat nová tepelná řešení. Firma Jentech Precision vyvinula technologii Microchannel Lid před deseti lety, ale teprve nyní získává zájem díky přehřívajícím se AI serverům.",
+      "slug": "a-decade-old-cooling-idea-returns-as-ai-servers-ov",
+      "publishedAt": "2025-12-01T07:53:13+00:00",
+      "date": "2025-12-01 07:53:13",
+      "importance": 3,
+      "category": "chlazení ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251201pd216_files/2_b.jpg",
+      "url": "/tech-news/2025-12-01/a-decade-old-cooling-idea-returns-as-ai-servers-ov/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Jentech Precision"
+      ],
+      "people": []
+    },
+    {
+      "title": "Expedia Guess The Guest: Rozhovor o pohostinství, teorii mrtvého internetu, umělé inteligenci a lidské stupiditě",
+      "description": "Minulý týden jsem navštívil římské kanceláře Expedia Group a seděl naproti Elisé Ragno v pořadu Guess the Guest. Plán byl jednoduchý: diskutovat o umělé inteligenci a pohostinství, ale rozhovor se ubral směrem k propojení cestování, technologie a lidské komplexnosti.",
+      "slug": "expedia-guess-the-guest-a-conversation-on-hospital",
+      "publishedAt": "2025-12-01T07:42:00+00:00",
+      "date": "2025-12-01 07:42:00",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.hospitalitynet.org/picture/social_153192029.jpg?t=1764574346",
+      "url": "/tech-news/2025-12-01/expedia-guess-the-guest-a-conversation-on-hospital/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hospitality Net"
+      },
+      "companies": [
+        "Expedia Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung spolupracuje s Turkish Airlines na zlepšení cestovního zážitku",
+      "description": "Samsung Electronics navázal partnerství s Turkish Airlines, aby vylepšil sledování zavazadel prostřednictvím služby SmartThings Find. Dne 1. prosince spustili službu „Smart Tagged Baggage Service“, která umožňuje cestujícím rychle lokalizovat ztracené nebo zpožděné zavazadlo pomocí Galaxy SmartTag2.",
+      "slug": "samsung-partners-with-turkish-airlines-to-elevate-",
+      "publishedAt": "2025-12-01T07:36:49+00:00",
+      "date": "2025-12-01 07:36:49",
+      "importance": 3,
+      "category": "internet věcí",
+      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/12/28150633/Samsung-Corporate-Technology-Turkish-Airlies-Galaxy-SmartTag2-SmartThings-Find_Thumb932.jpg",
+      "url": "/tech-news/2025-12-01/samsung-partners-with-turkish-airlines-to-elevate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Samsung.com"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejlepších 5 momentů Elona Muska v podcastu WTF Nikhila Kamatha: 'Zlá' AI, investice a uznání Indů v USA",
+      "description": "Elon Musk vedl dvouhodinový rozhovor v podcastu WTF s Nikhilem Kamathem, zakladatelem brokera Zerodha. Mezi klíčovými tématy byly investiční strategie, budoucnost AI a robotiky a pochvala přispění Indů v USA.",
+      "slug": "elon-musks-top-5-moments-on-nikhil-kamaths-wtf-pod",
+      "publishedAt": "2025-12-01T07:34:23+00:00",
+      "date": "2025-12-01 07:34:23",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/01/1600x900/logo/musk_1764527105789_1764527112045_1764574427403.jpg",
+      "url": "/tech-news/2025-12-01/elon-musks-top-5-moments-on-nikhil-kamaths-wtf-pod/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Nikhil Kamath"
+      ]
+    },
+    {
+      "title": "Prozkoumání zkreslení Groka vůči Muskovi: Kdo formuje pravdu v AI?",
+      "description": "Grok, AI chatbot vyvinutý pod vedením Elona Muska, vykazuje zjevnou příznivost vůči svému tvůrci, když tvrdí, že Musk překonává LeBrona Jamese v atletice nebo Ježíše Krista v časech vzkříšení. Tyto odpovědi vyvolávají otázky o vlivu tvůrce na chování AI a důvěryhodnosti jejích výstupů.",
+      "slug": "groks-bias-to-musk-explored-who-shapes-the-truth-i",
+      "publishedAt": "2025-12-01T07:11:56+00:00",
+      "date": "2025-12-01 07:11:56",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/grok-biased-responses-examples_optimized.jpg",
+      "url": "/tech-news/2025-12-01/groks-bias-to-musk-explored-who-shapes-the-truth-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Bitget zařazuje Rayls (RLS) pro spot obchodování",
+      "description": "Kryptoměnová burza Bitget přidává token Rayls (RLS) do své sekce Innovation and Public Chain pro okamžité obchodování párem RLS/USDT. Obchodování startuje 1. prosince 2025 v 12:00 UTC, výběry od 2. prosince v 13:00 UTC, s podporou bezpoplatkových konverzí přes Bitget Convert.",
+      "slug": "bitget-lists-rayls-rls-for-spot-trading",
+      "publishedAt": "2025-12-01T07:02:00+00:00",
+      "date": "2025-12-01 07:02:00",
+      "importance": 3,
+      "category": "kryptoměny",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
+      "url": "/tech-news/2025-12-01/bitget-lists-rayls-rls-for-spot-trading/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Bitget"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bude volatilita poháněná AI nadále ovlivňovat sentiment na americkém trhu tento týden?",
+      "description": "Investoři budou pečlivě sledovat signály o ziskovosti podniků v oblasti umělé inteligence a indikátory síly širší ekonomiky. Tyto faktory hrají klíčovou roli při stabilizaci amerického akciového trhu, který prožil výraznou volatilitu.",
+      "slug": "will-ai-driven-volatility-continue-to-shape-us-mar",
+      "publishedAt": "2025-12-01T06:53:51+00:00",
+      "date": "2025-12-01 06:53:51",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125688154,width-1070,height-580,overlay-etmarkets/slideshow.jpg",
+      "url": "/tech-news/2025-12-01/will-ai-driven-volatility-continue-to-shape-us-mar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Economictimes.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uvedení Maruti Suzuki e Vitara v Indii: Od očekávané ceny po vybavení, pět klíčových věcí, které byste měli vědět",
+      "description": "Dlouho očekávané elektrické SUV Maruti Suzuki e Vitara vyjde na indický trh 2. prosince 2025 s cenami od 17 do 25 milionů rupií. Model nabízí dvě varianty baterií o kapacitě 49 kWh a 61 kWh s dojezdem až 500 km a podporuje rychlé nabíjení AC i DC.",
+      "slug": "maruti-suzuki-e-vitara-india-launch-from-expected-",
+      "publishedAt": "2025-12-01T06:51:59+00:00",
+      "date": "2025-12-01 06:51:59",
+      "importance": 3,
+      "category": "elektromobilita",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125687835,width-1200,height-630,imgsize-48120,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-01/maruti-suzuki-e-vitara-india-launch-from-expected/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rozhovor: Mariano Albera, technický ředitel Checkout.com",
+      "description": "Technický ředitel Checkout.com strávil většinu kariéry v elektronickém obchode a nyní aplikuje tyto zkušenosti ve finančním sektoru, který tento obor podporuje.",
+      "slug": "interview-mariano-albera-cto-checkoutcom",
+      "publishedAt": "2025-12-01T06:45:00+00:00",
+      "date": "2025-12-01 06:45:00",
+      "importance": 3,
+      "category": "fintech",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/online-shopping-retail-laptop-adobe.jpeg",
+      "url": "/tech-news/2025-12-01/interview-mariano-albera-cto-checkoutcom/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Checkout.com"
+      ],
+      "people": [
+        "Mariano Albera"
+      ]
+    },
+    {
+      "title": "Zaměstnanci Amazonu varují v otevřeném dopise CEO Andymu Jassymu před škodami AI expanze pro pracovníky a planetu",
+      "description": "Více než tisíc zaměstnanců Amazonu podepsalo dopis CEO Andymu Jassymu, ve kterém upozorňují, že rychlá expanze AI poškozuje klima i pracovní podmínky. Kritizují obrovské investice do datových center, opuštěné ekologické závazky a rostoucí vnitřní tlak.",
+      "slug": "amazon-staff-warn-ai-push-is-harming-workforce-and",
+      "publishedAt": "2025-12-01T06:43:33+00:00",
+      "date": "2025-12-01 06:43:33",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42910,resizemode-75,msid-125686793/tech/artificial-intelligence/amazon-staff-warn-ai-push-is-harming-workforce-and-planet-in-open-letter-to-ceo-andy-jassy.jpg",
+      "url": "/tech-news/2025-12-01/amazon-staff-warn-ai-push-is-harming-workforce-and/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": [
+        "Andy Jassy"
+      ]
+    },
+    {
+      "title": "Skutečná debata o umělé inteligenci nejde o technologii. Jde o volby, které uděláme",
+      "description": "Zpráva o lidském rozvoji 2025 odmítá fatalismus a tvrdí, že budoucnost AI závisí na tom, co společnosti rozhodnou oceňovat, nikoli na pracovních místech, které by mohla nahradit. Doporučuje budovat doplňkovou ekonomiku, kde lidé a AI spolupracují místo soutěže.",
+      "slug": "real-ai-debate-isnt-about-technology-its-about-the",
+      "publishedAt": "2025-12-01T06:39:03+00:00",
+      "date": "2025-12-01 06:39:03",
+      "importance": 3,
+      "category": "ai etika",
+      "urlToImage": "https://images.indianexpress.com/2025/10/OnePlus-8_20251022192000.jpg",
+      "url": "/tech-news/2025-12-01/real-ai-debate-isnt-about-technology-its-about-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Realita full-stack vývoje: Může Java konkurovat slibu univerzálního jazyka JavaScriptu?",
+      "description": "Boje o nadvládu v full-stack vývoji probíhají již léta. Na jedné straně stojí Java s dlouholetou dominancí na backendu, na druhé JavaScript, který slibuje jeden jazyk pro celý aplikační stack.",
+      "slug": "full-stack-reality-can-java-compete-with-javascrip",
+      "publishedAt": "2025-12-01T06:27:00+00:00",
+      "date": "2025-12-01 06:27:00",
+      "importance": 3,
+      "category": "programovací jazyky",
+      "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2014/01/javascript-logo.jpg",
+      "url": "/tech-news/2025-12-01/full-stack-reality-can-java-compete-with-javascrip/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Javacodegeeks.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Startup pro vesmírné zemědělství chce snížit uhlík na Zemi",
+      "description": "Dva bratři inspirovaní mangou 'Space Brothers' rozvíjejí v japonské společnosti Toeing technologie pro zemědělství ve vesmíru a zároveň urychlují regeneraci půdy na Zemi, s viditelnými zlepšeními již za měsíc. Jejich práce podporuje budoucí osídlení vesmíru a přispívá k oduhlíkování na Zemi.",
+      "slug": "space-farming-startup-aims-to-cut-carbon-on-earth",
+      "publishedAt": "2025-12-01T06:20:49+00:00",
+      "date": "2025-12-01 06:20:49",
+      "importance": 3,
+      "category": "vesmírné zemědělství",
+      "urlToImage": "https://i2.ytimg.com/vi/0tvs_GQB9Q0/mqdefault.jpg",
+      "url": "/tech-news/2025-12-01/space-farming-startup-aims-to-cut-carbon-on-earth/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "companies": [
+        "Toeing"
+      ],
+      "people": [
+        "Nishida"
+      ]
+    },
+    {
+      "title": "HSBC uzavírá víceletou spolupráci s francouzským startupem Mistral AI pro nasazení generativní AI",
+      "description": "HSBC uzavřel víceletou dohodu s francouzským startupem Mistral AI na integraci nástrojů generativní AI do bankovních operací. Partnerství má urychlit analýzu, překlad, kontroly rizik a personalizovanou komunikaci se klienty, přičemž banka očekává výrazné úspory času.",
+      "slug": "hsbc-taps-french-start-up-mistral-to-supercharge-g",
+      "publishedAt": "2025-12-01T06:13:52+00:00",
+      "date": "2025-12-01 06:13:52",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45196,resizemode-75,msid-125687006/tech/artificial-intelligence/hsbc-taps-french-start-up-mistral-to-supercharge-generative-ai-rollout.jpg",
+      "url": "/tech-news/2025-12-01/hsbc-taps-french-start-up-mistral-to-supercharge-g/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Mistral AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "WISeKey, SEALSQ a WISeSat.Space úspěšně vypustily svůj nový satelit na palubě mise SpaceX",
+      "description": "Společnosti WISeKey, SEALSQ a WISeSat.Space oznámily úspěšné vypuštění nejnovějšího satelitu WISeSat na raketě SpaceX Falcon 9 Transporter 16. Tento satelit rozšiřuje jejich konstelaci pro bezpečné satelitní komunikace určené pro IoT aplikace a kybernetickou bezpečnost.",
+      "slug": "wisekey-sealsq-and-wisesatspace-successfully-launc",
+      "publishedAt": "2025-12-01T06:00:00+00:00",
+      "date": "2025-12-01 06:00:00",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
+      "url": "/tech-news/2025-12-01/wisekey-sealsq-and-wisesatspace-successfully-launc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "WISeKey",
+        "SEALSQ",
+        "WISeSat.Space",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "SEALSQ, WISeKey a WISeSat.Space úspěšně vypustily svůj nový satelit na palubě mise SpaceX",
+      "description": "SEALSQ Corp v spolupráci s WISeSat.Space a mateřskou společností WISeKey oznámila úspěšné vypuštění nového satelitu WISeSat na raketě SpaceX Falcon 9 Transporter 16. Tento satelit rozšiřuje konstelaci pro bezpečné IoT služby, kyberbezpečnost a monitorování prostředí s integrací post-kvantových čipů.",
+      "slug": "sealsq-wisekey-and-wisesatspace-successfully-launc",
+      "publishedAt": "2025-12-01T06:00:00+00:00",
+      "date": "2025-12-01 06:00:00",
+      "importance": 3,
+      "category": "kosmonautika",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
+      "url": "/tech-news/2025-12-01/sealsq-wisekey-and-wisesatspace-successfully-launc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "SEALSQ",
+        "WISeKey",
+        "WISeSat.Space",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dokument Soul pro Claude 4.5 Opus",
+      "description": "Interní dokument společnosti Anthropic popisuje principy tréninku modelu Claude s důrazem na bezpečnost, prospěšnost a hluboké porozumění hodnotám. Sdílený na GitHub Gist, odhaluje filozofii firmy v oblasti vývoje velkých jazykových modelů.",
+      "slug": "claude-45-opus-soul-document",
+      "publishedAt": "2025-12-01T05:47:01+00:00",
+      "date": "2025-12-01 05:47:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "url": "/tech-news/2025-12-01/claude-45-opus-soul-document/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Github.com"
+      },
+      "companies": [
+        "GitHub"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indické investice do PE/VC vzrostly v říjnu 2025 na 5,3 miliardy USD",
+      "description": "Indie zaznamenala v říjnu 2025 investice do soukromého vlastního kapitálu a rizikového kapitálu v objemu 5,3 miliardy USD prostřednictvím 102 transakcí, což je 9% meziroční růst. Počet dealů klesl o 30% oproti předchozímu měsíci, což odráží méně, ale větších obchodů.",
+      "slug": "indias-pevc-investments-rose-to-usd-53-billion-in-",
+      "publishedAt": "2025-12-01T05:33:08+00:00",
+      "date": "2025-12-01 05:33:08",
+      "importance": 3,
+      "category": "rizikový kapitál",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125686477,width-1070,height-580,overlay-etmarkets/slideshow.jpg",
+      "url": "/tech-news/2025-12-01/indias-pevc-investments-rose-to-usd-53-billion-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Economictimes.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon, Google, Meta a Microsoft vedou žebříček schválených petič H-1B víz poprvé díky pushi v AI – Klíčové zjištění",
+      "description": "Amazon, Google, Meta a Microsoft, velké technologické firmy a investoři do AI v USA, mají nejvíce schválených petič H-1B víz pro počáteční zaměstnání, ukázala analýza dat USCIS. Je to poprvé, co tyto společnosti obsadily vrcholy žebříčku.",
+      "slug": "amazon-google-meta-microsoft-top-list-of-h-1b-peti",
+      "publishedAt": "2025-12-01T05:29:04+00:00",
+      "date": "2025-12-01 05:29:04",
+      "importance": 3,
+      "category": "h-1b víza",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/01/1600x900/logo/USA-TRUMP-VISA-INDIA-9_1762529540886_1762529555162_1764566797565.JPG",
+      "url": "/tech-news/2025-12-01/amazon-google-meta-microsoft-top-list-of-h-1b-peti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Amazon",
+        "Google",
+        "Meta",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Top konzultační firmy zamrazují startovní platy, protože AI ohrožuje pyramidový model",
+      "description": "Produktivní zisky z technologie vyvolávají debatu o závislosti na velkém počtu juniorních poradců.",
+      "slug": "top-consultancies-freeze-starting-salaries-as-ai-t",
+      "publishedAt": "2025-12-01T05:25:52+00:00",
+      "date": "2025-12-01 05:25:52",
+      "importance": 3,
+      "category": "umělá inteligence",
+      "urlToImage": "https://biztoc.com/cdn/e456a504456c17f9_s.webp",
+      "url": "/tech-news/2025-12-01/top-consultancies-freeze-starting-salaries-as-ai-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Black Forest Labs: roční německý startup vyzývá AI giganty",
+      "description": "Méně známá skupina se rychle stala špičkovým vývojářem technologie generování obrázků z textu.",
+      "slug": "black-forest-labs-one-year-old-german-start-up-cha",
+      "publishedAt": "2025-12-01T05:25:32+00:00",
+      "date": "2025-12-01 05:25:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/5336a6bfc06bf478_s.webp",
+      "url": "/tech-news/2025-12-01/black-forest-labs-one-year-old-german-start-up-cha/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Black Forest Labs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Aplikace SmartTube byla napadena malwarem, zde je, co se stalo",
+      "description": "Používáte SmartTube na Android TV? Aplikace mohla z vaší televize zmizet, protože ji Google Play Protect deaktivoval kvůli podezření na malware. Vývojář potvrdil únik digitální signatury a analýza odhalila skrytou knihovnu sbírající data o zařízení.",
+      "slug": "smarttube-app-was-infected-by-malware-heres-what-h",
+      "publishedAt": "2025-12-01T05:14:45+00:00",
+      "date": "2025-12-01 05:14:45",
+      "importance": 3,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/SmartTube-app-was-infected-by-malware-heres-what-happened.png",
+      "url": "/tech-news/2025-12-01/smarttube-app-was-infected-by-malware-heres-what-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kde stojí Evropa v boji o vzácné zeminy?",
+      "description": "Evropa postupuje příliš pomalu v zajišťování kritických surovin. Nejlepší šance je spolupráce s Japonskem, které aktivně hledá partnery pro udržitelnost svého nově budovaného výrobního řetězce.",
+      "slug": "where-is-europe-in-the-fight-for-rare-earths",
+      "publishedAt": "2025-12-01T05:00:13+00:00",
+      "date": "2025-12-01 05:00:13",
+      "importance": 3,
+      "category": "vzácné zeminy",
+      "urlToImage": "https://www.euractiv.com/content/uploads/sites/2/2025/11/BT21.jpg",
+      "url": "/tech-news/2025-12-01/where-is-europe-in-the-fight-for-rare-earths/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Peter Thiel, umělá inteligence a Antikrist",
+      "description": "Peter Thiel v eseji zkoumá, jak posedlost umělou inteligencí (AI) odráží touhu po osvobození od lidské racionality a odpovědnosti. Článek spojuje technologický pokrok s teologickými motivy, jako je archetyp Antikrista, v kontextu civilizačních změn.",
+      "slug": "peter-thiel-ai-and-the-antichrist",
+      "publishedAt": "2025-12-01T05:00:00+00:00",
+      "date": "2025-12-01 05:00:00",
+      "importance": 3,
+      "category": "ai",
+      "urlToImage": "https://images.americanthinker.com/rx/rxrtu9ybjrp2lauymj9h_800.jpg",
+      "url": "/tech-news/2025-12-01/peter-thiel-ai-and-the-antichrist/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Americanthinker.com"
+      },
+      "companies": [],
+      "people": [
+        "Peter Thiel"
+      ]
+    },
+    {
+      "title": "Splňuje očekávání: Lekce z úspěchů IoT v dodavatelských řetězcích",
+      "description": "Profesor Subodha Kumar z Temple University v podcastu vysvětluje, jak IoT překonalo fázi nadšení a přináší reálné výsledky v dodavatelských řetězcích. Zaměřuje se na výzvy nasazování a roli AI v zvyšování hodnoty IoT.",
+      "slug": "living-up-to-the-hype-lessons-from-iot-supply-chai",
+      "publishedAt": "2025-12-01T05:00:00+00:00",
+      "date": "2025-12-01 05:00:00",
+      "importance": 3,
+      "category": "internet věcí",
+      "urlToImage": "https://www.techtarget.com/ITKE/images/logos/TTlogo-379x201.png",
+      "url": "/tech-news/2025-12-01/living-up-to-the-hype-lessons-from-iot-supply-chai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": [
+        "Subodha Kumar"
+      ]
+    },
+    {
+      "title": "Black Forest Labs získala investici Series B pro rozvoj špičkové vizuální inteligence",
+      "description": "Společnost Black Forest Labs, tvůrce modelu FLUX pro generování obrázků z textu, oznámila investici Series B v hodnotě 300 milionů dolarů vedenou firmami AMP a Salesforce Ventures. Valuace po investici dosáhla 3,25 miliardy dolarů, celkový objem získaných prostředků překročil 450 milionů dolarů.",
+      "slug": "black-forest-labs-announces-series-b-investment-to",
+      "publishedAt": "2025-12-01T05:00:00+00:00",
+      "date": "2025-12-01 05:00:00",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4d7fede3-132b-4b37-8c85-db2decc5f823",
+      "url": "/tech-news/2025-12-01/black-forest-labs-announces-series-b-investment-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Black Forest Labs",
+        "Salesforce Ventures"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výzkum biotechnologické univerzity v Gudžarátu na těžké menstruační krvácení získal finanční podporu od Gatesovy nadace",
+      "description": "Tým Gujarat Biotechnology University pod vedením prof. Rohini Nair obdržel grant od Gatesovy nadace na vývoj dostupných, škálovatelných a minimálně invazivních nástrojů založených na RNA pro diagnostiku a terapii těžkého menstruačního krvácení (HMB). Projekt cílí na včasnou detekci a personalizovanou léčbu pro ženy v chudobních oblastech.",
+      "slug": "gujarat-biotech-varsitys-research-on-heavy-menstru",
+      "publishedAt": "2025-12-01T04:49:15+00:00",
+      "date": "2025-12-01 04:49:15",
+      "importance": 3,
+      "category": "biotechnologie",
+      "urlToImage": "https://images.indianexpress.com/2025/12/Gujarat-biotech.jpg",
+      "url": "/tech-news/2025-12-01/gujarat-biotech-varsitys-research-on-heavy-menstru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nedostatek elektřiny v USA: Připravují se na krizi",
+      "description": "USA čelí nadcházejícímu nedostatku elektřiny v souvislosti s elektrifikací ekonomiky. Politika prezidenta Trumpa podporuje fosilní paliva a kritizuje obnovitelné zdroje, zatímco energetické společnosti oceňují levnou energii z větru.",
+      "slug": "facing-us-electricity-shortfall-crisis-years-unfol",
+      "publishedAt": "2025-12-01T04:43:22+00:00",
+      "date": "2025-12-01 04:43:22",
+      "importance": 3,
+      "category": "energetika",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/692d17c7878a45e34c717df4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-12-01/facing-us-electricity-shortfall-crisis-years-unfol/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk předpovídá, že práce se stane „volitelnou“ jako koníček do 20 let díky rychlým pokrokům v AI",
+      "description": "Podle něj by tento posun mohl přijít „méně než za 20 let, možná dokonce za 10 nebo 15 let“, poháněný výhradně technologií, která převezme téměř všechny formy práce.",
+      "slug": "elon-musk-predicts-working-will-become-optional-li",
+      "publishedAt": "2025-12-01T04:27:30+00:00",
+      "date": "2025-12-01 04:27:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/pvb2mc/article70344013.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Elon_Mus_2_1_V3D7CSJR.jpg",
+      "url": "/tech-news/2025-12-01/elon-musk-predicts-working-will-become-optional-li/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Podcast Nikhila Kamatha s Elonem Muskem: Nejbogatsší muž světa předpovídá, že práce se stane volitelnou jako koníček díky AI",
+      "description": "Elon Musk v podcastu s indickým podnikatelem Nikhilem Kamathem předpověděl, že do 10–20 let se práce stane volitelnou díky rychlým pokrokům v umělé inteligenci a robotice. Dále zmínil, že peníze mohou v budoucnosti ztratit význam, a promluvil o indickém talentu a Starlinku.",
       "slug": "nikhil-kamath-elon-musk-podcast-worlds-richest-man",
       "publishedAt": "2025-12-01T04:06:11+00:00",
       "date": "2025-12-01 04:06:11",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://img.etimg.com/thumb/msid-125684784,width-1200,height-630,imgsize-59200,overlay-economictimes/articleshow.jpg",
       "url": "/tech-news/2025-12-01/nikhil-kamath-elon-musk-podcast-worlds-richest-man/",
       "source": {
@@ -24,13 +639,13 @@
       ]
     },
     {
-      "title": "Nákupy s asistencí umělé inteligence patří k hlavním tématům sváteční nákupní sezóny",
-      "description": "Ačkoli nákupy poháněné AI jsou v rané fázi, nákupní asistenti a agenti od Walmartu, Amazonu a Google překonávají chatboti z minulých svátků. Nejnovější verze poskytují personalizovaná doporučení produktů, sledují ceny a umožňují objednávání přes volné konverzace s uživateli.",
+      "title": "Nákupování s asistencí AI je horkým tématem svátkové nákupní sezóny",
+      "description": "Ačkoli nákupy poháněné umělou inteligencí jsou v rané fázi, nákupní asistenti a agenti od Walmartu, Amazonu a Google překonávají starší chatboti. Nabízejí personalizovaná doporučení produktů, sledování cen a objednávání přes volné konverzace s uživateli.",
       "slug": "ai-assisted-shopping-is-the-talk-of-the-holiday-sh",
       "publishedAt": "2025-12-01T04:00:45+00:00",
       "date": "2025-12-01 04:00:45",
       "importance": 3,
-      "category": "ai nákupy",
+      "category": "ai nakupování",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83230,resizemode-75,msid-125684752/tech/artificial-intelligence/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season.jpg",
       "url": "/tech-news/2025-12-01/ai-assisted-shopping-is-the-talk-of-the-holiday-sh/",
       "source": {
@@ -45,13 +660,13 @@
       "people": []
     },
     {
-      "title": "Rámec pro samoobslužný vývoj software",
-      "description": "Udržování spokojenosti softwarových vývojářů je klíčové pro úspěch IT projektů. Samoobsluha vývojářů představuje efektivní přístup, který však vyžaduje bezpečnostní mechanismy.",
+      "title": "Rámec pro samoobslužný vývoj softwaru",
+      "description": "Zachování spokojenosti vývojářů softwaru je klíčové pro úspěch IT projektů. Samoobslužný přístup pro vývojáře představuje cestu vpřed, ale vyžaduje bezpečnostní zábrany.",
       "slug": "a-framework-for-software-development-self-service",
       "publishedAt": "2025-12-01T04:00:00+00:00",
       "date": "2025-12-01 04:00:00",
       "importance": 3,
-      "category": "vývoj software",
+      "category": "vývoj softwaru",
       "urlToImage": "https://www.computerweekly.com/visuals/German/article/IT-computer-concept-adobe.jpg",
       "url": "/tech-news/2025-12-01/a-framework-for-software-development-self-service/",
       "source": {
@@ -63,8 +678,8 @@
       "people": []
     },
     {
-      "title": "\"USA nesmírně prospěly díky talentovaným Indům\": Elon Musk",
-      "description": "Elon Musk zdůraznil významný přínos indického talentu k americké ekonomice a obhajuje vyváženou imigrační politiku s lepší kontrolou hranic.",
+      "title": "„USA velmi těžily z talentovaných Indů“: Elon Musk",
+      "description": "Elon Musk zdůraznil významný přínos indického talentu k americké ekonomice a volá po vyvážené imigrační politice. V rozhovoru kritizoval nedostatečnou kontrolu hranic za Bidenovy administrativy.",
       "slug": "us-benefited-immensely-from-talented-indians-elon-",
       "publishedAt": "2025-12-01T03:56:22+00:00",
       "date": "2025-12-01 03:56:22",
@@ -83,8 +698,8 @@
       ]
     },
     {
-      "title": "Schválení H-1B víz kleslo dramaticky – Top 7 indických firem získalo jen 4 573 souhlasů v FY25; proč je to důležité",
-      "description": "Pouze tři indické firmy se v FY25 dostaly do top 25 zaměstnavatelů se schválenými H-1B petičemi pro počáteční zaměstnání, ukázala analýza National Foundation for American Policy.",
+      "title": "Schválení víz H-1B kleslo dramaticky – Top 7 indických firem získalo jen 4 573 souhlasů v FY25; proč je to důležité",
+      "description": "Pouze tři indické firmy se v FY25 dostaly mezi 25 největších zaměstnavatelů se schválenými žádostmi o H-1B víza pro počáteční zaměstnání, ukázala analýza National Foundation for American Policy.",
       "slug": "h-1b-visa-approvals-face-massive-drop-top-7-indian",
       "publishedAt": "2025-12-01T03:49:57+00:00",
       "date": "2025-12-01 03:49:57",
@@ -101,8 +716,8 @@
       "people": []
     },
     {
-      "title": "Samsung představuje ultrazvukový systém R20 s lepším výkonem zobrazování a přesností na RSNA 2025",
-      "description": "Společnost Samsung Medison, přidružená firma Samsung Electronics zabývající se medicínskými zařízeními, představí na výročním zasedání Radiologické společnosti Severní Ameriky (RSNA) 2025 v Chicagu ultrazvukový systém R20. Tento systém přináší vylepšení v oblasti obrazového zpracování a přesnosti diagnostiky.",
+      "title": "Samsung představuje ultrazvukový systém R20, který zvyšuje výkon zobrazování a přesnost na RSNA 2025",
+      "description": "Samsung Medison, globální výrobce zdravotnického vybavení a přidružená společnost Samsung Electronics, představí ultrazvukový systém R20 na výročním setkání Radiological Society of North America (RSNA) 2025 v Chicagu. Systém kombinuje pokročilé zobrazování, AI nástroje a ergonomii pro lepší diagnostickou přesnost a efektivitu.",
       "slug": "samsung-introduces-r20-ultrasound-system-elevating",
       "publishedAt": "2025-12-01T03:39:22+00:00",
       "date": "2025-12-01 03:39:22",
@@ -116,14 +731,14 @@
         "name": "Samsung.com"
       },
       "companies": [
-        "Samsung Medison",
-        "Samsung Electronics"
+        "Samsung Electronics",
+        "Samsung Medison"
       ],
       "people": []
     },
     {
-      "title": "Amazon obnovitelných zdrojů pro farmáře: AgriVijay expanduje do Mauritia, SAE a Keni",
-      "description": "Společnost AgriVijay, marketplace pro obnovitelné energie zaměřený na farmáře, plánuje rozšířit své služby do Mauritia, Spojených arabských emirátů a Keni. Mezi novinky patří bifaciální solární panely a aplikace s umělou inteligencí.",
+      "title": "AgriVijay, Amazon obnovitelných energií pro farmáře, expanduje do Mauritia, SAE a Keni",
+      "description": "Startup AgriVijay plánuje rozšířit své služby obnovitelných energií pro farmáře do Mauritia, Spojených arabských emirátů a Keni a zavést inovativní solární řešení, jako jsou bifaciální panely.",
       "slug": "amazon-of-renewables-for-farmers-agrivijay-to-expa",
       "publishedAt": "2025-12-01T03:31:00+00:00",
       "date": "2025-12-01 03:31:00",
@@ -142,13 +757,13 @@
       "people": []
     },
     {
-      "title": "Používání AI k vyhledávání informací může oslabit vaše znalosti, ukázala studie",
-      "description": "Od vydání ChatGPT koncem roku 2022 miliony lidí používají velké jazykové modely k získávání znalostí. Nový výzkum však naznačuje, že tato snadná cesta vede k mělčím znalostem než tradiční vyhledávání na Google.",
+      "title": "Používání AI k hledání informací může oslabit vaše znalosti, ukázala studie",
+      "description": "Nová studie ukazuje, že spoléhání se na velké jazykové modely jako ChatGPT vede k mělčím znalostem než tradiční vyhledávání na Google. Lidé si myslí, že se naučili méně a produkují kratší, méně podrobné rady.",
       "slug": "using-ai-to-find-information-could-diminish-your-k",
       "publishedAt": "2025-12-01T03:18:41+00:00",
       "date": "2025-12-01 03:18:41",
       "importance": 3,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://www.sciencealert.com/images/2025/12/AbstractImageOfBrainInterfacingWithDigitalNetwork.jpg",
       "url": "/tech-news/2025-12-01/using-ai-to-find-information-could-diminish-your-k/",
       "source": {
@@ -160,8 +775,8 @@
       "people": []
     },
     {
-      "title": "GMP IPO Exato Technologies prudce roste při vstupu do druhého dne předplatného; Podrobnosti",
-      "description": "GMP pro SME IPO společnosti Exato Technologies vzrostlo o více než 60 % od 24. listopadu, kdy činilo 80 Rs. Aktuální hodnota 131 Rs naznačuje potenciální zisk při listingu 93,57 %.",
+      "title": "GMP IPO společnosti Exato Technologies prudce roste při vstupu do druhého dne předplatby; podrobnosti",
+      "description": "GMP pro SME IPO společnosti Exato Technologies vzrostlo o více než 60 % od 24. listopadu, kdy činilo 80 rupií. Aktuální hodnota dosáhla 131 rupií, což naznačuje potenciální výnos 93,57 % při prvním obchodování.",
       "slug": "exato-technologies-ipo-gmp-soars-as-subscription-e",
       "publishedAt": "2025-12-01T02:52:02+00:00",
       "date": "2025-12-01 02:52:02",
@@ -181,12 +796,12 @@
     },
     {
       "title": "Lidé opravdu nechtějí Windows 11 na svých počítačích, říká Dell",
-      "description": "Přibližně 500 milionů počítačů může běžet Windows 11, ale uživatelé neupgradují. Dalších 500 milionů je příliš starých, což zastavilo očekávanou výměnu zařízení.",
+      "description": "Adopce Windows 11 výrazně zaostává, přestože stovky milionů počítačů na ni přecházet může. Dell hlásí pokles prodejů oproti předchozí generaci.",
       "slug": "people-really-dont-want-windows-11-on-their-pcs-sa",
       "publishedAt": "2025-12-01T02:46:23+00:00",
       "date": "2025-12-01 02:46:23",
       "importance": 3,
-      "category": "windows 11",
+      "category": "operační systémy",
       "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/windows-is-broken.jpg?w=1600&h=900&fit=crop",
       "url": "/tech-news/2025-12-01/people-really-dont-want-windows-11-on-their-pcs-sa/",
       "source": {
@@ -2469,24 +3084,6 @@
       "people": []
     },
     {
-      "title": "SLC-37 Cape Canaveral Florida Environmental Approval for 76 Starship Launches",
-      "description": "On November 20, 2025, the U.S. Air Force certified the final Environmental Impact Statement (EIS) for up to 76 Starship-Super Heavy launches, landings, and engine tests each year at Space Launch Complex-37. This will be re-developed and provide extra SpaceX o…",
-      "slug": "slc-37-cape-canaveral-florida-environmental-approv",
-      "publishedAt": "2025-11-29T23:26:41+00:00",
-      "date": "2025-11-29 23:26:41",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/canaveralstarship.jpg",
-      "url": "/tech-news/2025-11-29/slc-37-cape-canaveral-florida-environmental-approv/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tim Cook loves the Galaxy S25: Comedic AI clip goes viral",
       "description": "Tim Cook as a Samsung fanboy? A viral clip shows the Apple CEO with a Samsung Galaxy S25 Ultra, mocking \"BugOS\". While a deepfake, the short video is nevertheless generating widespread laughs and amazement at ever-improving AI technology.",
       "slug": "tim-cook-loves-the-galaxy-s25-comedic-ai-clip-goes",
@@ -2505,24 +3102,6 @@
       "people": []
     },
     {
-      "title": "The 7 Chrome Extensions That Elite Professionals Use To Work Twice As Fast",
-      "description": "Elite professionals are ruthless about one thing: time. They shave seconds off every routine because those seconds stack. They know exactly which clicks matter and which ones are just noise. They avoid rewriting the same sentence twice and they never sit arou…",
-      "slug": "the-7-chrome-extensions-that-elite-professionals-u",
-      "publishedAt": "2025-11-29T22:15:00+00:00",
-      "date": "2025-11-29 22:15:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://bitrebels.com/wp-content/uploads/2025/11/chrome-extensions-colorful-productivity-interface-landscape-optimized.png",
-      "url": "/tech-news/2025-11-29/the-7-chrome-extensions-that-elite-professionals-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitrebels.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "This Smart Perch Weighs Birds Without Ever Touching Them",
       "description": "This Smart Perch Weighs Birds Without Ever Touching ThemPicture this: you’re a wildlife rescuer trying to nurse an injured falcon back to health. Every few days, you need to catch the bird, restrain...",
       "slug": "this-smart-perch-weighs-birds-without-ever-touchin",
@@ -2536,60 +3115,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yanko Design"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung's Black Friday Weekend Deals Are Still Cutting Prices on Tablets, Monitors, Phones, and More",
-      "description": "Everybody celebrates Black Friday weekend, and if you've got electronics shopping to do, we've pulled out the best offers on top-rated Samsung products\nThis Black Friday weekend, it can be smart to go brand-by-brand to find the deals that move you. We've spen…",
-      "slug": "samsungs-black-friday-weekend-deals-are-still-cutt",
-      "publishedAt": "2025-11-29T21:14:58+00:00",
-      "date": "2025-11-29 21:14:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/samsungs-b/samsungs-black-friday-weekend-deals-are-still-cutting-prices_vr9n.1200.jpg",
-      "url": "/tech-news/2025-11-29/samsungs-black-friday-weekend-deals-are-still-cutt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Student-led symposium discusses generative AI",
-      "description": "The University of Utah hosted the Inaugural Student-led AI Symposium at the Marriott Library on Friday, Nov. 21. In collaboration with Digital Learning Technologies (DLT), students pioneered the event to provide industry and university professionals insight i…",
-      "slug": "student-led-symposium-discusses-generative-ai",
-      "publishedAt": "2025-11-29T20:57:35+00:00",
-      "date": "2025-11-29 20:57:35",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://dailyutahchronicle.com/wp-content/uploads/2025/11/Panelists-1.jpg",
-      "url": "/tech-news/2025-11-29/student-led-symposium-discusses-generative-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dailyutahchronicle.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Show HN:I built FREE infinite name generator and domain finder for side projects",
-      "description": "Create stunning, professional logos in seconds with Proicon. Our AI-powered logo maker helps businesses of all sizes design memorable brand identities.",
-      "slug": "show-hni-built-free-infinite-name-generator-and-do",
-      "publishedAt": "2025-11-29T20:55:06+00:00",
-      "date": "2025-11-29 20:55:06",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/show-hni-built-free-infinite-name-generator-and-do/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Proicon.ai"
       },
       "companies": [],
       "people": []
@@ -2631,24 +3156,6 @@
       "people": []
     },
     {
-      "title": "Saturday Night Genealogy Fun -- Your Six Word Memoir(s)",
-      "description": "",
-      "slug": "saturday-night-genealogy-fun-your-six-word-memoirs",
-      "publishedAt": "2025-11-29T19:32:00+00:00",
-      "date": "2025-11-29 19:32:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/saturday-night-genealogy-fun-your-six-word-memoirs/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Blogger.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "There is Simply No Decade Like the 2000s For Sci-Fi Movies",
       "description": "Science fiction has long been a genre that has long been an interesting one when it comes to movies. Almost since the very beginning of motion pictures, science fiction has given audiences fascinating and engaging stories, many of which have become culturally…",
       "slug": "there-is-simply-no-decade-like-the-2000s-for-sci-f",
@@ -2662,24 +3169,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ComicBook.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Spider-Man's 10 Best Costumes, Ranked",
-      "description": "From comic classics to bold new redesigns, these are the very best costumes, suits, and armors ever worn by Spider-Man in the Marvel Universe.",
-      "slug": "spider-mans-10-best-costumes-ranked",
-      "publishedAt": "2025-11-29T18:32:51+00:00",
-      "date": "2025-11-29 18:32:51",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/peter-parker-puts-on-his-mask-while-web-swinging-in-the-amazing-spider-man-brand-new-day-comic-cover.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-29/spider-mans-10-best-costumes-ranked/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Screen Rant"
       },
       "companies": [],
       "people": []
@@ -2721,42 +3210,6 @@
       "people": []
     },
     {
-      "title": "Show HN: Web Checker – Browser extension for cycling through website lists",
-      "description": "I built a Chrome extension to help with routine web browsing. If you regularly check the same set of websites (news sites, dashboards, webcomics, etc.), Web Checker lets you organize them into lists and cycle through them systematically.Each day I check throu…",
-      "slug": "show-hn-web-checker-browser-extension-for-cycling-",
-      "publishedAt": "2025-11-29T18:07:20+00:00",
-      "date": "2025-11-29 18:07:20",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://lh3.googleusercontent.com/GsiT0PvFD_-HZOMJzmZQ1f26cVubRvgcJZW8f9brhOxPFJ26dcvEkDuZZd-bJwIM8yetNqRKIkCpyPDhIzHsiKqk2o8=s128-rj-sc0x00ffffff",
-      "url": "/tech-news/2025-11-29/show-hn-web-checker-browser-extension-for-cycling/",
-      "source": {
-        "emoji": "📰",
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Republicans Complain That Cars Have Become Too Safe, Say It Must Be Reversed",
-      "description": "What are they cooking?\nThe post Republicans Complain That Cars Have Become Too Safe, Say It Must Be Reversed appeared first on Futurism.",
-      "slug": "republicans-complain-that-cars-have-become-too-saf",
-      "publishedAt": "2025-11-29T17:45:00+00:00",
-      "date": "2025-11-29 17:45:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/republicans-car-regulation-safety.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-11-29/republicans-complain-that-cars-have-become-too-saf/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Why 4D Printing is the Next Frontier of Human-Centered Change",
       "description": "The Adaptive Product LAST UPDATED: November 29, 2025 at 9:23 AM GUEST POST from Art Inteligencia For centuries, the pinnacle of manufacturing innovation has been the creation of a static, rigid, and perfect form. Additive Manufacturing, or 3D printing, perfec…",
       "slug": "why-4d-printing-is-the-next-frontier-of-human-cent",
@@ -2793,24 +3246,6 @@
       "people": []
     },
     {
-      "title": "Scientists make sense of shapes in the minds of the models",
-      "description": "It was at least since 2021, according to the authors of a preprint from March, that researchers began to see something interesting on the insides of their models.Also known as an AI program, created from a neural network architecture, a model processes a word…",
-      "slug": "scientists-make-sense-of-shapes-in-the-minds-of-th",
-      "publishedAt": "2025-11-29T16:58:01+00:00",
-      "date": "2025-11-29 16:58:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/scientists-make-sense-of-shapes-in-the-minds-of-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Video Friday: Disney’s Robotic Olaf Makes His Debut",
       "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.SOSV Robotics M…",
       "slug": "video-friday-disneys-robotic-olaf-makes-his-debut",
@@ -2829,24 +3264,6 @@
       "people": []
     },
     {
-      "title": "Seal the deal: 81% off this vacuum sealer (Black Friday weekend deal)",
-      "description": "Seal the deal before it's gone!",
-      "slug": "seal-the-deal-81-off-this-vacuum-sealer-black-frid",
-      "publishedAt": "2025-11-29T16:12:46+00:00",
-      "date": "2025-11-29 16:12:46",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/Vacuum-seal.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2025-11-29/seal-the-deal-81-off-this-vacuum-sealer-black-frid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Smart Glasses Deal I Found on Black Friday Is Somehow Even Better Now",
       "description": "I've been testing smart glasses for years, and can't believe Amazon cut $65 off the price of the RayNeo Air 3s Pro. If you've always wanted a personal theater on the go, now's your chance.\nI've been covering AR smart glasses since they started evolving from n…",
       "slug": "the-smart-glasses-deal-i-found-on-black-friday-is-",
@@ -2860,60 +3277,6 @@
         "emoji": "📰",
         "id": null,
         "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tag Heuer Connected Calibre E5 smartwatch is luxury at a price that'll make you wince",
-      "description": "I've loved wearing it, but not for the right tech reasons",
-      "slug": "tag-heuer-connected-calibre-e5-smartwatch-is-luxur",
-      "publishedAt": "2025-11-29T16:00:10+00:00",
-      "date": "2025-11-29 16:00:10",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/tag-heuer-calibre-e5-pocket.JPG?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2025-11-29/tag-heuer-connected-calibre-e5-smartwatch-is-luxur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Police"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tackling M’sia’s talent gap",
-      "description": "Budget 2026 is more than financial planning; it is a national statement that education drives social mobility and competitiveness. Read full story",
-      "slug": "tackling-msias-talent-gap",
-      "publishedAt": "2025-11-29T16:00:00+00:00",
-      "date": "2025-11-29 16:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/30/3647710.jpg",
-      "url": "/tech-news/2025-11-29/tackling-msias-talent-gap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Scientists just teleported information using light",
-      "description": "Quantum communication is edging closer to reality thanks to a breakthrough in teleporting information between photons from different quantum dots—one of the biggest challenges in building a quantum internet. By creating nearly identical semiconductor-based ph…",
-      "slug": "scientists-just-teleported-information-using-light",
-      "publishedAt": "2025-11-29T15:29:45+00:00",
-      "date": "2025-11-29 15:29:45",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/quantum-particle-physics-abstract-light-rays.webp",
-      "url": "/tech-news/2025-11-29/scientists-just-teleported-information-using-light/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Science Daily"
       },
       "companies": [],
       "people": []
@@ -2991,42 +3354,6 @@
       "people": []
     },
     {
-      "title": "Shokz Openfit 2+ $161.81 (White) - $149.81 Paying with PayPal - MR_Global Store @ AliExpress",
-      "description": "Shokz Openfit 2+ in White Same as earlier except the white has now had another price drop! Black has also had price dropped but is $4.98 more than the White. Silver is more expensive in this link …",
-      "slug": "shokz-openfit-2-16181-white-14981-paying-with-payp",
-      "publishedAt": "2025-11-29T14:34:25+00:00",
-      "date": "2025-11-29 14:34:25",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://files.ozbargain.com.au/n/03/937503x.jpg?h=4f70b7f9",
-      "url": "/tech-news/2025-11-29/shokz-openfit-2-16181-white-14981-paying-with-payp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ozbargain.com.au"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "TCL NXTPAPER for under $170? Black Friday's leftovers sale is already blowing my mind!",
-      "description": "This magical phone screen looks like it was painted on, and now it's under $170 even after Black Friday is over.",
-      "slug": "tcl-nxtpaper-for-under-170-black-fridays-leftovers",
-      "publishedAt": "2025-11-29T13:53:42+00:00",
-      "date": "2025-11-29 13:53:42",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/27rahYm6TA2HqjmtdToziA-2560-80.jpg",
-      "url": "/tech-news/2025-11-29/tcl-nxtpaper-for-under-170-black-fridays-leftovers/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Central"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The best camera for beginners 2025: smartphone-beating picks to start your photography journey",
       "description": "Looking for the best camera for beginners in 2025? We've rounded up all of the finest smartphone-beating models here.",
       "slug": "the-best-camera-for-beginners-2025-smartphone-beat",
@@ -3040,24 +3367,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sony reveals new LYTIA 901 mobile image sensor with 200MP",
-      "description": "With a pixel array format that delivers both high resolution and high sensitivity, the new LYTIA 901 sensor achieves high-definition image quality even with high-powered zooming of up to 4x on monocular cameras. The new 200MP sensor from Sony Semiconductor So…",
-      "slug": "sony-reveals-new-lytia-901-mobile-image-sensor-wit",
-      "publishedAt": "2025-11-29T13:33:08+00:00",
-      "date": "2025-11-29 13:33:08",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.provideocoalition.com/wp-content/uploads/sonylytia901_004-1-1024x494.jpg",
-      "url": "/tech-news/2025-11-29/sony-reveals-new-lytia-901-mobile-image-sensor-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Provideocoalition.com"
       },
       "companies": [],
       "people": []
@@ -3099,24 +3408,6 @@
       "people": []
     },
     {
-      "title": "Satellite launch will boost climate monitoring — UK Space Agency",
-      "description": "The UK-led HydroGNSS satellite is now in orbit. This mission uses innovative GNSS reflectometry to monitor Earth’s water cycle and improve climate research\n\nRead More: https://punchng.com/satellite-launch-will-boost-climate-monitoring-uk-space-agency/",
-      "slug": "satellite-launch-will-boost-climate-monitoring-uk-",
-      "publishedAt": "2025-11-29T13:05:43+00:00",
-      "date": "2025-11-29 13:05:43",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "url": "/tech-news/2025-11-29/satellite-launch-will-boost-climate-monitoring-uk/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Device That Gives Me Glass Skin Is 32 Percent Off for Black Friday",
       "description": "The viral Medicube Age-R Booster Pro is 32 percent off during the Amazon Black Friday sale. Read one Cut Shop editor’s review and see if it’s worth the hype for sculpting, enhancing absorption, improving elasticity, and refining pores.",
       "slug": "the-device-that-gives-me-glass-skin-is-32-percent-",
@@ -3148,24 +3439,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The 130+ Best Leftover Black Friday Deals You Can Still Score Today",
-      "description": "Black Friday is past us, but the deals remain. Here are the top bargains to shop this weekend on headphones, TVs, laptops, home goods and more.",
-      "slug": "the-130-best-leftover-black-friday-deals-you-can-s",
-      "publishedAt": "2025-11-29T12:57:00+00:00",
-      "date": "2025-11-29 12:57:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cnet.com/a/img/resize/be66bac68c9c7705a9de70c2cef327c87feaa09b/hub/2025/10/31/b2d47c67-9295-4b8c-a7e3-0e88c1d8ad00/1-black-friday-deal-early.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-11-29/the-130-best-leftover-black-friday-deals-you-can-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
       },
       "companies": [],
       "people": []
@@ -3207,24 +3480,6 @@
       "people": []
     },
     {
-      "title": "Rising star catch-up: Chad Tredway is back at JPMorgan and at the helm of its $79 billion real estate portfolio",
-      "description": "Tredway had left JPMorgan to launch his own investment firm. Now he's back to capitalize on an ascendant real estate market.",
-      "slug": "rising-star-catch-up-chad-tredway-is-back-at-jpmor",
-      "publishedAt": "2025-11-29T12:20:20+00:00",
-      "date": "2025-11-29 12:20:20",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/69274b7ce1a9cbb014df118a?width=1024&format=jpeg",
-      "url": "/tech-news/2025-11-29/rising-star-catch-up-chad-tredway-is-back-at-jpmor/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "The Best Smart String Lights for Christmas and Much More",
       "description": "These LED holiday lights are long-lasting and filled with tricks to make amazing Christmas displays.",
       "slug": "the-best-smart-string-lights-for-christmas-and-muc",
@@ -3238,24 +3493,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Science news this week: An enigmatic human relative, dark matter discovery and mysterious lights in the sky during nuclear weapons tests",
-      "description": "Nov. 29, 2025: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-      "slug": "science-news-this-week-an-enigmatic-human-relative",
-      "publishedAt": "2025-11-29T12:00:00+00:00",
-      "date": "2025-11-29 12:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BWaQZUCL92xS2rpUxtcFBi-1600-80.jpg",
-      "url": "/tech-news/2025-11-29/science-news-this-week-an-enigmatic-human-relative/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Live Science"
       },
       "companies": [],
       "people": []
@@ -3297,24 +3534,6 @@
       "people": []
     },
     {
-      "title": "Susquehanna: Baidu’s AI Strength Encouraging, Yet Stock Likely to Stay Rangebound",
-      "description": "Baidu, Inc. (NASDAQ:BIDU) is one of the AI Stocks on the Market’s Radar. On November 24, Susquehanna raised its price target on the stock to $110.00 from...",
-      "slug": "susquehanna-baidus-ai-strength-encouraging-yet-sto",
-      "publishedAt": "2025-11-29T10:35:39+00:00",
-      "date": "2025-11-29 10:35:39",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uoGuANzjljC3CX16MN7ASg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/736fa60347b771cdb0002673718f4b94",
-      "url": "/tech-news/2025-11-29/susquehanna-baidus-ai-strength-encouraging-yet-sto/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "UBS Raises Marvell (MRVL) Price Target to $110, Citing Strong Optics and Microsoft ASIC Wins",
       "description": "Marvell Technology, Inc. (NASDAQ:MRVL) is one of the AI Stocks on the Market’s Radar. On November 24, UBS raised its price target on the stock to $110 from $...",
       "slug": "ubs-raises-marvell-mrvl-price-target-to-110-citing",
@@ -3328,24 +3547,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The AI bubble debate is slowly making its way to Washington",
-      "description": "Rep. Alexandria Ocasio-Cortez is warning about an AI bubble. Lots of other lawmakers aren't sure if they see one yet.",
-      "slug": "the-ai-bubble-debate-is-slowly-making-its-way-to-w",
-      "publishedAt": "2025-11-29T10:22:06+00:00",
-      "date": "2025-11-29 10:22:06",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/691f5f4789026fbb4d0e13c0?width=1200&format=jpeg",
-      "url": "/tech-news/2025-11-29/the-ai-bubble-debate-is-slowly-making-its-way-to-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
       },
       "companies": [],
       "people": []
@@ -3369,24 +3570,6 @@
       "people": []
     },
     {
-      "title": "Real Peace Must Be Backed by Strong Power",
-      "description": "Defense Minister Ahn Gyu-back delivers a speech at a ceremony marking the 15th anniversary of the Yeonpyeong Island artillery duel, honoring combat heroes and commemorating the victory, at the Daejeon National Cemetery in Yuseong-gu, Daejeon, on Nov. 23.",
-      "slug": "real-peace-must-be-backed-by-strong-power",
-      "publishedAt": "2025-11-29T09:31:49+00:00",
-      "date": "2025-11-29 09:31:49",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/real-peace-must-be-backed-by-strong-power/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Work in progress: Hong Kong reaps the fruits of fintech seeds sown nearly 10 years ago",
       "description": "When Alvin Kwock, co-founder of digital insurer OneDegree, took part in the inaugural Hong Kong FinTech Week in November 2016, it was held at a venue...",
       "slug": "work-in-progress-hong-kong-reaps-the-fruits-of-fin",
@@ -3400,78 +3583,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Silicon Valley sets its sights on building the perfect baby",
-      "description": "Tech-savvy parents to be are using IVF and screening embryos to build families in ways that were unimaginable a few short years ago.",
-      "slug": "silicon-valley-sets-its-sights-on-building-the-per",
-      "publishedAt": "2025-11-29T09:23:00+00:00",
-      "date": "2025-11-29 09:23:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Fortune-IVF-Tech.jpg?resize=1200,600",
-      "url": "/tech-news/2025-11-29/silicon-valley-sets-its-sights-on-building-the-per/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Reliable Crypto Casinos 2025: JACKBIT Bitcoin Casino Has Gained Popularity for Rakeback Bonuses and No ID Verification",
-      "description": "NEW YORK CITY, NY, , Nov. 29, 2025 (GLOBE NEWSWIRE) -- November 28, 2025 – JACKBIT\r\n, one of the fastest growing crypto casinos in the industry, is shaking up the online gambling world by directly fixing the biggest frustrations players face today—slow payout…",
-      "slug": "reliable-crypto-casinos-2025-jackbit-bitcoin-casin",
-      "publishedAt": "2025-11-29T08:57:00+00:00",
-      "date": "2025-11-29 08:57:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-11-29/reliable-crypto-casinos-2025-jackbit-bitcoin-casin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Shokz Openfit 2+ $182.07 (Black) - $170.07 paying with PayPal - MR_Global Store @ AliExpress",
-      "description": "Shokz Openfit 2+ in Black, white and silver are only cents more. Certified original shown on the listing. Pay with PayPal for additional $12 off, join team ozbargain for additional cashback (as …",
-      "slug": "shokz-openfit-2-18207-black-17007-paying-with-payp",
-      "publishedAt": "2025-11-29T08:56:14+00:00",
-      "date": "2025-11-29 08:56:14",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://files.ozbargain.com.au/n/63/937463x.jpg?h=4f70b7f9",
-      "url": "/tech-news/2025-11-29/shokz-openfit-2-18207-black-17007-paying-with-payp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ozbargain.com.au"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Selfie-based age checks boom as govts push for online controls",
-      "description": "Governments worldwide are tightening rules on online platforms, fuelling rapid growth in the AI-powered age-verification industry. Startups like London-based Yoti now perform around a million selfie-based age checks daily for clients such as Meta, TikTok, and…",
-      "slug": "selfie-based-age-checks-boom-as-govts-push-for-onl",
-      "publishedAt": "2025-11-29T08:42:12+00:00",
-      "date": "2025-11-29 08:42:12",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1009815,resizemode-75,msid-125654499/tech/technology/selfie-based-age-checks-boom-as-govts-push-for-online-controls.jpg",
-      "url": "/tech-news/2025-11-29/selfie-based-age-checks-boom-as-govts-push-for-onl/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
       },
       "companies": [],
       "people": []
@@ -3526,42 +3637,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Slickdeals.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The 2025 Classical Chinese Poetry Contest—Set to Premiere in Europe—will Bring the Art of Poetic China to Audiences Across the Continent",
-      "description": "BEIJING, Nov. 29, 2025 (GLOBE NEWSWIRE) -- Poetry is the language of the soul and a bridge across cultures. A co-production of China Media Group, the Ministry of Education of China, and the State Language Commission, the 2025 Classical Chinese Poetry Contest …",
-      "slug": "the-2025-classical-chinese-poetry-contestset-to-pr",
-      "publishedAt": "2025-11-29T07:17:00+00:00",
-      "date": "2025-11-29 07:17:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/666f222a-53c3-45df-90a4-91278a61af4f",
-      "url": "/tech-news/2025-11-29/the-2025-classical-chinese-poetry-contestset-to-pr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Silver hit record highs in 2025 – here's why the 'Devil’s metal' has further to run",
-      "description": "While industrial demand for silver is expected to decline slightly in 2025, the metal is increasingly used in electric vehicles, for AI components and in photovoltaics.",
-      "slug": "silver-hit-record-highs-in-2025-heres-why-the-devi",
-      "publishedAt": "2025-11-29T06:06:15+00:00",
-      "date": "2025-11-29 06:06:15",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202789-17586402512025-01-10t134231z_250656088_rc2x6cas6qkq_rtrmadp_0_germany-gold.jpeg?v=1758640292&w=1920&h=1080",
-      "url": "/tech-news/2025-11-29/silver-hit-record-highs-in-2025-heres-why-the-devi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
       },
       "companies": [],
       "people": []
@@ -3670,24 +3745,6 @@
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Taking Flight: Pennsylvania Guard Expands Drone Usage",
-      "description": "FORT INDIANTOWN GAP, Pa. – In a small aircraft hangar on the east end of the post, a makeshift obstacle course has been built primarily from leftover construction material such as wood and PVC pipes. This isn’t an obstacle course for Soldiers to test their fi…",
-      "slug": "taking-flight-pennsylvania-guard-expands-drone-usa",
-      "publishedAt": "2025-11-29T01:00:00+00:00",
-      "date": "2025-11-29 01:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://soldiersystems.net/wp-content/uploads/2025/11/image-5-2.jpg",
-      "url": "/tech-news/2025-11-29/taking-flight-pennsylvania-guard-expands-drone-usa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Soldiersystems.net"
       },
       "companies": [],
       "people": []
