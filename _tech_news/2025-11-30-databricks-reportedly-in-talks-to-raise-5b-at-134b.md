@@ -4,10 +4,9 @@ category: startupy
 companies:
 - Databricks
 date: '2025-11-30 23:08:58'
-description: Společnost Databricks, zabývající se analýzou dat a umělou inteligencí,
-  je podle zpráv v jednáních o novém financování ve výši 5 miliard dolarů při valuaci
-  134 miliard dolarů. Toto by následovalo po předchozím kole financování při valuaci
-  100 miliard dolarů v srpnu.
+description: Společnost Databricks, zabývající se datovou analytikou a umělou inteligencí,
+  prý rokuje o novém kole financování v objemu 5 miliard dolarů při valuaci 134 miliard
+  dolarů. Toto by následovalo po předchozím kole z srpna při valuaci 100 miliard dolarů.
 importance: 4
 layout: tech_news_article
 original_title: Databricks reportedly in talks to raise $5B at $134B valuation
@@ -17,31 +16,31 @@ source:
   emoji: 📰
   id: null
   name: SiliconANGLE News
-title: Databricks údajně jedná o získání 5 miliard dolarů při valuaci 134 miliard
+title: Databricks údajně jedná o financování 5 miliard dolarů při valuaci 134 miliard
 url: https://siliconangle.com/2025/11/30/databricks-reportedly-talks-raise-5b-134b-valuation/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/06/databricks-dataai2025-hall.jpg
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/06/databricks-dataai2025-hall.jpg
 ---
 
-### Souhrn
-Společnost Databricks, která poskytuje cloudovou platformu pro práci s daty a umělou inteligencí, údajně rokuje o získání 5 miliard dolarů nového kapitálu při valuaci 134 miliard dolarů. Tato valuace představuje zhruba 32násobek očekávaných tržeb ve výši 4,1 miliardy dolarů pro příští rok. Financování by přišlo pouze čtyři měsíce po srpnovém kole při 100 miliardách dolarů a odráží rostoucí poptávku po jejich řešeních v oblasti generativní AI, strojového učení a real-time analýzy.
+## Souhrn
+Společnost Databricks, významný hráč v oblasti datové analytiky a umělé inteligence, údajně jedná o získání 5 miliard dolarů v novém kole financování při valuaci 134 miliard dolarů. Tato zpráva pochází od The Information a potvrzuje rostoucí zájem investorů o platformy podporující AI a machine learning. Pokud se kolo uskuteční, posílí to pozici Databricks v konkurenčním boji se Snowflake.
 
-### Klíčové body
-- Databricks založen v roce 2013, nabízí unified platformu pro data engineering, analýzu a strojové učení.
-- Klíčová inovace: lakehouse architektura, která spojuje levné úložiště datových jezer s výkonem a správou datových skladů.
-- Soutěž s Snowflake o dominanci v AI vývoji, ale Databricks zatím odmítá vstup na burzu.
-- Očekávané tržby 4,1 miliardy dolarů příští rok, valuace 32násobek.
-- Rostoucí poptávka díky expanzi generativní AI v podnicích.
+## Klíčové body
+- Valuace 134 miliard dolarů představuje nárůst o 34 % oproti srpnovému kole při 100 miliardách.
+- Multiplikátor valuace je přibližně 32násobek očekávaných tržeb 4,1 miliardy dolarů v příštím roce.
+- Platforma Databricks nabízí lakehouse architekturu pro jednotné zpracování dat, analytics a AI vývoj.
+- Firma založená v roce 2013 odmítá tlak na vstup na burzu, na rozdíl od rivala Snowflake.
+- Rostoucí poptávka po generativní AI a real-time analytics pohání zájem o jejich služby.
 
-### Podrobnosti
-Databricks, založený v roce 2013, je cloudová platforma určená pro zpracování dat a vývoj umělé inteligence. Nahrazuje rozptýlené datové stacky jednotným prostředím, kde týmy pracují od surového načítání dat přes analýzu až po pokročilé modely strojového učení. Jejich lakehouse architektura kombinuje výhody datových jezer – nízkonákladové úložiště pro strukturovaná i nestrukturovaná data – s vlastnostmi tradičních datových skladů, jako je vysoký výkon, správa a podpora SQL dotazů. To umožňuje organizacím ukládat data na jednom místě a podporuje real-time streamování, velké dávkové zpracování i analytiku v reálném čase.
+## Podrobnosti
+Databricks, založený v roce 2013, poskytuje cloudovou platformu pro datové inženýrství, analytiku a machine learning. Její jádro tvoří lakehouse architektura, která spojuje levné úložiště datových jezer (data lakes) s výkonem a správou tradičních datových skladů (data warehouses). Tento přístup umožňuje organizacím ukládat strukturovaná i nestrukturovaná data na jednom místě a podporuje SQL analytiku, real-time streamování dat i velké dávkové zpracování. Pro AI a machine learning nabízí nástroje pro celý životní cyklus vývoje modelů – od feature engineeringu, tréninku, evaluace až po nasazení.
 
-Kromě analýzy Databricks nabízí nástroje pro celý životní cyklus AI vývoje v podnicích: od feature engineeringu, kdy se připravují vstupní znaky pro modely, přes trénink a evaluaci modelů až po jejich nasazení do produkce. Platforma je navržena pro škálovatelnost, což je klíčové pro firmy rozšiřující použití generativní AI, kde je potřeba zpracovávat obrovské objemy dat rychle a efektivně.
+Zpráva o novém financování přichází krátce po srpnovém kole při valuaci 100 miliard dolarů. Podle Reuters je aktuální valuace 32násobkem očekávaných tržeb 4,1 miliardy dolarů pro příští rok, což signalizuje vysoké očekávání investorů od AI sektoru. Databricks profituje z expanze firem do generativní AI, kde jejich platforma slouží k přípravě dat pro trénink velkých jazykových modelů (LLM) a real-time analýzám. Například umožňuje datovým týmům pracovat s raw daty přímo až po pokročilé predikce bez nutnosti přecházet mezi nástroji.
 
-Toto nové kolo financování, podle zprávy The Information, by posílilo pozici Databricks v konkurenčním prostředí. Společnost soupeří se Snowflake, který se zaměřuje na cloudové datové sklady, ale Databricks má výhodu díky integrované podpoře AI a ML. Na rozdíl od Snowflake, který tlačí na IPO, Databricks zůstává soukromý, což mu dává flexibilitu bez tlaku veřejných investorů. Valuace 134 miliard dolarů je ambiciózní – 32násobek tržeb naznačuje vysoké očekávání od investorů na růst v AI sektoru, ale zároveň připomíná rizika přehřátého trhu, kde podobné multiplikátory vedly k korekci valuací v minulosti. Pokud se jednání potvrdí, mohlo by to umožnit akvizice nebo další investice do vývoje, což by ovlivnilo celý ekosystém data platform.
+Firma soupeří především se Snowflake, který se zaměřuje na cloudové datové sklady, ale Databricks má výhodu v integraci AI nástrojů. Na rozdíl od Snowflake, který už vstoupil na burzu, Databricks zatím odolává tlaku na IPO, což mu umožňuje flexibilnější růst. Pokud se financování potvrdí, mohlo by posloužit k dalšímu rozvoji AI funkcí, jako je podpora pro open-source modely typu Llama nebo integrace s frameworky jako TensorFlow a PyTorch.
 
-### Proč je to důležité
-Toto financování signalizuje pokračující důvěru investorů v infrastrukturní firmy podporující AI, zejména v době, kdy podniky masivně investují do generativní AI a real-time analýzy. Pro průmysl to znamená, že Databricks může urychlit inovace v lakehouse architektuře, což usnadní migraci od legacy systémů k jednotným AI platformám. V širším kontextu posiluje to soutěž mezi Databricks a Snowflake, což tlačí na lepší ceny a funkce pro uživatele. Kriticky řečeno, vysoká valuace závisí na udržitelném růstu tržeb; pokud AI hype ustoupí realitě, mohlo by to vést k přehodnocení. Pro vývojáře a firmy to ale otvírá dveře k robustnějším nástrojům pro nasazení AI modelů v produkci.
+## Proč je to důležité
+Toto financování podtrhuje, jak investoré vsazují na infrastrukturní vrstvu AI ekosystému. Databricks není jen datová platforma, ale klíčový nástroj pro škálování AI aplikací v podnicích – od bank po zdravotnictví, kde real-time analytics a ML modely umožňují rychlé rozhodování. V širším kontextu posiluje to soutěž mezi lakehouse přístupy (Databricks) a čistými datovými sklady (Snowflake), což tlačí na inovace v efektivitě zpracování velkých datových objemů nutných pro genAI. Kriticky řečeno, vysoká valuace (32x tržby) odráží hype kolem AI, ale závisí na udržitelném růstu; pokud Databricks udrží momentum, mohl by diktovat standardy pro enterprise AI. Pro uživatele to znamená lepší dostupnost nástrojů pro AI vývoj bez vendor lock-in, ale zároveň riziko koncentrace moci v rukou několika gigantů.
 
 ---
 

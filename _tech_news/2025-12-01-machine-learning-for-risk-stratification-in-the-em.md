@@ -2,10 +2,10 @@
 author: Marisa Aigen
 category: strojové učení
 date: '2025-12-01 00:00:00'
-description: Autoři popisují randomizovanou kontrolovanou studii, která ukázala, že
-  model umělé inteligence RISK INDEX odhaduje riziko úmrtnosti pacienta stejně přesně
-  jako lékaři a standardní rizikové skóre, ale neovlivnil klinická rozhodnutí v pohotovostním
-  oddělení.
+description: Autoři prezentují randomizovanou kontrolovanou studii, která ukazuje,
+  že model umělé inteligence RISK INDEX odhaduje riziko mortality pacienta stejně
+  přesně jako lékaři a standardní rizikové skóre, ale neovlivnil klinická rozhodnutí
+  v pohotovostním oddělení.
 importance: 3
 layout: tech_news_article
 original_title: 'Machine learning for risk stratification in the emergency department
@@ -21,27 +21,25 @@ title: 'Strojové učení pro stratifikaci rizik v pohotovostním oddělení (MA
 url: https://www.nature.com/articles/s41467-025-66947-7
 ---
 
-### Souhrn
-Randomizovaná kontrolovaná studie MARS-ED testovala nástroj RISK INDEX založený na strojovém učení pro predikci 31denní mortality pacientů v pohotovostním oddělení. Model překonal tradiční klinické skóre jako NEWS, APACHE II a SOFA i lékařskou intuici, ale v praxi nezměnil lékařská rozhodnutí ani výsledky léčby. Výsledky naznačují, že vysoká prognostická přesnost nestačí pro reálný klinický dopad.
+## Souhrn
+Randomizovaná kontrolovaná studie MARS-ED testovala model strojového učení RISK INDEX pro predikci 31denní mortality pacientů v pohotovostním oddělení. Model překonal tradiční klinické nástroje jako NEWS, APACHE II a SOFA v přesnosti, ale neměl žádný vliv na lékařská rozhodnutí ani výsledky léčby. Studie proběhla na Maastricht University Medical Center+ s 1303 pacienty.
 
-### Klíčové body
-- Prognostická přesnost RISK INDEX (AUROC 0,84) překonala klinickou intuici (AUROC 0,73–0,76) a tradiční skóre (NEWS, APACHE II, SOFA: AUROC 0,65–0,75).
-- Model souhlasil s očekáváním lékařů jen v půlce případů, s největším nesouladem u méně zkušených specialistů.
-- Žádný vliv na klinickou praxi: změna léčebného plánu v pouhém 1 z 644 případů (0,16 %).
-- Studie zahrnovala 1303 dospělých pacientů v pohotovostním oddělení Maastricht University Medical Center+.
-- Nebyly zaznamenány nežádoucí události spojené s intervencí.
+## Klíčové body
+- Model RISK INDEX dosáhl AUROC 0.84 pro predikci mortality, což překonalo klinickou intuici lékařů (AUROC 0.73–0.76) a standardní skóre (AUROC 0.65–0.75).
+- Predikce modelu se shodovala s očekáváním lékařů jen v půlce případů, s největšími rozdíly u méně zkušených lékařů.
+- Přístup k modelu změnil léčebný plán pouze v 1 z 644 případů (0,16 %).
+- Žádné nežádoucí události spojené s intervencí, rekrutace proběhla podle plánu.
+- Závěr: Přesnost predikce nestačí k změně klinické praxe v pohotovosti.
 
-### Podrobnosti
-Studie MARS-ED byla otevřená, randomizovaná, neinferenční trial provedená v pohotovostním oddělení univerzitní nemocnice v Maastrichtu. Do ní byli zařazeni dospělí pacienti (nad 18 let), kteří prošli vyšetřením internisty a měli k dispozici nejméně čtyři rutinní laboratorní testy. Pacienti byli náhodně rozděleni v poměru 1:1 do dvou skupin: standardní péče (659 pacientů) nebo standardní péče s přístupem k RISK INDEX (644 pacientů). Řádiči nemohli být oslepeni, protože museli vidět predikce modelu.
+## Podrobnosti
+Studie MARS-ED byla otevřená, randomizovaná, neinferenční trial zaměřená na dospělé pacienty (nad 18 let) v pohotovostním oddělení Maastricht University Medical Center+, kteří byli vyšetřeni internisty a měli alespoň čtyři laboratorní testy. Pacienti byli náhodně rozděleni 1:1 do dvou skupin: standardní péče (659 pacientů) nebo standardní péče s přístupem k RISK INDEX (644 pacientů). Model RISK INDEX, vyvinutý dříve, predikuje 31denní mortalitu na základě rutinních laboratorních hodnot, věku a pohlaví, bez nutnosti vitálních znaků, což ho činí praktickým pro přeplněné pohotovosti.
 
-RISK INDEX je nástroj strojového učení vyvinutý dříve pro predikci 31denní mortality na základě rutinních laboratorních hodnot, věku a pohlaví pacienta. Na rozdíl od tradičních nástrojů jako NEWS (National Early Warning Score, který sleduje vitální funkce), APACHE II (Acute Physiology and Chronic Health Evaluation II, komplexní skóre pro intenzivní péči) nebo SOFA (Sequential Organ Failure Assessment, hodnocení selhání orgánů), nevyžaduje složité vstupy a je navržen pro rychlou stratifikaci rizik v přeplněných pohotovostech. Primárními ukazateli byla prognostická přesnost pro 31denní úmrtnost a klinický dopad.
+Primárními ukazateli byla prognostická přesnost (měřená AUROC) a klinický dopad. RISK INDEX dosáhl AUROC 0.84, což statisticky významně překonalo NEWS (0.65), APACHE II (0.72) a SOFA (0.75). Oproti klinické intuičně lékařů byl lepší (0.73–0.76), ale shoda predikcí s lékařskými očekáváními byla jen kolem 50 %, s většími nesrovnalostmi u juniorních lékařů. Přesto intervence nezměnila léčebné plány – pouze jeden případ – a lékaři vnímali nízkou přidanou hodnotu. Žádné změny v klinických výsledcích, jako délka hospitalizace nebo mortalita, nebyly pozorovány.
 
-Výsledky ukázaly, že RISK INDEX dosáhl AUROC 0,84, což je statisticky významně lepší než u srovnatelných metod. Přesto predikce modelu nesouhlasily s klinickou intuicí lékařů v přibližně polovině případů, zejména u mladších nebo méně zkušených internistů. Přestože byl model k dispozici, lékaři ho ignorovali: došlo k pouze jedné změně léčebného plánu a žádným změnám v klinických výsledcích. Lékaři sami hodnotili přidanou hodnotu modelu jako nízkou. Rekrutace proběhla podle plánu bez komplikací.
+Tato studie poukazuje na limity aplikace strojového učení v reálné klinické praxi. I když model využívá rutinní data a je snadno integrovatelný, lékaři ho nebrali v úvahu při rozhodování. Možné důvody zahrnují nedůvěru v AI predikce, které se liší od jejich zkušeností, nebo absenci akčních doporučení. RISK INDEX slouží k rychlé stratifikaci rizik pro optimalizaci zdrojů v přeplněných pohotovostech, ale studie ukazuje, že přesnost sama o sobě nestačí – potřebná je uživatelsky přívětivá integrace a vzdělávání.
 
-Tato studie poukazuje na praktické limity nasazení strojového učení v medicíně. I když model funguje na rutinních datech bez potřeby vitálních parametrů, což ho činí snadno dostupným, chybí mu integrace do pracovního postupu lékařů. Nesoulad s jejich očekáváním vede k nedůvěře, což brání adopci.
-
-### Proč je to důležité
-Výsledky MARS-ED mají širší implikace pro nasazení AI v zdravotnictví. Ukazují, že prognostická přesnost (např. vysoké AUROC) nestačí – nutné je uživatelsky přizpůsobené řešení s akčními doporučeními, které lékaři snadno pochopí a aplikují. V kontextu rostoucího tlaku na pohotovosti kvůli přeplněnosti to zdůrazňuje potřebu klinických trialů před komerčním nasazením modelů strojového učení. Pro vývojáře AI v medicíně to znamená zaměřit se na human factors, jako je vysvětlitelnost predikcí a integrace do elektronických zdravotnických záznamů. Studie tak přispívá k realističtějšímu pohledu na translational research, kde teoretické pokroky narážejí na praktické bariéry v reálném prostředí.
+## Proč je to důležité
+Tato studie zdůrazňuje klíčový problém v aplikaci strojového učení v medicíně: vysoká prognostická přesnost nevede automaticky k lepší péči. V širším kontextu AI v zdravotnictví, kde se modely jako tento testují pro predikci rizik, ukazuje na nutnost zaměřit se na uživatelskou adopci. Pro průmysl to znamená, že vývoj AI nástrojů musí zahrnovat nejen data-driven přesnost, ale i human-centered design, jako vysvětlitelnost predikcí (explainable AI) a integraci do workflow. Pro pohotovostní oddělení to znamená, že tradiční nástroje jako NEWS zůstávají dominantní, dokud AI nebude přizpůsobeno klinické realitě. Celkově přispívá k diskusi o translational research, kde vědecký pokrok naráží na praktické bariéry.
 
 ---
 

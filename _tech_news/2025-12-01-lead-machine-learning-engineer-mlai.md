@@ -1,10 +1,12 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: strojové učení
+companies:
+- Capital One
 date: '2025-12-01 00:00:00'
-description: Capital One hledá vedoucího inženýra strojového učení pro tým rizikových
-  technologií v Revere, Massachusetts. Pozice se zaměřuje na vývoj a nasazení AI systémů
-  pro detekci a prevenci rizik v bankovnictví pomocí machine learning modelů.
+description: Capital One nabízí pozici hlavního inženýra strojového učení v oblasti
+  rizikových technologií. Úkol zahrnuje vývoj AI systémů pro detekci rizik v bankovnictví
+  a spolupráci s interním auditním týmem.
 importance: 3
 layout: tech_news_article
 original_title: Lead Machine Learning Engineer – ML/AI
@@ -14,31 +16,31 @@ source:
   emoji: 📰
   id: null
   name: Nlppeople.com
-title: Vedoucí inženýr strojového učení – ML/AI
+title: Hlavní inženýr strojového učení – ML/AI v Capital One
 url: https://nlppeople.com/job/lead-machine-learning-engineer-ml-ai-2/
 urlToImage: https://i0.wp.com/nlppeople.com/wp-content/uploads/2025/12/Capital-One.jpg?fit=400%2C400&ssl=1
 urlToImageBackup: https://i0.wp.com/nlppeople.com/wp-content/uploads/2025/12/Capital-One.jpg?fit=400%2C400&ssl=1
 ---
 
 ## Souhrn
-Capital One, americká bankovní společnost s dlouhodobou expertízou v machine learning, vyhlašuje volné místo vedoucího inženýra strojového učení v oblasti ML/AI. Pozice spadá pod tým Risk Tech a zahrnuje spolupráci s auditním oddělením na vývoji proprietárních AI řešení pro rizikový management. Nabídka je na plný úvazek v Revere, Massachusetts, s uzávěrkou přihlášek 1. března 2026.
+Capital One, americká banka s důrazem na technologické inovace, vyhlašuje volné místo hlavního inženýra strojového učení v divizi Risk Tech. Pozice se zaměřuje na tvorbu AI systémů pro prevenci rizik, jako jsou podvodné transakce nebo bezpečnostní hrozby, s cílem posílit rizikový management prostřednictvím strojového učení a umělé inteligence. Nabídka je na plný úvazek v Revere, Massachusetts, s uzávěrkou přihlášek 1. března 2026.
 
 ## Klíčové body
-- Spolupráce s cross-functionálními týmy inženýrů, datových vědců, produktových manažerů a designérů na AI produktech.
-- Návrh, vývoj, testování, nasazení a podpora AI systémů pro detekci rizik.
-- Zaměření na skalovatelné AI infrastruktury v rizikovém managementu bankovních operací.
-- Práce s interním auditním týmem a partnery na proprietárních řešeních poháněných state-of-the-art AI technologií.
-- Příspěvek k transformaci rizikového managementu datově řízenými nástroji.
+- Spolupráce s křížovými týmy: inženýři, datoví vědci, manažeři produktů a designéři pro vývoj AI produktů.
+- Vývoj proprietárních řešení: design, testování, nasazení a podpora AI systémů pro audit a rizikový management.
+- Zaměření na rizika: automatická detekce problémů před ovlivněním zákazníků nebo firmy.
+- Technologie: state-of-the-art AI, machine learning pro data-driven nástroje.
+- Lokalita: Revere, MA, USA; full-time pozice.
 
 ## Podrobnosti
-Capital One, jedna z největších amerických bank s aktivy přes 400 miliard dolarů, investuje do AI a machine learning od počátku 2010. let, kdy začala budovat interní ML platformy pro personalizované bankovní služby a detekci podvodů. Tým Risk Tech poskytuje technologickou základnu pro řízení rizik v nejistém prostředí, kde se machine learning používá k automatické detekci anomálií, prediktivní analýze kreditních rizik a prevenci problémů před jejich dopadem na zákazníky nebo byznys. Například AI modely zde analyzují transakční data v reálném čase, identifikují neobvyklé výdaje nebo chování naznačující podvod, což snižuje falešné poplachy oproti tradičním pravidlovým systémům.
+Capital One je jedna z největších amerických bank, která se odlišuje datově orientovaným přístupem k bankovnictví. Firma investuje do technologické infrastruktury a najímá špičkové talenty v oblasti machine learning, aby zůstala v čele aplikací AI v finančním sektoru. V divizi Risk Tech, která poskytuje základ pro fungování banky v nejistém prostředí, se tým soustředí na data-driven nástroje. Tyto nástroje využívají strojové učení k prevenci rizik, například k identifikaci neobvyklých transakcí nebo k okamžité odpovědi na otázky zákazníků.
 
-Vedoucí inženýr bude navrhovat architektury AI systémů, jako jsou neuronové sítě pro klasifikaci rizik nebo reinforcement learning modely pro optimalizaci rozhodování. Práce zahrnuje integraci s velkými datovými zdroji, jako jsou transakční logy a chování zákazníků, s důrazem na škálovatelnost – systémy musí zpracovávat miliony transakcí denně na cloudu. Spolupráce s auditním týmem znamená dodržování regulatorních standardů, jako je GDPR nebo americké bankovní předpisy, kde AI modely musí být explainable, tedy schopné vysvětlit svá rozhodnutí pro audity. Firma využívá open-source frameworky jako TensorFlow nebo PyTorch pro prototypování a proprietární platformy pro produkční nasazení.
+V této roli bude hlavní inženýr spolupracovat s interním auditním týmem a partnery napříč společností. Cílem je budovat a nasazovat proprietární řešení poháněná pokročilou AI technologií. Konkrétně půjde o design, vývoj, testování, nasazení a podporu AI systémů, které automaticky detekují problémy dříve, než ovlivní zákazníky, obchodní aktivity nebo komunity. Příkladem aplikací jsou systémy upozorňující na podvodné poplatky nebo real-time analýzy rizik.
 
-Tato role vyžaduje zkušenosti s end-to-end ML pipeline, od datové přípravy přes trénink modelů po MLOps pro kontinuální nasazení. Capital One zdůrazňuje odpovědné AI, což zahrnuje bias mitigation v modelech a bezpečnostní opatření proti adversarial attacks. V porovnání s jinými bankami, jako JPMorgan nebo Goldman Sachs, Capital One vyniká vertikální integrací ML do všech oblastí, včetně rizik, kde dosáhla snížení podvodů o desítky procent díky AI.
+Tým Risk Tech produkuje produkty, které transformují rizikový management. AI zde není jen doplňkem, ale jádrem: například modely machine learning trénované na historických datech pro predikci rizik. Inženýr bude navrhovat škálovatelné AI infrastruktury, které zvládnou velké objemy transakčních dat z bankovních operací. Capital One klade důraz na responsible AI, což znamená systémy spolehlivé a etické, s ohledem na regulace v finančním sektoru jako GDPR nebo americké bankovní předpisy. Pozice vyžaduje zkušenosti s cross-functional týmy, kde se spojují engineering, data science a produktový management pro doručení AI produktů měnících práci zaměstnanců.
 
 ## Proč je to důležité
-Tato nabídka odráží rostoucí integraci AI do tradičních finančních služeb, kde machine learning převádí rizikový management z reaktivního na prediktivní. Pro průmysl znamená posílení pozice bank jako Capital One v soutěži s fintechy, které spoléhají na rychlé AI nasazení. Pro odborníky na AI je to příležitost pracovat na reálných, vysokostupňových problémech s dopadem na miliardy dolarů, v prostředí s world-class daty a infrastrukturou. V širším kontextu ukazuje, jak finance pohánějí pokrok v aplikovaném AI, zejména v oblastech jako anomaly detection a automated auditing, což ovlivňuje standardy pro explainable AI v regulovaných odvětvích.
+Tato nabídka odráží rostoucí poptávku po AI expertech v tradičních odvětvích jako bankovnictví, kde machine learning přináší konkurenční výhodu. Finanční sektor čelí rostoucím kybernetickým hrozbám a regulatorním požadavkům na rizikový management, což posiluje roli AI v detekci anomálií. Capital One demonstruje, jak banky integrují AI do jádra byznysu, což může inspirovat podobné transformace jinde. Pro odborníky v AI/ML to znamená příležitost pracovat na reálných aplikacích s velkými daty, kde chyby mají vysoké náklady. V širším kontextu podtrhuje trend, kdy finance stávají se jedním z hlavních tahounů vývoje praktických AI systémů, překračujících hypotetické modely jako LLM. Nicméně úspěch závisí na kvalitě dat a etickém nasazení, kde Capital One zatím ukazuje solidní přístup bez velkých skandálů.
 
 ---
 

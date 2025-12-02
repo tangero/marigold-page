@@ -2,8 +2,10 @@
 author: Marisa Aigen
 category: dodavatelský řetězec
 date: '2025-12-01 00:32:00'
-description: Technologie mění dodavatelské řetězce z reaktivních center nákladů na
-  proaktivní podporovatele růstu v současném podnikatelském prostředí.
+description: Technologie mění dodavatelské řetězce z reaktivních nákladových center
+  na proaktivní podporovatele růstu v současném podnikatelském prostředí. Článek popisuje,
+  jak AI, automatizace a real-time data umožňují lepší předpovědi, optimalizaci a
+  adaptaci.
 importance: 3
 layout: tech_news_article
 original_title: Why technology is ‘boss’ in supply chain management
@@ -20,24 +22,24 @@ urlToImageBackup: https://bl-i.thgim.com/public/incoming/fdmbtr/article70339678.
 ---
 
 ## Souhrn
-Technologie přebírá roli klíčového řidiče v řízení dodavatelských řetězců, mění je z pasivních center nákladů na aktivní nástroje pro růst firem. Používá se k tomu umělá inteligence pro predikci poptávky, optimalizace skladů, prediktivní logistiku a real-time sledování. Podle zprávy McKinsey mohou firmy s AI snížit náklady na logistiku o 15 procent a zlepšit přesnost inventury až o 35 procent.
+Technologie se stává ústředním prvkem řízení dodavatelských řetězců a mění je z podpůrných operací na strategické nástroje pro růst firem. Klíčové jsou aplikace AI pro předpovídání poptávky, optimalizaci skladů, prediktivní logistiku a real-time sledování. Podle zprávy McKinsey mohou firmy s AI snížit logistické náklady o 15 % a zlepšit přesnost inventáře až o 35 %, což urychluje obrat zásob.
 
 ## Klíčové body
-- Umělá inteligence pro predikci poptávky umožňuje předvídat výkyvy a minimalizovat zásoby.
-- Automatizované skladovací systémy zvyšují kapacitu úložišť až o 25 procent díky robotům a optimalizaci prostoru.
-- Prediktivní logistika predikuje poruchy vozidel a optimalizuje trasy pro snížení zpoždění.
-- Real-time viditelnost díky IoT senzorům a blockchainu zajišťuje okamžité informace o poloze zboží.
-- Přechod od efektivity k agilitě: řetězce se stávají adaptabilními na změny trhu.
+- Automatizované skladovací systémy zvyšují kapacitu úložišť o 25 % pomocí robotiky a optimalizovaného uspořádání.
+- AI-driven forecasting predikuje poptávku na základě historických dat, počasí a tržních trendů.
+- Prediktivní logistika minimalizuje zpoždění predikcí poruch vozidel nebo dopravních zácp.
+- Real-time viditelnost zajišťuje sledování zboží přes IoT senzory a cloudové platformy.
+- Přechod od nízkonákladové efektivity k agilitě a inteligenci podporuje růst.
 
 ## Podrobnosti
-V hyperpropojeném světě se dodavatelský řetězec stal centrálním nervovým systémem podniku, kde technologie plní roli výkonného ředitele. Tradičně se zaměřoval na efektivitu, jako přepravu zboží z bodu A do B za nejnižší cenu. Dnes firmy potřebují agilní a inteligentní řetězce, které reagují na krize, jako pandemie nebo geopolitické konflikty. Umělá inteligence zde hraje klíčovou roli v forecasting, kde modely jako ty od Google nebo IBM predikují poptávku na základě historických dat, počasí, sociálních trendů a ekonomických indikátorů. To umožňuje snížit přebytečné zásoby a zkrátit dobu obratu.
+V hyperpropojeném světě se dodavatelský řetězec stal centrálním nervovým systémem podniku, kde technologie přebírá roli strategického řídícího prvku. Tradičně se zaměřoval na minimalizaci nákladů, například přepravu zboží z bodu A do B nejlevněji. Dnes firmy potřebují řetězce, které reagují na změny v reálném čase, jako jsou výkyvy poptávky nebo geopolitické krize. AI-driven forecasting, například modely machine learning jako ty od IBM Watson nebo SAP, analyzují data z prodejů, sociálních sítí a externích faktorů pro přesné odhady. To umožňuje předvídat sezónní špičky nebo globální události, jako pandemie, a předcházet přebytku nebo nedostatku zásob.
 
-Automatizované sklady, například systémy od firem jako Dematic nebo Kiva Systems (součást Amazonu), používají autonomní roboty k manipulaci s paletami. Tyto systémy maximalizují využití prostoru vertikálně a horizontálně, což podle studie zvyšuje kapacitu o 25 procent. Prediktivní logistika využívá machine learning k analýze dat z vozidel – senzory IoT monitorují teplotu, vibrace a spotřebu paliva, predikují poruchy motorů a navrhují údržbu před výpadkem. Optimalizace tras probíhá algoritmy jako ty v softwaru od Oracle nebo SAP, které zohledňují dopravní zácpy v reálném čase díky datům z GPS.
+Optimalizace skladů probíhá prostřednictvím automatizovaných systémů, jako jsou autonomní roboty od firem typu Boston Dynamics nebo Kiva Systems (nyní Amazon Robotics). Tyto roboty manipulují s paletami, maximalizují prostor a snižují chyby lidské práce. Například algoritmy pro warehouse management systems (WMS) dynamicky přidělují místa podle frekvence odběrů, což zvyšuje kapacitu o 25 %. Prediktivní logistika využívá AI k predikci rizik – senzory IoT v kamionech monitorují teplotu, polohu a stav motoru, zatímco modely predikují zpoždění na základě dat o dopravě z Google Maps API nebo Waze. Real-time viditelnost pak poskytují platformy jako Oracle SCM Cloud, které integrují data z ERP systémů a blockchain pro transparentní sledování.
 
-Real-time viditelnost zajišťují blockchain platformy, jako IBM Food Trust pro potraviny, kde každá transakce je neměnně zaznamenána, což snižuje rizika falšování. Tyto technologie nejsou bez výzev: vyžadují integraci legacy systémů, školení personálu a vysoké počáteční investice. Navíc data privacy podle GDPR nebo CCPA musí být zajištěna, aby se zabránilo únikům. Přesto firmy jako Walmart nebo Maersk již tyto nástroje nasazují pro konkurenční výhodu.
+Zpráva McKinsey zdůrazňuje, že tyto technologie nejsou jen o úsporách, ale o transformaci. Firmy jako Walmart nebo DHL již implementují podobné systémy, kde AI snižuje inventární ztráty a zvyšuje obratnost. Kriticky lze poznamenat, že úspěch závisí na kvalitě dat – špatná data vedou k chybným predikcím – a na kyberbezpečnosti, protože real-time systémy jsou zranitelné vůči útokům. Integrace vyžaduje investice do školení a legacy systémů, což může brzdit menší firmy.
 
 ## Proč je to důležité
-Tato transformace ovlivňuje celý průmysl, kde dodavatelské řetězce tvoří 60–80 procent nákladů výrobců. Snížení logistiky o 15 procent podle McKinsey znamená miliardy ušetřených dolarů ročně pro globální giganty. V kontextu AI ekosystému to posiluje poptávku po edge computingu pro rychlé zpracování dat na okraji sítě a po pokročilých LLM modelech pro analýzu nestrukturovaných dat z dodavatelů. Pro firmy v Česku, jako Škoda Auto nebo české logistiky, to znamená nutnost digitalizace, aby odolaly konkurenci z Asie. Dlouhodobě to vede k udržitelnější logistice s nižšími emisemi díky optimalizovaným trasám, ale závisí na kvalitě dat a kybernetické bezpečnosti.
+Tato transformace posiluje rezilenci dodavatelských řetězců v době nestability, jako jsou dodavatelské krize nebo klimatické změny. Pro průmysl znamená nižší náklady, rychlejší dodávky a lepší rozhodování, což zvyšuje konkurenceschopnost. V širším tech ekosystému podporuje růst AI trhu v logistice, odhadovaný na stovky miliard dolarů, a urychluje adopci IoT a edge computing. Firmy bez těchto technologií riskují zaostávání, zatímco lídři získají výhodu v globálním obchodu.
 
 ---
 

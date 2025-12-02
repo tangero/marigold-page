@@ -2,10 +2,10 @@
 author: Marisa Aigen
 category: ai
 date: '2025-11-30 23:02:32'
-description: Sestry a lídři na frontové linii v New Yorku kritizují systém nemocnic
-  za zavádění nástrojů umělé inteligence bez konzultace, což podle nich ohrožuje bezpečnost
-  pacientů a jejich pracovní místa. Nemocnice investovaly stovky milionů dolarů do
-  jazykových modelů, aniž by zapojily personál na lůžkové péči.
+description: Sestry na frontové linii a lídři v New Yorku kritizují systém nemocnic
+  za zavádění nástrojů umělé inteligence, které podle nich ohrožují bezpečnost pacientů
+  i jejich pracovní místa. Nemocnice investují stovky milionů dolarů do jazykových
+  modelů bez zapojení personálu na lůžkové péči.
 importance: 3
 layout: tech_news_article
 original_title: NYC nurses claim hospitals quietly rolled out AI tech that’s threatening
@@ -24,24 +24,22 @@ urlToImageBackup: https://nypost.com/wp-content/uploads/sites/2/2025/11/11597070
 ---
 
 ## Souhrn
-Sestry z New Yorku, včetně představitelů New York State Nurses Association, kritizují nemocnice za zavádění AI nástrojů bez zapojení frontového personálu. Tyto technologie, do kterých nemocnice investovaly stovky milionů dolarů, podle nich zvyšují rizika pro pacienty a ohrožují pracovní místa. Příkladem je AI asistent Sofiya v Mount Sinai nebo neohlášené přístroje na pacientech v Maimonides Medical Center.
+Sestry z New Yorku a jejich lídři na nedávném zasedání výboru „Stav ošetřovatelství v nemocnicích“ kritizují nemocnice za tiché zavádění nástrojů umělé inteligence bez konzultací s frontovým personálem. Tyto technologie podle nich zvyšují rizika pro pacienty a ohrožují pracovní místa ošetřovatelek. Konkrétní případy z nemocnic Maimonides Medical Center a Mount Sinai ukazují na nedostatek školení a protokolů.
 
 ## Klíčové body
-- Sestry nejsou zapojeny do rozhodování o AI, přesto musí kontrolovat jeho výstupy.
-- Nancy Hagans, prezidentka New York State Nurses Association, označila AI v nemocnicích za „umělou péči".
-- V Maimonides Medical Center objevili přístroje připojené k lebkám pacientů bez varování.
-- Mount Sinai investovalo miliony do AI asistenta Sofiya pro katetrizaci srdce, což sestrám přidává práci.
-- Kritika zazněla na schůzi výboru "State of Nursing" 18. listopadu.
+- Nancy Hagans, prezidentka New York State Nurses Association, označila AI v nemocnicích za „umělou péči“ a upozornila na absence zapojení sestřiček do rozhodování.
+- V Maimonides Medical Center došlo k incidentu, kdy farmaceutická společnost bez varování připojila přístroje k lebkám pacientů na jednotce intenzivní péče.
+- Mount Sinai investovalo miliony do AI asistenta Sofiya v kardiokatarizační laboratoři, kde sestři musí manuálně kontrolovat jeho výstupy.
+- Nemocnice utratily stovky milionů dolarů za jazykové modely bez inputu od personálu u lůžka.
+- Sestři se obávají selhání systémů a absence návratu k manuálnímu monitoringu pacientů.
 
 ## Podrobnosti
-Nemocnice v New Yorku, jako Maimonides Medical Center v Brooklynu a Mount Sinai West, zavádějí AI technologie bez dostatečné komunikace s personálem na lůžkové péči. Nancy Hagans, prezidentka New York State Nurses Association s více než 30 lety praxe v Maimonides, na schůzi výboru "State of Nursing" 18. listopadu upozornila, že sestry nejsou součástí rozhodovacích procesů. "Co děláme, když stroje selžou? Jak vrátíme dohled nad pacientem?" ptala se. Podle ní AI představuje spíš "umělou péči" než skutečnou podporu.
+Nemocnice v New Yorku, jako Maimonides Medical Center v Brooklynu a Mount Sinai West, zavádějí nástroje umělé inteligence bez dostatečného zapojení sestřiček, které poskytují péči přímo u pacientova lůžka. Nancy Hagans, prezidentka New York State Nurses Association s více než 30 lety praxe v Maimonides, na zasedání 18. listopadu zdůraznila, že sestři nejsou součástí rozhodovacích procesů. Tyto AI systémy, často založené na velkých jazykových modelech, slouží k monitoringu pacientů, analýze dat nebo asistenci v procedurách, jako je kardiokatarizace. Například v Mount Sinai je nasazen AI asistent Sofiya v kardiokatarizační laboratoři, kde má pomáhat s diagnostikou a plánováním zákroků na srdci. Podle Robert Miller Denash Forbes, dlouholeté sestřičky z Mount Sinai West a členky asociace, však tento systém vytváří více práce, protože sestři musí ověřovat jeho výstupy, aby předešli chybám, což snižuje dohled nad pacienty.
 
-Konkrétní incident v Maimonides ukázal rizika: personál našel v jednotce intenzivní péče (ICU) přístroje farmaceutické firmy připojené k lebkám pacientů bez předchozího varování, školení nebo protokolů. To vyvolalo obavy o bezpečnost a odpovědnost. Podobně Robert Miller Denash Forbes, ředitelka NYSNA a sestra v Mount Sinai West s téměř 40 lety praxe, kritizovala investice nemocnice do AI v řádu milionů dolarů. Mount Sinai nedávno spustilo AI asistenta Sofiya v laboratoři pro kardiakální katetrizaci, kde slouží k analýze dat a podpoře procedur. Sestry však musí manuálně ověřovat všechny výstupy Sofiya, aby odhalily chyby, což jim přidává administrativní zátěž místo úlevy. Forbes zdůraznila, že takové inovace snižují dohled lidského personálu a zvyšují rizika.
-
-Tyto případy odhalují systémový problém: nemocnice nasazují jazykové modely a AI nástroje primárně pro efektivitu a úspory, ale bez školení sestry, které jsou klíčové pro bezpečnou péči. V USA se podobné trendy opakují – AI se používá k monitoringu vitálních funkcí, predikci komplikací nebo administrativě, ale bez robustních bezpečnostních protokolů může vést k chybám, jako falešné alarmy nebo špatné interpretace dat.
+Hagans popsala alarmující incident v Maimonides, kde farmaceutická firma bez předchozího upozornění, školení nebo protokolů připojila přístroje k lebkám pacientů na intenzivní péči. To vyvolává otázky, co se stane při selhání AI – jak vrátit manuální monitoring? Nemocnice investují obrovské částky, například Mount Sinai „nepřeberné miliony“ do AI technologií, ale ignorují frontový personál. New York State Nurses Association požaduje zapojení sestřiček do rozhodování, protože oni nesou odpovědnost za péči. Tato praxe odhaluje širší problém v zavádění AI do zdravotnictví: rychlé nasazení bez testování v reálném prostředí lůžkové péče zvyšuje rizika chyb, které mohou ohrozit životy.
 
 ## Proč je to důležité
-Tato kritika ukazuje na širší výzvy při integraci AI do zdravotnictví, kde selhání může mít fatální důsledky. Bez zapojení frontového personálu hrozí nejen ztráta důvěry, ale i regulační intervence – například FDA v USA vyžaduje validaci AI pro medicínské použití. Pro průmysl to znamená potřebu hybridních systémů, kde AI podporuje, ne nahrazuje, lidskou expertizu. V Evropě a USA rostou debaty o etických standardech, jako EU AI Act, který klasifikuje zdravotnické AI jako vysoce rizikové. Pokud se nemocnice nezmění, mohou čelit šetřením, pokutám nebo nedostatku pracovníků, což zpomalí adopci AI v kritických oblastech.
+Tato kontroverze ukazuje na etické a praktické rizika při integraci umělé inteligence do kritických oblastí jako zdravotnictví. Bez zapojení personálu hrozí nejen ztráta pracovních míst, ale především snížení bezpečnosti pacientů kvůli nedůvěryhodným AI systémům, které selhávají v neočekávaných situacích. V širším kontextu to zdůrazňuje potřebu regulací pro AI v medicíně, podobně jako u FDA schvalování zařízení. Pokud se nemocnice nezmění, může to vést k větším sporům mezi managementem a personálem, zpomalení adopce AI a ztrátě důvěry v technologie. Pro průmysl to znamená, že úspěšné nasazení AI vyžaduje nejen investice, ale i školení a spolupráci, aby se minimalizovala rizika chyb v reálném nasazení.
 
 ---
 

@@ -2,8 +2,8 @@
 author: Marisa Aigen
 category: regulace ai
 date: '2025-12-01 00:00:00'
-description: Čína, která umělou inteligenci umístila do centra své ekonomické strategie,
-  vede snahy o vytvoření mezinárodního systému pro řízení použití této technologie.
+description: Čína, která umělou inteligenci postavila do centra své ekonomické strategie,
+  prosazuje úsilí o vytvoření mezinárodního systému pro řízení využívání této technologie.
 importance: 3
 layout: tech_news_article
 original_title: China wants to lead the world on AI regulation — will the plan work?
@@ -19,25 +19,27 @@ urlToImage: https://media.nature.com/lw1200/magazine-assets/d41586-025-03902-y/d
 urlToImageBackup: https://media.nature.com/lw1200/magazine-assets/d41586-025-03902-y/d41586-025-03902-y_51767196.jpg
 ---
 
-## Souhrn
-Čína aktivně prosazuje globální regulaci umělé inteligence prostřednictvím návrhu na založení Světové organizace pro spolupráci v oblasti umělé inteligence (WAICO). Tento krok prezentoval prezident Si Ťin-pching na zasedání fóra Asijsko-tichomořské hospodářské spolupráce (APEC) v říjnu. Návrh kontrastuje s přístupem USA zaměřeným na deregulaci a odráží čínskou touhu ovládnout mezinárodní normy pro AI.
+### Souhrn
+Čína navrhuje založení Světové organizace pro spolupráci v oblasti umělé inteligence (WAICO), která by měla sloužit jako platforma pro globální řízení AI. Tento krok přichází v kontrastu k americkému přístupu zaměřenému na deregulaci a je součástí čínské snahy získat vedení v mezinárodní regulaci. Prezident Si Ťin-pching tento návrh znovu podpořil na zasedání Asijsko-tichomořského fóra pro hospodářskou spolupráci (APEC) v říjnu.
 
-## Klíčové body
-- Čína navrhuje WAICO jako platformu pro mezinárodní spolupráci na globální governance AI.
-- Čínské firmy vydávají AI modely jako open weight, což umožňuje jejich stažení a další vývoj.
-- Na rozdíl od Západu se Čína méně zaměřuje na umělou obecné inteligence (AGI) a více na praktické aplikace AI.
-- Expertka Wendy Hall z University of Southampton označila Čínu za „dobrého chlapa" v oblasti transparentnosti AI politiky.
-- Cílem je vytvořit závazné mezinárodní dohody podobné těm pro jadernou energii nebo letectví.
+### Klíčové body
+- Čína prosazuje WAICO jako krok k vazebnému mezinárodnímu dohodě o AI, srovnává to s regulacemi jaderné energie a letectví.
+- Čínské firmy vydávají AI modely jako open weight, což umožňuje jejich stahování a další vývoj, na rozdíl od západního přístupu.
+- Čína méně zaměřuje na umělou obecné inteligence (AGI), která by překonala lidskou inteligenci, a více na praktické aplikace.
+- Podle Wendy Hallové z University of Southampton je Čína v oblasti transparentnosti a AI politiky v současnosti „dobrým aktérem“.
+- Geopolitické překážky brání rychlému úspěchu, zejména kvůli rozdílům mezi Čínou a USA.
 
-## Podrobnosti
-Článek popisuje situaci, kdy svět stále postrádá jednotnou regulaci umělé inteligence, přestože rizika zahrnují prohlubování nerovností až po existenciální hrozby. Existují národní a regionální předpisy, ale globální rámec chybí. Na zasedání APEC v jižní Koreji v říjnu Si Ťin-pching znovu navrhl WAICO, která by sloužila jako krok k vytvoření systému globálního řízení AI. Tento návrh je součástí širší čínské strategie sebeosamostatnění vědy v pětiletém plánu a snahy vést regulaci AI, na rozdíl od USA, kde převažuje deregulace.
+### Podrobnosti
+Článek popisuje čínskou iniciativu v kontextu globálního nedostatku jednotných pravidel pro umělou inteligenci, přestože rizika zahrnují prohlubování nerovností až po existenciální hrozby. Zatím existuje jen patchwork národních a regionálních regulací, například evropské AI Act nebo americké výkonnostní předpisy. Na zasedání APEC v jižní Koreji v říjnu Si Ťin-pching znovu navrhl WAICO, což by mělo být mezinárodní těleso podobné Mezinárodní agentuře pro atomovou energii (IAEA) pro jadernou energii nebo ICAO pro letectví. Tato organizace by koordinovala standardy, bezpečnost a etiku v AI, s cílem vytvořit vazebný rámec.
 
-Čínský ekosystém AI se liší od západního. Podporou vlády čínské firmy vydávají modely jako open weight – tedy s veřejně dostupnými váhami, které lze stáhnout a dále upravovat pro specifické aplikace, jako je zpracování obrazu nebo překlady. To umožňuje rychlejší šíření a adaptaci modelů v průmyslu. Na rozdíl od USA nebo Evropy, kde je priorita vývoj AGI – systému schopného překonat lidskou inteligenci ve všech oblastech –, se Čína soustředí na komerční využití AI v oblastech jako logistika, zdravotnictví nebo surveillance. Například modely od firem jako Baidu nebo Alibaba jsou optimalizovány pro masové nasazení v čínské ekonomice.
+Čínský AI ekosystém se liší od západního. Podporou státních politik čínské firmy jako Baidu, Alibaba nebo Tencent vydávají modely s otevřenými váhami (open weight), což znamená, že váhy neuronových sítí jsou veřejně dostupné pro stažení, modifikaci a trénink na vlastních datech. To umožňuje rychlý vývoj aplikací v oblastech jako rozpoznávání obličeje, autonomní řízení nebo medicínská diagnostika, bez nutnosti proprietárních API. Naopak v USA a Evropě převažují uzavřené modely jako GPT od OpenAI nebo Gemini od Google, kde přístup je omezen na placené API.
 
-Překážky pro založení WAICO jsou významné: geopolitické napětí mezi USA a Čínou, rozdílné priority (Západ zdůrazňuje etiku a bezpečnost AGI, Čína efektivitu) a absence konsenzu. Přesto někteří experti, jako Wendy Hall, chválí čínskou transparentnost v politice AI. Srovnávají to s úspěšnými dohodami pro jadernou energii (např. NPT) nebo letectví (ICAO), kde rizikové technologie získaly globální normy. Čína tak využívá svou ekonomickou váhu – je největším trhem pro AI hardware – k prosazování svých standardů, což by mohlo ovlivnit vývoj modelů po celém světě.
+Čína se soustředí na praktické nasazení AI v ekonomice, například v průmyslové automatizaci nebo chytrých městech, místo honby za AGI, která by simulovala lidskou inteligenci napříč úkoly. To odpovídá pětiletému plánu na samostatnost vědy a technologií. Kritici však poukazují na čínské nedostatky v transparentnosti dat a etice, jako je masivní sběr biometrických údajů pro sociální kreditní systém. Navzdory tomu odbornice Wendy Hallová na londýnské akci v říjnu ocenila čínskou roli v prosazování globálních standardů, kde USA spíše deregulují kvůli konkurenčním výhodám firem jako OpenAI nebo Anthropic.
 
-## Proč je to důležité
-Tento čínský tah může formovat globální normy pro AI, což ovlivní vývojáře, firmy i státy. Pokud WAICO vznikne, mohla by standardizovat bezpečnostní testy modelů, sdílení dat nebo etické směrnice, což by zpomalilo neřízený růst AI v USA. Pro evropské uživatele by to znamenalo harmonizaci s EU AI Act, ale riziko je v čínském vlivu na surveillance nástroje. V širším kontextu posiluje to soutěž mezi supervelmocemi o kontrolu nad AI, což by mohlo vést k fragmentaci technologie místo spolupráce. Dlouhodobě by úspěšná regulace snížila rizika, jako je zneužití deepfake nebo bias v modelech, ale selhání by prohloubilo globální rozdíly v přístupu k AI.
+Vytvoření WAICO čelí překážkám: geopolitické napětí USA-Čína, rozdílné priority (Západ zdůrazňuje práva jednotlivce, Čína státní kontrolu) a absence konsenzu na fórech jako OSN. Přesto příklady jako jaderné smlouvy ukazují, že pro rizikové technologie je multilaterální dohoda možná.
+
+### Proč je to důležité
+Tato iniciativa ovlivní globální AI vývoj, protože regulace ovlivní inovace, export technologií a bezpečnost. Pokud Čína získá vedení, mohou se prosadit standardy kompatibilní s jejím modelem centrálně řízené AI, což by omezilo západní firmy v přístupu k čínským trhům a datům. Naopak neúspěch by posílil fragmentaci, kde USA dominují v AGI výzkumu, zatímco Čína vede v nasazení. Pro průmysl to znamená nutnost přizpůsobit modely mezinárodním normám, což zpomalí vývoj, ale zlepší bezpečnost proti zneužití jako deepfakes nebo autonomní zbraně. V širším kontextu posiluje to roli států v AI governance oproti soukromým firmám, což mění dynamiku od otevřeného výzkumu k regulovanému ekosystému.
 
 ---
 

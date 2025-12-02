@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai akcie
 companies:
 - SoundHound AI
 - Astera Labs
 date: '2025-11-30 22:55:31'
-description: 'Článek porovnává dvě firmy v AI sektoru: SoundHound AI vyvíjí technologie
-  pro interpretaci lidské řeči v komerčních aplikacích, jako je přijímání hlasových
-  objednávek, zatímco Astera Labs dodává hardware složky pro pohánění AI systémů.'
+description: SoundHound AI využívá umělou inteligenci k interpretaci lidské řeči pro
+  komerční aplikace, jako je přijímání hlasových objednávek od zákazníků. Astera Labs
+  dodává hardware komponenty nezbytné pro napájení AI systémů.
 importance: 3
 layout: tech_news_article
 original_title: 'Better Artificial Intelligence Stock: SoundHound AI vs. Astera Labs'
@@ -17,31 +17,31 @@ source:
   emoji: 📰
   id: null
   name: Biztoc.com
-title: 'Lepší akcie v umělé inteligenci: SoundHound AI vs. Astera Labs'
+title: 'Lepší akcie v oblasti umělé inteligence: SoundHound AI vs. Astera Labs'
 url: https://biztoc.com/x/25cb43b7bf96d4c2
 urlToImage: https://biztoc.com/cdn/25cb43b7bf96d4c2_s.webp
 urlToImageBackup: https://biztoc.com/cdn/25cb43b7bf96d4c2_s.webp
 ---
 
-### Souhrn
-Analýza porovnává akcie SoundHound AI a Astera Labs jako potenciální investice v rostoucím sektoru umělé inteligence. SoundHound se zaměřuje na software pro zpracování hlasu, zatímco Astera Labs poskytuje klíčové hardware komponenty pro AI datacentra. Článek zvažuje, která z těchto firem nabízí lepší výhled v kontextu současného boomu AI.
+## Souhrn
+Článek z Finance Yahoo porovnává dvě akcie spojené s boomem umělé inteligence: SoundHound AI, firmu zaměřenou na hlasové rozhraní, a Astera Labs, dodavatele polovodičových komponentů pro AI infrastrukturu. Analýza hodnotí jejich technologické zaměření, růstový potenciál a investiční rizika v kontextu rostoucího trhu AI.
 
-### Klíčové body
-- SoundHound AI využívá AI k interpretaci lidské řeči a aplikuje ji v komerčních scénářích, například pro automatické přijímání hlasových objednávek v restauracích nebo autech.
-- Astera Labs vyrábí hardware produkty, jako jsou vysokorychlostní propojení a retimery pro PCIe a CXL, které slouží jako základní stavební kameny pro škálovatelné AI systémy v datacentrech.
-- Obě firmy těží z růstu AI, ale SoundHound čelí silné konkurenci od gigantů jako Google nebo Amazon, zatímco Astera profituje z poptávky po infrastruktuře od Nvidia a podobných.
-- Astera Labs nedávno vstoupila na burzu (IPO v březnu 2024) a rychle roste díky poptávce po AI akcelerátorech.
-- SoundHound vykazuje růst příjmů, ale stále je ztrátová kvůli vysokým nákladům na vývoj.
+## Klíčové body
+- SoundHound AI vyvíjí platformu pro zpracování hlasové řeči, která umožňuje aplikace jako hlasové objednávky v restauracích nebo hlasové ovládání v automobilech.
+- Astera Labs produkuje hardware pro vysokorychlostní připojení v AI datacentrech, včetně PCIe a CXL retimerů pro GPU clustery.
+- Obě firmy profitují z expanze AI, ale SoundHound je více vystaven konkurenci v software, zatímco Astera je blíže hardwarovému jádru AI trhu.
+- Porovnání se zaměřuje na valuaci, růst tržeb a závislost na velkých klientech jako Nvidia.
+- Článek naznačuje, že hardware od Astera Labs může mít stabilnější růst díky poptávce po AI infrastruktuře.
 
-### Podrobnosti
-SoundHound AI je specializovaná firma na konverzační AI založenou na zpracování přirozeného jazyka (NLP) a rozpoznávání řeči. Její technologie, jako platforma Houndify, umožňuje vývojářům integrovat hlasové asistenty do zařízení a aplikací. Například v restauracích přijímá hlasové objednávky, zpracovává složité fráze a integruje se s platebními systémy. Firma spolupracuje s automobilkami jako Stellantis nebo Honda pro hlasové ovládání v autech a s řetězci jako Chipotle pro drive-thru systémy. Přestože technologie funguje, trh je přesycený řešeními od velkých hráčů – Google Assistant, Amazon Alexa nebo Apple Siri nabízejí podobné funkce s větší ekosystémovou podporou. SoundHound má v roce 2024 příjmy kolem 50 milionů dolarů, s růstem 50 %, ale ztráty přes 100 milionů kvůli investicím do školení modelů.
+## Podrobnosti
+SoundHound AI je společnost specializující se na konverzační umělou inteligenci založenou na zpracování přirozené řeči. Její hlavní platforma Houndify umožňuje vývojářům integrovat hlasové asistenty do zařízení a aplikací. Například v restauracích jako Chipotle slouží k automatickému přijímání objednávek v drive-thru systémech, kde AI rozpoznává složité fráze, zpracovává kontext a interaguje v reálném čase. Další využití zahrnuje hlasové ovládání v autech ve spolupráci s automobilkami jako Stellantis. Firma dosáhla růstu tržeb o přibližně 50 % meziročně v posledních kvartálech, ale stále vykazuje ztráty kvůli vysokým nákladům na vývoj a marketing. Konkurence je silná – Google Assistant, Amazon Alexa nebo Apple Siri nabízejí podobné funkce s většími zdroji.
 
-Na druhé straně Astera Labs je polovodičová společnost zaměřená na vysokorychlostní propojení v AI infrastruktuře. Její produkty, jako Aries smart retimery nebo Leo PCIe/CXL switche, řeší problémy signální integrity v datacentrech, kde se propojují tisíce GPU, jako Nvidia H100 nebo Blackwell. Tyto komponenty zajišťují spolehlivý přenos dat při rychlostech až 64 GT/s, což je klíčové pro trénink velkých jazykových modelů (LLM). Astera profituje z explozivní poptávky po AI clusterech – jejich IPO v březnu 2024 získalo 712 milionů dolarů a akcie vzrostly o 70 % hned první den. V třetím čtvrtletí 2024 očekávají příjmy přes 100 milionů dolarů, s hrubou marží 75 %. Firma má zákazníky jako Nvidia, AMD a Intel, což ji staví do centra AI dodavatelského řetězce.
+Astera Labs naopak působí v hardwarové vrstvě AI ekosystému. Tato firma, která vstoupila na burzu v roce 2024, vyrábí čipy pro přenos dat v datacentrech, konkrétně Aries řadu retimerů a smart retimerů pro PCIe 5.0/6.0 a CXL protokoly. Tyto komponenty řeší problémy s signální integritou při propojení stovek GPU v AI trénovacích clusterech, jako jsou systémy od Nvidia. Astera Labs profituje přímo z explozivní poptávky po AI výpočetním výkonu – jejich produkty jsou klíčové pro škálování modelů jako GPT nebo Llama. Tržby rostou rychleji než u SoundHound, s hrubou marží kolem 70 %, ale firma je závislá na malém počtu velkých zákazníků, včetně hyperscalerů jako Microsoft nebo Google.
 
-Porovnání ukazuje, že Astera má stabilnější růst díky nezbytnosti svého hardwaru v každém AI systému, zatímco SoundHound závisí na adopci softwaru v konkurenčním prostředí. Rizika pro SoundHound zahrnují saturaci voice AI trhu, pro Asteru závislost na cyklech čipové poptávky.
+Porovnání obou akcií ukazuje rozdílné rizika: SoundHound AI má vyšší volatilitu kvůli softwarovému trhu, kde se rychle mění preference uživatelů, zatímco Astera Labs těží z nutnosti hardwarových upgradů v AI datacentrech. Například zatímco SoundHound investuje do edge AI pro zařízení, Astera se soustředí na cloudovou infrastrukturu, která pohání 90 % současného AI vývoje. Aktuální valuace SoundHound je kolem 10násobku tržeb, Astera okolo 15násobku, což odráží očekávání růstu.
 
-### Proč je to důležité
-V éře růstu AI výdajů na stovky miliard dolarů (např. Microsoft a Google investují desítky miliard do datacenter) hardware jako od Astera Labs tvoří základní vrstvu, bez níž nelze škálovat modely jako GPT-5 nebo Llama 3. Software SoundHound představuje aplikační vrstvu, kde edge cases v hlasovém zpracování mohou najít niku, ale bez unikátních výhod riskuje marginalizaci. Pro investory to znamená, že Astera může nabídnout vyšší návratnost v infrastrukturním boomu, zatímco SoundHound je spekulativnější sázka na komercializaci voice AI. V širším ekosystému to podtrhuje dvojí potřebu AI: robustní hardware pro výpočty a specializovaný software pro interakci s uživatelem. (512 slov)
+## Proč je to důležité
+Toto porovnání ilustruje šířku AI trhu: od koncových aplikací jako hlasové AI po základní infrastrukturu. Pro investory představuje diverzifikaci – software jako SoundHound nabízí rychlý růst, ale s vyšším rizikem selhání, zatímco hardware od Astera Labs je stabilnější díky poptávce po AI čipech, která by měla přetrvat i při zpomalení hype. V širším kontextu ukazuje, jak AI závisí na celém zásobovacím řetězci: bez spolehlivého hardware pro GPU clustery by modely jako ty od OpenAI nemohly trénovat. Nicméně obě firmy čelí rizikům, jako je zpomalení investic do AI nebo regulatorní omezení exportu čipů. Pro průmysl to znamená, že investice do takových firem mohou urychlit adopci AI v každodenních aplikacích, od restaurací po datacentra.
 
 ---
 
