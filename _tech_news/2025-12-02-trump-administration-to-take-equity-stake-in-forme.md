@@ -3,47 +3,48 @@ author: Marisa Aigen
 category: polovodiče
 companies:
 - Intel
-date: '2025-12-02 05:29:27'
-description: Administrativa prezidenta Trumpa souhlasila s poskytnutím až 150 milionů
-  dolarů startupu xLight na vývoj pokročilých technik výroby polovodičů v USA. Výměnou
-  získá vláda podíl, který ji pravděpodobně učiní největším akcionářem společnosti
-  vedené Patem Gelsingerem, exšéfem Intelu.
+date: '2025-12-02 16:16:00'
+description: Americké ministerstvo obchodu poskytne startupu xLight až 150 milionů
+  dolarů na vývoj pokročilých laserů pro extrémně ultrafialovou litografii. Výměnou
+  získá vláda podíl, který ji učiní největším akcionářem firmy.
 importance: 4
 layout: tech_news_article
-original_title: Trump Administration To Take Equity Stake in Former Intel CEO's Chip
+original_title: Trump Administration To Take Equity Stake In Former Intel CEO's Chip
   Startup
-publishedAt: '2025-12-02T05:29:27+00:00'
+publishedAt: '2025-12-02T16:16:00+00:00'
 slug: trump-administration-to-take-equity-stake-in-forme
 source:
   emoji: 📰
   id: null
   name: Slashdot.org
-title: Administrativa Trumpa získá podíl v startupu na čipy bývalého šéfa Intelu
-url: https://slashdot.org/submission/17342849/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup
+title: Administrativa Trumpa získá podíl v čipovém startupu bývalého šéfa Intelu
+url: https://yro.slashdot.org/story/25/12/02/0530257/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup
+urlToImage: https://a.fsdn.com/sd/topics/government_64.png
+urlToImageBackup: https://a.fsdn.com/sd/topics/government_64.png
 ---
 
-### Souhrn
-Administrativa prezidenta Trumpa schválila investici až 150 milionů dolarů do startupu xLight, který se zaměřuje na zlepšení laserů pro extrémní ultrafialovou lithografii (EUV), klíčový proces ve výrobě pokročilých polovodičů. Peníze pocházejí z fondu Chips and Science Act z roku 2022 a výměnou získá ministerstvo obchodu podíl v firmě. Startup vede jako exekutivní předseda Pat Gelsinger, který byl loni propuštěn z pozice generálního ředitele Intelu kvůli slabým výsledkům a zpožděné expanzi výroby.
+## Souhrn
+Administrativa prezidenta Trumpa v druhém funkčním období souhlasila s investicí až 150 milionů dolarů do startupu xLight, který vyvíjí lasery pro zlepšení procesu extrémně ultrafialové litografie (EUV lithography) v USA. Tento krok využívá prostředky z Chips and Science Act z roku 2022 a je první takovou dohodou v novém prezidentském termínu. Startup vede jako výkonný předseda představenstva Pat Gelsinger, bývalý generální ředitel Intelu.
 
-### Klíčové body
-- Investice až 150 milionů USD z Chips and Science Act, první taková podpora v druhém prezidentském období Trumpa.
-- xLight vyvíjí lasery pro EUV lithografii, které gravírují mikroskopické vzory na křemíkové pláty; cílem je integrace do strojů nizozemské firmy ASML, jediného globálního dodavatele EUV zařízení.
-- Vláda se stane největším akcionářem; dohoda je předběžná a může se změnit.
-- Pat Gelsinger, bývalý šéf Intelu, působí jako exekutivní předseda xLight.
-- Podpora zaměřená na rané fáze slibných technologií v polovodičovém průmyslu.
+## Klíčové body
+- Vláda USA investuje až 150 milionů dolarů do xLight za podíl v akciích, což ji učiní největším akcionářem.
+- xLight se zaměřuje na lasery pro EUV lithografii, klíčový proces pro výrobu pokročilých polovodičů, s cílem integrovat je do strojů holandské firmy ASML.
+- Financování pochází z Chips and Science Act, dohoda je předběžná a může se změnit.
+- Pat Gelsinger, propuštěný z Intelu kvůli slabým výsledkům, je výkonným předsedou xLight.
+- ASML je aktuálně jediným světovým výrobcem EUV strojů, které stojí stovky milionů dolarů.
 
-### Podrobnosti
-xLight je startup založený za účelem inovace v oblasti extrémní ultrafialové lithografie (EUV), což je nejpokročilejší metoda výroby polovodičů umožňující vytvářet tranzistory o velikosti několika nanometrů. Tato technologie je nezbytná pro výrobu výkonných čipů používaných v AI, smartfonech, serverech a vojenských aplikacích. Aktuálně dominuje nizozemská firma ASML, která vyrábí EUV stroje za stovky milionů dolarů za kus – například jejich nejnovější modely High-NA EUV slibují ještě menší struktury pod 2 nm. xLight se soustředí na specifickou součást: lasery, které generují světlo pro gravírování vzorů na chemicky upravené křemíkové pláty (wafers). Tyto lasery musí být extrémně přesné a stabilní, aby umožnily vysokou výtěžnost výroby.
+## Podrobnosti
+xLight je startup zaměřený na vývoj světelných zdrojů, konkrétně laserů, které se používají v procesu EUV lithography. Tento proces umožňuje vyryt nanometrové vzory na křemíkové pláty potažené chemikáliemi, což je nezbytné pro výrobu nejmodernějších polovodičů používaných v procesorech, GPU pro AI nebo pamětech. Aktuálně dominuje holandská firma ASML, která vyrábí kompletní EUV stroje za ceny přesahující stovky milionů dolarů za kus. xLight necílí na celý stroj, ale pouze na jednu klíčovou komponentu – lasery –, které by měly zlepšit přesnost a efektivitu tohoto procesu. Cílem je integrace těchto laserů přímo do existujících ASML systémů, což by mohlo snížit závislost USA na zahraničních dodavatelích.
 
-Startup vede Pat Gelsinger, veterán polovodičového průmyslu, který strávil 30 let v Intelu a vrátil se tam jako CEO v roce 2021 s plánem na obnovu dominance v litografii. Nicméně Intel pod jeho vedením trpěl slabými financemi, zpožděními v továrnách a ztrátou podílu na trhu ve prospěch TSMC a Samsungu. Po propuštění se Gelsinger obrátil k xLight, což představuje jeho druhou šanci v oblasti chipů. Firma plánuje integrovat své lasery do ASML strojů, což by mohlo snížit závislost USA na evropském dodavateli a urychlit domácí výrobu.
+Dohoda byla oznámena ministerstvem obchodu USA v pondělí a využívá fondy určené pro rané fáze vývoje slibných technologií z Chips and Science Act z roku 2022. Tento zákon přidělil desítky miliard dolarů na posílení domácí výroby polovodičů, aby USA snížily rizika spojená s dodávkami z Asie, zejména z Číny a Tchaj-wanu. Pat Gelsinger, který řídil Intel od roku 2021 do konce minulého roku, byl propuštěn kvůli slabým finančním výsledkům a zpožděním v rozšíření výrobních kapacit. Nyní vede xLight jako výkonný předseda představenstva, což představuje jeho druhou šanci v oblasti čipové výroby. Minister obchodu Howard Lutnick označil technologii xLight za potenciálně přetvářející limity výroby čipů, avšak dohoda je stále předběžná a podléhá dalším jednáním.
 
-Investice pochází z Chips and Science Act, zákona schváleného v roce 2022 za 52 miliard USD na podporu americké výroby polovodičů v reakci na dominanci Asie a Číny. Ministerstvo obchodu pod vedením Howarda Lutnicka označilo dohodu za předběžnou, s možností změn. Jedná se o první takovou podporu v Trumpově druhém mandátu, který klade důraz na národní bezpečnost a domácí technologie. xLight, jako raná-stage společnost, patří mezi ty, pro které je fond určen – ne pro velké továrny jako u Intelu nebo TSMC, ale pro inovace s potenciálem prorazit.
+Tento krok navazuje na širší úsilí USA o strategickou nezávislost v polovodičích. Například Intel, TSMC i Samsung staví nové továrny v USA s vládní podporou, ale EUV technologie zůstává úzkým hrdlem kvůli monopolnímu postavení ASML. Pokud xLight uspěje, mohlo by to urychlit vývoj čipů pod 2 nm, což je klíčové pro výkonné AI modely, autonomní systémy a vojenské aplikace.
 
-### Proč je to důležité
-Tato investice posiluje snahu USA o suverenitu v polovodičovém řetězci, kde EUV technologie představuje úzké hrdlo. Závislost na ASML ohrožuje dodávky čipů pro AI modely (jako Nvidia GPU) a vojenské systémy, zejména v kontextu obchodních válkek s Čínou. Úspěch xLight by mohl democratizovat přístup k EUV, snížit náklady a urychlit vývoj čipů pod 2 nm, což je klíčové pro pokrok v AI tréninku a edge computingu. Nicméně rizika jsou vysoká: Gelsingerovo selhání v Intelu ukazuje obtížnosti v této oblasti a mnoho startupů v lithografii zkrachovalo. Pokud dohoda projde, mohla by inspirovat další vládní intervence, ale kritici varují před neefektivním využitím daňových dolarů na spekulativní projekty.
+## Proč je to důležité
+Investice do xLight posiluje snahu USA o domácí kontrolu nad klíčovými technologiemi polovodičů, což má přímý dopad na dodávky GPU pro trénink AI modelů jako GPT nebo Llama. Závislost na ASML omezuje kapacity a zvyšuje rizika v případě geopolitických konfliktů, například kolem Tchaj-wanu. Úspěch xLight by mohl democratizovat přístup k EUV a umožnit rychlejší inovace v AI, robotice a výpočetní technice. Nicméně jako předběžná dohoda nese rizika: startupová fáze je vysoce nejistá, Gelsingerovo selhání v Intelu vyvolává otázky o realizovatelnosti a celkový dopad Chips Act zatím převyšuje skutečné výrobní kapacity. Pro průmysl to znamená potenciální zrychlení vývoje, ale i nutnost sledovat, zda se investice promění v reálné technologie.
 
 ---
 
-[Číst původní článek](https://slashdot.org/submission/17342849/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup)
+[Číst původní článek](https://yro.slashdot.org/story/25/12/02/0530257/trump-administration-to-take-equity-stake-in-former-intel-ceos-chip-startup)
 
 **Zdroj:** 📰 Slashdot.org
