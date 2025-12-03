@@ -3,49 +3,48 @@ author: Marisa Aigen
 category: skládací telefony
 companies:
 - Samsung
-date: '2025-12-02 01:15:20'
-description: Samsung odhalil svůj první smartphone s vícenásobným skládáním Galaxy
-  Z TriFold, který má posílit jeho postavení na trhu skládacích telefonů. Model s
-  10palcovou obrazovkou vyjde na přibližně 3,59 milionu wonů a bude dostupný nejprve
-  v Jižní Koreji.
+date: '2025-12-02 05:10:17'
+description: Model za přibližně 3,59 milionu wonů (2440 USD) se rozkládá do 253,1milimetrového
+  (10palcového) displeje s třemi panely a je téměř o 25 procent větší než nejnovější
+  skládací Galaxy Z Fold 7.
 importance: 3
 layout: tech_news_article
 original_title: Samsung unveils first multi-folding phone as competition set to heat
   up
-publishedAt: '2025-12-02T01:15:20+00:00'
+publishedAt: '2025-12-02T05:10:17+00:00'
 slug: samsung-unveils-first-multi-folding-phone-as-compe
 source:
   emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: Samsung představil první telefon s trojitým skládáním, konkurence se zintenzivní
-url: https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-unveils-first-multi-folding-phone-as-competition-set-to-heat-up/articleshow/125707060.cms
-urlToImage: https://img.etimg.com/thumb/msid-125707063,width-1200,height-630,imgsize-106708,overlay-economictimes/articleshow.jpg
-urlToImageBackup: https://img.etimg.com/thumb/msid-125707063,width-1200,height-630,imgsize-106708,overlay-economictimes/articleshow.jpg
+  id: null
+  name: BusinessLine
+title: Samsung představuje první telefon s vícenásobným skládáním, konkurence se oživuje
+url: https://www.thehindubusinessline.com/info-tech/samsung-unveils-first-multi-folding-phone-as-competition-set-to-heat-up/article70347993.ece
+urlToImage: https://bl-i.thgim.com/public/incoming/9uc4gl/article70348105.ece/alternates/LANDSCAPE_1200/2025-12-02T020526Z_874205636_RC208IAKT387_RTRMADP_3_SAMSUNG-ELEC-SMARTPHONE.JPG
+urlToImageBackup: https://bl-i.thgim.com/public/incoming/9uc4gl/article70348105.ece/alternates/LANDSCAPE_1200/2025-12-02T020526Z_874205636_RC208IAKT387_RTRMADP_3_SAMSUNG-ELEC-SMARTPHONE.JPG
 ---
 
-### Souhrn
-Samsung Electronics představil Galaxy Z TriFold, svůj první smartphone s třemi skládacími panely, který se rozkládá do 10palcové obrazovky. Tento model za cenu kolem 3,59 milionu wonů (přibližně 2440 dolarů) reaguje na rostoucí konkurenci ze strany čínských výrobců v sektoru skládacích zařízení. Prodej v Jižní Koreji začne 12. prosince, následně v Číně, Singapuru, Tchaj-wanu a SAE, v USA nejdříve v prvním čtvrtletí příštího roku.
+## Souhrn
+Samsung Electronics představil svůj první smartphone s vícenásobným skládáním Galaxy Z TriFold. Tento model, který se rozkládá do 10palcového displeje pomocí tří panelů, má posílit pozici společnosti v segmentu skládacích telefonů, kde roste konkurence především od čínských výrobců. Cena dosahuje 3,59 milionu wonů, což odpovídá zhruba 2440 americkým dolarům.
 
-### Klíčové body
-- **Obrazovka**: 253,1 mm (10 palců), o téměř 25 % větší než u Galaxy Z Fold 7.
-- **Cena**: 3,59 milionu wonů, ovlivněná rostoucími náklady na paměťové čipy a komponenty.
-- **Baterie a nabíjení**: Největší kapacita v řadě vlajkových lodí Samsungu, nabije se na 50 % za 30 minut.
-- **Dostupnost**: Výroba v Jižní Koreji, cíleno na zákazníky hledající specifické funkce, ne na masový prodej.
-- **Trh**: Reakce na čínské rivaly, kteří získávají podíl v segmentu skládacích telefonů.
+## Klíčové body
+- **Cena**: 3,59 milionu jihokorejských wonů (přibližně 2440 USD), což ho řadí mezi nejdražší modely na trhu.
+- **Displej**: Po rozložení 253,1 milimetru (10 palců), složený z tří panelů, o 25 procent větší než Galaxy Z Fold 7.
+- **Strategie**: Reakce na čínské konkurenty, kteří získávají podíl v tomto segmentu.
+- **Tržní postavení**: Skládací telefony zůstávají okrajovou kategorií kvůli vysoké ceně a výrobním obtížím.
+- **Prezentace**: Odhaleno v Seulu, s prohlášením Alexa Lima z korejského prodeje a marketingu.
 
-### Podrobnosti
-Samsung Galaxy Z TriFold představuje další krok v evoluci skládacích smartphonů, kde se tři panely rozkládají do jedné velké 10palcové obrazovky. Tento design umožňuje větší pracovní plochu pro multitasking, například simultánní zobrazení více aplikací nebo lepší prohlížení obsahu, což je výhoda oproti standardním skládacím modelům jako Galaxy Z Fold série s jedním skladem. Podle Alexa Lima, výkonného viceprezidenta Samsungu pro prodej a marketing v Koreji, tento telefon není určen jako hlavní tahoun prodeje, ale pro specifickou skupinu uživatelů, kteří hledají maximální flexibilitu displeje.
+## Podrobnosti
+Samsung Galaxy Z TriFold byl představen 2. prosince 2025 v Seulu během akce v prodejně společnosti. Alex Lim, výkonný viceprezident a šéf korejského prodeje a marketingu, prezentoval zařízení jako klíčový krok k posílení dominance v oblasti skládacích displejů. Model využívá tři flexibilní panely, které umožňují postupné rozkládání: nejprve do dvoupanelové podoby podobné současným foldablem a nakonec do plné 10palcové plochy. Tato konstrukce překonává současný Galaxy Z Fold 7 o téměř 25 procent v úžitkárské ploše displeje, což umožňuje lepší multitasking, například simultánní práci s více aplikacemi nebo sledování videa ve větším formátu.
 
-Výroba probíhá v Jižní Koreji, což zajišťuje kontrolu kvality, ale zároveň zvyšuje náklady. Cena 3,59 milionu wonů odráží prudký růst cen paměťových čipů a dalších komponentů, což podle Lima bylo těžkým rozhodnutím. V porovnání s Galaxy Z Fold 7 je TriFold výrazně větší, což ho řadí spíše do kategorie tablet-smartphon hybridů. Baterie je největší v historii Samsungových vlajkových lodí a podporuje rychlé nabíjení, které dosáhne 50 procent kapacity za půl hodiny – ideální pro náročné uživatele, kteří telefon používají pro produktivitu nebo zábavu.
+Výrobní proces zahrnuje pokročilé technologie ohybných OLED displejů, které Samsung vyvíjí ve spolupráci s dodavateli jako BOE nebo Visionox. Nicméně analytici upozorňují na výzvy: vysoké náklady na výrobu (kvůli tenkým sklům a spojům) a citlivost na poškození. Čínští rivalové jako Huawei, Honor nebo Vivo již nabízejí podobné tri-fold modely, často za nižší ceny, díky subsidiem a nižším mzdám. Samsung tak reaguje na ztrátu podílu – globální prodeje skládacích telefonů dosáhly v roce 2024 zhruba 20 milionů kusů, přičemž Samsung drží asi 50 procent, ale Čína roste rychleji.
 
-Konkurenční prostředí se zhoršuje, protože čínští výrobci jako Huawei nebo Oppo už nabízejí podobné multi-folding modely za nižší ceny. Analytici však upozorňují, že vysoká cena a výrobní složitosti udrží skládací telefony v niche segmentu. Samsung tak vsází na prémiovou kvalitu a ekosystém, včetně optimalizace softwaru pro vícepanelové rozložení, kde aplikace jako prohlížeče nebo kancelářské balíky využijí celou plochu.
+Zařízení pravděpodobně sdílí hardware s Galaxy Z řadou: procesor Snapdragon nebo Exynos, 12–16 GB RAM a baterii kolem 4500 mAh optimalizovanou pro různé stavové formy. Softwarově poběží na One UI s podporou DeX pro desktopový režim po rozložení. Dostupnost zatím není specifikována mimo Koreu, ale očekává se globální launch v roce 2026.
 
-### Proč je to důležité
-Představení Galaxy Z TriFold signalizuje, že Samsung nechce ztratit vedení v sektoru skládacích zařízení, kde čínští konkurenti rychle dohánějí díky nižším cenám a inovacím. Pro průmysl to znamená další eskalaci ve vývoji flexibilních displejů a mechanismů skládání, což by mohlo vést k lepší odolnosti a nižším výrobním nákladům v budoucnosti. Pro uživatele to přináší alternativu k tabletům s větší flexibilitou, ale vysoká cena omezí adopci na prémiový segment. V širším kontextu to podtrhuje, že foldable telefony zůstávají experimentální kategorií bez masového potenciálu, na rozdíl od standardních smartphonů, kde dominují optimalizované procesory a AI funkce.
+## Proč je to důležité
+Příchod Galaxy Z TriFold signalizuje zrání technologie skládacích displejů, která přechází od novelty k praktickým zařízením pro profesionály potřebující velkou plochu na mobilu. Pro průmysl to znamená eskalaci soutěže: Samsung musí inovovat rychleji, aby udržel vedení před čínskými firmami, což může snížit ceny v segmentu pod 2000 USD během 2–3 let. Pro uživatele to přináší větší flexibilitu – od kompaktního telefonu k tabletu bez nutnosti nosit obě zařízení. Nicméně vysoká cena a rizika durability omezují masovou adopci; foldable zůstanou niche pro 5–10 procent trhu. V širším kontextu to posiluje ekosystém Androidu v hybridních formách, kde se displejové inovace prolínají s AI optimalizací rozložení obsahu.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-unveils-first-multi-folding-phone-as-competition-set-to-heat-up/articleshow/125707060.cms)
+[Číst původní článek](https://www.thehindubusinessline.com/info-tech/samsung-unveils-first-multi-folding-phone-as-competition-set-to-heat-up/article70347993.ece)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 📰 BusinessLine
