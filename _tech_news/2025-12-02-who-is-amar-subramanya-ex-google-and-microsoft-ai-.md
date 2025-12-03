@@ -1,15 +1,15 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 companies:
 - Apple
 - Google
 - Microsoft
 date: '2025-12-02 00:20:18'
-description: Apple jmenovalo veterána AI Amara Subramanyu novým viceprezidentem pro
-  umělou inteligenci, který nahradí Johna Giannandreu odcházejícího v roce 2026. Subramanya,
-  dříve v Microsoftu a Googlu, povede klíčové projekty včetně Apple Foundation Models
-  a výzkumu strojového učení.
+description: Apple jmenovalo AI veterána Amara Subramanyu novým viceprezidentem pro
+  umělou inteligenci, který nahradí Johna Giannandrea odcházejícího v roce 2026. Subramanya,
+  dříve v Microsoftu a Googlu, bude řídit klíčové oblasti jako Apple Foundation Models,
+  výzkum strojového učení a bezpečnost AI.
 importance: 4
 layout: tech_news_article
 original_title: Who is Amar Subramanya? Ex-Google and Microsoft AI researcher now
@@ -31,23 +31,23 @@ urlToImageBackup: https://img.etimg.com/thumb/msid-125706745,width-1200,height-6
 ---
 
 ## Souhrn
-Apple jmenovalo Amara Subramanyu, zkušeného výzkumníka umělé inteligence z Microsoftu a Google, novým viceprezidentem pro AI. Nahradí Johna Giannandreu, který po osmdesáti letech v Apple odchází v roce 2026. Subramanya bude řídit vývoj Apple Foundation Models, výzkum strojového učení, bezpečnost a hodnocení AI a bude podřízený Craigovi Federighimu, šéfovi oddělení software.
+Apple jmenovalo Amara Subramanyu, zkušeného výzkumníka v oblasti umělé inteligence z Microsoftu a Google, novým viceprezidentem pro AI. Nahradí tak Johna Giannandrea, který odchází do důchodu v roce 2026. Subramanya bude podléhat Craigovi Federighimu a povede vývoj Apple Foundation Models, výzkum strojového učení, bezpečnost a hodnocení AI.
 
 ## Klíčové body
-- Subramanya strávil 16 let v Google, kde dosáhl pozice šéfa inženýrství pro model Gemini, a poté byl v Microsoftu korporátním viceprezidentem pro AI.
-- Přebírá po Giannandreaovi, který čelil kritice za zpoždění vývoje Siri a ztrátu důvěry generálního ředitele Tima Cooka.
-- Zaměří se na Apple Foundation Models (velké jazykové modely pro interní použití v produktech jako Siri), výzkum ML a bezpečnost AI.
-- Apple potvrdilo změnu v tiskové zprávě, což signalizuje snahu posílit konkurenční postavení v AI.
+- Amar Subramanya: 16 let v Google (včetně DeepMind a vedoucí inženýrství pro model Gemini), poté corporate viceprezident pro AI v Microsoftu.
+- John Giannandrea: Přišel do Apple v roce 2018 z Google, řídil vývoj Siri, ale čelil kritice kvůli zpožděním a ztrátě důvěry Tim Cooke.
+- Nové role: Řízení Apple Foundation Models (základní modely pro AI aplikace), ML research (výzkum strojového učení pro zpracování dat a predikce), AI Safety and Evaluation (bezpečnostní mechanismy proti rizikům a testování modelů).
+- Kontext: Apple bojuje s zpožděním personalizované verze Siri, což ovlivnilo jejich postavení v AI závodě.
 
 ## Podrobnosti
-Amar Subramanya je inženýr a výzkumník s dlouholetou praxí v předních technologických firmách. Podle jeho profilu na LinkedIn působil v Google v divizi DeepMind, která se specializuje na pokročilý výzkum umělé inteligence včetně modelů pro zpracování přirozeného jazyka a multimodální systémy. V Google vedl inženýrský tým pro Gemini, což je rodina velkých jazykových modelů schopných zpracovávat text, obrázky a kód, které Google používá v produktech jako Bard nebo integrace do vyhledávače. Následně přešel do Microsoftu, kde jako korporátní viceprezident pro AI řídil vývoj AI nástrojů integrovných do Azure cloudu a produktů jako Copilot.
+Apple oznámilo jmenování Amara Subramanyu v době, kdy jeho současný šéf AI John Giannandrea odchází do důchodu v roce 2026. Giannandrea, který nastoupil do společnosti v roce 2018 z pozice viceprezidenta pro vyhledávání v Google, měl za úkol posílit Apple v rychle se rozvíjející oblasti umělé inteligence. Pod jeho vedením se však Apple potýkalo s problémy, zejména se zpožděným uvedením nové, personalizovanější verze hlasového asistenta Siri, kterou společnost představila minulý rok. Bloomberg dříve hlásil, že generální ředitel Tim Cook ztratil důvěru v Giannandreas schopnost realizovat produktový vývoj, což vedlo k přesunutí odpovědnosti za Siri na jiné manažery.
 
-Apple tento krok podniklo po letech problémů v oblasti AI. John Giannandrea, který přišel z Google v roce 2018 jako viceprezident pro machine learning, měl za úkol posílit AI schopnosti společnosti, včetně asistentky Siri. Siri měla dostat výrazné vylepšení na bázi pokročilých modelů, včetně personalizace a lepšího porozumění kontextu, ale vývoj se zpozdil. Podle zpráv agentury Bloomberg ztratil Tim Cook důvěru v Giannandreu kvůli neschopnosti rychle realizovat produkty, což vedlo k přesunutí odpovědnosti za Siri na jiné manažery. Apple tak zaostává za konkurenty jako OpenAI s GPT modely, Google s Gemini nebo Anthropic s Claude, kteří již nasazují pokročilé funkce v reálných aplikacích.
+Amar Subramanya přináší bohaté zkušenosti z předních technologických firem. Podle jeho profilu na LinkedIn strávil 16 let v Google, kde působil v divizi DeepMind – centru pro pokročilý výzkum umělé inteligence – a dosáhl pozice vedoucího inženýrství pro model Gemini, což je velký jazykový model Google určený pro generování textu, obrázků a multimodální úlohy. Nejnověji byl v Microsoftu corporate viceprezidentem pro AI, kde se podílel na vývoji korporátních AI řešení pro cloudové služby Azure a integraci modelů jako GPT do produktů. Apple ho popisuje jako „renomovaného výzkumníka AI" a jeho úkolem bude řídit kritické oblasti: Apple Foundation Models slouží jako základní vrstvy pro trénink vlastních AI modelů optimalizovaných pro zařízení iPhone a Mac, ML research zahrnuje algoritmy pro učení z dat v reálném čase (např. rozpoznávání obrazu nebo predikce uživatelského chování), zatímco AI Safety and Evaluation zajišťuje testování na bias, halucinace a bezpečnostní rizika, aby modely neprodukovaly škodlivý obsah.
 
-Subramanya nyní přebírá klíčové oblasti: Apple Foundation Models jsou interní velké modely trénované na obrovských datech pro generování textu, analýzu obrázků a rozhodování v zařízeních iPhone nebo Mac. Tyto modely umožňují lokální zpracování dat bez odesílání do cloudu, což je důležité pro soukromí uživatelů. Výzkum strojového učení (ML) zahrnuje algoritmy pro učení z dat, které Apple aplikuje v kamerách, rozpoznávání hlasu nebo predikci chování. Bezpečnost a hodnocení AI se zaměřuje na testování modelů proti halucinacím, biasům a rizikům, jako je útoky na vstupy.
+Tato změna přichází po letech vnitřních výzev pro Apple v AI. Společnost zaostává za konkurenty jako OpenAI, Google nebo Anthropic, kteří rychle vydávají nové verze modelů s lepšími schopnostmi. Subramanyovy zkušenosti z Gemini a Microsoftu by mohly urychlit vývoj on-device AI, kde Apple zdůrazňuje soukromí dat oproti cloudovým řešením.
 
 ## Proč je to důležité
-Tato změna představuje pokus Apple dohnat ztrátu v AI závodě, kde společnost dlouhodobě zaostává za Googlem a Microsoftem v nasazení velkých modelů. Subramanyova expertiza z Gemini a Microsoftu může urychlit vývoj Siri 2.0 a integraci AI do ekosystému iOS a macOS, což by zlepšilo uživatelskou zkušenost v personalizaci, automatizaci úkolů nebo kreativních nástrojích. Pro průmysl to signalizuje, že Apple zvyšuje investice do on-device AI, což ovlivní standardy soukromí oproti cloudovým řešením konkurentů. Nicméně úspěch závisí na tom, zda Subramanya dokáže překonat interní výzvy Apple, jako je uzavřený ekosystém a pomalejší iterace oproti otevřeným modelům jako Llama. Pokud selže, Apple riskuje další ztrátu podílu na trhu AI aplikací.
+Tato změna leadershipu signalizuje Apple snahu dohnat ztrátu v AI závodě, kde jejich Siri zaostává za ChatGPT nebo Gemini v konverzačních schopnostech. Subramanyův příchod může urychlit vývoj Apple Intelligence – sady AI funkcí integrovných do iOS 18 a macOS, včetně vylepšené Siri s kontextovým porozuměním a generováním obsahu. Pro uživatele to znamená potenciálně lepší on-device zpracování bez odesílání dat do cloudu, což posílí soukromí. V širším ekosystému posiluje Apple pozici mezi giganty, kde hiring top talentů z Google a Microsoftu ukazuje konsolidaci expertizy. Nicméně úspěch závisí na tom, zda Subramanya dokáže překonat interní problémy a integrovat foundation models do hardwaru s Neural Engine čipy, což by mohlo ovlivnit trh s prémiovými smartphony a počítači.
 
 ---
 

@@ -1,9 +1,10 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 date: '2025-12-02 00:00:00'
 description: Akademické prostředí není připraveno na rostoucí používání chatbotů mezi
-  studenty – s vhodnými nástroji AI by personalizované učení brzy mohlo stát realitou.
+  studenty – s vhodnými nástroji umělé inteligence by však personalizované učení brzy
+  mohlo stát realitou.
 importance: 3
 layout: tech_news_article
 original_title: Why universities need to radically rethink exams in the age of AI
@@ -20,22 +21,24 @@ urlToImageBackup: https://media.nature.com/lw1200/magazine-assets/d41586-025-039
 ---
 
 ## Souhrn
-Od spuštění ChatGPT v listopadu 2022 se univerzity potýkají s rostoucím používáním generativní umělé inteligence studenty, což ohrožuje tradiční formy hodnocení jako eseje a testy. Průzkum z února mezi více než 1000 britskými studenty ukázal, že 92 % AI využívá, oproti 66 % v roce 2024, a 88 % ho používá pro akademické úkoly. Článek volá po radikálním přehodnocení zkoušek a navrhuje tři slibné přístupy k adaptaci existujících metod.
+Od spuštění ChatGPT koncem roku 2022 pedagógové řeší, jak využít umělou inteligenci k podpoře učení bez ohrožení kvality vzdělávání a spravedlivosti hodnocení. Průzkum z února mezi více než tisíci britskými studenty ukázal, že 92 procent z nich používá AI, oproti 66 procentům v roce 2024. Univerzity potřebují fundamentálně změnit přístup k zkouškám, protože současné metody selhávají.
 
 ## Klíčové body
-- 92 % studentů v UK používá AI v nějaké formě, s důrazem na generativní modely pro tvorbu textu, obrázků a kódu.
-- AI překonává studenty v čtení s porozuměním a programování, což zpochybňuje hodnotu tradičních esejí.
-- Detekční nástroje pro odhalení AI jsou nespolehlivé, vedoucí k náhradám jako orální zkoušky nebo ručně psané testy.
-- Rizika zahrnují povrchní učení, sníženou reflexi a ztrátu autonomie studentů.
-- Potřeba fundamentalního přehodnocení ve prospěch personalizovaného učení s AI.
+- 92 % britských studentů používá AI v nějaké formě, 88 % generativní AI pro akademické úkoly.
+- AI překonává studenty v čtení s porozuměním a programování, což zpochybňuje hodnotu esejů.
+- Detekční nástroje pro odhalení AI jsou nespolehlivé, vedou k dočasným řešením jako orální zkoušky.
+- Rizika zahrnují povrchní učení, méně reflexe a ztrátu autonomie studentů.
+- Navrhuje se radikální přehodnocení s třemi slibnými přístupy k hodnocení.
 
 ## Podrobnosti
-Článek popisuje, jak se používání AI mezi studenty dramaticky zvýšilo: zatímco v roce 2024 jich 53 % spoléhalo na generativní AI pro úkoly, nyní je to 88 %. Generativní AI, jako ChatGPT, generuje text, obrázky nebo kód na základě obrovských datových sad, často kvalitnější než studentské práce. To vede k pochybnostem o tradičních esejích, kde AI simuluje hloubku bez skutečného porozumění. Další problémy zahrnují povrchní učení, kdy studenti kopírují výstupy bez reflexe, a ztrátu agency, kdy se stávají pasivními uživateli.
+Článek analyzuje dopad růstu generativní umělé inteligence, která generuje texty, obrázky či kód z obřích datových sad, na vysokoškolské vzdělávání. Průzkum z února 2025 mezi plnoúpravnými britskými studenty potvrdil dramatický nárůst: z 66 % v roce 2024 na 92 % uživatelů AI. Generativní AI, jako ChatGPT, slouží k tvorbě esejů nebo řešení úkolů, kde často překonává průměrnou studentskou práci. To zpochybňuje tradiční písemné testy, protože AI exceluje v základních úkolech jako čtení s porozuměním nebo programování v jazycích jako Python.
 
-Univerzity reagovaly detekčními nástroji, které však selhávají – například falešně pozitivní nebo negativní výsledky. Proto přecházejí na stres-testy úkolů, orální zkoušky, ručně psané testy nebo reflexivní formáty jako portfolia a deníky. Tyto opatření pomáhají, ale jsou jen dočasná. Článek zdůrazňuje potřebu hlubšího přehodnocení: místo boje proti AI by měly univerzity integrovat AI do výuky. Navrhuje tři přístupy, které adaptují stávající metody – například projektové práce s AI asistencí, kde studenti dokumentují proces spolupráce s modelem, peer-review systémy podporované AI pro hodnocení originality, nebo kontinuální hodnocení založené na interakcích s personalizovanými AI tutory. Tyto nástroje, jako experimentální platformy od firem typu OpenAI nebo Google, umožňují sledovat studentský pokrok v reálném čase, zaměřit se na kritické myšlení místo memorování. V praxi to znamená, že AI tutor, například založený na LLM (large language models), analyzuje odpovědi studenta, navrhuje úkoly na slabiny a generuje individuální testy. Pro průmysl to otevírá trh edtech nástrojů, kde firmy jako Duolingo nebo Khan Academy již testují podobné systémy.
+Univerzity reagují detekčními nástroji, například systémy jako Turnitin nebo GPTZero, které skenují texty na stopy AI generace. Tyto nástroje však selhávají: vykazují vysokou míru falešných pozitiv a negativ, což vede k nespravedlivému obviňování studentů nebo prohlížení podvodů. Dočasná řešení zahrnují „stresové testy" písemných prací, kde se zkouší odolnost vůči AI, nebo přechod na orální zkoušky, ručně psané testy, portfolia a deníky. Tyto formáty umožňují lepší posouzení procesového učení, kde student musí vysvětlit své myšlenky ústně nebo v reflexivních textech.
+
+Problémy jdou hlouběji: nadměrná závislost na chatbotech vede k povrchnímu učení, protože studenti kopírují odpovědi bez pochopení. Ztrácí se příležitosti k sebehodnocení a studenti se stávají pasivními konzumenty technologie místo aktivních tvůrců znalostí. Článek navrhuje tři slibné přístupy k hodnocení, které adaptují stávající metody: personalizované úkoly generované AI, které se mění podle studenta a brání kopírování; kontinuální hodnocení založené na datech z interakcí se systémy AI; a hybridní formáty kombinující AI nástroje s lidským dohledem. Například AI tutor jako Khanmigo od Khan Academy by mohl generovat unikátní problémy a sledovat pokrok v reálném čase.
 
 ## Proč je to důležité
-Tento vývoj ovlivňuje širší ekosystém vzdělávání a AI: tradiční zkoušky selhávají v měření dovedností potřebných v budoucnosti, kde AI převezme rutinní úkoly. Univerzity musí přejít k hodnocení kreativity, etiky a aplikace znalostí, což posílí konkurenceschopnost absolventů v IT a robotice. Bez adaptace hrozí pokles kvality vzdělávání; naopak úspěšná integrace AI umožní škálovatelné personalizované učení, snižující nerovnosti. V kontextu rychlého pokroku LLM, jako GPT-4o nebo Claude 3.5, se stává nezbytným standardem, který ovlivní i firemní školení a certifikace.
+Tento vývoj ovlivňuje celý vzdělávačský systém, kde AI mění podstatu učení. Pokud univerzity nezapracují AI do hodnocení, riskují ztrátu relevance v pracovním trhu, kde znalosti AI jsou standardem. Personalizované učení přes AI by mohlo zvýšit efektivitu, ale vyžaduje etické směrnice proti závislosti. V širším kontextu to nutí přehodnotit akademickou integritu: detekce selže, takže je lepší integrovat AI jako nástroj, například pro scaffolded learning, kde student buduje na AI výstupu. Pro průmysl to znamená lepší připravené absolventy schopné spolupracovat s AI, což je klíčové v oblastech jako datová analýza nebo softwarový vývoj.
 
 ---
 

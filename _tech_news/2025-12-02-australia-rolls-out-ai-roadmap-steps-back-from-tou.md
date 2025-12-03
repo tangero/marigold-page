@@ -2,10 +2,9 @@
 author: Marisa Aigen
 category: umělá inteligence
 date: '2025-12-02 00:48:50'
-description: Austrálie zveřejnila národní plán pro umělou inteligenci, který má urychlit
-  její adopci v ekonomice, ale místo nových přísných pravidel se spoléhá na stávající
-  zákony k řízení rizik. Tento přístup znamená ústup od dřívějších záměrů zavést specifické
-  regulace pro vysorizikové aplikace AI.
+description: 'Sydney, 2. prosince: Austrálie představila národní plán pro rozšíření
+  adopce umělé inteligence v ekonomice, přičemž se rozhodla spoléhat na stávající
+  zákony pro řízení rizik místo nových přísných regulací pro vysoce rizikové scénáře.'
 importance: 3
 layout: tech_news_article
 original_title: Australia rolls out AI roadmap, steps back from tougher rules
@@ -16,33 +15,31 @@ source:
   id: null
   name: CNA
 title: Austrálie představuje roadmapu pro umělou inteligenci, ustupuje od přísnějších
-  regulací
+  pravidel
 url: https://www.channelnewsasia.com/business/australia-rolls-out-ai-roadmap-steps-back-tougher-rules-5521451
 urlToImage: https://dam.mediacorp.sg/image/upload/s--rO_cRSZS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-02T004850Z_1_LYNXMPELB101A_RTROPTP_3_AUSTRALIA-DAILYLIFE.JPG?itok=NxUC-930
 urlToImageBackup: https://dam.mediacorp.sg/image/upload/s--rO_cRSZS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-02T004850Z_1_LYNXMPELB101A_RTROPTP_3_AUSTRALIA-DAILYLIFE.JPG?itok=NxUC-930
 ---
 
-### Souhrn
-Austrálie 2. prosince 2025 zveřejnila Národní plán pro umělou inteligenci (National AI Plan), který se zaměřuje na rozšíření adopce AI v celé ekonomice. Místo zavedení nových přísných regulací vláda potvrdila, že bude využívat existující právní rámec k řešení rizik spojených s AI. Plán zahrnuje investice do datových center, rozvoj dovedností a zřízení Ústavu pro bezpečnost AI v roce 2026.
+## Souhrn
+Austrálie zveřejnila Národní plán pro umělou inteligenci, který má urychlit zavádění AI do ekonomiky. Vláda se rozhodla neuvádět nové specifické zákony pro AI, ale spoléhat se na existující právní rámec k řešení rizik. Místo přísnějších opatření pro vysokorizikové aplikace plánuje investice do datových center a dovedností.
 
-### Klíčové body
-- Podpora adopce AI prostřednictvím investic do pokročilých datových center a budování pracovních dovedností.
-- Spoléhání na stávající regulace místo nových specifických zákonů pro AI.
-- Zřízení Ústavu pro bezpečnost AI v roce 2026 k posouzení rizik.
-- Agence a regulátoři budou odpovědní za identifikaci a řízení škod v jejich sektorech.
-- Ústup od plánů na dobrovolné směrnice z minulého roku kvůli obavám z soukromí, bezpečnosti a transparentnosti.
+## Klíčové body
+- Žádné nové specifické zákony pro AI, využití stávajících regulací.
+- Zaměření na přilákání investic do pokročilých datových center a rozvoj AI dovedností pro ochranu pracovních míst.
+- Zřízení AI Safety Institute v roce 2026 pro posouzení rizik.
+- Agentury a regulátoři budou řídit rizika v rámci svých sektorů.
+- Předchozí plány na dobrovolné směrnice z roku 2024 byly opuštěny ve prospěch flexiblějšího přístupu.
 
-### Podrobnosti
-Australská labouristická vláda, která nemá žádné specifické zákony týkající se umělé inteligence, v úterý 2. prosince 2025 představila Národní plán pro AI. Tento dokument reaguje na rostoucí integraci AI do každodenního života a ekonomiky, ale klíčovým bodem je odmítnutí přísnějších regulací. Místo toho plán zdůrazňuje, že "vládní regulační přístup k AI bude nadále stavět na robustním existujícím právním a regulačním rámci Austrálie, přičemž stávající zákony zůstanou základem pro řešení a zmírnění rizik spojených s AI".
+## Podrobnosti
+Australská labouristická vláda, která nemá žádné specifické zákony pro umělou inteligenci, původně v loňském roce naznačovala zavedení dobrovolných směrnic kvůli obavám z ochrany soukromí, bezpečnosti a transparentnosti. Národní plán pro AI, zveřejněný 2. prosince, však tento směr mění. Dokument klade důraz na ekonomickou integraci AI: přilákání investic do datových center pro zpracování velkých objemů dat nutných pro trénink AI modelů, rozvoj dovedností pracovní síly, aby AI neohrozila stávající zaměstnanost, a zajištění veřejné bezpečnosti při každodenním nasazení technologií jako jsou velké jazykové modely nebo autonomní systémy.
 
-Plán se soustředí na tři hlavní pilíře: přilákání investic do pokročilých datových center, která jsou nezbytná pro trénink a provoz velkých AI modelů jako jsou LLM (large language models), budování dovedností pro podporu pracovních míst a zajištění veřejné bezpečnosti. Datová centra umožňují škálování AI aplikací, například v oblasti zdravotnictví pro diagnostiku zobrazení nebo v logistice pro optimalizaci dodavatelských řetězců. Vláda plánuje podporovat vzdělávání v AI, aby pracovní síla mohla efektivně spolupracovat s těmito technologiemi a chránit stávající zaměstnanost před automatizací.
+Plán explicitně uvádí, že regulační přístup bude stavět na robustním existujícím právním rámci. To znamená, že rizika jako bias v algoritmech, úniky dat nebo dezinformace budou řešena prostřednictvím současných zákonů o ochraně dat (např. Privacy Act), spotřebitelské ochraně a sektorově specifických předpisů. Agentury jako Australian Competition and Consumer Commission nebo Office of the Australian Information Commissioner zůstanou odpovědné za identifikaci a mitigaci škod v oblastech jako finance, zdravotnictví nebo doprava. Tento přístup kontrastuje s přísnějšími modely jinde: například Evropský AI Act klasifikuje AI podle rizikovosti a zavádí povinné testování pro vysokorizikové systémy, zatímco USA spoléhají na dobrovolné rámce od společností jako OpenAI.
 
-Minulý rok vláda signalizovala zavedení dobrovolných směrnic kvůli obavám z porušení soukromí, bezpečnosti a nedostatku transparentnosti v AI systémech, jako jsou generativní modely schopné vytvářet deepfakes nebo rozhodovací algoritmy v justici. Nyní však agendy a regulátoři v jednotlivých sektorech – například v telekomunikacích nebo finance – přebírají odpovědnost za identifikaci rizik, jako jsou biasy v AI modelech nebo kybernetické hrozby. Vláda oznámila zřízení Ústavu pro bezpečnost AI v roce 2026, který bude pomáhat s hodnocením rizik, podobně jako britský AI Safety Institute, který testuje modely na bezpečnostní slabiny.
+Dalším krokem je založení AI Safety Institute v roce 2026, který má pomoci s hodnocením rizik, testováním modelů a vývojem standardů. Institut bude podobný britskému AI Safety Institute a zaměří se na bezpečnostní aspekty, jako je robustnost proti jailbreakům nebo predikce společenských dopadů. Plán také zdůrazňuje etické aspekty, ale bez vymahatelných sankcí.
 
-Tento přístup kontrastuje s Evropskou unií, kde platí AI Act s kategorizací rizik od minimálních po nepřípustné, nebo s USA, kde dominuje sektorově specifická regulace. Austrálie tak volí flexibilní model, který má podpořit inovace bez brzdy byrokracií.
-
-### Proč je to důležité
-Národní plán Austrálie ukazuje trend v demokratických zemích směrem k lehčím regulacím AI, což umožňuje rychlejší adopci v sektorech jako finance, zdravotnictví a veřejná správa. Pro průmysl to znamená méně administrativní zátěže, ale vyšší odpovědnost firem za compliance se stávajícími zákony, například GDPR-analogy v Austrálii pro ochranu dat. V širším kontextu posiluje to globální závod v AI, kde země jako Austrálie, spoléhající se na investice do infrastruktury, mohou konkurovat Číně nebo USA. Riziko spočívá v potenciálním podceňování systémových hrozeb, jako jsou autonomní zbraně nebo masivní dezinformace, pokud nebudou sektoroové regulátoři dostatečně vybaveni. Pro uživatele v Austrálii to znamená plynulejší integraci AI do každodenních aplikací, ale s menší jistotou ohledně dlouhodobé bezpečnosti.
+## Proč je to důležité
+Tento opatrný přístup Austrálie odráží globální dilema mezi inovací a regulací. Pro průmysl znamená nižší bariéry pro nasazení AI v oblastech jako zdravotnictví (diagnostika pomocí AI modelů) nebo zemědělství (optimalizace úrody), což může posílit ekonomiku v regionu Asie-Pacifik. Nicméně kritici upozorňují na rizika: bez specifických pravidel pro high-risk AI, jako jsou autonomní zbraně nebo deepfakes, mohou nastat incidenty podobné těm v USA (např. bias v rekurzích). V širším kontextu posiluje to trend "light-touch" regulace, který sledují i Velká Británie a Singapur, oproti restriktivnímu EU modelu. Pro uživatele v Česku a EU to znamená, že australské firmy budou konkurovat s menšími regulačními zátěžemi, což ovlivní globální dodavatelské řetězce AI technologií.
 
 ---
 

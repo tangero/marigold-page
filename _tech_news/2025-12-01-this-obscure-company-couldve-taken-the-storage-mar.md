@@ -4,9 +4,9 @@ category: holografické úložišt
 companies:
 - InPhase Technologies
 date: '2025-12-01 23:17:00'
-description: Firma InPhase Technologies, odštěpená z Bell Labs, se snažila prorazit
-  v holografickém úložišti, které slibovalo obrovské kapacity dat. Zpoždění v produkci
-  a nereálné lhůty však vedly k neúspěchu.
+description: InPhase Technologies se snažila prorazit v holografickém úložišti, ale
+  zpoždění v produkci a těsné lhůty vedly k neúspěchu. Firma slíbila multi-terabajtové
+  kapacity, ale skončila s 300GB systémem, který nestačil na konkurenci.
 importance: 3
 layout: tech_news_article
 original_title: This obscure company could’ve taken the storage market by storm –
@@ -17,32 +17,30 @@ source:
   emoji: 📰
   id: techradar
   name: TechRadar
-title: Tato neznámá firma mohla ovládnout trh s úložišti – vývoj komerčně životaschopného
-  holografického úložiště se však ukázal jako nedosažitelný cíl
+title: Tato neznámá společnost mohla ovládnout trh s úložišti – ale komerčně životaschopné
+  holografické úložiště bylo nedosažitelné
 url: https://www.techradar.com/pro/this-obscure-company-couldve-taken-the-storage-market-by-storm-but-building-commercially-viable-holographic-storage-was-simply-a-bridge-too-far
 urlToImage: https://cdn.mos.cms.futurecdn.net/3fu9etwmGBBum48JxjAACQ-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/3fu9etwmGBBum48JxjAACQ-2560-80.jpg
 ---
 
 ## Souhrn
-Firma InPhase Technologies, založená v roce 2000 jako odštěpení z Bell Labs, se pokusila komercializovat holografické úložiště, které mělo nabídnout kapacity v řádu terabajtů. Přestože v roce 2008 uvedla na trh systém Tapestry 300r s kapacitou 300 GB, vývoj byl poznamenán opakovanými zpožděními a vysokými náklady. Projekt nakonec selhal kvůli technickým složitostem a nereálným termínům.
+Společnost InPhase Technologies, odštěpená z Bell Labs v roce 2000, se pokusila změnit trh s datovými úložišti pomocí holografického úložiště, které ukládá data v třech rozměrech. Navzdory slibům multi-terabajtových kapacit a vysokých rychlostí selhala kvůli opakovaným zpožděním a technickým výzvám. Nakonec v roce 2008 uvedla systém Tapestry 300r s kapacitou 300 GB a rychlostí 20 MB/s, což nestačilo na komerční úspěch.
 
 ## Klíčové body
-- InPhase Technologies slibovala multi-terabajtové úložiště pomocí 3D holografického zápisu dat lasery.
-- První produkt Tapestry 300r měl kapacitu 300 GB a rychlost čtení/zápisu 20 MB/s.
-- Plánovaný start v roce 2006 se posunul na 2008 kvůli problémům s médii, přesností mechanik a algoritmy.
-- V roce 2010 média potvrdila výrobní potíže a selhání komercializace.
-- Technologie přitahuje zájem velkých firem jako Microsoft, ale zůstává mimo komerční použití.
+- Odštěpení z Bell Labs v roce 2000 se sídlem v Coloradu, zaměřená na vývoj holografického úložiště.
+- Technologie holografického úložiště ukládá data v objemu pomocí laserů, na rozdíl od povrchového ukládání na DVD nebo pevných discích.
+- Plánovaný start v roce 2006 posunutý na 2007 a nakonec 2008 kvůli problémům s výrobou.
+- Tapestry 300r: 300 GB kapacita, rychlost čtení/zápisu 20 MB/s.
+- Hlavní překážky: složité materiály pro nosiče, přesnost mechanických komponent, stabilita a algoritmy firmware.
 
 ## Podrobnosti
-InPhase Technologies, se sídlem v Coloradu, vznikla v roce 2000 jako spin-off z Bell Labs a zaměřila se na holografické úložiště. Tato technologie ukládá data v třech rozměrech v objemovém médiu pomocí laserů, na rozdíl od povrchového zápisu na optických discích jako DVD nebo pevných discích. Princip spočívá v tom, že dva coherentní lasery – referenční a signálový – vytvářejí interference vzory v materiálu, které kodují data. Při čtení se použije pouze referenční laser k rekonstrukci signálu. Tento přístup teoreticky umožňuje mnohem vyšší hustotu dat, protože využívá celý objem materiálu, nejen povrch.
+InPhase Technologies vznikla jako spin-off z Bell Labs, laboratoří známých příspěvky v optických technologiích, a chtěla komercializovat holografické úložiště. Tato technologie využívá lasery k vytváření interferenčních vzorů v objemu nosiče, což umožňuje uložit mnohem více dat než tradiční 2D metody na optických discích nebo magnetických pevných discích. Firma měla podstatné investice a marketingově slibovala zařízení s kapacitou v řádu multi-terabajtů, což by v raných 2000. letech znamenalo revoluci pro archivy dat, servery a profesionální úložiště.
 
-Společnost získala významné investice a plánovala rychlý vstup na trh. V marketingových materiálech slibovala zařízení s kapacitou stovek gigabajtů až terabytů při přenosových rychlostech desítek MB/s. Vývoj vedl k systému Tapestry 300r, který v únoru 2008 dosáhl kapacity 300 GB na disk a rychlosti 20 MB/s pro čtení i zápis. Disky měly průměr 12 cm a používaly fotopolymer jako zápisové médium.
-
-Cesta k uvedení byla však plná problémů. Původní oznámení z roku 2004 slibovalo start v roce 2006, posunuté na 2007 a nakonec 2008. Podle zpráv z The Register z roku 2010, citujících zdroje z firmy, selhaly výzvy v formulaci zápisového média, přesnosti a stabilitě mechanických komponent mechaniky a optimalizaci softwaru či firmware algoritmů pro dekódování signálů. Tyto složitosti způsobily vysoké náklady a zpoždění, které investorům přišly nereálné. Navíc konkurence z pevných disků a NAND flash rychle rostla v cenové dostupnosti a výkonu, což holografii ještě více marginalizovalo. InPhase se pokusila o partnerství, ale v roce 2010 ohlásila zastavení vývoje.
+Vývoj ale narazil na řadu technických bariér. Klíčové problémy zahrnovaly formulaci nosičů pro zápis dat, kde musely být materiály citlivé na laserovou expozici bez degradace. Mechanické součásti mechaniky vyžadovaly extrémní přesnost a stabilitu pro správné vyrovnání laserů, což zvyšovalo náklady. Navíc algoritmy ve firmware musely zpracovávat složité 3D vzory dat pro rychlé čtení a zápis. První oznámení o produktu Tapestry bylo v roce 2006, ale termíny se posouvaly – nejprve na únor 2007, pak na 2008. V roce 2010 zprávy serveru The Register odhalily, že interní zdroje označily vývojové lhůty za nereálné a produkci za příliš nákladnou. Tapestry 300r nakonec nabízelo 300 GB na cartridge, s rychlostí 20 MB/s, což bylo v éře rostoucích HDD s terabajty nedostatečné. Firma postupně ukončila aktivity a technologie se neprosadila komerčně, přestože zájem o holografii přetrvává – dnes se jí zabývají firmy jako Microsoft pro dlouhodobé archivy petabajtů dat.
 
 ## Proč je to důležité
-Příběh InPhase ilustruje typické pasti v komercializaci pokročilých úložišť: vysoké vývojové náklady a pomalý pokrok oproti inkrementálním zlepšením stávajících technologií. Holografické úložiště by mohlo dnes sloužit pro archivní účely s extrémní hustotou, kde pevné disky selhávají v dlouhodobé stabilitě. Zájem Microsoftu naznačuje potenciál pro cloudové archivy, ale bez průlomu v materiálech a cenách zůstane okrajové. Pro průmysl to znamená lekci: ambiciózní technologie potřebují realistické milníky, jinak riskují ztrátu investorů na úkor zralých řešení jako SSD.
+Příběh InPhase ilustruje typické pasti při komercializaci pokročilých úložišť: vysoké náklady na vývoj a obtížné škálování z laboratoře do masové výroby. V kontextu současného trhu, kde SSD a cloudové úložiště dominují, ukazuje, proč holografické systémy zatím selhávají – chybí ekonomická výhoda oproti stávajícím technologiím. Nicméně s růstem datových center a potřebou dlouhodobých archivů (např. pro AI tréninkové datasety) by holografie mohla najít niku, pokud firmy jako Microsoft překonají tyto bariéry. Pro průmysl to slouží jako lekce o realitě technologických slibů.
 
 ---
 

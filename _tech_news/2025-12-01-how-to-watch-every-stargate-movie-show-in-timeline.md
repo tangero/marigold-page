@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: sci-fi
+category: vědecká fantastika
 companies:
 - Amazon
 date: '2025-12-01 23:05:00'
-description: Amazon oživuje sci-fi franšízi Stargate novou sérií pro Prime Video,
-  která naváže na stávající televizní kanon. Tento průvodce nabízí chronologické pořadí
-  pro sledování všech kanonických děl před příchodem nového obsahu.
+description: Amazon oživuje sci-fi franšízi Stargate novým seriálem pro Prime Video
+  s tvůrci původního filmu z roku 1994. Článek nabízí průvodce chronologickým sledováním
+  kanonických děl, aby diváci mohli franšízi prozkoumat před příchodem nové série.
 importance: 3
 layout: tech_news_article
 original_title: How To Watch Every Stargate Movie & Show In Timeline Order Ahead Of
@@ -18,33 +18,33 @@ source:
   id: null
   name: ComicBook.com
 title: Jak sledovat všechny filmy a seriály Stargate v chronologickém pořadí před
-  oživením franšíze
+  jeho oživením
 url: http://comicbook.com/tv-shows/list/how-to-watch-every-stargate-movie-show-in-timeline-order-ahead-of-its-revival/
 urlToImage: https://comicbook.com/wp-content/uploads/sites/4/2025/07/Stargate-SG-1-Stargate.jpg?resize=2000,1125
 urlToImageBackup: https://comicbook.com/wp-content/uploads/sites/4/2025/07/Stargate-SG-1-Stargate.jpg?resize=2000,1125
 ---
 
 ## Souhrn
-Amazon restartuje franšízi Stargate vývojem nové série pro platformu Prime Video. Projekt vede showrunner Martin Gero společně s tvůrci původního filmu z roku 1994 Rolandem Emmerichem a Deanem Devlinem i televizními veterány Bradem Wrightem a Joe Mallozzim. Jedná se o pokračování existujícího kanonu, přístupné nováčkům i fanouškům.
+Amazon restartuje franšízi Stargate vývojem nového seriálu pro platformu Prime Video. Projekt spojuje tvůrce původního filmu z roku 1994 Rolanda Emmericha a Deana Devlina s veterány televizních sérií jako Martin Gero, Brad Wright a Joe Mallozzi. Novinka nebude restartem, ale pokračováním stávajícího televizního kánonu, přístupným pro nové diváky i fanoušky.
 
 ## Klíčové body
-- Revival není rebootem, ale navazuje na televizní kanon od Stargate SG-1 po Universe.
-- Vyloučen animovaný seriál Stargate Infinity, který není součástí oficiálního kanonu.
-- Franšíze zahrnuje tři televizní seriály, dva filmy přímo na DVD a prequel webovou sérii.
-- Chronologické pořadí začíná filmem Stargate z roku 1994.
-- Nová série má přilákat nové diváky a odměnit dlouholeté fanoušky.
+- Amazon angažuje původní tvůrce filmu i televizních sérií pro nový seriál na Prime Video.
+- Série nebude restartem, ale naváže na kánon z let 1994–2011.
+- Průvodce chronologií zahrnuje film, tři hlavní seriály, dva filmy přímo na DVD a prequelovou webovou sérii.
+- Animovaná série Stargate Infinity je vynechána, protože není součástí oficiálního kánonu.
+- Cílem je přilákat nové diváky před revivalem franšíze.
 
 ## Podrobnosti
-Franšíze Stargate, zahájená filmem z roku 1994, se rozrostla do rozsáhlého vesmíru s prvky starověké mytologie, mimozemských civilizací a mezihvězdného cestování prostřednictvím zařízení nazvaného Stargate. Toto zařízení vytváří červí díry pro okamžité přenosy mezi planetami. Původní film režírovaný Rolandem Emmerichem představuje plukovníka Jacka O’Neilla (Kurt Russell) a egyptologa Daniela Jacksona (James Spader), kteří prozkoumávají planetu Abydos ovládanou mimozemšťanem Ra předstírajícím egyptského boha Slunce.
+Franšíze Stargate odstartovala v roce 1994 celovečerním filmem režírovaným Rolandem Emmerichem. Ten představuje starobylé mimozemské zařízení nazvané Stargate, které vytváří červí díry pro okamžité cestování vesmírem. Hlavní postavy, plukovník Jack O’Neill (Kurt Russell) a egyptolog Daniel Jackson (James Spader), prozkoumávají planetu Abydos, kde najdou lidskou civilizaci zotročenou mimozemšťanem Ra, který se vydává za egyptského boha Slunce.
 
-Chronologické sledování pokračuje pilotní epizodou Stargate SG-1 „Children of the Gods“ (1x01-1x02), kde se vrací O’Neill a Jackson do aktivní služby po událostech filmu. Seriál Stargate SG-1 (1997–2007, 10 sezón) rozvíjí příběh týmu SG-1, který bojuje proti symbiotickým Goaul’dům a objevuje další rasy jako Asgardy nebo Nox. Po skončení SG-1 následuje spin-off Stargate Atlantis (2004–2009, 5 sezón), odehrávající se paralelně v částech, zaměřený na expedici do galaxie Pegasus proti hrozbě Wraithů.
+Po úspěchu filmu následoval seriál Stargate SG-1 (1997–2007), který rozšiřuje příběh o týmu SG-1 pod vedením O’Neilla a Jacksona. Tento seriál, který měl deset sezón, prozkoumává galaxii, bojuje proti mimozemským entitám jako Goa’uldové a odhaluje starověké civilizace. V roce 2004 vyšel spin-off Stargate Atlantis, odehrávající se v Pegase galaxii, kde tým čelí hrozbě Wraithů – upířími mimozemšťany. Tento seriál měl pět sezón a dva pokračovací filmy: Stargate: The Ark of Truth (2008) a Stargate: Continuum (2008), které uzavírají dějové linie SG-1.
 
-Další spin-off Stargate Universe (2009–2011, 2 sezóny) se soustředí na posádku lodi Destiny, uvězněnou na opačném konci vesmíru, s důrazem na přežití a morální dilemata. Mezi seriály se zařazují dva filmy přímo na DVD: Stargate: The Ark of Truth (2008), uzavírající příběh Ori z SG-1, a Stargate: Continuum (2008), který mění minulost pomocí časového cestování. Prequel webová série Stargate Origins (2018, 10 dílů) se vrací k objevu Stargatu v 30. letech 20. století, představuje Catherine Langfordovou a jejího otce.
+Další pokračování přinesl Stargate Universe (2009–2011) s dvěma sezónami, zaměřený na posádku lodi Destiny, která je uvězněna ve vzdálené části vesmíru. K tomu patří prequelová webová série Stargate Origins (2018), která se vrací k objevu Stargatu v 30. letech 20. století. Celkově franšíze nabízí přes 400 epizod a filmy, což může nové diváky odradit. Tento chronologický pořadí – film, SG-1, Atlantis, Universe, plus webová série a DVD filmy – umožňuje pochopit souvislosti bez ztráty kontextu.
 
-Toto pořadí umožňuje pochopit komplexní lore, včetně technologií jako ZPM (Zero Point Modules) pro napájení Stargatů nebo lodí typu Daedalus. Pro sledování je ideální platforma Prime Video, kde je většina obsahu dostupná, případně Hulu nebo nákup na iTunes. Celková délka franšíze přesahuje 400 hodin, což vyžaduje plánování.
+Nový seriál povede showrunner Martin Gero, který pracoval na SG-1, Atlantis i Universe. Spolu s Bradem Wrightem a Joe Mallozzim, kteří mají zkušenosti z původních sérií, a Emmerichem s Devlinem, slibují pokračování kanonu. Detaily děje zůstávají utajené, ale projekt má být přístupný i bez předchozího sledování. Franšíze byla neaktivní od konce Universe v roce 2011, přičemž animovaná Stargate Infinity (2002–2003) je ignorována tvůrci jako nekánonická.
 
 ## Proč je to důležité
-Oživení Stargate posiluje obsahovou nabídku Prime Video v segmentu sci-fi, kde Amazon soutěží s Netflixem a Disney+. Pro průmysl streamingu znamená návrat etablované franšíze snížení rizik spojených s originálním obsahem – kanon přitáhne 10 milionů fanoušků z minulosti a přiláká nové diváky díky přístupnosti. V širším tech ekosystému podtrhuje trend konsolidace IP ve velkých platformách, kde algoritmy doporučení maximalizují retenci uživatelů. Pro fanoušky to otevírá dveře k expanzi vesmíru, potenciálně s integrací moderních efektů a témat jako umělá inteligence v mimozemských technologiích, což by mohlo ovlivnit budoucí narativy.
+Revival Stargate podtrhuje strategii Amazonu v expanzi Prime Video do prémiového obsahu, kde soutěží s Netflixem a Disney+. Pro sci-fi žánr představuje návrat etablované franšíze s bohatým kánonem, což může přilákat miliony diváků a generovat příjmy z odběrů. V širším kontextu ukazuje, jak velké platformy oživují starší IP pro maximalizaci katalogu, což ovlivňuje obsahovou produkci v streamingu. Pro fanoušky znamená příležitost k rozšíření univerza, zatímco noví diváci získají vstupní bod bez nutnosti sledovat vše. Tento krok posiluje postavení Amazonu v zábavním průmyslu, kde data z diváckého chování řídí investice do sérií.
 
 ---
 

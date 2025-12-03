@@ -1,15 +1,15 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 companies:
 - Apple
 - Microsoft
 - Google
 date: '2025-12-02 00:03:02'
-description: Apple jmenoval bývalého pracovníka Microsoftu a Google Amara Subramanyu
-  novým šéfem umělé inteligence, který nahradí Johna Giannandreu. Tato změna vedení
-  přichází v době, kdy Apple usiluje o dohnání konkurentů v AI a připravuje vylepšenou
-  verzi Siri pro rok 2026.
+description: Apple jmenovalo bývalého Microsoft a Google manažera Amara Subramanyu
+  novým šéfem umělé inteligence, který nahradí Johna Giannandreu. Tato změna leadershipu
+  přichází v době, kdy Apple usiluje dohnat konkurenty v umělé inteligenci a připravuje
+  vylepšenou Siri pro rok 2026.
 importance: 4
 layout: tech_news_article
 original_title: Who is Amar Subramanya? Apple taps ex- Microsoft & Google AI executive
@@ -23,32 +23,34 @@ source:
   emoji: 📰
   id: null
   name: Livemint
-title: Kdo je Amar Subramanya? Apple povolává bývalého šéfa AI z Microsoftu a Google
-  na místo odcházejícího Johna Giannandreu
+title: Kdo je Amar Subramanya? Apple jmenuje bývalého AI šéfa z Microsoftu a Google
+  místo odcházejícího Johna Giannandreu
 url: https://www.livemint.com/companies/news/who-is-amar-subramanya-apple-taps-ex-microsoft-and-google-ai-executive-to-replace-retiring-chief-john-giannandrea-11764633150655.html
 urlToImage: https://www.livemint.com/lm-img/img/2025/12/01/1600x900/EU-APPLE--1_1764610703861_1764610715873_1764633309374.JPG
 urlToImageBackup: https://www.livemint.com/lm-img/img/2025/12/01/1600x900/EU-APPLE--1_1764610703861_1764610715873_1764633309374.JPG
 ---
 
 ### Souhrn
-Apple 1. prosince 2025 oznámil významnou změnu ve vedení své divize umělé inteligence. Bývalý manažer z Microsoftu a Google, indického původu Amar Subramanya, nastoupí na post šéfa AI místo dlouholetého lídra Johna Giannandreu, který odejde do důchodu příští jaro. Tento krok souvisí s tlakem na Apple kvůli zaostávání za rivaly jako Microsoft, Google a Meta v oblasti pokročilých AI technologií.
+Apple 2. prosince 2025 oznámilo významnou změnu ve vedení své divize umělé inteligence. Bývalý manažer z Microsoftu a Google indického původu Amar Subramanya nastoupí jako nový šéf AI místo dlouholetého lídra Johna Giannandreu, který odchází do důchodu. Tento krok souvisí s tlakem na Apple, aby dohnal rivaly v AI a dokončil vývoj vylepšené Siri pro rok 2026.
 
 ### Klíčové body
-- **Amar Subramanya**: Indický výzkumník, který působil v klíčových rolích u Microsoftu a Google, zaměřených na vývoj AI modelů a strojové učení.
-- **John Giannandrea**: Od roku 2018 senior viceprezident pro strojové učení a AI strategii v Apple; zůstane poradcem do svého odchodu na jaře 2026.
-- **Kontext změny**: Apple Intelligence, spuštěné v roce 2024, získalo jen vlažné recenze; společnost připravuje výrazně vylepšenou Siri pro rok 2026.
-- **Strategický tlak**: Analytici kritizují Apple za pomalý pokrok v AI oproti konkurentům po úspěchu ChatGPT v roce 2022.
-- **Časování**: Nejvýznamnější přeskupení v AI týmu Apple od spuštění Apple Intelligence.
+- Amar Subramanya, expert na AI z Microsoftu a Google, nahrazuje Johna Giannandreu jako senior viceprezident pro machine learning a AI strategii.
+- Giannandrea, v Apple od roku 2018, odejde na jaře 2026 a do té doby zůstane poradcem.
+- Změna přichází po spuštění Apple Intelligence v roce 2024, které získalo jen vlažné recenze.
+- Apple čelí kritice za zaostávání za Microsoftem, Googlem a Metou v pokročilé AI.
+- Plánuje se revidovaná verze Siri s pokročilými funkcemi pro rok 2026.
 
 ### Podrobnosti
-Apple potřebuje urychlit svůj vývoj v umělé inteligenci, protože aktuální platforma Apple Intelligence, která má integrovat AI funkce do iOS, macOS a dalších systémů, zatím nesplnila očekávání. Tato suite měla posílit konkurenceschopnost po explozi zájmu o generativní AI zahájené modelem ChatGPT od OpenAI v listopadu 2022. Uživatelé a kritici však hodnotí její funkce jako nedostatečně inovativní – například zpracování složitých úkolů, jako je kontextové porozumění nebo kreativní generování obsahu, zaostává za modely jako GPT-4o nebo Gemini 2.0. Jedním z hlavních prvků Apple Intelligence je vylepšená Siri, která má v roce 2026 získat schopnosti personalizovaného asistenta schopného hlubšího porozumění kontextu, multitaskingu a integrace s ekosystémem zařízení Apple, jako iPhone, iPad nebo Mac.
+Apple proveplo nejvýznamnější přeskupení v AI týmu od uvedení sady Apple Intelligence v roce 2024. John Giannandrea, který přišel do společnosti z Google v roce 2018, vedl divizi machine learning a AI strategie. Pod jeho vedením Apple spustilo Apple Intelligence, platformu určenou k integraci generativní AI do zařízení jako iPhone, iPad a Mac. Tato souprava měla posílit pozici Apple po explozi zájmu o AI vyvolané ChatGPT v roce 2022. Apple Intelligence umožňuje uživatelům generovat texty, upravovat obrázky pomocí Image Playground nebo zpracovávat data on-device pro zachování soukromí, což je klíčový pilíř appleovské strategie.
 
-John Giannandrea, skotský expert na AI, který přišel do Apple z Google v roce 2018, vedl vývoj strojového učení včetně doporučovacích systémů v App Store, detekce podvodů a raných verzí Siri. Pod jeho vedením Apple investoval do on-device AI zpracování pro zachování soukromí uživatelů, což znamená, že modely běží lokálně na čipech A-série nebo M-série bez odesílání dat do cloudu. Přesto analytici poukazují na slabiny: Apple postrádá velké veřejné jazykové modely (LLM) s miliardami parametrů, jaké mají rivalové, a spoléhá se spíš na hybridní přístup s partnery jako OpenAI.
+Přesto platforma selhala v očekáváních. Uživatelé i kritici hodnotí funkce jako neintuitivní a méně výkonné než konkurence – například ChatGPT nebo Gemini. Centrální prvek, vylepšená Siri, nedosáhla slibované úrovně konverzační inteligence a autonomního zpracování úkolů. Analytikové poukazují, že Apple zaostává v tréninku velkých jazykových modelů (LLM), protože spoléhá na menší modely optimalizované pro edge computing na zařízeních s čipy A-série a M-série, zatímco Microsoft a Google investují do obřích datacenterových modelů s miliardami parametrů.
 
-Amar Subramanya přináší zkušenosti z Microsoftu, kde pracoval na Azure AI platformě podporující nasazení modelů jako Phi nebo integraci Copilot do Office balíku, a z Google, kde se podílel na vývoji systémů pro hlasové zpracování a velké jazykové modely v rámci Google Cloud AI. Jeho expertiza v škálování AI infrastruktuřy by měla pomoci Apple zlepšit výkon Siri a rozšířit Apple Intelligence o pokročilejší funkce, jako je reálný časový překlad, generování kódu nebo analýza obrázků přímo na zařízení. Tato změna je součástí širší restrukturalizace, která má Apple připravit na konkurenční tlak – například Microsoft vede s integrací AI do Windows a Office, zatímco Google dominuje v prohledávání s Gemini.
+Amar Subramanya přináší zkušenosti z top AI týmů. V Google pracoval na projektech jako TensorFlow a v Microsoftu na Azure AI, kde se zabýval škálováním modelů a integrací AI do cloudových služeb. Jeho specializace zahrnuje vývoj LLM pro praktické aplikace, což by mohlo pomoci Apple vylepšit Siri – asistent, který má v roce 2026 zvládat složitější úkoly jako plánování, sumarizace e-mailů nebo interakce s appkami bez manuálního zásahu. Subramanya, indický výzkumník, byl klíčovou postavou v projektech zaměřených na efektivní AI inference, což ladí s appleovským důrazem na nízkou latenci a spotřebu energie.
+
+Tato změna není náhodná. Apple čelí tlaku investorů a regulátorů, protože jeho AI pokrok ovlivňuje tržní hodnotu – akcie klesly po slabých recenzích Apple Intelligence. Společnost uzavřela partnerství s OpenAI pro integraci ChatGPT do iOS, ale dlouhodobě chce vlastní řešení.
 
 ### Proč je to důležité
-Tato změna vedení signalizuje, že Apple uznává své zaostávání v AI závodě, kde dominují firmy s obrovskými datovými centry a cloudovými službami. Pro uživatele to znamená potenciální zlepšení Siri, která by se mohla stát konkurenceschopnou vůči Google Assistant nebo Alexa, s důrazem na soukromí díky lokálnímu zpracování. Pro průmysl to posiluje spekulace o dalších akvizicích nebo partnerstvích Apple v AI, což by mohlo ovlivnit ceny čipů GPU od Nvidia nebo trendy v on-device AI. Pokud Subramanya uspěje, Apple by mohl získat podíl na trhu generativní AI, který v roce 2025 překročil 100 miliard dolarů; jinak riskuje další ztrátu na rivaly. Celkově jde o strategický tah v době, kdy AI ovlivňuje vše od spotřební elektroniky po podnikové služby.
+Tato změna leadershipu signalizuje, že Apple bere své zaostávání v AI vážně. V širším ekosystému, kde Microsoft díky OpenAI a Google díky Gemini dominují, může Subramanyův příchod urychlit vývoj konkurenčních LLM optimalizovaných pro Apple hardware. Pro uživatele to znamená potenciálně lepší Siri v iOS 20 nebo macOS, schopnou komplexních úkolů bez cloudové závislosti, což posílí soukromí. Pro průmysl to ukazuje konsolidaci talentů mezi giganty – podobně jako přechody mezi OpenAI a Google. Pokud Apple uspěje, změní to dynamiku AI na zařízeních; jinak riskuje další ztrátu podílu na trhu. Celkově posiluje soutěž, což tlačí na inovace v bezpečnosti, efektivitě a etice AI.
 
 ---
 

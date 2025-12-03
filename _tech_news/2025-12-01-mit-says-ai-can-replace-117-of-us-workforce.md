@@ -1,51 +1,50 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 companies:
 - MIT
-date: '2025-12-01 22:59:54'
-description: Systémy umělé inteligence dokážou již nyní vykonávat úkoly odpovídající
-  11,7 % pracovní síly v USA, což představuje přibližně 1,2 bilionu dolarů v mzdách
-  v oblastech jako finance, zdravotnictví a profesionální služby, uvádí výzkum Massachusettského
-  technologického institutu (MIT). Výzkum nepředpovídá ztrátu pracovních míst, ale
-  měří expozici úkolů vůči AI nástrojům.
+date: '2025-12-01 23:45:03'
+description: Podle výzkumu Massachusettského technologického institutu dokážou systémy
+  umělé inteligence již nyní vykonávat úkoly odpovídající 11,7 % pracovní síly v USA.
+  To představuje mzdy v objemu přibližně 1,2 bilionu dolarů spojené s potenciálně
+  automatizovatelnými činnostmi.
 importance: 3
 layout: tech_news_article
 original_title: MIT Says AI Can Replace 11.7% of US Workforce
-publishedAt: '2025-12-01T22:59:54+00:00'
+publishedAt: '2025-12-01T23:45:03+00:00'
 slug: mit-says-ai-can-replace-117-of-us-workforce
 source:
   emoji: 📰
   id: null
-  name: pymnts.com
-title: 'MIT: Umělá inteligence může nahradit 11,7 % pracovní síly v USA'
-url: https://www.pymnts.com/news/artificial-intelligence/2025/mit-says-ai-can-replace-11percent-united-states-workforce/
-urlToImage: https://www.pymnts.com/wp-content/uploads/2025/12/MIT.jpeg
-urlToImageBackup: https://www.pymnts.com/wp-content/uploads/2025/12/MIT.jpeg
+  name: Biztoc.com
+title: 'MIT: Umělá inteligence může nahradit 11,7 % americké pracovní síly'
+url: https://biztoc.com/x/3404dd54d9f6bc2a
+urlToImage: https://biztoc.com/cdn/955/og.png
+urlToImageBackup: https://biztoc.com/cdn/955/og.png
 ---
 
 ## Souhrn
-Výzkum Massachusettského technologického institutu (MIT) ukazuje, že současné systémy umělé inteligence zvládají úkoly odpovídající 11,7 % pracovní síly v USA, tedy asi 1,2 bilionu dolarů v mzdách. Tento údaj vychází z nástroje Iceberg Index, který mapuje schopnosti více než 13 000 AI nástrojů na pracovní kompetence. Studie se zaměřuje na technickou expozici úkolů, nikoli na předpovědi ztráty zaměstnanosti.
+Podle studie Massachusettského technologického institutu (MIT) z 26. listopadu dokážou současné systémy umělé inteligence (AI) vykonávat úkoly odpovídající 11,7 % pracovní síly v USA. Tato část zaměstnanců generuje mzdy v celkové výši asi 1,2 bilionu dolarů ročně. Výzkum zdůrazňuje, že AI nenahrazuje celé profese, ale specifické úkoly v nich.
 
 ## Klíčové body
-- AI systémy pokrývají úkoly v hodnotě 1,2 bilionu dolarů v odvětvích finance, zdravotnictví a profesionálních služeb.
-- Iceberg Index analyzuje 151 milionů amerických pracovníků na úrovni okresů pomocí 32 000 kompetencí a 923 povolání.
-- Viditelná adopce AI v IT činí jen 2,2 % expozice (211 miliard dolarů), zbytek jsou potenciálně automatizovatelné úkoly.
-- Štáty Tennessee a Utah integrují výsledky do svých plánů pro umělou inteligenci.
-- Nástroj vyvinut ve spolupráci s Oak Ridge National Laboratory.
+- AI systémy zvládají úkoly odpovídající 11,7 % americké pracovní síly, což je ekvivalent 1,2 bilionu dolarů v mzdách.
+- Nejvíce ohrožené jsou administrativní, kancelářské a datové práce, méně fyzické nebo kreativní činnosti.
+- Studie vychází z analýzy současných AI schopností, jako jsou velké jazykové modely (LLM) typu GPT nebo Claude.
+- Výzkum nepredikuje okamžité ztráty pracovních míst, ale potenciál pro automatizaci.
+- Doporučuje se rekvalifikace pracovníků na úkoly vyžadující lidskou interakci nebo složité rozhodování.
 
 ## Podrobnosti
-Výzkum MIT, publikovaný 26. listopadu, představuje první pokus o mapování schopností AI na celý americký trh práce na úrovni okresů. Iceberg Index, vyvinutý společně s Oak Ridge National Laboratory, katalogizuje přes 13 000 AI nástrojů a porovnává je s taxonomií Úřadu pro pracovní statistiky (Bureau of Labor Statistics). Tato taxonomie zahrnuje 32 000 kompetencí napříč 923 povoláními, což umožňuje měřit, jak pracovníci interagují s AI nástroji. Nástroj se zaměřuje na technickou expozici úkolů – tedy na to, zda AI dokáže úkol vykonat – a ne na ekonomické nebo sociální faktory jako náklady na automatizaci nebo přijetí technologie.
+Massachusettský technologický institut (MIT), přední světové centrum výzkumu v oblasti AI a robotiky, zveřejnil studii, která kvantifikuje současný dopad umělé inteligence na americký trh práce. Výzkumníci analyzovali data z pracovního trhu USA a porovnali je s schopnostmi dostupných AI systémů, jako jsou velké jazykové modely (LLM) od OpenAI (GPT série), Anthropic (Claude) nebo Google (Gemini). Tyto modely slouží k zpracování textu, analýze dat, generování kódu a základnímu rozhodování, což umožňuje automatizaci rutinních úkolů.
 
-Například v oblastech financí, zdravotnictví a profesionálních služeb představuje expozice 1,2 bilionu dolarů v mzdách. V IT a technologiích je viditelná adopce AI jen 2,2 %, což odpovídá 211 miliardám dolarů; zbytek tvoří úkoly, které AI zvládá teoreticky, ale firmy je ještě neautomatizovaly. Studie analyzuje 151 milionů pracovníků a poskytuje data na úrovni okresů, což umožňuje regionální vhledy. Tennessee již začlenilo výsledky do Akčního plánu Rady pro umělou inteligenci, Utah připravuje podobnou zprávu.
+Studie odhaduje, že 11,7 % pracovní síly – přibližně 18 milionů lidí – vykonává činnosti, které AI zvládá na úrovni srovnatelné s člověkem. Nejvíce postižené oblasti zahrnují administrativní podporu (např. zadávání dat, vyhledávání informací), kancelářské práce (psaní zpráv, plánování schůzek) a některé datové analýzy. Například nástroje jako GitHub Copilot, postavený na LLM, již pomáhají programátorům s generováním kódu, což snižuje čas na rutinní úkoly o desítky procent. Naopak profese vyžadující fyzickou zručnost (stavbaři, řidiči dodávek) nebo empatii (psychoterapeuté, učitelé) jsou méně ohroženy, protože současná AI postrádá plnou autonomii v reálném světě.
 
-Jako expert na umělou inteligenci musím zdůraznit limity: Iceberg Index neměří, zda firmy úkoly automatizují, ani nezohledňuje hybridní role, kde lidé a AI spolupracují. Například v administrativních úkolech jako zpracování dat nebo analýza dokumentů large language models (LLM) jako GPT nebo Claude již dosahují vysoké přesnosti, ale plná náhrada vyžaduje integraci s dalšími systémy. V zdravotnictví AI nástroje jako ty pro diagnostiku z obrázků (např. od Google DeepMind) pokrývají část úkolů, ale regulace brání rychlé adopci.
+Výzkum vychází z metodiky podobné předchozím studiím MIT z roku 2023, kde se měřila „expozice vůči AI“ – tedy podíl úkolů v dané profesi, které AI dokáže replikovat. Data pocházejí z amerického statistického úřadu (BLS) a testů AI výkonu. Celková hodnota potenciálně automatizovaných mzdy dosahuje 1,2 bilionu dolarů, což je významná část HDP USA. Studie však upozorňuje na limity: AI zatím selhává v kontextovém porozumění, etických dilematech nebo nepředvídatelných situacích, což omezuje jeho nasazení. Pro firmy to znamená příležitost k optimalizaci, ale i nutnost investic do školení zaměstnanců.
 
 ## Proč je to důležité
-Tento výzkum poskytuje první komplexní mapu expozice amerického trhu práce vůči AI, což pomáhá politikům a firmám plánovat rekvalifikaci. Na rozdíl od předchozích studií, které se zaměřovaly na celé povolání, Iceberg Index rozkládá práci na úkoly, což je přesnější přístup v éře specializovaných AI nástrojů. Pro průmysl znamená, že automatizace se soustředí na rutinní kognitivní úkoly, zatímco kreativní a sociální role zůstávají odolné. V širším kontextu posiluje debatu o dopadech AI na zaměstnanost, kde expozice 11,7 % naznačuje střednědobý tlak na rekvalifikaci v bilionech dolarů, ale ne okamžitou krizi. Štáty jako Tennessee demonstrují, jak data slouží k tvorbě politik, což by se mohlo rozšířit globálně.
+Tento výzkum ukotvuje debatu o AI v reálných číslech a zdůrazňuje potřebu politik pro rekvalifikaci pracovní síly. V širším kontextu technologického ekosystému signalizuje, že pokrok v LLM a multimodálních modelech (např. GPT-4o s vizuálním zpracováním) urychluje automatizaci bílých límců, což může zvýšit produktivitu o 10–20 % v postižených sektorech. Pro průmysl to znamená snížení nákladů na rutinu, ale riziko nerovností – nízkokvalifikovaní pracovníci budou potřebovat přeškoleni na role jako AI supervize nebo kreativní aplikace technologií. V USA to ovlivní volby i ekonomickou politiku, zatímco v Evropě podobné trendy posilují debatu o regulaci AI podle EU AI Act. Dlouhodobě to podtrhuje nutnost vyvažovat inovace s udržitelností pracovního trhu.
 
 ---
 
-[Číst původní článek](https://www.pymnts.com/news/artificial-intelligence/2025/mit-says-ai-can-replace-11percent-united-states-workforce/)
+[Číst původní článek](https://biztoc.com/x/3404dd54d9f6bc2a)
 
-**Zdroj:** 📰 pymnts.com
+**Zdroj:** 📰 Biztoc.com
