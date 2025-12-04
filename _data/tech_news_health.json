@@ -1,6 +1,6 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-04T08:22:14.922985+00:00",
+  "timestamp": "2025-12-04T12:27:34.109431+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 372.0,
-      "median_length": 376.0
+      "avg_length": 353.0,
+      "median_length": 365.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,14 +26,20 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.01,
-      "invalid_count": 1,
+      "error_rate": 0.02,
+      "invalid_count": 2,
       "most_common_missing_fields": {
-        "description": 1
+        "description": 2
       },
       "sample_invalid_articles": [
         {
-          "file": "2025-12-03-filing-jdcoms-jingdong-industrials-or-jdi-a-supply.md",
+          "file": "2025-12-03-marvell-to-buy-chip-startup-celestial-ai-for-325-b.md",
+          "errors": [
+            "chybí description"
+          ]
+        },
+        {
+          "file": "2025-12-03-marvell-technology-to-acquire-celestial-ai-in-325-.md",
           "errors": [
             "chybí description"
           ]
@@ -42,18 +48,18 @@
     }
   },
   "metrics": {
-    "total_articles": 7492,
+    "total_articles": 7565,
     "articles_24h": 0,
     "articles_1h": 0,
     "newest_article_age_hours": 24.06,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 372.0,
-    "median_content_length": 376.0,
-    "articles_with_images_pct": 95.0,
+    "avg_content_length": 353.0,
+    "median_content_length": 365.0,
+    "articles_with_images_pct": 93.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.01
+    "front_matter_error_rate": 0.02
   },
   "alerts": [
     {
