@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-04T00:58:28.413175+00:00",
+  "timestamp": "2025-12-04T04:26:33.636277+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.11,
+      "newest_age_hours": 24.06,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,7 +16,7 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 416.0,
+      "avg_length": 357.0,
       "median_length": 365.0
     },
     "generation_trend": {
@@ -26,12 +26,18 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.01,
-      "invalid_count": 1,
+      "error_rate": 0.02,
+      "invalid_count": 2,
       "most_common_missing_fields": {
-        "description": 1
+        "description": 2
       },
       "sample_invalid_articles": [
+        {
+          "file": "2025-12-03-filing-jdcoms-jingdong-industrials-or-jdi-a-supply.md",
+          "errors": [
+            "chybí description"
+          ]
+        },
         {
           "file": "2025-12-02-sam-altman-issues-code-red-at-openai-as-chatgpt-co.md",
           "errors": [
@@ -42,18 +48,18 @@
     }
   },
   "metrics": {
-    "total_articles": 7398,
+    "total_articles": 7431,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.11,
+    "newest_article_age_hours": 24.06,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 416.0,
+    "avg_content_length": 357.0,
     "median_content_length": 365.0,
-    "articles_with_images_pct": 87.0,
+    "articles_with_images_pct": 88.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.01
+    "front_matter_error_rate": 0.02
   },
   "alerts": [
     {

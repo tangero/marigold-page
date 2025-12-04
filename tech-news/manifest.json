@@ -1,7 +1,601 @@
 {
-  "generated": "2025-12-04T00:58:28.315153+00:00",
+  "generated": "2025-12-04T04:26:33.527056+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "ReVisionz Launches Main Information Contractor+ to Deliver Lifecycle-Ready Asset Data for Owner-Operators",
+      "description": "New AI-powered service from leading digital transformation consulting firm aims to bring structure, consistency and confidence to asset information New AI-powered service from leading digital transformation consulting firm aims to bring structure, consistency…",
+      "slug": "revisionz-launches-main-information-contractor-to-",
+      "publishedAt": "2025-12-03T04:23:00+00:00",
+      "date": "2025-12-03 04:23:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/10098a10-543f-49c6-b950-a69692d61f5a",
+      "url": "/tech-news/2025-12-03/revisionz-launches-main-information-contractor-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple’s Tap to Pay now available on iPhone via 6 payment platforms in Singapore",
+      "description": "<![CDATA[ Businesses can now accept contactless payments on iPhones through Adyen, Fiuu, HitPay, Revolut, Stripe, and Zoho, with Grab to follow in early 2026. ]]>",
+      "slug": "apples-tap-to-pay-now-available-on-iphone-via-6-pa",
+      "publishedAt": "2025-12-03T03:52:23+00:00",
+      "date": "2025-12-03 03:52:23",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--R_bb4kYe--/c_crop,h_1193,w_2122,x_0,y_207/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/03/istock-2193384225.jpg?itok=RzRYSh6x",
+      "url": "/tech-news/2025-12-03/apples-tap-to-pay-now-available-on-iphone-via-6-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Is AI Your New Creative Partner or Just a Fancy Tool?",
+      "description": "A blank canvas. A blinking cursor. For centuries, these have been the starting points of creation, symbols of both infinite possibility and paralyzing pressure. Today, they are increasingly joined by a new interface: a text prompt. With the rise of generative…",
+      "slug": "is-ai-your-new-creative-partner-or-just-a-fancy-to",
+      "publishedAt": "2025-12-03T03:50:57+00:00",
+      "date": "2025-12-03 03:50:57",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.designer-daily.com/wp-content/uploads/2025/11/illustration-for-an-article-about-using-ai-to-work-on.png",
+      "url": "/tech-news/2025-12-03/is-ai-your-new-creative-partner-or-just-a-fancy-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Designer-daily.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "(PR) HLRS Announces Details of Herder Supercomputer",
+      "description": "The High-Performance Computing Center Stuttgart (HLRS) today announced the architecture of HLRS's upcoming next-generation supercomputer, developed with its technology partners, HPE and AMD. The new system—called Herder—will offer both a major increase in per…",
+      "slug": "pr-hlrs-announces-details-of-herder-supercomputer",
+      "publishedAt": "2025-12-03T03:50:09+00:00",
+      "date": "2025-12-03 03:50:09",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techpowerup.com/img/UtuNKnYnZOMdINm1.jpg",
+      "url": "/tech-news/2025-12-03/pr-hlrs-announces-details-of-herder-supercomputer/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Michigan Based Real Estate Mogul Doval Bacall unlocks Hollywood with the launch of Film Finance & Future Capital Summit in Beverly Hills, CA",
+      "description": "Reverse engineered film finance to de-risk the entertainment asset class to unlock the next wave of capital. Reverse engineered film finance to de-risk the entertainment asset class to unlock the next wave of capital.",
+      "slug": "michigan-based-real-estate-mogul-doval-bacall-unlo",
+      "publishedAt": "2025-12-03T03:26:00+00:00",
+      "date": "2025-12-03 03:26:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4a95949c-4049-4166-88df-ee845034c4d0",
+      "url": "/tech-news/2025-12-03/michigan-based-real-estate-mogul-doval-bacall-unlo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Michael and Susan Dell donate nearly $10b to 'Trump accounts'",
+      "description": "Tech billionaires Michael and Susan Dell have pledged $US6.25 billion ($9.5 billion) to new investment accounts for children, known as \"Trump accounts\". Here's how the donation will work.",
+      "slug": "michael-and-susan-dell-donate-nearly-10b-to-trump-",
+      "publishedAt": "2025-12-03T03:23:53+00:00",
+      "date": "2025-12-03 03:23:53",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/68246f1aa07510feb6dddcb830a72d48?impolicy=wcms_watermark_news&cropH=1885&cropW=3351&xPos=0&yPos=5&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2025-12-03/michael-and-susan-dell-donate-nearly-10b-to-trump/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "In Data Center Alley, AI sows building boom, doubts",
+      "description": "As planes make their final approach to Washington DC's Dulles Airport, just below lies Ashburn, a town otherwise known as Data Center Alley -- where an estimated 70 percent of all global internet traffic at any moment finds its way. Ashburn is in Loudoun Coun…",
+      "slug": "in-data-center-alley-ai-sows-building-boom-doubts",
+      "publishedAt": "2025-12-03T03:18:25+00:00",
+      "date": "2025-12-03 03:18:25",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-138048,resizemode-75,msid-125732470/tech/startups/in-data-center-alley-ai-sows-building-boom-doubts.jpg",
+      "url": "/tech-news/2025-12-03/in-data-center-alley-ai-sows-building-boom-doubts/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Exato Technologies IPO GMP Zooms Over 100% Ahead Of Listing This Week",
+      "description": "Noida-based technology-driven solutions provider Exato Technologies Ltd. received a stellar response from investors, with the SME IPO getting oversubscribed over 880 times on Tuesday.",
+      "slug": "exato-technologies-ipo-gmp-zooms-over-100-ahead-of",
+      "publishedAt": "2025-12-03T03:13:44+00:00",
+      "date": "2025-12-03 03:13:44",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-02%2F5gxjcvme%2FRust-Orange-1.png?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-03/exato-technologies-ipo-gmp-zooms-over-100-ahead-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "YouTube says it will be less safe for kids under Australia's social media ban",
+      "description": "The Google-owned platform says parental controls will be stripped away as a result of the ban.",
+      "slug": "youtube-says-it-will-be-less-safe-for-kids-under-a",
+      "publishedAt": "2025-12-03T03:10:40+00:00",
+      "date": "2025-12-03 03:10:40",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca1d/live/bad0eeb0-cff4-11f0-8c06-f5d460985095.jpg",
+      "url": "/tech-news/2025-12-03/youtube-says-it-will-be-less-safe-for-kids-under-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Morning Headlines 12/3/25",
+      "description": "ACCESS Model expands access to technology-supported care in Original Medicare ...",
+      "slug": "morning-headlines-12325",
+      "publishedAt": "2025-12-03T03:08:56+00:00",
+      "date": "2025-12-03 03:08:56",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-03/morning-headlines-12325/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Histalk2.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kioxia and Google Collaborate to Boost Clean Energy Use in Japan",
+      "description": "YOKKAICHI, Japan — As part of its commitment towards a more sustainable future, Kioxia Corporation (“Kioxia”) today announced a collaborative initiative with Google LLC (“Google”) to boost its use of the clean electricity generated by a hydropower retrofit pr…",
+      "slug": "kioxia-and-google-collaborate-to-boost-clean-energ",
+      "publishedAt": "2025-12-03T02:40:11+00:00",
+      "date": "2025-12-03 02:40:11",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-03/kioxia-and-google-collaborate-to-boost-clean-energ/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI pivot opens fresh opportunities across the global supply chain, says DIGITIMES president",
+      "description": "The DIGITIMES Tech Forum commences on December 3, drawing over 1,500 participants from the technology sector. The hybrid event spotlighted the industry's focus on global supply chain restructuring and accelerating artificial intelligence (AI) developments.",
+      "slug": "ai-pivot-opens-fresh-opportunities-across-the-glob",
+      "publishedAt": "2025-12-03T02:40:05+00:00",
+      "date": "2025-12-03 02:40:05",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251203vl205_files/1_2b.jpg",
+      "url": "/tech-news/2025-12-03/ai-pivot-opens-fresh-opportunities-across-the-glob/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The AI frenzy is driving a new global supply chain crisis",
+      "description": "Japanese electronics stores have begun limiting how many hard-disk drives shoppers can buy. Chinese smartphone makers are warning of price increases. Tech giants including Microsoft, Google and ByteDance are scrambling to secure supplies from memory-chip make…",
+      "slug": "the-ai-frenzy-is-driving-a-new-global-supply-chain",
+      "publishedAt": "2025-12-03T02:31:01+00:00",
+      "date": "2025-12-03 02:31:01",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-209308,resizemode-75,msid-125731704/tech/artificial-intelligence/the-ai-frenzy-is-driving-a-new-global-supply-chain-crisis.jpg",
+      "url": "/tech-news/2025-12-03/the-ai-frenzy-is-driving-a-new-global-supply-chain/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Purpose Investments Inc. Announces 2025 Estimated Annual Income and Capital Gains Distributions",
+      "description": "TORONTO, Dec. 02, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced the estimated annual distributions of income and capital gains for its open-end exchange-traded funds and closed-end funds (the “Funds”) for the 2025 tax year. The…",
+      "slug": "purpose-investments-inc-announces-2025-estimated-a",
+      "publishedAt": "2025-12-03T02:26:00+00:00",
+      "date": "2025-12-03 02:26:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd",
+      "url": "/tech-news/2025-12-03/purpose-investments-inc-announces-2025-estimated-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "WITIN Summit drives growth of female technology talent",
+      "description": "Discover how the WITIN Summit 2024 is fostering female technology talent in Nigeria, inspiring girls in STEM to create innovative, sustainable solutions.\n\nRead More: https://punchng.com/witin-summit-drives-growth-of-female-technology-talent/",
+      "slug": "witin-summit-drives-growth-of-female-technology-ta",
+      "publishedAt": "2025-12-03T02:06:43+00:00",
+      "date": "2025-12-03 02:06:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/03025730/WITIN-1080x630.jpeg",
+      "url": "/tech-news/2025-12-03/witin-summit-drives-growth-of-female-technology-ta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Town planner urges youths to explore drone mapping",
+      "description": "A town planner is empowering 125 youths with drone mapping technology training to create jobs, reduce poverty, and develop the Owu Kingdom master plan.\n\nRead More: https://punchng.com/town-planner-urges-youths-to-explore-drone-mapping/",
+      "slug": "town-planner-urges-youths-to-explore-drone-mapping",
+      "publishedAt": "2025-12-03T02:06:43+00:00",
+      "date": "2025-12-03 02:06:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/03025358/Aare-Mayegun-of-Owu-Kingdom-868x630.jpg",
+      "url": "/tech-news/2025-12-03/town-planner-urges-youths-to-explore-drone-mapping/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Polar Bears Aren’t Real — But Coca-Cola’s AI Ads Prove Why Nostalgia Has To Be",
+      "description": "Coca-Cola’s AI holiday ad proves that while tech can mimic the physics of snow, it fails to capture the true meaning of 'artificial nostalgia'",
+      "slug": "the-polar-bears-arent-real-but-coca-colas-ai-ads-p",
+      "publishedAt": "2025-12-03T02:06:35+00:00",
+      "date": "2025-12-03 02:06:35",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-03/the-polar-bears-arent-real-but-coca-colas-ai-ads-p/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kohler Can Access Pictures from \"End-to-End Encrypted\" Toilet Camera",
+      "description": "Claimed end-to-end privacy doesn’t fully conceal your rear-end data",
+      "slug": "kohler-can-access-pictures-from-end-to-end-encrypt",
+      "publishedAt": "2025-12-03T02:06:25+00:00",
+      "date": "2025-12-03 02:06:25",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://leaflet.pub/lish/did%253Aplc%253A2rltjvii4o7fjtsb6kfe4qe6/3m5jrj5s5vs2q/3m6zrw6k2bs2p/opengraph-image?6815eb61f733905a",
+      "url": "/tech-news/2025-12-03/kohler-can-access-pictures-from-end-to-end-encrypt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Leaflet.pub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sunway Medical Centre wins the Technology and Innovation Excellence Award 2025",
+      "description": "PETALING JAYA: Sunway Medical Centre, Sunway City (SMC), was recognised for its smart healthcare initiatives by winning the Technology and Innovation Excellence Award at the British Malaysian Chamber of Commerce (BMCC) Business Excellence Awards 2025. Read fu…",
+      "slug": "sunway-medical-centre-wins-the-technology-and-inno",
+      "publishedAt": "2025-12-03T02:02:00+00:00",
+      "date": "2025-12-03 02:02:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/03/3652469.jpg",
+      "url": "/tech-news/2025-12-03/sunway-medical-centre-wins-the-technology-and-inno/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "UltraGreen.ai shares jump 10% over IPO price in SGX trading debut",
+      "description": "Singapore recorded its strongest IPO performance in six years, raising over $2 billion in 2025. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "slug": "ultragreenai-shares-jump-10-over-ipo-price-in-sgx-",
+      "publishedAt": "2025-12-03T01:55:31+00:00",
+      "date": "2025-12-03 01:55:31",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/d981abffe2f59739fd3a597bdcdc6886965f5fc0acde483923cb5c414416c9c2",
+      "url": "/tech-news/2025-12-03/ultragreenai-shares-jump-10-over-ipo-price-in-sgx/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Filing: JD.com's JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO",
+      "description": "",
+      "slug": "filing-jdcoms-jingdong-industrials-or-jdi-a-supply",
+      "publishedAt": "2025-12-03T01:54:40+00:00",
+      "date": "2025-12-03 01:54:40",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-03/filing-jdcoms-jingdong-industrials-or-jdi-a-supply/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nigeria emerges as French investment hub, officials say",
+      "description": "Discover why Nigeria is becoming a top destination for French investment, with growing partnerships in technology, finance, agriculture, and services.\n\nRead More: https://punchng.com/nigeria-emerges-as-french-investment-hub-officials-say/",
+      "slug": "nigeria-emerges-as-french-investment-hub-officials",
+      "publishedAt": "2025-12-03T01:52:33+00:00",
+      "date": "2025-12-03 01:52:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/11/05061327/france-vs-ng.jpg",
+      "url": "/tech-news/2025-12-03/nigeria-emerges-as-french-investment-hub-officials/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nepal’s political and economic situation: Past, Gen-Z, and future vision",
+      "description": "By Shanker Man Singh Nepal—once seen as a paradise—now faces deep political and economic challenges rooted in corruption, weak leadership, […]\nThe post Nepal’s political and economic situation: Past, Gen-Z, and future vision appeared first on Peoples' Review.",
+      "slug": "nepals-political-and-economic-situation-past-gen-z",
+      "publishedAt": "2025-12-03T01:39:36+00:00",
+      "date": "2025-12-03 01:39:36",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://mypeoplesreview.com/wp-content/uploads/2025/02/Shankar-Man-Singh.jpg",
+      "url": "/tech-news/2025-12-03/nepals-political-and-economic-situation-past-gen-z/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mypeoplesreview.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fintechs back on VC radar; Cyber insurance in demand",
+      "description": "Happy Wednesday! Venture capital is once again flowing fintechs’ way. This and more in today’s ETtech Morning Dispatch.",
+      "slug": "fintechs-back-on-vc-radar-cyber-insurance-in-deman",
+      "publishedAt": "2025-12-03T01:36:52+00:00",
+      "date": "2025-12-03 01:36:52",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125731196,width-1070,height-580,imgsize-2270579,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2025-12-03/fintechs-back-on-vc-radar-cyber-insurance-in-deman/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Share Market Highlights: Sensex, Nifty end flat; rupee hits record closing low",
+      "description": "Sensex, Nifty updates on 3 December 2025: India’s benchmark indices extended losses for the fourth straight session on Wednesday, weighed down by delays in the US trade deal and a record-low rupee. Sensex closed at 85,106.81, slipping 31.46 points or 0.04%, a…",
+      "slug": "share-market-highlights-sensex-nifty-end-flat-rupe",
+      "publishedAt": "2025-12-03T01:34:16+00:00",
+      "date": "2025-12-03 01:34:16",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/xehwe/article70344446.ece/alternates/LANDSCAPE_1200/IMG_BL1208_Spark_Lead_2_1_1PD6AUBU.jpg",
+      "url": "/tech-news/2025-12-03/share-market-highlights-sensex-nifty-end-flat-rupe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Marvell bets big on optical interconnects, buying Celestial AI for up to $5.5B",
+      "description": "Chipmaker Marvell Technology Inc. said today it has agreed to acquire a networking startup called Celestial AI Inc. that’s developing optical interconnect technology to enable more rapid data center communications. The deal will see Marvell fork out at least …",
+      "slug": "marvell-bets-big-on-optical-interconnects-buying-c",
+      "publishedAt": "2025-12-03T01:23:00+00:00",
+      "date": "2025-12-03 01:23:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-08-29-08-12-33.png",
+      "url": "/tech-news/2025-12-03/marvell-bets-big-on-optical-interconnects-buying-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How Zendesk built the AI engine powering billions of customer interactions",
+      "description": "Customer service automation has become one of enterprise tech’s most AI-intensive workloads. The shift goes beyond chatbots to multimodal interactions, proprietary training data and infrastructure handling hundreds of billions of application programming inter…",
+      "slug": "how-zendesk-built-the-ai-engine-powering-billions-",
+      "publishedAt": "2025-12-03T01:18:34+00:00",
+      "date": "2025-12-03 01:18:34",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Tom-Eggemeier-chief-executive-officer-of-Zendesk-AWS-reInvent-2025.png",
+      "url": "/tech-news/2025-12-03/how-zendesk-built-the-ai-engine-powering-billions/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Marvell Technology buys Celestial AI in $3.25 billion deal, shares jump nearly 8% — Inside the acquisition",
+      "description": "The acquisition of Celestial AI is part of the company's strategy to capture more of the runaway spending on artificial intelligence computing. Marvell Technology shares jumped in extended trading.",
+      "slug": "marvell-technology-buys-celestial-ai-in-325-billio",
+      "publishedAt": "2025-12-03T01:14:19+00:00",
+      "date": "2025-12-03 01:14:19",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/03/1600x900/im-16094388_1764724412089_1764724420614.jpg",
+      "url": "/tech-news/2025-12-03/marvell-technology-buys-celestial-ai-in-325-billio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Navigating AI-Driven Marketing: Balancing Efficiency and Authenticity",
+      "description": "Artificial Intelligence (AI) positivity has magnified disturbances in the marketing sector due to the human-like...\nThe post Navigating AI-Driven Marketing: Balancing Efficiency and Authenticity appeared first on Social Media Explorer.",
+      "slug": "navigating-ai-driven-marketing-balancing-efficienc",
+      "publishedAt": "2025-12-03T01:09:04+00:00",
+      "date": "2025-12-03 01:09:04",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2025/12/Captura-de-pantalla-2025-12-02-220617.png",
+      "url": "/tech-news/2025-12-03/navigating-ai-driven-marketing-balancing-efficienc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Socialmediaexplorer.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "‘AI to reshape 40% of Nigeria’s job skills’",
+      "description": "Artificial intelligence will reshape 40% of Nigeria’s job skills by 2030, requiring urgent digital literacy and reskilling to remain globally competitive.\n\nRead More: https://punchng.com/ai-to-reshape-40-of-nigerias-job-skills/",
+      "slug": "ai-to-reshape-40-of-nigerias-job-skills",
+      "publishedAt": "2025-12-03T01:07:54+00:00",
+      "date": "2025-12-03 01:07:54",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/07/12014620/Ken-Opara.jpg",
+      "url": "/tech-news/2025-12-03/ai-to-reshape-40-of-nigerias-job-skills/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ウブン「2025 Amazon Ads パートナーアワード」において「Full Funnel Advertising APACアワード」を受賞",
+      "description": "[株式会社ウブン]\n[画像1: https://prcdn.freetls.fastly.net/release_image/80038/63/80038-63-d3782a42204541557a20e5315f6bf5c1-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "slug": "ウブン2025-amazon-ads-パートナーアワードにおいてfull-funnel-advert",
+      "publishedAt": "2025-12-03T01:00:00+00:00",
+      "date": "2025-12-03 01:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/80038/63/80038-63-d3782a42204541557a20e5315f6bf5c1-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "url": "/tech-news/2025-12-03/ウブン2025-amazon-ads-パートナーアワードにおいてfull-funnel-advert/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Prtimes.jp"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SNS INSIDER PVT. LTD.半導体ファブレス市場規模は2032年までに96億1000万米ドルに達すると予測 | SNS Insider",
+      "description": "The fabless semiconductor market is experiencing significant expansion driven by rising global demand for advanced electronic devices and integrated circuits. Valued at USD 4.61 billion in 2024, it is projected to reach USD 9.61 billion by 2032, growing at a …",
+      "slug": "sns-insider-pvt-ltd半導体ファブレス市場規模は2032年までに96億1000万米ド",
+      "publishedAt": "2025-12-03T01:00:00+00:00",
+      "date": "2025-12-03 01:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "url": "/tech-news/2025-12-03/sns-insider-pvt-ltd半導体ファブレス市場規模は2032年までに96億1000万米ド/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Martech for 2026: The Shifts in AI, Data, and Buyer Behavior Every Leader Must Act On",
+      "description": "The Martech for 2026 report, authored by Scott Brinker and Frans Riemersma and sponsored by GrowthLoop, Hightouch, Intuit Mailchimp, MetaRouter, Progress, SAS, and Treasure Data, captures the most consequential shifts happening across marketing, technology, a…",
+      "slug": "martech-for-2026-the-shifts-in-ai-data-and-buyer-b",
+      "publishedAt": "2025-12-03T00:55:43+00:00",
+      "date": "2025-12-03 00:55:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.martech.zone/wp-content/uploads/2025/12/martech-for-2026.webp",
+      "url": "/tech-news/2025-12-03/martech-for-2026-the-shifts-in-ai-data-and-buyer-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Martech.zone"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "[International Day of Persons With Disabilities] How Samsung Is Advancing Accessibility for All",
       "description": "To mark International Day of Persons with Disabilities on December 3, Samsung Electronics launched a series of initiatives to advance mobility rights and improve accessibility for all. Central to the effort is a volunteer program to develop a barrier-free map…",
@@ -417,24 +1011,6 @@
       "people": []
     },
     {
-      "title": "ID-Pal Acquires KYB Specialist, NorthRow",
-      "description": "ID-Pal’s strategic acquisition of NorthRow, a specialist in compliance solutions, will enhance the Irish company’s compliance intelligence for Know Your Business (KYB), Know Your Customer (KYC), and Anti-Money Laundering (AML) operations. The move will combin…",
-      "slug": "id-pal-acquires-kyb-specialist-northrow",
-      "publishedAt": "2025-12-02T23:37:19+00:00",
-      "date": "2025-12-02 23:37:19",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-02/id-pal-acquires-kyb-specialist-northrow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Finovate.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Shares of Pure Storage sink after earnings results fail to impress",
       "description": "Flash storage pioneer Pure Storage Inc. raised its full year guidance today, but its stock fell hard in late trading after it failed to beat the market’s expectations as it delivered its latest quarterly earnings results. The company reported third-quarter ea…",
       "slug": "shares-of-pure-storage-sink-after-earnings-results",
@@ -831,24 +1407,6 @@
       "people": []
     },
     {
-      "title": "Japan aims to raise usage of AI to 80% to catch up with global peers",
-      "description": "The Japanese government aims to eventually raise the individual usage of generative artificial intelligence to 80 percent from around 25 percent in fiscal 2024, as the country lags in the use of the technology, draft guidelines for AI use showed Tuesday. Acco…",
-      "slug": "japan-aims-to-raise-usage-of-ai-to-80-to-catch-up-",
-      "publishedAt": "2025-12-02T21:33:48+00:00",
-      "date": "2025-12-02 21:33:48",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-02/japan-aims-to-raise-usage-of-ai-to-80-to-catch-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Japan Today"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Putin reveals new plans with China and India",
       "description": "Russia wants to bring cooperation with China and India to a whole new level with a focus on technology, President Vladimir Putin has said Read Full Article at RT.com",
       "slug": "putin-reveals-new-plans-with-china-and-india",
@@ -993,24 +1551,6 @@
       "people": []
     },
     {
-      "title": "Jak přístup Anthropic „safety first“ získal velké firmy – a jak jeho vlastní inženýři využívají Claude AI",
-      "description": "Anthropic engineers mostly use Claude for debugging, not writing new software, but they worry about deskilling",
-      "slug": "how-anthropics-safety-first-approach-won-over-big-",
-      "publishedAt": "2025-12-02T19:30:45+00:00",
-      "date": "2025-12-02 19:30:45",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2235057464-e1764700995708.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-02/how-anthropics-safety-first-approach-won-over-big/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "News media is “becoming part of AI systems”: Notes from the JournalismAI Festival 2025",
       "description": "London — Last month, fact checkers, newsroom leaders, product managers, and AI strategists gathered in the Southwark neighborhood of South London for the JournalismAI Festival 2025. The event brought out journalists from several continents to share their most…",
       "slug": "news-media-is-becoming-part-of-ai-systems-notes-fr",
@@ -1119,78 +1659,6 @@
       "people": []
     },
     {
-      "title": "Indy All-In-One Freelancer Platform Pro Bundle for $19",
-      "description": "Expires June 04, 2026 06:59 PST\n\n\n\n\n Buy now and get 91% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nNOTE: Available to NEW users only.\r\n\nSupercharge Your Work with Indy’s AI-Powered CRM Platform\r\n\nIndy is an all-in-one business…",
-      "slug": "indy-all-in-one-freelancer-platform-pro-bundle-for",
-      "publishedAt": "2025-12-02T18:40:00+00:00",
-      "date": "2025-12-02 18:40:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdnp1.stackassets.com/9052dc25ebd5a95b6522712f923ffd66b0b5380b/store/45ef568761db3dfab9c4e37423207c7c7fb966d0a2c2e276c3dcff204725/sale_329047_primary_image.jpg",
-      "url": "/tech-news/2025-12-02/indy-all-in-one-freelancer-platform-pro-bundle-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Stacksocial.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Greedy Data Centers Prep Grid For Crisis That Democrats Try To Pin On Trump",
-      "description": "Electricity demand may be surging more than initially thought, according to a new BloombergNEF analysis.",
-      "slug": "greedy-data-centers-prep-grid-for-crisis-that-demo",
-      "publishedAt": "2025-12-02T18:38:38+00:00",
-      "date": "2025-12-02 18:38:38",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2194362827-scaled-e1764613980247.jpg",
-      "url": "/tech-news/2025-12-02/greedy-data-centers-prep-grid-for-crisis-that-demo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "‘Mad Men’ Has Hit HBO Max But Includes A Few Embarrassing Errors, Such As Forgetting To Cut Out A P.A. Manning A Puke Machine",
-      "description": "After years of being tucked way on AMC’s in-house streaming service AMC+, one of the network’s iconic series, Mad Men, has finally found a new, more widely-subscribed-to, home: HBO Max. While Mad Men was on Netflix a decade or so ago, it’s been on AMC+ since …",
-      "slug": "mad-men-has-hit-hbo-max-but-includes-a-few-embarra",
-      "publishedAt": "2025-12-02T18:38:36+00:00",
-      "date": "2025-12-02 18:38:36",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/12/mad-men.jpg",
-      "url": "/tech-news/2025-12-02/mad-men-has-hit-hbo-max-but-includes-a-few-embarra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BroBible"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "HBM undergoes major architectural shakeup as TSMC and GUC detail HBM4, HBM4E and C-HBM4E — 3nm base dies to enable 2.5x performance boost with speeds of up to 12.8GT/s by 2027",
-      "description": "HBM is undergoing its first major architectural overhaul in a decade, as HBM4, HBM4E, and C-HBM4E will introduce a 2048-bit interface, logic-node base dies, and optional custom memory logic inside base dies, enabling up to a 2.5X performance leap between 2025…",
-      "slug": "hbm-undergoes-major-architectural-shakeup-as-tsmc-",
-      "publishedAt": "2025-12-02T18:30:06+00:00",
-      "date": "2025-12-02 18:30:06",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fTViop6mMkxqfusddorhQG-1920-80.jpg",
-      "url": "/tech-news/2025-12-02/hbm-undergoes-major-architectural-shakeup-as-tsmc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Sam Altman declares OpenAI ‘code red’ as Google AI threat grows",
       "description": "Sam Altman has ordered staff to pause most projects to defend ChatGPT.",
       "slug": "sam-altman-declares-openai-code-red-as-google-ai-t",
@@ -1263,24 +1731,6 @@
       "people": []
     },
     {
-      "title": "Kyriakos Mitsotakis: There can be no productivity without the use of technology (live)",
-      "description": "The Prime Minister is in discussion with the President of Grant Thornton Consulting, Nikolaos Karamouzis, and the CEO of Grant Thornton, Vassilis Kazas, at the conference “Future Unfold – Framing the Future of Technology”\nThe post Kyriakos Mitsotakis: There c…",
-      "slug": "kyriakos-mitsotakis-there-can-be-no-productivity-w",
-      "publishedAt": "2025-12-02T18:09:25+00:00",
-      "date": "2025-12-02 18:09:25",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/12/xrwma-mitsotakis.webp",
-      "url": "/tech-news/2025-12-02/kyriakos-mitsotakis-there-can-be-no-productivity-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "(PR) AMD & AWS Advancing the Cloud Together, Powered by 5th Gen AMD EPYC Processors",
       "description": "In today's cloud-first economy, enterprises are under growing pressure to achieve more with every workload. Cloud infrastructure is no longer just about scalability; it's about aligning technology with business outcomes. That's why AMD and AWS have forged a p…",
       "slug": "pr-amd-aws-advancing-the-cloud-together-powered-by",
@@ -1330,24 +1780,6 @@
         "emoji": "📰",
         "id": null,
         "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "How Organizational Fundamentals Deliver Frictionless AI Experiences",
-      "description": "Some businesses are struggling to keep up with the new AI-driven workflows and need to adapt their playbooks. It takes good data and a clear vision.\nContinue reading...",
-      "slug": "how-organizational-fundamentals-deliver-frictionle",
-      "publishedAt": "2025-12-02T17:50:32+00:00",
-      "date": "2025-12-02 17:50:32",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cmswire.com/-/media/c50a275dcf5d4522a91a60712900622f.ashx",
-      "url": "/tech-news/2025-12-02/how-organizational-fundamentals-deliver-frictionle/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CMSWire"
       },
       "companies": [],
       "people": []
@@ -1469,24 +1901,6 @@
       "people": [
         "Pat Gelsinger"
       ]
-    },
-    {
-      "title": "Jak AI zlepšuje 5G telekomunikace pro podniky",
-      "description": "AI pomáhá činit 5G sítě odolnějšími, integrovanejšími a snadnějšími na implementaci. Soukromé 5G sítě pro podniky tak představují jasně lepší alternativu k Wi-Fi.",
-      "slug": "how-ai-can-improve-5g-telecommunications-for-enter",
-      "publishedAt": "2025-12-02T16:07:00+00:00",
-      "date": "2025-12-02 16:07:00",
-      "importance": 3,
-      "category": "5g telekomunikace",
-      "urlToImage": "https://www.techtarget.com/visuals/ComputerWeekly/Hero Images/5G-fotolia.jpg",
-      "url": "/tech-news/2025-12-02/how-ai-can-improve-5g-telecommunications-for-enter/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "OpenAI čelí tlaku, jak Google a Anthropic získávají náskok",
@@ -1616,24 +2030,6 @@
       "people": []
     },
     {
-      "title": "Platformy GRC vstupují do éry postgraduálního studia",
-      "description": "Platformy pro řízení, rizika a dodržování předpisů (GRC) dosáhly zralosti srovnatelné s postgraduálním studiem. Po 20 letech vývoje se nyní zaměřují na praktické funkce jako kontinuální monitorování kontrol a kvantifikace rizik, aby poskytovaly rozhodovací informace v reálném čase.",
-      "slug": "grc-platforms-enter-their-grad-school-era",
-      "publishedAt": "2025-12-02T15:55:37+00:00",
-      "date": "2025-12-02 15:55:37",
-      "importance": 3,
-      "category": "grc platformy",
-      "urlToImage": "https://go.forrester.com/wp-content/uploads/2025/12/GRC-Platforms-Enter-Their-Grad-School-Era.jpg",
-      "url": "/tech-news/2025-12-02/grc-platforms-enter-their-grad-school-era/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Forrester.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Samsung představil trifold telefon před vstupem Applu",
       "description": "Nejambicióznější skládací zařízení v mobilním průmyslu právě přistálo. Samsung Electronics představil Galaxy Z TriFold v úterý v Soulu, telefon s dvěma panty, který se rozkládá do velikosti tabletu měsíce před očekávaným spuštěním od Apple.",
       "slug": "samsung-unveils-trifold-phone-before-apples-entry",
@@ -1694,30 +2090,6 @@
         "Kyivstar",
         "Google",
         "PacketFabric"
-      ],
-      "people": []
-    },
-    {
-      "title": "LAMY dokončila strategickou akvizici inovátora v terapii rakoviny Exousia AI, Inc.",
-      "description": "Společnost LAMY, která se mění na Exousia Bio, Inc. (OTCPINK: LMMY), oznámila dokončení akvizice 100 % podílu na Exousia AI, Inc. v transakci výhradně akciemi. Tím posílila svou pozici v oblasti exozomové terapie rakoviny s exkluzivními licencemi a Orphan Drug Designation pro terapii glioblastomu.",
-      "slug": "lamy-completes-strategic-acquisition-of-cancer-the",
-      "publishedAt": "2025-12-02T15:28:00+00:00",
-      "date": "2025-12-02 15:28:00",
-      "importance": 3,
-      "category": "biotechnologie",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7f557a35-9b11-49cc-a3ec-2379cd0e0b90",
-      "url": "/tech-news/2025-12-02/lamy-completes-strategic-acquisition-of-cancer-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "LAMY",
-        "Exousia AI",
-        "Inc",
-        "Exousia Bio",
-        "Inc"
       ],
       "people": []
     },
@@ -1939,24 +2311,6 @@
       "people": []
     },
     {
-      "title": "IMoD: 'Globální válka o čipy je kritickou frontou'",
-      "description": "Izrael brzy spustí iniciativu v hodnotě stovek milionů šekelů na domácí výrobu počítačových čipů pro pokročilé infračervené cílové systémy. Cílem je zajistit technologickou soběstačnost v oblasti polovodičů pro obranné aplikace.",
-      "slug": "imod-global-chip-war-is-a-critical-front",
-      "publishedAt": "2025-12-02T11:54:44+00:00",
-      "date": "2025-12-02 11:54:44",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1202537.jpg",
-      "url": "/tech-news/2025-12-02/imod-global-chip-war-is-a-critical-front/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Co nás učí MCP a dovednosti Claude o open source pro umělou inteligenci",
       "description": "Debaty o open source v AI se soustředí převážně na modely s otevřenými váhami. To je však podobné jako v éře osobních počítačů tvrdit, že nejdůležitější by bylo open source návrhů čipů od Intelu – užitečné pro někoho, ale ne klíčové.",
       "slug": "what-mcp-and-claude-skills-teach-us-about-open-sou",
@@ -2088,50 +2442,6 @@
       "people": []
     },
     {
-      "title": "Kraken Robotics oznámila objednávky za 12 milionů dolarů na syntetický aperturový sonar a podvodní baterie",
-      "description": "Kanadská společnost Kraken Robotics Inc. obdržela objednávky za přibližně 12 milionů dolarů na svůj syntetický aperturový sonar (SAS) a baterie SeaPower od komerčních firem i obranných subjektů. Mezi zákazníky jsou Teledyne Marine, Terradepth a dvě námořní lodě zemí NATO.",
-      "slug": "kraken-robotics-announces-12-million-in-orders-for",
-      "publishedAt": "2025-12-02T11:30:00+00:00",
-      "date": "2025-12-02 11:30:00",
-      "importance": 3,
-      "category": "robotika",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e59c25a3-ed65-400e-84ab-961ef4dd55b6",
-      "url": "/tech-news/2025-12-02/kraken-robotics-announces-12-million-in-orders-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Kraken Robotics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jim Cramer: 'Je to jen otázka času', než OpenAI přizná zaostávání za modelem Google Gemini 3, Sam Altman údajně vyhlásil 'Code Red'",
-      "description": "Komentátor CNBC Jim Cramer na platformě X předpovídá, že nový model AI Gemini 3 od Google donutí OpenAI přiznat své zaostávání. Podle spekulací Sam Altman v OpenAI aktivoval nouzový režim 'Code Red' kvůli tlaku konkurence.",
-      "slug": "jim-cramer-says-only-a-matter-of-time-before-opena",
-      "publishedAt": "2025-12-02T11:17:00+00:00",
-      "date": "2025-12-02 11:17:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://biztoc.com/cdn/2cb4f0ed7863f829_s.webp",
-      "url": "/tech-news/2025-12-02/jim-cramer-says-only-a-matter-of-time-before-opena/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
-      ],
-      "people": [
-        "Jim Cramer",
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Nové funkce Microsoft 365 Copilot od videí v Clipchamp po automatizované podněty",
       "description": "Aktualizace Microsoft 365 Copilot pro rok 2025 přináší nástroje jako tvorba videí poháněná AI v Clipchamp, automatizované řízení úkolů a centralizovanou knihovnu obsahu. Tyto funkce mají zjednodušit navigaci a správu souborů v prostředí Microsoft 365.",
       "slug": "new-microsoft-365-copilot-features-from-clipchamp-",
@@ -2167,26 +2477,6 @@
         "name": "Yahoo Entertainment"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "HSBC uzavírá partnerství s Mistral AI pro posílení nasazení generativní AI",
-      "description": "Partnerství má za cíl zlepšit obchodní procesy HSBC, ušetřit čas zaměstnancům a zlepšit služby pro miliony zákazníků po celém světě.",
-      "slug": "hsbc-partners-with-mistral-ai-to-advance-generativ",
-      "publishedAt": "2025-12-02T11:00:29+00:00",
-      "date": "2025-12-02 11:00:29",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mKbeHyv0MMxOd2WDemtCYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_banker_international_407/6bdfa78535c9499ff2de60ea7c560d13",
-      "url": "/tech-news/2025-12-02/hsbc-partners-with-mistral-ai-to-advance-generativ/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Retailbankerinternational.com"
-      },
-      "companies": [
-        "Mistral AI"
-      ],
       "people": []
     },
     {
@@ -2248,27 +2538,6 @@
       "people": []
     },
     {
-      "title": "ID-Pal získává regtech firmu NorthRow",
-      "description": "ID-Pal, oceňovaná platforma pro ověřování identity, oznámila akvizici specialistů na ověřování firem (Know Your Business, KYB) NorthRow. Tento krok umožní poskytovat sjednocené řešení pro KYC, KYB a AML kontroly.",
-      "slug": "id-pal-acquires-regtech-northrow",
-      "publishedAt": "2025-12-02T10:56:00+00:00",
-      "date": "2025-12-02 10:56:00",
-      "importance": 3,
-      "category": "regtech",
-      "urlToImage": "https://www.finextra.com/about/finextra-logo.png",
-      "url": "/tech-news/2025-12-02/id-pal-acquires-regtech-northrow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Finextra"
-      },
-      "companies": [
-        "ID-Pal",
-        "NorthRow"
-      ],
-      "people": []
-    },
-    {
       "title": "Realita nákladních elektrických vozidel a proč hybrid od Edison Motors může být tím, co skutečně funguje",
       "description": "Diesel-elektrické hybridní nákladní vozy od Edison Motors ukazují, že elektromobilita v kamionové dopravě může fungovat, pokud se navrhuje podle operačních realit místo regulačních požadavků.",
       "slug": "the-ev-truck-reality-check-and-why-edison-motors-h",
@@ -2323,67 +2592,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Zlepšete chování AI aplikací v reálném světě s tímto třístupňovým plánem hodnocení a přestaňte hádat",
-      "description": "Úspěch AI aplikací závisí na efektivním hodnocení jejich výkonu. Tento článek od LangChain nabízí strukturovaný třístupňový proces: vytvoření datasetu s označením, sladění hodnotitele a iterativní testování, který pomáhá překonat nejasné benchmarky.",
-      "slug": "improve-real-world-ai-app-behavior-with-this-3-sta",
-      "publishedAt": "2025-12-02T10:43:49+00:00",
-      "date": "2025-12-02 10:43:49",
-      "importance": 3,
-      "category": "hodnocení ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/testing-harness-config-changes_optimized-e1764664803168.jpg",
-      "url": "/tech-news/2025-12-02/improve-real-world-ai-app-behavior-with-this-3-sta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "JSW Defence a americká Shield AI spouštějí 90milionový projekt vojenských dronů v Hyderabadu",
-      "description": "JSW Defence zahájila v Hyderabadu 90milionový projekt ve spolupráci s americkou firmou Shield AI na výrobu pokročilých vojenských dronů VBAT. Partnerství zahrnuje převod technologie a vytvoření místní dodavatelské řetězce pro indickou armádu i globální trh.",
-      "slug": "jsw-defence-us-based-shield-ai-launch-90-million-m",
-      "publishedAt": "2025-12-02T10:31:40+00:00",
-      "date": "2025-12-02 10:31:40",
-      "importance": 3,
-      "category": "vojenské drony",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125716794,width-1200,height-630,imgsize-24298,overlay-etdefence/articleshow.jpg",
-      "url": "/tech-news/2025-12-02/jsw-defence-us-based-shield-ai-launch-90-million-m/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "JSW Defence",
-        "Shield AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Generální ředitel IBM: Žádným způsobem se nevyplatí utrácet biliony na AI datacentra při současných nákladech na infrastrukturu",
-      "description": "Generální ředitel IBM Arvind Krishna provedl jednoduché výpočty k výdajům velkých technologických firem na AI datacentra a zpochybnil jejich ziskovost.",
-      "slug": "ibm-ceo-says-there-is-no-way-spending-trillions-on",
-      "publishedAt": "2025-12-02T10:30:10+00:00",
-      "date": "2025-12-02 10:30:10",
-      "importance": 4,
-      "category": "ai datacentra",
-      "urlToImage": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-02/ibm-ceo-says-there-is-no-way-spending-trillions-on/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "IBM"
-      ],
-      "people": [
-        "Arvind Krishna"
-      ]
     },
     {
       "title": "Ceny v mašině",
@@ -2540,27 +2748,6 @@
       "people": []
     },
     {
-      "title": "ING vybírá VMware Cloud Foundation 9.0 jako strategickou platformu pro modernizaci privátního cloudu",
-      "description": "Broadcom a ING rozšiřují strategickou spolupráci na aktualizaci privátní cloudové infrastruktury ING. ING přijímá VMware Cloud Foundation 9.0 pro podporu globální mobility úloh a digitální transformace v souladu s finančními regulacemi.",
-      "slug": "ing-selects-vmware-cloud-foundation-90-as-strategi",
-      "publishedAt": "2025-12-02T08:01:00+00:00",
-      "date": "2025-12-02 08:01:00",
-      "importance": 3,
-      "category": "privátní cloud",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/2fecbd2d-d0e5-4503-969d-90632b69ed65",
-      "url": "/tech-news/2025-12-02/ing-selects-vmware-cloud-foundation-90-as-strategi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Broadcom Inc",
-        "VMware"
-      ],
-      "people": []
-    },
-    {
       "title": "Startup Duvo na automatizaci maloobchodních operací získal 15 milionů dolarů",
       "description": "Startup Duvo, známý také jako Taskcrew Inc., získal 15 milionů dolarů v seed financování vedeném fondem Index Ventures. Platforma nabízí AI agenty pro automatizaci každodenních úkolů v maloobchodu a e-commerce, jako jsou kontroly marží nebo správa faktur.",
       "slug": "retail-operations-automation-startup-duvo-raises-1",
@@ -2664,24 +2851,6 @@
       ]
     },
     {
-      "title": "Maruti e Vitara vs. Hyundai Creta EV vs. Windsor EV Pro: Cena, baterie, dojezd, funkce a specifikace",
-      "description": "Maruti Suzuki uvádí na indický trh své první elektrické SUV e Vitara 2. prosince 2025 s očekávanou cenou 20 až 25 milionů rupií. Model s lithium-železo-fosfátovými bateriemi od BYD nabízí dojezd až 500 km a bude konkurovat Hyundai Creta Electric nebo Windsor EV Pro.",
-      "slug": "maruti-e-vitara-vs-hyundai-creta-ev-vs-windsor-ev-",
-      "publishedAt": "2025-12-02T07:37:49+00:00",
-      "date": "2025-12-02 07:37:49",
-      "importance": 3,
-      "category": "elektromobilita",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125712896,width-1200,height-630,imgsize-94168,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-02/maruti-e-vitara-vs-hyundai-creta-ev-vs-windsor-ev/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Samsung odhaluje první telefon s trojitým skládáním",
       "description": "Společnost Samsung Electronics představila svůj první chytrý telefon s trojitým skládáním Galaxy Z TriFold, aby posílila pozici v segmentu skládacích zařízení, kde roste konkurence zejména od čínských výrobců.",
       "slug": "samsung-unveils-first-multi-folding-phone",
@@ -2699,24 +2868,6 @@
       "companies": [
         "Samsung"
       ],
-      "people": []
-    },
-    {
-      "title": "Indie nařizuje výrobcům chytrých telefonů instalaci státní aplikace pro kyberbezpečnost na nové zařízení",
-      "description": "Indie nařizuje všem výrobcům chytrých telefonů předinstalovat na nové modely státní aplikaci Sanchar Saathi pro ověřování zařízení a hlášení zneužití telekomunikačních zdrojů. Rozhodnutí vyvolává obavy z narušení soukromí kvůli širokým oprávněním aplikace.",
-      "slug": "india-tells-smartphone-makers-to-put-state-run-cyb",
-      "publishedAt": "2025-12-02T07:16:03+00:00",
-      "date": "2025-12-02 07:16:03",
-      "importance": 3,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/90d2/live/51ed9140-cf37-11f0-a052-bdc1808acb03.jpg",
-      "url": "/tech-news/2025-12-02/india-tells-smartphone-makers-to-put-state-run-cyb/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -2758,27 +2909,6 @@
       "people": [
         "Caecilia Chu"
       ]
-    },
-    {
-      "title": "Inovace KIOXIA AiSAQ a paměťově orientované AI umožňují automatické rozpoznávání obrázků na základě AI v logistických procesech",
-      "description": "Kioxia America oznámila spolupráci Kioxia Corporation, Tsubakimoto Chain a EAGLYS na vývoji technologie rozpoznávání obrázků poháněné AI, která automaticky identifikuje produkty v logistických tokech. Systém využívá technologie KIOXIA AiSAQ a Memory-Centric AI pro podporu automatizace a efektivity.",
-      "slug": "kioxia-aisaq-and-memory-centric-ai-innovations-ena",
-      "publishedAt": "2025-12-02T07:02:34+00:00",
-      "date": "2025-12-02 07:02:34",
-      "importance": 3,
-      "category": "počítačové vidění",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-02/kioxia-aisaq-and-memory-centric-ai-innovations-ena/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Madshrimps.be"
-      },
-      "companies": [
-        "Kioxia Corporation",
-        "EAGLYS Inc"
-      ],
-      "people": []
     },
     {
       "title": "Letošní nobelovská lekce pro Indii: Přizpůsobte se technologickým změnám, ale řiďte i narušení",
@@ -2840,24 +2970,6 @@
       "people": []
     },
     {
-      "title": "Je Eaton Corporation (ETN) jednou z nejlepších průmyslových akcií k nákupu?",
-      "description": "Eaton Corporation plc (NYSE:ETN) patří mezi nejlepší průmyslové akcie k nákupu. Dne 7. listopadu analytik Wells Fargo Joe O’Dea udržel doporučení „držet“ s cenovým cílem 395 dolarů.",
-      "slug": "is-eaton-corporation-etn-one-of-the-best-industria",
-      "publishedAt": "2025-12-02T06:32:47+00:00",
-      "date": "2025-12-02 06:32:47",
-      "importance": 4,
-      "category": "průmyslové akcie",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2Pcty5znqNLtDgUPm4GWLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/edbdd58d96bb65bbb9d02be6765bef63",
-      "url": "/tech-news/2025-12-02/is-eaton-corporation-etn-one-of-the-best-industria/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Vybrané články: AI ekonomika a veřejné riziko, které málo kdo chce přiznat",
       "description": "Článek Marka Keenana zkoumá, jak je umělá inteligence prezentována jako revoluční technologie, zatímco jen hrstka firem z ní enormně profituje. Zaměřuje se na veřejná rizika spojená s touto ekonomickou dynamikou, která jsou často ignorována.",
       "slug": "selected-articles-the-ai-economy-and-the-public-ri",
@@ -2912,27 +3024,6 @@
       "people": []
     },
     {
-      "title": "Indie: Vládní nařízení o předinstalované státní aplikaci rozzlobuje zastánce soukromí",
-      "description": "Indická vláda dala hlavním výrobcům, včetně Apple a Samsungu, 90 dní na předinstalaci aplikace Sanchar Saathi na nové telefony. Opozice to označila za mimoústavní. Nařízení vyvolává kritiku kvůli absenci uživatelského souhlasu a možnému porušení soukromí.",
-      "slug": "india-government-mandate-for-pre-installed-state-r",
-      "publishedAt": "2025-12-02T06:05:00+00:00",
-      "date": "2025-12-02 06:05:00",
-      "importance": 3,
-      "category": "ochrana soukromí",
-      "urlToImage": "https://static.dw.com/image/70735025_6.jpg",
-      "url": "/tech-news/2025-12-02/india-government-mandate-for-pre-installed-state-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [
-        "Apple",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "IPO společnosti Meesho otevře zítra: Makléřské firmy vidí silný dlouhodobý potenciál",
       "description": "IPO v hodnotě 5421 crore rupií otevře 3. prosince 2025 v cenovém pásmu 105–111 rupií za akcii, což ohodnocuje Meesho na 50 096 crore rupií (5,6 miliardy USD). Emise uzavře 5. prosince a zahrnuje novou emisi akcií v hodnotě 4250 crore rupií a prodej stávajících akcií.",
       "slug": "meesho-ipo-opens-tomorrow-brokerages-see-strong-lo",
@@ -2949,27 +3040,6 @@
       },
       "companies": [
         "Meesho"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie nařizuje Apple, Google a výrobcům Androidů předinstalovat aplikaci Sanchar Saathi na všechny telefony",
-      "description": "Indická vláda vydala směrnici výrobcům, aby předinstalovali aplikaci Sanchar Saathi na všechny mobilní telefony prodávané v zemi. Aplikace slouží k boji proti kyberpodvodům a správě ztracených zařízení.",
-      "slug": "india-asks-apple-google-and-android-oems-to-preloa",
-      "publishedAt": "2025-12-02T05:32:15+00:00",
-      "date": "2025-12-02 05:32:15",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/India-asks-Apple-Google-and-Android-OEMs-to-preload-Sanchar-Saathi-app-on-all-phones.png",
-      "url": "/tech-news/2025-12-02/india-asks-apple-google-and-android-oems-to-preloa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     },
@@ -2995,24 +3065,6 @@
       "people": [
         "Pat Gelsinger"
       ]
-    },
-    {
-      "title": "Integrace umělé inteligence do školení o kybernetické bezpečnosti",
-      "description": "Jak dodavatelé bezpečnostních řešení řeší výzvu přidávání AI a automatizovaných funkcí do svých produktů a služeb? Rozhovor s firmou KnowBe4, která plánuje trénovat jak lidi, tak AI agenty.",
-      "slug": "inserting-ai-into-cyber-awareness",
-      "publishedAt": "2025-12-02T05:23:00+00:00",
-      "date": "2025-12-02 05:23:00",
-      "importance": 3,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/GDPR-security-awareness-training-adobe.jpg",
-      "url": "/tech-news/2025-12-02/inserting-ai-into-cyber-awareness/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Tradingové a investiční platformy na IIT nabízejí platy přes 2,5 crore rupií",
@@ -3097,42 +3149,6 @@
       "people": []
     },
     {
-      "title": "Stává se umělá inteligence dalším odvětvím 'příliš velkým na to, aby selhalo'?",
-      "description": "Umělá inteligence je propagována jako technologie, která změní všechno, zatímco hrstka firem vydělává obrovské zisky. Klíčová otázka však zní: urychluje AI ekonomiku, nebo jen maskuje její zpomalení?",
-      "slug": "is-ai-becoming-the-next-too-big-to-fail-industry",
-      "publishedAt": "2025-12-02T05:00:00+00:00",
-      "date": "2025-12-02 05:00:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.americanthinker.com/imported/2024-02/252149_800.jpg",
-      "url": "/tech-news/2025-12-02/is-ai-becoming-the-next-too-big-to-fail-industry/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Americanthinker.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Irsko zaostává za světem v nasazování umělé inteligence v práci",
-      "description": "Studie PwC konstatuje, že Irsko zaostává za globálním průměrem v každodenním použití generativní AI a AI agentů v pracovním prostředí. Firma vyzývá společnosti, aby překonaly pilotní projekty a rozšířily nasazení technologie.",
-      "slug": "ireland-lags-rest-of-world-on-artificial-intellige",
-      "publishedAt": "2025-12-02T05:00:00+00:00",
-      "date": "2025-12-02 05:00:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/57M7J3SPMNG6PM3TDSA6X6MQK4.jpg?smart=true&auth=bc6acc0e60adaa64d2a04a0104ff39df7cd6c5a81de3be9d814eae6e703ca6b9&width=1200&height=630",
-      "url": "/tech-news/2025-12-02/ireland-lags-rest-of-world-on-artificial-intellige/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Kdo je Amar Subramanya? Bývalý viceprezident AI Microsoftu jmenován novým šéfem AI v Apple",
       "description": "Apple jmenovalo zkušeného výzkumníka umělé inteligence Amara Subramanyu svým novým viceprezidentem pro AI. Tento krok souvisí s odchodem současného šéfa AI Johna Giannandreu v roce 2026.",
       "slug": "who-is-amar-subramanya-ex-microsoft-executive-appo",
@@ -3214,26 +3230,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Infobip odhaluje trendy pro rok 2026, které promění zapojení zákazníků a digitální ekosystémy",
-      "description": "Globální cloudová komunikační platforma Infobip oznámila své předpovědi pro rok 2026, které zdůrazňují transformační trendy v AI automatizaci, bohaté zprávě a integraci platforem. Tyto trendy mají předefinovat komunikaci firem se zákazníky v sektorech jako maloobchod, zdravotnictví a finance.",
-      "slug": "infobip-unveils-2026-trends-poised-to-transform-cu",
-      "publishedAt": "2025-12-02T04:24:29+00:00",
-      "date": "2025-12-02 04:24:29",
-      "importance": 3,
-      "category": "cloudová komunikace",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/12/02/ai_market_predictions_1200x675_pr.jpg",
-      "url": "/tech-news/2025-12-02/infobip-unveils-2026-trends-poised-to-transform-cu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "companies": [
-        "Infobip"
       ],
       "people": []
     },
@@ -3673,28 +3669,6 @@
       "people": []
     },
     {
-      "title": "Hlavní výzvy, kterým bude nový šéf AI v Apple čelit od prvního dne",
-      "description": "Amar Subramanya se stane jedním z nejvíce sledovaných nových zaměstnanců, které Apple v posledních letech zaměstnal. Zde je, co musí udělat jako první.",
-      "slug": "here-are-the-main-challenges-that-apples-new-ai-le",
-      "publishedAt": "2025-12-02T00:26:40+00:00",
-      "date": "2025-12-02 00:26:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-liquid-glass-shattered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-02/here-are-the-main-challenges-that-apples-new-ai-le/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": [
-        "Amar Subramanya"
-      ]
-    },
-    {
       "title": "Kdo je Amar Subramanya? Bývalý výzkumník AI z Google a Microsoftu nyní vede Apple v oblasti umělé inteligence",
       "description": "Apple jmenovalo AI veterána Amara Subramanyu novým viceprezidentem pro umělou inteligenci, který nahradí Johna Giannandrea odcházejícího v roce 2026. Subramanya, dříve v Microsoftu a Googlu, bude řídit klíčové oblasti jako Apple Foundation Models, výzkum strojového učení a bezpečnost AI.",
       "slug": "who-is-amar-subramanya-ex-google-and-microsoft-ai-",
@@ -3812,24 +3786,6 @@
       "category": "hmotnostní spektrome",
       "urlToImage": null,
       "url": "/tech-news/2025-12-02/on-the-use-of-tabpfn-on-mass-spectrometry-analysis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Regulace vložení halogenidů pro efektivní a stabilní širokopásmové perovskitové fotovoltaické články",
-      "description": "Výzkum popisuje použití o-fenylendiaminu k vytvoření π-konjugované molekulární stěny, která reguluje krystalizaci smíšených halogenidových širokopásmových perovskitů. Tento přístup umožňuje synchronní vložení bromidových a jodidových iontů, což zvyšuje efektivitu solárních článků na 24,13 % a zlepšuje jejich stabilitu.",
-      "slug": "halide-insertion-regulation-for-efficient-and-stab",
-      "publishedAt": "2025-12-02T00:00:00+00:00",
-      "date": "2025-12-02 00:00:00",
-      "importance": 3,
-      "category": "fotovoltaika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-02/halide-insertion-regulation-for-efficient-and-stab/",
       "source": {
         "emoji": "📰",
         "id": null,
