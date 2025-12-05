@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-04T20:38:39.591763+00:00",
+  "timestamp": "2025-12-05T01:12:27.422755+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.1,
+      "newest_age_hours": 24.08,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 343.0,
-      "median_length": 352.0
+      "avg_length": 372.0,
+      "median_length": 410.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,40 +26,25 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.02,
-      "invalid_count": 2,
-      "most_common_missing_fields": {
-        "description": 2
-      },
-      "sample_invalid_articles": [
-        {
-          "file": "2025-12-03-trillion-dollar-market-caps-fairy-tale-pricing-or-.md",
-          "errors": [
-            "chybí description"
-          ]
-        },
-        {
-          "file": "2025-12-03-this-chip-maker-is-the-sp-500s-top-stock-today-its.md",
-          "errors": [
-            "chybí description"
-          ]
-        }
-      ]
+      "error_rate": 0.0,
+      "invalid_count": 0,
+      "most_common_missing_fields": {},
+      "sample_invalid_articles": []
     }
   },
   "metrics": {
-    "total_articles": 7701,
+    "total_articles": 7771,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.1,
+    "newest_article_age_hours": 24.08,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 343.0,
-    "median_content_length": 352.0,
-    "articles_with_images_pct": 92.0,
+    "avg_content_length": 372.0,
+    "median_content_length": 410.0,
+    "articles_with_images_pct": 91.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.02
+    "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
