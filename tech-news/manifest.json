@@ -1,7 +1,781 @@
 {
-  "generated": "2025-12-05T16:19:20.361050+00:00",
+  "generated": "2025-12-05T20:18:11.931792+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Starlink Mobile? SpaceX Trademark Filing Hints at Cellular Carrier Ambitions",
+      "description": "The move comes after Musk entertained the idea of competing with traditional carriers and SpaceX spent billions on radio spectrum from EchoStar.\nSpaceX has filed to trademark \"Starlink Mobile,\" suggesting CEO Elon Musk is serious about launching a mobile carr…",
+      "slug": "starlink-mobile-spacex-trademark-filing-hints-at-c",
+      "publishedAt": "2025-12-04T20:08:27+00:00",
+      "date": "2025-12-04 20:08:27",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/starlink-m/starlink-mobile-spacex-trademark-filing-hints-at-cellular-ca_7eay.1200.jpg",
+      "url": "/tech-news/2025-12-04/starlink-mobile-spacex-trademark-filing-hints-at-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "US senators seek to block Nvidia sales of advanced chips to China",
+      "description": "Bipartisan bill is part of effort to stop Beijing from getting critical AI-related technology",
+      "slug": "us-senators-seek-to-block-nvidia-sales-of-advanced",
+      "publishedAt": "2025-12-04T20:06:02+00:00",
+      "date": "2025-12-04 20:06:02",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/842a63d70ddb0d4a_s.webp",
+      "url": "/tech-news/2025-12-04/us-senators-seek-to-block-nvidia-sales-of-advanced/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "“Manhattan 2” Unveiled in Recent Presentation: Former CIA Officer Warns America Is Entering a New Race for Global Power",
+      "description": "Closed-Door White House Conversations Reveal a Possible Radical AI Initiative Moving Behind the Headlines Closed-Door White House Conversations Reveal a Possible Radical AI Initiative Moving Behind the Headlines",
+      "slug": "manhattan-2-unveiled-in-recent-presentation-former",
+      "publishedAt": "2025-12-04T20:06:00+00:00",
+      "date": "2025-12-04 20:06:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-04/manhattan-2-unveiled-in-recent-presentation-former/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "HII Partners with University of Maryland’s School of Engineering to Accelerate Defense Technologies",
+      "description": "MCLEAN, Va., Dec. 04, 2025 (GLOBE NEWSWIRE) -- HII (NYSE: HII) announced today that its Mission Technologies division has joined the Corporate Partners Program at the University of Maryland’s A. James Clark School of Engineering.",
+      "slug": "hii-partners-with-university-of-marylands-school-o",
+      "publishedAt": "2025-12-04T20:00:00+00:00",
+      "date": "2025-12-04 20:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/50e1f6f6-0b84-4b47-bae8-15bb93c2843a",
+      "url": "/tech-news/2025-12-04/hii-partners-with-university-of-marylands-school-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "From Video Email to Global Impact: Bob and Kristie Reina Share the Talk Fusion Journey",
+      "description": "Talk Fusion, led by Bob and Kristie Reina, takes communication beyond text, blending cutting-edge tools with a mission to empower lives, strengthen communities, and redefine what it means to truly connect.",
+      "slug": "from-video-email-to-global-impact-bob-and-kristie-",
+      "publishedAt": "2025-12-04T19:52:50+00:00",
+      "date": "2025-12-04 19:52:50",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d.ibtimes.com/en/full/4636127/talk-fusion-cares.png",
+      "url": "/tech-news/2025-12-04/from-video-email-to-global-impact-bob-and-kristie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google executive sees AI search as expansion for web",
+      "description": "Dec 4 : A Google search executive on Thursday pushed back against fears that its AI-powered search will harm web publishers and its advertising business, calling the technology an “expansionary moment” for the internet.Speaking at the Reuters NEXT conference …",
+      "slug": "google-executive-sees-ai-search-as-expansion-for-w",
+      "publishedAt": "2025-12-04T19:42:16+00:00",
+      "date": "2025-12-04 19:42:16",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--7s9v2YEE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-04T194216Z_1_LYNXMPELB3166_RTROPTP_3_REUTERS-NEXT-GOOGLE.JPG?itok=zqB-Wp8Q",
+      "url": "/tech-news/2025-12-04/google-executive-sees-ai-search-as-expansion-for-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "VideoProc Converter AI 8.6 (2025102301)",
+      "description": "Description: A one-stop package to AI-enhance, upscale, smooth, stabilize, convert, compress, edit, download, record, and denoise videos/audio/images/DVDs. Tackle problems in visuoauditory quality, formats, and file sizes with Level-3 Hardware Acceleration te…",
+      "slug": "videoproc-converter-ai-86-2025102301",
+      "publishedAt": "2025-12-04T19:40:36+00:00",
+      "date": "2025-12-04 19:40:36",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-04/videoproc-converter-ai-86-2025102301/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rlsbb.to"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Silicon Valley’s Man in the White House",
+      "description": "",
+      "slug": "silicon-valleys-man-in-the-white-house",
+      "publishedAt": "2025-12-04T19:32:24+00:00",
+      "date": "2025-12-04 19:32:24",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-04/silicon-valleys-man-in-the-white-house/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Watch Nvidia’s Jensen Huang, Joe Rogan rhapsodize about AI",
+      "description": "Nvidia chief executive Jensen Huang. Joe Rogan. A match made in heaven, right? \r\n\n\n\n\nAI proponent Huang appeared on the Joe Rogan Experience, run by AI disciple Joe Rogan, on Wednesday night, and the two got on like gangbusters, not surprisingly.\r\n\n\n\n\nHuang j…",
+      "slug": "watch-nvidias-jensen-huang-joe-rogan-rhapsodize-ab",
+      "publishedAt": "2025-12-04T19:29:57+00:00",
+      "date": "2025-12-04 19:29:57",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/12/Jensen-Huang-on-Joe-Rogan.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-04/watch-nvidias-jensen-huang-joe-rogan-rhapsodize-ab/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Private Equity Turns to AI as a New Value Engine",
+      "description": "Private equity’s long-standing formula of leverage and operational fixes is meeting a new force multiplier. As deal cycles tighten and competition for assets intensifies, firms are turning to artificial intelligence not as a curiosity but as a core component …",
+      "slug": "private-equity-turns-to-ai-as-a-new-value-engine",
+      "publishedAt": "2025-12-04T19:29:08+00:00",
+      "date": "2025-12-04 19:29:08",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/11/private-equity-tech-VC.png",
+      "url": "/tech-news/2025-12-04/private-equity-turns-to-ai-as-a-new-value-engine/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ListClose Announces Statewide Expansion, Advancing a Modern, Equity-Focused Real Estate Model Across Texas",
+      "description": "Houston, TX, Dec. 04, 2025 (GLOBE NEWSWIRE) -- ListClose, a licensed Texas real estate brokerage focused on fiduciary representation, transparent pricing, and modern service, announced its full statewide expansion today. The move covers all major metropolitan…",
+      "slug": "listclose-announces-statewide-expansion-advancing-",
+      "publishedAt": "2025-12-04T19:16:00+00:00",
+      "date": "2025-12-04 19:16:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-04/listclose-announces-statewide-expansion-advancing/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Robot dog with Elon Musk’s head poops out AI generated art",
+      "description": "The dystopian art installation features billionaires and Silicon Valley's elite.\nThe post Robot dog with Elon Musk’s head poops out AI generated art appeared first on Popular Science.",
+      "slug": "robot-dog-with-elon-musks-head-poops-out-ai-genera",
+      "publishedAt": "2025-12-04T19:01:11+00:00",
+      "date": "2025-12-04 19:01:11",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/12/musk-robot-dog_20cc94.png?w=1200",
+      "url": "/tech-news/2025-12-04/robot-dog-with-elon-musks-head-poops-out-ai-genera/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Popular Science"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Your year-end infosec wrapped",
+      "description": "Bill explores how our biggest mistakes can be the catalysts for growth that we need. This week’s newsletter promises stories, lessons, and a fresh perspective on failure.",
+      "slug": "your-year-end-infosec-wrapped",
+      "publishedAt": "2025-12-04T19:00:21+00:00",
+      "date": "2025-12-04 19:00:21",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://blog.talosintelligence.com/content/images/size/w1200/2025/12/threat-source-newsletter.jpg",
+      "url": "/tech-news/2025-12-04/your-year-end-infosec-wrapped/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "I have been writing a niche history blog for 15 years",
+      "description": "A special appeal to support Res Obscura on its Crystal Anniversary",
+      "slug": "i-have-been-writing-a-niche-history-blog-for-15-ye",
+      "publishedAt": "2025-12-04T18:49:20+00:00",
+      "date": "2025-12-04 18:49:20",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!L0f-!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F217cd28f-a8e2-4499-a86c-d2ebb70d2e3d_1576x1570.png",
+      "url": "/tech-news/2025-12-04/i-have-been-writing-a-niche-history-blog-for-15-ye/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Substack.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "TOPDON USA Adds Master Version to Popular TopScan Series",
+      "description": "ROCKAWAY, NEW JERSEY, Dec. 04, 2025 (GLOBE NEWSWIRE) -- TOPDON USA (https://www.topdon.us/), a leading provider of cutting-edge diagnostic tools and technology solutions for automotive professionals, has added the Master version to its popular TopScan diagnos…",
+      "slug": "topdon-usa-adds-master-version-to-popular-topscan-",
+      "publishedAt": "2025-12-04T18:48:00+00:00",
+      "date": "2025-12-04 18:48:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/472f56b9-d6d0-4ac4-9db5-78290841cb1b",
+      "url": "/tech-news/2025-12-04/topdon-usa-adds-master-version-to-popular-topscan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "iQor CXBPO™ to Host ‘No BS. Drive Growth in 2026 Through AI-Powered Insights’ Live Executive Event Focused on the Next Era of Customer Experience",
+      "description": "iQor CXBPO hosts a no-BS executive event on Dec. 10 revealing how AI-powered insights transform CX, boost performance, and drive growth in 2026.......",
+      "slug": "iqor-cxbpo-to-host-no-bs-drive-growth-in-2026-thro",
+      "publishedAt": "2025-12-04T18:48:00+00:00",
+      "date": "2025-12-04 18:48:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23d79663-dc14-4ad6-b82d-85cdf440086b",
+      "url": "/tech-news/2025-12-04/iqor-cxbpo-to-host-no-bs-drive-growth-in-2026-thro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Suzlon unveils plan for three new AI-enabled smart blade units",
+      "description": "Suzlon Energy is launching three new AI-powered smart blade factories. This expansion will boost its manufacturing capabilities across India. The new facilities aim to improve blade quality and production efficiency. Suzlon is also upgrading its existing plan…",
+      "slug": "suzlon-unveils-plan-for-three-new-ai-enabled-smart",
+      "publishedAt": "2025-12-04T18:43:11+00:00",
+      "date": "2025-12-04 18:43:11",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125773294,width-1200,height-630,imgsize-187214,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-04/suzlon-unveils-plan-for-three-new-ai-enabled-smart/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "How an AI Wiz Used ChatGPT to Turn the Tables on a Scammer",
+      "description": "An IT worker claims he \"vibe coded\" a phishing page via AI to unmask a would-be scammer in Delhi, prompting panicked pleas for mercy.",
+      "slug": "how-an-ai-wiz-used-chatgpt-to-turn-the-tables-on-a",
+      "publishedAt": "2025-12-04T18:41:11+00:00",
+      "date": "2025-12-04 18:41:11",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-02-gID_7.jpg",
+      "url": "/tech-news/2025-12-04/how-an-ai-wiz-used-chatgpt-to-turn-the-tables-on-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tech tops 5o per cent of white-collar job openings, but hiring slump persists",
+      "description": "Technology sector's share in Indian white-collar jobs surpassed 50% in December, reaching 51% for the first time since October 2022. Despite this, overall tech hiring activity dipped 26% year-on-year, with companies cautious due to AI disruption and market un…",
+      "slug": "tech-tops-5o-per-cent-of-white-collar-job-openings",
+      "publishedAt": "2025-12-04T18:37:06+00:00",
+      "date": "2025-12-04 18:37:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125773212,width-1200,height-630,imgsize-25538,overlay-etcareers/articleshow.jpg",
+      "url": "/tech-news/2025-12-04/tech-tops-5o-per-cent-of-white-collar-job-openings/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI",
+      "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.",
+      "slug": "meta-eyes-budget-cuts-for-its-metaverse-group-as-c",
+      "publishedAt": "2025-12-04T18:33:20+00:00",
+      "date": "2025-12-04 18:33:20",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://i.insider.com/6931b4da71107c9f34575617?width=1181&format=jpeg",
+      "url": "/tech-news/2025-12-04/meta-eyes-budget-cuts-for-its-metaverse-group-as-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Is OpenAI About to Go Bankrupt?",
+      "description": "LAST UPDATED: December 4, 2025 at 10:26 PM GUEST POST from Chateau G Pato The innovation landscape is shifting, and the tremors are strongest in the artificial intelligence (AI) sector. For a moment, OpenAI felt like an impenetrable fortress, the company that…",
+      "slug": "is-openai-about-to-go-bankrupt",
+      "publishedAt": "2025-12-04T18:32:59+00:00",
+      "date": "2025-12-04 18:32:59",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-04/is-openai-about-to-go-bankrupt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bradenkelley.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "HPE Discover Barcelona 2025 unveils AI networking advances",
+      "description": "At HPE Discover Barcelona 2025, HPE shares its aim to create a generation of networks with self-driving capabilities, as well as new hardware to advance AI goals.",
+      "slug": "hpe-discover-barcelona-2025-unveils-ai-networking-",
+      "publishedAt": "2025-12-04T18:28:00+00:00",
+      "date": "2025-12-04 18:28:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.techtarget.com/visuals/LeMagIT/hero_article/Cloud-networking.jpg",
+      "url": "/tech-news/2025-12-04/hpe-discover-barcelona-2025-unveils-ai-networking/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Micron Gives Crucial the Lexar Treatment, Shutters Memory Brand",
+      "description": "Micron, the maker of Crucial memory, including SSDs, has announced that it will shutter the Crucial brand and exit the consumer memory business to focus on supplying AI data centers.\n[Read More]",
+      "slug": "micron-gives-crucial-the-lexar-treatment-shutters-",
+      "publishedAt": "2025-12-04T18:24:59+00:00",
+      "date": "2025-12-04 18:24:59",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/12/Micron-Gives-Crucial-the-Lexar-Treatment-Shutters-Memory-Brand.jpg",
+      "url": "/tech-news/2025-12-04/micron-gives-crucial-the-lexar-treatment-shutters/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fighting First-Party Fraud: How AI is Revolutionizing Dispute Resolution in Fintech",
+      "description": "First-party fraud is a growing problem for financial institutions and retail businesses. But relative to other fraud threats—from deepfakes to account takeover—first-party fraud is often overlooked when it comes to major fraud challenges faced by businesses. …",
+      "slug": "fighting-first-party-fraud-how-ai-is-revolutionizi",
+      "publishedAt": "2025-12-04T18:22:32+00:00",
+      "date": "2025-12-04 18:22:32",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://finovate.com/wp-content/uploads/2025/12/kavoos-hosseinpour-PXdHK56f0XY-unsplash-scaled.jpg",
+      "url": "/tech-news/2025-12-04/fighting-first-party-fraud-how-ai-is-revolutionizi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finovate.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "For AI-native applications, scalability — not just latency — is the true enterprise challenge",
+      "description": "Artificial intelligence initiatives — especially agentic AI-native applications — are shaking up the marriage of storage and compute. Traditional online transaction processing workloads still demand very low latency, typically relying on row-store databases r…",
+      "slug": "for-ai-native-applications-scalability-not-just-la",
+      "publishedAt": "2025-12-04T18:20:22+00:00",
+      "date": "2025-12-04 18:20:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/paul-clean.jpg",
+      "url": "/tech-news/2025-12-04/for-ai-native-applications-scalability-not-just-la/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Top Technology Executives Recognized at the 2025 Michigan ORBIE Awards",
+      "description": "Leading CIOs honored for leadership, innovation, and business impact. ......",
+      "slug": "top-technology-executives-recognized-at-the-2025-m",
+      "publishedAt": "2025-12-04T18:20:00+00:00",
+      "date": "2025-12-04 18:20:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/72e61112-a9a8-437e-be25-9fcdfe519629",
+      "url": "/tech-news/2025-12-04/top-technology-executives-recognized-at-the-2025-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Is “Sliding into Instagram DMs” Still a Thing to Find Dates in 2025?",
+      "description": "Dating apps have lost their grip on younger users. Bumble reported an 8% year-over-year decrease in total revenue in Q1 2025, according to Investing.com. A Forbes Health Survey of 1,000 Americans in 2024 found that more than 75% of Gen Z respondents felt burn…",
+      "slug": "is-sliding-into-instagram-dms-still-a-thing-to-fin",
+      "publishedAt": "2025-12-04T18:18:59+00:00",
+      "date": "2025-12-04 18:18:59",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://incrediblethings.com/wp-content/uploads/2020/01/bigstock-Instagram-Pattern-Printed-On-P-343843762.jpg",
+      "url": "/tech-news/2025-12-04/is-sliding-into-instagram-dms-still-a-thing-to-fin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Incrediblethings.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "‘We gotta act white’: how voice recognition tech fails for Aboriginal English speakers",
+      "description": "Voice-operated technology can’t cope with non-mainstream varieties of English.",
+      "slug": "we-gotta-act-white-how-voice-recognition-tech-fail",
+      "publishedAt": "2025-12-04T18:15:06+00:00",
+      "date": "2025-12-04 18:15:06",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images.theconversation.com/files/706335/original/file-20251204-56-1chjiy.jpeg?ixlib=rb-4.1.0&rect=0%2C585%2C7008%2C3504&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2025-12-04/we-gotta-act-white-how-voice-recognition-tech-fail/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Millersville becomes one of the first universities to offer courses for teaching endorsement in AI",
+      "description": "Millersville University will be one of the first Pennsylvania colleges to offer graduate-level classes leading to a state teaching endorsement for artificial intelligence in education.",
+      "slug": "millersville-becomes-one-of-the-first-universities",
+      "publishedAt": "2025-12-04T18:12:00+00:00",
+      "date": "2025-12-04 18:12:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/85/68549ef8-5626-4321-9698-fdcc5e49a631/6931cfbe5deaf.image.jpg?crop=1000%2C525%2C0%2C97",
+      "url": "/tech-news/2025-12-04/millersville-becomes-one-of-the-first-universities/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "LancasterOnline"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nari Shakti to Vikas: Focus must shift to Women-led progress",
+      "description": "Lakshmi PuriGender equality and women’s empowerment is the organising idea for our brighter todays and our transformed tomorrows. In this age of acceleration, we cannot afford to wait another century to achieve gender parity. The cardinal concept of nari shak…",
+      "slug": "nari-shakti-to-vikas-focus-must-shift-to-women-led",
+      "publishedAt": "2025-12-04T18:10:07+00:00",
+      "date": "2025-12-04 18:10:07",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/03/319526318_5727891263973556_9016205861254904172_n-1024x1024.jpg",
+      "url": "/tech-news/2025-12-04/nari-shakti-to-vikas-focus-must-shift-to-women-led/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": ".NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More",
+      "description": ".NET Conf 2025 is over, but you can catch up with all the announcements and fun with video recordings, slides, demos, and more.\nThe post .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More appeared first on .NET Blog.",
+      "slug": "net-conf-2025-recap-celebrating-net-10-visual-stud",
+      "publishedAt": "2025-12-04T18:05:00+00:00",
+      "date": "2025-12-04 18:05:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/dotnet-conf-2025-recap-scaled.webp",
+      "url": "/tech-news/2025-12-04/net-conf-2025-recap-celebrating-net-10-visual-stud/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Future of Partner Enablement: A Framework Built for Partner Success",
+      "description": "Cisco is transforming partner enablement with a new framework and five key capabilities, including AI tools, curated learning journeys, and enhanced demo experiences. Discover how these changes simplify partnering, boost profitability, and help partners win a…",
+      "slug": "the-future-of-partner-enablement-a-framework-built",
+      "publishedAt": "2025-12-04T18:00:11+00:00",
+      "date": "2025-12-04 18:00:11",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2025/12/PS_Enablement-Strategy.png",
+      "url": "/tech-news/2025-12-04/the-future-of-partner-enablement-a-framework-built/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Why is AI making computers and games consoles more expensive?",
+      "description": "The AI industry consumes vast amounts of energy, fresh water and investor cash. Now it also needs memory chips - the same ones used in laptops, smartphones and games consoles",
+      "slug": "why-is-ai-making-computers-and-games-consoles-more",
+      "publishedAt": "2025-12-04T18:00:10+00:00",
+      "date": "2025-12-04 18:00:10",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/12/04162216/SEI_276787680.jpg",
+      "url": "/tech-news/2025-12-04/why-is-ai-making-computers-and-games-consoles-more/",
+      "source": {
+        "emoji": "📰",
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The critical agentic question: Can enterprises align data costs with soaring AI ambitions?",
+      "description": "Companies are eager to embrace artificial intelligence, but many are slowed down by outdated data systems and rising infrastructure costs, exposing gaps in enterprise AI preparedness. As AI agents flood systems with telemetry and demand structured data, they …",
+      "slug": "the-critical-agentic-question-can-enterprises-alig",
+      "publishedAt": "2025-12-04T18:00:00+00:00",
+      "date": "2025-12-04 18:00:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Clint-Sharp-co-founder-and-chief-executive-officer-of-Cribl-Inc-AWS-reInvent-e1764817409696.jpg",
+      "url": "/tech-news/2025-12-04/the-critical-agentic-question-can-enterprises-alig/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Starlink on Track to Receive $661 Million From Federal Broadband Program",
+      "description": "Close to $1 billion from the Broadband Equity, Access, and Deployment (BEAD) program will go to SpaceX and Amazon's Leo to help bring high-speed internet to underserved areas.\nSpaceX’s Starlink is poised to receive $661 million in government funds as all 50 s…",
+      "slug": "starlink-on-track-to-receive-661-million-from-fede",
+      "publishedAt": "2025-12-04T17:59:55+00:00",
+      "date": "2025-12-04 17:59:55",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/s/starlink-o/starlink-on-track-to-receive-661-million-from-federal-broadb_g9j5.1200.jpg",
+      "url": "/tech-news/2025-12-04/starlink-on-track-to-receive-661-million-from-fede/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Gautam Adani Deepens Investment Pledge In Andhra Pradesh In Meeting With Chandrababu Naidu",
+      "description": "Adani Group Chairman Gautam Adani reaffirmed the conglomerate’s strong commitment to Andhra Pradesh, praising Chief Minister N. Chandrababu Naidu’s ambitious vision for the state. The Group’s planned investment in Andhra Pradesh is estimated at Rs 1.4 lakh cr…",
+      "slug": "gautam-adani-deepens-investment-pledge-in-andhra-p",
+      "publishedAt": "2025-12-04T17:57:57+00:00",
+      "date": "2025-12-04 17:57:57",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-04%2Fpu88rns3%2Fbj5r0qion-chandrababu-naidu-gautam-adani625x30003December25.avif?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-04/gautam-adani-deepens-investment-pledge-in-andhra-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microchip (MCHP) Climbs 12% on Higher Growth Outlook",
+      "description": "We recently published 10 Stocks Stealing Market Spotlight. Microchip Technology Inc. (NASDAQ:MCHP) is one of the best performers on Wednesday. Microchip...",
+      "slug": "microchip-mchp-climbs-12-on-higher-growth-outlook",
+      "publishedAt": "2025-12-04T17:55:38+00:00",
+      "date": "2025-12-04 17:55:38",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/55a5b7901d9c773fba2bfb47db3b87bb",
+      "url": "/tech-news/2025-12-04/microchip-mchp-climbs-12-on-higher-growth-outlook/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Paramount’s Ananey Studios Partners with Future Today to Bring Diverse Content to Global Audiences",
+      "description": "Acclaimed titles, including The Malevolent Bride, Rising, and Remnants, set to stream on Fawesome TV Acclaimed titles, including The Malevolent Bride, Rising, and Remnants, set to stream on Fawesome TV",
+      "slug": "paramounts-ananey-studios-partners-with-future-tod",
+      "publishedAt": "2025-12-04T17:55:00+00:00",
+      "date": "2025-12-04 17:55:00",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0a22d24e-b483-4524-8b5f-5c0221a1ef47",
+      "url": "/tech-news/2025-12-04/paramounts-ananey-studios-partners-with-future-tod/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Quantum Computing (QUBT) Jumps 9.7% on Bargain-Hunting",
+      "description": "We recently published 10 Stocks Stealing Market Spotlight. Quantum Computing Inc. (NASDAQ:QUBT) is one of the best performers on Wednesday. Quantum Computing...",
+      "slug": "quantum-computing-qubt-jumps-97-on-bargain-hunting",
+      "publishedAt": "2025-12-04T17:53:34+00:00",
+      "date": "2025-12-04 17:53:34",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fl.yXhPU5vjNU9WjNDk7Og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NTk-/https://media.zenfs.com/en/insidermonkey.com/97cbdc98de79eb50c608ef1fd3dafc81",
+      "url": "/tech-news/2025-12-04/quantum-computing-qubt-jumps-97-on-bargain-hunting/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Maharashtra To Implement AI-Driven Digital Twin For Sustainable Energy, Says Fadnavis",
+      "description": "Maharashtra is vying to consolidate its power distribution network through a 'Digital Twin' model for solar and other renewable energy sources as MahaVitaran is planning to implement an AI-based digitisation initiative while partnering with leading internatio…",
+      "slug": "maharashtra-to-implement-ai-driven-digital-twin-fo",
+      "publishedAt": "2025-12-04T17:53:22+00:00",
+      "date": "2025-12-04 17:53:22",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2019-08%2Fff7eceea-bd31-42ad-99c2-d8770e07087e%2Fdevendra_fadnavis_pti.jpg?rect=0%2C0%2C760%2C399&w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-04/maharashtra-to-implement-ai-driven-digital-twin-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "The Attention Economy is Burned Out (Now What?)",
+      "description": "We’ve hit a tipping point. The old digital playbook isn’t working like it used to, and for many, the return just isn’t there anymore.\nThe post The Attention Economy is Burned Out (Now What?) appeared first on CHRISG.com Authority & Marketing Technology.",
+      "slug": "the-attention-economy-is-burned-out-now-what",
+      "publishedAt": "2025-12-04T17:51:37+00:00",
+      "date": "2025-12-04 17:51:37",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://www.chrisg.com/wp-content/uploads/image-89-49.jpg",
+      "url": "/tech-news/2025-12-04/the-attention-economy-is-burned-out-now-what/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Chrisg.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Server prices set to jump 15%, PCs 5%, as memory costs spike - channel sources",
+      "description": "Major OEMs are plotting double-digit hikes as DRAM and NAND shortages bite\nExclusive Server and PC prices are climbing sharply as hardware manufacturers grapple with soaring memory component costs, multiple supply chain sources have told The Register.…",
+      "slug": "server-prices-set-to-jump-15-pcs-5-as-memory-costs",
+      "publishedAt": "2025-12-04T17:51:16+00:00",
+      "date": "2025-12-04 17:51:16",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://regmedia.co.uk/2016/10/22/rising_prices_shutterstock.jpg",
+      "url": "/tech-news/2025-12-04/server-prices-set-to-jump-15-pcs-5-as-memory-costs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Meets with Trump to Discuss AI Export Controls, State-by-State Regulation",
+      "description": "Nvidia CEO Jensen Huang met with President Donald Trump on Wednesday to discuss AI chip export restrictions and voiced his opposition to state-level regulation of artificial intelligence.\nThe post Nvidia CEO Jensen Huang Meets with Trump to Discuss AI Export …",
+      "slug": "nvidia-ceo-jensen-huang-meets-with-trump-to-discus",
+      "publishedAt": "2025-12-04T17:50:33+00:00",
+      "date": "2025-12-04 17:50:33",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Nvidia-boss-Jensen-Huang-1-640x335.jpg",
+      "url": "/tech-news/2025-12-04/nvidia-ceo-jensen-huang-meets-with-trump-to-discus/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Snowflake, Anthropic boost partnership with $200M commitment",
       "description": "After first partnering in 2024 to make Claude models available in Cortex AI, the companies plan to collaborate on agentic AI development and marketing strategies.",
@@ -16,24 +790,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Techtarget.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "China Impact in Automotives Industry Strategic Intelligence Report 2025: Surging Exports and Rapid EV Innovation Reshape Competitive Standards for Automakers Worldwide",
-      "description": "China dominates the global automotive market, surpassing past sales records and expanding exports to Europe, Southeast Asia, and Latin America. With a 60% domestic share and rising international influence, the focus is on cost-efficient production and alignme…",
-      "slug": "china-impact-in-automotives-industry-strategic-int",
-      "publishedAt": "2025-12-04T16:17:00+00:00",
-      "date": "2025-12-04 16:17:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-12-04/china-impact-in-automotives-industry-strategic-int/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -147,42 +903,6 @@
       "people": []
     },
     {
-      "title": "Deloitte Top 200: Company of the year - Sir Peter Beck’s Rocket Lab",
-      "description": "Rocket Lab’s order book has topped US$500m as global demand surges for launches.",
-      "slug": "deloitte-top-200-company-of-the-year-sir-peter-bec",
-      "publishedAt": "2025-12-04T16:06:00+00:00",
-      "date": "2025-12-04 16:06:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/MXAQKRKPTJIN4LE6VNT4AXZITY.jpg?auth=10955f496700301d7d86c19fd2c117cd21773402d5dc27bd612a2e5259afd1a1&width=1200&height=675&quality=70&focal=1229%2C426&smart=false",
-      "url": "/tech-news/2025-12-04/deloitte-top-200-company-of-the-year-sir-peter-bec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Check Point Software Unveils Quantum Firewall Software R82.10 to Secure the AI-Driven Enterprise",
-      "description": "Check Point introduces new software offering 20+ capabilities to secure AI transformation, boost Zero Trust, and unify hybrid mesh network protection.......",
-      "slug": "check-point-software-unveils-quantum-firewall-soft",
-      "publishedAt": "2025-12-04T16:01:00+00:00",
-      "date": "2025-12-04 16:01:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/60b803b3-dc47-42f3-8792-20f48abcc38a",
-      "url": "/tech-news/2025-12-04/check-point-software-unveils-quantum-firewall-soft/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Private Credit Profits Come Under Threat as Loan Margins Narrow",
       "description": "The worst bear markets in a generation brought private credit firms to prominence in 2022. This year’s bull markets have laid them low.",
       "slug": "private-credit-profits-come-under-threat-as-loan-m",
@@ -232,96 +952,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Ubergizmo"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "December Pixel Drop: Smarter Features for Your GooglePixel Devices",
-      "description": "The December Pixel Drop introduces a wealth of exciting updates to Pixel phones, tablets, and watches, elevating their functionality and user experience to new heights. This comprehensive update brings forth a range of enhancements, including Gemini’s advance…",
-      "slug": "december-pixel-drop-smarter-features-for-your-goog",
-      "publishedAt": "2025-12-04T16:00:05+00:00",
-      "date": "2025-12-04 16:00:05",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/Pixel-Drop.jpg",
-      "url": "/tech-news/2025-12-04/december-pixel-drop-smarter-features-for-your-goog/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Eavor Technologies Achieves First Electricity Production at Geretsried Site",
-      "description": "Historic milestone: Eavor’s Geretsried project has begun supplying clean geothermal power, paving the way for global expansion of its closed-loop tech.......",
-      "slug": "eavor-technologies-achieves-first-electricity-prod",
-      "publishedAt": "2025-12-04T16:00:00+00:00",
-      "date": "2025-12-04 16:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/413ceb68-f123-4692-887a-a0e009856a39",
-      "url": "/tech-news/2025-12-04/eavor-technologies-achieves-first-electricity-prod/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Deloitte Top 200: Fisher and Paykel Healthcare wins Best Growth award",
-      "description": "Fisher and Paykel’s $22b valuation makes it NZX’s largest listed company.",
-      "slug": "deloitte-top-200-fisher-and-paykel-healthcare-wins",
-      "publishedAt": "2025-12-04T16:00:00+00:00",
-      "date": "2025-12-04 16:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NIWN3EWJY5FCXMBLLFZMBGKCEA.jpg?auth=86cb7c867110b65f865ebc7f22fff832b4c215bb4a6270195ab7d6f6a5d63bfe&width=1200&height=675&quality=70&focal=1936%2C968&smart=false",
-      "url": "/tech-news/2025-12-04/deloitte-top-200-fisher-and-paykel-healthcare-wins/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Deloitte Top 200: Clarus wins 2025 Diversity and Inclusion Leadership award",
-      "description": "Building Belonging has more than halved Clarus’ gender pay gap.",
-      "slug": "deloitte-top-200-clarus-wins-2025-diversity-and-in",
-      "publishedAt": "2025-12-04T16:00:00+00:00",
-      "date": "2025-12-04 16:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/P6WEHSPRIBEC7AJFYYWTMVZIGY.jpg?auth=5ebc7897ffd10738f3f67bb1df23f52c50be0140fd3794ed85ab52197a0e6f79&width=1200&height=675&quality=70&focal=964%2C804&smart=false",
-      "url": "/tech-news/2025-12-04/deloitte-top-200-clarus-wins-2025-diversity-and-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Deloitte Top 200: Kiwi CEOs show rising confidence - Mike Horne",
-      "description": "Opinion: Two-thirds of Kiwi CEOs are confident about company performance in 2025.",
-      "slug": "deloitte-top-200-kiwi-ceos-show-rising-confidence-",
-      "publishedAt": "2025-12-04T15:59:00+00:00",
-      "date": "2025-12-04 15:59:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/2RPEDS6JEJA2JG246LCYIMCK6M.jpg?auth=8fa85f7d4456a3f9dbfc08f84fad1bab623f990637425e7149cfe23272a83dbf&width=1200&height=675&quality=70&smart=true",
-      "url": "/tech-news/2025-12-04/deloitte-top-200-kiwi-ceos-show-rising-confidence/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
       },
       "companies": [],
       "people": []
@@ -399,24 +1029,6 @@
       "people": []
     },
     {
-      "title": "China’s AI Chip Output Is Expected to Far Exceed Domestic Demand, as NVIDIA’s CEO Warns the World About the AI ‘Belt & Road’ Initiative",
-      "description": "China's AI industry is evolving at a rapid pace, to the point where domestic chip manufacturers are expected to outproduce regional demand, and NVIDIA CEO has warned about the 'Chinese AI diffusion' in place. Chinese AI Firms Are Now Looking to Expand Their P…",
-      "slug": "chinas-ai-chip-output-is-expected-to-far-exceed-do",
-      "publishedAt": "2025-12-04T15:44:49+00:00",
-      "date": "2025-12-04 15:44:49",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Untitled-design-13-728x410.png",
-      "url": "/tech-news/2025-12-04/chinas-ai-chip-output-is-expected-to-far-exceed-do/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "We see something that works, and then we understand it",
       "description": "“We see something that works, and then we understand it.” (Thomas Dullien) It is a deeper insight than it seems. Young people spend years in school learning the reverse: understanding happens before progress. That is the linear theory of innovation. So Isaac …",
       "slug": "we-see-something-that-works-and-then-we-understand",
@@ -430,24 +1042,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Lemire.me"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Cyber Week 2025: The Rise of Agentic Commerce and the Surgical Shopper",
-      "description": "The story isn’t declining foot traffic — it’s the rise of informed, AI-empowered buyers who expect certainty and value in every interaction.\nContinue reading...",
-      "slug": "cyber-week-2025-the-rise-of-agentic-commerce-and-t",
-      "publishedAt": "2025-12-04T15:39:54+00:00",
-      "date": "2025-12-04 15:39:54",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.cmswire.com/-/media/5699fc9a96b94ce39ce10d92c3b7fd65.ashx",
-      "url": "/tech-news/2025-12-04/cyber-week-2025-the-rise-of-agentic-commerce-and-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CMSWire"
       },
       "companies": [],
       "people": []
@@ -561,24 +1155,6 @@
       "people": []
     },
     {
-      "title": "Data Center IT Equipment Business Analysis Report 2025: Market to Surpass $200 Billion by 2030 - Rising Demand in Hyperscale and Colocation Facilities Throws Spotlight on Market Opportunities",
-      "description": "Technological advancements and rising demand for cloud, AI, and digital services drive growth in Data Center IT Equipment. Key opportunities lie in efficient, scalable data solutions, AI integration, and emerging markets like China. Energy efficiency and regu…",
-      "slug": "data-center-it-equipment-business-analysis-report-",
-      "publishedAt": "2025-12-04T15:30:00+00:00",
-      "date": "2025-12-04 15:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-12-04/data-center-it-equipment-business-analysis-report/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Steve Tarbuck Joins Arctiq as Vice President of Sales, USA Central Region",
       "description": "Steve Tarbuck joins Arctiq as Vice President of Sales for the USA Central Region......",
       "slug": "steve-tarbuck-joins-arctiq-as-vice-president-of-sa",
@@ -651,42 +1227,6 @@
       "people": []
     },
     {
-      "title": "Comparative Study: Apple And Industry Competitors In Technology Hardware, Storage & Peripherals Industry",
-      "description": "In today's rapidly evolving and fiercely competitive business landscape, it is crucial for investors and industry analysts to conduct comprehensive company evaluations. In this article, we will undertake an in-depth industry comparison, assessing Apple (NASDA…",
-      "slug": "comparative-study-apple-and-industry-competitors-i",
-      "publishedAt": "2025-12-04T15:14:01+00:00",
-      "date": "2025-12-04 15:14:01",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://biztoc.com/cdn/b3b7ae1272c40e1a_s.webp",
-      "url": "/tech-news/2025-12-04/comparative-study-apple-and-industry-competitors-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ChatGPT Encouraged a Violent Stalker, Court Documents Allege",
-      "description": "The man \"stalked and harassed more than 10 women by weaponizing modern technology,\" prosecutors said.\nThe post ChatGPT Encouraged a Violent Stalker, Court Documents Allege appeared first on Futurism.",
-      "slug": "chatgpt-encouraged-a-violent-stalker-court-documen",
-      "publishedAt": "2025-12-04T15:13:04+00:00",
-      "date": "2025-12-04 15:13:04",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/chatgpt-encouraged-violent-stalker.jpg?w=1200",
-      "url": "/tech-news/2025-12-04/chatgpt-encouraged-a-violent-stalker-court-documen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Not just Russia, another trade boost is loading for India",
       "description": "India and Canada are reviving stalled trade talks as Commerce Minister Piyush Goyal and his Canadian counterpart Maninder Sidhu begin preparations to launch negotiations on the long-pending CEPA pact. The move comes as India seeks new markets amid Trump-era t…",
       "slug": "not-just-russia-another-trade-boost-is-loading-for",
@@ -718,24 +1258,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Techpowerup.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Data Center UPS Global Market Report 2025-2029 and 2033: Surging Demand for Digital Transformation and Cloud Computing, Driving the Need for Reliable Power Solutions",
-      "description": "Opportunities in the data center UPS market include surging demand for digital transformation and cloud computing, driving the need for reliable power solutions. Trends like edge computing, AI integration, and energy efficiency emphasize innovation potential.…",
-      "slug": "data-center-ups-global-market-report-2025-2029-and",
-      "publishedAt": "2025-12-04T15:10:00+00:00",
-      "date": "2025-12-04 15:10:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-12-04/data-center-ups-global-market-report-2025-2029-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -867,24 +1389,6 @@
       "people": []
     },
     {
-      "title": "Can Next-Generation AI Imaging Devices Accelerate Diagnostic Decision-Making?",
-      "description": "The AI imaging device market is growing as these devices enhance diagnostic precision and effectiveness, early detection of disease and enhanced workflow.",
-      "slug": "can-next-generation-ai-imaging-devices-accelerate-",
-      "publishedAt": "2025-12-04T12:06:00+00:00",
-      "date": "2025-12-04 12:06:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
-      "url": "/tech-news/2025-12-04/can-next-generation-ai-imaging-devices-accelerate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nvidia has a cash problem -- too much of it",
       "description": "Nvidia's recent slew of billion-dollar checks highlight the company's growing cash pile.",
       "slug": "nvidia-has-a-cash-problem-too-much-of-it",
@@ -988,24 +1492,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Exynos 2600 Versions Of Galaxy S26 Models To Remain Limited To Domestic Market; Korean Research Firm Says Historically, It Is Due To Security Vulnerabilities, Low Yields & More",
-      "description": "The first trailer of Samsung’s upcoming Exynos 2600 is sufficient evidence to let the industry know that the Snapdragon 8 Elite Gen 5, Dimensity 9500, and the A19 Pro are going to get some competition in the coming months. However, as much as the Korean giant…",
-      "slug": "exynos-2600-versions-of-galaxy-s26-models-to-remai",
-      "publishedAt": "2025-12-04T11:57:53+00:00",
-      "date": "2025-12-04 11:57:53",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Exynos-2600-4.jpg",
-      "url": "/tech-news/2025-12-04/exynos-2600-versions-of-galaxy-s26-models-to-remai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
       },
       "companies": [],
       "people": []
@@ -1155,24 +1641,6 @@
       "people": []
     },
     {
-      "title": "Building the Most Agile, Adaptable and Resilient Marketing Team: The Jennie Weber Way",
-      "description": "Retail isn’t dead — it’s just evolving at lightning speed.",
-      "slug": "building-the-most-agile-adaptable-and-resilient-ma",
-      "publishedAt": "2025-12-04T11:42:58+00:00",
-      "date": "2025-12-04 11:42:58",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://static-www.adweek.com/wp-content/uploads/2025/12/marketing-vanguard-best-buy-jennie-weber.png?w=600&h=315&crop=1",
-      "url": "/tech-news/2025-12-04/building-the-most-agile-adaptable-and-resilient-ma/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Adweek"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nubia Fold Just Put Samsung Galaxy Z TriFold To Shame",
       "description": "Nubia's first foldable device, aptly dubbed the Nubia Fold, is already turning heads and putting competitors to shame, chiefly the new Samsung Galaxy Z TriFold, which boasts of a much larger display-based real estate. Nubia was able to cram a 6,560mAH battery…",
       "slug": "nubia-fold-just-put-samsung-galaxy-z-trifold-to-sh",
@@ -1263,24 +1731,6 @@
       "people": []
     },
     {
-      "title": "Creating certainty where there is none: artificial intelligence as political concept",
-      "description": "Garibay-Petersen, Cristóbal ORCID: 0000-0001-7741-3979 , Lorimer, Marta ORCID: 0000-0002-9214-3898 and Menzat, Bayar (2025) Creating certainty where there is none: artificial intelligence as political concept. Big Data and Society. ISSN 2053-9517",
-      "slug": "creating-certainty-where-there-is-none-artificial-",
-      "publishedAt": "2025-12-04T11:15:02+00:00",
-      "date": "2025-12-04 11:15:02",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-04/creating-certainty-where-there-is-none-artificial/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Lse.ac.uk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Meta’s WhatsApp AI sparks major European investigation",
       "description": "The European Commission has launched a new antitrust investigation into Meta Platforms, focusing on how the tech giant rolled out artificial intelligence features within WhatsApp. The move represents the latest effort by European regulators to scrutinize Big …",
       "slug": "metas-whatsapp-ai-sparks-major-european-investigat",
@@ -1330,24 +1780,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yanko Design"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Eau de AI: Amazon gives techies a whiff of software-driven perfume",
-      "description": "LAS VEGAS, Dec 4 : Amazon.com on Wednesday touted new capabilities for its SageMaker AI service that it says will help customers expedite customizing their artificial intelligence software models.For Peter Nikoloff, a different type of sage-making took preced…",
-      "slug": "eau-de-ai-amazon-gives-techies-a-whiff-of-software",
-      "publishedAt": "2025-12-04T11:05:47+00:00",
-      "date": "2025-12-04 11:05:47",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MaOa_9TK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-04T110547Z_2_LYNXMPELB30JQ_RTROPTP_3_TECH-AI-AMAZON-PERFUME.JPG?itok=BtTI7A5x",
-      "url": "/tech-news/2025-12-04/eau-de-ai-amazon-gives-techies-a-whiff-of-software/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
       },
       "companies": [],
       "people": []
@@ -1479,24 +1911,6 @@
       "people": []
     },
     {
-      "title": "Developing the automated vehicles regulatory framework",
-      "description": "As automated vehicle technologies develop, we want to ensure that they do so in ways that strengthen safety, widen access and safeguard the public.",
-      "slug": "developing-the-automated-vehicles-regulatory-frame",
-      "publishedAt": "2025-12-04T10:52:40+00:00",
-      "date": "2025-12-04 10:52:40",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2025-12-04/developing-the-automated-vehicles-regulatory-frame/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Psaltis (Alpha Bank): Investing in new technologies is a strategic priority",
       "description": "Over 98% of customer transactions are not carried out in stores, while 30% of new retail sales are made digitally, Alpha Bank CEO Vasilis Psaltis, said, among others, during the…\nPsaltis (Alpha Bank): Investing in new technologies is a strategic priority - Η …",
       "slug": "psaltis-alpha-bank-investing-in-new-technologies-i",
@@ -1618,24 +2032,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Notebookcheck.net"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Deep tech start-up Planys Technologies raises ₹100 crore for global expansion and launch of defence arm",
-      "description": "Planys Technologies secures ₹100 crore for global expansion and defence arm, planning a UUV production facility in Chennai.",
-      "slug": "deep-tech-start-up-planys-technologies-raises-100-",
-      "publishedAt": "2025-12-04T10:17:58+00:00",
-      "date": "2025-12-04 10:17:58",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://bl-i.thgim.com/public/news/1fgvw0/article70357154.ece/alternates/LANDSCAPE_1200/Planys%20Founders%20with%20Ashish.png",
-      "url": "/tech-news/2025-12-04/deep-tech-start-up-planys-technologies-raises-100/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
       },
       "companies": [],
       "people": []
@@ -1947,60 +2343,6 @@
       "people": []
     },
     {
-      "title": "EV bike maker Ultraviolette raises $45 million from Zoho, Ferrari-owner Exor’s Lingotto",
-      "description": "Ultraviolette has raised $45 million from Zoho and Italy’s Lingotto to scale its F77 and X-47 electric motorcycles and develop new models, Shockwave and Tesseract. The Bengaluru startup is expanding in India and abroad, aiming for 100 cities by mid-2026. It r…",
-      "slug": "ev-bike-maker-ultraviolette-raises-45-million-from",
-      "publishedAt": "2025-12-04T07:50:17+00:00",
-      "date": "2025-12-04 07:50:17",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65838,resizemode-75,msid-125761524/tech/funding/ev-bike-maker-ultraviolette-raises-45-million-from-zoho-ferrari-owner-exors-lingotto.jpg",
-      "url": "/tech-news/2025-12-04/ev-bike-maker-ultraviolette-raises-45-million-from/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ethics and Innovation: How Plastic Surgeons Balance Art, Safety, and Self-Image in 2025",
-      "description": "As technology advances and societal attitudes shift, plastic surgeons are increasingly challenged to balance innovation with ethical responsibility.",
-      "slug": "ethics-and-innovation-how-plastic-surgeons-balance",
-      "publishedAt": "2025-12-04T07:40:00+00:00",
-      "date": "2025-12-04 07:40:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://media.radaronline.com/brand-img/WewCKyykV/1200x628/resulteak-2025-12-05t050228440-1764882193778.png",
-      "url": "/tech-news/2025-12-04/ethics-and-innovation-how-plastic-surgeons-balance/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Radaronline.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "DeepSeek 3.2 Challenges GPT-5 While Slashing AI Spend : IMO Gold to 128k Context",
-      "description": "What if innovative AI didn’t have to come with a sky-high price tag? Imagine an open source model that not only rivals proprietary giants like GPT-5 but also delivers gold medal-level performance in global competitions, all while being 30 times more affordabl…",
-      "slug": "deepseek-32-challenges-gpt-5-while-slashing-ai-spe",
-      "publishedAt": "2025-12-04T07:39:26+00:00",
-      "date": "2025-12-04 07:39:26",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/deepseek-model-3-2-dsa-lightning_optimized.jpg",
-      "url": "/tech-news/2025-12-04/deepseek-32-challenges-gpt-5-while-slashing-ai-spe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "UK awards space surveillance contracts to Spaceflux",
       "description": "London, UK (SPX) Nov 28, 2025\n\n\nSpaceflux Ltd has secured all three of the UK government's major multimillion-pound, multiyear contracts for space surveillance and tracking data, confirming its role at the center of the nation's orbital intelligence efforts. …",
       "slug": "uk-awards-space-surveillance-contracts-to-spaceflu",
@@ -2145,24 +2487,6 @@
       "people": []
     },
     {
-      "title": "Entrée Capital Introduces $300M Fund With Focus on AI Agents, DePIN",
-      "description": "Entrée Capital unveiled a $300M fund prioritizing AI agents, DePIN and regulated Web3 infrastructure.",
-      "slug": "entrée-capital-introduces-300m-fund-with-focus-on-",
-      "publishedAt": "2025-12-04T07:00:00+00:00",
-      "date": "2025-12-04 07:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2bb99ef791db1603a7268017479b6182f3952bc2-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "url": "/tech-news/2025-12-04/entrée-capital-introduces-300m-fund-with-focus-on/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
       "description": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet…",
       "slug": "record-297-tbps-ddos-attack-linked-to-aisuru-botne",
@@ -2248,24 +2572,6 @@
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Crisil features in Chartis RiskTech100 2026 for third successive year",
-      "description": "Crisil features in Chartis RiskTech100 2026 for third successive year",
-      "slug": "crisil-features-in-chartis-risktech100-2026-for-th",
-      "publishedAt": "2025-12-04T06:01:33+00:00",
-      "date": "2025-12-04 06:01:33",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/45rq6e/article70353956.ece/alternates/LANDSCAPE_1200/Crisil_Limited_New_Logo.jpg",
-      "url": "/tech-news/2025-12-04/crisil-features-in-chartis-risktech100-2026-for-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
       },
       "companies": [],
       "people": []
@@ -2433,24 +2739,6 @@
       "people": []
     },
     {
-      "title": "Datacenters that don't have their own power supplies will fail: Gartner",
-      "description": "It’s time to ask your bit barn provider how they’ll keep the lights on, and what their plans mean for prices\nAvailability of energy will determine the prices charged by datacenter operators, who won’t be viable unless they generate some of their own juice.…",
-      "slug": "datacenters-that-dont-have-their-own-power-supplie",
-      "publishedAt": "2025-12-04T05:34:37+00:00",
-      "date": "2025-12-04 05:34:37",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://regmedia.co.uk/2022/07/22/shutterstock_datacenter_disaster.jpg",
-      "url": "/tech-news/2025-12-04/datacenters-that-dont-have-their-own-power-supplie/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Melinda French Gates slams billionaires who aren't giving away enough of their wealth",
       "description": "French Gates said billionaires who have benefited from businesses in the US should give back \"far more than they are.\"",
       "slug": "melinda-french-gates-slams-billionaires-who-arent-",
@@ -2464,42 +2752,6 @@
         "emoji": "📰",
         "id": "business-insider",
         "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "EU to launch antitrust probe into Meta over use of AI in WhatsApp, source says",
-      "description": "BRUSSELS, Dec 4 : Brussels is planning a new antitrust investigation into Meta Platforms over its rollout of artificial intelligence features in WhatsApp, a source told Reuters on Thursday, reflecting rising scrutiny of Big Tech's use of generative AI.The mov…",
-      "slug": "eu-to-launch-antitrust-probe-into-meta-over-use-of",
-      "publishedAt": "2025-12-04T05:12:02+00:00",
-      "date": "2025-12-04 05:12:02",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MqzmTSxL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-04T051202Z_1_LYNXMPELB3062_RTROPTP_3_TECH-WHATSAPP.JPG?itok=DKpj4xMK",
-      "url": "/tech-news/2025-12-04/eu-to-launch-antitrust-probe-into-meta-over-use-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Digiday+ Research Subscription Index 2025: Subscription strategies from Bloomberg, The New York Times, Vox and others",
-      "description": "Digiday’s third annual Subscription Index examines and measures publishers’ subscription strategies to identify common approaches and key tactics among Bloomberg, The New York Times, Vox and others.",
-      "slug": "digiday-research-subscription-index-2025-subscript",
-      "publishedAt": "2025-12-04T05:01:00+00:00",
-      "date": "2025-12-04 05:01:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/10/person-data-digiday.jpg",
-      "url": "/tech-news/2025-12-04/digiday-research-subscription-index-2025-subscript/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digiday"
       },
       "companies": [],
       "people": []
@@ -2536,24 +2788,6 @@
         "emoji": "📰",
         "id": "the-irish-times",
         "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Crucial is exiting its RAM and SSD consumer business",
-      "description": "If you thought the rising prices of DRAM was bad, think again. Micron, the company owns Crucial, is exiting its consumer business. What does that mean? Well, it will stop producing Crucial […]\nThank you for being a Ghacks reader. The post Crucial is exiting i…",
-      "slug": "crucial-is-exiting-its-ram-and-ssd-consumer-busine",
-      "publishedAt": "2025-12-04T04:14:38+00:00",
-      "date": "2025-12-04 04:14:38",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/Crucial-is-exiting-its-RAM-and-SSD-consumer-business.png",
-      "url": "/tech-news/2025-12-04/crucial-is-exiting-its-ram-and-ssd-consumer-busine/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
       },
       "companies": [],
       "people": []
@@ -2739,42 +2973,6 @@
       "people": []
     },
     {
-      "title": "China should focus on economy not 'territorial expansion', Taiwan president says",
-      "description": "TAIPEI: China's economy is in a bad way and President Xi Jinping should focus on improving the lives of his people and not \"territorial expansion\", Taiwan President Lai Ching-te said in an interview with the New York Times.China, which views the democraticall…",
-      "slug": "china-should-focus-on-economy-not-territorial-expa",
-      "publishedAt": "2025-12-04T02:52:00+00:00",
-      "date": "2025-12-04 02:52:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--DpDDXLti--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-04T013652Z_1_LYNXMPELB301R_RTROPTP_3_TAIWAN-DEFENCE.JPG?itok=-08mRjsG",
-      "url": "/tech-news/2025-12-04/china-should-focus-on-economy-not-territorial-expa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Cellebrite to Acquire Corellium",
-      "description": "Cellebrite to Acquire Corellium | Deliver Unmatched Innovation in Arm-based Vulnerability, Malware Research, Smart Device DevSecOps, Mobile Pen Testing",
-      "slug": "cellebrite-to-acquire-corellium",
-      "publishedAt": "2025-12-04T02:48:31+00:00",
-      "date": "2025-12-04 02:48:31",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.corellium.com/hubfs/CellebriteFacebookDefault.png",
-      "url": "/tech-news/2025-12-04/cellebrite-to-acquire-corellium/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Corellium.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "OpenAI awards $40.5 million to a wide range of nonprofits under new foundation structure",
       "description": "OpenAI promised to grant out $50 million in July in response to the recommendations of an advisory commission they convened to offer feedback about how it should accomplish its mission of building safe artificial intelligence for the benefit of humanity. It s…",
       "slug": "openai-awards-405-million-to-a-wide-range-of-nonpr",
@@ -2901,24 +3099,6 @@
       "people": []
     },
     {
-      "title": "Citizens JMP gets more bullish on Accelerant, upgrades shares",
-      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "slug": "citizens-jmp-gets-more-bullish-on-accelerant-upgra",
-      "publishedAt": "2025-12-04T02:07:38+00:00",
-      "date": "2025-12-04 02:07:38",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://thefly.com/images/meta/streetresearch_upgrade.jpg",
-      "url": "/tech-news/2025-12-04/citizens-jmp-gets-more-bullish-on-accelerant-upgra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "New America Acquisition I prices 30M unit IPO at $10 per unit",
       "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "slug": "new-america-acquisition-i-prices-30m-unit-ipo-at-1",
@@ -2955,24 +3135,6 @@
       "people": []
     },
     {
-      "title": "Dollarama price target raised by C$11 at National Bank, here's why",
-      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "slug": "dollarama-price-target-raised-by-c11-at-national-b",
-      "publishedAt": "2025-12-04T01:59:51+00:00",
-      "date": "2025-12-04 01:59:51",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://thefly.com/images/meta/streetresearch_recommendations.jpg",
-      "url": "/tech-news/2025-12-04/dollarama-price-target-raised-by-c11-at-national-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "UiPath beats expectations as it doubles down on agentic AI orchestration",
       "description": "Business automation software company UiPath Inc. beat expectations as it delivered its third-quarter financial results today and followed up with strong guidance for the current quarter. The company reported adjusted earnings of 16 cents per share, just edgin…",
       "slug": "uipath-beats-expectations-as-it-doubles-down-on-ag",
@@ -2986,24 +3148,6 @@
         "emoji": "📰",
         "id": null,
         "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Computers Made From Human Brain Tissue Are Coming. Are We Prepared?",
-      "description": "As prominent artificial intelligence (AI) researchers eye limits to the current phase of the technology, a different approach is gaining attention: using living human brain cells as computational hardware.",
-      "slug": "computers-made-from-human-brain-tissue-are-coming-",
-      "publishedAt": "2025-12-04T01:31:29+00:00",
-      "date": "2025-12-04 01:31:29",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.sciencealert.com/images/2025/12/brain_tissue_computer_header.jpg",
-      "url": "/tech-news/2025-12-04/computers-made-from-human-brain-tissue-are-coming/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ScienceAlert"
       },
       "companies": [],
       "people": []
@@ -3045,24 +3189,6 @@
       "people": []
     },
     {
-      "title": "Car Crashes Are A Public Health Crisis. Autonomous Cars Are The Cure.",
-      "description": "Waymo has released data showing its autonomous cars are much safer than conventional cars. Other companies should do the same. \nThe post Car Crashes Are A Public Health Crisis. Autonomous Cars Are The Cure. appeared first on CleanTechnica.",
-      "slug": "car-crashes-are-a-public-health-crisis-autonomous-",
-      "publishedAt": "2025-12-04T01:11:40+00:00",
-      "date": "2025-12-04 01:11:40",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/06/Uber-Waymo-robotaxi-Atlanta.png",
-      "url": "/tech-news/2025-12-04/car-crashes-are-a-public-health-crisis-autonomous/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CleanTechnica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Snowflake’s stock slips on slowing sales",
       "description": "Snowflake Inc. beat analysts’ expectations on earnings and revenue in its third-quarter financial results and offered solid guidance too, but its stock plunged in extended trading after failing to meet the lofty bar of some investors. The data management soft…",
       "slug": "snowflakes-stock-slips-on-slowing-sales",
@@ -3090,24 +3216,6 @@
       "category": "tech",
       "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
       "url": "/tech-news/2025-12-04/palantir-director-sells-334m-in-common-stock/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Cathie Wood's ARK Investment buys 191K shares of WeRide today",
-      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "slug": "cathie-woods-ark-investment-buys-191k-shares-of-we",
-      "publishedAt": "2025-12-04T01:02:12+00:00",
-      "date": "2025-12-04 01:02:12",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
-      "url": "/tech-news/2025-12-04/cathie-woods-ark-investment-buys-191k-shares-of-we/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -3189,24 +3297,6 @@
       "people": []
     },
     {
-      "title": "Closing Bell Movers: Snowflake slips 8%, Salesforce up 2% on earnings",
-      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "slug": "closing-bell-movers-snowflake-slips-8-salesforce-u",
-      "publishedAt": "2025-12-04T00:37:52+00:00",
-      "date": "2025-12-04 00:37:52",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://image.thefly.com/catalog/202004/img_793.jpg",
-      "url": "/tech-news/2025-12-04/closing-bell-movers-snowflake-slips-8-salesforce-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Paramount Exec Beverley McGarvey Champions Content Diversity at Asian Academy Creative Awards Keynote",
       "description": "Beverley McGarvey, president of Network 10 and head of streaming at Paramount Australia and New Zealand, opened the Asian Academy Creative Awards National Winners Conference in Singapore on Dec. 3 with a rallying call for the region’s content industry, praisi…",
       "slug": "paramount-exec-beverley-mcgarvey-champions-content",
@@ -3252,24 +3342,6 @@
       "category": "tech",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65846,resizemode-75,msid-125751641/tech/artificial-intelligence/openai-strives-for-tata-hand-to-grow-footprint-in-india.jpg",
       "url": "/tech-news/2025-12-04/openai-strives-for-tata-hand-to-grow-footprint-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Fake news a threat to India's democracy: IT minister Ashwini Vaishnaw",
-      "description": "India's government is taking strong steps against fake news and AI deepfakes on social media. Minister Ashwini Vaishnaw highlighted the need for stricter rules to protect democracy. New proposals require users to declare AI-generated content. Major platforms …",
-      "slug": "fake-news-a-threat-to-indias-democracy-it-minister",
-      "publishedAt": "2025-12-04T00:30:00+00:00",
-      "date": "2025-12-04 00:30:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-115876,resizemode-75,msid-125751728/tech/technology/fake-news-a-threat-to-indias-democracy-it-minister-ashwini-vaishnaw.jpg",
-      "url": "/tech-news/2025-12-04/fake-news-a-threat-to-indias-democracy-it-minister/",
       "source": {
         "emoji": "📰",
         "id": "the-times-of-india",
@@ -3360,60 +3432,6 @@
       "category": "tech",
       "urlToImage": "https://thefly.com/images/meta/streetresearch_recommendations.jpg",
       "url": "/tech-news/2025-12-04/one-gas-price-target-raised-by-2-at-bofa-heres-why/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "CrowdStrike CEO talks relationship with AWS: 'We're now part of the ecosystem there'",
-      "description": "CrowdStrike CEO George Kurtz told CNBC's Jim Cramer how his company's partnership with with Amazon Web Services helps business.",
-      "slug": "crowdstrike-ceo-talks-relationship-with-aws-were-n",
-      "publishedAt": "2025-12-04T00:10:06+00:00",
-      "date": "2025-12-04 00:10:06",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105960734-1560273631952gettyimages-862555182.jpeg?v=1764791208&w=1920&h=1080",
-      "url": "/tech-news/2025-12-04/crowdstrike-ceo-talks-relationship-with-aws-were-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Dollar Tree price target raised by $10 at Wells Fargo, here's why",
-      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "slug": "dollar-tree-price-target-raised-by-10-at-wells-far",
-      "publishedAt": "2025-12-04T00:09:05+00:00",
-      "date": "2025-12-04 00:09:05",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://thefly.com/images/meta/streetresearch_recommendations.jpg",
-      "url": "/tech-news/2025-12-04/dollar-tree-price-target-raised-by-10-at-wells-far/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "CrowdStrike price target raised by $20 at Citi, here's why",
-      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "slug": "crowdstrike-price-target-raised-by-20-at-citi-here",
-      "publishedAt": "2025-12-04T00:07:43+00:00",
-      "date": "2025-12-04 00:07:43",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://thefly.com/images/meta/streetresearch_recommendations.jpg",
-      "url": "/tech-news/2025-12-04/crowdstrike-price-target-raised-by-20-at-citi-here/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -3576,24 +3594,6 @@
       "category": "tech",
       "urlToImage": null,
       "url": "/tech-news/2025-12-04/intra-scale-interaction-and-cross-scale-fusion-net/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Deep learning-based object detection of restorative dental instruments with potential implications for workflow automation and infection control in dental supply units",
-      "description": "Scientific Reports - Deep learning-based object detection of restorative dental instruments with potential implications for workflow automation and infection control in dental supply units",
-      "slug": "deep-learning-based-object-detection-of-restorativ",
-      "publishedAt": "2025-12-04T00:00:00+00:00",
-      "date": "2025-12-04 00:00:00",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-04/deep-learning-based-object-detection-of-restorativ/",
       "source": {
         "emoji": "📰",
         "id": null,
