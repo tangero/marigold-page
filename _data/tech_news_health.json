@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-06T00:53:58.800695+00:00",
+  "timestamp": "2025-12-06T04:17:50.141816+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.08,
+      "newest_age_hours": 24.05,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 357.0,
-      "median_length": 384.0
+      "avg_length": 374.0,
+      "median_length": 396.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,20 +26,14 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.02,
-      "invalid_count": 2,
+      "error_rate": 0.01,
+      "invalid_count": 1,
       "most_common_missing_fields": {
-        "description": 2
+        "description": 1
       },
       "sample_invalid_articles": [
         {
           "file": "2025-12-04-ai-smartphone-from-bytedance-zte-debuts-in-china-t.md",
-          "errors": [
-            "chybí description"
-          ]
-        },
-        {
-          "file": "2025-12-04-silicon-valleys-man-in-the-white-house.md",
           "errors": [
             "chybí description"
           ]
@@ -48,23 +42,23 @@
     }
   },
   "metrics": {
-    "total_articles": 8101,
+    "total_articles": 8133,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.08,
+    "newest_article_age_hours": 24.05,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 357.0,
-    "median_content_length": 384.0,
-    "articles_with_images_pct": 90.0,
+    "avg_content_length": 374.0,
+    "median_content_length": 396.0,
+    "articles_with_images_pct": 91.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.02
+    "front_matter_error_rate": 0.01
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.1h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
     },
     {
       "level": "WARNING",
