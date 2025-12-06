@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-01T16:38:46.051254+00:00",
+  "timestamp": "2025-12-06T16:16:59.036051+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.58,
+      "newest_age_hours": 24.03,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 550.0,
-      "median_length": 362.0
+      "avg_length": 369.0,
+      "median_length": 376.0
     },
     "generation_trend": {
       "status": "OK",
@@ -26,39 +26,30 @@
     },
     "front_matter": {
       "status": "OK",
-      "error_rate": 0.01,
-      "invalid_count": 1,
-      "most_common_missing_fields": {
-        "description": 1
-      },
-      "sample_invalid_articles": [
-        {
-          "file": "2025-11-30-a-look-at-how-david-sacks-work-on-ai-and-crypto-in.md",
-          "errors": [
-            "chybí description"
-          ]
-        }
-      ]
+      "error_rate": 0.0,
+      "invalid_count": 0,
+      "most_common_missing_fields": {},
+      "sample_invalid_articles": []
     }
   },
   "metrics": {
-    "total_articles": 6844,
+    "total_articles": 8319,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.58,
+    "newest_article_age_hours": 24.03,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 550.0,
-    "median_content_length": 362.0,
-    "articles_with_images_pct": 97.0,
+    "avg_content_length": 369.0,
+    "median_content_length": 376.0,
+    "articles_with_images_pct": 95.0,
     "articles_with_category_pct": 100.0,
-    "front_matter_error_rate": 0.01
+    "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.6h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
     },
     {
       "level": "WARNING",
