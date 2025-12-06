@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-06T04:17:50.141816+00:00",
+  "timestamp": "2025-12-06T08:18:51.867289+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.05,
+      "newest_age_hours": 24.08,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -17,7 +17,7 @@
     "content_quality": {
       "status": "OK",
       "avg_length": 374.0,
-      "median_length": 396.0
+      "median_length": 392.0
     },
     "generation_trend": {
       "status": "OK",
@@ -33,7 +33,7 @@
       },
       "sample_invalid_articles": [
         {
-          "file": "2025-12-04-ai-smartphone-from-bytedance-zte-debuts-in-china-t.md",
+          "file": "2025-12-05-hancock-prospecting-bets-big-on-global-x-artificia.md",
           "errors": [
             "chybí description"
           ]
@@ -42,23 +42,23 @@
     }
   },
   "metrics": {
-    "total_articles": 8133,
+    "total_articles": 8187,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.05,
+    "newest_article_age_hours": 24.08,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
     "avg_content_length": 374.0,
-    "median_content_length": 396.0,
-    "articles_with_images_pct": 91.0,
+    "median_content_length": 392.0,
+    "articles_with_images_pct": 95.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.01
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.0h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.1h (threshold: 6h)"
     },
     {
       "level": "WARNING",
