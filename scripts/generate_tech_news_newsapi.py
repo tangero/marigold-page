@@ -25,7 +25,7 @@ class NewsAPITechNewsGenerator:
     """Generátor tech-news z NewsAPI s překlady a detekcí"""
 
     # Konfigurace LLM modelů s automatickým fallback
-    PRIMARY_MODEL = 'x-ai/grok-4.1-fast:free'
+    PRIMARY_MODEL = 'x-ai/grok-4.1-fast'
     FALLBACK_MODEL = 'anthropic/claude-haiku-4.5'
 
     # Chybové kódy indikující potřebu fallbacku
