@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: vzácné zeminy
 date: '2025-12-06 14:00:00'
-description: Podle zprávy USA odvádí miliardy dolarů na zásoby kritických minerálů
-  pro vojenské účely, což podle autorů brzdí klimatické akce. Zdánlivě musí USA zůstat
-  závislé na Číně kvůli vzácným zeminám, jinak hrozí klimatická katastrofa.
+description: Podle zprávy americko-britského projektu Transition Security Project
+  USA odklánějí miliardy dolarů na zásoby kritických minerálů pro vojenské účely,
+  což podle autorů brzdí vývoj technologií pro obnovitelné zdroje energie.
 importance: 3
 layout: tech_news_article
 original_title: 'Claim: The USA Securing Critical Mineral Supply Chains Threatens
@@ -15,30 +15,30 @@ source:
   emoji: 📰
   id: null
   name: Wattsupwiththat.com
-title: 'Tvrdí: Zajišťování zásob kritických minerálů USA ohrožuje globální klima'
+title: 'Tvrdí se: Zajišťování dodávek kritických minerálů USA ohrožuje globální klima'
 url: https://wattsupwiththat.com/2025/12/06/claim-the-usa-securing-critical-mineral-supply-chains-threatens-the-global-climate/
 urlToImage: https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/12/Rare-Earths-Mined-in-China.webp?fit=800%2C400&quality=75&ssl=1
 urlToImageBackup: https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/12/Rare-Earths-Mined-in-China.webp?fit=800%2C400&quality=75&ssl=1
 ---
 
 ## Souhrn
-Zpráva od Transition Security Project obviňuje Pentagon z odvádění kritických minerálů, jako jsou vzácné zeminy, od zelených technologií k vojenskému hardwaru. Od schválení zákona prezidentem Trumpem v letošním roce USA investují miliardy do Národního obranného zásobníku pro precision-guided weaponry a AI-driven autonomous warfare platforms. Autoři varují, že tato priorita ohrožuje globální klimatické cíle.
+Zpráva Transition Security Project obviňuje Pentagon z odklánění kritických minerálů, jako jsou vzácné zeminy, z civilních zelených technologií do vojenského hardwaru. Od schválení zákona prezidentem Trumpem v tomto roku USA investují miliardy do Národního obranného zásobníku pro zbraně, AI autonomní systémy a přesné munice. Autoři varují, že to ohrožuje globální klimatické cíle.
 
 ## Klíčové body
-- Pentagon investuje miliardy dolarů do zásob kritických minerálů pro vojenské technologie, včetně AI autonomních systémů.
-- Zpráva kritizuje závislost USA na Číně a tvrdí, že domácí zajištění zásob brzdí výrobu solárních panelů, větrných turbín a elektromobilů.
-- Transition Security Project, společné americko-britské iniciativa, označuje vojenský rozpočet za překážku klimatické bezpečnosti.
-- Článek v The Guardian cituje Khema Rogalyho, který obviňuje Pentagon z podpory vojensko-průmyslového komplexu na úkor klimatu.
+- Pentagon od Trumpova 'jednoho velkého krásného zákona' investuje miliardy do zásob kritických minerálů pro vojenské technologie včetně AI-driven autonomous warfare platforms.
+- Kritické minerály slouží k výrobě solárních panelů, větrných turbín, elektrických vozidel a bateriových úložišť, ale nyní se odklánějí do zbraní a komunikačních systémů.
+- Čína dominuje dodávkám vzácných zemin (až 90 % světové produkce), což USA motivuje k diverzifikaci, ale zpráva to vidí jako prioritu military nad klimatem.
+- Khem Rogaly z projektu kritizuje, že vojenský rozpočet podporuje dominanci USA místo řešení klimatické krize.
 
 ## Podrobnosti
-Článek v The Guardian z 4. prosince 2025 popisuje zprávu Transition Security Project, což je iniciativa zaměřená na propojení bezpečnostních a klimatických otázek mezi USA a Velkou Británií. Podle ní urychlující se globální závod o kritické minerály, jako jsou vzácné zeminy (rare earths), lithium nebo kobalt, brzdí přechod k udržitelné energetice. Pentagon prostřednictvím National Defense Stockpile programu, posíleného zákonem prezidenta Donalda Trumpa označovaným jako „one big beautiful bill“, alokoval miliardy dolarů na nákup těchto surovin. Ty se používají v precision-guided weaponry pro přesné navádění střel, pokročilých komunikačních systémech a nově v AI-driven autonomous warfare platforms – autonomních bojových platformách poháněných umělou inteligencí, které umožňují samostatné rozhodování v boji.
+Článek v The Guardian cituje studii Transition Security Project, společného projektu USA a Velké Británie zaměřeného na přechod od fosilních paliv k bezpečnosti. Podle ní urychlující se globální závod o kritické minerály brzdí klimatickou akci, protože se stávají surovinou pro nejnovější vojenský hardware. Pentagon prostřednictvím Národního obranného zásobníku (National Defense Stockpile) od srpna 2025, kdy byl schválen Trumpův zákon, alokoval miliardy dolarů na minerály nutné pro přesně naváděnou munici, pokročilé komunikační systémy a emergentní technologie jako autonomní bojové platformy poháněné AI. Tyto platformy využívají AI k autonomnímu rozhodování v boji, podobně jako systémy pro drony nebo robotické jednotky.
 
-Khem Rogaly, spoludirektor projektu, kritizuje trillionový rozpočet Pentagonu jako nástroj pro dominanci, nikoli bezpečnost. Argumentuje, že tyto zdroje by měly jít do solárních panelů, větrných turbín, baterií pro elektromobily a úložišť energie. Zpráva poukazuje na rizika závislosti na Číně, která kontroluje většinu výroby vzácných zemin, ale zároveň obviňuje USA z eskalace závodu, který odvádí minerály od civilních aplikací. Eric Worrall v komentáři ironicky poznamenává, že USA by měly zůstat závislé na Číně, aby se vyhnuly klimatické katastrofě. Plný text zprávy je dostupný v executive summary na odkazu The Guardian.
+Vzácné zeminy, jako neodym nebo dysprosium, jsou klíčové pro výrobu permanentních magnetů v elektromotorech elektrických vozidel (EV), větrných turbínách a bateriových systémech. V robotice a autonomních vozidlech, například u Tesla FSD nebo humanoidních robotů Boston Dynamics, slouží k výkonným servomotorům s vysokou hustotou výkonu. Čína kontroluje přes 80 % rafinace těchto minerálů, což vytváří riziko pro západní tech průmysl – od baterií pro datová centra AI po motory v robotaxi. USA proto rozšiřují těžbu v Austrálii, Kanadě a domácích ložiscích, aby snížily závislost. Zpráva však argumentuje, že vojenské priority odčerpávají zdroje od civilních aplikací, jako jsou lithium-iontové baterie pro úložiště energie nebo solární panely s tenkými filmy.
 
-Tento pohled ignoruje, že zajištění domácích zásob je klíčové pro technologickou soběstačnost v AI, robotice a elektromobilitě. Vzácné zeminy jsou nezbytné pro permanentní magnety v motorech elektromobilů Tesla nebo v senzorech autonomních vozidel Waymo. Bez nich by průmysl, včetně vývoje pokročilých baterií, utrpěl. Kritika vojenského použití je legitimní, ale zjednodušuje geopolitickou realitu, kde Čína využívá exportní kontroly jako zbraň.
+Kriticky lze poznamenat, že zpráva přehlíží bezpečnostní imperativy: závislost na Číně ohrožuje nejen klima, ale i vývoj AI a robotiky v USA, kde Čína vede v produkci komponent pro EV a drony. Pentagonův rozpočet (přes 800 miliard USD ročně) je sice obrovský, ale minerály pro military tvoří zlomek celkové poptávky – globální spotřeba vzácných zemin roste o 10 % ročně díky zelené transformaci. Diverzifikace supply chain je nutností pro dlouhodobou udržitelnost tech ekosystému, včetně AI tréninkových clusterů na GPU, které potřebují stabilní dodávky.
 
 ## Proč je to důležité
-Tento spor ovlivňuje celý technologický ekosystém. Kritické minerály jsou základnou pro baterie v elektromobilech, kde Tesla plánuje gigafactory závislé na stabilních dodávkách, i pro AI hardware s GPU od Nvidia vyžadujícími specifické prvky. Pokud USA nediverzifikují zásoby, zůstanou zranitelné vůči čínským embargům, což by zpomalilo pokrok v autonomních vozidlech, robotice a obnovitelných zdrojích. Naopak vojenské investice do AI autonomních systémů mohou přenést technologie do civilního sektoru, jako se stalo s GPS. Debata podtrhuje nutnost balancovat mezi klimatickými cíli a národní bezpečností, protože bez minerálů selže jak zelená transformace, tak technologická nadvláda.
+Tato debata odhaluje napětí mezi vojenskou bezpečností a klimatickými cíli v kontextu kritických minerálů, které jsou páteří moderních technologií. Pro průmysl AI, robotiky a autonomních systémů znamená riziko narušení dodávek vyšší ceny komponent – například neodymyové magnety v motorech robotů zdražily o 30 % v posledních letech kvůli čínským restrikcím. Pokud USA neudrží diverzifikaci, brzdí to pokrok v EV pro robotaxi (Waymo, Tesla) nebo humanoidních robotech, kde efektivní motory s vzácnými zeminami umožňují vyšší autonomii. Naopak, vojenské investice do AI warfare mohou přenést technologie do civilu, jako u DARPA projektů ovlivňujících komerční robotiku. Dlouhodobě to nutí globální spolupráci na recyklaci minerálů a alternativních materiálech, aby se minimalizovaly geopolitické rizika pro tech inovace.
 
 ---
 

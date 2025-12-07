@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: technický dluh
 date: '2025-12-06 14:00:00'
-description: Po skončení podpory Windows 10 v říjnu se organizace potýkají s rozměry
-  technického dluhu, který přináší bezpečnostní a provozní rizika. Průzkum ukazuje,
-  že i přes vysokou povědomost jen málo firem plánuje řešení.
+description: S koncem podpory Windows 10 se organizace vypořádávají s rozměry svého
+  technického dluhu. Průzkum ukázal, že devět z deseti IT lídrů čelí tomuto problému,
+  ale pouze 14 procent plánuje prioritizovat modernizaci starých systémů.
 importance: 3
 layout: tech_news_article
 original_title: Why are companies not tackling their Windows technical debt?
@@ -21,24 +21,28 @@ urlToImageBackup: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-
 ---
 
 ## Souhrn
-Po skončení podpory Windows 10 v říjnu 2023 se devět z deseti IT lídrů v sektoru vlády, financí a výroby potýká s technickým dluhy spojenými s tímto systémem. Přesto jen 14 procent respondentů plánuje priorizovat upgrade legacy systémů v příštím roce, přestože polovina zažila výpadky kvůli technickému dluhu.
+Podpora pro operační systém Windows 10 skončila v říjnu, což vystavilo zařízení bezpečnostním rizikům. Nedávný průzkum mezi řediteli informatiky, manažery dodržování předpisů a IT šefy odhalil, že 90 procent respondentů řeší technický dluh spojený s Windows. Přesto pouze 14 procent z nich plánuje v příštím roce priorizovat opravy a upgrady starých systémů.
 
 ## Klíčové body
-- 90 % IT lídrů hlásí technický dluh s Windows, což zahrnuje provozní, výkonnostní a regulační rizika.
-- 50 % respondentů zažilo výpadky systémů přímo spojené s technickým dluhy.
-- Jen 14 % firem prioritizuje řešení legacy systémů v následujícím roce.
-- Dotazník zahrnoval CIO, manažery compliance a IT vedoucí z vysokorizikových sektorů.
-- Expert Jonathan Dedman z Cloudhouse upozorňuje na mezeru mezi povědomím a akcí.
+- Devět z deseti IT lídrů (90 procent) čelí technickému dluhu v prostředí Windows.
+- Polovina respondentů (50 procent) zažila výpadky systémů způsobené technickým dluhom.
+- Pouze 14 procent respondentů prioritizuje řešení legacy systémů v následujícím roce.
+- Průzkum zahrnoval lídry z vládových institucí, finančního sektoru a výroby.
+- Technický dluh přináší provozní, výkonnostní a regulační rizika.
 
 ## Podrobnosti
-Článek se zaměřuje na problém technického dluhu v prostředí Windows po skončení oficiální podpory Windows 10, která proběhla v říjnu 2023. Systémy bez aktualizací jsou nyní vystaveny bezpečnostním hrozbám, jako jsou zero-day exploity nebo ransomware útoky, protože Microsoft přestal poskytovat bezpečnostní záplaty. Průzkum provedený mezi CIO, manažery zodpovědnými za dodržování předpisů a IT vedoucími odhalil, že 90 procent respondentů čelí technickému dluhu v nějaké formě. Technický dluh zde označuje akumulaci rizik z udržování zastaralých systémů, včetně snížené výkonnosti, neslučitelnosti s novým softwarem a neshody s regulačními požadavky jako GDPR nebo PCI DSS.
+Operační systém Windows 10 dosáhl konce podpory v říjnu, což znamená, že Microsoft přestal poskytovat bezpečnostní záplaty a aktualizace. Tato skutečnost nútí organizace konfrontovat se s technickým dluhom, což je termín označující nahromaděné problémy z dlouhodobého udržování zastaralých systémů. Tyto systémy často zahrnují legacy aplikace, které nejsou kompatibilní s novějšími verzemi Windows, jako je Windows 11, a jejich migrace vyžaduje značné úsilí.
 
-Jonathan Dedman, ředitel společnosti Cloudhouse – firmy specializující se na virtualizaci a kontejnerizaci legacy aplikací pro přechod do cloudu – zdůrazňuje, že polovina lídrů zažila výpadky systémů přímo způsobené tímto dluhy. Tyto výpadky mohou vést k finančním ztrátám, ztrátě dat nebo reputačním škodám. Přesto existuje výrazná mezera mezi povědomím a akcí: pouze 14 procent respondentů označilo řešení a upgrade legacy systémů za prioritu pro příští rok. Důvody zahrnují vysoké náklady na modernizaci, složitost IT prostředí v sektorech jako vláda, finance a výroba, kde se často jedná o tisíce zařízení s kritickými aplikacemi, a nedostatek vhodných nástrojů.
+Průzkum provedený mezi CIO, manažery compliance a IT řediteli ukázal alarmující situaci. Devět z deseti respondentů hlásí přítomnost technického dluhu v Windows prostředí, což vede k provozním rizikům, poklesu výkonu a problémům s dodržováním předpisů, jako jsou GDPR nebo standardy PCI DSS ve finančním sektoru. Konkrétně polovina lídrů uvedla, že zažila výpadky systémů přímo spojené s tímto dluhom – například selhání aplikací běžících na starých verzích kvůli nekompatibilitě nebo chybám v nepodporovaném softwaru.
 
-Vládní instituce mají často legacy systémy z 90. let, které běží na Windows bez podpory, finanční sektor čelí přísným regulačním požadavkům na bezpečnost, zatímco výroba závisí na specializovaném software pro řízení výroby (SCADA systémy), jehož migrace je nákladná. Bez řádné podpory se tyto systémy stávají cíli pro kybernetické útoky, což ilustruje například vlna DDoS útoků nebo exploitů na starší verze Windows. Řešení jako extended security updates od Microsoftu jsou dočasné a drahé, protože stojí až 30 procent navíc za rok.
+Respondenti pocházejí z vysoce rizikových odvětví: vládné instituce s rozsáhlými IT infrastrukturami, finanční společnosti s přísnými regulačními požadavky a výrobní firmy závislé na stabilních systémech pro řízení výroby. Tyto sektory mají často tisíce zařízení a aplikací, jejichž modernizace je nákladná a složitá. Například přechod na Windows 11 vyžaduje nejen nový hardware splňující požadavky na TPM 2.0 a Secure Boot, ale i přepracování nebo virtualizaci starých aplikací.
+
+Jonathan Dedman, ředitel společnosti Cloudhouse – firmy specializující se na virtualizaci a kontejnerizaci desktopových aplikací, aby běžely na moderních operačních systémech bez nutnosti kompletního přepisování kódu –, upozorňuje na rozpor mezi povědomím a akcí. Organizace si uvědomují rizika, jako je zvýšená zranitelnost vůči kyberútokům po skončení podpory, ale akce chybí. Důvody zahrnují vysoké náklady na migraci, nedostatek odborníků a složitost IT prostředí. Bez vhodného softwaru nebo poradenství, jako jsou nástroje pro emulaci legacy aplikací, se úkol stává paralyzujícím.
 
 ## Proč je to důležité
-Technický dluh v Windows ohrožuje celý IT ekosystém, zvyšuje zranitelnost vůči kybernetickým hrozbám a brzdí adopci nových technologií jako AI nebo cloudové služby. Pro firmy to znamená vyšší náklady na bezpečnost, riziko pokut za nedodržení předpisů a ztráty z výpadků – podle odhadů Gartneru může technický dluh stát globálně biliony dolarů ročně. V širším kontextu to ukazuje na selhání v IT governance: firmy vědí o rizicích, ale chybí strategie jako aplikace virtualizace (např. Cloudhouse pro balení app do kontejnerů) nebo postupná migrace na Windows 11 nebo Linux. Pokud se to neřeší, zvýší se závislost na placených prodlouženích podpory, což oddálí inovace a zhorší konkurenceschopnost v digitální ekonomice.
+Technický dluh v Windows prostředí představuje reálná rizika pro celý IT ekosystém. Bez bezpečnostních aktualizací hrozí exploity známých zranitelností, což v citlivých sektorech jako finance nebo vláda může vést k únikům dat nebo narušení provozu. Průmysl tak čelí dilematu: ignorovat dluh znamená kumulovat rizika, zatímco rychlá modernizace vyžaduje investice do hardwaru, školení a nástrojů jako virtualizační platformy.
+
+V širším kontextu to podtrhuje trend stárnutí IT infrastruktur. Microsoft tlačí na Windows 11, který přináší vylepšení jako lepší podporu pro AI workloady a bezpečnostní funkce jako Windows Hello, ale legacy systémy brzdí přechod. Firmy by měly zvážit hybridní přístupy, jako je spuštění starých aplikací v kontejnerech na Azure nebo použití nástrojů od specialistů jako Cloudhouse, aby minimalizovaly rizika bez úplní přestavby. Pokud se situace nezmění, očekávají se v příštích letech nárůsty incidentů spojených s nepodporovanými systémy, což ovlivní efektivitu a bezpečnost evropského IT trhu.
 
 ---
 

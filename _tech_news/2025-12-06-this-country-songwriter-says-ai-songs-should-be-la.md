@@ -2,9 +2,8 @@
 author: Marisa Aigen
 category: ai hudba
 date: '2025-12-06 14:30:00'
-description: Country songwriter Breland navrhuje povinné označování písní generovaných
-  AI a směrování jejich výdělků na granty pro lidské umělce. Kritizuje vysokou spotřebu
-  zdrojů AI a ztrátu lidského prvku v hudbě.
+description: Country songwriter Breland navrhuje povinné označování písní vytvořených
+  umělou inteligencí a směrování výdělků z nich na granty pro lidské umělce.
 importance: 3
 layout: tech_news_article
 original_title: This Country Songwriter Says AI Songs Should Be Labeled
@@ -14,32 +13,33 @@ source:
   emoji: 📰
   id: null
   name: Rolling Stone
-title: 'Country songwriter Breland: Písně vytvořené umělou inteligencí by měly být
-  označené'
+title: 'Country songwriter Breland: Písně vytvořené AI by měly být označené'
 url: http://www.rollingstone.com/music/music-features/ai-country-songs-should-be-labeled-breland-1235477535/
 urlToImage: https://www.rollingstone.com/wp-content/uploads/2025/12/GettyImages-2212937721-2.jpg?w=1600&h=900&crop=1
 urlToImageBackup: https://www.rollingstone.com/wp-content/uploads/2025/12/GettyImages-2212937721-2.jpg?w=1600&h=900&crop=1
 ---
 
 ## Souhrn
-Country songwriter a zpěvák Breland, známý hity jako „My Truck“, v rozhovoru pro podcast Rolling Stone’s Nashville Now vyzval k povinnému označování písní vytvořených umělou inteligencí. Navrhuje, aby výnosy z těchto písní financovaly granty a stipendia pro začínající lidské tvůrce. Zdůrazňuje, že AI odvádí hudbu od její podstaty jako autentické lidské zkušenosti.
+Country songwriter a zpěvák Breland vyzývá k povinnému označování písní vytvořených pomocí umělé inteligence (AI), aby posluchači věděli, zda poslouchají lidský hlas. Navrhuje, aby výdělky z takových písní šly na granty a stipendia pro začínající lidské tvůrce. Kritizuje vysokou spotřebu energetických zdrojů AI a ztrátu lidského prvku v hudbě, což zaznělo v podcastu Rolling Stone’s Nashville Now.
 
 ## Klíčové body
-- Povinné označení písní generovaných AI, aby posluchači věděli, zda slyší lidský hlas.
-- Směrování výdělků z AI hudby na granty pro mladé umělce, protože tvůrci AI nejsou skuteční autoři.
-- Kritika spotřeby přírodních zdrojů AI, která ničí planetu mimo klíčové aplikace jako řešení globálních krizí.
-- Hudba jako výhradně lidská doména po desetitisíce let, kterou AI automatizuje a zbavuje humanity.
-- Podpora odpovědného použití AI v hudbě bez nahrazování lidských tvůrců.
+- Povinné označování písní generovaných AI, včetně informace o tom, zda jde o lidský hlas.
+- Směrování příjmů z AI hudby na granty pro up-and-coming kreativce.
+- Kritika ekologické zátěže AI kvůli spotřebě energie a zdrojů.
+- Hudba jako výhradně lidská zkušenost, kterou AI ohrožuje.
+- Kontext country hudby v Nashvillu, kde je důraz na lidskou autenticitu.
 
 ## Podrobnosti
-Breland, působící v Nashvillu, centru country hudby, kde traduje ideál „tři akordy a pravda“ založený na lidském spojení, reaguje na rostoucí roli AI v tvorbě hudby. Nástroje jako Suno.ai nebo Udio umožňují generovat celé písně z textového popisu – uživatel zadá téma, styl a text, a AI vytvoří melodii, aranžmá i zpěv. Tyto platformy trénují na obrovských databázích existujících nahrávek, což vyvolalo žaloby od hudebních labelů jako Universal Music Group, které obviňují Suno z neoprávněného používání chráněných děl.
+Článek z 6. prosince 2025 od Josepha Hudaka popisuje postoje Brelanda, autora hitů jako „My Truck“, k rostoucímu vlivu AI v hudebním průmyslu. Breland, působící v Nashvillu – centru country hudby, kde je tradice založena na „třech akordech a pravdě“ – varuje, že technologie překročila hranice. V podcastu Rolling Stone’s Nashville Now řekl: „Lidé by měli vědět, jestli poslouchají lidský hlas nebo ne. Mělo by to být povinné.“
 
-V rozhovoru z 6. prosince 2025 Breland říká: „Lidé by měli vědět, zda poslouchají lidský hlas nebo ne. To by mělo být povinné.“ Obává se, že AI maže lidské umělce, protože modely jako ty od OpenAI nebo Stability AI spotřebovávají enormní množství energie – trénink jednoho velkého jazykového modelu může vyprodukovat stejně mnoho emisí CO2 jako pět amerických domácností za celý rok. „AI je mimo kontrolu. Pokud slouží k řešení globálních krizí, souhlasím. Jinak trháme planetu na kusy,“ dodává.
+Jeho kritika se zaměřuje na několik oblastí. AI systémy, jako generativní modely pro tvorbu hudby (například Suno.ai nebo Udio, které z textového popisu generují kompletní písně včetně melodií, textů a aranžmá), spotřebovávají obrovské množství energie. Breland to přirovnává k ničení planety: „Pokud AI řeší globální krize, je to pochopitelné. Jinak to jen trhá planetu kousky.“ Tyto modely běží na datech centrech s tisíci GPU, což vede k vysoké uhlíkové stopě – například trénink velkých jazykových modelů (LLM) jako GPT-4 spotřeboval ekvivalent energie malého města.
 
-Jeho návrh je pragmatický: označovat AI obsah jako takový, podobně jako potraviny s GMO, a přesměrovávat příjmy na podporu talentů. „Děláte peníze z něčeho, co jste nevytvořili? Nejste skladatel, producent ani umělec,“ argumentuje. V Nashvillu, kde songwriting zůstává ruční řemeslem, toto rezonuje – AI nástroje jako AIVA nebo Google MusicFX již pomáhají s generováním melodií, ale Breland varuje před plným automatizováním.
+Breland nejen kritizuje, ale nabízí řešení. První krok: jasné štítky na AI písních, podobně jako u geneticky modifikovaných potravin. Druhý: redistribuce výdělků. „Děláte peníze z něčeho, co jste nevytvořili? Nejste songwriter, producent ani umělec,“ říká. Tento návrh by mohl podpořit mladé talenty v country scéně, kde Nashville přitahuje tisíce aspirujících hudebníků. V širším kontextu to rezonuje s probíhajícími soudy, jako spor Universal Music Group proti Anthropic (vývojáři Claude AI) o autorská práva, nebo petice hudebníků proti AI tréninku na jejich dílech bez souhlasu.
+
+V Nashvillu, kde hitparády stále závisí na autentických příbězích, AI představuje hrozbu pro tradiční songwriting. Breland zdůrazňuje, že hudba je „výhradně lidská zkušenost“ trvající desetitisíce let, a automatizace ji zbavuje esence.
 
 ## Proč je to důležité
-Tento názor odhaluje širší debatu o regulaci AI v kreativních průmyslech. Hudební sektor, s tržbami přes 28 miliard dolarů ročně (podle IFPI), čelí riziku, že AI generátory jako Suno sníží poptávku po lidských autorech, což ovlivní pracovní místa v songwritingu a produkci. Navrhované označování by umožnilo spotřebitelům volbu, podobně jako v EU s AI Act, který vyžaduje transparentnost pro vysokorizikové systémy. Grantový model by mohl vyrovnat nerovnosti, kde AI prospívá velkým firmám, zatímco začínající umělci bojují. Z ekologického hlediska podtrhuje nutnost omezení AI na efektivní aplikace, protože datová centra pro AI spotřebují až 2 % globální elektřiny. Pro hudební průmysl to znamená tlak na legislativu, která chrání autorská práva a udržitelnost, zatímco AI zůstane nástrojem pro inspiraci, ne náhradou.
+Názory Brelanda odrážejí širší debatu v hudebním průmyslu o regulaci AI. Pokud by se označování stalo standardem, ovlivnilo by to streamovací platformy jako Spotify nebo Apple Music, které by musely implementovat metadata pro AI obsah. To by chránilo spotřebitele před klamáním a podpořilo transparentnost. Ekonomicky by redistribuce výdělků mohla vyrovnat nerovnováhu – AI nástroje umožňují komukoli generovat hudbu bez dovedností, což ohrožuje živobytí profesionálů. V kontextu AI pokroků, jako nové verze modelů pro audio generaci (např. AudioCraft od Meta), roste tlak na legislativu, podobně jako EU AI Act, který klasifikuje high-risk AI aplikace. Pro průmysl to znamená potřebu nových modelů licencování dat a etických standardů, aby se zabránilo erozi důvěry v hudbu jako lidskou tvorbu.
 
 ---
 

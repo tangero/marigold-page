@@ -6,7 +6,7 @@ companies:
 - Microsoft
 - Nvidia
 date: '2025-12-06 14:22:29'
-description: 'Inigo Fraser Jenkins to nazývá „dystopickou symbiózou“: zpětnou vazbou
+description: 'Inigo Fraser Jenkins to nazývá ‚dystopickou symbiózou‘: zpětnou vazbou
   mezi indexovými fondy a platformovými giganty jako Apple, Microsoft a Nvidia.'
 importance: 3
 layout: tech_news_article
@@ -19,32 +19,32 @@ source:
   emoji: 📰
   id: fortune
   name: Fortune
-title: Kvantový analytik, který označil éru pasivního investování za 'horší než marxismus',
+title: Kvantový analytik, který označil éru pasivního investování za ‚horší než marxismus‘,
   to zdůrazňuje
 url: https://fortune.com/2025/12/06/index-funds-passive-investing-marxist-inigo-fraser-henmins-big-tech-dystopian-symbiosis/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2249290003-e1765030876887.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2249290003-e1765030876887.jpg?resize=1200,600
 ---
 
-### Souhrn
-Strateg Inigo Fraser Jenkins z AllianceBernstein, známý svým předchozím varováním, že pasivní investování škodí společnosti více než marxismus, nyní toto tvrzení ještě zesiluje. V nové analýze popisuje, jak miliardy dolarů proudící do indexových fondů zkreslují trhy tím, že posilují dominance velkých technologických firem. Tato dynamika vytváří uzavřený okruh, kde velikost nahrazuje fundamentální hodnotu.
+## Souhrn
+Inigo Fraser Jenkins z investiční firmy AllianceBernstein, který dříve prohlásil, že pasivní investování je pro společnost horší než marxismus, nyní toto tvrzení ještě zesiluje. Podle něj triliony dolarů proudící do indexových fondů nejen sledují trhy, ale aktivně je zkreslují tím, že posilují dominance velkých technologických firem. Tento proces označuje jako ‚dystopickou symbiózu‘ mezi pasivními fondy a platformami jako Apple, Microsoft a Nvidia.
 
-### Klíčové body
-- Pasivní investování zesiluje koncentraci moci u gigantů jako Apple, Microsoft a Nvidia prostřednictvím automatických toků kapitálu do největších firem.
-- Jen 10 společností tvoří více než třetinu hodnoty indexu S&P 500, přičemž technologické firmy řídí většinu zisků v roce 2025.
-- Analýza varuje před riziky reverzu trendů a selháním antimonopolních politik.
-- Umělá inteligence může tyto problémy prohloubit tím, že umožní ještě větší koncentraci moci.
-- Formát analýzy je fiktivní dialog mezi třemi osobami diskutujícími o tématu.
+## Klíčové body
+- Pasivní investování odměňuje velikost firem spíše než jejich fundamentální hodnotu, což vede k koncentraci kapitálu u gigantů.
+- Deset firem tvoří více než třetinu hodnoty indexu S&P 500, přičemž technologické tituly dominují růstu v roce 2025.
+- Tento mechanismus potlačuje konkurenci a zvyšuje rizika, pokud se trendy obrátí.
+- Umělá inteligence může tyto trendy ještě prohloubit díky další koncentraci moci.
+- Analýza je formátována jako fiktivní dialog tří osobností debatujících o tématu.
 
-### Podrobnosti
-Inigo Fraser Jenkins, strateg v oblasti akciových trhů u investiční firmy AllianceBernstein, vydal poznámku s názvem „Dystopická symbióza: Pasivní investování a platformový kapitalismus“. V ní argumentuje, že triliony dolarů investovaných do indexových fondů, které slepě kopírují benchmarky jako S&P 500, nejen sledují trh, ale aktivně ho deformují. Tyto fondy alokují kapitál podle tržní kapitalizace, což znamená, že firmy jako Apple (výrobce zařízení iPhone a poskytovatel služeb jako App Store), Microsoft (tvůrce operačního systému Windows, cloudu Azure a AI nástrojů jako Copilot) a Nvidia (výrobce GPU pro trénink AI modelů) dostávají disproporčně více peněz jen proto, že už jsou největší.
+## Podrobnosti
+Inigo Fraser Jenkins, strateg z AllianceBernstein – firmy specializující se na aktivní správu aktiv a výzkum trhů –, ve své nejnovější poznámce s názvem „Dystopická symbióza: Pasivní investování a platformový kapitalismus“ argumentuje, že příliv kapitálu do indexových fondů, které váží podle tržní kapitalizace (cap-weighted indices), vytváří nebezpečnou zpětnou vazbu. Tyto fondy automaticky alokují více peněz do největších firem, jako je Apple (výrobce zařízení iPhone a poskytovatel služeb jako App Store), Microsoft (tvůrce operačního systému Windows, cloudové platformy Azure a AI nástrojů jako Copilot) nebo Nvidia (výrobce GPU pro grafické zpracování a trénink AI modelů). Protože tyto firmy již dominují benchmarkům jako S&P 500, přitahují další kapitál bez ohledu na rizika nebo inovace.
 
-Tento mechanismus vytváří „dystopickou symbiózi“ – zpětnou vazbu, kde dominance těchto platformových firem zvyšuje jejich váhu v indexech, což přitahuje další kapitál a brání vstupu novým konkurentům. Na rozdíl od dřívějších cyklů, řízených fundamentálními analýzami nebo aktivním managementem, jsou současné toky kapitálu automatické a často ignorují rizika. Fraser Jenkins poukazuje, že deset firem nyní představuje přes třetinu hodnoty S&P 500, přičemž tech giganti táhnou většinu růstu v roce 2025.
+Tento proces Fraser Jenkins popisuje jako ‚dystopickou symbiózu‘, kde pasivní toky zesilují dominance platformových gigantů. Na rozdíl od dřívějších cyklů řízených fundamentálními analýzami nebo aktivními rozhodnutími investorů jsou současné toky automatické a lhostejné k rizikům. Jen deset firem nyní představuje přes třetinu hodnoty S&P 500, přičemž tech sektory jako AI a cloud computing pohánějí většinu zisků za rok 2025. Fraser Jenkins upozorňuje, že absence aktivní alokace kapitálu vede k méně efektivnímu kapitalismu s omezenou konkurencí. Mohlo by jít o selhání antimonopolních politik, které nedokázaly zabránit vzniku monopolů.
 
-Mezi příčiny řadí nejen efektivitu technologií, ale i selhání antimonopolních opatření. Umělá inteligence, která umožňuje škálování bez proporcionalního růstu nákladů, toto zesiluje – například Nvidia ovládá 80-90 % trhu s GPU pro AI trénink, což brání diverzifikaci. Analýza je strukturována jako fiktivní dialog mezi třemi postavami, které debatují o tom, zda jde o efektivnější kapitalismus nebo o méně konkurenceschopný systém.
+Jeho poznámka je strukturována jako fiktivní dialog mezi třemi postavami: zastáncem pasivního investování, kritikem a moderátorem. Tento formát zdůrazňuje kontrasty – například jak indexové fondy snižují náklady pro investory, ale zároveň financují incumbenty na úkor startupů. Fraser Jenkins není osamělý; debata o koncentraci trhu se vrací v kontextu AI, kde Nvidia ovládá 80-90 % trhu s GPU pro trénink velkých jazykových modelů (LLM) jako GPT nebo Llama. Pokud se trendy obrátí, například kvůli regulacím nebo ekonomickému zpomalení, rizika pro pasivní investory explodují.
 
-### Proč je to důležité
-Tato koncentrace zvyšuje systémová rizika: pokud dojde k reverzi trendů, jako byly předchozí propady tech bublin, automatické toky mohou zesílit pokles. Pro průmysl AI a IT to znamená menší prostor pro inovace mimo giganty – startupy mají obtížnější přístup k kapitálu, což zpomaluje rozvoj open-source AI modelů nebo specializovaných robotických platforem. V širším kontextu to oslabuje konkurenci, což může vést k stagnaci v oblastech jako autonomní vozidla nebo humanoidní roboti, kde dominují jen několik hráči jako Tesla nebo Boston Dynamics. Fraser Jenkins volá po větší roli aktivního investování, aby se obnovila alokace na základě fundamentů, nikoli velikosti.
+## Proč je to důležité
+Tato kritika odhaluje systémová rizika v technologickém sektoru, kde dominance několika firem brzdí inovace v AI, IT a robotice. Pro průmysl znamená méně kapitálu pro menší firmy vyvíjející například open-source AI modely nebo autonomní roboty, což zpomaluje pokrok mimo giganty. Investoři v pasivních fondech, kteří tvoří přes 50 % aktiv v USA, čelí iluzi bezpečnosti – vysoké koncentrace zvyšují volatilitu. V širším kontextu to ohrožuje antimonopolní snahy, jako jsou soudy proti Google nebo Apple, a může vést k volání po reformách indexů. Pro uživatele AI a IT to znamená menší volbu: méně konkurenčních alternativ k Azure, AWS nebo Nvidia CUDA. Pokud AI zesílí koncentraci, jak předpokládá Fraser Jenkins, mohlo by to vést k stagnaci v klíčových oblastech jako humanoidní robotika nebo kvantové výpočty.
 
 ---
 

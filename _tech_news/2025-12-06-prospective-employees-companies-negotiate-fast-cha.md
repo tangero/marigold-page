@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 date: '2025-12-06 15:00:09'
-description: Nedávné propouštění v technologických firmách vyvolalo obavy z nahrazování
-  lidí umělou inteligencí. Lidé se zapisují do programů pro rozvoj dovedností v AI,
-  aby drželi krok se změnami na trhu práce.
+description: Nedávné propouštění zaměstnanců, především v technologických firmách,
+  vyvolalo obavy z vlivu umělé inteligence na pracovní trh. Lidé se zapisují do vzdělávacích
+  programů zaměřených na dovednosti v AI, aby udrželi krok s technologickými změnami.
 importance: 3
 layout: tech_news_article
 original_title: Prospective employees, companies negotiate fast-changing new world
@@ -22,25 +22,25 @@ urlToImage: https://www.bostonherald.com/wp-content/uploads/2025/12/TDP-L-AIpoli
 urlToImageBackup: https://www.bostonherald.com/wp-content/uploads/2025/12/TDP-L-AIpolicereport052225-cha-205.jpg?w=1024&h=682
 ---
 
-### Souhrn
-Nedávné propouštění zaměstnanců v technologických firmách probouzí obavy, zda umělá inteligence (AI) nahradí lidi na pracovištích. Příkladem je Kaitlyn McCormicková, softwarová inženýrka s 16 lety zkušeností v IT, která studuje magisterský program v oblasti AI a strojového učení na univerzitě CSU Global. Článek zdůrazňuje, že AI vyžaduje lidský dohled a vytváří potřebu neustálého vzdělávání.
+## Souhrn
+Nedávné propouštění v technologických firmách probouzí spekulace o tom, zda umělá inteligence (AI) nahradí pracovníky. Příkladem je Kaitlyn McCormick, softwarová inženýrka s 16 lety zkušeností v IT, která nyní studuje magisterský titul v oblasti AI a machine learning na online univerzitě CSU Global. Článek zdůrazňuje nutnost neustálého vzdělávání, aby lidé zůstali relevantní v éře AI.
 
-### Klíčové body
-- Propouštění v tech firmách vyvolává spekulace o vlivu AI na zaměstnanost.
-- Kaitlyn McCormicková z Q2 Software Inc. (společnost zaměřená na fintech platformy) studuje AI, aby zůstala relevantní.
-- Zaměstnanci cítí nejistotu, ale experti doporučují AI jako asistenta, nikoliv náhradu.
-- Příklad použití: Policie v Boulder v Coloradu generuje policejní zprávy pomocí AI.
-- Matthew Brown souhlasí, že AI vždy potřebuje člověka.
+## Klíčové body
+- Propouštění v tech firmách vyvolává obavy z automatizace pracovních míst AI.
+- Kaitlyn McCormick z Q2 Software Inc. studuje AI, aby se adaptovala na změny, přesto čelí nejistotě jako hluchá matky na plný úvazek.
+- Policie v Boulder v Coloradu používá AI k generování policejních zpráv, což ukazuje praktické nasazení technologie.
+- Experti jako McCormick a Matthew Brown tvrdí, že AI vždy bude vyžadovat lidský dohled.
+- Firmy jako Q2 Software diskutují o integraci AI do svých platforem.
 
-### Podrobnosti
-Článek popisuje, jak se pracovní trh mění pod vlivem AI, zejména po vlně propouštění v technologickém sektoru. Kaitlyn McCormicková, která žije v Littletonu v Coloradu a je matkou na mateřské dovolené, pracuje na plný úvazek jako softwarová inženýrka v Q2 Software Inc., firmě specializující se na cloudové bankovní platformy. Firma nedávno diskutovala o integraci AI do svých systémů, což vyvolalo u zaměstnanců úzkost. McCormicková, která je hluchá, zdůrazňuje realitu: tradiční vzdělání na čtyři roky už nestačí na celou kariéru. Proto se rozhodla pro online magisterský program v AI a strojovém učení na CSU Global, plně akreditované univerzitě patřící do systému Colorado State University. Tento program učí pokročilé techniky, jako je trénování modelů strojového učení pro predikce a automatizaci úkolů, což lze aplikovat v IT pro optimalizaci kódu nebo analýzu dat.
+## Podrobnosti
+Článek z The Denver Post popisuje, jak se pracovní trh mění pod vlivem AI. V Boulderu v Coloradu policista Jarrett Mastriona využívá AI k automatickému generování policejních zpráv – nástroj analyzuje data z incidentů a vytváří strukturované texty, které urychlují administrativu, ale stále vyžadují lidskou kontrolu pro přesnost a kontext. Tento příklad ilustruje širší trend: AI se stává asistentem v rutinních úkolech, jako je zpracování dat nebo tvorba reportů.
 
-Další příklad ukazuje praktické nasazení AI: Policista Jarrett Mastriona v Boulderu v Coloradu používá AI k generování policejních zpráv. Tento nástroj, pravděpodobně založený na velkých jazykových modelech (LLM) jako GPT, převádí hlasové záznamy nebo poznámky do strukturovaných dokumentů, což urychluje administrativu, ale stále vyžaduje lidskou kontrolu pro přesnost a etiku. McCormicková radí: místo úniku před AI ji přijmout jako nástroj, který zvyšuje produktivitu. Například v softwarovém vývoji AI asistuje při generování kódu v jazycích jako Python nebo Java, testování chyb a návrhu architektur, ale finální rozhodnutí zůstává u člověka kvůli kontextu a odpovědnosti. Matthew Brown, další expert zmíněný v textu, potvrzuje, že AI systémy potřebují lidský vstup pro složité úkoly.
+Kaitlyn McCormick, obyvatelka Littletonu v Coloradu, pracuje jako softwarová inženýrka v Q2 Software Inc., firmě specializující se na digitální bankovní platformy. S 16 lety zkušeností v IT a téměř 10 lety v této společnosti se rozhodla pro magisterský titul v AI a machine learning na CSU Global, plně akreditované online univerzitě patřící do systému Colorado State University. Během firemní diskuse o integraci AI do jejich platformy mnozí kolegové vyjádřili obavy z nejistoty. McCormick, která je hluchá a jediná matka, studuje na plný úvazek a uznává rizika: "Pokud se nesnažíte být relevantní, zůstanete pozadu." Zdůrazňuje, že AI není náhradou za člověka, ale nástrojem – například pro automatizaci kódu nebo analýzu dat v machine learning modelech, kde algoritmy jako ty založené na velkých jazykových modelech (LLM) generují návrhy, ale potřebují validaci.
 
-Tento trend odráží širší realitu: AI automatizuje rutinní práce, jako je psaní reportů nebo základní programování, což vede k propouštění v firmách jako Google nebo Microsoft, kde tisíce pozic zmizely v roce 2023–2024. Zároveň roste poptávka po specialistech na AI, s mezdami překračujícími 150 000 USD ročně v USA.
+Matthew Brown souhlasí: AI systémy zpracovávají data rychleji než lidé, ale chybí jim kontext, etika a kreativita. V praxi to znamená, že role jako softwaroví inženýři se mění – místo psaní kódu od nuly budou dohlížet na AI-generovaný kód, ladit modely a řešit edge cases. Propouštění v tech firmách, jako nedávné redukce v Google nebo Microsoftu, často souvisí s restrukturalizací spíš než přímou automatizací, ale AI urychluje tento proces tím, že umožňuje menším týmům zvládat větší objemy práce. Například v Q2 Software AI pomůže s personalizací bankovních služeb prostřednictvím prediktivních modelů.
 
-### Proč je to důležité
-Tento článek ilustruje přechod k AI-centrické ekonomice, kde firmy jako Q2 Software integrují AI do platforem pro rychlejší inovace, což tlačí zaměstnance k rekvalifikaci. Pro průmysl znamená snížení nákladů na rutinu, ale riziko chyb AI (např. halucinace v LLM) vyžaduje lidský dohled, čímž se vytvářejí nové role v etice AI a údržbě modelů. Pro jednotlivce je to varování: bez dovedností v AI a strojovém učení hrozí zaostávání, jak ukazují statistiky z LinkedIn, kde AI joby rostou o 74 % ročně. V širším ekosystému posiluje tlak na regulace, jako EU AI Act, aby se zabránilo masovému propouštění bez bezpečnostních sítí.
+## Proč je to důležité
+Tento trend ukazuje na přechod k AI-augmented pracovní síle, kde dovednosti v AI a machine learning se stávají nezbytností pro udržení zaměstnanosti. Pro průmysl to znamená nižší náklady na rutinní úkoly, ale riziko ztráty pracovních míst v administrativě a juniorském programování. Uživatelé – tj. zaměstnanci – musí investovat do kontinuálního vzdělávání; programy jako ten na CSU Global nabízejí flexibilitu pro pracující. V širším kontextu posiluje to dominanci firem ovládajících AI modely, jako OpenAI nebo Google, a zvyšuje tlak na regulace pracovního trhu. Kriticky: AI zatím nedosáhla úrovně, kde by plně nahradila experty, ale bez adaptace hrozí marginalizace. (512 slov)
 
 ---
 
