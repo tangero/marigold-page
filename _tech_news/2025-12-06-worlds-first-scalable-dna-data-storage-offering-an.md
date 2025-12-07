@@ -4,8 +4,9 @@ category: dna úložiště
 companies:
 - Atlas Data Storage
 date: '2025-12-06 11:30:00'
-description: Společnost Atlas Data Storage oznámila svůj první produkt, službu Atlas
-  Eon 100 pro škálovatelné úložiště dat na bázi DNA.
+description: Společnost Atlas Data Storage oznámila svůj první komerční produkt Atlas
+  Eon 100, což je škálovatelné úložiště dat využívající technologii DNA. Řešení slibuje
+  extrémní hustotu úložiště a dlouhodobou stabilitu bez potřeby obnovování dat.
 importance: 3
 layout: tech_news_article
 original_title: '''World''s first scalable DNA data storage offering'' announced offering
@@ -18,32 +19,32 @@ source:
   id: null
   name: Tom's Hardware UK
 title: Oznámeno první škálovatelné úložiště dat na bázi DNA s kapacitou 60 PB v 60
-  kubických palcích – postačí na 660 000 filmů v 4K, Atlas Data Storage tvrdí 1000násobnou
-  hustotu oproti LTO-10 páskám
+  kubických palcích, postačí na 660 000 filmů v 4K – Atlas Data Storage tvrdí 1000násobnou
+  hustotu oproti LTO-10 pásce
 url: https://www.tomshardware.com/pc-components/storage/worlds-first-scalable-dna-data-storage-offering-announced-offering-a-staggering-60pb-in-60-cubic-inches-enough-to-hold-660-000-4k-movies-atlas-data-storage-claims-its-solution-is-1000x-denser-than-lto-10-tape
 urlToImage: https://cdn.mos.cms.futurecdn.net/x7MUYwauskexMJzT6LJSkj-1920-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/x7MUYwauskexMJzT6LJSkj-1920-80.jpg
 ---
 
-### Souhrn
-Společnost Atlas Data Storage, startup specializující se na technologie úložiště dat založené na DNA, oznámila svou první komerční nabídku nazvanou Atlas Eon 100. Jde o škálovatelné služby pro archivaci dat v malých DNA kapslích, které podle firmy umožňují uložit 60 PB dat v objemu 60 kubických palců, což odpovídá prostoru šesti táců pilulek velikosti tablet. Řešení je prezentováno jako výrazně hustší a odolnější než tradiční magnetické pásky LTO-10.
+## Souhrn
+Společnost Atlas Data Storage, startup zaměřený na úložiště dat na bázi DNA, oznámila svůj první komerční produkt nazvaný Atlas Eon 100. Jedná se o škálovatelné služby pro dlouhodobé archivování dat, které podle firmy umožňují uložit 60 PB dat do objemu 60 kubických palců, což odpovídá prostoru šesti zásuvek s pilulkovými kapslemi. Tato technologie je prezentována jako 1000násobně hustší než současné páskové úložiště LTO-10.
 
-### Klíčové body
-- **Kapacita a hustota**: 60 PB v 60 kubických palcích, což je ekvivalent 660 000 filmů v rozlišení 4K; firma tvrdí 1000násobnou hustotu oproti LTO-10 páskám.
-- **Odolnost**: Data uložená na tisíce let bez potřeby obnovy, stabilní až do 40 °C, na rozdíl od páskových médií vyžadujících refresh každých 7–10 let a kontrolované prostředí.
-- **Duplikace**: Jednodušší a rychlejší než u magnetických pásků.
-- **Cílové použití**: Dlouhodobé archivování, uchovávání modelů umělé inteligence, ochrana kulturního dědictví a vysoce hodnotného obsahu.
-- **Forma nabídky**: Služba, nikoli hardware pro širokou veřejnost.
+## Klíčové body
+- Kapacita 60 PB v 60 kubických palcích, což postačí na 660 000 filmů v rozlišení 4K.
+- Stabilita dat na tisíce let bez obnovování, odolnost až do 40 °C.
+- Porovnání s magnetickou páskou: žádné periodické obnovování každých 7–10 let, nižší nároky na klimatizaci.
+- Cílové aplikace: archivace AI modelů, ochrana dědictví a vysoce hodnotného obsahu.
+- Vývoj trval přes deset let, firma je jedinou nabízející komerční DNA úložiště ve velkém měřítku.
 
-### Podrobnosti
-Atlas Data Storage, americký startup založený Billem Banyaiem, pracuje na technologiích úložiště dat pomocí syntetické DNA již více než deset let. Princip spočívá v kódování digitálních dat do sekvencí DNA molekul, jejich syntéze do fyzických kapslí a následném čtení pomocí sekvenačních metod. Na rozdíl od experimentálních projektů univerzit nebo firem jako Microsoft, které dosud nedosáhly komerčního nasazení, Atlas Eon 100 představuje službu umožňující škálovatelné nasazení pro zákazníky.
+## Podrobnosti
+Atlas Data Storage, startup specializující se na převod digitálních dat do syntetické DNA jako nosiče informací, spustil službu Atlas Eon 100 jako první komerční nabídku tohoto typu. DNA slouží k kódování binárních dat pomocí čtyř nukleových bází (A, T, C, G), což umožňuje extrémně vysokou informační hustotu – teoreticky až 215 PB na gram DNA. Firma tvrdí, že jejich kapsle s DNA umožňují uložit 60 petabajtů (PB) dat do objemu pouhých 60 kubických palců, což je ekvivalent šesti malých zásuvek obsahujících pilulky velikosti prstu. Pro srovnání, standardní páskové úložiště LTO-10 dosahuje hustoty kolem 60 TB na cartridge, takže DNA řešení je podle Atlasu 1000násobně efektivnější z hlediska objemu.
 
-Firma ve svých materiálech opakovaně porovnává své řešení s LTO-10 páskami, které mají kapacitu kolem 12 TB na kazetu a vyžadují pravidelnou obnovu dat kvůli degradaci. DNA kapsle podle Atlase nepotřebují refresh po tisíce let a snášejí teploty až 40 °C bez speciálních podmínek na vlhkost. Ilustrace na webu ukazují šest plastových táců s pilulkami, jejichž celkový objem činí zmíněných 60 kubických palců (přibližně 1 litr). Matematicky to znamená hustotu přes 1 PB na kubický palec, což je teoreticky možné díky molekulární povaze DNA, kde jedno gram může teoreticky uložit zettabajty dat.
+Další klíčové vlastnosti zahrnují dlouhodobou stabilitu: data zůstávají čitelná tisíce let bez nutnosti refreshu, na rozdíl od magnetických pásků, které vyžadují obnovu každých 7–10 let kvůli degradaci. Kapsle jsou stabilní až do teploty 40 °C (104 °F) a nevyžadují specializované prostředí s přesnou kontrolou vlhkosti a teploty, jak je potřeba u páskových archivů. Firma zdůrazňuje i snadnější duplikaci dat – syntéza DNA je rychlejší než kopírování pásků. Proces čtení a zápisu zahrnuje sekvenování DNA pro dekódování a syntézu pro zápis, což je v současnosti pomalé, ale Atlas Eon 100 je prezentováno jako škálovatelné řešení pro enterprise zákazníky, nikoli pro spotřebitele.
 
-Přesto technologie není bez omezení: zápis a čtení dat je pomalé a nákladné kvůli chemickým procesům syntézy a sekvenování, což ji činí vhodnou spíše pro cold storage než aktivní přístup. Atlas zdůrazňuje snadnou duplikaci DNA replikací, což by mohlo usnadnit zálohování oproti kopírování pásků. Zatím nejsou známy ceny, dostupnost ani nezávislé testy tvrzení, která pocházejí výhradně z firemních tiskových zpráv.
+Zdrojový materiál zahrnuje tiskovou zprávu a web firmy, kde zakladatel Bill Banyai popisuje desetiletý vývoj přes více disciplín. Ilustrace ukazují kompaktní jednotky, ale reálná dostupnost a cena nejsou specifikovány. DNA úložiště není novinka v laboratořích – Microsoft a University of Washington ji testovaly již dříve –, ale komerční škálovatelnost je prvním pokusem o masový přechod.
 
-### Proč je to důležité
-S explozivním růstem objemu dat, zejména u tréninkových sad pro modely umělé inteligence dosahujících desítek petabajtů, se stává dlouhodobé archivování klíčovým problémem. Tradiční datová centra spotřebovávají obrovské množství energie a prostoru, zatímco pásky selhávají v dlouhodobé perspektivě. Pokud Atlas Eon 100 skutečně dosáhne slibované hustoty a odolnosti, mohlo by to otevřít cestu pro efektivnější uchovávání AI modelů, vědeckých datových sad nebo národního dědictví. Nicméně jako služba od malého startupu zůstává komerční úspěch otázkou – podobné sliby v minulosti často narážely na škálovatelnost a ekonomiku. V širším kontextu posiluje to zájem o molekulární úložiště jako alternativu k NAND flash nebo HDD v éře exabajtových datových jezer.
+## Proč je to důležité
+Tato technologie řeší rostoucí potřebu dlouhodobého archivování v éře explodujících datových objemů, zejména pro AI modely, které dosahují terabajtů parametrů a vyžadují bezpečné uchování. Tradiční úložiště jako HDD nebo pásky selhávají v hustotě a životnosti, zatímco DNA nabízí potenciál pro data centra s minimální stopou. Pokud claimy Atlasu obstojí nezávislých testech, mohlo by to snížit náklady na archivaci o řády a umožnit uchování kulturního dědictví nebo vědeckých dat na staletí. Nicméně skepticky je třeba přistupovat k rychlosti přístupu – sekvenování DNA trvá hodiny až dny, což ho činí vhodným pouze pro chladné úložiště, ne pro aktivní použití. V širším kontextu posiluje DNA úložiště trend k biologickým technologiím v IT, podobně jako syntetická biologie v lékách.
 
 ---
 

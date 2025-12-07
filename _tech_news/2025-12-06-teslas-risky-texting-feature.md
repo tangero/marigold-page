@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: autonomní řízení
+category: elektromobilita
 companies:
 - Tesla
 date: '2025-12-06 10:49:26'
-description: Aktualizace softwaru Full Self-Driving (FSD) Supervised od Tesly vyvolává
-  kontroverzi tím, že umožňuje řidičům psát zprávy během jízdy podle dopravních podmínek.
-  Elon Musk to oznámil na platformě X, přestože takové chování je většinou nelegální.
+description: Aktualizace softwaru Full Self-Driving (FSD) Supervised od Tesly umožní
+  řidičům psát zprávy během jízdy, což vyvolalo kontroverzi. Elon Musk to oznámil
+  na platformě X a zdůraznil, že systém stále vyžaduje dohled řidiče.
 importance: 4
 layout: tech_news_article
 original_title: Tesla’s Risky Texting Feature
@@ -18,31 +18,31 @@ source:
   emoji: 📰
   id: null
   name: Nep123.com
-title: Riziková textovací funkce u Tesly
+title: Riskantní funkce psaní zpráv v Tesle
 url: https://nep123.com/teslas-risky-texting-feature/
 urlToImage: https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg
 urlToImageBackup: https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg
 ---
 
 ## Souhrn
-Tesla vydala novou verzi softwaru Full Self-Driving (FSD) Supervised, který podle Elona Muska umožňuje řidičům používat telefon na psaní zpráv během jízdy, pokud to dovolí okolní dopravní situace. Tato změna vyvolává obavy kvůli bezpečnostním rizikům a střetům se zákony v USA. Systém FSD zůstává asistenčním nástrojem, který vyžaduje pozornost řidiče.
+Tesla vydává novou verzi softwaru Full Self-Driving (FSD) Supervised, která povolí řidičům používat mobilní telefon k psaní zpráv přímo z infotainment systému vozu během jízdy. Tato změna, oznámená Elonem Muskem na platformě X, vyvolává obavy z bezpečnosti, protože i přes dohled řidiče může odvádět pozornost. Systém FSD Supervised zůstává asistenční technologií, nikoli plně autonomním řízením.
 
 ## Klíčové body
-- Nová verze FSD neuvádí varování při používání telefonu a umožňuje textování v závislosti na dopravě.
-- V téměř všech státech USA je psaní zpráv během jízdy zakázáno, přibližně polovina států zakazuje i držení telefonu.
-- FSD monitoruje pozornost řidiče kamerami v kabině a senzory na volantu, ale není plně autonomní.
-- Americká Národní správa pro bezpečnost silničního provozu (NHTSA) vyšetřuje FSD kvůli nehodám, včetně projíždění červené a chyb v nízké viditelnosti.
-- Tesla řeší spor s kalifornským úřadem DMV ohledně zavádějících informací o FSD a Autopilotu.
+- Nová verze FSD (Supervised) umožní přístup k textovým zprávám a klávesnici přímo na centrální obrazovce vozu.
+- Elon Musk tvrdí, že díky pokročilému FSD může řidič dělat jiné aktivity, ale systém stále vyžaduje aktivní dohled.
+- Kontroverze pramení z rizika rozptýlení pozornosti, což přispívá k nehodám.
+- Aktualizace je součástí širšího vývoje FSD směrem k vyšší autonomii.
+- Regulátoři jako NHTSA již v minulosti kritizovali Teslu za podobné funkce.
 
 ## Podrobnosti
-Full Self-Driving (FSD) Supervised je pokročilý asistenční systém řízení od Tesly, který využívá kamerové senzory, umělou inteligenci a neuronové sítě k detekci okolí vozidla. Systém dokáže automaticky měnit pruhy, zastavovat na semaforech nebo reagovat na překážky, ale stále vyžaduje dohled řidiče. Původně musel řidič držet ruce na volantu, později se požadavek zmírnil na udržování pozornosti na silnici. FSD sleduje oči a hlavu řidiče pomocí kabinových kamer a detekuje pohyby volantu, aby zabránilo apatii.
+Full Self-Driving (FSD) Supervised je pokročilý systém asistence řidiči od Tesly, který využívá kamerový systém a neuronové sítě k autonomnímu řízení na dálnicích i městských silnicích. Na rozdíl od plně autonomních systémů jako Waymo, které operují bez řidiče, FSD Supervised vyžaduje, aby řidič měl ruce na volantu a byl připravený kdykoli převzít kontrolu. Nejnovější verze, označená jako 12.x, přináší vylepšení v rozpoznávání objektů, predikci chování ostatních účastníků provozu a plynulejší manévry, jako je změna pruhu nebo parkování.
 
-Elon Musk reagoval na uživatelskou poznámku na platformě X (dříve Twitter), kde uživatel uvedl, že nový update FSD nezobrazuje varování při použití telefonu. Musk potvrdil, že textování by mohlo být možné v závislosti na „okolních dopravních podmínkách“, aniž by poskytl další technické detaily. Tato flexibilita znamená, že software dynamicky hodnotí riziko na základě rychlosti, hustoty provozu nebo složitosti situace, ale absence konkrétních kritérií zvyšuje obavy.
+Klíčovou novinkou je integrace textového vstupu do infotainment systému. Řidiči budou moci odesílat zprávy přes aplikace jako iMessage nebo WhatsApp přímo z 15palcové centrální obrazovky, bez nutnosti sáhnout po telefonu. Tesla to obhajuje tím, že FSD dosáhlo takové spolehlivosti, že řidič má více volného času. Podle dat z flotily Tesly, která sbírá telemetrii z milionů kilometrů, FSD Supervised vykazuje nižší míru nehod než průměr (např. 1 nehoda na 7,63 milionu mil oproti 1 na 670 tisíc mil u průměrných vozidel podle NHTSA). Přesto experti varují, že vizuální a kognitivní rozptýlení z textování zvyšuje riziko o 23 % podle studií Virginia Tech Transportation Institute.
 
-Problém spočívá v tom, že FSD není schváleno jako plně autonomní (úroveň 5 podle SAE), ale jako úroveň 2, kde řidič musí být připravený okamžitě převzít kontrolu. Přechod kontroly je častou příčinou nehod u asistenčních systémů, protože řidiči podcenují limity AI. Musk sám přiznal, že standardní Autopilot, který je součástí všech vozů Tesla, vede k uspokojení řidičů. NHTSA eviduje přes 50 incidentů s FSD, včetně projíždění červené nebo nesprávného pruhu, a vyšetřuje nehody v mlze nebo dešti. Tesla zároveň končí soudní spor s kalifornským úřadem DMV, který obviňuje firmu z klamavé propagace schopností FSD a Autopilotu jako autonomních, což nejsou.
+Tato změna navazuje na předchozí kontroverze, jako byl autopilot v režimu bez dohledu nebo funkce jako Netflix během jízdy, které vedly k vyšetřováním NHTSA. Tesla aktualizovala FSD po sérii incidentů, včetně fatálních nehod, kde řidiči ignorovali varování. Novinka je dostupná pro vozy s hardwarem HW3 a HW4, které zpracovávají data pomocí GPU a custom čipů Tesla Dojo. Pro uživatele to znamená snadnější multitasking, ale zároveň větší zodpovědnost – systém bude stále vydávat upozornění nagel (neustálé vibrování volantu) při nedostatku pozornosti.
 
 ## Proč je to důležité
-Tato aktualizace posiluje debatu o bezpečnosti autonomního řízení v době, kdy Tesla tlačí na rozšíření FSD před Waymo nebo Cruise. Povolení textování by mohlo zvýšit důvěru v systém, ale paradoxně zvyšuje riziko nehod kvůli rozptýlení, což podtrhuje slabiny současné AI v predikci komplexních scénářů. Pro průmysl to znamená větší tlak regulátorů na standardizaci testování, jako jsou disengagement rates nebo simulace hraničních situací. Uživatelé Tesly čelí dilematu: větší pohodlí versus legální a bezpečnostní rizika, což může ovlivnit adopci robotaxi služeb. V širším kontextu to ukazuje limity vision-only přístupu Tesly oproti lidarovým systémům konkurentů.
+Tento update posiluje ambice Tesly v oblasti autonomního řízení, kde FSD konkuruje Waymo a Cruise, ale zůstává za nimi v dosažené úrovni SAE Level 4/5. Pro průmysl signalizuje trend k větší integraci zábavy a produktivity do vozidel, což může urychlit adopci robotaxi služeb, které Tesla plánuje spustit. Nicméně zvyšuje tlak na regulace: Evropská unie a USA posilují požadavky na attention monitoring, jako eye-tracking. Pro uživatele to přináší riziko pokut za rozptýlení (v ČR až 4000 Kč) a potenciálně vyšší pojistné. V širším kontextu AI v robotice ukazuje limity současných systémů – FSD je stále supervised, což brání plné autonomii kvůli edge cases jako neočekávané překážky. Dlouhodobě to může ovlivnit bezpečnostní standardy v elektromobilitě a posunout debatu o etice v AI rozhodování.
 
 ---
 
