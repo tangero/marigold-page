@@ -4,10 +4,10 @@ category: ai infrastruktura
 companies:
 - Amazon Web Services
 date: '2025-12-05 21:30:31'
-description: Amazon Web Services urychluje modernizaci datových center tím, že přináší
-  model AI Factories přímo do zařízení zákazníků a umožňuje nasazovat plnohodnotné
-  AI systémy ve velkém měřítku. Společnost zároveň spustila Nova Forge pro trénink
-  vlastních pokročilých AI modelů s důrazem na uvažování a řešení problémů.
+description: Amazon Web Services urychluje modernizaci datových center, protože firmy
+  mění nasazení umělé inteligence a AI infrastruktury ve velkém měřítku. Model AI
+  Factories přináší full-stack systémy přímo do zákaznických datových center a snižuje
+  rozdíl mezi cloudem a on-prem řízením.
 importance: 3
 layout: tech_news_article
 original_title: AWS showcases AI factories, models, chips and agents to drive its
@@ -18,32 +18,31 @@ source:
   emoji: 📰
   id: null
   name: SiliconANGLE News
-title: AWS představuje továrny na AI, modely, čipy a agenty pro posílení své klíčové
-  strategie infrastruktury
+title: AWS představuje továrny na AI, modely, čipy a agenty pro svou klíčovou strategii
+  infrastruktury
 url: https://siliconangle.com/2025/12/05/aws-ai-infrastructure-models-chips-agents-awsreinvent/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Julia-White.jpg
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Julia-White.jpg
 ---
 
-## Souhrn
-Amazon Web Services (AWS) na konferenci re:Invent představilo koncept AI Factories, který umožňuje podnikům budovat kompletní AI infrastrukturu přímo v jejich vlastních datových centrech. Tento přístup kombinuje cloudové inovace s on-premises kontrolou, aby uspokojil potřeby regulovaných prostředí. Dále AWS oznámilo Nova Forge, službu pro trénink a vývoj vlastních pokročilých AI modelů zaměřených na logické uvažování.
+### Souhrn
+Amazon Web Services (AWS) na konferenci re:Invent představilo model AI Factories, který umožňuje zákazníkům instalovat kompletní AI infrastrukturu přímo v jejich vlastních datových centrech. Společnost zároveň rozšiřuje platformu Nova o službu Nova Forge pro trénink a vývoj vlastních pokročilých AI modelů. Tyto novinky reagují na poptávku po rychlém nasazení AI s důrazem na suverenitu dat a regulace.
 
-## Klíčové body
-- **AI Factories**: Plnohodnotné systémy pro nasazení AI infrastruktury v zákaznických datových centrech, s důrazem na suverenitu dat a velké měřítko.
-- **Nova Forge**: Nová služba pro trénink custom frontier AI modelů, které překračují základní vyhledávání informací a zaměřují se na řešení problémů a dedukci.
-- **20 let zkušeností**: AWS využívá své dlouholeté know-how v budování infrastruktur pro enterprise.
-- **Rozhovor s Julií White**: Viceprezidentkou AWS, která zdůraznila optimalizaci pro regulované sektory.
-- **Celková strategie**: Integrace modelů, čipů a agentů do jádra infrastruktury AWS.
+### Klíčové body
+- **AI Factories**: Kompletní full-stack systémy pro on-prem nasazení AI infrastruktury, optimalizované pro regulovaná prostředí a velké škály.
+- **Nova Forge**: Nová služba pro trénink custom frontier AI modelů s pokročilými schopnostmi uvažování a řešení problémů.
+- **Strategie infrastruktury**: AWS kombinuje 20 let zkušeností s cloudem pro hybridní řešení, která spojují cloudovou inovaci s on-prem kontrolou.
+- **Cílové využití**: Podpora high-value AI workloads v sektoru s vysokými požadavky na bezpečnost a suverenitu.
 
-## Podrobnosti
-AWS reaguje na rostoucí poptávku podniků po flexibilním nasazení umělé inteligence, kde tradiční cloudové řešení nestačí kvůli požadavkům na nízkou latenci, suverenitu dat a soulad s přísnými regulacemi. Koncept AI Factories představuje "velmi názorový" přístup AWS, jak ho popsala Julia White, viceprezidentka a šéfka marketingu. Tyto továrny na AI umožňují zákazníkům integrovat full-stack systémy – tedy hardware, software i služby – přímo do existujících datových center. Slouží k průběžné výrobě AI modelů z datových toků, podobně jako továrna přeměňuje suroviny na hotové produkty. AWS tak snižuje rozdíl mezi cloudovými inovacemi a lokální kontrolou, což je klíčové pro sektory jako finance, zdravotnictví nebo vládní instituce, kde data nesmí opustit hranice.
+### Podrobnosti
+AWS reaguje na trendy v nasazení umělé inteligence tím, že přináší svůj koncept AI Factories přímo do existujících datových center zákazníků. Tento model nenabízí jen cloudové služby, ale kompletní stack hardware, software a optimalizace, který lze integrovat on-prem. Podle Jullie Whiteové, viceprezidentky a šéfky marketingu AWS, jde o "velmi opinionated" řešení, tedy předem definovanou architekturu založenou na dlouholetých zkušenostech firmy s provozem datových center v obřím měřítku. AWS tak pomáhá firmám, které potřebují udržet kontrolu nad citlivými AI úlohami, například v oblasti finance, zdravotnictví nebo vládních služeb, kde suverenita dat převažuje nad čistě cloudovými řešeními.
 
-White v rozhovoru pro theCUBE na re:Invent zdůraznila, že AWS má téměř 20 let zkušeností s budováním infrastruktur v hyperskále, což dává firmě výhodu oproti konkurentům. Tento model není jen o hardware; zahrnuje optimalizaci pro specifické zákaznické potřeby, včetně čipů jako Trainium a Inferentia, které AWS vyvíjí pro trénink a inference AI modelů. Například Trainium2 čipy umožňují trénovat modely rychleji a levněji než standardní GPU od Nvidia.
+Doplňkově AWS spustilo Nova Forge, službu na platformě Nova foundation models, která slouží k tréninku a fine-tuningu vlastních frontier modelů. Frontier models představují nejpokročilejší AI modely schopné logického uvažování, dedukce a řešení komplexních problémů, na rozdíl od starších modelů zaměřených jen na vyhledávání informací. Nova Forge umožňuje zákazníkům přizpůsobit tyto modely specifickým potřebám, jako je analýza dat v reálném čase nebo automatizace rozhodování. Tato služba je integrována s existujícími AWS nástroji, jako jsou čipy pro AI (např. Trainium a Inferentia) a agenti pro autonomní provoz AI systémů.
 
-Vedle toho AWS spustilo Nova Forge, první službu svého druhu pro vývoj custom frontier modelů. Frontier modely představují špičku AI, schopnou pokročilého uvažování, logické dedukce a řešení komplexních úloh, na rozdíl od základních modelů zaměřených jen na generování textu. Nova Forge umožňuje podnikům trénovat tyto modely na vlastních datech, fine-tunovat je pro specifické úlohy jako analýza dat, predikce nebo automatizace procesů. To rozšiřuje platformu Nova foundation models, kterou AWS nedávno rozšířilo. Tyto agenty – autonomní AI entity – lze nasadit pro orchestraci úkolů v infrastruktuře, například pro správu clusterů nebo optimalizaci výpočtů.
+Diskuse proběhla na re:Invent v rozhovoru s Johnem Furrierem v studia theCUBE. AWS tak posiluje svou pozici v hybridních prostředích, kde zákazníci kombinují on-prem hardware s cloudovými službami. Například AI Factories lze použít pro budování clusterů GPU pro trénink modelů přímo u zákazníka, což snižuje latenci a zvyšuje bezpečnost. Nova Forge naopak cílí na vývojáře, kteří chtějí vytvářet modely překonávající standardní LLM jako GPT nebo Llama v specifických doménách.
 
-## Proč je to důležité
-Tato iniciativa posiluje pozici AWS v enterprise AI trhu, kde podniky hledají hybridní řešení kvůli rostoucím nákladům na cloud a obavám z vendor lock-in. AI Factories umožňují škálovat AI workloads bez úplné migrace do cloudu, což snižuje rizika a náklady – například trénink modelu na Trainium může ušetřit desítky procent oproti Nvidia H100. Nova Forge naopak demokratizuje přístup k frontier modelům, které dříve ovládaly jen giganti jako OpenAI nebo Google. V širším kontextu to urychluje adopci AI v regulovaných odvětvích a zvyšuje konkurenci v infrastruktuře, kde AWS soutěží s Azure a GCP. Dlouhodobě to může vést k větší fragmentaci AI ekosystému, kde podniky budují vlastní modely místo spoléhání na veřejné LLM.
+### Proč je to důležité
+Tyto novinky posilují konkurenceschopnost AWS v AI infrastruktuře, kde soupeří s Azure a Google Cloud. Pro průmysl znamenají snížení závislosti na veřejných cloudech a lepší podporu pro regulovaná odvětví, což urychlí adopci AI ve velkých firmách. V širším kontextu to odráží posun k hybridním modelům, kde on-prem řešení doplňují cloud pro kritické aplikace. Nicméně AWS musí prokázat škálovatelnost těchto řešení v praxi, protože slibované optimalizace závisí na proprietárních čipech a softwaru, což může omezit flexibilitu oproti open-source alternativám.
 
 ---
 

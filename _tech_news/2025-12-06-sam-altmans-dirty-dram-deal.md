@@ -1,11 +1,11 @@
 ---
 author: Marisa Aigen
-category: hardware
+category: dram
 date: '2025-12-06 00:24:55'
-description: Tajné masivní nákupy pamětí RAM od OpenAI vyvolaly paniku na trhu, což
-  vedlo k růstu cen DDR5 o 156 procent během měsíce a nedostatku dodávek až do roku
-  2026. AI bublina dramaticky narušuje hardware supply chain a ovlivňuje ceny pro
-  spotřebitele i firmy.
+description: OpenAI uzavřelo dvě bezprecedentní smlouvy na nákup velkého množství
+  pamětí DRAM, což vyvolalo paniku na trhu a rychlý růst cen DDR5. Tento nedostatek
+  ovlivňuje nejen výrobce počítačů, ale i běžné spotřebitele, s dodávkami posunutými
+  až do roku 2026.
 importance: 4
 layout: tech_news_article
 original_title: Sam Altman's Dirty DRAM Deal
@@ -17,33 +17,29 @@ source:
   emoji: 📰
   id: null
   name: Mooreslawisdead.com
-title: Špinavá DRAM dohoda Sama Altmana
+title: Špinavá dohoda Sama Altmana o DRAM
 url: https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal
 urlToImage: https://static.wixstatic.com/media/cd85b6_c4d11d1007364cfe9d9b36187a738d87~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/cd85b6_c4d11d1007364cfe9d9b36187a738d87~mv2.png
 urlToImageBackup: https://static.wixstatic.com/media/cd85b6_c4d11d1007364cfe9d9b36187a738d87~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/cd85b6_c4d11d1007364cfe9d9b36187a738d87~mv2.png
 ---
 
 ## Souhrn
-V listopadu 2023 objednal autor článku sadu 32GB DDR5 pamětí za nízkou cenu, ale během tří týdnů její cena vyskočila o 156 procent na 330 dolarů. Tento růst způsobili dva tajné obrovské kontrakty OpenAI na nákup DRAM, které vyvolaly paniku mezi ostatními kupci. Kombinace AI poptávky, nízkých zásob a spekulací ohrozuje dodávky pamětí až do Vánoc a dál.
+OpenAI pod vedením Sama Altmana uzavřelo dvě tajné smlouvy na obrovské množství pamětí DRAM, což způsobilo okamžitou paniku na trhu. Ceny DDR5 vzrostly o 156 % během tří týdnů a dodávky pro ostatní zákazníky jsou odkládány až do prosince 2026. Tento vývoj je důsledkem přehřáté poptávky po hardwaru pro AI modely v kombinaci s minimálními zásobami.
 
 ## Klíčové body
-- Cena sady 32GB DDR5 stoupla o 156 procent během méně než měsíce.
-- Výrobce RAM kontaktoval amerického retailera s žádostí o prodej zásob zpět.
-- Firma montující hotové počítače dostala termín dodávek RAM až na prosinec 2026.
-- OpenAI uzavřelo dva bezprecedentní kontrakty na DRAM, které překvapily trh svou velikostí a utajením.
-- Trh měl minimální bezpečné zásoby kvůli celním celům a očekávanému poklesu cen pamětí.
+- OpenAI provedlo dvě bezprecedentní nákupy DRAM, které překvapily dodavatele velikostí i utajením.
+- Ceny 32GB kitu DDR5 stouply z původní hodnoty na 330 USD (+156 %) během měsíce.
+- Americký maloobchodník byl osloven výrobcem RAM, zda nemá surplus pro další zákazníky.
+- Výrobce předem sestavených počítačů dostal termín dodávky RAM až do prosince 2026.
+- Příčiny: AI bublina, panické nákupy a nulové bezpečnostní zásoby kvůli celům a klesajícím cenám.
 
 ## Podrobnosti
-Článek od Toma z kanálu Moore’s Law Is Dead, založený na videu a informacích z odvětví, popisuje krizi na trhu s dynamickými paměťmi RAM (DRAM), které jsou klíčové pro servery, GPU clustery a moderní počítače. OpenAI, firma za chatbotem ChatGPT a velkými jazykovými modely (LLM), potřebuje obrovské množství vysokorychlostních pamětí DDR5 pro trénink AI modelů. Tyto modely vyžadují tisíce GPU, jako jsou Nvidia H100, které fungují v clusterech s terabajty RAM pro zpracování dat během tréninku.
+V začátku listopadu 2023 si autor článku, Tom z kanálu Moore’s Law Is Dead – specializovaného na analýzy hardwarového trhu –, objednal 32GB kit DDR5 pro kombinaci s základní deskou Minisforum BD790i X3D na platformě Zen 4 X3D. O tři týdny později se stejný produkt prodával za 330 USD, což představuje nárůst o 156 %. Tento dramatický skok není ojedinělý. Zdroje z odvětví uvádějí, že americký maloobchodník byl kontaktován výrobcem RAM s žádostí o prodej surplusu pro jiné zákazníky – situace srovnatelná s tím, kdyby Corsair oslovil Best Buy. Firma vyrábějící předem sestavené počítače obdržela odhad dodávky objednávek umístěných nyní až na prosinec 2026.
 
-V začátku listopadu 2023 autor objednal sadu 32GB DDR5 pro základní desku Minisforum BD790i X3D s procesory AMD Zen 4 X3D. Během tří týdnů se cena stejného produktu zdvojnásobila až na 330 dolarů – růst o 156 procent. Tento trend není ojedinělý. Zdroje z amerického retailu hlásí, že výrobce pamětí (například podobný Corsairu) oslovil prodejce jako Best Buy s nabídkou odkupu jejich zásob pro další zákazníky. Další zdroj z firmy vyrábějící hotové počítače (prebuilt PC) obdržel odhad dodávek: při objednávce nyní by RAM přijely až v prosinci 2026.
-
-Krize pramení z tří faktorů. První je dvojitá dohoda OpenAI vedeného Samem Altmanem – CEO OpenAI, který řídí vývoj pokročilých AI systémů. Tyto kontrakty byly utajené a jejich objem překročil očekávání, což okamžitě vyvolalo paniku mezi hyperscalery jako Microsoft, Google nebo Amazon, kteří také budují AI infrastrukturu. Druhý faktor je nulová bezpečná rezerva na trhu: po éře přebytku kvůli poklesu cen a celním tarifům (např. mezi USA a Čínou, kde se DRAM vyrábí) firmy minimalizovaly zásoby. Třetí je synergie paniky – konkurence začala hromadně nakupovat, což vyčerpalo zbývající kapacity.
-
-Toto není jen spekulace; zdroje z odvětví potvrzují, že trh s DDR5 a HBM (high-bandwidth memory pro AI) je pod tlakem. Například Micron, Samsung nebo SK Hynix, hlavní výrobci DRAM, teď čelí poptávce překračující produkci o desítky procent.
+Tři synergické faktory stály za touto krizí. První je akce OpenAI, které uzavřelo dvě masivní smlouvy na DRAM pro své datová centra pohánějící modely jako GPT. Tyto deals byly utajeny a jejich rozsah překvapil dodavatele jako Samsung, Micron nebo SK Hynix, kteří produkují DRAM – dynamickou paměť s náhodným přístupem sloužící k dočasnému ukládání dat v počítačích a serverech. Druhý faktor je panické nákupy: po zprávách o dealu se spustila vlna objednávek od hyperscalerů jako Microsoft, Google nebo Amazon, kteří budují AI infrastrukturu. Třetí je nulová bezpečnostní zásoba – dříve klesající ceny DRAM kvůli přebytku a cla na dovoz z Číny vedla k minimalizaci skladů. Výsledek: trh se zhroutil pod tlakem poptávky po HBM (High Bandwidth Memory) a standardním DDR5 pro AI trénink, kde servery s GPU jako Nvidia H100 vyžadují terabajty paměti pro zpracování velkých datových sad.
 
 ## Proč je to důležité
-Tato krize ukazuje zranitelnost hardware supply chain v éře AI bubliny. Pro spotřebitele znamená dražší upgrady PC – sada DDR5 může brzy stát více než celý systém na bázi AMD Zen 4 X3D. Pro firmy vyrábějící servery nebo AI clustery to ohrožuje plány expanze; dodávky do 2026 paralyzují projekty. V širším kontextu to zdůrazňuje rizika centralizované poptávky od pár gigantů jako OpenAI, které ovlivňují globální ceny. Pokud AI hype pokračuje bez diverzifikace dodavatelů, podobné šoky se zopakují – od GPU po chlazení. Kriticky řečeno, toto není udržitelný růst, ale bublina, kde spekulativní investice do AI (jako Altmanovy plány na AGI) externalizují náklady na celý průmysl. Bez regulace cel nebo investic do kapacit může toto "ukradnout Vánoce" nejen spotřebitelům, ale i dlouhodobé stabilitě tech sektoru.
+Tato krize odhaluje křehkost dodavatelského řetězce pro AI hardware. Pro průmysl znamená zpoždění vývoje AI modelů, vyšší náklady na výpočetní výkon a riziko pro malé firmy bez rezerv. Spotřebitelé čelí zdražení DDR5 pamětí v PC a notebookech, což brzdí upgrade na platformy jako AMD Zen 4/5 nebo Intel 14. generace. V širším kontextu podtrhuje, jak AI bublina – poháněná investicemi do tréninku LLM (large language models) – přetěžuje globální výrobu čipů. Pokud se dodávky nezotaví, může to vést k regulacím exportu nebo novým fabrikám, ale krátkodobě to oslabuje konkurenci OpenAI, které si zajistilo přednostní přístup. Jako expert na AI a IT vidím riziko, že takové monopoly na hardware zpomalí demokratizaci AI technologií.
 
 ---
 

@@ -1,12 +1,13 @@
 ---
 author: Marisa Aigen
-category: letectví
+category: letový provoz
 companies:
 - Peraton
 date: '2025-12-06 00:16:40'
-description: Americká vláda vybrala firmu Peraton s omezenými zkušenostmi spolupráce
-  s Federální správou letectví (FAA), aby dohlédla na modernizaci zastaralého systému
-  řízení letového provozu za přibližně 31,5 miliardy dolarů.
+description: Americká vláda vybrala firmu Peraton s omezenou zkušeností spolupráce
+  s Federální správou letectví (FAA) k dohledu nad modernizací zastaralého systému
+  řízení letového provozu za přibližně 31,5 miliardy dolarů. Cílem je dokončit upgrade
+  do tří let, před koncem mandátu prezidenta Trumpa.
 importance: 3
 layout: tech_news_article
 original_title: What to know about the air traffic control overhaul and the company
@@ -17,31 +18,32 @@ source:
   emoji: 📰
   id: abc-news
   name: ABC News
-title: Co vědět o modernizaci řízení letového provozu a firmě, kterou FAA najala
+title: Co potřebujete vědět o modernizaci řízení letového provozu a firmě, kterou
+  FAA najala
 url: https://abcnews.go.com/Business/wireStory/air-traffic-control-overhaul-company-faa-hired-manage-128160842
 urlToImage: https://i.abcnewsfe.com/a/9b4de276-a93b-4189-94b7-2fe9d1239c83/wirestory_5541dd9071605c0e0a13ddcfd29046ce_16x9.jpg?w=1600
 urlToImageBackup: https://i.abcnewsfe.com/a/9b4de276-a93b-4189-94b7-2fe9d1239c83/wirestory_5541dd9071605c0e0a13ddcfd29046ce_16x9.jpg?w=1600
 ---
 
 ## Souhrn
-Americká vláda zadala firmě Peraton dohled nad modernizací systému řízení letového provozu, který je dlouhodobě zastaralý a způsobil řadu problémů včetně výpadků radaru a leteckých nehod. Tento projekt s rozpočtem 31,5 miliardy dolarů má být dokončen do tří let, před koncem mandátu prezidenta Trumpa. Peraton byla vybrána před zkušenější firmou Parsons díky slibovanému inovativnímu přístupu.
+Americká vláda zadala firmě Peraton dohled nad modernizací systému řízení letového provozu (ATC), který je zastaralý a způsobil nedávné incidenty. Tento projekt za 31,5 miliardy dolarů má být dokončen do tří let, přestože Peraton má malé zkušenosti s FAA, na rozdíl od konkurenta Parsons Corp. Výběr oznámil ministr dopravy Sean Duffy s cílem urychlit proces po selhání předchozího programu NextGen.
 
 ## Klíčové body
-- Firma Peraton, specializující se na IT řešení pro vládní a obranné sektory, získala kontrakt navzdory minimálním zkušenostem s FAA.
-- Kongres schválil 12,5 miliardy dolarů jako zálohu po opakovaných technických selháních, včetně výpadků radaru u letiště Newark Liberty International.
-- Projekt navazuje na neúspěšný program NextGen, který od začátku tisíciletí nesplnil očekávané výkonnostní cíle.
-- Celkový odhadovaný náklad 31,5 miliardy dolarů, z toho zbývá financovat asi 20 miliard.
-- Cílový termín dokončení: tři roky, aby byl systém modernizován do konce roku 2028.
+- Firma Peraton, specializující se na IT služby, kyberbezpečnost a obranné technologie, porazila zkušenějšího konkurenta Parsons Corp.
+- Kongres schválil 12,5 miliardy dolarů jako zálohu po výpadcích radaru u letiště Newark Liberty a havárii letadla s armádním vrtulníkem nad Washingtonem D.C.
+- Celkové náklady dosáhnou 31,5 miliardy, z toho dalších 20 miliard potřebuje Duffy k dokončení.
+- Agresivní lhůta tří let kontrastuje s dlouhotrvajícím NextGen programem, který nesplnil sliby.
+- Systém ATC slouží k monitorování a řízení letadel, včetně radarů a komunikačních systémů.
 
 ## Podrobnosti
-Americký ministr dopravy Sean Duffy oznámil výběr Peraton 5. prosince 2025. Firma Peraton, vzniklá sloučením několika IT podniků zaměřených na kybernetickou bezpečnost, datová centra a systémy pro řízení krizí (C4ISR), má v portfoliu především zakázky pro ministerstvo obrany a tajné služby. Přesto její zkušenosti s FAA jsou minimální, což vyvolává otázky ohledně rizik spojených s takovým velkým projektem. Naopak Parsons Corporation, která prohrála tendr, má dlouholetou historii kontraktů s FAA na údržbu a vývoj leteckých systémů.
+Modernizace systému řízení letového provozu v USA je nutná kvůli opakovaným technickým selháním. Letos v lednu došlo k největší letecké katastrofě v zemi za poslední roky, kdy se civilní letadlo srazilo s armádním vrtulníkem nad Washingtonem D.C. a zahynulo 67 lidí. Dále dvakrát selhal radar u newyorského letiště Newark Liberty International Airport, což ohrozilo bezpečnost stovek letů. Tyto incidenty ukazují slabiny současného systému, který spoléhá na technologie z 20. století, jako jsou analogové radary a zastaralé komunikační protokoly.
 
-Modernizace přichází po sérii incidentů, které odhalily slabiny současného systému. Na začátku roku 2025 došlo k největší letecké katastrofě v USA za poslední roky: střet letadla s armádním vrtulníkem nad Washingtonem D.C., při kterém zemřelo 67 lidí. Dále dvakrát selhal radar pro řízení letového provozu kolem letiště Newark Liberty International, což vedlo k chaosu v provozu. Tyto události přiměly Kongres k okamžitému schválení 12,5 miliardy dolarů jako první tranše financí. Duffy odhaduje, že pro dokončení bude potřeba dalších 20 miliard.
+Předchozí iniciativa NextGen, spuštěná na počátku tisíciletí, měla přinést digitální řízení letového provozu s využitím satelitních navigací GPS a automatizovaných systémů. Po více než 20 letech však program nedodal slíbené výhody, jako je zvýšená kapacita letového prostoru nebo snížení palivové spotřeby. Náklady se vyšplhaly do desítek miliard, ale systém zůstal fragmentovaný.
 
-Předchozí iniciativa NextGen, spuštěná krátce po roce 2000, měla přinést satelitní navigaci, lepší predikci letových drah a snížení palivové spotřeby, ale po dvou desetiletích nedosáhla plánovaných úspor ani spolehlivosti. Nový projekt staví na agresivnějším časovém plánu a slibuje státní úroveň technologie, která zahrnuje pravděpodobně pokročilé radary, AI pro predikci kolizí a cloudové platformy pro zpracování dat z letadel. Peraton má tyto systémy integrovat tak, aby minimalizovaly lidské chyby a zvyšovaly kapacitu vzdušného prostoru.
+Nový projekt staví na těchto zkušenostech. Peraton, firma vzniklá fúzí v roce 2021 z bývalé divize Northrop Grumman, se zaměřuje na IT integraci, datovou analýzu a kyberbezpečnost pro vládní a obranné sektory. Má kontraktů s ministerstvem obrany, ale s FAA pouze omezené zkušenosti. Přesto ministr dopravy Sean Duffy upřednostnil její „inovativní přístup“ před Parsons Corp., která má dlouholeté FAA zakázky v infrastruktuře letiště. Duffy slibuje spolupráci s řídícími letového provozu a cestujícími, aby systém splnil očekávání. Kongres již poskytl 12,5 miliardy dolarů po newarském incidentu, celkem je potřeba 31,5 miliardy.
 
 ## Proč je to důležité
-Tento projekt ovlivní bezpečnost milionů pasažérů a efektivitu letecké dopravy v USA, kde zastaralé systémy brzdí růst provozu a zvyšují rizika. V širším kontextu IT infrastruktury ukazuje na výzvy velkých vládních zakázek: volba méně zkušené firmy může urychlit inovace, ale zvyšuje riziko zpoždění nebo selhání, jako u NextGen. Pro průmysl to znamená příležitost pro subdodavatele v oblastech AI a datového zpracování, zatímco cestující mohou očekávat méně zpoždění a vyšší bezpečnost, pokud se projekt podaří. Kritici však upozorňují, že ambiciózní tříletý termín je nereálný bez dostatečného testování.
+Tento projekt ovlivní bezpečnost milionů letů ročně v USA, kde ATC zpracovává přes 50 tisíc letů denně. Úspěšná modernizace by zvýšila kapacitu letového prostoru, snížila zpoždění a emise, což má ekonomický dopad v řádech miliard dolarů. Rizikem je však volba méně zkušené firmy a agresivní lhůta – selhání by mohlo vést k dalším incidentům nebo zbytečným výdajům. V širším IT kontextu ukazuje na výzvy velkých infrastrukturních projektů, kde inovace často naráží na regulační a technické bariéry, podobně jako u NextGen. Pro průmysl to znamená příležitosti v digitálních technologiích pro ATC, včetně AI pro predikci kolizí, ale i varování před předčasnými sliby.
 
 ---
 

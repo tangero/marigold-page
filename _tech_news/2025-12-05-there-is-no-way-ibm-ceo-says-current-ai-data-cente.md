@@ -4,9 +4,8 @@ category: datová centra
 companies:
 - IBM
 date: '2025-12-05 22:53:47'
-description: Generální ředitel IBM Arvind Krishna varuje, že masivní expanze datových
-  center pro AI přináší neudržitelné náklady a výzvy s výměnou hardware na globální
-  úrovni.
+description: Generální ředitel IBM Arvind Krishna varuje, že masivní expanze AI datových
+  center přináší neudržitelné náklady a výzvy s výměnou hardware globálně.
 importance: 3
 layout: tech_news_article
 original_title: '"There is ''no way''" - IBM CEO says current AI data center trends
@@ -19,34 +18,32 @@ source:
   emoji: 📰
   id: techradar
   name: TechRadar
-title: „Žádný způsob“ – generální ředitel IBM tvrdí, že současné trendy v datových
-  centrech pro AI jsou neudržitelné, a on se v tom vyzná
+title: „Není to možné“ – generální ředitel IBM tvrdí, že současné trendy v AI datových
+  centrech jsou neudržitelné, a on se v tom vyzná
 url: https://www.techradar.com/pro/there-is-no-way-ibm-ceo-says-current-ai-data-center-trends-are-unsustainable-and-he-would-know
 urlToImage: https://cdn.mos.cms.futurecdn.net/WLRGBVVyQnW4cGXaQMSaPE-1920-80.png
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/WLRGBVVyQnW4cGXaQMSaPE-1920-80.png
 ---
 
 ### Souhrn
-Generální ředitel IBM Arvind Krishna označil současný rychlý růst datových center pro AI za finančně neudržitelný. Vybavení jediného zařízení s kapacitou 1 GW vyžaduje náklady přesahující 80 miliard dolarů a plánovaná celková kapacita v oboru dosahuje 100 GW, což znamená potenciální expozici až 8 bilionů dolarů. Klíčovým problémem je nutnost plné výměny high-end GPU hardware každých pět let.
+Generální ředitel IBM Arvind Krishna upozorňuje, že současný rozsah a tempo expanze AI datových center není finančně udržitelné. Vybavení jednoho zařízení s kapacitou 1 GW stojí přibližně 80 miliard dolarů, zatímco plánovaná celková kapacita v oboru dosahuje 100 GW, což znamená potenciální expozici 8 bilionů dolarů. Klíčovým problémem je cyklus obnovy high-end GPU hardware, který vyžaduje plnou výměnu každých pět let.
 
 ### Klíčové body
-- Vybavení 1GW datového centra pro AI stojí téměř 80 miliard dolarů.
-- Plánovaná kapacita v oboru přesahuje 100 GW, což implikuje náklady kolem 8 bilionů dolarů.
-- High-end GPU se odpisují za pět let a musí být plně nahrazeny, nikoli prodlouženy.
-- Posun od CPU k specializovaným akcelerátorům dramaticky zvyšuje kapitálové požadavky.
-- Rychlé architektonické změny zkracují životnost hardware.
+- Náklady na vybavení 1GW AI datového centra: téměř 80 miliard USD.
+- Plánovaná kapacita v oboru: kolem 100 GW, což implikuje 8 bilionů USD.
+- Životnost high-end GPU: přibližně 5 let s nutností plné výměny.
+- Posun výdajů od CPU k specializovaným akcelerátorům pro paralelní zpracování.
+- Deprecia hardware jako nejdůležitější, ale často přehlížený faktor.
 
 ### Podrobnosti
-Arvind Krishna, generální ředitel IBM, která se dlouhodobě zabývá vývojem AI systémů jako Watson, upozornil na ekonomické limity současného boomu datových center pro AI. Podle jeho odhadů vybavení jediného zařízení s výkonem 1 GW, což je typická velikost pro trénink velkých AI modelů, dosahuje nákladů blízko 80 miliardů dolarů. Tato částka pokrývá především high-end GPU, jako jsou Nvidia H100 nebo budoucí Blackwell čipy, které zpracovávají paralelní výpočty nutné pro trénink modelů typu GPT nebo Llama.
+Arvind Krishna, generální ředitel IBM, která se dlouhodobě zaměřuje na vývoj AI systémů jako Watson a cloudové služby, analyzuje ekonomickou zátěž AI infrastruktuře. Podle jeho odhadů vybavení jednoho datového centra s výkonem 1 GW, určeného pro trénink pokročilých AI modelů, překračuje 80 miliard dolarů. Tato částka zahrnuje především high-end GPU akcelerátory, jako jsou ty od Nvidia, které zpracovávají masivní paralelní výpočty nutné pro trénink velkých jazykových modelů (LLM). Plány veřejných i soukromých subjektů naznačují celkovou kapacitu až 100 GW, což by znamenalo kumulativní investice v řádu 8 bilionů dolarů.
 
-Krishna poukazuje na plány veřejných i soukromých subjektů, které cílí na celkovou kapacitu kolem 100 GW. To by znamenalo kumulativní investice až 8 bilionů dolarů, což převyšuje HDP mnoha zemí. Problém nespočívá jen v počáteční investici, ale v opakujícím se cyklu obnovy. Většina těchto akcelerátorů se odpisuje za přibližně pět let kvůli rychlým pokrokům v architektuře – nové generace přinášejí desetkrát vyšší výkon při stejné spotřebě. Operátoři proto hardware neprodlužují, ale nahrazují ho kompletně, což vytváří periodické kapitálové zátěže.
+Krishna zdůrazňuje, že tento model není jednorázovou investicí. High-end GPU hardware se odpisuje během přibližně pěti let, po čem následuje plná výměna, nikoliv prodloužení životnosti. Tento refresh cycle vyplývá z rychlého pokroku v architektuře čipů – nové generace přinášejí výrazné zlepšení výkonu, což starší hardware rychle zastarává. Zatímco CPU zůstávají součástí nasazení, nejsou už středobodem výdajů. Dominují specializované akcelerátory, které umožňují zpracování obrovských datových sad na úrovni, kterou obecné procesory nedokážou dosáhnout. Tento posun změnil definici škály pro AI datová centra: tradiční podniková centra vyžadovala nižší kapitálové nároky, ale AI infrastruktura je řádově náročnější.
 
-Tradiční CPU, dříve dominantní v datových centrech, ztratily centrální roli. Dnes tvoří menší část výdajů, zatímco specializované akcelerátory jako GPU nebo TPU od Google zvládají masivní paralelní zpracování dat pro AI trénink a inferenci. Tento posun změnil definici škálovatelnosti: moderní AI centra vyžadují desetkrát vyšší investice než konvenční enterprise zařízení. Krishna zdůrazňuje, že trh často podceňuje depreciaci – rychlost inovací znamená, že starší hardware rychle ztrácí relevanci pro náročné AI úlohy, jako je fine-tuning velkých jazykových modelů (LLM).
-
-IBM sama investuje do efektivnějších řešení, například do hybridních systémů s dlouhodobější životností, ale Krishna varuje, že bez změn v architektuře nebo energetické infrastruktuře bude expanze brzděna. Například spotřeba 1 GW odpovídá spotřebě středního města a vyžaduje masivní chlazení a napájení.
+Krishna poukazuje na deprecia jako faktor, který trh často podceňuje. Rychlost inovací znamená, že výkonnostné skoky přicházejí rychleji, než se očekává, což zvyšuje periodicitu výměn. IBM, jako dodavatel hybridních cloudových řešení a AI hardware, má přímé zkušenosti s těmito trendy – například jejich Power systémy s GPU integrací slouží k optimalizaci AI workloadů.
 
 ### Proč je to důležité
-Toto varování od lídra IBM signalizuje systémové riziko pro celý AI ekosystém. Pokud náklady zůstanou neudržitelné, zpomalí to tempo vývoje nových modelů a donutí firmy k hledání alternativ, jako jsou efektivnější čipy (např. od AMD nebo vlastní designy hyperscalerů) nebo edge computing pro inferenci. Pro průmysl to znamená tlak na inovace v hardwarové efektivitě – například přechod k optickým propojením nebo kvantově inspirovaným akcelerátorům. Uživatelé pocítí vyšší ceny AI služeb, jako cloudové API od OpenAI nebo Google, což by mohlo omezit přístup k pokročilým LLM. V širším kontextu to podtrhuje nutnost udržitelného škálování AI, aby nedošlo k kolapsu investic podobně jako v minulosti u dot-com bublin.
+Toto varování od Krishny ukazuje na systémové rizika v AI ekosystému. Neudržitelné náklady mohou způsobit zpomalení expanze, což ovlivní tempo vývoje AI modelů u firem jako OpenAI, Google nebo Meta. Pro průmysl to znamená tlak na inovace v oblasti energetické účinnosti, delší životnosti hardware nebo alternativních architektur, jako jsou neuromorfní čipy. Uživatelé a podniky, závislí na cloudových AI službách, čeká růst cen, protože provozovatelé datových center tyto náklady přenášejí dál. V širším kontextu to podtrhuje nutnost regulace energetické spotřeby AI center, která globálně přispívají k zátěži elektrických sítí. Bez řešení by mohlo dojít k přehřátí investic, podobně jako v minulosti u dot-com bubliny.
 
 ---
 

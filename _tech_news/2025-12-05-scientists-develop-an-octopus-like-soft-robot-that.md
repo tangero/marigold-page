@@ -1,9 +1,9 @@
 ---
 author: Marisa Aigen
-category: robotika
+category: měkká robotika
 date: '2025-12-05 22:47:33'
 description: Seznamte se s Octoidem, měkkým robotem, který mění barvu z modré na zelenou
-  a červenou. Robot napodobuje pohyb i kamufláž chobotnice v přirozeném prostředí.
+  a červenou. Robot napodobuje pohyb i kamufláž chobotnice díky speciálnímu materiálu.
 importance: 3
 layout: tech_news_article
 original_title: Scientists Develop an Octopus-Like 'Soft Robot' That Can Change Color
@@ -19,25 +19,25 @@ urlToImage: https://www.cnet.com/a/img/resize/a09ccee4db052cc7f115e0d84f174be665
 urlToImageBackup: https://www.cnet.com/a/img/resize/a09ccee4db052cc7f115e0d84f174be665e52555/hub/2025/12/05/88fb4913-0e72-49ad-b237-21e280ed2d4f/gettyimages-1168201315.jpg?auto=webp&fit=crop&height=675&width=1200
 ---
 
-## Souhrn
-Výzkumníci z Korejského institutu pro vědu a technologii (Korea Institute of Science and Technology) vyvinuli měkkého robota Octoid, který napodobuje pohyb, chytání kořisti a barevnou kamufláž chobotnice. Tento „třífunkční“ systém umožňuje robotovi měnit barvy, pohybovat se a interagovat s okolím podobně jako vodní živočich. Jedná se o první úspěšnou integraci těchto schopností do jediného měkkého robota po více než deseti letech výzkumu.
+### Souhrn
+Výzkumníci z Korejského institutu vědy a technologie (Korea Institute of Science and Technology) vyvinuli měkkého robota Octoid, který kombinuje pohyb, zachytávání kořisti a změnu barev podobně jako chobotnice. Tento první robot svého druhu využívá fotonický krystalický polymer k ovládání barev elektrickými signály. Vývoj vede Dae-Yoon Kim, který plánuje rozšíření technologie na inteligentní měkké stroje s reflexy a schopností učení.
 
-## Klíčové body
-- Robot Octoid byl vyvinut týmem pod vedením Dae-Yoon Kima z Korea Institute of Science and Technology.
-- Klíčovým materiálem je photonic crystal polymer, nanostrukturovaný polymer, který mění barvy odrazem světla.
-- Řízení probíhá elektrickými signály, které vyvolávají mikroskopické kontrakce a expanze, měnící barvu z modré přes zelenou na červenou.
-- Cílem je rozšíření na inteligentní měkké stroje s vlastními reflexy a schopností učení.
-- Materiál photonic crystal polymer se již používá v senzorech, dálkové komunikaci a optickém výpočtu.
+### Klíčové body
+- Octoid napodobuje chobotnici v pohybu, kamufláži a lovu kořisti pomocí "triple-in-one" systému.
+- Klíčový materiál je fotonický krystalický polymer, který mění barvy (modrá, zelená, červená) mikroskopickou kontrakcí a expanzí.
+- Výzkum trvá déle než deset let, toto je první úspěšná integrace pohybu a kamufláže do jednoho robota.
+- Potenciál pro aquatickou robotiku, senzory, optické počítače a vzdálenou komunikaci.
+- Instituce: Korea Institute of Science and Technology, specializující se na pokročilé technologie v robotice a materiálech.
 
-## Podrobnosti
-Korejský tým pod vedením Dae-Yoon Kima postavil Octoida s využitím photonic crystal polymeru, což je speciální nanostrukturovaný materiál schopný měnit optické vlastnosti při průchodu světla. Tento polymer selektivně odráží určité vlnové délky světla, díky čemuž zobrazuje syté barvy přímo ve své struktuře. V robotice je jeho použití v měkkých robotech stále novinkou, ale umožňuje kombinaci flexibility pohybu s aktivní kamufláží.
+### Podrobnosti
+Korejský tým pod vedením Dae-Yoona Kima vytvořil Octoida jako měkkého robota schopného fungovat v podvodním prostředí podobně jako chobotnice. Robot má nohy vyrobené z fotonického krystalického polymeru, což je nanostrukturovaný materiál, který odráží specifické vlnové délky světla a vytváří tak barevné efekty přímo v jeho struktuře. Tento polymer umožňuje měkký a pružný pohyb, zatímco elektrické signály vyvolávají mikroskopické změny ve struktuře – kontrakci a expanzi –, které mění barvu z modré přes zelenou na červenou. Například při aktivaci signálu se struktura polymeru stahuje, což mění odraz světla a výslednou barvu.
 
-Elektrické signály spouštějí mikroskopické změny ve struktuře polymeru – kontrakce a expanze na nanoúrovni – což mění odstín od modré přes zelenou až po červenou. To napodobuje přirozenou schopnost chobotnice měnit barvu pro kamufláž v oceánu. Octoidovy „nohy“ se tak dokážou přizpůsobit prostředí, zatímco celý systém zahrnuje i pohyb a chytání objektů, podobně jako u skutečné chobotnice. Výzkum navazuje na desetiletí snah modelovat roboty podle chobotnic, ale poprvé spojuje pohyb a kamufláž dohromady.
+Výzkum v modelování robotů podle chobotnic probíhá již přes deset let, ale dosud se nepodařilo sloučit pohyb (jako plazení tentákly) s aktivní kamufláží do jednoho zařízení. Octoid to zvládá díky integrovanému systému, který umožňuje současně měnit barvu pro maskování a pohybovat se k zachycení cíle. Korea Institute of Science and Technology, státní výzkumné zařízení zaměřené na aplikované vědy včetně robotiky a nanomateriálů, testoval robota v laboratorních podmínkách simulujících přirozené prostředí chobotnice.
 
-Korea Institute of Science and Technology se specializuje na pokročilý výzkum v materiálech a robotice, a tento projekt demonstruje, jak lze photonic crystal polymery integrovat do měkkých struktur. Robot je navržen pro vodní prostředí, kde tuhost konvenčních robotů selhává. Ovládání je zatím elektrochemické, bez pokročilé autonomie, což omezuje aktuální aplikace na laboratořní testy. Přesto představuje krok vpřed oproti předchozím prototypům, které měly buď pouze pohyb, nebo jen změnu barvy.
+Fotonický krystalický polymer má širší využití mimo robotiku: slouží k vývoji vysoce citlivých senzorů pro detekci chemických látek, v optickém počítání pro rychlejší zpracování dat nebo ve vzdálené komunikaci pro přenos signálů světlem. V měkké robotice, která je stále v rané fázi, toto umožňuje tvorbu zařízení odolných vůči poškození v nestabilních prostředích, jako je oceánské dno, kde tuhé roboty selhávají kvůli tlaku a nerovnostem. Octoid demonstruje, jak lze materiál ovládat přesně, ale aktuálně je omezen na laboratorní měřítko bez autonomního řízení.
 
-## Proč je to důležité
-Tento vývoj posouvá měkkou robotiku směrem k multifunkčním systémům, které mohou být užitečné v podmořském průzkumu, monitoringu oceánů nebo vojenských aplikacích, kde je kamufláž klíčová. Na rozdíl od rigidních robotů jako ty od Boston Dynamics, měkké roboty jako Octoid lépe zvládají nestrukturovaná prostředí, což otevírá dveře k autonomním zařízením s reflexy. Dlouhodobě by to mohlo vést k robotům schopným učení, jak naznačil Kim, ale zatím chybí integrace s AI pro skutečnou inteligenci. V širším kontextu posiluje Koreu jako hráče v robotice, kde dominují Japonsko a USA, a ukazuje potenciál photonic crystal polymerů mimo senzory do praktických robotických platforem.
+### Proč je to důležité
+Tento vývoj posouvá měkkou robotiku směrem k multifunkčním systémům, které mohou nahradit tradiční tuhé roboty v aquatických aplikacích, jako je inspekce podmořských struktur, monitorování mořského života nebo průzkum extrémních hloubek. V širším kontextu robotiky představuje krok k bioinspirovaným designům, kde se učí od přírody pro lepší adaptabilitu. Nicméně jako expert v robotice upozorňuji, že chybí autonomní rozhodování a umělá inteligence pro skutečné nasazení; technologie je zatím proof-of-concept s omezenou výdrží a přesností. Dlouhodobě by mohla ovlivnit vývoj self-aware soft robots, které reagují na prostředí reflexně a učí se, což otevře dveře k pokročilejším systémům v průmyslu i výzkumu.
 
 ---
 

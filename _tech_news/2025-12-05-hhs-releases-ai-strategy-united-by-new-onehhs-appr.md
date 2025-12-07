@@ -1,10 +1,9 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 date: '2025-12-05 22:11:00'
-description: Ministerstvo zdravotnictví a lidských služeb USA představilo plán pro
-  zavádění umělé inteligence napříč agenturou, který vychází z pěti pilířů. Strategie
-  má umožnit sdílení dat, vědecký výzkum a zrychlení provozu agentury.
+description: Ministerstvo zdravotnictví a lidských služeb stanovilo plán pro implementaci
+  umělé inteligence napříč agenturou, který se opírá o pět pilířů úsilí.
 importance: 3
 layout: tech_news_article
 original_title: HHS releases AI strategy, united by new OneHHS approach
@@ -14,31 +13,31 @@ source:
   emoji: 📰
   id: null
   name: Nextgov
-title: HHS vydalo strategii pro umělou inteligenci podle nového přístupu OneHHS
+title: HHS vydává strategii pro umělou inteligenci, sjednocenou novým přístupem OneHHS
 url: https://www.nextgov.com/artificial-intelligence/2025/12/hhs-releases-ai-strategy-united-new-onehhs-approach/409983/
 urlToImage: https://cdn.nextgov.com/media/img/cd/2025/12/05/120525HHSNG/open-graph.jpg
 urlToImageBackup: https://cdn.nextgov.com/media/img/cd/2025/12/05/120525HHSNG/open-graph.jpg
 ---
 
 ## Souhrn
-Ministerstvo zdravotnictví a lidských služeb USA (HHS) zveřejnilo strategii pro nasazení umělé inteligence v celé organizaci. Tento plán, oznámený 5. prosince 2025, se opírá o pět klíčových pilířů a zavádí koncept OneHHS k redukci byrokracie. Cílem je zefektivnit operace v oblastech výzkumu, zdravotní péče a veřejného zdraví.
+Ministerstvo zdravotnictví a lidských služeb Spojených států (HHS) zveřejnilo strategii pro nasazení umělé inteligence napříč celou organizací. Tento plán, oznámený 5. prosince 2025, se zaměřuje na pět pilířů a zavádí koncept OneHHS k zefektivnění operací, sdílení dat a výzkumu. Cílem je snížit administrativní zátěž a urychlit procesy v oblasti zdravotní péče a veřejného zdraví.
 
 ## Klíčové body
-- Pět pilířů: řízení a správa rizik, infrastruktura přizpůsobená uživatelům, rozvoj pracovní síly a snížení administrativní zátěže, podpora výzkumu na základě standardů, modernizace dodávek veřejného zdraví.
-- Koncept OneHHS: sjednocený přístup k využití AI pro streamování operací a podporu zdravotnického sektoru.
-- První pilíř zdůrazňuje budování důvěry veřejnosti prostřednictvím nové governance struktury a rizikově proporcionálních kontrol.
-- Zahrnuje hodnocení dopadů AI a nezávislé audity.
-- Strategie reaguje na dlouhodobou byrokracii brzdící inovace.
+- Zajištění governance a řízení rizik včetně posouzení dopadů AI a nezávislých kontrol.
+- Vývoj infrastruktury přizpůsobené potřebám uživatelů.
+- Podpora rozvoje pracovní síly a snížení administrativní zátěže.
+- Podpora vědeckého výzkumu prostřednictvím standardizovaných postupů.
+- Modernizace dodávek veřejného zdraví pomocí AI technologií.
 
 ## Podrobnosti
-Ministerstvo zdravotnictví a lidských služeb USA, které spravuje širokou škálu programů od výzkumu až po veřejné zdraví, oznámilo strategii HHS AI Strategy. Tento dokument, představený zástupcem ministra Jimem O'Neillem, kritizuje nahromaděnou administrativní zátěž, která omezuje produktivitu zaměstnanců. OneHHS představuje sjednocený rámec, kde AI slouží k automatizaci rutinních úkolů, jako je zpracování papírování, a umožňuje rychlejší rozhodování v kritických oblastech.
+Ministerstvo zdravotnictví a lidských služeb (HHS), které spravuje širokou škálu programů od výzkumu po zdravotní péči, se dlouho potýkalo s byrokracií a administrativními procesy, které brzdily inovace. Nová strategie HHS AI Strategy, představovaná zástupcem ministra Jimem O'Neillem, řeší tyto problémy přístupem OneHHS. Tento přístup má sjednotit celou agenturu a využít umělou inteligenci k streamlinování operací, jako je sdílení dat mezi odděleními, urychlení vědeckého výzkumu a zlepšení podpory zdravotnickým zařízením.
 
-Pět pilířů tvoří jádro strategie. První se zaměřuje na řízení a správu rizik: HHS plánuje vytvořit novou strukturu pro dohled nad projekty AI, zavést rizikově proporcionální kontroly pro zajištění integrity systémů a provádět hodnocení dopadů AI (AI impact assessments). Tyto hodnocení budou nezávisle auditovány, což má posílit důvěru veřejnosti v technologii. Druhý pilíř se týká návrhu infrastruktury přizpůsobené potřebám uživatelů, včetně bezpečného sdílení dat mezi odděleními. Třetí pilíř podporuje rozvoj pracovní síly školením na AI nástroje, které sníží administrativní zátěž – například AI pro automatické vyplňování formulářů nebo analýzu dat. Čtvrtý pilíř posiluje výzkum prostřednictvím vědeckých standardů, kde AI urychlí analýzu dat z klinických studií. Pátý pilíř modernizuje dodávky veřejného zdraví, jako je predikce epidemií pomocí modelů strojového učení.
+První pilíř se soustředí na governance a řízení rizik. HHS plánuje vytvořit novou strukturu pro dohled nad projekty AI, zavést rizikové kontroly úměrné stupni rizika a provádět AI impact assessments spolu s nezávislými revizemi. To má zajistit integritu systémů a veřejné důvěryhodnost. Druhý pilíř se týká infrastruktury, která má být navržena podle uživatelských potřeb, což zahrnuje škálovatelné platformy pro nasazení AI modelů. Třetí pilíř podporuje rozvoj pracovníků prostřednictvím školení a automatizace rutinních úkolů, jako je zpracování papírování. Čtvrtý pilíř zdůrazňuje výzkum s důrazem na "gold-standard science", což znamená striktní metodologii pro validaci AI v medicínském výzkumu. Poslední pilíř míří na modernizaci veřejného zdraví, kde AI pomůže s predikcí epidemií nebo optimalizací zdrojů.
 
-Strategie vychází z existujících federálních směrnic pro AI, ale aplikuje je specificky na zdravotnictví. HHS, které spravuje data o miliardách pacientů, vidí v AI nástroj pro lepší koordinaci – například federativní učení pro sdílení modelů bez přenosu citlivých dat. Implementace začne pilotními projekty, s důrazem na etiku a bezpečnost.
+Strategie vychází z kritiky předchozích postupů, kde i produktivní zaměstnanci trpěli zátěží papírováním. OneHHS tak představuje snahu o horizontální integraci AI napříč HHS, které zahrnuje agentury jako FDA nebo CDC. Zatím jde o plán bez konkrétních implementačních termínů, což vyžaduje sledovat reálné nasazení.
 
 ## Proč je to důležité
-Tato strategie nastavuje precedent pro federální agentury v USA, kde AI může snížit náklady na administrativu o desítky procent a zrychlit odpovědi na krize, jako byla pandemie COVID-19. V širším kontextu posiluje pozici USA v globální AI soutěži, kde Čína a EU zavádějí vlastní regulace. Pro průmysl znamená lepší integraci AI do zdravotnických systémů, což otevře trhy pro dodavatele AI nástrojů. Kriticky však chybí detaily o financování a měřitelných cílech, což může omezit dopad. Celkově představuje krok k praktickému nasazení AI ve veřejném sektoru, ale úspěch závisí na provedení.
+Tato strategie signalizuje rostoucí adopci AI ve federální správě USA, zejména v zdravotnictví, kde AI může zpracovávat obrovská data pro lepší rozhodování. Pro průmysl to znamená potenciální partnerství s HHS na projektech jako prediktivní analýzy nebo automatizace klinických trialů. V širším kontextu posiluje to standardy governance v government AI, což může ovlivnit evropské regulace jako EU AI Act. Kriticky však chybí detaily o datech pro trénink modelů a ochraně soukromí pacientů, což je klíčové riziko v citlivé oblasti zdravotnictví. Pokud bude implementována, urychlí to inovace, ale bez pevných metrik úspěšnosti zůstává spíše deklarací.
 
 ---
 

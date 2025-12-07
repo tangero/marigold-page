@@ -1,11 +1,10 @@
 ---
 author: Marisa Aigen
-category: agentická ai
+category: ai
 date: '2025-12-05 22:23:52'
 description: Agentická AI představuje systém umělé inteligence, který dosáhne stanoveného
-  cíle s minimálním dohledem. Článek zkoumá predikce pro rok 2026, včetně technologie
-  Trusted Execution Environment, která má přetvořit distribuované výpočty a architekturu
-  vícecloudových systémů.
+  cíle s minimálním dohledem člověka. Článek analyzuje předpovědi pro rok 2026, zaměřené
+  na technologie Trusted Execution Environment pro bezpečné distribuované výpočty.
 importance: 3
 layout: tech_news_article
 original_title: 'Antigenic AI: The business growth opportunity of 2026?'
@@ -21,24 +20,25 @@ urlToImage: https://www.digitaljournal.com/wp-content/uploads/2024/09/7cdbfe15cc
 urlToImageBackup: https://www.digitaljournal.com/wp-content/uploads/2024/09/7cdbfe15cc6233c4f0f6ba3276f5e6526955a9cb.jpg
 ---
 
-## Souhrn
-Richard Copeland, generální ředitel společnosti Leaseweb USA, která se specializuje na cloudové hostingové služby, předpovídá, že v roce 2026 se technologie Trusted Execution Environment (TEE) stane klíčovým prvkem pro bezpečné distribuované výpočty. Tato technologie umožní firmám bezpečně rozdělovat výpočetní úlohy napříč více cloudy, regionálními poskytovateli a vlastními datovými centry. Predikce souvisí s rostoucí nezávislostí AI systémů a potřebou ochrany před kybernetickými útoky.
+### Souhrn
+Richard Copeland, generální ředitel společnosti Leaseweb USA, která se specializuje na cloudové hostingové služby, předpovídá, že v roce 2026 se technologie Trusted Execution Environment (TEE) stane klíčovým faktorem pro decentralizované výpočty v multi-cloud prostředích. Tato technologie umožní firmám bezpečně rozdělovat výpočetní úlohy mezi různé cloudy a on-premise servery, což souvisí s rostoucí nezávislostí AI systémů, včetně agentických AI. Článek spojuje tyto trendy s optimalizací GPU a rostoucími kybernetickými hrozbami.
 
-## Klíčové body
-- Trusted Execution Environment (TEE) vytváří oddělenou paměť a procesor chráněné šifrováním, které brání přístupu zbytek systému.
-- V roce 2026 umožní TEE decentralizované výpočty napříč multi-cloud prostředími, což zvýší flexibilitu a odolnost.
-- Posun není motivován rozpočty nebo humbukem, ale změnami v chování firem kvůli potřebě bezpečnosti.
-- Souvisí s optimalizací využití GPU pro rychlejší AI aplikace a rostoucími kybernetickými hrozbami.
+### Klíčové body
+- Trusted Execution Environment (TEE) vytváří šifrovaně chráněnou oblast paměti a procesoru, izolovanou od zbytku systému.
+- V roce 2026 umožní TEE bezpečné distribuování AI workloadů přes více cloudových poskytovatelů, což sníží závislost na jednom hyperscaleru.
+- Trend je poháněn chováním firem spíše než rozpočty nebo hype, s důrazem na flexibilitu a odolnost.
+- Souvisí s agentickou AI, která funguje autonomně, a optimalizací GPU pro rychlejší zpracování.
+- Zvyšující se kybernetické útoky nutí firmy hledat lepší bezpečnostní řešení.
 
-## Podrobnosti
-Článek zdůrazňuje vývoj v oblasti umělé inteligence, kde agentická AI – systémy schopné autonomně plnit cíle s minimálním lidským zásahem – bude fungovat stále nezávisleji. To souvisí s optimalizací využití grafických procesorů (GPU), které umožňují aplikacím plně využívat výpočetní sílu pro rychlejší odezvy a plynulejší provoz. Například v datech intenzivních úlohách jako trénink velkých jazykových modelů (LLM) nebo inferenci AI může efektivní alokace GPU zkrátit dobu zpracování z hodin na minuty.
+### Podrobnosti
+Leaseweb USA je poskytovatelem cloudových služeb, který se zaměřuje na hosting, dedikované servery a multi-cloud řešení pro podniky. V rozhovoru pro Digital Journal Copeland popisuje tři technologické předpovědi, z nichž první se týká TEE. Tato technologie, implementovaná v hardwaru jako Intel SGX nebo ARM TrustZone, vytváří Trusted Execution Environment – oddělenou část paměti a CPU, kde běží kód a data šifrovaně chráněné před přístupem zvenčí, včetně privilegovaných procesů operačního systému. Slouží k ochraně citlivých operací, jako je zpracování AI modelů, kryptografické výpočty nebo verifikace dat v distribuovaném prostředí.
 
-Klíčovou predikcí je Trusted Execution Environment (TEE), technologie známá z řešení jako Intel SGX nebo ARM TrustZone. TEE vytváří izolovanou oblast paměti a CPU, kde se kódy a data šifrují a chrání před neoprávněným přístupem, včetně od privilegovaných procesů jako hypervizor nebo operační systém. Copeland předpokládá, že do roku 2026 přejde TEE z experimentální fáze do masového nasazení. Firmy tak budou moci bezpečně distribuovat workloady – například trénink AI modelů nebo zpracování citlivých dat – přes více cloudových poskytovatelů jako AWS, Azure nebo Google Cloud, regionální servery a vlastní infrastrukturu.
+Copeland předpokládá, že do roku 2026 se TEE přesune z experimentální fáze do masového nasazení. Firmy budou moci bezpečně rozdělit výpočetní úlohy (workloady) napříč různými cloudy, regionálními providery a vlastními datovými centry, místo aby se spoléhaly výhradně na jedného giganta jako AWS, Azure nebo Google Cloud. To umožní lepší využití GPU pro AI aplikace, kde optimalizace zvyšuje výkon a snižuje latenci. Agentická AI, tedy systémy schopné samostatně plánovat kroky k dosažení cíle – například automatizace složitých pracovních toků v podnicích –, bude profitovat z této flexibility, protože vyžaduje distribuované výpočty bez rizika úniku dat.
 
-Tento posun řeší současné limity, kdy firmy jsou vázány na jednoho hyperscaleru kvůli bezpečnostním rizikům. Dnes je běžné, že vendor lock-in brání migraci dat, což zvyšuje náklady a snižuje odolnost vůči výpadkům. S TEE se stává možným bezpečné sdílení výpočetních zdrojů, což je ideální pro agentickou AI, kde agenti potřebují přistupovat k distribuovaným datům bez rizika úniku. Leaseweb, jako poskytovatel cloudových služeb, vidí v tom příležitost pro hybridní architektury. Copeland zdůrazňuje, že změna pramení z praktických důvodů: firmy hledají způsoby, jak zajistit workloady na hardwarové úrovni, což umožní škálovat AI aplikace bez kompromisů v bezpečnosti.
+Článek také zmiňuje související trendy: rostoucí autonomie AI a sofistikovanější kyberútoky, které ohrožují IT infrastrukturu. Optimalizace GPU zajišťuje plné využití hardwaru pro rychlejší odpovědi v AI aplikacích, ale bez TEE zůstávají workloady zranitelné. Copeland zdůrazňuje, že posun není motivován rozpočty, ale změnou chování firem, které hledají odolnost proti výpadkům a útokům. Ačkoli TEE existuje již několik let, masové přijetí závisí na lepší podpoře v cloudu a standardizaci, což by mohlo urychlit vývoj agentických systémů.
 
-## Proč je to důležité
-Pro průmysl znamená masové nasazení TEE konec dominance jednotlivých cloudových gigantů a otevření trhu pro menší poskytovatele, což sníží ceny a zvýší konkurenci. V kontextu agentické AI, kde systémy jako autonomní agenti plánují a vykonávají úkoly napříč sítěmi, je hardwarová bezpečnost klíčová proti sofistikovaným útokům, jako je data exfiltration nebo model poisoning. Uživatelé – od startupů po korporace – získají flexibilitu v nasazování AI bezpečněji, což urychlí adopci technologií jako multi-agentní systémy. Kriticky však TEE není univerzálním řešením; má limity v boji proti side-channel útokům a vyžaduje kompatibilní hardware. Přesto v éře rostoucích kybernetických hrozeb představuje krok k resilientnímu IT ekosystému, který podpoří růst AI aplikací v roce 2026 a dále.
+### Proč je to důležité
+TEE technologie posiluje bezpečnost v éře agentické AI, kde autonomní systémy zpracovávají citlivá data bez lidského zásahu. Pro průmysl znamená snížení vendor lock-in, lepší škálovatelnost a odolnost vůči kybernetickým hrozbám, což je klíčové pro podniky závislé na AI. V širším kontextu podporuje decentralizaci výpočtů, což může democratizovat přístup k výkonnému AI hardwaru a omezit dominanci hyperscalerů. Nicméně, jako expert upozorňuji, že plné nasazení TEE v roce 2026 je optimistické – závisí na řešení problémů jako side-channel útoky a kompatibilita napříč platformami. Pro uživatele to znamená bezpečnější cloudové AI služby, ale vyžaduje investice do kompatibilního hardwaru.
 
 ---
 

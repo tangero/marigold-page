@@ -9,9 +9,9 @@ companies:
 - OpenAI
 date: '2025-12-05 22:18:35'
 description: Anthropic, OpenAI a Google DeepMind obsadily první tři místa s celkovou
-  známkou C+ nebo C. Zpráva od Future of Life Institute ukazuje slabiny v bezpečnostních
-  postupech velkých AI firem.
-importance: 4
+  známkou C+ nebo C. Zpráva od Future of Life Institute ukazuje slabiny v přístupu
+  velkých AI firem k bezpečnosti, zejména v oblasti existenčních rizik.
+importance: 3
 layout: tech_news_article
 original_title: 'It’s ‘kind of jarring’: AI labs like Meta, Deepseek, and Xai earned
   some of the worst grades possible on an existential safety index'
@@ -21,32 +21,32 @@ source:
   emoji: 📰
   id: fortune
   name: Fortune
-title: 'Je to ‚nějak šokující‘: AI laboratoře jako Meta, Deepseek a Xai získaly některé
-  z nejhorších známek v indexu existenciální bezpečnosti'
+title: 'Je to „nějak šokující“: AI laboratoře jako Meta, Deepseek a xAI získaly některé
+  z nejhorších možných známek v indexu existenční bezpečnosti'
 url: https://fortune.com/2025/12/05/ai-labs-meta-deepseek-xai-bad-grades-existential-safety-index/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2168198379-e1764973088304.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2168198379-e1764973088304.jpg?resize=1200,600
 ---
 
-### Souhrn
-Institute Future of Life (FLI) vydal nejnovější index bezpečnosti AI, který hodnotí osm velkých AI laboratoří. Anthropic, OpenAI a Google DeepMind dosáhly nejlepších výsledků s celkovou známkou C+ nebo C, zatímco Meta, Deepseek, Xai, Z.ai a Alibaba získaly D nebo D-. Nejhorší výsledky firmy vykázaly v kategorii existenciální bezpečnosti, kde všechny obdržely D nebo F.
+## Souhrn
+Institute Future of Life zveřejnil nejnovější index bezpečnosti AI, podle kterého většina velkých AI laboratoří selhala v klíčových oblastech odpovědnosti. Nejhorší výsledky dosáhly firmy jako Meta, Deepseek a xAI v kategorii existenční bezpečnosti, kde získaly známky D a F. Nejlepší umístění patří Anthropic, OpenAI a Google DeepMind s celkovými známkami C+ nebo C.
 
-### Klíčové body
-- Hodnocení proběhlo na základě veřejných materiálů a odpovědí na průzkumy pěti firem; recenzenty byli AI akademici a experti na governance.
-- Kategorie zahrnovaly bezpečnostní rámce, hodnocení rizik a současné škody způsobené AI.
-- Existenciální bezpečnost, tedy příprava na rizika superinteligence, selhala u všech firem.
-- Max Tegmark z MIT, prezident FLI, kritizuje absenci regulací, která vede k prioritizaci rychlosti před bezpečností.
-- Čtyři z pěti amerických firem nyní odpovídají na průzkumy FLI, Meta je jediná výjimka.
+## Klíčové body
+- Osm AI firem bylo hodnoceno v kategoriích jako bezpečnostní rámce, hodnocení rizik a současné škody, přičemž většina nedosáhla známky lepší než C.
+- V oblasti existenční bezpečnosti selhaly všechny firmy s D nebo F, přestože mnohé z nich cílí na superinteligenci.
+- Hodnocení provedl panel AI akademiků a expertů na governance na základě veřejných materiálů a odpovědí pěti firem.
+- První tři: Anthropic, OpenAI, Google DeepMind (C+/C); následně xAI, Z.ai, Meta, Deepseek, Alibaba (D/D-).
+- Max Tegmark (prezident FLI, profesor MIT) kritizuje nedostatek regulací, který vede k prioritizaci soutěže před bezpečností.
 
-### Podrobnosti
-Future of Life Institute, nezisková organizace zaměřená na mitigaci globálních rizik včetně těch spojených s AI, zveřejnil tento index jako nástroj pro hodnocení odpovědnosti AI firem. Hodnocení se opíralo o analýzu veřejně dostupných dokumentů, jako jsou bezpečnostní protokoly a zprávy o rizicích, doplněnou o odpovědi na standardizovaný průzkum, který podalo pět z osmi firem. Recenzenti, panel AI akademiků a odborníků na regulaci, hodnotili firmy v klíčových oblastech: vývoj bezpečnostních rámců pro kontrolu AI systémů, systematické hodnocení potenciálních rizik včetně katastrofických scénářů a opatření proti aktuálním škodám, jako jsou biasy v modelech nebo zneužití pro dezinformace.
+## Podrobnosti
+Zpráva Future of Life Institute hodnotí osm předních AI společností podle kritérií jako bezpečnostní rámce, hodnocení rizik, monitorování modelů a prevence současných škod. Celkové známky se pohybují kolem C, ale v kategorii existenční bezpečnosti – tedy ochrany před riziky, která by mohla ohrozit lidstvo, jako je nekontrolovatelná superinteligence – dosáhly firmy katastrofální výsledky. Všechny získaly D nebo F, což recenzenti označili za „šokující“. Max Tegmark zdůrazňuje, že firmy jako OpenAI, Anthropic nebo xAI explicitně usilují o vývoj superinteligence, ale chybí jim plán bezpečného nasazení.
 
-Nejproblematičtější kategorií se stala existenciální bezpečnost, která se zabývá dlouhodobými riziky, jako je vývoj superinteligence – AI překonávající lidskou inteligenci ve všech oblastech. Mnoho těchto firem, včetně OpenAI, Anthropic nebo Xai (společnost Elona Muska zaměřená na bezpečné AGI), veřejně deklaruje cíl dosáhnout superinteligence, ale podle recenzentů chybí konkrétní plány na její bezpečné řízení. Max Tegmark popsal tento rozpor jako „šokující“, protože firmy investují miliardy do vývoje, ale ignorují základní bezpečnostní protokoly.
+Hodnocení vychází z veřejně dostupných dokumentů a průzkumů, na které odpovědělo pět firem (Meta odmítlo). Deepseek je čínská AI firma specializující se na velké jazykové modely (LLM) jako DeepSeek-V2, které konkurují GPT modelům v efektivitě a ceně. xAI, založená Elonem Muskem, vyvíjí modely jako Grok pro pokročilé AI schopnosti zaměřené na pravdu a užitečnost. Z.ai není široce známá, ale patří mezi menší hráče v AI vývoji. Alibaba, gigant z e-commerce, investuje do AI pro cloudové služby a modely jako Qwen.
 
-Pořadí firem: první tři – Anthropic (C+), OpenAI (C), Google DeepMind (C). Následovaly Xai (D), Z.ai (D), Meta (D-), Deepseek (D-) a Alibaba (D-). Deepseek je čínská AI laboratoř specializující se na velké jazykové modely (LLM) jako DeepSeek-V2, které konkurují GPT modelům v efektivitě. Z.ai je méně známá firma zaměřená na AI governance. Slabiny odrážejí širší trend: v absenci federálních regulací v USA (navzdory pokusům v Kalifornii a New Yorku) konkurence v AI závodě nutí firmy urychlovat vydávání modelů na úkor bezpečnosti. FLI proto vydává tyto indexy pravidelně, aby tlačily na průmysl – nyní čtyři americké firmy (kromě Metá) spolupracují.
+Tegmark obviňuje absenci regulací: firmy upřednostňují rychlost před bezpečností kvůli soutěži. Kalifornie nedávno přijala zákon vyžadující odhalení bezpečnostních informací o katastrofických rizicích u frontier AI (nejpokročilejších modelů), New York následuje. Federální legislativa v USA je nepravděpodobná. Indexy FLI se stávají branžním standardem – čtyři z pěti amerických firem na ně reagují, Meta ne. To naznačuje rostoucí tlak na sebehodnocení, ale bez vynucení zůstává riziko nízké.
 
-### Proč je to důležité
-Tento index odhaluje systémové selhání v AI průmyslu, kde i lídři jako OpenAI dosahují jen průměrných známek. V kontextu rychlého pokroku směrem k AGI to zvyšuje rizika nekontrolovaného nasazení systémů schopných autonomního rozhodování. Pro uživatele to znamená vyšší pravděpodobnost incidentů, jako jsou halucinace v LLM nebo zneužití pro kybernetické útoky. Pro průmysl to podtrhuje potřebu samoregulace nebo legislativy – Kalifornie nedávno zavádí povinné reportování katastrofických rizik, což by mohlo stanovit standard. Bez změn hrozí, že závod na superinteligenci skončí bez bezpečnostních pojistek, což ohrozí globální stabilitu.
+## Proč je to důležité
+Tato hodnocení odhalují systémové slabiny v AI governance, kde absence standardů umožňuje rychlý vývoj bez adekvátního řízení rizik. Pro průmysl znamená, že i lídři jako OpenAI (vývojáři GPT modelů pro generování textu, kódu a analýzy) nebo Google DeepMind (autori Gemini pro multimodální AI) jsou pouze průměrní, zatímco konkurenti jako Meta (Llama modely pro open-source AI) ohrožují globální bezpečnost. Pro uživatele to implikuje vyšší riziko neočekávaných chování modelů, jako halucinace nebo biasy, které se mohou zesílit u superinteligence. Bez regulací nebo lepších rámců (např. red-teaming pro testování hranic modelů) se zvyšuje pravděpodobnost incidentů, což brzdí důvěru v AI nasazení v kritických oblastech jako medicína nebo infrastruktura. Index FLI tak slouží jako výzva k akci v éře, kdy AI modely překonávají lidské výkony v mnoha úkolech.
 
 ---
 

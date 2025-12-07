@@ -1,11 +1,11 @@
 ---
 author: Marisa Aigen
-category: chytrá domácnost
+category: chytré domácnosti
 date: '2025-12-06 00:49:44'
-description: Společnost Chamberlain, dominantní výrobce garážových dveří v USA, zavádí
-  novou komunikační platformu Security+ 3.0, která blokuje workaroundy třetích stran
-  pro integraci s otevřenými systémy chytrých domácností. To omezuje uživatele v automatizaci
-  zařízení, které již vlastní.
+description: Společnost Chamberlain Group, dominantní výrobce garážových ovladačů
+  v USA, zavádí novou platformu Security+ 3.0, která blokuje workaroundy třetích stran
+  pro integraci s chytrými domácnostmi. Tento krok navazuje na předchozí uzavření
+  API přístupu v aplikaci MyQ a ukončení podpory pro HomeKit a Google Assistant.
 importance: 3
 layout: tech_news_article
 original_title: Chamberlain Closing the (Garage) Door on Smart Home Integration
@@ -22,26 +22,24 @@ urlToImageBackup: https://512pixels.net/wp-content/uploads/2025/04/social-2.png
 ---
 
 ## Souhrn
-Společnost Chamberlain Group, která dominuje trhu s garážovými dveřmi v USA pod značkami Chamberlain a LiftMaster, pokračuje v uzavírání svého ekosystému MyQ. V roce 2023 ukončila přístup k API a podporu pro Apple HomeKit i Google Assistant. Nyní nová platforma Security+ 3.0, spuštěná s nejnovějšími otvírátky, blokuje i zařízení třetích stran jako Tailwind, Meross nebo Ratgdo, která umožňovala integraci s platformami jako HomeKit nebo Home Assistant.
+Společnost Chamberlain Group, která dominuje americkému trhu s garážovými dveřmi pod značkami Chamberlain a LiftMaster, pokračuje v boji proti integraci svých zařízení s otevřenými chytrými domácnostmi. Nová komunikační platforma Security+ 3.0, spuštěná s nejnovějšími ovladači, blokuje i neoficiální řešení třetích stran, jako jsou Tailwind, Meross nebo Ratgdo. Uživatelé tak ztrácejí možnost automatizovat garážové dveře v systémech jako HomeKit nebo Home Assistant.
 
 ## Klíčové body
-- Chamberlain v roce 2023 zablokoval neautorizovaný přístup k API aplikace MyQ, což zlomilo integrace v Homebridge a Home Assistant pro automatizace jako zavírání dveří při zamknutí vchodových dveří.
-- Ukončení oficiální podpory pro Apple HomeKit a Google Assistant, přičemž MyQ nyní podporuje pouze proprietární řešení.
-- Nová platforma Security+ 3.0 šifruje komunikaci tak, aby znemožnila připojení third-party zařízení, která fungovala jako mosty mezi MyQ a otevřenými systémy.
-- Třetí strany jako Tailwind (firma zaměřená na IoT adaptéry pro garážové dveří), Meross (výrobce chytrých zásuvek a senzorů kompatibilních s HomeKit) a Ratgdo (open-source řešení pro retrofit integrace) ztrácejí funkčnost.
-- Změna postihuje tisíce uživatelů v USA, kde je Chamberlain standardem.
+- Chamberlain v roce 2023 uzavřel API přístup v aplikaci MyQ, což zlomilo integrace v Homebridge a Home Assistant.
+- Firma ukončila oficiální podporu pro Apple HomeKit a Google Assistant.
+- Třetí strany vyvinuly workaroundy (Tailwind, Meross, Ratgdo), které obnovovaly kompatibilitu.
+- Nová platforma Security+ 3.0 tyto řešení blokuje.
+- MyQ slouží k ovládání garážových dveří přes mobilní aplikaci, ale bez širší integrace.
 
 ## Podrobnosti
-Chamberlain Group je největším hráčem na americkém trhu garážových otvíracích mechanismů, s podílem přes 50 procent díky značkám Chamberlain a LiftMaster. Jejich aplikace MyQ slouží k diaľkovému ovládání garážových dveří přes mobilní telefon a integraci s chytrými domácnostmi. Původně umožňovala API přístup, který vývojáři využívali pro vlastní automatizace – například pro zavírání dveří při detekci odemknutí vchodových dveří nebo rozsvícení světla při dlouhém otevření.
+Chamberlain Group ovládá většinu amerického trhu s garážovými ovladači díky značkám Chamberlain a LiftMaster, které pokrývají spotřebitele i profesionální instalace. Jejich smart řešení MyQ umožňuje dálkové ovládání dveří přes mobilní aplikaci, detekci otevřených dveří nebo notifikace. Problém nastal v roce 2023, kdy firma oznámila uzavření všech „neautorizovaných“ přístupů k API. To postihlo tisíce uživatelů, kteří používali platformy jako Homebridge (softwarový most pro Apple HomeKit) nebo Home Assistant (otevřený systém pro automatizaci domácnosti). Tyto nástroje umožňovaly například zavření garáže při zamknutí vstupních dveří nebo rozsvícení světla při dlouhém otevření.
 
-V roce 2023 došlo k eskalaci: Chamberlain oznámil uzavření všech neautorizovaných API přístupů, jak popsala Jennifer Pattison Tuohy na The Verge. To postihlo platformy jako Homebridge (pluginový systém pro rozšíření HomeKit o nekompatibilní zařízení) a Home Assistant (open-source serverová platforma pro centralizovanou správu chytrých zařízení z různých protokolů, včetně Zigbee, Z-Wave nebo MQTT). Krátce poté ukončili oficiální integraci s Apple HomeKit, což je protokol pro bezdrátovou komunikaci zařízení v ekosystému Apple, a Google Assistant, hlasový asistent pro automatizace.
+Tento krok následoval po ukončení oficiální integrace s Apple HomeKit (před rokem) a Google Assistant (před několika měsíci). I přes to se objevily alternativy: Tailwind je retrofit přístroj, který se připojí k existujícím ovladačům a přidá Wi-Fi podporu pro široké ekosystémy; Meross vyrábí levné chytré adaptéry pro garážové dveře kompatibilní s HomeKit; Ratgdo je open-source deska pro ESP32, která emuluje signály ovladače a umožňuje lokální integraci bez cloudu. Tyto řešení obnovila funkcionalitu pro MyQ ovladače.
 
-Komunita zareagovala rychle: firmy jako Tailwind (vyvíjí bezdrátové adaptéry přímo na otvírací mechanismus pro podporu HomeKit a IFTTT), Meross (čínský výrobce IoT zařízení s nativní podporou HomeKit, včetně senzorů pro garážové dveří) a Ratgdo (open-source hardware na bázi ESP32 pro lokální ovládání a integraci s MQTT) vytvořily workaroundy. Tyto zařízení se připojovaly k existujícím MyQ otvíracím mechanismům a překonávaly proprietární omezení.
-
-Teď to končí: Security+ 3.0 je nová komunikační platforma s vylepšeným šifrováním, která se spouští s novými modely otvíracích mechanismů. Podle Pattison Tuohy na The Verge toto řešení detekuje a blokuje neautorizovaná zařízení, čímž znemožňuje i tyto mosty. Existující MyQ otvírátka zatím nejsou ovlivněna, ale upgrade na nové modely uživatele donutí k volbě mezi proprietárním MyQ ekosystémem nebo výměnou hardware.
+Nyní však Chamberlain spouští Security+ 3.0, novou bezpečnostní platformu pro komunikační protokoly v ovladačích. Tato verze mění fyzickou vrstvu komunikace (rolling code protokol), což znemožňuje připojení třetích stran. Platforma je součástí nových modelů ovladačů a postupně se rozšiřuje. Firma argumentuje bezpečností, ale kritici vidí snahu uzamknout uživatele do uzavřeného MyQ ekosystému, kde integrace s jinými službami vyžaduje jejich hub.
 
 ## Proč je to důležité
-Tato strategie Chamberlainu ilustruje širší problém v IoT: vendor lock-in, kdy výrobci brání interoperabilitě ve prospěch uzavřených ekosystémů. V USA, kde garážové dveře má většina domácností, to ovlivní miliony uživatelů závislých na Apple HomeKit, Google Home nebo Home Assistant pro celodomácí automatizace. Standard Matter, který má zajistit univerzální kompatibilitu přes protokoly IP, zatím Chamberlain plně nepodporuje, což zpomaluje přechod k otevřenému trhu. Pro průmysl to znamená riziko odlivu zákazníků k konkurentům jako Genie nebo Overhead Door, kteří podporují více integrací, a posiluje debatu o regulaci IoT interoperability. V kontextu chytrých domácností to brzdí růst ekosystémů založených na otevřených standardech, kde lokální ovládání bez cloudu (jako v Home Assistant) zvyšuje bezpečnost a spolehlivost.
+Tento vývoj podtrhuje rostoucí problém proprietárních ekosystémů v chytrých domácnostech, kde dominantní výrobci brání interoperabilitě. Pro uživatele v USA s Chamberlain ovladači (miliony zařízení) znamená ztrátu flexibility – nelze snadno integrovat do Matter (standard pro univerzální kompatibilitu) nebo otevřených systémů. To nutí koupit nový hardware nebo se vrátit k manuálnímu ovládání. V širším kontextu oslabuje Matter iniciativu, kterou podporují Apple, Google a Amazon, a posiluje fragmentaci trhu. Pro evropské uživatele je méně relevantní, ale ukazuje rizika závislosti na jednom dodavateli v IoT zařízeních.
 
 ---
 
