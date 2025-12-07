@@ -2,10 +2,10 @@
 author: Marisa Aigen
 category: dnová těžba
 date: '2025-12-06 01:56:32'
-description: Michael Barnard provedl technoeconomickou analýzu dnové těžby na žádost
-  National Ocean Protection Coalition a diskutoval výsledky na webináři. Analýza spojuje
-  desetiletí zkušeností v analýze složitých systémů a hodnocení připravenosti technologií,
-  aby oddělila ambice od reálných technických a ekonomických limitů.
+description: Technoeconomická analýza od Michaela Barnarda pro National Ocean Protection
+  Coalition hodnotí proveditelnost komerční těžby na hlubokomořském dně. Zpráva zdůrazňuje
+  obrovský rozdíl mezi koncepty autonomních podvodních vozidel a reálnými technickými
+  omezeními v hluboké vodě.
 importance: 3
 layout: tech_news_article
 original_title: 'Seabed Mining Meets Reality: What the Technoeconomic Evidence Shows'
@@ -15,31 +15,29 @@ source:
   emoji: 📰
   id: null
   name: CleanTechnica
-title: 'Dnová těžba setkává realitu: Co ukazují technoeconomické důkazy'
+title: 'Těžba na mořském dně se setkává s realitou: Co ukazují technoeconomické důkazy'
 url: https://cleantechnica.com/2025/12/05/seabed-mining-meets-reality-what-the-technoeconomic-evidence-shows/
 urlToImage: https://cleantechnica.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-17-2025-03_03_26-PM.png
 urlToImageBackup: https://cleantechnica.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-17-2025-03_03_26-PM.png
 ---
 
 ## Souhrn
-Michael Barnard dokončil technoeconomickou analýzu dnové těžby pro National Ocean Protection Coalition, která ukazuje, že komerční těžba kovů v hlubokém moři není v dohledné době technicky ani ekonomicky udržitelná. Na webináři z 5. prosince prezentoval důkazy založené na desetiletích práce s analýzou složitých systémů, připraveností technologií a odhady nákladů. Výsledky pomáhají rozhodovatelům v Pacifiku oddělit představy od inženýrské reality.
+Michael Barnard, expert na komplexní systémy a technologickou zralost, provedl technoeconomickou analýzu těžby na mořském dně na objednávku National Ocean Protection Coalition. Analýza, prezentovaná na hodinovém webináři, ukazuje, že komerční těžba kovů jako nikl, kobalt, mangan a měď na hlubokém moři není v blízké budoucnosti technicky ani ekonomicky reálná. Místo rychlých zisků a dodávek pro čistou energii čekají investory a státy desetiletí vývoje s vysokými riziky.
 
 ## Klíčové body
-- Žádná komerční dnová těžba v hlubokém moři dosud neprobíhá, přesto firmy cílí na nikl, kobalt, mangan a měď pro baterie a čistou energii.
-- Analýza zdůrazňuje propast mezi koncepty flotil autonomních podvodních vozidel (AUV) a reálnými omezeními hlubinného prostředí, jako jsou nefunkční AUV na dně.
-- Barnardova práce integruje zkušenosti z hodnocení připravenosti technologií (technology readiness levels) a složitých systémů pro okamžité politické doporučení.
-- Webinář vedený Miriam Goldsteinovou z NOPC diskutuje rizika pro původní obyvatele a ekosystémy.
-- Dostupné zdroje: plný webinář a zpráva na odkazech od autora.
+- Žádná komerční těžba na hlubokém moři dosud neprobíhá, přesto firmy jako The Metals Company plánují exploataci polymetallických uzlů.
+- Koncepty flotil autonomních podvodních vozidel (AUV) selhávají v praxi kvůli extrémním podmínkám hluboké vody, jak ilustruje simulace generovaná ChatGPT.
+- Ekonomická analýza odhaluje vysoké náklady a nízkou výtěžnost oproti suchozemským alternativám.
+- Doporučení pro pacifické komunity: zaměřit se na ochranu oceánů před nereálnými projekty.
+- Zpráva zdůrazňuje rizika pro domorodé národy a biodiverzitu.
 
 ## Podrobnosti
-Analýza Barnarda, publikovaná v zprávě společně s Lauren Trytten, přináší realistický pohled na dnovou těžbu, která je prezentována jako zdroj kovů pro elektromobily, obnovitelné zdroje a obranu. Proponenti tvrdí, že minerály leží připravené na dně, přinášejí zisky investorům a etickou alternativu k souši těžbě. Odhadují nižší náklady a menší ekologickou stopu. Naopak odpůrci, včetně NOPC, varují před riziky pro mořské ekosystémy, původní komunity v Pacifiku a dlouhodobými dopady.
+Analýza Barnarda, který má desetiletí zkušeností s hodnocením technologické zralosti (TRL) a složitých systémů, spojuje empirická data s modelováním. Na webináři moderovaném Miriam Goldsteinovou, ředitelkou NOPC, Barnard rozebral argumenty zastánců těžby, kteří slibují levnější minerály pro baterie elektromobilů, čistou energii a národní obranu. Tyto sliby však ignorují realitu: autonomní podvodní vozidla (AUV), určená k mapování a sběru uzlů z hloubky přes 4 km, trpí batériovými limity, komunikací v reálném čase a mechanickou spolehlivostí. Simulace ukazuje flotily nefunkčních AUV na dně pod operačními jednotkami, což odráží skutečné neúspěchy testů.
 
-Barnard, expert na komplexní systémy, aplikoval metody jako technology readiness assessment – hodnocení úrovně připravenosti technologií od laboratoře po komerční nasazení – a ekonomické modelování. Ukázal, že koncepty flotil AUV, které by měly mapovat a sbírat polymetallické uzly z hloubek přes 4 km, selhávají v praxi. Reálná prostředí zahrnují extrémní tlak, temnotu, slabý signál a korozí, což vede k vysokým poruchovostem. Příklad generované scény ChatGPT ilustruje nefunkční AUV na dně pod operačními jednotkami, což odráží skutečné testy v hlubinách.
-
-Webinář zahájila Miriam Goldsteinová, výkonná ředitelka NOPC, s pozdravem pro pacifické komunity. Diskuse trvá hodinu a zahrnuje otázky o technické proveditelnosti, jako je sběr uzlů o velikosti brambor v rozložených ložiscích, logistika na hladině a zpracování. Žádné stávající technologie nedosahuje stupně TRL 9 (komerční provoz), většina zůstává na TRL 4-6 (laboratorní testy). Ekonomicky jsou náklady na těžbu vyšší než na souši kvůli speciálním plavidlům a nízké koncentraci minerálů.
+Technologické výzvy zahrnují extrémní tlak, temnotu a korozivní prostředí, kde i nejlepší robotické systémy jako ty od Boston Dynamics nebo podobných firem selhávají na souši, natož pod vodou. Ekonomicky je těžba nekonkurenceschopná: náklady na jednu tunu niklu z moře převyšují suchozemské zdroje o řády, navíc s environmentálními riziky jako sedimentní mraky ničící ekosystémy. Barnard porovnal s jinými odvětvími, kde přehnané sliby (např. v rané autonomní jízdě) vedly k zpožděním. Pro NOPC, organizaci zaměřenou na ochranu oceánů, slouží zpráva k ovlivnění regulací Mezinárodního orgánu pro mořské dno (ISA). Webinář cílil na pacifické komunity, kde firmy tlačí na rychlé schválení, přestože technologie není na úrovni TRL 9 (plně ověřená v provozu).
 
 ## Proč je to důležité
-Tato analýza ovlivní politiku v Pacifiku, kde rozhodnutí o těžbě v Mezinárodním mořském dnů zasahují do surovin pro čistou energii. Pokud by těžba selhala, posílí to argumenty pro recyklaci a náhradní zdroje, což je klíčové pro dodavatelské řetězce baterií. Pro tech průmysl znamená varování před přeceňováním konceptů autonomních systémů v extrémních prostředích, podobně jako u drone flotil nebo vesmírných misí. Podporuje rozhodnutí založená na datech místo hype, chrání ekosystémy a pomáhá alokovat investice do ověřených technologií.
+Tato analýza ovlivní globální politiku surovin pro čistou energii, kde závislost na kobaltu a niklu pro lithium-iontové baterie roste. Pokud se těžba na dně ukáže nereálnou, posílí tlak na recyklaci a alternativní chemie baterií, jako sodíkové nebo pevné elektrolyty. Pro průmysl elektromobility a obnovitelných zdrojů znamená varování před spekulativními investicemi, podobně jako u fúzní energie. V širším kontextu podtrhuje nutnost realistického hodnocení robotických systémů v extrémních prostředích, což má paralely s vývojem autonomních vozidel nebo dronů. Pacifické státy tak získají argumenty proti vykořisťování, chráníc biodiverzitu a domorodá práva před krátkodobými zisky.
 
 ---
 

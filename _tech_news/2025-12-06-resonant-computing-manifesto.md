@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: rezonanční výpočet
+category: rezonanční výpočty
 date: '2025-12-06 05:47:01'
 description: Technologie by měla vyzdvihovat to nejlepší v lidstvu, ne to nejhorší
-  – manifest pro rezonanční výpočet postavený na pěti principech, které odmítají hyper-měřítkové
-  vytěžování ve prospěch lidského rozkvětu.
+  – manifest pro rezonanční výpočty postavený na pěti principech, které odmítají hyper-scale
+  extrakci ve prospěch lidského rozkvětu.
 importance: 3
 layout: tech_news_article
 original_title: Resonant Computing Manifesto
@@ -20,25 +20,25 @@ urlToImage: https://resonantcomputing.org/resonance-social.png
 urlToImageBackup: https://resonantcomputing.org/resonance-social.png
 ---
 
-## Souhrn
-Manifest rezonančního výpočtu kritizuje současný technologický svět založený na hyper-měřítkových platformách, které odcizňují lidi a ničí hloubku interakcí. Navrhuje alternativu inspirovanou architekturou, kde software podporuje pomalejší, hlubší pozornost a lidskou kondici. V kontextu umělé inteligence (AI) varuje před dystopickým vývojem a volá po pěti principech pro lepší budoucnost.
+### Souhrn
+Manifest rezonančního výpočtu kritizuje současný technologický krajinníček, kde platformy jako sociální sítě a digitální služby odcizují uživatele a oslabují hlubokou pozornost. Navrhuje alternativní přístup inspirovaný architekturou, kde software funguje jako prostředí podporující lidskou spojenost a rozvoj. S příchodem umělé inteligence (AI) zdůrazňuje nutnost volby mezi centralizací a decentralizovanými řešeními zaměřenými na uživatele.
 
-## Klíčové body
-- Současné platformy jako sociální sítě hijackují pozornost a vedou k úzkosti a atomizaci společnosti.
-- Hyper-měřítkové incentive v tech průmyslu tlačí na centralizaci, která škodí lidské kondici.
-- AI stojí na křižovatce: může zhoršit problémy nebo otevřít cestu k rezonančnímu výpočtu.
-- Inspirace architekturou Christophera Alexandra: dobré prostředí zlepšuje lidskost.
-- Odmítnutí hyper-scale ve prospěch principů podporujících propojenost a hloubku.
+### Klíčové body
+- Současné technologie, jako nekonečné posuny na platformách, zvyšují úzkost a atomizaci společnosti.
+- Hyper-scale logika v tech průmyslu tlačí na centralizaci, což ničí hloubku interakcí v oblastech jako doprava, práce nebo zábava.
+- Inspirace Christopherem Alexandrem: software by měl vytvářet prostředí, která posilují lidskost podobně jako úspěšná architektura.
+- Pět principů rezonančního výpočtu odmítají extrakci dat a prosazují technologie pro rozšíření lidských schopností.
+- Při vývoji AI hrozí dystopický vývoj, pokud se nezmění současné incentive v průmyslu.
 
-## Podrobnosti
-Manifest rezonančního výpočtu popisuje, jak současná technologie formuje náš svět k horšímu. Platformy jako sociální sítě jsou navrženy tak, aby udržovaly uživatele v nekonečném scrollování pomocí algoritmů, které maximalizují čas strávený na obrazovce. Tyto feeds hijackují pozornost tím, že využívají psychologické triky, jako personalizované doporučení založené na datech z chování uživatelů, což vede k úzkosti, snížené empatii a pocitu osamělosti. Platformy mediují přístup k dopravě (např. Uber), práci (LinkedIn), jídlu (delivery appky), seznamkám (Tinder), obchodu (Amazon) a zábavě (Netflix), ale přitom odstraňují hloubku a teplo z těchto interakcí tím, že je redukují na transakce.
+### Podrobnosti
+Manifest popisuje pocit, který vyvolávají krásné budovy a rušné nádvoří – pozvání k zpomalení, prohloubení pozornosti a větší lidskosti. Ptá se, zda by software nemohl působit podobně. Lidé tvarují své prostředí a to pak tvaruje je. Dobrá technologie nerozlušuje problémy, ale proplétá se do světa, rozšiřuje kapacity, spojenost a smysl pro možné. Naopak současný tech krajinníček vede k opaku: algoritmy navržené k zachycení pozornosti udržují uživatele v nekonečném scrollování, což zanechává stopy úzkosti a izolace. Digitální platformy zprostředkovávají přístup k dopravě, práci, jídlu, seznamkám, obchodu i zábavě, ale systematicky vybírají hloubku a teplo z těchto oblastí. Přestože slibují velkolepé věci, uživatele nechávají odcizené, vzdálené od svého ideálu já.
 
-Autoři manifestu uznávají, že tvůrci těchto produktů nejsou zlí – většina vstoupila do tech s úmyslem zlepšit svět. Problém spočívá v incentivech hyper-scale: tlaku na růst uživatelské báze, engagement a monetizaci za každou cenu. To vede k monopolům jako Google nebo Meta, kde centralizované AI modely trénované na masivních datech posilují tento cyklus. S příchodem pokročilé AI, jako velké jazykové modely (LLM), se situace zhoršuje: tyto systémy slouží k generování obsahu, automatizaci úkolů nebo personalizaci, ale v hyper-scale prostředí zesilují extrakci dat a kontrolu.
+Tvůrci těchto produktů nejsou zlí – většina vstoupila do tech s úmyslem zlepšit svět. Problém spočívá v incentivech a kulturních normách průmyslu, které se shlukly kolem hyper-scale logiky: monolitní, přitažlivé, všeobsahující prostředí, jež tvaruje všechny účastníky. Obchodní výsledky jsou nepopiratelné, stejně jako negativní dopady na lidstvo. S nástupem AI stojíme na křižovatce. Tato technologie slibuje pokrok, ale může zesílit stávající problémy. Pokud budeme pokračovat v hyper-scale a centralizaci, budoucí generace zdědí dystopický svět.
 
-Alternativa je rezonanční výpočet, inspirovaný Christopherem Alexandrem, architektem známým pracemi jako A Pattern Language. Alexander analyzoval, proč některé budovy a prostory nás oživují, zatímco jiné ničí. Stejně by měl software vytvářet prostředí, které zvětšuje kapacitu pozornosti, propojenost a smysl možností. Manifest slibuje pět principů (v plném textu podrobnější), které odmítají hyper-scale a zaměřují se na lokální, lidsky měřítkové systémy. Například místo globálních AI modelů by se preferovaly menší, specializované modely běžící na edge zařízeních, které respektují soukromí a podporují autentické interakce.
+Manifest odkazuje na Christophera Alexandra, architekta, který celý život zkoumal, proč některá prostředí nás ochuzují, zatímco jiná nás činí více lidskými. Rezonanční výpočty by měly tyto principy aplikovat na software: místo extrakce dat pro maximalizaci zisku vytvářet systémy, které podporují autentické interakce. Pět principů (nejen specifikováno v manifestu) zahrnují odmítnutí centralizovaných platforem ve prospěch lokálních, responzivních řešení, kde AI slouží k posílení kreativity, ne k nahrazení člověka.
 
-## Proč je to důležité
-Tento manifest přichází v kritickém okamžiku, kdy AI jako GPT-4 nebo Llama přinášejí nové schopnosti, ale bez etických vodítek riskují zesílení stávajících problémů. Pro uživatele znamená méně toxického obsahu, lepší mentální zdraví a autentické propojení; pro průmysl výzvu k decentralizaci, kde menší firmy mohou konkurovat gigantům open-source řešeními. Jako expert na AI vidím v tom impuls pro vývoj udržitelných systémů, ale skepticky – bez regulatorních změn zůstane hyper-scale dominantní. Dlouhodobě by to mohlo ovlivnit design AI aplikací, směřujících k lidskému rozkvětu místo extrakce hodnoty. (512 slov)
+### Proč je to důležité
+Tento manifest nastoluje debatu o směru AI vývoje v době, kdy modely jako GPT nebo Gemini umožňují rychlou centralizaci dat. V širším ekosystému představuje kontrapunkt k dominantním hráčům jako OpenAI nebo Google, kde hyper-scale vede k monopolům a ztrátě soukromí. Pro uživatele znamená potenciál lepšího vyvážení: software, který snižuje závislost na algoritmických doporučeních a podporuje hluboké myšlení. Pro průmysl to signalizuje tlak na změnu incentiv – například open-source AI modely zaměřené na lokální nasazení místo cloudových gigantů. Pokud se principy prosadí, mohou zmírnit rizika AI dystopie, ale praktická implementace vyžaduje změnu ekonomických modelů, což v současném kapitalismu zůstává výzvou.
 
 ---
 

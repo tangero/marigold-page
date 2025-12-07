@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: geopolitika
+category: polovodiče
 date: '2025-12-06 05:00:18'
-description: Evropské heslo 'de-riskingu' nic neznamená, pokud nezohledňuje bezprostřední
-  hrozbu pro Tchaj-wan. Evropa ignoruje rostoucí napětí v tomto klíčovém koridoru
-  globálního obchodu, což ohrožuje dodavatelské řetězce high-tech odvětví.
+description: Evropské heslo 'de-risking' nic neznamená, pokud nezohledňuje bezprostřední
+  hrozbu pro Tchaj-wan. Analýza upozorňuje na rizika v Tchajwanském průlivu pro globální
+  dodávky polovodičů.
 importance: 3
 layout: tech_news_article
 original_title: Europe cannot see Strait
@@ -14,31 +14,31 @@ source:
   emoji: 📰
   id: null
   name: EURACTIV
-title: Evropa nevidí Tchajwanský průliv
+title: Evropa nevidí průliv
 url: https://www.euractiv.com/news/europe-cannot-see-strait/
 urlToImage: https://www.euractiv.com/content/uploads/sites/2/2025/12/BT1-1400x788.png
 urlToImageBackup: https://www.euractiv.com/content/uploads/sites/2/2025/12/BT1-1400x788.png
 ---
 
 ### Souhrn
-Evropa se soustředí na ekonomické deriskování, ale ignoruje rizika v Tchajwanském průlivu, kde Tchaj-wan představuje klíčový uzel pro výrobu polovodičů a dalších technologií. Taiwanská delegace varuje před agresivním tlakem Číny a volá po budování nezávislých dodavatelských řetězců. Nečinnost Evropy by mohla vést k ekonomickému kolapsu.
+Evropa prosazuje ekonomickou politiku zaměřenou na snížení rizik v dodavatelských řetězcích, ale ignoruje rostoucí napětí v Tchajwanském průlivu. Čínský tlak na Tchaj-wan, klíčového výrobce polovodičů, se stává agresivnějším, což ohrožuje globální dodávky čipů. Tchajwanská delegace v Bruselu volá po budování dodavatelských řetězců nezávislých na Číně, označovaných jako 'non-red supply chains'.
 
 ### Klíčové body
-- Čína zesiluje tlak na Tchaj-wan, který je centrem výroby pokročilých polovodičů (např. TSMC produkuje čipy pro AI modely jako GPT nebo GPU od NVIDIA).
-- Evropa plánuje nový ekonomický bezpečnostní balíček, ale Tchaj-wanský průliv v něm chybí.
-- Taipei navrhuje „non-red supply chains“ – dodavatelské řetězce bez závislosti na Číně pro polovodiče, suroviny, obranné technologie a ICT komponenty.
-- Varování: Nezasahování by pro Evropu znamenalo „ sebevraždu“.
-- EU ocelový balíček škodí cirkulární ekonomice a zvyšuje ceny pro spotřebitele.
+- Čína zesiluje tlak na Tchaj-wan, který je centrem výroby pokročilých polovodičů.
+- Evropa se soustředí na formální opatření jako screening režimy, ale nereaguje na Tchajwanský průliv.
+- Tchaj-wan navrhuje 'non-red supply chains' v oblastech polovodičů, kritických surovin, obranných technologií a ICT komponentů.
+- Selhání v ochraně stability průlivu by podle diplomatů znamenalo ' sebevraždu' pro evropskou ekonomiku.
+- Brusel připravuje nový plán ekonomické bezpečnosti, který Čínu stále podceňuje.
 
 ### Podrobnosti
-Článek zdůrazňuje rozpor mezi evropskou rétorikou ekonomického pragmatismu a realitou v Tchajwanském průlivu, který představuje 50 % globálního nákladového objemu a klíčový bod pro high-tech průmysl. Tchaj-wan, kde sídlí Taiwan Semiconductor Manufacturing Company (TSMC), vyrábí přes 90 % nejmodernějších čipů s litografií pod 5 nm, nezbytných pro trénink velkých jazykových modelů (LLM) jako GPT-4 nebo Llama, autonomní systémy v robotice a AI akcelerátory v datech centrech. Bez těchto čipů by se zastavila výroba GPU od NVIDIA, které pohánějí většinu současných AI aplikací, včetně generativní AI pro tvorbu kódu nebo obrazů.
+Článek zdůrazňuje rozpor mezi evropskou rétorikou o pragmatismu a realitou geopolitických rizik. Evropská unie opakovaně prezentuje 'de-risking' jako klíčový princip, což zahrnuje pravidelné ekonomické bezpečnostní balíčky a screening mechanismy pro investice. Tyto opatření mají snížit závislost na Číně, ale Tchajwanský průliv – koridor pro 50 procent globálního námořního obchodu – zůstává mimo zorné pole. Pro Čínu je Tchaj-wan politickou fikcí, kterou musí integrovat, zatímco pro světovou ekonomiku je to centrum high-tech výroby, především díky společnosti TSMC. Tato firma, největší světový výrobce polovodičů, produkuje přes 90 procent nejmodernějších čipů pod 5 nm, které pohánějí AI modely, GPU pro trénink velkých jazykových modelů jako GPT nebo Llama, autonomní systémy v robotice a autonomních vozidlech.
 
-Minulý týden navštívila Brusel taiwanská delegace vedená zástupcem ministra pro čínské záležitosti Shenem You-zhongem, který popsal čínský tlak jako „pokročilejší a agresivnější“. Taipei proto prosazuje budování „non-red supply chains“, tedy dodavatelských řetězců v strategických sektorech, které Čína nemůže zpolitizovat. Mezi nimi jsou polovodiče, kritické suroviny jako gallium nebo germania (Čína kontroluje 90 % jejich produkce), technologie blízko obrany (např. senzory pro drony) a důvěryhodné ICT komponenty pro sítě 5G/6G. Tyto řetězce by měly zahrnovat diversifikaci výroby do zemí jako USA, Japonsko nebo Evropa, kde se rozvíjejí továrny Intelu nebo Samsungu.
+Minulotýdenní návštěva tchajwanské delegace v Bruselu to ilustrovala. Zástupce ministra pro čínské záležitosti Shen You-zhong popsal čínskou taktiku jako 'pokročilejší a agresivnější', včetně ekonomického nátlaku a vojenských cvičení. Taipei proto prosazuje 'non-red supply chains' – dodavatelské řetězce bez červených (čínských) komponentů. To zahrnuje semiconductors (polovodiče pro AI a IT), kritické suroviny jako gallium nebo germanium (klíčové pro čipy), obranně související technologie a důvěryhodné ICT komponenty, které nelze zneužit proti Západu. Diplomatický zdroj varoval, že pasivita Evropy by vedla k ekonomickému kolapsu, protože nedostatek čipů by zastavil výrobu v automobilovém průmyslu, spotřební elektronice i datových centrech pro AI.
 
-Evropa zatím nereaguje. Brusel chválí screeningové režimy a nové bezpečnostní balíčky, ale Tchaj-wan v nich chybí. Zároveň navrhovaný EU Steel Measure ohrožuje cirkulární ekonomiku: omezuje dovoz oceli, což zvyšuje náklady pro downstream uživatele jako výrobu ocelových obalů, které podporují recyklaci v potravinářství a balířství. Diplomatický zdroj varuje, že pasivita vůči stabilitě průlivu by pro Evropu znamenala ekonomickou sebevraždu, protože by narušila dodávky čipů pro automobilový průmysl (elektrická vozidla), AI servery a robotiku.
+Evropský plán ekonomické bezpečnosti, který Brusel teď mapuje, stále Čínu podceňuje. Zatímco USA diverzifikují výrobu čipů skrz CHIPS Act a podporují továrny TSMC ve státě Arizona, Evropa se omezuje na Chips Act s rozpočtem 43 miliard eur, který zatím nepřitáhl dostatek investic do pokročilých fabrik. Riziko blokády průlivu by mohlo snížit globální dodávky čipů o 20–30 procent, což by způsobilo recesi v tech sektoru.
 
 ### Proč je to důležité
-Tchajwanský průliv je achillovou patou globálního IT a AI ekosystému. Narušení by způsobilo nedostatek čipů, což by zpomalilo vývoj AI modelů, autonomních vozidel (jako Tesla FSD) a humanoidních robotů (např. od Boston Dynamics). Evropa, závislá na dovozu 80 % polovodičů, by čelila růstu cen o 20–50 % a výpadkům v datech centrech. V širším kontextu to podtrhuje nutnost evropských investic do domácí výroby čipů (EU Chips Act alokuje 43 miliard eur), diversifikace surovin a partnerství s Tchaj-wanem. Nečinnost posiluje čínskou pákovou sílu a ohrožuje dlouhodobou technologickou soběstačnost v AI a robotice.
+Tchaj-wan je páteří technologického ekosystému: bez jeho čipů by vývoj AI, jako trénink modelů na GPU NVIDIA, nebo robotika s pokročilou autonomií, utrpěly. Evropa, závislá na dovozu 80 procent polovodičů, čelí riziku, že čínská agrese naruší dodávky, což by způsobilo nedostatek pro AI datová centra, autonomní vozy Tesla nebo Waymo a humanoidní roboty. Kritická je absence evropské strategie na diverzifikaci – bez 'non-red' řetězců hrozí, že de-risking zůstane pouhým sloganem. Pro průmysl to znamená nutnost investic do alternativních továren v Evropě nebo USA, aby se zabránilo krizi podobné pandemickému nedostatku čipů v roce 2021.
 
 ---
 

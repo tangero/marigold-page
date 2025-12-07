@@ -5,9 +5,9 @@ companies:
 - AeroVironment
 date: '2025-12-06 03:32:32'
 description: 'Společnost AeroVironment, Inc. (NASDAQ: AVAV) oznámila, že Milancy Harris
-  nastoupila jako viceprezidentka a hlavní bezpečnostní ředitelka (CSO). V nové roli
-  povede integrovanou bezpečnostní strategii firmy zaměřenou na ochranu zaměstnanců,
-  programů, technologií a zákazníků.'
+  nastoupila do funkce viceprezidentky a hlavní bezpečnostní ředitelky (CSO). S dlouholetými
+  zkušenostmi z národní bezpečnosti USA má posílit ochranu zaměstnanců, programů a
+  technologií firmy.'
 importance: 3
 layout: tech_news_article
 original_title: AeroVironment Hires Milancy Harris as Vice President and Chief Security
@@ -25,25 +25,29 @@ urlToImage: https://dims.apnews.com/dims4/default/d72eaf7/2147483647/strip/true/
 urlToImageBackup: https://dims.apnews.com/dims4/default/d72eaf7/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2Fa4%2F2047883aa26aece0c9cd958eedb7%2F6368abb8e856b9c99ad7ff508810b199
 ---
 
-## Souhrn
-Společnost AeroVironment, Inc., specializující se na bezpilotní letecké systémy, jmenovala Milancy Harris viceprezidentkou a hlavní bezpečnostní ředitelkou. Harris, s dlouholetými zkušenostmi z amerického ministerstva obrany v oblastech inteligence, kontrarozvědky a bezpečnosti, má posílit ochranu lidských zdrojů, programů a technologií firmy. Tento krok přichází v době expanze portfolia misí, kde bezpečnost hraje klíčovou roli.
+### Souhrn
+Společnost AeroVironment, výrobce bezpilotních leteckých systémů pro vojenské a civilní aplikace, jmenovala Milancy Harris viceprezidentkou a hlavní bezpečnostní ředitelkou. V nové roli povede celopodnikovou bezpečnostní strategii, která má chránit lidi, programy, technologie a zákazníky před rostoucími hrozbami. Jmenování proběhlo 5. prosince 2025 a Harris přináší zkušenosti z klíčových pozic v americkém ministerstvu obrany.
 
-## Klíčové body
-- Milancy Harris nastoupila 5. prosince 2025 jako VP a CSO.
-- Předchozí role: Dočasná podtajná ministryně obrany pro inteligenci a bezpečnost (Acting USD(I&S)) a zástupkyně podtajné ministryně.
-- Zodpovědnosti: Řízení enterprise-wide bezpečnostní strategie pro ochranu lidí, programů, technologií a zákazníků.
-- Citát CEO Wahida Nawabiho: „Milancy přináší mimořádnou zkušenost, strategickou vizi a integritu.“
-- AeroVironment (AVAV) se zaměřuje na vývoj taktických dronů a autonomních systémů pro obranné účely.
+### Klíčové body
+- Milancy Harris byla nejnověji úřadující podsekretářkou obrany pro zpravodajství a bezpečnost (USD(I&S)), kde dohlížela na zpravodajské, protizpravodajské, bezpečnostní a policejní mise.
+- Předtím působila jako zástupkyně podsekretářky obrany pro zpravodajství a bezpečnost a dříve jako zástupkyně asistentky ministra obrany pro nepravidelné válčení.
+- AeroVironment, známý drony jako Switchblade a Puma, rozšiřuje své portfolio v oblasti obranných technologií, což zvyšuje potřebu robustní bezpečnosti.
+- CEO Wahid Nawabi zdůraznil její strategickou vizi a integritu pro udržení důvěry a odolnosti firmy.
+- Tisková zpráva obsahuje multimediální prvky, plný text je dostupný na Business Wire.
 
-## Podrobnosti
-AeroVironment, Inc. je americká firma se sídlem v Arlingtonu, Virginie, která se dlouhodobě profiluje v oblasti bezpilotních leteckých systémů (UAS). Vyvíjí a vyrábí malé taktické drony, jako jsou modely Switchblade pro loitering munitions, které slouží k presnému zásahu cílů v asymetrických konfliktech. Tyto systémy jsou široce nasazovány armádou USA a spojenci, což firmu řadí mezi klíčové hráče v sektoru autonomní robotiky pro obranu. S rostoucím objemem kontraktů, včetně podpory misí v Ukrajině, čelí AV výzvám v oblasti bezpečnosti, kde hrozí kyberútoky na dodavatelské řetězce, špionáž intelektuálního vlastnictví nebo fyzické rizika pro personál.
+### Podrobnosti
+AeroVironment, Inc., se zaměřuje na vývoj a výrobu malých bezpilotních systémů (UAS), které slouží k průzkumu, úderům a monitoringu v bojových i civilních prostředích. Jejich produkty, jako taktické drony Switchblade (kamikaze drony pro přesné útoky) nebo Puma (pro dlouhodobý průzkum), jsou široce nasazeny americkou armádou a spojenci. Firma nedávno rozšířila své aktivity o autonomní systémy a AI-integraci pro lepší navigaci a rozhodování v reálném čase, což ji staví do centra obranné robotiky.
 
-Milancy Harris do firmy přichází po kariéře v americké vládě a soukromém sektoru. Nejnověji působila jako dočasná podtajná ministryně obrany pro inteligenci a bezpečnost (Acting Under Secretary of Defense for Intelligence and Security, USD(I&S)), kde dohlížela na mise v inteligence, kontrarozvědce, bezpečnosti a provádění práva v rámci ministerstva obrany. Předtím byla zástupkyní podtajné ministryně a dříve zastávala pozici zástupkyně asistentky ministryně obrany pro nepravidelné válčení (Deputy Assistant Secretary of Defense for Irregular Warfare). Tyto role zahrnovaly koordinaci bezpečnostních protokolů pro citlivé technologie, včetně ochrany proti státním aktérům jako Čína nebo Rusko, kteří cílí na americké obranné dodavatele.
+Milancy Harris vstupuje do firmy po kariéře v americké vládě a soukromém sektoru. Jako úřadující podsekretářka obrany pro zpravodajství a bezpečnost (USD(I&S)) řídila klíčové mise ministerstva obrany, včetně ochrany citlivých dat a protišíření zpravodajských hrozeb. V předchozí roli zástupkyně USD(I&S) se podílela na koordinaci bezpečnostních protokolů napříč agenturami. Dříve jako zástupkyně asistentky ministra obrany pro nepravidelné válčení se zabývala asymetrickými hrozbami, jako jsou dronové útoky ze strany nestátních aktérů.
 
-V AeroVironment bude Harris zodpovědná za integrovanou bezpečnostní strategii na úrovni celé firmy. To znamená sjednocení fyzické bezpečnosti zařízení, kyberbezpečnosti sítí a systémů, ochrany dat v cloudu a compliance s federálními předpisy jako ITAR (International Traffic in Arms Regulations). Pro průmysl to znamená lepší odolnost vůči narůstajícím hrozbám, jako jsou zero-day exploity v drone software nebo supply chain útoky, které by mohly ohrozit autonomní navigaci UAS.
+V AeroVironment bude Harris zodpovědná za integrovanou bezpečnostní strategii, která zahrnuje fyzickou ochranu zařízení, kyberbezpečnost sítí a ochranu duševního vlastnictví. To je kritické v době, kdy obranné firmy čelí častým kyberútokům ze strany státních aktérů, jako Číny nebo Ruska, které cílí na technologie UAS. Například v posledních letech byly odhaleny pokusy o krádež designů dronů prostřednictvím phishingu nebo supply-chain útoků. Harrisina expertíza z DoD umožní implementaci standardů jako NIST framework nebo CMMC (Cybersecurity Maturity Model Certification), které jsou povinné pro dodavatele americké armády.
 
-## Proč je to důležité
-V kontextu obranné robotiky a autonomních systémů představuje toto jmenování posílení důvěry u vládních zákazníků, kteří vyžadují nejvyšší standardy bezpečnosti pro kontrakty v hodnotě stovek milionů dolarů. AeroVironment, jako dodavatel klíčových technologií pro moderní válku, musí chránit své IP před konkurencí, což ovlivňuje inovace v oblasti AI pro autonomní let a cílení. Pro širší tech ekosystém to signalizuje rostoucí důraz na bezpečnost v obranném sektoru, kde selhání může vést k ztrátě kontraktů nebo národním bezpečnostním rizikům. V době geopolitického napětí pomůže Harris udržet AV jako resilientního hráče, což nepřímo podporuje pokrok v robotických aplikacích mimo obranu.
+CEO Wahid Nawabi uvedl, že Harris přinese strategickou vizi pro udržení vysokých standardů důvěry a odolnosti, což umožní týmům soustředit se na inovace. Firma aktuálně expanduje portfolio, včetně kontraktů na autonomní systémy pro Ukrajinu a Blízký východ, kde bezpečnost dat ovlivňuje národní zájmy.
+
+### Proč je to důležité
+V sektoru obranné robotiky a kyberbezpečnosti je jmenování zkušeného CSO jako Harris signálem zesílení obrany proti eskalujícím hrozbám. Obranné firmy jako AeroVironment uchovávají citlivé AI algoritmy pro autonomní navigaci dronů a senzory pro detekci cílů, které jsou atraktivními cíli pro špionáž. Toto jmenování může zlepšit compliance s federálními regulacemi a přilákat nové kontrakty, protože DoD preferuje dodavatele s prokázanou bezpečnostní kulturou.
+
+Pro průmysl to znamená vyšší standardy v celém dodavatelském řetězci UAS, kde slabiny v bezpečnosti mohou vést k ztrátě technologické převahy. V širším kontextu, s rostoucím nasazením dronů v asymetrických konfliktech, posiluje to odolnost západních technologií proti hybridním hrozbám. Nicméně úspěch závisí na praktické implementaci, nejen na personálních změnách – minulé incidenty ukazují, že i s experty dochází k únikům dat.
 
 ---
 

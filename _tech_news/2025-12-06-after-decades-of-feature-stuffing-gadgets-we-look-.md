@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: tichá technologie
 date: '2025-12-06 01:30:05'
-description: Produkty pracující na pozadí a umělá inteligence pomáhající tiše by mohly
-  učinit technologii méně náročnou. Tento posun ilustruje například model chytrých
-  brýlí Even Realities G2 bez kamery a reproduktorů.
+description: Produkty pracující na pozadí a AI pomáhající tiše by mohly učinit technologii
+  méně náročnou. Tento posun ilustruje například model chytrých brýlí Even Realities
+  G2.
 importance: 3
 layout: tech_news_article
 original_title: After decades of feature-stuffing gadgets, we look for quiet tech
@@ -14,31 +14,33 @@ source:
   emoji: 📰
   id: null
   name: Livemint
-title: Po desetiletích plnění gadgetů funkcemi hledáme tichou technologii
+title: Po desetiletích přetěžování gadgetů funkcemi hledáme tichou technologii
 url: https://www.livemint.com/opinion/columns/mint-quiet-tech-digital-fatigue-smart-glasses-privacy-ai-future-technology-11764922121206.html
 urlToImage: https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/1000059789_1764923163117_1764923177930_1764923243285.jpg
 urlToImageBackup: https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/1000059789_1764923163117_1764923177930_1764923243285.jpg
 ---
 
 ### Souhrn
-Po éře přetížených zařízení plných notifikací a rušivých funkcí se objevuje trend tzv. tiché technologie, která funguje nenápadně na pozadí. Článek zdůrazňuje příklad chytrých brýlí Even Realities G2, které postrádají kameru i reproduktory, a filozofii, podle níž by měla být nejlepší technologie taková, kterou uživatel nemusí vnímat. Tento přístup by měl pomoci proti digitální únavě způsobené neustálým rušením.
+Po éře přeplněných gadgetů plných notifikací a rušivých funkcí se objevuje trend tzv. tiché technologie, která funguje nenápadně na pozadí. Článek zdůrazňuje chytré brýle Even Realities G2, které postrádají kameru i reproduktory, a filozofii, podle níž by měla být nejlepší technologie taková, kterou uživatel nemusí vnímat. Tento přístup reaguje na digitální únavu způsobenou neustálým rušením.
 
 ### Klíčové body
-- Trend "tiché technologie" reaguje na digitální únavu z notifikací, velkých displejů a neustálých upozornění.
-- Even Realities G2: chytré brýle bez kamery a reproduktorů, navržené pro nenápadnou integraci do života.
-- Filozofie: technologie a AI by měly pomáhat tiše, bez rušení pozornosti.
-- Kontext: po desetiletích přidávání funkcí teď lidé touží po klidu a detoxu od digitálních zařízení.
-- Potenciál: méně náročné zařízení by mohlo zlepšit soustředění a kvalitu života.
+- Trend "Quiet Tech": Zaměření na technologie, které se přizpůsobují životu uživatele místo naopak, bez viditelných rušivých prvků.
+- Even Realities G2: Chytré brýle bez kamery a reproduktorů, využívající AI pro diskrétní asistenci.
+- Digitální únava: Neustálé notifikace a působnost zařízení vedou k fragmentaci pozornosti a nutnosti neustálého managementu.
+- Filozofie AI: Umělá inteligence by měla pomáhat tiše, bez nutnosti interakce přes displej nebo zvuk.
+- Příklad kontrastu: Oproti běžným smart brýlím jako Ray-Ban Meta, které mají kameru pro focení a sdílení.
 
 ### Podrobnosti
-Článek popisuje posun od gadgetů přeplněných funkcemi k takzvané tiché technologii, která se stará o úkoly na pozadí, aniž by vyžadovala neustálou pozornost uživatele. Autor Mala Bhargava poukazuje na digitální únavu, kdy zařízení neustále posílají notifikace, zvuky a vizuální podněty, což vede k fragmentaci pozornosti a pocitu uvěznění v digitálním kolotoči. Lidé teď hledají způsoby, jak se detoxikovat, meditovat a vrátit se k reálnému životu.
+Článek popisuje posun od desetiletí vývoje gadgetů nabitých funkcemi k opaku – tiché technologii, která minimalizuje zátěž na uživatele. Autor Mala Bhargava poukazuje na stav digitální únavy, kdy zařízení neustále žádají pozornost skrz notifikace, blikající obrazovky a zvukové signály. To vede k fragmentaci soustředění a pocitu uvěznění na "digitálním běžícím pásu".
 
-Jako příklad slouží chytré brýle Even Realities G2 od společnosti Even Realities, která se specializuje na vývoj nenápadných nositelných zařízení s augmented reality. Tyto brýle jsou navrženy protiintuitivně: nemají kameru, která by nahrávala okolí a ohrozovala soukromí, ani reproduktory, které by hrály zvuky přímo do uší. Místo toho pravděpodobně využívají vibrace kostí pro přenos zvuku nebo displej pro zobrazení informací přímo v poli zorného pole. Tento design umožňuje například navigaci, notifikace nebo překlad textu bez nutnosti sáhnout po telefonu. Brýle tak zapadají do každodenního života jako obyčejné dioptrické brýle, aniž by přitahovaly pozornost.
+Klíčovým příkladem jsou chytré brýle Even Realities G2 od společnosti Even Realities, startupu zaměřeného na nenápadnou augmentovanou realitu. Tyto brýle se liší od konkurence radikálními volbami: nemají kameru, která by umožňovala focení nebo rozpoznávání prostředí, ani vestavěné reproduktory pro hlasovou interakci. Místo toho využívají waveguide displej pro projekci informací přímo do zorného pole a vibrace pro diskrétní upozornění. AI v brýlích běží na pozadí a poskytuje asistenci, například navigaci, připomínky nebo sumarizaci textu, bez nutnosti aktivního zásahu. Například při čtení knihy brýle automaticky zvýrazní klíčové pasáže nebo navrhnou související informace, aniž by uživatel musel hlasem přikazovat.
 
-Tichá technologie zahrnuje i AI, která by měla fungovat skrytě – například automaticky řadit e-maily, předvídat potřeby nebo optimalizovat rozvrh bez viditelných zásahů. Na rozdíl od současných systémů jako Siri nebo Google Assistant, které často vyžadují hlasové příkazy a odpovědi, by taková AI měla být proaktivní a neinvazivní. Článek zmiňuje i širší kontext, jako je model Gemini 3 od Google, který se chová lidsky, ale zde jde spíš o varování před přílišnou antropomorfizací AI. Even Realities G2 tak testuje, zda takový přístup v praxi funguje pro širokou veřejnost, která je unavená z obsesivního přidávání funkcí do zařízení.
+Tento přístup kontrastuje s mainstreamovými produkty jako Google Glass nebo Ray-Ban Meta, kde kamera slouží k focení a sdílení obsahu na sociální sítě, což často vede k pocitu sledování okolím. Even Realities G2 cílí na soukromí a nenápadnost – brýle vypadají jako obyčejné dioptrické brýle. Firma, založená v Evropě, se specializuje na AR hardware pro produktivitu, kde AI zpracovává data z akcelerometru, gyroskopu a mikروفónu (pouze pro hlasové příkazy na vyžádání). Model G2 byl uveden jako case study pro Quiet Tech, ale jeho úspěch závisí na adopci mezi uživateli unavenými z přehlcenosti.
+
+V širším kontextu se tento trend prolíná s vývojem AI modelů jako Gemini nebo Claude, které se učí fungovat proaktivně bez explicitních dotazů. Například v mobilních aplikacích AI předvídá potřeby na základě kontextu, což snižuje interakce.
 
 ### Proč je to důležité
-Tento trend odráží širší změnu v technologickém ekosystému, kde se po éře růstu funkcí (jako u smartphonů s tisíci aplikacemi) dostáváme k fázi minimalismu. Pro uživatele to znamená potenciálně lepší soustředění a méně stresu z řízení zařízení, což je relevantní v době rostoucí digitální závislosti. V průmyslu to otevírá prostor pro inovace v nositelných zařízeních a AI, kde firmy jako Even Realities (startup zaměřený na AR brýle) mohou konkurovat gigantům jako Apple s Vision Pro. Nicméně kriticky: absence kamery chrání soukromí, ale omezuje funkce jako rozpoznávání objektů. Pokud se tichá technologie prosadí, mohla by ovlivnit design budoucích produktů, včetně autonomních systémů v robotice nebo vozidlech, kde nenápadná AI zlepší bezpečnost a uživatelský komfort. Celkově jde o reakci na přesycení trhu, která by mohla přinést udržitelnější přístup k inovacím.
+Tichá technologie reaguje na rostoucí digitální únavu, kterou potvrzují studie jako ty od Microsoftu ukazující pokles produktivity o 20 % kvůli multitaskingům. Pro uživatele to znamená zařízení podporující soustředění, což je klíčové v éře vzdálené práce a dlouhodobého používání AR/VR. Pro průmysl to otevíře prostor pro nové designové paradigmata, kde se AI stává "neviditelným pomocníkem" – podobně jako v autonomních vozidlech Tesla FSD, kde řidič nemusí řídit. Pokud se trend rozšíří, může zmírnit závislost na notifikacích a posílit soukromí, ale vyžaduje lepší AI přesnost, aby se vyhnula chybám v proaktivním chování. Even Realities G2 ukazuje směr, ale masová adopce potřebuje ověření v reálném nasazení.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Marisa Aigen
-category: foodtech startupy
+category: foodtech
 date: '2025-12-06 06:00:53'
-description: V Thajsku se rozvíjejí startupy v oblasti potravinářských technologií
-  díky podpoře vlády a soukromého sektoru, s důrazem na rostlinné alternativy proteinů.
-  Příkladem je společnost Advanced Greenfarm, která úspěšně produkuje produkty z řas
-  pěstovaných v jezírkách.
+description: V Thajsku se rozvíjejí startupy v oblasti potravinové technologie díky
+  podpoře vlády a soukromého sektoru, zaměřené na rostlinné alternativy proteinů,
+  superpotraviny a rostlinné mléko. Firma Advanced Greenfarm uspěla s produkty z vodní
+  řasy podporou státu.
 importance: 3
 layout: tech_news_article
 original_title: Thailand's food tech startups bloom, from superfoods to plant-based
@@ -16,32 +16,32 @@ source:
   emoji: 📰
   id: null
   name: Nikkei.com
-title: Thajské startupy v oblasti potravinářských technologií rostou, od superpotravin
-  po rostlinné mléko
+title: 'Thajské startupy v potravinové technologii rostou: od superpotravin po rostlinné
+  mléko'
 url: https://asia.nikkei.com/business/startups/thailand-s-food-tech-startups-bloom-from-superfoods-to-plant-based-milk
 urlToImage: https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F7%2F1%2F11771763-1-eng-GB%2F9d350aa9e0e5-photo_SXM2025112600013861.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630
 urlToImageBackup: https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F7%2F1%2F11771763-1-eng-GB%2F9d350aa9e0e5-photo_SXM2025112600013861.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630
 ---
 
 ## Souhrn
-V Thajsku zažívají startupy v oblasti potravinářských technologií rozmach díky vlivem vládní podpory a soukromého sektoru, které podporují vývoj rostlinných alternativních proteinů. Mezi klíčovými příklady patří společnost Advanced Greenfarm, jež dosáhla úspěchu s produkcemi z řas pěstovaných v jezírkách. Tento trend se prolíná s širšími snahami v jihovýchodní Asii o udržitelnější potravinovou výrobu.
+V Thajsku dochází k rozmachu startupů v oblasti potravinové technologie, které se soustředí na vývoj superpotravin, rostlinného mléka a alternativních rostlinných proteinů. Tento růst podporuje vláda i soukromý sektor, což pomáhá firmám jako Advanced Greenfarm, která dosáhla úspěchu s produkty z vodní řasy. Trend odráží širší snahu o udržitelné potraviny v jihovýchodní Asii.
 
 ## Klíčové body
-- Startupy v Thajsku se zaměřují na superpotraviny a rostlinné mléko jako alternativy k živočišným produktům.
-- Advanced Greenfarm, vedená spoluzakladatelem a technickým ředitelem Methou Meetamem, produkuje produkty z vodních řas s vlivem vládní podpory.
-- Souvislosti s regionálními trendy: thajské firmy Banpu a CP spolupracují s japonskými deep tech firmami na udržitelnosti.
-- Podobné iniciativy v Laos, Indii a Filipínách řeší emise z dobytka a optimalizují využití palmového ovoce.
-- Food tech v ASEAN zahrnuje i lab-grown potraviny, i když zatím neřeší globální hlad.
+- Podpora od thajské vlády a soukromých investorů urychluje rozvoj foodtech startupů zaměřených na rostlinné proteiny.
+- Advanced Greenfarm, thajský startup, úspěšně vyrábí superpotraviny z vodní řasy (pond weed) díky státním dotacím.
+- Metha Meetam, spoluzakladatel a technický ředitel Advanced Greenfarm, prezentuje produkty na bázi této suroviny.
+- Souvislosti s regionálními trendy: spolupráce firem jako Banpu a CP s japonskými deep tech firmami na udržitelnosti.
+- Širší kontext: podobné iniciativy v Laos, Indii a Filipínách řeší emise zvířat a využití palmových plodů.
 
 ## Podrobnosti
-Thajsko se stává centrem food tech startupů v jihovýchodní Asii, kde vláda a soukromé investory podporují inovace v oblasti rostlinných proteinů. Tyto startupy vyvíjejí produkty jako superpotraviny z vodních řas a rostlinné mléko, které slouží jako udržitelné náhrady za maso a mléčné výrobky. Řasy, známé jako pond weed, jsou pěstovány v kontrolovaných jezírkách, což umožňuje vysokou výtěžnost proteinů a nutrientů při nízké ekologické stopě. Společnost Advanced Greenfarm, založená Methou Meetamem v roli spoluzakladatele a hlavního technologického ředitele, demonstruje tento přístup: jejich produkty z řas jsou bohaté na proteiny, vitamíny a antioxidanty, vhodné pro doplňky stravy nebo funkční potraviny.
+Thajsko se stává novým centrem foodtech inovací v jihovýchodní Asii, kde startupy řeší poptávku po udržitelných potravinách. Podle článku z Nikkei Asia z 6. prosince 2025 se firmy zaměřují na rostlinné alternativy k živočišným proteinům, což odpovídá globálnímu trendu snižování uhlíkové stopy potravinového průmyslu. Klíčovým příkladem je Advanced Greenfarm, startup specializující se na zpracování vodní řasy, známé jako pond weed. Tato surovina, pěstovaná v rybnících, slouží k výrobě superpotravin bohatých na živiny, které lze použít v doplňcích stravy, nápojích nebo jako náhrada tradičních proteinů.
 
-Vládní podpora zahrnuje granty a regulační úlevy, které usnadňují škálování produkce. Například thajské energetické a potravinářské giganty jako Banpu a Charoen Pokphand (CP) se obracejí na japonské deep tech firmy pro technologie udržitelnosti, včetně snížení emisí z dobytka. V sousedním Laos používá australský startup bloky na olizování pro snížení metanových emisí z krav, zatímco indické agritech firmy bojují s přesvědčováním farmářů o nových technologiích. Filipínské startupy profitují z investičního boomu, ale čelí růstovým bolestem, a singapurská YouTrip expanduje do Austrálie před možným IPO.
+Metha Meetam, spoluzakladatel a hlavní technologický ředitel firmy, ukazuje produkty vyrobené z této řasy, které získaly popularitu díky vysokému obsahu proteinů, vitamínů a minerálů. Úspěch firmy je přisuzován vládě Thajska, která poskytuje dotace a regulační úlevy pro agrotechnologie. Tato podpora umožňuje škálovat produkci bez vysokých počátečných investic. V regionu podobné projekty zahrnují australský startup v Laosu, který snižuje emise zvířat lizací bloky pro dobytek, nebo indické agritech firmy bojující s přesvědčováním farmářů o nových technologiích.
 
-Další příklady z regionu zahrnují thajské startupy využívající drony a filtry pro zpracování palmového ovoce, což maximalizuje výnosy z tropických plodin. Lab-grown potraviny, jako klonované prasata pro orgány v Japonsku nebo umělé maso, zatím narážejí na limity v řešení globálního hladu, ale posilují ekosystém. Tyto technologie často integrují AI pro optimalizaci pěstování, například predikci růstu řas nebo detekci emisí, což zvyšuje efektivitu.
+Další thajské firmy experimentují s palmovými plody, kde startupy využívají drony a filtry k optimalizaci zpracování. V sousedních zemích, jako Filipíny, startupy profitují z investičního boomu, zatímco Singapur rozšiřuje fintech služby jako YouTrip do Austrálie. V Japonsku pak firmy jako Anduril plánují výrobu obranných technologií a klonové farmy pro orgány. Thajský foodtech sektor tak není izolován, ale součástí asijského ekosystému, kde se prolínají udržitelnost, AI v zemědělství a tokenizace aktiv.
 
 ## Proč je to důležité
-Rozmach thajských food tech startupů přispívá k globálnímu posunu k udržitelným proteinům v době rostoucího tlaku na zemědělství kvůli klimatickým změnám. Rostlinné alternativy snižují závislost na dobytku, který generuje významné emise metanu, a podporují potravinovou bezpečnost v hustě osídlené Asii. Pro průmysl to znamená nové trhy v hodnotě stovek milionů dolarů, s potenciálem exportu do Evropy a USA, kde regulace prosazují zelené technologie. V širším tech ekosystému to ukazuje, jak vládní intervence urychlují adopci biotech řešení, podobně jako v AI nebo robotice, ale s přímým dopadem na spotřebitele prostřednictvím dostupnějších zdravých potravin.
+Rozmach thajských foodtech startupů signalizuje posun k udržitelným potravinovým řetězcům v regionech závislých na zemědělství. Pro spotřebitele to znamená dostupnější rostlinné alternativy, které snižují závislost na dovozu masa a mléčných výrobků. Pro průmysl to otevírá trhy v hodnotě miliard, kde vládní podpora urychluje adopci technologií jako vertikální farmaření nebo biofermentace. V širším kontextu posiluje to asijskou konkurenceschopnost vůči Západu, kde lab-grown food zatím selhává v řešení globálního hladu. Kriticky lze říci, že úspěch závisí na škálovatelnosti – vodní řasa je levná, ale vyžaduje stabilní dodávky a certifikace, což může brzdit růst bez dalších investic.
 
 ---
 

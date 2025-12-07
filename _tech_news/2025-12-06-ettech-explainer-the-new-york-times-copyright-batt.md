@@ -5,9 +5,9 @@ companies:
 - Perplexity AI
 date: '2025-12-06 07:23:41'
 description: New York Times zažalovala startup Perplexity AI za použití milionů svých
-  článků bez povolení k tréninku chatbotů. Noviny obviňují firmu z porušení autorských
-  práv, škody na reputaci a neoprávněného komerčního využití navzdory předchozím varováním.
-importance: 4
+  článků bez povolení k trénování chatbotů. Noviny obviňují porušení autorských práv,
+  škodu na reputaci a neoprávněné komerční využití navzdory předchozím varováním.
+importance: 3
 layout: tech_news_article
 original_title: 'ETtech Explainer: The New York Times'' copyright battle against Perplexity
   AI'
@@ -17,32 +17,32 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: 'ETtech Vysvětlení: Bitva New York Times o autorská práva proti Perplexity
+title: 'ETtech Vysvětlení: Soudní spor New York Times o autorské právo proti Perplexity
   AI'
 url: https://economictimes.indiatimes.com/tech/artificial-intelligence/ettech-explainer-the-new-york-times-copyright-battle-against-perplexity-ai/articleshow/125801685.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-49282,resizemode-75,msid-125801685/tech/artificial-intelligence/ettech-explainer-the-new-york-times-copyright-battle-against-perplexity-ai.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-49282,resizemode-75,msid-125801685/tech/artificial-intelligence/ettech-explainer-the-new-york-times-copyright-battle-against-perplexity-ai.jpg
 ---
 
-### Souhrn
-New York Times (NYT) zažalovala umělo-intelní startup Perplexity AI za opakované používání jejího obsahu bez souhlasu. Firma údajně zkopírovala, zobrazila a distribuovala miliony článků k tréninku a vývoji svých chatbotových systémů. Přes opakované výzvy k zastavení v posledních 18 měsících Perplexity pokračovala v tomto postupu, což je součástí širšího konfliktu mezi vydavateli a AI společnostmi.
+## Souhrn
+New York Times (NYT) zažalovala umělou inteligenci startupu Perplexity AI za opakované používání jejího obsahu bez souhlasu. Podle žaloby společnost zkopírovala, zobrazovala a distribuovala miliony článků k trénování a vývoji svých chatbotových systémů. Tento spor je součástí širšího konfliktu mezi vydavateli médií a firmami s umělou inteligencí ohledně práv k obsahu.
 
-### Klíčové body
-- Perplexity AI, startup zaměřený na AI vyhledávač kombinující tradiční search s velkými jazykovými modely (LLM), použil miliony článků NYT k tréninku bez licence.
-- Hlavní obvinění: Není to sladné použití (fair use), protože systém vytahuje celé části nebo články a generuje odpovědi konkurující originálnímu žurnalismu.
-- Dodatečné stížnosti: Vymýšlení faktů (hallucinations) připisovaných NYT, což poškozuje reputaci, a nabízení placených služeb nahrazujících obsah NYT bez kompenzace.
-- V říjnu NYT poslala výzvu k ukončení (cease and desist) a žádala vysvětlení, jak Perplexity obchází technické bloky.
-- Spor se týká databází a web scraping, kde Perplexity údajně ignorovala robots.txt a další omezení.
+## Klíčové body
+- Perplexity AI údajně použila miliony článků NYT k trénování AI modelů bez licence nebo kompenzace.
+- Obvinění z porušení autorských práv zahrnují kopírování celých článků a generování konkurenčních výstupů.
+- NYT upozorňovala Perplexity AI po dobu 18 měsíců a v říjnu zaslala výzvu k ukončení používání obsahu.
+- Škoda na reputaci vzniká vymýšlením faktů (tzv. halucinace) připisovaných NYT.
+- Perplexity nabízí placené služby, které nahrazují žurnalistickou práci NYT bez odměny.
 
-### Podrobnosti
-Perplexity AI, založená v roce 2022, vyvinula vyhledávač poháněný AI, který na rozdíl od Google neposílá uživatele na externí stránky, ale generuje přímé odpovědi na základě dat z webu. Tento systém využívá LLM k sumarizaci a syntéze informací, což umožňuje rychlé odpovědi na složité dotazy, ale závisí na masivních datech z otevřeného internetu. NYT tvrdí, že Perplexity nejen scrapovala jejich stránky, ale i uchovávala data v databázích pro trénink modelů, což překračuje hranice fair use podle amerického práva.
+## Podrobnosti
+Perplexity AI je startup specializující se na vyhledávač poháněný umělou inteligencí, který načítá data z webových stránek a databází, aby generoval odpovědi na dotazy uživatelů. Na rozdíl od tradičních vyhledávačů jako Google neposkytuje pouze odkazy, ale přímo shrnuje a syntetizuje informace v podobě konverzačního chatbota. Podle žaloby podané u soudu v New Yorku tento nástroj systematicky porušoval autorské právo NYT tím, že extrahoval podstatné části jejich reportáží, včetně celých článků, pro trénink svých jazykových modelů.
 
-Žaloba popisuje konkrétní případy, kdy Perplexity reprodukovala významné části investigativních reportáží, jako jsou články o politice nebo ekonomice, a prezentovala je jako své vlastní výstupy. To nejen konkuruje předplatitelskému modelu NYT, ale i generuje halucinace – vymyšlené informace připisované zdroji. Například systém údajně citoval neexistující citace z NYT, což vede k dezinformacím. NYT kontaktovala Perplexity již v minulém roce, včetně technických blokád jako omezení přístupu přes IP adresy nebo robots.txt soubory, které Perplexity prý obcházela pomocí proxy serverů nebo pokročilých scraping technik.
+NYT tvrdí, že kontaktovala Perplexity AI několikrát během posledních 18 měsíců s žádostí o zastavení používání materiálu, dokud nedojde k vyjednání licenčních podmínek. Navzdory tomu společnost pokračovala v přístupu k obsahu, i když NYT implementovala technické blokády. V říjnu 2023 NYT poslala formální výzvu k ukončení (cease and desist), v níž žádala vysvětlení, jak Perplexity obchází omezení. Žaloba zdůrazňuje, že takové chování není kryté výjimkou fair use, protože výstupy Perplexity přímo konkurují původnímu obsahu a umožňují uživatelům nahradit návštěvu webu NYT.
 
-Tento případ navazuje na podobné žaloby NYT proti OpenAI a Microsoftu z konce roku 2023, kde šlo o použití obsahu k tréninku modelů jako GPT-4. Perplexity, která získala přes 250 milionů dolarů investic od investorů jako Nvidia a Jeff Bezos, nabízí jak bezplatnou verzi, tak placené plány (Pro za 20 USD/měsíc), které uživatelům umožňují neomezené dotazy a přístup k pokročilým LLM jako Claude 3 nebo GPT-4o. Kritici z AI komunity poukazují, že takové spory nutí firmy hledat legální data zdroje, jako licencované datasety nebo synthetic data, což zvyšuje náklady na vývoj.
+Další body obvinění se týkají reputační újmy: Perplexity AI generuje halucinace, tedy vymyšlené nebo nepřesné informace, které pak nesprávně připisuje NYT. To poškozuje důvěryhodnost novin. Komerční aspekt spočívá v placených produktech Perplexity, jako jsou prémiové předplatné, které profitují z obsahu bez kompenzace tvůrců. Tento případ navazuje na podobné žaloby NYT proti OpenAI a Microsoftu, kde se řeší, zda trénink AI na veřejně dostupných datech porušuje práva. Perplexity AI, založená v roce 2022, rychle roste díky svému modelu, který cituje zdroje, ale stále čelí kritice za nedostatečnou originalitu výstupů.
 
-### Proč je to důležité
-Tento spor urychluje debatu o fair use v éře AI, kde trénink LLM na veřejných datech byl dosud standardem, ale teď čelí právním výzvám. Pro průmysl znamená riziko dražších licencí od vydavatelů, což by mohlo zpomalit inovace v AI search a generativních modelech. Uživatelé mohou očekávat méně přesné odpovědi, pokud firmy omezí scraping, a posílí se trendy jako RAG (Retrieval-Augmented Generation), kde se data načítá dynamicky bez trvalého ukládání. V širším kontextu to ovlivní soutěž mezi Google, Perplexity a novými hráči, protože vítězství NYT by mohlo vést k novým regulacím EU i USA ohledně AI dat. Perplexity zatím žalobu komentovala jen obecně, slibuje obranu na základě fair use, ale precedent z jiných sporů naznačuje dlouhou bitvu.
+## Proč je to důležité
+Tento spor podtrhuje napětí v ekosystému umělé inteligence, kde firmy jako Perplexity AI závisí na masivních datech pro trénink modelů, zatímco vydavatelé požadují finanční kompenzaci nebo licenční dohody. Rozhodnutí soudu by mohlo ovlivnit, jak AI společnosti přistupují k webovému obsahu – zda skrz licenční smlouvy, jako naposledy uzavřela OpenAI s Axel Springer, nebo opt-out mechanismy. Pro průmysl to znamená riziko zdražení tréninkových dat a zpomalení inovací v generativní AI. Uživatelé mohou čelit méně přesným nástrojům, pokud firmy budou muset omezit scraping. V širším kontextu posiluje tlak na regulaci, podobně jako v Evropě s AI Act, kde se řeší transparentnost tréninkových dat.
 
 ---
 

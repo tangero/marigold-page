@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: soutěžní právo
+category: ai
 companies:
 - Meta
 date: '2025-12-06 07:46:27'
-description: Evropská komise zahájila antitrustovní vyšetřování nových AI pravidel
-  Meta pro WhatsApp. Vyšetřování se zaměřuje na obavy, že tato pravidla omezují externí
-  AI poskytovatele a favorizují služby samotného Meta.
+description: Evropská komise zahájila antitrustní vyšetřování nových AI pravidel Meta
+  pro WhatsApp. Vyšetřování se zaměřuje na obavy, že tato pravidla omezují externí
+  AI poskytovatele a upřednostňují služby samotného Meta.
 importance: 3
 layout: tech_news_article
 original_title: EU Probes Meta’s AI Policies
@@ -16,31 +16,33 @@ source:
   emoji: 📰
   id: null
   name: Nep123.com
-title: EU vyšetřuje AI pravidla společnosti Meta
+title: Evropská unie vyšetřuje AI pravidla společnosti Meta
 url: https://nep123.com/eu-probes-metas-ai-policies/
 urlToImage: https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg
 urlToImageBackup: https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg
 ---
 
-## Souhrn
-Evropská komise spustila antitrustovní vyšetřování nových pravidel společnosti Meta týkajících se umělé inteligence na platformě WhatsApp. Tato opatření mají podle komise potenciál omezit konkurenci tím, že brání externím AI chatbotům v interakci s uživateli. Vyšetřování není vedené podle Zákona o digitálních trzích (DMA), ale může ovlivnit širší transatlantické vztahy v oblasti regulace technologií.
+### Souhrn
+Evropská komise zahájila antitrustní vyšetřování nových AI pravidel společnosti Meta týkajících se platformy WhatsApp. Tato pravidla údajně brání externím AI chatbotům v integraci s WhatsApp skupinami, což by mohlo posílit dominanci Meta v oblasti AI. Vyšetřování není vedené podle Digital Markets Act, ale může ovlivnit obchodní jednání mezi EU a USA.
 
-## Klíčové body
-- Evropská komise iniciovala vyšetřování kvůli obavám z diskriminace externích AI poskytovatelů na WhatsApp.
-- Nová pravidla Meta omezují integraci AI chatbotů do spravovaných skupin, což dříve firmy používaly pro podporu zákazníků.
-- Meta popírá, že chatboti vytvářejí významnou technickou zátěž na systémy WhatsApp.
-- Vyšetřování souvisí s varováními amerických úředníků ohledně uvolnění evropských regulací pro velké technologické firmy.
-- Potenciální dopad na EU-US vyjednávání o clech, které by mohly dosáhnout 50 procent.
+### Klíčové body
+- Evropská komise podezírá Meta z omezování konkurence externích AI poskytovatelů na WhatsApp.
+- Nová pravidla zakazují používání AI chatbotů v spravovaných skupinách, které firmy používaly pro zákaznickou podporu.
+- Meta odmítá obvinění a tvrdí, že AI chatboti přetěžují jejich systémy.
+- Vyšetřování souvisí s varováními USA ohledně uvolnění evropských digitálních regulací.
+- Potenciální dopad na clo do 50 % v EU-US obchodních jednáních.
 
-## Podrobnosti
-Evropská komise, vedená komisařkou pro soutěž Teresou Riberou, se zaměřuje na rychle rostoucí trh s umělou inteligencí, kde digitální giganti jako Meta mohou zneužít svou dominantní pozici. WhatsApp, oblíbená zprávová aplikace s miliardami uživatelů, umožňovala firmám přes WhatsApp Business API integrovat AI chatboti do tzv. managed groups. Tyto skupiny slouží k automatizované podpoře zákazníků, kde chatbot odpovídá na dotazy, zpracovává objednávky nebo řeší běžné problémy bez zásahu člověka. Například externí AI modely jako ty od OpenAI nebo lokálních evropských firem mohly být napojeny přímo na WhatsApp, což zvyšovalo efektivitu podnikových komunikací.
+### Podrobnosti
+Evropská komise, vedená komisařkou pro konkurenci Terezou Riberaovou, spustila vyšetřování po stížnostech na nová pravidla Meta, která vstoupila v platnost nedávno. Před těmito změnami mohly firmy integrovat externí AI chatboti do WhatsApp Business API, což umožňovalo automatizovanou zákaznickou podporu v uzavřených skupinách. Tyto chatboti, například založené na modelech jako GPT nebo Llama, zpracovávaly dotazy uživatelů, poskytovaly personalizované odpovědi a integrovány s CRM systémy. Nová pravidla Meta toto explicitně zakazují s odůvodněním, že takové integrace vytvářejí technickou zátěž na jejich servery a ohrožují soukromí uživatelů.
 
-Nová pravidla Meta, uvedená nedávno, tyto integrace výrazně omezují. Podle komise to favorizuje Meta vlastní AI služby, jako je Meta AI založený na modelech Llama, který je integrován přímo do aplikace. Meta argumentuje, že externí chatboti přetěžují servery WhatsApp kvůli vysoké frekvenci požadavků a nestandardním API voláním, což ohrožuje stabilitu pro běžné uživatele. Tato tvrzení komise označuje za nepodložená, protože podobné zátěže řeší i jiné platformy jako Telegram nebo Signal bez problémů.
+Meta však tyto argumenty označuje za nepodložené a tvrdí, že jejich systém WhatsApp zvládá vysoké zatížení bez problémů – například denně zpracovává miliardy zpráv. Kritici, včetně menších AI firem, poukazují na to, že omezení postihuje především konkurenty Meta AI, což je jejich vlastní AI model integrovatelný přímo do WhatsApp. Tento model slouží k generování odpovědí, překladům a analýze konverzací, ale je plně pod kontrolou Meta. Vyšetřování se zaměřuje na to, zda takové chování porušuje antitrustní zákony EU tím, že brání férové konkurenci na trhu AI služeb.
 
-Vyšetřování probíhá v kontextu předchozích sporů EU s Metou, včetně pokut za porušení soukromí podle GDPR a monopolních praktik na Facebooku a Instagramu. Na rozdíl od DMA, který reguluje "gatekeepery" jako Meta s pevnými pravidly, toto antitrustovní řízení spadá pod obecný článek 102 Smlouvy o fungování EU o zneužití dominantní pozice. Proces může trvat měsíce až roky a zahrnuje sběr dat od firem, uživatelů i konkurentů. Pokud se prokáže porušení, hrozí pokuty až 10 procent globálního obratu Meta, což by činilo desítky miliard eur.
+Toto není první střet EU s Meta; podobné vyšetřování probíhají i v souvislosti s daty z Instagramu a Facebooku. Na rozdíl od Digital Markets Act, který reguluje tzv. gatekeepy jako Meta, toto vyšetřování spadá pod obecná pravidla konkurence. USA mezitím varují, že příliš přísné regulace by mohly vést k obchodním odvetným opatřením, včetně cel až 50 % na evropské zboží.
 
-## Proč je to důležité
-Toto vyšetřování nastavuje precedent pro regulaci AI na uzavřených platformách, kde dominantní hráči jako Meta kontrolují přístup k uživatelům. Pro evropské firmy závislé na WhatsApp pro zákaznickou podporu to znamená riziko ztráty efektivních AI nástrojů, což by zvýšilo náklady a snížilo konkurenceschopnost oproti firmám používajícím proprietární řešení Meta. V širším ekosystému posiluje tlak EU na otevřené standardy v AI, podobně jako u Apple a App Store. Současně eskaluje napětí s USA, kde politici jako Donald Trump varují před příliš přísnými pravidly, které by oslabily americké tech giganty v soutěži s Čínou. Výsledek ovlivní budoucnost AI integrací na WhatsApp a celkovou dynamiku trhu s umělou inteligencí v Evropě, kde se očekává růst na stovky miliard eur do roku 2030.
+### Proč je to důležité
+Toto vyšetřování může zásadně ovlivnit budoucnost AI integrací na WhatsApp, který má v Evropě přes 400 milionů uživatelů. Pokud komise prokáže zneužití dominantní pozice, Meta by mohla čelit pokutám v miliardách eur a povinnosti otevřít API pro konkurenty. To by podpořilo inovace v AI chatbotů – například lepší personalizaci zákaznické podpory nebo integrace s open-source modely. Naopak, pokud Meta uspěje, posílí to trend uzavřených ekosystémů, kde velcí hráči jako Meta, Google nebo OpenAI kontrolují přístup k datům a uživatelům.
+
+V širším kontextu to odráží rostoucí napětí mezi regulací a inovacemi v AI. EU se snaží zabránit monopolům v rychle rostoucím sektoru, kde AI chatboti představují klíčový nástroj pro firmy. Pro uživatele to znamená potenciálně méně voleb v AI asistentech a vyšší ceny služeb, pokud konkurence selže. Globálně by to mohlo ovlivnit standardy pro API integrace v messagingových platformách, jako je iMessage nebo Telegram.
 
 ---
 

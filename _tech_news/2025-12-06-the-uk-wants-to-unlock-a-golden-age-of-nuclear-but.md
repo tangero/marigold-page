@@ -2,8 +2,8 @@
 author: Marisa Aigen
 category: jaderná energie
 date: '2025-12-06 07:55:27'
-description: Geopolitika a energetická transformace vrátili jadernou energii zpět
-  na veřejné agendy.
+description: Geopolitika a energetická transformace vrátili jadernou energii na veřejné
+  pořady dne.
 importance: 3
 layout: tech_news_article
 original_title: The UK wants to unlock a 'golden age of nuclear' but faces key challenges
@@ -15,31 +15,31 @@ source:
   id: null
   name: CNBC
 title: Velká Británie chce odemknout ‚zlatý věk jaderné energie‘, ale čelí klíčovým
-  výzvám při obnově historického vedení
+  výzvám při obnovení historického vedení
 url: https://www.cnbc.com/2025/12/06/the-history-of-nuclear-energy-lies-on-british-soil-does-its-future-.html
 urlToImage: https://image.cnbcfm.com/api/v1/image/108194091-1756968328734-gettyimages-1962138611-UK_SIZEWELL.jpeg?v=1764673662&w=1920&h=1080
 urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108194091-1756968328734-gettyimages-1962138611-UK_SIZEWELL.jpeg?v=1764673662&w=1920&h=1080
 ---
 
 ## Souhrn
-Velká Británie, kdysi lídr v komerční jaderné energii, plánuje výrazně zvýšit podíl jaderné výroby elektřiny z současných 14 % na 25 % do roku 2050. Přestože vláda podporuje projekty velkých i malých elektráren, země je nyní nejdražším místem na světě pro jejich stavbu. Geopolitické napětí a potřeba energetické bezpečnosti pohánějí tento zájem.
+Velká Británie, kdysi průkopník komerční jaderné energie s více elektrárnami než USA, SSSR a Francie dohromady, nyní generuje z jádra pouze 14 procent své elektřiny a od roku 1995 nedokončila žádný nový reaktor. Země plánuje zvýšit podíl na 25 procent do roku 2050 a podporuje projekty všech velikostí, aby odemkla takzvaný zlatý věk jaderné energie. Tento impuls pohání geopolitické napětí a potřeba energetické bezpečnosti, přesto čelí výzvám jako extrémně vysoké náklady na stavbu.
 
 ## Klíčové body
-- Velká Británie nemá nový jaderný reaktor od roku 1995 (Sizewell B), přesto byla v 70. letech globálním lídrem s více elektrárnami než USA, SSSR a Francie dohromady.
-- V roce 2023 tvořila jaderná energie 14 % britské elektřiny, což zaostává za Francií (65 %); cíl je 25 % do 2050.
-- Vláda podporuje projekty jako Sizewell C a menší modulární reaktory pro dosažení „zlatého věku jaderné energie“.
-- Hlavní výzvy: extrémně vysoké náklady stavby, regulační zpoždění a nedostatek zkušeností.
-- Jaderná energie slouží jako stabilní zdroj nízkouhlíkové energie pro vyrovnání proměnlivých obnovitelných zdrojů.
+- Velká Británie byla rodištěm komerční jaderné energie, ale dnes je nejdražším místem na světě pro výstavbu jaderných projektů.
+- V roce 2023 pokrývala jaderná energie 14 procent britské výroby elektřiny, což zaostává za evropskými kolegy a zejména Francií s 65 procenty.
+- Cíl: 25 procent podíl do roku 2050, s podporou velkých i malých projektů podle ministerstva pro energetickou bezpečnost a nulové emise.
+- Geopolitické napětí posílilo důraz na energetickou nezávislost a nízkouhlíkové zdroje jako základní zatížení pro obnovitelné energie.
+- Poslední dokončený reaktor Sizewell B v roce 1995; historicky globální lídr do roku 1970.
 
 ## Podrobnosti
-Velká Británie je považována za kolébku komerční jaderné energie, kde v 50. a 60. letech fungovalo více jaderných elektráren než v USA, SSSR a Francii dohromady. Poslední dokončený reaktor Sizewell B z roku 1995 provozuje francouzský gigant EDF (Électricité de France), který se specializuje na jadernou energetiku. Od té doby se země stala symbolem neefektivity: stavba nových zařízení zde patří k nejdražším na světě, což způsobily regulační komplikace, veřejný odpor a technické zpoždění, jako u projektu Hinkley Point C, jehož náklady explodovaly na desítky miliard liber.
+Velká Británie vstoupila do éry komerční jaderné energie v 50. letech minulého století a rychle se stala světovým lídrem. V té době provozovala více jaderných elektráren než Spojené státy, Sovětský svaz a Francie dohromady, což jí zajistilo dominanci v produkci atomové energie. Tento náskok se však ztratil: poslední reaktor Sizewell B, provozovaný francouzskou společností EDF, byl dokončen v roce 1995 a od té doby nebyl spuštěn žádný nový. Dnes generuje jaderná energie podle dat Mezinárodní energetické agentury (IEA) z roku 2023 pouze 14 procent britské elektřiny, což je méně než u většiny evropských sousedů. Pro srovnání, Francie dosahuje 65 procent díky standardizovaným reaktorům.
 
-Podle dat Mezinárodní energetické agentury (IEA) pokrývala jaderná energie v roce 2023 jen 14 % britské spotřeby elektřiny, zatímco ve Francii to bylo 65 %. Vláda nyní ambiciózně cílí na čtvrtinu do roku 2050, což znamená rozšíření kapacity o 40 GW. Mluvčí ministerstva pro energetickou bezpečnost a nulové emise prohlásil, že země „odemkne zlatý věk jaderné energie“ podporou velkých projektů jako Sizewell C (3,2 GW, provoz od 2030) a malých modulárních reaktorů (SMR), které slouží k rychlejšímu nasazení v průmyslových oblastech. SMR, vyvíjené firmami jako Rolls-Royce, umožňují tovární výrobu modulů o výkonu 300–500 MW, což snižuje rizika oproti obřím customizovaným reaktorům.
+Aktuální ambice pocházejí z potřeby stabilního, nízkouhlíkového zdroje, který slouží jako základní zatížení pro proměnlivé obnovitelné zdroje jako větrné a solární elektrárny. Mluvčí ministerstva pro energetickou bezpečnost a nulové emise prohlásil, že země podporuje širokou škálu projektů – od velkých elektráren po menší modulární reaktory (SMR). Tyto malé reaktory, které firmy jako Rolls-Royce vyvíjejí, slouží k decentralizované výrobě energie s kratšími dobou stavby a nižšími riziky. Nicméně Británie nyní patří mezi nejdražší lokality pro jaderné investice kvůli regulačním zpožděním, rostoucím nákladům na materiály a nedostatku zkušeností po desetiletích stagnace.
 
-Geopolitické faktory, jako válka na Ukrajině, zvýšily ceny plynu a zdůraznily potřebu energetické nezávislosti. Jaderná energie poskytuje stabilní bazovou dodávku, která doplňuje větrné a solární zdroje s jejich výkyvy. Konzultantka Doreen Abeysundra z Fresco Cleantech, firmy zaměřené na čisté technologie, pozoruje rostoucí dynamiku, ale upozorňuje na rizika: britské projekty trpí chronickými zpožděními a náklady, které převažují výhody oproti obnovitelným zdrojům.
+Geopolitické faktory, jako válka na Ukrajině, zvýšily tlak na energetickou soběstačnost a snížily závislost na ruském plynu. Podle Doreen Abeysundry z konzultační firmy Fresco Cleantech, specializující se na čisté technologie, existuje zřetelný impuls k obnově. Přesto projekty jako Hinkley Point C, také od EDF, trpí miliardovými překročeními rozpočtu a zpožděními, což ilustruje systémové problémy.
 
 ## Proč je to důležité
-Tento plán ovlivní evropský energetický trh, kde Velká Británie může sloužit jako testovací polygon pro SMR technologie, potenciálně exportovatelné do zemí jako Polsko nebo Česko. Pro průmysl znamená stabilnější dodávky energie pro datová centra AI a elektromobilitu, kde poptávka roste exponenciálně. Nicméně vysoké náklady (např. 30–50 liber/MWh oproti 40 liber/MWh u větru) a rizika bezpečnosti brzdí rychlý pokrok. V širším kontextu energetické transformace posiluje jaderná energie roli nízkouhlíkových zdrojů, ale vyžaduje regulační reformy, aby se vyhnula opakování minulých chyb.
+Jaderná energie poskytuje stabilní výkon nezávislý na počasí, což je klíčové pro datová centra AI a IT infrastrukturu, která spotřebovává stále více energie. Průlom v jádře by podpořil růst AI modelů, kde energetická omezení brzdí škálování velkých jazykových modelů (LLM) a trénink na GPU clusterech. Pro průmysl znamená britské ambice signál pro evropský trh: úspěch by snížil náklady na SMR a urychlil nasazení, ale selhání by prohloubilo závislost na dovozu. V širším kontextu energetické transformace pomáhá jádro dosáhnout nulových emisí do 2050 bez kompromisů v dodávkách, což ovlivní ceny elektřiny pro tech firmy jako Google nebo Microsoft, investující do vlastních jaderných reaktorů.
 
 ---
 

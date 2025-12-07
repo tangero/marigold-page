@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: kryptoměny
 date: '2025-12-06 02:34:56'
-description: Strive naléhá na MSCI, aby přehodnotilo plošný zákaz firem s velkými
-  držbami Bitcoinu, protože by to investorům omezilo přístup k rychle rostoucím sektorům
-  AI a digitálních aktiv.
+description: Strive naléhá na MSCI, aby přehodnotilo svůj plošný zákaz firem s vysokým
+  podílem Bitcoinu v pokladně, s argumentem, že by to investory zbavilo přístupu k
+  rychle rostoucím sektorům AI a digitálních aktiv.
 importance: 3
 layout: tech_news_article
 original_title: Strive calls on MSCI to rethink its ‘unworkable’ Bitcoin blacklist
@@ -14,31 +14,31 @@ source:
   emoji: 📰
   id: null
   name: Cointelegraph
-title: Strive vyzývá MSCI k přehodnocení svého ‚nefunkčního‘ blacklistu Bitcoinu
+title: Strive vyzývá MSCI k přehodnocení svého 'nefunkčního' černého seznamu Bitcoinu
 url: https://cointelegraph.com/news/msci-exclusion-btc-firms-is-unworkable-strive-ceo
 urlToImage: https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af145-8a5c-7c16-8973-b6367d7e729d
 urlToImageBackup: https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af145-8a5c-7c16-8973-b6367d7e729d
 ---
 
 ## Souhrn
-Společnost Strive, 14. největší veřejně obchodovaná firma s bitcoinovými pokladnovými rezervami, vyzvala indexového poskytovatele MSCI k přehodnocení návrhu vyloučit firmy, jejichž digitální aktiva tvoří více než 50 procent celkových aktiv. Podle CEO Matta Cola by takové vyloučení snížilo expozici pasivních investorů vůči růstovým odvětvím, včetně AI infrastruktury. Strive argumentuje, že bitcoinoví minéři jako MARA Holdings nebo Riot Platforms se diverzifikují do datových center pro AI výpočty.
+Společnost Strive, 14. největší veřejně obchodovaná firma s bitcoinovou pokladnou na Nasdaqu, poslala dopis předsedovi a CEO MSCI Henrymu Fernandezovi, v němž vyzývá k přehodnocení plánovaného vyloučení firem, jejichž digitální aktiva tvoří více než 50 % celkových aktiv, z indexů MSCI. Podle Strive by toto opatření omezilo pasivním investorům expozici vůči růstovým oblastem jako AI a digitální aktiva. CEO Matt Cole argumentuje, že bitcoinoví minéři se diverzifikují do infrastruktury pro AI výpočty.
 
 ## Klíčové body
-- Strive poslala otevřený dopis předsedovi a CEO MSCI Henrymu Fernandezovi s výzvou „nechat trh rozhodnout“.
-- Navrhované vyloučení by zasáhlo firmy jako MARA Holdings, Riot Platforms a Hut 8, které tvoří více než polovinu aktiv v Bitcoinech.
-- Bitcoinoví minéři využívají své datové centra a přístup k energii pro podporu AI výpočtů, kde je poptávka po elektrické energii klíčovým limitujícím faktorem.
-- Analytikové JPMorgan varují, že firma Strategy by mohla přijít o 2,8 miliardy USD, pokud bude z indexu MSCI World vyloučena.
-- Předseda Strategy Michael Saylor jedná s MSCI ohledně tohoto problému.
+- Strive označuje návrh MSCI za 'nefunkční' a vyzývá k tomu, aby 'trh rozhodl' o zařazení bitcoinových firem do pasivních investic.
+- Cílené firmy: bitcoinoví minéři jako MARA Holdings, Riot Platforms a Hut 8, kteří budují datová centra pro AI.
+- Potenciální dopad: Analytikům JPMorgan podle nich hrozí MicroStrategii (označené jako Strategy) ztráta 2,8 miliardy dolarů, pokud MSCI návrh prosadí.
+- Michael Saylor z MicroStrategy komunikuje s MSCI ohledně problému.
+- Strive zdůrazňuje rostoucí roli bitcoinových minerů v AI díky přístupu k energii.
 
 ## Podrobnosti
-MSCI, globální poskytovatel indexů používaných pro pasivní investiční fondy jako ETF, zvažuje vyloučení firem, jejichž více než 50 procent aktiv tvoří digitální aktiva, především Bitcoin. Tento návrh by postihl takzvané bitcoinové treasury firmy, které drží Bitcoin jako součást svých rezerv místo tradičních aktiv. Strive, notovaná na Nasdaq a zaměřená na bitcoinové treasury strategie, se stala jednou z 14 největších takových firem.
+MSCI, globální poskytovatel indexů používaných pro pasivní fondy a ETF, navrhuje vyloučit z nich firmy, jejichž podíl digitálních aktiv překročí 50 % celkových aktiv. Tento krok by postihl především bitcoinové treasury firmy jako MicroStrategy, Metaplanet nebo zmíněné minéry. Strive, která sama drží bitcoinovou pokladnu, tvrdí v dopise z 6. prosince 2025, že takové vyloučení by selhalo v zachycení firem, které MSCI zamýšlí indexovat, a zároveň by snížilo expozici investorů vůči rychle rostoucím sektorům.
 
-CEO Matta Cole ve svém dopise zdůrazňuje, že takové vyloučení by investorům omezilo přístup k firmám na předním okraji AI vývoje. Bitcoinoví minéři jako MARA Holdings (dříve Marathon Digital, specializovaná na těžbu Bitcoinu pomocí specializovaných ASIC čipů), Riot Platforms (těžba Bitcoinu s vlastními elektrárnami) a Hut 8 (těžba a provoz datových center) investují do rozšíření svých zařízení. Tyto firmy mají výhodu díky existující infrastruktuře pro vysoký výkon – velké datové centra s přímým přístupem k levné elektrické energii, což je v současnosti největší překážka pro škálování AI modelů. Analytikové poukazují, že závod v AI je omezen nejen polovodiči, ale především dostupností energie pro trénink velkých jazykových modelů (LLM) a inference.
+CEO Matt Cole poukazuje na diverzifikaci bitcoinových minerů. Firmy jako MARA Holdings (dříve Marathon Digital), Riot Platforms a Hut 8, specializující se na těžbu bitcoinu pomocí specializovaných ASIC minerů, přestavují své zařízení na datová centra pro AI. Tyto minery disponují velkými kapacitami pro výrobu energie a chlazení, což je klíčové pro AI tréninkové clustery s tisíci GPU. Cole cituje analytiky, kteří tvrdí, že závod v AI je omezen přístupem k elektrické energii spíše než k polovodičům. Například datová centra pro modely jako GPT nebo Llama vyžadují gigawatty energie, kde minéři s existující infrastrukturou v oblastech s levnou energií (např. Texas) mají výhodu.
 
-Například MARA Holdings a Riot Platforms plánují přeměnit část svých miningových zařízení na AI datové centra, kde poskytují výpočetní výkon pro cloudové služby. I přes příliv příjmů z AI zůstane Bitcoin součástí jejich bilancí, což by podle Strive vedlo k nepřiměřenému vyloučení. Další postižené by byly firmy jako Strategy (dříve MicroStrategy, známá agresivním nákupem Bitcoinu jako hedge proti inflaci) nebo Metaplanet, které nabízejí strukturované finanční produkty podobné dluhopisům krytým Bitcoinem. JPMorgan odhaduje, že vyloučení Strategy z indexu MSCI World by snížilo příliv kapitálu o 2,8 miliardy USD, což by ovlivnilo cenu akcií a likviditu.
+MicroStrategy, vedená Michaelem Sayloren, je největším korporátním držitelem bitcoinu a její akcie jsou v indexu MSCI World. JPMorgan varoval, že vyloučení by mohlo vést k odlivu až 2,8 miliardy dolarů z jejich akcií, protože pasivní fondy sledující index by musely prodat. Saylor potvrdil komunikaci s MSCI. Strive navíc zmiňuje růst strukturovaného financování bitcoinu, kde firmy jako MicroStrategy nabízejí investořům exponovaným produktům podobným strukturovaným dluhopisům.
 
 ## Proč je to důležité
-Tento spor odhaluje napětí mezi tradičními indexy a novými technologickými trendy. Pasivní investice sledující indexy MSCI představují biliony dolarů, takže vyloučení by omezilo tok kapitálu do bitcoinových minerů, kteří se stávají klíčovými hráči v AI infrastruktuře. Pro průmysl AI to znamená potenciální nedostatek financí pro firmy s výhodou v energii, což by zpomalilo rozvoj datových center nutných pro trénink modelů jako GPT nebo Gemini. Z kritického pohledu je však Bitcoin volatilní aktivum, jehož dominance v bilancích může ohrozit stabilitu firem; MSCI tak chrání investory před riziky, zatímco diverzifikace do AI je ještě v rané fázi a nezaručená. Dlouhodobě to ovlivní, jak investoři získávají expozici k hybridním krypto-AI firmám v širším technologickém ekosystému.
+Tento spor ovlivní přístup institucionálních investorů k bitcoinovým firmám, které se stávají klíčovými pro AI infrastrukturu. Energie je skutečně úzkým hrdlem pro škálování AI – datová centra OpenAI nebo Google spotřebovávají ekvivalent energie malých zemí. Pokud MSCI prosadí blacklist, mohlo by to způsobit pokles akciových kurzů a omezit kapitál pro expanzi do AI. Naopak úspěšné vyjednávání by posílilo propojení krypta s AI sektorem, kde minéři mohou poskytovat edge computing nebo hosting pro inference modelů. Pro průmysl to znamená riziko fragmentace indexů a nutnost aktivního investování do těchto oblastí, což by zvýšilo náklady pro fondy. V širším kontextu podtrhuje, jak se bitcoinová ekosystém adaptuje na AI boom, ale závisí na regulačních a indexových rozhodnutích.
 
 ---
 
