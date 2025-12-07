@@ -2,45 +2,45 @@
 author: Marisa Aigen
 category: datová centra
 date: '2025-12-06 03:24:50'
-description: „Stavíme tyto věci tak rychle, že než jsou online a aktivovány, problémy
-  jsou už zabudované.“ Od svého návratu do úřadu se prezident Trump zaměřil na pokrok
-  umělé inteligence (AI) jako klíčový bod své druhé administrativy, což urychluje
-  výstavbu datových center s negativními dopady na místní obyvatele.
+description: „Stavíme tyto věci tak rychle, že než jsou online a aktivní, problémy
+  jsou už zabudované.“ Od návratu do úřadu se prezident Trump zaměřil na pokrok umělé
+  inteligence (AI) jako klíčový bod své druhé administrativy.
 importance: 3
 layout: tech_news_article
 original_title: AI Data Centers Are Wreaking Havoc On Local Communities Across America
 people:
-- President Trump
+- Donald Trump
 publishedAt: '2025-12-06T03:24:50+00:00'
 slug: ai-data-centers-are-wreaking-havoc-on-local-commun
 source:
   emoji: 📰
   id: null
   name: Freerepublic.com
-title: Datová centra pro AI způsobují problémy místním komunitám po celých Spojených
-  státech
+title: Datová centra pro AI způsobují chaos v místních komunitách po celých USA
 url: https://freerepublic.com/focus/f-bloggers/4356167/posts
 ---
 
-## Souhrn
-Datová centra určená pro umělou inteligenci (AI) rychle rostou v USA díky politické podpoře prezidenta Trumpa, který nedávno podepsal výkonný příkaz o misi „Genesis Mission“ zaměřené na AI vědecký výzkum. Tyto zařízení však spotřebovávají obrovské množství půdy, elektřiny a vody, což zvyšuje náklady pro místní komunity. Kritici upozorňují, že infrastruktura nestíhá tento růst.
+### Souhrn
+Datová centra pro AI rychle rostou v USA díky podpoře prezidenta Trumpa, včetně nové iniciativy Genesis Mission, ale způsobují vážné problémy místním komunitám kvůli obrovské spotřebě půdy, elektřiny a vody. To zvyšuje náklady na energie a zdroje pro obyvatele a odhaluje nedostatečnou infrastrukturu. Kritici jako Daniel Turner z organizace Power the Future varují, že tempo výstavby překonává možnosti přípravy.
 
-## Klíčové body
-- Prezident Trump spustil „Genesis Mission“ pro urychlení AI ve vědeckém výzkumu a federálním vývoji.
-- Datová centra pro AI potřebují specializovanou infrastrukturu včetně výpočetních systémů, sítí, úložišť a chlazení pro zpracování AI úloh.
-- Spotřeba elektřiny a vody roste exponenciálně, což zatěžuje místní sítě a zvyšuje ceny pro obyvatele.
-- Daniel Turner z organizace Power the Future varuje, že USA nejsou připraveny na takový nárůst spotřeby energie.
-- Problémy jsou už zabudované do rychle stavaných zařízení.
+### Klíčové body
+- Prezident Trump spustil Genesis Mission pro urychlení vědeckého výzkumu pomocí AI.
+- Datová centra pro AI spotřebovávají obrovské množství elektřiny, vody a půdy, což zvyšuje ceny pro místní obyvatele.
+- Podle Daniela Turnera z Power the Future (organizace zaměřená na energetickou politiku) není infrastruktura připravená na růst AI.
+- Data centra jsou vybavena pokročilými compute, síťovými a chladicími systémy pro AI workloads.
+- Problémy se projevují již nyní v několika amerických oblastech.
 
-## Podrobnosti
-Datová centra pro AI jsou specializovaná zařízení navržená pro trénování, nasazení a provoz AI aplikací a služeb. Podle společnosti IBM obsahují pokročilé výpočetní architektury, sítě, úložiště a systémy pro energetiku a chlazení, které zvládají náročné AI úlohy jako trénování velkých jazykových modelů (LLM). Tyto modely, jako GPT nebo Claude, vyžadují tisíce grafických procesorů (GPU) běžících nepřetržitě, což vede k extrémní spotřebě energie – jedno takové centrum může spotřebovat tolik elektřiny jako malé město.
+### Podrobnosti
+Od svého návratu do Bílého domu se prezident Trump soustředí na umělou inteligenci jako na strategický prvek druhé administrativy. Minulý týden podepsal výkonný příkaz o spuštění Genesis Mission, což je národní iniciativa zaměřená na využití AI k transformaci vědeckého výzkumu a zrychlení objevů. Cílem je do deseti let výrazně zvýšit produktivitu federálních výzkumů a vývoje. Tato podpora urychluje výstavbu datových center, která slouží k tréninku, nasazení a provozu AI aplikací a služeb.
 
-Prezident Trump po svém návratu do Bílého domu podepsal výkonný příkaz o „Genesis Mission“, národní iniciativě, která má transformovat vědecký výzkum pomocí AI a urychlit objevy. Cílem je do deseti let zvýšit produktivitu federálního výzkumu a vývoje. Tento tlak na rychlý růst AI však odhaluje slabiny v infrastruktuře. Daniel Turner, zakladatel a výkonný ředitel neziskovky Power the Future, která se zaměřuje na energetickou politiku, prohlásil v rozhovoru pro The Federalist: „Nárůst spotřeby elektřiny je bezprecedentní a nejsme vůbec připraveni na to, co AI přinese.“ Podle něj se problémy objevují již při stavbě: centra zabírají velké plochy půdy, zatěžují elektrické sítě a vyžadují obrovské objemy vody pro chlazení serverů.
+Podle definice IBM jsou tato data centra specializovaná zařízení s pokročilou IT infrastrukturou, včetně výkonných procesorů (compute), síťových architektur, úložišť a systémů pro chlazení a energetiku, navržených pro náročné AI workloads. Tyto zařízení vyžadují enormní množství energie – například trénink velkých jazykových modelů (LLM) jako GPT nebo podobných spotřebovává ekvivalent spotřeby stovek domácností. K tomu přichází chlazení, které v horkých oblastech žere tisíce litrů vody denně, a zabírání rozsáhlých ploch půdy, často na okrajích měst.
 
-V posledních měsících se objevily zprávy z různých států, kde místní obyvatelé čelí vyšším účtům za elektřinu a vodu. Například v oblasti kolem Atlanty v Georgii plánované centra od Microsoftu a Google vyvolala protesty kvůli riziku výpadků proudu. Podobně v severní Virginii, kde je největší koncentrace datových center na světě, roste tlak na místní zdroje. AI trénink jednoho modelu může spotřebovat energie odpovídající spotřebě stovek domácností za rok, a s rostoucím počtem center (očekává se zdvojnásobení do 2030) se problémy stupňují. Navíc, rychlost stavby znamená, že regulační a environmentální kontroly často zaostávají.
+V posledních měsících se v USA objevily zprávy o dopadech v konkrétních lokalitách. V Arizoně a Texasu stoupají ceny elektřiny kvůli přetížení sítí, zatímco v jiných státech dochází k nedostatku vody pro zavlažování zemědělství. Daniel Turner, zakladatel a výkonný ředitel Power the Future – neziskovky kritizující neefektivní energetické politiky –, v rozhovoru pro The Federalist zdůraznil: „Přírůstek spotřeby elektřiny je bezprecedentní a nejsme na AI připraveni. Jen začínáme odhalovat povrch.“ Turner poukazuje na to, že výstavba probíhá tak rychle, že problémy – jako nedostatek přenosových sítí nebo zdrojů – jsou zabudované před aktivací zařízení.
 
-## Proč je to důležité
-Růst AI datových center odráží širší trend v technologickém ekosystému, kde pokrok v AI závisí na masivní infrastruktuře, ale ignoruje udržitelnost. Pro průmysl to znamená riziko zpomalení expanze kvůli energetickým limitům – například NVIDIA a AMD hlásí nedostatek GPU částečně kvůli energetickým omezením. Pro uživatele a komunity to přináší vyšší náklady na život a potenciální výpadky. V USA, kde je 80 % globálních hyperskálových center, to ohrožuje energetickou bezpečnost. Bez investic do jaderné energie nebo obnovitelných zdrojů (jako navrhuje Turner) hrozí, že AI růst se zasekne, což ovlivní inovace v medicíně, dopravě či výzkumu. Kritický pohled ukazuje, že politická podpora AI bez paralelního rozvoje infrastruktury vede k sociálním a environmentálním konfliktům.
+Jako expert na AI a IT vidím zde systémový problém: růst AI závisí na škálovatelných datových centrech s GPU clustery, ale bez paralelního rozvoje energetické infrastruktury (např. nové elektrárny nebo obnovitelné zdroje) dojde k kolapsu. Firmy jako Microsoft nebo Google, které data centra staví, často uzavírají dohody o prioritním přístupu k elektřině, což penalizuje obyvatele.
+
+### Proč je to důležité
+Tento trend ohrožuje udržitelnost AI expanze v USA, kde data centra již spotřebovávají 2–3 % celkové elektřiny a do roku 2030 by mohly dosáhnout 10 %. Pro průmysl to znamená rizika výpadků a regulační tlaky, pro uživatele vyšší ceny energií. V širším kontextu to nutí přehodnotit plánování: bez investic do jaderné energie nebo efektivnějších chlazeních (např. immersion cooling) se AI pokrok zpomalí. Trumpova Genesis Mission podtrhuje prioritu AI, ale ignoruje tyto limity, což může vést k sociálním konfliktům v postižených komunitách.
 
 ---
 

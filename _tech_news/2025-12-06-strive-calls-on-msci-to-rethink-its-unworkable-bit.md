@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: kryptoměny
 date: '2025-12-06 02:34:56'
-description: Strive naléhá na MSCI, aby přehodnotilo svůj plošný zákaz firem s vysokým
-  podílem Bitcoinu v pokladně, protože by to investory zbavilo expozice vůči rychle
-  rostoucím sektorům umělé inteligence a digitálních aktiv.
+description: Strive naléhá na MSCI, aby přehodnotilo plošný zákaz firem s velkými
+  držbami Bitcoinu, protože by to investorům omezilo přístup k rychle rostoucím sektorům
+  AI a digitálních aktiv.
 importance: 3
 layout: tech_news_article
 original_title: Strive calls on MSCI to rethink its ‘unworkable’ Bitcoin blacklist
@@ -21,22 +21,24 @@ urlToImageBackup: https://images.cointelegraph.com/cdn-cgi/image/format=auto,one
 ---
 
 ## Souhrn
-Společnost Strive, 14. největší veřejně obchodovaná firma držící Bitcoin v pokladně a notovaná na Nasdaqu, poslala dopis předsedovi a generálnímu řediteli MSCI Henrymu Fernandezovi. Vyzývá ho k přehodnocení návrhu na vyloučení firem, jejichž podíl digitálních aktiv přesahuje 50 procent celkových aktiv, z indexů MSCI. Argumentuje, že takový krok by pasivním investorům omezil přístup k růstovým sektorům jako umělá inteligence a Bitcoinová strukturovaná finance.
+Společnost Strive, 14. největší veřejně obchodovaná firma s bitcoinovými pokladnovými rezervami, vyzvala indexového poskytovatele MSCI k přehodnocení návrhu vyloučit firmy, jejichž digitální aktiva tvoří více než 50 procent celkových aktiv. Podle CEO Matta Cola by takové vyloučení snížilo expozici pasivních investorů vůči růstovým odvětvím, včetně AI infrastruktury. Strive argumentuje, že bitcoinoví minéři jako MARA Holdings nebo Riot Platforms se diverzifikují do datových center pro AI výpočty.
 
 ## Klíčové body
-- Strive označuje návrh MSCI za „nefunkční" a tvrdí, že by měl trh rozhodovat o zařazení Bitcoinových firem do pasivních investic.
-- Velcí držení Bitcoinu, jako Bitcoinoví minera MARA Holdings, Riot Platforms a Hut 8, diverzifikují svá datová centra pro napájení AI výpočtů.
-- Vyloučení by postihlo firmy jako MicroStrategy a Metaplanet, které nabízejí investorům strukturované produkty podobné dluhopisům.
-- Analytikové JPMorgan varují, že MicroStrategy by mohla přijít o 2,8 miliardy dolarů, pokud MSCI návrh prosadí.
-- MicroStrategy je v kontaktu s MSCI ohledně problému.
+- Strive poslala otevřený dopis předsedovi a CEO MSCI Henrymu Fernandezovi s výzvou „nechat trh rozhodnout“.
+- Navrhované vyloučení by zasáhlo firmy jako MARA Holdings, Riot Platforms a Hut 8, které tvoří více než polovinu aktiv v Bitcoinech.
+- Bitcoinoví minéři využívají své datové centra a přístup k energii pro podporu AI výpočtů, kde je poptávka po elektrické energii klíčovým limitujícím faktorem.
+- Analytikové JPMorgan varují, že firma Strategy by mohla přijít o 2,8 miliardy USD, pokud bude z indexu MSCI World vyloučena.
+- Předseda Strategy Michael Saylor jedná s MSCI ohledně tohoto problému.
 
 ## Podrobnosti
-MSCI, globální poskytovatel indexů používaných pro pasivní investice jako ETF, navrhuje vyloučit z indexů jako MSCI World firmy, kde digitální aktiva tvoří více než polovinu aktiv. Strive, firma zaměřená na držbu Bitcoinu v podnikových pokladnách, tvrdí, že tento přístup je chybný. Podle generálního ředitele Matta Colea by vyloučení omezilo investory v expozici vůči firmám na předním okraji umělé inteligence. Bitcoinoví minera, jako MARA Holdings (dříve Marathon Digital), Riot Platforms a Hut 8, původně těžili Bitcoin pomocí specializovaných zařízení, ale nyní přestavují svá datová centra na infrastrukturu pro AI. Tyto centra poskytují nejen výpočetní výkon, ale především přístup k elektrické energii, která je pro trénink velkých jazykových modelů (LLM) jako GPT nebo Gemini stále větším limitujícím faktorem. Cole uvádí, že „závod v umělé inteligenci je omezen přístupem k energii, nikoliv polovodičům". I když tyto firmy rozvíjejí AI příjmy, jejich Bitcoinové držby zůstanou, což by podle Strive vedlo k nepřiměřenému vyloučení.
+MSCI, globální poskytovatel indexů používaných pro pasivní investiční fondy jako ETF, zvažuje vyloučení firem, jejichž více než 50 procent aktiv tvoří digitální aktiva, především Bitcoin. Tento návrh by postihl takzvané bitcoinové treasury firmy, které drží Bitcoin jako součást svých rezerv místo tradičních aktiv. Strive, notovaná na Nasdaq a zaměřená na bitcoinové treasury strategie, se stala jednou z 14 největších takových firem.
 
-Dalším důsledkem by bylo omezení přístupu k Bitcoinové struktuované financování. Firmy jako MicroStrategy (označovaná v textu jako Strategy), která drží obrovské množství Bitcoinu, a japonská Metaplanet nabízejí investorům produkty podobné strukturovaným dluhopisům, kde je Bitcoin zajištěním. MicroStrategy, vedená Michael Saylor, je jednou z prvních firem, která masivně investovala do Bitcoinu jako do rezervního aktiva. Podle analytiků JPMorgan by její vyloučení z MSCI World Index znamenalo odliv až 2,8 miliardy dolarů z investic. Saylor potvrdil, že firma jedná s MSCI. Strive sám argumentuje, že trh by měl rozhodovat, zda investovat do těchto firem, nikoliv indexový poskytovatel.
+CEO Matta Cole ve svém dopise zdůrazňuje, že takové vyloučení by investorům omezilo přístup k firmám na předním okraji AI vývoje. Bitcoinoví minéři jako MARA Holdings (dříve Marathon Digital, specializovaná na těžbu Bitcoinu pomocí specializovaných ASIC čipů), Riot Platforms (těžba Bitcoinu s vlastními elektrárnami) a Hut 8 (těžba a provoz datových center) investují do rozšíření svých zařízení. Tyto firmy mají výhodu díky existující infrastruktuře pro vysoký výkon – velké datové centra s přímým přístupem k levné elektrické energii, což je v současnosti největší překážka pro škálování AI modelů. Analytikové poukazují, že závod v AI je omezen nejen polovodiči, ale především dostupností energie pro trénink velkých jazykových modelů (LLM) a inference.
+
+Například MARA Holdings a Riot Platforms plánují přeměnit část svých miningových zařízení na AI datové centra, kde poskytují výpočetní výkon pro cloudové služby. I přes příliv příjmů z AI zůstane Bitcoin součástí jejich bilancí, což by podle Strive vedlo k nepřiměřenému vyloučení. Další postižené by byly firmy jako Strategy (dříve MicroStrategy, známá agresivním nákupem Bitcoinu jako hedge proti inflaci) nebo Metaplanet, které nabízejí strukturované finanční produkty podobné dluhopisům krytým Bitcoinem. JPMorgan odhaduje, že vyloučení Strategy z indexu MSCI World by snížilo příliv kapitálu o 2,8 miliardy USD, což by ovlivnilo cenu akcií a likviditu.
 
 ## Proč je to důležité
-Tento spor odhaluje napětí mezi tradičními indexy a růstovými sektory spojenými s kryptoměnami a umělou inteligencí. Pasivní investice sledující MSCI indexy představují biliony dolarů, takže vyloučení by mohlo významně ovlivnit liquiditu a valuaci Bitcoinových firem. Pro průmysl umělé inteligence je klíčové, že Bitcoinoví minera řeší nedostatek energie – datová centra pro AI spotřebovávají enormní množství elektřiny, často snižující efektivitu sítí. Pokud MSCI návrh prosadí, mohlo by to způsobit přesun kapitálu pryč od těchto infrastrukturních hráčů, což by zpomalilo expanzi AI. Naopak, ponechání by investorům umožnilo nepřímo investovat do AI infrastruktury přes firmy s Bitcoinovými pokladnami. V širším kontextu to ukazuje, jak se kryptoměny proplétají s klíčovými technologiemi, jako je AI, kde energie je novou lahvíčkou.
+Tento spor odhaluje napětí mezi tradičními indexy a novými technologickými trendy. Pasivní investice sledující indexy MSCI představují biliony dolarů, takže vyloučení by omezilo tok kapitálu do bitcoinových minerů, kteří se stávají klíčovými hráči v AI infrastruktuře. Pro průmysl AI to znamená potenciální nedostatek financí pro firmy s výhodou v energii, což by zpomalilo rozvoj datových center nutných pro trénink modelů jako GPT nebo Gemini. Z kritického pohledu je však Bitcoin volatilní aktivum, jehož dominance v bilancích může ohrozit stabilitu firem; MSCI tak chrání investory před riziky, zatímco diverzifikace do AI je ještě v rané fázi a nezaručená. Dlouhodobě to ovlivní, jak investoři získávají expozici k hybridním krypto-AI firmám v širším technologickém ekosystému.
 
 ---
 

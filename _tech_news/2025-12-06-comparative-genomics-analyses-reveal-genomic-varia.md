@@ -2,10 +2,9 @@
 author: Marisa Aigen
 category: genomika
 date: '2025-12-06 00:00:00'
-description: Vědci provedli komparativní analýzu genomů 24 sestav na úrovni chromozomů
-  a dat genome skimming pro 204 druhy orchidejí rodu Dendrobium. Studie ukazuje, jak
-  genetická konzervace souvisí s environmentální adaptabilitou a jak tektonické pohyby
-  a změny klimatu ovlivnily diverzifikaci druhů.
+description: Výzkum analyzuje 24 chromozomálních sestav genomů a data genome skimming
+  pro 204 druhů rodu Dendrobium. Odhaluje souvislosti mezi genomovou konzervací, environmentální
+  adaptabilitou a diverzitou druhů ovlivněnou tektonickými změnami a klimatem.
 importance: 3
 layout: tech_news_article
 original_title: Comparative genomics analyses reveal genomic variation and evolutionary
@@ -16,30 +15,32 @@ source:
   emoji: 📰
   id: null
   name: Nature.com
-title: Komparativní genomové analýzy odhalují genomovou variabilitu a evoluční adaptaci
-  u orchidejí rodu Dendrobium
+title: Komparativní analýzy genomů odhalují genomovou variabilitu a evoluční adaptaci
+  u orchidej rodu Dendrobium
 url: https://www.nature.com/articles/s41467-025-66688-7
 ---
 
 ## Souhrn
-Výzkum analyzuje genomy 24 druhů orchidejí Dendrobium na úrovni chromozomů a data genome skimming pro 204 druhů. Odhaluje genomovou variabilitu spojenou s evoluční adaptací na prostředí a vysvětluje diverzifikaci druhů vlivem komprese indické desky, změn hladiny moře a srážek. Studie identifikuje klíčové geny jako CYP734A50 v systému samo-nekompatibility.
+Výzkum představuje komparativní genomovou analýzu 24 chromozomálních sestav genomů a dat genome skimming pro 204 druhy orchidej rodu Dendrobium. Autoři identifikují vysokou genetickou konzervaci spojenou s adaptací na prostředí a vysvětlují diverzitu druhů vlivem komprese indické tektonické desky, změn hladiny moře a srážek. Klíčovou roli v self-incompatibility (SI) hraje gen CYP734A50, přičemž type-1 SI systém mizí deletací celého S-locus.
 
 ## Klíčové body
-- Genetická konzervace v Dendrobium podporuje adaptaci na epifytické a lithofytní prostředí.
-- Diverzifikace druhů poháněna tektonickými změnami a klimatickými fluktuacemi.
-- Gen CYP734A50 hraje roli v samo-nekompatibilitě (SI), kde typ-1 SI zmizel deletací S-locusu.
-- Data uložena v China National GeneBank (CNGB) pod accessiony jako CNP0005985.
-- Poskytuje insights do evoluce orchidejí a diverzifikace krytosemenných rostlin.
+- Analýza 24 chromozomálních genomů a skimming dat pro 204 druhů Dendrobium.
+- Genomová konzervace podporuje environmentální adaptabilitu.
+- Diverzita druhů poháněna geologickými změnami: komprese indické desky, kolísání hladiny moře a změny srážek.
+- Gen CYP734A50 spojený se self-incompatibility u SI druhů; ztráta type-1 SI skrz deleci S-locus.
+- Data uložena v China National GeneBank (CNGB) pod accessiony jako CNP0005985 pro D. spatella.
 
 ## Podrobnosti
-Rod Dendrobium zahrnuje převážně epifytické (žijící na jiných rostlinách) a lithofytní (na skalách) orchideje, což vyžaduje specifickou adaptaci na nestabilní prostředí. Autoři sestavili 24 genomů na chromosome-level, což znamená vysokou přesnost sestavení sekvencí odpovídající celým chromozomům, a použili genome skimming – metodu sekvenování nízkého pokrytí pro rychlou analýzu více druhů. Tato data pro 204 druhů umožnila komparativní analýzu, která odhalila vysokou genetickou konzervaci, což vysvětluje širokou adaptabilitu rodu na různé tropické a subtropické podmínky.
+Rod Dendrobium zahrnuje převážně epifytické a lithofytní orchideje, jehož diverzita a mechanismy speciace zůstávají nedostatečně objasněny na molekulární úrovni. Tento výzkum kombinuje 24 vysoce kvalitních chromozomálních sestav genomů s daty genome skimming, což umožňuje širokou komparativní analýzu. Genome skimming zahrnuje nízkou hloubku sekvenování pro rychlou identifikaci polymorfních oblastí a chloroplastních genomů, což je efektivní pro velké taxony.
 
-Diverzifikace druhů je spojena s geologickými událostmi: komprese indické tektonické desky způsobila zvětšení suchozemských oblastí, zatímco kolísání hladiny moře a srážek vytvořilo nové ekologické niky. Například v samo-nekompatibilních (SI) druzích hraje gen CYP734A50 roli v regulaci pylového trubice, což brání samoopelení. Ztráta typ-1 SI systému proběhla deletací celého polymorfního S-locusu, což umožnilo přechod k samo-slučitelnosti a urychlilo šíření.
+Výsledky ukazují, že vysoká genomová konzervace v Dendrobium souvisí s adaptací na různá prostředí, jako jsou tropické lesy nebo skalní substráty. Speciace byla ovlivněna především kompresí indické tektonické desky, která způsobila fragmentaci habitatů, společně se změnami hladiny moře a kolísáním srážek během pleistocénu. Tyto faktory vedly k izolaci populací a rychlé diverzifikaci.
 
-Studie zahrnuje de novo sekvenování osmi druhů (např. D. spatella pod CNP0005985, D. exile pod CNP0005980) a Hi-C data pro scaffolding chromozomů. Tato technologie, založená na interakcích chromatinu, zajišťuje přesné uspořádání sekvencí. Výsledky ukazují na syntézu sekundárních metabolitů a adaptivní evoluce, což je klíčové pro pochopení, jak genomy ovlivňují morfologii květů a tolerance k suchu. Data jsou veřejně dostupná v CNGB Nucleotide Sequence Archive, což umožňuje další výzkumy v fylogenomice a porovnávací genomice orchidejí.
+V oblasti reprodukce byl identifikován gen CYP734A50, který pravděpodobně hraje roli v self-incompatibility (SI) systémech, kde brání samoopelení. U některých druhů došlo k úplné ztrátě type-1 SI skrz deleci celého single polymorphic locus (S-locus), což umožňuje samoopelení a podporuje kolonizaci nových oblastí. Tato data poskytují genetický základ pro variabilitu, biosyntézu látek a adaptivní evoluci.
+
+Surová sekvenační data, Hi-C mapy a sestavy genomů pro osm nově sekvenovaných druhů (např. D. spatella pod CNP0005985, D. exile pod CNP0005980) jsou dostupná v CNGB Nucleotide Sequence Archive. Podobné studie, jako pangenerická analýza Dendrobium z ledna 2025 nebo genom D. chrysotoxum z roku 2021, doplňují kontext evoluce orchidej.
 
 ## Proč je to důležité
-Tato práce poskytuje genetický základ pro pochopení diverzifikace Orchidaceae, největší rodiny rostlin s přes 28 000 druhy, což má aplikace v konzervaci a šlechtění. V kontextu biotech umožňuje lepší sekvenační technologie jako genome skimming masivní screening, podobně jako v zemědělských kulturách. Pro průmysl to znamená potenciál pro vývoj odolných odrůd orchidejí v zahradnictví a farmacie, kde Dendrobium slouží jako zdroj alkaloidů. V širším ekosystému genomiky to posiluje porozumění adaptivní evoluci u krytosemenných, což může informovat modely klimatické změny a biodiverzity.
+Tento výzkum posiluje porozumění genomové evoluci orchidej, největší rodiny kvetoucích rostlin, a angiospermů obecně. Nabízí data pro šlechtění odolných odrůd, konzervaci ohrožených druhů a bioinformatické modely predikce adaptace. V širším kontextu podtrhuje roli integrace geologie, klimatologie a genomiky v evolučních studiích, s potenciálem pro aplikace v zemědělství a ekologii. Pro bioinformatiky poskytuje velký dataset pro trénink algoritmů sekvenování a fylogenetické analýzy.
 
 ---
 

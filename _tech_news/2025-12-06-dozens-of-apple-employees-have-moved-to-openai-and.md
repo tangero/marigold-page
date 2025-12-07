@@ -6,10 +6,10 @@ companies:
 - OpenAI
 - Meta
 date: '2025-12-06 00:57:20'
-description: Podle Wall Street Journal desítky zaměstnanců Applu, včetně inženýrů
-  a designérů specializovaných na audio, design hodinek a robotiku, odešly do OpenAI
-  a Meta. Tyto odchod probíhají v době intenzivní konkurence v oblasti umělé inteligence
-  a vývoje nových zařízení.
+description: Podle Wall Street Journal opustilo Apple desítky zaměstnanců, včetně
+  inženýrů a designérů specializovaných na audio, design hodinek a robotiku, kteří
+  zamířili do OpenAI a Meta. Tato odliv talentů probíhá v době, kdy Apple přizpůsobuje
+  svou ekosystém umělé inteligenci.
 importance: 3
 layout: tech_news_article
 original_title: Dozens of Apple Employees Have Moved to OpenAI and Meta in Recent
@@ -20,31 +20,31 @@ source:
   emoji: 📰
   id: null
   name: pymnts.com
-title: Desítky zaměstnanců Applu přešly do OpenAI a Meta v posledních měsících
+title: Desítky zaměstnanců Apple přešly do OpenAI a Meta v posledních měsících
 url: https://www.pymnts.com/apple/2025/dozens-of-apple-employees-have-moved-to-openai-and-meta-in-recent-months/
 urlToImage: https://www.pymnts.com/wp-content/uploads/2025/12/apple-execs-employees-personnel-meta-openai-ai-artificial-intelligence-e1764982165734.jpeg
 urlToImageBackup: https://www.pymnts.com/wp-content/uploads/2025/12/apple-execs-employees-personnel-meta-openai-ai-artificial-intelligence-e1764982165734.jpeg
 ---
 
 ## Souhrn
-Desítky zaměstnanců Applu, především z nižších úrovní hierarchie, přešly v posledních měsících do společností OpenAI a Meta. Wall Street Journal to zjistil analýzou profilů na LinkedIn. Tento trend následuje za nedávnými odchody vrcholových manažerů a probíhá v kontextu Applova přechodu k umělé inteligenci.
+Desítky zaměstnanců z Apple, především inženýrů a designérů z oblastí audio, designu chytrých hodinek a robotiky, přešly v posledních měsících do OpenAI a Meta. Wall Street Journal to zjistil analýzou profilů na LinkedIn. Tento odliv nastává souběžně s odchody vrcholových manažerů a v kontextu rostoucí konkurence v umělé inteligenci.
 
 ## Klíčové body
-- Desítky zaměstnanců z Applu do OpenAI a Meta, zaměření na inženýry audio, design Apple Watch a robotiku.
-- Analýza založená na LinkedIn profilech, publikováno 5. prosince 2025.
-- Souvisí s širšími personálními změnami: odchody generálního právníka, viceprezidenta pro životní prostředí, šéfů designu do Meta a šéfa strojového učení.
-- Apple se přizpůsobuje AI éře, konkurence tlačí na podíl iPhonu.
-- Tim Cook zůstává v čele, akcie na rekordních úrovních navzdory tarifům.
+- Desítky zaměstnanců z Apple odešlo do OpenAI a Meta, včetně specialistů na audio, design Apple Watch a robotiku.
+- Analýza Wall Street Journal vychází z dat LinkedIn z posledních měsíců.
+- Souvisí s širšími personálními změnami: odchody generálního právníka, viceprezidenta pro životní prostředí, šéfů designu do Meta a dlouholetého šéfa strojového učení.
+- Apple se přizpůsobuje éře AI, zatímco konkurenti útočí na dominanci iPhonu.
+- CEO Tim Cook zůstává ve funkci a stabilizoval akcie na rekordních úrovních.
 
 ## Podrobnosti
-Podle zprávy Wall Street Journal, která vychází z prohlídky LinkedIn profilů, opustilo Apple desítky zaměstnanců směrem k OpenAI a Meta. Mezi nimi jsou klíčoví specialisté v oblastech, jako je vývoj audio technologií pro zařízení jako AirPods nebo HomePod, design chytrých hodinek Apple Watch – kde se zaměřují na ergonomie, senzory pro sledování zdraví a integraci s ekosystémem iOS – a robotiku, což zahrnuje vývoj autonomních systémů pro budoucí produkty, jako jsou pokročilé robotické assitenti nebo komponenty pro autonomní vozidla Apple Car (projekt, který byl nedávno zrušen, ale know-how zůstává cenné). OpenAI, známá vývojem velkých jazykových modelů jako GPT série pro generování textu, kódu a obrazů, a Meta, která investuje do AI pro sociální sítě, metaverse a open-source modelů Llama, tak získávají experty z Appla, jehož silnou stránkou je hardware-software integrace.
+Podle zprávy Wall Street Journal z 5. prosince 2025 došlo v posledních měsících k výraznému odlivu zaměstnanců z Apple směrem k OpenAI a Meta. Nejde jen o vrcholové manažery, ale především o střední úroveň – desítky inženýrů a designérů. Mezi klíčovými oblastmi expertise patří audio technologie, které se používají v zařízeních jako AirPods pro zpracování zvuku a potlačení šumu; design chytrých hodinek Apple Watch, kde se řeší ergonomie, senzory pro sledování zdraví a integrace s iOS; a robotika, což zahrnuje vývoj autonomních systémů a hardwaru pro pohybové mechanismy, potenciálně pro budoucí projekty jako domácí roboty nebo pokročilé senzory.
 
-Tento odliv následuje za vlnou změn ve vedení Applu. Během posledních 18 měsíců odešli chief operating officer Jeff Williams do důchodu, role chief financial officer přešla na nového člověka a tento týden bylo oznámeno odchody generálního právníka, viceprezidenta pro životní prostředí, politiku a sociální iniciativy do důchodu, dva šéfové designu do Meta a dlouholetý šéf strojového učení. Strojové učení v Applu slouží k optimalizaci Siri, rozpoznávání obličeje Face ID, predikci klávesnice a nyní i k Apple Intelligence – sadě AI funkcí v iOS 18, které zahrnují generování textu, úpravy fotografií a kontextovou asistenci na zařízeních s čipy A17 Pro nebo M-série.
+Tento trend navazuje na širší personální změny v Apple během posledních 18 měsíců. Nedávno oznámili odchod generálního právníka a viceprezidenta pro životní prostředí, politiku a sociální iniciativy do důchodu. Dva šéfové designu přešli do Meta, které se soustředí na metaverzum a AI nástroje jako Llama modely pro generování obsahu. Dlouholetý šéf strojového učení, zodpovědný za algoritmy jako ty v Siri nebo foto rozpoznávání, plánuje odchod. Dříve odešel chief operating officer a změnil se chief financial officer.
 
-Apple se derou v AI éře, kde konkurenti jako OpenAI spolupracují s Microsoftem na cloudových AI službách a Meta vydává Llama modely pro vývojáře. Nová zařízení, jako iPhone 16 s vylepšeným Neural Engine pro lokální zpracování AI, mají posílit ekosystém. Přesto Tim Cook, který ukázal stabilitu, překonal hrozbu cel a vrátil akcie na historická maxima.
+Apple aktuálně čelí tlaku v éře umělé inteligence. Konkurenti jako OpenAI (vyvíjí modely GPT pro textovou a multimodální generaci) a Meta (investuje do otevřených AI modelů a AR/VR) výrazně posilují své týmy. Apple naopak zpozdil s velkými AI updaty – například Apple Intelligence v iOS 18 přináší lokální AI pro soukromí, ale zaostává za cloudovými giganty v pokročilých schopnostech. Firma vyvíjí nová zařízení optimalizovaná pro AI, jako iPhone s lepším Neural Engine pro on-device inference. Navzdory tomu CEO Tim Cook, který neukazuje známky odchodu, překonal hrozbu cel a vrátil akcie na historická maxima. PYMNTS hlásí, že tyto změny probíhají v době, kdy se iPhone ekosystém stává cílem útoků od Androidu s AI funkcemi a nových AI-first zařízení.
 
 ## Proč je to důležité
-Odliv talentů z Applu do OpenAI a Meta signalizuje intenzivní soutěž o experty v AI a robotice, kde Apple ztrácí know-how v hardware-AI integraci. Pro průmysl to znamená, že OpenAI může zlepšit své modely hardwarovou optimalizací a Meta posílit metaverse projekty robotikou. Uživatelé Applu mohou pocítit zpomalení inovací v Apple Watch nebo Siri, zatímco Apple Intelligence riskuje zaostávání za ChatGPT nebo Gemini. V širším ekosystému to podtrhuje migraci talentů k firmám s agresivnějšími AI strategiemi, což může urychlit vývoj AGI, ale oslabit Applovu dominanci v prémiovém segmentu. Celkově to není krize, ale varovný signál pro Appla v době, kdy AI definuje budoucnost zařízení.
+Odliv talentů z Apple do OpenAI a Meta signalizuje posun v technologickém průmyslu, kde AI specialisté hledají prostředí s rychlejšími inovacemi. Pro Apple to znamená riziko ztráty know-how v klíčových oblastech jako robotika, což by mohlo způsobit zpoždění v projektech podobných Project Titan (autonomní vozy) nebo budoucím robotům. OpenAI a Meta tak získávají výhodu v soutěži o AI dominanci – například robotics expertise posílí OpenAI v projektech jako Figure AI partnerství pro humanoidní roboty. Pro uživatele to znamená potenciálně rychlejší pokroky v AI zařízeních mimo Apple ekosystém, zatímco Apple musí urychlit nábor a retenci. V širším kontextu to podtrhuje, jak lidský kapitál rozhoduje o úspěchu v AI éře, kde firmy jako Meta (s 3 miliardami uživatelů) a OpenAI (s ChatGPT) přitahují talenty lepšími příležitostmi k nasazení pokročilých modelů.
 
 ---
 

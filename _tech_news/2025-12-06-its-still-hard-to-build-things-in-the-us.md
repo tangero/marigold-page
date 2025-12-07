@@ -4,10 +4,10 @@ category: polovodiče
 companies:
 - TSMC
 date: '2025-12-06 02:57:59'
-description: Největší výrobce pokročilých čipů TSMC z Tchaj-wanu čelí větším složitostem
-  při stavbě továren v Arizoně, než očekávalo, přestože první z nich již funguje a
-  druhá je dokončena. Projekt, zahájený za podpory vlády USA, má posílit domácí výrobu
-  čipů kvůli rizikům závislosti na Asii.
+description: Taiwan Semiconductor Manufacturing Company (TSMC), největší světový výrobce
+  pokročilých čipů, čelí v Arizoně větším komplikacím při stavbě fabrik než očekávala.
+  První továrna je již v provozu a druhá dokončená, přesto proces odhaluje systémové
+  problémy v americké výrobní infrastruktuře.
 importance: 4
 layout: tech_news_article
 original_title: It's Still Hard to Build Things in the US
@@ -19,29 +19,29 @@ source:
   emoji: 📰
   id: null
   name: Freerepublic.com
-title: Stavět v USA je stále obtížné
+title: V USA je stále obtížné budovat továrny na čipy
 url: https://freerepublic.com/focus/f-news/4356158/posts
 ---
 
-## Souhrn
-Taiwan Semiconductor Manufacturing Company (TSMC), světový lídr v produkci pokročilých polovodičů, investuje desítky miliard dolarů do výstavby továren v Arizoně. První továrna na výrobu čipů je již v provozu, druhá dokončena dříve než plánováno pro uspokojení poptávky po čipech pro AI, avšak celý proces se ukázal jako výrazně složitější než v Tchaj-wanu.
+### Souhrn
+Taiwan Semiconductor Manufacturing Company (TSMC), dominantní výrobce pokročilých polovodičů pro smartphony, AI a další zařízení, investuje desítky miliard dolarů do výstavby fabrik v Arizoně. Iniciativa začala v roce 2020 za podpory prezidenta Trumpa kvůli obavám z dodavatelského řetězce ovlivněného Čínou. Přestože první továrna funguje a druhá je dokončená předčasně, New York Times hlásí, že složitost stavby překročila očekávání firmy.
 
-## Klíčové body
-- TSMC původně investovalo 12 miliard USD, nyní plánuje více než 120 miliard USD do více továren severně od Phoenixu.
-- První továrna (fab) otevřena a provozní, druhá dokončena v dubnu 2025 s technologií 3 nm pro čipy určené k výpočtům v AI modelích.
-- Podpora od federální a státní vlády USA včetně dotací z CHIPS Actu kvůli obavám z čínské agrese vůči Tchaj-wanu.
-- Hlavní problémy: nedostatek kvalifikovaných pracovníků, kulturní rozdíly a složitější logistika oproti tchajwanskému prostředí.
-- Projekt zahájen v roce 2020 za podílu Donalda Trumpa, který tlačil na diversifikaci dodavatelského řetězce.
+### Klíčové body
+- TSMC původně investovala 12 miliard USD do první fabriky v Arizoně, nyní plánuje výdaje přes 100 miliard USD na více zařízení.
+- První továrna severně od Phoenixu je v provozu, druhá dokončena předčasně pro výrobu čipů na 3nanometrovém procesu pro AI.
+- Výzvy zahrnují nedostatek kvalifikované pracovní síly, regulační překážky a kulturní rozdíly oproti Taiwanu.
+- Projekt podporuje americká vláda dotacemi z CHIPS Actu pro posílení domácí výroby.
+- Zpoždění a vyšší náklady ohrožují plány na rychlou expanzi kvůli poptávce po AI čipech.
 
-## Podrobnosti
-TSMC, firma specializující se na zakázkovou výrobu logických čipů pro klienty jako Apple, Nvidia nebo AMD, je zodpovědná za většinu světové produkce nejpokročilejších polovodičů pod 5 nm. V roce 2020 souhlasila s výstavbou první továrny v Arizoně po tlaku americké vlády, která se obávala závislosti na tchajwanském dodavatelském řetězci v kontextu rostoucího napětí mezi USA a Čínou. Původní investice činila 12 miliard USD v období 2021–2029, ale firma nyní rozšiřuje plány na čtyři továrny s celkovými náklady přes 120 miliard USD.
+### Podrobnosti
+TSMC, taiwanská firma specializující se na zakázkovou výrobu integrovaných obvodů pro klienty jako Apple, Nvidia nebo AMD, oznámila v roce 2020 stavbu první fabriky v USA po lobingu Trumpovy administrativy. Cílem bylo snížit závislost na asijském dodavatelském řetězci, který je ohrožen geopolitickými riziky z Číny. Původní investice 12 miliard USD se rozrostla na plán více než 100 miliard USD pro několik fabrik (tzv. fabů) na kampusu severně od Phoenixu v Arizoně.
 
-První továrna na kampusu severně od Phoenixu je plně operativní a vyrábí čipy pro smartphony a další zařízení. Druhá továrna dokončila stavbu v dubnu 2025 před harmonogramem, jak uvedl generální ředitel C.C. Wei na kvartální konferenci. Tato továrna použije 3nm proces, který umožňuje výrobu výkonnějších a energeticky úspornějších čipů nutných pro trénink velkých jazykových modelů (LLM) a inference v AI aplikacích, jako jsou generativní modely od OpenAI nebo Google. TSMC urychluje zahájení hromadné produkce, aby uspokojilo poptávku po AI akcelerátorech.
+První fab je již operační a vyrábí čipy na pokročilých procesech. Druhá, dokončená v dubnu 2025 předčasně podle prohlášení CEO C.C. Weie, použije 3nanometrovou technologii pro výrobu výkonných čipů určených pro AI aplikace, jako jsou velké jazykové modely nebo akcelerátory pro datová centra. Tyto čipy umožňují vyšší hustotu tranzistorů, což zvyšuje výkon a snižuje spotřebu energie v zařízeních jako GPU od Nvidia.
 
-Přesto New York Times v nedávném článku popisuje, jak se složitosti stavby ukázaly většími, než TSMC předpokládalo. V Tchaj-wanu je firma zvyklá na efektivní dodavatelské sítě, kde dodávky materiálů trvají hodiny. V USA trvají dny kvůli vzdálenostem a regulačním požadavkům. Kromě toho chybí místní pracovní síla s expertízou v čistých místnostech (cleanrooms), kde se čipy vyrábějí v ultračistém prostředí. TSMC muselo dovážet techniky z Tchaj-wanu, což vedlo k kulturním střetům a nižší produktivitě. Výstavba druhé továrny byla dokončena, ale plná kapacita vyžaduje další roky na školení personálu a optimalizaci procesů.
+Přesto New York Times v nedávném článku popisuje, jak složitost projektu překročila očekávání TSMC. Na rozdíl od Taiwanu, kde firma má desetiletí zkušeností s efektivními dodavatelskými řetězci a kvalifikovanou pracovní silou, USA čelí problémům s nedostatkem specialistů na čisté prostory (cleanroomy), kde se čipy vyrábějí v ultračistém prostředí. Regulace, stavební normy a logistika způsobily zpoždění a nárazové náklady. TSMC musela dovážet pracovníky z Taiwanu, což vedlo k kulturním střetům a nižší produktivitě. Americká vláda poskytla podporu prostřednictvím CHIPS and Science Actu, který alokuje desítky miliard na domácí polovodiče, ale implementace odhaluje slabinu americké výrobní báze po desetiletích odklonu k službám.
 
-## Proč je to důležité
-Tento projekt je klíčový pro snížení rizik v globálním dodavatelském řetězci polovodičů, kde Tchaj-wan dominuje 90 % produkce pokročilých čipů. Potenciální blokáda Tchaj-wanu Čínou by zastavila výrobu GPU pro AI trénink, autonomních vozidel Tesla nebo čipů pro iPhony. Domácí výroba v USA posiluje národní bezpečnost a umožňuje rychlejší iterace v AI vývoji, kde zpoždění v dodávkách brzdí inovace u firem jako Nvidia. Nicméně odhalené obtížnosti ukazují limity americké infrastruktury: vysoké náklady na práci, rigidní regulace a nedostatek specializovaných dovedností způsobují, že výroba v USA je dražší o 20–50 % než v Asii. Pokud TSMC nedokáže překonat tyto bariéry, USA zůstanou závislé na zahraničí, což ohrožuje ambice v AI a robotice.
+### Proč je to důležité
+Tento projekt je klíčový pro technologický ekosystém, protože TSMC vyrábí přes 90 procent nejpokročilejších čipů světa, včetně těch pro AI trénink a inference v modelech jako GPT nebo Llama. Zpoždění v USA ohrožují dodávky pro AI boom, kde poptávka po 3nm a menších uzlech roste exponenciálně. Pro průmysl znamená snížení rizik z Taiwanu (např. invaze Číny), ale odhaluje, že USA musí investovat do vzdělávání a infrastruktury, aby konkurovaly Asii. Pokud se problémy neřeší, může to způsobit nedostatek čipů, zvyšující ceny zařízení a brzdící inovace v AI, autonomních vozidlech nebo robotice. Dlouhodobě posiluje to diversifikaci, ale krátkodobě testuje odolnost globálního dodavatelského řetězce.
 
 ---
 

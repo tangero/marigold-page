@@ -2,10 +2,10 @@
 author: Marisa Aigen
 category: kvantové počítače
 date: '2025-12-06 01:27:56'
-description: Varování fyzika Johna Martinise, laureáta Nobela 2024, o rychlém dohánění
-  Číny v kvantovém výpočtu vedlo k prudkému růstu akcií amerických firem v tomto sektoru.
-  Trh to interpretoval jako signál pro zvýšenou vládní podporu.
-importance: 4
+description: Varování předního vědce o rychlém dohánění Číny v kvantovém výpočtu vedlo
+  k růstu akcií amerických firem v tomto sektoru. Trh interpretoval slova Johna Martinise,
+  nobelisty z roku 2024, jako signál pro zvýšenou vládní podporu.
+importance: 3
 layout: tech_news_article
 original_title: Quantum Computing Stocks Soar Following Nobel Laureate’s Warning on
   China
@@ -17,32 +17,30 @@ source:
   emoji: 📰
   id: null
   name: Freerepublic.com
-title: Akcie firem s kvantovými počítači vyskočily po varování laureáta Nobela před
-  Čínou
+title: Akcie firem v kvantovém výpočtu stoupají po varování laureáta Nobela ohledně
+  Číny
 url: https://freerepublic.com/focus/f-news/4356146/posts
 ---
 
-### Souhrn
-Akcie amerických firem specializujících se na kvantové počítače prudce vzrostly po nedávném interview laureáta Nobela v fyzice Johna Martinise, který varoval před rychlým pokrokem Číny v této technologii. Martinis odhadl, že náskok USA se zúžil na úroveň „nanosekund“. Trh to vnímal jako předzvěst větších vládních investic do sektoru.
+## Souhrn
+Akcie amerických firem zabývajících se kvantovým výpočtem výrazně vzrostly po prohlášení Johna Martinise, laureáta Nobela za fyziku z roku 2024, který varoval před rychlým pokrokem Číny v této oblasti. Martinis odhadl, že náskok USA se zúžil na úroveň „nanosekund“. Trh to vnímal jako předzvěst větší vládní podpory, což spustilo koupi akcií společností jako D-Wave Quantum, IonQ a Rigetti Computing.
 
-### Klíčové body
-- John Martinis, nositel Nobela 2024 v fyzice, v interview pro Bloomberg uvedl, že Čína dohání USA v kvantovém výpočtu a náskok je jen „nanosekundy“.
+## Klíčové body
+- John Martinis, expert na kvantové systémy a bývalý konzultant Google, upozornil v rozhovoru pro Bloomberg, že Čína dohnala USA v kvantovém výpočtu na „nanosekundový“ rozdíl.
 - Akcie D-Wave Quantum (QBTS) vzrostly o více než 14 %, IonQ (IONQ) o přes 12 % a Rigetti Computing (RGTI) o více než 15 %.
-- Martinis navštěvoval Bílý dům a naznačil, že po umělé inteligenci se nyní soustředí na kvantové technologie.
+- Martinis navštěvoval Bílý dům a naznačil, že po podpoře AI se nyní zaměřuje na kvantové technologie.
 - Podobný růst akcií proběhl v září díky spekulacím o vládních investicích.
-- V roce 2019 Martinis odhadoval čínský náskok na tři roky, nyní je podle něj minimální.
+- V roce 2019 odhadoval Martinis čínský náskok za tři roky; nyní je podle něj minimální.
 
-### Podrobnosti
-John Martinis, uznávaný fyzik a bývalý konzultant Google v oblasti kvantového výpočtu, v interview pro Bloomberg z 4. prosince 2025 varoval před erozi technologické nadvlády USA. Podle něj Čína rychle dohání v kvantových technologiích: „Čína se rychle dohnala... Obávám se, že jsme před nimi jen o nanosekundy vpřed.“ Tento komentář, podpořený Martinisovými opakovanými návštěvami Bílého domu, okamžitě ovlivnil finanční trhy.
+## Podrobnosti
+John Martinis, fyzik známý svou prací na supravodivých kvantových bitech a spoluprací s Google na demonstraci kvantové nadřazenosti v roce 2019, poskytl v nedávném rozhovoru pro Bloomberg alarmující hodnocení. V roce 2019 považoval čínské kvantové technologie za o tři roky pozadu oproti USA. Dnes však tvrdí, že rozdíl je už jen na úrovni „nanosekund“, což odkazuje na extrémně krátký časový náskok v rychlosti výpočtů nebo vývoji. Tato slova, i když míněna jako varování před erozi americké technologické nadvlády, trh přetlumil do očekávání masivních vládních investic.
 
-D-Wave Quantum, kanadsko-americká firma zaměřená na annealovací kvantové počítače pro optimalizační úlohy jako logistiky nebo finance, zaznamenala nárůst akcií o 14 %. IonQ, americký startup vyvíjející kvantové počítače na bázi iontových pastí pro výpočty s vysokou fidilitou, vyskočila o 12 %. Rigetti Computing, kalifornská společnost stavějící supersupravodivé kvantové procesory pro cloudové služby, překonala konkurenci růstem o 15 %. Tyto „čistě kvantové“ firmy výrazně překonaly širší trh, který vykázal jen mírné zisky.
+D-Wave Quantum, kanadská společnost se sídlem v USA specializující se na kvantové odpaľovače (quantum annealing) pro řešení optimalizačních problémů v logistice, farmacii a financiích, zaznamenala nárůst akcií o 14 %. IonQ, firma využívající technologie zachycených iontů pro stavbu škálovatelných kvantových počítačů s nízkou chybovostí, viděla skok o 12 %. Rigetti Computing, která vyvíjí supravodivé kvantové procesory pro cloudové služby kvantového výpočtu, překonala trh růstem o 15 %. Tyto tzv. čistě kvantové firmy (pure-play) výrazně překonaly širší trh, který vykázal jen mírné zisky.
 
-Tato reakce není ojedinělá – v září 2025 podobná spekulace o státních investicích vedla k rally v sektoru. Martinisovy slova mají váhu díky jeho expertíze: v roce 2019 odhadoval čínský náskok na tři roky, nyní ho vidí jako zanedbatelný. Navíc prozradil, že Bílý dům po posílení domácí AI nyní přechází na kvantové technologie, což trh chápal jako signál pro miliardové dotace podobné těm v AI.
+Martiniseva autorita je zesílena opakovanými návštěvami Bílého domu a jeho rolí v národních iniciativách. Zmínil, že po úsilí o posílení domácího AI sektoru se vláda nyní soustředí na kvantové výpočty. To evokuje programy jako National Quantum Initiative Act z roku 2018, který alokoval miliardy dolarů na výzkum. Podobný impuls vedl k rally v září, kdy spekulace o federálních grantových propustkách pohnaly sektor nahoru. Geopolitické napětí mezi USA a Čínou v kvantových technologiích není nové – Čína investovala desítky miliard do programů jako Originální kvantový počítač, zatímco USA čelí riziku exportních omezení na čipy.
 
-Geopolitický kontext zesiluje tlak: kvantové počítače slibují průlom v šifrování, simulacích molekul pro léky nebo optimalizaci, ale vyžadují obrovské investice do chlazení a error correction. Čína investuje miliardy do národních programů, což zvyšuje obavy o národní bezpečnost USA.
-
-### Proč je to důležité
-Tato událost ukazuje, jak geopolitická napětí ovlivňují technologické investice. Spekulativní růst akcií signalizuje očekávání federálních fondů, což by urychlilo vývoj praktických kvantových počítačů. Pro průmysl to znamená potenciální akceleraci v oblastech jako kryptografie (ohrožení současných šifer) nebo materiálový výzkum. Nicméně jako expert upozorňuji, že současné kvantové systémy jsou stále Noisy Intermediate-Scale Quantum (NISQ) bez plného quantum advantage, a tržní frenzy může být předčasná – podobné rally často končí korekci. Dlouhodobě to posiluje soutěž mezi USA a Čínou, což prospěje inovacím, ale zvyšuje rizika eskalace.
+## Proč je to důležité
+Tato epizoda ukazuje, jak geopolitická rizika ovlivňují technologické trhy. Kvantový výpočet, schopný řešit problémy nereálné pro klasické superpočítače jako simulace molekul pro nové léky nebo optimalizace šifrování, zůstává v rané fázi, ale s potenciálem narušit současné IT ekosystémy. Varování Martinise podtrhuje závod o kvantovou nadřazenost, kde vládní financování může urychlit komercializaci. Pro průmysl to znamená vyšší pravděpodobnost kontraktů s DoD nebo NSA, zatímco investoři spekulují na růst. Nicméně, tržní reakce je spekulativní – reálné quantum advantage stále chybí a firmy jako IonQ hlásí ztráty. Dlouhodobě to posiluje debatu o národní bezpečnosti v tech, podobně jako u AI čipů.
 
 ---
 

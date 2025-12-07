@@ -2,9 +2,10 @@
 author: Marisa Aigen
 category: ai
 date: '2025-12-05 22:37:07'
-description: Přibližně 1 z 500 novorozenců má těžkou vrozenou srdeční vadu vyžadující
-  urgentní zásah. Nová studie ukazuje, že AI nástroj identifikuje přes 97 procent
-  těchto vad z ultrazvukových snímků.
+description: Nová studie z Mount Sinai West ukazuje, že AI nástroj detekuje přes 97
+  procent závažných vrozených srdečních vad u plodů během ultrazvukového vyšetření.
+  Technologie od firmy BrightHeart je schválena FDA a zavádí se jako první v New Yorku
+  v centru Carnegie Imaging for Women.
 importance: 3
 layout: tech_news_article
 original_title: Obstetricians use AI for improved foetal congenital heart screening
@@ -21,22 +22,24 @@ urlToImageBackup: https://www.digitaljournal.com/wp-content/uploads/2021/05/7651
 ---
 
 ## Souhrn
-Lékaři z Mount Sinai West vyvinuli a otestovali AI nástroj, který zvyšuje přesnost ultrazvukového screeningu vrozených srdečních vad u plodů na přes 97 procent. Technologie od firmy BrightHeart získala schválení FDA a je nyní nasazena v Carnegie Imaging for Women, prvním centru v New Yorku. Studie publikovaná v časopise Obstetrics & Gynecology potvrzuje efektivitu tohoto přístupu pro dřívější detekci.
+Lékaři z Mount Sinai West provedli studii, kde AI software od firmy BrightHeart zlepšil detekci závažných vrozených srdečních vad u plodů na více než 97 procent. Tento nástroj analyzuje ultrazvukové snímky a pomáhá identifikovat abnormality srdeční struktury před narozením. Carnegie Imaging for Women se stalo prvním zařízením v New Yorku, které tuto FDA schválenou technologii nasadilo.
 
 ## Klíčové body
-- AI software analyzuje ultrazvukové snímky a identifikuje abnormální srdeční struktury s úspěšností nad 97 procent u těžkých vad.
-- Vrozené srdeční vady postihují asi 1 z 500 novorozenců a celosvětově 48,9 milionu lidí.
-- Technologie je určena pro masové použití v porodnických klinikách k urychlení diagnostiky.
-- BrightHeart je medicínská firma specializující se na AI pro ultrazvukové vyšetření srdce plodů.
-- Studie vedli specialisté z oddělení porodnictví a gynekologie Mount Sinai.
+- AI dosáhlo detekce přes 97 % závažných vrozených srdečních vad v ultrazvukových datech.
+- Studie publikována v časopise Obstetrics & Gynecology pod vedením lékařů z Raquel and Jaime Gilinski Department of Obstetrics, Gynecology and Reproductive Science na Mount Sinai.
+- Firma BrightHeart vyvinula software pro zlepšení přesnosti a efektivity ultrazvuků v porodnické praxi.
+- Vrozené srdeční vady postihují přibližně 1 z 500 novorozenců a celosvětově 48,9 milionu lidí.
+- Technologie umožňuje dřívější intervence a lepší péči pro rodiny.
 
 ## Podrobnosti
-Článek popisuje studii vedenou lékaři z Raquel and Jaime Gilinski Department of Obstetrics, Gynecology and Reproductive Science na Mount Sinai West. Tento výzkum se zaměřil na implementaci AI nástroje, který zpracovává ultrazvukové snímky během standardního screeningu plodů. Konkrétně software od firmy BrightHeart, schválený Americkou agenturou pro kontrolu potravin a léků (FDA), automaticky detekuje znaky vrozených srdečních vad, jako jsou abnormality vnitřní struktury srdce přítomné již od narození. Tyto vady jsou nejčastější typem vrozených abnormalit a podle Ústavu národního zdraví USA (NIH) vyžadují u těžkých případů okamžitou lékařskou nebo chirurgickou intervenci u 1 z 500 novorozenců. Globálně postihují 48,9 milionu lidí.
+Vrozené srdeční vady představují nejčastější typ vrozených vad, které vyžadují často urgentní chirurgický zákrok krátce po narození. Podle údajů amerického Národního institutu zdraví (U.S. National Institutes of Health) je taková vada diagnostikována u jednoho z 500 novorozenců, což znamená potřebu okamžité lékařské intervence pro přežití. Globálně se odhaduje, že tyto vady ovlivňují 48,9 milionu lidí. Tradiční ultrazvukové screeningy v třetím trimestru těhotenství mají však omezenou citlivost, protože závisí na zkušenostech operatéra a kvalitě zařízení.
 
-Výzkum publikovaný v časopise Obstetrics & Gynecology („Use of Artificial Intelligence–Based Software to Aid in the Identification of Ultrasound Findings Associated With Fetal Congenital Heart Defects“) testoval technologii na velkém vzorku ultrazvuků. Výsledky ukázaly, že AI výrazně zlepšuje citlivost detekce oproti manuálnímu hodnocení, což umožňuje dřívější odhalení a plánování péče. Carnegie Imaging for Women v New Yorku se stalo prvním zařízením v městě, které tento nástroj rutinně používá. BrightHeart, jako specializovaná medicínská společnost, vyvinula software pro zefektivnění ultrazvuků tím, že snižuje subjektivitu lidského posouzení a zrychluje analýzu. AI zde slouží k automatickému rozpoznávání specifických ultrazvukových vzorců spojených se srdečními vadami, což je možné aplikovat v každé porodnické ordinaci s ultrazvukovým zařízením. Nicméně, jako expert na umělou inteligenci v medicíně upozorňuji, že takové nástroje stále vyžadují ověření kvalifikovaným lékařem, protože falešně pozitivní výsledky mohou vést k zbytečným invazivním testům. Studie zdůrazňuje potřebu dalších longitudinálních dat pro posouzení dlouhodobé přesnosti v reálném nasazení.
+Studie vedená lékaři z Mount Sinai West testovala AI-based software od společnosti BrightHeart, která se specializuje na vývoj nástrojů pro analýzu medicínských obrazů. Tento software slouží k automatické identifikaci ultrazvukových nálezů spojených s fetálními srdečními vadami – analyzuje struktury jako septa, ventrikly nebo aortu a signalizuje anomálie. V experimentu bylo zpracováno velké množství ultrazvukových dat, kde AI překonalo manuální hodnocení tím, že snížilo falešné negativy. Výsledky ukazují detekční míru 97 procent pro závažné případy, což umožňuje dřívější diagnostiku a plánování péče.
+
+Carnegie Imaging for Women, moderní porodnické a gynekologické zobrazovací centrum v New Yorku, nyní jako první v městě integruje tento FDA schválený nástroj do rutinních screeningů. To znamená, že gynekologové mohou během standardního ultrazvuku okamžitě obdržet AI podporu, což zrychluje rozhodování. BrightHeartův software je navržen pro široké nasazení v nemocnicích, kde pomáhá standardizovat diagnostiku a snižovat subjektivitu. Studie zdůrazňuje, že AI ne nahrazuje lékaře, ale slouží jako asistent pro zlepšení přehlednosti dat. Další validace v reálném prostředí bude klíčová, aby se potvrdila robustnost v různých populacích a zařízeních.
 
 ## Proč je to důležité
-Tento vývoj představuje praktickou aplikaci AI v perinatální medicíně, kde tradiční screening trpí variabilitou mezi operátory. Pro průmysl znamená rozšíření trhu pro AI diagnostiku, který roste díky FDA schválením, a potenciálně snižuje náklady na zdravotní péči prostřednictvím prevence komplikací. Pro pacienty to znamená vyšší šanci na včasnou intervenci, což může zlepšit přežití dětí s těžkými vadami. V širším kontextu AI ekosystému ukazuje, jak specializované modely zlepšují doménově specifické úkoly, ale závisí na kvalitních datech pro trénink a etické implementaci, aby se minimalizovaly biasy v detekci.
+Tato aplikace AI v porodnickém screeningu představuje krok k integraci umělé inteligence do rutinní medicíny, kde může snížit chyby v detekci vrozených vad a umožnit časnější intervence, což zlepšuje prognózu pro děti. V širším kontextu AI v zdravotnictví to ukazuje potenciál pro skalovatelné nástroje v zobrazovací medicíně, podobně jako v radiologii nebo onkologii. Nicméně jako expert na AI zdůrazňuji nutnost dlouhodobých studií na diverzních datech, aby se minimalizovaly biasy v trénovacích sadách. Pro průmysl to otevírá dveře k dalším AI toolům pro fetální diagnostiku, ale vyžaduje regulaci jako FDA schválení pro důvěryhodnost. Celkově posiluje trend, kde AI zvyšuje efektivitu bez nutnosti masivního navyšování personálu.
 
 ---
 

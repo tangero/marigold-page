@@ -1,54 +1,54 @@
 ---
 author: Marisa Aigen
-category: startupy
+category: ai startupy
 companies:
 - Google
+- Snowflake
+- Databricks
 - Yoodli
-- TechCrunch
-date: '2025-12-05 23:45:02'
-description: Startup Yoodli, který vyvinul AI pro trénink komunikačních dovedností,
-  zvýšil valuaci na více než 300 milionů dolarů po investici 40 milionů dolarů v kole
-  Series B. Technologie simuluje reálné scénáře jako prodejní hovory nebo pohovory
-  a poskytuje zpětnou vazbu pro zlepšení řečnických schopností.
+date: '2025-12-05 23:43:58'
+description: Startup Yoodli, zaměřený na AI nástroje pro trénink komunikačních dovedností,
+  zvýšil valuaci na více než 300 milionů dolarů po kolu financování série B ve výši
+  40 milionů dolarů. Mezi zákazníky patří Google, Snowflake a Databricks.
 importance: 3
 layout: tech_news_article
-original_title: Ex-Googler's Yoodli triples valuation to $300M+ with AI built to assist,
-  not replace, people | TechCrunch
-publishedAt: '2025-12-05T23:45:02+00:00'
+original_title: Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist,
+  not replace, people
+publishedAt: '2025-12-05T23:43:58+00:00'
 slug: ex-googlers-yoodli-triples-valuation-to-300m-with-
 source:
-  emoji: 🚀
-  id: techcrunch
-  name: TechCrunch
-title: Yoodli bývalého zaměstnance Google trojnásobí valuaci na přes 300 milionů dolarů
-  s AI pro asistenci, ne nahrazení lidí | TechCrunch
-url: https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/
-urlToImage: https://techcrunch.com/wp-content/uploads/2025/12/yoodli-founders.jpg?resize=1200,800
-urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/12/yoodli-founders.jpg?resize=1200,800
+  emoji: 📰
+  id: null
+  name: Yahoo Entertainment
+title: Yoodli bývalého zaměstnance Google ztrojnásobil valuaci na přes 300 milionů
+  dolarů s AI, které pomáhá lidem místo jejich nahrazování
+url: https://finance.yahoo.com/news/ex-googler-yoodli-triples-valuation-234358139.html
+urlToImage: https://s.yimg.com/ny/api/res/1.2/xROJesV6vjVVJzqIqY1OIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/d37092f70b126143ab20598ef37bf15d
+urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/xROJesV6vjVVJzqIqY1OIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/d37092f70b126143ab20598ef37bf15d
 ---
 
 ## Souhrn
-Startup Yoodli, zaměřený na AI nástroje pro trénink komunikace, dosáhl valuace přes 300 milionů dolarů, což je trojnásobek oproti předchozímu stavu před šesti měsíci. Tento růst přišel po získání 40 milionů dolarů v kole Series B vedeném investorem WestBridge Capital. Firma se odlišuje od běžných AI řešení tím, že pomáhá lidem zlepšovat dovednosti místo jejich nahrazování.
+Startup Yoodli se sídlem v Seattlu dosáhl valuace přes 300 milionů dolarů, což je ztrojnásobení oproti stavu před šesti měsíci, díky kolu financování série B v objemu 40 milionů dolarů. Firma využívá umělou inteligenci k simulaci komunikačních scénářů, jako jsou prodejní volání, pohovory nebo vedení týmů, s cílem pomoci uživatelům zlepšit řečnické dovednosti. Tento přístup kontrastuje s obavami z automatizace pracovních míst tím, že se soustředí na podporu lidských schopností.
 
 ## Klíčové body
-- Valuace přes 300 milionů dolarů po Series B kole s 40 miliony dolarů, celkové financování téměř 60 milionů dolarů.
-- Zakladatelé: Varun Puri (ex-Google X, práce pro Sergeje Brina) a Esha Joshi (ex-Apple).
-- Platforma simuluje scénáře jako prodejní hovory, leadership koučování, pohovory a poskytuje strukturovanou praxi.
-- Posun z spotřebního produktu pro veřejné mluvení k podnikovým nástrojům pro školení prodeje a managementu.
-- Zaměření na lidi z rozvojových zemí, jako Indie, kteří mají problémy s sebevědomým vyjádřením.
+- Yoodli získal 40 milionů dolarů v série B vedené WestBridge Capital za účasti Neotribe a Madrona, celkové financování dosáhlo téměř 60 milionů dolarů po předchozím kole série A ve výši 13,7 milionu dolarů v květnu.
+- Valuace se ztrojnásobila za šest měsíců, což odráží rostoucí zájem o AI nástroje v podnikovém vzdělávání.
+- Mezi zákazníky jsou velké firmy jako Google, Snowflake a Databricks, které využívají platformu pro školení zaměstnanců.
+- Spoluzakladatelé: Varun Puri z Google X (pracoval na speciálních projektech pro Sergeje Brina) a Esha Joshi z Apple.
+- Platforma nabízí AI simulace pro trénink veřejného vystupování, prodejní prezentace a náročné rozhovory.
 
 ## Podrobnosti
-Yoodli je čtyřletý startup se sídlem v Seattlu, který vyvíjí AI platformu pro trénink komunikačních důvědností. Na rozdíl od AI nástrojů, které automatizují úkoly jako psaní e-mailů nebo generování obsahu, Yoodli staví na simulaci reálných situací. Uživatelé mohou procvičovat prodejní hovory, leadership koučování, přípravné pohovory nebo zpětnovazbové schůzky. AI analyzuje řeč, tón hlasu, tempo a strukturu projevu a poskytuje okamžitou zpětnou vazbu s doporučeními pro zlepšení. Tato praxe je strukturovaná a opakovatelná, což umožňuje postupné budování dovedností.
+Yoodli byl založen v roce 2021 Varunem Purim a Eshou Joshi poté, co Puri identifikoval problémy s komunikací u mladých profesionálů z zemí jako Indie po svém přestěhování do USA v osmnácti letech. Podle jeho interních dat má problém s veřejným vystupováním dva z tří lidí. Původně určený pro spotřebitele jako nástroj na procvičování řečí, se platforma rychle posunula k podnikovým aplikacím díky poptávce po přípravě na pohovory, prodejní pitchy a obtížné konverzace.
 
-Zakladatel Varun Puri, který přišel do USA v osmnácti letech z Indie, si problém uvědomil na vlastní kůži. Podle jeho slov postihuje komunikační obtíže dvě třetiny lidí, zejména mladé profesionály z Asie, kteří mají potíže s vyjádřením myšlenek sebevědomě. Původně měla platforma sloužit k tréninku veřejného mluvení, ale uživatelé ji brzy začali využívat pro přípravu na pohovory, prodejní prezentace nebo náročné rozhovory. To vedlo k pivotu směrem k podnikovým klientům. Dnes Yoodli nabízí AI role-playing nástroje pro přípravu na trh (go-to-market enablement), certifikaci partnerů a koučování managementu.
+Technicky Yoodli používá AI k vytváření simulovaných scénářů, kde uživatelé procvičují interakce v reálném čase. Systém analyzuje řeč, tón hlasu, tempo a naplňuje zpětnou vazbu strukturovanými doporučeními pro zlepšení. Například v prodejním volání simuluje AI námitky zákazníka, v leadership coachingu poskytuje rady k motivaci týmů. Tato experiential learning nástroje slouží k go-to-market enablement, certifikaci partnerů a školení prodejního týmu. Firma se odlišuje od generických AI chatbotů tím, že nabízí repeatable practice – opakované cvičení s měřitelným pokrokem.
 
-Finanční růst je poháněn investicí 40 milionů dolarů v Series B kole, které vedl WestBridge Capital za účasti Neotribe a Madrona. Předchozí Series A v květnu přinesla 13,7 milionu dolarů, takže celkové financování dosahuje téměř 60 milionů dolarů. Valuace se ztrojnásobila během šesti měsíců, což odráží zájem investorů o AI v oblasti lidského rozvoje uprostřed obav z automatizace pracovních míst.
+Posun k enterprise modelům přišel organicky, když uživatelé začali platformu využívat pro pracovní účely. Dnes cílí na velké korporace, kde komunikační dovednosti ovlivňují úspěch prodejů a leadershipu. Puri zdůrazňuje, že zatímco AI přináší obavy z nahrazení lidí, Yoodli staví na augmentaci: AI slouží jako trenér, ne náhrada. S financováním plánuje rozšířit tým a integrovat pokročilejší AI modely pro personalizovanější feedback, včetně analýzy neverbální komunikace.
 
 ## Proč je to důležité
-V éře rychlého šíření AI do firem, kde se objevují obavy z nahrazení zaměstnanců, Yoodli ukazuje alternativní přístup: technologie jako zesilovač lidských schopností. Pro podniky to znamená efektivnější školení prodejních týmů a manažerů bez nutnosti drahých externích trenérů. V širším kontextu AI ekosystému to podtrhuje trend specializovaných nástrojů pro měkké dovednosti, které AI zatím nedokáže plně nahradit. Pro uživatele z méně privilegovaných regionů, jako Indie, to otevírá přístup k kvalitnímu tréninku, který by jinak byl nedostupný. Nicméně úspěch závisí na kvalitě AI analýzy – pokud bude zpětná vazba přesná, může to změnit standardy korporátního vzdělávání; jinak zůstane jen dalším niche nástrojem.
+V éře šířící se AI do pracovních procesů, kde mnoho firem testuje nástroje pro automatizaci úkolů, Yoodli představuje protipříklad zaměřený na rozvoj lidských dovedností, které AI zatím nedokáže plně nahradit. Komunikační trénink je klíčový v prodeji a managementu, kde slabé řečnické schopnosti brzdí kariérní růst – podle studií až 70 procent zaměstnanců pociťuje nedostatek sebevědomí v prezentacích. Pro průmysl to znamená novou kategorii enterprise AI: ne disruptivní, ale podpůrnou. S klienty jako Google ukazuje škálovatelnost v tech sektoru, kde firmy investují do soft skills pro udržení konkurenční výhody. Nicméně jako startup s valuací 300 milionů dolarů čelí výzvám v saturaci trhu s AI coaching nástroji, kde klíčem bude dlouhodobá retence uživatelů a prokazatelný ROI pro firmy.
 
 ---
 
-[Číst původní článek](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/)
+[Číst původní článek](https://finance.yahoo.com/news/ex-googler-yoodli-triples-valuation-234358139.html)
 
-**Zdroj:** 🚀 TechCrunch
+**Zdroj:** 📰 Yahoo Entertainment

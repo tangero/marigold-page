@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: ai
+category: agentická ai
 date: '2025-12-05 22:23:52'
-description: Agentická AI představuje systém umělé inteligence, který dosáhne stanoveného
-  cíle s minimálním dohledem člověka. Článek analyzuje předpovědi pro rok 2026, zaměřené
-  na technologie Trusted Execution Environment pro bezpečné distribuované výpočty.
+description: Agentická AI představuje systém umělé inteligence, který dosáhne specifického
+  cíle s minimálním dohledem. Článek shrnuje predikce CEO Leaseweb USA o vývoji v
+  oblasti bezpečnosti a distribuovaných výpočtů.
 importance: 3
 layout: tech_news_article
 original_title: 'Antigenic AI: The business growth opportunity of 2026?'
@@ -21,24 +21,24 @@ urlToImageBackup: https://www.digitaljournal.com/wp-content/uploads/2024/09/7cdb
 ---
 
 ### Souhrn
-Richard Copeland, generální ředitel společnosti Leaseweb USA, která se specializuje na cloudové hostingové služby, předpovídá, že v roce 2026 se technologie Trusted Execution Environment (TEE) stane klíčovým faktorem pro decentralizované výpočty v multi-cloud prostředích. Tato technologie umožní firmám bezpečně rozdělovat výpočetní úlohy mezi různé cloudy a on-premise servery, což souvisí s rostoucí nezávislostí AI systémů, včetně agentických AI. Článek spojuje tyto trendy s optimalizací GPU a rostoucími kybernetickými hrozbami.
+Richard Copeland, CEO společnosti Leaseweb USA, která se specializuje na cloudové hostingové služby, předpovídá, že agentická AI a technologie Trusted Execution Environment (TEE) budou klíčovými faktory růstu firem v roce 2026. Tyto technologie umožní bezpečnější a flexibilnější distribuované výpočty napříč více cloudy. Článek zdůrazňuje souvislosti mezi optimalizací GPU, autonomní AI a rostoucími kybernetickými hrozbami.
 
 ### Klíčové body
-- Trusted Execution Environment (TEE) vytváří šifrovaně chráněnou oblast paměti a procesoru, izolovanou od zbytku systému.
-- V roce 2026 umožní TEE bezpečné distribuování AI workloadů přes více cloudových poskytovatelů, což sníží závislost na jednom hyperscaleru.
-- Trend je poháněn chováním firem spíše než rozpočty nebo hype, s důrazem na flexibilitu a odolnost.
-- Souvisí s agentickou AI, která funguje autonomně, a optimalizací GPU pro rychlejší zpracování.
-- Zvyšující se kybernetické útoky nutí firmy hledat lepší bezpečnostní řešení.
+- Agentická AI funguje s minimálním lidským dohledem a zaměřuje se na dosažení konkrétních cílů, což zvyšuje produktivitu.
+- Trusted Execution Environment (TEE) vytváří oddělenou, šifrovanou oblast paměti a CPU, chráněnou před zbytkem systému.
+- V roce 2026 se TEE stane standardem pro decentralizované výpočty v multi-cloud prostředích.
+- Firmy budou moci bezpečně rozdělovat workloady mezi více poskytovatelů cloudových služeb, včetně on-premise zařízení.
+- Tento posun je motivován chováním uživatelů, nikoli rozpočty nebo hype.
 
 ### Podrobnosti
-Leaseweb USA je poskytovatelem cloudových služeb, který se zaměřuje na hosting, dedikované servery a multi-cloud řešení pro podniky. V rozhovoru pro Digital Journal Copeland popisuje tři technologické předpovědi, z nichž první se týká TEE. Tato technologie, implementovaná v hardwaru jako Intel SGX nebo ARM TrustZone, vytváří Trusted Execution Environment – oddělenou část paměti a CPU, kde běží kód a data šifrovaně chráněné před přístupem zvenčí, včetně privilegovaných procesů operačního systému. Slouží k ochraně citlivých operací, jako je zpracování AI modelů, kryptografické výpočty nebo verifikace dat v distribuovaném prostředí.
+Článek z Digital Journal se zabývá třemi technologickými predikcemi od Richarda Copelanda, přičemž první se soustředí na Trusted Execution Environment (TEE). TEE je technologie, která izoluje citlivé výpočty v šifrované části paměti a procesoru, čímž brání útokům z jiných částí systému. Existují implementace jako Intel SGX nebo ARM TrustZone, ale Copeland předpokládá, že do roku 2026 dojde k masovému přijetí díky zlepšené hardwarové podpoře.
 
-Copeland předpokládá, že do roku 2026 se TEE přesune z experimentální fáze do masového nasazení. Firmy budou moci bezpečně rozdělit výpočetní úlohy (workloady) napříč různými cloudy, regionálními providery a vlastními datovými centry, místo aby se spoléhaly výhradně na jedného giganta jako AWS, Azure nebo Google Cloud. To umožní lepší využití GPU pro AI aplikace, kde optimalizace zvyšuje výkon a snižuje latenci. Agentická AI, tedy systémy schopné samostatně plánovat kroky k dosažení cíle – například automatizace složitých pracovních toků v podnicích –, bude profitovat z této flexibility, protože vyžaduje distribuované výpočty bez rizika úniku dat.
+Podle Copelanda toto umožní firmám překonat závislost na jednom hyperscaleru, jako je AWS nebo Azure, a rozdělit výpočetní úlohy (workloady) napříč multi-cloud architekturami, regionálními providery a vlastními datovými centry. Například trénink AI modelů nebo inference agentických AI agentů, které autonomně plní úkoly jako plánování logistiky nebo analýza dat, by tak mohly běžet bezpečně na distribuovaných zdrojích. Optimalizace využití GPU, zmíněná v úvodu, zde hraje roli tím, že umožňuje plně využít výpočetní sílu pro rychlejší odpovědi v AI aplikacích.
 
-Článek také zmiňuje související trendy: rostoucí autonomie AI a sofistikovanější kyberútoky, které ohrožují IT infrastrukturu. Optimalizace GPU zajišťuje plné využití hardwaru pro rychlejší odpovědi v AI aplikacích, ale bez TEE zůstávají workloady zranitelné. Copeland zdůrazňuje, že posun není motivován rozpočty, ale změnou chování firem, které hledají odolnost proti výpadkům a útokům. Ačkoli TEE existuje již několik let, masové přijetí závisí na lepší podpoře v cloudu a standardizaci, což by mohlo urychlit vývoj agentických systémů.
+Souvisí to s rostoucí nezávislostí AI systémů, kde agentická AI – na rozdíl od tradičních LLM jako GPT – nejen generuje text, ale aktivně jedná v reálném světě, například ovládá API pro rezervace nebo nákupy. Copeland zdůrazňuje, že posun k TEE není řízen rozpočty, ale praktickými potřebami: firmy chtějí flexibilitu a odolnost vůči výpadkům. Leaseweb USA, jako poskytovatel cloudových služeb, tuto změnu sleduje z pozice, kde pomáhá klientům s migrací do hybridních prostředí. Text naznačuje další predikce, ale je zkrácen; celkově jde o kontext rostoucích kybernetických rizik v éře autonomní AI.
 
 ### Proč je to důležité
-TEE technologie posiluje bezpečnost v éře agentické AI, kde autonomní systémy zpracovávají citlivá data bez lidského zásahu. Pro průmysl znamená snížení vendor lock-in, lepší škálovatelnost a odolnost vůči kybernetickým hrozbám, což je klíčové pro podniky závislé na AI. V širším kontextu podporuje decentralizaci výpočtů, což může democratizovat přístup k výkonnému AI hardwaru a omezit dominanci hyperscalerů. Nicméně, jako expert upozorňuji, že plné nasazení TEE v roce 2026 je optimistické – závisí na řešení problémů jako side-channel útoky a kompatibilita napříč platformami. Pro uživatele to znamená bezpečnější cloudové AI služby, ale vyžaduje investice do kompatibilního hardwaru.
+Pro průmysl znamená přechod k TEE a agentické AI snížení rizik v distribuovaných systémech, kde současné centralizované cloudy představují single point of failure. Firmy získají větší kontrolu nad daty a náklady, což je klíčové pro AI aplikace vyžadující vysoký výkon GPU. V širším ekosystému posiluje to konkurenci mezi providery a urychluje adopci edge computingu. Kriticky lze říci, že TEE není zcela nové – výzvy jako side-channel útoky (např. Spectre) zůstávají – ale masové nasazení by mohlo stabilizovat růst agentické AI. Pro uživatele to znamená spolehlivější služby, jako autonomní AI asistenti v podnikání, bez nutnosti plné důvěry v jednoho dodavatele.
 
 ---
 

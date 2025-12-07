@@ -1,10 +1,11 @@
 ---
 author: Marisa Aigen
-category: spotřební elektronik
+category: ces
 date: '2025-12-05 22:53:00'
-description: CES 2026 se nezačíná dříve než v lednu, ale spekulace o připravovaných
-  produktech a oznámeních už teď nabírají na obrátkách. Veletrh bude otevřen od 6.
-  do 9. ledna v Las Vegas, s předchozími tiskovými konferencemi od klíčových firem.
+description: CES 2026 se koná od 6. do 9. ledna v Las Vegas, předcházejí mu akce od
+  4. ledna včetně tiskových konferencí velkých firem. Už teď jsou známy prezentace
+  od Samsungu, LG, Intelu, Sony Honda Mobility, AMD a Lenovo s důrazem na AI a nové
+  hardware.
 importance: 3
 layout: tech_news_article
 original_title: What to expect at CES 2026
@@ -19,20 +20,27 @@ url: https://slashdot.org/firehose.pl?op=view&amp;id=180301607
 ---
 
 ## Souhrn
-CES 2026, největší roční veletrh spotřební elektroniky, připravuje řadu tiskových konferencí od firem jako Samsung, LG, Intel, AMD a Lenovo. Tyto akce se zaměří na AI integraci, nové procesory a mobility, přičemž Engadget bude událost pokrývat přímo z Las Vegas. Konkrétní detaily produktů zatím chybí, ale program naznačuje trendy v umělé inteligenci a výpočetní výkonnosti.
+CES 2026, největší roční technologická konference, otevře výstaviště v Las Vegas od 6. do 9. ledna, předcházejí mu události od 4. ledna. Klíčové tiskové konference provedou Samsung, LG, Intel, Sony Honda Mobility, AMD a Lenovo s tématy jako AI v spotřební elektronice a nové procesory. Engadget bude událost pokrývat přímo na místě i na dálku.
 
 ## Klíčové body
-- Samsung zahájí 4. ledna prezentací „The First Look“ o vizi DX divize (Device eXperience) a AI zážitcích pro zákazníky.
-- LG 5. ledna představí „Innovation in Tune with You“ s důrazem na Affectionate Intelligence pro zlepšení každodenního života.
-- Intel odhalí nové procesory Core Ultra Series 3, optimalizované pro AI úlohy.
-- Sony Honda Mobility (společný podnik na elektromobily) ukáže svůj první vůz.
-- AMD a Lenovo uzavřou program keynotey o čipech a technologických světech.
+- Samsung: 4. ledna, prezentace „The First Look" vedená TM Rohem, šéfem DX divize, zaměřená na vizi divize pro rok 2026 a nové zážitky poháněné AI.
+- LG: 5. ledna ráno, „Innovation in Tune with You" o Affectionate Intelligence pro zlepšení každodenního života.
+- Intel: 5. ledna odpoledne, uvedení procesorů Core Ultra Series 3.
+- Sony Honda Mobility: 5. ledna, tisková konference o prvním automobilu společnosti.
+- AMD: 5. ledna večer, keynote Lisou Su o nadcházejících čipech.
+- Lenovo: 6. ledna, Tech World Conference vedená Yuanqingem Yangem.
 
 ## Podrobnosti
-CES 2026 se koná v Las Vegas Convention Center a okolích od 6. do 9. ledna, s předvědou 4. ledna a hlavními tiskovými konferencemi 5. ledna. Consumer Technology Association již zveřejnila katalog vystavovatelů a program, který zahrnuje stovky panelů, demonstrací a networkingových akcí. Samsung, vedený TM Rohem z DX divize, otevře program prezentací zaměřenou na zařízení a jejich propojení s AI, což typicky znamená nové chytré telefony, tablety nebo TV s pokročilými algoritmy pro personalizaci obsahu a automatizaci úkolů. LG půjde dál s konceptem Affectionate Intelligence, což je jejich varianta AI navržená pro empatii a přizpůsobení uživatelským emocím – slouží k detekci nálad přes kamery a senzory v domácích spotřebičích, například pro úpravu osvětlení nebo hudby. Intel představí Core Ultra Series 3, třetí generaci hybridních procesorů s integrovanou NPU (neural processing unit) pro lokální zpracování AI modelů, což umožňuje rychlejší inferenci bez cloudu a nižší spotřebu energie v notebookách a PC. Sony Honda Mobility, joint venture zaměřené na elektromobily Afeela, odhalí svůj první model, pravděpodobně s pokročilou autonomní jízdou poháněnou AI. AMD pod vedením CEO Lisy Su představí nové čipy, možná Ryzen AI série pro konkurenční výkon oproti Intelu, s důrazem na grafické jádra a AI akceleraci. Lenovo uzavře Tech World Conference s Yang Yuanqingem, kde se očekávají hybridní zařízení jako skládací notebooky nebo AI PC. Tyto akce jsou však spíš marketingové – minulá CES často slíbila více, než reálně dodala, a mnoho novinek zůstane prototypy. Engadget slíbuje hands-on testy a live zprávy, což pomůže oddělit hype od reality. (287 slov)
+Consumer Electronics Show (CES) v Las Vegas je tradičně místem, kde velcí výrobci spotřební elektroniky odhalují trendy pro nadcházející rok. Výstaviště v Las Vegas Convention Center a okolích hotelů bude hostit demonstrace produktů, oznámení a networking od 6. do 9. ledna. Předchozí dny jsou rezervovány pro tiskové konference: Samsung zahájí 4. ledna akcí „The First Look". TM Roh, generální ředitel DX divize (Device eXperience, zaměřené na chytré zařízení jako telefony a tablety), představí strategii divize pro 2026 s důrazem na AI-driven customer experiences. Tyto funkce umožňují zařízením zpracovávat data lokálně pomocí neuronových zpracovatelných jednotek (NPU), což zlepšuje soukromí a rychlost například v personalizovaných asistentech nebo kamerách.
+
+Dne 5. ledna následuje LG s prezentací „Innovation in Tune with You". Společnost, známá televizi a spotřebiči, zdůrazní Affectionate Intelligence – formu AI navrženou pro empatickou interakci, která analyzuje emoce uživatele prostřednictvím kamer a senzorů v zařízeních jako televize nebo lednice. Odpoledne Intel uvede Core Ultra Series 3, nástupce Meteor Lake a Lunar Lake architektur. Tyto procesory integrují CPU, GPU a NPU pro efektivní AI výpočty na okraji sítě (edge computing), což umožňuje běh modelů jako Stable Diffusion lokálně v notebooku bez cloudu.
+
+Sony Honda Mobility, joint venture Sony (elektronika) a Hondy (automobily), představí svůj první elektrický vůz Afeela. Tento model integruje pokročilé senzory a AI pro autonomní jízdu úrovně 2+ nebo vyšší, s důrazem na zábavu díky Sony technologiím jako vysokokvalitní displeje. Večer AMD keynote od Lisy Su, šéfky firmy specializující se na grafické procesory a CPU pro servery i klienty, odhalí nové čipy, pravděpodobně Ryzen AI 300 sérii s lepší podporou AI modelů. Závěrem 6. ledna Lenovo Tech World od Yuanqinga Yanga, kde Lenovo (výrobce notebooků, PC a serverů) ukáže hybridní zařízení s AI pro firemní prostředí.
+
+Consumer Technology Association již zveřejnila katalog vystavovatelů a program panelů, což umožňuje plánování návštěvy.
 
 ## Proč je to důležité
-CES nastavuje směr pro spotřební elektroniku na celý rok, zejména v integraci AI do běžných zařízení, což ovlivní vývoj lokálních modelů a edge computing. Pro uživatele to znamená potenciálně efektivnější zařízení s nižší latencí, ale i rizika soukromí kvůli sběru dat pro „empatickou“ AI. V širším kontextu posiluje soutěž mezi Intel a AMD v AI hardwaru, což urychlí adopci v průmyslu, zatímco mobility od Sony Honda může konkurovat Tesle. Nicméně bez průlomů v AGI nebo kvantovém výpočtu zůstává CES spíš ukazatel trendů než katalyzátor revoluce. (Celkem 512 slov)
+CES 2026 nastíní směr integrace AI do běžných zařízení, kde procesory jako Core Ultra Series 3 nebo AMD čipy umožní on-device inference modelů velkých jazykových modelů (LLM), což sníží závislost na cloudu a zlepší latenci pro uživatele. V automobilovém sektoru Sony Honda Mobility signalizuje posun k AI-poháněným EV, kde konkurence s Tesla FSD nebo Waymo zesílí. Pro průmysl to znamená tlak na efektivitu čipů – Intel a AMD soutěží o podíl v PC a serverech, zatímco Samsung a LG posouvají spotřební elektroniku k personalizované AI. Kriticky řečeno, mnoho oznámení zůstane na úrovni prototypů s komercializací až za rok, ale trendy jako Affectionate Intelligence ukazují na rizika soukromí při monitorování emocí. Celkově to ovlivní vývoj edge AI v ekosystému od mobilů po auta.
 
 ---
 
