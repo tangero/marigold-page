@@ -1,11 +1,11 @@
 ---
 author: Marisa Aigen
-category: výkon webu
+category: webová výkonnost
 date: '2025-12-07 07:26:00'
-description: Článek popisuje přechod v optimalizaci webového výkonu od tradičních
-  metod k prediktivnímu načítání stránek díky Speculation Rules API v prohlížečích
-  na bázi Chromium. Díky agresivnímu přednačítání se podařilo výrazně zkrátit dobu
-  načítání následných stránek na e-commerce webech.
+description: Vývoj webové výkonnosti v roce 2025 přináší díky Speculation Rules API
+  v prohlížečích na bázi Chromium přechod od tradiční optimalizace k prediktivnímu
+  načítání stránek. Tento přístup umožňuje zkrátit čas načítání následných stránek
+  na pod 300 ms, což nutí přehodnotit stávající měřítka výkonu.
 importance: 3
 layout: tech_news_article
 original_title: 'Web Performance 2025: The Shift from Optimization to Prediction'
@@ -15,31 +15,31 @@ source:
   emoji: 📰
   id: null
   name: Perfplanet.com
-title: 'Webový výkon 2025: Posun od optimalizace k predikci'
+title: 'Webová výkonnost 2025: Posun od optimalizace k predikci'
 url: https://calendar.perfplanet.com/2025/web-performance-2025-the-shift-from-optimization-to-prediction/
 urlToImage: https://calendar.perfplanet.com/images/2025/fabian/i1.png
 urlToImageBackup: https://calendar.perfplanet.com/images/2025/fabian/i1.png
 ---
 
 ## Souhrn
-V roce 2025 přineslo dozrání Speculation Rules API v prohlížečích na bázi Chromium zásadní změnu v oblasti webového výkonu. Tato technologie umožňuje agresivní přednačítání a předvykreslování stránek, čímž se blíží k okamžitému načítání následných navigací. Data z reálného uživatelského měření (RUM) na stovkách e-commerce webů ukazují posun velkého objemu načítání do kategorie pod 300 ms.
+V roce 2025 došlo v prohlížečích na bázi Chromium k významnému pokroku díky dozrávání Speculation Rules API a agresivnímu přednačítání stránek. Tento vývoj umožňuje blížit se k okamžitému načítání následných stránek, i když první stránka webu zůstává mimo dosah. Na základě dat z reálného uživatelského měření (RUM) z stovek e-commerce stránek se podíl načítání pod 300 ms výrazně zvýšil.
 
 ## Klíčové body
-- Dozrání Speculation Rules API umožňuje prohlížečům predikovat a přednačítat následující stránky na základě pravidel definovaných vývojáři.
-- Agresivní předvykreslování (prerendering) zkracuje dobu Largest Contentful Paint (LCP) na následných stránech pod 300 ms.
-- Nové kategorie výkonu LCP: Instant (<300 ms), Rychlé (<1000 ms), Přijatelné (<2500 ms).
-- Standardní hranice „dobrý“ výkon (2,5 s) je zastaralý kvůli pokročilým API, výkonnějším zařízením a infrastruktuře.
-- Psychologický argument: reakce do 100 ms působí okamžitě; obchodní dopady na e-commerce.
+- Dozrání Speculation Rules API umožňuje prediktivní přednačítání stránek v Chromium prohlížečích.
+- Výrazné zlepšení výkonu u následných navigací, s časy pod 300 ms pro významný podíl načítání.
+- Nové kategorie pro Largest Contentful Paint (LCP): Instant (<300 ms), Fast (<1000 ms), OK (<2500 ms).
+- Kritika stávajících prahů výkonu jako zastaralých vzhledem k psychologickým a obchodním faktorům.
+- Omezení: Nelze přednačíst první stránku webu (landing page).
 
 ## Podrobnosti
-Článek Web Performance Calendar 2025 od Fabiana Krumbhoze, konzultanta pro webový výkon ve společnosti Speed Kit a Google Developer Experta, analyzuje dlouhodobý cíl tvorby webových stránek s okamžitým načítáním. Po desetiletí optimalizace kritických cest vykreslování a snižování zpoždění Time to First Byte (TTFB) bránily fyzikální limity sítě dosažení skutečné rychlosti. V roce 2025 se situace změnila v prohlížečích Chromium (jako Chrome, Edge), kde Speculation Rules API dozrálo do fáze, kdy umožňuje efektivní predikci uživatelských akcí.
+Autor článku, Fabian Krumbholz, webový konzultant pro výkon u společnosti Speed Kit a uznávaný Google Developer Expert, popisuje dlouhodobý cíl dosáhnout okamžitého načítání webových stránek. Po desetiletí úsilí o optimalizaci kritických cest vykreslování a snižování času do prvního bajtu (Time to First Byte) bránily fyzické limity sítě plnému úspěchu. Situace se v roce 2025 změnila díky Speculation Rules API, což je standardní rozhraní prohlížeče umožňující definovat pravidla pro spekulativní načítání a vykreslování stránek na základě predikcí uživatelského chování. Tato API slouží k předvýpočtu potenciálně navštívených stránek v pozadí, což dramaticky zkracuje viditelnou latenci při navigaci.
 
-Tato API slouží k definování pravidel pro spekulativní načítání zdrojů nebo předvykreslování stránek na základě pravděpodobných navigací, například odkazů v menu nebo doporučených produktů na e-commerce. Agresivní prerendering vytváří kompletní verzi stránky v pozadí, kterou prohlížeč aktivuje ihned po kliknutí, což eliminuje většinu síťového zpoždění. Limity zůstávají: první stránka webu (landing page) se nedá přednačíst, protože není známa předem, a podpora je zatím omezena na Chromium – Firefox a Safari zaostávají.
+Krumbholz uvádí data z RUM měření stovek e-commerce webů, kde prediktivní přednačítání posunulo značnou část načítání do kategorie pod 300 ms. To vedlo k přepracování hodnocení Largest Contentful Paint (LCP), metriky měřící čas zobrazení největšího viditelného obsahu. Původní hranice „dobrého“ výkonu 2,5 sekundy, stanovená před pěti lety jako motivační cíl, je nyní neadekvátní v éře výkonnějších zařízení a infrastruktury. Nové vrstvy – Instant (<300 ms), Fast (<1000 ms) a OK (<2500 ms) – lépe odrážejí realitu. Psychologicky je reakce pod 100 ms vnímána jako okamžitá, což podporuje lepší uživatelskou zkušenost. Obchodně to znamená vyšší konverze v e-commerce, kde každý milisekundový rozdíl ovlivňuje příjmy.
 
-Data RUM z stovek e-commerce webů ukazují, že prediktivní přednačítání posouvá významný podíl načítání do kategorie Instant (<300 ms). Krumbholz navrhuje rozdělit stávající „dobrou“ hranici LCP (2,5 s) na tři úrovně: Instant (<300 ms), Rychlé (<1000 ms) a Přijatelné (<2500 s). Tato změna odráží realitu moderních zařízení s lepší infrastrukturou a novými API. Psychologicky je klíčové zpoždění pod 100 ms, aby uživatel cítil okamžitou odezvu; nad 1 s dochází k frustraci. Obchodně to znamená vyšší konverze na e-commerce, kde každých 100 ms zkrácení zvyšuje prodeje o 1 %.
+Omezením zůstává neschopnost přednačíst první stránku webu, což omezuje dopad na celý uživatelský cyklus. Tento pokrok je zatím omezen na Chromium-based prohlížeče jako Chrome nebo Edge, což vytváří fragmentaci oproti Firefoxu nebo Safari. Speed Kit, firma zaměřená na zrychlení webových zkušeností, tyto technologie integruje do svých řešení pro firmy.
 
 ## Proč je to důležité
-Tento posun ovlivňuje široký webový průmysl, zejména e-commerce a obsahové weby, kde navigace mezi stránkami tvoří většinu interakcí. Pro vývojáře znamená nutnost implementovat Speculation Rules API pro konkurenční výhodu, ale vyžaduje to pečlivé testování, aby se zabránilo zbytečnému plýtvání zdroji na nepravděpodobné predikce. V širším kontextu urychluje to konvergenci webu k nativním aplikacím, snižuje odliv uživatelů a tlačí na aktualizaci standardů Web Vitals od Google. Nicméně závislost na Chromium zdůrazňuje rizika monopolizace prohlížečového trhu a potřebu širší podpory. Pro uživatele to přináší rychlejší prohlížení, ale jen v podporovaných prohlížečích.
+Tento posun ovlivňuje webový průmysl tím, že zvyšuje tlak na aktualizaci nástrojů měření výkonu, jako jsou Core Web Vitals od Google. Pro uživatele znamená rychlejší navigaci na složitých webech, zejména e-commerce, kde pomalost vede k opuštění košíku. V širším kontextu urychluje adopci moderních API a nutí vývojáře přejít od reaktivní optimalizace k prediktivním technikám, což může zefektivnit vývoj, ale zároveň zvyšuje závislost na proprietárních prohlížečích. Dlouhodobě to může vést k přehodnocení standardů Web Vitals a lepší konkurenceschopnosti otevřeného webu oproti nativním aplikacím.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: zdraví
+category: nositelná technologi
 date: '2025-12-07 06:26:51'
 description: Nositelné senzory potu by brzy mohly detekovat stres, glukózu a další
-  biomarkery v reálném čase. Výzkumníci z University of Technology Sydney vyvíjejí
-  náplasti pro neinvazivní sledování zdraví.
+  biomarkery v reálném čase. Výzkumníci vyvíjejí náplasti pro neinvazivní sledování
+  zdravotních markerů.
 importance: 3
 layout: tech_news_article
 original_title: 'No sweat: perspiration tests to revolutionalise health'
@@ -14,31 +14,29 @@ source:
   emoji: 📰
   id: null
   name: PerthNow
-title: 'Bez námahy: analýza potu změní monitorování zdraví'
+title: 'Bez potu: testy potu změní monitorování zdraví'
 url: https://www.perthnow.com.au/lifestyle/health-fitness/no-sweat-perspiration-tests-to-revolutionalise-health-c-20917508
 urlToImage: https://images.perthnow.com.au/publication/C-20917508/79be7bfde5bb67b60c32e2ed59338cb7d33ff8bf-16x9-x0y0w1280h720.jpg?imwidth=1200
 urlToImageBackup: https://images.perthnow.com.au/publication/C-20917508/79be7bfde5bb67b60c32e2ed59338cb7d33ff8bf-16x9-x0y0w1280h720.jpg?imwidth=1200
 ---
 
-## Souhrn
-Výzkumníci z University of Technology Sydney (UTS) vyvíjejí nositelné náplasti, které sbírají a analyzují pot pro detekci biomarkerů spojených se stresem, diabetem a dalšími zdravotními stavy. Technologie kombinuje pokročilou mikrofluidiku, elektroniku a umělou inteligenci pro kontinuální monitorování v reálném čase. Cílem je vytvořit neinvazivní nástroj pro každodenní sledování změn v těle.
+### Souhrn
+Tým z University of Technology Sydney vyvíjí nositelné náplasti, které sbírají a analyzují pot pomocí umělé inteligence. Tyto senzory by měly v reálném čase detekovat biomarkery spojené se stresem, diabetem a dalšími stavy. Technologie využívá pokroky v mikrofluidice a elektronice, ale komerční nasazení je zatím vzdálené.
 
-## Klíčové body
-- Pot slouží jako biologická matrice pro detekci látek, jako jsou kortizol pro stres nebo glukóza pro diabetes.
-- Náplasti používají mikrofluidiku k sběru potu a AI k analýze dat během dne.
-- Faktory jako pohlaví, věk a fyzická kondice ovlivňují složení potu, což vyžaduje další výzkum.
-- Komercializace je vzdálená, stejně jako integrace do existujících nositelných zařízení jako chytré hodinky.
-- Nedávná studie UTS zdůrazňuje výzvu identifikace klinicky významných biomarkerů.
+### Klíčové body
+- Analýza potu odhaluje biomarkery jako kortizol pro stres nebo glukózu pro diabetes.
+- Náplasti kombinují sběr vzorků s AI pro kontinuální monitorování během dne.
+- Faktory jako pohlaví, věk a fyzická zdatnost ovlivňují složení potu.
+- Výzkum zdůrazňuje potřebu lepšího porozumění individuálním rozdílům v pocení.
+- Pot je tradičně používán pro monitorování léků, nyní se rozšiřuje na širší diagnostiku.
 
-## Podrobnosti
-Analýza potu není novinkou – dlouhodobě se používá například pro monitorování drog v těle. Analytická chemická Dayanne Bordin z UTS vysvětluje, že pot je stabilní biologická tekutina, kterou lze v laboratoři analyzovat na přítomnost různých látek. Nové možnosti otevírají pokroky v mikrofluidice, což jsou miniaturní systémy pro manipulaci s malými objemy tekutin, a v elektronice, která umožňuje vestavěné senzory do tenkých náplastí. Tyto náplasti by se nosily na kůži a kontinuálně sbíraly pot, zatímco umělá inteligence zpracovává data pro okamžité výsledky.
+### Podrobnosti
+Výzkumníci z University of Technology Sydney, vedení analytickou chemičkou Dayanne Bordinovou, testují náplasti, které kontinuálně sbírají pot a analyzují ho v reálném čase. Tyto zařízení využívají mikrofluidiku – technologii pro manipulaci s malými objemy tekutin na čipech – a pokročilé senzory pro detekci biomarkerů. Umělá inteligence pak zpracovává data, aby sledovala změny v těle během dne, například výkyvy kortizolu indikujícího stres nebo hladiny glukózy u diabetiků. Pot je biologická matrice, která se tradičně používá v toxikologii pro sledování drog, ale nové elektronické senzory umožňují neinvazivní, kontinuální měření bez odběrů krve.
 
-Tým UTS spolupracuje s mezinárodními partnery a nedávno publikoval studii, která poukazuje na klíčové překážky. Mezi nimi je potřeba lépe pochopit, jak lidé potí se v různých situacích. Rychlost pocení a složení potu se liší podle pohlaví, věku a fyzické zdatnosti. Například sportovci produkují jiný pot než sedavý člověk, což ovlivňuje koncentrace biomarkerů. Bez standardizace dat nebude technologie spolehlivá pro široké použití.
+Studie publikovaná týmem UTS a mezinárodními partnery ukazuje, že klíčovou výzvou je identifikace klinicky významných biomarkerů. Složení potu se liší podle individuálních faktorů: muži obvykle potí více než ženy, starší lidé méně efektivně, a fyzická kondice ovlivňuje koncentrace látek. Před širokým nasazením je třeba prozkoumat tyto variace, aby senzory poskytovaly přesné výsledky napříč populací. Integrace do existujících nositelných zařízení, jako chytré hodinky, je dalším cílem, ale vyžaduje miniaturizaci a kalibraci. Bordinová zdůrazňuje, že i když technologie pokročila, komerční produkty nejsou na obzoru – nejdříve musí být vyřešeny metodické otázky. Tento přístup by mohl nahradit invazivní metody, jako je bodání prstu pro glukózu, a poskytnout data pro prevenci onemocnění.
 
-Výzkum je v rané fázi: zatím jde o laboratorní testy a prototypy. Komercialní verze náplastí ještě chvíli potrvá, a integrace do zařízení jako Apple Watch nebo Fitbit je ještě vzdálenější. UTS se zaměřuje na praktické aplikace, jako je denní sledování stresu (pomocí kortizolu) nebo glukózy pro diabetiky, což by nahradilo invazivní odběry krve. Aktuálně existují podobné senzory, ale nejsou tak univerzální ani přesné.
-
-## Proč je to důležité
-Tato technologie by mohla zlepšit management chronických onemocnění tím, že poskytne kontinuální data bez jehly nebo invazivních testů. V širším kontextu health tech, kde dominují wearables od firem jako Apple nebo Garmin, by náplasti přidaly novou vrstvu neinvazivní diagnostiky. Nicméně jako expert na AI a IT vidím rizika: AI analýza musí zvládnout variabilitu dat, jinak hrozí falešné poplachy. Bez velkých datových sad a klinických studií zůstane vědeckým prototypem. Pokud se podaří překonat výzvy, mohlo by to ovlivnit trh s nositelnými zařízeními v hodnotě miliard dolarů, zejména pro prevenci stresu a diabetesu.
+### Proč je to důležité
+Technologie posiluje trend nositelné diagnostiky, kde senzory nahrazují laboratorní testy. Pro uživatele znamená snadné sledování zdraví bez nemocničních návštěv, pro diabetiky například kontinuální glukózu bez bolesti. V širším kontextu se zapojuje do ekosystému health-techu, kde AI zpracovává fyziologická data pro prediktivní medicínu. Nicméně bez standardizace biomarkerů a validace na velkých skupinách zůstává v rané fázi vývoje, podobně jako rané verze fitness trackerů. Pokud se překonají výzvy s variabilitou, mohla by urychlit personalizovanou péči, ale konkurence z krevních senzorů jako Continuous Glucose Monitors zůstává silná.
 
 ---
 
