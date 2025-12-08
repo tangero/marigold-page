@@ -389,7 +389,7 @@ DŮLEŽITÉ:
             'apiKey': self.news_api_key,
             'from': from_time,  # KRITICKÉ: pouze články z posledních 48h
             'sortBy': 'publishedAt',  # KRITICKÉ: sort podle freshness, ne popularity
-            'pageSize': 100,  # /everything podporuje více článků než top-headlines
+            'pageSize': 50,  # Sníženo ze 100 - méně článků = rychlejší zpracování
             'language': 'en'
         }
 
@@ -548,8 +548,8 @@ DŮLEŽITÉ:
                 'completion_tokens': analysis_usage.get('completion_tokens', 0)
             })
 
-        # Přeskočit články s nízkou důležitostí (< 3)
-        if importance < 3:
+        # Přeskočit články s nízkou důležitostí (< 4) - pouze velmi důležité a průlomové
+        if importance < 4:
             if proc_logger:
                 proc_logger.log_article_skip('low_importance', article['title'], {'importance': importance})
             logger.info(f"⏭️ Přeskakuji článek s nízkou důležitostí ({importance}): {article['title'][:50]}")

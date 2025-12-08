@@ -22,6 +22,10 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Jekyll zpracovává pouze čerstvé články - rychlejší build
   - Integrace do GitHub Actions workflow (build.yml)
   - URL zůstávají zachované: `/tech-news/YYYY-MM-DD/slug/`
+- **Optimalizace generátoru tech_news** - snížení počtu článků
+  - Práh důležitosti zvýšen z 3 na 4 (pouze "velmi důležité" a "průlomové")
+  - PageSize snížen ze 100 na 50 článků
+  - Očekávaný výsledek: ~20-30 článků/den místo 300+
 
 ### Changed
 - **Kompaktní patička** - redesign footeru na 3 řádky místo 3 sloupců
