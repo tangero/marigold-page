@@ -927,147 +927,120 @@ audio::-webkit-media-controls-time-remaining-display {
   }
 }
 /*********************/
-/* SITE FOOTER */
+/* KOMPAKTNÍ PATIČKA */
 /*********************/
 .site-footer {
-  padding: 40px 0 20px 0;
-}
-
-.footer-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
-  margin-bottom: 30px;
+  padding: 20px 0 15px 0;
+  max-height: 150px;
 }
 @media screen and (max-width: 640px) {
-  .footer-grid {
-    grid-template-columns: 1fr;
-    gap: 30px;
+  .site-footer {
+    max-height: none;
+    padding: 15px 0;
   }
 }
 
-.footer-column h3 {
-  font-size: 18px;
-  font-weight: 600;
-  color: #222;
-  margin: 0 0 15px 0;
-  border-bottom: 2px solid #4183C4;
-  padding-bottom: 8px;
+.footer-compact {
+  text-align: center;
 }
-.footer-column p {
-  margin: 0 0 15px 0;
-  font-size: 14px;
-  line-height: 1.6;
-  color: #666;
+
+.footer-row {
+  margin: 8px 0;
+  line-height: 1.5;
 }
-.footer-column ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.footer-column li {
-  margin-bottom: 12px;
-}
-.footer-column a {
+.footer-row a {
   color: #333;
   text-decoration: none;
   transition: color 0.2s ease;
-  display: block;
 }
-.footer-column a:hover {
+.footer-row a:hover {
   color: #4183C4;
 }
-.footer-column a strong {
-  display: block;
-  font-weight: 600;
-  font-size: 14px;
-  margin-bottom: 2px;
-}
-.footer-column a span {
-  display: block;
-  font-size: 13px;
-  color: #666;
-  line-height: 1.4;
+.footer-row img {
+  vertical-align: middle;
+  margin: 0 3px;
 }
 
-.footer-bio {
-  font-size: 14px;
-  line-height: 1.6;
-  color: #666;
-  margin: 0 0 15px 0;
-}
-
-.footer-social {
+.footer-social-row {
   display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 10px;
 }
-.footer-social a {
+@media screen and (max-width: 640px) {
+  .footer-social-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+.social-icons {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.social-icons a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   background-color: #f5f5f5;
   transition: all 0.2s ease;
 }
-.footer-social a:hover {
+.social-icons a:hover {
   background-color: #4183C4;
   transform: translateY(-2px);
 }
-.footer-social a:hover .svg-icon {
+.social-icons a:hover .svg-icon {
   fill: white;
 }
-.footer-social a .svg-icon {
-  width: 18px;
-  height: 18px;
+.social-icons a .svg-icon {
+  width: 14px;
+  height: 14px;
   fill: #333;
   transition: fill 0.2s ease;
 }
 
-.footer-projects .footer-links a {
-  padding: 8px 0;
-  border-bottom: 1px solid #f0f0f0;
-}
-.footer-projects .footer-links a:last-child {
-  border-bottom: none;
-}
-.footer-projects .footer-links a:hover {
-  padding-left: 8px;
-  background-color: #fafafa;
-  border-radius: 4px;
-}
-
-.footer-quick-links a {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 8px 0;
-}
-.footer-quick-links a .svg-icon {
-  width: 18px;
-  height: 18px;
-  fill: #4183C4;
-}
-
-.footer-bottom {
-  text-align: center;
-  padding-top: 20px;
-  border-top: 1px solid #e0e0e0;
-  margin-top: 30px;
-}
-.footer-bottom p {
-  margin: 0;
-  font-size: 14px;
+.copyright {
+  font-size: 13px;
   color: #666;
 }
-.footer-bottom a {
-  color: #4183C4;
-  text-decoration: none;
+
+.footer-projects-row {
+  font-size: 14px;
+  margin: 10px 0;
 }
-.footer-bottom a:hover {
-  text-decoration: underline;
+.footer-projects-row a {
+  padding: 0 5px;
+}
+@media screen and (max-width: 640px) {
+  .footer-projects-row {
+    font-size: 12px;
+    line-height: 1.8;
+  }
+}
+
+.footer-partners-row {
+  font-size: 11px;
+  color: #666;
+  margin-top: 10px;
+}
+.footer-partners-row a {
+  padding: 0 3px;
+  font-size: 11px;
+}
+.footer-partners-row img {
+  max-height: 14px;
+  width: auto;
+}
+@media screen and (max-width: 640px) {
+  .footer-partners-row {
+    font-size: 10px;
+    line-height: 1.8;
+  }
 }
 
 .highlight {
