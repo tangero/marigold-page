@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lidé v cyklu: Inženýrské vedení v chaotickém odvětví | Marigold.cz Tech News</title>
+    <meta name="description" content="Michelle Brush z Google analyzuje, jak paradox Jevonsův a ironie automatizace mění roli softwarových inženýrů, a navrhuje čtyři klíčové dovednosti pro budoucnos">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-24/presentation-humans-in-the-loop-engineering-leader/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 24.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">InfoQ.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Lidé v cyklu: Inženýrské vedení v chaotickém odvětví</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-24T11:08:00+00:00">24.11.2025</time>
+                    <span class="category">inženýrské vedení</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://res.infoq.com/presentations/ai-ml-jobs/en/card_header_image/michelle-brush-twitter-card-1761904230413.jpg" alt="Lidé v cyklu: Inženýrské vedení v chaotickém odvětví" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Michelle Brush, ředitelka inženýrství pro Site Reliability Engineering (SRE) u Googlu, varuje, že přes rozsáhlou automatizaci a nasazení AI/ML systémů bude poptávka po softwarovém inženýrství dál růst – díky Jevonskému paradoxu. Zároveň však zbývající inženýrské úlohy budou složitější kvůli tzv. ironiím automatizace. Jako řešení navrhuje čtyři klíčové dovednosti pro inženýrské vedení.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Jevonsův paradox: efektivnější technologie vytvářejí větší celkovou poptávku po softwaru.</li>
+<li>Ironie automatizace: čím více se automatizuje, tím náročnější a kritičtější jsou zbývající lidské rozhodovací role.</li>
+<li>Čtyři klíčové dovednosti: systémové myšlení, neabstraktní návrh systémů, inženýrství spolehlivosti (SRE) a teorie komplexity.</li>
+<li>Nutnost investovat do juniorních talentů, protože složitost systémů přesahuje schopnosti jednotlivců.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Brush vychází z dlouholeté praxe v SRE – disciplíně zaměřené na spolehlivost velkorozměrových systémů – a upozorňuje, že AI a automatizace nevedou k úbytku inženýrských prací, ale k jejich transformaci. Jevonsův paradox, původně popsaný v ekonomii, zde znamená, že zvýšená efektivita vývoje (např. díky AI asistentům) snižuje náklady a tím podněcuje vznik nových aplikací a služeb, což zvyšuje celkovou poptávku po softwaru. Zároveň však automatizace odstraňuje rutinní úkoly a nechává lidi řešit výjimečné, nečekané nebo nejasné situace – což jsou právě ty nejnáročnější. Tyto „ironie automatizace“ vedou k tomu, že inženýři musí lépe chápou systém jako celek, ne jen jeho části.</p>
+<p>Brush proto doporučuje čtyři dovednosti: systémové myšlení (chápání zpětných vazeb a interakcí mezi komponentami), neabstraktní návrh systémů (práce s reálnými omezeními hardwaru, sítí a lidského chování), inženýrství spolehlivosti (SRE – systematické řízení rizik a incidentů) a teorii komplexity (porozumění emergentním jevům v distribuovaných systémech). Zvláště zdůrazňuje, že tyto dovednosti nelze plně automatizovat a že je třeba aktivně rozvíjet juniorní talent, protože dnešní systémy jsou příliš složité na to, aby je zvládl jednotlivec sám.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento pohled přináší realistickou korekci nadšeného očekávání, že AI nahradí většinu inženýrské práce. Místo toho ukazuje, že lidská role se posouvá směrem k vyšší abstrakci, odpovědnosti a systémovému uvažování. Pro průmysl to znamená, že investice do vzdělávání, mentorství a kultury spolehlivosti budou klíčové – nejen do nákupu dalších AI nástrojů. Pro inženýry to znamená, že technická specializace nestačí; bude potřeba širšího systémového pohledu a schopnosti pracovat s nejistotou.</p>
+<hr />
+<p><a href="https://www.infoq.com/presentations/ai-ml-jobs/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 InfoQ.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.infoq.com/presentations/ai-ml-jobs/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Presentation: Humans in the Loop: Engineering Leadership in a Chaotic Industry</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

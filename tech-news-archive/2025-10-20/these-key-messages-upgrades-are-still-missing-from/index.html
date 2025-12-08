@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iOS 26 stále postrádá klíčové funkce pro aplikaci Zprávy, včetně šifrování RCS | Marigold.cz Tech News</title>
+    <meta name="description" content="Apple slíbil podporu end-to-end šifrování pro RCS protokol, ale ani v iOS 26.1 beta se tato funkce neobjevila. Chybí také další vylepšení z novějších verzí RCS.">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-20/these-key-messages-upgrades-are-still-missing-from/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 20.10.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">9to5Mac</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">iOS 26 stále postrádá klíčové funkce pro aplikaci Zprávy, včetně šifrování RCS</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-10-20T16:25:00+00:00">20.10.2025</time>
+                    <span class="category">mobilní aplikace</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/messages-macos-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="iOS 26 stále postrádá klíčové funkce pro aplikaci Zprávy, včetně šifrování RCS" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Apple na jaře 2025 potvrdil, že do své aplikace Zprávy přidá podporu end-to-end šifrování pro RCS protokol, který umožňuje pokročilejší komunikaci mezi iPhone a Android zařízeními. Ani v aktuální beta verzi iOS 26.1 se však tato funkce neobjevila, stejně jako další vylepšení z novějších verzí RCS protokolu.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Apple implementoval v iOS 18 pouze základní verzi RCS 2.4 bez šifrování</li>
+<li>V březnu 2025 slíbil podporu end-to-end šifrování z RCS verze 3.0</li>
+<li>iOS 26.1 beta stále obsahuje pouze původní verzi RCS 2.4</li>
+<li>Chybí také vylepšení z mezilehlé verze RCS 2.7</li>
+<li>Není jasné, kdy Apple slíbené funkce skutečně vydá</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Když Apple loni představil podporu RCS v iOS 18, šlo o minimalistickou implementaci. Firma využila verzi 2.4 protokolu, která nabízí pouze základní funkce jako potvrzení o přečtení zpráv, vyšší kvalitu fotografií a indikátory psaní. Zásadní bezpečnostní prvek - end-to-end šifrování - chyběl, protože otevřený standard RCS ho v té době ještě neobsahoval.</p>
+<p>Situace se změnila s vydáním RCS verze 3.0, která end-to-end šifrování konečně přinesla. Apple v březnu 2025 potvrdil portálu 9to5Mac, že se podílel na vývoji této technologie a přidá ji do iOS, iPadOS, macOS a watchOS v budoucích aktualizacích. Firma zdůraznila, že šifrování považuje za klíčovou bezpečnostní technologii, kterou iMessage podporuje od svého vzniku.</p>
+<p>Problém je, že &ldquo;budoucí aktualizace&rdquo; stále nepřišla. iOS 26, který by měl být logickým kandidátem na toto vylepšení, zatím šifrování neobsahuje ani ve své beta verzi 26.1. Kromě šifrování z verze 3.0 Apple přeskočil také vylepšení z mezilehlé verze RCS 2.7, která přináší další funkce srovnatelné s moderními komunikačními platformami jako iMessage.</p>
+<p>RCS (Rich Communication Services) je nástupce klasických SMS zpráv, který umožňuje pokročilejší komunikaci mezi různými platformami. Pro uživatele iPhonů komunikujících s Android zařízeními znamená lepší kvalitu sdílených médií a moderní funkce, které dosud fungovaly pouze v proprietárním iMessage.</p>
+<h2>Proč je to důležité</h2>
+<p>Odkládání implementace end-to-end šifrování pro RCS je významné z několika důvodů. Především jde o bezpečnost komunikace mezi ekosystémy iOS a Android, která tvoří většinu mobilní komunikace. Bez šifrování jsou zprávy mezi těmito platformami potenciálně zranitelné vůči odposlouchávání.</p>
+<p>Situace také ukazuje, že Apple přistupuje k RCS s menší prioritou než ke svému vlastnímu iMessage. Zatímco firma ráda zdůrazňuje svůj důraz na soukromí uživatelů, implementace základního RCS bez šifrování a následné oddalování vylepšení naznačuje, že meziplatformní komunikace není prioritou. Pro uživatele to znamená, že komunikace s Android zařízeními zůstává méně bezpečná a funkčně chudší než komunikace v rámci ekosystému Apple.</p>
+<hr />
+<p><a href="https://9to5mac.com/2025/10/20/apple-ios-26-key-iphone-rcs-upgrades-still-missing-for-now/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 9to5Mac</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://9to5mac.com/2025/10/20/apple-ios-26-key-iphone-rcs-upgrades-still-missing-for-now/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: These key Messages upgrades are still missing from iOS 26, at least for now - 9to5Mac</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

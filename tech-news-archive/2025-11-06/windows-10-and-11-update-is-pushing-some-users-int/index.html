@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Říjnová aktualizace Windows 10 a 11 nutí část uživatelů do BitLocker recovery | Marigold.cz Tech News</title>
+    <meta name="description" content="Říjnový bezpečnostní balíček pro Windows 10 a Windows 11 u části zařízení neočekávaně aktivuje BitLocker recovery obrazovku a vyžaduje obnovovací klíč, což blok">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-06/windows-10-and-11-update-is-pushing-some-users-int/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 06.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">TechSpot</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Říjnová aktualizace Windows 10 a 11 nutí část uživatelů do BitLocker recovery</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-06T12:47:00+00:00">06.11.2025</time>
+                    <span class="category">bezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.techspot.com/images2/news/bigimage/2024/05/2024-05-08-image-12.jpg" alt="Říjnová aktualizace Windows 10 a 11 nutí část uživatelů do BitLocker recovery" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Říjnová bezpečnostní aktualizace pro Windows 11 25H2, Windows 11 24H2 a Windows 10 22H2 u části uživatelů způsobuje nečekané zobrazení BitLocker recovery obrazovky, která vyžaduje zadání obnovovacího klíče, jinak znemožní přístup k systému. Incident upozorňuje na rizika automaticky řízeného šifrování disků a nedostatečné přípravy uživatelů i firem na obnovu po aktualizaci.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Některá zařízení po instalaci říjnové aktualizace Windows končí v BitLocker recovery režimu bez předchozí změny konfigurace uživatelem.</li>
+<li>Uživatelé bez zálohovaného recovery klíče ztrácejí okamžitý přístup k datům a hrozí jim reálné riziko trvalé nedostupnosti disku.</li>
+<li>Problém se dotýká jak Windows 11 (25H2, 24H2), tak Windows 10 22H2, a to včetně podnikových instalací.</li>
+<li>Incident znovu otevírá otázku spolehlivosti aktualizačního řetězce Microsoftu a správy BitLockeru v hybridních a cloudových prostředích.</li>
+<li>Organizace jsou nuceny revidovat politiku distribuce aktualizací, správy recovery klíčů a testování bezpečnostních záplat.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Podle dostupných hlášení z komunity a IT správců došlo po instalaci říjnového bezpečnostního balíčku pro Windows 11 (včetně verzí 25H2 a 24H2) a Windows 10 22H2 k situaci, kdy se systém po restartu nebootoval standardně, ale přešel do BitLocker recovery obrazovky. BitLocker je nástroj Microsoftu pro šifrování disků, který chrání data při odcizení nebo neoprávněném přístupu k zařízení. Obnovovací klíč (BitLocker recovery key) slouží jako nouzový prostředek k odemknutí šifrovaného disku, typicky uložený v Microsoft účtu, Azure AD, Active Directory nebo externě.</p>
+<p>V popisovaných případech však uživatelé často nevěděli, že mají BitLocker aktivní, nebo neměli obnovovací klíče dostupné. To je obzvlášť problematické u notebooků dodávaných s přednastaveným automatickým šifrováním, kde koncový uživatel proces neřídí vědomě. U firemních strojů může být klíč uložen v centrální správě (např. Azure AD nebo on-premise Active Directory), ale pokud není správa konzistentní, dochází k prodlevám a výpadkům.</p>
+<p>Technicky může být spouštěčem recovery režimu detekovaná změna v konfiguraci systému, firmware (UEFI), TPM modulu nebo v boot řetězci, kterou BitLocker vyhodnotí jako potenciální útok. Bez detailního vyjádření Microsoftu není jasné, zda jde o konkrétní chybu v aktualizaci, v kombinaci ovladačů, nebo jen o zesílenou citlivost kontrol integrity. Pro administrátory to znamená, že běžná bezpečnostní aktualizace může vyvolat kryptografický lockout bez předchozího varování.</p>
+<p>Pro uživatele je kritické ověřit, kde mají uloženy BitLocker recovery klíče, a zda jsou dostupné mimo dané zařízení. Pro IT oddělení je nezbytné zkontrolovat, zda jsou klíče systematicky zálohovány, zda jsou aktualizace předem testovány na vzorku zařízení a zda existuje jasný incident response postup pro případy hromadného vstupu do recovery režimu.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento incident ukazuje, že bezpečnostní mechanismus, který má chránit data, se může stát single point of failure pro dostupnost celého systému. V prostředí, kde je BitLocker i automatické šifrování standardem, vede chyba v aktualizaci nebo v procesu ověřování integrity k okamžitému znemožnění práce, což je zásadní problém pro firmy, školy i jednotlivce.</p>
+<p>Z širšího pohledu to zpochybňuje míru důvěry ve schopnost Microsoftu dodávat bezpečnostní aktualizace bez vedlejších dopadů na boot proces a šifrování. IT týmy budou nuceny přísněji segmentovat rollout aktualizací, posílit centrální správu recovery klíčů a lépe školit uživatele, aby rozuměli tomu, že BitLocker není „neviditelná“ funkce, ale kritická vrstva, která musí mít zajištěnou proveditelnou obnovu. V kombinaci s rostoucí mírou útoků na firmware a řetězec dodávek je tento případ praktickou připomínkou, že bezpečnost bez robustní strategie obnovy je nedostatečná a potenciálně kontraproduktivní.</p>
+<hr />
+<p><a href="https://www.techspot.com/news/110148-windows-10-11-update-pushing-users-bitlocker-recovery.html">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 TechSpot</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.techspot.com/news/110148-windows-10-11-update-pushing-users-bitlocker-recovery.html" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Windows 10 and 11 update is pushing some users into BitLocker recovery - TechSpot</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

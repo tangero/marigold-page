@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Přestaňte stahovat software z webů: Windows má vestavěný správce balíčků | Marigold.cz Tech News</title>
+    <meta name="description" content="Instalace aplikací z internetu může být nebezpečná, ale správce balíčků toto riziko výrazně snižuje. Windows má takový nástroj vestavěný přímo v systému.">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-02/stop-downloading-software-from-websites-windows-ha/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 02.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">XDA Developers</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Přestaňte stahovat software z webů: Windows má vestavěný správce balíčků</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-02T21:00:00+00:00">02.11.2025</time>
+                    <span class="category">správa softwaru</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/windows-11-laptop-winget.jpg?w=1600&h=900&fit=crop" alt="Přestaňte stahovat software z webů: Windows má vestavěný správce balíčků" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Windows 11 obsahuje vestavěný správce balíčků nazvaný Winget (Windows Package Manager), který umožňuje instalovat aplikace bezpečněji a rychleji než tradiční stahování z webových stránek. Nástroj funguje přes příkazovou řádku a nabízí podobnou funkcionalitu, jakou znají uživatelé Linuxu ze správců balíčků jako apt nebo yum.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Winget je vestavěný správce balíčků ve Windows 11, který funguje přes Windows Terminal</li>
+<li>Instalace aplikací probíhá pomocí jednoduchých příkazů: <code>winget search</code> pro vyhledávání a <code>winget install</code> pro instalaci</li>
+<li>Aplikace se instalují rychle a často tiše na pozadí bez nutnosti neustálé interakce s instalátorem</li>
+<li>Eliminuje rizika spojená se stahováním softwaru z podezřelých webových stránek</li>
+<li>Každá aplikace má unikátní ID, které zajišťuje přesnou identifikaci při instalaci</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Tradiční způsob instalace aplikací ve Windows spočívá ve vyhledání programu přes Google, otevření výsledku, který vypadá legitimně, a stažení instalátoru. Tento přístup funguje již dlouho, ale přináší bezpečnostní rizika - uživatelé mohou snadno skončit na podvodných stránkách nabízejících software s malwarem.</p>
+<p>Winget nabízí bezpečnější alternativu. Pro začátek stačí otevřít Windows Terminal a zadat příkaz <code>winget search &lt;název aplikace&gt;</code>. Systém vrátí seznam dostupných aplikací včetně jejich unikátních identifikátorů (ID). Použití ID je nejspolehlivější způsob instalace, protože předchází konfliktům u aplikací s podobnými názvy.</p>
+<p>Samotná instalace pak probíhá příkazem <code>winget install &lt;ID aplikace&gt;</code>. Lze použít i název aplikace, ale u podobně pojmenovaných programů může dojít ke konfliktům. Mnoho aplikací se instaluje tiše na pozadí bez nutnosti proklikávat se instalačními dialogy.</p>
+<p>Příkazová řádka může na první pohled působit zastrašujícím dojmem, ale práce s Winget je překvapivě jednoduchá. Jakmile si uživatel zapamatuje základní příkazy, je tento způsob instalace výrazně rychlejší než procházení webových stránek a stahování instalátorů.</p>
+<p>Autor článku zmiňuje také Microsoft Store jako další bezpečnou alternativu, která je uživatelsky přívětivější díky grafickému rozhraní, ale Winget nabízí větší rychlost a kontrolu pro pokročilejší uživatele.</p>
+<h2>Proč je to důležité</h2>
+<p>Winget představuje posun ve filozofii Windows směrem k přístupu, který je běžný v Linuxu již dlouhá léta. Správci balíčků výrazně zvyšují bezpečnost instalace softwaru, protože aplikace pocházejí z ověřených repozitářů místo náhodných webových stránek. To snižuje riziko instalace malwaru nebo podvržených verzí legitimního softwaru.</p>
+<p>Pro běžné uživatele to znamená jednodušší a bezpečnější správu aplikací. Pro IT administrátory pak Winget nabízí možnost automatizace instalací a snadnější správu firemních počítačů. Vzhledem k tomu, že je nástroj vestavěný přímo ve Windows 11, není potřeba instalovat žádný dodatečný software.</p>
+<hr />
+<p><a href="https://www.xda-developers.com/stop-downloading-software-websites-windows-has-built-in-package-manager/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 XDA Developers</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.xda-developers.com/stop-downloading-software-websites-windows-has-built-in-package-manager/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Stop downloading software from websites: Windows has a built-in package manager - XDA</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linuxový kernel míří k povolení Microsoft C Extensions napříč kompilací | Marigold.cz Tech News</title>
+    <meta name="description" content="Vývojáři Linuxového kernelu zvažují plošné zapnutí přepínače -fms-extensions pro GCC a Clang, což by umožnilo využít vybrané konstrukce z Microsoft C Extensions">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-09/the-linux-kernel-looks-to-bite-the-bullet-in-enabl/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 09.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Phoronix</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Linuxový kernel míří k povolení Microsoft C Extensions napříč kompilací</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-09T14:51:00+00:00">09.11.2025</time>
+                    <span class="category">programování</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.phoronix.net/image.php?id=2025&image=ms_b" alt="Linuxový kernel míří k povolení Microsoft C Extensions napříč kompilací" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Linuxový kernel se připravuje na krok, který byl roky předmětem debat: plošné povolení přepínače <code>-fms-extensions</code> v systému sestavení (kbuild). Dva patche zařazené do větve <code>kbuild-next</code> mají umožnit použití vybraných Microsoft C Extensions při kompilaci jádra pomocí GCC i LLVM/Clang, primárně kvůli jednoduššímu a kompaktnějšímu zápisu některých datových struktur.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Dva patche v <code>kbuild-next</code> navrhují globální zapnutí <code>-fms-extensions</code> pro kompilaci Linuxového kernelu.</li>
+<li>Rozšíření cílí zejména na možnost anonymního vkládání označených <code>struct</code> a <code>union</code> do jiných struktur.</li>
+<li>Změna se očekává pro merge okno Linux 6.19, pokud nebudou zásadní námitky od klíčových vývojářů včetně Linuse Torvaldse.</li>
+<li>Historicky byly podobné návrhy odmítány kvůli obavám z dalšího ne-standardního chování kompilátoru.</li>
+<li>Zastánci argumentují čitelnějším kódem, potenciální úsporou paměti a praktičtější prací s datovými strukturami.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Návrh vychází z dlouhodobé diskuse na mailing listu Linuxového kernelu o tom, zda je rozumné přidávat další ne zcela standardní rozšíření jazyka C do oficiálního build procesu. Přepínač <code>-fms-extensions</code>, podporovaný jak GCC, tak LLVM/Clang, aktivuje podmnožinu chování známého z Microsoft Visual C/C++ kompilátoru. V kontextu Linuxového kernelu nejde o přibližování se Windows API, ale o využití konkrétních syntaktických možností pro definici datových struktur.</p>
+<p>Klíčovým příkladem je možnost zahrnout „tagged“ <code>struct</code> nebo <code>union</code> anonymně do jiné struktury. Tím lze vytvářet vrstvené datové typy, kde se polím vnořených struktur přistupuje příměji, bez nutnosti vkládat další pojmenovanou úroveň. Výsledkem je kompaktnější, přehlednější kód a v některých případech lepší rozložení na zásobníku a v paměti. Návrh předložil mimo jiné Rasmus Villemoes, který zdůrazňuje, že jednotlivé dílčí případy sice vždy šlo obejít, ale kumulativně vzniká zbytečná zátěž v syntaxi a údržbě.</p>
+<p>Dosud se podobné návrhy nedařilo prosadit, protože přidání dalšího globálního přepínače znamená:
+- potenciální riziko vzniku kódu využívajícího méně zřejmé Microsoft-specifické konstrukce,
+- komplikace pro alternativní toolchainy nebo statickou analýzu, které počítají se striktně standardním C,
+- nutnost pečlivě hlídat kompatibilitu napříč architekturami a konfiguracemi jádra.</p>
+<p>Zařazení patchů do <code>kbuild-next</code> však ukazuje, že část maintainerské komunity je ochotná „kousnout do kyselého jablka“ a akceptovat omezené ne-standardní rozšíření výměnou za dlouhodobé zjednodušení kódu. Finální rozhodnutí pravděpodobně padne během merge okna pro Linux 6.19, kde se ukáže, zda proti změně vystoupí klíčové osobnosti vývoje kernelu.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento krok není mediálně efektní, ale má praktický význam pro celý ekosystém okolo Linuxového kernelu:</p>
+<p>Zaprvé, ovlivňuje standardy psaní kódu jádra a tím i tisíce vývojářů, kteří vytvářejí ovladače, subsystémy a out-of-tree moduly. Povolení Microsoft C Extensions otevírá dveře k využívání nových idiomů v kódu, ale zároveň zvyšuje nároky na disciplínu: je nutné držet se jen těch částí rozšíření, které jsou srozumitelné, dobře dokumentované a podporované všemi relevantními kompilátory.</p>
+<p>Zadruhé, změna zasahuje do oblasti přenositelnosti a nástrojové podpory. Nástroje pro statickou analýzu, formální verifikaci a alternativní build systémy musí spolehlivě pracovat s kódem, který využívá <code>-fms-extensions</code>. Pokud se ekosystém přizpůsobí, může to vést k robustnější infrastruktuře, ale přechodné období může odhalit skryté chyby a nekonzistence.</p>
+<p>Zatřetí, jde o signál ohledně pragmatismu vývoje Linuxového kernelu: preferuje se praktičnost a údržovatelnost před ideologicky čistým držením se standardu C. To může do budoucna ovlivnit i další rozhodnutí, například ohledně podpory nových jazykových vlastností v C, rozšíření pro bezpečnější paměťové modely nebo integraci Rustu a dalších jazyků v kritických částech systému.</p>
+<hr />
+<p><a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Phoronix</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions - Phoronix</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

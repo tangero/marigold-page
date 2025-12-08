@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QNAP varuje před kritickou zranitelností ASP.NET ve svém zálohovacím softwaru pro Windows | Marigold.cz Tech News</title>
+    <meta name="description" content="QNAP upozorňuje zákazníky na kritickou zranitelnost v ASP.NET Core, která postihuje i NetBak PC Agent - nástroj pro zálohování dat z Windows počítačů na síťová ">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-27/qnap-warns-of-critical-aspnet-flaw-in-its-windows-/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 27.10.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">BleepingComputer</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">QNAP varuje před kritickou zranitelností ASP.NET ve svém zálohovacím softwaru pro Windows</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-10-27T16:55:02+00:00">27.10.2025</time>
+                    <span class="category">kybernetická bezpečn</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.bleepstatic.com/content/hl-images/2025/01/23/QNAP.jpg" alt="QNAP varuje před kritickou zranitelností ASP.NET ve svém zálohovacím softwaru pro Windows" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Tajwanský výrobce síťových úložišť QNAP varuje uživatele před kritickou bezpečnostní zranitelností v ASP.NET Core, která postihuje i jeho zálohovací software NetBak PC Agent pro Windows. Chyba umožňuje útočníkům s nízkými oprávněními odcizit přihlašovací údaje jiných uživatelů nebo obejít bezpečnostní kontroly prostřednictvím HTTP request smuggling.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Zranitelnost CVE-2025-55315 postihuje webový server Kestrel v ASP.NET Core a získala nejvyšší hodnocení závažnosti v historii ASP.NET Core</li>
+<li>NetBak PC Agent při instalaci využívá komponenty Microsoft ASP.NET Core, čímž se stává zranitelným</li>
+<li>Útočníci mohou zneužít chybu k přihlášení jako jiný uživatel, obejití CSRF ochrany nebo provádění injection útoků</li>
+<li>QNAP doporučuje buď přeinstalovat NetBak PC Agent, nebo ručně aktualizovat ASP.NET Core Runtime</li>
+<li>Microsoft zranitelnost opravil před dvěma týdny</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Zranitelnost CVE-2025-55315 představuje bezpečnostní riziko typu security bypass v webovém serveru Kestrel, který je součástí ASP.NET Core frameworku od Microsoftu. Problém spočívá v možnosti provádět HTTP request smuggling - techniku, při které útočník manipuluje s HTTP požadavky tak, aby obešel bezpečnostní kontroly na front-endu aplikace.</p>
+<p>NetBak PC Agent je zálohovací utilita pro Windows, která umožňuje uživatelům zálohovat data ze svých počítačů přímo na síťová úložiště NAS od QNAPu. Protože tento software při instalaci automaticky nainstaluje a využívá komponenty Microsoft ASP.NET Core, jsou počítače s touto aplikací potenciálně zranitelné, pokud nebyly aktualizovány na nejnovější verzi.</p>
+<p>Barry Dorrans, bezpečnostní manažer pro .NET u Microsoftu, vysvětlil, že dopad úspěšného útoku závisí na konkrétní ASP.NET aplikaci. Útočník s autentizací může odeslat speciálně upravené HTTP požadavky na webový server, což může vést k neoprávněnému přístupu k citlivým datům, modifikaci souborů na serveru nebo k omezeným denial-of-service podmínkám.</p>
+<p>Uživatelé mají dvě možnosti, jak zabezpečit své systémy. První variantou je kompletní přeinstalace NetBak PC Agent, která automaticky nainstaluje nejnovější verzi ASP.NET Core runtime komponent. Druhou možností je ruční aktualizace ASP.NET Core stažením a instalací nejnovějšího ASP.NET Core Runtime (Hosting Bundle) ze stránky .NET 8.0.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato situace ilustruje rostoucí problém v ekosystému moderního softwaru - závislosti na externích komponentách mohou vytvářet bezpečnostní rizika i v produktech, které samy o sobě neobsahují chyby. QNAP není výrobcem ASP.NET Core, přesto musí reagovat na zranitelnosti v této technologii, protože ji jeho software využívá.</p>
+<p>Pro uživatele síťových úložišť QNAP je důležité si uvědomit, že bezpečnost jejich dat nezávisí pouze na aktualizacích firmwaru NAS zařízení, ale také na aktuálnosti všech komponent zálohovacího softwaru na jejich počítačích. Nejvyšší hodnocení závažnosti, které tato zranitelnost získala, podtrhuje naléhavost okamžité aktualizace.</p>
+<hr />
+<p><a href="https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 BleepingComputer</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: QNAP warns of critical ASP.NET flaw in its Windows backup software - BleepingComputer</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

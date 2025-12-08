@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft WSUS pod aktivním útokem, varuje Google a další bezpečnostní týmy | Marigold.cz Tech News</title>
+    <meta name="description" content="Kritická zranitelnost CVE-2025-59287 ve Windows Server Update Services je aktivně zneužívána útočníky proti desítkám organizací. Microsoft vydal nouzovou záplat">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-27/microsoft-wsus-attacks-hit-multiple-orgs-google-wa/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 27.10.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Theregister.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Microsoft WSUS pod aktivním útokem, varuje Google a další bezpečnostní týmy</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-10-27T23:54:00+00:00">27.10.2025</time>
+                    <span class="category">kybernetická bezpečn</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://regmedia.co.uk/2024/04/19/shutterstock_bell.jpg" alt="Microsoft WSUS pod aktivním útokem, varuje Google a další bezpečnostní týmy" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Kritická bezpečnostní chyba ve Windows Server Update Services (WSUS) s označením CVE-2025-59287 je aktivně zneužívána kybernetickými útočníky proti desítkám organizací. Google Threat Intelligence Group varuje před novou skupinou útočníků UNC6512, která využívá tuto zranitelnost ke vzdálenému spuštění kódu a exfiltraci dat. Microsoft sice vydal nouzovou záplatu, ale dosud neaktualizoval své bezpečnostní doporučení o probíhajících útocích.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Zranitelnost CVE-2025-59287 umožňuje neautentizovaným útočníkům vzdálené spuštění libovolného kódu na zranitelných serverech</li>
+<li>Google potvrdil aktivní útoky nové skupiny UNC6512 proti &ldquo;desítkám organizací&rdquo;</li>
+<li>Postiženy jsou Windows Server verze 2012 až 2025 s aktivní rolí WSUS</li>
+<li>Americká agentura CISA přidala chybu do katalogu známých zneužívaných zranitelností</li>
+<li>Microsoft neaktualizoval své bezpečnostní doporučení a stále uvádí, že chyba nebyla veřejně zveřejněna ani zneužita</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Zranitelnost CVE-2025-59287 vzniká kvůli nebezpečné deserializaci nedůvěryhodných dat v systému Windows Server Update Services. WSUS je služba Microsoftu, která umožňuje správcům IT centralizovaně spravovat a distribuovat aktualizace Windows napříč podnikovou sítí. Útočníci mohou tuto chybu zneužít bez jakékoliv autentizace, což z ní činí obzvláště nebezpečnou hrozbu.</p>
+<p>Google Threat Intelligence Group identifikoval novou skupinu útočníků označenou jako UNC6512, která aktivně zneužívá tuto zranitelnost. Po získání přístupu útočníci provádějí průzkum kompromitovaného systému a okolního prostředí pomocí série příkazů. Google také potvrdil, že došlo k exfiltraci dat z napadených systémů.</p>
+<p>Microsoft vydal nouzovou záplatu krátce po objevení zranitelnosti a označil ji jako &ldquo;pravděpodobně zneužitelnou&rdquo;. Společnost však odmítla odpovědět na dotazy ohledně hlášených útoků a neaktualizovala své bezpečnostní doporučení. Microsoft uvedl, že bezpečnostní bulletiny obvykle neaktualizuje po zveřejnění, pokud původní informace nebyly nepřesné.</p>
+<p>Postiženy jsou pouze servery s aktivní rolí WSUS ve verzích Windows Server 2012 až 2025. Servery bez této role nejsou zranitelné. Bezpečnostní výzkumníci zaznamenali přibližně 100 000 pokusů o zneužití této chyby, což naznačuje rozsáhlou kampaň.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato situace představuje vážné bezpečnostní riziko pro podnikové prostředí využívající Windows Server. WSUS je kritická infrastrukturní služba používaná tisíci organizacemi po celém světě k správě aktualizací. Ironie spočívá v tom, že systém určený k zabezpečení serverů prostřednictvím aktualizací se sám stal vstupní branou pro útočníky.</p>
+<p>Nesoulad mezi Microsoftovým veřejným stanoviskem a varováními předních bezpečnostních týmů včetně Google je znepokojující. Zatímco Microsoft stále uvádí, že chyba nebyla zneužita, nezávislé bezpečnostní týmy potvrzují aktivní útoky proti desítkám organizací. Tato komunikační mezera může vést k tomu, že správci IT podceňují naléhavost instalace záplaty.</p>
+<p>Zařazení do katalogu Known Exploited Vulnerabilities agentury CISA znamená, že federální agentury USA mají povinnost záplatu nainstalovat v určeném časovém rámci. Soukromé organizace by měly následovat tento příklad a prioritizovat okamžitou instalaci bezpečnostní aktualizace na všech serverech s aktivní rolí WSUS.</p>
+<hr />
+<p><a href="https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Theregister.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Microsoft WSUS attacks hit 'multiple' orgs, Google warns - theregister.com</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

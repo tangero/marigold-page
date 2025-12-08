@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft potvrdil chybu: Správce úloh ve Windows 11 se po aktualizaci KB5067036 nedá ukončit | Marigold.cz Tech News</title>
+    <meta name="description" content="Po instalaci říjnové volitelné aktualizace Windows 11 se Správce úloh nedá řádně ukončit a běží na pozadí v desítkách instancí, což způsobuje problémy s výkonem">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-03/microsoft-windows-task-manager-wont-quit-after-kb5/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 03.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">BleepingComputer</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Microsoft potvrdil chybu: Správce úloh ve Windows 11 se po aktualizaci KB5067036 nedá ukončit</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-03T10:12:47+00:00">03.11.2025</time>
+                    <span class="category">windows aktualizace</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.bleepstatic.com/content/hl-images/2025/09/22/Windows-11.jpg" alt="Microsoft potvrdil chybu: Správce úloh ve Windows 11 se po aktualizaci KB5067036 nedá ukončit" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Microsoft potvrdil známý problém v říjnové volitelné aktualizaci Windows 11 (KB5067036), který brání uživatelům řádně ukončit Správce úloh. Aplikace po kliknutí na křížek pokračuje v běhu na pozadí, což vede k hromadění desítek instancí procesu taskmgr.exe a způsobuje zpomalení systému, zasekávání a problémy s procesorem.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Aktualizace KB5067036 vydaná 28. října 2025 způsobuje, že Správce úloh nelze ukončit standardním tlačítkem zavřít</li>
+<li>Proces taskmgr.exe pokračuje v běhu na pozadí i po zavření viditelného okna aplikace</li>
+<li>Při opakovaném otevírání se hromadí desítky instancí, které spotřebovávají systémové prostředky</li>
+<li>Microsoft zatím neposkytl opravu, ale nabízí dočasné řešení přes příkazový řádek</li>
+<li>Problém se týká pouze volitelné aktualizace, kterou si uživatelé instalují dobrovolně</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Chyba se projevuje tak, že po zavření Správce úloh pomocí standardního tlačítka s křížkem v pravém horním rohu okna se proces taskmgr.exe neukončí kompletně. Při každém dalším otevření aplikace se vytvoří nová instance, zatímco předchozí pokračují v běhu na pozadí bez viditelného okna. Tyto procesy jsou viditelné v záložce Procesy jako &ldquo;Task Manager&rdquo; a v záložce Podrobnosti jako &ldquo;Taskmgr.exe&rdquo;.</p>
+<p>Podle Microsoftu má několik běžících instancí Správce úloh minimální dopad na většinu systémů, problém však nabývá na závažnosti, když se jich nahromadí desítky. To může vést k výraznému zpomalení ostatních aplikací, zasekávání systému a zvýšenému zatížení procesoru.</p>
+<p>Microsoft problém stále vyšetřuje a oficiální oprava zatím není k dispozici. Společnost však poskytla dočasné řešení, které vyžaduje manuální ukončení procesů. Uživatelé mohou buď jednotlivě ukončovat každou instanci v novém okně Správce úloh pomocí tlačítka &ldquo;Ukončit úlohu&rdquo;, nebo použít příkazový řádek pro ukončení všech instancí najednou příkazem taskkill.</p>
+<p>Aktualizace KB5067036 je volitelná preview aktualizace, což znamená, že ji uživatelé nemusí instalovat povinně. Tyto aktualizace slouží k testování nových funkcí a oprav před jejich začleněním do pravidelných měsíčních bezpečnostních aktualizací.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento problém ilustruje pokračující potíže Microsoftu s kvalitou aktualizací Windows 11. Správce úloh je kritický systémový nástroj, který uživatelé používají právě k řešení problémů s výkonem a zamrzlými aplikacemi. Ironie spočívá v tom, že nástroj určený k ukončování problematických procesů se sám stal zdrojem problémů s výkonem.</p>
+<p>Pro běžné uživatele to znamená nutnost vyhnout se instalaci této volitelné aktualizace, dokud Microsoft nevydá opravu. Ti, kteří ji již nainstalovali, musí buď čekat na patch, nebo používat příkazový řádek k ručnímu čištění nahromadělých procesů. Situace opět zdůrazňuje důležitost opatrnosti při instalaci volitelných aktualizací a připomíná, že i základní systémové funkce mohou být aktualizacemi narušeny.</p>
+<hr />
+<p><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 BleepingComputer</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Microsoft: Windows Task Manager won’t quit after KB5067036 update - BleepingComputer</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
