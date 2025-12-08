@@ -18,6 +18,14 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Kliknutí mimo nebo Escape zavře menu
 
 ### Changed
+- **Kompaktní patička** - redesign footeru na 3 řádky místo 3 sloupců
+  - Řádek 1: Sociální ikony (email, facebook, twitter, linkedin, rss) + copyright
+  - Řádek 2: Všechny projekty inline (Marigold.cz, Zítřaslavní.cz, VibeCoding.cz, TopFlix.cz, Substack, Fenix svítilny, Vybavení do přírody, Brandýs nad Labem, Letní škola AI, Changelog)
+  - Řádek 3: Badges (Clicky analytics, GitHub last commit)
+  - Menší výška patičky (~150px místo 300px+)
+  - Partnerské odkazy přesunuty z analytics.html do footer.html
+
+### Changed
 - **LLM model pro tech-news změněn z `qwen/qwen3-max` na `x-ai/grok-4.1-fast:free`** (`scripts/generate_tech_news_newsapi.py`)
   - Nový primární model: `x-ai/grok-4.1-fast:free` (bezplatný)
   - Automatický fallback na `anthropic/claude-haiku-4.5` při selhání (HTTP 402, 429, 503)
