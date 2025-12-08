@@ -2,12 +2,13 @@
 author: Marisa Aigen
 category: zemědělská robotika
 companies:
+- Kubota
 - Kilter
 date: '2025-12-06 21:31:46'
-description: Japonský výrobce zemědělské techniky Kubota uzavřel partnerství s norským
-  startupem Kilter na společný vývoj, testování a distribuci robota Kilter AX-1 s
-  ultra vysokou přesností plenění v Evropě. Robot cílí na pěstitelé zeleniny v Německu
-  a Nizozemsku a slibuje snížení spotřeby herbicidů až o 95 procent.
+description: Japonský výrobce zemědělských strojů Kubota spolupracuje s norským startupem
+  Kilter na vývoji, testování a zavádění robota Kilter AX-1 s vysokou přesností pro
+  mechanické plení v Evropě. Robot cílí na pěstitelé zeleniny v Německu a Nizozemsku
+  a slibuje snížení použití herbicidů až o 95 procent.
 importance: 3
 layout: tech_news_article
 original_title: Kubota, Kilter to partner on next-generation autonomous farm robot
@@ -24,24 +25,24 @@ urlToImageBackup: https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/
 ---
 
 ## Souhrn
-Japonská společnost Kubota, specializující se na zemědělskou techniku, spolupracuje s norským startupem Kilter na vývoji a zavádění robota Kilter AX-1 pro přesné plenění. Tento autonomní robot využívá umělou inteligenci k rozpoznávání plevelu a aplikaci minimálních dávek herbicidů s přesností kolem 6 mm. Partnerství se zaměřuje na evropský trh, zejména na pěstitele špenátu, salátů, bylinek, celeru a jahod v Německu a Nizozemsku.
+Japonská společnost Kubota, specializující se na zemědělské stroje, uzavřela partnerství s norským startupem Kilter na společný vývoj a nasazení autonomního robota Kilter AX-1 pro přesné plení. Tento robot využívá umělou inteligenci k rozpoznávání plevelu a aplikuje mikro dávky herbicidů s přesností kolem 6 mm, což umožňuje výrazně snížit chemickou zátěž na půdu. Spolupráce se zaměřuje na evropské trhy, zejména Německo a Nizozemsko, kde cílí na pěstitatele špenátu, salátů, bylinek, celeru a jahod.
 
 ## Klíčové body
-- Partnerství Kuboty a Kilteru na vývoj, testování a prodej robota Kilter AX-1 v Evropě.
-- Technologie Single Drop Technology kombinuje AI pro rozpoznávání plevelu s přesností aplikace 6 mm.
-- Snížení spotřeby herbicidů až o 95 % díky selektivní aplikaci mikrodávkových kapek.
-- Cílové plodiny: špenát, salátové listy, bylinky, celer a jahody u zákazníků Kuboty.
-- Integrace do divize Smart Farming Solutions Kuboty Europe, včetně školení prodejní sítě.
+- Partnerství Kubota a Kilter na vývoji robota Kilter AX-1 s technologií Single Drop Technology.
+- Přesnost aplikace 6 mm díky AI rozpoznávání plevelu, snížení herbicidů až o 95 %.
+- Cílové plodiny: špenát, salátové listy, bylinky, celer a jahody v Německu a Nizozemsku.
+- Integrace do nabídky Kubota Europe prostřednictvím jejich d Dealerské sítě.
+- Žádné informace o ceně nebo dostupnosti v Severní Americe.
 
 ## Podrobnosti
-Kubota, dlouholetý japonský výrobce traktorů, kombajnů a další zemědělské techniky, vstupuje do spolupráce s Kilterem, norským startupem zaměřeným na autonomní roboty pro přesné zemědělství. Robot Kilter AX-1 je navržen pro ultra přesné plenění, kde nahrazuje plošné postřiky chemikáliemi. Klíčovou součástí je proprietární technologie Single Drop Technology, která integruje algoritmy umělé inteligence pro identifikaci plevelu s mechanickým systémem aplikace kapek o velikosti kolem 6 mm. Tato přesnost umožňuje aplikovat herbicidy přímo na cíl, chrání plodiny a minimalizuje zamoření půdy.
+Kubota, dlouholetý hráč na trhu zemědělských zařízení s širokou škálou traktorů a kombajnů, vstupuje do spolupráce s Kilterem, norským startupem zaměřeným na autonomní robotiku pro přesné zemědělství. Robot Kilter AX-1 je navržen pro vysokou přesnost v boji s plevelem, kde tradiční metody selhávají kvůli nedostatečné selektivitě. Klíčovou součástí je proprietární technologie Single Drop Technology, která kombinuje algoritmy umělé inteligence pro detekci plevelu s mechanickým systémem aplikace kapek herbicidů. Tento systém dosahuje přesnosti umístění kapky kolem 6 mm, což chrání okolní plodiny a minimalizuje kontaminaci půdy.
 
-Vývoj takového systému nebyl jednoduchý, jak uvedl generální ředitel Kilteru Anders Brevik. Standardní aplikátory kapek nejsou vhodné pro polní podmínky, proto musel tým navrhnout odolný mechanismus odolný vůči prachu, vibracím, teplotním výkyvům a dlouhým provozním dnům. To vyžadovalo kombinaci agronomických znalostí, inženýrství a tisíců hodin testování v reálném prostředí. Výsledek je robot, který přenáší selektivitu z chemie na chytrou aplikaci, což umožňuje snižovat množství herbicidů až o 95 %. To vede k vyšším výnosům, lepší kvalitě úrody a menšímu ekologickému dopadu.
+Vývoj takového zařízení nebyl jednoduchý, jak uvedl generální ředitel Kilteru Anders Brevik. Standardní aplikátory kapek nejsou připraveny na polní podmínky – prach, vibrace, teplotní výkyvy a dlouhodobou provozuschopnost. Kilter proto musel navrhnout vlastní hardware, který prošel tisíci hodinami testů v reálném prostředí. Výsledek umožňuje přechod od plošného postřiku k cílené aplikaci, kde selektivita závisí na inteligenci robota spíše než na chemii herbicidů.
 
-Partnerství začíná pilotními projekty u zákazníků Kuboty v Německu a Nizozemsku, kde se zaměřuje na specifické plodiny náchylné k plevelu. Kubotina evropská divize Smart Farming Solutions, založená v roce 2024, koordinuje integraci robota do širšího portfolia řešení, včetně školení prodejců a dealerů. Robot je poháněn elektricky, což odpovídá trendu elektrizace v zemědělství, ale zatím nejsou známy detaily o ceně ani plánech na expanzi do Severní Ameriky. Celkově jde o krok k autonomnímu zemědělství, kde robotika snižuje závislost na manuální práci a chemii, ale úspěch závisí na spolehlivosti v různých klimatických podmínkích a cenové dostupnosti pro střední farmy.
+Kubota Europe, jejíž divize Smart Farming Solutions byla založena v roce 2024, plánuje integrovat AX-1 do své širší nabídky chytrých řešení pro zemědělství. To zahrnuje školení prodejního personálu v dealerské síti a pilotní nasazení u zákazníků pěstujících specifické zeleninové plodiny. Tyto plodiny jsou citlivé na plevel, ale zároveň vyžadují minimální chemickou intervenci kvůli požadavkům na kvalitu a bezpečnost potravin. Robot tak pomáhá zvyšovat výnosy a kvalitu úrody při současném plnění regulatorních norem EU na snížení pesticidů.
 
 ## Proč je to důležité
-Toto partnerství posiluje trend integrace AI a robotiky do zemědělství, kde přesné technologie snižují environmentální zátěž a náklady na chemikálie. Pro evropské farmáře znamená vyšší efektivitu v kontextu přísných regulací EU na pesticidy, jako je Green Deal. V širším ekosystému robotiky to ukazuje, jak velcí výrobci jako Kubota absorbují startupové inovace pro škálování, podobně jako v autonomních vozidlech. Nicméně, bez dat o dlouhodobé spolehlivosti a ceně zůstává dopad omezený na specializované segmenty; průlom by vyžadoval širší adopci a prokázané úspory v praxi.
+Toto partnerství představuje pokrok v autonomní robotice pro zemědělství, kde umělá inteligence umožňuje přechod k udržitelnějším metodám. V širším kontextu pomáhá řešit globální výzvy jako rostoucí rezistence plevelů na herbicidy a tlaky na snížení chemikálií v potravinovém řetězci. Pro evropské farmáře znamená vyšší efektivitu a nižší náklady na chemii, což může ovlivnit konkurenceschopnost odvětví. Nicméně úspěch závisí na cenové dostupnosti a škálovatelnosti – zatím chybí detaily o těchto aspektech. V porovnání s humanoidními roboty nebo širokými AI platformami je to specializované řešení, ale ukazuje, jak robotika proniká do specializovaných průmyslových oblastí.
 
 ---
 

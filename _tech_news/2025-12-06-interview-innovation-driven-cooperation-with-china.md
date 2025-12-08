@@ -1,10 +1,11 @@
 ---
 author: Marisa Aigen
-category: čínsko-evropská spol
+category: inovační spolupráce
 date: '2025-12-06 21:36:00'
 description: Jochum Haakma, předseda Nizozemsko-čínské obchodní rady, volá po prohlubování
-  spolupráce na společných inovačních projektech v klíčových sektorech mezi Čínou
-  a Nizozemskem. Čína je podle něj klíčovým partnerem díky trhu i pokrokům v technologiích.
+  spolupráce v klíčových průmyslových sektorech mezi Čínou a Nizozemskem. Zdůrazňuje
+  roli Číny jako partnera pro společné inovace v oblastech jako umělá inteligence,
+  farmacie a baterie.
 importance: 3
 layout: tech_news_article
 original_title: 'Interview: Innovation-driven cooperation with China essential for
@@ -23,24 +24,24 @@ urlToImageBackup: https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.pn
 ---
 
 ## Souhrn
-Jochum Haakma, předseda Nizozemsko-čínské obchodní rady, v rozhovoru pro Xinhua agenturu zdůraznil nutnost prohlubovat spolupráci mezi Čínou a Nizozemskem na společných inovačních projektech v průmyslových sektorech, aby se bilaterální ekonomické vztahy posunuly na novou úroveň. Čína zůstává důležitým partnerem pro nizozemské a evropské firmy nejen kvůli obrovskému trhu, ale především díky rychlému pokroku v inovacích, technologiích a modernizaci průmyslu. Klíčové oblasti jako farmacie, umělá inteligence a baterie nabízejí podle něj velký potenciál pro ko-inovace.
+Předseda Nizozemsko-čínské obchodní rady Jochum Haakma v rozhovoru pro Xinhua zdůraznil, že Čína a Nizozemsko by měly posílit spolupráci na společných inovačních projektech v průmyslových odvětvích, aby posunuly bilaterální ekonomické vztahy na novou úroveň. Evropské firmy, včetně nizozemských, vidí v Číně nejen obrovský trh, ale především platformu pro rychlý rozvoj technologií. Sektory jako farmacie, umělá inteligence a baterie nabízejí podle něj velký potenciál pro ko-inovace.
 
 ## Klíčové body
-- Evropské firmy v Číně se zaměřují na společné inovace a integraci do globálního ekosystému, nejen na prodej produktů.
-- Startupy z Nizozemska často dosahují rychlejšího škálování a nasazení v Číně díky dynamickému prostředí.
-- Silné sektory pro spolupráci: farmacie, AI a baterie, podporované čínskou strategii rozvoje.
-- Čína prezentuje své inovace jako otevřené a sdílené, což podporuje globální partnerství.
-- Výzvy zahrnují geopolitické změny, nestabilní dodavatelské řetězce a rostoucí obchodní napětí.
+- Čína je klíčovým partnerem pro evropské firmy díky svému trhu a rychlému pokroku v inovacích a průmyslovém upgradu.
+- Nizozemské startupy často začínají doma, ale velkovýroba a nasazení probíhá v Číně kvůli rychlejšímu tempu.
+- Perspektivní sektory: farmacie, umělá inteligence (AI) a baterie, podporované čínskou strategii.
+- Čínská inovace je otevřená a ochotná sdílet technologie, což potvrdil mluvčí čínského ministerstva zahraničí Lin Jian.
+- Výzvy zahrnují geopolitiku, nestabilní dodavatelské řetězce a rostoucí obchodní napětí.
 
 ## Podrobnosti
-Rozhovor s Jochumem Haakmou proběhl během amsterdamské roadshow čtvrtého Čínského mezinárodního veletrhu dodavatelských řetězců. Haakma, který v letech 2006 až 2007 působil jako ředitel nizozemské agentury pro zahraniční investice, popsal, jak mnoho evropských firem, včetně nizozemských, působí v Číně nejen pro prodej, ale pro společné vývojové projekty. Například malý startup nebo scale-up může vzniknout v Nizozemsku, ale velkovýroba a nasazení proběhne v Číně, kde procesy probíhají rychleji díky efektivní infrastruktuře a tržní dynamice.
+Jochum Haakma, který v letech 2006 až 2007 působil jako ředitel Nizozemské agentury pro zahraniční investice, poskytl rozhovor během roadshow v Amsterdamu na čtvrtém Čínském mezinárodním veletrhu dodavatelských řetězců. Podle něj mnoho evropských společností, včetně nizozemských, působí v Číně nejen pro prodej produktů, ale aby se staly součástí globálního ekosystému společných inovací. Typický příklad je nizozemský startup nebo scale-up, který zahájí vývoj doma, ale díky rychlejší infrastruktuře a výrobním kapacitám v Číně tam dojde k masovému nasazení. Tento model je patrný v sektorech, kde Čína investuje do sebe jako první produktivní síly vědu a technologii, jak uvedl mluvčí čínského ministerstva zahraničí Lin Jian. Ten zdůraznil, že čínské inovace jsou otevřené, open-source a sdílené s celým světem.
 
-V oblasti umělé inteligence (AI) vidí Haakma velký potenciál pro spolupráci, protože Čína masivně investuje do vývoje velkých jazykových modelů (LLM) a aplikací AI v průmyslu, zatímco nizozemské firmy přinášejí know-how v oblasti bezpečnosti a etických standardů. Podobně v bateriích, klíčových pro elektromobily a obnovitelné zdroje, Čína dominuje výrobou a vývojem pokročilých lithiových iontových baterií s vyšší hustotou energie, což umožňuje evropským firmám integrovat tyto technologie do svých řešení. Farmacie zase těží z čínských pokroků v biotechnologiích a vývoji léků na bázi AI, kde algoritmy urychlují screening sloučenin.
+V oblasti umělé inteligence (AI) by spolupráce mohla zahrnovat vývoj modelů pro průmyslové aplikace, jako je optimalizace výroby nebo prediktivní údržba zařízení. Nizozemsko má silné pozice v AI výzkumu, například v univerzitních centrech jako v Amsterdamu nebo Eindhoven, kde se zaměřují na edge computing a AI pro robotiku. Čína naopak vede v nasazení AI na škálu díky datovým centrům s tisíci GPU. V bateriích, klíčových pro elektromobilitu, by ko-inovace mohly řešit problémy s hustotou energie a recyklací, kde čínské firmy jako CATL dominují výrobou litiovo-železo-fosfátových baterií. Farmacie zahrnuje biotechnologie a personalizovanou medicínu, kde Nizozemsko přispívá znalostmi z firem jako Philips Healthcare.
 
-Čínský mluvčí ministerstva zahraničí Lin Jian nedávno potvrdil, že Čína považuje vědu a technologie za primární produktivní sílu a je otevřená sdílení svých technologií. Haakma oceňuje tuto otevřenost a věří, že s podporou vlád a průmyslu může ko-inovace uspět. Nicméně upozorňuje na rizika: geopolitické napětí, jako jsou americko-čínské obchodní války a exportní restrikce na technologie (např. pokročilé lithografické stroje od nizozemské firmy ASML), narušují dodavatelské řetězce. V kontextu evropské strategie de-riskingu, která snižuje závislost na Číně, je taková spolupráce kontroverzní – umožňuje přístup k inovacím, ale zvyšuje rizika v případě eskalace konfliktů.
+Haakma oceňuje vládní podporu a zapojení průmyslu, ale upozorňuje na rizika. Geopolitické napětí, jako omezení exportu čipů do Číny, narušuje dodavatelské řetězce. Například v bateriích závisí evropský průmysl na čínském surovinovém základu, což zvyšuje zranitelnost vůči obchodním válkám. Přesto vidí úspěch v otevřenosti Číny.
 
 ## Proč je to důležité
-Tento názor experta odráží širší trend v technologickém ekosystému, kde Evropa čelí výzvám v udržení tempa s čínskými investicemi do AI a zelených technologií. Pro průmysl znamená spolupráce přístup k rychlému škálování: čínské továrny umožňují testování AI modelů v reálném nasazení, jako je optimalizace výroby, zatímco evropské firmy přispívají regulovanými daty pro trénink modelů. V bateriích to urychluje přechod na elektromobilitu, kde Čína kontroluje 70 % globální produkce. Nicméně jako expert na AI a IT varuji před riziky: závislost na čínském hardwaru (např. čipy Huawei) ohrožuje bezpečnost dat a suverenitu. V době evropských regulací jako AI Act je spolupráce cestou k vyváženému pokroku, ale vyžaduje pečlivé řízení geopolitických rizik, aby nedošlo k oslabení evropské technologické nezávislosti.
+Tato spolupráce ovlivňuje globální technologický ekosystém, zejména v AI a bateriích, kde Čína drží 60 % světové produkce baterií a rychle dohání v AI modelech. Pro evropské firmy znamená přístup k rychlému škálování, ale s riziky závislosti. Jako expert na AI a IT vidím, že bez ko-inovací Evropa ztrácí náskok – například v autonomních systémech nebo pokročilých bateriích pro robotiku. Geopolitika však vyžaduje diverzifikaci, aby se zabránilo monopolům. Dlouhodobě to posílí konkurenceschopnost, pokud se překonají bariéry jako sankce na technologie.
 
 ---
 

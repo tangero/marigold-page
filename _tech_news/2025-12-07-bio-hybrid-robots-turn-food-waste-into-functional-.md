@@ -5,9 +5,9 @@ companies:
 - EPFL
 date: '2025-12-07 03:53:26'
 description: Vědci z EPFL v Lausanne integrovali vyhozené krunýře korýšů do robotických
-  zařízení a využívají sílu i pružnost těchto přírodních materiálů pro robotické aplikace.
+  zařízení a využívají sílu a pružnost přírodních materiálů pro robotické aplikace.
   Tento přístup kombinuje biologické prvky se syntetickými komponenty pro udržitelnější
-  technologie.
+  robotiku.
 importance: 3
 layout: tech_news_article
 original_title: Bio-hybrid robots turn food waste into functional machines
@@ -23,25 +23,27 @@ urlToImage: https://www.spxdaily.com/images-hg/food-waste-marker-hg.jpg
 urlToImageBackup: https://www.spxdaily.com/images-hg/food-waste-marker-hg.jpg
 ---
 
-### Souhrn
-Výzkumníci z EPFL v Švýcarsku vyvinuli experimentální robotický manipulátor, který využívá exoskelet břicha langusty z potravinového odpadu jako hlavní strukturu. Tento bio-hybridní design přináší rovnováhu tuhosti a pružnosti, inspirovanou přírodou, a podporuje udržitelný cyklus materiálů. Projekt pochází z laboratoře CREATE Lab na Fakultě inženýrství EPFL.
+## Souhrn
+Výzkumníci z EPFL vyvinuli experimentální robotický manipulátor, který využívá břišní exoskelet langust jako hlavní strukturu. Tento bio-hybridní design recykloval potravinový odpad a spojuje přirozenou tuhost a flexibilitu krunýřů se syntetickými prvky pro lepší robotické pohyby. Projekt ukazuje potenciál udržitelných materiálů v robotice.
 
-### Klíčové body
-- Integrace exoskeletu langusty do robotického manipulátoru pro vysoký točivý moment a pohyblivost.
-- Využití potravinového odpadu (kruňýře korýšů) pro snížení závislosti na syntetických materiálech jako kov nebo plast.
-- Kombinace mineralizovaných skořápek s kloubními membránami pro nezávislý pohyb segmentů.
-- Potenciál pro udržitelné robotické systémy s cyklickým designem.
-- Ředitelka laboratoře Josie Hughes zdůrazňuje význam pro robotiku i ekologii.
+## Klíčové body
+- Integrace langoustinových exoskeletů do robotického manipulátoru pro vysoký točivý moment a rychlost pohybu.
+- Kombinace mineralizovaných skořápek s kloubními membránami pro rovnováhu tuhosti a pružnosti.
+- Zaměření na udržitelnost prostřednictvím recyklace potravinového odpadu.
+- Vývoj v Computational Robot Design and Fabrication Lab (CREATE Lab) na EPFL.
+- Vedoucí projektu Josie Hughes zdůrazňuje potenciál pro cyklické designové procesy.
 
-### Podrobnosti
-École Polytechnique Fédérale de Lausanne (EPFL), švýcarská technická univerzita zaměřená na pokročilé inženýrství a výpočetní vědy, představila v laboratoři Computational Robot Design and Fabrication Lab (CREATE Lab) nový přístup k robotice. Místo konvenčních materiálů jako kovů, plastů nebo kompozitů, které dominují bio-inspirovaným robotům, zde slouží exoskelet břicha langusty (Nephrops norvegicus) jako klíčový prvek robotického manipulátoru. Tyto krunýře, běžný potravinový odpad z restaurací a zpracovatelů mořských plodů, obsahují mineralizované skořápky spojené s pružnými kloubními membránami. Tato struktura umožňuje korýšům rychlé pohyby s vysokým točivým momentem ve vodě, což výzkumníci adaptovali pro robotické aplikace na souši.
+## Podrobnosti
+Výzkumníci z Computational Robot Design and Fabrication Lab (CREATE Lab) na École Polytechnique Fédérale de Lausanne (EPFL), švýcarské technické univerzitě specializující se na inženýrství a robotiku, představili nový přístup k tvorbě robotů. Místo běžných materiálů jako kov, plast nebo kompozity použili přirozené exoskelet z břicha langust, což je běžný potravinový odpad z mořských plodů. Tento bio-hybridní robotický manipulátor má párové exoskeletní segmenty, které umožňují nezávislý pohyb díky kombinaci mineralizovaných skořápek a pružných kloubních membrán.
 
-Robotický manipulátor funguje tak, že segmenty exoskeletu se pohybují nezávisle díky přirozené tuhosti a flexibilitě, což zjednodušuje design oproti plně syntetickým alternativám. CREATE Lab, vedená Josie Hughesovou, specializuje se na výpočetní návrh a výrobu robotů, kde algoritmy optimalizují geometrii a materiály. V tomto případě se zaměřili na repurpose – přepracování odpadu – pro vytvoření udržitelného cyklu: krunýře se sbírají, čistí, integrují do robota a po použití lze biologickou část kompostovat nebo recyklovat. Experimentální prototyp zatím není komerční, ale demonstruje proveditelnost v laboratořních podmínkách.
+Exoskelet langust poskytuje přirozenou rovnováhu mezi tuhostí a flexibilitou, což korýšům umožňuje rychlé a silné pohyby ve vodě s vysokým točivým momentem. V robotice tyto vlastnosti překládají do efektivnějších mechanismů pro manipulaci objektů. CREATE Lab, vedený Josie Hughes, navrhl systém, kde biologické prvky doplňují syntetické komponenty, jako jsou motory nebo senzory, pro celkovou funkčnost. Proces výroby zahrnuje repurposing odpadu, což znamená čištění, sušení a integraci krunýřů přímo do robotické struktury bez nutnosti složitého zpracování.
 
-V širším kontextu bio-hybridní robotiky tento projekt navazuje na trendy jako měkká robotika (soft robotics), kde se biologické materiály kombinují s aktuátory a senzory. Například podobné přístupy testují svalové vlákna z chitinu nebo hydrogelové aktuátory. Kriticky lze poznamenat výzvy: biologické materiály jsou náchylné k degradaci vlhkostí, bakteriemi nebo mechanickým opotřebením, což vyžaduje ochranné vrstvy nebo hybridní zesílení. Škálovatelnost sběru langoustiních krunýřů je omezena regionální dostupností, i když chitin je hojný v odpadu z rybářství. EPFL plánuje další testy na odolnost a integraci s motory pro reálné úkoly, jako manipulace objektů v nestabilním prostředí.
+Ačkoli bioinspirované designy jsou v robotice běžné – například kopírování pohybu zvířat v měkkých robotech –, tento projekt jde dál tím, že nahrazuje syntetické materiály skutečnými biologickými. To snižuje závislost na petrochemických zdrojích a otevírá cestu k cirkulární ekonomice v robotice. Experimentální manipulátor zatím není komerční produkt, ale slouží k testování pohybových vlastností v laboratorních podmínkách. Hughes upozorňuje, že takové hybridní systémy mohou být škálovatelné pro aplikace v podvodní robotice nebo manipulaci v potravinářském průmyslu, kde je potřeba odolnost vůči vlhkosti.
 
-### Proč je to důležité
-Tento výzkum posiluje trend udržitelné robotiky, kde se snižuje uhlíková stopa výroby – syntetické materiály vyžadují energeticky náročné procesy, zatímco odpad je zdarma. V průmyslu by to mohlo ovlivnit oblasti jako logistika nebo vodní inspekce, kde je potřeba flexibilita. Pro ekosystém robotiky představuje krok k cirkulární ekonomice, ale bez průlomů v autonómii nebo AI není revoluční. Dlouhodobě by hybridní designy mohly konkurovat tradičním robotům v aplikacích vyžadujících bio-kompatibilitu, jako medicína nebo zemědělství. Celkově jde o zajímavý akademický impuls, který si zaslouží sledování v kontextu rostoucího tlaku na zelené technologie.
+V porovnání s tradičními roboty, jako jsou rigidní manipulátory od firem typu ABB nebo KUKA, nabízí tento design nižší hmotnost a lepší adaptabilitu, ale vyžaduje řešení problémů jako biologický rozklad nebo variabilita materiálu z různých zdrojů. EPFL plánuje další testy stability a dlouhodobé trvanlivosti.
+
+## Proč je to důležité
+Tento výzkum přispívá k udržitelnosti v robotice, kde se očekává růst trhu na stovky miliard dolarů do roku 2030 podle odhadů. Recyklace potravinového odpadu snižuje emise spojené s výrobou materiálů a podporuje cirkulární modely, což je klíčové v kontextu evropských regulací na zelené technologie. Pro průmysl znamená potenciál levnějších, lehčích robotů pro specifické úkoly, jako je sběr odpadu nebo zemědělská manipulace. Jako vědecký pokrok bez okamžitého komerčního dopadu posiluje trend bio-hybridních systémů, podobně jako recentní práce na měkkých robotech z hydrogelů. Dlouhodobě to může ovlivnit design humanoidních robotů tím, že přinese přirozenější pohybové vlastnosti, ale vyžaduje další vývoj pro masovou produkci.
 
 ---
 

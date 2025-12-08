@@ -13,34 +13,32 @@ source:
   emoji: 📰
   id: null
   name: Twistedsifter.com
-title: Naše neukojená touha po inovacích nás brzy bude stát více než jen pracovní
-  místa a soukromí
+title: Naše nenasytná touha po inovacích nás brzy bude stát víc než jen pracovní místa
+  a soukromí
 url: http://twistedsifter.com/2025/12/our-insatiable-thirst-for-innovation-is-about-to-cost-us-more-than-just-our-jobs-and-our-privacy/
 urlToImage: https://twistedsifter.com/wp-content/uploads/2025/10/Code.jpg
 urlToImageBackup: https://twistedsifter.com/wp-content/uploads/2025/10/Code.jpg
 ---
 
 ### Souhrn
-OpenAI oznámilo plány na výstavbu nových datových center, která budou spotřebovávat až 17 gigawattů energie denně, což překonává celkovou spotřebu elektrické energie státu New York. Tento krok odhaluje rostoucí environmentální zátěž umělé inteligence, kde každý dotaz do ChatGPT pohltí 0,34 watt-hodiny energie a služba zpracovává 2,5 miliardy dotazů denně. Kromě ztráty pracovních míst a narušení soukromí tak AI ohrožuje i udržitelnost energetických zdrojů.
+OpenAI oznámilo plány na výstavbu nových datacenter, která by mohla spotřebovat až 10 až 17 gigawattů energie denně, což překračuje celkovou spotřebu New Yorku. Tento krok odhaluje rostoucí environmentální zátěž spojenou s expanzí AI, navazující na již známé problémy jako ztráta pracovních míst, úbytek soukromí a šíření dezinformací. Spotřeba energie pro jediný dotaz do ChatGPT činí 0,34 Wh, při 2,5 miliardy denních požadavků se jedná o obrovské množství.
 
 ### Klíčové body
-- Každý dotaz do ChatGPT spotřebuje 0,34 Wh, což při 2,5 miliardy denních dotazů vede k obrovské kumulativní spotřebě.
-- Plánovaná datová centra OpenAI budou potřebovat 10 až 17 GW výkonu, což je více než spotřeba celého New Yorku.
-- Velká část energie v USA pochází z fosilních paliv, což zvyšuje emise CO2.
-- AI již způsobuje problémy jako dezinformace, šikanu a ztrátu pracovních míst v školství i průmyslu.
-- Environmentální dopady se stávají klíčovou brzdou dalšího rozvoje AI.
+- Každý dotaz do ChatGPT spotřebuje 0,34 Wh, ekvivalent několika minut svícení žárovky.
+- Denně zpracovává 2,5 miliardy dotazů, což vede k kumulativní vysoké spotřebě.
+- Plánovaná datacentra OpenAI: 10–17 GW, většina energie z fosilních zdrojů v USA.
+- Dopady AI zahrnují nahrazování studentů v učení, ztráty pracovních míst a šíření AI-generovaných dezinformací.
+- OpenAI, firma specializující se na velké jazykové modely jako GPT série, potřebuje tato datacentra pro trénink a provoz AI systémů.
 
 ### Podrobnosti
-Datová centra OpenAI představují masivní infrastrukturu plnou grafických procesorů (GPU), které slouží k tréninku velkých jazykových modelů (LLM) jako GPT série a k zpracování uživatelských dotazů, označovaných jako inference. Trénink jednoho modelu jako GPT-4 vyžaduje ekvivalent energie spotřebované stovkami domácností po dobu měsíců, zatímco inference – odpověď na dotaz – je méně náročná, ale při miliardách požadavků denně se stává významným faktorem. Podle údajů z roku 2025 přijímá ChatGPT 2,5 miliardy dotazů za den, což znamená denní spotřebu kolem 850 megawatt-hodin jen na zpracování promptů, bez započítání chlazení a dalších systémů.
+OpenAI, společnost zaměřená na vývoj velkých jazykových modelů (LLM) jako je řada GPT, nedávno oznámila ambiciózní plány na rozšíření infrastruktury. Tato datacentra mají sloužit k tréninku a provozu pokročilých AI systémů, kde se modely učí na obrovských datových sadách a následně generují odpovědi na uživatelské dotazy. Například ChatGPT, konverzační nástroj pro generování textu, dialogů nebo kódu, vyžaduje pro každý dotaz přibližně 0,34 Wh energie. Při 2,5 miliardy denních interakcí to znamená denní spotřebu odpovídající tisícům megawatt hodin, což je jen zlomek celkových nákladů na inference a trénink modelů.
 
-Plánovaná data centra s výkonem 10–17 GW by pokryla potřeby pro škálování modelů směrem k AGI, kde OpenAI očekává explozivní růst datových objemů. Pro srovnání, celková špičková spotřeba New Yorku činí asi 11 GW, takže tato centra by sama o sobě přetížila místní sítě. V USA stále tvoří fosilní paliva přes 60 procent elektřiny, což by vedlo k miliónům tun emisí CO2 ročně. Environmentální organizace varují, že bez přechodu na obnovitelné zdroje jako solární nebo větrné farmy dojde k paradoxu: technologie určená k řešení klimatických změn je zhoršuje.
+Plánovaná datacentra by měla kapacitu až 17 GW, což podle zpráv jako ta z Fortune převyšuje spotřebu celého amerického státu New York. V USA je většina energie stále produkována z fosilních paliv, jako uhlí nebo plyn, což vede k vyšším emisím CO2. Pro srovnání, celková spotřeba USA činí kolem 4 000 GW, takže OpenAI by mohlo pokrýt až 0,4 % národní poptávky. Tento růst je poháněn potřebou tisíců grafických procesorů (GPU), jako jsou NVIDIA H100, které jsou klíčové pro paralelní výpočty v AI. Každý takový čip spotřebovává stovky wattů a v clusteru desetitisíců se jedná o gigawatové úrovně.
 
-Už nyní vidíme širší dopady AI. Učitelé hlásí, že žáci používají AI k nahrazení učení, což oslabuje kritické myšlení. V průmyslu AI přebírá rutinní úkoly, což vede k propouštění – například v tvorbě obsahu nebo administrativě. Dezinformační obsah generovaný AI slouží k šikaně, pomluvám nebo dokonce k falešným obviněním na sociálních sítích. Nové datové centra tento trend zesílí, protože vyžadují nejen energii, ale i vzácné kovy pro GPU a obrovské vodní zdroje pro chlazení, což v suchých oblastech zhoršuje krizi vody.
-
-Pro uživatele to znamená vyšší ceny energií, protože datová centra budou soutěžit o kapacitu s domácnostmi a průmyslem. Regulátoři v EU i USA již zvažují omezení, například povinné reportování uhlíkové stopy AI firem. OpenAI, firma zaměřená na vývoj AGI, tak čelí dilematu: rychlý růst vyžaduje infrastrukturu, ale ta ohrožuje dlouhodobou udržitelnost.
+Už nyní vidíme širší dopady AI: učitelé hlásí, že studenti používají AI k vyhýbání se učení základních konceptů, firmy nahrazují zaměstnance automatizací s nízkými provozními náklady a internet je plný AI-generovaných textů používaných k šíření lží, obtěžování nebo pomluvám. Datacentra OpenAI tak nejsou izolovaným problémem, ale součástí trendu, kde škálování AI vyžaduje masivní investice do energie a chlazení – často vodou v množství desítek milionů litrů ročně na jedno zařízení.
 
 ### Proč je to důležité
-Tato novinka podtrhuje limity současného AI rozvoje v širším technologickém ekosystému. Zatímco firmy jako OpenAI, Google nebo Microsoft soutěží v kapacitě výpočetního výkonu, energetická omezení mohou způsobit zpomalení inovací – například odložení vydání GPT-5. V průmyslu to donutí investovat do efektivnějších čipů, jako jsou specializované AI akcelerátory od Nvidia nebo AMD, nebo do decentralizovaného výpočtu přes edge computing. Pro společnost to znamená debatu o prioritách: máme upřednostnit AGI před klimatickou stabilitou? Bez řešení, jako je jaderná fúze nebo masivní expanze obnovitelných zdrojů, se AI stane environmentální krizí. V dlouhodobém horizontu to ovlivní i geopolitiku, protože země s levnou zelenou energií, jako Norsko nebo Island, získají výhodu v AI závodech.
+Tento vývoj omezuje tempo růstu AI průmyslu, protože energetická síť nemůže rychle expandovat. V USA dochází k zpožděním ve výstavbě nových elektráren a přenosových sítí, což nutí firmy jako OpenAI hledat alternativy, včetně jaderné energie nebo obnovitelných zdrojů. Pro uživatele to znamená vyšší náklady na elektřinu a potenciální regulace, které by omezily přístup k AI službám. V širším kontextu to zdůrazňuje nutnost udržitelného vývoje AI: bez efektivnějších modelů nebo hardware (např. specializovaných AI čipů s nižší spotřebou) hrozí kolizí s klimatickými cíli. Firmy jako Google nebo Microsoft již čelí podobným výzvám a investují do vlastních jaderných reaktorů, což signalizuje dlouhodobou proměnu technologického ekosystému směrem k energetické soběstačnosti.
 
 ---
 

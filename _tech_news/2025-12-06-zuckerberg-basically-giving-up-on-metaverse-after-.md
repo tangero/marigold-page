@@ -6,8 +6,8 @@ companies:
 - Meta
 date: '2025-12-06 19:58:06'
 description: Společnost Meta plánuje až 30procentní škrtání rozpočtů pro projekty
-  metaverse jako Horizon Worlds a VR brýně Quest. Tento krok následuje po ztrátách
-  přes 70 miliard dolarů od roku 2021 a opakovaných propouštěních.
+  Horizon Worlds a VR brýle Quest. Tento krok přichází po ztrátě přes 70 miliard dolarů
+  od roku 2021 a opakovaných propouštěních zaměstnanců.
 importance: 3
 layout: tech_news_article
 original_title: Zuckerberg Basically Giving Up on Metaverse After Renaming Entire
@@ -25,22 +25,24 @@ url: https://freerepublic.com/focus/f-news/4356242/posts
 ---
 
 ## Souhrn
-Společnost Meta, dříve Facebook, která se v říjnu 2021 přejmenovala na podporu metaverse, nyní zvažuje masivní úřesy rozpočtů až o 30 procent pro své klíčové projekty v oblasti virtuální reality. Jedná se především o Horizon Worlds, online prostředí pro virtuální setkávání, a Quest VR headsety, které měly být základem budoucnosti. Tento vývoj signalizuje konec ambiciózního sázkového projektu Marka Zuckerberga po letech ztrát a zklamání investorů.
+Společnost Meta, dříve známá jako Facebook, plánuje výrazné snížení rozpočtů pro své metaverse projekty, včetně virtuálních prostředí Horizon Worlds a VR headsetů Quest. Podle zpráv Bloombergu by škrtání mohlo dosáhnout až 30 procent a propouštění zaměstnanců by mohlo začít v lednu 2025. Tento vývoj signalizuje konec ambiciózního sázkového projektu Marka Zuckerberga, který stál firmu přes 70 miliard dolarů od roku 2021.
 
 ## Klíčové body
-- Přejmenování na Meta v roce 2021 mělo podpořit metaverse, ale vedlo k ztrátám přes 70 miliard dolarů od začátku roku 2021.
-- Horizon Worlds trpí nízkou kvalitou – blokovité prostředí plné nekontrolovaného chování uživatelů, jako jsou křičící děti.
-- Plánované škrtání rozpočtů až o 30 procent pro týmy Horizon Worlds a Quest; propouštění zaměstnanců možné od ledna 2026.
-- Investoři dlouhodobě kritizují nedostatečné výsledky a selhání v přesvědčení veřejnosti o přitažlivosti virtuálních prostorů.
-- Rozhodnutí ještě není finální, podle zpráv Bloomberg.
+- Rebranding na Meta v říjnu 2021 měl posílit zaměření na virtuální realitu, ale vedl k masivním ztrátám.
+- Horizon Worlds trpí nízkou kvalitou – blokovité prostředí plné nekontrolovaného chování uživatelů.
+- Celkové ztráty překročily 70 miliard dolarů, což vyvolalo nespokojenost investorů.
+- Plánované škrtání rozpočtů až o 30 procent pro týmy Horizon Worlds a Quest.
+- Propouštění zaměstnanců očekáváno od ledna 2025, rozhodnutí ještě nejsou finální.
 
 ## Podrobnosti
-V říjnu 2021 oznámil Mark Zuckerberg, tehdejší šéf Facebooku, přejmenování celé společnosti na Meta s cílem soustředit se na metaverse – koncept propojených virtuálních světů, kde by lidé trávili většinu času v high-fidelity prostředích prostřednictvím VR zařízení. Tento pivot byl ambiciózní, ale rychle se ukázal jako chyba. Reality Labs, divize zodpovědná za VR a AR technologie, vykázala od začátku 2021 kumulativní ztráty přes 70 miliard dolarů. Hlavní produkty jako Horizon Worlds, sociální platforma v virtuální realitě umožňující uživatelům vytvářet a prozkoumávat světy, trpěly nízkou kvalitou grafik, technickými problémy a špatným uživatelským zážitkem. Uživatelé často hlásili frustraci z blokovitých modelů, pomalého načítání a absence smysluplného obsahu, což bylo ještě zhoršeno nekontrolovaným chováním, například křičícími dětmi v veřejných prostorech.
+V říjnu 2021 představil Mark Zuckerberg, tehdejší šéf Facebooku, přejmenování celé společnosti na Meta jako součást strategického otočky směrem k virtuální realitě a metaverse. Cílem mělo být vytvořit vysoce kvalitní virtuální prostory, kde by lidé trávili většinu času. Realita však ukázala opak: projekty jako Horizon Worlds, sociální virtuální svět určený pro interakce uživatelů v VR, se potýkají s nízkou grafickou kvalitou, blokovitými modely a problémy s moderováním – prostředí jsou často plná nekontrolovaných dětí nebo jiného rušivého chování. VR headsety Quest, které slouží k přístupu k těmto světům a hrám, selhaly v přesvědčení široké veřejnosti o jejich praktičnosti.
 
-Quest headsety, autonomní VR brýně s vestavěným procesorem pro hraní her, sociální interakce a produktivitu bez nutnosti kabelů, se neprodávaly v očekávaném množství. Navzdory aktualizacím jako Quest 3 s lepšími displeji a výkonem, trh s VR zůstal okrajový – méně než 1 procento populace vlastní takové zařízení. Meta reagovala opakovanými propouštěním: v roce 2022 propustila 11 000 zaměstnanců, v 2023 dalších 10 000 a nyní se připravují další vlny zaměřené na Reality Labs. Podle Bloomberg vedení zvažuje škrtání rozpočtů až o 30 procent pro týmy pracující na Horizon Worlds a Questech, což by mohlo znamenat stovky zrušených pozic od ledna 2026. Tato rozhodnutí ještě nejsou definitivní, ale odrážejí tlak investorů, kteří vidí v metaverse spíše zátěž než růstový motor. Meta mezitím posunula zdroje do AI, kde Llama modely ukazují slibnější výsledky v generování obsahu a asistentů.
+Od roku 2021 Meta investovala desítky miliard dolarů do těchto iniciativ, což vedlo k kumulativním ztrátám přes 70 miliard. Firma prošla několika vlnami propouštění zaměstnanců, přičemž investoři kritizovali neustálé odklánění zdrojů od jádra sociálních sítí. Nyní, podle Bloombergu, vedení Meta zvažuje dramatické ústupky: rozpočty týmů pracujících na Horizon Worlds a Quest by mohly klesnout o 30 procent. Propouštění by mohlo nastartovat již v lednu 2025, i když konečná rozhodnutí ještě nepadla. Tento krok přichází v době, kdy se Meta vrací k AI technologiím, jako je model Llama, který slouží k vývoji velkých jazykových modelů pro chatbota a generování obsahu, což představuje efektivnější využití zdrojů než VR spekulace.
+
+Z kontextu vyplývá, že metaverse selhal kvůli nedostatečnému hardwaru – současné VR headsety postrádají rozlišení a pohodlí pro dlouhodobé použití – a nedostatku masového zájmu. Pro uživatele to znamená méně investic do VR obsahu, což omezí dostupnost kvalitních virtuálních zážitků. Pro průmysl to posiluje skeptický postoj k metaverse jako k hlavní budoucnosti internetu.
 
 ## Proč je to důležité
-Tento vývoj potvrzuje, že metaverse jako koncept selhal v přitahování masového publika, navzdory obrovským investicím. Pro průmysl znamená posun zdrojů Meta směrem k AI a sociálním sítím, kde společnost má silnou pozici – například vývoj open-source AI modelů Llama pro chatbota a generování obrázků. Uživatelé VR zařízení, jako Quest vlastníci, mohou očekávat méně inovací a podporu, což zpomalí růst trhu. V širším kontextu to ukazuje rizika dlouhodobých sázek na imaturovní technologie: zatímco AI přináší rychlé výnosy, VR zůstává niche. Investoři získají signál k větší opatrnosti vůči podobným vizím od jiných gigantů, jako Apple s Vision Pro, a posílí důraz na krátkodobé zisky v IT sektoru.
+Tento vývoj podtrhuje limity virtuální reality v porovnání s rychle rostoucími oblastmi jako AI a autonomní systémy. Meta, jako technologický gigant s miliardami uživatelů na platformách jako Facebook a Instagram, ukazuje, že i obrovské investice nestačí bez tržního poptávky. Investoři teď tlačí na návrat k profitabilním oblastem, jako sociální sítě a AI, což ovlivní celý ekosystém VR – menší firmy jako Valve nebo HTC mohou čelit podobným tlakům. Dlouhodobě to posouvá důraz od uzavřených virtuálních světů k otevřeným AI nástrojům, které integrují realitu s digitálem efektivněji.
 
 ---
 
