@@ -1,101 +1,99 @@
 {
-  "generated": "2025-12-08T17:18:53.392830+00:00",
+  "generated": "2025-12-08T20:39:59.374126+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Assam pořádá Indický summit digitálních inovací 2025, představující budoucnost, kde technologie slouží každému občanovi",
-      "description": "Assam se stal národní scénou pro ambiciózní dialog o digitální správě v Indii. Ministerstvo informačních technologií státu ve spolupráci s Elets Technomedia uspořádalo Národní rezidenční summit digitálních inovací 2025 v hotelu Vivanta Taj v Guwáhátí.",
-      "slug": "assam-hosts-indias-2025-digital-innovation-summit-",
-      "publishedAt": "2025-12-07T16:14:39+00:00",
-      "date": "2025-12-07 16:14:39",
-      "importance": 3,
-      "category": "digitální inovace",
-      "urlToImage": "https://www.syllad.com/wp-content/uploads/2025/12/Assams-IT-Dept.jpg",
-      "url": "/tech-news/2025-12-07/assam-hosts-indias-2025-digital-innovation-summit/",
+      "title": "Čína drží klíče k modernímu světu a Západ riskuje zaostání",
+      "description": "Čína se kdysi snažila dohnat Západ, konkrétně USA; pak se dohnala; nyní Západ se snaží dohnat Čínu, ale pravděpodobně to nedokáže.",
+      "slug": "china-holds-the-key-to-the-modern-world-and-the-we",
+      "publishedAt": "2025-12-07T19:00:32+00:00",
+      "date": "2025-12-07 19:00:32",
+      "importance": 5,
+      "category": "čínské technologie",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/befc24313ae723fa6ac98618c3fb29be?impolicy=wcms_watermark_news&cropH=2216&cropW=3940&xPos=0&yPos=22&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2025-12-07/china-holds-the-key-to-the-modern-world-and-the-we/",
       "source": {
         "emoji": "📰",
-        "id": null,
-        "name": "Syllad.com"
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
       },
       "companies": [],
       "people": []
     },
     {
-      "title": "Treasure Data rozšiřuje přístup k AI Marketing Cloud prostřednictvím AWS Marketplace",
-      "description": "Treasure Data zpřístupnila 2. prosince 2025 svou AI Marketing Cloud na AWS Marketplace, což značkám umožňuje přímý přístup k platformě pro správu zákaznických dat. Tento krok proběhl na konferenci Amazon Web Services re:Invent 2025 v Las Vegas.",
-      "slug": "treasure-data-expands-ai-marketing-cloud-access-th",
-      "publishedAt": "2025-12-07T16:01:41+00:00",
-      "date": "2025-12-07 16:01:41",
-      "importance": 3,
-      "category": "ai marketing",
-      "urlToImage": "https://ppc.land/content/images/size/w1200/2025/12/Treasure-Data.jpg",
-      "url": "/tech-news/2025-12-07/treasure-data-expands-ai-marketing-cloud-access-th/",
+      "title": "Hyundai představil plně autonomního robota připraveného na výrobu pro reálné úkoly",
+      "description": "Hyundai Motor Group Robotics LAB představil na veletrhu iREX 2025 v Tokiu robota MobED, autonomní platformu na kolech určenou pro průmyslové i každodenní aplikace. Robot integruje pokročilé moduly pro adaptivní pohyb a bude dostupný k prodeji v první polovině 2026.",
+      "slug": "hyundai-debuts-a-fully-autonomous-production-ready",
+      "publishedAt": "2025-12-07T18:20:59+00:00",
+      "date": "2025-12-07 18:20:59",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/12/hyundai-debuts-production-ready-autonomous-droid-that-can-do-any-task-at-hand/Hyundai-Mobile-Eccentric-Droid-Robot-2.jpg",
+      "url": "/tech-news/2025-12-07/hyundai-debuts-a-fully-autonomous-production-ready/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Ppc.land"
+        "name": "Yanko Design"
       },
-      "companies": [
-        "Treasure Data",
-        "AWS"
-      ],
+      "companies": [],
       "people": []
     },
     {
-      "title": "Umělá inteligence zvyšuje efektivitu pohonných systémů kosmických lodí – a mohla by vést k raketám s jaderným pohonem",
-      "description": "Od jízdních kol po rakety, učení prostřednictvím zkušeností – ať lidských, nebo strojových – formuje budoucnost průzkumu vesmíru.",
-      "slug": "ai-is-making-spacecraft-propulsion-more-efficient-",
-      "publishedAt": "2025-12-07T16:00:00+00:00",
-      "date": "2025-12-07 16:00:00",
-      "importance": 3,
+      "title": "Newsletter Security Affairs kolo 553 od Pierluigi Paganini – Mezinárodní edice",
+      "description": "Nové kolo týdenního newsletteru Security Affairs přináší souhrn klíčových bezpečnostních incidentů, včetně exploitů, datových úniků a varování od CISA. Obsahuje zprávy o útocích na firemní brány, masivních DDoS a státních aktérech.",
+      "slug": "security-affairs-newsletter-round-553-by-pierluigi",
+      "publishedAt": "2025-12-07T18:12:07+00:00",
+      "date": "2025-12-07 18:12:07",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "url": "/tech-news/2025-12-07/security-affairs-newsletter-round-553-by-pierluigi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "companies": [],
+      "people": [
+        "Pierluigi Paganini"
+      ]
+    },
+    {
+      "title": "SpaceX s valuací 800 miliard dolarů a IPO v roce 2026 na financování AI datových center ve vesmíru",
+      "description": "SpaceX odkupuje akcie investorů a zaměstnanců za valuaci 800 miliard dolarů, což je dvojnásobek oproti 400 miliardám před pěti měsíci. Klíčové úspěchy spočívají v pokroku k plné znovupoužitelnosti Starshipu a rychlém růstu příjmů Starlinku.",
+      "slug": "spacex-800-valuation-and-2026-ipo-to-fund-ai-data-",
+      "publishedAt": "2025-12-07T17:33:16+00:00",
+      "date": "2025-12-07 17:33:16",
+      "importance": 4,
       "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iUwLuFzGg9Ev9Vyw6BHRFV-1920-80.jpg",
-      "url": "/tech-news/2025-12-07/ai-is-making-spacecraft-propulsion-more-efficient/",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-07-at-9.31.49-AM.jpg",
+      "url": "/tech-news/2025-12-07/spacex-800-valuation-and-2026-ipo-to-fund-ai-data/",
       "source": {
         "emoji": "📰",
-        "id": null,
-        "name": "Space.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak stablecoiny pomáhají zločincům prát peníze a obcházet sankce",
-      "description": "Článek z New York Times popisuje, jak stablecoiny usnadňují praní špinavých peněz a obcházení mezinárodních sankcí díky své rychlosti, anonymitě a snadné převoditelnosti. Tato kryptoměna umožňuje zločincům převádět miliardy dolarů bez zásahu bankovních systémů.",
-      "slug": "how-stablecoins-can-help-criminals-launder-money-a",
-      "publishedAt": "2025-12-07T15:52:00+00:00",
-      "date": "2025-12-07 15:52:00",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-07/how-stablecoins-can-help-criminals-launder-money-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI se mění z zachránce akciového trhu v břemeno, jak rizika AI narůstají",
-      "description": "Sentiment Wall Street k firmám spojeným s umělou inteligencí se obrací: OpenAI klesá v hodnocení investorů, zatímco Alphabet stoupá. Tvůrce ChatGPT už není považován za špičku v AI technologiích.",
-      "slug": "openai-goes-from-stock-market-savior-to-burden-as-",
-      "publishedAt": "2025-12-07T15:51:58+00:00",
-      "date": "2025-12-07 15:51:58",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/55f3197b64a6a4d5_s.webp",
-      "url": "/tech-news/2025-12-07/openai-goes-from-stock-market-savior-to-burden-as/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
+        "id": "next-big-future",
+        "name": "Next Big Future"
       },
       "companies": [
-        "OpenAI",
-        "Alphabet Inc"
+        "SpaceX"
       ],
+      "people": []
+    },
+    {
+      "title": "HHS plánuje rozšířit využívání umělé inteligence v zdravotnictví",
+      "description": "Americké ministerstvo zdravotnictví a lidských služeb (HHS) zamýšlí výrazně zvýšit nasazení AI v rámci svých operací. Článek však upozorňuje, že technologie nenahradí základní sociální reformy pro zlepšení života pacientů.",
+      "slug": "monday-morning-update-12825",
+      "publishedAt": "2025-12-07T16:31:15+00:00",
+      "date": "2025-12-07 16:31:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-07/monday-morning-update-12825/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Histalk2.com"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -519,26 +517,6 @@
       "people": []
     },
     {
-      "title": "Vysoký představitel Trumpovy administrativy zahajuje pětidenní návštěvu Indie",
-      "description": "Podsekretářka státního departmentu USA Allison Hooker navštěvuje Indii od 7. do 11. prosince k posílení strategických a ekonomických vazeb mezi USA a Indií, přestože vztahy zatěžují nová cla. Zaměření je na bezpečnost, obchod, umělou inteligenci a vesmírnou spolupráci.",
-      "slug": "senior-trump-administration-official-begins-5-day-",
-      "publishedAt": "2025-12-07T12:46:36+00:00",
-      "date": "2025-12-07 12:46:36",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125817008,width-1200,height-630,imgsize-20450,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-07/senior-trump-administration-official-begins-5-day/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Allison Hooker"
-      ]
-    },
-    {
       "title": "Průvodce obráceného kentaura pro kritiku umělé inteligence",
       "description": "Cory Doctorow přednesl řeč na University of Washington v rámci série přednášek o neuroscience, umělé inteligenci a společnosti. Řeč vychází z rukopisu jeho nadcházející knihy a zaměřuje se na kritiku AI prostřednictvím science fiction perspektivy.",
       "slug": "the-reverse-centaurs-guide-to-criticizing-ai",
@@ -686,24 +664,6 @@
       "companies": [
         "Samsung"
       ],
-      "people": []
-    },
-    {
-      "title": "Kamerky policistů s umělou inteligencí, dříve tabu, testují v kanadském městě na seznamu sledovaných tváří",
-      "description": "Policie v kanadském Edmontonu spustila pilotní projekt s kamerami na těle vybavenými AI pro rozpoznávání tváří z 'seznamu vysokého rizika' s asi 7000 osobami. Projekt od firmy Axon Enterprise vyvolává obavy z etických rizik a narušení soukromí.",
-      "slug": "ai-powered-police-body-cameras-once-taboo-get-test",
-      "publishedAt": "2025-12-07T11:33:45+00:00",
-      "date": "2025-12-07 11:33:45",
-      "importance": 3,
-      "category": "rozpoznávání tváří",
-      "urlToImage": "https://i.abcnewsfe.com/a/42b5954c-3508-4935-80b0-f054538c3d03/wirestory_21f319ce806a0023f855eb69d928d31e_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-07/ai-powered-police-body-cameras-once-taboo-get-test/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3819,6 +3779,42 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "[レポート]Modernizing Operational Technology for AI-power Manufacturingに参加してきました #IND370 #AWS #AWSreInvent",
+      "description": "[レポート]Modernizing Operational Technology for AI-power Manufacturingに参加してきました #IND370 #AWS #AWSreInvent",
+      "slug": "レポートmodernizing-operational-technology-for-ai-powe",
+      "publishedAt": "2025-12-05T07:59:56+00:00",
+      "date": "2025-12-05 07:59:56",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://images.ctfassets.net/ct0aopd36mqt/4pUQzSdez78aERI3ud3HNg/fe4c41ee45eccea110362c7c14f1edec/reinvent2025_devio_report_w1200h630.png",
+      "url": "/tech-news/2025-12-05/レポートmodernizing-operational-technology-for-ai-powe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Classmethod.jp"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Zuckerberg Axes Metaverse: Meta Slashes Budget By £52 Billion As VR Dream Implodes",
+      "description": "Meta is preparing to slash up to £52 billion from its Metaverse budget as Mark Zuckerberg shifts Facebook's parent company toward artificial intelligence, signalling significant possible job cuts.",
+      "slug": "zuckerberg-axes-metaverse-meta-slashes-budget-by-5",
+      "publishedAt": "2025-12-05T05:26:43+00:00",
+      "date": "2025-12-05 05:26:43",
+      "importance": 3,
+      "category": "tech",
+      "urlToImage": "https://d.ibtimes.co.uk/en/full/1773652/mark-zuckerberg-metaverse.jpg",
+      "url": "/tech-news/2025-12-05/zuckerberg-axes-metaverse-meta-slashes-budget-by-5/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times UK"
       },
       "companies": [],
       "people": []
