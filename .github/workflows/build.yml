@@ -57,6 +57,19 @@ jobs:
             git push
           fi
 
+      - name: Archive old tech_news
+        run: |
+          echo "Archivuji tech_news starší než 50 dní..."
+          python scripts/archive_tech_news.py --days 50
+          # Commitni změny pokud existují
+          git add tech-news-archive/ _tech_news/ || true
+          if git diff --staged --quiet; then
+            echo "Žádné nové archivované články"
+          else
+            git commit -m "Archivace starých tech_news [skip ci]"
+            git push
+          fi
+
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build
         env:
