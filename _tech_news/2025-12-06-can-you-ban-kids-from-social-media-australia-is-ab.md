@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: sociální sítě
 date: '2025-12-06 18:58:09'
-description: Australský zákon zakazující sociální sítě dětem pod 16 let vstupuje tento
-  týden v platnost, kritici však upozorňují, že ho nelze efektivně vymáhat – a neměl
-  by ani.
+description: Australský zákon zakazující dětem do 16 let přístup k sociálním sítím
+  vstupuje tento týden v platnost, kritici však pochybují o jeho vymahatelnosti a
+  vhodnosti.
 importance: 3
 layout: tech_news_article
 original_title: Can you ban kids from social media? Australia is about to, but some
@@ -22,27 +22,25 @@ urlToImage: https://ichef.bbci.co.uk/news/1024/branded_news/2bf7/live/75176520-d
 urlToImageBackup: https://ichef.bbci.co.uk/news/1024/branded_news/2bf7/live/75176520-d1a2-11f0-9fb5-5f3a3703a365.jpg
 ---
 
-### Souhrn
-Austrálie zavádí zákon, který od tohoto týdne zakazuje dětem mladším 16 let používat sociální sítě jako Snapchat nebo TikTok. Už nyní teenageři, jako 13letá Isobel, tento zákaz snadno obcházejí jednoduchými triky, například použitím fotografie dospělého před kamerou pro ověření věku. Kritici varují před nespolehlivostí technologie i možnými riziky pro děti.
+## Souhrn
+Austrálie zavádí zákon, který od tohoto týdne zakazuje dětem mladším 16 let používat sociální sítě jako Snapchat nebo TikTok. Už nyní teenageři, jako 13letá Isobel, obcházejí ověřování věku jednoduchými triky, například použitím fotografie dospělého. Experti varují před nespolehlivostí technologie i riziky izolace dětí.
 
-### Klíčové body
-- Zákon zasahuje deset platforem včetně Snapchatu a TikToku a vyžaduje ověření věku nad 16 let.
-- Děti obcházejí systém fotoaparátem: Isobel použila fotografii své matky, jiní celebritní tváře jako Beyoncé.
-- Rodiče doufali v lepší ochranu, ale nyní pochybují o účinnosti.
-- Experti upozorňují na slabiny technologie, riziko izolace zranitelných dětí a posun do neřešených částí internetu.
-- Politika je sledována globálně, firmy jako Meta ji sledují s obavami.
+## Klíčové body
+- Australský zákon zasahuje deset platforem včetně Snapchatu a TikToku, vyžaduje ověření věku nad 16 let.
+- Děti obcházejí systém snadno: Isobel použila fotku matky před kamerou, jiní údajně tvář Beyoncé.
+- Kritika se týká spolehlivosti age verification technologií a možného odtlačení dětí do méně regulovaných částí internetu.
+- Rodiče doufají v ochranu před online riziky, ale realita ukazuje slabiny zákona.
+- Globální pozornost: podobné regulace sledují i jiné země, firmy jako Meta se obávají.
 
-### Podrobnosti
-Australský zákon, označovaný jako světově přední, vstupuje v platnost tento týden a ukládá sociálním sítím povinnost bránit přístupu uživatelům mladším 16 let. Platformy jako Snapchat, TikTok, Instagram nebo Facebook musí implementovat systémy ověření věku, často založené na biometrickém rozpoznávání obličeje nebo nahrávání dokladů. Snapchat už teenagery upozornil notifikací a vyzval k ověření.
+## Podrobnosti
+Australský zákon, označovaný jako světově přední, vstupuje v platnost tento týden a ovlivňuje deset hlavních sociálních platforem, mezi nimi Snapchat, TikTok a pravděpodobně i ty od Meta jako Instagram nebo Facebook. Platformy musí zavést mechanismy ověřování věku, typicky založené na biometrickém rozpoznávání obličeje nebo nahrávání dokladů. Snapchat například poslal uživatelům notifikaci s výzvou k ověření, pokud systém detekuje mladšího uživatele.
 
-13letá Isobel z Sydney tento systém obešla během pěti minut: vzala fotografii své matky, přiložila ji k kamerě a aplikace ji přijala s poděkováním za ověření. Podobně slyšela o použití fotografie Beyoncé. Matka Mel, která dosud dovolovala dceři používat tyto appky pod dohledem, se tomu zasmála, ale přiznala, že to předpokládala. Rodiče v Austrálii obecně doufají, že zákon pomůže chránit děti před riziky jako kyberšikana, šíření dezinformací nebo nevhodný obsah, který sociální sítě špatně moderují.
+Příklad 13leté Isobel ilustruje slabiny těchto systémů: za méně než pět minut nasnímala fotku své matky a držela ji před kamerou. Algoritmus pro rozpoznávání obličeje ji prohlásil za dospělou a umožnil přístup. Podobně se mluví o použití veřejně dostupných fotografií celebrit, jako Beyoncé. Matka Mel, která dříve dovolovala dceři používat aplikace pod dohledem, doufala, že zákon pomůže chránit děti před riziky jako kyberšikana, šíření dezinformací nebo nevhodný obsah. Místo toho vidí, jak děti systémy obcházejí, což vede k tajnému používání bez rodičovské kontroly.
 
-Experti však poukazují na slabiny. Technologie rozpoznávání obličeje, například od firem jako Yoti nebo Microsoft, spoléhá na AI modely trénované na datech obličejů, ale je citlivá na manipulace – fotografie, masky nebo dokonce deepfakes ji snadno oklamou. Navíc vyžaduje sběr biometrických dat, což vyvolává obavy z ochrany soukromí. V Austrálii, kde žije přes 5 milionů dětí do 16 let, by vymáhání znamenalo obrovské náklady na kontroly a pokuty až 50 milionů australských dolarů pro porušitele.
+Experti poukazují na problémy s technologií: biometrické systémy, jako ty od firem specializujících se na age verification (např. Yoti nebo podobné), nejsou neomylné. Mají chybovost při detekci deepfakeů, maskování nebo dokonce u dětí s dospělejším vzhledem. Navíc vyžadují sběr biometrických dat, což vyvolává obavy o soukromí – data o obličejích by mohla být zneužita pro sledování nebo útoky. V Austrálii se diskutuje o centrálním registru, ale zatím není jasné, jak bude financován a bezpečný. Děti, které nechtějí riskovat, mohou migrovat na méně regulované platformy, jako Discord nebo anonymní fóra, kde je dohled ještě slabší. Australská vláda v Canbeře čelí otázkám, zda zákon skutečně funguje, zatímco tech firmy jako Snap nebo ByteDance (vlastník TikToku) sledují vývoj s obavami z globálních precedentů.
 
-Děti jako Isobel ukazují, že raději riskují než se vzdají platforem, kde komunikují s přáteli. Kritici varují, že zákaz může zranitelné děti izolovat od podpory komunit (např. LGBTQ+ skupiny) a tlačit je do méně regulovaných prostorů jako Discord nebo temný web. Firmy jako Meta a ByteDance (vlastník TikToku) argumentují proti, protože podobné systémy selhaly jinde – například v EU podle Digital Services Act.
-
-### Proč je to důležité
-Tato australská iniciativa testuje hranice technologické regulace sociálních sítí a ukazuje limity současných AI systémů pro ověřování věku. Pokud selže, oslabí důvěru v podobné zákony v EU, USA nebo Velké Británii, kde se připravují analoga. Pro průmysl znamená vyšší náklady na vývoj robustnějších technologií, jako vícefázové ověření (biometrie + doklady + chování), ale i riziko bojkotu uživatelů. Pro uživatele to podtrhuje nutnost rodičovské kontroly místo globálních zákazů, protože děti rychle adaptují na slabiny systémů. V širším kontextu IT to ilustruje konflikt mezi bezpečností a svobodou, kde technologie zatím nestačí na sociální problémy.
+## Proč je to důležité
+Tento zákon nastavuje precedens pro regulaci sociálních sítí, které mají v Austrálii přes 5 milionů uživatelů mladších 18 let. Pokud selže vymahatelnost, oslabí důvěru v podobné iniciativy v EU (Digital Services Act) nebo USA. Pro průmysl znamená nutnost investic do lepších age verification nástrojů, což zvyšuje náklady – firmy jako Meta už testují podobné systémy v Evropě. Pro uživatele to podtrhuje limity současných technologií: rodiče potřebují lepší nástroje jako pokročilé rodičovské kontroly v OS (např. Apple Screen Time nebo Google Family Link), nikoli pouhé zákazy. Dlouhodobě to může vést k vývoji robustnějších AI modelů pro detekci věku, ale s rizikem většího sledování.
 
 ---
 

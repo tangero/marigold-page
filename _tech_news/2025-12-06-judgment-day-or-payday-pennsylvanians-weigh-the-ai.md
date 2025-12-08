@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: ai
 date: '2025-12-06 18:31:56'
-description: Stát čeká a sleduje, co technologická změna přinese jeho pracovní síle.
-  Průzkum ukazuje skeptický postoj k dopadům AI na ekonomiku, životní prostředí a
-  zaměstnanost.
+description: Průzkum v Pensylvánii ukazuje skeptický postoj obyvatel k umělé inteligenci,
+  s obavami z negativních dopadů na ekonomiku, životní prostředí a zaměstnanost. Nejvíce
+  obav mají pracovníci v bílých profesích.
 importance: 3
 layout: tech_news_article
 original_title: Judgment day or payday? Pennsylvanians weigh the AI revolution
@@ -14,33 +14,33 @@ source:
   emoji: 📰
   id: null
   name: Wnd.com
-title: Denní soudu nebo výplata? Pensylvánci zvažují revoluci umělé inteligence
+title: Den soudu nebo výplata? Pensylvánci zvažují revoluci umělé inteligence
 url: https://www.wnd.com/2025/12/judgment-day-payday-pennsylvanians-weigh-ai-revolution/
 urlToImage: https://www.wnd.com/wp-content/uploads/2022/06/artificial-intelligence-brain.jpeg
 urlToImageBackup: https://www.wnd.com/wp-content/uploads/2022/06/artificial-intelligence-brain.jpeg
 ---
 
 ## Souhrn
-Průzkum RealClearPennsylvania/Emerson z prosince 2025 odhaluje skeptický postoj Pensylvánců k umělé inteligenci. Zhruba polovina respondentů očekává negativní vliv AI na ekonomiku a zaměstnanost, přičemž obavy dominují v sektorech bílých límců jako finance nebo profesionální služby. Tento názor kontrastuje s tradičními obavami z automatizace továrních linek.
+Průzkum RealClearPennsylvania/Emerson z prosince 2025 odhaluje, že obyvatelé Pensylvánie mají k rozvoji umělé inteligence (AI) převážně skeptický až pesimistický postoj. Čtyřicet osm procent respondentů očekává negativní vliv na ekonomiku a podobně vysoké obavy se týkají zaměstnanosti, kde 55 procent předpokládá úbytek pracovních míst v jejich oborech. Tento názor kontrastuje s tradičními představami o automatizaci, která nyní ohrožuje spíše kancelářské pracovníky než tovární dělníky.
 
 ## Klíčové body
-- 48 % Pensylvánců vidí negativní dopad AI na ekonomiku, oproti 25 % s pozitivním výhledem.
-- 46 % očekává negativní vliv na životní prostředí, zatímco jen 21 % vidí pozitivní přínos.
-- 55 % respondentů předpokládá úbytek pracovních míst ve svém oboru, s nejvyššími obavami v financích, pojišťovnictví a nemovitostech (64 %).
+- 48 % Pensylvánců vidí v AI negativní dopad na ekonomiku, pouze 25 % očekává pozitivní efekt.
+- 46 % se obává negativního vlivu na životní prostředí oproti 21 % s pozitivním výhledem.
+- 55 % respondentů předpokládá snížení počtu pracovních míst v jejich branži, s nejvyšší úrovní obav v financích, pojišťovnictví a nemovitostech (64 %).
 - Profesionální a podnikatelské služby (60 %) a zdravotnictví (59 %) vykazují podobné pesimismus.
-- Téměř tři čtvrtiny Pensylvánců zná film Terminator, což ovlivňuje kulturní vnímání AI jako hrozby.
+- Téměř tři čtvrtiny obyvatel zná film Terminator, což ovlivňuje kulturní vnímání AI jako hrozby.
 
 ## Podrobnosti
-Článek od Athana Koutsiouroumbase z Real Clear Wire popisuje průzkum provedený Emerson College pro RealClearPennsylvania, který zachycuje náladu v Pensylvánii – státu s významným průmyslovým a služebním sektorem. Od vydání filmu Terminator v roce 1984, kde umělá inteligence posílá cyborga zabijáka do současnosti, se veřejné vnímání AI ovlivnilo dystopickými scénáři. Průzkum potvrzuje, že Pensylvánci nevidí AI jako pomocníka, ale spíše jako riziko.
+Článek od Athana Koutsiouroumbase z Real Clear Wire popisuje průzkum provedený v Pensylvánii, státu s rozmanitou ekonomikou zahrnující průmysl, služby i zemědělství. Respondenti nevidí v AI pomocníka, ale spíše zdroj rizik. Tento skeptický postoj je široce rozšířený napříč demografickými skupinami a odráží globální debatu o dopadech AI na společnost.
 
-Ekonomické obavy jsou široké: 48 % respondentů předpokládá zhoršení hospodářství díky AI, což může souviset s rychlým nasazením velkých jazykových modelů (LLM) jako GPT nebo Claude, které automatizují úkoly jako analýza dat, tvorba reportů nebo právní analýzy. Na rozdíl od minulých vln automatizace, kde roboti nahrazovali manuální práci na montážních linkách, nyní AI ohrožuje kognitivní úkoly. To vysvětluje, proč 64 % pracovníků ve financích, pojišťovnictví a nemovitostech očekává ztráty míst – tyto sektory intenzivně využívají AI nástroje pro predikce rizik, hodnocení nemovitostí nebo automatizaci transakcí.
+Ekonomické obavy vycházejí z rychlého nasazení velkých jazykových modelů jako GPT-4 od OpenAI nebo Gemini od Google, které automatizují úkoly dříve vyžadující lidskou inteligenci. Například v právu mohou AI nástroje jako Harvey analyzovat smlouvy rychleji než právníci, v programování GitHub Copilot generuje kód na základě popisu úkolu. V Pensylvánii, kde sektor financí a profesionálních služeb zaměstnává stovky tisíc lidí, je strach opodstatněný: 64 procent pracovníků v bankovnictví, pojišťovnictví a realitách očekává ztráty míst. Podobně 60 procent v podnikatelských službách, včetně konzultací a marketingu, a 59 procent v zdravotnictví, kde AI diagnostické systémy jako IBM Watson Health zpracovávají rentgeny nebo predikují epidemie.
 
-Profesionální služby (60 %) zahrnují konzultace, marketing a IT podporu, kde AI jako ChatGPT nebo Gemini zefektivňují psaní textů, generování kódu nebo analýzu dat. Dokonce i zdravotnictví, považované za odolné kvůli lidskému faktoru, vykazuje 59 % obav: AI diagnostické systémy jako ty od Google DeepMind nebo IBM Watson Health již pomáhají s interpretací rentgenů nebo predikcí nemocí, což může snížit poptávku po juniorech. Životní prostředí se týká spotřeby energie tréninkem AI modelů na datech centrech s vysokou spotřebou GPU, což zvyšuje emise CO2, pokud není energie obnovitelná.
+Na rozdíl od minulé automatizace, která nahrazovala manuální práci roboty v továrnách (např. robotické rameno v automobilkách), současná AI vlna cílí na kognitivní úkoly. To vysvětluje reverz trendu: tovární dělníci jsou méně ohroženi než manažeři a specialisté. Obavy o životní prostředí souvisí s vysokou spotřebou energie datovými centry trénujícími AI modely – trénink GPT-3 spotřeboval ekvivalent energie pro 120 domácností na rok. Pensylvánie, s jejími uhelnými elektrárnami, cítí tuto zátěž akutně.
 
-Pensylvánie, s populací kolem 13 milionů a klíčovými sektory jako výroba (např. ocelárny) a služby (Filadelfie, Pittsburgh), reprezentuje střední Ameriku. Průzkum naznačuje, že stát „čeká a dívá se“, než přijme AI plně, což odráží širší trend v USA.
+Průzkum také odkazuje na kulturní vliv: skoro 75 procent respondentů vidělo Terminator, kde AI představuje apokalyptickou hrozbu. Tento narativ zesiluje strach před "denem soudu" spíše než "výplatou".
 
 ## Proč je to důležité
-Tento průzkum ilustruje, jak veřejné vnímání brzdí adopci AI v průmyslu a politice. V Pensylvánii, klíčovém swing státu, mohou obavy ovlivnit volby a regulace – například návrhy na daně z AI nebo rekvalifikační programy. Pro firmy jako OpenAI nebo Microsoft znamená skeptismus pomalejší integraci AI do pracovních postupů, což zpomaluje produktivitu. Na globální úrovni ukazuje posun od modrých límců k bílým: zatímco tovární roboti (např. od Boston Dynamics) dopadly mírněji, LLM hrozí masivními změnami v kancelářích. Bez rekvalifikace hrozí sociální napětí, ale AI také může vytvořit nová místa v AI etice nebo datové vědě. Dlouhodobě to podtrhuje potřebu vyvážené debaty mezi riziky a přínosy, aby se zabránilo přehnanému pesimismu blokujícímu inovace.
+Tento průzkum ilustruje širší veřejné vnímání AI v USA, což ovlivní politiku a regulace. Pensylvánie jako swing state může formovat národní debatu o AI zákonech, podobně jako EU AI Act, který zavádí rizikové kategorie pro systémy. Pro průmysl znamená pesimismus tlak na rekvalifikaci: firmy jako Microsoft investují do školení pro AI spolupráci, ale bez podpory vlády hrozí sociální napětí. V globálním kontextu ukazuje, jak lokální obavy mohou brzdit inovace – například zpomalit nasazení AI v zdravotnictví, kde by mohlo zlepšit diagnostiku o 20-30 procent podle studií. Dlouhodobě to podtrhuje nutnost vyváženého přístupu: AI přináší produktivitu, ale bez sociálních sítí riskuje nerovnosti.
 
 ---
 

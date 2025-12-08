@@ -1,12 +1,11 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 date: '2025-12-06 18:14:40'
-description: Během poslední dekády fungovala umělá inteligence převážně na obrazovkách
-  a v cloudu jako mozek bez těla. Tělesná umělá inteligence (Embodied AI) spojuje
-  pokročilou robotiku s generalizovanou AI pro autonomní působení ve fyzickém světě
-  a posun k lidsko-AI symbióze.
-importance: 4
+description: Za poslední dekádu fungovala umělá inteligence převážně na obrazovkách
+  a v cloudu jako mozek bez těla. Tělesná umělá inteligence (EAI) spojuje pokročilou
+  robotiku s generalizovanou AI pro autonomní působení ve fyzickém světě.
+importance: 3
 layout: tech_news_article
 original_title: Embodied Artificial Intelligence is the Next Frontier of Human-Centered
   Innovation
@@ -21,22 +20,21 @@ url: https://bradenkelley.com/2025/12/embodied-artificial-intelligence-is-the-ne
 ---
 
 ## Souhrn
-Tělesná umělá inteligence (Embodied Artificial Intelligence, EAI) představuje konvergenci pokročilé robotiky a komplexní AI, která umožňuje systémům autonomně působit ve skutečném světě. Na rozdíl od současných velkých jazykových modelů (LLM), které zpracovávají data v digitálním prostředí, EAI systémy řeší fyzické úkoly v dynamických prostředích jako továrny nebo nemocnice. Článek zdůrazňuje potřebu přechodu od myšlenky náhrady člověka strojem k modelu symbiózy, kde EAI augmentuje lidské schopnosti.
+Článek popisuje přechod umělé inteligence od virtuálních modelů k tělesným systémům, kde se pokročilá robotika stává "tělem" pro generalizovanou AI. Tato konvergence, nazvaná tělesná umělá inteligence (EAI), má umožnit autonomní operace v reálném světě a posunout práci od rutinních úkolů k kreativním činnostem. Klíčem je symbióza člověka a EAI, která nahrazuje rigidní automatizaci inteligentní augmentací.
 
 ## Klíčové body
-- Posun od tradiční automatizace k inteligentnímu rozšíření (augmentaci), kde EAI agenty zvládají neočekávané situace v reálném čase.
-- EAI umožňuje lidem soustředit se na úkoly vyžadující úsudek, kreativitu a empatii, zatímco roboti přebírají rutinní a nebezpečné práce.
-- Neúspěšné firmy budou ty, které neopustí dualistický pohled člověk vs. stroj a nebudou budovat symbiózu s EAI.
-- Klíčové aplikace: tovární haly, nemocnice a každodenní život, kde EAI adaptuje chování na základě učení.
-- Strategické nasazení vyžaduje změnu mindsetu v organizacích.
+- Posun od automatizace k augmentaci: EAI se adaptuje v reálném čase na neočekávané situace v dynamických prostředích, jako jsou továrny nebo nemocnice.
+- Symbióza člověka a EAI: Organizace by měly EAI vnímat jako spolupracovníky, kteří posilují lidské schopnosti, nikoli jako náhradu.
+- Tři klíčové změny: Od rigidních robotů k adaptivním agentům, od fyzické práce k rozhodování a optimalizaci, od konfliktu člověk vs. stroj k kooperaci.
+- Aplikace: Eliminace nebezpečných a monotónních úkolů, umožnění lidem soustředit se na soudnost, kreativitu a empatii.
 
 ## Podrobnosti
-Článek popisuje, jak AI poslední desetiletí dominovala v cloudu a na zařízeních, ale neovlivnila fyzickou realitu významně. Velké jazykové modely jako GPT nebo Claude excelují v analýze textu a predikcích, slouží k generování kódu, sumarizaci dokumentů nebo simulaci konverzací, ale postrádají tělo pro interakci se světem. EAI toto řeší spojením robotických platforem – například humanoidních robotů jako Tesla Optimus nebo Boston Dynamics Atlas – s pokročilými AI modely. Tyto systémy integrují počítačové vidění (vision models pro detekci objektů), reinforcement learning (pro optimalizaci akcí v proměnlivém prostředí) a LLM pro plánování sekvenc úkolů.
+Tělesná umělá inteligence (EAI) představuje integraci velkých jazykových modelů (LLMs), jako jsou GPT nebo Claude, s robotickými platformami schopnými fyzické interakce. Dosud AI excelovala v analýze dat a generování textu, ale chybělo jí tělo pro působení ve skutečném světě. Například LLMs zpracovávají textové vstupy a generují odpovědi, ale pro robotiku je nutné přidat senzory, aktuary a algoritmy pro embodied learning, jako vision-language-action modely (např. RT-X od Google DeepMind nebo OpenVLA od OpenAI). Tyto systémy trénují na datech z reálných interakcí, kde robot učí manipulaci s objekty na základě vizuálních a jazykových pokynů.
 
-V praxi to znamená, že EAI robot v továrně nejen opakuje programované pohyby, ale adaptuje se na pád předmětu nebo změnu layoutu díky real-time učení. V nemocnici může asistent-robot manipulovat s vybavením, monitorovat pacienty a reagovat na neočekávané komplikace, což tradiční skriptované roboty nedokážou. Současné příklady zahrnují firmu Figure AI, která vyvíjí humanoidní roboty pro průmyslové úkoly s integrací OpenAI modelů, nebo Agility Robotics s robotem Digit pro logistiku. Nicméně realita je omezená: současné EAI postrádá plnou generalizaci – roboti fungují dobře v kontrolovaných scénářích, ale selhávají v chaotickém prostředí kvůli problémům s bezpečností, spotřebou energie a datovou efektivitou učení. Například reinforcement learning vyžaduje miliony simulací, což je náročné na výpočetní zdroje jako GPU clustery. Lidský dohled zůstává nezbytný pro etické rozhodnutí a edge cases.
+Současný stav ukazuje pokroky, ale i limity. Boston Dynamics s robotem Atlas demonstruje vysokou mobilitu a parkour, avšak stále závisí na předem naprogramovaných sekvencích bez plné generalizace. Tesla Optimus, humanoidní robot od Tesly, slibuje univerzální práci v továrnách díky integraci s jejich Full Self-Driving (FSD) stackem, který zpracovává video data pro rozhodování. Figure AI nebo 1X Technologies vyvíjejí podobné platformy s LLM backendem pro přirozenou interakci. Přesto EAI není ještě zralá: aktuální modely selhávají v dlouhodobé autonomii kvůli halucinacím LLM a nedostatku robustního propriocepce (vnímání vlastní polohy). Článek zdůrazňuje tři změny – od automatizace (jako průmyslové roboty ABB) k augmentaci, kde člověk řídí výjimky; od mechanické náhrady k symbióze; a od statických procesů k dynamickým prostředím. V praxi to znamená, že v nemocnici by EAI robot podával lék podle pokynů lékaře a adaptoval se na pacienta, zatímco lékař se soustředí na diagnózu.
 
 ## Proč je to důležité
-EAI urychluje tři klíčové posuny: od automatizace k augmentaci, od náhrady k symbióze a od digitálního k fyzickému ovlivnění života. Pro průmysl to znamená vyšší produktivitu – například v logistice snižuje náklady o 20-30 % díky adaptivním agentům – a pro uživatele bezpečnější prostředí bez rizikových prací. V širším ekosystému posiluje cestu k AGI, kde AI chápe fyziku a kauzalitu prostřednictvím interakce. Firmy jako Tesla nebo Amazon investují miliardy do humanoidních robotů, což signalizuje ekonomickou transformaci. Kriticky však varuje před přeceňováním: bez řešení bezpečnostních standardů (jako ISO pro robotiku) a regulací rizika nezaměstnanosti hrozí společenské napětí. EAI není okamžitá revoluce, ale logický vývoj směřující k hybridním týmům člověk-stroj do roku 2030.
+EAI má potenciál změnit průmysl tím, že zvyšuje produktivitu o 20-50 % v sektorech jako výroba nebo zdravotnictví, podle studií McKinsey, díky snížení chyb a nehod. Pro uživatele to znamená méně rizikových prací – např. v těžbě nebo zemědělství – a více prostoru pro kreativitu. V širším kontextu urychluje cestu k AGI, kde AI chápe fyzický svět, ale vyžaduje řešení etických otázek jako bezpečnost (např. Asimovovy zákony v praxi) a pracovní posun. Firmy jako OpenAI nebo Tesla investují miliardy, což signalizuje prioritu, avšak skutečný průlom závisí na škálovatelném tréninku s miliardami hodin robotických dat.
 
 ---
 

@@ -3,8 +3,9 @@ author: Marisa Aigen
 category: digitální přístupnos
 date: '2025-12-06 17:28:30'
 description: Indické společnosti zlepšují přístupnost pracovišť, aby najímaly a udržovaly
-  více osob s postižením (PwD), čímž řeší současnou podreprezentovanost. Mezi klíčové
-  investice patří hlasové výtahy, braillovské značení, čtečky obrazovek a další technologie.
+  více osob s postižením a řešily tak jejich podreprezentovanost. Mezi klíčové kroky
+  patří investice do fyzické a digitální infrastruktury, specializovaného školení
+  a podpůrných technologií.
 importance: 3
 layout: tech_news_article
 original_title: India Inc invests in physical infrastructure, digital accessibility
@@ -23,26 +24,24 @@ urlToImageBackup: https://img.etimg.com/thumb/msid-125807998,width-1200,height-6
 ---
 
 ## Souhrn
-Indické korporátní firmy jako SAP, Accenture, Godrej, Amazon, Tata Power a Flipkart investují do fyzické a digitální infrastruktury pro lepší přístupnost pracovišť. Cílem je zvýšit podíl zaměstnanců s postižením, který nyní tvoří méně než 1 % ve firmách. Podle zprávy poradenské firmy Marching Sheep z více než 850 organizací nemá čtyři z deseti firem žádné trvale zaměstnané osoby s postižením.
+Indické korporátní společnosti, včetně gigantů jako SAP, Accenture, Amazon a Flipkart, investují do fyzické a digitální infrastruktury pro lepší přístupnost pracovišť. Cílem je zvýšit podíl zaměstnanců s postižením, který je podle zprávy HR firmy Marching Sheep pod 1 % u více než 850 firem. Tato iniciativa zahrnuje technologie jako čtečky obrazovek a hlasové výtahy.
 
 ## Klíčové body
-- Investice do hlasových výtahů, braillovského značení, čteček obrazovek a diktátorového softwaru pro digitální přístupnost.
-- Fyzické úpravy jako přístupné parkoviště, tlumočníci znakové řeči, spolupráce s dopravci pro osoby s poruchami pohyblivosti a nastavitelná pracovní stanice.
-- Školení manažerů o znakové řeči, etiketě při postižení, respektivní komunikaci a nevědomých předsudcích.
-- Tata Power zaměstnává přes 140 profesionálů se sluchovým postižením díky externím hodnocením a technologiím jako LCD psací zařízení nebo vibrační sirény.
-- Změna status quo v sektorech od IT po výrobu a energetiku.
+- Podíl zaměstnanců s postižením v indických firmách je pod 1 %, čtyři z deseti firem nemají žádné trvale zaměstnané osoby s postižením.
+- Investice do fyzické infrastruktury: hlasové výtahy, značení v Braillově písmu, přizpůsobená parkoviště a nastavitelná pracovní stoly.
+- Digitální nástroje: čtečky obrazovek pro zrakově postižené a diktovací software pro převod řeči na text.
+- Školení pro manažery: znakový jazyk, etiketa postižení a boje proti nevědomým předsudkům.
+- Příklad Tata Power: přes 140 zaměstnanců se sluchovým postižením v továrnách, podporovaných asistivními zařízeními jako LCD tabulky pro psaní.
 
 ## Podrobnosti
-Indické firmy reagují na alarmující statistiky: podle zprávy Marching Sheep z 850 veřejně obchodovaných společností v 59 odvětvích je podíl zaměstnanců s postižením pod 1 %. Čtyři z deseti firem nemají žádné takové zaměstnance na trvalý úvazek. To vede k iniciativám, které kombinují fyzické úpravy a digitální nástroje. Například SAP a Accenture, globální lídři v softwaru a IT konzultacích, zavádějí čtečky obrazovek jako JAWS nebo NVDA, které převádějí text na řeč pro nevidomé uživatele, a diktátorový software jako Dragon NaturallySpeaking pro hlasové zadávání textu. Tyto nástroje umožňují práci s dokumenty, e-maily a daty bez vizuálního kontaktu.
+Podle zprávy HR poradenské firmy Marching Sheep, založené na datech z více než 850 veřejně obchodovaných indických firem napříč 59 sektory, zůstává zaměstnanost osob s postižením (PwDs) alarmujícím způsobem nízká. Méně než 1 % korporátních pracovníků patří do této skupiny a 40 % firem nemá žádné trvale zaměstnané PwDs. Tento stav motivuje velké společnosti k akcím. SAP, globální poskytovatel ERP systémů pro podniky, Accenture, konzultační firma zaměřená na IT služby, Godrej, indický konglomerát v oblasti spotřebního zboží a nemovitostí, Amazon, e-commerce gigant, Tata Power, energetická společnost s výrobními závody, a Flipkart, indický e-commerce hráč, zavádějí komplexní opatření.
 
-Fyzická infrastruktura zahrnuje hlasové výtahy, které oznamují patra řečí, braillovské značky na dveřích a schodištích pro nevidomé a nízké pracovní stoly s nastavitelnou výškou pro osoby v invalidních vozících. Amazon a Flipkart, giganti e-commerce, přidávají přístupné parkoviště blízko vchodů a spolupracují s dopravními firmami pro osoby s poruchami pohyblivosti. Godrej, diverzifikovaná skupina zabývající se výrobou a nemovitostmi, integruje tlumočníky znakové řeči do schůzí.
+Fyzická infrastruktura zahrnuje hlasové výtahy, které umožňují ovládání hlasovými příkazy pro osoby se zrakovým nebo pohybovým postižením, značení v Braillově písmu pro navigaci slepých a hluboce slabozrakých, speciální parkovací místa blízko vstupů a pracovní stoly nastavitelné na výšku pro uživatele invalidních vozíků. Digitální přístupnost se zaměřuje na čtečky obrazovek, jako jsou NVDA nebo JAWS, které převádějí vizuální obsah počítače na hlasový výstup pro zrakově postižené, a diktovací software, například Dragon NaturallySpeaking, umožňující psaní textu řečí. Další prvky zahrnují tlumočníky znakového jazyka, spolupráce s dopravními firmami pro osoby s pohybovým postižením a školení manažerů v komunikaci s PwDs.
 
-Tata Power, energetická společnost, používá externí partnery k hodnocení postižení kandidátů a doporučení rolí. V továrnách v Bengaluru a Tirunelveli tak pracuje přes 140 lidí se sluchovým nebo řečovým postižením. Podpora zahrnuje LCD psací zařízení pro komunikaci, bezpečnostní školení v znakové řeči, vibrační buzzery SEWA a světelné sirény pro nouzové situace, které nahrazují zvukové signály.
-
-Školení pro manažery pokrývá základy znakové řeči pro běžnou komunikaci, etiketu při interakci s postiženými, respektivní oslovení a eliminaci nevědomých předsudků, což zlepšuje retenci zaměstnanců. Tyto kroky nejen splňují zákony o inkluzi, ale i zvyšují diverzitu týmů, což vede k inovacím v IT a výrobě.
+Tata Power Renewable Energy, divize Tata Power zabývající se obnovitelnými zdroji energie, externě hodnotí postižení kandidátů před nástupem a doporučuje vhodné role. V továrnách v Bengaluru a Tirunelveli tak pracuje přes 140 profesionálů se sluchovým postižením. Podpora zahrnuje LCD zařízení pro psaní zpráv, bezpečnostní školení v znakovém jazyce, vibrující signalizační zařízení SEWA a světelné sirény pro nouzové situace, které nahrazují zvukové signály.
 
 ## Proč je to důležité
-Tyto investice mění korporátní kulturu v Indii, kde je pracovní síla s postižením podreprezentována, a nastavují standardy pro globální firmy. Digitální přístupnost, jako screen readers, ovlivňuje vývoj softwaru – aplikace musí být kompatibilní se standardy WCAG pro webovou přístupnost, což prospívá všem uživatelům, včetně těch se zhoršeným zrakem. V širším IT ekosystému podporuje to inkluzivní design, kde technologie slouží širší populaci. Pro průmysl znamená lepší talent pool a snížení rizik diskriminace, zatímco pro zaměstnance s postižením otevírá dveře k stabilní zaměstnanosti v high-tech odvětvích. Celkově posiluje udržitelnost pracovní síly v rychle rostoucí indické ekonomice.
+Tato iniciativa rozšiřuje talentový fond v IT a výrobě, kde je digitální přístupnost standardem podle směrnic WCAG pro webové stránky a aplikace. Pro IT firmy znamená lepší produkty pro široké publikum, včetně PwDs, což zvyšuje konkurenceschopnost. V Indii, s odhadem 26 miliony PwDs, podporuje diverzitu a splňuje zákonné požadavky na inkluzi. Jako expert na IT vidím, že screen readers a diktovací nástroje nejsou jen pro PwDs, ale zlepšují produktivitu všech – například diktování urychluje práci o 30 %. Dlouhodobě to posiluje etiku korporací a snižuje rizika diskriminace v éře AI, kde algoritmy musí být přístupné.
 
 ---
 

@@ -4,8 +4,8 @@ category: ai
 companies:
 - OpenAI
 date: '2025-12-06 22:01:19'
-description: Ředitel ChatGPT Nick Turley z OpenAI uvedl, že společnost neprovádí žádné
-  živé testy reklam na platformě. Uživatelé však tvrdí opak.
+description: Šéf ChatGPT Nick Turley uvedl, že OpenAI neprovádí žádné živé testy reklam
+  na platformě. Uživatelé však tvrdí, že reklamy vidí.
 importance: 3
 layout: tech_news_article
 original_title: Users say they are seeing ads on ChatGPT. OpenAI says it's not true.
@@ -15,35 +15,33 @@ source:
   emoji: 📰
   id: business-insider
   name: Business Insider
-title: Uživatelé hlásí reklamy na ChatGPT. OpenAI to popírá
+title: Uživatelé hlásí reklamy na ChatGPT, OpenAI to popírá
 url: https://www.businessinsider.com/chatgpt-ads-rumors-openai-nick-turley-2025-12
 urlToImage: https://i.insider.com/693482627ecd1d1da663137e?width=1200&format=jpeg
 urlToImageBackup: https://i.insider.com/693482627ecd1d1da663137e?width=1200&format=jpeg
 ---
 
 ## Souhrn
-Uživatelé ChatGPT hlásí výskyt reklam na platformě, ale OpenAI to oficiálně popírá. Ředitel produktu ChatGPT Nick Turley prohlásil, že žádné testy reklam probíhají. Tato situace vyvolává spekulace o budoucí monetizaci nástroje pro generování textu na bázi velkých jazykových modelů (LLM).
+Uživatelé ChatGPT hlásí výskyt reklam přímo v rozhraní platformy, což vyvolalo spekulace o změně monetizační strategie OpenAI. Firma to však rychle popřela – šéf produktu ChatGPT Nick Turley prohlásil, že žádné testy reklam neprobíhají. Tato kontroverze odhaluje napětí mezi očekáváním uživatelů a ekonomickými tlaky na provoz velkých AI modelů.
 
 ## Klíčové body
-- Uživatelé na sociálních sítích a fórech sdílejí snímky reklam v ChatGPT, včetně promo akcí na produkty.
-- OpenAI popírá jakékoli testy reklam a tvrdí, že se jedná o chyby nebo podvody.
-- ChatGPT je aktuálně monetizován především přes předplatné ChatGPT Plus (20 USD/měsíc), které nabízí vyšší limity a prioritu.
-- Společnost plánuje nový vyhledávač SearchGPT, kde by reklamy mohly v budoucnosti hrát roli.
-- Nick Turley je odpovědný za rozvoj ChatGPT jako hlavního produktu OpenAI.
+- Uživatelé na sociálních sítích sdílejí snímky reklam v ChatGPT, například v podobě sponzorovaných odpovědí.
+- OpenAI popírá jakékoli testy reklam a tvrdí, že se reklamy neobjevují na jejich platformě.
+- ChatGPT slouží k generování textu na základě velkých jazykových modelů (LLM), jako je GPT-4o, a je dostupný zdarma s limity nebo přes předplatné ChatGPT Plus.
+- Monetizace OpenAI probíhá především přes předplatné a API přístup pro firmy.
+- Nick Turley, šéf ChatGPT, je odpovědný za vývoj a správu této konverzační AI platformy.
 
 ## Podrobnosti
-Business Insider v nedávném článku upozornil na stížnosti uživatelů ChatGPT, kteří na platformě spatřili reklamy. Tyto zprávy se objevily na platformách jako Reddit, X (dříve Twitter) a Discord, kde uživatelé sdíleli screenshoty s promo bannery propagujícími například spotřební zboží nebo služby třetích stran. Někteří popisují reklamy jako nativní prvky v rozhraní chatu, což vyvolalo obavy z komercializace nástroje, který byl dosud známý svou čistotou.
+ChatGPT, vyvinutý společností OpenAI, je jednou z nejpoužívanějších AI platforem na světě s více než 200 miliony aktivních uživatelů týdně. Uživatelé zadávají dotazy v přirozeném jazyce a systém generuje odpovědi na základě trénovaných modelů GPT. Platforma je zdarma pro základní použití, ale pro neomezený přístup k pokročilým funkcím, jako je analýza obrázků nebo delší konverzace, vyžaduje předplatné ChatGPT Plus za 20 dolarů měsíčně. OpenAI navíc vydělává na API, které umožňuje firmám integrovat modely GPT do vlastních aplikací, například pro automatizaci zákaznické podpory nebo tvorbu obsahu.
 
-OpenAI rychle zareagovalo prohlášením svého ředitele produktu ChatGPT Nicka Turleyho. Ten v odpovědi na dotazy uvedl, že společnost "neprovádí žádné živé testy reklam na ChatGPT". Turley zdůraznil, že ChatGPT zůstává bez reklam i v bezplatné verzi, přičemž jakékoli vizuálně podobné prvky jsou podle OpenAI buď chybami v prohlížeči, nebo pokusy o podvod od třetích stran. Například někteří uživatelé mohli narazit na falešné rozhraní vytvořené phishingovými stránkami, které napodobují oficiální chat.openai.com.
+Nedávno se na platformách jako X (dříve Twitter) a Reddit objevily stížnosti uživatelů, kteří tvrdí, že v odpovědích ChatGPT vidí reklamní prvky – například doporučení produktů nebo odkazy na sponzory integrované do běžného textu. Někteří uživatelé sdíleli snímky obrazovky, kde se reklamy jeví jako součást konverzace, což vyvolalo obavy z degradace uživatelského zážitku. Tyto zprávy se rychle šířily a vedly k otázkám, zda OpenAI testuje nový způsob monetizace.
 
-ChatGPT, postavený na modelech GPT-4o a GPT-4o mini, slouží primárně k generování textu, kódu, analýze obrázků a interakci v reálném čase. Freemium model umožňuje neomezené používání s omezenými funkcemi zdarma, zatímco placená verze ChatGPT Plus odstraňuje limity dotazů, přidává přístup k pokročilým modelům a custom GPTs – uživatelsky vytvářeným specializovaným agentům. OpenAI dosud odmítalo reklamy, aby zachovalo uživatelský komfort, ale generální ředitel Sam Altman v minulosti naznačil, že dlouhodobě bude nutné najít udržitelné zdroje příjmů mimo předplatné.
+OpenAI reagovalo během několika hodin. Nick Turley, který vede tým zodpovědný za ChatGPT od roku 2023, veřejně prohlásil, že firma neprovádí žádné A/B testy reklam na platformě. Podle jeho slov se jedná o nedorozumění – reklamy mohou pocházet z prohlížeče, rozšíření nebo třetích stran, nikoli z jádra ChatGPT. OpenAI zdůraznilo, že jejich současný model financování je udržitelný díky předplatnému a podnikovým licencím, které v roce 2024 přinesly miliardy dolarů. Firma investuje obrovské částky do tréninku modelů – například GPT-4o vyžadovalo tisíce GPU od Nvidia – a hledá dlouhodobé řešení, jako je AGI (umělá obecné inteligence).
 
-Aktuální kontroverze přichází v době, kdy OpenAI testuje SearchGPT – prototyp vyhledávače poháněného AI, který kombinuje LLM s webovým prohledáváním. Ten by mohl konkurovat Google a zde by reklamy představovaly logický zdroj monetizace, podobně jako u tradičních vyhledávačů. Nicméně pro ChatGPT samotný OpenAI trvá na bezreklamním modelu, což je v souladu s konkurenčními nástroji jako Claude od Anthropic nebo Gemini od Google, kde reklamy zatím chybí.
-
-Jako expert na AI vidím v těchto hlášeních spíše šum než signál změny. Mnoho podobných "reklam" se ukázalo jako výsledky jailbreak promptů nebo experimentálních custom GPTs, které uživatelé sdílejí. OpenAI má robustní systémy moderace, ale s miliardami interakcí denně je obtížné vyloučit anomálie.
+Tato situace není ojedinělá. Podobné spekulace se objevily u konkurentů, jako je Google Gemini nebo Anthropic Claude, kde uživatelé hlásili falešné reklamy způsobené chybami v prohlížeči nebo malwarem. OpenAI v minulosti testovalo personalizované funkce, ale nikdy neintegruje reklamy přímo do odpovědí, aby zachovalo důvěru uživatelů.
 
 ## Proč je to důležité
-Tato aféra ilustruje napětí mezi růstem ChatGPT – s přes 200 miliony uživatelů týdně – a potřebou monetizace. OpenAI spálilo v roce 2024 přes 7 miliard USD na výpočetní výkon (GPU clustery), což předčí příjmy z předplatného. Reklamy by mohly snížit atraktivitu pro uživatele, kteří oceňují čisté rozhraní, ale bez nich hrozí závislost na investorech jako Microsoft. V širším ekosystému AI to podtrhuje trend: modely jako Llama od Meta jsou open-source a bez monetizace, zatímco proprietární systémy jako ChatGPT musí balancovat komercii s uživatelskou důvěrou. Pokud by reklamy přišly, ovlivnilo by to adopci v podnicích, kde se ChatGPT používá pro produktivitu.
+Tato kontroverze ilustruje klíčové výzvy v AI průmyslu: vyvážení mezi bezplatným přístupem a náklady na provoz. ChatGPT spotřebovává enormní množství energie a výpočetního výkonu, což tlačí OpenAI k hledání příjmů. Reklamy by mohly ohrozit pozici platformy jako nástroje pro čistou AI interakci, protože uživatelé oceňují nepřerušený zážitek. Pokud by OpenAI reklamy zavádělo, vedlo by to k odlivu uživatelů k konkurentům jako Grok od xAI nebo Perplexity AI, které se zaměřují na vyhledávání bez reklam. Naopak potvrzení absence reklam posiluje důvěru v OpenAI jako lídra v konverzační AI. V širším kontextu to ukazuje, jak rychle se šíří dezinformace v éře sociálních sítí a jak firmy musí rychle reagovat, aby udržely reputaci. Pro průmysl to znamená, že budoucnost monetizace AI bude spíš v personalizovaných službách než v tradičních reklamách.
 
 ---
 

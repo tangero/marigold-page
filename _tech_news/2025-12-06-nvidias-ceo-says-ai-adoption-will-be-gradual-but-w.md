@@ -4,11 +4,10 @@ category: umělá inteligence
 companies:
 - Nvidia
 date: '2025-12-06 17:34:07'
-description: Generální ředitel Nvidia Jensen Huang nečeká náhlý nárůst propouštění
-  kvůli AI, ale varuje, že technologie postupně změní trh práce a vytvoří nové role,
-  jako jsou krejčí pro roboty. Nejodolnější práce vůči AI budou ty, které vyžadují
-  fyzickou interakci s reálným světem.
-importance: 4
+description: Jensen Huang z Nvidia nečeká náhlý nárůst propouštění kvůli AI, ale varuje
+  před hlubokou proměnou trhu práce. Technologie postupně ovlivní zaměstnanost a vytvoří
+  nové pozice, například údržbu oblečení pro humanoidní roboty.
+importance: 3
 layout: tech_news_article
 original_title: Nvidia’s CEO says AI adoption will be gradual, but when it does hit,
   we may all end up making robot clothing
@@ -20,32 +19,32 @@ source:
   emoji: 📰
   id: null
   name: Biztoc.com
-title: Šéf Nvidia říká, že přijetí AI bude postupné, ale když přijde, možná všichni
-  budeme vyrábět oblečení pro roboty
+title: 'Generální ředitel Nvidia: Adopce umělé inteligence bude postupná, ale přinese
+  změny včetně rolí jako krejčí pro roboty'
 url: https://biztoc.com/x/23c1a12aa0e7abc5
 urlToImage: https://biztoc.com/cdn/23c1a12aa0e7abc5_s.webp
 urlToImageBackup: https://biztoc.com/cdn/23c1a12aa0e7abc5_s.webp
 ---
 
-### Souhrn
-Generální ředitel Nvidia Jensen Huang popisuje přijetí umělé inteligence jako postupný proces bez náhlých masivních propouštění, ale zdůrazňuje, že AI hluboce změní pracovní trh. Místo ztráty pracovních míst očekává vznik nových rolí, například šití oblečení pro humanoidní roboty. Tento názor vychází z aktuálního vývoje v robotice a AI hardware, kde Nvidia hraje klíčovou roli díky svým GPU pro trénink modelů.
+## Souhrn
+Generální ředitel Nvidia Jensen Huang v rozhovoru pro Fortune prohlásil, že adopce umělé inteligence (AI) v průmyslu proběhne postupně, bez dramatických vln propouštění. Přesto očekává zásadní změny na trhu práce, včetně vzniku nových rolí spojených s robotikou, jako je šití oblečení pro roboty. Zaměstnání odolná vůči AI budou ty, která vyžadují fyzickou interakci.
 
-### Klíčové body
-- Přijetí AI bude "creeping" – postupné a ne náhlé, bez velkých vln propouštění.
-- AI změní pracovní trh radikálně, ale vytvoří nové pozice, jako krejčí pro roboty.
-- Nejodolnější práce vůči AI jsou ty s fyzickou manipulací v reálném světě.
-- Nvidia jako leader v AI hardware (GPU pro trénink LLM a robotiku) ovlivňuje tuto predikci.
-- Článek pochází z Fortune z 6. prosince 2025.
+## Klíčové body
+- Adopce AI bude "creeping" – postupná a rozlehlá, ne náhlá.
+- Žádné masivní propouštění v blízké době, ale dlouhodobá transformace trhu práce.
+- Nové role: krejčí nebo technici pro humanoidní roboty, kteří potřebují speciální oděv.
+- Odolná zaměstnání: ta s vysokou mírou fyzické manipulace nebo kreativity.
+- Nvidia jako klíčový hráč dodává GPU pro trénink AI modelů.
 
-### Podrobnosti
-Jensen Huang, generální ředitel Nvidia, jedné z největších firem v oblasti grafických procesorů (GPU) nezbytných pro trénink velkých jazykových modelů (LLM) jako GPT nebo Llama, se vyjádřil k budoucnosti AI na pracovním trhu. Podle něj nebude adopce AI podobná explozi, jakou zažil internet v 90. letech, ale spíš pomalý "creeping effect" – postupné prosakování do všech sektorů. To znamená, že firmy nebudou hned propouštět miliony zaměstnanců, ale AI bude nahrazovat rutinní úkoly v kancelářích, výrobě a službách.
+## Podrobnosti
+Jensen Huang, generální ředitel Nvidia, společnosti dominantní v produkci grafických procesorů (GPU) nezbytných pro trénink velkých jazykových modelů (LLM) jako GPT nebo Llama, se vyjádřil k budoucnosti AI na konferenci nebo v rozhovoru publikovaném 6. prosince 2025 na Fortune. Podle něj nebude příchod AI podobný explozi, ale spíše pomalému prosakování do všech odvětví. Firmy jako Nvidia již teď vidí rostoucí poptávku po hardwaru pro AI, například v datových centrech, kde se GPU řadí do clusterů pro paralelní výpočty.
 
-Huang konkrétně zmínil, že v budoucnosti bychom mohli vidět nové profese, jako je šití speciálního oblečení pro roboty. Humanoidní roboti, jako Tesla Optimus nebo Figure 01, potřebují oděvy pro ochranu senzorů, flexibilitu pohybu a hygienu v továrnách. Tyto roboty využívají AI pro autonomní navigaci, manipulaci objektů a učení se z dat, kde Nvidia poskytuje hardware jako platformu Jetson pro edge computing v robotice. Například v textilním průmyslu, kde AI již optimalizuje řezání látek pomocí počítačového vidění, by roboti mohli převzít šití, ale lidé by se přeškolili na údržbu a customizaci jejich "oblečení".
+Huang zdůrazňuje, že krátkodobě nedojde k masivním propouštěním, protože firmy budou AI integrovat postupně – nejprve pro automatizaci rutinních úkolů, jako je analýza dat nebo generování kódu. Dlouhodobě však AI promění strukturu zaměstnanosti. Například v továrnách nahradí AI operátory strojů, ale zároveň vytvoří poptávku po specialistech na údržbu robotů. Konkrétně zmínil humanoidní roboty, jako ty vyvíjené firmami Figure AI nebo Tesla s modelem Optimus, které potřebují oděv chránící senzory a klouby před prachem a opotřebením. Tyto roboty slouží k autonomní manipulaci v továrnách, skladích nebo domácnostech, kde vykonávají úkoly vyžadující lidskou postavu.
 
-Nejvíce odolné vůči AI budou práce vyžadující fyzickou přítomnost a interakci s nepředvídatelným prostředím, jako je stavebnictví, údržba zařízení nebo péče o pacienty. Huangovo vyjádření reflektuje současný stav: přestože AI modely jako GPT-4o nebo Claude 3.5 zvládají složité úkoly, robotika zaostává kvůli hardwarovým limitům. Nvidia investuje do Omniverse platformy pro simulace robotů, což urychluje jejich vývoj. Tento pohled kontrastuje s pesimistickými predikcemi od expertů jako Geoffrey Hinton, kteří varují před masovou nezaměstnaností, ale Huang jako insider Nvidia zdůrazňuje příležitosti, protože jeho firma profituje z poptávky po AI infrastruktuře.
+Zaměstnání nejodolnější vůči AI budou podle Huanga ta, která zahrnují nepredikovatelnou fyzickou práci – instalace zařízení, opravy v terénu nebo kreativní řemesla. Naproti tomu kancelářské role, jako účetní nebo právníci, čelí riziku, protože AI nástroje jako Claude nebo Gemini již zvládají složité analýzy textu. Nvidia sama investuje do robotiky prostřednictvím platformy Isaac, která umožňuje simulace a trénink robotů v virtuálním prostředí, což urychluje vývoj autonomy. Tento vývojový nástroj slouží inženýrům k testování pohybu a rozhodování bez rizika poškození hardwaru.
 
-### Proč je to důležité
-Toto vyjádření od šéfa Nvidia, firmy s tržní kapitalizací přes 3 biliony dolarů a dominantního dodavatele GPU pro 80 % AI tréninku, nastavuje tón pro očekávání v průmyslu. V širším kontextu signalizuje, že AI nebude kataklyzmatické, ale transformující – firmy musí investovat do přeškolování, ne jen do AI nástrojů. Pro uživatele to znamená, že role v robotice a AI údržbě porostou, zatímco kancelářské práce jako datový vstup zaniknou. Kriticky: Huangova optimismus může být ovlivněn zájmy Nvidia, která závisí na kontinuálním růstu AI adopce. Pokud se robotika rozšíří (např. díky pokrokům v reinforcement learning), textilní a výrobní sektor čeká rekvalifikace, což ovlivní miliony pracovních míst globálně.
+## Proč je to důležité
+Prohlášení Huanga odráží realitu současného technologického ekosystému, kde Nvidia ovládá 80-90 % trhu s AI akcelerátory. Jeho pohled pomáhá temperovat přehnané obavy z okamžité automatizace, ale zároveň upozorňuje na nutnost rekvalifikace pracovní síly. V širším kontextu to znamená, že investice do vzdělávání v robotice a AI etice se stanou klíčové. Pro průmysl to otevírá dveře k hybridním systémům, kde lidé spolupracují s roboty – například technik šije obleky pro Optimus, zatímco AI řídí jeho pohyb. Kriticky lze dodat, že Huangova optimismus může být ovlivněn zájmy Nvidia na poptávce po GPU; skutečné propouštění v sektorech jako software development již probíhá, jak ukazují data z roku 2024-2025.
 
 ---
 

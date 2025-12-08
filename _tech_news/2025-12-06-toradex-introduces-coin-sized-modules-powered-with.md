@@ -1,14 +1,14 @@
 ---
 author: Marisa Aigen
-category: vestavěné systémy
+category: vložené systémy
 companies:
 - Toradex
 - NXP
 date: '2025-12-06 21:19:50'
-description: Toradex představil rodiny modulů OSM a Lino typu počítač na modulu s
-  procesory NXP i.MX 93 a i.MX 91. Tyto ultrakompaktní moduly jsou určeny pro průmyslovou
-  automatizaci ve velkém objemu a edge systémy, kde nabízejí odolné a cenově výhodné
-  řešení pro prostředí s omezeným místem.
+description: Toradex představil rodiny modulů OSM a Lino typu Computer on Module s
+  procesory NXP i.MX 93 a i.MX 91. Tyto ultrakompaktní moduly cílí na průmyslovou
+  automatizaci ve velkém měřítku a edge systémy a nabízejí odolné, cenově výhodné
+  řešení pro prostory s omezeným místem.
 importance: 3
 layout: tech_news_article
 original_title: Toradex Introduces Coin-Sized Modules Powered with NXP i.MX 93 and
@@ -25,27 +25,27 @@ urlToImage: https://linuxgizmos.com/files/OSM-Family_top-View.jpg
 urlToImageBackup: https://linuxgizmos.com/files/OSM-Family_top-View.jpg
 ---
 
-## Souhrn
-Toradex, švýcarský výrobce počítačů na modulu pro vestavěné systémy, představil nové rodiny OSM a Lino s procesory NXP i.MX 93 a i.MX 91. Tyto moduly velikosti mince cílí na aplikace v průmyslové automatizaci a edge výpočtech, kde je klíčová malá velikost, odolnost a nízká cena při vysokých objemech.
+### Souhrn
+Toradex, švýcarský výrobce modulů pro vložené systémy, uvedl na trh nové rodiny OSM a Lino Computer on Module s procesory NXP i.MX 93 a i.MX 91. Tyto moduly velikosti mince jsou navrženy pro aplikace v průmyslové automatizaci a edge computingu, kde je klíčová malá velikost a odolnost. Podporují edge AI díky integrované NPU s výkonem 0,5 TOPS.
 
-## Klíčové body
-- Moduly OSM iMX93, OSM iMX91, Lino iMX93 a Lino iMX91 s procesory NXP i.MX 93 (2x Cortex-A55 na 1,75 GHz + NPU 0,5 TOPS) a i.MX 91 (2x Cortex-A55 na 1,6 GHz).
-- Formáty OSM (standardizovaný pro malé moduly) a Lino (vlastní kompaktní řada Toradexu).
-- Podpora pro edge AI díky NPU v i.MX 93, vhodné pro strojové učení na okraji sítě.
-- Zaměřeno na vysoké objemy v průmyslu: odolnost vůči vibracím, teplotám a vlhkosti.
-- Kompatibilita s Linuxem a Yocto Projectem pro rychlý vývoj.
+### Klíčové body
+- Moduly OSM iMX93, OSM iMX91, Lino iMX93 a Lino iMX91 s procesory NXP i.MX 93 (vyšší třída s NPU) a i.MX 91 (základní třída).
+- Form-faktory OSM (standardizovaný Open Standard Module) a Lino (kompaktní vlastní řešení) pro vysoké objemy výroby.
+- Cílové aplikace: průmyslová automatizace, edge systémy s omezeným prostorem.
+- Edge AI podpora: NPU v i.MX 93 pro hardwarově akcelerované strojové učení s 0,5 TOPS.
+- Výhody: odolnost, nízké náklady, škálovatelnost pro různé úrovně složitosti.
 
-## Podrobnosti
-Toradex se specializuje na výrobu počítačů na modulu (Computer on Module, CoM), které slouží jako jádro vestavěných systémů. Nové moduly OSM a Lino rozšiřují portfolio o extrémně malé varianty, jejichž velikost odpovídá minci – přibližně 15 x 15 mm pro OSM Size-S. Rodina OSM dodržuje otevřený standard SGET (Standardization Group for Embedded Technologies), což zajišťuje snadnou vyměnitelnost a kompatibilitu s nosnými deskami od různých výrobců. Lino je naopak proprietární formát Toradexu optimalizovaný pro ještě menší rozměry a specifické aplikace.
+### Podrobnosti
+Toradex se specializuje na vývoj Computer on Module (CoM), což jsou kompaktní desky s procesorem, pamětí a perifériemi, které se připojují k nosné desce pro snadnou integraci do zařízení. Nové moduly OSM a Lino rozšiřují portfolio o varianty s procesory NXP z rodiny i.MX 90, které jsou optimalizovány pro nízký příkon a dlouhodobou dostupnost v průmyslovém segmentu.
 
-Procesor NXP i.MX 93 přináší duální jádra Arm Cortex-A55 taktovaná na 1,75 GHz, grafický jádro Vivante GC7000NanoULTRA pro 2D/3D rendering a integrovanou neurální zpracovatelnou jednotku (NPU) s výkonem 0,5 TOPS. Tato NPU umožňuje hardware akceleraci úloh strojového učení, jako je detekce objektů v kamerových datech nebo prediktivní údržba v průmyslových zařízeních, bez nutnosti externích čipů. Slabší varianta i.MX 91 má podobnou architekturu, ale nižší frekvenci 1,6 GHz a bez NPU, což ji činí vhodnou pro méně náročné úlohy, jako je řízení senzorů nebo jednoduché IoT brány.
+Procesor i.MX 93 je vrchní model s dvoujádrovým Arm Cortex-A55 jádrem na 1,7 GHz, grafickým jádrem Vivante GC7000Lite a především neuronovým procesorem (NPU) s výkonem 0,5 TOPS. Tento NPU umožňuje lokální zpracování strojového učení, například detekci objektů v kamerových datech nebo prediktivní údržbu v průmyslových strojích, bez nutnosti odesílání dat do cloudu. Nižší model i.MX 91 má jednojádrové Cortex-A55 jádro na 1,6 GHz bez NPU, což ho činí vhodným pro jednodušší úlohy jako řízení senzorů nebo IoT zařízení.
 
-Moduly podporují rozhraní jako Gigabit Ethernet, USB 2.0, I²C, SPI, UART a až 2 GB LPDDR4 RAM s 16 GB eMMC úložištěm. Pro vývoj slouží Yocto Project a Linux kernel, které umožňují přizpůsobení systému pro dlouhodobou podporu (až 15 let). Toradex zdůrazňuje odolnost: moduly vydrží teploty od -40 °C do +85 °C, vibrace podle IEC 60068-2-6 a vlhkost do 95 %. To je ideální pro zařízení v továrnách, jako jsou robotické ramena, senzory v chytrých továrnách nebo edge servery pro zpracování dat z kamer.
+Form-faktor OSM (Size-S nebo Size-M) dodržuje otevřený standard SGET, což usnadňuje kompatibilitu s nosnými deskami od různých výrobců a snižuje náklady na vývoj. Lino je menší proprietární form-faktor Toradexu, ideální pro extrémně omezené prostory. Oba typy modulů nabízejí rozhraní jako Ethernet, USB, I2C, SPI, UART a podporu pro Linux, což umožňuje rychlý vývoj aplikací pomocí Yocto Project nebo Toradex BSP (Board Support Package).
 
-V porovnání s předchozími moduly Toradexu, jako Colibri nebo Verdin, jsou tyto novinky o 50 % menší a levnější pro masovou produkci, což snižuje náklady na desku pod 20 USD v objemech nad 10 000 kusů.
+Tyto moduly jsou určeny pro masovou produkci v tisících kusů, kde je důležitá cena pod jedním dolarom za kus při velkém objemu. Navíc splňují průmyslové standardy odolnosti vůči teplotám od -40 °C do +85 °C a dlouhodobou podporu až 15 let, což je klíčové pro aplikace v továrnách nebo venkovních zařízeních.
 
-## Proč je to důležité
-V éře Industry 4.0 a edge AI roste poptávka po kompaktních procesorech schopných běžet lokálně bez cloudu, aby se minimalizovala latence a spotřeba dat. Tyto moduly umožňují integraci AI do stísněných prostorů, kde tradiční desky selhávají. Pro průmysl znamenají snížení nákladů na nasazení tisíců zařízení a delší životnost díky robustnosti. V širším kontextu posilují ekosystém NXP i.MX, které konkurují řešením od Qualcommu nebo Rockchipu, a podporují přechod k ARM-based edge systémům s AI akcelerací. Pro vývojáře je klíčová standardizace OSM, která zrychluje prototypování a snižuje rizika zastaralosti.
+### Proč je to důležité
+V oblasti vložených systémů roste poptávka po edge AI, kde lokální zpracování dat snižuje latenci a závislost na cloudu. I když 0,5 TOPS není srovnatelné s datacentrovými GPU, je to dostatečné pro lehké modely jako MobileNet nebo TinyML v průmyslu. Tyto moduly umožňují výrobcům automatizačních systémů integrovat AI do stávajících zařízení bez redesignu, což urychluje adopci technologií jako prediktivní údržba nebo vizuální inspekce. V širším kontextu posilují ekosystém NXP i.MX pro konkurenční prostředí proti Qualcomm RB nebo MediaTek Genio, kde standardizované form-faktory jako OSM snižují rizika zastaralosti. Pro developery to znamená snadnější prototypování a nižší TCO (total cost of ownership) v dlouhodobých projektech.
 
 ---
 

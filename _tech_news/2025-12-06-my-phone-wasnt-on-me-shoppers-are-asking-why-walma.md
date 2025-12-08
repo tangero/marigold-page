@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: ochrana soukromí
 date: '2025-12-06 18:00:00'
-description: Tvůrci na TikToku upozorňují na datové praktiky Walmartu poté, co zákazníci
-  obdrželi personalizované e-maily o položkách zakoupených v hotovosti, i když neměli
-  u sebe telefon ani elektroniku.
+description: TikTokeri upozorňují na datové praktiky Walmartu poté, co někteří zákazníci
+  dostali personalizované e-maily o položkách zakoupených v hotovosti, přestože neměli
+  s sebou telefon ani elektroniku.
 importance: 3
 layout: tech_news_article
 original_title: '“My phone wasn’t on me”: Shoppers are asking why Walmart knows when
@@ -15,34 +15,34 @@ source:
   emoji: 📰
   id: null
   name: The Daily Dot
-title: '„Telefon jsem neměl u sebe“: Zákazníci se ptájí, proč Walmart ví o jejich
-  hotovostních nákupech'
+title: '„Můj telefon jsem neměl u sebe“: Zákazníci se ptají, proč Walmart ví, co koupili
+  v hotovosti'
 url: https://www.dailydot.com/news/walmart-knows-when-pay-using-cash/
 urlToImage: https://uploads.dailydot.com/2025/12/walmart-face-recognition-.jpg?auto=compress&fm=pjpg&w=2000&h=1000
 urlToImageBackup: https://uploads.dailydot.com/2025/12/walmart-face-recognition-.jpg?auto=compress&fm=pjpg&w=2000&h=1000
 ---
 
 ### Souhrn
-Zákazníci Walmartu hlásí, že obdrželi personalizované e-maily odkazující na specifické produkty zakoupené v hotovosti, přestože neměli s sebou telefon ani žádnou elektroniku. Virální video na TikToku od tvůrce @attyjdgraham spustilo debatu o tom, jak retailer získává tyto údaje bez digitální stopy. Podezření směřuje k pokročilým systémům sledování, včetně kamer a rozpoznávání obličejů.
+Zákazníci Walmartu hlásí, že obdrželi personalizované e-maily odkazující na nákupy provedené v hotovosti, i když neměli u sebe telefon nebo jakékoli zařízení s digitální stopou. Virální video na TikToku od tvůrce @attyjdgraham spustilo debatu o tom, jak retailer získává tyto údaje. Podezření směřuje k pokročilým systémům sledování, včetně kamer s AI rozpoznáváním obličeje a propojení s loajalitními programy.
 
 ### Klíčové body
-- Zákazník Susan LaMarca sdílela zkušenost, že Walmart věděl o jejím nákupu bez jakéhokoli digitálního spojení.
-- Virální TikTok video tvůrce ukazuje e-mail s odkazem na hotovostní nákup bez telefonu.
-- Diskuse zahrnuje podezření na AI pro analýzu kamerových záběrů a loyalty programy.
-- Walmart používá technologie jako Wi-Fi sledování a platební koridory pro profilování zákazníků.
-- Tato praxe vyvolává obavy z invaze soukromí v retailu.
+- Zákazník Susan LaMarca tvrdí, že neměla telefon, ale Walmart jí poslal e-mail o konkrétním nákupu v hotovosti.
+- Virální TikTok video ukazuje, jak tvůrce opustil všechny elektronické zařízení, přesto dostal personalizovanou zprávu.
+- Walmart využívá kombinaci kamerového sledování, AI analýzy a dat z platebních karet nebo loajalitních karet.
+- Debata na sociálních sítích zpochybňuje soukromí v maloobchodě a možný přechod k AI predikci chování.
+- Žádné oficiální potvrzení od Walmartu, ale firma má dlouhodobě investice do datové analýzy.
 
 ### Podrobnosti
-Článek popisuje situaci, kde několik zákazníků Walmartu, včetně Susan LaMarca, obdrželo e-maily s personalizovanými doporučeními založenými na hotovostních nákupech. LaMarca explicitně uvedla: „Neměla jsem u sebe telefon ani žádnou elektroniku, jak mohou vědět, co jsem koupila?“ Tato zkušenost se rozšířila virálním videem na TikToku od uživatele @attyjdgraham, který tvrdí, že zanechal nulovou digitální stopu – žádný telefon, žádná platební karta, pouze hotovost – a přesto dostal e-mail odkazující na konkrétní položku.
+Článek popisuje situaci, kdy Susan LaMarca navštívila Walmart bez telefonu nebo elektroniky a zaplatila hotovostí. Přesto jí dorazil e-mail s odkazem na zakoupené zboží, což vyvolalo otázku: „Jak to vůbec vědí?“ Podobné zkušenosti sdíleli další uživatelé na TikToku, kde video od právníka @attyjdgraham získalo virální dosah. Tvůrce popsal, že záměrně nechal telefon doma, nepoužil kartu Walmart+ ani loajalitní program, ale stále obdržel personalizovanou post-nákupní zprávu.
 
-Walmart, jako největší americký retailer s přes 10 500 obchody, dlouhodobě investuje do datových technologií. Firma spolupracuje s dodavateli jako NielsenIQ a používá systémy jako Walmart Luminate pro analýzu prodejů. Možné mechanismy identifikace zahrnují kamerové sítě s rozpoznáváním obličejů (např. technologie od firmí jako Clearview AI nebo vlastní systémy), které propojují tvář se stávajícím profilem z loyalty programu Walmart+. Tento program, spuštěný v roce 2024, nabízí slevy a personalizovaná doporučení výměnou za data o nákupech, což umožňuje profilování i při opakovaných návštěvách.
+Walmart, jako jeden z největších amerických retailerů s ročním obratem přes 600 miliard dolarů, dlouhodobě staví na datové analýze pro personalizaci. Firma provozuje tisíce kamer v obchodech, které využívají AI pro rozpoznávání obličeje a sledování pohybu zákazníků. Systémy jako Walmartova platforma pro computer vision propojují videozáznamy s daty z pokladen, kde i cash platby mohou být spojeny s profilem zákazníka prostřednictvím vizuální identifikace. Pokud zákazník dříve použil loajalitní kartu nebo appku, AI dokáže profilovat budoucí chování na základě historických dat.
 
-Další vrstvy sledování zahrnují Wi-Fi sondy, které zachycují MAC adresy zařízení v dosahu, i když telefon není aktivní, a platební koridory u pokladen, kde senzory detekují pohyb. Pokud zákazník dříve použil kartu nebo appku, AI algoritmy (např. založené na machine learningu od Google Cloud nebo AWS, které Walmart využívá) spojí data z minulosti s aktuálním chováním. Článek naznačuje roli AI v predikci nákupů, což Walmart potvrzuje ve svých výročních zprávách – v roce 2023 investovali 16 miliard dolarů do technologií, včetně AI pro personalizaci.
+Další vrstvou je cross-referencing s externími daty: Walmart spolupracuje s firmami jako LiveRamp nebo Epsilon pro obohacení profilů o údaje z jiných zdrojů, včetně sociálních sítí nebo veřejných registrů. I bez telefonu může Wi-Fi signál z okolních zařízení nebo Bluetooth majáků v obchodě zachytit identifikátory. E-maily jsou generovány dynamicky pomocí AI modelů, jako jsou recommendation engines založené na machine learningu, které predikují zájmy. Například pokud kamera zachytí, že zákazník bere určitý produkt, systém ho okamžitě spojí s profilem a pošle relevantní nabídku. Tato technologie není nová – Walmart testoval AI sledování již v roce 2018 a rozšířil ji během pandemie pro bezkontaktní analýzu.
 
-TikTok komentáře ukazují na širší trend: podobné stížnosti přicházejí i z jiných řetězců jako Target nebo Kroger. Experti na soukromí, jako ti z Electronic Frontier Foundation, varují, že takové praktiky obcházejí GDPR-ekvivalentní zákony v USA (jako CCPA v Kalifornii), kde zákazníci musí aktivně opt-outovat.
+Kriticky lze říci, že i když Walmart tvrdí soulad s GDPR-ekvivalentem CCPA v USA, absence transparentnosti vede k obavám. Zákazníci nemají přehled, jak jsou data zpracovávána, a opt-out možnosti jsou složité. V Evropě by podobné praktiky narazily na přísnější pravidla, ale v USA je to běžné.
 
 ### Proč je to důležité
-Tato kauza odhaluje rostoucí roli AI v retailu pro hyper-personalizaci, což zvyšuje efektivitu prodeje, ale ohrožuje soukromí. Pro zákazníky znamená, že i anonymní hotovostní nákupy nejsou plně anonymní díky fúzi kamerových, behaviorálních a historických dat. V širším kontextu posiluje debatu o regulaci AI v USA, kde navrhované zákony jako American Data Privacy and Protection Act by mohly vyžadovat transparentnost. Pro průmysl to signalizuje eskalaci „surveillance capitalismu“, kde firmy jako Walmart budují profily bez souhlasu, což ovlivňuje i evropské trhy s přísnějšími pravidly.
+Tato kauza odhaluje rostoucí roli AI v maloobchodě, kde soukromí ustupuje personalizaci. Pro uživatele znamená riziko nechtěného profilování, což ovlivňuje ceny, nabídky i sledování chování mimo obchod. V širším kontextu posiluje debatu o regulaci dat v retailu, podobně jako u Amazonu s jeho Alexa trackingem. Pokud se AI stane standardem, spotřebitelé budou muset být opatrnější s loajalitními programy a volbou plateb. Walmartova strategie ukazuje trend k prediktivnímu commerce, kde nákupy nejsou anonymní, což může vést k novým legislativním opatřením v USA i EU.
 
 ---
 

@@ -2,11 +2,10 @@
 author: Marisa Aigen
 category: windows 11
 date: '2025-12-06 21:00:00'
-description: Aktualizace Windows 11 z 9. prosince 2025 přináší vylepšení uživatelského
-  rozhraní vyhledávání, nové možnosti sdílení s Copilotem v panelu úloh, možnost vypnout
-  Drag Tray a úpravy tmavého režimu v Průzkumníku souborů. Aplikace Nastavení získává
-  nové karty a redesign, virtuální pracovní prostory usnadňují správu virtualizace
-  a Widgets dostávají nový design nástěnky.
+description: Aktualizace zabezpečení Windows 11 z 9. prosince 2025 přináší řadu změn
+  v uživatelském rozhraní, včetně vylepšení vyhledávání, menu Start a Průzkumníku
+  souborů. Novinky zahrnují integraci mobilních zařízení do aplikace Nastavení, virtuální
+  pracovní prostory pro virtualizaci a redesign widgetů.
 importance: 3
 layout: tech_news_article
 original_title: Top 16 new features coming in Windows 11's December 2025 update —
@@ -17,32 +16,34 @@ source:
   emoji: 📰
   id: null
   name: Windows Central
-title: '16 nových funkcí v aktualizaci Windows 11 z prosince 2025: Průzkumník souborů,
-  menu Start, virtuální pracovní prostory a další'
+title: 16 nových funkcí v aktualizaci Windows 11 z prosince 2025 – Průzkumník souborů,
+  menu Start, virtuální pracovní prostory a další
 url: https://www.windowscentral.com/microsoft/windows-11/top-16-features-on-windows-11s-december-9-2025-update-file-explorer-start-menu-virtual-workspaces-and-more
 urlToImage: https://cdn.mos.cms.futurecdn.net/kykLxiFbmFqZunG4cdapcb-1194-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/kykLxiFbmFqZunG4cdapcb-1194-80.jpg
 ---
 
 ### Souhrn
-Microsoft zahájí 9. prosince 2025 vy rollout finální Patch Tuesday aktualizace pro Windows 11 verze 24H2 a 25H2, která zavádí řadu nových funkcí a vylepšení. Mezi klíčové změny patří sjednocení designu menu Start a vyhledávání, úpravy tmavého režimu v Průzkumníku souborů, nové prvky v aplikaci Nastavení a podpora virtuálních pracovních prostorů pro lepší správu virtualizace. Tyto změny se postupně rozjíždějí prostřednictvím technologie Controlled Feature Rollout.
+Microsoft zahájí 9. prosince 2025 distribuci finální aktualizace Patch Tuesday pro Windows 11 verze 24H2 a 25H2. Tato aktualizace řeší nesrovnalosti v designu mezi menu Start a vyhledáváním Windows, vylepšuje tmavý režim v Průzkumníku souborů a přidává nové karty v aplikaci Nastavení. Funkce se zavádějí postupně prostřednictvím technologie Controlled Feature Rollout (CFR), takže nemusí být okamžitě dostupné všem uživatelům.
 
 ### Klíčové body
-- Vylepšení vizuálu Windows Search a sjednocení s menu Start.
-- Nové funkce sdílení s Copilotem v panelu úloh a možnost deaktivace Drag Tray.
-- Úpravy tmavého režimu v Průzkumníku souborů a redesign aplikace Nastavení s kartou Device info.
-- Integrace možností Mobilních zařízení do Nastavení a nový design nástěnky Widgets.
-- Podpora virtuálních pracovních prostorů pro virtualizační funkce a rozšíření Xbox Full Screen Experience na handheld zařízení.
+- Vylepšení vizuálu vyhledávání Windows a sjednocení designu s menu Start.
+- Nové funkce Sdílet s Copilot v panelu úloh a možnost vypnout Drag Tray.
+- Redesign aplikace Nastavení s kartou Informace o zařízení a integrací možností pro mobilní zařízení.
+- Virtuální pracovní prostory pro lepší správu virtualizace a nový design widgetů.
+- AI funkce jako Windows Recall a Click to Do pouze pro Copilot+ PC s NPU o výkonu 40+ TOPS.
 
 ### Podrobnosti
-Tato aktualizace řeší dlouhodobé nesrovnalosti v designu mezi menu Start a Windows Search, kde dochází k vizuálním vylepšením domovské stránky vyhledávání. Například vyhledávací rozhraní nyní lépe ladí s estetikou menu Start, což zjednodušuje navigaci pro uživatele. V panelu úloh se objevuje funkce Share with Copilot, která umožňuje rychlé sdílení obsahu s asistentem Copilot pro generování shrnutí nebo úprav, a lze vypnout Drag Tray, což je panel pro přetahování souborů, který někteří uživatelé považovali za rušivý.
+Aktualizace přináší vizuální vylepšení vyhledávání Windows, které sjednocuje design s menu Start a odstraňuje dřívější nesrovnalosti v uživatelském rozhraní. Uživatelé uvidí aktualizovanou domovskou stránku vyhledávání s lepší integrací obsahu. V panelu úloh se objevuje funkce Sdílet s Copilot, která umožňuje rychlé sdílení obsahu přímo s AI asistentem Copilot pro analýzu nebo úpravy. Nově lze vypnout Drag Tray, což je funkce pro přetahování souborů do panelu úloh, což pomůže uživatelům, kteří tuto možnost nevyužívají.
 
-Průzkumník souborů prochází významnými změnami v tmavém režimu: Microsoft vylepšil kontrast a čitelnost, ale současně hlásí některé chyby, jako nesprávné zobrazení prvků v tmavém motivu. Aplikace Nastavení získává na domovské stránce kartu Device info, která shrnuje specifikace hardware, jako procesor, paměť a úložiště, což usnadňuje rychlou diagnostiku. Stránka O aplikaci prochází redesignem s lepší organizací informací o verzi systému a instalovaných aktualizacích. Možnosti Mobilních zařízení, dříve dostupné samostatně, jsou nyní integrovány přímo do Nastavení, což zjednodušuje správu propojení s Android telefony prostřednictvím Phone Link.
+Průzkumník souborů dostává vylepšení tmavého režimu, které zlepšuje kontrast a čitelnost, i když některé prvky mohou vykazovat chyby. Aplikace Nastavení získává na domovské stránce kartu Informace o zařízení, která shrnuje specifikace hardware a software. Stránka O zařízení prochází redesignem pro lepší přehlednost a možnosti mobilních zařízení, jako je správa Android telefonů, se přesouvají přímo do Nastavení z Ovládacích panelů. To zjednodušuje správu spojených zařízení bez nutnosti přepínání mezi aplikacemi.
 
-Virtuální pracovní prostory (Virtual Workspaces) slouží k lepší správě virtualizačních funkcí, jako Hyper-V nebo Windows Subsystem for Linux, umožňují rychlé přepínání mezi virtuálními stroji a sdílení zdrojů bez nutnosti restartu. Z Control Panelu se do Nastavení přesouvají další nastavení klávesnice a myši, včetně pokročilých možností pro herní periferie. Nástěnka Widgets dostává nový design s přepracovanými nastaveními, která umožňují lepší personalizaci obsahu z Microsoftu i třetích stran. Xbox Full Screen Experience se rozšiřuje na handheld zařízení, jako jsou herní konzole typu Steam Deck, pro plnohodnotný herní režim. AI funkce jako Windows Recall nebo Click to Do zůstávají exkluzivní pro Copilot+ PC s NPU o výkonu 40+ TOPS (např. Qualcomm Snapdragon X Elite, vybrané Intel a AMD procesory), vyžadují BitLocker a Windows Hello. Microsoft varuje, že funkce mohou být oddáleny nebo zrušeny.
+Virtuální pracovní prostory usnadňují správu virtualizačních funkcí, jako je Hyper-V, kde lze snadněji vytvářet a spravovat virtuální stroje pro testování softwaru nebo izolaci prostředí. Do Nastavení přicházejí další možnosti klávesnice a myši z Ovládacích panelů, včetně pokročilého mapování kláves. Widgety dostávají nový design nástěnky s vylepšeným nastavením pro personalizaci obsahu. Xbox Full Screen Experience se rozšiřuje na handheld zařízení, což zlepšuje herní zážitek na přenosných konzolích. AI funkce jako Windows Recall (prohledávání historie aktivity) a Click to Do (automatizace úkolů) jsou omezeny na Copilot+ PC s NPU od Qualcomm Snapdragon X Plus/Elite, Intel nebo AMD procesory s výkonem nad 40 TOPS. Vyžadují aktivaci BitLockeru a Windows Hello pro bezpečnost.
+
+Microsoft může funkce odložit nebo odstranit, protože byly objeveny v stabilním kanálu.
 
 ### Proč je to důležité
-Tyto změny zlepšují konzistenci uživatelského rozhraní Windows 11 a usnadňují každodenní práci, zejména pro uživatele závislé na virtualizaci nebo mobilním propojení. V širším kontextu posilují postavení Microsoftu v konkurenčním prostředí s macOS a Linuxem, kde designová sjednocení a integrace AI zvyšují produktivitu. Nicméně exkluzivita AI funkcí pro high-end hardware omezuje dostupnost a zdůrazňuje závislost na specifickém ekosystému Copilot+ PC, což může brzdit adopci u běžných uživatelů. Pro IT správce představují Virtual Workspaces praktický nástroj pro správu více prostředí, zatímco drobnější úpravy v Nastavení snižují potřebu Control Panelu.
+Tyto změny zlepšují konzistenci uživatelského rozhraní Windows 11 a integrují nástroje pro produktivitu, což pomůže profesionálním uživatelům i gamerm. Omezení AI na specifický hardware podtrhuje trend specializace Copilot+ PC, kde NPU umožňuje lokální zpracování AI bez cloudu, což zvyšuje soukromí a rychlost. V širším kontextu to posiluje pozici Microsoftu v ekosystému s Android zařízeními a virtualizací, ale neřeší hlubší problémy jako spotřebu energie nebo kompatibilitu staršího softwaru.
 
 ---
 
