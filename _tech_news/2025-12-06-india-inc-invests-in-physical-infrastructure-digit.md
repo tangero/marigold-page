@@ -2,10 +2,9 @@
 author: Marisa Aigen
 category: digitální přístupnos
 date: '2025-12-06 17:28:30'
-description: Indické společnosti zlepšují přístupnost pracovních prostředí, aby najímaly
-  a udržely více osob s postižením (PwD), když jejich podíl na zaměstnancích činí
-  méně než 1 %. Firmy jako SAP, Accenture nebo Amazon zavádějí hlasové výtahy, čtečky
-  obrazovek a další technologie.
+description: Indické společnosti zlepšují přístupnost pracovišť, aby najímaly a udržovaly
+  více osob s postižením (PwD), čímž řeší současnou podreprezentovanost. Mezi klíčové
+  investice patří hlasové výtahy, braillovské značení, čtečky obrazovek a další technologie.
 importance: 3
 layout: tech_news_article
 original_title: India Inc invests in physical infrastructure, digital accessibility
@@ -23,24 +22,27 @@ urlToImage: https://img.etimg.com/thumb/msid-125807998,width-1200,height-630,img
 urlToImageBackup: https://img.etimg.com/thumb/msid-125807998,width-1200,height-630,imgsize-136149,overlay-etcareers/articleshow.jpg
 ---
 
-### Souhrn
-Indické korporátní firmy aktivně investují do fyzické a digitální infrastruktury, aby zvýšily počet zaměstnaných osob s postižením (PwD), které tvoří méně než 1 % pracovní síly v podnicích. Podle zprávy poradenské firmy Marching Sheep z více než 850 organizací v 59 sektorech nemá 4 z 10 firem žádné trvale zaměstnané PwD. Společnosti jako SAP, Accenture, Godrej, Amazon, Tata Power a Flipkart zavádějí technologie jako screen readers nebo dictation software a úpravy pracovního prostředí.
+## Souhrn
+Indické korporátní firmy jako SAP, Accenture, Godrej, Amazon, Tata Power a Flipkart investují do fyzické a digitální infrastruktury pro lepší přístupnost pracovišť. Cílem je zvýšit podíl zaměstnanců s postižením, který nyní tvoří méně než 1 % ve firmách. Podle zprávy poradenské firmy Marching Sheep z více než 850 organizací nemá čtyři z deseti firem žádné trvale zaměstnané osoby s postižením.
 
-### Klíčové body
-- **Fyzická infrastruktura**: Hlasové výtahy (voice-enabled lifts), braillovské značení, přístupné parkoviště, výškově nastavitelné pracovní stoly a spolupráce s dopravci pro osoby s pohybovým postižením.
-- **Digitální přístupnost**: Screen readers pro čtení obsahu na obrazovce, dictation software pro diktování textu hlasem.
-- **Školení a podpora**: Kurzy znakové řeči, etikety při komunikaci s PwD, školení manažerů proti nevědomým předsudkům.
-- **Příklad Tata Power**: Zaměstnává přes 140 osob se sluchovým postižením v továrnách, podporovaných LCD psacími zařízeními, vibrujícími sirénami a bezpečnostními školeními v znakové řeči.
+## Klíčové body
+- Investice do hlasových výtahů, braillovského značení, čteček obrazovek a diktátorového softwaru pro digitální přístupnost.
+- Fyzické úpravy jako přístupné parkoviště, tlumočníci znakové řeči, spolupráce s dopravci pro osoby s poruchami pohyblivosti a nastavitelná pracovní stanice.
+- Školení manažerů o znakové řeči, etiketě při postižení, respektivní komunikaci a nevědomých předsudcích.
+- Tata Power zaměstnává přes 140 profesionálů se sluchovým postižením díky externím hodnocením a technologiím jako LCD psací zařízení nebo vibrační sirény.
+- Změna status quo v sektorech od IT po výrobu a energetiku.
 
-### Podrobnosti
-Indický korporátní sektor čelí výrazné podreprezentaci osob s postižením mezi zaměstnanci, což potvrzuje zpráva Marching Sheep založená na datech z více než 850 veřejně obchodovaných firem napříč 59 odvětvími. Méně než 1 % zaměstnanců jsou PwD a čtyři z deseti firem nemají žádné trvale zaměstnané osoby s postižením. Aby toto změnily, velké společnosti jako SAP (globální poskytovatel podnikového softwaru), Accenture (konzultační firma v IT a managementu), Godrej (indický konglomerát v spotřebním zboží a nemovitostech), Amazon (e-commerce gigant), Tata Power (energetická společnost) a Flipkart (indický e-commerce tržiště) investují do komplexních opatření.
+## Podrobnosti
+Indické firmy reagují na alarmující statistiky: podle zprávy Marching Sheep z 850 veřejně obchodovaných společností v 59 odvětvích je podíl zaměstnanců s postižením pod 1 %. Čtyři z deseti firem nemají žádné takové zaměstnance na trvalý úvazek. To vede k iniciativám, které kombinují fyzické úpravy a digitální nástroje. Například SAP a Accenture, globální lídři v softwaru a IT konzultacích, zavádějí čtečky obrazovek jako JAWS nebo NVDA, které převádějí text na řeč pro nevidomé uživatele, a diktátorový software jako Dragon NaturallySpeaking pro hlasové zadávání textu. Tyto nástroje umožňují práci s dokumenty, e-maily a daty bez vizuálního kontaktu.
 
-Fyzická úprava prostor zahrnuje hlasové ovládání výtahů, které umožňují hlasové zadávání pater bez dotyku, braillovské značky na dveřích a chodbách pro slabozraké, speciální parkovací místa blízko vstupů a výškově nastavitelné stoly pro pohodlné sezení. Pro osoby s pohybovým postižením firmy uzavírají partnerství s dopravními společnostmi. V digitální oblasti se zavádějí screen readers, jako NVDA nebo JAWS, které převádějí text na obrazovce na řeč pro nevidiace uživatele, a dictation software typu Dragon NaturallySpeaking pro zadávání textu hlasem, což usnadňuje práci s dokumenty a e-maily.
+Fyzická infrastruktura zahrnuje hlasové výtahy, které oznamují patra řečí, braillovské značky na dveřích a schodištích pro nevidomé a nízké pracovní stoly s nastavitelnou výškou pro osoby v invalidních vozících. Amazon a Flipkart, giganti e-commerce, přidávají přístupné parkoviště blízko vchodů a spolupracují s dopravními firmami pro osoby s poruchami pohyblivosti. Godrej, diverzifikovaná skupina zabývající se výrobou a nemovitostmi, integruje tlumočníky znakové řeči do schůzí.
 
-Další vrstvou je školení: manažeři absolvují kurzy znakové řeči (např. indická varianta ISL), etikety při interakci s PwD a boje proti nevědomým předsudkům. Tata Power jde ještě dál – před nástupem PwD angažuje externího partnera, který posoudí typ postižení a doporučí vhodné pozice a lokace. V továrnách v Bengaluru a Tirunelveli tak pracuje přes 140 osob se sluchovým postižením, podporovaných LCD psacími tabulemi pro komunikaci, bezpečnostními školeními v znakové řeči, vibrujícími buzzery SEWA pro výstrahy a světelnými sirénami pro nouzové situace. Tyto technologie zajišťují bezpečnost a produktivitu bez ohledu na postižení.
+Tata Power, energetická společnost, používá externí partnery k hodnocení postižení kandidátů a doporučení rolí. V továrnách v Bengaluru a Tirunelveli tak pracuje přes 140 lidí se sluchovým nebo řečovým postižením. Podpora zahrnuje LCD psací zařízení pro komunikaci, bezpečnostní školení v znakové řeči, vibrační buzzery SEWA a světelné sirény pro nouzové situace, které nahrazují zvukové signály.
 
-### Proč je to důležité
-Tato iniciativa posiluje inkluzi v tech sektoru, kde digitální přístupnost přímo ovlivňuje efektivitu práce. Screen readers a dictation software nejen pomáhají PwD, ale zlepšují celkovou uživatelskou zkušenost pro všechny zaměstnance, v souladu s globálními standardy jako WCAG (Web Content Accessibility Guidelines). V Indii, kde je pracovní síla obrovská, může zvýšení zaměstnanosti PwD o řád velmi snížit nezaměstnanost v této skupině a přinést diverzitu nápadů do firem. Pro IT průmysl to znamená lepší přípravu na budoucnost, kde AI a automatizace (např. hlasové asistenty) budou integrovat přístupnost od základu, což snižuje rizika diskriminace a zvyšuje reputaci firem na globálním trhu.
+Školení pro manažery pokrývá základy znakové řeči pro běžnou komunikaci, etiketu při interakci s postiženými, respektivní oslovení a eliminaci nevědomých předsudků, což zlepšuje retenci zaměstnanců. Tyto kroky nejen splňují zákony o inkluzi, ale i zvyšují diverzitu týmů, což vede k inovacím v IT a výrobě.
+
+## Proč je to důležité
+Tyto investice mění korporátní kulturu v Indii, kde je pracovní síla s postižením podreprezentována, a nastavují standardy pro globální firmy. Digitální přístupnost, jako screen readers, ovlivňuje vývoj softwaru – aplikace musí být kompatibilní se standardy WCAG pro webovou přístupnost, což prospívá všem uživatelům, včetně těch se zhoršeným zrakem. V širším IT ekosystému podporuje to inkluzivní design, kde technologie slouží širší populaci. Pro průmysl znamená lepší talent pool a snížení rizik diskriminace, zatímco pro zaměstnance s postižením otevírá dveře k stabilní zaměstnanosti v high-tech odvětvích. Celkově posiluje udržitelnost pracovní síly v rychle rostoucí indické ekonomice.
 
 ---
 

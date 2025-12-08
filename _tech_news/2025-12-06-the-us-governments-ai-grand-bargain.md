@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 date: '2025-12-06 16:40:12'
-description: Bílý dům vykresluje závod v adopci umělé inteligence jako existenční
-  krizi podobnou Manhattan Projectu, vyžadující masivní energetickou infrastrukturu
-  a datová centra. V podcaste Angry Planet Ben Buchanan, bývalý poradce Bidenovy administrativy,
-  analyzuje soukromě-veřejné partnerství, roli vlády v infrastruktuře a rizika jako
-  autonomní zbraně.
+description: Bílý dům prezentuje závod v adopci AI jako existenční krizi srovnatelnou
+  s Manhattan Projectem, který vyžaduje masivní rozšíření energetické infrastruktury
+  a datových center. Diskuse v podcaсту Angry Planet s Bena Buchananem, bývalým poradcem
+  Bidenovy administrativy, se zaměřuje na roli vlády v partnerstvích s AI firmami
+  a související rizika.
 importance: 4
 layout: tech_news_article
 original_title: The US Government’s AI Grand Bargain
@@ -16,31 +16,31 @@ source:
   emoji: 📰
   id: null
   name: Acast.com
-title: Velká dohoda americké vlády ohledně umělé inteligence
+title: Velká dohoda americké vlády v oblasti AI
 url: https://shows.acast.com/warcollege/episodes/the-us-governments-ai-grand-bargain
 urlToImage: https://open-images.acast.com/shows/61435638f581aa08d9520e67/show-cover.png?height=315
 urlToImageBackup: https://open-images.acast.com/shows/61435638f581aa08d9520e67/show-cover.png?height=315
 ---
 
-### Souhrn
-Epizoda podkastu Angry Planet z 6. prosince 2025 se zaměřuje na roli americké vlády v rozvoji umělé inteligence, kterou Bílý dům přirovnává k Manhattan Projectu. Na rozdíl od jaderného programu však AI vede soukromý sektor. Ben Buchanan, který pomáhal formulovat politiku pro partnerství mezi vládou a AI firmami během Bidenovy éry a nyní působí jako profesor na Johns Hopkins University, diskutuje obavy z datových center na veřejných pozemcích, zbrojního závodu s Čínou a autonomních zbraní.
+## Souhrn
+Americká vláda podporuje rychlý rozvoj AI prostřednictvím veřejně-soukromých partnerství, která Buchanan pomohl formulovat během Bidenovy éry. Tato 'velká dohoda' zahrnuje přístup k federálním pozemkům pro datová centra a energetickou infrastrukturu, přičemž ignoruje rizika jako nekvalitní AI obsah, autonomní zbraně či environmentální dopady. Buchanan, nyní profesor na Johns Hopkins University, upozorňuje na nevyváženost mezi ambicemi a bezpečnostními otázkami.
 
-### Klíčové body
-- AI jako zbrojní závod: Výkonnější systémy umožní pokročilé kyberoperace proti Číně.
-- Vládní podpora infrastruktury: Otevírání federálních pozemků pro datová centra a energetické stavby.
-- Rizika: Nekvalitní AI obsah (slop), dlouhodobá závislost na stavbě center a autonomní zbraně.
-- Buchananova politika: Umožnila soukromě-veřejné partnerství, ale vyvolává otázky o veřejném zájmu.
-- Související témata: Plány Anthropic proti AI stavějící jaderné zbraně a směrnice ministerstva obrany pro autonomii v zbrojních systémech.
+## Klíčové body
+- Bílý dům přirovnává AI k Manhattan Projectu, ale na rozdíl od jaderného programu je AI řízeno korporacemi.
+- Vláda plánuje odevzdat federální pozemky pro stavbu datových center kvůli energetickým nárokům AI.
+- Soutěž USA s Čínou v AI zvyšuje rizika kybernetických operací a autonomních zbraní.
+- Buchanan varuje před 'slopem' (nekvalitním AI obsahem) a dlouhodobou závislostí na stavbě infrastruktury.
+- Trumpova politika podle Buchanana brzdí pokrok v AI kvůli omezením v energetice.
 
-### Podrobnosti
-Ben Buchanan, specialista na AI bezpečnost, který radil Bílému domu během Bidenovy administrativy, popisuje současný vývoj umělé inteligence jako národní prioritu, kde vláda ustupuje soukromým firmám. Na rozdíl od Manhattan Projectu, který koordinovala vláda, je AI poháněno korporacemi jako OpenAI nebo Anthropic, jejichž motivací jsou především prodeje. Buchananova práce spočívala v psaní politik, které otevírají dveře partnerstvím mezi Washingtonem a těmito firmami – například sdílení federálních pozemků pro stavbu datových center, která spotřebovávají obrovské množství energie.
+## Podrobnosti
+Článek vychází z epizody podcastu Angry Planet z 6. prosince 2025, kde host Ben Buchanan, který sloužil jako AI poradce v Bidenově administrativě, analyzuje vládní zapojení do AI. Buchanan přispěl k politice, jež umožnila partnerství mezi Washingtonem a AI firmami jako Anthropic nebo OpenAI. Tyto dohody mají urychlit výstavbu datových center a energetické infrastruktury, protože trénink velkých jazykových modelů (LLM) jako GPT nebo Claude vyžaduje obrovské množství GPU a energie – odhady hovoří o potřebě nových elektráren.
 
-Diskuse se soustředí na zbrojní závod s Čínou: „Výkonnější AI systémy umožní pokročilejší kyberoperace,“ tvrdí Buchanan a označuje to za „nejtěžší věc, kterou lidstvo dělá“. USA stíhají energii po celé zemi, protože datová centra pro trénink modelů jako GPT nebo Claude vyžadují gigawatty elektřiny. Ministerstvo energetiky (DOE) navrhuje využít veřejné pozemky, což Buchanan kritizuje jako riziko pro životní prostředí a dlouhodobou udržitelnost – „Budeme stavět datová centra ještě velmi dlouho.“ Trumpova administrativa podle něj v této oblasti selhává, což oslabuje pozici USA.
+Klíčovým bodem je návrh ministerstva energie (DOE) na využití federálních pozemků pro datová centra, což by umožnilo rychlou expanzi bez místních regulací. Buchanan zdůrazňuje, že USA soutěží s Čínou v AI jako v závodě ve zbraních: pokročilejší AI systémy umožní sofistikovanější kybernetické útoky, kde 'silnější AI znamená silnější kyberoperace'. Rizika zahrnují autonomní zbraně podle směrnice DoD 3000.09, která reguluje autonomii v zbrojních systémech, a potenciál AI k vývoji jaderných zbraní – Anthropic navrhuje bezpečnostní protokoly proti tomu.
 
-Buchanan sám AI používá pro analýzu, ale upozorňuje na dlouhý seznam obav: od nekvalitního obsahu generovaného modely (tzv. slop) přes nehody v autonomních systémech až po autonomní zbraně. Zmíněna je směrnice DoD 3000.09, která reguluje autonomii v zbrojních systémech, a plán Anthropic – firmy specializující se na bezpečnou AI – jak zabránit modelům v konstrukci jaderných zbraní. Tyto systémy by teoreticky mohly navrhnout zbraň na základě veřejných dat, což zvyšuje nutnost vládního dohledu. Buchanan zůstává zastáncem AI, ale varuje před neřízeným růstem infrastruktury na úkor veřejného zájmu.
+Buchanan kritizuje současný stav: firmy honí výkon za každou cenu, což vede k produkci 'slopu' – nekvalitního obsahu generovaného AI. Trumpova administrativa podle něj sabotuje pokrok odmítáním rozšíření energetiky. Osobně Buchanan používá AI pro analýzu nehodových zpráv, ale uznává dlouhý seznam obav, včetně dlouhodobé stavby infrastruktury trvající desetiletí. Podcast se dotýká i širšího kontextu, jako je levnější výroba jaderných zbraní oproti AI, což podtrhuje paradoxální prioritu.
 
-### Proč je to důležité
-Tato „velká dohoda“ mezi vládou a AI firmami urychluje rozvoj technologie, která ovlivní kyberbezpečnost, energetiku a vojenství, ale přenáší náklady na daňové poplatníky prostřednictvím veřejných zdrojů. Pro průmysl znamená snadnější přístup k infrastruktuře, což posílí USA v soutěži s Čínou, kde AI modely slouží k simulacím útoků nebo obrany. Kriticky lze namítnout, že soukromý sektor priorizuje rychlost před bezpečností – například autonomní zbraně podle DoD směrnice umožňují rozhodování bez lidského zásahu v omezených scénářích, což zvyšuje riziko eskalace. Pro uživatele a evropský trh to implikuje globální standardy: USA diktují tempo, ale jejich model partnerství může vést k závislosti na amerických datech a energiích, což ovlivní ceny cloud služeb a dostupnost AI nástrojů jako Claude pro podniky.
+## Proč je to důležité
+Tato 'velká dohoda' ovlivní globální AI ekosystém tím, že urychlí americkou dominanci, ale zároveň zesílí rizika. Pro průmysl znamená snadnější přístup k energii a pozemkům, což umožní škálování modelů jako Llama nebo Gemini, ale pro uživatele přináší obavy z dohledu, kybernetických hrozeb a etických dilemat autonomních systémů. V širším kontextu posiluje závod s Čínou, kde prohra by znamenala ztrátu vlivu v klíčových technologiích, zatímco nekontrolovaný růst datových center zatíží životní prostředí a veřejné zdroje. Jako expert na AI vidím zde nevyváženost: vláda dotuje korporace bez dostatečných bezpečnostních záruk, což může vést k nechtěným eskalacím v zbrojení.
 
 ---
 

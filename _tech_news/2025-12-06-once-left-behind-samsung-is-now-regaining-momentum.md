@@ -5,10 +5,10 @@ companies:
 - Samsung
 - NVIDIA
 date: '2025-12-06 17:37:44'
-description: Samsungův byznys s vysokopásmovou pamětí HBM očekává obrat příští rok,
-  protože společnost je na cestě k získání kvalifikace HBM4 v podobném tempu jako
-  konkurenti. HBM4 od Samsungu slibuje vyšší rychlosti pinů a konkurenceschopné ceny,
-  což by mohlo posílit jeho pozici na trhu s AI paměťmi.
+description: Byznys Samsungu s HBM se očekává obrátit příští rok, korejský gigant
+  je na cestě k získání kvalifikace HBM4 v podobném časovém rámci jako konkurenti.
+  Řešení HBM4 od Samsungu by mělo být vedoucí díky vyšším rychlostem pinů a konkurenceschopným
+  cenám.
 importance: 4
 layout: tech_news_article
 original_title: Once Left Behind, Samsung Is Now Regaining Momentum in Its HBM Business
@@ -19,7 +19,7 @@ source:
   emoji: 📰
   id: null
   name: Wccftech
-title: Samsung, kdysi pozadu, nyní nabírá sílu v byznysu s HBM a míří na schválení
+title: Samsung, kdysi pozadu, nyní získává impuls v oblasti HBM a míří na schválení
   HBM4 od NVIDIA ještě tento měsíc
 url: https://wccftech.com/once-left-behind-samsung-is-now-regaining-momentum-in-its-hbm-business/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2025/10/image-34.png
@@ -27,24 +27,24 @@ urlToImageBackup: https://cdn.wccftech.com/wp-content/uploads/2025/10/image-34.p
 ---
 
 ### Souhrn
-Samsung, který v oblasti vysokopásmové paměti HBM (High Bandwidth Memory) dlouho zaostával za konkurenty jako SK Hynix a Micron, nyní vykazuje známky oživení. Společnost dokončila interní přípravu na hromadnou výrobu HBM4 a dodává vzorky klíčovým zákazníkům, včetně NVIDIA, s očekávaným schválením ještě tento měsíc. Tento průlom by měl vést k obratu v prodejích příští rok.
+Samsung dokončil interní přípravu na hromadnou výrobu svých čipů HBM4 a dodává vzorky hlavním zákazníkům, včetně NVIDIA. Očekává se, že kvalifikace od NVIDIA přijde ještě tento měsíc, což by znamenalo obrat v byznysu s vysokopásmovou pamětí (HBM) po dřívějších problémech s výnosy a tepelnými limity. Tento pokrok staví Samsungu na stejnou úroveň jako SK Hynix a Micron.
 
 ### Klíčové body
-- Samsung dokončil production readiness approval pro HBM4, poslední interní krok před hromadnou výrobou.
-- Dodává vzorky HBM4 hlavním zákazníkům pro testování kvality, s možným finálním ověřením do konce měsíce.
-- Používá vylepšenou 1c DRAM technologii na 4nm základním čipu, což zajišťuje vysokou výtěžnost při výrobě.
-- HBM4 dosahuje rychlostí pinů až 11 Gbps, což je nejrychlejší na trhu.
-- NVIDIA již projeвила důvěru v Samsungovo řešení, což signalizuje blízké partnerství.
+- Dokončení production readiness approval pro HBM4 čipy, poslední interní krok před masovou výrobou.
+- Dodávky vzorků pro testování kvality hlavním zákazníkům, včetně NVIDIA.
+- Očekávané schválení NVIDIA do konce roku díky technologii 1c DRAM na 4nm základním die.
+- Vyšší rychlosti pinů (až 11 Gbps) a konkurenceschopné ceny jako konkurenční výhody.
+- Překonání dřívějších problémů s HBM3, kde Samsung selhal v kvalifikaci kvůli DRAM a termálním vadám.
 
 ### Podrobnosti
-Vysokopásmová paměť HBM je specializovaný typ dynamické paměti RAM (DRAM), navržený pro extrémně vysokou propustnost dat, což je nezbytné pro akcelerátory umělé inteligence jako GPU od NVIDIA (například řady Hopper nebo Blackwell). HBM se skládá z více vrstev DRAM čipů propojených vertikálně pomocí through-silicon vias (TSV), což umožňuje rychlejší přenos dat než u běžné GDDR paměti. Samsung se v minulosti potýkal s problémy u HBM3 a HBM3E, zejména s nízkou výtěžností výroby a tepelnými limity, což mu bránilo získat kvalifikaci od NVIDIA a dalších dodavatelů pro AI servery.
+Samsung, jeden z největších výrobců polovodičů, dlouho zaostával v segmentu HBM, který je klíčový pro vysokovýkonné GPU v AI tréninku a inferenci. HBM (High Bandwidth Memory) slouží k rychlému přenosu dat mezi pamětí a procesorem, což umožňuje zpracování obrovských datových sad v modelech jako GPT nebo Llama. V předchozích generacích, zejména HBM3, Samsung narážel na problémy s výnosností výroby a přehříváním čipů, což vedlo k tomu, že NVIDIA a další partneři upřednostnili SK Hynix. Ten nyní dominuje s podílem přes 50 % na trhu HBM3E.
 
-Teď Samsung představuje HBM4 založené na kompletně přepracované 1c DRAM technologii, která řeší předchozí nedostatky. Tato generace dosahuje pinových rychlostí 11 Gbps, což překonává současné standardy a umožňuje vyšší výkon v tréninku velkých jazykových modelů (LLM) nebo inferenci AI. Základní čip (base die) na 12nm nebo 4nm procesu zajišťuje lepší škálovatelnost a nižší spotřebu. Podle zpráv z Korea Herald a průmyslových zdrojů společnost dodává vzorky NVIDIA a dalším, které testují kompatibilitu s budoucími GPU jako B200 nebo GB200.
+Teď Samsung představuje přepracovanou technologii 1c DRAM, která kombinuje pokročilou 1c architekturu s 4nm základním die. Tato změna zlepšila výnosy a termální vlastnosti, což potvrdil nedávný production readiness approval. Firma již několik týdnů zpět oznámila, že získala důvěru NVIDIA pro HBM4, ale klíčové je dosažení stabilních výnosů při skalování výroby. Podle zpráv z Korea Herald dodává Samsung vzorky HBM4 modulů, které dosahují pinových rychlostí až 11 Gbps – nejrychlejší v oboru. To znamená vyšší propustnost dat oproti HBM3E (9,6 Gbps), což je zásadní pro next-gen GPU jako Blackwell od NVIDIA.
 
-Samsung oficiálně oznámil zisk důvěry NVIDIA před několika týdny, ale klíčové je dosažení vysoké výtěžnosti při přechodu na hromadnou výrobu. Pokud se výtěžnost udrží na očekávané úrovni, Samsung by mohl konkurovat lídrům trhu – SK Hynix dodává většinu HBM pro současné H100 GPU a Micron roste v HBM3E. Tento posun je podpořen i dohodou o dodávkách HBM4 pro next-gen AI paměti, která validuje Samsungův proces jako nejrychlejší v oboru.
+Samsung plánuje zahájit masovou výrobu v příštím roce, což by mělo přinést obrat v byznysu. Dříve ztrácel zakázky kvůli nižší spolehlivosti, ale nové řešení s nižšími cenami by mohlo oslabit monopol SK Hynix. Analytikové očekávají, že HBM4 od Samsungu bude integrováno do AI serverů od velkých hyperscalerů jako Google nebo Microsoft, kde NVIDIA GPU tvoří jádro výpočetního výkonu.
 
 ### Proč je to důležité
-Tento vývoj posiluje konkurenci na trhu HBM, kde poptávka roste kvůli explozivnímu růstu AI datových center. NVIDIA závisí na HBM pro své GPU, které pohánějí 80 % tréninku LLM jako GPT nebo Llama. Pokud Samsung získá plnou kvalifikaci HBM4, sníží se závislost na SK Hynix, což by mohlo stabilizovat dodávky a ceny pamětí – aktuálně HBM3E stojí desítky tisíc dolarů za modul. Pro průmysl to znamená rychlejší nasazení HBM4 v roce 2026, s vyšší hustotou (až 16 vrstev) a propustností přes 2 TB/s na stack, což urychlí vývoj pokročilejších AI modelů. Samsung jako druhý největší výrobce DRAM (po SK Hynix) tak získává podíl na trhu AI hardware v hodnotě stovek miliard dolarů, což ovlivní celý dodavatelský řetězec od TSMC po hyperscalery jako Microsoft nebo Google.
+Tento vývoj posiluje konkurenci na trhu HBM, který roste rychlostí přes 50 % ročně díky poptávce po AI. NVIDIA, dominantní dodavatel GPU pro AI, závisí na více dodavatelích pamětí, aby snížila rizika v dodavatelském řetězci a ceny. Pokud Samsung uspěje, může to vést k poklesu cen HBM o 10–20 %, což zlevní AI trénink pro firmy i výzkumníky. V širším kontextu to urychlí vývoj pokročilých LLM a AGI systémů, protože levnější hardware umožní škálování modelů na biliony parametrů. Na druhou stranu, pokud výnosy selžou i u HBM4, posílí to pozici SK Hynix a Micron, což by mohlo způsobit nedostatek pamětí pro nadcházející GPU generace. Pro průmysl to znamená větší diverzifikaci, pro uživatele nepřímo rychlejší a dostupnější AI služby.
 
 ---
 

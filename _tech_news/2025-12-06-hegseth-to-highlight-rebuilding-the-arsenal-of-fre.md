@@ -1,11 +1,10 @@
 ---
 author: Marisa Aigen
-category: národní obrana
+category: vojenský průmysl
 date: '2025-12-06 18:46:22'
-description: Tajemník války Pete Hegseth bude v nadcházejícím keynote projevu na Reagan
-  National Defense Forum hovořit o obnově 'Arsenálu svobody'. Před proslovem zveřejnil
-  video, ve kterém slibuje posílení obranných kapacit prostřednictvím soutěže, otevřené
-  architektury a inovací.
+description: Tajemník války Pete Hegseth přednese hlavní projev na Reagan National
+  Defense Forum, kde bude hovořit o obnově 'Arsenalu svobody'. V předem zveřejněném
+  videu oznámil změny v armádním průmyslu směrem k otevřeným architekturám a inovacím.
 importance: 3
 layout: tech_news_article
 original_title: Hegseth to highlight rebuilding the 'Arsenal of Freedom' in speech
@@ -16,32 +15,30 @@ source:
   emoji: 📰
   id: fox-news
   name: Fox News
-title: Hegseth zdůrazní obnovu 'Arsenálu svobody' v projevu na Reaganově fóru národní
-  obrany
+title: Hegseth zdůrazní obnovu 'Arsenalu svobody' v projevu na Reagan National Defense
+  Forum
 url: https://www.foxnews.com/politics/hegseth-highlight-rebuilding-arsenal-freedom-speech-reagan-national-defense-forum
 urlToImage: https://static.foxnews.com/foxnews.com/content/uploads/2025/12/secretary-of-war-pete-hegseth.jpg
 urlToImageBackup: https://static.foxnews.com/foxnews.com/content/uploads/2025/12/secretary-of-war-pete-hegseth.jpg
 ---
 
-### Souhrn
-Tajemník války Pete Hegseth přednese v Simi Valley v Kalifornii projev na Reagan National Defense Forum, kde se zaměří na obnovu 'Arsenálu svobody'. V předem zveřejněném videu na platformě X prohlásil konec éry uzavřených kontraktů s hlavními dodavateli a zdůraznil potřebu rychlosti, otevřené architektury a inovací v AI, hyperzvukových technologiích a směrované energii. Tato strategie má podpořit americké ozbrojené síly v náročných podmínkách.
+## Souhrn
+Tajemník války Pete Hegseth se 6. prosince 2025 zúčastní Reagan National Defense Forum v Simi Valley v Kalifornii, kde v hlavním projevu zdůrazní obnovu 'Arsenalu svobody' – historického označení pro americkou vojenskou výrobní kapacitu. V předem natočeném videu na platformě X prohlásil konec uzavřených systémů dominovaných hlavními dodavateli a nákladovými kontrakty typu cost-plus. Místo toho slibuje soutěž, rychlost vývoje, otevřené architektury, inovace a výrobu za cenu nákladů.
 
-### Klíčové body
-- Konec modelu 'vendor-locked, prime-dominated, closed architecture, cost plus' – nahrazení soutěží, rychlostí a otevřenou architekturou.
-- Zaměření na AI, hyperzvukové zbraně (hypersonics) a směrovanou energii (directed energy).
-- Zapojení všech zaměstnanců, včetně civilistů, do podpory bojovníků.
-- Projev naplánován na 6. prosince 2025 v Simi Valley, Kalifornie.
-- Video natočeno při prohlídce kalifornských zařízení.
+## Klíčové body
+- Konec éry 'vendor-locked, prime-dominated, closed architecture, cost-plus' kontraktů, které brzdily inovace.
+- Přechod k otevřeným architekturám umožňujícím modulární integraci od různých dodavatelů.
+- Zaměření na rychlost, škálování a inovace v klíčových oblastech jako AI, hypersonické technologie a směrovaná energie.
+- Podpora všech zaměstnanců v armádním průmyslu jako součásti 'Arsenalu svobody'.
+- Strategická přehodnocení departementu s důrazem na schopnosti pro bojovníky v extrémních podmínkách.
 
-### Podrobnosti
-Pete Hegseth, nově jmenovaný tajemník války, v krátkém videu natočeném v kalifornských výrobních zařízeních oznámil zásadní změnu v přístupu Ministerstva války k rozvoji obranných technologií. Tradiční model kontraktů, kde dominantní dodavatelé jako Lockheed Martin nebo Raytheon kontrolují celé řetězce dodávek s fixními náklady navíc (cost-plus), končí. Hegseth slibuje přechod k otevřené architektuře, kde jednotlivé komponenty systémů – například senzory, procesory nebo software – budou kompatibilní napříč dodavateli. To umožní rychlejší integraci nových technologií, jako jsou AI algoritmy pro autonomní rozhodování v boji, hyperzvukové střely létájící rychlostí přes pět Machů, které obcházejí tradiční protiraketovou obranu, nebo směrovanou energii v podobě laserových zbraní schopných přesně ničit cíle na velké vzdálenosti.
+## Podrobnosti
+Pete Hegseth, nově jmenovaný tajemník války v administrativě Donalda Trumpa, v krátkém videu natočeném při prohlídce kalifornských zařízení armádního průmyslu vysvětlil svůj plán. 'Era vendor-locked, prime-dominated, closed architecture, cost-plus je u konce. Budeme soutěžit, pohybovat se rychle, zavádět open architecture, inovovat, škálovat a vyrábět za cenu nákladů,' řekl. Tento přístup znamená odklon od tradičních modelů, kde velcí dodavatelé jako Lockheed Martin nebo Boeing kontrolují celé projekty prostřednictvím uzavřených systémů. Tyto systémy omezují konkurenci malých firem a vede k předražení – cost-plus kontrakty hradí všechny náklady plus fixní marži, což motivuje k prodlužování projektů.
 
-Tato refokusal strategie přichází v době, kdy USA čelí výzvám od Číny a Ruska, které investují do podobných technologií. Například čínské hyperzvukové systémy DF-17 už prokázaly schopnost manévrovat v atmosféře, což ztěžuje jejich interceptaci. Hegseth zdůraznil roli civilních zaměstnanců: "Ať jste veterán nebo ne, všichni sloužíte Ministerstvu války, americkému lidu a arsenálu svobody." Bez těchto kapacit, tvrdí, nemohou vojáci v "vzdálených místech, v nebezpečných momentech, uprostřed noci" úspěšně plnit úkoly. Video ukazuje prohlídku zařízení, kde se vyrábějí komponenty pro letadla, drony a munice, a Hegseth volá po škálování výroby za reálné náklady (at cost).
+Open architecture v obranných technologiích umožňuje standardizované rozhraní, kde jednotlivé komponenty (např. senzory, procesory nebo software) lze snadno vyměnit nebo upgradovat od různých výrobců. To je klíčové pro rychlé nasazení AI systémů, které slouží k autonomnímu rozhodování v droních, analýze dat ze satelitů nebo predikci hrozeb. Departement se současně refokusuje na hypersonické technologie – rakety letící rychleji než Mach 5, které obcházejí tradiční protiraketovou obranu – a směrovanou energii, tedy lasery nebo mikrovlnné zbraně pro přesné ničení cílů bez munice. Hegseth zdůraznil roli civilních zaměstnanců: 'Arsenal svobody se staví nejen vojáky v maskovacím oděvu, ale i lidmi v civilu.' Oslovil veterány i nové pracovníky s poselstvím, že jejich práce zajišťuje úspěch bojovníků v 'vzdálených místech, nebezpečných momentech a v hluboké noci'. Tento plán navazuje na nedávné strategické přehodnocení departementu, které priorizuje tyto technologie kvůli konkurenci s Čínou a Ruskem, kde hypersonické zbraně již testují praktické systémy jako DF-17.
 
-V širším kontextu jde o snahu zefektivnit výdaje – rozpočet na obranu přesahuje 800 miliard dolarů ročně – a integrovat civilní inovace z Silicon Valley. Otevřená architektura připomíná přístupy v komerčním softwaru, kde API umožňují propojení různých systémů, což by mohlo zrychlit nasazení AI modelů pro prediktivní údržbu nebo autonomní drony. Nicméně kritici varují před riziky kybernetické bezpečnosti v otevřených systémech a závislostí na soukromých firmách.
-
-### Proč je to důležité
-Tato strategie ovlivní technologický ekosystém obrany, kde AI hraje klíčovou roli v analýze dat z družic nebo řízení rojů dronů. Pro průmysl znamená příležitosti pro menší firmy zabývající se AI, jako Anduril nebo Palantir, které se specializují na softwarové platformy pro detekci a rozhodování. V civilním sektoru by mohly vytekat technologie, například pokročilé senzory pro autonomní vozidla. Nicméně zaměření na hyperzvuky a lasery zvyšuje globální závod v zbrojení, což může eskalovat napětí bez jasných bezpečnostních standardů pro AI ve zbraních. Pro uživatele v IT a robotice to signalizuje, že vládní zakázky budou preferovat modulární systémy, což by mohlo ovlivnit vývoj open-source AI frameworků pro vojenské aplikace.
+## Proč je to důležité
+Tato iniciativa může výrazně zrychlit vývoj klíčových technologií v americké obraně. Otevřené architektury usnadní integraci pokročilých AI modelů do zbraňových systémů, což umožní autonomní operace dronů nebo prediktivní údržbu vybavení, ale zároveň vyvolává otázky bezpečnosti – otevřené systémy zvyšují riziko kybernetických útoků. Pro průmysl to otevře dveře malým a středním firmám specializovaným na AI nebo robotiku, které dosud byly vytlačovány giganty. V širším kontextu posiluje USA technologickou převahu v hypersonics a directed energy, kde Čína vede v testech, což ovlivní globální rovnováhu sil. Pro uživatele v obranném sektoru znamená rychlejší dodávky spolehlivějších systémů, ale vyžaduje přechod na nové standardy vývoje. Celkově jde o snahu vrátit americký armádní průmysl do formy z éry Ronalda Reagana, kdy 'Arsenal svobody' sloužil k vítězství v studené válce.
 
 ---
 

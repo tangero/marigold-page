@@ -4,10 +4,10 @@ category: robotika
 companies:
 - Strutt
 date: '2025-12-06 16:26:00'
-description: 'Singapurská robotická firma Strutt otevřela Super Early Bird předobjednávky
-  na svůj produkt ev¹, který získal ocenění CES 2026 Best of Innovation v kategorii
-  Vehicle Tech and Advanced Mobility a Red Dot: Luminary 2025. Oficiální uvedení na
-  trh proběhne 5. ledna 2026 na veletrhu CES.'
+description: Singapurská robotická společnost Strutt zahájila Super Early Bird předobjednávky
+  pro svůj produkt ev¹, který získal cenu CES 2026 Best of Innovation v kategorii
+  Vehicle Tech and Advanced Mobility. Oficiální uvedení proběhne 5. ledna 2026 na
+  veletrhu CES.
 importance: 3
 layout: tech_news_article
 original_title: Strutt ev¹ the CES 2026 Best of Innovation Winner Announces Super
@@ -18,31 +18,32 @@ source:
   emoji: 📰
   id: null
   name: PR Newswire UK
-title: Strutt ev¹, vítěz CES 2026 Best of Innovation, spouští Super Early Bird předobjednávky
+title: Strutt ev¹, vítěz ceny CES 2026 Best of Innovation, spouští Super Early Bird
+  předobjednávky
 url: https://www.prnewswire.co.uk/news-releases/strutt-ev-the-ces-2026-best-of-innovation-winner-announces-super-early-bird-begins-302634630.html
 urlToImage: https://mma.prnewswire.com/media/2839623/image_5032906_62508285.jpg?p=facebook
 urlToImageBackup: https://mma.prnewswire.com/media/2839623/image_5032906_62508285.jpg?p=facebook
 ---
 
-## Souhrn
-Singapurská společnost Strutt, zaměřená na vývoj chytrých každodenních vozidel, oznámila zahájení Super Early Bird předobjednávek na model ev¹. Tento produkt získal dvě významná ocenění: CES 2026 Best of Innovation v kategorii Vehicle Tech and Advanced Mobility a Red Dot: Luminary 2025. Oficiální prezentace proběhne na CES 2026 s živými demonstracemi funkcí jako stabilita, jízda do svahu, detekce překážek a autonomní navigace.
+### Souhrn
+Singapurská robotická firma Strutt, zaměřená na vývoj chytrých každodenních vozidel, oznámila zahájení Super Early Bird předobjednávek pro model ev¹. Tento produkt získal cenu CES 2026 Best of Innovation v kategorii Vehicle Tech and Advanced Mobility a také Red Dot: Luminary za rok 2025. Oficiální prezentace ev¹ proběhne 5. ledna 2026 na veletrhu CES v Las Vegas, kde budou ukázány jeho klíčové funkce jako stabilita, jízda do svahu, detekce překážek a autonomní navigace.
 
-## Klíčové body
-- Strutt ev¹ integruje technologie z automobilového průmyslu a robotiky do kompaktního osobního vozidla pro každodenní použití.
-- Super Early Bird předobjednávky jsou exkluzivní pro členy Facebook skupiny Strutt Drivers Club a zahrnují slevy, prioritní dodávky a přístup k beta testům.
-- Na CES 2026 bude ev¹ vystaveno na stánku 53413 s demonstracemi stability, výkonu na svazích, detekce překážek a inteligentní navigace.
-- Produkt reaguje na trendy jako potřeby stárnoucí populace, technologie pro nezávislost, AI v reálném světě a vývoj micro-mobility.
-- Citát zakladatele Tonyho Honga zdůrazňuje kompaktní formu spojující automobilové technologie s robotickou inteligencí.
+### Klíčové body
+- ev¹ kombinuje automobilovou technologii s robotikou do kompaktního osobního vozidla pro každodenní použití.
+- Předobjednávky s výhodami (slevy, priorita dodávky, přístup k beta testům) jsou exkluzivní pro členy skupiny Strutt Drivers Club na Facebooku.
+- Na CES 2026 bude ev¹ demonstrován na CES Unveiled, Pepcom Digital a stánku 53413, včetně živých testů stability a navigace.
+- Produkt reaguje na globální trendy jako stárnutí populace, technologie pro nezávislost, AI v reálném světě a vývoj mikromobility.
+- Citát zakladatele Tonyho Honga zdůrazňuje integraci automobilové technologie a robotické inteligence do kompaktní formy.
 
-## Podrobnosti
-Strutt je singapurská firma založená na pokročilé robotice, která se specializuje na vývoj chytrých vozidel pro každodenní mobilitu. Jejich model ev¹ představuje novou kategorii zařízení, kde se automobilové prvky – jako pohon a stabilizační systémy – spojují s robotickými technologiemi pro autonomní provoz. Vozidlo je navrženo jako kompaktní platforma pro osobní přepravu, schopná zvládat svahy, detekovat překážky pomocí senzorů a navigovat samostatně díky algoritmům umělé inteligence. Tyto funkce slouží k bezpečnému pohybu v městském prostředí, kde tradiční micro-mobility řešení jako elektrokoloběžky selhávají na nerovnostech nebo v davu.
+### Podrobnosti
+Strutt je singapurská společnost specializující se na pokročilá chytrá vozidla, která spojují principy robotiky s automobilovými technologiemi. Jejich model ev¹ představuje novou kategorii tzv. smart everyday vehicle – kompaktního osobního dopravního prostředku určeného pro každodenní mobilitu. Na rozdíl od konvenčních elektromobilů nebo kolotočů se ev¹ zaměřuje na robotické prvky, jako je inteligentní navigace umožňující autonomní pohyb bez řidiče, detekce překážek pomocí senzorů a stabilita i na svazích. Tyto funkce slouží k bezpečnému překonávání městského terénu, kde tradiční mikromobilita často selhává.
 
-Předobjednávky Super Early Bird jsou omezené na členy uzavřené Facebook skupiny Strutt Drivers Club, kde uživatelé participují na designu jako „co-designers“. Nabízí speciální slevy, prioritní dodávky a přednostní přístup k beta testům, což umožňuje ověřit funkce v reálných podmínkách před masovou výrobou. Na CES 2026, který se koná v Las Vegas, bude ev¹ prezentováno na CES Unveiled, Pepcom Digital a hlavním veletržním prostoru. Návštěvníci budou moci vozidlo otestovat přímo: zkoušet jeho stabilitu na nestabilním povrchu, posílat ho do svahu, sledovat detekci objektů v okolí a pozorovat autonomní navigaci v živé ukázce.
+Předobjednávkový program Super Early Bird je omezený na podporovatele v uzavřené Facebookové skupině Strutt Drivers Club. Členové zde získají nejen slevu, ale i prioritu při dodávkách, přístup k beta testům a další výhody v rámci programu Co-Designer Rewards. Tento přístup umožňuje komunitě podílet se na finálním doladění designu, což je neobvyklý model pro robotické produkty. Na veletrhu CES 2026, který se koná v lednu v Las Vegas, bude ev¹ vystaven na více místech: CES Unveiled, Pepcom Digital a hlavním stánku č. 53413. Návštěvníci budou moci vozidlo vyzkoušet přímo – otestovat jeho stabilitu na nerovnostech, jízdu do svahu, reakci na překážky a autonomní navigaci v reálném prostředí.
 
-ev¹ reaguje na globální trendy diskutované na CES, včetně demografického stárnutí populace, kde taková zařízení podporují udržení mobility seniorů bez nutnosti plnohodnotného automobilu. Dále se zaměřuje na technologie nezávislosti, aplikace AI v praktických scénářích mimo laboratoře, integraci robotiky do domácích a městských prostředí a evoluce micro-mobility směrem k bezpečnějším, inteligentnějším platformám. Zakladatel a CEO Tony Hong uvedl: „ev¹ bylo navrženo tak, aby přineslo automobilové technologie a robotickou inteligenci do kompaktní formy.“ Zatímco konkurenční řešení jako autonomní vozítka od Waymo nebo Tesla Full Self-Driving cílí na větší vozy, ev¹ se profiluje jako přístupnější alternativa pro krátké vzdálenosti, s důrazem na robotickou autonomii spíše než plnou automobilovou infrastrukturou.
+ev¹ tak není jen gadgetem, ale praktickým řešením pro specifické scénáře, jako je doprava v hustě obydlených oblastech nebo podpora mobility pro osoby se sníženou pohyblivostí. Senzory pro detekci překážek fungují na principu podobném LiDARu nebo kamerovým systémům v autonomních vozech, zatímco navigace využívá AI algoritmy pro plánování trasy v reálném čase. Strutt tak navazuje na trendy mikromobility, ale přidává robotickou autonomii, která překračuje úroveň běžných elektrických kolotočů jako Segway nebo Xiaomi modely.
 
-## Proč je to důležité
-Tento vývoj ukazuje na rostoucí zájem o hybridní robotická vozidla v segmentu micro-mobility, kde AI umožňuje vyšší bezpečnost a autonomii oproti pasivním elektrokoloběžkám. Pro průmysl znamená posun k personalizovaným, kompaktním řešením, která mohou konkurovat v trzích s hustou zástavbou nebo pro lidi s omezenou mobilitou. Ocenění CES a Red Dot potvrzují technickou vyspělost, ale dlouhodobý úspěch závisí na reálné spolehlivosti AI navigace v proměnlivých podmínkách a regulacích pro autonomní zařízení. V širším kontextu posiluje trend integrace robotiky do každodenních dopravních prostředků, podobně jako pokroky v humanoidních robotech, ale zaměřený na praktickou mobilitu.
+### Proč je to důležité
+Tento vývoj ukazuje, jak robotika proniká do oblasti osobní mobility, kde tradiční vozidla selhávají kvůli velikosti a složitosti. ev¹ zapadá do širšího kontextu CES, kde dominují témata stárnoucí populace – vozidlo může pomoci seniorem udržet nezávislost bez nutnosti plnohodnotného auta – a aplikace AI v každodenním prostředí. Na rozdíl od velkých hráčů jako Tesla s plnými autonomními vozy se Strutt soustředí na kompaktní segment, což otevírá dveře pro masovější adopci v Asii a Evropě. Ceny jako CES Best of Innovation signalizují potenciál, ale dlouhodobý úspěch závisí na bezpečnostních certifikacích a reálných testech mimo veletrh. Pro průmysl to znamená rostoucí konkurenci v mikromobilitě s robotickými prvky, což může donutit firmy jako Boston Dynamics nebo Waymo posunout své technologie do menších formátů. Celkově přispívá k evoluci bezpečnější mobility, i když zatím jde o spíš o niku než revoluci.
 
 ---
 

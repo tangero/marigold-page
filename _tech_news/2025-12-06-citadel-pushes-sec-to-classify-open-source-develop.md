@@ -4,10 +4,9 @@ category: kryptoměny
 companies:
 - Uniswap
 date: '2025-12-06 18:30:00'
-description: Citadel Securities podala 2. prosince 13stránkový dopis Americké komisi
-  pro cenné papíry a burzy (SEC), v němž argumentuje, že decentralizované protokoly
-  umožňující obchodování s tokenizovanými americkými akciemi splňují zákonné definice
-  burz a makléřských firem. Uniswap na tuto iniciativu reagoval ostře a odmítl návrh.
+description: Citadel Securities podala SEC 13stránkový dopis, v němž tvrdí, že decentralizované
+  protokoly pro obchodování s tokenizovanými americkými akciemi splňují definice burz
+  a broker-dealerů. Uniswap na to reagoval ostře a odmítl tvrzení.
 importance: 3
 layout: tech_news_article
 original_title: Citadel pushes SEC to classify open-source developers as unregistered
@@ -18,34 +17,36 @@ source:
   emoji: 📰
   id: null
   name: CryptoSlate
-title: Citadel tlačí SEC na klasifikaci open-source vývojářů jako neregistrovaných
-  makléřů s cennými papíry – Uniswap kontruje
+title: Citadel tlačí SEC na klasifikaci vývojářů open-source jako neregistrovaných
+  stockbrokerů – Uniswap kontruje
 url: https://cryptoslate.com/citadel-pushes-sec-to-classify-open-source-developers-as-unregistered-stockbrokers-uniswap-fires-back/
 urlToImage: https://cryptoslate.com/wp-content/uploads/2025/12/citadel-defi.jpg
 urlToImageBackup: https://cryptoslate.com/wp-content/uploads/2025/12/citadel-defi.jpg
 ---
 
 ## Souhrn
-Citadel Securities, jeden z největších tržních tvůrců na Wall Street, podal Americké komisi pro cenné papíry a burzy (SEC) dopis, v němž žádá, aby open-source vývojáři decentralizovaných protokolů pro tokenizaci amerických akcií byli považováni za neregistrované makléře. Tento krok by mohl výrazně omezit vývoj DeFi platforem. Uniswap, přední decentralizovaný exchange na blockchainu Ethereum, na dopis reagoval kritikou a obhajobou open-source modelu.
+Citadel Securities, velký tradiční market maker, podal 2. prosince dopis Americké komisi pro cenné papíry a burzy (SEC), kde argumentuje, že vývojáři open-source protokolů umožňujících tokenizované obchodování s americkými akciemi by měli být považováni za neregistrované stockbrokery. Decentralizované platformy jako Uniswap na to reagovaly obranou, že taková klasifikace by ohrozila celý open-source ekosystém.
 
 ## Klíčové body
-- Citadel tvrdí, že protokoly jako ty pro tokenizované akcie (např. RWAs – real world assets) fungují jako burzy a broker-dealerové podle zákona z roku 1934.
-- Doporučuje SEC, aby vyžadovala registraci vývojářů a provozovatelů těchto protokolů.
-- Uniswap označil argumenty Citadelu za pokus o monopolizaci trhu tradičními finančními giganty.
-- Souvisí s širší debatou o regulaci tokenizace aktiv v USA.
-- Časově se to prolíná s injekcí 13,5 miliardy dolarů likvidity od Fedu, což podtrhuje volatilitu tradičních financí.
+- Citadel tvrdí, že protokoly jako ty pro tokenizaci akcií (např. s Bitcoin walletami) splňují zákonné definice exchanges a broker-dealerů.
+- Dopis je 13stránkový a žádá SEC o aktivní dohled nad vývojáři open-source.
+- Uniswap označil argumenty za nesmyslné a varoval před dopady na inovace.
+- Bitcoin peněženky interagující s těmito protokoly jsou nyní označovány compliance algoritmy za vysokorizikové pro zabavení.
+- Kategorie: kryptoměny a regulační spor mezi TradFi a DeFi.
 
 ## Podrobnosti
-Citadel Securities, firma zabývající se tvorbou trhu a likviditou na burzách jako NYSE, podala 2. prosince 13stránkový dokument SEC. V něm podrobně rozebírá, jak decentralizované protokoly na blockchainu – konkrétně ty, které umožňují tokenizaci amerických akcií (např. převod akcií společností jako Tesla nebo Apple na ERC-20 tokeny na Ethereum) – splňují definici 'exchange' a 'broker-dealer' podle Securities Exchange Act z roku 1934. Tyto protokoly, často open-source, umožňují peer-to-peer obchodování bez centrálního zprostředkovatele, což podle Citadelu znamená, že jejich vývojáři by měli nést stejné regulační povinnosti jako tradiční burzy.
+Citadel Securities, jedna z největších firem zabývajících se tvorbou trhu na amerických burzách, podala SEC podrobný dopis, který se zaměřuje na decentralizované finance (DeFi). Podle Citadela protokoly umožňující tokenizaci amerických akcií – tedy převod tradičních akcií na blockchainové tokeny obchodovatelné na decentralizovaných burzách (DEX) – již nyní splňují federální definice burz (exchanges) a broker-dealerů. Tyto entity podle zákona musí být registrovány a regulovány, což zahrnuje licence, reportování a ochranu investorů.
 
-Příkladem jsou platformy jako Uniswap nebo podobné DEXy (decentralized exchanges), které lze rozšířit o tokenizovaná aktiva. Citadel upozorňuje na rizika: absence registrace vede k nedostatečnému dohledu, což ohrožuje investory na manipulace cen nebo nedodržení KYC/AML pravidel. Firma navrhuje, aby SEC vydala usnesení klasifikující tyto aktivity a vymáhala pokuty za neregistrovanou činnost.
+Dopis explicitně zmiňuje open-source vývojáře, kteří tyto protokoly vytvářejí a udržují. Citadel argumentuje, že i bez centrálního managementu tyto protokoly facilitují obchodování s cennými papíry, což je činí de facto stockbrokery. Příkladem je protokol, se kterým interagují Bitcoin peněženky; ty jsou nyní algoritmy pro dodržování předpisů (compliance algorithms) označovány za vysokorizikové, což vede k riziku zabavení aktiv.
 
-Uniswap, protokol pro automatizované směny tokenů na Ethereum (slouží k decentralizovanému obchodování kryptoměn a tokenů bez potřeby registrace), okamžitě zareagoval. V oficiálním prohlášení označil dopis za 'útok na inovace' a argumentoval, že open-source kód není ekvivalentem podnikání. Vývojáři neprovádějí transakce sami, ale poskytují pouze software, který uživatelé nasazují sami. Tato výměna názorů připomíná předchozí soudy SEC s Ripple nebo Coinbase, kde šlo o podobné otázky.
+Uniswap, přední decentralizovaná burza postavená na Ethereum blockchainu pro směnu tokenů bez prostředníků, okamžitě zareagoval. Tvrdí, že Citadelova argumentace je chybná, protože open-source kód je veřejně dostupný a nijak neřídí transakce. Uniswap, který funguje na principu automatizovaných market makerů (AMM), zdůrazňuje, že žádný jednotlivec nebo entita nemá kontrolu nad protokolem po jeho nasazení na blockchain. Tato reakce přichází v kontextu rostoucího napětí mezi tradičními finančními institucemi (TradFi) a DeFi sektorem, kde tokenizace aktiv jako akcie nebo nemovitosti slibuje 24/7 globální obchodování bez hranic.
 
-Časově se to prolíná s událostmi na trhu: Federální rezervní systém (Fed) náhle vstřebal 13,5 miliardy dolarů likvidity, což odhalilo slabiny dolarového systému. Bitcoin, navržený jako alternativa centrálním měnám, na to reagoval růstem, což podtrhuje ironii – zatímco tradiční finance bojují s nestabilitou, DeFi nabízí alternativu, kterou Citadel nyní chce regulovat.
+SEC zatím nereagovala, ale podobné spory mají precedens – například soudy s Ripple nebo Tornado Cash ukazují, jak regulátoři aplikují tradiční zákony na blockchain technologie. Citadel, který spravuje obrovské objemy obchodů na NYSE a Nasdaq, vidí v DeFi hrozbu pro svůj monopol na likviditu.
 
 ## Proč je to důležité
-Tento spor může definovat budoucnost tokenizace aktiv v USA, kde trh RWAs roste na stovky miliard dolarů. Pokud SEC přijme návrh Citadelu, open-source vývoj DeFi protokolů by se stal rizikovým – vývojáři by čelili žalobám a pokutám v řádech milionů dolarů, což by zpomalilo inovace v blockchainu. Naopak, pro tradiční finance jako Citadel znamená konkurenční hrozbu: DeFi nabízí nižší poplatky a 24/7 obchodování bez prostředníků. V širším IT ekosystému to ovlivní vývoj smart kontraktů a distribuovaných ledgerů, kde open-source modely jako Ethereum dominují. Pro uživatele to znamená potenciální omezení přístupu k tokenizovaným aktivům, zatímco průmysl čeká na jasnou regulaci, která by mohla přilákat institucionální kapitál nebo naopak DeFi odtlačit do šedé zóny.
+Tento spor může zásadně ovlivnit vývoj DeFi. Pokud SEC přijme Citadelovy argumenty, vývojáři open-source by museli registrovat se jako broker-dealeri, což by znamenalo konec anonymního přispívání do projektů jako Uniswap Labs (firma za protokolem). To by zpomalilo inovace v tokenizaci aktiv, která by mohla demokratizovat přístup k akciím pro retail investory mimo tradiční burzy.
+
+Pro průmysl to znamená riziko fragmentace: tradiční hráči jako Citadel by získali regulační výhodu, zatímco DeFi by čelilo sankcím, včetně blacklistování peněženek. V širším IT ekosystém to ilustruje střet mezi centralizovanými a decentralizovanými systémy – open-source kód, který pohání většinu blockchainů, by se stal regulovaným jako finanční služba. Uživatelé by mohli čelit vyšším rizikům, jako je zamrznutí aktiv compliance nástroji bank, což už nyní postihuje interakce s určitými protokoly. Dlouhodobě by to mohlo vést k hybridním modelům, kde DeFi integruje KYC/AML pro soulad s regulacemi.
 
 ---
 
