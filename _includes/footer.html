@@ -1,0 +1,115 @@
+<footer class="site-footer">
+  <div class="footer-grid">
+
+    <!-- Sloupec 1: O autorovi -->
+    <div class="footer-column footer-about">
+      <h3>Patrick Zandl</h3>
+      <p class="footer-bio">Autor, technologický nadšenec a blogger. Píšu o technologiích, AI a mobilních sítích.</p>
+
+      <div class="footer-social">
+        {% if site.footer-links.email %}
+          <a href="mailto:{{ site.footer-links.email }}" title="Email" aria-label="Email">
+            <i class="svg-icon email"></i>
+          </a>
+        {% endif %}
+
+        {% if site.footer-links.facebook %}
+          <a href="https://www.facebook.com/{{ site.footer-links.facebook }}" title="Facebook" aria-label="Facebook">
+            <i class="svg-icon facebook"></i>
+          </a>
+        {% endif %}
+
+        {% if site.footer-links.twitter %}
+          <a href="https://www.twitter.com/{{ site.footer-links.twitter }}" title="Twitter" aria-label="Twitter">
+            <i class="svg-icon twitter"></i>
+          </a>
+        {% endif %}
+
+        {% if site.footer-links.linkedin %}
+          <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" title="LinkedIn" aria-label="LinkedIn">
+            <i class="svg-icon linkedin"></i>
+          </a>
+        {% endif %}
+
+        {% if site.footer-links.github %}
+          <a href="https://github.com/{{ site.footer-links.github }}" title="GitHub" aria-label="GitHub">
+            <i class="svg-icon github"></i>
+          </a>
+        {% endif %}
+
+        {% if site.footer-links.youtube %}
+          <a href="https://youtube.com/{{ site.footer-links.youtube }}" title="YouTube" aria-label="YouTube">
+            <i class="svg-icon youtube"></i>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+
+    <!-- Sloupec 2: Projekty -->
+    <div class="footer-column footer-projects">
+      <h3>Projekty</h3>
+      <ul class="footer-links">
+        <li>
+          <a href="https://www.marigold.cz">
+            <strong>Marigold.cz</strong>
+            <span>Technologie a svět</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.zitraslavni.cz">
+            <strong>Zítřaslavní.cz</strong>
+            <span>Kreativní psaní a Klub zítřaslavných autorů</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.vibecoding.cz">
+            <strong>VibeCoding.cz</strong>
+            <span>Vibe coding a programování s podporou AI</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.topflix.cz">
+            <strong>TopFlix.cz</strong>
+            <span>Nové filmy a seriály na Netflixu</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://zandl.substack.com">
+            <strong>Substack Newsletter</strong>
+            <span>Novinky o technice a AI</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Sloupec 3: Rychlé odkazy -->
+    <div class="footer-column footer-quick-links">
+      <h3>Rychlé odkazy</h3>
+      <ul class="footer-links">
+        <li>
+          <a href="/feed.xml">
+            <i class="svg-icon rss"></i>
+            <strong>RSS Feed</strong>
+          </a>
+        </li>
+        <li>
+          <a href="/changelog/">
+            <strong>Changelog</strong>
+            <span>Historie změn projektu</span>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:{{ site.footer-links.email }}">
+            <strong>Kontakt</strong>
+            <span>{{ site.footer-links.email }}</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; {{ 'now' | date: "%Y" }} {{ site.name }}. Vytvořeno s <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+  </div>
+</footer>

@@ -58,7 +58,20 @@
             </div>
 
             <nav>
-              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+              <a href="/search">🔍</a> |
+              <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> |
+              <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> |
+              <a href="/mobilnisite">🗼 4G/5G</a> |
+              <a href="/ai">🤖 AI</a> |
+              <span class="nav-dropdown">
+                <button class="nav-dropdown-toggle" aria-expanded="false" aria-label="Další menu">
+                  Další ☰
+                </button>
+                <div class="nav-dropdown-menu" role="menu">
+                  <a href="/tech-news/" role="menuitem">💻 Zprávy</a>
+                  <a href="/obrazy" role="menuitem">🖼️ Obrazy</a>
+                </div>
+              </span>
             </nav>
           </header>
         </div>
@@ -72,9 +85,7 @@
 
       <div class="wrapper-footer">
         <div class="container">
-          <footer class="footer">
-            {% include svg-icons.html %}
-          </footer>
+          {% include footer.html %}
         </div>
       </div>
     </div>
@@ -85,7 +96,7 @@
     function toggleDetails(button) {
       const content = button.nextElementSibling;
       const isCollapsed = button.classList.contains('collapsed');
-      
+
       if (isCollapsed) {
         button.classList.remove('collapsed');
         content.classList.add('show');
@@ -94,6 +105,48 @@
         content.classList.remove('show');
       }
     }
+
+    // Navigační dropdown
+    (function() {
+      const dropdownToggle = document.querySelector('.nav-dropdown-toggle');
+      const dropdownMenu = document.querySelector('.nav-dropdown-menu');
+
+      if (dropdownToggle && dropdownMenu) {
+        // Toggle dropdown při kliknutí
+        dropdownToggle.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          const isExpanded = dropdownToggle.getAttribute('aria-expanded') === 'true';
+
+          dropdownToggle.setAttribute('aria-expanded', !isExpanded);
+          dropdownMenu.classList.toggle('show');
+        });
+
+        // Zavřít při kliknutí mimo
+        document.addEventListener('click', function(e) {
+          if (!e.target.closest('.nav-dropdown')) {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+
+        // Keyboard navigation
+        dropdownToggle.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            dropdownToggle.click();
+          }
+        });
+
+        // Escape key zavře menu
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape') {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+      }
+    })();
     </script>
   </body>
 </html>
