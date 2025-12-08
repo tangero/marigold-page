@@ -1,9 +1,9 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 date: '2025-12-07 06:45:00'
-description: Učitelé unaveně pokračují v reformovaném Leaving Cert, ale některé věci
-  prostě nedokážou – jako zabránit studentům v podvádění díky AI.
+description: Učitelé unaveně pokračují v reformovaném Leaving Cert, ale nedokážou
+  zabránit studentům v podvádění pomocí AI.
 importance: 3
 layout: tech_news_article
 original_title: 'Breda O''Brien: Comparing AI to Wikipedia is like saying a bicycle
@@ -22,23 +22,23 @@ urlToImageBackup: https://www.irishtimes.com/resizer/v2/XRQD5IYUE4NWHAMTQUTXECFH
 ---
 
 ### Souhrn
-Irská novinářka a bývalá učitelka Breda O'Brien kritizuje srovnávání umělé inteligence s Wikipedií jako zjednodušující a zavádějící. V kontextu reformy státních maturit (Leaving Cert) poukazuje na rostoucí problém podvádění studentů pomocí AI nástrojů, které učitelé nedokážou efektivně omezit. Reforma probíhá rychleji, než bylo plánováno, což zvyšuje tlak na pedagogy.
+Irská novinářka a komentátorka Breda O'Brien varuje před naivním srovnáváním umělé inteligence s encyklopedií Wikipedia v kontextu podvádění na státních zkouškách Leaving Cert. Reforma těchto zkoušek, které slouží jako maturitní zkoušky v Irsku, probíhá chaoticky bez předchozího testování a s nedostatečným financováním laboratoří. Učitelé čelí výzvám, včetně rostoucího rizika podvádění díky AI nástrojům, které generují obsah rychleji a sofistikovaněji než tradiční zdroje.
 
 ### Klíčové body
-- Reforma Leaving Cert začala v srpnu minulého roku v klíčových předmětech jako biologie, fyzika, chemie a obchodní vědy, přestože původní plán počítal s pilotními testy.
-- Učitelé jsou unavení z ignorování svých obav odbory TUI a ASTI, i přes poskytnuté podpory jako ukázkové testy a zvýšené financování.
-- Hlavní problém: Studenti používají AI k podvádění, což překonává tradiční metody kontroly, na rozdíl od Wikipedie, která je statickým zdrojem.
-- Financování vědeckých laboratoří vzrostlo, ale stále zaostává za doporučeními z roku 2002.
+- Reforma Leaving Cert byla zavedena naglo bez pilotního projektu, což učinilo aktuální páté ročníky pokusnými králíky v předmětech jako biologie, fyzika, chemie a obchod.
+- Dodatečné financování pro vědecké předměty vzrostlo z 13 na 25 eur na studenta, celkem téměř 20 milionů eur, ale stále nedosahuje úrovně doporučené v roce 2002.
+- Odbory učitelů (TUI a ASTI) nesouhlasí s ignorováním jejich obav, přesto pokračují v provádění reforem.
+- Breda O'Brien zdůrazňuje, že AI není jen pasivní zdroj informací jako Wikipedia, ale aktivní generátor obsahu, což zvyšuje riziko podvádění.
 
 ### Podrobnosti
-Reforma irských státních maturit Leaving Cert, která měla původně probíhat postupně s pilotními projekty v jednotlivých školách, byla zrušena jednostranným oznámením tehdejší ministryně školství Normy Foleyové v rozhlasu Morning Ireland před dvěma lety. Výsledek? Aktuální pátá ročníky se staly pokusnými králíky v jádrových předmětech jako biologie, fyzika, chemie a obchod. Konec prvního pololetí přináší únavu mezi pedagogy, kteří popisují situaci slovy „unaveně pokračovat dál". Odbory učitelů TUI přijal balíček podpor, zatímco ASTI ho odmítl, ale oba vyjadřují nespokojenost s ignorováním jejich zájmů.
+Reforma Leaving Cert, irských maturitních zkoušek, začala v loňském srpnu v učebnách bez předchozího pilotního testování v některých školách. Původní plán předpokládal postupné zavádění nových předmětů na základě zkušeností, ale tehdejší ministryně školství Norma Foley toto nařídila jednostranně v rozhovoru pro rádio Morning Ireland před dvěma lety. Výsledek: současní pátá ročníky jsou prvními oběťmi v klíčových předmětech jako biologie, fyzika, chemie a obchodní vědění. Konec prvního pololetí ukazuje, že učitelé se s tím unaveně vyrovnávají, přestože odbory TUI přijal balíček podpory a ASTI jej odmítl – oba uniony kritizují ignorování obav pedagogů.
 
-Pozitiva existují: Před začátkem školního roku byly zveřejněny ukázkové zkušební testy a financování se zvýšilo. Dotace na žáka ve vědeckých předmětech stoupla z 13 na 25 eur, školy bez školného dostanou minimálně 13 000 eur až maximálně 22 000 eur podle počtu studentů. Školy v programu Deis pro znevýhodněné oblasti získají navíc 10 procent. Celkově jde o investici téměř 20 milionů eur. Nicméně zkušení učitelé věd si vzpomínají na zprávu task force z roku 2002, která varovala před úbytkem zájmu o vědu jako hrozbou pro ekonomický růst. Doporučovala 142,8 milionu eur na modernizaci laboratoří a státní financování techniků – nic z toho se nerealizovalo. Dnes, po více než 20 letech, laboratoře stále zaostávají za mezinárodními standardy.
+Pozitivní změny zahrnují ukázkové zkušební testy vydané před začátkem roku a zvýšené financování. Grant na studenta pro vědecké předměty stoupl z 13 na 25 eur, školy bez školného dostanou minimálně 13 000 eur až maximálně 22 000 eur podle počtu žáků v těchto předmětech. Školy v programu Deis pro znevýhodněné oblasti získají navíc 10 procent. Celkem jde o investici téměř 20 milionů eur. Nicméně zkušení učitelé věd si vzpomínají na zprávu task force z roku 2002 o fyzikálních vědách, která varovala před poklesem zájmu o vědu jako hrozbou pro ekonomický růst. Doporučovala 142,8 milionu eur na modernizaci laboratoří a státní financování techniků v každé škole. Žádná z těchto opatření nebyla realizována a dnešní částka je jen zlomek požadovaného objemu.
 
-Centrem kritiky O'Brienové je však umělá inteligence. Srovnání AI s Wikipedií považuje za absurdní: Wikipedia je pasivní encyklopedie s možností kontroly zdrojů, zatímco AI modely jako ChatGPT nebo Gemini generují originální texty, řeší složité úlohy a napodobují lidskou kreativitu. Studenti tak snadno podvádějí v esejích nebo výpočtech, což učitelé nedokážou odhalit bez specializovaného softwaru jako GPTZero nebo Turnitin s AI detekcí. Reforma Leaving Cert zvyšuje závislost na psaných pracích, kde AI exceluje, což oslabuje důvěryhodnost systému.
+V tomto kontextu Breda O'Brien poukazuje na rostoucí problém podvádění díky AI. Srovnání AI s Wikipedií je podle ní mylné: Wikipedia je statický agregátor informací editovaných lidmi, zatímco AI modely jako ChatGPT nebo Gemini generují nový text, odpovědi i řešení úloh v reálném čase. Tyto nástroje umožňují studentům rychle vytvářet eseje, výpočty nebo experimentální popisy, což učitelé nedokážou efektivně detekovat. Leaving Cert reformy zahrnují méně paměťových testů a více praktických úkolů, ale bez investic do laboratoří a školení zůstává systém zranitelný.
 
 ### Proč je to důležité
-Tento článek odhaluje širší dopad AI na vzdělávání: zatímco technologie jako velké jazykové modely (LLM) democratizují znalosti, zároveň narušují tradiční hodnocení. Pro irské školství to znamená nutnost přehodnotit Leaving Cert směrem k ústním zkouškám nebo praktickým úkolům, kde AI zatím selhává. V globálním kontextu podtrhuje, jak AI překonává nástroje jako Wikipedia – statické vs. dynamické generování obsahu – a nutí instituce investovat do detekce podvodů. Bez systémových změn, včetně lepšího financování infrastruktury, riskují země jako Irsko ztrátu důvěry v certifikáty. O'Brienová jako expertka na vzdělávání apeluje na realitu: AI není kolo, ale samořídící vůz, který mění pravidla hry.
+Tento článek odhaluje širší problém integrace AI do vzdělávání: školy se adaptují pomalu, zatímco technologie pokračuje v růstu. V Irsku, kde Leaving Cert určuje přístup na univerzity, podvádění ohrožuje kvalitu absolventů v klíčových oborech jako vědy, což má dlouhodobé dopady na ekonomiku. Experti na AI, jako já, vidí potřebu systémových změn – například povinné použití detektorů AI (jako GPTZero nebo Originality.ai, které analyzují styl a predikce tokenů) a přeorientování zkoušek na originální myšlení. Bez adekvátního financování laboratoří (stále pod úrovní z roku 2002) reforma selže v přípravě studentů na svět, kde AI je standardním nástrojem. To platí globálně: země jako Finsko nebo Singapur už testují AI-friendly zkoušky s důrazem na kritické myšlení, zatímco Irsko riskuje zaostávání.
 
 ---
 

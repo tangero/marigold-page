@@ -1,9 +1,9 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 date: '2025-12-07 07:14:35'
-description: Rozbor skutečného dopadu AI na kariéry v marketingu a lidských vlastností,
-  které technologie nedokáže nahradit.
+description: Článek analyzuje vliv umělé inteligence na marketingové profese a zdůrazňuje
+  lidské kvality, jako je pochopení emocí a psychologie, které AI nedokáže nahradit.
 importance: 3
 layout: tech_news_article
 original_title: AI Is Transforming Marketing , But Here’s Why Human Marketers Still
@@ -21,25 +21,25 @@ urlToImage: https://byline-nesyys.s3.ap-south-1.amazonaws.com/images/posts/thumb
 urlToImageBackup: https://byline-nesyys.s3.ap-south-1.amazonaws.com/images/posts/thumbnails/fd91b632-b4ce-4a07-aff8-1dd51d55afbc-1764998804898-human-ai-handshake-collaboration.jpg
 ---
 
-## Souhrn
-Článek popisuje, jak umělá inteligence (AI) radikálně mění marketing tím, že automatizuje rutinní úkoly jako tvorba popisků, designů nebo optimalizace kampaní. Autor, 20letý marketér přecházející z inženýrství, argumentuje, že AI není hrozbou, ale nástrojem pro spolupráci, kde lidé přinášejí emoce, psychologii a kulturní kontext. Klíčem je posun od rutiny k strategii a kreativitě.
+### Souhrn
+Mladý marketér s technickým pozadím popisuje, jak umělá inteligence (AI) radikálně mění marketing tím, že automatizuje tvorbu obsahu, designů, predikce chování uživatelů a optimalizaci kampaní. Přesto argumentuje, že AI není hrozbou, ale nástrojem, který uvolňuje čas pro lidskou kreativitu a strategii. Klíčem je spolupráce, kde AI zpracovává data a rutinu, zatímco lidé dodávají emoce, kulturní kontext a autentický příběh.
 
-## Klíčové body
-- AI zvládá rychlou tvorbu obsahu, predikci chování uživatelů a automatizaci reklamních kampaní.
-- Lidé dodávají smysl, emoce a porozumění lidské psychologii, které AI postrádá.
-- Spolupráce: AI provádí výzkum a první návrhy, marketéři volí tón, příběh a záměr.
-- AI uvolňuje čas pro strategii, porozumění publiku a chování spotřebitelů.
-- Marketing není jen obsah, ale vyjádření lidské psychologie.
+### Klíčové body
+- AI automatizuje rutinní úkoly jako generování popisků, návrhů a analýzu dat, což zvyšuje rychlost a škálovatelnost.
+- Lidé zůstávají nezbytní pro pochopení psychologie, emocí a kulturních nuancí, které AI nedokáže replikovat.
+- Spolupráce s AI umožňuje marketérům soustředit se na strategii, ton obsahu a budování vztahů s publikem.
+- Příklad z praxe: V agentuře Zebra Learn (vzdělávací platforma zaměřená na digitální dovednosti) AI slouží k brainstormingu a draftům, lidé pak volí emoce a záměr.
+- Budoucnost patří „AI-asistovaným marketérům“, kteří kombinují technologie s lidskou intuicí.
 
-## Podrobnosti
-Autor članku, 20letý specialist na sociální sítě v firmě Zebra Learn (vzdělávací platforma zaměřená na digitální dovednosti), popisuje svou zkušenost z přechodu z inženýrství do marketingu. AI změnila nejen nástroje, ale i tempo práce: generuje popisky během sekund, vytváří designy lepší než začátečníci, predikuje chování uživatelů rychleji než analytici a dokáže samostatně spouštět reklamní kampaně, testovat varianty a optimalizovat rozpočty. To vyvolává obavy u mladých marketérů, stážistů a začátečníků, kteří se ptájí, co zbude jim.
+### Podrobnosti
+Autor článku, 20letý marketér přecházející z inženýrství do digitálního marketingu, sleduje paralelní transformaci obou oborů díky AI. V marketingu to znamená, že nástroje jako velké jazykové modely (LLM), například GPT-4 nebo Claude, generují popisky pro sociální sítě během sekund – stačí zadat klíčová slova a cílové publikum. Grafické AI jako Midjourney nebo DALL-E vytvářejí vizuály kvalitnější než začátečníci, zatímco prediktivní algoritmy v platformách jako Google Ads nebo Meta Ads Manager automaticky testují varianty reklam, predikují chování uživatelů na základě historických dat a optimalizují rozpočty v reálném čase. Tyto systémy využívají strojové učení k analýze miliard interakcí, což je rychlejší než manuální práce analytiků.
 
-Podle autora není AI hrozbou, ale novým kolegou. Pokud AI plně nahradí úkol, nebyl ten úkol nikdy skutečně lidský. AI exceluje v rychlosti, přesnosti a škálovatelnosti, ale chybí jí životní zkušenost. Marketing spočívá v psychologii: AI vytvoří příspěvek, ale nerozumí nejistotě teenagera na Instagramu, rozhodnutí matky mezi značkami nebo kulturním kontextu. V praxi autor využívá AI takto: pro brainstorm, výzkum konkurence a první návrhy obsahu, což mu šetří čas. Poté sám volí tón, emoce, příběh a záměr – AI nabízí varianty, lidé jim dávají význam.
+Přesto autor zdůrazňuje limity AI: neumí cítit emoce, jako nejistotu teenagera na Instagramu nebo rozhodovací proces matky volící značku dětských potřeb. AI postrádá lived experience – reálné prožitky – a často halucinuje nepravdivé informace nebo ignoruje kulturní kontexty. Například generovaný obsah může být syntakticky dokonalý, ale bez autenticity selže v budování důvěry. V praxi u Zebra Learn, platformy nabízející online kurzy digitálních dovedností, autor používá AI pro těžkou práci: brainstormování nápadů, výzkum konkurence (nástroje jako Ahrefs s AI integrací) a tvorbu draftů. Poté sám volí tón (např. empatický pro mladé uživatele), emoce (radost z úspěchu), příběh (osobní úspěšný případ) a záměr (konverze na registraci). Tím se rutinní úkoly zmenšují a marketéři získávají čas na hlubší strategii, analýzu publika a experimenty s chováním spotřebitelů.
 
-Tento přístup vede k vzniku „AI-asistovaného marketéra“. Automatizace rutiny uvolňuje prostor pro kreativitu, strategii a hlubší porozumění publiku. Například modely jako GPT nebo podobné LLM slouží k generování textů a analýze dat, ale vyžadují lidskou validaci pro kulturní nuance. Autor zdůrazňuje, že strach z AI pramení z fixace na rutinní úkoly, zatímco skutečná hodnota marketérů je v empatii a kontextu.
+Kriticky lze dodat, že AI zatím nedosahuje plné autonomie v komplexních kampaních – vyžaduje lidský dohled kvůli biasům v datech (např. předpojatost v trénovacích sadách) a etickým rizikům, jako je deepfake obsah. Studie od Gartneru predikují, že do roku 2025 automatizuje AI 30 % marketingových úkolů, ale vytvoří nové role pro specialisty na AI etiku a hybridní strategie.
 
-## Proč je to důležité
-Tento pohled odráží širší trend v technologickém ekosystému, kde AI (zejména velké jazykové modely jako GPT nebo Claude) automatizuje 40–60 % marketingových úkolů podle studií jako McKinsey. Pro průmysl to znamená posun rolí: juniori se musí učit spolupracovat s AI nástroji, jako jsou Midjourney pro design nebo Google Analytics s AI predikcemi. Kariéry nezaniknou, ale vyžadují dovednosti v psychologii, strategii a etice – oblasti, kde AI selhává kvůli absenci skutečného porozumění. Pro uživatele to přináší lepší personalizovaný obsah, ale i rizika homogenizace bez lidského prvku. V kontextu rychlého pokroku AI (např. nové verze Llama nebo Gemini) je taková diskuse klíčová pro přípravu pracovní síly na éru, kde technologie zesiluje, ne nahrazuje člověka.
+### Proč je to důležité
+Tento pohled ukazuje širší trend v technologickém ekosystému: AI nahrazuje repetitivní práci, ale zesiluje potřebu lidských dovedností v kreativních oborech. Pro marketingový průmysl to znamená přechod od „content farm“ k datově řízené empatii, kde nástroje jako ChatGPT slouží k prototypování, ale úspěch závisí na porozumění lidské psychologii. Pro mladé profesionály to otevírá dveře – kdo ovládne AI nástroje (např. integraci API do workflow), získá konkurenční výhodu. V kontextu rychlého vývoje LLM, jako jsou updaty Grok nebo Llama, se marketing stává testovacím polem pro hybridní AI-lidské týmy, což ovlivní i jiné sektory jako vzdělávání nebo zákaznický servis.
 
 ---
 

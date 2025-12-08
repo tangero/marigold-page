@@ -3,9 +3,8 @@ author: Marisa Aigen
 category: umělá inteligence
 date: '2025-12-07 06:45:00'
 description: Nový model umělé inteligence analyzuje mamografy a předpovídá riziko
-  vzniku rakoviny prsu až o pět let dříve, i při normálních nálezech. Tento nástroj
-  by mohl zlepšit efektivitu screeningových programů tím, že umožní cílenější sledování
-  rizikových skupin.
+  vzniku rakoviny prsu až na pět let dopředu. Tento přístup by mohl zlepšit efektivitu
+  screeningových programů.
 importance: 3
 layout: tech_news_article
 original_title: New AI model can predict 5-year breast cancer risk
@@ -22,26 +21,24 @@ urlToImageBackup: https://static.dw.com/image/68610143_6.jpg
 ---
 
 ## Souhrn
-Nový algoritmus umělé inteligence dokáže z mamografických snímků předpovědět riziko rozvoje rakoviny prsu u žen až o pět let dopředu, i když snímky nevykazují žádné známky onemocnění. Ženy klasifikované jako vysoce rizikové mají podle studie čtyřnásobné riziko ve srovnání s těmi s nízkým skóre. Vývoj pochází z Univerzitní nemocnice RWTH Aachen a zaměřuje se na zlepšení současných screeningových metod.
+Nový algoritmus založený na umělé inteligenci, vyvinutý na RWTH Aachen University Hospital, dokáže z mamografických snímků předpovědět riziko rozvoje rakoviny prsu u žen až na pět let dopředu, i když snímky nevykazují žádné známky onemocnění. Model klasifikuje pacientky do kategorií rizika, přičemž ženy s vysokým skóre mají čtyřnásobné riziko ve srovnání s těmi s nízkým skóre. Tento výzkum řeší limity současného screeningu, který často neodhaluje agresivní nádory včas.
 
 ## Klíčové body
-- Ročně je diagnostikováno 2,3 milionu nových případů rakoviny prsu, v roce 2022 zemřelo na ni 670 tisíc lidí podle Světové zdravotnické organizace (WHO).
-- Současné mamografické screeningy selhávají především u rychle rostoucích agresivních tumorů, které způsobují většinu úmrtí.
-- AI model klasifikuje riziko pouze na základě analýzy mamografů bez dalších dat.
-- Ženy s vysokým AI skóre mají čtyřnásobné riziko onemocnění oproti těm s nízkým skóre.
-- V Německu se screeningové mamografy nabízejí ženám ve věku 50–75 let každé dva roky.
+- Model AI analyzuje pouze mamografické snímky bez dalších dat a předpovídá riziko na pět let.
+- Ženy s vysokým rizikovým skóre mají 4x vyšší pravděpodobnost onemocnění než ženy s nízkým skóre.
+- Současný screening v Německu zahrnuje mamografy každé dva roky pro ženy od 50 do 75 let, ale selhává u rychle rostoucích tumorů.
+- Celosvětově bylo v roce 2022 diagnostikováno 2,3 milionu případů rakoviny prsu s 670 tisíci úmrtími.
+- Výzkum vede Christiane Kuhl z Ústavu diagnostické a intervenční radiologie RWTH Aachen.
 
 ## Podrobnosti
-Rakovina prsu zůstává nejčastější příčinou úmrtí na rakovinu u žen, přestože mamografické screeningy jsou standardem. Podle Christiane Kuhl, ředitelky oddělení diagnostické a intervenční radiologie na Univerzitní nemocnici RWTH Aachen, mamografie často neodhalí rané stádium onemocnění, zejména u agresivních typů nádorů, které se rychle šíří a vedou k úmrtí. Tyto tumory se obvykle neprojevují viditelnými změnami na snímcích v době screeningového vyšetření.
+Rakovina prsu zůstává nejčastější příčinou úmrtí na rakovinu u žen, přestože screeningové programy jako mamografie jsou standardem. Podle Světové zdravotnické organizace (WHO) dosahuje roční počet nových případů 2,3 milionu a v roce 2022 zemřelo na toto onemocnění 670 tisíc žen. Problém spočívá v tom, že standardní mamografie často neodhalí agresivní, rychle rostoucí tumory v raném stádiu, což snižuje šance na úspěšnou léčbu. Christiane Kuhl, ředitelka Ústavu diagnostické a intervenční radiologie na RWTH Aachen University Hospital, zdůrazňuje, že právě tyto tumory způsobují většinu úmrtí.
 
-Nový model umělé inteligence, vyvinutý v tomto zařízení, analyzuje mamografické snímky pomocí pokročilých algoritmů strojového učení. Slouží k klasifikaci žen do rizikových kategorií – nízké, normální nebo vysoké riziko – pro vývoj rakoviny prsu během následujících pěti let. Klíčovou výhodou je, že funguje i na snímcích bez anomálií, což umožňuje predikci před klinickými projevy. V provedené studii ženy s vysokým skóre skutečně vykázaly výrazně vyšší incidenci onemocnění, přesně čtyřnásobně oproti skupině s nízkým skóre. Model tak překonává limity tradiční mamografie, která se zaměřuje pouze na detekci existujících tumorů.
+Nový model umělé inteligence tento problém řeší analýzou mamografických snímků pomocí strojového učení, pravděpodobně konvolučních neuronových sítí (CNN), které jsou běžné pro zpracování medicínských obrazů. Model nevyžaduje žádné další klinické údaje, jako je rodinná anamnéza nebo genetické testy, a funguje i na snímcích, které jsou považovány za normální. V klinické studii ženy klasifikované jako vysoce rizikové vykazovaly výrazně vyšší incidenci onemocnění – konkrétně čtyřnásobnou ve srovnání s nízkorizikovou skupinou. To umožňuje cílenější screening: ženy s vysokým skóre by mohly být sledovány častěji, například jednou ročně, nebo podrobeny doplňkovým vyšetřením jako magnetická rezonance.
 
-RWTH Aachen University Hospital je přední evropské centrum v radiologii, specializující se na diagnostiku a léčbu onkologických onemocnění. Kuhl zdůraznila, že tento přístup umožňuje přesnější predikci na základě rutinních screeningů. Současný německý program nabízí mamografy každé dva roky ženám od 50 do 75 let, což je podobné standardům v mnoha zemích EU. Implementace AI by mohla znamenat častější kontroly pro rizikové pacientky a řidší pro nízkorizikové, což by snížilo zátěž na zdravotní systémy. Nicméně model zatím prošel jednou studií a vyžaduje další validaci na větších populacích, včetně různorodých etnik, aby se potvrdila jeho robustnost.
+V současnosti je v Německu screening nabízen všem ženám ve věku 50 až 75 let každé dva roky. Model AI by mohl tento systém optimalizovat, snížit počet zbytečných vyšetření u nízkorizikových žen a soustředit zdroje na ty ohrožené. RWTH Aachen, univerzitní nemocnice v Německu specializující se na pokročilou diagnostiku, tento algoritmus validovala na reálných datech, což zvyšuje jeho kredibilitu. Nicméně, jako expert na umělou inteligenci upozorňuji, že takové modely vyžadují velké tréninkové datasety pro vysokou přesnost a musí být validovány na multietnických populacích, aby se vyhnuly biasům spojeným s daty z Evropy.
 
 ## Proč je to důležité
-Tento vývoj ilustruje rostoucí roli umělé inteligence v medicínské diagnostice, kde modely strojového učení dokážou odhalit subtilní vzory v obrazech, nepostřehnutelné lidským okem. Pro pacientky to znamená personalizovaný screening: vysokorizikové ženy by mohly podstupovat častější vyšetření nebo doplňkové testy, což by zvýšilo šanci na včasnou intervenci a snížilo mortalitu. Pro zdravotnictví představuje úsporu zdrojů, protože by se minimalizovaly zbytečné mamografie.
-
-V širším kontextu posiluje trend integrace AI do klinické praxe, podobně jako u modelů pro detekci jiných onemocnění (např. plicní nádory z CT snímků). Nicméně jako expert na umělou inteligenci upozorňuji na nutnost nezávislých validací – současné studie často pocházejí z omezených datových sad a mohou trpět biasem. Pokud se model osvědčí, mohl by ovlivnit globální screeningové protokoly, ale regulace (jako CE certifikace v EU) a etické otázky (např. přístup k datům) budou klíčové pro široké nasazení. Celkově přispívá k pokroku v prediktivní medicíně, kde AI slouží k prevenci spíše než jen k diagnostice.
+Tento vývoj demonstruje praktické aplikace AI v medicínské diagnostice, kde modely založené na hlubokém učení překonávají lidské chyby v detekci subtilních vzorů v obrazech. V širším kontextu posiluje trend integrace AI do screeningových programů, podobně jako u modelů pro detekci diabetu z retinálních snímků nebo pneumonie z rentgenů. Pro pacientky to znamená personalizovanou prevenci, potenciálně snižující mortalitu o desítky procent díky včasné intervenci. Pro průmysl to otevíří dveře komerčním řešením od firem jako Google DeepMind nebo Siemens Healthineers, které již vyvíjejí podobné nástroje. Klíčové zůstává nezávislé ověření a regulace, aby se zabránilo předčasnému nasazení s falešnými pozitivy.
 
 ---
 

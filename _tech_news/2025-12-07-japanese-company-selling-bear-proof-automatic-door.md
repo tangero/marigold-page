@@ -2,10 +2,10 @@
 author: Marisa Aigen
 category: bezpečnostní hardwar
 date: '2025-12-07 05:00:42'
-description: Automatické dveře Mirairo Door jsou efektivní proti medvědům i lidem,
-  kteří nechtějí instalovat aplikaci. Japonské firmy Fulltech a Mirairo vyvinuly systém,
-  který umožňuje ovládání dveří přes Bluetooth na chytrém telefonu a řeší problémy
-  s medvědy pronikajícími do budov.
+description: Automatické dveře Mirairo Door od firem Fulltech a Mirairo jsou efektivní
+  proti medvědům i líným lidem. Vlna setkání s medvědy v Japonsku ukázala jejich schopnost
+  používat běžné automatické dveře, což vede k vývoji řešení s ovládáním přes Bluetooth
+  a aplikaci na smartphonu.
 importance: 3
 layout: tech_news_article
 original_title: Japanese company selling bear-proof automatic doors
@@ -15,33 +15,31 @@ source:
   emoji: 📰
   id: null
   name: SoraNews24
-title: Japonská společnost prodává automatické dveře odolné proti medvědům
+title: Japonská firma prodává automatické dveře odolné proti medvědům
 url: https://soranews24.com/2025/12/07/japanese-company-selling-bear-proof-automatic-doors/
 urlToImage: https://soranews24.com/wp-content/uploads/sites/3/2025/12/main.jpg?w=1200&h=559&crop=1
 urlToImageBackup: https://soranews24.com/wp-content/uploads/sites/3/2025/12/main.jpg?w=1200&h=559&crop=1
 ---
 
 ## Souhrn
-Japonské firmy Fulltech a Mirairo, specializující se na přístupné technologie pro lidi s pohybovými omezeními, uvádějí na trh automatické dveře Mirairo Door. Tyto dveře umožňují uživatelům nastavovat rychlost zavírání přes Bluetooth aplikaci na chytrém telefonu a zároveň brání medvědům v pronikání do budov, protože automatická funkce funguje pouze po párování s aplikací. Řešení reaguje na rostoucí počet incidentů, kdy medvědi v Japonsku bez problémů otevírají standardní automatické dveře.
+Dvě japonské firmy, Fulltech a Mirairo, vyvinuly automatické dveře Mirairo Door, které komunikují přes Bluetooth se smartphony. Původně určené pro osoby s omezenou pohyblivostí k úpravě rychlosti zavírání dveří, se ukázaly účinné proti medvědům, protože tyto dveře lze nastavit na automatické otevírání pouze pro uživatele s kompatibilní aplikací. Tím řeší bezpečnostní problémy v oblastech s častými medvědími výskyty bez ztráty přístupnosti pro lidi.
 
 ## Klíčové body
-- Dveře komunikují s chytrými telefony přes Bluetooth a umožňují personalizované nastavení rychlosti zavírání.
-- Automatická funkce se aktivuje pouze po instalaci a párování aplikace Mirairo Door, což medvědy blokuje.
-- Bez aplikace lze dveře otevřít touch spínači, které jsou náročnější na ovládání pro zvěř.
-- Původně navrženy pro lidi s různou úrovní pohyblivosti, nyní slouží i k ochraně budov před divokou zvěří.
-- Firmy Fulltech a Mirairo se zaměřují na bezbariérové systémy pro veřejné prostory.
+- Dveře se ovládají přes Bluetooth aplikaci Mirairo Door na smartphonu, která umožňuje nastavení rychlosti zavírání podle potřeb uživatele.
+- Režim omezeného přístupu: automatické otevírání funguje jen pro telefony s aplikací, což medvědy blokuje.
+- Dodatečné ovládání dotykovými spínači, které jsou přístupné i bez aplikace, ale tvoří vyšší překážku pro zvěř.
+- Vyvinuto pro osoby s postižením, adaptováno na ochranu před divokou zvěří v Japonsku.
+- Firmy Fulltech a Mirairo se zaměřují na přístupnostní technologie pro budovy.
 
 ## Podrobnosti
-V Japonsku došlo v posledních letech k výraznému nárůstu setkání s medvědy, které ohrožují obyvatele nejen v přírodě, ale i v městském prostředí. Medvědi prokazují nečekanou schopnost používat automatické dveře – některé modely otevírají bez problémů, což vede k invazím do obchodů, nemocnic či veřejných budov. V reakci na to mnoho zařízení přešlo na manuální dveře, což však zkomplikovalo přístup pro lidi s postižením. Právě tato skupina byla původním cílem vývoje Mirairo Door.
+V Japonsku došlo v poslední době k nečekané vlně setkání s medvědy, které dokázaly bez problémů procházet automatickými dveřmi veřejných budov a obchodů. Incidenty zachycené na videu ukazují medvědy, jak se přibližují k senzoru a dveře se otevírají – mladší jedinci se snažili déle, ale naučili se rychle. To vedlo k nebezpečným situacím, kdy lidé uvízli v uzavřených prostorech s predátory. Některé zařízení proto přešla na manuální režim, což však zkomplikovalo přístup pro osoby s pohybovým postižením.
 
-Fulltech a Mirairo, dvě japonské společnosti zaměřené na bezbariérové technologie, vyvinuly tento systém jako řešení pro osoby s omezenou pohyblivostí. Aplikace Mirairo Door, kterou si uživatel nainstaluje do chytrého telefonu, komunikuje s dveřmi přes Bluetooth. Umožňuje nastavit rychlost otevírání a zavírání dveří podle individuálních potřeb – pomalejší pro vozíčkáře nebo rychlejší pro ty, kteří potřebují více prostoru. Po párování se dveře automaticky otevřou při blížení telefonu, což zjednodušuje přístup.
+Firmy Fulltech a Mirairo, specializující se na technologie pro bezbariérový přístup, přišly s řešením Mirairo Door. Tyto automatické posuvné dveře používají Bluetooth k bezdrátové komunikaci se smartphony. Uživatel si stáhne aplikaci Mirairo Door, která po přiblížení telefonu detekuje dveře a umožní jejich otevření. Aplikace slouží primárně k personalizaci: uživatelé mohou upravit rychlost zavírání dveří, což je klíčové pro osoby s různou pohyblivostí – pomalejší zavírání pro ty, kteří potřebují více času na průchod. Dveře lze navíc nastavit do režimu, kde se automaticky otevírají pouze pro telefony s aktivní aplikací. Medvědi, nemajíce smartphony, tento režim nepřekonají.
 
-Klíčovou výhodou pro bezpečnost je možnost nastavení dveří tak, aby automatická funkce fungovala výhradně pro ověřené uživatele s aplikací. Medvědi, které smartphony nemají, tak musí použít touch spínače – senzorové tlačítka na otevření dveří. Tyto spínače jsou umístěny výš a vyžadují přesnější tlak, což pro zvěř představuje větší překážku než standardní infračervené senzory. Bez aplikace zůstávají dveře v manuálním nebo poloautomatickém režimu, který je stále přístupný pro většinu lidí.
-
-Instalace vyžaduje kompatibilní dveřní systém, ale funguje autonomně po počátečním nastavení. Aplikace slouží nejen k ovládání, ale i k monitoringu – uživatelé mohou vidět stav dveří nebo historii otevírání. Nevýhodou je závislost na chytrém telefonu a baterii; pokud telefon selže, dveře nelze otevřít automaticky. Firmy testovaly systém v reálných podmínkách, kde prokázal účinnost proti medvědům i jiným zvířatům, jako jsou lišky nebo prasata.
+Bez aplikace zůstávají dveře funkční přes dotykové spínače, které vyžadují fyzický kontakt. To je jednodušší než u běžných senzorových dveří, ale pro medvěda představuje větší výzvu než pasivní senzor pohybu. Instalace vyžaduje kompatibilní hardware a aplikaci, což může být nevýhodou pro ty, kdo si ji nechtějí stahovat. Systém je navržen pro komerční budovy, školy a veřejná zařízení v rizikových oblastech. V porovnání s manuálními dveřmi zachovává přístupnost a přidává vrstvu bezpečnosti založenou na IoT principech.
 
 ## Proč je to důležité
-Toto řešení ukazuje, jak technologie původně určené pro přístupnost mohou řešit širší bezpečnostní problémy v oblastech s divokou zvěří. V Japonsku, kde medvědi ohrožují více než 100 incidentů ročně, pomáhá udržet rovnováhu mezi bezpečností a přístupností bez nutnosti plného přechodu na manuální dveře. V širším kontextu demonstruje integraci IoT prvků, jako je Bluetooth, do bezpečnostního hardware. Pro průmysl to znamená nové aplikace v chytrých budovách – od nemocnic po venkovské oblasti – kde lze podobné systémy rozšířit o kamerovou detekci nebo integraci s bezpečnostními systémy. Pro uživatele s postižením zlepšuje mobilitu, zatímco pro veřejnost snižuje rizika invazí zvěří. Celkově představuje praktický příklad, jak adaptace existujících technologií řeší lokální krize efektivněji než radikální změny infrastruktury.
+Toto řešení demonstruje, jak existující technologie jako Bluetooth Low Energy a mobilní aplikace mohou být adaptovány pro nečekané bezpečnostní výzvy. V širším kontextu posiluje trend IoT v bezpečnostním hardwaru, kde přístupová práva závisí na autentizaci zařízení spíše než na univerzálních senzorech. Pro Japonsko, kde medvědí incidenty narůstají kvůli urbanizaci a změnám v potravním řetězci, nabízí praktickou ochranu bez diskriminace lidských uživatelů. Pro průmysl to znamená nové aplikace přístupnostních technologií v ochraně před zvěří, s potenciálem rozšíření do jiných zemí s podobnými problémy, jako jsou USA nebo Kanada. Celkově ukazuje, jak kombinace hardware a software řeší reálné problémy bez nutnosti radikálních změn infrastruktury.
 
 ---
 
