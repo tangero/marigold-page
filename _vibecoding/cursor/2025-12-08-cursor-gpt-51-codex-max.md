@@ -9,13 +9,6 @@ categories:
 - vývojové nástroje
 layout: post
 post_excerpt: Cursor zveřejnil technické detaily implementace GPT-5.1-Codex-Max. Úpravy agentního systému odhalují praktické kompromisy mezi autonomií a kontrolou.
-summary_points:
-- Cursor upravil své agentní rozhraní pro podporu OpenAI GPT-5.1-Codex-Max modelu
-- Codex vyžaduje zachování reasoning traces, jejich ztráta způsobila 30% pokles výkonu
-- Model preferuje práci přes shell příkazy místo přímého volání nástrojů
-- Reasoning summaries nahrazují běžnou komunikaci během práce agenta
-- Explicitní instrukce jsou nutné pro použití linteru a agresivní autonomní chování
-- Pořadí zpráv v kontextu má kritický vliv na ochotu modelu plnit úkoly
 title: Cursor zveřejnil technické detaily implementace GPT-5.1-Codex-Max
 ---
 
