@@ -7,6 +7,16 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Added
+- **Hybridní navigační menu** - implementována dropdown navigace s tlačítkem "Další ☰"
+  - Hlavní položky zůstávají viditelné: 🔍 | 🧑‍💻 Kurzy AI | 🖥️ Vibecoding | 🗼 4G/5G | 🤖 AI
+  - Pod tlačítko "Další" schovány: 💻 Zprávy | 🖼️ Obrazy
+  - Čistý minimalistický design s dropdown menu pod tlačítkem "Další"
+  - Vanilla JavaScript pro toggle funkčnost (bez závislostí)
+  - Kompletní přístupnost: aria-expanded, keyboard navigation (Enter/Space/Escape)
+  - Responzivní na mobilu - dropdown centrovaný, fade-in animace
+  - Kliknutí mimo nebo Escape zavře menu
+
 ### Changed
 - **LLM model pro tech-news změněn z `qwen/qwen3-max` na `x-ai/grok-4.1-fast:free`** (`scripts/generate_tech_news_newsapi.py`)
   - Nový primární model: `x-ai/grok-4.1-fast:free` (bezplatný)
@@ -141,4 +151,4 @@ Formát: `MAJOR.MINOR.PATCH`
 
 ---
 
-**Aktualizováno**: 2025-11-15
+**Aktualizováno**: 2025-12-08

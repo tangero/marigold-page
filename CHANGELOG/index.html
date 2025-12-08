@@ -199,7 +199,20 @@
             </div>
 
             <nav>
-              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+              <a href="/search">🔍</a> |
+              <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> |
+              <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> |
+              <a href="/mobilnisite">🗼 4G/5G</a> |
+              <a href="/ai">🤖 AI</a> |
+              <span class="nav-dropdown">
+                <button class="nav-dropdown-toggle" aria-expanded="false" aria-label="Další menu">
+                  Další ☰
+                </button>
+                <div class="nav-dropdown-menu" role="menu">
+                  <a href="/tech-news/" role="menuitem">💻 Zprávy</a>
+                  <a href="/obrazy" role="menuitem">🖼️ Obrazy</a>
+                </div>
+              </span>
             </nav>
           </header>
         </div>
@@ -221,6 +234,42 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h2 id="unreleased">[Unreleased]</h2>
 
+<h3 id="added">Added</h3>
+<ul>
+  <li><strong>Hybridní navigační menu</strong> - implementována dropdown navigace s tlačítkem “Další ☰”
+    <ul>
+      <li>
+        <table>
+          <tbody>
+            <tr>
+              <td>Hlavní položky zůstávají viditelné: 🔍</td>
+              <td>🧑‍💻 Kurzy AI</td>
+              <td>🖥️ Vibecoding</td>
+              <td>🗼 4G/5G</td>
+              <td>🤖 AI</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+      <li>
+        <table>
+          <tbody>
+            <tr>
+              <td>Pod tlačítko “Další” schovány: 💻 Zprávy</td>
+              <td>🖼️ Obrazy</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+      <li>Čistý minimalistický design s dropdown menu pod tlačítkem “Další”</li>
+      <li>Vanilla JavaScript pro toggle funkčnost (bez závislostí)</li>
+      <li>Kompletní přístupnost: aria-expanded, keyboard navigation (Enter/Space/Escape)</li>
+      <li>Responzivní na mobilu - dropdown centrovaný, fade-in animace</li>
+      <li>Kliknutí mimo nebo Escape zavře menu</li>
+    </ul>
+  </li>
+</ul>
+
 <h3 id="changed">Changed</h3>
 <ul>
   <li><strong>LLM model pro tech-news změněn z <code class="language-plaintext highlighter-rouge">qwen/qwen3-max</code> na <code class="language-plaintext highlighter-rouge">x-ai/grok-4.1-fast:free</code></strong> (<code class="language-plaintext highlighter-rouge">scripts/generate_tech_news_newsapi.py</code>)
@@ -234,7 +283,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
   </li>
 </ul>
 
-<h3 id="added">Added</h3>
+<h3 id="added-1">Added</h3>
 <ul>
   <li><strong>Seznam.cz Discussion System</strong> - nativní diskuzní systém místo commentbox.io
     <ul>
@@ -370,7 +419,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h2 id="100---2025-08-25">[1.0.0] - 2025-08-25</h2>
 
-<h3 id="added-1">Added</h3>
+<h3 id="added-2">Added</h3>
 <ul>
   <li>Základní Jekyll struktura projektu</li>
   <li>Kolekce: <code class="language-plaintext highlighter-rouge">_posts</code>, <code class="language-plaintext highlighter-rouge">_tech_news</code>, <code class="language-plaintext highlighter-rouge">_ai</code>, <code class="language-plaintext highlighter-rouge">_mobilnisite</code>, <code class="language-plaintext highlighter-rouge">_obrazy</code></li>
@@ -407,7 +456,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <hr />
 
-<p><strong>Aktualizováno</strong>: 2025-11-15</p>
+<p><strong>Aktualizováno</strong>: 2025-12-08</p>
 
   </div>
 </article>
@@ -417,24 +466,114 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
       <div class="wrapper-footer">
         <div class="container">
-          <footer class="footer">
-            
-<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
-<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+          <footer class="site-footer">
+  <div class="footer-grid">
 
+    <!-- Sloupec 1: O autorovi -->
+    <div class="footer-column footer-about">
+      <h3>Patrick Zandl</h3>
+      <p class="footer-bio">Autor, technologický nadšenec a blogger. Píšu o technologiích, AI a mobilních sítích.</p>
 
-<a href="/changelog/" class="changelog-link" title="Historie změn projektu">📋 Changelog</a>
+      <div class="footer-social">
+        
+          <a href="mailto:patrick.zandl@marigold.cz" title="Email" aria-label="Email">
+            <i class="svg-icon email"></i>
+          </a>
+        
 
-<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+        
+          <a href="https://www.facebook.com/patrick.zandl" title="Facebook" aria-label="Facebook">
+            <i class="svg-icon facebook"></i>
+          </a>
+        
 
-<a href="/feed.xml"><i class="svg-icon rss"></i></a>
-<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+        
+          <a href="https://www.twitter.com/tangero" title="Twitter" aria-label="Twitter">
+            <i class="svg-icon twitter"></i>
+          </a>
+        
 
+        
+          <a href="https://www.linkedin.com/in/patrickzandl" title="LinkedIn" aria-label="LinkedIn">
+            <i class="svg-icon linkedin"></i>
+          </a>
+        
 
+        
 
+        
+      </div>
+    </div>
 
+    <!-- Sloupec 2: Projekty -->
+    <div class="footer-column footer-projects">
+      <h3>Projekty</h3>
+      <ul class="footer-links">
+        <li>
+          <a href="https://www.marigold.cz">
+            <strong>Marigold.cz</strong>
+            <span>Technologie a svět</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.zitraslavni.cz">
+            <strong>Zítřaslavní.cz</strong>
+            <span>Kreativní psaní a Klub zítřaslavných autorů</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.vibecoding.cz">
+            <strong>VibeCoding.cz</strong>
+            <span>Vibe coding a programování s podporou AI</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.topflix.cz">
+            <strong>TopFlix.cz</strong>
+            <span>Nové filmy a seriály na Netflixu</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://zandl.substack.com">
+            <strong>Substack Newsletter</strong>
+            <span>Novinky o technice a AI</span>
+          </a>
+        </li>
+      </ul>
+    </div>
 
-          </footer>
+    <!-- Sloupec 3: Rychlé odkazy -->
+    <div class="footer-column footer-quick-links">
+      <h3>Rychlé odkazy</h3>
+      <ul class="footer-links">
+        <li>
+          <a href="/feed.xml">
+            <i class="svg-icon rss"></i>
+            <strong>RSS Feed</strong>
+          </a>
+        </li>
+        <li>
+          <a href="/changelog/">
+            <strong>Changelog</strong>
+            <span>Historie změn projektu</span>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:patrick.zandl@marigold.cz">
+            <strong>Kontakt</strong>
+            <span>patrick.zandl@marigold.cz</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2025 Marigold.cz. Vytvořeno s <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+  </div>
+</footer>
+
         </div>
       </div>
     </div>
@@ -451,7 +590,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
     function toggleDetails(button) {
       const content = button.nextElementSibling;
       const isCollapsed = button.classList.contains('collapsed');
-      
+
       if (isCollapsed) {
         button.classList.remove('collapsed');
         content.classList.add('show');
@@ -460,6 +599,48 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
         content.classList.remove('show');
       }
     }
+
+    // Navigační dropdown
+    (function() {
+      const dropdownToggle = document.querySelector('.nav-dropdown-toggle');
+      const dropdownMenu = document.querySelector('.nav-dropdown-menu');
+
+      if (dropdownToggle && dropdownMenu) {
+        // Toggle dropdown při kliknutí
+        dropdownToggle.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          const isExpanded = dropdownToggle.getAttribute('aria-expanded') === 'true';
+
+          dropdownToggle.setAttribute('aria-expanded', !isExpanded);
+          dropdownMenu.classList.toggle('show');
+        });
+
+        // Zavřít při kliknutí mimo
+        document.addEventListener('click', function(e) {
+          if (!e.target.closest('.nav-dropdown')) {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+
+        // Keyboard navigation
+        dropdownToggle.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            dropdownToggle.click();
+          }
+        });
+
+        // Escape key zavře menu
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape') {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+      }
+    })();
     </script>
   </body>
 </html>

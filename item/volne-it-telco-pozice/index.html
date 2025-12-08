@@ -240,7 +240,20 @@ Práce mají dost, klienty mají z velké části nasmlouvané už z UK (nebudu 
             </div>
 
             <nav>
-              <a href="/search">🔍</a> | <a href="/tech-news/">💻 Zprávy</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+              <a href="/search">🔍</a> |
+              <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> |
+              <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> |
+              <a href="/mobilnisite">🗼 4G/5G</a> |
+              <a href="/ai">🤖 AI</a> |
+              <span class="nav-dropdown">
+                <button class="nav-dropdown-toggle" aria-expanded="false" aria-label="Další menu">
+                  Další ☰
+                </button>
+                <div class="nav-dropdown-menu" role="menu">
+                  <a href="/tech-news/" role="menuitem">💻 Zprávy</a>
+                  <a href="/obrazy" role="menuitem">🖼️ Obrazy</a>
+                </div>
+              </span>
             </nav>
           </header>
         </div>
@@ -590,10 +603,10 @@ window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
           
             <tr>
               <td>
-                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
                 <p class="excerpt">
                   
-                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
                   
                 </p>
               </td>
@@ -601,10 +614,11 @@ window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
+                    ---
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
                   
                 </p>
               </td>
@@ -720,24 +734,114 @@ function showToast() {
 
       <div class="wrapper-footer">
         <div class="container">
-          <footer class="footer">
-            
-<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
-<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+          <footer class="site-footer">
+  <div class="footer-grid">
 
+    <!-- Sloupec 1: O autorovi -->
+    <div class="footer-column footer-about">
+      <h3>Patrick Zandl</h3>
+      <p class="footer-bio">Autor, technologický nadšenec a blogger. Píšu o technologiích, AI a mobilních sítích.</p>
 
-<a href="/changelog/" class="changelog-link" title="Historie změn projektu">📋 Changelog</a>
+      <div class="footer-social">
+        
+          <a href="mailto:patrick.zandl@marigold.cz" title="Email" aria-label="Email">
+            <i class="svg-icon email"></i>
+          </a>
+        
 
-<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+        
+          <a href="https://www.facebook.com/patrick.zandl" title="Facebook" aria-label="Facebook">
+            <i class="svg-icon facebook"></i>
+          </a>
+        
 
-<a href="/feed.xml"><i class="svg-icon rss"></i></a>
-<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+        
+          <a href="https://www.twitter.com/tangero" title="Twitter" aria-label="Twitter">
+            <i class="svg-icon twitter"></i>
+          </a>
+        
 
+        
+          <a href="https://www.linkedin.com/in/patrickzandl" title="LinkedIn" aria-label="LinkedIn">
+            <i class="svg-icon linkedin"></i>
+          </a>
+        
 
+        
 
+        
+      </div>
+    </div>
 
+    <!-- Sloupec 2: Projekty -->
+    <div class="footer-column footer-projects">
+      <h3>Projekty</h3>
+      <ul class="footer-links">
+        <li>
+          <a href="https://www.marigold.cz">
+            <strong>Marigold.cz</strong>
+            <span>Technologie a svět</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.zitraslavni.cz">
+            <strong>Zítřaslavní.cz</strong>
+            <span>Kreativní psaní a Klub zítřaslavných autorů</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.vibecoding.cz">
+            <strong>VibeCoding.cz</strong>
+            <span>Vibe coding a programování s podporou AI</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.topflix.cz">
+            <strong>TopFlix.cz</strong>
+            <span>Nové filmy a seriály na Netflixu</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://zandl.substack.com">
+            <strong>Substack Newsletter</strong>
+            <span>Novinky o technice a AI</span>
+          </a>
+        </li>
+      </ul>
+    </div>
 
-          </footer>
+    <!-- Sloupec 3: Rychlé odkazy -->
+    <div class="footer-column footer-quick-links">
+      <h3>Rychlé odkazy</h3>
+      <ul class="footer-links">
+        <li>
+          <a href="/feed.xml">
+            <i class="svg-icon rss"></i>
+            <strong>RSS Feed</strong>
+          </a>
+        </li>
+        <li>
+          <a href="/changelog/">
+            <strong>Changelog</strong>
+            <span>Historie změn projektu</span>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:patrick.zandl@marigold.cz">
+            <strong>Kontakt</strong>
+            <span>patrick.zandl@marigold.cz</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2025 Marigold.cz. Vytvořeno s <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+  </div>
+</footer>
+
         </div>
       </div>
     </div>
@@ -754,7 +858,7 @@ function showToast() {
     function toggleDetails(button) {
       const content = button.nextElementSibling;
       const isCollapsed = button.classList.contains('collapsed');
-      
+
       if (isCollapsed) {
         button.classList.remove('collapsed');
         content.classList.add('show');
@@ -763,6 +867,48 @@ function showToast() {
         content.classList.remove('show');
       }
     }
+
+    // Navigační dropdown
+    (function() {
+      const dropdownToggle = document.querySelector('.nav-dropdown-toggle');
+      const dropdownMenu = document.querySelector('.nav-dropdown-menu');
+
+      if (dropdownToggle && dropdownMenu) {
+        // Toggle dropdown při kliknutí
+        dropdownToggle.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          const isExpanded = dropdownToggle.getAttribute('aria-expanded') === 'true';
+
+          dropdownToggle.setAttribute('aria-expanded', !isExpanded);
+          dropdownMenu.classList.toggle('show');
+        });
+
+        // Zavřít při kliknutí mimo
+        document.addEventListener('click', function(e) {
+          if (!e.target.closest('.nav-dropdown')) {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+
+        // Keyboard navigation
+        dropdownToggle.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            dropdownToggle.click();
+          }
+        });
+
+        // Escape key zavře menu
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape') {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+      }
+    })();
     </script>
   </body>
 </html>
