@@ -10,9 +10,8 @@ summary_points:
 - Model využívá kompaktní paměťové tokeny namísto hrubého textu a dokáže komprimovat vstupy 32× až 64×
 - Návod na spuštění CLaRa-7B na běžném GPU a výčet potřebných softwarových prostředí
 - Praktický popis implementace a výhod CLaRa-7B oproti tradičním RAG přístupům při lokálním zpracování dat
-post_excerpt: Neorientujete se tak dobře na trhu LLM a nevíte, jaký model pro jaké použití je vhodný? Tak tento článek vám to řekne buďto stručně, nebo v souvislostech... 
+excerpt: "Apple přináší nový zajímavý model sjednocující vyhledávání a generování odpovědí do jednoho spojitého modelu."
 title: "Apple CLaRa-7B: zajímavá varianta pro lokální RAG (Rozšířeném generování s vyhledáváním)"
-thumbnail: 
 ---
 
 Jako vývojáři AI systémů často u architektury RAG (Retrieval-Augmented Generation) narážíme na zásadní limit: oddělení vyhledávače (retriever) a generátoru. Tradiční systémy hledají dokumenty na základě povrchní podobnosti textu a generátor následně zpracovává hrubá data. Tím vzniká "rozbitý gradient", kdy se model neumí učit jako celek.
