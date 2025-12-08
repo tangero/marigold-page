@@ -61,83 +61,6 @@ pip install "huggingface_hub[cli]"
 huggingface-cli login
 # Poznámka: Ověřte aktuální ID repozitáře na HF, níže je příklad pro stažení do složky
 huggingface-cli download apple/ml-clara-7b --local-dir ./models/clara-7b
-
-Provedl jsem revizi textu. Zde jsou provedené změny a důvody:
-
-Doplnění stažení modelu: V sekci Instalace chyběl klíčový krok – stažení samotného modelu z Hugging Face. Bez toho by Python skript odkazující na ./models/clara-7b nefungoval. Přidal jsem příkaz huggingface-cli download.
-
-Oprava překlepu: Ve větě „tedyzhuštěné“ chyběla mezera.
-
-Technická úprava instalace: K instalaci flash-attn jsem přidal příznak --no-build-isolation, což je častá nutnost pro úspěšnou kompilaci na mnoha systémech.
-
-Odstranění superlativů: Zmírnil jsem slova jako "extrémní" nebo "dramaticky" na věcnější "vysoká" a "významně", dle tvých preferencí.
-
-Zde je opravený, plně funkční článek:
-
-Markdown
----
-author: Patrick Zandl
-categories:
-- AI
-- RAG
-layout: post
-summary_points:
-- Apple představil model CLaRa-7B pro efektivní lokální RAG aplikace (Retrieval-Augmented Generation)
-- CLaRa-7B spojuje vyhledávání a generování v jednom modelu – umožňuje end-to-end učení a lepší výsledky s menším kontextem
-- Model využívá kompaktní paměťové tokeny namísto hrubého textu a dokáže komprimovat vstupy 32× až 64×
-- Návod na spuštění CLaRa-7B na běžném GPU a výčet potřebných softwarových prostředí
-- Praktický popis implementace a výhod CLaRa-7B oproti tradičním RAG přístupům při lokálním zpracování dat
-post_excerpt: Neorientujete se tak dobře na trhu LLM a nevíte, jaký model pro jaké použití je vhodný? Tak tento článek vám to řekne buďto stručně, nebo v souvislostech... 
-title: "Apple CLaRa-7B: zajímavá varianta pro lokální RAG (Rozšířeném generování s vyhledáváním)"
-thumbnail: 
----
-
-Jako vývojáři AI systémů často u architektury RAG (Retrieval-Augmented Generation) narážíme na zásadní limit: oddělení vyhledávače (retriever) a generátoru. Tradiční systémy hledají dokumenty na základě povrchní podobnosti textu a generátor následně zpracovává hrubá data. Tím vzniká "rozbitý gradient", kdy se model neumí učit jako celek.
-
-Apple [s modelem CLaRa (Continuous Latent Reasoning)](https://github.com/apple/ml-clara) přináší řešení, které sjednocuje vyhledávání a generování do jednoho spojitého prostoru. Níže popíšu, jak tento systém funguje a jak na něm postavit lokální aplikaci.
-
-### 1. Co je CLaRa a v čem je jiná
-
-CLaRa nemapuje dokumenty na hrubý text, ale na kompaktní paměťové tokeny (tedy zhuštěné vektorové reprezentace). To přináší dvě hlavní výhody:
-
-- **End-to-End učení:** Vyhledávač dostává zpětnou vazbu přímo z chybové funkce generátoru. Učí se tedy vybírat ty dokumenty, které skutečně pomáhají odpovědět na otázku, ne jen ty, které vypadají podobně.
-
-- **Vysoká komprese:** Model dokáže zkomprimovat kontext 32x až 64x [07:16]. To významně snižuje nároky na délku kontextového okna (Context Window) a zrychluje výpočet.
-
-Pojďme si Claru zprovoznit pro vaše lokální řešení.
-
-### 2. Příprava lokálního prostředí
-
-Pro běh modelu budete potřebovat stroj s GPU, ideálně s podporou CUDA. Na test byl použit hardware s 48 GB VRAM, ale při běhu si model řekl o méně než 15 GB VRAM, což jej činí dostupným i pro spotřebitelské karty (např. RTX 3090/4090).
-
-**Softwarové prerekvizity:**
-
-- Linux (Ubuntu) nebo WSL2 na Windows.
-- Python 3.10 (doporučeno spravovat přes Conda).
-- Knihovny transformers a torch.
-
-**Instalace:**
-
-Klíčovým krokem je instalace knihovny transformers ze zdrojového kódu a následné stažení modelu do lokální složky, aby na něj mohl skript odkazovat.
-
-```bash
-# 1. Vytvoření prostředí
-conda create -n clara python=3.10 -y
-conda activate clara
-
-# 2. Instalace závislostí
-# (Ujistěte se, že máte nainstalované CUDA ovladače)
-pip install torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
-pip install git+[https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
-pip install accelerate deepspeed 
-pip install flash-attn --no-build-isolation
-
-# 3. Stažení modelu
-# Nainstalujeme CLI pro Hugging Face a stáhneme model lokálně
-pip install "huggingface_hub[cli]"
-huggingface-cli login
-# Poznámka: Ověřte aktuální ID repozitáře na HF, níže je příklad pro stažení do složky
-huggingface-cli download apple/ml-clara-7b --local-dir ./models/clara-7b
 ```
 
 ### 3. Implementace RAG aplikace
@@ -212,7 +135,7 @@ Pro pochopení chování aplikace je nutné zmínit techniku SCP (Salient Compre
 
 To znamená, že vaše aplikace bude velmi odolná vůči "šumu" v dokumentech. Pokud do systému vložíte logy nebo technické zprávy, CLaRa si vytáhne pouze podstatnou informaci pro odpověď a zbytek ignoruje, čímž šetří výpočetní výkon.
 
-###5. Shrnutí pro vývojáře
+### 5. Shrnutí pro vývojáře
 
 Postavení lokální aplikace na CLaRa-7B přináší specifické výhody oproti běžnému stacku (např. Llama 3 + LangChain):
 
