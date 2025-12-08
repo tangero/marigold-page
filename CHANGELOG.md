@@ -17,7 +17,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Responzivní na mobilu - dropdown centrovaný, fade-in animace
   - Kliknutí mimo nebo Escape zavře menu
 - **Archivace tech_news** - automatické převádění starých článků na statické HTML
-  - Nový skript `scripts/archive_tech_news.py` - archivuje články starší než 50 dní
+  - Nový skript `scripts/archive_tech_news.py` - archivuje články starší než 7 dní
   - Staré články se převedou na statické HTML do `tech-news-archive/`
   - Jekyll zpracovává pouze čerstvé články - rychlejší build
   - Integrace do GitHub Actions workflow (build.yml)
