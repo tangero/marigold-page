@@ -4,9 +4,9 @@ category: ai
 companies:
 - Credo Technology
 date: '2025-12-07 12:05:00'
-description: Akcie firmy Credo Technology Group výrazně rostou díky poptávce po jejich
-  technologiích pro datová centra poháněná AI. Analýza zkoumá, zda se jedná o perspektivní
-  investici v oblasti umělé inteligence.
+description: Akcie firmy Credo Technology výrazně rostou díky poptávce po jejich vysokorychlostních
+  konektivitních řešeních pro AI datová centra. Článek zkoumá, zda se jedná o vhodnou
+  investici do AI infrastruktury pro příští roky.
 importance: 3
 layout: tech_news_article
 original_title: Credo Technology Stock Is Soaring. Is This a Top AI Play for 2026?
@@ -16,30 +16,30 @@ source:
   emoji: 📰
   id: null
   name: Yahoo Entertainment
-title: Akcie společnosti Credo Technology stoupají. Je to špičková AI investice pro
-  rok 2026?
+title: Akcie společnosti Credo Technology stoupají. Je to perspektivní AI investice
+  pro rok 2026?
 url: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_518c0a7a-6464-4683-88bb-08dbae4d5f4f
 ---
 
 ## Souhrn
-Akcie společnosti Credo Technology Group, která se specializuje na vysokorychlostní konektivitu pro datová centra, v posledních měsících výrazně rostou. Tento růst je spojen s expanzí AI infrastruktury, kde jsou klíčové rychlé Ethernet připojení pro GPU clustery. Článek zkoumá, zda by Credo mohlo být jednou z hlavních sázek na AI trh v roce 2026.
+Akcie společnosti Credo Technology, která se specializuje na vysokorychlostní přenosová řešení pro datová centra, v posledních měsících výrazně rostou díky boomu umělé inteligence. Investoři vidí v ní klíčového dodavatele komponent pro AI tréninkové clustery, ale otázka zůstává, zda tento růst udrží dlouhodobě.
 
 ## Klíčové body
-- Akcie Credo vzrostly o více než 100 % za poslední rok díky poptávce po AI hardware.
-- Firma dodává řešení pro vysokorychlostní Ethernet (až 800 Gbps) a optické transceivery, nezbytné pro trénink velkých AI modelů.
-- Klíčoví zákazníci zahrnují hyperscalery jako Microsoft, Google a dodavatele GPU jako NVIDIA.
-- Očekávaný růst trhu AI konektivity přesáhne 50 miliard dolarů do roku 2026.
-- Rizika zahrnují konkurenci od Broadcomu a závislost na cyklech datových center.
+- Akcie CRDO vzrostly o více než 100 % za rok díky poptávce po 800G optických transceiverech.
+- Firma dodává technologie pro hyperskalery jako Microsoft a Google, kteří rozšiřují AI infrastrukturu.
+- Očekávaný růst trhu s AI konektivitou na 20 miliard dolarů do roku 2026.
+- Rizika: závislost na Nvidia a možný zpomalení AI investic.
+- Tržní kapitalizace překročila 5 miliard dolarů.
 
 ## Podrobnosti
-Credo Technology Group Holding Ltd je americká firma se sídlem v Kalifornii, která se zaměřuje na návrh a výrobu polovodičových řešení pro vysokorychlostní signální zpracování. Jejich hlavní produkty zahrnují serializer/deserializer (SerDes) čipy, digitální signální procesory (DSP) pro Ethernet a aktivní optické kabely (AOC) a transceivery. Tyto komponenty slouží k přenosu dat mezi servery v datových centrech rychlostmi od 100 Gbps až po 1,6 Tbps, což je esenciální pro propojení tisíců GPU v clusterech používaných pro trénink modelů jako GPT nebo Llama.
+Credo Technology Group, americká firma se sídlem v Kalifornii, se zaměřuje na návrh a výrobu vysokorychlostních sériových převodníků (SerDes) a optických řídících procesorů (DSP) pro datová centra. Tyto komponenty umožňují přenos dat rychlostmi 100 Gbps až 1,6 Tbps přes optická vlákna, což je nezbytné pro propojení tisíců GPU v AI tréninkových shlucích. Například jejich HI-O platforma podporuje Ethernet standardy 400G a 800G, které hyperscale provozovatelé jako Amazon Web Services, Meta nebo Oracle nasazují pro zpracování obrovských datových proudů v modelech jako GPT-4 nebo Llama.
 
-Růst akcií (CRDO na Nasdaq) byl vyvolán zprávami o silných objednávkách v Q3 fiskálního roku 2024, kdy tržby vzrostly o 86 % na 175 milionů dolarů. Credo profituje z boomu AI, protože tradiční Ethernet řešení nestačí na latenci a propustnost potřebnou pro AI workloads. Například jejich HiWire AECs (active electrical cables) umožňují připojení GPU bez optických ztrát až na 3 metry, což snižuje náklady oproti optickým řešením. Firma také rozvíjí DSP pro 800 Gbps Ethernet, kompatibilní se standardy IEEE 802.3, které hyperscaleři jako Amazon a Meta nasazují v nových AI farmách.
+Růst akcií byl vyvolán silnými čtvrtletními výsledky za fiskální rok 2024, kdy příjmy stouply o 85 % na 436 milionů dolarů, převážně díky segmentu AI konektivity, který tvoří 70 % tržeb. Klíčovým faktorem je partnerství s Nvidia, jejíž GPU clustery vyžadují nízkou latenci a vysokou propustnost pro efektivní školení velkých jazykových modelů (LLM). Credo také dodává řešení pro pluggable optické moduly, které zjednodušují upgrade datových center bez nutnosti měnit celou infrastrukturu.
 
-V kontextu AI ekosystému Credo není přímo vývojář modelů, ale poskytuje kritickou vrstvu infrastruktury. Bez rychlé konektivity by trénink modelů s miliardami parametrů trval týdny místo dní. Srovnání s konkurencí: Broadcom dominuje v DSP, ale Credo má výhodu v nižších cenách a rychlejší integraci s NVIDIA DGX systémy. V roce 2024 Credo oznámilo partnerství s několika OEM pro AI rack designy, což posílilo jejich pozici. Finančně vykazuje ziskovost s hrubou marží 66 %, ale závisí na dodavatelských řetězcích TSMC pro výrobu.
+V porovnání s konkurenty jako Broadcom nebo Marvell má Credo výhodu v nižší spotřebě energie – jejich DSP čipy spotřebují až o 40 % méně než předchozí generace, což je kritické v době, kdy AI datová centra spotřebovávají ekvivalent energie malé země. Nicméně firma je stále relativně malá s tržní kapitalizací kolem 6 miliard dolarů a závisí na cyklické poptávce po AI hardwaru. Pokud se investice do AI zpomalí, jako naznačují některé prognózy po hype kolem ChatGPT, mohl by růst akcionářů rychle zvrátit.
 
 ## Proč je to důležité
-Růst Credo odráží širší trend v AI infrastruktuře, kde konektivita tvoří až 20 % nákladů na nové datové centra. Do roku 2026 analytici (např. Dell'Oro Group) očekávají, že trh s Ethernet pro AI překročí 50 miliard dolarů ročně, poháněný poptávkou po modelech s triliony parametrů. Pro investory to znamená expozici k AI bez rizik velkých hráčů jako NVIDIA, ale s volatilitou spojenou s hospodářskými cykly. Pro průmysl podtrhuje, jak specializované firmy jako Credo umožňují škálování AI, přičemž jejich technologie ovlivňují efektivitu tréninku a inference. Kriticky řečeno, dlouhodobý úspěch závisí na udržení tempa inovací oproti čínským konkurentům a potenciálním zpomalením AI hype.
+Tento růst podtrhuje, že AI revoluce není jen o modelech a GPU, ale závisí na celé infrastruktuře konektivity. Pro průmysl znamená posílení dodavatelského řetězce pro hyperscalery, což urychluje nasazení větších AI systémů. Pro investory je Credo zajímavou volbou v segmentu AI enablerů, ale s riziky volatility – podobně jako u jiných firem jako Super Micro Computer. V širším kontextu ukazuje, jak se AI poptávka rozléhá do méně viditelných oblastí, jako jsou optické sítě, které budou klíčové pro škálování k AGI úrovni do roku 2026.
 
 ---
 

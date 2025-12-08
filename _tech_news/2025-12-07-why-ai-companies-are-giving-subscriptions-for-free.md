@@ -3,7 +3,7 @@ author: Marisa Aigen
 category: umělá inteligence
 date: '2025-12-07 10:28:25'
 description: AI společnosti vidí Indii jako ideální zdroj dat pro trénink svých modelů.
-  Chybí však transparentnost ohledně těchto datových sad, což vyvolává obavy a právní
+  Přitom chybí transparentnost ohledně těchto datových sad, což vyvolává obavy a právní
   šetření jejich praktik.
 importance: 3
 layout: tech_news_article
@@ -20,29 +20,27 @@ urlToImage: https://images.indianexpress.com/2025/12/Tech-feature-images178.jpg
 urlToImageBackup: https://images.indianexpress.com/2025/12/Tech-feature-images178.jpg
 ---
 
-### Souhrn
-AI společnosti jako Perplexity, Google a OpenAI nabízejí v Indii dlouhodobá bezplatná předplatná svých prémiových služeb, často prostřednictvím telekomunikačních operátorů. Tato strategie slouží především k získání obrovského množství uživatelských dat pro trénink AI modelů. Indie s více než miliardou obyvatel představuje klíčový trh pro sběr dat, avšak absence transparentnosti vyvolává právní a etické otázky.
+## Souhrn
+AI společnosti jako Perplexity, Google a OpenAI nabízejí svá prémiová předplatná zdarma milionům uživatelů v Indii prostřednictvím partnerství s telekomunikačními operátory jako Airtel a Reliance Jio. Tato strategie slouží k rychlému získání obrovského množství uživatelských dat pro trénink modelů umělé inteligence. Nicméně absence transparentnosti v používání těchto dat vyvolává etické a právní otázky.
 
-### Klíčové body
-- Perplexity Pro zdarma s plány Airtel až do července 2026, hodnota 17 000 rupií ročně.
-- Google AI Pro zdarma na 18 měsíců pro vybrané uživatele Reliance Jio.
-- OpenAI nabízí ChatGPT Go zdarma na jeden rok, normálně 399 rupií měsíčně.
-- Strategie zaměřená na sběr dat z indického trhu pro zlepšení AI modelů.
-- Obavy z nedostatku transparentnosti a potenciálních právních rizik.
+## Klíčové body
+- Perplexity Pro (prémiová verze AI vyhledávače) zdarma s plány Airtel do července 2026, hodnota 17 000 rupií.
+- Google AI Pro (prémiové AI funkce včetně 2 TB úložiště) zdarma na 18 měsíců přes Jio.
+- OpenAI ChatGPT Go (nízkonákladová verze ChatGPT za 399 rupií měsíčně) zdarma na rok.
+- Indie jako klíčový trh díky 1,4 miliardy obyvatelům a vysoké penetraci smartphonů.
+- Obavy z nedostatku transparentnosti při sběru dat pro trénink LLM modelů.
 
-### Podrobnosti
-Článek popisuje konkrétní případy, kdy uživatelé v Indii získávají prémiové AI služby bezplatně. Například při dobíjení mobilního plánu přes aplikaci Airtel obdržel autor Perplexity Pro, což je prémiová verze AI vyhledávače Perplexity, který funguje na bázi velkých jazykových modelů (LLM) a poskytuje odpovědi s citacemi zdrojů. Tato nabídka platí až do července 2026 a je součástí balíčku bez dodatečných poplatků. Perplexity AI se specializuje na konverzační vyhledávání, kde uživatelé kladou otázky v přirozeném jazyce a dostávají strukturované odpovědi s odkazy.
+## Podrobnosti
+Článek popisuje osobní zkušenost autora, který objevil v aplikaci Airtel nabídku Perplexity Pro zdarma s rechargem mobilního plánu. Perplexity je AI vyhledávač, který kombinuje tradiční vyhledávání s generativními odpověďmi z modelů umělé inteligence, a jeho prémiová verze nabízí neomezené dotazy, pokročilé modely a analýzu dokumentů. Tato nabídka platí do července 2026 a je součástí širší strategie telekomunikačních operátorů, kteří tak lákají zákazníky na delší vazbu.
 
-Podobně Reliance Jio, největší telekomunikační operátor v Indii, spolupracuje s Google na distribuci Google AI Pro, které zahrnuje pokročilé AI funkce jako vylepšené generování textu, obrázků a analýzy dat, plus 2 TB úložiště. Nabídka je určena vybraným uživatelům na 18 měsíců. OpenAI zase přímo propaguje ChatGPT Go, levnější verzi ChatGPT určenou pro mobilní použití s omezenými funkcemi oproti plnému Plus plánu, zdarma na celý rok.
+Podobně Reliance Jio spolupracuje s Googlem na distribuci Google AI Pro, což zahrnuje přístup k pokročilým AI funkcím jako generování obrázků, sumarizace textů nebo analýza dat, plus 2 TB cloudového úložiště. Nabídka je určena vybraným uživatelům na 18 měsíců. OpenAI zase přes akce nabízí ChatGPT Go, levnější variantu ChatGPT určenou pro základní konverzace, psaní textů a jednoduché úlohy, zdarma na celý rok.
 
-Tyto akce nejsou ojedinělé. Srovnání s hardwarem ukazuje, že Apple nabízí tři měsíce Apple TV+ s novými iPhony nebo iPady, zatímco Google přidává Google AI Pro k Pixel 10 Pro Fold a XL. Rozdíl spočívá v tom, že v Indii nejde o doplňkovou odměnu k hardware, ale o samostatné dlouhodobé přístupy k software bez nutnosti nákupu zařízení. Hlavní motivací je indický trh s vysokou penetrací smartphonů a nízkými cenami dat, což umožňuje masivní sběr interakcí uživatelů. Tyto data slouží k fine-tuningu AI modelů, zlepšení přesnosti v lokálních jazycích jako hindština nebo tamilština a adaptaci na kulturní kontexty.
+Tyto akce nejsou výjimečné – Apple nabízí tři měsíce Apple TV+ s novými iPhony nebo iPady, zatímco Google přidává Google AI Pro k Pixel zařízením. Rozdíl spočívá v absenci placeného hardware: v Indii jde o čistě softwarové předplatné přes mobilní operátory. Indie s více než 1,4 miliardou obyvatel a rychle rostoucí digitální ekonomikou představuje obrovský potenciál pro sběr dat. Uživatelé generují dotazy, konverzace a interakce, které slouží k doladění velkých jazykových modelů (LLM). Perplexity, OpenAI a Google tak získávají miliony indických uživatelů, jejichž data zlepšují přesnost modelů v mnohojazyčném prostředí, včetně hindštiny a dalších regionálních jazyků.
 
-Problémem je absence transparentnosti. Firmy neuvádějí, jak data sbírají, zpracovávají nebo používají. V Indii, kde platí přísné datové zákony jako Digital Personal Data Protection Act z roku 2023, to vede k šetřením. Uživatelé často nevědí, že jejich dotazy, konverzace a chování se stávají tréninkovými daty pro modely jako Gemini nebo GPT.
+Problémem je však nedostatek transparentnosti. Firmy neuvádějí, jak data anonymizují, jak dlouho je uchovávají nebo zda je sdílejí. To vede k obavám z porušení soukromí a potenciálním soudním sporům, podobně jako v Evropě s GDPR. Indie zatím nemá striktní regulace pro AI data, což tyto praktiky usnadňuje.
 
-### Proč je to důležité
-Tato strategie ukazuje, jak AI firmy priorizují data před příjmy z předplatného na rozvíjejících se trzích. Indie poskytuje miliardy interakcí denně, což urychluje vývoj modelů v porovnání s omezenými daty z USA nebo Evropy. Pro průmysl to znamená konkurenční výhodu pro ty, kdo ovládnou globální data – například lepší multilingvální schopnosti LLM.
-
-Pro uživatele to přináší zdarma přístup k nástrojům jako Perplexity Pro pro výzkum nebo ChatGPT Go pro denní úkoly, ale za cenu soukromí. Kriticky lze říci, že bez regulací se rizika zneužití dat zvyšují, což může vést k globálním standardům pro AI data governance. V širším kontextu to posiluje dominanci velkých hráčů jako OpenAI a Google, zatímco menší firmy jako Perplexity hledají partnerství pro škálování.
+## Proč je to důležité
+Tato strategie urychluje adopci AI v rozvojových trzích a poskytuje firmám konkurenční výhodu díky masivnímu sběru dat, které zlepšují globální modely. Pro uživatele v Indii znamená levný nebo zdarma přístup k AI nástrojům, což podporuje digitální gramotnost, ale za cenu rizik soukromí. V širším kontextu to zesiluje debatu o etice AI: zatímco Západ zavádí regulace, Indie se stává datovou miní pro trénink, což může vést k nerovnováze v globálním AI ekosystému. Právní šetření by mohlo nastavit precedens pro transparentnost v rozvojových zemích.
 
 ---
 

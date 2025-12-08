@@ -2,8 +2,9 @@
 author: Marisa Aigen
 category: regulace ai
 date: '2025-12-07 10:07:02'
-description: Vlády kvůli ekonomickým ziskům opouštějí bezpečnostní opatření a nechávají
-  AI firmy regulovat se samy. Svět se k rizikům umělé inteligence vrátí až po katastrofě?
+description: Vlády kvůli ekonomickým ziskům opustily plány na bezpečnostní opatření
+  a nechávají firmy s umělou inteligencí se regulovat samy. Svět se k rizikům AI vrátí
+  až po katastrofě?
 importance: 3
 layout: tech_news_article
 original_title: Not long ago, AI was being compared to nuclear technology. So why
@@ -14,32 +15,31 @@ source:
   emoji: 📰
   id: null
   name: Livemint
-title: Před nedávnem se umělá inteligence přirovnávala k jaderné technologii. Proč
-  se tedy spokojit s vlastní regulací?
+title: Nedávno se umělá inteligence přirovnávala k jaderné technologii. Proč se tedy
+  spokojit s vlastní regulací?
 url: https://www.livemint.com/opinion/online-views/ai-nuclear-technology-self-regulation-artificial-intelligence-rishi-sunak-elon-musk-economy-11765084943811.html
 urlToImage: https://www.livemint.com/lm-img/img/2025/12/07/1600x900/logo/SINGAPORE-NEF-82_1765091783865_1765091799178.jpg
 urlToImageBackup: https://www.livemint.com/lm-img/img/2025/12/07/1600x900/logo/SINGAPORE-NEF-82_1765091783865_1765091799178.jpg
 ---
 
 ## Souhrn
-Bývalý britský premiér Rishi Sunak změnil svůj postoj k regulaci umělé inteligence: z organizátora prvního globálního summitu o bezpečnosti AI v roce 2023 se stal zastáncem absence legislativy. Vlády po celém světě upouštějí od přísných pravidel kvůli ekonomickým příležitostem, přestože rychlý růst technologií jako ChatGPT zvyšuje rizika. Článek varuje před čekáním na katastrofu.
+Bývalý britský premiér Rishi Sunak změnil postoj k regulaci umělé inteligence: z organizátora prvního globálního summitu o bezpečnosti AI v roce 2023 se stal odpůrcem jakýchkoli zákonů. Vlády po celém světě upouštějí od přísných pravidel kvůli ekonomickým příležitostem, přestože AI jako ChatGPT se šíří rychlostí nejrychleji rostoucího softwaru v historii. Článek varuje, že čekání na katastrofu před zavedením regulací je riskantní sázka.
 
 ## Klíčové body
-- Rishi Sunak pořádal AI Safety Summit v roce 2023, nyní tvrdí, že regulace není potřeba, protože firmy jako OpenAI dobrovolně spolupracují s výzkumníky.
-- Globální trend: vlády prioritizují ekonomický růst před bezpečností, bez důkazů o širokém poškození.
-- ChatGPT dosáhl 10 % globální populace uživatelů během tří let, což je nejrychlejší růst softwaru v historii.
-- OpenAI čelí žalobám od rodin obětí duševních poruch spojených s používáním AI.
-- Kritika: čekání na katastrofu je hazard s rychle se šířící technologií.
+- Rishi Sunak pořádal v roce 2023 AI Safety Summit, nyní tvrdí, že regulace není potřeba, protože firmy jako OpenAI dobrovolně spolupracují s výzkumníky.
+- Vlády prioritizují ekonomický růst před bezpečností, bez důkazů o širokém poškození.
+- ChatGPT dosáhl 10 % globální populace uživatelů do tří let od spuštění a ovlivňuje lidské myšlení.
+- Firmy jako OpenAI čelí žalobám za psychické škody způsobené uživateli.
 
 ## Podrobnosti
-Článek od Parmy Olsonové analyzuje změnu postoje klíčových politiků k regulaci umělé inteligence. Rishi Sunak, který v roce 2023 hostil v Bletchley Parku první globální AI Safety Summit za účasti Elona Muska a dalších expertů na rizika AI, nyní argumentuje, že firmy jako OpenAI, vývojář ChatGPT, se dobrovolně nechávají testovat bezpečnostními výzkumníky v Londýně. Tyto testy zahrnují audity modelů na potenciální škody, jako je šíření dezinformací nebo podporu nebezpečných aktivit. Sunak tvrdí, že dosud nedošlo k situacím, kdy by firmy spolupráci odmítly, což považuje za pozitivní.
+Článek Parmy Olsonové zmiňuje, jak se Rishi Sunak v roce 2023 obával rizik AI natolik, že svolal světové lídry a Elona Muska na první globální summit o bezpečnosti AI v Bletchley Parku. Tehdy Británie chtěla být „domovem regulace bezpečnosti AI“. Dnes Sunak tvrdí, že firmy jako OpenAI fungují dobře v spolupráci s bezpečnostními výzkumníky v Londýně, kteří testují modely na potenciální škody, jako je šíření dezinformací nebo manipulace. Tyto firmy se dobrovolně nechávají auditovat, což Sunak považuje za pozitivní. Autorka však poukazuje na riziko: co se stane, když se firmy rozhodnou spolupráci ukončit?
 
-Tento obrat odhaluje širší trend mezi vládami. Například Británie, která se chtěla stát „domovem regulace bezpečnosti AI“, nyní legislativu opouští. Podobně USA a EU zpomalují plány na přísné normy, protože AI slibuje oživení stagnujících ekonomik – od automatizace průmyslu po nové služby. ChatGPT, spuštěný v listopadu 2022, se stal nejrychleji rostoucím softwarem: během tří let ho používá 10 % světové populace, což překonává růst sociálních sítí. Tento model large language model (LLM) generuje texty, odpovídá na otázky a pomáhá v programování, ale zároveň mění kognitivní procesy uživatelů – studie ukazují na závislost a snížení kritického myšlení.
+Tento obrat odráží globální trend. Vlády vidí v AI šanci na oživení stagnujících ekonomik – například ChatGPT od OpenAI, firmy zaměřené na velké jazykové modely (LLM), které generují text, odpovědi a kód na základě tréninku na obrovských datech, se stal nejrychleji rostoucím softwarem. Do tří let od spuštění v prosinci 2022 ho používá 10 % světové populace, což překonává růst sociálních sítí. Studie naznačují, že takové nástroje mění způsob myšlení uživatelů, snižují kritické myšlení a zvyšují závislost. OpenAI už čelí žalobám od rodin obětí, které upadly do bludů nebo sebevražd po nadměrném používání modelu.
 
-Problémy se projevují: OpenAI čelí žalobám od rodin lidí, kteří po interakci s ChatGPT upadli do bludů nebo sebevražedných myšlenek. Firmy jako Anthropic (vývojář Claude) nebo xAI (Elon Musk) slibují dobrovolné audity, ale bez právní závaznosti mohou změnit politiku. Historické analogy s jadernou energií ukazují, že bez regulace (jako Mezinárodní agentura pro atomovou energii) dochází k nehodám – proč s AI čekat?
+Srovnání s jadernou technologií je trefné: i ta se původně šířila bez regulací kvůli ekonomickým a vojenským výhodám, než přišly Černobyl nebo Fukušima. AI rizika zahrnují nejen psychické dopady, ale i autonomní zbraně, masivní dezinformace ovlivňující volby nebo ztrátu pracovních míst v kreativních oborech. Firmy jako OpenAI, Anthropic nebo Google DeepMind slibují dobrovolné bezpečnostní testy, ale bez zákona mohou priorizovat zisky.
 
 ## Proč je to důležité
-Regulace AI ovlivňuje celý technologický ekosystém. Bez nezávislého dohledu hrozí zneužití modelů k dezinformacím, kyberútokům nebo zbraním – například generování kódu pro malware. Pro uživatele znamená self-regulace riziko nekontrolovaných dopadů na duševní zdraví a soukromí, protože modely sbírají data bez dostatečné ochrany. Průmysl profituje z absence pravidel (funding OpenAI překročil 10 miliard dolarů), ale dlouhodobě to brzdí důvěru veřejnosti. V kontextu pokroků jako GPT-5 nebo Gemini 2.0 je nezbytné legislativní rámce, podobně jako u datové ochrany GDPR. Čekání na katastrofu, jako u sociálních sítí, by mohlo způsobit globální škody v miliardách dolarů a ztrátu životů.
+Regulace AI ovlivní celý technologický ekosystém. Bez přísných pravidel hrozí eskalace rizik, jako je zneužití LLM k tvorbě deepfakeů nebo kyberútoků, což by způsobilo systémové selhání. Evropská unie s AI Actem vede v přístupu „riziko podle rizika“, kde vysoce rizikové systémy (např. v medicíně nebo dopravě) podléhají auditům. USA a Británie se spíš spoléhají na dobrovolnost, což kritici jako Yoshua Bengio varují jako chybu. Pro průmysl to znamená rychlejší inovace, ale pro uživatele vyšší expozici rizikům – od závislosti na AI po společenské polarizace. Dlouhodobě by absence regulací mohla vést k globálnímu „AI incidentu“, který donutí reaktivní opatření, podobně jako u klimatických změn.
 
 ---
 
