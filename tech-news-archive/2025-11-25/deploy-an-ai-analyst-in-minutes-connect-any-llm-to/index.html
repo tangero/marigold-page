@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nasazení AI analytika za pár minut: Propojení libovolného LLM s libovolným datovým zdrojem pomocí Bag of Words | Marigold.cz Tech News</title>
+    <meta name="description" content="Nástroj Bag of Words umožňuje rychle propojit libovolný velký jazykový model (LLM) s SQL databází a získávat důvěryhodné analytické odpovědi přirozeným jazykem.">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-25/deploy-an-ai-analyst-in-minutes-connect-any-llm-to/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 25.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Kdnuggets.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Nasazení AI analytika za pár minut: Propojení libovolného LLM s libovolným datovým zdrojem pomocí Bag of Words</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-25T15:00:51+00:00">25.11.2025</time>
+                    <span class="category">ai analýza</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.kdnuggets.com/wp-content/uploads/kdn-bag-of-words-app-feature.jpeg" alt="Nasazení AI analytika za pár minut: Propojení libovolného LLM s libovolným datovým zdrojem pomocí Bag of Words" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Platforma Bag of Words umožňuje nasadit AI analytika schopného odpovídat na obchodní dotazy přirozeným jazykem přímo z uživatelské SQL databáze během několika minut. Tento přístup eliminuje nutnost rozsáhlého inženýrského úsilí a zároveň zajišťuje kontrolu nad přístupem k datům a vysvětlitelnost výsledků.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Bag of Words je AI datová vrstva, která propojuje libovolný LLM s různými SQL databázemi (PostgreSQL, MySQL, Snowflake apod.).</li>
+<li>Umožňuje přesnou kontrolu přístupu k tabulkám a pohledům v databázi.</li>
+<li>Integruje metadata z analytických nástrojů jako Tableau nebo dbt pro lepší kontextualizaci dotazů.</li>
+<li>Zajišťuje bezpečnou správu uživatelských oprávnění.</li>
+<li>Výsledky jsou vysvětlitelné a opakovatelné, což je klíčové pro podnikové nasazení.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Bag of Words není tradiční nástroj pro zpracování přirozeného jazyka (NLP), ale spíše infrastrukturní vrstva, která zprostředkovává komunikaci mezi LLM a strukturovanými daty. Uživatelé mohou položit otázku jako „Kolik objednávek jsme měli v lednu?“ a systém automaticky vygeneruje správný SQL dotaz, spustí jej proti databázi a vrátí odpověď v přirozeném jazyce. Klíčovou výhodou oproti obecným LLM je, že Bag of Words nepracuje s kopírovanými daty, ale přímo s živou databází, což minimalizuje riziko zastaralých nebo nesprávných informací. Platforma také umožňuje definovat, které tabulky nebo sloupce může AI vidět – důležité zejména pro dodržování GDPR nebo interních bezpečnostních politik. Integrace s nástroji jako dbt nebo Tableau poskytuje LLM dodatečný kontext (např. popisy sloupců, obchodní metriky), čímž se zvyšuje přesnost interpretace dotazů.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento přístup řeší jednu z hlavních překážek širšího nasazení LLM v podnicích: nedůvěru k „černé skříňce“. Když AI generuje odpověď na základě skutečného SQL dotazu, který lze zkontrolovat, je výsledek transparentní a auditovatelný. Navíc eliminuje potřebu složitého fine-tuning nebo vytváření vlastních vektorových databází. Pro firmy to znamená možnost rychle nasadit analytické asistenty pro obchodní týmy bez nutnosti zapojovat data engineering kapacity. V kontextu rostoucího požadavku na self-service analytics je Bag of Words příkladem pragmatického řešení, které klade důraz na bezpečnost, přesnost a vysvětlitelnost – nikoli jen na rychlost nebo „chytrou“ formulaci odpovědí.</p>
+<hr />
+<p><a href="https://www.kdnuggets.com/deploy-an-ai-analyst-in-minutes-connect-any-llm-to-any-data-source-with-bag-of-words">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Kdnuggets.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.kdnuggets.com/deploy-an-ai-analyst-in-minutes-connect-any-llm-to-any-data-source-with-bag-of-words" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Deploy an AI Analyst in Minutes: Connect Any LLM to Any Data Source with Bag of Words</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

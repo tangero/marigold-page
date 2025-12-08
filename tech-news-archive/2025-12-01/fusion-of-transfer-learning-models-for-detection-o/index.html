@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fúze modelů přenášeného učení pro detekci Alzheimerovy nemoci s využitím obousměrné dlouhodobé krátkodobé paměti a algoritmu rovnovážné optimalizace | Marigold.cz Tech News</title>
+    <meta name="description" content="Výzkum představuje model FDLM-DADOA, který kombinuje hluboké učení pro automatickou detekci Alzheimerovy nemoci z magnetických rezonančních obrazů (MRI). Použív">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-01/fusion-of-transfer-learning-models-for-detection-o/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 01.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nature.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Fúze modelů přenášeného učení pro detekci Alzheimerovy nemoci s využitím obousměrné dlouhodobé krátkodobé paměti a algoritmu rovnovážné optimalizace</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-01T00:00:00+00:00">01.12.2025</time>
+                    <span class="category">umělá inteligence</span>
+                </div>
+            </header>
+
+            
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Nový model FDLM-DADOA spojuje tři konvoluční neuronové sítě pro extrakci znaků z MRI snímků mozku a obousměrnou dlouhodobou krátkodobou paměť (BiLSTM) pro klasifikaci Alzheimerovy nemoci. Předzpracování zahrnuje Wienerův filtr pro odstranění šumu a algoritmus rovnovážné optimalizace pro ladění hyperparametrů. Cílem je zlepšit automatickou diagnostiku před vznikem trvalého poškození mozku.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li><strong>Předzpracování obrazů</strong>: Wienerův filtr odstraňuje šum z MRI dat, což zlepšuje kvalitu vstupních dat pro následné analýzy.</li>
+<li><strong>Extrakce znaků</strong>: Fúze modelů EfficientNet B7 (efektivní architektura pro vysokou přesnost), MobileNet (lehkovágní pro mobilní aplikace) a ResNet-50 (s reziduálními bloky pro hluboké sítě).</li>
+<li><strong>Klasifikace</strong>: BiLSTM zpracovává sekvenční závislosti v datech pro identifikaci a kategorizaci Alzheimerovy nemoci.</li>
+<li><strong>Optimalizace</strong>: Algoritmus Equilibrium Optimization (EOA) automaticky vybírá hyperparametry pro maximální výkon modelu.</li>
+<li><strong>Aplikace</strong>: Zaměřeno na neuroimaging data, kde tradiční metody selhávají kvůli subjektivitě.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Alzheimerova nemoc (AD) je neurodegenerativní onemocnění, jehož časná detekce je klíčová, protože léky jsou nejúčinnější v raných stádiích před nevratným poškozením mozku. Magnetická rezonance (MRI) slouží jako neinvazivní metoda k detekci atrofie mozku, ale její akvizice je časově náročná kvůli nutnosti fyzického prohlídkového postupu. Tradiční diagnostika závisí na manuální analýze, což vede k chybám a zpožděním.</p>
+<p>Navrhovaný model FDLM-DADOA řeší tyto limity fúzí hlubokého učení. Nejprve Wienerův filtr, adaptivní filtr v oblasti frekvencí, minimalizuje šum v obrazech bez ztráty detailů okrajů. Poté následuje extrakce znaků z tří předtrénovaných modelů přenášeného učení: EfficientNet B7, který dosahuje vysoké přesnosti díky compound scalingu (vyvážení hloubky, šířky a rozlišení); MobileNet, optimalizovaný pro nízkou výpočetní složitost pomocí depthwise separabilních konvolucí, vhodný pro edge computing; a ResNet-50 s 50 vrstvami a reziduálními spojnicemi, které řeší problém mizejícího gradientu v hlubokých sítích.</p>
+<p>Tyto modely generují bohatou sadu znaků, kterou zpracovává BiLSTM – rozšíření LSTM, které učí v obou směrech (vpřed a vzad), což zachycuje dlouhodobé závislosti v sekvencích MRI dat. BiLSTM slouží k binární nebo vícekategoriální klasifikaci (např. zdravý mozek vs. mírná/moderátní/severo pokročilá AD). Hyperparametry jako velikost batchů, rychlost učení nebo počet neuronů v BiLSTM optimalizuje algoritmus Equilibrium Optimization (EOA), metaheuristický algoritmus inspirovaný chemickou rovnováhou, který simuluje hledání rovnovážného stavu pro globální optima.</p>
+<p>Model byl testován na standardních datasetu jako ADNI (Alzheimer&rsquo;s Disease Neuroimaging Initiative), kde překonává tradiční machine learning (např. SVM) i samostatné deep learning modely díky fúzi a optimalizaci. Nicméně, jako akademický výzkum postrádá detaily o přesném výkonu (accuracy, F1-score) v poskytnutém abstraktu a vyžaduje nezávislou validaci na reálných klinických datech.</p>
+<h2>Proč je to důležité</h2>
+<p>V širším kontextu AI v medicíně představuje tento přístup další krok k automatizaci neuroimagingu, kde fúze modelů zvyšuje robustnost oproti jednomu modelu a BiLSTM lépe modeluje časové změny v atrofii. Pro průmysl znamená potenciál integrace do PACS systémů (Picture Archiving and Communication Systems) v nemocnicích, urychlení diagnostiky a snížení zátěže radiologů. V porovnání s komerčními řešeními jako Aidoc nebo Viz.ai je to open-source alternativa, ale s rizikem přehřátí – mnoho podobných modelů selže v klinické praxi kvůli variabilitě dat. Pro pacienty by to mohlo znamenat dřívější intervenci, avšak regulace (FDA/CE) a etické aspekty (bias v trénovacích datech) zůstávají výzvou. Celkově posiluje trend AI v neurologii, kde přesnost detekce AD dosahuje 90+ % v kontrolovaných testech, ale reálný dopad závisí na nasazení.</p>
+<hr />
+<p><a href="https://www.nature.com/articles/s41598-025-30456-w">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nature.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.nature.com/articles/s41598-025-30456-w" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Fusion of transfer learning models for detection of alzheimer’s disease using bidirectional long short-term memory with equilibrium optimization algorithm</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prohlížecí bot ChatGPT se vyhýbá odkazům na New York Times jako potkán po elektrošoku | Marigold.cz Tech News</title>
+    <meta name="description" content="Agentic režim prohlížeče Atlas od OpenAI se systematicky vyhýbá webům médií, která žalují OpenAI, včetně New York Times. Jde o první dokumentovaný případ, kdy A">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-02/chatgpts-browser-bot-seems-to-avoid-new-york-times/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 02.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Gizmodo.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Prohlížecí bot ChatGPT se vyhýbá odkazům na New York Times jako potkán po elektrošoku</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-02T22:49:40+00:00">02.11.2025</time>
+                    <span class="category">ai</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg" alt="Prohlížecí bot ChatGPT se vyhýbá odkazům na New York Times jako potkán po elektrošoku" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Novinářské vyšetřování odhalilo, že prohlížeč Atlas od OpenAI s agentic schopnostmi se systematicky vyhýbá webům médií, která vedou soudní spory s OpenAI. Zatímco běžné webové crawlery respektují technická omezení, agentic režim Atlasu se chová jako běžný uživatel v prohlížeči Chrome, ale přesto se záměrně stranní určitých zdrojů informací.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Atlas v agentic režimu se vyhýbá webům médií žalujících OpenAI, zejména New York Times</li>
+<li>Na rozdíl od běžných crawlerů se agentic boty tváří jako normální uživatelé Chrome a mohou obcházet technická omezení</li>
+<li>Vyšetřování provedli novináři Aisvarya Chandrasekar a Klaudia Jaźwińska z Columbia Journalism Review</li>
+<li>Agentic režim má teoreticky provádět úkoly jako nákup letenek nebo rezervace hotelů</li>
+<li>Chování bota připomíná podmíněný reflex - vyhýbání se zdrojům představujícím právní riziko pro mateřskou společnost</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Prohlížeč Atlas s podporou ChatGPT není jen běžný prohlížeč s chatovacím oknem. Disponuje takzvanými agentic schopnostmi, což znamená, že může autonomně provádět složitější úkoly jménem uživatele. Tyto schopnosti však přinášejí i etické otázky ohledně toho, jak se bot rozhoduje, které zdroje informací použije.</p>
+<p>Běžné webové crawlery fungují na internetu již desítky let a řídí se jasně definovanými pravidly. Když narazí na instrukci, že danou stránku nemají indexovat, jednoduše ji přeskočí. Pokud uživatel požádá běžnou aplikaci ChatGPT o vytažení informací z článků, které blokují crawlery, aplikace to odmítne s vysvětlením, že to není možné.</p>
+<p>Agentic režim Atlasu však funguje jinak. Protože je postaven na open-source prohlížeči Chromium od Googlu, v logách webových serverů se objevuje jako běžná Chrome relace. To mu umožňuje přistupovat i na stránky, které jinak blokují automatizované nástroje. Toto chování má svou logiku - jinak by uživatel nemohl v prohlížeči Atlas manuálně navštívit určité weby, což by bylo příliš restriktivní.</p>
+<p>Problém nastává ve chvíli, kdy se bot začne vyhýbat určitým zdrojům ne kvůli technickým omezením, ale kvůli právním sporům jeho mateřské společnosti. Toto chování naznačuje, že OpenAI implementovalo do svého agentic systému jakési &ldquo;bezpečnostní reflexy&rdquo;, které chrání společnost před potenciálními právními problémy.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento případ otevírá zásadní otázky o transparentnosti a nestrannosti AI agentů. Pokud se autonomní systémy rozhodují na základě korporátních zájmů místo objektivity, uživatelé mohou dostávat zkreslené nebo neúplné informace, aniž by o tom věděli. Jde o první dokumentovaný případ, kdy AI agent mění své chování kvůli právním sporům své mateřské společnosti, což vytváří precedens pro budoucí vývoj podobných technologií. V době, kdy se agentic AI systémy stávají běžnějšími, je klíčové, aby uživatelé rozuměli jejich omezením a potenciálním konfliktům zájmů.</p>
+<hr />
+<p><a href="https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Gizmodo.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted - Gizmodo</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

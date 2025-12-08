@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Základní model umělé inteligence automatizuje určení struktur v cryo-EM | Marigold.cz Tech News</title>
+    <meta name="description" content="Vědci představili model Cryo-EM Image Evaluation Foundation (Cryo-IEF), předtrénovaný na 65 milionech částicových obrazů nekontrolovaným způsobem. Tento model v">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-01/artificial-intelligence-foundation-model-automates/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 01.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nature.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Základní model umělé inteligence automatizuje určení struktur v cryo-EM</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-01T00:00:00+00:00">01.12.2025</time>
+                    <span class="category">umělá inteligence</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-025-02917-7/MediaObjects/41592_2025_2917_Fig1_HTML.png" alt="Základní model umělé inteligence automatizuje určení struktur v cryo-EM" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Výzkumníci vyvinuli model Cryo-IEF, základní model umělé inteligence určený pro zpracování dat z kryogenní elektronové mikroskopie (cryo-EM). Model byl předtrénován na 65 milionech obrazů částic v nekontrolovaném učení, což mu umožňuje automatizovat složité kroky určení 3D struktur biomolekul. Tím se cryo-EM stává robustnější a dostupnější pro laboratoře bez specializovaného know-how.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Předtrénování na 65 milionech particle images z cryo-EM dat v unsupervised módu.</li>
+<li>Automatizace celého workflow od hodnocení obrazů po rekonstrukci struktur.</li>
+<li>Inspirace self-supervised vision transformers a metodami jako CryoDRGN-AI.</li>
+<li>Publikováno v Nature Methods s odkazy na EMPIAR databázi.</li>
+<li>Otevřený přístup k modelu pro široké využití v strukturální biologii.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Kryogenní elektronová mikroskopie (cryo-EM) je klíčovou technikou v strukturální biologii, která umožňuje rekonstruovat trojrozměrné struktury proteinů a komplexů bez nutnosti krystalizace. Proces zahrnuje sběr tisíců obrazů zamrazených vzorků, identifikaci částic (particle picking), jejich klasifikaci, 2D/3D rekonstrukci a rafinaci. Tyto kroky jsou časově náročné a vyžadují expertizu, což omezuje šíření metody.</p>
+<p>Model Cryo-IEF řeší tyto problémy pomocí foundation model přístupu, podobného velkým jazykovým modelům, ale zaměřeného na obrazy. Předtrénování proběhlo na masivním datasetu 65 milionů particle images z veřejné databáze EMPIAR, která shromažďuje cryo-EM a cryo-ET data. Použití unsupervised učení, inspirovaného pracemi jako self-supervised vision transformers od Chen et al. (2021), umožnilo modelu naučit se reprezentace bez označených dat. Výsledek je univerzální enkóder, který exceluje v úkolech jako hodnocení kvality obrazů, particle picking, klasifikace heterogenity a ab initio rekonstrukce.</p>
+<p>Například v porovnání s předchozími metodami jako CryoDRGN-AI (Levy et al., 2025) Cryo-IEF zlepšuje zpracování náročných datasetů s vysokou heterogenitou. Model lze doladit (fine-tune) pro specifické úkoly, což snižuje potřebu manuálních zásahů. Autoři demonstrují aplikace na reálných datech, včetně těch z Nogalesovy recenze (2016) o vývoji cryo-EM do mainstream techniky. Přístup k plnému textu vyžaduje předplatné Nature Portfolio nebo jednorázový nákup za 39,95 USD, což odráží akademický charakter publikace.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento vývoj posiluje integraci AI do experimentální biologie, kde cryo-EM revolucionizovala objevování léků – například struktury spike proteinu SARS-CoV-2. Automatizace workflow urychlí výzkum o desítky procent, sníží chyby a umožní menším týmům konkurovat velkým laboratořím. V širším kontextu ukazuje, jak foundation models migruje z obecného AI do specializovaných domén, podobně jako v medicínském zobrazování. Nicméně závislost na kvalitních datech z EMPIAR znamená, že úspěch závisí na dostupnosti tréninkových sad; bez dalšího škálování může být omezen na standardní případy. Pro průmysl, jako farmaceutické firmy, to znamená rychlejší screening molekul, ale vyžaduje validaci na proprietárních datech.</p>
+<hr />
+<p><a href="https://www.nature.com/articles/s41592-025-02917-7">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nature.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.nature.com/articles/s41592-025-02917-7" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Artificial intelligence foundation model automates cryo-EM structure determination</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

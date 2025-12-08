@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nebezpečné chyby v runC umožňují útěk z Docker kontejnerů a kompromitaci hostitele | Marigold.cz Tech News</title>
+    <meta name="description" content="Tři nově odhalené zranitelnosti v runtime runC, používaném v Dockeru a Kubernetes, mohou útočníkům umožnit obejít izolaci kontejnerů a získat zápis na hostitels">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-09/dangerous-runc-flaws-could-allow-hackers-to-escape/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 09.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">BleepingComputer</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Nebezpečné chyby v runC umožňují útěk z Docker kontejnerů a kompromitaci hostitele</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-09T15:11:12+00:00">09.11.2025</time>
+                    <span class="category">kybernetická bezpečn</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.bleepstatic.com/content/hl-images/2024/08/28/hacker.jpg" alt="Nebezpečné chyby v runC umožňují útěk z Docker kontejnerů a kompromitaci hostitele" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Nově zveřejněné zranitelnosti CVE-2025-31133, CVE-2025-52565 a CVE-2025-52881 v kontejnerovém runtime runC umožňují za určitých podmínek obejít izolaci Docker a Kubernetes kontejnerů a získat zápis na hostitelský systém s právy roota. Pro provozovatele kontejnerové infrastruktury jde o kritickou chybu v základním stavebním prvku celého ekosystému. Opravy jsou dostupné v nových verzích runC, avšak dopad závisí na rychlosti aktualizací a kvalitě bezpečnostní konfigurace.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Tři zranitelnosti v runC umožňují únik z kontejneru a potenciální kompromitaci hostitele.</li>
+<li>CVE-2025-31133 a CVE-2025-52881 postihují všechny verze runC, CVE-2025-52565 verze od 1.0.0-rc3.</li>
+<li>Problémy zneužívají způsob, jakým runC pracuje s bind-mounty a speciálními soubory jako /dev/null a /dev/console.</li>
+<li>Opravy jsou dostupné v runC 1.2.8, 1.3.3, 1.4.0-rc.3 a novějších verzích.</li>
+<li>Doporučuje se okamžitá aktualizace a revize bezpečnostních politik v prostředích Docker a Kubernetes.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>runC je nízkoúrovňový runtime pro kontejnery a referenční implementace podle Open Container Initiative (OCI). Používají jej nástroje jako Docker, containerd či Kubernetes k vytváření a spuštění kontejnerů, nastavení jmenných prostorů, připojení souborových systémů a cgroups. Pokud je problém v runC, nejde o marginální chybu jednoho nástroje, ale o slabinu v infrastruktuře, na níž stojí velká část cloudových a interních služeb.</p>
+<p>CVE-2025-31133 se týká způsobu, jakým runC maskuje citlivé soubory hostitele pomocí bind-mountu /dev/null. Pokud útočník během inicializace kontejneru nahradí /dev/null symbolickým odkazem, může runC omylem připojit útočníkem řízený cíl jako zapisovatelný do kontejneru. To může umožnit zápis do /proc a zneužití k úniku z kontejneru.</p>
+<p>CVE-2025-52565 zneužívá bind-mount /dev/console. Pomocí závodních podmínek (race conditions) a symbolických odkazů lze přesměrovat mount na neočekávaný cíl ještě před aplikací ochranných mechanismů. Tím se opět otevírá cesta k zapisovatelnému přístupu k kritickým pseudo-souborům a potenciálnímu prolomení izolace.</p>
+<p>CVE-2025-52881 umožňuje zneužít runC k zápisům do /proc, které jsou přesměrovány na cíle kontrolované útočníkem. V některých scénářích lze obejít mechanismy typu LSM (například SELinux) a proměnit legitimní zápisy runC v libovolné zápisy do citlivých souborů, včetně /proc/sysrq-trigger, což může vést k restartu systému nebo dalším destruktivním akcím.</p>
+<p>Zranitelnosti samy o sobě typicky vyžadují, aby útočník měl možnost spouštět kontejnery nebo mít škodlivý obraz kontejneru. V multi-tenant cloudu, CI/CD prostředích, u poskytovatelů služeb nebo ve velkých interních platformách však jde o realistický scénář. Fixy jsou dostupné, ale skutečné riziko závisí na tom, zda provozovatelé rychle aktualizují runC (přímo či přes Docker, containerd, Kubernetes distribuce) a zda mají omezené schopnosti uživatelů manipulovat s mounty a speciálními zařízeními.</p>
+<h2>Proč je to důležité</h2>
+<p>Tyto chyby míří na samotný základ kontejnerové izolace. Kontejnery jsou často mylně vnímány jako plnohodnotná bezpečnostní hranice; tento případ opět ukazuje, že jde primárně o izolační mechanismus sdílející jádro hostitele. Pro firmy provozující Docker a Kubernetes ve víceuživatelském či multi-tenant režimu se z technického problému v runC stává potenciálně kritická bezpečnostní událost: úspěšný útok může znamenat přístup k hostitelskému systému, datům dalších kontejnerů, tajným klíčům, CI/CD pipeline a dalším službám.</p>
+<p>Z praktického hlediska je nutné:
+- bezodkladně nasadit verze runC 1.2.8, 1.3.3, 1.4.0-rc.3 nebo novější (přímo, nebo skrze aktualizace Dockeru, containerd a Kubernetes distribucí),
+- omezit možnost uživatelů vytvářet své vlastní privilegované kontejnery a manipulovat s /dev a mounty,
+- revidovat předpoklady o důvěře v kontejnerovou izolaci, zejména v prostředích s nedůvěryhodnými nájemci.</p>
+<p>Z hlediska širšího ekosystému tato zranitelnost zdůrazňuje potřebu systematické bezpečnostní analýzy nízkoúrovňových komponent, důsledné segmentace, využívání dalších vrstev ochrany (LSM, seccomp, sandboxing, runtime politiky) a opatrnosti při návrhu služeb závislých na kontejnerech jako na jediné bezpečnostní bariéře.</p>
+<hr />
+<p><a href="https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 BleepingComputer</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Dangerous runC flaws could allow hackers to escape Docker containers - BleepingComputer</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

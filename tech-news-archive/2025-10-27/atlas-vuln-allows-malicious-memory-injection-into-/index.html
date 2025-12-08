@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zranitelnost Atlas umožňuje vkládání škodlivých instrukcí do paměti ChatGPT | Marigold.cz Tech News</title>
+    <meta name="description" content="Bezpečnostní firma LayerX odhalila zranitelnost v OpenAI Atlas, která útočníkům umožňuje pomocí CSRF útoků vkládat škodlivé instrukce do trvalé paměti ChatGPT.">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-27/atlas-vuln-allows-malicious-memory-injection-into-/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 27.10.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Theregister.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Zranitelnost Atlas umožňuje vkládání škodlivých instrukcí do paměti ChatGPT</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-10-27T19:23:00+00:00">27.10.2025</time>
+                    <span class="category">kybernetická bezpečn</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://regmedia.co.uk/2024/05/20/memory_shutterstock.jpg" alt="Zranitelnost Atlas umožňuje vkládání škodlivých instrukcí do paměti ChatGPT" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Bezpečnostní výzkumníci ze společnosti LayerX objevili kritickou zranitelnost v novém AI prohlížeči Atlas od OpenAI, která umožňuje útočníkům vkládat škodlivé instrukce do trvalé paměti ChatGPT pomocí cross-site request forgery (CSRF) útoků. Zranitelnost, nazvaná &ldquo;ChatGPT Tainted Memories&rdquo;, představuje riziko pro všechny uživatele ChatGPT, ale zejména pro uživatele prohlížeče Atlas, který byl spuštěn minulý týden pro macOS.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Útok zneužívá CSRF zranitelnost a funkci trvalé paměti ChatGPT, která si pamatuje předchozí konverzace a preference uživatelů</li>
+<li>Vyžaduje sociální inženýrství - uživatel musí kliknout na škodlivý odkaz</li>
+<li>Uživatelé prohlížeče Atlas jsou podle testů LayerX až o 90 % více vystaveni phishingovým útokům než uživatelé Chrome a Edge</li>
+<li>Atlas ukládá autentizační tokeny přímo v prohlížeči, což útočníkům usnadňuje zneužití aktivní relace</li>
+<li>OpenAI zatím na zjištění nereagoval</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Útok funguje na principu zneužití CSRF zranitelnosti, kdy útočník využije aktivní relaci uživatele na webové stránce a přinutí prohlížeč odeslat škodlivý požadavek. Webová stránka tento požadavek zpracuje jako legitimní, protože pochází od autentizovaného uživatele. V případě ChatGPT to útočníkovi umožňuje získat přístup k systémům OpenAI, do kterých je uživatel přihlášen, a následně vložit škodlivé instrukce.</p>
+<p>Klíčovým prvkem útoku je zneužití vestavěné funkce paměti ChatGPT. Tato funkce umožňuje chatbotu &ldquo;pamatovat si&rdquo; dotazy uživatelů, jejich preference a kontext předchozích konverzací napříč relacemi. Útočník může do této paměti vložit škodlivé instrukce, které ChatGPT následně považuje za legitimní uživatelské preference a řídí se jimi i v budoucích konverzacích.</p>
+<p>Prohlížeč Atlas od OpenAI, který byl představen teprve minulý týden jako AI-poháněný webový prohlížeč pro macOS, je podle výzkumníků obzvláště zranitelný. Důvodem je, že uživatelé Atlas jsou typicky ve výchozím nastavení přihlášeni k ChatGPT, což znamená, že jejich autentizační tokeny jsou uloženy přímo v prohlížeči a mohou být zneužity během aktivní relace.</p>
+<p>Společnost LayerX, která se zabývá zabezpečením prohlížečů, provedla testy a zjistila, že prohlížeč Atlas je až o 90 % více vystaven phishingovým útokům ve srovnání s etablovanými prohlížeči jako Chrome a Edge. Toto zjištění vyvolává vážné otázky ohledně bezpečnostní architektury nového produktu OpenAI.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato zranitelnost přichází v době, kdy OpenAI agresivně expanduje do nových produktových kategorií, včetně webových prohlížečů. Odhalení tak závažné bezpečnostní chyby krátce po spuštění Atlas poukazuje na potenciální problémy s bezpečnostním testováním a přípravou produktu před uvedením na trh.</p>
+<p>Pro uživatele ChatGPT představuje tato zranitelnost reálné riziko. Útočník, který úspěšně vloží škodlivé instrukce do paměti chatbota, může ovlivnit všechny budoucí interakce uživatele s ChatGPT. To může vést k úniku citlivých informací, manipulaci s odpověďmi nebo jiným formám zneužití.</p>
+<p>Širší kontext této zranitelnosti ukazuje na rostoucí bezpečnostní výzvy spojené s AI nástroji a prohlížeči. Jak se AI asistenti stávají stále více integrovanými do našich každodenních pracovních postupů a ukládají si kontextuální informace o uživatelích, stávají se také atraktivnějším cílem pro útočníky. Absence okamžité reakce ze strany OpenAI na toto odhalení je rovněž znepokojující a vyvolává otázky ohledně procesů řešení bezpečnostních incidentů ve společnosti.</p>
+<hr />
+<p><a href="https://www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Theregister.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Atlas vuln allows malicious memory injection into ChatGPT - theregister.com</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

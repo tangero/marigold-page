@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft vydal mimořádnou záplatu pro kritickou chybu ve WSUS | Marigold.cz Tech News</title>
+    <meta name="description" content="Microsoft nečekaně vydal kritickou bezpečnostní záplatu pro Windows Server Update Services, která opravuje zranitelnost umožňující vzdálené spuštění kódu. Veřej">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-24/microsoft-issues-out-of-band-patch-for-critical-ws/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 24.10.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Theregister.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Microsoft vydal mimořádnou záplatu pro kritickou chybu ve WSUS</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-10-24T12:16:00+00:00">24.10.2025</time>
+                    <span class="category">bezpečnostní záplaty</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://regmedia.co.uk/2015/06/17/spanner_hammer_screw_648.jpg" alt="Microsoft vydal mimořádnou záplatu pro kritickou chybu ve WSUS" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Microsoft vydal mimořádnou bezpečnostní aktualizaci pro Windows Server Update Services (WSUS) těsně před víkendem. Záplata opravuje kritickou zranitelnost CVE-2025-59287, která umožňuje neautentizovaným útočníkům vzdáleně spustit libovolný kód na postižených serverech. Problém se týká všech verzí Windows Server od 2012 do 2025 s aktivní rolí WSUS.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Zranitelnost CVE-2025-59287 má maximální stupeň závažnosti &ldquo;critical&rdquo; a umožňuje vzdálené spuštění kódu (RCE)</li>
+<li>Příčinou je nebezpečná deserializace nedůvěryhodných dat v zastaralém serializačním mechanismu</li>
+<li>Veřejně je dostupný proof-of-concept exploit, což výrazně zvyšuje riziko zneužití</li>
+<li>Postiženy jsou pouze servery s aktivní rolí WSUS, která slouží k distribuci aktualizací Windows v podnikových sítích</li>
+<li>Aktualizace je kumulativní a zahrnuje i říjnové záplaty, pokud ještě nebyly nainstalovány</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Windows Server Update Services je komponenta Windows Server, která umožňuje správcům centrálně spravovat distribuci aktualizací Microsoft produktů v podnikové síti. Místo aby každý počítač stahoval aktualizace přímo z internetu, WSUS server je stáhne jednou a následně je distribuuje klientským počítačům v lokální síti.</p>
+<p>Zranitelnost spočívá v tom, jak WSUS zpracovává příchozí data. Konkrétně jde o problém s deserializací - procesem, při kterém se data převádějí zpět do objektů v paměti. Pokud systém deserializuje nedůvěryhodná data bez řádné validace, útočník může připravit speciálně upravená data, která po deserializaci způsobí spuštění libovolného kódu na serveru.</p>
+<p>Microsoft podle svého vyjádření identifikoval problém v &ldquo;zastaralém serializačním mechanismu&rdquo;, což naznačuje, že jde o starší kód, který nebyl navržen s ohledem na moderní bezpečnostní standardy. To je běžný problém u Windows, které obsahuje velké množství legacy kódu z důvodu zpětné kompatibility.</p>
+<p>Pro správce, kteří nemohou okamžitě nainstalovat záplatu, Microsoft doporučuje dvě dočasná řešení. První možností je úplné vypnutí role WSUS na postižených serverech, což ovšem znemožní distribuci aktualizací klientským počítačům. Druhá možnost je blokování příchozího provozu na portech 8530 a 8531 v hostitelském firewallu, což efektivně zastaví fungování WSUS.</p>
+<p>Instalace aktualizace vyžaduje restart serveru, což může být problematické pro produkční prostředí, zejména když záplata přichází těsně před víkendem.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato mimořádná záplata má vysokou prioritu hned z několika důvodů. Především jde o kritickou zranitelnost umožňující vzdálené spuštění kódu bez nutnosti autentizace, což představuje extrémní bezpečnostní riziko. Útočník, který tuto zranitelnost zneužije, získá plnou kontrolu nad WSUS serverem.</p>
+<p>Dalším zásadním faktorem je existence veřejně dostupného proof-of-concept exploitu. To znamená, že útočníci mají k dispozici funkční návod, jak zranitelnost zneužít, což dramaticky zkracuje čas mezi zveřejněním záplaty a prvními útoky v reálném prostředí.</p>
+<p>WSUS servery jsou navíc atraktivním cílem pro útočníky, protože hrají klíčovou roli v podnikové infrastruktuře. Kompromitovaný WSUS server by mohl být zneužit k distribuci malwaru maskovaného jako legitimní aktualizace, což by útočníkovi umožnilo infikovat všechny počítače v síti.</p>
+<p>Stojí za zmínku, že WSUS je na seznamu zastaralých technologií pro Windows Server - Microsoft jej již aktivně nevyvíjí, i když jej stále podporuje. Společnost nedávno po protestech uživatelů potvrdila, že bude pokračovat v podpoře synchronizace ovladačů do WSUS, ačkoli původně plánovala tuto podporu ukončit v dubnu 2025. To naznačuje, že Microsoft se snaží uživatele postupně přesunout na modernější řešení pro správu aktualizací.</p>
+<hr />
+<p><a href="https://www.theregister.com/2025/10/24/windows_server_patch/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Theregister.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.theregister.com/2025/10/24/windows_server_patch/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Microsoft issues out-of-band patch for critical WSUS flaw - theregister.com</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -268,6 +268,15 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
       <li>Kliknutí mimo nebo Escape zavře menu</li>
     </ul>
   </li>
+  <li><strong>Archivace tech_news</strong> - automatické převádění starých článků na statické HTML
+    <ul>
+      <li>Nový skript <code class="language-plaintext highlighter-rouge">scripts/archive_tech_news.py</code> - archivuje články starší než 7 dní</li>
+      <li>Staré články se převedou na statické HTML do <code class="language-plaintext highlighter-rouge">tech-news-archive/</code></li>
+      <li>Jekyll zpracovává pouze čerstvé články - rychlejší build</li>
+      <li>Integrace do GitHub Actions workflow (build.yml)</li>
+      <li>URL zůstávají zachované: <code class="language-plaintext highlighter-rouge">/tech-news/YYYY-MM-DD/slug/</code></li>
+    </ul>
+  </li>
 </ul>
 
 <h3 id="changed">Changed</h3>

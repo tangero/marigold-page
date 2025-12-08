@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Výzkum naznačuje oddělené dráhy pro memorování a uvažování v AI modelech | Marigold.cz Tech News</title>
+    <meta name="description" content="Nová studie startupu Goodfire.ai ukazuje, že velké jazykové modely mají zřetelně oddělené neuronové komponenty pro doslovné memorování tréninkových dat a pro lo">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-10/researchers-isolate-memorization-from-reasoning-in/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 10.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">🔬</span>
+                    <span class="source-name">Ars Technica</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Výzkum naznačuje oddělené dráhy pro memorování a uvažování v AI modelech</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-10T23:06:42+00:00">10.11.2025</time>
+                    <span class="category">ai</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg" alt="Výzkum naznačuje oddělené dráhy pro memorování a uvažování v AI modelech" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Výzkumníci z Goodfire.ai předložili experimentální důkazy, že velké jazykové modely (LLM) mají výrazně oddělené neuronové dráhy pro memorování tréninkových dat a pro obecné uvažování. Ukazují, že selektivním zásahem do těchto drah lze dramaticky omezit schopnost modelu citovat tréninková data, aniž by se podstatně zhoršil jeho výkon v úlohách vyžadujících logické myšlení a zobecnění.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Oddělené „memorizační“ a „logické“ komponenty byly identifikovány v interní struktuře LLM.</li>
+<li>Odstranění memorizačních cest snížilo schopnost přesného citování tréninkových dat o cca 97 %, při zachování téměř nezměněného výkonu v úlohách uvažování.</li>
+<li>Analýza byla demonstrována na modelu OLMo-7B (Allen Institute for AI) pomocí metriky označené jako „curvature“ k seřazení vah.</li>
+<li>Komponenty spojené s memorováním se koncentrovaly ve spodní části žebříčku vah, komponenty pro zobecnění a řešení úloh naopak v horní části.</li>
+<li>Zjištění naznačují, že i základní aritmetika je v těchto modelech částečně obsluhována „memorizačními“ drahami, nikoli čistě abstraktním „logickým“ modulem.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Studie Goodfire.ai, menšího výzkumného startupu zaměřeného na interpretovatelnost a bezpečnost AI modelů, se soustředí na mechanistickou analýzu vnitřní struktury velkých jazykových modelů. Na příkladu OLMo-7B, otevřeného modelu vyvinutého Allen Institute for AI, autoři hodnotili jednotlivé váhové komponenty v konkrétních vrstvách modelu podle metriky nazývané „curvature“. Tato metrika měří, jak citlivě daná komponenta reaguje na změny v datech a jak se podílí na nelineárním chování modelu.</p>
+<p>Při porovnání aktivačních vzorců na datech, která byla součástí tréninku, a na nových, netréninkových textech se ukázalo, že spodních 50 % komponent v dané vrstvě vykazuje významně vyšší aktivaci na memorovaných pasážích. Naopak horní část žebříčku, přibližně 10 % komponent s nejvyšší „curvature“, se více aktivuje na obecný text a úlohy vyžadující zobecnění. Prakticky to umožnilo „chirurgický“ zásah: odstraněním komponent identifikovaných jako memorizační autoři dramaticky omezili schopnost modelu doslovně reprodukovat tréninková data, ale výkon v úlohách uvažování, porozumění textu a řešení nových úloh zůstal téměř zachován.</p>
+<p>Zajímavým a potenciálně kontroverzním zjištěním je, že i aritmetické schopnosti modelu, jako jsou jednoduché výpočty, jsou částečně realizovány přes stejné dráhy, které nesou memorizační chování. To naznačuje, že pro některé typy úloh, které vnímáme jako „logické“, model ve skutečnosti využívá komplexní statistické a paměťové vzorce namísto odděleného, obecného mechanismu uvažování. Studie je ve formátu preprintu a výsledky zatím nejsou nezávisle široce replikovány, ale zapadají do rostoucího trendu mechanistické interpretovatelnosti, který se snaží převést chování AI z černé skříňky na analyzovatelnou infrastrukturu.</p>
+<h2>Proč je to důležité</h2>
+<p>Pokud se tyto výsledky potvrdí, mohou mít přímý dopad na několik oblastí. Pro poskytovatele LLM by možnost cíleně omezit memorování znamenala lepší kontrolu nad únikem citlivých nebo autorsky chráněných tréninkových dat, což je zásadní pro právní a reputační rizika. Pro regulátory a firmy nasazující AI systémy by šlo o konkrétní technický nástroj, jak sladit výkonnost modelů s požadavky na ochranu dat.</p>
+<p>Z hlediska výzkumu bezpečnosti a alignmentu AI je existence oddělitelných drah pro různé typy chování klíčová. Umožňuje navrhovat zásahy, které nepoškozují celkovou užitečnost systému, ale cílí na konkrétní rizikové projevy (memorování, toxický obsah, specifické prompt injection vzory). Zároveň je nutná opatrnost: odstranění memorizačních komponent může oslabit některé užitečné schopnosti, jako je přesná citace, znalost vzácných faktů nebo spolehlivější aritmetika. Tento výzkum proto není receptem na jednoduché „opravy“ AI, ale spíše počátkem systematičtějšího, jemně odstupňovaného řízení chování modelů na úrovni jejich interní architektury.</p>
+<hr />
+<p><a href="https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 🔬 Ars Technica</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Researchers isolate memorization from reasoning in AI neural networks - Ars Technica</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

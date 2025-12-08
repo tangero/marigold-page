@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Možnosti predikce rovnováhy u dětí pomocí akcelerometru a strojového učení | Marigold.cz Tech News</title>
+    <meta name="description" content="Výzkum zkoumá, zda lze pomocí akcelerometrických dat a modelů strojového učení předpovědět výsledky klinických testů rovnováhy u dětí ve věku 6–12 let.">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-25/feasibility-of-accelerometer-based-prediction-of-p/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 25.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nature.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Možnosti predikce rovnováhy u dětí pomocí akcelerometru a strojového učení</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-25T00:00:00+00:00">25.11.2025</time>
+                    <span class="category">zdravotní technologi</span>
+                </div>
+            </header>
+
+            
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Vědci vyhodnotili, zda lze pomocí akcelerometrických dat získaných během statických a dynamických úkolů předpovědět výsledky standardních klinických testů rovnováhy u dětí ve věku 6 až 12 let. Výsledky ukazují, že modely strojového učení dokáží s mírnou, ale konzistentní přesností předpovědět výsledky Flamingo testu, zatímco predikce výkonu v testu na rovnovážném trámu selhává.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Studie zahrnovala 90 dětí a využila akcelerometrická data ze tří os a výsledné velikosti zrychlení.</li>
+<li>Testované úkoly zahrnovaly statické pozice (s otevřenýma i zavřenýma očima, na nestabilní ploše) a chůzi.</li>
+<li>Nejlepší výsledky pro predikci Flamingo testu dosáhly modely random forest, support vector regression a k-nearest neighbors.</li>
+<li>Predikce výkonu v testu na rovnovážném trámu byla napříč všemi modely neúspěšná.</li>
+<li>Výzkum podporuje potenciál akcelerometrie a AI jako nástroje pro objektivní hodnocení motorického vývoje dětí.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Studie publikovaná v časopise Scientific Reports se zaměřuje na objektivizaci hodnocení posturální rovnováhy u dětí, což je klíčové pro včasnou detekci motorických poruch a prevenci pádů. Tradiční metody, jako Flamingo test (stání na jedné noze) nebo chůze po rovnovážném trámu, jsou subjektivní a neposkytují kvantitativní data. Výzkumníci proto nasadili akcelerometry k zachycení pohybových vzorců během různých úkolů a následně vycvičili několik modelů strojového učení – včetně lineární regrese, penalizované regrese, k-nearest neighbors, support vector regression a random forest – na predikci výsledků těchto testů. Data byla validována pomocí 5-násobné křížové validace. Zatímco Flamingo test se podařilo předpovědět s mírnou přesností (zejména na základě statických úkolů), výkon v testu na trámu se nepodařilo modely zachytit. To naznačuje, že akcelerometrická data lépe zachycují statickou než dynamickou rovnováhu u dětí.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento výzkum přispívá k rozvoji digitálních nástrojů pro pediatrickou rehabilitaci a školní zdravotnictví. Pokud by se podařilo v budoucnu zlepšit přesnost predikce i pro dynamické úkoly, mohly by být akcelerometry integrovány do běžného screeningového vyšetření dětí – například v rámci školních preventivních prohlídek. Zároveň však studie ukazuje limity současných přístupů: i přes pokroky v AI zůstává predikce složitých motorických dovedností náročná, zejména u různorodé populace jako jsou děti. Výsledky tak podtrhují potřebu kombinovat senzorová data s klinickým kontextem, nikoli spoléhat výhradně na algoritmy.</p>
+<hr />
+<p><a href="https://www.nature.com/articles/s41598-025-30160-9">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nature.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.nature.com/articles/s41598-025-30160-9" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Feasibility of accelerometer-based prediction of postural balance in schoolchildren using machine learning models</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
