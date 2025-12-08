@@ -4,13 +4,7 @@ categories:
 - AI
 - RAG
 layout: post
-summary_points:
-- Apple představil model CLaRa-7B pro efektivní lokální RAG aplikace (Retrieval-Augmented Generation)
-- CLaRa-7B spojuje vyhledávání a generování v jednom modelu – umožňuje end-to-end učení a lepší výsledky s menším kontextem
-- Model využívá kompaktní paměťové tokeny namísto hrubého textu a dokáže komprimovat vstupy 32× až 64×
-- Návod na spuštění CLaRa-7B na běžném GPU a výčet potřebných softwarových prostředí
-- Praktický popis implementace a výhod CLaRa-7B oproti tradičním RAG přístupům při lokálním zpracování dat
-excerpt: Apple přináší nový zajímavý model sjednocující vyhledávání a generování odpovědí do jednoho spojitého modelu.
+post_excerpt: Apple přináší nový zajímavý model sjednocující vyhledávání a generování odpovědí do jednoho spojitého modelu.
 title: Apple CLaRa-7B je zajímavá varianta pro lokální RAG
 ---
 
