@@ -1,7 +1,146 @@
 {
-  "generated": "2025-12-09T04:41:47.804896+00:00",
+  "generated": "2025-12-09T08:41:32.098846+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Ray Dalio: Blízký východ se stává ‚Silicon Valley kapitalistů‘",
+      "description": "Zakladatel Bridgewater Associates Ray Dalio porovnal rozvoj zemí Blízkého východu se Silicon Valley díky masivním investicím do AI infrastruktury. Spojené arabské emiráty a Saúdská Arábie tento rok spustily iniciativy v hodnotě miliard dolarů na výstavbu cloudů, datových center a AI zařízení.",
+      "slug": "ray-dalio-says-middle-east-is-becoming-a-silicon-v",
+      "publishedAt": "2025-12-08T08:08:36+00:00",
+      "date": "2025-12-08 08:08:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217912-1761667354340-Dalio1.jpg?v=1761667468&w=1920&h=1080",
+      "url": "/tech-news/2025-12-08/ray-dalio-says-middle-east-is-becoming-a-silicon-v/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": [
+        "Ray Dalio"
+      ]
+    },
+    {
+      "title": "Evropská komise vybírá Capgemini pro svou rámcovou smlouvu EU na cybersecurity",
+      "description": "Evropská komise vybírá Capgemini pro svou EU cybersecurity framework contract ...",
+      "slug": "european-commission-selects-capgemini-for-its-eu-c",
+      "publishedAt": "2025-12-08T07:30:00+00:00",
+      "date": "2025-12-08 07:30:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/2bd353d1-968f-4357-a8e7-379888d802f4",
+      "url": "/tech-news/2025-12-08/european-commission-selects-capgemini-for-its-eu-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Capgemini"
+      ],
+      "people": []
+    },
+    {
+      "title": "Asijské akcie smíšené před rozhodnutím Fedu o úrokových sazbách",
+      "description": "Akcie v Asii vykazují smíšené výsledky, protože investoři opatrně čekají na rozhodnutí Federální rezervy o úrokových sazbách tento týden. Na Wall Street došlo k mírnému poklesu hlavních indexů, ovlivněnému změnami ve vedení Berkshire Hathaway a konkurenčními nabídkami na akvizici Warner Bros.",
+      "slug": "asian-shares-are-mixed-ahead-of-fed-interest-rate-",
+      "publishedAt": "2025-12-08T07:17:28+00:00",
+      "date": "2025-12-08 07:17:28",
+      "importance": 5,
+      "category": "finanční trhy",
+      "urlToImage": "https://i.abcnewsfe.com/a/f935144f-5da5-4169-a2f3-b678a56b0053/wirestory_2ade718b1fb76607f59d22133b86efbd_16x9.jpg?w=1600",
+      "url": "/tech-news/2025-12-08/asian-shares-are-mixed-ahead-of-fed-interest-rate/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uvnitř NVIDIA NVQLink: Rychlejší AI s kvantovou asistencí pro opravy v reálném čase",
+      "description": "NVIDIA představila NVQLink, technologii spojující kvantové počítače s AI superpočítači. Tento most umožňuje rychlé zpracování dat v reálném čase díky kvantovým principům jako superpozice a provázanost.",
+      "slug": "inside-nvidia-nvqlink-faster-ai-with-a-quantum-ass",
+      "publishedAt": "2025-12-08T07:12:39+00:00",
+      "date": "2025-12-08 07:12:39",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpu-qubit-real-time-error-correction_optimized.jpg",
+      "url": "/tech-news/2025-12-08/inside-nvidia-nvqlink-faster-ai-with-a-quantum-ass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Analytici očekávají další růst TSMC (TSM) díky poptávce po AI",
+      "description": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) patří mezi nejlepší akcie, které si investoři přejí koupit dříve. K 2. prosinci je tento polovodičový gigant konsensem Koupit s očekávaným růstem o více než 21 procent.",
+      "slug": "analysts-see-continued-upside-in-tsmc-tsm-amid-ai-",
+      "publishedAt": "2025-12-08T06:48:51+00:00",
+      "date": "2025-12-08 06:48:51",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dxLwpiZ6DCkZWjXcNMmTQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTM-/https://media.zenfs.com/en/insidermonkey.com/de8df6d5dadb2d673b307341d6e5e10b",
+      "url": "/tech-news/2025-12-08/analysts-see-continued-upside-in-tsmc-tsm-amid-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Administrativa Trumpa představuje národní strategii pro robotiku, aby konkurovala Číně a posílila domácí výrobu",
+      "description": "Administrativa Donalda Trumpa připravuje rozsáhlý program na posílení pozice USA v oblasti humanoidních robotů, který má čelit dominanci Číny v automatizaci a pokročilé výrobě. V roce 2025 by měl být vydán prezidentský výnos k urychlení domácího vývoje robotiky.",
+      "slug": "trump-administration-unveils-national-robotics-str",
+      "publishedAt": "2025-12-08T06:00:00+00:00",
+      "date": "2025-12-08 06:00:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Robot-AI-Android-Humanoid-Workers-Warehouse.jpg",
+      "url": "/tech-news/2025-12-08/trump-administration-unveils-national-robotics-str/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google a Amazon vstupují do arény AI čipů: Dokáže Nvidia udržet svou dominanci?",
+      "description": "Google a Amazon agresivně vyvíjejí vlastní AI čipy jako TPU a Trainium3, aby snížily závislost na Nvidia a dosáhly soběstačnosti v AI hardwaru. Navzdory poklesu akcií Nvidia o 2,5 % kvůli možné dohodě Google s Meta na dodávkách TPU si Nvidia zachovává sebevědomí díky vyprodaným čipům Blackwell a Rubin do roku 2026.",
+      "slug": "google-and-amazon-enter-the-ai-chip-arena-can-nvid",
+      "publishedAt": "2025-12-08T06:00:00+00:00",
+      "date": "2025-12-08 06:00:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Logo-Building.jpg",
+      "url": "/tech-news/2025-12-08/google-and-amazon-enter-the-ai-chip-arena-can-nvid/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "Google",
+        "Amazon",
+        "Nvidia",
+        "Meta"
+      ],
+      "people": []
+    },
     {
       "title": "Akcie Ola Electric v centru pozornosti po zahájení masových dodávek vozidel s bateriemi 4680 Bharat Cell",
       "description": "Ola Electric zahájila masové dodávky skútru S1 Pro+ s vlastně vyvinutou baterií 4680 Bharat Cell a stala se první indickou společností, která plně ovládá výrobu buněk i bateriových balíčů. Tento krok posiluje jejich pozici na trhu elektromobility a vedl k růstu akcií o 2,6 %.",
@@ -1673,24 +1812,6 @@
       "people": []
     },
     {
-      "title": "Původ dat v AI pro důvěryhodné marketingové AI",
-      "description": "Článek vysvětluje, jak původ dat v AI (AI data provenance) posiluje důvěryhodnost marketingových AI systémů. Zaměřuje se na linii dat, souhlas s použitím a správu dat pro bezpečné škálování.",
-      "slug": "ai-data-provenance-for-trustworthy-marketing-ai",
-      "publishedAt": "2025-12-06T22:10:22+00:00",
-      "date": "2025-12-06 22:10:22",
-      "importance": 3,
-      "category": "marketing ai",
-      "urlToImage": "https://www.singlegrain.com/wp-content/uploads/2025/12/AI-Data-Provenance.png",
-      "url": "/tech-news/2025-12-06/ai-data-provenance-for-trustworthy-marketing-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singlegrain.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Uživatelé hlásí reklamy na ChatGPT. OpenAI to popírá",
       "description": "Ředitel produktu ChatGPT Nick Turley z OpenAI prohlásil, že společnost neprovádí žádné živé testy reklam na platformě. Uživatelé však tvrdí opak.",
       "slug": "users-say-they-are-seeing-ads-on-chatgpt-openai-sa",
@@ -2832,48 +2953,6 @@
       "people": []
     },
     {
-      "title": "Po ztrátě více než 70 miliard dolarů Mark Zuckerberg konečně přiznal, že jeho největší sázka nefunguje",
-      "description": "Generální ředitel Meta Mark Zuckerberg přiznal, že Metaverse, do kterého společnost investovala miliardy a kvůli němuž v roce 2021 změnila název z Facebooku na Meta, nefunguje podle očekávání. Tento krok signalizuje možný strategický obrat směrem k umělé inteligenci.",
-      "slug": "after-losing-more-than-70-billion-mark-zuckerberg-",
-      "publishedAt": "2025-12-06T11:49:23+00:00",
-      "date": "2025-12-06 11:49:23",
-      "importance": 3,
-      "category": "metaverzum",
-      "urlToImage": "https://biztoc.com/cdn/86e1f530d4420707_s.webp",
-      "url": "/tech-news/2025-12-06/after-losing-more-than-70-billion-mark-zuckerberg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Mark Zuckerberg"
-      ]
-    },
-    {
-      "title": "Amazon očekává, že jeho investice 12,7 miliardy dolarů do AI podpoří 15 milionů malých firem v Indii do roku 2030",
-      "description": "Amazon plánuje investovat 12,7 miliardy dolarů do cloudové a AI infrastruktury v Indii, což má do roku 2030 podpořit 15 milionů malých firem. Společnost chce zároveň vyučit umělé inteligenci 4 miliony studentů státních škol a od roku 2017 už poskytla cloudové dovednosti přes 6,2 milionu lidem.",
-      "slug": "amazon-expects-its-127-billion-ai-investment-to-be",
-      "publishedAt": "2025-12-06T11:34:21+00:00",
-      "date": "2025-12-06 11:34:21",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36658,resizemode-75,msid-125804564/tech/artificial-intelligence/amazon-expects-its-12-7-billion-ai-investment-to-benefit-15-million-small-businesses-in-india-by-2030.jpg",
-      "url": "/tech-news/2025-12-06/amazon-expects-its-127-billion-ai-investment-to-be/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "Oznámeno první škálovatelné úložiště dat na bázi DNA s kapacitou 60 PB v 60 kubických palcích, postačí na 660 000 filmů v 4K – Atlas Data Storage tvrdí 1000násobnou hustotu oproti LTO-10 pásce",
       "description": "Společnost Atlas Data Storage oznámila svůj první komerční produkt Atlas Eon 100, což je škálovatelné úložiště dat využívající technologii DNA. Řešení slibuje extrémní hustotu úložiště a dlouhodobou stabilitu bez potřeby obnovování dat.",
       "slug": "worlds-first-scalable-dna-data-storage-offering-an",
@@ -3191,28 +3270,6 @@
       ]
     },
     {
-      "title": "Umělá inteligence představuje velkou příležitost pro Indii překonat konkurenty: Prezident Qualcomm India",
-      "description": "Unikátní demografický rozsah Indie a rostoucí zájem o technologie ji staví do klíčového momentu ekonomické transformace, říká prezident Qualcomm India Savi Soin.",
-      "slug": "ai-presents-a-big-opportunity-for-india-to-leapfro",
-      "publishedAt": "2025-12-06T08:26:35+00:00",
-      "date": "2025-12-06 08:26:35",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/lbv5zi/article70365065.ece/alternates/LANDSCAPE_1200/qualcomm5_14.jpg",
-      "url": "/tech-news/2025-12-06/ai-presents-a-big-opportunity-for-india-to-leapfro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Qualcomm"
-      ],
-      "people": [
-        "Savi Soin"
-      ]
-    },
-    {
       "title": "Jak čínští solopreneuři využívají umělou inteligenci k prolomení těžkého trhu práce",
       "description": "Čínský boom umělé inteligence vytváří novou skupinu solopreneurů, kteří díky technologii proměňují své podnikatelské nápady v realitu. To nabízí naději v jinak neperspektivním trhu práce bez oficiálních statistik.",
       "slug": "how-chinas-solopreneurs-are-using-ai-to-crack-a-to",
@@ -3229,28 +3286,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "AI by mohla ovládat třetinu dlouhých filmů a animací do roku 2026, tvrdí čínský Tencent",
-      "description": "Generativní AI přetvoří nabídku prémiového obsahu na obrazovkách. Podle viceprezidenta čínského online mediálního giganta Tencentu a šéfa Tencent Video Sun Zhonghua by do dvou let mohla dominovat nebo hluboce ovlivnit až třetinu dlouhých filmů a animací.",
-      "slug": "ai-could-drive-a-third-of-long-form-film-and-anima",
-      "publishedAt": "2025-12-06T08:02:45+00:00",
-      "date": "2025-12-06 08:02:45",
-      "importance": 3,
-      "category": "generativní ai",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Sun-Zhonghuai.jpg?w=1000&h=563&crop=1",
-      "url": "/tech-news/2025-12-06/ai-could-drive-a-third-of-long-form-film-and-anima/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Variety"
-      },
-      "companies": [
-        "Tencent"
-      ],
-      "people": [
-        "Sun Zhonghuai"
-      ]
     },
     {
       "title": "Velká Británie chce odemknout ‚zlatý věk jaderné energie‘, ale čelí klíčovým výzvám při obnovení historického vedení",
@@ -3494,26 +3529,6 @@
       "people": []
     },
     {
-      "title": "Datová centra pro AI způsobují chaos v místních komunitách po celých USA",
-      "description": "„Stavíme tyto věci tak rychle, že než jsou online a aktivní, problémy jsou už zabudované.“ Od svého návratu do úřadu se prezident Trump zaměřil na pokrok umělé inteligence (AI) jako klíčový bod své druhé administrativy.",
-      "slug": "ai-data-centers-are-wreaking-havoc-on-local-commun",
-      "publishedAt": "2025-12-06T03:24:50+00:00",
-      "date": "2025-12-06 03:24:50",
-      "importance": 3,
-      "category": "datová centra",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/ai-data-centers-are-wreaking-havoc-on-local-commun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "OpenAI vytrénovala svůj LLM na přiznávání špatného chování",
       "description": "OpenAI testuje nový způsob, jak odhalit procesy uvnitř velkých jazykových modelů. Výzkumníci společnosti dokážou LLM donutit produkovat takzvané přiznání, ve kterém model vysvětluje provedení úkolu a většinou přiznává špatné chování.",
       "slug": "openai-has-trained-its-llm-to-confess-to-bad-behav",
@@ -3606,24 +3621,6 @@
         "emoji": "📰",
         "id": null,
         "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Po desetiletích přetěžování gadgetů funkcemi hledáme tichou technologii",
-      "description": "Produkty pracující na pozadí a AI pomáhající tiše by mohly učinit technologii méně náročnou. Tento posun ilustruje například model chytrých brýlí Even Realities G2.",
-      "slug": "after-decades-of-feature-stuffing-gadgets-we-look-",
-      "publishedAt": "2025-12-06T01:30:05+00:00",
-      "date": "2025-12-06 01:30:05",
-      "importance": 3,
-      "category": "tichá technologie",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/1000059789_1764923163117_1764923177930_1764923243285.jpg",
-      "url": "/tech-news/2025-12-06/after-decades-of-feature-stuffing-gadgets-we-look/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
       },
       "companies": [],
       "people": []
