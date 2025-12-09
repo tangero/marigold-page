@@ -16,6 +16,32 @@
 7. [CHANGELOG.md - POVINNÉ](#changelogmd---povinné)
 8. [Coding Conventions](#coding-conventions)
 9. [Deployment](#deployment)
+10. [Vibecoding.cz](#vibecoding-web)
+
+---
+
+## Vibecoding Web
+
+**Vibecoding.cz** je separátní web hostovaný na Cloudflare Pages, který sdílí tento repozitář.
+
+**Pro práci s vibecoding.cz viz kompletní dokumentaci: [`docs/VIBECODING_GUIDE.md`](docs/VIBECODING_GUIDE.md)**
+
+### Quick Reference
+
+| Aspekt | Hodnota |
+|--------|---------|
+| URL | https://www.vibecoding.cz |
+| Hosting | Cloudflare Pages |
+| Config | `_config_vibecoding.yml` |
+| Kolekce | `_vibecoding/` |
+| Build | `bundle exec jekyll build --config _config_vibecoding.yml` |
+
+### Klíčové body
+
+- Články jsou v `_vibecoding/[kategorie]/YYYY-MM-DD-slug.md`
+- Články **nemají `date:` ve front matter** - datum se bere z názvu souboru
+- Při přidávání nových stránek do `_pages/` zkontrolovat, zda nepoužívají kolekce nedefinované pro vibecoding
+- Build selhává s "Cannot sort a null object" pokud stránka používá neexistující kolekci
 
 ---
 

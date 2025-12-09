@@ -246,7 +246,58 @@ Verze: 2.0 | Poslední aktualizace: 2025-11-15</p>
   <li><a href="#changelogmd---povinné">CHANGELOG.md - POVINNÉ</a></li>
   <li><a href="#coding-conventions">Coding Conventions</a></li>
   <li><a href="#deployment">Deployment</a></li>
+  <li><a href="#vibecoding-web">Vibecoding.cz</a></li>
 </ol>
+
+<hr />
+
+<h2 id="vibecoding-web">Vibecoding Web</h2>
+
+<p><strong>Vibecoding.cz</strong> je separátní web hostovaný na Cloudflare Pages, který sdílí tento repozitář.</p>
+
+<p><strong>Pro práci s vibecoding.cz viz kompletní dokumentaci: <a href="/docs/VIBECODING_GUIDE/"><code class="language-plaintext highlighter-rouge">docs/VIBECODING_GUIDE.md</code></a></strong></p>
+
+<h3 id="quick-reference">Quick Reference</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspekt</th>
+      <th>Hodnota</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>URL</td>
+      <td>https://www.vibecoding.cz</td>
+    </tr>
+    <tr>
+      <td>Hosting</td>
+      <td>Cloudflare Pages</td>
+    </tr>
+    <tr>
+      <td>Config</td>
+      <td><code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></td>
+    </tr>
+    <tr>
+      <td>Kolekce</td>
+      <td><code class="language-plaintext highlighter-rouge">_vibecoding/</code></td>
+    </tr>
+    <tr>
+      <td>Build</td>
+      <td><code class="language-plaintext highlighter-rouge">bundle exec jekyll build --config _config_vibecoding.yml</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="klíčové-body">Klíčové body</h3>
+
+<ul>
+  <li>Články jsou v <code class="language-plaintext highlighter-rouge">_vibecoding/[kategorie]/YYYY-MM-DD-slug.md</code></li>
+  <li>Články <strong>nemají <code class="language-plaintext highlighter-rouge">date:</code> ve front matter</strong> - datum se bere z názvu souboru</li>
+  <li>Při přidávání nových stránek do <code class="language-plaintext highlighter-rouge">_pages/</code> zkontrolovat, zda nepoužívají kolekce nedefinované pro vibecoding</li>
+  <li>Build selhává s “Cannot sort a null object” pokud stránka používá neexistující kolekci</li>
+</ul>
 
 <hr />
 
@@ -780,7 +831,7 @@ OPENROUTER_API_KEY=sk-...     # OpenRouter API pro LLM
 
 <hr />
 
-<h2 id="quick-reference">Quick Reference</h2>
+<h2 id="quick-reference-1">Quick Reference</h2>
 
 <h3 id="časté-úkoly">Časté úkoly</h3>
 

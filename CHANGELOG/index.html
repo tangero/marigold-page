@@ -236,6 +236,34 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
 
 <h3 id="added">Added</h3>
 <ul>
+  <li><strong>LLM Model Tracker</strong> - automatický systém pro sledování a analýzu nových LLM modelů z OpenRouter API
+    <ul>
+      <li>Nový skript <code class="language-plaintext highlighter-rouge">scripts/track_llm_models.py</code> - detekuje a analyzuje nové modely</li>
+      <li>Watermark mechanismus - sleduje nejnovější známý model, analyzuje pouze novější</li>
+      <li>Automatická analýza pomocí Gemini 3 Pro s porovnáním konkurence</li>
+      <li>Generuje Jekyll posty do <code class="language-plaintext highlighter-rouge">_llm/</code> kolekce (formát <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-model-slug.md</code>)</li>
+      <li>Překlad popisů modelů do češtiny pomocí LLM</li>
+      <li>Data tracking v <code class="language-plaintext highlighter-rouge">_data/llm_models_tracked.json</code></li>
+      <li>CLI příkazy: <code class="language-plaintext highlighter-rouge">--dry-run</code>, <code class="language-plaintext highlighter-rouge">--list-tracked</code>, <code class="language-plaintext highlighter-rouge">--status</code>, <code class="language-plaintext highlighter-rouge">--reset-watermark</code></li>
+      <li>GitHub Actions workflow <code class="language-plaintext highlighter-rouge">.github/workflows/llm-tracker.yml</code> - denní spuštění v 6:00 UTC</li>
+    </ul>
+  </li>
+  <li><strong>Jekyll kolekce <code class="language-plaintext highlighter-rouge">_llm</code></strong> - nová kolekce pro recenze LLM modelů
+    <ul>
+      <li>Layout <code class="language-plaintext highlighter-rouge">_layouts/llm_review.html</code> - kompletní vizuální šablona pro recenze</li>
+      <li>Přehledová stránka <code class="language-plaintext highlighter-rouge">/llm/</code> s filtry podle providera</li>
+      <li>Kolekce nepřidává články na titulní stránku (oddělená od <code class="language-plaintext highlighter-rouge">_posts</code>)</li>
+      <li>Permalink struktura: <code class="language-plaintext highlighter-rouge">/llm/:slug/</code></li>
+    </ul>
+  </li>
+  <li><strong>LLM Model Card Generator</strong> - generátor HTML karet pro jednotlivé modely
+    <ul>
+      <li>Skript <code class="language-plaintext highlighter-rouge">scripts/fetch_llm_model_card.py</code> - stahuje data a generuje vizualizace</li>
+      <li>HTML šablona <code class="language-plaintext highlighter-rouge">scripts/templates/llm_model_card.html</code> - dark mode design</li>
+      <li>Strukturovaná JSON analýza s profily, silnými/slabými stránkami, konkurencí</li>
+      <li>Dynamické porovnání s aktuálními modely od Anthropic, Google, OpenAI, xAI, Mistral, DeepSeek</li>
+    </ul>
+  </li>
   <li><strong>Hybridní navigační menu</strong> - implementována dropdown navigace s tlačítkem “Další ☰”
     <ul>
       <li>
@@ -282,6 +310,24 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
       <li>Práh důležitosti zvýšen z 3 na 4 (pouze “velmi důležité” a “průlomové”)</li>
       <li>PageSize snížen ze 100 na 50 článků</li>
       <li>Očekávaný výsledek: ~20-30 článků/den místo 300+</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fixed">Fixed</h3>
+<ul>
+  <li><strong>Vibecoding.cz build</strong> - opravena chyba “Cannot sort a null object” při buildu
+    <ul>
+      <li>Přidány chybějící exclude položky do <code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></li>
+      <li>Vyloučeny stránky využívající kolekce nedefinované pro vibecoding (llm, tech_news atd.)</li>
+      <li>Vyloučeny dokumentační markdown soubory v rootu (TECH_NEWS_*.md, CHANGELOG.md atd.)</li>
+      <li>Build nyní úspěšně projde a články z prosince jsou viditelné</li>
+    </ul>
+  </li>
+  <li><strong>Tech-news workflow race condition</strong> - opraveno selhání git push při paralelních jobech
+    <ul>
+      <li>Přidán <code class="language-plaintext highlighter-rouge">git pull --rebase</code> před push v tech-news.yml workflow</li>
+      <li>Přidán tech-news-archive/ do git add pro archivované články</li>
     </ul>
   </li>
 </ul>
@@ -364,7 +410,7 @@ a projekt dodržuje <a href="https://semver.org/lang/cs/">Semantic Versioning</a
   </li>
 </ul>
 
-<h3 id="fixed">Fixed</h3>
+<h3 id="fixed-1">Fixed</h3>
 <ul>
   <li><strong>Seznam Diskuze API errors (401/404)</strong> - oprava canonical string formátu
     <ul>

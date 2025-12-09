@@ -1,101 +1,235 @@
 {
-  "generated": "2025-12-08T17:18:53.392830+00:00",
+  "generated": "2025-12-09T04:41:47.804896+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Assam pořádá Indický summit digitálních inovací 2025, představující budoucnost, kde technologie slouží každému občanovi",
-      "description": "Assam se stal národní scénou pro ambiciózní dialog o digitální správě v Indii. Ministerstvo informačních technologií státu ve spolupráci s Elets Technomedia uspořádalo Národní rezidenční summit digitálních inovací 2025 v hotelu Vivanta Taj v Guwáhátí.",
-      "slug": "assam-hosts-indias-2025-digital-innovation-summit-",
-      "publishedAt": "2025-12-07T16:14:39+00:00",
-      "date": "2025-12-07 16:14:39",
-      "importance": 3,
-      "category": "digitální inovace",
-      "urlToImage": "https://www.syllad.com/wp-content/uploads/2025/12/Assams-IT-Dept.jpg",
-      "url": "/tech-news/2025-12-07/assam-hosts-indias-2025-digital-innovation-summit/",
+      "title": "Akcie Ola Electric v centru pozornosti po zahájení masových dodávek vozidel s bateriemi 4680 Bharat Cell",
+      "description": "Ola Electric zahájila masové dodávky skútru S1 Pro+ s vlastně vyvinutou baterií 4680 Bharat Cell a stala se první indickou společností, která plně ovládá výrobu buněk i bateriových balíčů. Tento krok posiluje jejich pozici na trhu elektromobility a vedl k růstu akcií o 2,6 %.",
+      "slug": "ola-electric-shares-in-focus-as-co-begins-mass-del",
+      "publishedAt": "2025-12-08T03:24:05+00:00",
+      "date": "2025-12-08 03:24:05",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125825355,width-1200,height-630,imgsize-6784,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-08/ola-electric-shares-in-focus-as-co-begins-mass-del/",
       "source": {
         "emoji": "📰",
-        "id": null,
-        "name": "Syllad.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Treasure Data rozšiřuje přístup k AI Marketing Cloud prostřednictvím AWS Marketplace",
-      "description": "Treasure Data zpřístupnila 2. prosince 2025 svou AI Marketing Cloud na AWS Marketplace, což značkám umožňuje přímý přístup k platformě pro správu zákaznických dat. Tento krok proběhl na konferenci Amazon Web Services re:Invent 2025 v Las Vegas.",
-      "slug": "treasure-data-expands-ai-marketing-cloud-access-th",
-      "publishedAt": "2025-12-07T16:01:41+00:00",
-      "date": "2025-12-07 16:01:41",
-      "importance": 3,
-      "category": "ai marketing",
-      "urlToImage": "https://ppc.land/content/images/size/w1200/2025/12/Treasure-Data.jpg",
-      "url": "/tech-news/2025-12-07/treasure-data-expands-ai-marketing-cloud-access-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ppc.land"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
       "companies": [
-        "Treasure Data",
-        "AWS"
+        "Ola Electric"
       ],
       "people": []
     },
     {
-      "title": "Umělá inteligence zvyšuje efektivitu pohonných systémů kosmických lodí – a mohla by vést k raketám s jaderným pohonem",
-      "description": "Od jízdních kol po rakety, učení prostřednictvím zkušeností – ať lidských, nebo strojových – formuje budoucnost průzkumu vesmíru.",
-      "slug": "ai-is-making-spacecraft-propulsion-more-efficient-",
-      "publishedAt": "2025-12-07T16:00:00+00:00",
-      "date": "2025-12-07 16:00:00",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iUwLuFzGg9Ev9Vyw6BHRFV-1920-80.jpg",
-      "url": "/tech-news/2025-12-07/ai-is-making-spacecraft-propulsion-more-efficient/",
+      "title": "Ranní shrnutí SSPAI: Netflix plánuje odkoupit filmové studio a streamovací divize Warner Bros. za 72 miliard USD",
+      "description": "Netflix dosáhl dohody o akvizici filmového studia Warner Bros. a streamovací služby HBO Max za 72 miliard USD v hotovosti a akciích. Warner Bros. Discovery nejdříve oddělí své kabelové sítě včetně CNN a prodá zbytek. Tato největší akvizice v historii Netflixu by měla být uzavřena do 12 až 18 měsíců.",
+      "slug": "sspai-morning-brief-netflix-plans-to-acquire-warne",
+      "publishedAt": "2025-12-08T02:36:40+00:00",
+      "date": "2025-12-08 02:36:40",
+      "importance": 5,
+      "category": "streamovací průmysl",
+      "urlToImage": "https://sspai.me/wp-content/uploads/2025/11/d838ad40-ff09-e881-8679-2a9b5de90125-scaled.png",
+      "url": "/tech-news/2025-12-08/sspai-morning-brief-netflix-plans-to-acquire-warne/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Space.com"
+        "name": "Sspai.me"
+      },
+      "companies": [
+        "Netflix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indické zpravodajství: Indie couvne od povinné předinstalace bezpečnostní aplikace",
+      "description": "Indická vláda ustupuje od plánu na povinnou předinstalaci bezpečnostní aplikace Sanchar Saathi po odporu veřejnosti a průmyslu. Globální AI společnosti jako Google a OpenAI navazují partnerství s indickými firmami na výstavbu AI datových center.",
+      "slug": "india-roundup-india-flip-flops-on-mandatory-securi",
+      "publishedAt": "2025-12-08T00:54:03+00:00",
+      "date": "2025-12-08 00:54:03",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251207vl200_files/2_2b.jpg",
+      "url": "/tech-news/2025-12-08/india-roundup-india-flip-flops-on-mandatory-securi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
       },
       "companies": [],
       "people": []
     },
     {
-      "title": "Jak stablecoiny pomáhají zločincům prát peníze a obcházet sankce",
-      "description": "Článek z New York Times popisuje, jak stablecoiny usnadňují praní špinavých peněz a obcházení mezinárodních sankcí díky své rychlosti, anonymitě a snadné převoditelnosti. Tato kryptoměna umožňuje zločincům převádět miliardy dolarů bez zásahu bankovních systémů.",
-      "slug": "how-stablecoins-can-help-criminals-launder-money-a",
-      "publishedAt": "2025-12-07T15:52:00+00:00",
-      "date": "2025-12-07 15:52:00",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-07/how-stablecoins-can-help-criminals-launder-money-a/",
+      "title": "Kongres schválil obranný zákon za 900 miliard dolarů cílený na Čínu s technologickými zákazy, restrikcemi investic a zvýšením platů vojákům",
+      "description": "Americký Kongres přijal obranný zákon v hodnotě 900 miliard dolarů, který posiluje ekonomickou a vojenskou konkurenci s Čínou prostřednictvím nových restrikcí na investice, zákazů čínských technologií v dodavatelských řetězcích Pentagonu a 4procentního zvýšení platů vojákům.",
+      "slug": "congress-unveils-900b-defense-bill-targeting-china",
+      "publishedAt": "2025-12-08T00:22:17+00:00",
+      "date": "2025-12-08 00:22:17",
+      "importance": 4,
+      "category": "obranné technologie",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/us-capitol-building.jpg",
+      "url": "/tech-news/2025-12-08/congress-unveils-900b-defense-bill-targeting-china/",
       "source": {
         "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
+        "id": "fox-news",
+        "name": "Fox News"
       },
       "companies": [],
       "people": []
     },
     {
-      "title": "OpenAI se mění z zachránce akciového trhu v břemeno, jak rizika AI narůstají",
-      "description": "Sentiment Wall Street k firmám spojeným s umělou inteligencí se obrací: OpenAI klesá v hodnocení investorů, zatímco Alphabet stoupá. Tvůrce ChatGPT už není považován za špičku v AI technologiích.",
-      "slug": "openai-goes-from-stock-market-savior-to-burden-as-",
-      "publishedAt": "2025-12-07T15:51:58+00:00",
-      "date": "2025-12-07 15:51:58",
-      "importance": 3,
+      "title": "Teenagerka se svěřila AI chatbotovi před sebevraždou",
+      "description": "Rodiče varují, že AI chatboti na platformě Character AI posílali sexuálně explicitní obsah jejich 13leté dceři. Dívka se v chatbotovi svěřovala se sebevražednými myšlenkami před tragédií.",
+      "slug": "a-teen-confided-in-an-ai-chatbot-before-her-suicid",
+      "publishedAt": "2025-12-08T00:00:24+00:00",
+      "date": "2025-12-08 00:00:24",
+      "importance": 4,
+      "category": "ai chatboti",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/07/eaf85647-e303-4a42-b54d-1603efa2284a/thumbnail/1200x630/d9b5ae8dd71921dad1220198cb331b58/character-ai-article.jpg",
+      "url": "/tech-news/2025-12-08/a-teen-confided-in-an-ai-chatbot-before-her-suicid/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Character AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strukturovaná bezdrátová transkraniální optogenetika generuje umělou percepci",
+      "description": "Výzkum představuje plně implantabilní bezdrátové optogenetické zařízení, které prostorově-časově strukturovaně stimuluje kortikální oblasti mozku skrz lebku a vytváří umělé vnímání u myší. Myši dokázaly tyto umělé podněty diskriminovat během operantního učení.",
+      "slug": "patterned-wireless-transcranial-optogenetics-gener",
+      "publishedAt": "2025-12-08T00:00:00+00:00",
+      "date": "2025-12-08 00:00:00",
+      "importance": 4,
+      "category": "optogenetika",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-025-02127-6/MediaObjects/41593_2025_2127_Fig1_HTML.png",
+      "url": "/tech-news/2025-12-08/patterned-wireless-transcranial-optogenetics-gener/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf Google DeepMind Demis Hassabis: Škálování AI musí být posunuto na maximum",
+      "description": "Šéf Google DeepMind Demis Hassabis tvrdí, že škálování umělé inteligence je klíčové pro dosažení AGI, teoretické verze AI schopné uvažovat na úrovni člověka.",
+      "slug": "google-deepmind-ceo-demis-hassabis-says-ai-scaling",
+      "publishedAt": "2025-12-07T22:47:41+00:00",
+      "date": "2025-12-07 22:47:41",
+      "importance": 4,
       "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/55f3197b64a6a4d5_s.webp",
-      "url": "/tech-news/2025-12-07/openai-goes-from-stock-market-savior-to-burden-as/",
+      "urlToImage": "https://i.insider.com/6935efad04d0f0a114f18ff4?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-07/google-deepmind-ceo-demis-hassabis-says-ai-scaling/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
+    {
+      "title": "Čína drží klíče k modernímu světu a Západ riskuje zaostání",
+      "description": "Čína se kdysi snažila dohnat Západ, konkrétně USA; pak se dohnala; nyní Západ se snaží dohnat Čínu, ale pravděpodobně to nedokáže.",
+      "slug": "china-holds-the-key-to-the-modern-world-and-the-we",
+      "publishedAt": "2025-12-07T19:00:32+00:00",
+      "date": "2025-12-07 19:00:32",
+      "importance": 5,
+      "category": "čínské technologie",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/befc24313ae723fa6ac98618c3fb29be?impolicy=wcms_watermark_news&cropH=2216&cropW=3940&xPos=0&yPos=22&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2025-12-07/china-holds-the-key-to-the-modern-world-and-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hyundai představil plně autonomního robota připraveného na výrobu pro reálné úkoly",
+      "description": "Hyundai Motor Group Robotics LAB představil na veletrhu iREX 2025 v Tokiu robota MobED, autonomní platformu na kolech určenou pro průmyslové i každodenní aplikace. Robot integruje pokročilé moduly pro adaptivní pohyb a bude dostupný k prodeji v první polovině 2026.",
+      "slug": "hyundai-debuts-a-fully-autonomous-production-ready",
+      "publishedAt": "2025-12-07T18:20:59+00:00",
+      "date": "2025-12-07 18:20:59",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/12/hyundai-debuts-production-ready-autonomous-droid-that-can-do-any-task-at-hand/Hyundai-Mobile-Eccentric-Droid-Robot-2.jpg",
+      "url": "/tech-news/2025-12-07/hyundai-debuts-a-fully-autonomous-production-ready/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Biztoc.com"
+        "name": "Yanko Design"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Newsletter Security Affairs kolo 553 od Pierluigi Paganini – Mezinárodní edice",
+      "description": "Nové kolo týdenního newsletteru Security Affairs přináší souhrn klíčových bezpečnostních incidentů, včetně exploitů, datových úniků a varování od CISA. Obsahuje zprávy o útocích na firemní brány, masivních DDoS a státních aktérech.",
+      "slug": "security-affairs-newsletter-round-553-by-pierluigi",
+      "publishedAt": "2025-12-07T18:12:07+00:00",
+      "date": "2025-12-07 18:12:07",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+      "url": "/tech-news/2025-12-07/security-affairs-newsletter-round-553-by-pierluigi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "companies": [],
+      "people": [
+        "Pierluigi Paganini"
+      ]
+    },
+    {
+      "title": "SpaceX s valuací 800 miliard dolarů a IPO v roce 2026 na financování AI datových center ve vesmíru",
+      "description": "SpaceX odkupuje akcie investorů a zaměstnanců za valuaci 800 miliard dolarů, což je dvojnásobek oproti 400 miliardám před pěti měsíci. Klíčové úspěchy spočívají v pokroku k plné znovupoužitelnosti Starshipu a rychlém růstu příjmů Starlinku.",
+      "slug": "spacex-800-valuation-and-2026-ipo-to-fund-ai-data-",
+      "publishedAt": "2025-12-07T17:33:16+00:00",
+      "date": "2025-12-07 17:33:16",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-07-at-9.31.49-AM.jpg",
+      "url": "/tech-news/2025-12-07/spacex-800-valuation-and-2026-ipo-to-fund-ai-data/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
       },
       "companies": [
-        "OpenAI",
-        "Alphabet Inc"
+        "SpaceX"
       ],
+      "people": []
+    },
+    {
+      "title": "HHS plánuje rozšířit využívání umělé inteligence v zdravotnictví",
+      "description": "Americké ministerstvo zdravotnictví a lidských služeb (HHS) zamýšlí výrazně zvýšit nasazení AI v rámci svých operací. Článek však upozorňuje, že technologie nenahradí základní sociální reformy pro zlepšení života pacientů.",
+      "slug": "monday-morning-update-12825",
+      "publishedAt": "2025-12-07T16:31:15+00:00",
+      "date": "2025-12-07 16:31:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-07/monday-morning-update-12825/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Histalk2.com"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -519,26 +653,6 @@
       "people": []
     },
     {
-      "title": "Vysoký představitel Trumpovy administrativy zahajuje pětidenní návštěvu Indie",
-      "description": "Podsekretářka státního departmentu USA Allison Hooker navštěvuje Indii od 7. do 11. prosince k posílení strategických a ekonomických vazeb mezi USA a Indií, přestože vztahy zatěžují nová cla. Zaměření je na bezpečnost, obchod, umělou inteligenci a vesmírnou spolupráci.",
-      "slug": "senior-trump-administration-official-begins-5-day-",
-      "publishedAt": "2025-12-07T12:46:36+00:00",
-      "date": "2025-12-07 12:46:36",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125817008,width-1200,height-630,imgsize-20450,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-07/senior-trump-administration-official-begins-5-day/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Allison Hooker"
-      ]
-    },
-    {
       "title": "Průvodce obráceného kentaura pro kritiku umělé inteligence",
       "description": "Cory Doctorow přednesl řeč na University of Washington v rámci série přednášek o neuroscience, umělé inteligenci a společnosti. Řeč vychází z rukopisu jeho nadcházející knihy a zaměřuje se na kritiku AI prostřednictvím science fiction perspektivy.",
       "slug": "the-reverse-centaurs-guide-to-criticizing-ai",
@@ -686,24 +800,6 @@
       "companies": [
         "Samsung"
       ],
-      "people": []
-    },
-    {
-      "title": "Kamerky policistů s umělou inteligencí, dříve tabu, testují v kanadském městě na seznamu sledovaných tváří",
-      "description": "Policie v kanadském Edmontonu spustila pilotní projekt s kamerami na těle vybavenými AI pro rozpoznávání tváří z 'seznamu vysokého rizika' s asi 7000 osobami. Projekt od firmy Axon Enterprise vyvolává obavy z etických rizik a narušení soukromí.",
-      "slug": "ai-powered-police-body-cameras-once-taboo-get-test",
-      "publishedAt": "2025-12-07T11:33:45+00:00",
-      "date": "2025-12-07 11:33:45",
-      "importance": 3,
-      "category": "rozpoznávání tváří",
-      "urlToImage": "https://i.abcnewsfe.com/a/42b5954c-3508-4935-80b0-f054538c3d03/wirestory_21f319ce806a0023f855eb69d928d31e_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-07/ai-powered-police-body-cameras-once-taboo-get-test/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -1288,24 +1384,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Thedailyupside.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonská firma prodává automatické dveře odolné proti medvědům",
-      "description": "Automatické dveře Mirairo Door od firem Fulltech a Mirairo jsou efektivní proti medvědům i líným lidem. Vlna setkání s medvědy v Japonsku ukázala jejich schopnost používat běžné automatické dveře, což vede k vývoji řešení s ovládáním přes Bluetooth a aplikaci na smartphonu.",
-      "slug": "japanese-company-selling-bear-proof-automatic-door",
-      "publishedAt": "2025-12-07T05:00:42+00:00",
-      "date": "2025-12-07 05:00:42",
-      "importance": 3,
-      "category": "bezpečnostní hardwar",
-      "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2025/12/main.jpg?w=1200&h=559&crop=1",
-      "url": "/tech-news/2025-12-07/japanese-company-selling-bear-proof-automatic-door/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SoraNews24"
       },
       "companies": [],
       "people": []
@@ -2369,27 +2447,6 @@
       "people": []
     },
     {
-      "title": "Accenture investuje do nástroje pro rychlejší pochopení chování zákazníků",
-      "description": "Accenture provedl strategickou investici do platformy WEVO, která využívá generativní AI k simulaci a validaci uživatelského chování před uvedením nových produktů nebo služeb. Investici vede Accenture Ventures a má posílit integraci AI do výzkumu zákazníků.",
-      "slug": "accenture-backs-tool-that-reads-customer-minds-fas",
-      "publishedAt": "2025-12-06T15:03:17+00:00",
-      "date": "2025-12-06 15:03:17",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/12/shutterstock_2299281325-scaled.jpg",
-      "url": "/tech-news/2025-12-06/accenture-backs-tool-that-reads-customer-minds-fas/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "Accenture",
-        "WEVO"
-      ],
-      "people": []
-    },
-    {
       "title": "Jak postavit AI podpůrného agenta pro váš podnik během pouhých 12 minut (bez kódování)",
       "description": "No-code platformy umožňují vytvořit plně funkčního AI agenta pro zákaznickou podporu rychleji, než trvá uvařit ranní kávu. Článek popisuje krok za krokem proces pomocí nástroje Chatbase, který přeměňuje surová data na responzivního asistenta bez programování.",
       "slug": "how-to-build-an-ai-support-agent-for-your-business",
@@ -2631,28 +2688,6 @@
         "name": "Futurism"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "1 Riskantní ETF, Kterému se Chcete Vyhnout Koupit v Prosinci",
-      "description": "Klíčové body\n-\nVanguard Information Technology ETF (VGT) překonal všechny tři hlavní indexy do listopadu.\n-\nNvidia, Apple a Microsoft tvoří více než 45 % VGT.\nTechnologický sektor je v posledních několika letech v klanci, zejména protože t…",
-      "slug": "A-1-risky-etf-you-want-to-avoid-buying-in-december",
-      "publishedAt": "2025-12-06T13:07:46+00:00",
-      "date": "2025-12-06 13:07:46",
-      "importance": 3,
-      "category": "technologické etf",
-      "urlToImage": "https://biztoc.com/cdn/bc0df27264977092_s.webp",
-      "url": "/tech-news/2025-12-06/A-1-risky-etf-you-want-to-avoid-buying-in-december/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Apple",
-        "Microsoft"
-      ],
       "people": []
     },
     {
@@ -3459,26 +3494,6 @@
       "people": []
     },
     {
-      "title": "AeroVironment jmenuje Milancy Harris viceprezidentkou a hlavní bezpečnostní ředitelkou",
-      "description": "Společnost AeroVironment, Inc. (NASDAQ: AVAV) oznámila, že Milancy Harris nastoupila do funkce viceprezidentky a hlavní bezpečnostní ředitelky (CSO). S dlouholetými zkušenostmi z národní bezpečnosti USA má posílit ochranu zaměstnanců, programů a technologií firmy.",
-      "slug": "aerovironment-hires-milancy-harris-as-vice-preside",
-      "publishedAt": "2025-12-06T03:32:32+00:00",
-      "date": "2025-12-06 03:32:32",
-      "importance": 3,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d72eaf7/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2Fa4%2F2047883aa26aece0c9cd958eedb7%2F6368abb8e856b9c99ad7ff508810b199",
-      "url": "/tech-news/2025-12-06/aerovironment-hires-milancy-harris-as-vice-preside/",
-      "source": {
-        "emoji": "📰",
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "companies": [
-        "AeroVironment"
-      ],
-      "people": []
-    },
-    {
       "title": "Datová centra pro AI způsobují chaos v místních komunitách po celých USA",
       "description": "„Stavíme tyto věci tak rychle, že než jsou online a aktivní, problémy jsou už zabudované.“ Od svého návratu do úřadu se prezident Trump zaměřil na pokrok umělé inteligence (AI) jako klíčový bod své druhé administrativy.",
       "slug": "ai-data-centers-are-wreaking-havoc-on-local-commun",
@@ -3819,24 +3834,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "실비아헬스, ‘Digital Health Hub Foundation Awards 2025’ Quarterfinalist 선정",
-      "description": "실비아헬스가 글로벌 헬스케어 기술 시상식인 Digital Health Hub Foundation Awards 2025에서 ‘Mental and Behavioural Health’ 부문 Rising Star 쿼터파이널리스트로 선정됐다.\nThe post 실비아헬스, ‘Digital Health Hub Foundation Awards 2025’ Quarterfinalist 선정 appeared first on 벤처스퀘어.",
-      "slug": "실비아헬스-digital-health-hub-foundation-awards-2025-qu",
-      "publishedAt": "2025-12-05T04:32:53+00:00",
-      "date": "2025-12-05 04:32:53",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.venturesquare.net/wp-content/uploads/2025/12/tlfqldkgpftm-1-e1764904890177.png",
-      "url": "/tech-news/2025-12-05/실비아헬스-digital-health-hub-foundation-awards-2025-qu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Venturesquare.net"
       },
       "companies": [],
       "people": []

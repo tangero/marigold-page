@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenAI: GPT-5.1-Codex-Max - LLM Model Detail</title>
+    <style>
+        :root {
+            --bg-primary: #0f1419;
+            --bg-secondary: #1a1f2e;
+            --bg-tertiary: #252d3d;
+            --text-primary: #e8eaed;
+            --text-secondary: #9aa0a6;
+            --text-muted: #6b7280;
+            --accent-primary: #3b82f6;
+            --accent-hover: #2563eb;
+            --border-color: #2d3748;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --gradient-start: #3b82f6;
+            --gradient-end: #8b5cf6;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header Section */
+        .model-header {
+            background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+            border-radius: 16px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .model-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .model-id {
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.8);
+            font-family: 'Courier New', monospace;
+            margin-bottom: 20px;
+        }
+
+        .model-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .meta-item {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .meta-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: rgba(255, 255, 255, 0.7);
+            font-weight: 600;
+        }
+
+        .meta-value {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        /* Card Sections */
+        .card {
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 25px;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .card-icon {
+            font-size: 1.5rem;
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Pricing Table */
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .price-item {
+            background: var(--bg-tertiary);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid var(--accent-primary);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .price-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+
+        .price-item.free {
+            border-left-color: var(--success);
+        }
+
+        .price-item.expensive {
+            border-left-color: var(--danger);
+        }
+
+        .price-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .price-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .price-unit {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-top: 5px;
+        }
+
+        /* Specifications Grid */
+        .specs-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .spec-item {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 15px;
+            background: var(--bg-tertiary);
+            border-radius: 8px;
+        }
+
+        .spec-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .spec-value {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Context Length Visualization */
+        .context-viz {
+            margin-top: 15px;
+        }
+
+        .context-bar {
+            height: 30px;
+            background: var(--bg-tertiary);
+            border-radius: 15px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .context-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--gradient-start), var(--gradient-end));
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: white;
+            transition: width 0.5s ease;
+        }
+
+        /* Description */
+        .description {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            font-size: 1rem;
+        }
+
+        /* Modalities */
+        .modalities {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .modality-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 16px;
+            background: var(--bg-tertiary);
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            border: 1px solid var(--border-color);
+        }
+
+        .modality-badge.input {
+            border-color: var(--accent-primary);
+            color: var(--accent-primary);
+        }
+
+        .modality-badge.output {
+            border-color: var(--success);
+            color: var(--success);
+        }
+
+        /* Parameters Tags */
+        .parameters-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .param-tag {
+            padding: 6px 14px;
+            background: var(--bg-tertiary);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            border: 1px solid var(--border-color);
+            transition: all 0.2s;
+        }
+
+        .param-tag:hover {
+            background: var(--accent-primary);
+            color: white;
+            border-color: var(--accent-primary);
+        }
+
+        /* Icons */
+        .icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .model-title {
+                font-size: 1.8rem;
+            }
+
+            .model-meta {
+                gap: 15px;
+            }
+
+            .pricing-grid,
+            .specs-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .card {
+                padding: 20px;
+            }
+
+            .model-header {
+                padding: 25px;
+            }
+        }
+
+        /* Additional Visual Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--accent-primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .badge.new {
+            background: var(--success);
+        }
+
+        .badge.moderated {
+            background: var(--warning);
+        }
+
+        /* Default Parameters Table */
+        .defaults-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        .defaults-table td {
+            padding: 12px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .defaults-table td:first-child {
+            color: var(--text-secondary);
+            font-weight: 500;
+            width: 40%;
+        }
+
+        .defaults-table td:last-child {
+            color: var(--text-primary);
+            font-weight: 600;
+            font-family: 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="model-header">
+            <div class="model-title">OpenAI: GPT-5.1-Codex-Max</div>
+            <div class="model-id">openai/gpt-5.1-codex-max-20251204</div>
+
+            <div class="model-meta">
+                <div class="meta-item">
+                    <div class="meta-label">Datum přidání</div>
+                    <div class="meta-value">4. prosince 2024</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">Provider</div>
+                    <div class="meta-value">OpenAI</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">Tokenizer</div>
+                    <div class="meta-value">GPT</div>
+                </div>
+                <div class="meta-item">
+                    <span class="badge moderated">Moderovaný</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pricing -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">💰</span>
+                <h2 class="card-title">Ceník</h2>
+            </div>
+            <div class="pricing-grid">
+                <div class="price-item">
+                    <div class="price-label">Prompt (vstup)</div>
+                    <div class="price-value">$1.25</div>
+                    <div class="price-unit">/ 1M tokenů</div>
+                </div>
+                <div class="price-item expensive">
+                    <div class="price-label">Completion (výstup)</div>
+                    <div class="price-value">$10.00</div>
+                    <div class="price-unit">/ 1M tokenů</div>
+                </div>
+                <div class="price-item">
+                    <div class="price-label">Internal Reasoning</div>
+                    <div class="price-value">$5.00</div>
+                    <div class="price-unit">/ 1M tokenů</div>
+                </div>
+                <div class="price-item free">
+                    <div class="price-label">Image</div>
+                    <div class="price-value">Zdarma</div>
+                    <div class="price-unit">-</div>
+                </div>
+                <div class="price-item free">
+                    <div class="price-label">Audio</div>
+                    <div class="price-value">Zdarma</div>
+                    <div class="price-unit">-</div>
+                </div>
+                <div class="price-item free">
+                    <div class="price-label">Web Search</div>
+                    <div class="price-value">Zdarma</div>
+                    <div class="price-unit">-</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Technical Specifications -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">⚙️</span>
+                <h2 class="card-title">Technické specifikace</h2>
+            </div>
+
+            <div class="specs-grid">
+                <div class="spec-item">
+                    <div class="spec-label">Context Window</div>
+                    <div class="spec-value">400,000 tokenů</div>
+                </div>
+                <div class="spec-item">
+                    <div class="spec-label">Max Completion Tokens</div>
+                    <div class="spec-value">32,000 tokenů</div>
+                </div>
+                <div class="spec-item">
+                    <div class="spec-label">Modality</div>
+                    <div class="spec-value">text+image → text</div>
+                </div>
+            </div>
+
+            <div class="context-viz">
+                <div class="spec-label">Velikost kontextového okna</div>
+                <div class="context-bar">
+                    <div class="context-fill" style="width: 80%;">
+                        400K tokenů
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input/Output Modalities -->
+            <div style="margin-top: 30px;">
+                <div class="spec-label" style="margin-bottom: 10px;">Podporované modality</div>
+                <div class="modalities">
+                    <div class="modality-badge input">
+                        <span>📝</span>
+                        <span>text (vstup)</span>
+                    </div>
+                    <div class="modality-badge input">
+                        <span>🖼️</span>
+                        <span>image (vstup)</span>
+                    </div>
+                    <div class="modality-badge input">
+                        <span>📎</span>
+                        <span>file (vstup)</span>
+                    </div>
+                    <div class="modality-badge output">
+                        <span>📝</span>
+                        <span>text (výstup)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Description -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">📄</span>
+                <h2 class="card-title">Popis modelu</h2>
+            </div>
+            <div class="description">
+                <p>GPT-5.1-Codex-Max je pokročilý jazykový model optimalizovaný pro programování a technické úlohy. Model exceluje v generování, vysvětlování a ladění kódu napříč desítkami programovacích jazyků.</p>
+                <br>
+                <p>Klíčové schopnosti zahrnují:</p>
+                <ul style="margin-left: 20px; margin-top: 10px;">
+                    <li>Pokročilé porozumění programovacím jazykům a frameworkům</li>
+                    <li>Schopnost analyzovat a refaktorovat složitý kód</li>
+                    <li>Generování dokumentace a testů</li>
+                    <li>Ladění a optimalizace výkonu</li>
+                    <li>Architekturnní návrhy a best practices</li>
+                </ul>
+                <br>
+                <p>Model podporuje multimodální vstupy včetně screenshotů kódu, diagramů a technické dokumentace. S kontextovým oknem 400K tokenů dokáže zpracovat celé codebase a poskytovat komplexní analýzy.</p>
+            </div>
+        </div>
+
+        <!-- Supported Parameters -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">🎛️</span>
+                <h2 class="card-title">Podporované parametry</h2>
+            </div>
+            <div class="parameters-tags">
+                <span class="param-tag">temperature</span>
+                <span class="param-tag">top_p</span>
+                <span class="param-tag">top_k</span>
+                <span class="param-tag">frequency_penalty</span>
+                <span class="param-tag">presence_penalty</span>
+                <span class="param-tag">repetition_penalty</span>
+                <span class="param-tag">min_p</span>
+                <span class="param-tag">top_a</span>
+                <span class="param-tag">seed</span>
+                <span class="param-tag">max_tokens</span>
+                <span class="param-tag">logit_bias</span>
+                <span class="param-tag">logprobs</span>
+                <span class="param-tag">top_logprobs</span>
+                <span class="param-tag">response_format</span>
+                <span class="param-tag">stop</span>
+                <span class="param-tag">tools</span>
+                <span class="param-tag">tool_choice</span>
+                <span class="param-tag">reasoning</span>
+                <span class="param-tag">parallel_tool_calls</span>
+            </div>
+        </div>
+
+        <!-- Default Parameters -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">🔧</span>
+                <h2 class="card-title">Výchozí parametry</h2>
+            </div>
+            <table class="defaults-table">
+                <tr>
+                    <td>Temperature</td>
+                    <td>1.0</td>
+                </tr>
+                <tr>
+                    <td>Top P</td>
+                    <td>1.0</td>
+                </tr>
+                <tr>
+                    <td>Frequency Penalty</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Presence Penalty</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Max Tokens</td>
+                    <td>32000</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

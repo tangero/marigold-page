@@ -8,6 +8,25 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- **LLM Model Tracker** - automatický systém pro sledování a analýzu nových LLM modelů z OpenRouter API
+  - Nový skript `scripts/track_llm_models.py` - detekuje a analyzuje nové modely
+  - Watermark mechanismus - sleduje nejnovější známý model, analyzuje pouze novější
+  - Automatická analýza pomocí Gemini 3 Pro s porovnáním konkurence
+  - Generuje Jekyll posty do `_llm/` kolekce (formát `YYYY-MM-DD-model-slug.md`)
+  - Překlad popisů modelů do češtiny pomocí LLM
+  - Data tracking v `_data/llm_models_tracked.json`
+  - CLI příkazy: `--dry-run`, `--list-tracked`, `--status`, `--reset-watermark`
+  - GitHub Actions workflow `.github/workflows/llm-tracker.yml` - denní spuštění v 6:00 UTC
+- **Jekyll kolekce `_llm`** - nová kolekce pro recenze LLM modelů
+  - Layout `_layouts/llm_review.html` - kompletní vizuální šablona pro recenze
+  - Přehledová stránka `/llm/` s filtry podle providera
+  - Kolekce nepřidává články na titulní stránku (oddělená od `_posts`)
+  - Permalink struktura: `/llm/:slug/`
+- **LLM Model Card Generator** - generátor HTML karet pro jednotlivé modely
+  - Skript `scripts/fetch_llm_model_card.py` - stahuje data a generuje vizualizace
+  - HTML šablona `scripts/templates/llm_model_card.html` - dark mode design
+  - Strukturovaná JSON analýza s profily, silnými/slabými stránkami, konkurencí
+  - Dynamické porovnání s aktuálními modely od Anthropic, Google, OpenAI, xAI, Mistral, DeepSeek
 - **Hybridní navigační menu** - implementována dropdown navigace s tlačítkem "Další ☰"
   - Hlavní položky zůstávají viditelné: 🔍 | 🧑‍💻 Kurzy AI | 🖥️ Vibecoding | 🗼 4G/5G | 🤖 AI
   - Pod tlačítko "Další" schovány: 💻 Zprávy | 🖼️ Obrazy
@@ -26,6 +45,16 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Práh důležitosti zvýšen z 3 na 4 (pouze "velmi důležité" a "průlomové")
   - PageSize snížen ze 100 na 50 článků
   - Očekávaný výsledek: ~20-30 článků/den místo 300+
+
+### Fixed
+- **Vibecoding.cz build** - opravena chyba "Cannot sort a null object" při buildu
+  - Přidány chybějící exclude položky do `_config_vibecoding.yml`
+  - Vyloučeny stránky využívající kolekce nedefinované pro vibecoding (llm, tech_news atd.)
+  - Vyloučeny dokumentační markdown soubory v rootu (TECH_NEWS_*.md, CHANGELOG.md atd.)
+  - Build nyní úspěšně projde a články z prosince jsou viditelné
+- **Tech-news workflow race condition** - opraveno selhání git push při paralelních jobech
+  - Přidán `git pull --rebase` před push v tech-news.yml workflow
+  - Přidán tech-news-archive/ do git add pro archivované články
 
 ### Changed
 - **Kompaktní patička** - redesign footeru na 3 řádky místo 3 sloupců

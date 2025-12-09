@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vibecoding.cz - Technická dokumentace | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Vibecoding.cz - Technická dokumentace" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/docs/VIBECODING_GUIDE/" />
+<meta property="og:url" content="https://www.marigold.cz/docs/VIBECODING_GUIDE/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vibecoding.cz - Technická dokumentace" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Vibecoding.cz - Technická dokumentace","url":"https://www.marigold.cz/docs/VIBECODING_GUIDE/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Vibecoding.cz - Technická dokumentace" />
+    <meta property="twitter:title" content="Vibecoding.cz - Technická dokumentace" />
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- og-image source: extracted from content -->
+<meta property="og:image" content="https://www.marigold.cz<article class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<article class="/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/docs/VIBECODING_GUIDE/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/manifest-marigold.json">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- iOS Web App Configuration -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Marigold">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <!-- OneSignal Web Push Notifications -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  console.log('[OneSignal] Script starting...');
+
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+  OneSignalDeferred.push(async function(OneSignal) {
+    try {
+      console.log('[OneSignal] Initializing OneSignal SDK');
+
+      // Initialize OneSignal with minimal config
+      const config = {
+        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
+        notifyButton: {
+          enable: true,
+          position: "bottom-right",
+          size: "medium",
+          text: {
+            "button.subscribe": "Přihlásit se k oznámením",
+            "button.unsubscribe": "Odhlásit se od oznámení",
+          },
+        },
+        // iOS Web Push support - requires manifest.json and home screen installation
+        allowLocalhostAsSecureOrigin: true,
+        // Safari Web Push configuration
+        safari: {
+          enable: true
+        }
+      };
+
+      await OneSignal.init(config);
+      console.log('[OneSignal] Initialization complete');
+
+      // Show slidedown on 3rd page visit
+      // This uses localStorage to track page visits
+      try {
+        const visitKey = 'onesignal_visit_count';
+        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
+        visitCount++;
+        localStorage.setItem(visitKey, visitCount.toString());
+
+        console.log('[OneSignal] Page visit count:', visitCount);
+
+        if (visitCount === 3) {
+          console.log('[OneSignal] 3rd visit detected - showing slidedown');
+
+          // Show slidedown prompt
+          await OneSignal.Slidedown.promptPushCategories({
+            slidedownPromptOptions: {
+              actionMessage: "Chcete dostávat oznámení o nových článcích?",
+              acceptButtonText: "Ano, přihlaste mě",
+              cancelButtonText: "Ne, děkuji",
+            }
+          });
+
+          console.log('[OneSignal] Slidedown shown successfully');
+
+          // Reset counter after showing
+          localStorage.setItem(visitKey, '0');
+        } else {
+          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
+        }
+      } catch (e) {
+        console.log('[OneSignal] Slidedown error:', e.message);
+      }
+
+      // Check permission status
+      const permission = await OneSignal.Notifications.permission;
+      console.log('[OneSignal] Permission status:', permission);
+
+    } catch (error) {
+      console.error('[OneSignal] Error:', error.message);
+    }
+  });
+</script>
+
+
+    <!-- Seznam.cz Discussion System -->
+    <script type="text/javascript" src="https://d21-a.sdn.cz/d_21/sl/3/loader.js"></script>
+
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="Marigold.cz" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> |
+              <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> |
+              <a href="https://www.vibecoding.cz/">🖥️ Vibecoding</a> |
+              <a href="/mobilnisite">🗼 4G/5G</a> |
+              <a href="/ai">🤖 AI</a> |
+              <span class="nav-dropdown">
+                <button class="nav-dropdown-toggle" aria-expanded="false" aria-label="Další menu">
+                  Další ☰
+                </button>
+                <div class="nav-dropdown-menu" role="menu">
+                  <a href="/tech-news/" role="menuitem">💻 Zprávy</a>
+                  <a href="/obrazy" role="menuitem">🖼️ Obrazy</a>
+                </div>
+              </span>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <article class="page">
+
+  <h1>Vibecoding.cz - Technická dokumentace</h1>
+
+  <div class="entry">
+    <h1 id="vibecodingcz---technická-dokumentace">Vibecoding.cz - Technická dokumentace</h1>
+
+<blockquote>
+  <p>Kompletní průvodce pro práci s webem vibecoding.cz
+Poslední aktualizace: 2025-12-09</p>
+</blockquote>
+
+<hr />
+
+<h2 id="architektura">Architektura</h2>
+
+<p><strong>Vibecoding.cz</strong> je <strong>separátní web</strong> hostovaný na Cloudflare Pages, který sdílí repozitář s marigold.cz, ale používá vlastní konfiguraci.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>marigold-page/
+├── _vibecoding/           # Kolekce článků pro vibecoding.cz
+│   ├── claude-code/       # Články o Claude Code
+│   ├── cursor/            # Články o Cursor
+│   ├── gemini-cli/        # Články o Gemini CLI
+│   ├── lovable-dev/       # Články o Lovable
+│   ├── replit/            # Články o Replit
+│   ├── windsurf/          # Články o Windsurf
+│   ├── ostatni/           # Ostatní AI nástroje
+│   └── ...
+├── _config_vibecoding.yml # Konfigurace pro vibecoding build
+├── vibecoding-index.md    # Hlavní stránka (index)
+├── _pages/vibecoding-*.md # Kategorizační stránky
+└── _layouts/vibecoding-*.html # Layouty specifické pro vibecoding
+</code></pre></div></div>
+
+<h2 id="klíčové-soubory">Klíčové soubory</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Soubor</th>
+      <th>Účel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></td>
+      <td>Jekyll konfigurace pro vibecoding build</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">vibecoding-index.md</code></td>
+      <td>Hlavní stránka webu</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">_pages/vibecoding-cursor.md</code></td>
+      <td>Stránka kategorie Cursor</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">_pages/vibecoding-claude.md</code></td>
+      <td>Stránka kategorie Claude Code</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">_layouts/vibecoding-default.html</code></td>
+      <td>Výchozí layout</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">assets/vibecoding-index.css</code></td>
+      <td>Styly pro vibecoding</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="hosting-a-deployment">Hosting a Deployment</h2>
+
+<h3 id="cloudflare-pages">Cloudflare Pages</h3>
+
+<ul>
+  <li><strong>URL</strong>: https://www.vibecoding.cz</li>
+  <li><strong>Build command</strong>: <code class="language-plaintext highlighter-rouge">bundle exec jekyll build --config _config_vibecoding.yml</code></li>
+  <li><strong>Output directory</strong>: <code class="language-plaintext highlighter-rouge">_site</code></li>
+  <li><strong>Branch</strong>: <code class="language-plaintext highlighter-rouge">main</code></li>
+</ul>
+
+<p>Build se spouští automaticky při každém push do main větve.</p>
+
+<h3 id="environment-variables-cloudflare">Environment Variables (Cloudflare)</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>JEKYLL_ENV = production
+RUBY_VERSION = 3.2.0
+</code></pre></div></div>
+
+<h2 id="struktura-článků">Struktura článků</h2>
+
+<h3 id="umístění">Umístění</h3>
+
+<p>Články jsou v <code class="language-plaintext highlighter-rouge">_vibecoding/[kategorie]/YYYY-MM-DD-slug.md</code></p>
+
+<h3 id="front-matter">Front Matter</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">author</span><span class="pi">:</span> <span class="s">Patrick Zandl</span>
+<span class="na">categories</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">AI</span>
+<span class="pi">-</span> <span class="s">Cursor</span>
+<span class="pi">-</span> <span class="s">název kategorie</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">post_excerpt</span><span class="pi">:</span> <span class="s">Krátký popis článku pro náhledy</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Název článku</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p><strong>POZOR</strong>: Články <strong>nemají <code class="language-plaintext highlighter-rouge">date:</code> v front matter</strong> - datum se bere z názvu souboru!</p>
+
+<h3 id="kategorie-adresáře">Kategorie (adresáře)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Adresář</th>
+      <th>Obsah</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">claude-code/</code></td>
+      <td>Anthropic Claude Code CLI</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">cursor/</code></td>
+      <td>Cursor IDE</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">gemini-cli/</code></td>
+      <td>Google Gemini CLI</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">lovable-dev/</code></td>
+      <td>Lovable.dev</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">replit/</code></td>
+      <td>Replit</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">windsurf/</code></td>
+      <td>Windsurf IDE</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">ostatni/</code></td>
+      <td>Další nástroje (Bolt, Kiro, n8n…)</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">databutton/</code></td>
+      <td>Databutton</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">memex/</code></td>
+      <td>Memex</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">tempolabs/</code></td>
+      <td>Tempo Labs</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="konfigurace-_config_vibecodingyml">Konfigurace <code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></h2>
+
+<h3 id="kritické-nastavení">Kritické nastavení</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">collections</span><span class="pi">:</span>
+  <span class="na">vibecoding</span><span class="pi">:</span>
+    <span class="na">output</span><span class="pi">:</span> <span class="no">true</span>
+    <span class="na">permalink</span><span class="pi">:</span> <span class="s">/articles/:title/</span>
+
+<span class="na">defaults</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">scope</span><span class="pi">:</span>
+      <span class="na">path</span><span class="pi">:</span> <span class="s2">"</span><span class="s">_vibecoding"</span>
+      <span class="na">type</span><span class="pi">:</span> <span class="s2">"</span><span class="s">vibecoding"</span>
+    <span class="na">values</span><span class="pi">:</span>
+      <span class="na">layout</span><span class="pi">:</span> <span class="s2">"</span><span class="s">post"</span>
+</code></pre></div></div>
+
+<h3 id="exclude-seznam">Exclude seznam</h3>
+
+<p><strong>DŮLEŽITÉ</strong>: Musí obsahovat všechny soubory/kolekce z marigold.cz, které by způsobily chybu buildu:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">exclude</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">_posts</span>
+  <span class="pi">-</span> <span class="s">_ai</span>
+  <span class="pi">-</span> <span class="s">_mobilnisite</span>
+  <span class="pi">-</span> <span class="s">_obrazy</span>
+  <span class="pi">-</span> <span class="s">_tech_news</span>
+  <span class="pi">-</span> <span class="s">_llm</span>
+  <span class="pi">-</span> <span class="s">_pages/llm.md</span>          <span class="c1"># Používá site.llm kolekci</span>
+  <span class="pi">-</span> <span class="s">_pages/tech-news*.html</span> <span class="c1"># Používá site.tech_news kolekci</span>
+  <span class="pi">-</span> <span class="s">TECH_NEWS_*.md</span>         <span class="c1"># Dokumentace v rootu</span>
+  <span class="pi">-</span> <span class="s">CHANGELOG.md</span>
+  <span class="pi">-</span> <span class="s">CLAUDE.md</span>
+  <span class="c1"># ... a další</span>
+</code></pre></div></div>
+
+<h2 id="časté-problémy-a-řešení">Časté problémy a řešení</h2>
+
+<h3 id="1-build-error-cannot-sort-a-null-object">1. Build error: “Cannot sort a null object”</h3>
+
+<p><strong>Příčina</strong>: Stránka používá kolekci, která není definována v <code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></p>
+
+<p><strong>Řešení</strong>: Přidat problematickou stránku do <code class="language-plaintext highlighter-rouge">exclude:</code> v <code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">exclude</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">_pages/problematicka-stranka.md</span>
+</code></pre></div></div>
+
+<h3 id="2-nové-články-se-nezobrazují">2. Nové články se nezobrazují</h3>
+
+<p><strong>Kontrolní seznam</strong>:</p>
+<ol>
+  <li>Je článek ve správném adresáři <code class="language-plaintext highlighter-rouge">_vibecoding/[kategorie]/</code>?</li>
+  <li>Má správný formát názvu <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-slug.md</code>?</li>
+  <li>Má správný front matter s <code class="language-plaintext highlighter-rouge">layout: post</code>?</li>
+  <li>Byl proveden push do main větve?</li>
+  <li>Proběhl Cloudflare Pages build úspěšně?</li>
+</ol>
+
+<p><strong>Jak zkontrolovat Cloudflare build</strong>:</p>
+<ul>
+  <li>Cloudflare Dashboard → Pages → vibecoding-page → Deployments</li>
+</ul>
+
+<h3 id="3-lokální-testování">3. Lokální testování</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Build pro vibecoding</span>
+bundle <span class="nb">exec </span>jekyll build <span class="nt">--config</span> _config_vibecoding.yml
+
+<span class="c"># Serve lokálně</span>
+bundle <span class="nb">exec </span>jekyll serve <span class="nt">--config</span> _config_vibecoding.yml
+</code></pre></div></div>
+
+<h3 id="4-články-z-jiného-webu-pronikají-do-vibecoding">4. Články z jiného webu pronikají do vibecoding</h3>
+
+<p><strong>Příčina</strong>: Chybí exclude pro daný soubor/adresář</p>
+
+<p><strong>Řešení</strong>: Přidat do <code class="language-plaintext highlighter-rouge">exclude:</code> v <code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></p>
+
+<h2 id="přidání-nového-článku">Přidání nového článku</h2>
+
+<h3 id="postup">Postup</h3>
+
+<ol>
+  <li>Vytvořit soubor v odpovídající kategorii:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_vibecoding/cursor/2025-12-09-nazev-clanku.md
+</code></pre></div>    </div>
+  </li>
+  <li>Přidat front matter:
+```yaml
+—
+author: Patrick Zandl
+categories:
+    <ul>
+      <li>AI</li>
+      <li>Cursor
+layout: post
+post_excerpt: Stručný popis pro náhled
+title: Cursor představil novou funkci XYZ
+—
+```</li>
+    </ul>
+  </li>
+  <li>
+    <p>Napsat obsah článku v Markdown</p>
+  </li>
+  <li>Commit a push:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add _vibecoding/
+git commit <span class="nt">-m</span> <span class="s2">"Nový článek: Cursor XYZ"</span>
+git push
+</code></pre></div>    </div>
+  </li>
+  <li>Cloudflare Pages automaticky zbuiluje a nasadí</li>
+</ol>
+
+<h2 id="přidání-nové-kategorie">Přidání nové kategorie</h2>
+
+<ol>
+  <li>
+    <p>Vytvořit adresář <code class="language-plaintext highlighter-rouge">_vibecoding/nova-kategorie/</code></p>
+  </li>
+  <li>Vytvořit stránku kategorie <code class="language-plaintext highlighter-rouge">_pages/vibecoding-nova-kategorie.md</code>:
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">vibecoding-default</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Nova Kategorie - Vibecoding</span>
+<span class="na">permalink</span><span class="pi">:</span> <span class="s">/nova-kategorie/</span>
+<span class="nn">---</span>
+
+<span class="c1"># Nova Kategorie</span>
+
+   
+</code></pre></div>    </div>
+  </li>
+  <li>Přidat odkaz do navigace (pokud existuje)</li>
+</ol>
+
+<h2 id="vztah-s-marigoldcz">Vztah s marigold.cz</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspekt</th>
+      <th>Marigold.cz</th>
+      <th>Vibecoding.cz</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hosting</td>
+      <td>GitHub Pages</td>
+      <td>Cloudflare Pages</td>
+    </tr>
+    <tr>
+      <td>Config</td>
+      <td><code class="language-plaintext highlighter-rouge">_config.yml</code></td>
+      <td><code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></td>
+    </tr>
+    <tr>
+      <td>Kolekce</td>
+      <td><code class="language-plaintext highlighter-rouge">_posts</code>, <code class="language-plaintext highlighter-rouge">_tech_news</code>, <code class="language-plaintext highlighter-rouge">_ai</code>…</td>
+      <td><code class="language-plaintext highlighter-rouge">_vibecoding</code></td>
+    </tr>
+    <tr>
+      <td>URL</td>
+      <td>www.marigold.cz</td>
+      <td>www.vibecoding.cz</td>
+    </tr>
+    <tr>
+      <td>Build trigger</td>
+      <td>Push to main</td>
+      <td>Push to main</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Oba weby sdílejí</strong>:</p>
+<ul>
+  <li>Repozitář <code class="language-plaintext highlighter-rouge">tangero/marigold-page</code></li>
+  <li>Gemfile a dependencies</li>
+  <li>Některé layouty a includes</li>
+  <li>Assets (images, CSS základy)</li>
+</ul>
+
+<h2 id="debugging">Debugging</h2>
+
+<h3 id="kontrola-posledního-buildu">Kontrola posledního buildu</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Lokální test build</span>
+bundle <span class="nb">exec </span>jekyll build <span class="nt">--config</span> _config_vibecoding.yml 2&gt;&amp;1 | <span class="nb">head</span> <span class="nt">-50</span>
+
+<span class="c"># Ověření vygenerovaných článků</span>
+<span class="nb">ls </span>_site/articles/
+</code></pre></div></div>
+
+<h3 id="kontrola-konfigurace">Kontrola konfigurace</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Zobrazit exclude seznam</span>
+<span class="nb">grep</span> <span class="nt">-A</span> 100 <span class="s2">"exclude:"</span> _config_vibecoding.yml
+
+<span class="c"># Najít kolekce používané v pages</span>
+<span class="nb">grep</span> <span class="nt">-r</span> <span class="s2">"site</span><span class="se">\.</span><span class="s2">"</span> _pages/vibecoding<span class="k">*</span>.md
+</code></pre></div></div>
+
+<h3 id="log-z-cloudflare">Log z Cloudflare</h3>
+
+<p>Cloudflare Dashboard → Pages → vibecoding-page → Deployments → [deployment] → Build log</p>
+
+<h2 id="checklisty">Checklisty</h2>
+
+<h3 id="před-commitem-článku">Před commitem článku</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Soubor je v <code class="language-plaintext highlighter-rouge">_vibecoding/[kategorie]/YYYY-MM-DD-slug.md</code></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Front matter obsahuje <code class="language-plaintext highlighter-rouge">layout: post</code></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Front matter obsahuje <code class="language-plaintext highlighter-rouge">title:</code> a <code class="language-plaintext highlighter-rouge">post_excerpt:</code></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Markdown je validní</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Lokální build projde bez chyb</li>
+</ul>
+
+<h3 id="při-přidávání-nové-stránky-do-_pages">Při přidávání nové stránky do _pages</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Nepoužívá kolekce, které nejsou v <code class="language-plaintext highlighter-rouge">_config_vibecoding.yml</code></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Nebo je přidána do <code class="language-plaintext highlighter-rouge">exclude:</code> pokud není pro vibecoding</li>
+</ul>
+
+<h3 id="po-neúspěšném-buildu">Po neúspěšném buildu</h3>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Zkontrolovat Cloudflare build log</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Lokálně reprodukovat: <code class="language-plaintext highlighter-rouge">bundle exec jekyll build --config _config_vibecoding.yml</code></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Hledat “Cannot sort a null object” nebo podobné chyby</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Přidat chybějící exclude položky</li>
+</ul>
+
+<hr />
+
+<h2 id="kontakt">Kontakt</h2>
+
+<ul>
+  <li><strong>Autor</strong>: Patrick Zandl</li>
+  <li><strong>Web</strong>: https://www.vibecoding.cz</li>
+  <li><strong>Repozitář</strong>: https://github.com/tangero/marigold-page</li>
+</ul>
+
+<hr />
+
+<p><em>Tento dokument slouží jako reference pro práci s vibecoding.cz. Aktualizujte při významných změnách v architektuře.</em></p>
+
+  </div>
+</article>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="site-footer">
+  <div class="footer-compact">
+    <!-- Řádek 1: Sociální ikony + Copyright -->
+    <div class="footer-row footer-social-row">
+      <div class="social-icons">
+        
+          <a href="mailto:patrick.zandl@marigold.cz" title="Email" aria-label="Email">
+            <i class="svg-icon email"></i>
+          </a>
+        
+        
+          <a href="https://www.facebook.com/patrick.zandl" title="Facebook" aria-label="Facebook">
+            <i class="svg-icon facebook"></i>
+          </a>
+        
+        
+          <a href="https://www.twitter.com/tangero" title="Twitter" aria-label="Twitter">
+            <i class="svg-icon twitter"></i>
+          </a>
+        
+        
+          <a href="https://www.linkedin.com/in/patrickzandl" title="LinkedIn" aria-label="LinkedIn">
+            <i class="svg-icon linkedin"></i>
+          </a>
+        
+        
+          <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed">
+            <i class="svg-icon rss"></i>
+          </a>
+        
+      </div>
+      <div class="copyright">
+        &copy; 2025 Marigold.cz
+      </div>
+    </div>
+
+    <!-- Řádek 2: Projekty -->
+    <div class="footer-row footer-projects-row">
+      <a href="https://www.marigold.cz">Marigold.cz</a> |
+      <a href="https://www.zitraslavni.cz">Zítřaslavní.cz</a> |
+      <a href="https://www.vibecoding.cz">VibeCoding.cz</a> |
+      <a href="https://www.topflix.cz">TopFlix.cz</a> |
+      <a href="https://zandl.substack.com">Substack</a> |
+      <a href="https://www.kronium.eu">Fenix svítilny</a> |
+      <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> |
+      <a href="https://www.brandysboleslav.cz/">Brandýs nad Labem</a> |
+      <a href="https://skola.prolnuto.cz/">Letní škola AI</a> |
+      <a href="/changelog/">Changelog</a>
+    </div>
+
+    <!-- Řádek 3: Badges -->
+    <div class="footer-row footer-partners-row">
+      <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859">
+        <img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" />
+      </a>
+      <a href="https://github.com/tangero/marigold-page">
+        <img src="https://img.shields.io/github/last-commit/tangero/marigold-page" alt="GitHub Last Commit">
+      </a>
+    </div>
+  </div>
+</footer>
+
+<!-- Analytics skripty -->
+<!-- Clicky Analytics -->
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+
+<!-- Simple Analytics (100% privacy-first) -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Clicky Analytics -->
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+
+<!-- Simple Analytics (100% privacy-first) -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+
+    // Navigační dropdown
+    (function() {
+      const dropdownToggle = document.querySelector('.nav-dropdown-toggle');
+      const dropdownMenu = document.querySelector('.nav-dropdown-menu');
+
+      if (dropdownToggle && dropdownMenu) {
+        // Toggle dropdown při kliknutí
+        dropdownToggle.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          const isExpanded = dropdownToggle.getAttribute('aria-expanded') === 'true';
+
+          dropdownToggle.setAttribute('aria-expanded', !isExpanded);
+          dropdownMenu.classList.toggle('show');
+        });
+
+        // Zavřít při kliknutí mimo
+        document.addEventListener('click', function(e) {
+          if (!e.target.closest('.nav-dropdown')) {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+
+        // Keyboard navigation
+        dropdownToggle.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            dropdownToggle.click();
+          }
+        });
+
+        // Escape key zavře menu
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape') {
+            dropdownToggle.setAttribute('aria-expanded', 'false');
+            dropdownMenu.classList.remove('show');
+          }
+        });
+      }
+    })();
+    </script>
+  </body>
+</html>

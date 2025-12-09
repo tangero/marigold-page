@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{model_name}} - LLM Model Detail</title>
+    <style>
+        :root {
+            --bg-primary: #0f1419;
+            --bg-secondary: #1a1f2e;
+            --bg-tertiary: #252d3d;
+            --text-primary: #e8eaed;
+            --text-secondary: #9aa0a6;
+            --text-muted: #6b7280;
+            --accent-primary: #3b82f6;
+            --accent-hover: #2563eb;
+            --border-color: #2d3748;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --gradient-start: #3b82f6;
+            --gradient-end: #8b5cf6;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header Section */
+        .model-header {
+            background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+            border-radius: 16px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .model-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .model-id {
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.8);
+            font-family: 'Courier New', monospace;
+            margin-bottom: 20px;
+        }
+
+        .model-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .meta-item {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .meta-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: rgba(255, 255, 255, 0.7);
+            font-weight: 600;
+        }
+
+        .meta-value {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        /* Card Sections */
+        .card {
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 25px;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .card-icon {
+            font-size: 1.5rem;
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Pricing Table */
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .price-item {
+            background: var(--bg-tertiary);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid var(--accent-primary);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .price-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+
+        .price-item.free {
+            border-left-color: var(--success);
+        }
+
+        .price-item.expensive {
+            border-left-color: var(--danger);
+        }
+
+        .price-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .price-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .price-unit {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-top: 5px;
+        }
+
+        /* Specifications Grid */
+        .specs-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .spec-item {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 15px;
+            background: var(--bg-tertiary);
+            border-radius: 8px;
+        }
+
+        .spec-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .spec-value {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Context Length Visualization */
+        .context-viz {
+            margin-top: 15px;
+        }
+
+        .context-bar {
+            height: 30px;
+            background: var(--bg-tertiary);
+            border-radius: 15px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .context-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--gradient-start), var(--gradient-end));
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: white;
+            transition: width 0.5s ease;
+        }
+
+        /* Description */
+        .description {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            font-size: 1rem;
+        }
+
+        /* Modalities */
+        .modalities {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .modality-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 16px;
+            background: var(--bg-tertiary);
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            border: 1px solid var(--border-color);
+        }
+
+        .modality-badge.input {
+            border-color: var(--accent-primary);
+            color: var(--accent-primary);
+        }
+
+        .modality-badge.output {
+            border-color: var(--success);
+            color: var(--success);
+        }
+
+        /* Parameters Tags */
+        .parameters-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .param-tag {
+            padding: 6px 14px;
+            background: var(--bg-tertiary);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            border: 1px solid var(--border-color);
+            transition: all 0.2s;
+        }
+
+        .param-tag:hover {
+            background: var(--accent-primary);
+            color: white;
+            border-color: var(--accent-primary);
+        }
+
+        /* Icons */
+        .icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .model-title {
+                font-size: 1.8rem;
+            }
+
+            .model-meta {
+                gap: 15px;
+            }
+
+            .pricing-grid,
+            .specs-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .card {
+                padding: 20px;
+            }
+
+            .model-header {
+                padding: 25px;
+            }
+        }
+
+        /* Additional Visual Elements */
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            background: var(--accent-primary);
+            color: white;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .badge.new {
+            background: var(--success);
+        }
+
+        .badge.moderated {
+            background: var(--warning);
+        }
+
+        /* Default Parameters Table */
+        .defaults-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        .defaults-table td {
+            padding: 12px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .defaults-table td:first-child {
+            color: var(--text-secondary);
+            font-weight: 500;
+            width: 40%;
+        }
+
+        .defaults-table td:last-child {
+            color: var(--text-primary);
+            font-weight: 600;
+            font-family: 'Courier New', monospace;
+        }
+
+        /* Analysis Styles */
+        .analysis-card {
+            border: 2px solid var(--accent-primary);
+        }
+
+        .analysis-content {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+        }
+
+        .analysis-section {
+            background: var(--bg-tertiary);
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .analysis-section h3 {
+            color: var(--accent-primary);
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .profile-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .profile-item {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .profile-label {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+        }
+
+        .profile-value {
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+
+        .focus-tag {
+            display: inline-block;
+            background: var(--accent-primary);
+            color: white;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            margin: 2px;
+        }
+
+        .characteristics-text {
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+
+        .strengths-list, .weaknesses-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .strength-item, .weakness-item {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 3px solid var(--success);
+        }
+
+        .weakness-item {
+            border-left-color: var(--warning);
+        }
+
+        .strength-area, .weakness-area {
+            font-weight: 600;
+            color: var(--text-primary);
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .strength-item p, .weakness-item p {
+            color: var(--text-secondary);
+            margin: 0;
+            font-size: 0.95rem;
+        }
+
+        .competitors-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .competitor-item {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        .competitor-header {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .competitor-provider {
+            background: var(--gradient-start);
+            color: white;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .competitor-model {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .competitor-id {
+            background: var(--bg-tertiary);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-left: auto;
+        }
+
+        .competitor-price {
+            background: var(--bg-tertiary);
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            color: var(--accent-primary);
+            margin-bottom: 8px;
+            display: inline-block;
+        }
+
+        .competitor-comparison {
+            color: var(--text-secondary);
+            margin: 0;
+            font-size: 0.95rem;
+        }
+
+        .recommendation-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .recommendation-block {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        .recommendation-block h4 {
+            color: var(--text-primary);
+            font-size: 1rem;
+            margin-bottom: 10px;
+        }
+
+        .recommendation-block p {
+            color: var(--text-secondary);
+            margin: 0;
+        }
+
+        .recommendation-block ul {
+            margin: 0;
+            padding-left: 20px;
+            color: var(--text-secondary);
+        }
+
+        .recommendation-block ul li {
+            margin-bottom: 5px;
+        }
+
+        .recommendation-block.use-cases {
+            border-left: 3px solid var(--success);
+        }
+
+        .recommendation-block.avoid {
+            border-left: 3px solid var(--danger);
+        }
+
+        .verdict {
+            background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+            border-radius: 10px;
+        }
+
+        .verdict h3 {
+            color: white;
+            border-bottom-color: rgba(255,255,255,0.3);
+        }
+
+        .verdict-text {
+            color: white;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        .analysis-fallback pre {
+            white-space: pre-wrap;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="model-header">
+            <div class="model-title">{{model_name}}</div>
+            <div class="model-id">{{model_id}}</div>
+
+            <div class="model-meta">
+                <div class="meta-item">
+                    <div class="meta-label">Datum přidání</div>
+                    <div class="meta-value">{{created_date}}</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">Provider</div>
+                    <div class="meta-value">{{provider}}</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">Tokenizer</div>
+                    <div class="meta-value">{{tokenizer}}</div>
+                </div>
+                {{moderation_badge}}
+            </div>
+        </div>
+
+        <!-- Pricing -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">💰</span>
+                <h2 class="card-title">Ceník</h2>
+            </div>
+            <div class="pricing-grid">
+                {{pricing_items}}
+            </div>
+        </div>
+
+        <!-- Technical Specifications -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">⚙️</span>
+                <h2 class="card-title">Technické specifikace</h2>
+            </div>
+
+            <div class="specs-grid">
+                <div class="spec-item">
+                    <div class="spec-label">Context Window</div>
+                    <div class="spec-value">{{context_length_formatted}}</div>
+                </div>
+                <div class="spec-item">
+                    <div class="spec-label">Max Completion Tokens</div>
+                    <div class="spec-value">{{max_completion_tokens}}</div>
+                </div>
+                <div class="spec-item">
+                    <div class="spec-label">Modality</div>
+                    <div class="spec-value">{{modality}}</div>
+                </div>
+            </div>
+
+            <div class="context-viz">
+                <div class="spec-label">Velikost kontextového okna</div>
+                <div class="context-bar">
+                    <div class="context-fill" style="width: {{context_percentage}}%;">
+                        {{context_length_formatted}}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input/Output Modalities -->
+            <div style="margin-top: 30px;">
+                <div class="spec-label" style="margin-bottom: 10px;">Podporované modality</div>
+                <div class="modalities">
+                    {{modality_badges}}
+                </div>
+            </div>
+        </div>
+
+        <!-- Description -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">📄</span>
+                <h2 class="card-title">Popis modelu</h2>
+            </div>
+            <div class="description">
+                {{description}}
+            </div>
+        </div>
+
+        <!-- Supported Parameters -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">🎛️</span>
+                <h2 class="card-title">Podporované parametry</h2>
+            </div>
+            <div class="parameters-tags">
+                {{parameter_tags}}
+            </div>
+        </div>
+
+        <!-- Default Parameters -->
+        <div class="card">
+            <div class="card-header">
+                <span class="card-icon">🔧</span>
+                <h2 class="card-title">Výchozí parametry</h2>
+            </div>
+            <table class="defaults-table">
+                {{default_params_rows}}
+            </table>
+        </div>
+    </div>
+</body>
+</html>
