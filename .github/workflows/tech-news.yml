@@ -77,10 +77,13 @@ jobs:
         git config user.email "actions@github.com"
         git add _tech_news/
         git add tech-news/
+        git add tech-news-archive/ || true
         git add assets/tech-news/ || true
         git add _data/tech_news_health.json || true
         git add _data/tech_news_dashboard.json || true
         git add _data/tech_news_metrics.db || true
         git add _data/processing_logs/ || true
-        git commit -m "🤖 Aktualizace technologických zpráv $(date '+%Y-%m-%d %H:%M')"
+        git commit -m "🤖 Aktualizace technologických zpráv $(date '+%Y-%m-%d %H:%M')" || echo "Nothing to commit"
+        # Pull s rebase před push - řeší race condition s jinými workflow
+        git pull --rebase || true
         git push

@@ -46,6 +46,16 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - PageSize snížen ze 100 na 50 článků
   - Očekávaný výsledek: ~20-30 článků/den místo 300+
 
+### Fixed
+- **Vibecoding.cz build** - opravena chyba "Cannot sort a null object" při buildu
+  - Přidány chybějící exclude položky do `_config_vibecoding.yml`
+  - Vyloučeny stránky využívající kolekce nedefinované pro vibecoding (llm, tech_news atd.)
+  - Vyloučeny dokumentační markdown soubory v rootu (TECH_NEWS_*.md, CHANGELOG.md atd.)
+  - Build nyní úspěšně projde a články z prosince jsou viditelné
+- **Tech-news workflow race condition** - opraveno selhání git push při paralelních jobech
+  - Přidán `git pull --rebase` před push v tech-news.yml workflow
+  - Přidán tech-news-archive/ do git add pro archivované články
+
 ### Changed
 - **Kompaktní patička** - redesign footeru na 3 řádky místo 3 sloupců
   - Řádek 1: Sociální ikony (email, facebook, twitter, linkedin, rss) + copyright
