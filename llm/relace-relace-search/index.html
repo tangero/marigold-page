@@ -245,6 +245,8 @@
         <span class="focus-tag">Retrieval</span>
       
     </div>
+
+    
   </header>
 
   <!-- Klicove metriky -->
@@ -291,6 +293,22 @@
       <span class="modality-badge output">text</span>
     
   </div>
+
+  <!-- Silne a slabe stranky (badges) -->
+  
+
+  <!-- Kategorie hodnoceni -->
+  
+  <section class="llm-categories">
+    <h2>Hodnocení podle kategorií</h2>
+    <div class="categories-grid">
+      
+    </div>
+  </section>
+  
+
+  <!-- Expert verdict -->
+  
 
   <!-- Hlavni obsah (analyza) -->
   <div class="llm-content">
@@ -423,6 +441,9 @@
     <div class="footer-meta">
       <span>Analyzováno: 09. 12. 2025</span>
       <span>Model pro analýzu: google/gemini-3-pro-preview</span>
+      
+      <span class="benchmark-attribution">Benchmark data: <a href="https://artificialanalysis.ai/" target="_blank" rel="noopener">Artificial Analysis</a></span>
+      
     </div>
     <a href="/llm/" class="back-link">← Zpět na přehled LLM modelů</a>
   </footer>
@@ -751,6 +772,248 @@
   text-decoration: underline;
 }
 
+.benchmark-attribution a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+.benchmark-attribution a:hover {
+  text-decoration: underline;
+}
+
+/* Celkove skore */
+.llm-overall-score {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+}
+
+.score-circle {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  flex-direction: column;
+  padding: 0.5rem;
+}
+
+.score-circle.tier-excelentní { border: 3px solid #10b981; }
+.score-circle.tier-výborný { border: 3px solid #3b82f6; }
+.score-circle.tier-dobrý { border: 3px solid #f59e0b; }
+.score-circle.tier-průměrný { border: 3px solid #6b7280; }
+.score-circle.tier-slabý { border: 3px solid #ef4444; }
+
+.score-value {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #111827;
+  line-height: 1;
+}
+
+.score-max {
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.tier-badge {
+  padding: 0.35rem 1rem;
+  border-radius: 2rem;
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: white;
+}
+
+.tier-badge.tier-excelentní { background: #10b981; }
+.tier-badge.tier-výborný { background: #3b82f6; }
+.tier-badge.tier-dobrý { background: #f59e0b; }
+.tier-badge.tier-průměrný { background: #6b7280; }
+.tier-badge.tier-slabý { background: #ef4444; }
+
+/* Silne a slabe stranky */
+.llm-strengths-weaknesses {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.sw-column h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: #374151;
+}
+
+.sw-badges {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.sw-badge {
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border-left: 4px solid;
+}
+
+.sw-badge.strength {
+  background: #ecfdf5;
+  border-color: #10b981;
+}
+
+.sw-badge.weakness {
+  background: #fef2f2;
+  border-color: #ef4444;
+}
+
+.sw-area {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #111827;
+  margin-bottom: 0.25rem;
+}
+
+.sw-desc {
+  display: block;
+  font-size: 0.85rem;
+  color: #4b5563;
+  line-height: 1.4;
+}
+
+/* Kategorie hodnoceni */
+.llm-categories {
+  margin-bottom: 2rem;
+}
+
+.llm-categories h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.75rem;
+}
+
+.category-card {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.category-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.category-card.tier-excelentní { border-color: #10b981; background: #ecfdf5; }
+.category-card.tier-výborný { border-color: #3b82f6; background: #eff6ff; }
+.category-card.tier-dobrý { border-color: #f59e0b; background: #fffbeb; }
+.category-card.tier-průměrný { border-color: #6b7280; background: #f9fafb; }
+.category-card.tier-slabý { border-color: #ef4444; background: #fef2f2; }
+.category-card.tier-nehodnoceno { border-color: #d1d5db; background: #f3f4f6; }
+
+.category-icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.category-name {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin-bottom: 0.25rem;
+}
+
+.category-score {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.category-tier {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Expert verdict */
+.llm-expert-verdict {
+  margin-bottom: 2rem;
+}
+
+.llm-expert-verdict h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.expert-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.expert-card {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1.25rem;
+  border-left: 4px solid;
+}
+
+.expert-card.killer {
+  border-color: #10b981;
+  background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+}
+
+.expert-card.risk {
+  border-color: #f59e0b;
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+}
+
+.expert-card.usecase {
+  border-color: #3b82f6;
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+}
+
+.expert-icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.expert-label {
+  font-size: 0.75rem;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.expert-value {
+  font-size: 0.95rem;
+  color: #111827;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .llm-review {
@@ -766,6 +1029,18 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .llm-strengths-weaknesses {
+    grid-template-columns: 1fr;
+  }
+
+  .categories-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .expert-grid {
+    grid-template-columns: 1fr;
+  }
+
   .recommendation-grid {
     grid-template-columns: 1fr;
   }
@@ -773,6 +1048,17 @@
   .llm-footer {
     flex-direction: column;
     align-items: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .categories-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .llm-overall-score {
+    flex-direction: column;
+    text-align: center;
   }
 }
 </style>
