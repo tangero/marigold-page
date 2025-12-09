@@ -6,8 +6,7 @@ permalink: /llm/
 
 <div class="llm-overview">
   <header class="llm-page-header">
-    <h1>Přehled LLM modelů</h1>
-    <p class="subtitle">Automaticky generované recenze jazykových modelů z OpenRouter API</p>
+    <p class="subtitle">Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení.</p>
     <div class="stats">
       <span class="stat-item">{{ site.llm.size }} modelů</span>
       <span class="stat-divider">|</span>
@@ -40,19 +39,6 @@ permalink: /llm/
         <a href="{{ model.url }}">{{ model.title }}</a>
       </h2>
 
-      <div class="card-id">
-        <code>{{ model.model_id }}</code>
-      </div>
-
-      <div class="card-pricing">
-        <span class="price {% if model.pricing.prompt_per_m == 0 %}free{% endif %}">
-          {% if model.pricing.prompt_per_m == 0 %}Zdarma{% else %}${{ model.pricing.prompt_per_m }}/1M{% endif %}
-        </span>
-        <span class="arrow">→</span>
-        <span class="price {% if model.pricing.completion_per_m == 0 %}free{% endif %}">
-          {% if model.pricing.completion_per_m == 0 %}Zdarma{% else %}${{ model.pricing.completion_per_m }}/1M{% endif %}
-        </span>
-      </div>
 
       <div class="card-tags">
         {% for focus in model.focus limit:3 %}
@@ -64,7 +50,18 @@ permalink: /llm/
       <p class="card-verdict">{{ model.verdict | truncate: 150 }}</p>
       {% endif %}
 
-      <a href="{{ model.url }}" class="card-link">Zobrazit detail →</a>
+
+      <div class="card-pricing">
+        <span class="price {% if model.pricing.prompt_per_m == 0 %}free{% endif %}">
+          {% if model.pricing.prompt_per_m == 0 %}Zdarma{% else %}${{ model.pricing.prompt_per_m }}/1M{% endif %} -       <a href="{{ model.url }}" class="card-link">Detail modelu →</a>
+        </span>
+        <span class="arrow">→</span>
+        <span class="price {% if model.pricing.completion_per_m == 0 %}free{% endif %}">
+          {% if model.pricing.completion_per_m == 0 %}Zdarma{% else %}${{ model.pricing.completion_per_m }}/1M{% endif %} -       <a href="{{ model.url }}" class="card-link">Detail modelu →</a>
+        </span>
+      </div>
+
+
     </article>
     {% endfor %}
   </div>
