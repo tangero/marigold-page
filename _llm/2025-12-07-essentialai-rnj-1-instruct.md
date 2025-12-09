@@ -53,7 +53,6 @@ analyzer_model: google/gemini-3-pro-preview
 analyzed_at: "2025-12-08 21:41"
 ---
 
-Rnj-1 is an 8B-parameter, dense, open-weight model family developed by Essential AI and trained from scratch with a focus on programming, math, and scientific reasoning. The model demonstrates strong performance across multiple programming languages, tool-use workflows, and agentic execution environments (e.g., mini-SWE-agent). 
 
 ## Unikátní charakteristiky
 
