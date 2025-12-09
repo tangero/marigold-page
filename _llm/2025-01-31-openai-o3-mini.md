@@ -23,52 +23,52 @@ focus:
 strengths:
   - area: Matematika
     description: Vynikající výsledky v matematických úlohách, dosahuje 97.3% v MATH-500 a 77.0% v AIME 2025.
-  - area: Věda
-    description: Silný výkon ve vědeckých úlohách, s GPQA Diamond skóre 74.8%.
   - area: Programování
-    description: Solidní schopnosti v kódování, s LiveCodeBench skóre 71.7%.
+    description: Solidní výkon v kódování s LiveCodeBench skóre 71.7%.
+  - area: Vědecké úlohy
+    description: Dobré výsledky ve vědeckých úlohách, GPQA Diamond skóre 74.8%.
 weaknesses:
   - area: Rychlost
-    description: Nízká rychlost, s TPS 140.1 a TTFT 18.052s, což je pomalé.
-  - area: Agenti
-    description: Slabé schopnosti v úlohách agentů, s τ2-Bench skóre pouze 28.7%.
+    description: Nízká rychlost zpracování, TPS 140.1 a TTFT 18.052s, což je pomalé.
+  - area: Agenti a nástroje
+    description: Slabý výkon v úlohách agentů, τ2-Bench skóre pouze 28.7%.
   - area: Čeština
-    description: Data o výkonu v češtině nejsou k dispozici, což omezuje použitelnost v lokálních aplikacích.
+    description: Data pro češtinu nejsou k dispozici, nelze posoudit kvalitu v českém jazyce.
 competitors:
   - provider: ANTHROPIC
     model: anthropic/claude-haiku-4.5
     model_id: anthropic/claude-haiku-4.5
-    price_comparison: Podobná cena vstupu, vyšší cena výstupu
-    comparison: Podobná cena, ale potenciálně lepší rychlost a širší použitelnost, pokud nepotřebujete excelentní matematiku.
+    price_comparison: Podobná cena vstupu, dražší výstup
+    comparison: Claude Haiku je rychlejší, ale o3-mini má lepší výsledky v matematice a programování.
   - provider: GOOGLE
     model: google/gemini-2.5-flash-image
     model_id: google/gemini-2.5-flash-image
-    price_comparison: Levnější vstup i výstup
-    comparison: Výrazně levnější, ale pravděpodobně nižší kvalita v matematice a vědě. Vhodné pro méně náročné úlohy.
+    price_comparison: Mnohem levnější vstup i výstup
+    comparison: Gemini 2.5 Flash je výrazně levnější, ale pravděpodobně méně výkonný v náročných úlohách STEM.
   - provider: MISTRALAI
     model: mistralai/ministral-8b-2512
     model_id: mistralai/ministral-8b-2512
-    price_comparison: Výrazně levnější vstup i výstup
-    comparison: Mnohem levnější, ale pravděpodobně nižší výkon v matematice a vědě. Dobrá volba pro experimentování a prototypování.
+    price_comparison: Mnohem levnější vstup i výstup
+    comparison: Mistral 8B je výrazně levnější, ale o3-mini má lepší výsledky v matematice a programování.
   - provider: DEEPSEEK
     model: deepseek/deepseek-v3.2
     model_id: deepseek/deepseek-v3.2
     price_comparison: Levnější vstup i výstup
-    comparison: Levnější, ale kontext je menší. Může být srovnatelný v kódování, ale pravděpodobně horší v matematice.
+    comparison: Deepseek v3.2 je levnější, ale o3-mini má lepší výsledky v matematice.
 recommendation:
   target_users:
-    - Výzkumníci
     - Studenti
-    - Vývojáři STEM aplikací
+    - Výzkumníci
+    - Vývojáři
   use_cases:
-    - Řešení matematických problémů
+    - Řešení matematických úloh
+    - Generování kódu
     - Vědecké výpočty
-    - Generování kódu pro vědecké aplikace
   avoid_for:
     - Úlohy vyžadující rychlou odezvu
-    - Aplikace agentů
-    - Úlohy vyžadující silnou podporu češtiny
-verdict: OpenAI o3-mini je dobrá volba pro uživatele, kteří potřebují silný model pro matematiku a vědu a nevadí jim pomalejší rychlost. Je vhodný pro výzkum a vývoj, kde je přesnost klíčová.
+    - Úlohy agentů
+    - Aplikace v češtině (bez testování)
+verdict: OpenAI o3-mini je dobrá volba pro uživatele, kteří potřebují řešit matematické a vědecké úlohy a nevadí jim pomalejší odezva. Je vhodný pro studenty, výzkumníky a vývojáře v oblasti STEM.
 benchmark_categories:
   science:
     name: Věda & Matematika
@@ -104,43 +104,43 @@ radar:
   safety: 0
   speed: Slabý
 expert_verdict:
-  killer_feature: Excelentní matematika
-  hidden_risk: Pomalá inference může být limitující pro interaktivní aplikace
-  recommended_use_case: Řešení komplexních matematických úloh, kde je přesnost důležitější než rychlost
+  killer_feature: Vynikající v matematických úlohách
+  hidden_risk: Pomalá inference může být problém pro interaktivní aplikace
+  recommended_use_case: Řešení komplexních matematických problémů a generování kódu pro vědecké výpočty.
 analyzer_model: google/gemini-2.0-flash-001
-analyzed_at: "2025-12-09 11:02"
+analyzed_at: "2025-12-09 12:57"
 ---
 
-OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM uvažování, obzvláště vynikající ve vědě, matematice a kódování.
+OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM uvažování, obzvláště vynikající ve vědě, matematice a programování.
 
 Tento model podporuje parametr `reasoning_effort`, který lze nastavit na "high", "medium" nebo "low" pro řízení doby přemýšlení modelu. Výchozí hodnota je "medium". OpenRouter také nabízí model slug `openai/o3-mini-high` pro nastavení parametru na "high" jako výchozí.
 
-Model nabízí tři nastavitelné úrovně úsilí uvažování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, i když nezahrnuje možnosti zpracování obrazu.
+Model nabízí tři nastavitelné úrovně úsilí uvažování a podporuje klíčové vývojářské schopnosti včetně volání funkcí, strukturovaných výstupů a streamování, i když nezahrnuje schopnosti zpracování obrazu.
 
 Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u složitých otázek. S nastavením středního úsilí uvažování (medium reasoning effort), o3-mini dosahuje výkonu většího modelu o1 v náročných hodnoceních uvažování, jako jsou AIME a GPQA, při zachování nižší latence a nákladů.
 
 ## Unikátní charakteristiky
 
-OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM, vyniká ve vědě, matematice a kódování. Podporuje tři nastavitelné úrovně úsilí a klíčové vývojářské funkce, jako je volání funkcí a strukturované výstupy.
+OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro STEM úlohy, vyniká ve vědě, matematice a kódování. Podporuje tři nastavitelné úrovně usuzování a klíčové vývojářské funkce, jako je volání funkcí a strukturované výstupy.
 
 ## Silné stránky
 
 ### Matematika
 Vynikající výsledky v matematických úlohách, dosahuje 97.3% v MATH-500 a 77.0% v AIME 2025.
 
-### Věda
-Silný výkon ve vědeckých úlohách, s GPQA Diamond skóre 74.8%.
-
 ### Programování
-Solidní schopnosti v kódování, s LiveCodeBench skóre 71.7%.
+Solidní výkon v kódování s LiveCodeBench skóre 71.7%.
+
+### Vědecké úlohy
+Dobré výsledky ve vědeckých úlohách, GPQA Diamond skóre 74.8%.
 
 ## Slabé stránky
 
 ### Rychlost
-Nízká rychlost, s TPS 140.1 a TTFT 18.052s, což je pomalé.
+Nízká rychlost zpracování, TPS 140.1 a TTFT 18.052s, což je pomalé.
 
-### Agenti
-Slabé schopnosti v úlohách agentů, s τ2-Bench skóre pouze 28.7%.
+### Agenti a nástroje
+Slabý výkon v úlohách agentů, τ2-Bench skóre pouze 28.7%.
 
 ### Čeština
-Data o výkonu v češtině nejsou k dispozici, což omezuje použitelnost v lokálních aplikacích.
+Data pro češtinu nejsou k dispozici, nelze posoudit kvalitu v českém jazyce.

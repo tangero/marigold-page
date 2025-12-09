@@ -24,46 +24,46 @@ focus:
   - Multimodalita
 strengths:
   - area: Rychlost
-    description: Model vyniká rychlostí, s TTFT pouhých 0.371s a TPS 179.3, což ho činí ideálním pro aplikace vyžadující rychlou odezvu.
+    description: Vynikající rychlost s TTFT 0.371s a TPS 179.3 tokenů/s, což je ideální pro aplikace vyžadující rychlou odezvu.
   - area: Multimodalita
-    description: Podporuje širokou škálu modalit (text, obrázky, soubory, audio, video → text), což rozšiřuje možnosti jeho využití.
+    description: Podporuje širokou škálu modalit (text, obrázky, soubory, audio, video), což umožňuje flexibilní využití v různých aplikacích.
 weaknesses:
   - area: Programování
-    description: "Skóre v programovacích benchmarcích (LiveCodeBench: 33.4) je relativně nízké, což omezuje jeho použitelnost pro komplexní programovací úkoly."
+    description: Relativně slabé výsledky v programovacích benchmarcích (LiveCodeBench 33.4, scicode 33.3) naznačují omezenou použitelnost pro komplexní programovací úkoly.
   - area: Čeština
-    description: Chybí data pro hodnocení výkonu v češtině (MMMLU), což ztěžuje posouzení jeho vhodnosti pro české uživatele.
+    description: Data pro češtinu nejsou k dispozici, což ztěžuje posouzení vhodnosti pro česky mluvící uživatele. Nízké skóre v HLE (5.3) naznačuje problémy s logickým uvažováním.
 competitors:
   - provider: X-AI
     model: x-ai/grok-4.1-fast
     model_id: x-ai/grok-4.1-fast
-    price_comparison: Levnější vstup i výstup
-    comparison: Grok-4.1-fast má větší kontext a je levnější, ale chybí mu multimodalita. Gemini Flash 2.0 je lepší v multimodálních úlohách.
+    price_comparison: Vstup 2x dražší, výstup levnější
+    comparison: Grok má větší kontext (2M tokenů) a potenciálně lepší schopnosti v některých oblastech, ale Gemini Flash 2.0 je pravděpodobně rychlejší.
   - provider: MISTRALAI
-    model: mistralai/ministral-14b-2512
-    model_id: mistralai/ministral-14b-2512
+    model: mistralai/ministral-3b-2512
+    model_id: mistralai/ministral-3b-2512
     price_comparison: Podobná cena
-    comparison: Ministral-14b-2512 je srovnatelný cenou, ale Gemini Flash 2.0 nabízí multimodalitu a potenciálně lepší rychlost.
+    comparison: Ministral 3B má menší kontext (131k tokenů), ale může být vhodný pro jednodušší úkoly s nižšími nároky na výpočetní výkon.
   - provider: DEEPSEEK
-    model: deepseek/deepseek-v3.2-speciale
-    model_id: deepseek/deepseek-v3.2-speciale
-    price_comparison: Podobná cena
-    comparison: Deepseek-v3.2-speciale je srovnatelný cenou, ale Gemini Flash 2.0 nabízí multimodalitu a větší kontext.
+    model: deepseek/deepseek-v3.2-exp
+    model_id: deepseek/deepseek-v3.2-exp
+    price_comparison: Vstup 2x dražší, výstup podobný
+    comparison: Deepseek nabízí srovnatelné ceny, ale menší kontext (163k tokenů). Může mít lepší výkon v specifických oblastech, ale data nejsou k dispozici.
   - provider: GOOGLE
     model: google/gemini-2.5-flash-image
     model_id: google/gemini-2.5-flash-image
-    price_comparison: Dražší vstup i výstup
-    comparison: Gemini 2.5 Flash Image má menší kontext, ale může mít lepší výkon v některých multimodálních úlohách. Gemini Flash 2.0 má větší kontext.
+    price_comparison: Vstup 3x dražší, výstup 6x dražší
+    comparison: Gemini 2.5 Flash Image má menší kontext (32k tokenů) a je dražší, ale může nabízet lepší výkon v multimodálních úlohách.
 recommendation:
   target_users:
     - Vývojáři agentů
-    - Aplikace vyžadující rychlou odezvu
+    - Aplikace s nízkou latencí
   use_cases:
-    - Chatboti
-    - Automatizace pracovních postupů
+    - Rychlé prototypování
+    - Multimodální aplikace
   avoid_for:
     - Komplexní programování
-    - Aplikace vyžadující vysokou přesnost v matematice
-verdict: Gemini Flash 2.0 je vhodný pro aplikace, kde je klíčová rychlost a multimodalita, ale je třeba zvážit jeho slabší stránky v programování a potenciální problémy s češtinou.
+    - Aplikace vyžadující hluboké logické uvažování
+verdict: Gemini Flash 2.0 je vhodný pro vývojáře, kteří hledají rychlý a multimodální model pro prototypování a aplikace s nízkou latencí, ale měli by zvážit jeho omezení v programování a logickém uvažování.
 benchmark_categories:
   science:
     name: Věda & Matematika
@@ -99,31 +99,31 @@ radar:
   safety: 0
   speed: Výborný
 expert_verdict:
-  killer_feature: Rychlost a multimodalita
-  hidden_risk: Slabší výkon v programování a neznámý výkon v češtině
-  recommended_use_case: Rychlé zpracování multimodálních dat v chatbotovi
+  killer_feature: Vynikající rychlost a podpora multimodality
+  hidden_risk: Nedostatečná data pro češtinu a slabší logické uvažování mohou omezit použitelnost v některých scénářích
+  recommended_use_case: Rychlé generování obsahu z různých zdrojů (text, obrázky, audio, video) v angličtině.
 analyzer_model: google/gemini-2.0-flash-001
-analyzed_at: "2025-12-09 11:02"
+analyzed_at: "2025-12-09 12:57"
 ---
 
 Gemini Flash 2.0 nabízí výrazně kratší dobu do prvního tokenu (TTFT) ve srovnání s [Gemini Flash 1.5](/google/gemini-flash-1.5), přičemž si zachovává kvalitu srovnatelnou s většími modely, jako je [Gemini Pro 1.5](/google/gemini-pro-1.5). Přináší významná vylepšení v multimodálním porozumění, schopnostech kódování, plnění komplexních instrukcí a volání funkcí. Tyto pokroky společně přinášejí plynulejší a robustnější agentní zážitky.
 
 ## Unikátní charakteristiky
 
-Gemini Flash 2.0 nabízí výrazně rychlejší čas do prvního tokenu (TTFT) a zachovává kvalitu srovnatelnou s většími modely. Vylepšení v multimodálním porozumění, kódování a komplexním sledování instrukcí z něj dělají robustní model pro agentní aplikace.
+Gemini Flash 2.0 se vyznačuje výrazně rychlejším časem do prvního tokenu (TTFT) a zachovává si kvalitu srovnatelnou s většími modely. Vylepšení v multimodálním porozumění, schopnostech kódování a komplexním sledování instrukcí ho činí vhodným pro agentní aplikace.
 
 ## Silné stránky
 
 ### Rychlost
-Model vyniká rychlostí, s TTFT pouhých 0.371s a TPS 179.3, což ho činí ideálním pro aplikace vyžadující rychlou odezvu.
+Vynikající rychlost s TTFT 0.371s a TPS 179.3 tokenů/s, což je ideální pro aplikace vyžadující rychlou odezvu.
 
 ### Multimodalita
-Podporuje širokou škálu modalit (text, obrázky, soubory, audio, video → text), což rozšiřuje možnosti jeho využití.
+Podporuje širokou škálu modalit (text, obrázky, soubory, audio, video), což umožňuje flexibilní využití v různých aplikacích.
 
 ## Slabé stránky
 
 ### Programování
-Skóre v programovacích benchmarcích (LiveCodeBench: 33.4) je relativně nízké, což omezuje jeho použitelnost pro komplexní programovací úkoly.
+Relativně slabé výsledky v programovacích benchmarcích (LiveCodeBench 33.4, scicode 33.3) naznačují omezenou použitelnost pro komplexní programovací úkoly.
 
 ### Čeština
-Chybí data pro hodnocení výkonu v češtině (MMMLU), což ztěžuje posouzení jeho vhodnosti pro české uživatele.
+Data pro češtinu nejsou k dispozici, což ztěžuje posouzení vhodnosti pro česky mluvící uživatele. Nízké skóre v HLE (5.3) naznačuje problémy s logickým uvažováním.

@@ -16,50 +16,50 @@ input_modalities:
 output_modalities:
   - text
 focus:
-  - Jazyky Středního Východu a Jižní Asie
+  - Regionální jazyky
   - Multilingvální aplikace
 strengths:
-  - area: Regionální znalosti
-    description: Model byl trénován na regionálních datech, což zajišťuje lepší kontextovou relevanci a přesnost v porovnání s obecnými modely.
-  - area: Podpora více jazyků
-    description: Podporuje několik jazyků indického původu (Tamil, Malayalam) a arabštinu, což rozšiřuje jeho použitelnost v multilingválních aplikacích.
+  - area: Regionální jazyky
+    description: Podpora pro více jazyků indického původu, včetně tamilštiny a malajálamštiny, spolu s arabštinou, což z něj činí dobrou volbu pro regionální aplikace.
+  - area: Cena
+    description: Relativně nízká cena (blend cena $0.30/1M) ve srovnání s jinými modely, což z něj činí dostupnější volbu pro některé uživatele.
 weaknesses:
   - area: Obecná inteligence
-    description: Celkové skóre 30.2/100 naznačuje slabší výkon v obecných úlohách a inteligenci ve srovnání s konkurenčními modely.
-  - area: Rychlost
-    description: Hodnocení rychlosti jako 'Slabý' naznačuje, že model nemusí být vhodný pro aplikace vyžadující rychlou odezvu.
+    description: Nízké skóre v AI Intelligence Index (19.6%) naznačuje omezenou obecnou inteligenci.
+  - area: Logické uvažování
+    description: Velmi nízké skóre v HLE (4.1%) ukazuje na slabé schopnosti v oblasti hard logic.
 competitors:
   - provider: X-AI
     model: grok-4.1-fast
     model_id: x-ai/grok-4.1-fast
-    price_comparison: Stejná cena vstupu, levnější výstup
-    comparison: Grok má mnohem větší kontext (2M tokenů) a pravděpodobně lepší obecnou inteligenci, ale nemusí mít tak dobré regionální znalosti.
-  - provider: GOOGLE
-    model: google/gemini-2.5-flash-image
-    model_id: google/gemini-2.5-flash-image
-    price_comparison: Podobná cena vstupu, výrazně levnější výstup
-    comparison: Gemini 2.5 Flash je levnější na výstup, ale má menší kontext a nemusí mít tak dobré regionální znalosti.
-  - provider: MISTRALAI
-    model: mistralai/ministral-14b-2512
-    model_id: mistralai/ministral-14b-2512
-    price_comparison: Stejná cena vstupu i výstupu
-    comparison: Ministral-14b má mnohem větší kontext (262k tokenů), ale Saba je optimalizovaná pro specifické jazyky a region.
+    price_comparison: Stejná cena vstupu, nižší cena výstupu
+    comparison: Grok má mnohem větší kontext (2M tokenů) a pravděpodobně lepší obecnou inteligenci, ale nemusí mít tak dobrou podporu pro regionální jazyky.
   - provider: DEEPSEEK
     model: deepseek/deepseek-v3.2-exp
     model_id: deepseek/deepseek-v3.2-exp
-    price_comparison: Podobná cena vstupu, levnější výstup
-    comparison: Deepseek V3.2-exp má podobnou cenu, ale menší kontext. Jeho silnou stránkou může být programování, ale data nejsou k dispozici.
+    price_comparison: Podobná cena vstupu, nižší cena výstupu
+    comparison: Deepseek nabízí podobnou cenu a kontext, ale zaměřuje se spíše na programování než na regionální jazyky.
+  - provider: MISTRALAI
+    model: mistralai/ministral-8b-2512
+    model_id: mistralai/ministral-8b-2512
+    price_comparison: Poloviční cena
+    comparison: Ministral-8b-2512 je levnější a má větší kontext, ale Saba se specializuje na regionální jazyky.
+  - provider: GOOGLE
+    model: google/gemini-2.5-flash-image
+    model_id: google/gemini-2.5-flash-image
+    price_comparison: Podobná cena vstupu, vyšší cena výstupu
+    comparison: Gemini 2.5 Flash Image nabízí podobný kontext a může mít lepší multimodální schopnosti, ale Saba se specializuje na regionální jazyky.
 recommendation:
   target_users:
     - Firmy působící na Středním Východě a v Jižní Asii
     - Vývojáři multilingválních aplikací
   use_cases:
     - Zákaznická podpora v regionálních jazycích
-    - Lokalizace obsahu pro Střední Východ a Jižní Asii
+    - Překlad a lokalizace obsahu
   avoid_for:
-    - Úkoly vyžadující vysokou obecnou inteligenci
-    - Aplikace s vysokými nároky na rychlost odezvy
-verdict: Mistral Saba je vhodný pro firmy a vývojáře, kteří potřebují jazykový model optimalizovaný pro specifické jazyky a regiony Středního Východu a Jižní Asie, ale měli by zvážit jeho slabší výkon v obecných úlohách.
+    - Úkoly vyžadující vysokou úroveň logického uvažování
+    - Aplikace vyžadující nejvyšší úroveň obecné inteligence
+verdict: Mistral Saba je vhodný pro uživatele, kteří potřebují model s dobrou podporou pro regionální jazyky Středního Východu a Jižní Asie a jsou ochotni akceptovat omezení v obecné inteligenci a logickém uvažování.
 benchmark_categories:
   science:
     name: Věda & Matematika
@@ -85,31 +85,31 @@ radar:
   safety: 0
   speed: Slabý
 expert_verdict:
-  killer_feature: Optimalizace pro jazyky Středního Východu a Jižní Asie
-  hidden_risk: Slabší výkon v úlohách vyžadujících obecnou inteligenci a logické uvažování.
-  recommended_use_case: Lokalizace obsahu a zákaznická podpora pro uživatele hovořící jazyky Středního Východu a Jižní Asie.
+  killer_feature: Specializace na regionální jazyky Středního Východu a Jižní Asie
+  hidden_risk: Omezená obecná inteligence a logické uvažování mohou omezit použitelnost v komplexních úlohách.
+  recommended_use_case: Zákaznická podpora v arabštině, tamilštině nebo malajálamštině.
 analyzer_model: google/gemini-2.0-flash-001
-analyzed_at: "2025-12-09 11:03"
+analyzed_at: "2025-12-09 12:58"
 ---
 
-Mistral Saba je jazykový model s 24 miliardami parametrů, speciálně navržený pro Blízký východ a jižní Asii, který poskytuje přesné a kontextuálně relevantní odpovědi při zachování efektivního výkonu. Byl trénován na vybraných regionálních datasetech a podporuje několik jazyků indického původu – včetně tamilštiny a malajálamštiny – vedle arabštiny. Díky tomu je univerzální volbou pro širokou škálu regionálních a vícejazyčných aplikací. Více informací naleznete v blogovém příspěvku [zde](https://mistral.ai/en/news/mistral-saba).
+Mistral Saba je jazykový model s 24 miliardami parametrů, speciálně navržený pro Blízký východ a jižní Asii, který poskytuje přesné a kontextuálně relevantní odpovědi při zachování efektivního výkonu. Byl trénován na vybraných regionálních datasetech a podporuje několik jazyků indického původu – včetně tamilštiny a malajálamštiny – spolu s arabštinou. Díky tomu je univerzální volbou pro širokou škálu regionálních a vícejazyčných aplikací. Více informací naleznete v blogovém příspěvku [zde](https://mistral.ai/en/news/mistral-saba).
 
 ## Unikátní charakteristiky
 
-Mistral Saba je jazykový model s 24 miliardami parametrů, optimalizovaný pro Střední Východ a Jižní Asii. Podporuje několik jazyků indického původu a arabštinu, což ho činí vhodným pro regionální a multilingvální aplikace. Jeho silnou stránkou je znalost a kontextová relevance v daném regionu.
+Mistral Saba je navržen pro Střední Východ a Jižní Asii, s důrazem na regionální jazyky. Jeho výkon v matematických úlohách je průměrný (MATH-500: 67.7%), ale v náročnějších úlohách (AIME 2025: 13.0%) zaostává.
 
 ## Silné stránky
 
-### Regionální znalosti
-Model byl trénován na regionálních datech, což zajišťuje lepší kontextovou relevanci a přesnost v porovnání s obecnými modely.
+### Regionální jazyky
+Podpora pro více jazyků indického původu, včetně tamilštiny a malajálamštiny, spolu s arabštinou, což z něj činí dobrou volbu pro regionální aplikace.
 
-### Podpora více jazyků
-Podporuje několik jazyků indického původu (Tamil, Malayalam) a arabštinu, což rozšiřuje jeho použitelnost v multilingválních aplikacích.
+### Cena
+Relativně nízká cena (blend cena $0.30/1M) ve srovnání s jinými modely, což z něj činí dostupnější volbu pro některé uživatele.
 
 ## Slabé stránky
 
 ### Obecná inteligence
-Celkové skóre 30.2/100 naznačuje slabší výkon v obecných úlohách a inteligenci ve srovnání s konkurenčními modely.
+Nízké skóre v AI Intelligence Index (19.6%) naznačuje omezenou obecnou inteligenci.
 
-### Rychlost
-Hodnocení rychlosti jako 'Slabý' naznačuje, že model nemusí být vhodný pro aplikace vyžadující rychlou odezvu.
+### Logické uvažování
+Velmi nízké skóre v HLE (4.1%) ukazuje na slabé schopnosti v oblasti hard logic.
