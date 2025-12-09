@@ -16,46 +16,53 @@ input_modalities:
 output_modalities:
   - text
 focus:
-  - Nízká latence
+  - Rychlá inference
   - Obecné AI úlohy
 strengths:
   - area: Rychlost
-    description: Vysoká rychlost zpracování s TPS 116.2 a nízkou latencí 0.294s, což je vhodné pro aplikace vyžadující rychlou odezvu.
-  - area: Obecná inteligence
-    description: Solidní výkon v MMLU s 52.9%, což naznačuje dobrou schopnost porozumění a řešení úloh v různých oblastech.
+    description: Vysoká rychlost inference s TPS 116.2 a nízkou latencí 0.294s umožňuje rychlé zpracování požadavků.
+  - area: Kontext
+    description: Kontext 32,768 tokenů je dostatečný pro většinu RAG úloh a umožňuje zpracování delších dokumentů.
 weaknesses:
   - area: Věda a matematika
-    description: Slabé skóre ve vědeckých a matematických úlohách (GPQA Diamond 38.1%, AIME 2025 6.3%) omezuje jeho použitelnost pro specializované vědecké výpočty.
+    description: Relativně nízké skóre v GPQA Diamond (38.1%) a AIME 2025 (6.3%) naznačuje slabší schopnosti v náročných vědeckých a matematických úlohách.
   - area: Programování
-    description: Nízké skóre v programovacích benchmarcích (LiveCodeBench 14.1%, scicode 15.6%) naznačuje omezenou schopnost generovat a rozumět kódu.
+    description: Nízké skóre v LiveCodeBench (14.1%) a scicode (15.6%) naznačuje omezené schopnosti v generování a porozumění kódu.
 competitors:
   - provider: GOOGLE
     model: google/gemini-2.5-flash-image
     model_id: google/gemini-2.5-flash-image
-    price_comparison: Podobná cena vstupu, výrazně levnější výstup
-    comparison: Gemini 2.5 Flash je levnější na výstup, ale může mít horší výkon v některých oblastech.
+    price_comparison: 6x levnější vstup, 44x levnější výstup
+    comparison: Gemini 2.5 Flash je výrazně levnější, ale může mít nižší kvalitu výstupu pro komplexní úlohy.
   - provider: X-AI
     model: x-ai/grok-4.1-fast
     model_id: x-ai/grok-4.1-fast
-    price_comparison: Výrazně levnější vstup i výstup
-    comparison: Grok-4.1-fast je mnohem levnější, ale může mít nižší kvalitu výstupu a menší kontextové okno.
+    price_comparison: 4x levnější vstup, 220x levnější výstup
+    comparison: Grok-4.1-fast je mnohem levnější a má obrovský kontext, ale může mít nižší kvalitu výstupu pro komplexní úlohy.
   - provider: DEEPSEEK
     model: deepseek/deepseek-v3.2-exp
     model_id: deepseek/deepseek-v3.2-exp
-    price_comparison: Podobná cena vstupu, levnější výstup
-    comparison: Deepseek v3.2-exp nabízí podobný výkon za nižší cenu výstupu, ale má menší kontextové okno.
+    price_comparison: 1.4x levnější vstup, 3.4x levnější výstup
+    comparison: Deepseek v3.2-exp nabízí podobný kontext a může být levnější, ale je třeba porovnat kvalitu výstupu.
+  - provider: MISTRALAI
+    model: mistralai/ministral-8b-2512
+    model_id: mistralai/ministral-8b-2512
+    price_comparison: 3x levnější vstup, 0.7x levnější výstup
+    comparison: Ministral-8b-2512 je levnější, má větší kontext, ale může mít nižší výkon v některých úlohách.
 recommendation:
   target_users:
-    - Vývojáři aplikací s nízkou latencí
-    - Podniky hledající efektivní řešení pro obecné AI úlohy
+    - Vývojáři aplikací s důrazem na rychlost
+    - Firmy hledající efektivní model pro obecné AI úlohy
   use_cases:
     - Chatboti
     - Rychlá sumarizace textu
+    - Generování obsahu s nízkou latencí
   avoid_for:
     - Náročné vědecké výpočty
     - Generování komplexního kódu
-verdict: Mistral Small 3 je vhodný pro aplikace, kde je klíčová rychlost a nízká latence, ale je třeba počítat s omezenými schopnostmi v oblasti vědy, matematiky a programování.
-categories:
+    - Úlohy vyžadující hluboké logické uvažování
+verdict: Mistral Small 3 je vhodný pro aplikace, kde je prioritou rychlost a efektivita. Je ideální pro obecné AI úlohy, ale méně vhodný pro specializované úkoly vyžadující hluboké znalosti.
+benchmark_categories:
   science:
     name: Věda & Matematika
     icon: 🧮
@@ -85,33 +92,33 @@ radar:
   safety: 0
   speed: Dobrý
 expert_verdict:
-  killer_feature: Nízká latence
-  hidden_risk: Slabší výkon v úlohách vyžadujících hluboké logické uvažování a programování.
-  recommended_use_case: Rychlé generování textu a odpovědí v chatbotovi.
+  killer_feature: Vynikající poměr rychlosti a ceny
+  hidden_risk: Slabší výkon v úlohách vyžadujících hluboké znalosti a logické uvažování
+  recommended_use_case: Rychlé generování textu a chatbot aplikace, kde je klíčová nízká latence.
 analyzer_model: google/gemini-2.0-flash-001
-analyzed_at: "2025-12-09 10:53"
+analyzed_at: "2025-12-09 11:02"
 ---
 
-Mistral Small 3 je jazykový model s 24 miliardami parametrů optimalizovaný pro nízkou latenci při běžných úlohách umělé inteligence. Je vydán pod licencí Apache 2.0 a nabízí předtrénované i instrukčně doladěné verze navržené pro efektivní lokální nasazení.
+Mistral Small 3 je jazykový model s 24 miliardami parametrů optimalizovaný pro nízkou latenci při běžných úlohách umělé inteligence. Je vydán pod licencí Apache 2.0 a nabízí jak předtrénovanou, tak i instrukčně doladěnou verzi, navržené pro efektivní lokální nasazení.
 
-Model dosahuje 81% přesnosti v benchmarku MMLU a výkonem konkuruje větším modelům, jako jsou Llama 3.3 70B a Qwen 32B, přičemž na ekvivalentním hardwaru pracuje třikrát rychleji.
+Model dosahuje 81% přesnosti v benchmarku MMLU a výkonem konkuruje větším modelům, jako jsou Llama 3.3 70B a Qwen 32B, přičemž na ekvivalentním hardwaru pracuje třikrát rychleji. [Přečtěte si blogový příspěvek o modelu zde.](https://mistral.ai/news/mistral-small-3/)
 
 ## Unikátní charakteristiky
 
-Mistral Small 3 je optimalizován pro nízkou latenci a dosahuje konkurenceschopných výsledků s většími modely, jako je Llama 3 70B, při trojnásobné rychlosti na stejném hardwaru. Dosahuje 81% přesnosti na benchmarku MMLU.
+Mistral Small 3 je optimalizován pro nízkou latenci a rychlou inferenci. Dosahuje konkurenceschopných výsledků v MMLU benchmarku a nabízí velký kontext 32,768 tokenů. Jeho rychlost je 3x vyšší než u větších modelů na stejném hardwaru.
 
 ## Silné stránky
 
 ### Rychlost
-Vysoká rychlost zpracování s TPS 116.2 a nízkou latencí 0.294s, což je vhodné pro aplikace vyžadující rychlou odezvu.
+Vysoká rychlost inference s TPS 116.2 a nízkou latencí 0.294s umožňuje rychlé zpracování požadavků.
 
-### Obecná inteligence
-Solidní výkon v MMLU s 52.9%, což naznačuje dobrou schopnost porozumění a řešení úloh v různých oblastech.
+### Kontext
+Kontext 32,768 tokenů je dostatečný pro většinu RAG úloh a umožňuje zpracování delších dokumentů.
 
 ## Slabé stránky
 
 ### Věda a matematika
-Slabé skóre ve vědeckých a matematických úlohách (GPQA Diamond 38.1%, AIME 2025 6.3%) omezuje jeho použitelnost pro specializované vědecké výpočty.
+Relativně nízké skóre v GPQA Diamond (38.1%) a AIME 2025 (6.3%) naznačuje slabší schopnosti v náročných vědeckých a matematických úlohách.
 
 ### Programování
-Nízké skóre v programovacích benchmarcích (LiveCodeBench 14.1%, scicode 15.6%) naznačuje omezenou schopnost generovat a rozumět kódu.
+Nízké skóre v LiveCodeBench (14.1%) a scicode (15.6%) naznačuje omezené schopnosti v generování a porozumění kódu.

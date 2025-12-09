@@ -116,11 +116,11 @@ layout: default
   {% endif %}
 
   <!-- Kategorie hodnoceni -->
-  {% if page.categories %}
+  {% if page.benchmark_categories %}
   <section class="llm-categories">
     <h2>Hodnocení podle kategorií</h2>
     <div class="categories-grid">
-      {% for cat in page.categories %}
+      {% for cat in page.benchmark_categories %}
       <div class="category-card tier-{{ cat[1].tier | downcase | replace: ' ', '-' }}">
         <div class="category-icon">{{ cat[1].icon }}</div>
         <div class="category-name">{{ cat[1].name }}</div>
@@ -233,7 +233,7 @@ layout: default
     <div class="footer-meta">
       <span>Analyzováno: {{ page.analyzed_at | default: page.date | date: "%d. %m. %Y" }}</span>
       <span>Model pro analýzu: {{ page.analyzer_model | default: "Gemini 3 Pro" }}</span>
-      {% if page.categories %}
+      {% if page.benchmark_categories %}
       <span class="benchmark-attribution">Benchmark data: <a href="https://artificialanalysis.ai/" target="_blank" rel="noopener">Artificial Analysis</a></span>
       {% endif %}
     </div>

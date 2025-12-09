@@ -16,49 +16,54 @@ input_modalities:
 output_modalities:
   - text
 focus:
-  - Matematika
   - Věda
+  - Matematika
 strengths:
   - area: Matematika
-    description: Vynikající výsledky v matematických benchmarkách, jako MATH-500 (94.9%) a AIME 2025 (66.7%), naznačují silné schopnosti v řešení matematických problémů.
-  - area: Věda
-    description: Dobrý výkon v GPQA Diamond (48.4%) ukazuje na schopnost porozumět a řešit složité vědecké otázky.
+    description: Vysoké skóre v matematických benchmarkách MATH-500 (94.9%) a AIME 2025 (66.7%) naznačuje silné schopnosti v řešení matematických problémů.
+  - area: Znalosti
+    description: Dobrý výsledek v MMLU Pro (74.0%) ukazuje na solidní úroveň znalostí.
 weaknesses:
   - area: Rychlost
-    description: "Nízká rychlost (TPS: 63.8, TTFT: 0.990s) může omezit použitelnost v aplikacích vyžadujících rychlou odezvu."
+    description: "Nízká rychlost zpracování (TPS: 63.8, TTFT: 0.990s) omezuje použitelnost v aplikacích vyžadujících rychlou odezvu."
   - area: Programování
-    description: Slabý výkon v LiveCodeBench (37.6%) a scicode (23.9%) naznačuje omezené schopnosti v oblasti programování.
+    description: Slabé skóre v LiveCodeBench (37.6%) naznačuje omezené schopnosti v oblasti programování.
 competitors:
   - provider: MISTRALAI
-    model: mistralai/ministral-14b-2512
+    model: ministral-14b-2512
     model_id: mistralai/ministral-14b-2512
-    price_comparison: Podobná cena za vstup i výstup
-    comparison: Konkuruje v kontextovém okně a ceně, ale benchmarky pro matematiku a vědu nejsou k dispozici.
-  - provider: DEEPSEEK
-    model: deepseek/deepseek-v3.2-exp
-    model_id: deepseek/deepseek-v3.2-exp
-    price_comparison: Mírně dražší vstup, dražší výstup
-    comparison: Konkuruje v kontextovém okně, ale benchmarky pro matematiku a vědu nejsou k dispozici.
+    price_comparison: Podobná cena
+    comparison: Podobný kontext, ale potenciálně lepší rychlost (data nejsou k dispozici). Nutno otestovat v reálném provozu.
+  - provider: MISTRALAI
+    model: ministral-8b-2512
+    model_id: mistralai/ministral-8b-2512
+    price_comparison: Levnější
+    comparison: Menší model, ale potenciálně rychlejší a levnější. Záleží na konkrétních požadavcích na přesnost.
   - provider: GOOGLE
-    model: google/gemini-2.5-flash-image
+    model: gemini-2.5-flash-image
     model_id: google/gemini-2.5-flash-image
-    price_comparison: Dražší vstup, výrazně dražší výstup
-    comparison: Konkuruje v kontextovém okně, ale benchmarky pro matematiku a vědu nejsou k dispozici.
+    price_comparison: Mírně dražší vstup, výrazně dražší výstup
+    comparison: Podobný kontext, ale potenciálně lepší v multimodálních úlohách (pokud jsou potřeba).
+  - provider: DEEPSEEK
+    model: deepseek-v3.2-exp
+    model_id: deepseek/deepseek-v3.2-exp
+    price_comparison: Dražší vstup, dražší výstup
+    comparison: Větší kontext, ale vyšší cena. Záleží na potřebě delšího kontextu.
 recommendation:
   target_users:
-    - Studenti
-    - Výzkumníci
-    - Inženýři
+    - Výzkumníci v oblasti matematiky
+    - Studenti a učitelé matematiky
+    - Analytici dat
   use_cases:
     - Řešení matematických úloh
-    - Vědecké výpočty
-    - Analýza dat
+    - Analýza dat vyžadující matematické operace
+    - Vzdělávací aplikace
   avoid_for:
     - Aplikace vyžadující rychlou odezvu
-    - Programování
-    - Úkoly v češtině (data nejsou k dispozici)
-verdict: DeepSeek R1 Distill Qwen 14B je vhodný pro uživatele, kteří potřebují model s vysokou přesností v matematických a vědeckých úlohách a nevadí jim pomalejší odezva. Není vhodný pro programování a aplikace vyžadující rychlou interakci.
-categories:
+    - Úlohy s komplexním programováním
+    - Aplikace vyžadující silnou podporu češtiny (data nejsou k dispozici)
+verdict: DeepSeek R1 Distill Qwen 14B je vhodný pro uživatele, kteří potřebují model s vysokou přesností v matematických úlohách a nevadí jim pomalejší rychlost zpracování.
+benchmark_categories:
   science:
     name: Věda & Matematika
     icon: 🧮
@@ -88,11 +93,11 @@ radar:
   safety: 0
   speed: Slabý
 expert_verdict:
-  killer_feature: Vynikající v matematice, zejména v náročných úlohách.
-  hidden_risk: Pomalá inference může být limitující pro interaktivní aplikace.
-  recommended_use_case: Řešení komplexních matematických problémů a vědeckých výpočtů, kde není kladen důraz na rychlost.
+  killer_feature: Vynikající v matematických úlohách
+  hidden_risk: Pomalá inference může omezit použitelnost v reálném čase
+  recommended_use_case: Řešení složitých matematických problémů a validace matematických modelů
 analyzer_model: google/gemini-2.0-flash-001
-analyzed_at: "2025-12-09 10:52"
+analyzed_at: "2025-12-09 11:01"
 ---
 
 DeepSeek R1 Distill Qwen 14B je destilovaný velký jazykový model založený na [Qwen 2.5 14B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B), využívající výstupy z [DeepSeek R1](/deepseek/deepseek-r1). Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků (state-of-the-art) pro husté modely.
@@ -107,20 +112,20 @@ Model využívá jemné doladění (fine-tuning) z výstupů DeepSeek R1, což u
 
 ## Unikátní charakteristiky
 
-DeepSeek R1 Distill Qwen 14B je destilovaný model, který dosahuje vysokých výsledků v matematických úlohách (MATH-500: 94.9%, AIME 2025: 66.7%) a vědeckých testech (GPQA Diamond: 48.4%). Využívá fine-tuning z výstupů DeepSeek R1.
+DeepSeek R1 Distill Qwen 14B je destilovaný model, který dosahuje vysokých skóre v matematických úlohách (MATH-500: 94.9%, AIME 2025: 66.7%). Vyniká v porovnání s jinými modely stejné velikosti, ale jeho rychlost je poměrně nízká.
 
 ## Silné stránky
 
 ### Matematika
-Vynikající výsledky v matematických benchmarkách, jako MATH-500 (94.9%) a AIME 2025 (66.7%), naznačují silné schopnosti v řešení matematických problémů.
+Vysoké skóre v matematických benchmarkách MATH-500 (94.9%) a AIME 2025 (66.7%) naznačuje silné schopnosti v řešení matematických problémů.
 
-### Věda
-Dobrý výkon v GPQA Diamond (48.4%) ukazuje na schopnost porozumět a řešit složité vědecké otázky.
+### Znalosti
+Dobrý výsledek v MMLU Pro (74.0%) ukazuje na solidní úroveň znalostí.
 
 ## Slabé stránky
 
 ### Rychlost
-Nízká rychlost (TPS: 63.8, TTFT: 0.990s) může omezit použitelnost v aplikacích vyžadujících rychlou odezvu.
+Nízká rychlost zpracování (TPS: 63.8, TTFT: 0.990s) omezuje použitelnost v aplikacích vyžadujících rychlou odezvu.
 
 ### Programování
-Slabý výkon v LiveCodeBench (37.6%) a scicode (23.9%) naznačuje omezené schopnosti v oblasti programování.
+Slabé skóre v LiveCodeBench (37.6%) naznačuje omezené schopnosti v oblasti programování.

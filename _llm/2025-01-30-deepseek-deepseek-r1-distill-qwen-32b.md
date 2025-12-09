@@ -16,49 +16,54 @@ input_modalities:
 output_modalities:
   - text
 focus:
-  - Matematika
   - Věda
+  - Matematika
 strengths:
   - area: Matematika
-    description: Vynikající výsledky v matematických benchmarkách, jako MATH-500 (94.1%) a AIME 2025 (68.7%), naznačují silné schopnosti v řešení matematických problémů.
+    description: Vysoké skóre v matematických benchmarcích MATH-500 (94.1%) a AIME 2025 (68.7%) naznačuje silnou schopnost řešit komplexní matematické problémy.
   - area: Věda
-    description: Solidní výkon v GPQA Diamond (61.5%) ukazuje na dobrou schopnost porozumět a řešit vědecké otázky.
+    description: Dobrý výsledek v GPQA Diamond (61.5%) ukazuje na schopnost porozumět a řešit vědecké otázky.
 weaknesses:
   - area: Programování
-    description: Slabý výkon v LiveCodeBench (27.0%) naznačuje omezené schopnosti v oblasti programování.
+    description: Nízké skóre v LiveCodeBench (27.0%) naznačuje slabší schopnosti v oblasti programování.
   - area: Rychlost
-    description: Nízké TPS (53.1) a relativně vysoká latence (0.582s) znamenají, že model není vhodný pro aplikace vyžadující rychlou odezvu.
+    description: Nízké TPS (53.1) a relativně vysoká latence (0.582s) znamenají, že model není ideální pro aplikace vyžadující rychlou odezvu.
 competitors:
   - provider: MISTRALAI
     model: mistralai/ministral-14b-2512
     model_id: mistralai/ministral-14b-2512
-    price_comparison: Podobná cena
-    comparison: Mistral 14B má větší kontext a může být lepší v některých úlohách, ale DeepSeek může mít lepší matematické schopnosti.
+    price_comparison: Podobná cena vstupu i výstupu
+    comparison: Ministral-14b má větší kontext (262,144 tokenů) a může být lepší v úlohách vyžadujících dlouhodobou paměť.
+  - provider: MISTRALAI
+    model: mistralai/ministral-8b-2512
+    model_id: mistralai/ministral-8b-2512
+    price_comparison: Levnější vstup i výstup
+    comparison: Ministral-8b je levnější, ale pravděpodobně méně výkonný v náročných úlohách.
+  - provider: DEEPSEEK
+    model: deepseek/deepseek-v3.2-speciale
+    model_id: deepseek/deepseek-v3.2-speciale
+    price_comparison: Mírně dražší vstup i výstup
+    comparison: Deepseek-v3.2-speciale má menší kontext, ale může mít lepší výkon v některých specifických úlohách (data nejsou k dispozici).
   - provider: X-AI
     model: x-ai/grok-4.1-fast
     model_id: x-ai/grok-4.1-fast
     price_comparison: Levnější vstup i výstup
-    comparison: Grok má mnohem větší kontext (2M tokenů) a je levnější, ale DeepSeek může mít lepší výsledky v matematice a vědě.
-  - provider: DEEPSEEK
-    model: deepseek/deepseek-v3.2-exp
-    model_id: deepseek/deepseek-v3.2-exp
-    price_comparison: Podobná cena
-    comparison: Deepseek v3.2-exp má větší kontext a může být lepší volbou pro delší texty, ale tento model je destilovaný a může mít lepší poměr výkon/cena.
+    comparison: Grok-4.1-fast nabízí obrovský kontext (2,000,000 tokenů) a nižší cenu, ale jeho výkon v matematice a vědě není znám.
 recommendation:
   target_users:
-    - Studenti
     - Výzkumníci
-    - Inženýři
+    - Studenti
+    - Data Scientists
   use_cases:
-    - Řešení matematických úloh
-    - Vědecké výpočty
-    - Analýza dat
+    - Řešení matematických problémů
+    - Analýza vědeckých dat
+    - Vzdělávací aplikace
   avoid_for:
-    - Programování
-    - Aplikace s nízkou latencí
-    - Zpracování dlouhých textů
-verdict: DeepSeek R1 Distill Qwen 32B je vhodný pro uživatele, kteří potřebují model s dobrými matematickými schopnostmi a jsou ochotni akceptovat pomalejší rychlost a potenciální omezení v oblasti programování a češtiny.
-categories:
+    - Generování kódu
+    - Aplikace vyžadující rychlou odezvu
+    - Úlohy v češtině (chybí data)
+verdict: DeepSeek R1 Distill Qwen 32B je vhodný pro uživatele, kteří potřebují model s vysokým výkonem v matematice a vědě, ale nemají vysoké nároky na rychlost a programování. Je nutné ověřit jeho schopnosti v češtině.
+benchmark_categories:
   science:
     name: Věda & Matematika
     icon: 🧮
@@ -88,11 +93,11 @@ radar:
   safety: 0
   speed: Slabý
 expert_verdict:
-  killer_feature: Vynikající matematické schopnosti
-  hidden_risk: Slabá podpora češtiny (data nejsou k dispozici) a pomalá inference
-  recommended_use_case: Řešení složitých matematických problémů a vědeckých výpočtů
+  killer_feature: Vynikající v matematice
+  hidden_risk: Slabší v programování a logickém uvažování, chybí data pro češtinu
+  recommended_use_case: Řešení komplexních matematických úloh a analýza vědeckých dat
 analyzer_model: google/gemini-2.0-flash-001
-analyzed_at: "2025-12-09 10:53"
+analyzed_at: "2025-12-09 11:01"
 ---
 
 DeepSeek R1 Distill Qwen 32B je destilovaný velký jazykový model založený na [Qwen 2.5 32B](https://huggingface.co/Qwen/Qwen2.5-32B), využívající výstupy z [DeepSeek R1](/deepseek/deepseek-r1). Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků pro husté modely.
@@ -107,20 +112,20 @@ Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurences
 
 ## Unikátní charakteristiky
 
-Model DeepSeek R1 Distill Qwen 32B dosahuje špičkových výsledků v matematických úlohách, zejména v MATH-500 (94.1%) a AIME 2025 (68.7%). Je to destilovaný model, který se snaží dosáhnout srovnatelné výkonnosti s většími modely.
+DeepSeek R1 Distill Qwen 32B je destilovaný model, který dosahuje vysokých skóre v matematických benchmarcích (MATH-500: 94.1%, AIME 2025: 68.7%). Vyniká v náročných matematických úlohách, ale má slabší výsledky v logickém uvažování a programování.
 
 ## Silné stránky
 
 ### Matematika
-Vynikající výsledky v matematických benchmarkách, jako MATH-500 (94.1%) a AIME 2025 (68.7%), naznačují silné schopnosti v řešení matematických problémů.
+Vysoké skóre v matematických benchmarcích MATH-500 (94.1%) a AIME 2025 (68.7%) naznačuje silnou schopnost řešit komplexní matematické problémy.
 
 ### Věda
-Solidní výkon v GPQA Diamond (61.5%) ukazuje na dobrou schopnost porozumět a řešit vědecké otázky.
+Dobrý výsledek v GPQA Diamond (61.5%) ukazuje na schopnost porozumět a řešit vědecké otázky.
 
 ## Slabé stránky
 
 ### Programování
-Slabý výkon v LiveCodeBench (27.0%) naznačuje omezené schopnosti v oblasti programování.
+Nízké skóre v LiveCodeBench (27.0%) naznačuje slabší schopnosti v oblasti programování.
 
 ### Rychlost
-Nízké TPS (53.1) a relativně vysoká latence (0.582s) znamenají, že model není vhodný pro aplikace vyžadující rychlou odezvu.
+Nízké TPS (53.1) a relativně vysoká latence (0.582s) znamenají, že model není ideální pro aplikace vyžadující rychlou odezvu.
