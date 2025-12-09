@@ -27433,7 +27433,7 @@
       "title"    : "Přehled LLM modelů",
       "url"      : "/llm/",
       "category" : "stránka",
-      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 13 modelů | Aktualizováno denně Všechny Anthropic OpenAI Google xAI DeepSeek Mistral 09. 12. 2025 $/1M - Detail modelu → → $/1M - Detail modelu → 09. 12. 2025 $/1M - Detail modelu → → $/1M - Detail modelu → 09. 12. 2025 $/1M - Detail modelu → → $/1M - Detail modelu → 09. 12. 2025 $/1M - Detail modelu → → $/1M - Detail modelu → 09. 12. 2025 $/1M - Detail modelu → → $/1M - Detail modelu → 09. 12. 2025 $/1M - Detail..."
+      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 13 modelů | Aktualizováno denně Všechny Anthropic OpenAI Google xAI DeepSeek Mistral Relace 08. 12. 2025 Relace: Relace Search Codebase Search Agentic Reasoning Retrieval Relace Search je vysoce specializovaný nástroj pro inženýrské týmy, které narazily na limity tradičního RAGu v kódových bázích a potřebují přesnějš... $1.0/1M - Detail modelu → → $3.0/1M - Detail modelu → Z-Ai 08. 12. 2025 Z.AI: GLM 4.6V Vizuální porozumění s vysokou věrností Generování kódu z vizuálních vstupů (UI-to-Code) Multimodální volání funkcí GLM 4.6V je technicky zdatný model pro vizuálně orientované úlohy a..."
     }
     
   
@@ -28243,73 +28243,73 @@
     
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-01-23-deepseek-deepseek-r1-distill-llama-70b/",
+        "title"    : "DeepSeek: R1 Distill Llama 70B",
+        "url"      : "/llm/deepseek-deepseek-r1-distill-llama-70b/",
         "category" : "llm",
-        "content"  : "DeepSeek R1 Distill Llama 70B je destilovaný velký jazykový model založený na Llama-3.3-70B-Instruct, využívající výstupy z DeepSeek R1. Model kombinuje pokročilé techniky destilace k dosažení vysokého výkonu v několika benchmarkách, včetně: AIME 2024 pass@1: 70.0 MATH-500 pass@1: 94.5 CodeForces Rating: 1633Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely.Unikátní charakteristikyDeepSeek R1 Distill Llama 70B je destilovaný model, který exceluje v matematice a kódování. Dosahuje vysokých skóre v MATH-500 (93.5%) a AIME 2025 (67.0%), což naznačuje silné schopnosti v řešení komplexních problémů. Nicméně, rychlost inference je pomalá (98.3 TPS).Silné stránkyMatematikaVysoké skóre v matematických benchmarkách,..."
+        "content"  : "DeepSeek R1 Distill Llama 70B je destilovaný velký jazykový model založený na Llama-3.3-70B-Instruct, využívající výstupy z DeepSeek R1. Model kombinuje pokročilé destilační techniky k dosažení vysokého výkonu v několika benchmarkách, včetně: AIME 2024 pass@1: 70.0 MATH-500 pass@1: 94.5 CodeForces Rating: 1633Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími hraničními modely.Unikátní charakteristikyDeepSeek R1 Distill Llama 70B je destilovaný model, který dosahuje vysokých skóre v matematických úlohách (MATH-500: 93.5%, AIME 2025: 67.0%). Jeho kódovací schopnosti jsou průměrné (LiveCodeBench: 26.6%).Silné stránkyMatematikaVysoké skóre v matematických benchmarcích, jako MATH-500 (93.5%) a AIME 2025 (67.0%), naznačuje silné schopnosti v řešení..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-01-30-deepseek-deepseek-r1-distill-qwen-14b/",
+        "title"    : "DeepSeek: R1 Distill Qwen 14B",
+        "url"      : "/llm/deepseek-deepseek-r1-distill-qwen-14b/",
         "category" : "llm",
-        "content"  : "DeepSeek R1 Distill Qwen 14B je destilovaný velký jazykový model založený na Qwen 2.5 14B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků (state-of-the-art) pro husté modely.Další výsledky benchmarků zahrnují: AIME 2024 pass@1: 69.7 MATH-500 pass@1: 93.9 CodeForces Rating: 1481Model využívá jemné doladění (fine-tuning) z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely (frontier models).Unikátní charakteristikyDeepSeek R1 Distill Qwen 14B je destilovaný model, který dosahuje vysokých výsledků v matematických úlohách (MATH-500: 94.9%, AIME 2025: 66.7%) a vědeckých testech (GPQA Diamond: 48.4%). Využívá fine-tuning z výstupů DeepSeek R1.Silné..."
+        "content"  : "DeepSeek R1 Distill Qwen 14B je destilovaný velký jazykový model založený na Qwen 2.5 14B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků (state-of-the-art) pro husté modely.Další výsledky benchmarků zahrnují: AIME 2024 pass@1: 69.7 MATH-500 pass@1: 93.9 CodeForces Rating: 1481Model využívá jemné doladění (fine-tuning) z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely (frontier models).Unikátní charakteristikyDeepSeek R1 Distill Qwen 14B je destilovaný model, který dosahuje vysokých skóre v matematických úlohách (MATH-500: 94.9%, AIME 2025: 66.7%). Vyniká v porovnání s jinými modely stejné velikosti, ale jeho rychlost je..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-01-30-deepseek-deepseek-r1-distill-qwen-32b/",
+        "title"    : "DeepSeek: R1 Distill Qwen 32B",
+        "url"      : "/llm/deepseek-deepseek-r1-distill-qwen-32b/",
         "category" : "llm",
-        "content"  : "DeepSeek R1 Distill Qwen 32B je destilovaný velký jazykový model založený na Qwen 2.5 32B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků pro husté modely.Další výsledky benchmarků zahrnují: AIME 2024 pass@1: 72.6 MATH-500 pass@1: 94.3 CodeForces Rating: 1691Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely.Unikátní charakteristikyModel DeepSeek R1 Distill Qwen 32B dosahuje špičkových výsledků v matematických úlohách, zejména v MATH-500 (94.1%) a AIME 2025 (68.7%). Je to destilovaný model, který se snaží dosáhnout srovnatelné výkonnosti s většími modely.Silné stránkyMatematikaVynikající výsledky v matematických..."
+        "content"  : "DeepSeek R1 Distill Qwen 32B je destilovaný velký jazykový model založený na Qwen 2.5 32B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků pro husté modely.Další výsledky benchmarků zahrnují: AIME 2024 pass@1: 72.6 MATH-500 pass@1: 94.3 CodeForces Rating: 1691Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely.Unikátní charakteristikyDeepSeek R1 Distill Qwen 32B je destilovaný model, který dosahuje vysokých skóre v matematických benchmarcích (MATH-500: 94.1%, AIME 2025: 68.7%). Vyniká v náročných matematických úlohách, ale má slabší výsledky v logickém uvažování a programování.Silné stránkyMatematikaVysoké skóre v..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-01-30-mistralai-mistral-small-24b-instruct-2501/",
+        "title"    : "Mistral: Mistral Small 3",
+        "url"      : "/llm/mistralai-mistral-small-24b-instruct-2501/",
         "category" : "llm",
-        "content"  : "Mistral Small 3 je jazykový model s 24 miliardami parametrů optimalizovaný pro nízkou latenci při běžných úlohách umělé inteligence. Je vydán pod licencí Apache 2.0 a nabízí předtrénované i instrukčně doladěné verze navržené pro efektivní lokální nasazení.Model dosahuje 81% přesnosti v benchmarku MMLU a výkonem konkuruje větším modelům, jako jsou Llama 3.3 70B a Qwen 32B, přičemž na ekvivalentním hardwaru pracuje třikrát rychleji.Unikátní charakteristikyMistral Small 3 je optimalizován pro nízkou latenci a dosahuje konkurenceschopných výsledků s většími modely, jako je Llama 3 70B, při trojnásobné rychlosti na stejném hardwaru. Dosahuje 81% přesnosti na benchmarku MMLU.Silné stránkyRychlostVysoká rychlost zpracování s TPS..."
+        "content"  : "Mistral Small 3 je jazykový model s 24 miliardami parametrů optimalizovaný pro nízkou latenci při běžných úlohách umělé inteligence. Je vydán pod licencí Apache 2.0 a nabízí jak předtrénovanou, tak i instrukčně doladěnou verzi, navržené pro efektivní lokální nasazení.Model dosahuje 81% přesnosti v benchmarku MMLU a výkonem konkuruje větším modelům, jako jsou Llama 3.3 70B a Qwen 32B, přičemž na ekvivalentním hardwaru pracuje třikrát rychleji. Přečtěte si blogový příspěvek o modelu zde.Unikátní charakteristikyMistral Small 3 je optimalizován pro nízkou latenci a rychlou inferenci. Dosahuje konkurenceschopných výsledků v MMLU benchmarku a nabízí velký kontext 32,768 tokenů. Jeho rychlost je 3x vyšší..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-01-31-openai-o3-mini/",
+        "title"    : "OpenAI: o3 Mini",
+        "url"      : "/llm/openai-o3-mini/",
         "category" : "llm",
-        "content"  : "OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM uvažování, přičemž vyniká zejména ve vědě, matematice a kódování.Tento model podporuje parametr reasoning_effort, který lze nastavit na “high”, “medium” nebo “low” pro řízení doby přemýšlení modelu. Výchozí hodnota je “medium”. OpenRouter také nabízí model slug openai/o3-mini-high pro nastavení parametru na výchozí hodnotu “high”.Model nabízí tři nastavitelné úrovně úsilí uvažování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, i když nezahrnuje možnosti zpracování obrazu.Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb..."
+        "content"  : "OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM uvažování, obzvláště vynikající ve vědě, matematice a kódování.Tento model podporuje parametr reasoning_effort, který lze nastavit na “high”, “medium” nebo “low” pro řízení doby přemýšlení modelu. Výchozí hodnota je “medium”. OpenRouter také nabízí model slug openai/o3-mini-high pro nastavení parametru na “high” jako výchozí.Model nabízí tři nastavitelné úrovně úsilí uvažování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, i když nezahrnuje možnosti zpracování obrazu.Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-02-05-google-gemini-2-0-flash-001/",
+        "title"    : "Google: Gemini 2.0 Flash",
+        "url"      : "/llm/google-gemini-2-0-flash-001/",
         "category" : "llm",
-        "content"  : "Gemini Flash 2.0 nabízí výrazně kratší dobu do prvního tokenu (TTFT) ve srovnání s Gemini Flash 1.5, přičemž si zachovává kvalitu srovnatelnou s většími modely, jako je Gemini Pro 1.5. Přináší významná vylepšení v multimodálním porozumění, schopnostech kódování, plnění komplexních instrukcí a volání funkcí. Tyto pokroky společně přinášejí plynulejší a robustnější agentní zážitky.Unikátní charakteristikyGemini Flash 2.0 se vyznačuje výrazně rychlejším časem do prvního tokenu (TTFT) a zachovává si kvalitu srovnatelnou s většími modely. Vylepšení v multimodálním porozumění, kódování a komplexním sledování instrukcí z něj činí vhodného kandidáta pro agentní aplikace.Silné stránkyRychlostVynikající rychlost inference s TTFT 0.371s a TPS 179.3 tokenů..."
+        "content"  : "Gemini Flash 2.0 nabízí výrazně kratší dobu do prvního tokenu (TTFT) ve srovnání s Gemini Flash 1.5, přičemž si zachovává kvalitu srovnatelnou s většími modely, jako je Gemini Pro 1.5. Přináší významná vylepšení v multimodálním porozumění, schopnostech kódování, plnění komplexních instrukcí a volání funkcí. Tyto pokroky společně přinášejí plynulejší a robustnější agentní zážitky.Unikátní charakteristikyGemini Flash 2.0 nabízí výrazně rychlejší čas do prvního tokenu (TTFT) a zachovává kvalitu srovnatelnou s většími modely. Vylepšení v multimodálním porozumění, kódování a komplexním sledování instrukcí z něj dělají robustní model pro agentní aplikace.Silné stránkyRychlostModel vyniká rychlostí, s TTFT pouhých 0.371s a TPS 179.3, což ho..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-02-12-openai-o3-mini-high/",
+        "title"    : "OpenAI: o3 Mini High",
+        "url"      : "/llm/openai-o3-mini-high/",
         "category" : "llm",
-        "content"  : "OpenAI o3-mini-high je stejný model jako o3-mini s nastaveným parametrem reasoning_effort na hodnotu high.o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM usuzování, přičemž vyniká zejména ve vědě, matematice a kódování. Model nabízí tři nastavitelné úrovně úsilí usuzování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, nicméně nezahrnuje schopnosti zpracování obrazu.Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u složitých otázek. S nastavením středního úsilí usuzování (medium reasoning effort) dosahuje o3-mini výkonu většího modelu o1 v náročných hodnoceních usuzování, jako..."
+        "content"  : "OpenAI o3-mini-high je stejný model jako o3-mini s nastaveným parametrem reasoning_effort na hodnotu high.o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM usuzování, obzvláště vyniká ve vědě, matematice a kódování. Model nabízí tři nastavitelné úrovně úsilí usuzování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, avšak nezahrnuje schopnosti zpracování obrazu.Model vykazuje významná zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u složitých otázek. S nastavením středního úsilí usuzování dosahuje o3-mini výkonu většího modelu o1 v náročných hodnoceních usuzování, jako jsou AIME a GPQA,..."
       }
       
       ,{
         "title"    : "Llama Guard 3 8B",
         "url"      : "/llm/meta-llama-llama-guard-3-8b/",
         "category" : "llm",
-        "content"  : "Llama Guard 3 je předtrénovaný model Llama-3.1-8B, doladěný pro klasifikaci bezpečnosti obsahu. Podobně jako předchozí verze, může být použit ke klasifikaci obsahu jak ve vstupech LLM (klasifikace promptu), tak v odpovědích LLM (klasifikace odpovědi). Funguje jako LLM – generuje text ve svém výstupu, který indikuje, zda je daný prompt nebo odpověď bezpečný nebo nebezpečný, a pokud je nebezpečný, také vypíše kategorie obsahu, které byly porušeny.Llama Guard 3 byl sladěn tak, aby chránil proti standardizované taxonomii rizik MLCommons a byl navržen tak, aby podporoval schopnosti Llama 3.1. Konkrétně poskytuje moderování obsahu v 8 jazycích a byl optimalizován pro podporu bezpečnosti a..."
+        "content"  : "Llama Guard 3 je předtrénovaný model Llama-3.1-8B, doladěný pro klasifikaci bezpečnosti obsahu. Podobně jako předchozí verze, může být použit ke klasifikaci obsahu jak ve vstupech LLM (klasifikace promptů), tak v odpovědích LLM (klasifikace odpovědí). Funguje jako LLM – generuje text ve svém výstupu, který indikuje, zda je daný prompt nebo odpověď bezpečný nebo nebezpečný, a pokud je nebezpečný, také vypíše kategorie obsahu, které byly porušeny.Llama Guard 3 byl sladěn tak, aby chránil proti standardizované taxonomii rizik MLCommons a byl navržen tak, aby podporoval schopnosti Llama 3.1. Konkrétně poskytuje moderování obsahu v 8 jazycích a byl optimalizován pro podporu bezpečnosti a..."
       }
       
       ,{
-        "title"    : "",
-        "url"      : "/llm/2025-02-17-mistralai-mistral-saba/",
+        "title"    : "Mistral: Saba",
+        "url"      : "/llm/mistralai-mistral-saba/",
         "category" : "llm",
-        "content"  : "Mistral Saba je jazykový model s 24 miliardami parametrů, speciálně navržený pro Blízký východ a jižní Asii, poskytující přesné a kontextuálně relevantní odpovědi při zachování efektivního výkonu. Byl trénován na kurátorsky vybraných regionálních datasetech a podporuje několik jazyků indického původu – včetně tamilštiny a malajálamštiny – spolu s arabštinou. Díky tomu je univerzální volbou pro širokou škálu regionálních a vícejazyčných aplikací. Více se dočtete v blogovém příspěvku zde.Unikátní charakteristikyMistral Saba je 24B model optimalizovaný pro Střední Východ a Jižní Asii, s podporou pro několik jazyků indického původu a arabštinu. Jeho výkon v matematických úlohách (MATH-500: 67.7%) je relativně silný, ale..."
+        "content"  : "Mistral Saba je jazykový model s 24 miliardami parametrů, speciálně navržený pro Blízký východ a jižní Asii, který poskytuje přesné a kontextuálně relevantní odpovědi při zachování efektivního výkonu. Byl trénován na vybraných regionálních datasetech a podporuje několik jazyků indického původu – včetně tamilštiny a malajálamštiny – vedle arabštiny. Díky tomu je univerzální volbou pro širokou škálu regionálních a vícejazyčných aplikací. Více informací naleznete v blogovém příspěvku zde.Unikátní charakteristikyMistral Saba je jazykový model s 24 miliardami parametrů, optimalizovaný pro Střední Východ a Jižní Asii. Podporuje několik jazyků indického původu a arabštinu, což ho činí vhodným pro regionální a multilingvální aplikace. Jeho..."
       }
       
       ,{
         "title"    : "Anthropic: Claude 3.7 Sonnet (thinking)",
         "url"      : "/llm/anthropic-claude-3-7-sonnet-thinking/",
         "category" : "llm",
-        "content"  : "Claude 3.7 Sonnet je pokročilý velký jazykový model s vylepšenými schopnostmi usuzování, kódování a řešení problémů. Zavádí hybridní přístup k usuzování, který uživatelům umožňuje volit mezi rychlými odpověďmi a rozšířeným, krok-za-krokem zpracováním pro komplexní úkoly. Model vykazuje pozoruhodné zlepšení v kódování, zejména ve front-end vývoji a full-stack aktualizacích, a vyniká v agentních pracovních postupech, kde dokáže autonomně procházet vícestupňovými procesy.Claude 3.7 Sonnet si udržuje výkonnostní paritu se svým předchůdcem ve standardním režimu a zároveň nabízí rozšířený režim usuzování pro zvýšenou přesnost v matematických, kódovacích úlohách a úlohách vyžadujících dodržování instrukcí.Unikátní charakteristikyClaude 3.7 Sonnet nabízí hybridní přístup k rozumování, umožňující uživatelům..."
+        "content"  : "Claude 3.7 Sonnet je pokročilý velký jazykový model s vylepšenými schopnostmi usuzování, kódování a řešení problémů. Zavádí hybridní přístup k usuzování, který uživatelům umožňuje volit mezi rychlými odpověďmi a rozšířeným, krok-za-krokem zpracováním pro složité úlohy. Model vykazuje pozoruhodná zlepšení v kódování, zejména ve front-end vývoji a full-stack aktualizacích, a vyniká v agentních pracovních postupech, kde dokáže autonomně procházet vícestupňovými procesy.Claude 3.7 Sonnet si udržuje výkonnostní paritu se svým předchůdcem ve standardním režimu a zároveň nabízí rozšířený režim usuzování pro zvýšenou přesnost v matematických, kódovacích a úlohách vyžadujících dodržování instrukcí.Unikátní charakteristikyClaude 3.7 Sonnet nabízí hybridní přístup k rozumování, umožňující volbu mezi..."
       }
       
       ,{
