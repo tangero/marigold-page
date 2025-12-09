@@ -1,7 +1,194 @@
 {
-  "generated": "2025-12-09T16:48:28.150962+00:00",
+  "generated": "2025-12-09T20:42:20.172686+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Výhled kvantového počítání je příznivý: 2 akcie sledovat do roku 2026",
+      "description": "Společnosti IONQ a QBTS vynikají v rostoucím zájmu o kvantové technologie díky rekordním výkonnostním metrikám, růstu příjmů a novým systémům, což přitahuje investory směrem k roku 2026.",
+      "slug": "quantum-computing-outlook-shines-2-stocks-to-watch",
+      "publishedAt": "2025-12-08T20:00:00+00:00",
+      "date": "2025-12-08 20:00:00",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://media.zenfs.com/en/zacks.com/838cf8b60fbc1e7928a087dc9bcb3648",
+      "url": "/tech-news/2025-12-08/quantum-computing-outlook-shines-2-stocks-to-watch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "IONQ",
+        "QBTS"
+      ],
+      "people": []
+    },
+    {
+      "title": "XAI Grok 4.2 obchoduje se skutečnými penězi na reálných trzích s obchody reportovanými v reálném čase – průměrně +20 % a špička +65 % za 20 dní",
+      "description": "Model XAI Grok 4.2 provádí autonomní obchody se skutečnými penězi na kryptoměnových perpetuals s leverage až 20x a hlásí výsledky v reálném čase. Čtyři strategie na účtech po 10 000 USD dosáhly průměrného zisku 20 %, přičemž nejlepší účet vrcholil na 65 % zisku za přibližně 20 dní.",
+      "slug": "xai-grok-42-trading-real-stocks-in-real-markets-wi",
+      "publishedAt": "2025-12-08T19:55:35+00:00",
+      "date": "2025-12-08 19:55:35",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-08-at-11.47.01-AM.jpg",
+      "url": "/tech-news/2025-12-08/xai-grok-42-trading-real-stocks-in-real-markets-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "React2Shell: Zranitelnost umožňující vzdálené spouštění kódu (CVE-2025-55182)",
+      "description": "Meta a Vercel zveřejnily 3. prosince 2025 kritickou zranitelnost CVE-2025-55182 v React Server Components s maximálním skóre CVSS 10.0, která umožňuje neověřené vzdálené spouštění kódu na postižených serverech. Zranitelnost, pojmenovaná React2Shell, využívá protokol Flight a byla exploitována přes 4100krát během dvou hodin po zveřejnění.",
+      "slug": "react2shell-remote-code-execution-vulnerability-cv",
+      "publishedAt": "2025-12-08T19:49:57+00:00",
+      "date": "2025-12-08 19:49:57",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://cms.zscaler.com/sites/default/files/images/blogs/react2shell_advisory_v2..jpg",
+      "url": "/tech-news/2025-12-08/react2shell-remote-code-execution-vulnerability-cv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Zscaler.com"
+      },
+      "companies": [
+        "Meta",
+        "Vercel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Průlom Instacartu v AI: Od chatu až k dveřím",
+      "description": "Instacart integruje svou celou platformu přímo do ChatGPT, což umožňuje uživatelům v jedné konverzaci získat nápady na recepty a následně objednat potraviny s doručením. Firma se stala první s plně integrovaným nákupním systémem v tomto modelu umělé inteligence.",
+      "slug": "instacarts-ai-breakthrough-from-chat-to-doorstep",
+      "publishedAt": "2025-12-08T19:14:09+00:00",
+      "date": "2025-12-08 19:14:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/12/shutterstock_2248583563-scaled.jpg",
+      "url": "/tech-news/2025-12-08/instacarts-ai-breakthrough-from-chat-to-doorstep/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [
+        "Instacart"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gartner: Všechny AI prohlížeče by měly být blokovány na předvídatelnou dobu",
+      "description": "Gartner varuje své zákazníky, že AI prohlížeče představují významné kyberbezpečnostní riziko a měly by být v blízké budoucnosti blokovány. Týká se to prohlížečů s AI bočním panelem a agentickými schopnostmi, které umožňují autonomní akce na webu.",
+      "slug": "gartner-all-ai-browsers-should-be-blocked-for-fore",
+      "publishedAt": "2025-12-08T19:08:32+00:00",
+      "date": "2025-12-08 19:08:32",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/12/edge-copilot-mode-thumb.jpg",
+      "url": "/tech-news/2025-12-08/gartner-all-ai-browsers-should-be-blocked-for-fore/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thurrott.com"
+      },
+      "companies": [
+        "Gartner"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump varuje: Bez jednotných pravidel bude AI zničeno v zaúkolébání – kritici upozorňují na federalizaci moci",
+      "description": "Prezident Trump plánuje vydat výkonný příkaz, který zabrání státům samostatně regulovat umělou inteligenci. Tento krok má zjednodušit schvalovací procesy, avšak kritici varují před příliš velkou koncentrací moci v rukou federální vlády.",
+      "slug": "trump-warns-without-uniform-rules-ai-will-be-destr",
+      "publishedAt": "2025-12-08T19:05:14+00:00",
+      "date": "2025-12-08 19:05:14",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LAv8UaFdRWsyQiWvQwQDga-1920-80.jpg",
+      "url": "/tech-news/2025-12-08/trump-warns-without-uniform-rules-ai-will-be-destr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Agentické kódování přichází do Slacku: Anthropic spouští integraci Claude Code",
+      "description": "Společnost Anthropic, tvůrce modelů umělé inteligence Claude, představila beta verzi integrace Claude Code do platformy Slack. Tento agentický nástroj umožňuje vývojářům zadávat kódovací úkoly přímo v firemních konverzacích, kde Claude Code získává kontext z codebase a autonomně provádí úpravy.",
+      "slug": "agentic-coding-comes-to-slack-as-anthropic-launche",
+      "publishedAt": "2025-12-08T19:00:35+00:00",
+      "date": "2025-12-08 19:00:35",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/Anthropic.png",
+      "url": "/tech-news/2025-12-08/agentic-coding-comes-to-slack-as-anthropic-launche/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic",
+        "Slack"
+      ],
+      "people": []
+    },
+    {
+      "title": "NVIDIA podle čipového architekta Jima Kellera možná ukončí svůj 'CUDA příkop' novou aktualizací – portování jader bude snazší",
+      "description": "NVIDIA představila významný upgrade svého softwaru CUDA nazvaný CUDA Tile, který mění programování grafických procesorů z modelu SIMT na tile-based přístup. Čipový architekt Jim Keller tvrdí, že tento krok usnadní přenos AI jader na hardware jiných výrobců a oslabí exkluzivitu CUDA.",
+      "slug": "nvidia-might-end-the-cuda-moat-with-its-latest-upd",
+      "publishedAt": "2025-12-08T18:55:28+00:00",
+      "date": "2025-12-08 18:55:28",
+      "importance": 4,
+      "category": "gpu programování",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/06/Tenstorrent-RISC-V-AI-CPUs-Chiplets-Jim-Keller-_5-g-low_res-scale-2_00x.jpg",
+      "url": "/tech-news/2025-12-08/nvidia-might-end-the-cuda-moat-with-its-latest-upd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Jim Keller"
+      ]
+    },
+    {
+      "title": "Výnosnost akcií Dollar Tree a Dollar General překonává Nvidia",
+      "description": "Prezident Donald Trump oznámil plány na vydání výkonného příkazu s „JEDNIM PRAVIDLEM“ pro umělou inteligenci, které omezí regulace na úrovni amerických států. Tato iniciativa přichází současně s rozhodnutím povolit Nvidia prodej AI čipů H200 do Číny výměnou za 25procentní clo.",
+      "slug": "달러트리와-달러제너럴-주가수익률이-엔비디아-보다-높아",
+      "publishedAt": "2025-12-08T18:31:32+00:00",
+      "date": "2025-12-08 18:31:32",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fdq3I4y%2FdJMb99LEUW6%2FAAAAAAAAAAAAAAAAAAAAABGw-ZnKlfDFo9gSIbf9oYPgOhsAXrUHlvX_MfeyC2nF%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D7SOWNqAF5ipMhHCc566edE6RssM%253D",
+      "url": "/tech-news/2025-12-08/달러트리와-달러제너럴-주가수익률이-엔비디아-보다-높아/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tistory.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "Trump vydá exekutivní příkaz pro „jednu příručku pravidel“ pro AI po selhání Kongresu v omezení „špatných aktérů“ států",
       "description": "Prezident Trump oznámil, že tento týden vydá exekutivní příkaz zavedoucí „Jednu příručku pravidel“ na národní úrovni pro regulaci umělé inteligence, protože snahy Kongresu selhaly. Cílem je zabránit fragmentaci pravidel mezi 50 státy, která by podle něj oslabila konkurenceschopnost USA v globálním závodě o AI.",
@@ -2289,26 +2476,6 @@
       "people": []
     },
     {
-      "title": "Citadel tlačí SEC na klasifikaci vývojářů open-source protokolů jako neregistrovaných makléřů – Uniswap reaguje",
-      "description": "Citadel Securities podalo 2. prosince 13stránkový dopis Americké komisi pro cenné papíry (SEC), podle kterého decentralizované protokoly umožňující obchodování s tokenizovanými americkými akciemi splňují definice burz a makléřských firem. Regulátoři by je měli podle dopisu takto klasifikovat a regulovat.",
-      "slug": "citadel-pushes-sec-to-classify-open-source-develop",
-      "publishedAt": "2025-12-06T18:30:00+00:00",
-      "date": "2025-12-06 18:30:00",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/12/citadel-defi.jpg",
-      "url": "/tech-news/2025-12-06/citadel-pushes-sec-to-classify-open-source-develop/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CryptoSlate"
-      },
-      "companies": [
-        "Uniswap"
-      ],
-      "people": []
-    },
-    {
       "title": "Tělesná umělá inteligence je další hranicí inovací zaměřených na člověka",
       "description": "Za poslední dekádu fungovala umělá inteligence převážně na obrazovkách a v cloudu jako mozek bez těla. Tělesná umělá inteligence (EAI) spojuje pokročilou robotiku s generalizovanou AI pro autonomní působení ve fyzickém světě.",
       "slug": "embodied-artificial-intelligence-is-the-next-front",
@@ -2380,24 +2547,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čína uvádí první sériové osobní auto s navigací výhradně přes BeiDou, bez amerického GPS",
-      "description": "Čínská automobilka Dongfeng spustila SUV Sky EV01, které pro navigaci nepoužívá americký GPS, ale pouze domácí BeiDou systém. Klíčová data o poloze a destinaci vozidla tak zůstávají lokálně uložená a chráněná před zahraničními systémy.",
-      "slug": "china-launches-first-beidou-car-that-doesnt-probe-",
-      "publishedAt": "2025-12-06T17:42:00+00:00",
-      "date": "2025-12-06 17:42:00",
-      "importance": 3,
-      "category": "satelitní navigace",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dongfeng-EV01-SUV-BeiDou-positioning.jpg",
-      "url": "/tech-news/2025-12-06/china-launches-first-beidou-car-that-doesnt-probe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
       },
       "companies": [],
       "people": []
@@ -2522,27 +2671,6 @@
       "people": []
     },
     {
-      "title": "Vývojáři Cardana nyní vsazují na růst umělé inteligence a kvantového počítání",
-      "description": "Inženýrská firma Input Output, která stojí za vývojem blockchainu Cardano, prochází restrukturalizací a mění název na Input Output Group. Plánuje expanzi do oblastí kvantového počítání, digitální identity, fintechu a zdravotnictví.",
-      "slug": "cardano-builders-are-now-betting-on-ai-and-quantum",
-      "publishedAt": "2025-12-06T16:53:08+00:00",
-      "date": "2025-12-06 16:53:08",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6VFH4i.KMrz0bGa2MJzDCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/24d5a3fbd8f5d379125de8aac62436c5",
-      "url": "/tech-news/2025-12-06/cardano-builders-are-now-betting-on-ai-and-quantum/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BeInCrypto"
-      },
-      "companies": [
-        "Input Output",
-        "Input Output Group"
-      ],
-      "people": []
-    },
-    {
       "title": "Velká dohoda americké vlády v oblasti AI",
       "description": "Bílý dům prezentuje závod v adopci AI jako existenční krizi srovnatelnou s Manhattan Projectem, který vyžaduje masivní rozšíření energetické infrastruktury a datových center. Diskuse v podcaсту Angry Planet s Bena Buchananem, bývalým poradcem Bidenovy administrativy, se zaměřuje na roli vlády v partnerstvích s AI firmami a související rizika.",
       "slug": "the-us-governments-ai-grand-bargain",
@@ -2658,24 +2786,6 @@
       "people": [
         "Mark Warner"
       ]
-    },
-    {
-      "title": "Rakovina jí odebrala hlas. Vrátila si ho pomocí AI, nadávek a dětských knih",
-      "description": "Sonya Sotinsky po odstranění jazyka a hrtanu kvůli rakovině úst využila AI k vytvoření syntetického hlasu z vlastních nahrávek. Tento hlas s new jersey akcentem jí umožňuje vyjadřovat se včetně sarkasmu a vulgarit.",
-      "slug": "cancer-stole-her-voice-she-used-ai-curse-words-and",
-      "publishedAt": "2025-12-06T15:10:47+00:00",
-      "date": "2025-12-06 15:10:47",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/202512010400MCT_____PHOTO____US-NEWS-HEALTH-CANCER-VOICE-KHN.jpg?w=1024&h=686",
-      "url": "/tech-news/2025-12-06/cancer-stole-her-voice-she-used-ai-curse-words-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Jak postavit AI podpůrného agenta pro váš podnik během pouhých 12 minut (bez kódování)",
@@ -2863,24 +2973,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tvrdí se: Zajišťování dodávek kritických minerálů USA ohrožuje globální klima",
-      "description": "Podle zprávy americko-britského projektu Transition Security Project USA odklánějí miliardy dolarů na zásoby kritických minerálů pro vojenské účely, což podle autorů brzdí vývoj technologií pro obnovitelné zdroje energie.",
-      "slug": "claim-the-usa-securing-critical-mineral-supply-cha",
-      "publishedAt": "2025-12-06T14:00:00+00:00",
-      "date": "2025-12-06 14:00:00",
-      "importance": 3,
-      "category": "vzácné zeminy",
-      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/12/Rare-Earths-Mined-in-China.webp?fit=800%2C400&quality=75&ssl=1",
-      "url": "/tech-news/2025-12-06/claim-the-usa-securing-critical-mineral-supply-cha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wattsupwiththat.com"
       },
       "companies": [],
       "people": []
@@ -3081,26 +3173,6 @@
       "people": []
     },
     {
-      "title": "Cantor potvrzuje neutrální hodnocení Alphabetu (GOOGL) díky dlouhodobému potenciálu AI z Gemini 3",
-      "description": "Analytik Cantor Fitzgerald Deepak Mathivanan opakuje neutrální doporučení pro akcie Alphabetu s cenovým cílem 310 USD. Firma očekává dlouhodobé výhody z nasazení modelu Gemini 3 v pro vyhledávání, AI režimu a cloudu, přesto zůstává opatrná k krátkodobé valuaci.",
-      "slug": "cantor-reiterates-neutral-on-alphabet-googl-citing",
-      "publishedAt": "2025-12-06T11:07:20+00:00",
-      "date": "2025-12-06 11:07:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/u336jpvh7qzs7NIHMb0QoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
-      "url": "/tech-news/2025-12-06/cantor-reiterates-neutral-on-alphabet-googl-citing/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
       "title": "Riskantní funkce psaní zpráv v Tesle",
       "description": "Aktualizace softwaru Full Self-Driving (FSD) Supervised od Tesly umožní řidičům psát zprávy během jízdy, což vyvolalo kontroverzi. Elon Musk to oznámil na platformě X a zdůraznil, že systém stále vyžaduje dohled řidiče.",
       "slug": "teslas-risky-texting-feature",
@@ -3239,24 +3311,6 @@
         "Marvell Technology",
         "Inc"
       ],
-      "people": []
-    },
-    {
-      "title": "Čínský rozmach umělé inteligence pohání solopreneury: jednočlenné firmy vzkvétaly v náročném trhu práce",
-      "description": "Čínský boom v umělé inteligenci podporuje vznik nové generace solopreneurů, kteří své podnikatelské myšlenky realizují díky dostupným technologiím a stávají se nadějí v těžkém trhu práce.",
-      "slug": "chinas-ai-boom-fuels-solopreneurs-as-1-person-busi",
-      "publishedAt": "2025-12-06T09:30:00+00:00",
-      "date": "2025-12-06 09:30:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IBcU.6AEU3eOmZA0xIe0rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/south_china_morning_post_us_228/033b48da2c9bd043088f4e3eb394da9b",
-      "url": "/tech-news/2025-12-06/chinas-ai-boom-fuels-solopreneurs-as-1-person-busi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3524,24 +3578,6 @@
       "people": []
     },
     {
-      "title": "Čína vymyslela zcela nový způsob inovování",
-      "description": "Extrémní vertikální integrace odlišuje čínský výzkumný systém od všech ostatních. Tento přístup umožňuje rychlý přechod od základního výzkumu k komerčním produktům.",
-      "slug": "china-has-invented-a-whole-new-way-to-do-innovatio",
-      "publishedAt": "2025-12-06T05:47:01+00:00",
-      "date": "2025-12-06 05:47:01",
-      "importance": 3,
-      "category": "čínské inovace",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!sCAh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F794c8bf2-8205-432d-8114-ec54f07988e4_984x649.jpeg",
-      "url": "/tech-news/2025-12-06/china-has-invented-a-whole-new-way-to-do-innovatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Noahpinion.blog"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Evropa nevidí průliv",
       "description": "Evropské heslo 'de-risking' nic neznamená, pokud nezohledňuje bezprostřední hrozbu pro Tchaj-wan. Analýza upozorňuje na rizika v Tchajwanském průlivu pro globální dodávky polovodičů.",
       "slug": "europe-cannot-see-strait",
@@ -3734,24 +3770,6 @@
         "OpenAI",
         "Meta"
       ],
-      "people": []
-    },
-    {
-      "title": "Chamberlain zavírá dveře před integrací do chytrých domácností",
-      "description": "Společnost Chamberlain Group, která dominuje trhu s garážovými vraty v USA pod značkami Chamberlain a LiftMaster, pokračuje v omezení kompatibility svých zařízení s platformami chytrých domácností. Nová komunikační platforma Security+ 3.0 blokuje i neoficiální řešení od třetích stran.",
-      "slug": "chamberlain-closing-the-garage-door-on-smart-home-",
-      "publishedAt": "2025-12-06T00:49:44+00:00",
-      "date": "2025-12-06 00:49:44",
-      "importance": 3,
-      "category": "chytrá domácnost",
-      "urlToImage": "https://512pixels.net/wp-content/uploads/2025/04/social-2.png",
-      "url": "/tech-news/2025-12-06/chamberlain-closing-the-garage-door-on-smart-home/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "512pixels.net"
-      },
-      "companies": [],
       "people": []
     },
     {
