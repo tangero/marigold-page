@@ -43,16 +43,26 @@ include:
 # Vyloučit všechno ostatní kromě vibecoding
 exclude:
   - _posts
+  # Vyloučit všechny non-vibecoding stránky
   - _pages/404.md
   - _pages/about.md
   - _pages/ai.md
   - _pages/audio.md
+  - _pages/barvy.html
+  - _pages/categories.md
+  - _pages/changelog.html
+  - _pages/getting-started.md
+  - _pages/kategorie.md
+  - _pages/llm.md
+  - _pages/mobilni-site.md
   - _pages/mobilnisite.md
   - _pages/obraz.md
   - _pages/obrazy.md
   - _pages/projevy.md
   - _pages/search.md
+  - _pages/tech-news-archiv.html
   - _pages/tech-news-search.md
+  - _pages/tech-news.html
   - _pages/tech-news.md
   - _pages/vibecoding.md
   - _ai
@@ -87,6 +97,23 @@ exclude:
   - _layouts/post.html
   - _layouts/tech_news_day.html
   - _layouts/tech_news.html
+  # Dokumentace v rootu (vše kromě vibecoding-index.md)
+  - TECH_NEWS_*.md
+  - ONESIGNAL_*.md
+  - NOTIFICATION_*.md
+  - OG_IMAGE_*.md
+  - BRIDGY_*.md
+  - CHANGELOG.md
+  - CLAUDE.md
+  - CLOUDFLARE_*.md
+  - "404.md"
+  - _tech_news
+  - _llm
+  - tech-news-archive
+  - scripts
+  - docs
+  - health-check
+  - health-status
 
 # Jekyll nastavení
 source: .

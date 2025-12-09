@@ -75,6 +75,10 @@ collections:
   tech_news:
     output: true
     permalink: /tech-news/:year-:month-:day/:slug/
+    sort_by: date
+  llm:
+    output: true
+    permalink: /llm/:slug/
     sort_by: date      
 
 #
@@ -104,6 +108,12 @@ defaults:
       type: "tech_news"
     values:
       layout: "tech_news"
+      lang: "cs"
+  - scope:
+      path: "_llm"
+      type: "llm"
+    values:
+      layout: "llm_review"
       lang: "cs"
 
 # The release of Jekyll Now that you're using

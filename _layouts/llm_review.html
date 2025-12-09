@@ -1,0 +1,497 @@
+---
+layout: default
+---
+
+<article class="llm-review">
+  <header class="llm-header">
+    <div class="llm-meta-top">
+      <span class="provider-badge">{{ page.provider }}</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d. %m. %Y" }}</time>
+    </div>
+
+    <h1 class="llm-title">{{ page.title }}</h1>
+
+    <div class="llm-id">
+      <code>{{ page.model_id }}</code>
+    </div>
+
+    <div class="llm-tags">
+      {% for focus in page.focus %}
+        <span class="focus-tag">{{ focus }}</span>
+      {% endfor %}
+    </div>
+  </header>
+
+  <!-- Klicove metriky -->
+  <div class="llm-metrics-grid">
+    <div class="metric-card">
+      <div class="metric-icon">💰</div>
+      <div class="metric-label">Vstup</div>
+      <div class="metric-value {% if page.pricing.prompt_per_m == 0 %}free{% endif %}">
+        {% if page.pricing.prompt_per_m == 0 %}
+          Zdarma
+        {% else %}
+          ${{ page.pricing.prompt_per_m }}/1M
+        {% endif %}
+      </div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-icon">📤</div>
+      <div class="metric-label">Výstup</div>
+      <div class="metric-value {% if page.pricing.completion_per_m == 0 %}free{% endif %}">
+        {% if page.pricing.completion_per_m == 0 %}
+          Zdarma
+        {% else %}
+          ${{ page.pricing.completion_per_m }}/1M
+        {% endif %}
+      </div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-icon">📏</div>
+      <div class="metric-label">Kontext</div>
+      <div class="metric-value">{{ page.context_length }}</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-icon">📝</div>
+      <div class="metric-label">Max výstup</div>
+      <div class="metric-value">{{ page.max_output | default: "N/A" }}</div>
+    </div>
+  </div>
+
+  <!-- Modality -->
+  <div class="llm-modalities">
+    <span class="modality-label">Vstup:</span>
+    {% for mod in page.input_modalities %}
+      <span class="modality-badge input">{{ mod }}</span>
+    {% endfor %}
+    <span class="modality-arrow">→</span>
+    <span class="modality-label">Výstup:</span>
+    {% for mod in page.output_modalities %}
+      <span class="modality-badge output">{{ mod }}</span>
+    {% endfor %}
+  </div>
+
+  <!-- Hlavni obsah (analyza) -->
+  <div class="llm-content">
+    {{ content }}
+  </div>
+
+  <!-- Konkurence -->
+  {% if page.competitors %}
+  <section class="llm-competitors">
+    <h2>Srovnání s konkurencí</h2>
+    <div class="competitors-grid">
+      {% for comp in page.competitors %}
+      <div class="competitor-card">
+        <div class="competitor-header">
+          <span class="competitor-provider">{{ comp.provider }}</span>
+          <span class="competitor-model">{{ comp.model }}</span>
+        </div>
+        {% if comp.price_comparison %}
+        <div class="competitor-price">{{ comp.price_comparison }}</div>
+        {% endif %}
+        <p class="competitor-comparison">{{ comp.comparison }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- Doporuceni -->
+  {% if page.recommendation %}
+  <section class="llm-recommendation">
+    <h2>Doporučení</h2>
+    <div class="recommendation-grid">
+      <div class="rec-block target-users">
+        <h3>Cílová skupina</h3>
+        <ul>
+          {% for user in page.recommendation.target_users %}
+          <li>{{ user }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="rec-block use-cases">
+        <h3>Vhodné pro</h3>
+        <ul>
+          {% for uc in page.recommendation.use_cases %}
+          <li>{{ uc }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="rec-block avoid">
+        <h3>Nevhodné pro</h3>
+        <ul>
+          {% for av in page.recommendation.avoid_for %}
+          <li>{{ av }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- Verdikt -->
+  {% if page.verdict %}
+  <section class="llm-verdict">
+    <h2>Verdikt</h2>
+    <p class="verdict-text">{{ page.verdict }}</p>
+  </section>
+  {% endif %}
+
+  <footer class="llm-footer">
+    <div class="footer-meta">
+      <span>Analyzováno: {{ page.analyzed_at | default: page.date | date: "%d. %m. %Y" }}</span>
+      <span>Model pro analýzu: {{ page.analyzer_model | default: "Gemini 3 Pro" }}</span>
+    </div>
+    <a href="/llm/" class="back-link">← Zpět na přehled LLM modelů</a>
+  </footer>
+</article>
+
+<style>
+.llm-review {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.llm-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.llm-meta-top {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.provider-badge {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.35rem 1rem;
+  border-radius: 2rem;
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+
+.llm-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.llm-id code {
+  background: #f3f4f6;
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  color: #4b5563;
+}
+
+.llm-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.focus-tag {
+  background: #dbeafe;
+  color: #1e40af;
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+/* Metriky grid */
+.llm-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.metric-card {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  border: 1px solid #e5e7eb;
+}
+
+.metric-icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.metric-label {
+  font-size: 0.75rem;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.metric-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.metric-value.free {
+  color: #10b981;
+}
+
+/* Modality */
+.llm-modalities {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem;
+  background: #f9fafb;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.modality-label {
+  font-size: 0.875rem;
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.modality-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.modality-badge.input {
+  background: #ecfdf5;
+  color: #059669;
+}
+
+.modality-badge.output {
+  background: #fef3c7;
+  color: #d97706;
+}
+
+.modality-arrow {
+  color: #9ca3af;
+  font-size: 1.25rem;
+}
+
+/* Hlavni obsah */
+.llm-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #374151;
+  margin-bottom: 2rem;
+}
+
+.llm-content h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.llm-content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #374151;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Konkurence */
+.llm-competitors h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.competitors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.competitor-card {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1.25rem;
+  border: 1px solid #e5e7eb;
+}
+
+.competitor-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.competitor-provider {
+  font-size: 0.75rem;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.competitor-model {
+  font-weight: 600;
+  color: #111827;
+}
+
+.competitor-price {
+  font-size: 0.875rem;
+  color: #059669;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.competitor-comparison {
+  font-size: 0.9rem;
+  color: #4b5563;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Doporuceni */
+.llm-recommendation h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.recommendation-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.rec-block {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1.25rem;
+}
+
+.rec-block h3 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: #374151;
+}
+
+.rec-block ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.rec-block li {
+  font-size: 0.9rem;
+  color: #4b5563;
+  margin-bottom: 0.25rem;
+}
+
+.rec-block.use-cases {
+  border-left: 3px solid #10b981;
+}
+
+.rec-block.avoid {
+  border-left: 3px solid #ef4444;
+}
+
+.rec-block.target-users {
+  border-left: 3px solid #3b82f6;
+}
+
+/* Verdikt */
+.llm-verdict {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.llm-verdict h2 {
+  color: white;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+
+.verdict-text {
+  color: white;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin: 0;
+  font-weight: 500;
+}
+
+/* Footer */
+.llm-footer {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.footer-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.back-link {
+  color: #3b82f6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .llm-review {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+
+  .llm-title {
+    font-size: 1.5rem;
+  }
+
+  .llm-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .recommendation-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .llm-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+</style>

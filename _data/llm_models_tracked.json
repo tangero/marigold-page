@@ -1,0 +1,39 @@
+{
+  "watermark": {
+    "model_id": "essentialai/rnj-1-instruct",
+    "created_timestamp": 1765094847,
+    "updated_at": "2025-12-08T21:41:20.895528"
+  },
+  "analyzed_models": {
+    "openai/gpt-5.1-codex-max": {
+      "name": "OpenAI: GPT-5.1-Codex-Max",
+      "created_timestamp": 1764878934,
+      "analyzed_at": "2025-12-08T21:26:00",
+      "success": true
+    },
+    "deepseek/deepseek-v3.2": {
+      "name": "DeepSeek: DeepSeek V3.2",
+      "created_timestamp": 1764594642,
+      "analyzed_at": "2025-12-08T21:27:00",
+      "success": true
+    },
+    "openrouter/bodybuilder": {
+      "name": "Body Builder",
+      "created_timestamp": 1764903653,
+      "analyzed_at": "2025-12-08T21:31:58.932087",
+      "success": true
+    },
+    "essentialai/rnj-1-instruct": {
+      "name": "EssentialAI: Rnj 1 Instruct",
+      "created_timestamp": 1765094847,
+      "analyzed_at": "2025-12-08T21:41:20.895498",
+      "success": true,
+      "file_path": "/Users/patrickzandl/GitHub/marigold-page/_llm/2025-12-07-essentialai-rnj-1-instruct.md"
+    }
+  },
+  "statistics": {
+    "total_analyzed": 4,
+    "last_check": "2025-12-08T21:41:20.896070",
+    "last_new_models_found": 3
+  }
+}
