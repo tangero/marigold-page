@@ -14,7 +14,220 @@ permalink: /llm/
     </div>
   </header>
 
-  <!-- Filtry -->
+  <!-- Taby podle kategorií -->
+  <section class="llm-category-section">
+    <h2>Top modely podle kategorie</h2>
+    <div class="category-tabs">
+      <button class="cat-tab active" data-category="coding">💻 Programování</button>
+      <button class="cat-tab" data-category="science">🧮 Věda & Matematika</button>
+      <button class="cat-tab" data-category="agentic">🤖 Agenti</button>
+      <button class="cat-tab" data-category="intelligence">🧠 Inteligence</button>
+      <button class="cat-tab" data-category="speed">⚡ Rychlost</button>
+    </div>
+
+    <!-- Tabulka: Programování -->
+    <div class="cat-table-container" data-category="coding">
+      <table class="cat-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Model</th>
+            <th>Skóre</th>
+            <th>Tier</th>
+            <th>Cena</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign coding_models = site.llm | where_exp: "m", "m.benchmark_categories.coding.score" | sort: "benchmark_categories.coding.score" | reverse %}
+          {% assign best_value = 0 %}
+          {% assign best_value_model = "" %}
+          {% for m in coding_models limit: 10 %}
+            {% if m.pricing.blend_per_m > 0 %}
+              {% assign value = m.benchmark_categories.coding.score | divided_by: m.pricing.blend_per_m %}
+              {% if value > best_value %}
+                {% assign best_value = value %}
+                {% assign best_value_model = m.slug %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          {% for m in coding_models limit: 10 %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
+            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+            <td><a href="{{ m.url }}">{{ m.title }}</a></td>
+            <td><strong>{{ m.benchmark_categories.coding.score | round: 1 }}</strong></td>
+            <td><span class="tier-badge tier-{{ m.benchmark_categories.coding.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.coding.tier }}</span></td>
+            <td>${{ m.pricing.blend_per_m }}/1M</td>
+            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.coding.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Tabulka: Věda & Matematika -->
+    <div class="cat-table-container hidden" data-category="science">
+      <table class="cat-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Model</th>
+            <th>Skóre</th>
+            <th>Tier</th>
+            <th>Cena</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign science_models = site.llm | where_exp: "m", "m.benchmark_categories.science.score" | sort: "benchmark_categories.science.score" | reverse %}
+          {% assign best_value = 0 %}
+          {% assign best_value_model = "" %}
+          {% for m in science_models limit: 10 %}
+            {% if m.pricing.blend_per_m > 0 %}
+              {% assign value = m.benchmark_categories.science.score | divided_by: m.pricing.blend_per_m %}
+              {% if value > best_value %}
+                {% assign best_value = value %}
+                {% assign best_value_model = m.slug %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          {% for m in science_models limit: 10 %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
+            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+            <td><a href="{{ m.url }}">{{ m.title }}</a></td>
+            <td><strong>{{ m.benchmark_categories.science.score | round: 1 }}</strong></td>
+            <td><span class="tier-badge tier-{{ m.benchmark_categories.science.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.science.tier }}</span></td>
+            <td>${{ m.pricing.blend_per_m }}/1M</td>
+            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.science.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Tabulka: Agenti -->
+    <div class="cat-table-container hidden" data-category="agentic">
+      <table class="cat-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Model</th>
+            <th>Skóre</th>
+            <th>Tier</th>
+            <th>Cena</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign agentic_models = site.llm | where_exp: "m", "m.benchmark_categories.agentic.score" | sort: "benchmark_categories.agentic.score" | reverse %}
+          {% assign best_value = 0 %}
+          {% assign best_value_model = "" %}
+          {% for m in agentic_models limit: 10 %}
+            {% if m.pricing.blend_per_m > 0 %}
+              {% assign value = m.benchmark_categories.agentic.score | divided_by: m.pricing.blend_per_m %}
+              {% if value > best_value %}
+                {% assign best_value = value %}
+                {% assign best_value_model = m.slug %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          {% for m in agentic_models limit: 10 %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
+            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+            <td><a href="{{ m.url }}">{{ m.title }}</a></td>
+            <td><strong>{{ m.benchmark_categories.agentic.score | round: 1 }}</strong></td>
+            <td><span class="tier-badge tier-{{ m.benchmark_categories.agentic.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.agentic.tier }}</span></td>
+            <td>${{ m.pricing.blend_per_m }}/1M</td>
+            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.agentic.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Tabulka: Inteligence -->
+    <div class="cat-table-container hidden" data-category="intelligence">
+      <table class="cat-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Model</th>
+            <th>Skóre</th>
+            <th>Tier</th>
+            <th>Cena</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign intelligence_models = site.llm | where_exp: "m", "m.benchmark_categories.intelligence.score" | sort: "benchmark_categories.intelligence.score" | reverse %}
+          {% assign best_value = 0 %}
+          {% assign best_value_model = "" %}
+          {% for m in intelligence_models limit: 10 %}
+            {% if m.pricing.blend_per_m > 0 %}
+              {% assign value = m.benchmark_categories.intelligence.score | divided_by: m.pricing.blend_per_m %}
+              {% if value > best_value %}
+                {% assign best_value = value %}
+                {% assign best_value_model = m.slug %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          {% for m in intelligence_models limit: 10 %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
+            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+            <td><a href="{{ m.url }}">{{ m.title }}</a></td>
+            <td><strong>{{ m.benchmark_categories.intelligence.score | round: 1 }}</strong></td>
+            <td><span class="tier-badge tier-{{ m.benchmark_categories.intelligence.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.intelligence.tier }}</span></td>
+            <td>${{ m.pricing.blend_per_m }}/1M</td>
+            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.intelligence.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Tabulka: Rychlost -->
+    <div class="cat-table-container hidden" data-category="speed">
+      <table class="cat-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Model</th>
+            <th>Skóre</th>
+            <th>Tier</th>
+            <th>Cena</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign speed_models = site.llm | where_exp: "m", "m.benchmark_categories.speed.score" | sort: "benchmark_categories.speed.score" | reverse %}
+          {% assign best_value = 0 %}
+          {% assign best_value_model = "" %}
+          {% for m in speed_models limit: 10 %}
+            {% if m.pricing.blend_per_m > 0 %}
+              {% assign value = m.benchmark_categories.speed.score | divided_by: m.pricing.blend_per_m %}
+              {% if value > best_value %}
+                {% assign best_value = value %}
+                {% assign best_value_model = m.slug %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          {% for m in speed_models limit: 10 %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
+            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+            <td><a href="{{ m.url }}">{{ m.title }}</a></td>
+            <td><strong>{{ m.benchmark_categories.speed.score | round: 1 }}</strong></td>
+            <td><span class="tier-badge tier-{{ m.benchmark_categories.speed.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.speed.tier }}</span></td>
+            <td>${{ m.pricing.blend_per_m }}/1M</td>
+            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.speed.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Filtry podle providera -->
+  <h2 class="all-models-header">Všechny modely</h2>
   <div class="llm-filters">
     <button class="filter-btn active" data-filter="all">Všechny</button>
     <button class="filter-btn" data-filter="anthropic">Anthropic</button>
@@ -112,6 +325,130 @@ permalink: /llm/
 .stat-divider {
   color: #d1d5db;
 }
+
+/* Kategorie sekce */
+.llm-category-section {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.llm-category-section h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.all-models-header {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+/* Taby kategorií */
+.category-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.cat-tab {
+  padding: 0.6rem 1.2rem;
+  border: 2px solid #e5e7eb;
+  background: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.cat-tab:hover {
+  border-color: #3b82f6;
+  color: #3b82f6;
+}
+
+.cat-tab.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-color: transparent;
+}
+
+/* Tabulky kategorií */
+.cat-table-container {
+  overflow-x: auto;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.cat-table-container.hidden {
+  display: none;
+}
+
+.cat-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.cat-table th {
+  background: #f9fafb;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: #374151;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.cat-table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.cat-table tr:hover {
+  background: #f9fafb;
+}
+
+.cat-table tr.top-score {
+  background: linear-gradient(90deg, #ecfdf5 0%, white 100%);
+}
+
+.cat-table tr.best-value {
+  background: linear-gradient(90deg, #fef3c7 0%, white 100%);
+}
+
+.cat-table a {
+  color: #3b82f6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cat-table a:hover {
+  text-decoration: underline;
+}
+
+/* Tier badge v tabulce */
+.tier-badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: white;
+}
+
+.tier-badge.tier-excelentní { background: #10b981; }
+.tier-badge.tier-výborný { background: #3b82f6; }
+.tier-badge.tier-dobrý { background: #f59e0b; }
+.tier-badge.tier-průměrný { background: #6b7280; }
+.tier-badge.tier-slabý { background: #ef4444; }
 
 /* Filtry */
 .llm-filters {
@@ -302,6 +639,7 @@ permalink: /llm/
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // Provider filter
   const filterBtns = document.querySelectorAll('.filter-btn');
   const cards = document.querySelectorAll('.llm-card');
 
@@ -319,6 +657,29 @@ document.addEventListener('DOMContentLoaded', function() {
           card.classList.remove('hidden');
         } else {
           card.classList.add('hidden');
+        }
+      });
+    });
+  });
+
+  // Category tabs
+  const catTabs = document.querySelectorAll('.cat-tab');
+  const catTables = document.querySelectorAll('.cat-table-container');
+
+  catTabs.forEach(tab => {
+    tab.addEventListener('click', function() {
+      const category = this.dataset.category;
+
+      // Update active tab
+      catTabs.forEach(t => t.classList.remove('active'));
+      this.classList.add('active');
+
+      // Show corresponding table
+      catTables.forEach(table => {
+        if (table.dataset.category === category) {
+          table.classList.remove('hidden');
+        } else {
+          table.classList.add('hidden');
         }
       });
     });
