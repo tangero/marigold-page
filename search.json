@@ -27433,7 +27433,7 @@
       "title"    : "Přehled LLM modelů",
       "url"      : "/llm/",
       "category" : "stránka",
-      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 13 modelů | Aktualizováno denně Všechny Anthropic OpenAI Google xAI DeepSeek Mistral Relace 08. 12. 2025 Relace: Relace Search Codebase Search Agentic Reasoning Retrieval Relace Search je vysoce specializovaný nástroj pro inženýrské týmy, které narazily na limity tradičního RAGu v kódových bázích a potřebují přesnějš... $1.0/1M - Detail modelu → → $3.0/1M - Detail modelu → Z-Ai 08. 12. 2025 Z.AI: GLM 4.6V Vizuální porozumění s vysokou věrností Generování kódu z vizuálních vstupů (UI-to-Code) Multimodální volání funkcí GLM 4.6V je technicky zdatný model pro vizuálně orientované úlohy a..."
+      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 80 modelů | Aktualizováno denně Všechny Anthropic OpenAI Google xAI DeepSeek Mistral Relace 08. 12. 2025 Relace: Relace Search Codebase Search Agentic Reasoning Retrieval Relace Search je vysoce specializovaný nástroj pro inženýrské týmy, které narazily na limity tradičního RAGu v kódových bázích a potřebují přesnějš... $1.0/1M - Detail modelu → → $3.0/1M - Detail modelu → Z-Ai 08. 12. 2025 Z.AI: GLM 4.6V Vizuální porozumění s vysokou věrností Generování kódu z vizuálních vstupů (UI-to-Code) Multimodální volání funkcí GLM 4.6V je technicky zdatný model pro vizuálně orientované úlohy a..."
     }
     
   
@@ -28243,73 +28243,542 @@
     
       
       ,{
-        "title"    : "DeepSeek: R1 Distill Llama 70B",
-        "url"      : "/llm/deepseek-deepseek-r1-distill-llama-70b/",
-        "category" : "llm",
-        "content"  : "DeepSeek R1 Distill Llama 70B je destilovaný velký jazykový model založený na Llama-3.3-70B-Instruct, využívající výstupy z DeepSeek R1. Model kombinuje pokročilé destilační techniky k dosažení vysokého výkonu v několika benchmarkách, včetně: AIME 2024 pass@1: 70.0 MATH-500 pass@1: 94.5 CodeForces Rating: 1633Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími hraničními modely.Unikátní charakteristikyDeepSeek R1 Distill Llama 70B je destilovaný model, který dosahuje vysokých skóre v matematických úlohách (MATH-500: 93.5%, AIME 2025: 67.0%). Jeho kódovací schopnosti jsou průměrné (LiveCodeBench: 26.6%).Silné stránkyMatematikaVysoké skóre v matematických benchmarcích, jako MATH-500 (93.5%) a AIME 2025 (67.0%), naznačuje silné schopnosti v řešení..."
-      }
-      
-      ,{
-        "title"    : "DeepSeek: R1 Distill Qwen 14B",
-        "url"      : "/llm/deepseek-deepseek-r1-distill-qwen-14b/",
-        "category" : "llm",
-        "content"  : "DeepSeek R1 Distill Qwen 14B je destilovaný velký jazykový model založený na Qwen 2.5 14B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků (state-of-the-art) pro husté modely.Další výsledky benchmarků zahrnují: AIME 2024 pass@1: 69.7 MATH-500 pass@1: 93.9 CodeForces Rating: 1481Model využívá jemné doladění (fine-tuning) z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely (frontier models).Unikátní charakteristikyDeepSeek R1 Distill Qwen 14B je destilovaný model, který dosahuje vysokých skóre v matematických úlohách (MATH-500: 94.9%, AIME 2025: 66.7%). Vyniká v porovnání s jinými modely stejné velikosti, ale jeho rychlost je..."
-      }
-      
-      ,{
-        "title"    : "DeepSeek: R1 Distill Qwen 32B",
-        "url"      : "/llm/deepseek-deepseek-r1-distill-qwen-32b/",
-        "category" : "llm",
-        "content"  : "DeepSeek R1 Distill Qwen 32B je destilovaný velký jazykový model založený na Qwen 2.5 32B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků pro husté modely.Další výsledky benchmarků zahrnují: AIME 2024 pass@1: 72.6 MATH-500 pass@1: 94.3 CodeForces Rating: 1691Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely.Unikátní charakteristikyDeepSeek R1 Distill Qwen 32B je destilovaný model, který dosahuje vysokých skóre v matematických benchmarcích (MATH-500: 94.1%, AIME 2025: 68.7%). Vyniká v náročných matematických úlohách, ale má slabší výsledky v logickém uvažování a programování.Silné stránkyMatematikaVysoké skóre v..."
-      }
-      
-      ,{
         "title"    : "Mistral: Mistral Small 3",
         "url"      : "/llm/mistralai-mistral-small-24b-instruct-2501/",
         "category" : "llm",
-        "content"  : "Mistral Small 3 je jazykový model s 24 miliardami parametrů optimalizovaný pro nízkou latenci při běžných úlohách umělé inteligence. Je vydán pod licencí Apache 2.0 a nabízí jak předtrénovanou, tak i instrukčně doladěnou verzi, navržené pro efektivní lokální nasazení.Model dosahuje 81% přesnosti v benchmarku MMLU a výkonem konkuruje větším modelům, jako jsou Llama 3.3 70B a Qwen 32B, přičemž na ekvivalentním hardwaru pracuje třikrát rychleji. Přečtěte si blogový příspěvek o modelu zde.Unikátní charakteristikyMistral Small 3 je optimalizován pro nízkou latenci a rychlou inferenci. Dosahuje konkurenceschopných výsledků v MMLU benchmarku a nabízí velký kontext 32,768 tokenů. Jeho rychlost je 3x vyšší..."
+        "content"  : "Mistral Small 3 je jazykový model s 24 miliardami parametrů optimalizovaný pro nízkou latenci při běžných úlohách umělé inteligence. Je vydán pod licencí Apache 2.0 a nabízí předtrénované i instrukčně doladěné verze navržené pro efektivní lokální nasazení.Model dosahuje 81% přesnosti v benchmarku MMLU a výkonnostně konkuruje větším modelům, jako jsou Llama 3.3 70B a Qwen 32B, přičemž na ekvivalentním hardwaru pracuje třikrát rychleji. Přečtěte si blogový příspěvek o modelu zde.Unikátní charakteristikyMistral Small 3 je optimalizován pro nízkou latenci a dosahuje konkurenceschopných výsledků s většími modely, jako je Llama 3 70B, ale s trojnásobnou rychlostí na stejném hardwaru. Dosahuje 81% přesnosti..."
       }
       
       ,{
         "title"    : "OpenAI: o3 Mini",
         "url"      : "/llm/openai-o3-mini/",
         "category" : "llm",
-        "content"  : "OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM uvažování, obzvláště vynikající ve vědě, matematice a kódování.Tento model podporuje parametr reasoning_effort, který lze nastavit na “high”, “medium” nebo “low” pro řízení doby přemýšlení modelu. Výchozí hodnota je “medium”. OpenRouter také nabízí model slug openai/o3-mini-high pro nastavení parametru na “high” jako výchozí.Model nabízí tři nastavitelné úrovně úsilí uvažování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, i když nezahrnuje možnosti zpracování obrazu.Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u..."
+        "content"  : "OpenAI o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM uvažování, obzvláště vynikající ve vědě, matematice a programování.Tento model podporuje parametr reasoning_effort, který lze nastavit na “high”, “medium” nebo “low” pro řízení doby přemýšlení modelu. Výchozí hodnota je “medium”. OpenRouter také nabízí model slug openai/o3-mini-high pro nastavení parametru na “high” jako výchozí.Model nabízí tři nastavitelné úrovně úsilí uvažování a podporuje klíčové vývojářské schopnosti včetně volání funkcí, strukturovaných výstupů a streamování, i když nezahrnuje schopnosti zpracování obrazu.Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u..."
       }
       
       ,{
         "title"    : "Google: Gemini 2.0 Flash",
         "url"      : "/llm/google-gemini-2-0-flash-001/",
         "category" : "llm",
-        "content"  : "Gemini Flash 2.0 nabízí výrazně kratší dobu do prvního tokenu (TTFT) ve srovnání s Gemini Flash 1.5, přičemž si zachovává kvalitu srovnatelnou s většími modely, jako je Gemini Pro 1.5. Přináší významná vylepšení v multimodálním porozumění, schopnostech kódování, plnění komplexních instrukcí a volání funkcí. Tyto pokroky společně přinášejí plynulejší a robustnější agentní zážitky.Unikátní charakteristikyGemini Flash 2.0 nabízí výrazně rychlejší čas do prvního tokenu (TTFT) a zachovává kvalitu srovnatelnou s většími modely. Vylepšení v multimodálním porozumění, kódování a komplexním sledování instrukcí z něj dělají robustní model pro agentní aplikace.Silné stránkyRychlostModel vyniká rychlostí, s TTFT pouhých 0.371s a TPS 179.3, což ho..."
+        "content"  : "Gemini Flash 2.0 nabízí výrazně kratší dobu do prvního tokenu (TTFT) ve srovnání s Gemini Flash 1.5, přičemž si zachovává kvalitu srovnatelnou s většími modely, jako je Gemini Pro 1.5. Přináší významná vylepšení v multimodálním porozumění, schopnostech kódování, plnění komplexních instrukcí a volání funkcí. Tyto pokroky společně přinášejí plynulejší a robustnější agentní zážitky.Unikátní charakteristikyGemini Flash 2.0 se vyznačuje výrazně rychlejším časem do prvního tokenu (TTFT) a zachovává si kvalitu srovnatelnou s většími modely. Vylepšení v multimodálním porozumění, schopnostech kódování a komplexním sledování instrukcí ho činí vhodným pro agentní aplikace.Silné stránkyRychlostVynikající rychlost s TTFT 0.371s a TPS 179.3 tokenů/s, což je..."
       }
       
       ,{
         "title"    : "OpenAI: o3 Mini High",
         "url"      : "/llm/openai-o3-mini-high/",
         "category" : "llm",
-        "content"  : "OpenAI o3-mini-high je stejný model jako o3-mini s nastaveným parametrem reasoning_effort na hodnotu high.o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM usuzování, obzvláště vyniká ve vědě, matematice a kódování. Model nabízí tři nastavitelné úrovně úsilí usuzování a podporuje klíčové vývojářské funkce, včetně volání funkcí, strukturovaných výstupů a streamování, avšak nezahrnuje schopnosti zpracování obrazu.Model vykazuje významná zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u složitých otázek. S nastavením středního úsilí usuzování dosahuje o3-mini výkonu většího modelu o1 v náročných hodnoceních usuzování, jako jsou AIME a GPQA,..."
+        "content"  : "OpenAI o3-mini-high je stejný model jako o3-mini s nastaveným parametrem reasoning_effort na hodnotu high (vysoká).o3-mini je nákladově efektivní jazykový model optimalizovaný pro úlohy STEM usuzování, obzvláště vyniká ve vědě, matematice a kódování. Model nabízí tři nastavitelné úrovně úsilí usuzování (reasoning effort) a podporuje klíčové vývojářské funkce, včetně volání funkcí (function calling), strukturovaných výstupů a streamování, nicméně nezahrnuje schopnosti zpracování obrazu (vision processing capabilities).Model vykazuje významné zlepšení oproti svému předchůdci, přičemž odborní testeři preferovali jeho odpovědi v 56 % případů a zaznamenali 39% snížení závažných chyb u složitých otázek. S nastavením středního úsilí usuzování (medium reasoning effort), o3-mini dosahuje výkonu většího..."
       }
       
       ,{
         "title"    : "Llama Guard 3 8B",
         "url"      : "/llm/meta-llama-llama-guard-3-8b/",
         "category" : "llm",
-        "content"  : "Llama Guard 3 je předtrénovaný model Llama-3.1-8B, doladěný pro klasifikaci bezpečnosti obsahu. Podobně jako předchozí verze, může být použit ke klasifikaci obsahu jak ve vstupech LLM (klasifikace promptů), tak v odpovědích LLM (klasifikace odpovědí). Funguje jako LLM – generuje text ve svém výstupu, který indikuje, zda je daný prompt nebo odpověď bezpečný nebo nebezpečný, a pokud je nebezpečný, také vypíše kategorie obsahu, které byly porušeny.Llama Guard 3 byl sladěn tak, aby chránil proti standardizované taxonomii rizik MLCommons a byl navržen tak, aby podporoval schopnosti Llama 3.1. Konkrétně poskytuje moderování obsahu v 8 jazycích a byl optimalizován pro podporu bezpečnosti a..."
+        "content"  : "Llama Guard 3 je předtrénovaný model Llama-3.1-8B, doladěný pro klasifikaci bezpečnosti obsahu. Podobně jako předchozí verze, může být použit ke klasifikaci obsahu jak ve vstupech LLM (klasifikace promptu), tak v odpovědích LLM (klasifikace odpovědi). Funguje jako LLM – generuje text ve svém výstupu, který indikuje, zda je daný prompt nebo odpověď bezpečný nebo nebezpečný, a pokud je nebezpečný, také vypisuje kategorie obsahu, které byly porušeny.Llama Guard 3 byl sladěn tak, aby chránil proti standardizované taxonomii rizik MLCommons a byl navržen tak, aby podporoval schopnosti Llama 3.1. Konkrétně poskytuje moderování obsahu v 8 jazycích a byl optimalizován pro podporu bezpečnosti a..."
       }
       
       ,{
         "title"    : "Mistral: Saba",
         "url"      : "/llm/mistralai-mistral-saba/",
         "category" : "llm",
-        "content"  : "Mistral Saba je jazykový model s 24 miliardami parametrů, speciálně navržený pro Blízký východ a jižní Asii, který poskytuje přesné a kontextuálně relevantní odpovědi při zachování efektivního výkonu. Byl trénován na vybraných regionálních datasetech a podporuje několik jazyků indického původu – včetně tamilštiny a malajálamštiny – vedle arabštiny. Díky tomu je univerzální volbou pro širokou škálu regionálních a vícejazyčných aplikací. Více informací naleznete v blogovém příspěvku zde.Unikátní charakteristikyMistral Saba je jazykový model s 24 miliardami parametrů, optimalizovaný pro Střední Východ a Jižní Asii. Podporuje několik jazyků indického původu a arabštinu, což ho činí vhodným pro regionální a multilingvální aplikace. Jeho..."
+        "content"  : "Mistral Saba je jazykový model s 24 miliardami parametrů, speciálně navržený pro Blízký východ a jižní Asii, který poskytuje přesné a kontextuálně relevantní odpovědi při zachování efektivního výkonu. Byl trénován na vybraných regionálních datasetech a podporuje několik jazyků indického původu – včetně tamilštiny a malajálamštiny – spolu s arabštinou. Díky tomu je univerzální volbou pro širokou škálu regionálních a vícejazyčných aplikací. Více informací naleznete v blogovém příspěvku zde.Unikátní charakteristikyMistral Saba je navržen pro Střední Východ a Jižní Asii, s důrazem na regionální jazyky. Jeho výkon v matematických úlohách je průměrný (MATH-500: 67.7%), ale v náročnějších úlohách (AIME 2025: 13.0%) zaostává.Silné..."
       }
       
       ,{
         "title"    : "Anthropic: Claude 3.7 Sonnet (thinking)",
         "url"      : "/llm/anthropic-claude-3-7-sonnet-thinking/",
         "category" : "llm",
-        "content"  : "Claude 3.7 Sonnet je pokročilý velký jazykový model s vylepšenými schopnostmi usuzování, kódování a řešení problémů. Zavádí hybridní přístup k usuzování, který uživatelům umožňuje volit mezi rychlými odpověďmi a rozšířeným, krok-za-krokem zpracováním pro složité úlohy. Model vykazuje pozoruhodná zlepšení v kódování, zejména ve front-end vývoji a full-stack aktualizacích, a vyniká v agentních pracovních postupech, kde dokáže autonomně procházet vícestupňovými procesy.Claude 3.7 Sonnet si udržuje výkonnostní paritu se svým předchůdcem ve standardním režimu a zároveň nabízí rozšířený režim usuzování pro zvýšenou přesnost v matematických, kódovacích a úlohách vyžadujících dodržování instrukcí.Unikátní charakteristikyClaude 3.7 Sonnet nabízí hybridní přístup k rozumování, umožňující volbu mezi..."
+        "content"  : "Claude 3.7 Sonnet je pokročilý velký jazykový model s vylepšenými schopnostmi usuzování, kódování a řešení problémů. Zavádí hybridní přístup k usuzování, který uživatelům umožňuje volit mezi rychlými odpověďmi a rozšířeným, krok-za-krokem zpracováním pro složité úkoly. Model vykazuje pozoruhodné zlepšení v kódování, zejména ve front-end vývoji a full-stack aktualizacích, a vyniká v agentních pracovních postupech, kde dokáže autonomně procházet vícestupňovými procesy.Claude 3.7 Sonnet si udržuje výkonnostní paritu se svým předchůdcem ve standardním režimu a zároveň nabízí rozšířený režim usuzování pro zvýšenou přesnost v matematických, kódovacích úlohách a úlohách vyžadujících dodržování instrukcí.Unikátní charakteristikyClaude 3.7 Sonnet nabízí hybridní přístup k rozumování, umožňující volbu..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.0 Flash Lite",
+        "url"      : "/llm/google-gemini-2-0-flash-lite-001/",
+        "category" : "llm",
+        "content"  : "Gemini 2.0 Flash Lite nabízí výrazně kratší dobu do prvního tokenu (TTFT) ve srovnání s Gemini Flash 1.5, přičemž si zachovává kvalitu srovnatelnou s většími modely, jako je Gemini Pro 1.5, a to vše za extrémně ekonomické ceny tokenů.Unikátní charakteristikyGemini 2.0 Flash Lite se zaměřuje na rychlou odezvu (TTFT) a nízkou cenu. Podle popisu si udržuje kvalitu srovnatelnou s většími modely Gemini Pro 1.5, ale benchmark data pro ověření nejsou k dispozici.Silné stránkyCenaExtrémně nízká cena za token ve srovnání s konkurencí.RychlostRychlý time to first token (TTFT), ideální pro aplikace vyžadující okamžitou odezvu.KontextVelký kontext 1,048,576 tokenů umožňuje zpracování rozsáhlých dokumentů a..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemma 3 27B",
+        "url"      : "/llm/google-gemma-3-27b-it/",
+        "category" : "llm",
+        "content"  : "Gemma 3 zavádí multimodalitu, podporuje vstup v podobě obrazu a jazyka a textové výstupy. Zvládá kontextová okna až do velikosti 128 tisíc tokenů, rozumí více než 140 jazykům a nabízí vylepšené matematické, logické a chatovací schopnosti, včetně strukturovaných výstupů a volání funkcí. Gemma 3 27B je nejnovější open source model od Googlu, nástupce Gemma 2.Unikátní charakteristikyGemma 3 27B je multimodální model s podporou obrazového vstupu a textového výstupu. Zvládá kontextové okno až 128k tokenů a rozumí více než 140 jazykům. Benchmark data nejsou k dispozici, takže nelze objektivně posoudit jeho výkon v porovnání s konkurencí.Silné stránkyMultimodalitaPodpora obrazového vstupu rozšiřuje možnosti..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemma 3 12B",
+        "url"      : "/llm/google-gemma-3-12b-it/",
+        "category" : "llm",
+        "content"  : "Gemma 3 přináší multimodalitu, podporuje vstup v podobě obrazu a jazyka a textové výstupy. Zvládá kontextová okna až do velikosti 128 tisíc tokenů, rozumí více než 140 jazykům a nabízí vylepšené matematické, logické a chatovací schopnosti, včetně strukturovaných výstupů a volání funkcí. Gemma 3 12B je druhý největší model z rodiny modelů Gemma 3 po Gemma 3 27B.Unikátní charakteristikyGemma 3 12B je multimodální model s podporou obrazových vstupů a textových výstupů. Nabízí kontextové okno až 128k tokenů a rozumí více než 140 jazykům. Data z benchmarků nejsou k dispozici.Silné stránkyMultimodalitaPodpora obrazových vstupů rozšiřuje možnosti použití modelu.Dlouhý kontextKontextové okno 128k tokenů..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemma 3 4B",
+        "url"      : "/llm/google-gemma-3-4b-it/",
+        "category" : "llm",
+        "content"  : "Gemma 3 zavádí multimodalitu, podporuje vstup obrazu a jazyka a textové výstupy. Zvládá kontextová okna až do 128 tisíc tokenů, rozumí více než 140 jazykům a nabízí vylepšené matematické, logické a chatovací schopnosti, včetně strukturovaných výstupů a volání funkcí.Unikátní charakteristikyGemma 3 4B je multimodalní model, který podporuje zpracování obrazových vstupů a generování textových výstupů. Má rozšířené kontextové okno až na 128 tisíc tokenů a rozumí více než 140 jazykům. Nabízí vylepšené matematické, logické a chatovací schopnosti, včetně strukturovaných výstupů a volání funkcí. Benchmark data nejsou k dispozici.Silné stránkyMultimodalitaPodporuje zpracování obrazových vstupů a generování textových výstupů, což rozšiřuje možnosti použití.Dlouhý kontextKontextové..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Mistral Small 3.1 24B",
+        "url"      : "/llm/mistralai-mistral-small-3-1-24b-instruct/",
+        "category" : "llm",
+        "content"  : "Mistral Small 3.1 24B Instruct je vylepšená varianta modelu Mistral Small 3 (2501), která disponuje 24 miliardami parametrů a pokročilými multimodálními schopnostmi. Poskytuje špičkový výkon v úlohách založených na textovém usuzování a vizuálních úlohách, včetně analýzy obrazu, programování, matematického usuzování a vícejazyčné podpory v desítkách jazyků. Je vybaven rozsáhlým kontextovým oknem o velikosti 128k tokenů a optimalizován pro efektivní lokální inferenci, podporuje případy použití jako konverzační agenti, volání funkcí, porozumění dlouhým dokumentům a nasazení citlivá na soukromí. Aktualizovaná verze je Mistral Small 3.2Unikátní charakteristikyMistral Small 3.1 24B Instruct je multimodální model s velkým kontextovým oknem. Absence benchmark dat znemožňuje přesné..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o1-pro",
+        "url"      : "/llm/openai-o1-pro/",
+        "category" : "llm",
+        "content"  : "Modely řady o1 jsou trénovány pomocí posilovaného učení, aby přemýšlely před odpovědí a prováděly komplexní usuzování. Model o1-pro využívá více výpočetního výkonu k intenzivnějšímu přemýšlení a poskytuje konzistentně lepší odpovědi.Unikátní charakteristikyModel o1-pro se zaměřuje na komplexní rozumování a dosahuje lepších výsledků díky většímu výpočetnímu výkonu. Jeho síla spočívá v reinforcement learningu, který mu umožňuje lépe promýšlet odpovědi. AI Intelligence Index je 48.0%.Silné stránkyRozumováníModel je trénován s důrazem na komplexní rozumování, což by mělo vést k lepším výsledkům v úlohách vyžadujících hlubší analýzu.Dlouhý kontextKontext 200 000 tokenů umožňuje zpracovávat rozsáhlé dokumenty a vést delší konverzace.Slabé stránkyCenaVysoká cena za vstup a výstup..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek V3 0324",
+        "url"      : "/llm/deepseek-deepseek-chat-v3-0324/",
+        "category" : "llm",
+        "content"  : "DeepSeek V3, model s 685 miliardami parametrů, využívající architekturu mixture-of-experts, je nejnovější iterací vlajkové lodi rodiny chatovacích modelů od týmu DeepSeek.Navazuje na model DeepSeek V3 a dosahuje velmi dobrých výsledků v široké škále úloh.Unikátní charakteristikyDeepSeek V3 je nejnovější iterací chatovacího modelu od DeepSeek. Model je založen na architektuře Mixture-of-Experts (MoE) a má 685 miliard parametrů. Benchmark data nejsou k dispozici, takže nelze objektivně posoudit jeho výkon.Silné stránkyCenaRelativně nízká cena za vstupní tokeny ($0.15/1M) ve srovnání s některými konkurenty.KontextKontext 8,192 tokenů umožňuje zpracování delších vstupů a generování obsáhlejších výstupů.Slabé stránkyBenchmark dataChybějící benchmark data znemožňují objektivní srovnání s konkurencí a určení silných..."
+      }
+      
+      ,{
+        "title"    : "Meta: Llama 4 Scout",
+        "url"      : "/llm/meta-llama-llama-4-scout/",
+        "category" : "llm",
+        "content"  : "Llama 4 Scout 17B Instruct (16E) je jazykový model typu mixture-of-experts (MoE) vyvinutý společností Meta, který aktivuje 17 miliard parametrů z celkového počtu 109 miliard. Podporuje nativní multimodální vstup (text a obrázek) a multijazyčný výstup (text a kód) ve 12 podporovaných jazycích. Scout, navržený pro interakci ve stylu asistenta a vizuální usuzování, používá 16 expertů na jeden forward pass a disponuje kontextovou délkou 10 milionů tokenů, s trénovacím korpusem o velikosti ~40 bilionů tokenů.Llama 4 Scout, vytvořený pro vysokou efektivitu a lokální nebo komerční nasazení, zahrnuje early fusion pro bezproblémovou integraci modalit. Je instruction-tuned pro použití v multijazyčném chatu, vytváření..."
+      }
+      
+      ,{
+        "title"    : "Meta: Llama 4 Maverick",
+        "url"      : "/llm/meta-llama-llama-4-maverick/",
+        "category" : "llm",
+        "content"  : "Llama 4 Maverick 17B Instruct (128E) je velkokapacitní multimodální jazykový model od společnosti Meta, postavený na architektuře mixture-of-experts (MoE) se 128 experty a 17 miliardami aktivních parametrů na jeden průchod dopřednou sítí (celkem 400B). Podporuje multijazyčný textový a obrazový vstup a produkuje multijazyčný textový a kódový výstup ve 12 podporovaných jazycích. Maverick, optimalizovaný pro úlohy vidění a jazyka, je doladěn pomocí instrukcí pro chování podobné asistentovi, obrazové usuzování a všeobecnou multimodální interakci.Maverick využívá ranou fúzi pro nativní multimodalitu a kontextové okno o velikosti 1 milionu tokenů. Byl trénován na kurátorské směsi veřejných, licencovaných a Meta-platform dat, pokrývající ~22 bilionů tokenů,..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-4.1 Nano",
+        "url"      : "/llm/openai-gpt-4-1-nano/",
+        "category" : "llm",
+        "content"  : "Pro úlohy, které vyžadují nízkou latenci, je GPT-4.1 nano nejrychlejší a nejlevnější model v sérii GPT-4.1. Poskytuje výjimečný výkon v malém provedení s kontextovým oknem o velikosti 1 milionu tokenů a dosahuje skóre 80,1 % na MMLU, 50,3 % na GPQA a 9,8 % na Aider polyglot coding – dokonce vyšší než GPT-4o mini. Je ideální pro úlohy jako je klasifikace nebo automatické doplňování.Unikátní charakteristikyGPT-4.1 Nano je nejrychlejší a nejlevnější model v sérii GPT-4.1, optimalizovaný pro úlohy s nízkou latencí. Dosahuje vysoké přesnosti s malou velikostí a kontextovým oknem 1 milion tokenů. Skóre 80.1% na MMLU, 50.3% na GPQA a..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-4.1 Mini",
+        "url"      : "/llm/openai-gpt-4-1-mini/",
+        "category" : "llm",
+        "content"  : "GPT-4.1 Mini je model střední velikosti, který poskytuje výkon srovnatelný s GPT-4o při podstatně nižší latenci a ceně. Zachovává si kontextové okno o velikosti 1 milionu tokenů a dosahuje skóre 45,1 % v náročných evaluačních testech instrukcí, 35,8 % v MultiChallenge a 84,1 % v IFEval. Mini také vykazuje silné schopnosti v oblasti kódování (např. 31,6 % v polyglotním diff benchmarku Aideru) a porozumění obrazu, díky čemuž je vhodný pro interaktivní aplikace s přísnými výkonnostními omezeními.Unikátní charakteristikyGPT-4.1 Mini nabízí výkon srovnatelný s GPT-4o za nižší latenci a cenu. Dosahuje 45.1% na hard instruction evals, 35.8% na MultiChallenge a 84.1% na..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-4.1",
+        "url"      : "/llm/openai-gpt-4-1/",
+        "category" : "llm",
+        "content"  : "GPT-4.1 je vlajková loď velkého jazykového modelu optimalizovaná pro pokročilé sledování instrukcí, softwarové inženýrství v reálném světě a usuzování v dlouhém kontextu. Podporuje kontextové okno o velikosti 1 milionu tokenů a překonává GPT-4o a GPT-4.5 v kódování (54,6 % SWE-bench Verified), dodržování instrukcí (87,4 % IFEval) a multimodálních benchmarkách porozumění. Je vyladěn pro přesné rozdíly v kódu (code diffs), spolehlivost agentů a vysokou míru vybavení informací ve velkých kontextech dokumentů, což jej činí ideálním pro agenty, nástroje IDE a podnikovou extrakci znalostí.Unikátní charakteristikyGPT-4.1 je optimalizován pro náročné úlohy vyžadující dlouhý kontext a přesné dodržování instrukcí. Podle OpenAI překonává GPT-4o a..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o4 Mini",
+        "url"      : "/llm/openai-o4-mini/",
+        "category" : "llm",
+        "content"  : "OpenAI o4-mini je kompaktní model pro usuzování v o-sérii, optimalizovaný pro rychlý a nákladově efektivní výkon při zachování silných multimodálních a agentních schopností. Podporuje používání nástrojů a vykazuje konkurenceschopný výkon v usuzování a kódování v benchmarkách jako AIME (99,5 % s Pythonem) a SWE-bench, překonává svého předchůdce o3-mini a v některých oblastech se dokonce blíží o3.Navzdory své menší velikosti vykazuje o4-mini vysokou přesnost v úlohách STEM, vizuálním řešení problémů (např. MathVista, MMMU) a úpravách kódu. Je obzvláště vhodný pro scénáře s vysokou propustností, kde je latence nebo cena kritická. Díky své efektivní architektuře a vylepšenému tréninku pomocí posilování se o4-mini..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o3",
+        "url"      : "/llm/openai-o3/",
+        "category" : "llm",
+        "content"  : "o3 je všestranný a výkonný model napříč doménami. Nastavuje nový standard pro matematické, vědecké, programátorské a vizuálně-logické úlohy. Vyniká také v technickém psaní a dodržování instrukcí. Použijte jej k promýšlení vícestupňových problémů, které zahrnují analýzu napříč textem, kódem a obrázky.Unikátní charakteristikyo3 vyniká v matematice, vědě a programování, což dokazují vysoké skóre v benchmarkách MATH-500 (99.2%), GPQA Diamond (82.7%) a LiveCodeBench (80.8%). Model je navržen pro řešení komplexních problémů vyžadujících analýzu textu, kódu a obrázků.Silné stránkyMatematika a vědaVynikající výkon v matematických a vědeckých úlohách, s vysokým skóre v benchmarkách MATH-500 (99.2%) a GPQA Diamond (82.7%).ProgramováníSilný v programování, což dokazuje skóre 80.8%..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o4 Mini High",
+        "url"      : "/llm/openai-o4-mini-high/",
+        "category" : "llm",
+        "content"  : "OpenAI o4-mini-high je stejný model jako o4-mini s nastaveným parametrem reasoning_effort na hodnotu high.OpenAI o4-mini je kompaktní model pro usuzování v o-sérii, optimalizovaný pro rychlý a nákladově efektivní výkon při zachování silných multimodálních a agentních schopností. Podporuje používání nástrojů a vykazuje konkurenceschopný výkon v usuzování a kódování v benchmarkách jako AIME (99,5 % s Pythonem) a SWE-bench, překonává svého předchůdce o3-mini a v některých oblastech se dokonce blíží o3.Navzdory své menší velikosti vykazuje o4-mini vysokou přesnost v úlohách STEM, vizuálním řešení problémů (např. MathVista, MMMU) a editaci kódu. Je obzvláště vhodný pro scénáře s vysokou propustností, kde je latence nebo..."
+      }
+      
+      ,{
+        "title"    : "Meta: Llama Guard 4 12B",
+        "url"      : "/llm/meta-llama-llama-guard-4-12b/",
+        "category" : "llm",
+        "content"  : "Llama Guard 4 je multimodální předtrénovaný model odvozený od Llama 4 Scout, jemně doladěný pro klasifikaci obsahu z hlediska bezpečnosti. Podobně jako předchozí verze, může být použit ke klasifikaci obsahu jak ve vstupech LLM (klasifikace promptu), tak v odpovědích LLM (klasifikace odpovědi). Funguje jako LLM – generuje text ve svém výstupu, který indikuje, zda je daný prompt nebo odpověď bezpečný nebo nebezpečný, a pokud je nebezpečný, také vypisuje kategorie obsahu, které byly porušeny.Llama Guard 4 byl vyladěn tak, aby chránil proti standardizované taxonomii rizik MLCommons a byl navržen tak, aby podporoval multimodální schopnosti Llama 4. Konkrétně kombinuje funkce z předchozích..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek Prover V2",
+        "url"      : "/llm/deepseek-deepseek-prover-v2/",
+        "category" : "llm",
+        "content"  : "DeepSeek Prover V2 je model s 671 miliardami parametrů, u kterého se spekuluje, že je zaměřen na logiku a matematiku. Pravděpodobně se jedná o upgrade z DeepSeek-Prover-V1.5. O modelu zatím není mnoho známo, protože DeepSeek jej vydal na Hugging Face bez oznámení nebo popisu.Unikátní charakteristikyModel DeepSeek Prover V2 je zaměřený na logiku a matematiku. Benchmark data nejsou k dispozici, takže nelze přesně určit jeho silné a slabé stránky.Silné stránkyDlouhý kontextKontext 163 840 tokenů umožňuje zpracování rozsáhlých dokumentů a komplexních problémů.Potenciál v logice a matematiceModel je pravděpodobně optimalizován pro logické a matematické úlohy, což naznačuje jeho název a předpokládané zaměření.Slabé stránkyNedostatek..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Mistral Medium 3",
+        "url"      : "/llm/mistralai-mistral-medium-3/",
+        "category" : "llm",
+        "content"  : "Mistral Medium 3 je vysoce výkonný jazykový model podnikové třídy navržený tak, aby poskytoval možnosti na špičkové úrovni při výrazně snížených provozních nákladech. Vyvažuje nejmodernější usuzování a multimodální výkon s 8× nižšími náklady ve srovnání s tradičními velkými modely, díky čemuž je vhodný pro škálovatelná nasazení v profesionálních a průmyslových případech použití.Model vyniká v oblastech, jako je kódování, STEM usuzování a podniková adaptace. Podporuje hybridní, on-prem a in-VPC nasazení a je optimalizován pro integraci do vlastních pracovních postupů. Mistral Medium 3 nabízí konkurenceschopnou přesnost ve srovnání s většími modely, jako jsou Claude Sonnet 3.5/3.7, Llama 4 Maverick a Command R+,..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: Codex Mini",
+        "url"      : "/llm/openai-codex-mini/",
+        "category" : "llm",
+        "content"  : "codex-mini-latest je doladěná verze o4-mini, určená specificky pro použití v Codex CLI. Pro přímé použití v API doporučujeme začít s gpt-4.1.Unikátní charakteristikycodex-mini-latest je jemně doladěná verze o4-mini, určená pro použití v Codex CLI. Pro přímé použití v API se doporučuje začít s gpt-4.1. Benchmark data nejsou k dispozici, takže nelze objektivně posoudit jeho výkon.Silné stránkyCenaRelativně nízká cena v porovnání s pokročilejšími modely OpenAI, což z něj činí dostupnou volbu pro specifické úkoly generování kódu.KontextKontext 200 000 tokenů umožňuje zpracování rozsáhlejších kódových bází a složitějších programovacích úloh.Slabé stránkyBenchmarkyChybějící benchmark data znemožňují objektivní srovnání s konkurencí a určení jeho silných a slabých..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemma 3n 4B",
+        "url"      : "/llm/google-gemma-3n-e4b-it/",
+        "category" : "llm",
+        "content"  : "Gemma 3n E4B – je optimalizována pro efektivní spouštění na mobilních zařízeních a zařízeních s omezenými zdroji, jako jsou telefony, notebooky a tablety. Podporuje multimodální vstupy – včetně textu, vizuálních dat a zvuku – a umožňuje různorodé úlohy, jako je generování textu, rozpoznávání řeči, překlad a analýza obrazu. Díky využití inovací, jako je Per-Layer Embedding (PLE) caching a architektura MatFormer, Gemma 3n dynamicky spravuje využití paměti a výpočetní zátěž selektivní aktivací parametrů modelu, což výrazně snižuje požadavky na běhové zdroje.Tento model podporuje širokou jazykovou škálu (trénován ve více než 140 jazycích) a nabízí flexibilní kontextové okno s 32 tisíci tokeny...."
+      }
+      
+      ,{
+        "title"    : "Anthropic: Claude Sonnet 4",
+        "url"      : "/llm/anthropic-claude-sonnet-4/",
+        "category" : "llm",
+        "content"  : "Claude Sonnet 4 významně rozšiřuje schopnosti svého předchůdce, Sonnet 3.7, a vyniká v kódování i úlohách vyžadujících usuzování s vylepšenou přesností a ovladatelností. S dosažením nejmodernějšího výkonu na SWE-bench (72,7 %) vyvažuje Sonnet 4 schopnosti a výpočetní efektivitu, díky čemuž je vhodný pro širokou škálu aplikací od běžných úloh kódování až po komplexní projekty vývoje softwaru. Mezi klíčová vylepšení patří zdokonalená autonomní navigace v kódové základně, snížená chybovost v pracovních postupech řízených agenty a zvýšená spolehlivost při dodržování složitých instrukcí. Sonnet 4 je optimalizován pro praktické každodenní použití a poskytuje pokročilé schopnosti usuzování při zachování efektivity a odezvy v různých..."
+      }
+      
+      ,{
+        "title"    : "Anthropic: Claude Opus 4",
+        "url"      : "/llm/anthropic-claude-opus-4/",
+        "category" : "llm",
+        "content"  : "Claude Opus 4 je v době svého vydání hodnocen jako nejlepší kódovací model na světě, přinášející trvalý výkon při komplexních, dlouhotrvajících úlohách a pracovních postupech agentů. Stanovuje nové benchmarky v softwarovém inženýrství, dosahuje špičkových výsledků na SWE-bench (72,5 %) a Terminal-bench (43,2 %). Opus 4 podporuje rozšířené, agentní pracovní postupy, zvládá tisíce kroků úloh nepřetržitě po dobu hodin bez degradace.Unikátní charakteristikyClaude Opus 4 je prezentován jako špičkový model pro kódování, dosahující vysokých výsledků na SWE-bench (72.5%) a Terminal-bench (43.2%). Je navržen pro komplexní a dlouhotrvající úkoly a agentní workflow.Silné stránkyProgramováníVynikající výsledky v benchmarku SWE-bench (72.5%) a Terminal-bench (43.2%) naznačují silné..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: R1 0528",
+        "url"      : "/llm/deepseek-deepseek-r1-0528/",
+        "category" : "llm",
+        "content"  : "Aktualizace z 28. května k původnímu DeepSeek R1 s výkonem srovnatelným s OpenAI o1, ale s otevřeným zdrojovým kódem a plně otevřenými reasoning tokeny. Má velikost 671B parametrů, přičemž 37B je aktivních v jednom průchodu inferencí.Plně open-source model.Unikátní charakteristikyDeepSeek R1 0528 je open-source model s vysokým kontextem a silným výkonem v matematice a programování. Jeho otevřenost a plně otevřené reasoning tokeny ho odlišují od uzavřených modelů.Silné stránkyMatematikaVynikající výkon v matematických úlohách, s vysokým skóre v MATH-500 (98.3%) a AIME 2025 (89.3%).ProgramováníSilný v kódování, dosahuje 77.0% na LiveCodeBench.Slabé stránkyAgenti a nástrojeSlabý výkon v úlohách zaměřených na agenty, s nízkým skóre 36.5%..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek R1 0528 Qwen3 8B",
+        "url"      : "/llm/deepseek-deepseek-r1-0528-qwen3-8b/",
+        "category" : "llm",
+        "content"  : "DeepSeek-R1-0528 je mírně vylepšená verze DeepSeek R1, která využívá více výpočetního výkonu a chytřejší post-tréninkové triky, čímž posouvá své schopnosti usuzování a inference na úroveň vlajkových modelů jako O3 a Gemini 2.5 Pro.Nyní vede žebříčky v matematice, programování a logice, což demonstruje zásadní změnu v hloubce myšlení.Distilovaná varianta, DeepSeek-R1-0528-Qwen3-8B, přenáší tento řetězec myšlení do 8B-parametrové formy, čímž překonává standardní Qwen3 8B o +10 procentních bodů a vyrovnává se 235B “myslícímu” gigantu na AIME 2024.Unikátní charakteristikyDeepSeek R1 0528 Qwen3 8B je optimalizovaná verze modelu Qwen3 8B, která dosahuje lepších výsledků v logickém uvažování a programování. Podle popisu se vyrovná i mnohem..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 3",
+        "url"      : "/llm/x-ai-grok-3/",
+        "category" : "llm",
+        "content"  : "Grok 3 je nejnovější model od xAI. Je to jejich vlajková loď, která vyniká v podnikových případech použití, jako je extrakce dat, kódování a sumarizace textu. Disponuje hlubokými znalostmi domény ve financích, zdravotnictví, právu a vědě.Unikátní charakteristikyGrok 3 je vlajková loď od xAI, zaměřená na podnikové případy použití. Vyniká v oblastech jako je extrakce dat, kódování a shrnutí textu. Má hluboké znalosti v oblastech financí, zdravotnictví, práva a vědy.Silné stránkyVěda a matematikaDosahuje vysokých výsledků v náročných vědeckých a matematických úlohách, konkrétně 69.3% v GPQA Diamond a 87.0% v MATH-500.Obecné znalostiSolidní výkon v MMLU Pro s 79.9% naznačuje dobré obecné znalosti..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 3 Mini",
+        "url"      : "/llm/x-ai-grok-3-mini/",
+        "category" : "llm",
+        "content"  : "Lehký model, který přemýšlí, než odpoví. Rychlý, chytrý a skvělý pro úlohy založené na logice, které nevyžadují hluboké znalosti domény. Surové stopy myšlení jsou přístupné.Unikátní charakteristikyGrok 3 Mini je lehký model zaměřený na rychlost a logické úlohy. Model se zamýšlí před odpovědí a poskytuje přístup k raw thinking traces. Benchmark data nejsou k dispozici.Silné stránkyCenaRelativně nízká cena ve srovnání s modely s větším kontextem a potenciálně vyšší kvalitou.RychlostModel je navržen pro rychlé odpovědi, což je výhodné pro aplikace vyžadující nízkou latenci.Slabé stránkyBenchmark skóreBenchmark data nejsou k dispozici, takže nelze objektivně posoudit jeho výkon v různých úlohách.Hloubka znalostíModel je určen pro..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o3 Pro",
+        "url"      : "/llm/openai-o3-pro/",
+        "category" : "llm",
+        "content"  : "Modely řady o jsou trénovány pomocí posilovaného učení, aby přemýšlely před odpovědí a prováděly komplexní usuzování. Model o3-pro využívá více výpočetního výkonu k intenzivnějšímu přemýšlení a poskytování trvale lepších odpovědí.Upozorňujeme, že pro tento model je vyžadováno BYOK (Bring Your Own Key). Nastavte si jej zde: https://openrouter.ai/settings/integrationsUnikátní charakteristikyModel o3-pro je trénován s posilovacím učením pro komplexní rozumování. Dosahuje vysokého skóre v GPQA Diamond (84.5%), což naznačuje silné schopnosti ve vědeckých úlohách, ale má pomalou rychlost (TPS 29.5, TTFT 103.672s).Silné stránkyVěda a matematikaVynikající výkon v GPQA Diamond benchmarku (84.5%), což značí silné schopnosti v řešení vědeckých problémů.KontextVelký kontext 200 000 tokenů umožňuje..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Pro",
+        "url"      : "/llm/google-gemini-2-5-pro/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Pro je nejmodernější AI model od Googlu, navržený pro pokročilé usuzování, kódování, matematiku a vědecké úlohy. Využívá “myšlenkové” schopnosti, které mu umožňují odůvodňovat odpovědi se zvýšenou přesností a nuancovanou manipulací s kontextem. Gemini 2.5 Pro dosahuje špičkového výkonu v několika benchmarkách, včetně prvního místa v žebříčku LMArena, což odráží vynikající sladění s preferencemi lidí a schopnosti řešit složité problémy.Unikátní charakteristikyGemini 2.5 Pro vyniká ve vědeckých a matematických úlohách, což dokazuje vysoké skóre v benchmarkách MATH-500 (96.7%) a GPQA Diamond (84.4%). Model se také dobře umisťuje v programování (LiveCodeBench 80.1%). Jeho velký kontext (1,048,576 tokenů) umožňuje zpracovávat komplexní úlohy.Silné..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Flash",
+        "url"      : "/llm/google-gemini-2-5-flash/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Flash je špičkový pracovní model od Googlu, speciálně navržený pro pokročilé usuzování, kódování, matematiku a vědecké úlohy. Zahrnuje vestavěné “myšlenkové” schopnosti, které mu umožňují poskytovat odpovědi s vyšší přesností a nuancovanějším zpracováním kontextu.Navíc je Gemini 2.5 Flash konfigurovatelný prostřednictvím parametru “max tokens for reasoning” (maximální počet tokenů pro usuzování), jak je popsáno v dokumentaci (https://openrouter.ai/docs/use-cases/reasoning-tokens#max-tokens-for-reasoning).Unikátní charakteristikyGemini 2.5 Flash je navržen pro pokročilé úlohy vyžadující rozumování, kódování, matematiku a vědecké výpočty. Model vyniká v matematických úlohách, což dokazuje vysoké skóre 93.2% v MATH-500. Díky konfigurovatelnému parametru ‘max tokens for reasoning’ umožňuje jemné doladění pro specifické use case.Silné stránkyMatematikaVynikající v..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Mistral Small 3.2 24B",
+        "url"      : "/llm/mistralai-mistral-small-3-2-24b-instruct/",
+        "category" : "llm",
+        "content"  : "Mistral-Small-3.2-24B-Instruct-2506 je aktualizovaný 24B parametrový model od Mistralu, optimalizovaný pro sledování instrukcí, redukci opakování a vylepšené volání funkcí. Oproti verzi 3.1, verze 3.2 významně zlepšuje přesnost na WildBench a Arena Hard, redukuje nekonečné generování a přináší zlepšení v používání nástrojů a úlohách se strukturovaným výstupem.Podporuje obrazové a textové vstupy se strukturovanými výstupy, volání funkcí/nástrojů a silný výkon v kódování (HumanEval+, MBPP), STEM (MMLU, MATH, GPQA) a vizuálních benchmarkách (ChartQA, DocVQA).Unikátní charakteristikyMistral Small 3.2 je 24B model optimalizovaný pro sledování instrukcí, redukci opakování a vylepšené volání funkcí. Verze 3.2 přináší významné zlepšení přesnosti na WildBench a Arena Hard, snižuje nekonečné generování..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 4",
+        "url"      : "/llm/x-ai-grok-4/",
+        "category" : "llm",
+        "content"  : "Grok 4 je nejnovější model pro usuzování od xAI s kontextovým oknem o velikosti 256k. Podporuje paralelní volání nástrojů, strukturované výstupy a obrazové i textové vstupy. Upozorňujeme, že usuzování není zpřístupněno, usuzování nelze vypnout a úsilí vynaložené na usuzování nelze specifikovat. Cena se zvyšuje, jakmile celkový počet tokenů v daném požadavku překročí 128k tokenů. Více podrobností naleznete v dokumentaci xAI.Unikátní charakteristikyGrok 4 vyniká v matematice a vědě, což dokazují vysoké skóre v MATH-500 a GPQA Diamond. Podporuje multimodální vstupy (obrázky a text) a paralelní volání nástrojů, ale rychlost je slabá stránka.Silné stránkyMatematikaExcelentní výkon v matematických úlohách, s 99.0% v MATH-500..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Devstral Small 1.1",
+        "url"      : "/llm/mistralai-devstral-small/",
+        "category" : "llm",
+        "content"  : "Devstral Small 1.1 je 24B parametrový jazykový model s otevřenými váhami pro agenty softwarového inženýrství, vyvinutý společností Mistral AI ve spolupráci s All Hands AI. Je doladěn z Mistral Small 3.1 a uvolněn pod licencí Apache 2.0. Disponuje kontextovým oknem o velikosti 128k tokenů a podporuje jak funkci volání ve stylu Mistral, tak výstupní formáty XML.Devstral Small 1.1, navržený pro agentní pracovní postupy kódování, je optimalizován pro úkoly, jako je průzkum codebase, úpravy více souborů a integrace do autonomních vývojových agentů, jako jsou OpenHands a Cline. Dosahuje 53,6 % na SWE-Bench Verified, čímž překonává všechny ostatní otevřené modely v tomto..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Devstral Medium",
+        "url"      : "/llm/mistralai-devstral-medium/",
+        "category" : "llm",
+        "content"  : "Devstral Medium je vysoce výkonný model pro generování kódu a agentní usuzování, vyvinutý společně společnostmi Mistral AI a All Hands AI. Je koncipován jako vylepšení oproti Devstral Small a dosahuje 61,6 % na SWE-Bench Verified, čímž v úlohách souvisejících s kódem předčí Gemini 2.5 Pro a GPT-4.1, a to za zlomek nákladů. Je navržen pro generalizaci napříč styly promptů a používání nástrojů v kódových agentech a frameworkách.Devstral Medium je dostupný pouze přes API (není open-weight) a podporuje nasazení v podnikovém prostředí na soukromé infrastruktuře, s volitelnými možnostmi fine-tuningu.Unikátní charakteristikyDevstral Medium vyniká v generování kódu a agentním uvažování, s výkonem srovnatelným..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Flash Lite",
+        "url"      : "/llm/google-gemini-2-5-flash-lite/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Flash-Lite je odlehčený model pro usuzování z rodiny Gemini 2.5, optimalizovaný pro ultra-nízkou latenci a nákladovou efektivitu. Nabízí vylepšenou propustnost, rychlejší generování tokenů a lepší výkon v běžných benchmarkách ve srovnání s dřívějšími modely Flash. Ve výchozím nastavení je “myšlení” (tj. víceprůchodové usuzování) deaktivováno, aby se upřednostnila rychlost, ale vývojáři jej mohou povolit prostřednictvím parametru Reasoning API a selektivně tak vyměnit náklady za inteligenci.Unikátní charakteristikyGemini 2.5 Flash Lite je odlehčený model optimalizovaný pro ultra-nízkou latenci a nákladovou efektivitu. Nabízí vyšší propustnost a rychlejší generování tokenů. Multi-pass reasoning je ve výchozím nastavení vypnutý, ale lze jej zapnout pomocí Reasoning..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Codestral 2508",
+        "url"      : "/llm/mistralai-codestral-2508/",
+        "category" : "llm",
+        "content"  : "Špičkový jazykový model pro kódování od Mistralu, Codestral, byl vydán koncem července 2025. Codestral se specializuje na úlohy s nízkou latencí a vysokou frekvencí, jako je doplňování prostředku (fill-in-the-middle, FIM), korekce kódu a generování testů.Unikátní charakteristikyCodestral 2508 je specializovaný jazykový model pro kódování, navržený pro úlohy s nízkou latencí a vysokou frekvencí. Benchmark data nejsou k dispozici, takže nelze objektivně posoudit jeho výkon v porovnání s konkurencí.Silné stránkyCenaRelativně nízká cena ve srovnání s některými konkurenčními modely pro kódování.KontextVelký kontext 256 000 tokenů umožňuje zpracovávat rozsáhlé kódové báze.Slabé stránkyBenchmarkyChybějící benchmark data znemožňují objektivní srovnání výkonu s konkurencí.Jazyková podporaNení jasné, jak dobře..."
+      }
+      
+      ,{
+        "title"    : "Anthropic: Claude Opus 4.1",
+        "url"      : "/llm/anthropic-claude-opus-4-1/",
+        "category" : "llm",
+        "content"  : "Claude Opus 4.1 je aktualizovaná verze vlajkového modelu společnosti Anthropic, která nabízí vylepšený výkon v kódování, usuzování a agentních úlohách. Dosahuje 74,5 % na SWE-bench Verified a vykazuje pozoruhodné zisky v refaktorování kódu ve více souborech, přesnosti ladění a usuzování zaměřeném na detaily. Model podporuje rozšířené myšlení až do 64K tokenů a je optimalizován pro úlohy zahrnující výzkum, analýzu dat a usuzování s asistencí nástrojů.Unikátní charakteristikyClaude Opus 4.1 je vylepšená verze vlajkové lodi od Anthropic, která nabízí lepší výkon v kódování, rozumování a agentních úlohách. Dosahuje 74.5% na SWE-bench Verified a vykazuje pozoruhodné zisky v refaktorování kódu s více soubory,..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: gpt-oss-20b",
+        "url"      : "/llm/openai-gpt-oss-20b/",
+        "category" : "llm",
+        "content"  : "gpt-oss-20b je model s otevřenými váhami a 21 miliardami parametrů, vydaný společností OpenAI pod licencí Apache 2.0. Používá architekturu Mixture-of-Experts (MoE) s 3,6 miliardami aktivních parametrů na jeden průchod dopřednou sítí, optimalizovanou pro inferenci s nižší latencí a nasazení na spotřebitelském hardwaru nebo hardwaru s jednou GPU. Model je trénován ve formátu odezvy Harmony společnosti OpenAI a podporuje konfiguraci úrovně usuzování, dolaďování a agentní schopnosti včetně volání funkcí, používání nástrojů a strukturovaných výstupů.Unikátní charakteristikygpt-oss-20b je open-source model s architekturou Mixture-of-Experts, optimalizovaný pro nízkou latenci a nasazení na spotřebitelském hardwaru. Vyniká v matematických úlohách a programování, což dokazují vysoké skóre v..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: gpt-oss-120b",
+        "url"      : "/llm/openai-gpt-oss-120b/",
+        "category" : "llm",
+        "content"  : "gpt-oss-120b je jazykový model typu Mixture-of-Experts (MoE) s otevřenými váhami a 117 miliardami parametrů od OpenAI, navržený pro produkční případy použití s vysokou úrovní usuzování, agentních schopností a všeobecného určení. Aktivuje 5,1 miliardy parametrů na jeden průchod dopřednou sítí a je optimalizován pro běh na jedné GPU H100 s nativní kvantizací MXFP4. Model podporuje konfigurovatelnou hloubku usuzování, plný přístup k řetězci myšlenek a nativní používání nástrojů, včetně volání funkcí, procházení webu a generování strukturovaného výstupu.Unikátní charakteristikygpt-oss-120b je navržen pro náročné úlohy vyžadující hluboké rozumování a schopnosti agentů. Využívá architekturu MoE, aktivuje pouze 5.1B parametrů na průchod a je optimalizován pro..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Nano",
+        "url"      : "/llm/openai-gpt-5-nano/",
+        "category" : "llm",
+        "content"  : "GPT-5-Nano je nejmenší a nejrychlejší varianta v systému GPT-5, optimalizovaná pro vývojářské nástroje, rychlé interakce a prostředí s ultra-nízkou latencí. I když je ve srovnání s většími protějšky omezena v hloubce usuzování, zachovává si klíčové funkce pro dodržování instrukcí a bezpečnost. Je nástupcem GPT-4.1-nano a nabízí odlehčenou variantu pro nákladově citlivé nebo real-time aplikace.Unikátní charakteristikyGPT-5-Nano je nejmenší a nejrychlejší varianta GPT-5, optimalizovaná pro rychlé interakce. I přes omezené schopnosti usuzování si zachovává klíčové vlastnosti pro dodržování instrukcí a bezpečnost. Nízké skóre v HLE (hard logic) naznačuje slabší schopnosti v komplexním logickém usuzování.Silné stránkyProgramováníVysoké skóre v LiveCodeBench (78.9) naznačuje dobré schopnosti..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Mini",
+        "url"      : "/llm/openai-gpt-5-mini/",
+        "category" : "llm",
+        "content"  : "GPT-5 Mini je kompaktní verze GPT-5, navržená pro zvládání méně náročných úloh vyžadujících usuzování. Poskytuje stejné výhody v oblasti dodržování instrukcí a bezpečnostního ladění jako GPT-5, ale se sníženou latencí a náklady. GPT-5 Mini je nástupcem modelu o4-mini od OpenAI.Unikátní charakteristikyGPT-5 Mini je kompaktní verze GPT-5, navržená pro méně náročné úlohy. Vyniká v matematice a programování, ale má pomalou rychlost odezvy. Nabízí vyvážený poměr mezi kvalitou a cenou.Silné stránkyVěda a matematikaModel dosahuje vynikajících výsledků v matematických úlohách (AIME 90.7%, GPQA Diamond 82.8%), což ho předurčuje pro vědecké aplikace.ProgramováníS vysokým skóre v LiveCodeBench (83.8%) je model vhodný pro generování a analýzu..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5",
+        "url"      : "/llm/openai-gpt-5/",
+        "category" : "llm",
+        "content"  : "GPT-5 je nejpokročilejší model od OpenAI, který nabízí zásadní vylepšení v usuzování, kvalitě kódu a uživatelské zkušenosti. Je optimalizován pro komplexní úlohy, které vyžadují postupné usuzování, dodržování instrukcí a přesnost v kritických případech použití. Podporuje funkce směrování za běhu (test-time routing) a pokročilé porozumění promptům, včetně uživatelsky specifikovaného záměru, jako například “důkladně o tom přemýšlej”. Vylepšení zahrnují snížení halucinací, podlézavosti a lepší výkon v kódování, psaní a úlohách souvisejících se zdravotnictvím.Unikátní charakteristikyGPT-5 vyniká v komplexních úlohách vyžadujících postupné uvažování a přesnost. Dosahuje vysokých skóre v matematických a vědeckých benchmarkách, což naznačuje silné schopnosti v těchto oblastech. Nicméně, latence je relativně..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Chat",
+        "url"      : "/llm/openai-gpt-5-chat/",
+        "category" : "llm",
+        "content"  : "GPT-5 Chat je navržen pro pokročilé, přirozené, multimodální a kontextově uvědomělé konverzace pro podnikové aplikace.Unikátní charakteristikyGPT-5 Chat je navržen pro pokročilé, přirozené, multimodální a kontextově uvědomělé konverzace pro podnikové aplikace. Benchmark data nejsou k dispozici, takže nelze objektivně posoudit jeho technické vlastnosti.Silné stránkyMultimodalitaPodporuje vstupy souborů a obrázků, což rozšiřuje možnosti použití.KontextKontext 128 000 tokenů umožňuje udržovat delší a komplexnější konverzace.Slabé stránkyCenaVyšší cena ve srovnání s některými konkurenty, zejména pro výstupní tokeny.BenchmarkyChybějící benchmark data znemožňují objektivní srovnání výkonu s konkurencí."
+      }
+      
+      ,{
+        "title"    : "Mistral: Mistral Medium 3.1",
+        "url"      : "/llm/mistralai-mistral-medium-3-1/",
+        "category" : "llm",
+        "content"  : "Mistral Medium 3.1 je aktualizovaná verze Mistral Medium 3, což je vysoce výkonný jazykový model podnikové úrovně navržený tak, aby poskytoval špičkové schopnosti při výrazně snížených provozních nákladech. Vyvažuje nejmodernější usuzování a multimodální výkon s 8× nižšími náklady ve srovnání s tradičními velkými modely, díky čemuž je vhodný pro škálovatelná nasazení v profesionálních a průmyslových případech použití.Model vyniká v oblastech, jako je kódování, STEM usuzování a podniková adaptace. Podporuje hybridní, on-prem a in-VPC nasazení a je optimalizován pro integraci do vlastních pracovních postupů. Mistral Medium 3.1 nabízí konkurenceschopnou přesnost ve srovnání s většími modely, jako jsou Claude Sonnet 3.5/3.7, Llama..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek V3.1",
+        "url"      : "/llm/deepseek-deepseek-chat-v3-1/",
+        "category" : "llm",
+        "content"  : "DeepSeek-V3.1 je velký hybridní model pro usuzování (671B parametrů, 37B aktivních), který podporuje jak režimy s usuzováním, tak bez usuzování prostřednictvím šablon promptů. Rozšiřuje základ DeepSeek-V3 o dvoufázový tréninkový proces s dlouhým kontextem, dosahující až 128K tokenů, a používá FP8 mikroskopování pro efektivní inferenci. Uživatelé mohou ovládat chování usuzování pomocí booleanu reasoning enabled. Více informací v naší dokumentaciModel zlepšuje používání nástrojů, generování kódu a efektivitu usuzování, dosahuje výkonu srovnatelného s DeepSeek-R1 na obtížných benchmarkách a zároveň reaguje rychleji. Podporuje strukturované volání nástrojů, kódové agenty a vyhledávací agenty, díky čemuž je vhodný pro výzkum, kódování a agentní workflow.Navazuje na model DeepSeek..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok Code Fast 1",
+        "url"      : "/llm/x-ai-grok-code-fast-1/",
+        "category" : "llm",
+        "content"  : "Grok Code Fast 1 je rychlý a ekonomický model pro usuzování, který vyniká v agentním kódování. Díky viditelným stopám usuzování v odpovědi mohou vývojáři řídit Grok Code pro vysoce kvalitní pracovní postupy.Unikátní charakteristikyGrok Code Fast 1 je rychlý a ekonomický model zaměřený na kódování s agentními schopnostmi. Důkazem jsou viditelné reasoning traces v odpovědích, což umožňuje vývojářům řídit Grok Code pro vysoce kvalitní pracovní postupy. Vyniká v τ2-Bench (agenti) s 75.7%.Silné stránkyAgentní schopnostiVysoké skóre v τ2-Bench (75.7%) naznačuje silné schopnosti pro agentní aplikace a automatizaci úloh.ProgramováníSolidní skóre v LiveCodeBench (65.7%) ukazuje dobrou úroveň programovacích dovedností.Slabé stránkyLogické uvažováníNízké skóre v HLE..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 4 Fast",
+        "url"      : "/llm/x-ai-grok-4-fast/",
+        "category" : "llm",
+        "content"  : "Grok 4 Fast je nejnovější multimodální model od xAI s nejmodernější (SOTA) nákladovou efektivitou a kontextovým oknem o velikosti 2 miliony tokenů. Je dostupný ve dvou variantách: bez uvažování a s uvažováním. Více informací o modelu naleznete v novinkách od xAI.Uvažování lze povolit/zakázat pomocí parametru reasoning enabled v API. Více informací naleznete v naší dokumentaciUnikátní charakteristikyGrok 4 Fast se vyznačuje vysokou rychlostí (182.2 tokenů/s) a nízkou latencí (0.560s), což ho činí vhodným pro aplikace citlivé na čas. Nabízí velký kontext 2 miliony tokenů a multimodální vstupy (text, image → text).Silné stránkyRychlostVysoká propustnost (182.2 tokenů/s) a nízká latence (0.560s) umožňují rychlé..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek V3.1 Terminus",
+        "url"      : "/llm/deepseek-deepseek-v3-1-terminus/",
+        "category" : "llm",
+        "content"  : "DeepSeek-V3.1 Terminus je aktualizace modelu DeepSeek V3.1, která zachovává původní schopnosti modelu a zároveň řeší problémy nahlášené uživateli, včetně jazykové konzistence a schopností agentů, čímž dále optimalizuje výkon modelu v kódování a vyhledávacích agentech. Jedná se o velký hybridní model pro usuzování (671B parametrů, 37B aktivních), který podporuje režimy s usuzováním i bez něj. Rozšiřuje základ DeepSeek-V3 o dvoufázový trénink s dlouhým kontextem, dosahující až 128K tokenů, a používá FP8 microscaling pro efektivní inferenci. Uživatelé mohou ovládat chování usuzování pomocí booleanu reasoning enabled. Více informací v naší dokumentaciModel zlepšuje používání nástrojů, generování kódu a efektivitu usuzování, dosahuje výkonu srovnatelného s..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Codex",
+        "url"      : "/llm/openai-gpt-5-codex/",
+        "category" : "llm",
+        "content"  : "GPT-5-Codex je specializovaná verze GPT-5 optimalizovaná pro softwarové inženýrství a pracovní postupy kódování. Je navržena jak pro interaktivní vývojové relace, tak pro dlouhé, nezávislé provádění komplexních inženýrských úloh. Model podporuje vytváření projektů od začátku, vývoj funkcí, ladění, rozsáhlý refaktoring a revizi kódu. Ve srovnání s GPT-5 je Codex lépe řiditelný, úzce se drží pokynů vývojáře a produkuje čistší a kvalitnější výstupy kódu. Úsilí vynaložené na usuzování lze upravit pomocí parametru reasoning.effort. Přečtěte si dokumentaci zdeCodex se integruje do vývojářských prostředí, včetně CLI, rozšíření IDE, GitHubu a cloudových úloh. Dynamicky přizpůsobuje úsilí vynaložené na usuzování – poskytuje rychlé reakce pro malé..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek V3.2 Exp",
+        "url"      : "/llm/deepseek-deepseek-v3-2-exp/",
+        "category" : "llm",
+        "content"  : "DeepSeek-V3.2-Exp je experimentální velký jazykový model vydaný společností DeepSeek jako mezikrok mezi V3.1 a budoucími architekturami. Zavádí DeepSeek Sparse Attention (DSA), mechanismus řídké pozornosti s jemnou granularitou, navržený pro zlepšení efektivity tréninku a inference ve scénářích s dlouhým kontextem při zachování kvality výstupu. Uživatelé mohou ovládat chování při usuzování pomocí booleanu reasoning enabled. Více informací v naší dokumentaciModel byl trénován za podmínek srovnatelných s V3.1-Terminus, aby bylo umožněno přímé srovnání. Benchmarking ukazuje výkon zhruba na stejné úrovni jako V3.1 v úlohách usuzování, kódování a agentního používání nástrojů, s drobnými kompromisy a zisky v závislosti na doméně. Toto vydání se zaměřuje..."
+      }
+      
+      ,{
+        "title"    : "Anthropic: Claude Sonnet 4.5",
+        "url"      : "/llm/anthropic-claude-sonnet-4-5/",
+        "category" : "llm",
+        "content"  : "Claude Sonnet 4.5 je nejpokročilejší model Sonnet od společnosti Anthropic k dnešnímu dni, optimalizovaný pro agenty v reálném světě a pracovní postupy kódování. Dosahuje špičkového výkonu v kódovacích benchmarkách, jako je SWE-bench Verified, s vylepšeními v oblasti návrhu systému, zabezpečení kódu a dodržování specifikací. Model je navržen pro rozšířený autonomní provoz, udržuje kontinuitu úkolů napříč relacemi a poskytuje sledování pokroku založené na faktech.Sonnet 4.5 také představuje silnější agentní schopnosti, včetně vylepšené orchestrace nástrojů, spekulativního paralelního provádění a efektivnějšího kontextu a správy paměti. Díky vylepšenému sledování kontextu a povědomí o využití tokenů napříč voláními nástrojů je obzvláště vhodný pro multi-kontextové a..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Pro",
+        "url"      : "/llm/openai-gpt-5-pro/",
+        "category" : "llm",
+        "content"  : "GPT-5 Pro je nejpokročilejší model od OpenAI, který nabízí zásadní vylepšení v usuzování, kvalitě kódu a uživatelské zkušenosti. Je optimalizován pro komplexní úlohy, které vyžadují postupné usuzování, dodržování instrukcí a přesnost v kritických případech použití. Podporuje funkce směrování v době testování a pokročilé porozumění promptům, včetně uživatelem specifikovaného záměru, jako například “důkladně o tom přemýšlej”. Vylepšení zahrnují redukci halucinací, podlézavosti a lepší výkon v kódování, psaní a úlohách souvisejících se zdravím.Unikátní charakteristikyGPT-5 Pro je zaměřen na komplexní úlohy vyžadující detailní rozumování a přesné dodržování instrukcí. Podporuje pokročilé promptování a test-time routing. Data z benchmarků nejsou k dispozici, takže nelze objektivně..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Flash Image (Nano Banana)",
+        "url"      : "/llm/google-gemini-2-5-flash-image/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Flash Image, známý také jako “Nano Banana,” je nyní obecně dostupný. Jedná se o nejmodernější model pro generování obrázků s kontextuálním porozuměním. Je schopen generovat obrázky, provádět úpravy a vést vícekolové konverzace. Poměry stran lze ovládat pomocí parametru API image_configUnikátní charakteristikyGemini 2.5 Flash Image je model pro generování obrázků s kontextovým porozuměním. Umožňuje editaci obrázků a vícekolové konverzace. Podpora nastavení poměru stran pomocí API.Silné stránkyCenaRelativně nízká cena ve srovnání s jinými multimodálními modely.MultimodalitaSchopnost zpracovávat a generovat obrázky i text.Slabé stránkyBenchmarkyBenchmark data nejsou k dispozici, nelze objektivně posoudit výkon.KontextRelativně malý kontext (32,768 tokenů) ve srovnání s textovými modely."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Image",
+        "url"      : "/llm/openai-gpt-5-image/",
+        "category" : "llm",
+        "content"  : "GPT-5 Image kombinuje nejpokročilejší jazykový model OpenAI s nejmodernějšími schopnostmi generování obrazu. Nabízí zásadní vylepšení v oblasti usuzování, kvality kódu a uživatelské zkušenosti a zároveň integruje vynikající schopnosti sledování instrukcí, vykreslování textu a detailní úpravy obrazu GPT Image 1.Unikátní charakteristikyGPT-5 Image kombinuje pokročilý jazykový model s generováním obrázků. Podle popisu nabízí vylepšení v usuzování, kvalitě kódu a uživatelské zkušenosti, a také vylepšené instrukce, text rendering a detailní úpravy obrázků. Benchmark data nejsou k dispozici, takže nelze objektivně posoudit výkon.Silné stránkyMultimodálnostModel kombinuje textové a obrazové vstupy a výstupy, což umožňuje komplexní aplikace.Editace obrázkůPodle popisu modelu nabízí detailní možnosti editace obrázků, což..."
+      }
+      
+      ,{
+        "title"    : "Anthropic: Claude Haiku 4.5",
+        "url"      : "/llm/anthropic-claude-haiku-4-5/",
+        "category" : "llm",
+        "content"  : "Claude Haiku 4.5 je nejrychlejší a nejefektivnější model od Anthropic, který poskytuje inteligenci blížící se špičce za zlomek nákladů a latence větších modelů Claude. Haiku 4.5, který se výkonem vyrovná modelu Claude Sonnet 4 v úlohách vyžadujících usuzování, kódování a používání počítače, přináší možnosti na špičkové úrovni do aplikací v reálném čase a s vysokým objemem dat.Zavádí rozšířené myšlení do řady Haiku; umožňuje kontrolovatelnou hloubku usuzování, sumarizovaný nebo prokládaný výstup myšlenek a pracovní postupy s asistencí nástrojů s plnou podporou pro kódování, bash, vyhledávání na webu a nástroje pro používání počítače. S výsledkem &amp;gt;73 % na SWE-bench Verified se Haiku..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5 Image Mini",
+        "url"      : "/llm/openai-gpt-5-image-mini/",
+        "category" : "llm",
+        "content"  : "GPT-5 Image Mini kombinuje pokročilé jazykové schopnosti OpenAI, poháněné GPT-5 Mini, s GPT Image 1 Mini pro efektivní generování obrázků. Tento nativně multimodální model se vyznačuje vynikajícím dodržováním instrukcí, vykreslováním textu a detailní úpravou obrázků se sníženou latencí a náklady. Vyniká ve vysoce kvalitní vizuální tvorbě při zachování silného porozumění textu, což ho činí ideálním pro aplikace, které vyžadují efektivní generování obrázků a zpracování textu ve velkém měřítku.Unikátní charakteristikyGPT-5 Image Mini kombinuje pokročilé jazykové schopnosti s generováním obrázků. Model je navržen pro efektivní generování obrázků s důrazem na detail a textové porozumění. Benchmark data nejsou k dispozici.Silné stránkyMultimodální schopnostiNativně multimodální..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: gpt-oss-safeguard-20b",
+        "url"      : "/llm/openai-gpt-oss-safeguard-20b/",
+        "category" : "llm",
+        "content"  : "gpt-oss-safeguard-20b je model pro odůvodňování bezpečnosti od OpenAI, postavený na modelu gpt-oss-20b. Tento model s otevřenými váhami, 21 miliardami parametrů a architekturou Mixture-of-Experts (MoE) nabízí nižší latenci pro bezpečnostní úlohy, jako je klasifikace obsahu, filtrování LLM a označování pro důvěru a bezpečnost.Více informací o tomto modelu naleznete v uživatelské příručce OpenAI gpt-oss-safeguard.Unikátní charakteristikygpt-oss-safeguard-20b je model zaměřený na bezpečnostní úlohy, postavený na architektuře Mixture-of-Experts. Absence benchmark dat znemožňuje přesnější charakteristiku jeho výkonu v porovnání s konkurencí.Silné stránkyCenaRelativně nízká cena v porovnání s modely jako Claude Opus nebo GPT-5.1, což může být atraktivní pro rozsáhlé bezpečnostní aplikace.KontextKontext 131,072 tokenů umožňuje zpracování delších..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Voxtral Small 24B 2507",
+        "url"      : "/llm/mistralai-voxtral-small-24b-2507/",
+        "category" : "llm",
+        "content"  : "Voxtral Small je vylepšení modelu Mistral Small 3, které zahrnuje nejmodernější možnosti audio vstupu při zachování špičkového textového výkonu. Vyniká v přepisu řeči, překladu a porozumění audiu. Vstupní audio je zpoplatněno sazbou 100 USD za milion sekund.Unikátní charakteristikyVoxtral Small 24B 2507 je vylepšená verze Mistral Small 3, která přidává pokročilé možnosti audio vstupu při zachování špičkového výkonu v textu. Specializuje se na přepis řeči, překlad a porozumění audiu. Benchmark data nejsou k dispozici.Silné stránkyAudio vstupVyniká v přepisu řeči, překladu a porozumění audiu.CenaRelativně nízká cena za vstup textu a audia v porovnání s modely s podobnými schopnostmi.Slabé stránkyBenchmark dataChybí benchmark data..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5.1-Codex-Mini",
+        "url"      : "/llm/openai-gpt-5-1-codex-mini/",
+        "category" : "llm",
+        "content"  : "GPT-5.1-Codex-Mini je menší a rychlejší verze GPT-5.1-Codex.Unikátní charakteristikyGPT-5.1-Codex-Mini je menší a rychlejší verze GPT-5.1-Codex. Benchmark data pro detailní charakteristiku nejsou k dispozici.Silné stránkyCenaRelativně nízká cena ve srovnání s jinými modely OpenAI, což z něj činí dostupnější volbu pro některé úlohy.KontextVelký kontext 400 000 tokenů umožňuje zpracování rozsáhlejších úloh a dokumentů.Slabé stránkyBenchmarkyChybějící benchmark data znemožňují objektivní srovnání s konkurencí v konkrétních úlohách.Jazyková podporaNedostatek informací o výkonu v češtině (MMMLU) ztěžuje posouzení vhodnosti pro české uživatele."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5.1-Codex",
+        "url"      : "/llm/openai-gpt-5-1-codex/",
+        "category" : "llm",
+        "content"  : "GPT-5.1-Codex je specializovaná verze GPT-5.1 optimalizovaná pro softwarové inženýrství a pracovní postupy kódování. Je navržena jak pro interaktivní vývojové relace, tak pro dlouhé, nezávislé provádění komplexních inženýrských úloh. Model podporuje vytváření projektů od začátku, vývoj funkcí, ladění, rozsáhlý refactoring a revizi kódu. Ve srovnání s GPT-5.1 je Codex lépe ovladatelný, přesněji se drží pokynů vývojáře a produkuje čistší a kvalitnější výstupy kódu. Úsilí vynaložené na odvozování lze upravit pomocí parametru reasoning.effort. Přečtěte si dokumentaci zdeCodex se integruje do vývojářských prostředí, včetně CLI, rozšíření IDE, GitHubu a cloudových úloh. Dynamicky přizpůsobuje úsilí vynaložené na odvozování – poskytuje rychlé reakce pro malé..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5.1 Chat",
+        "url"      : "/llm/openai-gpt-5-1-chat/",
+        "category" : "llm",
+        "content"  : "GPT-5.1 Chat (známý také jako Instant) je rychlý, nenáročný člen rodiny 5.1, optimalizovaný pro chat s nízkou latencí při zachování silné obecné inteligence. Využívá adaptivní usuzování k selektivnímu “přemýšlení” nad složitějšími dotazy, čímž zlepšuje přesnost v matematice, kódování a víceúrovňových úlohách, aniž by zpomaloval typické konverzace. Model je ve výchozím nastavení srdečnější a konverzačnější, s lepším dodržováním instrukcí a stabilnějším krátkodobým usuzováním. GPT-5.1 Chat je navržen pro interaktivní pracovní zátěže s vysokou propustností, kde na odezvě a konzistenci záleží více než na hlubokém uvažování.Unikátní charakteristikyGPT-5.1 Chat je navržen pro interaktivní úlohy s vysokou propustností, kde je odezva a konzistence důležitější..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5.1",
+        "url"      : "/llm/openai-gpt-5-1/",
+        "category" : "llm",
+        "content"  : "GPT-5.1 je nejnovější model špičkové úrovně v sérii GPT-5, který nabízí silnější všeobecné uvažování, vylepšené dodržování instrukcí a přirozenější konverzační styl ve srovnání s GPT-5. Využívá adaptivní uvažování k dynamické alokaci výpočetního výkonu, rychle reaguje na jednoduché dotazy a zároveň věnuje více hloubky složitým úlohám. Model produkuje jasnější a lépe podložená vysvětlení s menším množstvím žargonu, což usnadňuje sledování i u technických nebo vícestupňových problémů.GPT-5.1, vytvořený pro široké pokrytí úloh, přináší konzistentní zlepšení v úlohách z oblasti matematiky, kódování a strukturované analýzy, s koherentnějšími odpověďmi dlouhého formátu a vylepšenou spolehlivostí používání nástrojů. Obsahuje také vylepšené konverzační zarovnání, které umožňuje vřelejší..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 4.1 Fast",
+        "url"      : "/llm/x-ai-grok-4-1-fast/",
+        "category" : "llm",
+        "content"  : "Grok 4.1 Fast je nejlepší agentní model pro volání nástrojů od xAI, který vyniká v reálných případech použití, jako je zákaznická podpora a hloubkový výzkum. Kontextové okno 2M.Usuzování lze povolit/zakázat pomocí parametru reasoning enabled v API. Více informací v naší dokumentaciUnikátní charakteristikyGrok 4.1 Fast je optimalizován pro agentické úlohy a nástroje, s důrazem na rychlost a efektivitu. Nabízí kontextové okno 2 miliony tokenů, což umožňuje zpracování rozsáhlých dat. Reasoning lze zapnout/vypnout pomocí parametru reasoning v API.Silné stránkyKontextové oknoVelké kontextové okno 2 miliony tokenů umožňuje zpracování rozsáhlých dokumentů a komplexních úloh.CenaNízká cena za vstup a výstup ve srovnání s konkurenčními modely,..."
+      }
+      
+      ,{
+        "title"    : "Anthropic: Claude Opus 4.5",
+        "url"      : "/llm/anthropic-claude-opus-4-5/",
+        "category" : "llm",
+        "content"  : "Claude Opus 4.5 je špičkový model pro usuzování od společnosti Anthropic, optimalizovaný pro komplexní softwarové inženýrství, agentní pracovní postupy a dlouhodobé používání počítače. Nabízí silné multimodální schopnosti, konkurenceschopný výkon v reálných programovacích a usuzovacích benchmarkách a vylepšenou odolnost vůči prompt injection. Model je navržen tak, aby efektivně fungoval při různých úrovních úsilí, což vývojářům umožňuje volit mezi rychlostí, hloubkou a využitím tokenů v závislosti na požadavcích úkolu. Dodává se s novým parametrem pro řízení efektivity tokenů, který je přístupný pomocí parametru Verbosity OpenRouter s hodnotami low, medium nebo high.Opus 4.5 podporuje pokročilé používání nástrojů, rozšířenou správu kontextu a koordinované multi-agentní..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek V3.2",
+        "url"      : "/llm/deepseek-deepseek-v3-2/",
+        "category" : "llm",
+        "content"  : "DeepSeek-V3.2 je velký jazykový model navržený tak, aby harmonizoval vysokou výpočetní efektivitu se silným usuzováním a schopnostmi agentního využití nástrojů. Zavádí DeepSeek Sparse Attention (DSA), mechanismus jemnozrnné řídké pozornosti, který snižuje náklady na trénink a inferenci při zachování kvality ve scénářích s dlouhým kontextem. Škálovatelný rámec post-tréninku s posilovacím učením dále zlepšuje usuzování, s hlášeným výkonem v třídě GPT-5, a model prokázal výsledky na úrovni zlaté medaile na IMO a IOI 2025. V3.2 také používá rozsáhlý pipeline syntézy agentních úloh pro lepší integraci usuzování do nastavení využití nástrojů, čímž zvyšuje shodu a generalizaci v interaktivních prostředích.Uživatelé mohou ovládat chování usuzování..."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: DeepSeek V3.2 Speciale",
+        "url"      : "/llm/deepseek-deepseek-v3-2-speciale/",
+        "category" : "llm",
+        "content"  : "DeepSeek-V3.2-Speciale je vysoce výpočetní varianta DeepSeek-V3.2 optimalizovaná pro maximální usuzování a agentní výkon. Vychází z DeepSeek Sparse Attention (DSA) pro efektivní zpracování dlouhého kontextu a následně škáluje post-tréninkové posilování učením, aby posunula schopnosti nad rámec základního modelu. Uváděné evaluace umisťují Speciale před GPT-5 v náročných úlohách usuzování, s odborností srovnatelnou s Gemini-3.0-Pro, přičemž si zachovává silnou spolehlivost v kódování a používání nástrojů. Stejně jako V3.2, i ona těží z rozsáhlého pipeline syntézy agentních úloh, který zlepšuje shodu a generalizaci v interaktivních prostředích.Unikátní charakteristikyDeepSeek V3.2 Speciale je varianta modelu DeepSeek-V3.2 optimalizovaná pro maximální rozumování a výkon agentů. Využívá Sparse Attention pro..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Mistral Large 3 2512",
+        "url"      : "/llm/mistralai-mistral-large-2512/",
+        "category" : "llm",
+        "content"  : "Mistral Large 3 2512 je dosud nejvýkonnější model od Mistralu, který využívá řídkou architekturu mixture-of-experts se 41 miliardami aktivních parametrů (celkem 675 miliard) a je uvolněn pod licencí Apache 2.0.Unikátní charakteristikyMistral Large 3 2512 využívá sparse MoE architekturu, což mu umožňuje dosahovat dobrých výsledků v matematických úlohách (MATH-500: 71.4%). Jeho velký kontext 262,144 tokenů je vhodný pro komplexní úlohy. Nicméně, jeho výkon v hard logic (HLE: 3.2%) je velmi slabý.Silné stránkyMatematikaRelativně silný výkon v matematických úlohách, dosahuje 71.4% na MATH-500.KontextVelký kontext 262,144 tokenů umožňuje zpracování rozsáhlých dokumentů a komplexních úloh.Slabé stránkyLogikaVelmi slabý výkon v hard logic úlohách (HLE: 3.2%).RychlostOznačena jako..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Ministral 3 3B 2512",
+        "url"      : "/llm/mistralai-ministral-3b-2512/",
+        "category" : "llm",
+        "content"  : "Ministral 3 3B, nejmenší model z rodiny Ministral 3, je výkonný a efektivní malý jazykový model s vizuálními schopnostmi.Unikátní charakteristikyMinistral 3 3B je malý, ale efektivní jazykový model s vizuálními schopnostmi. Vyniká rychlostí inference (309.9 tokenů/s) a nízkou latencí (0.263s), což ho činí vhodným pro aplikace vyžadující rychlou odezvu. Jeho celkové skóre je však slabé, což naznačuje omezené schopnosti v náročnějších úlohách.Silné stránkyRychlostModel dosahuje výborné rychlosti inference (309.9 tokenů/s) a nízké latence (0.263s), což ho předurčuje pro aplikace s požadavkem na rychlou odezvu.CenaModel nabízí velmi nízkou cenu za vstup i výstup ($0.10/1M tokenů), což z něj činí atraktivní volbu pro..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Ministral 3 8B 2512",
+        "url"      : "/llm/mistralai-ministral-8b-2512/",
+        "category" : "llm",
+        "content"  : "Vyvážený model v rodině Ministral 3, Ministral 3 8B je výkonný, efektivní malý jazykový model s vizuálními schopnostmi.Unikátní charakteristikyMinistral 3 8B je vyvážený model s multimodálními schopnostmi a velkým kontextovým oknem. Jeho silné stránky leží v oblasti vědy a matematiky, kde dosahuje průměrných výsledků. Rychlost zpracování je výborná.Silné stránkyVěda a matematikaDosahuje průměrných výsledků v testech zaměřených na vědu a matematiku, například GPQA Diamond (47.1%) a AIME (31.7%).RychlostVyniká rychlostí zpracování, s TPS 197.6 a TTFT 0.291s, což z něj činí vhodnou volbu pro aplikace vyžadující rychlou odezvu.Slabé stránkyProgramováníDosahuje slabých výsledků v programovacích benchmarcích, jako je LiveCodeBench (30.3%).Logické uvažováníSlabé výsledky v testech..."
+      }
+      
+      ,{
+        "title"    : "Mistral: Ministral 3 14B 2512",
+        "url"      : "/llm/mistralai-ministral-14b-2512/",
+        "category" : "llm",
+        "content"  : "Největší model v rodině Ministral 3, Ministral 3 14B, nabízí špičkové schopnosti a výkon srovnatelný s jeho větším protějškem Mistral Small 3.2 24B. Jedná se o výkonný a efektivní jazykový model s funkcemi vidění.Unikátní charakteristikyMinistral 3 14B nabízí multimodální schopnosti a výkon srovnatelný s Mistral Small 3.2 24B. Vyniká velkým kontextovým oknem 262,144 tokenů a dobrou rychlostí inference.Silné stránkyVěda a matematikaDosahuje skóre 57.2% v GPQA Diamond, což naznačuje dobrou schopnost řešit vědecké problémy.Obecná inteligenceS MMLU Pro skóre 69.3% vykazuje solidní znalosti v různých oblastech.Slabé stránkyProgramováníS nízkým skóre 35.1% v LiveCodeBench se nehodí pro náročné programovací úkoly.Logické uvažováníVelmi nízké skóre 4.6%..."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-5.1-Codex-Max",
+        "url"      : "/llm/openai-gpt-5-1-codex-max/",
+        "category" : "llm",
+        "content"  : "GPT-5.1-Codex-Max je nejnovější agentní model pro kódování od OpenAI, navržený pro dlouhodobé softwarové vývojové úlohy s vysokým kontextem. Je založen na aktualizované verzi odvozovacího stacku 5.1 a trénován na agentních pracovních postupech zahrnujících softwarové inženýrství, matematiku a výzkum.GPT-5.1-Codex-Max poskytuje rychlejší výkon, vylepšené odvozování a vyšší tokenovou efektivitu v průběhu celého životního cyklu vývoje.Unikátní charakteristikyGPT-5.1-Codex-Max je navržen pro dlouhotrvající vývoj softwaru s vysokým kontextem. Využívá aktualizovanou verzi 5.1 reasoning stack a je trénován na agentických workflow v softwarovém inženýrství, matematice a výzkumu. Benchmark data nejsou k dispozici.Silné stránkyKontextPodpora kontextu až 400 000 tokenů umožňuje zpracovávat komplexní projekty.Agentické úlohyOptimalizováno pro agentické workflow..."
       }
       
       ,{
