@@ -90,7 +90,7 @@ benchmark_categories:
     icon: ⚡
     score: 74.0
     tier: Dobrý
-overall_score: 72.5
+overall_score: 73.8
 overall_tier: Dobrý
 radar:
   logic_code: 87.8

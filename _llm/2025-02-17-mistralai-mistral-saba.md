@@ -76,7 +76,7 @@ benchmark_categories:
     icon: ⚡
     score: 0.0
     tier: Slabý
-overall_score: 30.2
+overall_score: 33.5
 overall_tier: Slabý
 radar:
   logic_code: 4.1

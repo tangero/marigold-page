@@ -92,7 +92,7 @@ benchmark_categories:
     icon: ⚡
     score: 82.0
     tier: Výborný
-overall_score: 49.8
+overall_score: 47.9
 overall_tier: Průměrný
 radar:
   logic_code: 42.3

@@ -95,18 +95,21 @@ class BenchmarkFetcher:
     }
 
     # 9 kategorií hodnocení podle dokumentu
+    # fallback_index = záložní AA index když chybí jednotlivé benchmarky
     CATEGORIES = {
         'science': {
             'name': 'Věda & Matematika',
             'icon': '🧮',
             'benchmarks': ['aime_2025', 'gpqa_diamond', 'math_500'],
-            'weights': [0.40, 0.40, 0.20]
+            'weights': [0.40, 0.40, 0.20],
+            'fallback_index': 'artificial_analysis_math_index'
         },
         'coding': {
             'name': 'Programování',
             'icon': '💻',
             'benchmarks': ['swe_bench_verified', 'livecodebench', 'aider_polyglot'],
-            'weights': [0.45, 0.35, 0.20]
+            'weights': [0.45, 0.35, 0.20],
+            'fallback_index': 'artificial_analysis_coding_index'
         },
         'agentic': {
             'name': 'Agenti & Nástroje',
@@ -118,7 +121,8 @@ class BenchmarkFetcher:
             'name': 'Obecná inteligence',
             'icon': '🧠',
             'benchmarks': ['mmlu_pro', 'hle', 'arc_agi_2'],
-            'weights': [0.50, 0.30, 0.20]
+            'weights': [0.50, 0.30, 0.20],
+            'fallback_index': 'intelligence_index'
         },
         'extraction': {
             'name': 'Extrakce dat',
@@ -320,6 +324,38 @@ class BenchmarkFetcher:
                     values.append(benchmarks[key])
                     used_weights.append(weights[i])
 
+            # Pokud máme méně než 2 benchmarky, zkusíme použít fallback index
+            fallback_index = category.get('fallback_index')
+            if len(values) < 2 and fallback_index and fallback_index in benchmarks:
+                fallback_value = benchmarks[fallback_index]
+                if fallback_value is not None:
+                    if values:
+                        # Máme jeden benchmark - použijeme vyšší z:
+                        # a) samotný benchmark, nebo
+                        # b) kombinace benchmarku (60%) + fallback (40%)
+                        combined_score = values[0] * 0.6 + fallback_value * 0.4
+                        score = max(values[0], combined_score)
+                        used_fallback = score == combined_score
+                    else:
+                        # Nemáme žádný benchmark, použijeme pouze fallback index
+                        score = fallback_value
+                        used_fallback = True
+
+                    # Určit rating a tier pro fallback
+                    rating = None
+                    tier = 'Nehodnoceno'
+                    for threshold, r, t in self.RATING_TIERS:
+                        if score >= threshold:
+                            rating = r
+                            tier = t
+                            break
+                    return {
+                        'score': round(score, 1),
+                        'rating': rating,
+                        'tier': tier,
+                        'used_fallback': used_fallback
+                    }
+
             if not values:
                 return {'score': None, 'rating': None, 'tier': 'Nehodnoceno'}
 
@@ -372,6 +408,7 @@ class BenchmarkFetcher:
     def _calculate_summary(self, categories: Dict) -> Dict:
         """Vypočítá souhrnné hodnocení."""
         # Váhy pro celkové skóre
+        # Rychlost má nižší váhu - neměla by příliš penalizovat kvalitní modely
         category_weights = {
             'science': 1.0,
             'coding': 1.0,
@@ -379,9 +416,9 @@ class BenchmarkFetcher:
             'intelligence': 1.0,
             'extraction': 0.5,
             'multimodal': 0.5,
-            'safety': 1.0,
-            'speed': 0.5,
-            'languages': 1.0
+            'safety': 0.5,  # Sníženo - často chybí data
+            'speed': 0.25,  # Sníženo z 0.5 - rychlost by neměla příliš penalizovat
+            'languages': 0.5  # Sníženo - často chybí data pro češtinu
         }
 
         scores = []

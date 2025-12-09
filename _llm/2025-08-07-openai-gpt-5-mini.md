@@ -90,7 +90,7 @@ benchmark_categories:
     icon: ⚡
     score: 19.2
     tier: Slabý
-overall_score: 67.6
+overall_score: 71.2
 overall_tier: Dobrý
 radar:
   logic_code: 83.8
