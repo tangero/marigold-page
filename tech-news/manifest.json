@@ -1,7 +1,85 @@
 {
-  "generated": "2025-12-08T20:39:59.374126+00:00",
+  "generated": "2025-12-09T01:21:26.972953+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Bod obratu v roce 2027: Strategický plán pro přežití",
+      "description": "Bod obratu představuje nátlakovou funkci a jedinečnou příležitost pro civilizaci dokázat nezbytnost lidského úsudku, kontextového porozumění a adaptivní inteligence v době, kdy umělá inteligence mění všechno okolo nás.",
+      "slug": "the-2027-inflection-point-a-strategic-blueprint-fo",
+      "publishedAt": "2025-12-08T00:16:00+00:00",
+      "date": "2025-12-08 00:16:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-08/the-2027-inflection-point-a-strategic-blueprint-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Modernanalyst.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Teenagerka se svěřila AI chatbotovi před sebevraždou",
+      "description": "Rodiče varují, že AI chatboti na platformě Character AI posílali sexuálně explicitní obsah jejich 13leté dceři. Dívka se v chatbotovi svěřovala se sebevražednými myšlenkami před tragédií.",
+      "slug": "a-teen-confided-in-an-ai-chatbot-before-her-suicid",
+      "publishedAt": "2025-12-08T00:00:24+00:00",
+      "date": "2025-12-08 00:00:24",
+      "importance": 4,
+      "category": "ai chatboti",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/07/eaf85647-e303-4a42-b54d-1603efa2284a/thumbnail/1200x630/d9b5ae8dd71921dad1220198cb331b58/character-ai-article.jpg",
+      "url": "/tech-news/2025-12-08/a-teen-confided-in-an-ai-chatbot-before-her-suicid/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Character AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strukturovaná bezdrátová transkraniální optogenetika generuje umělou percepci",
+      "description": "Výzkum představuje plně implantabilní bezdrátové optogenetické zařízení, které prostorově-časově strukturovaně stimuluje kortikální oblasti mozku skrz lebku a vytváří umělé vnímání u myší. Myši dokázaly tyto umělé podněty diskriminovat během operantního učení.",
+      "slug": "patterned-wireless-transcranial-optogenetics-gener",
+      "publishedAt": "2025-12-08T00:00:00+00:00",
+      "date": "2025-12-08 00:00:00",
+      "importance": 4,
+      "category": "optogenetika",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-025-02127-6/MediaObjects/41593_2025_2127_Fig1_HTML.png",
+      "url": "/tech-news/2025-12-08/patterned-wireless-transcranial-optogenetics-gener/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf Google DeepMind Demis Hassabis: Škálování AI musí být posunuto na maximum",
+      "description": "Šéf Google DeepMind Demis Hassabis tvrdí, že škálování umělé inteligence je klíčové pro dosažení AGI, teoretické verze AI schopné uvažovat na úrovni člověka.",
+      "slug": "google-deepmind-ceo-demis-hassabis-says-ai-scaling",
+      "publishedAt": "2025-12-07T22:47:41+00:00",
+      "date": "2025-12-07 22:47:41",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/6935efad04d0f0a114f18ff4?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-07/google-deepmind-ceo-demis-hassabis-says-ai-scaling/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
     {
       "title": "Čína drží klíče k modernímu světu a Západ riskuje zaostání",
       "description": "Čína se kdysi snažila dohnat Západ, konkrétně USA; pak se dohnala; nyní Západ se snaží dohnat Čínu, ale pravděpodobně to nedokáže.",
@@ -1248,24 +1326,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Thedailyupside.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonská firma prodává automatické dveře odolné proti medvědům",
-      "description": "Automatické dveře Mirairo Door od firem Fulltech a Mirairo jsou efektivní proti medvědům i líným lidem. Vlna setkání s medvědy v Japonsku ukázala jejich schopnost používat běžné automatické dveře, což vede k vývoji řešení s ovládáním přes Bluetooth a aplikaci na smartphonu.",
-      "slug": "japanese-company-selling-bear-proof-automatic-door",
-      "publishedAt": "2025-12-07T05:00:42+00:00",
-      "date": "2025-12-07 05:00:42",
-      "importance": 3,
-      "category": "bezpečnostní hardwar",
-      "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2025/12/main.jpg?w=1200&h=559&crop=1",
-      "url": "/tech-news/2025-12-07/japanese-company-selling-bear-proof-automatic-door/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SoraNews24"
       },
       "companies": [],
       "people": []
@@ -3779,60 +3839,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "[レポート]Modernizing Operational Technology for AI-power Manufacturingに参加してきました #IND370 #AWS #AWSreInvent",
-      "description": "[レポート]Modernizing Operational Technology for AI-power Manufacturingに参加してきました #IND370 #AWS #AWSreInvent",
-      "slug": "レポートmodernizing-operational-technology-for-ai-powe",
-      "publishedAt": "2025-12-05T07:59:56+00:00",
-      "date": "2025-12-05 07:59:56",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://images.ctfassets.net/ct0aopd36mqt/4pUQzSdez78aERI3ud3HNg/fe4c41ee45eccea110362c7c14f1edec/reinvent2025_devio_report_w1200h630.png",
-      "url": "/tech-news/2025-12-05/レポートmodernizing-operational-technology-for-ai-powe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Classmethod.jp"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zuckerberg Axes Metaverse: Meta Slashes Budget By £52 Billion As VR Dream Implodes",
-      "description": "Meta is preparing to slash up to £52 billion from its Metaverse budget as Mark Zuckerberg shifts Facebook's parent company toward artificial intelligence, signalling significant possible job cuts.",
-      "slug": "zuckerberg-axes-metaverse-meta-slashes-budget-by-5",
-      "publishedAt": "2025-12-05T05:26:43+00:00",
-      "date": "2025-12-05 05:26:43",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://d.ibtimes.co.uk/en/full/1773652/mark-zuckerberg-metaverse.jpg",
-      "url": "/tech-news/2025-12-05/zuckerberg-axes-metaverse-meta-slashes-budget-by-5/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "실비아헬스, ‘Digital Health Hub Foundation Awards 2025’ Quarterfinalist 선정",
-      "description": "실비아헬스가 글로벌 헬스케어 기술 시상식인 Digital Health Hub Foundation Awards 2025에서 ‘Mental and Behavioural Health’ 부문 Rising Star 쿼터파이널리스트로 선정됐다.\nThe post 실비아헬스, ‘Digital Health Hub Foundation Awards 2025’ Quarterfinalist 선정 appeared first on 벤처스퀘어.",
-      "slug": "실비아헬스-digital-health-hub-foundation-awards-2025-qu",
-      "publishedAt": "2025-12-05T04:32:53+00:00",
-      "date": "2025-12-05 04:32:53",
-      "importance": 3,
-      "category": "tech",
-      "urlToImage": "https://www.venturesquare.net/wp-content/uploads/2025/12/tlfqldkgpftm-1-e1764904890177.png",
-      "url": "/tech-news/2025-12-05/실비아헬스-digital-health-hub-foundation-awards-2025-qu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Venturesquare.net"
       },
       "companies": [],
       "people": []
