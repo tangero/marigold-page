@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RunMat – runtime s automatickým směrováním mezi CPU a GPU pro husté matematické výpočty | Marigold.cz Tech News</title>
+    <meta name="description" content="RunMat je open-source runtime pro MATLAB kód, který automaticky fúzuje operace a inteligentně volí mezi CPU a GPU podle velikosti dat a nákladů na přenos. Tento">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-02/show-hn-runmat-runtime-with-auto-cpugpu-routing-fo/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 02.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Github.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">RunMat – runtime s automatickým směrováním mezi CPU a GPU pro husté matematické výpočty</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-02T15:07:49+00:00">02.12.2025</time>
+                    <span class="category">numerické výpočty</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://opengraph.githubassets.com/995056f5d3a93a1e3747cd33d6bf6b82a2dd3642bc1b96497ac5fad287a5349d/runmat-org/runmat" alt="RunMat – runtime s automatickým směrováním mezi CPU a GPU pro husté matematické výpočty" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>RunMat je open-source runtime navržený pro spouštění MATLAB kódu, který automaticky optimalizuje operace fúzí a směrováním mezi CPU a GPU. Vyvinutý Nabeelem, tento systém v srpnu překonal rychlostí GNU Octave a v nové verzi Accelerate (v0.2, pre-release) přidává podporu pro širokou škálu GPU bez nutnosti psaní kernelů nebo správy zařízení. Podporuje MATLAB syntax v souborech .m a běží na platformách jako macOS, Windows a Linux.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Automatická fúze operací: Vytváří graf pole a spojuje elementární operace s redukcemi do optimalizovaných kernelů.</li>
+<li>Inteligentní volba CPU/GPU: Rozhoduje na základě velikosti dat a nákladů na přenos, bez manuálních příznaků.</li>
+<li>Cross-platform GPU podpora: NVIDIA, AMD, Apple Silicon, Intel přes Metal, DirectX 12 nebo Vulkan pomocí wgpu/WebGPU.</li>
+<li>Moderní CPU backend: Ignition interpret pro rychlý start, Turbine JIT (Cranelift) pro horké cesty a generační garbage collector optimalizovaný pro numerický kód.</li>
+<li>Memory-safe: Implementováno v Rustu, s podporou pro existující MATLAB/Octave skripty.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>RunMat umožňuje uživatelům psát matematické výpočty v čitelné MATLAB syntaxi, včetně polí, řízení toku a .m souborů. Systém interně buduje graf operací nad poli, fúzuje elementární funkce jako sčítání nebo násobení s redukcemi (např. součty nebo maximum) do větších kernelů a spouští je na nejvhodnějším hardware. Na GPU dosahuje výkonu srovnatelného s ručně napsaným CUDA kódem pro husté numerické workloady, jako matičné operace nebo lineární algebra, aniž by uživatel musel řešit vendor lock-in nebo přenos dat mezi zařízeními.</p>
+<p>CPU část využívá Ignition interpret pro okamžité spuštění chladných kódů, což zkracuje čas startu oproti plně JIT systémům. Pro opakované výpočty se zapojuje Turbine JIT kompilátor založený na Craneliftu, který generuje nativní strojový kód. Garbage collector je generační a laděný pro numerické aplikace, kde dominují alokace velkých polí. Celý systém je napsán v Rustu, což zajišťuje bezpečnost paměti bez garbage collection overheadu typického pro MATLAB.</p>
+<p>GPU backend spoléhá na wgpu, což je Rustová implementace WebGPU specifikace. To umožňuje podporu Metal na macOS (Apple Silicon), DirectX 12 na Windows a Vulkan na Linuxu, s fallbackem na CPU pro malé workloady, kde by přenos dat na GPU způsobil ztrátu výkonu. Plotting je v pre-release stavu: Základní 2D čáry a body fungují, ale složitější grafy jako povrchové, 3D pohledy nebo boxploty chybí nebo jsou nestabilní. Dokumentace je dostupná na webu a systém prošel tisíci testů, ale očekávají se hrany v uživatelském rozhraní.</p>
+<p>Tento projekt vychází z původní srpnové verze diskutované na Hacker News, kde už tehdy překonal GNU Octave na testovaných úlohách. RunMat Accelerate rozšiřuje možnosti pro vědce a inženýry v oblastech numerických simulací, machine learningu nebo fyzikálního modelování, kteří chtějí využít GPU bez investic do proprietárních nástrojů jako MATLAB Parallel Computing Toolbox.</p>
+<h2>Proč je to důležité</h2>
+<p>RunMat snižuje bariéru pro využití GPU v numerických výpočtech, kde tradičně vyžaduje znalost CUDA nebo OpenCL. Pro průmysl znamená cross-platform podporu větší flexibilitu – například přechod z NVIDIA na AMD bez přepisování kódu – a open-source model podporuje komunitní vývoj. V kontextu rostoucího zapojení AI do vědeckých výpočtů (např. trénink modelů na velkých datech) může urychlit workflow data scientistů pracujících s MATLAB/Octave. Nicméně jako pre-release verze (v0.2) potřebuje stabilizaci plottingu a širší testování na reálných aplikacích, aby konkuroval etablovaným řešením jako NumPy s CuPy nebo Julia.</p>
+<hr />
+<p><a href="https://github.com/runmat-org/runmat">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Github.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://github.com/runmat-org/runmat" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Show HN: RunMat – runtime with auto CPU/GPU routing for dense math</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
