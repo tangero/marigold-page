@@ -27433,7 +27433,7 @@
       "title"    : "Přehled LLM modelů",
       "url"      : "/llm/",
       "category" : "stránka",
-      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 80 modelů | Aktualizováno denně Top modely podle kategorie 💻 Programování 🧮 Věda &amp;amp; Matematika 🤖 Agenti 🧠 Inteligence ⚡ Rychlost # Model Skóre Tier Cena Value 🥇 OpenAI: gpt-oss-120b 87.8 Výborný $0.0767/1M 1144.7 2 OpenAI: o4 Mini 85.9 Výborný $1.925/1M 44.6 3 OpenAI: GPT-5 84.6 Výborný $3.4375/1M 24.6 4 OpenAI: GPT-5 Codex 84.0 Výborný $3.4375/1M 24.4 5 OpenAI: GPT-5 Mini 83.8 Výborný $0.6875/1M 121.9 6 xAI: Grok 4 81.9 Výborný $6.0/1M 13.7 7 OpenAI: o3 80.8 Výborný $3.5/1M 23.1 8 Google: Gemini 2.5 Pro 80.1 Výborný $3.4375/1M..."
+      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 97 modelů | Aktualizováno denně Top modely podle kategorie 💻 Programování 🧮 Věda &amp;amp; Matematika 🤖 Agenti 🧠 Inteligence ⚡ Rychlost # Model Skóre Tier Cena Value 🥇 Google: Gemini 3 Pro Preview 91.7 Excelentní $4.5/1M 20.4 2 OpenAI: gpt-oss-120b 87.8 Výborný $0.0767/1M 💰1144.7 3 OpenAI: o4 Mini 85.9 Výborný $1.925/1M 44.6 4 OpenAI: GPT-5 84.6 Výborný $3.4375/1M 24.6 5 OpenAI: GPT-5 Codex 84.0 Výborný $3.4375/1M 24.4 6 OpenAI: GPT-5 Mini 83.8 Výborný $0.6875/1M 121.9 7 xAI: Grok 4 81.9 Výborný $6.0/1M 13.7 8 OpenAI: o3 80.8 Výborný..."
     }
     
   
@@ -28243,6 +28243,27 @@
     
       
       ,{
+        "title"    : "DeepSeek: R1 Distill Llama 70B",
+        "url"      : "/llm/deepseek-deepseek-r1-distill-llama-70b/",
+        "category" : "llm",
+        "content"  : "DeepSeek R1 Distill Llama 70B je destilovaný velký jazykový model založený na Llama-3.3-70B-Instruct, využívající výstupy z DeepSeek R1. Model kombinuje pokročilé techniky destilace k dosažení vysokého výkonu v několika benchmarkách, včetně:  AIME 2024 pass@1: 70.0  MATH-500 pass@1: 94.5  CodeForces Rating: 1633Model využívá doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: R1 Distill Qwen 14B",
+        "url"      : "/llm/deepseek-deepseek-r1-distill-qwen-14b/",
+        "category" : "llm",
+        "content"  : "DeepSeek R1 Distill Qwen 14B je destilovaný velký jazykový model založený na Qwen 2.5 14B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků (state-of-the-art) pro husté modely.Další výsledky benchmarků zahrnují:  AIME 2024 pass@1: 69.7  MATH-500 pass@1: 93.9  CodeForces Rating: 1481Model využívá jemné doladění (fine-tuning) z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely (frontier models)."
+      }
+      
+      ,{
+        "title"    : "DeepSeek: R1 Distill Qwen 32B",
+        "url"      : "/llm/deepseek-deepseek-r1-distill-qwen-32b/",
+        "category" : "llm",
+        "content"  : "DeepSeek R1 Distill Qwen 32B je destilovaný velký jazykový model založený na Qwen 2.5 32B, využívající výstupy z DeepSeek R1. Překonává o1-mini od OpenAI v různých benchmarkách a dosahuje nových nejlepších výsledků pro husté modely.Další výsledky benchmarků zahrnují:  AIME 2024 pass@1: 72.6  MATH-500 pass@1: 94.3  CodeForces Rating: 1691Model využívá jemné doladění z výstupů DeepSeek R1, což umožňuje konkurenceschopný výkon srovnatelný s většími špičkovými modely."
+      }
+      
+      ,{
         "title"    : "Mistral: Mistral Small 3",
         "url"      : "/llm/mistralai-mistral-small-24b-instruct-2501/",
         "category" : "llm",
@@ -28306,6 +28327,20 @@
       }
       
       ,{
+        "title"    : "OpenAI: GPT-4o Search Preview",
+        "url"      : "/llm/openai-gpt-4o-search-preview/",
+        "category" : "llm",
+        "content"  : "GPT-4o Search Preview je specializovaný model pro webové vyhledávání v Chat Completions. Je trénován k porozumění a provádění webových vyhledávacích dotazů."
+      }
+      
+      ,{
+        "title"    : "OpenAI: GPT-4o-mini Search Preview",
+        "url"      : "/llm/openai-gpt-4o-mini-search-preview/",
+        "category" : "llm",
+        "content"  : "GPT-4o mini Náhled vyhledávání je specializovaný model pro webové vyhledávání v Chat Completions. Je trénován k porozumění a provádění webových vyhledávacích dotazů."
+      }
+      
+      ,{
         "title"    : "Google: Gemma 3 12B",
         "url"      : "/llm/google-gemma-3-12b-it/",
         "category" : "llm",
@@ -28352,6 +28387,20 @@
         "url"      : "/llm/meta-llama-llama-4-maverick/",
         "category" : "llm",
         "content"  : "Llama 4 Maverick 17B Instruct (128E) je velkokapacitní multimodální jazykový model od společnosti Meta, postavený na architektuře mixture-of-experts (MoE) se 128 experty a 17 miliardami aktivních parametrů na jeden průchod dopřednou sítí (celkem 400B). Podporuje multijazyčný textový a obrazový vstup a produkuje multijazyčný textový a kódový výstup ve 12 podporovaných jazycích. Maverick, optimalizovaný pro úlohy vidění a jazyka, je doladěn pomocí instrukcí pro chování podobné asistentovi, obrazové usuzování a všeobecnou multimodální interakci.Maverick využívá ranou fúzi pro nativní multimodalitu a kontextové okno o velikosti 1 milionu tokenů. Byl trénován na kurátorské směsi veřejných, licencovaných a Meta-platform dat, pokrývající ~22 bilionů tokenů,..."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 3 Beta",
+        "url"      : "/llm/x-ai-grok-3-beta/",
+        "category" : "llm",
+        "content"  : "Grok 3 je nejnovější model od xAI. Je to jejich vlajkový model, který vyniká v podnikových případech použití, jako je extrakce dat, kódování a shrnování textu. Disponuje hlubokými znalostmi v oborech financí, zdravotnictví, práva a vědy.Vyniká ve strukturovaných úlohách a benchmarkách jako GPQA, LCB a MMLU-Pro, kde překonává i Grok 3 Mini i v úlohách vyžadujících náročné myšlení.Poznámka: Pro tento model existují dva endpointy xAI. Ve výchozím nastavení vás při používání tohoto modelu vždy směrujeme na základní endpoint. Pokud chcete rychlý endpoint, můžete přidat provider: { sort: throughput}, pro seřazení podle propustnosti."
+      }
+      
+      ,{
+        "title"    : "xAI: Grok 3 Mini Beta",
+        "url"      : "/llm/x-ai-grok-3-mini-beta/",
+        "category" : "llm",
+        "content"  : "Grok 3 Mini je odlehčený, menší myšlenkový model. Na rozdíl od tradičních modelů, které generují odpovědi okamžitě, Grok 3 Mini před odpovědí přemýšlí. Je ideální pro úlohy náročné na usuzování, které nevyžadují rozsáhlé znalosti domény, a vyniká ve specifických matematických a kvantitativních případech použití, jako je řešení náročných hádanek nebo matematických problémů.Transparentní “myšlenkové” stopy jsou přístupné. Ve výchozím nastavení používá nízké usuzování, které lze zvýšit nastavením reasoning: { effort: &quot;high&quot; }Poznámka: Pro tento model existují dva endpointy xAI. Ve výchozím nastavení vás při použití tohoto modelu vždy směrujeme na základní endpoint. Pokud chcete rychlý endpoint, můžete přidat provider: { sort:..."
       }
       
       ,{
@@ -28411,6 +28460,13 @@
       }
       
       ,{
+        "title"    : "Google: Gemini 2.5 Pro Preview 05-06",
+        "url"      : "/llm/google-gemini-2-5-pro-preview-05-06/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Pro je nejmodernější AI model od Googlu, navržený pro pokročilé usuzování, kódování, matematiku a vědecké úlohy. Využívá “myšlenkové” schopnosti, které mu umožňují odůvodňovat odpovědi se zvýšenou přesností a nuancovanou manipulací s kontextem. Gemini 2.5 Pro dosahuje špičkového výkonu v několika benchmarkách, včetně prvního místa v žebříčku LMArena, což odráží vynikající soulad s lidskými preferencemi a schopnosti řešit složité problémy."
+      }
+      
+      ,{
         "title"    : "Mistral: Mistral Medium 3",
         "url"      : "/llm/mistralai-mistral-medium-3/",
         "category" : "llm",
@@ -28457,6 +28513,13 @@
         "url"      : "/llm/deepseek-deepseek-r1-0528-qwen3-8b/",
         "category" : "llm",
         "content"  : "DeepSeek-R1-0528 je mírně vylepšená verze DeepSeek R1, která využívá více výpočetního výkonu a chytřejší post-tréninkové triky, čímž posouvá své schopnosti usuzování a inference na úroveň vlajkových modelů jako O3 a Gemini 2.5 Pro.Nyní vede žebříčky v matematice, programování a logice, což demonstruje zásadní změnu v hloubce myšlení.Distilovaná varianta, DeepSeek-R1-0528-Qwen3-8B, přenáší tento řetězec myšlení do 8B-parametrové formy, čímž překonává standardní Qwen3 8B o +10 procentních bodů a vyrovnává se 235B “myslícímu” gigantu na AIME 2024.Unikátní charakteristikyDeepSeek R1 0528 Qwen3 8B je optimalizovaná verze modelu Qwen3 8B, která dosahuje lepších výsledků v logickém uvažování a programování. Podle popisu se vyrovná i mnohem..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Pro Preview 06-05",
+        "url"      : "/llm/google-gemini-2-5-pro-preview/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Pro je nejmodernější AI model od Googlu, navržený pro pokročilé usuzování, kódování, matematiku a vědecké úlohy. Využívá schopnosti “uvažování”, které mu umožňují odůvodňovat odpovědi se zvýšenou přesností a nuancovanou manipulací s kontextem. Gemini 2.5 Pro dosahuje špičkového výkonu v několika benchmarkách, včetně prvního místa v žebříčku LMArena, což odráží vynikající sladění s lidskými preferencemi a schopnosti řešit komplexní problémy."
       }
       
       ,{
@@ -28593,10 +28656,24 @@
       }
       
       ,{
+        "title"    : "OpenAI: GPT-4o Audio",
+        "url"      : "/llm/openai-gpt-4o-audio-preview/",
+        "category" : "llm",
+        "content"  : "Model gpt-4o-audio-preview přidává podporu pro audio vstupy jako prompty. Toto vylepšení umožňuje modelu detekovat nuance v audio nahrávkách a přidat hloubku generovaným uživatelským zážitkům. Audio výstupy aktuálně nejsou podporovány. Audio tokeny jsou zpoplatněny částkou 40 USD za milion vstupních audio tokenů."
+      }
+      
+      ,{
         "title"    : "DeepSeek: DeepSeek V3.1",
         "url"      : "/llm/deepseek-deepseek-chat-v3-1/",
         "category" : "llm",
         "content"  : "DeepSeek-V3.1 je velký hybridní model pro usuzování (671B parametrů, 37B aktivních), který podporuje jak režimy s usuzováním, tak bez usuzování prostřednictvím šablon promptů. Rozšiřuje základ DeepSeek-V3 o dvoufázový tréninkový proces s dlouhým kontextem, dosahující až 128K tokenů, a používá FP8 mikroskopování pro efektivní inferenci. Uživatelé mohou ovládat chování usuzování pomocí booleanu reasoning enabled. Více informací v naší dokumentaciModel zlepšuje používání nástrojů, generování kódu a efektivitu usuzování, dosahuje výkonu srovnatelného s DeepSeek-R1 na obtížných benchmarkách a zároveň reaguje rychleji. Podporuje strukturované volání nástrojů, kódové agenty a vyhledávací agenty, díky čemuž je vhodný pro výzkum, kódování a agentní workflow.Navazuje na model DeepSeek..."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Flash Image Preview (Nano Banana)",
+        "url"      : "/llm/google-gemini-2-5-flash-image-preview/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Flash Image Preview, známý také jako “Nano Banana,” je nejmodernější model pro generování obrázků s kontextuálním porozuměním. Je schopen generovat obrázky, provádět úpravy a vést vícekolové konverzace."
       }
       
       ,{
@@ -28628,6 +28705,20 @@
       }
       
       ,{
+        "title"    : "Google: Gemini 2.5 Flash Lite Preview 09-2025",
+        "url"      : "/llm/google-gemini-2-5-flash-lite-preview-09-2025/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Flash-Lite je odlehčený model pro usuzování z rodiny Gemini 2.5, optimalizovaný pro ultra-nízkou latenci a nákladovou efektivitu. Nabízí vylepšenou propustnost, rychlejší generování tokenů a lepší výkon v běžných benchmarkách ve srovnání s dřívějšími modely Flash. Ve výchozím nastavení je “přemýšlení” (tj. víceprůchodové usuzování) vypnuto, aby se upřednostnila rychlost, ale vývojáři jej mohou povolit prostřednictvím parametru Reasoning API a selektivně tak vyměnit náklady za inteligenci."
+      }
+      
+      ,{
+        "title"    : "Google: Gemini 2.5 Flash Preview 09-2025",
+        "url"      : "/llm/google-gemini-2-5-flash-preview-09-2025/",
+        "category" : "llm",
+        "content"  : "Gemini 2.5 Flash Preview September 2025 Checkpoint je špičkový pracovní model od Googlu, speciálně navržený pro pokročilé usuzování, kódování, matematiku a vědecké úlohy. Zahrnuje vestavěné “myšlenkové” schopnosti, které mu umožňují poskytovat odpovědi s větší přesností a nuancovaným zpracováním kontextu.Navíc je Gemini 2.5 Flash konfigurovatelný prostřednictvím parametru “max tokens for reasoning” (maximální počet tokenů pro usuzování), jak je popsáno v dokumentaci (https://openrouter.ai/docs/use-cases/reasoning-tokens#max-tokens-for-reasoning)."
+      }
+      
+      ,{
         "title"    : "DeepSeek: DeepSeek V3.2 Exp",
         "url"      : "/llm/deepseek-deepseek-v3-2-exp/",
         "category" : "llm",
@@ -28653,6 +28744,20 @@
         "url"      : "/llm/google-gemini-2-5-flash-image/",
         "category" : "llm",
         "content"  : "Gemini 2.5 Flash Image, známý také jako “Nano Banana,” je nyní obecně dostupný. Jedná se o nejmodernější model pro generování obrázků s kontextuálním porozuměním. Je schopen generovat obrázky, provádět úpravy a vést vícekolové konverzace. Poměry stran lze ovládat pomocí parametru API image_configUnikátní charakteristikyGemini 2.5 Flash Image je model pro generování obrázků s kontextovým porozuměním. Umožňuje editaci obrázků a vícekolové konverzace. Podpora nastavení poměru stran pomocí API.Silné stránkyCenaRelativně nízká cena ve srovnání s jinými multimodálními modely.MultimodalitaSchopnost zpracovávat a generovat obrázky i text.Slabé stránkyBenchmarkyBenchmark data nejsou k dispozici, nelze objektivně posoudit výkon.KontextRelativně malý kontext (32,768 tokenů) ve srovnání s textovými modely."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o4 Mini Deep Research",
+        "url"      : "/llm/openai-o4-mini-deep-research/",
+        "category" : "llm",
+        "content"  : "o4-mini-deep-research je rychlejší a cenově dostupnější model pro hloubkový výzkum od OpenAI – ideální pro řešení komplexních, vícestupňových výzkumných úkolů.Poznámka: Tento model vždy používá nástroj ‘web_search’, což zvyšuje dodatečné náklady."
+      }
+      
+      ,{
+        "title"    : "OpenAI: o3 Deep Research",
+        "url"      : "/llm/openai-o3-deep-research/",
+        "category" : "llm",
+        "content"  : "o3-deep-research je pokročilý model OpenAI pro hloubkový výzkum, navržený pro řešení komplexních, vícestupňových výzkumných úkolů.Poznámka: Tento model vždy používá nástroj ‘web_search’, což zvyšuje dodatečné náklady."
       }
       
       ,{
@@ -28719,10 +28824,24 @@
       }
       
       ,{
+        "title"    : "Google: Gemini 3 Pro Preview",
+        "url"      : "/llm/google-gemini-3-pro-preview/",
+        "category" : "llm",
+        "content"  : "Gemini 3 Pro je vlajkový model společnosti Google pro multimodální uvažování s vysokou přesností, který kombinuje silný výkon v oblasti textu, obrazu, videa, zvuku a kódu s kontextovým oknem o velikosti 1 milionu tokenů. Při použití vícekolového volání nástrojů je nutné zachovat detaily uvažování, viz naše dokumentace zde: https://openrouter.ai/docs/use-cases/reasoning-tokens#preserving-reasoning-blocks. Dosahuje nejlepších výsledků v benchmarkových testech v oblasti obecného uvažování, řešení STEM problémů, faktických otázek a multimodálního porozumění, včetně předních skóre v LMArena, GPQA Diamond, MathArena Apex, MMMU-Pro a Video-MMMU. Interakce kladou důraz na hloubku a interpretovatelnost: model je navržen tak, aby odvozoval záměr s minimálním promptingem a produkoval přímé odpovědi..."
+      }
+      
+      ,{
         "title"    : "xAI: Grok 4.1 Fast",
         "url"      : "/llm/x-ai-grok-4-1-fast/",
         "category" : "llm",
         "content"  : "Grok 4.1 Fast je nejlepší agentní model pro volání nástrojů od xAI, který vyniká v reálných případech použití, jako je zákaznická podpora a hloubkový výzkum. Kontextové okno 2M.Usuzování lze povolit/zakázat pomocí parametru reasoning enabled v API. Více informací v naší dokumentaciUnikátní charakteristikyGrok 4.1 Fast je optimalizován pro agentické úlohy a nástroje, s důrazem na rychlost a efektivitu. Nabízí kontextové okno 2 miliony tokenů, což umožňuje zpracování rozsáhlých dat. Reasoning lze zapnout/vypnout pomocí parametru reasoning v API.Silné stránkyKontextové oknoVelké kontextové okno 2 miliony tokenů umožňuje zpracování rozsáhlých dokumentů a komplexních úloh.CenaNízká cena za vstup a výstup ve srovnání s konkurenčními modely,..."
+      }
+      
+      ,{
+        "title"    : "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+        "url"      : "/llm/google-gemini-3-pro-image-preview/",
+        "category" : "llm",
+        "content"  : "Nano Banana Pro je nejpokročilejší model pro generování a úpravu obrázků od Googlu, postavený na Gemini 3 Pro. Rozšiřuje původní Nano Banana o výrazně vylepšené multimodální usuzování, ukotvení v reálném světě a vizuální syntézu s vysokou věrností. Model generuje grafiku bohatou na kontext, od infografik a diagramů po filmové kompozice, a dokáže začlenit informace v reálném čase prostřednictvím ukotvení ve Vyhledávání.Nabízí špičkové vykreslování textu v obrázcích (včetně dlouhých pasáží a vícejazyčných rozvržení), konzistentní prolínání více obrázků a přesnou zachování identity až u pěti subjektů. Nano Banana Pro přidává jemně odstupňované kreativní ovládací prvky, jako jsou lokalizované úpravy, úpravy osvětlení a..."
       }
       
       ,{
