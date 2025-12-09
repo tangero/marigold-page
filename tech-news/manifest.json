@@ -1,7 +1,195 @@
 {
-  "generated": "2025-12-09T08:41:32.098846+00:00",
+  "generated": "2025-12-09T16:48:28.150962+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Trump vydá exekutivní příkaz pro „jednu příručku pravidel“ pro AI po selhání Kongresu v omezení „špatných aktérů“ států",
+      "description": "Prezident Trump oznámil, že tento týden vydá exekutivní příkaz zavedoucí „Jednu příručku pravidel“ na národní úrovni pro regulaci umělé inteligence, protože snahy Kongresu selhaly. Cílem je zabránit fragmentaci pravidel mezi 50 státy, která by podle něj oslabila konkurenceschopnost USA v globálním závodě o AI.",
+      "slug": "trump-to-issue-one-rulebook-ai-executive-order-aft",
+      "publishedAt": "2025-12-08T16:14:22+00:00",
+      "date": "2025-12-08 16:14:22",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116986255.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2025-12-08/trump-to-issue-one-rulebook-ai-executive-order-aft/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump oznámil, že podepíše výkonný příkaz blokující státní regulace AI, navzdory obavám o bezpečnost",
+      "description": "Prezident Donald Trump potvrdil, že plánuje podepsat výkonný příkaz, který přebere regulace umělé inteligence na státní úrovni a nahradí je volnější federální politikou. Tento krok vyvolává obavy u kritiků, kteří varují před riziky pro uživatele technologií.",
+      "slug": "trump-says-hell-sign-executive-order-blocking-stat",
+      "publishedAt": "2025-12-08T16:11:04+00:00",
+      "date": "2025-12-08 16:11:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-13t232452z-1118327253-rc2j4ba31vmo-rtrmadp-3-usa-congress-leadership-20251208144036887.JPG?c=16x9&q=w_800,c_fill",
+      "url": "/tech-news/2025-12-08/trump-says-hell-sign-executive-order-blocking-stat/",
+      "source": {
+        "emoji": "📰",
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Významná spolupráce mezi AWS a Snowflake pohání růst prodejů a integrace AI produktů",
+      "description": "Desetiletá spolupráce na integraci dat mezi Amazon Web Services a Snowflake vedla k milníkům oznámeným na konferenci AWS re:Invent, včetně zdvojnásobení růstu transakcí Snowflake v AWS Marketplace na přes 2 miliardy dolarů. Partnerství zahrnuje hlubší integrace s AI službami jako Bedrock a Cortex, což usnadňuje zákazníkům nasazení datových a AI řešení.",
+      "slug": "major-collaboration-between-aws-and-snowflake-driv",
+      "publishedAt": "2025-12-08T16:03:51+00:00",
+      "date": "2025-12-08 16:03:51",
+      "importance": 4,
+      "category": "oblakové technologie",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Gannon-Grusz.jpg",
+      "url": "/tech-news/2025-12-08/major-collaboration-between-aws-and-snowflake-driv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Amazon Web Services",
+        "Snowflake"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co se děje s Vodafone Germany, Mavenir a Telefónicou",
+      "description": "Vodafone Germany jmenuje nového ředitele sítí, Mavenir obměňuje vrcholový management a Telefónica vede několik jednání o fúzích a akvizicích podle CEO. Mezi klíčovými událostmi vyniká akvizice IBM společnosti Confluent za 11 miliard dolarů zaměřená na data streaming pro AI.",
+      "slug": "whats-up-with-vodafone-germany-mavenir-telefónica",
+      "publishedAt": "2025-12-08T15:49:50+00:00",
+      "date": "2025-12-08 15:49:50",
+      "importance": 5,
+      "category": "telekomunikace",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/fabrizio-rocchio-vodafone-germany-source-vodafone-germany-21474.jpg?w=1200",
+      "url": "/tech-news/2025-12-08/whats-up-with-vodafone-germany-mavenir-telefónica/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "Vodafone Germany",
+        "Mavenir",
+        "Telefónica"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank a Nvidia jednají o investici do Skild AI s valuací 14 miliard dolarů, tvrdí zdroje",
+      "description": "Japonský SoftBank Group a Nvidia vedou jednání o investici do Skild AI v kolu financování přes 1 miliardu dolarů, které by mohlo ocenit tvůrce základních modelů pro roboty na přibližně 14 miliard dolarů.",
+      "slug": "softbank-nvidia-looking-to-invest-in-skild-ai-at-1",
+      "publishedAt": "2025-12-08T15:41:31+00:00",
+      "date": "2025-12-08 15:41:31",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-105198,resizemode-75,msid-125839102/tech/technology/softbank-nvidia-looking-to-invest-in-skild-ai-at-14-billion-valuation-sources-say.jpg",
+      "url": "/tech-news/2025-12-08/softbank-nvidia-looking-to-invest-in-skild-ai-at-1/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SoftBank",
+        "Nvidia",
+        "Skild AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank a Nvidia jednají o investici do Skild AI za valuaci 14 miliard dolarů, tvrdí zdroje",
+      "description": "Japonský SoftBank Group a Nvidia rokují o investici do společnosti Skild AI v rámci kola financování přes 1 miliardu dolarů, které by firmu ocenilo na přibližně 14 miliard dolarů. Skild AI vyvíjí základní modely AI pro roboty, které slouží jako univerzální software pro řízení robotů různých tvarů.",
+      "slug": "exclusive-softbank-nvidia-looking-to-invest-in-ski",
+      "publishedAt": "2025-12-08T15:39:57+00:00",
+      "date": "2025-12-08 15:39:57",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--PTiJAD_i--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-08T154428Z_2_LYNXMPELB70XY_RTROPTP_3_ISRAEL-TECH-NVIDIA.JPG?itok=fAtk_Gwl",
+      "url": "/tech-news/2025-12-08/exclusive-softbank-nvidia-looking-to-invest-in-ski/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SoftBank",
+        "Nvidia",
+        "Skild AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Paramount spouští nepřátelskou nabídku na Warner Bros. Discovery navzdory dohodě s Netflixem",
+      "description": "Paramount zahajuje nepřátelskou akvizici Warner Bros. Discovery po prohře v licitačním boji s Netflixem. Nabídka za 30 dolarů za akcii je podpořena investory z Blízkého východu a firmou Affinity Partners.",
+      "slug": "paramount-launches-hostile-bid-for-warner-bros-dis",
+      "publishedAt": "2025-12-08T15:38:18+00:00",
+      "date": "2025-12-08 15:38:18",
+      "importance": 5,
+      "category": "mediální fúze",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/250904-paramount-studios-ew-315p-532e5d.jpg",
+      "url": "/tech-news/2025-12-08/paramount-launches-hostile-bid-for-warner-bros-dis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TODAY"
+      },
+      "companies": [
+        "Netflix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump podepíše výkonný příkaz bránící státům v regulaci AI",
+      "description": "Prezident Donald Trump oznámil, že podepíše výkonný příkaz svěřující federální vládě exkluzivní pravomoc nad umělou inteligencí a zakazující státům zavádět vlastní pravidla. Podle něj je nutné mít pouze jedno pravidlo, aby USA udržely vedení v závodě o AI.",
+      "slug": "trump-to-sign-executive-order-preventing-states-fr",
+      "publishedAt": "2025-12-08T15:35:45+00:00",
+      "date": "2025-12-08 15:35:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/AI-regulation.jpg",
+      "url": "/tech-news/2025-12-08/trump-to-sign-executive-order-preventing-states-fr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Intel uzavřel dohodu v hodnotě 14 miliard dolarů s indickou Tata na stavbu polovodičových továren, posiluje globální foundry strategii",
+      "description": "Intel navázal partnerství s Tata Electronics na výstavbu semiconductor fabrication facility v Gudžarátu a OSAT zařízení v Assamu v Indii. Spolupráce má hodnotu 14 miliard dolarů a zaměří se na výrobu čipů pro spotřební elektroniku a pokročilé balení.",
+      "slug": "intel-has-secured-a-massive-14-billion-deal-with-i",
+      "publishedAt": "2025-12-08T15:34:42+00:00",
+      "date": "2025-12-08 15:34:42",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/6936c91ec96e5-tata-intel-strategic-alliance-084825568-16x9-1.jpg",
+      "url": "/tech-news/2025-12-08/intel-has-secured-a-massive-14-billion-deal-with-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Intel",
+        "Tata Electronics"
+      ],
+      "people": []
+    },
     {
       "title": "Ray Dalio: Blízký východ se stává ‚Silicon Valley kapitalistů‘",
       "description": "Zakladatel Bridgewater Associates Ray Dalio porovnal rozvoj zemí Blízkého východu se Silicon Valley díky masivním investicím do AI infrastruktury. Spojené arabské emiráty a Saúdská Arábie tento rok spustily iniciativy v hodnotě miliard dolarů na výstavbu cloudů, datových center a AI zařízení.",
@@ -1850,26 +2038,6 @@
       "people": []
     },
     {
-      "title": "Autofokusové brýle sledují pohyb očí a přizpůsobují ostrost",
-      "description": "Finský startup IXI vyvíjí autofokusové brýle, které detekují pohyb očí pomocí eye-tracking senzorů a okamžitě upravují ostrost čoček díky tekutokryštálové technologii. Produkty jsou v závěrečné fázi vývoje a mají nahradit tradiční čtení brýle.",
-      "slug": "autofocus-glasses-watch-your-eyes-and-shift-their-",
-      "publishedAt": "2025-12-06T22:00:00+00:00",
-      "date": "2025-12-06 22:00:00",
-      "importance": 3,
-      "category": "chytré brýle",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/a1852b4/2147483647/strip/true/crop/3163x1661+0+224/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6f%2F7f%2F16e266e6459fb12c30bbbd530075%2Ffront-view-1.jpeg&na.image_optimisation=0",
-      "url": "/tech-news/2025-12-06/autofocus-glasses-watch-your-eyes-and-shift-their/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Atlas"
-      },
-      "companies": [
-        "IXI"
-      ],
-      "people": []
-    },
-    {
       "title": "Rozhovor: Spolupráce poháněná inovacemi s Čínou je nezbytná pro evropské firmy, říká expert",
       "description": "Jochum Haakma, předseda Nizozemsko-čínské obchodní rady, volá po prohlubování spolupráce v klíčových průmyslových sektorech mezi Čínou a Nizozemskem. Zdůrazňuje roli Číny jako partnera pro společné inovace v oblastech jako umělá inteligence, farmacie a baterie.",
       "slug": "interview-innovation-driven-cooperation-with-china",
@@ -1988,26 +2156,6 @@
       "people": []
     },
     {
-      "title": "Apple Watch zavolala 911 zraněnému turistovi",
-      "description": "Turista v Coloradu přežil pád z útesu díky funkci detekce pádů v Apple Watch Ultra 3, která automaticky zahájila volání záchranné služby 911. Přesto experti upozorňují na časté falešné poplachy této technologie.",
-      "slug": "apple-watch-calls-911-for-injured-hiker",
-      "publishedAt": "2025-12-06T20:30:00+00:00",
-      "date": "2025-12-06 20:30:00",
-      "importance": 3,
-      "category": "chytré hodinky",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1650809-12-20251206143002.jpeg",
-      "url": "/tech-news/2025-12-06/apple-watch-calls-911-for-injured-hiker/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Zuckerberg se vzdává metaverse po přejmenování celé společnosti na „Meta“",
       "description": "Společnost Meta plánuje až 30procentní škrtání rozpočtů pro projekty Horizon Worlds a VR brýle Quest. Tento krok přichází po ztrátě přes 70 miliard dolarů od roku 2021 a opakovaných propouštěních zaměstnanců.",
       "slug": "zuckerberg-basically-giving-up-on-metaverse-after-",
@@ -2066,24 +2214,6 @@
       "companies": [
         "Evaxion"
       ],
-      "people": []
-    },
-    {
-      "title": "Lze zakázat dětem sociální sítě? Austrálie to zkusí, ale teenageři jsou o krok napřed",
-      "description": "Australský zákon zakazující dětem do 16 let používat sociální sítě vstupuje tento týden v platnost, ale kritici pochybují o jeho vymahatelnosti – a dokonce o tom, zda by měl vůbec platit.",
-      "slug": "can-you-ban-kids-from-social-media-australia-is-ab",
-      "publishedAt": "2025-12-06T18:58:09+00:00",
-      "date": "2025-12-06 18:58:09",
-      "importance": 3,
-      "category": "sociální sítě",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2bf7/live/75176520-d1a2-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "/tech-news/2025-12-06/can-you-ban-kids-from-social-media-australia-is-ab/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -2252,26 +2382,6 @@
         "name": "Twistedsifter.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Appleův šéf čipů a senior viceprezident pro hardware technologie Johny Srouji údajně zvažuje odchod, společnost vyvinula maximální úsilí k jeho udržení",
-      "description": "Johny Srouji, architekt Appleových vlastních čipů, informoval Tima Cooka o úvahách o odchodu z firmy. Apple se ho snaží udržet všemi prostředky, zatímco v posledních dnech odešli další čtyři klíčoví manažeři.",
-      "slug": "apples-chip-guru-svp-of-hardware-technologies-john",
-      "publishedAt": "2025-12-06T17:54:08+00:00",
-      "date": "2025-12-06 17:54:08",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Johny-Srouji.jpg",
-      "url": "/tech-news/2025-12-06/apples-chip-guru-svp-of-hardware-technologies-john/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Apple"
-      ],
       "people": []
     },
     {
@@ -2873,26 +2983,6 @@
       "people": []
     },
     {
-      "title": "Akcie AST SpaceMobile (ASTS) vzrostly o 31,5 % před blížícím se spuštěním a rozšířením výroby satelitů příští generace",
-      "description": "Akcie AST SpaceMobile Inc. (NASDAQ:ASTS) patří k nejlepším výkonným titulům v pátek a vyskočily o 31,53 %. Investoři reagují na plánované spuštění satelitu BlueBird 6 a expanzi výrobních kapacit v USA.",
-      "slug": "ast-spacemobile-asts-soars-315-on-looming-launch-e",
-      "publishedAt": "2025-12-06T12:49:15+00:00",
-      "date": "2025-12-06 12:49:15",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gozL2k2t2OB_LgVOL8o8rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/insidermonkey.com/37e558926196530f0126ecb41a805571",
-      "url": "/tech-news/2025-12-06/ast-spacemobile-asts-soars-315-on-looming-launch-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "AST SpaceMobile"
-      ],
-      "people": []
-    },
-    {
       "title": "Když AI podvádí: Skrytá nebezpečí reward hacking",
       "description": "Nový výzkum Anthropic odhaluje, jak reward hacking v AI vede k nebezpečným chováním, včetně poskytování škodlivých rad jako pití bleachu uživatelům hledajícím pomoc.",
       "slug": "when-ai-cheats-the-hidden-dangers-of-reward-hackin",
@@ -3129,26 +3219,6 @@
         "SpaceX"
       ],
       "people": []
-    },
-    {
-      "title": "Zákon na regulaci deepfakes předložený v Lok Sabhě",
-      "description": "Zákon o regulaci deepfakes představil v pátek v indickém parlamentu vůdce strany Shiv Sena Shrikant Shinde. Cílem je ochrana občanů vyžadováním předchozího souhlasu osob zobrazených v takovém obsahu a stanovením trestů za zneužití.",
-      "slug": "bill-to-regulate-deepfakes-tabled-in-lok-sabha",
-      "publishedAt": "2025-12-06T09:39:19+00:00",
-      "date": "2025-12-06 09:39:19",
-      "importance": 3,
-      "category": "deepfakes",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wg1dnm/article70365176.ece/alternates/LANDSCAPE_1200/20251205465L.jpg",
-      "url": "/tech-news/2025-12-06/bill-to-regulate-deepfakes-tabled-in-lok-sabha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": [
-        "Shrikant Shinde"
-      ]
     },
     {
       "title": "Marvell (MRVL) získává cenový cíl 90 USD díky zrychlení v datových centrech",
@@ -3472,27 +3542,6 @@
       "people": []
     },
     {
-      "title": "Bernie Sanders opakuje varování papeže Lea XIV před umělou inteligencí: Technologie musí sloužit společnému dobru, ne koncentrovat bohatství a moc v Big Tech",
-      "description": "Senator Bernie Sanders v pátek podpořil výzvu papeže Lea XIV k etickému vývoji umělé inteligence. Zdůraznil, že lidé mají být spolupracovníky v procesu tvorby, nikoli jen pasivními spotřebiteli obsahu.",
-      "slug": "bernie-sanders-echoes-pope-leos-warning-on-ai-says",
-      "publishedAt": "2025-12-06T05:41:22+00:00",
-      "date": "2025-12-06 05:41:22",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/5d3fa665854bf303_s.webp",
-      "url": "/tech-news/2025-12-06/bernie-sanders-echoes-pope-leos-warning-on-ai-says/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": [
-        "Bernie Sanders",
-        "Pope Leo XIV"
-      ]
-    },
-    {
       "title": "Evropa nevidí průliv",
       "description": "Evropské heslo 'de-risking' nic neznamená, pokud nezohledňuje bezprostřední hrozbu pro Tchaj-wan. Analýza upozorňuje na rizika v Tchajwanském průlivu pro globální dodávky polovodičů.",
       "slug": "europe-cannot-see-strait",
@@ -3666,24 +3715,6 @@
       "people": []
     },
     {
-      "title": "Kanadská politička zatčena po tvrzení, že vyhrožující hlasovou zprávu vytvořila umělá inteligence",
-      "description": "Rada města v Ontariu Corinna Traill čelí trestním obviněním za vyhrožování zabitím bývalého kandidáta na starostu a útokem na jeho manželku v hlasové zprávě, kterou přisuzovala AI. Peterboroughská policie ji obvinila z dvou skutků vyhrožování.",
-      "slug": "canadian-politician-arrested-after-claiming-threat",
-      "publishedAt": "2025-12-06T01:01:25+00:00",
-      "date": "2025-12-06 01:01:25",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/split-of-corinna-traill-and-an-ai-symbol.jpg",
-      "url": "/tech-news/2025-12-06/canadian-politician-arrested-after-claiming-threat/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Desítky zaměstnanců Apple přešly do OpenAI a Meta v posledních měsících",
       "description": "Série odchodů vrchních manažerů z Apple doprovází přechody zaměstnanců nižších úrovní do konkurenčních firem. Podle Wall Street Journal desítky inženýrů a designérů z Apple zamířily do OpenAI a Meta, především v oblastech audio, designu hodinek a robotiky.",
       "slug": "dozens-of-apple-employees-have-moved-to-openai-and",
@@ -3809,24 +3840,6 @@
       "category": "genomika",
       "urlToImage": null,
       "url": "/tech-news/2025-12-06/comparative-genomics-analyses-reveal-genomic-varia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Uspořádání fasetovaných manganových oxidů pro selektivní elektrooxidaci ethylenu na ethylenglykol ve vodných elektrolytech",
-      "description": "Elektrooxidace ethylenu na ethylenglykol nabízí udržitelnou cestu pro chemickou výrobu, vyžaduje však selektivní elektrokatalyzátory z neprecious kovů. Autoři popisují nanoarrayové elektrody bohaté na (111) fasety Mn2O3, které dosahují vysoké selektivity v vodných elektrolytech.",
-      "slug": "arraying-faceted-manganese-oxides-for-selective-et",
-      "publishedAt": "2025-12-06T00:00:00+00:00",
-      "date": "2025-12-06 00:00:00",
-      "importance": 3,
-      "category": "elektrokatalýza",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/arraying-faceted-manganese-oxides-for-selective-et/",
       "source": {
         "emoji": "📰",
         "id": null,
