@@ -243,38 +243,107 @@ permalink: /llm/
     {% assign sorted_models = site.llm | sort: 'date' | reverse %}
     {% for model in sorted_models %}
     <article class="llm-card" data-provider="{{ model.provider | downcase }}">
-      <div class="card-header">
-        <span class="provider">{{ model.provider }}</span>
-        <time datetime="{{ model.date | date_to_xmlschema }}">{{ model.date | date: "%d. %m. %Y" }}</time>
+      <!-- Header s providerem a benchmark badge -->
+      <div class="card-header-new">
+        <div class="provider-badge">
+          {% assign provider_lower = model.provider | downcase %}
+          {% if provider_lower contains 'anthropic' %}
+            <span class="provider-emoji">🤖</span>
+          {% elsif provider_lower contains 'openai' %}
+            <span class="provider-emoji">🔮</span>
+          {% elsif provider_lower contains 'google' %}
+            <span class="provider-emoji">🔍</span>
+          {% elsif provider_lower contains 'x-ai' or provider_lower contains 'xai' %}
+            <span class="provider-emoji">🚀</span>
+          {% elsif provider_lower contains 'deepseek' %}
+            <span class="provider-emoji">🌊</span>
+          {% elsif provider_lower contains 'mistral' %}
+            <span class="provider-emoji">💨</span>
+          {% elsif provider_lower contains 'meta' %}
+            <span class="provider-emoji">🦙</span>
+          {% else %}
+            <span class="provider-emoji">🤖</span>
+          {% endif %}
+          <span class="provider-name">{{ model.provider }}</span>
+        </div>
+
+        {% if model.overall_score %}
+        <div class="score-badge score-tier-{{ model.overall_tier | downcase | replace: ' ', '-' }}">
+          <div class="score-number">{{ model.overall_score | round }}</div>
+          <div class="score-tier">{{ model.overall_tier }}</div>
+        </div>
+        {% endif %}
       </div>
 
-      <h2 class="card-title">
+      <!-- Název modelu -->
+      <h2 class="card-title-new">
         <a href="{{ model.url }}">{{ model.title }}</a>
       </h2>
 
-
-      <div class="card-tags">
+      <!-- Focus tagy -->
+      <div class="card-tags-new">
         {% for focus in model.focus limit:3 %}
-          <span class="tag">{{ focus }}</span>
+          <span class="tag-new">{{ focus }}</span>
         {% endfor %}
       </div>
 
+      <!-- Verdict/popis -->
       {% if model.verdict %}
-      <p class="card-verdict">{{ model.verdict | truncate: 150 }}</p>
+      <p class="card-verdict-new">{{ model.verdict | truncate: 150 }}</p>
       {% endif %}
 
-
-      <div class="card-pricing">
-        <span class="price {% if model.pricing.prompt_per_m == 0 %}free{% endif %}">
-          {% if model.pricing.prompt_per_m == 0 %}Zdarma{% else %}${{ model.pricing.prompt_per_m }}/1M{% endif %} -       <a href="{{ model.url }}" class="card-link">Detail modelu →</a>
-        </span>
-        <span class="arrow">→</span>
-        <span class="price {% if model.pricing.completion_per_m == 0 %}free{% endif %}">
-          {% if model.pricing.completion_per_m == 0 %}Zdarma{% else %}${{ model.pricing.completion_per_m }}/1M{% endif %} -       <a href="{{ model.url }}" class="card-link">Detail modelu →</a>
-        </span>
+      <!-- Pricing box - nový design -->
+      <div class="pricing-box">
+        <div class="pricing-row">
+          <div class="pricing-label">Cena vstup/výstup</div>
+          {% if model.pricing.blend_per_m %}
+            {% if model.pricing.blend_per_m == 0 %}
+              {% assign cost_class = "cost-free" %}
+            {% elsif model.pricing.blend_per_m < 1 %}
+              {% assign cost_class = "cost-cheap" %}
+            {% elsif model.pricing.blend_per_m < 5 %}
+              {% assign cost_class = "cost-moderate" %}
+            {% elsif model.pricing.blend_per_m < 15 %}
+              {% assign cost_class = "cost-expensive" %}
+            {% else %}
+              {% assign cost_class = "cost-premium" %}
+            {% endif %}
+          {% else %}
+            {% assign cost_class = "cost-moderate" %}
+          {% endif %}
+          <div class="cost-indicator {{ cost_class }}"></div>
+        </div>
+        <div class="pricing-values">
+          <span class="price-item">
+            <span class="price-icon">↓</span>
+            {% if model.pricing.prompt_per_m == 0 %}
+              <strong>Zdarma</strong>
+            {% else %}
+              <strong>${{ model.pricing.prompt_per_m }}</strong>/1M
+            {% endif %}
+          </span>
+          <span class="price-divider">→</span>
+          <span class="price-item">
+            <span class="price-icon">↑</span>
+            {% if model.pricing.completion_per_m == 0 %}
+              <strong>Zdarma</strong>
+            {% else %}
+              <strong>${{ model.pricing.completion_per_m }}</strong>/1M
+            {% endif %}
+          </span>
+        </div>
+        {% if model.pricing.blend_per_m %}
+        <div class="pricing-blend">
+          Průměr: <strong>${{ model.pricing.blend_per_m }}/1M</strong>
+        </div>
+        {% endif %}
       </div>
 
-
+      <!-- Datum a detail link -->
+      <div class="card-footer-new">
+        <time datetime="{{ model.date | date_to_xmlschema }}">{{ model.date | date: "%d. %m. %Y" }}</time>
+        <a href="{{ model.url }}" class="detail-link">Detail modelu →</a>
+      </div>
     </article>
     {% endfor %}
   </div>
@@ -483,125 +552,303 @@ permalink: /llm/
 /* Grid */
 .llm-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   gap: 1.5rem;
 }
 
-/* Karty */
+/* Nový design karty */
 .llm-card {
   background: white;
-  border-radius: 12px;
+  border-radius: 16px;
   padding: 1.5rem;
   border: 1px solid #e5e7eb;
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.llm-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 .llm-card:hover {
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+  transform: translateY(-4px);
+  border-color: #667eea;
+}
+
+.llm-card:hover::before {
+  opacity: 1;
 }
 
 .llm-card.hidden {
   display: none;
 }
 
-.card-header {
+/* Nový header s providerem a score badge */
+.card-header-new {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.75rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  gap: 1rem;
 }
 
-.provider {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 0.25rem 0.75rem;
-  border-radius: 1rem;
-  font-size: 0.75rem;
-  font-weight: 600;
-}
-
-.card-header time {
-  font-size: 0.8rem;
-  color: #6b7280;
-}
-
-.card-title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  line-height: 1.3;
-}
-
-.card-title a {
-  color: #111827;
-  text-decoration: none;
-}
-
-.card-title a:hover {
-  color: #3b82f6;
-}
-
-.card-id code {
-  background: #f3f4f6;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  font-size: 0.75rem;
-  color: #6b7280;
-}
-
-.card-pricing {
+.provider-badge {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  margin: 0.75rem 0;
-}
-
-.card-pricing .price {
+  background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
   font-weight: 600;
-  font-size: 0.9rem;
   color: #374151;
 }
 
-.card-pricing .price.free {
-  color: #10b981;
+.provider-emoji {
+  font-size: 1.1rem;
 }
 
-.card-pricing .arrow {
-  color: #9ca3af;
+.provider-name {
+  white-space: nowrap;
 }
 
-.card-tags {
+/* Score badge */
+.score-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 12px;
+  padding: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  flex-shrink: 0;
+}
+
+.score-number {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  color: white;
+}
+
+.score-tier {
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 0.2rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.score-tier-excelentní {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+}
+
+.score-tier-výborný {
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+}
+
+.score-tier-dobrý {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+}
+
+.score-tier-průměrný {
+  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+}
+
+.score-tier-slabý {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+}
+
+/* Název modelu */
+.card-title-new {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  line-height: 1.3;
+}
+
+.card-title-new a {
+  color: #111827;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.card-title-new a:hover {
+  color: #667eea;
+}
+
+/* Tagy */
+.card-tags-new {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25rem;
+  gap: 0.4rem;
   margin-bottom: 0.75rem;
 }
 
-.tag {
-  background: #dbeafe;
+.tag-new {
+  background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
   color: #1e40af;
-  padding: 0.15rem 0.5rem;
-  border-radius: 1rem;
+  padding: 0.25rem 0.65rem;
+  border-radius: 6px;
   font-size: 0.7rem;
+  font-weight: 600;
+  transition: all 0.2s;
 }
 
-.card-verdict {
+.tag-new:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(30, 64, 175, 0.2);
+}
+
+/* Verdict */
+.card-verdict-new {
   font-size: 0.9rem;
   color: #4b5563;
   line-height: 1.5;
   margin-bottom: 1rem;
 }
 
-.card-link {
-  color: #3b82f6;
-  text-decoration: none;
-  font-size: 0.9rem;
-  font-weight: 500;
+/* Nový pricing box */
+.pricing-box {
+  background: linear-gradient(135deg, #f9fafb 0%, #f3f4f6 100%);
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
-.card-link:hover {
-  text-decoration: underline;
+.pricing-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.pricing-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #6b7280;
+  letter-spacing: 0.5px;
+}
+
+/* Cost indicator - barevná tečka */
+.cost-indicator {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+
+.cost-free {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  box-shadow: 0 0 8px rgba(16, 185, 129, 0.5);
+}
+
+.cost-cheap {
+  background: linear-gradient(135deg, #34d399 0%, #10b981 100%);
+  box-shadow: 0 0 8px rgba(52, 211, 153, 0.5);
+}
+
+.cost-moderate {
+  background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+  box-shadow: 0 0 8px rgba(251, 191, 36, 0.5);
+}
+
+.cost-expensive {
+  background: linear-gradient(135deg, #fb923c 0%, #f97316 100%);
+  box-shadow: 0 0 8px rgba(251, 146, 60, 0.5);
+}
+
+.cost-premium {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+  box-shadow: 0 0 8px rgba(239, 68, 68, 0.5);
+}
+
+.pricing-values {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.price-item {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.9rem;
+  color: #374151;
+}
+
+.price-icon {
+  font-size: 1rem;
+  color: #9ca3af;
+}
+
+.price-item strong {
+  font-weight: 700;
+  color: #111827;
+}
+
+.price-divider {
+  color: #d1d5db;
+  font-weight: 300;
+}
+
+.pricing-blend {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #6b7280;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.pricing-blend strong {
+  color: #111827;
+  font-weight: 600;
+}
+
+/* Footer karty */
+.card-footer-new {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.card-footer-new time {
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
+
+.detail-link {
+  color: #667eea;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.detail-link:hover {
+  color: #764ba2;
+  transform: translateX(3px);
 }
 
 /* Empty state */
@@ -633,6 +880,24 @@ permalink: /llm/
 
   .llm-grid {
     grid-template-columns: 1fr;
+  }
+
+  .card-header-new {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .score-badge {
+    align-self: flex-end;
+  }
+
+  .pricing-values {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .price-divider {
+    transform: rotate(90deg);
   }
 }
 </style>
