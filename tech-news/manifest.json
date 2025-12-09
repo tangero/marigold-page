@@ -1,21 +1,79 @@
 {
-  "generated": "2025-12-09T01:21:26.972953+00:00",
+  "generated": "2025-12-09T04:41:47.804896+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Bod obratu v roce 2027: Strategický plán pro přežití",
-      "description": "Bod obratu představuje nátlakovou funkci a jedinečnou příležitost pro civilizaci dokázat nezbytnost lidského úsudku, kontextového porozumění a adaptivní inteligence v době, kdy umělá inteligence mění všechno okolo nás.",
-      "slug": "the-2027-inflection-point-a-strategic-blueprint-fo",
-      "publishedAt": "2025-12-08T00:16:00+00:00",
-      "date": "2025-12-08 00:16:00",
+      "title": "Akcie Ola Electric v centru pozornosti po zahájení masových dodávek vozidel s bateriemi 4680 Bharat Cell",
+      "description": "Ola Electric zahájila masové dodávky skútru S1 Pro+ s vlastně vyvinutou baterií 4680 Bharat Cell a stala se první indickou společností, která plně ovládá výrobu buněk i bateriových balíčů. Tento krok posiluje jejich pozici na trhu elektromobility a vedl k růstu akcií o 2,6 %.",
+      "slug": "ola-electric-shares-in-focus-as-co-begins-mass-del",
+      "publishedAt": "2025-12-08T03:24:05+00:00",
+      "date": "2025-12-08 03:24:05",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125825355,width-1200,height-630,imgsize-6784,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-08/ola-electric-shares-in-focus-as-co-begins-mass-del/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Ola Electric"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ranní shrnutí SSPAI: Netflix plánuje odkoupit filmové studio a streamovací divize Warner Bros. za 72 miliard USD",
+      "description": "Netflix dosáhl dohody o akvizici filmového studia Warner Bros. a streamovací služby HBO Max za 72 miliard USD v hotovosti a akciích. Warner Bros. Discovery nejdříve oddělí své kabelové sítě včetně CNN a prodá zbytek. Tato největší akvizice v historii Netflixu by měla být uzavřena do 12 až 18 měsíců.",
+      "slug": "sspai-morning-brief-netflix-plans-to-acquire-warne",
+      "publishedAt": "2025-12-08T02:36:40+00:00",
+      "date": "2025-12-08 02:36:40",
       "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-08/the-2027-inflection-point-a-strategic-blueprint-fo/",
+      "category": "streamovací průmysl",
+      "urlToImage": "https://sspai.me/wp-content/uploads/2025/11/d838ad40-ff09-e881-8679-2a9b5de90125-scaled.png",
+      "url": "/tech-news/2025-12-08/sspai-morning-brief-netflix-plans-to-acquire-warne/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Modernanalyst.com"
+        "name": "Sspai.me"
+      },
+      "companies": [
+        "Netflix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indické zpravodajství: Indie couvne od povinné předinstalace bezpečnostní aplikace",
+      "description": "Indická vláda ustupuje od plánu na povinnou předinstalaci bezpečnostní aplikace Sanchar Saathi po odporu veřejnosti a průmyslu. Globální AI společnosti jako Google a OpenAI navazují partnerství s indickými firmami na výstavbu AI datových center.",
+      "slug": "india-roundup-india-flip-flops-on-mandatory-securi",
+      "publishedAt": "2025-12-08T00:54:03+00:00",
+      "date": "2025-12-08 00:54:03",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251207vl200_files/2_2b.jpg",
+      "url": "/tech-news/2025-12-08/india-roundup-india-flip-flops-on-mandatory-securi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kongres schválil obranný zákon za 900 miliard dolarů cílený na Čínu s technologickými zákazy, restrikcemi investic a zvýšením platů vojákům",
+      "description": "Americký Kongres přijal obranný zákon v hodnotě 900 miliard dolarů, který posiluje ekonomickou a vojenskou konkurenci s Čínou prostřednictvím nových restrikcí na investice, zákazů čínských technologií v dodavatelských řetězcích Pentagonu a 4procentního zvýšení platů vojákům.",
+      "slug": "congress-unveils-900b-defense-bill-targeting-china",
+      "publishedAt": "2025-12-08T00:22:17+00:00",
+      "date": "2025-12-08 00:22:17",
+      "importance": 4,
+      "category": "obranné technologie",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/us-capitol-building.jpg",
+      "url": "/tech-news/2025-12-08/congress-unveils-900b-defense-bill-targeting-china/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
       },
       "companies": [],
       "people": []
@@ -2389,27 +2447,6 @@
       "people": []
     },
     {
-      "title": "Accenture investuje do nástroje pro rychlejší pochopení chování zákazníků",
-      "description": "Accenture provedl strategickou investici do platformy WEVO, která využívá generativní AI k simulaci a validaci uživatelského chování před uvedením nových produktů nebo služeb. Investici vede Accenture Ventures a má posílit integraci AI do výzkumu zákazníků.",
-      "slug": "accenture-backs-tool-that-reads-customer-minds-fas",
-      "publishedAt": "2025-12-06T15:03:17+00:00",
-      "date": "2025-12-06 15:03:17",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/12/shutterstock_2299281325-scaled.jpg",
-      "url": "/tech-news/2025-12-06/accenture-backs-tool-that-reads-customer-minds-fas/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "Accenture",
-        "WEVO"
-      ],
-      "people": []
-    },
-    {
       "title": "Jak postavit AI podpůrného agenta pro váš podnik během pouhých 12 minut (bez kódování)",
       "description": "No-code platformy umožňují vytvořit plně funkčního AI agenta pro zákaznickou podporu rychleji, než trvá uvařit ranní kávu. Článek popisuje krok za krokem proces pomocí nástroje Chatbase, který přeměňuje surová data na responzivního asistenta bez programování.",
       "slug": "how-to-build-an-ai-support-agent-for-your-business",
@@ -2651,28 +2688,6 @@
         "name": "Futurism"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "1 Riskantní ETF, Kterému se Chcete Vyhnout Koupit v Prosinci",
-      "description": "Klíčové body\n-\nVanguard Information Technology ETF (VGT) překonal všechny tři hlavní indexy do listopadu.\n-\nNvidia, Apple a Microsoft tvoří více než 45 % VGT.\nTechnologický sektor je v posledních několika letech v klanci, zejména protože t…",
-      "slug": "A-1-risky-etf-you-want-to-avoid-buying-in-december",
-      "publishedAt": "2025-12-06T13:07:46+00:00",
-      "date": "2025-12-06 13:07:46",
-      "importance": 3,
-      "category": "technologické etf",
-      "urlToImage": "https://biztoc.com/cdn/bc0df27264977092_s.webp",
-      "url": "/tech-news/2025-12-06/A-1-risky-etf-you-want-to-avoid-buying-in-december/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Apple",
-        "Microsoft"
-      ],
       "people": []
     },
     {
@@ -3476,26 +3491,6 @@
         "name": "Live Science"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "AeroVironment jmenuje Milancy Harris viceprezidentkou a hlavní bezpečnostní ředitelkou",
-      "description": "Společnost AeroVironment, Inc. (NASDAQ: AVAV) oznámila, že Milancy Harris nastoupila do funkce viceprezidentky a hlavní bezpečnostní ředitelky (CSO). S dlouholetými zkušenostmi z národní bezpečnosti USA má posílit ochranu zaměstnanců, programů a technologií firmy.",
-      "slug": "aerovironment-hires-milancy-harris-as-vice-preside",
-      "publishedAt": "2025-12-06T03:32:32+00:00",
-      "date": "2025-12-06 03:32:32",
-      "importance": 3,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d72eaf7/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2Fa4%2F2047883aa26aece0c9cd958eedb7%2F6368abb8e856b9c99ad7ff508810b199",
-      "url": "/tech-news/2025-12-06/aerovironment-hires-milancy-harris-as-vice-preside/",
-      "source": {
-        "emoji": "📰",
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "companies": [
-        "AeroVironment"
-      ],
       "people": []
     },
     {
