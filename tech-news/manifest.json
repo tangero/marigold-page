@@ -1,7 +1,261 @@
 {
-  "generated": "2025-12-10T01:19:51.972934+00:00",
+  "generated": "2025-12-10T05:01:54.535200+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Emergent získal strategickou investici z fondu Google AI Futures Fund",
+      "description": "Společnost Emergent, založená v roce 2025 bratry Mukundem a Madhavem Jha, oznámila strategickou investici od fondu Google AI Futures Fund. Tato platforma pro agentické intuitivní kódování umožňuje netechnickým uživatelům vytvářet plně funkční full-stack aplikace pomocí autonomních AI agentů a během pěti měsíců od spuštění dosáhla 2,5 milionu uživatelů a ročního tempa opakovaných příjmů přes 25 milionů dolarů.",
+      "slug": "emergent-gets-strategic-investment-from-googles-ai",
+      "publishedAt": "2025-12-09T04:26:49+00:00",
+      "date": "2025-12-09 04:26:49",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-622275,resizemode-75,msid-125861290/tech/funding/emergent-gets-strategic-investment-from-googles-ai-futures-fund.jpg",
+      "url": "/tech-news/2025-12-09/emergent-gets-strategic-investment-from-googles-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Emergent",
+        "Google"
+      ],
+      "people": [
+        "Mukund Jha",
+        "Madhav Jha"
+      ]
+    },
+    {
+      "title": "Čipová válka mezi USA a Čínou v datech",
+      "description": "Prezident Donald Trump oznámil, že USA povolily prodej AI čipů od Nvidia do Číny. AFP shrnuje chronologii sporu o tuto klíčovou technologii pro umělou inteligenci.",
+      "slug": "the-us-china-chip-war-in-dates",
+      "publishedAt": "2025-12-09T04:18:26+00:00",
+      "date": "2025-12-09 04:18:26",
+      "importance": 4,
+      "category": "čipová válka",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41670,resizemode-75,msid-125861184/tech/technology/the-us-china-chip-war-in-dates.jpg",
+      "url": "/tech-news/2025-12-09/the-us-china-chip-war-in-dates/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Pokroky umělé inteligence v navigaci robotů na Mezinárodní vesmírné stanici",
+      "description": "Výzkumníci ze Stanfordu jako první prokázali, že řízení založené na strojovém učení dokáže fungovat na palubě ISS. Nový systém umožňuje autonomní navigaci robota Astrobee v komplikovaném prostředí stanice, což uvolňuje astronauty pro jiné úkoly.",
+      "slug": "ai-advances-robot-navigation-on-the-international-",
+      "publishedAt": "2025-12-09T03:10:59+00:00",
+      "date": "2025-12-09 03:10:59",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.spxdaily.com/images-hg/astrobee-mini-robots-practise-grasping-space-debris-hg.jpg",
+      "url": "/tech-news/2025-12-09/ai-advances-robot-navigation-on-the-international/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tata a Intel posilují výrobu polovodičů v Indii dohodou o dodavatelském řetězci čipů a AI PC",
+      "description": "Tata Electronics získala Intel jako potenciálního zákazníka v rámci snahy posílit domácí dodavatelský řetězec elektroniky a polovodičů v Indii. Spolupráce zahrnuje výrobu čipů a škálování AI PC řešení pro místní trh.",
+      "slug": "tata-intel-deepen-india-semiconductor-push-with-pa",
+      "publishedAt": "2025-12-09T03:00:57+00:00",
+      "date": "2025-12-09 03:00:57",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211579-1760409998231-gettyimages-2228175388-INDIA_TATA.jpeg?v=1765243953&w=1920&h=1080",
+      "url": "/tech-news/2025-12-09/tata-intel-deepen-india-semiconductor-push-with-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Tata Electronics",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump oznámil, že Čína zaplatí USA „25 %“ výměnou za pokročilé AI čipy",
+      "description": "Prezident Donald Trump oznámil, že umožní společnosti NVIDIA prodávat své pokročilé H200 AI čipy schváleným zákazníkům v Číně. Výměnou má Čína zaplatit USA 25 procent, což podle něj podpoří americké pracovní místa a výrobu.",
+      "slug": "trump-announces-that-china-will-pay-the-us-25-in-e",
+      "publishedAt": "2025-12-09T02:53:05+00:00",
+      "date": "2025-12-09 02:53:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/11/trump-18-scaled.jpeg",
+      "url": "/tech-news/2025-12-09/trump-announces-that-china-will-pay-the-us-25-in-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mediaite"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Více nástrojů AI přijde v průběhu dní nebo týdnů, říká šéf R&D Pentagonu",
+      "description": "Široké nasazení umělé inteligence je nyní na vrcholu priorit Emila Michaela.",
+      "slug": "more-ai-tools-coming-in-days-or-weeks-pentagon-rd-",
+      "publishedAt": "2025-12-09T02:43:57+00:00",
+      "date": "2025-12-09 02:43:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2025/12/08/emil_GettyImages_2225411526/open-graph.jpg",
+      "url": "/tech-news/2025-12-09/more-ai-tools-coming-in-days-or-weeks-pentagon-rd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Defense One"
+      },
+      "companies": [],
+      "people": [
+        "Emil Michael"
+      ]
+    },
+    {
+      "title": "Trump oznámil, že USA povolí export čipů Nvidia H200 do Číny",
+      "description": "Prezident Donald Trump prohlásil, že USA umožní společnosti Nvidia exportovat pokročilé čipy H200 do Číny po dohodě s prezidentem Si Ťin-pchingem. Tento krok představuje významný odklon od předchozí politiky omezení přístupu Číny k high-tech čipům kvůli obavám z vojenských využití.",
+      "slug": "trump-says-us-will-export-nvidia-h200-chips-to-chi",
+      "publishedAt": "2025-12-09T02:35:00+00:00",
+      "date": "2025-12-09 02:35:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://static.dw.com/image/74722890_6.jpg",
+      "url": "/tech-news/2025-12-09/trump-says-us-will-export-nvidia-h200-chips-to-chi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DW (English)"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump oznámil podpis výkonného příkazu omezujícího státní regulace umělé inteligence",
+      "description": "Prezident Donald Trump prohlásil, že tento týden podepíše výkonný příkaz zavádějící „jedno pravidlo“ pro umělou inteligenci, které omezí státní politiky regulující tuto technologii. Cílem je zabránit situaci, kdy firmy musí získávat schválení v padesáti státech.",
+      "slug": "trump-says-hell-sign-executive-order-curbing-state",
+      "publishedAt": "2025-12-09T02:12:34+00:00",
+      "date": "2025-12-09 02:12:34",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-12%2Fzgwhlyqo%2F444058724.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-09/trump-says-hell-sign-executive-order-curbing-state/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump schvaluje prodej pokročilejších čipů Nvidia pro AI do Číny",
+      "description": "Prezident Donald Trump povolil společnosti Nvidia prodat svůj čip H200, používaný při vývoji umělé inteligence, schváleným zákazníkům v Číně. Rozhodnutí vyvažuje ekonomické zájmy amerických firem s obavami z národní bezpečnosti.",
+      "slug": "trump-approves-sale-of-more-advanced-nvidia-comput",
+      "publishedAt": "2025-12-09T01:41:55+00:00",
+      "date": "2025-12-09 01:41:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.abcnewsfe.com/a/88088e97-8c58-4d85-995e-4d0638ee9606/wirestory_4c27557998c21e088a91a067a76b6b8a_16x9.jpg?w=1600",
+      "url": "/tech-news/2025-12-09/trump-approves-sale-of-more-advanced-nvidia-comput/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "CIO fondu Aware Super varuje před oranžovými signály v financování AI při rostoucích valuacích",
+      "description": "CIO australského penzijního fondu Aware Super upozorňuje na 'oranžová světla' v některých finančních strukturách globálního průmyslu umělé inteligence, kde rostou valuace akcií. Zatímco růst zisků podporuje současné ceny, objevují se rizika v podobě kruhového financování datových center a infrastruktury AI.",
+      "slug": "aware-super-cio-warns-of-orange-lights-in-ai-finan",
+      "publishedAt": "2025-12-09T01:39:10+00:00",
+      "date": "2025-12-09 01:39:10",
+      "importance": 4,
+      "category": "financování ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+      "url": "/tech-news/2025-12-09/aware-super-cio-warns-of-orange-lights-in-ai-finan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Prezident Trump souhlasí s prodejem výkonnějších H200 GPU od Nvidia čínským firmám",
+      "description": "Americký prezident Donald Trump oznámil na sociálních sítích, že dovolí společnosti Nvidia prodávat své grafické procesory H200 schváleným zákazníkům v Číně, což představuje obrat v předchozí politice zakazující export těchto čipů do země.",
+      "slug": "president-trump-agrees-to-let-nvidia-sell-more-pow",
+      "publishedAt": "2025-12-09T01:35:33+00:00",
+      "date": "2025-12-09 01:35:33",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/AA1MYsde.jpeg",
+      "url": "/tech-news/2025-12-09/president-trump-agrees-to-let-nvidia-sell-more-pow/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump prohlásil, že USA umožní prodej AI čipů Nvidia do Číny",
+      "description": "Prezident Donald Trump oznámil dohodu s prezidentem Si Ťin-pchingem, která umožní společnosti Nvidia exportovat pokročilé čipy pro umělou inteligenci H200 do Číny. Rozhodnutí znamená změnu oproti restrikcím předchozí administrativy kvůli obavám z vojenských aplikací v Číně.",
+      "slug": "trump-says-us-will-allow-sale-of-nvidia-ai-chips-t",
+      "publishedAt": "2025-12-09T01:27:33+00:00",
+      "date": "2025-12-09 01:27:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/5de45c1b708ed1ca644875f0ecda6015214ae210.jpg",
+      "url": "/tech-news/2025-12-09/trump-says-us-will-allow-sale-of-nvidia-ai-chips-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump",
+        "Xi Jinping"
+      ]
+    },
     {
       "title": "Trump oznámil, že umožní Nvidia prodávat pokročilé čipy do Číny",
       "description": "Prezident Trump prohlásil, že USA umožní Nvidia prodávat své pokročilé čipy H200 do Číny schváleným zákazníkům a vezme si 25% podíl z těchto prodejů. Rozhodnutí neplatí pro ještě pokročilejší systémy Blackwell a Rubin.",
@@ -16,28 +270,6 @@
         "emoji": "📺",
         "id": "cbs-news",
         "name": "CBS News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump schvaluje prodej pokročilejších čipů Nvidia pro AI do Číny",
-      "description": "Prezident Donald Trump oznámil, že umožní společnosti Nvidia prodávat svůj čip H200, používaný ve vývoji umělé inteligence, schváleným zákazníkům v Číně. Rozhodnutí vyvažuje ekonomické zájmy USA s obavami z národní bezpečnosti.",
-      "slug": "trump-approves-sale-of-more-advanced-nvidia-comput",
-      "publishedAt": "2025-12-09T00:12:20+00:00",
-      "date": "2025-12-09 00:12:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJUCZWWRWR47AZI2P6JJH7N7IIY.jpg?auth=15ce5ef1293d045292f23657ef1132fd20c9f95f79b1a1b544d38fa93d2443c1&width=1200&height=630&smart=true",
-      "url": "/tech-news/2025-12-09/trump-approves-sale-of-more-advanced-nvidia-comput/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WSB Atlanta"
       },
       "companies": [
         "Nvidia"
@@ -2538,26 +2770,6 @@
       "people": []
     },
     {
-      "title": "Evaxion představuje nová data pro EVX-04, kandidáta na vakcínu proti rakovině pro akutní myelální leukémii na výročním zasedání ASH",
-      "description": "Společnost Evaxion A/S oznámila nová preklinická data pro vakcínu EVX-04 proti akutní myelální leukémii (AML), která vyvolává silné specifické T-buněčné odpovědi a brání růstu nádorů. Data byla prezentována na výročním zasedání Americké společnosti pro hematologii (ASH) v Orlandu.",
-      "slug": "evaxion-presents-new-data-for-evx-04-a-cancer-vacc",
-      "publishedAt": "2025-12-06T19:00:00+00:00",
-      "date": "2025-12-06 19:00:00",
-      "importance": 3,
-      "category": "biotechnologie",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/19d0d69c-7f37-4d3b-8f26-2866d4ec3311",
-      "url": "/tech-news/2025-12-06/evaxion-presents-new-data-for-evx-04-a-cancer-vacc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Evaxion"
-      ],
-      "people": []
-    },
-    {
       "title": "Paradox efektivity: 5 tržních anomálií obchodovaných pod reálnou hodnotou",
       "description": "Článek analyzuje situace, kdy trh efektivně ignoruje silné fundamenty v subsektorech jako biotechnologie. Zaměřuje se na pět podhodnocených firem, včetně Oncolytics Biotech, která dosáhla shody s FDA na designu klíčové klinické studie.",
       "slug": "the-efficiency-paradox-5-market-anomalies-trading-",
@@ -2571,24 +2783,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Hegseth zdůrazní obnovu 'Arsenálu svobody' v projevu na Reaganově fóru národní obrany",
-      "description": "Tajemník války Pete Hegseth bude v hlavním projevu na Reaganově fóru národní obrany hovořit o obnově 'Arsenálu svobody'. Předem zveřejnil video, v němž slibuje změny v obranném průmyslu včetně otevřené architektury a zaměření na AI.",
-      "slug": "hegseth-to-highlight-rebuilding-the-arsenal-of-fre",
-      "publishedAt": "2025-12-06T18:46:22+00:00",
-      "date": "2025-12-06 18:46:22",
-      "importance": 3,
-      "category": "obranný průmysl",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/secretary-of-war-pete-hegseth.jpg",
-      "url": "/tech-news/2025-12-06/hegseth-to-highlight-rebuilding-the-arsenal-of-fre/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
       },
       "companies": [],
       "people": []
@@ -2878,24 +3072,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Bestadsontv.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak AI lékařský zapisovatel zachránil mou praxi",
-      "description": "Autor popisuje etické dilemata při použití velkého jazykového modelu (LLM) při psaní románu a naznačuje, jak podobné technologie ovlivňují i lékařskou praxi. Při práci s GPT-4 zjistil limity AI v kreativitě, ale oceňuje její roli v efektivitě.",
-      "slug": "how-an-ai-medical-scribe-saved-my-practice",
-      "publishedAt": "2025-12-06T16:00:39+00:00",
-      "date": "2025-12-06 16:00:39",
-      "importance": 3,
-      "category": "medicínská ai",
-      "urlToImage": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_h62u54h62u54h62u-1024x717.png",
-      "url": "/tech-news/2025-12-06/how-an-ai-medical-scribe-saved-my-practice/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Kevinmd.com"
       },
       "companies": [],
       "people": []
@@ -3230,26 +3406,6 @@
       "people": []
     },
     {
-      "title": "Nadace Gatesová prodává akcie Microsoftu – Měli by investoři být znepokojení?",
-      "description": "Nadace Gatesová prodala 65 % svého podílu v Microsoftu, analytici však toto rozhodnutí označují za přebalancování portfolia, nikoli za projev ztráty důvěry, což akcie MSFT činí atraktivní k nákupu.",
-      "slug": "gates-foundation-sells-msft-stockshould-investors-",
-      "publishedAt": "2025-12-06T12:21:00+00:00",
-      "date": "2025-12-06 12:21:00",
-      "importance": 3,
-      "category": "technologické akcie",
-      "urlToImage": "https://media.zenfs.com/en/marketbeat_955/aa28564e1dc8cd8440fef3d4c0dba7bd",
-      "url": "/tech-news/2025-12-06/gates-foundation-sells-msft-stockshould-investors/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MarketBeat"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Oznámeno první škálovatelné úložiště dat na bázi DNA s kapacitou 60 PB v 60 kubických palcích, postačí na 660 000 filmů v 4K – Atlas Data Storage tvrdí 1000násobnou hustotu oproti LTO-10 pásce",
       "description": "Společnost Atlas Data Storage oznámila svůj první komerční produkt Atlas Eon 100, což je škálovatelné úložiště dat využívající technologii DNA. Řešení slibuje extrémní hustotu úložiště a dlouhodobou stabilitu bez potřeby obnovování dat.",
       "slug": "worlds-first-scalable-dna-data-storage-offering-an",
@@ -3344,26 +3500,6 @@
       },
       "companies": [
         "Asseta AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od diskusních fór k řízení peněz: Jak dva obchodníci proměnili svůj Discord chat v investiční fond",
-      "description": "Dvojice soukromých investorů, kteří se setkali na Discordu, založila investiční fond. Tvrdí, že sociální sítě jsou plné talentovaných obchodníků.",
-      "slug": "from-message-boards-to-money-management-how-2-trad",
-      "publishedAt": "2025-12-06T10:30:03+00:00",
-      "date": "2025-12-06 10:30:03",
-      "importance": 3,
-      "category": "fintech",
-      "urlToImage": "https://i.insider.com/69331d1a7ecd1d1da66306b1?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-06/from-message-boards-to-money-management-how-2-trad/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Discord"
       ],
       "people": []
     },
@@ -3469,24 +3605,6 @@
       ]
     },
     {
-      "title": "Jak čínští solopreneuři využívají umělou inteligenci k prolomení těžkého trhu práce",
-      "description": "Čínský boom umělé inteligence vytváří novou skupinu solopreneurů, kteří díky technologii proměňují své podnikatelské nápady v realitu. To nabízí naději v jinak neperspektivním trhu práce bez oficiálních statistik.",
-      "slug": "how-chinas-solopreneurs-are-using-ai-to-crack-a-to",
-      "publishedAt": "2025-12-06T08:06:53+00:00",
-      "date": "2025-12-06 08:06:53",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/ba6701f58cf5c7e1_s.webp",
-      "url": "/tech-news/2025-12-06/how-chinas-solopreneurs-are-using-ai-to-crack-a-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Velká Británie chce odemknout ‚zlatý věk jaderné energie‘, ale čelí klíčovým výzvám při obnovení historického vedení",
       "description": "Geopolitika a energetická transformace vrátili jadernou energii na veřejné pořady dne.",
       "slug": "the-uk-wants-to-unlock-a-golden-age-of-nuclear-but",
@@ -3500,44 +3618,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Evropská unie vyšetřuje AI pravidla společnosti Meta",
-      "description": "Evropská komise zahájila antitrustní vyšetřování nových AI pravidel Meta pro WhatsApp. Vyšetřování se zaměřuje na obavy, že tato pravidla omezují externí AI poskytovatele a upřednostňují služby samotného Meta.",
-      "slug": "eu-probes-metas-ai-policies",
-      "publishedAt": "2025-12-06T07:46:27+00:00",
-      "date": "2025-12-06 07:46:27",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "url": "/tech-news/2025-12-06/eu-probes-metas-ai-policies/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nep123.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Budoucnost digitálního marketingu: Co musí firmy vědět",
-      "description": "Budoucnost digitálního marketingu: Co musí firmy vědět popisuje klíčové trendy a strategie, které značky potřebují k udržení náskoku v digitálním prostředí.",
-      "slug": "future-of-digital-marketing-what-businesses-must-k",
-      "publishedAt": "2025-12-06T06:18:27+00:00",
-      "date": "2025-12-06 06:18:27",
-      "importance": 3,
-      "category": "digitální marketing",
-      "urlToImage": "http://xpernodigital.com/wp-content/uploads/2025/12/Future-of-Digital-Marketing-What-Businesses-Must-Know-scaled.jpg",
-      "url": "/tech-news/2025-12-06/future-of-digital-marketing-what-businesses-must-k/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Xpernodigital.com"
       },
       "companies": [],
       "people": []
@@ -3597,24 +3677,6 @@
       "people": []
     },
     {
-      "title": "Německo nasazuje izraelský protiraketový systém Arrow 3 uprostřed rostoucího napětí s Ruskem",
-      "description": "Německo zahájilo provoz prvních komponent izraelského protiraketového systému Arrow 3 v rámci dohody v hodnotě 3,8 miliardy eur, což představuje největší izraelský export zbraní. Nasazení reaguje na ruskou invazi na Ukrajinu a rostoucí bezpečnostní obavy v Evropě.",
-      "slug": "germany-deploys-israeli-arrow-3-missile-defense-sy",
-      "publishedAt": "2025-12-06T06:00:00+00:00",
-      "date": "2025-12-06 06:00:00",
-      "importance": 3,
-      "category": "protiraketová obrana",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Germany-Flag-Building.jpg",
-      "url": "/tech-news/2025-12-06/germany-deploys-israeli-arrow-3-missile-defense-sy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Manifest rezonančního výpočtu",
       "description": "Technologie by měla vyzdvihovat to nejlepší v lidstvu, ne to nejhorší – manifest pro rezonanční výpočty postavený na pěti principech, které odmítají hyper-scale extrakci ve prospěch lidského rozkvětu.",
       "slug": "resonant-computing-manifesto",
@@ -3628,24 +3690,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Resonantcomputing.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Evropa nevidí průliv",
-      "description": "Evropské heslo 'de-risking' nic neznamená, pokud nezohledňuje bezprostřední hrozbu pro Tchaj-wan. Analýza upozorňuje na rizika v Tchajwanském průlivu pro globální dodávky polovodičů.",
-      "slug": "europe-cannot-see-strait",
-      "publishedAt": "2025-12-06T05:00:18+00:00",
-      "date": "2025-12-06 05:00:18",
-      "importance": 3,
-      "category": "polovodiče",
-      "urlToImage": "https://www.euractiv.com/content/uploads/sites/2/2025/12/BT1-1400x788.png",
-      "url": "/tech-news/2025-12-06/europe-cannot-see-strait/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "EURACTIV"
       },
       "companies": [],
       "people": []
@@ -3803,24 +3847,6 @@
       "companies": [
         "SpaceX"
       ],
-      "people": []
-    },
-    {
-      "title": "Vláda investuje do kanadského obranného ekosystému po celé zemi",
-      "description": "V neustále se vyvíjející globální hrozicí krajině musí Kanada podniknout kroky k posílení svých domácích schopností, aby obhajovala naše zájmy, zajistila naši suverenitu a formovala naši budoucnost. Jak pokračujeme v obnově, přezbrojení a reinvestování do Canadian Armed Forces (CA…",
-      "slug": "government-invests-in-canadian-defence-ecosystem-a",
-      "publishedAt": "2025-12-06T00:30:10+00:00",
-      "date": "2025-12-06 00:30:10",
-      "importance": 3,
-      "category": "obranný průmysl",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/government-invests-in-canadian-defence-ecosystem-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "companies": [],
       "people": []
     },
     {
