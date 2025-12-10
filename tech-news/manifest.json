@@ -1,7 +1,89 @@
 {
-  "generated": "2025-12-10T12:48:11.347235+00:00",
+  "generated": "2025-12-10T17:06:10.050708+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Microsoft investuje 17,5 miliardy dolarů do Indie do roku 2029 v závodě o umělou inteligenci",
+      "description": "Jedná se o největší investici Microsoftu v Asii, zaměřenou na rozšíření AI a cloudových služeb v Indii.",
+      "slug": "microsoft-to-invest-175b-in-india-by-2029-as-ai-ra",
+      "publishedAt": "2025-12-09T16:20:12+00:00",
+      "date": "2025-12-09 16:20:12",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/12D.MiF21Y.LS.BLZj1Kzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/279e2d490c742557ec0a8c46adbf247d",
+      "url": "/tech-news/2025-12-09/microsoft-to-invest-175b-in-india-by-2029-as-ai-ra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Budoucnost je zde: Proč Apple Intelligence mění produktivitu",
+      "description": "Apple Intelligence přináší sadu uměle inteligentních funkcí do zařízení Apple, které zvyšují efektivitu práce podobně jako kdysi smartphony nebo cloudové úložiště. Tyto nástroje zpracovávají data přímo na zařízení a integrují se s ekosystémem iOS, iPadOS a macOS.",
+      "slug": "the-future-is-now-why-apple-intelligence-is-a-game",
+      "publishedAt": "2025-12-09T15:40:39+00:00",
+      "date": "2025-12-09 15:40:39",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.asianefficiency.com/wp-content/uploads/2025/08/laptop-with-camera-glasses-table-scaled.jpg",
+      "url": "/tech-news/2025-12-09/the-future-is-now-why-apple-intelligence-is-a-game/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Asianefficiency.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Americká vláda zastavila pašeráckou operaci v hodnotě 160 milionů dolarů s Nvidia H200 čipy do Číny, GPU už nebudou plně omezená",
+      "description": "Ministerstvo spravedlnosti USA zabavilo Nvidia technologie v hodnotě přes 50 milionů dolarů. H200 čipy budou moci jít do Číny s 25procentním poplatkem.",
+      "slug": "the-us-gov-shut-down-a-160-million-smuggling-opera",
+      "publishedAt": "2025-12-09T15:37:08+00:00",
+      "date": "2025-12-09 15:37:08",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jY4T9qtnQJh2MSVgPD2Sc4-1920-80.jpg",
+      "url": "/tech-news/2025-12-09/the-us-gov-shut-down-a-160-million-smuggling-opera/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PC Gamer"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Americké úřady odhalily pašeráckou síť Nvidia H200 do Číny, Trump současně povoluje jejich export",
+      "description": "Tři američtí podnikatelé čelí obvinění z pašování Nvidia GPU v hodnotě stovek milionů dolarů do Číny, což podle ministerstva spravedlnosti ohrožuje národní bezpečnost USA. Prezident Trump mezitím schválil export modelů H200 s 25procentní daní pro Washington.",
+      "slug": "feds-bust-nefarious-plot-to-ship-nvidia-h200s-to-c",
+      "publishedAt": "2025-12-09T15:28:54+00:00",
+      "date": "2025-12-09 15:28:54",
+      "importance": 4,
+      "category": "exportní sankce",
+      "urlToImage": "https://regmedia.co.uk/2018/02/16/jail_shutterstock.jpg",
+      "url": "/tech-news/2025-12-09/feds-bust-nefarious-plot-to-ship-nvidia-h200s-to-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
     {
       "title": "Videá generovaná umělou inteligencí zaplavila sociální sítě. Nikdo nebyl připravený",
       "description": "Videá vytvořená modely umělé inteligence, jako je OpenAI Sora, rychle zaplavila platformy jako TikTok a Instagram. Tento nápor odhalil nedostatečnou připravenost platforem i uživatelů na odlišení skutečného obsahu od generovaného.",
@@ -3072,24 +3154,6 @@
       "people": []
     },
     {
-      "title": "Naše nenasytná touha po inovacích nás brzy bude stát víc než jen pracovní místa a soukromí",
-      "description": "Jak vysoká cena je příliš vysoká?",
-      "slug": "our-insatiable-thirst-for-innovation-is-about-to-c",
-      "publishedAt": "2025-12-06T20:48:22+00:00",
-      "date": "2025-12-06 20:48:22",
-      "importance": 4,
-      "category": "inovace",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Code.jpg",
-      "url": "/tech-news/2025-12-06/our-insatiable-thirst-for-innovation-is-about-to-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Zuckerberg se vzdává metaverse po přejmenování celé společnosti na „Meta“",
       "description": "Společnost Meta plánuje až 30procentní škrtání rozpočtů pro projekty Horizon Worlds a VR brýle Quest. Tento krok přichází po ztrátě přes 70 miliard dolarů od roku 2021 a opakovaných propouštěních zaměstnanců.",
       "slug": "zuckerberg-basically-giving-up-on-metaverse-after-",
@@ -3288,24 +3352,6 @@
       ]
     },
     {
-      "title": "Budoucí zaměstnanci a firmy se vyrovnávají s rychle se měnícím světem umělé inteligence",
-      "description": "Nedávné propouštění zaměstnanců, především v technologických firmách, vyvolalo obavy z vlivu umělé inteligence na pracovní trh. Lidé se zapisují do vzdělávacích programů zaměřených na dovednosti v AI, aby udrželi krok s technologickými změnami.",
-      "slug": "prospective-employees-companies-negotiate-fast-cha",
-      "publishedAt": "2025-12-06T15:00:09+00:00",
-      "date": "2025-12-06 15:00:09",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/TDP-L-AIpolicereport052225-cha-205.jpg?w=1024&h=682",
-      "url": "/tech-news/2025-12-06/prospective-employees-companies-negotiate-fast-cha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tento týden nejzajímavější technologické příběhy z webu (do 6. prosince)",
       "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Tento souhrn přináší klíčové novinky z oblastí výpočetní techniky, umělé inteligence a dalších disciplín.",
       "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
@@ -3460,24 +3506,6 @@
       "people": []
     },
     {
-      "title": "Vězni šokováni objevem, že startup trénuje AI na jejich telefonních hovorech",
-      "description": "„Neexistuje žádný jiný způsob, jak komunikovat s rodinou.“ Firma Securus Technologies využívá nahrávky hovorů vězňů k trénování AI modelů pro detekci kriminální aktivity v reálném čase.",
-      "slug": "prisoners-alarmed-to-discover-that-a-startup-is-tr",
-      "publishedAt": "2025-12-06T13:15:00+00:00",
-      "date": "2025-12-06 13:15:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/inmates-ai-securus-surveillance.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-12-06/prisoners-alarmed-to-discover-that-a-startup-is-tr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Dva GTX 580 v SLI jsou zodpovědné za dnešní AI – Nvidia šéf Huang odhalil, že vynález deep learningu začal na dvou vlajkových Fermi GPU v roce 2012",
       "description": "Šéf Nvidia Jensen Huang v nedávném podcastu Joea Rogana prohlásil, že vynálezci deep learningu spustili první síť strojového učení na dvojici GTX 580 v SLI v roce 2012. Výzkumníci z University of Toronto tak položili základy současné éry umělé inteligence.",
       "slug": "two-gtx-580s-in-sli-are-responsible-for-the-ai-we-",
@@ -3580,24 +3608,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Priti Adani vyzývá absolventy Adani University, aby podpořili vzestup Indie s jasným účelem",
-      "description": "Na druhé promoční ceremonii Adani University Dr. Priti Adani vyzvala 87 postgraduálních absolventů, aby se stali odpovědnými lídry v oblasti inovací a udržitelnosti. Zdůraznila potřebu spojovat technologie s odpovědností pro rozvoj Indie v infrastruktuře a digitální transformaci.",
-      "slug": "priti-adani-calls-on-adani-university-graduates-to",
-      "publishedAt": "2025-12-06T10:42:15+00:00",
-      "date": "2025-12-06 10:42:15",
-      "importance": 3,
-      "category": "vzdělávání",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-05-06%2Fwvupcl2c%2FGk9lls2XoAAf9Vd.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-06/priti-adani-calls-on-adani-university-graduates-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Prohlédněte si 12-slajdový pitch deck fintech firmy zaměřené na rodinné kanceláře, který pomohl získat 4,2 milionu dolarů",
