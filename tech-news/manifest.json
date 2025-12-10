@@ -1,7 +1,163 @@
 {
-  "generated": "2025-12-10T05:01:54.535200+00:00",
+  "generated": "2025-12-10T08:47:06.961165+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Půjčky AI firem představují rostoucí potenciální hrozbu pro finanční systém, říká přední ekonom",
+      "description": "Půjčky společností zabývajících se umělou inteligencí by měly být na radaru jako rostoucí potenciální hrozba pro finanční systém a širší ekonomiku, varuje hlavní ekonom Moody’s Analytics Mark Zandi.",
+      "slug": "borrowing-by-ai-companies-represents-a-mounting-po",
+      "publishedAt": "2025-12-09T08:02:00+00:00",
+      "date": "2025-12-09 08:02:00",
+      "importance": 4,
+      "category": "financování ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1252638873-e1765236468608.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-09/borrowing-by-ai-companies-represents-a-mounting-po/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Relation Therapeutics oznámila strategickou spolupráci s Novartis na vývoj terapií pro atopická onemocnění",
+      "description": "Relation Therapeutics uzavřela víceprogramovou strategickou spolupráci s Novartis na objev a pokročilé vývoj nových cílů pro atopická onemocnění. Firma obdrží 55 milionů dolarů předem a má nárok na milníky až 1,7 miliardy dolarů plus licenční poplatky z prodejů.",
+      "slug": "relation-announces-strategic-collaboration-with-no",
+      "publishedAt": "2025-12-09T08:00:00+00:00",
+      "date": "2025-12-09 08:00:00",
+      "importance": 4,
+      "category": "biotechnologie",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/cf260ee4-7c41-4306-b2c4-28320acc9186",
+      "url": "/tech-news/2025-12-09/relation-announces-strategic-collaboration-with-no/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Relation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Japonsko se snaží dohnat v nové vlně robotiky poháněné umělou inteligencí",
+      "description": "Umělá inteligence schopná autonomně ovládat stroje v reálném světě, známá jako Physical AI, rychle mění globální trh s roboty. USA a Čína urychlují vývoj humanoidních robotů s těmito systémy, což ohrožuje dlouholetou dominanci Japonska v průmyslových robotech.",
+      "slug": "japan-plays-catch-up-with-new-wave-of-ai-driven-ro",
+      "publishedAt": "2025-12-09T07:53:39+00:00",
+      "date": "2025-12-09 07:53:39",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://i2.ytimg.com/vi/KO5OTODmSKo/mqdefault.jpg",
+      "url": "/tech-news/2025-12-09/japan-plays-catch-up-with-new-wave-of-ai-driven-ro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "USA umožní dodávky čipů Nvidia H200 do Číny – Trump",
+      "description": "USA umožní export procesorů Nvidia H200, druhého nejlepšího čipu pro umělou inteligenci, do Číny a vybere 25procentní poplatek z těchto prodejů, uvedl prezident Donald Trump. Rozhodnutí řeší debatu o udržení globální převahy v AI čipech.",
+      "slug": "us-to-allow-nvidia-h200-chip-shipments-to-china-tr",
+      "publishedAt": "2025-12-09T07:32:32+00:00",
+      "date": "2025-12-09 07:32:32",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.rte.ie/images/002312b2-1600.jpg",
+      "url": "/tech-news/2025-12-09/us-to-allow-nvidia-h200-chip-shipments-to-china-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "CNBC Denní otevření: Dohoda Warner Bros. Discovery – napínavý cliffhanger v procesu?",
+      "description": "I když akcie Paramount a Warner Bros. Discovery výrazně vzrostly díky nabídce na převzetí, širší trh klesl, protože investoři čekají na rozhodnutí Federální rezervy o úrokových sazbách ve středu.",
+      "slug": "cnbc-daily-open-the-warner-bros-discovery-deal-a-c",
+      "publishedAt": "2025-12-09T07:30:01+00:00",
+      "date": "2025-12-09 07:30:01",
+      "importance": 4,
+      "category": "mediální fúze",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219658-1761855887100-gettyimages-2244214965-_l9a5275_ahtllrcg.jpeg?v=1761855919&w=1920&h=1080",
+      "url": "/tech-news/2025-12-09/cnbc-daily-open-the-warner-bros-discovery-deal-a-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Americké úřady rozbily síť pašeráků AI čipů, kteří se pokoušeli propašovat do Číny NVIDIA čipy v hodnotě 160 milionů dolarů skrýváním konečné destinace zásilek",
+      "description": "Americké úřady odhalily síť pašující NVIDIA H100 a H200 AI čipy do Číny v hodnotě 160 milionů dolarů. Pašeráci přeobalovali čipy v USA, aby je špatně klasifikovali a tajně odeslali přes složité schéma.",
+      "slug": "us-authorities-bust-ai-chip-trafficking-network-tr",
+      "publishedAt": "2025-12-09T07:21:39+00:00",
+      "date": "2025-12-09 07:21:39",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/NVIDIA-Ampere-A800-GPU-China-US-1-728x385.png",
+      "url": "/tech-news/2025-12-09/us-authorities-bust-ai-chip-trafficking-network-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trumpův obrat v otázce čipů Nvidia dává Číně výhodu před USA v závodě o umělou inteligenci, tvrdí analytici",
+      "description": "Krátce po oznámení prezidenta Donalda Trumpa, že Nvidia může prodávat pokročilejší čip H200 do Číny, analytici upozornili, že tento krok výrazně posílí technologické kapacity Pekingu v oblasti AI.",
+      "slug": "trumps-pivot-on-nvidia-chips-gives-china-a-leg-up-",
+      "publishedAt": "2025-12-09T07:08:46+00:00",
+      "date": "2025-12-09 07:08:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108191238-17562967732025-08-27t115414z_639445813_rc2nfgaaamj8_rtrmadp_0_nvidia-results-china.jpeg?v=1757605494&w=1920&h=1080",
+      "url": "/tech-news/2025-12-09/trumps-pivot-on-nvidia-chips-gives-china-a-leg-up/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Americký průmysl jaderné fúze žádá federální podporu",
+      "description": "Začínající průmysl jaderné fúze ve Spojených státech žádá Trumpovu administrativu o miliardy dolarů na rozvoj technologie, která slibuje čistou nekonečnou energii, ale čelí obrovským technickým výzvám. Žádost přichází v době rostoucích cen energií a globální soutěže o energetickou nezávislost.",
+      "slug": "us-fusion-industry-asks-for-federal-help",
+      "publishedAt": "2025-12-09T06:30:00+00:00",
+      "date": "2025-12-09 06:30:00",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2025-12-09_l8ihjjsemb.jpg",
+      "url": "/tech-news/2025-12-09/us-fusion-industry-asks-for-federal-help/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Emergent získal strategickou investici z fondu Google AI Futures Fund",
       "description": "Společnost Emergent, založená v roce 2025 bratry Mukundem a Madhavem Jha, oznámila strategickou investici od fondu Google AI Futures Fund. Tato platforma pro agentické intuitivní kódování umožňuje netechnickým uživatelům vytvářet plně funkční full-stack aplikace pomocí autonomních AI agentů a během pěti měsíců od spuštění dosáhla 2,5 milionu uživatelů a ročního tempa opakovaných příjmů přes 25 milionů dolarů.",
@@ -2611,24 +2767,6 @@
       "people": []
     },
     {
-      "title": "Rozhovor: Spolupráce poháněná inovacemi s Čínou je nezbytná pro evropské firmy, říká expert",
-      "description": "Jochum Haakma, předseda Nizozemsko-čínské obchodní rady, volá po prohlubování spolupráce v klíčových průmyslových sektorech mezi Čínou a Nizozemskem. Zdůrazňuje roli Číny jako partnera pro společné inovace v oblastech jako umělá inteligence, farmacie a baterie.",
-      "slug": "interview-innovation-driven-cooperation-with-china",
-      "publishedAt": "2025-12-06T21:36:00+00:00",
-      "date": "2025-12-06 21:36:00",
-      "importance": 3,
-      "category": "inovační spolupráce",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "url": "/tech-news/2025-12-06/interview-innovation-driven-cooperation-with-china/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Kubota a Kilter společně vyvíjejí novou generaci autonomního zemědělského robota",
       "description": "Japonský výrobce zemědělských strojů Kubota spolupracuje s norským startupem Kilter na vývoji, testování a zavádění robota Kilter AX-1 s vysokou přesností pro mechanické plení v Evropě. Robot cílí na pěstitelé zeleniny v Německu a Nizozemsku a slibuje snížení použití herbicidů až o 95 procent.",
       "slug": "kubota-kilter-to-partner-on-next-generation-autono",
@@ -2788,24 +2926,6 @@
       "people": []
     },
     {
-      "title": "Jak nové technologie mění zdravotnictví pro pacienty a poskytovatele péče",
-      "description": "Článek popisuje, jak pokročilé technologie jako AI, telemedicína a nositelná zařízení transformují péči o pacienty i práci lékařů. Zaměřuje se na praktické aplikace v každodenním zdravotnictví.",
-      "slug": "how-updated-technology-is-transforming-health-care",
-      "publishedAt": "2025-12-06T18:39:04+00:00",
-      "date": "2025-12-06 18:39:04",
-      "importance": 3,
-      "category": "zdravotnictví",
-      "urlToImage": "https://medigy.com/news/contributed-content/46edd115-3449-5b0d-a88a-00db2d1b4415-featuredImage.jpeg",
-      "url": "/tech-news/2025-12-06/how-updated-technology-is-transforming-health-care/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Medigy.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Den soudu nebo výplata? Pensylvánci zvažují revoluci umělé inteligence",
       "description": "Průzkum v Pensylvánii ukazuje skeptický postoj obyvatel k umělé inteligenci, s obavami z negativních dopadů na ekonomiku, životní prostředí a zaměstnanost. Nejvíce obav mají pracovníci v bílých profesích.",
       "slug": "judgment-day-or-payday-pennsylvanians-weigh-the-ai",
@@ -2947,42 +3067,6 @@
       ]
     },
     {
-      "title": "Indické firmy investují do fyzické infrastruktury a digitální přístupnosti pro najímání více osob s postižením",
-      "description": "Indické společnosti zlepšují přístupnost pracovišť, aby najímaly a udržovaly více osob s postižením a řešily tak jejich podreprezentovanost. Mezi klíčové kroky patří investice do fyzické a digitální infrastruktury, specializovaného školení a podpůrných technologií.",
-      "slug": "india-inc-invests-in-physical-infrastructure-digit",
-      "publishedAt": "2025-12-06T17:28:30+00:00",
-      "date": "2025-12-06 17:28:30",
-      "importance": 3,
-      "category": "digitální přístupnos",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125807998,width-1200,height-630,imgsize-136149,overlay-etcareers/articleshow.jpg",
-      "url": "/tech-news/2025-12-06/india-inc-invests-in-physical-infrastructure-digit/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak zastaralé inženýrské modely zkreslují současnou debatu o elektromobilech a poplatcích za silnice",
-      "description": "Debata o hmotnosti vozidel a poškození silnic ukazuje, jak rychle se prosadí jednoduchý nápad i při slabých důkazech. Komentátoři často tvrdí, že těžší vozidla, jako elektromobily nebo SUV, výrazně zvyšují opotřebení silnic, což však neodpovídá současnému inženýrskému výzkumu.",
-      "slug": "how-outdated-engineering-models-distort-todays-ev-",
-      "publishedAt": "2025-12-06T17:26:08+00:00",
-      "date": "2025-12-06 17:26:08",
-      "importance": 3,
-      "category": "elektromobilita",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/12/Gemini_Generated_Image_pdzjvlpdzjvlpdzj-800x442.png",
-      "url": "/tech-news/2025-12-06/how-outdated-engineering-models-distort-todays-ev/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CleanTechnica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Jaké jsou výhody zařízení s umělou inteligencí pro péči o diabetes?",
       "description": "Nová studie zkoumá hodnotu a nedostatky nositelných zařízení vylepšených umělou inteligencí pro péči o diabetes 2. typu a prediabetes.",
       "slug": "what-are-the-benefits-of-ai-powered-devices-for-di",
@@ -3100,24 +3184,6 @@
       ]
     },
     {
-      "title": "Jak postavit AI podpůrného agenta pro váš podnik během pouhých 12 minut (bez kódování)",
-      "description": "No-code platformy umožňují vytvořit plně funkčního AI agenta pro zákaznickou podporu rychleji, než trvá uvařit ranní kávu. Článek popisuje krok za krokem proces pomocí nástroje Chatbase, který přeměňuje surová data na responzivního asistenta bez programování.",
-      "slug": "how-to-build-an-ai-support-agent-for-your-business",
-      "publishedAt": "2025-12-06T15:00:40+00:00",
-      "date": "2025-12-06 15:00:40",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/build-ai-support-no-code-12-minutes_optimized.jpg",
-      "url": "/tech-news/2025-12-06/how-to-build-an-ai-support-agent-for-your-business/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Budoucí zaměstnanci a firmy se vyrovnávají s rychle se měnícím světem umělé inteligence",
       "description": "Nedávné propouštění zaměstnanců, především v technologických firmách, vyvolalo obavy z vlivu umělé inteligence na pracovní trh. Lidé se zapisují do vzdělávacích programů zaměřených na dovednosti v AI, aby udrželi krok s technologickými změnami.",
       "slug": "prospective-employees-companies-negotiate-fast-cha",
@@ -3189,24 +3255,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Rolling Stone"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Trh s paměťovými databázemi překročí 59,58 miliardy USD do roku 2033 díky rostoucí poptávce po zpracování dat v reálném čase | SNS Insider",
-      "description": "Trh s paměťovými databázemi roste v důsledku adopce vysokorychlostního zpracování dat s nízkou latencí napříč průmysly, přičemž americký segment vzroste z 5,27 miliardy USD v roce 2025E na 17,67 miliardy USD do roku 2033 díky poptávce z finančních služeb, zdravotnictví a elektronického obchodu.",
-      "slug": "in-memory-database-market-to-surpass-usd-5958-bill",
-      "publishedAt": "2025-12-06T14:30:00+00:00",
-      "date": "2025-12-06 14:30:00",
-      "importance": 3,
-      "category": "paměťové databáze",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-06/in-memory-database-market-to-surpass-usd-5958-bill/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -3426,24 +3474,6 @@
       "people": []
     },
     {
-      "title": "Indie zkoumá společný rozvoj obrany, společnou výrobu a integraci dodavatelských řetězců s Kazachstánem",
-      "description": "Indie se připravuje na dlouhodobou spolupráci s Kazachstánem v obranném sektoru, kde vidí příležitosti pro společný vývoj, výrobu a dodavatelské řetězce. Nedávný seminář v Astana spojil indické a kazachské obranné firmy s úředníky ministerstva obrany a otevřel dveře k novým partnerstvím.",
-      "slug": "india-explores-defence-co-development-co-productio",
-      "publishedAt": "2025-12-06T11:22:03+00:00",
-      "date": "2025-12-06 11:22:03",
-      "importance": 3,
-      "category": "obranné technologie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125804397,width-1200,height-630,imgsize-254199,overlay-etdefence/articleshow.jpg",
-      "url": "/tech-news/2025-12-06/india-explores-defence-co-development-co-productio/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Riskantní funkce psaní zpráv v Tesle",
       "description": "Aktualizace softwaru Full Self-Driving (FSD) Supervised od Tesly umožní řidičům psát zprávy během jízdy, což vyvolalo kontroverzi. Elon Musk to oznámil na platformě X a zdůraznil, že systém stále vyžaduje dohled řidiče.",
       "slug": "teslas-risky-texting-feature",
@@ -3581,28 +3611,6 @@
         "TSMC"
       ],
       "people": []
-    },
-    {
-      "title": "Indie musí uzavřít obchodní dohody a budovat umělou inteligenci, aby využila zlatou příležitost, říká Sunil Mittal",
-      "description": "Předseda Bharti Airtel Sunil Mittal vyzval tvůrce politik k urychlení reforem a varoval, že nedokončené jednání a překážky by mohly zpomalit růstovou trajektorii Indie.",
-      "slug": "india-must-close-trade-deals-build-ai-to-leverage-",
-      "publishedAt": "2025-12-06T08:56:38+00:00",
-      "date": "2025-12-06 08:56:38",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/06/1600x900/logo/2-0-115663552-Sunil-Mittal3-4C-0_1681891729195_1765009718504.jpg",
-      "url": "/tech-news/2025-12-06/india-must-close-trade-deals-build-ai-to-leverage/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Bharti Airtel"
-      ],
-      "people": [
-        "Sunil Mittal"
-      ]
     },
     {
       "title": "Velká Británie chce odemknout ‚zlatý věk jaderné energie‘, ale čelí klíčovým výzvám při obnovení historického vedení",
