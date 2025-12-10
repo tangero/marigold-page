@@ -1,7 +1,247 @@
 {
-  "generated": "2025-12-10T17:06:10.050708+00:00",
+  "generated": "2025-12-10T20:47:32.413103+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "NextEra Energy a Google uzavírají nové partnerství pro urychlení růstu AI a vývoj datových center",
+      "description": "NextEra Energy a Google Cloud rozšiřují spolupráci na vývoj kampusů datových center v měřítku gigawattů v USA, s cílem rychlého růstu a posílení schopností AI do poloviny roku 2026.",
+      "slug": "nextera-energy-and-google-enter-new-partnership-to",
+      "publishedAt": "2025-12-09T20:06:50+00:00",
+      "date": "2025-12-09 20:06:50",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://www.renewableenergyworld.com/wp-content/uploads/2025/12/Google-announcement-1440x650-1-1024x462-1.jpg",
+      "url": "/tech-news/2025-12-09/nextera-energy-and-google-enter-new-partnership-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Power-eng.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Založení Agentic AI Foundation",
+      "description": "Block, Anthropic a OpenAI společně s dalšími firmami založily Agentic AI Foundation (AAIF). Tato nezisková organizace pod Linux Foundation má zajistit, aby se agentická AI vyvíjela jako otevřený a spolupracující ekosystém.",
+      "slug": "agentic-ai-foundation",
+      "publishedAt": "2025-12-09T20:00:39+00:00",
+      "date": "2025-12-09 20:00:39",
+      "importance": 4,
+      "category": "agentická ai",
+      "urlToImage": "https://cdn.sanity.io/images/8m3angk4/production/bc19584a9da572a1a0bb5e2e8ae9413256f791eb-1920x800.png?auto=format",
+      "url": "/tech-news/2025-12-09/agentic-ai-foundation/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Block.xyz"
+      },
+      "companies": [
+        "Block",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Americké úřady zatkly muže z Texasu za pokus pašovat Nvidia GPU za 160 milionů dolarů do Číny",
+      "description": "Muž z Texasu byl obviněn z nelegálního vývozu Nvidia H100 a H200 GPU do Číny v hodnotě nejméně 160 milionů dolarů, což porušuje americké exportní předpisy kvůli obavám z národní bezpečnosti. Ironicky, prezident Trump tento týden schválil prodej H200 GPU do Číny za podmínky.",
+      "slug": "feds-nab-texas-man-for-trying-to-smuggle-160-milli",
+      "publishedAt": "2025-12-09T19:41:41+00:00",
+      "date": "2025-12-09 19:41:41",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/f/feds-nab-t/feds-nab-texas-man-for-trying-to-smuggle-160-million-in-nvid_u4g2.1200.jpg",
+      "url": "/tech-news/2025-12-09/feds-nab-texas-man-for-trying-to-smuggle-160-milli/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "OpenAI najímá šéfku Slacku Denise Dresser k vedení globální strategie výnosů",
+      "description": "Denise Dresser, generální ředitelka Slacku od roku 2023, se stává šéfkou výnosů OpenAI. Předtím strávila více než deset let v Salesforce, který koupil Slack za více než 27 miliard dolarů.",
+      "slug": "openai-hires-slack-ceo-denise-dresser-to-lead-glob",
+      "publishedAt": "2025-12-09T19:38:52+00:00",
+      "date": "2025-12-09 19:38:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108054456-1730227996732-gettyimages-2181105069-TECHCRUNCH_DISRUPT.jpeg?v=1730228030&w=1920&h=1080",
+      "url": "/tech-news/2025-12-09/openai-hires-slack-ceo-denise-dresser-to-lead-glob/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "OpenAI",
+        "Slack",
+        "Salesforce"
+      ],
+      "people": [
+        "Denise Dresser"
+      ]
+    },
+    {
+      "title": "Accenture vyškolí 30 000 zaměstnanců na modelu Claude od Anthropic",
+      "description": "Uzavírá víceleté partnerství pro posílení adopce umělé inteligence. Rozšíření spolupráce zahrnuje trénink desítek tisíc zaměstnanců a společné služby pro regulované sektory.",
+      "slug": "accenture-to-train-30000-staff-on-anthropics-claud",
+      "publishedAt": "2025-12-09T19:37:49+00:00",
+      "date": "2025-12-09 19:37:49",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.nextmedia.com.au/News/accenture-sign-new.jpg",
+      "url": "/tech-news/2025-12-09/accenture-to-train-30000-staff-on-anthropics-claud/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Accenture",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Federální úřady rozbily pašeráckou síť pašující pokročilé čipy do Číny ve stejný den, kdy Trump uvolnil exportní omezení",
+      "description": "Ministerstvo spravedlnosti USA oznámilo zastavení sítě pašující pokročilé AI čipy spojené s Čínou, jen hodiny poté, co prezident Trump prohlásil uvolnění exportních restrikcí na stejnou technologii.",
+      "slug": "feds-bust-ring-smuggling-next-gen-chips-to-china-o",
+      "publishedAt": "2025-12-09T19:37:25+00:00",
+      "date": "2025-12-09 19:37:25",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2212178893-e1765295446570.jpg",
+      "url": "/tech-news/2025-12-09/feds-bust-ring-smuggling-next-gen-chips-to-china-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "OpenAI jmenuje šéfku Slacku Dresserovou prvním ředitelem pro výnosy, tvůrce ChatGPT směřuje k zisku",
+      "description": "OpenAI jmenuje CEO Slacku Denise Dresserovou prvním ředitelem pro výnosy, čímž signalizuje investořům vážný záměr dosáhnout ziskovosti z umělé inteligence. Dresserová převezme globální strategii výnosů a podporu podniků při integraci AI do každodenních operací.",
+      "slug": "openai-names-slack-ceo-dresser-as-first-chief-of-r",
+      "publishedAt": "2025-12-09T19:32:20+00:00",
+      "date": "2025-12-09 19:32:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "url": "/tech-news/2025-12-09/openai-names-slack-ceo-dresser-as-first-chief-of-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "OpenAI",
+        "Slack"
+      ],
+      "people": [
+        "Dresser"
+      ]
+    },
+    {
+      "title": "Trumpovo schválení prodeje AI čipů Nvidia do Číny narazilo na chladný příjem u republikánů",
+      "description": "Trump uvedl, že čínský prezident Si Ťin-pching reagoval pozitivně na návrh umožnit Nvidia prodávat H200 AI čipy do Číny za podmínky, že USA obdrží 25 procent z výnosů. Rozhodnutí však čelí kritice od republikánů obávajících se posílení čínské AI dominance.",
+      "slug": "trump-blessing-nvidia-ai-chip-sales-to-china-gets-",
+      "publishedAt": "2025-12-09T19:30:09+00:00",
+      "date": "2025-12-09 19:30:09",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139104-1746048626472-gettyimages-2212178893-AFP_444Y2UG.jpeg?v=1765299307&w=1920&h=1080",
+      "url": "/tech-news/2025-12-09/trump-blessing-nvidia-ai-chip-sales-to-china-gets/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Zatímco Google a OpenAI bojují o dominanci modelů, Anthropic tiše vyhrává závod v podnikovém AI",
+      "description": "Průzkum venture kapitálové firmy Menlo Ventures ukazuje, že Anthropic překonal OpenAI v podílu na výdajích podniků na generativní AI. Agentické AI zůstává stále okrajovou oblastí.",
+      "slug": "while-google-and-openai-battle-for-model-dominance",
+      "publishedAt": "2025-12-09T19:29:57+00:00",
+      "date": "2025-12-09 19:29:57",
+      "importance": 4,
+      "category": "podnikové ai",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/73e43fc6b01d9f0ab8cb888cd6d98885e4c44085/2025/12/09/23983329-23a9-4da3-ab29-db1426f21496/menlo-ventures-2025-anthropic-overtakes-openai-infographic.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-09/while-google-and-openai-battle-for-model-dominance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Google",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Netradiční AI vede vlnu investic s 475 miliony dolarů v seed kole",
+      "description": "V novinkách o financování startupů v oblasti umělé inteligence tento týden proudily investice do firem zaměřených na výpočetní techniku, operační efektivitu a specializované AI nástroje. Největší transakce zaznamenala společnost Unconventional AI, která získala 475 milionů dolarů v seed kole při valuaci 4,5 miliardy dolarů.",
+      "slug": "unconventional-ai-leads-funding-flurry-with-475-mi",
+      "publishedAt": "2025-12-09T19:29:50+00:00",
+      "date": "2025-12-09 19:29:50",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/unconventional-ai-artificial-intelligence-startups-startup-roundup.jpeg",
+      "url": "/tech-news/2025-12-09/unconventional-ai-leads-funding-flurry-with-475-mi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Unconventional AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI jmenuje šéfku Slacku Denise Dresserovou hlavní ředitelkou pro příjmy",
+      "description": "OpenAI 9. prosince jmenovala šéfku Slacku Denise Dresserovou svou hlavní ředitelkou pro příjmy, aby posílila expanzi v podnikatelském segmentu. Dresserová bude řídit globální strategii příjmů včetně prodejů velkým firmám a péče o zákazníky.",
+      "slug": "openai-taps-slack-ceo-denise-dresser-as-chief-reve",
+      "publishedAt": "2025-12-09T19:25:51+00:00",
+      "date": "2025-12-09 19:25:51",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OCLWvW9N--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-09T192551Z_1_LYNXMPELB817N_RTROPTP_3_NEXTDC-DATA-CENTRE-OPENAI.JPG?itok=Ps9lOkSU",
+      "url": "/tech-news/2025-12-09/openai-taps-slack-ceo-denise-dresser-as-chief-reve/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "OpenAI",
+        "Slack"
+      ],
+      "people": [
+        "Denise Dresser"
+      ]
+    },
     {
       "title": "Microsoft investuje 17,5 miliardy dolarů do Indie do roku 2029 v závodě o umělou inteligenci",
       "description": "Jedná se o největší investici Microsoftu v Asii, zaměřenou na rozšíření AI a cloudových služeb v Indii.",
@@ -3213,28 +3453,6 @@
       "people": []
     },
     {
-      "title": "Zpráva: Johny Srouji zvažuje odchod z Apple a kariéru jinde",
-      "description": "Podle Bloombergu vážně zvažuje odchod z Apple senior viceprezident pro hardwarové technologie Johny Srouji, který vede vývoj Apple Silicon. Pokud odejde, plánuje nastoupit do jiné společnosti, přestože Apple mu nabízí lukrativní podmínky a možnost postupu na pozici hlavního technologického ředitele.",
-      "slug": "report-johny-srouji-contemplating-leaving-apple-co",
-      "publishedAt": "2025-12-06T17:29:33+00:00",
-      "date": "2025-12-06 17:29:33",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-06/report-johny-srouji-contemplating-leaving-apple-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": [
-        "Johny Srouji"
-      ]
-    },
-    {
       "title": "Jaké jsou výhody zařízení s umělou inteligencí pro péči o diabetes?",
       "description": "Nová studie zkoumá hodnotu a nedostatky nositelných zařízení vylepšených umělou inteligencí pro péči o diabetes 2. typu a prediabetes.",
       "slug": "what-are-the-benefits-of-ai-powered-devices-for-di",
@@ -3410,48 +3628,6 @@
       "people": []
     },
     {
-      "title": "Show HN: Náhled na backend WebGPU pro PyTorch",
-      "description": "Vývojář jmaczan zveřejnil experimentální repozitář torch-webgpu, který přidává podporu pro WebGPU jako backend v PyTorch. Projekt umožňuje spouštět základní operace s tenzory přímo na WebGPU zařízeních bez závislosti na CUDA, MPS nebo ROCm.",
-      "slug": "show-hn-webgpu-back-end-for-pytorch-sneak-peek",
-      "publishedAt": "2025-12-06T14:27:13+00:00",
-      "date": "2025-12-06 14:27:13",
-      "importance": 3,
-      "category": "strojové učení",
-      "urlToImage": "https://opengraph.githubassets.com/6970a7200edec5a15f00c84c47881de71096f2a860a29ca89823778f2111b356/jmaczan/torch-webgpu",
-      "url": "/tech-news/2025-12-06/show-hn-webgpu-back-end-for-pytorch-sneak-peek/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Github.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kvantový analytik, který označil éru pasivního investování za ‚horší než marxismus‘, to zdůrazňuje",
-      "description": "Inigo Fraser Jenkins to nazývá ‚dystopickou symbiózou‘: zpětnou vazbou mezi indexovými fondy a platformovými giganty jako Apple, Microsoft a Nvidia.",
-      "slug": "quant-who-said-passive-era-is-worse-than-marxism-d",
-      "publishedAt": "2025-12-06T14:22:29+00:00",
-      "date": "2025-12-06 14:22:29",
-      "importance": 3,
-      "category": "pasivní investování",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2249290003-e1765030876887.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-06/quant-who-said-passive-era-is-worse-than-marxism-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Apple",
-        "Microsoft",
-        "Nvidia"
-      ],
-      "people": [
-        "Inigo Fraser Jenkins"
-      ]
-    },
-    {
       "title": "Paradox úspor času díky AI v oblasti vzdělávání a rozvoje",
       "description": "Umělá inteligence šetří čas při tvorbě návrhů vzdělávacího obsahu pro L&D, ale vyžaduje výrazně více řízení a kontroly. Článek radí, jak přesunout důraz z objemu materiálů na kvalitu, procesy a strategické výsledky.",
       "slug": "the-ld-ai-paradox",
@@ -3610,26 +3786,6 @@
       ]
     },
     {
-      "title": "Prohlédněte si 12-slajdový pitch deck fintech firmy zaměřené na rodinné kanceláře, který pomohl získat 4,2 milionu dolarů",
-      "description": "Počet rodinných kanceláří každý rok roste. Asseta AI chce být fintech nástrojem, který je pohání.",
-      "slug": "read-the-12-slide-pitch-deck-a-fintech-firm-focuse",
-      "publishedAt": "2025-12-06T10:40:08+00:00",
-      "date": "2025-12-06 10:40:08",
-      "importance": 3,
-      "category": "fintech",
-      "urlToImage": "https://i.insider.com/69335dbe71107c9f3457799a?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-06/read-the-12-slide-pitch-deck-a-fintech-firm-focuse/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Asseta AI"
-      ],
-      "people": []
-    },
-    {
       "title": "Nejlepší nástroje pro přístupnou dokumentaci",
       "description": "Porovnání nástrojů a postupů pro tvorbu přístupné dokumentace včetně sémantického HTML, podpory klávesnice, ARIA atributů, kontrol kontrastu barev, automatizovaných auditů a manuálního testování. Článek zdůrazňuje platformy jako UXPin, Confluence a Docusaurus pro integraci přístupnosti do pracovních postupů.",
       "slug": "top-tools-for-accessible-documentation",
@@ -3647,24 +3803,6 @@
       "companies": [
         "UXPin"
       ],
-      "people": []
-    },
-    {
-      "title": "Léčba rakoviny prostaty s potenciálem méně vedlejších účinků bude testována ve Velké Británii",
-      "description": "Ve Velké Británii byla zahájena klinická zkouška nové léčby rakoviny prostaty zvané Aquablation, která slibuje méně invazivní přístup než tradiční chirurgie. Terapie využívá robotiku, umělou inteligenci a real-time zobrazování k přesnému odstranění nádoru.",
-      "slug": "prostate-cancer-treatment-with-potential-for-fewer",
-      "publishedAt": "2025-12-06T09:21:00+00:00",
-      "date": "2025-12-06 09:21:00",
-      "importance": 3,
-      "category": "rakovina prostaty",
-      "urlToImage": "https://e3.365dm.com/25/11/1600x900/skynews-prostate-cancer-brca_7094466.jpg?20251128130222",
-      "url": "/tech-news/2025-12-06/prostate-cancer-treatment-with-potential-for-fewer/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sky.com"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3742,42 +3880,6 @@
       "people": []
     },
     {
-      "title": "Manifest rezonančního výpočtu",
-      "description": "Technologie by měla vyzdvihovat to nejlepší v lidstvu, ne to nejhorší – manifest pro rezonanční výpočty postavený na pěti principech, které odmítají hyper-scale extrakci ve prospěch lidského rozkvětu.",
-      "slug": "resonant-computing-manifesto",
-      "publishedAt": "2025-12-06T05:47:01+00:00",
-      "date": "2025-12-06 05:47:01",
-      "importance": 3,
-      "category": "rezonanční výpočty",
-      "urlToImage": "https://resonantcomputing.org/resonance-social.png",
-      "url": "/tech-news/2025-12-06/resonant-computing-manifesto/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Resonantcomputing.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vědecké novinky týdne: Lidé izolovaní 100 000 let, největší rotující struktura ve vesmíru a jáma plná lebek",
-      "description": "5. prosince 2025: Týdenní přehled nejnovějších vědeckých událostí v médiích spolu s několika zajímavými články na víkend.",
-      "slug": "science-news-this-week-a-human-population-isolated",
-      "publishedAt": "2025-12-06T05:00:00+00:00",
-      "date": "2025-12-06 05:00:00",
-      "importance": 3,
-      "category": "vědecké novinky",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ry6UPzgvwgpFxbRBNqALrQ-1250-80.jpg",
-      "url": "/tech-news/2025-12-06/science-news-this-week-a-human-population-isolated/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Live Science"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Strive vyzývá MSCI k přehodnocení svého 'nefunkčního' černého seznamu Bitcoinu",
       "description": "Strive naléhá na MSCI, aby přehodnotilo svůj plošný zákaz firem s vysokým podílem Bitcoinu v pokladně, s argumentem, že by to investory zbavilo přístupu k rychle rostoucím sektorům AI a digitálních aktiv.",
       "slug": "strive-calls-on-msci-to-rethink-its-unworkable-bit",
@@ -3794,62 +3896,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Těžba na mořském dně se setkává s realitou: Co ukazují technoeconomické důkazy",
-      "description": "Technoeconomická analýza od Michaela Barnarda pro National Ocean Protection Coalition hodnotí proveditelnost komerční těžby na hlubokomořském dně. Zpráva zdůrazňuje obrovský rozdíl mezi koncepty autonomních podvodních vozidel a reálnými technickými omezeními v hluboké vodě.",
-      "slug": "seabed-mining-meets-reality-what-the-technoeconomi",
-      "publishedAt": "2025-12-06T01:56:32+00:00",
-      "date": "2025-12-06 01:56:32",
-      "importance": 3,
-      "category": "dnová těžba",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-17-2025-03_03_26-PM.png",
-      "url": "/tech-news/2025-12-06/seabed-mining-meets-reality-what-the-technoeconomi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CleanTechnica"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Návrh zákona Senátu míří na shromažďování dat o dopadu umělé inteligence na pracovní sílu",
-      "description": "Návrh zákona představený v americkém Senátu umožní vládě sbírat více dat o vlivu umělé inteligence na pracovní sílu. Zákon AI Workforce PREPARE Act zavádí výzkumné centrum a mechanismy pro lepší pochopení těchto změn.",
-      "slug": "senate-bill-aims-to-gather-data-about-ais-impact-o",
-      "publishedAt": "2025-12-06T01:36:59+00:00",
-      "date": "2025-12-06 01:36:59",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/senate-ai-artificial-intelligence-data-workforce-jobs-legislation-bill-government-e1764984871295.jpeg",
-      "url": "/tech-news/2025-12-06/senate-bill-aims-to-gather-data-about-ais-impact-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie kvantových počítačů stoupají po varování laureáta Nobela před Čínou",
-      "description": "Varování předního vědce o rychlém dohánění Číny v kvantovém výpočtu vedlo k růstu akcií amerických firem v tomto sektoru. John Martinis, laureát Nobela za fyziku 2024, upozornil, že vedení USA se zúžilo na úroveň nanosekund, což trh interpretoval jako signál pro zvýšenou vládní podporu.",
-      "slug": "quantum-computing-stocks-soar-following-nobel-laur",
-      "publishedAt": "2025-12-06T01:27:56+00:00",
-      "date": "2025-12-06 01:27:56",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/quantum-computing-stocks-soar-following-nobel-laur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": [
-        "John Martinis"
-      ]
     },
     {
       "title": "SpaceX údajně usiluje o valuaci 800 miliard dolarů před IPO v roce 2026",
@@ -3870,26 +3916,6 @@
         "SpaceX"
       ],
       "people": []
-    },
-    {
-      "title": "Špinavý obchod Sama Altmana s DRAM",
-      "description": "OpenAI uzavřelo tajné masivní zakázky na paměti DRAM, což vyvolalo paniku na trhu, prudký růst cen a nedostatek zásob. Tento vývoj ovlivňuje celý hardware pro AI i běžné počítače.",
-      "slug": "sam-altmans-dirty-dram-deal",
-      "publishedAt": "2025-12-06T00:24:55+00:00",
-      "date": "2025-12-06 00:24:55",
-      "importance": 4,
-      "category": "dram",
-      "urlToImage": "https://static.wixstatic.com/media/cd85b6_c4d11d1007364cfe9d9b36187a738d87~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/cd85b6_c4d11d1007364cfe9d9b36187a738d87~mv2.png",
-      "url": "/tech-news/2025-12-06/sam-altmans-dirty-dram-deal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mooreslawisdead.com"
-      },
-      "companies": [],
-      "people": [
-        "Sam Altman"
-      ]
     },
     {
       "title": "Co potřebujete vědět o modernizaci řízení letového provozu a firmě, kterou FAA vybrala",
