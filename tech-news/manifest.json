@@ -1,7 +1,161 @@
 {
-  "generated": "2025-12-09T20:42:20.172686+00:00",
+  "generated": "2025-12-10T01:19:51.972934+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Trump oznámil, že umožní Nvidia prodávat pokročilé čipy do Číny",
+      "description": "Prezident Trump prohlásil, že USA umožní Nvidia prodávat své pokročilé čipy H200 do Číny schváleným zákazníkům a vezme si 25% podíl z těchto prodejů. Rozhodnutí neplatí pro ještě pokročilejší systémy Blackwell a Rubin.",
+      "slug": "trump-says-hes-letting-nvidia-sell-advanced-chips-",
+      "publishedAt": "2025-12-09T00:38:00+00:00",
+      "date": "2025-12-09 00:38:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/26/bd7cb93b-2d15-4585-a903-7ab62f7052bd/thumbnail/1200x630/01386cd826312c1b0721bf257523f2b3/nvidia-post-screening-revisions-0424-sub-30-sub-01-1.jpg",
+      "url": "/tech-news/2025-12-09/trump-says-hes-letting-nvidia-sell-advanced-chips/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump schvaluje prodej pokročilejších čipů Nvidia pro AI do Číny",
+      "description": "Prezident Donald Trump oznámil, že umožní společnosti Nvidia prodávat svůj čip H200, používaný ve vývoji umělé inteligence, schváleným zákazníkům v Číně. Rozhodnutí vyvažuje ekonomické zájmy USA s obavami z národní bezpečnosti.",
+      "slug": "trump-approves-sale-of-more-advanced-nvidia-comput",
+      "publishedAt": "2025-12-09T00:12:20+00:00",
+      "date": "2025-12-09 00:12:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJUCZWWRWR47AZI2P6JJH7N7IIY.jpg?auth=15ce5ef1293d045292f23657ef1132fd20c9f95f79b1a1b544d38fa93d2443c1&width=1200&height=630&smart=true",
+      "url": "/tech-news/2025-12-09/trump-approves-sale-of-more-advanced-nvidia-comput/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump povoluje Nvidia prodej pokročilých AI čipů do Číny",
+      "description": "Nvidia se stala centrem geopolitického tažení mezi USA a Čínou v posledních měsících. Prezident Trump nyní umožňuje prodej čipů H200 schváleným zákazníkům v Číně.",
+      "slug": "trump-gives-nvidia-green-light-to-sell-advanced-ai",
+      "publishedAt": "2025-12-08T23:55:20+00:00",
+      "date": "2025-12-08 23:55:20",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07a5/live/ec584de0-d48e-11f0-88d4-452a2492b66d.jpg",
+      "url": "/tech-news/2025-12-08/trump-gives-nvidia-green-light-to-sell-advanced-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Zpráva: Nvidia a SoftBank jednají o investici 1 miliardy dolarů do startupu Skild AI na robotické mozky",
+      "description": "Společnosti Nvidia a SoftBank vedou jednání s robotickým startupem Skild AI o investici 1 miliardy dolarů. Tato kola by zvýšila valuaci firmy na více než 14 miliard dolarů.",
+      "slug": "report-nvidia-and-softbank-to-invest-1b-in-robotic",
+      "publishedAt": "2025-12-08T23:46:00+00:00",
+      "date": "2025-12-08 23:46:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-09-06-37-54.png",
+      "url": "/tech-news/2025-12-08/report-nvidia-and-softbank-to-invest-1b-in-robotic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia",
+        "SoftBank",
+        "Skild AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung se snaží zúžit mezeru s TSMC v závodě o křemíkovou fotoniku",
+      "description": "Společnost Samsung Electronics urychluje vývoj technologie křemíkové fotoniky (SiPh), aby vyřešila úzká hrdla v pokročilých procesorech pro umělou inteligenci a zúžila konkurenční rozdíl s TSMC. Firma rozšiřuje svou globální výzkumnou síť a zaměřuje se na klíčové oblasti.",
+      "slug": "samsung-moves-to-narrow-gap-with-tsmc-as-silicon-p",
+      "publishedAt": "2025-12-08T23:43:27+00:00",
+      "date": "2025-12-08 23:43:27",
+      "importance": 4,
+      "category": "křemíková fotonika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251208pd220_files/4_2b.jpg",
+      "url": "/tech-news/2025-12-08/samsung-moves-to-narrow-gap-with-tsmc-as-silicon-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Samsung",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia získává částečný přístup na čínský trh – Trump schvaluje dodávky H200 s 25% podílem na výdělcích",
+      "description": "Prezident Donald Trump povolil společnosti Nvidia prodávat své AI čipy H200 vybraným čínským zákazníkům za podmínky, že USA obdrží 25 % z výnosů. Tento krok následuje po rozhovorech s prezidentem Si Ťin-pchingem a představuje největší uvolnění exportních omezení od roku 2022.",
+      "slug": "nvidia-wins-partial-china-access-trump-greenlights",
+      "publishedAt": "2025-12-08T23:41:50+00:00",
+      "date": "2025-12-08 23:41:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/08/1600x900/logo/Trump_Huang_1765236473937_1765236474135.jpg",
+      "url": "/tech-news/2025-12-08/nvidia-wins-partial-china-access-trump-greenlights/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Administrativa Trumpa umožní Číně výhodu v klíčovém závodě v umělé inteligenci",
+      "description": "Prezident Donald Trump oznámil, že jeho administrativa povolí americkému výrobci čipů NVIDIA exportovat pokročilé procesory H200 pro umělou inteligenci do schválených odběratelů v Číně a dalších zemích.",
+      "slug": "trump-admin-moves-to-give-china-leg-up-in-key-arms",
+      "publishedAt": "2025-12-08T23:28:13+00:00",
+      "date": "2025-12-08 23:28:13",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/11/GettyImages-2247860203-scaled-e1764105931139.jpg",
+      "url": "/tech-news/2025-12-08/trump-admin-moves-to-give-china-leg-up-in-key-arms/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "Výhled kvantového počítání je příznivý: 2 akcie sledovat do roku 2026",
       "description": "Společnosti IONQ a QBTS vynikají v rostoucím zájmu o kvantové technologie díky rekordním výkonnostním metrikám, růstu příjmů a novým systémům, což přitahuje investory směrem k roku 2026.",
@@ -2476,24 +2630,6 @@
       "people": []
     },
     {
-      "title": "Tělesná umělá inteligence je další hranicí inovací zaměřených na člověka",
-      "description": "Za poslední dekádu fungovala umělá inteligence převážně na obrazovkách a v cloudu jako mozek bez těla. Tělesná umělá inteligence (EAI) spojuje pokročilou robotiku s generalizovanou AI pro autonomní působení ve fyzickém světě.",
-      "slug": "embodied-artificial-intelligence-is-the-next-front",
-      "publishedAt": "2025-12-06T18:14:40+00:00",
-      "date": "2025-12-06 18:14:40",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/embodied-artificial-intelligence-is-the-next-front/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bradenkelley.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Šéf Nvidia: Stavba datových center v USA trvá asi tři roky, v Číně postaví nemocnici za víkend",
       "description": "Čína má „dvakrát více energie než my jako národ a naše ekonomika je větší než jejich. To pro mě nedává smysl,“ řekl Huang.",
       "slug": "nvidia-ceo-says-data-centers-take-about-3-years-to",
@@ -3014,27 +3150,6 @@
       "people": []
     },
     {
-      "title": "Bezřidičové nákladní vozy s 18 koly se mohou dostat na vaši ulici dříve, než si myslíte",
-      "description": "Závod o bezřidičové automobily je v plném proudu. Zatímco Waymo vede v osobních vozech, Aurora Innovation přebírá vedení v autonomních nákladních vozech s podporou Uberu a plány na komerční expanzi v roce 2026.",
-      "slug": "driverless-18-wheelers-may-reach-your-street-soone",
-      "publishedAt": "2025-12-06T13:00:27+00:00",
-      "date": "2025-12-06 13:00:27",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/M0Y94_cM7lfzcmimtShpGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/af528dc0-d213-11f0-bdd7-3d68a6805864",
-      "url": "/tech-news/2025-12-06/driverless-18-wheelers-may-reach-your-street-soone/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Apple",
-        "Spotify"
-      ],
-      "people": []
-    },
-    {
       "title": "Dva GTX 580 v SLI jsou zodpovědné za dnešní AI – Nvidia šéf Huang odhalil, že vynález deep learningu začal na dvou vlajkových Fermi GPU v roce 2012",
       "description": "Šéf Nvidia Jensen Huang v nedávném podcastu Joea Rogana prohlásil, že vynálezci deep learningu spustili první síť strojového učení na dvojici GTX 580 v SLI v roce 2012. Výzkumníci z University of Toronto tak položili základy současné éry umělé inteligence.",
       "slug": "two-gtx-580s-in-sli-are-responsible-for-the-ai-we-",
@@ -3273,26 +3388,6 @@
       "people": []
     },
     {
-      "title": "Kosmonaut vyhozen z mise SpaceX v poslední chvíli",
-      "description": "Ruský kosmonaut Oleg Artemyev byl náhle odstraněn z mise SpaceX Crew-12 po údajném porušení amerických bezpečnostních předpisů během předletového tréninku. Nahradil ho kolega Andrei Fedyayev a mise má startovat k Mezinárodní vesmírné stanici v únoru.",
-      "slug": "cosmonaut-kicked-from-spacex-mission-last-second",
-      "publishedAt": "2025-12-06T10:05:00+00:00",
-      "date": "2025-12-06 10:05:00",
-      "importance": 3,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/cosmonaut-kicked-from-spacex-mission-last-second/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Aero-news.net"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
       "title": "Marvell (MRVL) získává cenový cíl 90 USD díky zrychlení v datových centrech",
       "description": "Marvell Technology (NASDAQ: MRVL) patří mezi AI akcie, které analytici pečlivě sledují. Dne 3. prosince Goldman Sachs zvýšil cenový cíl akcie na 90 USD z 80 USD a udržel rating „Neutrální“.",
       "slug": "marvell-mrvl-wins-90-target-as-data-center-momentu",
@@ -3348,26 +3443,6 @@
       },
       "companies": [
         "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Crucial mohl být značkou, která by pomohla spotřebitlům s cenami RAM a úložišť, místo aby je zhoršila",
-      "description": "Micron ukončuje značku Crucial, aby se soustředil na výrobu pro AI, přestože podle odborníků na paměti a úložiště to nemuselo takto dopadnout.",
-      "slug": "crucial-could-have-been-the-brand-to-help-consumer",
-      "publishedAt": "2025-12-06T09:00:00+00:00",
-      "date": "2025-12-06 09:00:00",
-      "importance": 3,
-      "category": "hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MLTe9TLpyeCZrGr3FJTS3T-2560-80.jpg",
-      "url": "/tech-news/2025-12-06/crucial-could-have-been-the-brand-to-help-consumer/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "companies": [
-        "Micron"
       ],
       "people": []
     },
@@ -3446,26 +3521,6 @@
       },
       "companies": [
         "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "ETtech Vysvětlení: Soudní spor New York Times o autorské právo proti Perplexity AI",
-      "description": "New York Times zažalovala startup Perplexity AI za použití milionů svých článků bez povolení k trénování chatbotů. Noviny obviňují porušení autorských práv, škodu na reputaci a neoprávněné komerční využití navzdory předchozím varováním.",
-      "slug": "ettech-explainer-the-new-york-times-copyright-batt",
-      "publishedAt": "2025-12-06T07:23:41+00:00",
-      "date": "2025-12-06 07:23:41",
-      "importance": 3,
-      "category": "autorské právo",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49282,resizemode-75,msid-125801685/tech/artificial-intelligence/ettech-explainer-the-new-york-times-copyright-battle-against-perplexity-ai.jpg",
-      "url": "/tech-news/2025-12-06/ettech-explainer-the-new-york-times-copyright-batt/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Perplexity AI"
       ],
       "people": []
     },
@@ -3751,28 +3806,6 @@
       "people": []
     },
     {
-      "title": "Desítky zaměstnanců Apple přešly do OpenAI a Meta v posledních měsících",
-      "description": "Série odchodů vrchních manažerů z Apple doprovází přechody zaměstnanců nižších úrovní do konkurenčních firem. Podle Wall Street Journal desítky inženýrů a designérů z Apple zamířily do OpenAI a Meta, především v oblastech audio, designu hodinek a robotiky.",
-      "slug": "dozens-of-apple-employees-have-moved-to-openai-and",
-      "publishedAt": "2025-12-06T00:57:20+00:00",
-      "date": "2025-12-06 00:57:20",
-      "importance": 3,
-      "category": "odchody zaměstnanců",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/apple-execs-employees-personnel-meta-openai-ai-artificial-intelligence-e1764982165734.jpeg",
-      "url": "/tech-news/2025-12-06/dozens-of-apple-employees-have-moved-to-openai-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Apple",
-        "OpenAI",
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "Vláda investuje do kanadského obranného ekosystému po celé zemi",
       "description": "V neustále se vyvíjející globální hrozicí krajině musí Kanada podniknout kroky k posílení svých domácích schopností, aby obhajovala naše zájmy, zajistila naši suverenitu a formovala naši budoucnost. Jak pokračujeme v obnově, přezbrojení a reinvestování do Canadian Armed Forces (CA…",
       "slug": "government-invests-in-canadian-defence-ecosystem-a",
@@ -3844,24 +3877,6 @@
         "emoji": "📰",
         "id": null,
         "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Komparativní analýzy genomů odhalují genomovou variabilitu a evoluční adaptaci u orchidej rodu Dendrobium",
-      "description": "Výzkum analyzuje 24 chromozomálních sestav genomů a data genome skimming pro 204 druhů rodu Dendrobium. Odhaluje souvislosti mezi genomovou konzervací, environmentální adaptabilitou a diverzitou druhů ovlivněnou tektonickými změnami a klimatem.",
-      "slug": "comparative-genomics-analyses-reveal-genomic-varia",
-      "publishedAt": "2025-12-06T00:00:00+00:00",
-      "date": "2025-12-06 00:00:00",
-      "importance": 3,
-      "category": "genomika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/comparative-genomics-analyses-reveal-genomic-varia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []
