@@ -25,204 +25,144 @@ permalink: /llm/
       <button class="cat-tab" data-category="speed">⚡ Rychlost</button>
     </div>
 
-    <!-- Tabulka: Programování -->
+    <!-- Tabulka: Programování (kurátorovaný seznam) -->
     <div class="cat-table-container" data-category="coding">
       <table class="cat-table">
         <thead>
           <tr>
             <th>#</th>
             <th>Model</th>
-            <th>Skóre</th>
-            <th>Tier</th>
+            <th>Proč v TOP</th>
             <th>Cena</th>
-            <th>Value</th>
           </tr>
         </thead>
         <tbody>
-          {% assign coding_models = site.llm | where_exp: "m", "m.benchmark_categories.coding.score" | sort: "benchmark_categories.coding.score" | reverse %}
-          {% assign best_value = 0 %}
-          {% assign best_value_model = "" %}
-          {% for m in coding_models limit: 10 %}
-            {% if m.pricing.blend_per_m > 0 %}
-              {% assign value = m.benchmark_categories.coding.score | divided_by: m.pricing.blend_per_m %}
-              {% if value > best_value %}
-                {% assign best_value = value %}
-                {% assign best_value_model = m.slug %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          {% for m in coding_models limit: 10 %}
-          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
-            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+          {% for top_item in site.data.top_models.coding %}
+            {% assign m = site.llm | where: "slug", top_item.slug | first %}
+            {% if m %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}>
+            <td>{% if forloop.first %}🥇{% elsif forloop.index == 2 %}🥈{% elsif forloop.index == 3 %}🥉{% else %}{{ forloop.index }}{% endif %}</td>
             <td><a href="{{ m.url }}">{{ m.title }}</a></td>
-            <td><strong>{{ m.benchmark_categories.coding.score | round: 1 }}</strong></td>
-            <td><span class="tier-badge tier-{{ m.benchmark_categories.coding.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.coding.tier }}</span></td>
+            <td class="note-cell">{{ top_item.note }}</td>
             <td>${{ m.pricing.blend_per_m }}/1M</td>
-            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.coding.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
           </tr>
+            {% endif %}
           {% endfor %}
         </tbody>
       </table>
+      <p class="curated-note">Kurátorovaný výběr redakce na základě benchmark dat a praktických zkušeností.</p>
     </div>
 
-    <!-- Tabulka: Věda & Matematika -->
+    <!-- Tabulka: Věda & Matematika (kurátorovaný seznam) -->
     <div class="cat-table-container hidden" data-category="science">
       <table class="cat-table">
         <thead>
           <tr>
             <th>#</th>
             <th>Model</th>
-            <th>Skóre</th>
-            <th>Tier</th>
+            <th>Proč v TOP</th>
             <th>Cena</th>
-            <th>Value</th>
           </tr>
         </thead>
         <tbody>
-          {% assign science_models = site.llm | where_exp: "m", "m.benchmark_categories.science.score" | sort: "benchmark_categories.science.score" | reverse %}
-          {% assign best_value = 0 %}
-          {% assign best_value_model = "" %}
-          {% for m in science_models limit: 10 %}
-            {% if m.pricing.blend_per_m > 0 %}
-              {% assign value = m.benchmark_categories.science.score | divided_by: m.pricing.blend_per_m %}
-              {% if value > best_value %}
-                {% assign best_value = value %}
-                {% assign best_value_model = m.slug %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          {% for m in science_models limit: 10 %}
-          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
-            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+          {% for top_item in site.data.top_models.science %}
+            {% assign m = site.llm | where: "slug", top_item.slug | first %}
+            {% if m %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}>
+            <td>{% if forloop.first %}🥇{% elsif forloop.index == 2 %}🥈{% elsif forloop.index == 3 %}🥉{% else %}{{ forloop.index }}{% endif %}</td>
             <td><a href="{{ m.url }}">{{ m.title }}</a></td>
-            <td><strong>{{ m.benchmark_categories.science.score | round: 1 }}</strong></td>
-            <td><span class="tier-badge tier-{{ m.benchmark_categories.science.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.science.tier }}</span></td>
+            <td class="note-cell">{{ top_item.note }}</td>
             <td>${{ m.pricing.blend_per_m }}/1M</td>
-            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.science.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
           </tr>
+            {% endif %}
           {% endfor %}
         </tbody>
       </table>
+      <p class="curated-note">Kurátorovaný výběr redakce na základě benchmark dat a praktických zkušeností.</p>
     </div>
 
-    <!-- Tabulka: Agenti -->
+    <!-- Tabulka: Agenti (kurátorovaný seznam) -->
     <div class="cat-table-container hidden" data-category="agentic">
       <table class="cat-table">
         <thead>
           <tr>
             <th>#</th>
             <th>Model</th>
-            <th>Skóre</th>
-            <th>Tier</th>
+            <th>Proč v TOP</th>
             <th>Cena</th>
-            <th>Value</th>
           </tr>
         </thead>
         <tbody>
-          {% assign agentic_models = site.llm | where_exp: "m", "m.benchmark_categories.agentic.score" | sort: "benchmark_categories.agentic.score" | reverse %}
-          {% assign best_value = 0 %}
-          {% assign best_value_model = "" %}
-          {% for m in agentic_models limit: 10 %}
-            {% if m.pricing.blend_per_m > 0 %}
-              {% assign value = m.benchmark_categories.agentic.score | divided_by: m.pricing.blend_per_m %}
-              {% if value > best_value %}
-                {% assign best_value = value %}
-                {% assign best_value_model = m.slug %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          {% for m in agentic_models limit: 10 %}
-          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
-            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+          {% for top_item in site.data.top_models.agentic %}
+            {% assign m = site.llm | where: "slug", top_item.slug | first %}
+            {% if m %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}>
+            <td>{% if forloop.first %}🥇{% elsif forloop.index == 2 %}🥈{% elsif forloop.index == 3 %}🥉{% else %}{{ forloop.index }}{% endif %}</td>
             <td><a href="{{ m.url }}">{{ m.title }}</a></td>
-            <td><strong>{{ m.benchmark_categories.agentic.score | round: 1 }}</strong></td>
-            <td><span class="tier-badge tier-{{ m.benchmark_categories.agentic.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.agentic.tier }}</span></td>
+            <td class="note-cell">{{ top_item.note }}</td>
             <td>${{ m.pricing.blend_per_m }}/1M</td>
-            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.agentic.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
           </tr>
+            {% endif %}
           {% endfor %}
         </tbody>
       </table>
+      <p class="curated-note">Kurátorovaný výběr redakce na základě benchmark dat a praktických zkušeností.</p>
     </div>
 
-    <!-- Tabulka: Inteligence -->
+    <!-- Tabulka: Inteligence (kurátorovaný seznam) -->
     <div class="cat-table-container hidden" data-category="intelligence">
       <table class="cat-table">
         <thead>
           <tr>
             <th>#</th>
             <th>Model</th>
-            <th>Skóre</th>
-            <th>Tier</th>
+            <th>Proč v TOP</th>
             <th>Cena</th>
-            <th>Value</th>
           </tr>
         </thead>
         <tbody>
-          {% assign intelligence_models = site.llm | where_exp: "m", "m.benchmark_categories.intelligence.score" | sort: "benchmark_categories.intelligence.score" | reverse %}
-          {% assign best_value = 0 %}
-          {% assign best_value_model = "" %}
-          {% for m in intelligence_models limit: 10 %}
-            {% if m.pricing.blend_per_m > 0 %}
-              {% assign value = m.benchmark_categories.intelligence.score | divided_by: m.pricing.blend_per_m %}
-              {% if value > best_value %}
-                {% assign best_value = value %}
-                {% assign best_value_model = m.slug %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          {% for m in intelligence_models limit: 10 %}
-          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
-            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+          {% for top_item in site.data.top_models.intelligence %}
+            {% assign m = site.llm | where: "slug", top_item.slug | first %}
+            {% if m %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}>
+            <td>{% if forloop.first %}🥇{% elsif forloop.index == 2 %}🥈{% elsif forloop.index == 3 %}🥉{% else %}{{ forloop.index }}{% endif %}</td>
             <td><a href="{{ m.url }}">{{ m.title }}</a></td>
-            <td><strong>{{ m.benchmark_categories.intelligence.score | round: 1 }}</strong></td>
-            <td><span class="tier-badge tier-{{ m.benchmark_categories.intelligence.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.intelligence.tier }}</span></td>
+            <td class="note-cell">{{ top_item.note }}</td>
             <td>${{ m.pricing.blend_per_m }}/1M</td>
-            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.intelligence.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
           </tr>
+            {% endif %}
           {% endfor %}
         </tbody>
       </table>
+      <p class="curated-note">Kurátorovaný výběr redakce na základě benchmark dat a praktických zkušeností.</p>
     </div>
 
-    <!-- Tabulka: Rychlost -->
+    <!-- Tabulka: Rychlost (kurátorovaný seznam) -->
     <div class="cat-table-container hidden" data-category="speed">
       <table class="cat-table">
         <thead>
           <tr>
             <th>#</th>
             <th>Model</th>
-            <th>Skóre</th>
-            <th>Tier</th>
+            <th>Proč v TOP</th>
             <th>Cena</th>
-            <th>Value</th>
           </tr>
         </thead>
         <tbody>
-          {% assign speed_models = site.llm | where_exp: "m", "m.benchmark_categories.speed.score" | sort: "benchmark_categories.speed.score" | reverse %}
-          {% assign best_value = 0 %}
-          {% assign best_value_model = "" %}
-          {% for m in speed_models limit: 10 %}
-            {% if m.pricing.blend_per_m > 0 %}
-              {% assign value = m.benchmark_categories.speed.score | divided_by: m.pricing.blend_per_m %}
-              {% if value > best_value %}
-                {% assign best_value = value %}
-                {% assign best_value_model = m.slug %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          {% for m in speed_models limit: 10 %}
-          <tr {% if forloop.first %}class="top-score"{% endif %}{% if m.slug == best_value_model %} class="best-value"{% endif %}>
-            <td>{% if forloop.first %}🥇{% else %}{{ forloop.index }}{% endif %}</td>
+          {% for top_item in site.data.top_models.speed %}
+            {% assign m = site.llm | where: "slug", top_item.slug | first %}
+            {% if m %}
+          <tr {% if forloop.first %}class="top-score"{% endif %}>
+            <td>{% if forloop.first %}🥇{% elsif forloop.index == 2 %}🥈{% elsif forloop.index == 3 %}🥉{% else %}{{ forloop.index }}{% endif %}</td>
             <td><a href="{{ m.url }}">{{ m.title }}</a></td>
-            <td><strong>{{ m.benchmark_categories.speed.score | round: 1 }}</strong></td>
-            <td><span class="tier-badge tier-{{ m.benchmark_categories.speed.tier | downcase | replace: ' ', '-' }}">{{ m.benchmark_categories.speed.tier }}</span></td>
+            <td class="note-cell">{{ top_item.note }}</td>
             <td>${{ m.pricing.blend_per_m }}/1M</td>
-            <td>{% if m.slug == best_value_model %}💰{% endif %}{% if m.pricing.blend_per_m > 0 %}{{ m.benchmark_categories.speed.score | divided_by: m.pricing.blend_per_m | round: 1 }}{% else %}∞{% endif %}</td>
           </tr>
+            {% endif %}
           {% endfor %}
         </tbody>
       </table>
+      <p class="curated-note">Kurátorovaný výběr redakce na základě benchmark dat a praktických zkušeností.</p>
     </div>
   </section>
 
@@ -518,6 +458,22 @@ permalink: /llm/
 .tier-badge.tier-dobrý { background: #f59e0b; }
 .tier-badge.tier-průměrný { background: #6b7280; }
 .tier-badge.tier-slabý { background: #ef4444; }
+
+/* Kurátorované tabulky */
+.note-cell {
+  font-size: 0.85rem;
+  color: #4b5563;
+  font-style: italic;
+}
+
+.curated-note {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #9ca3af;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed #e5e7eb;
+}
 
 /* Filtry */
 .llm-filters {

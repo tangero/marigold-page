@@ -1,0 +1,70 @@
+# TOP modely podle kategorií - ruční kurace
+# Aktualizováno: 2025-12-11
+#
+# Toto je kurátorovaný seznam TOP modelů pro každou kategorii.
+# Pořadí určuje redakce na základě benchmark dat, praktických zkušeností
+# a reputace modelu v komunitě.
+#
+# Formát:
+#   - slug: slug modelu (odpovídá souboru v _llm/)
+#     note: Krátká poznámka proč je model v TOP (volitelné)
+
+coding:
+  - slug: openai-gpt-5-2
+    note: "Nejnovější GPT s vylepšeným kódováním"
+  - slug: anthropic-claude-opus-4-5
+    note: "Špičkové agentní schopnosti pro vývoj"
+  - slug: openai-gpt-5-1-codex
+    note: "Specializovaný na kód, SWE-bench leader"
+  - slug: google-gemini-2-5-pro
+    note: "Silný v programování a reasoning"
+  - slug: deepseek-deepseek-r1-0528
+    note: "Nejlepší open-weight model pro kód"
+
+science:
+  - slug: openai-gpt-5-2
+    note: "Vynikající matematické schopnosti"
+  - slug: anthropic-claude-opus-4-5
+    note: "GPQA Diamond 81.0"
+  - slug: google-gemini-2-5-pro
+    note: "Silný ve vědeckém reasoning"
+  - slug: openai-o3-mini-high
+    note: "Špičkový reasoning model"
+  - slug: deepseek-deepseek-r1-0528
+    note: "Matematicky orientovaný open model"
+
+agentic:
+  - slug: anthropic-claude-opus-4-5
+    note: "Tau-bench 86.3 - nejlepší pro agenty"
+  - slug: anthropic-claude-sonnet-4-5
+    note: "Výborný poměr cena/výkon pro agenty"
+  - slug: openai-gpt-5-2
+    note: "Silné tool-use schopnosti"
+  - slug: google-gemini-2-5-pro
+    note: "Velký kontext pro komplexní úlohy"
+  - slug: openai-gpt-5-1
+    note: "Spolehlivé sledování instrukcí"
+
+intelligence:
+  - slug: openai-gpt-5-2
+    note: "Nejnovější frontier model"
+  - slug: anthropic-claude-opus-4-5
+    note: "Hluboké porozumění kontextu"
+  - slug: google-gemini-3-pro-preview
+    note: "Pokročilé reasoning"
+  - slug: openai-o3-mini-high
+    note: "Specializovaný reasoning model"
+  - slug: deepseek-deepseek-r1-0528
+    note: "Open-weight reasoning champion"
+
+speed:
+  - slug: anthropic-claude-haiku-4-5
+    note: "Nejrychlejší Claude model"
+  - slug: openai-gpt-4o-mini
+    note: "Rychlý a levný"
+  - slug: google-gemini-2-0-flash-001
+    note: "Ultra-rychlý Gemini"
+  - slug: mistralai-mistral-small-3-1-24b-instruct
+    note: "Rychlý open model"
+  - slug: deepseek-deepseek-chat-v3-0324
+    note: "Rychlý a levný DeepSeek"
