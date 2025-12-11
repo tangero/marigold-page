@@ -92,8 +92,8 @@ class BulkLLMFetcher:
     # Výchozí rok pro filtraci
     DEFAULT_YEAR = 2025
 
-    # Cíloví provideři
-    TARGET_PROVIDERS = [
+    # Hlavní provideři - budou označeni jako is_major_provider: true
+    MAJOR_PROVIDERS = [
         'anthropic',
         'google',
         'openai',
@@ -102,6 +102,10 @@ class BulkLLMFetcher:
         'meta-llama',
         'x-ai'
     ]
+
+    # Pokud je None, načítají se všichni provideři; jinak jen ti v seznamu
+    # Pro načtení všech providerů nastavit na None
+    TARGET_PROVIDERS = None  # Načítat všechny providery
 
     # Všichni hlavní provideři pro srovnání v analýze
     COMPETITOR_PROVIDERS = ['anthropic', 'google', 'openai', 'x-ai', 'mistralai', 'deepseek']
@@ -345,9 +349,9 @@ Text k překladu:
             if created < year_start or created >= max_timestamp:
                 continue
 
-            # Filtr: provider
+            # Filtr: provider (pokud je providers None, načíst všechny)
             provider = model_id.split('/')[0] if '/' in model_id else ''
-            if provider not in providers:
+            if providers is not None and provider not in providers:
                 continue
 
             # Filtr: ignorované varianty (:free, :extended)
@@ -382,7 +386,8 @@ Text k překladu:
         # Seřadit podle data vytvoření (nejstarší první)
         filtered.sort(key=lambda x: x.get('created', 0))
 
-        self.log(f"   Výsledek: {len(filtered)} unikátních modelů za rok {year} od {len(providers)} providerů")
+        provider_count = len(providers) if providers else "všech"
+        self.log(f"   Výsledek: {len(filtered)} unikátních modelů za rok {year} od {provider_count} providerů")
         return filtered
 
     def get_competitor_models_text(self, exclude_id: str = None) -> str:
@@ -844,6 +849,9 @@ Text k překladu:
             overall_score = summary.get('overall_score')
             overall_tier = summary.get('overall_tier')
 
+        # Určit, zda je provider mezi hlavními
+        is_major = provider.lower() in [p.lower() for p in self.MAJOR_PROVIDERS]
+
         # Front matter
         front_matter = {
             'layout': 'llm_review',
@@ -852,6 +860,7 @@ Text k překladu:
             'model_id': model['id'],
             'slug': slug,
             'provider': provider,
+            'is_major_provider': is_major,
             'pricing': {
                 'prompt_per_m': round(prompt_price, 4),
                 'completion_per_m': round(completion_price, 4),
