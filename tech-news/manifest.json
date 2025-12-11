@@ -1,7 +1,198 @@
 {
-  "generated": "2025-12-10T20:47:32.413103+00:00",
+  "generated": "2025-12-11T01:45:01.807356+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Poskytovatel multimodální AI fal získal 140 milionů dolarů při rychlém růstu",
+      "description": "Startup fal zabývající se umělou inteligencí oznámil získání 140 milionů dolarů v třetím kole financování letos. Investici Series D vedla Sequoia, zapojily se i venture capital divize Nvidia, Salesforce a Shopify.",
+      "slug": "multimodal-ai-provider-fal-nabs-140m-amid-rapid-gr",
+      "publishedAt": "2025-12-10T00:41:17+00:00",
+      "date": "2025-12-10 00:41:17",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/unsplash2.png",
+      "url": "/tech-news/2025-12-10/multimodal-ai-provider-fal-nabs-140m-amid-rapid-gr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "fal",
+        "Nvidia Corp",
+        "Salesforce Inc",
+        "Shopify Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chybný plán Donalda Trumpa navnadit Čínu na čipy Nvidia - The Economist",
+      "description": "Donald Trump schválil prodej pokročilých čipů Nvidia H200 do Číny, což otevírá dveře pro americké technologie na čínském trhu, ale trh i Peking reagují vlažně. Rozhodnutí bylo motivováno pokroky Huawei v oblasti AI a reverzuje desetiletí exportních omezení.",
+      "slug": "donald-trumps-flawed-plan-to-get-china-hooked-on-n",
+      "publishedAt": "2025-12-10T00:32:06+00:00",
+      "date": "2025-12-10 00:32:06",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-10/donald-trumps-flawed-plan-to-get-china-hooked-on-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia",
+        "Huawei"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Velký hráč v cloudové bezpečnosti Wiz vstupuje do Indie; reaguje na poptávku po jednotné cloudové bezpečnosti",
+      "description": "Společnost Wiz, kterou Google přebírá za 32 miliard dolarů, má v Indii přes 30 podnikových zákazníků z finančních služeb, IT služeb, digitálních firem, farmacie a výroby. Vstup na indický trh je motivován rychlou migrací do cloudu a růstem zranitelností spojených s AI-generovaným kódem.",
+      "slug": "cloud-security-major-wiz-enters-india-taps-demand-",
+      "publishedAt": "2025-12-10T00:30:00+00:00",
+      "date": "2025-12-10 00:30:00",
+      "importance": 5,
+      "category": "cloudová bezpečnost",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20866,resizemode-75,msid-125877124/tech/technology/cloud-security-major-wiz-enters-india-taps-demand-for-unified-cloud-security.jpg",
+      "url": "/tech-news/2025-12-10/cloud-security-major-wiz-enters-india-taps-demand/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Wiz",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Obří výrobce AI čipů SK Hynix zvažuje listink akcií v New Yorku",
+      "description": "Akcie SK Hynix vzrostly o přibližně 225 procent v roce 2025 na soulském trhu díky poptávce po čipech s vysokou šířkou pásma pro AI. Firma posuzuje možnost listinku v USA, aby snížila rozdíl ve valuaci oproti konkurentům jako Micron Technology.",
+      "slug": "ai-chip-giant-sk-hynix-weighs-new-york-stock-listi",
+      "publishedAt": "2025-12-10T00:20:23+00:00",
+      "date": "2025-12-10 00:20:23",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f6a34de8d74192e7da67009130b52e9141b305e95365b9031b8d72f6c942407e",
+      "url": "/tech-news/2025-12-10/ai-chip-giant-sk-hynix-weighs-new-york-stock-listi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "SK Hynix"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD najmou veterána z AWS pro rozvoj platformy Helios AI v konkurenci s Nvidia",
+      "description": "AMD přijalo bývalého výkonného pracovníka infrastruktury AWS Arvind Balakumara, aby vedl inženýrství pro platformu serverových racků Helios AI. Tím posiluje své úsilí konkurovat dominanci Nvidia v AI infrastruktuře pro datová centra. AWS potvrdilo jeho odchod z firmy.",
+      "slug": "amd-taps-aws-veteran-to-power-helios-ai-platform-i",
+      "publishedAt": "2025-12-10T00:20:00+00:00",
+      "date": "2025-12-10 00:20:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251209pd242_files/1_b.jpg",
+      "url": "/tech-news/2025-12-10/amd-taps-aws-veteran-to-power-helios-ai-platform-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "AMD",
+        "AWS",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Generální ředitel Visa staví agentic AI do centra plateb",
+      "description": "Výroční dopis generálního ředitele Visa Ryana McInerneyho popisuje přeprogramování obchodu poháněné agentic AI. Dokument není jen shrnutím výkonu společnosti, ale spíše technologickou vizí budoucnosti platebního průmyslu.",
+      "slug": "visa-ceo-puts-agentic-ai-at-the-center-of-payments",
+      "publishedAt": "2025-12-10T00:16:20+00:00",
+      "date": "2025-12-10 00:16:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-10/visa-ceo-puts-agentic-ai-at-the-center-of-payments/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Visa"
+      ],
+      "people": [
+        "Ryan McInerney"
+      ]
+    },
+    {
+      "title": "Devstral 2 od Mistral AI je open-weights kódovací model určený k rivalitě s nejlepšími proprietárními systémy",
+      "description": "Francouzský startup Mistral AI spouští Devstral 2, model s 123 miliardami parametrů navržený pro pokročilé programovací úkoly. Tento open-weights systém nabízí autonomní software engineering a konkuruje proprietárním řešením od Google nebo OpenAI za nižší cenu.",
+      "slug": "mistral-ais-devstral-2-is-an-open-weights-vibe-cod",
+      "publishedAt": "2025-12-10T00:04:54+00:00",
+      "date": "2025-12-10 00:04:54",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-10-07-04-21.png",
+      "url": "/tech-news/2025-12-10/mistral-ais-devstral-2-is-an-open-weights-vibe-cod/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Mistral AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "BNY Mellon rozšiřuje AI platformu Eliza integrací Gemini Enterprise od Google Cloud",
+      "description": "Banka BNY Mellon oznámila integraci modelu Gemini Enterprise od Google Cloud do své podnikové AI platformy Eliza. Tento krok posiluje využití agentické AI pro rychlejší analýzu dat, automatizaci složitých úkolů a lepší zpracování informací napříč obory.",
+      "slug": "bny-mellon-expands-eliza-ai-platform-with-google-c",
+      "publishedAt": "2025-12-09T23:50:09+00:00",
+      "date": "2025-12-09 23:50:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/BNY-Mellon-AI1.jpg",
+      "url": "/tech-news/2025-12-09/bny-mellon-expands-eliza-ai-platform-with-google-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Povolení Nvidia prodat H200 do Číny je zavírání stájí po úniku koně",
+      "description": "Americké exportní kontroly na AI akcelerátory donutily Čínu k vývoji vlastních technologií. Půl dekády restrikcí zaměřených na odepření přístupu k nejsilnějším americkým polovodičům jen podnítily Peking k domácím alternativám v oblasti AI.",
+      "slug": "letting-nvidia-sell-h200s-to-china-is-closing-the-",
+      "publishedAt": "2025-12-09T23:47:27+00:00",
+      "date": "2025-12-09 23:47:27",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://regmedia.co.uk/2024/09/16/shutterstock_container_shjips_la.jpg",
+      "url": "/tech-news/2025-12-09/letting-nvidia-sell-h200s-to-china-is-closing-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "NextEra Energy a Google uzavírají nové partnerství pro urychlení růstu AI a vývoj datových center",
       "description": "NextEra Energy a Google Cloud rozšiřují spolupráci na vývoj kampusů datových center v měřítku gigawattů v USA, s cílem rychlého růstu a posílení schopností AI do poloviny roku 2026.",
@@ -3417,24 +3608,6 @@
       ]
     },
     {
-      "title": "Paradox efektivity: 5 tržních anomálií obchodovaných pod reálnou hodnotou",
-      "description": "Článek analyzuje situace, kdy trh efektivně ignoruje silné fundamenty v subsektorech jako biotechnologie. Zaměřuje se na pět podhodnocených firem, včetně Oncolytics Biotech, která dosáhla shody s FDA na designu klíčové klinické studie.",
-      "slug": "the-efficiency-paradox-5-market-anomalies-trading-",
-      "publishedAt": "2025-12-06T18:51:00+00:00",
-      "date": "2025-12-06 18:51:00",
-      "importance": 3,
-      "category": "biotechnologie",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a378fdd7-9c66-4643-981c-b523c0972a6d",
-      "url": "/tech-news/2025-12-06/the-efficiency-paradox-5-market-anomalies-trading/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Možná se vám to nebude líbit, ale další rozvoj umělé inteligence může být klíčový pro vaše budoucí plány",
       "description": "I přes nevýhody umělé inteligence je její další rozvoj důležitý pro ekonomický růst a budoucí finanční bezpečí. Pokud by investice do AI selhaly, mohlo by to vést k ekonomickému zpomalení.",
       "slug": "you-may-not-like-it-but-continued-ai-development-c",
@@ -3509,26 +3682,6 @@
       "people": []
     },
     {
-      "title": "Strutt ev¹, vítěz ceny CES 2026 Best of Innovation, spouští Super Early Bird předobjednávky",
-      "description": "Singapurská robotická společnost Strutt zahájila Super Early Bird předobjednávky pro svůj produkt ev¹, který získal cenu CES 2026 Best of Innovation v kategorii Vehicle Tech and Advanced Mobility. Oficiální uvedení proběhne 5. ledna 2026 na veletrhu CES.",
-      "slug": "strutt-ev¹-the-ces-2026-best-of-innovation-winner-",
-      "publishedAt": "2025-12-06T16:26:00+00:00",
-      "date": "2025-12-06 16:26:00",
-      "importance": 3,
-      "category": "robotika",
-      "urlToImage": "https://mma.prnewswire.com/media/2839623/image_5032906_62508285.jpg?p=facebook",
-      "url": "/tech-news/2025-12-06/strutt-ev¹-the-ces-2026-best-of-innovation-winner/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "companies": [
-        "Strutt"
-      ],
-      "people": []
-    },
-    {
       "title": "Televizní reklama McDonald's Nizozemsko: Je to nejhroznější čas roku",
       "description": "Vnitřní divize produkční společnosti Sweetshop specializující se na inovace v AI, The Gardening.club, vytvořila vánocní reklamu pro McDonald's v Nizozemsku plně pomocí AI. Spot obrací tradiční Vánoce naruby a zdůrazňuje chaotickou realitu svátků, přičemž lidský zásah zůstal omezen na řemeslné prvky.",
       "slug": "tv-ad-mcdonalds-netherlands-its-the-most-terrible-",
@@ -3547,29 +3700,6 @@
       "people": []
     },
     {
-      "title": "'Děsivé': Proč senátor z vrchní inteligence chce více špionáže na čínské firmy",
-      "description": "Čínská biotechnologická firma BGI překoná Huawei v rozsahu i hrozbě, tvrdí senátor Mark Warner. 'Je to děsivé,' řekl na CNBC akci a prosazoval více špionáže na korporace.",
-      "slug": "terrifying-why-us-senator-in-top-intel-post-wants-",
-      "publishedAt": "2025-12-06T15:24:52+00:00",
-      "date": "2025-12-06 15:24:52",
-      "importance": 3,
-      "category": "špionáž",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108237374-1764951990636-gettyimages-2232869555-CHINA-BEIJING-V-DAY-GATHERING-PREPARATIONS_CN.jpeg?v=1764952021&w=1920&h=1080",
-      "url": "/tech-news/2025-12-06/terrifying-why-us-senator-in-top-intel-post-wants/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "BGI",
-        "Huawei"
-      ],
-      "people": [
-        "Mark Warner"
-      ]
-    },
-    {
       "title": "Tento týden nejzajímavější technologické příběhy z webu (do 6. prosince)",
       "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Tento souhrn přináší klíčové novinky z oblastí výpočetní techniky, umělé inteligence a dalších disciplín.",
       "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
@@ -3586,28 +3716,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Test babičky: Když vaši máma dokáže používat DePIN, masová adopce dorazila",
-      "description": "Masová adopce nenastává, když technologii začnou používat nadšenci do kryptoměn: nastává, když to dělá vaše babička bez povšimnutí, tvrdí spoluzakladatel Uplink Carlos Lei.",
-      "slug": "the-grandma-test-when-your-mom-can-use-depin-mass-",
-      "publishedAt": "2025-12-06T15:00:00+00:00",
-      "date": "2025-12-06 15:00:00",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5c6ebc369b874e88cc7cab0efe1d9c759717ef8f-1920x1080.jpg?auto=format",
-      "url": "/tech-news/2025-12-06/the-grandma-test-when-your-mom-can-use-depin-mass/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "companies": [
-        "Uplink"
-      ],
-      "people": [
-        "Carlos Lei"
-      ]
     },
     {
       "title": "Country songwriter Breland: Písně vytvořené AI by měly být označené",
@@ -3659,24 +3767,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Trh s tele-intenzivními péčovými jednotkami dosáhne do roku 2032 hodnoty 11,96 miliardy USD; Pokroky v technologiích pohánějí globální růst trhu – SNS Insider",
-      "description": "Trh s tele-intenzivními péčovými jednotkami (tele-ICU) roste díky adopci AI pro vzdálené monitorování a poptávce po efektivitě v kritické péči. Podle SNS Insider dosáhne v roce 2024 hodnoty 3,89 miliardy USD a do roku 2032 naroste na 11,96 miliardy USD s ročním růstem 15,09 %.",
-      "slug": "tele-intensive-care-unit-market-size-to-reach-usd-",
-      "publishedAt": "2025-12-06T13:30:00+00:00",
-      "date": "2025-12-06 13:30:00",
-      "importance": 3,
-      "category": "telemedicína",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-06/tele-intensive-care-unit-market-size-to-reach-usd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -3764,28 +3854,6 @@
       "people": []
     },
     {
-      "title": "Riskantní funkce psaní zpráv v Tesle",
-      "description": "Aktualizace softwaru Full Self-Driving (FSD) Supervised od Tesly umožní řidičům psát zprávy během jízdy, což vyvolalo kontroverzi. Elon Musk to oznámil na platformě X a zdůraznil, že systém stále vyžaduje dohled řidiče.",
-      "slug": "teslas-risky-texting-feature",
-      "publishedAt": "2025-12-06T10:49:26+00:00",
-      "date": "2025-12-06 10:49:26",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "url": "/tech-news/2025-12-06/teslas-risky-texting-feature/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nep123.com"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Nejlepší nástroje pro přístupnou dokumentaci",
       "description": "Porovnání nástrojů a postupů pro tvorbu přístupné dokumentace včetně sémantického HTML, podpory klávesnice, ARIA atributů, kontrol kontrastu barev, automatizovaných auditů a manuálního testování. Článek zdůrazňuje platformy jako UXPin, Confluence a Docusaurus pro integraci přístupnosti do pracovních postupů.",
       "slug": "top-tools-for-accessible-documentation",
@@ -3859,62 +3927,6 @@
         "name": "Chron.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Thajské startupy v potravinové technologii rostou: od superpotravin po rostlinné mléko",
-      "description": "V Thajsku se rozvíjejí startupy v oblasti potravinové technologie díky podpoře vlády a soukromého sektoru, zaměřené na rostlinné alternativy proteinů, superpotraviny a rostlinné mléko. Firma Advanced Greenfarm uspěla s produkty z vodní řasy podporou státu.",
-      "slug": "thailands-food-tech-startups-bloom-from-superfoods",
-      "publishedAt": "2025-12-06T06:00:53+00:00",
-      "date": "2025-12-06 06:00:53",
-      "importance": 3,
-      "category": "foodtech",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F7%2F1%2F11771763-1-eng-GB%2F9d350aa9e0e5-photo_SXM2025112600013861.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2025-12-06/thailands-food-tech-startups-bloom-from-superfoods/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Strive vyzývá MSCI k přehodnocení svého 'nefunkčního' černého seznamu Bitcoinu",
-      "description": "Strive naléhá na MSCI, aby přehodnotilo svůj plošný zákaz firem s vysokým podílem Bitcoinu v pokladně, s argumentem, že by to investory zbavilo přístupu k rychle rostoucím sektorům AI a digitálních aktiv.",
-      "slug": "strive-calls-on-msci-to-rethink-its-unworkable-bit",
-      "publishedAt": "2025-12-06T02:34:56+00:00",
-      "date": "2025-12-06 02:34:56",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019af145-8a5c-7c16-8973-b6367d7e729d",
-      "url": "/tech-news/2025-12-06/strive-calls-on-msci-to-rethink-its-unworkable-bit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "SpaceX údajně usiluje o valuaci 800 miliard dolarů před IPO v roce 2026",
-      "description": "Společnost SpaceX se připravuje na velký sekundární prodej akcií, který by mohl být jedním z posledních před uvedením na burzu. Podle Wall Street Journal by tato nabídka měla ocenit firmu na 800 miliard dolarů a překonat tak OpenAI jako nejcennější soukromou společnost.",
-      "slug": "spacex-reportedly-seeking-800b-valuation-ahead-of-",
-      "publishedAt": "2025-12-06T01:12:59+00:00",
-      "date": "2025-12-06 01:12:59",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Unsplash.jpg",
-      "url": "/tech-news/2025-12-06/spacex-reportedly-seeking-800b-valuation-ahead-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "SpaceX"
-      ],
       "people": []
     },
     {
