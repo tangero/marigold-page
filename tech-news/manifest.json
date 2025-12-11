@@ -1,7 +1,94 @@
 {
-  "generated": "2025-12-11T09:02:26.724960+00:00",
+  "generated": "2025-12-11T13:02:08.668821+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Od zadání k publikaci: Google Firebase Studio vytváří a hostuje full-stack aplikace",
+      "description": "Google uvedl Firebase Studio, platformu poháněnou AI přes Gemini API, která automatizuje vývoj full-stack aplikací od návrhu po nasazení. Umožňuje rychlé vytváření backendu, frontendu i mobilních aplikací s podporou populárních rámců jako React nebo Flutter.",
+      "slug": "from-prompt-to-publish-google-firebase-studio-crea",
+      "publishedAt": "2025-12-10T12:14:32+00:00",
+      "date": "2025-12-10 12:14:32",
+      "importance": 4,
+      "category": "vývoj aplikací",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/realtime-web-and-mobile-simulators_optimized.jpg",
+      "url": "/tech-news/2025-12-10/from-prompt-to-publish-google-firebase-studio-crea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI Sam Altman přiznává, že umělá inteligence se vyvíjí příliš rychle, tříletá technologie se rychle mění – 'Lze si představit, že to pokazíme'",
+      "description": "Šéf OpenAI Sam Altman v rozhovoru zdůraznil rizika rychlého vývoje ChatGPT a umělé inteligence, včetně environmentálních nákladů a závislosti uživatelů. Přiznal, že tempo změn může vést k chybám s dlouhodobými důsledky.",
+      "slug": "openais-ceo-sam-altman-admits-ai-might-be-moving-t",
+      "publishedAt": "2025-12-10T12:04:00+00:00",
+      "date": "2025-12-10 12:04:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TreeSnwGP95H44UXLwncTT-2560-80.jpg",
+      "url": "/tech-news/2025-12-10/openais-ceo-sam-altman-admits-ai-might-be-moving-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Alexandr Wang nesouhlasí s vrcholovými manažery Meta ohledně dat z Instagramu pro AI",
+      "description": "Zakladatel Scale AI Alexandr Wang tento podzim otevřeně kritizoval top manažery Meta, jako jsou Chris Cox a Andrew Bosworth, včetně jejich plánů na využití dat z Instagramu k vývoji umělé inteligence. Tato neshoda odhaluje napětí v Meta AI laboratoři TBD.",
+      "slug": "sources-this-fall-alexandr-wang-told-people-that-h",
+      "publishedAt": "2025-12-10T11:58:53+00:00",
+      "date": "2025-12-10 11:58:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-10/sources-this-fall-alexandr-wang-told-people-that-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Alexandr Wang",
+        "Chris Cox",
+        "Andrew Bosworth"
+      ]
+    },
+    {
+      "title": "Rivian vyvíjí AI asistenta pro řízení vozidla, nejen pro konverzaci",
+      "description": "Společnost Rivian Automotive (NASDAQ: RIVN) vyvíjí vlastního asistenta na bázi umělé inteligence po dobu téměř dvou let, odděleně od svého technologického společného podniku s Volkswagenem v hodnotě 5,8 miliardy dolarů. Asistent je navržen pro plnou integraci s ovládáním vozidla, což přesahuje pouhé hlasové ovládání.",
+      "slug": "rivian-builds-ai-assistant-to-run-the-vehicle-not-",
+      "publishedAt": "2025-12-10T11:58:32+00:00",
+      "date": "2025-12-10 11:58:32",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://biztoc.com/cdn/ffafae4c5f5f92bf_s.webp",
+      "url": "/tech-news/2025-12-10/rivian-builds-ai-assistant-to-run-the-vehicle-not/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Rivian",
+        "Volkswagen"
+      ],
+      "people": []
+    },
     {
       "title": "Intel podepsal předběžnou dohodu o akvizici startupu SambaNova na AI čipy",
       "description": "Podle zdrojů blízkých Wired podepsal Intel neviazanou dohodu o koupi startupu SambaNova, který vyvíjí specializované AI čipy. Dohoda není závazná a finální podmínky nejsou známy.",
@@ -948,29 +1035,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Přehled trhu: Technologie, média a telekomunikace – Market Talk",
-      "description": "Nejnovější přehled událostí v sektorech technologie, médií a telekomunikací zahrnuje Nvidia a její čipy, čínské domácí AI čipy, nabídky Netflixu a Paramountu na Warner Bros. Discovery a další klíčové témata.",
-      "slug": "tech-media-telecom-roundup-market-talk",
-      "publishedAt": "2025-12-09T12:09:50+00:00",
-      "date": "2025-12-09 12:09:50",
-      "importance": 4,
-      "category": "tržní přehled",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-09/tech-media-telecom-roundup-market-talk/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Netflix",
-        "Paramount",
-        "Warner Bros. Discovery"
       ],
       "people": []
     },
@@ -3885,26 +3949,6 @@
       "people": []
     },
     {
-      "title": "Co znamená nabídka Netflixu na koupi HBO Max pro vás?",
-      "description": "Předplatitelé těchto dvou streamovacích gigantů se nyní pravděpodobně ptají, jaké změny by mohly nastat ohledně jejich obsahu a měsíčních plateb.",
-      "slug": "what-does-netflixs-offer-to-buy-hbo-max-mean-for-y",
-      "publishedAt": "2025-12-06T16:35:00+00:00",
-      "date": "2025-12-06 16:35:00",
-      "importance": 5,
-      "category": "streamovací služby",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.tPSSd85l4_QRrfeh7wmAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/834a87f06eb8c686d10434b79ff9a370",
-      "url": "/tech-news/2025-12-06/what-does-netflixs-offer-to-buy-hbo-max-mean-for-y/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "companies": [
-        "Netflix"
-      ],
-      "people": []
-    },
-    {
       "title": "Proč firmy neřeší svůj technický dluh v systému Windows?",
       "description": "S koncem podpory Windows 10 se organizace vypořádávají s rozměry svého technického dluhu. Průzkum ukázal, že devět z deseti IT lídrů čelí tomuto problému, ale pouze 14 procent plánuje prioritizovat modernizaci starých systémů.",
       "slug": "why-are-companies-not-tackling-their-windows-techn",
@@ -3959,44 +4003,6 @@
       },
       "companies": [
         "Atlas Data Storage"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co se stane, když Mexický záliv nezasáhne žádný hurikán? Texas to právě zjistil.",
-      "description": "Tento rok jsme se o počasí dozvěděli hodně nového.",
-      "slug": "what-happens-when-no-hurricanes-hit-the-gulf-texas",
-      "publishedAt": "2025-12-06T06:01:00+00:00",
-      "date": "2025-12-06 06:01:00",
-      "importance": 3,
-      "category": "meteorologie",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.yiJogDLZpWfi6.BAcMBHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/chron_hearst_841/dfb43561bb022547c47b4d90f672b698",
-      "url": "/tech-news/2025-12-06/what-happens-when-no-hurricanes-hit-the-gulf-texas/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Chron.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Co potřebujete vědět o modernizaci řízení letového provozu a firmě, kterou FAA vybrala",
-      "description": "Americká vláda zadala firmě Peraton s minimálními zkušenostmi u Federální správy letectví (FAA) dohled nad modernizací zastaralého systému řízení letového provozu za 31,5 miliardy dolarů. Cílem je dokončit projekt do tří let díky inovativnímu přístupu firmy.",
-      "slug": "what-to-know-about-the-air-traffic-control-overhau",
-      "publishedAt": "2025-12-06T00:16:40+00:00",
-      "date": "2025-12-06 00:16:40",
-      "importance": 3,
-      "category": "letectví",
-      "urlToImage": "https://i.abcnewsfe.com/a/9b4de276-a93b-4189-94b7-2fe9d1239c83/wirestory_5541dd9071605c0e0a13ddcfd29046ce_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-06/what-to-know-about-the-air-traffic-control-overhau/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [
-        "Peraton"
       ],
       "people": []
     }
