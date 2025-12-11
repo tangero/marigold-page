@@ -27451,7 +27451,7 @@
       "title"    : "Přehled LLM modelů",
       "url"      : "/llm/",
       "category" : "stránka",
-      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 102 modelů | Aktualizováno denně Top modely podle kategorie 💻 Programování 🧮 Věda &amp;amp; Matematika 🤖 Agenti 🧠 Inteligence ⚡ Rychlost # Model Skóre Tier Cena Value 🥇 Google: Gemini 3 Pro Preview 91.7 Excelentní $4.5/1M 20.4 2 OpenAI: gpt-oss-120b 87.8 Výborný $0.0767/1M 💰1144.7 3 OpenAI: o4 Mini 85.9 Výborný $1.925/1M 44.6 4 OpenAI: GPT-5 84.6 Výborný $3.4375/1M 24.6 5 OpenAI: GPT-5 Codex 84.0 Výborný $3.4375/1M 24.4 6 OpenAI: GPT-5 Mini 83.8 Výborný $0.6875/1M 121.9 7 xAI: Grok 4 81.9 Výborný $6.0/1M 13.7 8 OpenAI: o3 80.8 Výborný..."
+      "content"  : "Jaké LLM máte pro jaký úkol použít? Nejobsáhlejší 🇨🇿 přehled a doporučení. 102 modelů | Aktualizováno denně Top modely podle kategorie 💻 Programování 🧮 Věda &amp;amp; Matematika 🤖 Agenti 🧠 Inteligence ⚡ Rychlost # Model Proč v TOP Cena 🥇 OpenAI: GPT-5.2 Nejnovější GPT s vylepšeným kódováním $/1M 🥈 Anthropic: Claude Opus 4.5 Špičkové agentní schopnosti pro vývoj $10.0/1M 🥉 OpenAI: GPT-5.1-Codex Specializovaný na kód, SWE-bench leader $3.4375/1M 4 Google: Gemini 2.5 Pro Silný v programování a reasoning $3.4375/1M 5 DeepSeek: R1 0528 Nejlepší open-weight model pro kód $0.7375/1M Kurátorovaný výběr redakce na základě benchmark dat a praktických zkušeností. #..."
     }
     
   
