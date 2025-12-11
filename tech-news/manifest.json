@@ -1,7 +1,221 @@
 {
-  "generated": "2025-12-11T01:45:01.807356+00:00",
+  "generated": "2025-12-11T05:05:05.690043+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Akcie Meesho debutují s 46% prémií nad cenou IPO na Dalal Street",
+      "description": "Akcie online tržiště Meesho Ltd. se objevily na Národní burze cenných papírů v Bombaji za 162,50 rupií za akcii, což představuje prémií 46,40 % oproti ceně IPO. Na Bombajské burze cenných papírů (BSE) debutovaly za 161,20 rupií s prémií 45,23 %.",
+      "slug": "meesho-debuts-at-46-premium-over-ipo-price-on-dala",
+      "publishedAt": "2025-12-10T04:13:50+00:00",
+      "date": "2025-12-10 04:13:50",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2Fiw7znm40%2Fmeesho.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-10/meesho-debuts-at-46-premium-over-ipo-price-on-dala/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Meesho Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Narendra Modi se setkal se Satyou Nadellou při oznámení rekordní investice Microsoftu 17,5 miliardy dolarů do Indie, Intel posiluje spolupráci s koncernem Tata",
+      "description": "Indie zaznamenala dva významné technologické úspěchy: Microsoft oznámil největší investici v Asii zaměřenou na AI budoucnost země a Intel rozšiřuje partnerství s Tata Group v oblasti polovodičů.",
+      "slug": "narendra-modi-meets-with-satya-nadella-as-microsof",
+      "publishedAt": "2025-12-10T04:10:01+00:00",
+      "date": "2025-12-10 04:10:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/12271113e8f0c2a4_s.webp",
+      "url": "/tech-news/2025-12-10/narendra-modi-meets-with-satya-nadella-as-microsof/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Microsoft",
+        "Intel",
+        "Tata Group"
+      ],
+      "people": [
+        "Narendra Modi",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Trumpova dohoda s čipy Nvidia obrací desetiletí technologických restrikcí",
+      "description": "Prezident Trump schválil dohodu s Nvidia, která uvolňuje export pokročilých AI čipů do Číny a mění politiku omezení z posledních desetiletí. Tento krok ovlivní globální dodávky GPU nezbytných pro trénink velkých jazykových modelů.",
+      "slug": "trumps-nvidia-chip-deal-reverses-decades-of-techno",
+      "publishedAt": "2025-12-10T03:26:10+00:00",
+      "date": "2025-12-10 03:26:10",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-10/trumps-nvidia-chip-deal-reverses-decades-of-techno/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Microsoft investuje 17,5 miliardy dolarů do AI infrastruktury na podporu indických ambicí v umělé inteligenci",
+      "description": "Společnost Microsoft oznámila investici 17,5 miliardy dolarů do rozvoje datových center a infrastruktury umělé inteligence v Indii, aby posílila svou přítomnost v této jihoasijské zemi, která se rychle stává klíčovým bojištěm globálních technologických gigantů.",
+      "slug": "microsoft-to-spend-175b-on-ai-infrastructure-to-su",
+      "publishedAt": "2025-12-10T03:18:19+00:00",
+      "date": "2025-12-10 03:18:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-10-10-04-43.png",
+      "url": "/tech-news/2025-12-10/microsoft-to-spend-175b-on-ai-infrastructure-to-su/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nafťově bohaté SAE se obrací k umělé inteligenci, aby rozhýbaly ekonomiku",
+      "description": "V poušti Abu Dhabi vzniká obrovský AI kampus o velikosti čtvrtiny Paříže s datovými centry napájenými 5 gigawaty elektřiny, což je největší taková zařízení mimo USA. SAE doufají, že AI nahradí úbytek poptávky po ropě a transformuje jejich ekonomiku.",
+      "slug": "oil-rich-uae-turns-to-ai-to-grease-economy",
+      "publishedAt": "2025-12-10T03:17:32+00:00",
+      "date": "2025-12-10 03:17:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/60ba04262142f01446320fe860b28969e0a2b076.jpg",
+      "url": "/tech-news/2025-12-10/oil-rich-uae-turns-to-ai-to-grease-economy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ministerstvo obrany USA poskytlo půjčku 620 milionů dolarů startupu podporovanému venture capital firmou Donalda Trumpa mladšího",
+      "description": "Startup Vulcan Elements, podpořený investiční firmou 1789 Capital spojenou s Donaldem Trumpem mladším, obdržel půjčku 620 milionů dolarů od amerického ministerstva obrany. Fondy slouží k rozšíření výroby vzácnozemnských magnetů klíčových pro obranu a technologie.",
+      "slug": "dod-gave-620m-loan-to-startup-backed-by-donald-tru",
+      "publishedAt": "2025-12-10T02:30:00+00:00",
+      "date": "2025-12-10 02:30:00",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/12/trumpjr.png",
+      "url": "/tech-news/2025-12-10/dod-gave-620m-loan-to-startup-backed-by-donald-tru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Snopes.com"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump Jr"
+      ]
+    },
+    {
+      "title": "Lokesh se setkal s Pichaiem, aby prohlédl pokrok projektu datového centra ve Vizagu",
+      "description": "Ministr IT a průmyslu Andhra Pradesh Nara Lokesh se setkal se Sundarem Pichaiem z Google a prohlédl pokrok 15miliardového projektu AI datového centra ve Visakhapatnamu. Pozval Google k založení jednotky pro sestavování, kalibraci a testování dronů v Drone City a prohloubení výroby serverů v AP. Setkal se také s vrcholovými manažery Nvidia, Intel a AMD v USA.",
+      "slug": "lokesh-meets-pichai-to-review-progress-of-vizag-da",
+      "publishedAt": "2025-12-10T02:03:24+00:00",
+      "date": "2025-12-10 02:03:24",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://bl-i.thgim.com/public/info-tech/v7j9wz/article70378842.ece/alternates/LANDSCAPE_1200/lokesh.pichai.jpg",
+      "url": "/tech-news/2025-12-10/lokesh-meets-pichai-to-review-progress-of-vizag-da/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Google",
+        "Nvidia",
+        "Intel",
+        "AMD"
+      ],
+      "people": [
+        "Nara Lokesh",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "OpenAI se připojuje k nové Agentic AI Foundation pod Linux Foundation",
+      "description": "OpenAI, Anthropic a Block spustily Agentic AI Foundation v rámci Linux Foundation, která má sloužit jako neutrální prostor pro standardy agentických AI systémů při nasazování do produkce. Kritik Brian Fagioli to označuje za PR krok bez skutečného otevírání klíčových technologií.",
+      "slug": "openai-joins-the-linux-foundations-new-agentic-ai-",
+      "publishedAt": "2025-12-10T02:02:00+00:00",
+      "date": "2025-12-10 02:02:00",
+      "importance": 4,
+      "category": "agentická ai",
+      "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
+      "url": "/tech-news/2025-12-10/openai-joins-the-linux-foundations-new-agentic-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Block",
+        "Linux Foundation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft investuje 17,5 miliardy dolarů do AI infrastruktury v Indii, velké technologické firmy míří na asijský trh",
+      "description": "Microsoft oznámil investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii, což je největší závazek amerického technologického giganta v Asii. Tento krok navazuje na předchozí sliby a probíhá v kontextu národního úsilí Indie o rozvoj umělé inteligence.",
+      "slug": "microsoft-to-invest-175-billion-in-indias-ai-infra",
+      "publishedAt": "2025-12-10T01:51:58+00:00",
+      "date": "2025-12-10 01:51:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107261846-1687543923071-gettyimages-1258977786-BIDEN_MODI.jpeg?v=1765329196&w=1920&h=1080",
+      "url": "/tech-news/2025-12-10/microsoft-to-invest-175-billion-in-indias-ai-infra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoftova investice 17,5 miliardy dolarů do AI v Indii",
+      "description": "Microsoft posiluje své aktivity v Indii investicí 17,5 miliardy dolarů do AI, cloudu a infrastruktury. Tato největší investice v Asii navazuje na předchozí závazky a reaguje na globální soutěž o data centra a výpočetní kapacity.",
+      "slug": "microsofts-india-power-play-insurers-fastag-ambiti",
+      "publishedAt": "2025-12-10T01:32:33+00:00",
+      "date": "2025-12-10 01:32:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125880187,width-1070,height-580,imgsize-27652,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2025-12-10/microsofts-india-power-play-insurers-fastag-ambiti/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
     {
       "title": "Poskytovatel multimodální AI fal získal 140 milionů dolarů při rychlém růstu",
       "description": "Startup fal zabývající se umělou inteligencí oznámil získání 140 milionů dolarů v třetím kole financování letos. Investici Series D vedla Sequoia, zapojily se i venture capital divize Nvidia, Salesforce a Shopify.",
@@ -3506,85 +3720,6 @@
       "people": []
     },
     {
-      "title": "Přichází bot na pokuty: města trestají řidiče, které AI označí za špatné [aktualizace]",
-      "description": "Město Barcelona zpracovává data z kamer městských autobusů pomocí pokročilé umělé inteligence, přestože tvrdí, že je nepoužívá k vystavování pokut špatným řidičům. Zatím. Aktualizace z 6. prosince 2025 přináší podobný program do Chicaga.",
-      "slug": "the-ticket-bot-cometh-cities-are-ticketing-drivers",
-      "publishedAt": "2025-12-06T22:00:00+00:00",
-      "date": "2025-12-06 22:00:00",
-      "importance": 3,
-      "category": "dopravní ai",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/volvo-bus-nova-cta-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-06/the-ticket-bot-cometh-cities-are-ticketing-drivers/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínský gigant v AI čipech zvyšuje produkci, aby vyzval Nvidia – jak na to zareaguje Huawei?",
-      "description": "Cambricon plánuje ztrojnásobit výrobu AI čipů v roce 2026 navzdory nízké výtěžnosti, nedostatku komponentů a rostoucí konkurenci od Huawei.",
-      "slug": "this-chinese-chip-giant-is-boosting-production-to-",
-      "publishedAt": "2025-12-06T21:30:00+00:00",
-      "date": "2025-12-06 21:30:00",
-      "importance": 3,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SrHTcQhSzWuvpA9fHqhxeN-1920-80.png",
-      "url": "/tech-news/2025-12-06/this-chinese-chip-giant-is-boosting-production-to/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Cambricon",
-        "Nvidia",
-        "Huawei"
-      ],
-      "people": []
-    },
-    {
-      "title": "Toradex představuje moduly velikosti mince s procesory NXP i.MX 93 a i.MX 91",
-      "description": "Toradex představil rodiny modulů OSM a Lino Computer on Module s procesory NXP i.MX 93 a i.MX 91. Tyto ultrakompaktní moduly jsou určeny pro průmyslovou automatizaci ve velkém měřítku a edge systémy, kde nabízejí odolné a cenově dostupné řešení pro prostory s omezeným místem.",
-      "slug": "toradex-introduces-coin-sized-modules-powered-with",
-      "publishedAt": "2025-12-06T21:19:50+00:00",
-      "date": "2025-12-06 21:19:50",
-      "importance": 3,
-      "category": "vestavěné systémy",
-      "urlToImage": "https://linuxgizmos.com/files/OSM-Family_top-View.jpg",
-      "url": "/tech-news/2025-12-06/toradex-introduces-coin-sized-modules-powered-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Linuxgizmos.com"
-      },
-      "companies": [
-        "Toradex",
-        "NXP"
-      ],
-      "people": []
-    },
-    {
-      "title": "16 nových funkcí v aktualizaci Windows 11 pro prosinec 2025: Průzkumník souborů, menu Start, virtuální pracovní prostory a další",
-      "description": "Aktualizace bezpečnosti Windows 11 pro prosinec 2025 přináší vylepšení uživatelského rozhraní vyhledávání, nové možnosti sdílení s Copilot v panelu úloh, možnost deaktivace Drag Tray a úpravy tmavého režimu v Průzkumníku souborů. Aplikace Nastavení získává nové karty a redesign, včetně integrace možností pro mobilní zařízení a virtuálních pracovních prostorů.",
-      "slug": "top-16-new-features-coming-in-windows-11s-december",
-      "publishedAt": "2025-12-06T21:00:00+00:00",
-      "date": "2025-12-06 21:00:00",
-      "importance": 3,
-      "category": "windows 11",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kykLxiFbmFqZunG4cdapcb-1194-80.jpg",
-      "url": "/tech-news/2025-12-06/top-16-new-features-coming-in-windows-11s-december/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Zuckerberg se vzdává metaverse po přejmenování celé společnosti na „Meta“",
       "description": "Společnost Meta plánuje až 30procentní škrtání rozpočtů pro projekty Horizon Worlds a VR brýle Quest. Tento krok přichází po ztrátě přes 70 miliard dolarů od roku 2021 a opakovaných propouštěních zaměstnanců.",
       "slug": "zuckerberg-basically-giving-up-on-metaverse-after-",
@@ -3644,24 +3779,6 @@
       "people": []
     },
     {
-      "title": "Velká dohoda americké vlády v oblasti AI",
-      "description": "Bílý dům prezentuje závod v adopci AI jako existenční krizi srovnatelnou s Manhattan Projectem, který vyžaduje masivní rozšíření energetické infrastruktury a datových center. Diskuse v podcaсту Angry Planet s Bena Buchananem, bývalým poradcem Bidenovy administrativy, se zaměřuje na roli vlády v partnerstvích s AI firmami a související rizika.",
-      "slug": "the-us-governments-ai-grand-bargain",
-      "publishedAt": "2025-12-06T16:40:12+00:00",
-      "date": "2025-12-06 16:40:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://open-images.acast.com/shows/61435638f581aa08d9520e67/show-cover.png?height=315",
-      "url": "/tech-news/2025-12-06/the-us-governments-ai-grand-bargain/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Acast.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Co znamená nabídka Netflixu na koupi HBO Max pro vás?",
       "description": "Předplatitelé těchto dvou streamovacích gigantů se nyní pravděpodobně ptají, jaké změny by mohly nastat ohledně jejich obsahu a měsíčních plateb.",
       "slug": "what-does-netflixs-offer-to-buy-hbo-max-mean-for-y",
@@ -3695,60 +3812,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Bestadsontv.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tento týden nejzajímavější technologické příběhy z webu (do 6. prosince)",
-      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Tento souhrn přináší klíčové novinky z oblastí výpočetní techniky, umělé inteligence a dalších disciplín.",
-      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
-      "publishedAt": "2025-12-06T15:00:00+00:00",
-      "date": "2025-12-06 15:00:00",
-      "importance": 4,
-      "category": "technologické novink",
-      "urlToImage": "https://singularityhub.com/uploads/2025/12/nasa-star-cluster.jpeg?auto=webp",
-      "url": "/tech-news/2025-12-06/this-weeks-awesome-tech-stories-from-around-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Country songwriter Breland: Písně vytvořené AI by měly být označené",
-      "description": "Country songwriter Breland navrhuje povinné označování písní vytvořených umělou inteligencí a směrování výdělků z nich na granty pro lidské umělce.",
-      "slug": "this-country-songwriter-says-ai-songs-should-be-la",
-      "publishedAt": "2025-12-06T14:30:00+00:00",
-      "date": "2025-12-06 14:30:00",
-      "importance": 3,
-      "category": "ai hudba",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/GettyImages-2212937721-2.jpg?w=1600&h=900&crop=1",
-      "url": "/tech-news/2025-12-06/this-country-songwriter-says-ai-songs-should-be-la/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Paradox úspor času díky AI v oblasti vzdělávání a rozvoje",
-      "description": "Umělá inteligence šetří čas při tvorbě návrhů vzdělávacího obsahu pro L&D, ale vyžaduje výrazně více řízení a kontroly. Článek radí, jak přesunout důraz z objemu materiálů na kvalitu, procesy a strategické výsledky.",
-      "slug": "the-ld-ai-paradox",
-      "publishedAt": "2025-12-06T14:00:44+00:00",
-      "date": "2025-12-06 14:00:44",
-      "importance": 3,
-      "category": "e-learning",
-      "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/12/Shutterstock_2662936595.jpg",
-      "url": "/tech-news/2025-12-06/the-ld-ai-paradox/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Elearningindustry.com"
       },
       "companies": [],
       "people": []
@@ -3854,26 +3917,6 @@
       "people": []
     },
     {
-      "title": "Nejlepší nástroje pro přístupnou dokumentaci",
-      "description": "Porovnání nástrojů a postupů pro tvorbu přístupné dokumentace včetně sémantického HTML, podpory klávesnice, ARIA atributů, kontrol kontrastu barev, automatizovaných auditů a manuálního testování. Článek zdůrazňuje platformy jako UXPin, Confluence a Docusaurus pro integraci přístupnosti do pracovních postupů.",
-      "slug": "top-tools-for-accessible-documentation",
-      "publishedAt": "2025-12-06T10:14:56+00:00",
-      "date": "2025-12-06 10:14:56",
-      "importance": 3,
-      "category": "webová přístupnost",
-      "urlToImage": "https://studio.uxpincdn.com/studio/wp-content/uploads/2025/12/image_1c461ea1b0cc1f8e35a681f61c36f282.jpeg.webp",
-      "url": "/tech-news/2025-12-06/top-tools-for-accessible-documentation/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Uxpin.com"
-      },
-      "companies": [
-        "UXPin"
-      ],
-      "people": []
-    },
-    {
       "title": "Továrna TSMC v Arizoně vysílá inženýry po skupinách do Taiwanu na školení pro 3nm a 2nm výrobu, připravují se na pilotní výrobu v roce 2028",
       "description": "Srdce pokročilé výroby čipů je na Taiwanu, kde dvě továrny TSMC jsou plně obsazené a výrobce cílí na 100 000 waferů měsíčně do konce 2026. Arizonská továrna v USA posílá inženýry na školení, aby urychlila přechod na 3nm a 2nm procesy.",
       "slug": "tsmcs-arizona-plant-is-sending-engineers-in-batche",
@@ -3891,24 +3934,6 @@
       "companies": [
         "TSMC"
       ],
-      "people": []
-    },
-    {
-      "title": "Velká Británie chce odemknout ‚zlatý věk jaderné energie‘, ale čelí klíčovým výzvám při obnovení historického vedení",
-      "description": "Geopolitika a energetická transformace vrátili jadernou energii na veřejné pořady dne.",
-      "slug": "the-uk-wants-to-unlock-a-golden-age-of-nuclear-but",
-      "publishedAt": "2025-12-06T07:55:27+00:00",
-      "date": "2025-12-06 07:55:27",
-      "importance": 3,
-      "category": "jaderná energie",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194091-1756968328734-gettyimages-1962138611-UK_SIZEWELL.jpeg?v=1764673662&w=1920&h=1080",
-      "url": "/tech-news/2025-12-06/the-uk-wants-to-unlock-a-golden-age-of-nuclear-but/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
       "people": []
     },
     {
