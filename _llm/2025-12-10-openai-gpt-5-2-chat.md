@@ -8,6 +8,7 @@ provider: Openai
 pricing:
   prompt_per_m: 1.75
   completion_per_m: 14.0
+  blend_per_m: 4.8125
 context_length: 128,000
 max_output: 16,384
 input_modalities:
@@ -17,60 +18,85 @@ input_modalities:
 output_modalities:
   - text
 focus:
-  - Nízká latence
-  - Adaptivní uvažování
-  - Interaktivní chat
+  - Chat
+  - Rychlá inference
+strengths:
+  - area: Rychlost
+    description: Navržen pro vysokou propustnost a interaktivní úlohy, kde je odezva klíčová.
+  - area: Konverzační schopnosti
+    description: Model je přirozenější a lépe se drží instrukcí, což zlepšuje uživatelský zážitek.
+weaknesses:
+  - area: Hloubka usuzování
+    description: Není určen pro hluboké deliberace a komplexní úkoly, kde je potřeba detailní analýza.
+  - area: Benchmark data
+    description: Benchmark data nejsou k dispozici, takže nelze objektivně posoudit výkon v různých oblastech.
 competitors:
-  - provider: Anthropic
-    model: Claude Sonnet 4.5
-    model_id: anthropic/claude-sonnet-4.5
-    price_comparison: Vstup o 71 % dražší, výstup o 7 % dražší
-    comparison: Sonnet 4.5 nabízí téměř 8x větší kontext (1M vs 128k), což jej činí lepším pro RAG a analýzu dokumentů, zatímco GPT-5.2 Chat cílí na rychlejší konverzační výměny.
-  - provider: Google
-    model: Gemini 3 Pro Preview
-    model_id: google/gemini-3-pro-preview
-    price_comparison: Vstup o 14 % dražší, výstup o 14 % levnější
-    comparison: Gemini 3 Pro nabízí masivní kontext (1M+) za srovnatelnou cenu, což představuje silnou konkurenci pro GPT-5.2 Chat v úlohách vyžadujících paměť.
-  - provider: OpenAI
-    model: GPT-5.2
-    model_id: openai/gpt-5.2
-    price_comparison: Identická cena
-    comparison: Standardní verze GPT-5.2 nabízí více než trojnásobný kontext (400k) za stejnou cenu; verze Chat je preferována pouze pokud je prioritou latence a konverzační tón.
+  - provider: ANTHROPIC
+    model: anthropic/claude-haiku-4.5
+    model_id: anthropic/claude-haiku-4.5
+    price_comparison: Poloviční cena vstupu, podobná cena výstupu
+    comparison: Claude Haiku je levnější, ale může mít horší kvalitu výstupu. Kontext je větší.
+  - provider: GOOGLE
+    model: google/gemini-2.5-flash-image
+    model_id: google/gemini-2.5-flash-image
+    price_comparison: Výrazně levnější vstup i výstup
+    comparison: Gemini Flash je mnohem levnější, ale má menší kontext a může být méně inteligentní.
+  - provider: X-AI
+    model: x-ai/grok-4.1-fast
+    model_id: x-ai/grok-4.1-fast
+    price_comparison: Výrazně levnější vstup i výstup
+    comparison: Grok je mnohem levnější a má obrovský kontext, ale kvalita výstupu může být nižší.
+  - provider: MISTRALAI
+    model: mistralai/devstral-2512
+    model_id: mistralai/devstral-2512
+    price_comparison: Zdarma
+    comparison: Devstral je zdarma, což je obrovská výhoda, ale kvalita a spolehlivost mohou být horší.
 recommendation:
   target_users:
-    - Vývojáři chatbotů
-    - Zákaznická podpora
-    - Týmy vyžadující real-time asistenci
+    - Vývojáři chatovacích aplikací
+    - Firmy s vysokými nároky na propustnost
   use_cases:
-    - Interaktivní kódování s nízkou latencí
-    - Složité konverzační scénáře
-    - Rychlé řešení logických úloh
+    - Zákaznická podpora
+    - Rychlé generování odpovědí
   avoid_for:
-    - Analýza rozsáhlých repozitářů (nad 128k tokenů)
-    - Dávkové zpracování dat (kvůli ceně)
-verdict: GPT-5.2 Chat je optimální volbou pro aplikace vyžadující rovnováhu mezi inteligencí a rychlostí odezvy, kde není kritická velikost kontextového okna.
-analyzer_model: google/gemini-3-pro-preview
-analyzed_at: "2025-12-11 20:31"
+    - Složité logické úlohy
+    - Úkoly vyžadující hlubokou analýzu dat
+verdict: GPT-5.2 Chat je ideální pro aplikace, kde je klíčová rychlost a odezva. Pokud potřebujete rychlý a konverzační model, je to dobrá volba.
+benchmark_categories: null
+overall_score: null
+overall_tier: null
+radar:
+  logic_code: 0
+  agentic: 0
+  languages: 0
+  safety: 0
+  speed: Vysoká
+expert_verdict:
+  killer_feature: Extrémně nízká latence pro interaktivní aplikace
+  hidden_risk: Nedostatek benchmark dat pro objektivní srovnání výkonu
+  recommended_use_case: Chatbot pro rychlou zákaznickou podporu
+analyzer_model: google/gemini-2.0-flash-001
+analyzed_at: "2025-12-11 20:47"
 ---
 
-GPT-5.2 Chat (AKA Instant) je rychlý, nenáročný člen rodiny 5.2, optimalizovaný pro chat s nízkou latencí při zachování silné obecné inteligence. Využívá adaptivní usuzování k selektivnímu "přemýšlení" nad složitějšími dotazy, čímž zlepšuje přesnost v matematice, kódování a úlohách s více kroky, aniž by zpomaloval typické konverzace. Model je ve výchozím nastavení srdečnější a konverzačnější, s lepším dodržováním instrukcí a stabilnějším krátkodobým usuzováním. GPT-5.2 Chat je navržen pro interaktivní pracovní zátěže s vysokou propustností, kde na odezvě a konzistenci záleží více než na hlubokém uvažování.
+GPT-5.2 Chat (AKA Instant) je rychlý, nenáročný člen rodiny 5.2, optimalizovaný pro chat s nízkou latencí při zachování silné obecné inteligence. Využívá adaptivní usuzování k selektivnímu "přemýšlení" nad složitějšími dotazy, čímž zlepšuje přesnost v matematice, kódování a úlohách s více kroky, aniž by zpomaloval typické konverzace. Model je standardně srdečnější a konverzačnější, s lepším dodržováním instrukcí a stabilnějším krátkodobým usuzováním. GPT-5.2 Chat je navržen pro interaktivní pracovní zátěže s vysokou propustností, kde na odezvě a konzistenci záleží více než na hlubokém uvažování.
 
 ## Unikátní charakteristiky
 
-GPT-5.2 Chat (Instant) představuje hybridní přístup, který kombinuje rychlou inferenci s dynamicky aktivovaným hlubším uvažováním pro složité úlohy. Model je specificky laděn pro konverzační plynulost a okamžitou odezvu, přičemž obětuje délku kontextového okna ve prospěch rychlosti a stability.
+GPT-5.2 Chat je optimalizován pro rychlou interakci a nízkou latenci. Adaptivní usuzování zlepšuje přesnost u složitějších dotazů bez zpomalení běžných konverzací. Model je konverzačnější a lépe se drží instrukcí.
 
 ## Silné stránky
 
-### Adaptivní uvažování
-Selektivní aktivace 'myšlení' u náročných dotazů (matematika, kódování) zvyšuje přesnost bez plošného zpomalení typického pro plné reasoning modely.
+### Rychlost
+Navržen pro vysokou propustnost a interaktivní úlohy, kde je odezva klíčová.
 
-### Instrukční stabilita
-Vylepšené dodržování složitých instrukcí a formátování v porovnání s předchozími 'turbo' nebo 'instant' variantami.
+### Konverzační schopnosti
+Model je přirozenější a lépe se drží instrukcí, což zlepšuje uživatelský zážitek.
 
 ## Slabé stránky
 
-### Kontextové okno
-Kapacita 128,000 tokenů je výrazně pod průměrem přímé konkurence (Sonnet 4.5 i Gemini 3 Pro nabízejí 1M+), což limituje analýzu velkých dokumentů.
+### Hloubka usuzování
+Není určen pro hluboké deliberace a komplexní úkoly, kde je potřeba detailní analýza.
 
-### Poměr cena/výkon
-Cena výstupu $14.00/1M je relativně vysoká pro model prezentovaný jako 'lightweight', zejména v porovnání s modely Google Gemini.
+### Benchmark data
+Benchmark data nejsou k dispozici, takže nelze objektivně posoudit výkon v různých oblastech.

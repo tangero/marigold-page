@@ -77,9 +77,9 @@ class BulkLLMFetcher:
     BACKUP_DIR = Path(__file__).parent.parent / "_data" / "llm_backup"
 
     # Časové konstanty
-    # Reálný aktuální čas - pro filtrování budoucích simulovaných dat z API
-    # OpenRouter API obsahuje simulovaná data s budoucími timestampy
-    REAL_NOW_TIMESTAMP = 1733788800 + 365*24*60*60  # prosinec 2025
+    # Reálný aktuální čas - dynamicky z time.time()
+    # (dříve byl statický, což způsobovalo odfiltrování nových modelů)
+    REAL_NOW_TIMESTAMP = int(time.time())
 
     # Timestampy pro začátky roků
     YEAR_STARTS = {
