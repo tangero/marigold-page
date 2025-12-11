@@ -1,7 +1,121 @@
 {
-  "generated": "2025-12-11T13:02:08.668821+00:00",
+  "generated": "2025-12-11T17:19:19.571178+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Elon Musk: Tesla robotaxi v Austinu plně bez řidiče za tři týdny",
+      "description": "Novinka přichází v době, kdy Tesla plánuje zdvojnásobit svou flotilu v oblasti Austinu na přibližně 60 vozidel ještě tento měsíc.",
+      "slug": "elon-musk-tesla-austin-robotaxis-fully-driverless-",
+      "publishedAt": "2025-12-10T16:34:51+00:00",
+      "date": "2025-12-10 16:34:51",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://s.hdnux.com/photos/01/53/67/67/28278242/5/rawImage.jpg",
+      "url": "/tech-news/2025-12-10/elon-musk-tesla-austin-robotaxis-fully-driverless/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Austin American-Statesman"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Co se děje s Microsoftem, Vodafone a e&",
+      "description": "Microsoft oznámil investici 17,5 miliardy dolarů do Indie na rozvoj cloudu a umělé inteligence. Vodafone snížil čas upgradu hlasového software o 75 procent díky automatizovanému testovacímu systému. e& nasazuje generativní AI nástroje prostřednictvím platformy amAIz od firmy Amdocs.",
+      "slug": "whats-up-with-microsoft-vodafone-e",
+      "publishedAt": "2025-12-10T16:30:34+00:00",
+      "date": "2025-12-10 16:30:34",
+      "importance": 4,
+      "category": "telekomunikace",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/miocrosoft-india-source-microsoft-21494.jpeg?w=1200",
+      "url": "/tech-news/2025-12-10/whats-up-with-microsoft-vodafone-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "Microsoft",
+        "Vodafone",
+        "e&",
+        "Amdocs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Velo3D stoupají po potvrzení klíčové role v motorech Raptor od SpaceX a uvedení Andurilu jako zákazníka",
+      "description": "Akcie společnosti Velo3D (NASDAQ:VELO) výrazně rostou po prohlášení generálního ředitele Aruna Jeldiho o důležité roli firmy v dodavatelském řetězci SpaceX pro motory Raptor a o současné spolupráci s obrannou technologickou firmou Anduril. Tato novinka přitahuje pozornost investorů i na sociálních sítích.",
+      "slug": "velo3d-stock-soars-as-ceo-confirms-key-spacex-rapt",
+      "publishedAt": "2025-12-10T16:04:49+00:00",
+      "date": "2025-12-10 16:04:49",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://biztoc.com/cdn/ccd5622153440baf_s.webp",
+      "url": "/tech-news/2025-12-10/velo3d-stock-soars-as-ceo-confirms-key-spacex-rapt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Velo3D",
+        "SpaceX",
+        "Anduril"
+      ],
+      "people": [
+        "Arun Jeldi"
+      ]
+    },
+    {
+      "title": "Čínské subjekty obcházejí exportní omezení pro čipy Nvidia H200",
+      "description": "Univerzity, vojenské přidružené organizace a datová centra získaly tisíce omezených procesorů Nvidia H200 prostřednictvím šedého trhu a nájemních ujednání. Rozhodnutí prezidenta Donalda Trumpa povolit exporty těchto čipů pro umělou inteligenci přichází po období přísných restrikcí.",
+      "slug": "chinese-entities-bypass-export-rules-for-nvidia-h2",
+      "publishedAt": "2025-12-10T15:53:11+00:00",
+      "date": "2025-12-10 15:53:11",
+      "importance": 4,
+      "category": "exportní kontroly",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_2411572419-scaled.jpg",
+      "url": "/tech-news/2025-12-10/chinese-entities-bypass-export-rules-for-nvidia-h2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Čína svolává nouzové schůzky k diskuzi o nákupech Nvidia H200 po změně exportních pravidel, tvrdí zpráva – ByteDance, Tencent a Alibaba mají posoudit poptávku",
+      "description": "Čína svolala v úterý 10. prosince nouzové schůzky se svými největšími technologickými společnostmi, aby posoudila, kolik akcelerátorů Nvidia H200 plánují koupit po rozhodnutí prezidenta Donalda Trumpa umožnit jejich export schváleným zákazníkům.",
+      "slug": "china-holds-emergency-meetings-to-discuss-nvidia-h",
+      "publishedAt": "2025-12-10T15:50:09+00:00",
+      "date": "2025-12-10 15:50:09",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "url": "/tech-news/2025-12-10/china-holds-emergency-meetings-to-discuss-nvidia-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Nvidia",
+        "ByteDance",
+        "Tencent",
+        "Alibaba"
+      ],
+      "people": []
+    },
     {
       "title": "Od zadání k publikaci: Google Firebase Studio vytváří a hostuje full-stack aplikace",
       "description": "Google uvedl Firebase Studio, platformu poháněnou AI přes Gemini API, která automatizuje vývoj full-stack aplikací od návrhu po nasazení. Umožňuje rychlé vytváření backendu, frontendu i mobilních aplikací s podporou populárních rámců jako React nebo Flutter.",
@@ -3905,105 +4019,6 @@
         "name": "OilPrice.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zuckerberg se vzdává metaverse po přejmenování celé společnosti na „Meta“",
-      "description": "Společnost Meta plánuje až 30procentní škrtání rozpočtů pro projekty Horizon Worlds a VR brýle Quest. Tento krok přichází po ztrátě přes 70 miliard dolarů od roku 2021 a opakovaných propouštěních zaměstnanců.",
-      "slug": "zuckerberg-basically-giving-up-on-metaverse-after-",
-      "publishedAt": "2025-12-06T19:58:06+00:00",
-      "date": "2025-12-06 19:58:06",
-      "importance": 3,
-      "category": "metaverse",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-06/zuckerberg-basically-giving-up-on-metaverse-after/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Facebook",
-        "Meta"
-      ],
-      "people": [
-        "Mark Zuckerberg"
-      ]
-    },
-    {
-      "title": "Možná se vám to nebude líbit, ale další rozvoj umělé inteligence může být klíčový pro vaše budoucí plány",
-      "description": "I přes nevýhody umělé inteligence je její další rozvoj důležitý pro ekonomický růst a budoucí finanční bezpečí. Pokud by investice do AI selhaly, mohlo by to vést k ekonomickému zpomalení.",
-      "slug": "you-may-not-like-it-but-continued-ai-development-c",
-      "publishedAt": "2025-12-06T17:55:18+00:00",
-      "date": "2025-12-06 17:55:18",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/AI.jpg",
-      "url": "/tech-news/2025-12-06/you-may-not-like-it-but-continued-ai-development-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč firmy neřeší svůj technický dluh v systému Windows?",
-      "description": "S koncem podpory Windows 10 se organizace vypořádávají s rozměry svého technického dluhu. Průzkum ukázal, že devět z deseti IT lídrů čelí tomuto problému, ale pouze 14 procent plánuje prioritizovat modernizaci starých systémů.",
-      "slug": "why-are-companies-not-tackling-their-windows-techn",
-      "publishedAt": "2025-12-06T14:00:00+00:00",
-      "date": "2025-12-06 14:00:00",
-      "importance": 3,
-      "category": "technický dluh",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
-      "url": "/tech-news/2025-12-06/why-are-companies-not-tackling-their-windows-techn/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Když AI podvádí: Skrytá nebezpečí reward hacking",
-      "description": "Nový výzkum Anthropic odhaluje, jak reward hacking v AI vede k nebezpečným chováním, včetně poskytování škodlivých rad jako pití bleachu uživatelům hledajícím pomoc.",
-      "slug": "when-ai-cheats-the-hidden-dangers-of-reward-hackin",
-      "publishedAt": "2025-12-06T12:30:11+00:00",
-      "date": "2025-12-06 12:30:11",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/man-on-laptop-computer.jpg",
-      "url": "/tech-news/2025-12-06/when-ai-cheats-the-hidden-dangers-of-reward-hackin/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Oznámeno první škálovatelné úložiště dat na bázi DNA s kapacitou 60 PB v 60 kubických palcích, postačí na 660 000 filmů v 4K – Atlas Data Storage tvrdí 1000násobnou hustotu oproti LTO-10 pásce",
-      "description": "Společnost Atlas Data Storage oznámila svůj první komerční produkt Atlas Eon 100, což je škálovatelné úložiště dat využívající technologii DNA. Řešení slibuje extrémní hustotu úložiště a dlouhodobou stabilitu bez potřeby obnovování dat.",
-      "slug": "worlds-first-scalable-dna-data-storage-offering-an",
-      "publishedAt": "2025-12-06T11:30:00+00:00",
-      "date": "2025-12-06 11:30:00",
-      "importance": 3,
-      "category": "dna úložiště",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x7MUYwauskexMJzT6LJSkj-1920-80.jpg",
-      "url": "/tech-news/2025-12-06/worlds-first-scalable-dna-data-storage-offering-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Atlas Data Storage"
-      ],
       "people": []
     }
   ]
