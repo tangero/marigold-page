@@ -1,7 +1,151 @@
 {
-  "generated": "2025-12-11T05:05:05.690043+00:00",
+  "generated": "2025-12-11T09:02:26.724960+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Intel podepsal předběžnou dohodu o akvizici startupu SambaNova na AI čipy",
+      "description": "Podle zdrojů blízkých Wired podepsal Intel neviazanou dohodu o koupi startupu SambaNova, který vyvíjí specializované AI čipy. Dohoda není závazná a finální podmínky nejsou známy.",
+      "slug": "intel-to-acquire-sambanova-ai-chip-startup",
+      "publishedAt": "2025-12-10T08:12:48+00:00",
+      "date": "2025-12-10 08:12:48",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.techpowerup.com/img/Pl1mOoHeiPwDaEqr.jpg",
+      "url": "/tech-news/2025-12-10/intel-to-acquire-sambanova-ai-chip-startup/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Intel",
+        "SambaNova"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gautam Adani se setkal se Satyem Nadellou, dostal ukázku AI aplikací, které generální ředitel Microsoftu vyvíjí osobně; internet mluví o 'vzrušujících časech'",
+      "description": "V příspěvku na X Gautam Adani naznačil partnerství s Microsoftem a uvedl, že diskutovali o obrovském potenciálu umělé inteligence ve fyzickém světě.",
+      "slug": "gautam-adani-meets-satya-nadella-gets-demo-of-ai-a",
+      "publishedAt": "2025-12-10T07:45:48+00:00",
+      "date": "2025-12-10 07:45:48",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/10/1600x900/logo/G7xzMgcaMAIi7Db_1765351525327_1765351537031.jpg",
+      "url": "/tech-news/2025-12-10/gautam-adani-meets-satya-nadella-gets-demo-of-ai-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Gautam Adani",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Nvidia testuje technologii sledování čipů současně s americkým zásahom proti pašerákům GPU za 160 milionů USD",
+      "description": "Nvidia vyvinula technologii pro ověření fyzické polohy svých čipů pro umělou inteligenci. Zároveň americké úřady rozbily síť spojenou s Čínou, která pašovala GPU v hodnotě přes 160 milionů USD.",
+      "slug": "nvidia-trials-chip-tracking-tech-amid-us-bust-of-u",
+      "publishedAt": "2025-12-10T07:14:08+00:00",
+      "date": "2025-12-10 07:14:08",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251210vl201_files/2_2b.jpg",
+      "url": "/tech-news/2025-12-10/nvidia-trials-chip-tracking-tech-amid-us-bust-of-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Supermicro rozšiřuje portfolio NVIDIA Blackwell o nové 4U a 2-OU (OCP) systémy s kapalním chlazením NVIDIA HGX B300 připravené k hromadné expedici",
+      "description": "Společnost Supermicro oznámila rozšíření nabídky pro architekturu NVIDIA Blackwell o 4U a 2-OU (OCP) systémy s kapalním chlazením pro NVIDIA HGX B300. Tyto řešení jsou optimalizována pro vysokohustotní nasazení v hyperskálových datových centrech a AI továrnách a jsou připravena k okamžité hromadné expedici.",
+      "slug": "supermicro-expands-nvidia-blackwell-portfolio-with",
+      "publishedAt": "2025-12-10T07:04:56+00:00",
+      "date": "2025-12-10 07:04:56",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://th-i.thgim.com/public/brandhub/h43mzk/article70379081.ece/alternates/LANDSCAPE_1200/B300_liquid_cooled_Super_Micro.jpg",
+      "url": "/tech-news/2025-12-10/supermicro-expands-nvidia-blackwell-portfolio-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Supermicro",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nissan a britská AI firma Wayve uvedou systém autonomního řízení do fiskálního roku 2027",
+      "description": "Nissan Motor a britský startup Wayve podepsaly dohodu o vývoji systému asistence řidiči založeného na umělé inteligenci, který má být instalován do sériově vyráběných vozů v Japonsku do fiskálního roku končícího březnem 2028 (nikkei.com).",
+      "slug": "nissan-uk-ai-company-wayve-to-launch-self-driving-",
+      "publishedAt": "2025-12-10T06:55:55+00:00",
+      "date": "2025-12-10 06:55:55",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F7%2F7%2F11807703-1-eng-GB%2F43a8b5c71245-dd.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "url": "/tech-news/2025-12-10/nissan-uk-ai-company-wayve-to-launch-self-driving/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "companies": [
+        "Nissan",
+        "Wayve"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bohaté na ropu Spojené arabské emiráty směřují k ekonomice založené na AI s masivními datovými centry",
+      "description": "Spojené arabské emiráty investují miliardy dolarů do stavby obřích datových center a technologických partnerství, aby vytvořily ekonomiku založenou na umělé inteligenci a překročily závislost na ropě.",
+      "slug": "oil-rich-uae-aims-for-ai-native-economy-with-massi",
+      "publishedAt": "2025-12-10T06:40:43+00:00",
+      "date": "2025-12-10 06:40:43",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/10085249/AFP__20251210__87ML3KE__v1__MidRes__FilesUaeTechnologyEconomyAi-1200x630.jpg",
+      "url": "/tech-news/2025-12-10/oil-rich-uae-aims-for-ai-native-economy-with-massi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IBM kdysi dominovala výpočetní technice. Kvantové technologie by ji mohly znovu dostat na špičku",
+      "description": "IBM se vrací k dominanci v oboru díky pokrokům v kvantovém počítačování, jako je systém Quantum System Two. Tento vývoj by mohl přinést praktické aplikace v oblastech jako optimalizace a simulace složitých systémů.",
+      "slug": "ibm-once-dominated-computing-quantum-technology-co",
+      "publishedAt": "2025-12-10T06:01:24+00:00",
+      "date": "2025-12-10 06:01:24",
+      "importance": 5,
+      "category": "kvantové technologie",
+      "urlToImage": "https://biztoc.com/cdn/1cbb4ccd58d17738_s.webp",
+      "url": "/tech-news/2025-12-10/ibm-once-dominated-computing-quantum-technology-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "IBM"
+      ],
+      "people": []
+    },
     {
       "title": "Akcie Meesho debutují s 46% prémií nad cenou IPO na Dalal Street",
       "description": "Akcie online tržiště Meesho Ltd. se objevily na Národní burze cenných papírů v Bombaji za 162,50 rupií za akcii, což představuje prémií 46,40 % oproti ceně IPO. Na Bombajské burze cenných papírů (BSE) debutovaly za 161,20 rupií s prémií 45,23 %.",
@@ -3700,26 +3844,6 @@
       "people": []
     },
     {
-      "title": "Uživatelé hlásí reklamy na ChatGPT. OpenAI to popírá",
-      "description": "Ředitel produktu ChatGPT Nick Turley z OpenAI prohlásil, že společnost neprovádí žádné živé testy reklam na platformě. Uživatelé však tvrdí opak.",
-      "slug": "users-say-they-are-seeing-ads-on-chatgpt-openai-sa",
-      "publishedAt": "2025-12-06T22:01:19+00:00",
-      "date": "2025-12-06 22:01:19",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/693482627ecd1d1da663137e?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-06/users-say-they-are-seeing-ads-on-chatgpt-openai-sa/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Zuckerberg se vzdává metaverse po přejmenování celé společnosti na „Meta“",
       "description": "Společnost Meta plánuje až 30procentní škrtání rozpočtů pro projekty Horizon Worlds a VR brýle Quest. Tento krok přichází po ztrátě přes 70 miliard dolarů od roku 2021 a opakovaných propouštěních zaměstnanců.",
       "slug": "zuckerberg-basically-giving-up-on-metaverse-after-",
@@ -3761,24 +3885,6 @@
       "people": []
     },
     {
-      "title": "Jaké jsou výhody zařízení s umělou inteligencí pro péči o diabetes?",
-      "description": "Nová studie zkoumá hodnotu a nedostatky nositelných zařízení vylepšených umělou inteligencí pro péči o diabetes 2. typu a prediabetes.",
-      "slug": "what-are-the-benefits-of-ai-powered-devices-for-di",
-      "publishedAt": "2025-12-06T17:17:23+00:00",
-      "date": "2025-12-06 17:17:23",
-      "importance": 3,
-      "category": "zdraví",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/12/ai-powered-wearable-devices-diabetes-care-1600.jpg",
-      "url": "/tech-news/2025-12-06/what-are-the-benefits-of-ai-powered-devices-for-di/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurity: Research News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Co znamená nabídka Netflixu na koupi HBO Max pro vás?",
       "description": "Předplatitelé těchto dvou streamovacích gigantů se nyní pravděpodobně ptají, jaké změny by mohly nastat ohledně jejich obsahu a měsíčních plateb.",
       "slug": "what-does-netflixs-offer-to-buy-hbo-max-mean-for-y",
@@ -3799,24 +3905,6 @@
       "people": []
     },
     {
-      "title": "Televizní reklama McDonald's Nizozemsko: Je to nejhroznější čas roku",
-      "description": "Vnitřní divize produkční společnosti Sweetshop specializující se na inovace v AI, The Gardening.club, vytvořila vánocní reklamu pro McDonald's v Nizozemsku plně pomocí AI. Spot obrací tradiční Vánoce naruby a zdůrazňuje chaotickou realitu svátků, přičemž lidský zásah zůstal omezen na řemeslné prvky.",
-      "slug": "tv-ad-mcdonalds-netherlands-its-the-most-terrible-",
-      "publishedAt": "2025-12-06T16:01:17+00:00",
-      "date": "2025-12-06 16:01:17",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://bestads-files.b-cdn.net/thumbs/214157a705.png",
-      "url": "/tech-news/2025-12-06/tv-ad-mcdonalds-netherlands-its-the-most-terrible/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bestadsontv.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč firmy neřeší svůj technický dluh v systému Windows?",
       "description": "S koncem podpory Windows 10 se organizace vypořádávají s rozměry svého technického dluhu. Průzkum ukázal, že devět z deseti IT lídrů čelí tomuto problému, ale pouze 14 procent plánuje prioritizovat modernizaci starých systémů.",
       "slug": "why-are-companies-not-tackling-their-windows-techn",
@@ -3833,28 +3921,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Dva GTX 580 v SLI jsou zodpovědné za dnešní AI – Nvidia šéf Huang odhalil, že vynález deep learningu začal na dvou vlajkových Fermi GPU v roce 2012",
-      "description": "Šéf Nvidia Jensen Huang v nedávném podcastu Joea Rogana prohlásil, že vynálezci deep learningu spustili první síť strojového učení na dvojici GTX 580 v SLI v roce 2012. Výzkumníci z University of Toronto tak položili základy současné éry umělé inteligence.",
-      "slug": "two-gtx-580s-in-sli-are-responsible-for-the-ai-we-",
-      "publishedAt": "2025-12-06T13:00:00+00:00",
-      "date": "2025-12-06 13:00:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SeFR7XjGGqt3DeeARQcBRb-2560-80.jpg",
-      "url": "/tech-news/2025-12-06/two-gtx-580s-in-sli-are-responsible-for-the-ai-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
     },
     {
       "title": "Když AI podvádí: Skrytá nebezpečí reward hacking",
@@ -3877,26 +3943,6 @@
       "people": []
     },
     {
-      "title": "Obrovské množství uživatelů Windows odmítá upgrade po Microsoftově integraci AI funkcí",
-      "description": "Miliony uživatelů Windows 10 odmítají přechod na Windows 11 kvůli nepopulárním AI funkcím, které Microsoft agresivně prosazuje. Podpora pro Windows 10 končí, ale poptávka po upgradu je minimální.",
-      "slug": "vast-number-of-windows-users-refusing-to-upgrade-a",
-      "publishedAt": "2025-12-06T12:30:00+00:00",
-      "date": "2025-12-06 12:30:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/windows-users-refusing-upgrade-windows-11-ai.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-12-06/vast-number-of-windows-users-refusing-to-upgrade-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Oznámeno první škálovatelné úložiště dat na bázi DNA s kapacitou 60 PB v 60 kubických palcích, postačí na 660 000 filmů v 4K – Atlas Data Storage tvrdí 1000násobnou hustotu oproti LTO-10 pásce",
       "description": "Společnost Atlas Data Storage oznámila svůj první komerční produkt Atlas Eon 100, což je škálovatelné úložiště dat využívající technologii DNA. Řešení slibuje extrémní hustotu úložiště a dlouhodobou stabilitu bez potřeby obnovování dat.",
       "slug": "worlds-first-scalable-dna-data-storage-offering-an",
@@ -3913,26 +3959,6 @@
       },
       "companies": [
         "Atlas Data Storage"
-      ],
-      "people": []
-    },
-    {
-      "title": "Továrna TSMC v Arizoně vysílá inženýry po skupinách do Taiwanu na školení pro 3nm a 2nm výrobu, připravují se na pilotní výrobu v roce 2028",
-      "description": "Srdce pokročilé výroby čipů je na Taiwanu, kde dvě továrny TSMC jsou plně obsazené a výrobce cílí na 100 000 waferů měsíčně do konce 2026. Arizonská továrna v USA posílá inženýry na školení, aby urychlila přechod na 3nm a 2nm procesy.",
-      "slug": "tsmcs-arizona-plant-is-sending-engineers-in-batche",
-      "publishedAt": "2025-12-06T09:13:23+00:00",
-      "date": "2025-12-06 09:13:23",
-      "importance": 3,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/TSMC.jpg",
-      "url": "/tech-news/2025-12-06/tsmcs-arizona-plant-is-sending-engineers-in-batche/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "TSMC"
       ],
       "people": []
     },
@@ -3972,24 +3998,6 @@
       "companies": [
         "Peraton"
       ],
-      "people": []
-    },
-    {
-      "title": "Cestovní agentury doplňují lidské znalosti novými nástroji s umělou inteligencí",
-      "description": "Cestovní agentury zavádějí nové nástroje s umělou inteligencí, aby konkurovaly velkým hráčům jako Expedia, Google nebo Kayak. Tyto nástroje doplňují odborné znalosti lidských plánovačů cest a pomáhají s personalizovanými nabídkami a sledováním cen.",
-      "slug": "travel-agencies-complement-human-insights-with-new",
-      "publishedAt": "2025-12-06T00:01:05+00:00",
-      "date": "2025-12-06 00:01:05",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/travel-agencies-ai-artificial-intelligence-agents-ai-powered-tools-travel-ai-e1764978747866.jpeg",
-      "url": "/tech-news/2025-12-06/travel-agencies-complement-human-insights-with-new/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
       "people": []
     }
   ]
