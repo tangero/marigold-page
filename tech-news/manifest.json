@@ -1,7 +1,110 @@
 {
-  "generated": "2025-12-12T01:26:25.862328+00:00",
+  "generated": "2025-12-12T04:59:58.979429+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Generální prokurátoři USA varovali Microsoft, Meta, Google a Apple kvůli výstupům chatbotů",
+      "description": "Státní generální prokurátoři varovali velké technologické firmy, že „deluzivní“ výstupy chatbotů mohou porušovat státní zákony a ohrožovat duševní zdraví uživatelů. Vyzvali k nezávislým auditům a silnějšímu dohledu po případech zranitelných uživatelů, což prohlubuje napětí mezi státy a federální vládou v otázce regulace umělé inteligence.",
+      "slug": "microsoft-meta-google-and-apple-warned-over-ai-out",
+      "publishedAt": "2025-12-11T04:16:05+00:00",
+      "date": "2025-12-11 04:16:05",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-24128,resizemode-75,msid-125902453/tech/artificial-intelligence/microsoft-meta-google-and-apple-warned-over-ai-outputs-by-us-attorneys-general.jpg",
+      "url": "/tech-news/2025-12-11/microsoft-meta-google-and-apple-warned-over-ai-out/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Microsoft",
+        "Meta",
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Problém AI v hodnotě 400 miliard dolarů: Stárnou čipy příliš rychle?",
+      "description": "Tech průmysl letos investoval přibližně 400 miliard dolarů do specializovaných čipů a datových center v honbě za snem o umělé inteligenci, ale rostou pochybnosti o rozumnosti těchto bezprecedentních výdajů. Stavba datových center vyžaduje získání obrovského kapitálu, upozorňuje analytik Gil Luria.",
+      "slug": "ais-400-billion-problem-are-chips-getting-old-too-",
+      "publishedAt": "2025-12-11T03:05:05+00:00",
+      "date": "2025-12-11 03:05:05",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-166540,resizemode-75,msid-125901658/tech/artificial-intelligence/ais-400-billion-problem-are-chips-getting-old-too-fast.jpg",
+      "url": "/tech-news/2025-12-11/ais-400-billion-problem-are-chips-getting-old-too/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Problém AI za 400 miliard dolarů: Stárnou čipy příliš rychle?",
+      "description": "Technologický průmysl letos investoval asi 400 miliard dolarů do specializovaných čipů a datových center v honbě za vývojem umělé inteligence, ale rostou pochybnosti o udržitelnosti těchto investic. Klíčovým problémem jsou příliš optimistické předpoklady o délce životnosti čipů, které rychle stárnou kvůli akcelerovanému vývoji nových generací.",
+      "slug": "ais-400-bn-problem-are-chips-getting-old-too-fast",
+      "publishedAt": "2025-12-11T03:02:32+00:00",
+      "date": "2025-12-11 03:02:32",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/9faa2177dbc2761a97a1b7914dcf9d71e264b7d4.jpg",
+      "url": "/tech-news/2025-12-11/ais-400-bn-problem-are-chips-getting-old-too-fast/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sam Altman varuje před explozivním růstem ChatGPT: Rychlost změn vyvolává úzkost z AI a obavy o pracovní místa",
+      "description": "Generální ředitel OpenAI Sam Altman upozornil, že svět se sotva stačí přizpůsobovat rychlosti vývoje umělé inteligence, protože ChatGPT se šíří globálně rychleji než jakákoli jiná technologie v moderní historii.",
+      "slug": "sam-altman-sounds-alarm-as-chatgpt-explodes-global",
+      "publishedAt": "2025-12-11T02:31:19+00:00",
+      "date": "2025-12-11 02:31:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/48102161b68090dfa8f579e9ba30845b",
+      "url": "/tech-news/2025-12-11/sam-altman-sounds-alarm-as-chatgpt-explodes-global/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Redaktoři WSJ zuří: Trump vyměňuje národní bezpečnost za 'grosze na dolar'",
+      "description": "Prezident Donald Trump čelí ostré kritice od konzervativní redakce Wall Street Journal za schválení prodeje pokročilých počítačových čipů firmy Nvidia do Číny. USA mají získat 25 procent zisku z těchto prodejů, což kritici označují za nedostatečnou kompenzaci za rizika pro národní bezpečnost.",
+      "slug": "wsj-editors-rage-as-trump-trades-away-national-sec",
+      "publishedAt": "2025-12-11T02:26:38+00:00",
+      "date": "2025-12-11 02:26:38",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.rawstory.com/media-library/donald-trump.jpg?id=60311196&width=1200&height=600&coordinates=0%2C232%2C0%2C232",
+      "url": "/tech-news/2025-12-11/wsj-editors-rage-as-trump-trades-away-national-sec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Raw Story"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "Počet tokenů na rupii na watt bude korelovat s růstem HDP: Satya Nadella",
       "description": "Generální ředitel Microsoftu Satya Nadella potvrdil, že nástroj Copilot zpracovává všechna lokální data výhradně na domácím území. Představil vzorec 'tokenů na rupii na watt' jako klíčový faktor růstu hrubého domácího produktu.",
@@ -2952,24 +3055,6 @@
       "people": []
     },
     {
-      "title": "AI přetváří bílokolíčkovou pracovní sílu v Indii, mzdový rozdíl se rozšiřuje",
-      "description": "Role založené na opakujících se úkolech – operace, podpora, testování – čelí největšímu vytlačení, což vyvíjí tlak na příjmy střední třídy. Nízkopříjmové rutinní práce riskují automatizaci nebo přesun do gig ekonomiky.",
-      "slug": "ai-reshapes-indias-white-collar-workforce-as-wage-",
-      "publishedAt": "2025-12-07T13:16:45+00:00",
-      "date": "2025-12-07 13:16:45",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ir06av/article70369004.ece/alternates/LANDSCAPE_1200/PO26_Man_laptop.jpg",
-      "url": "/tech-news/2025-12-07/ai-reshapes-indias-white-collar-workforce-as-wage/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Top analytici z Wall Street favorizují tyto 3 akcie pro růstový potenciál",
       "description": "Služba TipRanks vyzdvihuje tři akcie s vysokým růstovým potenciálem, včetně Credo Technology a Walmartu. Analytici oceňují zejména výsledky firem v oblasti AI a maloobchodu.",
       "slug": "top-wall-street-analysts-favor-these-3-stocks-for-",
@@ -3252,24 +3337,6 @@
       "people": []
     },
     {
-      "title": "AI pravděpodobně nevyhazuje váš životopis. Dělá to človéku.",
-      "description": "Technologie hraje větší roli v náborovém procesu, ale často to jsou lidé, ne boty, kteří zamítají vaši žádost.",
-      "slug": "ai-isnt-likely-throwing-out-your-résumé-a-human-is",
-      "publishedAt": "2025-12-07T10:55:04+00:00",
-      "date": "2025-12-07 10:55:04",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/6932074771107c9f34576189?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-07/ai-isnt-likely-throwing-out-your-résumé-a-human-is/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Generální ředitelka neziskovky podporované McKinsey sdílí 4 způsoby, jak lídři mohou efektivně zavádět AI",
       "description": "Šéfka organizace Generation Mona Mourshed upozorňuje, že mnoho firem naráží při zavádění AI na problémy. Průzkum jejich neziskovky ukazuje, že většina zaměstnanců AI používá týdně, ale polovina se učí sama.",
       "slug": "the-ceo-of-a-mckinsey-backed-employment-nonprofit-",
@@ -3424,26 +3491,6 @@
       "people": []
     },
     {
-      "title": "AI je nástrojem pro mladší generace k dosažení snu Viksit Bharat 2047: Astronaut Shubhanshu Shukla",
-      "description": "Astronaut Shukla zdůraznil důležitost politické vůle a zaměření na tyto otázky a řekl, že iniciativy jako Delhi AI Grind mohou pomoci dosáhnout snu Viksit Bharat.",
-      "slug": "ai-is-tool-for-younger-generations-to-accomplish-d",
-      "publishedAt": "2025-12-07T08:44:14+00:00",
-      "date": "2025-12-07 08:44:14",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-60082,resizemode-75,msid-125815074/tech/artificial-intelligence/ai-is-tool-for-younger-generations-to-accomplish-dream-of-viksit-bharat-2047-astronaut-shubhanshu-shukla.jpg",
-      "url": "/tech-news/2025-12-07/ai-is-tool-for-younger-generations-to-accomplish-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Shubhanshu Shukla"
-      ]
-    },
-    {
       "title": "Podnikatelský úspěch: Firma podnikatele s AI v zdravotních technologiích ušetří NHS 200 milionů liber v zimě a 'udělá skutečný rozdíl'",
       "description": "Dr. Ben Maruthappu MBE se z junior doktora v NHS stal generálním ředitelem společnosti Cera, největší evropské firmy v oblasti zdravotních technologií. Jeho londýnská společnost provádí 2,5 milionu domácích návštěv měsíčně a plánuje ušetřit NHS 200 milionů liber během příští zimy.",
       "slug": "business-success-entrepreneurs-ai-health-tech-firm",
@@ -3539,24 +3586,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Perfplanet.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Umělá inteligence transformuje marketing, ale lidští marketéři stále mají své místo",
-      "description": "Článek analyzuje vliv umělé inteligence na marketingové profese a zdůrazňuje lidské kvality, jako je pochopení emocí a psychologie, které AI nedokáže nahradit.",
-      "slug": "ai-is-transforming-marketing-but-heres-why-human-m",
-      "publishedAt": "2025-12-07T07:14:35+00:00",
-      "date": "2025-12-07 07:14:35",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://byline-nesyys.s3.ap-south-1.amazonaws.com/images/posts/thumbnails/fd91b632-b4ce-4a07-aff8-1dd51d55afbc-1764998804898-human-ai-handshake-collaboration.jpg",
-      "url": "/tech-news/2025-12-07/ai-is-transforming-marketing-but-heres-why-human-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Byline.blog"
       },
       "companies": [],
       "people": []
@@ -3936,24 +3965,6 @@
       "people": [
         "Pat Gelsinger"
       ]
-    },
-    {
-      "title": "Halucinace AI a sofistikované kyberútoky: Technologické obavy firem pro příští rok",
-      "description": "Pro rok 2026? Jak se stávají vlastní útočné zátěže levné a snadno generovatelné, temné trhy se přizpůsobí. Článek Halucinace AI a sofistikované kyberútoky: Technologické obavy firem pro příští rok se poprvé objevil na Digital Journal.",
-      "slug": "ai-hallucinations-and-sophisticated-cyberattacks-b",
-      "publishedAt": "2025-12-07T00:20:43+00:00",
-      "date": "2025-12-07 00:20:43",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/08/Computerman-©TimSandle-768px-01.jpg",
-      "url": "/tech-news/2025-12-07/ai-hallucinations-and-sophisticated-cyberattacks-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Aktualizace: Poradce Donalda Trumpa Alex Bruesewitz a podnikatel MAGA Michael Seifert plánují změnu v konzervativním sběru darů s důrazem na transparentnost a bezpečnost",
