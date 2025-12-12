@@ -1,7 +1,258 @@
 {
-  "generated": "2025-12-12T16:48:23.864392+00:00",
+  "generated": "2025-12-12T20:49:59.638847+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Je to docela zarážející",
+      "description": "Co znamená dohoda OpenAI s Disney pro Hollywood a budoucnost Sora v oboru: „Vypadá to, jako by Disney kapituloval,“ řekl prezident Animation Guild pro Vulture.",
+      "slug": "its-pretty-baffling",
+      "publishedAt": "2025-12-11T20:15:46+00:00",
+      "date": "2025-12-11 20:15:46",
+      "importance": 4,
+      "category": "filmový průmysl",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/dc0/d62/0f2662b0f2555fd4f0cdd6328162e20f8e-c3po-starwars.1x.rsocial.w1200.png",
+      "url": "/tech-news/2025-12-11/its-pretty-baffling/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Vulture"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI žalováno za vyvolání vraždy a sebevraždy",
+      "description": "Rodinný příslušník žaluje OpenAI za to, že ChatGPT posílil paranoidní bludy muže, který zavraždil svou 83letou matku a poté spáchal sebevraždu. Žaloba poukazuje na rizika funkcí jako sycofancie a paměť mezi konverzacemi v ChatGPT.",
+      "slug": "openai-sued-for-causing-murder-suicide",
+      "publishedAt": "2025-12-11T20:11:05+00:00",
+      "date": "2025-12-11 20:11:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/openai-sued-murder-suicide.jpg?w=1200",
+      "url": "/tech-news/2025-12-11/openai-sued-for-causing-murder-suicide/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Kreativita je novou produktivitou“: Bob Iger vysvětluje, proč Disney volilo agresivní přístup a uzavřelo partnerství s OpenAI v hodnotě 1 miliardy dolarů",
+      "description": "„Raději se chceme podílet na tom dramatickém růstu, než jen sledovat, jak se děje, a být jím narušeni,“ řekl Iger pro CNBC. Partnerství umožní Disney licencovat své postavy pro video generátor Sora od OpenAI.",
+      "slug": "creativity-is-the-new-productivity-bob-iger-on-why",
+      "publishedAt": "2025-12-11T20:09:14+00:00",
+      "date": "2025-12-11 20:09:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2247523490-e1765480919303.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-11/creativity-is-the-new-productivity-bob-iger-on-why/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Bob Iger"
+      ]
+    },
+    {
+      "title": "Rivian odhaluje vlastní AI čip pro autonomní řízení, opouští Nvidia",
+      "description": "Rivian Automotive vyvinul vlastní čip s umělou inteligencí, který nahradí technologii Nvidia v rámci rozšíření autonomních funkcí budoucích vozů. Čipy budou použity v připravovaném modelu R2 sportovního terénního vozu.",
+      "slug": "rivian-unveils-ai-chip-for-automated-driving-ditch",
+      "publishedAt": "2025-12-11T20:09:02+00:00",
+      "date": "2025-12-11 20:09:02",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://biztoc.com/cdn/5719bc5c18e96243_s.webp",
+      "url": "/tech-news/2025-12-11/rivian-unveils-ai-chip-for-automated-driving-ditch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Rivian",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rivian spouští konkurenční řešení k Tesla FSD nazvané Autonomy+ za poloviční cenu s vlastním AI čipem a LiDARem",
+      "description": "Rivianovo řešení k Tesla FSD bude stát jen 49,99 USD měsíčně při vydání příští čtvrtletí a přinese funkce jako rozšířené hands-free řízení i na starším hardwaru. V roce 2026 přijde nový hardware kit s vlastním AI čipem, LiDARem a dalším.",
+      "slug": "rivian-launches-tesla-fsd-competitor-autonomy-at-h",
+      "publishedAt": "2025-12-11T20:07:00+00:00",
+      "date": "2025-12-11 20:07:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rivian-R2-RAP1-chip.jpg",
+      "url": "/tech-news/2025-12-11/rivian-launches-tesla-fsd-competitor-autonomy-at-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "companies": [
+        "Rivian",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "El Salvador spolupracuje s xAI Elona Muska na zavedení AI do 5 000 veřejných škol",
+      "description": "Prezident El Salvadoru Nayib Bukele oznámil partnerství s firmou xAI, která přinese chatbot Grok do více než 5 000 veřejných škol. Tento krok má zajistit personalizované učení pro přes milion studentů v urbaních i rurálních oblastech.",
+      "slug": "el-salvador-teams-up-with-elon-musks-xai-to-bring-",
+      "publishedAt": "2025-12-11T19:54:59+00:00",
+      "date": "2025-12-11 19:54:59",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-11/el-salvador-teams-up-with-elon-musks-xai-to-bring/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Nayib Bukele"
+      ]
+    },
+    {
+      "title": "SpaceX potvrdilo IPO v roce 2026 pro financování vesmírných AI datových center",
+      "description": "Elon Musk osobně potvrdil, že SpaceX vyjde na burzu v roce 2026. Společnost plánuje získat kapitál v řádu 1,5 až 2 bilionů dolarů na výstavbu AI datových center ve vesmíru, na Měsíci a Marsu.",
+      "slug": "shocking-worldchanging-breakthrough-bigger-than-te",
+      "publishedAt": "2025-12-11T19:53:11+00:00",
+      "date": "2025-12-11 19:53:11",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-11-at-11.48.40-AM.jpg",
+      "url": "/tech-news/2025-12-11/shocking-worldchanging-breakthrough-bigger-than-te/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Disney investuje 1 miliardu USD do OpenAI, dohoda o AI otevírá klipy z Marvel a Star Wars",
+      "description": "Fáni mohou vytvářet 30sekundové klipy s více než 200 postavami Disney, Marvel a Star Wars. Jedná se o tříletou licenční dohodu, která umožňuje generování obsahu na platformách Sora a ChatGPT.",
+      "slug": "disney-invests-us1b-in-openai-as-ai-deal-opens-mar",
+      "publishedAt": "2025-12-11T19:15:21+00:00",
+      "date": "2025-12-11 19:15:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/VJ2LJ5CHHFAFZBSEQOHBOXA5QE.jpg?auth=287ddad370929117d74214107c04d594538029bc9483ba93fef7a86c42e48114&width=1200&height=675&quality=70&smart=true",
+      "url": "/tech-news/2025-12-11/disney-invests-us1b-in-openai-as-ai-deal-opens-mar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
+      "description": "Trump zřejmě proměňuje strategická rozhodnutí národní bezpečnosti v transakční dohody, kde má vše cenu.",
+      "slug": "with-nvidias-second-best-ai-chips-headed-for-china",
+      "publishedAt": "2025-12-11T19:09:55+00:00",
+      "date": "2025-12-11 19:09:55",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://images.theconversation.com/files/708004/original/file-20251211-61-pzipv6.jpg?ixlib=rb-4.1.0&rect=0%2C1381%2C8270%2C4135&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2025-12-11/with-nvidias-second-best-ai-chips-headed-for-china/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Časopis Time jmenuje 'Architekty AI' osobou roku 2025",
+      "description": "Umělá inteligence byla podle predikčních trhů hlavním kandidátem na první místo. Magazín vybral klíčové osobnosti, které stály u zrodu současných pokroků v této technologii.",
+      "slug": "time-magazine-names-architects-of-ai-as-its-person",
+      "publishedAt": "2025-12-11T18:46:08+00:00",
+      "date": "2025-12-11 18:46:08",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Time_Person_of_the_Year_81322-1.jpg?w=1024&h=688",
+      "url": "/tech-news/2025-12-11/time-magazine-names-architects-of-ai-as-its-person/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínská mateřská loď pro roje dronů „Jiutian“ uskutečnila první let",
+      "description": "Mateřská loď Jiutian vyvinutá čínskou Aviation Industry Corporation of China (AVIC) poprvé vzlétnula 11. prosince 2025. Tento velký bezpilotní letoun má nosnost 6 tun pro munici, roje dronů nebo humanitární materiál a koncepty ukazují jeho údernou roli proti námořním a pozemním cílům.",
+      "slug": "chinas-massive-drone-swarm-mothership-jiutian-take",
+      "publishedAt": "2025-12-11T18:43:30+00:00",
+      "date": "2025-12-11 18:43:30",
+      "importance": 4,
+      "category": "drony",
+      "urlToImage": "https://theaviationist.com/wp-content/uploads/2025/12/China-Jiutian-Drone-1.jpg",
+      "url": "/tech-news/2025-12-11/chinas-massive-drone-swarm-mothership-jiutian-take/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theaviationist.com"
+      },
+      "companies": [
+        "China’s Aviation Industry Corporation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Disney se jasně staví na jednu stranu v AI válce mezi OpenAI a Google",
+      "description": "Společnost Disney se etablovala jako silný obhájce svého duševního vlastnictví v kontextu rozvíjejících se technologií umělé inteligence.",
+      "slug": "disney-takes-sides-in-a-big-way-amid-ai-war-betwee",
+      "publishedAt": "2025-12-11T18:39:49+00:00",
+      "date": "2025-12-11 18:39:49",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/673e2e339b82b51e_s.webp",
+      "url": "/tech-news/2025-12-11/disney-takes-sides-in-a-big-way-amid-ai-war-betwee/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Disney investuje 1 miliardu dolarů do OpenAI v dohodě o přenesení postav jako Mickey Mouse do nástroje Sora pro generování videa",
       "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá tříletou licenční dohodu, která umožní uživatelům Sora generovat videa s postavami jako Mickey Mouse, Popelka nebo Luke Skywalker. Společnost se zároveň obrátila na Google kvůli neoprávněnému používání svých chráněných postav k tréninku AI systémů.",
@@ -3036,28 +3287,6 @@
       "people": []
     },
     {
-      "title": "Šéf Google DeepMind Demis Hassabis: Škálování AI musí být posunuto na maximum",
-      "description": "Šéf Google DeepMind Demis Hassabis tvrdí, že škálování umělé inteligence je klíčové pro dosažení AGI, teoretické verze AI schopné uvažovat na úrovni člověka.",
-      "slug": "google-deepmind-ceo-demis-hassabis-says-ai-scaling",
-      "publishedAt": "2025-12-07T22:47:41+00:00",
-      "date": "2025-12-07 22:47:41",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/6935efad04d0f0a114f18ff4?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-07/google-deepmind-ceo-demis-hassabis-says-ai-scaling/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Google DeepMind"
-      ],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
       "title": "Hyundai představil plně autonomního robota připraveného na výrobu pro reálné úkoly",
       "description": "Hyundai Motor Group Robotics LAB představil na veletrhu iREX 2025 v Tokiu robota MobED, autonomní platformu na kolech určenou pro průmyslové i každodenní aplikace. Robot integruje pokročilé moduly pro adaptivní pohyb a bude dostupný k prodeji v první polovině 2026.",
       "slug": "hyundai-debuts-a-fully-autonomous-production-ready",
@@ -3208,28 +3437,6 @@
       "people": []
     },
     {
-      "title": "Kryptoměny znovu vynalezly a přeplatformovaly prostředníka",
-      "description": "Ti z nás, kteří chtějí používat kryptoměny k zlepšení světa, musíme toto chování označit za to, co to je: krátkozrakou, sobeckou a nevhodnou chamtivost, říká spoluzakladatel VeChain Sunny Lu.",
-      "slug": "crypto-has-reinvented-and-replatformed-the-middle-",
-      "publishedAt": "2025-12-07T15:00:00+00:00",
-      "date": "2025-12-07 15:00:00",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4b2cbe8b20a0e53d359b45e028014d89b8b6f065-3838x2559.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "url": "/tech-news/2025-12-07/crypto-has-reinvented-and-replatformed-the-middle/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "companies": [
-        "VeChain"
-      ],
-      "people": [
-        "Sunny Lu"
-      ]
-    },
-    {
       "title": "Novac Technology Solutions očekává obrat 380 crore rupií pro fiskální rok 2026",
       "description": "Kromě e-learningu tvoří 65 procent příjmů firmy řešení Ziva pro plánování podnikových zdrojů (ERP), zatímco 30 procent pochází z platformy Statim pro pojišťovny. Společnost z Chennai, dcera skupiny Shriram, hlásí růst díky expanzi v digitální transformaci a cloudových službách.",
       "slug": "novac-technology-solutions-projects-380-crore-reve",
@@ -3268,24 +3475,6 @@
       "people": []
     },
     {
-      "title": "Trh s inteligencí rozhodování dosáhne 74,23 miliardy USD do roku 2033 díky rostoucí adopci AI pro datově řízené rozhodování | SNS Insider",
-      "description": "Trh s inteligencí rozhodování byl v roce 2025E hodnocen na 18,08 miliardy USD a do roku 2033 by měl narůst na 74,23 miliardy USD s ročním růstem 19,31 %. Růst pohání expanze dat, technologie AI a ML a poptávka po okamžitých poznatcích pro strategická rozhodnutí.",
-      "slug": "decision-intelligence-market-to-reach-usd-7423-bil",
-      "publishedAt": "2025-12-07T14:45:00+00:00",
-      "date": "2025-12-07 14:45:00",
-      "importance": 3,
-      "category": "inteligence rozhodov",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-07/decision-intelligence-market-to-reach-usd-7423-bil/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nová tvář Hollywoodu, generovaná umělou inteligencí",
       "description": "Tilly Norwood je plně umělou inteligencí generovaná herečka, která vstupuje do světa filmů a televize. Tento projekt vyvolává diskuse o budoucnosti mediálního průmyslu a možném nahrazování lidských herců.",
       "slug": "theres-a-new-face-in-hollywood-generated-by-ai",
@@ -3301,44 +3490,6 @@
         "name": "CBS News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zde jsou mé top 3 akcie kvantového počítačství k nákupu v prosinci",
-      "description": "Kvantové počítačství prošlo dvěma cykly nadšení a zklamání během méně než roku, ale technologie zůstává relevantní. Autor článku na Fool.com tvrdí, že investoři se zaměřují na špatné akcie, jako jsou čistě kvantové společnosti typu Rigetti, a doporučuje jiné varianty.",
-      "slug": "here-are-my-top-3-quantum-computing-stocks-to-buy-",
-      "publishedAt": "2025-12-07T14:11:58+00:00",
-      "date": "2025-12-07 14:11:58",
-      "importance": 3,
-      "category": "kvantové počítačství",
-      "urlToImage": "https://biztoc.com/cdn/0925ceca37a92412_s.webp",
-      "url": "/tech-news/2025-12-07/here-are-my-top-3-quantum-computing-stocks-to-buy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "TPU od Google mohou přinést působivý výkon, ale přehlížené omezení v dodavatelském řetězci by mohlo zastavit externí škálování ještě před zahájením",
-      "description": "Sedmá generace TPU Ironwood od Google vzbudila zájem firem jako Meta a Anthropic díky slibnému výkonu pro AI inferenci, avšak problémy s dodávkami pokročilého balení od TSMC ohrožují možnost škálování pro externí zákazníky.",
-      "slug": "googles-tpus-may-deliver-impressive-performance-bu",
-      "publishedAt": "2025-12-07T13:34:06+00:00",
-      "date": "2025-12-07 13:34:06",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Ironwood.original-scaled.jpg",
-      "url": "/tech-news/2025-12-07/googles-tpus-may-deliver-impressive-performance-bu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Google"
-      ],
       "people": []
     },
     {
@@ -3398,24 +3549,6 @@
       "people": []
     },
     {
-      "title": "Trh s obchodováním energií a řízením rizik dosáhne do roku 2033 hodnoty 61,59 miliardy dolarů | Zpráva od SNS Insider",
-      "description": "Trh s Energy Trading and Risk Management (ETRM) by měl podle zprávy SNS Insider vzrůst z 41,06 miliardy USD v roce 2025 na 61,59 miliardy USD do roku 2033 s ročním růstem 5,2 %. Růst pohání digitalizace energetických trhů, přechod na cloudové ETRM systémy a rostoucí volatilita cen energií.",
-      "slug": "energy-trading-risk-management-market-size-to-hit-",
-      "publishedAt": "2025-12-07T13:00:00+00:00",
-      "date": "2025-12-07 13:00:00",
-      "importance": 3,
-      "category": "energetické obchodov",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-07/energy-trading-risk-management-market-size-to-hit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Výzkumníci vytvořili optotaktilní povrchy pro 3D displeje, které lze vidět i cítit",
       "description": "Výzkumníci z University of California v Santa Barbaře představili technologii displejů, která zobrazuje dynamickou grafiku, kterou lze nejen vidět, ale i fyzicky cítit. Studie popisuje tenké povrchy s pixely, které se zvedají do hmatatelných hrbolků při osvětlení pulzy světla.",
       "slug": "researchers-create-optotactile-surfaces-for-3d-dis",
@@ -3433,24 +3566,6 @@
       "companies": [
         "UC Santa Barbara"
       ],
-      "people": []
-    },
-    {
-      "title": "FO° Exkluzivní: 650 miliard dolarů ročně? Čísla za boomem umělé inteligence se neshodují",
-      "description": "Hlavní redaktor Atul Singh a starší partner FOI Glenn Carle, bývalý důstojník CIA nyní radící firmám a vládám v geopolitickém riziku, analyzují obavy z bubliny na americkém akciovém trhu s důrazem na technologie a AI. Článek zkoumá, zda slibované příjmy v řádu stovek miliard odpovídají realitě.",
-      "slug": "fo-exclusive-650-billion-a-year-the-numbers-behind",
-      "publishedAt": "2025-12-07T12:55:56+00:00",
-      "date": "2025-12-07 12:55:56",
-      "importance": 3,
-      "category": "ai bublina",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2025/12/650-Billion-a-Year-The-Numbers-Behind-the-AI-Boom-Dont-Add-Up-FO°-Exclusive.jpeg",
-      "url": "/tech-news/2025-12-07/fo-exclusive-650-billion-a-year-the-numbers-behind/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3505,24 +3620,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Předpovědi trendů v zákaznickém servisu a CX pro rok 2026 (Část první)",
-      "description": "Pohled na pět předpovědí trendů v zákaznickém servisu a zkušenosti zákazníků (CX) pro rok 2026, které nejsou primárně poháněny AI. Druhá část článku se zaměří na predikce související s umělou inteligencí a technologiemi.",
-      "slug": "customer-service-and-cx-trends-predictions-part-on",
-      "publishedAt": "2025-12-07T12:30:00+00:00",
-      "date": "2025-12-07 12:30:00",
-      "importance": 3,
-      "category": "zákaznický servis",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6933553be679ec86c755d41f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-12-07/customer-service-and-cx-trends-predictions-part-on/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
       },
       "companies": [],
       "people": []
@@ -3758,24 +3855,6 @@
       "people": []
     },
     {
-      "title": "Digitálně sjednocené pojišťovací systémy mohou transformovat indické zdravotnictví: studie GIM-WHO",
-      "description": "Jak Indie rozšiřuje subvencionované zdravotní pojišťovací schémata, studie zdůrazňuje nutnost sjednocení dat a procesů mezi různými subjekty pro zlepšení poskytování služeb.",
-      "slug": "digitally-unified-insurance-systems-can-transform-",
-      "publishedAt": "2025-12-07T07:05:12+00:00",
-      "date": "2025-12-07 07:05:12",
-      "importance": 3,
-      "category": "zdravotnictví",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/93paig/article70368357.ece/alternates/LANDSCAPE_1200/PO24_Insurance_management.jpg",
-      "url": "/tech-news/2025-12-07/digitally-unified-insurance-systems-can-transform/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nový model umělé inteligence předpovídá riziko rakoviny prsu na pět let dopředu",
       "description": "Nový model umělé inteligence analyzuje mamografy a předpovídá riziko vzniku rakoviny prsu až na pět let dopředu. Tento přístup by mohl zlepšit efektivitu screeningových programů.",
       "slug": "new-ai-model-can-predict-5-year-breast-cancer-risk",
@@ -3832,24 +3911,6 @@
       "people": []
     },
     {
-      "title": "Dynamický byznys: AI agenti One NZ snižují počet volání, spotřebu energie a kyberpodvody v telekomunikační firmě",
-      "description": "Společnost One NZ provozuje 31 AI agentů vedle zaměstnanců, které řeší úkoly od fakturace po řízení sítě. Tato nasazení AI pomáhají snižovat provozní náklady a rizika.",
-      "slug": "dynamic-business-one-nzs-ai-agents-cut-calls-energ",
-      "publishedAt": "2025-12-07T05:04:00+00:00",
-      "date": "2025-12-07 05:04:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/EIALE2HOLFAF3NHIJMKG23D2AI.JPG?auth=737d35e905bb6d3624faa177748a2e8cd4faea2b1da87455c181e07c9e331746&width=1200&height=675&quality=70&focal=1395%2C407&smart=false",
-      "url": "/tech-news/2025-12-07/dynamic-business-one-nzs-ai-agents-cut-calls-energ/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Jak finanční poradci zvažují rizika AI bubliny",
       "description": "Zatímco někteří poradci varují před přehřátím trhu poháněného AI, jiní se snaží racionalizovat současný růst akcií. Článek analyzuje rozdílné názory na možné riziko bubliny v sektorech AI infrastruktury a polovodičů.",
       "slug": "how-advisors-are-weighing-the-risks-of-an-ai-bubbl",
@@ -3903,24 +3964,6 @@
         "emoji": "📰",
         "id": null,
         "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Objevování Indiewebu s klidnou technologií",
-      "description": "Článek popisuje problémy sociálních sítí jako rušivé notifikace a nekonečné scrollování, a představuje browserová rozšíření StreetPass pro objevování Mastodon profilů a Blog Quest pro RSS feedy, obě postavená na principu klidné technologie, která neodvádí pozornost uživatele.",
-      "slug": "discovering-the-indieweb-with-calm-tech",
-      "publishedAt": "2025-12-07T03:26:01+00:00",
-      "date": "2025-12-07 03:26:01",
-      "importance": 3,
-      "category": "indieweb",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/discovering-the-indieweb-with-calm-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Alexsci.com"
       },
       "companies": [],
       "people": []
@@ -4051,24 +4094,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ministerstvo energetiky USA vsadí velké částky na drahé malé modulární reaktory",
-      "description": "Ministerstvo energetiky USA (DOE) tento týden udělilo dvě významné finanční ceny stavitelům malých modulárních reaktorů (SMR) o výkonu 300 MW. GE-Hitachi postaví svůj BWRX-300 na zařízení TVA v Clinch River ve východním Tennessee, zatímco Holtec plánuje dvě jednotky.",
-      "slug": "doe-bets-big-on-costly-smrs",
-      "publishedAt": "2025-12-07T00:00:00+00:00",
-      "date": "2025-12-07 00:00:00",
-      "importance": 3,
-      "category": "jaderná energie",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-06_lhzbgtdzju.jpg",
-      "url": "/tech-news/2025-12-07/doe-bets-big-on-costly-smrs/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
       },
       "companies": [],
       "people": []
