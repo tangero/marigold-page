@@ -1,7 +1,202 @@
 {
-  "generated": "2025-12-12T13:11:28.011715+00:00",
+  "generated": "2025-12-12T16:48:23.864392+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Disney investuje 1 miliardu dolarů do OpenAI v dohodě o přenesení postav jako Mickey Mouse do nástroje Sora pro generování videa",
+      "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá tříletou licenční dohodu, která umožní uživatelům Sora generovat videa s postavami jako Mickey Mouse, Popelka nebo Luke Skywalker. Společnost se zároveň obrátila na Google kvůli neoprávněnému používání svých chráněných postav k tréninku AI systémů.",
+      "slug": "disney-invests-1b-in-openai-in-deal-to-bring-chara",
+      "publishedAt": "2025-12-11T16:15:14+00:00",
+      "date": "2025-12-11 16:15:14",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3d05587/2147483647/strip/true/crop/5184x2916+0+270/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2Fff%2F68bb4becf250e2e9983f9c87dada%2Fbce919f7741746abbaadc72db985ea3e",
+      "url": "/tech-news/2025-12-11/disney-invests-1b-in-openai-in-deal-to-bring-chara/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "TIME jmenuje 'Architekty AI' osobou roku 2025",
+      "description": "Časopis TIME vyhlásil Jensen Huanga z Nvidia, Sam Altmana z OpenAI, Elona Muska, Marka Zuckerberga a další lídry technologického průmyslu jako kolektivní osobu roku 2025 pod názvem 'Architekti AI'. Toto ocenění zdůrazňuje dominanci umělé inteligence v roce 2025 a její dopady na ekonomiku, společnost i geopolitiku.",
+      "slug": "time-names-the-architects-of-ai-as-2025-person-of-",
+      "publishedAt": "2025-12-11T16:13:48+00:00",
+      "date": "2025-12-11 16:13:48",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Nvidia-boss-Jensen-Huang-holds-up-an-AI-chip-640x335.jpg",
+      "url": "/tech-news/2025-12-11/time-names-the-architects-of-ai-as-2025-person-of/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI"
+      ],
+      "people": [
+        "Jensen Huang",
+        "Mark Zuckerberg",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Přehled nového partnerství xAI s vládou El Salvadoru",
+      "description": "xAI a vláda El Salvadoru spustily první celostátní vzdělávací program poháněný umělou inteligencí. Model Grok bude nasazen v přes pěti tisících veřejných školách a poskytne personalizované tutorování pro více než milion studentů.",
+      "slug": "overview-of-the-new-xai-partnership-with-the-gover",
+      "publishedAt": "2025-12-11T16:08:43+00:00",
+      "date": "2025-12-11 16:08:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-11/overview-of-the-new-xai-partnership-with-the-gover/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta využije model Qwen od Alibaba k trénování svého dalšího modelu umělé inteligence",
+      "description": "Společnost Meta Platforms reviduje svou strategii v oblasti umělé inteligence a sahá po open-source modelu Qwen vyvinutém Alibaba. Tento krok znamená začlenění technologií od konkurenčních firem do vývoje vlastních modelů.",
+      "slug": "meta-turns-to-alibabas-qwen-to-train-its-next-ai-m",
+      "publishedAt": "2025-12-11T16:03:59+00:00",
+      "date": "2025-12-11 16:03:59",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://biztoc.com/cdn/9972e2af2775eab0_s.webp",
+      "url": "/tech-news/2025-12-11/meta-turns-to-alibabas-qwen-to-train-its-next-ai-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Meta",
+        "Alibaba"
+      ],
+      "people": []
+    },
+    {
+      "title": "Time vyhlásil „Architekty umělé inteligence“ za osobnost roku 2025, rok kdy se plný potenciál technologie projevil naplno",
+      "description": "Časopis Time jmenoval osm lídrů v oblasti umělé inteligence osobností roku 2025. Obálka představuje tyto postavy sedící na nosníku v odkazu na historickou fotografii z 30. let.",
+      "slug": "time-names-architects-of-ai-as-its-2025-person-of-",
+      "publishedAt": "2025-12-11T16:03:52+00:00",
+      "date": "2025-12-11 16:03:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25345473981322-e1765467177841.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-11/time-names-architects-of-ai-as-its-2025-person-of/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Mark Zuckerberg",
+        "Fei-Fei Li"
+      ]
+    },
+    {
+      "title": "Časopis Time jmenuje 'Architekty AI' Osobností roku",
+      "description": "Časopis Time vyhlásil 'Architekty AI' za Osobnost roku, čímž vyzdvihl americké technologické lídry, jejichž práce na pokročilé umělé inteligenci mění svět. Mezi nimi jsou Jensen Huang z Nvidia, Sam Altman z OpenAI a Elon Musk z xAI.",
+      "slug": "time-magazine-names-architects-of-ai-as-person-of-",
+      "publishedAt": "2025-12-11T16:02:32+00:00",
+      "date": "2025-12-11 16:02:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-11/time-magazine-names-architects-of-ai-as-person-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI",
+        "xAI"
+      ],
+      "people": [
+        "Jensen Huang",
+        "Sam Altman",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Disney uzavřel dohodu s OpenAI na generování AI videí svých postav pomocí Sora",
+      "description": "Společnost Walt Disney Company oznámila tříletou dohodu s OpenAI, která umožní modelu Sora generovat videa s populárními Disney postavami. Disney investuje 1 miliardu dolarů do OpenAI a stane se jeho velkým zákazníkem pro vývoj nových produktů včetně služby Disney+.",
+      "slug": "disney-strikes-deal-with-openai-to-let-sora-genera",
+      "publishedAt": "2025-12-11T16:00:30+00:00",
+      "date": "2025-12-11 16:00:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-03/250328-walt-disney-studios-ew-408p-35f042.jpg",
+      "url": "/tech-news/2025-12-11/disney-strikes-deal-with-openai-to-let-sora-genera/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TODAY"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Disney investuje 1 miliardu USD do OpenAI a licencuje postavy Marvelu, Star Wars pro nástroj Sora",
+      "description": "Společnost Walt Disney vloží 1 miliardu amerických dolarů do OpenAI a umožní použití postav ze svých franšíz Star Wars, Pixar a Marvel v AI nástroji Sora, který generuje videa a obrázky. Tato dohoda představuje významné partnerství mezi zábavním gigantem a lídrem v AI.",
+      "slug": "disney-to-invest-1b-us-in-openai-license-marvel-st",
+      "publishedAt": "2025-12-11T15:59:21+00:00",
+      "date": "2025-12-11 15:59:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.cbc.ca/ais/544bb248-3ae4-4b59-992a-fd5fd5cca3ac,1765468448135/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4135%2C2325%29%3BResize%3D620",
+      "url": "/tech-news/2025-12-11/disney-to-invest-1b-us-in-openai-license-marvel-st/",
+      "source": {
+        "emoji": "📰",
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Disney investuje 1 miliardu dolarů do OpenAI, studiové assety směřují do Sora a ChatGPT",
+      "description": "Společnost Walt Disney Company investuje 1 miliardu dolarů do OpenAI a licencuje více než 200 postav z portfolia Disney, Marvel, Pixar a Star Wars pro platformy Sora a ChatGPT. Uživatelé budou moci generovat krátká videa a obrázky s těmito postavami, některé výsledky se objeví na Disney+.",
+      "slug": "disney-invests-1b-in-openai-studio-assets-heading-",
+      "publishedAt": "2025-12-11T15:44:05+00:00",
+      "date": "2025-12-11 15:44:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2025/12/Movie-Time-A-Mickey-Mouse-Cartoon.jpg",
+      "url": "/tech-news/2025-12-11/disney-invests-1b-in-openai-studio-assets-heading/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cartoon Brew"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Wall Street je optimistický ohledně Uber Technologies (UBER), zde je důvod",
       "description": "Uber Technologies (NYSE: UBER) patří mezi levné akcie NYSE k nákupu. Dne 8. prosince analytik Brian Nowak z Morgan Stanley potvrdil doporučení Koupit a snížil cílovou cenu z 115 na 110 dolarů, zatímco Mark Mahaney z Evercore ISI udržel doporučení Koupit s cílovou cenou 150 dolarů.",
@@ -2863,24 +3058,6 @@
       ]
     },
     {
-      "title": "Čína drží klíče k modernímu světu a Západ riskuje zaostání",
-      "description": "Čína se kdysi snažila dohnat Západ, konkrétně USA; pak se dohnala; nyní Západ se snaží dohnat Čínu, ale pravděpodobně to nedokáže.",
-      "slug": "china-holds-the-key-to-the-modern-world-and-the-we",
-      "publishedAt": "2025-12-07T19:00:32+00:00",
-      "date": "2025-12-07 19:00:32",
-      "importance": 5,
-      "category": "čínské technologie",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/befc24313ae723fa6ac98618c3fb29be?impolicy=wcms_watermark_news&cropH=2216&cropW=3940&xPos=0&yPos=22&width=862&height=485&imformat=generic",
-      "url": "/tech-news/2025-12-07/china-holds-the-key-to-the-modern-world-and-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Hyundai představil plně autonomního robota připraveného na výrobu pro reálné úkoly",
       "description": "Hyundai Motor Group Robotics LAB představil na veletrhu iREX 2025 v Tokiu robota MobED, autonomní platformu na kolech určenou pro průmyslové i každodenní aplikace. Robot integruje pokročilé moduly pro adaptivní pohyb a bude dostupný k prodeji v první polovině 2026.",
       "slug": "hyundai-debuts-a-fully-autonomous-production-ready",
@@ -3145,29 +3322,6 @@
       "people": []
     },
     {
-      "title": "AI zařízení Blue Origin z měsíčního písku pro napájení raket",
-      "description": "Společnost Blue Origin ve spolupráci s startupem Istari Digital představila zařízení s umělou inteligencí, které generuje elektřinu z měsíčního regolitu. Tato technologie cílí na řešení problémů s energií během dlouhodobých misí na Měsíci.",
-      "slug": "blue-origins-moon-sand-ai-device-to-power-rockets-",
-      "publishedAt": "2025-12-07T14:04:10+00:00",
-      "date": "2025-12-07 14:04:10",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
-      "url": "/tech-news/2025-12-07/blue-origins-moon-sand-ai-device-to-power-rockets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nep123.com"
-      },
-      "companies": [
-        "Blue Origin",
-        "Istari Digital"
-      ],
-      "people": [
-        "Jeff Bezos"
-      ]
-    },
-    {
       "title": "TPU od Google mohou přinést působivý výkon, ale přehlížené omezení v dodavatelském řetězci by mohlo zastavit externí škálování ještě před zahájením",
       "description": "Sedmá generace TPU Ironwood od Google vzbudila zájem firem jako Meta a Anthropic díky slibnému výkonu pro AI inferenci, avšak problémy s dodávkami pokročilého balení od TSMC ohrožují možnost škálování pro externí zákazníky.",
       "slug": "googles-tpus-may-deliver-impressive-performance-bu",
@@ -3374,44 +3528,6 @@
       "people": []
     },
     {
-      "title": "CoMotion GLOBAL 2025 startuje v Rijádu: Světoví lídři v městské mobilitě se scházejí v saúdské metropoli, aby nakreslili budoucnost měst",
-      "description": "Summit zahajuje iniciativu Mayors in Motion a vyznamenání CoMotion Urban Visionary Distinction, zatímco Rijád demonstruje svůj vzestup jako globální testovací plocha pro urban mobility. Třídenní akce proběhne od 7. do 9. prosince a spojí inovátory z Afriky, Asie, Evropy, Ameriky i Blízkého východu.",
-      "slug": "comotion-global-2025-launches-in-riyadh-global-mob",
-      "publishedAt": "2025-12-07T12:08:29+00:00",
-      "date": "2025-12-07 12:08:29",
-      "importance": 3,
-      "category": "městská mobilita",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/comotion-global-2025-launches-in-riyadh-global-mob/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie společnosti Credo Technology stoupají. Je to perspektivní AI investice pro rok 2026?",
-      "description": "Akcie firmy Credo Technology výrazně rostou díky poptávce po jejich vysokorychlostních konektivitních řešeních pro AI datová centra. Článek zkoumá, zda se jedná o vhodnou investici do AI infrastruktury pro příští roky.",
-      "slug": "credo-technology-stock-is-soaring-is-this-a-top-ai",
-      "publishedAt": "2025-12-07T12:05:00+00:00",
-      "date": "2025-12-07 12:05:00",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/credo-technology-stock-is-soaring-is-this-a-top-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Credo Technology"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsungův 4nm proces dosáhl zlepšení výtěžnosti na 60-70 %, což mu údajně zajistilo objednávku za 100 milionů dolarů na Omni Processing Unit pro americkou firmu",
       "description": "Problémy Samsungova foundry byznysu se mohou chýlit konci díky stabilizaci 4nm procesu s výtěžností 60-70 %. Tato zlepšení přinesla objednávku za více než 100 milionů dolarů od americké AI firmy na výrobu Omni Processing Unitů.",
       "slug": "samsungs-4nm-process-has-witnessed-yield-improveme",
@@ -3604,28 +3720,6 @@
       "people": []
     },
     {
-      "title": "Podnikatelský úspěch: Firma podnikatele s AI v zdravotních technologiích ušetří NHS 200 milionů liber v zimě a 'udělá skutečný rozdíl'",
-      "description": "Dr. Ben Maruthappu MBE se z junior doktora v NHS stal generálním ředitelem společnosti Cera, největší evropské firmy v oblasti zdravotních technologií. Jeho londýnská společnost provádí 2,5 milionu domácích návštěv měsíčně a plánuje ušetřit NHS 200 milionů liber během příští zimy.",
-      "slug": "business-success-entrepreneurs-ai-health-tech-firm",
-      "publishedAt": "2025-12-07T08:41:28+00:00",
-      "date": "2025-12-07 08:41:28",
-      "importance": 3,
-      "category": "zdravotní technologi",
-      "urlToImage": "https://www.gbnews.com/media-library/dr-ben-maruthappu.jpg?id=62286661&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-      "url": "/tech-news/2025-12-07/business-success-entrepreneurs-ai-health-tech-firm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gbnews.com"
-      },
-      "companies": [
-        "Cera"
-      ],
-      "people": [
-        "Dr Ben Maruthappu MBE"
-      ]
-    },
-    {
       "title": "Hlavní americká diplomatka Allison Hooker navštíví Dillí a Bengaluru od 7. do 11. prosince",
       "description": "Podsekretářka státního departamentu USA Allison Hooker navštíví Nové Dillí a Bengaluru od 7. do 11. prosince. Návštěva má posílit strategické partnerství USA a Indie s důrazem na ekonomické vazby a spolupráci v technologiích jako AI a vesmírný průzkum.",
       "slug": "united-states-top-diplomat-allison-hooker-to-visit",
@@ -3700,24 +3794,6 @@
       "people": []
     },
     {
-      "title": "Breda O'Brien: Srovnávat AI s Wikipedií je jako říkat, že kolo je podobné samořídícímu vozu",
-      "description": "Učitelé unaveně pokračují v reformovaném Leaving Cert, ale nedokážou zabránit studentům v podvádění pomocí AI.",
-      "slug": "breda-obrien-comparing-ai-to-wikipedia-is-like-say",
-      "publishedAt": "2025-12-07T06:45:00+00:00",
-      "date": "2025-12-07 06:45:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/XRQD5IYUE4NWHAMTQUTXECFHBY.jpg?smart=true&auth=9e10d9a1ee215fb264521fa282107159b60772a59f7f1fe03aafa449659c0737&width=1200&height=630",
-      "url": "/tech-news/2025-12-07/breda-obrien-comparing-ai-to-wikipedia-is-like-say/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Bez potu: testy potu změní monitorování zdraví",
       "description": "Nositelné senzory potu by brzy mohly detekovat stres, glukózu a další biomarkery v reálném čase. Výzkumníci vyvíjejí náplasti pro neinvazivní sledování zdravotních markerů.",
       "slug": "no-sweat-perspiration-tests-to-revolutionalise-hea",
@@ -3752,44 +3828,6 @@
       },
       "companies": [
         "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kritická zranitelnost v Reactu vystavuje webové servery okamžitému riziku",
-      "description": "Nově objevená bezpečnostní chyba v ekosystému Reactu umožňuje útočníkům spustit neověřený vzdálený provoz kódu na zranitelných serverech s téměř stoprocentní úspěšností. Chyba postihuje React Server Components a má maximální závažnost podle skóre CVSS 10.0.",
-      "slug": "critical-react-vulnerability-puts-web-servers-at-i",
-      "publishedAt": "2025-12-07T05:37:00+00:00",
-      "date": "2025-12-07 05:37:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.techworm.net/wp-content/uploads/2025/12/react2shell-vulnerbility-cover.jpg",
-      "url": "/tech-news/2025-12-07/critical-react-vulnerability-puts-web-servers-at-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techworm"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Firmy se stále více obracejí k crowdfundingu, protože AI vysává investiční kapitál",
-      "description": "Fixace venture capital firem na umělou inteligenci ohrožuje odtok financí od životaschopných podniků v jiných odvětvích, varuje zakladatelka irského startupu Soothing Solutions.",
-      "slug": "businesses-increasingly-turn-to-crowdfunding-as-ai",
-      "publishedAt": "2025-12-07T05:30:00+00:00",
-      "date": "2025-12-07 05:30:00",
-      "importance": 3,
-      "category": "crowdfunding",
-      "urlToImage": "https://focus.independent.ie/thumbor/qmxzJ0p8EHjZPaSb-fJW492XeVQ=/92x51:802x525/629x0/prod-mh-ireland/69963a63-d29a-404d-837c-75ea576d6ce2/3325052e-61e5-4eac-abf7-71c93c5cf23e/Sin%C3%A9ad%20Crowther%20Founder%20So.jpg",
-      "url": "/tech-news/2025-12-07/businesses-increasingly-turn-to-crowdfunding-as-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "companies": [
-        "Soothing Solutions"
       ],
       "people": []
     },
@@ -3848,26 +3886,6 @@
         "Pixalate",
         "Apple",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bio-hybridní roboti přeměňují potravinový odpad na funkční stroje",
-      "description": "Vědci z EPFL v švýcarském Lausanne integrovali vyhozené krunýře korýšů do robotických zařízení a využívají pevnost a pružnost přírodních materiálů pro robotické aplikace. Tento přístup kombinuje biologické prvky s syntetickými komponenty pro udržitelnější robotiku.",
-      "slug": "bio-hybrid-robots-turn-food-waste-into-functional-",
-      "publishedAt": "2025-12-07T03:53:26+00:00",
-      "date": "2025-12-07 03:53:26",
-      "importance": 3,
-      "category": "robotika",
-      "urlToImage": "https://www.spxdaily.com/images-hg/food-waste-marker-hg.jpg",
-      "url": "/tech-news/2025-12-07/bio-hybrid-robots-turn-food-waste-into-functional/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space Daily"
-      },
-      "companies": [
-        "EPFL"
       ],
       "people": []
     },
