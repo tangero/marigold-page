@@ -1,7 +1,49 @@
 {
-  "generated": "2025-12-12T04:59:58.979429+00:00",
+  "generated": "2025-12-12T08:48:35.001400+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Problém umělé inteligence v hodnotě 400 miliard dolarů: Stárnou čipy příliš rychle?",
+      "description": "Technologický průmysl letos investoval přibližně 400 miliard dolarů do specializovaných čipů a datových center pro AI, ale experti zpochybňují udržitelnost těchto výdajů kvůli rychlé zastaralosti hardware.",
+      "slug": "ais-400-bln-problem-are-chips-getting-old-too-fast",
+      "publishedAt": "2025-12-11T07:50:05+00:00",
+      "date": "2025-12-11 07:50:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/693a77a99217d56cb4526d5b.jpg",
+      "url": "/tech-news/2025-12-11/ais-400-bln-problem-are-chips-getting-old-too-fast/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft posiluje angažovanost v Indii partnerstvími v AI a 200 000 licencemi Copilot u předních IT firem",
+      "description": "Společně nasadí TCS, Infosys, Wipro a Cognizant přes 200 000 licencí Microsoft Copilot, čímž transformují pracovní postupy v oblastech finance, lidských zdrojů, prodeje, dodávek a interakce se zákazníky. Tento krok navazuje na plánovanou investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii.",
+      "slug": "microsoft-deepens-india-bet-with-ai-tie-ups-and-20",
+      "publishedAt": "2025-12-11T07:11:35+00:00",
+      "date": "2025-12-11 07:11:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ostkx7/article70383629.ece/alternates/LANDSCAPE_1200/IMG_image_2_1_BIF9LNND.jpg",
+      "url": "/tech-news/2025-12-11/microsoft-deepens-india-bet-with-ai-tie-ups-and-20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Microsoft",
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Cognizant"
+      ],
+      "people": []
+    },
     {
       "title": "Generální prokurátoři USA varovali Microsoft, Meta, Google a Apple kvůli výstupům chatbotů",
       "description": "Státní generální prokurátoři varovali velké technologické firmy, že „deluzivní“ výstupy chatbotů mohou porušovat státní zákony a ohrožovat duševní zdraví uživatelů. Vyzvali k nezávislým auditům a silnějšímu dohledu po případech zranitelných uživatelů, což prohlubuje napětí mezi státy a federální vládou v otázce regulace umělé inteligence.",
@@ -3429,26 +3471,6 @@
       "people": []
     },
     {
-      "title": "Amazon Kindle Scribe Colorsoft ve barvě Fig nebude dodáván do ledna 2026",
-      "description": "Amazon Kindle Colorsoft ve barvě Fig, varianta barevné e-čtečky s perem, nebude dodáván do Spojených států až do začátku roku 2026. Černá verze v Graphite vyjde dříve, 10. prosince 2025.",
-      "slug": "amazon-kindle-scribe-colorsoft-fig-is-not-shipping",
-      "publishedAt": "2025-12-07T09:28:27+00:00",
-      "date": "2025-12-07 09:28:27",
-      "importance": 3,
-      "category": "e-čtečky",
-      "urlToImage": "https://media.goodereader.com/blog/uploads/images/2025/12/07040348/71ok2QXcyBL_AC_SL1500_.jpg",
-      "url": "/tech-news/2025-12-07/amazon-kindle-scribe-colorsoft-fig-is-not-shipping/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Goodereader"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "Ukázka: Umělá inteligence Paula Grahama",
       "description": "Vytvořena umělá inteligence na bázi Paula Grahama, poháněná Nia API, která indexuje celé sbírky textů pro přesné odpovědi. AI odpovídá na otázky o startupech, psaní, technologiích a životě s oporou v přes 120 esejích Paula Grahama.",
       "slug": "show-hn-ai-paul-graham",
@@ -3718,24 +3740,6 @@
       "companies": [
         "Soothing Solutions"
       ],
-      "people": []
-    },
-    {
-      "title": "Trendy řešení umělé inteligence pro UX/UI design v roce 2026",
-      "description": "V posledních letech řešení pro vývoj umělé inteligence změnily přístup firem k digitálnímu designu. Od automatizace opakujících se úkolů po generování vysoce personalizovaných uživatelských zkušeností je umělá inteligence základem moderních strategií UX/UI.",
-      "slug": "ai-solutions-trends-for-uxui-design-in-2026",
-      "publishedAt": "2025-12-07T05:21:44+00:00",
-      "date": "2025-12-07 05:21:44",
-      "importance": 3,
-      "category": "ux/ui design",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/ai-solutions-trends-for-uxui-design-in-2026/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Designer-daily.com"
-      },
-      "companies": [],
       "people": []
     },
     {
