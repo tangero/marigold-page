@@ -1,7 +1,175 @@
 {
-  "generated": "2025-12-12T08:48:35.001400+00:00",
+  "generated": "2025-12-12T13:11:28.011715+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Wall Street je optimistický ohledně Uber Technologies (UBER), zde je důvod",
+      "description": "Uber Technologies (NYSE: UBER) patří mezi levné akcie NYSE k nákupu. Dne 8. prosince analytik Brian Nowak z Morgan Stanley potvrdil doporučení Koupit a snížil cílovou cenu z 115 na 110 dolarů, zatímco Mark Mahaney z Evercore ISI udržel doporučení Koupit s cílovou cenou 150 dolarů.",
+      "slug": "wall-street-bullish-on-uber-technologies-uber-here",
+      "publishedAt": "2025-12-11T12:33:04+00:00",
+      "date": "2025-12-11 12:33:04",
+      "importance": 4,
+      "category": "sdílená ekonomika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjtvmBhItrilu8Ag7qjwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
+      "url": "/tech-news/2025-12-11/wall-street-bullish-on-uber-technologies-uber-here/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Uber Technologies"
+      ],
+      "people": [
+        "Brian Nowak"
+      ]
+    },
+    {
+      "title": "Digital Currency X Technology Inc. dokončila akvizici tokenů EdgeAI za 1 miliardu dolarů, treasury holdings překročily 1,4 miliardy",
+      "description": "Společnost Digital Currency X Technology Inc. (NASDAQ: DCX), zaměřená na správu pokladny digitálních aktiv a infrastrukturu pro úschovu kryptoměn, oznámila dokončení akvizice tokenů EdgeAI v hodnotě 1 miliardy dolarů za 800 milionů dolarů. Tato transakce posiluje jejich celkové holdings na více než 1,4 miliardy dolarů a staví DCX do pozice klíčového hráče v ekosystému decentralizované AI.",
+      "slug": "digital-currency-x-technology-inc-completes-1-bill",
+      "publishedAt": "2025-12-11T12:18:00+00:00",
+      "date": "2025-12-11 12:18:00",
+      "importance": 5,
+      "category": "kryptoměny",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/823a73cb-329f-40ed-8b8b-3965138915f3",
+      "url": "/tech-news/2025-12-11/digital-currency-x-technology-inc-completes-1-bill/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Digital Currency X Technology Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "6 inovací roku 2025, které ukazují, že Apple stále má co nabídnout",
+      "description": "Rok 2025 byl pro Apple solidní rok, kdy společnost obnovila širokou škálu zařízení s rychlejšími procesory, tenčími designy a vyšší spolehlivostí. Zavádí také Liquid Glass, jedno z nejvýraznějších přepracování uživatelského rozhraní napříč operačními systémy.",
+      "slug": "A-6-innovations-in-2025-that-prove-apple-still-has",
+      "publishedAt": "2025-12-11T12:15:00+00:00",
+      "date": "2025-12-11 12:15:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/12/apple-logo-neon.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-11/A-6-innovations-in-2025-that-prove-apple-still-has/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejnovější softwareová služba NVIDIA sleduje polohu GPU k boji proti pašování a pašerákům, nepotvrzuje „Kill Switch“",
+      "description": "NVIDIA zavádí novou softwareovou službu do svých datacenter AI GPU, která sleduje polohu čipů v reálném čase bez jakýchkoli Kill Switchů. Služba umožňuje zákazníkům monitorovat celou flotilu GPU a bojuje proti nelegálnímu pašování do zakázaných regionů jako Čína.",
+      "slug": "nvidias-latest-software-service-tracks-gpu-locatio",
+      "publishedAt": "2025-12-11T12:10:13+00:00",
+      "date": "2025-12-11 12:10:13",
+      "importance": 4,
+      "category": "sledování polohy",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/im-47125939.jpg",
+      "url": "/tech-news/2025-12-11/nvidias-latest-software-service-tracks-gpu-locatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Harness získal 240 milionů dolarů na vedení AI-poháněného DevOps mimo editor kódu",
+      "description": "Společnost Harness Inc., startup specializující se na integraci umělé inteligence do procesů DevOps, oznámila získání 240 milionů dolarů v investičním kole série E. Kole, vedené Goldman Sachs, hodnotí firmu na 5,5 miliardy dolarů a zaměřuje se na AI nástroje pro testování, nasazení a bezpečnost softwaru.",
+      "slug": "harness-raises-240m-to-lead-ai-powered-devops-beyo",
+      "publishedAt": "2025-12-11T12:00:37+00:00",
+      "date": "2025-12-11 12:00:37",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/A-pair-of-robot-hands-typing-on-a-keyboard-in-front-of-a-screen-that-is-filling-up-with-documents-ab.jpeg",
+      "url": "/tech-news/2025-12-11/harness-raises-240m-to-lead-ai-powered-devops-beyo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Harness Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Goldman Sachs vede investici do startupu Harness na software pro doručování při valuaci 5,5 miliardy dolarů",
+      "description": "Startup Harness získal 200 milionů dolarů v investičním kole vedeném Goldman Sachs při valuaci 5,5 miliardy dolarů. Jeho generální ředitel Jyoti Bansal, který dříve prodal AppDynamics firmě Cisco za 3,7 miliardy, plánuje v budoucnu zavést Harness na burzu.",
+      "slug": "goldman-sachs-leads-investment-in-software-deliver",
+      "publishedAt": "2025-12-11T12:00:01+00:00",
+      "date": "2025-12-11 12:00:01",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240323-1765408077312-Handout_Harness_Jyoti_Bansal.jpg?v=1765409995&w=1920&h=1080",
+      "url": "/tech-news/2025-12-11/goldman-sachs-leads-investment-in-software-deliver/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Harness",
+        "AppDynamics",
+        "Cisco"
+      ],
+      "people": [
+        "Jyoti Bansal"
+      ]
+    },
+    {
+      "title": "Trumpův zákaz regulace umělé inteligence ohrožuje národní bezpečnost",
+      "description": "Spojené státy by neměly nechat lobbisty přesvědčit k tomu, aby se vzdaly ochrany své budoucnosti.",
+      "slug": "trumps-ai-regulation-ban-is-a-threat-to-national-s",
+      "publishedAt": "2025-12-11T12:00:00+00:00",
+      "date": "2025-12-11 12:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/lo-Md-a_NnYwIcm4M5XNPAkWjmY=/0x61:2876x1559/1200x625/media/img/mt/2025/12/2025_12_09_ai_crisis_1/original.jpg",
+      "url": "/tech-news/2025-12-11/trumps-ai-regulation-ban-is-a-threat-to-national-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Cursor vykazuje rostoucí příjmy a valuaci 29 miliard dolarů – generální ředitel Michael Truell ale nemyslí na IPO",
+      "description": "Generální ředitel Michael Truell uvádí, že AI startup pro kódování dosáhl minulý měsíc 1 miliardy dolarů v annualizovaných příjmech – firma se však soustředí na rozvoj funkcí, nikoli na veřejné kótování.",
+      "slug": "cursor-has-growing-revenue-and-a-29-billion-valuat",
+      "publishedAt": "2025-12-11T11:39:47+00:00",
+      "date": "2025-12-11 11:39:47",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/54971199697_468678389e_o-e1765423303599.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-11/cursor-has-growing-revenue-and-a-29-billion-valuat/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Cursor"
+      ],
+      "people": [
+        "Michael Truell"
+      ]
+    },
     {
       "title": "Problém umělé inteligence v hodnotě 400 miliard dolarů: Stárnou čipy příliš rychle?",
       "description": "Technologický průmysl letos investoval přibližně 400 miliard dolarů do specializovaných čipů a datových center pro AI, ale experti zpochybňují udržitelnost těchto výdajů kvůli rychlé zastaralosti hardware.",
@@ -2941,65 +3109,6 @@
       "people": []
     },
     {
-      "title": "Trh s objevováním protilátek dosáhne 17,68 miliardy USD do roku 2032, poháněn poptávkou po cílených terapiích a pokroky v inženýrství protilátek s podporou AI – SNS Insider",
-      "description": "Podle výzkumu SNS Insider by měl globální trh s objevováním protilátek růst z 8,42 miliardy USD v roce 2024 na 17,68 miliardy USD do roku 2032 tempem CAGR 9,74 %. Americký segment, který tvoří největší podíl, poroste tempem CAGR 8,13 % díky investicím do výzkumu a vývoje biologik.",
-      "slug": "antibody-discovery-market-to-reach-usd-1768-billio",
-      "publishedAt": "2025-12-07T14:26:00+00:00",
-      "date": "2025-12-07 14:26:00",
-      "importance": 3,
-      "category": "biotechnologie",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-07/antibody-discovery-market-to-reach-usd-1768-billio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AST SpaceMobile, Dollar General a CoreWeave patří mezi deset největších zhodnotitelů large cap akcií minulý týden (1.–5. prosince): Jsou ostatní ve vašem portfoliu?",
-      "description": "Technologie jako polovodiče, umělá inteligence a cloudové výpočty pohánějí ekonomický růst a udržují vysoké nadšení investorů. Minulý obchodní týden (1.–5. prosince) toto posílily silné výkazy zisků a pozitivní prognózy.",
-      "slug": "ast-spacemobile-dollar-general-coreweave-are-among",
-      "publishedAt": "2025-12-07T14:22:59+00:00",
-      "date": "2025-12-07 14:22:59",
-      "importance": 3,
-      "category": "burza",
-      "urlToImage": "https://biztoc.com/cdn/72115e6baa2f4539_s.webp",
-      "url": "/tech-news/2025-12-07/ast-spacemobile-dollar-general-coreweave-are-among/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "AST SpaceMobile",
-        "CoreWeave"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie se stává centrem AI datových center, NeevCloud spolupracuje s globálními firmami: CEO",
-      "description": "Startup NeevCloud z Indore je prvním indickým AI Supercloud, který nabízí cloudovou infrastrukturu pro výpočetně náročné AI úlohy v oblastech jako fintech nebo zdravotnictví. Společnost rozšiřuje kapacity novými datovými centry a plánuje budovat suverénní AI infrastrukturu kvůli vysoké závislosti indických firem na zahraničních cloudech.",
-      "slug": "as-india-becoming-ai-data-centre-hub-company-engag",
-      "publishedAt": "2025-12-07T14:20:52+00:00",
-      "date": "2025-12-07 14:20:52",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ri14i/article70369264.ece/alternates/LANDSCAPE_1200/2025-11-06T152719Z_1466185880_RC2ZQHA97KGE_RTRMADP_3_BRITAIN-AI-NEBIUS.JPG",
-      "url": "/tech-news/2025-12-07/as-india-becoming-ai-data-centre-hub-company-engag/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "NeevCloud"
-      ],
-      "people": []
-    },
-    {
       "title": "Nová tvář Hollywoodu, generovaná umělou inteligencí",
       "description": "Tilly Norwood je plně umělou inteligencí generovaná herečka, která vstupuje do světa filmů a televize. Tento projekt vyvolává diskuse o budoucnosti mediálního průmyslu a možném nahrazování lidských herců.",
       "slug": "theres-a-new-face-in-hollywood-generated-by-ai",
@@ -3227,24 +3336,6 @@
       "people": [
         "Chris Coyier"
       ]
-    },
-    {
-      "title": "Austrálané považují umělou inteligenci za hlavní hrozbu pro lidi a firmy: průzkum",
-      "description": "Nový průzkum ukázal, že Australané vidí umělou inteligenci jako hlavní hrozbu pro své obyvatele a podniky.",
-      "slug": "australians-see-ai-as-leading-threat-to-people-and",
-      "publishedAt": "2025-12-07T12:36:48+00:00",
-      "date": "2025-12-07 12:36:48",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://images.theconversation.com/files/706618/original/file-20251205-56-wuiy8p.jpg?ixlib=rb-4.1.0&rect=0%2C1215%2C7280%2C3640&q=45&auto=format&w=1356&h=668&fit=crop",
-      "url": "/tech-news/2025-12-07/australians-see-ai-as-leading-threat-to-people-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Velikost trhu s tetrachlorkem křemíku dosáhne 3,47 miliardy USD do roku 2032 díky rostoucí poptávce v optických vláknech | SNS Insider",
@@ -3555,46 +3646,6 @@
       ]
     },
     {
-      "title": "Analýza právních obranných strategií AI firem proti žalobám o AI a mentální zdraví",
-      "description": "OpenAI reagovala na žalobu týkající se AI a mentálního zdraví po smrti 16letého uživatele ChatGPT. Článek rozebírá tuto odpověď a identifikuje 15 obranných strategií, které pravděpodobně použijí všechny AI výrobci.",
-      "slug": "analysis-of-the-legal-defense-strategies-being-use",
-      "publishedAt": "2025-12-07T08:15:00+00:00",
-      "date": "2025-12-07 08:15:00",
-      "importance": 3,
-      "category": "ai právo",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6934b46a2fcef8e549018b9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-12-07/analysis-of-the-legal-defense-strategies-being-use/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple vyřešil problém se záhybem, ale dokáže prodat skládací iPhone za 2000 dolarů?",
-      "description": "Apple připravuje vstup na trh se skládacími chytrými telefony, jeho první zařízení vstupuje do fáze předvýrobou pro uvedení v roce 2026. Firma roky vylepšovala odolnost a výkon displejů podle svých přísných standardů, masová výroba je brzy na obzoru s očekávanou prémiovou cenou.",
-      "slug": "apple-solved-the-crease-but-can-they-sell-a-2000-i",
-      "publishedAt": "2025-12-07T08:00:24+00:00",
-      "date": "2025-12-07 08:00:24",
-      "importance": 4,
-      "category": "skládací telefony",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/apple-foldable-iphone-display-technology_optimized.jpg",
-      "url": "/tech-news/2025-12-07/apple-solved-the-crease-but-can-they-sell-a-2000-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Webová výkonnost 2025: Posun od optimalizace k predikci",
       "description": "Vývoj webové výkonnosti v roce 2025 přináší díky Speculation Rules API v prohlížečích na bázi Chromium přechod od tradiční optimalizace k prediktivnímu načítání stránek. Tento přístup umožňuje zkrátit čas načítání následných stránek na pod 300 ms, což nutí přehodnotit stávající měřítka výkonu.",
       "slug": "web-performance-2025-the-shift-from-optimization-t",
@@ -3801,26 +3852,6 @@
       "people": []
     },
     {
-      "title": "Apple otřesené odchodem vrcholových manažerů, šéf čipového vývoje může odejít jako další",
-      "description": "V uplynulém týdnu odešli šéfové umělé inteligence a designu uživatelského rozhraní u Applu. Firma poté oznámila odchod generálního právníka a šéfa vlivů na vládu. Všech čtyři manažeři podléhali přímo generálnímu řediteli Timu Cookovi, což představuje výjimečnou rotaci na nejvyšší úrovni.",
-      "slug": "apple-rocked-by-executive-departures-with-chip-chi",
-      "publishedAt": "2025-12-07T04:03:03+00:00",
-      "date": "2025-12-07 04:03:03",
-      "importance": 3,
-      "category": "manažerské odchody",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74930,resizemode-75,msid-125813008/tech/technology/apple-rocked-by-executive-departures-with-chip-chief-at-risk-of-leaving-next.jpg",
-      "url": "/tech-news/2025-12-07/apple-rocked-by-executive-departures-with-chip-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Bio-hybridní roboti přeměňují potravinový odpad na funkční stroje",
       "description": "Vědci z EPFL v švýcarském Lausanne integrovali vyhozené krunýře korýšů do robotických zařízení a využívají pevnost a pružnost přírodních materiálů pro robotické aplikace. Tento přístup kombinuje biologické prvky s syntetickými komponenty pro udržitelnější robotiku.",
       "slug": "bio-hybrid-robots-turn-food-waste-into-functional-",
@@ -3874,26 +3905,6 @@
         "name": "Alexsci.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple otřesené: Vysocí manažeři a inženýři odcházejí, šéf hardwarových technologií zvažuje odchod",
-      "description": "Minulý týden odešli v Apple šéfové umělé inteligence a designu uživatelského rozhraní. Firma poté oznámila odchod generálního právníka a šéfa vlivů na vládu, přičemž šéf hardwarových technologií Johny Srouji pravděpodobně následuje.",
-      "slug": "apple-shaken-as-executives-engineers-step-down-har",
-      "publishedAt": "2025-12-07T03:24:18+00:00",
-      "date": "2025-12-07 03:24:18",
-      "importance": 3,
-      "category": "apple",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/07/1600x900/logo/USA-MIGRATION-GOOGLE-0_1765077682034_1765077691476.JPG",
-      "url": "/tech-news/2025-12-07/apple-shaken-as-executives-engineers-step-down-har/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Apple"
-      ],
       "people": []
     },
     {
