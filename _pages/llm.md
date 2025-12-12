@@ -231,20 +231,27 @@ permalink: /llm/
         <div class="pricing-row">
           <div class="pricing-label">Cena vstup/výstup</div>
           <div class="cost-emoji">
-          {% if model.pricing.blend_per_m %}
-            {% if model.pricing.blend_per_m == 0 %}
-              <span class="cost-free-label">Zdarma</span>
-            {% elsif model.pricing.blend_per_m < 1 %}
+          {% comment %}Kontrolujeme nejdřív zda jsou ceny 0 (zdarma){% endcomment %}
+          {% if model.pricing.prompt_per_m == 0 and model.pricing.completion_per_m == 0 %}
+            <span class="cost-free-label">Zdarma</span>
+          {% else %}
+            {% comment %}Vypočítáme blend cenu{% endcomment %}
+            {% if model.pricing.blend_per_m %}
+              {% assign blend_price = model.pricing.blend_per_m | plus: 0 %}
+            {% else %}
+              {% assign p = model.pricing.prompt_per_m | default: 0 | plus: 0 %}
+              {% assign c = model.pricing.completion_per_m | default: 0 | plus: 0 %}
+              {% assign blend_price = p | plus: c | divided_by: 2.0 %}
+            {% endif %}
+            {% if blend_price < 1 %}
               💰
-            {% elsif model.pricing.blend_per_m < 5 %}
+            {% elsif blend_price < 5 %}
               💰💰
-            {% elsif model.pricing.blend_per_m < 15 %}
+            {% elsif blend_price < 15 %}
               💰💰💰
             {% else %}
               💰💰💰💰
             {% endif %}
-          {% else %}
-            💰💰
           {% endif %}
           </div>
         </div>
