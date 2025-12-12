@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Od sledování k uvažování: Jak AI agenti chytají chyby před jejich nasazením | Marigold.cz Tech News</title>
+    <meta name="description" content="Umělá inteligence a agentická AI posouvají vývojové týmy od tradiční detekce chyb k proaktivní prevenci. Systémy jako Seer od Sentry nejen identifikují problémy">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-05/from-observability-to-reasoning-how-ai-agents-are-/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 05.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">SiliconANGLE News</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Od sledování k uvažování: Jak AI agenti chytají chyby před jejich nasazením</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-05T22:05:42+00:00">05.12.2025</time>
+                    <span class="category">umělá inteligence</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/IMG_8881.jpg" alt="Od sledování k uvažování: Jak AI agenti chytají chyby před jejich nasazením" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Nová vrstva uvažování Seer od společnosti Sentry přeměňuje data o chybách z produkčního prostředí na insights o kořenových příčinách a umožňuje automatickou opravu kódu. Tento přechod od pasivního sledování (observability) k aktivnímu uvažování (reasoning) s využitím agentické AI zrychluje vývoj a snižuje rizika nasazení chybných verzí. CEO Sentry Milin Desai to prezentoval na konferenci AWS re:Invent.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Seer integruje produkční data o chybách s ekosystémy vývojových nástrojů pro automatickou identifikaci a opravu kořenových příčin.</li>
+<li>Systém dosahuje 95% přesnosti při určení root cause a brání nasazení stovek tisíc chyb měsíčně.</li>
+<li>Agentická AI spolupracuje s interními coding agenty pro psaní oprav a prevenci problémů před produkcí.</li>
+<li>Sentry, původně zaměřená na error tracking, se rozšiřuje o proaktivní nástroje.</li>
+<li>Diskuse proběhla v exkluzivním rozhovoru na theCUBE během AWS re:Invent.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Sentry, firma specializující se na sledování chyb a výkonu aplikací (observability), zavádí vrstvu Seer, která analyzuje trace data a error logy z produkčního prostředí. Tato vrstva nepouze detekuje defekty, ale aplikuje uvažování založené na AI k určení kořenových příčin s deklarovanou přesností 95 %. Jak vysvětlil CEO Milin Desai v rozhovoru pro theCUBE, Seer vytváří uzavřenou smyčku: identifikuje problém, najde příčinu a pak spustí interní coding agenta, který napíše opravu. Tento agent může být integrován s existujícími nástroji vývojového týmu, jako jsou GitHub nebo interní CI/CD pipeline, což umožňuje automatizaci celého procesu.</p>
+<p>Představeno na AWS re:Invent 2025, toto řešení staví na datech Sentry, která sbírá informace o miliardách událostí denně. Například pokud se v aplikaci objeví chyba v API volání, Seer prohledá trace, identifikuje chybný kódový řádek a navrhne patch. Desai zdůraznil, že systém aktuálně zabraňuje nasazení stovek tisíc chyb, což je posun od reaktivního monitoringu k prevenci. Pro vývojáře to znamená méně manuálního debuggingu – místo hodin strávených hledáním bugů se mohou soustředit na nové funkce. Sentry tak konkuruje nástrojům jako Datadog nebo New Relic, ale s důrazem na agentickou AI, která simuluje lidské uvažování.</p>
+<p>Jako expert na AI v IT vidím zde potenciál, ale i limity: 95% přesnost je slibná, avšak závisí na kvalitě trénovacích dat a kontextu aplikace. V komplexních mikroservisních architekturách může reasoning selhat u nečekaných interakcí. Přesto je to krok vpřed oproti tradičním LLM, které generují kód bez hlubokého kontextu produkčních chyb.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento vývoj urychluje adopci agentické AI v devopsu, kde tradiční observability nástroje jako Sentry dosud končily u alertů. Pro průmysl znamená snížení downtime – studie ukazují, že bugy způsobují 40 % výpadků služeb – a úsporu času vývojářů, kteří dnes tráví 50 % času opravami. V širším ekosystému posiluje to integraci AI s cloudovými platformami jako AWS, kde se agentic AI stává standardem pro CI/CD. Pro uživatele to přinesou stabilnější aplikace, ale vyžaduje to opatrnost při nasazení kvůli rizikům AI halucinací v kódu. Dlouhodobě to může změnit metriky spolehlivosti softwaru, snižovat náklady na údržbu o desítky procent.</p>
+<hr />
+<p><a href="https://siliconangle.com/2025/12/05/agentic-ai-bug-prevention-awsreinvent/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 SiliconANGLE News</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://siliconangle.com/2025/12/05/agentic-ai-bug-prevention-awsreinvent/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: From observability to reasoning: How AI agents are catching bugs before they ship</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
