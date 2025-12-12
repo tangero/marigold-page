@@ -207,12 +207,6 @@ permalink: /llm/
           <span class="provider-name">{{ model.provider }}</span>
         </div>
 
-        {% if model.overall_score %}
-        <div class="score-badge score-tier-{{ model.overall_tier | downcase | replace: ' ', '-' }}">
-          <div class="score-number">{{ model.overall_score | round }}</div>
-          <div class="score-tier">{{ model.overall_tier }}</div>
-        </div>
-        {% endif %}
       </div>
 
       <!-- Název modelu -->
@@ -236,22 +230,23 @@ permalink: /llm/
       <div class="pricing-box">
         <div class="pricing-row">
           <div class="pricing-label">Cena vstup/výstup</div>
+          <div class="cost-emoji">
           {% if model.pricing.blend_per_m %}
             {% if model.pricing.blend_per_m == 0 %}
-              {% assign cost_class = "cost-free" %}
+              <span class="cost-free-label">Zdarma</span>
             {% elsif model.pricing.blend_per_m < 1 %}
-              {% assign cost_class = "cost-cheap" %}
+              💰
             {% elsif model.pricing.blend_per_m < 5 %}
-              {% assign cost_class = "cost-moderate" %}
+              💰💰
             {% elsif model.pricing.blend_per_m < 15 %}
-              {% assign cost_class = "cost-expensive" %}
+              💰💰💰
             {% else %}
-              {% assign cost_class = "cost-premium" %}
+              💰💰💰💰
             {% endif %}
           {% else %}
-            {% assign cost_class = "cost-moderate" %}
+            💰💰
           {% endif %}
-          <div class="cost-indicator {{ cost_class }}"></div>
+          </div>
         </div>
         <div class="pricing-values">
           <span class="price-item">
@@ -578,55 +573,6 @@ permalink: /llm/
   white-space: nowrap;
 }
 
-/* Score badge */
-.score-badge {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-width: 60px;
-  height: 60px;
-  border-radius: 12px;
-  padding: 0.5rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  flex-shrink: 0;
-}
-
-.score-number {
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 1;
-  color: white;
-}
-
-.score-tier {
-  font-size: 0.65rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-top: 0.2rem;
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.score-tier-excelentní {
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-}
-
-.score-tier-výborný {
-  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
-}
-
-.score-tier-dobrý {
-  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
-}
-
-.score-tier-průměrný {
-  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
-}
-
-.score-tier-slabý {
-  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
-}
-
 /* Název modelu */
 .card-title-new {
   font-size: 1.25rem;
@@ -700,37 +646,16 @@ permalink: /llm/
   letter-spacing: 0.5px;
 }
 
-/* Cost indicator - barevná tečka */
-.cost-indicator {
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+/* Cost emoji indicator */
+.cost-emoji {
+  font-size: 1rem;
+  letter-spacing: -2px;
 }
 
-.cost-free {
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-  box-shadow: 0 0 8px rgba(16, 185, 129, 0.5);
-}
-
-.cost-cheap {
-  background: linear-gradient(135deg, #34d399 0%, #10b981 100%);
-  box-shadow: 0 0 8px rgba(52, 211, 153, 0.5);
-}
-
-.cost-moderate {
-  background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
-  box-shadow: 0 0 8px rgba(251, 191, 36, 0.5);
-}
-
-.cost-expensive {
-  background: linear-gradient(135deg, #fb923c 0%, #f97316 100%);
-  box-shadow: 0 0 8px rgba(251, 146, 60, 0.5);
-}
-
-.cost-premium {
-  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
-  box-shadow: 0 0 8px rgba(239, 68, 68, 0.5);
+.cost-free-label {
+  color: #10b981;
+  font-weight: 600;
+  font-size: 0.8rem;
 }
 
 .pricing-values {
@@ -841,10 +766,6 @@ permalink: /llm/
   .card-header-new {
     flex-direction: column;
     gap: 0.75rem;
-  }
-
-  .score-badge {
-    align-self: flex-end;
   }
 
   .pricing-values {
