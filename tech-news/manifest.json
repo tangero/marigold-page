@@ -1,7 +1,69 @@
 {
-  "generated": "2025-12-11T17:19:19.571178+00:00",
+  "generated": "2025-12-12T01:26:25.862328+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Počet tokenů na rupii na watt bude korelovat s růstem HDP: Satya Nadella",
+      "description": "Generální ředitel Microsoftu Satya Nadella potvrdil, že nástroj Copilot zpracovává všechna lokální data výhradně na domácím území. Představil vzorec 'tokenů na rupii na watt' jako klíčový faktor růstu hrubého domácího produktu.",
+      "slug": "token-per-rupee-per-watt-to-correlate-with-gdp-gro",
+      "publishedAt": "2025-12-11T00:30:00+00:00",
+      "date": "2025-12-11 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-145998,resizemode-75,msid-125896459/tech/artificial-intelligence/token-per-rupee-per-watt-to-correlate-with-gdp-growth-satya-nadella.jpg",
+      "url": "/tech-news/2025-12-11/token-per-rupee-per-watt-to-correlate-with-gdp-gro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Google DeepMind uzavřel rozsáhlé partnerství s britskou vládou zaměřené na vědu a čistou energii",
+      "description": "Spolupráce zahrnuje robotickou laboratoř pro nové materiály, fúzní energii a společný výzkum bezpečnosti AI i společenských dopadů umělé inteligence.",
+      "slug": "google-deepmind-agrees-to-sweeping-partnership-wit",
+      "publishedAt": "2025-12-11T00:01:00+00:00",
+      "date": "2025-12-11 00:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217672931-e1765404847213.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-11/google-deepmind-agrees-to-sweeping-partnership-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI urychlí národní obnovu a růst, Google DeepMind podporuje britské technologické a vědecké sektory",
+      "description": "Nové partnerství s Google DeepMind přemění špičkovou umělou inteligenci na reálné výhody pro pracující lidi, včetně otevření první automatizované výzkumné laboratoře v Británii.",
+      "slug": "ai-to-accelerate-national-renewal-and-growth-as-go",
+      "publishedAt": "2025-12-11T00:01:00+00:00",
+      "date": "2025-12-11 00:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "url": "/tech-news/2025-12-11/ai-to-accelerate-national-renewal-and-growth-as-go/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": []
+    },
     {
       "title": "Elon Musk: Tesla robotaxi v Austinu plně bez řidiče za tři týdny",
       "description": "Novinka přichází v době, kdy Tesla plánuje zdvojnásobit svou flotilu v oblasti Austinu na přibližně 60 vozidel ještě tento měsíc.",
@@ -3190,24 +3252,6 @@
       "people": []
     },
     {
-      "title": "Novinář reportoval z Palestiny. YouTube mu smazal účet s tvrzením, že je íránský agent",
-      "description": "YouTube uvedl více vysvětlení pro smazání účtu Roberta Inlakeshe, který pokrýval izraelskou okupaci Západního břehu. Článek popisuje postupné mazání jeho účtů včetně zálohy a Google účtu.",
-      "slug": "a-journalist-reported-from-palestine-youtube-delet",
-      "publishedAt": "2025-12-07T11:00:00+00:00",
-      "date": "2025-12-07 11:00:00",
-      "importance": 3,
-      "category": "sociální sítě",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/12/signal-2025-12-05-095004_002-e1764977944861.jpeg?fit=2048%2C1024&w=1200&h=800",
-      "url": "/tech-news/2025-12-07/a-journalist-reported-from-palestine-youtube-delet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Intercept"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "AI pravděpodobně nevyhazuje váš životopis. Dělá to človéku.",
       "description": "Technologie hraje větší roli v náborovém procesu, ale často to jsou lidé, ne boty, kteří zamítají vaši žádost.",
       "slug": "ai-isnt-likely-throwing-out-your-résumé-a-human-is",
@@ -3300,24 +3344,6 @@
       "people": []
     },
     {
-      "title": "Daňová kampaň poháněná umělou inteligencí pomáhá Turecku snižovat rozpočtový deficit, říká britský ekonom Ash",
-      "description": "Turecko vykázalo primární přebytek 379,3 miliardy tureckých lir (8,91 miliardy dolarů) za deset měsíců díky daňové iniciativě využívající umělou inteligenci, která zvýšila příjmy, přestože firmy vyjadřují obavy z rostoucího tlaku na dodržování předpisů.",
-      "slug": "ai-driven-tax-crackdown-helps-türkiye-narrow-budge",
-      "publishedAt": "2025-12-07T10:04:34+00:00",
-      "date": "2025-12-07 10:04:34",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.turkiyetoday.com/images/2025/12/7/ai-driven-tax-crackdown-helps-turkiye-narrow-budget-deficit-british-economist-ash-say-3210947_20251207123640.jpg",
-      "url": "/tech-news/2025-12-07/ai-driven-tax-crackdown-helps-türkiye-narrow-budge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Turkiyetoday.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč je kyberbezpečnost nyní strategickým páčím pro technologické firmy v době nejistoty",
       "description": "Kyberbezpečnost není jen ochrana – stala se katalyzátorem růstu a hnacím motorem valuace pro technologické firmy.",
       "slug": "why-cybersecurity-is-now-a-strategic-lever-for-tec",
@@ -3395,24 +3421,6 @@
       "companies": [
         "Meta"
       ],
-      "people": []
-    },
-    {
-      "title": "Prasknutí bubliny by prospělo umělé inteligenci",
-      "description": "Praskající bublina v oblasti umělé inteligence by mohla podnítit inovace tím, že nedostatek zdrojů donutí firmy k vývoji úsporných modelů. Historické krize ukazují, že omezení často vedou k průlomům v efektivitě, zatímco nadbytek financí riskuje stagnaci.",
-      "slug": "a-bursting-bubble-would-be-great-for-ai",
-      "publishedAt": "2025-12-07T08:46:39+00:00",
-      "date": "2025-12-07 08:46:39",
-      "importance": 3,
-      "category": "ai bublina",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-519304,resizemode-75,msid-125815093/tech/artificial-intelligence/a-bursting-bubble-would-be-great-for-ai.jpg",
-      "url": "/tech-news/2025-12-07/a-bursting-bubble-would-be-great-for-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
       "people": []
     },
     {
