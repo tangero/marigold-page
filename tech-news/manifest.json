@@ -1,7 +1,109 @@
 {
-  "generated": "2025-12-13T04:44:38.921142+00:00",
+  "generated": "2025-12-13T08:42:01.757341+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Trump podepsal příkaz k blokování státních regulací umělé inteligence",
+      "description": "Prezident Donald Trump podepsal exekutivní příkaz, který brání jednotlivým státům v USA zavádět vlastní pravidla pro umělou inteligenci, aby se zabránilo fragmentaci regulací v konkurenci s Čínou.",
+      "slug": "trump-signs-order-to-block-state-ai-regulations",
+      "publishedAt": "2025-12-12T08:00:56+00:00",
+      "date": "2025-12-12 08:00:56",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJ5R2DBZRPI52TO3UWISOO2UD4A.jpg?auth=2b010c4fe8b6b7465de8d7a6e945faee1c9ee50dd610227be6414773b40a2416&width=1200&height=630&smart=true",
+      "url": "/tech-news/2025-12-12/trump-signs-order-to-block-state-ai-regulations/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "AI agenti tlačí softwareový průmysl k existenciální proměně",
+      "description": "Průmysl umělé inteligence dosáhl kritického bodu obratu. Po dvou letech rychlého pokroku v generativních modelech se technologie přechází z odpovídání na otázky k autonomnímu dokončování složitých úkolů, což ohrožuje tradiční softwareový sektor.",
+      "slug": "ai-agents-push-software-industry-toward-existentia",
+      "publishedAt": "2025-12-12T07:24:32+00:00",
+      "date": "2025-12-12 07:24:32",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251210pd232_files/2_b.jpg",
+      "url": "/tech-news/2025-12-12/ai-agents-push-software-industry-toward-existentia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Googleův kvantový procesor Willow pohání špičkový britský výzkum prostřednictvím NQCC",
+      "description": "Google uzavřel spolupráci s britským Národním centrem pro kvantové výpočty (NQCC), které poskytne výzkumníkům přístup k kvantovému procesoru Willow. Tento krok umožní testovat pokročilé kvantové algoritmy na hardwaru s 105 qubits a nízkou chybovostí.",
+      "slug": "googles-willow-quantum-processor-will-power-cuttin",
+      "publishedAt": "2025-12-12T07:00:00+00:00",
+      "date": "2025-12-12 07:00:00",
+      "importance": 5,
+      "category": "kvantové výpočty",
+      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleQuantumAI_WillowChip_Closeup_01.max-1440x810.jpg",
+      "url": "/tech-news/2025-12-12/googles-willow-quantum-processor-will-power-cuttin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Blog.google"
+      },
+      "companies": [
+        "Google",
+        "NQCC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Časopis TIME vyhlásil 'Architekty AI' osobností roku 2025 včetně Elona Muska, Jensena Huanga a Sama Altmana",
+      "description": "Časopis TIME jmenoval skupinu 'Architekty AI' osobností roku 2025. Mezi klíčovými postavami jsou Jensen Huang z Nvidia, Sam Altman z OpenAI a Elon Musk z xAI, kteří podle redakce uvolnili plný potenciál umělé inteligence a ovlivnili globální informace, klima i každodenní život.",
+      "slug": "time-magazines-2025-person-of-the-year-is-a-group-",
+      "publishedAt": "2025-12-12T06:59:21+00:00",
+      "date": "2025-12-12 06:59:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125927980,width-1070,height-580,imgsize-97718,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-12-12/time-magazines-2025-person-of-the-year-is-a-group/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Jensen Huang",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "AI architekti jsou podle Time magazínu Osobností roku 2025",
+      "description": "Architekti umělé inteligence byli jmenováni Osobností roku 2025 podle Time magazínu. Toto rozhodnutí zdůrazňuje dopad AI revoluce na technologie, byznys a lidstvo.",
+      "slug": "ai-architects-are-time-magazines-2025-person-of-th",
+      "publishedAt": "2025-12-12T06:44:02+00:00",
+      "date": "2025-12-12 06:44:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/3e8d15c94169a6e1_s.webp",
+      "url": "/tech-news/2025-12-12/ai-architects-are-time-magazines-2025-person-of-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Kryptoměnový magnát Do Kwon dostal 15 let vězení za podvod",
       "description": "Americký soud odsoudil kryptoměnového magnáta Do Kwona na 15 let vězení za podvod spojený s krachem jeho společnosti, který investory připravil o 40 miliard dolarů a otřásl globálními kryptotrhy. Kwon vyvinul dvě digitální měny, jejichž selhání mělo široké dopady.",
@@ -3764,26 +3866,6 @@
       "people": []
     },
     {
-      "title": "Výzkumníci vytvořili optotaktilní povrchy pro 3D displeje, které lze vidět i cítit",
-      "description": "Výzkumníci z University of California v Santa Barbaře představili technologii displejů, která zobrazuje dynamickou grafiku, kterou lze nejen vidět, ale i fyzicky cítit. Studie popisuje tenké povrchy s pixely, které se zvedají do hmatatelných hrbolků při osvětlení pulzy světla.",
-      "slug": "researchers-create-optotactile-surfaces-for-3d-dis",
-      "publishedAt": "2025-12-07T12:57:41+00:00",
-      "date": "2025-12-07 12:57:41",
-      "importance": 3,
-      "category": "3d displeje",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QJVRnFgCJEbjCKC7kRaLyR-1920-80.png",
-      "url": "/tech-news/2025-12-07/researchers-create-optotactile-surfaces-for-3d-dis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "UC Santa Barbara"
-      ],
-      "people": []
-    },
-    {
       "title": "Průvodce obráceného kentaura pro kritiku umělé inteligence",
       "description": "Cory Doctorow přednesl řeč na University of Washington v rámci série přednášek o neuroscience, umělé inteligenci a společnosti. Řeč vychází z rukopisu jeho nadcházející knihy a zaměřuje se na kritiku AI prostřednictvím science fiction perspektivy.",
       "slug": "the-reverse-centaurs-guide-to-criticizing-ai",
@@ -3835,44 +3917,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsungův 4nm proces dosáhl zlepšení výtěžnosti na 60-70 %, což mu údajně zajistilo objednávku za 100 milionů dolarů na Omni Processing Unit pro americkou firmu",
-      "description": "Problémy Samsungova foundry byznysu se mohou chýlit konci díky stabilizaci 4nm procesu s výtěžností 60-70 %. Tato zlepšení přinesla objednávku za více než 100 milionů dolarů od americké AI firmy na výrobu Omni Processing Unitů.",
-      "slug": "samsungs-4nm-process-has-witnessed-yield-improveme",
-      "publishedAt": "2025-12-07T12:00:06+00:00",
-      "date": "2025-12-07 12:00:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Samsung-chip-plant.jpg",
-      "url": "/tech-news/2025-12-07/samsungs-4nm-process-has-witnessed-yield-improveme/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf Peugeotu odhaluje tajnou zbraň proti čínským automobilkám: nová technologie",
-      "description": "Šéf Peugeotu Alain Favey plánuje konkurovat technologicky vyspělým čínským značkám revolučním řízením na nových modelech 208 a 2008, aby zvýšil prodeje v Evropě.",
-      "slug": "peugeot-boss-reveals-secret-weapon-to-beat-chinese",
-      "publishedAt": "2025-12-07T11:03:39+00:00",
-      "date": "2025-12-07 11:03:39",
-      "importance": 3,
-      "category": "automobilový průmysl",
-      "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1764956556/autoexpress/2025/12/Peugeot new tech 2025-3.jpg",
-      "url": "/tech-news/2025-12-07/peugeot-boss-reveals-secret-weapon-to-beat-chinese/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "AutoExpress"
       },
       "companies": [],
       "people": []
@@ -4012,28 +4056,6 @@
       "people": []
     },
     {
-      "title": "Zpráva Pixalate za Q3 2025 odhaluje 1 248 mobilních aplikací registrovaných v APAC na Apple App Store a Google Play porušujících COPPA, ovlivňujících 117 milionů dětských uživatelů v USA",
-      "description": "Podle nové studie Pixalate porušuje 1 248 aplikací registrovaných v oblasti APAC na Apple App Store a Google Play americký zákon COPPA tím, že sbírají a sdílejí osobní údaje dětí v reklamním toku. Tato porušení ovlivňují přibližně 117 milionů uživatelů dětských aplikací v USA.",
-      "slug": "pixalates-q3-2025-report-uncovers-1248-apac-regist",
-      "publishedAt": "2025-12-07T05:00:00+00:00",
-      "date": "2025-12-07 05:00:00",
-      "importance": 3,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0124c010-09d5-402d-839d-4ca1ac736a66",
-      "url": "/tech-news/2025-12-07/pixalates-q3-2025-report-uncovers-1248-apac-regist/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Pixalate",
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Licitační válka šéfa Warner Bros. Discovery zničila počáteční důvěru Ellisonových – ale neodpisujte je ještě",
       "description": "David Zaslav dokončil jednu z největších mediálních fúzí století, kdy prodal Warner Bros. Discovery za 72 miliard dolarů, ale jeho obchodní aktivity nekončí.",
       "slug": "warner-bros-discovery-ceos-bidding-war-destroyed-t",
@@ -4086,26 +4108,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Pat Gelsinger chce oživit Mooreovo právo s podporou americké vlády",
-      "description": "Startup xLight, který vede Pat Gelsinger jako výkonný předseda, uzavřel předběžnou dohodu na financování až 150 milionů dolarů od amerického ministerstva obchodu. Společnost cílí na výrobu prvních silikonových plátů do roku 2028 a spuštění komerčního systému v roce 2029.",
-      "slug": "pat-gelsinger-wants-to-save-moores-law-with-a-litt",
-      "publishedAt": "2025-12-07T00:21:18+00:00",
-      "date": "2025-12-07 00:21:18",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/54963243726_2bb5c81046_k.jpg?resize=1200,800",
-      "url": "/tech-news/2025-12-07/pat-gelsinger-wants-to-save-moores-law-with-a-litt/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": [
-        "Pat Gelsinger"
-      ]
     },
     {
       "title": "Aktualizace: Poradce Donalda Trumpa Alex Bruesewitz a podnikatel MAGA Michael Seifert plánují změnu v konzervativním sběru darů s důrazem na transparentnost a bezpečnost",
