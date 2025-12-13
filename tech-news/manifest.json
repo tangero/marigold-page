@@ -1,7 +1,188 @@
 {
-  "generated": "2025-12-13T08:42:01.757341+00:00",
+  "generated": "2025-12-13T12:50:08.168169+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "ChatGPT 5.2 je zde: Rychlejší pracovní postupy, přesnější odpovědi a vestavěný výstup obrázků",
+      "description": "OpenAI vydalo model GPT 5.2, který snižuje míru halucinací o 30 % a zpracovává až 256 000 tokenů vstupu. Novinky zahrnují nativní generování obrázků a vylepšené zpracování vizuálních dat, což rozšiřuje využití v designu, marketingu a analýze dat.",
+      "slug": "chatgpt-52-arrives-faster-workflows-clearer-answer",
+      "publishedAt": "2025-12-12T12:13:19+00:00",
+      "date": "2025-12-12 12:13:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpt-5-2-enterprise-time-savings_optimized.jpg",
+      "url": "/tech-news/2025-12-12/chatgpt-52-arrives-faster-workflows-clearer-answer/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Architekti umělé inteligence jsou podle TIME Osobností roku – proč tomu tak je",
+      "description": "Magazín TIME vyhlásil skupinu klíčových tvůrců AI za Osobnost roku 2025 za jejich vliv na svět. Mezi nimi jsou Sam Altman z OpenAI, Jensen Huang z Nvidia a představitelé Google, Meta a Anthropic.",
+      "slug": "the-architects-of-ai-are-times-person-of-the-year-",
+      "publishedAt": "2025-12-12T11:45:40+00:00",
+      "date": "2025-12-12 11:45:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GNwENBT83GiX9rF4ZDw6Qb-1920-80.jpg",
+      "url": "/tech-news/2025-12-12/the-architects-of-ai-are-times-person-of-the-year/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence pohání ekonomiku Trumpovy administrativy, americkí voliči však mají rostoucí obavy",
+      "description": "Prezident Donald Trump míří do volebního roku 2026 s odhodláním maximálně podporovat umělou inteligenci, aby zajistil technologickou dominanci USA. Američtí voliči však začínají projevovat pochybnosti ohledně dopadů této technologie.",
+      "slug": "ai-is-powering-trumps-economy-but-american-voterss",
+      "publishedAt": "2025-12-12T11:21:56+00:00",
+      "date": "2025-12-12 11:21:56",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/us-electricity-bills-are-outpacing-inflation-economists-se.jpg",
+      "url": "/tech-news/2025-12-12/ai-is-powering-trumps-economy-but-american-voterss/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump podepsal příkaz k překročení státních pravidel pro AI",
+      "description": "Prezident Trump ve čtvrtek podepsal výkonný příkaz, kterým odebírá státům velkou část pravomocí nad umělou inteligencí a dává generálnímu prokurátorovi pravomoc zpochybňovat státní zákony. Tento krok vyvolá právní a politický boj o regulaci rychle se rozvíjející technologie.",
+      "slug": "trump-signs-order-to-override-state-rules-on-ai",
+      "publishedAt": "2025-12-12T11:11:00+00:00",
+      "date": "2025-12-12 11:11:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1652127-12-20251212052257.jpeg",
+      "url": "/tech-news/2025-12-12/trump-signs-order-to-override-state-rules-on-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Analýza: Muskova mise na Mars zvyšuje rizika pro očekávané IPO SpaceX",
+      "description": "Investoři sledující potenciální velké IPO SpaceX se musí připravit na rizika spojená s Muskovou ambicí dosáhnout Marsu, zatímco firma roste díky satelitní síti Starlink. Analýza zdůrazňuje napětí mezi rizikovými projekty a stabilními zdroji příjmů.",
+      "slug": "analysis-musks-mars-mission-adds-risk-to-red-hot-s",
+      "publishedAt": "2025-12-12T11:09:21+00:00",
+      "date": "2025-12-12 11:09:21",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/90110b74c2bd99398a1abdf2f448e18d",
+      "url": "/tech-news/2025-12-12/analysis-musks-mars-mission-adds-risk-to-red-hot-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Muskova mise na Mars zvyšuje rizika pro plánované IPO SpaceX",
+      "description": "SpaceX chystá masivní IPO příští rok s valuací přes 1 bilion dolarů, ale Muskovo zaměření na Mars může ohrozit výnosy akcionářů. Investoři budou muset zvážit rizikové projekty jako Starship proti stabilnímu růstu Starlink.",
+      "slug": "elon-musks-mars-mission-adds-risk-to-red-hot-space",
+      "publishedAt": "2025-12-12T11:04:51+00:00",
+      "date": "2025-12-12 11:04:51",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32284,resizemode-75,msid-125932462/tech/technology/musks-mars-mission-adds-risk-to-red-hot-spacex-ipo.jpg",
+      "url": "/tech-news/2025-12-12/elon-musks-mars-mission-adds-risk-to-red-hot-space/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Profesní odbory Hollywoodu reagují na novou dohodu Disney s OpenAI",
+      "description": "WGA a SAG-AFTRA vydaly prohlášení po oznámení aliance Disney s OpenAI, která umožní použití více než 200 postav společnosti v nástrojích Sora a ChatGPT.",
+      "slug": "hollywoods-labor-unions-respond-to-disneys-dystopi",
+      "publishedAt": "2025-12-12T11:00:49+00:00",
+      "date": "2025-12-12 11:00:49",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/star-wars-phantom-menace-battle-droid-army-naboo-1200x675.jpg",
+      "url": "/tech-news/2025-12-12/hollywoods-labor-unions-respond-to-disneys-dystopi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pátkové odkazy: 12. prosince 2025",
+      "description": "V době rostoucí vládní kontroly je čas sáhnout k šifrování a decentralizovaným službám.",
+      "slug": "friday-links-december-12-2025",
+      "publishedAt": "2025-12-12T11:00:47+00:00",
+      "date": "2025-12-12 11:00:47",
+      "importance": 4,
+      "category": "šifrování",
+      "urlToImage": "https://images.unsplash.com/photo-1712002641088-9d76f9080889?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGFpfGVufDB8fHx8MTc2NTQ4Nzk2Nnww&ixlib=rb-4.1.0&q=80&w=2000",
+      "url": "/tech-news/2025-12-12/friday-links-december-12-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Werd.io"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bytes: Týden v recenzi - Odchody vedení Apple vyvolávají obavy o jeho budoucnost v umělé inteligenci",
+      "description": "V posledních týdnech Apple zasáhla vlna odchůdek významných manažerů v oblasti strategie umělé inteligence a designu uživatelského rozhraní, přičemž někteří zaměstnanci odcházejí k soutěžníkům jako OpenAI. Dále se objevují spekulace o sloučení Netflixu s Warner Bros. Discovery nebo nepřátelském převzetí ze strany Paramountu v hodnotě 108 miliard dolarů. McDonald's musel stáhnout reklamu na Vánoce generovanou umělou inteligencí kvůli kritice na sociálních sítích.",
+      "slug": "bytes-week-in-review-apples-leadership-departures-",
+      "publishedAt": "2025-12-12T11:00:00+00:00",
+      "date": "2025-12-12 11:00:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.apmcdn.org/828970235f37d589ea678c43eada74d08a44e59e/widescreen/3e0068-2023-02-gettyimages-1167240373-e1676573284246-2000.jpg",
+      "url": "/tech-news/2025-12-12/bytes-week-in-review-apples-leadership-departures/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Marketplace.org"
+      },
+      "companies": [
+        "Apple",
+        "Netflix"
+      ],
+      "people": []
+    },
     {
       "title": "Trump podepsal příkaz k blokování státních regulací umělé inteligence",
       "description": "Prezident Donald Trump podepsal exekutivní příkaz, který brání jednotlivým státům v USA zavádět vlastní pravidla pro umělou inteligenci, aby se zabránilo fragmentaci regulací v konkurenci s Čínou.",
@@ -3752,46 +3933,6 @@
       "people": []
     },
     {
-      "title": "Newsletter Security Affairs kolo 553 od Pierluigi Paganini – Mezinárodní edice",
-      "description": "Nové kolo týdenního newsletteru Security Affairs přináší souhrn klíčových bezpečnostních incidentů, včetně exploitů, datových úniků a varování od CISA. Obsahuje zprávy o útocích na firemní brány, masivních DDoS a státních aktérech.",
-      "slug": "security-affairs-newsletter-round-553-by-pierluigi",
-      "publishedAt": "2025-12-07T18:12:07+00:00",
-      "date": "2025-12-07 18:12:07",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
-      "url": "/tech-news/2025-12-07/security-affairs-newsletter-round-553-by-pierluigi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "companies": [],
-      "people": [
-        "Pierluigi Paganini"
-      ]
-    },
-    {
-      "title": "SpaceX s valuací 800 miliard dolarů a IPO v roce 2026 na financování AI datových center ve vesmíru",
-      "description": "SpaceX odkupuje akcie investorů a zaměstnanců za valuaci 800 miliard dolarů, což je dvojnásobek oproti 400 miliardám před pěti měsíci. Klíčové úspěchy spočívají v pokroku k plné znovupoužitelnosti Starshipu a rychlém růstu příjmů Starlinku.",
-      "slug": "spacex-800-valuation-and-2026-ipo-to-fund-ai-data-",
-      "publishedAt": "2025-12-07T17:33:16+00:00",
-      "date": "2025-12-07 17:33:16",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-07-at-9.31.49-AM.jpg",
-      "url": "/tech-news/2025-12-07/spacex-800-valuation-and-2026-ipo-to-fund-ai-data/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
       "title": "V éře umělé inteligence neexistuje omluva pro kvalifikační schůzky v prodeji",
       "description": "Jason Lemkin z SaaStr popisuje svou negativní zkušenost s 30minutovou kvalifikační schůzkou od potenciálního dodavatele a argumentuje, že umělá inteligence umožňuje automatizovanou předkvalifikaci bez ztráty času klientů. Tvrdí, že tradiční procesy v B2B prodeji brzy způsobí narušení mnoha firem.",
       "slug": "theres-no-excuse-for-sales-qualification-meetings-",
@@ -3848,24 +3989,6 @@
       "people": []
     },
     {
-      "title": "Tolik kryptoměn není ani skutečných – ale to se začíná měnit",
-      "description": "Kryptoměny dlouho připomínaly obrovské kasino s imaginárními žetony, ale nedávné velké průlomy znamenají, že se rychle stávají součástí reálné ekonomiky.",
-      "slug": "so-much-of-crypto-is-not-even-realbut-thats-starti",
-      "publishedAt": "2025-12-07T13:00:00+00:00",
-      "date": "2025-12-07 13:00:00",
-      "importance": 3,
-      "category": "kryptoměny",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1246498449.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-07/so-much-of-crypto-is-not-even-realbut-thats-starti/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Průvodce obráceného kentaura pro kritiku umělé inteligence",
       "description": "Cory Doctorow přednesl řeč na University of Washington v rámci série přednášek o neuroscience, umělé inteligenci a společnosti. Řeč vychází z rukopisu jeho nadcházející knihy a zaměřuje se na kritiku AI prostřednictvím science fiction perspektivy.",
       "slug": "the-reverse-centaurs-guide-to-criticizing-ai",
@@ -3884,64 +4007,6 @@
       "people": []
     },
     {
-      "title": "Fenomen Jeopardy – Chris Coyier",
-      "description": "Umělá inteligence vykazuje fenomen Jeopardy. Pokud používáte AI k generování kódu mimo vaši oblast expertizy, pravděpodobně vám to připadá v pořádku, zvláště pokud to hned funguje. Ale pokud jste s technologií intimně obeznámeni, odhalíte chyby.",
-      "slug": "the-jeopardy-phenomenon-chris-coyier",
-      "publishedAt": "2025-12-07T12:40:59+00:00",
-      "date": "2025-12-07 12:40:59",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvY2hyaXNjb3lpZXIubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8xMlwvaW1hZ2UucG5nIiwidHh0IjoiaWxsIHRha2UgXCJ1aCwgd3JvbmdcIiBmb3IgMTAwMCBhbGV4IiwidGVtcGxhdGUiOiJmdWxsc2NyZWVuIiwiZm9udCI6IiIsImJsb2dfaWQiOjc0MDc0MjQ4fQ.HQ--QctRQDIGKFajb5Aj2AgVkRc05oC612lmso_Xzy4MQ",
-      "url": "/tech-news/2025-12-07/the-jeopardy-phenomenon-chris-coyier/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Chriscoyier.net"
-      },
-      "companies": [],
-      "people": [
-        "Chris Coyier"
-      ]
-    },
-    {
-      "title": "Velikost trhu s tetrachlorkem křemíku dosáhne 3,47 miliardy USD do roku 2032 díky rostoucí poptávce v optických vláknech | SNS Insider",
-      "description": "Trh s tetrachlorkem křemíku roste díky silné poptávce z polovodičů, solárního sektoru a telekomunikací, poháněné technologickými pokroky, regulacemi a regionální expanzí.",
-      "slug": "silicon-tetrachloride-market-size-to-reach-usd-347",
-      "publishedAt": "2025-12-07T12:30:00+00:00",
-      "date": "2025-12-07 12:30:00",
-      "importance": 3,
-      "category": "optická vlákna",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-07/silicon-tetrachloride-market-size-to-reach-usd-347/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Generální ředitelka neziskovky podporované McKinsey sdílí 4 způsoby, jak lídři mohou efektivně zavádět AI",
-      "description": "Šéfka organizace Generation Mona Mourshed upozorňuje, že mnoho firem naráží při zavádění AI na problémy. Průzkum jejich neziskovky ukazuje, že většina zaměstnanců AI používá týdně, ale polovina se učí sama.",
-      "slug": "the-ceo-of-a-mckinsey-backed-employment-nonprofit-",
-      "publishedAt": "2025-12-07T10:52:08+00:00",
-      "date": "2025-12-07 10:52:08",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/68dfe5165dbc4fd10daa207c?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-07/the-ceo-of-a-mckinsey-backed-employment-nonprofit/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": [
-        "Mona Mourshed"
-      ]
-    },
-    {
       "title": "Proč AI společnosti nabízejí předplatné zdarma v Indii",
       "description": "AI společnosti vidí Indii jako ideální zdroj dat pro trénink svých modelů. Přitom chybí transparentnost ohledně těchto datových sad, což vyvolává obavy a právní šetření jejich praktik.",
       "slug": "why-ai-companies-are-giving-subscriptions-for-free",
@@ -3955,24 +4020,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The Indian Express"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Show HN: Tikpal – Váš hlasový partner s AI – Soustředění, tok, tvořba",
-      "description": "Tikpal je hlasový nástroj s umělou inteligencí pro podporu produktivity, založený na principu, že lidská kreativita zůstává jádrem a AI slouží jako akcelerátor. Cílem je snížit závislost na obrazovkách a fragmentaci pozornosti u uživatelů.",
-      "slug": "show-hn-tikpal-your-ai-voice-partner-focus-flow-fo",
-      "publishedAt": "2025-12-07T10:27:00+00:00",
-      "date": "2025-12-07 10:27:00",
-      "importance": 3,
-      "category": "hlasový asistent",
-      "urlToImage": "https://tikpal.ai/og.png",
-      "url": "/tech-news/2025-12-07/show-hn-tikpal-your-ai-voice-partner-focus-flow-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tikpal.ai"
       },
       "companies": [],
       "people": []
@@ -3994,28 +4041,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Ukázka: Umělá inteligence Paula Grahama",
-      "description": "Vytvořena umělá inteligence na bázi Paula Grahama, poháněná Nia API, která indexuje celé sbírky textů pro přesné odpovědi. AI odpovídá na otázky o startupech, psaní, technologiích a životě s oporou v přes 120 esejích Paula Grahama.",
-      "slug": "show-hn-ai-paul-graham",
-      "publishedAt": "2025-12-07T09:11:49+00:00",
-      "date": "2025-12-07 09:11:49",
-      "importance": 3,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/show-hn-ai-paul-graham/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Paulgraham-nia.com"
-      },
-      "companies": [
-        "Nia"
-      ],
-      "people": [
-        "Paul Graham"
-      ]
     },
     {
       "title": "Hlavní americká diplomatka Allison Hooker navštíví Dillí a Bengaluru od 7. do 11. prosince",
@@ -4087,24 +4112,6 @@
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Úzkosti z celotělových vyšetření magnetickou rezonancí (nepokrytých pojišťovnou)",
-      "description": "Sloupkař Washington Post Dana Milbank, který se označuje za kreativního hypochondra, si zaplatil drahé celotělové MRI vyšetření k odhalení abnormalit malých až 2 milimetry. Článek rozebírá výhody a rizika technologie difúzně váženého zobrazování v kombinaci s rozpoznáváním vzorů pomocí umělé inteligence.",
-      "slug": "the-anxieties-of-full-body-mri-scans-not-covered-b",
-      "publishedAt": "2025-12-07T02:34:00+00:00",
-      "date": "2025-12-07 02:34:00",
-      "importance": 3,
-      "category": "magnetická rezonance",
-      "urlToImage": "https://a.fsdn.com/sd/topics/medicine_64.png?refresh=now",
-      "url": "/tech-news/2025-12-07/the-anxieties-of-full-body-mri-scans-not-covered-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
       },
       "companies": [],
       "people": []
