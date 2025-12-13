@@ -1,7 +1,208 @@
 {
-  "generated": "2025-12-13T01:18:33.149335+00:00",
+  "generated": "2025-12-13T04:44:38.921142+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Kryptoměnový magnát Do Kwon dostal 15 let vězení za podvod",
+      "description": "Americký soud odsoudil kryptoměnového magnáta Do Kwona na 15 let vězení za podvod spojený s krachem jeho společnosti, který investory připravil o 40 miliard dolarů a otřásl globálními kryptotrhy. Kwon vyvinul dvě digitální měny, jejichž selhání mělo široké dopady.",
+      "slug": "crypto-mogul-do-kwon-sentenced-to-15-years-for-fra",
+      "publishedAt": "2025-12-12T04:19:05+00:00",
+      "date": "2025-12-12 04:19:05",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+      "url": "/tech-news/2025-12-12/crypto-mogul-do-kwon-sentenced-to-15-years-for-fra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": [
+        "Do Kwon"
+      ]
+    },
+    {
+      "title": "Disney investuje 1 miliardu dolarů do OpenAI v dohodě o přenesení postav jako Mickey Mouse do nástroje Sora pro generování AI videí",
+      "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá licenční dohodu pro použití svých postav v nástroji Sora na generování videí. Zároveň vyzývá Google, aby přestal využívat chráněné postavy k tréninku svých AI systémů.",
+      "slug": "disney-invests-1-billion-in-openai-in-deal-to-brin",
+      "publishedAt": "2025-12-12T03:12:13+00:00",
+      "date": "2025-12-12 03:12:13",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/y8xa3g/article70387194.ece/alternates/LANDSCAPE_1200/3013166216_cff8da8f2a_o.jpg",
+      "url": "/tech-news/2025-12-12/disney-invests-1-billion-in-openai-in-deal-to-brin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump podepsal příkaz k omezení státní regulace umělé inteligence",
+      "description": "Prezident Donald Trump podepsal výkonný příkaz, který má omezit regulaci AI na úrovni amerických států prostřednictvím soudních sporů a škrtů financí. Tento krok představuje výhru pro lídry technologického průmyslu, kteří prosazují federální přednost před lokálními pravidly.",
+      "slug": "trump-signs-order-seeking-to-limit-state-level-ai-",
+      "publishedAt": "2025-12-12T02:56:14+00:00",
+      "date": "2025-12-12 02:56:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fggibmm52%2FTRUMP-4.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-12/trump-signs-order-seeking-to-limit-state-level-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump omezuje regulace umělé inteligence na úrovni států výkonným příkazem",
+      "description": "Prezident Donald Trump podepsal výkonný příkaz, který omezuje pravomoci amerických států v oblasti regulace umělé inteligence a prosazuje jednotný federální rámec. Cílem je umožnit americkým firmám volně inovovat a překonat Čínu v závodě o nadvládu v AI, přičemž se řeší existující státní zákony.",
+      "slug": "trump-pushes-back-against-states-regulating-ai-wit",
+      "publishedAt": "2025-12-12T02:49:55+00:00",
+      "date": "2025-12-12 02:49:55",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/29496578964_371684d588_c.jpg",
+      "url": "/tech-news/2025-12-12/trump-pushes-back-against-states-regulating-ai-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trumpův nový příkaz k umělé inteligenci připravuje federální boj s americkými státy o regulaci průmyslu",
+      "description": "Bílý dům nařídil ministerstvu spravedlnosti napadnout státní zákony o umělé inteligenci a konkrétně zdůraznil coloradský zákon proti diskriminaci algoritmů.",
+      "slug": "trumps-new-ai-order-sets-up-federal-fight-with-us-",
+      "publishedAt": "2025-12-12T02:49:05+00:00",
+      "date": "2025-12-12 02:49:05",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png",
+      "url": "/tech-news/2025-12-12/trumps-new-ai-order-sets-up-federal-fight-with-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump nařizuje vytvoření pracovní skupiny pro soudní spory proti státním zákonům o AI",
+      "description": "Prezident Donald Trump podepsal výkonný příkaz volající po jednotném celostátním regulačním rámci pro umělou inteligenci, který omezí pravomoci států k vlastní regulaci. Hlavním prvkem je nová pracovní skupina ministerstva spravedlnosti zaměřená na soudní výzvy proti státním předpisům.",
+      "slug": "trump-orders-creation-of-litigation-task-force-to-",
+      "publishedAt": "2025-12-12T02:32:26+00:00",
+      "date": "2025-12-12 02:32:26",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-12/trump-orders-creation-of-litigation-task-force-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump podepsal výkonný příkaz k blokování „nadměrných“ státních regulací AI",
+      "description": "Prezident Trump podepsal výkonný příkaz, který omezuje státy v USA před tvorbou vlastních regulací umělé inteligence, aby se zabránilo fragmentaci pravidel v konkurenci s Čínou.",
+      "slug": "trump-signs-executive-order-to-block-excessive-sta",
+      "publishedAt": "2025-12-12T02:11:57+00:00",
+      "date": "2025-12-12 02:11:57",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/12/4e595979-5405-4edd-a679-e4eaf4aef94f/thumbnail/1200x630/04e56cd070e0d3bc860da1c3c34e766c/ap25345851926108.jpg",
+      "url": "/tech-news/2025-12-12/trump-signs-executive-order-to-block-excessive-sta/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Rivian odhaluje nový AI čip, střešní lidar dorazí do R2 EV v roce 2026",
+      "description": "Rivian popisuje plány na zavádění pokročilejších AI funkcí a hands-free autonomního řízení pro majitele současných i budoucích modelů R1 a R2 elektrických vozidel.",
+      "slug": "rivian-reveals-new-ai-chip-rooftop-lidar-coming-to",
+      "publishedAt": "2025-12-12T01:30:00+00:00",
+      "date": "2025-12-12 01:30:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2132ae20ae3edff566eafaa5605a221b9378e1d5/hub/2025/12/12/106fd4aa-0a39-46bb-be91-1018114714fd/r1-lidar-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-12/rivian-reveals-new-ai-chip-rooftop-lidar-coming-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Rivian"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI vydává GPT-5.2 v rámci rozšířených velkých kontraktů",
+      "description": "OpenAI představilo model GPT-5.2 s vylepšeními pro vědecké, matematické a programovací úkoly, zatímco zaměstnavatelé zvažují nasazení AI v technických rolích.",
+      "slug": "openai-launches-gpt-52-amid-expanded-major-contrac",
+      "publishedAt": "2025-12-12T01:20:57+00:00",
+      "date": "2025-12-12 01:20:57",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png",
+      "url": "/tech-news/2025-12-12/openai-launches-gpt-52-amid-expanded-major-contrac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump podepsal výkonný příkaz k blokování státních regulací umělé inteligence",
+      "description": "Prezident Donald Trump podepsal výkonný příkaz, který brání jednotlivým státům USA v tvorbě vlastních pravidel pro umělou inteligenci. Cílem je zabránit fragmentaci regulací, která by podle něj ohrozila konkurenceschopnost USA vůči Číně.",
+      "slug": "trump-signs-executive-order-to-block-state-ai-regu",
+      "publishedAt": "2025-12-12T01:08:35+00:00",
+      "date": "2025-12-12 01:08:35",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VTIKTKUYYBE7DBS5ZISXZXFAZY.jpg?_a=DATAg1eAZAA0",
+      "url": "/tech-news/2025-12-12/trump-signs-executive-order-to-block-state-ai-regu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WJXT News4JAX"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "Google žádá britské experty o využití svého výkonného kvantového čipu",
       "description": "Britští výzkumníci získají přístup k kvantovému procesoru Willow od Google a budou vyvíjet pro něj aplikace. Spolupráce s britskou národní laboratoří pro kvantové výpočty umožní otevřenou soutěž na návrhy experimentů.",
@@ -161,26 +362,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Trump podepsal příkaz k omezení regulací umělé inteligence na úrovni států",
-      "description": "Prezident Donald Trump podepsal příkaz zaměřený na bránění regulacím umělé inteligence na úrovni jednotlivých států prostřednictvím soudních sporů a škrtů financí, což je politická výhra pro lídry technologického průmyslu.",
-      "slug": "trump-signs-order-seeking-to-limit-state-level-ai-",
-      "publishedAt": "2025-12-11T23:51:47+00:00",
-      "date": "2025-12-11 23:51:47",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-11/trump-signs-order-seeking-to-limit-state-level-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "OpenAI vydává GPT-5.2 s pokročilými matematickými schopnostmi",
@@ -393,24 +574,6 @@
       "people": [
         "Trump"
       ]
-    },
-    {
-      "title": "Časopis Time jmenuje 'Architekty AI' osobou roku 2025",
-      "description": "Umělá inteligence byla podle predikčních trhů hlavním kandidátem na první místo. Magazín vybral klíčové osobnosti, které stály u zrodu současných pokroků v této technologii.",
-      "slug": "time-magazine-names-architects-of-ai-as-its-person",
-      "publishedAt": "2025-12-11T18:46:08+00:00",
-      "date": "2025-12-11 18:46:08",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Time_Person_of_the_Year_81322-1.jpg?w=1024&h=688",
-      "url": "/tech-news/2025-12-11/time-magazine-names-architects-of-ai-as-its-person/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Čínská mateřská loď pro roje dronů „Jiutian“ uskutečnila první let",
@@ -3527,42 +3690,6 @@
       "people": []
     },
     {
-      "title": "HHS plánuje rozšířit využívání umělé inteligence v zdravotnictví",
-      "description": "Americké ministerstvo zdravotnictví a lidských služeb (HHS) zamýšlí výrazně zvýšit nasazení AI v rámci svých operací. Článek však upozorňuje, že technologie nenahradí základní sociální reformy pro zlepšení života pacientů.",
-      "slug": "monday-morning-update-12825",
-      "publishedAt": "2025-12-07T16:31:15+00:00",
-      "date": "2025-12-07 16:31:15",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/monday-morning-update-12825/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Histalk2.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Miliony uživatelů byly nechtěně sledovány v sedmiletém malware schématu v Chrome a Edge – rozšíření se změnila ve spyware",
-      "description": "Rozšíření prohlížeče tiše infikovalo miliony uživatelů Chrome a Edge a proměnilo důvěryhodné nástroje pro produktivitu ve spyware, který v pozadí sledoval prohlížecí aktivitu. Celkem bylo postiženo přes 4,3 milionu uživatelů.",
-      "slug": "millions-of-users-were-unknowingly-tracked-in-a-7y",
-      "publishedAt": "2025-12-07T15:22:50+00:00",
-      "date": "2025-12-07 15:22:50",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TBxEqXPN62mupuczxCyJ7R-1920-80.png",
-      "url": "/tech-news/2025-12-07/millions-of-users-were-unknowingly-tracked-in-a-7y/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "V éře umělé inteligence neexistuje omluva pro kvalifikační schůzky v prodeji",
       "description": "Jason Lemkin z SaaStr popisuje svou negativní zkušenost s 30minutovou kvalifikační schůzkou od potenciálního dodavatele a argumentuje, že umělá inteligence umožňuje automatizovanou předkvalifikaci bez ztráty času klientů. Tvrdí, že tradiční procesy v B2B prodeji brzy způsobí narušení mnoha firem.",
       "slug": "theres-no-excuse-for-sales-qualification-meetings-",
@@ -3578,26 +3705,6 @@
         "name": "Saastr.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Novac Technology Solutions očekává obrat 380 crore rupií pro fiskální rok 2026",
-      "description": "Kromě e-learningu tvoří 65 procent příjmů firmy řešení Ziva pro plánování podnikových zdrojů (ERP), zatímco 30 procent pochází z platformy Statim pro pojišťovny. Společnost z Chennai, dcera skupiny Shriram, hlásí růst díky expanzi v digitální transformaci a cloudových službách.",
-      "slug": "novac-technology-solutions-projects-380-crore-reve",
-      "publishedAt": "2025-12-07T14:54:33+00:00",
-      "date": "2025-12-07 14:54:33",
-      "importance": 3,
-      "category": "erp systémy",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ryv776/article70369263.ece/alternates/LANDSCAPE_1200/Mr%20Nanda%20Kishore%20Director%20and%20CEO%20NOVAC.PNG",
-      "url": "/tech-news/2025-12-07/novac-technology-solutions-projects-380-crore-reve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Novac Technology Solutions"
-      ],
       "people": []
     },
     {
@@ -3827,24 +3934,6 @@
       "people": []
     },
     {
-      "title": "Nedávno se umělá inteligence přirovnávala k jaderné technologii. Proč se tedy spokojit s vlastní regulací?",
-      "description": "Vlády kvůli ekonomickým ziskům opustily plány na bezpečnostní opatření a nechávají firmy s umělou inteligencí se regulovat samy. Svět se k rizikům AI vrátí až po katastrofě?",
-      "slug": "not-long-ago-ai-was-being-compared-to-nuclear-tech",
-      "publishedAt": "2025-12-07T10:07:02+00:00",
-      "date": "2025-12-07 10:07:02",
-      "importance": 3,
-      "category": "regulace ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/07/1600x900/logo/SINGAPORE-NEF-82_1765091783865_1765091799178.jpg",
-      "url": "/tech-news/2025-12-07/not-long-ago-ai-was-being-compared-to-nuclear-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč je kyberbezpečnost nyní strategickým páčím pro technologické firmy v době nejistoty",
       "description": "Kyberbezpečnost není jen ochrana – stala se katalyzátorem růstu a hnacím motorem valuace pro technologické firmy.",
       "slug": "why-cybersecurity-is-now-a-strategic-lever-for-tec",
@@ -3918,42 +4007,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Perfplanet.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nový model umělé inteligence předpovídá riziko rakoviny prsu na pět let dopředu",
-      "description": "Nový model umělé inteligence analyzuje mamografy a předpovídá riziko vzniku rakoviny prsu až na pět let dopředu. Tento přístup by mohl zlepšit efektivitu screeningových programů.",
-      "slug": "new-ai-model-can-predict-5-year-breast-cancer-risk",
-      "publishedAt": "2025-12-07T06:45:00+00:00",
-      "date": "2025-12-07 06:45:00",
-      "importance": 3,
-      "category": "umělá inteligence",
-      "urlToImage": "https://static.dw.com/image/68610143_6.jpg",
-      "url": "/tech-news/2025-12-07/new-ai-model-can-predict-5-year-breast-cancer-risk/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bez potu: testy potu změní monitorování zdraví",
-      "description": "Nositelné senzory potu by brzy mohly detekovat stres, glukózu a další biomarkery v reálném čase. Výzkumníci vyvíjejí náplasti pro neinvazivní sledování zdravotních markerů.",
-      "slug": "no-sweat-perspiration-tests-to-revolutionalise-hea",
-      "publishedAt": "2025-12-07T06:26:51+00:00",
-      "date": "2025-12-07 06:26:51",
-      "importance": 3,
-      "category": "nositelná technologi",
-      "urlToImage": "https://images.perthnow.com.au/publication/C-20917508/79be7bfde5bb67b60c32e2ed59338cb7d33ff8bf-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "url": "/tech-news/2025-12-07/no-sweat-perspiration-tests-to-revolutionalise-hea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PerthNow"
       },
       "companies": [],
       "people": []
@@ -4072,42 +4125,6 @@
       "companies": [
         "PSQ Impact"
       ],
-      "people": []
-    },
-    {
-      "title": "Vícekanálová, ultraširokopásmová Rydbergová elektrometrie s optickým frekvenčním hřebenem",
-      "description": "Rydbergovy atomy slibují širokopásmové přijímače elektromagnetického záření, ale dosud byly omezeny na úzké frekvenční pásmo. Výzkumníci překonali tuto překážku použitím optického frekvenčního hřebenu, který umožňuje rychlé přepínání mezi sedmi Rydbergovými stavy a detekci signálů od 1 GHz do 40 GHz.",
-      "slug": "multichannel-ultra-wideband-rydberg-electrometry-w",
-      "publishedAt": "2025-12-07T00:00:00+00:00",
-      "date": "2025-12-07 00:00:00",
-      "importance": 3,
-      "category": "kvantové senzory",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/multichannel-ultra-wideband-rydberg-electrometry-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Janus hydrogel bioelektronické rozhraní indukované molekulární konkurencí pro elektroceutickou modulaci",
-      "description": "Vědci vyvinuli Janus hydrogel s duálními strukturálními a slohovými gradienty v jednom výrobním kroku pomocí mechanismu molekulární konkurence. Tento materiál řeší problémy se slabými spoji a umožňuje efektivní obousměrnou bioelektrickou transdukci pro léčbu zranění břišní stěny a sběr fyziologických signálů.",
-      "slug": "molecular-competition-induced-janus-hydrogel-bioel",
-      "publishedAt": "2025-12-07T00:00:00+00:00",
-      "date": "2025-12-07 00:00:00",
-      "importance": 3,
-      "category": "bioelektronika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-07/molecular-competition-induced-janus-hydrogel-bioel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
       "people": []
     }
   ]
