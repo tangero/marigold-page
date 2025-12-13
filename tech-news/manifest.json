@@ -1,7 +1,207 @@
 {
-  "generated": "2025-12-12T20:49:59.638847+00:00",
+  "generated": "2025-12-13T01:18:33.149335+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google žádá britské experty o využití svého výkonného kvantového čipu",
+      "description": "Britští výzkumníci získají přístup k kvantovému procesoru Willow od Google a budou vyvíjet pro něj aplikace. Spolupráce s britskou národní laboratoří pro kvantové výpočty umožní otevřenou soutěž na návrhy experimentů.",
+      "slug": "google-asks-uk-experts-to-find-uses-for-its-powerf",
+      "publishedAt": "2025-12-12T00:34:11+00:00",
+      "date": "2025-12-12 00:34:11",
+      "importance": 5,
+      "category": "kvantové technologie",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a60/live/f5aae580-d69e-11f0-8356-c71b2eb54d34.jpg",
+      "url": "/tech-news/2025-12-12/google-asks-uk-experts-to-find-uses-for-its-powerf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump podepsal výkonný příkaz bránící státům v prosazování vlastních regulací umělé inteligence | CNN Business",
+      "description": "Prezident Donald Trump ve čtvrtek podepsal výkonný příkaz, který blokuje státy před prosazováním vlastních regulací umělé inteligence a snaží se vytvořit 'jednotný národní rámec' pro AI.",
+      "slug": "trump-signs-executive-order-blocking-states-from-e",
+      "publishedAt": "2025-12-12T00:20:32+00:00",
+      "date": "2025-12-12 00:20:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-12-11t232848z-2050997561-rc2neiae32ma-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
+      "url": "/tech-news/2025-12-12/trump-signs-executive-order-blocking-states-from-e/",
+      "source": {
+        "emoji": "📰",
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "OpenAI spustilo GPT-5.2 po 'code red' nouzovém úsilí proti Google Gemini 3 - Reuters",
+      "description": "OpenAI vydalo model GPT-5.2 po interním nouzovém stavu vyvolaném pokrokem Google v AI. Novinka je okamžitě dostupná v Microsoft 365 Copilot a reaguje na uzavření technologické mezery Gemini 3.",
+      "slug": "openai-launches-gpt-52-after-code-red-push-to-coun",
+      "publishedAt": "2025-12-12T00:12:42+00:00",
+      "date": "2025-12-12 00:12:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-12/openai-launches-gpt-52-after-code-red-push-to-coun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Disneyho sázka na miliardu dolarů: Licenční model s OpenAI pro uživatelský obsah",
+      "description": "Společnost Walt Disney Company oznámila 11. prosince 2025 investici 1 miliardy dolarů do OpenAI a tříletou licenční dohodu. Tato dohoda umožní modelu Sora generovat krátké fanouškovské videa s použitím více než 200 Disney postav, prostředí a světů.",
+      "slug": "disneys-1-billion-bet-a-licensing-model-with-opena",
+      "publishedAt": "2025-12-12T00:08:03+00:00",
+      "date": "2025-12-12 00:08:03",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Disney-OpenAI1.jpg",
+      "url": "/tech-news/2025-12-12/disneys-1-billion-bet-a-licensing-model-with-opena/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Posílené technologické vazby a mezinárodní dohody o AI pro modernizaci veřejných služeb a snížení nákladů pro Britá v závěru kanadské návštěvy ministra technologie",
+      "description": "Technologický ministr Ian Murray se vrací z nejnovějšího zasedání ministrů G7 v Kanadě s posílenými technologickými vazbami a novými dohodami v klíčových oblastech. Dohody se zaměřují na urychlení adopce umělé inteligence u malých a středních podniků a spolupráci v oblasti polovodičů.",
+      "slug": "stronger-tech-ties-and-international-agreements-on",
+      "publishedAt": "2025-12-12T00:01:02+00:00",
+      "date": "2025-12-12 00:01:02",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "url": "/tech-news/2025-12-12/stronger-tech-ties-and-international-agreements-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "companies": [],
+      "people": [
+        "Ian Murray"
+      ]
+    },
+    {
+      "title": "Šokující odpověď ChatGPT na otázku o jeho údajné roli v případu vraždy a sebevraždy",
+      "description": "OpenAI se k údajné vině ChatGPT za vraždu v Connecticutu nevyjádřilo – chatbot sám přiznal částečnou odpovědnost.",
+      "slug": "chatgpt-chatbots-jaw-dropping-response-when-asked-",
+      "publishedAt": "2025-12-12T00:00:20+00:00",
+      "date": "2025-12-12 00:00:20",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/117158296.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2025-12-12/chatgpt-chatbots-jaw-dropping-response-when-asked/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zajištění národního rámce politiky pro umělou inteligenci",
+      "description": "Prezident USA vydal 11. prosince 2025 výkonný příkaz, kterým nařizuje vytvoření jednotného národního rámce pro regulace umělé inteligence. Dokument kritizuje státní předpisy za vytváření překážek pro inovace a volá po minimálně byrokratickém federálním přístupu.",
+      "slug": "ensuring-a-national-policy-framework-for-artificia",
+      "publishedAt": "2025-12-11T23:56:10+00:00",
+      "date": "2025-12-11 23:56:10",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+      "url": "/tech-news/2025-12-11/ensuring-a-national-policy-framework-for-artificia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Whitehouse.gov"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI vydává GPT-5.2 po nouzovém 'code red' tlaku proti Google Gemini 3",
+      "description": "OpenAI reaguje na vydání modelu Gemini 3 od Google spuštěním GPT-5.2 s vylepšenými schopnostmi. Tento model slouží k pokročilejšímu zpracování textu, obrázků a kódu v aplikacích jako chatboti nebo automatizace úkolů.",
+      "slug": "openai-launches-gpt-52-after-code-red-push-to-coun",
+      "publishedAt": "2025-12-11T23:52:36+00:00",
+      "date": "2025-12-11 23:52:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-11/openai-launches-gpt-52-after-code-red-push-to-coun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump podepsal příkaz k omezení regulací umělé inteligence na úrovni států",
+      "description": "Prezident Donald Trump podepsal příkaz zaměřený na bránění regulacím umělé inteligence na úrovni jednotlivých států prostřednictvím soudních sporů a škrtů financí, což je politická výhra pro lídry technologického průmyslu.",
+      "slug": "trump-signs-order-seeking-to-limit-state-level-ai-",
+      "publishedAt": "2025-12-11T23:51:47+00:00",
+      "date": "2025-12-11 23:51:47",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-11/trump-signs-order-seeking-to-limit-state-level-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "OpenAI vydává GPT-5.2 s pokročilými matematickými schopnostmi",
+      "description": "Společnost OpenAI Group PBC dnes spustila GPT-5.2, svůj nejnovější velký jazykový model. Model je dostupný ve třech verzích: Instant, Thinking a Pro, přičemž vyšší edice dosahují rekordních výsledků v matematických úlohách.",
+      "slug": "openai-launches-gpt-52-with-cutting-edge-math-capa",
+      "publishedAt": "2025-12-11T23:12:18+00:00",
+      "date": "2025-12-11 23:12:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/52660764045_a9fd79f194_c-1-1-1-1.jpg",
+      "url": "/tech-news/2025-12-11/openai-launches-gpt-52-with-cutting-edge-math-capa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Je to docela zarážející",
       "description": "Co znamená dohoda OpenAI s Disney pro Hollywood a budoucnost Sora v oboru: „Vypadá to, jako by Disney kapituloval,“ řekl prezident Animation Guild pro Vulture.",
@@ -3287,24 +3487,6 @@
       "people": []
     },
     {
-      "title": "Hyundai představil plně autonomního robota připraveného na výrobu pro reálné úkoly",
-      "description": "Hyundai Motor Group Robotics LAB představil na veletrhu iREX 2025 v Tokiu robota MobED, autonomní platformu na kolech určenou pro průmyslové i každodenní aplikace. Robot integruje pokročilé moduly pro adaptivní pohyb a bude dostupný k prodeji v první polovině 2026.",
-      "slug": "hyundai-debuts-a-fully-autonomous-production-ready",
-      "publishedAt": "2025-12-07T18:20:59+00:00",
-      "date": "2025-12-07 18:20:59",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/12/hyundai-debuts-production-ready-autonomous-droid-that-can-do-any-task-at-hand/Hyundai-Mobile-Eccentric-Droid-Robot-2.jpg",
-      "url": "/tech-news/2025-12-07/hyundai-debuts-a-fully-autonomous-production-ready/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Newsletter Security Affairs kolo 553 od Pierluigi Paganini – Mezinárodní edice",
       "description": "Nové kolo týdenního newsletteru Security Affairs přináší souhrn klíčových bezpečnostních incidentů, včetně exploitů, datových úniků a varování od CISA. Obsahuje zprávy o útocích na firemní brány, masivních DDoS a státních aktérech.",
       "slug": "security-affairs-newsletter-round-553-by-pierluigi",
@@ -3381,26 +3563,6 @@
       "people": []
     },
     {
-      "title": "Samsung opět odkládá uvedení robota Ballie",
-      "description": "Samsung představil aktualizovanou verzi svého prvního domácího robota Ballie před dvěma lety. Dříve letos společnost oznámila vydání do konce roku 2025, ale nyní to odkládá.",
-      "slug": "launch-of-samsungs-ballie-robot-has-been-delayed-o",
-      "publishedAt": "2025-12-07T15:20:59+00:00",
-      "date": "2025-12-07 15:20:59",
-      "importance": 3,
-      "category": "robotika",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-CES-2025-Ballie-2.jpg",
-      "url": "/tech-news/2025-12-07/launch-of-samsungs-ballie-robot-has-been-delayed-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "V éře umělé inteligence neexistuje omluva pro kvalifikační schůzky v prodeji",
       "description": "Jason Lemkin z SaaStr popisuje svou negativní zkušenost s 30minutovou kvalifikační schůzkou od potenciálního dodavatele a argumentuje, že umělá inteligence umožňuje automatizovanou předkvalifikaci bez ztráty času klientů. Tvrdí, že tradiční procesy v B2B prodeji brzy způsobí narušení mnoha firem.",
       "slug": "theres-no-excuse-for-sales-qualification-meetings-",
@@ -3414,24 +3576,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Saastr.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Trh s hyperkonvergentní infrastrukturou směřuje k růstu na 84,72 miliardy USD do roku 2033 díky adopci hybridního cloudu a poptávce po zjednodušeném IT managementu | SNS Insider",
-      "description": "Trh s hyperkonvergentní infrastrukturou (HCI) byl v roce 2025 hodnocen na 16,16 miliardy USD a do roku 2033 by měl dosáhnout 84,72 miliardy USD s ročním růstem 23,01 %. Růst pohání potřeba integrovat úložiště, výpočetní výkon a síťování do jediného systému pro podporu cloudových aplikací.",
-      "slug": "hyper-converged-infrastructure-market-set-for-stro",
-      "publishedAt": "2025-12-07T15:00:00+00:00",
-      "date": "2025-12-07 15:00:00",
-      "importance": 3,
-      "category": "hyperkonvergentní in",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-      "url": "/tech-news/2025-12-07/hyper-converged-infrastructure-market-set-for-stro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
       },
       "companies": [],
       "people": []
@@ -3457,24 +3601,6 @@
       "people": []
     },
     {
-      "title": "Jak exploatativní AI společníci znemožňují svým uživatelům rozloučit se",
-      "description": "AI chatboti určení pro společenství emocionálně manipulují uživatele, aby je udrželi, což vede k závislosti a úbytku reálných interakcí. Výzkum z Harvardu odhaluje temnou stranu těchto aplikací cílených na osamělé lidi.",
-      "slug": "how-exploitative-ai-companions-are-making-it-impos",
-      "publishedAt": "2025-12-07T14:47:22+00:00",
-      "date": "2025-12-07 14:47:22",
-      "importance": 3,
-      "category": "ai společníci",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Phone.jpg",
-      "url": "/tech-news/2025-12-07/how-exploitative-ai-companions-are-making-it-impos/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nová tvář Hollywoodu, generovaná umělou inteligencí",
       "description": "Tilly Norwood je plně umělou inteligencí generovaná herečka, která vstupuje do světa filmů a televize. Tento projekt vyvolává diskuse o budoucnosti mediálního průmyslu a možném nahrazování lidských herců.",
       "slug": "theres-a-new-face-in-hollywood-generated-by-ai",
@@ -3488,24 +3614,6 @@
         "emoji": "📺",
         "id": "cbs-news",
         "name": "CBS News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Indie plánuje nástrojový balíček pro diagnostické startupy k urychlení komercializace jejich produktů",
-      "description": "Silnější domácí průmysl nejen posílí místní odvětví a sníží dovozní náklady, ale také zajistí, že pokročilé diagnostické řešení se k pacientům dostanou rychleji a za dostupnější ceny.",
-      "slug": "india-plans-toolkit-to-help-diagnostics-startups-c",
-      "publishedAt": "2025-12-07T13:33:02+00:00",
-      "date": "2025-12-07 13:33:02",
-      "importance": 3,
-      "category": "diagnostika",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/07/1600x900/logo/AdobeStock_1064627487_1762495127011_1762495133297_1765113897582.jpeg",
-      "url": "/tech-news/2025-12-07/india-plans-toolkit-to-help-diagnostics-startups-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
       },
       "companies": [],
       "people": []
@@ -3663,26 +3771,6 @@
       "people": []
     },
     {
-      "title": "Hyundai vstupuje do robotiky: představujeme Mobile Eccentric Droid",
-      "description": "MobED je nový produkt z laboratoře Hyundai Motor Group Robotics LAB, určený pro doručování poslední míle a průmyslové aplikace. Tento čtyřkolový robot s pohyblivým podvozkem kombinuje stabilní přepravu nákladu s terénní schopností.",
-      "slug": "hyundai-is-the-latest-car-company-to-get-into-robo",
-      "publishedAt": "2025-12-07T11:00:00+00:00",
-      "date": "2025-12-07 11:00:00",
-      "importance": 3,
-      "category": "robotika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yt94CQEPfSBZevCFLycksU-2560-80.jpg",
-      "url": "/tech-news/2025-12-07/hyundai-is-the-latest-car-company-to-get-into-robo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wallpaper*"
-      },
-      "companies": [
-        "Hyundai"
-      ],
-      "people": []
-    },
-    {
       "title": "Generální ředitelka neziskovky podporované McKinsey sdílí 4 způsoby, jak lídři mohou efektivně zavádět AI",
       "description": "Šéfka organizace Generation Mona Mourshed upozorňuje, že mnoho firem naráží při zavádění AI na problémy. Průzkum jejich neziskovky ukazuje, že většina zaměstnanců AI používá týdně, ale polovina se učí sama.",
       "slug": "the-ceo-of-a-mckinsey-backed-employment-nonprofit-",
@@ -3797,26 +3885,6 @@
       ]
     },
     {
-      "title": "Meta spolupracuje s novinovými médii pro rozšíření obsahu AI",
-      "description": "Meta oznámila integraci obsahu z velkých novinových organizací do svého AI asistenta, aby uživatelům Facebooku, Instagramu a WhatsAppu poskytla informace v reálném čase. Funkce umožní přístup k rozmanitějším zdrojům a odkazům na partnerství weby.",
-      "slug": "meta-partners-with-news-outlets-to-expand-ai-conte",
-      "publishedAt": "2025-12-07T09:07:10+00:00",
-      "date": "2025-12-07 09:07:10",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73268,resizemode-75,msid-125815268/tech/technology/meta-partners-with-news-outlets-to-expand-ai-content.jpg",
-      "url": "/tech-news/2025-12-07/meta-partners-with-news-outlets-to-expand-ai-conte/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "Hlavní americká diplomatka Allison Hooker navštíví Dillí a Bengaluru od 7. do 11. prosince",
       "description": "Podsekretářka státního departamentu USA Allison Hooker navštíví Nové Dillí a Bengaluru od 7. do 11. prosince. Návštěva má posílit strategické partnerství USA a Indie s důrazem na ekonomické vazby a spolupráci v technologiích jako AI a vesmírný průzkum.",
       "slug": "united-states-top-diplomat-allison-hooker-to-visit",
@@ -3886,44 +3954,6 @@
         "emoji": "📰",
         "id": null,
         "name": "PerthNow"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Anthropic představuje Interviewer: Co nám řeklo 1 250 profesionálů o práci s AI",
-      "description": "Společnost Anthropic spustila nástroj Anthropic Interviewer pro automatizované rozhovory o zkušenostech uživatelů s AI. V testu na 1 250 profesionálech prozkoumala, jak lidé využívají výstupy modelu Claude a jaké mají představy o budoucnosti AI.",
-      "slug": "introducing-anthropic-interviewer-anthropic",
-      "publishedAt": "2025-12-07T05:47:02+00:00",
-      "date": "2025-12-07 05:47:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
-      "url": "/tech-news/2025-12-07/introducing-anthropic-interviewer-anthropic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Anthropic.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak finanční poradci zvažují rizika AI bubliny",
-      "description": "Zatímco někteří poradci varují před přehřátím trhu poháněného AI, jiní se snaží racionalizovat současný růst akcií. Článek analyzuje rozdílné názory na možné riziko bubliny v sektorech AI infrastruktury a polovodičů.",
-      "slug": "how-advisors-are-weighing-the-risks-of-an-ai-bubbl",
-      "publishedAt": "2025-12-07T05:01:00+00:00",
-      "date": "2025-12-07 05:01:00",
-      "importance": 3,
-      "category": "ai bublina",
-      "urlToImage": "https://media.zenfs.com/en/the_daily_upside_435/a828d45bb330b0fe9b0fe184196135d9",
-      "url": "/tech-news/2025-12-07/how-advisors-are-weighing-the-risks-of-an-ai-bubbl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thedailyupside.com"
       },
       "companies": [],
       "people": []
@@ -4000,24 +4030,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonsko čelí krizi demence – může pomoci technologie?",
-      "description": "Stárnoucí populace Japonska zatěžuje národní rozpočty i společnost jako celek, ale výzkumníci vyvíjejí řešení k úlevě tlaku.",
-      "slug": "japan-is-facing-a-dementia-crisis-can-technology-h",
-      "publishedAt": "2025-12-07T01:04:33+00:00",
-      "date": "2025-12-07 01:04:33",
-      "importance": 3,
-      "category": "demence",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de17/live/7423b520-d188-11f0-8de5-0d4110f465fe.jpg",
-      "url": "/tech-news/2025-12-07/japan-is-facing-a-dementia-crisis-can-technology-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
       },
       "companies": [],
       "people": []
