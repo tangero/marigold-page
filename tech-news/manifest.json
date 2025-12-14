@@ -1,7 +1,127 @@
 {
-  "generated": "2025-12-14T13:02:54.643531+00:00",
+  "generated": "2025-12-14T16:51:07.824286+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Šéf AI divize Microsoftu Mustafa Suleyman varuje, že riziko existenciální zkázy je „téměř absolutní“ – firma by mohla opustit AI, pokud rizika eskalují",
+      "description": "Navzdory obhajobě humanistické superinteligence šéf AI divize Microsoftu Mustafa Suleyman nedávno naznačil, že společnost technologie ukončí, pokud se stane hrozbou pro lidstvo.",
+      "slug": "microsofts-ai-chief-mustafa-suleyman-has-warned-th",
+      "publishedAt": "2025-12-13T15:24:13+00:00",
+      "date": "2025-12-13 15:24:13",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aLwuTV6rKiEFA8PTqdqmTh-2560-80.jpg",
+      "url": "/tech-news/2025-12-13/microsofts-ai-chief-mustafa-suleyman-has-warned-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Mustafa Suleyman"
+      ]
+    },
+    {
+      "title": "Velká změna: Čína zužuje mezeru v AI s USA tři roky po šoku z ChatGPT",
+      "description": "Vydání ChatGPT společností OpenAI 30. listopadu před třemi lety šokovalo čínský technologický průmysl, který musel rychle dohánět pokroky v umělé inteligenci. Čínské vládní úřady vyslaly urgentní žádosti k expertům, včetně profesorů, aby posoudili situaci.",
+      "slug": "sea-change-china-narrows-ai-gap-with-us-three-year",
+      "publishedAt": "2025-12-13T15:03:20+00:00",
+      "date": "2025-12-13 15:03:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/ce7511c727650ccf_s.webp",
+      "url": "/tech-news/2025-12-13/sea-change-china-narrows-ai-gap-with-us-three-year/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento týdenní zajímavé technologické zprávy z webu (do 13. prosince)",
+      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Tento souhrn přináší klíčové novinky z oblastí umělé inteligence, robotiky a výpočetní infrastruktury.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2025-12-13T15:00:00+00:00",
+      "date": "2025-12-13 15:00:00",
+      "importance": 5,
+      "category": "technologické novink",
+      "urlToImage": "https://singularityhub.com/uploads/2025/12/digital-cloud-glowing-concentric-cirlces-bisecting-lines.jpeg?auto=webp",
+      "url": "/tech-news/2025-12-13/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Intel se blíží k akvizici SambaNova za 1,6 miliardy dolarů",
+      "description": "Společnost Intel Corp. vstoupila do závěrečných fází jednání o akvizici startupu SambaNova Systems Inc., který vyvíjí čipy pro umělou inteligenci, za přibližně 1,6 miliardy dolarů včetně dluhů. Tato dohoda představuje významný strategický krok pro posílení Intelu v sektoru AI čipů.",
+      "slug": "intel-closing-in-on-sambanova-for-16-billion",
+      "publishedAt": "2025-12-13T14:49:36+00:00",
+      "date": "2025-12-13 14:49:36",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_2396251243-scaled.jpg",
+      "url": "/tech-news/2025-12-13/intel-closing-in-on-sambanova-for-16-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [
+        "Intel",
+        "SambaNova"
+      ],
+      "people": []
+    },
+    {
+      "title": "No, to je trapné: Největší technologická selhání roku 2025",
+      "description": "Myslíte si, že jste měli špatný rok? Aspoň jste nenajali Severokorejce, nesdíleli válečné plány v skupinovém chatu nebo si sami nespustili DDoS útok. Podívejte se na nejvýznamnější technologické katastrofy roku.",
+      "slug": "well-thats-embarrassing-the-biggest-tech-fails-of-",
+      "publishedAt": "2025-12-13T14:00:00+00:00",
+      "date": "2025-12-13 14:00:00",
+      "importance": 4,
+      "category": "technologická selhán",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/w/well-thats/well-thats-embarrassing-the-biggest-tech-fails-of-2025_j9q4.1200.png",
+      "url": "/tech-news/2025-12-13/well-thats-embarrassing-the-biggest-tech-fails-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Investiční boom: Od Google po Microsoft, proč technologické společnosti investují do Indie",
+      "description": "Indie se stává klíčovým globálním centrem pro investice do umělé inteligence, přičemž největší technologické firmy jako Amazon, Microsoft a Google tam směřují miliardy dolarů díky mladé populaci a rozvíjejícímu se digitálnímu ekosystému.",
+      "slug": "investment-boom-from-google-to-microsoft-why-tech-",
+      "publishedAt": "2025-12-13T13:56:47+00:00",
+      "date": "2025-12-13 13:56:47",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-03-18%2Fom7ti2ml%2Fai-71118021280.jpg?rect=0%2C0%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-13/investment-boom-from-google-to-microsoft-why-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Google",
+        "Microsoft"
+      ],
+      "people": []
+    },
     {
       "title": "Apple připravuje 10 nových zařízení do jara 2026",
       "description": "Apple chystá dvě velké představení produktů, při kterých debutuje 10 nových zařízení. Novinky přinesou pokroky v čipech, bezdrátové konektivitě, displejích a integraci chytrých domácností.",
@@ -3875,71 +3995,6 @@
       ]
     },
     {
-      "title": "Zpráva: Nvidia a SoftBank jednají o investici 1 miliardy dolarů do startupu Skild AI na robotické mozky",
-      "description": "Společnosti Nvidia a SoftBank vedou jednání s robotickým startupem Skild AI o investici 1 miliardy dolarů. Tato kola by zvýšila valuaci firmy na více než 14 miliard dolarů.",
-      "slug": "report-nvidia-and-softbank-to-invest-1b-in-robotic",
-      "publishedAt": "2025-12-08T23:46:00+00:00",
-      "date": "2025-12-08 23:46:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-09-06-37-54.png",
-      "url": "/tech-news/2025-12-08/report-nvidia-and-softbank-to-invest-1b-in-robotic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia",
-        "SoftBank",
-        "Skild AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung se snaží zúžit mezeru s TSMC v závodě o křemíkovou fotoniku",
-      "description": "Společnost Samsung Electronics urychluje vývoj technologie křemíkové fotoniky (SiPh), aby vyřešila úzká hrdla v pokročilých procesorech pro umělou inteligenci a zúžila konkurenční rozdíl s TSMC. Firma rozšiřuje svou globální výzkumnou síť a zaměřuje se na klíčové oblasti.",
-      "slug": "samsung-moves-to-narrow-gap-with-tsmc-as-silicon-p",
-      "publishedAt": "2025-12-08T23:43:27+00:00",
-      "date": "2025-12-08 23:43:27",
-      "importance": 4,
-      "category": "křemíková fotonika",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251208pd220_files/4_2b.jpg",
-      "url": "/tech-news/2025-12-08/samsung-moves-to-narrow-gap-with-tsmc-as-silicon-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Samsung",
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Administrativa Trumpa umožní Číně výhodu v klíčovém závodě v umělé inteligenci",
-      "description": "Prezident Donald Trump oznámil, že jeho administrativa povolí americkému výrobci čipů NVIDIA exportovat pokročilé procesory H200 pro umělou inteligenci do schválených odběratelů v Číně a dalších zemích.",
-      "slug": "trump-admin-moves-to-give-china-leg-up-in-key-arms",
-      "publishedAt": "2025-12-08T23:28:13+00:00",
-      "date": "2025-12-08 23:28:13",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/11/GettyImages-2247860203-scaled-e1764105931139.jpg",
-      "url": "/tech-news/2025-12-08/trump-admin-moves-to-give-china-leg-up-in-key-arms/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "XAI Grok 4.2 obchoduje se skutečnými penězi na reálných trzích s obchody reportovanými v reálném čase – průměrně +20 % a špička +65 % za 20 dní",
       "description": "Model XAI Grok 4.2 provádí autonomní obchody se skutečnými penězi na kryptoměnových perpetuals s leverage až 20x a hlásí výsledky v reálném čase. Čtyři strategie na účtech po 10 000 USD dosáhly průměrného zisku 20 %, přičemž nejlepší účet vrcholil na 65 % zisku za přibližně 20 dní.",
       "slug": "xai-grok-42-trading-real-stocks-in-real-markets-wi",
@@ -3956,27 +4011,6 @@
       },
       "companies": [
         "xAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "React2Shell: Zranitelnost umožňující vzdálené spouštění kódu (CVE-2025-55182)",
-      "description": "Meta a Vercel zveřejnily 3. prosince 2025 kritickou zranitelnost CVE-2025-55182 v React Server Components s maximálním skóre CVSS 10.0, která umožňuje neověřené vzdálené spouštění kódu na postižených serverech. Zranitelnost, pojmenovaná React2Shell, využívá protokol Flight a byla exploitována přes 4100krát během dvou hodin po zveřejnění.",
-      "slug": "react2shell-remote-code-execution-vulnerability-cv",
-      "publishedAt": "2025-12-08T19:49:57+00:00",
-      "date": "2025-12-08 19:49:57",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cms.zscaler.com/sites/default/files/images/blogs/react2shell_advisory_v2..jpg",
-      "url": "/tech-news/2025-12-08/react2shell-remote-code-execution-vulnerability-cv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Zscaler.com"
-      },
-      "companies": [
-        "Meta",
-        "Vercel"
       ],
       "people": []
     },
@@ -4085,28 +4119,6 @@
       "people": []
     },
     {
-      "title": "SoftBank a Nvidia jednají o investici do Skild AI s valuací 14 miliard dolarů, tvrdí zdroje",
-      "description": "Japonský SoftBank Group a Nvidia vedou jednání o investici do Skild AI v kolu financování přes 1 miliardu dolarů, které by mohlo ocenit tvůrce základních modelů pro roboty na přibližně 14 miliard dolarů.",
-      "slug": "softbank-nvidia-looking-to-invest-in-skild-ai-at-1",
-      "publishedAt": "2025-12-08T15:41:31+00:00",
-      "date": "2025-12-08 15:41:31",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-105198,resizemode-75,msid-125839102/tech/technology/softbank-nvidia-looking-to-invest-in-skild-ai-at-14-billion-valuation-sources-say.jpg",
-      "url": "/tech-news/2025-12-08/softbank-nvidia-looking-to-invest-in-skild-ai-at-1/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SoftBank",
-        "Nvidia",
-        "Skild AI"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump podepíše výkonný příkaz bránící státům v regulaci AI",
       "description": "Prezident Donald Trump oznámil, že podepíše výkonný příkaz svěřující federální vládě exkluzivní pravomoc nad umělou inteligencí a zakazující státům zavádět vlastní pravidla. Podle něj je nutné mít pouze jedno pravidlo, aby USA udržely vedení v závodě o AI.",
       "slug": "trump-to-sign-executive-order-preventing-states-fr",
@@ -4142,26 +4154,6 @@
         "name": "Naturalnews.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ranní shrnutí SSPAI: Netflix plánuje odkoupit filmové studio a streamovací divize Warner Bros. za 72 miliard USD",
-      "description": "Netflix dosáhl dohody o akvizici filmového studia Warner Bros. a streamovací služby HBO Max za 72 miliard USD v hotovosti a akciích. Warner Bros. Discovery nejdříve oddělí své kabelové sítě včetně CNN a prodá zbytek. Tato největší akvizice v historii Netflixu by měla být uzavřena do 12 až 18 měsíců.",
-      "slug": "sspai-morning-brief-netflix-plans-to-acquire-warne",
-      "publishedAt": "2025-12-08T02:36:40+00:00",
-      "date": "2025-12-08 02:36:40",
-      "importance": 5,
-      "category": "streamovací průmysl",
-      "urlToImage": "https://sspai.me/wp-content/uploads/2025/11/d838ad40-ff09-e881-8679-2a9b5de90125-scaled.png",
-      "url": "/tech-news/2025-12-08/sspai-morning-brief-netflix-plans-to-acquire-warne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sspai.me"
-      },
-      "companies": [
-        "Netflix"
-      ],
       "people": []
     }
   ]
