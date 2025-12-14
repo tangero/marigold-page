@@ -1,7 +1,87 @@
 {
-  "generated": "2025-12-14T08:46:10.245600+00:00",
+  "generated": "2025-12-14T13:02:54.643531+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple připravuje 10 nových zařízení do jara 2026",
+      "description": "Apple chystá dvě velké představení produktů, při kterých debutuje 10 nových zařízení. Novinky přinesou pokroky v čipech, bezdrátové konektivitě, displejích a integraci chytrých domácností.",
+      "slug": "apples-2026-game-changing-tech-revealed-10-must-se",
+      "publishedAt": "2025-12-13T10:00:05+00:00",
+      "date": "2025-12-13 10:00:05",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/apple-product-launch-2024-preview_optimized.jpg",
+      "url": "/tech-news/2025-12-13/apples-2026-game-changing-tech-revealed-10-must-se/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Obrat rolí: Meta přebírá Qwen, jak se čínská AI stává základem oboru",
+      "description": "Americký gigant Meta v únoru 2023 vydal open-source modely rodiny Llama, které inspirovaly čínský Qwen od Alibaba Cloud. Podle reportu Bloomberg nyní Meta údajně používá Qwen k trénování svého nového modelu s kódovým názvem Avocado, což představuje významný obrat v dynamice open-source AI.",
+      "slug": "role-reversal-meta-adopts-qwen-as-chinese-ai-becom",
+      "publishedAt": "2025-12-13T09:30:00+00:00",
+      "date": "2025-12-13 09:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QUzAoYfgiu8DlzUClq3OUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/4420af3a6d1f9f8f4c169a75e539797d",
+      "url": "/tech-news/2025-12-13/role-reversal-meta-adopts-qwen-as-chinese-ai-becom/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Meta Platforms"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína snižuje mezeru v umělé inteligenci oproti USA tři roky po šoku z ChatGPT",
+      "description": "Spouštění ChatGPT společností OpenAI 30. listopadu před třemi lety donutilo čínský technologický průmysl spěchat a dohánět pokroky v umělé inteligenci. Čínské firmy a vláda rychle reagovaly vývojem vlastních velkých jazykových modelů a chatbotů.",
+      "slug": "china-narrows-ai-gap-with-us-3-years-after-initial",
+      "publishedAt": "2025-12-13T09:30:00+00:00",
+      "date": "2025-12-13 09:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U739PTmpw_M.DoSD1JjFrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/51dad2a90b0f9eced4f05238d2c5c2b6",
+      "url": "/tech-news/2025-12-13/china-narrows-ai-gap-with-us-3-years-after-initial/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Shiprocket podal aktualizované dokumenty pro IPO u SEBI; míří na 2342 krůrů rupií z veřejné nabídky",
+      "description": "Úvodní veřejná nabídka (IPO) představuje kombinaci nové emise akcií v hodnotě až 1100 krůrů rupií a nabídky na prodej akcií v hodnotě 1242,3 krůru rupií od prodávajících akcionářů, uvedl aktualizovaný návrh červeného heraldického prospektu.",
+      "slug": "shiprocket-files-updated-ipo-papers-with-sebi-eyes",
+      "publishedAt": "2025-12-13T09:17:31+00:00",
+      "date": "2025-12-13 09:17:31",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/hk86cp/article70391975.ece/alternates/LANDSCAPE_1200/IMG_PO10IPO_6_1_T792KD5E.jpg",
+      "url": "/tech-news/2025-12-13/shiprocket-files-updated-ipo-papers-with-sebi-eyes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Shiprocket"
+      ],
+      "people": []
+    },
     {
       "title": "USA zakládají Pax Silica s spojenci klíčovými pro globální dodavatelské řetězce AI a čipů",
       "description": "Austrálie, Japonsko, Jižní Korea, Velká Británie, Singapur, Izrael a USA podepsaly deklaraci na summitu Pax Silica ve Washingtonu DC. Cílem je vytvořit bezpečný dodavatelský řetězec křemíku od těžby minerálů po výrobu čipů a AI infrastruktury.",
@@ -3860,27 +3940,6 @@
       ]
     },
     {
-      "title": "Výhled kvantového počítání je příznivý: 2 akcie sledovat do roku 2026",
-      "description": "Společnosti IONQ a QBTS vynikají v rostoucím zájmu o kvantové technologie díky rekordním výkonnostním metrikám, růstu příjmů a novým systémům, což přitahuje investory směrem k roku 2026.",
-      "slug": "quantum-computing-outlook-shines-2-stocks-to-watch",
-      "publishedAt": "2025-12-08T20:00:00+00:00",
-      "date": "2025-12-08 20:00:00",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://media.zenfs.com/en/zacks.com/838cf8b60fbc1e7928a087dc9bcb3648",
-      "url": "/tech-news/2025-12-08/quantum-computing-outlook-shines-2-stocks-to-watch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "IONQ",
-        "QBTS"
-      ],
-      "people": []
-    },
-    {
       "title": "XAI Grok 4.2 obchoduje se skutečnými penězi na reálných trzích s obchody reportovanými v reálném čase – průměrně +20 % a špička +65 % za 20 dní",
       "description": "Model XAI Grok 4.2 provádí autonomní obchody se skutečnými penězi na kryptoměnových perpetuals s leverage až 20x a hlásí výsledky v reálném čase. Čtyři strategie na účtech po 10 000 USD dosáhly průměrného zisku 20 %, přičemž nejlepší účet vrcholil na 65 % zisku za přibližně 20 dní.",
       "slug": "xai-grok-42-trading-real-stocks-in-real-markets-wi",
@@ -4048,26 +4107,6 @@
       "people": []
     },
     {
-      "title": "Paramount spouští nepřátelskou nabídku na Warner Bros. Discovery navzdory dohodě s Netflixem",
-      "description": "Paramount zahajuje nepřátelskou akvizici Warner Bros. Discovery po prohře v licitačním boji s Netflixem. Nabídka za 30 dolarů za akcii je podpořena investory z Blízkého východu a firmou Affinity Partners.",
-      "slug": "paramount-launches-hostile-bid-for-warner-bros-dis",
-      "publishedAt": "2025-12-08T15:38:18+00:00",
-      "date": "2025-12-08 15:38:18",
-      "importance": 5,
-      "category": "mediální fúze",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/250904-paramount-studios-ew-315p-532e5d.jpg",
-      "url": "/tech-news/2025-12-08/paramount-launches-hostile-bid-for-warner-bros-dis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TODAY"
-      },
-      "companies": [
-        "Netflix"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump podepíše výkonný příkaz bránící státům v regulaci AI",
       "description": "Prezident Donald Trump oznámil, že podepíše výkonný příkaz svěřující federální vládě exkluzivní pravomoc nad umělou inteligencí a zakazující státům zavádět vlastní pravidla. Podle něj je nutné mít pouze jedno pravidlo, aby USA udržely vedení v závodě o AI.",
       "slug": "trump-to-sign-executive-order-preventing-states-fr",
@@ -4085,26 +4124,6 @@
       "companies": [],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Ray Dalio: Blízký východ se stává ‚Silicon Valley kapitalistů‘",
-      "description": "Zakladatel Bridgewater Associates Ray Dalio porovnal rozvoj zemí Blízkého východu se Silicon Valley díky masivním investicím do AI infrastruktury. Spojené arabské emiráty a Saúdská Arábie tento rok spustily iniciativy v hodnotě miliard dolarů na výstavbu cloudů, datových center a AI zařízení.",
-      "slug": "ray-dalio-says-middle-east-is-becoming-a-silicon-v",
-      "publishedAt": "2025-12-08T08:08:36+00:00",
-      "date": "2025-12-08 08:08:36",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217912-1761667354340-Dalio1.jpg?v=1761667468&w=1920&h=1080",
-      "url": "/tech-news/2025-12-08/ray-dalio-says-middle-east-is-becoming-a-silicon-v/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": [
-        "Ray Dalio"
       ]
     },
     {
@@ -4143,24 +4162,6 @@
       "companies": [
         "Netflix"
       ],
-      "people": []
-    },
-    {
-      "title": "Strukturovaná bezdrátová transkraniální optogenetika generuje umělou percepci",
-      "description": "Výzkum představuje plně implantabilní bezdrátové optogenetické zařízení, které prostorově-časově strukturovaně stimuluje kortikální oblasti mozku skrz lebku a vytváří umělé vnímání u myší. Myši dokázaly tyto umělé podněty diskriminovat během operantního učení.",
-      "slug": "patterned-wireless-transcranial-optogenetics-gener",
-      "publishedAt": "2025-12-08T00:00:00+00:00",
-      "date": "2025-12-08 00:00:00",
-      "importance": 4,
-      "category": "optogenetika",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-025-02127-6/MediaObjects/41593_2025_2127_Fig1_HTML.png",
-      "url": "/tech-news/2025-12-08/patterned-wireless-transcranial-optogenetics-gener/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
       "people": []
     }
   ]
