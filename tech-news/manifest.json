@@ -1,7 +1,67 @@
 {
-  "generated": "2025-12-14T16:51:07.824286+00:00",
+  "generated": "2025-12-14T20:37:10.515429+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google mění miliony sluchátek na živé překladače",
+      "description": "Nová beta funkce Google přeměňuje téměř jakákoli sluchátka spárovaná s Android telefony na živé překladače umělé inteligence. To činí jazyky dostupnějšími a snižuje překážky pro cestování v oblasti strojového překladu.",
+      "slug": "google-turns-millions-of-earbuds-into-live-transla",
+      "publishedAt": "2025-12-13T20:14:12+00:00",
+      "date": "2025-12-13 20:14:12",
+      "importance": 4,
+      "category": "strojový překlad",
+      "urlToImage": "https://skift.com/wp-content/uploads/2025/12/Google-Live-Translate-beta.jpeg?resize=1024,577",
+      "url": "/tech-news/2025-12-13/google-turns-millions-of-earbuds-into-live-transla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Skift"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "BMW spolupracuje se Samsungem na urychlení vývoje solid-state baterií pro elektromobily",
+      "description": "BMW navázalo partnerství se společností Samsung SDI, aby zrychlilo vývoj solid-state baterií pro elektromobily. Tato technologie s vrstvou ze stříbrno-uhlíkového kompozitu slibuje vyšší hustotu energie, rychlejší nabíjení a delší životnost. Partnerství má pomoci BMW konkurovat plánům Toyoty, BYD a CATL na komercializaci do konce dekády.",
+      "slug": "bmw-teams-up-with-samsung-to-speed-up-solid-state-",
+      "publishedAt": "2025-12-13T19:55:57+00:00",
+      "date": "2025-12-13 19:55:57",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-13/bmw-teams-up-with-samsung-to-speed-up-solid-state/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nate Jones se mýlí ohledně AI datových center ve vesmíru",
+      "description": "Nate Jones nesprávně shrnul příběh o AI datových centrech ve vesmíru a tvrdí, že v orbitě zatím nic není. Ve skutečnosti společnost Starcloud v spolupráci s Nvidia a Crusoe již vypustila satelit s GPU H100 minulý měsíc na raketě SpaceX Falcon 9.",
+      "slug": "nate-jones-gets-ai-data-centers-wrong",
+      "publishedAt": "2025-12-13T17:00:41+00:00",
+      "date": "2025-12-13 17:00:41",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-03-at-11.50.53-AM.jpg",
+      "url": "/tech-news/2025-12-13/nate-jones-gets-ai-data-centers-wrong/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Starcloud"
+      ],
+      "people": []
+    },
     {
       "title": "Šéf AI divize Microsoftu Mustafa Suleyman varuje, že riziko existenciální zkázy je „téměř absolutní“ – firma by mohla opustit AI, pokud rizika eskalují",
       "description": "Navzdory obhajobě humanistické superinteligence šéf AI divize Microsoftu Mustafa Suleyman nedávno naznačil, že společnost technologie ukončí, pokud se stane hrozbou pro lidstvo.",
@@ -3973,28 +4033,6 @@
       ]
     },
     {
-      "title": "Trump povoluje Nvidia prodej pokročilých AI čipů do Číny",
-      "description": "Nvidia se stala centrem geopolitického tažení mezi USA a Čínou v posledních měsících. Prezident Trump nyní umožňuje prodej čipů H200 schváleným zákazníkům v Číně.",
-      "slug": "trump-gives-nvidia-green-light-to-sell-advanced-ai",
-      "publishedAt": "2025-12-08T23:55:20+00:00",
-      "date": "2025-12-08 23:55:20",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07a5/live/ec584de0-d48e-11f0-88d4-452a2492b66d.jpg",
-      "url": "/tech-news/2025-12-08/trump-gives-nvidia-green-light-to-sell-advanced-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
       "title": "XAI Grok 4.2 obchoduje se skutečnými penězi na reálných trzích s obchody reportovanými v reálném čase – průměrně +20 % a špička +65 % za 20 dní",
       "description": "Model XAI Grok 4.2 provádí autonomní obchody se skutečnými penězi na kryptoměnových perpetuals s leverage až 20x a hlásí výsledky v reálném čase. Čtyři strategie na účtech po 10 000 USD dosáhly průměrného zisku 20 %, přičemž nejlepší účet vrcholil na 65 % zisku za přibližně 20 dní.",
       "slug": "xai-grok-42-trading-real-stocks-in-real-markets-wi",
@@ -4077,26 +4115,6 @@
       ]
     },
     {
-      "title": "Trump oznámil, že podepíše výkonný příkaz blokující státní regulace AI, navzdory obavám o bezpečnost",
-      "description": "Prezident Donald Trump potvrdil, že plánuje podepsat výkonný příkaz, který přebere regulace umělé inteligence na státní úrovni a nahradí je volnější federální politikou. Tento krok vyvolává obavy u kritiků, kteří varují před riziky pro uživatele technologií.",
-      "slug": "trump-says-hell-sign-executive-order-blocking-stat",
-      "publishedAt": "2025-12-08T16:11:04+00:00",
-      "date": "2025-12-08 16:11:04",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-13t232452z-1118327253-rc2j4ba31vmo-rtrmadp-3-usa-congress-leadership-20251208144036887.JPG?c=16x9&q=w_800,c_fill",
-      "url": "/tech-news/2025-12-08/trump-says-hell-sign-executive-order-blocking-stat/",
-      "source": {
-        "emoji": "📰",
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "Co se děje s Vodafone Germany, Mavenir a Telefónicou",
       "description": "Vodafone Germany jmenuje nového ředitele sítí, Mavenir obměňuje vrcholový management a Telefónica vede několik jednání o fúzích a akvizicích podle CEO. Mezi klíčovými událostmi vyniká akvizice IBM společnosti Confluent za 11 miliard dolarů zaměřená na data streaming pro AI.",
       "slug": "whats-up-with-vodafone-germany-mavenir-telefónica",
@@ -4137,24 +4155,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Administrativa Trumpa představuje národní strategii pro robotiku, aby konkurovala Číně a posílila domácí výrobu",
-      "description": "Administrativa Donalda Trumpa připravuje rozsáhlý program na posílení pozice USA v oblasti humanoidních robotů, který má čelit dominanci Číny v automatizaci a pokročilé výrobě. V roce 2025 by měl být vydán prezidentský výnos k urychlení domácího vývoje robotiky.",
-      "slug": "trump-administration-unveils-national-robotics-str",
-      "publishedAt": "2025-12-08T06:00:00+00:00",
-      "date": "2025-12-08 06:00:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Robot-AI-Android-Humanoid-Workers-Warehouse.jpg",
-      "url": "/tech-news/2025-12-08/trump-administration-unveils-national-robotics-str/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
