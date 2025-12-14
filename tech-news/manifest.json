@@ -1,10 +1,93 @@
 {
-  "generated": "2025-12-14T04:52:54.601235+00:00",
+  "generated": "2025-12-14T08:46:10.245600+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "USA zakládají Pax Silica s spojenci klíčovými pro globální dodavatelské řetězce AI a čipů",
+      "description": "Austrálie, Japonsko, Jižní Korea, Velká Británie, Singapur, Izrael a USA podepsaly deklaraci na summitu Pax Silica ve Washingtonu DC. Cílem je vytvořit bezpečný dodavatelský řetězec křemíku od těžby minerálů po výrobu čipů a AI infrastruktury.",
+      "slug": "us-forms-pax-silica-with-allies-central-to-global-",
+      "publishedAt": "2025-12-13T08:06:13+00:00",
+      "date": "2025-12-13 08:06:13",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20251213072447.jpg",
+      "url": "/tech-news/2025-12-13/us-forms-pax-silica-with-allies-central-to-global/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ANI News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ChatGPT 5.2: OpenAI model pro produktivitu, programování a plánování",
+      "description": "OpenAI vydalo ChatGPT 5.2, novou verzi modelu umělé inteligence, která zlepšuje schopnosti v generování grafiky, automatizaci tabulek a strategickém plánování. Tento model konkuruje systémům jako Google Gemini 3 Deep Think a Anthropic Claude Opus 4.5 a cílí na profesionály v IT, designu a byznysu.",
+      "slug": "chatgpt-52-openais-best-ai-yet-for-productivity-co",
+      "publishedAt": "2025-12-13T07:00:51+00:00",
+      "date": "2025-12-13 07:00:51",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gemini-claude-vs-gpt-5-2-comparison_optimized.jpg",
+      "url": "/tech-news/2025-12-13/chatgpt-52-openais-best-ai-yet-for-productivity-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia může zvýšit výrobu AI čipů H200 kvůli vysoké poptávce čínských firem včetně Alibaba a ByteDance: Zpráva",
+      "description": "Nvidia zvažuje zvýšení produkce svých H200 AI čipů pro čínské klienty díky vysoké poptávce. Mezi zájemce patří velké společnosti jako Alibaba a ByteDance, které plánují velké objednávky.",
+      "slug": "nvidia-may-increase-h200-ai-chip-output-amid-high-",
+      "publishedAt": "2025-12-13T04:52:34+00:00",
+      "date": "2025-12-13 04:52:34",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/13/1600x900/HUANG-SENATE-23_1765601439017_1765601460967.jpg",
+      "url": "/tech-news/2025-12-13/nvidia-may-increase-h200-ai-chip-output-amid-high/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Nvidia",
+        "Alibaba",
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf Samsungu se setkal s Elonem Muskem z Tesly k diskusi o čipech",
+      "description": "V červenci Samsung uzavřel smlouvu s Teslou na výrobu čipu AI6 pro budoucí elektromobily. Následně získal zakázku i na současný čip AI5.",
+      "slug": "samsung-chief-meets-with-teslas-elon-musk-to-discu",
+      "publishedAt": "2025-12-13T04:41:25+00:00",
+      "date": "2025-12-13 04:41:25",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/05/Tesla-CEO-Elon-Musk-Meeting-Samsung-Chairman-Lee-Jae-Yong.jpg",
+      "url": "/tech-news/2025-12-13/samsung-chief-meets-with-teslas-elon-musk-to-discu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
       "title": "Google odstranil AI videa s Disney postavami po výzvě k zastavení",
-      "description": "Google spolupracuje s Disney a odstranil desítky AI-generovaných videí s postavami jako Mickey Mouse, Deadpool nebo Moana z YouTube. Toto následuje po dohodě Disney s OpenAI v hodnotě 1 miliardy dolarů na tříleté licencování postav pro video generátor Sora a po obvinění Google z porušování autorských práv.",
+      "description": "Google spolupracuje s Disney a odstranil desítky videí generovaných umělou inteligencí s postavami jako Mickey Mouse, Deadpool nebo Moana z platformy YouTube. Toto následuje po právní výzvě Disney a souvisí s jejich miliardovou dohodou s OpenAI na licencování obsahu pro model Sora.",
       "slug": "google-takes-down-disney-ai-videos-following-cease",
       "publishedAt": "2025-12-13T03:15:30+00:00",
       "date": "2025-12-13 03:15:30",
@@ -24,8 +107,8 @@
       "people": []
     },
     {
-      "title": "Spacex Elona Muska oceňován na 800 miliard dolarů při přípravě na vstup na burzu",
-      "description": "Spacex, firma Elona Muska zaměřená na raketové starty a satelitní internet Starlink, dosáhla valuace 800 miliard dolarů. Připravuje se na úvodní veřejnou nabídku akcií (IPO), což by mohlo ovlivnit trh s technologickými akciemi.",
+      "title": "Spacex Elona Muska má valuaci 800 miliard dolarů při přípravě na vstup na burzu",
+      "description": "Spacex dosáhl valuace 800 miliard dolarů a připravuje se na IPO. Tento krok posiluje jeho postavení v kosmickém průmyslu a otevírá cestu pro další investice do projektů jako Starship a Starlink.",
       "slug": "elon-musks-spacex-valued-at-800-billion-as-it-prep",
       "publishedAt": "2025-12-13T03:12:17+00:00",
       "date": "2025-12-13 03:12:17",
@@ -46,30 +129,8 @@
       ]
     },
     {
-      "title": "Nvidia zvažuje zvýšení výroby čipů H200 kvůli silné poptávce z Číny, tvrdí zdroje",
-      "description": "Nvidia informovala čínské klienty, že zvažuje rozšíření výrobní kapacity pro své výkonné AI čipy H200, protože objednávky překročily současnou úroveň výroby. Velké čínské společnosti jako Alibaba a ByteDance se tento týden spojily s Nvidia ohledně velkých objednávek.",
-      "slug": "nvidia-considers-increasing-h200-chip-output-due-t",
-      "publishedAt": "2025-12-13T02:59:51+00:00",
-      "date": "2025-12-13 02:59:51",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-150822,resizemode-75,msid-125943406/tech/technology/nvidia-considers-increasing-h200-chip-output-due-to-robust-china-demand-sources-say.jpg",
-      "url": "/tech-news/2025-12-13/nvidia-considers-increasing-h200-chip-output-due-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Alibaba",
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
       "title": "Reportáž: Intel by mohl koupit startup na inference čipy SambaNova za 1,6 miliardy dolarů",
-      "description": "Společnost Intel údajně rokuje o akvizici SambaNova Systems, startupu z Palo Alta zaměřeného na vývoj čipů pro umělou inteligenci. Podle zdrojů Bloombergu jsou jednání v pokročilém stádiu a hodnota dohody by mohla dosáhnout 1,6 miliardy dolarů včetně dluhů.",
+      "description": "Společnost Intel údajně jedná o akvizici SambaNova Systems, startupu zaměřeného na vývoj čipů pro umělou inteligenci. Podle zdrojů Bloombergu jsou jednání v pokročilém stádiu a hodnota dohody by mohla dosáhnout 1,6 miliardy dolarů včetně dluhů.",
       "slug": "report-intel-could-acquire-inference-chip-startup-",
       "publishedAt": "2025-12-13T01:08:47+00:00",
       "date": "2025-12-13 01:08:47",
@@ -3777,29 +3838,6 @@
       "people": []
     },
     {
-      "title": "Nvidia získává částečný přístup na čínský trh – Trump schvaluje dodávky H200 s 25% podílem na výdělcích",
-      "description": "Prezident Donald Trump povolil společnosti Nvidia prodávat své AI čipy H200 vybraným čínským zákazníkům za podmínky, že USA obdrží 25 % z výnosů. Tento krok následuje po rozhovorech s prezidentem Si Ťin-pchingem a představuje největší uvolnění exportních omezení od roku 2022.",
-      "slug": "nvidia-wins-partial-china-access-trump-greenlights",
-      "publishedAt": "2025-12-08T23:41:50+00:00",
-      "date": "2025-12-08 23:41:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/08/1600x900/logo/Trump_Huang_1765236473937_1765236474135.jpg",
-      "url": "/tech-news/2025-12-08/nvidia-wins-partial-china-access-trump-greenlights/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Xi Jinping"
-      ]
-    },
-    {
       "title": "Administrativa Trumpa umožní Číně výhodu v klíčovém závodě v umělé inteligenci",
       "description": "Prezident Donald Trump oznámil, že jeho administrativa povolí americkému výrobci čipů NVIDIA exportovat pokročilé procesory H200 pro umělou inteligenci do schválených odběratelů v Číně a dalších zemích.",
       "slug": "trump-admin-moves-to-give-china-leg-up-in-key-arms",
@@ -3901,28 +3939,6 @@
       "companies": [],
       "people": [
         "Trump"
-      ]
-    },
-    {
-      "title": "NVIDIA podle čipového architekta Jima Kellera možná ukončí svůj 'CUDA příkop' novou aktualizací – portování jader bude snazší",
-      "description": "NVIDIA představila významný upgrade svého softwaru CUDA nazvaný CUDA Tile, který mění programování grafických procesorů z modelu SIMT na tile-based přístup. Čipový architekt Jim Keller tvrdí, že tento krok usnadní přenos AI jader na hardware jiných výrobců a oslabí exkluzivitu CUDA.",
-      "slug": "nvidia-might-end-the-cuda-moat-with-its-latest-upd",
-      "publishedAt": "2025-12-08T18:55:28+00:00",
-      "date": "2025-12-08 18:55:28",
-      "importance": 4,
-      "category": "gpu programování",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/06/Tenstorrent-RISC-V-AI-CPUs-Chiplets-Jim-Keller-_5-g-low_res-scale-2_00x.jpg",
-      "url": "/tech-news/2025-12-08/nvidia-might-end-the-cuda-moat-with-its-latest-upd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Jim Keller"
       ]
     },
     {
@@ -4107,26 +4123,6 @@
         "name": "Naturalnews.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie Ola Electric v centru pozornosti po zahájení masových dodávek vozidel s bateriemi 4680 Bharat Cell",
-      "description": "Ola Electric zahájila masové dodávky skútru S1 Pro+ s vlastně vyvinutou baterií 4680 Bharat Cell a stala se první indickou společností, která plně ovládá výrobu buněk i bateriových balíčů. Tento krok posiluje jejich pozici na trhu elektromobility a vedl k růstu akcií o 2,6 %.",
-      "slug": "ola-electric-shares-in-focus-as-co-begins-mass-del",
-      "publishedAt": "2025-12-08T03:24:05+00:00",
-      "date": "2025-12-08 03:24:05",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125825355,width-1200,height-630,imgsize-6784,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-12-08/ola-electric-shares-in-focus-as-co-begins-mass-del/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Ola Electric"
-      ],
       "people": []
     },
     {
