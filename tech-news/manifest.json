@@ -1,10 +1,96 @@
 {
-  "generated": "2025-12-14T01:21:30.308171+00:00",
+  "generated": "2025-12-14T04:52:54.601235+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Rivian oznámil vlastní AI čip v rámci posunu k autonomnímu řízení",
-      "description": "Výrobce elektromobilů Rivian navrhl svůj čip interně přímo v Silicon Valley. Čip pohání nový Autonomy Compute Module 3 pro nadcházející modely R2 SUV.",
+      "title": "Google odstranil AI videa s Disney postavami po výzvě k zastavení",
+      "description": "Google spolupracuje s Disney a odstranil desítky AI-generovaných videí s postavami jako Mickey Mouse, Deadpool nebo Moana z YouTube. Toto následuje po dohodě Disney s OpenAI v hodnotě 1 miliardy dolarů na tříleté licencování postav pro video generátor Sora a po obvinění Google z porušování autorských práv.",
+      "slug": "google-takes-down-disney-ai-videos-following-cease",
+      "publishedAt": "2025-12-13T03:15:30+00:00",
+      "date": "2025-12-13 03:15:30",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/Deadpool-Disney-Google.jpg?w=1024",
+      "url": "/tech-news/2025-12-13/google-takes-down-disney-ai-videos-following-cease/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Deadline"
+      },
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Spacex Elona Muska oceňován na 800 miliard dolarů při přípravě na vstup na burzu",
+      "description": "Spacex, firma Elona Muska zaměřená na raketové starty a satelitní internet Starlink, dosáhla valuace 800 miliard dolarů. Připravuje se na úvodní veřejnou nabídku akcií (IPO), což by mohlo ovlivnit trh s technologickými akciemi.",
+      "slug": "elon-musks-spacex-valued-at-800-billion-as-it-prep",
+      "publishedAt": "2025-12-13T03:12:17+00:00",
+      "date": "2025-12-13 03:12:17",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-13/elon-musks-spacex-valued-at-800-billion-as-it-prep/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia zvažuje zvýšení výroby čipů H200 kvůli silné poptávce z Číny, tvrdí zdroje",
+      "description": "Nvidia informovala čínské klienty, že zvažuje rozšíření výrobní kapacity pro své výkonné AI čipy H200, protože objednávky překročily současnou úroveň výroby. Velké čínské společnosti jako Alibaba a ByteDance se tento týden spojily s Nvidia ohledně velkých objednávek.",
+      "slug": "nvidia-considers-increasing-h200-chip-output-due-t",
+      "publishedAt": "2025-12-13T02:59:51+00:00",
+      "date": "2025-12-13 02:59:51",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-150822,resizemode-75,msid-125943406/tech/technology/nvidia-considers-increasing-h200-chip-output-due-to-robust-china-demand-sources-say.jpg",
+      "url": "/tech-news/2025-12-13/nvidia-considers-increasing-h200-chip-output-due-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Alibaba",
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Reportáž: Intel by mohl koupit startup na inference čipy SambaNova za 1,6 miliardy dolarů",
+      "description": "Společnost Intel údajně rokuje o akvizici SambaNova Systems, startupu z Palo Alta zaměřeného na vývoj čipů pro umělou inteligenci. Podle zdrojů Bloombergu jsou jednání v pokročilém stádiu a hodnota dohody by mohla dosáhnout 1,6 miliardy dolarů včetně dluhů.",
+      "slug": "report-intel-could-acquire-inference-chip-startup-",
+      "publishedAt": "2025-12-13T01:08:47+00:00",
+      "date": "2025-12-13 01:08:47",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Intel.jpg",
+      "url": "/tech-news/2025-12-13/report-intel-could-acquire-inference-chip-startup/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Intel",
+        "SambaNova"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rivian oznámil AI čip v kroku k autonomnímu řízení",
+      "description": "Výrobce elektromobilů Rivian navrhl svůj čip interně uprostřed Silicon Valley. Čip pohání nový Autonomy Compute Module 3 pro nadcházející SUV R2.",
       "slug": "rivian-announces-ai-chip-in-move-towards-self-driv",
       "publishedAt": "2025-12-13T01:00:00+00:00",
       "date": "2025-12-13 01:00:00",
@@ -23,13 +109,36 @@
       "people": []
     },
     {
+      "title": "Oracle odkládá datacentra pro OpenAI do roku 2028, akcie AI infrastruktury klesají",
+      "description": "Oracle posunul dokončení některých datacenter stavěných pro OpenAI z roku 2027 na 2028, což vyvolalo výrazný pokles akcií firem v oblasti AI infrastruktury. Tato zpráva přišla po šíření fake news o slabých výsledcích Broadcomu a zesílila stávající prodejní tlak na trhu.",
+      "slug": "ai-반도체-훈풍-가짜-뉴스-보도-어디길래",
+      "publishedAt": "2025-12-13T00:53:42+00:00",
+      "date": "2025-12-13 00:53:42",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbhGdMK%2FdJMcaiojBf2%2FAAAAAAAAAAAAAAAAAAAAAJbF73Ig_BTuyqaMU6fp_BsgPa5jCmlMv09NmiTM4wdL%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DEKYKGezStzuH8VPReaDUduXcSJ8%253D",
+      "url": "/tech-news/2025-12-13/ai-반도체-훈풍-가짜-뉴스-보도-어디길래/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tistory.com"
+      },
+      "companies": [
+        "Oracle",
+        "OpenAI"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
       "title": "Pro kanadské startupy byl AI dominantní silou v roce 2025",
-      "description": "Kanadský inovační ekosystém čelil v roce 2025 výzvám kvůli politické nejistotě a obchodním tarifům z USA, přičemž umělá inteligence převzala roli hlavního disruptoru a přitahovala většinu investic. Článek rovněž zmiňuje strategické partnerství torontské biotechnologické firmy a rozpočet vlády na přilákání talentů.",
+      "description": "Kanadský startupový ekosystém v roce 2025 čelil výzvám kvůli politické nejistotě a americkým tarifům, přičemž AI převzalo roli hlavního disruptoru a přitahovalo většinu investic. Mezi klíčovými úspěchy patří financování 689 milionů CAD pro torontskou Cohere a 215 milionů USD pro Multiverse.",
       "slug": "for-canadas-startups-ai-was-a-dominant-force-in-20",
       "publishedAt": "2025-12-13T00:47:50+00:00",
       "date": "2025-12-13 00:47:50",
       "importance": 4,
-      "category": "ai",
+      "category": "ai startupy",
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/63/26326b3c-2086-5d8d-8010-eb2d44a2163c/693c8a87ccae3.image.jpg?crop=1760%2C924%2C0%2C126&resize=1200%2C630&order=crop%2Cresize",
       "url": "/tech-news/2025-12-13/for-canadas-startups-ai-was-a-dominant-force-in-20/",
       "source": {
@@ -41,13 +150,13 @@
       "people": []
     },
     {
-      "title": "ChatGPT: Vše, co potřebujete vědět o tomto chatovacím robota s umělou inteligencí",
-      "description": "Tento průvodce ChatGPT vysvětluje virální textový generátor od OpenAI. Popisujeme nejnovější aktualizace a odpovídáme na časté otázky.",
+      "title": "ChatGPT: Vše, co potřebujete vědět o tomto chatovacím robotovi s umělou inteligencí",
+      "description": "Průvodce ChatGPT vysvětluje virální systém generování textu od OpenAI. Popisuje nejnovější aktualizace a odpovídá na časté otázky.",
       "slug": "chatgpt-everything-you-need-to-know-about-the-ai-c",
       "publishedAt": "2025-12-13T00:42:58+00:00",
       "date": "2025-12-13 00:42:58",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
       "url": "/tech-news/2025-12-13/chatgpt-everything-you-need-to-know-about-the-ai-c/",
       "source": {
@@ -61,8 +170,26 @@
       "people": []
     },
     {
+      "title": "Integrace suchého zpracování a před-sodiací umožňuje sodíkové baterie s vysokou energetickou hustotou",
+      "description": "Používání obětovaných solí k vylepšení sodíkových baterií naráží na praktické problémy, jako je vysoká cena rozpouštědel a nízké využití díky špatnému elektrickému kontaktu. Autoři představují metodu suchého zpracování bez rozpouštědel, která zajišťuje úplné rozložení soli a přináší významné zlepšení energetické hustoty a životnosti.",
+      "slug": "integrating-dry-processing-and-pre-sodiation-enabl",
+      "publishedAt": "2025-12-13T00:00:00+00:00",
+      "date": "2025-12-13 00:00:00",
+      "importance": 4,
+      "category": "sodíkové baterie",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-13/integrating-dry-processing-and-pre-sodiation-enabl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Thinking Machines zpřístupňuje službu Tinker pro doladění umělé inteligence pro širokou veřejnost",
-      "description": "Společnost Thinking Machines Lab Inc. dnes uvedla svou službu Tinker pro doladění umělé inteligence do obecné dostupnosti. Firmu se sídlem v San Franciscu založila v únoru Mira Murati, bývalá šéftechnoložka OpenAI, která dohlížela na vývoj ChatGPT a Sora.",
+      "description": "Společnost Thinking Machines Lab Inc. dnes uvedla svou cloudovou službu Tinker pro doladění velkých jazykových modelů do obecné dostupnosti. Firmu založila v únoru Mira Murati, bývalá šéftechnologička OpenAI, a podporují ji investoři jako Nvidia a AMD.",
       "slug": "thinking-machines-makes-its-tinker-ai-fine-tuning-",
       "publishedAt": "2025-12-12T23:51:26+00:00",
       "date": "2025-12-12 23:51:26",
@@ -3757,26 +3884,6 @@
       "people": []
     },
     {
-      "title": "Průlom Instacartu v AI: Od chatu až k dveřím",
-      "description": "Instacart integruje svou celou platformu přímo do ChatGPT, což umožňuje uživatelům v jedné konverzaci získat nápady na recepty a následně objednat potraviny s doručením. Firma se stala první s plně integrovaným nákupním systémem v tomto modelu umělé inteligence.",
-      "slug": "instacarts-ai-breakthrough-from-chat-to-doorstep",
-      "publishedAt": "2025-12-08T19:14:09+00:00",
-      "date": "2025-12-08 19:14:09",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/12/shutterstock_2248583563-scaled.jpg",
-      "url": "/tech-news/2025-12-08/instacarts-ai-breakthrough-from-chat-to-doorstep/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "Instacart"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump varuje: Bez jednotných pravidel bude AI zničeno v zaúkolébání – kritici upozorňují na federalizaci moci",
       "description": "Prezident Trump plánuje vydat výkonný příkaz, který zabrání státům samostatně regulovat umělou inteligenci. Tento krok má zjednodušit schvalovací procesy, avšak kritici varují před příliš velkou koncentrací moci v rukou federální vlády.",
       "slug": "trump-warns-without-uniform-rules-ai-will-be-destr",
@@ -3881,27 +3988,6 @@
       ]
     },
     {
-      "title": "Významná spolupráce mezi AWS a Snowflake pohání růst prodejů a integrace AI produktů",
-      "description": "Desetiletá spolupráce na integraci dat mezi Amazon Web Services a Snowflake vedla k milníkům oznámeným na konferenci AWS re:Invent, včetně zdvojnásobení růstu transakcí Snowflake v AWS Marketplace na přes 2 miliardy dolarů. Partnerství zahrnuje hlubší integrace s AI službami jako Bedrock a Cortex, což usnadňuje zákazníkům nasazení datových a AI řešení.",
-      "slug": "major-collaboration-between-aws-and-snowflake-driv",
-      "publishedAt": "2025-12-08T16:03:51+00:00",
-      "date": "2025-12-08 16:03:51",
-      "importance": 4,
-      "category": "oblakové technologie",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Gannon-Grusz.jpg",
-      "url": "/tech-news/2025-12-08/major-collaboration-between-aws-and-snowflake-driv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Amazon Web Services",
-        "Snowflake"
-      ],
-      "people": []
-    },
-    {
       "title": "Co se děje s Vodafone Germany, Mavenir a Telefónicou",
       "description": "Vodafone Germany jmenuje nového ředitele sítí, Mavenir obměňuje vrcholový management a Telefónica vede několik jednání o fúzích a akvizicích podle CEO. Mezi klíčovými událostmi vyniká akvizice IBM společnosti Confluent za 11 miliard dolarů zaměřená na data streaming pro AI.",
       "slug": "whats-up-with-vodafone-germany-mavenir-telefónica",
@@ -3986,27 +4072,6 @@
       ]
     },
     {
-      "title": "Intel uzavřel dohodu v hodnotě 14 miliard dolarů s indickou Tata na stavbu polovodičových továren, posiluje globální foundry strategii",
-      "description": "Intel navázal partnerství s Tata Electronics na výstavbu semiconductor fabrication facility v Gudžarátu a OSAT zařízení v Assamu v Indii. Spolupráce má hodnotu 14 miliard dolarů a zaměří se na výrobu čipů pro spotřební elektroniku a pokročilé balení.",
-      "slug": "intel-has-secured-a-massive-14-billion-deal-with-i",
-      "publishedAt": "2025-12-08T15:34:42+00:00",
-      "date": "2025-12-08 15:34:42",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/6936c91ec96e5-tata-intel-strategic-alliance-084825568-16x9-1.jpg",
-      "url": "/tech-news/2025-12-08/intel-has-secured-a-massive-14-billion-deal-with-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Intel",
-        "Tata Electronics"
-      ],
-      "people": []
-    },
-    {
       "title": "Ray Dalio: Blízký východ se stává ‚Silicon Valley kapitalistů‘",
       "description": "Zakladatel Bridgewater Associates Ray Dalio porovnal rozvoj zemí Blízkého východu se Silicon Valley díky masivním investicím do AI infrastruktury. Spojené arabské emiráty a Saúdská Arábie tento rok spustily iniciativy v hodnotě miliard dolarů na výstavbu cloudů, datových center a AI zařízení.",
       "slug": "ray-dalio-says-middle-east-is-becoming-a-silicon-v",
@@ -4027,26 +4092,6 @@
       ]
     },
     {
-      "title": "Uvnitř NVIDIA NVQLink: Rychlejší AI s kvantovou asistencí pro opravy v reálném čase",
-      "description": "NVIDIA představila NVQLink, technologii spojující kvantové počítače s AI superpočítači. Tento most umožňuje rychlé zpracování dat v reálném čase díky kvantovým principům jako superpozice a provázanost.",
-      "slug": "inside-nvidia-nvqlink-faster-ai-with-a-quantum-ass",
-      "publishedAt": "2025-12-08T07:12:39+00:00",
-      "date": "2025-12-08 07:12:39",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpu-qubit-real-time-error-correction_optimized.jpg",
-      "url": "/tech-news/2025-12-08/inside-nvidia-nvqlink-faster-ai-with-a-quantum-ass/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
       "title": "Administrativa Trumpa představuje národní strategii pro robotiku, aby konkurovala Číně a posílila domácí výrobu",
       "description": "Administrativa Donalda Trumpa připravuje rozsáhlý program na posílení pozice USA v oblasti humanoidních robotů, který má čelit dominanci Číny v automatizaci a pokročilé výrobě. V roce 2025 by měl být vydán prezidentský výnos k urychlení domácího vývoje robotiky.",
       "slug": "trump-administration-unveils-national-robotics-str",
@@ -4062,29 +4107,6 @@
         "name": "Naturalnews.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google a Amazon vstupují do arény AI čipů: Dokáže Nvidia udržet svou dominanci?",
-      "description": "Google a Amazon agresivně vyvíjejí vlastní AI čipy jako TPU a Trainium3, aby snížily závislost na Nvidia a dosáhly soběstačnosti v AI hardwaru. Navzdory poklesu akcií Nvidia o 2,5 % kvůli možné dohodě Google s Meta na dodávkách TPU si Nvidia zachovává sebevědomí díky vyprodaným čipům Blackwell a Rubin do roku 2026.",
-      "slug": "google-and-amazon-enter-the-ai-chip-arena-can-nvid",
-      "publishedAt": "2025-12-08T06:00:00+00:00",
-      "date": "2025-12-08 06:00:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Logo-Building.jpg",
-      "url": "/tech-news/2025-12-08/google-and-amazon-enter-the-ai-chip-arena-can-nvid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "Google",
-        "Amazon",
-        "Nvidia",
-        "Meta"
-      ],
       "people": []
     },
     {
@@ -4125,24 +4147,6 @@
       "companies": [
         "Netflix"
       ],
-      "people": []
-    },
-    {
-      "title": "Indické zpravodajství: Indie couvne od povinné předinstalace bezpečnostní aplikace",
-      "description": "Indická vláda ustupuje od plánu na povinnou předinstalaci bezpečnostní aplikace Sanchar Saathi po odporu veřejnosti a průmyslu. Globální AI společnosti jako Google a OpenAI navazují partnerství s indickými firmami na výstavbu AI datových center.",
-      "slug": "india-roundup-india-flip-flops-on-mandatory-securi",
-      "publishedAt": "2025-12-08T00:54:03+00:00",
-      "date": "2025-12-08 00:54:03",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251207vl200_files/2_2b.jpg",
-      "url": "/tech-news/2025-12-08/india-roundup-india-flip-flops-on-mandatory-securi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
       "people": []
     },
     {

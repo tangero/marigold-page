@@ -5,10 +5,10 @@ companies:
 - Thinking Machines Lab Inc
 - OpenAI Group PBC
 date: '2025-12-12 23:51:26'
-description: Společnost Thinking Machines Lab Inc. dnes uvedla svou službu Tinker
-  pro doladění umělé inteligence do obecné dostupnosti. Firmu se sídlem v San Franciscu
-  založila v únoru Mira Murati, bývalá šéftechnoložka OpenAI, která dohlížela na vývoj
-  ChatGPT a Sora.
+description: Společnost Thinking Machines Lab Inc. dnes uvedla svou cloudovou službu
+  Tinker pro doladění velkých jazykových modelů do obecné dostupnosti. Firmu založila
+  v únoru Mira Murati, bývalá šéftechnologička OpenAI, a podporují ji investoři jako
+  Nvidia a AMD.
 importance: 4
 layout: tech_news_article
 original_title: Thinking Machines makes its Tinker AI fine-tuning service generally
@@ -29,26 +29,26 @@ urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/f
 ---
 
 ## Souhrn
-Společnost Thinking Machines Lab Inc. zpřístupnila svou cloudovou službu Tinker pro doladění velkých jazykových modelů (LLM) pro širokou veřejnost. Služba využívá metodu Low-Rank Adaptation (LoRA), která výrazně snižuje nároky na výpočetní zdroje oproti tradičnímu doladění. Firma, založená Mirou Murati z OpenAI, získala v červnu seed kolo ve výši 2 miliard dolarů při valuaci 10 miliard dolarů.
+Společnost Thinking Machines Lab Inc. s centrem v San Franciscu dnes zpřístupnila svou službu Tinker pro doladění umělé inteligence pro širokou veřejnost. Tinker umožňuje efektivní přizpůsobení velkých jazykových modelů (LLM) pomocí metody Low-Rank Adaptation (LoRA), která vyžaduje méně výpočetních zdrojů než tradiční přístupy. Firmu v únoru 2025 založila Mira Murati, ex-šéftechnologička OpenAI, a v červnu získala 2 miliardy dolarů v seed kole při valuaci 10 miliard dolarů.
 
 ## Klíčové body
-- Thinking Machines založila v únoru 2025 Mira Murati, ex-šéftechnoložka OpenAI zodpovědná za ChatGPT a Sora; tým zahrnuje Soumitha Chintalu, spolustvořitele PyTorch z Meta.
-- Služba Tinker debutovala před čtyřmi měsíci a nyní je ve fázi general availability.
-- Používá LoRA pro efektivní doladění LLM, což umožňuje přizpůsobení modelů specifickým úkolům s minimálními zdroji.
-- Financování: 2 miliardy dolarů od investorů včetně Nvidia, AMD a ServiceNow.
-- LoRA přidává malý počet parametrů k původnímu modelu a trénuje jen ty, což urychluje proces a snižuje náklady na infrastrukturu.
+- Založení: Únor 2025 Mira Murati (dříve OpenAI, zodpovědná za ChatGPT a Sora) a tým s experty jako Soumith Chintala (spoluvytvořitel PyTorch z Meta).
+- Financování: 2 miliardy dolarů seed kolo s účastí Nvidia, AMD, ServiceNow a dalších.
+- Tinker: Cloudová služba pro doladění LLM metodou LoRA, která trénuje pouze malý počet dodatečných parametrů místo celého modelu.
+- Výhody: Nižší nároky na výpočetní výkon a infrastrukturu, zjednodušené nasazení modelů.
+- Debut: Služba byla představená před čtyřmi měsíci, nyní v general availability.
 
 ## Podrobnosti
-Thinking Machines Lab Inc. je startup zaměřený na vývoj nástrojů pro umělou inteligenci, který vstoupil na trh s cloudovou službou Tinker určenou k doladění velkých jazykových modelů. Doladění znamená úpravu předtrénovaného LLM tak, aby lépe plnil konkrétní úkoly, například pochopení preferencí zákazníků v systému doporučení produktů nebo analýzu specializovaných textů v medicíně. Tradiční metody doladění aktualizují všechny parametry modelu – tedy nastavení určující zpracování dat – což vyžaduje obrovské množství GPU a dlouhou dobu tréninku.
+Thinking Machines Lab Inc. se zaměřuje na vývoj nástrojů pro práci s umělou inteligencí, především na zefektivnění procesu doladění velkých jazykových modelů. Doladění znamená úpravu předtrénovaného modelu tak, aby lépe plnil specifické úkoly, například pochopení preferencí zákazníků v systému doporučení produktů. Tradiční metody aktualizují všechny parametry modelu – tedy nastavení, která určují zpracování dat – což vyžaduje obrovské množství GPU a času.
 
-Tinker naopak aplikuje LoRA, metodu vyvinutou v roce 2021 výzkumníky z Microsoftu. LoRA rozšiřuje LLM o malý počet dodatečných parametrů, typicky v řádu milionů oproti bilionům v původním modelu, a trénink probíhá pouze na těchto nových parametrech. To snižuje spotřebu výpočetního výkonu na zlomek oproti plnému doladění, zjednodušuje nasazení modelu a umožňuje rychlejší iterace. Například firma vyvíjející chatbota pro zákaznickou podporu může pomocí Tinkeru přizpůsobit model Llama nebo podobný za hodiny místo dnů, bez potřeby vlastního klastru GPU.
+Služba Tinker tento proces zjednodušuje pomocí LoRA, což je technika, která přidává k původnímu modelu malý počet nových parametrů a trénuje pouze tyto. Výsledkem je rychlejší a levnější doladění, které nevyžaduje tak rozsáhlou infrastrukturu. Například firma vyvíjející chatbot pro zákaznickou podporu může pomocí Tinker rychle přizpůsobit model svým datům bez nutnosti vlastnit klastry stovek GPU.
 
-Zakladatelkou je Mira Murati, která v OpenAI řídila vývoj klíčových produktů jako ChatGPT a generativní video Sora. Tým posílil Soumith Chintala, jeden ze spolustvořitelů knihovny PyTorch, kterou Meta opustil minulý měsíc. Finanční zázemí je impozantní: v červnu 2025 získali 2 miliardy dolarů v seed kole při valuaci 10 miliard, s podporou od Nvidia (dodavatel GPU), AMD (konkurent v čipech) a ServiceNow (platforma pro automatizaci). Tinker byl představen čtyři měsíce po financování a nyní přechází z beta do plné dostupnosti, což znamená, že ji mohou využívat všichni uživatelé bez omezení.
+Tým Thinking Machines tvoří významní experti z AI scény. Kromě Murati, která v OpenAI dohlížela na vývoj ChatGPT, Sora a dalších produktů, se minulý měsíc připojil Soumith Chintala, jeden z tvůrců frameworku PyTorch, který slouží k vývoji a trénování neuronových sítí. Investice v objemu 2 miliard dolarů v seed kole, vedená giganty jako Nvidia (výrobce GPU) a AMD, signalizuje důvěru v potenciál firmy. Služba Tinker byla debutována čtyři měsíce po financování a nyní je dostupná všem uživatelům, což umožňuje škálování pro podniky i výzkumníky.
 
-LoRA není bez kompromisů: modely doladěné touto metodou mohou dosahovat mírně nižší přesnosti na složitých úkolech oproti plnému tréninku, protože nemění jádro modelu. Přesto je metoda široce přijímaná v průmyslu díky své efektivitě, jak ukazují implementace v Hugging Face nebo open-source projektech.
+LoRA však není bez kompromisů: modely doladěné touto metodou mohou dosahovat nižší přesnosti než plně doladěné verze, zejména u složitějších úkolů, kde je potřeba měnit hlubší vrstvy modelu. Tinker tedy nenahrazuje všechny přístupy, ale cílí na běžné scénáře, kde stačí efektivita.
 
 ## Proč je to důležité
-Toto spuštění posiluje konkurenci v oblasti fine-tuningu LLM, kde dominují služby jako OpenAI fine-tuning API nebo Google Vertex AI. Tinker s LoRA democratizuje přístup k custom modelům pro menší firmy a vývojáře, kteří nemohou investovat do vlastní infrastruktury. S pozadím Murati a Chintaly se Thinking Machines stává potenciálním hráčem schopným ovlivnit ekosystém AI, podobně jako Anthropic nebo xAI. Velké financování signalizuje důvěru investorů v efektivní metody jako LoRA, které řeší klíčový problém škálovatelnosti AI v éře rostoucích modelů. Pro průmysl to znamená nižší vstupní bariéry pro aplikace jako personalizované AI asistenty nebo specializované analyzátory, což urychlí adopci LLM mimo velké technologické giganty.
+Toto spuštění posiluje konkurenci v oblasti AI infrastruktury, kde dominují giganti jako OpenAI nebo Google Cloud. Pro průmysl znamená snížení vstupních bariér pro doladění LLM – menší firmy teď mohou experimentovat s přizpůsobenými modely bez miliónových investic do hardwaru. V širším kontextu AI ekosystému Tinker podporuje demokratizaci technologie, ale zároveň zvyšuje tlak na optimalizaci zdrojů v době rostoucí poptávky po výpočetním výkonu. S backgroundem Murati a investory jako Nvidia může Thinking Machines ovlivnit směr vývoje nástrojů pro LLM, podobně jako Hugging Face změnil sdílení modelů. Dlouhodobě to urychlí aplikace AI v obchodech, zdravotnictví nebo automatizaci, i když LoRA limity budou vyžadovat hybridní přístupy.
 
 ---
 

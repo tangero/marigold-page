@@ -1,11 +1,11 @@
 ---
 author: Marisa Aigen
-category: ai
+category: ai startupy
 date: '2025-12-13 00:47:50'
-description: Kanadský inovační ekosystém čelil v roce 2025 výzvám kvůli politické
-  nejistotě a obchodním tarifům z USA, přičemž umělá inteligence převzala roli hlavního
-  disruptoru a přitahovala většinu investic. Článek rovněž zmiňuje strategické partnerství
-  torontské biotechnologické firmy a rozpočet vlády na přilákání talentů.
+description: Kanadský startupový ekosystém v roce 2025 čelil výzvám kvůli politické
+  nejistotě a americkým tarifům, přičemž AI převzalo roli hlavního disruptoru a přitahovalo
+  většinu investic. Mezi klíčovými úspěchy patří financování 689 milionů CAD pro torontskou
+  Cohere a 215 milionů USD pro Multiverse.
 importance: 4
 layout: tech_news_article
 original_title: For Canada’s startups, AI was a dominant force in 2025
@@ -22,24 +22,24 @@ urlToImageBackup: https://bloximages.chicago2.vip.townnews.com/thestar.com/conte
 ---
 
 ### Souhrn
-Kanadské startupy prošly v roce 2025 obtížným rokem plným politické nejistoty z federálních a provinčních voleb i obchodních turbulencí způsobených americkými tarify. Přesto umělá inteligence (AI) dominovala jako hlavní disruptor, který přitahoval investory a jejich kapitál. Klíčové kanadské AI firmy jako Cohere získaly stovky milionů dolarů, zatímco celkový počet investičních dealů klesl.
+Kanadské startupy v roce 2025 prožily obtížný rok plný politické nejistoty z federálních a provinčních voleb i obchodních turbulencí způsobených americkými tarify. Přesto AI firmy dominovaly investiční scénu, když získaly největší rundy financování, jako 689 milionů kanadských dolarů pro Cohere a 215 milionů amerických dolarů pro Multiverse. Celkový počet investičních dealů klesl, ale AI projekty si uchmatly ty nejvýznamnější.
 
 ### Klíčové body
-- Kanadské AI startupy získaly největší investice: Cohere z Toronta 689 milionů dolarů, Multiverse 215 milionů USD.
-- Celkový počet investičních transakcí klesl podle dat Canadian Venture Capital and Private Equity Association (CVCA).
-- Experti jako Benjamin Bergen zdůrazňují nutnost rekapitalizace kanadského inovačního ekosystému.
-- MaRS, torontský inkubátor, hlásí těžký rok pro mnoho startupů mimo AI sektor.
-- Vláda plánuje rozpočet na přilákání odborníků v AI a tech odvětví.
+- Kanadské startupy čelily poklesu celkového počtu investic podle dat CVCA, přesto AI firmy jako Cohere (689 milionů CAD) a Multiverse (215 milionů USD) získaly největší sumy.
+- Benjamin Bergen, odcházející šéf Council of Canadian Innovators (CCI), zdůrazňuje nutnost rekapitalizace kanadského inovativního ekosystému.
+- Liam Gill z MaRS označuje rok 2025 za obtížný pro mnoho startupů mimo AI sektor.
+- Cohere, torontská firma specializující se na velké jazykové modely pro podniky, posílila svou pozici díky financování.
+- Politická a obchodní nejistota brzdila růst, ale AI zůstalo klíčovým tahounem.
 
 ### Podrobnosti
-Kanadský inovační ekosystém čelil v roce 2025 vážným protivětrom. Federální a provinční volby vytvořily politickou nejistotu, zatímco tarify z USA způsobily narušení obchodu, což zkomplikovalo situaci pro podnikatele. Benjamin Bergen, který v lednu opouští Radu kanadských inovátorů (Council of Canadian Innovators, CCI) a přebírá vedení Canadian Venture Capital and Private Equity Association (CVCA), to shrnul jako období velkých změn, kdy podnikatelé hledali pevnou půdu pod nohama.
+Kanadský inovativní ekosystém vstoupil do roku 2025 s významnými výzvami. Federální a provinční volby vytvořily politickou nejistotu, zatímco hrozba amerických cel na dovoz způsobila turbulence v obchodu. Benjamin Bergen, který v lednu 2026 opustí post šéfa Council of Canadian Innovators (CCI) a převezme vedení Canadian Venture Capital and Private Equity Association (CVCA), to shrnul jako období, kdy podnikatelé hledali stabilní půdu pod nohama. Podle dat CVCA došlo k poklesu celkového počtu investičních transakcí, což potvrzuje i Liam Gill, ředitel kapitálového programu v MaRS – jednom z největších kanadských inovativních hubů v Torontu, který podporuje startupy v oblastech jako AI, zdravotnictví a čistá energie.
 
-AI se stalo hlavním disruptorem. Podle CVCA došlo k poklesu celkového počtu investičních dealů, ale ty nejvýznamnější putovaly právě do AI startupů. Toronto-based Cohere, firma specializující se na velké jazykové modely (large language models, LLM) pro podnikové aplikace jako generování textu, analýza dat nebo automatizace zákaznické podpory, získala 689 milionů dolarů. Tato investice umožňuje Cohere škálovat své AI modely, které konkurují řešením od OpenAI nebo Google, s důrazem na bezpečnost a přizpůsobitelnost pro firmy. Stejně tak Multiverse, další AI hráč zaměřený na pokročilé modely pro specifické úlohy, obdržel 215 milionů USD, což posiluje jeho pozici v sektoru.
+AI se stalo dominantním disruptorem. Investoři soustředili kapitál na firmy vyvíjející pokročilé modely umělé inteligence. Toronto-based Cohere, založená Aidanem Gomezem (bývalým výzkumníkem Google Brain), získala 689 milionů kanadských dolarů. Cohere se zaměřuje na enterprise-grade AI, konkrétně na velké jazykové modely (LLM) jako Command R nebo Aya, které slouží k automatizaci podnikových procesů, generování textu, analýze dat a integraci do firemních systémů přes API. Tyto modely umožňují firmám nasadit AI bezpečně na vlastních serverech, což řeší obavy z datové soukromí a závislosti na cloudových službách jako OpenAI. Druhou významnou rundou bylo 215 milionů USD pro Multiverse, kanadskou AI firmu zaměřenou na platformy pro trénink a nasazení modelů, které pomáhají developerům budovat vlastní AI aplikace.
 
-Bergen v rozhovoru dříve zdůraznil: „Zjistit, jak rekapitalizovat Kanadu, je skutečně klíčové.“ Liam Gill z MaRS, torontského centra pro růst startupů, které poskytuje kapitál, mentorství a infrastrukтуру, dodává, že rok byl obtížný pro mnoho kanadských startupů mimo AI. Článek také naznačuje strategické partnerství torontské biotech firmy, pravděpodobně v oblasti AI pro medicínu, a vládní rozpočet na přilákání expertů – tzv. „mozky“ – z USA a Evropy, což má posílit kanadskou konkurenceschopnost v AI.
+Bergen v rozhovoru zdůraznil: „Zjistit, jak rekapitalizovat Kanadu, je skutečně klíčové.“ MaRS, kde Gill působí, hlásí, že rok byl pro mnoho non-AI startupů náročný, s menším přístupem k rizikovému kapitálu. Například biotech firmy v Torontu, jako ty zmíněné v souvislosti s partnerstvími, bojovaly o pozornost, zatímco vláda alokuje rozpočty na přilákání talentů z USA – tzv. „brain drain“ opačným směrem.
 
 ### Proč je to důležité
-Tento trend ukazuje, jak AI přetváří investiční priority v menších ekosystémech jako Kanada. Zatímco tradiční sektory trpí, AI firmy jako Cohere (zakládaná Aidanem Gomezem, bývalým výzkumníkem Google Brain) získávají kapitál pro vývoj robustních LLM, které slouží k automatizaci firemních procesů a zvyšování produktivity. To má dopady na globální trh: Kanada se stává atraktivním pólem pro AI talenty díky nižším nákladům a vládní podpoře, což může konkurovat Silicon Valley. Nicméně pokles dealů mimo AI signalizuje rizika závislosti na jednom sektoru – bez diverzifikace hrozí zranitelnost vůči poklesu hype kolem AI. Pro průmysl to znamená, že investoři by měli zvážit dlouhodobou udržitelnost kanadských AI modelů oproti americkým gigantům, kde Cohere může nabídnout výhodu v enterprise nasazení s lepší ochranou dat.
+Tento vývoj ukazuje na globální trend, kde AI přitahuje 80–90 % nových investic v tech sektoru, což marginalizuje jiné oblasti jako robotiku nebo kvantové výpočty v Kanadě. Pro kanadský ekosystém to znamená riziko specializace: Cohere posiluje Toronto jako AI hub srovnatelný s Waterloo nebo Montrealskými univerzitami, ale závislost na jednom sektoru zvyšuje zranitelnost vůči regulacím (např. nadcházející EU AI Act nebo kanadské směrnice). Pro průmysl to otevírá dveře k levnějším enterprise AI řešením – Cohere modely lze deployovat lokálně, což snižuje latenci a náklady oproti GPT-4. Kriticky: bez diverzifikace (např. do fúzní energie nebo autonomních vozidel) hrozí Kanadě ztráta dlouhodobé konkurenčnosti, i když krátkodobě AI fundingy stabilizují ekosystém. Celkově to podtrhuje, že v roce 2025 se AI stalo nejen technologickým, ale i ekonomickým motorem pro menší trhy jako Kanada.
 
 ---
 
