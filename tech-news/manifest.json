@@ -1,30 +1,53 @@
 {
-  "generated": "2025-12-14T20:37:10.515429+00:00",
+  "generated": "2025-12-15T01:16:43.757467+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Google mění miliony sluchátek na živé překladače",
-      "description": "Nová beta funkce Google přeměňuje téměř jakákoli sluchátka spárovaná s Android telefony na živé překladače umělé inteligence. To činí jazyky dostupnějšími a snižuje překážky pro cestování v oblasti strojového překladu.",
-      "slug": "google-turns-millions-of-earbuds-into-live-transla",
-      "publishedAt": "2025-12-13T20:14:12+00:00",
-      "date": "2025-12-13 20:14:12",
+      "title": "Trump povoluje Nvidia prodej čipů H200 do Číny: Proč dává protivníkovi přístup k pokročilým AI polovodičům – a co za to?",
+      "description": "Prezident Trump oznámil, že Nvidia smí exportovat svůj pokročilý čip H200 do Číny, přičemž americké ministerstvo financí si nechá 25 procent z prodejů. Toto rozhodnutí kontrastuje s jeho dřívější tvrdou linií vůči Pekingu v oblasti obchodu a bezpečnosti.",
+      "slug": "trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi",
+      "publishedAt": "2025-12-14T00:00:00+00:00",
+      "date": "2025-12-14 00:00:00",
       "importance": 4,
-      "category": "strojový překlad",
-      "urlToImage": "https://skift.com/wp-content/uploads/2025/12/Google-Live-Translate-beta.jpeg?resize=1024,577",
-      "url": "/tech-news/2025-12-13/google-turns-millions-of-earbuds-into-live-transla/",
+      "category": "ai",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/1_2/1/motherboard_shutterstock_116443600.jpg?itok=d9Ln2b6x",
+      "url": "/tech-news/2025-12-14/trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Skift"
+        "name": "Hoover.org"
       },
       "companies": [
-        "Google"
+        "Nvidia"
+      ],
+      "people": [
+        "Trump",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Články o Nvidia, umělé inteligenci, hackerech, robotické armádě, čipové společnosti a Paramount",
+      "description": "Čínská komunistická strana usiluje o kontrolu informačních technologií, aby formovala a censurovala komunikaci svých občanů i osob mimo hranice Číny. Tento soubor článků shrnuje klíčové události týkající se čínského vlivu v oblasti AI, čipů a kybernetické bezpečnosti.",
+      "slug": "articles-on-nvidia-ai-hackers-robot-army-chip-comp",
+      "publishedAt": "2025-12-14T00:00:00+00:00",
+      "date": "2025-12-14 00:00:00",
+      "importance": 4,
+      "category": "čínská cenzura",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
+      "url": "/tech-news/2025-12-14/articles-on-nvidia-ai-hackers-robot-army-chip-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "companies": [
+        "Nvidia"
       ],
       "people": []
     },
     {
-      "title": "BMW spolupracuje se Samsungem na urychlení vývoje solid-state baterií pro elektromobily",
-      "description": "BMW navázalo partnerství se společností Samsung SDI, aby zrychlilo vývoj solid-state baterií pro elektromobily. Tato technologie s vrstvou ze stříbrno-uhlíkového kompozitu slibuje vyšší hustotu energie, rychlejší nabíjení a delší životnost. Partnerství má pomoci BMW konkurovat plánům Toyoty, BYD a CATL na komercializaci do konce dekády.",
+      "title": "BMW spolupracuje se Samsungem na urychlení solid-state baterií pro elektromobily",
+      "description": "BMW uzavírá partnerství se Samsungem SDI k zrychlení vývoje solid-state baterií pro elektromobily. Tato technologie využívá stříbrně-uhelníkový kompozit a slibuje dojezd přes 900 km, nabíjení za 9 minut a životnost 20 let.",
       "slug": "bmw-teams-up-with-samsung-to-speed-up-solid-state-",
       "publishedAt": "2025-12-13T19:55:57+00:00",
       "date": "2025-12-13 19:55:57",
@@ -4090,26 +4113,6 @@
       "companies": [
         "Nvidia"
       ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump vydá exekutivní příkaz pro „jednu příručku pravidel“ pro AI po selhání Kongresu v omezení „špatných aktérů“ států",
-      "description": "Prezident Trump oznámil, že tento týden vydá exekutivní příkaz zavedoucí „Jednu příručku pravidel“ na národní úrovni pro regulaci umělé inteligence, protože snahy Kongresu selhaly. Cílem je zabránit fragmentaci pravidel mezi 50 státy, která by podle něj oslabila konkurenceschopnost USA v globálním závodě o AI.",
-      "slug": "trump-to-issue-one-rulebook-ai-executive-order-aft",
-      "publishedAt": "2025-12-08T16:14:22+00:00",
-      "date": "2025-12-08 16:14:22",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116986255.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2025-12-08/trump-to-issue-one-rulebook-ai-executive-order-aft/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
       "people": [
         "Donald Trump"
       ]
