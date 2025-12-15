@@ -1,7 +1,81 @@
 {
-  "generated": "2025-12-15T16:57:16.752167+00:00",
+  "generated": "2025-12-15T20:51:57.223644+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Warby Parker (WRBY) vzrostl o 46 % před uvedením AI brýlí v roce 2026",
+      "description": "Akcie Warby Parker Inc. (NYSE:WRBY) posílily o 46 procent týdně na nové maximum za 52 týdnů díky podání u SEC, které potvrdilo partnerství s Google na vývoj inteligentních brýlí s umělou inteligencí. Produkt má být odhalen v roce 2026 a obsahuje multimodální AI s dioptrickými i nedioptrickými čočkami.",
+      "slug": "warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel",
+      "publishedAt": "2025-12-14T19:41:25+00:00",
+      "date": "2025-12-14 19:41:25",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D0z5VqhvmkeRz0bKYCfSqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/insidermonkey.com/c0ec52b7a50af86083dba23321dbc8f8",
+      "url": "/tech-news/2025-12-14/warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Volkswagen testuje svého rivala Tesla Robotaxi ve Wolfsburgu",
+      "description": "Volkswagen otestovává výzkumné autonomní vozidlo Gen.Urban ve Wolfsburgu v Německu, kde jede bez volantu a pedálů v reálném městském provozu. Projekt se zaměřuje na zkušenost pasažérů a budování důvěry v autonomní jízdu.",
+      "slug": "volkswagens-tesla-robotaxi-rival-gets-put-to-the-t",
+      "publishedAt": "2025-12-14T19:13:59+00:00",
+      "date": "2025-12-14 19:13:59",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/vw-gen_urban.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-12-14/volkswagens-tesla-robotaxi-rival-gets-put-to-the-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strach z hackování chytrých domovů: Co je reálné a co přehnané",
+      "description": "Strach z hackování chytrých domovů je přehnaný? Expert vysvětluje skutečná rizika kyberbezpečnosti a poskytuje jednoduché tipy na ochranu propojených zařízení před útoky hackerů.",
+      "slug": "smart-home-hacking-fears-whats-real-and-whats-hype",
+      "publishedAt": "2025-12-14T18:30:56+00:00",
+      "date": "2025-12-14 18:30:56",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/3-are-your-smart-home-cameras-spying-on-you-study-reveals-shocking-data-grabs-outro.jpg",
+      "url": "/tech-news/2025-12-14/smart-home-hacking-fears-whats-real-and-whats-hype/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Boom umělé inteligence tlačí datová centra za termální zeď",
+      "description": "Hyperskalární provozovatelé spěšně nasazují výkonnější infrastrukturu pro AI, což testuje termální limity tradičních datových center a zvyšuje poptávku po pokročilých chladicích technologiích. Podle zprávy společnosti Verified Market dochází k masivnímu růstu tohoto trhu.",
+      "slug": "the-ai-boom-is-pushing-data-centers-past-the-therm",
+      "publishedAt": "2025-12-14T18:00:00+00:00",
+      "date": "2025-12-14 18:00:00",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-12_6n87bbkncv.jpg",
+      "url": "/tech-news/2025-12-14/the-ai-boom-is-pushing-data-centers-past-the-therm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Soutěž Nvidia Blackwell proti Google TPU – klíčový souboj AI hardware v roce 2026",
       "description": "Analytici 24/7 Wall St. v podcastu The AI Investor rozebrali konkurenční dynamiku mezi specializovanými čipy TPU od Google a univerzálními GPU od Nvidia, které nyní dominují v AI výpočtech. TPUs nabízejí vyšší energetickou úspornost a nižší celkové náklady, což by mohlo změnit trh, pokud je Google začne prodávat externě.",
@@ -3671,44 +3745,6 @@
       "people": []
     },
     {
-      "title": "IPO v hodnotě 20 miliard dolarů ročně je novou normou pro Indii: JP Morgan",
-      "description": "Počáteční veřejné nabídky akcií v celkové hodnotě 20 miliard dolarů ročně se podle JP Morgan stávají novou normou pro indický trh. V roce 2025 už bylo emitováno 21 miliard dolarů a očekává se uzavření roku nad 23 miliardami, přičemž významný podíl připadá na technologické firmy a startupy.",
-      "slug": "ipos-worth-20-billion-per-year-a-new-normal-for-in",
-      "publishedAt": "2025-12-09T12:17:42+00:00",
-      "date": "2025-12-09 12:17:42",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-06-13%2F9x9u7m14%2Fipo?rect=6%2C0%2C1194%2C627&w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-09/ipos-worth-20-billion-per-year-a-new-normal-for-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google popisuje bezpečnostní ochrany agentických schopností Chrome",
-      "description": "Google popsal bezpečnostní opatření pro agentické funkce v prohlížeči Chrome, které chrání model Gemini i uživatele před hrozbami. Hlavní zaměření je na obranu proti nepřímým injekcím promptů z webových stránek.",
-      "slug": "google-outlines-security-protections-in-chromes-ag",
-      "publishedAt": "2025-12-09T12:15:16+00:00",
-      "date": "2025-12-09 12:15:16",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/Google-outlines-security-protections-in-Chromes-agentic-capabilities.png",
-      "url": "/tech-news/2025-12-09/google-outlines-security-protections-in-chromes-ag/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Tether investuje do italských humanoidních robotů s cílem chytřejší budoucnosti",
       "description": "Tether Investments se zapojil do kola financování v hodnotě 70 milionů eur pro společnost Generative Bionics, která vznikla jako spin-off z Italského technologického institutu. Tento krok spojuje kryptoměnové finance s vývojem humanoidních robotů.",
       "slug": "tether-pours-funds-into-italian-humanoid-robots-ai",
@@ -3728,24 +3764,6 @@
         "Generative Bionics",
         "Italian Institute of Technology"
       ],
-      "people": []
-    },
-    {
-      "title": "Průlomová dohoda přináší Severní Americe první rafinerii těžkých vzácných zemin",
-      "description": "Společnost REAlloys, americký výrobce vzácných zemin, uzavřela partnerství se Saskatchewan Research Council, díky čemuž získává kontrolu nad většinou nadcházející produkce těžkých vzácných zemin v Severní Americe.",
-      "slug": "landmark-deal-gives-north-america-its-first-heavy-",
-      "publishedAt": "2025-12-09T12:00:00+00:00",
-      "date": "2025-12-09 12:00:00",
-      "importance": 4,
-      "category": "vzácné zeminy",
-      "urlToImage": "https://media.zenfs.com/en/oilprice.com/b0caef068dd9638ecd6601b2df2af707",
-      "url": "/tech-news/2025-12-09/landmark-deal-gives-north-america-its-first-heavy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3827,24 +3845,6 @@
       "companies": [
         "Relation"
       ],
-      "people": []
-    },
-    {
-      "title": "Japonsko se snaží dohnat v nové vlně robotiky poháněné umělou inteligencí",
-      "description": "Umělá inteligence schopná autonomně ovládat stroje v reálném světě, známá jako Physical AI, rychle mění globální trh s roboty. USA a Čína urychlují vývoj humanoidních robotů s těmito systémy, což ohrožuje dlouholetou dominanci Japonska v průmyslových robotech.",
-      "slug": "japan-plays-catch-up-with-new-wave-of-ai-driven-ro",
-      "publishedAt": "2025-12-09T07:53:39+00:00",
-      "date": "2025-12-09 07:53:39",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://i2.ytimg.com/vi/KO5OTODmSKo/mqdefault.jpg",
-      "url": "/tech-news/2025-12-09/japan-plays-catch-up-with-new-wave-of-ai-driven-ro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "companies": [],
       "people": []
     },
     {
