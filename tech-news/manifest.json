@@ -1,15 +1,113 @@
 {
-  "generated": "2025-12-15T01:16:43.757467+00:00",
+  "generated": "2025-12-15T04:58:15.963470+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Trump povoluje Nvidia prodej čipů H200 do Číny: Proč dává protivníkovi přístup k pokročilým AI polovodičům – a co za to?",
-      "description": "Prezident Trump oznámil, že Nvidia smí exportovat svůj pokročilý čip H200 do Číny, přičemž americké ministerstvo financí si nechá 25 procent z prodejů. Toto rozhodnutí kontrastuje s jeho dřívější tvrdou linií vůči Pekingu v oblasti obchodu a bezpečnosti.",
+      "title": "Google ničí pracovní místa v zákaznickém servisu umělou inteligencí",
+      "description": "API Gemini Live od Googlu není jen dalším nástrojem pro podporu zákazníků. Nabízí firmám přímou náhradu lidských pracovníků ve velkém měřítku díky kombinaci hlasu, vidění a textu v reálném čase s nízkou latencí a vnímáním emocí.",
+      "slug": "google-is-killing-customer-service-jobs-with-ai",
+      "publishedAt": "2025-12-14T04:12:57+00:00",
+      "date": "2025-12-14 04:12:57",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-14/google-is-killing-customer-service-jobs-with-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Top 10 kyberbezpečnostních incidentů roku 2025",
+      "description": "Rok 2025 uzavřel sérií rekordních kyberútoků s dosud nevídanými ekonomickými dopady, jako 1,9 miliardy liber škod pro britskou ekonomiku či DDoS útok o síle 29,7 Tbps. Článek shrnuje 10 nejvýznamnějších incidentů rozdělených do kategorií útoky na dodavatelské řetězce, cloudové služby, objemové útoky, zero-day exploity a vládní porušení.",
+      "slug": "top-10-cybersecurity-incidents-of-2025",
+      "publishedAt": "2025-12-14T04:00:00+00:00",
+      "date": "2025-12-14 04:00:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2025/12/man-in-black-jacket-using-computer-optimized.jpg",
+      "url": "/tech-news/2025-12-14/top-10-cybersecurity-incidents-of-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hongkong a Indie pohánějí rekordní rok získávání kapitálu v Asii",
+      "description": "Před nedávnem byl hongkongský trh s prodejem akcií symbolem zpomalení Číny: objednávky byly tenké, nálada investorů kyselá a bankéři odcházeli z oboru. Letos se situace obrátila.",
+      "slug": "hong-kong-india-fuel-blockbuster-year-for-asia-fun",
+      "publishedAt": "2025-12-14T03:24:24+00:00",
+      "date": "2025-12-14 03:24:24",
+      "importance": 4,
+      "category": "získávání kapitálu",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/14/1600x900/logo/arrow_1765681976759_1765681977003.jpg",
+      "url": "/tech-news/2025-12-14/hong-kong-india-fuel-blockbuster-year-for-asia-fun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čína odmítá čipy Nvidia H200 a podkopává strategii USA, říká Sacks",
+      "description": "Čína prokoukla americkou strategii umožňující dovoz čipů Nvidia H200 a odmítá je ve prospěch domácích polovodičů, uvedl David Sacks z Bílého domu s odkazem na zprávy. To zpochybňuje možnosti Nvidie získat příjmy z čínského trhu.",
+      "slug": "china-is-rejecting-nvidias-h200-chips-outfoxing-us",
+      "publishedAt": "2025-12-14T02:22:05+00:00",
+      "date": "2025-12-14 02:22:05",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-14%2Faxodblfs%2F445893721.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-14/china-is-rejecting-nvidias-h200-chips-outfoxing-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "David Sacks"
+      ]
+    },
+    {
+      "title": "SpaceX má hodnotu 800 miliard dolarů, tvrdí zpráva. To je teprve začátek.",
+      "description": "Sekundární nabídka akcií SpaceX, která poskytuje likviditu insiderům, ohodnotila raketovou společnost na 800 miliard dolarů podle Bloombergu. Tato valuace překonává OpenAI i mateřskou firmu TikToku ByteDance.",
+      "slug": "spacex-is-worth-800-billion-report-says-this-is-on",
+      "publishedAt": "2025-12-14T02:01:58+00:00",
+      "date": "2025-12-14 02:01:58",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/14/1600x900/logo/SPACEX-IPO-MUSK-0_1765677629506_1765677639066.JPG",
+      "url": "/tech-news/2025-12-14/spacex-is-worth-800-billion-report-says-this-is-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump nabízí čipy Si Ťin-pchingovi: Proč umožňuje protivníkovi přístup k pokročilým AI polovodičům – a co za to dostane?",
+      "description": "Prezident Trump oznámil, že Nvidia smí prodávat svůj čip H200 do Číny, přičemž americké ministerstvo financí obdrží 25procentní podíl z prodejů. Toto rozhodnutí kontrastuje s jeho dřívější tvrdou linií vůči Číně v oblasti obchodu a bezpečnosti.",
       "slug": "trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi",
       "publishedAt": "2025-12-14T00:00:00+00:00",
       "date": "2025-12-14 00:00:00",
       "importance": 4,
-      "category": "ai",
+      "category": "ai čipy",
       "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/1_2/1/motherboard_shutterstock_116443600.jpg?itok=d9Ln2b6x",
       "url": "/tech-news/2025-12-14/trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi/",
       "source": {
@@ -21,13 +119,13 @@
         "Nvidia"
       ],
       "people": [
-        "Trump",
+        "Donald Trump",
         "Xi Jinping"
       ]
     },
     {
       "title": "Články o Nvidia, umělé inteligenci, hackerech, robotické armádě, čipové společnosti a Paramount",
-      "description": "Čínská komunistická strana usiluje o kontrolu informačních technologií, aby formovala a censurovala komunikaci svých občanů i osob mimo hranice Číny. Tento soubor článků shrnuje klíčové události týkající se čínského vlivu v oblasti AI, čipů a kybernetické bezpečnosti.",
+      "description": "Komunistická strana Číny se snaží ovládat informační technologie jako prostředek k formování a cenzuře komunikace a názorů svých občanů i komunikace osob mimo hranice Číny.",
       "slug": "articles-on-nvidia-ai-hackers-robot-army-chip-comp",
       "publishedAt": "2025-12-14T00:00:00+00:00",
       "date": "2025-12-14 00:00:00",
@@ -4051,110 +4149,6 @@
       "companies": [
         "Nvidia"
       ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "XAI Grok 4.2 obchoduje se skutečnými penězi na reálných trzích s obchody reportovanými v reálném čase – průměrně +20 % a špička +65 % za 20 dní",
-      "description": "Model XAI Grok 4.2 provádí autonomní obchody se skutečnými penězi na kryptoměnových perpetuals s leverage až 20x a hlásí výsledky v reálném čase. Čtyři strategie na účtech po 10 000 USD dosáhly průměrného zisku 20 %, přičemž nejlepší účet vrcholil na 65 % zisku za přibližně 20 dní.",
-      "slug": "xai-grok-42-trading-real-stocks-in-real-markets-wi",
-      "publishedAt": "2025-12-08T19:55:35+00:00",
-      "date": "2025-12-08 19:55:35",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-08-at-11.47.01-AM.jpg",
-      "url": "/tech-news/2025-12-08/xai-grok-42-trading-real-stocks-in-real-markets-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump varuje: Bez jednotných pravidel bude AI zničeno v zaúkolébání – kritici upozorňují na federalizaci moci",
-      "description": "Prezident Trump plánuje vydat výkonný příkaz, který zabrání státům samostatně regulovat umělou inteligenci. Tento krok má zjednodušit schvalovací procesy, avšak kritici varují před příliš velkou koncentrací moci v rukou federální vlády.",
-      "slug": "trump-warns-without-uniform-rules-ai-will-be-destr",
-      "publishedAt": "2025-12-08T19:05:14+00:00",
-      "date": "2025-12-08 19:05:14",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LAv8UaFdRWsyQiWvQwQDga-1920-80.jpg",
-      "url": "/tech-news/2025-12-08/trump-warns-without-uniform-rules-ai-will-be-destr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Výnosnost akcií Dollar Tree a Dollar General překonává Nvidia",
-      "description": "Prezident Donald Trump oznámil plány na vydání výkonného příkazu s „JEDNIM PRAVIDLEM“ pro umělou inteligenci, které omezí regulace na úrovni amerických států. Tato iniciativa přichází současně s rozhodnutím povolit Nvidia prodej AI čipů H200 do Číny výměnou za 25procentní clo.",
-      "slug": "달러트리와-달러제너럴-주가수익률이-엔비디아-보다-높아",
-      "publishedAt": "2025-12-08T18:31:32+00:00",
-      "date": "2025-12-08 18:31:32",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fdq3I4y%2FdJMb99LEUW6%2FAAAAAAAAAAAAAAAAAAAAABGw-ZnKlfDFo9gSIbf9oYPgOhsAXrUHlvX_MfeyC2nF%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3D7SOWNqAF5ipMhHCc566edE6RssM%253D",
-      "url": "/tech-news/2025-12-08/달러트리와-달러제너럴-주가수익률이-엔비디아-보다-높아/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tistory.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Co se děje s Vodafone Germany, Mavenir a Telefónicou",
-      "description": "Vodafone Germany jmenuje nového ředitele sítí, Mavenir obměňuje vrcholový management a Telefónica vede několik jednání o fúzích a akvizicích podle CEO. Mezi klíčovými událostmi vyniká akvizice IBM společnosti Confluent za 11 miliard dolarů zaměřená na data streaming pro AI.",
-      "slug": "whats-up-with-vodafone-germany-mavenir-telefónica",
-      "publishedAt": "2025-12-08T15:49:50+00:00",
-      "date": "2025-12-08 15:49:50",
-      "importance": 5,
-      "category": "telekomunikace",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/fabrizio-rocchio-vodafone-germany-source-vodafone-germany-21474.jpg?w=1200",
-      "url": "/tech-news/2025-12-08/whats-up-with-vodafone-germany-mavenir-telefónica/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [
-        "Vodafone Germany",
-        "Mavenir",
-        "Telefónica"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump podepíše výkonný příkaz bránící státům v regulaci AI",
-      "description": "Prezident Donald Trump oznámil, že podepíše výkonný příkaz svěřující federální vládě exkluzivní pravomoc nad umělou inteligencí a zakazující státům zavádět vlastní pravidla. Podle něj je nutné mít pouze jedno pravidlo, aby USA udržely vedení v závodě o AI.",
-      "slug": "trump-to-sign-executive-order-preventing-states-fr",
-      "publishedAt": "2025-12-08T15:35:45+00:00",
-      "date": "2025-12-08 15:35:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/AI-regulation.jpg",
-      "url": "/tech-news/2025-12-08/trump-to-sign-executive-order-preventing-states-fr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
       "people": [
         "Donald Trump"
       ]
