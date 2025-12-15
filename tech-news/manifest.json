@@ -1,10 +1,53 @@
 {
-  "generated": "2025-12-15T08:59:42.072738+00:00",
+  "generated": "2025-12-15T12:58:12.025364+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Strategie ‚vydávej rychle, oprav později‘ v AI od Meta selhala. Dokáže se vrátit?",
-      "description": "Selhání strategie AI společnosti Meta ukazuje, že vývoj umělé inteligence nemůže spoléhat pouze na zrychlení vývoje a rychlé vydávání funkcí.",
+      "title": "Google Translate nyní rozumí slangům, rčím a mluví přímo přes sluchátka",
+      "description": "Aktualizace se již zavádí v USA a Indii a pokrývá překlady mezi angličtinou a téměř 20 jazyky, včetně španělštiny, hindštiny, čínštiny, japonštiny a němčiny. Je dostupná v aplikaci Translate pro Android a iOS i na webu.",
+      "slug": "google-translate-now-understands-slang-sayings-and",
+      "publishedAt": "2025-12-14T10:23:55+00:00",
+      "date": "2025-12-14 10:23:55",
+      "importance": 4,
+      "category": "překladače",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20542,resizemode-75,msid-125960289/tech/technology/google-translate-now-understands-slang-sayings-can-talk-through-your-headphones.jpg",
+      "url": "/tech-news/2025-12-14/google-translate-now-understands-slang-sayings-and/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dlouholetý investor Tesly Ross Gerber: Rok 2026 bude pro Muskovo autodílo rokem vyúčtování",
+      "description": "Investor Tesly Ross Gerber, který se stal pesimistou, tvrdí, že Elon Musk musí v roce 2026 prokázat výsledky největších iniciativ společnosti, jinak čeká odpor investorů.",
+      "slug": "longtime-tesla-investor-ross-gerber-says-2026-will",
+      "publishedAt": "2025-12-14T10:15:01+00:00",
+      "date": "2025-12-14 10:15:01",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i.insider.com/693c72ba832e0ef1ead629b1?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-14/longtime-tesla-investor-ross-gerber-says-2026-will/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Ross Gerber",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Strategie Meta ‚rychle spustit, opravit později‘ v AI selhala. Dokáže se vrátit?",
+      "description": "Selhání strategie AI společnosti Meta ukazuje, že vývoj umělé inteligence nemůže spoléhat výhradně na urychlení vývoje a rychlé vydávání funkcí.",
       "slug": "metas-ship-fast-fix-later-ai-strategy-has-failed-c",
       "publishedAt": "2025-12-14T08:16:49+00:00",
       "date": "2025-12-14 08:16:49",
@@ -23,13 +66,13 @@
       "people": []
     },
     {
-      "title": "Prodalo Disney svou duši dohodou s OpenAI Sora?",
-      "description": "Disney+ bude streamovat AI-generované videa od fanoušků. Společnost uzavřela tříletou licenci s OpenAI pro použití svých postav v generátoru videí Sora.",
+      "title": "Prodalo Disney svou duši dohodou s OpenAI o Soru?",
+      "description": "Disney uzavřelo tříletou licenci s OpenAI, která umožní uživatelům Sora generovat videa s více než 200 postavami z Disney, Marvel, Pixar a Star Wars. Tento krok následuje po ústupcích OpenAI kvůli stížnostem na zneužití autorských práv.",
       "slug": "has-disney-sold-its-soul-in-deal-with-openais-sora",
       "publishedAt": "2025-12-14T08:00:00+00:00",
       "date": "2025-12-14 08:00:00",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/VT57Xpu5ho3w3P7JT7dV3V-1000-80.jpg",
       "url": "/tech-news/2025-12-14/has-disney-sold-its-soul-in-deal-with-openais-sora/",
       "source": {
@@ -43,13 +86,13 @@
       "people": []
     },
     {
-      "title": "Poprvé AI analyzuje jazyk stejně dobře jako lidský expert",
-      "description": "Pokud je jazyk tím, co nás dělá lidmi, co to znamená nyní, když velké jazykové modely získaly metalingvistické schopnosti?",
+      "title": "Poprvé analyzuje umělá inteligence jazyk na úrovni lidského experta",
+      "description": "Pokud je jazyk tím, co nás dělá lidmi, co to znamená nyní, když velké jazykové modely získaly metajazykové schopnosti?",
       "slug": "for-the-first-time-ai-analyzes-language-as-well-as",
       "publishedAt": "2025-12-14T07:00:00+00:00",
       "date": "2025-12-14 07:00:00",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg",
       "url": "/tech-news/2025-12-14/for-the-first-time-ai-analyzes-language-as-well-as/",
       "source": {
@@ -62,12 +105,12 @@
     },
     {
       "title": "Uživatelé obviňují OpenAI, že zkazil Sora 2. EOSHD prošetřuje, co se stalo",
-      "description": "Po vydání Sora 2 pouze na pozvání byly výsledky působivé a vyvolaly nadšení. Systém se však pod zatížením zhroutil, což vedlo k masivnímu snížení kvality bez oznámení, aby umožnilo širší nasazení. EOSHD analyzuje stížnosti uživatelů a srovnává původní a současnou verzi.",
+      "description": "Po vydání Sora 2 pouze na pozvání byly výsledky působivé a vyvolaly nadšení. Systém však pod zátěží zkolaboval, OpenAI ho výrazně omezil bez oznámení a kvalita generovaných videí dramaticky klesla.",
       "slug": "users-are-complaining-openai-wreaked-sora-2-eoshd-",
       "publishedAt": "2025-12-14T06:30:12+00:00",
       "date": "2025-12-14 06:30:12",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://www.eoshd.com/wp-content/uploads/2025/12/sora.jpg",
       "url": "/tech-news/2025-12-14/users-are-complaining-openai-wreaked-sora-2-eoshd/",
       "source": {
@@ -82,7 +125,7 @@
     },
     {
       "title": "Lekce z React2Shell",
-      "description": "Kritická zranitelnost CVE-2025-55182 v Reactu umožnila neověřeným útočníkům spouštět libovolný kód na milionech serverů běžících React 19 a Next.js. Prohlášená 3. prosince 2025 s maximálním skóre CVSS 10.0, byla rychle zneužita v praxi.",
+      "description": "Analýza kritické bezpečnostní zranitelnosti CVE-2025-55182 v Reactu, která umožnila neautentizované spuštění libovolného kódu na milionech serverů během hodin po zveřejnění. Článek rozebírá příčiny v protokolu Flight a dopady na ekosystém React Server Components.",
       "slug": "lessons-from-react2shell",
       "publishedAt": "2025-12-14T06:26:30+00:00",
       "date": "2025-12-14 06:26:30",
@@ -100,7 +143,7 @@
     },
     {
       "title": "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
-      "description": "USA povolily Nvidia prodávat výkonné AI čipy H200 do Číny výměnou za 25procentní podíl na ziscích. Tato změna oslabuje exportní kontroly a riskuje posílení AI systémů v moderní válce, což staví spojence jako Austrálii před těžkými volbami mezi ekonomikou a bezpečností.",
+      "description": "USA povolily Nvidia prodávat výkonné AI čipy H200 do Číny výměnou za 25 procent zisku. Tato změna oslabuje exportní kontroly a může posílit vývoj AI systémů pro autonomní zbraně. Spojenci jako Austrálie čelí dilematu mezi ekonomickými vazbami na Čínu a bezpečnostními závazky vůči USA.",
       "slug": "with-nvidias-second-best-ai-chips-headed-for-china",
       "publishedAt": "2025-12-14T06:01:26+00:00",
       "date": "2025-12-14 06:01:26",
@@ -119,8 +162,8 @@
       "people": []
     },
     {
-      "title": "Hollywood přijímá AI: Disney vsadí miliardu dolarů na OpenAI",
-      "description": "Disney investuje miliardu dolarů do OpenAI a podepisuje tříletou licenční smlouvu, která poskytuje platformě Sora AI přístup k více než 200 postavám z Disney, Marvel, Pixar a Star Wars. Fanoušci tak mohou generovat krátké filmy poháněné AI s ikonickými postavami jako Mickey Mouse, Iron Man nebo Darth Vader, přičemž jsou vyloučeny podobnosti a hlasy herců.",
+      "title": "Hollywood přijímá umělou inteligenci: Disney investuje miliardu dolarů do OpenAI",
+      "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá tříletou licenční smlouvu, která poskytuje platformě Sora přístup k více než 200 postavám z Disney, Marvel, Pixar a Star Wars. Fanoušci mohou generovat krátké filmy poháněné AI s ikonickými postavami, bez použití podobnosti nebo hlasů herců.",
       "slug": "hollywood-embraces-ai-disney-bets-1-billion-on-ope",
       "publishedAt": "2025-12-14T06:00:00+00:00",
       "date": "2025-12-14 06:00:00",
@@ -3589,28 +3632,6 @@
       "people": []
     },
     {
-      "title": "Americké úřady odhalily pašeráckou síť Nvidia H200 do Číny, Trump současně povoluje jejich export",
-      "description": "Tři američtí podnikatelé čelí obvinění z pašování Nvidia GPU v hodnotě stovek milionů dolarů do Číny, což podle ministerstva spravedlnosti ohrožuje národní bezpečnost USA. Prezident Trump mezitím schválil export modelů H200 s 25procentní daní pro Washington.",
-      "slug": "feds-bust-nefarious-plot-to-ship-nvidia-h200s-to-c",
-      "publishedAt": "2025-12-09T15:28:54+00:00",
-      "date": "2025-12-09 15:28:54",
-      "importance": 4,
-      "category": "exportní sankce",
-      "urlToImage": "https://regmedia.co.uk/2018/02/16/jail_shutterstock.jpg",
-      "url": "/tech-news/2025-12-09/feds-bust-nefarious-plot-to-ship-nvidia-h200s-to-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
       "title": "Siemens a nVent představí společnou referenční architekturu pro AI datacentra NVIDIA",
       "description": "Siemens a nVent spojují své technologie k vytvoření referenční architektury pro hyperskalární AI datacentra s kapacitou 100 MW, určená pro systémy NVIDIA DGX SuperPOD s DGX GB200. Architektura integruje pokročilé chlazení, napájení a automatizaci pro efektivní provoz liquid-cooled AI infrastruktur.",
       "slug": "pr-siemens-and-nvent-to-release-joint-reference-ar",
@@ -3912,30 +3933,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Emergent získal strategickou investici z fondu Google AI Futures Fund",
-      "description": "Společnost Emergent, založená v roce 2025 bratry Mukundem a Madhavem Jha, oznámila strategickou investici od fondu Google AI Futures Fund. Tato platforma pro agentické intuitivní kódování umožňuje netechnickým uživatelům vytvářet plně funkční full-stack aplikace pomocí autonomních AI agentů a během pěti měsíců od spuštění dosáhla 2,5 milionu uživatelů a ročního tempa opakovaných příjmů přes 25 milionů dolarů.",
-      "slug": "emergent-gets-strategic-investment-from-googles-ai",
-      "publishedAt": "2025-12-09T04:26:49+00:00",
-      "date": "2025-12-09 04:26:49",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-622275,resizemode-75,msid-125861290/tech/funding/emergent-gets-strategic-investment-from-googles-ai-futures-fund.jpg",
-      "url": "/tech-news/2025-12-09/emergent-gets-strategic-investment-from-googles-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Emergent",
-        "Google"
-      ],
-      "people": [
-        "Mukund Jha",
-        "Madhav Jha"
-      ]
     },
     {
       "title": "Čipová válka mezi USA a Čínou v datech",

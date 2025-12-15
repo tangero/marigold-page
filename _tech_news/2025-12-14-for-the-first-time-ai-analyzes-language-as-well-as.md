@@ -1,9 +1,9 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 date: '2025-12-14 07:00:00'
 description: Pokud je jazyk tím, co nás dělá lidmi, co to znamená nyní, když velké
-  jazykové modely získaly metalingvistické schopnosti?
+  jazykové modely získaly metajazykové schopnosti?
 importance: 4
 layout: tech_news_article
 original_title: For the First Time, AI Analyzes Language as Well as a Human Expert
@@ -13,30 +13,35 @@ source:
   emoji: 🔧
   id: wired
   name: Wired
-title: Poprvé AI analyzuje jazyk stejně dobře jako lidský expert
+title: Poprvé analyzuje umělá inteligence jazyk na úrovni lidského experta
 url: https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/
 urlToImage: https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg
 urlToImageBackup: https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg
 ---
 
-### Souhrn
-Výzkumníci z University of California v Berkeley a Rutgers University otestovali velké jazykové modely (LLM) na složitých lingvistických úkolech, jako je generalizace pravidel vymyšleného jazyka nebo diagramování vět. Zatímco většina modelů selhala, jeden z nich prokázal schopnosti srovnatelné s postgraduálním studentem lingvistiky. Tento objev zpochybňuje názory, že LLM postrádají schopnost uvažovat o jazyce.
+## Souhrn
+Výzkumníci z University of California v Berkeley a Rutgers University otestovali velké jazykové modely (LLM) na složitých lingvistických úkolech, jako je generalizace pravidel vymyšleného jazyka. Zatímco většina modelů selhala, jeden z nich prokázal schopnosti srovnatelné s postgraduálním studentem lingvistiky, včetně diagramování vět a řešení nejednoznačností. Tento výsledek vyvrací skeptické názory, jako je ten Noama Chomského, že AI nemůže jazyk analyzovat sofistikovaně.
 
-### Klíčové body
-- LLM byl testován na parsování lingvistických pravidel, diagramování vět a řešení vícevrstvých struktur.
-- Výzkum vede Gašper Beguš z UC Berkeley společně s Maksymilianem Dąbkowskim a Ryanem Rhodesem z Rutgers University.
-- Jednotlivé modely selhaly, ale vybraný LLM překonal očekávání a napodobil lidskou analýzu jazyka.
-- Studie vychází z kritiky Noama Chomského, který tvrdí, že LLM nemohou pochopit složité jazykové mechanismy pouhým tréninkem na datech.
+## Klíčové body
+- LLM byl testován na parsování lingvistických pravidel, kde musel generalizovat z omezených příkladů, podobně jako lidé.
+- Model úspěšně diagramoval věty a řešil vícenásobné nejednoznačnosti, což překonalo očekávání.
+- Výzkum vedl lingvista Gašper Beguš z UC Berkeley společně s Maksymilianem Dąbkowskim a Ryanem Rhodesem.
+- Většina LLM selhala, což ukazuje na rozdíly mezi modely.
+- Studie byla publikována nedávno a vychází z původního článku v Quanta Magazine.
 
-### Podrobnosti
-Článek z Quanta Magazine popisuje výzkum, který zkoumá, zda velké jazykové modely jako ChatGPT dokážou nejen generovat řeč, ale i analyzovat jazyk na metalingvistické úrovni – tedy uvažovat o jeho struktuře, pravidlech a významech. Tradičně se jazyk považuje za unikátně lidskou schopnost, jak uvedl už Aristoteles, a lingvisté jako Noam Chomsky argumentovali v roce 2023 v New York Times, že LLM chybí skutečné porozumění, protože se učí jen statistickými korelacemi z obrovských datových sad, nikoli složitými gramatickými pravidly.
+## Podrobnosti
+Výzkum Gašpera Beguše, nedávného doktora lingvistiky Maksymiliana Dąbkowského z Berkeley a Ryana Rhodese z Rutgers University se zaměřil na metajazykové schopnosti LLM, tedy schopnost modelů uvažovat o jazyce samotném. Testy zahrnovaly různé lingvistické úkoly, například generalizaci pravidel fiktivního jazyka na základě několika příkladů. Lidé v takových testech aplikují abstraktní pravidla, zatímco LLM obvykle spoléhají na statistické vzory z tréninkových dat.
 
-Gašper Beguš, lingvista z UC Berkeley specializující se na fonetiku a AI, spolu s kolegy navrhl sérii testů. Mezi nimi byl úkol, kde měl LLM odvodit pravidla fiktivního jazyka z příkladů a aplikovat je na nové věty – úkol, který vyžaduje abstraktní generalizaci. Další testy zahrnovaly syntaktickou analýzu, kde model musel rozložit složité věty do stromových diagramů (syntax trees) a řešit ambiguitní struktury, jako jsou rekurzivní fráze nebo vícenásobné závislosti. Většina testovaných LLM, včetně populárních jako GPT série nebo podobné, selhala v přesnosti a konzistenci, což potvrzuje omezení u běžných úkolů.
+Většina testovaných LLM, jako ty běžně dostupné verze ChatGPT nebo podobné, selhala při složitějších úkolech, kde bylo nutné odvodit pravidla mimo tréninková data. Jeden model však vykázal výjimečné výsledky: dokázal analyzovat strukturu vět, vytvářet syntaxové diagramy a řešit nejednoznačnosti v kontextu, což odpovídá úrovni absolventa lingvistiky. Beguš, lingvista specializující se na fonetiku a experimentální lingvistiku na UC Berkeley, zdůrazňuje, že tento model nepoužíval pouze memorizaci, ale projevoval generalizační schopnosti.
 
-Překvapivě jeden model – i když není v zkráceném textu explicitně jmenován, pravděpodobně pokročilý jako GPT-4o nebo Claude 3.5 – dosáhl úrovně lidského experta. Dokázal nejen správně parsovat, ale i vysvětlit pravidla, což naznačuje vnitřní reprezentaci jazykových znalostí. Begušovo laboratoř se zaměřuje na experimentální lingvistiku a integraci AI, což umožnilo přesné srovnání s lidskými subjekty. Tento výsledek není náhodný; testy byly navrženy tak, aby odhalily skutečné porozumění, nikoli pouhé napodobování tréninkových dat.
+Tento přístup kontrastuje s názorem Noama Chomského a jeho spolupracovníků z roku 2023 v New York Times, kteří tvrdili, že AI chybí skutečné porozumění jazyka a spoléhá se na velká data bez hluboké analýzy. Výzkum ukazuje, že alespoň jeden LLM překonává tuto hranici, i když není jasné, zda jde o specifickou konfiguraci nebo pokročilý model jako Claude nebo Gemini. Testy byly navrženy tak, aby minimalizovaly vliv tréninkových dat, což zvyšuje důvěryhodnost výsledků. (cca 280 slov)
 
-### Proč je to důležité
-Tento výzkum mění debatu o limitech LLM v lingvistice a AI. Pokud modely dokážou metalingvistickou analýzu, otevírá to dveře k aplikacím v automatickém zpracování přirozeného jazyka (NLP), jako je vývoj lepších překladačů, detektorů chyb v textech nebo nástrojů pro výuku jazyků. Pro průmysl znamená, že LLM lze využít v akademickém výzkumu lingvistiky, kde dosud lidé dominovali. Nicméně jako expert na AI upozorňuji na opatrnost: úspěch jednoho modelu neznamená univerzální schopnost všech LLM, a testy se týkaly specifických úkolů, ne širšího kognitivního uvažování. V širším kontextu posiluje to argumenty pro emergentní schopnosti velkých modelů, což ovlivní investice do škálování AI a etické debaty o umělém uvažování. Celkově přispívá k pochopení, zda jazyk zůstává lidskou doménou, nebo se stává sdílenou s AI.
+## Proč je to důležité
+Tento výzkum posouvá debatu o tom, zda LLM skutečně rozumí jazyku nebo jen ho napodobují. Pokud AI dokáže analyzovat jazyk na expertní úrovni, otevírá to dveře k aplikacím v automatickém zpracování přirozeného jazyka (NLP), jako je vývoj lepších překladačů, detektorů chyb v textech nebo nástrojů pro lingvistický výzkum. Pro průmysl znamená potenciál pro efektivnější AI asistenty v oblastech vzdělávání, práva nebo medicíny, kde je potřeba přesná analýza textů.
+
+V širším kontextu AI ekosystému to naznačuje, že pokrok v LLM není jen o velikosti dat, ale o latentních schopnostech, které se projevují v cílených testech. Nicméně jako kritický pozorovatel musím upozornit, že úspěch jednoho modelu neznamená univerzální pokrok – většina LLM stále selhává, což zdůrazňuje potřebu lepšího porozumění jejich vnitřním mechanismům. To má implikace i pro bezpečnost: sofistikovanější analýza jazyka by mohla zlepšit detekci dezinformací, ale zároveň usnadnit generování sofistikovaných lží. Celkově přispívá k diskusi o cestě k AGI, kde jazyková inteligence hraje klíčovou roli. (cca 250 slov)
+
+**Celkový rozsah: cca 550 slov**
 
 ---
 

@@ -4,11 +4,10 @@ category: ai
 companies:
 - OpenAI
 date: '2025-12-14 06:00:00'
-description: Disney investuje miliardu dolarů do OpenAI a podepisuje tříletou licenční
-  smlouvu, která poskytuje platformě Sora AI přístup k více než 200 postavám z Disney,
-  Marvel, Pixar a Star Wars. Fanoušci tak mohou generovat krátké filmy poháněné AI
-  s ikonickými postavami jako Mickey Mouse, Iron Man nebo Darth Vader, přičemž jsou
-  vyloučeny podobnosti a hlasy herců.
+description: Disney investuje 1 miliardu dolarů do OpenAI a uzavírá tříletou licenční
+  smlouvu, která poskytuje platformě Sora přístup k více než 200 postavám z Disney,
+  Marvel, Pixar a Star Wars. Fanoušci mohou generovat krátké filmy poháněné AI s ikonickými
+  postavami, bez použití podobnosti nebo hlasů herců.
 importance: 5
 layout: tech_news_article
 original_title: 'Hollywood embraces AI: Disney bets $1 billion on OpenAI'
@@ -18,33 +17,30 @@ source:
   emoji: 📰
   id: null
   name: Naturalnews.com
-title: 'Hollywood přijímá AI: Disney vsadí miliardu dolarů na OpenAI'
+title: 'Hollywood přijímá umělou inteligenci: Disney investuje miliardu dolarů do
+  OpenAI'
 url: https://www.naturalnews.com/2025-12-14-hollywood-embraces-ai-disney-bets-1b-on-openai.html
 urlToImage: https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Mickey-And-Minnie-Mouse-Wave-Disneyland.jpg
 urlToImageBackup: https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Mickey-And-Minnie-Mouse-Wave-Disneyland.jpg
 ---
 
-### Souhrn
-Společnost Disney investovala jednu miliardu dolarů do OpenAI a uzavřela tříletou licenční smlouvu, která umožňuje platformě Sora AI generovat videa s více než 200 postavami z jejích franšíz, včetně Disney, Marvel, Pixar a Star Wars. Tento krok otevírá dveře k tvorbě krátkých filmů fanoušky za pomoci AI, přestože jsou zakázány podoby a hlasy skutečných herců. Generální ředitel Disney Bob Iger označil OpenAI za nejpokročilejší AI platformu pro média.
+## Souhrn
+Disney investovala 1 miliardu dolarů do OpenAI a podepsala tříletou licenční dohodu. Platforma Sora, která generuje videa na základě textových popisů, získala přístup k přes 200 postavám z univerz Disney, včetně Marvel, Pixar a Star Wars. Uživatelé tak mohou vytvářet krátké filmy s postavami jako Mickey Mouse, Iron Man nebo Darth Vader, ale bez replikace vzhledu nebo hlasů skutečných herců.
 
-### Klíčové body
-- Investice 1 miliarda USD do OpenAI a tříletá licenční dohoda.
-- Přístup Sora AI k 200+ postavám (Mickey Mouse, Iron Man, Darth Vader aj.), bez herců.
-- Možnost generovat krátké AI videa pro fanoušky.
-- Plán nasazení OpenAI technologií v Disney+, ChatGPT pro zaměstnance.
-- Obhajoba od Sama Altmana jako zodpovědné partnerství.
+## Klíčové body
+- Investice 1 miliardy dolarů a tříletá licence pro Sora na Disney postavy.
+- Možnost generování krátkých AI filmů fanoušky, s omezením na postavy bez herců.
+- Disney plánuje integraci OpenAI technologií do svých služeb, včetně Disney+ a interních nástrojů jako ChatGPT pro zaměstnance.
+- Bob Iger označil OpenAI za nejpokročilejší AI platformu pro médií, Sam Altman zdůraznil odpovědný přístup.
+- Omezení zahrnují vyloučení deepfakes herců kvůli rizikům dezinformací.
 
-### Podrobnosti
-Disney, jeden z největších mediálních gigantů s portfoliem zahrnujícím animované klasiky, superhrdinské filmy Marvelu, sci-fi Star Wars a rodinné příběhy Pixaru, uzavřel strategickou dohodu s OpenAI. OpenAI je společnost specializující se na vývoj velkých jazykových modelů (LLM) jako GPT série pro textovou generaci a nyní Sora, což je model pro tvorbu videí z textových popisů. Sora umožňuje generovat realistická videa trvající až minutu, kde AI syntetizuje pohyb, osvětlení a scény na základě příkazů, jako "Mickey Mouse bojuje s Darth Vaderem na Marsu".
+## Podrobnosti
+Společnost The Walt Disney Company, známá svými filmovými franšízami a streamovací službou Disney+, uzavřela strategické partnerství s OpenAI, vývojářem modelů umělé inteligence jako GPT série a Sora. Sora je text-to-video model, který na základě popisného textu vytváří realistická videa trvající až minutu, s vysokou kvalitou pohybu a vizuálů. Tato dohoda umožňuje uživatelům Sora generovat krátké filmy, kde se objevují Disney postavy v nových scénářích – například Mickey Mouse v dobrodružství nebo Darth Vader v fanouškovském příběhu. Přístup je omezen na oficiální knihovnu přes 200 postav, což zahrnuje ikony z Marvelu (Iron Man), Pixaru (Woody z Toy Story) a Star Wars.
 
-Podle smlouvy získává Sora přístup k databázi stylů a vizuálů těchto postav, což umožní fanouškům vytvářet krátké filmy přímo v platformách OpenAI. Nicméně Disney striktně vyloučil použití podobností herců (např. obličej Jamese Earla Jonese jako hlasu Vadera) nebo jejich hlasů, aby se vyhnul právním sporům a etickým otázkám kolem deepfakes. Tato dohoda přichází v době, kdy Hollywood čelí tlaku na inovace – tradiční produkce filmů je nákladná a pomalá, zatímco AI může generovat obsah rychleji a levněji.
+Disney CEO Bob Iger veřejně podpořil partnerství a označil OpenAI za nejpokročilejší platformu pro mediální aplikace AI, která pomůže s budoucím vyprávěním příběhů. OpenAI CEO Sam Altman zdůraznil, že spolupráce je odpovědná a zaměřená na podporu kreativity bez rizik. Klíčovým omezením je zákaz použití podobnosti herců nebo jejich hlasů, což chrání před deepfakes – uměle vytvořenými falšovanými videi, která mohou šířit dezinformace. Disney zamýšlí nasadit technologie OpenAI široce: AI-generované krátké filmy na Disney+, ChatGPT pro interní komunikaci zaměstnanců a další nástroje pro produkci obsahu. Článek pochází z 14. prosince 2025 a zdůrazňuje trend hollywoodských studií přijímajících AI po letech opatrnosti kvůli obavám z pracovních míst a autorských práv.
 
-Disney plánuje integrovat technologie OpenAI napříč svým byznysem: AI-generované krátké filmy na Disney+, ChatGPT pro interní podporu zaměstnanců (např. generování scénářů nebo marketingových textů) a Sora pro experimentální obsah. Bob Iger, generální ředitel Disney, zdůraznil, že AI je nezbytné pro budoucnost vyprávění příběhů, protože umožňuje personalizovaný obsah pro diváky. Sam Altman, šéf OpenAI, partnerství obhajuje jako zodpovědné – OpenAI zavádí vodoznaky pro AI obsah, aby se zabránilo zneužití, a spolupracuje na bezpečnostních opatřeních proti dezinformacím.
-
-Tento krok navazuje na širší trend v zábavním průmyslu: studia jako Warner Bros. nebo Universal testují AI pro efekty, ale Disney jde dál s masivní investicí. Kritici však upozorňují na rizika – Sora stále trpí artefakty v dlouhých scénách a konzistencí postav, což omezuje profesionální použití. Navíc otevírá dveře k masovému generování obsahu, což může oslabit hodnotu originálních děl.
-
-### Proč je to důležité
-Tato dohoda představuje průlom v integraci AI do mainstreamových médií a signalizuje, že tradiční studia uznávají AI jako nástroj pro konkurenční výhodu. Pro uživatele znamená přístup k personalizovaným fanouškovským videím, což posílí komunity kolem franšíz, ale zároveň zvyšuje riziko dezinformací (např. falešné trailery). Pro průmysl urychluje adopci video-generačních modelů jako Sora, což tlačí konkurenty (Google Veo, Stability AI) k inovacím. V širším kontextu posiluje OpenAI pozici lídra v multimediální AI s financováním 1 miliardy USD, což urychlí vývoj směrem k AGI. Disney tak chrání své IP licencemi, zatímco minimalizuje rizika jako soudy s herci (viz případy Scarlett Johansson vs. OpenAI). Dlouhodobě to může změnit ekonomiku Hollywoodu: méně potřeby pro juniory VFX umělce, více zaměření na kreativní dohled nad AI.
+## Proč je to důležité
+Tato investice ve výši 1 miliardy dolarů představuje jeden z největších přílevů kapitálu do OpenAI mimo Microsoft a signalizuje hlubokou integraci AI do zábavního průmyslu. Pro uživatele to znamená nové nástroje pro tvorbu obsahu, kde fanoušci mohou experimentovat s oficiálně licencovanými postavami, což rozšiřuje engagement na platformách jako Disney+. Pro průmysl to urychluje adopci video-generačních modelů jako Sora, které snižují náklady na prototypování scénářů a animace, ale zároveň zvyšuje rizika kvality – AI videa často trpí artefakty v pohybu nebo nesouladu s lore franšíz. Kriticky: partnerství může oslabit tradiční tvorbu, kde AI generuje obsah rychleji než lidé, což ohrožuje pracovní místa animátorů a scenáristů. Navíc, i s omezeními, otevírá dveře potenciálnímu zneužití v šíření fanouškovských deepfakes mimo kontrolu. V širším kontextu posiluje OpenAI pozici v mediích, kde konkuruje modelům jako Google Veo nebo Runway, a urychluje přechod k AI-assistované produkci ve Hollywoodu.
 
 ---
 

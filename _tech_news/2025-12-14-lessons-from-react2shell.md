@@ -2,9 +2,10 @@
 author: Marisa Aigen
 category: programování
 date: '2025-12-14 06:26:30'
-description: Kritická zranitelnost CVE-2025-55182 v Reactu umožnila neověřeným útočníkům
-  spouštět libovolný kód na milionech serverů běžících React 19 a Next.js. Prohlášená
-  3. prosince 2025 s maximálním skóre CVSS 10.0, byla rychle zneužita v praxi.
+description: Analýza kritické bezpečnostní zranitelnosti CVE-2025-55182 v Reactu,
+  která umožnila neautentizované spuštění libovolného kódu na milionech serverů během
+  hodin po zveřejnění. Článek rozebírá příčiny v protokolu Flight a dopady na ekosystém
+  React Server Components.
 importance: 5
 layout: tech_news_article
 original_title: Lessons from React2Shell
@@ -21,24 +22,26 @@ urlToImageBackup: https://media2.dev.to/dynamic/image/width=1000,height=500,fit=
 ---
 
 ## Souhrn
-3. prosince 2025 zveřejnila společnost React CVE-2025-55182, kritickou zranitelnost umožňující vzdálené spouštění kódu bez ověření s maximálním skóre CVSS 10.0. Během hodin ji útočníci zneužívali v reálném prostředí na téměř milion serverů s React 19 a Next.js. Tato chyba v protokolu Flight, součásti React Server Components, představuje největší bezpečnostní selhání frameworku po 13 letech bez významných incidentů.
+3. prosince 2025 oznámil React CVE-2025-55182, kritickou zranitelnost umožňující vzdálené spuštění kódu s maximálním skóre CVSS 10.0. Během několika hodin po zveřejnění ji útočníci exploitovali v reálném prostředí na téměř milion serverů s React 19 a Next.js. Tato chyba v protokolu Flight React Server Components představuje největší bezpečnostní selhání frameworku po 13 letech bez závažných incidentů.
 
 ## Klíčové body
-- Zranitelnost v protokolu Flight umožnila deserializaci škodlivých dat z klienta, což vedlo k provedení libovolného kódu na serveru.
-- Postihla servery s React Server Components bez nutnosti ověření, stačilo odeslat upravený HTTP požadavek.
-- Kořen problému spočíval v nedostatečné ochraně proti neověřeným datům z klienta, včetně přístupu k vlastnostem jako .then nebo .constructor.
-- React měl dříve čistý bezpečnostní záznam, pouze jedna menší XSS chyba v roce 2018 s CVSS 6.1.
-- Rychlé zneužití zdůraznilo rizika nových serializačních formátů v serverových architekturách.
+- Zranitelnost v protokolu Flight umožňuje deserializaci neověřených dat z klienta, což vede k spuštění libovolného kódu na serveru bez autentizace.
+- Postihuje React 19 a aplikace na Next.js; útok stačí odeslat HTTP požadavek na endpoint serverových komponent.
+- Kořen problému spočívá v nebezpečné deserializaci objektů, které umožňují přístup k JavaScriptovým primitivům jako .then nebo .constructor.
+- React předpokládal bezpečnost formátu serializace, místo aby považoval veškerá data z klienta za nedůvěryhodná.
+- Exploit byl okamžitě ve volné přírodě, což ohrozilo širokou škálu webových aplikací.
 
 ## Podrobnosti
-React Server Components (RSC) představují zásadní změnu v architektuře Reactu. Dříve sloužil React primárně jako knihovna pro klientskou stranu, kde se v prohlížeči vykreslovaly uživatelské rozhraní a komunikovalo se s backendem přes standardní REST nebo GraphQL API. Backend mohl být napsán v jakémkoli jazyce, například Pythonu, Go nebo Javě, podle potřeb projektu. RSC toto mění tím, že umožňují spouštět React komponenty přímo na serveru. Tyto komponenty tak mají přímý přístup k databázím, souborovým systémům nebo jiným serverovým zdrojům bez nutnosti zprostředkovatele. Data a kontext se přenáší mezi klientem a serverem pomocí vlastního serializačního formátu nazvaného Flight.
+React Server Components (RSC) představují zásadní změnu architektury Reactu. Dříve sloužil React primárně jako knihovna pro vykreslování uživatelského rozhraní v prohlížeči, kde komunikoval s backendem přes standardní REST nebo GraphQL API. Backend mohl být napsán v libovolném jazyce, jako Python, Go nebo Java. RSC umožňují spouštět React komponenty přímo na serveru, kde mají přímý přístup k databázím a dalším zdrojům, což snižuje množství přenášených dat a zlepšuje výkon.
 
-Zranitelnost CVE-2025-55182 pramení právě z tohoto protokolu. Server přijímal serializovaná data od klienta, deserializoval je a na jejich základě spouštěl kód. Útočníci dokázali vytvořit škodlivá data, která po deserializaci umožnila přístup k JavaScriptovým primitivům pro spouštění kódu, jako jsou metody .then() nebo .constructor. Tento problém nastal proto, že React se spoléhal na bezpečnost samotného formátu Flight, místo aby všechna data z klienta považoval za neověřená a aplikoval striktní validaci. Stačilo mít síťový přístup k endpointu Server Components a odeslat upravený HTTP požadavek – žádné ověření uživatele nebylo potřeba.
+Protokol Flight je vlastní formát serializace pro přenos dat a kontextu provedení mezi klientem a serverem v rámci RSC. Server přijímá serializovaná data od klienta, deserializuje je a na jejich základě spouští kód. Zranitelnost spočívá v nebezpečné deserializaci: server neověřoval data z klienta a umožňoval přístup k vlastnostem objektů, jako .then (sloužící k řízení asynchronních operací) nebo .constructor (umožňující vytváření instancí tříd). Útočník tak mohl vytvořit škodlivý payload, který po deserializaci na serveru spustí libovolný JavaScript kód.
 
-Next.js, populární framework pro React založený na Node.js, tento model dále rozšiřuje. Umožňuje vývojářům budovat serverless aplikace nebo plnohodnotné serverové renderování, kde se komponenty vykreslují na serveru a posílají se klientovi jako HTML nebo JSON. Miliony serverů tak bylo vystaveno riziku, protože mnoho projektů přešlo na RSC pro lepší výkon a menší velikost balíčků na klientovi. React tým rychle vydal záplaty, ale škody byly již způsobeny – útočníci získali shell přístup (odtud název React2Shell) a mohli instalovat malware nebo krást data.
+Útok nevyžaduje autentizaci ani speciální oprávnění – stačí síťový přístup k endpointu serverových komponent. React dosud měl vynikající bezpečnostní historii: za 13 let pouze jedna menší XSS zranitelnost s CVSS 6.1 v roce 2018. Tato chyba však ukazuje slabiny nové architektury RSC, kde se klient a server prolínají více než dříve. Next.js, populární framework pro React aplikace, integruje RSC a byl silně postižen, což ovlivnilo tisíce produkčních nasazení.
+
+Vývojáři museli okamžitě aktualizovat na patchy, ale mnoho systémů zůstalo vystavených kvůli automatickému nasazení a závislostem. Tento incident odhaluje rizika přechodu k serverově vykreslovaným komponentám, kde se tradiční principy jako "nikdy nedůvěřuj datům z klienta" oslabily.
 
 ## Proč je to důležité
-Tato krize ukazuje rizika spojená s přechodem na serverové komponenty v populárních frameworkech. React, používaný v milionech aplikací včetně těch od Facebooku (nyní Meta), Google nebo Netflixu, teď čelí důvěře v nové architektury. Vývojáři musí přehodnotit předpoklady o bezpečnosti serializace a vždy validovat vstupy z klienta. V širším kontextu to zdůrazňuje, jak rychlý vývoj nových funkcí jako RSC může vést k zero-day exploitům s maximálním dopadem. Průmysl by měl posílit audity deserializace, podobně jako u historických problémů v Java RMI nebo PHP unserialize(). Pro uživatele to znamená okamžité aktualizace a monitorování logů, protože exploit umožňoval trvalý přístup k serverům. Tento incident může zpomalit adopci RSC a donutit k přepracování bezpečnostních modelů v ekosystému JavaScriptu.
+Tato zranitelnost má široké dopady na webový vývoj: React pohání miliony aplikací a Next.js je standardem pro server-side rendering. Exploit na milionech serverů mohl vést k masivním únikům dat, ransomware nebo úplnému ovládnutí infrastruktury. V širším kontextu zdůrazňuje nutnost robustní validace v hybridních architekturách, kde se klient-server hranice stírá. Lekce pro průmysl zahrnují: vždy validovat vstupy, oddělovat serializaci od provedení kódu a testovat proti deserializačním útokům. Pro uživatele znamená riziko kompromitace webů od velkých firem po startupy, což urychlí adopci bezpečnostních nástrojů jako Snyk nebo Dependabot. Incident může zpomalit přechod na RSC a donutit React tým přepracovat bezpečnostní model Flightu.
 
 ---
 

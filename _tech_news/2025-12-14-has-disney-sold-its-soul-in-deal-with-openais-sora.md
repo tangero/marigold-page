@@ -1,11 +1,12 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 companies:
 - OpenAI
 date: '2025-12-14 08:00:00'
-description: Disney+ bude streamovat AI-generované videa od fanoušků. Společnost uzavřela
-  tříletou licenci s OpenAI pro použití svých postav v generátoru videí Sora.
+description: Disney uzavřelo tříletou licenci s OpenAI, která umožní uživatelům Sora
+  generovat videa s více než 200 postavami z Disney, Marvel, Pixar a Star Wars. Tento
+  krok následuje po ústupcích OpenAI kvůli stížnostem na zneužití autorských práv.
 importance: 4
 layout: tech_news_article
 original_title: Has Disney sold its soul in deal with OpenAI's Sora?
@@ -15,29 +16,33 @@ source:
   emoji: 📰
   id: null
   name: Creative Bloq
-title: Prodalo Disney svou duši dohodou s OpenAI Sora?
+title: Prodalo Disney svou duši dohodou s OpenAI o Soru?
 url: https://www.creativebloq.com/art/animation/has-disney-sold-its-soul-in-deal-with-openais-sora
 urlToImage: https://cdn.mos.cms.futurecdn.net/VT57Xpu5ho3w3P7JT7dV3V-1000-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/VT57Xpu5ho3w3P7JT7dV3V-1000-80.jpg
 ---
 
 ## Souhrn
-Disney uzavřel tříletou licenční dohodu s OpenAI, která umožňuje uživatelům Sora generovat krátká videa s více než 200 postavami z univerzů Disney, Marvel, Pixar a Star Wars. Tento krok následuje po žalobě na Midjourney a představuje změnu postoje k generativní AI. Disney+ plánuje streamovat tyto fanouškovské AI videa.
+Disney, který dříve žaloval společnost Midjourney za použití svých děl v AI, nyní uzavřelo dohodu s OpenAI. Tato tříletá licence umožňuje uživatelům nástroje Sora, generátoru videí z textových popisů, vytvářet krátká videa s postavami jako Mickey Mouse, Darth Vader nebo postavy z Frozen a Toy Story. Disney+ plánuje streamovat tyto fanouškovské AI videa.
 
 ## Klíčové body
-- Dohoda umožňuje generování videí s postavami jako Mickey Mouse, Black Panther, Darth Vader nebo postavy z Frozen a Toy Story.
-- OpenAI původně chtělo povolit IP bez souhlasu, ale ustoupilo tlaku mediálních firem kvůli kontroverzním výstupům.
-- Disney dříve opustil vlastní AI projekty kvůli právním a etickým problémům.
-- Sora je AI model pro tvorbu videí z textových popisů, nyní s iOS aplikací.
-- Partnerství může ovlivnit streamování na Disney+.
+- Disney licencuje více než 200 svých postav pro Sora, včetně Marvel, Pixar a Star Wars IP.
+- OpenAI původně chtělo umožnit generování s chráněnými IP bez souhlasu, ale ustoupilo po stížnostech médií.
+- Sora je AI model pro tvorbu videí z textu, nyní s iOS aplikací Sora 2.
+- Disney dříve opustilo vlastní AI projekty kvůli právním a etickým problémům.
+- Dohoda umožní Disney monetizovat AI obsah na Disney+.
 
 ## Podrobnosti
-Před několika měsíci Disney zažaloval Midjourney, tvůrce populárního AI generátoru obrázků, za porušení autorských práv. To naznačovalo odpor vůči neautorizovanému používání svých intelektuálních vlastnictví v AI. Nyní však Disney podepsal dohodu s OpenAI, která explicitně povoluje použití svých postav v Sora – modelu pro generování videí z textových popisů. Sora, uvedená v říjnu ve verzi 2 společně s iOS aplikací, měla původně umožňovat tvorbu videí s cizími IP bez omezení. OpenAI muselo couvnout po stížnostech mediálních gigantů a Motion Picture Association, které upozornily na nevhodné výstupy jako nacistický SpongeBob, rasistické zobrazení Martina Luthera Kinga Jr. nebo reklamy na „hračky z Epsteinova ostrova“. Sam Altman, šéf OpenAI, vyjádřil překvapení, ale firma omezila IP na dobrovolný opt-in od vlastníků.
+Tento článek informuje o nedávné dohodě mezi Disney a OpenAI, která markantně mění postoj animačního giganta k generativní AI. Před několika měsíci Disney zažalovalo Midjourney, tvůrce populárního AI generátoru obrázků, za porušení autorských práv tím, že model trénovali na chráněných dílech bez souhlasu. Nyní však Disney dobrovolně optovalo do systému OpenAI a licencovalo své intelektuální vlastnictví pro Sora.
 
-Disney nyní optoval naplno: uživatelé Sora mohou vytvářet videa s postavami od Mickeyho Mouse po Lilo a Stitch, Deadpoola, Dartha Vadera, Elsu z Frozen, postavy z Inside Out, Moany, Toy Story nebo Zootopie. Dohoda trvá tři roky a zahrnuje více než 200 ikonických figur. Disney má komplikovaný vztah k generativní AI – několik interních projektů bylo zrušeno kvůli právním rizikům a nesouhlasu herců. Lucasfilmovo pokusné AI Star Wars video skončilo fiaskem. Sora funguje tak, že na základě textového vstupu produkuje krátká videa až několik minut dlouhá, s realistickými pohyby a scénami. Aplikace pro iPhone umožňuje snadnou tvorbu a sdílení, což OpenAI prezentovalo jako „falešné sociální sítě“. Disney plánuje integrovat tyto fanouškovské výtvory na Disney+, což by mohlo rozšířit obsah bez nutnosti tradiční produkce. Tento krok kontrastuje s širším odporem Hollywoodu vůči AI, které ohrožuje pracovní místa animátorů a herců.
+Sora je text-to-video model od OpenAI, který generuje krátká videa na základě popisů, jako je například pohybující se postavy nebo scény. V říjnu 2024 OpenAI vydalo Sora 2 a iPhone aplikaci, která měla původně umožňovat generování s jakoukoli IP, včetně chráněných. To vyvolalo kritiku od mediálních firem a Motion Picture Association kvůli příkladům jako nacistický SpongeBob, rasistické zobrazení Martina Luthera Kinga Jr. nebo reklamy na „Epstein Island“ hračky pro děti. OpenAI proto změnilo pravidla: chráněné IP lze použít pouze s explicitním souhlasem vlastníka.
+
+Disney tuto příležitost využilo a uzavřelo tříletou dohodu, která otevírá Sora pro postavy z Disney (Mickey Mouse, Lilo & Stitch), Marvel (Black Panther, Deadpool), Pixar (Toy Story, Inside Out), Star Wars (Darth Vader) i filmů jako Frozen, Moana nebo Zootopia. Uživatelé tak budou moci vytvářet krátká videa, která Disney plánuje streamovat na Disney+. To kontrastuje s minulostí Disney, kde několik interních AI projektů selhalo kvůli právním sporům a obavám herců. Například pokus Lucasfilmu o AI Star Wars film byl označen za trapný.
+
+Tato dohoda není bez rizik. Sora, stejně jako jiné generativní modely, stále trpí halucinacemi, nepřesnostmi v pohybech a etickými problémy, jako je deepfake tvorba. OpenAI, vlastník i ChatGPT, tak získává masivní dataset Disney IP pro trénink, což posiluje jeho pozici v AI video generování.
 
 ## Proč je to důležité
-Tato dohoda signalizuje, že velké mediální firmy začínají monetizovat AI místo boje proti ní, což urychlí adopci nástrojů jako Sora v zábavním průmyslu. Pro uživatele znamená snadný přístup k personalizovanému obsahu s oblíbenými postavami, ale zvyšuje rizika nekontrolovaného šíření deepfakeů. V širším kontextu posiluje OpenAI pozici proti konkurenci jako Google Veo nebo Runway, a může inspirovat další studia k podobným licencím. Pro AI ekosystém to znamená normalizaci komerčního využití tréninkových dat z IP, což zmírní soudní spory, ale zesílí debatu o etice a právech tvůrců. Celkově to urychluje transformaci zábavy směrem k uživatelsky generovanému AI obsahu.
+Tato dohoda signalizuje shift v mediálním průmyslu: velké studia jako Disney, která dříve bojovala proti AI, nyní hledají způsoby monetizace. Pro uživatele znamená snadný přístup k fanouškovskému obsahu, ale zvyšuje rizika zneužití IP mimo licenci. V širším kontextu urychluje adopci Sora jako konkurenta nástrojům jako Runway nebo Kling AI, což může změnit produkci obsahu na sociálních sítích a streamovacích platformách. Pro AI ekosystém to ukazuje, jak licenční modely řeší právní překážky, umožňující růst bez soudních sporů, ale zároveň centralizující moc u gigantů jako OpenAI a Disney.
 
 ---
 
