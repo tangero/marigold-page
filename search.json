@@ -15,7 +15,7 @@
       "category" : "AI, LLM, OpenAI, GPT-5.2, Gemini 3 Pro",
       "tags"     : "",
       "date"     : "11.12.2025",
-      "content"  : "Společnost OpenAI uvedla na trh novou iteraci svého jazykového modelu, označenou jako GPT-5.2 Thinking. Na rozdíl od předchozích aktualizací, které se často zaměřovaly na rychlost nebo multimodalitu, se verze 5.2 soustředí primárně na posílení schopností v oblasti uvažování (reasoning) a řešení komplexních úloh. Tedy na to, v čem OpenAI poslední měsíce ztrácelo nad svými konkurenty a kde model 5.1 důvěru nezvládl obnovit. Bude líp?Z dostupných srovnávacích testů vyplývá, že model dosahuje měřitelného posunu zejména v matematice a abstraktním myšlení, čímž se snaží utéct konkurenčním modelům Gemini 3 Pro a Claude Opus 4.5. A daří se mu to. Ovšem za superprémiovou..."
+      "content"  : "Společnost OpenAI uvedla na trh novou iteraci svého jazykového modelu, označenou jako GPT-5.2. Na rozdíl od předchozích aktualizací, které se často zaměřovaly na rychlost nebo multimodalitu, se verze 5.2 soustředí primárně na posílení schopností v oblasti uvažování (reasoning) a řešení komplexních úloh. Tedy na to, v čem OpenAI poslední měsíce ztrácelo nad svými konkurenty a kde model 5.1 důvěru nezvládl obnovit. Bude líp?Z dostupných srovnávacích testů vyplývá, že model dosahuje měřitelného posunu zejména v matematice a abstraktním myšlení, čímž se snaží utéct konkurenčním modelům Gemini 3 Pro a Claude Opus 4.5. A daří se mu to. Ovšem za superprémiovou cenu.Faktická..."
     },
   
     {
@@ -321,7 +321,7 @@
       "category" : "AI, Google Gemini, generování obrázků, Nano Banana",
       "tags"     : "",
       "date"     : "7.9.2025",
-      "content"  : "Když se v srpnu zjevil obrazový model nazvaný Nano Banana, strhl se kolem toho velký povyk. Především proto, že byl prostě velmi dobrý v práci s obrázky. A tím myslím VELMI dobrý. Záhy se ukázalo, že je to dílo Google a ten jej počátkem záři začlenil do Google Gemini 2.5 Flash. Takže jej nyní mohou používat v rámci tohoto modelu všichni uživatelé. Pojďme se na Nano Banana model podívat - musím se omluvit, označení Gemini 2.5 Flash mi k srdci vážně nepřirostlo…Google Gemini 2.5 Flash je velkým posunem v oblasti generování obrázků díky své nativní multimodální architektuře. Na rozdíl od..."
+      "content"  : "Když se v srpnu zjevil obrazový model nazvaný Nano Banana, strhl se kolem toho velký povyk. Především proto, že byl prostě velmi dobrý v práci s obrázky. A tím myslím VELMI dobrý. Záhy se ukázalo, že je to dílo Google a ten jej počátkem záři začlenil do Google Gemini 2.5 Flash. Takže jej nyní mohou používat v rámci tohoto modelu všichni uživatelé. Pojďme se na Nano Banana model podívat - musím se omluvit, označení Gemini 2.5 Flash mi k srdci vážně nepřirostlo… Poznámka: Ačkoliv v menu Google najdete model pod oficiálním názvem Gemini 2.5 Flash (nebo Imagen 3), komunita a..."
     },
   
     {

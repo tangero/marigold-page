@@ -526,6 +526,10 @@ září
   <div class="entry">
     <p>Když se v srpnu zjevil obrazový model nazvaný Nano Banana, strhl se kolem toho velký povyk. Především proto, že byl prostě velmi dobrý v práci s obrázky. A tím myslím VELMI dobrý. Záhy se ukázalo, že je to dílo Google a ten jej počátkem záři začlenil do Google Gemini 2.5 Flash. Takže jej nyní mohou používat v rámci tohoto modelu všichni uživatelé. Pojďme se na Nano Banana model podívat - musím se omluvit, označení Gemini 2.5 Flash mi k srdci vážně nepřirostlo…</p>
 
+<blockquote>
+  <p>Poznámka: Ačkoliv v menu Google najdete model pod oficiálním názvem Gemini 2.5 Flash (nebo Imagen 3), komunita a vývojáři si oblíbili původní kódové označení Nano Banana, takže už ho používá i Google.</p>
+</blockquote>
+
 <p>Google Gemini 2.5 Flash je velkým posunem v oblasti generování obrázků díky své nativní multimodální architektuře. Na rozdíl od předchozích modelů byl tento systém od základu trénován na současném zpracování textu a obrázků v jediném, unifikovaném kroku. To umožňuje schopnosti přesahující prosté generování obrázků - konverzační editaci, kompozici více obrázků a logické uvažování o obrazovém obsahu. Je tedy o parník dále, než konkurenční GPT-5 a o dvě letadlové lodě Kuzněcov od modelů Anthropicu, které obrázky nějak rozpoznávají, vytvářet je ale moc neumí (definice SVG neberu v potaz).</p>
 
 <p>Použít model můžete jak na <a href="https://gemini.google.com">gemini.google.com</a> tak na <a href="https://aistudio.google.com">aistudio.google.com</a>.</p>
@@ -555,6 +559,8 @@ září
 
 <p><strong>Šablona:</strong>
 <em>“Fotorealistický [typ záběru] [subjektu], [akce nebo výraz], zasazený do [prostředí]. Scéna je osvětlena [popis osvětlení], vytváří [náladu] atmosféru. Zachyceno [detaily kamery/objektivu], s důrazem na [klíčové textury a detaily]. Obrázek by měl být ve formátu [poměr stran].”</em></p>
+
+<p>Uživatelé často nevědí, zda psát poměr stran jako –ar 16:9 (jako v Midjourney) nebo to psát slovy „širokoúhlý obrázek 16:9“. Gemini většinou preferuje přirozený jazyk.</p>
 
 <h4 id="2-stylizované-ilustrace-a-samolepky">2. Stylizované ilustrace a samolepky</h4>
 
@@ -645,6 +651,19 @@ září
 <p><img src="/assets/Model_Gemini2.5-PromptUpdate.original.png" alt="Kompozice obrázků" />
 <strong>Obrázek 10: Kompozice šatů a modelky do finální módní fotografie</strong></p>
 
+<h3 id="bonus-izometrické-obrázky">Bonus: izometrické obrázky</h3>
+
+<p>Internet v jednu dobu zachvátila poslednost izometrickými obrázky s počasím v nejrůznějších městech. Můžete je generovat i přes API a vkládat na svůj server, použijte tento prompt:</p>
+
+<p><em>Vytvořte jasnou, 45° izometrickou miniaturní 3D kreslenou scénu města Brandýs nad Labem-Stará Boleslav v České republice, která bude obsahovat jeho nejznámější památky a architektonické prvky. Použijte jemné, rafinované textury s realistickými PBR materiály a jemným, realistickým osvětlením a stíny. Integrujte aktuální povětrnostní podmínky přímo do prostředí města, abyste vytvořili působivou atmosféru.</em>
+<em>Použijte čistou, minimalistickou kompozici s jemným, jednobarevným pozadím.</em>
+<em>V horní části uprostřed umístěte název „Brandýs-Boleslav“ velkým tučným písmem, pod ním výraznou ikonu počasí, poté datum (malým písmem) a teplotu (středním písmem).</em>
+<em>Veškerý text musí být vycentrován s rovnoměrnými mezerami a může mírně překrývat vrcholy budov.</em>
+<em>Rozměr čtverce 1080 x 1080.</em></p>
+
+<p><img src="/assets/brandys-boleslav-pocasi.png" alt="Jaké bylo počasí v Brandýse?" /> <br />
+PS: Zrovna brandýský zámek to fakt netrefilo :)</p>
+
 <h2 id="osvědčené-postupy-a-strategie">Osvědčené postupy a strategie</h2>
 
 <h3 id="buďte-hyperspecifičtí">Buďte hyperspecifičtí</h3>
@@ -676,6 +695,7 @@ září
   <li>Nejlépe funguje s maximálně 3 vstupními obrázky</li>
   <li>Při generování textu v obrázcích nejprve vygenerujte text, poté požádejte o obrázek s tímto textem</li>
   <li>Nahrávání obrázků dětí není momentálně podporováno v EU a Velké Británii</li>
+  <li>Stejně tak u osob bývají velmi častá omezení, nebo jsou obličeje osob v průchodu AI změněné. Není to chyba, je to vlastnost (ochrana těch lidí)</li>
   <li>Všechny vygenerované obrázky obsahují vodoznak SynthID, aby bylo rozpoznatelné, že je to AI obrázek</li>
 </ul>
 
@@ -770,10 +790,10 @@ Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
           
             <tr>
               <td>
-                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
                   
                 </p>
               </td>
