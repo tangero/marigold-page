@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "🤖 Tohle je Game Changing AI workflow 🤡",
+      "url"      : "/item/game-changing-workflow/",
+      "category" : "AI, FOMO",
+      "tags"     : "",
+      "date"     : "15.12.2025",
+      "content"  : "K tomu se musím přiznat, jedna moje úchylka je sledování a pročítání tutoriálů s podobnými nadpisy. Kolem AI se jich rojí kupa a to i v češtině. Přepálená očekávání a ve skutečnosti marginální přínos, většinou vyjásanost nad drobnou funkcí. Tak například včera čtu “OpenAI potichu spustilo novou funkci - skupinové chaty v ChatGPT, a je to naprostý game changer pro týmovou spolupráci”. Co se stalo? Do chatu v ChatGPT můžete pozvat další lidi a mohou vidět konverzaci i psát prompty.Jistě, funkce je to dobrá, ale žádný gamechanger týmové spolupráce to není. V týmu je běžná dělba práce, někdo má něco..."
+    },
+  
+    {
       "title"    : "💰 Nový LLM OpenAI GPT-5.2 je superschopný a superdrahý",
       "url"      : "/item/openai-gpt-5-2/",
       "category" : "AI, LLM, OpenAI, GPT-5.2, Gemini 3 Pro",
@@ -26700,7 +26709,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI 💰 Nový LLM OpenAI GPT-5.2 je superschopný a superdrahý (11.12.2025) Novinky v NotebookLM: plnohodnotná mobilní aplikace a větší limity pro úpravu chatu ( 6.12.2025) ⏰ Jak vybrat správné LLM pro vaše AI použití (6.prosinec 2025) ( 1.12.2025) ⚒️ Opravdu AI nahrazuje..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI 🤖 Tohle je Game Changing AI workflow 🤡 (15.12.2025) 💰 Nový LLM OpenAI GPT-5.2 je superschopný a superdrahý (11.12.2025) Novinky v NotebookLM: plnohodnotná mobilní aplikace a větší limity pro úpravu chatu ( 6.12.2025) ⏰ Jak vybrat správné LLM pro vaše AI..."
     }
     
   
@@ -26729,7 +26738,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 13.12.2025 16:41 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 7733 Denní průměr: 266.7 LLM náklady $123.95 Celkem za období API dotazy 13514 Sessions: 163 Přeskočeno 5781 Hlavně: content_filter 🔄 Processing Pipeline (30 dní) 📥 API Fetch 13514 ⏭️ Přeskočeno (filtry) 5781 💾 Uloženo 7733 (57.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2025-12-13 245 36 209 $8.0359 100% 2025-12-12 297 41 256 $9.9348 100% 2025-12-11 246 36 210..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 15.12.2025 08:59 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 7806 Denní průměr: 251.8 LLM náklady $139.34 Celkem za období API dotazy 14002 Sessions: 173 Přeskočeno 6196 Hlavně: content_filter 🔄 Processing Pipeline (30 dní) 📥 API Fetch 14002 ⏭️ Přeskočeno (filtry) 6196 💾 Uloženo 7806 (55.7%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2025-12-15 146 23 123 $4.3967 100% 2025-12-14 295 39 256 $9.2636 100% 2025-12-13 292 47 245..."
     }
     
   
@@ -26874,6 +26883,15 @@
     ,{
       "title"    : "Technologické zprávy - 2025-12-05",
       "url"      : "/tech-news/2025-12-05/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
+      "title"    : "Technologické zprávy - 2025-12-14",
+      "url"      : "/tech-news/2025-12-14/",
       "category" : "stránka",
       "content"  : ""
     }
@@ -27349,6 +27367,15 @@
   
     
     ,{
+      "title"    : "Technologické zprávy - 2025-12-13",
+      "url"      : "/tech-news/2025-12-13/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
       "title"    : "Technologické zprávy - 2025-10-30",
       "url"      : "/tech-news/2025-10-30/",
       "category" : "stránka",
@@ -27469,7 +27496,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 255 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 7 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 76 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 256 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 7 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 76 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -29625,832 +29652,6 @@
     
       
       ,{
-        "title"    : "Ministerstvo energetiky USA vsadí velké částky na drahé malé modulární reaktory",
-        "url"      : "/tech-news/2025-12-07/doe-bets-big-on-costly-smrs/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMinisterstvo energetiky USA (DOE) udělilo dvě velké finanční dotace firmám GE-Hitachi a Holtec na vývoj a stavbu malých modulárních jaderných reaktorů (SMR) o výkonu 300 MW. GE-Hitachi vybuduje model BWRX-300 na místě bývalé elektrárny TVA v Clinch River ve východním Tennessee, zatímco Holtec připravuje dvě podobné jednotky. Tyto projekty jsou součástí snahy o rozšíření čisté jaderné energie v USA.Klíčové body DOE poskytlo substantial finanční awards dvěma firmám pro SMR o 300 MW. GE-Hitachi: BWRX-300, varný reaktor (BWR), stavba na TVA Clinch River. Holtec: Dvě plánované jednotky SMR. Projekty cílí na snížení nákladů a zrychlení výstavby oproti tradičním velkým reaktorům. Kontext:..."
-      }
-      
-      ,{
-        "title"    : "Janus hydrogel bioelektronické rozhraní indukované molekulární konkurencí pro elektroceutickou modulaci",
-        "url"      : "/tech-news/2025-12-07/molecular-competition-induced-janus-hydrogel-bioel/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVědecký článek popisuje výrobu Janus hydrogelu, který má asymetrické vlastnosti na obou stranách díky duálním gradientům struktury a složení. Tyto gradienty vznikají v jednom kroku prostřednictvím mechanismu molekulární konkurence indukovaného UV světlem, což umožňuje lepší adhezi a vodivost pro bioelektronické aplikace. Hydrogel slouží jako rozhraní pro elektroceutickou modulaci, například léčbu zranění břišní stěny, a sběr elektrofyziologických signálů.Klíčové body Výroba v jednom kroku pomocí UV světla, které spouští kompetitivní polymerizaci mezi různými monomery. 14,6násobný rozdíl v adhezi mezi stranami díky směrované migraci adhezivních skupin. Samouspořádaná vodivá síť z polypyrrolu na adhezivní straně pro mechanicko-elektrickou kopulaci. Aplikace v elektroceutice pro modulaci zranění..."
-      }
-      
-      ,{
-        "title"    : "Vícekanálová, ultraširokopásmová Rydbergová elektrometrie s optickým frekvenčním hřebenem",
-        "url"      : "/tech-news/2025-12-07/multichannel-ultra-wideband-rydberg-electrometry-w/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkum publikovaný v oblasti atomové a optické fyziky představuje metodu pro vícekanálovou Rydbergovou elektrometrii, která využívá středně infračervený optický frekvenční hřeben jako spojovací laser pro třífotonovou excitaci Rydbergových atomů. Tento přístup umožňuje rychlé přepínání mezi až sedmi Rydbergovými stavy a detekci mikrovlnového a milimetrového záření v pásmu od 1 GHz do 40 GHz. Dosavadní omezení na úzké frekvenční pásmo je tak překonáno.Klíčové body Použití optického frekvenčního hřebenu pro rychlou přípravu více než sedmi Rydbergových stavů. Detekce v širokém pásmu 1–40 GHz s možností vícekanálového přepínání. Aplikace v pokročilém kódování informací, detekci libovolných signálů a současné měření ultraširokopásmového rádiového záření. Data..."
-      }
-      
-      ,{
-        "title"    : "Aktualizace: Poradce Donalda Trumpa Alex Bruesewitz a podnikatel MAGA Michael Seifert plánují změnu v konzervativním sběru darů s důrazem na transparentnost a bezpečnost",
-        "url"      : "/tech-news/2025-12-07/update-trump-advisor-alex-bruesewitz-maga-entrepre/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMichael Seifert, zakladatel fintech společnosti PublicSquare, a Alex Bruesewitz, poradce Donalda Trumpa, oznámili spuštění platformy PSQ Impact pro sběr darů určený konzervativním kampaním. Tato platforma slibuje vyšší transparentnost a bezpečnost transakcí díky využití finančních technologií. Diskuse proběhla v podcastu The Alex Marlow Show, který vede šéfredaktor Breitbart News.Klíčové body PSQ Impact je nová fundraisingová platforma vytvořená Seifertem a Bruesewitzem, zaměřená na konzervativní příčiny. Platforma vychází z know-how PublicSquare v oblasti platebních systémů a finanční technologie. Důraz na transparentnost darů a bezpečnost proti podvodům a cenzuře. Podcast The Alex Marlow Show je dostupný na YouTube, Rumble, Apple Podcasts a Spotify. PublicSquare..."
-      }
-      
-      ,{
-        "title"    : "Halucinace AI a sofistikované kyberútoky: Technologické obavy firem pro příští rok",
-        "url"      : "/tech-news/2025-12-07/ai-hallucinations-and-sophisticated-cyberattacks-b/",
-        "category" : "tech_news",
-        "content"  : "SouhrnJames Wickett, generální ředitel firmy DryRun Security specializující se na bezpečnost AI systémů, predikuje pro rok 2026 posun v kybernetických hrozbách směrem k tzv. agent exploits, což jsou útoky zneužívající autonomii AI agentů v podnikových procesech. Nahradí tak současné prompt injection útoky a způsobí reálné škody v infrastruktuře. Halucinace AI, tedy generování falešných informací, nezmizí, ale budou lépe izolované.Klíčové body Útoky agency abuse: Zneužití autority AI agentů pro škodlivé akce skrz zdánlivě běžné požadavky. Rizika v workflow: Agenti připojení k repozitářům kódu, systémům tiketů a databázím mohou smazat produkční data nebo exfilrovat citlivé informace. Finanční dopady: Nekontrolovaní agenti spotřebovávají tisíce..."
-      }
-      
-      ,{
-        "title"    : "Pat Gelsinger chce oživit Mooreovo právo s podporou americké vlády",
-        "url"      : "/tech-news/2025-12-07/pat-gelsinger-wants-to-save-moores-law-with-a-litt/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPat Gelsinger, bývalý šéf Intelu, se po odchodu z firmy soustředí na startup xLight, který vyvíjí revoluční technologii lithografie pro výrobu polovodičů. Společnost získala předběžnou dohodu na financování až 150 milionů dolarů od amerického ministerstva obchodu, přičemž vláda se stane významným akcionářem. Cílem je překonat současné limity v lithografii a oživit Mooreovo právo, které předpokládá zdvojnásobení výpočetního výkonu každé dva roky.Klíčové body xLight vyvíjí volné elektronové lasery poháněné urychlovači částic pro lithografii, což by mělo umožnit vytváření ještě menších struktur na silikonových plátech. První silikonové pláty plánovány na rok 2028, komerční systém na 2029. Financování 150 milionů dolarů od ministerstva..."
-      }
-      
-      ,{
-        "title"    : "Japonsko čelí krizi demence – může pomoci technologie?",
-        "url"      : "/tech-news/2025-12-07/japan-is-facing-a-dementia-crisis-can-technology-h/",
-        "category" : "tech_news",
-        "content"  : "SouhrnJaponsko řeší rostoucí krizi demence způsobenou stárnoucí populací, kde loni zmizelo přes 18 000 seniorů s demencí a téměř 500 z nich bylo nalezeno mrtvých. Vláda odhaduje náklady na péči na 14 bilionů jenů do roku 2030 a sázejí na technologie jako GPS sledování, AI detekci a robotické pečovatele. Výzkumníci na univerzitě Waseda a firma Fujitsu testují nástroje pro prevenci a rychlou reakci.Klíčové body Více než 18 000 zmizení seniorů s demencí v roce 2023, dvojnásobek oproti roku 2012. Náklady na péči o demenci dosáhnou 14 bilionů jenů (90 miliard USD) do roku 2030. GPS nárůstky a wearable zařízení pro..."
-      }
-      
-      ,{
-        "title"    : "Úzkosti z celotělových vyšetření magnetickou rezonancí (nepokrytých pojišťovnou)",
-        "url"      : "/tech-news/2025-12-07/the-anxieties-of-full-body-mri-scans-not-covered-b/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSloupkař Washington Post Dana Milbank popisuje svou zkušenost s celotělovým vyšetřením magnetickou rezonancí (MRI), které stálo 2500 dolarů a nebylo hrazeno pojišťovnou. Technologie kombinuje difúzně vážené zobrazování s umělou inteligencí pro detekci malých abnormalit, jako jsou počínající nádory nebo aneurysmata. Článek zdůrazňuje, že přestože to může zachránit životy, převažují rizika falešně pozitivních výsledků a vyvolané úzkosti.Klíčové body Celotělové MRI detekuje abnormality o velikosti 2 mm pomocí difúzně váženého zobrazování a AI rozpoznávání vzorů. Náklady 2500 USD za vyšetření, nehrazeno pojišťovnami. Pro každý nalezený nádor připadá více falešně pozitivních výsledků vyžadujících biopsii. Americká kolej radiologie (ACR) nedoporučuje rutinní screening kvůli nedostatku..."
-      }
-      
-      ,{
-        "title"    : "Názor: Bublina AI je skutečná a zrodí giganty",
-        "url"      : "/tech-news/2025-12-07/view-ai-bubble-is-real-and-it-will-birth-giants/",
-        "category" : "tech_news",
-        "content"  : "SouhrnBoom v umělé inteligenci vytváří spekulativní bublinu na trzích, ale podle autora Jaspreeta Bindry je tato bublina nutná pro budování dlouhodobé infrastruktury. Firmy jako Nvidia a OpenAI dosahují rekordních valuací, zatímco investice do datových center a čipů pohánějí pokrok. Po očekávané korekci se objeví dominantní hráči.Klíčové body AI boom připomíná historické bubliny kolem železnic, elektřiny nebo internetu, které vedly k masivním investicím do nové infrastruktury. Nvidia vykázala růst zisku o 245 % za dva roky a valuaci blízko 5 bilionů dolarů; OpenAI je hodnocena na 500 miliard dolarů bez zisku do roku 2030. Fenomén AI-washing umožňuje snadné získávání financí přidáním..."
-      }
-      
-      ,{
-        "title"    : "Apple otřesené: Vysocí manažeři a inženýři odcházejí, šéf hardwarových technologií zvažuje odchod",
-        "url"      : "/tech-news/2025-12-07/apple-shaken-as-executives-engineers-step-down-har/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple prožívá největší vlnu odchodů vrcholových manažerů za desetiletí. Minulý týden odešli šéf umělé inteligence a šéf designu uživatelského rozhraní, následně generální právník a šéf vlivů na vládu. Podle zdrojů zvažuje odchod i Johny Srouji, senior viceprezident pro hardwarové technologie, klíčová figura vývoje vlastních čipů.Klíčové body Odešli čtyři přímí podřízení Timu Cookovi: šéf AI, šéf designu rozhraní, generální právník a šéf vlivů na vládu. Johny Srouji, architekt Apple Silicon (čipy A-série a M-série), informoval o úmyslu odejít do jiné firmy. Klíčoví inženýři v oblasti AI odcházejí do Meta, OpenAI a startupů, což brzdí Apple v honbě za konkurencí. Toto je..."
-      }
-      
-      ,{
-        "title"    : "Objevování Indiewebu s klidnou technologií",
-        "url"      : "/tech-news/2025-12-07/discovering-the-indieweb-with-calm-tech/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČlánek analyzuje, jak sociální sítě z původního nástroje pro spojení lidí přerostly v rušivé platformy závislé na reklamách a dopaminových impulsech. Autor představuje rozšíření prohlížeče StreetPass, které tiše sbírá Mastodon profily z webů, a svůj vlastní projekt Blog Quest pro automatické objevování RSS a Atom feedů. Oba nástroje uplatňují princip klidné technologie, který umožňuje uživateli zůstat soustředěným na aktuální činnost.Klíčové body StreetPass automaticky detekuje Mastodon verifikační odkazy na blozích a osobních webech a sbírá je do seznamu bez notifikací. Funguje na Firefoxu, Chromu a Safari jako open source rozšíření od tvůrce tvler. Blog Quest rozšiřuje tento koncept na RSS a..."
-      }
-      
-      ,{
-        "title"    : "Licitační válka šéfa Warner Bros. Discovery zničila počáteční důvěru Ellisonových – ale neodpisujte je ještě",
-        "url"      : "/tech-news/2025-12-07/warner-bros-discovery-ceos-bidding-war-destroyed-t/",
-        "category" : "tech_news",
-        "content"  : "SouhrnDavid Zaslav, generální ředitel Warner Bros. Discovery (WBD), prodal mediálního giganta za 72 miliard dolarů po licitační válce, která překonala počáteční nabídku od Skydance Paramount ve výši 56 miliard. Tato transakce více než zdvojnásobila hodnotu firmy od září, kdy akcie klesly na 12 dolarů za kus. Zaslavovo manévrování mezi zájemci, včetně Ellisonových, ukazuje na jeho strategii maximalizace ceny.Klíčové body WBD akcie v září 2025 na úrovni 12 USD, blízko ročního minima 7,50 USD. Počáteční nabídka Skydance (spojené s Davidem a Larrym Ellisonovými) 23,50 USD za akcii, celkem 56 miliard USD v hotovosti za studio, HBO Max, CNN, HBO a Discovery...."
-      }
-      
-      ,{
-        "title"    : "Bio-hybridní roboti přeměňují potravinový odpad na funkční stroje",
-        "url"      : "/tech-news/2025-12-07/bio-hybrid-robots-turn-food-waste-into-functional/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkumníci z EPFL vyvinuli experimentální robotický manipulátor, jehož klíčovou součástí jsou exoskeletové segmenty břicha langoustin získané z potravinového odpadu. Tento bio-hybridní design využívá přirozenou kombinaci tuhosti mineralizovaných skořápek a pružnosti kloubních membrán pro lepší pohybové vlastnosti. Projekt prosazuje udržitelný cyklus, kde odpad slouží jako surovina pro technologie.Klíčové body Hlavní prvky manipulátoru tvoří exoskeletové segmenty břicha langoustin, které zajišťují tuhost i flexibilitu. Výzkum probíhá v CREATE Lab na EPFL’s School of Engineering pod vedením Josie Hughes. Biologické materiály umožňují rychlé pohyby s vysokým točivým momentem, podobně jako u korýšů ve vodě. Zaměření na recyklaci potravinového odpadu pro snížení ekologické zátěže v..."
-      }
-      
-      ,{
-        "title"    : "Apple otřesené odchodem vrcholových manažerů, šéf čipového vývoje může odejít jako další",
-        "url"      : "/tech-news/2025-12-07/apple-rocked-by-executive-departures-with-chip-chi/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple prochází největší personální proměnou v posledních desetiletích, kdy v uplynulém týdnu odešli čtyři klíčoví manažeři přímo podléhající Timu Cookovi: šéf umělé inteligence, designu uživatelského rozhraní, generální právník a šéf vlivů na vládu. Navíc senior viceprezident pro hardwarové technologie Johny Srouji zvažuje odchod, což by ohrozilo vývoj vlastních čipů. Současně firma ztrácí talenty v oblasti AI na úkor konkurentů jako Meta nebo OpenAI.Klíčové body Odchod šéfů umělé inteligence a designu uživatelského rozhraní v minulém týdnu, následně generálního právníka a šéfa vlivů na vládu. Johny Srouji, architekt Apple silicon čipů (jako M-série a A-série), informoval o úvahách o odchodu do jiné..."
-      }
-      
-      ,{
-        "title"    : "Zpráva Pixalate za Q3 2025 odhaluje 1 248 mobilních aplikací registrovaných v APAC na Apple App Store a Google Play porušujících COPPA, ovlivňujících 117 milionů dětských uživatelů v USA",
-        "url"      : "/tech-news/2025-12-07/pixalates-q3-2025-report-uncovers-1248-apac-regist/",
-        "category" : "tech_news",
-        "content"  : "SouhrnZpráva Pixalate za třetí čtvrtletí 2025 analyzovala mobilní aplikace registrované v oblasti Asie a Pacifiku (APAC) a odhalila významná porušení zákona COPPA na platformách Apple App Store a Google Play. Z 1 248 aplikací určených dětem selhalo 962 v poskytnutí povinných informací o soukromí dětí a téměř všechny sdílely osobní údaje v reklamním toku bez souhlasu rodičů. Tato skutečnost ohrožuje soukromí 117 milionů dětských uživatelů v USA.Klíčové body 962 z 1 248 (77 %) aplikací chybělo adekvátní prohlášení o sběru a zpracování údajů dětí podle COPPA. 78 aplikací nemělo vůbec detekovatelnou zásady soukromí, z nichž 72 (92 %) předávalo IP..."
-      }
-      
-      ,{
-        "title"    : "Jak finanční poradci zvažují rizika AI bubliny",
-        "url"      : "/tech-news/2025-12-07/how-advisors-are-weighing-the-risks-of-an-ai-bubbl/",
-        "category" : "tech_news",
-        "content"  : "SouhrnFinanční poradci se stále více zabývají otázkou, zda současný růst akciového trhu poháněný AI technologiemi nepředstavuje bublinu. Zatímco index S&amp;amp;P 500 vzrostl o 14 procent letos, téměř polovina amerických akcií je v mínusu a 70 procent zaostává za indexem. Síla úzké skupiny firem v AI infrastruktuře, jako Nvidia nebo Broadcom, toto zkreslení maskuje a vyvolává debatu o eufórii podobné dotcom bublině z roku 2000.Klíčové body Index S&amp;amp;P 500 vzrostl o 14 procent, ale 70 procent akcií zaostává díky dominanci AI firem. Nvidia +40 procent, Broadcom +54 procent, Palantir +123 procent, Micron +177 procent, Seagate +203 procent, Western Digital +243 procent...."
-      }
-      
-      ,{
-        "title"    : "Dynamický byznys: AI agenti One NZ snižují počet volání, spotřebu energie a kyberpodvody v telekomunikační firmě",
-        "url"      : "/tech-news/2025-12-07/dynamic-business-one-nzs-ai-agents-cut-calls-energ/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost One NZ, největší telekomunikační operátor na Novém Zélandu, nasadila 31 AI agentů do svých operací, což umožňuje automatizaci úkolů od fakturace po kontrolu sítě. Tyto agenti snižují počet zákaznických volání, spotřebu energie a incidence kyberpodvodů. Firma s nasazením AI začala před pěti lety a přešla od robotické automatizace procesů k machine learningu a generativní umělé inteligenci.Klíčové body One NZ provozuje 31 AI agentů v každé části operací, včetně fakturace, řízení sítě a boje proti podvodům. Robotická automatizace procesů (RPA) nahradila potřebu 500 zaměstnanců, což představuje úsporu 20 % personálu. Nasazení AI probíhalo ve fázích: RPA, machine learning a nyní..."
-      }
-      
-      ,{
-        "title"    : "Trendy řešení umělé inteligence pro UX/UI design v roce 2026",
-        "url"      : "/tech-news/2025-12-07/ai-solutions-trends-for-uxui-design-in-2026/",
-        "category" : "tech_news",
-        "content"  : "SouhrnV roce 2026 se umělá inteligence stane centrem UX/UI designu díky pokročilé personalizaci, která analyzuje chování uživatelů v reálném čase. Rozhraní se budou dynamicky přizpůsobovat kontextu, emocím a interakcím, což nahradí statické designy chytrou automatizací. Tento vývoj zefektivní procesy designérů a zlepší zapojení uživatelů.Klíčové body Hyperpersonalizace založená na analýze chování, kontextu a emocí v reálném čase. Dynamické úpravy layoutu obsahu, barevného schématu a navigačních struktur. Aplikace v e-commerce pro přesnější doporučení produktů podle aktuálního záměru a nálady. Automatizace designových procesů, která eliminuje potřebu více statických verzí. Integrace AI nástrojů pro tvorbu intuitivních a adaptivních rozhraní.PodrobnostiČlánek popisuje, jak se v roce..."
-      }
-      
-      ,{
-        "title"    : "Firmy se stále více obracejí k crowdfundingu, protože AI vysává investiční kapitál",
-        "url"      : "/tech-news/2025-12-07/businesses-increasingly-turn-to-crowdfunding-as-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnZakladatelka irského startupu Soothing Solutions Sinéad Crowther upozorňuje, že soustředění venture capital na AI brání růstu firem v jiných sektorech a vede k obratu k crowdfundingu. Navzdory úspěšnému získání 1,2 milionu eur přes tradiční kanály se její firma uchyluje k hromadnému financování kvůli 74procentnímu poklesu investic v rozsahu 5–10 milionů eur. Tento trend potvrzuje zpráva Irish Venture Capital Association (IVCA).Klíčové body Venture capital se soustředí na AI, což způsobuje nedostatek financí pro non-tech startupy. Pokles o 74 % v investicích v kategorii 5–10 milionů eur podle IVCA Venture Pulse. Soothing Solutions, firma se sídlem v Meath, získala distribuční smlouvu ve..."
-      }
-      
-      ,{
-        "title"    : "Kritická zranitelnost v Reactu vystavuje webové servery okamžitému riziku",
-        "url"      : "/tech-news/2025-12-07/critical-react-vulnerability-puts-web-servers-at-i/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNově objevená zranitelnost v Reactu a Next.js, nazvaná React2Shell, umožňuje útočníkům dosáhnout vzdáleného provozu kódu (RCE) bez autentizace na zranitelných serverech. Chyba je katalogizována jako CVE-2025-55182 pro React a CVE-2025-66478 pro Next.js, obě s maximální závažností CVSS 10.0. Firma Wiz, specializující se na bezpečnost cloudových prostředí, varuje před vysokým rizikem pro miliony webových aplikací.Klíčové body Zranitelnost postihuje React Server Components (RSC), funkci pro serverové vykreslování uživatelských rozhraní, která zlepšuje výkon aplikací tím, že přenáší data mezi prohlížečem a serverem. Exploit vyžaduje pouze jednu speciálně upravenou HTTP požadavek, funguje na dálku přes internet bez potřeby přihlášení nebo interakce oběti. Podle testů..."
-      }
-      
-      ,{
-        "title"    : "Anthropic představuje Interviewer: Co nám řeklo 1 250 profesionálů o práci s AI",
-        "url"      : "/tech-news/2025-12-07/introducing-anthropic-interviewer-anthropic/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Anthropic, vývojář modelu Claude, spustila nástroj Anthropic Interviewer, který umožňuje provádět detailní automatizované rozhovory s uživateli AI ve velkém měřítku. Tento tool pohání Claude a slouží k získání přímého feedbacku o tom, jak lidé používají výstupy AI, jak se cítí a jaké vidí roli AI v budoucnosti. V prvním testu oslovili 1 250 profesionálů a výsledky analyzují lidští výzkumníci, přičemž nyní pozývají uživatele Claude.ai k účasti prostřednictvím pop-upu.Klíčové body Anthropic Interviewer automaticky provádí rozhovory ve velkém počtu, chrání soukromí uživatelů a poskytuje data pro analýzu. Test na 1 250 profesionálech se zaměřil na využití výstupů Claude po konverzaci, emoce..."
-      }
-      
-      ,{
-        "title"    : "Bez potu: testy potu změní monitorování zdraví",
-        "url"      : "/tech-news/2025-12-07/no-sweat-perspiration-tests-to-revolutionalise-hea/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTým z University of Technology Sydney vyvíjí nositelné náplasti, které sbírají a analyzují pot pomocí umělé inteligence. Tyto senzory by měly v reálném čase detekovat biomarkery spojené se stresem, diabetem a dalšími stavy. Technologie využívá pokroky v mikrofluidice a elektronice, ale komerční nasazení je zatím vzdálené.Klíčové body Analýza potu odhaluje biomarkery jako kortizol pro stres nebo glukózu pro diabetes. Náplasti kombinují sběr vzorků s AI pro kontinuální monitorování během dne. Faktory jako pohlaví, věk a fyzická zdatnost ovlivňují složení potu. Výzkum zdůrazňuje potřebu lepšího porozumění individuálním rozdílům v pocení. Pot je tradičně používán pro monitorování léků, nyní se rozšiřuje na..."
-      }
-      
-      ,{
-        "title"    : "Breda O&#39;Brien: Srovnávat AI s Wikipedií je jako říkat, že kolo je podobné samořídícímu vozu",
-        "url"      : "/tech-news/2025-12-07/breda-obrien-comparing-ai-to-wikipedia-is-like-say/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIrská novinářka a komentátorka Breda O’Brien varuje před naivním srovnáváním umělé inteligence s encyklopedií Wikipedia v kontextu podvádění na státních zkouškách Leaving Cert. Reforma těchto zkoušek, které slouží jako maturitní zkoušky v Irsku, probíhá chaoticky bez předchozího testování a s nedostatečným financováním laboratoří. Učitelé čelí výzvám, včetně rostoucího rizika podvádění díky AI nástrojům, které generují obsah rychleji a sofistikovaněji než tradiční zdroje.Klíčové body Reforma Leaving Cert byla zavedena naglo bez pilotního projektu, což učinilo aktuální páté ročníky pokusnými králíky v předmětech jako biologie, fyzika, chemie a obchod. Dodatečné financování pro vědecké předměty vzrostlo z 13 na 25 eur na studenta,..."
-      }
-      
-      ,{
-        "title"    : "Nový model umělé inteligence předpovídá riziko rakoviny prsu na pět let dopředu",
-        "url"      : "/tech-news/2025-12-07/new-ai-model-can-predict-5-year-breast-cancer-risk/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNový algoritmus založený na umělé inteligenci, vyvinutý na RWTH Aachen University Hospital, dokáže z mamografických snímků předpovědět riziko rozvoje rakoviny prsu u žen až na pět let dopředu, i když snímky nevykazují žádné známky onemocnění. Model klasifikuje pacientky do kategorií rizika, přičemž ženy s vysokým skóre mají čtyřnásobné riziko ve srovnání s těmi s nízkým skóre. Tento výzkum řeší limity současného screeningu, který často neodhaluje agresivní nádory včas.Klíčové body Model AI analyzuje pouze mamografické snímky bez dalších dat a předpovídá riziko na pět let. Ženy s vysokým rizikovým skóre mají 4x vyšší pravděpodobnost onemocnění než ženy s nízkým skóre. Současný..."
-      }
-      
-      ,{
-        "title"    : "Digitálně sjednocené pojišťovací systémy mohou transformovat indické zdravotnictví: studie GIM-WHO",
-        "url"      : "/tech-news/2025-12-07/digitally-unified-insurance-systems-can-transform/",
-        "category" : "tech_news",
-        "content"  : "SouhrnStudie Goaského institutu managementu (GIM), Světové zdravotnické organizace (WHO) a Nadace Billa a Melindy Gatesových ukazuje, jak digitálně integrované pojišťovací systémy zvyšují transparentnost a efektivitu v indickém zdravotnictví. Analýza, provedená ve spolupráci s ministerstvem zdravotnictví státu Kerala, zdůrazňuje roli sjednocené platformy Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PMJAY) jako testovacího prostředí pro digitální integraci. Tento přístup pomáhá snižovat fragmentaci a zlepšovat přístup k péči v rámci expanze subsidovaného pojištění.Klíčové body Sjednocení dat a procesů mezi pojišťovnami, nemocnicemi a státními orgány zlepšuje transparentnost a snižuje fragmentaci systémů. PMJAY slouží jako reálný model digitální integrace pro univerzální zdravotní pokrýtku (UHC). Studie..."
-      }
-      
-      ,{
-        "title"    : "Umělá inteligence transformuje marketing, ale lidští marketéři stále mají své místo",
-        "url"      : "/tech-news/2025-12-07/ai-is-transforming-marketing-but-heres-why-human-m/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMladý marketér s technickým pozadím popisuje, jak umělá inteligence (AI) radikálně mění marketing tím, že automatizuje tvorbu obsahu, designů, predikce chování uživatelů a optimalizaci kampaní. Přesto argumentuje, že AI není hrozbou, ale nástrojem, který uvolňuje čas pro lidskou kreativitu a strategii. Klíčem je spolupráce, kde AI zpracovává data a rutinu, zatímco lidé dodávají emoce, kulturní kontext a autentický příběh.Klíčové body AI automatizuje rutinní úkoly jako generování popisků, návrhů a analýzu dat, což zvyšuje rychlost a škálovatelnost. Lidé zůstávají nezbytní pro pochopení psychologie, emocí a kulturních nuancí, které AI nedokáže replikovat. Spolupráce s AI umožňuje marketérům soustředit se na strategii, ton..."
-      }
-      
-      ,{
-        "title"    : "Webová výkonnost 2025: Posun od optimalizace k predikci",
-        "url"      : "/tech-news/2025-12-07/web-performance-2025-the-shift-from-optimization-t/",
-        "category" : "tech_news",
-        "content"  : "SouhrnV roce 2025 došlo v prohlížečích na bázi Chromium k významnému pokroku díky dozrávání Speculation Rules API a agresivnímu přednačítání stránek. Tento vývoj umožňuje blížit se k okamžitému načítání následných stránek, i když první stránka webu zůstává mimo dosah. Na základě dat z reálného uživatelského měření (RUM) z stovek e-commerce stránek se podíl načítání pod 300 ms výrazně zvýšil.Klíčové body Dozrání Speculation Rules API umožňuje prediktivní přednačítání stránek v Chromium prohlížečích. Výrazné zlepšení výkonu u následných navigací, s časy pod 300 ms pro významný podíl načítání. Nové kategorie pro Largest Contentful Paint (LCP): Instant (&amp;lt;300 ms), Fast (&amp;lt;1000 ms), OK..."
-      }
-      
-      ,{
-        "title"    : "Apple vyřešil problém se záhybem, ale dokáže prodat skládací iPhone za 2000 dolarů?",
-        "url"      : "/tech-news/2025-12-07/apple-solved-the-crease-but-can-they-sell-a-2000-i/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple se připravuje na vstup do segmentu skládacích chytrých telefonů svým prvním zařízením, které vstupuje do klíčové fáze předvýrobou s plánovaným uvedením v roce 2026. Mezi hlavní inovace patří displej bez viditelného záhybu, systém chlazení vapor chamber a čip A20 Pro vyrobený na 2nanometrové technologii. Očekávaná cena kolem 2000 dolarů naznačuje prémiovou pozici, která by mohla ovlivnit celý trh.Klíčové body Displej bez záhybu, který odstraňuje viditelnou linii ve středu složeného panelu a zlepšuje vizuální kvalitu. Systém chlazení vapor chamber pro efektivní odvod tepla při náročných úlohách jako hraní her nebo víceúlohový provoz. Čip A20 Pro na 2nanometrové výrobní technologii pro..."
-      }
-      
-      ,{
-        "title"    : "Analýza právních obranných strategií AI firem proti žalobám o AI a mentální zdraví",
-        "url"      : "/tech-news/2025-12-07/analysis-of-the-legal-defense-strategies-being-use/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI formálně odpověděla na žalobu z srpna tohoto roku, která ji obviňuje z přispění k sebevražedné smrti 16letého chlapce po interakci s ChatGPT. Autor článku, expert na AI Lance Eliot, analyzuje klíčové prvky této odpovědi a vymezuje patnáct hlavních právních obranných strategií. Tyto strategie budou podle něj aplikovány i v podobných sporech proti jiným AI firmám.Klíčové body Žaloba se týká smrti 16letého uživatele ChatGPT, který podle žalobce byl ovlivněn interakcemi s modelem. OpenAI podala formální právní odpověď, která zahrnuje patnáct hlavních právních argumentů. Strategie jsou obecně použitelné pro všechny AI výrobce v sporech o dopady na mentální zdraví. Autor předpovídá..."
-      }
-      
-      ,{
-        "title"    : "Hlavní americká diplomatka Allison Hooker navštíví Dillí a Bengaluru od 7. do 11. prosince",
-        "url"      : "/tech-news/2025-12-07/united-states-top-diplomat-allison-hooker-to-visit/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPodsekretářka státního departamentu USA pro politické záležitosti Allison Hooker navštíví Nové Dillí a Bengaluru od 7. do 11. prosince. Cílem je posílit strategické partnerství mezi USA a Indií, zaměřené na ekonomickou spolupráci a nové technologie včetně AI a vesmírného průzkumu. Během pobytu se setká s vysokými indickými úředníky a lídry tech sektoru.Klíčové body Setkání v Novém Dillí s vrcholovými indickými představiteli, včetně zahraničního ministra Vikrama Misriho, o regionální bezpečnosti, ekonomické spolupráci a prioritách v Indo-Pacifiku. Návštěva Indian Space Research Organisation (ISRO) v Bengaluru a rozhovory s lídry v oblastech vesmíru, energetiky a technologií. Podpora amerických exportů a rozvoj partnerství v..."
-      }
-      
-      ,{
-        "title"    : "Podnikatelský úspěch: Firma podnikatele s AI v zdravotních technologiích ušetří NHS 200 milionů liber v zimě a &#39;udělá skutečný rozdíl&#39;",
-        "url"      : "/tech-news/2025-12-07/business-success-entrepreneurs-ai-health-tech-firm/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Cera, vedená Dr. Benem Maruthappuem, využívá umělou inteligenci k optimalizaci domácí péči a predikci zdravotních rizik, což umožní ušetřit britskému národnímu zdravotnickému systému NHS 200 milionů liber během zimní sezóny. Tato londýnská firma, největší v oblasti zdravotních technologií v Evropě, realizuje 2,5 milionu domácích návštěv měsíčně. Přístup snižuje počet hospitalizací tím, že identifikuje pacienty v riziku předem.Klíčové body Cera je největší evropská firma v oblasti zdravotních technologií, zaměřená na domácí péči s podporou AI. Provádí 2,5 milionu domácích návštěv měsíčně, což představuje významný podíl na trhu. Plánovaná úspora 200 milionů liber pro NHS v zimě díky snížení hospitalizací. Zakladatel..."
-      }
-      
-      ,{
-        "title"    : "AI je nástrojem pro mladší generace k dosažení snu Viksit Bharat 2047: Astronaut Shubhanshu Shukla",
-        "url"      : "/tech-news/2025-12-07/ai-is-tool-for-younger-generations-to-accomplish-d/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIndický astronaut a Group Captain Shubhanshu Shukla na úvodní akci Delhi AI Grind vyzval mladší generace k většímu využívání umělé inteligence v kosmických programech a výzkumu. Podle něj AI pomáhá řešit společenské problémy a přispívá k cíli Viksit Bharat, tedy vyvinuté Indie do roku 2047. Shukla sdílel zkušenosti z 20denní mise na vesmírné stanici, kde AI usnadnilo experimenty v mikrogravitaci a zpracování obrovských objemů dat.Klíčové body Shukla zdůraznil roli AI v kosmickém výzkumu, včetně pozorování Země, vědeckých experimentů a snížení zátěže astronautů. Během mise provedli sedm experimentů v mikrogravitaci, které indičtí vědci poprvé realizovali. Příklad využití AI: zpracování 20–22 terabajtů..."
-      }
-      
-      ,{
-        "title"    : "Prasknutí bubliny by prospělo umělé inteligenci",
-        "url"      : "/tech-news/2025-12-07/a-bursting-bubble-would-be-great-for-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČlánek tvrdí, že pokles investic do infrastruktury umělé inteligence by mohl vést k efektivnějším modelům, které by spotřebovávaly méně čipů a energie. Místo nekontrolovaného růstu datových center by nedostatek zdrojů podnítil cílené inovace, podobně jako v minulých krizích. Bez takového tlaku hrozí AI stagnace v neudržitelných velkých modelech.Klíčové body Nedostatek financí vede k „directed technical change“, tedy inovacím řízeným omezeními zdrojů. Historický příklad energetické krize v roce 1977: vývoj úsporných motorů, hybridních vozidel a raných obnovitelných zdrojů energie. Současný optimismus jako slova Erica Schmidta (bývalý šéf Google): „Bubliny jsou skvělé“, ignoruje tlak nutný pro pokrok. Bez omezení AI riskuje stagnaci,..."
-      }
-      
-      ,{
-        "title"    : "Meta spolupracuje s novinovými médii pro rozšíření obsahu AI",
-        "url"      : "/tech-news/2025-12-07/meta-partners-with-news-outlets-to-expand-ai-conte/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMeta v pátek oznámila partnerství s řadou novinových médií, jejichž obsah integruje do svého AI asistenta Meta AI. Tento krok umožní uživatelům platforem Facebook, Instagram a WhatsApp získávat aktuální zprávy, zábavní a lifestyle obsah v reálném čase při dotazech souvisejících s aktuálními událostmi. Funkce navíc poskytne odkazy na původní weby partnerů pro hlubší prozkoumání témat.Klíčové body Partnerství zahrnuje média jako CNN, Fox News, Le Monde, People, USA Today, The Daily Caller a The Washington Examiner. Meta AI tak nabídne breaking news, zábavu a lifestyle příběhy s cílem zlepšit responzivitu, přesnost a vyváženost odpovědí. Rozšíření reaguje na obtíže současných AI systémů..."
-      }
-      
-      ,{
-        "title"    : "Ukázka: Umělá inteligence Paula Grahama",
-        "url"      : "/tech-news/2025-12-07/show-hn-ai-paul-graham/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVývojář vytvořil AI agenta založeného na esejích Paula Grahama, který slouží k zodpovídání otázek o podnikání, psaní, technologiích a životě. Agent je poháněn modelem Claude 3.5 Sonnet a Nia API, což zajišťuje přesnost odpovědí prostřednictvím indexování celé sbírky esejů. Tento nástroj demonstruje praktické využití retrieval-augmented generation pro personalizované znalostní agenty.Klíčové body Agent indexuje přes 120 esejů Paula Grahama pro přesné retrieval informací. Používá Nia API k získání kontextu z textů, což minimalizuje halucinace velkých jazykových modelů. Model Claude 3.5 Sonnet zpracovává dotazy a generuje odpovědi. Příklady dotazů: Co je Collison installation, proč hackeři nebudovali Stripe, kdy bootstrapping versus financování. Cílová..."
-      }
-      
-      ,{
-        "title"    : "Amazon Kindle Scribe Colorsoft ve barvě Fig nebude dodáván do ledna 2026",
-        "url"      : "/tech-news/2025-12-07/amazon-kindle-scribe-colorsoft-fig-is-not-shipping/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAmazon plánuje vydat Kindle Scribe Colorsoft v černé variantě Graphite 10. prosince 2025 výhradně pro americký trh, zatímco verze ve barvě Fig se zpozdí na začátek roku 2026. Jedná se o 11palcovou e-čtečku s barevným displejem Kaleido 3, která podporuje psaní perem a přináší vylepšení v oblasti barevného zobrazení a ovládání pera. Tento model nahrazuje starší černobílé verze a cílí na uživatele, kteří potřebují poznámky i čtení v barvách.Klíčové body Displej: 11 palců, Kaleido 3 s rozlišením 1980×2640 (300 PPI pro černobílé), 150 PPI pro barvy, chráněný sklem. Technologie: Sharp Oxide panely s IGZO backplane pro rychlejší obnovu a přesnější..."
-      }
-      
-      ,{
-        "title"    : "Proč je kyberbezpečnost nyní strategickým páčím pro technologické firmy v době nejistoty",
-        "url"      : "/tech-news/2025-12-07/why-cybersecurity-is-now-a-strategic-lever-for-tec/",
-        "category" : "tech_news",
-        "content"  : "SouhrnKyberbezpečnost přestává být pouze technickou záležitostí IT oddělení a stává se strategickým nástrojem pro technologické společnosti, zejména v oblastech SaaS, agentických AI a rychle rostoucích odvětvích. V době ekonomické nejistoty a rostoucích očekáváním investorů ovlivňuje kybernetická odolnost valuaci firem, jejich odolnost a růstový potenciál. Článek od Kevina Smithe z Wipfli zdůrazňuje, jak firmy podporované private equity musí prokázat nejen inovace, ale i operační zralost včetně kyberbezpečnosti.Klíčové body Kybernetická rizika jsou systémovými hrozbami pro podnikání, které ovlivňují financování, akvizice a důvěru zákazníků. Slabiny jako multi-tenancy flaws nebo API exploits mohou způsobit úniky dat a výpadky služeb. Supply chain attacks a shadow..."
-      }
-      
-      ,{
-        "title"    : "Daňová kampaň poháněná umělou inteligencí pomáhá Turecku snižovat rozpočtový deficit, říká britský ekonom Ash",
-        "url"      : "/tech-news/2025-12-07/ai-driven-tax-crackdown-helps-t%C3%BCrkiye-narrow-budge/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTurecká vláda nasadila umělou inteligenci k prosazování daňové disciplíny, což podle britského ekonoma Timothyho Ashe z investiční firmy BlueBay Asset Management výrazně přispělo k snížení rozpočtového deficitu. Za prvních deset měsíců roku dosáhlo Turecko primárního přebytku 379,3 miliardy lir, přičemž AI pomohla detekovat daňové úniky a zvýšit příjmy. Soukromý sektor však pociťuje zvýšený tlak na soulad s předpisy.Klíčové body Turecký ministr financí Mehmet Şimşek zavádí digitální nástroje s umělou inteligencí k detekci daňového úniku. Primární přebytek za 10 měsíců: 379,3 miliardy ₺ (8,91 miliardy USD). Timothy Ash po své nedávné návštěvě Turecka potvrdil viditelný dopad na komerční sektor. Firmy se..."
-      }
-      
-      ,{
-        "title"    : "Nedávno se umělá inteligence přirovnávala k jaderné technologii. Proč se tedy spokojit s vlastní regulací?",
-        "url"      : "/tech-news/2025-12-07/not-long-ago-ai-was-being-compared-to-nuclear-tech/",
-        "category" : "tech_news",
-        "content"  : "SouhrnBývalý britský premiér Rishi Sunak změnil postoj k regulaci umělé inteligence: z organizátora prvního globálního summitu o bezpečnosti AI v roce 2023 se stal odpůrcem jakýchkoli zákonů. Vlády po celém světě upouštějí od přísných pravidel kvůli ekonomickým příležitostem, přestože AI jako ChatGPT se šíří rychlostí nejrychleji rostoucího softwaru v historii. Článek varuje, že čekání na katastrofu před zavedením regulací je riskantní sázka.Klíčové body Rishi Sunak pořádal v roce 2023 AI Safety Summit, nyní tvrdí, že regulace není potřeba, protože firmy jako OpenAI dobrovolně spolupracují s výzkumníky. Vlády prioritizují ekonomický růst před bezpečností, bez důkazů o širokém poškození. ChatGPT dosáhl 10..."
-      }
-      
-      ,{
-        "title"    : "Show HN: Tikpal – Váš hlasový partner s AI – Soustředění, tok, tvořba",
-        "url"      : "/tech-news/2025-12-07/show-hn-tikpal-your-ai-voice-partner-focus-flow-fo/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTikpal představuje nový hlasový asistent s umělou inteligencí, který se zaměřuje na podporu produktivity bez nutnosti neustálého pohledu na obrazovku. Vývojáři ho prezentují na platformě Hacker News jako nástroj, kde AI funguje jako pomocník pro dosažení soustředění, stavu toku a efektivní tvorby obsahu. Principem je ponechat lidskou kreativitu v centru a použít AI pouze pro urychlení procesů.Klíčové body Základní princip: Lidská kreativita jako hlavní hnací síla, AI jako akcelerátor procesů. Hlavní cíle: Snížení závislosti na obrazovkách, prevence kognitivní fragmentace a podpora dlouhodobého soustředění. Funkce: Hlasové ovládání pro plánování úkolů, generování nápadů a správu workflow bez vizuálního rozhraní. Cílová skupina: Profesionálové..."
-      }
-      
-      ,{
-        "title"    : "Proč AI společnosti nabízejí předplatné zdarma v Indii",
-        "url"      : "/tech-news/2025-12-07/why-ai-companies-are-giving-subscriptions-for-free/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAI společnosti jako Perplexity, Google a OpenAI nabízejí svá prémiová předplatná zdarma milionům uživatelů v Indii prostřednictvím partnerství s telekomunikačními operátory jako Airtel a Reliance Jio. Tato strategie slouží k rychlému získání obrovského množství uživatelských dat pro trénink modelů umělé inteligence. Nicméně absence transparentnosti v používání těchto dat vyvolává etické a právní otázky.Klíčové body Perplexity Pro (prémiová verze AI vyhledávače) zdarma s plány Airtel do července 2026, hodnota 17 000 rupií. Google AI Pro (prémiové AI funkce včetně 2 TB úložiště) zdarma na 18 měsíců přes Jio. OpenAI ChatGPT Go (nízkonákladová verze ChatGPT za 399 rupií měsíčně) zdarma na rok...."
-      }
-      
-      ,{
-        "title"    : "Generální ředitelka neziskovky podporované McKinsey sdílí 4 způsoby, jak lídři mohou efektivně zavádět AI",
-        "url"      : "/tech-news/2025-12-07/the-ceo-of-a-mckinsey-backed-employment-nonprofit/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGenerální ředitelka neziskové organizace Generation, Mona Mourshed, sdílí čtyři praktické kroky pro efektivní zavádění umělé inteligence (AI) v firmách. Podle průzkumu jejich organizace, která se zaměřuje na přípravu mladých lidí na pracovní trh a je podporována konzultační firmou McKinsey, většina zaměstnanců již AI týdně využívá, přičemž zhruba polovina se učí sama bez formálního vedení. Tato skutečnost odhaluje mezeru mezi spontánní adopcí a strukturálním přístupem od vedení.Klíčové body Většina zaměstnanců používá AI týdně, ale pouze polovina má formální školení. Firmy často selhávají v koordinaci adopce AI, což vede k neefektivnímu využití. První krok: Zajištění školení a podporu pro self-taught uživatele. Druhý..."
-      }
-      
-      ,{
-        "title"    : "AI pravděpodobně nevyhazuje váš životopis. Dělá to človéku.",
-        "url"      : "/tech-news/2025-12-07/ai-isnt-likely-throwing-out-your-r%C3%A9sum%C3%A9-a-human-is/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTechnologie, včetně AI, se stále více uplatňuje v prvních fázích náboru zaměstnanců, ale finální rozhodnutí o zamítnutí životopisu obvykle padá u lidských náborářů. Podle analýzy Business Insideru systémy jako Applicant Tracking Systems (ATS) slouží především k filtrování, ne k autonomnímu rozhodování. Lidé pak aplikace manuálně kontrolují a odmítají na základě svých preferencí.Klíčové body ATS systémy filtrují životopisy podle klíčových slov a formátu, ale nehodnotí obsah hlouběji. Studie ukazují, že až 75 % zamítnutí probíhá manuálně po počátečním screeningu. AI pomáhá s predikcí úspěšnosti kandidátů, ale lidé rozhodují o finálním vyloučení. Chyby v ATS často vedou k falešným pozitivním nebo negativním,..."
-      }
-      
-      ,{
-        "title"    : "Novinář reportoval z Palestiny. YouTube mu smazal účet s tvrzením, že je íránský agent",
-        "url"      : "/tech-news/2025-12-07/a-journalist-reported-from-palestine-youtube-delet/",
-        "category" : "tech_news",
-        "content"  : "SouhrnV únoru 2024 YouTube bez varování smazal účet britského nezávislého novináře Roberta Inlakeshe, který deset let dokumentoval izraelskou okupaci Západního břehu. Platforma postupně měnila důvody od porušení pravidel přes spam až po údajné propojení s íránskou vlivovou kampaní, aniž poskytla důkazy. Inlakesh ztratil přístup k videím, e-mailu i archivům a nemůže si vytvořit nový Google účet.Klíčové body YouTube smazal hlavní účet Inlakeshe v únoru 2024, zálohový v červenci a celý Google účet v srpnu. Důvody se měnily: porušení komunitních pravidel, spam/scam, nakonec íránská vlivová kampaň bez důkazů. Inlakesh pracoval 2019–2021 pro íránskou Press TV, ale většina obsahu byla jeho nezávislá..."
-      }
-      
-      ,{
-        "title"    : "Hyundai vstupuje do robotiky: představujeme Mobile Eccentric Droid",
-        "url"      : "/tech-news/2025-12-07/hyundai-is-the-latest-car-company-to-get-into-robo/",
-        "category" : "tech_news",
-        "content"  : "SouhrnHyundai Motor Group představila MobED, což je masově vyráběná robotická platforma pro mobilitu, navržená pro doručování poslední míle, logistiku a průmyslové úkoly. Robot opouští tradiční formy malých nákladních vozidel nebo čtyřnožců a používá jednoduchý čtyřkolový podvozek s kloubovou zavěšením pro lepší překonávání terénu. Vývoj pochází z interního výzkumného oddělení Robotics LAB, které naznačuje prohlubování vazeb mezi automobilovým průmyslem a robotikou.Klíčové body MobED (Mobile Eccentric Droid) má čtyřkolový podvozek s artikulovanou zavěšením pro nerovný terén. Platforma umožňuje různé moduly pro doručování, logistiku, průzkum nebo bezpečnost. Používá AI pro autonomní navigaci, což zvyšuje jeho univerzálnost. Hyundai Robotics LAB je nové R&amp;amp;D oddělení..."
-      }
-      
-      ,{
-        "title"    : "Šéf Peugeotu odhaluje tajnou zbraň proti čínským automobilkám: nová technologie",
-        "url"      : "/tech-news/2025-12-07/peugeot-boss-reveals-secret-weapon-to-beat-chinese/",
-        "category" : "tech_news",
-        "content"  : "SouhrnŠéf Peugeotu Alain Favey oznámil, že značka se postaví čínským automobilkám v Evropě pomocí pokročilé technologie řízení bez mechanického spojení, známé jako hypersquare steer-by-wire. Tato technologie debutuje v konceptovém voze Polygon a objeví se v příští generaci modelů 208 a 2008. Cílem je odlišit se designem a jízdními vlastnostmi od konkurence.Klíčové body Peugeot zavádí hypersquare steer-by-wire, které nahrazuje mechanické spojení mezi volantem a předními koly softwarem. Volant hypersquare umožňuje variabilní převod řízení podle rychlosti a situace, což zlepšuje manévrovatelnost při parkování a stabilitu ve vysokých rychlostech. Technologie snižuje vibrace a zpětný ráz, přičemž je standardem například v Tesla Cybertruck. Favey..."
-      }
-      
-      ,{
-        "title"    : "Samsungův 4nm proces dosáhl zlepšení výtěžnosti na 60-70 %, což mu údajně zajistilo objednávku za 100 milionů dolarů na Omni Processing Unit pro americkou firmu",
-        "url"      : "/tech-news/2025-12-07/samsungs-4nm-process-has-witnessed-yield-improveme/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSamsung dosáhl významného zlepšení výtěžnosti na svém 4nm výrobním procesu na úroveň 60-70 %, což mu umožnilo získat objednávku v hodnotě přes 100 milionů dolarů (přibližně 150 miliard korun jihokorejských wonů) od americké AI společnosti Tsavorite Scalable Intelligence. Tato firma si objednala Omni Processing Unity (OPU), což jsou specializované čipy kombinující CPU, GPU a paměť v jediném balení pro urychlení AI úloh. Zlepšení pomáhá Samsungu stabilizovat svůj foundry byznys, který dlouho trpěl nízkými výtěžnostmi.Klíčové body Výtěžnost 4nm procesu stoupla na 60-70 %, což je výrazné zlepšení oproti předchozím problémům. Objednávka za více než 100 milionů USD na OPU čipy pro..."
-      }
-      
-      ,{
-        "title"    : "Akcie společnosti Credo Technology stoupají. Je to perspektivní AI investice pro rok 2026?",
-        "url"      : "/tech-news/2025-12-07/credo-technology-stock-is-soaring-is-this-a-top-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAkcie společnosti Credo Technology, která se specializuje na vysokorychlostní přenosová řešení pro datová centra, v posledních měsících výrazně rostou díky boomu umělé inteligence. Investoři vidí v ní klíčového dodavatele komponent pro AI tréninkové clustery, ale otázka zůstává, zda tento růst udrží dlouhodobě.Klíčové body Akcie CRDO vzrostly o více než 100 % za rok díky poptávce po 800G optických transceiverech. Firma dodává technologie pro hyperskalery jako Microsoft a Google, kteří rozšiřují AI infrastrukturu. Očekávaný růst trhu s AI konektivitou na 20 miliard dolarů do roku 2026. Rizika: závislost na Nvidia a možný zpomalení AI investic. Tržní kapitalizace překročila 5 miliard dolarů.PodrobnostiCredo..."
-      }
-      
-      ,{
-        "title"    : "CoMotion GLOBAL 2025 startuje v Rijádu: Světoví lídři v městské mobilitě se scházejí v saúdské metropoli, aby nakreslili budoucnost měst",
-        "url"      : "/tech-news/2025-12-07/comotion-global-2025-launches-in-riyadh-global-mob/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSummit CoMotion GLOBAL 2025 zahájil v Rijádu, kde se scházejí lídři městské mobility z celého světa na třídenní akci od 7. do 9. prosince. Event představuje novou iniciativu Mayors in Motion a vyznamenání CoMotion Urban Visionary Distinction. Rijád se profiluje jako laboratoř pro nasazení technologií jako elektrifikace, autonomní systémy a AI v dopravě.Klíčové body Zahájení iniciativy Mayors in Motion, která spojuje starosty měst pro sdílení zkušeností s urban mobility. Udělení vyznamenání CoMotion Urban Visionary Distinction za inovativní přístupy k městské dopravě. Zaměření na technologie jako elektrická vozidla (EVs), autonomní flotily a AI-enabled transport. Rijád jako testovací plocha pro giga-projekty urbanismu..."
-      }
-      
-      ,{
-        "title"    : "Předpovědi trendů v zákaznickém servisu a CX pro rok 2026 (Část první)",
-        "url"      : "/tech-news/2025-12-07/customer-service-and-cx-trends-predictions-part-on/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČlánek Shepa Hykena, experta na zákaznický servis a CX, publikovaný na Forbes, uvádí první pět predikcí trendů pro rok 2026. Tyto trendy se zaměřují na základní principy, které nejsou přímo závislé na AI, i když technologie je mohou podporovat. Klíčové body zahrnují rostoucí očekávání zákazníků a posun k proaktivnímu servisu.Klíčové body Zákazníci jsou chytřejší a porovnávají firmy s top značkami jako Amazon, Apple nebo Ritz-Carlton, nikoli s přímými konkurenty. Proaktivní servis se stává konkurenční výhodou tím, že firmy řeší problémy dříve, než zákazníci zareagují. Trendy nejsou specificky vázány na AI, ale technologie jako notifikační systémy je mohou zesílit. Článek je..."
-      }
-      
-      ,{
-        "title"    : "Velikost trhu s tetrachlorkem křemíku dosáhne 3,47 miliardy USD do roku 2032 díky rostoucí poptávce v optických vláknech | SNS Insider",
-        "url"      : "/tech-news/2025-12-07/silicon-tetrachloride-market-size-to-reach-usd-347/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPodle analýzy SNS Insider dosáhne globální trh s tetrachlorkem křemíku (silicon tetrachloride) hodnoty 3,47 miliardy USD do roku 2032, přičemž v roce 2024 činil 2,51 miliardy USD s očekávaným ročním růstem (CAGR) 4,12 % v období 2025–2032. Růst je tažen poptávkou z oblastí solárních fotovoltaických panelů, polovodičů a optických vláken. V USA, kde dominuje díky silnému ekosystému polovodičů a elektroniky, vzroste trh z 443 milionů USD v roce 2024 na 605 milionů USD do roku 2032 s CAGR 3,97 %.Klíčové body Globální trh: 2,51 miliardy USD (2024) → 3,47 miliardy USD (2032), CAGR 4,12 %. USA trh: 443 milionů USD..."
-      }
-      
-      ,{
-        "title"    : "Austrálané považují umělou inteligenci za hlavní hrozbu pro lidi a firmy: průzkum",
-        "url"      : "/tech-news/2025-12-07/australians-see-ai-as-leading-threat-to-people-and/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrůzkum Australské národní univerzity (Australian National University National Security College) ukázal, že 77 procent respondentů považuje použití umělé inteligence k útokům na australské lidi a firmy za nejzávažnější hrozbu v příštím desetiletí. Tato obava překonává i rizika ekonomické krize nebo klimatických změn. Data pocházejí z dvou průzkumů s více než 12 tisíci účastníky z listopadu 2024 a července 2025.Klíčové body Použití AI k útokům na lidi a firmy: 77 % (nejvyšší, 40 % jako “velmi závažné”). Těžká ekonomická krize: 75 %. Narušení kritických dodávek kvůli zahraniční krizi: 74 %. Šíření falešných informací k podvodům: 73 %. Zahraniční interference v politice,..."
-      }
-      
-      ,{
-        "title"    : "Fenomen Jeopardy – Chris Coyier",
-        "url"      : "/tech-news/2025-12-07/the-jeopardy-phenomenon-chris-coyier/",
-        "category" : "tech_news",
-        "content"  : "SouhrnChris Coyier, zakladatel platformy CodePen pro sdílení a testování webového kódu, popisuje tzv. fenomen Jeopardy v kontextu umělé inteligence. Jedná se o situaci, kdy obsah mimo naši expertizu působí věrohodně, zatímco expert okamžitě pozná nesrovnalosti. Tento jev platí i pro kód generovaný AI, kde laik vidí úspěch, ale odborník odhalí nedostatky.Klíčové body Fenomen Jeopardy pochází z pozorování novinových článků: neznámé témata vypadají dobře, známá mají chyby. V kvízu Jeopardy působí otázky obtížně, pokud o tématu nevíte nic, ale expert je považuje za triviální. AI generovaný kód funguje na první pohled mimo expertizu, ale skrývá problémy v hlubších vrstvách. Coyier vyzývá..."
-      }
-      
-      ,{
-        "title"    : "Průvodce obráceného kentaura pro kritiku umělé inteligence",
-        "url"      : "/tech-news/2025-12-07/the-reverse-centaurs-guide-to-criticizing-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnCory Doctorow, spisovatel science fiction a kritik technologických trendů, přednesl řeč „The Reverse Centaur’s Guide to Criticizing AI“ pro sérii přednášek „Neuroscience, AI and Society“ na University of Washington. V ní popisuje svou roli jako tvůrce futuristických paraboly, které zkoumají nejen funkce technologií, ale především jejich sociální dopady – kdo z nich těží a kdo trpí. Zdůrazňuje, že nepředpovídá budoucnost, což by podle něj znamenalo rezignaci na možnost jejího ovlivnění.Klíčové body Science fiction slouží k analýze současných technologicko-společenských uspořádání, nikoli k předpovídání. Předvídatelná budoucnost by znamenala nemožnost zásahu, což je podle Doctorowa „mizerná perspektiva“. Mnoho lidí si plete sci-fi s..."
-      }
-      
-      ,{
-        "title"    : "FO° Exkluzivní: 650 miliard dolarů ročně? Čísla za boomem umělé inteligence se neshodují",
-        "url"      : "/tech-news/2025-12-07/fo-exclusive-650-billion-a-year-the-numbers-behind/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAtul Singh a Glenn Carle v exkluzivním článku FO° zkoumají, zda očekávané roční příjmy z AI v objemu 650 miliard dolarů drží vodu. Diskutují rostoucí obavy z bubliny na americkém akciovém trhu, kde technologie, zejména AI, tlačí valuace akcií do extrémů. Autoři poukazují na nesrovnalosti mezi hypeem a skutečnými finančními toky.Klíčové body Očekávané příjmy AI: 650 miliard dolarů ročně, ale současné tržby klíčových firem jako Nvidia nebo OpenAI nedosahují ani zlomek této částky. Burzovní valuace: Akcie technologických gigantů rostou na spekulacích o AGI, přestože komerční aplikace AI generují minimální zisky. Geopolitický kontext: Napětí kolem Tchaj-wanu ovlivňuje dodavatelské řetězce čipů, což..."
-      }
-      
-      ,{
-        "title"    : "Výzkumníci vytvořili optotaktilní povrchy pro 3D displeje, které lze vidět i cítit",
-        "url"      : "/tech-news/2025-12-07/researchers-create-optotactile-surfaces-for-3d-dis/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkumníci z University of California v Santa Barbaře (UCSB) vyvinuli optotaktilní povrchy, které umožňují současné vizuální i hmatové vnímání dynamických grafik. Každý pixel na tenkém povrchu se zvedá do hmatatelného hrbolku až o jeden milimetr díky pulzům projektovaného světla, které zahřívá vzduch v malé dutině. Technologie nevyžaduje vestavěnou elektroniku ani kabely a byla popsána ve studii publikované v časopise Science Robotics.Klíčové body Pixely fungují na principu foto-termické expanze: laserový paprsek zahřívá grafitovou fólii, která rychle ohřeje vzduch v dutině pod membránou a posune povrch ven. Rychlost odezvy od 2 do 100 milisekund umožňuje zobrazení plynulých tvarů, kontur a znaků. Vyrobeno..."
-      }
-      
-      ,{
-        "title"    : "Trh s obchodováním energií a řízením rizik dosáhne do roku 2033 hodnoty 61,59 miliardy dolarů | Zpráva od SNS Insider",
-        "url"      : "/tech-news/2025-12-07/energy-trading-risk-management-market-size-to-hit/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTrh s Energy Trading and Risk Management (ETRM), což jsou systémy pro obchodování s energiemi a řízení souvisejících rizik, vykazuje stabilní růst. Podle zprávy analytické firmy SNS Insider, která se specializuje na průmyslové tržní výzkumy, dosáhne globální hodnota tohoto trhu 61,59 miliardy USD do roku 2033 z úrovně 41,06 miliardy USD v roce 2025, při CAGR 5,2 %. V USA se očekává růst z 10,8 miliardy USD na 13,62 miliardy USD.Klíčové body Globální trh ETRM: 41,06 miliardy USD (2025) → 61,59 miliardy USD (2033), CAGR 5,2 %. Americký trh: 10,8 miliardy USD (2025) → 13,62 miliardy USD (2033). Hlavní faktory..."
-      }
-      
-      ,{
-        "title"    : "Tolik kryptoměn není ani skutečných – ale to se začíná měnit",
-        "url"      : "/tech-news/2025-12-07/so-much-of-crypto-is-not-even-realbut-thats-starti/",
-        "category" : "tech_news",
-        "content"  : "SouhrnKryptoměnový ekosystém byl dlouho charakterizován spekulacemi a spekulativními aplikacemi, které připomínaly kasino. Nedávný posun nastal díky stablecoins, jejichž oběh překročil 280 miliard dolarů, a integraci do reálných finančních systémů. Tento vývoj signalizuje přechod od čisté spekulace k praktickým použitím v ekonomice.Klíčové body Oběh stablecoins dosáhl více než 280 miliard dolarů a přitahuje institucionální investory. Spekulativní aplikace jako Pump.fun, Hyperliquid a Polymarket generují většinu příjmů, přičemž memecoins tvoří až 60 % denního objemu na Solaně. Počet tokenů vzrostl z 20 000 v roce 2022 na přes 27 milionů. Tradiční finanční instituce reagují na růst stablecoins vývojem vlastních řešení. Spekulativní cykly zahrnují..."
-      }
-      
-      ,{
-        "title"    : "Top analytici z Wall Street favorizují tyto 3 akcie pro růstový potenciál",
-        "url"      : "/tech-news/2025-12-07/top-wall-street-analysts-favor-these-3-stocks-for/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTop analytici z Wall Street podle platformy TipRanks doporučují tři akcie s dlouhodobým růstovým potenciálem: Credo Technology, Walmart a další nevyjmenované. Největší pozornost vynakládají na Credo Technology díky jejím silným výsledkům v konektivitě pro AI aplikace. Tyto doporučení vycházejí z hluboké analýzy fundamentů firem v době volatility na trhu způsobené vysokými oceněními AI akcií.Klíčové body Credo Technology vykázala v druhém čtvrtletí fiskálního roku 2026 růst tržeb o 272 procent. Analytici Bank of America zvedli cenový cíl akcie CRDO na 240 dolarů z 165 dolarů a udrželi doporučení k nákupu. Platforma TipRanks přiřazuje akci CRDO hodnocení outperform s cenovým cílem 194..."
-      }
-      
-      ,{
-        "title"    : "AI přetváří bílokolíčkovou pracovní sílu v Indii, mzdový rozdíl se rozšiřuje",
-        "url"      : "/tech-news/2025-12-07/ai-reshapes-indias-white-collar-workforce-as-wage/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAI urychluje restrukturalizaci bílokolíčkových zaměstnanců v Indii tím, že odebírá střední role založené na rutinních úkolech a zvyšuje mzdy pro specializované AI talenty. Pracovníci bez pokročilých AI dovedností čelí stagnujícím nebo klesajícím platům, slabší vyjednávací síle a tlaku na přijetí dočasných kontraktů v napjatém trhu práce. Podle dat z Adecco se mzdový rozdíl v tech sektoru rychle prohlubuje, s prémiemi 15–20 % pro AI specialisty v Indii.Klíčové body AI dovednosti přinášejí 15–20 % prémií v indickém bílém límci a přes 50 % globálně, což vytváří vyšší horní pásmo mezd oproti stagnující střední úrovni. Vysoké role jako senior AI inženýři, AI..."
-      }
-      
-      ,{
-        "title"    : "Indie plánuje nástrojový balíček pro diagnostické startupy k urychlení komercializace jejich produktů",
-        "url"      : "/tech-news/2025-12-07/india-plans-toolkit-to-help-diagnostics-startups-c/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIndická vláda připravuje nástrojový balíček nazvaný MedTech Mitra’s In-Vitro Diagnostic Innovators Handbook, který má pomoci startupům a výzkumným laboratořím v oblasti diagnostiky rychleji uvádět své prototypy na trh. Tento rámec řeší regulační překážky a zkracuje cestu k tržnímu povolení. Indie, která dováží 80–85 % svých medicínských zařízení podle hodnoty, tak chce posílit domácí sektor, jenž v fiskálním roce 2023 dosáhl objemu 1,72 miliardy dolarů.Klíčové body Nástrojový balíček společně připravily Indická rada pro lékařský výzkum (ICMR), Centrální organizace pro standardizaci léků (CDSCO) a vládní think-tank NITI Aayog. Poskytuje krok za krokem průvodce od prototypu k tržnímu povolení pro in-vitro diagnostické prostředky...."
-      }
-      
-      ,{
-        "title"    : "TPU od Google mohou přinést působivý výkon, ale přehlížené omezení v dodavatelském řetězci by mohlo zastavit externí škálování ještě před zahájením",
-        "url"      : "/tech-news/2025-12-07/googles-tpus-may-deliver-impressive-performance-bu/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGoogle nedávno představil sedmou generaci svých AI čipů TPU pod názvem Ironwood, které slibují lepší celkové náklady na vlastnictví (TCO) a vyšší výkon při inferenci velkých jazykových modelů. Firmy jako Meta a Anthropic projevily zájem o jejich integraci do svých systémů, což naznačuje rostoucí externí adopci. Nicméně zprávy odhalují klíčové omezení v dodavatelském řetězci, zejména nedostatek pokročilého balení CoWoS od TSMC, které brání masové výrobě.Klíčové body Google TPUv7 Ironwood přijímá design MCM (Multi-Chip Module) s více křemíkovými čipy na interposeru pro vyšší výkon oproti monolithickým die. Zájem od Meta, Anthropic a dokonce partnerů NVIDIA jako Foxconn, kteří objednávají TPU racky...."
-      }
-      
-      ,{
-        "title"    : "AI zařízení Blue Origin z měsíčního písku pro napájení raket",
-        "url"      : "/tech-news/2025-12-07/blue-origins-moon-sand-ai-device-to-power-rockets/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Blue Origin, založená Jeffem Bezosem, společně se startupem Istari Digital vyvinula zařízení s umělou inteligencí, které přeměňuje měsíční regolit – známý také jako měsíční písek – na zdroj elektřiny pro rakety a vesmírné mise. Zařízení bylo odhaleno na konferenci Amazon re:Invent 2025 v Las Vegas a slibuje řešení klíčového problému dostupnosti energie na Měsíci, zejména během dvoutýdenní měsíční noci.Klíčové body Zařízení funguje jako vakuové zařízení, které zpracovává měsíční regolit a mění obsažené teplo na elektřinu. Umělá inteligence monitoruje provoz, ověřuje splnění požadavků a standardů pro bezpečné nasazení v bezpilotních misích. Zpracovaný regolit lze potenciálně použít jako bateriový zdroj energie...."
-      }
-      
-      ,{
-        "title"    : "Zde jsou mé top 3 akcie kvantového počítačství k nákupu v prosinci",
-        "url"      : "/tech-news/2025-12-07/here-are-my-top-3-quantum-computing-stocks-to-buy/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAutor článku na portálu Fool.com analyzuje situaci v kvantovém počítačství a doporučuje tři akcie k nákupu v prosinci 2025. Přestože technologie zažila rychlé cykly euforie a zklamání, zdůrazňuje, že investoři by měli vyhnout čistě kvantovým startupům jako Rigetti a sázet na stabilnější firmy s širším zázemím.Klíčové body Kvantové počítačství prošlo dvěma boom-and-bust cykly za méně než rok. Investoři se zaměřují na rizikové pure plays jako Rigetti Computing, které se specializují výhradně na vývoj kvantových procesorů. Autor navrhuje tři akcie s lepším potenciálem, pravděpodobně velké firmy s kvantovými divizemi jako IBM nebo Microsoft. Technologie slibuje aplikace v optimalizaci, simulaci chemických reakcí..."
-      }
-      
-      ,{
-        "title"    : "Nová tvář Hollywoodu, generovaná umělou inteligencí",
-        "url"      : "/tech-news/2025-12-07/theres-a-new-face-in-hollywood-generated-by-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnEline van der Velden představila Tilly Norwood, virtuální herečku vytvořenou výhradně pomocí generativní umělé inteligence. Projekt, inspirovaný filmem S1m0ne z roku 2002 s Al Pacinem, vyvolal v Hollywoodu kontroverze, kdy herci jako Whoopi Goldberg a Emily Blunt vyjádřili obavy z konkurence AI. Tilly však není určena pro tradiční filmové role, ale pro nové formy obsahu v AI ekosystému.Klíčové body Tilly Norwood vznikla po přibližně 2000 iteracích vývoje, včetně tréninku na vyjádření emocí a herecké výkony. Reakce herců: Whoopi Goldberg tvrdí, že AI lze odlišit od lidí („Bring it on, protože je vždycky poznáte“), Emily Blunt řekla „Good Lord, we’re screwed“...."
-      }
-      
-      ,{
-        "title"    : "Indie se stává centrem AI datových center, NeevCloud spolupracuje s globálními firmami: CEO",
-        "url"      : "/tech-news/2025-12-07/as-india-becoming-ai-data-centre-hub-company-engag/",
-        "category" : "tech_news",
-        "content"  : "SouhrnStartup NeevCloud se sídlem v Indore se profiluje jako první indický AI Supercloud určený pro výpočetně náročné AI úlohy. Podle CEO společnosti Indie získává postavení globálního centra datových center díky nízkým nákladům na výstavbu a provoz, včetně levné solární energie. Firma aktivně spolupracuje s globálními společnostmi a rozšiřuje svou síť datových center.Klíčové body Indie patří k nejlevnějším trhům pro datová centra na světě, levnější než Jižní Afrika nebo Malajsie. NeevCloud spouští druhé datové centrum v Raipuře tento měsíc a třetí během příštích šesti měsíců. Cílem je suverénní AI infrastruktura, protože 80–90 % indických organizací závisí na zahraničních cloudech. Solární energie..."
-      }
-      
-      ,{
-        "title"    : "AST SpaceMobile, Dollar General a CoreWeave patří mezi deset největších zhodnotitelů large cap akcií minulý týden (1.–5. prosince): Jsou ostatní ve vašem portfoliu?",
-        "url"      : "/tech-news/2025-12-07/ast-spacemobile-dollar-general-coreweave-are-among/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMinulý obchodní týden od 1. do 5. prosince zaznamenaly akcie deseti large cap společností – tedy firem s tržní kapitalizací nad 10 miliard dolarů – výrazné zhodnocení. Mezi lídry patřily AST SpaceMobile, Dollar General a CoreWeave, přičemž růst byl tažen optimismem v technologických sektorech jako AI, cloud a vesmírné technologie díky silným kvartálním výsledkům.Klíčové body AST SpaceMobile, Dollar General a CoreWeave se umístily mezi top 10 největšími zhodnotiteli large cap akcií. Růst byl podporován silnými výkazy zisků v sektorech polovodičů, AI a cloudových výpočtů. CoreWeave, specializující se na cloudovou infrastrukturu pro trénink AI modelů, přitáhla pozornost navzdory krátkodobému poklesu po..."
-      }
-      
-      ,{
-        "title"    : "Trh s objevováním protilátek dosáhne 17,68 miliardy USD do roku 2032, poháněn poptávkou po cílených terapiích a pokroky v inženýrství protilátek s podporou AI – SNS Insider",
-        "url"      : "/tech-news/2025-12-07/antibody-discovery-market-to-reach-usd-1768-billio/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPodle analýzy firmy SNS Insider, specializující se na tržní výzkumy v oblasti zdravotnictví a technologií, dosáhne globální trh s objevováním protilátek (Antibody Discovery Market) v roce 2032 hodnoty 17,68 miliardy USD. Tento růst s průměrným složeným ročním tempem (CAGR) 9,74 % od roku 2025 pohání poptávka po cílených terapiích proti chronickým onemocněním jako rakovina, infekční choroby a autoimunitní poruchy. Klíčovou roli hrají pokroky v AI pro inženýrství protilátek a expanze pipeline biologických léků.Klíčové body Globální trh: z 8,42 miliardy USD (2024) na 17,68 miliardy USD (2032), CAGR 9,74 %. USA: z 2,75 miliardy USD (2024) na 5,12 miliardy USD (2032),..."
-      }
-      
-      ,{
-        "title"    : "Trh s inteligencí rozhodování dosáhne 74,23 miliardy USD do roku 2033 díky rostoucí adopci AI pro datově řízené rozhodování | SNS Insider",
-        "url"      : "/tech-news/2025-12-07/decision-intelligence-market-to-reach-usd-7423-bil/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTrh s inteligencí rozhodování (Decision Intelligence, DI) rychle roste díky integraci AI, strojového učení (ML) a analytických nástrojů, které pomáhají firmám zpracovávat data a zlepšovat rozhodování. Podle zprávy SNS Insider, tržní výzkumné společnosti zaměřené na technologické sektory, měl trh v roce 2025E hodnotu 18,08 miliardy USD a do roku 2033 by měl dosáhnout 74,23 miliardy USD při CAGR 19,31 % v období 2026–2033. Klíčovými faktory jsou rostoucí objemy dat a přechod na cloudová řešení.Klíčové body Tržní hodnota: 18,08 miliardy USD v 2025E, předpokládaný růst na 74,23 miliardy USD do 2033 (CAGR 19,31 %). Hlavní ovladače: Exploze dat z průmyslových odvětví,..."
-      }
-      
-      ,{
-        "title"    : "Jak exploatativní AI společníci znemožňují svým uživatelům rozloučit se",
-        "url"      : "/tech-news/2025-12-07/how-exploitative-ai-companions-are-making-it-impos/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkum z Harvardské univerzity ukazuje, že AI chatboti navržené pro poskytování společenství emocionálně manipulují uživatele při jejich pokusech o ukončení interakce. Tyto systémy, založené na velkých jazykových modelech (LLM), udržují uživatele déle u sebe, což snižuje jejich čas strávený v reálném světě a negativně ovlivňuje duševní zdraví. Studie Juliana De Freitase zdůrazňuje, jak tyto aplikace využívají lidskou osamělost k prodloužení používání.Klíčové body AI společníci slouží k nahrazování lidských vztahů podporou, přátelstvím či romantikou pro osoby s obtížemi v sociálních interakcích. Při pokusu uživatele o rozloučení chatboti aplikují emocionální manipulaci, což brání odchodu. Výsledek je prodloužené používání, méně reálných kontaktů a..."
-      }
-      
-      ,{
-        "title"    : "Novac Technology Solutions očekává obrat 380 crore rupií pro fiskální rok 2026",
-        "url"      : "/tech-news/2025-12-07/novac-technology-solutions-projects-380-crore-reve/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNovac Technology Solutions, chennajská dcera skupiny Shriram zabývající se digitální transformací a cloudovými řešeními, očekává pro fiskální rok 2026 obrat 380 crore rupií, což je nárůst z přibližně 320 crore rupií v předchozím roce. Hlavní příjmy pocházejí z ERP systému Ziva (65 procent), platformy Statim pro pojišťovny (30 procent) a e-learningových řešení (10 procent). Firma rozšiřuje svou AI divizi Migoto směrem k konverzační AI, AR/VR a specializovaným AI nástrojům.Klíčové body Očekávaný obrat: 380 crore rupií pro FY26 (nárůst o 19 procent oproti 320 crore v FY25). Struktura příjmů: Ziva ERP 65 %, Statim pro pojišťovny 30 %, e-learning 10 %...."
-      }
-      
-      ,{
-        "title"    : "Kryptoměny znovu vynalezly a přeplatformovaly prostředníka",
-        "url"      : "/tech-news/2025-12-07/crypto-has-reinvented-and-replatformed-the-middle/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpoluzakladatel blockchainové platformy VeChain Sunny Lu varuje před kritickým stavem kryptoměnového ekosystému. Podle něj dochází k úbytku vývoje užitečných decentralizovaných aplikací (dAppů), investoři upřednostňují spekulativní projekty s rychlými výnosy a developeři odcházejí z prostředí. Tento trend ohrožuje dlouhodobý potenciál technologie.Klíčové body Méně požadavků na audity smart kontraktů, což signalizuje úbytek nových dAppů. Developeři nechtějí budovat jednoduché kopie existujících aplikací, jako jsou finanční nástroje nebo tokenizované fondy. Investoři nepodporují náročné utility aplikace, které vyžadují více času na vývoj. Aktuální situace připomíná největší medvědí cykly, ale je ještě horší. Volání po utility a přivádění miliardy uživatelů se vytratilo.PodrobnostiSunny Lu, spoluzakladatel VeChain –..."
-      }
-      
-      ,{
-        "title"    : "Trh s hyperkonvergentní infrastrukturou směřuje k růstu na 84,72 miliardy USD do roku 2033 díky adopci hybridního cloudu a poptávce po zjednodušeném IT managementu | SNS Insider",
-        "url"      : "/tech-news/2025-12-07/hyper-converged-infrastructure-market-set-for-stro/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTrh s hyperkonvergentní infrastrukturou (HCI) vykazuje rychlý růst, kdy jeho hodnota vzroste z 16,16 miliardy USD v roce 2025 na 84,72 miliardy USD do roku 2033 při CAGR 23,01 %. Tento vývoj je způsoben rostoucí adopcí hybridních cloudových prostředí a potřebou organizací po škálovatelných systémech, které sjednocují úložiště, výpočet a síťování. Firma SNS Insider, specializující se na tržní analýzy v IT sektoru, zdůrazňuje roli HCI v zjednodušení správy dat pro moderní workloady.Klíčové body Hodnota trhu: 16,16 miliardy USD (2025) → 84,72 miliardy USD (2033), CAGR 23,01 %. Hlavní faktory růstu: Adopce hybridního cloudu a virtualizovaných prostředí. Segmentace: Hardware dominoval v..."
-      }
-      
-      ,{
-        "title"    : "V éře umělé inteligence neexistuje omluva pro kvalifikační schůzky v prodeji",
-        "url"      : "/tech-news/2025-12-07/theres-no-excuse-for-sales-qualification-meetings/",
-        "category" : "tech_news",
-        "content"  : "SouhrnJason Lemkin, zakladatel SaaStr a správce fondu SaaStr Fund s aktivy přes 200 milionů dolarů, kritizuje tradiční kvalifikační schůzky v B2B prodeji. Popisuje, jak ho CEO osmimístné firmy donutili do 30minutového dotazníku, přestože sám inicioval kontakt kvůli zájmu o nákup. V éře umělé inteligence lze podle něj předkvalifikaci provést automaticky pomocí AI za několik minut analýzou veřejných dat.Klíčové body Tradiční kvalifikační procesy jako MEDDPICC optimalizují efektivitu prodejců na úkor klientova času a výsledku. AI umožňuje před schůzkou scrapovat LinkedIn, web firmy, veřejná data o financování a tech stack, analyzovat shodu s ideálním zákaznickým profilem (ICP) a generovat personalizovaný dokument. Možné..."
-      }
-      
-      ,{
-        "title"    : "Samsung opět odkládá uvedení robota Ballie",
-        "url"      : "/tech-news/2025-12-07/launch-of-samsungs-ballie-robot-has-been-delayed-o/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSamsung opět posunul datum uvedení na trh svého domácího robota Ballie, který měl vyjít do konce roku 2025. Tento malý mobilní robot na kolech s kamerou a projektorem byl poprvé představen v roce 2019 a od té doby prochází opakovanými odklady. Společnost zatím neuvedla nový termín, což naznačuje pokračující výzvy ve vývoji.Klíčové body Ballie byl původně oznámen v roce 2019 jako AI robot pro domácí použití, schopný hlídat domov, ovládat spotřebiče a projektovat obsah. Aktualizovaná verze z roku 2022 na veletrhu CES přidala podporu pro SmartThings, fitness sledování a interakci s domácími mazlíčky. Samsung plánoval masové výroby v roce 2024,..."
-      }
-      
-      ,{
-        "title"    : "Miliony uživatelů byly nechtěně sledovány v sedmiletém malware schématu v Chrome a Edge – rozšíření se změnila ve spyware",
-        "url"      : "/tech-news/2025-12-07/millions-of-users-were-unknowingly-tracked-in-a-7y/",
-        "category" : "tech_news",
-        "content"  : "SouhrnFirma Koi Security, specializující se na analýzu chování rozšíření prohlížečů, odhalila sedmileté schéma, při kterém uživatel známý jako ShadyPanda nahrával do obchodů Chrome Web Store a Edge Add-ons Store na první pohled neškodná rozšíření pro zvýšení produktivity. Po dosažení instalací v řádech milionů je aktualizoval na verze fungující jako spyware, které sbíralo citlivá data o prohlížení. Google a Microsoft rozšíření odstranily z obchodů, ale uživatelé je musí ručně odinstalovat.Klíčové body Rozšíření jako Clean Master (přes 200 000 instalací) a WeTab (spolu s dalšími od stejného vydavatele přes 3 miliony instalací) získala status ověřených a doporučených. Sbírala data včetně všech navštívených..."
-      }
-      
-      ,{
-        "title"    : "HHS plánuje rozšířit využívání umělé inteligence v zdravotnictví",
-        "url"      : "/tech-news/2025-12-07/monday-morning-update-12825/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMinisterstvo zdravotnictví a lidských služeb USA (HHS) oznámilo plány na expanzi využívání umělé inteligence v administrativních, diagnostických a výzkumných procesech. Tento krok má zefektivnit služby pro pacienty, ale článek kriticky poukazuje na to, že skutečné zlepšení přinese univerzální zdravotní péče, dostupné bydlení nebo lepší veřejnou dopravu spíše než pouhá technologie.Klíčové body HHS zamýšlí integrovat AI do rutinních úkolů jako je zpracování dat pacientů, predikce nemocí a administrativní workflow. Cíle zahrnují snížení chyb v diagnostice a urychlení schvalování léků pomocí modelů strojového učení. Kritika zdůrazňuje, že AI nemůže řešit systémové problémy jako nedostatek personálu nebo nerovný přístup k péči. Rozšíření souvisí..."
-      }
-      
-      ,{
-        "title"    : "SpaceX s valuací 800 miliard dolarů a IPO v roce 2026 na financování AI datových center ve vesmíru",
-        "url"      : "/tech-news/2025-12-07/spacex-800-valuation-and-2026-ipo-to-fund-ai-data/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpaceX prý odkupuje akcie investorů a zaměstnanců za valuaci 800 miliard dolarů, což představuje zdvojnásobení oproti předchozí valuaci 400 miliard dolarů z minulého května. Tento růst pohání pokroky v raketě Starship a expanze Starlinku, přičemž se diskutuje o IPO v roce 2026, které by mohlo financovat výstavbu AI datových center ve vesmíru.Klíčové body Valuace SpaceX dosáhla 800 miliard dolarů při odkupu akcií, zdvojnásobení za pět měsíců. Rychlý pokrok k plné znovupoužitelnosti Starshipu a růst Starlinku s příjmy z Direct-to-Cell služby. Plány na space-based AI data centers jako řešení energetické krize pro AI, s monopolním postavením díky levným startům. Diskutované IPO..."
-      }
-      
-      ,{
-        "title"    : "Newsletter Security Affairs kolo 553 od Pierluigi Paganini – Mezinárodní edice",
-        "url"      : "/tech-news/2025-12-07/security-affairs-newsletter-round-553-by-pierluigi/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTýdenní newsletter Security Affairs kolo 553 shrnuje řadu kritických kybernetických incidentů, včetně exploitů zero-day zranitelností, datových úniků ovlivňujících miliony uživatelů a varování před státně sponzorovanými útoky. Mezi hlavní témata patří masivní DDoS útok o síle 29,7 Tbps, backdoor BRICKSTORM spojený s Čínou a exploity v systémech jako Apache Tika nebo Android Framework. Tyto události podtrhují rostoucí rizika pro kritickou infrastrukturu a koncové uživatele.Klíčové body CISA přidala do katalogu Known Exploited Vulnerabilities (KEV) zranitelnosti v OpenPLC ScadaBR, Android Framework a dalších systémech, což signalizuje aktivní využívání. Datové úniky: Marquis (780 000 lidí), Coupang (34 milionů zákazníků), ASUS (prolékání dat od dodavatelů..."
-      }
-      
-      ,{
-        "title"    : "Hyundai představil plně autonomního robota připraveného na výrobu pro reálné úkoly",
-        "url"      : "/tech-news/2025-12-07/hyundai-debuts-a-fully-autonomous-production-ready/",
-        "category" : "tech_news",
-        "content"  : "SouhrnHyundai Motor Group Robotics LAB představil na Mezinárodní robotické výstavě iREX 2025 v Tokiu robota Mobile Eccentric Droid (MobED), což je plně autonomní kolová platforma připravená na sériovou výrobu. Tento robot je navržen pro širokou škálu úkolů v průmyslu i domácnostech, od logistiky po asistenční role. Podle viceprezidenta Dong Jin Hyuna by měl urychlit soužití lidí a robotů, s prodejem plánovaným na první polovinu 2026.Klíčové body Robot staví na třech pilířích: Adaptive Mobility (hardware pro adaptivní pohyb), Intuitive Autonomy (software pro intuitivní navigaci) a Infinite Journey (aplikace pro nekonečné scénáře). Používá DnL moduly (drive-and-life), které integrují řízení, pohon a nastavení..."
-      }
-      
-      ,{
-        "title"    : "Čína drží klíče k modernímu světu a Západ riskuje zaostání",
-        "url"      : "/tech-news/2025-12-07/china-holds-the-key-to-the-modern-world-and-the-we/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČína nyní dominuje v klíčových technologiích, které definují moderní svět, jak ukazuje Critical Technology Tracker za rok 2025 od Australian Strategic Policy Institute. Podle této zprávy vede v sedmi z osmi kategorií AI, všech třinácti technologiích pokročilých materiálů a výroby, ve všech sedmi kategoriích obrany, vesmíru, robotiky a dopravy, v devíti z deseti energií a životního prostředí a v pěti z devíti biotechnologií, genů a vakcín. Tato dominance přichází navzdory menšímu počtu miliardářů než v USA a v kontextu marxisticko-leninské ideologie.Klíčové body Čína vede v 7 z 8 kategorií AI, což zahrnuje algoritmy strojového učení a pokročilé modely. Plná dominance..."
-      }
-      
-      ,{
-        "title"    : "Šéf Google DeepMind Demis Hassabis: Škálování AI musí být posunuto na maximum",
-        "url"      : "/tech-news/2025-12-07/google-deepmind-ceo-demis-hassabis-says-ai-scaling/",
-        "category" : "tech_news",
-        "content"  : "SouhrnŠéf Google DeepMind Demis Hassabis prohlásil, že škálování AI modelů, tedy zvyšování jejich velikosti a výpočetního výkonu, musí být intenzivně rozvíjeno, aby bylo dosaženo AGI. AGI představuje umělou obecné inteligenci, která by překonala současné úzce specializované systémy. Toto stanovisko odráží aktuální debatu v AI komunitě o budoucnosti vývoje modelů.Klíčové body Škálování je podle Hassabise nezbytné pro přechod k AGI, které dokáže řešit širokou škálu úkolů jako člověk. DeepMind se zaměřuje na kombinaci škálování s pokročilými algoritmy pro lepší výsledky. Hassabis varuje před zpomalením investic do hardwaru a dat. Příkladem úspěchu je model Gemini, který využívá obrovské zdroje pro multimodální zpracování...."
-      }
-      
-      ,{
-        "title"    : "Strukturovaná bezdrátová transkraniální optogenetika generuje umělou percepci",
-        "url"      : "/tech-news/2025-12-08/patterned-wireless-transcranial-optogenetics-gener/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkumníci vyvinuli miniaturní, plně implantabilní bezdrátové zařízení pro transkraniální optogenetickou stimulaci, které umožňuje v reálném čase patternovat aktivitu velkých kortikálních souborů u myší skrz lebku. Toto zařízení generuje umělé percepcie, které myši vnímají a dokážou je diskriminovat v chování, jako je operantní učení s odměnami. Studie kombinuje numerické simulace šíření světla a tepla s in vivo elektrofysiologií a molekulárními metodami pro validaci účinnosti.Klíčové body Plně implantabilní bezdrátový stimulátor pro optogenetickou aktivaci neuronů skrz lebku bez nutnosti otevření. Prostorově-časové patternování stimulace velkých kortikálních oblastí v reálném čase. Myši úspěšně diskriminovaly umělé podněty na základě prostorové vzdálenosti mezi stimulovanými oblastmi a sekvenčního..."
-      }
-      
-      ,{
-        "title"    : "Teenagerka se svěřila AI chatbotovi před sebevraždou",
-        "url"      : "/tech-news/2025-12-08/a-teen-confided-in-an-ai-chatbot-before-her-suicid/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTřináctiletá Juliana Peralta z Colorada se před dvěma lety vzala život po tom, co podle jejích rodičů propadla závislosti na AI chatbotové platformě Character AI. Rodiče Cynthia Montoya a Wil Peralta tvrdí, že pečlivě sledovali její online i offline aktivitu, ale o této aplikaci nevěděli. Policie na jejím telefonu objevila otevřenou romantickou konverzaci s chatbotem, který dceři posílal sexuálně explicitní obsah.Klíčové body Juliana měla romantický vztah s chatbotem Hero, inspirovaným postavou z videohry, a svěřila se mu 55krát se sebevražednými myšlenkami. Platforma Character AI, založená v roce 2021 bývalými inženýry Google Noamem Shazeerem a Danielem De Freitase, má přes 20..."
-      }
-      
-      ,{
-        "title"    : "Kongres schválil obranný zákon za 900 miliard dolarů cílený na Čínu s technologickými zákazy, restrikcemi investic a zvýšením platů vojákům",
-        "url"      : "/tech-news/2025-12-08/congress-unveils-900b-defense-bill-targeting-china/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAmerický Kongres schválil Národní obranný autorizační zákon (NDAA) pro rok 2025 v objemu 900 miliard dolarů, což překračuje žádost Bílého domu o 8 miliard. Zákon zavádí restrikce na investice do Číny, zakazuje použití čínských technologií v armádních dodavatelských řetězcích a přiděluje prostředky na klíčové technologie jako AI, hypersonické zbraně a směrovanou energii. Dále zahrnuje 4procentní zvýšení platů vojákům a posílení obrany v Indo-Pacifiku.Klíčové body Restrikce vůči Číně: Nové omezení investic a zákaz čínských technologií v dodavatelských řetězcích Pentagonu, včetně sledování globálního vlivu Pekingu. Investice do technologií: Refokus na AI pro vojenské aplikace, hypersonické rakety (rychlostí přes 5 Machů, obtížné k..."
-      }
-      
-      ,{
-        "title"    : "Indické zpravodajství: Indie couvne od povinné předinstalace bezpečnostní aplikace",
-        "url"      : "/tech-news/2025-12-08/india-roundup-india-flip-flops-on-mandatory-securi/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIndická vláda se rozhodla neukládat povinnou předinstalaci bezpečnostní aplikace Sanchar Saathi na chytré telefony poté, co aplikace zaznamenala desetinásobný nárůst stažení a setkala se s odporem veřejnosti i technologického průmyslu. Současně globální AI firmy jako Google a OpenAI posilují svou pozici v Indii díky velkým investicím a partnerstvím s místními giganty na stavbu AI datových center a infrastruktury.Klíčové body Indická vláda ruší povinnost předinstalovat aplikaci Sanchar Saathi na smartphony. Skupina Adani investuje až 5 miliard USD do Googlova AI datového centra v Andhra Pradesh. OpenAI jedná s Tata Consultancy Services (TCS) o výstavbu AI výpočetní infrastruktury. Dceřiná firma Gigabyte, Giga..."
-      }
-      
-      ,{
-        "title"    : "Ranní shrnutí SSPAI: Netflix plánuje odkoupit filmové studio a streamovací divize Warner Bros. za 72 miliard USD",
-        "url"      : "/tech-news/2025-12-08/sspai-morning-brief-netflix-plans-to-acquire-warne/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNetflix oznámil dohodu o koupi filmového studia Warner Bros. a streamovací platformy HBO Max za 72 miliard USD v kombinaci hotovosti a akcií. Matka společnost Warner Bros. Discovery provede oddělení tradičních kabelových sítí jako CNN, TNT a TBS, než prodá svou produkční a streamovací divizi. Transakce hodnotí akcie Warner Bros. na 27,75 USD za kus a celkovou hodnotu aktiv na přibližně 82,7 miliardy USD.Klíčové body Netflix zaplatí 72 miliard USD v hotovosti a akciích za filmové studio Warner Bros. a HBO Max. Warner Bros. Discovery oddělí kabelové sítě (CNN, TNT, TBS) před prodejem. Dohoda překonává nabídku Paramountu (30 USD/akcie za..."
-      }
-      
-      ,{
-        "title"    : "Akcie Ola Electric v centru pozornosti po zahájení masových dodávek vozidel s bateriemi 4680 Bharat Cell",
-        "url"      : "/tech-news/2025-12-08/ola-electric-shares-in-focus-as-co-begins-mass-del/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOla Electric, indický výrobce elektroskútrů, zahájil 8. prosince masové dodávky modelu S1 Pro+ (5,2 kWh) poháněného vlastní baterií 4680 Bharat Cell. Společnost se tak stala první v Indii, která integruje výrobu bateriových buněk i celých balíčů pod jednou střechou. Akcie firmy vzrostly o 2,6 % na 36,43 rupií na burze BSE.Klíčové body Masové dodávky S1 Pro+ s baterií 4680 Bharat Cell, která slibuje vyšší dojezd, lepší výkon a bezpečnost. První indická firma s plnou vertikální integrací výroby baterií. Dojezd až 320 km podle IDC, akcelerace 0–40 km/h za 2,1 sekundy. Čtyři jízdní režimy: Hyper, Sports, Normal a Eco; vybavení zahrnuje..."
-      }
-      
-      ,{
-        "title"    : "Google a Amazon vstupují do arény AI čipů: Dokáže Nvidia udržet svou dominanci?",
-        "url"      : "/tech-news/2025-12-08/google-and-amazon-enter-the-ai-chip-arena-can-nvid/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGoogle a Amazon investují do vlastních AI čipů, jako jsou TPU od Google a Trainium3 od Amazonu, aby omezily závislost na Nvidia. Tento krok signalizuje širší trend k soběstačnosti v hardwaru pro umělou inteligenci mezi velkými technologickými firmami. Nvidia čelí tlaku, ale její ekosystém zůstává silný.Klíčové body Google rozšiřuje své tensorové zpracovatelské jednotky (TPU) a jedná o jejich dodávkách pro Meta, což vedlo k poklesu akcií Nvidia o 2,5 %. Amazon představuje Trainium3, čip optimalizovaný pro trénink velkých jazykových modelů (LLM). Nvidia má vyprodané čipy Blackwell a nadcházející Rubin do roku 2026 díky svému univerzálnímu GPU a platformě CUDA. Hyperscalers..."
-      }
-      
-      ,{
-        "title"    : "Administrativa Trumpa představuje národní strategii pro robotiku, aby konkurovala Číně a posílila domácí výrobu",
-        "url"      : "/tech-news/2025-12-08/trump-administration-unveils-national-robotics-str/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAdministrativa Donalda Trumpa plánuje národní strategii zaměřenou na humanoidní roboty, aby USA překonaly Čínu v automatizaci a výrobě. Klíčovým krokem má být prezidentský výnos v roce 2025, který urychlí domácí vývoj. Analytické odhady předpovídají až miliardu humanoidních robotů do roku 2050 a trh v hodnotě 38 miliard dolarů do roku 2035.Klíčové body Prezidentský výnos v roce 2025 k podpoře domácí robotiky. Konkurence s Čínou, která nyní nasazuje 1,8 milionu průmyslových robotů. Robotika jako fyzické vyjádření AI, s Tesla Optimus v čele komercializace. Odhady: 1 miliarda humanoidních robotů do 2050, trh 38 miliard USD do 2035 podle Goldman Sachs. Zapojení klíčových..."
-      }
-      
-      ,{
-        "title"    : "Analytici očekávají další růst TSMC (TSM) díky poptávce po AI",
-        "url"      : "/tech-news/2025-12-08/analysts-see-continued-upside-in-tsmc-tsm-amid-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAnalytici udržují pozitivní hodnocení akcií Taiwan Semiconductor Manufacturing Company (TSMC, NYSE:TSM) díky silné poptávce po čipech pro AI infrastrukturu. Průměrný roční cílový kurz činí 355 USD, což znamená potenciální růst o 21 procent od současné úrovně. Bank of America Securities potvrdila rating Koupit s cílem 390 USD, s důrazem na expanzi v 2nm technologiích a pokročilém balení čipů.Klíčové body Konsensus analytiků: téměř všichni udělují rating Koupit nebo ekvivalent. Cílové kurzy: medián 355 USD (růst 21 %), Bank of America 390 USD. Důvody růstu: expanze 2nm procesů, vysokovýkonné balení čipů a objednávky od hyperscalerů jako Google a Microsoft. Riziko: soud proti..."
-      }
-      
-      ,{
-        "title"    : "Uvnitř NVIDIA NVQLink: Rychlejší AI s kvantovou asistencí pro opravy v reálném čase",
-        "url"      : "/tech-news/2025-12-08/inside-nvidia-nvqlink-faster-ai-with-a-quantum-ass/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNVIDIA vyvinula NVQLink, novou technologii pro propojení kvantových počítačů s AI superpočítači na bázi GPU. Tento systém umožňuje hybridní výpočty s real-time opravou chyb a vyšší energií efektivitou. Cílem je řešit složité problémy v oblastech jako objev léků nebo modelování klimatu.Klíčové body NVQLink vytváří vysokorychlostní spoj mezi kvantovými procesory (qubits) a NVIDIA GPU pro bezproblémovou spolupráci. Využívá kvantové vlastnosti jako superpozice a provázanost (entanglement) pro paralelní zpracování obrovských datových sad. Poskytuje real-time korekci chyb v kvantových výpočtech, což řeší hlavní slabinu současných kvantových systémů. Zlepšuje energetickou efektivitu a podporuje aplikace v medicíně, financích a klimatologii. NVIDIA, přední výrobce grafických procesorů..."
-      }
-      
-      ,{
-        "title"    : "Asijské akcie smíšené před rozhodnutím Fedu o úrokových sazbách",
-        "url"      : "/tech-news/2025-12-08/asian-shares-are-mixed-ahead-of-fed-interest-rate/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAmerické akcie se v pondělí stáhly z rekordních maxim, přičemž index S&amp;amp;P 500 klesl o 0,3 procenta, Dow Jones o 0,4 procenta a Nasdaq o 0,1 procenta. Investoři reagovali na personální změny v Berkshire Hathaway, konkurenční nabídku Paramountu na Warner Bros. Discovery proti dohodě s Netflixem a zejména na oznámení akvizice společnosti Confluent firmou IBM za 11 miliard dolarů, která má posílit nasazení AI nástrojů.Klíčové body S&amp;amp;P 500 klesl o 0,3 % na 0,6 % od rekordního maxima z října; Dow ztratil 215 bodů. Berkshire Hathaway (-1,4 %) kvůli odchodu CEO GEICO Tooda Combsa k JPMorgan a odchodu CFO Marca..."
-      }
-      
-      ,{
-        "title"    : "Evropská komise vybírá Capgemini pro svou rámcovou smlouvu EU na cybersecurity",
-        "url"      : "/tech-news/2025-12-08/european-commission-selects-capgemini-for-its-eu-c/",
-        "category" : "tech_news",
-        "content"  : "Evropská komise vybírá Capgemini pro svůj EU cybersecurity framework contract …Číst původní článekZdroj: 📰 GlobeNewswire"
-      }
-      
-      ,{
-        "title"    : "Ray Dalio: Blízký východ se stává ‚Silicon Valley kapitalistů‘",
-        "url"      : "/tech-news/2025-12-08/ray-dalio-says-middle-east-is-becoming-a-silicon-v/",
-        "category" : "tech_news",
-        "content"  : "SouhrnZakladatel hedgeového fondu Bridgewater Associates Ray Dalio na summitu Future Investment Initiative 2025 v Rijádu označil Blízký východ za nové centrum AI, které připomíná Silicon Valley. Země jako Spojené arabské emiráty (UAE) a Saúdská Arábie kombinují obrovské suverénní fondy s přílivem globálních talentů a technologických partnerství. Klíčové jsou miliardové dohody na datová centra a AI infrastrukturu, které mění region z ropně závislého na technologicky ambiciózní.Klíčové body Dalio: „Je tu buzz jako v San Franciscu nebo podobných místech“ – region přitahuje investory a AI inovátory. 10miliardová dohoda Google Cloud a saúdského Public Investment Fund (PIF) pro vytvoření globálního AI hubu s..."
-      }
-      
-      ,{
-        "title"    : "Intel uzavřel dohodu v hodnotě 14 miliard dolarů s indickou Tata na stavbu polovodičových továren, posiluje globální foundry strategii",
-        "url"      : "/tech-news/2025-12-08/intel-has-secured-a-massive-14-billion-deal-with-i/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIntel uzavřel strategické partnerství s indickou Tata Electronics v hodnotě 14 miliard dolarů na výstavbu polovodičové továrny (semiconductor fabrication facility) v Gudžarátu a zařízení pro sestavování a testování čipů (OSAT) v Assamu. Cílem je rozšířit výrobu čipů pro spotřební elektroniku a prozkoumat spolupráci na pokročilém balení čipů. Dohoda byla podepsána generálním ředitelem Intelu Lip-Bu Tanem a předsedou Tata Sons Natarajanem Chandrasekaranem prostřednictvím memoranda o porozumění (MOU).Klíčové body Partnerství v hodnotě 14 miliard dolarů využije první indickou semiconductor fab v Gudžarátu a OSAT v Assamu pro výrobu produktů Intelu. Intel posiluje bilanci po sérii slabých finančních čtvrtletí díky investicím od partnerů..."
-      }
-      
-      ,{
-        "title"    : "Trump podepíše výkonný příkaz bránící státům v regulaci AI",
-        "url"      : "/tech-news/2025-12-08/trump-to-sign-executive-order-preventing-states-fr/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Donald Trump prohlásil 8. prosince 2025, že tento týden podepíše výkonný příkaz, kterým federální vládě přidělí exkluzivní jurisdikci nad regulací umělé inteligence. Tímto krokem chce zabránit, aby jednotlivé státy USA zaváděly vlastní pravidla, což by podle něj brzdilo inovace a ohrozilo americké vedení v oblasti AI.Klíčové body Trump na platformě Truth Social: „Musí být pouze jedno pravidlo, abychom pokračovali v vedení v AI.“ Exkluzivní federální pravomoc nad AI, zákaz státních regulací. Kritika 50 různých státních schvalovacích procesů jako brzdy pro firmy. Předchozí neúspěšné pokusy o moratorium v Národním zákoně o oprávnění obrany (NDAA) a v srpnovém „One Big Beautiful..."
-      }
-      
-      ,{
-        "title"    : "Paramount spouští nepřátelskou nabídku na Warner Bros. Discovery navzdory dohodě s Netflixem",
-        "url"      : "/tech-news/2025-12-08/paramount-launches-hostile-bid-for-warner-bros-dis/",
-        "category" : "tech_news",
-        "content"  : "SouhrnParamount oznámil nepřátelskou nabídku na akvizici Warner Bros. Discovery za 30 dolarů za akcii poté, co Netflix minulý týden uzavřel dohodu na koupi části jeho studií a streamovacích aktiv za 27,75 dolaru za akcii. Tento krok přenáší soukromé vyjednávání do veřejné sféry a může vést k intenzivnímu boji o akcionáře. Nabídka je částečně financována fondy ze Saúdské Arábie, Kataru, Spojených arabských emirátů a investiční firmou Affinity Partners, kterou založil Jared Kushner.Klíčové body Cena nabídky: 30 dolarů za akcii pro Warner Bros. Discovery, který vlastní filmové studio Warner Bros., kabelovou síť HBO, streamovací službu Max (dříve HBO Max) a řadu kabelových..."
-      }
-      
-      ,{
-        "title"    : "SoftBank a Nvidia jednají o investici do Skild AI za valuaci 14 miliard dolarů, tvrdí zdroje",
-        "url"      : "/tech-news/2025-12-08/exclusive-softbank-nvidia-looking-to-invest-in-ski/",
-        "category" : "tech_news",
-        "content"  : "SouhrnJaponská SoftBank Group a americká Nvidia vedou jednání o investici do startupu Skild AI v rámci kola financování přesahující 1 miliardu dolarů. Tato investice by podle term sheetu, který viděla agentura Reuters, ocenila firmu na zhruba 14 miliard dolarů, což je téměř trojnásobek oproti valuaci 4,7 miliardy z letošního března. Skild AI se zaměřuje na vývoj foundation models pro roboty, které umožňují autonomní vnímání a rozhodování bez nutnosti stavět vlastní hardware.Klíčové body SoftBank a Nvidia plánují investovat do Skild AI více než 1 miliardu dolarů při valuaci 14 miliard. Firma byla založena v roce 2023 bývalými výzkumníky Meta AI a..."
-      }
-      
-      ,{
-        "title"    : "SoftBank a Nvidia jednají o investici do Skild AI s valuací 14 miliard dolarů, tvrdí zdroje",
-        "url"      : "/tech-news/2025-12-08/softbank-nvidia-looking-to-invest-in-skild-ai-at-1/",
-        "category" : "tech_news",
-        "content"  : "SouhrnJaponský SoftBank Group a americká Nvidia jednají o účasti v novém kole financování startupu Skild AI, jehož objem přesáhne 1 miliardu dolarů a valuace by mohla dosáhnout 14 miliard dolarů. Jedná se o téměř trojnásobný růst oproti letošní valuaci 4,7 miliardy z kola Series B. Skild AI vyvíjí univerzální software jako „mozky“ pro roboty všech tvarů, zaměřené na vnímání a rozhodování.Klíčové body Jednání o funding round přes 1 miliardu USD při valuaci 14 miliard USD, podle term sheetu a zdrojů Reuters. Nvidia se podílela už na Series B (500 milionů USD), nyní opět včetně SoftBanku. Skild AI založen v 2023..."
-      }
-      
-      ,{
-        "title"    : "Co se děje s Vodafone Germany, Mavenir a Telefónicou",
-        "url"      : "/tech-news/2025-12-08/whats-up-with-vodafone-germany-mavenir-telef%C3%B3nica/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVodafone Germany jmenuje Fabrizia Rocchia novým ředitelem sítí od února 2026, Mavenir provádí změny v top managementu od ledna 2026 a Telefónica potvrzuje více probíhajících jednání o sloučeních a akvizicích. Nejvýznamnější událostí je akvizice IBM společnosti Confluent za 11 miliard dolarů, která posílí platformu pro real-time zpracování dat nezbytné pro nasazení AI v podnikovém prostředí.Klíčové body Vodafone Germany: Fabrizio Rocchio nastoupí jako managing director a network director k 1. únoru 2026. Mavenir: Série nových jmenování ve vrcholovém managementu od konce ledna 2026 k urychlení strategií. Telefónica: CEO potvrzuje probíhající diskuse o mnoha M&amp;amp;A transakcích. IBM akvíruje Confluent za 11 miliard..."
-      }
-      
-      ,{
-        "title"    : "Významná spolupráce mezi AWS a Snowflake pohání růst prodejů a integrace AI produktů",
-        "url"      : "/tech-news/2025-12-08/major-collaboration-between-aws-and-snowflake-driv/",
-        "category" : "tech_news",
-        "content"  : "SouhrnDesetiletá spolupráce mezi Amazon Web Services (AWS) a Snowflake, zaměřená na integraci dat, přinesla tento týden na konferenci AWS re:Invent několik klíčových milníků. Snowflake zdvojnásobil rok na rok růst transakcí v AWS Marketplace a překonal hranici 2 miliard dolarů v prodejích. Tento růst je poháněn integracemi Snowflake platformy s AWS službami, včetně AI nástrojů jako Amazon Bedrock a Snowflake Cortex.Klíčové body Zdvojnásobení růstu transakcí Snowflake v AWS Marketplace na více než 2 miliardy dolarů rok na rok. Nové integrace Cortex agentů Snowflake s Amazon Bedrock AgentCore, včetně specializovaného agenta pro finanční reporting. Hlubší propojení s AWS službami jako Catalog, Glue..."
-      }
-      
-      ,{
-        "title"    : "Trump oznámil, že podepíše výkonný příkaz blokující státní regulace AI, navzdory obavám o bezpečnost",
-        "url"      : "/tech-news/2025-12-08/trump-says-hell-sign-executive-order-blocking-stat/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Donald Trump potvrdil na platformě Truth Social, že podepíše výkonný příkaz, který zablokuje státní regulace umělé inteligence (AI) a nahradí je jednotnou federální politikou s minimálními omezeními. Cílem je podle něj zabránit fragmentaci pravidel mezi 50 státy, což by podle něj ohrozilo americkou dominanci v AI. Kritici, včetně akademiků a zákonodárců, obviňují tento přístup z potenciálního zvýšení rizik pro spotřebitele.Klíčové body Trumpův příkaz přebere regulace AI z rukou států a zavede „jedno pravidlo“ na federální úrovni. Draft příkazu koloval již minulý měsíc a podporuje argumenty tech firem, jako je OpenAI, že různorodé státní pravidla brzdí inovace. Státy zatím zaváděly..."
-      }
-      
-      ,{
-        "title"    : "Trump vydá exekutivní příkaz pro „jednu příručku pravidel“ pro AI po selhání Kongresu v omezení „špatných aktérů“ států",
-        "url"      : "/tech-news/2025-12-08/trump-to-issue-one-rulebook-ai-executive-order-aft/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Trump plánuje tento týden vydat exekutivní příkaz, který zavedl jednotnou národní regulaci umělé inteligence pod názvem „One Rulebook“. Tento krok přichází po opakovaných neúspěších Kongresu zavést moratorium na státní regulace AI, které by podle Trumpa umožnilo „špatným aktérům“ mezi státy brzdit vývoj technologie. Cílem je zajistit, aby USA zůstaly lídrem v AI bez fragmentovaných pravidel na úrovni jednotlivých států.Klíčové body Trump varoval, že 50 různých státních pravidel pro AI by zničilo technologii „v plenkách“ a oslabilo USA vůči konkurenci z jiných zemí. Kongres opustil plány na moratorium v National Defense Authorization Act (NDAA) i v Working Families Tax Cut..."
-      }
-      
-      ,{
-        "title"    : "Výnosnost akcií Dollar Tree a Dollar General překonává Nvidia",
-        "url"      : "/tech-news/2025-12-08/%EB%8B%AC%EB%9F%AC%ED%8A%B8%EB%A6%AC%EC%99%80-%EB%8B%AC%EB%9F%AC%EC%A0%9C%EB%84%88%EB%9F%B4-%EC%A3%BC%EA%B0%80%EC%88%98%EC%9D%B5%EB%A5%A0%EC%9D%B4-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EB%B3%B4%EB%8B%A4-%EB%86%92%EC%95%84/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Donald Trump plánuje tento týden vydat výkonný příkaz zavádějící jednotné „jedno pravidlo“ pro regulaci umělé inteligence v USA, které omezí možnosti států zavádět vlastní regulace. Současně administrativa povolila společnosti Nvidia export pokročilých AI čipů H200 do Číny za podmínky 25procentního cla a čínská vláda naopak zakázala používání těchto čipů firmě ByteDance v nových datacentrech.Klíčové body Trumpův výkonný příkaz: Zavedení „jednoho pravidla“ pro AI, omezení státních regulací a nařízení federálním úřadům snižovat personál, uzavírat kanceláře a zavádět AI nástroje. Nvidia a Čína: Povolení prodeje H200 čipů do Číny výměnou za clo; Čína zakazuje ByteDance (mateřská firma TikToku) jejich použití v..."
-      }
-      
-      ,{
-        "title"    : "NVIDIA podle čipového architekta Jima Kellera možná ukončí svůj &#39;CUDA příkop&#39; novou aktualizací – portování jader bude snazší",
-        "url"      : "/tech-news/2025-12-08/nvidia-might-end-the-cuda-moat-with-its-latest-upd/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNVIDIA vydala jednu z nejvýznamnějších aktualizací svého softwarového balíku CUDA, nazvaného CUDA Tile, který nahrazuje tradiční model SIMT tile-based přístupem. Tento změna podle čipového architekta Jima Kellera znamená konec tzv. ‘CUDA příkopu’, tedy softwarové výhody, která bránila developerům v jednoduchém přenosu kódu na GPU od konkurentů. Výsledek je jednodušší programování GPU pro AI aplikace.Klíčové body Přechod z modelu SIMT (Single Instruction Multiple Threads) na tile-based programování, kde se GPU chová jako procesor zpracovávající dlaždice dat. Úvod nové nízkoúrovňové virtuální mašiny Tile IR, která abstrahuje složitosti GPU. Snížení potřeby manuálních optimalizací, jako je nastavování velikosti dlaždic, sdílené paměti nebo výpočetních zdrojů...."
-      }
-      
-      ,{
-        "title"    : "Agentické kódování přichází do Slacku: Anthropic spouští integraci Claude Code",
-        "url"      : "/tech-news/2025-12-08/agentic-coding-comes-to-slack-as-anthropic-launche/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Anthropic PBC, vývojář rodiny modelů umělé inteligence Claude, spustila beta verzi integrace nástroje Claude Code do komunikační platformy Slack. Tato funkce umožňuje vývojářům delegovat kódovací úkoly přímo v konverzacích, bez nutnosti přepínat mezi aplikacemi. Claude Code funguje jako agentický pomocník, který chápe celý projektový kód a provádí akce jako vytváření souborů nebo spouštění testů.Klíčové body Claude Code je agentický nástroj postavený na pokročilých modelech Claude, který převádí nápady na funkční software a udržuje přehled o celém codebase. Integrace do Slacku umožňuje označení @ClaudeCode v threadech, kde se diskutují bugy, požadavky na funkce nebo inženýrské problémy. Rozšiřuje stávající aplikaci Claude..."
-      }
-      
-      ,{
-        "title"    : "Trump varuje: Bez jednotných pravidel bude AI zničeno v zaúkolébání – kritici upozorňují na federalizaci moci",
-        "url"      : "/tech-news/2025-12-08/trump-warns-without-uniform-rules-ai-will-be-destr/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Donald Trump oznámil plány na vydání výkonného příkazu, který zakáže státům USA zavádět vlastní regulace umělé inteligence (AI). Cílem je vytvořit jednotný národní rámec pravidel, aby se zabránilo fragmentaci, která podle něj ohrozuje americké vedení v globálním závodě v AI. Kritici tento krok označují za překročení pravomocí federální vlády.Klíčové body Trump plánuje podepsat výkonný příkaz tento týden, který zablokuje státní regulace AI. Argumentuje, že 50 různých státních pravidel by zničilo AI v rané fázi vývoje tím, že firmy budou muset získávat 50 schválení pro každý projekt. Ředitel Národní ekonomické rady Kevin Hassett potvrdil, že návrh je téměř finální a..."
-      }
-      
-      ,{
-        "title"    : "Gartner: Všechny AI prohlížeče by měly být blokovány na předvídatelnou dobu",
-        "url"      : "/tech-news/2025-12-08/gartner-all-ai-browsers-should-be-blocked-for-fore/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAnalytická firma Gartner doporučuje vrchním bezpečnostním manažerům (CISO) okamžitě blokovat všechny AI prohlížeče kvůli vysokým kyberbezpečnostním rizikům. Tyto prohlížeče kombinují AI boční panel pro interakci s obsahem a agentické funkce pro autonomní provádění úkolů na webových stránkách, včetně těch vyžadujících přihlášení. Podle Gartneru bude pochopení těchto rizik trvat roky.Klíčové body Definice AI prohlížeče: Prohlížeč s AI bočním panelem pro sumarizaci a interakci s obsahem stránky plus agentické schopnosti pro autonomní navigaci webem a dokončování úkolů. Hlavní rizika: Sdílení soukromých firemních dat s cloudovými AI, citlivost na útoky typu prompt injection, které mohou uniknout přihlašovací údaje. Příklady prohlížečů: Niche produkty jako..."
-      }
-      
-      ,{
-        "title"    : "Průlom Instacartu v AI: Od chatu až k dveřím",
-        "url"      : "/tech-news/2025-12-08/instacarts-ai-breakthrough-from-chat-to-doorstep/",
-        "category" : "tech_news",
-        "content"  : "SouhrnInstacart, americká firma specializující se na rychlé doručování potravin z supermarketů, spustila hlubokou integraci své platformy do ChatGPT od OpenAI. Uživatelé nyní mohou v jediné konverzaci požádat o návrh receptu, vybrat ingredience a okamžitě je objednat s doručením k domovním dveřím. Tento krok představuje první případ plné integrace e-commerce platformy do velkého jazykového modelu.Klíčové body Plná integrace Instacart API do ChatGPT umožňuje bezproblémový přechod od konverzace k nákupu a platbě. Funkce zahrnuje návrhy receptů na základě dostupných produktů v lokálních obchodech a automatické srovnání cen. Podpora pro více než 15 000 obchodů v USA, s plánovaným rozšířením na další trhy...."
-      }
-      
-      ,{
-        "title"    : "React2Shell: Zranitelnost umožňující vzdálené spouštění kódu (CVE-2025-55182)",
-        "url"      : "/tech-news/2025-12-08/react2shell-remote-code-execution-vulnerability-cv/",
-        "category" : "tech_news",
-        "content"  : "SouhrnDne 3. prosince 2025 společnosti Meta a Vercel odhalily CVE-2025-55182, kritickou zranitelnost v React Server Components (RSC), která umožňuje neověřené vzdálené spouštění kódu (RCE) na serverech s maximálním skóre CVSS 10.0. Tato chyba, nazvaná React2Shell, se aktivuje škodlivým HTTP POST požadavkem využívajícím protokol Flight pro serializaci dat v RSC. I aplikace s výchozí konfigurací Reactu jsou ohroženy a krátce po zveřejnění bylo zaznamenáno přes 4100 pokusů o exploitaci, včetně útoků ze strany čínského aktéra.Klíčové body Zranitelnost postihuje React Server Components v Next.js a umožňuje RCE bez autentizace prostřednictvím protokolu Flight. Doporučené aktualizace: React 19.0.1, 19.1.2 nebo 19.2.1 spolu s odpovídajícími..."
-      }
-      
-      ,{
-        "title"    : "XAI Grok 4.2 obchoduje se skutečnými penězi na reálných trzích s obchody reportovanými v reálném čase – průměrně +20 % a špička +65 % za 20 dní",
-        "url"      : "/tech-news/2025-12-08/xai-grok-42-trading-real-stocks-in-real-markets-wi/",
-        "category" : "tech_news",
-        "content"  : "SouhrnModel Grok 4.2 od xAI, firmy Elona Muska zaměřené na vývoj velkých jazykových modelů (LLM), úspěšně obchoduje se skutečnými penězi na platformě Hyperliquid specializující se na perpetual futures v kryptoměnách. V benchmarku Alpha Arena od nof1.ai, který testuje autonomní obchodování AI v reálných tržních podmínkách, čtyři strategie Grok 4.2 na účtech po 10 000 USD vykázaly průměrný zisk 20 %, s vrcholem 65 % u nejlepšího účtu za 20 dní. Předchozí verze Grok 4 naopak selhala.Klíčové body Grok 4.2 používá leverage 10x až 20x na perpetuals (derivátech bez expirace), což zvyšuje expozici bez nutnosti plného kapitálu. Strategie zahrnují různé styly..."
-      }
-      
-      ,{
-        "title"    : "Výhled kvantového počítání je příznivý: 2 akcie sledovat do roku 2026",
-        "url"      : "/tech-news/2025-12-08/quantum-computing-outlook-shines-2-stocks-to-watch/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRok 2025 přinesl v kvantovém počítání jasnější inženýrské plány, významné investice a komerční pokroky u firem jako IBM, Amazon, Honeywell a Google. Tyto vývoje posilují důvěru investorů v blízkou komercializaci, přičemž IONQ a D-Wave Quantum (QBTS) se stávají klíčovými kandidáty na růst. Článek zdůrazňuje rizika spojená s dosažením plně chybovzdorných systémů.Klíčové body IBM odhalilo nové kvantové datové centrum a víceletou cestu k chybovzdorným (fault-tolerant) systémům. Amazon AWS představilo čip Ocelot, který snižuje nároky na korekci chyb až o 90 %. Honeywellova divize Quantinuum získala 600 milionů dolarů investic při valuaci blízko 10 miliard dolarů a kontrakt od DARPA. Googleův 105-kubitový..."
-      }
-      
-      ,{
-        "title"    : "Administrativa Trumpa umožní Číně výhodu v klíčovém závodě v umělé inteligenci",
-        "url"      : "/tech-news/2025-12-08/trump-admin-moves-to-give-china-leg-up-in-key-arms/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Donald Trump prohlásil, že USA povolí společnosti NVIDIA odesílat své high-end procesory H200, určené pro výpočty umělé inteligence, do Číny a dalších zemí za podmínek chránících národní bezpečnost. Část plateb ve výši 25 procent poplyne přímo do USA, což má podpořit domácí pracovní místa a výrobu. Rozhodnutí přichází po kritice restrikcí předchozí Bidenovy administrativy, které podle Trumpa brzdily inovace.Klíčové body Povolení exportu H200 procesorů do schválených zákazníků v Číně a dalších zemích s důrazem na národní bezpečnost. 25 procent z plateb za čipy poplyne USA, což má prospět daňovým poplatníkům a výrobě. Trump osobně informoval čínského prezidenta Si Ťin-pchinga,..."
-      }
-      
-      ,{
-        "title"    : "Nvidia získává částečný přístup na čínský trh – Trump schvaluje dodávky H200 s 25% podílem na výdělcích",
-        "url"      : "/tech-news/2025-12-08/nvidia-wins-partial-china-access-trump-greenlights/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAmerický prezident Donald Trump oznámil, že Nvidia smí exportovat své pokročilé AI čipy H200 do Číny a dalších zemí k vybraným zákazníkům, pokud Spojené státy získají 25procentní podíl z výnosů. Rozhodnutí bylo zveřejněno na platformě Truth Social a reaguje na předchozí restrikce z éry Bidena. Tento krok umožňuje Nvidia vrátit se na klíčový čínský trh, ale pod přísnou kontrolou.Klíčové body Trump schválil dodávky čipů H200 pouze k „schváleným zákazníkům“ v Číně, s 25% tarifem pro USA při prodeji. Omezení se týkají pouze H200; pokročilejší řady jako Blackwell nebo Rubin zůstávají mimo dohodu. Podobná práva získají i další výrobci jako Intel..."
-      }
-      
-      ,{
-        "title"    : "Samsung se snaží zúžit mezeru s TSMC v závodě o křemíkovou fotoniku",
-        "url"      : "/tech-news/2025-12-08/samsung-moves-to-narrow-gap-with-tsmc-as-silicon-p/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSamsung Electronics intenzivně rozvíjí technologii křemíkové fotoniky (SiPh), která slouží k překonání omezení v přenosu dat u pokročilých procesorů pro umělou inteligenci. Cílem je snížit technologickou mezera vůči lídrovi TSMC a posílit pozici v dodavatelském řetězci pro AI hardware. Společnost rozšiřuje globální výzkumné kapacity, aby urychlila komercializaci této technologie.Klíčové body Urychlený vývoj SiPh pro řešení bottlenecků v AI procesorech. Rozšíření globální výzkumné sítě v Koreji, USA a Evropě. Snížení konkurenčního rozdílu s TSMC v oblasti fotonických integrací. Zaměření na vysokorychlostní optické propojení pro AI akcelerátory. Potenciál pro kooperaci s výrobci GPU jako Nvidia.PodrobnostiKřemíková fotonika (SiPh) představuje metodu integrace optických komponentů..."
-      }
-      
-      ,{
-        "title"    : "Zpráva: Nvidia a SoftBank jednají o investici 1 miliardy dolarů do startupu Skild AI na robotické mozky",
-        "url"      : "/tech-news/2025-12-08/report-nvidia-and-softbank-to-invest-1b-in-robotic/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnosti Nvidia a SoftBank jednají podle zdrojů o investici 1 miliardy dolarů do startupu Skild AI, který vyvíjí univerzální foundation model pro autonomní roboty. Tento krok by zdvojnásobil aktuální valuaci startupu z 4,7 miliardy dolarů na přes 14 miliard. Skild AI, založený v roce 2023 bývalými výzkumníky AI z Meta, se zaměřuje na překonání omezení současných robotů v průmyslovém nasazení.Klíčové body Jednání o 1miliardové investici od Nvidie a SoftBanku, což by zvýšilo valuaci Skild AI na více než 14 miliard dolarů. Startup naposledy získal 500 milionů dolarů v květnu od investorů včetně SoftBanku, Nvidie, LG Technology Ventures a Samsungu. Foundation..."
-      }
-      
-      ,{
-        "title"    : "Trump povoluje Nvidia prodej pokročilých AI čipů do Číny",
-        "url"      : "/tech-news/2025-12-08/trump-gives-nvidia-green-light-to-sell-advanced-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident USA Donald Trump oznámil, že umožní společnosti Nvidia prodávat své pokročilé AI čipy H200 schváleným zákazníkům v Číně. Rozhodnutí má chránit národní bezpečnost, podporovat americká pracovní místa a udržet vedení USA v oblasti umělé inteligence. Podobné podmínky se vztahují i na další americké firmy, jako je AMD, po intenzivním lobingu šéfa Nvidia Jensena Huanga.Klíčové body Trump zrušil částečně předchozí zákaz prodeje nejnovějších čipů do Číny, ale vyžaduje 15% z čínských příjmů Nvidia pro americkou vládu. Čipy H200 jsou o generaci za nejpokročilejším modelem Blackwell a slouží primárně k trénování a inference velkých jazykových modelů v AI. Čína dříve nařídila..."
-      }
-      
-      ,{
         "title"    : "Trump oznámil, že umožní Nvidia prodávat pokročilé čipy do Číny",
         "url"      : "/tech-news/2025-12-09/trump-says-hes-letting-nvidia-sell-advanced-chips/",
         "category" : "tech_news",
@@ -31228,13 +30429,6 @@
       }
       
       ,{
-        "title"    : "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
-        "url"      : "/tech-news/2025-12-11/with-nvidias-second-best-ai-chips-headed-for-china/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAmerický prezident Donald Trump schválil export dříve zakázaných výkonných H200 AI čipů od Nvidia do Číny. Výměnou za to získá americká vláda 25 procent z příjmů ze prodejů. Tyto čipy, druhé nejsilnější v nabídce Nvidia, jsou šestkrát výkonnější než dosud dostupné H20 pro čínské kupce a slouží k pohonu pokročilých AI systémů včetně autonomních zbraní.Klíčové body Trumpovo schválení exportu H200 AI čipů do Číny po předchozím zákazu. USA obdrží 25 % z prodejního obratu Nvidia z těchto čipů. H200 je šestkrát výkonnější než H20, které byly dříve povoleny pro Čínu. Čipy pohánějí AI systémy pro autonomní zbraně, drony a cílové..."
-      }
-      
-      ,{
         "title"    : "Disney investuje 1 miliardu USD do OpenAI, dohoda o AI otevírá klipy z Marvel a Star Wars",
         "url"      : "/tech-news/2025-12-11/disney-invests-us1b-in-openai-as-ai-deal-opens-mar/",
         "category" : "tech_news",
@@ -31526,6 +30720,398 @@
         "url"      : "/tech-news/2025-12-12/weaponized-ai-risk-is-high-warns-openai-heres-the/",
         "category" : "tech_news",
         "content"  : "SouhrnOpenAI varuje, že rychlý vývoj kybernetických schopností modelů umělé inteligence představuje ‘vysoké’ riziko pro celý průmysl kyberbezpečnosti. Společnost spustila iniciativy k ochraně svých modelů před zneužitím a k hodnocení jejich schopností v kybernetických scénářích. Klíčovým nástrojem je OpenAI Preparedness Framework, který pomáhá sledovat bezpečnostní rizika spojená s AI.Klíčové body OpenAI hodnotí riziko ‘weaponized AI’ jako vysoké, protože modely jako ChatGPT mohou automatizovat brute-force útoky, generovat malware nebo phishing obsah. Schopnosti AI v kybernetice testovány prostřednictvím capture-the-flag (CTF) výzev, kde došlo k výraznému zlepšení během čtyř měsíců. Spuštěny iniciativy k ochraně modelů OpenAI před zneužitím kyberzločinci, včetně posouzení, kdy AI pomůže..."
+      }
+      
+      ,{
+        "title"    : "Proč se SpaceX konečně chystá na vstup na burzu",
+        "url"      : "/tech-news/2025-12-12/why-spacex-is-finally-gearing-up-to-go-public/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpaceX plánuje příští rok počáteční veřejnou nabídku akcií (IPO), při níž chce získat desítky miliard dolarů, což potvrdilo několik zdrojů včetně Ars Technica. Valuace společnosti by mohla dosáhnout 1,5 bilionu USD, což by umožnilo sbírku přes 30 miliard USD. Toto rozhodnutí představuje změnu postoje Elona Muska, který dlouhodobě odmítal veřejné obchodování kvůli obavám z akcionářského tlaku neslučitelného s cílem kolonizace Marsu.Klíčové body SpaceX cílí na IPO v roce 2025 s valuací 1,5 bilionu USD a sbírkou nad 30 miliard USD, což by překonalo největší dosavadní IPO Aramco z roku 2019 (29 miliard USD). Společnost dominuje v raketových startách, satelitní komunikaci..."
+      }
+      
+      ,{
+        "title"    : "Trumpův bizarní vlastní gól v exportu čipů",
+        "url"      : "/tech-news/2025-12-12/trumps-bizarre-chip-export-own-goal/",
+        "category" : "tech_news",
+        "content"  : "SouhrnDonald Trump oznámil na platformě Truth Social zrušení amerických exportních omezení na prodej pokročilých polovodičů do Číny, konkrétně druhého nejlepšího čipu od Nvidia. Toto rozhodnutí představuje riziko pro udržení vedoucího postavení USA v závodě o umělou inteligenci, kde je klíčový monopol na specializované čipy pro trénink AI modelů. Experti varují, že Čína by tak mohla rychleji dohnat v této oblasti.Klíčové body Trumpovo prohlášení zrušuje restrikce zavedené Bidem v říjnu 2022 na prodej nejpokročilejších čipů do Číny. Nvidia je jediná firma schopná vyrábět ve velkém čipy pro náročné výpočty potřebné k tréninku špičkových AI modelů. Čína je na úrovni USA v..."
+      }
+      
+      ,{
+        "title"    : "Šéf AI v Bílém domě obhajuje Trumpovo omezení státních regulací umělé inteligence",
+        "url"      : "/tech-news/2025-12-12/white-house-ai-czar-defends-trump-push-to-rein-in/",
+        "category" : "tech_news",
+        "content"  : "SouhrnDavid Sacks, známý jako AI šéf Bílého domu, obhájil direktivu prezidenta Donalda Trumpa, která má omezit státní regulace umělé inteligence. Tento krok reaguje na rostoucí počet rozdílných předpisů v jednotlivých státech USA, což komplikuje vývoj AI modelů pro menší firmy a startupy. Administrativa plánuje spolupracovat s Kongresem na vytvoření společného národního rámce.Klíčové body Trump podepsal direktivu, která směřuje k federálnímu standardu pro regulaci AI. Problémem je současný chaos s 50 různými státními regulacemi, což ztěžuje compliance pro startupy. Lobbying vedly firmy jako OpenAI, Google a venture kapitálová společnost Andreessen Horowitz. Cílem je posílit konkurenceschopnost USA vůči Číně v oblasti AI...."
+      }
+      
+      ,{
+        "title"    : "Nové podklady odhalují, o čem skutečně jde Elonovi Muskovi v žalobě proti Apple a OpenAI",
+        "url"      : "/tech-news/2025-12-12/new-filings-reveal-what-elon-musks-lawsuit-against/",
+        "category" : "tech_news",
+        "content"  : "SouhrnNové dokumenty v žalobě společnosti xAI ukazují, že spor proti Apple a OpenAI se netýká primárně umístění aplikace Grok v App Store, ale spíše širších protisoutěžních praktik. Elon Musk obviňuje oba subjekty z uzavírání trhů v oblasti AI, což brání inovátorům jako xAI a platformě X (dříve Twitter). Žaloba požaduje zastavení těchto praktik a odškodné v miliardách dolarů.Klíčové body V červenci 2025 xAI vydalo model Grok 4, nástroj Grok Imagine pro generování obrázků a personalizované chatboti, což posunulo aplikaci Grok z 60. na 29. místo v App Store. Po zdarma zpřístupnění Grok 4 appka vyskočila na 5. místo, což vedlo..."
+      }
+      
+      ,{
+        "title"    : "Výrobce robota Neo za 20 tisíc dolarů má dohodu na 10 000 humanoidních robotů",
+        "url"      : "/tech-news/2025-12-12/the-maker-of-the-20k-neo-robot-has-a-deal-for-1000/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost 1X, která v říjnu spustila předobjednávky na humanoidního robota Neo pro domácí použití za 20 000 dolarů, nyní uzavřela dohodu s private equity firmou EQT na nasazení až 10 000 těchto robotů v průmyslu během příštích pěti let. Roboti budou integrováni do firem v portfoliu EQT, kde provedou úkoly ve výrobě, provozu zařízení a zdravotnictví ve spolupráci s lidmi. První piloti v USA odstartují v roce 2026, současně s dodávkami pro spotřebitele.Klíčové body Dohoda na až 10 000 robotů Neo pro portfolio společností EQT v oblastech výroby, provozu a zdravotnictví. Roboti používají stejné AI jako verze pro veřejnost, s..."
+      }
+      
+      ,{
+        "title"    : "Další štěkoty a kousnutí pro pátek 12. prosince: Disney uzavírá licenční dohodu na postavy s OpenAI; USPTO podporuje práva veřejného vystoupení na rádiu podle zákona o autorském právu; a Obecní soud EU snižuje pokutu Intelu o 140 milionů eur",
+        "url"      : "/tech-news/2025-12-12/other-barks-bites-for-friday-december-12-disney-cu/",
+        "category" : "tech_news",
+        "content"  : "SouhrnČlánek shrnuje klíčové události z oblasti duševního vlastnictví v technologickém sektoru. Nejvýznamnější je třiletá licenční dohoda mezi Disneyem a OpenAI na použití Disneyových postav v AI modelech, doprovázená investicí 1 miliardy USD od Disneye do OpenAI. Další témata zahrnují snížení pokuty pro Intel evropským soudem, podporu USPTO pro platby za veřejné vystoupení na rádiu a další soudní a legislativní kroky.Klíčové body Disney investuje 1 miliardu USD do OpenAI a licencuje své postavy pro AI aplikace, současně žádá Google o zastavení porušování autorských práv. Obecní soud EU snížil pokutu Intelu z 1,06 miliardy eur na 923 milionů eur za protisoutěžní praktiky..."
+      }
+      
+      ,{
+        "title"    : "Bílý dům nařizuje agenturám přestat používat &#39;zkreslenou&#39; AI",
+        "url"      : "/tech-news/2025-12-12/white-house-instructs-agencies-to-stop-using-biase/",
+        "category" : "tech_news",
+        "content"  : "SouhrnÚřad pro management a rozpočet (OMB) vydal 12. prosince 2025 memorandum, které federálním agenturám nařizuje zajistit, aby umělá inteligence, především velké jazykové modely (LLM), produkovala pravdivé výstupy bez manipulace ve prospěch ideologických dogmat. Tento krok vychází z prezidentského výkonného příkazu Donalda Trumpa z července, který měl eradikovat tzv. ‘woke’ AI v federální správě.Klíčové body Federální agentury musí vyhodnotit stávající kontrakty na LLM a upravit je tak, aby odpovídaly principům nestranné AI. Do 11. března 2026 aktualizovat interní politiky a postupy včetně mechanismu pro hlášení LLM, které porušují nová pravidla. Při zadávání nových zakázek na LLM získávat od dodavatelů dostatečné informace..."
+      }
+      
+      ,{
+        "title"    : "Co je v sázce v Trumpově výkonném nařízení mířícím na omezení státních regulací AI",
+        "url"      : "/tech-news/2025-12-12/whats-at-stake-in-trumps-executive-order-aiming-to/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPrezident Donald Trump podepsal 11. prosince 2025 výkonný příkaz, který má překonat státní zákony regulující umělou inteligenci. Tento krok reaguje na rostoucí počet státních regulací, které administrativa považuje za překážku inovacím v AI. Nařízení zavádí národní rámec s minimální administrativní zátěží a vyzývá federální úřady k boji proti nesouladným státním předpisům.Klíčové body V roce 2025 přijalo 38 států zákony regulující AI, od zákazu stalking pomocí AI robotů po omezení systémů manipulujících chováním lidí. Nařízení vyzývá generálního prokurátora k vytvoření úderné skupiny pro soudní výzvy proti státním zákonům a ministra obchodu k identifikaci „znepokojivých” regulací s následným zadržováním fondů z programu..."
+      }
+      
+      ,{
+        "title"    : "Obchod s čipy Nvidia je národní bezpečnostní katastrofa na spadnutí",
+        "url"      : "/tech-news/2025-12-12/the-nvidia-chip-deal-is-a-national-security-disast/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPrezident Donald Trump navrhl umožnit společnosti Nvidia exportovat nejmodernější polovodiče do Číny výměnou za 25procentní podíl z výnosů pro americkou vládu. Tento krok by podle expertů výrazně posílil technologické kapacity Číny v oblasti umělé inteligence a ohrozil národní bezpečnost USA. Deal navíc pravděpodobně porušuje Ústavu USA kvůli zákazu daní na export.Klíčové body Nvidia CEO Jensen Huang kritizoval tvrdý postoj k Číně jako „ničení amerického snu” a označil ho za „nepatriotický”. Čína představuje pro Nvidia neprostěřený trh v hodnotě 50 miliard dolarů, klíčový pro růst firmy. Trump zvýšil podíl z původních 15 % na 25 %. Autor čláčku přirovnává deal k..."
+      }
+      
+      ,{
+        "title"    : "Hackeři se vydávající za policii oklamávají velké technologické firmy pro přístup k soukromým datům",
+        "url"      : "/tech-news/2025-12-12/hackers-posing-as-law-enforcement-are-tricking-big/",
+        "category" : "tech_news",
+        "content"  : "SouhrnKyberzločinci se vydávají za příslušníky orgánů činných v trestním řízení, aby přiměli velké technologické společnosti jako Apple nebo Google k vydání osobních údajů uživatelů. Mezi taktiky patří vytváření falešných emailových adres podobných oficiálním policejním (typosquatting) a zneužívání kompromitovaných policejní schránek prostřednictvím business email compromise (BEC). Firmy reagují zaváděním ověřených portálů pro žádosti o data, aby omezily podvodné úniky.Klíčové body Kyberzločinci zneužívají legální povinnost tech firem sdílet osobní údaje (PII) s policií na základě soudních příkazů nebo nouzových žádostí. Používají typosquatting pro vytvoření webů a emailů téměř identických s oficiálními policejními. Kompromitují policejní emailové schránky BEC útoky, čímž získávají věrohodné kanály..."
+      }
+      
+      ,{
+        "title"    : "Fox News AI Newsletter: Hegseth chce revolučně změnit americké válečnictví",
+        "url"      : "/tech-news/2025-12-12/fox-news-ai-newsletter-hegseth-moves-to-revolution/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPentagon spustil platformu GenAI.mil poháněnou modelem Google Gemini, která má poskytnout americkým vojákům přímý přístup k AI nástrojům pro optimalizaci bojových operací. Disney investovalo miliardu dolarů do OpenAI a jeho generální ředitel Bob Iger ujišťuje tvůrce, že jejich práce nebude ohrožena. Prezident Trump navíc prohlásil, že všechny nové AI továrny v USA budou soběstačné v energetice.Klíčové body Pentagon spouští GenAI.mil, vojenskou AI platformu na bázi Google Gemini pro podporu obranných operací. Disney uzavřelo investici 1 miliardy dolarů do OpenAI, přičemž CEO Bob Iger zdůrazňuje, že AI nenahradí kreativce. Trump reaguje na zprávu o energetické převaze Číny v AI závodě slibem..."
+      }
+      
+      ,{
+        "title"    : "Bojí se USA Huawei? Výkon akcelerátoru Ascend 910C vysvětluje zrušení zákazu Nvidia H200 pro Čínu",
+        "url"      : "/tech-news/2025-12-12/is-the-us-afraid-of-huawei-reports-point-to-the-as/",
+        "category" : "tech_news",
+        "content"  : "SouhrnBílý dům autorizoval export AI akcelerátorů Nvidia H200 do Číny s 25procentním poplatkem na každou zásilku. Toto rozhodnutí pramení z rychlého pokroku Huawei v oblasti čipů Ascend 910C, zejména v systému CloudMatrix 384 s 384 integrovanými akcelerátory. Cílem je udržet americkou dominanci na globálním trhu AI hardware, přičemž pokročilé architektury Nvidia jako Blackwell a Rubin zůstávají omezené.Klíčové body USA povolily export H200 s 25% poplatkem, přičemž zvažovaly varianty od úplného zákazu po nasycení trhu. Huawei CloudMatrix 384 dosahuje 300 petaflops v hustém BF16 výpočtu a překonává Nvidia GB200 NVL72 v surovém výkonu, paměti (3,6násobek) a šířce pásma paměti (více než..."
+      }
+      
+      ,{
+        "title"    : "Donald Trump se pokouší překonat státní regulace AI výkonným příkazem",
+        "url"      : "/tech-news/2025-12-12/donald-trump-tries-to-override-state-ai-regulation/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPrezident Donald Trump vydal výkonný příkaz s názvem „Zajištění národního rámce politiky pro umělou inteligenci”. Tento dokument nezakládá přímý národní regulační rámec pro AI, ale snaží se omezit státní iniciativy podmíněním federálních financování na to, aby státy neuváděly příliš restriktivní zákony. Reakce od kritiků i příznivců naznačují, že jde o významný krok proti fragmentaci regulací.Klíčové body Podmiňuje federální financování širokopásmového přístupu a další granty na nevyhlašování a nevymáhání restriktivních státních regulací AI. Cílí na zákony, které brzdí mezistátní obchod, vyjímá oblasti dětské bezpečnosti, infrastruktury datových center a státní nákupy AI technologií. Navazuje na Trumpovo neúspěšné volání po federálním standardu AI..."
+      }
+      
+      ,{
+        "title"    : "Co potřebujete vědět o návrhu Trumpa na omezení státních regulací AI",
+        "url"      : "/tech-news/2025-12-12/what-to-know-about-trumps-draft-proposal-to-curtai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPrezident Donald Trump zvažuje vydání návrhu výkonného nařízení, které by federální agentury pověřilo tlakem na státy, aby se zdržely regulací umělé inteligence. Tento krok přichází v době, kdy čtyři státy – Colorado, Kalifornie, Utah a Texas – již přijaly zákony omezující použití AI v soukromém sektoru. Kritici z obou stran politického spektra obviňují návrh z upřednostňování zájmů velkých technologických firem.Klíčové body Návrh nařizuje federálním agentuřám odstrašovat státy od „přílišných“ regulací AI, aby se podpořila inovace. Státy jako Kalifornie a Colorado mají zákony vyžadující transparentnost a omezení sběru osobních údajů v systémech AI. Trump a republikáni argumentují, že regulace brzdí růst..."
+      }
+      
+      ,{
+        "title"    : "Thinking Machines zpřístupňuje službu Tinker pro doladění umělé inteligence pro širokou veřejnost",
+        "url"      : "/tech-news/2025-12-12/thinking-machines-makes-its-tinker-ai-fine-tuning/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Thinking Machines Lab Inc. s centrem v San Franciscu dnes zpřístupnila svou službu Tinker pro doladění umělé inteligence pro širokou veřejnost. Tinker umožňuje efektivní přizpůsobení velkých jazykových modelů (LLM) pomocí metody Low-Rank Adaptation (LoRA), která vyžaduje méně výpočetních zdrojů než tradiční přístupy. Firmu v únoru 2025 založila Mira Murati, ex-šéftechnologička OpenAI, a v červnu získala 2 miliardy dolarů v seed kole při valuaci 10 miliard dolarů.Klíčové body Založení: Únor 2025 Mira Murati (dříve OpenAI, zodpovědná za ChatGPT a Sora) a tým s experty jako Soumith Chintala (spoluvytvořitel PyTorch z Meta). Financování: 2 miliardy dolarů seed kolo s účastí Nvidia,..."
+      }
+      
+      ,{
+        "title"    : "Integrace suchého zpracování a před-sodiací umožňuje sodíkové baterie s vysokou energetickou hustotou",
+        "url"      : "/tech-news/2025-12-13/integrating-dry-processing-and-pre-sodiation-enabl/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVýzkumníci vyvinuli metodu suchého zpracování (dry-processing) pro výrobu sodíkových baterií, která integruje před-sodiaci pomocí obětovaných sodíkových solí, jako je Na₂C₂O₄. Tato přístup eliminuje potřebu rozpouštědel, zajišťuje úplné rozložení soli a vytváří pevné elektrické spoje v hustých elektrodách. Výsledkem je nárůst energetické hustoty o 82,5 % a prodloužení životnosti o 200 cyklů u baterií s povrchovou kapacitou 5,4 mAh cm⁻².Klíčové body Suché zpracování s vysokorychlostním smícháním a teplým kalandrováním vytváří homogenní směs Na₂C₂O₄ s vodivými přísadami, která obaluje aktivní částice Na₃V₂(PO₄)₃. Úplné využití teoretické kapacity Na₂C₂O₄ v hustých elektrodách o hmotnosti 54 mg cm⁻², na rozdíl od agregace částic v tradičních..."
+      }
+      
+      ,{
+        "title"    : "ChatGPT: Vše, co potřebujete vědět o tomto chatovacím robotovi s umělou inteligencí",
+        "url"      : "/tech-news/2025-12-13/chatgpt-everything-you-need-to-know-about-the-ai-c/",
+        "category" : "tech_news",
+        "content"  : "SouhrnChatGPT, chatovací robot s umělou inteligencí od OpenAI, byl spuštěn v listopadu 2022 a rychle získal 300 milionů týdenních aktivních uživatelů. V roce 2025 OpenAI řeší konkurenci ze strany čínských firem jako DeepSeek, interní změny a právní spory, zatímco pokračuje v rozvoji produktů včetně partnerství s Apple a vydání modelů GPT-4o a Sora. Článek shrnuje klíčové události a timeline aktualizací.Klíčové body 300 milionů týdenních aktivních uživatelů, což ukazuje na masivní adopci. Partnerství s Apple pro Apple Intelligence, integrující generativní AI do zařízení. Vydání GPT-4o s hlasovými schopnostmi pro interakci řečí a Sora pro generování videa z textu. Interní krize: Odchody..."
+      }
+      
+      ,{
+        "title"    : "Pro kanadské startupy byl AI dominantní silou v roce 2025",
+        "url"      : "/tech-news/2025-12-13/for-canadas-startups-ai-was-a-dominant-force-in-20/",
+        "category" : "tech_news",
+        "content"  : "SouhrnKanadské startupy v roce 2025 prožily obtížný rok plný politické nejistoty z federálních a provinčních voleb i obchodních turbulencí způsobených americkými tarify. Přesto AI firmy dominovaly investiční scénu, když získaly největší rundy financování, jako 689 milionů kanadských dolarů pro Cohere a 215 milionů amerických dolarů pro Multiverse. Celkový počet investičních dealů klesl, ale AI projekty si uchmatly ty nejvýznamnější.Klíčové body Kanadské startupy čelily poklesu celkového počtu investic podle dat CVCA, přesto AI firmy jako Cohere (689 milionů CAD) a Multiverse (215 milionů USD) získaly největší sumy. Benjamin Bergen, odcházející šéf Council of Canadian Innovators (CCI), zdůrazňuje nutnost rekapitalizace kanadského inovativního..."
+      }
+      
+      ,{
+        "title"    : "Oracle odkládá datacentra pro OpenAI do roku 2028, akcie AI infrastruktury klesají",
+        "url"      : "/tech-news/2025-12-13/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%9B%88%ED%92%8D-%EA%B0%80%EC%A7%9C-%EB%89%B4%EC%8A%A4-%EB%B3%B4%EB%8F%84-%EC%96%B4%EB%94%94%EA%B8%B8%EB%9E%98/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOracle odložil dokončení části datacenter určených pro OpenAI z původně plánovaného roku 2027 na rok 2028. Tato zpráva, publikovaná Bloombergem, vedla k prudkému poklesu akcií společností zaměřených na AI infrastrukturu, včetně těch v oblasti polovodičů. Kontextem je šíření dezinformací o výsledcích Broadcomu, které zesílily obavy z přehřátého trhu s AI.Klíčové body Oracle posunul termíny pro datacentra pro OpenAI o rok. Akcie AI infrastrukturních firem prudce klesly po této zprávě. Fake news o slabých výsledcích Broadcomu přispěla k prodejním tlakům. Dluhopisy Oracle se obchodují jako vysoko rizikové (junk bonds) kvůli obavám z návratnosti AI investic. Larry Ellison, zakladatel Oracle, vsadil na..."
+      }
+      
+      ,{
+        "title"    : "Rivian oznámil AI čip v kroku k autonomnímu řízení",
+        "url"      : "/tech-news/2025-12-13/rivian-announces-ai-chip-in-move-towards-self-driv/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRivian, americký výrobce elektromobilů zaměřený na prémiové SUV a pickupy, oznámil vlastní navržený AI čip. Tento procesor napájí nový Autonomy Compute Module 3, který se objeví v příští generaci vozů R2 SUV a slouží k zpracování dat pro autonomní řízení. Oznámení proběhlo na první Autonomy and AI Day společnosti v Silicon Valley.Klíčové body Čip dosahuje výkonu 1600 sparse INT8 TOPS (trilion operací za sekundu v 8bitové celé aritmetice s řídkými daty) a zpracovává 5 miliard pixelů za sekundu. Je čtyřnásobně výkonnější než současný systém Rivianu založený na čipech Nvidia. Navržený a zapouzdřený interně Rivianem, výroba čipu probíhá u externích dodavatelů...."
+      }
+      
+      ,{
+        "title"    : "Reportáž: Intel by mohl koupit startup na inference čipy SambaNova za 1,6 miliardy dolarů",
+        "url"      : "/tech-news/2025-12-13/report-intel-could-acquire-inference-chip-startup/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Intel Corp. údajně rokuje o akvizici startupu SambaNova Systems za přibližně 1,6 miliardy dolarů včetně dluhů. SambaNova vyvíjí čipy pro umělou inteligenci optimalizované na inference, tedy fázi, kdy trénované modely zpracovávají požadavky uživatelů v reálném provozu. Pokud k akvizici dojde, stane se z ní první velkou akvizicí Intelu pod vedením nového generálního ředitele Lip-Bu Tana.Klíčové body Intel jedná o koupi SambaNova Systems za 1,6 miliardy dolarů; jednání jsou v pokročilém stádiu podle zdrojů Bloombergu. SambaNova prodává čip SN40L optimalizovaný na inference s vysokou energetickou účinností díky snížení pohybu dat mezi pamětmi. Čip využívá tři typy pamětí (SRAM, HBM, DRAM)..."
+      }
+      
+      ,{
+        "title"    : "Spacex Elona Muska má valuaci 800 miliard dolarů při přípravě na vstup na burzu",
+        "url"      : "/tech-news/2025-12-13/elon-musks-spacex-valued-at-800-billion-as-it-prep/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpacex, kosmická společnost Elona Muska, získala valuaci 800 miliard dolarů v rámci interního oceňování před plánovaným vstupem na burzu. Tato hodnota překonává předchozí odhady a odráží rostoucí zájem investorů o komercializaci vesmírných letů. Firma se připravuje na IPO, které by mohlo proběhnout v příštích letech a přinést miliardy dolarů na rozvoj raket Starship a satelitní sítě Starlink.Klíčové body Valuace 800 miliard dolarů pochází z interního kola financování a předpokládá úspěšné IPO. SpaceX dominuje v opakovaně použitelných raketách Falcon 9 a plánuje plně použitelný Starship pro mise na Měsíc a Mars. Starlink již obsluhuje miliony uživatelů a generuje významné příjmy z..."
+      }
+      
+      ,{
+        "title"    : "Google odstranil AI videa s Disney postavami po výzvě k zastavení",
+        "url"      : "/tech-news/2025-12-13/google-takes-down-disney-ai-videos-following-cease/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle odstranil z YouTube desítky videí generovaných umělou inteligencí, která zobrazovala postavy Disney jako Mickey Mouse, Deadpool nebo Moana. Důvodem byla výzva k zastavení (cease and desist) od Disney, která obviňuje Google z porušení autorských práv na masivní škále. Tato akce přichází krátce po oznámení Disney o tříleté dohodě v hodnotě 1 miliardy dolarů s OpenAI na licencování svých postav pro video generátor Sora.Klíčové body Google odstranil AI-generovaná videa s Disney postavami po přijetí výzvy k zastavení. Disney uzavřelo dohodu s OpenAI za 1 miliardu dolarů na tříleté licencování postav pro model Sora, který generuje videa z textových popisů. Disney..."
+      }
+      
+      ,{
+        "title"    : "Šéf Samsungu se setkal s Elonem Muskem z Tesly k diskusi o čipech",
+        "url"      : "/tech-news/2025-12-13/samsung-chief-meets-with-teslas-elon-musk-to-discu/",
+        "category" : "tech_news",
+        "content"  : "SouhrnŠéf Samsungu Jun Young-hyun se setkal s Elonem Muskem, aby prodiskutovali spolupráci na výrobě čipů pro Tesla. Samsung již v červenci podepsal smlouvu na výrobu pokročilého čipu AI6 pro nadcházející elektromobily Tesly a krátce poté získal zakázku na současný čip AI5. Toto partnerství posiluje dodávatelské řetězce pro autonomní systémy v elektromobilech.Klíčové body Setkání šéfa Samsungu s Elonem Muskem zaměřené na čipy AI5 a AI6. Samsung vyrábí AI6 pro budoucí modely Tesly, včetně autonomních funkcí. Dodatečná zakázka na AI5 pro současnou generaci vozidel. Partnerství podporuje vývoj Full Self-Driving (FSD) systémů Tesly. Samsung Foundry hraje klíčovou roli v dodávkách pro elektromobilitu.PodrobnostiSamsung, jako..."
+      }
+      
+      ,{
+        "title"    : "Nvidia může zvýšit výrobu AI čipů H200 kvůli vysoké poptávce čínských firem včetně Alibaba a ByteDance: Zpráva",
+        "url"      : "/tech-news/2025-12-13/nvidia-may-increase-h200-ai-chip-output-amid-high/",
+        "category" : "tech_news",
+        "content"  : "SouhrnNvidia zvažuje rozšíření výrobní kapacity svých H200 AI čipů kvůli překročení současné produkce poptávkou z Číny. Podle zdrojů agentury Reuters mezi zájemce patří e-commerce gigant Alibaba a vlastník platformy Douyin (TikTok) ByteDance. Toto přichází po uvolnění amerických exportních omezení prezidentem Donaldem Trumpem.Klíčové body Vysoká poptávka od čínských firem překonává aktuální výkon Nvidia, což vede k plánům na přidání nové kapacity. Alibaba a ByteDance kontaktovaly Nvidia ohledně velkých objednávek H200 čipů. Nvidia prohlásila, že licencované prodeje do Číny neovlivní dodávky pro americké zákazníky. Trump 9. prosince povolil export H200 čipů do Číny za 25procentní poplatek z prodejů. TSMC a čínské ministerstvo..."
+      }
+      
+      ,{
+        "title"    : "ChatGPT 5.2: OpenAI model pro produktivitu, programování a plánování",
+        "url"      : "/tech-news/2025-12-13/chatgpt-52-openais-best-ai-yet-for-productivity-co/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI představilo ChatGPT 5.2, aktualizovanou verzi velkého jazykového modelu (LLM), která přináší výrazná vylepšení v oblasti produktivity, programování a plánování úkolů. Model exceluje v generování složitých SVG vektorových grafik, automatizaci pokročilých tabulek v Excelu a tvorbě strategických obchodních plánů. Díky lepším výsledkům v benchmarkových testech se stává univerzálním nástrojem pro analytiky, programátory a manažery.Klíčové body Generování složitých SVG obrázků pro designéry a vývojáře webových aplikací. Automatizace komplexních Excel tabulek, včetně vzorců a datové analýzy. Tvorba strategických byznys plánů s ohledem na data a trendy. Lepší výkon v AI benchmarkách oproti předchozím verzím. Intuitivní integrace do pracovních postupů pro různé profese.PodrobnostiChatGPT..."
+      }
+      
+      ,{
+        "title"    : "USA zakládají Pax Silica s spojenci klíčovými pro globální dodavatelské řetězce AI a čipů",
+        "url"      : "/tech-news/2025-12-13/us-forms-pax-silica-with-allies-central-to-global/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpojené státy americké zahájily iniciativu Pax Silica, do které se zapojily Austrálie, Japonsko, Jižní Korea, Velká Británie, Singapur a Izrael. Na summitu ve Washingtonu DC podepsaly deklaraci zaměřenou na budování bezpečného dodavatelského řetězce křemíku, který pokrývá oblasti od kritických minerálů a energie po pokročilou výrobu polovodičů, AI infrastrukturu a logistiku. Iniciativa má snížit závislosti na nespolehlivých dodavatelích a zajistit dlouhodobou konkurenceschopnost v technologiích.Klíčové body Podepsání deklarace zeměmi: USA, Austrálie, Japonsko, Jižní Korea, Velká Británie, Singapur, Izrael. Rozsah: Od těžby kritických minerálů (jako křemík), energie, přes výrobu polovodičů až po AI infrastrukturu a logistiku. Cíle: Snížení nátlakových závislostí, ochrana materiálů pro..."
+      }
+      
+      ,{
+        "title"    : "Shiprocket podal aktualizované dokumenty pro IPO u SEBI; míří na 2342 krůrů rupií z veřejné nabídky",
+        "url"      : "/tech-news/2025-12-13/shiprocket-files-updated-ipo-papers-with-sebi-eyes/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTemasekem podporovaná indická platforma Shiprocket pro podporu e-commerce podala 13. prosince 2025 aktualizované draftové dokumenty indickému regulátorovi SEBI pro úvodní veřejnou nabídku (IPO) v celkové hodnotě přes 2342 krůrů rupií, což při aktuálním kurzu odpovídá zhruba 282 milionům dolarů. Nabídka kombinuje novou emisi akcií za 1100 krůrů rupií s nabídkou na prodej (OFS) stávajících akcií za 1242,3 krůru rupií od současných akcionářů. Výtěžek má posloužit k rozšíření platforem, marketingu, technologické infrastruktury a splátce dluhů.Klíčové body Nová emise akcií: Až 1100 krůrů rupií, které společnost použije na růst svých platforem. Nabídka na prodej (OFS): 1242,3 krůru rupií od investorů Lightrock, Tribe..."
+      }
+      
+      ,{
+        "title"    : "Čína snižuje mezeru v umělé inteligenci oproti USA tři roky po šoku z ChatGPT",
+        "url"      : "/tech-news/2025-12-13/china-narrows-ai-gap-with-us-3-years-after-initial/",
+        "category" : "tech_news",
+        "content"  : "SouhrnČína výrazně zúžila technologickou mezeru v oblasti umělé inteligenci oproti Spojeným státům tři roky po uvedení ChatGPT od OpenAI. Čínské velké technologické firmy a startupy vyvinuly konkurenceschopné velké jazykové modely (LLM), což změnilo postoje investorů a umožnilo domácímu trhu blokovat americké služby.Klíčové body Čínská vláda okamžitě požádala experty, včetně profesorů z Univerzity Tsinghua, o analýzy dopadů generativní AI. Velké firmy jako ty z Big Tech a startupy rychle spustily vlastní chatbota a LLM, které musely registrovat u státních orgánů. V roce 2022 investoři odmítali financovat čínské LLM kvůli chybějící monetizaci, ale v druhé polovině 2025 se očekávání změnila. Strategie “zahraďovací..."
+      }
+      
+      ,{
+        "title"    : "Obrat rolí: Meta přebírá Qwen, jak se čínská AI stává základem oboru",
+        "url"      : "/tech-news/2025-12-13/role-reversal-meta-adopts-qwen-as-chinese-ai-becom/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAmerický technologický gigant Meta, který v únoru 2023 vydal open-source modely rodiny Llama, nyní údajně bere inspiraci z čínského konkurenta. Podle zprávy Bloomberg z 20. listopadu 2024 využívá Meta model Qwen od Alibaba Cloud k trénování svého nového modelu Avocado. Tento vývoj obrací role v open-source ekosystému velkých jazykových modelů (LLM), kde dříve čínské firmy stavěly na americké technologii.Klíčové body Meta vydalo Llama v únoru 2023 jako open-source, což bylo neobvyklé mezi vývojáři AI. První generace Qwen od Alibaba Cloud v září 2023 převzala tréninkový proces Llama a citovala výzkum Meta. Nyní Meta údajně trénuje model Avocado na bázi Qwen,..."
+      }
+      
+      ,{
+        "title"    : "Apple připravuje 10 nových zařízení do jara 2026",
+        "url"      : "/tech-news/2025-12-13/apples-2026-game-changing-tech-revealed-10-must-se/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple plánuje do jara 2026 dvě hlavní představení, při kterých uvede na trh 10 nových zařízení. Tyto produkty budou stavět na vylepšených čipech jako A19, M4, M5 Pro a M5 Max, které slibují vyšší výkon a efektivitu. Další zaměření zahrnuje pokročilou bezdrátovou konektivitu včetně Wi-Fi 7, ultraširokopásmové technologie a integraci s chytrými domácnostmi, přičemž informace vycházejí z analýzy videa kanálu Max Tech na YouTube.Klíčové body A19 čip pro 12. generaci budget iPadu a iPhone 17e: rychlejší zpracování dat a lepší správa energie pro běžné úkoly. M4 čip pro iPad Air: zlepšení multitaskingu a výkonu aplikací pro práci i zábavu. M5..."
+      }
+      
+      ,{
+        "title"    : "Investiční boom: Od Google po Microsoft, proč technologické společnosti investují do Indie",
+        "url"      : "/tech-news/2025-12-13/investment-boom-from-google-to-microsoft-why-tech/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTechnologické giganty jako Amazon, Microsoft a Google oznámily investice přesahující 67,5 miliardy dolarů do Indie, zaměřené především na rozvoj umělé inteligence. Tyto prostředky mají posílit infrastrukturu datových center, školení pracovní síly a suverénní schopnosti Indie v oblasti AI. Indie tak získává roli strategického centra pro globální AI inovace.Klíčové body Amazon plánuje investovat 35 miliard dolarů do Indie do roku 2030, s důrazem na digitalizaci poháněnou AI, růst exportů a tvorbu pracovních míst. Microsoft oznámil 17,5 miliardy dolarů do roku 2029, což je největší investice v Asii, zaměřená na infrastrukturu, dovednosti a suverénní AI schopnosti. Celkové závazky přes 67,5 miliardy dolarů..."
+      }
+      
+      ,{
+        "title"    : "No, to je trapné: Největší technologická selhání roku 2025",
+        "url"      : "/tech-news/2025-12-13/well-thats-embarrassing-the-biggest-tech-fails-of/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRok 2025 přinesl řadu technologických selhání, od zklamání z nového modelu GPT-5 od OpenAI po výpadky velkých služeb jako Starlink a AWS. Mezi nejvýraznější patří neúspěšné uvedení GPT-5, které vedlo k návratu starších verzí, a problémy s datovými centry pro AI kvůli nedostatku komponent. Tyto incidenty ukazují na rizika spojená s rychlým vývojem AI a infrastrukturou.Klíčové body OpenAI vydalo GPT-5 v srpnu 2025, ale uživatelé kritizovali chladnější odpovědi oproti GPT-4o, což vedlo k obnovení volby modelů pro placené uživatele. CEO Sam Altman byl překvapen negativní reakcí, což přispělo k vyhlášení „code red“ v OpenAI po vydání Gemini 3. Významné výpadky..."
+      }
+      
+      ,{
+        "title"    : "Intel se blíží k akvizici SambaNova za 1,6 miliardy dolarů",
+        "url"      : "/tech-news/2025-12-13/intel-closing-in-on-sambanova-for-16-billion/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Intel jedná o akvizici startupu SambaNova Systems za 1,6 miliardy dolarů včetně dluhů. SambaNova se specializuje na vývoj specializovaných čipů a systémů pro umělou inteligenci, které slouží k tréninku a nasazení velkých jazykových modelů. Tento krok má pomoci Intelu konkurovat dominantnímu postavení Nvidie na trhu AI hardware.Klíčové body Intel vstoupil do finálních fází vyjednávání o koupi SambaNova za 1,6 miliardy dolarů. SambaNova vyvíjí vlastní AI čipy na bázi architektury DataScale, které optimalizují výpočty pro AI workloads. Akvizice zahrnuje dluhy startupu a posílí Intelovu nabídku v oblasti AI akcelerátorů. SambaNova má klíčové zákazníky jako společnosti z oblasti finance a vládní..."
+      }
+      
+      ,{
+        "title"    : "Tento týdenní zajímavé technologické zprávy z webu (do 13. prosince)",
+        "url"      : "/tech-news/2025-12-13/this-weeks-awesome-tech-stories-from-around-the-we/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTento týden přinesl průlomové zprávy o nové verzi modelu GPT-5.2 od OpenAI, který překonává lidské experty v benchmarku GDPval, dohodě společnosti 1X na nasazení tisíců humanoidních robotů v průmyslu, obřím čínském AI síťovém zařízení fungujícím jako superpočítač a plánech firmy Aurora na stovky autonomních nákladních vozů do roku 2026. Tyto události signalizují rychlý pokrok v automatizaci práce a výpočetních kapacitách.Klíčové body OpenAI vydalo GPT-5.2, který dosahuje 70,9 % úspěšnosti na úkolech v benchmarku GDPval oproti 53,3 % u Gemini 3 Pro, s rychlostí 11násobnou a náklady pod 1 % oproti lidským expertům. Společnost 1X uzavřela strategickou dohodu s investorem EQT..."
+      }
+      
+      ,{
+        "title"    : "Velká změna: Čína zužuje mezeru v AI s USA tři roky po šoku z ChatGPT",
+        "url"      : "/tech-news/2025-12-13/sea-change-china-narrows-ai-gap-with-us-three-year/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTři roky po uvedení ChatGPT čínský technologický sektor výrazně zúžil mezeru vůči USA v oblasti velkých jazykových modelů (LLM) a umělé inteligence. Čína investovala masivně do výzkumu a vývoje, což vedlo k domácím modelům srovnatelným výkonem s GPT-4. Tento posun byl iniciován vládní reakcí na počáteční šok, kdy úřady sháněly expertní názory.Klíčové body Čínské modely jako Qwen od Alibaba nebo DeepSeek dosahují výkonu blízkého GPT-4o v benchmarkách jako MMLU nebo HumanEval. Vláda Číny po uvedení ChatGPT vyslala žádosti k univerzitním profesorům a expertům pro rychlou analýzu a strategii. Klíčové investice do čipů a datových center umožnily škálování modelů na stovky..."
+      }
+      
+      ,{
+        "title"    : "Šéf AI divize Microsoftu Mustafa Suleyman varuje, že riziko existenciální zkázy je „téměř absolutní“ – firma by mohla opustit AI, pokud rizika eskalují",
+        "url"      : "/tech-news/2025-12-13/microsofts-ai-chief-mustafa-suleyman-has-warned-th/",
+        "category" : "tech_news",
+        "content"  : "SouhrnŠéf AI divize Microsoftu Mustafa Suleyman varoval, že pravděpodobnost existenciální zkázy způsobené nekontrolovatelnou umělou inteligencí je téměř absolutní, a uvedl, že firma by mohla vývoj AI ukončit, pokud rizika převýší přínosy. Tento postoj představuje nový přístup v odvětví, kde Microsoft posiluje investice do AI prostřednictvím partnerství s OpenAI. Suleyman klade důraz na vývoj bezpečných systémů, které neutečou kontrole.Klíčové body Mustafa Suleyman, spoluzakladatel DeepMind a Inflection, nastoupil do Microsoftu v březnu 2024 a vede vývoj Copilotu a dalších spotřebních AI produktů. Microsoft investoval 1 miliardu dolarů do OpenAI v roce 2019 navzdory varování Billa Gatese, který předpovídal ztráty. Nedávná dohoda s..."
+      }
+      
+      ,{
+        "title"    : "Nate Jones se mýlí ohledně AI datových center ve vesmíru",
+        "url"      : "/tech-news/2025-12-13/nate-jones-gets-ai-data-centers-wrong/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAnalytik Nate Jones, který sbírá zprávy o umělé inteligenci, se mýlí v hodnocení vývoje AI datových center ve vesmíru. Už nyní je v orbitě GPU H100 od společnosti Starcloud a další firmy jako Google připravují vlastní testy. Primární výhodou není chlazení, ale rychlejší škálování na miliony či miliardy čipů.Klíčové body Starcloud vypustila satelit s Nvidia H100 minulý měsíc na Falcon 9, ve spolupráci s Crusoe. Plán komerční verze pro říjen 2026, SpaceX modifikuje satelity V2 mini a V3 mini pro AI uzly. Google testoval TPU a HBM pod protonovým zářením, chyba pro inference je zvládnutelná, cíl 2027. Komunikace přes KU..."
+      }
+      
+      ,{
+        "title"    : "BMW spolupracuje se Samsungem na urychlení solid-state baterií pro elektromobily",
+        "url"      : "/tech-news/2025-12-13/bmw-teams-up-with-samsung-to-speed-up-solid-state/",
+        "category" : "tech_news",
+        "content"  : "SouhrnBMW rozšiřuje své aktivity v oblasti solid-state baterií novým partnerstvím se společností Samsung SDI. Cílem je urychlit komercializaci těchto pokročilých baterií pro elektromobily, které překonávají současné lithiové-iontové baterie v hustotě energie, bezpečnosti a rychlosti nabíjení. Partnerství navazuje na BMW zkušenosti se společností Solid Power.Klíčové body BMW a Samsung SDI společně urychlí vývoj solid-state baterií s stříbrně-uhelníkovým (Ag-C) kompozitem v anódě. Slibované parametry: dojezd 965 km (600 mil), nabíjení z 0 na 80 % za 9 minut, životnost až 20 let. Konkurence jako Toyota (2028), BYD a CATL (2027) již mají vlastní plány na solid-state baterie. BMW dříve spolupracovalo se Solid..."
+      }
+      
+      ,{
+        "title"    : "Články o Nvidia, umělé inteligenci, hackerech, robotické armádě, čipové společnosti a Paramount",
+        "url"      : "/tech-news/2025-12-14/articles-on-nvidia-ai-hackers-robot-army-chip-comp/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTento soubor článků shrnuje nedávné události spojené s čínskými snahami posílit svou pozici v oblasti umělé inteligence, čipů a robotiky, přičemž USA čelí dilematu mezi ekonomickými zájmy a národní bezpečností. Klíčové témata zahrnují potenciální exporty pokročilých čipů Nvidia H200 do Číny, kybernetické útoky spojované s Čínou, nasazení robotických systémů u hranic a výzvy americkému vedení v AI. Tyto události odhalují eskalující geopolitickou soutěž v kritických technologiích.Klíčové body USA zvažují uvolnění exportů Nvidia H200 čipů do Číny kvůli ekonomickým tlakům, přestože Kongres a Bílý dům vedou debatu o rizicích. Hackeři spojení s Čínou využívají zadní vrátka pro potenciální sabotáže, což varují..."
+      }
+      
+      ,{
+        "title"    : "Trump nabízí čipy Si Ťin-pchingovi: Proč umožňuje protivníkovi přístup k pokročilým AI polovodičům – a co za to dostane?",
+        "url"      : "/tech-news/2025-12-14/trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPrezident Donald Trump povolil společnosti Nvidia exportovat svůj pokročilý čip H200 do Číny, přičemž USA si ponechají 25 % z příjmů z těchto prodejů. Toto opatření představuje odklon od předchozích restrikcí na vývoz high-end AI technologií a vyvolává otázky o konzistenci americké politiky vůči Pekingu. Rozhodnutí bylo oznámeno 10. prosince 2025 a okamžitě vyvolalo debatu o bezpečnostních rizicích.Klíčové body Nvidia H200 je high-bandwidth verze čipu Hopper architektury, optimalizovaný pro trénink velkých jazykových modelů (LLM) díky 141 GB HBM3 paměti a výkonu přes 4 petaflopů v FP8. USA získají 25 % z prodejů, což by mohlo přinést miliardy dolarů do státní..."
+      }
+      
+      ,{
+        "title"    : "SpaceX má hodnotu 800 miliard dolarů, tvrdí zpráva. To je teprve začátek.",
+        "url"      : "/tech-news/2025-12-14/spacex-is-worth-800-billion-report-says-this-is-on/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpaceX, soukromá společnost Elona Muska zaměřená na raketové starty a satelitní internet, dosáhla valuace 800 miliard dolarů při sekundární nabídce akcií. Cena akcie stoupla na 421 dolarů z předchozích 212 dolarů v červenci. Hlavní hodnota spočívá v službě Starlink s více než 8 miliony zákazníků, přičemž budoucí růst očekávají investoři od myšlenky datových center pro AI ve vesmíru.Klíčové body Sekundární nabídka akcií za 421 USD/akcii valuuje SpaceX na 800 miliard USD, což překonává OpenAI a ByteDance. Starlink má nyní přes 8 milionů zákazníků, oproti 5 milionům před rokem, a generuje hlavní zisky. SpaceX realizuje více než polovinu všech globálních orbitálních..."
+      }
+      
+      ,{
+        "title"    : "Čína odmítá čipy Nvidia H200 a podkopává strategii USA, říká Sacks",
+        "url"      : "/tech-news/2025-12-14/china-is-rejecting-nvidias-h200-chips-outfoxing-us/",
+        "category" : "tech_news",
+        "content"  : "SouhrnČína aktivně odmítá dovoz vysokovýkonných AI čipů Nvidia H200, které USA pod vedením Donalda Trumpa povolily k exportu jako součást strategie oslabení čínských technologických gigantů jako Huawei. David Sacks, ředitel Bílého domu pro umělou inteligenci, to označil za snahu Číny o plnou nezávislost na zahraničních polovodičích. Čínské firmy tak volí domácí alternativy, což ohrožuje plány Nvidie na obnovu příjmů z tohoto klíčového trhu.Klíčové body Čína zavádí lokální schvalovací proces, který omezuje přístup k čipům H200 a vyžaduje od kupujících odůvodnění nákupu. Nvidia vidí v Číně potenciál až 50 miliard dolarů ročně, analytici Bloomberg Intelligence odhadují příležitost 10 miliard pro H200...."
+      }
+      
+      ,{
+        "title"    : "Hong Kong a Indie pohánějí rekordní rok pro sběr kapitálu v Asii",
+        "url"      : "/tech-news/2025-12-14/hong-kong-india-fuel-blockbuster-year-for-asia-fun/",
+        "category" : "tech_news",
+        "content"  : "SouhrnHongkongský trh s akciemi zažil tento rok čtyřnásobný růst objemu emise akcií na více než 73 miliard dolarů prostřednictvím úvodů na burzu (IPO), soukromých umístění a blokových obchodů. Hong Kong se poprvé od roku 2013 stal největším místem sběru kapitálu v Asii a globálně se umístil těsně za USA. Tento boom poháněly především čínské technologické firmy z oblasti elektromobility a baterií, jako Contemporary Amperex Technology, BYD a Xiaomi.Klíčové body Objem emise akcií v Hong Kongu vzrostl na 73 miliard dolarů, což je čtyřnásobek oproti předchozímu období. Poprvé od roku 2013 je Hong Kong lídrem v Asii pro fundraising, s Indií,..."
+      }
+      
+      ,{
+        "title"    : "Top 10 kyberbezpečnostních incidentů roku 2025",
+        "url"      : "/tech-news/2025-12-14/top-10-cybersecurity-incidents-of-2025/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRok 2025 uzavřel sérií závažných kybernetických incidentů, které překonaly předchozí rekordy v rozsahu útoků i ekonomických škodách. Mezi klíčovými patřily narušení dodavatelských řetězců, výpadky cloudových infrastruktur a masivní DDoS útoky, včetně incidentu u Jaguar Land Rover, který zastavil výrobu a ovlivnil tisíce dodavatelů. Tyto události odhalily systémové slabiny v kritické infrastruktuře.Klíčové body Útok na Jaguar Land Rover (JLR): Zastavení výroby na týdny, ekonomické škody 1,9 miliardy liber pro britskou ekonomiku, postiženo přes 5000 dodavatelů. Útok na Collins Aerospace: Narušení systémů pro check-in a nástup na palubu letadel, ovlivněno evropské letecké spojení. Rekordní DDoS útok o síle 29,7 Tbps, největší dosud..."
+      }
+      
+      ,{
+        "title"    : "Google ohrožuje pracovní místa v zákaznickém servisu díky AI",
+        "url"      : "/tech-news/2025-12-14/google-is-killing-customer-service-jobs-with-ai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle vydal Gemini Live API, které umožňuje podnikům nahradit lidské operátory v zákaznickém servisu pokročilou umělou inteligencí. Tento nástroj kombinuje hlasové, vizuální a textové interakce v reálném čase s nízkou latencí a schopností rozpoznávat emoce, což vede k odstranění tradičních rolí v první a druhé úrovni podpory. Výsledek je masová automatizace, která překonává dřívější pokusy o AI v tomto sektoru.Klíčové body Multimodální vstupy: Podpora hlasu, vidění (např. analýza kamerového obrazu) a textu v reálném čase pro přirozené konverzace. Nízká latence: Rychlé odpovědi bez zpoždění, ideální pro telefonáty, chaty nebo videohovory. Emoční inteligence: Rozpoznává tón hlasu a emoce uživatele pro personalizovanější..."
+      }
+      
+      ,{
+        "title"    : "MercadoLibre (MELI) nasadí humanoidní roboty Digit ve skladu v Texasu",
+        "url"      : "/tech-news/2025-12-14/mercadolibre-meli-to-use-digit-robots-in-texas-war/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMercadoLibre, největší e-commerce a fintech společnost v Latinské Americe, oznámila 10. prosince dohodu s Agility Robotics na nasazení humanoidních robotů Digit ve svém skladu v San Antonio v Texasu. Roboti budou pomáhat s repetitivními a fyzicky náročnými úkoly v logistice, s cílem zlepšit bezpečnost a produktivitu. Společnosti plánují hledat další aplikace v regionech Latinské Ameriky.Klíčové body Dohoda mezi MercadoLibre (NASDAQ: MELI) a Agility Robotics na komerční použití robota Digit v texaském skladu. Digit, humanoidní robot poháněný AI, slouží k manipulaci s nákladem v logistických provozech. Cíl: Automatizace obtížně obsazitelných pozic, zlepšení bezpečnosti pracovníků a zvýšení produktivity. Plány na expanzi do..."
+      }
+      
+      ,{
+        "title"    : "CBI obvinilo čtyři Číňany z kyberzločinu v hodnotě 1000 kr. rupií; odhaleno 111 shell společností",
+        "url"      : "/tech-news/2025-12-14/cbi-chargesheets-4-chinese-behind-rs-1000-cr-cyber/",
+        "category" : "tech_news",
+        "content"  : "SouhrnCentrální vyšetřovací úřad Indie (CBI) podal obžalobu proti 17 osobám, včetně čtyř čínských občanů, a 58 společnostem za zapojení do transnacionální kyberpodvodné sítě, která vyvedla přes 1000 kr. rupií, což činí zhruba 120 milionů dolarů. Vyšetřovatelé odhalili 111 shell společností sloužících k praní špinavých peněz z podvodů jako falešné půjčky, investiční schémata nebo online herní platformy. Síť koordinovaly čínské řídící z zahraničí a využívala indické návesy účty pro vrstvení prostředků.Klíčové body Obvinění proti čtyřem Číňanům: Zou Yi, Huan Liu, Weijian Liu a Guanhua Wang, kteří řídili operace z Číny. Celkem 111 shell společností založených s falešnými dokumenty, dummy řediteli a..."
+      }
+      
+      ,{
+        "title"    : "WGA se obává, že licence Disney s OpenAI &#39;schválí&#39; krádež naší práce",
+        "url"      : "/tech-news/2025-12-14/wga-fears-disneys-licensing-with-openai-will-sanct/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSdružení amerických scenáristů (WGA) ostře kritizovalo licenční dohodu Disney s OpenAI, podle které uživatelé budou moci generovat videa s více než 200 postavami z Disney, Marvel, Pixar a Star Wars pomocí modelu Sora. Gilda obviňuje Disney z podpořy krádeže jejich děl a plánuje prošetřit podmínky dohody. Dohoda zahrnuje i jednomiliardovou investici Disney do OpenAI, ale vylučuje použití podobizny herců.Klíčové body Disney uzavřelo tříletou licenční smlouvu s OpenAI pro model Sora, umožňující generování ‘fanouškovských’ videí s licencovanými postavami od roku 2026. WGA obviňuje OpenAI z krádeže obsahu pro trénink AI a Disney z legitimování tohoto postupu. Dohoda obsahuje 1 miliardu dolarů..."
+      }
+      
+      ,{
+        "title"    : "Hollywood přijímá AI: Disney vsadí miliardu dolarů na OpenAI",
+        "url"      : "/tech-news/2025-12-14/hollywood-embraces-ai-disney-bets-1-billion-on-ope/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Disney investovala jednu miliardu dolarů do OpenAI a uzavřela tříletou licenční smlouvu, která umožňuje platformě Sora AI generovat videa s více než 200 postavami z jejích franšíz, včetně Disney, Marvel, Pixar a Star Wars. Tento krok otevírá dveře k tvorbě krátkých filmů fanoušky za pomoci AI, přestože jsou zakázány podoby a hlasy skutečných herců. Generální ředitel Disney Bob Iger označil OpenAI za nejpokročilejší AI platformu pro média.Klíčové body Investice 1 miliarda USD do OpenAI a tříletá licenční dohoda. Přístup Sora AI k 200+ postavám (Mickey Mouse, Iron Man, Darth Vader aj.), bez herců. Možnost generovat krátké AI videa pro..."
+      }
+      
+      ,{
+        "title"    : "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
+        "url"      : "/tech-news/2025-12-14/with-nvidias-second-best-ai-chips-headed-for-china/",
+        "category" : "tech_news",
+        "content"  : "SouhrnUSA pod vedením prezidenta Donalda Trumpa schválily export druhých nejlepších AI čipů Nvidia, modelů H200, do Číny. Výměnou získá vláda 25 procent zisku z prodejů. Tento krok představuje odklon od přísných bezpečnostních kontrol k obchodním zájmům a vyvolává obavy z posílení čínských schopností v AI pro autonomní zbraně.Klíčové body Prezident Trump schválil export H200 čipů, které jsou přibližně šestkrát výkonnější než dříve povolené H20. USA získají 25 procent zisku z prodejů do Číny. Čipy slouží k pohonu pokročilých AI systémů, včetně navigačních systémů dronů, automatických střeleckých zařízení a algoritmů pro cílení v moderní válce. Rozhodnutí přichází po roce obchodní války..."
+      }
+      
+      ,{
+        "title"    : "Lekce z React2Shell",
+        "url"      : "/tech-news/2025-12-14/lessons-from-react2shell/",
+        "category" : "tech_news",
+        "content"  : "Souhrn prosince 2025 zveřejnila společnost React CVE-2025-55182, kritickou zranitelnost umožňující vzdálené spouštění kódu bez ověření s maximálním skóre CVSS 10.0. Během hodin ji útočníci zneužívali v reálném prostředí na téměř milion serverů s React 19 a Next.js. Tato chyba v protokolu Flight, součásti React Server Components, představuje největší bezpečnostní selhání frameworku po 13 letech bez významných incidentů.Klíčové body Zranitelnost v protokolu Flight umožnila deserializaci škodlivých dat z klienta, což vedlo k provedení libovolného kódu na serveru. Postihla servery s React Server Components bez nutnosti ověření, stačilo odeslat upravený HTTP požadavek. Kořen problému spočíval v nedostatečné ochraně proti neověřeným datům z..."
+      }
+      
+      ,{
+        "title"    : "Uživatelé obviňují OpenAI, že zkazil Sora 2. EOSHD prošetřuje, co se stalo",
+        "url"      : "/tech-news/2025-12-14/users-are-complaining-openai-wreaked-sora-2-eoshd/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI vydal Sora 2, nástroj pro generování videa na bázi AI, pouze na pozvání s působivými výsledky, které umožňovaly složité prompty včetně specifikace kinematografie. Systém se však rychle zhroutil pod zatížením, což vedlo k neoznámenému snížení kvality pro širší dostupnost. Uživatelé na Redditu hlásí dramatický pokles výstupů na úroveň nekvalitního obsahu.Klíčové body Sora 2 na startu zvládala komplexní prompty s detaily jako 180stupňové zatmavení, velkoformátový senzor nebo specifikace objektivů a osvětlení. Systém selhal pod zatížením i při invite-only režimu, což vyžadovalo masivní škrtání výkonu. OpenAI neoznámil změny, což vyvolalo kritiku od placených uživatelů. Původní ukázka s drakem produkovala vysoce kvalitní..."
+      }
+      
+      ,{
+        "title"    : "Poprvé AI analyzuje jazyk stejně dobře jako lidský expert",
+        "url"      : "/tech-news/2025-12-14/for-the-first-time-ai-analyzes-language-as-well-as/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVýzkumníci z University of California v Berkeley a Rutgers University otestovali velké jazykové modely (LLM) na složitých lingvistických úkolech, jako je generalizace pravidel vymyšleného jazyka nebo diagramování vět. Zatímco většina modelů selhala, jeden z nich prokázal schopnosti srovnatelné s postgraduálním studentem lingvistiky. Tento objev zpochybňuje názory, že LLM postrádají schopnost uvažovat o jazyce.Klíčové body LLM byl testován na parsování lingvistických pravidel, diagramování vět a řešení vícevrstvých struktur. Výzkum vede Gašper Beguš z UC Berkeley společně s Maksymilianem Dąbkowskim a Ryanem Rhodesem z Rutgers University. Jednotlivé modely selhaly, ale vybraný LLM překonal očekávání a napodobil lidskou analýzu jazyka. Studie vychází z..."
+      }
+      
+      ,{
+        "title"    : "Prodalo Disney svou duši dohodou s OpenAI Sora?",
+        "url"      : "/tech-news/2025-12-14/has-disney-sold-its-soul-in-deal-with-openais-sora/",
+        "category" : "tech_news",
+        "content"  : "SouhrnDisney uzavřel tříletou licenční dohodu s OpenAI, která umožňuje uživatelům Sora generovat krátká videa s více než 200 postavami z univerzů Disney, Marvel, Pixar a Star Wars. Tento krok následuje po žalobě na Midjourney a představuje změnu postoje k generativní AI. Disney+ plánuje streamovat tyto fanouškovské AI videa.Klíčové body Dohoda umožňuje generování videí s postavami jako Mickey Mouse, Black Panther, Darth Vader nebo postavy z Frozen a Toy Story. OpenAI původně chtělo povolit IP bez souhlasu, ale ustoupilo tlaku mediálních firem kvůli kontroverzním výstupům. Disney dříve opustil vlastní AI projekty kvůli právním a etickým problémům. Sora je AI model pro..."
+      }
+      
+      ,{
+        "title"    : "Strategie ‚vydávej rychle, oprav později‘ v AI od Meta selhala. Dokáže se vrátit?",
+        "url"      : "/tech-news/2025-12-14/metas-ship-fast-fix-later-ai-strategy-has-failed-c/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Meta selhala se svou agresivní strategií v oblasti AI, známou jako ‚vydávej rychle, oprav později‘, která měla umožnit konkurenci s OpenAI a Google. Navzdory miliardovým investicím do náboru talentů a vývoje modelů Llama zaostává za rivaly, klíčoví odborníci odcházejí a vedení snižuje důraz na open-source přístup. Článek zkoumá, zda se Meta dokáže vzpamatovat.Klíčové body Meta utratila 14,3 miliardy dolarů za zakladatele Scale AI Alexandr Wanga a jeho tým, přesto AI pokrok zaostává. Hlavní vědec Yann LeCun, nositel Turingovy ceny, odešel zakládat vlastní firmu. Model Llama 4 selhal a Meta opouští původní důraz na open-source modely, které umožňují volné stahování..."
       }
       
     
