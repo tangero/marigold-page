@@ -188,6 +188,7 @@ Model má několik omezení, která je třeba brát v úvahu:
 - Nejlépe funguje s maximálně 3 vstupními obrázky
 - Při generování textu v obrázcích nejprve vygenerujte text, poté požádejte o obrázek s tímto textem
 - Nahrávání obrázků dětí není momentálně podporováno v EU a Velké Británii
+- Stejně tak u osob bývají velmi častá omezení, nebo jsou obličeje osob v průchodu AI změněné. Není to chyba, je to vlastnost (ochrana těch lidí)
 - Všechny vygenerované obrázky obsahují vodoznak SynthID, aby bylo rozpoznatelné, že je to AI obrázek
 
 ## Praktické využití v různých oblastech
