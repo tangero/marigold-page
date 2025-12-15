@@ -1,7 +1,66 @@
 {
-  "generated": "2025-12-15T12:58:12.025364+00:00",
+  "generated": "2025-12-15T16:57:16.752167+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Soutěž Nvidia Blackwell proti Google TPU – klíčový souboj AI hardware v roce 2026",
+      "description": "Analytici 24/7 Wall St. v podcastu The AI Investor rozebrali konkurenční dynamiku mezi specializovanými čipy TPU od Google a univerzálními GPU od Nvidia, které nyní dominují v AI výpočtech. TPUs nabízejí vyšší energetickou úspornost a nižší celkové náklady, což by mohlo změnit trh, pokud je Google začne prodávat externě.",
+      "slug": "the-nvidia-blackwell-vs-google-tpu-battle-explaine",
+      "publishedAt": "2025-12-14T15:40:32+00:00",
+      "date": "2025-12-14 15:40:32",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/epauqRUKPUiF9JFOIgmPNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/922d386a45e87d5abeaf1867b5b43001",
+      "url": "/tech-news/2025-12-14/the-nvidia-blackwell-vs-google-tpu-battle-explaine/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "companies": [
+        "Nvidia",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Uvnitř AI útoků na SaaS: proč je identita nejslabším článkem",
+      "description": "Bezpečnost SaaS selhává ne na okraji sítě – útoky založené na AI, které zneužívají identity, ji obcházejí úplně. Podle zprávy AppOmni zažilo 75 % organizací incident související se SaaS.",
+      "slug": "inside-the-ai-powered-assault-on-saas-why-identity",
+      "publishedAt": "2025-12-14T15:00:00+00:00",
+      "date": "2025-12-14 15:00:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JFKDCP2HdEKqSGJCkLNprB-1100-80.jpg",
+      "url": "/tech-news/2025-12-14/inside-the-ai-powered-assault-on-saas-why-identity/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Je IBM nejlepší technologickou akcií k nákupu pro rok 2026?",
+      "description": "Oživení IBM poháněné kvantovými počítači by mohlo připravit půdu pro jeden z největších comebacků v technologickém sektoru. Je nyní vhodný čas vstoupit?",
+      "slug": "is-ibm-the-top-tech-stock-to-buy-for-2026",
+      "publishedAt": "2025-12-14T14:30:02+00:00",
+      "date": "2025-12-14 14:30:02",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://media.zenfs.com/en/barchart_com_477/ae0d0724f3fa3ece6982ed9e3039f043",
+      "url": "/tech-news/2025-12-14/is-ibm-the-top-tech-stock-to-buy-for-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "companies": [
+        "IBM"
+      ],
+      "people": []
+    },
     {
       "title": "Google Translate nyní rozumí slangům, rčím a mluví přímo přes sluchátka",
       "description": "Aktualizace se již zavádí v USA a Indii a pokrývá překlady mezi angličtinou a téměř 20 jazyky, včetně španělštiny, hindštiny, čínštiny, japonštiny a němčiny. Je dostupná v aplikaci Translate pro Android a iOS i na webu.",
@@ -3395,28 +3454,6 @@
       "people": []
     },
     {
-      "title": "Americké úřady zatkly muže z Texasu za pokus pašovat Nvidia GPU za 160 milionů dolarů do Číny",
-      "description": "Muž z Texasu byl obviněn z nelegálního vývozu Nvidia H100 a H200 GPU do Číny v hodnotě nejméně 160 milionů dolarů, což porušuje americké exportní předpisy kvůli obavám z národní bezpečnosti. Ironicky, prezident Trump tento týden schválil prodej H200 GPU do Číny za podmínky.",
-      "slug": "feds-nab-texas-man-for-trying-to-smuggle-160-milli",
-      "publishedAt": "2025-12-09T19:41:41+00:00",
-      "date": "2025-12-09 19:41:41",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/f/feds-nab-t/feds-nab-texas-man-for-trying-to-smuggle-160-million-in-nvid_u4g2.1200.jpg",
-      "url": "/tech-news/2025-12-09/feds-nab-texas-man-for-trying-to-smuggle-160-milli/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "OpenAI najímá šéfku Slacku Denise Dresser k vedení globální strategie výnosů",
       "description": "Denise Dresser, generální ředitelka Slacku od roku 2023, se stává šéfkou výnosů OpenAI. Předtím strávila více než deset let v Salesforce, který koupil Slack za více než 27 miliard dolarů.",
       "slug": "openai-hires-slack-ceo-denise-dresser-to-lead-glob",
@@ -3438,26 +3475,6 @@
       ],
       "people": [
         "Denise Dresser"
-      ]
-    },
-    {
-      "title": "Federální úřady rozbily pašeráckou síť pašující pokročilé čipy do Číny ve stejný den, kdy Trump uvolnil exportní omezení",
-      "description": "Ministerstvo spravedlnosti USA oznámilo zastavení sítě pašující pokročilé AI čipy spojené s Čínou, jen hodiny poté, co prezident Trump prohlásil uvolnění exportních restrikcí na stejnou technologii.",
-      "slug": "feds-bust-ring-smuggling-next-gen-chips-to-china-o",
-      "publishedAt": "2025-12-09T19:37:25+00:00",
-      "date": "2025-12-09 19:37:25",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2212178893-e1765295446570.jpg",
-      "url": "/tech-news/2025-12-09/feds-bust-ring-smuggling-next-gen-chips-to-china-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
       ]
     },
     {
@@ -3710,28 +3727,6 @@
         "Tether",
         "Generative Bionics",
         "Italian Institute of Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od Llamů k Avokádům: Měnící se strategie Meta v AI způsobuje interní zmatek",
-      "description": "Meta usiluje o vývoj svého dalšího hraničního modelu AI s kódovým názvem Avocado pod novým vedením, což vytváří interní napětí při honbě za rivaly OpenAI a Google.",
-      "slug": "from-llamas-to-avocados-metas-shifting-ai-strategy",
-      "publishedAt": "2025-12-09T12:00:01+00:00",
-      "date": "2025-12-09 12:00:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-1761929021329-108189400-1761918818994-108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpg?v=1761929034&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/from-llamas-to-avocados-metas-shifting-ai-strategy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Meta",
-        "OpenAI",
-        "Google"
       ],
       "people": []
     },
