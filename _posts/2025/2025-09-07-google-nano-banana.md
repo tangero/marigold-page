@@ -20,6 +20,8 @@ thumbnail: https://www.marigold.cz/assets/nanobanana_10_55AM.jpeg
 
 Když se v srpnu zjevil obrazový model nazvaný Nano Banana, strhl se kolem toho velký povyk. Především proto, že byl prostě velmi dobrý v práci s obrázky. A tím myslím VELMI dobrý. Záhy se ukázalo, že je to dílo Google a ten jej počátkem záři začlenil do Google Gemini 2.5 Flash. Takže jej nyní mohou používat v rámci tohoto modelu všichni uživatelé. Pojďme se na Nano Banana model podívat - musím se omluvit, označení Gemini 2.5 Flash mi k srdci vážně nepřirostlo...  
 
+> Poznámka: Ačkoliv v menu Google najdete model pod oficiálním názvem Gemini 2.5 Flash (nebo Imagen 3), komunita a vývojáři si oblíbili původní kódové označení Nano Banana, takže už ho používá i Google. 
+
 Google Gemini 2.5 Flash je velkým posunem v oblasti generování obrázků díky své nativní multimodální architektuře. Na rozdíl od předchozích modelů byl tento systém od základu trénován na současném zpracování textu a obrázků v jediném, unifikovaném kroku. To umožňuje schopnosti přesahující prosté generování obrázků - konverzační editaci, kompozici více obrázků a logické uvažování o obrazovém obsahu. Je tedy o parník dále, než konkurenční GPT-5 a o dvě letadlové lodě Kuzněcov od modelů Anthropicu, které obrázky nějak rozpoznávají, vytvářet je ale moc neumí (definice SVG neberu v potaz). 
 
 Použít model můžete jak na [gemini.google.com](https://gemini.google.com) tak na [aistudio.google.com](https://aistudio.google.com). 
@@ -49,6 +51,8 @@ Pro realistické obrázky přemýšlejte jako fotograf. Zmiňte úhly kamery, ty
 
 **Šablona:**
 _"Fotorealistický [typ záběru] [subjektu], [akce nebo výraz], zasazený do [prostředí]. Scéna je osvětlena [popis osvětlení], vytváří [náladu] atmosféru. Zachyceno [detaily kamery/objektivu], s důrazem na [klíčové textury a detaily]. Obrázek by měl být ve formátu [poměr stran]."_
+
+Uživatelé často nevědí, zda psát poměr stran jako --ar 16:9 (jako v Midjourney) nebo to psát slovy „širokoúhlý obrázek 16:9“. Gemini většinou preferuje přirozený jazyk.
 
 #### 2. Stylizované ilustrace a samolepky
 
@@ -139,6 +143,20 @@ _"Vytvořte profesionální módní fotografii pro e-shop. Vezměte modré květ
 
 ![Kompozice obrázků](/assets/Model_Gemini2.5-PromptUpdate.original.png)
 **Obrázek 10: Kompozice šatů a modelky do finální módní fotografie**
+
+### Bonus: izometrické obrázky
+
+Internet v jednu dobu zachvátila poslednost izometrickými obrázky s počasím v nejrůznějších městech. Můžete je generovat i přes API a vkládat na svůj server, použijte tento prompt: 
+
+_Vytvořte jasnou, 45° izometrickou miniaturní 3D kreslenou scénu města Brandýs nad Labem-Stará Boleslav v České republice, která bude obsahovat jeho nejznámější památky a architektonické prvky. Použijte jemné, rafinované textury s realistickými PBR materiály a jemným, realistickým osvětlením a stíny. Integrujte aktuální povětrnostní podmínky přímo do prostředí města, abyste vytvořili působivou atmosféru._
+_Použijte čistou, minimalistickou kompozici s jemným, jednobarevným pozadím._
+_V horní části uprostřed umístěte název „Brandýs-Boleslav“ velkým tučným písmem, pod ním výraznou ikonu počasí, poté datum (malým písmem) a teplotu (středním písmem)._
+_Veškerý text musí být vycentrován s rovnoměrnými mezerami a může mírně překrývat vrcholy budov._
+_Rozměr čtverce 1080 x 1080._
+
+![Jaké bylo počasí v Brandýse?](/assets/brandys-boleslav-pocasi.png) \
+PS: Zrovna brandýský zámek to fakt netrefilo :)
+
 
 ## Osvědčené postupy a strategie
 
