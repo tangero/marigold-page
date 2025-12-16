@@ -1,7 +1,144 @@
 {
-  "generated": "2025-12-16T08:54:03.274655+00:00",
+  "generated": "2025-12-16T13:06:54.870690+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "⚡ Týdenní shrnutí: Zero-day zranitelnosti Apple, exploit WinRAR, pokuty LastPass, RCE v .NET, podvody OAuth a další",
+      "description": "Pokud používáte chytrý telefon, prohlížíte web nebo rozbalujete soubory na počítači, jste tento týden v hledáčku hackerů. Tyto skupiny využívají kritické zranitelnosti v běžném softwaru, v některých případech ještě před vydáním oprav.",
+      "slug": "weekly-recap-apple-0-days-winrar-exploit-lastpass-",
+      "publishedAt": "2025-12-15T12:24:00+00:00",
+      "date": "2025-12-15 12:24:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s790-rw-e365/recapp.jpg",
+      "url": "/tech-news/2025-12-15/weekly-recap-apple-0-days-winrar-exploit-lastpass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pokud vám záleží na bezpečnosti vašeho iPhonu, aktualizujte ihned",
+      "description": "Nové aktualizace iOS a iPadOS přinášejí 25 bezpečnostních oprav, včetně zero-day zranitelností v WebKit, které byly zneužity v sofistikovaných útocích na cílené jednotlivce. I pro uživatele starších verzí je k dispozici iOS/iPadOS 18.7.3 s 20 klíčovými opravami.",
+      "slug": "if-you-care-about-the-security-of-your-iphone-go-u",
+      "publishedAt": "2025-12-15T12:15:00+00:00",
+      "date": "2025-12-15 12:15:00",
+      "importance": 5,
+      "category": "mobilní bezpečnost",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/12/ios26-2-hero-8.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-15/if-you-care-about-the-security-of-your-iphone-go-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EU ustupuje tlaku automobilových výrobců a přehodnocuje zákaz spalovacích aut od roku 2035",
+      "description": "Evropská komise v úterý oznámí přehodnocení zákazu prodeje nových aut se spalovacím motorem od roku 2035 pod tlakem Německa, Itálie a evropských automobilkářů, kteří čelí konkurenci z Číny a USA. Zákaz by mohl být odložen o pět let nebo zmírněn.",
+      "slug": "eu-yields-to-pressure-from-automakers-as-it-rethin",
+      "publishedAt": "2025-12-15T12:12:24+00:00",
+      "date": "2025-12-15 12:12:24",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/559b611c1c4079108f89dbf3f83dcd59",
+      "url": "/tech-news/2025-12-15/eu-yields-to-pressure-from-automakers-as-it-rethin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI je společností roku 2025 podle Yahoo Finance",
+      "description": "Výrobce ChatGPT spustil technologickou revoluci této generace. Dokáže největší hnací síla umělé inteligence pokračovat v podpoře zlaté horečky?",
+      "slug": "openai-is-the-2025-yahoo-finance-company-of-the-ye",
+      "publishedAt": "2025-12-15T12:00:54+00:00",
+      "date": "2025-12-15 12:00:54",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ig2oG0VvxTUBGpPJW2rwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3876ee80-d6d2-11f0-bf1f-f90390151878",
+      "url": "/tech-news/2025-12-15/openai-is-the-2025-yahoo-finance-company-of-the-ye/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento startup podporovaný Thrive chce být „Amazonem domovů“",
+      "description": "Od roku 2022 získal Homebound celkem 400 milionů dolarů v akciovém kapitálu a kapitálu na nemovitosti, uvedla společnost pro Fortune.",
+      "slug": "this-thrive-backed-startup-says-it-aspires-to-be-t",
+      "publishedAt": "2025-12-15T11:55:27+00:00",
+      "date": "2025-12-15 11:55:27",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Unknown-2.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-15/this-thrive-backed-startup-says-it-aspires-to-be-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Amazon",
+        "Homebound"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak Google vidí umělou inteligenci v roce 2026: Od jednotných modelů po spoluvědce a kódové agenty",
+      "description": "Podle šéfa AI u Google Demise Hassabise se do roku 2026 AI vyvine do full omnimodelů, které integrují text, obrazy, video, audio a robotiku. Tyto systémy umožní pokročilé uvažování podobné lidskému a najdou uplatnění v řešení globálních problémů.",
+      "slug": "how-google-sees-2026-ai-from-unified-models-to-co-",
+      "publishedAt": "2025-12-15T11:45:58+00:00",
+      "date": "2025-12-15 11:45:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/live-in-gemini-real-time-assistant_optimized.jpg",
+      "url": "/tech-news/2025-12-15/how-google-sees-2026-ai-from-unified-models-to-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "BBVA a OpenAI uzavírají partnerství pro posílení aplikace umělé inteligence v bankovním sektoru",
+      "description": "OpenAI podpoří strategii umělé inteligence banky BBVA pro zlepšení zážitků zákazníků a optimalizaci jejích operací.",
+      "slug": "bbva-openai-partner-to-boost-ai-application-in-ban",
+      "publishedAt": "2025-12-15T11:17:11+00:00",
+      "date": "2025-12-15 11:17:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VcxRq0OcUr1wxIVXP4mnbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_banker_international_407/64773996914ed1a4a902610843fc7785",
+      "url": "/tech-news/2025-12-15/bbva-openai-partner-to-boost-ai-application-in-ban/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Retailbankerinternational.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "QuEra: Tisíce neutrálních atomových qubitů jsou jen pár let od komerční kvantové výhody #Q2B",
       "description": "Společnost QuEra vydá v roce 2026 novou roadmapu k dosažení komerční kvantové výhody. Na konferenci Q2B 2025 představila pokroky v technologii neutrálních atomových qubitů, které překonávají klasické počítače v určitých úlohách.",
@@ -3849,29 +3986,6 @@
       "people": []
     },
     {
-      "title": "Trumpovo schválení prodeje AI čipů Nvidia do Číny narazilo na chladný příjem u republikánů",
-      "description": "Trump uvedl, že čínský prezident Si Ťin-pching reagoval pozitivně na návrh umožnit Nvidia prodávat H200 AI čipy do Číny za podmínky, že USA obdrží 25 procent z výnosů. Rozhodnutí však čelí kritice od republikánů obávajících se posílení čínské AI dominance.",
-      "slug": "trump-blessing-nvidia-ai-chip-sales-to-china-gets-",
-      "publishedAt": "2025-12-09T19:30:09+00:00",
-      "date": "2025-12-09 19:30:09",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139104-1746048626472-gettyimages-2212178893-AFP_444Y2UG.jpeg?v=1765299307&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/trump-blessing-nvidia-ai-chip-sales-to-china-gets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Xi Jinping"
-      ]
-    },
-    {
       "title": "Zatímco Google a OpenAI bojují o dominanci modelů, Anthropic tiše vyhrává závod v podnikovém AI",
       "description": "Průzkum venture kapitálové firmy Menlo Ventures ukazuje, že Anthropic překonal OpenAI v podílu na výdajích podniků na generativní AI. Agentické AI zůstává stále okrajovou oblastí.",
       "slug": "while-google-and-openai-battle-for-model-dominance",
@@ -3912,26 +4026,6 @@
         "Unconventional AI"
       ],
       "people": []
-    },
-    {
-      "title": "Trump chce překrýt státní regulace AI jedním federálním příkazem",
-      "description": "Prezident Trump oznámil, že tento týden podepíše výkonný příkaz k vytvoření jednotné federální politiky pro umělou inteligenci, čímž efektivně překryje státní regulace. Tento krok umožní ministerstvu spravedlnosti žalovat státy za příliš restriktivní pravidla.",
-      "slug": "trump-moves-to-override-state-ai-regs-with-one-fed",
-      "publishedAt": "2025-12-09T11:51:00+00:00",
-      "date": "2025-12-09 11:51:00",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1651396-12-20251209055927.jpeg",
-      "url": "/tech-news/2025-12-09/trump-moves-to-override-state-ai-regs-with-one-fed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "USA umožní dodávky čipů Nvidia H200 do Číny – Trump",
@@ -4014,115 +4108,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Trump oznámil, že USA povolí export čipů Nvidia H200 do Číny",
-      "description": "Prezident Donald Trump prohlásil, že USA umožní společnosti Nvidia exportovat pokročilé čipy H200 do Číny po dohodě s prezidentem Si Ťin-pchingem. Tento krok představuje významný odklon od předchozí politiky omezení přístupu Číny k high-tech čipům kvůli obavám z vojenských využití.",
-      "slug": "trump-says-us-will-export-nvidia-h200-chips-to-chi",
-      "publishedAt": "2025-12-09T02:35:00+00:00",
-      "date": "2025-12-09 02:35:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://static.dw.com/image/74722890_6.jpg",
-      "url": "/tech-news/2025-12-09/trump-says-us-will-export-nvidia-h200-chips-to-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump oznámil podpis výkonného příkazu omezujícího státní regulace umělé inteligence",
-      "description": "Prezident Donald Trump prohlásil, že tento týden podepíše výkonný příkaz zavádějící „jedno pravidlo“ pro umělou inteligenci, které omezí státní politiky regulující tuto technologii. Cílem je zabránit situaci, kdy firmy musí získávat schválení v padesáti státech.",
-      "slug": "trump-says-hell-sign-executive-order-curbing-state",
-      "publishedAt": "2025-12-09T02:12:34+00:00",
-      "date": "2025-12-09 02:12:34",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-12%2Fzgwhlyqo%2F444058724.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-09/trump-says-hell-sign-executive-order-curbing-state/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump schvaluje prodej pokročilejších čipů Nvidia pro AI do Číny",
-      "description": "Prezident Donald Trump povolil společnosti Nvidia prodat svůj čip H200, používaný při vývoji umělé inteligence, schváleným zákazníkům v Číně. Rozhodnutí vyvažuje ekonomické zájmy amerických firem s obavami z národní bezpečnosti.",
-      "slug": "trump-approves-sale-of-more-advanced-nvidia-comput",
-      "publishedAt": "2025-12-09T01:41:55+00:00",
-      "date": "2025-12-09 01:41:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.abcnewsfe.com/a/88088e97-8c58-4d85-995e-4d0638ee9606/wirestory_4c27557998c21e088a91a067a76b6b8a_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-09/trump-approves-sale-of-more-advanced-nvidia-comput/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump prohlásil, že USA umožní prodej AI čipů Nvidia do Číny",
-      "description": "Prezident Donald Trump oznámil dohodu s prezidentem Si Ťin-pchingem, která umožní společnosti Nvidia exportovat pokročilé čipy pro umělou inteligenci H200 do Číny. Rozhodnutí znamená změnu oproti restrikcím předchozí administrativy kvůli obavám z vojenských aplikací v Číně.",
-      "slug": "trump-says-us-will-allow-sale-of-nvidia-ai-chips-t",
-      "publishedAt": "2025-12-09T01:27:33+00:00",
-      "date": "2025-12-09 01:27:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/5de45c1b708ed1ca644875f0ecda6015214ae210.jpg",
-      "url": "/tech-news/2025-12-09/trump-says-us-will-allow-sale-of-nvidia-ai-chips-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Xi Jinping"
-      ]
-    },
-    {
-      "title": "Trump oznámil, že umožní Nvidia prodávat pokročilé čipy do Číny",
-      "description": "Prezident Trump prohlásil, že USA umožní Nvidia prodávat své pokročilé čipy H200 do Číny schváleným zákazníkům a vezme si 25% podíl z těchto prodejů. Rozhodnutí neplatí pro ještě pokročilejší systémy Blackwell a Rubin.",
-      "slug": "trump-says-hes-letting-nvidia-sell-advanced-chips-",
-      "publishedAt": "2025-12-09T00:38:00+00:00",
-      "date": "2025-12-09 00:38:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/26/bd7cb93b-2d15-4585-a903-7ab62f7052bd/thumbnail/1200x630/01386cd826312c1b0721bf257523f2b3/nvidia-post-screening-revisions-0424-sub-30-sub-01-1.jpg",
-      "url": "/tech-news/2025-12-09/trump-says-hes-letting-nvidia-sell-advanced-chips/",
-      "source": {
-        "emoji": "📺",
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
     }
   ]
 }
