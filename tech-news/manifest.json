@@ -1,7 +1,87 @@
 {
-  "generated": "2025-12-15T20:51:57.223644+00:00",
+  "generated": "2025-12-16T01:26:55.501214+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Práce řízená AI vyniká jako hnací síla růstu Capgemini v Indii: generální ředitel Capgemini Indie",
+      "description": "Společnost staví své obchodní operace a plánovanou integraci s WNS do centra strategie, poháněné poptávkou z globálních center schopností (GCCs) a podniků. Capgemini oznámilo akvizici WNS letos za 3 miliardy dolarů.",
+      "slug": "ai-led-work-stands-out-as-capgemini-indias-growth-",
+      "publishedAt": "2025-12-15T00:30:00+00:00",
+      "date": "2025-12-15 00:30:00",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-131292,resizemode-75,msid-125964417/tech/information-tech/ai-led-work-stands-out-as-capgemini-indias-growth-driver-capgemini-india-md.jpg",
+      "url": "/tech-news/2025-12-15/ai-led-work-stands-out-as-capgemini-indias-growth/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Capgemini",
+        "WNS"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína a Amerika se musí vážně vypořádat s riziky AI",
+      "description": "Čína a Amerika budou ostře soutěžit o převahu v umělé inteligenci. Jako jediné dvě supervelmoci v této oblasti však obě země naléhavě potřebují přímou spolupráci při řešení rostoucích rizik, která technologie přináší pro trhy, infrastrukturu, sociální stabilitu a lidstvo samotné.",
+      "slug": "china-and-america-must-get-serious-about-ai-risk",
+      "publishedAt": "2025-12-15T00:05:00+00:00",
+      "date": "2025-12-15 00:05:00",
+      "importance": 5,
+      "category": "ai rizika",
+      "urlToImage": "https://webapi.project-syndicate.org/library/d81ebdb5116e514a07cfbee45ee61a12.2-1-super.1.jpg",
+      "url": "/tech-news/2025-12-15/china-and-america-must-get-serious-about-ai-risk/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Project Syndicate"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Translate získává inteligenci díky modelu Gemini: Přirozené a okamžité překlady",
+      "description": "Google zavádí v aplikaci Translate vylepšení poháněná modelem Gemini, která zlepšují přesnost textových překladů, porozumění řeči a nástroje pro učení jazyků. Novinky zahrnují kontextuální porozumění idiomům a beta verzi real-time překladu řeči přímo do sluchátek podporující přes 70 jazyků.",
+      "slug": "google-translate-gets-smarter-with-gemini-powered-",
+      "publishedAt": "2025-12-15T00:00:00+00:00",
+      "date": "2025-12-15 00:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2025-12-15/google-translate-gets-smarter-with-gemini-powered/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow prý v pokročilých jednáních o koupi Armis za až 7 miliard dolarů",
+      "description": "Poskytovatel cloudového softwaru pro řízení pracovních postupů ServiceNow je prý v pokročilých jednáních o akvizici společnosti Armis, která se zaměřuje na správu kybernetického vystavení a bezpečnost zařízení. Hodnota dohody by mohla dosáhnout až 7 miliard dolarů a stát se největší akvizicí ServiceNow dosud.",
+      "slug": "servicenow-reportedly-in-advanced-talks-to-buy-arm",
+      "publishedAt": "2025-12-14T22:51:32+00:00",
+      "date": "2025-12-14 22:51:32",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Armis.png",
+      "url": "/tech-news/2025-12-14/servicenow-reportedly-in-advanced-talks-to-buy-arm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
     {
       "title": "Warby Parker (WRBY) vzrostl o 46 % před uvedením AI brýlí v roce 2026",
       "description": "Akcie Warby Parker Inc. (NYSE:WRBY) posílily o 46 procent týdně na nové maximum za 52 týdnů díky podání u SEC, které potvrdilo partnerství s Google na vývoj inteligentních brýlí s umělou inteligencí. Produkt má být odhalen v roce 2026 a obsahuje multimodální AI s dioptrickými i nedioptrickými čočkami.",
@@ -3488,26 +3568,6 @@
       "people": []
     },
     {
-      "title": "Povolení Nvidia prodat H200 do Číny je zavírání stájí po úniku koně",
-      "description": "Americké exportní kontroly na AI akcelerátory donutily Čínu k vývoji vlastních technologií. Půl dekády restrikcí zaměřených na odepření přístupu k nejsilnějším americkým polovodičům jen podnítily Peking k domácím alternativám v oblasti AI.",
-      "slug": "letting-nvidia-sell-h200s-to-china-is-closing-the-",
-      "publishedAt": "2025-12-09T23:47:27+00:00",
-      "date": "2025-12-09 23:47:27",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://regmedia.co.uk/2024/09/16/shutterstock_container_shjips_la.jpg",
-      "url": "/tech-news/2025-12-09/letting-nvidia-sell-h200s-to-china-is-closing-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "NextEra Energy a Google uzavírají nové partnerství pro urychlení růstu AI a vývoj datových center",
       "description": "NextEra Energy a Google Cloud rozšiřují spolupráci na vývoj kampusů datových center v měřítku gigawattů v USA, s cílem rychlého růstu a posílení schopností AI do poloviny roku 2026.",
       "slug": "nextera-energy-and-google-enter-new-partnership-to",
@@ -3663,26 +3723,6 @@
       ]
     },
     {
-      "title": "Microsoft investuje 17,5 miliardy dolarů do Indie do roku 2029 v závodě o umělou inteligenci",
-      "description": "Jedná se o největší investici Microsoftu v Asii, zaměřenou na rozšíření AI a cloudových služeb v Indii.",
-      "slug": "microsoft-to-invest-175b-in-india-by-2029-as-ai-ra",
-      "publishedAt": "2025-12-09T16:20:12+00:00",
-      "date": "2025-12-09 16:20:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/12D.MiF21Y.LS.BLZj1Kzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/279e2d490c742557ec0a8c46adbf247d",
-      "url": "/tech-news/2025-12-09/microsoft-to-invest-175b-in-india-by-2029-as-ai-ra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Budoucnost je zde: Proč Apple Intelligence mění produktivitu",
       "description": "Apple Intelligence přináší sadu uměle inteligentních funkcí do zařízení Apple, které zvyšují efektivitu práce podobně jako kdysi smartphony nebo cloudové úložiště. Tyto nástroje zpracovávají data přímo na zařízení a integrují se s ekosystémem iOS, iPadOS a macOS.",
       "slug": "the-future-is-now-why-apple-intelligence-is-a-game",
@@ -3763,27 +3803,6 @@
         "Tether",
         "Generative Bionics",
         "Italian Institute of Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akvizice Celestial AI za 5,5 miliardy dolarů rozšiřuje roli Marvellu v hardwaru pro AI datová centra – firma je nyní připravena dodávat novou generaci optických propojení",
-      "description": "Marvell potvrdil plány na akvizici firmy Celestial AI v hodnotě až 5,5 miliardy dolarů, což patří mezi nejvýraznější akvizice středně velkých dodavatelů křemíku v současném AI cyklu. Tento krok posiluje pozici Marvellu v soutěži s Nvidia, AMD a Intelem v oblasti vysokovýkonných propojení pro datová centra.",
-      "slug": "marvells-55b-celestial-ai-acquisition-expands-its-",
-      "publishedAt": "2025-12-09T11:57:00+00:00",
-      "date": "2025-12-09 11:57:00",
-      "importance": 5,
-      "category": "ai hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6GmjhDQLrZ2jHdbp36Vjp3-1920-80.png",
-      "url": "/tech-news/2025-12-09/marvells-55b-celestial-ai-acquisition-expands-its/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Marvell",
-        "Celestial AI"
       ],
       "people": []
     },
@@ -3992,26 +4011,6 @@
       ],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Více nástrojů AI přijde v průběhu dní nebo týdnů, říká šéf R&D Pentagonu",
-      "description": "Široké nasazení umělé inteligence je nyní na vrcholu priorit Emila Michaela.",
-      "slug": "more-ai-tools-coming-in-days-or-weeks-pentagon-rd-",
-      "publishedAt": "2025-12-09T02:43:57+00:00",
-      "date": "2025-12-09 02:43:57",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2025/12/08/emil_GettyImages_2225411526/open-graph.jpg",
-      "url": "/tech-news/2025-12-09/more-ai-tools-coming-in-days-or-weeks-pentagon-rd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Defense One"
-      },
-      "companies": [],
-      "people": [
-        "Emil Michael"
       ]
     },
     {
