@@ -1,7 +1,144 @@
 {
-  "generated": "2025-12-16T16:53:50.168312+00:00",
+  "generated": "2025-12-16T20:38:00.203604+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Právní technologické události, které definovaly rok 2025",
+      "description": "Rok 2025 byl poznamenán rekordními investicemi do právních technologií, rychlým pokrokem umělé inteligence a nepřetržitými oznámeními o novinkách, které ztěžovaly udržení přehledu. Legal tech sektor zažil explozi nových AI startupů a diskuzí o agentic AI.",
+      "slug": "the-legal-tech-stories-that-defined-2025",
+      "publishedAt": "2025-12-15T20:16:00+00:00",
+      "date": "2025-12-15 20:16:00",
+      "importance": 4,
+      "category": "právní technologie",
+      "urlToImage": "https://www.abajournal.com/images/main_images/NicoleBlack2.jpg",
+      "url": "/tech-news/2025-12-15/the-legal-tech-stories-that-defined-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abajournal.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia kupuje vývojáře AI SchedMD pro rozšíření open-source AI",
+      "description": "Zvyšuje investice, aby odolala rostoucí konkurenci v oblasti umělé inteligence.",
+      "slug": "nvidia-buys-ai-developer-to-expand-open-source-ai-",
+      "publishedAt": "2025-12-15T19:54:05+00:00",
+      "date": "2025-12-15 19:54:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg",
+      "url": "/tech-news/2025-12-15/nvidia-buys-ai-developer-to-expand-open-source-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Ať Disney lituje svého postoje“ — Internet má silné reakce na nové partnerství Disney s OpenAI",
+      "description": "Internet má co říct k novému partnerství Disney s OpenAI, které zahrnuje licencování obsahu pro generativní AI platformu Sora.",
+      "slug": "make-disney-regret-their-stance-the-internet-has-s",
+      "publishedAt": "2025-12-15T19:51:03+00:00",
+      "date": "2025-12-15 19:51:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/12/openAI-walt-disney-company-700x394.jpeg",
+      "url": "/tech-news/2025-12-15/make-disney-regret-their-stance-the-internet-has-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "disneyfoodblog.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon Threat Intelligence identifikuje ruskou kybernetickou hrozbu cílenou na západní kritickou infrastrukturu",
+      "description": "Amazon Threat Intelligence na konci roku 2025 zveřejňuje poznatky o víceleté kampani sponzorované ruským státem, která představuje taktický posun v útocích na kritickou infrastrukturu. Hlavním vektorem přístupu se stala špatně nakonfigurovaná zařízení na okraji zákaznických sítí, zatímco využívání zranitelností kleslo.",
+      "slug": "amazon-threat-intelligence-identifies-russian-cybe",
+      "publishedAt": "2025-12-15T19:20:36+00:00",
+      "date": "2025-12-15 19:20:36",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/11/19/security-4868162_1920-1-1260x630.jpg",
+      "url": "/tech-news/2025-12-15/amazon-threat-intelligence-identifies-russian-cybe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nová AI divize Reliance Intelligence od RIL zahajuje operace",
+      "description": "Reliance Intelligence, plně vlastněná dceřiná společnost Reliance Industries založená v září 2025, spouští svou činnost. Jednotka spravuje partnerství s globálními technologickými firmami jako Google a Meta a realizuje plány na výstavbu datových center připravených pro umělou inteligenci.",
+      "slug": "rils-new-ai-arm-reliance-intelligence-begins-opera",
+      "publishedAt": "2025-12-15T19:17:36+00:00",
+      "date": "2025-12-15 19:17:36",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125989722,width-1200,height-630,imgsize-9238,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-15/rils-new-ai-arm-reliance-intelligence-begins-opera/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Administrativa Trumpa najme 1 000 specialistů pro ‚Tech Force‘ k vývoji AI a finančních projektů",
+      "description": "Administrativa prezidenta Trumpa spustila iniciativu ‚U.S. Tech Force‘, která zahrnuje najmutí přibližně 1 000 inženýrů a dalších specialistů pro práci na infrastruktuře umělé inteligence a dalších technologických projektech v federální vládě. Program spolupracuje s velkými technologickými firmami jako Amazon Web Services, OpenAI nebo Nvidia.",
+      "slug": "trump-admin-to-hire-1000-specialists-for-tech-forc",
+      "publishedAt": "2025-12-15T19:08:06+00:00",
+      "date": "2025-12-15 19:08:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-15/trump-admin-to-hire-1000-specialists-for-tech-forc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Appleův AI serverový čip „Baltra“ bude pravděpodobně použit především pro AI inference",
+      "description": "Apple vyvíjí vlastní serverový čip pro umělou inteligenci s kódovým názvem „Baltra“, jehož uvedení na trh se očekává v roce 2027. Čip má sloužit především k inference AI modelů a firma spolupracuje s Broadcom na síťové technologii, aby se vyhnula závislosti na Nvidia.",
+      "slug": "apples-ai-server-chip-baltra-likely-to-be-used-pri",
+      "publishedAt": "2025-12-15T19:07:35+00:00",
+      "date": "2025-12-15 19:07:35",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Apple-Baltra.jpg",
+      "url": "/tech-news/2025-12-15/apples-ai-server-chip-baltra-likely-to-be-used-pri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Ottawa slibuje až 92 milionů dolarů čtyřem kanadským kvantovým společnostem v rámci nového programu Champions",
       "description": "Nový kanadský program Kvantoví šampioni má udržet kanadské kvantové firmy a duševní vlastnictví doma. Čtěte více.",
@@ -3459,28 +3596,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk: Tesla robotaxi v Austinu plně bez řidiče za tři týdny",
-      "description": "Novinka přichází v době, kdy Tesla plánuje zdvojnásobit svou flotilu v oblasti Austinu na přibližně 60 vozidel ještě tento měsíc.",
-      "slug": "elon-musk-tesla-austin-robotaxis-fully-driverless-",
-      "publishedAt": "2025-12-10T16:34:51+00:00",
-      "date": "2025-12-10 16:34:51",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://s.hdnux.com/photos/01/53/67/67/28278242/5/rawImage.jpg",
-      "url": "/tech-news/2025-12-10/elon-musk-tesla-austin-robotaxis-fully-driverless/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Co se děje s Microsoftem, Vodafone a e&",
       "description": "Microsoft oznámil investici 17,5 miliardy dolarů do Indie na rozvoj cloudu a umělé inteligence. Vodafone snížil čas upgradu hlasového software o 75 procent díky automatizovanému testovacímu systému. e& nasazuje generativní AI nástroje prostřednictvím platformy amAIz od firmy Amdocs.",
       "slug": "whats-up-with-microsoft-vodafone-e",
@@ -3526,48 +3641,6 @@
       "people": [
         "Arun Jeldi"
       ]
-    },
-    {
-      "title": "Čínské subjekty obcházejí exportní omezení pro čipy Nvidia H200",
-      "description": "Univerzity, vojenské přidružené organizace a datová centra získaly tisíce omezených procesorů Nvidia H200 prostřednictvím šedého trhu a nájemních ujednání. Rozhodnutí prezidenta Donalda Trumpa povolit exporty těchto čipů pro umělou inteligenci přichází po období přísných restrikcí.",
-      "slug": "chinese-entities-bypass-export-rules-for-nvidia-h2",
-      "publishedAt": "2025-12-10T15:53:11+00:00",
-      "date": "2025-12-10 15:53:11",
-      "importance": 4,
-      "category": "exportní kontroly",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_2411572419-scaled.jpg",
-      "url": "/tech-news/2025-12-10/chinese-entities-bypass-export-rules-for-nvidia-h2/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Od zadání k publikaci: Google Firebase Studio vytváří a hostuje full-stack aplikace",
-      "description": "Google uvedl Firebase Studio, platformu poháněnou AI přes Gemini API, která automatizuje vývoj full-stack aplikací od návrhu po nasazení. Umožňuje rychlé vytváření backendu, frontendu i mobilních aplikací s podporou populárních rámců jako React nebo Flutter.",
-      "slug": "from-prompt-to-publish-google-firebase-studio-crea",
-      "publishedAt": "2025-12-10T12:14:32+00:00",
-      "date": "2025-12-10 12:14:32",
-      "importance": 4,
-      "category": "vývoj aplikací",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/realtime-web-and-mobile-simulators_optimized.jpg",
-      "url": "/tech-news/2025-12-10/from-prompt-to-publish-google-firebase-studio-crea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Šéf OpenAI Sam Altman přiznává, že umělá inteligence se vyvíjí příliš rychle, tříletá technologie se rychle mění – 'Lze si představit, že to pokazíme'",
@@ -3656,29 +3729,6 @@
         "SambaNova"
       ],
       "people": []
-    },
-    {
-      "title": "Gautam Adani se setkal se Satyem Nadellou, dostal ukázku AI aplikací, které generální ředitel Microsoftu vyvíjí osobně; internet mluví o 'vzrušujících časech'",
-      "description": "V příspěvku na X Gautam Adani naznačil partnerství s Microsoftem a uvedl, že diskutovali o obrovském potenciálu umělé inteligence ve fyzickém světě.",
-      "slug": "gautam-adani-meets-satya-nadella-gets-demo-of-ai-a",
-      "publishedAt": "2025-12-10T07:45:48+00:00",
-      "date": "2025-12-10 07:45:48",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/10/1600x900/logo/G7xzMgcaMAIi7Db_1765351525327_1765351537031.jpg",
-      "url": "/tech-news/2025-12-10/gautam-adani-meets-satya-nadella-gets-demo-of-ai-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Gautam Adani",
-        "Satya Nadella"
-      ]
     },
     {
       "title": "Nvidia testuje technologii sledování čipů současně s americkým zásahom proti pašerákům GPU za 160 milionů USD",
@@ -3886,26 +3936,6 @@
       "people": []
     },
     {
-      "title": "Ministerstvo obrany USA poskytlo půjčku 620 milionů dolarů startupu podporovanému venture capital firmou Donalda Trumpa mladšího",
-      "description": "Startup Vulcan Elements, podpořený investiční firmou 1789 Capital spojenou s Donaldem Trumpem mladším, obdržel půjčku 620 milionů dolarů od amerického ministerstva obrany. Fondy slouží k rozšíření výroby vzácnozemnských magnetů klíčových pro obranu a technologie.",
-      "slug": "dod-gave-620m-loan-to-startup-backed-by-donald-tru",
-      "publishedAt": "2025-12-10T02:30:00+00:00",
-      "date": "2025-12-10 02:30:00",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/12/trumpjr.png",
-      "url": "/tech-news/2025-12-10/dod-gave-620m-loan-to-startup-backed-by-donald-tru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Snopes.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump Jr"
-      ]
-    },
-    {
       "title": "Lokesh se setkal s Pichaiem, aby prohlédl pokrok projektu datového centra ve Vizagu",
       "description": "Ministr IT a průmyslu Andhra Pradesh Nara Lokesh se setkal se Sundarem Pichaiem z Google a prohlédl pokrok 15miliardového projektu AI datového centra ve Visakhapatnamu. Pozval Google k založení jednotky pro sestavování, kalibraci a testování dronů v Drone City a prohloubení výroby serverů v AP. Setkal se také s vrcholovými manažery Nvidia, Intel a AMD v USA.",
       "slug": "lokesh-meets-pichai-to-review-progress-of-vizag-da",
@@ -4014,50 +4044,6 @@
         "Nvidia Corp",
         "Salesforce Inc",
         "Shopify Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Chybný plán Donalda Trumpa navnadit Čínu na čipy Nvidia - The Economist",
-      "description": "Donald Trump schválil prodej pokročilých čipů Nvidia H200 do Číny, což otevírá dveře pro americké technologie na čínském trhu, ale trh i Peking reagují vlažně. Rozhodnutí bylo motivováno pokroky Huawei v oblasti AI a reverzuje desetiletí exportních omezení.",
-      "slug": "donald-trumps-flawed-plan-to-get-china-hooked-on-n",
-      "publishedAt": "2025-12-10T00:32:06+00:00",
-      "date": "2025-12-10 00:32:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-10/donald-trumps-flawed-plan-to-get-china-hooked-on-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia",
-        "Huawei"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Velký hráč v cloudové bezpečnosti Wiz vstupuje do Indie; reaguje na poptávku po jednotné cloudové bezpečnosti",
-      "description": "Společnost Wiz, kterou Google přebírá za 32 miliard dolarů, má v Indii přes 30 podnikových zákazníků z finančních služeb, IT služeb, digitálních firem, farmacie a výroby. Vstup na indický trh je motivován rychlou migrací do cloudu a růstem zranitelností spojených s AI-generovaným kódem.",
-      "slug": "cloud-security-major-wiz-enters-india-taps-demand-",
-      "publishedAt": "2025-12-10T00:30:00+00:00",
-      "date": "2025-12-10 00:30:00",
-      "importance": 5,
-      "category": "cloudová bezpečnost",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20866,resizemode-75,msid-125877124/tech/technology/cloud-security-major-wiz-enters-india-taps-demand-for-unified-cloud-security.jpg",
-      "url": "/tech-news/2025-12-10/cloud-security-major-wiz-enters-india-taps-demand/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Wiz",
-        "Google"
       ],
       "people": []
     },
