@@ -1,7 +1,161 @@
 {
-  "generated": "2025-12-16T05:03:40.731660+00:00",
+  "generated": "2025-12-16T08:54:03.274655+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "QuEra: Tisíce neutrálních atomových qubitů jsou jen pár let od komerční kvantové výhody #Q2B",
+      "description": "Společnost QuEra vydá v roce 2026 novou roadmapu k dosažení komerční kvantové výhody. Na konferenci Q2B 2025 představila pokroky v technologii neutrálních atomových qubitů, které překonávají klasické počítače v určitých úlohách.",
+      "slug": "quera-thousands-of-neutral-atom-qubits-is-a-few-ye",
+      "publishedAt": "2025-12-15T08:13:48+00:00",
+      "date": "2025-12-15 08:13:48",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/IMG_0805-min-1024x768.jpg",
+      "url": "/tech-news/2025-12-15/quera-thousands-of-neutral-atom-qubits-is-a-few-ye/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "QuEra"
+      ],
+      "people": []
+    },
+    {
+      "title": "Taiwan spouští národní cloudové výpočetní centrum pro napájení suverénní AI v rámci nové velké AI iniciativy",
+      "description": "Taiwan zahajuje národní cloudové výpočetní centrum zaměřené na suverénní umělou inteligenci jako součást nové rozsáhlé AI strategie. Iniciativa reaguje na rostoucí soutěž o výpočetní výkon, data a aplikace v éře generativní AI.",
+      "slug": "taiwan-launches-national-cloud-computing-center-to",
+      "publishedAt": "2025-12-15T08:05:48+00:00",
+      "date": "2025-12-15 08:05:48",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251215pd201_files/2_b.jpg",
+      "url": "/tech-news/2025-12-15/taiwan-launches-national-cloud-computing-center-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Beeline Kazakhstan od VEON uskutečnil první hovor přes Starlink Direct to Cell v Střední Asii",
+      "description": "Almaty, 15. prosince 2025 – VEON Ltd. oznámil, že jeho operátor Beeline Kazakhstan dokončil terénní test a uskutečnil první hlasový hovor přes aplikaci i textové zprávy prostřednictvím Starlink Direct to Cell v Střední Asii. Test spojil satelitní a pozemní mobilní sítě pomocí standardních smartphonů.",
+      "slug": "veons-beeline-kazakhstan-delivers-first-starlink-d",
+      "publishedAt": "2025-12-15T08:03:00+00:00",
+      "date": "2025-12-15 08:03:00",
+      "importance": 4,
+      "category": "satelitní komunikace",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f0410957-abe7-404f-a8cd-72ceaac2ffe9",
+      "url": "/tech-news/2025-12-15/veons-beeline-kazakhstan-delivers-first-starlink-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kvantové tranzistory umožňují škálování qubitů z barevných center v diamantu #Q2B #Q2B2025",
+      "description": "Společnost Quantum Transistors představila zařízení Quantum Transistor (patent čekající na schválení), které řeší problémy stability náboje barevných center v diamantu a umožňuje jejich použití jako škálovatelných qubitů. Prezentace proběhla na konferenci Q2B 2025 a ukazuje cestu k 250 000 qubitům do roku 2030 při provozu na 4 kelvinech.",
+      "slug": "quantum-transistors-can-scale-diamond-color-center",
+      "publishedAt": "2025-12-15T08:00:19+00:00",
+      "date": "2025-12-15 08:00:19",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/IMG_0788-min-1024x768.jpg",
+      "url": "/tech-news/2025-12-15/quantum-transistors-can-scale-diamond-color-center/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "STMicroelectronics dodala 5 miliard čipů pro Starlink za poslední desetiletí; počet by se mohl zdvojnásobit do roku 2027",
+      "description": "STMicroelectronics dodala SpaceX přes 5 miliard čipů pro rádiové frekvence antén v síti Starlink. Firma očekává zdvojnásobení dodávek v příštích dvou letech díky rostoucí poptávce po specializovaných komponentech pro vesmírné technologie.",
+      "slug": "stmicro-has-shipped-5-billion-chips-for-starlink-i",
+      "publishedAt": "2025-12-15T07:47:42+00:00",
+      "date": "2025-12-15 07:47:42",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19360,resizemode-75,msid-125974166/tech/technology/stmicro-has-shipped-5-billion-chips-for-starlink-in-past-decade-that-could-double-by-2027.jpg",
+      "url": "/tech-news/2025-12-15/stmicro-has-shipped-5-billion-chips-for-starlink-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "STMicroelectronics",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Úniky Gemini 3.5: Google testuje modely Fierce Falcon a Ghost Falcon na LM Arena po GPT-5.2",
+      "description": "Google prý testuje dva pokročilé modely z řady Gemini 3.5 – Fierce Falcon a Ghost Falcon – na platformě LM Arena, aby se utkal s OpenAI a jeho GPT-5.2. Tyto modely zvládají tvorbu her, návrh uživatelských rozhraní a simulace kódování, přičemž odhalují silné i slabé stránky.",
+      "slug": "gemini-35-leaks-as-google-checks-falcon-models-on-",
+      "publishedAt": "2025-12-15T07:07:24+00:00",
+      "date": "2025-12-15 07:07:24",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/fierce-and-ghost-falcon-comparison_optimized.jpg",
+      "url": "/tech-news/2025-12-15/gemini-35-leaks-as-google-checks-falcon-models-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "STMicroelectronics a SpaceX slaví desetileté partnerství klíčové pro globální konektivitu Starlinku",
+      "description": "STMicroelectronics a SpaceX oslavují deset let spolupráce na vývoji vlastních čipů pro satelitní síť Starlink, která poskytuje širokopásmový internet více než 8 milionům zákazníků v přes 150 zemích. Partnerství pokračuje s důrazem na nové generace satelitů a uživatelských terminálů.",
+      "slug": "stmicroelectronics-and-spacex-celebrate-a-decade-l",
+      "publishedAt": "2025-12-15T07:00:00+00:00",
+      "date": "2025-12-15 07:00:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/281fbc38-04be-49ef-832b-48f4f2f8c959",
+      "url": "/tech-news/2025-12-15/stmicroelectronics-and-spacex-celebrate-a-decade-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "STMicroelectronics",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Izrael se připojil k iniciativě Pax Silica – Mezinárodní koalice pro posílení dodavatelských řetězců v éře umělé inteligence",
+      "description": "Izrael se stal členem iniciativy Pax Silica vedené Spojenými státy, která byla představena na konferenci v Washingtonu s účastí devíti předních zemí v oblastech umělé inteligence, polovodičů a pokročilých průmyslů. Cílem je vytvořit bezpečný a odolný technologický ekosystém od těžby surovin po AI infrastrukturu.",
+      "slug": "israel-joins-pax-silica-initiative-an-internationa",
+      "publishedAt": "2025-12-15T06:49:13+00:00",
+      "date": "2025-12-15 06:49:13",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-15/israel-joins-pax-silica-initiative-an-internationa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Nedávné investice amerických firem do Indie zdůrazňují rozsah bilaterální technologické a ekonomické spolupráce",
       "description": "Indie přilákala investice v hodnotě 67,5 miliardy dolarů z USA, což ukazuje prohlubující se technologické a ekonomické vazby. Google postaví AI datové centrum za 15 miliard dolarů ve Višákhapatnamu, Microsoft investuje 17,5 miliardy do cloudu a AI infrastruktury a Amazon slíbí 35 miliard do roku 2030 pro různé oblasti včetně AI.",
@@ -3760,68 +3914,6 @@
       "people": []
     },
     {
-      "title": "Budoucnost je zde: Proč Apple Intelligence mění produktivitu",
-      "description": "Apple Intelligence přináší sadu uměle inteligentních funkcí do zařízení Apple, které zvyšují efektivitu práce podobně jako kdysi smartphony nebo cloudové úložiště. Tyto nástroje zpracovávají data přímo na zařízení a integrují se s ekosystémem iOS, iPadOS a macOS.",
-      "slug": "the-future-is-now-why-apple-intelligence-is-a-game",
-      "publishedAt": "2025-12-09T15:40:39+00:00",
-      "date": "2025-12-09 15:40:39",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.asianefficiency.com/wp-content/uploads/2025/08/laptop-with-camera-glasses-table-scaled.jpg",
-      "url": "/tech-news/2025-12-09/the-future-is-now-why-apple-intelligence-is-a-game/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Asianefficiency.com"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americká vláda zastavila pašeráckou operaci v hodnotě 160 milionů dolarů s Nvidia H200 čipy do Číny, GPU už nebudou plně omezená",
-      "description": "Ministerstvo spravedlnosti USA zabavilo Nvidia technologie v hodnotě přes 50 milionů dolarů. H200 čipy budou moci jít do Číny s 25procentním poplatkem.",
-      "slug": "the-us-gov-shut-down-a-160-million-smuggling-opera",
-      "publishedAt": "2025-12-09T15:37:08+00:00",
-      "date": "2025-12-09 15:37:08",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jY4T9qtnQJh2MSVgPD2Sc4-1920-80.jpg",
-      "url": "/tech-news/2025-12-09/the-us-gov-shut-down-a-160-million-smuggling-opera/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PC Gamer"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tether investuje do italských humanoidních robotů s cílem chytřejší budoucnosti",
-      "description": "Tether Investments se zapojil do kola financování v hodnotě 70 milionů eur pro společnost Generative Bionics, která vznikla jako spin-off z Italského technologického institutu. Tento krok spojuje kryptoměnové finance s vývojem humanoidních robotů.",
-      "slug": "tether-pours-funds-into-italian-humanoid-robots-ai",
-      "publishedAt": "2025-12-09T12:00:11+00:00",
-      "date": "2025-12-09 12:00:11",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2025/12/a_5558d0.jpg",
-      "url": "/tech-news/2025-12-09/tether-pours-funds-into-italian-humanoid-robots-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitcoinist"
-      },
-      "companies": [
-        "Tether",
-        "Generative Bionics",
-        "Italian Institute of Technology"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump chce překrýt státní regulace AI jedním federálním příkazem",
       "description": "Prezident Trump oznámil, že tento týden podepíše výkonný příkaz k vytvoření jednotné federální politiky pro umělou inteligenci, čímž efektivně překryje státní regulace. Tento krok umožní ministerstvu spravedlnosti žalovat státy za příliš restriktivní pravidla.",
       "slug": "trump-moves-to-override-state-ai-regs-with-one-fed",
@@ -3840,46 +3932,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Pět největších franšíz, které Netflix přebírá od Warner Bros.",
-      "description": "Netflix oznámil akvizici Warner Bros., která zahrnuje filmová a televizní studia, HBO Max i HBO. Díky tomu získá trvalá práva na klíčové franšízy jako Harry Potter, DC Comics nebo Game of Thrones.",
-      "slug": "the-5-biggest-franchises-netflix-is-picking-up-fro",
-      "publishedAt": "2025-12-09T11:31:47+00:00",
-      "date": "2025-12-09 11:31:47",
-      "importance": 4,
-      "category": "streamování",
-      "urlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2025/12/5-top-franchises-warner-deal-netflix.jpg",
-      "url": "/tech-news/2025-12-09/the-5-biggest-franchises-netflix-is-picking-up-fro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "What's on Netflix"
-      },
-      "companies": [
-        "Netflix"
-      ],
-      "people": []
-    },
-    {
-      "title": "Relation Therapeutics oznámila strategickou spolupráci s Novartis na vývoj terapií pro atopická onemocnění",
-      "description": "Relation Therapeutics uzavřela víceprogramovou strategickou spolupráci s Novartis na objev a pokročilé vývoj nových cílů pro atopická onemocnění. Firma obdrží 55 milionů dolarů předem a má nárok na milníky až 1,7 miliardy dolarů plus licenční poplatky z prodejů.",
-      "slug": "relation-announces-strategic-collaboration-with-no",
-      "publishedAt": "2025-12-09T08:00:00+00:00",
-      "date": "2025-12-09 08:00:00",
-      "importance": 4,
-      "category": "biotechnologie",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/cf260ee4-7c41-4306-b2c4-28320acc9186",
-      "url": "/tech-news/2025-12-09/relation-announces-strategic-collaboration-with-no/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Relation"
-      ],
-      "people": []
     },
     {
       "title": "USA umožní dodávky čipů Nvidia H200 do Číny – Trump",
@@ -3962,71 +4014,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Čipová válka mezi USA a Čínou v datech",
-      "description": "Prezident Donald Trump oznámil, že USA povolily prodej AI čipů od Nvidia do Číny. AFP shrnuje chronologii sporu o tuto klíčovou technologii pro umělou inteligenci.",
-      "slug": "the-us-china-chip-war-in-dates",
-      "publishedAt": "2025-12-09T04:18:26+00:00",
-      "date": "2025-12-09 04:18:26",
-      "importance": 4,
-      "category": "čipová válka",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41670,resizemode-75,msid-125861184/tech/technology/the-us-china-chip-war-in-dates.jpg",
-      "url": "/tech-news/2025-12-09/the-us-china-chip-war-in-dates/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Tata a Intel posilují výrobu polovodičů v Indii dohodou o dodavatelském řetězci čipů a AI PC",
-      "description": "Tata Electronics získala Intel jako potenciálního zákazníka v rámci snahy posílit domácí dodavatelský řetězec elektroniky a polovodičů v Indii. Spolupráce zahrnuje výrobu čipů a škálování AI PC řešení pro místní trh.",
-      "slug": "tata-intel-deepen-india-semiconductor-push-with-pa",
-      "publishedAt": "2025-12-09T03:00:57+00:00",
-      "date": "2025-12-09 03:00:57",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211579-1760409998231-gettyimages-2228175388-INDIA_TATA.jpeg?v=1765243953&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/tata-intel-deepen-india-semiconductor-push-with-pa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Tata Electronics",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump oznámil, že Čína zaplatí USA „25 %“ výměnou za pokročilé AI čipy",
-      "description": "Prezident Donald Trump oznámil, že umožní společnosti NVIDIA prodávat své pokročilé H200 AI čipy schváleným zákazníkům v Číně. Výměnou má Čína zaplatit USA 25 procent, což podle něj podpoří americké pracovní místa a výrobu.",
-      "slug": "trump-announces-that-china-will-pay-the-us-25-in-e",
-      "publishedAt": "2025-12-09T02:53:05+00:00",
-      "date": "2025-12-09 02:53:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/11/trump-18-scaled.jpeg",
-      "url": "/tech-news/2025-12-09/trump-announces-that-china-will-pay-the-us-25-in-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mediaite"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "Trump oznámil, že USA povolí export čipů Nvidia H200 do Číny",
