@@ -1,10 +1,137 @@
 {
-  "generated": "2025-12-16T01:26:55.501214+00:00",
+  "generated": "2025-12-16T05:03:40.731660+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Práce řízená AI vyniká jako hnací síla růstu Capgemini v Indii: generální ředitel Capgemini Indie",
-      "description": "Společnost staví své obchodní operace a plánovanou integraci s WNS do centra strategie, poháněné poptávkou z globálních center schopností (GCCs) a podniků. Capgemini oznámilo akvizici WNS letos za 3 miliardy dolarů.",
+      "title": "Nedávné investice amerických firem do Indie zdůrazňují rozsah bilaterální technologické a ekonomické spolupráce",
+      "description": "Indie přilákala investice v hodnotě 67,5 miliardy dolarů z USA, což ukazuje prohlubující se technologické a ekonomické vazby. Google postaví AI datové centrum za 15 miliard dolarů ve Višákhapatnamu, Microsoft investuje 17,5 miliardy do cloudu a AI infrastruktury a Amazon slíbí 35 miliard do roku 2030 pro různé oblasti včetně AI.",
+      "slug": "recent-investments-in-india-from-us-firms-highligh",
+      "publishedAt": "2025-12-15T02:58:35+00:00",
+      "date": "2025-12-15 02:58:35",
+      "importance": 4,
+      "category": "technologické invest",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125969446,width-1200,height-630,imgsize-137922,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-15/recent-investments-in-india-from-us-firms-highligh/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "Microsoft",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Desítky akcií včetně Wipro, Adani Green, Waaree, KEC, Devyani sledovat v dnešním obchodování",
+      "description": "Několik akcií je dnes v centru pozornosti díky strategickým partnerstvím, získaným objednávkám, regulační jasnosti, expanzi kapacity a změnám v managementu.",
+      "slug": "dozens-of-stocks-including-wipro-adani-green-waare",
+      "publishedAt": "2025-12-15T02:47:13+00:00",
+      "date": "2025-12-15 02:47:13",
+      "importance": 4,
+      "category": "burzovní akcie",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/rlgquh/article69836709.ece/alternates/LANDSCAPE_1200/buzzing%20stocks%204.jpg",
+      "url": "/tech-news/2025-12-15/dozens-of-stocks-including-wipro-adani-green-waare/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Wipro"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft spolupracuje s indickými IT giganty na nasazení agentic AI",
+      "description": "Partnerství s firmami Cognizant, Infosys, TCS a Wipro navazuje na slib Microsoftu o investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii. Tyto společnosti nasadí přes 200 000 licencí Microsoft Copilot pro agentic AI v podnicích.",
+      "slug": "microsoft-taps-indian-it-giants-for-agentic-ai-rol",
+      "publishedAt": "2025-12-15T02:46:00+00:00",
+      "date": "2025-12-15 02:46:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Hyderabad-India-adobe.jpg",
+      "url": "/tech-news/2025-12-15/microsoft-taps-indian-it-giants-for-agentic-ai-rol/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Microsoft",
+        "Cognizant",
+        "Infosys",
+        "TCS",
+        "Wipro"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla Robotaxi spatřen bez bezpečného řidiče v Austinu; Musk potvrzuje zahájení testování",
+      "description": "Tesla vůz byl spatřen na veřejných silnicích v Austinu bez nikoho v řidičském ani spolujezdcově sedadle. Elon Musk potvrdil, že testování Robotaxi bez obsazení vozidla probíhá.",
+      "slug": "tesla-robotaxi-spotted-without-a-safety-driver-in-",
+      "publishedAt": "2025-12-15T02:38:31+00:00",
+      "date": "2025-12-15 02:38:31",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-driverless-robotoaxi-spotted-in-austin.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-12-15/tesla-robotaxi-spotted-without-a-safety-driver-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "ServiceNow v pokročilých jednáních o akvizici kyberbezpečnostního startupu Armis za až 7 miliard dolarů, uvádí zpráva",
+      "description": "ServiceNow je v pokročilých jednáních o koupi izraelské kyberbezpečnostní společnosti Armis, vedené veterány izraelské armády, za až 7 miliard dolarů, což by byla jejich největší akvizice. Dohoda může být oznámena brzy, případně selhat kvůli jinému zájemci.",
+      "slug": "servicenow-in-advanced-talks-to-acquire-cybersecur",
+      "publishedAt": "2025-12-15T01:18:26+00:00",
+      "date": "2025-12-15 01:18:26",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/15/1600x900/deal_1762581493801_1762581494010_1765760500089.png",
+      "url": "/tech-news/2025-12-15/servicenow-in-advanced-talks-to-acquire-cybersecur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hongkong a Indie pohánějí rekordní rok sběru kapitálu v Asii",
+      "description": "Burza v Hongkongu zaznamenala výrazný obrat, prodeje akcií vzrostly na více než 73 miliard dolarů a staly se nejúspěšnějšími v Asii. Čínské firmy jako výrobci baterií a elektromobilů vedou tento trend díky snaze o globální expanzi, Indie, pevninská Čína a Japonsko také vykazují silné obchody.",
+      "slug": "honk-kong-india-fuel-blockbuster-year-for-asia-fun",
+      "publishedAt": "2025-12-15T00:54:30+00:00",
+      "date": "2025-12-15 00:54:30",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125968591,width-1200,height-630,imgsize-48366,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-15/honk-kong-india-fuel-blockbuster-year-for-asia-fun/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Práce vedená umělou inteligencí vyniká jako hnací síla růstu Capgemini India: generální ředitel Capgemini India",
+      "description": "Společnost staví své obchodní operace a plánovanou integraci s WNS do centra strategie, poháněné poptávkou z globálních center schopností (GCC) a podniků. Capgemini oznámilo odkup WNS na začátku letošního roku za 3 miliardy dolarů.",
       "slug": "ai-led-work-stands-out-as-capgemini-indias-growth-",
       "publishedAt": "2025-12-15T00:30:00+00:00",
       "date": "2025-12-15 00:30:00",
@@ -3568,73 +3695,6 @@
       "people": []
     },
     {
-      "title": "NextEra Energy a Google uzavírají nové partnerství pro urychlení růstu AI a vývoj datových center",
-      "description": "NextEra Energy a Google Cloud rozšiřují spolupráci na vývoj kampusů datových center v měřítku gigawattů v USA, s cílem rychlého růstu a posílení schopností AI do poloviny roku 2026.",
-      "slug": "nextera-energy-and-google-enter-new-partnership-to",
-      "publishedAt": "2025-12-09T20:06:50+00:00",
-      "date": "2025-12-09 20:06:50",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://www.renewableenergyworld.com/wp-content/uploads/2025/12/Google-announcement-1440x650-1-1024x462-1.jpg",
-      "url": "/tech-news/2025-12-09/nextera-energy-and-google-enter-new-partnership-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Power-eng.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI najímá šéfku Slacku Denise Dresser k vedení globální strategie výnosů",
-      "description": "Denise Dresser, generální ředitelka Slacku od roku 2023, se stává šéfkou výnosů OpenAI. Předtím strávila více než deset let v Salesforce, který koupil Slack za více než 27 miliard dolarů.",
-      "slug": "openai-hires-slack-ceo-denise-dresser-to-lead-glob",
-      "publishedAt": "2025-12-09T19:38:52+00:00",
-      "date": "2025-12-09 19:38:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108054456-1730227996732-gettyimages-2181105069-TECHCRUNCH_DISRUPT.jpeg?v=1730228030&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/openai-hires-slack-ceo-denise-dresser-to-lead-glob/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "OpenAI",
-        "Slack",
-        "Salesforce"
-      ],
-      "people": [
-        "Denise Dresser"
-      ]
-    },
-    {
-      "title": "OpenAI jmenuje šéfku Slacku Dresserovou prvním ředitelem pro výnosy, tvůrce ChatGPT směřuje k zisku",
-      "description": "OpenAI jmenuje CEO Slacku Denise Dresserovou prvním ředitelem pro výnosy, čímž signalizuje investořům vážný záměr dosáhnout ziskovosti z umělé inteligence. Dresserová převezme globální strategii výnosů a podporu podniků při integraci AI do každodenních operací.",
-      "slug": "openai-names-slack-ceo-dresser-as-first-chief-of-r",
-      "publishedAt": "2025-12-09T19:32:20+00:00",
-      "date": "2025-12-09 19:32:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-      "url": "/tech-news/2025-12-09/openai-names-slack-ceo-dresser-as-first-chief-of-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "OpenAI",
-        "Slack"
-      ],
-      "people": [
-        "Dresser"
-      ]
-    },
-    {
       "title": "Trumpovo schválení prodeje AI čipů Nvidia do Číny narazilo na chladný příjem u republikánů",
       "description": "Trump uvedl, že čínský prezident Si Ťin-pching reagoval pozitivně na návrh umožnit Nvidia prodávat H200 AI čipy do Číny za podmínky, že USA obdrží 25 procent z výnosů. Rozhodnutí však čelí kritice od republikánů obávajících se posílení čínské AI dominance.",
       "slug": "trump-blessing-nvidia-ai-chip-sales-to-china-gets-",
@@ -3700,29 +3760,6 @@
       "people": []
     },
     {
-      "title": "OpenAI jmenuje šéfku Slacku Denise Dresserovou hlavní ředitelkou pro příjmy",
-      "description": "OpenAI 9. prosince jmenovala šéfku Slacku Denise Dresserovou svou hlavní ředitelkou pro příjmy, aby posílila expanzi v podnikatelském segmentu. Dresserová bude řídit globální strategii příjmů včetně prodejů velkým firmám a péče o zákazníky.",
-      "slug": "openai-taps-slack-ceo-denise-dresser-as-chief-reve",
-      "publishedAt": "2025-12-09T19:25:51+00:00",
-      "date": "2025-12-09 19:25:51",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OCLWvW9N--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-09T192551Z_1_LYNXMPELB817N_RTROPTP_3_NEXTDC-DATA-CENTRE-OPENAI.JPG?itok=Ps9lOkSU",
-      "url": "/tech-news/2025-12-09/openai-taps-slack-ceo-denise-dresser-as-chief-reve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "OpenAI",
-        "Slack"
-      ],
-      "people": [
-        "Denise Dresser"
-      ]
-    },
-    {
       "title": "Budoucnost je zde: Proč Apple Intelligence mění produktivitu",
       "description": "Apple Intelligence přináší sadu uměle inteligentních funkcí do zařízení Apple, které zvyšují efektivitu práce podobně jako kdysi smartphony nebo cloudové úložiště. Tyto nástroje zpracovávají data přímo na zařízení a integrují se s ekosystémem iOS, iPadOS a macOS.",
       "slug": "the-future-is-now-why-apple-intelligence-is-a-game",
@@ -3759,28 +3796,6 @@
       },
       "companies": [
         "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Siemens a nVent představí společnou referenční architekturu pro AI datacentra NVIDIA",
-      "description": "Siemens a nVent spojují své technologie k vytvoření referenční architektury pro hyperskalární AI datacentra s kapacitou 100 MW, určená pro systémy NVIDIA DGX SuperPOD s DGX GB200. Architektura integruje pokročilé chlazení, napájení a automatizaci pro efektivní provoz liquid-cooled AI infrastruktur.",
-      "slug": "pr-siemens-and-nvent-to-release-joint-reference-ar",
-      "publishedAt": "2025-12-09T12:18:54+00:00",
-      "date": "2025-12-09 12:18:54",
-      "importance": 4,
-      "category": "ai datacentra",
-      "urlToImage": "https://www.techpowerup.com/img/QK2LliUFB0daTGU6.jpg",
-      "url": "/tech-news/2025-12-09/pr-siemens-and-nvent-to-release-joint-reference-ar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Siemens",
-        "nVent",
-        "NVIDIA"
       ],
       "people": []
     },
@@ -4069,28 +4084,6 @@
         "emoji": "📰",
         "id": "abc-news",
         "name": "ABC News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Prezident Trump souhlasí s prodejem výkonnějších H200 GPU od Nvidia čínským firmám",
-      "description": "Americký prezident Donald Trump oznámil na sociálních sítích, že dovolí společnosti Nvidia prodávat své grafické procesory H200 schváleným zákazníkům v Číně, což představuje obrat v předchozí politice zakazující export těchto čipů do země.",
-      "slug": "president-trump-agrees-to-let-nvidia-sell-more-pow",
-      "publishedAt": "2025-12-09T01:35:33+00:00",
-      "date": "2025-12-09 01:35:33",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/AA1MYsde.jpeg",
-      "url": "/tech-news/2025-12-09/president-trump-agrees-to-let-nvidia-sell-more-pow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
       },
       "companies": [
         "Nvidia"
