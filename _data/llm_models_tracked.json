@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "openai/gpt-5.2-chat",
-    "created_timestamp": 1765389783,
-    "updated_at": "2025-12-11T20:31:06.146671"
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b:free",
+    "created_timestamp": 1765731275,
+    "updated_at": "2025-12-16T07:24:52.110836"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -71,11 +71,18 @@
       "analyzed_at": "2025-12-11T20:31:06.146657",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2025-12-10-openai-gpt-5-2-chat.md"
+    },
+    "nvidia/nemotron-3-nano-30b-a3b:free": {
+      "name": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+      "created_timestamp": 1765731275,
+      "analyzed_at": "2025-12-16T07:24:52.110819",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2025-12-14-nvidia-nemotron-3-nano-30b-a3b-free.md"
     }
   },
   "statistics": {
-    "total_analyzed": 10,
-    "last_check": "2025-12-11T20:31:06.146959",
-    "last_new_models_found": 3
+    "total_analyzed": 11,
+    "last_check": "2025-12-16T07:24:52.111098",
+    "last_new_models_found": 1
   }
 }
