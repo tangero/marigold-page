@@ -1,10 +1,1358 @@
 {
-  "generated": "2025-12-15T08:59:42.072738+00:00",
+  "generated": "2025-12-17T04:53:23.718075+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Strategie ‚vydávej rychle, oprav později‘ v AI od Meta selhala. Dokáže se vrátit?",
-      "description": "Selhání strategie AI společnosti Meta ukazuje, že vývoj umělé inteligence nemůže spoléhat pouze na zrychlení vývoje a rychlé vydávání funkcí.",
+      "title": "USA pozastavují technologickou dohodu s Británií, hlásí Financial Times",
+      "description": "Spojené státy pozastavily dohodu s Británií uzavřenou letos na podzim, která měla posílit spolupráci v umělé inteligenci, kvantovém výpočtu a civilní jaderné energii. Důvodem je frustrace americké administrativy z britských obchodních bariér mimo technologickou oblast.",
+      "slug": "us-suspends-technology-deal-with-britain-ft-report",
+      "publishedAt": "2025-12-16T03:30:42+00:00",
+      "date": "2025-12-16 03:30:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-16/us-suspends-technology-deal-with-britain-ft-report/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Dohoda Disney a OpenAI: Jak se mění kreativní krajina pro nás všechny",
+      "description": "Ať se nám to líbí nebo ne, krok Disney představuje velký posun k světu kreativity poháněné umělou inteligencí.",
+      "slug": "the-disneyopenai-deal-how-the-creative-landscape-i",
+      "publishedAt": "2025-12-16T03:26:09+00:00",
+      "date": "2025-12-16 03:26:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/www.artsjournal.com/diacritical/wordpress/wp-content/uploads/2025/12/disney-OpenAI-image.jpg?fit=800%2C294&ssl=1",
+      "url": "/tech-news/2025-12-16/the-disneyopenai-deal-how-the-creative-landscape-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Artsjournal.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Agentura 81Produce a AI společnost ElevenLabs spolupracují na AI dabingách založených na hlasových talentech",
+      "description": "ElevenLabs použije technologie VoiceCAPCHA, digitální vodoznaky a standardy C2PA k boji proti neoprávněnému využití generativní AI. Partnerství chrání hlasy více než 400 japonských hlasových herců a umožňuje autorizované syntetické dabingy v 29 jazycích.",
+      "slug": "A-81produce-agency-ai-company-elevenlabs-partner-o",
+      "publishedAt": "2025-12-16T03:23:23+00:00",
+      "date": "2025-12-16 03:23:23",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLN/cms/news.9/232136/81producelogo.jpg",
+      "url": "/tech-news/2025-12-16/A-81produce-agency-ai-company-elevenlabs-partner-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Anime News Network"
+      },
+      "companies": [
+        "ElevenLabs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Předseda Samsungu Lee Jae-yong se setkal s Lisou Su a Elonem Muskem k diskuzi o možné spolupráci",
+      "description": "Předseda Samsung Electronics Lee Jae-yong se po týdenním obchodním výjezdu v USA vrátil do Koreje a setkal se s generální řežiserkou AMD Lisou Su a šéfem Tesly Elonem Muskem. Setkání v Austinu zahrnovala i vrcholové manažery Samsungovy divize foundry a týkala se potenciální spolupráce v oblasti polovodičů.",
+      "slug": "samsung-chairman-lee-jae-yong-meets-with-lisa-su-a",
+      "publishedAt": "2025-12-16T03:16:11+00:00",
+      "date": "2025-12-16 03:16:11",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251216pd220_files/1_b.jpg",
+      "url": "/tech-news/2025-12-16/samsung-chairman-lee-jae-yong-meets-with-lisa-su-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Samsung Electronics",
+        "Tesla"
+      ],
+      "people": [
+        "Lee Jae-yong",
+        "Lisa Su",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "USA spouští Tech Force pro posílení federální umělé inteligence s podporou Amazonu, Microsoftu a Nvidia",
+      "description": "Americká vláda zahájila iniciativu Tech Force, program pro rozvoj technologické pracovní síly, který má zvýšit kapacity federálních agentur v umělé inteligenci, kybernetické bezpečnosti, inženýrství softwaru a modernizaci dat. Projekt koordinuje Bílý dům za podpory gigantů Amazon, Microsoft a Nvidia.",
+      "slug": "us-launches-tech-force-to-supercharge-federal-ai-w",
+      "publishedAt": "2025-12-16T02:20:32+00:00",
+      "date": "2025-12-16 02:20:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251216vl200_files/4_b.jpg",
+      "url": "/tech-news/2025-12-16/us-launches-tech-force-to-supercharge-federal-ai-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Amazon",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trumpova administrativa najímá specialisty pro vládní Tech Force",
+      "description": "Administrativa Donalda Trumpa oznámila nábor přibližně tisíce inženýrů a technologických specialistů do federálních agentur pro práci na infrastruktuře umělé inteligence a dalších projektech. Tým U.S. Tech Force bude spolupracovat s firmami jako Microsoft, Apple, Amazon, Nvidia nebo OpenAI.",
+      "slug": "trump-is-recruiting-tech-personnel-for-government-",
+      "publishedAt": "2025-12-16T02:14:51+00:00",
+      "date": "2025-12-16 02:14:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/pexels-ramazphotos-7017138.jpg",
+      "url": "/tech-news/2025-12-16/trump-is-recruiting-tech-personnel-for-government/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Nvidia vsází na otevřené modely pro pohánění AI agentů",
+      "description": "Nvidia oznámila debut rodiny otevřených modelů Nemotron 3 určených pro transparentní, efektivní a specializované AI zaměřené na agenty napříč průmysly. Řada zahrnuje modely Nano, Super a Ultra, které využívají hybridní latentní směs expertů (MoE) pro vyšší propustnost a škálovatelnost v multiagentových workflowech.",
+      "slug": "nvidia-bets-on-open-models-to-power-ai-agents",
+      "publishedAt": "2025-12-16T01:48:30+00:00",
+      "date": "2025-12-16 01:48:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Nvidia-AI-models1.jpg",
+      "url": "/tech-news/2025-12-16/nvidia-bets-on-open-models-to-power-ai-agents/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
+      "description": "Tři roky po úspěchu ChatGPT, který z OpenAI udělal lídra v umělé inteligenci, se rivalové přiblížili a investoři jako Michael Burry ho přirovnávají k Netscape, které v 90. letech prohrálo s Microsoft Internet Explorer.",
+      "slug": "will-openai-be-the-next-tech-giant-or-next-netscap",
+      "publishedAt": "2025-12-16T01:37:32+00:00",
+      "date": "2025-12-16 01:37:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/7ffc98ae5499100cbae9bbd34ce6b0de5cf3b779-1.jpg",
+      "url": "/tech-news/2025-12-16/will-openai-be-the-next-tech-giant-or-next-netscap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "OpenAI",
+        "Netscape"
+      ],
+      "people": [
+        "Michael Burry"
+      ]
+    },
+    {
+      "title": "Dezinformace po střelbě v Bondi zaplavují sociální sítě falešnými lokalitami, fotografiemi z AI a tvrzeními Groka o „Edwardu Crabtree“",
+      "description": "Chatbot Elona Muska Grok označil fiktivního 47letého IT specialistu Edwarda Crabtreeho za hrdinu, který se vrhl na jednoho z útočníků a odebral mu zbraň. Tento případ ukazuje, jak AI zesiluje šíření lží během aktuálních událostí.",
+      "slug": "bondi-shooting-misinformation-floods-social-media-",
+      "publishedAt": "2025-12-16T01:07:46+00:00",
+      "date": "2025-12-16 01:07:46",
+      "importance": 4,
+      "category": "dezinformace",
+      "urlToImage": "https://static.ffx.io/images/$zoom_1.3071634881149805%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_342%2C$y_283/t_crop_custom/q_86%2Cf_auto/270b9375a6f182940aa84cdbee8a4efffefaa222",
+      "url": "/tech-news/2025-12-16/bondi-shooting-misinformation-floods-social-media/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Šéfka Wayma se vůbec nepodobá Elonovi; Rizikový kapitál brzy záviset na trilionových starupech; Všichni sázejí a nikdo není šťastný; Jsou MCPs jen API 2.0? a další",
+      "description": "Tento agregát tech novinek se zaměřuje na profil šéfky Wayma Tekedry Mawakany, která kontrastuje svou vizi s Elonem Muskem a zdůrazňuje úspěchy autonomních vozidel. Obsahuje také analýzu MCPs v AI ekosystému, nové AI sluchadlo a ekonomickou nespokojenost mladých.",
+      "slug": "waymos-ceo-isnt-like-elon-at-all-venture-capital-m",
+      "publishedAt": "2025-12-16T00:27:33+00:00",
+      "date": "2025-12-16 00:27:33",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://i0.wp.com/hunterwalk.com/wp-content/uploads/2025/12/Gemini_Generated_Image_ief3vmief3vmief3.jpg?fit=1200%2C655&ssl=1",
+      "url": "/tech-news/2025-12-16/waymos-ceo-isnt-like-elon-at-all-venture-capital-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hunterwalk.com"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": [
+        "Elon Musk",
+        "Tekedra Mawakana"
+      ]
+    },
+    {
+      "title": "Výkonné AI čipy Nvidia jsou již v Číně: Takto se tam dostaly",
+      "description": "Administrativa Donalda Trumpa 8. prosince povolila Nvidia prodej výkonných AI čipů H200 do Číny s 25procentní exportní daní, ale zpráva Reuters odhaluje, že tyto čipy jsou tam už dostupné přes šedý trh v univerzitách a výzkumných centrech.",
+      "slug": "powerful-nvidia-ai-chips-are-already-in-china-here",
+      "publishedAt": "2025-12-16T00:07:24+00:00",
+      "date": "2025-12-16 00:07:24",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.slashgear.com/img/gallery/powerful-nvidia-ai-chips-are-already-in-china-heres-how/l-intro-1765824232.jpg",
+      "url": "/tech-news/2025-12-16/powerful-nvidia-ai-chips-are-already-in-china-here/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SlashGear"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Elastic a Alteryx: Pohánění důvěryhodných, vyhledávatelných dat pro podnikové agenty",
+      "description": "Partnerství Elastic a Alteryx nabízí end-to-end řešení pro důvěryhodné podnikové generativní AI. Poskytuje plynulý workflow pro RAG přípravou, obohacením, ukládáním a vyhledáváním kurátovaných podnikových dat, čímž napájí spolehlivé a kontextově uvědomělé AI agenty.",
+      "slug": "elastic-and-alteryx-powering-trusted-search-ready-",
+      "publishedAt": "2025-12-16T00:00:00+00:00",
+      "date": "2025-12-16 00:00:00",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2b16cc5a621d4ae6/694075e6dc686e391fd0f18d/Blog-Alteryx-Partnership.png",
+      "url": "/tech-news/2025-12-16/elastic-and-alteryx-powering-trusted-search-ready/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Elastic.co"
+      },
+      "companies": [
+        "Elastic",
+        "Alteryx"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple Vision Pro M5: Jak wolfram, textilní úplet a křemík konečně činí prostorovou počítačovost obývatelnou",
+      "description": "Nová verze Apple Vision Pro s čipem M5 zachovává původní design, ale řeší klíčové nedostatky v komfortu a výkonu díky wolframu pro lepší vyvážení, textilnímu úpletu pro měkkost a pokročilému křemíku v čipech. To přeměňuje zařízení z demo kusu na prakticky použitelný nástroj pro prostorovou počítačovost.",
+      "slug": "apple-vision-pro-m5-how-tungsten-knit-and-silicon-",
+      "publishedAt": "2025-12-15T23:58:10+00:00",
+      "date": "2025-12-15 23:58:10",
+      "importance": 4,
+      "category": "prostorové počítačst",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/12/apple-vision-pro-m5-how-tungsten-knit-and-silicon-finally-make-spatial-computing-livable/vincent-vision-pro-M5.jpg",
+      "url": "/tech-news/2025-12-15/apple-vision-pro-m5-how-tungsten-knit-and-silicon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf Tesly Elon Musk udělal odvážné tvrzení o budoucí technologické nabídce: 'Bude mimo tento svět'",
+      "description": "„Pokud to někdo dokáže, tak on!“",
+      "slug": "tesla-ceo-elon-musk-makes-bold-claim-about-future-",
+      "publishedAt": "2025-12-15T23:55:00+00:00",
+      "date": "2025-12-15 23:55:00",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9cxJvkiFSzAJMOqTOrgkqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU-/https://media.zenfs.com/en/the_cool_down_737/7ee9c4b6b40609c965650dce51c3d216",
+      "url": "/tech-news/2025-12-15/tesla-ceo-elon-musk-makes-bold-claim-about-future/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Startup PolyAI s chatboti pro call centra získal 86 milionů USD při valuaci 750 milionů USD",
+      "description": "Londýnský startup umělé inteligence PolyAI získal 86 milionů dolarů v investičním kole série D při valuaci 750 milionů dolarů pro svou platformu agentických chatbotů, která automatizuje interakce se zákazníky v call centrech pro kasina, banky a nemocnice. Celková získaná částka dosahuje přes 200 milionů dolarů.",
+      "slug": "call-center-chatbot-startup-polyai-raises-86m-at-a",
+      "publishedAt": "2025-12-15T23:39:53+00:00",
+      "date": "2025-12-15 23:39:53",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-16-06-39-09.png",
+      "url": "/tech-news/2025-12-15/call-center-chatbot-startup-polyai-raises-86m-at-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "PolyAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf bezpečnosti Amazonu obviňuje ruskou GRU z dlouhodobých útoků na energetický sektor",
+      "description": "Dlouhodobá soustředěnost na západní kritickou infrastrukturu. Hlavní správa rozvědky Ruska (GRU) provádí kampaň proti energetice, telekomunikacím a dodavatelům technologií, kde kradou přihlašovací údaje a kompromitují špatně nastavená zařízení na AWS pro trvalý přístup k sítím.",
+      "slug": "amazon-security-boss-blames-russias-gru-for-years-",
+      "publishedAt": "2025-12-15T23:34:40+00:00",
+      "date": "2025-12-15 23:34:40",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://regmedia.co.uk/2022/03/18/russian_bear_shutterstock.jpg",
+      "url": "/tech-news/2025-12-15/amazon-security-boss-blames-russias-gru-for-years/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Warner Bros. je blockbusterovým finále pro 4,5 bilionu dolarů v fúzích a akvizicích",
+      "description": "Globální hodnoty transakcí vzrostly asi o 40 % na přibližně 4,5 bilionu dolarů tento rok, podle dat sestavených Bloombergem, což je druhý nejvyšší rekord v historii.",
+      "slug": "warner-bros-is-blockbuster-finale-to-45-trillion-m",
+      "publishedAt": "2025-12-15T23:27:32+00:00",
+      "date": "2025-12-15 23:27:32",
+      "importance": 5,
+      "category": "fúze akvizice",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2250992685-e1765838994346.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-15/warner-bros-is-blockbuster-finale-to-45-trillion-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Právní technologické události, které definovaly rok 2025",
+      "description": "Rok 2025 byl poznamenán rekordními investicemi do právních technologií, rychlým pokrokem umělé inteligence a nepřetržitými oznámeními o novinkách, které ztěžovaly udržení přehledu. Legal tech sektor zažil explozi nových AI startupů a diskuzí o agentic AI.",
+      "slug": "the-legal-tech-stories-that-defined-2025",
+      "publishedAt": "2025-12-15T20:16:00+00:00",
+      "date": "2025-12-15 20:16:00",
+      "importance": 4,
+      "category": "právní technologie",
+      "urlToImage": "https://www.abajournal.com/images/main_images/NicoleBlack2.jpg",
+      "url": "/tech-news/2025-12-15/the-legal-tech-stories-that-defined-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abajournal.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia kupuje vývojáře AI SchedMD pro rozšíření open-source AI",
+      "description": "Zvyšuje investice, aby odolala rostoucí konkurenci v oblasti umělé inteligence.",
+      "slug": "nvidia-buys-ai-developer-to-expand-open-source-ai-",
+      "publishedAt": "2025-12-15T19:54:05+00:00",
+      "date": "2025-12-15 19:54:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg",
+      "url": "/tech-news/2025-12-15/nvidia-buys-ai-developer-to-expand-open-source-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Ať Disney lituje svého postoje“ — Internet má silné reakce na nové partnerství Disney s OpenAI",
+      "description": "Internet má co říct k novému partnerství Disney s OpenAI, které zahrnuje licencování obsahu pro generativní AI platformu Sora.",
+      "slug": "make-disney-regret-their-stance-the-internet-has-s",
+      "publishedAt": "2025-12-15T19:51:03+00:00",
+      "date": "2025-12-15 19:51:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/12/openAI-walt-disney-company-700x394.jpeg",
+      "url": "/tech-news/2025-12-15/make-disney-regret-their-stance-the-internet-has-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "disneyfoodblog.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon Threat Intelligence identifikuje ruskou kybernetickou hrozbu cílenou na západní kritickou infrastrukturu",
+      "description": "Amazon Threat Intelligence na konci roku 2025 zveřejňuje poznatky o víceleté kampani sponzorované ruským státem, která představuje taktický posun v útocích na kritickou infrastrukturu. Hlavním vektorem přístupu se stala špatně nakonfigurovaná zařízení na okraji zákaznických sítí, zatímco využívání zranitelností kleslo.",
+      "slug": "amazon-threat-intelligence-identifies-russian-cybe",
+      "publishedAt": "2025-12-15T19:20:36+00:00",
+      "date": "2025-12-15 19:20:36",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/11/19/security-4868162_1920-1-1260x630.jpg",
+      "url": "/tech-news/2025-12-15/amazon-threat-intelligence-identifies-russian-cybe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nová AI divize Reliance Intelligence od RIL zahajuje operace",
+      "description": "Reliance Intelligence, plně vlastněná dceřiná společnost Reliance Industries založená v září 2025, spouští svou činnost. Jednotka spravuje partnerství s globálními technologickými firmami jako Google a Meta a realizuje plány na výstavbu datových center připravených pro umělou inteligenci.",
+      "slug": "rils-new-ai-arm-reliance-intelligence-begins-opera",
+      "publishedAt": "2025-12-15T19:17:36+00:00",
+      "date": "2025-12-15 19:17:36",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125989722,width-1200,height-630,imgsize-9238,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-15/rils-new-ai-arm-reliance-intelligence-begins-opera/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Administrativa Trumpa najme 1 000 specialistů pro ‚Tech Force‘ k vývoji AI a finančních projektů",
+      "description": "Administrativa prezidenta Trumpa spustila iniciativu ‚U.S. Tech Force‘, která zahrnuje najmutí přibližně 1 000 inženýrů a dalších specialistů pro práci na infrastruktuře umělé inteligence a dalších technologických projektech v federální vládě. Program spolupracuje s velkými technologickými firmami jako Amazon Web Services, OpenAI nebo Nvidia.",
+      "slug": "trump-admin-to-hire-1000-specialists-for-tech-forc",
+      "publishedAt": "2025-12-15T19:08:06+00:00",
+      "date": "2025-12-15 19:08:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-15/trump-admin-to-hire-1000-specialists-for-tech-forc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Appleův AI serverový čip „Baltra“ bude pravděpodobně použit především pro AI inference",
+      "description": "Apple vyvíjí vlastní serverový čip pro umělou inteligenci s kódovým názvem „Baltra“, jehož uvedení na trh se očekává v roce 2027. Čip má sloužit především k inference AI modelů a firma spolupracuje s Broadcom na síťové technologii, aby se vyhnula závislosti na Nvidia.",
+      "slug": "apples-ai-server-chip-baltra-likely-to-be-used-pri",
+      "publishedAt": "2025-12-15T19:07:35+00:00",
+      "date": "2025-12-15 19:07:35",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Apple-Baltra.jpg",
+      "url": "/tech-news/2025-12-15/apples-ai-server-chip-baltra-likely-to-be-used-pri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ottawa slibuje až 92 milionů dolarů čtyřem kanadským kvantovým společnostem v rámci nového programu Champions",
+      "description": "Nový kanadský program Kvantoví šampioni má udržet kanadské kvantové firmy a duševní vlastnictví doma. Čtěte více.",
+      "slug": "ottawa-promises-up-to-92-million-for-four-canadian",
+      "publishedAt": "2025-12-15T16:11:50+00:00",
+      "date": "2025-12-15 16:11:50",
+      "importance": 5,
+      "category": "kvantové technologie",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/quantum-1215-ph.jpg",
+      "url": "/tech-news/2025-12-15/ottawa-promises-up-to-92-million-for-four-canadian/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Intel se blíží k dohodě o koupi startupu SambaNova za 1,6 miliardy dolarů",
+      "description": "Potenciální akvizice by rozšířila snahu Intelu o pokročilé akcelerátory pro umělou inteligenci. SambaNova vyvíjí vysoce výkonný hardware pro rychlejší trénink velkých AI modelů.",
+      "slug": "intel-nears-16-billion-deal-to-buy-ai-chip-startup",
+      "publishedAt": "2025-12-15T15:49:45+00:00",
+      "date": "2025-12-15 15:49:45",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WoUMlppRwSVCl_k5uEl4xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00ODc-/https://media.zenfs.com/en/us.finance.gurufocus/06ee28153af34ee682f043e62519b8dd",
+      "url": "/tech-news/2025-12-15/intel-nears-16-billion-deal-to-buy-ai-chip-startup/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Intel",
+        "SambaNova"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bilance OpenAI v oblasti bezpečnosti AI je špatná – spíš funguje jako zastupitelský orgán než skutečné výzkumné laboratoř",
+      "description": "Alespoň dva výzkumníci nedávno opustili OpenAI kvůli obavám, že společnost nebyla zcela upřímná a příliš opatrná při publikování výzkumu, zejména pokud se týkal negativních aspektů technologie.",
+      "slug": "openais-track-record-on-ai-safety-stinks-bordering",
+      "publishedAt": "2025-12-15T15:46:59+00:00",
+      "date": "2025-12-15 15:46:59",
+      "importance": 4,
+      "category": "bezpečnost ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/icEsbwynRpnZAFBCXUbpPg-2560-80.jpg",
+      "url": "/tech-news/2025-12-15/openais-track-record-on-ai-safety-stinks-bordering/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Tesly vyskočily, Musk potvrdil testování robotaxi bez dohledu",
+      "description": "Akcie Tesly dosáhly nejvyšší hodnoty za téměř rok poté, co Elon Musk oznámil testování robotaxi bez bezpečnostních dohledů v předním sedadle spolujezdce. Tento krok posiluje očekávání investorů ohledně autonomních technologií společnosti.",
+      "slug": "tesla-shares-jump-as-musk-confirms-driverless-robo",
+      "publishedAt": "2025-12-15T15:46:01+00:00",
+      "date": "2025-12-15 15:46:01",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--0VHG2V2k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-15T154601Z_1_LYNXMPELBE0XW_RTROPTP_3_TESLA-RESULTS.JPG?itok=lwgGozx5",
+      "url": "/tech-news/2025-12-15/tesla-shares-jump-as-musk-confirms-driverless-robo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Elon Musk je dvakrát bohatší než druhý v pořadí Larry Page",
+      "description": "Je vzácné, aby nejbohatší osoba nebo rodina zdvojnásobila majetek druhého nejbohatšího. Tento stav dosáhl Bill Gates v roce 1999 s 90 miliardami dolarů oproti 36 miliardám Warrena Buffetta a blízko byl i v roce 2001. Rodina Waltonových to dokázala v letech 1993 a 1994.",
+      "slug": "elon-musk-is-twice-as-wealthy-as-second-place-larr",
+      "publishedAt": "2025-12-15T15:44:34+00:00",
+      "date": "2025-12-15 15:44:34",
+      "importance": 4,
+      "category": "miliardáři",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/elon2x-1024x497.jpeg",
+      "url": "/tech-news/2025-12-15/elon-musk-is-twice-as-wealthy-as-second-place-larr/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Larry Page",
+        "Bill Gates"
+      ]
+    },
+    {
+      "title": "Photonic Inc. vybrána do kanadského programu Quantum Champions",
+      "description": "Společnost Photonic Inc. byla zařazena do první fáze iniciativy kanadské vlády Canadian Quantum Champions Program, která má urychlit vývoj fault-tolerant quantum computing a poskytne až 23 milionů dolarů.",
+      "slug": "photonic-inc-selected-for-canadian-quantum-champio",
+      "publishedAt": "2025-12-15T15:28:00+00:00",
+      "date": "2025-12-15 15:28:00",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e133d571-5802-4242-ae7b-f13e54236b47",
+      "url": "/tech-news/2025-12-15/photonic-inc-selected-for-canadian-quantum-champio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Photonic Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co se děje s... Orange, ZTE a prodeji SASE",
+      "description": "Orange uzavřel závaznou dohodu o úplném převzetí španělského operátora MásOrange za 4,25 miliardy eur. ZTE čelí možné pokutě přes jednu miliardu dolarů kvůli obviněním z korupce. Podle Dell’Oro zažívá sektor SASE výrazný růst.",
+      "slug": "whats-up-with-orange-zte-sase-sales",
+      "publishedAt": "2025-12-15T15:22:53+00:00",
+      "date": "2025-12-15 15:22:53",
+      "importance": 5,
+      "category": "telekomunikace",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/orange-source-orange-19663.jpeg?w=1200",
+      "url": "/tech-news/2025-12-15/whats-up-with-orange-zte-sase-sales/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "Orange",
+        "ZTE",
+        "Dell'Oro"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bridgewater varuje: Závislost velkých technologických firem na externím kapitálu pro financování rozmachu umělé inteligence je nebezpečná",
+      "description": "Rozmach výdajů na umělou inteligenci vstupuje do nebezpečné fáze, protože velké technologické firmy čerpají externí investice na pokrytí rostoucích nákladů, uvedl vrcholový manažer hedgeového fondu Bridgewater Associates. Varování podtrhuje obavy investorů z udržitelnosti masivních investic do AI.",
+      "slug": "bridgewater-warns-big-techs-reliance-on-external-c",
+      "publishedAt": "2025-12-15T15:22:35+00:00",
+      "date": "2025-12-15 15:22:35",
+      "importance": 4,
+      "category": "financování ai",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/32a7a8fc6d3c64741f4d7cb6a9f854e5",
+      "url": "/tech-news/2025-12-15/bridgewater-warns-big-techs-reliance-on-external-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia spouští rodinu modelů Nemotron 3 jako otevřenou základnu pro agentické AI systémy",
+      "description": "Společnost Nvidia oznámila uvedení Nemotron 3, rodiny otevřených modelů a datových knihoven určených pro pohánění další generace agentických umělých inteligencí napříč průmysly. Rodina zahrnuje tři velikosti modelů: Nano, Super a Ultra.",
+      "slug": "nvidia-launches-nemotron-3-model-family-as-open-fo",
+      "publishedAt": "2025-12-15T15:20:58+00:00",
+      "date": "2025-12-15 15:20:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/nemotron-3-release.jpg",
+      "url": "/tech-news/2025-12-15/nvidia-launches-nemotron-3-model-family-as-open-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "⚡ Týdenní shrnutí: Zero-day zranitelnosti Apple, exploit WinRAR, pokuty LastPass, RCE v .NET, podvody OAuth a další",
+      "description": "Pokud používáte chytrý telefon, prohlížíte web nebo rozbalujete soubory na počítači, jste tento týden v hledáčku hackerů. Tyto skupiny využívají kritické zranitelnosti v běžném softwaru, v některých případech ještě před vydáním oprav.",
+      "slug": "weekly-recap-apple-0-days-winrar-exploit-lastpass-",
+      "publishedAt": "2025-12-15T12:24:00+00:00",
+      "date": "2025-12-15 12:24:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s790-rw-e365/recapp.jpg",
+      "url": "/tech-news/2025-12-15/weekly-recap-apple-0-days-winrar-exploit-lastpass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pokud vám záleží na bezpečnosti vašeho iPhonu, aktualizujte ihned",
+      "description": "Nové aktualizace iOS a iPadOS přinášejí 25 bezpečnostních oprav, včetně zero-day zranitelností v WebKit, které byly zneužity v sofistikovaných útocích na cílené jednotlivce. I pro uživatele starších verzí je k dispozici iOS/iPadOS 18.7.3 s 20 klíčovými opravami.",
+      "slug": "if-you-care-about-the-security-of-your-iphone-go-u",
+      "publishedAt": "2025-12-15T12:15:00+00:00",
+      "date": "2025-12-15 12:15:00",
+      "importance": 5,
+      "category": "mobilní bezpečnost",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/12/ios26-2-hero-8.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-15/if-you-care-about-the-security-of-your-iphone-go-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EU ustupuje tlaku automobilových výrobců a přehodnocuje zákaz spalovacích aut od roku 2035",
+      "description": "Evropská komise v úterý oznámí přehodnocení zákazu prodeje nových aut se spalovacím motorem od roku 2035 pod tlakem Německa, Itálie a evropských automobilkářů, kteří čelí konkurenci z Číny a USA. Zákaz by mohl být odložen o pět let nebo zmírněn.",
+      "slug": "eu-yields-to-pressure-from-automakers-as-it-rethin",
+      "publishedAt": "2025-12-15T12:12:24+00:00",
+      "date": "2025-12-15 12:12:24",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/559b611c1c4079108f89dbf3f83dcd59",
+      "url": "/tech-news/2025-12-15/eu-yields-to-pressure-from-automakers-as-it-rethin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI je společností roku 2025 podle Yahoo Finance",
+      "description": "Výrobce ChatGPT spustil technologickou revoluci této generace. Dokáže největší hnací síla umělé inteligence pokračovat v podpoře zlaté horečky?",
+      "slug": "openai-is-the-2025-yahoo-finance-company-of-the-ye",
+      "publishedAt": "2025-12-15T12:00:54+00:00",
+      "date": "2025-12-15 12:00:54",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ig2oG0VvxTUBGpPJW2rwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3876ee80-d6d2-11f0-bf1f-f90390151878",
+      "url": "/tech-news/2025-12-15/openai-is-the-2025-yahoo-finance-company-of-the-ye/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento startup podporovaný Thrive chce být „Amazonem domovů“",
+      "description": "Od roku 2022 získal Homebound celkem 400 milionů dolarů v akciovém kapitálu a kapitálu na nemovitosti, uvedla společnost pro Fortune.",
+      "slug": "this-thrive-backed-startup-says-it-aspires-to-be-t",
+      "publishedAt": "2025-12-15T11:55:27+00:00",
+      "date": "2025-12-15 11:55:27",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Unknown-2.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-15/this-thrive-backed-startup-says-it-aspires-to-be-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Amazon",
+        "Homebound"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak Google vidí umělou inteligenci v roce 2026: Od jednotných modelů po spoluvědce a kódové agenty",
+      "description": "Podle šéfa AI u Google Demise Hassabise se do roku 2026 AI vyvine do full omnimodelů, které integrují text, obrazy, video, audio a robotiku. Tyto systémy umožní pokročilé uvažování podobné lidskému a najdou uplatnění v řešení globálních problémů.",
+      "slug": "how-google-sees-2026-ai-from-unified-models-to-co-",
+      "publishedAt": "2025-12-15T11:45:58+00:00",
+      "date": "2025-12-15 11:45:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/live-in-gemini-real-time-assistant_optimized.jpg",
+      "url": "/tech-news/2025-12-15/how-google-sees-2026-ai-from-unified-models-to-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "BBVA a OpenAI uzavírají partnerství pro posílení aplikace umělé inteligence v bankovním sektoru",
+      "description": "OpenAI podpoří strategii umělé inteligence banky BBVA pro zlepšení zážitků zákazníků a optimalizaci jejích operací.",
+      "slug": "bbva-openai-partner-to-boost-ai-application-in-ban",
+      "publishedAt": "2025-12-15T11:17:11+00:00",
+      "date": "2025-12-15 11:17:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VcxRq0OcUr1wxIVXP4mnbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_banker_international_407/64773996914ed1a4a902610843fc7785",
+      "url": "/tech-news/2025-12-15/bbva-openai-partner-to-boost-ai-application-in-ban/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Retailbankerinternational.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "QuEra: Tisíce neutrálních atomových qubitů jsou jen pár let od komerční kvantové výhody #Q2B",
+      "description": "Společnost QuEra vydá v roce 2026 novou roadmapu k dosažení komerční kvantové výhody. Na konferenci Q2B 2025 představila pokroky v technologii neutrálních atomových qubitů, které překonávají klasické počítače v určitých úlohách.",
+      "slug": "quera-thousands-of-neutral-atom-qubits-is-a-few-ye",
+      "publishedAt": "2025-12-15T08:13:48+00:00",
+      "date": "2025-12-15 08:13:48",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/IMG_0805-min-1024x768.jpg",
+      "url": "/tech-news/2025-12-15/quera-thousands-of-neutral-atom-qubits-is-a-few-ye/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "QuEra"
+      ],
+      "people": []
+    },
+    {
+      "title": "Taiwan spouští národní cloudové výpočetní centrum pro napájení suverénní AI v rámci nové velké AI iniciativy",
+      "description": "Taiwan zahajuje národní cloudové výpočetní centrum zaměřené na suverénní umělou inteligenci jako součást nové rozsáhlé AI strategie. Iniciativa reaguje na rostoucí soutěž o výpočetní výkon, data a aplikace v éře generativní AI.",
+      "slug": "taiwan-launches-national-cloud-computing-center-to",
+      "publishedAt": "2025-12-15T08:05:48+00:00",
+      "date": "2025-12-15 08:05:48",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251215pd201_files/2_b.jpg",
+      "url": "/tech-news/2025-12-15/taiwan-launches-national-cloud-computing-center-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Beeline Kazakhstan od VEON uskutečnil první hovor přes Starlink Direct to Cell v Střední Asii",
+      "description": "Almaty, 15. prosince 2025 – VEON Ltd. oznámil, že jeho operátor Beeline Kazakhstan dokončil terénní test a uskutečnil první hlasový hovor přes aplikaci i textové zprávy prostřednictvím Starlink Direct to Cell v Střední Asii. Test spojil satelitní a pozemní mobilní sítě pomocí standardních smartphonů.",
+      "slug": "veons-beeline-kazakhstan-delivers-first-starlink-d",
+      "publishedAt": "2025-12-15T08:03:00+00:00",
+      "date": "2025-12-15 08:03:00",
+      "importance": 4,
+      "category": "satelitní komunikace",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f0410957-abe7-404f-a8cd-72ceaac2ffe9",
+      "url": "/tech-news/2025-12-15/veons-beeline-kazakhstan-delivers-first-starlink-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kvantové tranzistory umožňují škálování qubitů z barevných center v diamantu #Q2B #Q2B2025",
+      "description": "Společnost Quantum Transistors představila zařízení Quantum Transistor (patent čekající na schválení), které řeší problémy stability náboje barevných center v diamantu a umožňuje jejich použití jako škálovatelných qubitů. Prezentace proběhla na konferenci Q2B 2025 a ukazuje cestu k 250 000 qubitům do roku 2030 při provozu na 4 kelvinech.",
+      "slug": "quantum-transistors-can-scale-diamond-color-center",
+      "publishedAt": "2025-12-15T08:00:19+00:00",
+      "date": "2025-12-15 08:00:19",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/IMG_0788-min-1024x768.jpg",
+      "url": "/tech-news/2025-12-15/quantum-transistors-can-scale-diamond-color-center/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "STMicroelectronics dodala 5 miliard čipů pro Starlink za poslední desetiletí; počet by se mohl zdvojnásobit do roku 2027",
+      "description": "STMicroelectronics dodala SpaceX přes 5 miliard čipů pro rádiové frekvence antén v síti Starlink. Firma očekává zdvojnásobení dodávek v příštích dvou letech díky rostoucí poptávce po specializovaných komponentech pro vesmírné technologie.",
+      "slug": "stmicro-has-shipped-5-billion-chips-for-starlink-i",
+      "publishedAt": "2025-12-15T07:47:42+00:00",
+      "date": "2025-12-15 07:47:42",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19360,resizemode-75,msid-125974166/tech/technology/stmicro-has-shipped-5-billion-chips-for-starlink-in-past-decade-that-could-double-by-2027.jpg",
+      "url": "/tech-news/2025-12-15/stmicro-has-shipped-5-billion-chips-for-starlink-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "STMicroelectronics",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Úniky Gemini 3.5: Google testuje modely Fierce Falcon a Ghost Falcon na LM Arena po GPT-5.2",
+      "description": "Google prý testuje dva pokročilé modely z řady Gemini 3.5 – Fierce Falcon a Ghost Falcon – na platformě LM Arena, aby se utkal s OpenAI a jeho GPT-5.2. Tyto modely zvládají tvorbu her, návrh uživatelských rozhraní a simulace kódování, přičemž odhalují silné i slabé stránky.",
+      "slug": "gemini-35-leaks-as-google-checks-falcon-models-on-",
+      "publishedAt": "2025-12-15T07:07:24+00:00",
+      "date": "2025-12-15 07:07:24",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/fierce-and-ghost-falcon-comparison_optimized.jpg",
+      "url": "/tech-news/2025-12-15/gemini-35-leaks-as-google-checks-falcon-models-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "STMicroelectronics a SpaceX slaví desetileté partnerství klíčové pro globální konektivitu Starlinku",
+      "description": "STMicroelectronics a SpaceX oslavují deset let spolupráce na vývoji vlastních čipů pro satelitní síť Starlink, která poskytuje širokopásmový internet více než 8 milionům zákazníků v přes 150 zemích. Partnerství pokračuje s důrazem na nové generace satelitů a uživatelských terminálů.",
+      "slug": "stmicroelectronics-and-spacex-celebrate-a-decade-l",
+      "publishedAt": "2025-12-15T07:00:00+00:00",
+      "date": "2025-12-15 07:00:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/281fbc38-04be-49ef-832b-48f4f2f8c959",
+      "url": "/tech-news/2025-12-15/stmicroelectronics-and-spacex-celebrate-a-decade-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "STMicroelectronics",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Izrael se připojil k iniciativě Pax Silica – Mezinárodní koalice pro posílení dodavatelských řetězců v éře umělé inteligence",
+      "description": "Izrael se stal členem iniciativy Pax Silica vedené Spojenými státy, která byla představena na konferenci v Washingtonu s účastí devíti předních zemí v oblastech umělé inteligence, polovodičů a pokročilých průmyslů. Cílem je vytvořit bezpečný a odolný technologický ekosystém od těžby surovin po AI infrastrukturu.",
+      "slug": "israel-joins-pax-silica-initiative-an-internationa",
+      "publishedAt": "2025-12-15T06:49:13+00:00",
+      "date": "2025-12-15 06:49:13",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-15/israel-joins-pax-silica-initiative-an-internationa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nedávné investice amerických firem do Indie zdůrazňují rozsah bilaterální technologické a ekonomické spolupráce",
+      "description": "Indie přilákala investice v hodnotě 67,5 miliardy dolarů z USA, což ukazuje prohlubující se technologické a ekonomické vazby. Google postaví AI datové centrum za 15 miliard dolarů ve Višákhapatnamu, Microsoft investuje 17,5 miliardy do cloudu a AI infrastruktury a Amazon slíbí 35 miliard do roku 2030 pro různé oblasti včetně AI.",
+      "slug": "recent-investments-in-india-from-us-firms-highligh",
+      "publishedAt": "2025-12-15T02:58:35+00:00",
+      "date": "2025-12-15 02:58:35",
+      "importance": 4,
+      "category": "technologické invest",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125969446,width-1200,height-630,imgsize-137922,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-15/recent-investments-in-india-from-us-firms-highligh/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "Microsoft",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Desítky akcií včetně Wipro, Adani Green, Waaree, KEC, Devyani sledovat v dnešním obchodování",
+      "description": "Několik akcií je dnes v centru pozornosti díky strategickým partnerstvím, získaným objednávkám, regulační jasnosti, expanzi kapacity a změnám v managementu.",
+      "slug": "dozens-of-stocks-including-wipro-adani-green-waare",
+      "publishedAt": "2025-12-15T02:47:13+00:00",
+      "date": "2025-12-15 02:47:13",
+      "importance": 4,
+      "category": "burzovní akcie",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/rlgquh/article69836709.ece/alternates/LANDSCAPE_1200/buzzing%20stocks%204.jpg",
+      "url": "/tech-news/2025-12-15/dozens-of-stocks-including-wipro-adani-green-waare/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Wipro"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft spolupracuje s indickými IT giganty na nasazení agentic AI",
+      "description": "Partnerství s firmami Cognizant, Infosys, TCS a Wipro navazuje na slib Microsoftu o investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii. Tyto společnosti nasadí přes 200 000 licencí Microsoft Copilot pro agentic AI v podnicích.",
+      "slug": "microsoft-taps-indian-it-giants-for-agentic-ai-rol",
+      "publishedAt": "2025-12-15T02:46:00+00:00",
+      "date": "2025-12-15 02:46:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Hyderabad-India-adobe.jpg",
+      "url": "/tech-news/2025-12-15/microsoft-taps-indian-it-giants-for-agentic-ai-rol/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Microsoft",
+        "Cognizant",
+        "Infosys",
+        "TCS",
+        "Wipro"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla Robotaxi spatřen bez bezpečného řidiče v Austinu; Musk potvrzuje zahájení testování",
+      "description": "Tesla vůz byl spatřen na veřejných silnicích v Austinu bez nikoho v řidičském ani spolujezdcově sedadle. Elon Musk potvrdil, že testování Robotaxi bez obsazení vozidla probíhá.",
+      "slug": "tesla-robotaxi-spotted-without-a-safety-driver-in-",
+      "publishedAt": "2025-12-15T02:38:31+00:00",
+      "date": "2025-12-15 02:38:31",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-driverless-robotoaxi-spotted-in-austin.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-12-15/tesla-robotaxi-spotted-without-a-safety-driver-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "ServiceNow v pokročilých jednáních o akvizici kyberbezpečnostního startupu Armis za až 7 miliard dolarů, uvádí zpráva",
+      "description": "ServiceNow je v pokročilých jednáních o koupi izraelské kyberbezpečnostní společnosti Armis, vedené veterány izraelské armády, za až 7 miliard dolarů, což by byla jejich největší akvizice. Dohoda může být oznámena brzy, případně selhat kvůli jinému zájemci.",
+      "slug": "servicenow-in-advanced-talks-to-acquire-cybersecur",
+      "publishedAt": "2025-12-15T01:18:26+00:00",
+      "date": "2025-12-15 01:18:26",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/15/1600x900/deal_1762581493801_1762581494010_1765760500089.png",
+      "url": "/tech-news/2025-12-15/servicenow-in-advanced-talks-to-acquire-cybersecur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hongkong a Indie pohánějí rekordní rok sběru kapitálu v Asii",
+      "description": "Burza v Hongkongu zaznamenala výrazný obrat, prodeje akcií vzrostly na více než 73 miliard dolarů a staly se nejúspěšnějšími v Asii. Čínské firmy jako výrobci baterií a elektromobilů vedou tento trend díky snaze o globální expanzi, Indie, pevninská Čína a Japonsko také vykazují silné obchody.",
+      "slug": "honk-kong-india-fuel-blockbuster-year-for-asia-fun",
+      "publishedAt": "2025-12-15T00:54:30+00:00",
+      "date": "2025-12-15 00:54:30",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125968591,width-1200,height-630,imgsize-48366,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-15/honk-kong-india-fuel-blockbuster-year-for-asia-fun/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Práce vedená umělou inteligencí vyniká jako hnací síla růstu Capgemini India: generální ředitel Capgemini India",
+      "description": "Společnost staví své obchodní operace a plánovanou integraci s WNS do centra strategie, poháněné poptávkou z globálních center schopností (GCC) a podniků. Capgemini oznámilo odkup WNS na začátku letošního roku za 3 miliardy dolarů.",
+      "slug": "ai-led-work-stands-out-as-capgemini-indias-growth-",
+      "publishedAt": "2025-12-15T00:30:00+00:00",
+      "date": "2025-12-15 00:30:00",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-131292,resizemode-75,msid-125964417/tech/information-tech/ai-led-work-stands-out-as-capgemini-indias-growth-driver-capgemini-india-md.jpg",
+      "url": "/tech-news/2025-12-15/ai-led-work-stands-out-as-capgemini-indias-growth/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Capgemini",
+        "WNS"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína a Amerika se musí vážně vypořádat s riziky AI",
+      "description": "Čína a Amerika budou ostře soutěžit o převahu v umělé inteligenci. Jako jediné dvě supervelmoci v této oblasti však obě země naléhavě potřebují přímou spolupráci při řešení rostoucích rizik, která technologie přináší pro trhy, infrastrukturu, sociální stabilitu a lidstvo samotné.",
+      "slug": "china-and-america-must-get-serious-about-ai-risk",
+      "publishedAt": "2025-12-15T00:05:00+00:00",
+      "date": "2025-12-15 00:05:00",
+      "importance": 5,
+      "category": "ai rizika",
+      "urlToImage": "https://webapi.project-syndicate.org/library/d81ebdb5116e514a07cfbee45ee61a12.2-1-super.1.jpg",
+      "url": "/tech-news/2025-12-15/china-and-america-must-get-serious-about-ai-risk/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Project Syndicate"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Translate získává inteligenci díky modelu Gemini: Přirozené a okamžité překlady",
+      "description": "Google zavádí v aplikaci Translate vylepšení poháněná modelem Gemini, která zlepšují přesnost textových překladů, porozumění řeči a nástroje pro učení jazyků. Novinky zahrnují kontextuální porozumění idiomům a beta verzi real-time překladu řeči přímo do sluchátek podporující přes 70 jazyků.",
+      "slug": "google-translate-gets-smarter-with-gemini-powered-",
+      "publishedAt": "2025-12-15T00:00:00+00:00",
+      "date": "2025-12-15 00:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2025-12-15/google-translate-gets-smarter-with-gemini-powered/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow prý v pokročilých jednáních o koupi Armis za až 7 miliard dolarů",
+      "description": "Poskytovatel cloudového softwaru pro řízení pracovních postupů ServiceNow je prý v pokročilých jednáních o akvizici společnosti Armis, která se zaměřuje na správu kybernetického vystavení a bezpečnost zařízení. Hodnota dohody by mohla dosáhnout až 7 miliard dolarů a stát se největší akvizicí ServiceNow dosud.",
+      "slug": "servicenow-reportedly-in-advanced-talks-to-buy-arm",
+      "publishedAt": "2025-12-14T22:51:32+00:00",
+      "date": "2025-12-14 22:51:32",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Armis.png",
+      "url": "/tech-news/2025-12-14/servicenow-reportedly-in-advanced-talks-to-buy-arm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
+    {
+      "title": "Warby Parker (WRBY) vzrostl o 46 % před uvedením AI brýlí v roce 2026",
+      "description": "Akcie Warby Parker Inc. (NYSE:WRBY) posílily o 46 procent týdně na nové maximum za 52 týdnů díky podání u SEC, které potvrdilo partnerství s Google na vývoj inteligentních brýlí s umělou inteligencí. Produkt má být odhalen v roce 2026 a obsahuje multimodální AI s dioptrickými i nedioptrickými čočkami.",
+      "slug": "warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel",
+      "publishedAt": "2025-12-14T19:41:25+00:00",
+      "date": "2025-12-14 19:41:25",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D0z5VqhvmkeRz0bKYCfSqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/insidermonkey.com/c0ec52b7a50af86083dba23321dbc8f8",
+      "url": "/tech-news/2025-12-14/warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Volkswagen testuje svého rivala Tesla Robotaxi ve Wolfsburgu",
+      "description": "Volkswagen otestovává výzkumné autonomní vozidlo Gen.Urban ve Wolfsburgu v Německu, kde jede bez volantu a pedálů v reálném městském provozu. Projekt se zaměřuje na zkušenost pasažérů a budování důvěry v autonomní jízdu.",
+      "slug": "volkswagens-tesla-robotaxi-rival-gets-put-to-the-t",
+      "publishedAt": "2025-12-14T19:13:59+00:00",
+      "date": "2025-12-14 19:13:59",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/vw-gen_urban.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-12-14/volkswagens-tesla-robotaxi-rival-gets-put-to-the-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strach z hackování chytrých domovů: Co je reálné a co přehnané",
+      "description": "Strach z hackování chytrých domovů je přehnaný? Expert vysvětluje skutečná rizika kyberbezpečnosti a poskytuje jednoduché tipy na ochranu propojených zařízení před útoky hackerů.",
+      "slug": "smart-home-hacking-fears-whats-real-and-whats-hype",
+      "publishedAt": "2025-12-14T18:30:56+00:00",
+      "date": "2025-12-14 18:30:56",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/3-are-your-smart-home-cameras-spying-on-you-study-reveals-shocking-data-grabs-outro.jpg",
+      "url": "/tech-news/2025-12-14/smart-home-hacking-fears-whats-real-and-whats-hype/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Boom umělé inteligence tlačí datová centra za termální zeď",
+      "description": "Hyperskalární provozovatelé spěšně nasazují výkonnější infrastrukturu pro AI, což testuje termální limity tradičních datových center a zvyšuje poptávku po pokročilých chladicích technologiích. Podle zprávy společnosti Verified Market dochází k masivnímu růstu tohoto trhu.",
+      "slug": "the-ai-boom-is-pushing-data-centers-past-the-therm",
+      "publishedAt": "2025-12-14T18:00:00+00:00",
+      "date": "2025-12-14 18:00:00",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-12_6n87bbkncv.jpg",
+      "url": "/tech-news/2025-12-14/the-ai-boom-is-pushing-data-centers-past-the-therm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Soutěž Nvidia Blackwell proti Google TPU – klíčový souboj AI hardware v roce 2026",
+      "description": "Analytici 24/7 Wall St. v podcastu The AI Investor rozebrali konkurenční dynamiku mezi specializovanými čipy TPU od Google a univerzálními GPU od Nvidia, které nyní dominují v AI výpočtech. TPUs nabízejí vyšší energetickou úspornost a nižší celkové náklady, což by mohlo změnit trh, pokud je Google začne prodávat externě.",
+      "slug": "the-nvidia-blackwell-vs-google-tpu-battle-explaine",
+      "publishedAt": "2025-12-14T15:40:32+00:00",
+      "date": "2025-12-14 15:40:32",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/epauqRUKPUiF9JFOIgmPNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/922d386a45e87d5abeaf1867b5b43001",
+      "url": "/tech-news/2025-12-14/the-nvidia-blackwell-vs-google-tpu-battle-explaine/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "companies": [
+        "Nvidia",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Uvnitř AI útoků na SaaS: proč je identita nejslabším článkem",
+      "description": "Bezpečnost SaaS selhává ne na okraji sítě – útoky založené na AI, které zneužívají identity, ji obcházejí úplně. Podle zprávy AppOmni zažilo 75 % organizací incident související se SaaS.",
+      "slug": "inside-the-ai-powered-assault-on-saas-why-identity",
+      "publishedAt": "2025-12-14T15:00:00+00:00",
+      "date": "2025-12-14 15:00:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JFKDCP2HdEKqSGJCkLNprB-1100-80.jpg",
+      "url": "/tech-news/2025-12-14/inside-the-ai-powered-assault-on-saas-why-identity/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Je IBM nejlepší technologickou akcií k nákupu pro rok 2026?",
+      "description": "Oživení IBM poháněné kvantovými počítači by mohlo připravit půdu pro jeden z největších comebacků v technologickém sektoru. Je nyní vhodný čas vstoupit?",
+      "slug": "is-ibm-the-top-tech-stock-to-buy-for-2026",
+      "publishedAt": "2025-12-14T14:30:02+00:00",
+      "date": "2025-12-14 14:30:02",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://media.zenfs.com/en/barchart_com_477/ae0d0724f3fa3ece6982ed9e3039f043",
+      "url": "/tech-news/2025-12-14/is-ibm-the-top-tech-stock-to-buy-for-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "companies": [
+        "IBM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Translate nyní rozumí slangům, rčím a mluví přímo přes sluchátka",
+      "description": "Aktualizace se již zavádí v USA a Indii a pokrývá překlady mezi angličtinou a téměř 20 jazyky, včetně španělštiny, hindštiny, čínštiny, japonštiny a němčiny. Je dostupná v aplikaci Translate pro Android a iOS i na webu.",
+      "slug": "google-translate-now-understands-slang-sayings-and",
+      "publishedAt": "2025-12-14T10:23:55+00:00",
+      "date": "2025-12-14 10:23:55",
+      "importance": 4,
+      "category": "překladače",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20542,resizemode-75,msid-125960289/tech/technology/google-translate-now-understands-slang-sayings-can-talk-through-your-headphones.jpg",
+      "url": "/tech-news/2025-12-14/google-translate-now-understands-slang-sayings-and/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dlouholetý investor Tesly Ross Gerber: Rok 2026 bude pro Muskovo autodílo rokem vyúčtování",
+      "description": "Investor Tesly Ross Gerber, který se stal pesimistou, tvrdí, že Elon Musk musí v roce 2026 prokázat výsledky největších iniciativ společnosti, jinak čeká odpor investorů.",
+      "slug": "longtime-tesla-investor-ross-gerber-says-2026-will",
+      "publishedAt": "2025-12-14T10:15:01+00:00",
+      "date": "2025-12-14 10:15:01",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i.insider.com/693c72ba832e0ef1ead629b1?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-14/longtime-tesla-investor-ross-gerber-says-2026-will/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Ross Gerber",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Strategie Meta ‚rychle spustit, opravit později‘ v AI selhala. Dokáže se vrátit?",
+      "description": "Selhání strategie AI společnosti Meta ukazuje, že vývoj umělé inteligence nemůže spoléhat výhradně na urychlení vývoje a rychlé vydávání funkcí.",
       "slug": "metas-ship-fast-fix-later-ai-strategy-has-failed-c",
       "publishedAt": "2025-12-14T08:16:49+00:00",
       "date": "2025-12-14 08:16:49",
@@ -23,13 +1371,13 @@
       "people": []
     },
     {
-      "title": "Prodalo Disney svou duši dohodou s OpenAI Sora?",
-      "description": "Disney+ bude streamovat AI-generované videa od fanoušků. Společnost uzavřela tříletou licenci s OpenAI pro použití svých postav v generátoru videí Sora.",
+      "title": "Prodalo Disney svou duši dohodou s OpenAI o Soru?",
+      "description": "Disney uzavřelo tříletou licenci s OpenAI, která umožní uživatelům Sora generovat videa s více než 200 postavami z Disney, Marvel, Pixar a Star Wars. Tento krok následuje po ústupcích OpenAI kvůli stížnostem na zneužití autorských práv.",
       "slug": "has-disney-sold-its-soul-in-deal-with-openais-sora",
       "publishedAt": "2025-12-14T08:00:00+00:00",
       "date": "2025-12-14 08:00:00",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/VT57Xpu5ho3w3P7JT7dV3V-1000-80.jpg",
       "url": "/tech-news/2025-12-14/has-disney-sold-its-soul-in-deal-with-openais-sora/",
       "source": {
@@ -43,13 +1391,13 @@
       "people": []
     },
     {
-      "title": "Poprvé AI analyzuje jazyk stejně dobře jako lidský expert",
-      "description": "Pokud je jazyk tím, co nás dělá lidmi, co to znamená nyní, když velké jazykové modely získaly metalingvistické schopnosti?",
+      "title": "Poprvé analyzuje umělá inteligence jazyk na úrovni lidského experta",
+      "description": "Pokud je jazyk tím, co nás dělá lidmi, co to znamená nyní, když velké jazykové modely získaly metajazykové schopnosti?",
       "slug": "for-the-first-time-ai-analyzes-language-as-well-as",
       "publishedAt": "2025-12-14T07:00:00+00:00",
       "date": "2025-12-14 07:00:00",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg",
       "url": "/tech-news/2025-12-14/for-the-first-time-ai-analyzes-language-as-well-as/",
       "source": {
@@ -62,12 +1410,12 @@
     },
     {
       "title": "Uživatelé obviňují OpenAI, že zkazil Sora 2. EOSHD prošetřuje, co se stalo",
-      "description": "Po vydání Sora 2 pouze na pozvání byly výsledky působivé a vyvolaly nadšení. Systém se však pod zatížením zhroutil, což vedlo k masivnímu snížení kvality bez oznámení, aby umožnilo širší nasazení. EOSHD analyzuje stížnosti uživatelů a srovnává původní a současnou verzi.",
+      "description": "Po vydání Sora 2 pouze na pozvání byly výsledky působivé a vyvolaly nadšení. Systém však pod zátěží zkolaboval, OpenAI ho výrazně omezil bez oznámení a kvalita generovaných videí dramaticky klesla.",
       "slug": "users-are-complaining-openai-wreaked-sora-2-eoshd-",
       "publishedAt": "2025-12-14T06:30:12+00:00",
       "date": "2025-12-14 06:30:12",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://www.eoshd.com/wp-content/uploads/2025/12/sora.jpg",
       "url": "/tech-news/2025-12-14/users-are-complaining-openai-wreaked-sora-2-eoshd/",
       "source": {
@@ -82,7 +1430,7 @@
     },
     {
       "title": "Lekce z React2Shell",
-      "description": "Kritická zranitelnost CVE-2025-55182 v Reactu umožnila neověřeným útočníkům spouštět libovolný kód na milionech serverů běžících React 19 a Next.js. Prohlášená 3. prosince 2025 s maximálním skóre CVSS 10.0, byla rychle zneužita v praxi.",
+      "description": "Analýza kritické bezpečnostní zranitelnosti CVE-2025-55182 v Reactu, která umožnila neautentizované spuštění libovolného kódu na milionech serverů během hodin po zveřejnění. Článek rozebírá příčiny v protokolu Flight a dopady na ekosystém React Server Components.",
       "slug": "lessons-from-react2shell",
       "publishedAt": "2025-12-14T06:26:30+00:00",
       "date": "2025-12-14 06:26:30",
@@ -100,7 +1448,7 @@
     },
     {
       "title": "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
-      "description": "USA povolily Nvidia prodávat výkonné AI čipy H200 do Číny výměnou za 25procentní podíl na ziscích. Tato změna oslabuje exportní kontroly a riskuje posílení AI systémů v moderní válce, což staví spojence jako Austrálii před těžkými volbami mezi ekonomikou a bezpečností.",
+      "description": "USA povolily Nvidia prodávat výkonné AI čipy H200 do Číny výměnou za 25 procent zisku. Tato změna oslabuje exportní kontroly a může posílit vývoj AI systémů pro autonomní zbraně. Spojenci jako Austrálie čelí dilematu mezi ekonomickými vazbami na Čínu a bezpečnostními závazky vůči USA.",
       "slug": "with-nvidias-second-best-ai-chips-headed-for-china",
       "publishedAt": "2025-12-14T06:01:26+00:00",
       "date": "2025-12-14 06:01:26",
@@ -119,8 +1467,8 @@
       "people": []
     },
     {
-      "title": "Hollywood přijímá AI: Disney vsadí miliardu dolarů na OpenAI",
-      "description": "Disney investuje miliardu dolarů do OpenAI a podepisuje tříletou licenční smlouvu, která poskytuje platformě Sora AI přístup k více než 200 postavám z Disney, Marvel, Pixar a Star Wars. Fanoušci tak mohou generovat krátké filmy poháněné AI s ikonickými postavami jako Mickey Mouse, Iron Man nebo Darth Vader, přičemž jsou vyloučeny podobnosti a hlasy herců.",
+      "title": "Hollywood přijímá umělou inteligenci: Disney investuje miliardu dolarů do OpenAI",
+      "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá tříletou licenční smlouvu, která poskytuje platformě Sora přístup k více než 200 postavám z Disney, Marvel, Pixar a Star Wars. Fanoušci mohou generovat krátké filmy poháněné AI s ikonickými postavami, bez použití podobnosti nebo hlasů herců.",
       "slug": "hollywood-embraces-ai-disney-bets-1-billion-on-ope",
       "publishedAt": "2025-12-14T06:00:00+00:00",
       "date": "2025-12-14 06:00:00",
@@ -2602,28 +3950,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk: Tesla robotaxi v Austinu plně bez řidiče za tři týdny",
-      "description": "Novinka přichází v době, kdy Tesla plánuje zdvojnásobit svou flotilu v oblasti Austinu na přibližně 60 vozidel ještě tento měsíc.",
-      "slug": "elon-musk-tesla-austin-robotaxis-fully-driverless-",
-      "publishedAt": "2025-12-10T16:34:51+00:00",
-      "date": "2025-12-10 16:34:51",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://s.hdnux.com/photos/01/53/67/67/28278242/5/rawImage.jpg",
-      "url": "/tech-news/2025-12-10/elon-musk-tesla-austin-robotaxis-fully-driverless/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Co se děje s Microsoftem, Vodafone a e&",
       "description": "Microsoft oznámil investici 17,5 miliardy dolarů do Indie na rozvoj cloudu a umělé inteligence. Vodafone snížil čas upgradu hlasového software o 75 procent díky automatizovanému testovacímu systému. e& nasazuje generativní AI nástroje prostřednictvím platformy amAIz od firmy Amdocs.",
       "slug": "whats-up-with-microsoft-vodafone-e",
@@ -2671,93 +3997,6 @@
       ]
     },
     {
-      "title": "Čínské subjekty obcházejí exportní omezení pro čipy Nvidia H200",
-      "description": "Univerzity, vojenské přidružené organizace a datová centra získaly tisíce omezených procesorů Nvidia H200 prostřednictvím šedého trhu a nájemních ujednání. Rozhodnutí prezidenta Donalda Trumpa povolit exporty těchto čipů pro umělou inteligenci přichází po období přísných restrikcí.",
-      "slug": "chinese-entities-bypass-export-rules-for-nvidia-h2",
-      "publishedAt": "2025-12-10T15:53:11+00:00",
-      "date": "2025-12-10 15:53:11",
-      "importance": 4,
-      "category": "exportní kontroly",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_2411572419-scaled.jpg",
-      "url": "/tech-news/2025-12-10/chinese-entities-bypass-export-rules-for-nvidia-h2/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Čína svolává nouzové schůzky k diskuzi o nákupech Nvidia H200 po změně exportních pravidel, tvrdí zpráva – ByteDance, Tencent a Alibaba mají posoudit poptávku",
-      "description": "Čína svolala v úterý 10. prosince nouzové schůzky se svými největšími technologickými společnostmi, aby posoudila, kolik akcelerátorů Nvidia H200 plánují koupit po rozhodnutí prezidenta Donalda Trumpa umožnit jejich export schváleným zákazníkům.",
-      "slug": "china-holds-emergency-meetings-to-discuss-nvidia-h",
-      "publishedAt": "2025-12-10T15:50:09+00:00",
-      "date": "2025-12-10 15:50:09",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "url": "/tech-news/2025-12-10/china-holds-emergency-meetings-to-discuss-nvidia-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Nvidia",
-        "ByteDance",
-        "Tencent",
-        "Alibaba"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od zadání k publikaci: Google Firebase Studio vytváří a hostuje full-stack aplikace",
-      "description": "Google uvedl Firebase Studio, platformu poháněnou AI přes Gemini API, která automatizuje vývoj full-stack aplikací od návrhu po nasazení. Umožňuje rychlé vytváření backendu, frontendu i mobilních aplikací s podporou populárních rámců jako React nebo Flutter.",
-      "slug": "from-prompt-to-publish-google-firebase-studio-crea",
-      "publishedAt": "2025-12-10T12:14:32+00:00",
-      "date": "2025-12-10 12:14:32",
-      "importance": 4,
-      "category": "vývoj aplikací",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/realtime-web-and-mobile-simulators_optimized.jpg",
-      "url": "/tech-news/2025-12-10/from-prompt-to-publish-google-firebase-studio-crea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf OpenAI Sam Altman přiznává, že umělá inteligence se vyvíjí příliš rychle, tříletá technologie se rychle mění – 'Lze si představit, že to pokazíme'",
-      "description": "Šéf OpenAI Sam Altman v rozhovoru zdůraznil rizika rychlého vývoje ChatGPT a umělé inteligence, včetně environmentálních nákladů a závislosti uživatelů. Přiznal, že tempo změn může vést k chybám s dlouhodobými důsledky.",
-      "slug": "openais-ceo-sam-altman-admits-ai-might-be-moving-t",
-      "publishedAt": "2025-12-10T12:04:00+00:00",
-      "date": "2025-12-10 12:04:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TreeSnwGP95H44UXLwncTT-2560-80.jpg",
-      "url": "/tech-news/2025-12-10/openais-ceo-sam-altman-admits-ai-might-be-moving-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Alexandr Wang nesouhlasí s vrcholovými manažery Meta ohledně dat z Instagramu pro AI",
       "description": "Zakladatel Scale AI Alexandr Wang tento podzim otevřeně kritizoval top manažery Meta, jako jsou Chris Cox a Andrew Bosworth, včetně jejich plánů na využití dat z Instagramu k vývoji umělé inteligence. Tato neshoda odhaluje napětí v Meta AI laboratoři TBD.",
       "slug": "sources-this-fall-alexandr-wang-told-people-that-h",
@@ -2782,91 +4021,6 @@
       ]
     },
     {
-      "title": "Rivian vyvíjí AI asistenta pro řízení vozidla, nejen pro konverzaci",
-      "description": "Společnost Rivian Automotive (NASDAQ: RIVN) vyvíjí vlastního asistenta na bázi umělé inteligence po dobu téměř dvou let, odděleně od svého technologického společného podniku s Volkswagenem v hodnotě 5,8 miliardy dolarů. Asistent je navržen pro plnou integraci s ovládáním vozidla, což přesahuje pouhé hlasové ovládání.",
-      "slug": "rivian-builds-ai-assistant-to-run-the-vehicle-not-",
-      "publishedAt": "2025-12-10T11:58:32+00:00",
-      "date": "2025-12-10 11:58:32",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://biztoc.com/cdn/ffafae4c5f5f92bf_s.webp",
-      "url": "/tech-news/2025-12-10/rivian-builds-ai-assistant-to-run-the-vehicle-not/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Rivian",
-        "Volkswagen"
-      ],
-      "people": []
-    },
-    {
-      "title": "Intel podepsal předběžnou dohodu o akvizici startupu SambaNova na AI čipy",
-      "description": "Podle zdrojů blízkých Wired podepsal Intel neviazanou dohodu o koupi startupu SambaNova, který vyvíjí specializované AI čipy. Dohoda není závazná a finální podmínky nejsou známy.",
-      "slug": "intel-to-acquire-sambanova-ai-chip-startup",
-      "publishedAt": "2025-12-10T08:12:48+00:00",
-      "date": "2025-12-10 08:12:48",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.techpowerup.com/img/Pl1mOoHeiPwDaEqr.jpg",
-      "url": "/tech-news/2025-12-10/intel-to-acquire-sambanova-ai-chip-startup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Intel",
-        "SambaNova"
-      ],
-      "people": []
-    },
-    {
-      "title": "Gautam Adani se setkal se Satyem Nadellou, dostal ukázku AI aplikací, které generální ředitel Microsoftu vyvíjí osobně; internet mluví o 'vzrušujících časech'",
-      "description": "V příspěvku na X Gautam Adani naznačil partnerství s Microsoftem a uvedl, že diskutovali o obrovském potenciálu umělé inteligence ve fyzickém světě.",
-      "slug": "gautam-adani-meets-satya-nadella-gets-demo-of-ai-a",
-      "publishedAt": "2025-12-10T07:45:48+00:00",
-      "date": "2025-12-10 07:45:48",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/10/1600x900/logo/G7xzMgcaMAIi7Db_1765351525327_1765351537031.jpg",
-      "url": "/tech-news/2025-12-10/gautam-adani-meets-satya-nadella-gets-demo-of-ai-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Gautam Adani",
-        "Satya Nadella"
-      ]
-    },
-    {
-      "title": "Nvidia testuje technologii sledování čipů současně s americkým zásahom proti pašerákům GPU za 160 milionů USD",
-      "description": "Nvidia vyvinula technologii pro ověření fyzické polohy svých čipů pro umělou inteligenci. Zároveň americké úřady rozbily síť spojenou s Čínou, která pašovala GPU v hodnotě přes 160 milionů USD.",
-      "slug": "nvidia-trials-chip-tracking-tech-amid-us-bust-of-u",
-      "publishedAt": "2025-12-10T07:14:08+00:00",
-      "date": "2025-12-10 07:14:08",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251210vl201_files/2_2b.jpg",
-      "url": "/tech-news/2025-12-10/nvidia-trials-chip-tracking-tech-amid-us-bust-of-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Supermicro rozšiřuje portfolio NVIDIA Blackwell o nové 4U a 2-OU (OCP) systémy s kapalním chlazením NVIDIA HGX B300 připravené k hromadné expedici",
       "description": "Společnost Supermicro oznámila rozšíření nabídky pro architekturu NVIDIA Blackwell o 4U a 2-OU (OCP) systémy s kapalním chlazením pro NVIDIA HGX B300. Tyto řešení jsou optimalizována pro vysokohustotní nasazení v hyperskálových datových centrech a AI továrnách a jsou připravena k okamžité hromadné expedici.",
       "slug": "supermicro-expands-nvidia-blackwell-portfolio-with",
@@ -2886,110 +4040,6 @@
         "NVIDIA"
       ],
       "people": []
-    },
-    {
-      "title": "Nissan a britská AI firma Wayve uvedou systém autonomního řízení do fiskálního roku 2027",
-      "description": "Nissan Motor a britský startup Wayve podepsaly dohodu o vývoji systému asistence řidiči založeného na umělé inteligenci, který má být instalován do sériově vyráběných vozů v Japonsku do fiskálního roku končícího březnem 2028 (nikkei.com).",
-      "slug": "nissan-uk-ai-company-wayve-to-launch-self-driving-",
-      "publishedAt": "2025-12-10T06:55:55+00:00",
-      "date": "2025-12-10 06:55:55",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F7%2F7%2F11807703-1-eng-GB%2F43a8b5c71245-dd.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2025-12-10/nissan-uk-ai-company-wayve-to-launch-self-driving/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [
-        "Nissan",
-        "Wayve"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bohaté na ropu Spojené arabské emiráty směřují k ekonomice založené na AI s masivními datovými centry",
-      "description": "Spojené arabské emiráty investují miliardy dolarů do stavby obřích datových center a technologických partnerství, aby vytvořily ekonomiku založenou na umělé inteligenci a překročily závislost na ropě.",
-      "slug": "oil-rich-uae-aims-for-ai-native-economy-with-massi",
-      "publishedAt": "2025-12-10T06:40:43+00:00",
-      "date": "2025-12-10 06:40:43",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/10085249/AFP__20251210__87ML3KE__v1__MidRes__FilesUaeTechnologyEconomyAi-1200x630.jpg",
-      "url": "/tech-news/2025-12-10/oil-rich-uae-aims-for-ai-native-economy-with-massi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "IBM kdysi dominovala výpočetní technice. Kvantové technologie by ji mohly znovu dostat na špičku",
-      "description": "IBM se vrací k dominanci v oboru díky pokrokům v kvantovém počítačování, jako je systém Quantum System Two. Tento vývoj by mohl přinést praktické aplikace v oblastech jako optimalizace a simulace složitých systémů.",
-      "slug": "ibm-once-dominated-computing-quantum-technology-co",
-      "publishedAt": "2025-12-10T06:01:24+00:00",
-      "date": "2025-12-10 06:01:24",
-      "importance": 5,
-      "category": "kvantové technologie",
-      "urlToImage": "https://biztoc.com/cdn/1cbb4ccd58d17738_s.webp",
-      "url": "/tech-news/2025-12-10/ibm-once-dominated-computing-quantum-technology-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "IBM"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Meesho debutují s 46% prémií nad cenou IPO na Dalal Street",
-      "description": "Akcie online tržiště Meesho Ltd. se objevily na Národní burze cenných papírů v Bombaji za 162,50 rupií za akcii, což představuje prémií 46,40 % oproti ceně IPO. Na Bombajské burze cenných papírů (BSE) debutovaly za 161,20 rupií s prémií 45,23 %.",
-      "slug": "meesho-debuts-at-46-premium-over-ipo-price-on-dala",
-      "publishedAt": "2025-12-10T04:13:50+00:00",
-      "date": "2025-12-10 04:13:50",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2Fiw7znm40%2Fmeesho.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-10/meesho-debuts-at-46-premium-over-ipo-price-on-dala/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Meesho Ltd"
-      ],
-      "people": []
-    },
-    {
-      "title": "Narendra Modi se setkal se Satyou Nadellou při oznámení rekordní investice Microsoftu 17,5 miliardy dolarů do Indie, Intel posiluje spolupráci s koncernem Tata",
-      "description": "Indie zaznamenala dva významné technologické úspěchy: Microsoft oznámil největší investici v Asii zaměřenou na AI budoucnost země a Intel rozšiřuje partnerství s Tata Group v oblasti polovodičů.",
-      "slug": "narendra-modi-meets-with-satya-nadella-as-microsof",
-      "publishedAt": "2025-12-10T04:10:01+00:00",
-      "date": "2025-12-10 04:10:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/12271113e8f0c2a4_s.webp",
-      "url": "/tech-news/2025-12-10/narendra-modi-meets-with-satya-nadella-as-microsof/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Microsoft",
-        "Intel",
-        "Tata Group"
-      ],
-      "people": [
-        "Narendra Modi",
-        "Satya Nadella"
-      ]
     },
     {
       "title": "Trumpova dohoda s čipy Nvidia obrací desetiletí technologických restrikcí",
@@ -3014,262 +4064,6 @@
       ]
     },
     {
-      "title": "Microsoft investuje 17,5 miliardy dolarů do AI infrastruktury na podporu indických ambicí v umělé inteligenci",
-      "description": "Společnost Microsoft oznámila investici 17,5 miliardy dolarů do rozvoje datových center a infrastruktury umělé inteligence v Indii, aby posílila svou přítomnost v této jihoasijské zemi, která se rychle stává klíčovým bojištěm globálních technologických gigantů.",
-      "slug": "microsoft-to-spend-175b-on-ai-infrastructure-to-su",
-      "publishedAt": "2025-12-10T03:18:19+00:00",
-      "date": "2025-12-10 03:18:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-10-10-04-43.png",
-      "url": "/tech-news/2025-12-10/microsoft-to-spend-175b-on-ai-infrastructure-to-su/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nafťově bohaté SAE se obrací k umělé inteligenci, aby rozhýbaly ekonomiku",
-      "description": "V poušti Abu Dhabi vzniká obrovský AI kampus o velikosti čtvrtiny Paříže s datovými centry napájenými 5 gigawaty elektřiny, což je největší taková zařízení mimo USA. SAE doufají, že AI nahradí úbytek poptávky po ropě a transformuje jejich ekonomiku.",
-      "slug": "oil-rich-uae-turns-to-ai-to-grease-economy",
-      "publishedAt": "2025-12-10T03:17:32+00:00",
-      "date": "2025-12-10 03:17:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/60ba04262142f01446320fe860b28969e0a2b076.jpg",
-      "url": "/tech-news/2025-12-10/oil-rich-uae-turns-to-ai-to-grease-economy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ministerstvo obrany USA poskytlo půjčku 620 milionů dolarů startupu podporovanému venture capital firmou Donalda Trumpa mladšího",
-      "description": "Startup Vulcan Elements, podpořený investiční firmou 1789 Capital spojenou s Donaldem Trumpem mladším, obdržel půjčku 620 milionů dolarů od amerického ministerstva obrany. Fondy slouží k rozšíření výroby vzácnozemnských magnetů klíčových pro obranu a technologie.",
-      "slug": "dod-gave-620m-loan-to-startup-backed-by-donald-tru",
-      "publishedAt": "2025-12-10T02:30:00+00:00",
-      "date": "2025-12-10 02:30:00",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/12/trumpjr.png",
-      "url": "/tech-news/2025-12-10/dod-gave-620m-loan-to-startup-backed-by-donald-tru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Snopes.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump Jr"
-      ]
-    },
-    {
-      "title": "Lokesh se setkal s Pichaiem, aby prohlédl pokrok projektu datového centra ve Vizagu",
-      "description": "Ministr IT a průmyslu Andhra Pradesh Nara Lokesh se setkal se Sundarem Pichaiem z Google a prohlédl pokrok 15miliardového projektu AI datového centra ve Visakhapatnamu. Pozval Google k založení jednotky pro sestavování, kalibraci a testování dronů v Drone City a prohloubení výroby serverů v AP. Setkal se také s vrcholovými manažery Nvidia, Intel a AMD v USA.",
-      "slug": "lokesh-meets-pichai-to-review-progress-of-vizag-da",
-      "publishedAt": "2025-12-10T02:03:24+00:00",
-      "date": "2025-12-10 02:03:24",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://bl-i.thgim.com/public/info-tech/v7j9wz/article70378842.ece/alternates/LANDSCAPE_1200/lokesh.pichai.jpg",
-      "url": "/tech-news/2025-12-10/lokesh-meets-pichai-to-review-progress-of-vizag-da/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Google",
-        "Nvidia",
-        "Intel",
-        "AMD"
-      ],
-      "people": [
-        "Nara Lokesh",
-        "Sundar Pichai"
-      ]
-    },
-    {
-      "title": "OpenAI se připojuje k nové Agentic AI Foundation pod Linux Foundation",
-      "description": "OpenAI, Anthropic a Block spustily Agentic AI Foundation v rámci Linux Foundation, která má sloužit jako neutrální prostor pro standardy agentických AI systémů při nasazování do produkce. Kritik Brian Fagioli to označuje za PR krok bez skutečného otevírání klíčových technologií.",
-      "slug": "openai-joins-the-linux-foundations-new-agentic-ai-",
-      "publishedAt": "2025-12-10T02:02:00+00:00",
-      "date": "2025-12-10 02:02:00",
-      "importance": 4,
-      "category": "agentická ai",
-      "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
-      "url": "/tech-news/2025-12-10/openai-joins-the-linux-foundations-new-agentic-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Block",
-        "Linux Foundation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft investuje 17,5 miliardy dolarů do AI infrastruktury v Indii, velké technologické firmy míří na asijský trh",
-      "description": "Microsoft oznámil investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii, což je největší závazek amerického technologického giganta v Asii. Tento krok navazuje na předchozí sliby a probíhá v kontextu národního úsilí Indie o rozvoj umělé inteligence.",
-      "slug": "microsoft-to-invest-175-billion-in-indias-ai-infra",
-      "publishedAt": "2025-12-10T01:51:58+00:00",
-      "date": "2025-12-10 01:51:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107261846-1687543923071-gettyimages-1258977786-BIDEN_MODI.jpeg?v=1765329196&w=1920&h=1080",
-      "url": "/tech-news/2025-12-10/microsoft-to-invest-175-billion-in-indias-ai-infra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoftova investice 17,5 miliardy dolarů do AI v Indii",
-      "description": "Microsoft posiluje své aktivity v Indii investicí 17,5 miliardy dolarů do AI, cloudu a infrastruktury. Tato největší investice v Asii navazuje na předchozí závazky a reaguje na globální soutěž o data centra a výpočetní kapacity.",
-      "slug": "microsofts-india-power-play-insurers-fastag-ambiti",
-      "publishedAt": "2025-12-10T01:32:33+00:00",
-      "date": "2025-12-10 01:32:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125880187,width-1070,height-580,imgsize-27652,overlay-ettech/editionshow.jpg",
-      "url": "/tech-news/2025-12-10/microsofts-india-power-play-insurers-fastag-ambiti/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Poskytovatel multimodální AI fal získal 140 milionů dolarů při rychlém růstu",
-      "description": "Startup fal zabývající se umělou inteligencí oznámil získání 140 milionů dolarů v třetím kole financování letos. Investici Series D vedla Sequoia, zapojily se i venture capital divize Nvidia, Salesforce a Shopify.",
-      "slug": "multimodal-ai-provider-fal-nabs-140m-amid-rapid-gr",
-      "publishedAt": "2025-12-10T00:41:17+00:00",
-      "date": "2025-12-10 00:41:17",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/unsplash2.png",
-      "url": "/tech-news/2025-12-10/multimodal-ai-provider-fal-nabs-140m-amid-rapid-gr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "fal",
-        "Nvidia Corp",
-        "Salesforce Inc",
-        "Shopify Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Chybný plán Donalda Trumpa navnadit Čínu na čipy Nvidia - The Economist",
-      "description": "Donald Trump schválil prodej pokročilých čipů Nvidia H200 do Číny, což otevírá dveře pro americké technologie na čínském trhu, ale trh i Peking reagují vlažně. Rozhodnutí bylo motivováno pokroky Huawei v oblasti AI a reverzuje desetiletí exportních omezení.",
-      "slug": "donald-trumps-flawed-plan-to-get-china-hooked-on-n",
-      "publishedAt": "2025-12-10T00:32:06+00:00",
-      "date": "2025-12-10 00:32:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-10/donald-trumps-flawed-plan-to-get-china-hooked-on-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia",
-        "Huawei"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Velký hráč v cloudové bezpečnosti Wiz vstupuje do Indie; reaguje na poptávku po jednotné cloudové bezpečnosti",
-      "description": "Společnost Wiz, kterou Google přebírá za 32 miliard dolarů, má v Indii přes 30 podnikových zákazníků z finančních služeb, IT služeb, digitálních firem, farmacie a výroby. Vstup na indický trh je motivován rychlou migrací do cloudu a růstem zranitelností spojených s AI-generovaným kódem.",
-      "slug": "cloud-security-major-wiz-enters-india-taps-demand-",
-      "publishedAt": "2025-12-10T00:30:00+00:00",
-      "date": "2025-12-10 00:30:00",
-      "importance": 5,
-      "category": "cloudová bezpečnost",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20866,resizemode-75,msid-125877124/tech/technology/cloud-security-major-wiz-enters-india-taps-demand-for-unified-cloud-security.jpg",
-      "url": "/tech-news/2025-12-10/cloud-security-major-wiz-enters-india-taps-demand/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Wiz",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Obří výrobce AI čipů SK Hynix zvažuje listink akcií v New Yorku",
-      "description": "Akcie SK Hynix vzrostly o přibližně 225 procent v roce 2025 na soulském trhu díky poptávce po čipech s vysokou šířkou pásma pro AI. Firma posuzuje možnost listinku v USA, aby snížila rozdíl ve valuaci oproti konkurentům jako Micron Technology.",
-      "slug": "ai-chip-giant-sk-hynix-weighs-new-york-stock-listi",
-      "publishedAt": "2025-12-10T00:20:23+00:00",
-      "date": "2025-12-10 00:20:23",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f6a34de8d74192e7da67009130b52e9141b305e95365b9031b8d72f6c942407e",
-      "url": "/tech-news/2025-12-10/ai-chip-giant-sk-hynix-weighs-new-york-stock-listi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "SK Hynix"
-      ],
-      "people": []
-    },
-    {
-      "title": "AMD najmou veterána z AWS pro rozvoj platformy Helios AI v konkurenci s Nvidia",
-      "description": "AMD přijalo bývalého výkonného pracovníka infrastruktury AWS Arvind Balakumara, aby vedl inženýrství pro platformu serverových racků Helios AI. Tím posiluje své úsilí konkurovat dominanci Nvidia v AI infrastruktuře pro datová centra. AWS potvrdilo jeho odchod z firmy.",
-      "slug": "amd-taps-aws-veteran-to-power-helios-ai-platform-i",
-      "publishedAt": "2025-12-10T00:20:00+00:00",
-      "date": "2025-12-10 00:20:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251209pd242_files/1_b.jpg",
-      "url": "/tech-news/2025-12-10/amd-taps-aws-veteran-to-power-helios-ai-platform-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "AMD",
-        "AWS",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Generální ředitel Visa staví agentic AI do centra plateb",
       "description": "Výroční dopis generálního ředitele Visa Ryana McInerneyho popisuje přeprogramování obchodu poháněné agentic AI. Dokument není jen shrnutím výkonu společnosti, ale spíše technologickou vizí budoucnosti platebního průmyslu.",
       "slug": "visa-ceo-puts-agentic-ai-at-the-center-of-payments",
@@ -3289,868 +4083,6 @@
       ],
       "people": [
         "Ryan McInerney"
-      ]
-    },
-    {
-      "title": "Devstral 2 od Mistral AI je open-weights kódovací model určený k rivalitě s nejlepšími proprietárními systémy",
-      "description": "Francouzský startup Mistral AI spouští Devstral 2, model s 123 miliardami parametrů navržený pro pokročilé programovací úkoly. Tento open-weights systém nabízí autonomní software engineering a konkuruje proprietárním řešením od Google nebo OpenAI za nižší cenu.",
-      "slug": "mistral-ais-devstral-2-is-an-open-weights-vibe-cod",
-      "publishedAt": "2025-12-10T00:04:54+00:00",
-      "date": "2025-12-10 00:04:54",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-10-07-04-21.png",
-      "url": "/tech-news/2025-12-10/mistral-ais-devstral-2-is-an-open-weights-vibe-cod/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Mistral AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Povolení Nvidia prodat H200 do Číny je zavírání stájí po úniku koně",
-      "description": "Americké exportní kontroly na AI akcelerátory donutily Čínu k vývoji vlastních technologií. Půl dekády restrikcí zaměřených na odepření přístupu k nejsilnějším americkým polovodičům jen podnítily Peking k domácím alternativám v oblasti AI.",
-      "slug": "letting-nvidia-sell-h200s-to-china-is-closing-the-",
-      "publishedAt": "2025-12-09T23:47:27+00:00",
-      "date": "2025-12-09 23:47:27",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://regmedia.co.uk/2024/09/16/shutterstock_container_shjips_la.jpg",
-      "url": "/tech-news/2025-12-09/letting-nvidia-sell-h200s-to-china-is-closing-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "NextEra Energy a Google uzavírají nové partnerství pro urychlení růstu AI a vývoj datových center",
-      "description": "NextEra Energy a Google Cloud rozšiřují spolupráci na vývoj kampusů datových center v měřítku gigawattů v USA, s cílem rychlého růstu a posílení schopností AI do poloviny roku 2026.",
-      "slug": "nextera-energy-and-google-enter-new-partnership-to",
-      "publishedAt": "2025-12-09T20:06:50+00:00",
-      "date": "2025-12-09 20:06:50",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://www.renewableenergyworld.com/wp-content/uploads/2025/12/Google-announcement-1440x650-1-1024x462-1.jpg",
-      "url": "/tech-news/2025-12-09/nextera-energy-and-google-enter-new-partnership-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Power-eng.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americké úřady zatkly muže z Texasu za pokus pašovat Nvidia GPU za 160 milionů dolarů do Číny",
-      "description": "Muž z Texasu byl obviněn z nelegálního vývozu Nvidia H100 a H200 GPU do Číny v hodnotě nejméně 160 milionů dolarů, což porušuje americké exportní předpisy kvůli obavám z národní bezpečnosti. Ironicky, prezident Trump tento týden schválil prodej H200 GPU do Číny za podmínky.",
-      "slug": "feds-nab-texas-man-for-trying-to-smuggle-160-milli",
-      "publishedAt": "2025-12-09T19:41:41+00:00",
-      "date": "2025-12-09 19:41:41",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/f/feds-nab-t/feds-nab-texas-man-for-trying-to-smuggle-160-million-in-nvid_u4g2.1200.jpg",
-      "url": "/tech-news/2025-12-09/feds-nab-texas-man-for-trying-to-smuggle-160-milli/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "OpenAI najímá šéfku Slacku Denise Dresser k vedení globální strategie výnosů",
-      "description": "Denise Dresser, generální ředitelka Slacku od roku 2023, se stává šéfkou výnosů OpenAI. Předtím strávila více než deset let v Salesforce, který koupil Slack za více než 27 miliard dolarů.",
-      "slug": "openai-hires-slack-ceo-denise-dresser-to-lead-glob",
-      "publishedAt": "2025-12-09T19:38:52+00:00",
-      "date": "2025-12-09 19:38:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108054456-1730227996732-gettyimages-2181105069-TECHCRUNCH_DISRUPT.jpeg?v=1730228030&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/openai-hires-slack-ceo-denise-dresser-to-lead-glob/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "OpenAI",
-        "Slack",
-        "Salesforce"
-      ],
-      "people": [
-        "Denise Dresser"
-      ]
-    },
-    {
-      "title": "Federální úřady rozbily pašeráckou síť pašující pokročilé čipy do Číny ve stejný den, kdy Trump uvolnil exportní omezení",
-      "description": "Ministerstvo spravedlnosti USA oznámilo zastavení sítě pašující pokročilé AI čipy spojené s Čínou, jen hodiny poté, co prezident Trump prohlásil uvolnění exportních restrikcí na stejnou technologii.",
-      "slug": "feds-bust-ring-smuggling-next-gen-chips-to-china-o",
-      "publishedAt": "2025-12-09T19:37:25+00:00",
-      "date": "2025-12-09 19:37:25",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2212178893-e1765295446570.jpg",
-      "url": "/tech-news/2025-12-09/feds-bust-ring-smuggling-next-gen-chips-to-china-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "OpenAI jmenuje šéfku Slacku Dresserovou prvním ředitelem pro výnosy, tvůrce ChatGPT směřuje k zisku",
-      "description": "OpenAI jmenuje CEO Slacku Denise Dresserovou prvním ředitelem pro výnosy, čímž signalizuje investořům vážný záměr dosáhnout ziskovosti z umělé inteligence. Dresserová převezme globální strategii výnosů a podporu podniků při integraci AI do každodenních operací.",
-      "slug": "openai-names-slack-ceo-dresser-as-first-chief-of-r",
-      "publishedAt": "2025-12-09T19:32:20+00:00",
-      "date": "2025-12-09 19:32:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-      "url": "/tech-news/2025-12-09/openai-names-slack-ceo-dresser-as-first-chief-of-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "OpenAI",
-        "Slack"
-      ],
-      "people": [
-        "Dresser"
-      ]
-    },
-    {
-      "title": "Trumpovo schválení prodeje AI čipů Nvidia do Číny narazilo na chladný příjem u republikánů",
-      "description": "Trump uvedl, že čínský prezident Si Ťin-pching reagoval pozitivně na návrh umožnit Nvidia prodávat H200 AI čipy do Číny za podmínky, že USA obdrží 25 procent z výnosů. Rozhodnutí však čelí kritice od republikánů obávajících se posílení čínské AI dominance.",
-      "slug": "trump-blessing-nvidia-ai-chip-sales-to-china-gets-",
-      "publishedAt": "2025-12-09T19:30:09+00:00",
-      "date": "2025-12-09 19:30:09",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139104-1746048626472-gettyimages-2212178893-AFP_444Y2UG.jpeg?v=1765299307&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/trump-blessing-nvidia-ai-chip-sales-to-china-gets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Xi Jinping"
-      ]
-    },
-    {
-      "title": "Zatímco Google a OpenAI bojují o dominanci modelů, Anthropic tiše vyhrává závod v podnikovém AI",
-      "description": "Průzkum venture kapitálové firmy Menlo Ventures ukazuje, že Anthropic překonal OpenAI v podílu na výdajích podniků na generativní AI. Agentické AI zůstává stále okrajovou oblastí.",
-      "slug": "while-google-and-openai-battle-for-model-dominance",
-      "publishedAt": "2025-12-09T19:29:57+00:00",
-      "date": "2025-12-09 19:29:57",
-      "importance": 4,
-      "category": "podnikové ai",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/73e43fc6b01d9f0ab8cb888cd6d98885e4c44085/2025/12/09/23983329-23a9-4da3-ab29-db1426f21496/menlo-ventures-2025-anthropic-overtakes-openai-infographic.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-09/while-google-and-openai-battle-for-model-dominance/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Netradiční AI vede vlnu investic s 475 miliony dolarů v seed kole",
-      "description": "V novinkách o financování startupů v oblasti umělé inteligence tento týden proudily investice do firem zaměřených na výpočetní techniku, operační efektivitu a specializované AI nástroje. Největší transakce zaznamenala společnost Unconventional AI, která získala 475 milionů dolarů v seed kole při valuaci 4,5 miliardy dolarů.",
-      "slug": "unconventional-ai-leads-funding-flurry-with-475-mi",
-      "publishedAt": "2025-12-09T19:29:50+00:00",
-      "date": "2025-12-09 19:29:50",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/unconventional-ai-artificial-intelligence-startups-startup-roundup.jpeg",
-      "url": "/tech-news/2025-12-09/unconventional-ai-leads-funding-flurry-with-475-mi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Unconventional AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI jmenuje šéfku Slacku Denise Dresserovou hlavní ředitelkou pro příjmy",
-      "description": "OpenAI 9. prosince jmenovala šéfku Slacku Denise Dresserovou svou hlavní ředitelkou pro příjmy, aby posílila expanzi v podnikatelském segmentu. Dresserová bude řídit globální strategii příjmů včetně prodejů velkým firmám a péče o zákazníky.",
-      "slug": "openai-taps-slack-ceo-denise-dresser-as-chief-reve",
-      "publishedAt": "2025-12-09T19:25:51+00:00",
-      "date": "2025-12-09 19:25:51",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OCLWvW9N--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-09T192551Z_1_LYNXMPELB817N_RTROPTP_3_NEXTDC-DATA-CENTRE-OPENAI.JPG?itok=Ps9lOkSU",
-      "url": "/tech-news/2025-12-09/openai-taps-slack-ceo-denise-dresser-as-chief-reve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "OpenAI",
-        "Slack"
-      ],
-      "people": [
-        "Denise Dresser"
-      ]
-    },
-    {
-      "title": "Microsoft investuje 17,5 miliardy dolarů do Indie do roku 2029 v závodě o umělou inteligenci",
-      "description": "Jedná se o největší investici Microsoftu v Asii, zaměřenou na rozšíření AI a cloudových služeb v Indii.",
-      "slug": "microsoft-to-invest-175b-in-india-by-2029-as-ai-ra",
-      "publishedAt": "2025-12-09T16:20:12+00:00",
-      "date": "2025-12-09 16:20:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/12D.MiF21Y.LS.BLZj1Kzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/279e2d490c742557ec0a8c46adbf247d",
-      "url": "/tech-news/2025-12-09/microsoft-to-invest-175b-in-india-by-2029-as-ai-ra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Budoucnost je zde: Proč Apple Intelligence mění produktivitu",
-      "description": "Apple Intelligence přináší sadu uměle inteligentních funkcí do zařízení Apple, které zvyšují efektivitu práce podobně jako kdysi smartphony nebo cloudové úložiště. Tyto nástroje zpracovávají data přímo na zařízení a integrují se s ekosystémem iOS, iPadOS a macOS.",
-      "slug": "the-future-is-now-why-apple-intelligence-is-a-game",
-      "publishedAt": "2025-12-09T15:40:39+00:00",
-      "date": "2025-12-09 15:40:39",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.asianefficiency.com/wp-content/uploads/2025/08/laptop-with-camera-glasses-table-scaled.jpg",
-      "url": "/tech-news/2025-12-09/the-future-is-now-why-apple-intelligence-is-a-game/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Asianefficiency.com"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americká vláda zastavila pašeráckou operaci v hodnotě 160 milionů dolarů s Nvidia H200 čipy do Číny, GPU už nebudou plně omezená",
-      "description": "Ministerstvo spravedlnosti USA zabavilo Nvidia technologie v hodnotě přes 50 milionů dolarů. H200 čipy budou moci jít do Číny s 25procentním poplatkem.",
-      "slug": "the-us-gov-shut-down-a-160-million-smuggling-opera",
-      "publishedAt": "2025-12-09T15:37:08+00:00",
-      "date": "2025-12-09 15:37:08",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jY4T9qtnQJh2MSVgPD2Sc4-1920-80.jpg",
-      "url": "/tech-news/2025-12-09/the-us-gov-shut-down-a-160-million-smuggling-opera/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PC Gamer"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americké úřady odhalily pašeráckou síť Nvidia H200 do Číny, Trump současně povoluje jejich export",
-      "description": "Tři američtí podnikatelé čelí obvinění z pašování Nvidia GPU v hodnotě stovek milionů dolarů do Číny, což podle ministerstva spravedlnosti ohrožuje národní bezpečnost USA. Prezident Trump mezitím schválil export modelů H200 s 25procentní daní pro Washington.",
-      "slug": "feds-bust-nefarious-plot-to-ship-nvidia-h200s-to-c",
-      "publishedAt": "2025-12-09T15:28:54+00:00",
-      "date": "2025-12-09 15:28:54",
-      "importance": 4,
-      "category": "exportní sankce",
-      "urlToImage": "https://regmedia.co.uk/2018/02/16/jail_shutterstock.jpg",
-      "url": "/tech-news/2025-12-09/feds-bust-nefarious-plot-to-ship-nvidia-h200s-to-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Siemens a nVent představí společnou referenční architekturu pro AI datacentra NVIDIA",
-      "description": "Siemens a nVent spojují své technologie k vytvoření referenční architektury pro hyperskalární AI datacentra s kapacitou 100 MW, určená pro systémy NVIDIA DGX SuperPOD s DGX GB200. Architektura integruje pokročilé chlazení, napájení a automatizaci pro efektivní provoz liquid-cooled AI infrastruktur.",
-      "slug": "pr-siemens-and-nvent-to-release-joint-reference-ar",
-      "publishedAt": "2025-12-09T12:18:54+00:00",
-      "date": "2025-12-09 12:18:54",
-      "importance": 4,
-      "category": "ai datacentra",
-      "urlToImage": "https://www.techpowerup.com/img/QK2LliUFB0daTGU6.jpg",
-      "url": "/tech-news/2025-12-09/pr-siemens-and-nvent-to-release-joint-reference-ar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Siemens",
-        "nVent",
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "IPO v hodnotě 20 miliard dolarů ročně je novou normou pro Indii: JP Morgan",
-      "description": "Počáteční veřejné nabídky akcií v celkové hodnotě 20 miliard dolarů ročně se podle JP Morgan stávají novou normou pro indický trh. V roce 2025 už bylo emitováno 21 miliard dolarů a očekává se uzavření roku nad 23 miliardami, přičemž významný podíl připadá na technologické firmy a startupy.",
-      "slug": "ipos-worth-20-billion-per-year-a-new-normal-for-in",
-      "publishedAt": "2025-12-09T12:17:42+00:00",
-      "date": "2025-12-09 12:17:42",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-06-13%2F9x9u7m14%2Fipo?rect=6%2C0%2C1194%2C627&w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-09/ipos-worth-20-billion-per-year-a-new-normal-for-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google popisuje bezpečnostní ochrany agentických schopností Chrome",
-      "description": "Google popsal bezpečnostní opatření pro agentické funkce v prohlížeči Chrome, které chrání model Gemini i uživatele před hrozbami. Hlavní zaměření je na obranu proti nepřímým injekcím promptů z webových stránek.",
-      "slug": "google-outlines-security-protections-in-chromes-ag",
-      "publishedAt": "2025-12-09T12:15:16+00:00",
-      "date": "2025-12-09 12:15:16",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/Google-outlines-security-protections-in-Chromes-agentic-capabilities.png",
-      "url": "/tech-news/2025-12-09/google-outlines-security-protections-in-chromes-ag/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tether investuje do italských humanoidních robotů s cílem chytřejší budoucnosti",
-      "description": "Tether Investments se zapojil do kola financování v hodnotě 70 milionů eur pro společnost Generative Bionics, která vznikla jako spin-off z Italského technologického institutu. Tento krok spojuje kryptoměnové finance s vývojem humanoidních robotů.",
-      "slug": "tether-pours-funds-into-italian-humanoid-robots-ai",
-      "publishedAt": "2025-12-09T12:00:11+00:00",
-      "date": "2025-12-09 12:00:11",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2025/12/a_5558d0.jpg",
-      "url": "/tech-news/2025-12-09/tether-pours-funds-into-italian-humanoid-robots-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitcoinist"
-      },
-      "companies": [
-        "Tether",
-        "Generative Bionics",
-        "Italian Institute of Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od Llamů k Avokádům: Měnící se strategie Meta v AI způsobuje interní zmatek",
-      "description": "Meta usiluje o vývoj svého dalšího hraničního modelu AI s kódovým názvem Avocado pod novým vedením, což vytváří interní napětí při honbě za rivaly OpenAI a Google.",
-      "slug": "from-llamas-to-avocados-metas-shifting-ai-strategy",
-      "publishedAt": "2025-12-09T12:00:01+00:00",
-      "date": "2025-12-09 12:00:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-1761929021329-108189400-1761918818994-108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpg?v=1761929034&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/from-llamas-to-avocados-metas-shifting-ai-strategy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Meta",
-        "OpenAI",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Průlomová dohoda přináší Severní Americe první rafinerii těžkých vzácných zemin",
-      "description": "Společnost REAlloys, americký výrobce vzácných zemin, uzavřela partnerství se Saskatchewan Research Council, díky čemuž získává kontrolu nad většinou nadcházející produkce těžkých vzácných zemin v Severní Americe.",
-      "slug": "landmark-deal-gives-north-america-its-first-heavy-",
-      "publishedAt": "2025-12-09T12:00:00+00:00",
-      "date": "2025-12-09 12:00:00",
-      "importance": 4,
-      "category": "vzácné zeminy",
-      "urlToImage": "https://media.zenfs.com/en/oilprice.com/b0caef068dd9638ecd6601b2df2af707",
-      "url": "/tech-news/2025-12-09/landmark-deal-gives-north-america-its-first-heavy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akvizice Celestial AI za 5,5 miliardy dolarů rozšiřuje roli Marvellu v hardwaru pro AI datová centra – firma je nyní připravena dodávat novou generaci optických propojení",
-      "description": "Marvell potvrdil plány na akvizici firmy Celestial AI v hodnotě až 5,5 miliardy dolarů, což patří mezi nejvýraznější akvizice středně velkých dodavatelů křemíku v současném AI cyklu. Tento krok posiluje pozici Marvellu v soutěži s Nvidia, AMD a Intelem v oblasti vysokovýkonných propojení pro datová centra.",
-      "slug": "marvells-55b-celestial-ai-acquisition-expands-its-",
-      "publishedAt": "2025-12-09T11:57:00+00:00",
-      "date": "2025-12-09 11:57:00",
-      "importance": 5,
-      "category": "ai hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6GmjhDQLrZ2jHdbp36Vjp3-1920-80.png",
-      "url": "/tech-news/2025-12-09/marvells-55b-celestial-ai-acquisition-expands-its/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Marvell",
-        "Celestial AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump chce překrýt státní regulace AI jedním federálním příkazem",
-      "description": "Prezident Trump oznámil, že tento týden podepíše výkonný příkaz k vytvoření jednotné federální politiky pro umělou inteligenci, čímž efektivně překryje státní regulace. Tento krok umožní ministerstvu spravedlnosti žalovat státy za příliš restriktivní pravidla.",
-      "slug": "trump-moves-to-override-state-ai-regs-with-one-fed",
-      "publishedAt": "2025-12-09T11:51:00+00:00",
-      "date": "2025-12-09 11:51:00",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1651396-12-20251209055927.jpeg",
-      "url": "/tech-news/2025-12-09/trump-moves-to-override-state-ai-regs-with-one-fed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Pět největších franšíz, které Netflix přebírá od Warner Bros.",
-      "description": "Netflix oznámil akvizici Warner Bros., která zahrnuje filmová a televizní studia, HBO Max i HBO. Díky tomu získá trvalá práva na klíčové franšízy jako Harry Potter, DC Comics nebo Game of Thrones.",
-      "slug": "the-5-biggest-franchises-netflix-is-picking-up-fro",
-      "publishedAt": "2025-12-09T11:31:47+00:00",
-      "date": "2025-12-09 11:31:47",
-      "importance": 4,
-      "category": "streamování",
-      "urlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2025/12/5-top-franchises-warner-deal-netflix.jpg",
-      "url": "/tech-news/2025-12-09/the-5-biggest-franchises-netflix-is-picking-up-fro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "What's on Netflix"
-      },
-      "companies": [
-        "Netflix"
-      ],
-      "people": []
-    },
-    {
-      "title": "Relation Therapeutics oznámila strategickou spolupráci s Novartis na vývoj terapií pro atopická onemocnění",
-      "description": "Relation Therapeutics uzavřela víceprogramovou strategickou spolupráci s Novartis na objev a pokročilé vývoj nových cílů pro atopická onemocnění. Firma obdrží 55 milionů dolarů předem a má nárok na milníky až 1,7 miliardy dolarů plus licenční poplatky z prodejů.",
-      "slug": "relation-announces-strategic-collaboration-with-no",
-      "publishedAt": "2025-12-09T08:00:00+00:00",
-      "date": "2025-12-09 08:00:00",
-      "importance": 4,
-      "category": "biotechnologie",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/cf260ee4-7c41-4306-b2c4-28320acc9186",
-      "url": "/tech-news/2025-12-09/relation-announces-strategic-collaboration-with-no/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Relation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Japonsko se snaží dohnat v nové vlně robotiky poháněné umělou inteligencí",
-      "description": "Umělá inteligence schopná autonomně ovládat stroje v reálném světě, známá jako Physical AI, rychle mění globální trh s roboty. USA a Čína urychlují vývoj humanoidních robotů s těmito systémy, což ohrožuje dlouholetou dominanci Japonska v průmyslových robotech.",
-      "slug": "japan-plays-catch-up-with-new-wave-of-ai-driven-ro",
-      "publishedAt": "2025-12-09T07:53:39+00:00",
-      "date": "2025-12-09 07:53:39",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://i2.ytimg.com/vi/KO5OTODmSKo/mqdefault.jpg",
-      "url": "/tech-news/2025-12-09/japan-plays-catch-up-with-new-wave-of-ai-driven-ro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "USA umožní dodávky čipů Nvidia H200 do Číny – Trump",
-      "description": "USA umožní export procesorů Nvidia H200, druhého nejlepšího čipu pro umělou inteligenci, do Číny a vybere 25procentní poplatek z těchto prodejů, uvedl prezident Donald Trump. Rozhodnutí řeší debatu o udržení globální převahy v AI čipech.",
-      "slug": "us-to-allow-nvidia-h200-chip-shipments-to-china-tr",
-      "publishedAt": "2025-12-09T07:32:32+00:00",
-      "date": "2025-12-09 07:32:32",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.rte.ie/images/002312b2-1600.jpg",
-      "url": "/tech-news/2025-12-09/us-to-allow-nvidia-h200-chip-shipments-to-china-tr/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Americké úřady rozbily síť pašeráků AI čipů, kteří se pokoušeli propašovat do Číny NVIDIA čipy v hodnotě 160 milionů dolarů skrýváním konečné destinace zásilek",
-      "description": "Americké úřady odhalily síť pašující NVIDIA H100 a H200 AI čipy do Číny v hodnotě 160 milionů dolarů. Pašeráci přeobalovali čipy v USA, aby je špatně klasifikovali a tajně odeslali přes složité schéma.",
-      "slug": "us-authorities-bust-ai-chip-trafficking-network-tr",
-      "publishedAt": "2025-12-09T07:21:39+00:00",
-      "date": "2025-12-09 07:21:39",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/NVIDIA-Ampere-A800-GPU-China-US-1-728x385.png",
-      "url": "/tech-news/2025-12-09/us-authorities-bust-ai-chip-trafficking-network-tr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trumpův obrat v otázce čipů Nvidia dává Číně výhodu před USA v závodě o umělou inteligenci, tvrdí analytici",
-      "description": "Krátce po oznámení prezidenta Donalda Trumpa, že Nvidia může prodávat pokročilejší čip H200 do Číny, analytici upozornili, že tento krok výrazně posílí technologické kapacity Pekingu v oblasti AI.",
-      "slug": "trumps-pivot-on-nvidia-chips-gives-china-a-leg-up-",
-      "publishedAt": "2025-12-09T07:08:46+00:00",
-      "date": "2025-12-09 07:08:46",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108191238-17562967732025-08-27t115414z_639445813_rc2nfgaaamj8_rtrmadp_0_nvidia-results-china.jpeg?v=1757605494&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/trumps-pivot-on-nvidia-chips-gives-china-a-leg-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Americký průmysl jaderné fúze žádá federální podporu",
-      "description": "Začínající průmysl jaderné fúze ve Spojených státech žádá Trumpovu administrativu o miliardy dolarů na rozvoj technologie, která slibuje čistou nekonečnou energii, ale čelí obrovským technickým výzvám. Žádost přichází v době rostoucích cen energií a globální soutěže o energetickou nezávislost.",
-      "slug": "us-fusion-industry-asks-for-federal-help",
-      "publishedAt": "2025-12-09T06:30:00+00:00",
-      "date": "2025-12-09 06:30:00",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2025-12-09_l8ihjjsemb.jpg",
-      "url": "/tech-news/2025-12-09/us-fusion-industry-asks-for-federal-help/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Emergent získal strategickou investici z fondu Google AI Futures Fund",
-      "description": "Společnost Emergent, založená v roce 2025 bratry Mukundem a Madhavem Jha, oznámila strategickou investici od fondu Google AI Futures Fund. Tato platforma pro agentické intuitivní kódování umožňuje netechnickým uživatelům vytvářet plně funkční full-stack aplikace pomocí autonomních AI agentů a během pěti měsíců od spuštění dosáhla 2,5 milionu uživatelů a ročního tempa opakovaných příjmů přes 25 milionů dolarů.",
-      "slug": "emergent-gets-strategic-investment-from-googles-ai",
-      "publishedAt": "2025-12-09T04:26:49+00:00",
-      "date": "2025-12-09 04:26:49",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-622275,resizemode-75,msid-125861290/tech/funding/emergent-gets-strategic-investment-from-googles-ai-futures-fund.jpg",
-      "url": "/tech-news/2025-12-09/emergent-gets-strategic-investment-from-googles-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Emergent",
-        "Google"
-      ],
-      "people": [
-        "Mukund Jha",
-        "Madhav Jha"
-      ]
-    },
-    {
-      "title": "Čipová válka mezi USA a Čínou v datech",
-      "description": "Prezident Donald Trump oznámil, že USA povolily prodej AI čipů od Nvidia do Číny. AFP shrnuje chronologii sporu o tuto klíčovou technologii pro umělou inteligenci.",
-      "slug": "the-us-china-chip-war-in-dates",
-      "publishedAt": "2025-12-09T04:18:26+00:00",
-      "date": "2025-12-09 04:18:26",
-      "importance": 4,
-      "category": "čipová válka",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41670,resizemode-75,msid-125861184/tech/technology/the-us-china-chip-war-in-dates.jpg",
-      "url": "/tech-news/2025-12-09/the-us-china-chip-war-in-dates/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Tata a Intel posilují výrobu polovodičů v Indii dohodou o dodavatelském řetězci čipů a AI PC",
-      "description": "Tata Electronics získala Intel jako potenciálního zákazníka v rámci snahy posílit domácí dodavatelský řetězec elektroniky a polovodičů v Indii. Spolupráce zahrnuje výrobu čipů a škálování AI PC řešení pro místní trh.",
-      "slug": "tata-intel-deepen-india-semiconductor-push-with-pa",
-      "publishedAt": "2025-12-09T03:00:57+00:00",
-      "date": "2025-12-09 03:00:57",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211579-1760409998231-gettyimages-2228175388-INDIA_TATA.jpeg?v=1765243953&w=1920&h=1080",
-      "url": "/tech-news/2025-12-09/tata-intel-deepen-india-semiconductor-push-with-pa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Tata Electronics",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump oznámil, že Čína zaplatí USA „25 %“ výměnou za pokročilé AI čipy",
-      "description": "Prezident Donald Trump oznámil, že umožní společnosti NVIDIA prodávat své pokročilé H200 AI čipy schváleným zákazníkům v Číně. Výměnou má Čína zaplatit USA 25 procent, což podle něj podpoří americké pracovní místa a výrobu.",
-      "slug": "trump-announces-that-china-will-pay-the-us-25-in-e",
-      "publishedAt": "2025-12-09T02:53:05+00:00",
-      "date": "2025-12-09 02:53:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/11/trump-18-scaled.jpeg",
-      "url": "/tech-news/2025-12-09/trump-announces-that-china-will-pay-the-us-25-in-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mediaite"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Více nástrojů AI přijde v průběhu dní nebo týdnů, říká šéf R&D Pentagonu",
-      "description": "Široké nasazení umělé inteligence je nyní na vrcholu priorit Emila Michaela.",
-      "slug": "more-ai-tools-coming-in-days-or-weeks-pentagon-rd-",
-      "publishedAt": "2025-12-09T02:43:57+00:00",
-      "date": "2025-12-09 02:43:57",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2025/12/08/emil_GettyImages_2225411526/open-graph.jpg",
-      "url": "/tech-news/2025-12-09/more-ai-tools-coming-in-days-or-weeks-pentagon-rd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Defense One"
-      },
-      "companies": [],
-      "people": [
-        "Emil Michael"
-      ]
-    },
-    {
-      "title": "Trump oznámil, že USA povolí export čipů Nvidia H200 do Číny",
-      "description": "Prezident Donald Trump prohlásil, že USA umožní společnosti Nvidia exportovat pokročilé čipy H200 do Číny po dohodě s prezidentem Si Ťin-pchingem. Tento krok představuje významný odklon od předchozí politiky omezení přístupu Číny k high-tech čipům kvůli obavám z vojenských využití.",
-      "slug": "trump-says-us-will-export-nvidia-h200-chips-to-chi",
-      "publishedAt": "2025-12-09T02:35:00+00:00",
-      "date": "2025-12-09 02:35:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://static.dw.com/image/74722890_6.jpg",
-      "url": "/tech-news/2025-12-09/trump-says-us-will-export-nvidia-h200-chips-to-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump oznámil podpis výkonného příkazu omezujícího státní regulace umělé inteligence",
-      "description": "Prezident Donald Trump prohlásil, že tento týden podepíše výkonný příkaz zavádějící „jedno pravidlo“ pro umělou inteligenci, které omezí státní politiky regulující tuto technologii. Cílem je zabránit situaci, kdy firmy musí získávat schválení v padesáti státech.",
-      "slug": "trump-says-hell-sign-executive-order-curbing-state",
-      "publishedAt": "2025-12-09T02:12:34+00:00",
-      "date": "2025-12-09 02:12:34",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-12%2Fzgwhlyqo%2F444058724.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-09/trump-says-hell-sign-executive-order-curbing-state/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump schvaluje prodej pokročilejších čipů Nvidia pro AI do Číny",
-      "description": "Prezident Donald Trump povolil společnosti Nvidia prodat svůj čip H200, používaný při vývoji umělé inteligence, schváleným zákazníkům v Číně. Rozhodnutí vyvažuje ekonomické zájmy amerických firem s obavami z národní bezpečnosti.",
-      "slug": "trump-approves-sale-of-more-advanced-nvidia-comput",
-      "publishedAt": "2025-12-09T01:41:55+00:00",
-      "date": "2025-12-09 01:41:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.abcnewsfe.com/a/88088e97-8c58-4d85-995e-4d0638ee9606/wirestory_4c27557998c21e088a91a067a76b6b8a_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-09/trump-approves-sale-of-more-advanced-nvidia-comput/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Prezident Trump souhlasí s prodejem výkonnějších H200 GPU od Nvidia čínským firmám",
-      "description": "Americký prezident Donald Trump oznámil na sociálních sítích, že dovolí společnosti Nvidia prodávat své grafické procesory H200 schváleným zákazníkům v Číně, což představuje obrat v předchozí politice zakazující export těchto čipů do země.",
-      "slug": "president-trump-agrees-to-let-nvidia-sell-more-pow",
-      "publishedAt": "2025-12-09T01:35:33+00:00",
-      "date": "2025-12-09 01:35:33",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/AA1MYsde.jpeg",
-      "url": "/tech-news/2025-12-09/president-trump-agrees-to-let-nvidia-sell-more-pow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump prohlásil, že USA umožní prodej AI čipů Nvidia do Číny",
-      "description": "Prezident Donald Trump oznámil dohodu s prezidentem Si Ťin-pchingem, která umožní společnosti Nvidia exportovat pokročilé čipy pro umělou inteligenci H200 do Číny. Rozhodnutí znamená změnu oproti restrikcím předchozí administrativy kvůli obavám z vojenských aplikací v Číně.",
-      "slug": "trump-says-us-will-allow-sale-of-nvidia-ai-chips-t",
-      "publishedAt": "2025-12-09T01:27:33+00:00",
-      "date": "2025-12-09 01:27:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/5de45c1b708ed1ca644875f0ecda6015214ae210.jpg",
-      "url": "/tech-news/2025-12-09/trump-says-us-will-allow-sale-of-nvidia-ai-chips-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Xi Jinping"
-      ]
-    },
-    {
-      "title": "Trump oznámil, že umožní Nvidia prodávat pokročilé čipy do Číny",
-      "description": "Prezident Trump prohlásil, že USA umožní Nvidia prodávat své pokročilé čipy H200 do Číny schváleným zákazníkům a vezme si 25% podíl z těchto prodejů. Rozhodnutí neplatí pro ještě pokročilejší systémy Blackwell a Rubin.",
-      "slug": "trump-says-hes-letting-nvidia-sell-advanced-chips-",
-      "publishedAt": "2025-12-09T00:38:00+00:00",
-      "date": "2025-12-09 00:38:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/26/bd7cb93b-2d15-4585-a903-7ab62f7052bd/thumbnail/1200x630/01386cd826312c1b0721bf257523f2b3/nvidia-post-screening-revisions-0424-sub-30-sub-01-1.jpg",
-      "url": "/tech-news/2025-12-09/trump-says-hes-letting-nvidia-sell-advanced-chips/",
-      "source": {
-        "emoji": "📺",
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
       ]
     }
   ]
