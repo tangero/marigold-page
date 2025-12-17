@@ -1,7 +1,50 @@
 {
-  "generated": "2025-12-17T04:53:23.718075+00:00",
-  "count": 200,
+  "generated": "2025-12-17T08:54:19.194936+00:00",
+  "count": 195,
   "articles": [
+    {
+      "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
+      "description": "Tři roky po tom, co ChatGPT udělal z OpenAI lídra v umělé inteligenci a známé jméno, rivalové zúžili náskok a někteří investoři se ptájí, zda má tato společnost sílu udržet dominanci.",
+      "slug": "will-openai-be-the-next-tech-giant-or-next-netscap",
+      "publishedAt": "2025-12-16T06:30:29+00:00",
+      "date": "2025-12-16 06:30:29",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6940fc7bbb0e2c9fc0ee9658.jpg",
+      "url": "/tech-news/2025-12-16/will-openai-be-the-next-tech-giant-or-next-netscap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "companies": [
+        "OpenAI",
+        "Netscape"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strategický tah nebo nebezpečný ústupek? Trumpovo rozhodnutí o Nvidii rozděluje republikány a podněcuje závod v umělé inteligenci",
+      "description": "Administrativa Donalda Trumpa změnila politiku a povolila společnosti Nvidia prodávat své nejpokročilejší čipy pro umělou inteligenci H200 GPU do Číny. Toto rozhodnutí vyvolalo bipartizánní obavy v americkém Kongresu kvůli rizikům pro národní bezpečnost a posílení AI schopností Číny.",
+      "slug": "a-strategic-gambit-or-a-dangerous-concession-trump",
+      "publishedAt": "2025-12-16T06:00:00+00:00",
+      "date": "2025-12-16 06:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Logo-Sign.jpg",
+      "url": "/tech-news/2025-12-16/a-strategic-gambit-or-a-dangerous-concession-trump/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
     {
       "title": "USA pozastavují technologickou dohodu s Británií, hlásí Financial Times",
       "description": "Spojené státy pozastavily dohodu s Británií uzavřenou letos na podzim, která měla posílit spolupráci v umělé inteligenci, kvantovém výpočtu a civilní jaderné energii. Důvodem je frustrace americké administrativy z britských obchodních bariér mimo technologickou oblast.",
@@ -146,29 +189,6 @@
         "Nvidia"
       ],
       "people": []
-    },
-    {
-      "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
-      "description": "Tři roky po úspěchu ChatGPT, který z OpenAI udělal lídra v umělé inteligenci, se rivalové přiblížili a investoři jako Michael Burry ho přirovnávají k Netscape, které v 90. letech prohrálo s Microsoft Internet Explorer.",
-      "slug": "will-openai-be-the-next-tech-giant-or-next-netscap",
-      "publishedAt": "2025-12-16T01:37:32+00:00",
-      "date": "2025-12-16 01:37:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/7ffc98ae5499100cbae9bbd34ce6b0de5cf3b779-1.jpg",
-      "url": "/tech-news/2025-12-16/will-openai-be-the-next-tech-giant-or-next-netscap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "OpenAI",
-        "Netscape"
-      ],
-      "people": [
-        "Michael Burry"
-      ]
     },
     {
       "title": "Dezinformace po střelbě v Bondi zaplavují sociální sítě falešnými lokalitami, fotografiemi z AI a tvrzeními Groka o „Edwardu Crabtree“",
@@ -3948,142 +3968,6 @@
         "Google DeepMind"
       ],
       "people": []
-    },
-    {
-      "title": "Co se děje s Microsoftem, Vodafone a e&",
-      "description": "Microsoft oznámil investici 17,5 miliardy dolarů do Indie na rozvoj cloudu a umělé inteligence. Vodafone snížil čas upgradu hlasového software o 75 procent díky automatizovanému testovacímu systému. e& nasazuje generativní AI nástroje prostřednictvím platformy amAIz od firmy Amdocs.",
-      "slug": "whats-up-with-microsoft-vodafone-e",
-      "publishedAt": "2025-12-10T16:30:34+00:00",
-      "date": "2025-12-10 16:30:34",
-      "importance": 4,
-      "category": "telekomunikace",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/miocrosoft-india-source-microsoft-21494.jpeg?w=1200",
-      "url": "/tech-news/2025-12-10/whats-up-with-microsoft-vodafone-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [
-        "Microsoft",
-        "Vodafone",
-        "e&",
-        "Amdocs"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Velo3D stoupají po potvrzení klíčové role v motorech Raptor od SpaceX a uvedení Andurilu jako zákazníka",
-      "description": "Akcie společnosti Velo3D (NASDAQ:VELO) výrazně rostou po prohlášení generálního ředitele Aruna Jeldiho o důležité roli firmy v dodavatelském řetězci SpaceX pro motory Raptor a o současné spolupráci s obrannou technologickou firmou Anduril. Tato novinka přitahuje pozornost investorů i na sociálních sítích.",
-      "slug": "velo3d-stock-soars-as-ceo-confirms-key-spacex-rapt",
-      "publishedAt": "2025-12-10T16:04:49+00:00",
-      "date": "2025-12-10 16:04:49",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://biztoc.com/cdn/ccd5622153440baf_s.webp",
-      "url": "/tech-news/2025-12-10/velo3d-stock-soars-as-ceo-confirms-key-spacex-rapt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Velo3D",
-        "SpaceX",
-        "Anduril"
-      ],
-      "people": [
-        "Arun Jeldi"
-      ]
-    },
-    {
-      "title": "Alexandr Wang nesouhlasí s vrcholovými manažery Meta ohledně dat z Instagramu pro AI",
-      "description": "Zakladatel Scale AI Alexandr Wang tento podzim otevřeně kritizoval top manažery Meta, jako jsou Chris Cox a Andrew Bosworth, včetně jejich plánů na využití dat z Instagramu k vývoji umělé inteligence. Tato neshoda odhaluje napětí v Meta AI laboratoři TBD.",
-      "slug": "sources-this-fall-alexandr-wang-told-people-that-h",
-      "publishedAt": "2025-12-10T11:58:53+00:00",
-      "date": "2025-12-10 11:58:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-10/sources-this-fall-alexandr-wang-told-people-that-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Alexandr Wang",
-        "Chris Cox",
-        "Andrew Bosworth"
-      ]
-    },
-    {
-      "title": "Supermicro rozšiřuje portfolio NVIDIA Blackwell o nové 4U a 2-OU (OCP) systémy s kapalním chlazením NVIDIA HGX B300 připravené k hromadné expedici",
-      "description": "Společnost Supermicro oznámila rozšíření nabídky pro architekturu NVIDIA Blackwell o 4U a 2-OU (OCP) systémy s kapalním chlazením pro NVIDIA HGX B300. Tyto řešení jsou optimalizována pro vysokohustotní nasazení v hyperskálových datových centrech a AI továrnách a jsou připravena k okamžité hromadné expedici.",
-      "slug": "supermicro-expands-nvidia-blackwell-portfolio-with",
-      "publishedAt": "2025-12-10T07:04:56+00:00",
-      "date": "2025-12-10 07:04:56",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://th-i.thgim.com/public/brandhub/h43mzk/article70379081.ece/alternates/LANDSCAPE_1200/B300_liquid_cooled_Super_Micro.jpg",
-      "url": "/tech-news/2025-12-10/supermicro-expands-nvidia-blackwell-portfolio-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Supermicro",
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trumpova dohoda s čipy Nvidia obrací desetiletí technologických restrikcí",
-      "description": "Prezident Trump schválil dohodu s Nvidia, která uvolňuje export pokročilých AI čipů do Číny a mění politiku omezení z posledních desetiletí. Tento krok ovlivní globální dodávky GPU nezbytných pro trénink velkých jazykových modelů.",
-      "slug": "trumps-nvidia-chip-deal-reverses-decades-of-techno",
-      "publishedAt": "2025-12-10T03:26:10+00:00",
-      "date": "2025-12-10 03:26:10",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-10/trumps-nvidia-chip-deal-reverses-decades-of-techno/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Generální ředitel Visa staví agentic AI do centra plateb",
-      "description": "Výroční dopis generálního ředitele Visa Ryana McInerneyho popisuje přeprogramování obchodu poháněné agentic AI. Dokument není jen shrnutím výkonu společnosti, ale spíše technologickou vizí budoucnosti platebního průmyslu.",
-      "slug": "visa-ceo-puts-agentic-ai-at-the-center-of-payments",
-      "publishedAt": "2025-12-10T00:16:20+00:00",
-      "date": "2025-12-10 00:16:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-10/visa-ceo-puts-agentic-ai-at-the-center-of-payments/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Visa"
-      ],
-      "people": [
-        "Ryan McInerney"
-      ]
     }
   ]
 }
