@@ -1,7 +1,45 @@
 {
-  "generated": "2025-12-17T13:00:38.737692+00:00",
+  "generated": "2025-12-17T17:01:07.545953+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "NCLT schválil přesun domovského sídla Flipkartu do Indie před plánovaným IPO",
+      "description": "Tento krok posouvá plány e-commerce giganta Flipkart na vstup na burzu, s cílem podat návrh dokumentů pro IPO v roce 2026. Schválení zahrnuje sloučení singapurských entit do indické mateřské společnosti.",
+      "slug": "nclt-approves-flipkarts-domicile-shift-to-india-be",
+      "publishedAt": "2025-12-16T15:48:48+00:00",
+      "date": "2025-12-16 15:48:48",
+      "importance": 4,
+      "category": "e-commerce",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U74dbloD4VBwk9As.4lq0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_insight_network_724/4e9e1a8b60cae4e89df1d36cbbca008b",
+      "url": "/tech-news/2025-12-16/nclt-approves-flipkarts-domicile-shift-to-india-be/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Retail-insight-network.com"
+      },
+      "companies": [
+        "Flipkart"
+      ],
+      "people": []
+    },
+    {
+      "title": "Síla a potenciál agentic AI v kyberbezpečnosti",
+      "description": "Agentic AI přináší hlubší transformaci než generativní modely a stává se klíčovým prvkem v kyberbezpečnosti. Organizace budou muset zavést dedikované bezpečnostní opatření pro nástroje založené na této technologii kvůli rizikům zneužití útočníky.",
+      "slug": "the-power-and-potential-of-agentic-ai-in-cybersecu",
+      "publishedAt": "2025-12-16T15:30:21+00:00",
+      "date": "2025-12-16 15:30:21",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg",
+      "url": "/tech-news/2025-12-16/the-power-and-potential-of-agentic-ai-in-cybersecu/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Morgan Stanley stoupá v žebříčcích dluhových financí jako hlavní banka pro AI boom",
       "description": "Navzdory rostoucím obavám z bubliny umělé inteligence pomohla žádná banka z Wall Street průmyslu překonat tyto pochybnosti tak jako Morgan Stanley. Firma vedla nebo spoluleadovala dluhové obchody v objemu 65 miliard dolarů pro datová centra a další AI investice od října.",
@@ -3907,24 +3945,6 @@
       ]
     },
     {
-      "title": "Problém umělé inteligence v hodnotě 400 miliard dolarů: Stárnou čipy příliš rychle?",
-      "description": "Technologický průmysl letos investoval přibližně 400 miliard dolarů do specializovaných čipů a datových center pro AI, ale experti zpochybňují udržitelnost těchto výdajů kvůli rychlé zastaralosti hardware.",
-      "slug": "ais-400-bln-problem-are-chips-getting-old-too-fast",
-      "publishedAt": "2025-12-11T07:50:05+00:00",
-      "date": "2025-12-11 07:50:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/693a77a99217d56cb4526d5b.jpg",
-      "url": "/tech-news/2025-12-11/ais-400-bln-problem-are-chips-getting-old-too-fast/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Microsoft posiluje angažovanost v Indii partnerstvími v AI a 200 000 licencemi Copilot u předních IT firem",
       "description": "Společně nasadí TCS, Infosys, Wipro a Cognizant přes 200 000 licencí Microsoft Copilot, čímž transformují pracovní postupy v oblastech finance, lidských zdrojů, prodeje, dodávek a interakce se zákazníky. Tento krok navazuje na plánovanou investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii.",
       "slug": "microsoft-deepens-india-bet-with-ai-tie-ups-and-20",
@@ -3969,24 +3989,6 @@
         "Google",
         "Apple"
       ],
-      "people": []
-    },
-    {
-      "title": "Problém AI za 400 miliard dolarů: Stárnou čipy příliš rychle?",
-      "description": "Technologický průmysl letos investoval asi 400 miliard dolarů do specializovaných čipů a datových center v honbě za vývojem umělé inteligence, ale rostou pochybnosti o udržitelnosti těchto investic. Klíčovým problémem jsou příliš optimistické předpoklady o délce životnosti čipů, které rychle stárnou kvůli akcelerovanému vývoji nových generací.",
-      "slug": "ais-400-bn-problem-are-chips-getting-old-too-fast",
-      "publishedAt": "2025-12-11T03:02:32+00:00",
-      "date": "2025-12-11 03:02:32",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/9faa2177dbc2761a97a1b7914dcf9d71e264b7d4.jpg",
-      "url": "/tech-news/2025-12-11/ais-400-bn-problem-are-chips-getting-old-too-fast/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [],
       "people": []
     },
     {
