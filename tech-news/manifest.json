@@ -1,7 +1,171 @@
 {
-  "generated": "2025-12-17T08:54:19.194936+00:00",
-  "count": 195,
+  "generated": "2025-12-17T13:00:38.737692+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Morgan Stanley stoupá v žebříčcích dluhových financí jako hlavní banka pro AI boom",
+      "description": "Navzdory rostoucím obavám z bubliny umělé inteligence pomohla žádná banka z Wall Street průmyslu překonat tyto pochybnosti tak jako Morgan Stanley. Firma vedla nebo spoluleadovala dluhové obchody v objemu 65 miliard dolarů pro datová centra a další AI investice od října.",
+      "slug": "morgan-stanley-climbs-debt-rankings-as-go-to-bank-",
+      "publishedAt": "2025-12-16T12:19:40+00:00",
+      "date": "2025-12-16 12:19:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-16/morgan-stanley-climbs-debt-rankings-as-go-to-bank/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Amazon varuje: Hackeři z ruské GRU cílí na západní firmy přes špatně nakonfigurovaná hraniční zařízení",
+      "description": "Výzkumníci Amazonu považují tuto kampaň za součást větší operace vedené ruskou vojenskou zpravodajskou službou GRU. Skupina změnila taktiku z exploitů zranitelností na útoky na chybně nastavená síťová hraniční zařízení zákazníků.",
+      "slug": "amazon-warns-russian-gru-hackers-target-western-fi",
+      "publishedAt": "2025-12-16T12:15:00+00:00",
+      "date": "2025-12-16 12:15:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/373d80ad-16a6-487c-be6e-b762c135a612.jpg",
+      "url": "/tech-news/2025-12-16/amazon-warns-russian-gru-hackers-target-western-fi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT 5.2 zdvojnásobuje úspěšnost na reálných úkolech: Posouvá kancelářskou práci do nové území",
+      "description": "OpenAI vydalo model GPT-5.2, který dosahuje 74procentní úspěšnosti na složitých úkolech oproti 38 procentům u verze GPT-5.1, s lepší přesností a menším počtem halucinací. Model je přizpůsoben pro podnikové použití, kde automatizuje projektový management, analýzu dat a tvorbu zpráv.",
+      "slug": "chatgpt-52-doubles-success-on-real-tasks-pushes-of",
+      "publishedAt": "2025-12-16T12:07:49+00:00",
+      "date": "2025-12-16 12:07:49",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpt-5-2-mega-agent-architecture_optimized.jpg",
+      "url": "/tech-news/2025-12-16/chatgpt-52-doubles-success-on-real-tasks-pushes-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Robotaxi v roce 2025: Waymo plánuje globální expanzi, Zoox a Tesla se připojují na startovní čáru",
+      "description": "Robotaxi se v roce 2025 rychle rozšířily, přičemž Waymo expandovalo nejrychleji do 26 trhů v USA a zahraničí. Zoox debutovalo bezplatné bezřidičové jízdy v Las Vegas a San Franciscu, zatímco Tesla spustila službu Robotaxi s dohledem člověka v Austinu a oblasti San Francisco Bay Area.",
+      "slug": "robotaxis-in-2025-waymo-plots-global-expansion-as-",
+      "publishedAt": "2025-12-16T12:00:01+00:00",
+      "date": "2025-12-16 12:00:01",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108232733-17641870362025-11-26t195224z_716338900_rc2g4iabs6at_rtrmadp_0_waymo-robotaxi.jpeg?v=1764187076&w=1920&h=1080",
+      "url": "/tech-news/2025-12-16/robotaxis-in-2025-waymo-plots-global-expansion-as/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Waymo",
+        "Zoox",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump spouští americkou technologickou sílu US Tech Force s velkými technologickými firmami – proč jsou v sázce pracovní místa a moc",
+      "description": "Trump spustil 15. prosince 2025 program US Tech Force, v rámci kterého tým inženýrů vybuduje další generaci vládních technologií a urychlí implementaci umělé inteligence. Program zahrnuje najmutí 1000 specialistů na dva roky pro klíčové vládní projekty.",
+      "slug": "trump-launches-us-ai-tech-force-with-big-tech-why-",
+      "publishedAt": "2025-12-16T11:52:46+00:00",
+      "date": "2025-12-16 11:52:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d.ibtimes.com/en/full/4617775/artificial-intelligence.png",
+      "url": "/tech-news/2025-12-16/trump-launches-us-ai-tech-force-with-big-tech-why/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Startup podpořený JPMorgan navazuje partnerství s Amazonem",
+      "description": "Slope, fintech společnost se sídlem v San Franciscu podpořená bankou JPMorgan Chase a Samem Altmanem, generálním ředitelem OpenAI, oznámila spolupráci s Amazonem na nových platebních řešeních pro malé nákupy.",
+      "slug": "jpmorgan-backed-startup-partners-with-amazon",
+      "publishedAt": "2025-12-16T11:47:20+00:00",
+      "date": "2025-12-16 11:47:20",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://biztoc.com/cdn/410de068e90223f2_s.webp",
+      "url": "/tech-news/2025-12-16/jpmorgan-backed-startup-partners-with-amazon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Slope",
+        "OpenAI",
+        "Amazon"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Uvnitř smyčky financování AI spojující Microsoft, NVIDIA a OpenAI",
+      "description": "Analýza odhaluje nesudržitelné výdaje v AI sektoru, kde OpenAI plánuje investovat 1,15 bilionu dolarů do infrastruktury při očekávaných příjmech jen 20 miliard v roce 2025. Propojené investice mezi Microsoftem, NVIDIA a OpenAI vytvářejí kruhové finanční toky, které zvyšují rizika podobná dot-com bublině.",
+      "slug": "inside-the-ai-funding-loop-linking-microsoft-nvidi",
+      "publishedAt": "2025-12-16T11:44:03+00:00",
+      "date": "2025-12-16 11:44:03",
+      "importance": 4,
+      "category": "ai financování",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/revenue-vs-capex-gap-openai_optimized.jpg",
+      "url": "/tech-news/2025-12-16/inside-the-ai-funding-loop-linking-microsoft-nvidi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jednání o 'historické' technologické dohodě mezi USA a Velkou Británií uvízla",
+      "description": "Když bylo partnerství v září odhaleno, britská vláda uvedla, že ovlivní budoucnost milionů lidí. Downing Street trvá na aktivních rozhovorech, ale podle zdrojů jednání uvízla kvůli obavám USA z britských obchodních bariér.",
+      "slug": "negotiations-over-historic-us-uk-tech-deal-stall",
+      "publishedAt": "2025-12-16T11:29:32+00:00",
+      "date": "2025-12-16 11:29:32",
+      "importance": 4,
+      "category": "technologická dohoda",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b07a/live/9a15a890-da68-11f0-a03c-01668bc4a165.jpg",
+      "url": "/tech-news/2025-12-16/negotiations-over-historic-us-uk-tech-deal-stall/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
       "description": "Tři roky po tom, co ChatGPT udělal z OpenAI lídra v umělé inteligenci a známé jméno, rivalové zúžili náskok a někteří investoři se ptájí, zda má tato společnost sílu udržet dominanci.",
@@ -3637,26 +3801,6 @@
       "people": []
     },
     {
-      "title": "6 inovací roku 2025, které ukazují, že Apple stále má co nabídnout",
-      "description": "Rok 2025 byl pro Apple solidní rok, kdy společnost obnovila širokou škálu zařízení s rychlejšími procesory, tenčími designy a vyšší spolehlivostí. Zavádí také Liquid Glass, jedno z nejvýraznějších přepracování uživatelského rozhraní napříč operačními systémy.",
-      "slug": "A-6-innovations-in-2025-that-prove-apple-still-has",
-      "publishedAt": "2025-12-11T12:15:00+00:00",
-      "date": "2025-12-11 12:15:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/12/apple-logo-neon.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-12-11/A-6-innovations-in-2025-that-prove-apple-still-has/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Nejnovější softwareová služba NVIDIA sleduje polohu GPU k boji proti pašování a pašerákům, nepotvrzuje „Kill Switch“",
       "description": "NVIDIA zavádí novou softwareovou službu do svých datacenter AI GPU, která sleduje polohu čipů v reálném čase bez jakýchkoli Kill Switchů. Služba umožňuje zákazníkům monitorovat celou flotilu GPU a bojuje proti nelegálnímu pašování do zakázaných regionů jako Čína.",
       "slug": "nvidias-latest-software-service-tracks-gpu-locatio",
@@ -3828,24 +3972,6 @@
       "people": []
     },
     {
-      "title": "Problém AI v hodnotě 400 miliard dolarů: Stárnou čipy příliš rychle?",
-      "description": "Tech průmysl letos investoval přibližně 400 miliard dolarů do specializovaných čipů a datových center v honbě za snem o umělé inteligenci, ale rostou pochybnosti o rozumnosti těchto bezprecedentních výdajů. Stavba datových center vyžaduje získání obrovského kapitálu, upozorňuje analytik Gil Luria.",
-      "slug": "ais-400-billion-problem-are-chips-getting-old-too-",
-      "publishedAt": "2025-12-11T03:05:05+00:00",
-      "date": "2025-12-11 03:05:05",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-166540,resizemode-75,msid-125901658/tech/artificial-intelligence/ais-400-billion-problem-are-chips-getting-old-too-fast.jpg",
-      "url": "/tech-news/2025-12-11/ais-400-billion-problem-are-chips-getting-old-too/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Problém AI za 400 miliard dolarů: Stárnou čipy příliš rychle?",
       "description": "Technologický průmysl letos investoval asi 400 miliard dolarů do specializovaných čipů a datových center v honbě za vývojem umělé inteligence, ale rostou pochybnosti o udržitelnosti těchto investic. Klíčovým problémem jsou příliš optimistické předpoklady o délce životnosti čipů, které rychle stárnou kvůli akcelerovanému vývoji nových generací.",
       "slug": "ais-400-bn-problem-are-chips-getting-old-too-fast",
@@ -3943,26 +4069,6 @@
         "emoji": "📰",
         "id": "fortune",
         "name": "Fortune"
-      },
-      "companies": [
-        "Google DeepMind"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI urychlí národní obnovu a růst, Google DeepMind podporuje britské technologické a vědecké sektory",
-      "description": "Nové partnerství s Google DeepMind přemění špičkovou umělou inteligenci na reálné výhody pro pracující lidi, včetně otevření první automatizované výzkumné laboratoře v Británii.",
-      "slug": "ai-to-accelerate-national-renewal-and-growth-as-go",
-      "publishedAt": "2025-12-11T00:01:00+00:00",
-      "date": "2025-12-11 00:01:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2025-12-11/ai-to-accelerate-national-renewal-and-growth-as-go/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
       },
       "companies": [
         "Google DeepMind"
