@@ -1,7 +1,173 @@
 {
-  "generated": "2025-12-16T20:38:00.203604+00:00",
+  "generated": "2025-12-17T01:15:36.639674+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Šéfka Wayma se vůbec nepodobá Elonovi; Rizikový kapitál brzy záviset na trilionových starupech; Všichni sázejí a nikdo není šťastný; Jsou MCPs jen API 2.0? a další",
+      "description": "Tento agregát tech novinek se zaměřuje na profil šéfky Wayma Tekedry Mawakany, která kontrastuje svou vizi s Elonem Muskem a zdůrazňuje úspěchy autonomních vozidel. Obsahuje také analýzu MCPs v AI ekosystému, nové AI sluchadlo a ekonomickou nespokojenost mladých.",
+      "slug": "waymos-ceo-isnt-like-elon-at-all-venture-capital-m",
+      "publishedAt": "2025-12-16T00:27:33+00:00",
+      "date": "2025-12-16 00:27:33",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://i0.wp.com/hunterwalk.com/wp-content/uploads/2025/12/Gemini_Generated_Image_ief3vmief3vmief3.jpg?fit=1200%2C655&ssl=1",
+      "url": "/tech-news/2025-12-16/waymos-ceo-isnt-like-elon-at-all-venture-capital-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hunterwalk.com"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": [
+        "Elon Musk",
+        "Tekedra Mawakana"
+      ]
+    },
+    {
+      "title": "Výkonné AI čipy Nvidia jsou již v Číně: Takto se tam dostaly",
+      "description": "Administrativa Donalda Trumpa 8. prosince povolila Nvidia prodej výkonných AI čipů H200 do Číny s 25procentní exportní daní, ale zpráva Reuters odhaluje, že tyto čipy jsou tam už dostupné přes šedý trh v univerzitách a výzkumných centrech.",
+      "slug": "powerful-nvidia-ai-chips-are-already-in-china-here",
+      "publishedAt": "2025-12-16T00:07:24+00:00",
+      "date": "2025-12-16 00:07:24",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.slashgear.com/img/gallery/powerful-nvidia-ai-chips-are-already-in-china-heres-how/l-intro-1765824232.jpg",
+      "url": "/tech-news/2025-12-16/powerful-nvidia-ai-chips-are-already-in-china-here/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SlashGear"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Elastic a Alteryx: Pohánění důvěryhodných, vyhledávatelných dat pro podnikové agenty",
+      "description": "Partnerství Elastic a Alteryx nabízí end-to-end řešení pro důvěryhodné podnikové generativní AI. Poskytuje plynulý workflow pro RAG přípravou, obohacením, ukládáním a vyhledáváním kurátovaných podnikových dat, čímž napájí spolehlivé a kontextově uvědomělé AI agenty.",
+      "slug": "elastic-and-alteryx-powering-trusted-search-ready-",
+      "publishedAt": "2025-12-16T00:00:00+00:00",
+      "date": "2025-12-16 00:00:00",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2b16cc5a621d4ae6/694075e6dc686e391fd0f18d/Blog-Alteryx-Partnership.png",
+      "url": "/tech-news/2025-12-16/elastic-and-alteryx-powering-trusted-search-ready/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Elastic.co"
+      },
+      "companies": [
+        "Elastic",
+        "Alteryx"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple Vision Pro M5: Jak wolfram, textilní úplet a křemík konečně činí prostorovou počítačovost obývatelnou",
+      "description": "Nová verze Apple Vision Pro s čipem M5 zachovává původní design, ale řeší klíčové nedostatky v komfortu a výkonu díky wolframu pro lepší vyvážení, textilnímu úpletu pro měkkost a pokročilému křemíku v čipech. To přeměňuje zařízení z demo kusu na prakticky použitelný nástroj pro prostorovou počítačovost.",
+      "slug": "apple-vision-pro-m5-how-tungsten-knit-and-silicon-",
+      "publishedAt": "2025-12-15T23:58:10+00:00",
+      "date": "2025-12-15 23:58:10",
+      "importance": 4,
+      "category": "prostorové počítačst",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/12/apple-vision-pro-m5-how-tungsten-knit-and-silicon-finally-make-spatial-computing-livable/vincent-vision-pro-M5.jpg",
+      "url": "/tech-news/2025-12-15/apple-vision-pro-m5-how-tungsten-knit-and-silicon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf Tesly Elon Musk udělal odvážné tvrzení o budoucí technologické nabídce: 'Bude mimo tento svět'",
+      "description": "„Pokud to někdo dokáže, tak on!“",
+      "slug": "tesla-ceo-elon-musk-makes-bold-claim-about-future-",
+      "publishedAt": "2025-12-15T23:55:00+00:00",
+      "date": "2025-12-15 23:55:00",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9cxJvkiFSzAJMOqTOrgkqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU-/https://media.zenfs.com/en/the_cool_down_737/7ee9c4b6b40609c965650dce51c3d216",
+      "url": "/tech-news/2025-12-15/tesla-ceo-elon-musk-makes-bold-claim-about-future/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Startup PolyAI s chatboti pro call centra získal 86 milionů USD při valuaci 750 milionů USD",
+      "description": "Londýnský startup umělé inteligence PolyAI získal 86 milionů dolarů v investičním kole série D při valuaci 750 milionů dolarů pro svou platformu agentických chatbotů, která automatizuje interakce se zákazníky v call centrech pro kasina, banky a nemocnice. Celková získaná částka dosahuje přes 200 milionů dolarů.",
+      "slug": "call-center-chatbot-startup-polyai-raises-86m-at-a",
+      "publishedAt": "2025-12-15T23:39:53+00:00",
+      "date": "2025-12-15 23:39:53",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-16-06-39-09.png",
+      "url": "/tech-news/2025-12-15/call-center-chatbot-startup-polyai-raises-86m-at-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "PolyAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf bezpečnosti Amazonu obviňuje ruskou GRU z dlouhodobých útoků na energetický sektor",
+      "description": "Dlouhodobá soustředěnost na západní kritickou infrastrukturu. Hlavní správa rozvědky Ruska (GRU) provádí kampaň proti energetice, telekomunikacím a dodavatelům technologií, kde kradou přihlašovací údaje a kompromitují špatně nastavená zařízení na AWS pro trvalý přístup k sítím.",
+      "slug": "amazon-security-boss-blames-russias-gru-for-years-",
+      "publishedAt": "2025-12-15T23:34:40+00:00",
+      "date": "2025-12-15 23:34:40",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://regmedia.co.uk/2022/03/18/russian_bear_shutterstock.jpg",
+      "url": "/tech-news/2025-12-15/amazon-security-boss-blames-russias-gru-for-years/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Warner Bros. je blockbusterovým finále pro 4,5 bilionu dolarů v fúzích a akvizicích",
+      "description": "Globální hodnoty transakcí vzrostly asi o 40 % na přibližně 4,5 bilionu dolarů tento rok, podle dat sestavených Bloombergem, což je druhý nejvyšší rekord v historii.",
+      "slug": "warner-bros-is-blockbuster-finale-to-45-trillion-m",
+      "publishedAt": "2025-12-15T23:27:32+00:00",
+      "date": "2025-12-15 23:27:32",
+      "importance": 5,
+      "category": "fúze akvizice",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2250992685-e1765838994346.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-15/warner-bros-is-blockbuster-finale-to-45-trillion-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Právní technologické události, které definovaly rok 2025",
       "description": "Rok 2025 byl poznamenán rekordními investicemi do právních technologií, rychlým pokrokem umělé inteligence a nepřetržitými oznámeními o novinkách, které ztěžovaly udržení přehledu. Legal tech sektor zažil explozi nových AI startupů a diskuzí o agentic AI.",
@@ -3710,27 +3876,6 @@
       "people": []
     },
     {
-      "title": "Intel podepsal předběžnou dohodu o akvizici startupu SambaNova na AI čipy",
-      "description": "Podle zdrojů blízkých Wired podepsal Intel neviazanou dohodu o koupi startupu SambaNova, který vyvíjí specializované AI čipy. Dohoda není závazná a finální podmínky nejsou známy.",
-      "slug": "intel-to-acquire-sambanova-ai-chip-startup",
-      "publishedAt": "2025-12-10T08:12:48+00:00",
-      "date": "2025-12-10 08:12:48",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.techpowerup.com/img/Pl1mOoHeiPwDaEqr.jpg",
-      "url": "/tech-news/2025-12-10/intel-to-acquire-sambanova-ai-chip-startup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Intel",
-        "SambaNova"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia testuje technologii sledování čipů současně s americkým zásahom proti pašerákům GPU za 160 milionů USD",
       "description": "Nvidia vyvinula technologii pro ověření fyzické polohy svých čipů pro umělou inteligenci. Zároveň americké úřady rozbily síť spojenou s Čínou, která pašovala GPU v hodnotě přes 160 milionů USD.",
       "slug": "nvidia-trials-chip-tracking-tech-amid-us-bust-of-u",
@@ -3811,46 +3956,6 @@
       "people": []
     },
     {
-      "title": "IBM kdysi dominovala výpočetní technice. Kvantové technologie by ji mohly znovu dostat na špičku",
-      "description": "IBM se vrací k dominanci v oboru díky pokrokům v kvantovém počítačování, jako je systém Quantum System Two. Tento vývoj by mohl přinést praktické aplikace v oblastech jako optimalizace a simulace složitých systémů.",
-      "slug": "ibm-once-dominated-computing-quantum-technology-co",
-      "publishedAt": "2025-12-10T06:01:24+00:00",
-      "date": "2025-12-10 06:01:24",
-      "importance": 5,
-      "category": "kvantové technologie",
-      "urlToImage": "https://biztoc.com/cdn/1cbb4ccd58d17738_s.webp",
-      "url": "/tech-news/2025-12-10/ibm-once-dominated-computing-quantum-technology-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "IBM"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Meesho debutují s 46% prémií nad cenou IPO na Dalal Street",
-      "description": "Akcie online tržiště Meesho Ltd. se objevily na Národní burze cenných papírů v Bombaji za 162,50 rupií za akcii, což představuje prémií 46,40 % oproti ceně IPO. Na Bombajské burze cenných papírů (BSE) debutovaly za 161,20 rupií s prémií 45,23 %.",
-      "slug": "meesho-debuts-at-46-premium-over-ipo-price-on-dala",
-      "publishedAt": "2025-12-10T04:13:50+00:00",
-      "date": "2025-12-10 04:13:50",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-03%2Fiw7znm40%2Fmeesho.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-10/meesho-debuts-at-46-premium-over-ipo-price-on-dala/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Meesho Ltd"
-      ],
-      "people": []
-    },
-    {
       "title": "Narendra Modi se setkal se Satyou Nadellou při oznámení rekordní investice Microsoftu 17,5 miliardy dolarů do Indie, Intel posiluje spolupráci s koncernem Tata",
       "description": "Indie zaznamenala dva významné technologické úspěchy: Microsoft oznámil největší investici v Asii zaměřenou na AI budoucnost země a Intel rozšiřuje partnerství s Tata Group v oblasti polovodičů.",
       "slug": "narendra-modi-meets-with-satya-nadella-as-microsof",
@@ -3898,26 +4003,6 @@
       ]
     },
     {
-      "title": "Microsoft investuje 17,5 miliardy dolarů do AI infrastruktury na podporu indických ambicí v umělé inteligenci",
-      "description": "Společnost Microsoft oznámila investici 17,5 miliardy dolarů do rozvoje datových center a infrastruktury umělé inteligence v Indii, aby posílila svou přítomnost v této jihoasijské zemi, která se rychle stává klíčovým bojištěm globálních technologických gigantů.",
-      "slug": "microsoft-to-spend-175b-on-ai-infrastructure-to-su",
-      "publishedAt": "2025-12-10T03:18:19+00:00",
-      "date": "2025-12-10 03:18:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-10-10-04-43.png",
-      "url": "/tech-news/2025-12-10/microsoft-to-spend-175b-on-ai-infrastructure-to-su/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Nafťově bohaté SAE se obrací k umělé inteligenci, aby rozhýbaly ekonomiku",
       "description": "V poušti Abu Dhabi vzniká obrovský AI kampus o velikosti čtvrtiny Paříže s datovými centry napájenými 5 gigawaty elektřiny, což je největší taková zařízení mimo USA. SAE doufají, že AI nahradí úbytek poptávky po ropě a transformuje jejich ekonomiku.",
       "slug": "oil-rich-uae-turns-to-ai-to-grease-economy",
@@ -3934,32 +4019,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Lokesh se setkal s Pichaiem, aby prohlédl pokrok projektu datového centra ve Vizagu",
-      "description": "Ministr IT a průmyslu Andhra Pradesh Nara Lokesh se setkal se Sundarem Pichaiem z Google a prohlédl pokrok 15miliardového projektu AI datového centra ve Visakhapatnamu. Pozval Google k založení jednotky pro sestavování, kalibraci a testování dronů v Drone City a prohloubení výroby serverů v AP. Setkal se také s vrcholovými manažery Nvidia, Intel a AMD v USA.",
-      "slug": "lokesh-meets-pichai-to-review-progress-of-vizag-da",
-      "publishedAt": "2025-12-10T02:03:24+00:00",
-      "date": "2025-12-10 02:03:24",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://bl-i.thgim.com/public/info-tech/v7j9wz/article70378842.ece/alternates/LANDSCAPE_1200/lokesh.pichai.jpg",
-      "url": "/tech-news/2025-12-10/lokesh-meets-pichai-to-review-progress-of-vizag-da/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Google",
-        "Nvidia",
-        "Intel",
-        "AMD"
-      ],
-      "people": [
-        "Nara Lokesh",
-        "Sundar Pichai"
-      ]
     },
     {
       "title": "OpenAI se připojuje k nové Agentic AI Foundation pod Linux Foundation",
@@ -3981,46 +4040,6 @@
         "Anthropic",
         "Block",
         "Linux Foundation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft investuje 17,5 miliardy dolarů do AI infrastruktury v Indii, velké technologické firmy míří na asijský trh",
-      "description": "Microsoft oznámil investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii, což je největší závazek amerického technologického giganta v Asii. Tento krok navazuje na předchozí sliby a probíhá v kontextu národního úsilí Indie o rozvoj umělé inteligence.",
-      "slug": "microsoft-to-invest-175-billion-in-indias-ai-infra",
-      "publishedAt": "2025-12-10T01:51:58+00:00",
-      "date": "2025-12-10 01:51:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107261846-1687543923071-gettyimages-1258977786-BIDEN_MODI.jpeg?v=1765329196&w=1920&h=1080",
-      "url": "/tech-news/2025-12-10/microsoft-to-invest-175-billion-in-indias-ai-infra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoftova investice 17,5 miliardy dolarů do AI v Indii",
-      "description": "Microsoft posiluje své aktivity v Indii investicí 17,5 miliardy dolarů do AI, cloudu a infrastruktury. Tato největší investice v Asii navazuje na předchozí závazky a reaguje na globální soutěž o data centra a výpočetní kapacity.",
-      "slug": "microsofts-india-power-play-insurers-fastag-ambiti",
-      "publishedAt": "2025-12-10T01:32:33+00:00",
-      "date": "2025-12-10 01:32:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125880187,width-1070,height-580,imgsize-27652,overlay-ettech/editionshow.jpg",
-      "url": "/tech-news/2025-12-10/microsofts-india-power-play-insurers-fastag-ambiti/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     },
@@ -4068,26 +4087,6 @@
       "people": [
         "Ryan McInerney"
       ]
-    },
-    {
-      "title": "Devstral 2 od Mistral AI je open-weights kódovací model určený k rivalitě s nejlepšími proprietárními systémy",
-      "description": "Francouzský startup Mistral AI spouští Devstral 2, model s 123 miliardami parametrů navržený pro pokročilé programovací úkoly. Tento open-weights systém nabízí autonomní software engineering a konkuruje proprietárním řešením od Google nebo OpenAI za nižší cenu.",
-      "slug": "mistral-ais-devstral-2-is-an-open-weights-vibe-cod",
-      "publishedAt": "2025-12-10T00:04:54+00:00",
-      "date": "2025-12-10 00:04:54",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-10-07-04-21.png",
-      "url": "/tech-news/2025-12-10/mistral-ais-devstral-2-is-an-open-weights-vibe-cod/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Mistral AI"
-      ],
-      "people": []
     }
   ]
 }
