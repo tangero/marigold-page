@@ -1,7 +1,195 @@
 {
-  "generated": "2025-12-17T01:15:36.639674+00:00",
+  "generated": "2025-12-17T04:53:23.718075+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "USA pozastavují technologickou dohodu s Británií, hlásí Financial Times",
+      "description": "Spojené státy pozastavily dohodu s Británií uzavřenou letos na podzim, která měla posílit spolupráci v umělé inteligenci, kvantovém výpočtu a civilní jaderné energii. Důvodem je frustrace americké administrativy z britských obchodních bariér mimo technologickou oblast.",
+      "slug": "us-suspends-technology-deal-with-britain-ft-report",
+      "publishedAt": "2025-12-16T03:30:42+00:00",
+      "date": "2025-12-16 03:30:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-16/us-suspends-technology-deal-with-britain-ft-report/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Dohoda Disney a OpenAI: Jak se mění kreativní krajina pro nás všechny",
+      "description": "Ať se nám to líbí nebo ne, krok Disney představuje velký posun k světu kreativity poháněné umělou inteligencí.",
+      "slug": "the-disneyopenai-deal-how-the-creative-landscape-i",
+      "publishedAt": "2025-12-16T03:26:09+00:00",
+      "date": "2025-12-16 03:26:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/www.artsjournal.com/diacritical/wordpress/wp-content/uploads/2025/12/disney-OpenAI-image.jpg?fit=800%2C294&ssl=1",
+      "url": "/tech-news/2025-12-16/the-disneyopenai-deal-how-the-creative-landscape-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Artsjournal.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Agentura 81Produce a AI společnost ElevenLabs spolupracují na AI dabingách založených na hlasových talentech",
+      "description": "ElevenLabs použije technologie VoiceCAPCHA, digitální vodoznaky a standardy C2PA k boji proti neoprávněnému využití generativní AI. Partnerství chrání hlasy více než 400 japonských hlasových herců a umožňuje autorizované syntetické dabingy v 29 jazycích.",
+      "slug": "A-81produce-agency-ai-company-elevenlabs-partner-o",
+      "publishedAt": "2025-12-16T03:23:23+00:00",
+      "date": "2025-12-16 03:23:23",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLN/cms/news.9/232136/81producelogo.jpg",
+      "url": "/tech-news/2025-12-16/A-81produce-agency-ai-company-elevenlabs-partner-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Anime News Network"
+      },
+      "companies": [
+        "ElevenLabs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Předseda Samsungu Lee Jae-yong se setkal s Lisou Su a Elonem Muskem k diskuzi o možné spolupráci",
+      "description": "Předseda Samsung Electronics Lee Jae-yong se po týdenním obchodním výjezdu v USA vrátil do Koreje a setkal se s generální řežiserkou AMD Lisou Su a šéfem Tesly Elonem Muskem. Setkání v Austinu zahrnovala i vrcholové manažery Samsungovy divize foundry a týkala se potenciální spolupráce v oblasti polovodičů.",
+      "slug": "samsung-chairman-lee-jae-yong-meets-with-lisa-su-a",
+      "publishedAt": "2025-12-16T03:16:11+00:00",
+      "date": "2025-12-16 03:16:11",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251216pd220_files/1_b.jpg",
+      "url": "/tech-news/2025-12-16/samsung-chairman-lee-jae-yong-meets-with-lisa-su-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Samsung Electronics",
+        "Tesla"
+      ],
+      "people": [
+        "Lee Jae-yong",
+        "Lisa Su",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "USA spouští Tech Force pro posílení federální umělé inteligence s podporou Amazonu, Microsoftu a Nvidia",
+      "description": "Americká vláda zahájila iniciativu Tech Force, program pro rozvoj technologické pracovní síly, který má zvýšit kapacity federálních agentur v umělé inteligenci, kybernetické bezpečnosti, inženýrství softwaru a modernizaci dat. Projekt koordinuje Bílý dům za podpory gigantů Amazon, Microsoft a Nvidia.",
+      "slug": "us-launches-tech-force-to-supercharge-federal-ai-w",
+      "publishedAt": "2025-12-16T02:20:32+00:00",
+      "date": "2025-12-16 02:20:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251216vl200_files/4_b.jpg",
+      "url": "/tech-news/2025-12-16/us-launches-tech-force-to-supercharge-federal-ai-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Amazon",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trumpova administrativa najímá specialisty pro vládní Tech Force",
+      "description": "Administrativa Donalda Trumpa oznámila nábor přibližně tisíce inženýrů a technologických specialistů do federálních agentur pro práci na infrastruktuře umělé inteligence a dalších projektech. Tým U.S. Tech Force bude spolupracovat s firmami jako Microsoft, Apple, Amazon, Nvidia nebo OpenAI.",
+      "slug": "trump-is-recruiting-tech-personnel-for-government-",
+      "publishedAt": "2025-12-16T02:14:51+00:00",
+      "date": "2025-12-16 02:14:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/pexels-ramazphotos-7017138.jpg",
+      "url": "/tech-news/2025-12-16/trump-is-recruiting-tech-personnel-for-government/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Nvidia vsází na otevřené modely pro pohánění AI agentů",
+      "description": "Nvidia oznámila debut rodiny otevřených modelů Nemotron 3 určených pro transparentní, efektivní a specializované AI zaměřené na agenty napříč průmysly. Řada zahrnuje modely Nano, Super a Ultra, které využívají hybridní latentní směs expertů (MoE) pro vyšší propustnost a škálovatelnost v multiagentových workflowech.",
+      "slug": "nvidia-bets-on-open-models-to-power-ai-agents",
+      "publishedAt": "2025-12-16T01:48:30+00:00",
+      "date": "2025-12-16 01:48:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Nvidia-AI-models1.jpg",
+      "url": "/tech-news/2025-12-16/nvidia-bets-on-open-models-to-power-ai-agents/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
+      "description": "Tři roky po úspěchu ChatGPT, který z OpenAI udělal lídra v umělé inteligenci, se rivalové přiblížili a investoři jako Michael Burry ho přirovnávají k Netscape, které v 90. letech prohrálo s Microsoft Internet Explorer.",
+      "slug": "will-openai-be-the-next-tech-giant-or-next-netscap",
+      "publishedAt": "2025-12-16T01:37:32+00:00",
+      "date": "2025-12-16 01:37:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/7ffc98ae5499100cbae9bbd34ce6b0de5cf3b779-1.jpg",
+      "url": "/tech-news/2025-12-16/will-openai-be-the-next-tech-giant-or-next-netscap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "OpenAI",
+        "Netscape"
+      ],
+      "people": [
+        "Michael Burry"
+      ]
+    },
+    {
+      "title": "Dezinformace po střelbě v Bondi zaplavují sociální sítě falešnými lokalitami, fotografiemi z AI a tvrzeními Groka o „Edwardu Crabtree“",
+      "description": "Chatbot Elona Muska Grok označil fiktivního 47letého IT specialistu Edwarda Crabtreeho za hrdinu, který se vrhl na jednoho z útočníků a odebral mu zbraň. Tento případ ukazuje, jak AI zesiluje šíření lží během aktuálních událostí.",
+      "slug": "bondi-shooting-misinformation-floods-social-media-",
+      "publishedAt": "2025-12-16T01:07:46+00:00",
+      "date": "2025-12-16 01:07:46",
+      "importance": 4,
+      "category": "dezinformace",
+      "urlToImage": "https://static.ffx.io/images/$zoom_1.3071634881149805%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_342%2C$y_283/t_crop_custom/q_86%2Cf_auto/270b9375a6f182940aa84cdbee8a4efffefaa222",
+      "url": "/tech-news/2025-12-16/bondi-shooting-misinformation-floods-social-media/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Šéfka Wayma se vůbec nepodobá Elonovi; Rizikový kapitál brzy záviset na trilionových starupech; Všichni sázejí a nikdo není šťastný; Jsou MCPs jen API 2.0? a další",
       "description": "Tento agregát tech novinek se zaměřuje na profil šéfky Wayma Tekedry Mawakany, která kontrastuje svou vizi s Elonem Muskem a zdůrazňuje úspěchy autonomních vozidel. Obsahuje také analýzu MCPs v AI ekosystému, nové AI sluchadlo a ekonomickou nespokojenost mladých.",
@@ -3809,28 +3997,6 @@
       ]
     },
     {
-      "title": "Šéf OpenAI Sam Altman přiznává, že umělá inteligence se vyvíjí příliš rychle, tříletá technologie se rychle mění – 'Lze si představit, že to pokazíme'",
-      "description": "Šéf OpenAI Sam Altman v rozhovoru zdůraznil rizika rychlého vývoje ChatGPT a umělé inteligence, včetně environmentálních nákladů a závislosti uživatelů. Přiznal, že tempo změn může vést k chybám s dlouhodobými důsledky.",
-      "slug": "openais-ceo-sam-altman-admits-ai-might-be-moving-t",
-      "publishedAt": "2025-12-10T12:04:00+00:00",
-      "date": "2025-12-10 12:04:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TreeSnwGP95H44UXLwncTT-2560-80.jpg",
-      "url": "/tech-news/2025-12-10/openais-ceo-sam-altman-admits-ai-might-be-moving-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Alexandr Wang nesouhlasí s vrcholovými manažery Meta ohledně dat z Instagramu pro AI",
       "description": "Zakladatel Scale AI Alexandr Wang tento podzim otevřeně kritizoval top manažery Meta, jako jsou Chris Cox a Andrew Bosworth, včetně jejich plánů na využití dat z Instagramu k vývoji umělé inteligence. Tato neshoda odhaluje napětí v Meta AI laboratoři TBD.",
       "slug": "sources-this-fall-alexandr-wang-told-people-that-h",
@@ -3855,47 +4021,6 @@
       ]
     },
     {
-      "title": "Rivian vyvíjí AI asistenta pro řízení vozidla, nejen pro konverzaci",
-      "description": "Společnost Rivian Automotive (NASDAQ: RIVN) vyvíjí vlastního asistenta na bázi umělé inteligence po dobu téměř dvou let, odděleně od svého technologického společného podniku s Volkswagenem v hodnotě 5,8 miliardy dolarů. Asistent je navržen pro plnou integraci s ovládáním vozidla, což přesahuje pouhé hlasové ovládání.",
-      "slug": "rivian-builds-ai-assistant-to-run-the-vehicle-not-",
-      "publishedAt": "2025-12-10T11:58:32+00:00",
-      "date": "2025-12-10 11:58:32",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://biztoc.com/cdn/ffafae4c5f5f92bf_s.webp",
-      "url": "/tech-news/2025-12-10/rivian-builds-ai-assistant-to-run-the-vehicle-not/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Rivian",
-        "Volkswagen"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia testuje technologii sledování čipů současně s americkým zásahom proti pašerákům GPU za 160 milionů USD",
-      "description": "Nvidia vyvinula technologii pro ověření fyzické polohy svých čipů pro umělou inteligenci. Zároveň americké úřady rozbily síť spojenou s Čínou, která pašovala GPU v hodnotě přes 160 milionů USD.",
-      "slug": "nvidia-trials-chip-tracking-tech-amid-us-bust-of-u",
-      "publishedAt": "2025-12-10T07:14:08+00:00",
-      "date": "2025-12-10 07:14:08",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251210vl201_files/2_2b.jpg",
-      "url": "/tech-news/2025-12-10/nvidia-trials-chip-tracking-tech-amid-us-bust-of-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Supermicro rozšiřuje portfolio NVIDIA Blackwell o nové 4U a 2-OU (OCP) systémy s kapalním chlazením NVIDIA HGX B300 připravené k hromadné expedici",
       "description": "Společnost Supermicro oznámila rozšíření nabídky pro architekturu NVIDIA Blackwell o 4U a 2-OU (OCP) systémy s kapalním chlazením pro NVIDIA HGX B300. Tyto řešení jsou optimalizována pro vysokohustotní nasazení v hyperskálových datových centrech a AI továrnách a jsou připravena k okamžité hromadné expedici.",
       "slug": "supermicro-expands-nvidia-blackwell-portfolio-with",
@@ -3915,70 +4040,6 @@
         "NVIDIA"
       ],
       "people": []
-    },
-    {
-      "title": "Nissan a britská AI firma Wayve uvedou systém autonomního řízení do fiskálního roku 2027",
-      "description": "Nissan Motor a britský startup Wayve podepsaly dohodu o vývoji systému asistence řidiči založeného na umělé inteligenci, který má být instalován do sériově vyráběných vozů v Japonsku do fiskálního roku končícího březnem 2028 (nikkei.com).",
-      "slug": "nissan-uk-ai-company-wayve-to-launch-self-driving-",
-      "publishedAt": "2025-12-10T06:55:55+00:00",
-      "date": "2025-12-10 06:55:55",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F7%2F7%2F11807703-1-eng-GB%2F43a8b5c71245-dd.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2025-12-10/nissan-uk-ai-company-wayve-to-launch-self-driving/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [
-        "Nissan",
-        "Wayve"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bohaté na ropu Spojené arabské emiráty směřují k ekonomice založené na AI s masivními datovými centry",
-      "description": "Spojené arabské emiráty investují miliardy dolarů do stavby obřích datových center a technologických partnerství, aby vytvořily ekonomiku založenou na umělé inteligenci a překročily závislost na ropě.",
-      "slug": "oil-rich-uae-aims-for-ai-native-economy-with-massi",
-      "publishedAt": "2025-12-10T06:40:43+00:00",
-      "date": "2025-12-10 06:40:43",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/10085249/AFP__20251210__87ML3KE__v1__MidRes__FilesUaeTechnologyEconomyAi-1200x630.jpg",
-      "url": "/tech-news/2025-12-10/oil-rich-uae-aims-for-ai-native-economy-with-massi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Narendra Modi se setkal se Satyou Nadellou při oznámení rekordní investice Microsoftu 17,5 miliardy dolarů do Indie, Intel posiluje spolupráci s koncernem Tata",
-      "description": "Indie zaznamenala dva významné technologické úspěchy: Microsoft oznámil největší investici v Asii zaměřenou na AI budoucnost země a Intel rozšiřuje partnerství s Tata Group v oblasti polovodičů.",
-      "slug": "narendra-modi-meets-with-satya-nadella-as-microsof",
-      "publishedAt": "2025-12-10T04:10:01+00:00",
-      "date": "2025-12-10 04:10:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/12271113e8f0c2a4_s.webp",
-      "url": "/tech-news/2025-12-10/narendra-modi-meets-with-satya-nadella-as-microsof/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Microsoft",
-        "Intel",
-        "Tata Group"
-      ],
-      "people": [
-        "Narendra Modi",
-        "Satya Nadella"
-      ]
     },
     {
       "title": "Trumpova dohoda s čipy Nvidia obrací desetiletí technologických restrikcí",
@@ -4001,70 +4062,6 @@
       "people": [
         "Trump"
       ]
-    },
-    {
-      "title": "Nafťově bohaté SAE se obrací k umělé inteligenci, aby rozhýbaly ekonomiku",
-      "description": "V poušti Abu Dhabi vzniká obrovský AI kampus o velikosti čtvrtiny Paříže s datovými centry napájenými 5 gigawaty elektřiny, což je největší taková zařízení mimo USA. SAE doufají, že AI nahradí úbytek poptávky po ropě a transformuje jejich ekonomiku.",
-      "slug": "oil-rich-uae-turns-to-ai-to-grease-economy",
-      "publishedAt": "2025-12-10T03:17:32+00:00",
-      "date": "2025-12-10 03:17:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/12/60ba04262142f01446320fe860b28969e0a2b076.jpg",
-      "url": "/tech-news/2025-12-10/oil-rich-uae-turns-to-ai-to-grease-economy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI se připojuje k nové Agentic AI Foundation pod Linux Foundation",
-      "description": "OpenAI, Anthropic a Block spustily Agentic AI Foundation v rámci Linux Foundation, která má sloužit jako neutrální prostor pro standardy agentických AI systémů při nasazování do produkce. Kritik Brian Fagioli to označuje za PR krok bez skutečného otevírání klíčových technologií.",
-      "slug": "openai-joins-the-linux-foundations-new-agentic-ai-",
-      "publishedAt": "2025-12-10T02:02:00+00:00",
-      "date": "2025-12-10 02:02:00",
-      "importance": 4,
-      "category": "agentická ai",
-      "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
-      "url": "/tech-news/2025-12-10/openai-joins-the-linux-foundations-new-agentic-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Block",
-        "Linux Foundation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Poskytovatel multimodální AI fal získal 140 milionů dolarů při rychlém růstu",
-      "description": "Startup fal zabývající se umělou inteligencí oznámil získání 140 milionů dolarů v třetím kole financování letos. Investici Series D vedla Sequoia, zapojily se i venture capital divize Nvidia, Salesforce a Shopify.",
-      "slug": "multimodal-ai-provider-fal-nabs-140m-amid-rapid-gr",
-      "publishedAt": "2025-12-10T00:41:17+00:00",
-      "date": "2025-12-10 00:41:17",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/unsplash2.png",
-      "url": "/tech-news/2025-12-10/multimodal-ai-provider-fal-nabs-140m-amid-rapid-gr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "fal",
-        "Nvidia Corp",
-        "Salesforce Inc",
-        "Shopify Inc"
-      ],
-      "people": []
     },
     {
       "title": "Generální ředitel Visa staví agentic AI do centra plateb",
