@@ -1,7 +1,45 @@
 {
-  "generated": "2025-12-18T12:57:07.537353+00:00",
+  "generated": "2025-12-18T16:49:46.067631+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Silné IPO další čínské čipové firmy vyvolává obavy z hype",
+      "description": "Další čipová společnost MetaX Integrated Circuits se listingovala na čínských trzích s nárůstem akcí o 700 procent, což posiluje obavy z přeceňování firem v sektoru umělé inteligence. Pekingský tlak na technologickou soběstačnost může vytvářet bublinu na burze navzdory technologickému zaostávání těchto firem.",
+      "slug": "bumper-ipo-by-another-china-chip-firm-raises-hype-",
+      "publishedAt": "2025-12-17T15:47:53+00:00",
+      "date": "2025-12-17 15:47:53",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-17/bumper-ipo-by-another-china-chip-firm-raises-hype/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "MetaX Integrated"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína prý postavila první prototyp EUV lithografického stroje, což je průlom v polovodičích, který USA obávají",
+      "description": "Čínský polovodičový průmysl dosáhl významného pokroku, protože podle zprávy Reuters země vyvinula první domácí prototyp EUV lithografického stroje, který generuje UV světlo pro expozici fotoresistu. Prototyp je sestaven ze starších dílů firem jako ASML a měl by umožnit tape-out čipů do roku 2030.",
+      "slug": "china-has-reportedly-built-its-first-euv-machine-p",
+      "publishedAt": "2025-12-17T15:29:24+00:00",
+      "date": "2025-12-17 15:29:24",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2021/02/ASML-LITHOGRAPHY-740x403.png",
+      "url": "/tech-news/2025-12-17/china-has-reportedly-built-its-first-euv-machine-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Intel instaloval první komerční lithografický nástroj High-NA EUV v oboru — ASML Twinscan EXE:5200B připravuje půdu pro 14A",
       "description": "Intel instaloval a kvalifikoval TWINSCAN EXE:5200B od ASML, první lithografický nástroj High-NA EUV určený pro komerční výrobu čipů, což potvrzuje plány na použití High-NA EUV pro technologii 14A a následné uzly.",
@@ -3614,24 +3652,6 @@
       ]
     },
     {
-      "title": "AI agenti tlačí softwareový průmysl k existenciální proměně",
-      "description": "Průmysl umělé inteligence dosáhl kritického bodu obratu. Po dvou letech rychlého pokroku v generativních modelech se technologie přechází z odpovídání na otázky k autonomnímu dokončování složitých úkolů, což ohrožuje tradiční softwareový sektor.",
-      "slug": "ai-agents-push-software-industry-toward-existentia",
-      "publishedAt": "2025-12-12T07:24:32+00:00",
-      "date": "2025-12-12 07:24:32",
-      "importance": 4,
-      "category": "ai agenti",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251210pd232_files/2_b.jpg",
-      "url": "/tech-news/2025-12-12/ai-agents-push-software-industry-toward-existentia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Googleův kvantový procesor Willow pohání špičkový britský výzkum prostřednictvím NQCC",
       "description": "Google uzavřel spolupráci s britským Národním centrem pro kvantové výpočty (NQCC), které poskytne výzkumníkům přístup k kvantovému procesoru Willow. Tento krok umožní testovat pokročilé kvantové algoritmy na hardwaru s 105 qubits a nízkou chybovostí.",
       "slug": "googles-willow-quantum-processor-will-power-cuttin",
@@ -4016,28 +4036,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "Redaktoři WSJ zuří: Trump vyměňuje národní bezpečnost za 'grosze na dolar'",
-      "description": "Prezident Donald Trump čelí ostré kritice od konzervativní redakce Wall Street Journal za schválení prodeje pokročilých počítačových čipů firmy Nvidia do Číny. USA mají získat 25 procent zisku z těchto prodejů, což kritici označují za nedostatečnou kompenzaci za rizika pro národní bezpečnost.",
-      "slug": "wsj-editors-rage-as-trump-trades-away-national-sec",
-      "publishedAt": "2025-12-11T02:26:38+00:00",
-      "date": "2025-12-11 02:26:38",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.rawstory.com/media-library/donald-trump.jpg?id=60311196&width=1200&height=600&coordinates=0%2C232%2C0%2C232",
-      "url": "/tech-news/2025-12-11/wsj-editors-rage-as-trump-trades-away-national-sec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Raw Story"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
     }
   ]
 }
