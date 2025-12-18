@@ -1,7 +1,169 @@
 {
-  "generated": "2025-12-18T16:49:46.067631+00:00",
+  "generated": "2025-12-18T20:45:46.494107+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Kalifornie hrozí Tesle 30denním pozastavením prodejních licencí kvůli zavádějícím tvrzením o autonomním řízení",
+      "description": "Kalifornští regulátoři hrozí pozastavením licence Tesla na prodej elektromobilů ve státě na začátku příštího roku, pokud automobilka nezmírní marketing autonomních funkcí. Soudce konstatoval klamavé praktiky s termíny Autopilot a Full Self-Driving.",
+      "slug": "california-threatens-tesla-with-30-day-suspension-",
+      "publishedAt": "2025-12-17T20:09:35+00:00",
+      "date": "2025-12-17 20:09:35",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J.PfiR34vPos6BcHiYzwgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDk7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/6d85128a4cec8318438adafc151c20fb",
+      "url": "/tech-news/2025-12-17/california-threatens-tesla-with-30-day-suspension/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akamai a Visa uzavírají partnerství pro posílení kontroly identity a prevence podvodů v agentické komerci",
+      "description": "Společnosti Akamai Technologies a Visa spustily strategické partnerství, které má posílit ověřování identity, autentizaci a ochranu proti podvodům v době, kdy autonomní AI agenti stále častěji interagují s online obchodníky. Řešení integruje protokol Visa Trusted Agent Protocol s edgeovými schopnostmi Akamai v oblasti chování uživatelů a detekce botů.",
+      "slug": "akamai-visa-partner-to-add-identity-and-fraud-cont",
+      "publishedAt": "2025-12-17T20:08:19+00:00",
+      "date": "2025-12-17 20:08:19",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.digitalcommerce360.com/wp-content/uploads/2025/12/AdobeStock_498758987_Editorial_Use_Only-scaled.jpeg",
+      "url": "/tech-news/2025-12-17/akamai-visa-partner-to-add-identity-and-fraud-cont/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DigitalCommerce360"
+      },
+      "companies": [
+        "Akamai Technologies",
+        "Visa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zastřelení profesora MIT Nuna Loureiro a jeho práce na jaderné fúzi s Commonwealth Fusion Systems",
+      "description": "Profesor MIT Nuno Loureiro byl před dvěma dny zastřelen a zabit. Vedl katedru plazmových věd na MIT a spolupracoval s firmou Commonwealth Fusion Systems, jedním z předních startupů v oblasti jaderné fúze.",
+      "slug": "mit-professor-nuno-loureiro-shooting-and-his-nucle",
+      "publishedAt": "2025-12-17T20:00:32+00:00",
+      "date": "2025-12-17 20:00:32",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-17-at-11.53.54-AM.jpg",
+      "url": "/tech-news/2025-12-17/mit-professor-nuno-loureiro-shooting-and-his-nucle/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "MIT",
+        "Commonwealth Fusion Systems"
+      ],
+      "people": [
+        "Nuno Loureiro"
+      ]
+    },
+    {
+      "title": "Jak Čína vybudovala svůj ‚Manhattan Project‘ k rivalitě se Západem v AI čipech",
+      "description": "EUV stroj v testování. Čínští vědci postavili prototyp lithografického stroje pro výrobu pokročilých polovodičových čipů.",
+      "slug": "how-china-built-its-manhattan-project-to-rival-the",
+      "publishedAt": "2025-12-17T19:50:11+00:00",
+      "date": "2025-12-17 19:50:11",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://i.nextmedia.com.au/News/semiconductor.jpg",
+      "url": "/tech-news/2025-12-17/how-china-built-its-manhattan-project-to-rival-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Gemini 3 Flash přináší profesionální inteligenci s okamžitými rychlostmi",
+      "description": "Google vydal Gemini 3 Flash, rychlejší model umělé inteligence, který si zachovává vysokou úroveň uvažování a okamžitě se integruje do Vyhledávání a aplikace Gemini.",
+      "slug": "gemini-3-flash-brings-pro-level-intelligence-at-in",
+      "publishedAt": "2025-12-17T19:45:36+00:00",
+      "date": "2025-12-17 19:45:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/12/Google-Gemini-3-Flash-AI-logo-featured.jpg",
+      "url": "/tech-news/2025-12-17/gemini-3-flash-brings-pro-level-intelligence-at-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Když vaše vlastnictví věci, kterou jste koupili, závisí na pokračujících platbách",
+      "description": "S rozvojem internetu věcí a integrací síťových počítačů do každodenních interakcí může funkčnost téměř libovolného zařízení nebo služby záviset na udržování dobrého vztahu mezi poskytovatelem a zákazníkem. Článek poukazuje na rizika závislosti na cloudových infrastrukturách a předplatných modelech u automobilů.",
+      "slug": "when-your-ownership-of-something-you-bought-depend",
+      "publishedAt": "2025-12-17T19:31:00+00:00",
+      "date": "2025-12-17 19:31:00",
+      "importance": 5,
+      "category": "internet věcí",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!l618!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdcb947-f4a9-4553-b694-3991e6365a06_4500x3000.jpeg",
+      "url": "/tech-news/2025-12-17/when-your-ownership-of-something-you-bought-depend/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Commonplace.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI je přeceňovaná, ale zároveň podceňovaná, říká šéf DeepMind Demis Hassabis",
+      "description": "Demis Hassabis varuje před humbukem v oceňováních AI startupů, zatímco zdůrazňuje, že dlouhodobý dopad technologie je stále podceňován.",
+      "slug": "ai-is-overhyped-yet-underappreciated-says-deepmind",
+      "publishedAt": "2025-12-17T19:07:53+00:00",
+      "date": "2025-12-17 19:07:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/12/GettyImages-2218276822.jpg?quality=80",
+      "url": "/tech-news/2025-12-17/ai-is-overhyped-yet-underappreciated-says-deepmind/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Observer"
+      },
+      "companies": [
+        "DeepMind"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
+    {
+      "title": "OpenAI vydalo GPT Image 1.5 s rychlejším generováním a přesnějšími úpravami",
+      "description": "OpenAI vydalo svůj nejnovější model pro obrázky GPT Image 1.5, který nabízí až čtyřnásobně rychlejší generování obrázků, přesnější úpravy a lepší soulad s pokyny uživatelů. Tento update je dostupný pro všechny uživatele ChatGPT a API globálně.",
+      "slug": "openai-launches-gpt-image-15-with-faster-generatio",
+      "publishedAt": "2025-12-17T19:06:19+00:00",
+      "date": "2025-12-17 19:06:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/12/OpenAI-logo-icon-on-an-abstract-purple-black-background.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-17/openai-launches-gpt-image-15-with-faster-generatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Silné IPO další čínské čipové firmy vyvolává obavy z hype",
       "description": "Další čipová společnost MetaX Integrated Circuits se listingovala na čínských trzích s nárůstem akcí o 700 procent, což posiluje obavy z přeceňování firem v sektoru umělé inteligence. Pekingský tlak na technologickou soběstačnost může vytvářet bublinu na burze navzdory technologickému zaostávání těchto firem.",
@@ -3451,26 +3613,6 @@
       "people": []
     },
     {
-      "title": "ChatGPT 5.2 je zde: Rychlejší pracovní postupy, přesnější odpovědi a vestavěný výstup obrázků",
-      "description": "OpenAI vydalo model GPT 5.2, který snižuje míru halucinací o 30 % a zpracovává až 256 000 tokenů vstupu. Novinky zahrnují nativní generování obrázků a vylepšené zpracování vizuálních dat, což rozšiřuje využití v designu, marketingu a analýze dat.",
-      "slug": "chatgpt-52-arrives-faster-workflows-clearer-answer",
-      "publishedAt": "2025-12-12T12:13:19+00:00",
-      "date": "2025-12-12 12:13:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpt-5-2-enterprise-time-savings_optimized.jpg",
-      "url": "/tech-news/2025-12-12/chatgpt-52-arrives-faster-workflows-clearer-answer/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Architekti umělé inteligence jsou podle TIME Osobností roku – proč tomu tak je",
       "description": "Magazín TIME vyhlásil skupinu klíčových tvůrců AI za Osobnost roku 2025 za jejich vliv na svět. Mezi nimi jsou Sam Altman z OpenAI, Jensen Huang z Nvidia a představitelé Google, Meta a Anthropic.",
       "slug": "the-architects-of-ai-are-times-person-of-the-year-",
@@ -3487,26 +3629,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Umělá inteligence pohání ekonomiku Trumpovy administrativy, americkí voliči však mají rostoucí obavy",
-      "description": "Prezident Donald Trump míří do volebního roku 2026 s odhodláním maximálně podporovat umělou inteligenci, aby zajistil technologickou dominanci USA. Američtí voliči však začínají projevovat pochybnosti ohledně dopadů této technologie.",
-      "slug": "ai-is-powering-trumps-economy-but-american-voterss",
-      "publishedAt": "2025-12-12T11:21:56+00:00",
-      "date": "2025-12-12 11:21:56",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/us-electricity-bills-are-outpacing-inflation-economists-se.jpg",
-      "url": "/tech-news/2025-12-12/ai-is-powering-trumps-economy-but-american-voterss/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "Trump podepsal příkaz k překročení státních pravidel pro AI",
@@ -3526,28 +3648,6 @@
       "companies": [],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Analýza: Muskova mise na Mars zvyšuje rizika pro očekávané IPO SpaceX",
-      "description": "Investoři sledující potenciální velké IPO SpaceX se musí připravit na rizika spojená s Muskovou ambicí dosáhnout Marsu, zatímco firma roste díky satelitní síti Starlink. Analýza zdůrazňuje napětí mezi rizikovými projekty a stabilními zdroji příjmů.",
-      "slug": "analysis-musks-mars-mission-adds-risk-to-red-hot-s",
-      "publishedAt": "2025-12-12T11:09:21+00:00",
-      "date": "2025-12-12 11:09:21",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/90110b74c2bd99398a1abdf2f448e18d",
-      "url": "/tech-news/2025-12-12/analysis-musks-mars-mission-adds-risk-to-red-hot-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
       ]
     },
     {
@@ -3608,27 +3708,6 @@
         "name": "Werd.io"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bytes: Týden v recenzi - Odchody vedení Apple vyvolávají obavy o jeho budoucnost v umělé inteligenci",
-      "description": "V posledních týdnech Apple zasáhla vlna odchůdek významných manažerů v oblasti strategie umělé inteligence a designu uživatelského rozhraní, přičemž někteří zaměstnanci odcházejí k soutěžníkům jako OpenAI. Dále se objevují spekulace o sloučení Netflixu s Warner Bros. Discovery nebo nepřátelském převzetí ze strany Paramountu v hodnotě 108 miliard dolarů. McDonald's musel stáhnout reklamu na Vánoce generovanou umělou inteligencí kvůli kritice na sociálních sítích.",
-      "slug": "bytes-week-in-review-apples-leadership-departures-",
-      "publishedAt": "2025-12-12T11:00:00+00:00",
-      "date": "2025-12-12 11:00:00",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.apmcdn.org/828970235f37d589ea678c43eada74d08a44e59e/widescreen/3e0068-2023-02-gettyimages-1167240373-e1676573284246-2000.jpg",
-      "url": "/tech-news/2025-12-12/bytes-week-in-review-apples-leadership-departures/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Marketplace.org"
-      },
-      "companies": [
-        "Apple",
-        "Netflix"
-      ],
       "people": []
     },
     {
@@ -3696,65 +3775,6 @@
         "Jensen Huang",
         "Sam Altman"
       ]
-    },
-    {
-      "title": "AI architekti jsou podle Time magazínu Osobností roku 2025",
-      "description": "Architekti umělé inteligence byli jmenováni Osobností roku 2025 podle Time magazínu. Toto rozhodnutí zdůrazňuje dopad AI revoluce na technologie, byznys a lidstvo.",
-      "slug": "ai-architects-are-time-magazines-2025-person-of-th",
-      "publishedAt": "2025-12-12T06:44:02+00:00",
-      "date": "2025-12-12 06:44:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/3e8d15c94169a6e1_s.webp",
-      "url": "/tech-news/2025-12-12/ai-architects-are-time-magazines-2025-person-of-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kryptoměnový magnát Do Kwon dostal 15 let vězení za podvod",
-      "description": "Americký soud odsoudil kryptoměnového magnáta Do Kwona na 15 let vězení za podvod spojený s krachem jeho společnosti, který investory připravil o 40 miliard dolarů a otřásl globálními kryptotrhy. Kwon vyvinul dvě digitální měny, jejichž selhání mělo široké dopady.",
-      "slug": "crypto-mogul-do-kwon-sentenced-to-15-years-for-fra",
-      "publishedAt": "2025-12-12T04:19:05+00:00",
-      "date": "2025-12-12 04:19:05",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "url": "/tech-news/2025-12-12/crypto-mogul-do-kwon-sentenced-to-15-years-for-fra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [],
-      "people": [
-        "Do Kwon"
-      ]
-    },
-    {
-      "title": "Disney investuje 1 miliardu dolarů do OpenAI v dohodě o přenesení postav jako Mickey Mouse do nástroje Sora pro generování AI videí",
-      "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá licenční dohodu pro použití svých postav v nástroji Sora na generování videí. Zároveň vyzývá Google, aby přestal využívat chráněné postavy k tréninku svých AI systémů.",
-      "slug": "disney-invests-1-billion-in-openai-in-deal-to-brin",
-      "publishedAt": "2025-12-12T03:12:13+00:00",
-      "date": "2025-12-12 03:12:13",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/y8xa3g/article70387194.ece/alternates/LANDSCAPE_1200/3013166216_cff8da8f2a_o.jpg",
-      "url": "/tech-news/2025-12-12/disney-invests-1-billion-in-openai-in-deal-to-brin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Trump podepsal příkaz k omezení státní regulace umělé inteligence",
@@ -4016,26 +4036,6 @@
       "people": [
         "Ian Murray"
       ]
-    },
-    {
-      "title": "Šokující odpověď ChatGPT na otázku o jeho údajné roli v případu vraždy a sebevraždy",
-      "description": "OpenAI se k údajné vině ChatGPT za vraždu v Connecticutu nevyjádřilo – chatbot sám přiznal částečnou odpovědnost.",
-      "slug": "chatgpt-chatbots-jaw-dropping-response-when-asked-",
-      "publishedAt": "2025-12-12T00:00:20+00:00",
-      "date": "2025-12-12 00:00:20",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/117158296.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2025-12-12/chatgpt-chatbots-jaw-dropping-response-when-asked/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
     }
   ]
 }
