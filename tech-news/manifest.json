@@ -1,7 +1,258 @@
 {
-  "generated": "2025-12-18T01:15:50.427704+00:00",
+  "generated": "2025-12-18T04:54:31.977790+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI jedná o získání nejméně 12,9 miliardy dolarů od Amazonu a použití jeho AI čipů",
+      "description": "OpenAI vede počáteční rozhovory o investici nejméně 10 miliard USD od Amazonu, což by mohlo zvýšit jeho valuaci nad 500 miliard USD. Firma by přitom začala používat Amazonovy čipy Trainium pro trénink AI modelů.",
+      "slug": "openai-in-talks-to-raise-at-least-129-billion-from",
+      "publishedAt": "2025-12-17T04:23:43+00:00",
+      "date": "2025-12-17 04:23:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/e308e310f240f0f79b0aed3ef4618d56c1d1233b85481a22c853b79687488edf",
+      "url": "/tech-news/2025-12-17/openai-in-talks-to-raise-at-least-129-billion-from/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "OpenAI",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla používala zavádějící jazyk v marketingu Autopilotu, rozhodl kalifornský soudce",
+      "description": "Prodej Tesly v Kalifornii by měl být na 30 dní pozastaven kvůli zavádějícímu marketingu systémů Autopilot a Full Self-Driving, které matoucí prezentovaly vozidla jako schopná plně autonomní jízdy úrovně 5. Kalifornské DMV v roce 2022 obvinilo automobilku z klamavého jazyka a soudce s tím souhlasí, ale dává Tesle 90 dní na opravu materiálů.",
+      "slug": "tesla-used-deceptive-language-to-market-autopilot-",
+      "publishedAt": "2025-12-17T04:13:05+00:00",
+      "date": "2025-12-17 04:13:05",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-17/tesla-used-deceptive-language-to-market-autopilot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kalifornie obviňuje Teslu z klamání spotřebitelů tvrzeními o autonomním řízení",
+      "description": "Kalifornské ministerstvo dopravy (DMV) dává Tesle 60 dní na změnu propagace funkcí Autopilot a Full Self-Driving, jinak hrozí 30denní zákaz prodeje vozidel.",
+      "slug": "california-says-tesla-deceived-consumers-with-its-",
+      "publishedAt": "2025-12-17T03:48:30+00:00",
+      "date": "2025-12-17 03:48:30",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6941fc7d165c2276e288bc5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2025-12-17/california-says-tesla-deceived-consumers-with-its/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Sledujte: Čína má nového humanoidního robota s AI na řízení dopravy",
+      "description": "Hangzhou nasadilo robota s umělou inteligencí Hangxing No. 1 pro směrování vozidel a chodců na hlavní křižovatce a vydávání varování porušovatelům. Robot je doplnkem k lidským policistům a plánuje se mu přidat schopnosti velkých jazykových modelů.",
+      "slug": "watch-china-has-a-new-ai-humanoid-robot-in-charge-",
+      "publishedAt": "2025-12-17T03:18:56+00:00",
+      "date": "2025-12-17 03:18:56",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/ffcb756/2147483647/strip/true/crop/1546x812+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8d%2F24%2F1b28d495412fb3056e591ecca0dc%2Fscreenshot-2025-12-17-at-12-39-44-pm.png&na.image_optimisation=0",
+      "url": "/tech-news/2025-12-17/watch-china-has-a-new-ai-humanoid-robot-in-charge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Atlas"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI jedná o investici minimálně 10 miliard dolarů od Amazonu a použití jeho AI čipů",
+      "description": "OpenAI je v raných jednáních s Amazonem o získání nejméně 10 miliard dolarů a přijetí Trainium AI čipů. Dohoda by mohla zvýšit valuaci OpenAI nad 500 miliard dolarů a pomoci Amazonu v konkurenci s Nvidia v oblasti AI hardware.",
+      "slug": "openai-in-talks-to-raise-at-least-10-billion-from-",
+      "publishedAt": "2025-12-17T03:12:38+00:00",
+      "date": "2025-12-17 03:12:38",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37872,resizemode-75,msid-126029712/tech/artificial-intelligence/openai-in-talks-to-raise-at-least-10-billion-from-amazon-and-use-its-ai-chips.jpg",
+      "url": "/tech-news/2025-12-17/openai-in-talks-to-raise-at-least-10-billion-from/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nadcházející krize s AI agenty: Proč je nový bezpečnostní standard od Okta nezbytností pro podniky",
+      "description": "Mezi prvními adoptéry jsou Google, Amazon a Microsoft. Nový standard poskytne organizacím větší viditelnost a kontrolu nad přístupy externích aplikací, zejména AI agentů. Zde je vysvětleno, jak funguje.",
+      "slug": "the-coming-ai-agent-crisis-why-oktas-new-security-",
+      "publishedAt": "2025-12-17T03:00:51+00:00",
+      "date": "2025-12-17 03:00:51",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/757976b28e286c968a77546277a5b140b6368b9d/2025/12/16/068d5d76-2360-46d6-90c4-1f4073e4665b/digitalsecure555gettyimages-534034974.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-17/the-coming-ai-agent-crisis-why-oktas-new-security/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Okta",
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie MetaX vyskočily o 700 % při debutu na šanghajské burze díky čínskému tlaku na AI čipy",
+      "description": "Čínská společnost MetaX Integrated Circuits, výrobce grafických procesorů pro umělou inteligenci, zaznamenala při prvním obchodování na šanghajské burze růst akcií o 700 %. Tento úspěch je výsledkem vládní kampaně za snížení závislosti na amerických čipech od firem Nvidia a AMD.",
+      "slug": "metax-soars-700-in-debut-as-china-ai-chips-push-lu",
+      "publishedAt": "2025-12-17T02:19:11+00:00",
+      "date": "2025-12-17 02:19:11",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/31a670f1b4f9eeb6d6040fd6e99d7025",
+      "url": "/tech-news/2025-12-17/metax-soars-700-in-debut-as-china-ai-chips-push-lu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "MetaX"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI najímá bývalého šéfa britského ministerstva financí k vedení iniciativy ‚OpenAI pro země‘",
+      "description": "OpenAI najalo bývalého šéfa britského ministerstva financí George Osborne, aby vedl práci společnosti s vládami. Osborne nastoupí jako ‚Head of OpenAI for Countries‘ a zaměří se na pomoc při integraci AI do ekonomických strategií a služeb jako zdravotnictví či vzdělávání.",
+      "slug": "openai-hires-former-uk-treasury-chief-to-lead-open",
+      "publishedAt": "2025-12-17T01:39:37+00:00",
+      "date": "2025-12-17 01:39:37",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/OpenAI-for-Countries1.jpg",
+      "url": "/tech-news/2025-12-17/openai-hires-former-uk-treasury-chief-to-lead-open/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "George Osborne"
+      ]
+    },
+    {
+      "title": "OpenAI spustilo nový model GPT Image 1.5 optimalizovaný pro úpravu obrázků",
+      "description": "Společnost OpenAI Group PBC dnes spustila GPT Image 1.5, nový model umělé inteligence určený pro generování a úpravu obrázků. Tento model přichází krátce po uvedení podobného nástroje Nano Banana Pro od Google a přináší vylepšení v rychlosti, přesnosti a ceně.",
+      "slug": "openai-launches-new-gpt-image-15-model-optimized-f",
+      "publishedAt": "2025-12-17T01:21:41+00:00",
+      "date": "2025-12-17 01:21:41",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/OpenAI.png",
+      "url": "/tech-news/2025-12-17/openai-launches-new-gpt-image-15-model-optimized-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Soudce rozhodl, že Tesla vedla klamavý marketing pro Autopilot a Full Self-Driving | TechCrunch",
+      "description": "Administrativní soudce rozhodla, že Tesla vedla klamavý marketing, který u zákazníků vytvářel mylný dojem o schopnostech systémů Autopilot a Full Self-Driving. Soudce schválila žádost kalifornského ministerstva motorových vozidel (DMV) o 30denním pozastavení výrobních a prodejních licencí společnosti v Kalifornii, ale DMV toto rozhodnutí odložilo o 90 dní pro umožnění souladu.",
+      "slug": "tesla-engaged-in-deceptive-marketing-for-autopilot",
+      "publishedAt": "2025-12-17T01:18:07+00:00",
+      "date": "2025-12-17 01:18:07",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1513214947.jpg?resize=1200,801",
+      "url": "/tech-news/2025-12-17/tesla-engaged-in-deceptive-marketing-for-autopilot/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr AMD se může stát miliardářem po IPO čínské čipové firmy za 5,9 miliardy dolarů",
+      "description": "Podle Bloomberg Billionaires Index má Chen Weiliang 55 milionů akcií v MetaX Integrated Circuits Shanghai Co., které mají hodnotu nejméně 5,8 miliardy juanů (824 milionů dolarů) při emisním ceně.",
+      "slug": "former-amd-engineer-may-become-a-billionaire-after",
+      "publishedAt": "2025-12-17T01:13:29+00:00",
+      "date": "2025-12-17 01:13:29",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/17/1600x900/logo/g497d50b907b49b4d5bbd04d210724923c7893f3b0b650730d_1765933829677_1765933829946.jpg",
+      "url": "/tech-news/2025-12-17/former-amd-engineer-may-become-a-billionaire-after/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": [
+        "Chen"
+      ]
+    },
+    {
+      "title": "Tesla čelí zákazu prodeje v Kalifornii, pokud nezmění marketing",
+      "description": "Prodeje Tesla v Kalifornii mohou být na 30 dní pozastaveny, pokud společnost nezmění marketingové praktiky, které údajně zavádějí spotřebitele ohledně technologie asistence řidiči Autopilot a Full Self-Driving, uvedlo kalifornské ministerstvo motorových vozidel.",
+      "slug": "tesla-faces-california-sales-halt-unless-it-change",
+      "publishedAt": "2025-12-17T00:58:56+00:00",
+      "date": "2025-12-17 00:58:56",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-17%2F34l4s0sx%2F446066382.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-17/tesla-faces-california-sales-halt-unless-it-change/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
     {
       "title": "RailTel plánuje partnerství se Starlinkem Elona Muska. Proč to může být výhodné pro obě strany",
       "description": "Státní indická společnost RailTel jedná o využití satelitního internetu Starlink jako backhaulu pro poskytování broadbandového přístupu v odlehlých oblastech prostřednictvím služby RailWire.",
@@ -3568,87 +3819,6 @@
       "people": []
     },
     {
-      "title": "OpenAI vydává GPT-5.2 po nouzovém 'code red' tlaku proti Google Gemini 3",
-      "description": "OpenAI reaguje na vydání modelu Gemini 3 od Google spuštěním GPT-5.2 s vylepšenými schopnostmi. Tento model slouží k pokročilejšímu zpracování textu, obrázků a kódu v aplikacích jako chatboti nebo automatizace úkolů.",
-      "slug": "openai-launches-gpt-52-after-code-red-push-to-coun",
-      "publishedAt": "2025-12-11T23:52:36+00:00",
-      "date": "2025-12-11 23:52:36",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-11/openai-launches-gpt-52-after-code-red-push-to-coun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI vydává GPT-5.2 s pokročilými matematickými schopnostmi",
-      "description": "Společnost OpenAI Group PBC dnes spustila GPT-5.2, svůj nejnovější velký jazykový model. Model je dostupný ve třech verzích: Instant, Thinking a Pro, přičemž vyšší edice dosahují rekordních výsledků v matematických úlohách.",
-      "slug": "openai-launches-gpt-52-with-cutting-edge-math-capa",
-      "publishedAt": "2025-12-11T23:12:18+00:00",
-      "date": "2025-12-11 23:12:18",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/52660764045_a9fd79f194_c-1-1-1-1.jpg",
-      "url": "/tech-news/2025-12-11/openai-launches-gpt-52-with-cutting-edge-math-capa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Je to docela zarážející",
-      "description": "Co znamená dohoda OpenAI s Disney pro Hollywood a budoucnost Sora v oboru: „Vypadá to, jako by Disney kapituloval,“ řekl prezident Animation Guild pro Vulture.",
-      "slug": "its-pretty-baffling",
-      "publishedAt": "2025-12-11T20:15:46+00:00",
-      "date": "2025-12-11 20:15:46",
-      "importance": 4,
-      "category": "filmový průmysl",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/dc0/d62/0f2662b0f2555fd4f0cdd6328162e20f8e-c3po-starwars.1x.rsocial.w1200.png",
-      "url": "/tech-news/2025-12-11/its-pretty-baffling/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Vulture"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI žalováno za vyvolání vraždy a sebevraždy",
-      "description": "Rodinný příslušník žaluje OpenAI za to, že ChatGPT posílil paranoidní bludy muže, který zavraždil svou 83letou matku a poté spáchal sebevraždu. Žaloba poukazuje na rizika funkcí jako sycofancie a paměť mezi konverzacemi v ChatGPT.",
-      "slug": "openai-sued-for-causing-murder-suicide",
-      "publishedAt": "2025-12-11T20:11:05+00:00",
-      "date": "2025-12-11 20:11:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/openai-sued-murder-suicide.jpg?w=1200",
-      "url": "/tech-news/2025-12-11/openai-sued-for-causing-murder-suicide/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Rivian odhaluje vlastní AI čip pro autonomní řízení, opouští Nvidia",
       "description": "Rivian Automotive vyvinul vlastní čip s umělou inteligencí, který nahradí technologii Nvidia v rámci rozšíření autonomních funkcí budoucích vozů. Čipy budou použity v připravovaném modelu R2 sportovního terénního vozu.",
       "slug": "rivian-unveils-ai-chip-for-automated-driving-ditch",
@@ -3739,47 +3909,6 @@
       ]
     },
     {
-      "title": "Přehled nového partnerství xAI s vládou El Salvadoru",
-      "description": "xAI a vláda El Salvadoru spustily první celostátní vzdělávací program poháněný umělou inteligencí. Model Grok bude nasazen v přes pěti tisících veřejných školách a poskytne personalizované tutorování pro více než milion studentů.",
-      "slug": "overview-of-the-new-xai-partnership-with-the-gover",
-      "publishedAt": "2025-12-11T16:08:43+00:00",
-      "date": "2025-12-11 16:08:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-11/overview-of-the-new-xai-partnership-with-the-gover/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta využije model Qwen od Alibaba k trénování svého dalšího modelu umělé inteligence",
-      "description": "Společnost Meta Platforms reviduje svou strategii v oblasti umělé inteligence a sahá po open-source modelu Qwen vyvinutém Alibaba. Tento krok znamená začlenění technologií od konkurenčních firem do vývoje vlastních modelů.",
-      "slug": "meta-turns-to-alibabas-qwen-to-train-its-next-ai-m",
-      "publishedAt": "2025-12-11T16:03:59+00:00",
-      "date": "2025-12-11 16:03:59",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://biztoc.com/cdn/9972e2af2775eab0_s.webp",
-      "url": "/tech-news/2025-12-11/meta-turns-to-alibabas-qwen-to-train-its-next-ai-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Meta",
-        "Alibaba"
-      ],
-      "people": []
-    },
-    {
       "title": "Time vyhlásil „Architekty umělé inteligence“ za osobnost roku 2025, rok kdy se plný potenciál technologie projevil naplno",
       "description": "Časopis Time jmenoval osm lídrů v oblasti umělé inteligence osobností roku 2025. Obálka představuje tyto postavy sedící na nosníku v odkazu na historickou fotografii z 30. let.",
       "slug": "time-names-architects-of-ai-as-its-2025-person-of-",
@@ -3851,70 +3980,6 @@
       ]
     },
     {
-      "title": "Nejnovější softwareová služba NVIDIA sleduje polohu GPU k boji proti pašování a pašerákům, nepotvrzuje „Kill Switch“",
-      "description": "NVIDIA zavádí novou softwareovou službu do svých datacenter AI GPU, která sleduje polohu čipů v reálném čase bez jakýchkoli Kill Switchů. Služba umožňuje zákazníkům monitorovat celou flotilu GPU a bojuje proti nelegálnímu pašování do zakázaných regionů jako Čína.",
-      "slug": "nvidias-latest-software-service-tracks-gpu-locatio",
-      "publishedAt": "2025-12-11T12:10:13+00:00",
-      "date": "2025-12-11 12:10:13",
-      "importance": 4,
-      "category": "sledování polohy",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/im-47125939.jpg",
-      "url": "/tech-news/2025-12-11/nvidias-latest-software-service-tracks-gpu-locatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Harness získal 240 milionů dolarů na vedení AI-poháněného DevOps mimo editor kódu",
-      "description": "Společnost Harness Inc., startup specializující se na integraci umělé inteligence do procesů DevOps, oznámila získání 240 milionů dolarů v investičním kole série E. Kole, vedené Goldman Sachs, hodnotí firmu na 5,5 miliardy dolarů a zaměřuje se na AI nástroje pro testování, nasazení a bezpečnost softwaru.",
-      "slug": "harness-raises-240m-to-lead-ai-powered-devops-beyo",
-      "publishedAt": "2025-12-11T12:00:37+00:00",
-      "date": "2025-12-11 12:00:37",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/05/A-pair-of-robot-hands-typing-on-a-keyboard-in-front-of-a-screen-that-is-filling-up-with-documents-ab.jpeg",
-      "url": "/tech-news/2025-12-11/harness-raises-240m-to-lead-ai-powered-devops-beyo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Harness Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Goldman Sachs vede investici do startupu Harness na software pro doručování při valuaci 5,5 miliardy dolarů",
-      "description": "Startup Harness získal 200 milionů dolarů v investičním kole vedeném Goldman Sachs při valuaci 5,5 miliardy dolarů. Jeho generální ředitel Jyoti Bansal, který dříve prodal AppDynamics firmě Cisco za 3,7 miliardy, plánuje v budoucnu zavést Harness na burzu.",
-      "slug": "goldman-sachs-leads-investment-in-software-deliver",
-      "publishedAt": "2025-12-11T12:00:01+00:00",
-      "date": "2025-12-11 12:00:01",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240323-1765408077312-Handout_Harness_Jyoti_Bansal.jpg?v=1765409995&w=1920&h=1080",
-      "url": "/tech-news/2025-12-11/goldman-sachs-leads-investment-in-software-deliver/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Harness",
-        "AppDynamics",
-        "Cisco"
-      ],
-      "people": [
-        "Jyoti Bansal"
-      ]
-    },
-    {
       "title": "Trumpův zákaz regulace umělé inteligence ohrožuje národní bezpečnost",
       "description": "Spojené státy by neměly nechat lobbisty přesvědčit k tomu, aby se vzdaly ochrany své budoucnosti.",
       "slug": "trumps-ai-regulation-ban-is-a-threat-to-national-s",
@@ -3933,53 +3998,6 @@
       "people": [
         "Trump"
       ]
-    },
-    {
-      "title": "Microsoft posiluje angažovanost v Indii partnerstvími v AI a 200 000 licencemi Copilot u předních IT firem",
-      "description": "Společně nasadí TCS, Infosys, Wipro a Cognizant přes 200 000 licencí Microsoft Copilot, čímž transformují pracovní postupy v oblastech finance, lidských zdrojů, prodeje, dodávek a interakce se zákazníky. Tento krok navazuje na plánovanou investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii.",
-      "slug": "microsoft-deepens-india-bet-with-ai-tie-ups-and-20",
-      "publishedAt": "2025-12-11T07:11:35+00:00",
-      "date": "2025-12-11 07:11:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ostkx7/article70383629.ece/alternates/LANDSCAPE_1200/IMG_image_2_1_BIF9LNND.jpg",
-      "url": "/tech-news/2025-12-11/microsoft-deepens-india-bet-with-ai-tie-ups-and-20/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Microsoft",
-        "TCS",
-        "Infosys",
-        "Wipro",
-        "Cognizant"
-      ],
-      "people": []
-    },
-    {
-      "title": "Generální prokurátoři USA varovali Microsoft, Meta, Google a Apple kvůli výstupům chatbotů",
-      "description": "Státní generální prokurátoři varovali velké technologické firmy, že „deluzivní“ výstupy chatbotů mohou porušovat státní zákony a ohrožovat duševní zdraví uživatelů. Vyzvali k nezávislým auditům a silnějšímu dohledu po případech zranitelných uživatelů, což prohlubuje napětí mezi státy a federální vládou v otázce regulace umělé inteligence.",
-      "slug": "microsoft-meta-google-and-apple-warned-over-ai-out",
-      "publishedAt": "2025-12-11T04:16:05+00:00",
-      "date": "2025-12-11 04:16:05",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-24128,resizemode-75,msid-125902453/tech/artificial-intelligence/microsoft-meta-google-and-apple-warned-over-ai-outputs-by-us-attorneys-general.jpg",
-      "url": "/tech-news/2025-12-11/microsoft-meta-google-and-apple-warned-over-ai-out/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Microsoft",
-        "Meta",
-        "Google",
-        "Apple"
-      ],
-      "people": []
     },
     {
       "title": "Sam Altman varuje před explozivním růstem ChatGPT: Rychlost změn vyvolává úzkost z AI a obavy o pracovní místa",
@@ -4046,26 +4064,6 @@
       "people": [
         "Satya Nadella"
       ]
-    },
-    {
-      "title": "Google DeepMind uzavřel rozsáhlé partnerství s britskou vládou zaměřené na vědu a čistou energii",
-      "description": "Spolupráce zahrnuje robotickou laboratoř pro nové materiály, fúzní energii a společný výzkum bezpečnosti AI i společenských dopadů umělé inteligence.",
-      "slug": "google-deepmind-agrees-to-sweeping-partnership-wit",
-      "publishedAt": "2025-12-11T00:01:00+00:00",
-      "date": "2025-12-11 00:01:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217672931-e1765404847213.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-11/google-deepmind-agrees-to-sweeping-partnership-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Google DeepMind"
-      ],
-      "people": []
     }
   ]
 }
