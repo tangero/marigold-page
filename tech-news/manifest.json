@@ -1,7 +1,149 @@
 {
-  "generated": "2025-12-18T08:51:41.832307+00:00",
+  "generated": "2025-12-18T12:57:07.537353+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Intel instaloval první komerční lithografický nástroj High-NA EUV v oboru — ASML Twinscan EXE:5200B připravuje půdu pro 14A",
+      "description": "Intel instaloval a kvalifikoval TWINSCAN EXE:5200B od ASML, první lithografický nástroj High-NA EUV určený pro komerční výrobu čipů, což potvrzuje plány na použití High-NA EUV pro technologii 14A a následné uzly.",
+      "slug": "intel-installs-industrys-first-commercial-high-na-",
+      "publishedAt": "2025-12-17T12:25:00+00:00",
+      "date": "2025-12-17 12:25:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg",
+      "url": "/tech-news/2025-12-17/intel-installs-industrys-first-commercial-high-na/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Intel",
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akamai a Visa spolupracují na budování důvěry v agentickém obchodu",
+      "description": "Visa integruje svůj Trusted Agent Protocol s technologiemi Akamai pro autentizaci AI nákupních agentů a prevenci podvodů na platformě Akamai Cloud. Tato spolupráce posiluje bezpečnostní vrstvu v rostoucím sektoru agentického obchodu.",
+      "slug": "akamai-and-visa-collaborate-to-build-trust-in-agen",
+      "publishedAt": "2025-12-17T12:05:53+00:00",
+      "date": "2025-12-17 12:05:53",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-17/akamai-and-visa-collaborate-to-build-trust-in-agen/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Akamai",
+        "Visa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Visa a Akamai spolupracují na řešení problémů s identitou v agentické komerci",
+      "description": "Visa a společnost Akamai Technologies, zaměřená na kyberbezpečnost a cloudové výpočty, společně posilují důvěru v agentickou komerci. Integrují protokol Trusted Agent Protocol od Visa s hraniční behaviorální inteligencí, rozpoznáváním uživatelů a ochranou proti botům a zneužití od Akamai.",
+      "slug": "visa-and-akamai-collaborate-to-solve-identity-chal",
+      "publishedAt": "2025-12-17T12:00:48+00:00",
+      "date": "2025-12-17 12:00:48",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Akamai-Visa.png",
+      "url": "/tech-news/2025-12-17/visa-and-akamai-collaborate-to-solve-identity-chal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Visa",
+        "Akamai Technologies"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple letos v umělé inteligenci ustoupil. Příští rok bude rozhodující",
+      "description": "Apple odložil velký upgrade hlasového asistenta Siri na rok 2026. Společnost čelí rostoucímu tlaku investorů a konkurence, aby prokázala svou strategii v oblasti umělé inteligence.",
+      "slug": "apple-punted-on-ai-this-year-next-year-will-be-cri",
+      "publishedAt": "2025-12-17T12:00:01+00:00",
+      "date": "2025-12-17 12:00:01",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157147-1749563655320-gettyimages-2218818281-APPLE_WWDC.jpeg?v=1765921860&w=1920&h=1080",
+      "url": "/tech-news/2025-12-17/apple-punted-on-ai-this-year-next-year-will-be-cri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon zvažuje investici 10 miliard dolarů a dohodu o čipech s OpenAI",
+      "description": "Amazon prý rokuje o investici přibližně 10 miliard dolarů do OpenAI, což by mohlo firmu ocenit na více než 500 miliard dolarů. Jednání zahrnují také využití čipů Trainium od Amazonu a prodej podnikové verze ChatGPT.",
+      "slug": "amazon-eyes-10-billion-investment-and-chip-deal-in",
+      "publishedAt": "2025-12-17T11:55:33+00:00",
+      "date": "2025-12-17 11:55:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/openai-amazon-web-services-aws-cloud-computing-infrastructure.jpg?w=457",
+      "url": "/tech-news/2025-12-17/amazon-eyes-10-billion-investment-and-chip-deal-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla zaváděla zákazníky ohledně funkcí autonomního řízení, rozhodl soudce",
+      "description": "Kalifornské ministerstvo motorových vozidel varovalo Teslu, že by mohlo být dočasně zakázáno prodávat vozy v největším americkém trhu, pokud nezmění zavádějící marketing přehánějící schopnosti autonomního řízení svých aut.",
+      "slug": "tesla-misled-customers-about-self-driving-features",
+      "publishedAt": "2025-12-17T11:48:33+00:00",
+      "date": "2025-12-17 11:48:33",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-12-17/tesla-misled-customers-about-self-driving-features/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína využívá výzkum financovaný USA v jaderné technologii, uvádí kongresová zpráva",
+      "description": "Kongresová zpráva tvrdí, že Čína využívá partnerství s americkými výzkumníky financovanými Ministerstvem energetiky USA k poskytnutí čínské armádě přístupu k citlivé jaderné technologii a dalším inovacím s ekonomickými a národně bezpečnostními aplikacemi.",
+      "slug": "china-exploits-us-funded-research-on-nuclear-techn",
+      "publishedAt": "2025-12-17T11:44:13+00:00",
+      "date": "2025-12-17 11:44:13",
+      "importance": 4,
+      "category": "jaderná technologie",
+      "urlToImage": "https://i.abcnewsfe.com/a/4205a198-db51-41ef-9fd0-37d37447d2e2/wirestory_470549567520c89c04be1b30b218fe33_16x9.jpg?w=1600",
+      "url": "/tech-news/2025-12-17/china-exploits-us-funded-research-on-nuclear-techn/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Vládě podporuje vlastní adopci AI investicí 225 milionů dolarů",
       "description": "Australská federální vláda investuje 225 milionů dolarů do umělé inteligence pro vlastní použití v celé státní správě. Financování půjde především na rozšíření služby GovAI a související tréninkové programy.",
@@ -3876,145 +4018,6 @@
       "people": []
     },
     {
-      "title": "SpaceX potvrdilo IPO v roce 2026 pro financování vesmírných AI datových center",
-      "description": "Elon Musk osobně potvrdil, že SpaceX vyjde na burzu v roce 2026. Společnost plánuje získat kapitál v řádu 1,5 až 2 bilionů dolarů na výstavbu AI datových center ve vesmíru, na Měsíci a Marsu.",
-      "slug": "shocking-worldchanging-breakthrough-bigger-than-te",
-      "publishedAt": "2025-12-11T19:53:11+00:00",
-      "date": "2025-12-11 19:53:11",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-11-at-11.48.40-AM.jpg",
-      "url": "/tech-news/2025-12-11/shocking-worldchanging-breakthrough-bigger-than-te/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "TIME jmenuje 'Architekty AI' osobou roku 2025",
-      "description": "Časopis TIME vyhlásil Jensen Huanga z Nvidia, Sam Altmana z OpenAI, Elona Muska, Marka Zuckerberga a další lídry technologického průmyslu jako kolektivní osobu roku 2025 pod názvem 'Architekti AI'. Toto ocenění zdůrazňuje dominanci umělé inteligence v roce 2025 a její dopady na ekonomiku, společnost i geopolitiku.",
-      "slug": "time-names-the-architects-of-ai-as-2025-person-of-",
-      "publishedAt": "2025-12-11T16:13:48+00:00",
-      "date": "2025-12-11 16:13:48",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Nvidia-boss-Jensen-Huang-holds-up-an-AI-chip-640x335.jpg",
-      "url": "/tech-news/2025-12-11/time-names-the-architects-of-ai-as-2025-person-of/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Nvidia",
-        "OpenAI"
-      ],
-      "people": [
-        "Jensen Huang",
-        "Mark Zuckerberg",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Time vyhlásil „Architekty umělé inteligence“ za osobnost roku 2025, rok kdy se plný potenciál technologie projevil naplno",
-      "description": "Časopis Time jmenoval osm lídrů v oblasti umělé inteligence osobností roku 2025. Obálka představuje tyto postavy sedící na nosníku v odkazu na historickou fotografii z 30. let.",
-      "slug": "time-names-architects-of-ai-as-its-2025-person-of-",
-      "publishedAt": "2025-12-11T16:03:52+00:00",
-      "date": "2025-12-11 16:03:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25345473981322-e1765467177841.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-11/time-names-architects-of-ai-as-its-2025-person-of/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Mark Zuckerberg",
-        "Fei-Fei Li"
-      ]
-    },
-    {
-      "title": "Časopis Time jmenuje 'Architekty AI' Osobností roku",
-      "description": "Časopis Time vyhlásil 'Architekty AI' za Osobnost roku, čímž vyzdvihl americké technologické lídry, jejichž práce na pokročilé umělé inteligenci mění svět. Mezi nimi jsou Jensen Huang z Nvidia, Sam Altman z OpenAI a Elon Musk z xAI.",
-      "slug": "time-magazine-names-architects-of-ai-as-person-of-",
-      "publishedAt": "2025-12-11T16:02:32+00:00",
-      "date": "2025-12-11 16:02:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-11/time-magazine-names-architects-of-ai-as-person-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "Nvidia",
-        "OpenAI",
-        "xAI"
-      ],
-      "people": [
-        "Jensen Huang",
-        "Sam Altman",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Wall Street je optimistický ohledně Uber Technologies (UBER), zde je důvod",
-      "description": "Uber Technologies (NYSE: UBER) patří mezi levné akcie NYSE k nákupu. Dne 8. prosince analytik Brian Nowak z Morgan Stanley potvrdil doporučení Koupit a snížil cílovou cenu z 115 na 110 dolarů, zatímco Mark Mahaney z Evercore ISI udržel doporučení Koupit s cílovou cenou 150 dolarů.",
-      "slug": "wall-street-bullish-on-uber-technologies-uber-here",
-      "publishedAt": "2025-12-11T12:33:04+00:00",
-      "date": "2025-12-11 12:33:04",
-      "importance": 4,
-      "category": "sdílená ekonomika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjtvmBhItrilu8Ag7qjwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
-      "url": "/tech-news/2025-12-11/wall-street-bullish-on-uber-technologies-uber-here/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Uber Technologies"
-      ],
-      "people": [
-        "Brian Nowak"
-      ]
-    },
-    {
-      "title": "Trumpův zákaz regulace umělé inteligence ohrožuje národní bezpečnost",
-      "description": "Spojené státy by neměly nechat lobbisty přesvědčit k tomu, aby se vzdaly ochrany své budoucnosti.",
-      "slug": "trumps-ai-regulation-ban-is-a-threat-to-national-s",
-      "publishedAt": "2025-12-11T12:00:00+00:00",
-      "date": "2025-12-11 12:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/lo-Md-a_NnYwIcm4M5XNPAkWjmY=/0x61:2876x1559/1200x625/media/img/mt/2025/12/2025_12_09_ai_crisis_1/original.jpg",
-      "url": "/tech-news/2025-12-11/trumps-ai-regulation-ban-is-a-threat-to-national-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
       "title": "Redaktoři WSJ zuří: Trump vyměňuje národní bezpečnost za 'grosze na dolar'",
       "description": "Prezident Donald Trump čelí ostré kritice od konzervativní redakce Wall Street Journal za schválení prodeje pokročilých počítačových čipů firmy Nvidia do Číny. USA mají získat 25 procent zisku z těchto prodejů, což kritici označují za nedostatečnou kompenzaci za rizika pro národní bezpečnost.",
       "slug": "wsj-editors-rage-as-trump-trades-away-national-sec",
@@ -4034,28 +4037,6 @@
       ],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Počet tokenů na rupii na watt bude korelovat s růstem HDP: Satya Nadella",
-      "description": "Generální ředitel Microsoftu Satya Nadella potvrdil, že nástroj Copilot zpracovává všechna lokální data výhradně na domácím území. Představil vzorec 'tokenů na rupii na watt' jako klíčový faktor růstu hrubého domácího produktu.",
-      "slug": "token-per-rupee-per-watt-to-correlate-with-gdp-gro",
-      "publishedAt": "2025-12-11T00:30:00+00:00",
-      "date": "2025-12-11 00:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-145998,resizemode-75,msid-125896459/tech/artificial-intelligence/token-per-rupee-per-watt-to-correlate-with-gdp-growth-satya-nadella.jpg",
-      "url": "/tech-news/2025-12-11/token-per-rupee-per-watt-to-correlate-with-gdp-gro/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Satya Nadella"
       ]
     }
   ]
