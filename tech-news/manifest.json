@@ -1,7 +1,64 @@
 {
-  "generated": "2025-12-18T04:54:31.977790+00:00",
+  "generated": "2025-12-18T08:51:41.832307+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Vládě podporuje vlastní adopci AI investicí 225 milionů dolarů",
+      "description": "Australská federální vláda investuje 225 milionů dolarů do umělé inteligence pro vlastní použití v celé státní správě. Financování půjde především na rozšíření služby GovAI a související tréninkové programy.",
+      "slug": "gov-backs-its-own-ai-adoption-with-225m",
+      "publishedAt": "2025-12-17T08:08:14+00:00",
+      "date": "2025-12-17 08:08:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.nextmedia.com.au/News/crn-690_brain_deep_learning_artificial_intelligence_iStock-916414870.jpg",
+      "url": "/tech-news/2025-12-17/gov-backs-its-own-ai-adoption-with-225m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kapacita TSMC pro 2nm je údajně rezervována do konce roku 2026, průlom v architektuře GAA přitahuje zákazníky",
+      "description": "Taiwanský výrobce čipů TSMC má plně obsazenou kapacitu pro 2nm proces až do konce roku 2026 díky přechodu na Gate All-Around (GAA) architekturu, která zlepšuje výkon a energetickou účinnost oproti předchozímu FinFET. Klienti jako Apple s čipy A20 a A20 Pro vedou poptávku, což nutí TSMC rozšiřovat výrobu.",
+      "slug": "tsmcs-2nm-capacity-is-reportedly-booked-until-the-",
+      "publishedAt": "2025-12-17T07:13:52+00:00",
+      "date": "2025-12-17 07:13:52",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/TSMC-1.4nm.jpg",
+      "url": "/tech-news/2025-12-17/tsmcs-2nm-capacity-is-reportedly-booked-until-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "TSMC",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Závod britských bank v agentic AI přináší regulátorovi nová rizika",
+      "description": "Britský finanční dohled varuje maloobchodní zákazníky před riziky spojenými s agentic AI, které dokáže činit autonomní rozhodnutí. Banky jako NatWest a Lloyds připravují testy této technologie pro zákazníky na začátku příštího roku, přičemž FCA slibuje prioritu zájmům spotřebitelů.",
+      "slug": "agentic-ai-race-by-british-banks-raises-new-risks-",
+      "publishedAt": "2025-12-17T06:22:10+00:00",
+      "date": "2025-12-17 06:22:10",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29324,resizemode-75,msid-126032358/tech/artificial-intelligence/agentic-ai-race-by-british-banks-raises-new-risks-for-regulator.jpg",
+      "url": "/tech-news/2025-12-17/agentic-ai-race-by-british-banks-raises-new-risks/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "OpenAI jedná o získání nejméně 12,9 miliardy dolarů od Amazonu a použití jeho AI čipů",
       "description": "OpenAI vede počáteční rozhovory o investici nejméně 10 miliard USD od Amazonu, což by mohlo zvýšit jeho valuaci nad 500 miliard USD. Firma by přitom začala používat Amazonovy čipy Trainium pro trénink AI modelů.",
@@ -3819,48 +3876,6 @@
       "people": []
     },
     {
-      "title": "Rivian odhaluje vlastní AI čip pro autonomní řízení, opouští Nvidia",
-      "description": "Rivian Automotive vyvinul vlastní čip s umělou inteligencí, který nahradí technologii Nvidia v rámci rozšíření autonomních funkcí budoucích vozů. Čipy budou použity v připravovaném modelu R2 sportovního terénního vozu.",
-      "slug": "rivian-unveils-ai-chip-for-automated-driving-ditch",
-      "publishedAt": "2025-12-11T20:09:02+00:00",
-      "date": "2025-12-11 20:09:02",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://biztoc.com/cdn/5719bc5c18e96243_s.webp",
-      "url": "/tech-news/2025-12-11/rivian-unveils-ai-chip-for-automated-driving-ditch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Rivian",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rivian spouští konkurenční řešení k Tesla FSD nazvané Autonomy+ za poloviční cenu s vlastním AI čipem a LiDARem",
-      "description": "Rivianovo řešení k Tesla FSD bude stát jen 49,99 USD měsíčně při vydání příští čtvrtletí a přinese funkce jako rozšířené hands-free řízení i na starším hardwaru. V roce 2026 přijde nový hardware kit s vlastním AI čipem, LiDARem a dalším.",
-      "slug": "rivian-launches-tesla-fsd-competitor-autonomy-at-h",
-      "publishedAt": "2025-12-11T20:07:00+00:00",
-      "date": "2025-12-11 20:07:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rivian-R2-RAP1-chip.jpg",
-      "url": "/tech-news/2025-12-11/rivian-launches-tesla-fsd-competitor-autonomy-at-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [
-        "Rivian",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "SpaceX potvrdilo IPO v roce 2026 pro financování vesmírných AI datových center",
       "description": "Elon Musk osobně potvrdil, že SpaceX vyjde na burzu v roce 2026. Společnost plánuje získat kapitál v řádu 1,5 až 2 bilionů dolarů na výstavbu AI datových center ve vesmíru, na Měsíci a Marsu.",
       "slug": "shocking-worldchanging-breakthrough-bigger-than-te",
@@ -3997,28 +4012,6 @@
       "companies": [],
       "people": [
         "Trump"
-      ]
-    },
-    {
-      "title": "Sam Altman varuje před explozivním růstem ChatGPT: Rychlost změn vyvolává úzkost z AI a obavy o pracovní místa",
-      "description": "Generální ředitel OpenAI Sam Altman upozornil, že svět se sotva stačí přizpůsobovat rychlosti vývoje umělé inteligence, protože ChatGPT se šíří globálně rychleji než jakákoli jiná technologie v moderní historii.",
-      "slug": "sam-altman-sounds-alarm-as-chatgpt-explodes-global",
-      "publishedAt": "2025-12-11T02:31:19+00:00",
-      "date": "2025-12-11 02:31:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.zenfs.com/en/benzinga_79/48102161b68090dfa8f579e9ba30845b",
-      "url": "/tech-news/2025-12-11/sam-altman-sounds-alarm-as-chatgpt-explodes-global/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
       ]
     },
     {
