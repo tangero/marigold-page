@@ -1,7 +1,129 @@
 {
-  "generated": "2025-12-19T01:24:16.352031+00:00",
+  "generated": "2025-12-19T04:54:06.872142+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Micron očekává prudký růst tržeb díky vysoké poptávce po pamětech pro AI",
+      "description": "Micron Technology zveřejnil výsledky za fiskální první čtvrtletí, které překonaly očekávání analytiků Wall Street v oblasti tržeb a zisku na akcii, a poskytl silnou prognózu pro aktuální čtvrtletí. Akcie společnosti vzrostly o více než 7 % v prodlouženém obchodování.",
+      "slug": "micron-forecasts-surging-revenue-as-computer-memor",
+      "publishedAt": "2025-12-18T02:00:40+00:00",
+      "date": "2025-12-18 02:00:40",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://biztoc.com/cdn/834e16b273f1e381_s.webp",
+      "url": "/tech-news/2025-12-18/micron-forecasts-surging-revenue-as-computer-memor/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Oracle vyděsil akciový trh poté, co klíčový partner odmítl financovat 10miliardový projekt datového centra v Michiganu",
+      "description": "Akcie Oracle klesly během dne o více než 4 % po zprávě Financial Times, že finanční partner Blue Owl Capital odmítl financovat stavbu datového centra za 10 miliard dolarů v Michiganu. Firma Oracle prohlásila, že projekt zůstává na plánu s náhradním partnerem.",
+      "slug": "oracle-spooks-the-stock-market-after-key-partner-r",
+      "publishedAt": "2025-12-18T01:49:31+00:00",
+      "date": "2025-12-18 01:49:31",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-18-08-49-03.png",
+      "url": "/tech-news/2025-12-18/oracle-spooks-the-stock-market-after-key-partner-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA považují Indii za 'vysoce strategického partnera' pro AI a bezpečnost dodavatelských řetězců, řekl americký úředník",
+      "description": "Spojené státy vidí Indii jako klíčového partnera pro zajištění globálních dodavatelských řetězců umělé inteligence a polovodičů, uvedl vysoký americký úředník a odmítl spekulace, že politická napětí brání Indii v účasti na nedávném summitu ve Washingtonu.",
+      "slug": "us-views-india-as-highly-strategic-partner-for-ai-",
+      "publishedAt": "2025-12-18T01:15:19+00:00",
+      "date": "2025-12-18 01:15:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126048456,width-1200,height-630,imgsize-23284,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-18/us-views-india-as-highly-strategic-partner-for-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Startup Mythic na čipy s výpočtem v paměti získal investice za 125 milionů dolarů",
+      "description": "Společnost Mythic Inc., která vyvíjí analogové zpracovací jednotky pro umělou inteligenci, uzavřela kolo investic ve výši 125 milionů dolarů vedené fondem DCVC. Investice zvyšuje celkový objem financování firmy na více než 175 milionů dolarů, mezi investory jsou NEA, Softbank KR a Honda Motor Co.",
+      "slug": "compute-in-memory-chip-startup-mythic-raises-125m-",
+      "publishedAt": "2025-12-18T01:09:41+00:00",
+      "date": "2025-12-18 01:09:41",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Mythic.png",
+      "url": "/tech-news/2025-12-18/compute-in-memory-chip-startup-mythic-raises-125m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Mythic"
+      ],
+      "people": []
+    },
+    {
+      "title": "IPO společností MetaX a Moore Threads podtrhuje rostoucí výzvu čínských výrobců čipů pro Nvidia",
+      "description": "Noví hráči jako MetaX a Moore Threads se připojují k technologickým gigantům Huawei, Baidu a Alibaba v úsilí vyvinout alternativy k čipům Nvidia. Akcie těchto firem výrazně vzrostly při svém debutu na burze v Šanghaji.",
+      "slug": "metax-and-moore-threads-ipos-underscore-chinese-ch",
+      "publishedAt": "2025-12-18T01:00:02+00:00",
+      "date": "2025-12-18 01:00:02",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242991-1765986331211-gettyimages-2226429092-tang-notitle250726_npyzD.jpeg?v=1765986576&w=1920&h=1080",
+      "url": "/tech-news/2025-12-18/metax-and-moore-threads-ipos-underscore-chinese-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "MetaX",
+        "Moore Threads",
+        "Nvidia",
+        "Huawei",
+        "Baidu"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple oznámil rozsáhlé změny v App Store a iPhone v Japonsku",
+      "description": "Kvůli souladu se Zákonem o konkurenci mobilního softwaru (MSCA) Apple zavádí významné změny v App Store a na zařízeních iPhone v Japonsku. Změny přinášejí vývojářům nové možnosti distribuce aplikací a pravidla pro alternativní platební systémy v App Store.",
+      "slug": "apple-announces-sweeping-app-store-and-iphone-chan",
+      "publishedAt": "2025-12-18T01:00:00+00:00",
+      "date": "2025-12-18 01:00:00",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/app-store-japan-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-12-18/apple-announces-sweeping-app-store-and-iphone-chan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Micron zvyšuje kapitálové výdaje na fiskální rok 2026 na 20 miliard USD pro urychlení HBM a výroby v USA",
       "description": "Micron Technology navyšuje kapitálové výdaje na fiskální rok 2026 na přibližně 20 miliard USD, aby řešila nedostatek pamětí. Investice se zaměří na vysokopásmovou paměť HBM a pokročilé uzly DRAM v reakci na rostoucí poptávku poháněnou AI.",
@@ -3584,28 +3706,6 @@
       "people": []
     },
     {
-      "title": "Další štěkoty a kousnutí pro pátek 12. prosince: Disney uzavírá licenční dohodu na postavy s OpenAI; USPTO podporuje práva veřejného vystoupení na rádiu podle zákona o autorském právu; a Obecní soud EU snižuje pokutu Intelu o 140 milionů eur",
-      "description": "Tento týden v Dalších štěkotáních a kousnutích: Obecní soud EU snižuje pokutu uloženou Intelu za protisoutěžní chování na trhu mikroprocesorů o 140 milionů eur; Disney podepisuje významnou licenční dohodu na postavy s OpenAI a zároveň varuje Google před porušováním autorských práv pomocí svých AI platforem.",
-      "slug": "other-barks-bites-for-friday-december-12-disney-cu",
-      "publishedAt": "2025-12-12T19:15:02+00:00",
-      "date": "2025-12-12 19:15:02",
-      "importance": 4,
-      "category": "duševní vlastnictví",
-      "urlToImage": "https://ipwatchdog.com/wp-content/uploads/2025/12/Da%20Papst%20pup.jpeg",
-      "url": "/tech-news/2025-12-12/other-barks-bites-for-friday-december-12-disney-cu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "IPWatchdog.com"
-      },
-      "companies": [
-        "OpenAI",
-        "Intel",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Výrobce robota Neo za 20 tisíc dolarů má dohodu na 10 000 humanoidních robotů",
       "description": "Společnost 1X uzavřela s investiční firmou EQT dohodu na nasazení až 10 000 robotů Neo v průmyslových oblastech jako výroba, provoz zařízení a zdravotnictví. Roboti mají spolupracovat s lidmi a piloti startují v USA v roce 2026.",
       "slug": "the-maker-of-the-20k-neo-robot-has-a-deal-for-1000",
@@ -3622,31 +3722,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Nové podklady odhalují, o čem skutečně jde Elonovi Muskovi v žalobě proti Apple a OpenAI",
-      "description": "Žaloba xAI obviňující Apple a OpenAI z protisoutěžních praktik má méně společného s viditelností Grok v App Store a více s Muskovo posedlostí od doby akvizice Twitteru. Zde jsou klíčové detaily.",
-      "slug": "new-filings-reveal-what-elon-musks-lawsuit-against",
-      "publishedAt": "2025-12-12T19:03:36+00:00",
-      "date": "2025-12-12 19:03:36",
-      "importance": 4,
-      "category": "soutěžní právo",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Apple-asks-judge-to-dismiss-absurd-AI-claim-by-Elon-Musk.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-12/new-filings-reveal-what-elon-musks-lawsuit-against/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "OpenAI",
-        "xAI",
-        "Twitter"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Šéf AI v Bílém domě obhajuje Trumpovo omezení státních regulací umělé inteligence",
@@ -3917,46 +3992,6 @@
       ]
     },
     {
-      "title": "Rivian odhaluje nový AI čip, střešní lidar dorazí do R2 EV v roce 2026",
-      "description": "Rivian popisuje plány na zavádění pokročilejších AI funkcí a hands-free autonomního řízení pro majitele současných i budoucích modelů R1 a R2 elektrických vozidel.",
-      "slug": "rivian-reveals-new-ai-chip-rooftop-lidar-coming-to",
-      "publishedAt": "2025-12-12T01:30:00+00:00",
-      "date": "2025-12-12 01:30:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.cnet.com/a/img/resize/2132ae20ae3edff566eafaa5605a221b9378e1d5/hub/2025/12/12/106fd4aa-0a39-46bb-be91-1018114714fd/r1-lidar-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-12/rivian-reveals-new-ai-chip-rooftop-lidar-coming-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Rivian"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI vydává GPT-5.2 v rámci rozšířených velkých kontraktů",
-      "description": "OpenAI představilo model GPT-5.2 s vylepšeními pro vědecké, matematické a programovací úkoly, zatímco zaměstnavatelé zvažují nasazení AI v technických rolích.",
-      "slug": "openai-launches-gpt-52-amid-expanded-major-contrac",
-      "publishedAt": "2025-12-12T01:20:57+00:00",
-      "date": "2025-12-12 01:20:57",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png",
-      "url": "/tech-news/2025-12-12/openai-launches-gpt-52-amid-expanded-major-contrac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump podepsal výkonný příkaz k blokování státních regulací umělé inteligence",
       "description": "Prezident Donald Trump podepsal výkonný příkaz, který brání jednotlivým státům USA v tvorbě vlastních pravidel pro umělou inteligenci. Cílem je zabránit fragmentaci regulací, která by podle něj ohrozila konkurenceschopnost USA vůči Číně.",
       "slug": "trump-signs-executive-order-to-block-state-ai-regu",
@@ -3994,47 +4029,6 @@
       "companies": [],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "OpenAI spustilo GPT-5.2 po 'code red' nouzovém úsilí proti Google Gemini 3 - Reuters",
-      "description": "OpenAI vydalo model GPT-5.2 po interním nouzovém stavu vyvolaném pokrokem Google v AI. Novinka je okamžitě dostupná v Microsoft 365 Copilot a reaguje na uzavření technologické mezery Gemini 3.",
-      "slug": "openai-launches-gpt-52-after-code-red-push-to-coun",
-      "publishedAt": "2025-12-12T00:12:42+00:00",
-      "date": "2025-12-12 00:12:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-12/openai-launches-gpt-52-after-code-red-push-to-coun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Posílené technologické vazby a mezinárodní dohody o AI pro modernizaci veřejných služeb a snížení nákladů pro Britá v závěru kanadské návštěvy ministra technologie",
-      "description": "Technologický ministr Ian Murray se vrací z nejnovějšího zasedání ministrů G7 v Kanadě s posílenými technologickými vazbami a novými dohodami v klíčových oblastech. Dohody se zaměřují na urychlení adopce umělé inteligence u malých a středních podniků a spolupráci v oblasti polovodičů.",
-      "slug": "stronger-tech-ties-and-international-agreements-on",
-      "publishedAt": "2025-12-12T00:01:02+00:00",
-      "date": "2025-12-12 00:01:02",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2025-12-12/stronger-tech-ties-and-international-agreements-on/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "companies": [],
-      "people": [
-        "Ian Murray"
       ]
     }
   ]
