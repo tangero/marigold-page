@@ -1,7 +1,197 @@
 {
-  "generated": "2025-12-19T08:50:33.845317+00:00",
+  "generated": "2025-12-19T12:52:41.443227+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Podnik Trumpa se sociálními médii se slučuje s firmou na jadernou fúzi | CNN Business",
+      "description": "Mateřská společnost Truth Social, Trump Media & Technology Group, oznámila dohodu o sloučení s firmou na jadernou fúzi TAE Technologies. Jedná se o transakci v hodnotě přes 6 miliard dolarů, která vytvoří jednu z prvních veřejně obchodovaných firem v tomto sektoru.",
+      "slug": "trumps-social-media-business-is-merging-with-a-nuc",
+      "publishedAt": "2025-12-18T12:12:23+00:00",
+      "date": "2025-12-18 12:12:23",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2112611443.jpg?c=16x9&q=w_800,c_fill",
+      "url": "/tech-news/2025-12-18/trumps-social-media-business-is-merging-with-a-nuc/",
+      "source": {
+        "emoji": "📰",
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "companies": [
+        "Trump Media & Technology Group",
+        "TAE Technologies"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Trump Media uzavírá dohodu o sloučení za 6 miliard dolarů s firmou na fúzní energie podporovanou Google",
+      "description": "Akcie Trump Media & Technology Group vzrostly o 37 procent po oznámení sloučení s TAE Technologies. Společnost slíbila výstavbu elektráren na bázi fúzní energie.",
+      "slug": "trump-media-agrees-6bn-merger-deal-with-google-bac",
+      "publishedAt": "2025-12-18T12:01:19+00:00",
+      "date": "2025-12-18 12:01:19",
+      "importance": 5,
+      "category": "fúzní energie",
+      "urlToImage": "https://biztoc.com/cdn/1684b01ef654db89_s.webp",
+      "url": "/tech-news/2025-12-18/trump-media-agrees-6bn-merger-deal-with-google-bac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Google",
+        "TAE Technologies",
+        "Trump Media & Technology Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co si Wall Street myslí o Uber Technologies (UBER)",
+      "description": "Uber Technologies (NYSE: UBER) patří mezi podhodnocené akcie s největším potenciálem růstu díky expanzi v autonomních vozidlech. Wall Street udržuje pozitivní sentiment díky partnerstvím a novým spuštěním služeb.",
+      "slug": "heres-what-wall-street-thinks-about-uber-technolog",
+      "publishedAt": "2025-12-18T12:01:00+00:00",
+      "date": "2025-12-18 12:01:00",
+      "importance": 4,
+      "category": "akcie",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjtvmBhItrilu8Ag7qjwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
+      "url": "/tech-news/2025-12-18/heres-what-wall-street-thinks-about-uber-technolog/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Uber Technologies"
+      ],
+      "people": []
+    },
+    {
+      "title": "Video prezentace rozebírá rostoucí dynamiku Starlinku před diskutovaným IPO v roce 2026",
+      "description": "James Altucher v on-camera prezentaci analyzuje satelitní síť Starlink od Elona Muska a její transformaci do globální komunikační infrastruktury. Zaměřuje se na klíčové milníky expanze a důvody rostoucího zájmu o veřejnou nabídku akcií v roce 2026.",
+      "slug": "video-presentation-breaks-down-starlinks-growing-m",
+      "publishedAt": "2025-12-18T12:00:00+00:00",
+      "date": "2025-12-18 12:00:00",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-18/video-presentation-breaks-down-starlinks-growing-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": [
+        "James Altucher",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Accenture překonala odhady tržeb za první čtvrtletí díky poptávce po službách AI",
+      "description": "Accenture překonala očekávání Wall Street pro tržby v prvním čtvrtletí díky silné poptávce po svých řešeních umělé inteligence, která pomáhají klientům integrovat tuto technologii pro zvýšení produktivity. Firma oznámila nové zakázky v hodnotě 21 miliard dolarů a uzavřela partnerství s Anthropic a OpenAI.",
+      "slug": "accenture-beats-quarterly-revenue-estimate",
+      "publishedAt": "2025-12-18T11:43:16+00:00",
+      "date": "2025-12-18 11:43:16",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--17QqXXEG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T114316Z_1_LYNXMPELBH0MB_RTROPTP_3_ACCENTURE-OPENAI-AI.JPG?itok=ez9KSWhC",
+      "url": "/tech-news/2025-12-18/accenture-beats-quarterly-revenue-estimate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Accenture"
+      ],
+      "people": []
+    },
+    {
+      "title": "Exploit React2Shell se šíří, Microsoft eviduje stovky hacknutých počítačů",
+      "description": "Bezpečnostní experti varují, že chyba React2Shell se využívá k nasazování ransomware na živých sítích, zatímco útoky narůstají na exponovaných serverech. Microsoft potvrdil kompromitaci stovek zařízení v různých organizacích.",
+      "slug": "react2shell-exploitation-spreads-as-microsoft-coun",
+      "publishedAt": "2025-12-18T11:42:39+00:00",
+      "date": "2025-12-18 11:42:39",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://regmedia.co.uk/2017/06/07/shutterestock_server_room.jpg",
+      "url": "/tech-news/2025-12-18/react2shell-exploitation-spreads-as-microsoft-coun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína prý reverse-engineerovala nástroj EUV lithografie v tajné laboratoři, tvrdí report — zaměstnanci dostali falešné ID, aby se projekt neprozradil, prototypy očekávány v 2028",
+      "description": "Čína údajně postavila a testuje tajný prototyp EUV lithografického systému s technologií laser-produced plasma ve stylu ASML. Systém generuje světlo o vlnové délce 13,5 nm, ale zatím nedokáže vyrábět čipy a je roky daleko od plné funkčnosti.",
+      "slug": "china-may-have-reverse-engineered-euv-lithography-",
+      "publishedAt": "2025-12-18T11:40:45+00:00",
+      "date": "2025-12-18 11:40:45",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PQuTVKz3fP2hiK4DF7jvVJ-1280-80.jpg",
+      "url": "/tech-news/2025-12-18/china-may-have-reverse-engineered-euv-lithography/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump Media vsází na fúzní energii s dohodou o TAE Technologies za 6 miliard USD",
+      "description": "Fúze za akcie má využít rostoucí poptávku po energii z datových center umělé inteligence, což posunulo akcie Trump Media o 35 procent nahoru po roce výrazných ztrát.",
+      "slug": "trump-media-bets-on-fusion-energy-with-us6-billion",
+      "publishedAt": "2025-12-18T11:37:00+00:00",
+      "date": "2025-12-18 11:37:00",
+      "importance": 5,
+      "category": "fúzní energie",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_4OJaY-Q--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T113737Z_2_LYNXMPELBH0M1_RTROPTP_3_USA-STOCKS-TRUMP.JPG?itok=sN9BpIdL",
+      "url": "/tech-news/2025-12-18/trump-media-bets-on-fusion-energy-with-us6-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Trump Media",
+        "TAE"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump Media se spojuje s firmou na fúzní energii TAE Technologies v dealu za 6 miliard dolarů",
+      "description": "Sociální síť amerického prezidenta Donalda Trumpa vstupuje do oblasti fúzní energie prostřednictvím fúze za 6 miliard dolarů s soukromou firmou TAE Technologies podporovanou Googlem. Tento krok přichází v době rostoucí poptávky po elektrické energii kvůli datovým centrům umělé inteligence.",
+      "slug": "trump-media-fusion-power-firm-tae-technologies-com",
+      "publishedAt": "2025-12-18T11:36:34+00:00",
+      "date": "2025-12-18 11:36:34",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/3b53832636060c2529a06593347d7a1c",
+      "url": "/tech-news/2025-12-18/trump-media-fusion-power-firm-tae-technologies-com/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Trump Media",
+        "TAE Technologies"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "Udemy a Coursera se sloučí v dohodě za 2,5 miliardy dolarů",
       "description": "Dvě přední platformy pro online vzdělávání, Coursera a Udemy, oznámily sloučení v transakci v hodnotě 2,5 miliardy dolarů, aby reagovaly na pokroky v generativní umělé inteligenci. Dohoda by měla být dokončena ve druhé polovině roku 2026.",
@@ -3801,28 +3991,6 @@
       ]
     },
     {
-      "title": "Trumpův bizarní vlastní gól v exportu čipů",
-      "description": "Zrušení exportních kontrol na druhý nejlepší čip Nvidia ohrožuje americkou výhodu v AI oproti Číně.",
-      "slug": "trumps-bizarre-chip-export-own-goal",
-      "publishedAt": "2025-12-12T18:58:00+00:00",
-      "date": "2025-12-12 18:58:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/H7XyC9SyQlF6fjQXMxgNNS4U2MI=/0x169:7923x4296/1200x625/media/img/mt/2025/12/2025_12_10_Trumps_Bizarre_Chip_Export_Own_Goal/original.png",
-      "url": "/tech-news/2025-12-12/trumps-bizarre-chip-export-own-goal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "Proč se SpaceX konečně chystá na vstup na burzu",
       "description": "Jako u mnoha věcí v okolí Elona Muska, hodně toho může souviset s umělou inteligencí.",
       "slug": "why-spacex-is-finally-gearing-up-to-go-public",
@@ -3863,166 +4031,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "Trump podepsal příkaz k překročení státních pravidel pro AI",
-      "description": "Prezident Trump ve čtvrtek podepsal výkonný příkaz, kterým odebírá státům velkou část pravomocí nad umělou inteligencí a dává generálnímu prokurátorovi pravomoc zpochybňovat státní zákony. Tento krok vyvolá právní a politický boj o regulaci rychle se rozvíjející technologie.",
-      "slug": "trump-signs-order-to-override-state-rules-on-ai",
-      "publishedAt": "2025-12-12T11:11:00+00:00",
-      "date": "2025-12-12 11:11:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1652127-12-20251212052257.jpeg",
-      "url": "/tech-news/2025-12-12/trump-signs-order-to-override-state-rules-on-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump podepsal příkaz k blokování státních regulací umělé inteligence",
-      "description": "Prezident Donald Trump podepsal exekutivní příkaz, který brání jednotlivým státům v USA zavádět vlastní pravidla pro umělou inteligenci, aby se zabránilo fragmentaci regulací v konkurenci s Čínou.",
-      "slug": "trump-signs-order-to-block-state-ai-regulations",
-      "publishedAt": "2025-12-12T08:00:56+00:00",
-      "date": "2025-12-12 08:00:56",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJ5R2DBZRPI52TO3UWISOO2UD4A.jpg?auth=2b010c4fe8b6b7465de8d7a6e945faee1c9ee50dd610227be6414773b40a2416&width=1200&height=630&smart=true",
-      "url": "/tech-news/2025-12-12/trump-signs-order-to-block-state-ai-regulations/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WSB Atlanta"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump podepsal příkaz k omezení státní regulace umělé inteligence",
-      "description": "Prezident Donald Trump podepsal výkonný příkaz, který má omezit regulaci AI na úrovni amerických států prostřednictvím soudních sporů a škrtů financí. Tento krok představuje výhru pro lídry technologického průmyslu, kteří prosazují federální přednost před lokálními pravidly.",
-      "slug": "trump-signs-order-seeking-to-limit-state-level-ai-",
-      "publishedAt": "2025-12-12T02:56:14+00:00",
-      "date": "2025-12-12 02:56:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-09-02%2Fggibmm52%2FTRUMP-4.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-12/trump-signs-order-seeking-to-limit-state-level-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump omezuje regulace umělé inteligence na úrovni států výkonným příkazem",
-      "description": "Prezident Donald Trump podepsal výkonný příkaz, který omezuje pravomoci amerických států v oblasti regulace umělé inteligence a prosazuje jednotný federální rámec. Cílem je umožnit americkým firmám volně inovovat a překonat Čínu v závodě o nadvládu v AI, přičemž se řeší existující státní zákony.",
-      "slug": "trump-pushes-back-against-states-regulating-ai-wit",
-      "publishedAt": "2025-12-12T02:49:55+00:00",
-      "date": "2025-12-12 02:49:55",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/29496578964_371684d588_c.jpg",
-      "url": "/tech-news/2025-12-12/trump-pushes-back-against-states-regulating-ai-wit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trumpův nový příkaz k umělé inteligenci připravuje federální boj s americkými státy o regulaci průmyslu",
-      "description": "Bílý dům nařídil ministerstvu spravedlnosti napadnout státní zákony o umělé inteligenci a konkrétně zdůraznil coloradský zákon proti diskriminaci algoritmů.",
-      "slug": "trumps-new-ai-order-sets-up-federal-fight-with-us-",
-      "publishedAt": "2025-12-12T02:49:05+00:00",
-      "date": "2025-12-12 02:49:05",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png",
-      "url": "/tech-news/2025-12-12/trumps-new-ai-order-sets-up-federal-fight-with-us/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump podepsal výkonný příkaz k blokování „nadměrných“ státních regulací AI",
-      "description": "Prezident Trump podepsal výkonný příkaz, který omezuje státy v USA před tvorbou vlastních regulací umělé inteligence, aby se zabránilo fragmentaci pravidel v konkurenci s Čínou.",
-      "slug": "trump-signs-executive-order-to-block-excessive-sta",
-      "publishedAt": "2025-12-12T02:11:57+00:00",
-      "date": "2025-12-12 02:11:57",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/12/4e595979-5405-4edd-a679-e4eaf4aef94f/thumbnail/1200x630/04e56cd070e0d3bc860da1c3c34e766c/ap25345851926108.jpg",
-      "url": "/tech-news/2025-12-12/trump-signs-executive-order-to-block-excessive-sta/",
-      "source": {
-        "emoji": "📺",
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump podepsal výkonný příkaz k blokování státních regulací umělé inteligence",
-      "description": "Prezident Donald Trump podepsal výkonný příkaz, který brání jednotlivým státům USA v tvorbě vlastních pravidel pro umělou inteligenci. Cílem je zabránit fragmentaci regulací, která by podle něj ohrozila konkurenceschopnost USA vůči Číně.",
-      "slug": "trump-signs-executive-order-to-block-state-ai-regu",
-      "publishedAt": "2025-12-12T01:08:35+00:00",
-      "date": "2025-12-12 01:08:35",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VTIKTKUYYBE7DBS5ZISXZXFAZY.jpg?_a=DATAg1eAZAA0",
-      "url": "/tech-news/2025-12-12/trump-signs-executive-order-to-block-state-ai-regu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WJXT News4JAX"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump podepsal výkonný příkaz bránící státům v prosazování vlastních regulací umělé inteligence | CNN Business",
-      "description": "Prezident Donald Trump ve čtvrtek podepsal výkonný příkaz, který blokuje státy před prosazováním vlastních regulací umělé inteligence a snaží se vytvořit 'jednotný národní rámec' pro AI.",
-      "slug": "trump-signs-executive-order-blocking-states-from-e",
-      "publishedAt": "2025-12-12T00:20:32+00:00",
-      "date": "2025-12-12 00:20:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-12-11t232848z-2050997561-rc2neiae32ma-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
-      "url": "/tech-news/2025-12-12/trump-signs-executive-order-blocking-states-from-e/",
-      "source": {
-        "emoji": "📰",
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
     }
   ]
 }
