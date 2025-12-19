@@ -1,7 +1,216 @@
 {
-  "generated": "2025-12-19T16:51:18.950717+00:00",
+  "generated": "2025-12-19T20:46:36.455440+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Ministerstvo energetiky USA uzavřelo dohody s technologickými giganty pro misi Genesis poháněnou AI",
+      "description": "Ministerstvo energetiky USA podepsalo smlouvy se 24 organizacemi včetně Microsoftu, Google a Nvidia na podporu národní mise Genesis. Tento program má využít umělou inteligenci k urychlení vědeckého výzkumu a posílení energetické a bezpečnostní soběstačnosti USA.",
+      "slug": "us-energy-department-taps-big-tech-for-ai-powered-",
+      "publishedAt": "2025-12-18T19:59:33+00:00",
+      "date": "2025-12-18 19:59:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--0bQPhfI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T200606Z_2_LYNXMPELBH16H_RTROPTP_3_GULF-AI.JPG?itok=uLf74TKw",
+      "url": "/tech-news/2025-12-18/us-energy-department-taps-big-tech-for-ai-powered/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Microsoft",
+        "Google",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ministerstvo energetiky USA uzavřelo dohody o spolupráci v AI s technologickými giganty pro misi Genesis",
+      "description": "Ministerstvo energetiky USA podepsalo smlouvy s 24 organizacemi včetně Microsoftu, Googlu a Nvidia na podporu národního programu Genesis Mission. Tento program má využít umělou inteligenci k urychlení vědeckého výzkumu a posílení energetické a bezpečnostní nezávislosti USA.",
+      "slug": "us-energy-department-signs-ai-collaboration-deals-",
+      "publishedAt": "2025-12-18T19:59:33+00:00",
+      "date": "2025-12-18 19:59:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--bAJD1LWi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T222405Z_3_LYNXMPELBH16H_RTROPTP_3_GULF-AI.JPG?itok=E6Y9VtmZ",
+      "url": "/tech-news/2025-12-18/us-energy-department-signs-ai-collaboration-deals/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Microsoft",
+        "Google",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump Media se slučuje s firmou na fúzní energii v dealu za 6 miliard dolarů na napájení AI",
+      "description": "Společnost Trump Media & Technology Group, mateřská firma platformy Truth Social, se slučuje s TAE Technologies, soukromou firmou zaměřenou na vývoj fúzní energie. Deal v hodnotě přes 6 miliard dolarů má umožnit stavbu první komerční fúzní elektrárny pro napájení systémů umělé inteligence.",
+      "slug": "trump-media-to-merge-with-fusion-energy-company-in",
+      "publishedAt": "2025-12-18T19:57:13+00:00",
+      "date": "2025-12-18 19:57:13",
+      "importance": 5,
+      "category": "fúzní energie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126064480,width-1200,height-630,imgsize-16622,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-18/trump-media-to-merge-with-fusion-energy-company-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Trump Media",
+        "TAE Technologies"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI spouští AI Academy pro novinové organizace",
+      "description": "OpenAI ve středu 17. prosince spustila OpenAI Academy pro novinové organizace, online vzdělávací platformu určenou k integraci umělé inteligence do redakčních procesů novinářů, redaktorů a vydavatelů. Iniciativa přichází v době rostoucího právního tlaku ze strany velkých vydavatelů na generativní AI společnosti.",
+      "slug": "openai-rolls-out-ai-academy-for-news-organizations",
+      "publishedAt": "2025-12-18T19:29:22+00:00",
+      "date": "2025-12-18 19:29:22",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/OpenAI-academy-news.jpeg",
+      "url": "/tech-news/2025-12-18/openai-rolls-out-ai-academy-for-news-organizations/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump Media se sloučí s firmou na jadernou fúzi v dealu za 6 miliard dolarů",
+      "description": "Firma za platformou Truth Social prezidenta Donalda Trumpa se sloučí s energetickou společností podporovanou Googlem v transakci v hodnotě přes 6 miliard dolarů. Trump Media & Technology Group (TMTG) oznámila sloučení s TAE Technologies.",
+      "slug": "trump-media-to-merge-with-nuclear-fusion-firm-in-6",
+      "publishedAt": "2025-12-18T19:18:03+00:00",
+      "date": "2025-12-18 19:18:03",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://biztoc.com/cdn/1ab6d0c535fd5221_s.webp",
+      "url": "/tech-news/2025-12-18/trump-media-to-merge-with-nuclear-fusion-firm-in-6/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Google",
+        "Trump Media & Technology Group",
+        "TAE"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Cognizant rozšiřuje dohodu s Microsoftem pro škálování podnikového AI",
+      "description": "Společnosti Cognizant Technology Solutions Corporation (NASDAQ:CTSH) a Microsoft Corp. (NASDAQ:MSFT) oznámily víceletou alianci, která má pomoci globálním firmám škálovat umělou inteligenci napříč klíčovými obchodními funkcemi. Nová spolupráce se zaměřuje na integraci AI do jádrových procesů podniků.",
+      "slug": "cognizant-expands-microsoft-deal-to-scale-enterpri",
+      "publishedAt": "2025-12-18T19:17:56+00:00",
+      "date": "2025-12-18 19:17:56",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://biztoc.com/cdn/b887ee97d170a39f_s.webp",
+      "url": "/tech-news/2025-12-18/cognizant-expands-microsoft-deal-to-scale-enterpri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Cognizant",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč dohoda Disney se Sorou znamená obrat v bitvách o umělou inteligenci",
+      "description": "OpenAI vydalo v říjnu Sora 2, což způsobilo lavinu porušení autorských práv na internetu. Místo žaloby se Disney spojilo s firmou v dohodě oznámené 11. prosince, která umožní uživatelům Sora pracovat s 200 ikonickými postavami včetně Darth Vadera, Elsy a Mickeyho Mousea.",
+      "slug": "why-disneys-sora-deal-marks-a-turning-point-in-the",
+      "publishedAt": "2025-12-18T19:11:30+00:00",
+      "date": "2025-12-18 19:11:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Iger-Altman.jpg?w=1000&h=563&crop=1",
+      "url": "/tech-news/2025-12-18/why-disneys-sora-deal-marks-a-turning-point-in-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Variety"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "NVIDIA a americká vláda posílí infrastrukturu AI a investice do výzkumu prostřednictvím mise Genesis",
+      "description": "NVIDIA se připojí k misi Genesis amerického ministerstva energetiky (DOE) jako soukromý partner, aby udržela vedení USA v technologii AI. Mise, součást nedávného prezidentského nařízení, se zaměří na energii, vědecký výzkum a národní bezpečnost.",
+      "slug": "nvidia-us-government-to-boost-ai-infrastructure-an",
+      "publishedAt": "2025-12-18T19:02:12+00:00",
+      "date": "2025-12-18 19:02:12",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2025/09/nvidiaheadquarters.jpg",
+      "url": "/tech-news/2025-12-18/nvidia-us-government-to-boost-ai-infrastructure-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Na shledanou 2025, nebudeš nám chybět",
+      "description": "Tento týden Joe Marshall bilancuje rok 2025 v kyberbezpečnosti a nazírá do očekávaných trendů pro rok 2026, včetně intenzivních ransomware útoků.",
+      "slug": "adios-2025-you-wont-be-missed",
+      "publishedAt": "2025-12-18T19:00:31+00:00",
+      "date": "2025-12-18 19:00:31",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blog.talosintelligence.com/content/images/size/w1200/2025/12/threat-source-newsletter-2.jpg",
+      "url": "/tech-news/2025-12-18/adios-2025-you-wont-be-missed/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fúzní dohoda: Proč se Trump Media spojuje s TAE Technologies",
+      "description": "TAE Technologies tvrdí, že silná bilance TMTG poskytne kapitál potřebný k uvedení první fúzní elektrárny v USA do roku 2031.",
+      "slug": "fusion-deal-why-trump-media-is-merging-with-tae-te",
+      "publishedAt": "2025-12-18T18:52:20+00:00",
+      "date": "2025-12-18 18:52:20",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243573-1766067213002-gettyimages-2183307095-img_7378_bjntyckg.jpeg?v=1766067271&w=1920&h=1080",
+      "url": "/tech-news/2025-12-18/fusion-deal-why-trump-media-is-merging-with-tae-te/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Trump Media",
+        "TAE Technologies"
+      ],
+      "people": []
+    },
     {
       "title": "IIT Kharagpur spolupracuje s nadací Intuitive na vývoji AI modelů pro robotickou chirurgii",
       "description": "Indický technologický institut IIT Kharagpur navázal partnerství s nadací Intuitive na vývoj digitálních modelů podporovaných umělou inteligencí pro robotickou chirurgii. Iniciativa MANAS mapuje chirurgické pracovní postupy, aby zlepšila bezpečnost, konzistenci a umožnila budoucí automatizaci pomocí platformy da Vinci Research Kit.",
@@ -3550,26 +3759,6 @@
       "people": []
     },
     {
-      "title": "BMW spolupracuje se Samsungem na urychlení solid-state baterií pro elektromobily",
-      "description": "BMW uzavírá partnerství se Samsungem SDI k zrychlení vývoje solid-state baterií pro elektromobily. Tato technologie využívá stříbrně-uhelníkový kompozit a slibuje dojezd přes 900 km, nabíjení za 9 minut a životnost 20 let.",
-      "slug": "bmw-teams-up-with-samsung-to-speed-up-solid-state-",
-      "publishedAt": "2025-12-13T19:55:57+00:00",
-      "date": "2025-12-13 19:55:57",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-13/bmw-teams-up-with-samsung-to-speed-up-solid-state/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "Nate Jones se mýlí ohledně AI datových center ve vesmíru",
       "description": "Nate Jones nesprávně shrnul příběh o AI datových centrech ve vesmíru a tvrdí, že v orbitě zatím nic není. Ve skutečnosti společnost Starcloud v spolupráci s Nvidia a Crusoe již vypustila satelit s GPU H100 minulý měsíc na raketě SpaceX Falcon 9.",
       "slug": "nate-jones-gets-ai-data-centers-wrong",
@@ -3710,26 +3899,6 @@
       "people": []
     },
     {
-      "title": "Apple připravuje 10 nových zařízení do jara 2026",
-      "description": "Apple chystá dvě velké představení produktů, při kterých debutuje 10 nových zařízení. Novinky přinesou pokroky v čipech, bezdrátové konektivitě, displejích a integraci chytrých domácností.",
-      "slug": "apples-2026-game-changing-tech-revealed-10-must-se",
-      "publishedAt": "2025-12-13T10:00:05+00:00",
-      "date": "2025-12-13 10:00:05",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/apple-product-launch-2024-preview_optimized.jpg",
-      "url": "/tech-news/2025-12-13/apples-2026-game-changing-tech-revealed-10-must-se/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Obrat rolí: Meta přebírá Qwen, jak se čínská AI stává základem oboru",
       "description": "Americký gigant Meta v únoru 2023 vydal open-source modely rodiny Llama, které inspirovaly čínský Qwen od Alibaba Cloud. Podle reportu Bloomberg nyní Meta údajně používá Qwen k trénování svého nového modelu s kódovým názvem Avocado, což představuje významný obrat v dynamice open-source AI.",
       "slug": "role-reversal-meta-adopts-qwen-as-chinese-ai-becom",
@@ -3746,26 +3915,6 @@
       },
       "companies": [
         "Meta Platforms"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína snižuje mezeru v umělé inteligenci oproti USA tři roky po šoku z ChatGPT",
-      "description": "Spouštění ChatGPT společností OpenAI 30. listopadu před třemi lety donutilo čínský technologický průmysl spěchat a dohánět pokroky v umělé inteligenci. Čínské firmy a vláda rychle reagovaly vývojem vlastních velkých jazykových modelů a chatbotů.",
-      "slug": "china-narrows-ai-gap-with-us-3-years-after-initial",
-      "publishedAt": "2025-12-13T09:30:00+00:00",
-      "date": "2025-12-13 09:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U739PTmpw_M.DoSD1JjFrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/51dad2a90b0f9eced4f05238d2c5c2b6",
-      "url": "/tech-news/2025-12-13/china-narrows-ai-gap-with-us-3-years-after-initial/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "OpenAI"
       ],
       "people": []
     },
@@ -3805,26 +3954,6 @@
         "name": "ANI News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "ChatGPT 5.2: OpenAI model pro produktivitu, programování a plánování",
-      "description": "OpenAI vydalo ChatGPT 5.2, novou verzi modelu umělé inteligence, která zlepšuje schopnosti v generování grafiky, automatizaci tabulek a strategickém plánování. Tento model konkuruje systémům jako Google Gemini 3 Deep Think a Anthropic Claude Opus 4.5 a cílí na profesionály v IT, designu a byznysu.",
-      "slug": "chatgpt-52-openais-best-ai-yet-for-productivity-co",
-      "publishedAt": "2025-12-13T07:00:51+00:00",
-      "date": "2025-12-13 07:00:51",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gemini-claude-vs-gpt-5-2-comparison_optimized.jpg",
-      "url": "/tech-news/2025-12-13/chatgpt-52-openais-best-ai-yet-for-productivity-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     },
     {
@@ -3873,49 +4002,6 @@
       ]
     },
     {
-      "title": "Google odstranil AI videa s Disney postavami po výzvě k zastavení",
-      "description": "Google spolupracuje s Disney a odstranil desítky videí generovaných umělou inteligencí s postavami jako Mickey Mouse, Deadpool nebo Moana z platformy YouTube. Toto následuje po právní výzvě Disney a souvisí s jejich miliardovou dohodou s OpenAI na licencování obsahu pro model Sora.",
-      "slug": "google-takes-down-disney-ai-videos-following-cease",
-      "publishedAt": "2025-12-13T03:15:30+00:00",
-      "date": "2025-12-13 03:15:30",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/Deadpool-Disney-Google.jpg?w=1024",
-      "url": "/tech-news/2025-12-13/google-takes-down-disney-ai-videos-following-cease/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Deadline"
-      },
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Spacex Elona Muska má valuaci 800 miliard dolarů při přípravě na vstup na burzu",
-      "description": "Spacex dosáhl valuace 800 miliard dolarů a připravuje se na IPO. Tento krok posiluje jeho postavení v kosmickém průmyslu a otevírá cestu pro další investice do projektů jako Starship a Starlink.",
-      "slug": "elon-musks-spacex-valued-at-800-billion-as-it-prep",
-      "publishedAt": "2025-12-13T03:12:17+00:00",
-      "date": "2025-12-13 03:12:17",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-13/elon-musks-spacex-valued-at-800-billion-as-it-prep/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Reportáž: Intel by mohl koupit startup na inference čipy SambaNova za 1,6 miliardy dolarů",
       "description": "Společnost Intel údajně jedná o akvizici SambaNova Systems, startupu zaměřeného na vývoj čipů pro umělou inteligenci. Podle zdrojů Bloombergu jsou jednání v pokročilém stádiu a hodnota dohody by mohla dosáhnout 1,6 miliardy dolarů včetně dluhů.",
       "slug": "report-intel-could-acquire-inference-chip-startup-",
@@ -3954,85 +4040,6 @@
       "companies": [
         "Rivian"
       ],
-      "people": []
-    },
-    {
-      "title": "Oracle odkládá datacentra pro OpenAI do roku 2028, akcie AI infrastruktury klesají",
-      "description": "Oracle posunul dokončení některých datacenter stavěných pro OpenAI z roku 2027 na 2028, což vyvolalo výrazný pokles akcií firem v oblasti AI infrastruktury. Tato zpráva přišla po šíření fake news o slabých výsledcích Broadcomu a zesílila stávající prodejní tlak na trhu.",
-      "slug": "ai-반도체-훈풍-가짜-뉴스-보도-어디길래",
-      "publishedAt": "2025-12-13T00:53:42+00:00",
-      "date": "2025-12-13 00:53:42",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbhGdMK%2FdJMcaiojBf2%2FAAAAAAAAAAAAAAAAAAAAAJbF73Ig_BTuyqaMU6fp_BsgPa5jCmlMv09NmiTM4wdL%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DEKYKGezStzuH8VPReaDUduXcSJ8%253D",
-      "url": "/tech-news/2025-12-13/ai-반도체-훈풍-가짜-뉴스-보도-어디길래/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tistory.com"
-      },
-      "companies": [
-        "Oracle",
-        "OpenAI"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Pro kanadské startupy byl AI dominantní silou v roce 2025",
-      "description": "Kanadský startupový ekosystém v roce 2025 čelil výzvám kvůli politické nejistotě a americkým tarifům, přičemž AI převzalo roli hlavního disruptoru a přitahovalo většinu investic. Mezi klíčovými úspěchy patří financování 689 milionů CAD pro torontskou Cohere a 215 milionů USD pro Multiverse.",
-      "slug": "for-canadas-startups-ai-was-a-dominant-force-in-20",
-      "publishedAt": "2025-12-13T00:47:50+00:00",
-      "date": "2025-12-13 00:47:50",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/63/26326b3c-2086-5d8d-8010-eb2d44a2163c/693c8a87ccae3.image.jpg?crop=1760%2C924%2C0%2C126&resize=1200%2C630&order=crop%2Cresize",
-      "url": "/tech-news/2025-12-13/for-canadas-startups-ai-was-a-dominant-force-in-20/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ChatGPT: Vše, co potřebujete vědět o tomto chatovacím robotovi s umělou inteligencí",
-      "description": "Průvodce ChatGPT vysvětluje virální systém generování textu od OpenAI. Popisuje nejnovější aktualizace a odpovídá na časté otázky.",
-      "slug": "chatgpt-everything-you-need-to-know-about-the-ai-c",
-      "publishedAt": "2025-12-13T00:42:58+00:00",
-      "date": "2025-12-13 00:42:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "url": "/tech-news/2025-12-13/chatgpt-everything-you-need-to-know-about-the-ai-c/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Integrace suchého zpracování a před-sodiací umožňuje sodíkové baterie s vysokou energetickou hustotou",
-      "description": "Používání obětovaných solí k vylepšení sodíkových baterií naráží na praktické problémy, jako je vysoká cena rozpouštědel a nízké využití díky špatnému elektrickému kontaktu. Autoři představují metodu suchého zpracování bez rozpouštědel, která zajišťuje úplné rozložení soli a přináší významné zlepšení energetické hustoty a životnosti.",
-      "slug": "integrating-dry-processing-and-pre-sodiation-enabl",
-      "publishedAt": "2025-12-13T00:00:00+00:00",
-      "date": "2025-12-13 00:00:00",
-      "importance": 4,
-      "category": "sodíkové baterie",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-13/integrating-dry-processing-and-pre-sodiation-enabl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
       "people": []
     }
   ]
