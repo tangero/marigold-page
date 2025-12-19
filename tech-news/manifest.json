@@ -1,7 +1,131 @@
 {
-  "generated": "2025-12-19T12:52:41.443227+00:00",
+  "generated": "2025-12-19T16:51:18.950717+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "IIT Kharagpur spolupracuje s nadací Intuitive na vývoji AI modelů pro robotickou chirurgii",
+      "description": "Indický technologický institut IIT Kharagpur navázal partnerství s nadací Intuitive na vývoj digitálních modelů podporovaných umělou inteligencí pro robotickou chirurgii. Iniciativa MANAS mapuje chirurgické pracovní postupy, aby zlepšila bezpečnost, konzistenci a umožnila budoucí automatizaci pomocí platformy da Vinci Research Kit.",
+      "slug": "iit-kharagpur-ties-up-with-intuitive-foundation-to",
+      "publishedAt": "2025-12-18T16:17:22+00:00",
+      "date": "2025-12-18 16:17:22",
+      "importance": 4,
+      "category": "robotická chirurgie",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1528381,resizemode-75,msid-126060932/tech/technology/iit-kharagpur-ties-up-with-intuitive-foundation-to-develop-ai-driven-models-for-robotic-surgery.jpg",
+      "url": "/tech-news/2025-12-18/iit-kharagpur-ties-up-with-intuitive-foundation-to/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "IIT-Kharagpur",
+        "Intuitive Foundation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bezpečnost agentických AI v cílech akvizic ServiceNow",
+      "description": "ServiceNow posiluje svou platformu sérií akvizic zaměřených na bezpečnost a správu agentických AI. Cílem je vytvořit jednotnou bezpečnou platformu pro podnikové IT prostředí.",
+      "slug": "agentic-ai-security-focus-of-servicenow-acquisitio",
+      "publishedAt": "2025-12-18T16:02:00+00:00",
+      "date": "2025-12-18 16:02:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/security_a210892891.jpg",
+      "url": "/tech-news/2025-12-18/agentic-ai-security-focus-of-servicenow-acquisitio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [
+        "ServiceNow"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kryptoměny pro poradce: Předpovědi pro rok 2026",
+      "description": "Paul Veradittakit z Pantera Capital sdílí své předpovědi pro kryptoměny v roce 2026: tokenizace reálných aktiv (RWA), pokroky v bezpečnosti AI, velká vlna úvěrňových nabídek (IPO) a posun k institucionální adopci.",
+      "slug": "crypto-for-advisors-predictions-for-2026",
+      "publishedAt": "2025-12-18T16:00:00+00:00",
+      "date": "2025-12-18 16:00:00",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6a67e4668da5628681a8397f21654e5c69abc03d-3840x2400.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "url": "/tech-news/2025-12-18/crypto-for-advisors-predictions-for-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "companies": [],
+      "people": [
+        "Paul Veradittakit"
+      ]
+    },
+    {
+      "title": "Devin Nunes a Trump Media se spojují s jadernou fúzní firmou podporovanou Googlem v překvapivém sloučení za 6 miliard dolarů",
+      "description": "Společná společnost plánuje najít lokalitu a zahájit stavbu příští rok na první elektrárně s jadernou fúzí v měřítku sítě.",
+      "slug": "devin-nunes-and-trump-media-get-in-bed-with-google",
+      "publishedAt": "2025-12-18T15:56:06+00:00",
+      "date": "2025-12-18 15:56:06",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25352450628333.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-18/devin-nunes-and-trump-media-get-in-bed-with-google/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Google",
+        "Trump Media"
+      ],
+      "people": [
+        "Devin Nunes"
+      ]
+    },
+    {
+      "title": "TSMC urychluje instalaci zařízení v arizonské továrně Fab 21, produkce N3 čipů začne v roce 2027",
+      "description": "Stavba továrny Fab 21 fáze 2 v Arizoně je dokončena, instalace výrobního zařízení začne v létě 2026 a hromadná výroba v roce 2027 – o několik čtvrtletí před původním plánem.",
+      "slug": "tsmc-brings-its-most-advanced-chipmaking-node-to-t",
+      "publishedAt": "2025-12-18T15:56:00+00:00",
+      "date": "2025-12-18 15:56:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kT3cGxzfZdqUVF5pbVWu5a-2560-80.jpg",
+      "url": "/tech-news/2025-12-18/tsmc-brings-its-most-advanced-chipmaking-node-to-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Trump Media vyskočí o 38 % po dohodě o sloučení za 6 miliard dolarů s firmou na fúzní energii",
+      "description": "Sloučení Trump Media s TAE Technologies by mělo urychlit komercializaci fúzní energie a ovlivnit energetické trhy. Společná firma plánuje postavit první elektrárnu veřejné utility v měřítku 50 MWe již v roce 2026.",
+      "slug": "trump-media-stock-pops-38-on-6b-merger-deal-with-f",
+      "publishedAt": "2025-12-18T15:53:09+00:00",
+      "date": "2025-12-18 15:53:09",
+      "importance": 5,
+      "category": "fúzní energie",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/18105111/3ee665d5-6c1c-472e-a52b-57c5dc1d85de-800x420.jpg",
+      "url": "/tech-news/2025-12-18/trump-media-stock-pops-38-on-6b-merger-deal-with-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [
+        "Trump Media"
+      ],
+      "people": []
+    },
     {
       "title": "Podnik Trumpa se sociálními médii se slučuje s firmou na jadernou fúzi | CNN Business",
       "description": "Mateřská společnost Truth Social, Trump Media & Technology Group, oznámila dohodu o sloučení s firmou na jadernou fúzi TAE Technologies. Jedná se o transakci v hodnotě přes 6 miliard dolarů, která vytvoří jednu z prvních veřejně obchodovaných firem v tomto sektoru.",
@@ -3909,127 +4033,6 @@
         "name": "Nature.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Co potřebujete vědět o návrhu Trumpa na omezení státních regulací AI",
-      "description": "Návrh výkonného nařízení nařizuje federálním agentuřám tlačit na státy, aby neuváděly přílišné regulace umělé inteligence. Trump a republikáni tvrdí, že státní předpisy brzdí inovace, kritici varují před prospěšností pro velké AI firmy bez dohledu.",
-      "slug": "what-to-know-about-trumps-draft-proposal-to-curtai",
-      "publishedAt": "2025-12-12T23:05:31+00:00",
-      "date": "2025-12-12 23:05:31",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Trump_Saudi_Arabia_45178.jpg?w=1024&h=682",
-      "url": "/tech-news/2025-12-12/what-to-know-about-trumps-draft-proposal-to-curtai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Co je v sázce v Trumpově výkonném nařízení mířícím na omezení státních regulací AI",
-      "description": "V nepřítomnosti komplexní federální regulace AI se do akce pustily státy. Trumpova administrativa na popud velkých technologických firem se snaží tyto zákony zrušit.",
-      "slug": "whats-at-stake-in-trumps-executive-order-aiming-to",
-      "publishedAt": "2025-12-12T19:32:15+00:00",
-      "date": "2025-12-12 19:32:15",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://images.theconversation.com/files/708487/original/file-20251212-56-2jffbr.jpg?ixlib=rb-4.1.0&rect=0%2C270%2C5930%2C2965&q=45&auto=format&w=1356&h=668&fit=crop",
-      "url": "/tech-news/2025-12-12/whats-at-stake-in-trumps-executive-order-aiming-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Bílý dům nařizuje agenturám přestat používat 'zkreslenou' AI",
-      "description": "Úřad pro management a rozpočet upřesnil kroky, které federální agentury musí podniknout, aby jejich kontraktované velké jazykové modely nevyráběly 'woke' výstupy. Memo navazuje na prezidentský příkaz proti ideologicky zkreslené umělé inteligenci.",
-      "slug": "white-house-instructs-agencies-to-stop-using-biase",
-      "publishedAt": "2025-12-12T19:16:00+00:00",
-      "date": "2025-12-12 19:16:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2025/12/12/121225EisenhowerNG/open-graph.jpg",
-      "url": "/tech-news/2025-12-12/white-house-instructs-agencies-to-stop-using-biase/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nextgov"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf AI v Bílém domě obhajuje Trumpovo omezení státních regulací umělé inteligence",
-      "description": "David Sacks z Bílého domu obhájil snahu prezidenta Donalda Trumpa omezit státní regulace AI navzdory námitkám demokratů. Cílem je snížit administrativní zátěž pro firmy a vytvořit jednotný federální standard.",
-      "slug": "white-house-ai-czar-defends-trump-push-to-rein-in-",
-      "publishedAt": "2025-12-12T19:01:30+00:00",
-      "date": "2025-12-12 19:01:30",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-12/white-house-ai-czar-defends-trump-push-to-rein-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": [
-        "David Sacks",
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Proč se SpaceX konečně chystá na vstup na burzu",
-      "description": "Jako u mnoha věcí v okolí Elona Muska, hodně toho může souviset s umělou inteligencí.",
-      "slug": "why-spacex-is-finally-gearing-up-to-go-public",
-      "publishedAt": "2025-12-12T18:37:54+00:00",
-      "date": "2025-12-12 18:37:54",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://media.wired.com/photos/693c5115e812eef9453592f8/191:100/w_1280,c_limit/Ars-Spacex-Public-Business-2194920040.jpg",
-      "url": "/tech-news/2025-12-12/why-spacex-is-finally-gearing-up-to-go-public/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Riziko zneužití AI jako zbraně je 'vysoké', varuje OpenAI – zde je plán k jeho zastavení",
-      "description": "OpenAI se zaměřuje na hodnocení, kdy budou modely umělé inteligence dostatečně schopné pomoci nebo bránit obráncům v kyberbezpečnosti, a na ochranu svých modelů před zneužitím kyberzločinci.",
-      "slug": "weaponized-ai-risk-is-high-warns-openai-heres-the-",
-      "publishedAt": "2025-12-12T15:47:20+00:00",
-      "date": "2025-12-12 15:47:20",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c7de1186a5a8a40fe6366615e34f9967ae4f8943/2025/10/28/0401f93b-7ec1-4fda-bac9-dd4a60571d1c/gettyimages-2238161281.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-12/weaponized-ai-risk-is-high-warns-openai-heres-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     }
   ]
