@@ -1,7 +1,207 @@
 {
-  "generated": "2025-12-18T20:45:46.494107+00:00",
+  "generated": "2025-12-19T01:24:16.352031+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Micron zvyšuje kapitálové výdaje na fiskální rok 2026 na 20 miliard USD pro urychlení HBM a výroby v USA",
+      "description": "Micron Technology navyšuje kapitálové výdaje na fiskální rok 2026 na přibližně 20 miliard USD, aby řešila nedostatek pamětí. Investice se zaměří na vysokopásmovou paměť HBM a pokročilé uzly DRAM v reakci na rostoucí poptávku poháněnou AI.",
+      "slug": "micron-hikes-fy26-capex-to-us20b-to-accelerate-hbm",
+      "publishedAt": "2025-12-18T00:55:24+00:00",
+      "date": "2025-12-18 00:55:24",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251218vl201_files/1_2b.jpg",
+      "url": "/tech-news/2025-12-18/micron-hikes-fy26-capex-to-us20b-to-accelerate-hbm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Senát USA potvrdil soukromého astronauta a spojence Muska Jareda Isaacmana šéfem NASA",
+      "description": "Jared Isaacman, miliardářský soukromý astronaut a bývalý spojenec Elona Muska, byl Senátem USA potvrzen jako 15. šéf NASA. Jeho potvrzení s oboustrannou podporou přichází v době, kdy NASA urychluje návrat na Měsíc a plánuje mise na Mars.",
+      "slug": "us-senate-confirms-private-astronaut-musk-ally-jar",
+      "publishedAt": "2025-12-18T00:39:43+00:00",
+      "date": "2025-12-18 00:39:43",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126048257,width-1200,height-630,imgsize-63634,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-18/us-senate-confirms-private-astronaut-musk-ally-jar/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": [
+        "Jared Isaacman",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Jak umělá inteligence rostla v roce 2025 a co může přijít dál",
+      "description": "V roce 2025 dosáhla integrace umělé inteligence do americké ekonomiky a každodenního života historických úrovní. Korerespondentka CBS News Jo Ling Kent shrnuje rozšíření této technologie a naznačuje výhled pro rok 2026.",
+      "slug": "how-artificial-intelligence-grew-in-2025-and-what-",
+      "publishedAt": "2025-12-18T00:39:00+00:00",
+      "date": "2025-12-18 00:39:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/18/ef8fb94c-bd7a-4e78-9adf-bc2afb57eca7/thumbnail/1200x630/fd70e38e75520530eb59b8ef785541bb/cbsn-fusion-how-artificial-intelligence-grew-2025-what-could-come-next-thumbnail.jpg",
+      "url": "/tech-news/2025-12-18/how-artificial-intelligence-grew-in-2025-and-what/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Speciale Invest spustí růstový fond o objemu 1 600 milionů rupií pro investice do deeptech",
+      "description": "60 % fondu půjde na nové investice, 40 % na následná kola u nových i stávajících portfoliových společností.",
+      "slug": "speciale-invest-to-launch-1600-crore-growth-fund-f",
+      "publishedAt": "2025-12-18T00:30:30+00:00",
+      "date": "2025-12-18 00:30:30",
+      "importance": 4,
+      "category": "deeptech",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/17/1600x900/logo/spciale_invest_1765987020317_1765987025599.jpg",
+      "url": "/tech-news/2025-12-18/speciale-invest-to-launch-1600-crore-growth-fund-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Speciale Invest spouští fond v hodnotě 1 400 crore rupií pro deeptech startupy",
+      "description": "Indická venture capital firma Speciale Invest z Chennai uvádí na trh Growth Fund II o objemu 1 400 crore rupií, který má zaplnit mezeru v růstovém kapitálu pro deeptech startupy po fázi validace technologie. Zakládající partner Vishesh Rajaram zdůrazňuje, že Indie nemá problémy s financováním v seed fázi, ale chybí podpora pro přechod k samostatnému podnikání.",
+      "slug": "speciale-invest-launches-rs-1400-crore-fund-for-de",
+      "publishedAt": "2025-12-18T00:30:00+00:00",
+      "date": "2025-12-18 00:30:00",
+      "importance": 4,
+      "category": "deeptech startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83202,resizemode-75,msid-126042634/tech/funding/speciale-invest-launches-rs-1400-crore-fund-for-deeptech-startups.jpg",
+      "url": "/tech-news/2025-12-18/speciale-invest-launches-rs-1400-crore-fund-for-de/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Vishesh Rajaram"
+      ]
+    },
+    {
+      "title": "Volný přístav Hainan; Huawei vede čínský EUV „Projekt Manhattan“; Přehodnocení vztahů EU-Čína; Nemovitosti; Kognitivní válka",
+      "description": "Newsletter informuje o strategických projektech v Číně, včetně Huaweiho role v národním úsilí o vývoj EUV lithografie, ekonomickém rozvoji na Hainanu a dopadech umělé inteligence na sociální správu. Zaměřuje se na polovodiče a geopolitické posuny v EU-Čína vztazích.",
+      "slug": "hainan-free-trade-port-huawei-overseeing-chinas-eu",
+      "publishedAt": "2025-12-18T00:13:06+00:00",
+      "date": "2025-12-18 00:13:06",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!EVZ2!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd821607-79fe-460b-a67a-c7714ac5c9a2_1290x1290.jpeg",
+      "url": "/tech-news/2025-12-18/hainan-free-trade-port-huawei-overseeing-chinas-eu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sinocism.com"
+      },
+      "companies": [
+        "Huawei"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína prý má prototyp EUV stroje postavený bývalými zaměstnanci ASML",
+      "description": "Podle zprávy Reuters dokončil tým v Shenzhenu prototyp extrémně ultrafialové litografické stroje, který by mohl sloužit k výrobě polovodičových čipů pro umělou inteligenci. Stroj vyrobili bývalí inženýři holandské firmy ASML a nyní prochází testy.",
+      "slug": "china-reportedly-has-a-prototype-euv-machine-built",
+      "publishedAt": "2025-12-18T00:12:07+00:00",
+      "date": "2025-12-18 00:12:07",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-18/china-reportedly-has-a-prototype-euv-machine-built/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zákaz TikToku měl nastoupit 16. prosince. Nestal se, a zde je důvod",
+      "description": "Prezident Donald Trump odložil zákaz TikToku pětkrát letos. Nové prodloužení posouvá lhůtu na leden 2026 společně s oznámením prodeje amerického businessu za 14 miliard dolarů.",
+      "slug": "the-tiktok-ban-was-set-for-dec-16-it-didnt-happen-",
+      "publishedAt": "2025-12-18T00:08:00+00:00",
+      "date": "2025-12-18 00:08:00",
+      "importance": 5,
+      "category": "sociální sítě",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8e81afbab2b3a1bfd596a6ad6661f36e527c3cb2/hub/2025/12/17/3d377f55-5ee8-4c1c-9269-c500dba3ceb9/tiktok-logo-and-american-flag-gettyimages-2194103715.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-18/the-tiktok-ban-was-set-for-dec-16-it-didnt-happen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Tchajwanský tlak na AI software potřebuje substanci, ne nouzová řešení",
+      "description": "Premiér Tchaj-wanu Cho Jung-tai oznámil investici 31,1 miliardy nových tchajwanských dolarů (993 milionů USD) v roce 2026 do 10 klíčových iniciativ AI infrastruktury, včetně dotovaného projektu pro rozvoj domácího sektoru AI software. Článek upozorňuje, že tyto snahy musí mít hlubší obsah, aby překonaly současné limity.",
+      "slug": "taiwans-ai-software-push-needs-substance-not-stopg",
+      "publishedAt": "2025-12-17T23:53:26+00:00",
+      "date": "2025-12-17 23:53:26",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251215pd208_files/2_2b.jpg",
+      "url": "/tech-news/2025-12-17/taiwans-ai-software-push-needs-substance-not-stopg/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": [
+        "Cho Jung-tai"
+      ]
+    },
+    {
+      "title": "Quantum Computing Inc. uskutečňuje 110milionový tah v kvantovém sektoru",
+      "description": "Společnost Quantum Computing Inc. (QCi), dodavatel cenově dostupných počítačů a integrované fotonické technologie, oznámila akvizici semiconductorové divize nedávno zbankrotované Luminar za 110 milionů dolarů v hotovostní transakci. Tento krok přichází v dynamickém období pro kvantovou techniku.",
+      "slug": "quantum-computing-makes-110-million-move-nobody-sa",
+      "publishedAt": "2025-12-17T23:36:36+00:00",
+      "date": "2025-12-17 23:36:36",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://biztoc.com/cdn/f6a8eed45b0a51e7_s.webp",
+      "url": "/tech-news/2025-12-17/quantum-computing-makes-110-million-move-nobody-sa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "QCi",
+        "Luminar"
+      ],
+      "people": []
+    },
     {
       "title": "Kalifornie hrozí Tesle 30denním pozastavením prodejních licencí kvůli zavádějícím tvrzením o autonomním řízení",
       "description": "Kalifornští regulátoři hrozí pozastavením licence Tesla na prodej elektromobilů ve státě na začátku příštího roku, pokud automobilka nezmírní marketing autonomních funkcí. Soudce konstatoval klamavé praktiky s termíny Autopilot a Full Self-Driving.",
@@ -3324,85 +3524,6 @@
       ]
     },
     {
-      "title": "Donald Trump se pokouší překonat státní regulace AI výkonným příkazem",
-      "description": "Pouze čas ukáže, zda příkaz prezidenta dosáhne svého cíle v omezení státních zákonů, které ohrožují inovace v oblasti umělé inteligence.",
-      "slug": "donald-trump-tries-to-override-state-ai-regulation",
-      "publishedAt": "2025-12-12T22:38:38+00:00",
-      "date": "2025-12-12 22:38:38",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/12/polspphotostwo340242-scaled.jpg",
-      "url": "/tech-news/2025-12-12/donald-trump-tries-to-override-state-ai-regulation/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Reason"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Bojí se USA Huawei? Výkon akcelerátoru Ascend 910C vysvětluje zrušení zákazu Nvidia H200 pro Čínu",
-      "description": "USA povolily export AI akcelerátorů Nvidia H200 do Číny s 25procentním poplatkem, protože čipy Huawei Ascend 910C prokázaly konkurenceschopný výkon v AI výpočtech a systém CloudMatrix 384 překonává Nvidia v některých parametrech.",
-      "slug": "is-the-us-afraid-of-huawei-reports-point-to-the-as",
-      "publishedAt": "2025-12-12T22:30:00+00:00",
-      "date": "2025-12-12 22:30:00",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ScSc5t2ikfgX4vBjCeBFXH-1920-80.png",
-      "url": "/tech-news/2025-12-12/is-the-us-afraid-of-huawei-reports-point-to-the-as/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Huawei",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fox News AI Newsletter: Hegseth chce revolučně změnit americké válečnictví",
-      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v umělé inteligenci a zkoumá výzvy i příležitosti, které tato technologie přináší. Tento vydání se zaměřuje na vojenskou AI platformu Pentagonu, investici Disney do OpenAI a priority v energetice pro AI.",
-      "slug": "fox-news-ai-newsletter-hegseth-moves-to-revolution",
-      "publishedAt": "2025-12-12T19:49:07+00:00",
-      "date": "2025-12-12 19:49:07",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/secretary-of-war-pete-hegseth.jpg",
-      "url": "/tech-news/2025-12-12/fox-news-ai-newsletter-hegseth-moves-to-revolution/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": [
-        "Hegseth"
-      ]
-    },
-    {
-      "title": "Hackeři se vydávající za policii oklamávají velké technologické firmy pro přístup k soukromým datům",
-      "description": "Firmy jsou phishingovány kvůli datům a někdy jsou zneužívány kompromitované policejní emailové schránky.",
-      "slug": "hackers-posing-as-law-enforcement-are-tricking-big",
-      "publishedAt": "2025-12-12T19:40:00+00:00",
-      "date": "2025-12-12 19:40:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-2000-80.jpeg",
-      "url": "/tech-news/2025-12-12/hackers-posing-as-law-enforcement-are-tricking-big/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Obchod s čipy Nvidia je národní bezpečnostní katastrofa na spadnutí",
       "description": "Nejnovější návrh Donalda Trumpa by USA postoupil výhodu v umělé inteligenci tím, že umožní export pokročilých čipů do Číny.",
       "slug": "the-nvidia-chip-deal-is-a-national-security-disast",
@@ -3651,66 +3772,6 @@
       ]
     },
     {
-      "title": "Muskova mise na Mars zvyšuje rizika pro plánované IPO SpaceX",
-      "description": "SpaceX chystá masivní IPO příští rok s valuací přes 1 bilion dolarů, ale Muskovo zaměření na Mars může ohrozit výnosy akcionářů. Investoři budou muset zvážit rizikové projekty jako Starship proti stabilnímu růstu Starlink.",
-      "slug": "elon-musks-mars-mission-adds-risk-to-red-hot-space",
-      "publishedAt": "2025-12-12T11:04:51+00:00",
-      "date": "2025-12-12 11:04:51",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32284,resizemode-75,msid-125932462/tech/technology/musks-mars-mission-adds-risk-to-red-hot-spacex-ipo.jpg",
-      "url": "/tech-news/2025-12-12/elon-musks-mars-mission-adds-risk-to-red-hot-space/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Profesní odbory Hollywoodu reagují na novou dohodu Disney s OpenAI",
-      "description": "WGA a SAG-AFTRA vydaly prohlášení po oznámení aliance Disney s OpenAI, která umožní použití více než 200 postav společnosti v nástrojích Sora a ChatGPT.",
-      "slug": "hollywoods-labor-unions-respond-to-disneys-dystopi",
-      "publishedAt": "2025-12-12T11:00:49+00:00",
-      "date": "2025-12-12 11:00:49",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/star-wars-phantom-menace-battle-droid-army-naboo-1200x675.jpg",
-      "url": "/tech-news/2025-12-12/hollywoods-labor-unions-respond-to-disneys-dystopi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pátkové odkazy: 12. prosince 2025",
-      "description": "V době rostoucí vládní kontroly je čas sáhnout k šifrování a decentralizovaným službám.",
-      "slug": "friday-links-december-12-2025",
-      "publishedAt": "2025-12-12T11:00:47+00:00",
-      "date": "2025-12-12 11:00:47",
-      "importance": 4,
-      "category": "šifrování",
-      "urlToImage": "https://images.unsplash.com/photo-1712002641088-9d76f9080889?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGFpfGVufDB8fHx8MTc2NTQ4Nzk2Nnww&ixlib=rb-4.1.0&q=80&w=2000",
-      "url": "/tech-news/2025-12-12/friday-links-december-12-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Werd.io"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Trump podepsal příkaz k blokování státních regulací umělé inteligence",
       "description": "Prezident Donald Trump podepsal exekutivní příkaz, který brání jednotlivým státům v USA zavádět vlastní pravidla pro umělou inteligenci, aby se zabránilo fragmentaci regulací v konkurenci s Čínou.",
       "slug": "trump-signs-order-to-block-state-ai-regulations",
@@ -3729,27 +3790,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Googleův kvantový procesor Willow pohání špičkový britský výzkum prostřednictvím NQCC",
-      "description": "Google uzavřel spolupráci s britským Národním centrem pro kvantové výpočty (NQCC), které poskytne výzkumníkům přístup k kvantovému procesoru Willow. Tento krok umožní testovat pokročilé kvantové algoritmy na hardwaru s 105 qubits a nízkou chybovostí.",
-      "slug": "googles-willow-quantum-processor-will-power-cuttin",
-      "publishedAt": "2025-12-12T07:00:00+00:00",
-      "date": "2025-12-12 07:00:00",
-      "importance": 5,
-      "category": "kvantové výpočty",
-      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleQuantumAI_WillowChip_Closeup_01.max-1440x810.jpg",
-      "url": "/tech-news/2025-12-12/googles-willow-quantum-processor-will-power-cuttin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Blog.google"
-      },
-      "companies": [
-        "Google",
-        "NQCC"
-      ],
-      "people": []
     },
     {
       "title": "Časopis TIME vyhlásil 'Architekty AI' osobností roku 2025 včetně Elona Muska, Jensena Huanga a Sama Altmana",
@@ -3937,26 +3977,6 @@
       ]
     },
     {
-      "title": "Google žádá britské experty o využití svého výkonného kvantového čipu",
-      "description": "Britští výzkumníci získají přístup k kvantovému procesoru Willow od Google a budou vyvíjet pro něj aplikace. Spolupráce s britskou národní laboratoří pro kvantové výpočty umožní otevřenou soutěž na návrhy experimentů.",
-      "slug": "google-asks-uk-experts-to-find-uses-for-its-powerf",
-      "publishedAt": "2025-12-12T00:34:11+00:00",
-      "date": "2025-12-12 00:34:11",
-      "importance": 5,
-      "category": "kvantové technologie",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a60/live/f5aae580-d69e-11f0-8356-c71b2eb54d34.jpg",
-      "url": "/tech-news/2025-12-12/google-asks-uk-experts-to-find-uses-for-its-powerf/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump podepsal výkonný příkaz bránící státům v prosazování vlastních regulací umělé inteligence | CNN Business",
       "description": "Prezident Donald Trump ve čtvrtek podepsal výkonný příkaz, který blokuje státy před prosazováním vlastních regulací umělé inteligence a snaží se vytvořit 'jednotný národní rámec' pro AI.",
       "slug": "trump-signs-executive-order-blocking-states-from-e",
@@ -3994,26 +4014,6 @@
       "companies": [
         "OpenAI",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Disneyho sázka na miliardu dolarů: Licenční model s OpenAI pro uživatelský obsah",
-      "description": "Společnost Walt Disney Company oznámila 11. prosince 2025 investici 1 miliardy dolarů do OpenAI a tříletou licenční dohodu. Tato dohoda umožní modelu Sora generovat krátké fanouškovské videa s použitím více než 200 Disney postav, prostředí a světů.",
-      "slug": "disneys-1-billion-bet-a-licensing-model-with-opena",
-      "publishedAt": "2025-12-12T00:08:03+00:00",
-      "date": "2025-12-12 00:08:03",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Disney-OpenAI1.jpg",
-      "url": "/tech-news/2025-12-12/disneys-1-billion-bet-a-licensing-model-with-opena/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "OpenAI"
       ],
       "people": []
     },
