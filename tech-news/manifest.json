@@ -1,7 +1,126 @@
 {
-  "generated": "2025-12-19T04:54:06.872142+00:00",
+  "generated": "2025-12-19T08:50:33.845317+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Udemy a Coursera se sloučí v dohodě za 2,5 miliardy dolarů",
+      "description": "Dvě přední platformy pro online vzdělávání, Coursera a Udemy, oznámily sloučení v transakci v hodnotě 2,5 miliardy dolarů, aby reagovaly na pokroky v generativní umělé inteligenci. Dohoda by měla být dokončena ve druhé polovině roku 2026.",
+      "slug": "udemy-coursera-to-merge-in-25b-deal",
+      "publishedAt": "2025-12-18T08:00:00+00:00",
+      "date": "2025-12-18 08:00:00",
+      "importance": 4,
+      "category": "online vzdělávání",
+      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-09/CompleteCollegeAmerica_T034.jpg?itok=ooQDTmxm",
+      "url": "/tech-news/2025-12-18/udemy-coursera-to-merge-in-25b-deal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Inside Higher Ed"
+      },
+      "companies": [
+        "Udemy",
+        "Coursera"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vydáno nové Gemini 3 Flash: Rychlejší, chytřejší a levnější",
+      "description": "Gemini 3 Flash je nejnovější model umělé inteligence od Google DeepMind, který nabízí vyšší rychlost a efektivitu za nižší cenu než model Gemini 3 Pro. Překonává předchozí verze v benchmarkách zaměřených na kódování, vědecké uvažování a řešení problémů.",
+      "slug": "new-gemini-3-flash-released-faster-smarter-and-che",
+      "publishedAt": "2025-12-18T07:41:06+00:00",
+      "date": "2025-12-18 07:41:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/google-ai-flash-model-benchmarks_optimized.jpg",
+      "url": "/tech-news/2025-12-18/new-gemini-3-flash-released-faster-smarter-and-che/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": []
+    },
+    {
+      "title": "Exein s podporou JPMorgan získal 100 milionů eur na ochranu proti hackerům v autech",
+      "description": "Italský startup Exein SpA získal 100 milionů eur (118 milionů dolarů) v novém financování s cílem bránit hackerům přístup k připojeným zařízením, jako jsou auta, domácí routery a baby monitory.",
+      "slug": "jpmorgan-backed-exein-raises-100-million-to-halt-c",
+      "publishedAt": "2025-12-18T07:29:36+00:00",
+      "date": "2025-12-18 07:29:36",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-18/jpmorgan-backed-exein-raises-100-million-to-halt-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Exein SpA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co potřebujete vědět o Trumpově výkonném nařízení omezujícím státní regulace AI",
+      "description": "Prezident Donald Trump podepsal výkonný příkaz, který státy nabádá, aby se zdržely regulace umělé inteligence. Trump a někteří republikáni argumentují, že takové regulace brzdí inovace a růst technologie, zatímco kritici varují před nedostatkem dohledu nad velkými AI firmami.",
+      "slug": "what-to-know-about-trumps-executive-order-to-curta",
+      "publishedAt": "2025-12-18T07:28:22+00:00",
+      "date": "2025-12-18 07:28:22",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2024/11/donald-trump-speaks-at-campaign-rally-AP-scaled.jpg",
+      "url": "/tech-news/2025-12-18/what-to-know-about-trumps-executive-order-to-curta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Nejnovější generátor obrázků ChatGPT Image 1.5 od OpenAI urychluje tvorbu a snižuje náklady",
+      "description": "Jedna aktualizace v technologii AI by mohla změnit rovnováhu sil v soutěžním světě generování obrázků. S vydáním ChatGPT Image 1.5 představila OpenAI nástroj, který je čtyřnásobně rychlejší a levnější o 20 %, a představuje přímou výzvu pro Nano Banana Pro od Google.",
+      "slug": "openais-latest-chatgpt-ai-image-ai-generator-speed",
+      "publishedAt": "2025-12-18T07:11:16+00:00",
+      "date": "2025-12-18 07:11:16",
+      "importance": 4,
+      "category": "generování obrázků",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/openai-image-model-speed_optimized.jpg",
+      "url": "/tech-news/2025-12-18/openais-latest-chatgpt-ai-image-ai-generator-speed/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský ekonomický pokles nezastavuje boom miliardářů v AI čipech",
+      "description": "Americké zákazy prodeje čipů urychlují růst čínských domácích firem v oblasti AI čipů. Navzdory ekonomickým problémům v Číně se zakladatelé těchto společností stávají miliardáři.",
+      "slug": "chinas-economic-slump-isnt-stopping-a-billionaire-",
+      "publishedAt": "2025-12-18T06:57:17+00:00",
+      "date": "2025-12-18 06:57:17",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://i.insider.com/6943786a64858d02d21705e7?width=1024&format=jpeg",
+      "url": "/tech-news/2025-12-18/chinas-economic-slump-isnt-stopping-a-billionaire/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Micron očekává prudký růst tržeb díky vysoké poptávce po pamětech pro AI",
       "description": "Micron Technology zveřejnil výsledky za fiskální první čtvrtletí, které překonaly očekávání analytiků Wall Street v oblasti tržeb a zisku na akcii, a poskytl silnou prognózu pro aktuální čtvrtletí. Akcie společnosti vzrostly o více než 7 % v prodlouženém obchodování.",
@@ -3603,29 +3722,6 @@
       "people": []
     },
     {
-      "title": "Thinking Machines zpřístupňuje službu Tinker pro doladění umělé inteligence pro širokou veřejnost",
-      "description": "Společnost Thinking Machines Lab Inc. dnes uvedla svou cloudovou službu Tinker pro doladění velkých jazykových modelů do obecné dostupnosti. Firmu založila v únoru Mira Murati, bývalá šéftechnologička OpenAI, a podporují ji investoři jako Nvidia a AMD.",
-      "slug": "thinking-machines-makes-its-tinker-ai-fine-tuning-",
-      "publishedAt": "2025-12-12T23:51:26+00:00",
-      "date": "2025-12-12 23:51:26",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Mira-Murati.png",
-      "url": "/tech-news/2025-12-12/thinking-machines-makes-its-tinker-ai-fine-tuning/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Thinking Machines Lab Inc",
-        "OpenAI Group PBC"
-      ],
-      "people": [
-        "Mira Murati"
-      ]
-    },
-    {
       "title": "Co potřebujete vědět o návrhu Trumpa na omezení státních regulací AI",
       "description": "Návrh výkonného nařízení nařizuje federálním agentuřám tlačit na státy, aby neuváděly přílišné regulace umělé inteligence. Trump a republikáni tvrdí, že státní předpisy brzdí inovace, kritici varují před prospěšností pro velké AI firmy bez dohledu.",
       "slug": "what-to-know-about-trumps-draft-proposal-to-curtai",
@@ -3643,28 +3739,6 @@
       "companies": [],
       "people": [
         "Trump"
-      ]
-    },
-    {
-      "title": "Obchod s čipy Nvidia je národní bezpečnostní katastrofa na spadnutí",
-      "description": "Nejnovější návrh Donalda Trumpa by USA postoupil výhodu v umělé inteligenci tím, že umožní export pokročilých čipů do Číny.",
-      "slug": "the-nvidia-chip-deal-is-a-national-security-disast",
-      "publishedAt": "2025-12-12T19:38:27+00:00",
-      "date": "2025-12-12 19:38:27",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/12/TrumpHuang_GettyImages-2212801610.jpg?w=1000",
-      "url": "/tech-news/2025-12-12/the-nvidia-chip-deal-is-a-national-security-disast/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
       ]
     },
     {
@@ -3701,24 +3775,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nextgov"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Výrobce robota Neo za 20 tisíc dolarů má dohodu na 10 000 humanoidních robotů",
-      "description": "Společnost 1X uzavřela s investiční firmou EQT dohodu na nasazení až 10 000 robotů Neo v průmyslových oblastech jako výroba, provoz zařízení a zdravotnictví. Roboti mají spolupracovat s lidmi a piloti startují v USA v roce 2026.",
-      "slug": "the-maker-of-the-20k-neo-robot-has-a-deal-for-1000",
-      "publishedAt": "2025-12-12T19:13:00+00:00",
-      "date": "2025-12-12 19:13:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.cnet.com/a/img/resize/0f775e92ab3222376775681002538657c1498010/hub/2025/10/29/a9999ee7-1945-48c8-a87b-dc76071fb5c0/1x-neo-robot-colors.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-12/the-maker-of-the-20k-neo-robot-has-a-deal-for-1000/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
       },
       "companies": [],
       "people": []
@@ -3809,24 +3865,6 @@
       "people": []
     },
     {
-      "title": "Architekti umělé inteligence jsou podle TIME Osobností roku – proč tomu tak je",
-      "description": "Magazín TIME vyhlásil skupinu klíčových tvůrců AI za Osobnost roku 2025 za jejich vliv na svět. Mezi nimi jsou Sam Altman z OpenAI, Jensen Huang z Nvidia a představitelé Google, Meta a Anthropic.",
-      "slug": "the-architects-of-ai-are-times-person-of-the-year-",
-      "publishedAt": "2025-12-12T11:45:40+00:00",
-      "date": "2025-12-12 11:45:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GNwENBT83GiX9rF4ZDw6Qb-1920-80.jpg",
-      "url": "/tech-news/2025-12-12/the-architects-of-ai-are-times-person-of-the-year/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Trump podepsal příkaz k překročení státních pravidel pro AI",
       "description": "Prezident Trump ve čtvrtek podepsal výkonný příkaz, kterým odebírá státům velkou část pravomocí nad umělou inteligencí a dává generálnímu prokurátorovi pravomoc zpochybňovat státní zákony. Tento krok vyvolá právní a politický boj o regulaci rychle se rozvíjející technologie.",
       "slug": "trump-signs-order-to-override-state-rules-on-ai",
@@ -3864,31 +3902,6 @@
       "companies": [],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Časopis TIME vyhlásil 'Architekty AI' osobností roku 2025 včetně Elona Muska, Jensena Huanga a Sama Altmana",
-      "description": "Časopis TIME jmenoval skupinu 'Architekty AI' osobností roku 2025. Mezi klíčovými postavami jsou Jensen Huang z Nvidia, Sam Altman z OpenAI a Elon Musk z xAI, kteří podle redakce uvolnili plný potenciál umělé inteligence a ovlivnili globální informace, klima i každodenní život.",
-      "slug": "time-magazines-2025-person-of-the-year-is-a-group-",
-      "publishedAt": "2025-12-12T06:59:21+00:00",
-      "date": "2025-12-12 06:59:21",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-125927980,width-1070,height-580,imgsize-97718,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "url": "/tech-news/2025-12-12/time-magazines-2025-person-of-the-year-is-a-group/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "OpenAI"
-      ],
-      "people": [
-        "Elon Musk",
-        "Jensen Huang",
-        "Sam Altman"
       ]
     },
     {
@@ -3945,26 +3958,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Decrypt"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Trump nařizuje vytvoření pracovní skupiny pro soudní spory proti státním zákonům o AI",
-      "description": "Prezident Donald Trump podepsal výkonný příkaz volající po jednotném celostátním regulačním rámci pro umělou inteligenci, který omezí pravomoci států k vlastní regulaci. Hlavním prvkem je nová pracovní skupina ministerstva spravedlnosti zaměřená na soudní výzvy proti státním předpisům.",
-      "slug": "trump-orders-creation-of-litigation-task-force-to-",
-      "publishedAt": "2025-12-12T02:32:26+00:00",
-      "date": "2025-12-12 02:32:26",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-12/trump-orders-creation-of-litigation-task-force-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
       },
       "companies": [],
       "people": [
