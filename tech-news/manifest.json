@@ -1,7 +1,68 @@
 {
-  "generated": "2025-12-20T04:47:17.582822+00:00",
+  "generated": "2025-12-20T08:41:52.708357+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "USA zkoumají export čipů Nvidia H200 do Číny kvůli rostoucím rizikům",
+      "description": "Administrativa Donalda Trumpa zahájila mezirezortní přezkoumání k určení, zda povolit první exporty čipů Nvidia H200 pro umělou inteligenci do Číny. Podle agentury Reuters by tento krok mohl představovat významný posun v americké exportní politice technologií.",
+      "slug": "us-scrutinizes-nvidia-h200-chip-exports-to-china-a",
+      "publishedAt": "2025-12-19T07:52:54+00:00",
+      "date": "2025-12-19 07:52:54",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251219vl212_files/2_2b.jpg",
+      "url": "/tech-news/2025-12-19/us-scrutinizes-nvidia-h200-chip-exports-to-china-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "TikTok uzavírá dohodu o společném podniku v USA k odvrácení zákazu",
+      "description": "TikTok potvrdil dohodu s americkými investory včetně Oracle na vytvoření společného podniku, což mu umožní pokračovat v provozu a vyhnout se hrozícímu zákazu v USA.",
+      "slug": "tiktok-strikes-us-joint-venture-deal-to-avoid-ban",
+      "publishedAt": "2025-12-19T07:36:56+00:00",
+      "date": "2025-12-19 07:36:56",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/26151258/Tiktok.jpg",
+      "url": "/tech-news/2025-12-19/tiktok-strikes-us-joint-venture-deal-to-avoid-ban/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [
+        "TikTok",
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podnik Donalda Trumpa v sociálních sítích se slučuje s firmou na jadernou fúzi",
+      "description": "Společnost Trump Media and Technology Group oznámila sloučení s TAE Technologies v dealu v hodnotě přes 6 miliard USD, čímž vznikne první veřejně obchodovaná firma zaměřená na jadernou fúzi. Tento krok má umožnit stavbu prvního reaktoru schopného vyrábět elektřinu v měřítku pro distribuční sítě.",
+      "slug": "trumps-social-media-business-is-merging-with-a-nuc",
+      "publishedAt": "2025-12-19T07:00:00+00:00",
+      "date": "2025-12-19 07:00:00",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "url": "/tech-news/2025-12-19/trumps-social-media-business-is-merging-with-a-nuc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "Sam Altman: OpenAI bylo několikrát v režimu 'code red' kvůli konkurenci v AI – a udělají to znovu",
       "description": "Sam Altman uvedl, že OpenAI několikrát aktivovalo nouzový režim 'code red' v reakci na konkurenční hrozby v oblasti umělé inteligence a je připraveno to opakovat.",
@@ -618,29 +679,6 @@
         "Trump Media"
       ],
       "people": []
-    },
-    {
-      "title": "Podnik Trumpa se sociálními médii se slučuje s firmou na jadernou fúzi | CNN Business",
-      "description": "Mateřská společnost Truth Social, Trump Media & Technology Group, oznámila dohodu o sloučení s firmou na jadernou fúzi TAE Technologies. Jedná se o transakci v hodnotě přes 6 miliard dolarů, která vytvoří jednu z prvních veřejně obchodovaných firem v tomto sektoru.",
-      "slug": "trumps-social-media-business-is-merging-with-a-nuc",
-      "publishedAt": "2025-12-18T12:12:23+00:00",
-      "date": "2025-12-18 12:12:23",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2112611443.jpg?c=16x9&q=w_800,c_fill",
-      "url": "/tech-news/2025-12-18/trumps-social-media-business-is-merging-with-a-nuc/",
-      "source": {
-        "emoji": "📰",
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "companies": [
-        "Trump Media & Technology Group",
-        "TAE Technologies"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "Trump Media uzavírá dohodu o sloučení za 6 miliard dolarů s firmou na fúzní energie podporovanou Google",
@@ -3863,24 +3901,6 @@
       "people": []
     },
     {
-      "title": "CBI obvinilo čtyři Číňany z kyberzločinu v hodnotě 1000 kr. rupií; odhaleno 111 shell společností",
-      "description": "Centrální vyšetřovací úřad Indie (CBI) vznesl obvinění proti 17 osobám včetně čtyř čínských občanů a 58 firmám za účast na kyberpodvodné síti. Tato skupina prý vyvedla přes 1000 kr. rupií prostřednictvím shell společností a digitálních podvodů.",
-      "slug": "cbi-chargesheets-4-chinese-behind-rs-1000-cr-cyber",
-      "publishedAt": "2025-12-14T05:33:13+00:00",
-      "date": "2025-12-14 05:33:13",
-      "importance": 4,
-      "category": "kyberzločin",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125957968,width-1200,height-630,imgsize-87316,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-14/cbi-chargesheets-4-chinese-behind-rs-1000-cr-cyber/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "MercadoLibre (MELI) nasadí humanoidní roboty Digit ve skladu v Texasu",
       "description": "MercadoLibre uzavřela komerční dohodu s Agility Robotics na použití humanoidních robotů Digit v jejich skladu v San Antonio v Texasu. Roboti budou zpočátku podporovat logistické operace, s plány na rozšíření do skladů v Latinské Americe.",
       "slug": "mercadolibre-meli-to-use-digit-robots-in-texas-war",
@@ -4021,26 +4041,6 @@
         "Donald Trump",
         "Xi Jinping"
       ]
-    },
-    {
-      "title": "Články o Nvidia, umělé inteligenci, hackerech, robotické armádě, čipové společnosti a Paramount",
-      "description": "Komunistická strana Číny se snaží ovládat informační technologie jako prostředek k formování a cenzuře komunikace a názorů svých občanů i komunikace osob mimo hranice Číny.",
-      "slug": "articles-on-nvidia-ai-hackers-robot-army-chip-comp",
-      "publishedAt": "2025-12-14T00:00:00+00:00",
-      "date": "2025-12-14 00:00:00",
-      "importance": 4,
-      "category": "čínská cenzura",
-      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
-      "url": "/tech-news/2025-12-14/articles-on-nvidia-ai-hackers-robot-army-chip-comp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hoover.org"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
     }
   ]
 }
